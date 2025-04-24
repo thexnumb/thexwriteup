@@ -29,6 +29,10 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python fetch_rss.py
+
+      - name: Run fetch script
+        run: update_readme.py
+        
       - name: Commit and push changes
         env:
           PAT: ${{ secrets.PAT }}
