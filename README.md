@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 23:32:26 GMT | Palo Alto Networks DNS Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/75c6ea3b3cba) |
+| Thu, 24 Apr 2025 23:29:29 GMT | As falhas invisíveis: como a lógica mal pensada compromete a segurança web | Moprius | [Read More](https://medium.com/p/f904869642d1) |
+| Thu, 24 Apr 2025 23:20:48 GMT | Portable And Securely Designed Electric Scooter | Ericds chisler | [Read More](https://medium.com/p/239ba83469d0) |
+| Thu, 24 Apr 2025 23:17:57 GMT | My First Step Into Cybersecurity: A Journey Fueled by Curiosity and Heart | John Otieno | [Read More](https://medium.com/p/d26f26ec5b26) |
 | Thu, 24 Apr 2025 23:13:42 GMT | HawkEyeSec | Imane Ismail | [Read More](https://medium.com/p/0d2a35e0f18b) |
 | Thu, 24 Apr 2025 23:11:56 GMT | CI/CD Driven Passive Reconnaissance: A DevSecOps Approach to External Attack Surface Enumeration | Onurcan Genç | [Read More](https://medium.com/p/22d4fa3417d7) |
 | Thu, 24 Apr 2025 23:02:00 GMT | The Role of Digital Forensics in Legal Cases Involving Cybercrime | Akshay Chauhan | [Read More](https://medium.com/p/4c024aed37bf) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 16:16:11 GMT | Bug Hunting for Real: Tools, Tactics, and Truths No One Talks About | Ehtesham Ul Haq | [Read More](https://medium.com/p/661f6786d5b3) |
 | Thu, 24 Apr 2025 16:12:11 GMT | A beginner guide to enter into Cybersecurity | Ace Technologies | [Read More](https://medium.com/p/edfbb3d2a7d7) |
 | Thu, 24 Apr 2025 16:10:59 GMT | CodeVulnHunt: Unlock the Secrets of Cybersecurity Vulnerabilities with Real-World Challenges.. | Mithun | [Read More](https://medium.com/p/40592d73f6d6) |
-| Thu, 24 Apr 2025 16:08:18 GMT | Comment éviter de se faire Hacker ? | Techhebergeur | [Read More](https://medium.com/p/911987bd542d) |
-| Thu, 24 Apr 2025 16:06:05 GMT | AI and Cyber Insurance: Protecting Businesses in a Digital Age | Best Insurance Living | [Read More](https://medium.com/p/909514dee733) |
-| Thu, 24 Apr 2025 16:02:19 GMT | What If Compute Was a Public Good? | ITgeek | [Read More](https://medium.com/p/5ea4d41af6b3) |
-| Thu, 24 Apr 2025 15:56:50 GMT | Quantum Leap Forward: .NET and C# in Quantum Computing | Stanislav Babenko | [Read More](https://medium.com/p/db57f3e50df3) |
