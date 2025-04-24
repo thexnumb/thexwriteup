@@ -4,6 +4,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 17:29:01 GMT | picoCTF Writeup — Hashcrack | Yanek K | [Read More](https://medium.com/p/7dcebbcae383) |
+| Thu, 24 Apr 2025 17:21:38 GMT | Corporate Greed Chronicles: 20% Purge at Intel | Namir Sagheenanajar | [Read More](https://medium.com/p/867ca33c5373) |
 | Thu, 24 Apr 2025 17:14:17 GMT | Fixing OWASP API9:2023 — Improper Inventory Management in Symfony 7 | Tihomir Manushev | [Read More](https://medium.com/p/aa7ad4a3db0a) |
 | Thu, 24 Apr 2025 17:13:57 GMT | (Offsec) Exghost — PG Practice Walkthrough | Rajesh Mondal | [Read More](https://medium.com/p/f30795c3e395) |
 | Thu, 24 Apr 2025 17:06:53 GMT | Penerapan Kanonikalisasi Dalam Validasi Input | Raihan Julyandri | [Read More](https://medium.com/p/8566a3b8e4a7) |
@@ -102,5 +104,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 09:39:32 GMT | Day15:  Cracking the Code: Securing Authentication Beyond Just Passwords | Agarwaldaksh | [Read More](https://medium.com/p/8646dd0f5306) |
 | Thu, 24 Apr 2025 09:26:58 GMT | Mastering Linux Privilege Escalation: Part 2 — Cron, Sudo, Kernel, and PATH Exploits | Very Lazy Tech | [Read More](https://medium.com/p/ace9404ecfec) |
 | Thu, 24 Apr 2025 09:04:29 GMT | Why Cyber Insurance Alone Isn’t Enough Anymore | How Know | [Read More](https://medium.com/p/8667b1b1bd04) |
-| Thu, 24 Apr 2025 09:03:35 GMT | Cybersecurity vs Information Security: What You Need to Know | SecureSlate | [Read More](https://medium.com/p/3ac13a6f5b1f) |
-| Thu, 24 Apr 2025 08:53:13 GMT | Deep System Recon and Memory Manipulation in C from Scratch | TechBaz | [Read More](https://medium.com/p/6edb90936887) |
