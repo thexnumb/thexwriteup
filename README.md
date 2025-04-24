@@ -14,7 +14,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 21:13:34 GMT | Excessive Permission Scope: When AI Access Goes Too Far** | Gal Moshkovitz | [Read More](https://medium.com/p/3e0a70dbf7ff) |
+| Thu, 24 Apr 2025 21:05:20 GMT | THE IMPORTANCE OF HAVING A SECURE WEBSITE | Hooria Buksh | [Read More](https://medium.com/p/61e700a98740) |
+| Thu, 24 Apr 2025 21:05:06 GMT | Custom Tooling Using Python: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/0800111cfd9e) |
+| Thu, 24 Apr 2025 21:03:44 GMT | Building a Virtual SOC Lab with VMware: Setting Up a Windows Server Domain, Linux Syslog Server… | Adrian Gonzalez | [Read More](https://medium.com/p/a2ec2535f2a9) |
+| Thu, 24 Apr 2025 21:02:27 GMT | The Importance of Cybersecurity Training for Employees: Your First Line of Defense | John Locke | [Read More](https://medium.com/p/8e90c425ee70) |
+| Thu, 24 Apr 2025 20:51:56 GMT | How to do Security Analysis | Tyler Wall | [Read More](https://medium.com/p/acbc67c1c963) |
+| Thu, 24 Apr 2025 20:51:03 GMT | Understanding Guest Users in Microsoft Teams | Peter Baddeley | [Read More](https://medium.com/p/748adb01dc77) |
+| Thu, 24 Apr 2025 20:49:49 GMT | A Gentle Introduction to AI Red Teaming | Jackson Bennett | [Read More](https://medium.com/p/08d73c8eff45) |
+| Thu, 24 Apr 2025 20:41:20 GMT | Serverless Solutions: Navigating the Efficiency-Security Tightrope | Hajiaga Sadikhov | [Read More](https://medium.com/p/2560f328c275) |
+| Thu, 24 Apr 2025 20:36:53 GMT | The Billboard Ad that Shields A Generation | Precious Adeagbo | [Read More](https://medium.com/p/ce03b8e3dd53) |
 | Thu, 24 Apr 2025 20:35:30 GMT | Explode vulnerabilities, protect your system | Progsky | [Read More](https://medium.com/p/c0ea7ab47344) |
+| Thu, 24 Apr 2025 20:33:09 GMT | ‍ From Zero to Entra Hero: Dive Into Microsoft Identity Labs | ChirchirMeshack | [Read More](https://medium.com/p/f5dbcb0f39a7) |
 | Thu, 24 Apr 2025 20:29:07 GMT | Custom Tooling Using Python : TryHackMe Walkthrough - Automated Penetration Testing | RosanaFSS | [Read More](https://medium.com/p/c8713b3cc576) |
 | Thu, 24 Apr 2025 20:23:33 GMT | Civilization. The last page. (66) | Jan Slort | [Read More](https://medium.com/p/80995e558d81) |
 | Thu, 24 Apr 2025 20:17:47 GMT | SSTI ve CSTI Zafiyetleri Nelerdir? | Emirhan Sevmez | [Read More](https://medium.com/p/b34f938a98e0) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 14:35:24 GMT | How I Reported My First Vulnerability | 0x004sec | [Read More](https://medium.com/p/b4504ed77ec5) |
 | Thu, 24 Apr 2025 14:26:21 GMT | Security by Shame: How Fear-Based Messaging Breaks Behavior | MrsNo1Special | [Read More](https://medium.com/p/66aa5197b73e) |
 | Thu, 24 Apr 2025 14:20:30 GMT | Beyond the Schema: Understanding and Mitigating GraphQL Security Risks | Tanvi Chauhan | [Read More](https://medium.com/p/48f5264ed050) |
-| Thu, 24 Apr 2025 14:17:26 GMT | Preventing Inflation Attacks with an ERC4626 Router | Smol Musk | [Read More](https://medium.com/p/9090e94cb2d0) |
-| Thu, 24 Apr 2025 14:16:52 GMT | The Python Developer’s Guide: Mastering Automated Workflows with GitHub Actions | Mayuresh K | [Read More](https://medium.com/p/505110d89185) |
-| Thu, 24 Apr 2025 14:13:24 GMT | ⚠️ 159 CVEs Exploited in Q1 2025–28.3% Within 24 Hours of Disclosure | Ismail Tasdelen | [Read More](https://medium.com/p/42740d7821a9) |
-| Thu, 24 Apr 2025 14:10:34 GMT | Unveiling the io_uring Rootkit: A New Era of Stealth in Linux | Ismail Tasdelen | [Read More](https://medium.com/p/7bb6ec080bb9) |
-| Thu, 24 Apr 2025 14:08:09 GMT | The Tiny Griefs That No One Talks About | Shahd Kdimati | [Read More](https://medium.com/p/f262972b09fb) |
-| Thu, 24 Apr 2025 14:06:51 GMT | Darcula 3.0: How GenAI Is Powering the Next Generation of Phishing-as-a-Service | Ismail Tasdelen | [Read More](https://medium.com/p/1e0d8d832d5a) |
-| Thu, 24 Apr 2025 14:05:05 GMT | ️‍♂️ Google Dorks: The Power of Advanced Search Operators | Het Patel | [Read More](https://medium.com/p/d6c7e1d61b95) |
-| Thu, 24 Apr 2025 14:02:13 GMT | Critical Commvault Command Center Vulnerability: A Deep Dive into CVE-2025–34028​ | Ismail Tasdelen | [Read More](https://medium.com/p/ad6c83c2dbe1) |
-| Thu, 24 Apr 2025 14:01:17 GMT | Cyber Briefing: 2025.04.24 | CyberMaterial | [Read More](https://medium.com/p/addcb386c368) |
-| Thu, 24 Apr 2025 13:57:09 GMT | Found a bug? Get rewarded! | Roma | [Read More](https://medium.com/p/94a922aa8ff9) |
-| Thu, 24 Apr 2025 13:56:20 GMT | Нашёл баг — получил награду! | Roma | [Read More](https://medium.com/p/e936631f5e02) |
