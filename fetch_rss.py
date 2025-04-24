@@ -104,16 +104,22 @@ def notify_discord(entry):
 
     emoji = "📰"
     markdown_description = html_to_markdown(entry["description"])
-    short_desc = truncate_description(markdown_description)
+
+    # Remove lines that contain only [](...)
+    cleaned_lines = []
+    for line in markdown_description.splitlines():
+        if not re.match(r"^\[\]\(.*?\)$", line.strip()):
+            cleaned_lines.append(line)
+    cleaned_description = "\n".join(cleaned_lines)
+
+    short_desc = truncate_description(cleaned_description)
 
     message = f"""\
- # {emoji} {entry['title']}
----
-```plaintext
+# {emoji} {entry['title']}
+
 {short_desc}
-```
----
-At `{entry['date']}`
+
+by **{entry['author']}** at `{entry['date']}`
 """
 
     payload = {
