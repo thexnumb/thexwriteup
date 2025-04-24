@@ -27,8 +27,9 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python fetch_rss.py
-
       - name: Commit and push changes
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -37,5 +38,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update articles.csv with new RSS items"
-            git push
+            git push https://x-access-token:${PAT}@github.com/${{ github.repository }}.git HEAD:main
           fi
