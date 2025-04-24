@@ -37,7 +37,7 @@ def write_readme(table_content):
 
 def main():
     articles = read_articles()
-    articles = sorted(articles, key=lambda x: x.get("date", ""), reverse=True)
+    articles = sorted(articles, key=lambda x: x.get("date", ""))
     markdown_table = format_markdown_table(articles)
     write_readme(markdown_table)
 
