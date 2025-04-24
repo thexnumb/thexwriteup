@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 18:15:07 GMT | Artificial Intelligence Is Extremely Unpredictable | Zayne Harbison | [Read More](https://medium.com/p/63e9410f6df7) |
+| Thu, 24 Apr 2025 18:10:21 GMT | Zincirin Dışında: Off-Chain Çözümler | Berat Ege Akgün | [Read More](https://medium.com/p/44ee6bb96556) |
+| Thu, 24 Apr 2025 18:08:17 GMT | China Launches the World’s First 10G Broadband Network—A Glimpse into the Future of Connectivity | Emily Wilson | [Read More](https://medium.com/p/df5956a4088e) |
+| Thu, 24 Apr 2025 18:06:23 GMT | Gift - HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/d08690b398b6) |
+| Thu, 24 Apr 2025 18:02:51 GMT | Cybersecurity Basics: Why It Matters More Than Ever — With Insights from Paul Leongas | Paul Leongas | [Read More](https://medium.com/p/2c8ddf00ed9d) |
+| Thu, 24 Apr 2025 17:57:58 GMT | How a Simple Image Can Unlock Hidden Data and Hack a System | Evyeveline | [Read More](https://medium.com/p/cf8f5a005db5) |
+| Thu, 24 Apr 2025 17:57:12 GMT | Realtek Attack Observation CVE-2021–35394 | amxlm | [Read More](https://medium.com/p/339df2cff96e) |
+| Thu, 24 Apr 2025 17:51:23 GMT | What is Endpoint Security and Why Your Business Needs It Now | SafeAeon Inc. | [Read More](https://medium.com/p/836ac7024c5a) |
+| Thu, 24 Apr 2025 17:44:12 GMT | Can a chatbot without filters be your next productivity hack? | TheReviewHive | [Read More](https://medium.com/p/b43c99a41db0) |
 | Thu, 24 Apr 2025 17:37:43 GMT | Bulutları Fetheden Üç Kral: Türkiye Pazarında AWS, Azure ve Alibaba Cloud | Arda Cinar | [Read More](https://medium.com/p/69ab87d8b500) |
 | Thu, 24 Apr 2025 17:36:23 GMT | How to Detect Malware and Insecure Content in Outlook .MSG Files Using .NET | Cloudmersive | [Read More](https://medium.com/p/70471ba5b041) |
 | Thu, 24 Apr 2025 17:29:01 GMT | picoCTF Writeup — Hashcrack | Yanek K | [Read More](https://medium.com/p/7dcebbcae383) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 11:10:09 GMT | Prototype Pollution in Open Source Libraries: Exploiting RCE in EJS | Alberto Charabati | [Read More](https://medium.com/p/ae93016630a3) |
 | Thu, 24 Apr 2025 11:09:54 GMT | A CEO’s Guide to Cyber Risk: How to Protect Your Organization | Aladdincyberuae | [Read More](https://medium.com/p/1904e66e9768) |
 | Thu, 24 Apr 2025 11:03:53 GMT | Understanding Wireless Networks | Raja Muhammad Mustansar Javaid | [Read More](https://medium.com/p/88b3d9631943) |
-| Thu, 24 Apr 2025 10:49:49 GMT | DC-1 VulnHub Walkthrough | Aadi | [Read More](https://medium.com/p/99e1a6c422fe) |
-| Thu, 24 Apr 2025 10:35:31 GMT | What is External Penetration Testing? | Craw Cyber Security | [Read More](https://medium.com/p/dcd4fe2af118) |
-| Thu, 24 Apr 2025 10:15:13 GMT | Beware: The WhatsApp Verification Code Scam Targeting South Africans | Mohamedelsheikh | [Read More](https://medium.com/p/e7f324e4af1f) |
-| Thu, 24 Apr 2025 10:12:28 GMT | Securing GCP Instances using Firewall rules | @jacob_sec | [Read More](https://medium.com/p/7817dd397973) |
-| Thu, 24 Apr 2025 10:11:16 GMT | Auth in the Real World | Mark Achiles G. Flores Jr. | [Read More](https://medium.com/p/0bd1084e91a4) |
-| Thu, 24 Apr 2025 10:10:16 GMT | What is Reptar Vulnerability? | InfosecTrain | [Read More](https://medium.com/p/d37ca4221129) |
-| Thu, 24 Apr 2025 10:09:57 GMT | Sysinternals Tools: A Comprehensive Guide for Windows Security and Management | Furkanctiner | [Read More](https://medium.com/p/7f07fe29ff9d) |
-| Thu, 24 Apr 2025 10:07:22 GMT | Top Things You should Consider Before Hiring an App Development Company | Apptechies | [Read More](https://medium.com/p/579c572223c1) |
-| Thu, 24 Apr 2025 09:39:32 GMT | Day15:  Cracking the Code: Securing Authentication Beyond Just Passwords | Agarwaldaksh | [Read More](https://medium.com/p/8646dd0f5306) |
