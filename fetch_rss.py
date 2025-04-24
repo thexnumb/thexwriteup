@@ -96,31 +96,31 @@ def truncate_description(description):
     lines = description.strip().splitlines()
     return "\n".join(lines[-5:])
 
-#def notify_discord(entry):
-#    """Send a nicely formatted message to Discord."""
-#    if not DISCORD_WEBHOOK_URL:
-#        print("Discord webhook URL is not set.")
-#        return
+def notify_discord(entry):
+    """Send a nicely formatted message to Discord."""
+    if not DISCORD_WEBHOOK_URL:
+        print("Discord webhook URL is not set.")
+        return
 
-#    emoji = "📰"
-#    markdown_description = html_to_markdown(entry["description"])
-#    short_desc = truncate_description(markdown_description)
+    emoji = "📰"
+    markdown_description = html_to_markdown(entry["description"])
+    short_desc = truncate_description(markdown_description)
 
-#    message = f"""\
-# {emoji} {entry['title']}
+    message = f"""\
+ {emoji} {entry['title']}
 
-#{short_desc}
+{short_desc}
+---
+At `{entry['date']}`
+"""
 
-#by **{entry['author']}** at `{entry['date']}`
-#"""
+    payload = {
+        "content": message
+    }
 
- #   payload = {
-  #      "content": message
-   # }
-
-    #response = requests.post(DISCORD_WEBHOOK_URL, json=payload)
-    #if response.status_code != 204:
-     #   print(f"Failed to send Discord message: {response.status_code}, {response.text}")
+    response = requests.post(DISCORD_WEBHOOK_URL, json=payload)
+    if response.status_code != 204:
+        print(f"Failed to send Discord message: {response.status_code}, {response.text}")
 
 def save_entry(entry):
     """Save new entry to the CSV file."""
@@ -150,7 +150,7 @@ def fetch_and_process_feeds():
             }
 
             save_entry(new_entry)
-            #notify_discord(new_entry)
+            notify_discord(new_entry)
             seen_guids.add(guid)
 
 if __name__ == "__main__":
