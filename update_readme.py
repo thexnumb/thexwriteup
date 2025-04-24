@@ -1,43 +1,42 @@
 import csv
+from datetime import datetime
 
-ARTICLES_FILE = "articles.csv"
+CSV_FILE = "articles.csv"
 README_FILE = "README.md"
 
 def read_articles():
-    with open(ARTICLES_FILE, newline='', encoding="utf-8") as csvfile:
+    with open(CSV_FILE, newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         return list(reader)
 
 def format_markdown_table(articles):
-    table = "| Date | Title | Author | Link |\n"
-    table += "|------|-------|--------|------|\n"
+    header = "| Date | Title | Author | Link |\n"
+    separator = "|------|-------|--------|------|\n"
+    rows = []
+
     for article in articles:
+        date = article.get("date", "N/A")
+        title = article.get("title", "N/A").replace("|", "-")
+        author = article.get("author", "N/A").replace("|", "-")
         link = article.get("link", "").strip()
-        link_md = f"[Read More]({link})" if link else "N/A"
-        table += f"| {article['date']} | {article['title']} | {article['author']} | {link_md} |\n"
-    return table
 
-def update_readme(table):
-    try:
-        with open(README_FILE, "r", encoding="utf-8") as f:
-            content = f.read()
-    except FileNotFoundError:
-        content = "# TheX Writeups\n\n## Recent Articles\n\n"
+        link_display = f"[Read More]({link})" if link and link != "N/A" else "N/A"
+        row = f"| {date} | {title} | {author} | {link_display} |"
+        rows.append(row)
 
-    if "## Recent Articles" in content:
-        parts = content.split("## Recent Articles")
-        content = parts[0] + "## Recent Articles\n\n" + table
-    else:
-        content += "\n## Recent Articles\n\n" + table
+    return header + separator + "\n".join(rows)
 
-    with open(README_FILE, "w", encoding="utf-8") as f:
-        f.write(content)
+def write_readme(table_content):
+    with open(README_FILE, "w", encoding="utf-8") as readme:
+        readme.write("# 📝 Latest Articles\n\n")
+        readme.write("A list of the latest fetched articles from RSS feeds.\n\n")
+        readme.write(table_content)
 
 def main():
     articles = read_articles()
-    articles.reverse()  # Newest first
+    articles = sorted(articles, key=lambda x: x.get("date", ""), reverse=True)  # newest first
     markdown_table = format_markdown_table(articles)
-    update_readme(markdown_table)
+    write_readme(markdown_table)
 
 if __name__ == "__main__":
     main()
