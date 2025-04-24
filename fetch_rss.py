@@ -8,7 +8,7 @@ import html2text
 CSV_FILE = "articles.csv"
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 
-FEED_URLS = [
+RSS_FEEDS = [
     "https://medium.com/feed/tag/bug-bounty",
     "https://medium.com/feed/tag/security",
     "https://medium.com/feed/tag/vulnerability",
