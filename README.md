@@ -14,6 +14,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 20:17:47 GMT | SSTI ve CSTI Zafiyetleri Nelerdir? | Emirhan Sevmez | [Read More](https://medium.com/p/b34f938a98e0) |
+| Thu, 24 Apr 2025 20:15:29 GMT | What about Information Disclosure Vulnerability? Scenarios? Mitigations? | Adham Hashem | [Read More](https://medium.com/p/8902d40cce0f) |
+| Thu, 24 Apr 2025 20:10:25 GMT | Your Dev Team Is Replaceable. Just Add VRAM. | Aleksandr Makarenko | [Read More](https://medium.com/p/6ee5c426d8a2) |
+| Thu, 24 Apr 2025 20:00:47 GMT | ST/CYBER-SECURITY PRACTICUM — Network Security Monitoring Rotation at ORTSOC | Vidhi Kadakia | [Read More](https://medium.com/p/d44005cb8a61) |
+| Thu, 24 Apr 2025 19:53:52 GMT | A Satanic Mass :: How to install TeamViewer on Kali Linux | Francesco Mantovani | [Read More](https://medium.com/p/e9eaad8d3756) |
+| Thu, 24 Apr 2025 19:51:51 GMT | How to Talk to Kids about the Latest Online Challenge Trend on Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/42d4ac79c0d8) |
+| Thu, 24 Apr 2025 19:50:56 GMT | The SEO Boost You Might Be Missing | Janeel Abrahams | [Read More](https://medium.com/p/4d6e6e8c4da1) |
+| Thu, 24 Apr 2025 19:48:05 GMT | Exploring the Comfort of Swaddle Blankets in the Maternal and Baby Products Industry | Lakshmanhemsley | [Read More](https://medium.com/p/f8bcf5ee6923) |
+| Thu, 24 Apr 2025 19:47:55 GMT | Savvy Cyber Kids Featured in New York Times Cover Story | Savvy Cyber Kids | [Read More](https://medium.com/p/56ef5de0a119) |
+| Thu, 24 Apr 2025 19:46:55 GMT | ️ Best Free Antivirus Apps in 2025 (For Android & Windows) | Tech Min 60 | [Read More](https://medium.com/p/3791fb0ad1ab) |
+| Thu, 24 Apr 2025 19:41:54 GMT | STH Mini Web CTF 2025 — Walkthrough by kt1209 | kt1209 | [Read More](https://medium.com/p/50f4f199ed4f) |
+| Thu, 24 Apr 2025 19:41:40 GMT | Exposing my homelab | 410 Gone | [Read More](https://medium.com/p/50ae06832f86) |
+| Thu, 24 Apr 2025 19:31:24 GMT | 5 Ways to Protect Your Kid from Dangerous YouTube Content | Savvy Cyber Kids | [Read More](https://medium.com/p/8c000742ca2b) |
+| Thu, 24 Apr 2025 19:29:24 GMT | :     … | Sami Almaddan | [Read More](https://medium.com/p/d93dd94f0666) |
 | Thu, 24 Apr 2025 19:28:49 GMT | Why We Write Logs (and Why It Matters More Than You Think) | Jens@Fivesec | [Read More](https://medium.com/p/e1a79559ce74) |
 | Thu, 24 Apr 2025 19:21:33 GMT | eCPPT — Powershell for Pentesters CTF 1 INE | Md. Imran Chowdhury | [Read More](https://medium.com/p/ace152f7d2b9) |
 | Thu, 24 Apr 2025 19:14:32 GMT | The 7 Dumbest Ways Small Businesses Get Hacked (And How to Avoid Them) | Abdelaziz moustakim | [Read More](https://medium.com/p/1c0a14ac3eb1) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 13:47:17 GMT | Wi-Fi Kablosuz Ağ Güvenliği | umut akdoğan | [Read More](https://medium.com/p/ced78a525554) |
 | Thu, 24 Apr 2025 13:22:12 GMT | Understanding Happiness | Susan Johnson: | [Read More](https://medium.com/p/bc42d887bbee) |
 | Thu, 24 Apr 2025 13:14:53 GMT | The Lie of Deletion: Where Files Really Go When You Hit ‘Delete’ | Musa Yusuf Magoban | [Read More](https://medium.com/p/51a557a60839) |
-| Thu, 24 Apr 2025 13:13:51 GMT | Broken Access Control - Unauthorized users able to add customer | Ahmad Tazkiarni Ramadhan | [Read More](https://medium.com/p/fd8176343650) |
-| Thu, 24 Apr 2025 13:03:32 GMT | Faithful to Myself | Elowen Rue | [Read More](https://medium.com/p/83a940a18ee2) |
-| Thu, 24 Apr 2025 13:03:13 GMT | The Security History of Solana | Victor_TheOracle | [Read More](https://medium.com/p/3898fc7e4b60) |
-| Thu, 24 Apr 2025 13:01:01 GMT | Le programme CVE menacé : un pilier de la cybersécurité sauvé in extremis | Marc Barbezat | [Read More](https://medium.com/p/ffc5e8db57af) |
-| Thu, 24 Apr 2025 13:00:48 GMT | How Do Cybercriminals Use AI-Powered Malware? | Sanchitamishra | [Read More](https://medium.com/p/55e63e34b770) |
-| Thu, 24 Apr 2025 12:40:56 GMT | Exposing Remote Code Execution: A Security Analyst’s Guide to RCE Discovery | Tanvi Chauhan | [Read More](https://medium.com/p/cf1efc128a40) |
-| Thu, 24 Apr 2025 12:37:00 GMT | How Bad Actors Use Technology to Silence and Intimidate their Targets Like Elara Cross | Ivy Macy | [Read More](https://medium.com/p/738ecf44cac3) |
-| Thu, 24 Apr 2025 12:25:47 GMT | 「未來最搶手的人才，是會教 AI 做事的人」：我從 AI Agent 講座學到的那些事 | Melody Hsiao蕭詠甄 | [Read More](https://medium.com/p/e5bcc58c98dd) |
-| Thu, 24 Apr 2025 12:21:28 GMT | The Ethics of AI in Cybersecurity: Striking the Right Balance | Ashir Alam | [Read More](https://medium.com/p/01e7de3e4875) |
-| Thu, 24 Apr 2025 12:10:15 GMT | How Artificial Intelligence is Redefining Cyber Threat Detection | Tech Caps | [Read More](https://medium.com/p/0645ead77e27) |
-| Thu, 24 Apr 2025 12:09:01 GMT | How AI and ML Are Shaping the Future of Cybersecurity | West Advanced Technologies Inc | [Read More](https://medium.com/p/c11652f79c8e) |
-| Thu, 24 Apr 2025 12:08:49 GMT | Deciphering the difficulty: CISA vs. CISM | VERSAtile Reads | [Read More](https://medium.com/p/ec737cf32089) |
-| Thu, 24 Apr 2025 12:04:37 GMT | How I’m Learning Web3.0(Blockchain) Bug Bounties from Scratch And Sharing Everything. | Nitin Gutte | [Read More](https://medium.com/p/d8cf248121b4) |
-| Thu, 24 Apr 2025 11:52:55 GMT | Bypassed the Invite Flow, Gained Admin Access | Killua | [Read More](https://medium.com/p/d37347d57468) |
