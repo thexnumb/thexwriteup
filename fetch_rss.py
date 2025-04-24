@@ -1,8 +1,12 @@
 import feedparser
 import csv
-from datetime import datetime
 import os
 import requests
+from datetime import datetime
+import html2text
+
+CSV_FILE = "articles.csv"
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 
 FEED_URLS = [
     "https://medium.com/feed/tag/bug-bounty",
@@ -71,72 +75,83 @@ FEED_URLS = [
         "https://medium.com/feed/tag/cyber-sec"
 ]
 
-CSV_FILE = "articles.csv"
-DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")  # Store this in GitHub Secrets
-
-def fetch_articles():
-    entries = []
-    for url in FEED_URLS:
-        feed = feedparser.parse(url)
-        for entry in feed.entries:
-            title = entry.title.strip()
-            author = entry.get("author", "Unknown").strip()
-            description = entry.get("summary", "").strip()
-            pub_date = entry.get("published", "").strip()
-            entries.append({
-                "title": title,
-                "author": author,
-                "description": description,
-                "date": pub_date
-            })
-    return entries
-
-def load_existing_titles():
+def load_existing_guids():
+    """Load GUIDs from existing CSV to avoid duplicates."""
     if not os.path.exists(CSV_FILE):
         return set()
-    with open(CSV_FILE, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        return set(row["Title"] for row in reader)
 
-def save_to_csv(entries):
-    file_exists = os.path.isfile(CSV_FILE)
-    with open(CSV_FILE, mode="a", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["Title", "Author", "Description", "Date"])
-        if not file_exists:
-            writer.writeheader()
-        for entry in entries:
-            writer.writerow({
-                "Title": entry["title"],
-                "Author": entry["author"],
-                "Description": entry["description"],
-                "Date": entry["date"]
-            })
+    with open(CSV_FILE, newline="", encoding="utf-8") as csvfile:
+        return {row["guid"] for row in csv.DictReader(csvfile)}
 
-def truncate_description(desc):
-    lines = desc.splitlines()
-    return "\n".join(lines[-5:]) if len(lines) > 5 else desc
+def html_to_markdown(html):
+    """Convert HTML to clean markdown."""
+    h = html2text.HTML2Text()
+    h.ignore_links = False
+    h.ignore_images = True
+    h.body_width = 0
+    return h.handle(html).strip()
+
+def truncate_description(description):
+    """Get the last 5 lines from the description."""
+    lines = description.strip().splitlines()
+    return "\n".join(lines[-5:])
 
 def notify_discord(entry):
+    """Send a nicely formatted message to Discord."""
     if not DISCORD_WEBHOOK_URL:
         print("Discord webhook URL is not set.")
         return
 
-    message = f"""**{entry['title']}**
+    emoji = "📰"
+    markdown_description = html_to_markdown(entry["description"])
+    short_desc = truncate_description(markdown_description)
 
-{truncate_description(entry['description'])}
+    message = f"""\
+# {emoji} {entry['title']}
 
-by {entry['author']} at {entry['date']}
+{short_desc}
+
+by **{entry['author']}** at `{entry['date']}`
 """
-    response = requests.post(DISCORD_WEBHOOK_URL, json={"content": message})
+
+    payload = {
+        "content": message
+    }
+
+    response = requests.post(DISCORD_WEBHOOK_URL, json=payload)
     if response.status_code != 204:
-        print(f"Failed to send message to Discord: {response.text}")
+        print(f"Failed to send Discord message: {response.status_code}, {response.text}")
+
+def save_entry(entry):
+    """Save new entry to the CSV file."""
+    file_exists = os.path.exists(CSV_FILE)
+    with open(CSV_FILE, mode="a", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=["title", "author", "description", "date", "guid"])
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(entry)
+
+def fetch_and_process_feeds():
+    seen_guids = load_existing_guids()
+
+    for url in RSS_FEEDS:
+        feed = feedparser.parse(url)
+        for entry in feed.entries:
+            guid = entry.get("id") or entry.get("link")
+            if guid in seen_guids:
+                continue
+
+            new_entry = {
+                "title": entry.get("title", "No Title"),
+                "author": entry.get("author", "Unknown"),
+                "description": entry.get("summary", "No Description"),
+                "date": entry.get("published", datetime.utcnow().isoformat()),
+                "guid": guid
+            }
+
+            save_entry(new_entry)
+            notify_discord(new_entry)
+            seen_guids.add(guid)
 
 if __name__ == "__main__":
-    all_articles = fetch_articles()
-    seen_titles = load_existing_titles()
-    new_articles = [a for a in all_articles if a["title"] not in seen_titles]
-
-    if new_articles:
-        save_to_csv(new_articles)
-        for article in new_articles:
-            notify_discord(article)
+    fetch_and_process_feeds()
