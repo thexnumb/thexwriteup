@@ -14,8 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 21:58:21 GMT | Aragog (Vulnhub) | S4ntiHack | [Read More](https://medium.com/p/0211ca0ed270) |
+| Thu, 24 Apr 2025 21:47:01 GMT | The Danger of Dissidence | Anina Gedzelman | [Read More](https://medium.com/p/587c387d43d4) |
 | Thu, 24 Apr 2025 21:29:52 GMT | Is Information Technology Hard? Here’s What You Need to Know | Smart Solutions | [Read More](https://medium.com/p/8d5854be5c9a) |
 | Thu, 24 Apr 2025 21:26:08 GMT | Cybersecurity Isn’t a Luxury — It’s Your Business’s Lifeline | Donald Betancourt | [Read More](https://medium.com/p/7807b2c842ec) |
+| Thu, 24 Apr 2025 21:23:58 GMT | PHP REST API Cybersecurity — from zero to hero | Demianchuk Sergii | [Read More](https://medium.com/p/ba7a1ecbe527) |
 | Thu, 24 Apr 2025 21:23:01 GMT | ENDPOINT DETECTION AND RESPONSE (EDR) NEDİR? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/7ab3cbdaf1bf) |
 | Thu, 24 Apr 2025 21:16:42 GMT | 6 Cloud Vulnerabilities You Need to Watch Out For in 2025 | Xaltius | [Read More](https://medium.com/p/2249d287b472) |
 | Thu, 24 Apr 2025 21:13:34 GMT | Excessive Permission Scope: When AI Access Goes Too Far** | Gal Moshkovitz | [Read More](https://medium.com/p/3e0a70dbf7ff) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 15:12:00 GMT | When Your Antivirus Starts Acting Like a Virus | Vijay Kumar Gupta | [Read More](https://medium.com/p/6942f5da1d47) |
 | Thu, 24 Apr 2025 15:05:35 GMT | Security forgotten? Release on house arrest sparks outrage in Pickering Casino killing | Scott Hill | [Read More](https://medium.com/p/c3153b5bf2ec) |
 | Thu, 24 Apr 2025 14:59:24 GMT | 20 API Security Tips | Sina Riyahi | [Read More](https://medium.com/p/96a123fe7130) |
-| Thu, 24 Apr 2025 14:48:45 GMT | 5.5 Million Patients Affected by Massive Data Breach at Yale New Haven Health | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/1b6af74990f8) |
-| Thu, 24 Apr 2025 14:45:19 GMT | The Power Of Imperfection | Amna Javaid | [Read More](https://medium.com/p/7124c0e7491e) |
-| Thu, 24 Apr 2025 14:42:46 GMT | Yopmail: The Ultimate Disposable Email Service for Privacy and Convenience | Shashanka Luitel | [Read More](https://medium.com/p/602ebd177d1d) |
