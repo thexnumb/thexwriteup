@@ -107,9 +107,11 @@ def notify_discord(entry):
     short_desc = truncate_description(markdown_description)
 
     message = f"""\
- {emoji} {entry['title']}
-
+ # {emoji} {entry['title']}
+---
+```plaintext
 {short_desc}
+```
 ---
 At `{entry['date']}`
 """
