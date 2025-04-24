@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 19:06:40 GMT | Inject, Exploit, Repeat: Real-World Adventures in XSS | Isv | [Read More](https://medium.com/p/a8fd8f7066c8) |
+| Thu, 24 Apr 2025 18:58:49 GMT | ChatGPT Hacking Attacks: AI Security Concerns from 2025 Vulnerabilities | Li Zixiang | [Read More](https://medium.com/p/844ab1d52b3d) |
+| Thu, 24 Apr 2025 18:58:08 GMT | How to Build Skills for a Successful SOC Analyst Career | Tyler Wall | [Read More](https://medium.com/p/ad6460e132b2) |
 | Thu, 24 Apr 2025 18:35:00 GMT | Zincirin Dışında: Off-Chain Çözümler | Berat Ege Akgün | [Read More](https://medium.com/p/9a58195188b9) |
 | Thu, 24 Apr 2025 18:32:51 GMT | I Thought Staying Quiet Would Keep Me Loved — It Didn’t | A Wildflower Whispers | [Read More](https://medium.com/p/b312785708f3) |
 | Thu, 24 Apr 2025 18:21:51 GMT | WhatsApp’s New AI Chatbot: Convenience or Concern? | Taylan İrak | [Read More](https://medium.com/p/2d8d8152edee) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 11:51:23 GMT | Hack The Box: Jerry Walkthrough (Beginner Windows Box) | packetsniper | [Read More](https://medium.com/p/7522124cb402) |
 | Thu, 24 Apr 2025 11:46:08 GMT | Best Network Sniffing Techniques | InfosecTrain | [Read More](https://medium.com/p/68b3fc5f5de0) |
 | Thu, 24 Apr 2025 11:41:46 GMT | How I Bypassed Template Escaping and Triggered a Reflected XSS Popup | Zoningxtr | [Read More](https://medium.com/p/9567d45fd31c) |
-| Thu, 24 Apr 2025 11:36:39 GMT | Automating Zero Trust in Healthcare: A Critical Shift Toward Cyber Resilience | CyBlog | [Read More](https://medium.com/p/b37e786b04b6) |
-| Thu, 24 Apr 2025 11:20:40 GMT | How to Use AI to 10x Documentation Speed (Without Losing Quality) | Parag Shivanekar | [Read More](https://medium.com/p/95a9f56221ab) |
-| Thu, 24 Apr 2025 11:18:58 GMT | Administrator - HackTheBox | Mohamed Eletreby | [Read More](https://medium.com/p/e09d08844677) |
