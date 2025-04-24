@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 21:29:52 GMT | Is Information Technology Hard? Here’s What You Need to Know | Smart Solutions | [Read More](https://medium.com/p/8d5854be5c9a) |
+| Thu, 24 Apr 2025 21:26:08 GMT | Cybersecurity Isn’t a Luxury — It’s Your Business’s Lifeline | Donald Betancourt | [Read More](https://medium.com/p/7807b2c842ec) |
+| Thu, 24 Apr 2025 21:23:01 GMT | ENDPOINT DETECTION AND RESPONSE (EDR) NEDİR? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/7ab3cbdaf1bf) |
+| Thu, 24 Apr 2025 21:16:42 GMT | 6 Cloud Vulnerabilities You Need to Watch Out For in 2025 | Xaltius | [Read More](https://medium.com/p/2249d287b472) |
 | Thu, 24 Apr 2025 21:13:34 GMT | Excessive Permission Scope: When AI Access Goes Too Far** | Gal Moshkovitz | [Read More](https://medium.com/p/3e0a70dbf7ff) |
 | Thu, 24 Apr 2025 21:05:20 GMT | THE IMPORTANCE OF HAVING A SECURE WEBSITE | Hooria Buksh | [Read More](https://medium.com/p/61e700a98740) |
 | Thu, 24 Apr 2025 21:05:06 GMT | Custom Tooling Using Python: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/0800111cfd9e) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 14:48:45 GMT | 5.5 Million Patients Affected by Massive Data Breach at Yale New Haven Health | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/1b6af74990f8) |
 | Thu, 24 Apr 2025 14:45:19 GMT | The Power Of Imperfection | Amna Javaid | [Read More](https://medium.com/p/7124c0e7491e) |
 | Thu, 24 Apr 2025 14:42:46 GMT | Yopmail: The Ultimate Disposable Email Service for Privacy and Convenience | Shashanka Luitel | [Read More](https://medium.com/p/602ebd177d1d) |
-| Thu, 24 Apr 2025 14:41:51 GMT | Lazarus Strikes Again: Exploiting South Korean Firms via Cross EX, Innorix, and ThreatNeedle… | Ismail Tasdelen | [Read More](https://medium.com/p/032ccdc36894) |
-| Thu, 24 Apr 2025 14:35:24 GMT | How I Reported My First Vulnerability | 0x004sec | [Read More](https://medium.com/p/b4504ed77ec5) |
-| Thu, 24 Apr 2025 14:26:21 GMT | Security by Shame: How Fear-Based Messaging Breaks Behavior | MrsNo1Special | [Read More](https://medium.com/p/66aa5197b73e) |
-| Thu, 24 Apr 2025 14:20:30 GMT | Beyond the Schema: Understanding and Mitigating GraphQL Security Risks | Tanvi Chauhan | [Read More](https://medium.com/p/48f5264ed050) |
