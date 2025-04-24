@@ -14,6 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 23:13:42 GMT | HawkEyeSec | Imane Ismail | [Read More](https://medium.com/p/0d2a35e0f18b) |
+| Thu, 24 Apr 2025 23:11:56 GMT | CI/CD Driven Passive Reconnaissance: A DevSecOps Approach to External Attack Surface Enumeration | Onurcan Genç | [Read More](https://medium.com/p/22d4fa3417d7) |
+| Thu, 24 Apr 2025 23:02:00 GMT | The Role of Digital Forensics in Legal Cases Involving Cybercrime | Akshay Chauhan | [Read More](https://medium.com/p/4c024aed37bf) |
+| Thu, 24 Apr 2025 22:56:47 GMT | Shadow APIs and Shadow AIs: The Biggest Cybersecurity Threats in Modern Organizations | Cyber-AppSec | [Read More](https://medium.com/p/980e4911b6ad) |
+| Thu, 24 Apr 2025 22:52:03 GMT | Hacking the Hacker: How External Pen Testing Safeguards Your Business | Akshay Chauhan | [Read More](https://medium.com/p/8bd00a83427b) |
+| Thu, 24 Apr 2025 22:51:31 GMT | ️ Top 10 Real-World Attacks on Machine Learning Systems (and How to Prevent Them) | Haydar Majeed | [Read More](https://medium.com/p/afd4bd3a33a9) |
+| Thu, 24 Apr 2025 22:50:59 GMT | Command and Control DNS Part II: Evasion with DGA and Data Obfuscation | S12 - H4CK | [Read More](https://medium.com/p/7066afc4d1a6) |
+| Thu, 24 Apr 2025 22:39:27 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 22] Elf McEager becomes CyberElf | TokiBando | [Read More](https://medium.com/p/be7276848150) |
 | Thu, 24 Apr 2025 22:32:27 GMT | CYBERLENS WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2c8e23537327) |
 | Thu, 24 Apr 2025 22:16:34 GMT | Network Segmentation: A Key Strategy for Protecting Your Data | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a1f611390fba) |
 | Thu, 24 Apr 2025 22:16:34 GMT | Network Segmentation: A Key Strategy for Protecting Your Data | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fb0a5b04f54f) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 16:06:05 GMT | AI and Cyber Insurance: Protecting Businesses in a Digital Age | Best Insurance Living | [Read More](https://medium.com/p/909514dee733) |
 | Thu, 24 Apr 2025 16:02:19 GMT | What If Compute Was a Public Good? | ITgeek | [Read More](https://medium.com/p/5ea4d41af6b3) |
 | Thu, 24 Apr 2025 15:56:50 GMT | Quantum Leap Forward: .NET and C# in Quantum Computing | Stanislav Babenko | [Read More](https://medium.com/p/db57f3e50df3) |
-| Thu, 24 Apr 2025 15:55:54 GMT | VPNs And Online Censorship: A Secure Way To Bypass | James Neal | [Read More](https://medium.com/p/987826aa1563) |
-| Thu, 24 Apr 2025 15:46:18 GMT | Top 5 Reasons to Monitor Child Phone Activity | XoXoSpy | [Read More](https://medium.com/p/fec9f8ce09d4) |
-| Thu, 24 Apr 2025 15:45:47 GMT | The Most Secure VPNs With Advanced Features | Melvin Erickson | [Read More](https://medium.com/p/426045a31610) |
-| Thu, 24 Apr 2025 15:41:44 GMT | Insecure Direct Object Reference (IDOR) in a Government Portal | Akash kumar K | [Read More](https://medium.com/p/973758a23473) |
-| Thu, 24 Apr 2025 15:33:17 GMT | Lame CTF — HackTheBox Walkthrough | Alts | [Read More](https://medium.com/p/9594ca30cea7) |
-| Thu, 24 Apr 2025 15:23:31 GMT | 8 Log Files Every Linux Admin Should Monitor Daily | Faruk Ahmed | [Read More](https://medium.com/p/5d9334830392) |
-| Thu, 24 Apr 2025 15:22:31 GMT | TryHackMe - Memory Analysis Introduction - WriteUp | Axoloth | [Read More](https://medium.com/p/6bffc6989e5f) |
-| Thu, 24 Apr 2025 15:20:12 GMT | What is an SSL Certificate | Prasad Lakshan | [Read More](https://medium.com/p/bc006bf3e4b6) |
