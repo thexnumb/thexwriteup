@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 18:35:00 GMT | Zincirin Dışında: Off-Chain Çözümler | Berat Ege Akgün | [Read More](https://medium.com/p/9a58195188b9) |
+| Thu, 24 Apr 2025 18:32:51 GMT | I Thought Staying Quiet Would Keep Me Loved — It Didn’t | A Wildflower Whispers | [Read More](https://medium.com/p/b312785708f3) |
+| Thu, 24 Apr 2025 18:21:51 GMT | WhatsApp’s New AI Chatbot: Convenience or Concern? | Taylan İrak | [Read More](https://medium.com/p/2d8d8152edee) |
+| Thu, 24 Apr 2025 18:21:25 GMT | Q1 2025 Vulnerability Landscape: A Surge in Exploited CVEs | Hoplon Infosec | [Read More](https://medium.com/p/69b9092ebf79) |
 | Thu, 24 Apr 2025 18:15:07 GMT | Artificial Intelligence Is Extremely Unpredictable | Zayne Harbison | [Read More](https://medium.com/p/63e9410f6df7) |
 | Thu, 24 Apr 2025 18:10:21 GMT | Zincirin Dışında: Off-Chain Çözümler | Berat Ege Akgün | [Read More](https://medium.com/p/44ee6bb96556) |
 | Thu, 24 Apr 2025 18:08:17 GMT | China Launches the World’s First 10G Broadband Network—A Glimpse into the Future of Connectivity | Emily Wilson | [Read More](https://medium.com/p/df5956a4088e) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 11:36:39 GMT | Automating Zero Trust in Healthcare: A Critical Shift Toward Cyber Resilience | CyBlog | [Read More](https://medium.com/p/b37e786b04b6) |
 | Thu, 24 Apr 2025 11:20:40 GMT | How to Use AI to 10x Documentation Speed (Without Losing Quality) | Parag Shivanekar | [Read More](https://medium.com/p/95a9f56221ab) |
 | Thu, 24 Apr 2025 11:18:58 GMT | Administrator - HackTheBox | Mohamed Eletreby | [Read More](https://medium.com/p/e09d08844677) |
-| Thu, 24 Apr 2025 11:14:42 GMT | Deep Web: What It Is & How to Access It Safely Complete Guide | FreePixel | [Read More](https://medium.com/p/ebeb4744efc4) |
-| Thu, 24 Apr 2025 11:10:09 GMT | Prototype Pollution in Open Source Libraries: Exploiting RCE in EJS | Alberto Charabati | [Read More](https://medium.com/p/ae93016630a3) |
-| Thu, 24 Apr 2025 11:09:54 GMT | A CEO’s Guide to Cyber Risk: How to Protect Your Organization | Aladdincyberuae | [Read More](https://medium.com/p/1904e66e9768) |
-| Thu, 24 Apr 2025 11:03:53 GMT | Understanding Wireless Networks | Raja Muhammad Mustansar Javaid | [Read More](https://medium.com/p/88b3d9631943) |
