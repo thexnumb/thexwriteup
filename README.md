@@ -14,7 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 19:28:49 GMT | Why We Write Logs (and Why It Matters More Than You Think) | Jens@Fivesec | [Read More](https://medium.com/p/e1a79559ce74) |
+| Thu, 24 Apr 2025 19:21:33 GMT | eCPPT — Powershell for Pentesters CTF 1 INE | Md. Imran Chowdhury | [Read More](https://medium.com/p/ace152f7d2b9) |
+| Thu, 24 Apr 2025 19:14:32 GMT | The 7 Dumbest Ways Small Businesses Get Hacked (And How to Avoid Them) | Abdelaziz moustakim | [Read More](https://medium.com/p/1c0a14ac3eb1) |
 | Thu, 24 Apr 2025 19:06:40 GMT | Inject, Exploit, Repeat: Real-World Adventures in XSS | Isv | [Read More](https://medium.com/p/a8fd8f7066c8) |
+| Thu, 24 Apr 2025 19:04:53 GMT | Mastering NetworkPolicy: Secure Your Kubernetes Cluster Like a Pro | Raihan Iqbal | [Read More](https://medium.com/p/ad75fb9e5497) |
 | Thu, 24 Apr 2025 18:58:49 GMT | ChatGPT Hacking Attacks: AI Security Concerns from 2025 Vulnerabilities | Li Zixiang | [Read More](https://medium.com/p/844ab1d52b3d) |
 | Thu, 24 Apr 2025 18:58:08 GMT | How to Build Skills for a Successful SOC Analyst Career | Tyler Wall | [Read More](https://medium.com/p/ad6460e132b2) |
 | Thu, 24 Apr 2025 18:35:00 GMT | Zincirin Dışında: Off-Chain Çözümler | Berat Ege Akgün | [Read More](https://medium.com/p/9a58195188b9) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 12:08:49 GMT | Deciphering the difficulty: CISA vs. CISM | VERSAtile Reads | [Read More](https://medium.com/p/ec737cf32089) |
 | Thu, 24 Apr 2025 12:04:37 GMT | How I’m Learning Web3.0(Blockchain) Bug Bounties from Scratch And Sharing Everything. | Nitin Gutte | [Read More](https://medium.com/p/d8cf248121b4) |
 | Thu, 24 Apr 2025 11:52:55 GMT | Bypassed the Invite Flow, Gained Admin Access | Killua | [Read More](https://medium.com/p/d37347d57468) |
-| Thu, 24 Apr 2025 11:52:23 GMT | The Password That Blew Up My Digital Life | Sam Galope | [Read More](https://medium.com/p/4701be835d8c) |
-| Thu, 24 Apr 2025 11:51:23 GMT | Hack The Box: Jerry Walkthrough (Beginner Windows Box) | packetsniper | [Read More](https://medium.com/p/7522124cb402) |
-| Thu, 24 Apr 2025 11:46:08 GMT | Best Network Sniffing Techniques | InfosecTrain | [Read More](https://medium.com/p/68b3fc5f5de0) |
-| Thu, 24 Apr 2025 11:41:46 GMT | How I Bypassed Template Escaping and Triggered a Reflected XSS Popup | Zoningxtr | [Read More](https://medium.com/p/9567d45fd31c) |
