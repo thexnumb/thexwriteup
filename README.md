@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 20:35:30 GMT | Explode vulnerabilities, protect your system | Progsky | [Read More](https://medium.com/p/c0ea7ab47344) |
+| Thu, 24 Apr 2025 20:29:07 GMT | Custom Tooling Using Python : TryHackMe Walkthrough - Automated Penetration Testing | RosanaFSS | [Read More](https://medium.com/p/c8713b3cc576) |
+| Thu, 24 Apr 2025 20:23:33 GMT | Civilization. The last page. (66) | Jan Slort | [Read More](https://medium.com/p/80995e558d81) |
 | Thu, 24 Apr 2025 20:17:47 GMT | SSTI ve CSTI Zafiyetleri Nelerdir? | Emirhan Sevmez | [Read More](https://medium.com/p/b34f938a98e0) |
 | Thu, 24 Apr 2025 20:15:29 GMT | What about Information Disclosure Vulnerability? Scenarios? Mitigations? | Adham Hashem | [Read More](https://medium.com/p/8902d40cce0f) |
 | Thu, 24 Apr 2025 20:10:25 GMT | Your Dev Team Is Replaceable. Just Add VRAM. | Aleksandr Makarenko | [Read More](https://medium.com/p/6ee5c426d8a2) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 14:01:17 GMT | Cyber Briefing: 2025.04.24 | CyberMaterial | [Read More](https://medium.com/p/addcb386c368) |
 | Thu, 24 Apr 2025 13:57:09 GMT | Found a bug? Get rewarded! | Roma | [Read More](https://medium.com/p/94a922aa8ff9) |
 | Thu, 24 Apr 2025 13:56:20 GMT | Нашёл баг — получил награду! | Roma | [Read More](https://medium.com/p/e936631f5e02) |
-| Thu, 24 Apr 2025 13:47:17 GMT | Wi-Fi Kablosuz Ağ Güvenliği | umut akdoğan | [Read More](https://medium.com/p/ced78a525554) |
-| Thu, 24 Apr 2025 13:22:12 GMT | Understanding Happiness | Susan Johnson: | [Read More](https://medium.com/p/bc42d887bbee) |
-| Thu, 24 Apr 2025 13:14:53 GMT | The Lie of Deletion: Where Files Really Go When You Hit ‘Delete’ | Musa Yusuf Magoban | [Read More](https://medium.com/p/51a557a60839) |
