@@ -4,6 +4,7 @@ import os
 import requests
 from datetime import datetime
 import html2text
+import re
 
 CSV_FILE = "articles.csv"
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
