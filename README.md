@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 24 Apr 2025 22:32:27 GMT | CYBERLENS WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2c8e23537327) |
+| Thu, 24 Apr 2025 22:16:34 GMT | Network Segmentation: A Key Strategy for Protecting Your Data | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a1f611390fba) |
+| Thu, 24 Apr 2025 22:16:34 GMT | Network Segmentation: A Key Strategy for Protecting Your Data | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fb0a5b04f54f) |
+| Thu, 24 Apr 2025 22:08:29 GMT | How I Found People Talking About CoinCollectExperts — And How They Helped Me Recover My Money | victoria grayson | [Read More](https://medium.com/p/057f4a235a2d) |
 | Thu, 24 Apr 2025 21:58:21 GMT | Aragog (Vulnhub) | S4ntiHack | [Read More](https://medium.com/p/0211ca0ed270) |
 | Thu, 24 Apr 2025 21:47:01 GMT | The Danger of Dissidence | Anina Gedzelman | [Read More](https://medium.com/p/587c387d43d4) |
 | Thu, 24 Apr 2025 21:29:52 GMT | Is Information Technology Hard? Here’s What You Need to Know | Smart Solutions | [Read More](https://medium.com/p/8d5854be5c9a) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 15:23:31 GMT | 8 Log Files Every Linux Admin Should Monitor Daily | Faruk Ahmed | [Read More](https://medium.com/p/5d9334830392) |
 | Thu, 24 Apr 2025 15:22:31 GMT | TryHackMe - Memory Analysis Introduction - WriteUp | Axoloth | [Read More](https://medium.com/p/6bffc6989e5f) |
 | Thu, 24 Apr 2025 15:20:12 GMT | What is an SSL Certificate | Prasad Lakshan | [Read More](https://medium.com/p/bc006bf3e4b6) |
-| Thu, 24 Apr 2025 15:12:57 GMT | Hidden Tricks to Spot Phishing Emails Before They Trick You! | Dhanush N | [Read More](https://medium.com/p/c02810b6b820) |
-| Thu, 24 Apr 2025 15:12:00 GMT | When Your Antivirus Starts Acting Like a Virus | Vijay Kumar Gupta | [Read More](https://medium.com/p/6942f5da1d47) |
-| Thu, 24 Apr 2025 15:05:35 GMT | Security forgotten? Release on house arrest sparks outrage in Pickering Casino killing | Scott Hill | [Read More](https://medium.com/p/c3153b5bf2ec) |
-| Thu, 24 Apr 2025 14:59:24 GMT | 20 API Security Tips | Sina Riyahi | [Read More](https://medium.com/p/96a123fe7130) |
