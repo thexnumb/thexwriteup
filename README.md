@@ -388,6 +388,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 17:06:06 GMT | Microsoft Offers Big Rewards for Finding AI Security Flaws. | current.cybersecurity | [Read More](https://medium.com/p/fa0286b45135) |
 | Thu, 24 Apr 2025 17:06:50 GMT | The Linux Concept Journey — fsnotify (File System Notification) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7da4a7ac29a3) |
 | Thu, 24 Apr 2025 17:06:53 GMT | Penerapan Kanonikalisasi Dalam Validasi Input | Raihan Julyandri | [Read More](https://medium.com/p/8566a3b8e4a7) |
+| Thu, 24 Apr 2025 17:13:57 GMT | (Offsec) Exghost — PG Practice Walkthrough | Rajesh Mondal | [Read More](https://medium.com/p/f30795c3e395) |
 | Thu, 26 Dec 2024 15:23:03 GMT | GitHub Dorking List: The Ultimate Guide to Exploring and Securing Open Repositories | Vijay Kumar Gupta | [Read More](https://medium.com/p/fa86bcb8458a) |
 | Thu, 27 Feb 2025 05:51:34 GMT | Sensitive Information Disclosure on Out of scope domain Bug Bounty Writeup ($$$ USD Reward ) | Rushikesh chaudhari | [Read More](https://medium.com/p/58adec34acfb) |
 | Thu, 27 Feb 2025 10:02:49 GMT | My Discovery of a Payment Information Leak in a Top Government College | Parth Rana | [Read More](https://medium.com/p/c275bf21d7ce) |
