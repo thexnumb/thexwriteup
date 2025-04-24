@@ -1,42 +1,43 @@
 import csv
-from datetime import datetime
 
-CSV_FILE = "articles.csv"
+ARTICLES_FILE = "articles.csv"
 README_FILE = "README.md"
 
-def load_articles():
-    with open(CSV_FILE, newline='', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        return sorted(reader, key=lambda x: x['date'], reverse=True)
+def read_articles():
+    with open(ARTICLES_FILE, newline='', encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        return list(reader)
 
 def format_markdown_table(articles):
-    table = "| Title | Author | Date | Link |\n"
-    table += "|-------|--------|------|------|\n"
+    table = "| Date | Title | Author | Link |\n"
+    table += "|------|-------|--------|------|\n"
     for article in articles:
-        title = article['title'].strip().replace('\n', ' ')
-        author = article['author'].strip()
-        date = format_date(article['date'].strip())
-        link = f"[Read More]({article['link'].strip()})"
-        table += f"| {title} | {author} | {date} | {link} |\n"
+        link = article.get("link", "").strip()
+        link_md = f"[Read More]({link})" if link else "N/A"
+        table += f"| {article['date']} | {article['title']} | {article['author']} | {link_md} |\n"
     return table
 
-def format_date(raw_date):
+def update_readme(table):
     try:
-        dt = datetime.strptime(raw_date, "%a, %d %b %Y %H:%M:%S %Z")
-        return dt.strftime("%Y-%m-%d")
-    except Exception:
-        return raw_date
+        with open(README_FILE, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        content = "# TheX Writeups\n\n## Recent Articles\n\n"
 
-def write_readme(content):
+    if "## Recent Articles" in content:
+        parts = content.split("## Recent Articles")
+        content = parts[0] + "## Recent Articles\n\n" + table
+    else:
+        content += "\n## Recent Articles\n\n" + table
+
     with open(README_FILE, "w", encoding="utf-8") as f:
-        f.write("# 📰 Latest Articles\n\n")
         f.write(content)
 
 def main():
-    articles = load_articles()
+    articles = read_articles()
+    articles.reverse()  # Newest first
     markdown_table = format_markdown_table(articles)
-    write_readme(markdown_table)
-    print("✅ README.md updated.")
+    update_readme(markdown_table)
 
 if __name__ == "__main__":
     main()
