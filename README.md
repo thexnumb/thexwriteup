@@ -1,3 +1,7 @@
+# 📝 THEXWRITEUP
+
+Store all the latest Medium Articles by specific tags for the Bug Bounty hunting and Security filed and show most 100 recent articles and Notify on the Discord server. 
+
 ## 🌐 Let's Connect
 
 [![Discord](https://img.shields.io/badge/Discord-@thexnumb-1DA1F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/evffhtjWR7) [![Twitter](https://img.shields.io/badge/X-@thexsecurity-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/thexsecurity) [![Telegram](https://img.shields.io/badge/Telegram-@thexsecurity-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/thexsecurity) [![Instagram](https://img.shields.io/badge/Instagram-@thexnumb-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thexnumb) [![Infosec.exchange](https://img.shields.io/badge/Infosec.exchange-@thexnumb-E11BE9?style=flat&logo=mastodon&logoColor=white)](https://infosec.exchange/@thexnumb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](#) [![Medium](https://img.shields.io/badge/Medium-@thexnumb-black?style=flat&logo=medium)](https://medium.com/@thexnumb) [![Blogger](https://img.shields.io/badge/Blogger-TheXSecurity-FF5722?style=flat&logo=blogger&logoColor=white)](https://thexsecurity.blogspot.com/) [![YouTube](https://img.shields.io/badge/YouTube-@theXNumb-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@theXNumb/)
@@ -11,6 +15,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Thu, 24 Apr 2025 17:37:43 GMT | Bulutları Fetheden Üç Kral: Türkiye Pazarında AWS, Azure ve Alibaba Cloud | Arda Cinar | [Read More](https://medium.com/p/69ab87d8b500) |
+| Thu, 24 Apr 2025 17:36:23 GMT | How to Detect Malware and Insecure Content in Outlook .MSG Files Using .NET | Cloudmersive | [Read More](https://medium.com/p/70471ba5b041) |
 | Thu, 24 Apr 2025 17:29:01 GMT | picoCTF Writeup — Hashcrack | Yanek K | [Read More](https://medium.com/p/7dcebbcae383) |
 | Thu, 24 Apr 2025 17:21:38 GMT | Corporate Greed Chronicles: 20% Purge at Intel | Namir Sagheenanajar | [Read More](https://medium.com/p/867ca33c5373) |
 | Thu, 24 Apr 2025 17:14:17 GMT | Fixing OWASP API9:2023 — Improper Inventory Management in Symfony 7 | Tihomir Manushev | [Read More](https://medium.com/p/aa7ad4a3db0a) |
@@ -109,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 10:09:57 GMT | Sysinternals Tools: A Comprehensive Guide for Windows Security and Management | Furkanctiner | [Read More](https://medium.com/p/7f07fe29ff9d) |
 | Thu, 24 Apr 2025 10:07:22 GMT | Top Things You should Consider Before Hiring an App Development Company | Apptechies | [Read More](https://medium.com/p/579c572223c1) |
 | Thu, 24 Apr 2025 09:39:32 GMT | Day15:  Cracking the Code: Securing Authentication Beyond Just Passwords | Agarwaldaksh | [Read More](https://medium.com/p/8646dd0f5306) |
-| Thu, 24 Apr 2025 09:26:58 GMT | Mastering Linux Privilege Escalation: Part 2 — Cron, Sudo, Kernel, and PATH Exploits | Very Lazy Tech | [Read More](https://medium.com/p/ace9404ecfec) |
