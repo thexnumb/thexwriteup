@@ -14,6 +14,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 22:10:48 GMT | Hack The Box “SwagShop” Walkthrough ️ | 0xTweety | [Read More](https://medium.com/p/4aa4756986f5) |
+| Fri, 25 Apr 2025 21:35:56 GMT | Cyber Defense in 2025: Insights That Actually Matter (From CrowdStrike’s Latest Report) | Anezaneo | [Read More](https://medium.com/p/12a9a8b536cb) |
 | Fri, 25 Apr 2025 21:31:41 GMT | Burp Suite — Creación de Reportes Mediante AI | ArtsSEC | [Read More](https://medium.com/p/f5ad88f5de1f) |
 | Fri, 25 Apr 2025 21:26:15 GMT | From 403 Forbidden to PII Exposure: How I Escalated a Low-Severity Bug to a High P2 | Gotcha1G | [Read More](https://medium.com/p/915a9b814ce6) |
 | Fri, 25 Apr 2025 21:14:17 GMT | OSCP+ Fail: From ‘Try Harder’ to ‘Read Slower’ — How It Rewired My Pentest Game | Anezaneo | [Read More](https://medium.com/p/c267efdf2af5) |
@@ -112,5 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 15:01:31 GMT | What Is " javascript: “and Why Hackers Love It | Zoningxtr | [Read More](https://medium.com/p/b6135b3d089e) |
 | Fri, 25 Apr 2025 15:00:48 GMT | The person who’s never cared for… | Batul | [Read More](https://medium.com/p/a29fdf3b446f) |
 | Fri, 25 Apr 2025 14:58:31 GMT | This week in Cybersecurity: Active exploits, Growing botnets, and Nation-state actors | Loginsoft | [Read More](https://medium.com/p/9e67b954e7f0) |
-| Fri, 25 Apr 2025 14:46:53 GMT | MetaCTF April 2025 CTF Writeup: Caffeine Conundrum and MetaShop | CyberQuestor | [Read More](https://medium.com/p/e7b65b20bdd3) |
-| Fri, 25 Apr 2025 14:44:55 GMT | Advanced SQL Security | Mathss | [Read More](https://medium.com/p/3fc57f0ee879) |
