@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 09:36:59 GMT | Mastering Linux Privilege Escalation: Part 3 — Advanced Exploits, NFS, and Real-World Strategy | Very Lazy Tech | [Read More](https://medium.com/p/0ba8198f03dc) |
+| Fri, 25 Apr 2025 09:28:55 GMT | How to Choose the Right Cyber Security Course in Trivandrum: My Honest Guide | Anas VS | [Read More](https://medium.com/p/4e43bc33a371) |
+| Fri, 25 Apr 2025 09:27:38 GMT | Keterikatan Manusia terhadap kecerdasan buatan (AI) | Dwisevtiyani | [Read More](https://medium.com/p/88d5186a3b1b) |
+| Fri, 25 Apr 2025 09:23:54 GMT | Black Box Testing in Cybersecurity: What You Don’t Know Can Hurt You | West Advanced Technologies Inc | [Read More](https://medium.com/p/4c3007bee22b) |
 | Fri, 25 Apr 2025 09:16:19 GMT | Implementing Azure WAF & Security Rules: The Ultimate Guide | Ajay Naik | [Read More](https://medium.com/p/3fd6bb91bdf7) |
 | Fri, 25 Apr 2025 09:10:52 GMT | The Role of IoT in Transforming Electronic Security Solutions | Net Route Solutions | [Read More](https://medium.com/p/e5b0b1d4e8f0) |
 | Fri, 25 Apr 2025 09:10:09 GMT | Introduction: The Privacy Paradox in Blockchain Oracles | nicola | [Read More](https://medium.com/p/6c5474a06331) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 03:31:33 GMT | What is Quantum Cryptography? | Servifyspheresolutions | [Read More](https://medium.com/p/b746b350515a) |
 | Fri, 25 Apr 2025 03:31:32 GMT | The Ghost in Your Machine: How Cybercriminals Are Cloning Your Digital Fingerprint | Deven Chhajed | [Read More](https://medium.com/p/00ae2d8e0076) |
 | Fri, 25 Apr 2025 03:27:31 GMT | What is Cyber Hygiene? | Yann Barba | [Read More](https://medium.com/p/9ab91645a045) |
-| Fri, 25 Apr 2025 03:23:35 GMT | About Me — Subhanjan | Subhanjan | [Read More](https://medium.com/p/d40c81034bac) |
-| Fri, 25 Apr 2025 03:22:19 GMT | Phishing: Beyond the Stereotype | abdur rashid firdaus | [Read More](https://medium.com/p/e2a7c5dd684b) |
-| Fri, 25 Apr 2025 03:16:16 GMT | Phishing Exposed: How Trust Becomes a Vulnerability | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/80b1589507ad) |
-| Fri, 25 Apr 2025 03:06:14 GMT | WGU Cybersecurity Masters: What Prospective Students Need to Know | James Gilchrest | [Read More](https://medium.com/p/2efbffc5e06c) |
