@@ -14,6 +14,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 16:21:27 GMT | From Zero to SOAR: A Home Lab Adventure With Splunk | Tijan Hydara | [Read More](https://medium.com/p/a454a347e35f) |
+| Fri, 25 Apr 2025 16:19:12 GMT | Cybersecurity Awareness Training: The First Line of Defense Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/0d2c16b5ebf6) |
+| Fri, 25 Apr 2025 16:18:12 GMT | Automating Security Scanning in DevOps | Samareshmaiti | [Read More](https://medium.com/p/54d0ecfaf4bf) |
+| Fri, 25 Apr 2025 16:15:07 GMT | AI-Powered Cybersecurity | MrsNo1Special | [Read More](https://medium.com/p/3b9a08dbbd1c) |
+| Fri, 25 Apr 2025 16:11:41 GMT | Unveiling the Intricacies of AsyncRAT | Cytomate | [Read More](https://medium.com/p/f59c34a09860) |
+| Fri, 25 Apr 2025 16:10:36 GMT | The SOC Analyst’s Sixth Sense: How Intuition Shapes Incident Response | Maged Anas | [Read More](https://medium.com/p/24e42b63bc46) |
+| Fri, 25 Apr 2025 16:09:52 GMT | Why Your Business Needs Vulnerability Assessment Services | SafeAeon Inc. | [Read More](https://medium.com/p/1410cdb3a962) |
+| Fri, 25 Apr 2025 16:07:37 GMT | I’m Taking the Security+ Exam on Monday and I’m Not Ready — But I’m Doing It Anyway | Jordan Dupré | [Read More](https://medium.com/p/1496f006022c) |
+| Fri, 25 Apr 2025 16:05:08 GMT | Calling All Security Sleuths! STON.fi Unveils $500,000 Bug Bounty to Fortify v2 Smart Contracts | TheDreamIrene | [Read More](https://medium.com/p/6e6e139e51ce) |
+| Fri, 25 Apr 2025 16:03:48 GMT | DPRK’s Front Company: “BlockNovas LLC” | Colton J. | [Read More](https://medium.com/p/10f13eec9828) |
+| Fri, 25 Apr 2025 16:02:38 GMT | Detecting unapproved behaviors in medical devices | Karambit.AI | [Read More](https://medium.com/p/4a707d6dafe1) |
+| Fri, 25 Apr 2025 15:58:45 GMT | What Is Compliance as a Service and Why Your Business Needs It | SafeAeon Inc. | [Read More](https://medium.com/p/1dacedaaca2b) |
+| Fri, 25 Apr 2025 15:58:31 GMT | Filmed, Mocked, Harassed at Work: The Ugly Reality Facing Canada’s Security Guards | Scott Hill | [Read More](https://medium.com/p/959e7a6e615e) |
+| Fri, 25 Apr 2025 15:50:53 GMT | The Security Features Of Popular VPN Services | James Neal | [Read More](https://medium.com/p/785cb0b14b03) |
+| Fri, 25 Apr 2025 15:46:09 GMT | Explore Superior VPN Features For Total Security | Melvin Erickson | [Read More](https://medium.com/p/c51e04ffec5d) |
+| Fri, 25 Apr 2025 15:45:24 GMT | From SOAP to Shell: Exploiting Legacy SOAP Services for Full Admin Account Takeover (And Nearly… | nav1n | [Read More](https://medium.com/p/5355009044c3) |
+| Fri, 25 Apr 2025 15:42:20 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/fd8aba510044) |
+| Fri, 25 Apr 2025 15:37:22 GMT | The ‘Cybersecurity Starter Pack’ Meme — But It’s Too Real | Vijay Kumar Gupta | [Read More](https://medium.com/p/b3de027eea4e) |
 | Fri, 25 Apr 2025 15:36:27 GMT | My Initial Hackathon Experience: Not Moving Forward with Team Sakha | Itsurkk | [Read More](https://medium.com/p/b2f35c723afe) |
 | Fri, 25 Apr 2025 15:29:49 GMT | Before Code Runs: Understanding the JavaScript Execution Environment | Zoningxtr | [Read More](https://medium.com/p/fe79047926af) |
 | Fri, 25 Apr 2025 15:25:35 GMT | How to Protect the SafeLine Management Interface | Loria | [Read More](https://medium.com/p/398061b19d4d) |
@@ -96,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 11:02:27 GMT | JSS Group: The Best Security Agency in Mumbai and Across India | JSS Group | [Read More](https://medium.com/p/5c3fcac05b28) |
 | Fri, 25 Apr 2025 11:01:28 GMT | From Cost Center to Profit Protector: Proving the Value of Cybersecurity to the Business (in… | Wale Adedeji | [Read More](https://medium.com/p/fd8d183cbe42) |
 | Fri, 25 Apr 2025 10:55:28 GMT | $500,000 Up for Grabs: STON.fi Launches a High-Stakes Bug Bounty Program on TON | Lygoph_writes | [Read More](https://medium.com/p/6a5a5b5b967f) |
-| Fri, 25 Apr 2025 10:50:53 GMT | How to Install and Use Metasploit in Termux | Kambetastephano | [Read More](https://medium.com/p/2227dadd03bf) |
-| Fri, 25 Apr 2025 10:50:03 GMT | CISSP Exam in 2025: 7 Smart Cybersecurity Hacks You Need to know | Muhammad Ahmad | [Read More](https://medium.com/p/a5c469d91423) |
-| Fri, 25 Apr 2025 10:37:36 GMT | Why SOC Analysts Need to Think Like Hackers (and How to Do It!) | Bl@ckC!pH3r | [Read More](https://medium.com/p/f86f922a5ac7) |
-| Fri, 25 Apr 2025 10:35:26 GMT | WordPress powers over 43% of all websites on the internet, making wordpress security not just a… | Science Pin | [Read More](https://medium.com/p/9fc1b759b545) |
-| Fri, 25 Apr 2025 10:28:52 GMT | Cutting Through the Clutter: How AI-Powered Automation Revamped Global CapEx Procurement | LTS | [Read More](https://medium.com/p/3b5be98119a1) |
-| Fri, 25 Apr 2025 10:27:08 GMT | How to Install and Use Netcat in Termux | Kambetastephano | [Read More](https://medium.com/p/624a0f571f9a) |
-| Fri, 25 Apr 2025 10:25:28 GMT | SQL injection part — 16 : Basic Blind SQLi, time delays and information retrieval | Ahmad Sopyan | [Read More](https://medium.com/p/daabed19b67d) |
-| Fri, 25 Apr 2025 10:25:04 GMT | What is Cyber Marketing? Why It’s More Important Than Ever in 2025 | Vasundhra sharma | [Read More](https://medium.com/p/826ba27ea32f) |
-| Fri, 25 Apr 2025 10:21:30 GMT | Cybersecurity & AI — Data Hackers Podcast #105 | DH | [Read More](https://medium.com/p/83d9c01a4962) |
-| Fri, 25 Apr 2025 10:20:37 GMT | 10 Common Cloud Malware Attacks You Should Know About (And Stay Safe From!) | GIRISH G | [Read More](https://medium.com/p/fe6de0c13aac) |
-| Fri, 25 Apr 2025 10:13:27 GMT | Nikto Web Scanner: A Powerful Tool for Ethical Hackers and Penetration Testers | YoungerSibling | [Read More](https://medium.com/p/f4409f5f91a5) |
-| Fri, 25 Apr 2025 10:12:32 GMT | Cybersecurity in Healthcare: The St. | Chetan Seripally | [Read More](https://medium.com/p/0fc8e85bd0b5) |
-| Fri, 25 Apr 2025 10:11:08 GMT | HackNos: Player v1.1 (Vulnhub) | S4ntiHack | [Read More](https://medium.com/p/21b6e7b90608) |
-| Fri, 25 Apr 2025 10:07:58 GMT | Apple’s Zero-Day Exploits: What They Mean for You & How Infoziant Can Keep You Safe | Infoziant | [Read More](https://medium.com/p/5a06c7332a23) |
-| Fri, 25 Apr 2025 10:07:39 GMT | Windows Event Logs | Furkanctiner | [Read More](https://medium.com/p/fe7b4cd169b4) |
-| Fri, 25 Apr 2025 10:02:37 GMT | India’s Digital Firewall: Tech Sovereignty in a Surveillance Age | Cyrille Jeufo 1 | [Read More](https://medium.com/p/df113a0af0a9) |
-| Fri, 25 Apr 2025 10:02:34 GMT | Big Data, Big Trouble: How Mass Data Collection is Redefining Cybersecurity | Franziska "Ziska" Fink | [Read More](https://medium.com/p/cdac957c0288) |
-| Fri, 25 Apr 2025 09:58:01 GMT | Three of the four most exploited vulnerabilities in 2024 were zero-day flaws, found in security… | Re: News | [Read More](https://medium.com/p/7db63bdf72a5) |
