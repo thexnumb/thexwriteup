@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 15:13:51 GMT | Spring Security: Authentication and Authorization In-Depth: Part 1 | Rahul Soni | [Read More](https://medium.com/p/e0486f59748f) |
+| Fri, 25 Apr 2025 15:09:49 GMT | Hidden Entrances: Where javascript: URLs Are Still Allowed | Zoningxtr | [Read More](https://medium.com/p/a52842c6aee6) |
+| Fri, 25 Apr 2025 15:09:42 GMT | Burp Suite’s Latest Arsenal: AI Power, Smarter Scanning, and Workflow Wizard | Spectat0rguy | [Read More](https://medium.com/p/42d54edf283f) |
+| Fri, 25 Apr 2025 15:05:05 GMT | ¿Qué te dice tu sexto sentido sobre el ICTC? | WhiteBIT | [Read More](https://medium.com/p/297cc1ca379a) |
+| Fri, 25 Apr 2025 15:01:31 GMT | What Is " javascript: “and Why Hackers Love It | Zoningxtr | [Read More](https://medium.com/p/b6135b3d089e) |
+| Fri, 25 Apr 2025 15:00:48 GMT | The person who’s never cared for… | Batul | [Read More](https://medium.com/p/a29fdf3b446f) |
+| Fri, 25 Apr 2025 14:58:31 GMT | This week in Cybersecurity: Active exploits, Growing botnets, and Nation-state actors | Loginsoft | [Read More](https://medium.com/p/9e67b954e7f0) |
+| Fri, 25 Apr 2025 14:46:53 GMT | MetaCTF April 2025 CTF Writeup: Caffeine Conundrum and MetaShop | CyberQuestor | [Read More](https://medium.com/p/e7b65b20bdd3) |
+| Fri, 25 Apr 2025 14:44:55 GMT | Advanced SQL Security | Mathss | [Read More](https://medium.com/p/3fc57f0ee879) |
+| Fri, 25 Apr 2025 14:41:10 GMT | That “Client” Who Tried to Scam Me | Sam Galope | [Read More](https://medium.com/p/a3047e7fb5e3) |
+| Fri, 25 Apr 2025 14:40:13 GMT | Cleanliness of Thought: Synthetic Data & the Persona Problem | Jay Noon | [Read More](https://medium.com/p/195c81b03bd0) |
 | Fri, 25 Apr 2025 14:22:01 GMT | Disk Imaging (Part 1) : Memory Acquisition & Encryption Checking | Dean | [Read More](https://medium.com/p/e45226b6081d) |
 | Fri, 25 Apr 2025 14:06:10 GMT | Prompt Injections For Defense, a 3/4 Baked Idea | Harry Landis | [Read More](https://medium.com/p/ac25c768d5ca) |
 | Fri, 25 Apr 2025 14:05:36 GMT | Cyber Briefing: 2025.04.25 | CyberMaterial | [Read More](https://medium.com/p/2e2ad913befe) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 09:48:53 GMT | ประจำวันศุกร์ที่ 25 เมษายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d736ff47b228) |
 | Fri, 25 Apr 2025 09:48:35 GMT | Order and Sub Groups Orders in ECC | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c818c0e7f133) |
 | Fri, 25 Apr 2025 09:46:59 GMT | How I Passed CompTIA Security+ (0701) in 4 Weeks with Zero Cybersecurity Background | Suleman | [Read More](https://medium.com/p/02aa9cf0b0c7) |
-| Fri, 25 Apr 2025 09:42:25 GMT | The Identity Risk Surge of 2025 — Is Your Security Stack Ready? | David Canellos | [Read More](https://medium.com/p/3fe9732eade9) |
-| Fri, 25 Apr 2025 09:36:59 GMT | Mastering Linux Privilege Escalation: Part 3 — Advanced Exploits, NFS, and Real-World Strategy | Very Lazy Tech | [Read More](https://medium.com/p/0ba8198f03dc) |
-| Fri, 25 Apr 2025 09:31:26 GMT | OWASPがマルチエージェントAIの脅威モデリングガイドを公表(2025年4月25日公開) | Eiji Sasahara, Ph.D., MBA | [Read More](https://medium.com/p/f28a3e4cddb9) |
-| Fri, 25 Apr 2025 09:28:55 GMT | How to Choose the Right Cyber Security Course in Trivandrum: My Honest Guide | Anas VS | [Read More](https://medium.com/p/4e43bc33a371) |
-| Fri, 25 Apr 2025 09:27:38 GMT | Keterikatan Manusia terhadap kecerdasan buatan (AI) | Dwisevtiyani | [Read More](https://medium.com/p/88d5186a3b1b) |
-| Fri, 25 Apr 2025 09:23:54 GMT | Black Box Testing in Cybersecurity: What You Don’t Know Can Hurt You | West Advanced Technologies Inc | [Read More](https://medium.com/p/4c3007bee22b) |
-| Fri, 25 Apr 2025 09:16:19 GMT | Implementing Azure WAF & Security Rules: The Ultimate Guide | Ajay Naik | [Read More](https://medium.com/p/3fd6bb91bdf7) |
-| Fri, 25 Apr 2025 09:10:52 GMT | The Role of IoT in Transforming Electronic Security Solutions | Net Route Solutions | [Read More](https://medium.com/p/e5b0b1d4e8f0) |
-| Fri, 25 Apr 2025 09:10:09 GMT | Introduction: The Privacy Paradox in Blockchain Oracles | nicola | [Read More](https://medium.com/p/6c5474a06331) |
-| Fri, 25 Apr 2025 09:03:24 GMT | Why Businesses Need Cybersecurity Consulting Now More Than Ever | Z7solutions | [Read More](https://medium.com/p/ae759896950c) |
-| Fri, 25 Apr 2025 09:01:45 GMT | TryHackMe - Erlang/OTP SSH: CVE-2025–32433 - WriteUp | Axoloth | [Read More](https://medium.com/p/767538c09c08) |
