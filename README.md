@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 07:14:36 GMT | “What’s Inside a ZAP Scan Report? A Peek Into Your Website’s Security X-Ray!” | Neelendra Singh Tomar | [Read More](https://medium.com/p/f392956f2132) |
+| Fri, 25 Apr 2025 07:12:22 GMT | Zabbix Agent Installer on Windows 11 | Dante | [Read More](https://medium.com/p/376e95f33837) |
+| Fri, 25 Apr 2025 07:09:40 GMT | Learn Certified Ethical Hacker Certification Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/b1cb48c983d5) |
+| Fri, 25 Apr 2025 07:05:38 GMT | I Am Doing It For A Glory Purpose! | restdone | [Read More](https://medium.com/p/a61c2c459e31) |
+| Fri, 25 Apr 2025 07:01:01 GMT | Cybersecurity in the AI Era: New Threats and How to Stay Protected | jhonharry65 | [Read More](https://medium.com/p/1b3ba1e2d31b) |
+| Fri, 25 Apr 2025 06:51:27 GMT | If I can make a summary, I want a special summary like this | restdone | [Read More](https://medium.com/p/57cbbf5cc396) |
 | Fri, 25 Apr 2025 06:28:04 GMT | Bypassing CSRF defenses using XSS…and more - Portswigger XSS Practitioner Part 2 | Rhythm Babu Kafle | [Read More](https://medium.com/p/b08965e0c039) |
 | Fri, 25 Apr 2025 06:15:35 GMT | Zabbix Server Installer | Dante | [Read More](https://medium.com/p/3de017d1b76f) |
 | Fri, 25 Apr 2025 06:15:20 GMT | Step into Leadership with CCISO! | Securium Academy | [Read More](https://medium.com/p/3bc4acd2c994) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 22:08:29 GMT | How I Found People Talking About CoinCollectExperts — And How They Helped Me Recover My Money | victoria grayson | [Read More](https://medium.com/p/057f4a235a2d) |
 | Thu, 24 Apr 2025 21:58:21 GMT | Aragog (Vulnhub) | S4ntiHack | [Read More](https://medium.com/p/0211ca0ed270) |
 | Thu, 24 Apr 2025 21:47:01 GMT | The Danger of Dissidence | Anina Gedzelman | [Read More](https://medium.com/p/587c387d43d4) |
-| Thu, 24 Apr 2025 21:29:52 GMT | Is Information Technology Hard? Here’s What You Need to Know | Smart Solutions | [Read More](https://medium.com/p/8d5854be5c9a) |
-| Thu, 24 Apr 2025 21:26:08 GMT | Cybersecurity Isn’t a Luxury — It’s Your Business’s Lifeline | Donald Betancourt | [Read More](https://medium.com/p/7807b2c842ec) |
-| Thu, 24 Apr 2025 21:23:58 GMT | PHP REST API Cybersecurity — from zero to hero | Demianchuk Sergii | [Read More](https://medium.com/p/ba7a1ecbe527) |
-| Thu, 24 Apr 2025 21:23:01 GMT | ENDPOINT DETECTION AND RESPONSE (EDR) NEDİR? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/7ab3cbdaf1bf) |
-| Thu, 24 Apr 2025 21:16:42 GMT | 6 Cloud Vulnerabilities You Need to Watch Out For in 2025 | Xaltius | [Read More](https://medium.com/p/2249d287b472) |
-| Thu, 24 Apr 2025 21:13:34 GMT | Excessive Permission Scope: When AI Access Goes Too Far** | Gal Moshkovitz | [Read More](https://medium.com/p/3e0a70dbf7ff) |
