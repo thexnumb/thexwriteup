@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 05:26:09 GMT | Earn your First $5000 Bug-Bounty. | Rishav anand | [Read More](https://medium.com/p/c49495337ef0) |
+| Fri, 25 Apr 2025 05:22:03 GMT | How a Google Alert Revealed My WhatsApp Number Was Publicly Exposed | Madina  Ochilova | [Read More](https://medium.com/p/4827e6443c1c) |
+| Fri, 25 Apr 2025 05:21:17 GMT | “Confessions of an Info Hoarder: Why I’m Breaking Up With My Saved Articles” | Alexander Lane | [Read More](https://medium.com/p/f712eae0f0e0) |
+| Fri, 25 Apr 2025 05:18:47 GMT | How to Build Secure Web Applications for Financial Institutions Using Blockchain? | Levitation Infotech | [Read More](https://medium.com/p/75590a530e86) |
 | Fri, 25 Apr 2025 05:11:55 GMT | PKCE Authentication: Securing OAuth 2.0 for Public Clients | Piranaavei Beremkumar | [Read More](https://medium.com/p/73b7774b3573) |
 | Fri, 25 Apr 2025 05:05:51 GMT | Installing and Configuring AWS CLI for Seamless Cloud Management | Akuphe Dieudonne | [Read More](https://medium.com/p/68609bc5617d) |
 | Fri, 25 Apr 2025 05:00:28 GMT | Why I Believe Cybersecurity Matters Now More Than Ever | Luis E. | [Read More](https://medium.com/p/80ed625ad03f) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 19:51:51 GMT | How to Talk to Kids about the Latest Online Challenge Trend on Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/42d4ac79c0d8) |
 | Thu, 24 Apr 2025 19:50:56 GMT | The SEO Boost You Might Be Missing | Janeel Abrahams | [Read More](https://medium.com/p/4d6e6e8c4da1) |
 | Thu, 24 Apr 2025 19:48:05 GMT | Exploring the Comfort of Swaddle Blankets in the Maternal and Baby Products Industry | Lakshmanhemsley | [Read More](https://medium.com/p/f8bcf5ee6923) |
-| Thu, 24 Apr 2025 19:47:55 GMT | Savvy Cyber Kids Featured in New York Times Cover Story | Savvy Cyber Kids | [Read More](https://medium.com/p/56ef5de0a119) |
-| Thu, 24 Apr 2025 19:46:55 GMT | ️ Best Free Antivirus Apps in 2025 (For Android & Windows) | Tech Min 60 | [Read More](https://medium.com/p/3791fb0ad1ab) |
-| Thu, 24 Apr 2025 19:41:54 GMT | STH Mini Web CTF 2025 — Walkthrough by kt1209 | kt1209 | [Read More](https://medium.com/p/50f4f199ed4f) |
-| Thu, 24 Apr 2025 19:41:40 GMT | Exposing my homelab | 410 Gone | [Read More](https://medium.com/p/50ae06832f86) |
