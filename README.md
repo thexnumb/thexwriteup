@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 16:42:15 GMT | $5,000 Bounty: How iScan.today Helped Me Find a Verified GitHub Token with Org-Wide Write Access | Arshad Kazmi | [Read More](https://medium.com/p/615e999a0219) |
+| Fri, 25 Apr 2025 16:29:13 GMT | A Beginner’s View on Cybersecurity and Online Safety | N Abisha | [Read More](https://medium.com/p/db1e144f1468) |
+| Fri, 25 Apr 2025 16:23:38 GMT | Diffie-Hellman Key Exchange explained step by step | Chibuike Kosisochukwu | [Read More](https://medium.com/p/4a4b98567332) |
 | Fri, 25 Apr 2025 16:21:27 GMT | From Zero to SOAR: A Home Lab Adventure With Splunk | Tijan Hydara | [Read More](https://medium.com/p/a454a347e35f) |
 | Fri, 25 Apr 2025 16:19:12 GMT | Cybersecurity Awareness Training: The First Line of Defense Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/0d2c16b5ebf6) |
 | Fri, 25 Apr 2025 16:18:12 GMT | Automating Security Scanning in DevOps | Samareshmaiti | [Read More](https://medium.com/p/54d0ecfaf4bf) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 11:14:40 GMT | How to Implement a Cybersecurity Governance Step by Step | SecureSlate | [Read More](https://medium.com/p/dfa8fbe6c2dd) |
 | Fri, 25 Apr 2025 11:14:25 GMT | A journey to change | Cyra May Oquendo | [Read More](https://medium.com/p/d29fc17c70e4) |
 | Fri, 25 Apr 2025 11:12:47 GMT | Our Identities Are at Risk of Being Stolen! | Todd Castor | [Read More](https://medium.com/p/be26c7ec8de2) |
-| Fri, 25 Apr 2025 11:02:27 GMT | JSS Group: The Best Security Agency in Mumbai and Across India | JSS Group | [Read More](https://medium.com/p/5c3fcac05b28) |
-| Fri, 25 Apr 2025 11:01:28 GMT | From Cost Center to Profit Protector: Proving the Value of Cybersecurity to the Business (in… | Wale Adedeji | [Read More](https://medium.com/p/fd8d183cbe42) |
-| Fri, 25 Apr 2025 10:55:28 GMT | $500,000 Up for Grabs: STON.fi Launches a High-Stakes Bug Bounty Program on TON | Lygoph_writes | [Read More](https://medium.com/p/6a5a5b5b967f) |
