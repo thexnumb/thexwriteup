@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 11:33:02 GMT | HTB BoardLight Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/13a0c070587f) |
+| Fri, 25 Apr 2025 11:24:40 GMT | Transforming Enterprise IT Through AI and Automation: The New Strategic Paradigm | Hamza Baig | [Read More](https://medium.com/p/0b151adfb667) |
+| Fri, 25 Apr 2025 11:20:01 GMT | Web App Reconnaissance Like a Spy ️‍♂️: Tools & Techniques for 2025 | Vipul Sonule | [Read More](https://medium.com/p/072032e31adf) |
+| Fri, 25 Apr 2025 11:19:39 GMT | Rate Limiting Statamic on Linode with Forge + NGINX | Satheesh Kumar S | [Read More](https://medium.com/p/c38134d850c2) |
+| Fri, 25 Apr 2025 11:18:00 GMT | Securycor: Your Trusted Security Agency in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/f8331701fc10) |
+| Fri, 25 Apr 2025 11:16:07 GMT | What Does Cyber Insurance Really Cover? | Best Insurance Living | [Read More](https://medium.com/p/c707957c8a91) |
+| Fri, 25 Apr 2025 11:14:40 GMT | How to Implement a Cybersecurity Governance Step by Step | SecureSlate | [Read More](https://medium.com/p/dfa8fbe6c2dd) |
+| Fri, 25 Apr 2025 11:14:25 GMT | A journey to change | Cyra May Oquendo | [Read More](https://medium.com/p/d29fc17c70e4) |
+| Fri, 25 Apr 2025 11:12:47 GMT | Our Identities Are at Risk of Being Stolen! | Todd Castor | [Read More](https://medium.com/p/be26c7ec8de2) |
 | Fri, 25 Apr 2025 11:02:27 GMT | JSS Group: The Best Security Agency in Mumbai and Across India | JSS Group | [Read More](https://medium.com/p/5c3fcac05b28) |
 | Fri, 25 Apr 2025 11:01:28 GMT | From Cost Center to Profit Protector: Proving the Value of Cybersecurity to the Business (in… | Wale Adedeji | [Read More](https://medium.com/p/fd8d183cbe42) |
 | Fri, 25 Apr 2025 10:55:28 GMT | $500,000 Up for Grabs: STON.fi Launches a High-Stakes Bug Bounty Program on TON | Lygoph_writes | [Read More](https://medium.com/p/6a5a5b5b967f) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 06:14:19 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 23] The Grinch strikes again! | TokiBando | [Read More](https://medium.com/p/08cd7a21ec2c) |
 | Fri, 25 Apr 2025 06:13:17 GMT | Most Pro Hacker Adviced Beginners To Start with on VDP Program I Taked This Advice and After Three… | Youssef Mohamed | [Read More](https://medium.com/p/bbc216680b6f) |
 | Fri, 25 Apr 2025 06:07:21 GMT | ZTNA vs VPN: Which One Is the Better Cybersecurity Solution? | Serishahid | [Read More](https://medium.com/p/65c9fca0e0b4) |
-| Fri, 25 Apr 2025 06:07:14 GMT | Unrestricted Access to All User Information - REST API Oversharing | Clement 'Tino | [Read More](https://medium.com/p/e4a9a7e5bade) |
-| Fri, 25 Apr 2025 06:04:31 GMT | How to Host a Static Website on Amazon S3 | Akuphe Dieudonne | [Read More](https://medium.com/p/8ce2da3a0e66) |
-| Fri, 25 Apr 2025 06:02:34 GMT | The Myth of Secure Perimeters: Why Internal Drift is Breaking Organizations | MrsNo1Special | [Read More](https://medium.com/p/d9efa8b366f9) |
-| Fri, 25 Apr 2025 06:01:30 GMT | From Casual Curiosity to Crucial Findings: vibe pentesting uncovers serious vulnerabilities in… | Kushal Jain | [Read More](https://medium.com/p/7c032383d227) |
-| Fri, 25 Apr 2025 06:01:29 GMT | The Corix Partners Friday Reading List — April 25, 2025 | JC Gaillard | [Read More](https://medium.com/p/3cede5c8fad4) |
-| Fri, 25 Apr 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Apr 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2e978fdbf316) |
-| Fri, 25 Apr 2025 05:56:46 GMT | Unlocking the Power of Certified Ethical Hacker v13: Your Gateway to Cybersecurity Expertise | Certocean | [Read More](https://medium.com/p/fe02d437ae98) |
-| Fri, 25 Apr 2025 05:54:31 GMT | The Fastest Way to Learn Web Hacking in 2025 (With Free Resources) | Abhijeet Kumawat | [Read More](https://medium.com/p/88c8e74a3889) |
-| Fri, 25 Apr 2025 05:47:09 GMT | [New Podcast] Rethinking Built Environment Security In Kenya: Insights From The RIANA Group… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/9a356bec35fc) |
