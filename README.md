@@ -14,6 +14,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 18:21:44 GMT | HTB Resolute Walkthrough | Mauricio Pallares | [Read More](https://medium.com/p/d66d15001daf) |
+| Fri, 25 Apr 2025 18:19:41 GMT | The Dawn of an revolutionary Era begin in Web3 with SelfChain. | CryptPshyc | [Read More](https://medium.com/p/f8c1fdd116bc) |
+| Fri, 25 Apr 2025 18:16:26 GMT | How to Analyze Virtual Disk (.VMDK) Files for Threats Using an API in Java | Cloudmersive | [Read More](https://medium.com/p/5b25f9a167cd) |
+| Fri, 25 Apr 2025 18:15:43 GMT | Ransomware Realities: A 2025 Survival Guide for US Healthcare Businesses | IT_Engineer | [Read More](https://medium.com/p/26c9c20bc083) |
+| Fri, 25 Apr 2025 18:03:41 GMT | VLAN (VIRTUAL LOCAL AREA NETWORK) | 普兰贾尔·潘塔·拉撒路 | [Read More](https://medium.com/p/737e3175d581) |
+| Fri, 25 Apr 2025 17:58:04 GMT | شماره صیغه بندرعباس09015398913 شماره صیغه جاسک09015398913 شماره صیغه کیش09015398913 شماره صیغه… | معرف ازدواج موقت | [Read More](https://medium.com/p/239cd813173c) |
+| Fri, 25 Apr 2025 17:54:42 GMT | Rate Limit Like a Pro: Building Resilient APIs with Spring Boot | Ravindu Hirimuthugoda | [Read More](https://medium.com/p/21637bfeb1aa) |
+| Fri, 25 Apr 2025 17:52:07 GMT | Headless Kali Linux in Docker — Your Cybersecurity Playground in a Box | Serhii K | [Read More](https://medium.com/p/f82e5c949fb4) |
+| Fri, 25 Apr 2025 17:45:48 GMT | 1 Thing Your Company Doesn’t Tell You About Your Phone Can Cost You | Tom Handy | [Read More](https://medium.com/p/42ea38ec7ce2) |
+| Fri, 25 Apr 2025 17:31:54 GMT | “Navigating the Irony of Online Life and Screen Time Awareness” | Angela Renée | [Read More](https://medium.com/p/bd6d51ba8c21) |
 | Fri, 25 Apr 2025 17:29:56 GMT | Privilege Escalation using Docker Container | Bishal Chapagain | [Read More](https://medium.com/p/e9110713936b) |
 | Fri, 25 Apr 2025 17:22:32 GMT | Google Cloud Shell for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/6afb0f01c29a) |
 | Fri, 25 Apr 2025 17:19:20 GMT | SAP NetWeaver at Risk Due to Vulnerability Enabling Remote Execution. | current.cybersecurity | [Read More](https://medium.com/p/9e22f80cd12a) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 12:40:30 GMT | Answering the Call: How to Protect Aging Loved Ones From Scammers | Casey Crane | [Read More](https://medium.com/p/c1e20825e67f) |
 | Fri, 25 Apr 2025 12:35:40 GMT | Creating Custom Wordlists for Penetration Testing: A Step-by-Step Guide ️ | Esra Kayhan | [Read More](https://medium.com/p/04dd9d3f4048) |
 | Fri, 25 Apr 2025 12:30:19 GMT | OWASP Top 10 For Flutter — M4: Insufficient Input/Output Validation in Flutter | Talsec | [Read More](https://medium.com/p/527f87f0b14c) |
-| Fri, 25 Apr 2025 12:29:50 GMT | Hackers Hate These 8 React Native Security Tricks (You’ll Love) | Md  Alishan Ali | [Read More](https://medium.com/p/32702607bef5) |
-| Fri, 25 Apr 2025 12:29:00 GMT | Shadows Over the North: A Digital Assault | Tales of Nyx | [Read More](https://medium.com/p/3f4c2cb8aded) |
-| Fri, 25 Apr 2025 12:26:51 GMT | OSINT : Transformer l’information ouverte en rempart cyber | Rebecca Cottignies | [Read More](https://medium.com/p/284e29cf4bac) |
-| Fri, 25 Apr 2025 12:22:34 GMT | What Is a SOC? Why Every Modern Organisation Needs a Security Operations Centre | UK Cyber Defence | [Read More](https://medium.com/p/044a566fcad4) |
-| Fri, 25 Apr 2025 12:21:21 GMT | is it okay to feel sad? | clevantrer | [Read More](https://medium.com/p/d94890e022ec) |
-| Fri, 25 Apr 2025 12:19:53 GMT | Cara Menggunakan VPN untuk Keamanan dan Privasi Online | itsecurityexchange | [Read More](https://medium.com/p/6040a9fc13d9) |
-| Fri, 25 Apr 2025 12:16:46 GMT | The Art of Hiding Secrets in Plain Text: Seeing the Invisible | Esra Kayhan | [Read More](https://medium.com/p/51abba3cb688) |
-| Fri, 25 Apr 2025 12:15:36 GMT | Password Attacks are Hard | netrunner-404 | [Read More](https://medium.com/p/b1664252b71f) |
-| Fri, 25 Apr 2025 12:08:48 GMT | WhatsApp Bug: Why Contact Names Starting with @ Show Numbers Instead | Sumanth Jammisetti | [Read More](https://medium.com/p/b68855e47b19) |
-| Fri, 25 Apr 2025 12:07:26 GMT | Code to Coast or Code to Conquer: The Developer’s Effort Paradox | Namir Sagheenanajar | [Read More](https://medium.com/p/92f70d902578) |
