@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 18:39:48 GMT | Sarab — Cyber Deception in Action: | Cytomate | [Read More](https://medium.com/p/e35849bda050) |
+| Fri, 25 Apr 2025 18:33:55 GMT | Staying Safe in the Digital Age: Protecting Yourself From Cyber Scams | ɌƋƑ•TECH | [Read More](https://medium.com/p/60b9bf6d47a9) |
+| Fri, 25 Apr 2025 18:28:27 GMT | Adopting a Web Application Firewall for Instawork: A Journey from Amazon WAF to Cloudflare | Duncan Edwards | [Read More](https://medium.com/p/c3edffd58a6e) |
 | Fri, 25 Apr 2025 18:21:44 GMT | HTB Resolute Walkthrough | Mauricio Pallares | [Read More](https://medium.com/p/d66d15001daf) |
 | Fri, 25 Apr 2025 18:19:41 GMT | The Dawn of an revolutionary Era begin in Web3 with SelfChain. | CryptPshyc | [Read More](https://medium.com/p/f8c1fdd116bc) |
 | Fri, 25 Apr 2025 18:16:26 GMT | How to Analyze Virtual Disk (.VMDK) Files for Threats Using an API in Java | Cloudmersive | [Read More](https://medium.com/p/5b25f9a167cd) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 12:54:27 GMT | More about CVV2 on your Payment Card | Manyi | [Read More](https://medium.com/p/6f7124ca639e) |
 | Fri, 25 Apr 2025 12:48:33 GMT | Protection Against Malicious PDF Files: Security Measures to Take ️ | Esra Kayhan | [Read More](https://medium.com/p/03215fdbaaff) |
 | Fri, 25 Apr 2025 12:43:21 GMT | Linux Password Cracking Techniques and Defense Methods | Esra Kayhan | [Read More](https://medium.com/p/b43caaa539b8) |
-| Fri, 25 Apr 2025 12:40:30 GMT | Answering the Call: How to Protect Aging Loved Ones From Scammers | Casey Crane | [Read More](https://medium.com/p/c1e20825e67f) |
-| Fri, 25 Apr 2025 12:35:40 GMT | Creating Custom Wordlists for Penetration Testing: A Step-by-Step Guide ️ | Esra Kayhan | [Read More](https://medium.com/p/04dd9d3f4048) |
-| Fri, 25 Apr 2025 12:30:19 GMT | OWASP Top 10 For Flutter — M4: Insufficient Input/Output Validation in Flutter | Talsec | [Read More](https://medium.com/p/527f87f0b14c) |
