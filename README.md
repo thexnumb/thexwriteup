@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 06:28:04 GMT | Bypassing CSRF defenses using XSS…and more - Portswigger XSS Practitioner Part 2 | Rhythm Babu Kafle | [Read More](https://medium.com/p/b08965e0c039) |
 | Fri, 25 Apr 2025 06:15:35 GMT | Zabbix Server Installer | Dante | [Read More](https://medium.com/p/3de017d1b76f) |
 | Fri, 25 Apr 2025 06:15:20 GMT | Step into Leadership with CCISO! | Securium Academy | [Read More](https://medium.com/p/3bc4acd2c994) |
 | Fri, 25 Apr 2025 06:14:27 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 24] The Trial Before Christmas | TokiBando | [Read More](https://medium.com/p/acf611a54562) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 21:23:01 GMT | ENDPOINT DETECTION AND RESPONSE (EDR) NEDİR? | Hasan BAYRAKTAR | [Read More](https://medium.com/p/7ab3cbdaf1bf) |
 | Thu, 24 Apr 2025 21:16:42 GMT | 6 Cloud Vulnerabilities You Need to Watch Out For in 2025 | Xaltius | [Read More](https://medium.com/p/2249d287b472) |
 | Thu, 24 Apr 2025 21:13:34 GMT | Excessive Permission Scope: When AI Access Goes Too Far** | Gal Moshkovitz | [Read More](https://medium.com/p/3e0a70dbf7ff) |
-| Thu, 24 Apr 2025 21:05:20 GMT | THE IMPORTANCE OF HAVING A SECURE WEBSITE | Hooria Buksh | [Read More](https://medium.com/p/61e700a98740) |
