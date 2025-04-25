@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 03:02:27 GMT | HackTheBox Cyber Apocalypse 2025: Thorins Amulet | abdur rashid firdaus | [Read More](https://medium.com/p/d1eed4c8b70e) |
+| Fri, 25 Apr 2025 03:02:21 GMT | What is HTTPS ? How to enable it on your Browser ? | Febin Vadukkoot | [Read More](https://medium.com/p/a9a71f38ae31) |
+| Fri, 25 Apr 2025 02:59:48 GMT | Understanding Cyber Threats: From Malware to DDoS Attacks | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/7aa6c4a220ef) |
+| Fri, 25 Apr 2025 02:58:17 GMT | mTLS and OAuth2 — Client Authentication | Sagara Gunathunga | [Read More](https://medium.com/p/5958f6f9b098) |
+| Fri, 25 Apr 2025 02:37:32 GMT | How i found a RXSS by webpack | yubanban | [Read More](https://medium.com/p/7e2217a3976d) |
+| Fri, 25 Apr 2025 02:32:28 GMT | The Red Teaming: 30-Day Challenge[11] | Bl@ckC!pH3r | [Read More](https://medium.com/p/a2b19be7b14c) |
+| Fri, 25 Apr 2025 02:03:28 GMT | The Wild New Malware That Outsmarted Antivirus and Nearly Wrecked Everything | Noel | [Read More](https://medium.com/p/4f30a8e1b95a) |
+| Fri, 25 Apr 2025 01:48:51 GMT | Ever wished you had a tech sandbox where mistakes don't cost you? Welcome to VirtualBox | William Walsh | [Read More](https://medium.com/p/9f4ee06ea321) |
+| Fri, 25 Apr 2025 01:47:04 GMT | Top 10 Red Team Tactics Every Cybersecurity Enthusiast Should Know | Pawan Jaiswal | [Read More](https://medium.com/p/ccc293936d51) |
+| Fri, 25 Apr 2025 01:42:27 GMT | Reddit analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/55ef6b48ca53) |
+| Fri, 25 Apr 2025 01:38:20 GMT | Deploying Nuzlocke Tracker with Docker Desktop: A Beginner’s Guide | Ryan Weathers | [Read More](https://medium.com/p/6a308b146404) |
 | Fri, 25 Apr 2025 01:29:35 GMT | Understanding Vulnerabilities in Cybersecurity | Xavier J. Cruz | [Read More](https://medium.com/p/e8b67c7deaf0) |
 | Fri, 25 Apr 2025 01:17:08 GMT | From Vendor Risk to National Threat: Why GRC and CTI Must Intertwine to secure Business Continuity. | Liza Opar | [Read More](https://medium.com/p/5aabfde0eb3f) |
 | Fri, 25 Apr 2025 01:04:45 GMT | How to Find Hidden HackerOne & Bugcrowd Programs | Ibtissam Hammadi | [Read More](https://medium.com/p/0149457cf048) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 17:37:43 GMT | Bulutları Fetheden Üç Kral: Türkiye Pazarında AWS, Azure ve Alibaba Cloud | Arda Cinar | [Read More](https://medium.com/p/69ab87d8b500) |
 | Thu, 24 Apr 2025 17:36:23 GMT | How to Detect Malware and Insecure Content in Outlook .MSG Files Using .NET | Cloudmersive | [Read More](https://medium.com/p/70471ba5b041) |
 | Thu, 24 Apr 2025 17:29:01 GMT | picoCTF Writeup — Hashcrack | Yanek K | [Read More](https://medium.com/p/7dcebbcae383) |
-| Thu, 24 Apr 2025 17:21:38 GMT | Corporate Greed Chronicles: 20% Purge at Intel | Namir Sagheenanajar | [Read More](https://medium.com/p/867ca33c5373) |
-| Thu, 24 Apr 2025 17:14:17 GMT | Fixing OWASP API9:2023 — Improper Inventory Management in Symfony 7 | Tihomir Manushev | [Read More](https://medium.com/p/aa7ad4a3db0a) |
-| Thu, 24 Apr 2025 17:13:57 GMT | (Offsec) Exghost — PG Practice Walkthrough | Rajesh Mondal | [Read More](https://medium.com/p/f30795c3e395) |
-| Thu, 24 Apr 2025 17:06:53 GMT | Penerapan Kanonikalisasi Dalam Validasi Input | Raihan Julyandri | [Read More](https://medium.com/p/8566a3b8e4a7) |
-| Thu, 24 Apr 2025 17:06:50 GMT | The Linux Concept Journey — fsnotify (File System Notification) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/7da4a7ac29a3) |
-| Thu, 24 Apr 2025 17:06:06 GMT | Microsoft Offers Big Rewards for Finding AI Security Flaws. | current.cybersecurity | [Read More](https://medium.com/p/fa0286b45135) |
-| Thu, 24 Apr 2025 17:00:45 GMT | 10 Excellent Cybersecurity Habits for Everyday Internet Users | Techridge Solutions | [Read More](https://medium.com/p/4b8b3215e386) |
-| Thu, 24 Apr 2025 16:59:53 GMT | Is your business safe online? | Isentrytechnologies | [Read More](https://medium.com/p/e417df254879) |
-| Thu, 24 Apr 2025 16:59:02 GMT | How I Broke into the Spice Hut Kitchen and Took Over the Chef’s Console | Stoic_Gang | [Read More](https://medium.com/p/c0a2ebac65ec) |
-| Thu, 24 Apr 2025 16:58:05 GMT | Heard About the DKIM Google Email Scam? Don’t Worry — I’ll Explain It Simply | Rey Geldof | [Read More](https://medium.com/p/2efc0fc48375) |
-| Thu, 24 Apr 2025 16:57:58 GMT | The Work-from-Home Illusion: Freedom or a New Kind of Cage? | Emily Wilson | [Read More](https://medium.com/p/e9826faf2a40) |
