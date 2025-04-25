@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 22:16:33 GMT | How to Implement Network Segmentation to Enhance Security | Karthikeyan Nagaraj | [Read More](https://medium.com/p/54c657e2c9fd) |
 | Fri, 25 Apr 2025 22:10:48 GMT | Hack The Box “SwagShop” Walkthrough ️ | 0xTweety | [Read More](https://medium.com/p/4aa4756986f5) |
 | Fri, 25 Apr 2025 21:35:56 GMT | Cyber Defense in 2025: Insights That Actually Matter (From CrowdStrike’s Latest Report) | Anezaneo | [Read More](https://medium.com/p/12a9a8b536cb) |
 | Fri, 25 Apr 2025 21:31:41 GMT | Burp Suite — Creación de Reportes Mediante AI | ArtsSEC | [Read More](https://medium.com/p/f5ad88f5de1f) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 15:05:05 GMT | ¿Qué te dice tu sexto sentido sobre el ICTC? | WhiteBIT | [Read More](https://medium.com/p/297cc1ca379a) |
 | Fri, 25 Apr 2025 15:01:31 GMT | What Is " javascript: “and Why Hackers Love It | Zoningxtr | [Read More](https://medium.com/p/b6135b3d089e) |
 | Fri, 25 Apr 2025 15:00:48 GMT | The person who’s never cared for… | Batul | [Read More](https://medium.com/p/a29fdf3b446f) |
-| Fri, 25 Apr 2025 14:58:31 GMT | This week in Cybersecurity: Active exploits, Growing botnets, and Nation-state actors | Loginsoft | [Read More](https://medium.com/p/9e67b954e7f0) |
