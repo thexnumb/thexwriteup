@@ -14,6 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 20:01:05 GMT | Introducing MAT Firewall: A Powerful Security Solution for WordPress | Matin Rezakhani | [Read More](https://medium.com/p/feb955149d9e) |
+| Fri, 25 Apr 2025 19:56:06 GMT | Don’t Wait to Graduate to Start Your Business | Savvy Cyber Kids | [Read More](https://medium.com/p/0587c26cd233) |
+| Fri, 25 Apr 2025 19:53:26 GMT | Vulnerabilities Assessment - Hire Hacker - Get Help | BlackHat | [Read More](https://medium.com/p/28f8044678bb) |
+| Fri, 25 Apr 2025 19:51:21 GMT | I’m on TikTok, but Your Elementary School Aged Child Probably Shouldn’t Be | Savvy Cyber Kids | [Read More](https://medium.com/p/af3503226cbe) |
+| Fri, 25 Apr 2025 19:49:32 GMT | Traffic Surge or Cyber Mirage? Let’s Sniff Out the Bots; CAPTCHA, Handle This One — Lock the Gate? | Viv's, Exploring 360° ;) | [Read More](https://medium.com/p/710acf2d7339) |
+| Fri, 25 Apr 2025 19:34:23 GMT | Protect Your New Home From Digital Dangers When You Move | Savvy Cyber Kids | [Read More](https://medium.com/p/835ab8ae7a37) |
+| Fri, 25 Apr 2025 19:32:56 GMT | 09013027390 | شماره خاله شماره خالهشماره خاله تهران  شماره  خاله | [Read More](https://medium.com/p/445f01286ec3) |
 | Fri, 25 Apr 2025 19:27:41 GMT | Let’s Build Agents! | Mary Becken | [Read More](https://medium.com/p/1f143162e76d) |
 | Fri, 25 Apr 2025 19:27:35 GMT | Federated Learning model work process | Md.Mahabub Hasan Mamun | [Read More](https://medium.com/p/e388bc7a1235) |
 | Fri, 25 Apr 2025 19:25:11 GMT | Demystifying SBOM and SCA: The Foundation of Secure, Compliant Software Development | Albin Issac | [Read More](https://medium.com/p/1d31c1869a36) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 13:45:51 GMT | Del ruido a la resiliencia: por qué SOCless no es el destino, sino el camino. | Fabian Zambrano Smith | [Read More](https://medium.com/p/6ed1dba5cdb4) |
 | Fri, 25 Apr 2025 13:38:17 GMT | Generate Strong Passwords in 1 Line of Python! | Jaume Boguñá | [Read More](https://medium.com/p/46d2d915bd52) |
 | Fri, 25 Apr 2025 13:36:36 GMT | The Rise of Decentralized and Encrypted Dark Web Marketplaces: A New Era of Digital Illicit Trade | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/0a283c97fd22) |
-| Fri, 25 Apr 2025 13:35:14 GMT | 10 Best Tools for Digital Forensics ️: Tracking Digital Evidence | Esra Kayhan | [Read More](https://medium.com/p/e0bade9f7ce6) |
-| Fri, 25 Apr 2025 13:27:39 GMT | Europe’s IT Industry Has a Single Point of Failure — U.S. Cloud Platforms | Yutong Du | [Read More](https://medium.com/p/1492f0c2821c) |
-| Fri, 25 Apr 2025 13:23:08 GMT | OSINT and Google Dorking | Mylescorey | [Read More](https://medium.com/p/ba3b5ce469d4) |
-| Fri, 25 Apr 2025 13:17:21 GMT | Red Team Recruitment Test | Alireza Mokhtari | [Read More](https://medium.com/p/899059166128) |
-| Fri, 25 Apr 2025 13:12:23 GMT | Living Without a God: Why Atheism Isn’t Emptiness, But Freedom | Emily Wilson | [Read More](https://medium.com/p/28de74f0500e) |
-| Fri, 25 Apr 2025 13:08:15 GMT | Catching “Any” in Palo Alto Rules with Syslog and Python | Prathap S S | [Read More](https://medium.com/p/c730117b8073) |
-| Fri, 25 Apr 2025 13:05:02 GMT | NPM’de Sessiz Tehlike: xrpl.js Paketine Backdoor Enjekte Edildi | Hacercaliskan | [Read More](https://medium.com/p/807bc9370478) |
