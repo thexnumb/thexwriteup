@@ -14,6 +14,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 08:26:17 GMT | Smarter Threats Need Smarter Defenses: How AI Is Shaping the Future of Cybersecurity | Aishvaryachavali | [Read More](https://medium.com/p/65ca51592e37) |
+| Fri, 25 Apr 2025 08:13:53 GMT | Mobile App Testing Experts You Can Trust - 5Data Inc | Bharathig | [Read More](https://medium.com/p/736bfdb7995c) |
+| Fri, 25 Apr 2025 08:13:12 GMT | HackTheBox — EscapeTwo: Dari SQL Access hingga Administrator | Angga Jagad Pangestu | [Read More](https://medium.com/p/8263c91d6917) |
+| Fri, 25 Apr 2025 08:03:11 GMT | How I Gained Root Access on the Kioptrix Virtual Machine — A Step-by-Step Guide for Beginners in… | Mohammad Pakdast Nobari | [Read More](https://medium.com/p/f5a77c8fa68e) |
+| Fri, 25 Apr 2025 08:03:09 GMT | Attackers and Their Tools | Muhammad Rafi Athallah | [Read More](https://medium.com/p/37bf8efff779) |
+| Fri, 25 Apr 2025 08:02:38 GMT | OWASP Top 10 for LLMs and GenAI Cheatsheet: The Ultimate Guide to Securing AI Systems | Vikrant Dheer | [Read More](https://medium.com/p/6d3b2fc8960c) |
+| Fri, 25 Apr 2025 07:59:23 GMT | 一个小技巧，揪出出卖邮箱资料的人！ | fgg fhf | [Read More](https://medium.com/p/1fdc1c9975c0) |
+| Fri, 25 Apr 2025 07:57:38 GMT | Top Information Technology Colleges in Bangalore | Jahnavi Desai | [Read More](https://medium.com/p/09a79b09f667) |
+| Fri, 25 Apr 2025 07:55:29 GMT | Introduction | fgg fhf | [Read More](https://medium.com/p/f8ecae681fe4) |
+| Fri, 25 Apr 2025 07:54:20 GMT | Summer Internship Training in Cyber Security [2025] | Ankit_Cyber | [Read More](https://medium.com/p/301cecad950b) |
+| Fri, 25 Apr 2025 07:52:00 GMT | The Daily Tech Digest: 25 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/997c6de17651) |
+| Fri, 25 Apr 2025 07:39:28 GMT | Secret Sauce in Robots.txt  — How I Found Hidden Admin Panels and Debug URLs | Iski | [Read More](https://medium.com/p/b7e8a11ea36f) |
+| Fri, 25 Apr 2025 07:39:00 GMT | Cybersecurity Framework: What You Need to Know | SecureSlate | [Read More](https://medium.com/p/26bbfdfab4e9) |
+| Fri, 25 Apr 2025 07:34:20 GMT | How Compliance Costs Add Up a Breakdown of Expenses | Finstein.ai | [Read More](https://medium.com/p/83d6582509f4) |
+| Fri, 25 Apr 2025 07:32:29 GMT | Mastering Operational Security: Ensuring Your Business and Personal Data Stay Safe | Ayush Rai | [Read More](https://medium.com/p/60551115d403) |
 | Fri, 25 Apr 2025 07:30:32 GMT | Hive Ransomware | Psyrensics | [Read More](https://medium.com/p/e6f495aa46ff) |
 | Fri, 25 Apr 2025 07:29:38 GMT | 2025 Bybit Hack (What the Hackers in Front Line Were Experiencing) & How Safe{Wallet} Guard Can… | Woody Wang | [Read More](https://medium.com/p/2a25d53944c9) |
 | Fri, 25 Apr 2025 07:25:34 GMT | How to Answer, “What Salary Do You Expect?” Without Underselling Yourself | Prism HRC | [Read More](https://medium.com/p/60bfced6eeb1) |
@@ -99,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 00:30:00 GMT | The Internship Illusion: Why “Experience” is the New Entry Ticket (Even When No One Says So) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/05f337682902) |
 | Fri, 25 Apr 2025 00:29:16 GMT | “SwagShop” Hack The Box Walkthrough | 0xTweety | [Read More](https://medium.com/p/f4533c9c8954) |
 | Fri, 25 Apr 2025 00:26:45 GMT | Have we lost the fight against cyber criminals? | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/17d2e6a14d1c) |
-| Fri, 25 Apr 2025 00:18:01 GMT | Unlocking Networks: A Beginner’s Guide to Cybersecurity’s Building Blocks. | John Otieno | [Read More](https://medium.com/p/3c4793f35413) |
-| Fri, 25 Apr 2025 00:01:23 GMT | How I Found phpinfo Exposure In telkomsigma.co.id | Firdaus Muhammad Ismail | [Read More](https://medium.com/p/49c89a1b0404) |
-| Thu, 24 Apr 2025 23:56:51 GMT | SSL Handshake — Understanding One-way functions. | Chibuike Kosisochukwu | [Read More](https://medium.com/p/fac7d9e28b2b) |
-| Thu, 24 Apr 2025 23:54:29 GMT | Hack The Box — Machine — Administrator Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/588555159e0c) |
-| Thu, 24 Apr 2025 23:32:26 GMT | Palo Alto Networks DNS Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/75c6ea3b3cba) |
-| Thu, 24 Apr 2025 23:29:29 GMT | As falhas invisíveis: como a lógica mal pensada compromete a segurança web | Moprius | [Read More](https://medium.com/p/f904869642d1) |
-| Thu, 24 Apr 2025 23:20:48 GMT | Portable And Securely Designed Electric Scooter | Ericds chisler | [Read More](https://medium.com/p/239ba83469d0) |
-| Thu, 24 Apr 2025 23:17:57 GMT | My First Step Into Cybersecurity: A Journey Fueled by Curiosity and Heart | John Otieno | [Read More](https://medium.com/p/d26f26ec5b26) |
-| Thu, 24 Apr 2025 23:13:42 GMT | HawkEyeSec | Imane Ismail | [Read More](https://medium.com/p/0d2a35e0f18b) |
-| Thu, 24 Apr 2025 23:11:56 GMT | CI/CD Driven Passive Reconnaissance: A DevSecOps Approach to External Attack Surface Enumeration | Onurcan Genç | [Read More](https://medium.com/p/22d4fa3417d7) |
-| Thu, 24 Apr 2025 23:02:00 GMT | The Role of Digital Forensics in Legal Cases Involving Cybercrime | Akshay Chauhan | [Read More](https://medium.com/p/4c024aed37bf) |
-| Thu, 24 Apr 2025 22:56:47 GMT | Shadow APIs and Shadow AIs: The Biggest Cybersecurity Threats in Modern Organizations | Cyber-AppSec | [Read More](https://medium.com/p/980e4911b6ad) |
-| Thu, 24 Apr 2025 22:52:03 GMT | Hacking the Hacker: How External Pen Testing Safeguards Your Business | Akshay Chauhan | [Read More](https://medium.com/p/8bd00a83427b) |
-| Thu, 24 Apr 2025 22:51:31 GMT | ️ Top 10 Real-World Attacks on Machine Learning Systems (and How to Prevent Them) | Haydar Majeed | [Read More](https://medium.com/p/afd4bd3a33a9) |
-| Thu, 24 Apr 2025 22:50:59 GMT | Command and Control DNS Part II: Evasion with DGA and Data Obfuscation | S12 - H4CK | [Read More](https://medium.com/p/7066afc4d1a6) |
