@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 23:13:37 GMT | Waking up to a New Reality: The End of the Line | Philip Siddons | [Read More](https://medium.com/p/f9b325602b57) |
+| Fri, 25 Apr 2025 23:10:33 GMT | Vulnerabilities in AI Training Processes: A Practical Perspective on Prevention 2025 | Li Zixiang | [Read More](https://medium.com/p/d09bf22b450f) |
+| Fri, 25 Apr 2025 22:54:49 GMT | External Asset Management (EAM) in Cybersecurity: A Practical Guide for Cloud Environments | AD Oyedepo | [Read More](https://medium.com/p/8a854bbe4690) |
+| Fri, 25 Apr 2025 22:37:42 GMT | OOP in Programming | Migo ee | [Read More](https://medium.com/p/bc0ca618db63) |
+| Fri, 25 Apr 2025 22:31:09 GMT | Next.js Middleware Vulnerability: How CVE-2025–29927 Enables Authorization Bypass | Nitin Gavhane | [Read More](https://medium.com/p/1e0293d10e24) |
 | Fri, 25 Apr 2025 22:16:33 GMT | How to Implement Network Segmentation to Enhance Security | Karthikeyan Nagaraj | [Read More](https://medium.com/p/54c657e2c9fd) |
 | Fri, 25 Apr 2025 22:10:48 GMT | Hack The Box “SwagShop” Walkthrough ️ | 0xTweety | [Read More](https://medium.com/p/4aa4756986f5) |
 | Fri, 25 Apr 2025 21:35:56 GMT | Cyber Defense in 2025: Insights That Actually Matter (From CrowdStrike’s Latest Report) | Anezaneo | [Read More](https://medium.com/p/12a9a8b536cb) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 15:17:51 GMT | Pwanagotchi is a tool to collect passive | Rkrcker | [Read More](https://medium.com/p/e8f7f397c900) |
 | Fri, 25 Apr 2025 15:17:30 GMT | Ghosting AMSI: Cutting RPC to disarm AV | Andrea Bocchetti | [Read More](https://medium.com/p/04c26d67bb80) |
 | Fri, 25 Apr 2025 15:13:51 GMT | Spring Security: Authentication and Authorization In-Depth: Part 1 | Rahul Soni | [Read More](https://medium.com/p/e0486f59748f) |
-| Fri, 25 Apr 2025 15:09:49 GMT | Hidden Entrances: Where javascript: URLs Are Still Allowed | Zoningxtr | [Read More](https://medium.com/p/a52842c6aee6) |
-| Fri, 25 Apr 2025 15:09:42 GMT | Burp Suite’s Latest Arsenal: AI Power, Smarter Scanning, and Workflow Wizard | Spectat0rguy | [Read More](https://medium.com/p/42d54edf283f) |
-| Fri, 25 Apr 2025 15:05:05 GMT | ¿Qué te dice tu sexto sentido sobre el ICTC? | WhiteBIT | [Read More](https://medium.com/p/297cc1ca379a) |
-| Fri, 25 Apr 2025 15:01:31 GMT | What Is " javascript: “and Why Hackers Love It | Zoningxtr | [Read More](https://medium.com/p/b6135b3d089e) |
-| Fri, 25 Apr 2025 15:00:48 GMT | The person who’s never cared for… | Batul | [Read More](https://medium.com/p/a29fdf3b446f) |
