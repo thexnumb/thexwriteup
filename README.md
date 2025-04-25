@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 19:07:13 GMT | Let’sDefend SOC Write-Up: LS Command Detected in Requested URL | Gözde | [Read More](https://medium.com/p/0ec3de2fa690) |
+| Fri, 25 Apr 2025 19:06:37 GMT | LetsDefend — Excel 4.0 Macros (Medium) | Mateo Pappa | [Read More](https://medium.com/p/f16ea6e0c74b) |
+| Fri, 25 Apr 2025 19:03:16 GMT | Securing .NET Applications: Preventing Threats Through Package Audits | Ajay kumar | [Read More](https://medium.com/p/dafea5248f85) |
+| Fri, 25 Apr 2025 19:01:29 GMT | Level Up Your Security Skills: The First 10 Linux Commands You Should Learn. | Cyber Kavy | [Read More](https://medium.com/p/7c82847734d3) |
+| Fri, 25 Apr 2025 18:51:29 GMT | Your Personal Data Is for Sale. Here’s How mePrism Protects You | mePrism Privacy | [Read More](https://medium.com/p/fa532b401ad7) |
+| Fri, 25 Apr 2025 18:42:43 GMT | Understanding the Intelligence Lifecycle: Building a Solid Foundation for Intelligence Work | Joe The OSINT Guy | [Read More](https://medium.com/p/1744a2138c71) |
 | Fri, 25 Apr 2025 18:39:48 GMT | Sarab — Cyber Deception in Action: | Cytomate | [Read More](https://medium.com/p/e35849bda050) |
 | Fri, 25 Apr 2025 18:33:55 GMT | Staying Safe in the Digital Age: Protecting Yourself From Cyber Scams | ɌƋƑ•TECH | [Read More](https://medium.com/p/60b9bf6d47a9) |
 | Fri, 25 Apr 2025 18:28:27 GMT | Adopting a Web Application Firewall for Instawork: A Journey from Amazon WAF to Cloudflare | Duncan Edwards | [Read More](https://medium.com/p/c3edffd58a6e) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 13:01:27 GMT | ️ Windows Defender Exclusions — Legit Use, Security Risks, and Ethical Hacking Tricks | Yua Mikanana | [Read More](https://medium.com/p/3c35a8c5b7ed) |
 | Fri, 25 Apr 2025 13:00:56 GMT | Massive Yale New Haven Health Data Breach Exposes Information of 5.6 Million Patients | Technijian | [Read More](https://medium.com/p/50a7a71f7210) |
 | Fri, 25 Apr 2025 12:59:16 GMT | NETWORK TRAFFIC ANALYSIS WITH WIRESHARK | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/d79276d68612) |
-| Fri, 25 Apr 2025 12:58:05 GMT | Secure, Scalable Home Web Hosting | John H. Ring IV | [Read More](https://medium.com/p/4858bf16cf95) |
-| Fri, 25 Apr 2025 12:57:43 GMT | How I Went From a Village Boy to a Bug Bounty Hunter: A Teen's Cybersecurity Story | Cyber Venom 101 | [Read More](https://medium.com/p/63286b8c7f71) |
-| Fri, 25 Apr 2025 12:55:49 GMT | Quick Development With Secure No-Code Solutions | Franklinr held | [Read More](https://medium.com/p/613d94ec3091) |
-| Fri, 25 Apr 2025 12:54:27 GMT | More about CVV2 on your Payment Card | Manyi | [Read More](https://medium.com/p/6f7124ca639e) |
-| Fri, 25 Apr 2025 12:48:33 GMT | Protection Against Malicious PDF Files: Security Measures to Take ️ | Esra Kayhan | [Read More](https://medium.com/p/03215fdbaaff) |
-| Fri, 25 Apr 2025 12:43:21 GMT | Linux Password Cracking Techniques and Defense Methods | Esra Kayhan | [Read More](https://medium.com/p/b43caaa539b8) |
