@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 11:02:27 GMT | JSS Group: The Best Security Agency in Mumbai and Across India | JSS Group | [Read More](https://medium.com/p/5c3fcac05b28) |
+| Fri, 25 Apr 2025 11:01:28 GMT | From Cost Center to Profit Protector: Proving the Value of Cybersecurity to the Business (in… | Wale Adedeji | [Read More](https://medium.com/p/fd8d183cbe42) |
+| Fri, 25 Apr 2025 10:55:28 GMT | $500,000 Up for Grabs: STON.fi Launches a High-Stakes Bug Bounty Program on TON | Lygoph_writes | [Read More](https://medium.com/p/6a5a5b5b967f) |
+| Fri, 25 Apr 2025 10:50:53 GMT | How to Install and Use Metasploit in Termux | Kambetastephano | [Read More](https://medium.com/p/2227dadd03bf) |
+| Fri, 25 Apr 2025 10:50:03 GMT | CISSP Exam in 2025: 7 Smart Cybersecurity Hacks You Need to know | Muhammad Ahmad | [Read More](https://medium.com/p/a5c469d91423) |
+| Fri, 25 Apr 2025 10:37:36 GMT | Why SOC Analysts Need to Think Like Hackers (and How to Do It!) | Bl@ckC!pH3r | [Read More](https://medium.com/p/f86f922a5ac7) |
 | Fri, 25 Apr 2025 10:35:26 GMT | WordPress powers over 43% of all websites on the internet, making wordpress security not just a… | Science Pin | [Read More](https://medium.com/p/9fc1b759b545) |
 | Fri, 25 Apr 2025 10:28:52 GMT | Cutting Through the Clutter: How AI-Powered Automation Revamped Global CapEx Procurement | LTS | [Read More](https://medium.com/p/3b5be98119a1) |
 | Fri, 25 Apr 2025 10:27:08 GMT | How to Install and Use Netcat in Termux | Kambetastephano | [Read More](https://medium.com/p/624a0f571f9a) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 05:56:46 GMT | Unlocking the Power of Certified Ethical Hacker v13: Your Gateway to Cybersecurity Expertise | Certocean | [Read More](https://medium.com/p/fe02d437ae98) |
 | Fri, 25 Apr 2025 05:54:31 GMT | The Fastest Way to Learn Web Hacking in 2025 (With Free Resources) | Abhijeet Kumawat | [Read More](https://medium.com/p/88c8e74a3889) |
 | Fri, 25 Apr 2025 05:47:09 GMT | [New Podcast] Rethinking Built Environment Security In Kenya: Insights From The RIANA Group… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/9a356bec35fc) |
-| Fri, 25 Apr 2025 05:44:46 GMT | Cargills Bank’s Massive Data Breach: A Wake-Up Call for Financial Cyber Security | cybrNK | [Read More](https://medium.com/p/cf58c22629b4) |
-| Fri, 25 Apr 2025 05:43:08 GMT | Secure GPU Virtualization: Isolation, Memory Protection, and Attack Vectors | StackGpu | [Read More](https://medium.com/p/500896d3c726) |
-| Fri, 25 Apr 2025 05:41:41 GMT | What Makes a Security Company the Best in Singapore? 5 Must-Have Qualities | Jane Tang | [Read More](https://medium.com/p/68be4fbea6df) |
-| Fri, 25 Apr 2025 05:38:09 GMT | The Art of Being Vulnerable on Social Media (And Why You Shouldn’t Hold Back) | RiseWithKakes | [Read More](https://medium.com/p/deaac47c28f5) |
-| Fri, 25 Apr 2025 05:37:39 GMT | WebLogic Horizontal Cluster Creation and Adding Secondary Machines | Sawan kumar | [Read More](https://medium.com/p/5a5178699e8e) |
-| Fri, 25 Apr 2025 05:26:09 GMT | Earn your First $5000 Bug-Bounty. | Rishav anand | [Read More](https://medium.com/p/c49495337ef0) |
