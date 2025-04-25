@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 19:27:41 GMT | Let’s Build Agents! | Mary Becken | [Read More](https://medium.com/p/1f143162e76d) |
+| Fri, 25 Apr 2025 19:27:35 GMT | Federated Learning model work process | Md.Mahabub Hasan Mamun | [Read More](https://medium.com/p/e388bc7a1235) |
+| Fri, 25 Apr 2025 19:25:11 GMT | Demystifying SBOM and SCA: The Foundation of Secure, Compliant Software Development | Albin Issac | [Read More](https://medium.com/p/1d31c1869a36) |
+| Fri, 25 Apr 2025 19:14:20 GMT | How to Train Your Team on XDR Solutions | Akshay Chauhan | [Read More](https://medium.com/p/c81c41b98b71) |
+| Fri, 25 Apr 2025 19:08:38 GMT | 6 Linux Misconfigurations I Regret Not Catching Sooner | Faruk Ahmed | [Read More](https://medium.com/p/a6769849762d) |
 | Fri, 25 Apr 2025 19:07:13 GMT | Let’sDefend SOC Write-Up: LS Command Detected in Requested URL | Gözde | [Read More](https://medium.com/p/0ec3de2fa690) |
 | Fri, 25 Apr 2025 19:06:37 GMT | LetsDefend — Excel 4.0 Macros (Medium) | Mateo Pappa | [Read More](https://medium.com/p/f16ea6e0c74b) |
 | Fri, 25 Apr 2025 19:03:16 GMT | Securing .NET Applications: Preventing Threats Through Package Audits | Ajay kumar | [Read More](https://medium.com/p/dafea5248f85) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 13:12:23 GMT | Living Without a God: Why Atheism Isn’t Emptiness, But Freedom | Emily Wilson | [Read More](https://medium.com/p/28de74f0500e) |
 | Fri, 25 Apr 2025 13:08:15 GMT | Catching “Any” in Palo Alto Rules with Syslog and Python | Prathap S S | [Read More](https://medium.com/p/c730117b8073) |
 | Fri, 25 Apr 2025 13:05:02 GMT | NPM’de Sessiz Tehlike: xrpl.js Paketine Backdoor Enjekte Edildi | Hacercaliskan | [Read More](https://medium.com/p/807bc9370478) |
-| Fri, 25 Apr 2025 13:04:07 GMT | Gmail Hacking/Recon — Finding stuff with the latest Ghunt. | Yashwant Singh | [Read More](https://medium.com/p/c5f47d63650b) |
-| Fri, 25 Apr 2025 13:01:29 GMT | The Risk You Don’t See: Inconsistent Alert Triage Is a Breach Waiting to Happen | Peris.ai Cybersecurity | [Read More](https://medium.com/p/69e8d4392abc) |
-| Fri, 25 Apr 2025 13:01:27 GMT | ️ Windows Defender Exclusions — Legit Use, Security Risks, and Ethical Hacking Tricks | Yua Mikanana | [Read More](https://medium.com/p/3c35a8c5b7ed) |
-| Fri, 25 Apr 2025 13:00:56 GMT | Massive Yale New Haven Health Data Breach Exposes Information of 5.6 Million Patients | Technijian | [Read More](https://medium.com/p/50a7a71f7210) |
-| Fri, 25 Apr 2025 12:59:16 GMT | NETWORK TRAFFIC ANALYSIS WITH WIRESHARK | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/d79276d68612) |
