@@ -14,6 +14,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 17:05:21 GMT | Privacy and security behind Hey ChatGPT create a picture of me. | Abith Ahamed | [Read More](https://medium.com/p/1a81816aa07c) |
+| Fri, 25 Apr 2025 17:04:42 GMT | The Timeless Tricks of Social Engineering | Sapphire Infosec | [Read More](https://medium.com/p/f6c0331f52a1) |
+| Fri, 25 Apr 2025 17:00:58 GMT | How to Scan Excel .XLS Files for Malware and Viruses in .NET Applications | Cloudmersive | [Read More](https://medium.com/p/3a5885c15eff) |
+| Fri, 25 Apr 2025 16:55:18 GMT | The Weekly Threat Round-up 21/04/2025 -25/04/2025 | RileyHv | [Read More](https://medium.com/p/9970f63e630b) |
+| Fri, 25 Apr 2025 16:50:53 GMT | Developer-Friendly Zero Trust using SPIFFE/SPIRE — part 4. Container Lifecycle Hooks | hai huang | [Read More](https://medium.com/p/0375881bd88a) |
+| Fri, 25 Apr 2025 16:47:16 GMT | Desenvolvimento Seguro: Explorando as principais vulnerabilidades da OWASP | Ângelo Hank | [Read More](https://medium.com/p/66ff6e88713c) |
+| Fri, 25 Apr 2025 16:46:47 GMT | Password Strength Checker Using Python | Vishal Kumar | [Read More](https://medium.com/p/7480eabc79f2) |
+| Fri, 25 Apr 2025 16:46:27 GMT | The Hidden Vulnerabilities of Web3’s Abandoned Frontiers | Octav | [Read More](https://medium.com/p/89c9c9494b95) |
+| Fri, 25 Apr 2025 16:45:25 GMT | Linux by Karthick DKK | Karthick Dkk | [Read More](https://medium.com/p/8ab722720308) |
+| Fri, 25 Apr 2025 16:45:15 GMT | Info- CIA Triad..? | InREXnA | [Read More](https://medium.com/p/2c79188cae10) |
 | Fri, 25 Apr 2025 16:42:15 GMT | $5,000 Bounty: How iScan.today Helped Me Find a Verified GitHub Token with Org-Wide Write Access | Arshad Kazmi | [Read More](https://medium.com/p/615e999a0219) |
 | Fri, 25 Apr 2025 16:29:13 GMT | A Beginner’s View on Cybersecurity and Online Safety | N Abisha | [Read More](https://medium.com/p/db1e144f1468) |
 | Fri, 25 Apr 2025 16:23:38 GMT | Diffie-Hellman Key Exchange explained step by step | Chibuike Kosisochukwu | [Read More](https://medium.com/p/4a4b98567332) |
@@ -38,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 15:36:27 GMT | My Initial Hackathon Experience: Not Moving Forward with Team Sakha | Itsurkk | [Read More](https://medium.com/p/b2f35c723afe) |
 | Fri, 25 Apr 2025 15:29:49 GMT | Before Code Runs: Understanding the JavaScript Execution Environment | Zoningxtr | [Read More](https://medium.com/p/fe79047926af) |
 | Fri, 25 Apr 2025 15:25:35 GMT | How to Protect the SafeLine Management Interface | Loria | [Read More](https://medium.com/p/398061b19d4d) |
+| Fri, 25 Apr 2025 15:22:31 GMT | Mastering HTTPS Traffic Interception in Flutter Using Burp Suite | Hatem Mohamed Abdallah | [Read More](https://medium.com/p/13c02b968bf4) |
 | Fri, 25 Apr 2025 15:20:35 GMT | Think you can outsmart a WAF? Try this free | Loria | [Read More](https://medium.com/p/8691cad11dcc) |
 | Fri, 25 Apr 2025 15:20:32 GMT | 100 Essential Linux Commands for Ethical Hackers and Pentesters | Abdielkristopher | [Read More](https://medium.com/p/5dacbde4e09b) |
 | Fri, 25 Apr 2025 15:17:51 GMT | Pwanagotchi is a tool to collect passive | Rkrcker | [Read More](https://medium.com/p/e8f7f397c900) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 11:44:33 GMT | 7 Critical Steps to Lock Down Your Financial Apps | Karl Buhl | [Read More](https://medium.com/p/218a235968e9) |
 | Fri, 25 Apr 2025 11:41:21 GMT | Unlock the Best Deals on Antivirus Software with Top2Antivirus | Top2Antivirus | [Read More](https://medium.com/p/74d919593609) |
 | Fri, 25 Apr 2025 11:39:27 GMT | A Conversation I Almost Didn’t Have | Valverda Joseph | [Read More](https://medium.com/p/93dee4ae8590) |
-| Fri, 25 Apr 2025 11:39:05 GMT | Smart Gains: A 3-Month Investment Playbook | Edu-Uwem Udofia | [Read More](https://medium.com/p/5a90e847a9b9) |
-| Fri, 25 Apr 2025 11:33:02 GMT | HTB BoardLight Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/13a0c070587f) |
-| Fri, 25 Apr 2025 11:31:27 GMT | Understanding Template Engines & Server-Side Template Injection (SSTI) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/81ecf2fefc19) |
-| Fri, 25 Apr 2025 11:24:40 GMT | Transforming Enterprise IT Through AI and Automation: The New Strategic Paradigm | Hamza Baig | [Read More](https://medium.com/p/0b151adfb667) |
-| Fri, 25 Apr 2025 11:20:01 GMT | Web App Reconnaissance Like a Spy ️‍♂️: Tools & Techniques for 2025 | Vipul Sonule | [Read More](https://medium.com/p/072032e31adf) |
-| Fri, 25 Apr 2025 11:19:39 GMT | Rate Limiting Statamic on Linode with Forge + NGINX | Satheesh Kumar S | [Read More](https://medium.com/p/c38134d850c2) |
-| Fri, 25 Apr 2025 11:18:00 GMT | Securycor: Your Trusted Security Agency in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/f8331701fc10) |
-| Fri, 25 Apr 2025 11:16:07 GMT | What Does Cyber Insurance Really Cover? | Best Insurance Living | [Read More](https://medium.com/p/c707957c8a91) |
-| Fri, 25 Apr 2025 11:14:40 GMT | How to Implement a Cybersecurity Governance Step by Step | SecureSlate | [Read More](https://medium.com/p/dfa8fbe6c2dd) |
-| Fri, 25 Apr 2025 11:14:25 GMT | A journey to change | Cyra May Oquendo | [Read More](https://medium.com/p/d29fc17c70e4) |
-| Fri, 25 Apr 2025 11:12:47 GMT | Our Identities Are at Risk of Being Stolen! | Todd Castor | [Read More](https://medium.com/p/be26c7ec8de2) |
