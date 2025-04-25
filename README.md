@@ -14,6 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 20:33:32 GMT | Cybersecurity Best Practices for the AI Era: Enterprise Edition | Nicholas Dere Lucas | [Read More](https://medium.com/p/86641d37c32f) |
+| Fri, 25 Apr 2025 20:29:08 GMT | Silent Intruders: Navigating the Hidden Cybersecurity Threats of Remote Work’s Unseen World | Muhammed Tauseef khan | [Read More](https://medium.com/p/ab4153128f71) |
+| Fri, 25 Apr 2025 20:27:48 GMT | We share a pool of $500k in the Bug Bounty event | Kiyot0Sage | [Read More](https://medium.com/p/3adf9e9cce0b) |
+| Fri, 25 Apr 2025 20:25:54 GMT | WannaCry Ransomware Malware Analysis | MRxO1 | [Read More](https://medium.com/p/44216bfc818d) |
+| Fri, 25 Apr 2025 20:22:20 GMT | Делим пул 500к$ в ивенте Bug Bounty | Kiyot0Sage | [Read More](https://medium.com/p/b48eabc3407c) |
+| Fri, 25 Apr 2025 20:18:38 GMT | TOP 10 HACKING PODCASTS | ADanielHill | [Read More](https://medium.com/p/f4275cb02dfc) |
+| Fri, 25 Apr 2025 20:16:20 GMT | Unveiled : The Museum of Love | Thee supreme Nengi | [Read More](https://medium.com/p/1cf27436a3aa) |
 | Fri, 25 Apr 2025 20:01:05 GMT | Introducing MAT Firewall: A Powerful Security Solution for WordPress | Matin Rezakhani | [Read More](https://medium.com/p/feb955149d9e) |
 | Fri, 25 Apr 2025 19:56:06 GMT | Don’t Wait to Graduate to Start Your Business | Savvy Cyber Kids | [Read More](https://medium.com/p/0587c26cd233) |
 | Fri, 25 Apr 2025 19:53:26 GMT | Vulnerabilities Assessment - Hire Hacker - Get Help | BlackHat | [Read More](https://medium.com/p/28f8044678bb) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 14:05:19 GMT | Baidu Unveils 30,000 Kunlun Chips for Advanced AI Training | Lamidi Idris Olamide | [Read More](https://medium.com/p/5a332a4f9105) |
 | Fri, 25 Apr 2025 14:00:44 GMT | Why Most DevOps Pipelines Fail Compliance Audits? (and How to Fix It) | Najib Radzuan | [Read More](https://medium.com/p/7d94ea958472) |
 | Fri, 25 Apr 2025 13:59:59 GMT | After Computer science engineering…… | cracker_008 | [Read More](https://medium.com/p/7e7105a0195c) |
-| Fri, 25 Apr 2025 13:51:18 GMT | Secure Coding/Programming Buffer Overflows & APIs | Igor Berner | [Read More](https://medium.com/p/884350a8b7d9) |
-| Fri, 25 Apr 2025 13:49:30 GMT | Teaching Machines to Spot Lies: Fine-Tuning BERT Against Phishing Emails | Lucas Monribot | [Read More](https://medium.com/p/95a1481b73df) |
-| Fri, 25 Apr 2025 13:46:01 GMT | Is Your Google Account at Risk? Watch Out for These Phishing Emails | Sareena | [Read More](https://medium.com/p/10f468901dd6) |
-| Fri, 25 Apr 2025 13:45:52 GMT | A Breach of More Than Data: Oracle’s Tactics Reveal a Disturbing Disregard for Customers | Doug Jaworski | [Read More](https://medium.com/p/7823b589c294) |
-| Fri, 25 Apr 2025 13:45:51 GMT | Del ruido a la resiliencia: por qué SOCless no es el destino, sino el camino. | Fabian Zambrano Smith | [Read More](https://medium.com/p/6ed1dba5cdb4) |
-| Fri, 25 Apr 2025 13:38:17 GMT | Generate Strong Passwords in 1 Line of Python! | Jaume Boguñá | [Read More](https://medium.com/p/46d2d915bd52) |
-| Fri, 25 Apr 2025 13:36:36 GMT | The Rise of Decentralized and Encrypted Dark Web Marketplaces: A New Era of Digital Illicit Trade | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/0a283c97fd22) |
