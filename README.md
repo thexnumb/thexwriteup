@@ -14,7 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 21:31:41 GMT | Burp Suite — Creación de Reportes Mediante AI | ArtsSEC | [Read More](https://medium.com/p/f5ad88f5de1f) |
+| Fri, 25 Apr 2025 21:26:15 GMT | From 403 Forbidden to PII Exposure: How I Escalated a Low-Severity Bug to a High P2 | Gotcha1G | [Read More](https://medium.com/p/915a9b814ce6) |
 | Fri, 25 Apr 2025 21:14:17 GMT | OSCP+ Fail: From ‘Try Harder’ to ‘Read Slower’ — How It Rewired My Pentest Game | Anezaneo | [Read More](https://medium.com/p/c267efdf2af5) |
+| Fri, 25 Apr 2025 21:14:07 GMT | Crack WPA 2 & 3 WIFI Password ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/779c6e756892) |
 | Fri, 25 Apr 2025 21:08:03 GMT | Beginner’s Guide to Malware Development: Understanding Threads and Processes | Cyber_guy | [Read More](https://medium.com/p/ae52236751e8) |
 | Fri, 25 Apr 2025 20:58:24 GMT | Implementing Device Binding in WSO2 Identity Server | Viggnah Selvaraj | [Read More](https://medium.com/p/7e7f8ab19649) |
 | Fri, 25 Apr 2025 20:55:55 GMT | EDR (Endpoint Detection and Response) Nedir? | Melike Büşra Şener | [Read More](https://medium.com/p/b27a8d5fe4c4) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 14:58:31 GMT | This week in Cybersecurity: Active exploits, Growing botnets, and Nation-state actors | Loginsoft | [Read More](https://medium.com/p/9e67b954e7f0) |
 | Fri, 25 Apr 2025 14:46:53 GMT | MetaCTF April 2025 CTF Writeup: Caffeine Conundrum and MetaShop | CyberQuestor | [Read More](https://medium.com/p/e7b65b20bdd3) |
 | Fri, 25 Apr 2025 14:44:55 GMT | Advanced SQL Security | Mathss | [Read More](https://medium.com/p/3fc57f0ee879) |
-| Fri, 25 Apr 2025 14:41:10 GMT | That “Client” Who Tried to Scam Me | Sam Galope | [Read More](https://medium.com/p/a3047e7fb5e3) |
-| Fri, 25 Apr 2025 14:40:13 GMT | Cleanliness of Thought: Synthetic Data & the Persona Problem | Jay Noon | [Read More](https://medium.com/p/195c81b03bd0) |
-| Fri, 25 Apr 2025 14:22:01 GMT | Disk Imaging (Part 1) : Memory Acquisition & Encryption Checking | Dean | [Read More](https://medium.com/p/e45226b6081d) |
