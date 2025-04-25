@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 17:29:56 GMT | Privilege Escalation using Docker Container | Bishal Chapagain | [Read More](https://medium.com/p/e9110713936b) |
+| Fri, 25 Apr 2025 17:22:32 GMT | Google Cloud Shell for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/6afb0f01c29a) |
+| Fri, 25 Apr 2025 17:19:20 GMT | SAP NetWeaver at Risk Due to Vulnerability Enabling Remote Execution. | current.cybersecurity | [Read More](https://medium.com/p/9e22f80cd12a) |
+| Fri, 25 Apr 2025 17:17:28 GMT | TryHackMe - Valley - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/59ebf026e51a) |
+| Fri, 25 Apr 2025 17:14:25 GMT | A Look Back: JSF : JavaServer Faces | Bill Corrie | [Read More](https://medium.com/p/9acb023291d4) |
+| Fri, 25 Apr 2025 17:14:12 GMT | The Real Meaning of Authenticity: How Vulnerability Powers Your True Self | Janelle Jones | [Read More](https://medium.com/p/860d80445059) |
 | Fri, 25 Apr 2025 17:05:21 GMT | Privacy and security behind Hey ChatGPT create a picture of me. | Abith Ahamed | [Read More](https://medium.com/p/1a81816aa07c) |
 | Fri, 25 Apr 2025 17:04:42 GMT | The Timeless Tricks of Social Engineering | Sapphire Infosec | [Read More](https://medium.com/p/f6c0331f52a1) |
 | Fri, 25 Apr 2025 17:00:58 GMT | How to Scan Excel .XLS Files for Malware and Viruses in .NET Applications | Cloudmersive | [Read More](https://medium.com/p/3a5885c15eff) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 12:15:36 GMT | Password Attacks are Hard | netrunner-404 | [Read More](https://medium.com/p/b1664252b71f) |
 | Fri, 25 Apr 2025 12:08:48 GMT | WhatsApp Bug: Why Contact Names Starting with @ Show Numbers Instead | Sumanth Jammisetti | [Read More](https://medium.com/p/b68855e47b19) |
 | Fri, 25 Apr 2025 12:07:26 GMT | Code to Coast or Code to Conquer: The Developer’s Effort Paradox | Namir Sagheenanajar | [Read More](https://medium.com/p/92f70d902578) |
-| Fri, 25 Apr 2025 12:02:07 GMT | Run Any MCP Servers Securely and Easily with Docker | AI Rabbit | [Read More](https://medium.com/p/1bf3585a54b1) |
-| Fri, 25 Apr 2025 11:53:20 GMT | Think Your Writing Is “Good Enough”? Add This One Ingredient | Kamran Khan | [Read More](https://medium.com/p/c633792d6ebb) |
-| Fri, 25 Apr 2025 11:48:51 GMT | Cap CTF — HackTheBox Walkthrough | Alts | [Read More](https://medium.com/p/0d5794dd4712) |
-| Fri, 25 Apr 2025 11:44:33 GMT | 7 Critical Steps to Lock Down Your Financial Apps | Karl Buhl | [Read More](https://medium.com/p/218a235968e9) |
-| Fri, 25 Apr 2025 11:41:21 GMT | Unlock the Best Deals on Antivirus Software with Top2Antivirus | Top2Antivirus | [Read More](https://medium.com/p/74d919593609) |
-| Fri, 25 Apr 2025 11:39:27 GMT | A Conversation I Almost Didn’t Have | Valverda Joseph | [Read More](https://medium.com/p/93dee4ae8590) |
