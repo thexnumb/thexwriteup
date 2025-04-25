@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 13:35:14 GMT | 10 Best Tools for Digital Forensics ️: Tracking Digital Evidence | Esra Kayhan | [Read More](https://medium.com/p/e0bade9f7ce6) |
 | Fri, 25 Apr 2025 13:27:39 GMT | Europe’s IT Industry Has a Single Point of Failure — U.S. Cloud Platforms | Yutong Du | [Read More](https://medium.com/p/1492f0c2821c) |
 | Fri, 25 Apr 2025 13:23:08 GMT | OSINT and Google Dorking | Mylescorey | [Read More](https://medium.com/p/ba3b5ce469d4) |
 | Fri, 25 Apr 2025 13:17:21 GMT | Red Team Recruitment Test | Alireza Mokhtari | [Read More](https://medium.com/p/899059166128) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 08:26:48 GMT | 6 Quick Tweaks (and one extra!) to Hacker-Proof Your Accounts | Cloudbric VPN | [Read More](https://medium.com/p/fb2d969b2bf6) |
 | Fri, 25 Apr 2025 08:26:17 GMT | Smarter Threats Need Smarter Defenses: How AI Is Shaping the Future of Cybersecurity | Aishvaryachavali | [Read More](https://medium.com/p/65ca51592e37) |
 | Fri, 25 Apr 2025 08:21:33 GMT | DawgCTF 2025 Writeup - This Pokemon Team Is My Roman Empire | xch0r | [Read More](https://medium.com/p/891b958fbbe2) |
-| Fri, 25 Apr 2025 08:21:22 GMT | DawgCTF 2025 Writeup - Evanesco | xch0r | [Read More](https://medium.com/p/cd42e95e6dc4) |
