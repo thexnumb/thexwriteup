@@ -14,6 +14,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 06:15:35 GMT | Zabbix Server Installer | Dante | [Read More](https://medium.com/p/3de017d1b76f) |
+| Fri, 25 Apr 2025 06:15:20 GMT | Step into Leadership with CCISO! | Securium Academy | [Read More](https://medium.com/p/3bc4acd2c994) |
+| Fri, 25 Apr 2025 06:14:27 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 24] The Trial Before Christmas | TokiBando | [Read More](https://medium.com/p/acf611a54562) |
+| Fri, 25 Apr 2025 06:14:19 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 23] The Grinch strikes again! | TokiBando | [Read More](https://medium.com/p/08cd7a21ec2c) |
+| Fri, 25 Apr 2025 06:13:17 GMT | Most Pro Hacker Adviced Beginners To Start with on VDP Program I Taked This Advice and After Three… | Youssef Mohamed | [Read More](https://medium.com/p/bbc216680b6f) |
+| Fri, 25 Apr 2025 06:07:21 GMT | ZTNA vs VPN: Which One Is the Better Cybersecurity Solution? | Serishahid | [Read More](https://medium.com/p/65c9fca0e0b4) |
+| Fri, 25 Apr 2025 06:07:14 GMT | Unrestricted Access to All User Information - REST API Oversharing | Clement 'Tino | [Read More](https://medium.com/p/e4a9a7e5bade) |
+| Fri, 25 Apr 2025 06:04:31 GMT | How to Host a Static Website on Amazon S3 | Akuphe Dieudonne | [Read More](https://medium.com/p/8ce2da3a0e66) |
+| Fri, 25 Apr 2025 06:02:34 GMT | The Myth of Secure Perimeters: Why Internal Drift is Breaking Organizations | MrsNo1Special | [Read More](https://medium.com/p/d9efa8b366f9) |
+| Fri, 25 Apr 2025 06:01:30 GMT | From Casual Curiosity to Crucial Findings: vibe pentesting uncovers serious vulnerabilities in… | Kushal Jain | [Read More](https://medium.com/p/7c032383d227) |
+| Fri, 25 Apr 2025 06:01:29 GMT | The Corix Partners Friday Reading List — April 25, 2025 | JC Gaillard | [Read More](https://medium.com/p/3cede5c8fad4) |
+| Fri, 25 Apr 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Apr 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/2e978fdbf316) |
+| Fri, 25 Apr 2025 05:56:46 GMT | Unlocking the Power of Certified Ethical Hacker v13: Your Gateway to Cybersecurity Expertise | Certocean | [Read More](https://medium.com/p/fe02d437ae98) |
+| Fri, 25 Apr 2025 05:54:31 GMT | The Fastest Way to Learn Web Hacking in 2025 (With Free Resources) | Abhijeet Kumawat | [Read More](https://medium.com/p/88c8e74a3889) |
+| Fri, 25 Apr 2025 05:47:09 GMT | [New Podcast] Rethinking Built Environment Security In Kenya: Insights From The RIANA Group… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/9a356bec35fc) |
+| Fri, 25 Apr 2025 05:44:46 GMT | Cargills Bank’s Massive Data Breach: A Wake-Up Call for Financial Cyber Security | cybrNK | [Read More](https://medium.com/p/cf58c22629b4) |
+| Fri, 25 Apr 2025 05:43:08 GMT | Secure GPU Virtualization: Isolation, Memory Protection, and Attack Vectors | StackGpu | [Read More](https://medium.com/p/500896d3c726) |
+| Fri, 25 Apr 2025 05:41:41 GMT | What Makes a Security Company the Best in Singapore? 5 Must-Have Qualities | Jane Tang | [Read More](https://medium.com/p/68be4fbea6df) |
+| Fri, 25 Apr 2025 05:38:09 GMT | The Art of Being Vulnerable on Social Media (And Why You Shouldn’t Hold Back) | RiseWithKakes | [Read More](https://medium.com/p/deaac47c28f5) |
+| Fri, 25 Apr 2025 05:37:39 GMT | WebLogic Horizontal Cluster Creation and Adding Secondary Machines | Sawan kumar | [Read More](https://medium.com/p/5a5178699e8e) |
 | Fri, 25 Apr 2025 05:26:09 GMT | Earn your First $5000 Bug-Bounty. | Rishav anand | [Read More](https://medium.com/p/c49495337ef0) |
 | Fri, 25 Apr 2025 05:22:03 GMT | How a Google Alert Revealed My WhatsApp Number Was Publicly Exposed | Madina  Ochilova | [Read More](https://medium.com/p/4827e6443c1c) |
 | Fri, 25 Apr 2025 05:21:17 GMT | “Confessions of an Info Hoarder: Why I’m Breaking Up With My Saved Articles” | Alexander Lane | [Read More](https://medium.com/p/f712eae0f0e0) |
@@ -94,23 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 21:16:42 GMT | 6 Cloud Vulnerabilities You Need to Watch Out For in 2025 | Xaltius | [Read More](https://medium.com/p/2249d287b472) |
 | Thu, 24 Apr 2025 21:13:34 GMT | Excessive Permission Scope: When AI Access Goes Too Far** | Gal Moshkovitz | [Read More](https://medium.com/p/3e0a70dbf7ff) |
 | Thu, 24 Apr 2025 21:05:20 GMT | THE IMPORTANCE OF HAVING A SECURE WEBSITE | Hooria Buksh | [Read More](https://medium.com/p/61e700a98740) |
-| Thu, 24 Apr 2025 21:05:06 GMT | Custom Tooling Using Python: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/0800111cfd9e) |
-| Thu, 24 Apr 2025 21:03:44 GMT | Building a Virtual SOC Lab with VMware: Setting Up a Windows Server Domain, Linux Syslog Server… | Adrian Gonzalez | [Read More](https://medium.com/p/a2ec2535f2a9) |
-| Thu, 24 Apr 2025 21:02:27 GMT | The Importance of Cybersecurity Training for Employees: Your First Line of Defense | John Locke | [Read More](https://medium.com/p/8e90c425ee70) |
-| Thu, 24 Apr 2025 20:51:56 GMT | How to do Security Analysis | Tyler Wall | [Read More](https://medium.com/p/acbc67c1c963) |
-| Thu, 24 Apr 2025 20:51:03 GMT | Understanding Guest Users in Microsoft Teams | Peter Baddeley | [Read More](https://medium.com/p/748adb01dc77) |
-| Thu, 24 Apr 2025 20:49:49 GMT | A Gentle Introduction to AI Red Teaming | Jackson Bennett | [Read More](https://medium.com/p/08d73c8eff45) |
-| Thu, 24 Apr 2025 20:41:20 GMT | Serverless Solutions: Navigating the Efficiency-Security Tightrope | Hajiaga Sadikhov | [Read More](https://medium.com/p/2560f328c275) |
-| Thu, 24 Apr 2025 20:36:53 GMT | The Billboard Ad that Shields A Generation | Precious Adeagbo | [Read More](https://medium.com/p/ce03b8e3dd53) |
-| Thu, 24 Apr 2025 20:35:30 GMT | Explode vulnerabilities, protect your system | Progsky | [Read More](https://medium.com/p/c0ea7ab47344) |
-| Thu, 24 Apr 2025 20:33:09 GMT | ‍ From Zero to Entra Hero: Dive Into Microsoft Identity Labs | ChirchirMeshack | [Read More](https://medium.com/p/f5dbcb0f39a7) |
-| Thu, 24 Apr 2025 20:29:07 GMT | Custom Tooling Using Python : TryHackMe Walkthrough - Automated Penetration Testing | RosanaFSS | [Read More](https://medium.com/p/c8713b3cc576) |
-| Thu, 24 Apr 2025 20:23:33 GMT | Civilization. The last page. (66) | Jan Slort | [Read More](https://medium.com/p/80995e558d81) |
-| Thu, 24 Apr 2025 20:17:47 GMT | SSTI ve CSTI Zafiyetleri Nelerdir? | Emirhan Sevmez | [Read More](https://medium.com/p/b34f938a98e0) |
-| Thu, 24 Apr 2025 20:15:29 GMT | What about Information Disclosure Vulnerability? Scenarios? Mitigations? | Adham Hashem | [Read More](https://medium.com/p/8902d40cce0f) |
-| Thu, 24 Apr 2025 20:10:25 GMT | Your Dev Team Is Replaceable. Just Add VRAM. | Aleksandr Makarenko | [Read More](https://medium.com/p/6ee5c426d8a2) |
-| Thu, 24 Apr 2025 20:00:47 GMT | ST/CYBER-SECURITY PRACTICUM — Network Security Monitoring Rotation at ORTSOC | Vidhi Kadakia | [Read More](https://medium.com/p/d44005cb8a61) |
-| Thu, 24 Apr 2025 19:53:52 GMT | A Satanic Mass :: How to install TeamViewer on Kali Linux | Francesco Mantovani | [Read More](https://medium.com/p/e9eaad8d3756) |
-| Thu, 24 Apr 2025 19:51:51 GMT | How to Talk to Kids about the Latest Online Challenge Trend on Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/42d4ac79c0d8) |
-| Thu, 24 Apr 2025 19:50:56 GMT | The SEO Boost You Might Be Missing | Janeel Abrahams | [Read More](https://medium.com/p/4d6e6e8c4da1) |
-| Thu, 24 Apr 2025 19:48:05 GMT | Exploring the Comfort of Swaddle Blankets in the Maternal and Baby Products Industry | Lakshmanhemsley | [Read More](https://medium.com/p/f8bcf5ee6923) |
