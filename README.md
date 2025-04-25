@@ -14,7 +14,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 10:13:27 GMT | Nikto Web Scanner: A Powerful Tool for Ethical Hackers and Penetration Testers | YoungerSibling | [Read More](https://medium.com/p/f4409f5f91a5) |
+| Fri, 25 Apr 2025 10:11:08 GMT | HackNos: Player v1.1 (Vulnhub) | S4ntiHack | [Read More](https://medium.com/p/21b6e7b90608) |
+| Fri, 25 Apr 2025 10:07:58 GMT | Apple’s Zero-Day Exploits: What They Mean for You & How Infoziant Can Keep You Safe | Infoziant | [Read More](https://medium.com/p/5a06c7332a23) |
+| Fri, 25 Apr 2025 10:07:39 GMT | Windows Event Logs | Furkanctiner | [Read More](https://medium.com/p/fe7b4cd169b4) |
+| Fri, 25 Apr 2025 10:02:37 GMT | India’s Digital Firewall: Tech Sovereignty in a Surveillance Age | Cyrille Jeufo 1 | [Read More](https://medium.com/p/df113a0af0a9) |
+| Fri, 25 Apr 2025 10:02:34 GMT | Big Data, Big Trouble: How Mass Data Collection is Redefining Cybersecurity | Franziska "Ziska" Fink | [Read More](https://medium.com/p/cdac957c0288) |
+| Fri, 25 Apr 2025 09:58:01 GMT | Three of the four most exploited vulnerabilities in 2024 were zero-day flaws, found in security… | Re: News | [Read More](https://medium.com/p/7db63bdf72a5) |
+| Fri, 25 Apr 2025 09:52:31 GMT | Local vs National Security Companies in Thane | united guard | [Read More](https://medium.com/p/fb1f26881412) |
+| Fri, 25 Apr 2025 09:51:54 GMT | Day 16: Cracking APIs — A Beginner’s Guide to API Testing in Cybersecurity | Agarwaldaksh | [Read More](https://medium.com/p/fa117d2080d9) |
+| Fri, 25 Apr 2025 09:51:03 GMT | ️ 4 Must-Know Wallet Safety Tips to Protect Your Crypto | Zain | [Read More](https://medium.com/p/7bc1177ae652) |
+| Fri, 25 Apr 2025 09:49:02 GMT | Top 10 Security Companies in Thane (2025) | united guard | [Read More](https://medium.com/p/ab2a64d1fdf3) |
+| Fri, 25 Apr 2025 09:48:53 GMT | ประจำวันศุกร์ที่ 25 เมษายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d736ff47b228) |
+| Fri, 25 Apr 2025 09:48:35 GMT | Order and Sub Groups Orders in ECC | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c818c0e7f133) |
+| Fri, 25 Apr 2025 09:46:59 GMT | How I Passed CompTIA Security+ (0701) in 4 Weeks with Zero Cybersecurity Background | Suleman | [Read More](https://medium.com/p/02aa9cf0b0c7) |
+| Fri, 25 Apr 2025 09:42:25 GMT | The Identity Risk Surge of 2025 — Is Your Security Stack Ready? | David Canellos | [Read More](https://medium.com/p/3fe9732eade9) |
 | Fri, 25 Apr 2025 09:36:59 GMT | Mastering Linux Privilege Escalation: Part 3 — Advanced Exploits, NFS, and Real-World Strategy | Very Lazy Tech | [Read More](https://medium.com/p/0ba8198f03dc) |
+| Fri, 25 Apr 2025 09:31:26 GMT | OWASPがマルチエージェントAIの脅威モデリングガイドを公表(2025年4月25日公開) | Eiji Sasahara, Ph.D., MBA | [Read More](https://medium.com/p/f28a3e4cddb9) |
 | Fri, 25 Apr 2025 09:28:55 GMT | How to Choose the Right Cyber Security Course in Trivandrum: My Honest Guide | Anas VS | [Read More](https://medium.com/p/4e43bc33a371) |
 | Fri, 25 Apr 2025 09:27:38 GMT | Keterikatan Manusia terhadap kecerdasan buatan (AI) | Dwisevtiyani | [Read More](https://medium.com/p/88d5186a3b1b) |
 | Fri, 25 Apr 2025 09:23:54 GMT | Black Box Testing in Cybersecurity: What You Don’t Know Can Hurt You | West Advanced Technologies Inc | [Read More](https://medium.com/p/4c3007bee22b) |
@@ -98,19 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 05:00:28 GMT | Why I Believe Cybersecurity Matters Now More Than Ever | Luis E. | [Read More](https://medium.com/p/80ed625ad03f) |
 | Fri, 25 Apr 2025 04:45:35 GMT | Why a Dedicated Linux Course is Crucial for Cybersecurity Experts | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/60ce4408b391) |
 | Fri, 25 Apr 2025 04:43:59 GMT | Navigating Business Liability Challenges in the Digital Age: Strategies for Success | Tycoonstories | [Read More](https://medium.com/p/c68d442b54a0) |
-| Fri, 25 Apr 2025 04:42:13 GMT | Reverse Engineering Malware: Cracking the Code of Digital Predators | Ahmad Javed | [Read More](https://medium.com/p/47c7440c6559) |
-| Fri, 25 Apr 2025 04:41:50 GMT | The Malware That Outsmarted Antivirus, Firewalls, and Humans — Meet Chimera | Noel | [Read More](https://medium.com/p/7e7a4bba90fc) |
-| Fri, 25 Apr 2025 04:41:29 GMT | The Evolving Landscape of Ransomware | The Hackers Meetup | [Read More](https://medium.com/p/dd1f4944aeab) |
-| Fri, 25 Apr 2025 04:32:39 GMT | Bandit Level 20 → Level 21 - Setuid Networking | scissor_seven | [Read More](https://medium.com/p/e2369fd29d24) |
-| Fri, 25 Apr 2025 04:32:28 GMT | Bandit Level 21 → Level 22 - Scheduled Service Password Discovery | scissor_seven | [Read More](https://medium.com/p/b2b72c73adea) |
-| Fri, 25 Apr 2025 04:28:57 GMT | Sample MCP and A2A Application | erica jayasundera | [Read More](https://medium.com/p/f794b50f6f63) |
-| Fri, 25 Apr 2025 04:04:00 GMT | Hunting Fileless Malware on Windows Systems | Paritosh | [Read More](https://medium.com/p/2243d81b1e2d) |
-| Fri, 25 Apr 2025 04:03:26 GMT | Cybersecurity in Healthcare: The St. | Avnishyam | [Read More](https://medium.com/p/1286d21f67bd) |
-| Fri, 25 Apr 2025 03:50:55 GMT | VPN Tactics For Superior Online Protection | James Neal | [Read More](https://medium.com/p/05f6504612bd) |
-| Fri, 25 Apr 2025 03:48:21 GMT | Zabbix: Plataforma de Monitoreo Abierto para Infraestructuras Críticas | Dante | [Read More](https://medium.com/p/fb83ae76cb96) |
-| Fri, 25 Apr 2025 03:45:54 GMT | Comprehensive Guide To Advanced VPN Solutions | Melvin Erickson | [Read More](https://medium.com/p/df7b5b038c07) |
-| Fri, 25 Apr 2025 03:42:01 GMT | I will fix hacked wordpress site remove malware virus add security | Rukaiya | [Read More](https://medium.com/p/688705027014) |
-| Fri, 25 Apr 2025 03:33:58 GMT | Forensics : TryHackMe Walkthrough - DFIR, 360 points | RosanaFSS | [Read More](https://medium.com/p/822b5be5222c) |
-| Fri, 25 Apr 2025 03:31:33 GMT | What is Quantum Cryptography? | Servifyspheresolutions | [Read More](https://medium.com/p/b746b350515a) |
-| Fri, 25 Apr 2025 03:31:32 GMT | The Ghost in Your Machine: How Cybercriminals Are Cloning Your Digital Fingerprint | Deven Chhajed | [Read More](https://medium.com/p/00ae2d8e0076) |
-| Fri, 25 Apr 2025 03:27:31 GMT | What is Cyber Hygiene? | Yann Barba | [Read More](https://medium.com/p/9ab91645a045) |
