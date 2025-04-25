@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 04:32:39 GMT | Bandit Level 20 → Level 21 - Setuid Networking | scissor_seven | [Read More](https://medium.com/p/e2369fd29d24) |
+| Fri, 25 Apr 2025 04:32:28 GMT | Bandit Level 21 → Level 22 - Scheduled Service Password Discovery | scissor_seven | [Read More](https://medium.com/p/b2b72c73adea) |
+| Fri, 25 Apr 2025 04:28:57 GMT | Sample MCP and A2A Application | erica jayasundera | [Read More](https://medium.com/p/f794b50f6f63) |
 | Fri, 25 Apr 2025 04:04:00 GMT | Hunting Fileless Malware on Windows Systems | Paritosh | [Read More](https://medium.com/p/2243d81b1e2d) |
 | Fri, 25 Apr 2025 04:03:26 GMT | Cybersecurity in Healthcare: The St. | Avnishyam | [Read More](https://medium.com/p/1286d21f67bd) |
 | Fri, 25 Apr 2025 03:50:55 GMT | VPN Tactics For Superior Online Protection | James Neal | [Read More](https://medium.com/p/05f6504612bd) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 19:06:40 GMT | Inject, Exploit, Repeat: Real-World Adventures in XSS | Isv | [Read More](https://medium.com/p/a8fd8f7066c8) |
 | Thu, 24 Apr 2025 19:04:53 GMT | Mastering NetworkPolicy: Secure Your Kubernetes Cluster Like a Pro | Raihan Iqbal | [Read More](https://medium.com/p/ad75fb9e5497) |
 | Thu, 24 Apr 2025 18:58:49 GMT | ChatGPT Hacking Attacks: AI Security Concerns from 2025 Vulnerabilities | Li Zixiang | [Read More](https://medium.com/p/844ab1d52b3d) |
-| Thu, 24 Apr 2025 18:58:08 GMT | How to Build Skills for a Successful SOC Analyst Career | Tyler Wall | [Read More](https://medium.com/p/ad6460e132b2) |
-| Thu, 24 Apr 2025 18:35:00 GMT | Zincirin Dışında: Off-Chain Çözümler | Berat Ege Akgün | [Read More](https://medium.com/p/9a58195188b9) |
-| Thu, 24 Apr 2025 18:32:51 GMT | I Thought Staying Quiet Would Keep Me Loved — It Didn’t | A Wildflower Whispers | [Read More](https://medium.com/p/b312785708f3) |
