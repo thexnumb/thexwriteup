@@ -14,6 +14,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 14:22:01 GMT | Disk Imaging (Part 1) : Memory Acquisition & Encryption Checking | Dean | [Read More](https://medium.com/p/e45226b6081d) |
+| Fri, 25 Apr 2025 14:06:10 GMT | Prompt Injections For Defense, a 3/4 Baked Idea | Harry Landis | [Read More](https://medium.com/p/ac25c768d5ca) |
 | Fri, 25 Apr 2025 14:05:36 GMT | Cyber Briefing: 2025.04.25 | CyberMaterial | [Read More](https://medium.com/p/2e2ad913befe) |
 | Fri, 25 Apr 2025 14:05:19 GMT | Baidu Unveils 30,000 Kunlun Chips for Advanced AI Training | Lamidi Idris Olamide | [Read More](https://medium.com/p/5a332a4f9105) |
 | Fri, 25 Apr 2025 14:00:44 GMT | Why Most DevOps Pipelines Fail Compliance Audits? (and How to Fix It) | Najib Radzuan | [Read More](https://medium.com/p/7d94ea958472) |
@@ -112,5 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 09:10:09 GMT | Introduction: The Privacy Paradox in Blockchain Oracles | nicola | [Read More](https://medium.com/p/6c5474a06331) |
 | Fri, 25 Apr 2025 09:03:24 GMT | Why Businesses Need Cybersecurity Consulting Now More Than Ever | Z7solutions | [Read More](https://medium.com/p/ae759896950c) |
 | Fri, 25 Apr 2025 09:01:45 GMT | TryHackMe - Erlang/OTP SSH: CVE-2025–32433 - WriteUp | Axoloth | [Read More](https://medium.com/p/767538c09c08) |
-| Fri, 25 Apr 2025 09:01:38 GMT | AI and Cybersecurity Governance & Compliance | Phanish Lakkarasu | [Read More](https://medium.com/p/d625694923dd) |
-| Fri, 25 Apr 2025 08:58:05 GMT | Effortlessly Generate JKS Files Using Docker | Amar Samant | [Read More](https://medium.com/p/9fe5193ae739) |
