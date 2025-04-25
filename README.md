@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 14:05:36 GMT | Cyber Briefing: 2025.04.25 | CyberMaterial | [Read More](https://medium.com/p/2e2ad913befe) |
+| Fri, 25 Apr 2025 14:05:19 GMT | Baidu Unveils 30,000 Kunlun Chips for Advanced AI Training | Lamidi Idris Olamide | [Read More](https://medium.com/p/5a332a4f9105) |
+| Fri, 25 Apr 2025 14:00:44 GMT | Why Most DevOps Pipelines Fail Compliance Audits? (and How to Fix It) | Najib Radzuan | [Read More](https://medium.com/p/7d94ea958472) |
+| Fri, 25 Apr 2025 13:59:59 GMT | After Computer science engineering…… | cracker_008 | [Read More](https://medium.com/p/7e7105a0195c) |
+| Fri, 25 Apr 2025 13:51:18 GMT | Secure Coding/Programming Buffer Overflows & APIs | Igor Berner | [Read More](https://medium.com/p/884350a8b7d9) |
+| Fri, 25 Apr 2025 13:49:30 GMT | Teaching Machines to Spot Lies: Fine-Tuning BERT Against Phishing Emails | Lucas Monribot | [Read More](https://medium.com/p/95a1481b73df) |
+| Fri, 25 Apr 2025 13:46:01 GMT | Is Your Google Account at Risk? Watch Out for These Phishing Emails | Sareena | [Read More](https://medium.com/p/10f468901dd6) |
+| Fri, 25 Apr 2025 13:45:52 GMT | A Breach of More Than Data: Oracle’s Tactics Reveal a Disturbing Disregard for Customers | Doug Jaworski | [Read More](https://medium.com/p/7823b589c294) |
+| Fri, 25 Apr 2025 13:45:51 GMT | Del ruido a la resiliencia: por qué SOCless no es el destino, sino el camino. | Fabian Zambrano Smith | [Read More](https://medium.com/p/6ed1dba5cdb4) |
+| Fri, 25 Apr 2025 13:38:17 GMT | Generate Strong Passwords in 1 Line of Python! | Jaume Boguñá | [Read More](https://medium.com/p/46d2d915bd52) |
+| Fri, 25 Apr 2025 13:36:36 GMT | The Rise of Decentralized and Encrypted Dark Web Marketplaces: A New Era of Digital Illicit Trade | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/0a283c97fd22) |
 | Fri, 25 Apr 2025 13:35:14 GMT | 10 Best Tools for Digital Forensics ️: Tracking Digital Evidence | Esra Kayhan | [Read More](https://medium.com/p/e0bade9f7ce6) |
 | Fri, 25 Apr 2025 13:27:39 GMT | Europe’s IT Industry Has a Single Point of Failure — U.S. Cloud Platforms | Yutong Du | [Read More](https://medium.com/p/1492f0c2821c) |
 | Fri, 25 Apr 2025 13:23:08 GMT | OSINT and Google Dorking | Mylescorey | [Read More](https://medium.com/p/ba3b5ce469d4) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 09:01:45 GMT | TryHackMe - Erlang/OTP SSH: CVE-2025–32433 - WriteUp | Axoloth | [Read More](https://medium.com/p/767538c09c08) |
 | Fri, 25 Apr 2025 09:01:38 GMT | AI and Cybersecurity Governance & Compliance | Phanish Lakkarasu | [Read More](https://medium.com/p/d625694923dd) |
 | Fri, 25 Apr 2025 08:58:05 GMT | Effortlessly Generate JKS Files Using Docker | Amar Samant | [Read More](https://medium.com/p/9fe5193ae739) |
-| Fri, 25 Apr 2025 08:56:43 GMT | Why Pune Needs Pro Security Services in 2025 | United Guard Force India | [Read More](https://medium.com/p/a3b1db59efef) |
-| Fri, 25 Apr 2025 08:52:50 GMT | Top 5 Security Challenges Faced by Businesses in Pune | United Guard Force India | [Read More](https://medium.com/p/88bef00a9c23) |
-| Fri, 25 Apr 2025 08:51:09 GMT | Why Your RFP Responses Aren’t Winning (And What to Do About It) | Finstein.ai | [Read More](https://medium.com/p/20474540dbf7) |
-| Fri, 25 Apr 2025 08:48:23 GMT | Why Every Growing Business Needs a Managed Security Partner | Fountain Hills Technologies | [Read More](https://medium.com/p/10a66b80a1cf) |
-| Fri, 25 Apr 2025 08:47:26 GMT | Michael Yonesi Reveals 5 Overlooked Cybersecurity Threats You Should Care About in 2025 | Michael Younsi | [Read More](https://medium.com/p/537b95e7dd7f) |
-| Fri, 25 Apr 2025 08:42:51 GMT | 100 Perintah Linux yang Sering Digunakan Pentester | nurani kharisma | [Read More](https://medium.com/p/3481a24bb877) |
-| Fri, 25 Apr 2025 08:33:33 GMT | Why Every Crypto Investor Needs a Hardware Wallet | Varun Jain | [Read More](https://medium.com/p/7b584b1dea90) |
-| Fri, 25 Apr 2025 08:30:49 GMT | How to Succeed in Cybersecurity Over the Next 5 Years: A Practical Guide for the AI Era | Taimur Ijlal | [Read More](https://medium.com/p/e02404557216) |
-| Fri, 25 Apr 2025 08:26:48 GMT | 6 Quick Tweaks (and one extra!) to Hacker-Proof Your Accounts | Cloudbric VPN | [Read More](https://medium.com/p/fb2d969b2bf6) |
-| Fri, 25 Apr 2025 08:26:17 GMT | Smarter Threats Need Smarter Defenses: How AI Is Shaping the Future of Cybersecurity | Aishvaryachavali | [Read More](https://medium.com/p/65ca51592e37) |
-| Fri, 25 Apr 2025 08:21:33 GMT | DawgCTF 2025 Writeup - This Pokemon Team Is My Roman Empire | xch0r | [Read More](https://medium.com/p/891b958fbbe2) |
