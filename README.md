@@ -14,6 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 07:30:32 GMT | Hive Ransomware | Psyrensics | [Read More](https://medium.com/p/e6f495aa46ff) |
+| Fri, 25 Apr 2025 07:29:38 GMT | 2025 Bybit Hack (What the Hackers in Front Line Were Experiencing) & How Safe{Wallet} Guard Can… | Woody Wang | [Read More](https://medium.com/p/2a25d53944c9) |
+| Fri, 25 Apr 2025 07:25:34 GMT | How to Answer, “What Salary Do You Expect?” Without Underselling Yourself | Prism HRC | [Read More](https://medium.com/p/60bfced6eeb1) |
+| Fri, 25 Apr 2025 07:24:36 GMT | 10 Free Tools Every Beginner Bug Bounty Hunter Should Know (2025 Edition) | 127.0.0.1 | [Read More](https://medium.com/p/571ce494d907) |
+| Fri, 25 Apr 2025 07:23:11 GMT | Got 2TB cloud storage for FREE in just 10 minutes - Payment Gateway bypass trick | Zephryx | [Read More](https://medium.com/p/4483dc3523a8) |
+| Fri, 25 Apr 2025 07:21:25 GMT | Beyond Firewalls: Why Governance Needs a Mindset Shift | Somesh Sawhney | [Read More](https://medium.com/p/1273653b2f0c) |
+| Fri, 25 Apr 2025 07:17:31 GMT | Linux File Access Control: Permissions and Ownership Explained | Chioma Okafor | [Read More](https://medium.com/p/50cfe92c803b) |
 | Fri, 25 Apr 2025 07:14:36 GMT | “What’s Inside a ZAP Scan Report? A Peek Into Your Website’s Security X-Ray!” | Neelendra Singh Tomar | [Read More](https://medium.com/p/f392956f2132) |
 | Fri, 25 Apr 2025 07:12:22 GMT | Zabbix Agent Installer on Windows 11 | Dante | [Read More](https://medium.com/p/376e95f33837) |
 | Fri, 25 Apr 2025 07:09:40 GMT | Learn Certified Ethical Hacker Certification Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/b1cb48c983d5) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 22:52:03 GMT | Hacking the Hacker: How External Pen Testing Safeguards Your Business | Akshay Chauhan | [Read More](https://medium.com/p/8bd00a83427b) |
 | Thu, 24 Apr 2025 22:51:31 GMT | ️ Top 10 Real-World Attacks on Machine Learning Systems (and How to Prevent Them) | Haydar Majeed | [Read More](https://medium.com/p/afd4bd3a33a9) |
 | Thu, 24 Apr 2025 22:50:59 GMT | Command and Control DNS Part II: Evasion with DGA and Data Obfuscation | S12 - H4CK | [Read More](https://medium.com/p/7066afc4d1a6) |
-| Thu, 24 Apr 2025 22:39:27 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 22] Elf McEager becomes CyberElf | TokiBando | [Read More](https://medium.com/p/be7276848150) |
-| Thu, 24 Apr 2025 22:32:27 GMT | CYBERLENS WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2c8e23537327) |
-| Thu, 24 Apr 2025 22:16:34 GMT | Network Segmentation: A Key Strategy for Protecting Your Data | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a1f611390fba) |
-| Thu, 24 Apr 2025 22:16:34 GMT | Network Segmentation: A Key Strategy for Protecting Your Data | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fb0a5b04f54f) |
-| Thu, 24 Apr 2025 22:08:29 GMT | How I Found People Talking About CoinCollectExperts — And How They Helped Me Recover My Money | victoria grayson | [Read More](https://medium.com/p/057f4a235a2d) |
-| Thu, 24 Apr 2025 21:58:21 GMT | Aragog (Vulnhub) | S4ntiHack | [Read More](https://medium.com/p/0211ca0ed270) |
-| Thu, 24 Apr 2025 21:47:01 GMT | The Danger of Dissidence | Anina Gedzelman | [Read More](https://medium.com/p/587c387d43d4) |
