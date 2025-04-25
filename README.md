@@ -14,7 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 10:35:26 GMT | WordPress powers over 43% of all websites on the internet, making wordpress security not just a… | Science Pin | [Read More](https://medium.com/p/9fc1b759b545) |
+| Fri, 25 Apr 2025 10:28:52 GMT | Cutting Through the Clutter: How AI-Powered Automation Revamped Global CapEx Procurement | LTS | [Read More](https://medium.com/p/3b5be98119a1) |
+| Fri, 25 Apr 2025 10:27:08 GMT | How to Install and Use Netcat in Termux | Kambetastephano | [Read More](https://medium.com/p/624a0f571f9a) |
+| Fri, 25 Apr 2025 10:25:28 GMT | SQL injection part — 16 : Basic Blind SQLi, time delays and information retrieval | Ahmad Sopyan | [Read More](https://medium.com/p/daabed19b67d) |
+| Fri, 25 Apr 2025 10:25:04 GMT | What is Cyber Marketing? Why It’s More Important Than Ever in 2025 | Vasundhra sharma | [Read More](https://medium.com/p/826ba27ea32f) |
+| Fri, 25 Apr 2025 10:21:30 GMT | Cybersecurity & AI — Data Hackers Podcast #105 | DH | [Read More](https://medium.com/p/83d9c01a4962) |
+| Fri, 25 Apr 2025 10:20:37 GMT | 10 Common Cloud Malware Attacks You Should Know About (And Stay Safe From!) | GIRISH G | [Read More](https://medium.com/p/fe6de0c13aac) |
 | Fri, 25 Apr 2025 10:13:27 GMT | Nikto Web Scanner: A Powerful Tool for Ethical Hackers and Penetration Testers | YoungerSibling | [Read More](https://medium.com/p/f4409f5f91a5) |
+| Fri, 25 Apr 2025 10:12:32 GMT | Cybersecurity in Healthcare: The St. | Chetan Seripally | [Read More](https://medium.com/p/0fc8e85bd0b5) |
 | Fri, 25 Apr 2025 10:11:08 GMT | HackNos: Player v1.1 (Vulnhub) | S4ntiHack | [Read More](https://medium.com/p/21b6e7b90608) |
 | Fri, 25 Apr 2025 10:07:58 GMT | Apple’s Zero-Day Exploits: What They Mean for You & How Infoziant Can Keep You Safe | Infoziant | [Read More](https://medium.com/p/5a06c7332a23) |
 | Fri, 25 Apr 2025 10:07:39 GMT | Windows Event Logs | Furkanctiner | [Read More](https://medium.com/p/fe7b4cd169b4) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 05:38:09 GMT | The Art of Being Vulnerable on Social Media (And Why You Shouldn’t Hold Back) | RiseWithKakes | [Read More](https://medium.com/p/deaac47c28f5) |
 | Fri, 25 Apr 2025 05:37:39 GMT | WebLogic Horizontal Cluster Creation and Adding Secondary Machines | Sawan kumar | [Read More](https://medium.com/p/5a5178699e8e) |
 | Fri, 25 Apr 2025 05:26:09 GMT | Earn your First $5000 Bug-Bounty. | Rishav anand | [Read More](https://medium.com/p/c49495337ef0) |
-| Fri, 25 Apr 2025 05:22:03 GMT | How a Google Alert Revealed My WhatsApp Number Was Publicly Exposed | Madina  Ochilova | [Read More](https://medium.com/p/4827e6443c1c) |
-| Fri, 25 Apr 2025 05:21:17 GMT | “Confessions of an Info Hoarder: Why I’m Breaking Up With My Saved Articles” | Alexander Lane | [Read More](https://medium.com/p/f712eae0f0e0) |
-| Fri, 25 Apr 2025 05:18:47 GMT | How to Build Secure Web Applications for Financial Institutions Using Blockchain? | Levitation Infotech | [Read More](https://medium.com/p/75590a530e86) |
-| Fri, 25 Apr 2025 05:11:55 GMT | PKCE Authentication: Securing OAuth 2.0 for Public Clients | Piranaavei Beremkumar | [Read More](https://medium.com/p/73b7774b3573) |
-| Fri, 25 Apr 2025 05:05:51 GMT | Installing and Configuring AWS CLI for Seamless Cloud Management | Akuphe Dieudonne | [Read More](https://medium.com/p/68609bc5617d) |
-| Fri, 25 Apr 2025 05:00:28 GMT | Why I Believe Cybersecurity Matters Now More Than Ever | Luis E. | [Read More](https://medium.com/p/80ed625ad03f) |
-| Fri, 25 Apr 2025 04:45:35 GMT | Why a Dedicated Linux Course is Crucial for Cybersecurity Experts | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/60ce4408b391) |
-| Fri, 25 Apr 2025 04:43:59 GMT | Navigating Business Liability Challenges in the Digital Age: Strategies for Success | Tycoonstories | [Read More](https://medium.com/p/c68d442b54a0) |
