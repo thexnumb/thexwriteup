@@ -14,6 +14,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 09:16:19 GMT | Implementing Azure WAF & Security Rules: The Ultimate Guide | Ajay Naik | [Read More](https://medium.com/p/3fd6bb91bdf7) |
+| Fri, 25 Apr 2025 09:10:52 GMT | The Role of IoT in Transforming Electronic Security Solutions | Net Route Solutions | [Read More](https://medium.com/p/e5b0b1d4e8f0) |
+| Fri, 25 Apr 2025 09:10:09 GMT | Introduction: The Privacy Paradox in Blockchain Oracles | nicola | [Read More](https://medium.com/p/6c5474a06331) |
+| Fri, 25 Apr 2025 09:03:24 GMT | Why Businesses Need Cybersecurity Consulting Now More Than Ever | Z7solutions | [Read More](https://medium.com/p/ae759896950c) |
+| Fri, 25 Apr 2025 09:01:45 GMT | TryHackMe - Erlang/OTP SSH: CVE-2025–32433 - WriteUp | Axoloth | [Read More](https://medium.com/p/767538c09c08) |
+| Fri, 25 Apr 2025 09:01:38 GMT | AI and Cybersecurity Governance & Compliance | Phanish Lakkarasu | [Read More](https://medium.com/p/d625694923dd) |
+| Fri, 25 Apr 2025 08:58:05 GMT | Effortlessly Generate JKS Files Using Docker | Amar Samant | [Read More](https://medium.com/p/9fe5193ae739) |
+| Fri, 25 Apr 2025 08:56:43 GMT | Why Pune Needs Pro Security Services in 2025 | United Guard Force India | [Read More](https://medium.com/p/a3b1db59efef) |
+| Fri, 25 Apr 2025 08:52:50 GMT | Top 5 Security Challenges Faced by Businesses in Pune | United Guard Force India | [Read More](https://medium.com/p/88bef00a9c23) |
+| Fri, 25 Apr 2025 08:51:09 GMT | Why Your RFP Responses Aren’t Winning (And What to Do About It) | Finstein.ai | [Read More](https://medium.com/p/20474540dbf7) |
+| Fri, 25 Apr 2025 08:48:23 GMT | Why Every Growing Business Needs a Managed Security Partner | Fountain Hills Technologies | [Read More](https://medium.com/p/10a66b80a1cf) |
+| Fri, 25 Apr 2025 08:47:26 GMT | Michael Yonesi Reveals 5 Overlooked Cybersecurity Threats You Should Care About in 2025 | Michael Younsi | [Read More](https://medium.com/p/537b95e7dd7f) |
 | Fri, 25 Apr 2025 08:42:51 GMT | 100 Perintah Linux yang Sering Digunakan Pentester | nurani kharisma | [Read More](https://medium.com/p/3481a24bb877) |
 | Fri, 25 Apr 2025 08:33:33 GMT | Why Every Crypto Investor Needs a Hardware Wallet | Varun Jain | [Read More](https://medium.com/p/7b584b1dea90) |
 | Fri, 25 Apr 2025 08:30:49 GMT | How to Succeed in Cybersecurity Over the Next 5 Years: A Practical Guide for the AI Era | Taimur Ijlal | [Read More](https://medium.com/p/e02404557216) |
@@ -102,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 03:22:19 GMT | Phishing: Beyond the Stereotype | abdur rashid firdaus | [Read More](https://medium.com/p/e2a7c5dd684b) |
 | Fri, 25 Apr 2025 03:16:16 GMT | Phishing Exposed: How Trust Becomes a Vulnerability | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/80b1589507ad) |
 | Fri, 25 Apr 2025 03:06:14 GMT | WGU Cybersecurity Masters: What Prospective Students Need to Know | James Gilchrest | [Read More](https://medium.com/p/2efbffc5e06c) |
-| Fri, 25 Apr 2025 03:02:27 GMT | HackTheBox Cyber Apocalypse 2025: Thorins Amulet | abdur rashid firdaus | [Read More](https://medium.com/p/d1eed4c8b70e) |
-| Fri, 25 Apr 2025 03:02:21 GMT | What is HTTPS ? How to enable it on your Browser ? | Febin Vadukkoot | [Read More](https://medium.com/p/a9a71f38ae31) |
-| Fri, 25 Apr 2025 02:59:48 GMT | Understanding Cyber Threats: From Malware to DDoS Attacks | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/7aa6c4a220ef) |
-| Fri, 25 Apr 2025 02:58:17 GMT | mTLS and OAuth2 — Client Authentication | Sagara Gunathunga | [Read More](https://medium.com/p/5958f6f9b098) |
-| Fri, 25 Apr 2025 02:37:32 GMT | How i found a RXSS by webpack | yubanban | [Read More](https://medium.com/p/7e2217a3976d) |
-| Fri, 25 Apr 2025 02:32:28 GMT | The Red Teaming: 30-Day Challenge[11] | Bl@ckC!pH3r | [Read More](https://medium.com/p/a2b19be7b14c) |
-| Fri, 25 Apr 2025 02:03:28 GMT | The Wild New Malware That Outsmarted Antivirus and Nearly Wrecked Everything | Noel | [Read More](https://medium.com/p/4f30a8e1b95a) |
-| Fri, 25 Apr 2025 01:48:51 GMT | Ever wished you had a tech sandbox where mistakes don't cost you? Welcome to VirtualBox | William Walsh | [Read More](https://medium.com/p/9f4ee06ea321) |
-| Fri, 25 Apr 2025 01:47:04 GMT | Top 10 Red Team Tactics Every Cybersecurity Enthusiast Should Know | Pawan Jaiswal | [Read More](https://medium.com/p/ccc293936d51) |
-| Fri, 25 Apr 2025 01:42:27 GMT | Reddit analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/55ef6b48ca53) |
-| Fri, 25 Apr 2025 01:38:20 GMT | Deploying Nuzlocke Tracker with Docker Desktop: A Beginner’s Guide | Ryan Weathers | [Read More](https://medium.com/p/6a308b146404) |
-| Fri, 25 Apr 2025 01:29:35 GMT | Understanding Vulnerabilities in Cybersecurity | Xavier J. Cruz | [Read More](https://medium.com/p/e8b67c7deaf0) |
