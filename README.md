@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 21:14:17 GMT | OSCP+ Fail: From ‘Try Harder’ to ‘Read Slower’ — How It Rewired My Pentest Game | Anezaneo | [Read More](https://medium.com/p/c267efdf2af5) |
+| Fri, 25 Apr 2025 21:08:03 GMT | Beginner’s Guide to Malware Development: Understanding Threads and Processes | Cyber_guy | [Read More](https://medium.com/p/ae52236751e8) |
+| Fri, 25 Apr 2025 20:58:24 GMT | Implementing Device Binding in WSO2 Identity Server | Viggnah Selvaraj | [Read More](https://medium.com/p/7e7f8ab19649) |
+| Fri, 25 Apr 2025 20:55:55 GMT | EDR (Endpoint Detection and Response) Nedir? | Melike Büşra Şener | [Read More](https://medium.com/p/b27a8d5fe4c4) |
+| Fri, 25 Apr 2025 20:42:25 GMT | Null Byte Injection Attack | Adham Hashem | [Read More](https://medium.com/p/a01de121e376) |
 | Fri, 25 Apr 2025 20:33:32 GMT | Cybersecurity Best Practices for the AI Era: Enterprise Edition | Nicholas Dere Lucas | [Read More](https://medium.com/p/86641d37c32f) |
 | Fri, 25 Apr 2025 20:29:08 GMT | Silent Intruders: Navigating the Hidden Cybersecurity Threats of Remote Work’s Unseen World | Muhammed Tauseef khan | [Read More](https://medium.com/p/ab4153128f71) |
 | Fri, 25 Apr 2025 20:27:48 GMT | We share a pool of $500k in the Bug Bounty event | Kiyot0Sage | [Read More](https://medium.com/p/3adf9e9cce0b) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 14:41:10 GMT | That “Client” Who Tried to Scam Me | Sam Galope | [Read More](https://medium.com/p/a3047e7fb5e3) |
 | Fri, 25 Apr 2025 14:40:13 GMT | Cleanliness of Thought: Synthetic Data & the Persona Problem | Jay Noon | [Read More](https://medium.com/p/195c81b03bd0) |
 | Fri, 25 Apr 2025 14:22:01 GMT | Disk Imaging (Part 1) : Memory Acquisition & Encryption Checking | Dean | [Read More](https://medium.com/p/e45226b6081d) |
-| Fri, 25 Apr 2025 14:06:10 GMT | Prompt Injections For Defense, a 3/4 Baked Idea | Harry Landis | [Read More](https://medium.com/p/ac25c768d5ca) |
-| Fri, 25 Apr 2025 14:05:36 GMT | Cyber Briefing: 2025.04.25 | CyberMaterial | [Read More](https://medium.com/p/2e2ad913befe) |
-| Fri, 25 Apr 2025 14:05:19 GMT | Baidu Unveils 30,000 Kunlun Chips for Advanced AI Training | Lamidi Idris Olamide | [Read More](https://medium.com/p/5a332a4f9105) |
-| Fri, 25 Apr 2025 14:00:44 GMT | Why Most DevOps Pipelines Fail Compliance Audits? (and How to Fix It) | Najib Radzuan | [Read More](https://medium.com/p/7d94ea958472) |
-| Fri, 25 Apr 2025 13:59:59 GMT | After Computer science engineering…… | cracker_008 | [Read More](https://medium.com/p/7e7105a0195c) |
