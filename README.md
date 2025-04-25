@@ -14,6 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 15:36:27 GMT | My Initial Hackathon Experience: Not Moving Forward with Team Sakha | Itsurkk | [Read More](https://medium.com/p/b2f35c723afe) |
+| Fri, 25 Apr 2025 15:29:49 GMT | Before Code Runs: Understanding the JavaScript Execution Environment | Zoningxtr | [Read More](https://medium.com/p/fe79047926af) |
+| Fri, 25 Apr 2025 15:25:35 GMT | How to Protect the SafeLine Management Interface | Loria | [Read More](https://medium.com/p/398061b19d4d) |
+| Fri, 25 Apr 2025 15:20:35 GMT | Think you can outsmart a WAF? Try this free | Loria | [Read More](https://medium.com/p/8691cad11dcc) |
+| Fri, 25 Apr 2025 15:20:32 GMT | 100 Essential Linux Commands for Ethical Hackers and Pentesters | Abdielkristopher | [Read More](https://medium.com/p/5dacbde4e09b) |
+| Fri, 25 Apr 2025 15:17:51 GMT | Pwanagotchi is a tool to collect passive | Rkrcker | [Read More](https://medium.com/p/e8f7f397c900) |
+| Fri, 25 Apr 2025 15:17:30 GMT | Ghosting AMSI: Cutting RPC to disarm AV | Andrea Bocchetti | [Read More](https://medium.com/p/04c26d67bb80) |
 | Fri, 25 Apr 2025 15:13:51 GMT | Spring Security: Authentication and Authorization In-Depth: Part 1 | Rahul Soni | [Read More](https://medium.com/p/e0486f59748f) |
 | Fri, 25 Apr 2025 15:09:49 GMT | Hidden Entrances: Where javascript: URLs Are Still Allowed | Zoningxtr | [Read More](https://medium.com/p/a52842c6aee6) |
 | Fri, 25 Apr 2025 15:09:42 GMT | Burp Suite’s Latest Arsenal: AI Power, Smarter Scanning, and Workflow Wizard | Spectat0rguy | [Read More](https://medium.com/p/42d54edf283f) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 10:02:37 GMT | India’s Digital Firewall: Tech Sovereignty in a Surveillance Age | Cyrille Jeufo 1 | [Read More](https://medium.com/p/df113a0af0a9) |
 | Fri, 25 Apr 2025 10:02:34 GMT | Big Data, Big Trouble: How Mass Data Collection is Redefining Cybersecurity | Franziska "Ziska" Fink | [Read More](https://medium.com/p/cdac957c0288) |
 | Fri, 25 Apr 2025 09:58:01 GMT | Three of the four most exploited vulnerabilities in 2024 were zero-day flaws, found in security… | Re: News | [Read More](https://medium.com/p/7db63bdf72a5) |
-| Fri, 25 Apr 2025 09:52:31 GMT | Local vs National Security Companies in Thane | united guard | [Read More](https://medium.com/p/fb1f26881412) |
-| Fri, 25 Apr 2025 09:51:54 GMT | Day 16: Cracking APIs — A Beginner’s Guide to API Testing in Cybersecurity | Agarwaldaksh | [Read More](https://medium.com/p/fa117d2080d9) |
-| Fri, 25 Apr 2025 09:51:03 GMT | ️ 4 Must-Know Wallet Safety Tips to Protect Your Crypto | Zain | [Read More](https://medium.com/p/7bc1177ae652) |
-| Fri, 25 Apr 2025 09:49:02 GMT | Top 10 Security Companies in Thane (2025) | united guard | [Read More](https://medium.com/p/ab2a64d1fdf3) |
-| Fri, 25 Apr 2025 09:48:53 GMT | ประจำวันศุกร์ที่ 25 เมษายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d736ff47b228) |
-| Fri, 25 Apr 2025 09:48:35 GMT | Order and Sub Groups Orders in ECC | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/c818c0e7f133) |
-| Fri, 25 Apr 2025 09:46:59 GMT | How I Passed CompTIA Security+ (0701) in 4 Weeks with Zero Cybersecurity Background | Suleman | [Read More](https://medium.com/p/02aa9cf0b0c7) |
