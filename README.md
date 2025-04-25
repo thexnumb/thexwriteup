@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 03:48:21 GMT | Zabbix: Plataforma de Monitoreo Abierto para Infraestructuras Críticas | Dante | [Read More](https://medium.com/p/fb83ae76cb96) |
+| Fri, 25 Apr 2025 03:33:58 GMT | Forensics : TryHackMe Walkthrough - DFIR, 360 points | RosanaFSS | [Read More](https://medium.com/p/822b5be5222c) |
+| Fri, 25 Apr 2025 03:31:33 GMT | What is Quantum Cryptography? | Servifyspheresolutions | [Read More](https://medium.com/p/b746b350515a) |
+| Fri, 25 Apr 2025 03:31:32 GMT | The Ghost in Your Machine: How Cybercriminals Are Cloning Your Digital Fingerprint | Deven Chhajed | [Read More](https://medium.com/p/00ae2d8e0076) |
+| Fri, 25 Apr 2025 03:27:31 GMT | What is Cyber Hygiene? | Yann Barba | [Read More](https://medium.com/p/9ab91645a045) |
+| Fri, 25 Apr 2025 03:23:35 GMT | About Me — Subhanjan | Subhanjan | [Read More](https://medium.com/p/d40c81034bac) |
+| Fri, 25 Apr 2025 03:22:19 GMT | Phishing: Beyond the Stereotype | abdur rashid firdaus | [Read More](https://medium.com/p/e2a7c5dd684b) |
+| Fri, 25 Apr 2025 03:16:16 GMT | Phishing Exposed: How Trust Becomes a Vulnerability | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/80b1589507ad) |
+| Fri, 25 Apr 2025 03:06:14 GMT | WGU Cybersecurity Masters: What Prospective Students Need to Know | James Gilchrest | [Read More](https://medium.com/p/2efbffc5e06c) |
 | Fri, 25 Apr 2025 03:02:27 GMT | HackTheBox Cyber Apocalypse 2025: Thorins Amulet | abdur rashid firdaus | [Read More](https://medium.com/p/d1eed4c8b70e) |
 | Fri, 25 Apr 2025 03:02:21 GMT | What is HTTPS ? How to enable it on your Browser ? | Febin Vadukkoot | [Read More](https://medium.com/p/a9a71f38ae31) |
 | Fri, 25 Apr 2025 02:59:48 GMT | Understanding Cyber Threats: From Malware to DDoS Attacks | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/7aa6c4a220ef) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 18:15:07 GMT | Artificial Intelligence Is Extremely Unpredictable | Zayne Harbison | [Read More](https://medium.com/p/63e9410f6df7) |
 | Thu, 24 Apr 2025 18:10:21 GMT | Zincirin Dışında: Off-Chain Çözümler | Berat Ege Akgün | [Read More](https://medium.com/p/44ee6bb96556) |
 | Thu, 24 Apr 2025 18:08:17 GMT | China Launches the World’s First 10G Broadband Network—A Glimpse into the Future of Connectivity | Emily Wilson | [Read More](https://medium.com/p/df5956a4088e) |
-| Thu, 24 Apr 2025 18:06:23 GMT | Gift - HackMyVM Writeup | Cillia | [Read More](https://medium.com/p/d08690b398b6) |
-| Thu, 24 Apr 2025 18:02:51 GMT | Cybersecurity Basics: Why It Matters More Than Ever — With Insights from Paul Leongas | Paul Leongas | [Read More](https://medium.com/p/2c8ddf00ed9d) |
-| Thu, 24 Apr 2025 17:57:58 GMT | How a Simple Image Can Unlock Hidden Data and Hack a System | Evyeveline | [Read More](https://medium.com/p/cf8f5a005db5) |
-| Thu, 24 Apr 2025 17:57:12 GMT | Realtek Attack Observation CVE-2021–35394 | amxlm | [Read More](https://medium.com/p/339df2cff96e) |
-| Thu, 24 Apr 2025 17:51:23 GMT | What is Endpoint Security and Why Your Business Needs It Now | SafeAeon Inc. | [Read More](https://medium.com/p/836ac7024c5a) |
-| Thu, 24 Apr 2025 17:44:12 GMT | Can a chatbot without filters be your next productivity hack? | TheReviewHive | [Read More](https://medium.com/p/b43c99a41db0) |
-| Thu, 24 Apr 2025 17:37:43 GMT | Bulutları Fetheden Üç Kral: Türkiye Pazarında AWS, Azure ve Alibaba Cloud | Arda Cinar | [Read More](https://medium.com/p/69ab87d8b500) |
-| Thu, 24 Apr 2025 17:36:23 GMT | How to Detect Malware and Insecure Content in Outlook .MSG Files Using .NET | Cloudmersive | [Read More](https://medium.com/p/70471ba5b041) |
-| Thu, 24 Apr 2025 17:29:01 GMT | picoCTF Writeup — Hashcrack | Yanek K | [Read More](https://medium.com/p/7dcebbcae383) |
