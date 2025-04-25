@@ -14,6 +14,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 01:29:35 GMT | Understanding Vulnerabilities in Cybersecurity | Xavier J. Cruz | [Read More](https://medium.com/p/e8b67c7deaf0) |
+| Fri, 25 Apr 2025 01:17:08 GMT | From Vendor Risk to National Threat: Why GRC and CTI Must Intertwine to secure Business Continuity. | Liza Opar | [Read More](https://medium.com/p/5aabfde0eb3f) |
+| Fri, 25 Apr 2025 01:04:45 GMT | How to Find Hidden HackerOne & Bugcrowd Programs | Ibtissam Hammadi | [Read More](https://medium.com/p/0149457cf048) |
+| Fri, 25 Apr 2025 01:03:03 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 1) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/a9fd6859c7ae) |
+| Fri, 25 Apr 2025 00:55:44 GMT | No-Code Platforms: Speeding Up Secure App Development | Franklinr held | [Read More](https://medium.com/p/63c6d50824a5) |
+| Fri, 25 Apr 2025 00:49:17 GMT | The Hacker’s X-Ray Vision | YuvaSec | [Read More](https://medium.com/p/c9b75044639c) |
+| Fri, 25 Apr 2025 00:33:06 GMT | The Cybersecurity Internship Illusion: Are We Training for Real, or Just for Certificates? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/9bfd72ebcac1) |
+| Fri, 25 Apr 2025 00:32:59 GMT | From Door Locks to Data Locks: Let’s Get Cyber Smart! | Pallavi | [Read More](https://medium.com/p/2b716d46461e) |
+| Fri, 25 Apr 2025 00:30:00 GMT | The Internship Illusion: Why “Experience” is the New Entry Ticket (Even When No One Says So) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/05f337682902) |
+| Fri, 25 Apr 2025 00:29:16 GMT | “SwagShop” Hack The Box Walkthrough | 0xTweety | [Read More](https://medium.com/p/f4533c9c8954) |
+| Fri, 25 Apr 2025 00:26:45 GMT | Have we lost the fight against cyber criminals? | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/17d2e6a14d1c) |
+| Fri, 25 Apr 2025 00:18:01 GMT | Unlocking Networks: A Beginner’s Guide to Cybersecurity’s Building Blocks. | John Otieno | [Read More](https://medium.com/p/3c4793f35413) |
+| Fri, 25 Apr 2025 00:01:23 GMT | How I Found phpinfo Exposure In telkomsigma.co.id | Firdaus Muhammad Ismail | [Read More](https://medium.com/p/49c89a1b0404) |
+| Thu, 24 Apr 2025 23:56:51 GMT | SSL Handshake — Understanding One-way functions. | Chibuike Kosisochukwu | [Read More](https://medium.com/p/fac7d9e28b2b) |
+| Thu, 24 Apr 2025 23:54:29 GMT | Hack The Box — Machine — Administrator Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/588555159e0c) |
 | Thu, 24 Apr 2025 23:32:26 GMT | Palo Alto Networks DNS Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/75c6ea3b3cba) |
 | Thu, 24 Apr 2025 23:29:29 GMT | As falhas invisíveis: como a lógica mal pensada compromete a segurança web | Moprius | [Read More](https://medium.com/p/f904869642d1) |
 | Thu, 24 Apr 2025 23:20:48 GMT | Portable And Securely Designed Electric Scooter | Ericds chisler | [Read More](https://medium.com/p/239ba83469d0) |
@@ -99,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 16:59:02 GMT | How I Broke into the Spice Hut Kitchen and Took Over the Chef’s Console | Stoic_Gang | [Read More](https://medium.com/p/c0a2ebac65ec) |
 | Thu, 24 Apr 2025 16:58:05 GMT | Heard About the DKIM Google Email Scam? Don’t Worry — I’ll Explain It Simply | Rey Geldof | [Read More](https://medium.com/p/2efc0fc48375) |
 | Thu, 24 Apr 2025 16:57:58 GMT | The Work-from-Home Illusion: Freedom or a New Kind of Cage? | Emily Wilson | [Read More](https://medium.com/p/e9826faf2a40) |
-| Thu, 24 Apr 2025 16:52:45 GMT | The Escalation of AI-Powered Phishing and Social Engineering: What You Need to Know and How to… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/1eb06b806a0a) |
-| Thu, 24 Apr 2025 16:51:43 GMT | How Probability Strengthens Digital Security | Milena Bueno Rocha | [Read More](https://medium.com/p/9765389043bb) |
-| Thu, 24 Apr 2025 16:48:35 GMT | Every Business Deserves Protection, SafeAeon Delivers It | SafeAeon Inc. | [Read More](https://medium.com/p/a53b932cb55b) |
-| Thu, 24 Apr 2025 16:44:09 GMT | Digital Detox in a Hyperconnected World: A Modern Paradox | Emily Wilson | [Read More](https://medium.com/p/07e96a49a7c3) |
-| Thu, 24 Apr 2025 16:40:07 GMT | What is Authentication? Exploring Modern Methods to Keep Your Accounts Secure | Nishanthan | [Read More](https://medium.com/p/36b5dfb2ce0c) |
-| Thu, 24 Apr 2025 16:38:59 GMT | The incident of the US security minister’s bag being stolen while eating in a restaurant opened the… | Jack | [Read More](https://medium.com/p/33ab3738090a) |
-| Thu, 24 Apr 2025 16:38:49 GMT | How I Recovered Access to My Windows VM After Forgetting the Password — A Cybersecurity Perspective | Rupesh Sharma | [Read More](https://medium.com/p/331c5913cf4e) |
-| Thu, 24 Apr 2025 16:37:01 GMT | Trying to break out of the Python REPL sandbox in a Kubernetes environment: a practical journey | Nazarii Zavada | [Read More](https://medium.com/p/25da83b259b3) |
-| Thu, 24 Apr 2025 16:36:15 GMT | SOC139 — Meterpreter or Empire Activity | Cyril Philipp Abajar | [Read More](https://medium.com/p/7f5d833d39a2) |
-| Thu, 24 Apr 2025 16:33:35 GMT | Diffle-Hellman Key Encryption: A beginner’s guide | Chibuike Kosisochukwu | [Read More](https://medium.com/p/e6ca18974279) |
-| Thu, 24 Apr 2025 16:16:58 GMT | How to DRASTICALLY Reduce the Risk of Being SPIED On Through Your MOBILE Device | Pablo F. Iglesias | [Read More](https://medium.com/p/c6e81c7be034) |
-| Thu, 24 Apr 2025 16:16:48 GMT | How to Protect Java Apps from Malicious .SO Files | Cloudmersive | [Read More](https://medium.com/p/56604fe6ea56) |
-| Thu, 24 Apr 2025 16:16:11 GMT | Bug Hunting for Real: Tools, Tactics, and Truths No One Talks About | Ehtesham Ul Haq | [Read More](https://medium.com/p/661f6786d5b3) |
-| Thu, 24 Apr 2025 16:12:11 GMT | A beginner guide to enter into Cybersecurity | Ace Technologies | [Read More](https://medium.com/p/edfbb3d2a7d7) |
-| Thu, 24 Apr 2025 16:10:59 GMT | CodeVulnHunt: Unlock the Secrets of Cybersecurity Vulnerabilities with Real-World Challenges.. | Mithun | [Read More](https://medium.com/p/40592d73f6d6) |
