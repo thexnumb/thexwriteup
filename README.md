@@ -14,7 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 08:42:51 GMT | 100 Perintah Linux yang Sering Digunakan Pentester | nurani kharisma | [Read More](https://medium.com/p/3481a24bb877) |
+| Fri, 25 Apr 2025 08:33:33 GMT | Why Every Crypto Investor Needs a Hardware Wallet | Varun Jain | [Read More](https://medium.com/p/7b584b1dea90) |
+| Fri, 25 Apr 2025 08:30:49 GMT | How to Succeed in Cybersecurity Over the Next 5 Years: A Practical Guide for the AI Era | Taimur Ijlal | [Read More](https://medium.com/p/e02404557216) |
+| Fri, 25 Apr 2025 08:26:48 GMT | 6 Quick Tweaks (and one extra!) to Hacker-Proof Your Accounts | Cloudbric VPN | [Read More](https://medium.com/p/fb2d969b2bf6) |
 | Fri, 25 Apr 2025 08:26:17 GMT | Smarter Threats Need Smarter Defenses: How AI Is Shaping the Future of Cybersecurity | Aishvaryachavali | [Read More](https://medium.com/p/65ca51592e37) |
+| Fri, 25 Apr 2025 08:21:33 GMT | DawgCTF 2025 Writeup - This Pokemon Team Is My Roman Empire | xch0r | [Read More](https://medium.com/p/891b958fbbe2) |
+| Fri, 25 Apr 2025 08:21:22 GMT | DawgCTF 2025 Writeup - Evanesco | xch0r | [Read More](https://medium.com/p/cd42e95e6dc4) |
+| Fri, 25 Apr 2025 08:21:08 GMT | DawgCTF 2025 Writeup - Caddyshack | xch0r | [Read More](https://medium.com/p/c86e7313ac99) |
+| Fri, 25 Apr 2025 08:21:07 GMT | Choosing the Unknown (Even When It Shakes You) | Isla C. | [Read More](https://medium.com/p/af447a2dc86a) |
+| Fri, 25 Apr 2025 08:20:05 GMT | Python & MITRE ATT&CK: Part 15/15 | Rob Harrand | [Read More](https://medium.com/p/8f631bc20499) |
+| Fri, 25 Apr 2025 08:17:26 GMT | From Electronics to Exploits: Harshitha Reddy’s Journey into Cybersecurity with KIIS | KLEAP Institute of Information Security | [Read More](https://medium.com/p/6bb20546ec52) |
 | Fri, 25 Apr 2025 08:13:53 GMT | Mobile App Testing Experts You Can Trust - 5Data Inc | Bharathig | [Read More](https://medium.com/p/736bfdb7995c) |
 | Fri, 25 Apr 2025 08:13:12 GMT | HackTheBox — EscapeTwo: Dari SQL Access hingga Administrator | Angga Jagad Pangestu | [Read More](https://medium.com/p/8263c91d6917) |
 | Fri, 25 Apr 2025 08:03:11 GMT | How I Gained Root Access on the Kioptrix Virtual Machine — A Step-by-Step Guide for Beginners in… | Mohammad Pakdast Nobari | [Read More](https://medium.com/p/f5a77c8fa68e) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 01:42:27 GMT | Reddit analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/55ef6b48ca53) |
 | Fri, 25 Apr 2025 01:38:20 GMT | Deploying Nuzlocke Tracker with Docker Desktop: A Beginner’s Guide | Ryan Weathers | [Read More](https://medium.com/p/6a308b146404) |
 | Fri, 25 Apr 2025 01:29:35 GMT | Understanding Vulnerabilities in Cybersecurity | Xavier J. Cruz | [Read More](https://medium.com/p/e8b67c7deaf0) |
-| Fri, 25 Apr 2025 01:17:08 GMT | From Vendor Risk to National Threat: Why GRC and CTI Must Intertwine to secure Business Continuity. | Liza Opar | [Read More](https://medium.com/p/5aabfde0eb3f) |
-| Fri, 25 Apr 2025 01:04:45 GMT | How to Find Hidden HackerOne & Bugcrowd Programs | Ibtissam Hammadi | [Read More](https://medium.com/p/0149457cf048) |
-| Fri, 25 Apr 2025 01:03:03 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 1) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/a9fd6859c7ae) |
-| Fri, 25 Apr 2025 00:55:44 GMT | No-Code Platforms: Speeding Up Secure App Development | Franklinr held | [Read More](https://medium.com/p/63c6d50824a5) |
-| Fri, 25 Apr 2025 00:49:17 GMT | The Hacker’s X-Ray Vision | YuvaSec | [Read More](https://medium.com/p/c9b75044639c) |
-| Fri, 25 Apr 2025 00:33:06 GMT | The Cybersecurity Internship Illusion: Are We Training for Real, or Just for Certificates? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/9bfd72ebcac1) |
-| Fri, 25 Apr 2025 00:32:59 GMT | From Door Locks to Data Locks: Let’s Get Cyber Smart! | Pallavi | [Read More](https://medium.com/p/2b716d46461e) |
-| Fri, 25 Apr 2025 00:30:00 GMT | The Internship Illusion: Why “Experience” is the New Entry Ticket (Even When No One Says So) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/05f337682902) |
-| Fri, 25 Apr 2025 00:29:16 GMT | “SwagShop” Hack The Box Walkthrough | 0xTweety | [Read More](https://medium.com/p/f4533c9c8954) |
-| Fri, 25 Apr 2025 00:26:45 GMT | Have we lost the fight against cyber criminals? | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/17d2e6a14d1c) |
