@@ -14,7 +14,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 12:30:19 GMT | OWASP Top 10 For Flutter — M4: Insufficient Input/Output Validation in Flutter | Talsec | [Read More](https://medium.com/p/527f87f0b14c) |
+| Fri, 25 Apr 2025 12:29:50 GMT | Hackers Hate These 8 React Native Security Tricks (You’ll Love) | Md  Alishan Ali | [Read More](https://medium.com/p/32702607bef5) |
+| Fri, 25 Apr 2025 12:29:00 GMT | Shadows Over the North: A Digital Assault | Tales of Nyx | [Read More](https://medium.com/p/3f4c2cb8aded) |
+| Fri, 25 Apr 2025 12:26:51 GMT | OSINT : Transformer l’information ouverte en rempart cyber | Rebecca Cottignies | [Read More](https://medium.com/p/284e29cf4bac) |
+| Fri, 25 Apr 2025 12:22:34 GMT | What Is a SOC? Why Every Modern Organisation Needs a Security Operations Centre | UK Cyber Defence | [Read More](https://medium.com/p/044a566fcad4) |
+| Fri, 25 Apr 2025 12:21:21 GMT | is it okay to feel sad? | clevantrer | [Read More](https://medium.com/p/d94890e022ec) |
+| Fri, 25 Apr 2025 12:19:53 GMT | Cara Menggunakan VPN untuk Keamanan dan Privasi Online | itsecurityexchange | [Read More](https://medium.com/p/6040a9fc13d9) |
+| Fri, 25 Apr 2025 12:16:46 GMT | The Art of Hiding Secrets in Plain Text: Seeing the Invisible | Esra Kayhan | [Read More](https://medium.com/p/51abba3cb688) |
+| Fri, 25 Apr 2025 12:15:36 GMT | Password Attacks are Hard | netrunner-404 | [Read More](https://medium.com/p/b1664252b71f) |
+| Fri, 25 Apr 2025 12:08:48 GMT | WhatsApp Bug: Why Contact Names Starting with @ Show Numbers Instead | Sumanth Jammisetti | [Read More](https://medium.com/p/b68855e47b19) |
+| Fri, 25 Apr 2025 12:07:26 GMT | Code to Coast or Code to Conquer: The Developer’s Effort Paradox | Namir Sagheenanajar | [Read More](https://medium.com/p/92f70d902578) |
+| Fri, 25 Apr 2025 12:02:07 GMT | Run Any MCP Servers Securely and Easily with Docker | AI Rabbit | [Read More](https://medium.com/p/1bf3585a54b1) |
+| Fri, 25 Apr 2025 11:53:20 GMT | Think Your Writing Is “Good Enough”? Add This One Ingredient | Kamran Khan | [Read More](https://medium.com/p/c633792d6ebb) |
+| Fri, 25 Apr 2025 11:48:51 GMT | Cap CTF — HackTheBox Walkthrough | Alts | [Read More](https://medium.com/p/0d5794dd4712) |
+| Fri, 25 Apr 2025 11:44:33 GMT | 7 Critical Steps to Lock Down Your Financial Apps | Karl Buhl | [Read More](https://medium.com/p/218a235968e9) |
+| Fri, 25 Apr 2025 11:41:21 GMT | Unlock the Best Deals on Antivirus Software with Top2Antivirus | Top2Antivirus | [Read More](https://medium.com/p/74d919593609) |
+| Fri, 25 Apr 2025 11:39:27 GMT | A Conversation I Almost Didn’t Have | Valverda Joseph | [Read More](https://medium.com/p/93dee4ae8590) |
+| Fri, 25 Apr 2025 11:39:05 GMT | Smart Gains: A 3-Month Investment Playbook | Edu-Uwem Udofia | [Read More](https://medium.com/p/5a90e847a9b9) |
 | Fri, 25 Apr 2025 11:33:02 GMT | HTB BoardLight Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/13a0c070587f) |
+| Fri, 25 Apr 2025 11:31:27 GMT | Understanding Template Engines & Server-Side Template Injection (SSTI) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/81ecf2fefc19) |
 | Fri, 25 Apr 2025 11:24:40 GMT | Transforming Enterprise IT Through AI and Automation: The New Strategic Paradigm | Hamza Baig | [Read More](https://medium.com/p/0b151adfb667) |
 | Fri, 25 Apr 2025 11:20:01 GMT | Web App Reconnaissance Like a Spy ️‍♂️: Tools & Techniques for 2025 | Vipul Sonule | [Read More](https://medium.com/p/072032e31adf) |
 | Fri, 25 Apr 2025 11:19:39 GMT | Rate Limiting Statamic on Linode with Forge + NGINX | Satheesh Kumar S | [Read More](https://medium.com/p/c38134d850c2) |
@@ -95,22 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 07:34:20 GMT | How Compliance Costs Add Up a Breakdown of Expenses | Finstein.ai | [Read More](https://medium.com/p/83d6582509f4) |
 | Fri, 25 Apr 2025 07:32:29 GMT | Mastering Operational Security: Ensuring Your Business and Personal Data Stay Safe | Ayush Rai | [Read More](https://medium.com/p/60551115d403) |
 | Fri, 25 Apr 2025 07:30:32 GMT | Hive Ransomware | Psyrensics | [Read More](https://medium.com/p/e6f495aa46ff) |
-| Fri, 25 Apr 2025 07:29:38 GMT | 2025 Bybit Hack (What the Hackers in Front Line Were Experiencing) & How Safe{Wallet} Guard Can… | Woody Wang | [Read More](https://medium.com/p/2a25d53944c9) |
-| Fri, 25 Apr 2025 07:25:34 GMT | How to Answer, “What Salary Do You Expect?” Without Underselling Yourself | Prism HRC | [Read More](https://medium.com/p/60bfced6eeb1) |
-| Fri, 25 Apr 2025 07:24:36 GMT | 10 Free Tools Every Beginner Bug Bounty Hunter Should Know (2025 Edition) | 127.0.0.1 | [Read More](https://medium.com/p/571ce494d907) |
-| Fri, 25 Apr 2025 07:23:11 GMT | Got 2TB cloud storage for FREE in just 10 minutes - Payment Gateway bypass trick | Zephryx | [Read More](https://medium.com/p/4483dc3523a8) |
-| Fri, 25 Apr 2025 07:21:25 GMT | Beyond Firewalls: Why Governance Needs a Mindset Shift | Somesh Sawhney | [Read More](https://medium.com/p/1273653b2f0c) |
-| Fri, 25 Apr 2025 07:17:31 GMT | Linux File Access Control: Permissions and Ownership Explained | Chioma Okafor | [Read More](https://medium.com/p/50cfe92c803b) |
-| Fri, 25 Apr 2025 07:14:36 GMT | “What’s Inside a ZAP Scan Report? A Peek Into Your Website’s Security X-Ray!” | Neelendra Singh Tomar | [Read More](https://medium.com/p/f392956f2132) |
-| Fri, 25 Apr 2025 07:12:22 GMT | Zabbix Agent Installer on Windows 11 | Dante | [Read More](https://medium.com/p/376e95f33837) |
-| Fri, 25 Apr 2025 07:09:40 GMT | Learn Certified Ethical Hacker Certification Course in 2025 | cyber security Updates | [Read More](https://medium.com/p/b1cb48c983d5) |
-| Fri, 25 Apr 2025 07:05:38 GMT | I Am Doing It For A Glory Purpose! | restdone | [Read More](https://medium.com/p/a61c2c459e31) |
-| Fri, 25 Apr 2025 07:01:01 GMT | Cybersecurity in the AI Era: New Threats and How to Stay Protected | jhonharry65 | [Read More](https://medium.com/p/1b3ba1e2d31b) |
-| Fri, 25 Apr 2025 06:51:27 GMT | If I can make a summary, I want a special summary like this | restdone | [Read More](https://medium.com/p/57cbbf5cc396) |
-| Fri, 25 Apr 2025 06:28:04 GMT | Bypassing CSRF defenses using XSS…and more - Portswigger XSS Practitioner Part 2 | Rhythm Babu Kafle | [Read More](https://medium.com/p/b08965e0c039) |
-| Fri, 25 Apr 2025 06:15:35 GMT | Zabbix Server Installer | Dante | [Read More](https://medium.com/p/3de017d1b76f) |
-| Fri, 25 Apr 2025 06:15:20 GMT | Step into Leadership with CCISO! | Securium Academy | [Read More](https://medium.com/p/3bc4acd2c994) |
-| Fri, 25 Apr 2025 06:14:27 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 24] The Trial Before Christmas | TokiBando | [Read More](https://medium.com/p/acf611a54562) |
-| Fri, 25 Apr 2025 06:14:19 GMT | TryHackMe — Advent of Cyber 2 (2020) [Day 23] The Grinch strikes again! | TokiBando | [Read More](https://medium.com/p/08cd7a21ec2c) |
-| Fri, 25 Apr 2025 06:13:17 GMT | Most Pro Hacker Adviced Beginners To Start with on VDP Program I Taked This Advice and After Three… | Youssef Mohamed | [Read More](https://medium.com/p/bbc216680b6f) |
-| Fri, 25 Apr 2025 06:07:21 GMT | ZTNA vs VPN: Which One Is the Better Cybersecurity Solution? | Serishahid | [Read More](https://medium.com/p/65c9fca0e0b4) |
