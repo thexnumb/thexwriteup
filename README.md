@@ -14,6 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 25 Apr 2025 05:11:55 GMT | PKCE Authentication: Securing OAuth 2.0 for Public Clients | Piranaavei Beremkumar | [Read More](https://medium.com/p/73b7774b3573) |
+| Fri, 25 Apr 2025 05:05:51 GMT | Installing and Configuring AWS CLI for Seamless Cloud Management | Akuphe Dieudonne | [Read More](https://medium.com/p/68609bc5617d) |
+| Fri, 25 Apr 2025 05:00:28 GMT | Why I Believe Cybersecurity Matters Now More Than Ever | Luis E. | [Read More](https://medium.com/p/80ed625ad03f) |
+| Fri, 25 Apr 2025 04:45:35 GMT | Why a Dedicated Linux Course is Crucial for Cybersecurity Experts | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/60ce4408b391) |
+| Fri, 25 Apr 2025 04:43:59 GMT | Navigating Business Liability Challenges in the Digital Age: Strategies for Success | Tycoonstories | [Read More](https://medium.com/p/c68d442b54a0) |
+| Fri, 25 Apr 2025 04:42:13 GMT | Reverse Engineering Malware: Cracking the Code of Digital Predators | Ahmad Javed | [Read More](https://medium.com/p/47c7440c6559) |
+| Fri, 25 Apr 2025 04:41:50 GMT | The Malware That Outsmarted Antivirus, Firewalls, and Humans — Meet Chimera | Noel | [Read More](https://medium.com/p/7e7a4bba90fc) |
+| Fri, 25 Apr 2025 04:41:29 GMT | The Evolving Landscape of Ransomware | The Hackers Meetup | [Read More](https://medium.com/p/dd1f4944aeab) |
 | Fri, 25 Apr 2025 04:32:39 GMT | Bandit Level 20 → Level 21 - Setuid Networking | scissor_seven | [Read More](https://medium.com/p/e2369fd29d24) |
 | Fri, 25 Apr 2025 04:32:28 GMT | Bandit Level 21 → Level 22 - Scheduled Service Password Discovery | scissor_seven | [Read More](https://medium.com/p/b2b72c73adea) |
 | Fri, 25 Apr 2025 04:28:57 GMT | Sample MCP and A2A Application | erica jayasundera | [Read More](https://medium.com/p/f794b50f6f63) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 24 Apr 2025 19:46:55 GMT | ️ Best Free Antivirus Apps in 2025 (For Android & Windows) | Tech Min 60 | [Read More](https://medium.com/p/3791fb0ad1ab) |
 | Thu, 24 Apr 2025 19:41:54 GMT | STH Mini Web CTF 2025 — Walkthrough by kt1209 | kt1209 | [Read More](https://medium.com/p/50f4f199ed4f) |
 | Thu, 24 Apr 2025 19:41:40 GMT | Exposing my homelab | 410 Gone | [Read More](https://medium.com/p/50ae06832f86) |
-| Thu, 24 Apr 2025 19:31:24 GMT | 5 Ways to Protect Your Kid from Dangerous YouTube Content | Savvy Cyber Kids | [Read More](https://medium.com/p/8c000742ca2b) |
-| Thu, 24 Apr 2025 19:29:24 GMT | :     … | Sami Almaddan | [Read More](https://medium.com/p/d93dd94f0666) |
-| Thu, 24 Apr 2025 19:28:49 GMT | Why We Write Logs (and Why It Matters More Than You Think) | Jens@Fivesec | [Read More](https://medium.com/p/e1a79559ce74) |
-| Thu, 24 Apr 2025 19:21:33 GMT | eCPPT — Powershell for Pentesters CTF 1 INE | Md. Imran Chowdhury | [Read More](https://medium.com/p/ace152f7d2b9) |
-| Thu, 24 Apr 2025 19:14:32 GMT | The 7 Dumbest Ways Small Businesses Get Hacked (And How to Avoid Them) | Abdelaziz moustakim | [Read More](https://medium.com/p/1c0a14ac3eb1) |
-| Thu, 24 Apr 2025 19:06:40 GMT | Inject, Exploit, Repeat: Real-World Adventures in XSS | Isv | [Read More](https://medium.com/p/a8fd8f7066c8) |
-| Thu, 24 Apr 2025 19:04:53 GMT | Mastering NetworkPolicy: Secure Your Kubernetes Cluster Like a Pro | Raihan Iqbal | [Read More](https://medium.com/p/ad75fb9e5497) |
-| Thu, 24 Apr 2025 18:58:49 GMT | ChatGPT Hacking Attacks: AI Security Concerns from 2025 Vulnerabilities | Li Zixiang | [Read More](https://medium.com/p/844ab1d52b3d) |
