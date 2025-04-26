@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 04:33:42 GMT | Day 115: RackStatic, Rogue NHIs, and the Growing Breach Terrain | Troy | [Read More](https://medium.com/p/9c807a741b0f) |
+| Sat, 26 Apr 2025 04:27:51 GMT | #100 Linux Commands to Enhance Your Penetration Testing Skills | Erlangga F | [Read More](https://medium.com/p/5090f7e322ef) |
+| Sat, 26 Apr 2025 04:27:01 GMT | OSINT: Safely calculating the JARM of C2, without interacting with ‘potentially bad’ infrastructure | Cwrw | [Read More](https://medium.com/p/ad5176f182d0) |
 | Sat, 26 Apr 2025 04:10:42 GMT | How to Get Consistent Rewards with Bounty $BNTY | Bounty | [Read More](https://medium.com/p/79d11f22c2b5) |
 | Sat, 26 Apr 2025 04:09:58 GMT | The Windows Security Journey — Primary Group | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e9964111915d) |
 | Sat, 26 Apr 2025 04:06:35 GMT | The 5 Emerging Technologies That Will Reshape the World by 2030 | Innovate Byte | [Read More](https://medium.com/p/ad51d5a02c8b) |
@@ -112,6 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 17:14:25 GMT | A Look Back: JSF : JavaServer Faces | Bill Corrie | [Read More](https://medium.com/p/9acb023291d4) |
 | Fri, 25 Apr 2025 17:14:12 GMT | The Real Meaning of Authenticity: How Vulnerability Powers Your True Self | Janelle Jones | [Read More](https://medium.com/p/860d80445059) |
 | Fri, 25 Apr 2025 17:05:21 GMT | Privacy and security behind Hey ChatGPT create a picture of me. | Abith Ahamed | [Read More](https://medium.com/p/1a81816aa07c) |
-| Fri, 25 Apr 2025 17:04:42 GMT | The Timeless Tricks of Social Engineering | Sapphire Infosec | [Read More](https://medium.com/p/f6c0331f52a1) |
-| Fri, 25 Apr 2025 17:00:58 GMT | How to Scan Excel .XLS Files for Malware and Viruses in .NET Applications | Cloudmersive | [Read More](https://medium.com/p/3a5885c15eff) |
-| Fri, 25 Apr 2025 16:55:18 GMT | The Weekly Threat Round-up 21/04/2025 -25/04/2025 | RileyHv | [Read More](https://medium.com/p/9970f63e630b) |
