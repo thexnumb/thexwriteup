@@ -14,6 +14,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 13:18:09 GMT | How I Explained Angular Security During My Interview (And What You Should Know Too) | Manish Chauhan | [Read More](https://medium.com/p/eda6a8e20c04) |
+| Sat, 26 Apr 2025 13:05:55 GMT | Top Open-Source Blue Team Tools: Fortifying Cyber Defenses | Pawan Jaiswal | [Read More](https://medium.com/p/39ee0a26a418) |
+| Sat, 26 Apr 2025 13:04:18 GMT | Free SSL vs Paid SSL: Which Is Better for UK Businesses in 2025? | Swapnil S. | [Read More](https://medium.com/p/68aa8f675ed3) |
+| Sat, 26 Apr 2025 13:02:55 GMT | How I Bypassed a WAF & Found My First XSS Bug | Ibtissam Hammadi | [Read More](https://medium.com/p/22429d7a3655) |
+| Sat, 26 Apr 2025 13:02:27 GMT | 80% False Positives, 0% Efficiency: The Real Problem Behind Alert Fatigue | Peris.ai Cybersecurity | [Read More](https://medium.com/p/34c1d6453c03) |
+| Sat, 26 Apr 2025 12:57:43 GMT | Day-17: How to Secure APIs and Prevent Server-Side Parameter Pollution | Agarwaldaksh | [Read More](https://medium.com/p/b116538e1e70) |
+| Sat, 26 Apr 2025 12:56:01 GMT | LE RADA-COLLIER MYSTIQUE. GRAND SAGE AZIHOU
+Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https://medium.com/p/5bbcb4ee3c70) |
+| Sat, 26 Apr 2025 12:52:57 GMT | Day 1: Starting My Cybersecurity Journey | Uijin Lee | [Read More](https://medium.com/p/5f247acf840c) |
+| Sat, 26 Apr 2025 12:41:21 GMT | Breaking File Upload Security: Finding Hidden XSS | Isv | [Read More](https://medium.com/p/cfc6e38bcee3) |
+| Sat, 26 Apr 2025 12:37:13 GMT | ️ Mastering Sysmon: The Essential Tool for Deep Windows Monitoring | Furkanctiner | [Read More](https://medium.com/p/ee9dd801e750) |
+| Sat, 26 Apr 2025 12:32:28 GMT | Top 10 Beginner Setup Problems in HTB and Bug Bounty (and How to Fix Them Fast) | Very Lazy Tech | [Read More](https://medium.com/p/1f9a278415ea) |
+| Sat, 26 Apr 2025 12:32:13 GMT | Who Owns Your Data… Owns Your Future | Fahad Abalkhail | [Read More](https://medium.com/p/4bf74e30f119) |
+| Sat, 26 Apr 2025 12:25:03 GMT | SQLiLite - Writeup | Marvin | [Read More](https://medium.com/p/0b1e412593d0) |
 | Sat, 26 Apr 2025 12:24:03 GMT | File Management In Linux | Gourav(spidergk) | [Read More](https://medium.com/p/b01421ee1020) |
 | Sat, 26 Apr 2025 12:16:31 GMT | c4ptur3-th3-fl4g — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/d0f8b1a2b543) |
 | Sat, 26 Apr 2025 12:11:28 GMT | More SQLi - Writeup | Marvin | [Read More](https://medium.com/p/474127ac1f9b) |
@@ -101,16 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 05:02:28 GMT | Patching Up Your Defense: Why Regular Updates Are a Security Superpower | Saber You | [Read More](https://medium.com/p/de17e10e8c80) |
 | Sat, 26 Apr 2025 04:57:32 GMT | Millions of Records Exposed via SQL Injection in a Tamil Nadu Government Portal | Hack-Bat | [Read More](https://medium.com/p/0981d3827ed2) |
 | Sat, 26 Apr 2025 04:56:21 GMT | For CISOs, true influence comes from execution, not just investment | JC Gaillard | [Read More](https://medium.com/p/b757d5da1fb2) |
-| Sat, 26 Apr 2025 04:54:25 GMT | You Get the Bugs But AI the Credit: Navigating the Double-Edged Sword of AI-Generated Code | Global News Fact | [Read More](https://medium.com/p/70fb7daaed94) |
-| Sat, 26 Apr 2025 04:46:59 GMT | Holy Hackers? Why Religious Websites Might Be Riskier Than Adult Sites | Sri | [Read More](https://medium.com/p/1739608b5d7f) |
-| Sat, 26 Apr 2025 04:45:28 GMT | Microsoft Is Paying Up to $30,000 for AI Security Flaws | Cyber-AppSec | [Read More](https://medium.com/p/d4f1fec247d6) |
-| Sat, 26 Apr 2025 04:33:42 GMT | Day 115: RackStatic, Rogue NHIs, and the Growing Breach Terrain | Troy | [Read More](https://medium.com/p/9c807a741b0f) |
-| Sat, 26 Apr 2025 04:27:51 GMT | #100 Linux Commands to Enhance Your Penetration Testing Skills | Erlangga F | [Read More](https://medium.com/p/5090f7e322ef) |
-| Sat, 26 Apr 2025 04:27:01 GMT | OSINT: Safely calculating the JARM of C2, without interacting with ‘potentially bad’ infrastructure | Cwrw | [Read More](https://medium.com/p/ad5176f182d0) |
-| Sat, 26 Apr 2025 04:10:42 GMT | How to Get Consistent Rewards with Bounty $BNTY | Bounty | [Read More](https://medium.com/p/79d11f22c2b5) |
-| Sat, 26 Apr 2025 04:09:58 GMT | The Windows Security Journey — Primary Group | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e9964111915d) |
-| Sat, 26 Apr 2025 04:06:35 GMT | The 5 Emerging Technologies That Will Reshape the World by 2030 | Innovate Byte | [Read More](https://medium.com/p/ad51d5a02c8b) |
-| Sat, 26 Apr 2025 03:59:22 GMT | The Day Peace Was Broken: A Sad Story from Kashmir | Modi Ranjith | [Read More](https://medium.com/p/c2d54cb58974) |
-| Sat, 26 Apr 2025 03:50:53 GMT | VPNs And Their Role In Digital Privacy Protection | James Neal | [Read More](https://medium.com/p/cee433b2dd10) |
-| Sat, 26 Apr 2025 03:48:22 GMT | TOP 100 : MENGENAL PERINTAH DASAR LINUX UNTUK PENTESTER PEMULA DI DUNIA CYBER SECURITY | Fadhlur rohman | [Read More](https://medium.com/p/647d788ad20a) |
-| Sat, 26 Apr 2025 03:45:44 GMT | Unlock New Levels Of Privacy With Advanced VPN | Melvin Erickson | [Read More](https://medium.com/p/5a5badc11c1a) |
