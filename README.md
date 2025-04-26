@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 16:13:28 GMT | Work Securely with a Private Server and Linux Laptop | Asterios Raptis | [Read More](https://medium.com/p/142313aa52b1) |
+| Sat, 26 Apr 2025 16:13:10 GMT | How I Conquered OSCP, OSCP+, OSEP, OSWA, OSWE, OSED, OSCE³, eCPPT, CEH Practical — all in 12 Months | Pratham Shah | [Read More](https://medium.com/p/361ad2f68d8d) |
+| Sat, 26 Apr 2025 16:05:20 GMT | Artificial Intelligence in Cyber Warfare: The Silent Threat No One Talks About! | Maha althobaiti | [Read More](https://medium.com/p/a0cee51c6a2f) |
+| Sat, 26 Apr 2025 15:52:10 GMT | when the walls learned to breathe | xpfqlx | [Read More](https://medium.com/p/98ffcef9c162) |
+| Sat, 26 Apr 2025 15:49:50 GMT | When You Realize Your Webcam Might Be Watching You | Vijay Kumar Gupta | [Read More](https://medium.com/p/ed8a77b8c5cf) |
+| Sat, 26 Apr 2025 15:45:50 GMT | The Most Advanced VPNs For Streaming And Browsing | Melvin Erickson | [Read More](https://medium.com/p/0e83f2ba5142) |
+| Sat, 26 Apr 2025 15:45:23 GMT | My First P1 | callgh0st | [Read More](https://medium.com/p/ae9d09c02927) |
+| Sat, 26 Apr 2025 15:42:55 GMT | The Problem of One Night: Can Europe Respond Before Dawn? | Adam Gazdiev | [Read More](https://medium.com/p/b2578a510343) |
+| Sat, 26 Apr 2025 15:37:01 GMT | Authentication Bypass on famous cricket website | BalaramaKrishna | [Read More](https://medium.com/p/54cf1cbe173b) |
 | Sat, 26 Apr 2025 15:22:26 GMT | Attack Detection with Artificial Intelligence and Machine Learning ️ | Esra Kayhan | [Read More](https://medium.com/p/155f8459ef43) |
 | Sat, 26 Apr 2025 15:15:16 GMT | Cybersecurity Leaders Are Staying in The Shadows | Stephen Pao | [Read More](https://medium.com/p/6030784d0318) |
 | Sat, 26 Apr 2025 15:11:07 GMT | XSS Vulnerability on One of the Top 10 Universities in India | Syed Mushir | [Read More](https://medium.com/p/a2088fd31ef5) |
@@ -106,12 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 09:42:20 GMT | THM - Whats Your Name? | Francesco Pastore | [Read More](https://medium.com/p/bb660a783867) |
 | Sat, 26 Apr 2025 09:29:05 GMT | The Hidden Param That Opened the Vault: A Dirty Param Tampering Tale | Iski | [Read More](https://medium.com/p/52bfac3539fd) |
 | Sat, 26 Apr 2025 09:20:10 GMT | Cybersecurity Audit Vault | Meravytes | [Read More](https://medium.com/p/49d14dc0ea56) |
-| Sat, 26 Apr 2025 09:13:59 GMT | WINDOWS FILESYSTEM | Olumide Adeniji | [Read More](https://medium.com/p/d895cf76e5ab) |
-| Sat, 26 Apr 2025 09:00:34 GMT | Leverage Sealed Classes in Java: Use Cases, Best Practices, and Common Pitfalls | Anh Trần Tuấn | [Read More](https://medium.com/p/18b7acba15e7) |
-| Sat, 26 Apr 2025 09:00:31 GMT | Leverage Sealed Classes in Java: Use Cases, Best Practices, and Common Pitfalls | Anh Trần Tuấn | [Read More](https://medium.com/p/501a565eaa54) |
-| Sat, 26 Apr 2025 09:00:16 GMT | Content Security Policy (CSP)-browser throws allow script-src ‘unsafe-inline’ | Sudha Subramaniam | [Read More](https://medium.com/p/3cecb69aa49a) |
-| Sat, 26 Apr 2025 08:49:38 GMT | The removal of a fundamental pillar of cybersecurity, such as behavioral analysis, stems either… | Semih Sarı | [Read More](https://medium.com/p/f834e2c09c56) |
-| Sat, 26 Apr 2025 08:47:20 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | حاجی طباطبای | [Read More](https://medium.com/p/eafbf34a2a60) |
-| Sat, 26 Apr 2025 08:36:26 GMT | Bypassing Attack Surface Reduction (ASR) Rules with VBA Macros | Moataz Osama | [Read More](https://medium.com/p/ff64c2b57117) |
-| Sat, 26 Apr 2025 08:33:52 GMT | Session Private Messenger: A look at Features, Privacy, Security, and Usage | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/db4504ebe605) |
-| Sat, 26 Apr 2025 08:33:37 GMT | Assessment Methodologies: Enumeration CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/864a12e58239) |
