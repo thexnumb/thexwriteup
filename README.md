@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 15:22:26 GMT | Attack Detection with Artificial Intelligence and Machine Learning ️ | Esra Kayhan | [Read More](https://medium.com/p/155f8459ef43) |
 | Sat, 26 Apr 2025 15:15:16 GMT | Cybersecurity Leaders Are Staying in The Shadows | Stephen Pao | [Read More](https://medium.com/p/6030784d0318) |
 | Sat, 26 Apr 2025 15:11:07 GMT | XSS Vulnerability on One of the Top 10 Universities in India | Syed Mushir | [Read More](https://medium.com/p/a2088fd31ef5) |
 | Sat, 26 Apr 2025 15:07:57 GMT | Inside Anonymous: The Mysterious Hacktivist Group That Shaped Cybersecurity | Michael Younsi | [Read More](https://medium.com/p/c13f803fe90b) |
@@ -114,4 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 08:36:26 GMT | Bypassing Attack Surface Reduction (ASR) Rules with VBA Macros | Moataz Osama | [Read More](https://medium.com/p/ff64c2b57117) |
 | Sat, 26 Apr 2025 08:33:52 GMT | Session Private Messenger: A look at Features, Privacy, Security, and Usage | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/db4504ebe605) |
 | Sat, 26 Apr 2025 08:33:37 GMT | Assessment Methodologies: Enumeration CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/864a12e58239) |
-| Sat, 26 Apr 2025 08:30:03 GMT | TryHackMe - Abusing Windows Internals - WriteUp | Axoloth | [Read More](https://medium.com/p/7a4748d76ea0) |
