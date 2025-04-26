@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 10:07:19 GMT | Patch Tuesday on Autopilot (2025 Edition) | Anderson Godoy | [Read More](https://medium.com/p/69c9294bd453) |
+| Sat, 26 Apr 2025 10:06:58 GMT | Understanding the 4-Way Handshake — The Core of Wi-Fi Security | Amitishacked | [Read More](https://medium.com/p/99099f4c18f6) |
+| Sat, 26 Apr 2025 10:06:42 GMT | Breaking the Hierarchy: How I Bypassed Role Restrictions to Become Owner | Fuzzyy Duck | [Read More](https://medium.com/p/2635e1e33d85) |
+| Sat, 26 Apr 2025 10:05:45 GMT | सूरत BRTS टिकट घोटाला: क्या हुआ और कैसे सुरक्षित रहें | Hacker news 07 | [Read More](https://medium.com/p/45d383ec2297) |
+| Sat, 26 Apr 2025 10:05:16 GMT | ✨ A Deep Dive:Nmap Scanning with Wireshark | 0b1d1 | [Read More](https://medium.com/p/40ea0ecb2eee) |
+| Sat, 26 Apr 2025 09:58:38 GMT | How I Bypassed Authentication on a Funded Fashion Site — And Took Over an Account | Rolextital | [Read More](https://medium.com/p/8b8a9189fb4a) |
+| Sat, 26 Apr 2025 09:56:56 GMT | The Easiest $350 Bounty I’ve Ever Earned — In Just 10 Minutes! | Mohit Kumar | [Read More](https://medium.com/p/c129a21fc8ab) |
+| Sat, 26 Apr 2025 09:49:23 GMT | How to Set Up Linux on VMware: A Complete Beginner’s Guide | Hitesh Sonawane | [Read More](https://medium.com/p/1052b782bab1) |
+| Sat, 26 Apr 2025 09:44:41 GMT | A Step-by-Step Guide on How to Farm $BUG from Bug | Bug | [Read More](https://medium.com/p/af11f4f8210c) |
+| Sat, 26 Apr 2025 09:44:21 GMT | Importance of Cybersecurity in the Digital Age | Shashwat Patel | [Read More](https://medium.com/p/ae48e5fc805d) |
+| Sat, 26 Apr 2025 09:42:20 GMT | THM - Whats Your Name? | Francesco Pastore | [Read More](https://medium.com/p/bb660a783867) |
 | Sat, 26 Apr 2025 09:29:05 GMT | The Hidden Param That Opened the Vault: A Dirty Param Tampering Tale | Iski | [Read More](https://medium.com/p/52bfac3539fd) |
 | Sat, 26 Apr 2025 09:20:10 GMT | Cybersecurity Audit Vault | Meravytes | [Read More](https://medium.com/p/49d14dc0ea56) |
 | Sat, 26 Apr 2025 09:13:59 GMT | WINDOWS FILESYSTEM | Olumide Adeniji | [Read More](https://medium.com/p/d895cf76e5ab) |
@@ -104,14 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 22:54:49 GMT | External Asset Management (EAM) in Cybersecurity: A Practical Guide for Cloud Environments | AD Oyedepo | [Read More](https://medium.com/p/8a854bbe4690) |
 | Fri, 25 Apr 2025 22:37:42 GMT | OOP in Programming | Migo ee | [Read More](https://medium.com/p/bc0ca618db63) |
 | Fri, 25 Apr 2025 22:31:09 GMT | Next.js Middleware Vulnerability: How CVE-2025–29927 Enables Authorization Bypass | Nitin Gavhane | [Read More](https://medium.com/p/1e0293d10e24) |
-| Fri, 25 Apr 2025 22:16:33 GMT | How to Implement Network Segmentation to Enhance Security | Karthikeyan Nagaraj | [Read More](https://medium.com/p/54c657e2c9fd) |
-| Fri, 25 Apr 2025 22:10:48 GMT | Hack The Box “SwagShop” Walkthrough ️ | 0xTweety | [Read More](https://medium.com/p/4aa4756986f5) |
-| Fri, 25 Apr 2025 21:35:56 GMT | Cyber Defense in 2025: Insights That Actually Matter (From CrowdStrike’s Latest Report) | Anezaneo | [Read More](https://medium.com/p/12a9a8b536cb) |
-| Fri, 25 Apr 2025 21:31:41 GMT | Burp Suite — Creación de Reportes Mediante AI | ArtsSEC | [Read More](https://medium.com/p/f5ad88f5de1f) |
-| Fri, 25 Apr 2025 21:26:15 GMT | From 403 Forbidden to PII Exposure: How I Escalated a Low-Severity Bug to a High P2 | Gotcha1G | [Read More](https://medium.com/p/915a9b814ce6) |
-| Fri, 25 Apr 2025 21:14:17 GMT | OSCP+ Fail: From ‘Try Harder’ to ‘Read Slower’ — How It Rewired My Pentest Game | Anezaneo | [Read More](https://medium.com/p/c267efdf2af5) |
-| Fri, 25 Apr 2025 21:14:07 GMT | Crack WPA 2 & 3 WIFI Password ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/779c6e756892) |
-| Fri, 25 Apr 2025 21:08:03 GMT | Beginner’s Guide to Malware Development: Understanding Threads and Processes | Cyber_guy | [Read More](https://medium.com/p/ae52236751e8) |
-| Fri, 25 Apr 2025 20:58:24 GMT | Implementing Device Binding in WSO2 Identity Server | Viggnah Selvaraj | [Read More](https://medium.com/p/7e7f8ab19649) |
-| Fri, 25 Apr 2025 20:55:55 GMT | EDR (Endpoint Detection and Response) Nedir? | Melike Büşra Şener | [Read More](https://medium.com/p/b27a8d5fe4c4) |
-| Fri, 25 Apr 2025 20:42:25 GMT | Null Byte Injection Attack | Adham Hashem | [Read More](https://medium.com/p/a01de121e376) |
