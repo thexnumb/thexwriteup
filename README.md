@@ -14,6 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 19:02:05 GMT | an Almost Perfect Attack Chain | Daouda Diallo | [Read More](https://medium.com/p/4205822fee34) |
+| Sat, 26 Apr 2025 19:01:25 GMT | Beware of Instant Loan App Scams: Don’t Fall for Quick Money Traps | CyberSafe Academy | [Read More](https://medium.com/p/883b6a6142a3) |
+| Sat, 26 Apr 2025 18:59:53 GMT | Top 5 Cybersecurity Incidents You Shouldn’t Ignore This Week (April 21–27, 2025) | Rohan UK | [Read More](https://medium.com/p/31bc7dd3975c) |
+| Sat, 26 Apr 2025 18:59:33 GMT | Funky Stuff | Imran | [Read More](https://medium.com/p/3645fdf1a811) |
+| Sat, 26 Apr 2025 18:52:38 GMT | Securing Solana: A Comprehensive Analysis of Past Security Incidents and Lessons Learnt | Khaythefirst | [Read More](https://medium.com/p/26f6d1a79453) |
+| Sat, 26 Apr 2025 18:44:23 GMT | Darcula — GenAI-Powered Phishing Kit | Tal Eliyahu | [Read More](https://medium.com/p/d5c22998c660) |
+| Sat, 26 Apr 2025 18:43:24 GMT | Hacker University: How To Hack Snapchat | SinVictus | [Read More](https://medium.com/p/8f9b9c40b88d) |
 | Sat, 26 Apr 2025 18:37:59 GMT | KMAC in .NET 9 | Kamlesh Singh | [Read More](https://medium.com/p/0dac99b45717) |
 | Sat, 26 Apr 2025 18:30:40 GMT | Utilizing a Command and Control (C2) system through a Telegram bot. | Paqsmithgun | [Read More](https://medium.com/p/f3d3d06d2682) |
 | Sat, 26 Apr 2025 18:28:20 GMT | WooCommerce Admins Targeted by Fake Security Patches That Hijack Sites | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/7bf1832f2963) |
@@ -108,10 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 12:11:28 GMT | More SQLi - Writeup | Marvin | [Read More](https://medium.com/p/474127ac1f9b) |
 | Sat, 26 Apr 2025 12:09:25 GMT | Top 10 Techniques to Secure Your LLM Prompt in 2025 | Hicham Amchaar | [Read More](https://medium.com/p/c9cc2db2f0a2) |
 | Sat, 26 Apr 2025 12:08:10 GMT | Crypto Investor loses $700,000 in Address Poisoning Scam: A Cautionary Tale | CyberLucifer | [Read More](https://medium.com/p/f4aeaba27390) |
-| Sat, 26 Apr 2025 12:06:59 GMT | YOUTUBE SHORTS | InsightSphere | [Read More](https://medium.com/p/1bba81c19f5c) |
-| Sat, 26 Apr 2025 11:57:27 GMT | Top Strategies to Tackle Wireless Network Attacks PEN-210 | Oscptraining | [Read More](https://medium.com/p/a0a6831ae3a4) |
-| Sat, 26 Apr 2025 11:49:15 GMT | CyberKannadig: Empowering Karnataka’s Digital Journey Through Language and Innovation | Ar Fahim | [Read More](https://medium.com/p/bf3c3349cb96) |
-| Sat, 26 Apr 2025 11:49:07 GMT | Standardizing Cyber Threat Sharing: A Deep Dive into STIX and TAXII | Reeti | [Read More](https://medium.com/p/5a90d2f1fa82) |
-| Sat, 26 Apr 2025 11:49:01 GMT | What Happens When You Visit a Website? | Nikita | [Read More](https://medium.com/p/d1e12ed04085) |
-| Sat, 26 Apr 2025 11:47:25 GMT | Hijacked by Trust: A Case Study When the Day a Legitimate App Turns Rogue and Joined the Adversary | Muhammad Zakaria | [Read More](https://medium.com/p/4d67bffaa77c) |
-| Sat, 26 Apr 2025 11:41:37 GMT | Is Fanurex’s SPFL Realism Overhaul Safe? VirusTotal and Threat Scanner Findings | LookingForAnswers | [Read More](https://medium.com/p/4a5d25e664a3) |
