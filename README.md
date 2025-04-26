@@ -14,7 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 13:38:57 GMT | Quantum Computing Is Closer Than You Think — But Are We Ready? | Harsh Kumar | [Read More](https://medium.com/p/94159af1f437) |
+| Sat, 26 Apr 2025 13:36:20 GMT | Building a simple Python port scanner | cybertoucan | [Read More](https://medium.com/p/14d3ed050d4d) |
+| Sat, 26 Apr 2025 13:34:34 GMT | Digital Forensics (Part 2): The Importance of Rapid Triage Collection — Kape vs FTK Imager | Dean | [Read More](https://medium.com/p/c7d85b046578) |
+| Sat, 26 Apr 2025 13:32:39 GMT | Locking Down Your Smart Home: The Essential Privacy Toolkit I Learned the Hard Way | Maruti | [Read More](https://medium.com/p/7f487cbd7233) |
+| Sat, 26 Apr 2025 13:27:03 GMT | caas - Writeup | Marvin | [Read More](https://medium.com/p/fee60b4f0869) |
 | Sat, 26 Apr 2025 13:18:09 GMT | How I Explained Angular Security During My Interview (And What You Should Know Too) | Manish Chauhan | [Read More](https://medium.com/p/eda6a8e20c04) |
+| Sat, 26 Apr 2025 13:12:33 GMT | Exposing a Silent Threat: My Apple ID Was Cloned , and Apple Tried to Hide It | Jamilah McCray | [Read More](https://medium.com/p/77d08260f4ed) |
 | Sat, 26 Apr 2025 13:05:55 GMT | Top Open-Source Blue Team Tools: Fortifying Cyber Defenses | Pawan Jaiswal | [Read More](https://medium.com/p/39ee0a26a418) |
 | Sat, 26 Apr 2025 13:04:18 GMT | Free SSL vs Paid SSL: Which Is Better for UK Businesses in 2025? | Swapnil S. | [Read More](https://medium.com/p/68aa8f675ed3) |
 | Sat, 26 Apr 2025 13:02:55 GMT | How I Bypassed a WAF & Found My First XSS Bug | Ibtissam Hammadi | [Read More](https://medium.com/p/22429d7a3655) |
@@ -109,9 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 06:08:13 GMT | Cybersecurity and Online Reputation: Protecting Brisbane SMEs | Elevate | [Read More](https://medium.com/p/beb37c7afd67) |
 | Sat, 26 Apr 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Apr 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5607df5f68e5) |
 | Sat, 26 Apr 2025 05:37:58 GMT | Why Centralizing Digital Assets Is the Smartest Move Your Organization Can Make | Ajay Monga | [Read More](https://medium.com/p/04c5eea71fab) |
-| Sat, 26 Apr 2025 05:30:10 GMT | HTB: Blocky (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/7a74e1e22a71) |
-| Sat, 26 Apr 2025 05:24:03 GMT | Fundamental Linux Commands for CompTIA Security+ (SY0–701): A Beginner’s Resource | unica 02 | [Read More](https://medium.com/p/25a455be7fae) |
-| Sat, 26 Apr 2025 05:11:48 GMT | Symbolic Execution vs Traditional Static Analysis in Smart Contract Security | Securr - Web3 Security | [Read More](https://medium.com/p/97a9289bbd48) |
-| Sat, 26 Apr 2025 05:02:28 GMT | Patching Up Your Defense: Why Regular Updates Are a Security Superpower | Saber You | [Read More](https://medium.com/p/de17e10e8c80) |
-| Sat, 26 Apr 2025 04:57:32 GMT | Millions of Records Exposed via SQL Injection in a Tamil Nadu Government Portal | Hack-Bat | [Read More](https://medium.com/p/0981d3827ed2) |
-| Sat, 26 Apr 2025 04:56:21 GMT | For CISOs, true influence comes from execution, not just investment | JC Gaillard | [Read More](https://medium.com/p/b757d5da1fb2) |
