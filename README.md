@@ -14,6 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 04:10:42 GMT | How to Get Consistent Rewards with Bounty $BNTY | Bounty | [Read More](https://medium.com/p/79d11f22c2b5) |
+| Sat, 26 Apr 2025 04:09:58 GMT | The Windows Security Journey — Primary Group | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e9964111915d) |
+| Sat, 26 Apr 2025 04:06:35 GMT | The 5 Emerging Technologies That Will Reshape the World by 2030 | Innovate Byte | [Read More](https://medium.com/p/ad51d5a02c8b) |
+| Sat, 26 Apr 2025 03:59:22 GMT | The Day Peace Was Broken: A Sad Story from Kashmir | Modi Ranjith | [Read More](https://medium.com/p/c2d54cb58974) |
+| Sat, 26 Apr 2025 03:50:53 GMT | VPNs And Their Role In Digital Privacy Protection | James Neal | [Read More](https://medium.com/p/cee433b2dd10) |
+| Sat, 26 Apr 2025 03:48:22 GMT | TOP 100 : MENGENAL PERINTAH DASAR LINUX UNTUK PENTESTER PEMULA DI DUNIA CYBER SECURITY | Fadhlur rohman | [Read More](https://medium.com/p/647d788ad20a) |
+| Sat, 26 Apr 2025 03:45:44 GMT | Unlock New Levels Of Privacy With Advanced VPN | Melvin Erickson | [Read More](https://medium.com/p/5a5badc11c1a) |
 | Sat, 26 Apr 2025 03:26:34 GMT | Passing CompTIA Security+ with a Smarter Study Plan (using ChatGPT!) | Jared Medeiros | [Read More](https://medium.com/p/ffb4533ff552) |
 | Sat, 26 Apr 2025 03:24:31 GMT | Detect Linux Server Intrusions | Tshenolo Mos | [Read More](https://medium.com/p/9846e814a344) |
 | Sat, 26 Apr 2025 03:17:19 GMT | Building My Own Cybersecurity Labs: A Hands-On Reflected XSS Lab for Learners
@@ -108,10 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 17:04:42 GMT | The Timeless Tricks of Social Engineering | Sapphire Infosec | [Read More](https://medium.com/p/f6c0331f52a1) |
 | Fri, 25 Apr 2025 17:00:58 GMT | How to Scan Excel .XLS Files for Malware and Viruses in .NET Applications | Cloudmersive | [Read More](https://medium.com/p/3a5885c15eff) |
 | Fri, 25 Apr 2025 16:55:18 GMT | The Weekly Threat Round-up 21/04/2025 -25/04/2025 | RileyHv | [Read More](https://medium.com/p/9970f63e630b) |
-| Fri, 25 Apr 2025 16:50:53 GMT | Developer-Friendly Zero Trust using SPIFFE/SPIRE — part 4. Container Lifecycle Hooks | hai huang | [Read More](https://medium.com/p/0375881bd88a) |
-| Fri, 25 Apr 2025 16:47:16 GMT | Desenvolvimento Seguro: Explorando as principais vulnerabilidades da OWASP | Ângelo Hank | [Read More](https://medium.com/p/66ff6e88713c) |
-| Fri, 25 Apr 2025 16:46:47 GMT | Password Strength Checker Using Python | Vishal Kumar | [Read More](https://medium.com/p/7480eabc79f2) |
-| Fri, 25 Apr 2025 16:46:27 GMT | The Hidden Vulnerabilities of Web3’s Abandoned Frontiers | Octav | [Read More](https://medium.com/p/89c9c9494b95) |
-| Fri, 25 Apr 2025 16:45:25 GMT | Linux by Karthick DKK | Karthick Dkk | [Read More](https://medium.com/p/8ab722720308) |
-| Fri, 25 Apr 2025 16:45:15 GMT | Info- CIA Triad..? | InREXnA | [Read More](https://medium.com/p/2c79188cae10) |
-| Fri, 25 Apr 2025 16:42:15 GMT | $5,000 Bounty: How iScan.today Helped Me Find a Verified GitHub Token with Org-Wide Write Access | Arshad Kazmi | [Read More](https://medium.com/p/615e999a0219) |
