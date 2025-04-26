@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 05:02:28 GMT | Patching Up Your Defense: Why Regular Updates Are a Security Superpower | Saber You | [Read More](https://medium.com/p/de17e10e8c80) |
+| Sat, 26 Apr 2025 04:57:32 GMT | Millions of Records Exposed via SQL Injection in a Tamil Nadu Government Portal | Hack-Bat | [Read More](https://medium.com/p/0981d3827ed2) |
+| Sat, 26 Apr 2025 04:56:21 GMT | For CISOs, true influence comes from execution, not just investment | JC Gaillard | [Read More](https://medium.com/p/b757d5da1fb2) |
+| Sat, 26 Apr 2025 04:54:25 GMT | You Get the Bugs But AI the Credit: Navigating the Double-Edged Sword of AI-Generated Code | Global News Fact | [Read More](https://medium.com/p/70fb7daaed94) |
+| Sat, 26 Apr 2025 04:46:59 GMT | Holy Hackers? Why Religious Websites Might Be Riskier Than Adult Sites | Sri | [Read More](https://medium.com/p/1739608b5d7f) |
+| Sat, 26 Apr 2025 04:45:28 GMT | Microsoft Is Paying Up to $30,000 for AI Security Flaws | Cyber-AppSec | [Read More](https://medium.com/p/d4f1fec247d6) |
 | Sat, 26 Apr 2025 04:33:42 GMT | Day 115: RackStatic, Rogue NHIs, and the Growing Breach Terrain | Troy | [Read More](https://medium.com/p/9c807a741b0f) |
 | Sat, 26 Apr 2025 04:27:51 GMT | #100 Linux Commands to Enhance Your Penetration Testing Skills | Erlangga F | [Read More](https://medium.com/p/5090f7e322ef) |
 | Sat, 26 Apr 2025 04:27:01 GMT | OSINT: Safely calculating the JARM of C2, without interacting with ‘potentially bad’ infrastructure | Cwrw | [Read More](https://medium.com/p/ad5176f182d0) |
@@ -109,9 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 17:45:48 GMT | 1 Thing Your Company Doesn’t Tell You About Your Phone Can Cost You | Tom Handy | [Read More](https://medium.com/p/42ea38ec7ce2) |
 | Fri, 25 Apr 2025 17:31:54 GMT | “Navigating the Irony of Online Life and Screen Time Awareness” | Angela Renée | [Read More](https://medium.com/p/bd6d51ba8c21) |
 | Fri, 25 Apr 2025 17:29:56 GMT | Privilege Escalation using Docker Container | Bishal Chapagain | [Read More](https://medium.com/p/e9110713936b) |
-| Fri, 25 Apr 2025 17:22:32 GMT | Google Cloud Shell for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/6afb0f01c29a) |
-| Fri, 25 Apr 2025 17:19:20 GMT | SAP NetWeaver at Risk Due to Vulnerability Enabling Remote Execution. | current.cybersecurity | [Read More](https://medium.com/p/9e22f80cd12a) |
-| Fri, 25 Apr 2025 17:17:28 GMT | TryHackMe - Valley - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/59ebf026e51a) |
-| Fri, 25 Apr 2025 17:14:25 GMT | A Look Back: JSF : JavaServer Faces | Bill Corrie | [Read More](https://medium.com/p/9acb023291d4) |
-| Fri, 25 Apr 2025 17:14:12 GMT | The Real Meaning of Authenticity: How Vulnerability Powers Your True Self | Janelle Jones | [Read More](https://medium.com/p/860d80445059) |
-| Fri, 25 Apr 2025 17:05:21 GMT | Privacy and security behind Hey ChatGPT create a picture of me. | Abith Ahamed | [Read More](https://medium.com/p/1a81816aa07c) |
