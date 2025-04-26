@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 19:32:11 GMT | Steam Profile QR‘s | Max Spivey | [Read More](https://medium.com/p/fd1f3090d663) |
+| Sat, 26 Apr 2025 19:24:26 GMT | AWS Secrets Manager : A walkthrough on how it works to protect your secrets in AWS | Collin Smith | [Read More](https://medium.com/p/eac5b37bf954) |
+| Sat, 26 Apr 2025 19:07:09 GMT | Beware of Instant Loan App Scams: How to Stay Safe From Loan App Scams | CyberSafe Academy | [Read More](https://medium.com/p/f653196ac6ac) |
+| Sat, 26 Apr 2025 19:06:13 GMT | Difference Between Authorization and Authentication | ANDI NUGROHO | [Read More](https://medium.com/p/e535563344e5) |
 | Sat, 26 Apr 2025 19:02:05 GMT | an Almost Perfect Attack Chain | Daouda Diallo | [Read More](https://medium.com/p/4205822fee34) |
 | Sat, 26 Apr 2025 19:01:25 GMT | Beware of Instant Loan App Scams: Don’t Fall for Quick Money Traps | CyberSafe Academy | [Read More](https://medium.com/p/883b6a6142a3) |
 | Sat, 26 Apr 2025 18:59:53 GMT | Top 5 Cybersecurity Incidents You Shouldn’t Ignore This Week (April 21–27, 2025) | Rohan UK | [Read More](https://medium.com/p/31bc7dd3975c) |
@@ -111,7 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 12:32:13 GMT | Who Owns Your Data… Owns Your Future | Fahad Abalkhail | [Read More](https://medium.com/p/4bf74e30f119) |
 | Sat, 26 Apr 2025 12:25:03 GMT | SQLiLite - Writeup | Marvin | [Read More](https://medium.com/p/0b1e412593d0) |
 | Sat, 26 Apr 2025 12:24:03 GMT | File Management In Linux | Gourav(spidergk) | [Read More](https://medium.com/p/b01421ee1020) |
-| Sat, 26 Apr 2025 12:16:31 GMT | c4ptur3-th3-fl4g — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/d0f8b1a2b543) |
-| Sat, 26 Apr 2025 12:11:28 GMT | More SQLi - Writeup | Marvin | [Read More](https://medium.com/p/474127ac1f9b) |
-| Sat, 26 Apr 2025 12:09:25 GMT | Top 10 Techniques to Secure Your LLM Prompt in 2025 | Hicham Amchaar | [Read More](https://medium.com/p/c9cc2db2f0a2) |
-| Sat, 26 Apr 2025 12:08:10 GMT | Crypto Investor loses $700,000 in Address Poisoning Scam: A Cautionary Tale | CyberLucifer | [Read More](https://medium.com/p/f4aeaba27390) |
