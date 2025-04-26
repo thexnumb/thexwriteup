@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 08:36:26 GMT | Bypassing Attack Surface Reduction (ASR) Rules with VBA Macros | Moataz Osama | [Read More](https://medium.com/p/ff64c2b57117) |
+| Sat, 26 Apr 2025 08:33:52 GMT | Session Private Messenger: A look at Features, Privacy, Security, and Usage | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/db4504ebe605) |
+| Sat, 26 Apr 2025 08:30:03 GMT | TryHackMe - Abusing Windows Internals - WriteUp | Axoloth | [Read More](https://medium.com/p/7a4748d76ea0) |
 | Sat, 26 Apr 2025 08:02:28 GMT | I used to Pretend I was fine…… | Chinemerem Egbuna | [Read More](https://medium.com/p/127bb04a02b4) |
 | Sat, 26 Apr 2025 07:54:21 GMT | Assessment Methodologies: Footprinting and Scanning CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/ec58dfdc73ce) |
 | Sat, 26 Apr 2025 07:53:03 GMT | Full Guide : Recon to RCE via SMB (137, 138, 139, 445) | Shah kaif | [Read More](https://medium.com/p/bd770aea5341) |
@@ -112,6 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 20:16:20 GMT | Unveiled : The Museum of Love | Thee supreme Nengi | [Read More](https://medium.com/p/1cf27436a3aa) |
 | Fri, 25 Apr 2025 20:01:05 GMT | Introducing MAT Firewall: A Powerful Security Solution for WordPress | Matin Rezakhani | [Read More](https://medium.com/p/feb955149d9e) |
 | Fri, 25 Apr 2025 19:56:06 GMT | Don’t Wait to Graduate to Start Your Business | Savvy Cyber Kids | [Read More](https://medium.com/p/0587c26cd233) |
-| Fri, 25 Apr 2025 19:53:26 GMT | Vulnerabilities Assessment - Hire Hacker - Get Help | BlackHat | [Read More](https://medium.com/p/28f8044678bb) |
-| Fri, 25 Apr 2025 19:51:21 GMT | I’m on TikTok, but Your Elementary School Aged Child Probably Shouldn’t Be | Savvy Cyber Kids | [Read More](https://medium.com/p/af3503226cbe) |
-| Fri, 25 Apr 2025 19:49:32 GMT | Traffic Surge or Cyber Mirage? Let’s Sniff Out the Bots; CAPTCHA, Handle This One — Lock the Gate? | Viv's, Exploring 360° ;) | [Read More](https://medium.com/p/710acf2d7339) |
