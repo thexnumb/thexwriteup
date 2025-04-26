@@ -14,7 +14,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 07:11:04 GMT | OAuth Desync Chain: From Smuggling to Session Hijack Without Credentials | m6r001 | [Read More](https://medium.com/p/3959cedaf579) |
+| Sat, 26 Apr 2025 07:10:43 GMT | The One Skill That Separates Real Hackers from Script Kiddies — And It’s Not Coding | KrVikash | [Read More](https://medium.com/p/b66bf20df2ad) |
+| Sat, 26 Apr 2025 07:07:12 GMT | Boost Your Bounty $BNTY Earnings in Just a Few Steps | Bounty | [Read More](https://medium.com/p/da66378f823d) |
+| Sat, 26 Apr 2025 07:03:42 GMT | ⏱️ There were no visible errors, no hints… only the server’s hesitation told me the truth. | phoenixcatalan | [Read More](https://medium.com/p/7b4987f10444) |
+| Sat, 26 Apr 2025 07:03:15 GMT | Path Traversal Attack: How I Accessed Admin Secrets | Vipul Sonule | [Read More](https://medium.com/p/fa5de1865031) |
+| Sat, 26 Apr 2025 06:58:18 GMT | Unlock Healthcare Efficiency with Facial Recognition Devices from Tektronix Technologies in Dubai… | Aafiya | [Read More](https://medium.com/p/f96b2270b6b1) |
+| Sat, 26 Apr 2025 06:57:40 GMT | Command and Control: Why the CIO Must Lead Cyber War Games and Tabletop Exercises. | Sanjay K Mohindroo | [Read More](https://medium.com/p/f1f0b4c686d4) |
+| Sat, 26 Apr 2025 06:54:02 GMT | How to Earn Consistent Passive Rewards with Bug $BUG | Bug | [Read More](https://medium.com/p/125736ce2458) |
+| Sat, 26 Apr 2025 06:47:32 GMT | Important Acronyms for General Security Concepts for CompTIA Security+ (SY0–701) | unica 02 | [Read More](https://medium.com/p/4cc3239cd700) |
 | Sat, 26 Apr 2025 06:40:33 GMT | How to Become a Bug Bounty Hunter & Earn Money Ethically | Sanchitamishra | [Read More](https://medium.com/p/81f02e308081) |
+| Sat, 26 Apr 2025 06:37:59 GMT | SessionShark Toolkit: Evolving Phishing Threats Against MFA Solutions | Nexsecura | [Read More](https://medium.com/p/1dd89ab5a0e9) |
+| Sat, 26 Apr 2025 06:36:33 GMT | Blue Shield Data Breach: Analysis of a Major Health Information Exposure | Nexsecura | [Read More](https://medium.com/p/3b9a8b0a619e) |
 | Sat, 26 Apr 2025 06:15:42 GMT | DeGuard VPN Now Live in WOW EARN Wallet: Your All-in-One Privacy & Security Hub | 0x3dot | [Read More](https://medium.com/p/32102578841f) |
 | Sat, 26 Apr 2025 06:10:52 GMT | Self-Editing Hacks to Sharpen Your Work | Sriram Yaladandi | [Read More](https://medium.com/p/404e593ae8c4) |
 | Sat, 26 Apr 2025 06:08:13 GMT | Cybersecurity and Online Reputation: Protecting Brisbane SMEs | Elevate | [Read More](https://medium.com/p/beb37c7afd67) |
@@ -104,14 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 19:25:11 GMT | Demystifying SBOM and SCA: The Foundation of Secure, Compliant Software Development | Albin Issac | [Read More](https://medium.com/p/1d31c1869a36) |
 | Fri, 25 Apr 2025 19:14:20 GMT | How to Train Your Team on XDR Solutions | Akshay Chauhan | [Read More](https://medium.com/p/c81c41b98b71) |
 | Fri, 25 Apr 2025 19:08:38 GMT | 6 Linux Misconfigurations I Regret Not Catching Sooner | Faruk Ahmed | [Read More](https://medium.com/p/a6769849762d) |
-| Fri, 25 Apr 2025 19:07:13 GMT | Let’sDefend SOC Write-Up: LS Command Detected in Requested URL | Gözde | [Read More](https://medium.com/p/0ec3de2fa690) |
-| Fri, 25 Apr 2025 19:06:37 GMT | LetsDefend — Excel 4.0 Macros (Medium) | Mateo Pappa | [Read More](https://medium.com/p/f16ea6e0c74b) |
-| Fri, 25 Apr 2025 19:03:16 GMT | Securing .NET Applications: Preventing Threats Through Package Audits | Ajay kumar | [Read More](https://medium.com/p/dafea5248f85) |
-| Fri, 25 Apr 2025 19:01:29 GMT | Level Up Your Security Skills: The First 10 Linux Commands You Should Learn. | Cyber Kavy | [Read More](https://medium.com/p/7c82847734d3) |
-| Fri, 25 Apr 2025 18:51:29 GMT | Your Personal Data Is for Sale. Here’s How mePrism Protects You | mePrism Privacy | [Read More](https://medium.com/p/fa532b401ad7) |
-| Fri, 25 Apr 2025 18:42:43 GMT | Understanding the Intelligence Lifecycle: Building a Solid Foundation for Intelligence Work | Joe The OSINT Guy | [Read More](https://medium.com/p/1744a2138c71) |
-| Fri, 25 Apr 2025 18:39:48 GMT | Sarab — Cyber Deception in Action: | Cytomate | [Read More](https://medium.com/p/e35849bda050) |
-| Fri, 25 Apr 2025 18:33:55 GMT | Staying Safe in the Digital Age: Protecting Yourself From Cyber Scams | ɌƋƑ•TECH | [Read More](https://medium.com/p/60b9bf6d47a9) |
-| Fri, 25 Apr 2025 18:28:27 GMT | Adopting a Web Application Firewall for Instawork: A Journey from Amazon WAF to Cloudflare | Duncan Edwards | [Read More](https://medium.com/p/c3edffd58a6e) |
-| Fri, 25 Apr 2025 18:21:44 GMT | HTB Resolute Walkthrough | Mauricio Pallares | [Read More](https://medium.com/p/d66d15001daf) |
-| Fri, 25 Apr 2025 18:19:41 GMT | The Dawn of an revolutionary Era begin in Web3 with SelfChain. | CryptPshyc | [Read More](https://medium.com/p/f8c1fdd116bc) |
