@@ -14,6 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 10:36:09 GMT | How AI-Powered Cyberattacks Are Changing the Game in 2025 | PhDPRIMA Research | [Read More](https://medium.com/p/6430b932f8e7) |
+| Sat, 26 Apr 2025 10:35:44 GMT | Mastering Nmap: A Beginner’s Friendly Guide + Cheat Sheet You’ll Keep Coming Back To | Richard Nwonah | [Read More](https://medium.com/p/b830ca1a30cd) |
+| Sat, 26 Apr 2025 10:34:48 GMT | Rack::Static Vulnerability Exposes Ruby Servers to Data Breaches! | Ismail Tasdelen | [Read More](https://medium.com/p/018fdff51df0) |
+| Sat, 26 Apr 2025 10:32:00 GMT | DslogdRAT Malware: A Sneaky Cyberattack Exploiting Ivanti ICS Zero-Day | Ismail Tasdelen | [Read More](https://medium.com/p/e3bdf68a253e) |
+| Sat, 26 Apr 2025 10:30:32 GMT | Why Your Smart Devices Are a Hacker’s Dream! | Muiz A | [Read More](https://medium.com/p/63795d820228) |
+| Sat, 26 Apr 2025 10:26:13 GMT | HTB Timelapse Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/549392c23a25) |
+| Sat, 26 Apr 2025 10:21:43 GMT | Why You Should Embrace Laravel Jetstream for Modern Authentication ⚡ | mohamad shahkhajeh | [Read More](https://medium.com/p/ab643e8f9194) |
+| Sat, 26 Apr 2025 10:20:33 GMT | Setting Up Your Own VPS: A Technical Guide and Its Advantages | Nicolas | [Read More](https://medium.com/p/c9baeed92399) |
 | Sat, 26 Apr 2025 10:07:19 GMT | Patch Tuesday on Autopilot (2025 Edition) | Anderson Godoy | [Read More](https://medium.com/p/69c9294bd453) |
 | Sat, 26 Apr 2025 10:06:58 GMT | Understanding the 4-Way Handshake — The Core of Wi-Fi Security | Amitishacked | [Read More](https://medium.com/p/99099f4c18f6) |
 | Sat, 26 Apr 2025 10:06:42 GMT | Breaking the Hierarchy: How I Bypassed Role Restrictions to Become Owner | Fuzzyy Duck | [Read More](https://medium.com/p/2635e1e33d85) |
@@ -107,11 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 00:33:47 GMT | Publish on Hugging Face Without Exposing Your Source Code — For Free! | Ronivaldo Passos Sampaio | [Read More](https://medium.com/p/1c57b2179137) |
 | Sat, 26 Apr 2025 00:24:46 GMT | White Paper: Securing Cognitive Freedom | Restoration Security | [Read More](https://medium.com/p/348edc1339c8) |
 | Sat, 26 Apr 2025 00:15:39 GMT | Qradar Usage Part I | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/6d93885a7345) |
-| Sat, 26 Apr 2025 00:02:28 GMT | Hack The Box — Challenge — OnlyHacks Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/b33ba8154703) |
-| Fri, 25 Apr 2025 23:53:24 GMT | Checkmate in PNG: How I Caught My Council Off Guard | Desmond Atkins | [Read More](https://medium.com/p/a5717a6c1f40) |
-| Fri, 25 Apr 2025 23:48:23 GMT | AWS Security on Autopilot: 7 Proven Automation Techniques Every DevOps Engineer Should Master | AbdulRahman Mostafa | [Read More](https://medium.com/p/0a4d1e3352a1) |
-| Fri, 25 Apr 2025 23:13:37 GMT | Waking up to a New Reality: The End of the Line | Philip Siddons | [Read More](https://medium.com/p/f9b325602b57) |
-| Fri, 25 Apr 2025 23:10:33 GMT | Vulnerabilities in AI Training Processes: A Practical Perspective on Prevention 2025 | Li Zixiang | [Read More](https://medium.com/p/d09bf22b450f) |
-| Fri, 25 Apr 2025 22:54:49 GMT | External Asset Management (EAM) in Cybersecurity: A Practical Guide for Cloud Environments | AD Oyedepo | [Read More](https://medium.com/p/8a854bbe4690) |
-| Fri, 25 Apr 2025 22:37:42 GMT | OOP in Programming | Migo ee | [Read More](https://medium.com/p/bc0ca618db63) |
-| Fri, 25 Apr 2025 22:31:09 GMT | Next.js Middleware Vulnerability: How CVE-2025–29927 Enables Authorization Bypass | Nitin Gavhane | [Read More](https://medium.com/p/1e0293d10e24) |
