@@ -14,6 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 20:12:32 GMT | VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor | Brendan Smith | [Read More](https://medium.com/p/40c41fed0fbe) |
+| Sat, 26 Apr 2025 19:53:40 GMT | TryHackMe ‘Hacker vs. Hacker’ Walkthrough: Web Shell Exploitation & Privilege Escalation | Haitam Lazaar | [Read More](https://medium.com/p/9390dd0f14a0) |
+| Sat, 26 Apr 2025 19:52:57 GMT | Gaming and cybersecurity for the society | Caroline Neufert | [Read More](https://medium.com/p/ad07bd5f8edb) |
+| Sat, 26 Apr 2025 19:50:24 GMT | AI Agentic Systems Audit & Explainability Economics | Valdez Ladd | [Read More](https://medium.com/p/91e01409701b) |
+| Sat, 26 Apr 2025 19:48:16 GMT | Let’sDefend SOC Write-Up: Possible SQL Injection Payload Detected | Gözde | [Read More](https://medium.com/p/4a14bc570ba1) |
+| Sat, 26 Apr 2025 19:47:53 GMT | LetsDefend — Memory Analysis Challenge | Raphael Nicolich | [Read More](https://medium.com/p/64104e6298cb) |
+| Sat, 26 Apr 2025 19:43:45 GMT | 3 Myths About Fixing Bad ITAD | Kyle Marks | [Read More](https://medium.com/p/75b4481d21a0) |
 | Sat, 26 Apr 2025 19:32:11 GMT | Steam Profile QR‘s | Max Spivey | [Read More](https://medium.com/p/fd1f3090d663) |
 | Sat, 26 Apr 2025 19:24:26 GMT | AWS Secrets Manager : A walkthrough on how it works to protect your secrets in AWS | Collin Smith | [Read More](https://medium.com/p/eac5b37bf954) |
 | Sat, 26 Apr 2025 19:07:09 GMT | Beware of Instant Loan App Scams: How to Stay Safe From Loan App Scams | CyberSafe Academy | [Read More](https://medium.com/p/f653196ac6ac) |
@@ -108,10 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 12:56:01 GMT | LE RADA-COLLIER MYSTIQUE. GRAND SAGE AZIHOU
 Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https://medium.com/p/5bbcb4ee3c70) |
 | Sat, 26 Apr 2025 12:52:57 GMT | Day 1: Starting My Cybersecurity Journey | Uijin Lee | [Read More](https://medium.com/p/5f247acf840c) |
-| Sat, 26 Apr 2025 12:51:03 GMT | Vulneralibility 101 : Mengenal Celah Keamanan dalam Dunia Hacking | Princex. | [Read More](https://medium.com/p/f3387e1c0989) |
-| Sat, 26 Apr 2025 12:41:21 GMT | Breaking File Upload Security: Finding Hidden XSS | Isv | [Read More](https://medium.com/p/cfc6e38bcee3) |
-| Sat, 26 Apr 2025 12:37:13 GMT | ️ Mastering Sysmon: The Essential Tool for Deep Windows Monitoring | Furkanctiner | [Read More](https://medium.com/p/ee9dd801e750) |
-| Sat, 26 Apr 2025 12:32:28 GMT | Top 10 Beginner Setup Problems in HTB and Bug Bounty (and How to Fix Them Fast) | Very Lazy Tech | [Read More](https://medium.com/p/1f9a278415ea) |
-| Sat, 26 Apr 2025 12:32:13 GMT | Who Owns Your Data… Owns Your Future | Fahad Abalkhail | [Read More](https://medium.com/p/4bf74e30f119) |
-| Sat, 26 Apr 2025 12:25:03 GMT | SQLiLite - Writeup | Marvin | [Read More](https://medium.com/p/0b1e412593d0) |
-| Sat, 26 Apr 2025 12:24:03 GMT | File Management In Linux | Gourav(spidergk) | [Read More](https://medium.com/p/b01421ee1020) |
