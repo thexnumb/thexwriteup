@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 03:26:34 GMT | Passing CompTIA Security+ with a Smarter Study Plan (using ChatGPT!) | Jared Medeiros | [Read More](https://medium.com/p/ffb4533ff552) |
+| Sat, 26 Apr 2025 03:24:31 GMT | Detect Linux Server Intrusions | Tshenolo Mos | [Read More](https://medium.com/p/9846e814a344) |
+| Sat, 26 Apr 2025 03:17:19 GMT | Building My Own Cybersecurity Labs: A Hands-On Reflected XSS Lab for Learners
+ By Researcher Yuvi | Yuvraj Gupta | [Read More](https://medium.com/p/4a0eac9fe06d) |
+| Sat, 26 Apr 2025 03:11:36 GMT | Maximize ChainBounty for Passive Income Success | ChainBounty | [Read More](https://medium.com/p/361b7cb06266) |
 | Sat, 26 Apr 2025 02:26:15 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 2) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/775614bd6388) |
 | Sat, 26 Apr 2025 02:21:16 GMT | mTLS and OAuth2 — Certificate-Bound Tokens | Sagara Gunathunga | [Read More](https://medium.com/p/8204b7bc5833) |
 | Sat, 26 Apr 2025 02:02:54 GMT | Importance of Auth Delegation in the Agent Era | Yu Ishikawa | [Read More](https://medium.com/p/ef1c6fea3ab7) |
@@ -110,7 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 16:45:25 GMT | Linux by Karthick DKK | Karthick Dkk | [Read More](https://medium.com/p/8ab722720308) |
 | Fri, 25 Apr 2025 16:45:15 GMT | Info- CIA Triad..? | InREXnA | [Read More](https://medium.com/p/2c79188cae10) |
 | Fri, 25 Apr 2025 16:42:15 GMT | $5,000 Bounty: How iScan.today Helped Me Find a Verified GitHub Token with Org-Wide Write Access | Arshad Kazmi | [Read More](https://medium.com/p/615e999a0219) |
-| Fri, 25 Apr 2025 16:29:13 GMT | A Beginner’s View on Cybersecurity and Online Safety | N Abisha | [Read More](https://medium.com/p/db1e144f1468) |
-| Fri, 25 Apr 2025 16:23:38 GMT | Diffie-Hellman Key Exchange explained step by step | Chibuike Kosisochukwu | [Read More](https://medium.com/p/4a4b98567332) |
-| Fri, 25 Apr 2025 16:21:27 GMT | From Zero to SOAR: A Home Lab Adventure With Splunk | Tijan Hydara | [Read More](https://medium.com/p/a454a347e35f) |
-| Fri, 25 Apr 2025 16:19:12 GMT | Cybersecurity Awareness Training: The First Line of Defense Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/0d2c16b5ebf6) |
