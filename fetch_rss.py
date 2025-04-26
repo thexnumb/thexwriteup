@@ -84,7 +84,7 @@ SKIP_AUTHORS = [
     
 ]
 
-ef load_existing_guids():
+def load_existing_guids():
     """Load GUIDs from existing CSV to avoid duplicates."""
     if not os.path.exists(CSV_FILE):
         return set()
