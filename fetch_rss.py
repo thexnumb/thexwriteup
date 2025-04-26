@@ -5,6 +5,7 @@ import requests
 from datetime import datetime
 import html2text
 import re
+from langdetect import detect, LangDetectException
 
 CSV_FILE = "articles.csv"
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
@@ -83,14 +84,15 @@ SKIP_AUTHORS = [
     
 ]
 
-def load_existing_guids():
+ef load_existing_guids():
+    """Load GUIDs from existing CSV to avoid duplicates."""
     if not os.path.exists(CSV_FILE):
         return set()
-
     with open(CSV_FILE, newline="", encoding="utf-8") as csvfile:
         return {row["guid"] for row in csv.DictReader(csvfile)}
 
 def html_to_markdown(html):
+    """Convert HTML to clean markdown."""
     h = html2text.HTML2Text()
     h.ignore_links = False
     h.ignore_images = True
@@ -98,10 +100,19 @@ def html_to_markdown(html):
     return h.handle(html).strip()
 
 def truncate_description(description):
+    """Get the last 5 lines from the description."""
     lines = description.strip().splitlines()
     return "\n".join(lines[-5:])
 
+def detect_language(text):
+    """Detect the language of a given text."""
+    try:
+        return detect(text)
+    except LangDetectException:
+        return "unknown"
+
 def notify_discord(entry):
+    """Send a nicely formatted message to Discord."""
     if not DISCORD_WEBHOOK_URL:
         print("Discord webhook URL is not set.")
         return
@@ -134,6 +145,7 @@ by **{entry['author']}** at `{entry['date']}`
         print(f"Failed to send Discord message: {response.status_code}, {response.text}")
 
 def save_entry(entry):
+    """Save a new entry to the CSV file."""
     file_exists = os.path.exists(CSV_FILE)
     with open(CSV_FILE, mode="a", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=["title", "author", "description", "date", "guid"])
@@ -142,9 +154,11 @@ def save_entry(entry):
         writer.writerow(entry)
 
 def fetch_and_process_feeds():
+    """Fetch RSS feeds and process articles."""
     seen_guids = load_existing_guids()
 
     for url in RSS_FEEDS:
+        print(f"Fetching feed: {url}")
         feed = feedparser.parse(url)
         for entry in feed.entries:
             guid = entry.get("id") or entry.get("link")
@@ -152,16 +166,24 @@ def fetch_and_process_feeds():
                 continue
 
             author = entry.get("author", "Unknown")
-
-            # ➡️ NEW: Skip if author in SKIP_AUTHORS
             if author in SKIP_AUTHORS:
                 print(f"Skipping entry from {author}")
                 continue
 
+            title = entry.get("title", "No Title")
+            description = entry.get("summary", "No Description")
+
+            # Language detection
+            language_text = f"{title} {description}"
+            lang = detect_language(language_text)
+            if lang != "en":
+                print(f"Skipping non-English article: {title} [{lang}]")
+                continue
+
             new_entry = {
-                "title": entry.get("title", "No Title"),
+                "title": title,
                 "author": author,
-                "description": entry.get("summary", "No Description"),
+                "description": description,
                 "date": entry.get("published", datetime.utcnow().isoformat()),
                 "guid": guid
             }
