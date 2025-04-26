@@ -14,6 +14,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 01:35:40 GMT | Nytheon AI | Tal Eliyahu | [Read More](https://medium.com/p/1cb2cbc069ec) |
+| Sat, 26 Apr 2025 01:21:32 GMT | The Cybersecurity Compass: From Personal Vision to Global Validation | Juan Pablo Castro | [Read More](https://medium.com/p/5585c82ee6da) |
+| Sat, 26 Apr 2025 01:20:00 GMT | First Signatories Kit | Restoration Security | [Read More](https://medium.com/p/6b2598d92c2d) |
+| Sat, 26 Apr 2025 01:18:35 GMT | Which Smart Lock Should You Trust with Your Front Door? Here’s the Breakdown | Scals | [Read More](https://medium.com/p/4fdb7fc63ad6) |
+| Sat, 26 Apr 2025 01:09:04 GMT | Global Cognitive Security Declaration | Restoration Security | [Read More](https://medium.com/p/c888c91873cd) |
+| Sat, 26 Apr 2025 01:06:48 GMT | From Gap to Greatness: How to Make a Comeback in Cybersecurity — A CISO’s Recommendation | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/d7dc912414dc) |
+| Sat, 26 Apr 2025 01:02:28 GMT | Letter to the Leaders of the Free World: The Call for Cognitive Security | Restoration Security | [Read More](https://medium.com/p/69f870589d81) |
+| Sat, 26 Apr 2025 00:57:31 GMT | Global Petition: Protect the Right to Cognitive Security | Restoration Security | [Read More](https://medium.com/p/a0156be4bf81) |
+| Sat, 26 Apr 2025 00:56:01 GMT | Phish Hunter Pro | Ekoms Savior | [Read More](https://medium.com/p/b3cc30041f91) |
+| Sat, 26 Apr 2025 00:53:38 GMT | First Wave Public Endorsement for Cognitive Security | Restoration Security | [Read More](https://medium.com/p/a8f83c1fadd5) |
+| Sat, 26 Apr 2025 00:47:12 GMT | ANNOUNCEMENT: The Global Movement for Cognitive Security Begins Now | Restoration Security | [Read More](https://medium.com/p/02639757e94f) |
+| Sat, 26 Apr 2025 00:36:58 GMT | Automated Tool For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/4a13ed9f2971) |
+| Sat, 26 Apr 2025 00:36:05 GMT | Verizon DBIR 2025: The Triple Threats — Part 1: 3rd Parties, Ransomware, and Exploits | Mehdi | [Read More](https://medium.com/p/832d3251ffee) |
+| Sat, 26 Apr 2025 00:33:47 GMT | Publish on Hugging Face Without Exposing Your Source Code — For Free! | Ronivaldo Passos Sampaio | [Read More](https://medium.com/p/1c57b2179137) |
+| Sat, 26 Apr 2025 00:24:46 GMT | White Paper: Securing Cognitive Freedom | Restoration Security | [Read More](https://medium.com/p/348edc1339c8) |
+| Sat, 26 Apr 2025 00:15:39 GMT | Qradar Usage Part I | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/6d93885a7345) |
+| Sat, 26 Apr 2025 00:02:31 GMT | 09037521639 | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/213580a676d1) |
+| Sat, 26 Apr 2025 00:02:28 GMT | Hack The Box — Challenge — OnlyHacks Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/b33ba8154703) |
+| Sat, 26 Apr 2025 00:02:00 GMT | 09037521639 | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/d1e2f18972b4) |
+| Sat, 26 Apr 2025 00:01:31 GMT | 09037521639 | شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس | [Read More](https://medium.com/p/6d6df6bf2cf5) |
+| Fri, 25 Apr 2025 23:53:24 GMT | Checkmate in PNG: How I Caught My Council Off Guard | Desmond Atkins | [Read More](https://medium.com/p/a5717a6c1f40) |
+| Fri, 25 Apr 2025 23:48:23 GMT | AWS Security on Autopilot: 7 Proven Automation Techniques Every DevOps Engineer Should Master | AbdulRahman Mostafa | [Read More](https://medium.com/p/0a4d1e3352a1) |
 | Fri, 25 Apr 2025 23:13:37 GMT | Waking up to a New Reality: The End of the Line | Philip Siddons | [Read More](https://medium.com/p/f9b325602b57) |
 | Fri, 25 Apr 2025 23:10:33 GMT | Vulnerabilities in AI Training Processes: A Practical Perspective on Prevention 2025 | Li Zixiang | [Read More](https://medium.com/p/d09bf22b450f) |
 | Fri, 25 Apr 2025 22:54:49 GMT | External Asset Management (EAM) in Cybersecurity: A Practical Guide for Cloud Environments | AD Oyedepo | [Read More](https://medium.com/p/8a854bbe4690) |
@@ -92,25 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 16:18:12 GMT | Automating Security Scanning in DevOps | Samareshmaiti | [Read More](https://medium.com/p/54d0ecfaf4bf) |
 | Fri, 25 Apr 2025 16:15:07 GMT | AI-Powered Cybersecurity | MrsNo1Special | [Read More](https://medium.com/p/3b9a08dbbd1c) |
 | Fri, 25 Apr 2025 16:11:41 GMT | Unveiling the Intricacies of AsyncRAT | Cytomate | [Read More](https://medium.com/p/f59c34a09860) |
-| Fri, 25 Apr 2025 16:10:36 GMT | The SOC Analyst’s Sixth Sense: How Intuition Shapes Incident Response | Maged Anas | [Read More](https://medium.com/p/24e42b63bc46) |
-| Fri, 25 Apr 2025 16:09:52 GMT | Why Your Business Needs Vulnerability Assessment Services | SafeAeon Inc. | [Read More](https://medium.com/p/1410cdb3a962) |
-| Fri, 25 Apr 2025 16:07:37 GMT | I’m Taking the Security+ Exam on Monday and I’m Not Ready — But I’m Doing It Anyway | Jordan Dupré | [Read More](https://medium.com/p/1496f006022c) |
-| Fri, 25 Apr 2025 16:05:08 GMT | Calling All Security Sleuths! STON.fi Unveils $500,000 Bug Bounty to Fortify v2 Smart Contracts | TheDreamIrene | [Read More](https://medium.com/p/6e6e139e51ce) |
-| Fri, 25 Apr 2025 16:03:48 GMT | DPRK’s Front Company: “BlockNovas LLC” | Colton J. | [Read More](https://medium.com/p/10f13eec9828) |
-| Fri, 25 Apr 2025 16:02:38 GMT | Detecting unapproved behaviors in medical devices | Karambit.AI | [Read More](https://medium.com/p/4a707d6dafe1) |
-| Fri, 25 Apr 2025 15:58:45 GMT | What Is Compliance as a Service and Why Your Business Needs It | SafeAeon Inc. | [Read More](https://medium.com/p/1dacedaaca2b) |
-| Fri, 25 Apr 2025 15:58:31 GMT | Filmed, Mocked, Harassed at Work: The Ugly Reality Facing Canada’s Security Guards | Scott Hill | [Read More](https://medium.com/p/959e7a6e615e) |
-| Fri, 25 Apr 2025 15:50:53 GMT | The Security Features Of Popular VPN Services | James Neal | [Read More](https://medium.com/p/785cb0b14b03) |
-| Fri, 25 Apr 2025 15:46:09 GMT | Explore Superior VPN Features For Total Security | Melvin Erickson | [Read More](https://medium.com/p/c51e04ffec5d) |
-| Fri, 25 Apr 2025 15:45:24 GMT | From SOAP to Shell: Exploiting Legacy SOAP Services for Full Admin Account Takeover (And Nearly… | nav1n | [Read More](https://medium.com/p/5355009044c3) |
-| Fri, 25 Apr 2025 15:42:20 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/fd8aba510044) |
-| Fri, 25 Apr 2025 15:37:22 GMT | The ‘Cybersecurity Starter Pack’ Meme — But It’s Too Real | Vijay Kumar Gupta | [Read More](https://medium.com/p/b3de027eea4e) |
-| Fri, 25 Apr 2025 15:36:27 GMT | My Initial Hackathon Experience: Not Moving Forward with Team Sakha | Itsurkk | [Read More](https://medium.com/p/b2f35c723afe) |
-| Fri, 25 Apr 2025 15:29:49 GMT | Before Code Runs: Understanding the JavaScript Execution Environment | Zoningxtr | [Read More](https://medium.com/p/fe79047926af) |
-| Fri, 25 Apr 2025 15:25:35 GMT | How to Protect the SafeLine Management Interface | Loria | [Read More](https://medium.com/p/398061b19d4d) |
-| Fri, 25 Apr 2025 15:22:31 GMT | Mastering HTTPS Traffic Interception in Flutter Using Burp Suite | Hatem Mohamed Abdallah | [Read More](https://medium.com/p/13c02b968bf4) |
-| Fri, 25 Apr 2025 15:20:35 GMT | Think you can outsmart a WAF? Try this free | Loria | [Read More](https://medium.com/p/8691cad11dcc) |
-| Fri, 25 Apr 2025 15:20:32 GMT | 100 Essential Linux Commands for Ethical Hackers and Pentesters | Abdielkristopher | [Read More](https://medium.com/p/5dacbde4e09b) |
-| Fri, 25 Apr 2025 15:17:51 GMT | Pwanagotchi is a tool to collect passive | Rkrcker | [Read More](https://medium.com/p/e8f7f397c900) |
-| Fri, 25 Apr 2025 15:17:30 GMT | Ghosting AMSI: Cutting RPC to disarm AV | Andrea Bocchetti | [Read More](https://medium.com/p/04c26d67bb80) |
-| Fri, 25 Apr 2025 15:13:51 GMT | Spring Security: Authentication and Authorization In-Depth: Part 1 | Rahul Soni | [Read More](https://medium.com/p/e0486f59748f) |
