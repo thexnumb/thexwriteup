@@ -14,8 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 09:00:34 GMT | Leverage Sealed Classes in Java: Use Cases, Best Practices, and Common Pitfalls | Anh Trần Tuấn | [Read More](https://medium.com/p/18b7acba15e7) |
+| Sat, 26 Apr 2025 09:00:31 GMT | Leverage Sealed Classes in Java: Use Cases, Best Practices, and Common Pitfalls | Anh Trần Tuấn | [Read More](https://medium.com/p/501a565eaa54) |
+| Sat, 26 Apr 2025 09:00:16 GMT | Content Security Policy (CSP)-browser throws allow script-src ‘unsafe-inline’ | Sudha Subramaniam | [Read More](https://medium.com/p/3cecb69aa49a) |
+| Sat, 26 Apr 2025 08:49:38 GMT | The removal of a fundamental pillar of cybersecurity, such as behavioral analysis, stems either… | Semih Sarı | [Read More](https://medium.com/p/f834e2c09c56) |
+| Sat, 26 Apr 2025 08:47:20 GMT | جهت صیغه موقت وازدواج دائم تلگرام پیام بدهید(09915528413) یابا شماره زیر تماس بگیرید… | حاجی طباطبای | [Read More](https://medium.com/p/eafbf34a2a60) |
 | Sat, 26 Apr 2025 08:36:26 GMT | Bypassing Attack Surface Reduction (ASR) Rules with VBA Macros | Moataz Osama | [Read More](https://medium.com/p/ff64c2b57117) |
 | Sat, 26 Apr 2025 08:33:52 GMT | Session Private Messenger: A look at Features, Privacy, Security, and Usage | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/db4504ebe605) |
+| Sat, 26 Apr 2025 08:33:37 GMT | Assessment Methodologies: Enumeration CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/864a12e58239) |
 | Sat, 26 Apr 2025 08:30:03 GMT | TryHackMe - Abusing Windows Internals - WriteUp | Axoloth | [Read More](https://medium.com/p/7a4748d76ea0) |
 | Sat, 26 Apr 2025 08:02:28 GMT | I used to Pretend I was fine…… | Chinemerem Egbuna | [Read More](https://medium.com/p/127bb04a02b4) |
 | Sat, 26 Apr 2025 07:54:21 GMT | Assessment Methodologies: Footprinting and Scanning CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/ec58dfdc73ce) |
@@ -109,9 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 20:33:32 GMT | Cybersecurity Best Practices for the AI Era: Enterprise Edition | Nicholas Dere Lucas | [Read More](https://medium.com/p/86641d37c32f) |
 | Fri, 25 Apr 2025 20:29:08 GMT | Silent Intruders: Navigating the Hidden Cybersecurity Threats of Remote Work’s Unseen World | Muhammed Tauseef khan | [Read More](https://medium.com/p/ab4153128f71) |
 | Fri, 25 Apr 2025 20:27:48 GMT | We share a pool of $500k in the Bug Bounty event | Kiyot0Sage | [Read More](https://medium.com/p/3adf9e9cce0b) |
-| Fri, 25 Apr 2025 20:25:54 GMT | WannaCry Ransomware Malware Analysis | MRxO1 | [Read More](https://medium.com/p/44216bfc818d) |
-| Fri, 25 Apr 2025 20:22:20 GMT | Делим пул 500к$ в ивенте Bug Bounty | Kiyot0Sage | [Read More](https://medium.com/p/b48eabc3407c) |
-| Fri, 25 Apr 2025 20:18:38 GMT | TOP 10 HACKING PODCASTS | ADanielHill | [Read More](https://medium.com/p/f4275cb02dfc) |
-| Fri, 25 Apr 2025 20:16:20 GMT | Unveiled : The Museum of Love | Thee supreme Nengi | [Read More](https://medium.com/p/1cf27436a3aa) |
-| Fri, 25 Apr 2025 20:01:05 GMT | Introducing MAT Firewall: A Powerful Security Solution for WordPress | Matin Rezakhani | [Read More](https://medium.com/p/feb955149d9e) |
-| Fri, 25 Apr 2025 19:56:06 GMT | Don’t Wait to Graduate to Start Your Business | Savvy Cyber Kids | [Read More](https://medium.com/p/0587c26cd233) |
