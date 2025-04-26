@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 20:57:27 GMT | DHCP, the IP manager! | Sadra Bakhtiari | [Read More](https://medium.com/p/9ffba56e0eca) |
+| Sat, 26 Apr 2025 20:38:42 GMT | Subdomain Takeover on VDP | Vasu Bhan | [Read More](https://medium.com/p/32cac749bf16) |
+| Sat, 26 Apr 2025 20:34:36 GMT | Review of the “Introduction to Cyber Attacks” Course from YNU | Mohammed al Mughaleq | [Read More](https://medium.com/p/b00fe11d6234) |
 | Sat, 26 Apr 2025 20:24:59 GMT | Impact of Quantum Computing on Encryption | Matthew.Rosenquist | [Read More](https://medium.com/p/0006909dd389) |
 | Sat, 26 Apr 2025 20:12:32 GMT | VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor | Brendan Smith | [Read More](https://medium.com/p/40c41fed0fbe) |
 | Sat, 26 Apr 2025 19:53:40 GMT | TryHackMe ‘Hacker vs. Hacker’ Walkthrough: Web Shell Exploitation & Privilege Escalation | Haitam Lazaar | [Read More](https://medium.com/p/9390dd0f14a0) |
@@ -111,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 13:05:55 GMT | Top Open-Source Blue Team Tools: Fortifying Cyber Defenses | Pawan Jaiswal | [Read More](https://medium.com/p/39ee0a26a418) |
 | Sat, 26 Apr 2025 13:04:18 GMT | Free SSL vs Paid SSL: Which Is Better for UK Businesses in 2025? | Swapnil S. | [Read More](https://medium.com/p/68aa8f675ed3) |
 | Sat, 26 Apr 2025 13:02:55 GMT | How I Bypassed a WAF & Found My First XSS Bug | Ibtissam Hammadi | [Read More](https://medium.com/p/22429d7a3655) |
-| Sat, 26 Apr 2025 13:02:27 GMT | 80% False Positives, 0% Efficiency: The Real Problem Behind Alert Fatigue | Peris.ai Cybersecurity | [Read More](https://medium.com/p/34c1d6453c03) |
-| Sat, 26 Apr 2025 12:57:43 GMT | Day-17: How to Secure APIs and Prevent Server-Side Parameter Pollution | Agarwaldaksh | [Read More](https://medium.com/p/b116538e1e70) |
-| Sat, 26 Apr 2025 12:56:01 GMT | LE RADA-COLLIER MYSTIQUE. GRAND SAGE AZIHOU
-Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https://medium.com/p/5bbcb4ee3c70) |
