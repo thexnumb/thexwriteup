@@ -14,7 +14,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 12:24:03 GMT | File Management In Linux | Gourav(spidergk) | [Read More](https://medium.com/p/b01421ee1020) |
+| Sat, 26 Apr 2025 12:16:31 GMT | c4ptur3-th3-fl4g — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/d0f8b1a2b543) |
+| Sat, 26 Apr 2025 12:11:28 GMT | More SQLi - Writeup | Marvin | [Read More](https://medium.com/p/474127ac1f9b) |
+| Sat, 26 Apr 2025 12:09:25 GMT | Top 10 Techniques to Secure Your LLM Prompt in 2025 | Hicham Amchaar | [Read More](https://medium.com/p/c9cc2db2f0a2) |
+| Sat, 26 Apr 2025 12:08:10 GMT | Crypto Investor loses $700,000 in Address Poisoning Scam: A Cautionary Tale | CyberLucifer | [Read More](https://medium.com/p/f4aeaba27390) |
+| Sat, 26 Apr 2025 12:06:59 GMT | YOUTUBE SHORTS | InsightSphere | [Read More](https://medium.com/p/1bba81c19f5c) |
+| Sat, 26 Apr 2025 11:57:27 GMT | Top Strategies to Tackle Wireless Network Attacks PEN-210 | Oscptraining | [Read More](https://medium.com/p/a0a6831ae3a4) |
+| Sat, 26 Apr 2025 11:49:15 GMT | CyberKannadig: Empowering Karnataka’s Digital Journey Through Language and Innovation | Ar Fahim | [Read More](https://medium.com/p/bf3c3349cb96) |
+| Sat, 26 Apr 2025 11:49:07 GMT | Standardizing Cyber Threat Sharing: A Deep Dive into STIX and TAXII | Reeti | [Read More](https://medium.com/p/5a90d2f1fa82) |
+| Sat, 26 Apr 2025 11:49:01 GMT | What Happens When You Visit a Website? | Nikita | [Read More](https://medium.com/p/d1e12ed04085) |
+| Sat, 26 Apr 2025 11:47:25 GMT | Hijacked by Trust: A Case Study When the Day a Legitimate App Turns Rogue and Joined the Adversary | Muhammad Zakaria | [Read More](https://medium.com/p/4d67bffaa77c) |
+| Sat, 26 Apr 2025 11:41:37 GMT | Is Fanurex’s SPFL Realism Overhaul Safe? VirusTotal and Threat Scanner Findings | LookingForAnswers | [Read More](https://medium.com/p/4a5d25e664a3) |
+| Sat, 26 Apr 2025 11:36:53 GMT | Cross-Site Request Forgery (CSRF) and How to Mitigate It | Xavier J. Cruz | [Read More](https://medium.com/p/f524b95424cf) |
 | Sat, 26 Apr 2025 11:30:48 GMT | Cybersecurity Roadmap for Beginners in 2025: Avoid These Common Mistakes on Your Learning Journey | Mr Horbio | [Read More](https://medium.com/p/7e8701bb1827) |
+| Sat, 26 Apr 2025 11:26:37 GMT | The Red Teaming: 30-Day Challenge[12] | Bl@ckC!pH3r | [Read More](https://medium.com/p/b77dda6ce159) |
 | Sat, 26 Apr 2025 11:25:03 GMT | Day 3 — Setting Up My Android Pentesting Lab | Muhammed.shemil | [Read More](https://medium.com/p/8a0f71de091c) |
 | Sat, 26 Apr 2025 11:18:12 GMT | Zero Trust Without Human Trust: Why Technology Alone Can’t Secure an Organization | MrsNo1Special | [Read More](https://medium.com/p/3c716427206e) |
 | Sat, 26 Apr 2025 11:10:03 GMT | What is a SOC 2 Readiness Assessment? A Comprehensive Guide | Finstein.ai | [Read More](https://medium.com/p/465687ab5fca) |
@@ -100,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 03:50:53 GMT | VPNs And Their Role In Digital Privacy Protection | James Neal | [Read More](https://medium.com/p/cee433b2dd10) |
 | Sat, 26 Apr 2025 03:48:22 GMT | TOP 100 : MENGENAL PERINTAH DASAR LINUX UNTUK PENTESTER PEMULA DI DUNIA CYBER SECURITY | Fadhlur rohman | [Read More](https://medium.com/p/647d788ad20a) |
 | Sat, 26 Apr 2025 03:45:44 GMT | Unlock New Levels Of Privacy With Advanced VPN | Melvin Erickson | [Read More](https://medium.com/p/5a5badc11c1a) |
-| Sat, 26 Apr 2025 03:26:34 GMT | Passing CompTIA Security+ with a Smarter Study Plan (using ChatGPT!) | Jared Medeiros | [Read More](https://medium.com/p/ffb4533ff552) |
-| Sat, 26 Apr 2025 03:24:31 GMT | Detect Linux Server Intrusions | Tshenolo Mos | [Read More](https://medium.com/p/9846e814a344) |
-| Sat, 26 Apr 2025 03:17:19 GMT | Building My Own Cybersecurity Labs: A Hands-On Reflected XSS Lab for Learners
- By Researcher Yuvi | Yuvraj Gupta | [Read More](https://medium.com/p/4a0eac9fe06d) |
-| Sat, 26 Apr 2025 03:11:36 GMT | Maximize ChainBounty for Passive Income Success | ChainBounty | [Read More](https://medium.com/p/361b7cb06266) |
-| Sat, 26 Apr 2025 02:26:15 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 2) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/775614bd6388) |
-| Sat, 26 Apr 2025 02:21:16 GMT | mTLS and OAuth2 — Certificate-Bound Tokens | Sagara Gunathunga | [Read More](https://medium.com/p/8204b7bc5833) |
-| Sat, 26 Apr 2025 02:02:54 GMT | Importance of Auth Delegation in the Agent Era | Yu Ishikawa | [Read More](https://medium.com/p/ef1c6fea3ab7) |
-| Sat, 26 Apr 2025 01:35:40 GMT | Nytheon AI | Tal Eliyahu | [Read More](https://medium.com/p/1cb2cbc069ec) |
-| Sat, 26 Apr 2025 01:21:32 GMT | The Cybersecurity Compass: From Personal Vision to Global Validation | Juan Pablo Castro | [Read More](https://medium.com/p/5585c82ee6da) |
-| Sat, 26 Apr 2025 01:20:00 GMT | First Signatories Kit | Restoration Security | [Read More](https://medium.com/p/6b2598d92c2d) |
-| Sat, 26 Apr 2025 01:18:35 GMT | Which Smart Lock Should You Trust with Your Front Door? Here’s the Breakdown | Scals | [Read More](https://medium.com/p/4fdb7fc63ad6) |
-| Sat, 26 Apr 2025 01:09:04 GMT | Global Cognitive Security Declaration | Restoration Security | [Read More](https://medium.com/p/c888c91873cd) |
-| Sat, 26 Apr 2025 01:06:48 GMT | From Gap to Greatness: How to Make a Comeback in Cybersecurity — A CISO’s Recommendation | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/d7dc912414dc) |
-| Sat, 26 Apr 2025 01:02:28 GMT | Letter to the Leaders of the Free World: The Call for Cognitive Security | Restoration Security | [Read More](https://medium.com/p/69f870589d81) |
