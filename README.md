@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 14:26:49 GMT | Cyber Password Toolkit | Vinu Varshith Alagappan | [Read More](https://medium.com/p/2bb94ca808b9) |
+| Sat, 26 Apr 2025 14:25:59 GMT | How I Found a Critical Security Flaw and Earned a Reward on a VDP | Lux Angelo | [Read More](https://medium.com/p/019ebec71a74) |
+| Sat, 26 Apr 2025 14:13:43 GMT | Securing Sensitive Data in PostgreSQL: A Comprehensive Guide to Data Anonymization | Shailesh Kumar Mishra | [Read More](https://medium.com/p/61d0d59075fb) |
+| Sat, 26 Apr 2025 14:12:08 GMT | Capstone Lab: Enumerate the Learning Module Exercise — VM #2 and exploit the SQLi vulnerability to… | Kacper Waliczek | [Read More](https://medium.com/p/8328c4cf2426) |
 | Sat, 26 Apr 2025 14:09:34 GMT | Censorship and Surveillance in the Digital Age: Part Two | The Censored State | [Read More](https://medium.com/p/2f224dc8b864) |
 | Sat, 26 Apr 2025 14:05:23 GMT | 7 Powerful Must-Watch Thrillers on OTT That’ll Keep You Hooked in 2025 | DownTop | [Read More](https://medium.com/p/5273bd2467e5) |
 | Sat, 26 Apr 2025 13:58:35 GMT | What if finding a simple bug could earn you $75,000? | Awesome Ndaboms | [Read More](https://medium.com/p/de582f83cbb2) |
@@ -111,7 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 07:03:15 GMT | Path Traversal Attack: How I Accessed Admin Secrets | Vipul Sonule | [Read More](https://medium.com/p/fa5de1865031) |
 | Sat, 26 Apr 2025 06:58:18 GMT | Unlock Healthcare Efficiency with Facial Recognition Devices from Tektronix Technologies in Dubai… | Aafiya | [Read More](https://medium.com/p/f96b2270b6b1) |
 | Sat, 26 Apr 2025 06:57:40 GMT | Command and Control: Why the CIO Must Lead Cyber War Games and Tabletop Exercises. | Sanjay K Mohindroo | [Read More](https://medium.com/p/f1f0b4c686d4) |
-| Sat, 26 Apr 2025 06:54:02 GMT | How to Earn Consistent Passive Rewards with Bug $BUG | Bug | [Read More](https://medium.com/p/125736ce2458) |
-| Sat, 26 Apr 2025 06:47:32 GMT | Important Acronyms for General Security Concepts for CompTIA Security+ (SY0–701) | unica 02 | [Read More](https://medium.com/p/4cc3239cd700) |
-| Sat, 26 Apr 2025 06:40:33 GMT | How to Become a Bug Bounty Hunter & Earn Money Ethically | Sanchitamishra | [Read More](https://medium.com/p/81f02e308081) |
-| Sat, 26 Apr 2025 06:37:59 GMT | SessionShark Toolkit: Evolving Phishing Threats Against MFA Solutions | Nexsecura | [Read More](https://medium.com/p/1dd89ab5a0e9) |
