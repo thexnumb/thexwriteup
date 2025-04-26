@@ -14,7 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 18:37:59 GMT | KMAC in .NET 9 | Kamlesh Singh | [Read More](https://medium.com/p/0dac99b45717) |
+| Sat, 26 Apr 2025 18:30:40 GMT | Utilizing a Command and Control (C2) system through a Telegram bot. | Paqsmithgun | [Read More](https://medium.com/p/f3d3d06d2682) |
+| Sat, 26 Apr 2025 18:28:20 GMT | WooCommerce Admins Targeted by Fake Security Patches That Hijack Sites | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/7bf1832f2963) |
+| Sat, 26 Apr 2025 18:26:18 GMT | Digital Nihilism: Does Constant Access to Information Erode Meaning? | Modern Philosophy 101 | [Read More](https://medium.com/p/c4f261a33dce) |
+| Sat, 26 Apr 2025 18:22:40 GMT | The Effects of Climate Change on Economic Security | Imali | [Read More](https://medium.com/p/fc9928e0adb2) |
 | Sat, 26 Apr 2025 18:22:18 GMT | Hutch Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/5f41da3abe87) |
+| Sat, 26 Apr 2025 18:19:53 GMT | Is Death Really the End? Quantum Physics Offers a Mind-Bending Possibility | Emily Wilson | [Read More](https://medium.com/p/44a854023cef) |
+| Sat, 26 Apr 2025 18:18:02 GMT | New Customs Values Announced for iPhones | Osama Khan | [Read More](https://medium.com/p/d2a1fb19d69c) |
 | Sat, 26 Apr 2025 17:58:51 GMT | CVE-2025–22234: Vulnerabilidade de Timing Attack no Spring Security | Sergio Lopes | [Read More](https://medium.com/p/285504ef113e) |
 | Sat, 26 Apr 2025 17:57:09 GMT | CyberClash - My First Cyber Event | PriOFF | [Read More](https://medium.com/p/338d85c31887) |
 | Sat, 26 Apr 2025 17:57:08 GMT | The Walkaway Gambit | Julien Tenebre | [Read More](https://medium.com/p/acf0a73c0a5d) |
@@ -108,10 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 11:49:01 GMT | What Happens When You Visit a Website? | Nikita | [Read More](https://medium.com/p/d1e12ed04085) |
 | Sat, 26 Apr 2025 11:47:25 GMT | Hijacked by Trust: A Case Study When the Day a Legitimate App Turns Rogue and Joined the Adversary | Muhammad Zakaria | [Read More](https://medium.com/p/4d67bffaa77c) |
 | Sat, 26 Apr 2025 11:41:37 GMT | Is Fanurex’s SPFL Realism Overhaul Safe? VirusTotal and Threat Scanner Findings | LookingForAnswers | [Read More](https://medium.com/p/4a5d25e664a3) |
-| Sat, 26 Apr 2025 11:36:53 GMT | Cross-Site Request Forgery (CSRF) and How to Mitigate It | Xavier J. Cruz | [Read More](https://medium.com/p/f524b95424cf) |
-| Sat, 26 Apr 2025 11:30:48 GMT | Cybersecurity Roadmap for Beginners in 2025: Avoid These Common Mistakes on Your Learning Journey | Mr Horbio | [Read More](https://medium.com/p/7e8701bb1827) |
-| Sat, 26 Apr 2025 11:26:37 GMT | The Red Teaming: 30-Day Challenge[12] | Bl@ckC!pH3r | [Read More](https://medium.com/p/b77dda6ce159) |
-| Sat, 26 Apr 2025 11:25:03 GMT | Day 3 — Setting Up My Android Pentesting Lab | Muhammed.shemil | [Read More](https://medium.com/p/8a0f71de091c) |
-| Sat, 26 Apr 2025 11:18:12 GMT | Zero Trust Without Human Trust: Why Technology Alone Can’t Secure an Organization | MrsNo1Special | [Read More](https://medium.com/p/3c716427206e) |
-| Sat, 26 Apr 2025 11:10:03 GMT | What is a SOC 2 Readiness Assessment? A Comprehensive Guide | Finstein.ai | [Read More](https://medium.com/p/465687ab5fca) |
-| Sat, 26 Apr 2025 11:06:59 GMT | Unlock the Power of ChainBounty for Maximum Gains | ChainBounty | [Read More](https://medium.com/p/12adee537cce) |
