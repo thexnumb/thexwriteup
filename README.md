@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 22:17:10 GMT | Top 10 Underrated Websites Every Cybersecurity Enthusiast Should Explore | Karthikeyan Nagaraj | [Read More](https://medium.com/p/96fdf522fb4a) |
+| Sat, 26 Apr 2025 22:14:22 GMT | Virus:Win32/Expiro: The Digital Chameleon Stealing Your Data | Brendan Smith | [Read More](https://medium.com/p/3b61dcc17700) |
+| Sat, 26 Apr 2025 22:12:10 GMT | My Cybersecurity Journey | Jackson Callister | [Read More](https://medium.com/p/7782981f3975) |
 | Sat, 26 Apr 2025 22:06:24 GMT | Threat Actors Employing SessionShark to Bypass Office 365 MFA Defenses. | current.cybersecurity | [Read More](https://medium.com/p/0771cf7bb414) |
 | Sat, 26 Apr 2025 22:05:13 GMT | How to Get the Install Source of an Application in Android | Burak Taşcı | [Read More](https://medium.com/p/dae7e3c49fbf) |
 | Sat, 26 Apr 2025 22:04:12 GMT | How Retrieval-Augmented Generation (RAG) AI Models Are Shaping the Future of Efficiency in Business | Naiv | [Read More](https://medium.com/p/ca3cd00f3b74) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 14:12:08 GMT | Capstone Lab: Enumerate the Learning Module Exercise — VM #2 and exploit the SQLi vulnerability to… | Kacper Waliczek | [Read More](https://medium.com/p/8328c4cf2426) |
 | Sat, 26 Apr 2025 14:09:34 GMT | Censorship and Surveillance in the Digital Age: Part Two | The Censored State | [Read More](https://medium.com/p/2f224dc8b864) |
 | Sat, 26 Apr 2025 14:05:23 GMT | 7 Powerful Must-Watch Thrillers on OTT That’ll Keep You Hooked in 2025 | DownTop | [Read More](https://medium.com/p/5273bd2467e5) |
-| Sat, 26 Apr 2025 13:58:35 GMT | What if finding a simple bug could earn you $75,000? | Awesome Ndaboms | [Read More](https://medium.com/p/de582f83cbb2) |
-| Sat, 26 Apr 2025 13:57:19 GMT | Black Mirror’s ‘Plaything’ Isn’t Just Fiction — It’s a Warning You Might’ve Already Fallen For! | Ravi Verma | [Read More](https://medium.com/p/8985bd930d54) |
-| Sat, 26 Apr 2025 13:49:38 GMT | ToyMaker and LAGTOY: The Sneaky Brokers Fueling CACTUS Ransomware Chaos ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/23deadde55a1) |
