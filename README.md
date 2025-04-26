@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 11:30:48 GMT | Cybersecurity Roadmap for Beginners in 2025: Avoid These Common Mistakes on Your Learning Journey | Mr Horbio | [Read More](https://medium.com/p/7e8701bb1827) |
+| Sat, 26 Apr 2025 11:25:03 GMT | Day 3 — Setting Up My Android Pentesting Lab | Muhammed.shemil | [Read More](https://medium.com/p/8a0f71de091c) |
+| Sat, 26 Apr 2025 11:18:12 GMT | Zero Trust Without Human Trust: Why Technology Alone Can’t Secure an Organization | MrsNo1Special | [Read More](https://medium.com/p/3c716427206e) |
+| Sat, 26 Apr 2025 11:10:03 GMT | What is a SOC 2 Readiness Assessment? A Comprehensive Guide | Finstein.ai | [Read More](https://medium.com/p/465687ab5fca) |
+| Sat, 26 Apr 2025 11:06:59 GMT | Unlock the Power of ChainBounty for Maximum Gains | ChainBounty | [Read More](https://medium.com/p/12adee537cce) |
 | Sat, 26 Apr 2025 11:06:10 GMT | Understanding and Preventing Injection Attacks | Xavier J. Cruz | [Read More](https://medium.com/p/ebd225d3b752) |
 | Sat, 26 Apr 2025 10:47:20 GMT | Vulnerability Assessment and Reverse Engineering (V.A.R.E) Lab #11 | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/30b2072175eb) |
 | Sat, 26 Apr 2025 10:44:04 GMT | North Korean Hackers’ Sneaky Crypto Scam: Fake Firms, Fake Jobs, Real Malware ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/104761fc412d) |
@@ -110,8 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 01:09:04 GMT | Global Cognitive Security Declaration | Restoration Security | [Read More](https://medium.com/p/c888c91873cd) |
 | Sat, 26 Apr 2025 01:06:48 GMT | From Gap to Greatness: How to Make a Comeback in Cybersecurity — A CISO’s Recommendation | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/d7dc912414dc) |
 | Sat, 26 Apr 2025 01:02:28 GMT | Letter to the Leaders of the Free World: The Call for Cognitive Security | Restoration Security | [Read More](https://medium.com/p/69f870589d81) |
-| Sat, 26 Apr 2025 00:57:31 GMT | Global Petition: Protect the Right to Cognitive Security | Restoration Security | [Read More](https://medium.com/p/a0156be4bf81) |
-| Sat, 26 Apr 2025 00:56:01 GMT | Phish Hunter Pro | Ekoms Savior | [Read More](https://medium.com/p/b3cc30041f91) |
-| Sat, 26 Apr 2025 00:53:38 GMT | First Wave Public Endorsement for Cognitive Security | Restoration Security | [Read More](https://medium.com/p/a8f83c1fadd5) |
-| Sat, 26 Apr 2025 00:47:12 GMT | ANNOUNCEMENT: The Global Movement for Cognitive Security Begins Now | Restoration Security | [Read More](https://medium.com/p/02639757e94f) |
-| Sat, 26 Apr 2025 00:36:58 GMT | Automated Tool For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/4a13ed9f2971) |
