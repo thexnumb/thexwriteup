@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 11:06:10 GMT | Understanding and Preventing Injection Attacks | Xavier J. Cruz | [Read More](https://medium.com/p/ebd225d3b752) |
+| Sat, 26 Apr 2025 10:47:20 GMT | Vulnerability Assessment and Reverse Engineering (V.A.R.E) Lab #11 | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/30b2072175eb) |
+| Sat, 26 Apr 2025 10:44:04 GMT | North Korean Hackers’ Sneaky Crypto Scam: Fake Firms, Fake Jobs, Real Malware ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/104761fc412d) |
+| Sat, 26 Apr 2025 10:40:19 GMT | Critical SAP NetWeaver Vulnerability CVE-2025–31324: A Zero-Day Nightmare Unleashed | Ismail Tasdelen | [Read More](https://medium.com/p/e873f4862e05) |
 | Sat, 26 Apr 2025 10:36:09 GMT | How AI-Powered Cyberattacks Are Changing the Game in 2025 | PhDPRIMA Research | [Read More](https://medium.com/p/6430b932f8e7) |
 | Sat, 26 Apr 2025 10:35:44 GMT | Mastering Nmap: A Beginner’s Friendly Guide + Cheat Sheet You’ll Keep Coming Back To | Richard Nwonah | [Read More](https://medium.com/p/b830ca1a30cd) |
 | Sat, 26 Apr 2025 10:34:48 GMT | Rack::Static Vulnerability Exposes Ruby Servers to Data Breaches! | Ismail Tasdelen | [Read More](https://medium.com/p/018fdff51df0) |
@@ -111,7 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 00:53:38 GMT | First Wave Public Endorsement for Cognitive Security | Restoration Security | [Read More](https://medium.com/p/a8f83c1fadd5) |
 | Sat, 26 Apr 2025 00:47:12 GMT | ANNOUNCEMENT: The Global Movement for Cognitive Security Begins Now | Restoration Security | [Read More](https://medium.com/p/02639757e94f) |
 | Sat, 26 Apr 2025 00:36:58 GMT | Automated Tool For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/4a13ed9f2971) |
-| Sat, 26 Apr 2025 00:36:05 GMT | Verizon DBIR 2025: The Triple Threats — Part 1: 3rd Parties, Ransomware, and Exploits | Mehdi | [Read More](https://medium.com/p/832d3251ffee) |
-| Sat, 26 Apr 2025 00:33:47 GMT | Publish on Hugging Face Without Exposing Your Source Code — For Free! | Ronivaldo Passos Sampaio | [Read More](https://medium.com/p/1c57b2179137) |
-| Sat, 26 Apr 2025 00:24:46 GMT | White Paper: Securing Cognitive Freedom | Restoration Security | [Read More](https://medium.com/p/348edc1339c8) |
-| Sat, 26 Apr 2025 00:15:39 GMT | Qradar Usage Part I | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/6d93885a7345) |
