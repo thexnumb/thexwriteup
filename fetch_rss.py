@@ -76,8 +76,14 @@ RSS_FEEDS = [
         "https://medium.com/feed/tag/cyber-sec"
 ]
 
+# ➡️ NEW: List of authors to skip 
+SKIP_AUTHORS = [
+    "@bbfuhfhjfjf",  
+    "@f00641469"
+    
+]
+
 def load_existing_guids():
-    """Load GUIDs from existing CSV to avoid duplicates."""
     if not os.path.exists(CSV_FILE):
         return set()
 
@@ -85,7 +91,6 @@ def load_existing_guids():
         return {row["guid"] for row in csv.DictReader(csvfile)}
 
 def html_to_markdown(html):
-    """Convert HTML to clean markdown."""
     h = html2text.HTML2Text()
     h.ignore_links = False
     h.ignore_images = True
@@ -93,12 +98,10 @@ def html_to_markdown(html):
     return h.handle(html).strip()
 
 def truncate_description(description):
-    """Get the last 5 lines from the description."""
     lines = description.strip().splitlines()
     return "\n".join(lines[-5:])
 
 def notify_discord(entry):
-    """Send a nicely formatted message to Discord."""
     if not DISCORD_WEBHOOK_URL:
         print("Discord webhook URL is not set.")
         return
@@ -106,7 +109,6 @@ def notify_discord(entry):
     emoji = "📰"
     markdown_description = html_to_markdown(entry["description"])
 
-    # Remove lines that contain only [](...)
     cleaned_lines = []
     for line in markdown_description.splitlines():
         if not re.match(r"^\[\]\(.*?\)$", line.strip()):
@@ -132,7 +134,6 @@ by **{entry['author']}** at `{entry['date']}`
         print(f"Failed to send Discord message: {response.status_code}, {response.text}")
 
 def save_entry(entry):
-    """Save new entry to the CSV file."""
     file_exists = os.path.exists(CSV_FILE)
     with open(CSV_FILE, mode="a", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=["title", "author", "description", "date", "guid"])
@@ -150,9 +151,16 @@ def fetch_and_process_feeds():
             if guid in seen_guids:
                 continue
 
+            author = entry.get("author", "Unknown")
+
+            # ➡️ NEW: Skip if author in SKIP_AUTHORS
+            if author in SKIP_AUTHORS:
+                print(f"Skipping entry from {author}")
+                continue
+
             new_entry = {
                 "title": entry.get("title", "No Title"),
-                "author": entry.get("author", "Unknown"),
+                "author": author,
                 "description": entry.get("summary", "No Description"),
                 "date": entry.get("published", datetime.utcnow().isoformat()),
                 "guid": guid
