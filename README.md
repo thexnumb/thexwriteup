@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 17:26:42 GMT | Hacked Without Touching Your Phone! | YuvaSec | [Read More](https://medium.com/p/042213a15827) |
+| Sat, 26 Apr 2025 17:25:17 GMT | Learning Journey | Alanys Weatherspoon | [Read More](https://medium.com/p/b408b8d05cf0) |
+| Sat, 26 Apr 2025 17:21:37 GMT | Cybersecurity News Review — Week 17 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/49d54be5f25b) |
+| Sat, 26 Apr 2025 17:16:48 GMT | The Essential Cybersecurity Tools Every Professional Should Know | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/31d99995411b) |
+| Sat, 26 Apr 2025 17:15:29 GMT | Nytheon AI: Analysis of a New Threat in the Malicious AI Landscape | Joel Johnson | [Read More](https://medium.com/p/23d4546331e9) |
+| Sat, 26 Apr 2025 17:11:01 GMT | Why Spring Boot REST APIs Are Still Wide Open to Security Breaches in 2025 (And How to Fix It) | Himanshu | [Read More](https://medium.com/p/9f86f59b7a26) |
+| Sat, 26 Apr 2025 17:09:23 GMT | Private & Secure Smart Contract-Free Asset Tokenization | Alan Nekhom | [Read More](https://medium.com/p/81c8a54e38a0) |
+| Sat, 26 Apr 2025 17:09:01 GMT | ️ How to Save Your Mobile App from Security Attacks | Amar Kumar | [Read More](https://medium.com/p/39a20905c5fb) |
+| Sat, 26 Apr 2025 17:04:57 GMT | "AI Prompt Engineering: Crafting the Future with Words and Intelligence" | Pavan | [Read More](https://medium.com/p/c36310ae811f) |
 | Sat, 26 Apr 2025 16:56:34 GMT | WİNDOWS 10’UN SONU YAKLAŞIYOR: DEVAM MI, DEĞİŞİM Mİ? | HSD Fırat Üniversitesi | [Read More](https://medium.com/p/c0d77a914ac0) |
 | Sat, 26 Apr 2025 16:51:12 GMT | Conspiración Hacker By Ruben H Rios Book Review | Art Of Code | [Read More](https://medium.com/p/e5de63eecedc) |
 | Sat, 26 Apr 2025 16:45:46 GMT | Getting Started with Kali Linux: The Operating System Every Aspiring Hacker Should Know | MOHAMMAD SHAIKH | [Read More](https://medium.com/p/93b570824a74) |
@@ -106,12 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 10:44:04 GMT | North Korean Hackers’ Sneaky Crypto Scam: Fake Firms, Fake Jobs, Real Malware ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/104761fc412d) |
 | Sat, 26 Apr 2025 10:40:19 GMT | Critical SAP NetWeaver Vulnerability CVE-2025–31324: A Zero-Day Nightmare Unleashed | Ismail Tasdelen | [Read More](https://medium.com/p/e873f4862e05) |
 | Sat, 26 Apr 2025 10:36:09 GMT | How AI-Powered Cyberattacks Are Changing the Game in 2025 | PhDPRIMA Research | [Read More](https://medium.com/p/6430b932f8e7) |
-| Sat, 26 Apr 2025 10:35:44 GMT | Mastering Nmap: A Beginner’s Friendly Guide + Cheat Sheet You’ll Keep Coming Back To | Richard Nwonah | [Read More](https://medium.com/p/b830ca1a30cd) |
-| Sat, 26 Apr 2025 10:34:48 GMT | Rack::Static Vulnerability Exposes Ruby Servers to Data Breaches! | Ismail Tasdelen | [Read More](https://medium.com/p/018fdff51df0) |
-| Sat, 26 Apr 2025 10:32:00 GMT | DslogdRAT Malware: A Sneaky Cyberattack Exploiting Ivanti ICS Zero-Day | Ismail Tasdelen | [Read More](https://medium.com/p/e3bdf68a253e) |
-| Sat, 26 Apr 2025 10:30:32 GMT | Why Your Smart Devices Are a Hacker’s Dream! | Muiz A | [Read More](https://medium.com/p/63795d820228) |
-| Sat, 26 Apr 2025 10:26:13 GMT | HTB Timelapse Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/549392c23a25) |
-| Sat, 26 Apr 2025 10:21:43 GMT | Why You Should Embrace Laravel Jetstream for Modern Authentication ⚡ | mohamad shahkhajeh | [Read More](https://medium.com/p/ab643e8f9194) |
-| Sat, 26 Apr 2025 10:20:33 GMT | Setting Up Your Own VPS: A Technical Guide and Its Advantages | Nicolas | [Read More](https://medium.com/p/c9baeed92399) |
-| Sat, 26 Apr 2025 10:07:19 GMT | Patch Tuesday on Autopilot (2025 Edition) | Anderson Godoy | [Read More](https://medium.com/p/69c9294bd453) |
-| Sat, 26 Apr 2025 10:06:58 GMT | Understanding the 4-Way Handshake — The Core of Wi-Fi Security | Amitishacked | [Read More](https://medium.com/p/99099f4c18f6) |
