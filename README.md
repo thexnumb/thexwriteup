@@ -14,6 +14,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 23:12:19 GMT | 10 Ordinary Household Items That Were Accidentally Deadly Weapons | Maximillian | [Read More](https://medium.com/p/b0d6dde301c1) |
+| Sat, 26 Apr 2025 22:38:40 GMT | Why I Chose Cybersecurity: A Personal Journey | Dhruti D Mehta | [Read More](https://medium.com/p/4701a1c5392b) |
 | Sat, 26 Apr 2025 22:17:10 GMT | Top 10 Underrated Websites Every Cybersecurity Enthusiast Should Explore | Karthikeyan Nagaraj | [Read More](https://medium.com/p/96fdf522fb4a) |
 | Sat, 26 Apr 2025 22:14:22 GMT | Virus:Win32/Expiro: The Digital Chameleon Stealing Your Data | Brendan Smith | [Read More](https://medium.com/p/3b61dcc17700) |
 | Sat, 26 Apr 2025 22:12:10 GMT | My Cybersecurity Journey | Jackson Callister | [Read More](https://medium.com/p/7782981f3975) |
@@ -112,5 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 14:25:59 GMT | How I Found a Critical Security Flaw and Earned a Reward on a VDP | Lux Angelo | [Read More](https://medium.com/p/019ebec71a74) |
 | Sat, 26 Apr 2025 14:13:43 GMT | Securing Sensitive Data in PostgreSQL: A Comprehensive Guide to Data Anonymization | Shailesh Kumar Mishra | [Read More](https://medium.com/p/61d0d59075fb) |
 | Sat, 26 Apr 2025 14:12:08 GMT | Capstone Lab: Enumerate the Learning Module Exercise — VM #2 and exploit the SQLi vulnerability to… | Kacper Waliczek | [Read More](https://medium.com/p/8328c4cf2426) |
-| Sat, 26 Apr 2025 14:09:34 GMT | Censorship and Surveillance in the Digital Age: Part Two | The Censored State | [Read More](https://medium.com/p/2f224dc8b864) |
-| Sat, 26 Apr 2025 14:05:23 GMT | 7 Powerful Must-Watch Thrillers on OTT That’ll Keep You Hooked in 2025 | DownTop | [Read More](https://medium.com/p/5273bd2467e5) |
