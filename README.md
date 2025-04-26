@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 09:29:05 GMT | The Hidden Param That Opened the Vault: A Dirty Param Tampering Tale | Iski | [Read More](https://medium.com/p/52bfac3539fd) |
+| Sat, 26 Apr 2025 09:20:10 GMT | Cybersecurity Audit Vault | Meravytes | [Read More](https://medium.com/p/49d14dc0ea56) |
+| Sat, 26 Apr 2025 09:13:59 GMT | WINDOWS FILESYSTEM | Olumide Adeniji | [Read More](https://medium.com/p/d895cf76e5ab) |
 | Sat, 26 Apr 2025 09:00:34 GMT | Leverage Sealed Classes in Java: Use Cases, Best Practices, and Common Pitfalls | Anh Trần Tuấn | [Read More](https://medium.com/p/18b7acba15e7) |
 | Sat, 26 Apr 2025 09:00:31 GMT | Leverage Sealed Classes in Java: Use Cases, Best Practices, and Common Pitfalls | Anh Trần Tuấn | [Read More](https://medium.com/p/501a565eaa54) |
 | Sat, 26 Apr 2025 09:00:16 GMT | Content Security Policy (CSP)-browser throws allow script-src ‘unsafe-inline’ | Sudha Subramaniam | [Read More](https://medium.com/p/3cecb69aa49a) |
@@ -112,6 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 20:58:24 GMT | Implementing Device Binding in WSO2 Identity Server | Viggnah Selvaraj | [Read More](https://medium.com/p/7e7f8ab19649) |
 | Fri, 25 Apr 2025 20:55:55 GMT | EDR (Endpoint Detection and Response) Nedir? | Melike Büşra Şener | [Read More](https://medium.com/p/b27a8d5fe4c4) |
 | Fri, 25 Apr 2025 20:42:25 GMT | Null Byte Injection Attack | Adham Hashem | [Read More](https://medium.com/p/a01de121e376) |
-| Fri, 25 Apr 2025 20:33:32 GMT | Cybersecurity Best Practices for the AI Era: Enterprise Edition | Nicholas Dere Lucas | [Read More](https://medium.com/p/86641d37c32f) |
-| Fri, 25 Apr 2025 20:29:08 GMT | Silent Intruders: Navigating the Hidden Cybersecurity Threats of Remote Work’s Unseen World | Muhammed Tauseef khan | [Read More](https://medium.com/p/ab4153128f71) |
-| Fri, 25 Apr 2025 20:27:48 GMT | We share a pool of $500k in the Bug Bounty event | Kiyot0Sage | [Read More](https://medium.com/p/3adf9e9cce0b) |
