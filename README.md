@@ -14,7 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 16:56:34 GMT | WİNDOWS 10’UN SONU YAKLAŞIYOR: DEVAM MI, DEĞİŞİM Mİ? | HSD Fırat Üniversitesi | [Read More](https://medium.com/p/c0d77a914ac0) |
+| Sat, 26 Apr 2025 16:51:12 GMT | Conspiración Hacker By Ruben H Rios Book Review | Art Of Code | [Read More](https://medium.com/p/e5de63eecedc) |
+| Sat, 26 Apr 2025 16:45:46 GMT | Getting Started with Kali Linux: The Operating System Every Aspiring Hacker Should Know | MOHAMMAD SHAIKH | [Read More](https://medium.com/p/93b570824a74) |
 | Sat, 26 Apr 2025 16:34:42 GMT | How Hackers Use Images, PDFs, and Voice Messages to Hack Devices? | Vishnu | [Read More](https://medium.com/p/e0c903e369bc) |
+| Sat, 26 Apr 2025 16:32:56 GMT | Why Identity and Access Management (IAM) Isn’t Just for Techies | Srivastavamanjari | [Read More](https://medium.com/p/02170de1e48d) |
+| Sat, 26 Apr 2025 16:31:21 GMT | OSINT ແມ່ນຫຍັງ? ຍ້ອນຫຍັງຂໍ້ມູນສ່ວນໂຕເຮົາໃນໂລກອອນລາຍຈຶ່ງສຳຄັນ? | 0xJ0cKkY | [Read More](https://medium.com/p/4d1af527693a) |
 | Sat, 26 Apr 2025 16:26:09 GMT | Tips to save your digital footprints | NANDINI NANDAKUMAR | [Read More](https://medium.com/p/95772c7b7a3c) |
 | Sat, 26 Apr 2025 16:23:24 GMT | “Pen testing with Default Credentials: A Step-by-Step Attack Simulation” | Pooja Madivalar | [Read More](https://medium.com/p/f65aba8805d6) |
 | Sat, 26 Apr 2025 16:18:08 GMT | ColdBoxEasy Walkthrough - Proving Grounds Play | Adam Bartlett | [Read More](https://medium.com/p/e0bf33afa512) |
@@ -110,8 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 10:20:33 GMT | Setting Up Your Own VPS: A Technical Guide and Its Advantages | Nicolas | [Read More](https://medium.com/p/c9baeed92399) |
 | Sat, 26 Apr 2025 10:07:19 GMT | Patch Tuesday on Autopilot (2025 Edition) | Anderson Godoy | [Read More](https://medium.com/p/69c9294bd453) |
 | Sat, 26 Apr 2025 10:06:58 GMT | Understanding the 4-Way Handshake — The Core of Wi-Fi Security | Amitishacked | [Read More](https://medium.com/p/99099f4c18f6) |
-| Sat, 26 Apr 2025 10:06:42 GMT | Breaking the Hierarchy: How I Bypassed Role Restrictions to Become Owner | Fuzzyy Duck | [Read More](https://medium.com/p/2635e1e33d85) |
-| Sat, 26 Apr 2025 10:05:45 GMT | सूरत BRTS टिकट घोटाला: क्या हुआ और कैसे सुरक्षित रहें | Hacker news 07 | [Read More](https://medium.com/p/45d383ec2297) |
-| Sat, 26 Apr 2025 10:05:16 GMT | ✨ A Deep Dive:Nmap Scanning with Wireshark | 0b1d1 | [Read More](https://medium.com/p/40ea0ecb2eee) |
-| Sat, 26 Apr 2025 09:58:38 GMT | How I Bypassed Authentication on a Funded Fashion Site — And Took Over an Account | Rolextital | [Read More](https://medium.com/p/8b8a9189fb4a) |
-| Sat, 26 Apr 2025 09:56:56 GMT | The Easiest $350 Bounty I’ve Ever Earned — In Just 10 Minutes! | Mohit Kumar | [Read More](https://medium.com/p/c129a21fc8ab) |
