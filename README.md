@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 05:30:10 GMT | HTB: Blocky (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/7a74e1e22a71) |
+| Sat, 26 Apr 2025 05:24:03 GMT | Fundamental Linux Commands for CompTIA Security+ (SY0–701): A Beginner’s Resource | unica 02 | [Read More](https://medium.com/p/25a455be7fae) |
+| Sat, 26 Apr 2025 05:11:48 GMT | Symbolic Execution vs Traditional Static Analysis in Smart Contract Security | Securr - Web3 Security | [Read More](https://medium.com/p/97a9289bbd48) |
 | Sat, 26 Apr 2025 05:02:28 GMT | Patching Up Your Defense: Why Regular Updates Are a Security Superpower | Saber You | [Read More](https://medium.com/p/de17e10e8c80) |
 | Sat, 26 Apr 2025 04:57:32 GMT | Millions of Records Exposed via SQL Injection in a Tamil Nadu Government Portal | Hack-Bat | [Read More](https://medium.com/p/0981d3827ed2) |
 | Sat, 26 Apr 2025 04:56:21 GMT | For CISOs, true influence comes from execution, not just investment | JC Gaillard | [Read More](https://medium.com/p/b757d5da1fb2) |
@@ -112,6 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 17:58:04 GMT | شماره صیغه بندرعباس09015398913 شماره صیغه جاسک09015398913 شماره صیغه کیش09015398913 شماره صیغه… | معرف ازدواج موقت | [Read More](https://medium.com/p/239cd813173c) |
 | Fri, 25 Apr 2025 17:54:42 GMT | Rate Limit Like a Pro: Building Resilient APIs with Spring Boot | Ravindu Hirimuthugoda | [Read More](https://medium.com/p/21637bfeb1aa) |
 | Fri, 25 Apr 2025 17:52:07 GMT | Headless Kali Linux in Docker — Your Cybersecurity Playground in a Box | Serhii K | [Read More](https://medium.com/p/f82e5c949fb4) |
-| Fri, 25 Apr 2025 17:45:48 GMT | 1 Thing Your Company Doesn’t Tell You About Your Phone Can Cost You | Tom Handy | [Read More](https://medium.com/p/42ea38ec7ce2) |
-| Fri, 25 Apr 2025 17:31:54 GMT | “Navigating the Irony of Online Life and Screen Time Awareness” | Angela Renée | [Read More](https://medium.com/p/bd6d51ba8c21) |
-| Fri, 25 Apr 2025 17:29:56 GMT | Privilege Escalation using Docker Container | Bishal Chapagain | [Read More](https://medium.com/p/e9110713936b) |
