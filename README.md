@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 20:24:59 GMT | Impact of Quantum Computing on Encryption | Matthew.Rosenquist | [Read More](https://medium.com/p/0006909dd389) |
 | Sat, 26 Apr 2025 20:12:32 GMT | VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor | Brendan Smith | [Read More](https://medium.com/p/40c41fed0fbe) |
 | Sat, 26 Apr 2025 19:53:40 GMT | TryHackMe ‘Hacker vs. Hacker’ Walkthrough: Web Shell Exploitation & Privilege Escalation | Haitam Lazaar | [Read More](https://medium.com/p/9390dd0f14a0) |
 | Sat, 26 Apr 2025 19:52:57 GMT | Gaming and cybersecurity for the society | Caroline Neufert | [Read More](https://medium.com/p/ad07bd5f8edb) |
@@ -114,4 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 12:57:43 GMT | Day-17: How to Secure APIs and Prevent Server-Side Parameter Pollution | Agarwaldaksh | [Read More](https://medium.com/p/b116538e1e70) |
 | Sat, 26 Apr 2025 12:56:01 GMT | LE RADA-COLLIER MYSTIQUE. GRAND SAGE AZIHOU
 Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https://medium.com/p/5bbcb4ee3c70) |
-| Sat, 26 Apr 2025 12:52:57 GMT | Day 1: Starting My Cybersecurity Journey | Uijin Lee | [Read More](https://medium.com/p/5f247acf840c) |
