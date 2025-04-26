@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 18:22:18 GMT | Hutch Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/5f41da3abe87) |
+| Sat, 26 Apr 2025 17:58:51 GMT | CVE-2025–22234: Vulnerabilidade de Timing Attack no Spring Security | Sergio Lopes | [Read More](https://medium.com/p/285504ef113e) |
+| Sat, 26 Apr 2025 17:57:09 GMT | CyberClash - My First Cyber Event | PriOFF | [Read More](https://medium.com/p/338d85c31887) |
+| Sat, 26 Apr 2025 17:57:08 GMT | The Walkaway Gambit | Julien Tenebre | [Read More](https://medium.com/p/acf0a73c0a5d) |
+| Sat, 26 Apr 2025 17:50:11 GMT | Marks & Spencer Cyber Attack: Lessons in Cyber Resilience and Data Protection. | Adrian McGarry | [Read More](https://medium.com/p/29c8cd69faf6) |
 | Sat, 26 Apr 2025 17:26:42 GMT | Hacked Without Touching Your Phone! | YuvaSec | [Read More](https://medium.com/p/042213a15827) |
 | Sat, 26 Apr 2025 17:25:17 GMT | Learning Journey | Alanys Weatherspoon | [Read More](https://medium.com/p/b408b8d05cf0) |
 | Sat, 26 Apr 2025 17:21:37 GMT | Cybersecurity News Review — Week 17 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/49d54be5f25b) |
@@ -110,8 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 11:18:12 GMT | Zero Trust Without Human Trust: Why Technology Alone Can’t Secure an Organization | MrsNo1Special | [Read More](https://medium.com/p/3c716427206e) |
 | Sat, 26 Apr 2025 11:10:03 GMT | What is a SOC 2 Readiness Assessment? A Comprehensive Guide | Finstein.ai | [Read More](https://medium.com/p/465687ab5fca) |
 | Sat, 26 Apr 2025 11:06:59 GMT | Unlock the Power of ChainBounty for Maximum Gains | ChainBounty | [Read More](https://medium.com/p/12adee537cce) |
-| Sat, 26 Apr 2025 11:06:10 GMT | Understanding and Preventing Injection Attacks | Xavier J. Cruz | [Read More](https://medium.com/p/ebd225d3b752) |
-| Sat, 26 Apr 2025 10:47:20 GMT | Vulnerability Assessment and Reverse Engineering (V.A.R.E) Lab #11 | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/30b2072175eb) |
-| Sat, 26 Apr 2025 10:44:04 GMT | North Korean Hackers’ Sneaky Crypto Scam: Fake Firms, Fake Jobs, Real Malware ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/104761fc412d) |
-| Sat, 26 Apr 2025 10:40:19 GMT | Critical SAP NetWeaver Vulnerability CVE-2025–31324: A Zero-Day Nightmare Unleashed | Ismail Tasdelen | [Read More](https://medium.com/p/e873f4862e05) |
-| Sat, 26 Apr 2025 10:36:09 GMT | How AI-Powered Cyberattacks Are Changing the Game in 2025 | PhDPRIMA Research | [Read More](https://medium.com/p/6430b932f8e7) |
