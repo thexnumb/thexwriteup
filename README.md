@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 02:26:15 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 2) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/775614bd6388) |
+| Sat, 26 Apr 2025 02:21:16 GMT | mTLS and OAuth2 — Certificate-Bound Tokens | Sagara Gunathunga | [Read More](https://medium.com/p/8204b7bc5833) |
+| Sat, 26 Apr 2025 02:02:54 GMT | Importance of Auth Delegation in the Agent Era | Yu Ishikawa | [Read More](https://medium.com/p/ef1c6fea3ab7) |
 | Sat, 26 Apr 2025 01:35:40 GMT | Nytheon AI | Tal Eliyahu | [Read More](https://medium.com/p/1cb2cbc069ec) |
 | Sat, 26 Apr 2025 01:21:32 GMT | The Cybersecurity Compass: From Personal Vision to Global Validation | Juan Pablo Castro | [Read More](https://medium.com/p/5585c82ee6da) |
 | Sat, 26 Apr 2025 01:20:00 GMT | First Signatories Kit | Restoration Security | [Read More](https://medium.com/p/6b2598d92c2d) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 16:23:38 GMT | Diffie-Hellman Key Exchange explained step by step | Chibuike Kosisochukwu | [Read More](https://medium.com/p/4a4b98567332) |
 | Fri, 25 Apr 2025 16:21:27 GMT | From Zero to SOAR: A Home Lab Adventure With Splunk | Tijan Hydara | [Read More](https://medium.com/p/a454a347e35f) |
 | Fri, 25 Apr 2025 16:19:12 GMT | Cybersecurity Awareness Training: The First Line of Defense Against Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/0d2c16b5ebf6) |
-| Fri, 25 Apr 2025 16:18:12 GMT | Automating Security Scanning in DevOps | Samareshmaiti | [Read More](https://medium.com/p/54d0ecfaf4bf) |
-| Fri, 25 Apr 2025 16:15:07 GMT | AI-Powered Cybersecurity | MrsNo1Special | [Read More](https://medium.com/p/3b9a08dbbd1c) |
-| Fri, 25 Apr 2025 16:11:41 GMT | Unveiling the Intricacies of AsyncRAT | Cytomate | [Read More](https://medium.com/p/f59c34a09860) |
