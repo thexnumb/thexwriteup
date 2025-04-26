@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 14:09:34 GMT | Censorship and Surveillance in the Digital Age: Part Two | The Censored State | [Read More](https://medium.com/p/2f224dc8b864) |
+| Sat, 26 Apr 2025 14:05:23 GMT | 7 Powerful Must-Watch Thrillers on OTT That’ll Keep You Hooked in 2025 | DownTop | [Read More](https://medium.com/p/5273bd2467e5) |
+| Sat, 26 Apr 2025 13:58:35 GMT | What if finding a simple bug could earn you $75,000? | Awesome Ndaboms | [Read More](https://medium.com/p/de582f83cbb2) |
+| Sat, 26 Apr 2025 13:57:19 GMT | Black Mirror’s ‘Plaything’ Isn’t Just Fiction — It’s a Warning You Might’ve Already Fallen For! | Ravi Verma | [Read More](https://medium.com/p/8985bd930d54) |
+| Sat, 26 Apr 2025 13:49:38 GMT | ToyMaker and LAGTOY: The Sneaky Brokers Fueling CACTUS Ransomware Chaos ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/23deadde55a1) |
+| Sat, 26 Apr 2025 13:42:02 GMT | SSTI (Server-Side Template Injection) ve CSTI (Client-Side Template Injection) NEDİR? | ALPEREN KILINÇ | [Read More](https://medium.com/p/c3bcdc82d236) |
 | Sat, 26 Apr 2025 13:38:57 GMT | Quantum Computing Is Closer Than You Think — But Are We Ready? | Harsh Kumar | [Read More](https://medium.com/p/94159af1f437) |
 | Sat, 26 Apr 2025 13:36:20 GMT | Building a simple Python port scanner | cybertoucan | [Read More](https://medium.com/p/14d3ed050d4d) |
 | Sat, 26 Apr 2025 13:34:34 GMT | Digital Forensics (Part 2): The Importance of Rapid Triage Collection — Kape vs FTK Imager | Dean | [Read More](https://medium.com/p/c7d85b046578) |
@@ -109,9 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 06:47:32 GMT | Important Acronyms for General Security Concepts for CompTIA Security+ (SY0–701) | unica 02 | [Read More](https://medium.com/p/4cc3239cd700) |
 | Sat, 26 Apr 2025 06:40:33 GMT | How to Become a Bug Bounty Hunter & Earn Money Ethically | Sanchitamishra | [Read More](https://medium.com/p/81f02e308081) |
 | Sat, 26 Apr 2025 06:37:59 GMT | SessionShark Toolkit: Evolving Phishing Threats Against MFA Solutions | Nexsecura | [Read More](https://medium.com/p/1dd89ab5a0e9) |
-| Sat, 26 Apr 2025 06:36:33 GMT | Blue Shield Data Breach: Analysis of a Major Health Information Exposure | Nexsecura | [Read More](https://medium.com/p/3b9a8b0a619e) |
-| Sat, 26 Apr 2025 06:15:42 GMT | DeGuard VPN Now Live in WOW EARN Wallet: Your All-in-One Privacy & Security Hub | 0x3dot | [Read More](https://medium.com/p/32102578841f) |
-| Sat, 26 Apr 2025 06:10:52 GMT | Self-Editing Hacks to Sharpen Your Work | Sriram Yaladandi | [Read More](https://medium.com/p/404e593ae8c4) |
-| Sat, 26 Apr 2025 06:08:13 GMT | Cybersecurity and Online Reputation: Protecting Brisbane SMEs | Elevate | [Read More](https://medium.com/p/beb37c7afd67) |
-| Sat, 26 Apr 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Apr 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5607df5f68e5) |
-| Sat, 26 Apr 2025 05:37:58 GMT | Why Centralizing Digital Assets Is the Smartest Move Your Organization Can Make | Ajay Monga | [Read More](https://medium.com/p/04c5eea71fab) |
