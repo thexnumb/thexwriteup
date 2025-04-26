@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 08:02:28 GMT | I used to Pretend I was fine…… | Chinemerem Egbuna | [Read More](https://medium.com/p/127bb04a02b4) |
+| Sat, 26 Apr 2025 07:54:21 GMT | Assessment Methodologies: Footprinting and Scanning CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/ec58dfdc73ce) |
+| Sat, 26 Apr 2025 07:53:03 GMT | Full Guide : Recon to RCE via SMB (137, 138, 139, 445) | Shah kaif | [Read More](https://medium.com/p/bd770aea5341) |
 | Sat, 26 Apr 2025 07:33:26 GMT | The Risks of QR Code Scams & How to Stay Safe | Sanchitamishra | [Read More](https://medium.com/p/dfc56732e839) |
 | Sat, 26 Apr 2025 07:28:00 GMT | How I Catch XSS Bugs That Most Hunters Miss | Abhijeet Kumawat | [Read More](https://medium.com/p/7f226d3a1dea) |
 | Sat, 26 Apr 2025 07:22:23 GMT | Assessment Methodologies: Information Gathering CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/1e509477dd86) |
@@ -112,6 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 25 Apr 2025 19:53:26 GMT | Vulnerabilities Assessment - Hire Hacker - Get Help | BlackHat | [Read More](https://medium.com/p/28f8044678bb) |
 | Fri, 25 Apr 2025 19:51:21 GMT | I’m on TikTok, but Your Elementary School Aged Child Probably Shouldn’t Be | Savvy Cyber Kids | [Read More](https://medium.com/p/af3503226cbe) |
 | Fri, 25 Apr 2025 19:49:32 GMT | Traffic Surge or Cyber Mirage? Let’s Sniff Out the Bots; CAPTCHA, Handle This One — Lock the Gate? | Viv's, Exploring 360° ;) | [Read More](https://medium.com/p/710acf2d7339) |
-| Fri, 25 Apr 2025 19:34:23 GMT | Protect Your New Home From Digital Dangers When You Move | Savvy Cyber Kids | [Read More](https://medium.com/p/835ab8ae7a37) |
-| Fri, 25 Apr 2025 19:27:41 GMT | Let’s Build Agents! | Mary Becken | [Read More](https://medium.com/p/1f143162e76d) |
-| Fri, 25 Apr 2025 19:27:35 GMT | Federated Learning model work process | Md.Mahabub Hasan Mamun | [Read More](https://medium.com/p/e388bc7a1235) |
