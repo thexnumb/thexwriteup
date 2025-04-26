@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 16:34:42 GMT | How Hackers Use Images, PDFs, and Voice Messages to Hack Devices? | Vishnu | [Read More](https://medium.com/p/e0c903e369bc) |
+| Sat, 26 Apr 2025 16:26:09 GMT | Tips to save your digital footprints | NANDINI NANDAKUMAR | [Read More](https://medium.com/p/95772c7b7a3c) |
+| Sat, 26 Apr 2025 16:23:24 GMT | “Pen testing with Default Credentials: A Step-by-Step Attack Simulation” | Pooja Madivalar | [Read More](https://medium.com/p/f65aba8805d6) |
+| Sat, 26 Apr 2025 16:18:08 GMT | ColdBoxEasy Walkthrough - Proving Grounds Play | Adam Bartlett | [Read More](https://medium.com/p/e0bf33afa512) |
 | Sat, 26 Apr 2025 16:13:28 GMT | Work Securely with a Private Server and Linux Laptop | Asterios Raptis | [Read More](https://medium.com/p/142313aa52b1) |
 | Sat, 26 Apr 2025 16:13:10 GMT | How I Conquered OSCP, OSCP+, OSEP, OSWA, OSWE, OSED, OSCE³, eCPPT, CEH Practical — all in 12 Months | Pratham Shah | [Read More](https://medium.com/p/361ad2f68d8d) |
 | Sat, 26 Apr 2025 16:05:20 GMT | Artificial Intelligence in Cyber Warfare: The Silent Threat No One Talks About! | Maha althobaiti | [Read More](https://medium.com/p/a0cee51c6a2f) |
@@ -24,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 15:42:55 GMT | The Problem of One Night: Can Europe Respond Before Dawn? | Adam Gazdiev | [Read More](https://medium.com/p/b2578a510343) |
 | Sat, 26 Apr 2025 15:37:01 GMT | Authentication Bypass on famous cricket website | BalaramaKrishna | [Read More](https://medium.com/p/54cf1cbe173b) |
 | Sat, 26 Apr 2025 15:22:26 GMT | Attack Detection with Artificial Intelligence and Machine Learning ️ | Esra Kayhan | [Read More](https://medium.com/p/155f8459ef43) |
+| Sat, 26 Apr 2025 15:16:27 GMT | Más Allá del Login: Cómo Proteger Tu Frontend Contra Ataques Comunes. | Cristian Cumplido | [Read More](https://medium.com/p/9c5594e67088) |
 | Sat, 26 Apr 2025 15:15:16 GMT | Cybersecurity Leaders Are Staying in The Shadows | Stephen Pao | [Read More](https://medium.com/p/6030784d0318) |
 | Sat, 26 Apr 2025 15:11:07 GMT | XSS Vulnerability on One of the Top 10 Universities in India | Syed Mushir | [Read More](https://medium.com/p/a2088fd31ef5) |
 | Sat, 26 Apr 2025 15:07:57 GMT | Inside Anonymous: The Mysterious Hacktivist Group That Shaped Cybersecurity | Michael Younsi | [Read More](https://medium.com/p/c13f803fe90b) |
@@ -66,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 12:56:01 GMT | LE RADA-COLLIER MYSTIQUE. GRAND SAGE AZIHOU
 Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https://medium.com/p/5bbcb4ee3c70) |
 | Sat, 26 Apr 2025 12:52:57 GMT | Day 1: Starting My Cybersecurity Journey | Uijin Lee | [Read More](https://medium.com/p/5f247acf840c) |
+| Sat, 26 Apr 2025 12:51:03 GMT | Vulneralibility 101 : Mengenal Celah Keamanan dalam Dunia Hacking | Princex. | [Read More](https://medium.com/p/f3387e1c0989) |
 | Sat, 26 Apr 2025 12:41:21 GMT | Breaking File Upload Security: Finding Hidden XSS | Isv | [Read More](https://medium.com/p/cfc6e38bcee3) |
 | Sat, 26 Apr 2025 12:37:13 GMT | ️ Mastering Sysmon: The Essential Tool for Deep Windows Monitoring | Furkanctiner | [Read More](https://medium.com/p/ee9dd801e750) |
 | Sat, 26 Apr 2025 12:32:28 GMT | Top 10 Beginner Setup Problems in HTB and Bug Bounty (and How to Fix Them Fast) | Very Lazy Tech | [Read More](https://medium.com/p/1f9a278415ea) |
@@ -109,9 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 10:05:16 GMT | ✨ A Deep Dive:Nmap Scanning with Wireshark | 0b1d1 | [Read More](https://medium.com/p/40ea0ecb2eee) |
 | Sat, 26 Apr 2025 09:58:38 GMT | How I Bypassed Authentication on a Funded Fashion Site — And Took Over an Account | Rolextital | [Read More](https://medium.com/p/8b8a9189fb4a) |
 | Sat, 26 Apr 2025 09:56:56 GMT | The Easiest $350 Bounty I’ve Ever Earned — In Just 10 Minutes! | Mohit Kumar | [Read More](https://medium.com/p/c129a21fc8ab) |
-| Sat, 26 Apr 2025 09:49:23 GMT | How to Set Up Linux on VMware: A Complete Beginner’s Guide | Hitesh Sonawane | [Read More](https://medium.com/p/1052b782bab1) |
-| Sat, 26 Apr 2025 09:44:41 GMT | A Step-by-Step Guide on How to Farm $BUG from Bug | Bug | [Read More](https://medium.com/p/af11f4f8210c) |
-| Sat, 26 Apr 2025 09:44:21 GMT | Importance of Cybersecurity in the Digital Age | Shashwat Patel | [Read More](https://medium.com/p/ae48e5fc805d) |
-| Sat, 26 Apr 2025 09:42:20 GMT | THM - Whats Your Name? | Francesco Pastore | [Read More](https://medium.com/p/bb660a783867) |
-| Sat, 26 Apr 2025 09:29:05 GMT | The Hidden Param That Opened the Vault: A Dirty Param Tampering Tale | Iski | [Read More](https://medium.com/p/52bfac3539fd) |
-| Sat, 26 Apr 2025 09:20:10 GMT | Cybersecurity Audit Vault | Meravytes | [Read More](https://medium.com/p/49d14dc0ea56) |
