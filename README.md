@@ -14,6 +14,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 22:06:24 GMT | Threat Actors Employing SessionShark to Bypass Office 365 MFA Defenses. | current.cybersecurity | [Read More](https://medium.com/p/0771cf7bb414) |
+| Sat, 26 Apr 2025 22:05:13 GMT | How to Get the Install Source of an Application in Android | Burak Taşcı | [Read More](https://medium.com/p/dae7e3c49fbf) |
+| Sat, 26 Apr 2025 22:04:12 GMT | How Retrieval-Augmented Generation (RAG) AI Models Are Shaping the Future of Efficiency in Business | Naiv | [Read More](https://medium.com/p/ca3cd00f3b74) |
+| Sat, 26 Apr 2025 22:00:46 GMT | Almoristics Application: The Sneaky Crypto Miner Stealing Your PC’s Power | Brendan Smith | [Read More](https://medium.com/p/ea31f7c57e37) |
+| Sat, 26 Apr 2025 21:57:35 GMT | No Villains, No victims | Jamal M. Edwards | [Read More](https://medium.com/p/6f20e3ef37a0) |
+| Sat, 26 Apr 2025 21:56:12 GMT | You Can Point a Gun at Me. Just Don’t Say You Care | Lilé van der Weijden | [Read More](https://medium.com/p/90e92be4762b) |
+| Sat, 26 Apr 2025 21:54:35 GMT | A guide to build Burp Suite extensions using Montoya API & Java | Hosam Gemei | [Read More](https://medium.com/p/a8256a169bee) |
+| Sat, 26 Apr 2025 21:44:43 GMT | How Many Ethical Hackers Are Out There? A Global Look Through Google Bug Hunters Data | embossdotar | [Read More](https://medium.com/p/a09fb8e2329e) |
+| Sat, 26 Apr 2025 21:43:43 GMT | Mastering AWS Security Specialty — Post 1: Deep Dive into IAM — Core of AWS Security | Suman Thallapelly | [Read More](https://medium.com/p/3f703c867cfa) |
+| Sat, 26 Apr 2025 21:26:25 GMT | Blue Team Perspektifiyle Web Güvenliği: OWASP Top 10 ve Savunma Rehberi | Berkay Köseoğlu | [Read More](https://medium.com/p/8646d803a45f) |
 | Sat, 26 Apr 2025 21:18:52 GMT | The Web of Trust: Episode 1 — The First Red Flag | Utibe OwoAbasi Obot | [Read More](https://medium.com/p/1f4107044c6a) |
 | Sat, 26 Apr 2025 20:57:27 GMT | DHCP, the IP manager! | Sadra Bakhtiari | [Read More](https://medium.com/p/9ffba56e0eca) |
 | Sat, 26 Apr 2025 20:38:42 GMT | Subdomain Takeover on VDP | Vasu Bhan | [Read More](https://medium.com/p/32cac749bf16) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 13:58:35 GMT | What if finding a simple bug could earn you $75,000? | Awesome Ndaboms | [Read More](https://medium.com/p/de582f83cbb2) |
 | Sat, 26 Apr 2025 13:57:19 GMT | Black Mirror’s ‘Plaything’ Isn’t Just Fiction — It’s a Warning You Might’ve Already Fallen For! | Ravi Verma | [Read More](https://medium.com/p/8985bd930d54) |
 | Sat, 26 Apr 2025 13:49:38 GMT | ToyMaker and LAGTOY: The Sneaky Brokers Fueling CACTUS Ransomware Chaos ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/23deadde55a1) |
-| Sat, 26 Apr 2025 13:42:02 GMT | SSTI (Server-Side Template Injection) ve CSTI (Client-Side Template Injection) NEDİR? | ALPEREN KILINÇ | [Read More](https://medium.com/p/c3bcdc82d236) |
-| Sat, 26 Apr 2025 13:38:57 GMT | Quantum Computing Is Closer Than You Think — But Are We Ready? | Harsh Kumar | [Read More](https://medium.com/p/94159af1f437) |
-| Sat, 26 Apr 2025 13:36:20 GMT | Building a simple Python port scanner | cybertoucan | [Read More](https://medium.com/p/14d3ed050d4d) |
-| Sat, 26 Apr 2025 13:34:34 GMT | Digital Forensics (Part 2): The Importance of Rapid Triage Collection — Kape vs FTK Imager | Dean | [Read More](https://medium.com/p/c7d85b046578) |
-| Sat, 26 Apr 2025 13:32:39 GMT | Locking Down Your Smart Home: The Essential Privacy Toolkit I Learned the Hard Way | Maruti | [Read More](https://medium.com/p/7f487cbd7233) |
-| Sat, 26 Apr 2025 13:27:03 GMT | caas - Writeup | Marvin | [Read More](https://medium.com/p/fee60b4f0869) |
-| Sat, 26 Apr 2025 13:18:09 GMT | How I Explained Angular Security During My Interview (And What You Should Know Too) | Manish Chauhan | [Read More](https://medium.com/p/eda6a8e20c04) |
-| Sat, 26 Apr 2025 13:12:33 GMT | Exposing a Silent Threat: My Apple ID Was Cloned , and Apple Tried to Hide It | Jamilah McCray | [Read More](https://medium.com/p/77d08260f4ed) |
-| Sat, 26 Apr 2025 13:05:55 GMT | Top Open-Source Blue Team Tools: Fortifying Cyber Defenses | Pawan Jaiswal | [Read More](https://medium.com/p/39ee0a26a418) |
-| Sat, 26 Apr 2025 13:04:18 GMT | Free SSL vs Paid SSL: Which Is Better for UK Businesses in 2025? | Swapnil S. | [Read More](https://medium.com/p/68aa8f675ed3) |
