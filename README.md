@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 21:18:52 GMT | The Web of Trust: Episode 1 — The First Red Flag | Utibe OwoAbasi Obot | [Read More](https://medium.com/p/1f4107044c6a) |
 | Sat, 26 Apr 2025 20:57:27 GMT | DHCP, the IP manager! | Sadra Bakhtiari | [Read More](https://medium.com/p/9ffba56e0eca) |
 | Sat, 26 Apr 2025 20:38:42 GMT | Subdomain Takeover on VDP | Vasu Bhan | [Read More](https://medium.com/p/32cac749bf16) |
 | Sat, 26 Apr 2025 20:34:36 GMT | Review of the “Introduction to Cyber Attacks” Course from YNU | Mohammed al Mughaleq | [Read More](https://medium.com/p/b00fe11d6234) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 13:12:33 GMT | Exposing a Silent Threat: My Apple ID Was Cloned , and Apple Tried to Hide It | Jamilah McCray | [Read More](https://medium.com/p/77d08260f4ed) |
 | Sat, 26 Apr 2025 13:05:55 GMT | Top Open-Source Blue Team Tools: Fortifying Cyber Defenses | Pawan Jaiswal | [Read More](https://medium.com/p/39ee0a26a418) |
 | Sat, 26 Apr 2025 13:04:18 GMT | Free SSL vs Paid SSL: Which Is Better for UK Businesses in 2025? | Swapnil S. | [Read More](https://medium.com/p/68aa8f675ed3) |
-| Sat, 26 Apr 2025 13:02:55 GMT | How I Bypassed a WAF & Found My First XSS Bug | Ibtissam Hammadi | [Read More](https://medium.com/p/22429d7a3655) |
