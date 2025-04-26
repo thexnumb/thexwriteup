@@ -14,6 +14,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 26 Apr 2025 15:15:16 GMT | Cybersecurity Leaders Are Staying in The Shadows | Stephen Pao | [Read More](https://medium.com/p/6030784d0318) |
+| Sat, 26 Apr 2025 15:11:07 GMT | XSS Vulnerability on One of the Top 10 Universities in India | Syed Mushir | [Read More](https://medium.com/p/a2088fd31ef5) |
+| Sat, 26 Apr 2025 15:07:57 GMT | Inside Anonymous: The Mysterious Hacktivist Group That Shaped Cybersecurity | Michael Younsi | [Read More](https://medium.com/p/c13f803fe90b) |
+| Sat, 26 Apr 2025 15:06:01 GMT | SSH Tunneling and VPN for Secure Connections | Esra Kayhan | [Read More](https://medium.com/p/cae286204445) |
+| Sat, 26 Apr 2025 15:05:33 GMT | How I Chained Template Injections Across Pages to Trigger Reflected XSS | Zoningxtr | [Read More](https://medium.com/p/5d4ef68efac5) |
+| Sat, 26 Apr 2025 15:04:44 GMT | New SAP NetWeaver Zero-Day Exploited to Drop Web Shells and Brute Ratel Framework | Kawya De Silva | [Read More](https://medium.com/p/e2cc54de4876) |
+| Sat, 26 Apr 2025 15:02:00 GMT | Google Dorking Project | Mylescorey | [Read More](https://medium.com/p/4cfc708e0db8) |
+| Sat, 26 Apr 2025 15:00:37 GMT | Yale New Haven Health Data Breach: 5.5 Million Patients Exposed | Ismail Tasdelen | [Read More](https://medium.com/p/44cc16ad4708) |
+| Sat, 26 Apr 2025 14:59:42 GMT | How I Created an AI Agent to Find Bugs Using Google ADK | BitEval | [Read More](https://medium.com/p/37f7a3673ec3) |
+| Sat, 26 Apr 2025 14:57:10 GMT | Developing Penetration Testing (Pentest) Tools with Python | Esra Kayhan | [Read More](https://medium.com/p/d81368401208) |
+| Sat, 26 Apr 2025 14:50:39 GMT | Waiting for admin approve , I don’t think so ! | Abdallah Ehab | [Read More](https://medium.com/p/195a042f913e) |
+| Sat, 26 Apr 2025 14:47:09 GMT | Security Policies: A Comprehensive Guide for Organizations ️ | Esra Kayhan | [Read More](https://medium.com/p/23ace4deac0c) |
+| Sat, 26 Apr 2025 14:44:00 GMT | Google Antritust Again | Mohammed Brückner | [Read More](https://medium.com/p/318d06c3ba9e) |
+| Sat, 26 Apr 2025 14:41:39 GMT | Access Control Models: An Overview Based on Security Levels | Md. Shefayer Ahmed | [Read More](https://medium.com/p/2c09dae99bf7) |
+| Sat, 26 Apr 2025 14:41:35 GMT | How JWT (JSON Web Token) Works in Depth: A Complete Guide | Vaibhav saxena | [Read More](https://medium.com/p/57ee72562f49) |
+| Sat, 26 Apr 2025 14:39:25 GMT | ICTF 25 Stargazers Writeups | Aldolim | [Read More](https://medium.com/p/d47507c26c97) |
+| Sat, 26 Apr 2025 14:38:50 GMT | Ethical Hacking 101: Become a Cyber Guardian, Not a Villain | Yogesh Raghav | [Read More](https://medium.com/p/164a4d824d5a) |
 | Sat, 26 Apr 2025 14:26:49 GMT | Cyber Password Toolkit | Vinu Varshith Alagappan | [Read More](https://medium.com/p/2bb94ca808b9) |
 | Sat, 26 Apr 2025 14:25:59 GMT | How I Found a Critical Security Flaw and Earned a Reward on a VDP | Lux Angelo | [Read More](https://medium.com/p/019ebec71a74) |
 | Sat, 26 Apr 2025 14:13:43 GMT | Securing Sensitive Data in PostgreSQL: A Comprehensive Guide to Data Anonymization | Shailesh Kumar Mishra | [Read More](https://medium.com/p/61d0d59075fb) |
@@ -98,20 +115,3 @@ Téléphone WhatsApp: 00229 94 7369 37 | AZIHOU LANTAN SAGE | [Read More](https:
 | Sat, 26 Apr 2025 08:33:52 GMT | Session Private Messenger: A look at Features, Privacy, Security, and Usage | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/db4504ebe605) |
 | Sat, 26 Apr 2025 08:33:37 GMT | Assessment Methodologies: Enumeration CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/864a12e58239) |
 | Sat, 26 Apr 2025 08:30:03 GMT | TryHackMe - Abusing Windows Internals - WriteUp | Axoloth | [Read More](https://medium.com/p/7a4748d76ea0) |
-| Sat, 26 Apr 2025 08:02:28 GMT | I used to Pretend I was fine…… | Chinemerem Egbuna | [Read More](https://medium.com/p/127bb04a02b4) |
-| Sat, 26 Apr 2025 07:54:21 GMT | Assessment Methodologies: Footprinting and Scanning CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/ec58dfdc73ce) |
-| Sat, 26 Apr 2025 07:53:03 GMT | Full Guide : Recon to RCE via SMB (137, 138, 139, 445) | Shah kaif | [Read More](https://medium.com/p/bd770aea5341) |
-| Sat, 26 Apr 2025 07:33:26 GMT | The Risks of QR Code Scams & How to Stay Safe | Sanchitamishra | [Read More](https://medium.com/p/dfc56732e839) |
-| Sat, 26 Apr 2025 07:28:00 GMT | How I Catch XSS Bugs That Most Hunters Miss | Abhijeet Kumawat | [Read More](https://medium.com/p/7f226d3a1dea) |
-| Sat, 26 Apr 2025 07:22:23 GMT | Assessment Methodologies: Information Gathering CTF 1 | Md. Imran Chowdhury | [Read More](https://medium.com/p/1e509477dd86) |
-| Sat, 26 Apr 2025 07:19:47 GMT | Anthropic’s Alarming Report Shows How Claude Is Being Weaponized | AI Tech Toolbox | [Read More](https://medium.com/p/93f26abc4c50) |
-| Sat, 26 Apr 2025 07:18:12 GMT | Misconfiguration on MinIO S3 Bucket (Similar to AWS S3 Misconfig) | Frostyxsec | [Read More](https://medium.com/p/a6754d29d011) |
-| Sat, 26 Apr 2025 07:13:18 GMT | Metasploitable Exploit Adımları: İlk Sızma Deneyimim | Aysenur | [Read More](https://medium.com/p/f6f554a1b33c) |
-| Sat, 26 Apr 2025 07:11:04 GMT | OAuth Desync Chain: From Smuggling to Session Hijack Without Credentials | m6r001 | [Read More](https://medium.com/p/3959cedaf579) |
-| Sat, 26 Apr 2025 07:10:43 GMT | The One Skill That Separates Real Hackers from Script Kiddies — And It’s Not Coding | KrVikash | [Read More](https://medium.com/p/b66bf20df2ad) |
-| Sat, 26 Apr 2025 07:07:25 GMT | Server Room Shenanigans | Dharmendrasuralkar | [Read More](https://medium.com/p/5efa8bc10215) |
-| Sat, 26 Apr 2025 07:07:12 GMT | Boost Your Bounty $BNTY Earnings in Just a Few Steps | Bounty | [Read More](https://medium.com/p/da66378f823d) |
-| Sat, 26 Apr 2025 07:03:42 GMT | ⏱️ There were no visible errors, no hints… only the server’s hesitation told me the truth. | phoenixcatalan | [Read More](https://medium.com/p/7b4987f10444) |
-| Sat, 26 Apr 2025 07:03:15 GMT | Path Traversal Attack: How I Accessed Admin Secrets | Vipul Sonule | [Read More](https://medium.com/p/fa5de1865031) |
-| Sat, 26 Apr 2025 06:58:18 GMT | Unlock Healthcare Efficiency with Facial Recognition Devices from Tektronix Technologies in Dubai… | Aafiya | [Read More](https://medium.com/p/f96b2270b6b1) |
-| Sat, 26 Apr 2025 06:57:40 GMT | Command and Control: Why the CIO Must Lead Cyber War Games and Tabletop Exercises. | Sanjay K Mohindroo | [Read More](https://medium.com/p/f1f0b4c686d4) |
