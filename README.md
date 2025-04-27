@@ -14,7 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 05:23:15 GMT | Cyber Security for B.Tech | 19 Tanish Pravinraoji Dewase! | [Read More](https://medium.com/p/697318e7cd37) |
+| Sun, 27 Apr 2025 05:17:19 GMT | The Linux Security Journey — UFW (Uncomplicated Firewall) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b1c407135abd) |
+| Sun, 27 Apr 2025 05:17:11 GMT | The Red Teaming: 30-Day Challenge[13] | Bl@ckC!pH3r | [Read More](https://medium.com/p/ea4589b4ae37) |
 | Sun, 27 Apr 2025 05:14:50 GMT | The Hidden Cost of Ignoring Cybersecurity: A $4M Data Breach Case Study | Ahmad Javed | [Read More](https://medium.com/p/07abdc9e9f81) |
+| Sun, 27 Apr 2025 05:13:32 GMT | Understanding XSS (Cross-Site Scripting) | Parthchheda | [Read More](https://medium.com/p/4cfbcc7bab2e) |
+| Sun, 27 Apr 2025 05:13:04 GMT | APT36 Uses “Pahalgam Terror Attack” Lure in Targeted Phishing Against Indian Defense Personnel &… | D09r | [Read More](https://medium.com/p/4b407f09b9a0) |
 | Sun, 27 Apr 2025 05:04:37 GMT | BSidesSF2025 CTF Write-Up: Detector | ghost@ | [Read More](https://medium.com/p/f7d3077d163a) |
 | Sun, 27 Apr 2025 05:02:37 GMT | 5 Linux Hardening Techniques I Apply Before Hosting Any Website | Faruk Ahmed | [Read More](https://medium.com/p/d3a58c9836ff) |
 | Sun, 27 Apr 2025 04:56:30 GMT | $600 Bounty received but in Parallel Universe | AbhirupKonwar | [Read More](https://medium.com/p/a5466300446d) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 18:26:18 GMT | Digital Nihilism: Does Constant Access to Information Erode Meaning? | Modern Philosophy 101 | [Read More](https://medium.com/p/c4f261a33dce) |
 | Sat, 26 Apr 2025 18:22:40 GMT | The Effects of Climate Change on Economic Security | Imali | [Read More](https://medium.com/p/fc9928e0adb2) |
 | Sat, 26 Apr 2025 18:22:18 GMT | Hutch Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/5f41da3abe87) |
-| Sat, 26 Apr 2025 18:19:53 GMT | Is Death Really the End? Quantum Physics Offers a Mind-Bending Possibility | Emily Wilson | [Read More](https://medium.com/p/44a854023cef) |
-| Sat, 26 Apr 2025 18:18:02 GMT | New Customs Values Announced for iPhones | Osama Khan | [Read More](https://medium.com/p/d2a1fb19d69c) |
-| Sat, 26 Apr 2025 17:58:51 GMT | CVE-2025–22234: Vulnerabilidade de Timing Attack no Spring Security | Sergio Lopes | [Read More](https://medium.com/p/285504ef113e) |
-| Sat, 26 Apr 2025 17:57:09 GMT | CyberClash - My First Cyber Event | PriOFF | [Read More](https://medium.com/p/338d85c31887) |
-| Sat, 26 Apr 2025 17:57:08 GMT | The Walkaway Gambit | Julien Tenebre | [Read More](https://medium.com/p/acf0a73c0a5d) |
