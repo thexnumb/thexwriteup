@@ -14,6 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 17:15:00 GMT | OutSystems Security Rules You Must Follow | reem hamdan | [Read More](https://medium.com/p/9f3f5942a1a0) |
+| Sun, 27 Apr 2025 17:08:55 GMT | Smuggling My Way Past Frontend Filters: A Fun Find on HackerOne | Ayush Kumar | [Read More](https://medium.com/p/4424dad3a16e) |
+| Sun, 27 Apr 2025 17:07:07 GMT | SwitchBot Smart Home Solutions | waterspaul3803 | [Read More](https://medium.com/p/812612ac3bb8) |
+| Sun, 27 Apr 2025 17:06:15 GMT | Why Startups Need Architects Before They Need Strategists | Liat Portal | [Read More](https://medium.com/p/16d1d79b83b3) |
+| Sun, 27 Apr 2025 16:53:07 GMT | SQUID HUNT Walkthrough | Utkarsh Aggarwal | [Read More](https://medium.com/p/9d2866440925) |
+| Sun, 27 Apr 2025 16:46:50 GMT | Identify Common Open Port Vulnerabilities in Your Network | Ssali Prosper Yasin | [Read More](https://medium.com/p/6b01bd54250c) |
+| Sun, 27 Apr 2025 16:45:36 GMT | Earn More, Risk Less: Curvance $CVE the Smart Way | Curvance | [Read More](https://medium.com/p/eaba3ad4f874) |
+| Sun, 27 Apr 2025 16:44:49 GMT | Guerilla Malware: How a New Android Banking Trojan Is Stealing Millions in 2024 | KLEAP Institute of Information Security | [Read More](https://medium.com/p/2de5bdaeeb47) |
 | Sun, 27 Apr 2025 16:27:42 GMT | My Security Journey | Kijo Ninja | [Read More](https://medium.com/p/96e65f025146) |
 | Sun, 27 Apr 2025 16:26:24 GMT | HackTheBox - Builder | jniket | [Read More](https://medium.com/p/15e7644d96fa) |
 | Sun, 27 Apr 2025 16:18:45 GMT | Paper Reading — On the Instability of Bitcoin Without the Block Reward | JingAnSi | [Read More](https://medium.com/p/eb2a469569aa) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 09:41:51 GMT | What Does SafeLine Add on Top of Cloudflare? | Quella | [Read More](https://medium.com/p/3ee709c71384) |
 | Sun, 27 Apr 2025 09:40:01 GMT | From SQL Injection to Weak Passwords : A Deep Dive into a Tamil Nadu Government Security Flaw | B4LOGI | [Read More](https://medium.com/p/1b648d62d457) |
 | Sun, 27 Apr 2025 09:36:12 GMT | Introduction to Web Applications -HackThebox Walkthrough | Laaaks | [Read More](https://medium.com/p/dfe9c1eb68ef) |
-| Sun, 27 Apr 2025 09:28:19 GMT | Secure Notes Mobile Hacking Lab Write-up | DJumanto | [Read More](https://medium.com/p/a6b94557948c) |
-| Sun, 27 Apr 2025 09:20:36 GMT | Information disclosure in error messages — Lab Walkthrough | Dev-angelist | [Read More](https://medium.com/p/2acfa197ad2c) |
-| Sun, 27 Apr 2025 09:16:37 GMT | Why Cloud Security is the Next Big Thing in Tech | Ahmad Javed | [Read More](https://medium.com/p/7a292fc239a4) |
-| Sun, 27 Apr 2025 09:10:30 GMT | SafeLine vs Cloudflare WAF vs Fastly WAF — Detailed Feature Comparison | Quella | [Read More](https://medium.com/p/82711b51a210) |
-| Sun, 27 Apr 2025 09:07:14 GMT | Storm-1977’s Crypto Heist: How AzureChecker Turned Education Clouds into Mining Rigs | Ismail Tasdelen | [Read More](https://medium.com/p/b05802062382) |
-| Sun, 27 Apr 2025 09:06:49 GMT | How to Forward CloudFlare IP to SafeLine WAF | Loria | [Read More](https://medium.com/p/c2afab5db86a) |
-| Sun, 27 Apr 2025 08:57:23 GMT | How to Install and Use SQLmap in Termux: A Complete Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/0e161cb7f6ef) |
-| Sun, 27 Apr 2025 08:55:39 GMT | Why Can’t a WAF Protect Against Layer 4 Attacks? | Loria | [Read More](https://medium.com/p/33c3d4e8ef19) |
