@@ -14,6 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 14:36:37 GMT | HiddenLayer's Research on Universal Prompt Injection Bypass | Φiriki Intelligence | [Read More](https://medium.com/p/89a91473eac9) |
+| Sun, 27 Apr 2025 14:33:17 GMT | What’s Up with doh.dns.apple.com? Investigating Apple’s DoH Responder | Matt Pawloski | [Read More](https://medium.com/p/fce376a19052) |
+| Sun, 27 Apr 2025 14:32:08 GMT | ️ Understanding Osquery: A Practical Introduction | Furkanctiner | [Read More](https://medium.com/p/0cb0d58a8260) |
+| Sun, 27 Apr 2025 14:25:15 GMT | Sliver Shellcode: Bypassing AV with Fuscation | Lukas Kinneberg | [Read More](https://medium.com/p/648c92497b27) |
+| Sun, 27 Apr 2025 14:23:09 GMT | Why App Stores Exist And Many Developers Never Welcome Them | Jan Kammerath | [Read More](https://medium.com/p/84c1ca9fc07a) |
+| Sun, 27 Apr 2025 14:19:39 GMT | Enabling Remote Desktop and SSH access to Kali | Md Zishan Firoz | [Read More](https://medium.com/p/e18cadae12a9) |
+| Sun, 27 Apr 2025 14:18:50 GMT | The dangerous direction of modern password management | Roman Maksimovich | [Read More](https://medium.com/p/9bb2c3034b5c) |
+| Sun, 27 Apr 2025 14:15:34 GMT | Oversharing with AI: Why Workplace Privacy Needs a Wake-Up Call | Dushyanth Chowdary | [Read More](https://medium.com/p/909510ebff48) |
 | Sun, 27 Apr 2025 14:09:54 GMT | ️ HackTheBox Kerala — Unleashing Cyber Talent from God’s Own Country | Karthik Krishnan | [Read More](https://medium.com/p/edb2e802ab5a) |
 | Sun, 27 Apr 2025 14:07:17 GMT | IT Solutions for Education: Enhancing Learning and Innovation | Rapidise Inc | [Read More](https://medium.com/p/c6ba75fc3758) |
 | Sun, 27 Apr 2025 14:03:07 GMT | Automating CVE Data Collection with Web Scrapping | Handhika Yanuar Pratama | [Read More](https://medium.com/p/966323bde819) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 07:17:41 GMT | How to Run a Vulnerability Scan (And Avoid the Nightmare That Cost Me $5k) | Ahmad Javed | [Read More](https://medium.com/p/5d797c114829) |
 | Sun, 27 Apr 2025 07:16:56 GMT | Safe on the Surface: The Security We Buy vs. the Data We Lose | Ritu Vinayak Ahire | [Read More](https://medium.com/p/7ff8a9ba67ce) |
 | Sun, 27 Apr 2025 07:10:30 GMT | On the feasibility of cyber weapon controls: An examination of the technical and geopolitical… | syro | [Read More](https://medium.com/p/5d06ada5e082) |
-| Sun, 27 Apr 2025 07:05:34 GMT | Call for Responsible Openness | Enkrypt AI | [Read More](https://medium.com/p/368fc15443e9) |
-| Sun, 27 Apr 2025 07:05:09 GMT | Why Dark Web Monitoring Has to Account for Emojis | Matt Black | [Read More](https://medium.com/p/4610e2e28737) |
-| Sun, 27 Apr 2025 07:01:26 GMT | How the Unix Kernel Was Made | Pawan Chauhan | [Read More](https://medium.com/p/7488e0a4fa64) |
-| Sun, 27 Apr 2025 06:59:06 GMT | “23 Million Digital IDs Exposed: The Full Story Behind SK Telecom’s SIM Data Breach” | Mia Story | [Read More](https://medium.com/p/259afeb701d9) |
-| Sun, 27 Apr 2025 06:57:13 GMT | A Complete Guide to Linux Terminal Commands (2025) | Raj Sharma | [Read More](https://medium.com/p/45f5c5c7a881) |
-| Sun, 27 Apr 2025 06:57:11 GMT | What I want in love | Awele Ozieh | [Read More](https://medium.com/p/50d41617df32) |
-| Sun, 27 Apr 2025 06:56:42 GMT | DNS Tunneling with dnscat2: Command Execution Over DNS Packets | Gopu Nair | [Read More](https://medium.com/p/a69970400bc4) |
-| Sun, 27 Apr 2025 06:56:32 GMT | How I Taught Myself AI Without a Degree (And How You Can Too) | Tech Jolt | [Read More](https://medium.com/p/6a85654318e7) |
