@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 15:07:59 GMT | Bridging the Cybersecurity Talent Conundrum: A Comprehensive Detour | Firzan Irfandi Firman | [Read More](https://medium.com/p/f70e9c00d8b3) |
+| Sun, 27 Apr 2025 15:02:06 GMT | Google Dorking Pt 2 | Mylescorey | [Read More](https://medium.com/p/7bcd56bd9bc8) |
+| Sun, 27 Apr 2025 15:01:40 GMT | Why SPAs Are Considered Public Clients ? | Niluka Sripali Monnankulama | [Read More](https://medium.com/p/3672b9715d10) |
+| Sun, 27 Apr 2025 14:55:18 GMT | Wireshark: A Beginner’s Guide | 0b1d1 | [Read More](https://medium.com/p/ac54d358525b) |
+| Sun, 27 Apr 2025 14:53:53 GMT | a | Visual Monitoring Solutions | [Read More](https://medium.com/p/6f695221dc15) |
 | Sun, 27 Apr 2025 14:36:37 GMT | HiddenLayer's Research on Universal Prompt Injection Bypass | Φiriki Intelligence | [Read More](https://medium.com/p/89a91473eac9) |
 | Sun, 27 Apr 2025 14:33:17 GMT | What’s Up with doh.dns.apple.com? Investigating Apple’s DoH Responder | Matt Pawloski | [Read More](https://medium.com/p/fce376a19052) |
 | Sun, 27 Apr 2025 14:32:08 GMT | ️ Understanding Osquery: A Practical Introduction | Furkanctiner | [Read More](https://medium.com/p/0cb0d58a8260) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 07:50:06 GMT | Implementing Zero Trust Security for Spring Boot Applications in Kubernetes | ThamizhElango Natarajan | [Read More](https://medium.com/p/6f3a9ce1f124) |
 | Sun, 27 Apr 2025 07:45:46 GMT | Your CMS Could Be Under Attack Right Now As I Write This — Here's How to Protect It | Amaka okoye | [Read More](https://medium.com/p/e30a986b75db) |
 | Sun, 27 Apr 2025 07:43:49 GMT | Building Privacy-First AI Systems Using Fully Homomorphic Encryption (FHE) | Prathamesh Kodgire | [Read More](https://medium.com/p/b8dca875ecc0) |
-| Sun, 27 Apr 2025 07:33:36 GMT | HTB: Cap (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/08d7ddccbac7) |
-| Sun, 27 Apr 2025 07:23:01 GMT | Lock Your Supply Cabinet | Mr Success | [Read More](https://medium.com/p/b09b46e6f5d4) |
-| Sun, 27 Apr 2025 07:17:41 GMT | How to Run a Vulnerability Scan (And Avoid the Nightmare That Cost Me $5k) | Ahmad Javed | [Read More](https://medium.com/p/5d797c114829) |
-| Sun, 27 Apr 2025 07:16:56 GMT | Safe on the Surface: The Security We Buy vs. the Data We Lose | Ritu Vinayak Ahire | [Read More](https://medium.com/p/7ff8a9ba67ce) |
-| Sun, 27 Apr 2025 07:10:30 GMT | On the feasibility of cyber weapon controls: An examination of the technical and geopolitical… | syro | [Read More](https://medium.com/p/5d06ada5e082) |
