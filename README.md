@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 07:10:30 GMT | On the feasibility of cyber weapon controls: An examination of the technical and geopolitical… | syro | [Read More](https://medium.com/p/5d06ada5e082) |
+| Sun, 27 Apr 2025 07:05:34 GMT | Call for Responsible Openness | Enkrypt AI | [Read More](https://medium.com/p/368fc15443e9) |
+| Sun, 27 Apr 2025 07:05:09 GMT | Why Dark Web Monitoring Has to Account for Emojis | Matt Black | [Read More](https://medium.com/p/4610e2e28737) |
+| Sun, 27 Apr 2025 07:01:26 GMT | How the Unix Kernel Was Made | Pawan Chauhan | [Read More](https://medium.com/p/7488e0a4fa64) |
+| Sun, 27 Apr 2025 06:59:06 GMT | “23 Million Digital IDs Exposed: The Full Story Behind SK Telecom’s SIM Data Breach” | Mia Story | [Read More](https://medium.com/p/259afeb701d9) |
+| Sun, 27 Apr 2025 06:57:13 GMT | A Complete Guide to Linux Terminal Commands (2025) | Raj Sharma | [Read More](https://medium.com/p/45f5c5c7a881) |
+| Sun, 27 Apr 2025 06:57:11 GMT | What I want in love | Awele Ozieh | [Read More](https://medium.com/p/50d41617df32) |
+| Sun, 27 Apr 2025 06:56:42 GMT | DNS Tunneling with dnscat2: Command Execution Over DNS Packets | Gopu Nair | [Read More](https://medium.com/p/a69970400bc4) |
+| Sun, 27 Apr 2025 06:56:32 GMT | How I Taught Myself AI Without a Degree (And How You Can Too) | Tech Jolt | [Read More](https://medium.com/p/6a85654318e7) |
+| Sun, 27 Apr 2025 06:47:03 GMT | Best Online Cybersecurity Courses with Certificate in 2025 | cyber security Updates | [Read More](https://medium.com/p/62c644e1dc5b) |
+| Sun, 27 Apr 2025 06:46:31 GMT | How to Become a SafeLine Reseller | Loria | [Read More](https://medium.com/p/7da3c26ba84a) |
 | Sun, 27 Apr 2025 06:46:01 GMT | How to Turn Cybersecurity Into a Full-Time Income (My Blueprint) | Abhijeet Kumawat | [Read More](https://medium.com/p/f4d70cb01f73) |
 | Sun, 27 Apr 2025 06:42:24 GMT | Cybersecurity Analyst by Day, Google Researcher by Night | Vijay Kumar Gupta | [Read More](https://medium.com/p/8e933fa10a42) |
 | Sun, 27 Apr 2025 06:39:43 GMT | How to Find Legit Hackers Online to Fix Your Credit Fast in 2025 | Labib Yasir | [Read More](https://medium.com/p/f38e8e44dc3e) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 21:26:25 GMT | Blue Team Perspektifiyle Web Güvenliği: OWASP Top 10 ve Savunma Rehberi | Berkay Köseoğlu | [Read More](https://medium.com/p/8646d803a45f) |
 | Sat, 26 Apr 2025 21:18:52 GMT | The Web of Trust: Episode 1 — The First Red Flag | Utibe OwoAbasi Obot | [Read More](https://medium.com/p/1f4107044c6a) |
 | Sat, 26 Apr 2025 20:57:27 GMT | DHCP, the IP manager! | Sadra Bakhtiari | [Read More](https://medium.com/p/9ffba56e0eca) |
-| Sat, 26 Apr 2025 20:38:42 GMT | Subdomain Takeover on VDP | Vasu Bhan | [Read More](https://medium.com/p/32cac749bf16) |
-| Sat, 26 Apr 2025 20:34:36 GMT | Review of the “Introduction to Cyber Attacks” Course from YNU | Mohammed al Mughaleq | [Read More](https://medium.com/p/b00fe11d6234) |
-| Sat, 26 Apr 2025 20:24:59 GMT | Impact of Quantum Computing on Encryption | Matthew.Rosenquist | [Read More](https://medium.com/p/0006909dd389) |
-| Sat, 26 Apr 2025 20:12:32 GMT | VerdaCrypt: The PowerShell Ransomware That Thinks It’s a Philosophy Professor | Brendan Smith | [Read More](https://medium.com/p/40c41fed0fbe) |
-| Sat, 26 Apr 2025 19:53:40 GMT | TryHackMe ‘Hacker vs. Hacker’ Walkthrough: Web Shell Exploitation & Privilege Escalation | Haitam Lazaar | [Read More](https://medium.com/p/9390dd0f14a0) |
-| Sat, 26 Apr 2025 19:52:57 GMT | Gaming and cybersecurity for the society | Caroline Neufert | [Read More](https://medium.com/p/ad07bd5f8edb) |
-| Sat, 26 Apr 2025 19:50:24 GMT | AI Agentic Systems Audit & Explainability Economics | Valdez Ladd | [Read More](https://medium.com/p/91e01409701b) |
-| Sat, 26 Apr 2025 19:48:16 GMT | Let’sDefend SOC Write-Up: Possible SQL Injection Payload Detected | Gözde | [Read More](https://medium.com/p/4a14bc570ba1) |
-| Sat, 26 Apr 2025 19:47:53 GMT | LetsDefend — Memory Analysis Challenge | Raphael Nicolich | [Read More](https://medium.com/p/64104e6298cb) |
-| Sat, 26 Apr 2025 19:43:45 GMT | 3 Myths About Fixing Bad ITAD | Kyle Marks | [Read More](https://medium.com/p/75b4481d21a0) |
-| Sat, 26 Apr 2025 19:32:11 GMT | Steam Profile QR‘s | Max Spivey | [Read More](https://medium.com/p/fd1f3090d663) |
