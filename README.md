@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 14:09:54 GMT | ️ HackTheBox Kerala — Unleashing Cyber Talent from God’s Own Country | Karthik Krishnan | [Read More](https://medium.com/p/edb2e802ab5a) |
+| Sun, 27 Apr 2025 14:07:17 GMT | IT Solutions for Education: Enhancing Learning and Innovation | Rapidise Inc | [Read More](https://medium.com/p/c6ba75fc3758) |
+| Sun, 27 Apr 2025 14:03:07 GMT | Automating CVE Data Collection with Web Scrapping | Handhika Yanuar Pratama | [Read More](https://medium.com/p/966323bde819) |
 | Sun, 27 Apr 2025 13:35:39 GMT | Is it Possible to Get My Crypto Back After a Scam? | Dimasdeleon | [Read More](https://medium.com/p/be9069625cea) |
 | Sun, 27 Apr 2025 13:34:25 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/8de3fa6089f3) |
 | Sun, 27 Apr 2025 13:33:53 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/1d48e5d1debf) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 06:57:11 GMT | What I want in love | Awele Ozieh | [Read More](https://medium.com/p/50d41617df32) |
 | Sun, 27 Apr 2025 06:56:42 GMT | DNS Tunneling with dnscat2: Command Execution Over DNS Packets | Gopu Nair | [Read More](https://medium.com/p/a69970400bc4) |
 | Sun, 27 Apr 2025 06:56:32 GMT | How I Taught Myself AI Without a Degree (And How You Can Too) | Tech Jolt | [Read More](https://medium.com/p/6a85654318e7) |
-| Sun, 27 Apr 2025 06:47:03 GMT | Best Online Cybersecurity Courses with Certificate in 2025 | cyber security Updates | [Read More](https://medium.com/p/62c644e1dc5b) |
-| Sun, 27 Apr 2025 06:46:31 GMT | How to Become a SafeLine Reseller | Loria | [Read More](https://medium.com/p/7da3c26ba84a) |
-| Sun, 27 Apr 2025 06:46:01 GMT | How to Turn Cybersecurity Into a Full-Time Income (My Blueprint) | Abhijeet Kumawat | [Read More](https://medium.com/p/f4d70cb01f73) |
