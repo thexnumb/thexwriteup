@@ -14,6 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 02:56:23 GMT | Technology Decisions I Made as A Cybersecurity Expert and a New Parent…Links & Resources | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/4a04d1c95acf) |
+| Sun, 27 Apr 2025 02:47:45 GMT | Am I Just Human — or Something Beyond? | Emily Wilson | [Read More](https://medium.com/p/1a5b73584560) |
+| Sun, 27 Apr 2025 02:40:18 GMT | Day 1 -  IT Fundamentals: Very Beginner | kate | [Read More](https://medium.com/p/e9739ec8278d) |
+| Sun, 27 Apr 2025 02:39:32 GMT | Distroless Docker: Minimalism for Maximum Security | Sanjay Balaji | [Read More](https://medium.com/p/62a08753fc28) |
+| Sun, 27 Apr 2025 02:33:43 GMT | Maximize Your Curvance $CVE Earnings with These Tips | Curvance | [Read More](https://medium.com/p/39c6edbe9dee) |
+| Sun, 27 Apr 2025 02:03:53 GMT | Sampling of Evasions: How Hackers Stay Invisible & What You Can Do About It | Bl@ckC!pH3r | [Read More](https://medium.com/p/4546ca11daf9) |
+| Sun, 27 Apr 2025 02:03:18 GMT | Detecting Hidden Scheduled Tasks & At Jobs Created by Malware | Paritosh | [Read More](https://medium.com/p/c9038d5d4544) |
+| Sun, 27 Apr 2025 01:59:34 GMT | Goodbye Passwords, Hello Passkeys: Why Switching Now Makes Sense | Sareena | [Read More](https://medium.com/p/3c4905b3c35e) |
 | Sun, 27 Apr 2025 01:40:17 GMT | Under the close protection of the Secret Service, the Secretary of Homeland Security had his bag… | Jack | [Read More](https://medium.com/p/87045cd8cfaf) |
 | Sun, 27 Apr 2025 01:36:20 GMT | AOSU vs REOLINK vs Ring Pro: The Best Smart Doorbell for Your Home (2025) | One Tap | [Read More](https://medium.com/p/0fd63563f331) |
 | Sun, 27 Apr 2025 01:35:43 GMT | ️ The 3 Best Video Doorbells in 2025 (That Are Actually Worth Buying) | Tap2Live | [Read More](https://medium.com/p/dac7058db6b0) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 15:52:10 GMT | when the walls learned to breathe | xpfqlx | [Read More](https://medium.com/p/98ffcef9c162) |
 | Sat, 26 Apr 2025 15:49:50 GMT | When You Realize Your Webcam Might Be Watching You | Vijay Kumar Gupta | [Read More](https://medium.com/p/ed8a77b8c5cf) |
 | Sat, 26 Apr 2025 15:45:50 GMT | The Most Advanced VPNs For Streaming And Browsing | Melvin Erickson | [Read More](https://medium.com/p/0e83f2ba5142) |
-| Sat, 26 Apr 2025 15:45:23 GMT | My First P1 | callgh0st | [Read More](https://medium.com/p/ae9d09c02927) |
-| Sat, 26 Apr 2025 15:42:55 GMT | The Problem of One Night: Can Europe Respond Before Dawn? | Adam Gazdiev | [Read More](https://medium.com/p/b2578a510343) |
-| Sat, 26 Apr 2025 15:37:01 GMT | Authentication Bypass on famous cricket website | BalaramaKrishna | [Read More](https://medium.com/p/54cf1cbe173b) |
-| Sat, 26 Apr 2025 15:22:26 GMT | Attack Detection with Artificial Intelligence and Machine Learning ️ | Esra Kayhan | [Read More](https://medium.com/p/155f8459ef43) |
-| Sat, 26 Apr 2025 15:16:27 GMT | Más Allá del Login: Cómo Proteger Tu Frontend Contra Ataques Comunes. | Cristian Cumplido | [Read More](https://medium.com/p/9c5594e67088) |
-| Sat, 26 Apr 2025 15:15:16 GMT | Cybersecurity Leaders Are Staying in The Shadows | Stephen Pao | [Read More](https://medium.com/p/6030784d0318) |
-| Sat, 26 Apr 2025 15:11:07 GMT | XSS Vulnerability on One of the Top 10 Universities in India | Syed Mushir | [Read More](https://medium.com/p/a2088fd31ef5) |
-| Sat, 26 Apr 2025 15:07:57 GMT | Inside Anonymous: The Mysterious Hacktivist Group That Shaped Cybersecurity | Michael Younsi | [Read More](https://medium.com/p/c13f803fe90b) |
