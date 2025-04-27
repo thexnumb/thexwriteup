@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 13:35:39 GMT | Is it Possible to Get My Crypto Back After a Scam? | Dimasdeleon | [Read More](https://medium.com/p/be9069625cea) |
+| Sun, 27 Apr 2025 13:34:25 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/8de3fa6089f3) |
+| Sun, 27 Apr 2025 13:33:53 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/1d48e5d1debf) |
+| Sun, 27 Apr 2025 13:28:00 GMT | Login? Who Needs That? Bypassing OAuth Like a Lazy Hacker on Sunday ☀️ | Iski | [Read More](https://medium.com/p/76802cc8025d) |
+| Sun, 27 Apr 2025 13:16:07 GMT | X ICOS | aksusarya | [Read More](https://medium.com/p/3753aab43291) |
 | Sun, 27 Apr 2025 13:12:47 GMT | HTB — Shocker | CyberQuestor | [Read More](https://medium.com/p/51b95545379f) |
 | Sun, 27 Apr 2025 13:07:34 GMT | Active Directory Kimlik Doğrulama | Aydan | [Read More](https://medium.com/p/84b6b97467a3) |
 | Sun, 27 Apr 2025 13:03:00 GMT | My First Shadow Audit Experience | DappScout | [Read More](https://medium.com/p/54628d5050ee) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 06:47:03 GMT | Best Online Cybersecurity Courses with Certificate in 2025 | cyber security Updates | [Read More](https://medium.com/p/62c644e1dc5b) |
 | Sun, 27 Apr 2025 06:46:31 GMT | How to Become a SafeLine Reseller | Loria | [Read More](https://medium.com/p/7da3c26ba84a) |
 | Sun, 27 Apr 2025 06:46:01 GMT | How to Turn Cybersecurity Into a Full-Time Income (My Blueprint) | Abhijeet Kumawat | [Read More](https://medium.com/p/f4d70cb01f73) |
-| Sun, 27 Apr 2025 06:42:24 GMT | Cybersecurity Analyst by Day, Google Researcher by Night | Vijay Kumar Gupta | [Read More](https://medium.com/p/8e933fa10a42) |
-| Sun, 27 Apr 2025 06:39:43 GMT | How to Find Legit Hackers Online to Fix Your Credit Fast in 2025 | Labib Yasir | [Read More](https://medium.com/p/f38e8e44dc3e) |
-| Sun, 27 Apr 2025 06:23:20 GMT | How I Found The Unauthorized account manipulation? | DOD cyber solutions | [Read More](https://medium.com/p/3f3312360751) |
-| Sun, 27 Apr 2025 06:21:30 GMT | Attacking Web Applications with FFuF | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/63673231452e) |
-| Sun, 27 Apr 2025 06:20:17 GMT | Don’t Leave Your Website Unprotected: Practical Web Security Testing for Small Businesses (No… | VidyaRao | [Read More](https://medium.com/p/56cddbe8f714) |
