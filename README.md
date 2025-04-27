@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 10:16:26 GMT | OSCP Capstone Lab: Enumerate the Learning Module Exercise — VM #3 and exploit the SQLi… | Kacper Waliczek | [Read More](https://medium.com/p/0fa7d370aaef) |
+| Sun, 27 Apr 2025 10:08:46 GMT | 04: Project VNAx | Navenesh Kumar | [Read More](https://medium.com/p/7db20264e119) |
+| Sun, 27 Apr 2025 10:06:51 GMT | Tech Security Challenges in Cyber-Physical Systems | Data defendere | [Read More](https://medium.com/p/9d96c34d188e) |
+| Sun, 27 Apr 2025 10:01:43 GMT | If Tor Is Secure, Why Do People Still Get Hacked While Using It? let’s break it down | Deft Hacker | [Read More](https://medium.com/p/911476994ed7) |
+| Sun, 27 Apr 2025 09:57:59 GMT | Secure Your Cloud-Native Application in GCP | Dolly Aswin Harahap | [Read More](https://medium.com/p/6e783ea49750) |
+| Sun, 27 Apr 2025 09:55:57 GMT | Why the Future of Finance Belongs to AI | Nicolas Fontaine | [Read More](https://medium.com/p/e2f2dc660bdc) |
+| Sun, 27 Apr 2025 09:48:27 GMT | When a SIM-Card Data Breach Hits Home — What If SK Telecom’s Incident Happened in the United States? | Mia Story | [Read More](https://medium.com/p/af82e9a2b698) |
+| Sun, 27 Apr 2025 09:42:23 GMT | 7 Common Mistakes New Graduates Make While Pursuing An IT Career and How to Avoid Them | M. Shehroz | [Read More](https://medium.com/p/b707b1b0c7bd) |
+| Sun, 27 Apr 2025 09:41:51 GMT | What Does SafeLine Add on Top of Cloudflare? | Quella | [Read More](https://medium.com/p/3ee709c71384) |
+| Sun, 27 Apr 2025 09:40:01 GMT | From SQL Injection to Weak Passwords : A Deep Dive into a Tamil Nadu Government Security Flaw | B4LOGI | [Read More](https://medium.com/p/1b648d62d457) |
+| Sun, 27 Apr 2025 09:36:12 GMT | Introduction to Web Applications -HackThebox Walkthrough | Laaaks | [Read More](https://medium.com/p/dfe9c1eb68ef) |
 | Sun, 27 Apr 2025 09:28:19 GMT | Secure Notes Mobile Hacking Lab Write-up | DJumanto | [Read More](https://medium.com/p/a6b94557948c) |
 | Sun, 27 Apr 2025 09:20:36 GMT | Information disclosure in error messages — Lab Walkthrough | Dev-angelist | [Read More](https://medium.com/p/2acfa197ad2c) |
 | Sun, 27 Apr 2025 09:16:37 GMT | Why Cloud Security is the Next Big Thing in Tech | Ahmad Javed | [Read More](https://medium.com/p/7a292fc239a4) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 02:47:45 GMT | Am I Just Human — or Something Beyond? | Emily Wilson | [Read More](https://medium.com/p/1a5b73584560) |
 | Sun, 27 Apr 2025 02:40:18 GMT | Day 1 -  IT Fundamentals: Very Beginner | kate | [Read More](https://medium.com/p/e9739ec8278d) |
 | Sun, 27 Apr 2025 02:39:32 GMT | Distroless Docker: Minimalism for Maximum Security | Sanjay Balaji | [Read More](https://medium.com/p/62a08753fc28) |
-| Sun, 27 Apr 2025 02:33:48 GMT | Desaprioriação Cloud devido ao popular lift-and-shift | Vitória Montesuma | [Read More](https://medium.com/p/acb5ed21db3f) |
-| Sun, 27 Apr 2025 02:33:43 GMT | Maximize Your Curvance $CVE Earnings with These Tips | Curvance | [Read More](https://medium.com/p/39c6edbe9dee) |
-| Sun, 27 Apr 2025 02:03:53 GMT | Sampling of Evasions: How Hackers Stay Invisible & What You Can Do About It | Bl@ckC!pH3r | [Read More](https://medium.com/p/4546ca11daf9) |
-| Sun, 27 Apr 2025 02:03:18 GMT | Detecting Hidden Scheduled Tasks & At Jobs Created by Malware | Paritosh | [Read More](https://medium.com/p/c9038d5d4544) |
-| Sun, 27 Apr 2025 01:59:34 GMT | Goodbye Passwords, Hello Passkeys: Why Switching Now Makes Sense | Sareena | [Read More](https://medium.com/p/3c4905b3c35e) |
-| Sun, 27 Apr 2025 01:40:17 GMT | Under the close protection of the Secret Service, the Secretary of Homeland Security had his bag… | Jack | [Read More](https://medium.com/p/87045cd8cfaf) |
-| Sun, 27 Apr 2025 01:36:20 GMT | AOSU vs REOLINK vs Ring Pro: The Best Smart Doorbell for Your Home (2025) | One Tap | [Read More](https://medium.com/p/0fd63563f331) |
-| Sun, 27 Apr 2025 01:35:43 GMT | ️ The 3 Best Video Doorbells in 2025 (That Are Actually Worth Buying) | Tap2Live | [Read More](https://medium.com/p/dac7058db6b0) |
-| Sun, 27 Apr 2025 01:15:23 GMT | Setting Up My Home Lab for Cybersecurity and IT Learning | Ryan Shill | [Read More](https://medium.com/p/4ac3e8783ac1) |
-| Sun, 27 Apr 2025 01:04:27 GMT | Mengungkap Jejak Serangan Siber: Analisis Mendalam Scanning, XSS, dan SQL Injection dari File PCAP | Celvine Adi Putra | [Read More](https://medium.com/p/5b6c9d452049) |
-| Sun, 27 Apr 2025 01:00:55 GMT | Fast And Secure App Creation With No-Code Approaches | Franklinr held | [Read More](https://medium.com/p/3e9d1f9f77c3) |
