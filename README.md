@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 16:27:42 GMT | My Security Journey | Kijo Ninja | [Read More](https://medium.com/p/96e65f025146) |
+| Sun, 27 Apr 2025 16:26:24 GMT | HackTheBox - Builder | jniket | [Read More](https://medium.com/p/15e7644d96fa) |
+| Sun, 27 Apr 2025 16:18:45 GMT | Paper Reading — On the Instability of Bitcoin Without the Block Reward | JingAnSi | [Read More](https://medium.com/p/eb2a469569aa) |
+| Sun, 27 Apr 2025 16:14:20 GMT | Unlocking the Future of Web3: Exploring Confidential Layer, Bridging, and the Power of $CLONE | schlong91 | [Read More](https://medium.com/p/af554cae0115) |
 | Sun, 27 Apr 2025 16:03:45 GMT | Security-First Flutter: Implementing Passkeys, Hardware Keystore, and Side-Channel Hardening | Subhanu Majumder | [Read More](https://medium.com/p/c0d88dc02e7f) |
 | Sun, 27 Apr 2025 16:02:34 GMT | Vulnerability Scanning vs. Penetration Testing: What’s the Difference? | Black Lock | [Read More](https://medium.com/p/b2cd42956de1) |
 | Sun, 27 Apr 2025 15:45:41 GMT | Navigate The Digital World With Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/66a7e57c88cc) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 09:06:49 GMT | How to Forward CloudFlare IP to SafeLine WAF | Loria | [Read More](https://medium.com/p/c2afab5db86a) |
 | Sun, 27 Apr 2025 08:57:23 GMT | How to Install and Use SQLmap in Termux: A Complete Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/0e161cb7f6ef) |
 | Sun, 27 Apr 2025 08:55:39 GMT | Why Can’t a WAF Protect Against Layer 4 Attacks? | Loria | [Read More](https://medium.com/p/33c3d4e8ef19) |
-| Sun, 27 Apr 2025 08:54:54 GMT | Why Data Protection Is Critical in E-commerce? | FileTrust io | [Read More](https://medium.com/p/be8d2da02ad0) |
-| Sun, 27 Apr 2025 08:48:16 GMT | The Future of Bug Bounties: What Ethical Hackers Need to Know! | CyberTalents | [Read More](https://medium.com/p/2a5fba3213b9) |
-| Sun, 27 Apr 2025 08:39:44 GMT | Taming DevOps Chaos: How Platform Engineering and Developer Platforms Combat Anti-patterns | Gareth Brown | [Read More](https://medium.com/p/afe5c4a919b9) |
-| Sun, 27 Apr 2025 08:36:29 GMT | Mastering Ethical Hacking: A Comprehensive Guide to Securing Modern Operating Systems | Benjaminmillerdev | [Read More](https://medium.com/p/45fd64dc2d4a) |
