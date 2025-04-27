@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 23:13:56 GMT | BSIDES SF CTF 2025 — ACAAN | negligble | [Read More](https://medium.com/p/6fcea23ae17c) |
+| Sun, 27 Apr 2025 23:01:33 GMT | LetsDefend— RegistryHive Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/cfdd90fef927) |
+| Sun, 27 Apr 2025 23:01:32 GMT | HTB Knife Walkthrough | The Cyber Outpost | [Read More](https://medium.com/p/371996e96513) |
+| Sun, 27 Apr 2025 22:46:54 GMT | Brooklyn Nine Nine CTF — Full Writeup and Walkthrough | mikesploit | [Read More](https://medium.com/p/2a07d2eb21bc) |
+| Sun, 27 Apr 2025 22:41:37 GMT | Endpoints ID Exchange — OpenID Connect (OIDC) | Zack4DEV | [Read More](https://medium.com/p/1efff1090696) |
 | Sun, 27 Apr 2025 22:31:29 GMT | HACK SMART SECURITY WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/70e8a1d14954) |
 | Sun, 27 Apr 2025 22:25:51 GMT | Invasion of the Kudzu: APAC Confronts a Surge in System Intrusions | Avnishyam | [Read More](https://medium.com/p/4f0820f0ceb3) |
 | Sun, 27 Apr 2025 22:22:32 GMT | My Web Application Pentesting Roadmap: From PNPT to Web App Specialist | PwnerJoe | [Read More](https://medium.com/p/cf1c9671c11e) |
@@ -110,8 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 15:44:35 GMT | Mastering Modern Red Teaming Infrastructure Part 7: Advanced Phishing Techniques for 2FA Bypass… | Faris Faisal 0xFF | [Read More](https://medium.com/p/85f9adc4dc3b) |
 | Sun, 27 Apr 2025 15:35:15 GMT | a simple watch tower (: | Cryptoboot | [Read More](https://medium.com/p/19467f0bee49) |
 | Sun, 27 Apr 2025 15:34:02 GMT | How to Write Effective Cybersecurity Documentation and Pentest Reports | Diogo Neto | [Read More](https://medium.com/p/4b0fe326db11) |
-| Sun, 27 Apr 2025 15:32:28 GMT | POC — Remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary code… | Very Lazy Tech | [Read More](https://medium.com/p/4b591d45ff4f) |
-| Sun, 27 Apr 2025 15:30:57 GMT | AI Agents vs. Level-1 SOC Analysts: Augmentation, Automation, or Obsolescence? | yzw.joel | [Read More](https://medium.com/p/2067707f09f2) |
-| Sun, 27 Apr 2025 15:28:41 GMT | Fog Networks Under Fire: An Insider’s Guide to the Next Generation Attack Landscape | Arpit Gupta | [Read More](https://medium.com/p/ec7dabfbaf33) |
-| Sun, 27 Apr 2025 15:28:34 GMT | Understanding Kerberoasting with Rubeus: A First Principles Approach to Active Directory Security | Menelik | [Read More](https://medium.com/p/94fe86007f95) |
-| Sun, 27 Apr 2025 15:25:12 GMT | Software Security Market Demand Research Report (2025 Edition) | InsBug | [Read More](https://medium.com/p/eed16c6eda3f) |
