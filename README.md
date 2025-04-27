@@ -14,7 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 10:59:06 GMT | Static vs Dynamic Analysis: Dissecting ransomware two ways | Laiba imran | [Read More](https://medium.com/p/0da9949acd10) |
+| Sun, 27 Apr 2025 10:54:46 GMT | Security and Compliance Fundamentals: For Beginner’s- Security+ SY0–701 (with Real-Life Examples) | unica 02 | [Read More](https://medium.com/p/e6c6ad58a496) |
+| Sun, 27 Apr 2025 10:46:37 GMT | GamingServer Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/f6548746bfd1) |
+| Sun, 27 Apr 2025 10:45:28 GMT | Understanding Web Cache Deception : Doctor’s Analogy | A Noob Pentester | [Read More](https://medium.com/p/e1ba7eb8fd46) |
+| Sun, 27 Apr 2025 10:36:45 GMT | Exposing Firebase Misconfiguration | 0xera51 | [Read More](https://medium.com/p/99795ba8139b) |
+| Sun, 27 Apr 2025 10:36:30 GMT | Is Trust Wallet/MetaMask safe or can it be hacked? | Strategicfraudintelligence | [Read More](https://medium.com/p/08c9801d4099) |
 | Sun, 27 Apr 2025 10:32:37 GMT | Is It Possible to Hack the Paytm Soundbox? | Darshan Naresh Naik | [Read More](https://medium.com/p/03f2a9dee762) |
+| Sun, 27 Apr 2025 10:31:00 GMT | People are fragile things | James Bishop | [Read More](https://medium.com/p/b8a7e453cfe7) |
 | Sun, 27 Apr 2025 10:26:49 GMT | How to Find the IP Address and Other Hidden Information Behind a Website | Alpondith | [Read More](https://medium.com/p/1203b4f3603a) |
 | Sun, 27 Apr 2025 10:26:47 GMT | Mastering OverTheWire Bandit: Complete Walkthrough From Level 0 to Level 5 | Nikita | [Read More](https://medium.com/p/15b0d7fe2456) |
 | Sun, 27 Apr 2025 10:25:19 GMT | The New Fault Line: Should CFOs Share Accountability for Cybersecurity Failures? | Dinesh Dino | [Read More](https://medium.com/p/523a366c23e1) |
@@ -24,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 10:08:46 GMT | 04: Project VNAx | Navenesh Kumar | [Read More](https://medium.com/p/7db20264e119) |
 | Sun, 27 Apr 2025 10:06:51 GMT | Tech Security Challenges in Cyber-Physical Systems | Data defendere | [Read More](https://medium.com/p/9d96c34d188e) |
 | Sun, 27 Apr 2025 10:01:43 GMT | If Tor Is Secure, Why Do People Still Get Hacked While Using It? let’s break it down | Deft Hacker | [Read More](https://medium.com/p/911476994ed7) |
+| Sun, 27 Apr 2025 09:59:35 GMT | cMaking a secure program? | Fatih Raditya | [Read More](https://medium.com/p/6a42c2144294) |
 | Sun, 27 Apr 2025 09:57:59 GMT | Secure Your Cloud-Native Application in GCP | Dolly Aswin Harahap | [Read More](https://medium.com/p/6e783ea49750) |
 | Sun, 27 Apr 2025 09:55:57 GMT | Why the Future of Finance Belongs to AI | Nicolas Fontaine | [Read More](https://medium.com/p/e2f2dc660bdc) |
 | Sun, 27 Apr 2025 09:48:27 GMT | When a SIM-Card Data Breach Hits Home — What If SK Telecom’s Incident Happened in the United States? | Mia Story | [Read More](https://medium.com/p/af82e9a2b698) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 04:27:44 GMT | “Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs” | Comp_Nayan Choudhary | [Read More](https://medium.com/p/1b7380c62943) |
 | Sun, 27 Apr 2025 04:18:06 GMT | Slow Success: The Beautiful Journey No One Talks About | Emily Wilson | [Read More](https://medium.com/p/a54971a86618) |
 | Sun, 27 Apr 2025 04:15:01 GMT | Gridinsoft Anti-Malware: The Lightweight Malware Killer That Actually Works | Brendan Smith | [Read More](https://medium.com/p/f600acf8c0b7) |
-| Sun, 27 Apr 2025 04:02:31 GMT | CTF Challenge: The Phantom’s Trail — Unveil the Hidden Key | sambaf | [Read More](https://medium.com/p/e084b0f6eb34) |
-| Sun, 27 Apr 2025 03:50:53 GMT | How VPNs Work To Protect Your Identity Online | James Neal | [Read More](https://medium.com/p/3439672965a4) |
-| Sun, 27 Apr 2025 03:47:10 GMT | Code, Coffee, and a Weekend: My Personal Hackathon Ritual | hiruthicSha | [Read More](https://medium.com/p/c6d8d48894da) |
-| Sun, 27 Apr 2025 03:45:49 GMT | Ensure Digital Safety With The Best VPN Technologies | Melvin Erickson | [Read More](https://medium.com/p/1444844cb923) |
-| Sun, 27 Apr 2025 03:42:28 GMT | SMAG GROTTO — TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/5942c0f9f9cf) |
-| Sun, 27 Apr 2025 03:12:29 GMT | Israel &amp; Gaza: Separating Fact from Fiction | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a7e635f73cb4) |
-| Sun, 27 Apr 2025 03:10:15 GMT | Which Smart Doorbell is Right for You? | Scals | [Read More](https://medium.com/p/d04845f13e51) |
-| Sun, 27 Apr 2025 03:09:39 GMT | Who Really Controls the World? A Deep Dive into the Invisible Forces Shaping Our Reality | Emily Wilson | [Read More](https://medium.com/p/11f00355f373) |
