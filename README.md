@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 03:12:29 GMT | Israel &amp; Gaza: Separating Fact from Fiction | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a7e635f73cb4) |
+| Sun, 27 Apr 2025 03:10:15 GMT | Which Smart Doorbell is Right for You? | Scals | [Read More](https://medium.com/p/d04845f13e51) |
+| Sun, 27 Apr 2025 03:09:39 GMT | Who Really Controls the World? A Deep Dive into the Invisible Forces Shaping Our Reality | Emily Wilson | [Read More](https://medium.com/p/11f00355f373) |
+| Sun, 27 Apr 2025 03:02:30 GMT | Day 2 - Networking Basics: Are We Connected? | kate | [Read More](https://medium.com/p/068b1c9ba91d) |
+| Sun, 27 Apr 2025 02:58:50 GMT | Do We Really Exist — Or Are We Just Illusions? | Emily Wilson | [Read More](https://medium.com/p/48e112e7c6d8) |
 | Sun, 27 Apr 2025 02:56:23 GMT | Technology Decisions I Made as A Cybersecurity Expert and a New Parent…Links & Resources | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/4a04d1c95acf) |
 | Sun, 27 Apr 2025 02:47:45 GMT | Am I Just Human — or Something Beyond? | Emily Wilson | [Read More](https://medium.com/p/1a5b73584560) |
 | Sun, 27 Apr 2025 02:40:18 GMT | Day 1 -  IT Fundamentals: Very Beginner | kate | [Read More](https://medium.com/p/e9739ec8278d) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 16:23:24 GMT | “Pen testing with Default Credentials: A Step-by-Step Attack Simulation” | Pooja Madivalar | [Read More](https://medium.com/p/f65aba8805d6) |
 | Sat, 26 Apr 2025 16:18:08 GMT | ColdBoxEasy Walkthrough - Proving Grounds Play | Adam Bartlett | [Read More](https://medium.com/p/e0bf33afa512) |
 | Sat, 26 Apr 2025 16:13:28 GMT | Work Securely with a Private Server and Linux Laptop | Asterios Raptis | [Read More](https://medium.com/p/142313aa52b1) |
-| Sat, 26 Apr 2025 16:13:10 GMT | How I Conquered OSCP, OSCP+, OSEP, OSWA, OSWE, OSED, OSCE³, eCPPT, CEH Practical — all in 12 Months | Pratham Shah | [Read More](https://medium.com/p/361ad2f68d8d) |
-| Sat, 26 Apr 2025 16:05:20 GMT | Artificial Intelligence in Cyber Warfare: The Silent Threat No One Talks About! | Maha althobaiti | [Read More](https://medium.com/p/a0cee51c6a2f) |
-| Sat, 26 Apr 2025 15:52:10 GMT | when the walls learned to breathe | xpfqlx | [Read More](https://medium.com/p/98ffcef9c162) |
-| Sat, 26 Apr 2025 15:49:50 GMT | When You Realize Your Webcam Might Be Watching You | Vijay Kumar Gupta | [Read More](https://medium.com/p/ed8a77b8c5cf) |
-| Sat, 26 Apr 2025 15:45:50 GMT | The Most Advanced VPNs For Streaming And Browsing | Melvin Erickson | [Read More](https://medium.com/p/0e83f2ba5142) |
