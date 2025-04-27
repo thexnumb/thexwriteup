@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 15:35:15 GMT | a simple watch tower (: | Cryptoboot | [Read More](https://medium.com/p/19467f0bee49) |
+| Sun, 27 Apr 2025 15:34:02 GMT | How to Write Effective Cybersecurity Documentation and Pentest Reports | Diogo Neto | [Read More](https://medium.com/p/4b0fe326db11) |
+| Sun, 27 Apr 2025 15:32:28 GMT | POC — Remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary code… | Very Lazy Tech | [Read More](https://medium.com/p/4b591d45ff4f) |
+| Sun, 27 Apr 2025 15:30:57 GMT | AI Agents vs. Level-1 SOC Analysts: Augmentation, Automation, or Obsolescence? | yzw.joel | [Read More](https://medium.com/p/2067707f09f2) |
+| Sun, 27 Apr 2025 15:28:41 GMT | Fog Networks Under Fire: An Insider’s Guide to the Next Generation Attack Landscape | Arpit Gupta | [Read More](https://medium.com/p/ec7dabfbaf33) |
+| Sun, 27 Apr 2025 15:28:34 GMT | Understanding Kerberoasting with Rubeus: A First Principles Approach to Active Directory Security | Menelik | [Read More](https://medium.com/p/94fe86007f95) |
+| Sun, 27 Apr 2025 15:25:12 GMT | Software Security Market Demand Research Report (2025 Edition) | InsBug | [Read More](https://medium.com/p/eed16c6eda3f) |
+| Sun, 27 Apr 2025 15:17:28 GMT | ️ Day 18: Diving into NoSQL Injection — A Hidden Danger! | Agarwaldaksh | [Read More](https://medium.com/p/a4a32d69ddce) |
+| Sun, 27 Apr 2025 15:16:41 GMT | The Hardest Kind of Love | Aryan Mishra | [Read More](https://medium.com/p/9b0a9365ae62) |
 | Sun, 27 Apr 2025 15:07:59 GMT | Bridging the Cybersecurity Talent Conundrum: A Comprehensive Detour | Firzan Irfandi Firman | [Read More](https://medium.com/p/f70e9c00d8b3) |
 | Sun, 27 Apr 2025 15:02:06 GMT | Google Dorking Pt 2 | Mylescorey | [Read More](https://medium.com/p/7bcd56bd9bc8) |
 | Sun, 27 Apr 2025 15:01:40 GMT | Why SPAs Are Considered Public Clients ? | Niluka Sripali Monnankulama | [Read More](https://medium.com/p/3672b9715d10) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 08:31:32 GMT | Cactus Group using “ToyMaker” threat group’s stolen data to make its way to victim infrastructure. | Neha Sawant | [Read More](https://medium.com/p/15aec8d78f7b) |
 | Sun, 27 Apr 2025 08:29:16 GMT | Remote Code Execution (RCE) in Symfony - Full Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/644f41225c9b) |
 | Sun, 27 Apr 2025 08:24:54 GMT | SQL Injection ve XSS Açıkları: Anlaşılır Örneklerle Güvenlik İpuçları | Aysel Sündük | [Read More](https://medium.com/p/2c61167dc2ca) |
-| Sun, 27 Apr 2025 08:19:40 GMT | Security Tools on Windows Part 1 | Red | [Read More](https://medium.com/p/f075bb6213d3) |
-| Sun, 27 Apr 2025 08:13:46 GMT | Identity Fundamentals for Beginners: A Security+ SY0–701 Guide with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/9c37fce1d26b) |
-| Sun, 27 Apr 2025 08:02:09 GMT | Unsecured Memcached Server Leading to Sensitive Information Disclosure | Riyan Yan | [Read More](https://medium.com/p/dfa2bd2dfdb4) |
-| Sun, 27 Apr 2025 08:01:50 GMT | Ethical Hacking Summer Internship Program [2025] | Ankit_Cyber | [Read More](https://medium.com/p/9a059c656cc2) |
-| Sun, 27 Apr 2025 08:01:33 GMT | Encoding vs Encryption: Why Knowing the Difference Makes You a Tech Hero | Mohamed ElEmam | [Read More](https://medium.com/p/6f33fc01acc4) |
-| Sun, 27 Apr 2025 07:50:35 GMT | Analyzing a new Persian Malware- (i’ll call it Netix) | Manish Adithya (5h3nron) | [Read More](https://medium.com/p/a37c934b5cb2) |
-| Sun, 27 Apr 2025 07:50:06 GMT | Implementing Zero Trust Security for Spring Boot Applications in Kubernetes | ThamizhElango Natarajan | [Read More](https://medium.com/p/6f3a9ce1f124) |
-| Sun, 27 Apr 2025 07:45:46 GMT | Your CMS Could Be Under Attack Right Now As I Write This — Here's How to Protect It | Amaka okoye | [Read More](https://medium.com/p/e30a986b75db) |
-| Sun, 27 Apr 2025 07:43:49 GMT | Building Privacy-First AI Systems Using Fully Homomorphic Encryption (FHE) | Prathamesh Kodgire | [Read More](https://medium.com/p/b8dca875ecc0) |
