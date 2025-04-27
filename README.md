@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 22:07:04 GMT | The quiet cost of being single in your 30s — | Melissa Tropnas | [Read More](https://medium.com/p/974af4ee4bda) |
+| Sun, 27 Apr 2025 22:06:37 GMT | Hacking the Quizlet Match Game | אורי מגד | [Read More](https://medium.com/p/75cab6ef2c44) |
+| Sun, 27 Apr 2025 21:47:31 GMT | “The Hidden Risks Behind Single Sign-On (SSO): Convenience at a Dangerous Cost” | Richard Ndung'u | [Read More](https://medium.com/p/8973d93a9520) |
+| Sun, 27 Apr 2025 21:38:44 GMT | Orientation to UEFA in United Kingdom’s National Stadium Security Workplaces and Training | Dr Francesco Dergano | [Read More](https://medium.com/p/9eeaf9ff7f01) |
 | Sun, 27 Apr 2025 21:25:11 GMT | Aswan CTF Finals 2025 — Web Challenges | Behiry | [Read More](https://medium.com/p/4dace00c68d3) |
 | Sun, 27 Apr 2025 21:23:08 GMT | Understanding Deepfakes: Tips to Identify Fake Videos and Audios | Kébé Eyong | [Read More](https://medium.com/p/9469b265e4fb) |
 | Sun, 27 Apr 2025 21:13:09 GMT | When The Little Lies We Tell Ourselves Are Okay And When They’re Not | Tim Dahi | [Read More](https://medium.com/p/ae4f10b1ceca) |
@@ -111,7 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 15:07:59 GMT | Bridging the Cybersecurity Talent Conundrum: A Comprehensive Detour | Firzan Irfandi Firman | [Read More](https://medium.com/p/f70e9c00d8b3) |
 | Sun, 27 Apr 2025 15:02:06 GMT | Google Dorking Pt 2 | Mylescorey | [Read More](https://medium.com/p/7bcd56bd9bc8) |
 | Sun, 27 Apr 2025 15:01:40 GMT | Why SPAs Are Considered Public Clients ? | Niluka Sripali Monnankulama | [Read More](https://medium.com/p/3672b9715d10) |
-| Sun, 27 Apr 2025 14:55:18 GMT | Wireshark: A Beginner’s Guide | 0b1d1 | [Read More](https://medium.com/p/ac54d358525b) |
-| Sun, 27 Apr 2025 14:53:53 GMT | a | Visual Monitoring Solutions | [Read More](https://medium.com/p/6f695221dc15) |
-| Sun, 27 Apr 2025 14:36:37 GMT | HiddenLayer's Research on Universal Prompt Injection Bypass | Φiriki Intelligence | [Read More](https://medium.com/p/89a91473eac9) |
-| Sun, 27 Apr 2025 14:33:17 GMT | What’s Up with doh.dns.apple.com? Investigating Apple’s DoH Responder | Matt Pawloski | [Read More](https://medium.com/p/fce376a19052) |
