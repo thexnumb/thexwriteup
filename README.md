@@ -14,6 +14,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 12:27:59 GMT | Search source - Writeup | Marvin | [Read More](https://medium.com/p/d003bfd546ff) |
+| Sun, 27 Apr 2025 12:27:38 GMT | Secrets - Writeup | Marvin | [Read More](https://medium.com/p/c3e7baa66a5b) |
+| Sun, 27 Apr 2025 12:22:27 GMT | What Nearly Losing My Aunt’s Passwords Taught Me About Digital Security | Sam Galope | [Read More](https://medium.com/p/d19b40fd04aa) |
+| Sun, 27 Apr 2025 12:21:08 GMT | Quantum Era Cryptography and Attack Techniques ️ | Esra Kayhan | [Read More](https://medium.com/p/7010c00c87a5) |
+| Sun, 27 Apr 2025 12:15:11 GMT | How to Report a Security Vulnerability Responsibly | Pawan Jaiswal | [Read More](https://medium.com/p/a06c88a75fb9) |
+| Sun, 27 Apr 2025 12:14:36 GMT | Lab Report#4 Kerberoasting Attack and Event Log Analysis | Samet Koca | [Read More](https://medium.com/p/c91ee1a46dd7) |
+| Sun, 27 Apr 2025 12:11:16 GMT | AI-Based Threat Hunting | Esra Kayhan | [Read More](https://medium.com/p/9150633cb30e) |
+| Sun, 27 Apr 2025 12:06:17 GMT | Insider Threats: The Silent Risk Lurking Inside Organizations ️‍♂️ | Tony Kipchirchir. | [Read More](https://medium.com/p/23dccb3e4af4) |
+| Sun, 27 Apr 2025 12:04:14 GMT | Cybersecurity in 2025: New Threats and How to Stay Protected | Mainak Ghosh | [Read More](https://medium.com/p/502c135db23d) |
+| Sun, 27 Apr 2025 11:59:19 GMT | Federated Identity Management (FIM) & Security Assertion Markup Language (SAML) | Igor Berner | [Read More](https://medium.com/p/aeaf2ac6508f) |
+| Sun, 27 Apr 2025 11:51:15 GMT | Stop the Sneak Thieves! | Asad Abdullah | [Read More](https://medium.com/p/55a3b1155932) |
+| Sun, 27 Apr 2025 11:45:29 GMT | How Homomorphic Encryption is Shaping the future of Web3 Security | Crypto Wallet Service | [Read More](https://medium.com/p/91818dc83723) |
+| Sun, 27 Apr 2025 11:40:20 GMT | Mapping the World’s Ethical Hackers: Insights from HackerOne Platform | embossdotar | [Read More](https://medium.com/p/ca45592861e6) |
 | Sun, 27 Apr 2025 11:19:13 GMT | Dalam dunia ethical hacking dan penetration testing, penguasaan sistem operasi Linux menjadi kunci… | Ahmadcybr | [Read More](https://medium.com/p/f05308396791) |
 | Sun, 27 Apr 2025 11:14:12 GMT | Protecting Your Digital Identity: Practical Steps for a Safer Online Life | Hitesh Said | [Read More](https://medium.com/p/6638c03abc62) |
 | Sun, 27 Apr 2025 11:11:06 GMT | Day 113 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/1c6af55889e3) |
@@ -101,16 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 05:57:58 GMT | The Evolution of Phishing: How Attackers are Outsmarting Traditional Defenses | Turtle Words | [Read More](https://medium.com/p/14cd256c739a) |
 | Sun, 27 Apr 2025 05:47:19 GMT | The Complete Guide to Manual Authentication Testing | Patrick Amegavi | [Read More](https://medium.com/p/0c31bfbced88) |
 | Sun, 27 Apr 2025 05:23:15 GMT | Cyber Security for B.Tech | 19 Tanish Pravinraoji Dewase! | [Read More](https://medium.com/p/697318e7cd37) |
-| Sun, 27 Apr 2025 05:17:19 GMT | The Linux Security Journey — UFW (Uncomplicated Firewall) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b1c407135abd) |
-| Sun, 27 Apr 2025 05:17:11 GMT | The Red Teaming: 30-Day Challenge[13] | Bl@ckC!pH3r | [Read More](https://medium.com/p/ea4589b4ae37) |
-| Sun, 27 Apr 2025 05:14:50 GMT | The Hidden Cost of Ignoring Cybersecurity: A $4M Data Breach Case Study | Ahmad Javed | [Read More](https://medium.com/p/07abdc9e9f81) |
-| Sun, 27 Apr 2025 05:13:32 GMT | Understanding XSS (Cross-Site Scripting) | Parthchheda | [Read More](https://medium.com/p/4cfbcc7bab2e) |
-| Sun, 27 Apr 2025 05:13:04 GMT | APT36 Uses “Pahalgam Terror Attack” Lure in Targeted Phishing Against Indian Defense Personnel &… | D09r | [Read More](https://medium.com/p/4b407f09b9a0) |
-| Sun, 27 Apr 2025 05:04:37 GMT | BSidesSF2025 CTF Write-Up: Detector | ghost@ | [Read More](https://medium.com/p/f7d3077d163a) |
-| Sun, 27 Apr 2025 05:02:37 GMT | 5 Linux Hardening Techniques I Apply Before Hosting Any Website | Faruk Ahmed | [Read More](https://medium.com/p/d3a58c9836ff) |
-| Sun, 27 Apr 2025 04:56:30 GMT | $600 Bounty received but in Parallel Universe | AbhirupKonwar | [Read More](https://medium.com/p/a5466300446d) |
-| Sun, 27 Apr 2025 04:52:35 GMT | Perplexity Browser: Innovation or Threat to Privacy? | Redstone Informatics | [Read More](https://medium.com/p/4ac537a33c09) |
-| Sun, 27 Apr 2025 04:47:21 GMT | My Journey from last 85 days of Learning Pentesting | gobbledy | [Read More](https://medium.com/p/71fe9bad7e71) |
-| Sun, 27 Apr 2025 04:47:21 GMT | The Browser: Your Best Defense Against Modern Phishing Attacks | Cyber-AppSec | [Read More](https://medium.com/p/cea7c5c6337a) |
-| Sun, 27 Apr 2025 04:44:22 GMT | Preserving Identity Across Boundaries: How We Use mTLS Tunnels with Envoy | Rohit Agrawal | [Read More](https://medium.com/p/f6df337abe54) |
-| Sun, 27 Apr 2025 04:39:20 GMT | Learning from Failure: A Real-World Look at DDoS Defense Missteps | Jerry Yonga | [Read More](https://medium.com/p/96b5c97a4075) |
