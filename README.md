@@ -14,6 +14,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 07:23:01 GMT | Lock Your Supply Cabinet | Mr Success | [Read More](https://medium.com/p/b09b46e6f5d4) |
+| Sun, 27 Apr 2025 07:17:41 GMT | How to Run a Vulnerability Scan (And Avoid the Nightmare That Cost Me $5k) | Ahmad Javed | [Read More](https://medium.com/p/5d797c114829) |
+| Sun, 27 Apr 2025 07:16:56 GMT | Safe on the Surface: The Security We Buy vs. the Data We Lose | Ritu Vinayak Ahire | [Read More](https://medium.com/p/7ff8a9ba67ce) |
 | Sun, 27 Apr 2025 07:10:30 GMT | On the feasibility of cyber weapon controls: An examination of the technical and geopolitical… | syro | [Read More](https://medium.com/p/5d06ada5e082) |
 | Sun, 27 Apr 2025 07:05:34 GMT | Call for Responsible Openness | Enkrypt AI | [Read More](https://medium.com/p/368fc15443e9) |
 | Sun, 27 Apr 2025 07:05:09 GMT | Why Dark Web Monitoring Has to Account for Emojis | Matt Black | [Read More](https://medium.com/p/4610e2e28737) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 21:54:35 GMT | A guide to build Burp Suite extensions using Montoya API & Java | Hosam Gemei | [Read More](https://medium.com/p/a8256a169bee) |
 | Sat, 26 Apr 2025 21:44:43 GMT | How Many Ethical Hackers Are Out There? A Global Look Through Google Bug Hunters Data | embossdotar | [Read More](https://medium.com/p/a09fb8e2329e) |
 | Sat, 26 Apr 2025 21:43:43 GMT | Mastering AWS Security Specialty — Post 1: Deep Dive into IAM — Core of AWS Security | Suman Thallapelly | [Read More](https://medium.com/p/3f703c867cfa) |
-| Sat, 26 Apr 2025 21:26:25 GMT | Blue Team Perspektifiyle Web Güvenliği: OWASP Top 10 ve Savunma Rehberi | Berkay Köseoğlu | [Read More](https://medium.com/p/8646d803a45f) |
-| Sat, 26 Apr 2025 21:18:52 GMT | The Web of Trust: Episode 1 — The First Red Flag | Utibe OwoAbasi Obot | [Read More](https://medium.com/p/1f4107044c6a) |
-| Sat, 26 Apr 2025 20:57:27 GMT | DHCP, the IP manager! | Sadra Bakhtiari | [Read More](https://medium.com/p/9ffba56e0eca) |
