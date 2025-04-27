@@ -14,7 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 20:13:49 GMT | Manual Testing for Privilege Escalation and Broken Access Control My (Methodology) | MahmoudKroush | [Read More](https://medium.com/p/a3b9f41b82a2) |
+| Sun, 27 Apr 2025 20:13:26 GMT | Hacking APIs: Attackers exploiting SSRF | Israel Aráoz Severiche | [Read More](https://medium.com/p/57624d575987) |
+| Sun, 27 Apr 2025 20:08:59 GMT | Cybersecurity 101: The Basics and Why They Matter | Sarah Atuaka | [Read More](https://medium.com/p/95e955f7ba1a) |
+| Sun, 27 Apr 2025 20:01:58 GMT | XCSSET Malware 2025: Updated Techniques and Payloads | Mayank | [Read More](https://medium.com/p/05153f666d04) |
+| Sun, 27 Apr 2025 19:56:50 GMT | Breaking Down My CompTIA Security+ PBQs: What Actually Showed Up on Test Day | Jared Medeiros | [Read More](https://medium.com/p/37a63d4719ad) |
+| Sun, 27 Apr 2025 19:56:38 GMT | Rainbow Scarab Beetles Facts & Information | The Entomology Corner | [Read More](https://medium.com/p/baaf06f5f482) |
+| Sun, 27 Apr 2025 19:49:15 GMT | My First Bash Recon Script | srhoe | [Read More](https://medium.com/p/36d0cf3ead61) |
+| Sun, 27 Apr 2025 19:46:43 GMT | ASWAN CTF Writeup | Korea | [Read More](https://medium.com/p/d2842a9b2b9d) |
 | Sun, 27 Apr 2025 19:35:57 GMT | Dancing Without Strength - poem. | Moonshade | [Read More](https://medium.com/p/89650750b7ef) |
+| Sun, 27 Apr 2025 19:34:51 GMT | Behind the Curtain: Understanding Zone.Identifier | Nandakumar P | [Read More](https://medium.com/p/a588e7a9342c) |
+| Sun, 27 Apr 2025 19:33:56 GMT | Trojan:Script/Wacatac.B!ml — When Microsoft Defender Cries Wolf (Usually) | Brendan Smith | [Read More](https://medium.com/p/6fb25816eee6) |
 | Sun, 27 Apr 2025 19:33:48 GMT | Vaulting over a .innerHTML sink in a Locked-Down CSP | SMHTahsin33 | [Read More](https://medium.com/p/a628be8ba9dc) |
 | Sun, 27 Apr 2025 19:25:16 GMT | Your Go-To LLM Security Checklist for PenTesting. | Seb AGUELE | [Read More](https://medium.com/p/87115d7a4817) |
 | Sun, 27 Apr 2025 19:21:17 GMT | The Role of Exotic Top-Level Domains (.st, | An0n | [Read More](https://medium.com/p/856c5cc6ec4b) |
@@ -105,13 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 13:03:00 GMT | My First Shadow Audit Experience | DappScout | [Read More](https://medium.com/p/54628d5050ee) |
 | Sun, 27 Apr 2025 13:02:29 GMT | Containment Bottlenecks: Why Most Breaches Escalate Before You Can Act | Peris.ai Cybersecurity | [Read More](https://medium.com/p/73b80744a1a4) |
 | Sun, 27 Apr 2025 13:01:15 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/42ca3547e306) |
-| Sun, 27 Apr 2025 13:01:08 GMT | Understanding AWS Verified Access: Secure Access Without the VPN Headaches | Karlmarx Karunanithi | [Read More](https://medium.com/p/940fda7c44d5) |
-| Sun, 27 Apr 2025 12:55:53 GMT | Efficiently Securing No-Code App Development | Franklinr held | [Read More](https://medium.com/p/19bea8ba70f2) |
-| Sun, 27 Apr 2025 12:53:28 GMT | Linux File Permissions | Gourav(spidergk) | [Read More](https://medium.com/p/88a2cf131a8a) |
-| Sun, 27 Apr 2025 12:49:03 GMT | Understanding CSRF (Cross Site Request Forgery) | Parthchheda | [Read More](https://medium.com/p/08d0ea732026) |
-| Sun, 27 Apr 2025 12:45:11 GMT | 21 Million Secrets: The Dangerous Perils of Workplace Surveillance | O. J. Okpabi | [Read More](https://medium.com/p/2f0c6abeb296) |
-| Sun, 27 Apr 2025 12:40:41 GMT | Lab Report#5 AS-REP Roasting Attack and Event Log Analysis | Samet Koca | [Read More](https://medium.com/p/39ed90af5e4f) |
-| Sun, 27 Apr 2025 12:27:59 GMT | Search source - Writeup | Marvin | [Read More](https://medium.com/p/d003bfd546ff) |
-| Sun, 27 Apr 2025 12:27:38 GMT | Secrets - Writeup | Marvin | [Read More](https://medium.com/p/c3e7baa66a5b) |
-| Sun, 27 Apr 2025 12:22:27 GMT | What Nearly Losing My Aunt’s Passwords Taught Me About Digital Security | Sam Galope | [Read More](https://medium.com/p/d19b40fd04aa) |
-| Sun, 27 Apr 2025 12:21:08 GMT | Quantum Era Cryptography and Attack Techniques ️ | Esra Kayhan | [Read More](https://medium.com/p/7010c00c87a5) |
