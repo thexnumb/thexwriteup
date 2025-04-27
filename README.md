@@ -14,7 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 19:12:19 GMT | The World Needs More Cyber Warriors: Here’s Why You Should Join Cybersecurity Today | Uday Venkat | [Read More](https://medium.com/p/323a5a4c7485) |
+| Sun, 27 Apr 2025 18:57:14 GMT | Google Agents Developers Kit (ADK) First Impressions and Quick Glance Security Considerations. | Juan Giarrizzo | [Read More](https://medium.com/p/ca2f30e9bb83) |
+| Sun, 27 Apr 2025 18:49:29 GMT | Cybersecurity for Beginners: A Fun & Easy Guide to Staying Safe Online | General Updates | [Read More](https://medium.com/p/d8860a3e707e) |
+| Sun, 27 Apr 2025 18:45:05 GMT | 1930 Days of K8s Challenge | Ajithkumar Subramanian | [Read More](https://medium.com/p/0afbb034518e) |
 | Sun, 27 Apr 2025 18:41:40 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 3 (Malicious Document Analysis) | KingOfPiratez | [Read More](https://medium.com/p/4add4e379bee) |
+| Sun, 27 Apr 2025 18:40:11 GMT | Dying: To be in America* | R.VanWagoner | [Read More](https://medium.com/p/4c6a4c5b814d) |
 | Sun, 27 Apr 2025 18:30:55 GMT | Mastering the Foundations of Cybersecurity: Hacking, Virtual Machines, Linux, and Networking | Neeraj Rajeev | [Read More](https://medium.com/p/fdec0b8a8422) |
 | Sun, 27 Apr 2025 18:27:13 GMT | Digital Psychological Warfare: Impacts, Risks, and Prevention | SECZAP | [Read More](https://medium.com/p/d9425feea1c0) |
 | Sun, 27 Apr 2025 18:25:53 GMT | From Idiots to Icons: The 3 Who Got Life Right by Getting It Wrong | Michael Angelo G. Badando | [Read More](https://medium.com/p/84ebd07c32ac) |
@@ -110,8 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 12:06:17 GMT | Insider Threats: The Silent Risk Lurking Inside Organizations ️‍♂️ | Tony Kipchirchir. | [Read More](https://medium.com/p/23dccb3e4af4) |
 | Sun, 27 Apr 2025 12:04:14 GMT | Cybersecurity in 2025: New Threats and How to Stay Protected | Mainak Ghosh | [Read More](https://medium.com/p/502c135db23d) |
 | Sun, 27 Apr 2025 11:59:19 GMT | Federated Identity Management (FIM) & Security Assertion Markup Language (SAML) | Igor Berner | [Read More](https://medium.com/p/aeaf2ac6508f) |
-| Sun, 27 Apr 2025 11:51:15 GMT | Stop the Sneak Thieves! | Asad Abdullah | [Read More](https://medium.com/p/55a3b1155932) |
-| Sun, 27 Apr 2025 11:45:29 GMT | How Homomorphic Encryption is Shaping the future of Web3 Security | Crypto Wallet Service | [Read More](https://medium.com/p/91818dc83723) |
-| Sun, 27 Apr 2025 11:40:20 GMT | Mapping the World’s Ethical Hackers: Insights from HackerOne Platform | embossdotar | [Read More](https://medium.com/p/ca45592861e6) |
-| Sun, 27 Apr 2025 11:19:13 GMT | Dalam dunia ethical hacking dan penetration testing, penguasaan sistem operasi Linux menjadi kunci… | Ahmadcybr | [Read More](https://medium.com/p/f05308396791) |
-| Sun, 27 Apr 2025 11:14:12 GMT | Protecting Your Digital Identity: Practical Steps for a Safer Online Life | Hitesh Said | [Read More](https://medium.com/p/6638c03abc62) |
