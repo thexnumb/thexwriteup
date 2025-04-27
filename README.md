@@ -14,7 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 09:16:37 GMT | Why Cloud Security is the Next Big Thing in Tech | Ahmad Javed | [Read More](https://medium.com/p/7a292fc239a4) |
+| Sun, 27 Apr 2025 09:07:14 GMT | Storm-1977’s Crypto Heist: How AzureChecker Turned Education Clouds into Mining Rigs | Ismail Tasdelen | [Read More](https://medium.com/p/b05802062382) |
+| Sun, 27 Apr 2025 09:06:49 GMT | How to Forward CloudFlare IP to SafeLine WAF | Loria | [Read More](https://medium.com/p/c2afab5db86a) |
+| Sun, 27 Apr 2025 08:57:23 GMT | How to Install and Use SQLmap in Termux: A Complete Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/0e161cb7f6ef) |
+| Sun, 27 Apr 2025 08:55:39 GMT | Why Can’t a WAF Protect Against Layer 4 Attacks? | Loria | [Read More](https://medium.com/p/33c3d4e8ef19) |
+| Sun, 27 Apr 2025 08:54:54 GMT | Why Data Protection Is Critical in E-commerce? | FileTrust io | [Read More](https://medium.com/p/be8d2da02ad0) |
+| Sun, 27 Apr 2025 08:48:16 GMT | The Future of Bug Bounties: What Ethical Hackers Need to Know! | CyberTalents | [Read More](https://medium.com/p/2a5fba3213b9) |
+| Sun, 27 Apr 2025 08:39:44 GMT | Taming DevOps Chaos: How Platform Engineering and Developer Platforms Combat Anti-patterns | Gareth Brown | [Read More](https://medium.com/p/afe5c4a919b9) |
 | Sun, 27 Apr 2025 08:36:29 GMT | Mastering Ethical Hacking: A Comprehensive Guide to Securing Modern Operating Systems | Benjaminmillerdev | [Read More](https://medium.com/p/45fd64dc2d4a) |
+| Sun, 27 Apr 2025 08:34:57 GMT | Step 10 — Restrictions, Rules, and Knowledge Transfer in the Military Unified Command Platform… | Oleg Gavrylenko | [Read More](https://medium.com/p/036a17601d60) |
+| Sun, 27 Apr 2025 08:31:32 GMT | Cactus Group using “ToyMaker” threat group’s stolen data to make its way to victim infrastructure. | Neha Sawant | [Read More](https://medium.com/p/15aec8d78f7b) |
 | Sun, 27 Apr 2025 08:29:16 GMT | Remote Code Execution (RCE) in Symfony - Full Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/644f41225c9b) |
 | Sun, 27 Apr 2025 08:24:54 GMT | SQL Injection ve XSS Açıkları: Anlaşılır Örneklerle Güvenlik İpuçları | Aysel Sündük | [Read More](https://medium.com/p/2c61167dc2ca) |
 | Sun, 27 Apr 2025 08:19:40 GMT | Security Tools on Windows Part 1 | Red | [Read More](https://medium.com/p/f075bb6213d3) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 00:58:31 GMT | Aswan CTF Finals 2025 DFIR writeup | Immortal_ibr | [Read More](https://medium.com/p/193c9bd970d9) |
 | Sun, 27 Apr 2025 00:48:30 GMT | Wi-Fi Is Stealing Your Dollars! Android, iOS, and Windows Are All Affected! | Muzhenhai | [Read More](https://medium.com/p/b4ede12714a9) |
 | Sun, 27 Apr 2025 00:42:27 GMT | Twitch Analysis Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7c494fcfe0bc) |
-| Sun, 27 Apr 2025 00:35:53 GMT | How to Earn Consistent Passive Rewards with Recon Solana $RECON | Recon Solana | [Read More](https://medium.com/p/7f30b0dbd760) |
-| Sun, 27 Apr 2025 00:31:24 GMT | Zabbix Agent Installer on Ubuntu Desktop | Dante | [Read More](https://medium.com/p/620715e74760) |
-| Sun, 27 Apr 2025 00:17:29 GMT | XposedAPI Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/aff570031e86) |
-| Sun, 27 Apr 2025 00:16:20 GMT | "In today's digital world, understanding the impact of adult content on our mental health and… | Breaking chains | [Read More](https://medium.com/p/4baab49b91ab) |
-| Sun, 27 Apr 2025 00:04:26 GMT | Using Hyper-RAG Hypergraph Technology to End AI Hallucinations: A 2025 Security Defense Guide | Li Zixiang | [Read More](https://medium.com/p/b9b7db82b3c5) |
-| Sun, 27 Apr 2025 00:02:31 GMT | Hack The Box — Challenge — OnlyHacks Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/94ed01a7be94) |
-| Sat, 26 Apr 2025 23:52:52 GMT | AI-Driven Threats: How Attackers Are Using Artificial Intelligence in 2025 | Brian Olson | [Read More](https://medium.com/p/a762f87908aa) |
-| Sat, 26 Apr 2025 23:43:47 GMT | Beyond Cyber bullying: How Teachers Can Help Protect Students from Cyber Security Threats | Cyber Secure Step Consulting | [Read More](https://medium.com/p/75717f0eb351) |
-| Sat, 26 Apr 2025 23:32:12 GMT | The Hidden Costs of Ignoring Chaos Engineering: Downtime, Breaches, and Reputation Loss! | Darius Powell - Security & Resilience Consultant | [Read More](https://medium.com/p/59c2b943ebf3) |
-| Sat, 26 Apr 2025 23:12:19 GMT | 10 Ordinary Household Items That Were Accidentally Deadly Weapons | Maximillian | [Read More](https://medium.com/p/b0d6dde301c1) |
