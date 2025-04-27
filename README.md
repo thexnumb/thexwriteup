@@ -14,8 +14,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 06:46:01 GMT | How to Turn Cybersecurity Into a Full-Time Income (My Blueprint) | Abhijeet Kumawat | [Read More](https://medium.com/p/f4d70cb01f73) |
+| Sun, 27 Apr 2025 06:42:24 GMT | Cybersecurity Analyst by Day, Google Researcher by Night | Vijay Kumar Gupta | [Read More](https://medium.com/p/8e933fa10a42) |
+| Sun, 27 Apr 2025 06:39:43 GMT | How to Find Legit Hackers Online to Fix Your Credit Fast in 2025 | Labib Yasir | [Read More](https://medium.com/p/f38e8e44dc3e) |
 | Sun, 27 Apr 2025 06:23:20 GMT | How I Found The Unauthorized account manipulation? | DOD cyber solutions | [Read More](https://medium.com/p/3f3312360751) |
 | Sun, 27 Apr 2025 06:21:30 GMT | Attacking Web Applications with FFuF | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/63673231452e) |
+| Sun, 27 Apr 2025 06:20:17 GMT | Don’t Leave Your Website Unprotected: Practical Web Security Testing for Small Businesses (No… | VidyaRao | [Read More](https://medium.com/p/56cddbe8f714) |
+| Sun, 27 Apr 2025 06:19:40 GMT | How Does HTTPS Actually Work? (Full Guide + Expert Tips in 2025) | Raj Sharma | [Read More](https://medium.com/p/6b7161070e5c) |
 | Sun, 27 Apr 2025 06:18:23 GMT | How to Handle File Uploads in Next.js 15 with React-Hook-Form and React-Query | Alexandre PENOMBRE | [Read More](https://medium.com/p/bfb5a8555faa) |
 | Sun, 27 Apr 2025 06:11:27 GMT | CamHunt: Uncovering Hidden Cameras in Your Network | LETCHU PKT | [Read More](https://medium.com/p/a475010aa7b6) |
 | Sun, 27 Apr 2025 06:06:37 GMT | New Malware “DslogdRAT” Exploited Ivanti ICS Zero-Day (CVE-2025–0282) in Japan | CyDhaal | [Read More](https://medium.com/p/7fdb0d102e3c) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 19:47:53 GMT | LetsDefend — Memory Analysis Challenge | Raphael Nicolich | [Read More](https://medium.com/p/64104e6298cb) |
 | Sat, 26 Apr 2025 19:43:45 GMT | 3 Myths About Fixing Bad ITAD | Kyle Marks | [Read More](https://medium.com/p/75b4481d21a0) |
 | Sat, 26 Apr 2025 19:32:11 GMT | Steam Profile QR‘s | Max Spivey | [Read More](https://medium.com/p/fd1f3090d663) |
-| Sat, 26 Apr 2025 19:24:26 GMT | AWS Secrets Manager : A walkthrough on how it works to protect your secrets in AWS | Collin Smith | [Read More](https://medium.com/p/eac5b37bf954) |
-| Sat, 26 Apr 2025 19:07:09 GMT | Beware of Instant Loan App Scams: How to Stay Safe From Loan App Scams | CyberSafe Academy | [Read More](https://medium.com/p/f653196ac6ac) |
-| Sat, 26 Apr 2025 19:06:13 GMT | Difference Between Authorization and Authentication | ANDI NUGROHO | [Read More](https://medium.com/p/e535563344e5) |
-| Sat, 26 Apr 2025 19:02:05 GMT | an Almost Perfect Attack Chain | Daouda Diallo | [Read More](https://medium.com/p/4205822fee34) |
-| Sat, 26 Apr 2025 19:01:25 GMT | Beware of Instant Loan App Scams: Don’t Fall for Quick Money Traps | CyberSafe Academy | [Read More](https://medium.com/p/883b6a6142a3) |
