@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 16:03:45 GMT | Security-First Flutter: Implementing Passkeys, Hardware Keystore, and Side-Channel Hardening | Subhanu Majumder | [Read More](https://medium.com/p/c0d88dc02e7f) |
+| Sun, 27 Apr 2025 16:02:34 GMT | Vulnerability Scanning vs. Penetration Testing: What’s the Difference? | Black Lock | [Read More](https://medium.com/p/b2cd42956de1) |
+| Sun, 27 Apr 2025 15:45:41 GMT | Navigate The Digital World With Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/66a7e57c88cc) |
+| Sun, 27 Apr 2025 15:44:35 GMT | Mastering Modern Red Teaming Infrastructure Part 7: Advanced Phishing Techniques for 2FA Bypass… | Faris Faisal 0xFF | [Read More](https://medium.com/p/85f9adc4dc3b) |
 | Sun, 27 Apr 2025 15:35:15 GMT | a simple watch tower (: | Cryptoboot | [Read More](https://medium.com/p/19467f0bee49) |
 | Sun, 27 Apr 2025 15:34:02 GMT | How to Write Effective Cybersecurity Documentation and Pentest Reports | Diogo Neto | [Read More](https://medium.com/p/4b0fe326db11) |
 | Sun, 27 Apr 2025 15:32:28 GMT | POC — Remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary code… | Very Lazy Tech | [Read More](https://medium.com/p/4b591d45ff4f) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 08:48:16 GMT | The Future of Bug Bounties: What Ethical Hackers Need to Know! | CyberTalents | [Read More](https://medium.com/p/2a5fba3213b9) |
 | Sun, 27 Apr 2025 08:39:44 GMT | Taming DevOps Chaos: How Platform Engineering and Developer Platforms Combat Anti-patterns | Gareth Brown | [Read More](https://medium.com/p/afe5c4a919b9) |
 | Sun, 27 Apr 2025 08:36:29 GMT | Mastering Ethical Hacking: A Comprehensive Guide to Securing Modern Operating Systems | Benjaminmillerdev | [Read More](https://medium.com/p/45fd64dc2d4a) |
-| Sun, 27 Apr 2025 08:34:57 GMT | Step 10 — Restrictions, Rules, and Knowledge Transfer in the Military Unified Command Platform… | Oleg Gavrylenko | [Read More](https://medium.com/p/036a17601d60) |
-| Sun, 27 Apr 2025 08:31:32 GMT | Cactus Group using “ToyMaker” threat group’s stolen data to make its way to victim infrastructure. | Neha Sawant | [Read More](https://medium.com/p/15aec8d78f7b) |
-| Sun, 27 Apr 2025 08:29:16 GMT | Remote Code Execution (RCE) in Symfony - Full Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/644f41225c9b) |
-| Sun, 27 Apr 2025 08:24:54 GMT | SQL Injection ve XSS Açıkları: Anlaşılır Örneklerle Güvenlik İpuçları | Aysel Sündük | [Read More](https://medium.com/p/2c61167dc2ca) |
