@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 19:35:57 GMT | Dancing Without Strength - poem. | Moonshade | [Read More](https://medium.com/p/89650750b7ef) |
+| Sun, 27 Apr 2025 19:33:48 GMT | Vaulting over a .innerHTML sink in a Locked-Down CSP | SMHTahsin33 | [Read More](https://medium.com/p/a628be8ba9dc) |
+| Sun, 27 Apr 2025 19:25:16 GMT | Your Go-To LLM Security Checklist for PenTesting. | Seb AGUELE | [Read More](https://medium.com/p/87115d7a4817) |
+| Sun, 27 Apr 2025 19:21:17 GMT | The Role of Exotic Top-Level Domains (.st, | An0n | [Read More](https://medium.com/p/856c5cc6ec4b) |
+| Sun, 27 Apr 2025 19:17:07 GMT | TryHackMe - AV Evasion: Shellcode - WriteUp | Axoloth | [Read More](https://medium.com/p/30ab56613089) |
+| Sun, 27 Apr 2025 19:13:15 GMT | Guarding the Web: A Beginner’s Guide to CSRF, XSS, and SQL Injection | Mohamed Ashfaq | [Read More](https://medium.com/p/779c1d738593) |
 | Sun, 27 Apr 2025 19:12:19 GMT | The World Needs More Cyber Warriors: Here’s Why You Should Join Cybersecurity Today | Uday Venkat | [Read More](https://medium.com/p/323a5a4c7485) |
 | Sun, 27 Apr 2025 18:57:14 GMT | Google Agents Developers Kit (ADK) First Impressions and Quick Glance Security Considerations. | Juan Giarrizzo | [Read More](https://medium.com/p/ca2f30e9bb83) |
 | Sun, 27 Apr 2025 18:49:29 GMT | Cybersecurity for Beginners: A Fun & Easy Guide to Staying Safe Online | General Updates | [Read More](https://medium.com/p/d8860a3e707e) |
@@ -109,9 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 12:27:38 GMT | Secrets - Writeup | Marvin | [Read More](https://medium.com/p/c3e7baa66a5b) |
 | Sun, 27 Apr 2025 12:22:27 GMT | What Nearly Losing My Aunt’s Passwords Taught Me About Digital Security | Sam Galope | [Read More](https://medium.com/p/d19b40fd04aa) |
 | Sun, 27 Apr 2025 12:21:08 GMT | Quantum Era Cryptography and Attack Techniques ️ | Esra Kayhan | [Read More](https://medium.com/p/7010c00c87a5) |
-| Sun, 27 Apr 2025 12:15:11 GMT | How to Report a Security Vulnerability Responsibly | Pawan Jaiswal | [Read More](https://medium.com/p/a06c88a75fb9) |
-| Sun, 27 Apr 2025 12:14:36 GMT | Lab Report#4 Kerberoasting Attack and Event Log Analysis | Samet Koca | [Read More](https://medium.com/p/c91ee1a46dd7) |
-| Sun, 27 Apr 2025 12:11:16 GMT | AI-Based Threat Hunting | Esra Kayhan | [Read More](https://medium.com/p/9150633cb30e) |
-| Sun, 27 Apr 2025 12:06:17 GMT | Insider Threats: The Silent Risk Lurking Inside Organizations ️‍♂️ | Tony Kipchirchir. | [Read More](https://medium.com/p/23dccb3e4af4) |
-| Sun, 27 Apr 2025 12:04:14 GMT | Cybersecurity in 2025: New Threats and How to Stay Protected | Mainak Ghosh | [Read More](https://medium.com/p/502c135db23d) |
-| Sun, 27 Apr 2025 11:59:19 GMT | Federated Identity Management (FIM) & Security Assertion Markup Language (SAML) | Igor Berner | [Read More](https://medium.com/p/aeaf2ac6508f) |
