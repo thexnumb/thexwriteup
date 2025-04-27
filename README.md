@@ -14,6 +14,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 18:18:37 GMT | Testing some features for creating accounts and tickets through Salesforce | Tyrik Emptage | [Read More](https://medium.com/p/db941ab06415) |
+| Sun, 27 Apr 2025 18:08:56 GMT | ⚡ AI-CMD-X: Transform Your Plain English into Powerful Windows Commands Instantly! | The Pentrix | [Read More](https://medium.com/p/be9693eb6ec6) |
+| Sun, 27 Apr 2025 18:06:15 GMT | Glitch-TryHackme(Writeup) | CyberLabyrinthX | [Read More](https://medium.com/p/276fb3a3ddbe) |
+| Sun, 27 Apr 2025 18:01:33 GMT | Is Palo Alto Networks the Secret to Cloud Security World Domination? | Petros Magopoulos | [Read More](https://medium.com/p/a4be30a816f2) |
+| Sun, 27 Apr 2025 18:01:23 GMT | From Discovery to Patch: Critical DOM XSS & Open Redirect in Toyota’s Parts Portal | N0aziXss | [Read More](https://medium.com/p/e36383fa1aa1) |
+| Sun, 27 Apr 2025 17:52:34 GMT | ️ Advanced Cybersecurity Solutions by Hyperscales | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/f6a11ce678bb) |
+| Sun, 27 Apr 2025 17:49:48 GMT | VPS Hosting Solutions Powered by Hyperscales | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/df5e5ebb9a14) |
+| Sun, 27 Apr 2025 17:47:39 GMT | Deliver Lightning-Fast Experiences, Anywhere in the World | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/38aa4cdf966d) |
+| Sun, 27 Apr 2025 17:47:02 GMT | Part 1: What If Your Entire Business Could Go Down Because of One Vendor? | Taiwo Tomiwa | [Read More](https://medium.com/p/56e51235a489) |
+| Sun, 27 Apr 2025 17:46:57 GMT | What is Encryption | Samxia99 | [Read More](https://medium.com/p/c621c7e7fe5a) |
+| Sun, 27 Apr 2025 17:46:02 GMT | Welcome to CCWB — Cybersecurity Compliance Without Bullshit | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/6f9a5f16fa42) |
+| Sun, 27 Apr 2025 17:44:11 GMT | Spring Boot Actuator: The Hidden Security Time Bomb — Are You Exposing Too Much? | Himanshu | [Read More](https://medium.com/p/6ff21db277fc) |
+| Sun, 27 Apr 2025 17:41:05 GMT | The Rising Need for Compliance by Design in Modern Application Development | Kiran Maraju | [Read More](https://medium.com/p/d019e95e8e08) |
+| Sun, 27 Apr 2025 17:39:23 GMT | Exploring Virtual Machines for Cybersecurity: My Experience with VM Escape and How It Works | Mr. MOM | [Read More](https://medium.com/p/0e73f75cf605) |
 | Sun, 27 Apr 2025 17:29:45 GMT | Vulnerability Assesment of MS17–010 Eternal Blue SMB Remote
 Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medium.com/p/c35d567feb62) |
 | Sun, 27 Apr 2025 17:24:15 GMT | Why Treasures Are Hidden | maika go nudge | [Read More](https://medium.com/p/fad281811533) |
@@ -101,17 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 10:46:37 GMT | GamingServer Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/f6548746bfd1) |
 | Sun, 27 Apr 2025 10:45:28 GMT | Understanding Web Cache Deception : Doctor’s Analogy | A Noob Pentester | [Read More](https://medium.com/p/e1ba7eb8fd46) |
 | Sun, 27 Apr 2025 10:36:45 GMT | Exposing Firebase Misconfiguration | 0xera51 | [Read More](https://medium.com/p/99795ba8139b) |
-| Sun, 27 Apr 2025 10:36:30 GMT | Is Trust Wallet/MetaMask safe or can it be hacked? | Strategicfraudintelligence | [Read More](https://medium.com/p/08c9801d4099) |
-| Sun, 27 Apr 2025 10:32:37 GMT | Is It Possible to Hack the Paytm Soundbox? | Darshan Naresh Naik | [Read More](https://medium.com/p/03f2a9dee762) |
-| Sun, 27 Apr 2025 10:31:00 GMT | People are fragile things | James Bishop | [Read More](https://medium.com/p/b8a7e453cfe7) |
-| Sun, 27 Apr 2025 10:26:49 GMT | How to Find the IP Address and Other Hidden Information Behind a Website | Alpondith | [Read More](https://medium.com/p/1203b4f3603a) |
-| Sun, 27 Apr 2025 10:26:47 GMT | Mastering OverTheWire Bandit: Complete Walkthrough From Level 0 to Level 5 | Nikita | [Read More](https://medium.com/p/15b0d7fe2456) |
-| Sun, 27 Apr 2025 10:25:19 GMT | The New Fault Line: Should CFOs Share Accountability for Cybersecurity Failures? | Dinesh Dino | [Read More](https://medium.com/p/523a366c23e1) |
-| Sun, 27 Apr 2025 10:22:09 GMT | Unmasking the Hidden Frauds on Solana Using Messari APIs! | Roshni kumari | [Read More](https://medium.com/p/78152c78b38e) |
-| Sun, 27 Apr 2025 10:21:00 GMT | Simulated Network With Kali Linux. | Odunlade Joshua | [Read More](https://medium.com/p/55d3e41d2c0d) |
-| Sun, 27 Apr 2025 10:16:26 GMT | OSCP Capstone Lab: Enumerate the Learning Module Exercise — VM #3 and exploit the SQLi… | Kacper Waliczek | [Read More](https://medium.com/p/0fa7d370aaef) |
-| Sun, 27 Apr 2025 10:08:46 GMT | 04: Project VNAx | Navenesh Kumar | [Read More](https://medium.com/p/7db20264e119) |
-| Sun, 27 Apr 2025 10:06:51 GMT | Tech Security Challenges in Cyber-Physical Systems | Data defendere | [Read More](https://medium.com/p/9d96c34d188e) |
-| Sun, 27 Apr 2025 10:01:43 GMT | If Tor Is Secure, Why Do People Still Get Hacked While Using It? let’s break it down | Deft Hacker | [Read More](https://medium.com/p/911476994ed7) |
-| Sun, 27 Apr 2025 09:59:35 GMT | cMaking a secure program? | Fatih Raditya | [Read More](https://medium.com/p/6a42c2144294) |
-| Sun, 27 Apr 2025 09:57:59 GMT | Secure Your Cloud-Native Application in GCP | Dolly Aswin Harahap | [Read More](https://medium.com/p/6e783ea49750) |
