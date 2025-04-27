@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 04:39:20 GMT | Learning from Failure: A Real-World Look at DDoS Defense Missteps | Jerry Yonga | [Read More](https://medium.com/p/96b5c97a4075) |
+| Sun, 27 Apr 2025 04:35:28 GMT | Why the Arabs are unabashedly sustaining the path of normalisation with Israel. | Adil Naseer | [Read More](https://medium.com/p/372341bed29b) |
+| Sun, 27 Apr 2025 04:32:32 GMT | Mastering OAuth 2.0 & OIDC: The Complete Beginner-to-Expert Guide | Jayram Manale | [Read More](https://medium.com/p/7accb0db1d3e) |
+| Sun, 27 Apr 2025 04:27:44 GMT | “Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs” | Comp_Nayan Choudhary | [Read More](https://medium.com/p/1b7380c62943) |
+| Sun, 27 Apr 2025 04:18:06 GMT | Slow Success: The Beautiful Journey No One Talks About | Emily Wilson | [Read More](https://medium.com/p/a54971a86618) |
+| Sun, 27 Apr 2025 04:15:01 GMT | Gridinsoft Anti-Malware: The Lightweight Malware Killer That Actually Works | Brendan Smith | [Read More](https://medium.com/p/f600acf8c0b7) |
 | Sun, 27 Apr 2025 04:02:31 GMT | CTF Challenge: The Phantom’s Trail — Unveil the Hidden Key | sambaf | [Read More](https://medium.com/p/e084b0f6eb34) |
 | Sun, 27 Apr 2025 03:50:53 GMT | How VPNs Work To Protect Your Identity Online | James Neal | [Read More](https://medium.com/p/3439672965a4) |
 | Sun, 27 Apr 2025 03:47:10 GMT | Code, Coffee, and a Weekend: My Personal Hackathon Ritual | hiruthicSha | [Read More](https://medium.com/p/c6d8d48894da) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 17:11:01 GMT | Why Spring Boot REST APIs Are Still Wide Open to Security Breaches in 2025 (And How to Fix It) | Himanshu | [Read More](https://medium.com/p/9f86f59b7a26) |
 | Sat, 26 Apr 2025 17:09:23 GMT | Private & Secure Smart Contract-Free Asset Tokenization | Alan Nekhom | [Read More](https://medium.com/p/81c8a54e38a0) |
 | Sat, 26 Apr 2025 17:09:01 GMT | ️ How to Save Your Mobile App from Security Attacks | Amar Kumar | [Read More](https://medium.com/p/39a20905c5fb) |
-| Sat, 26 Apr 2025 17:04:57 GMT | "AI Prompt Engineering: Crafting the Future with Words and Intelligence" | Pavan | [Read More](https://medium.com/p/c36310ae811f) |
-| Sat, 26 Apr 2025 16:56:34 GMT | WİNDOWS 10’UN SONU YAKLAŞIYOR: DEVAM MI, DEĞİŞİM Mİ? | HSD Fırat Üniversitesi | [Read More](https://medium.com/p/c0d77a914ac0) |
-| Sat, 26 Apr 2025 16:51:12 GMT | Conspiración Hacker By Ruben H Rios Book Review | Art Of Code | [Read More](https://medium.com/p/e5de63eecedc) |
-| Sat, 26 Apr 2025 16:45:46 GMT | Getting Started with Kali Linux: The Operating System Every Aspiring Hacker Should Know | MOHAMMAD SHAIKH | [Read More](https://medium.com/p/93b570824a74) |
-| Sat, 26 Apr 2025 16:34:42 GMT | How Hackers Use Images, PDFs, and Voice Messages to Hack Devices? | Vishnu | [Read More](https://medium.com/p/e0c903e369bc) |
-| Sat, 26 Apr 2025 16:32:56 GMT | Why Identity and Access Management (IAM) Isn’t Just for Techies | Srivastavamanjari | [Read More](https://medium.com/p/02170de1e48d) |
