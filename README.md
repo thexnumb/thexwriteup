@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 21:01:30 GMT | A Letter from a Broken Heart | María Encinas | [Read More](https://medium.com/p/b43841aaaf32) |
+| Sun, 27 Apr 2025 20:56:22 GMT | The part of artificial intelligence in contemporary cybersecurity | Udara Sandakelum | [Read More](https://medium.com/p/dc69a20c47c3) |
+| Sun, 27 Apr 2025 20:54:44 GMT | Top 10 Cybersecurity Tools Every Beginner Should Know About | Udara Sandakelum | [Read More](https://medium.com/p/baa51ec6691c) |
+| Sun, 27 Apr 2025 20:54:31 GMT | The Noiseless Cyber Wars | Mohammed Thabet | [Read More](https://medium.com/p/51adad802e55) |
+| Sun, 27 Apr 2025 20:51:24 GMT | Why Cybersecurity Should Be Taught in Schools | Udara Sandakelum | [Read More](https://medium.com/p/deec228f9ed3) |
+| Sun, 27 Apr 2025 20:45:39 GMT | Investigating Log4Shell: A Deep Dive into the Vulnerability That Shook Cybersecurity — CodePath… | Mateo Flores | [Read More](https://medium.com/p/e66e3f9dbd11) |
+| Sun, 27 Apr 2025 20:45:21 GMT | The Infrastructure of Trust: Blockchain, Security & Compliance | Paywaz | [Read More](https://medium.com/p/ff4913fe4378) |
+| Sun, 27 Apr 2025 20:40:18 GMT | JS[2] Insertion into HTML: innerHTML vs appendChild | AmishaPriya | [Read More](https://medium.com/p/9d7016506587) |
+| Sun, 27 Apr 2025 20:36:00 GMT | Detecting Policy Puppetry in LLM Prompts: A Simple, Transparent Approach | Alex Alexapolsky | [Read More](https://medium.com/p/f4a36f069ba2) |
+| Sun, 27 Apr 2025 20:33:44 GMT | Assets Chains Disputes And Recoveries! | Assetschainsonlinerecovery | [Read More](https://medium.com/p/026de5c75e36) |
+| Sun, 27 Apr 2025 20:30:22 GMT | Qripton: One-Time Keys for Every Encryption Request | Erik Rowan | [Read More](https://medium.com/p/f9f499fd41c7) |
 | Sun, 27 Apr 2025 20:27:12 GMT | How to Set Up a Secure Linux Server (for Beginners) | Hizam Alaklbi | [Read More](https://medium.com/p/02ecbb3765d5) |
 | Sun, 27 Apr 2025 20:27:11 GMT | Mastering Burp Suite Basics | musayyab sharif | [Read More](https://medium.com/p/479ffb8d1624) |
 | Sun, 27 Apr 2025 20:24:10 GMT | Why You Should Use AI Even if You Think You Don’t Need It | E. Ibrahimi | [Read More](https://medium.com/p/5d0f64c4eb1a) |
@@ -104,14 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 14:25:15 GMT | Sliver Shellcode: Bypassing AV with Fuscation | Lukas Kinneberg | [Read More](https://medium.com/p/648c92497b27) |
 | Sun, 27 Apr 2025 14:23:09 GMT | Why App Stores Exist And Many Developers Never Welcome Them | Jan Kammerath | [Read More](https://medium.com/p/84c1ca9fc07a) |
 | Sun, 27 Apr 2025 14:19:39 GMT | Enabling Remote Desktop and SSH access to Kali | Md Zishan Firoz | [Read More](https://medium.com/p/e18cadae12a9) |
-| Sun, 27 Apr 2025 14:18:50 GMT | The dangerous direction of modern password management | Roman Maksimovich | [Read More](https://medium.com/p/9bb2c3034b5c) |
-| Sun, 27 Apr 2025 14:15:34 GMT | Oversharing with AI: Why Workplace Privacy Needs a Wake-Up Call | Dushyanth Chowdary | [Read More](https://medium.com/p/909510ebff48) |
-| Sun, 27 Apr 2025 14:09:54 GMT | ️ HackTheBox Kerala — Unleashing Cyber Talent from God’s Own Country | Karthik Krishnan | [Read More](https://medium.com/p/edb2e802ab5a) |
-| Sun, 27 Apr 2025 14:07:17 GMT | IT Solutions for Education: Enhancing Learning and Innovation | Rapidise Inc | [Read More](https://medium.com/p/c6ba75fc3758) |
-| Sun, 27 Apr 2025 14:03:07 GMT | Automating CVE Data Collection with Web Scrapping | Handhika Yanuar Pratama | [Read More](https://medium.com/p/966323bde819) |
-| Sun, 27 Apr 2025 13:35:39 GMT | Is it Possible to Get My Crypto Back After a Scam? | Dimasdeleon | [Read More](https://medium.com/p/be9069625cea) |
-| Sun, 27 Apr 2025 13:34:25 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/8de3fa6089f3) |
-| Sun, 27 Apr 2025 13:33:53 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/1d48e5d1debf) |
-| Sun, 27 Apr 2025 13:28:00 GMT | Login? Who Needs That? Bypassing OAuth Like a Lazy Hacker on Sunday ☀️ | Iski | [Read More](https://medium.com/p/76802cc8025d) |
-| Sun, 27 Apr 2025 13:16:07 GMT | X ICOS | aksusarya | [Read More](https://medium.com/p/3753aab43291) |
-| Sun, 27 Apr 2025 13:12:47 GMT | HTB — Shocker | CyberQuestor | [Read More](https://medium.com/p/51b95545379f) |
