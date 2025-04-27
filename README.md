@@ -14,6 +14,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 10:32:37 GMT | Is It Possible to Hack the Paytm Soundbox? | Darshan Naresh Naik | [Read More](https://medium.com/p/03f2a9dee762) |
+| Sun, 27 Apr 2025 10:26:49 GMT | How to Find the IP Address and Other Hidden Information Behind a Website | Alpondith | [Read More](https://medium.com/p/1203b4f3603a) |
+| Sun, 27 Apr 2025 10:26:47 GMT | Mastering OverTheWire Bandit: Complete Walkthrough From Level 0 to Level 5 | Nikita | [Read More](https://medium.com/p/15b0d7fe2456) |
+| Sun, 27 Apr 2025 10:25:19 GMT | The New Fault Line: Should CFOs Share Accountability for Cybersecurity Failures? | Dinesh Dino | [Read More](https://medium.com/p/523a366c23e1) |
+| Sun, 27 Apr 2025 10:22:09 GMT | Unmasking the Hidden Frauds on Solana Using Messari APIs! | Roshni kumari | [Read More](https://medium.com/p/78152c78b38e) |
+| Sun, 27 Apr 2025 10:21:00 GMT | Simulated Network With Kali Linux. | Odunlade Joshua | [Read More](https://medium.com/p/55d3e41d2c0d) |
 | Sun, 27 Apr 2025 10:16:26 GMT | OSCP Capstone Lab: Enumerate the Learning Module Exercise — VM #3 and exploit the SQLi… | Kacper Waliczek | [Read More](https://medium.com/p/0fa7d370aaef) |
 | Sun, 27 Apr 2025 10:08:46 GMT | 04: Project VNAx | Navenesh Kumar | [Read More](https://medium.com/p/7db20264e119) |
 | Sun, 27 Apr 2025 10:06:51 GMT | Tech Security Challenges in Cyber-Physical Systems | Data defendere | [Read More](https://medium.com/p/9d96c34d188e) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 03:12:29 GMT | Israel &amp; Gaza: Separating Fact from Fiction | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a7e635f73cb4) |
 | Sun, 27 Apr 2025 03:10:15 GMT | Which Smart Doorbell is Right for You? | Scals | [Read More](https://medium.com/p/d04845f13e51) |
 | Sun, 27 Apr 2025 03:09:39 GMT | Who Really Controls the World? A Deep Dive into the Invisible Forces Shaping Our Reality | Emily Wilson | [Read More](https://medium.com/p/11f00355f373) |
-| Sun, 27 Apr 2025 03:02:30 GMT | Day 2 - Networking Basics: Are We Connected? | kate | [Read More](https://medium.com/p/068b1c9ba91d) |
-| Sun, 27 Apr 2025 02:58:50 GMT | Do We Really Exist — Or Are We Just Illusions? | Emily Wilson | [Read More](https://medium.com/p/48e112e7c6d8) |
-| Sun, 27 Apr 2025 02:56:23 GMT | Technology Decisions I Made as A Cybersecurity Expert and a New Parent…Links & Resources | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/4a04d1c95acf) |
-| Sun, 27 Apr 2025 02:47:45 GMT | Am I Just Human — or Something Beyond? | Emily Wilson | [Read More](https://medium.com/p/1a5b73584560) |
-| Sun, 27 Apr 2025 02:40:18 GMT | Day 1 -  IT Fundamentals: Very Beginner | kate | [Read More](https://medium.com/p/e9739ec8278d) |
-| Sun, 27 Apr 2025 02:39:32 GMT | Distroless Docker: Minimalism for Maximum Security | Sanjay Balaji | [Read More](https://medium.com/p/62a08753fc28) |
