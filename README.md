@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 04:02:31 GMT | CTF Challenge: The Phantom’s Trail — Unveil the Hidden Key | sambaf | [Read More](https://medium.com/p/e084b0f6eb34) |
+| Sun, 27 Apr 2025 03:50:53 GMT | How VPNs Work To Protect Your Identity Online | James Neal | [Read More](https://medium.com/p/3439672965a4) |
+| Sun, 27 Apr 2025 03:47:10 GMT | Code, Coffee, and a Weekend: My Personal Hackathon Ritual | hiruthicSha | [Read More](https://medium.com/p/c6d8d48894da) |
+| Sun, 27 Apr 2025 03:45:49 GMT | Ensure Digital Safety With The Best VPN Technologies | Melvin Erickson | [Read More](https://medium.com/p/1444844cb923) |
+| Sun, 27 Apr 2025 03:42:28 GMT | SMAG GROTTO — TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/5942c0f9f9cf) |
 | Sun, 27 Apr 2025 03:12:29 GMT | Israel &amp; Gaza: Separating Fact from Fiction | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/a7e635f73cb4) |
 | Sun, 27 Apr 2025 03:10:15 GMT | Which Smart Doorbell is Right for You? | Scals | [Read More](https://medium.com/p/d04845f13e51) |
 | Sun, 27 Apr 2025 03:09:39 GMT | Who Really Controls the World? A Deep Dive into the Invisible Forces Shaping Our Reality | Emily Wilson | [Read More](https://medium.com/p/11f00355f373) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 16:45:46 GMT | Getting Started with Kali Linux: The Operating System Every Aspiring Hacker Should Know | MOHAMMAD SHAIKH | [Read More](https://medium.com/p/93b570824a74) |
 | Sat, 26 Apr 2025 16:34:42 GMT | How Hackers Use Images, PDFs, and Voice Messages to Hack Devices? | Vishnu | [Read More](https://medium.com/p/e0c903e369bc) |
 | Sat, 26 Apr 2025 16:32:56 GMT | Why Identity and Access Management (IAM) Isn’t Just for Techies | Srivastavamanjari | [Read More](https://medium.com/p/02170de1e48d) |
-| Sat, 26 Apr 2025 16:31:21 GMT | OSINT ແມ່ນຫຍັງ? ຍ້ອນຫຍັງຂໍ້ມູນສ່ວນໂຕເຮົາໃນໂລກອອນລາຍຈຶ່ງສຳຄັນ? | 0xJ0cKkY | [Read More](https://medium.com/p/4d1af527693a) |
-| Sat, 26 Apr 2025 16:26:09 GMT | Tips to save your digital footprints | NANDINI NANDAKUMAR | [Read More](https://medium.com/p/95772c7b7a3c) |
-| Sat, 26 Apr 2025 16:23:24 GMT | “Pen testing with Default Credentials: A Step-by-Step Attack Simulation” | Pooja Madivalar | [Read More](https://medium.com/p/f65aba8805d6) |
-| Sat, 26 Apr 2025 16:18:08 GMT | ColdBoxEasy Walkthrough - Proving Grounds Play | Adam Bartlett | [Read More](https://medium.com/p/e0bf33afa512) |
-| Sat, 26 Apr 2025 16:13:28 GMT | Work Securely with a Private Server and Linux Laptop | Asterios Raptis | [Read More](https://medium.com/p/142313aa52b1) |
