@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 08:13:46 GMT | Identity Fundamentals for Beginners: A Security+ SY0–701 Guide with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/9c37fce1d26b) |
+| Sun, 27 Apr 2025 08:02:09 GMT | Unsecured Memcached Server Leading to Sensitive Information Disclosure | Riyan Yan | [Read More](https://medium.com/p/dfa2bd2dfdb4) |
+| Sun, 27 Apr 2025 08:01:50 GMT | Ethical Hacking Summer Internship Program [2025] | Ankit_Cyber | [Read More](https://medium.com/p/9a059c656cc2) |
+| Sun, 27 Apr 2025 08:01:33 GMT | Encoding vs Encryption: Why Knowing the Difference Makes You a Tech Hero | Mohamed ElEmam | [Read More](https://medium.com/p/6f33fc01acc4) |
+| Sun, 27 Apr 2025 07:50:35 GMT | Analyzing a new Persian Malware- (i’ll call it Netix) | Manish Adithya (5h3nron) | [Read More](https://medium.com/p/a37c934b5cb2) |
+| Sun, 27 Apr 2025 07:50:06 GMT | Implementing Zero Trust Security for Spring Boot Applications in Kubernetes | ThamizhElango Natarajan | [Read More](https://medium.com/p/6f3a9ce1f124) |
+| Sun, 27 Apr 2025 07:45:46 GMT | Your CMS Could Be Under Attack Right Now As I Write This — Here's How to Protect It | Amaka okoye | [Read More](https://medium.com/p/e30a986b75db) |
+| Sun, 27 Apr 2025 07:43:49 GMT | Building Privacy-First AI Systems Using Fully Homomorphic Encryption (FHE) | Prathamesh Kodgire | [Read More](https://medium.com/p/b8dca875ecc0) |
+| Sun, 27 Apr 2025 07:33:36 GMT | HTB: Cap (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/08d7ddccbac7) |
 | Sun, 27 Apr 2025 07:23:01 GMT | Lock Your Supply Cabinet | Mr Success | [Read More](https://medium.com/p/b09b46e6f5d4) |
 | Sun, 27 Apr 2025 07:17:41 GMT | How to Run a Vulnerability Scan (And Avoid the Nightmare That Cost Me $5k) | Ahmad Javed | [Read More](https://medium.com/p/5d797c114829) |
 | Sun, 27 Apr 2025 07:16:56 GMT | Safe on the Surface: The Security We Buy vs. the Data We Lose | Ritu Vinayak Ahire | [Read More](https://medium.com/p/7ff8a9ba67ce) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 22:17:10 GMT | Top 10 Underrated Websites Every Cybersecurity Enthusiast Should Explore | Karthikeyan Nagaraj | [Read More](https://medium.com/p/96fdf522fb4a) |
 | Sat, 26 Apr 2025 22:14:22 GMT | Virus:Win32/Expiro: The Digital Chameleon Stealing Your Data | Brendan Smith | [Read More](https://medium.com/p/3b61dcc17700) |
 | Sat, 26 Apr 2025 22:12:10 GMT | My Cybersecurity Journey | Jackson Callister | [Read More](https://medium.com/p/7782981f3975) |
-| Sat, 26 Apr 2025 22:06:24 GMT | Threat Actors Employing SessionShark to Bypass Office 365 MFA Defenses. | current.cybersecurity | [Read More](https://medium.com/p/0771cf7bb414) |
-| Sat, 26 Apr 2025 22:05:13 GMT | How to Get the Install Source of an Application in Android | Burak Taşcı | [Read More](https://medium.com/p/dae7e3c49fbf) |
-| Sat, 26 Apr 2025 22:04:12 GMT | How Retrieval-Augmented Generation (RAG) AI Models Are Shaping the Future of Efficiency in Business | Naiv | [Read More](https://medium.com/p/ca3cd00f3b74) |
-| Sat, 26 Apr 2025 22:00:46 GMT | Almoristics Application: The Sneaky Crypto Miner Stealing Your PC’s Power | Brendan Smith | [Read More](https://medium.com/p/ea31f7c57e37) |
-| Sat, 26 Apr 2025 21:57:35 GMT | No Villains, No victims | Jamal M. Edwards | [Read More](https://medium.com/p/6f20e3ef37a0) |
-| Sat, 26 Apr 2025 21:56:12 GMT | You Can Point a Gun at Me. Just Don’t Say You Care | Lilé van der Weijden | [Read More](https://medium.com/p/90e92be4762b) |
-| Sat, 26 Apr 2025 21:54:35 GMT | A guide to build Burp Suite extensions using Montoya API & Java | Hosam Gemei | [Read More](https://medium.com/p/a8256a169bee) |
-| Sat, 26 Apr 2025 21:44:43 GMT | How Many Ethical Hackers Are Out There? A Global Look Through Google Bug Hunters Data | embossdotar | [Read More](https://medium.com/p/a09fb8e2329e) |
-| Sat, 26 Apr 2025 21:43:43 GMT | Mastering AWS Security Specialty — Post 1: Deep Dive into IAM — Core of AWS Security | Suman Thallapelly | [Read More](https://medium.com/p/3f703c867cfa) |
