@@ -14,7 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 17:29:45 GMT | Vulnerability Assesment of MS17–010 Eternal Blue SMB Remote
+Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medium.com/p/c35d567feb62) |
+| Sun, 27 Apr 2025 17:24:15 GMT | Why Treasures Are Hidden | maika go nudge | [Read More](https://medium.com/p/fad281811533) |
+| Sun, 27 Apr 2025 17:21:14 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 2 (Malware Traffic Analysis with Wireshark) | KingOfPiratez | [Read More](https://medium.com/p/bbaa4bd9f557) |
+| Sun, 27 Apr 2025 17:16:36 GMT | Privilege Escalation via IDOR and ACL Bypass in a SaaS Application | Mohan Kumar N | [Read More](https://medium.com/p/e079bcd2cc4a) |
+| Sun, 27 Apr 2025 17:16:01 GMT | Distributed Denial of Service (DDoS) attack. | err0rgod | [Read More](https://medium.com/p/fa287dd1abb8) |
 | Sun, 27 Apr 2025 17:15:00 GMT | OutSystems Security Rules You Must Follow | reem hamdan | [Read More](https://medium.com/p/9f3f5942a1a0) |
+| Sun, 27 Apr 2025 17:12:38 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 1 (Dynamic Malware Analysis) | KingOfPiratez | [Read More](https://medium.com/p/3a2d69b7251e) |
 | Sun, 27 Apr 2025 17:08:55 GMT | Smuggling My Way Past Frontend Filters: A Fun Find on HackerOne | Ayush Kumar | [Read More](https://medium.com/p/4424dad3a16e) |
 | Sun, 27 Apr 2025 17:07:07 GMT | SwitchBot Smart Home Solutions | waterspaul3803 | [Read More](https://medium.com/p/812612ac3bb8) |
 | Sun, 27 Apr 2025 17:06:15 GMT | Why Startups Need Architects Before They Need Strategists | Liat Portal | [Read More](https://medium.com/p/16d1d79b83b3) |
@@ -108,9 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 10:01:43 GMT | If Tor Is Secure, Why Do People Still Get Hacked While Using It? let’s break it down | Deft Hacker | [Read More](https://medium.com/p/911476994ed7) |
 | Sun, 27 Apr 2025 09:59:35 GMT | cMaking a secure program? | Fatih Raditya | [Read More](https://medium.com/p/6a42c2144294) |
 | Sun, 27 Apr 2025 09:57:59 GMT | Secure Your Cloud-Native Application in GCP | Dolly Aswin Harahap | [Read More](https://medium.com/p/6e783ea49750) |
-| Sun, 27 Apr 2025 09:55:57 GMT | Why the Future of Finance Belongs to AI | Nicolas Fontaine | [Read More](https://medium.com/p/e2f2dc660bdc) |
-| Sun, 27 Apr 2025 09:48:27 GMT | When a SIM-Card Data Breach Hits Home — What If SK Telecom’s Incident Happened in the United States? | Mia Story | [Read More](https://medium.com/p/af82e9a2b698) |
-| Sun, 27 Apr 2025 09:42:23 GMT | 7 Common Mistakes New Graduates Make While Pursuing An IT Career and How to Avoid Them | M. Shehroz | [Read More](https://medium.com/p/b707b1b0c7bd) |
-| Sun, 27 Apr 2025 09:41:51 GMT | What Does SafeLine Add on Top of Cloudflare? | Quella | [Read More](https://medium.com/p/3ee709c71384) |
-| Sun, 27 Apr 2025 09:40:01 GMT | From SQL Injection to Weak Passwords : A Deep Dive into a Tamil Nadu Government Security Flaw | B4LOGI | [Read More](https://medium.com/p/1b648d62d457) |
-| Sun, 27 Apr 2025 09:36:12 GMT | Introduction to Web Applications -HackThebox Walkthrough | Laaaks | [Read More](https://medium.com/p/dfe9c1eb68ef) |
