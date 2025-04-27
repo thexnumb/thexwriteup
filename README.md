@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 13:12:47 GMT | HTB — Shocker | CyberQuestor | [Read More](https://medium.com/p/51b95545379f) |
+| Sun, 27 Apr 2025 13:07:34 GMT | Active Directory Kimlik Doğrulama | Aydan | [Read More](https://medium.com/p/84b6b97467a3) |
+| Sun, 27 Apr 2025 13:03:00 GMT | My First Shadow Audit Experience | DappScout | [Read More](https://medium.com/p/54628d5050ee) |
+| Sun, 27 Apr 2025 13:02:29 GMT | Containment Bottlenecks: Why Most Breaches Escalate Before You Can Act | Peris.ai Cybersecurity | [Read More](https://medium.com/p/73b80744a1a4) |
+| Sun, 27 Apr 2025 13:01:15 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/42ca3547e306) |
+| Sun, 27 Apr 2025 13:01:08 GMT | Understanding AWS Verified Access: Secure Access Without the VPN Headaches | Karlmarx Karunanithi | [Read More](https://medium.com/p/940fda7c44d5) |
+| Sun, 27 Apr 2025 12:55:53 GMT | Efficiently Securing No-Code App Development | Franklinr held | [Read More](https://medium.com/p/19bea8ba70f2) |
+| Sun, 27 Apr 2025 12:53:28 GMT | Linux File Permissions | Gourav(spidergk) | [Read More](https://medium.com/p/88a2cf131a8a) |
+| Sun, 27 Apr 2025 12:49:03 GMT | Understanding CSRF (Cross Site Request Forgery) | Parthchheda | [Read More](https://medium.com/p/08d0ea732026) |
+| Sun, 27 Apr 2025 12:45:11 GMT | 21 Million Secrets: The Dangerous Perils of Workplace Surveillance | O. J. Okpabi | [Read More](https://medium.com/p/2f0c6abeb296) |
+| Sun, 27 Apr 2025 12:40:41 GMT | Lab Report#5 AS-REP Roasting Attack and Event Log Analysis | Samet Koca | [Read More](https://medium.com/p/39ed90af5e4f) |
 | Sun, 27 Apr 2025 12:27:59 GMT | Search source - Writeup | Marvin | [Read More](https://medium.com/p/d003bfd546ff) |
 | Sun, 27 Apr 2025 12:27:38 GMT | Secrets - Writeup | Marvin | [Read More](https://medium.com/p/c3e7baa66a5b) |
 | Sun, 27 Apr 2025 12:22:27 GMT | What Nearly Losing My Aunt’s Passwords Taught Me About Digital Security | Sam Galope | [Read More](https://medium.com/p/d19b40fd04aa) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 06:23:20 GMT | How I Found The Unauthorized account manipulation? | DOD cyber solutions | [Read More](https://medium.com/p/3f3312360751) |
 | Sun, 27 Apr 2025 06:21:30 GMT | Attacking Web Applications with FFuF | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/63673231452e) |
 | Sun, 27 Apr 2025 06:20:17 GMT | Don’t Leave Your Website Unprotected: Practical Web Security Testing for Small Businesses (No… | VidyaRao | [Read More](https://medium.com/p/56cddbe8f714) |
-| Sun, 27 Apr 2025 06:19:40 GMT | How Does HTTPS Actually Work? (Full Guide + Expert Tips in 2025) | Raj Sharma | [Read More](https://medium.com/p/6b7161070e5c) |
-| Sun, 27 Apr 2025 06:18:23 GMT | How to Handle File Uploads in Next.js 15 with React-Hook-Form and React-Query | Alexandre PENOMBRE | [Read More](https://medium.com/p/bfb5a8555faa) |
-| Sun, 27 Apr 2025 06:11:27 GMT | CamHunt: Uncovering Hidden Cameras in Your Network | LETCHU PKT | [Read More](https://medium.com/p/a475010aa7b6) |
-| Sun, 27 Apr 2025 06:06:37 GMT | New Malware “DslogdRAT” Exploited Ivanti ICS Zero-Day (CVE-2025–0282) in Japan | CyDhaal | [Read More](https://medium.com/p/7fdb0d102e3c) |
-| Sun, 27 Apr 2025 06:01:57 GMT | Is Prince Harry under a Spell? | Mel - Inner Ether | [Read More](https://medium.com/p/1d409498b967) |
-| Sun, 27 Apr 2025 06:01:04 GMT | Boost Your Credit Score with Professional Hackers: A 2025 Guide | Labib Yasir | [Read More](https://medium.com/p/9ed12baa1892) |
-| Sun, 27 Apr 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Apr 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/339a6f919854) |
-| Sun, 27 Apr 2025 06:00:20 GMT | The Definitive Guide to Manual Authorization Testing | Patrick Amegavi | [Read More](https://medium.com/p/4378c667e5c1) |
-| Sun, 27 Apr 2025 05:57:58 GMT | The Evolution of Phishing: How Attackers are Outsmarting Traditional Defenses | Turtle Words | [Read More](https://medium.com/p/14cd256c739a) |
-| Sun, 27 Apr 2025 05:47:19 GMT | The Complete Guide to Manual Authentication Testing | Patrick Amegavi | [Read More](https://medium.com/p/0c31bfbced88) |
-| Sun, 27 Apr 2025 05:23:15 GMT | Cyber Security for B.Tech | 19 Tanish Pravinraoji Dewase! | [Read More](https://medium.com/p/697318e7cd37) |
