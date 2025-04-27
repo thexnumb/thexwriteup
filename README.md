@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 11:19:13 GMT | Dalam dunia ethical hacking dan penetration testing, penguasaan sistem operasi Linux menjadi kunci… | Ahmadcybr | [Read More](https://medium.com/p/f05308396791) |
+| Sun, 27 Apr 2025 11:14:12 GMT | Protecting Your Digital Identity: Practical Steps for a Safer Online Life | Hitesh Said | [Read More](https://medium.com/p/6638c03abc62) |
+| Sun, 27 Apr 2025 11:11:06 GMT | Day 113 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/1c6af55889e3) |
+| Sun, 27 Apr 2025 11:07:07 GMT | The Growing Power of AI in Defending Against Cyber Threats | Tech Caps | [Read More](https://medium.com/p/d12bc00afc80) |
+| Sun, 27 Apr 2025 11:04:14 GMT | Bwapp Session Mgmt Çözümleri | Alirıza Aslan | [Read More](https://medium.com/p/eb32e9d7e2e3) |
 | Sun, 27 Apr 2025 10:59:06 GMT | Static vs Dynamic Analysis: Dissecting ransomware two ways | Laiba imran | [Read More](https://medium.com/p/0da9949acd10) |
 | Sun, 27 Apr 2025 10:54:46 GMT | Security and Compliance Fundamentals: For Beginner’s- Security+ SY0–701 (with Real-Life Examples) | unica 02 | [Read More](https://medium.com/p/e6c6ad58a496) |
 | Sun, 27 Apr 2025 10:46:37 GMT | GamingServer Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/f6548746bfd1) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 04:47:21 GMT | The Browser: Your Best Defense Against Modern Phishing Attacks | Cyber-AppSec | [Read More](https://medium.com/p/cea7c5c6337a) |
 | Sun, 27 Apr 2025 04:44:22 GMT | Preserving Identity Across Boundaries: How We Use mTLS Tunnels with Envoy | Rohit Agrawal | [Read More](https://medium.com/p/f6df337abe54) |
 | Sun, 27 Apr 2025 04:39:20 GMT | Learning from Failure: A Real-World Look at DDoS Defense Missteps | Jerry Yonga | [Read More](https://medium.com/p/96b5c97a4075) |
-| Sun, 27 Apr 2025 04:35:28 GMT | Why the Arabs are unabashedly sustaining the path of normalisation with Israel. | Adil Naseer | [Read More](https://medium.com/p/372341bed29b) |
-| Sun, 27 Apr 2025 04:32:32 GMT | Mastering OAuth 2.0 & OIDC: The Complete Beginner-to-Expert Guide | Jayram Manale | [Read More](https://medium.com/p/7accb0db1d3e) |
-| Sun, 27 Apr 2025 04:27:44 GMT | “Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs” | Comp_Nayan Choudhary | [Read More](https://medium.com/p/1b7380c62943) |
-| Sun, 27 Apr 2025 04:18:06 GMT | Slow Success: The Beautiful Journey No One Talks About | Emily Wilson | [Read More](https://medium.com/p/a54971a86618) |
-| Sun, 27 Apr 2025 04:15:01 GMT | Gridinsoft Anti-Malware: The Lightweight Malware Killer That Actually Works | Brendan Smith | [Read More](https://medium.com/p/f600acf8c0b7) |
