@@ -14,6 +14,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 01:40:17 GMT | Under the close protection of the Secret Service, the Secretary of Homeland Security had his bag… | Jack | [Read More](https://medium.com/p/87045cd8cfaf) |
+| Sun, 27 Apr 2025 01:36:20 GMT | AOSU vs REOLINK vs Ring Pro: The Best Smart Doorbell for Your Home (2025) | One Tap | [Read More](https://medium.com/p/0fd63563f331) |
+| Sun, 27 Apr 2025 01:35:43 GMT | ️ The 3 Best Video Doorbells in 2025 (That Are Actually Worth Buying) | Tap2Live | [Read More](https://medium.com/p/dac7058db6b0) |
+| Sun, 27 Apr 2025 01:15:23 GMT | Setting Up My Home Lab for Cybersecurity and IT Learning | Ryan Shill | [Read More](https://medium.com/p/4ac3e8783ac1) |
+| Sun, 27 Apr 2025 01:04:27 GMT | Mengungkap Jejak Serangan Siber: Analisis Mendalam Scanning, XSS, dan SQL Injection dari File PCAP | Celvine Adi Putra | [Read More](https://medium.com/p/5b6c9d452049) |
+| Sun, 27 Apr 2025 01:00:55 GMT | Fast And Secure App Creation With No-Code Approaches | Franklinr held | [Read More](https://medium.com/p/3e9d1f9f77c3) |
+| Sun, 27 Apr 2025 00:58:31 GMT | Aswan CTF Finals 2025 DFIR writeup | Immortal_ibr | [Read More](https://medium.com/p/193c9bd970d9) |
+| Sun, 27 Apr 2025 00:48:30 GMT | Wi-Fi Is Stealing Your Dollars! Android, iOS, and Windows Are All Affected! | Muzhenhai | [Read More](https://medium.com/p/b4ede12714a9) |
+| Sun, 27 Apr 2025 00:42:27 GMT | Twitch Analysis Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7c494fcfe0bc) |
+| Sun, 27 Apr 2025 00:35:53 GMT | How to Earn Consistent Passive Rewards with Recon Solana $RECON | Recon Solana | [Read More](https://medium.com/p/7f30b0dbd760) |
+| Sun, 27 Apr 2025 00:31:24 GMT | Zabbix Agent Installer on Ubuntu Desktop | Dante | [Read More](https://medium.com/p/620715e74760) |
+| Sun, 27 Apr 2025 00:17:29 GMT | XposedAPI Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/aff570031e86) |
+| Sun, 27 Apr 2025 00:16:20 GMT | "In today's digital world, understanding the impact of adult content on our mental health and… | Breaking chains | [Read More](https://medium.com/p/4baab49b91ab) |
+| Sun, 27 Apr 2025 00:04:26 GMT | Using Hyper-RAG Hypergraph Technology to End AI Hallucinations: A 2025 Security Defense Guide | Li Zixiang | [Read More](https://medium.com/p/b9b7db82b3c5) |
+| Sun, 27 Apr 2025 00:02:31 GMT | Hack The Box — Challenge — OnlyHacks Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/94ed01a7be94) |
+| Sat, 26 Apr 2025 23:52:52 GMT | AI-Driven Threats: How Attackers Are Using Artificial Intelligence in 2025 | Brian Olson | [Read More](https://medium.com/p/a762f87908aa) |
+| Sat, 26 Apr 2025 23:43:47 GMT | Beyond Cyber bullying: How Teachers Can Help Protect Students from Cyber Security Threats | Cyber Secure Step Consulting | [Read More](https://medium.com/p/75717f0eb351) |
 | Sat, 26 Apr 2025 23:32:12 GMT | The Hidden Costs of Ignoring Chaos Engineering: Downtime, Breaches, and Reputation Loss! | Darius Powell - Security & Resilience Consultant | [Read More](https://medium.com/p/59c2b943ebf3) |
 | Sat, 26 Apr 2025 23:12:19 GMT | 10 Ordinary Household Items That Were Accidentally Deadly Weapons | Maximillian | [Read More](https://medium.com/p/b0d6dde301c1) |
 | Sat, 26 Apr 2025 22:38:40 GMT | Why I Chose Cybersecurity: A Personal Journey | Dhruti D Mehta | [Read More](https://medium.com/p/4701a1c5392b) |
@@ -97,20 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 15:15:16 GMT | Cybersecurity Leaders Are Staying in The Shadows | Stephen Pao | [Read More](https://medium.com/p/6030784d0318) |
 | Sat, 26 Apr 2025 15:11:07 GMT | XSS Vulnerability on One of the Top 10 Universities in India | Syed Mushir | [Read More](https://medium.com/p/a2088fd31ef5) |
 | Sat, 26 Apr 2025 15:07:57 GMT | Inside Anonymous: The Mysterious Hacktivist Group That Shaped Cybersecurity | Michael Younsi | [Read More](https://medium.com/p/c13f803fe90b) |
-| Sat, 26 Apr 2025 15:06:01 GMT | SSH Tunneling and VPN for Secure Connections | Esra Kayhan | [Read More](https://medium.com/p/cae286204445) |
-| Sat, 26 Apr 2025 15:05:33 GMT | How I Chained Template Injections Across Pages to Trigger Reflected XSS | Zoningxtr | [Read More](https://medium.com/p/5d4ef68efac5) |
-| Sat, 26 Apr 2025 15:04:44 GMT | New SAP NetWeaver Zero-Day Exploited to Drop Web Shells and Brute Ratel Framework | Kawya De Silva | [Read More](https://medium.com/p/e2cc54de4876) |
-| Sat, 26 Apr 2025 15:02:00 GMT | Google Dorking Project | Mylescorey | [Read More](https://medium.com/p/4cfc708e0db8) |
-| Sat, 26 Apr 2025 15:00:37 GMT | Yale New Haven Health Data Breach: 5.5 Million Patients Exposed | Ismail Tasdelen | [Read More](https://medium.com/p/44cc16ad4708) |
-| Sat, 26 Apr 2025 14:59:42 GMT | How I Created an AI Agent to Find Bugs Using Google ADK | BitEval | [Read More](https://medium.com/p/37f7a3673ec3) |
-| Sat, 26 Apr 2025 14:57:10 GMT | Developing Penetration Testing (Pentest) Tools with Python | Esra Kayhan | [Read More](https://medium.com/p/d81368401208) |
-| Sat, 26 Apr 2025 14:50:39 GMT | Waiting for admin approve , I don’t think so ! | Abdallah Ehab | [Read More](https://medium.com/p/195a042f913e) |
-| Sat, 26 Apr 2025 14:47:09 GMT | Security Policies: A Comprehensive Guide for Organizations ️ | Esra Kayhan | [Read More](https://medium.com/p/23ace4deac0c) |
-| Sat, 26 Apr 2025 14:44:00 GMT | Google Antritust Again | Mohammed Brückner | [Read More](https://medium.com/p/318d06c3ba9e) |
-| Sat, 26 Apr 2025 14:41:39 GMT | Access Control Models: An Overview Based on Security Levels | Md. Shefayer Ahmed | [Read More](https://medium.com/p/2c09dae99bf7) |
-| Sat, 26 Apr 2025 14:41:35 GMT | How JWT (JSON Web Token) Works in Depth: A Complete Guide | Vaibhav saxena | [Read More](https://medium.com/p/57ee72562f49) |
-| Sat, 26 Apr 2025 14:39:25 GMT | ICTF 25 Stargazers Writeups | Aldolim | [Read More](https://medium.com/p/d47507c26c97) |
-| Sat, 26 Apr 2025 14:38:50 GMT | Ethical Hacking 101: Become a Cyber Guardian, Not a Villain | Yogesh Raghav | [Read More](https://medium.com/p/164a4d824d5a) |
-| Sat, 26 Apr 2025 14:26:49 GMT | Cyber Password Toolkit | Vinu Varshith Alagappan | [Read More](https://medium.com/p/2bb94ca808b9) |
-| Sat, 26 Apr 2025 14:25:59 GMT | How I Found a Critical Security Flaw and Earned a Reward on a VDP | Lux Angelo | [Read More](https://medium.com/p/019ebec71a74) |
-| Sat, 26 Apr 2025 14:13:43 GMT | Securing Sensitive Data in PostgreSQL: A Comprehensive Guide to Data Anonymization | Shailesh Kumar Mishra | [Read More](https://medium.com/p/61d0d59075fb) |
