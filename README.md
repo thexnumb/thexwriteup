@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 20:27:12 GMT | How to Set Up a Secure Linux Server (for Beginners) | Hizam Alaklbi | [Read More](https://medium.com/p/02ecbb3765d5) |
+| Sun, 27 Apr 2025 20:27:11 GMT | Mastering Burp Suite Basics | musayyab sharif | [Read More](https://medium.com/p/479ffb8d1624) |
+| Sun, 27 Apr 2025 20:24:10 GMT | Why You Should Use AI Even if You Think You Don’t Need It | E. Ibrahimi | [Read More](https://medium.com/p/5d0f64c4eb1a) |
+| Sun, 27 Apr 2025 20:14:15 GMT | AI TRiSM: Gartner’s Framework for Trust , Risk and Security in AI​ | Rajesh Devadasan | [Read More](https://medium.com/p/b87ab78f8a0e) |
 | Sun, 27 Apr 2025 20:13:49 GMT | Manual Testing for Privilege Escalation and Broken Access Control My (Methodology) | MahmoudKroush | [Read More](https://medium.com/p/a3b9f41b82a2) |
 | Sun, 27 Apr 2025 20:13:26 GMT | Hacking APIs: Attackers exploiting SSRF | Israel Aráoz Severiche | [Read More](https://medium.com/p/57624d575987) |
 | Sun, 27 Apr 2025 20:08:59 GMT | Cybersecurity 101: The Basics and Why They Matter | Sarah Atuaka | [Read More](https://medium.com/p/95e955f7ba1a) |
@@ -111,7 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 13:28:00 GMT | Login? Who Needs That? Bypassing OAuth Like a Lazy Hacker on Sunday ☀️ | Iski | [Read More](https://medium.com/p/76802cc8025d) |
 | Sun, 27 Apr 2025 13:16:07 GMT | X ICOS | aksusarya | [Read More](https://medium.com/p/3753aab43291) |
 | Sun, 27 Apr 2025 13:12:47 GMT | HTB — Shocker | CyberQuestor | [Read More](https://medium.com/p/51b95545379f) |
-| Sun, 27 Apr 2025 13:07:34 GMT | Active Directory Kimlik Doğrulama | Aydan | [Read More](https://medium.com/p/84b6b97467a3) |
-| Sun, 27 Apr 2025 13:03:00 GMT | My First Shadow Audit Experience | DappScout | [Read More](https://medium.com/p/54628d5050ee) |
-| Sun, 27 Apr 2025 13:02:29 GMT | Containment Bottlenecks: Why Most Breaches Escalate Before You Can Act | Peris.ai Cybersecurity | [Read More](https://medium.com/p/73b80744a1a4) |
-| Sun, 27 Apr 2025 13:01:15 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/42ca3547e306) |
