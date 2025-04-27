@@ -14,7 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 09:28:19 GMT | Secure Notes Mobile Hacking Lab Write-up | DJumanto | [Read More](https://medium.com/p/a6b94557948c) |
+| Sun, 27 Apr 2025 09:20:36 GMT | Information disclosure in error messages — Lab Walkthrough | Dev-angelist | [Read More](https://medium.com/p/2acfa197ad2c) |
 | Sun, 27 Apr 2025 09:16:37 GMT | Why Cloud Security is the Next Big Thing in Tech | Ahmad Javed | [Read More](https://medium.com/p/7a292fc239a4) |
+| Sun, 27 Apr 2025 09:10:30 GMT | SafeLine vs Cloudflare WAF vs Fastly WAF — Detailed Feature Comparison | Quella | [Read More](https://medium.com/p/82711b51a210) |
 | Sun, 27 Apr 2025 09:07:14 GMT | Storm-1977’s Crypto Heist: How AzureChecker Turned Education Clouds into Mining Rigs | Ismail Tasdelen | [Read More](https://medium.com/p/b05802062382) |
 | Sun, 27 Apr 2025 09:06:49 GMT | How to Forward CloudFlare IP to SafeLine WAF | Loria | [Read More](https://medium.com/p/c2afab5db86a) |
 | Sun, 27 Apr 2025 08:57:23 GMT | How to Install and Use SQLmap in Termux: A Complete Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/0e161cb7f6ef) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 01:15:23 GMT | Setting Up My Home Lab for Cybersecurity and IT Learning | Ryan Shill | [Read More](https://medium.com/p/4ac3e8783ac1) |
 | Sun, 27 Apr 2025 01:04:27 GMT | Mengungkap Jejak Serangan Siber: Analisis Mendalam Scanning, XSS, dan SQL Injection dari File PCAP | Celvine Adi Putra | [Read More](https://medium.com/p/5b6c9d452049) |
 | Sun, 27 Apr 2025 01:00:55 GMT | Fast And Secure App Creation With No-Code Approaches | Franklinr held | [Read More](https://medium.com/p/3e9d1f9f77c3) |
-| Sun, 27 Apr 2025 00:58:31 GMT | Aswan CTF Finals 2025 DFIR writeup | Immortal_ibr | [Read More](https://medium.com/p/193c9bd970d9) |
-| Sun, 27 Apr 2025 00:48:30 GMT | Wi-Fi Is Stealing Your Dollars! Android, iOS, and Windows Are All Affected! | Muzhenhai | [Read More](https://medium.com/p/b4ede12714a9) |
-| Sun, 27 Apr 2025 00:42:27 GMT | Twitch Analysis Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7c494fcfe0bc) |
