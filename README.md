@@ -14,7 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 18:41:40 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 3 (Malicious Document Analysis) | KingOfPiratez | [Read More](https://medium.com/p/4add4e379bee) |
+| Sun, 27 Apr 2025 18:30:55 GMT | Mastering the Foundations of Cybersecurity: Hacking, Virtual Machines, Linux, and Networking | Neeraj Rajeev | [Read More](https://medium.com/p/fdec0b8a8422) |
+| Sun, 27 Apr 2025 18:27:13 GMT | Digital Psychological Warfare: Impacts, Risks, and Prevention | SECZAP | [Read More](https://medium.com/p/d9425feea1c0) |
+| Sun, 27 Apr 2025 18:25:53 GMT | From Idiots to Icons: The 3 Who Got Life Right by Getting It Wrong | Michael Angelo G. Badando | [Read More](https://medium.com/p/84ebd07c32ac) |
+| Sun, 27 Apr 2025 18:24:24 GMT | HOW TO PROTECT YOUR PRIVACY ONLINE : WHY CYBER SECURITY IS A MUST LEARN SKILL TODAY | Amarachisolomon | [Read More](https://medium.com/p/408ea9b845a0) |
+| Sun, 27 Apr 2025 18:20:04 GMT | What is Symmetric Encryption | Samxia99 | [Read More](https://medium.com/p/82dc4e4ae055) |
 | Sun, 27 Apr 2025 18:18:37 GMT | Testing some features for creating accounts and tickets through Salesforce | Tyrik Emptage | [Read More](https://medium.com/p/db941ab06415) |
+| Sun, 27 Apr 2025 18:16:27 GMT | Cybersecurity Industry “Fact-Checks” Everyone Needs To Know. | José Reyes (@Architekt) | [Read More](https://medium.com/p/4cacbab5c2c2) |
+| Sun, 27 Apr 2025 18:14:08 GMT | Why Startups Must Prioritize Cybersecurity and Compliance | Mednmolars | [Read More](https://medium.com/p/85b5a2d405d7) |
 | Sun, 27 Apr 2025 18:08:56 GMT | ⚡ AI-CMD-X: Transform Your Plain English into Powerful Windows Commands Instantly! | The Pentrix | [Read More](https://medium.com/p/be9693eb6ec6) |
 | Sun, 27 Apr 2025 18:06:15 GMT | Glitch-TryHackme(Writeup) | CyberLabyrinthX | [Read More](https://medium.com/p/276fb3a3ddbe) |
 | Sun, 27 Apr 2025 18:01:33 GMT | Is Palo Alto Networks the Secret to Cloud Security World Domination? | Petros Magopoulos | [Read More](https://medium.com/p/a4be30a816f2) |
@@ -107,11 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 11:40:20 GMT | Mapping the World’s Ethical Hackers: Insights from HackerOne Platform | embossdotar | [Read More](https://medium.com/p/ca45592861e6) |
 | Sun, 27 Apr 2025 11:19:13 GMT | Dalam dunia ethical hacking dan penetration testing, penguasaan sistem operasi Linux menjadi kunci… | Ahmadcybr | [Read More](https://medium.com/p/f05308396791) |
 | Sun, 27 Apr 2025 11:14:12 GMT | Protecting Your Digital Identity: Practical Steps for a Safer Online Life | Hitesh Said | [Read More](https://medium.com/p/6638c03abc62) |
-| Sun, 27 Apr 2025 11:11:06 GMT | Day 113 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/1c6af55889e3) |
-| Sun, 27 Apr 2025 11:07:07 GMT | The Growing Power of AI in Defending Against Cyber Threats | Tech Caps | [Read More](https://medium.com/p/d12bc00afc80) |
-| Sun, 27 Apr 2025 11:04:14 GMT | Bwapp Session Mgmt Çözümleri | Alirıza Aslan | [Read More](https://medium.com/p/eb32e9d7e2e3) |
-| Sun, 27 Apr 2025 10:59:06 GMT | Static vs Dynamic Analysis: Dissecting ransomware two ways | Laiba imran | [Read More](https://medium.com/p/0da9949acd10) |
-| Sun, 27 Apr 2025 10:54:46 GMT | Security and Compliance Fundamentals: For Beginner’s- Security+ SY0–701 (with Real-Life Examples) | unica 02 | [Read More](https://medium.com/p/e6c6ad58a496) |
-| Sun, 27 Apr 2025 10:46:37 GMT | GamingServer Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/f6548746bfd1) |
-| Sun, 27 Apr 2025 10:45:28 GMT | Understanding Web Cache Deception : Doctor’s Analogy | A Noob Pentester | [Read More](https://medium.com/p/e1ba7eb8fd46) |
-| Sun, 27 Apr 2025 10:36:45 GMT | Exposing Firebase Misconfiguration | 0xera51 | [Read More](https://medium.com/p/99795ba8139b) |
