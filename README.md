@@ -14,6 +14,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 06:23:20 GMT | How I Found The Unauthorized account manipulation? | DOD cyber solutions | [Read More](https://medium.com/p/3f3312360751) |
+| Sun, 27 Apr 2025 06:21:30 GMT | Attacking Web Applications with FFuF | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/63673231452e) |
+| Sun, 27 Apr 2025 06:18:23 GMT | How to Handle File Uploads in Next.js 15 with React-Hook-Form and React-Query | Alexandre PENOMBRE | [Read More](https://medium.com/p/bfb5a8555faa) |
+| Sun, 27 Apr 2025 06:11:27 GMT | CamHunt: Uncovering Hidden Cameras in Your Network | LETCHU PKT | [Read More](https://medium.com/p/a475010aa7b6) |
+| Sun, 27 Apr 2025 06:06:37 GMT | New Malware “DslogdRAT” Exploited Ivanti ICS Zero-Day (CVE-2025–0282) in Japan | CyDhaal | [Read More](https://medium.com/p/7fdb0d102e3c) |
+| Sun, 27 Apr 2025 06:01:57 GMT | Is Prince Harry under a Spell? | Mel - Inner Ether | [Read More](https://medium.com/p/1d409498b967) |
+| Sun, 27 Apr 2025 06:01:04 GMT | Boost Your Credit Score with Professional Hackers: A 2025 Guide | Labib Yasir | [Read More](https://medium.com/p/9ed12baa1892) |
+| Sun, 27 Apr 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Apr 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/339a6f919854) |
+| Sun, 27 Apr 2025 06:00:20 GMT | The Definitive Guide to Manual Authorization Testing | Patrick Amegavi | [Read More](https://medium.com/p/4378c667e5c1) |
+| Sun, 27 Apr 2025 05:57:58 GMT | The Evolution of Phishing: How Attackers are Outsmarting Traditional Defenses | Turtle Words | [Read More](https://medium.com/p/14cd256c739a) |
+| Sun, 27 Apr 2025 05:47:19 GMT | The Complete Guide to Manual Authentication Testing | Patrick Amegavi | [Read More](https://medium.com/p/0c31bfbced88) |
 | Sun, 27 Apr 2025 05:23:15 GMT | Cyber Security for B.Tech | 19 Tanish Pravinraoji Dewase! | [Read More](https://medium.com/p/697318e7cd37) |
 | Sun, 27 Apr 2025 05:17:19 GMT | The Linux Security Journey — UFW (Uncomplicated Firewall) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b1c407135abd) |
 | Sun, 27 Apr 2025 05:17:11 GMT | The Red Teaming: 30-Day Challenge[13] | Bl@ckC!pH3r | [Read More](https://medium.com/p/ea4589b4ae37) |
@@ -103,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 19:06:13 GMT | Difference Between Authorization and Authentication | ANDI NUGROHO | [Read More](https://medium.com/p/e535563344e5) |
 | Sat, 26 Apr 2025 19:02:05 GMT | an Almost Perfect Attack Chain | Daouda Diallo | [Read More](https://medium.com/p/4205822fee34) |
 | Sat, 26 Apr 2025 19:01:25 GMT | Beware of Instant Loan App Scams: Don’t Fall for Quick Money Traps | CyberSafe Academy | [Read More](https://medium.com/p/883b6a6142a3) |
-| Sat, 26 Apr 2025 18:59:53 GMT | Top 5 Cybersecurity Incidents You Shouldn’t Ignore This Week (April 21–27, 2025) | Rohan UK | [Read More](https://medium.com/p/31bc7dd3975c) |
-| Sat, 26 Apr 2025 18:59:33 GMT | Funky Stuff | Imran | [Read More](https://medium.com/p/3645fdf1a811) |
-| Sat, 26 Apr 2025 18:52:38 GMT | Securing Solana: A Comprehensive Analysis of Past Security Incidents and Lessons Learnt | Khaythefirst | [Read More](https://medium.com/p/26f6d1a79453) |
-| Sat, 26 Apr 2025 18:44:23 GMT | Darcula — GenAI-Powered Phishing Kit | Tal Eliyahu | [Read More](https://medium.com/p/d5c22998c660) |
-| Sat, 26 Apr 2025 18:43:24 GMT | Hacker University: How To Hack Snapchat | SinVictus | [Read More](https://medium.com/p/8f9b9c40b88d) |
-| Sat, 26 Apr 2025 18:37:59 GMT | KMAC in .NET 9 | Kamlesh Singh | [Read More](https://medium.com/p/0dac99b45717) |
-| Sat, 26 Apr 2025 18:30:40 GMT | Utilizing a Command and Control (C2) system through a Telegram bot. | Paqsmithgun | [Read More](https://medium.com/p/f3d3d06d2682) |
-| Sat, 26 Apr 2025 18:28:20 GMT | WooCommerce Admins Targeted by Fake Security Patches That Hijack Sites | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/7bf1832f2963) |
-| Sat, 26 Apr 2025 18:26:18 GMT | Digital Nihilism: Does Constant Access to Information Erode Meaning? | Modern Philosophy 101 | [Read More](https://medium.com/p/c4f261a33dce) |
-| Sat, 26 Apr 2025 18:22:40 GMT | The Effects of Climate Change on Economic Security | Imali | [Read More](https://medium.com/p/fc9928e0adb2) |
-| Sat, 26 Apr 2025 18:22:18 GMT | Hutch Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/5f41da3abe87) |
