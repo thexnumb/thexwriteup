@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 21:25:11 GMT | Aswan CTF Finals 2025 — Web Challenges | Behiry | [Read More](https://medium.com/p/4dace00c68d3) |
+| Sun, 27 Apr 2025 21:23:08 GMT | Understanding Deepfakes: Tips to Identify Fake Videos and Audios | Kébé Eyong | [Read More](https://medium.com/p/9469b265e4fb) |
+| Sun, 27 Apr 2025 21:13:09 GMT | When The Little Lies We Tell Ourselves Are Okay And When They’re Not | Tim Dahi | [Read More](https://medium.com/p/ae4f10b1ceca) |
+| Sun, 27 Apr 2025 21:12:17 GMT | The Fall of Personal Access Tokens: Secure DevOps | Pavan Vamsi | [Read More](https://medium.com/p/9c0ce8fc2e99) |
 | Sun, 27 Apr 2025 21:01:30 GMT | A Letter from a Broken Heart | María Encinas | [Read More](https://medium.com/p/b43841aaaf32) |
 | Sun, 27 Apr 2025 20:56:22 GMT | The part of artificial intelligence in contemporary cybersecurity | Udara Sandakelum | [Read More](https://medium.com/p/dc69a20c47c3) |
 | Sun, 27 Apr 2025 20:54:44 GMT | Top 10 Cybersecurity Tools Every Beginner Should Know About | Udara Sandakelum | [Read More](https://medium.com/p/baa51ec6691c) |
@@ -111,7 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 14:53:53 GMT | a | Visual Monitoring Solutions | [Read More](https://medium.com/p/6f695221dc15) |
 | Sun, 27 Apr 2025 14:36:37 GMT | HiddenLayer's Research on Universal Prompt Injection Bypass | Φiriki Intelligence | [Read More](https://medium.com/p/89a91473eac9) |
 | Sun, 27 Apr 2025 14:33:17 GMT | What’s Up with doh.dns.apple.com? Investigating Apple’s DoH Responder | Matt Pawloski | [Read More](https://medium.com/p/fce376a19052) |
-| Sun, 27 Apr 2025 14:32:08 GMT | ️ Understanding Osquery: A Practical Introduction | Furkanctiner | [Read More](https://medium.com/p/0cb0d58a8260) |
-| Sun, 27 Apr 2025 14:25:15 GMT | Sliver Shellcode: Bypassing AV with Fuscation | Lukas Kinneberg | [Read More](https://medium.com/p/648c92497b27) |
-| Sun, 27 Apr 2025 14:23:09 GMT | Why App Stores Exist And Many Developers Never Welcome Them | Jan Kammerath | [Read More](https://medium.com/p/84c1ca9fc07a) |
-| Sun, 27 Apr 2025 14:19:39 GMT | Enabling Remote Desktop and SSH access to Kali | Md Zishan Firoz | [Read More](https://medium.com/p/e18cadae12a9) |
