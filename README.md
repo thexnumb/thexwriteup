@@ -14,6 +14,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 22:31:29 GMT | HACK SMART SECURITY WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/70e8a1d14954) |
+| Sun, 27 Apr 2025 22:25:51 GMT | Invasion of the Kudzu: APAC Confronts a Surge in System Intrusions | Avnishyam | [Read More](https://medium.com/p/4f0820f0ceb3) |
+| Sun, 27 Apr 2025 22:22:32 GMT | My Web Application Pentesting Roadmap: From PNPT to Web App Specialist | PwnerJoe | [Read More](https://medium.com/p/cf1c9671c11e) |
+| Sun, 27 Apr 2025 22:16:35 GMT | Why Every Organization Needs a Security Operations Center (SOC) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/01ba59daec32) |
+| Sun, 27 Apr 2025 22:15:51 GMT | From Vulnerable to Vigilant: Improving Cybersecurity in Small Business | Stephan Daniels | [Read More](https://medium.com/p/66094de33dce) |
 | Sun, 27 Apr 2025 22:07:04 GMT | The quiet cost of being single in your 30s — | Melissa Tropnas | [Read More](https://medium.com/p/974af4ee4bda) |
 | Sun, 27 Apr 2025 22:06:37 GMT | Hacking the Quizlet Match Game | אורי מגד | [Read More](https://medium.com/p/75cab6ef2c44) |
 | Sun, 27 Apr 2025 21:47:31 GMT | “The Hidden Risks Behind Single Sign-On (SSO): Convenience at a Dangerous Cost” | Richard Ndung'u | [Read More](https://medium.com/p/8973d93a9520) |
@@ -110,8 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 15:28:41 GMT | Fog Networks Under Fire: An Insider’s Guide to the Next Generation Attack Landscape | Arpit Gupta | [Read More](https://medium.com/p/ec7dabfbaf33) |
 | Sun, 27 Apr 2025 15:28:34 GMT | Understanding Kerberoasting with Rubeus: A First Principles Approach to Active Directory Security | Menelik | [Read More](https://medium.com/p/94fe86007f95) |
 | Sun, 27 Apr 2025 15:25:12 GMT | Software Security Market Demand Research Report (2025 Edition) | InsBug | [Read More](https://medium.com/p/eed16c6eda3f) |
-| Sun, 27 Apr 2025 15:17:28 GMT | ️ Day 18: Diving into NoSQL Injection — A Hidden Danger! | Agarwaldaksh | [Read More](https://medium.com/p/a4a32d69ddce) |
-| Sun, 27 Apr 2025 15:16:41 GMT | The Hardest Kind of Love | Aryan Mishra | [Read More](https://medium.com/p/9b0a9365ae62) |
-| Sun, 27 Apr 2025 15:07:59 GMT | Bridging the Cybersecurity Talent Conundrum: A Comprehensive Detour | Firzan Irfandi Firman | [Read More](https://medium.com/p/f70e9c00d8b3) |
-| Sun, 27 Apr 2025 15:02:06 GMT | Google Dorking Pt 2 | Mylescorey | [Read More](https://medium.com/p/7bcd56bd9bc8) |
-| Sun, 27 Apr 2025 15:01:40 GMT | Why SPAs Are Considered Public Clients ? | Niluka Sripali Monnankulama | [Read More](https://medium.com/p/3672b9715d10) |
