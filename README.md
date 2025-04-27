@@ -14,6 +14,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 05:14:50 GMT | The Hidden Cost of Ignoring Cybersecurity: A $4M Data Breach Case Study | Ahmad Javed | [Read More](https://medium.com/p/07abdc9e9f81) |
+| Sun, 27 Apr 2025 05:04:37 GMT | BSidesSF2025 CTF Write-Up: Detector | ghost@ | [Read More](https://medium.com/p/f7d3077d163a) |
+| Sun, 27 Apr 2025 05:02:37 GMT | 5 Linux Hardening Techniques I Apply Before Hosting Any Website | Faruk Ahmed | [Read More](https://medium.com/p/d3a58c9836ff) |
+| Sun, 27 Apr 2025 04:56:30 GMT | $600 Bounty received but in Parallel Universe | AbhirupKonwar | [Read More](https://medium.com/p/a5466300446d) |
+| Sun, 27 Apr 2025 04:52:35 GMT | Perplexity Browser: Innovation or Threat to Privacy? | Redstone Informatics | [Read More](https://medium.com/p/4ac537a33c09) |
+| Sun, 27 Apr 2025 04:47:21 GMT | My Journey from last 85 days of Learning Pentesting | gobbledy | [Read More](https://medium.com/p/71fe9bad7e71) |
+| Sun, 27 Apr 2025 04:47:21 GMT | The Browser: Your Best Defense Against Modern Phishing Attacks | Cyber-AppSec | [Read More](https://medium.com/p/cea7c5c6337a) |
+| Sun, 27 Apr 2025 04:44:22 GMT | Preserving Identity Across Boundaries: How We Use mTLS Tunnels with Envoy | Rohit Agrawal | [Read More](https://medium.com/p/f6df337abe54) |
 | Sun, 27 Apr 2025 04:39:20 GMT | Learning from Failure: A Real-World Look at DDoS Defense Missteps | Jerry Yonga | [Read More](https://medium.com/p/96b5c97a4075) |
 | Sun, 27 Apr 2025 04:35:28 GMT | Why the Arabs are unabashedly sustaining the path of normalisation with Israel. | Adil Naseer | [Read More](https://medium.com/p/372341bed29b) |
 | Sun, 27 Apr 2025 04:32:32 GMT | Mastering OAuth 2.0 & OIDC: The Complete Beginner-to-Expert Guide | Jayram Manale | [Read More](https://medium.com/p/7accb0db1d3e) |
@@ -34,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 02:47:45 GMT | Am I Just Human — or Something Beyond? | Emily Wilson | [Read More](https://medium.com/p/1a5b73584560) |
 | Sun, 27 Apr 2025 02:40:18 GMT | Day 1 -  IT Fundamentals: Very Beginner | kate | [Read More](https://medium.com/p/e9739ec8278d) |
 | Sun, 27 Apr 2025 02:39:32 GMT | Distroless Docker: Minimalism for Maximum Security | Sanjay Balaji | [Read More](https://medium.com/p/62a08753fc28) |
+| Sun, 27 Apr 2025 02:33:48 GMT | Desaprioriação Cloud devido ao popular lift-and-shift | Vitória Montesuma | [Read More](https://medium.com/p/acb5ed21db3f) |
 | Sun, 27 Apr 2025 02:33:43 GMT | Maximize Your Curvance $CVE Earnings with These Tips | Curvance | [Read More](https://medium.com/p/39c6edbe9dee) |
 | Sun, 27 Apr 2025 02:03:53 GMT | Sampling of Evasions: How Hackers Stay Invisible & What You Can Do About It | Bl@ckC!pH3r | [Read More](https://medium.com/p/4546ca11daf9) |
 | Sun, 27 Apr 2025 02:03:18 GMT | Detecting Hidden Scheduled Tasks & At Jobs Created by Malware | Paritosh | [Read More](https://medium.com/p/c9038d5d4544) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 17:58:51 GMT | CVE-2025–22234: Vulnerabilidade de Timing Attack no Spring Security | Sergio Lopes | [Read More](https://medium.com/p/285504ef113e) |
 | Sat, 26 Apr 2025 17:57:09 GMT | CyberClash - My First Cyber Event | PriOFF | [Read More](https://medium.com/p/338d85c31887) |
 | Sat, 26 Apr 2025 17:57:08 GMT | The Walkaway Gambit | Julien Tenebre | [Read More](https://medium.com/p/acf0a73c0a5d) |
-| Sat, 26 Apr 2025 17:50:11 GMT | Marks & Spencer Cyber Attack: Lessons in Cyber Resilience and Data Protection. | Adrian McGarry | [Read More](https://medium.com/p/29c8cd69faf6) |
-| Sat, 26 Apr 2025 17:26:42 GMT | Hacked Without Touching Your Phone! | YuvaSec | [Read More](https://medium.com/p/042213a15827) |
-| Sat, 26 Apr 2025 17:25:17 GMT | Learning Journey | Alanys Weatherspoon | [Read More](https://medium.com/p/b408b8d05cf0) |
-| Sat, 26 Apr 2025 17:21:37 GMT | Cybersecurity News Review — Week 17 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/49d54be5f25b) |
-| Sat, 26 Apr 2025 17:16:48 GMT | The Essential Cybersecurity Tools Every Professional Should Know | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/31d99995411b) |
-| Sat, 26 Apr 2025 17:15:29 GMT | Nytheon AI: Analysis of a New Threat in the Malicious AI Landscape | Joel Johnson | [Read More](https://medium.com/p/23d4546331e9) |
-| Sat, 26 Apr 2025 17:11:01 GMT | Why Spring Boot REST APIs Are Still Wide Open to Security Breaches in 2025 (And How to Fix It) | Himanshu | [Read More](https://medium.com/p/9f86f59b7a26) |
-| Sat, 26 Apr 2025 17:09:23 GMT | Private & Secure Smart Contract-Free Asset Tokenization | Alan Nekhom | [Read More](https://medium.com/p/81c8a54e38a0) |
-| Sat, 26 Apr 2025 17:09:01 GMT | ️ How to Save Your Mobile App from Security Attacks | Amar Kumar | [Read More](https://medium.com/p/39a20905c5fb) |
