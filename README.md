@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 08:36:29 GMT | Mastering Ethical Hacking: A Comprehensive Guide to Securing Modern Operating Systems | Benjaminmillerdev | [Read More](https://medium.com/p/45fd64dc2d4a) |
+| Sun, 27 Apr 2025 08:29:16 GMT | Remote Code Execution (RCE) in Symfony - Full Guide | Pentest_Testing_Corp | [Read More](https://medium.com/p/644f41225c9b) |
+| Sun, 27 Apr 2025 08:24:54 GMT | SQL Injection ve XSS Açıkları: Anlaşılır Örneklerle Güvenlik İpuçları | Aysel Sündük | [Read More](https://medium.com/p/2c61167dc2ca) |
+| Sun, 27 Apr 2025 08:19:40 GMT | Security Tools on Windows Part 1 | Red | [Read More](https://medium.com/p/f075bb6213d3) |
 | Sun, 27 Apr 2025 08:13:46 GMT | Identity Fundamentals for Beginners: A Security+ SY0–701 Guide with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/9c37fce1d26b) |
 | Sun, 27 Apr 2025 08:02:09 GMT | Unsecured Memcached Server Leading to Sensitive Information Disclosure | Riyan Yan | [Read More](https://medium.com/p/dfa2bd2dfdb4) |
 | Sun, 27 Apr 2025 08:01:50 GMT | Ethical Hacking Summer Internship Program [2025] | Ankit_Cyber | [Read More](https://medium.com/p/9a059c656cc2) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 26 Apr 2025 23:43:47 GMT | Beyond Cyber bullying: How Teachers Can Help Protect Students from Cyber Security Threats | Cyber Secure Step Consulting | [Read More](https://medium.com/p/75717f0eb351) |
 | Sat, 26 Apr 2025 23:32:12 GMT | The Hidden Costs of Ignoring Chaos Engineering: Downtime, Breaches, and Reputation Loss! | Darius Powell - Security & Resilience Consultant | [Read More](https://medium.com/p/59c2b943ebf3) |
 | Sat, 26 Apr 2025 23:12:19 GMT | 10 Ordinary Household Items That Were Accidentally Deadly Weapons | Maximillian | [Read More](https://medium.com/p/b0d6dde301c1) |
-| Sat, 26 Apr 2025 22:38:40 GMT | Why I Chose Cybersecurity: A Personal Journey | Dhruti D Mehta | [Read More](https://medium.com/p/4701a1c5392b) |
-| Sat, 26 Apr 2025 22:17:10 GMT | Top 10 Underrated Websites Every Cybersecurity Enthusiast Should Explore | Karthikeyan Nagaraj | [Read More](https://medium.com/p/96fdf522fb4a) |
-| Sat, 26 Apr 2025 22:14:22 GMT | Virus:Win32/Expiro: The Digital Chameleon Stealing Your Data | Brendan Smith | [Read More](https://medium.com/p/3b61dcc17700) |
-| Sat, 26 Apr 2025 22:12:10 GMT | My Cybersecurity Journey | Jackson Callister | [Read More](https://medium.com/p/7782981f3975) |
