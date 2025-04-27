@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 27 Apr 2025 23:31:30 GMT | Modern Windows Exploitation: Patch Diffing for Zero Days | Adversarial Edge | [Read More](https://medium.com/p/814e95963b9c) |
+| Sun, 27 Apr 2025 23:29:24 GMT | BSidesSF 2025 Challenge Writer PoV | its C0rg1 | [Read More](https://medium.com/p/64fe57d2e48f) |
+| Sun, 27 Apr 2025 23:25:43 GMT | Automated vs Manual Pentesting: Why VoltSec.io Combines the Best of Both Worlds | Voltsec.io | [Read More](https://medium.com/p/2163782a34ba) |
+| Sun, 27 Apr 2025 23:24:19 GMT | What the heck is OAuth? | Kunal Sinha | [Read More](https://medium.com/p/a8c8cf5f2f67) |
 | Sun, 27 Apr 2025 23:13:56 GMT | BSIDES SF CTF 2025 — ACAAN | negligble | [Read More](https://medium.com/p/6fcea23ae17c) |
 | Sun, 27 Apr 2025 23:01:33 GMT | LetsDefend— RegistryHive Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/cfdd90fef927) |
 | Sun, 27 Apr 2025 23:01:32 GMT | HTB Knife Walkthrough | The Cyber Outpost | [Read More](https://medium.com/p/371996e96513) |
@@ -111,7 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 16:14:20 GMT | Unlocking the Future of Web3: Exploring Confidential Layer, Bridging, and the Power of $CLONE | schlong91 | [Read More](https://medium.com/p/af554cae0115) |
 | Sun, 27 Apr 2025 16:03:45 GMT | Security-First Flutter: Implementing Passkeys, Hardware Keystore, and Side-Channel Hardening | Subhanu Majumder | [Read More](https://medium.com/p/c0d88dc02e7f) |
 | Sun, 27 Apr 2025 16:02:34 GMT | Vulnerability Scanning vs. Penetration Testing: What’s the Difference? | Black Lock | [Read More](https://medium.com/p/b2cd42956de1) |
-| Sun, 27 Apr 2025 15:45:41 GMT | Navigate The Digital World With Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/66a7e57c88cc) |
-| Sun, 27 Apr 2025 15:44:35 GMT | Mastering Modern Red Teaming Infrastructure Part 7: Advanced Phishing Techniques for 2FA Bypass… | Faris Faisal 0xFF | [Read More](https://medium.com/p/85f9adc4dc3b) |
-| Sun, 27 Apr 2025 15:35:15 GMT | a simple watch tower (: | Cryptoboot | [Read More](https://medium.com/p/19467f0bee49) |
-| Sun, 27 Apr 2025 15:34:02 GMT | How to Write Effective Cybersecurity Documentation and Pentest Reports | Diogo Neto | [Read More](https://medium.com/p/4b0fe326db11) |
