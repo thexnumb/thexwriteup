@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 23:32:37 GMT | Palo Alto Networks Cloud NGFW for AWS: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/8604728f4c12) |
+| Mon, 28 Apr 2025 23:29:50 GMT | You Can’t ‘Turn On’ Security — with Matthew Rosenquist | Matthew.Rosenquist | [Read More](https://medium.com/p/847e51fba323) |
+| Mon, 28 Apr 2025 23:15:45 GMT | The European Blackout and What It Revealed About Crypto's Fragile Reality | Federico Rodenas | [Read More](https://medium.com/p/88be0cc522b1) |
+| Mon, 28 Apr 2025 23:13:40 GMT | Rising Geopolitical and Nation State Cyber Threats | Matthew.Rosenquist | [Read More](https://medium.com/p/2650e1ac6665) |
 | Mon, 28 Apr 2025 23:10:15 GMT | Our NGINX Rate Limiting Strategy That Defeated a Major DDoS Attack | Service Guards | [Read More](https://medium.com/p/a13bb2434611) |
 | Mon, 28 Apr 2025 22:59:20 GMT | How Do You Explain Your Job to Non-Technical People? | Zudonu Osomudeya | [Read More](https://medium.com/p/061f9609b900) |
 | Mon, 28 Apr 2025 22:36:39 GMT | How I Used Google Dorking to Find Sensitive Data | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/58ef320c6d2d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 16:40:02 GMT | Why Clicking "Remind Me Later" on Software Updates Could Be Your Biggest Mistake | O. J. Okpabi | [Read More](https://medium.com/p/fa79508f48f4) |
 | Mon, 28 Apr 2025 16:39:03 GMT | The ‘Innocent’ Emails That Stole Millions: True Stories That Will Change How You Read Your Inbox | O. J. Okpabi | [Read More](https://medium.com/p/bed618504a29) |
 | Mon, 28 Apr 2025 16:39:00 GMT | Fun marketing. Serious growth. | Pietro Bezza | [Read More](https://medium.com/p/42e4f126a45e) |
-| Mon, 28 Apr 2025 16:37:55 GMT | Marks & Spencer Cyberattack: What Businesses Need to Know and Why Cybersecurity Matters | O. J. Okpabi | [Read More](https://medium.com/p/e312103a1d4c) |
-| Mon, 28 Apr 2025 16:30:57 GMT | Network Penetration Testing Certifications | Aaron DeJong | [Read More](https://medium.com/p/d1ee997d3420) |
-| Mon, 28 Apr 2025 16:29:54 GMT | Ethical Hacker — Discover Your Path to Career Success (2025) | Franklin Rhodes | [Read More](https://medium.com/p/5ba5966deaa7) |
-| Mon, 28 Apr 2025 16:27:11 GMT | How I Hacked the Delhi Metro (Twice!) — A Journey from Curiosity to Responsible Disclosure | Sahil Choudhary | [Read More](https://medium.com/p/348f855bff47) |
