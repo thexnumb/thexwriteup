@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 19:13:36 GMT | How to Become an Ethical Hacker (and Build a Career) | Md Shoyeb Hossain | [Read More](https://medium.com/p/647739f9ae20) |
+| Mon, 28 Apr 2025 19:07:47 GMT | Web Uygulamalarında Sessiz Tehditler: SSTI ve CSTI | Ibrahim Yılmaz | [Read More](https://medium.com/p/058b8fc8e138) |
+| Mon, 28 Apr 2025 18:56:23 GMT | Day 13: Visible error-based SQL injection — Zero to Hero Blind Injection — Portswigger | RayofHope | [Read More](https://medium.com/p/3da2241a1672) |
+| Mon, 28 Apr 2025 18:50:37 GMT | VeriSource Data Breach Impacts 4 Million People | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/fe05cce5aac4) |
+| Mon, 28 Apr 2025 18:50:33 GMT | Server-Side Template Injection (SSTI) ve Client-Side Template Injection (CSTI) Zaafiyetleri | Fatih Erdem | [Read More](https://medium.com/p/bedfe002bc75) |
+| Mon, 28 Apr 2025 18:45:39 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 43 | Cyber Strategy Institute | [Read More](https://medium.com/p/2a10374be9c5) |
 | Mon, 28 Apr 2025 18:33:30 GMT | Overpass — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/f93a747db630) |
 | Mon, 28 Apr 2025 18:29:26 GMT | Assessing Cybersecurity Knowledge Through Quizzes, Surveys, and Simulated Attacks | Cyber Crew Hub | [Read More](https://medium.com/p/098a915dc6f2) |
 | Mon, 28 Apr 2025 18:27:44 GMT | A-LISTED TOOLS OFFERED BY THE BEST CYBERSECURITY CERTIFICATIONS | Jennifer Wales | [Read More](https://medium.com/p/9a1578a2da01) |
@@ -99,16 +105,10 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 14:32:34 GMT | How CVE Severity Levels Drive Security Prioritization | Saber You | [Read More](https://medium.com/p/1677a4360224) |
 | Mon, 28 Apr 2025 14:30:51 GMT | The Pain of Setting Up 2FA on Every App | Vijay Kumar Gupta | [Read More](https://medium.com/p/4d17cb0895a2) |
 | Mon, 28 Apr 2025 14:25:10 GMT | DVR4 Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/69da0ebc168b) |
+| Mon, 28 Apr 2025 14:23:52 GMT | Google Cloud Account Takeover via URL Parsing Confusion | Mohamed Benchikh | [Read More](https://medium.com/p/c5e47389b7c7) |
 | Mon, 28 Apr 2025 14:18:55 GMT | Cyberattack Suspected Triggers Widespread Power Blackout Across Spain and Portugal | Hoplon Infosec | [Read More](https://medium.com/p/a2cd798901b4) |
 | Mon, 28 Apr 2025 14:17:46 GMT | The Anatomy of Deepfake Voice Attacks: Mapping the Threat Landscape in the Age of Synthetic Speech | Roy Zanbel | [Read More](https://medium.com/p/f65581371bf4) |
 | Mon, 28 Apr 2025 14:15:10 GMT | How to Secure Your Crypto Like a Pro in 2025 | Kobold assistant | [Read More](https://medium.com/p/f9815d2d448b) |
 | Mon, 28 Apr 2025 14:12:38 GMT | Common Cyberattacks & Prevention | MidnightMusings | [Read More](https://medium.com/p/373a1119498b) |
 | Mon, 28 Apr 2025 14:11:42 GMT | NIST CSF Made Simple: A Beginner's Guide to Cybersecurity Framework | Kambetastephano | [Read More](https://medium.com/p/f3f12bfcb6ac) |
 | Mon, 28 Apr 2025 14:10:06 GMT | Cybersecurity in Smart Vehicles: Threat Analysis and Advanced Protection Strategies | Emily | [Read More](https://medium.com/p/21fcdff507fe) |
-| Mon, 28 Apr 2025 14:02:47 GMT | Entry-Level Cybersecurity Jobs: Your Path to a Cyber Career | MidnightMusings | [Read More](https://medium.com/p/00c0be0c9b82) |
-| Mon, 28 Apr 2025 14:02:39 GMT | Advanced C2 Infrastructure and Evasion Techniques | Esra Kayhan | [Read More](https://medium.com/p/d47ab87e3631) |
-| Mon, 28 Apr 2025 14:00:14 GMT | Cyber Briefing: 2025.04.28 | CyberMaterial | [Read More](https://medium.com/p/c67d9bb070f2) |
-| Mon, 28 Apr 2025 13:59:23 GMT | Google Cyber Alert: Scam Exposed... Stay Sharp! | O. J. Okpabi | [Read More](https://medium.com/p/c31b8972fc5d) |
-| Mon, 28 Apr 2025 13:57:28 GMT | The Hidden Danger in AI Agents: How MCP Semantic Injection Creates a Perfect Security Storm | Vasudevan Surendran | [Read More](https://medium.com/p/e22c32f9fa7b) |
-| Mon, 28 Apr 2025 13:56:43 GMT | How to Spot a Legit Email vs. a Phishing Scam | Tech Made Simple By NTi | [Read More](https://medium.com/p/adf89c2c3e06) |
-| Mon, 28 Apr 2025 13:56:23 GMT | Setting up ADB (Tunneling) on WSL2 | Aan | [Read More](https://medium.com/p/a1fb66dd8407) |
