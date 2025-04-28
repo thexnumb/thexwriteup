@@ -14,6 +14,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 06:21:29 GMT | The Hidden Dangers Lurking in Your Website (and How to Stop Them) | Design Interactive Web Solutions | [Read More](https://medium.com/p/a6f4949720f0) |
+| Mon, 28 Apr 2025 06:18:31 GMT | Windows PE (Preinstallation Environment) Deployment Guide | jie taro (杰太郎） | [Read More](https://medium.com/p/8eef443ddb6b) |
+| Mon, 28 Apr 2025 06:16:35 GMT | Building an AI Help Desk Assistant: The Art of Customer Identification and Secure Authentication —… | Giuseppe Trisciuoglio | [Read More](https://medium.com/p/54882a7bbb18) |
+| Mon, 28 Apr 2025 06:15:53 GMT | Cyber Security Awareness | Gurwinder Singh | [Read More](https://medium.com/p/b45ca1d561cf) |
+| Mon, 28 Apr 2025 06:15:37 GMT | Palo Alto Networks Prisma Cloud for Docker: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/09684cfd0d09) |
+| Mon, 28 Apr 2025 06:08:46 GMT | Top 5 Books That Outsmart Cybercriminals | Ahmad Javed | [Read More](https://medium.com/p/ecdac1ec9560) |
+| Mon, 28 Apr 2025 06:04:32 GMT | Cyber Hygiene 101: The New Generation’s Guide to Online Privacy | CyberFIT Solutions | [Read More](https://medium.com/p/3bfb686cbdad) |
+| Mon, 28 Apr 2025 06:04:10 GMT | How to Master Subdomain Takeovers in 2025 | Vipul Sonule | [Read More](https://medium.com/p/023f9f4817af) |
+| Mon, 28 Apr 2025 06:03:34 GMT | Taming Prompt Injection: How Google’s CaMeL Gives AI a Security Backbone for LLMs | Rajneesh Aggarwal | [Read More](https://medium.com/p/bfe9e6e3af0b) |
+| Mon, 28 Apr 2025 06:00:22 GMT | Today’s Top Cyber Intelligence Highlights — Apr 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/24865b448039) |
+| Mon, 28 Apr 2025 05:58:31 GMT | Social Engineering 2.0: How Hackers Manipulate You Without Code | Taiyab Lokhandwala | [Read More](https://medium.com/p/025b78d1603f) |
+| Mon, 28 Apr 2025 05:57:55 GMT | Top SysOps Automation Tools to Streamline IT Operations | TheReviewHive | [Read More](https://medium.com/p/6ae4d0797033) |
+| Mon, 28 Apr 2025 05:56:58 GMT | The Digital Threats Women Face Today | CyberFIT Solutions | [Read More](https://medium.com/p/c3c3286d3670) |
+| Mon, 28 Apr 2025 05:56:45 GMT | Disaster can strike anytime — Is your business prepared? | R&B Networks | [Read More](https://medium.com/p/19c72a39c55f) |
+| Mon, 28 Apr 2025 05:56:38 GMT | Protect Your Shopify Store with the Best Security Measures and Secure Customer Trust | isratzahanbd | [Read More](https://medium.com/p/719db1e9e730) |
+| Mon, 28 Apr 2025 05:56:18 GMT | Implementing a private secure connection between instances with VPC network peering in GCP | @jacob_sec | [Read More](https://medium.com/p/a4f169060e33) |
+| Mon, 28 Apr 2025 05:55:51 GMT | Responding to Cyber Attacks: Building Skills with Indian IR Programs | Pmax | [Read More](https://medium.com/p/f7cbff4b5419) |
+| Mon, 28 Apr 2025 05:53:31 GMT | Master Your Skills with CNT Technologies’ Java Training in Chandigarh — 2025’s Top Trending Course | Cnt Technologies | [Read More](https://medium.com/p/cccbc22d93c4) |
 | Mon, 28 Apr 2025 05:53:05 GMT | Yapay Zeka ve Makine Öğrenmesi için Güvenli Bir Altyapı İnşa Etmek | Kartaca | [Read More](https://medium.com/p/379fa27c2b4a) |
 | Mon, 28 Apr 2025 05:49:13 GMT | Why Proactive Threat Hunting is Essential for Every Business in 2025 | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/e8af3723bccd) |
 | Mon, 28 Apr 2025 05:47:02 GMT | DAY 3 - Linux Basics | kate | [Read More](https://medium.com/p/f92aa9fc00e8) |
@@ -96,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 22:15:51 GMT | From Vulnerable to Vigilant: Improving Cybersecurity in Small Business | Stephan Daniels | [Read More](https://medium.com/p/66094de33dce) |
 | Sun, 27 Apr 2025 22:07:04 GMT | The quiet cost of being single in your 30s — | Melissa Tropnas | [Read More](https://medium.com/p/974af4ee4bda) |
 | Sun, 27 Apr 2025 22:06:37 GMT | Hacking the Quizlet Match Game | אורי מגד | [Read More](https://medium.com/p/75cab6ef2c44) |
-| Sun, 27 Apr 2025 21:47:31 GMT | “The Hidden Risks Behind Single Sign-On (SSO): Convenience at a Dangerous Cost” | Richard Ndung'u | [Read More](https://medium.com/p/8973d93a9520) |
-| Sun, 27 Apr 2025 21:38:44 GMT | Orientation to UEFA in United Kingdom’s National Stadium Security Workplaces and Training | Dr Francesco Dergano | [Read More](https://medium.com/p/9eeaf9ff7f01) |
-| Sun, 27 Apr 2025 21:25:11 GMT | Aswan CTF Finals 2025 — Web Challenges | Behiry | [Read More](https://medium.com/p/4dace00c68d3) |
-| Sun, 27 Apr 2025 21:23:08 GMT | Understanding Deepfakes: Tips to Identify Fake Videos and Audios | Kébé Eyong | [Read More](https://medium.com/p/9469b265e4fb) |
-| Sun, 27 Apr 2025 21:13:09 GMT | When The Little Lies We Tell Ourselves Are Okay And When They’re Not | Tim Dahi | [Read More](https://medium.com/p/ae4f10b1ceca) |
-| Sun, 27 Apr 2025 21:12:17 GMT | The Fall of Personal Access Tokens: Secure DevOps | Pavan Vamsi | [Read More](https://medium.com/p/9c0ce8fc2e99) |
-| Sun, 27 Apr 2025 21:01:30 GMT | A Letter from a Broken Heart | María Encinas | [Read More](https://medium.com/p/b43841aaaf32) |
-| Sun, 27 Apr 2025 20:56:22 GMT | The part of artificial intelligence in contemporary cybersecurity | Udara Sandakelum | [Read More](https://medium.com/p/dc69a20c47c3) |
-| Sun, 27 Apr 2025 20:54:44 GMT | Top 10 Cybersecurity Tools Every Beginner Should Know About | Udara Sandakelum | [Read More](https://medium.com/p/baa51ec6691c) |
-| Sun, 27 Apr 2025 20:54:31 GMT | The Noiseless Cyber Wars | Mohammed Thabet | [Read More](https://medium.com/p/51adad802e55) |
-| Sun, 27 Apr 2025 20:51:24 GMT | Why Cybersecurity Should Be Taught in Schools | Udara Sandakelum | [Read More](https://medium.com/p/deec228f9ed3) |
-| Sun, 27 Apr 2025 20:45:39 GMT | Investigating Log4Shell: A Deep Dive into the Vulnerability That Shook Cybersecurity — CodePath… | Mateo Flores | [Read More](https://medium.com/p/e66e3f9dbd11) |
-| Sun, 27 Apr 2025 20:45:21 GMT | The Infrastructure of Trust: Blockchain, Security & Compliance | Paywaz | [Read More](https://medium.com/p/ff4913fe4378) |
-| Sun, 27 Apr 2025 20:40:18 GMT | JS[2] Insertion into HTML: innerHTML vs appendChild | AmishaPriya | [Read More](https://medium.com/p/9d7016506587) |
-| Sun, 27 Apr 2025 20:36:00 GMT | Detecting Policy Puppetry in LLM Prompts: A Simple, Transparent Approach | Alex Alexapolsky | [Read More](https://medium.com/p/f4a36f069ba2) |
-| Sun, 27 Apr 2025 20:33:44 GMT | Assets Chains Disputes And Recoveries! | Assetschainsonlinerecovery | [Read More](https://medium.com/p/026de5c75e36) |
-| Sun, 27 Apr 2025 20:30:22 GMT | Qripton: One-Time Keys for Every Encryption Request | Erik Rowan | [Read More](https://medium.com/p/f9f499fd41c7) |
-| Sun, 27 Apr 2025 20:27:12 GMT | How to Set Up a Secure Linux Server (for Beginners) | Hizam Alaklbi | [Read More](https://medium.com/p/02ecbb3765d5) |
