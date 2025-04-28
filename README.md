@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 09:09:29 GMT | [CIT CTF 2025] Solving all Web challenges | MindPatch | [Read More](https://medium.com/p/e9697670ae1f) |
+| Mon, 28 Apr 2025 08:49:32 GMT | PCI DSS Managed Security Services: A Strategic Approach to Payment Security | Uday Kumar | [Read More](https://medium.com/p/e77a1cb5ded2) |
+| Mon, 28 Apr 2025 08:35:16 GMT | Cybersecurity Risk Management: Key Steps to Managing Threats | SecureSlate | [Read More](https://medium.com/p/27629df03525) |
+| Mon, 28 Apr 2025 08:29:23 GMT | Hacking WordPress Plugins - TryHackMe Smol | Motasem Hamdan | [Read More](https://medium.com/p/8d8515c43731) |
+| Mon, 28 Apr 2025 08:23:25 GMT | How I Earned $8947 bounty for Remote Code Execution via a Hijacked GitHub Module | Naveen kumawat | [Read More](https://medium.com/p/91c4a4b63255) |
+| Mon, 28 Apr 2025 08:21:02 GMT | Introducing TeNass: The N-Layers Security Protocol | rembuyung alas | [Read More](https://medium.com/p/9207bd2403ca) |
+| Mon, 28 Apr 2025 08:16:43 GMT | Introduction | Patrick Amegavi | [Read More](https://medium.com/p/0111ce9f289b) |
+| Mon, 28 Apr 2025 08:07:48 GMT | The Daily Tech Digest: 28 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/57621c99358d) |
+| Mon, 28 Apr 2025 07:59:49 GMT | JWT, Meet Me Outside: How I Decoded, Re-Signed, and Owned the App | Iski | [Read More](https://medium.com/p/95791eabcf5d) |
+| Mon, 28 Apr 2025 07:51:06 GMT | Best Linux Training for Beginners in Delhi with Certificate [2025] | Ankit_Cyber | [Read More](https://medium.com/p/a10eb2f7c784) |
+| Mon, 28 Apr 2025 07:50:48 GMT | Shadow Contracts: The Hidden Terms That Compromise Your Cloud | Induz Data Solutions | [Read More](https://medium.com/p/c2e6c7634f52) |
+| Mon, 28 Apr 2025 07:47:35 GMT | Maximize Your Penetration Testing Efficiency with Nuclei | WilsonNugrah | [Read More](https://medium.com/p/33109fe8ebbd) |
+| Mon, 28 Apr 2025 07:46:40 GMT | MuleSoft on Hyperforce | Jyoti Nimbalkar | [Read More](https://medium.com/p/cea6290a9a02) |
+| Mon, 28 Apr 2025 07:44:38 GMT | GeeTest at GISEC 2025: What to Expect from Our Latest Innovations | GEETEST | [Read More](https://medium.com/p/528f71f6edf5) |
 | Mon, 28 Apr 2025 07:43:18 GMT | GraphQL API hacking Series for bug hunters 01 | IronGhost | [Read More](https://medium.com/p/4db602685d16) |
+| Mon, 28 Apr 2025 07:43:15 GMT | How the Internet Works: A Beginner’s Guide to Basic Network Protocols and IP Addressing | Irem | [Read More](https://medium.com/p/f1832a600920) |
 | Mon, 28 Apr 2025 07:39:19 GMT | FEATURE HIGHLIGHT: CUSTOMIZABLE WORKFLOWS | Cyver Core | [Read More](https://medium.com/p/557b8c9f995a) |
+| Mon, 28 Apr 2025 07:38:57 GMT | Will AI Take Over Jobs? What Career Skills Will Always Stay Relevant | Prism HRC | [Read More](https://medium.com/p/66a6370e7ee3) |
 | Mon, 28 Apr 2025 07:36:58 GMT | Hackers Exploit Craft CMS Flaws: A Deep Dive into CVE-2025–32432 | Ismail Tasdelen | [Read More](https://medium.com/p/edfab5a4819b) |
 | Mon, 28 Apr 2025 07:32:49 GMT | Why Pursuing an Ethical Hacking Certification is a Smart Career Move | Certocean | [Read More](https://medium.com/p/c65b8ba06364) |
 | Mon, 28 Apr 2025 07:30:14 GMT | How to bypass access controls mechanisms?  Portswigger Web Security Academy-Access Control | Rhythm Babu Kafle | [Read More](https://medium.com/p/b1f9a3e7790f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 02:05:28 GMT | SQL Direct - Writeup | Marvin | [Read More](https://medium.com/p/b9cd194c83c6) |
 | Mon, 28 Apr 2025 02:04:39 GMT | Cybersecurity Basics: Understanding IAAA Access Control | Jose Toledo | [Read More](https://medium.com/p/3212769b40f0) |
 | Mon, 28 Apr 2025 01:55:23 GMT | Hunting Suspicious DLL Side-Loading Activity | Paritosh | [Read More](https://medium.com/p/5d919f018ac6) |
-| Mon, 28 Apr 2025 01:54:09 GMT | $500 XSS Payload in Slack | Monika sharma | [Read More](https://medium.com/p/0b99de50f4df) |
-| Mon, 28 Apr 2025 01:52:54 GMT | The Malware You Can’t See Is the Most Dangerous — Here’s How to Fight It in 2025 | Noel | [Read More](https://medium.com/p/f21db20ecccb) |
-| Mon, 28 Apr 2025 01:52:46 GMT | Penetration Testing: How to Think Like a Hacker (Before They Do) | Ahmad Javed | [Read More](https://medium.com/p/da39e421942e) |
-| Mon, 28 Apr 2025 01:51:58 GMT | Our Small Business Was Attacked by a Clown — But It Wasn’t Funny | Noel | [Read More](https://medium.com/p/cec8136ec53b) |
-| Mon, 28 Apr 2025 01:32:06 GMT | Pivoting | Narendra Varma Chekuri | [Read More](https://medium.com/p/b9b9a83f184e) |
-| Mon, 28 Apr 2025 01:16:30 GMT | America’s Cease-Fire Gamble: How One Deal Could Redraw the World – and Reach Your Doorstep | D.H. Jang | [Read More](https://medium.com/p/a96ca78a6e30) |
-| Mon, 28 Apr 2025 01:11:10 GMT | Understanding Vulnerabilities | Luis Soto | [Read More](https://medium.com/p/b9889f9b8865) |
-| Mon, 28 Apr 2025 01:07:50 GMT | LocalPotato - CVE-2023–21746 : TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/dde02f2828db) |
-| Mon, 28 Apr 2025 01:06:40 GMT | From Flipper Zero to Metal Key | Anthony Ellison | [Read More](https://medium.com/p/6f862b4aaab3) |
-| Mon, 28 Apr 2025 01:00:17 GMT | How I Made $12k in 48 Hours — By Recovering ‘Deleted’ Files | Ibtissam Hammadi | [Read More](https://medium.com/p/57bf7289ab9e) |
-| Mon, 28 Apr 2025 00:55:43 GMT | Maximizing Development Speed And Security With No-Code | Franklinr held | [Read More](https://medium.com/p/9b04992a676d) |
-| Mon, 28 Apr 2025 00:41:02 GMT | Maximize Your Bug $BUG Returns in 2025 | Bug | [Read More](https://medium.com/p/461c0d0acc12) |
-| Mon, 28 Apr 2025 00:38:56 GMT | How to Build Wealth with DORK $DORK | DORK | [Read More](https://medium.com/p/ba141a5c60aa) |
-| Mon, 28 Apr 2025 00:37:42 GMT | Get ChainBounty (BOUNTY) Rewards and Maximize APY | ChainBounty | [Read More](https://medium.com/p/8bbf478aea1f) |
-| Mon, 28 Apr 2025 00:36:35 GMT | A List Of OSINT Resources(Must Read Article) | loyalonlytoday | [Read More](https://medium.com/p/6f7ee11709da) |
-| Mon, 28 Apr 2025 00:35:25 GMT | Blockchain Teknolojisi: Temelleri, Yapısal İnceleme ve Konsensüs Mekanizmaları | BekirBurakSaka | [Read More](https://medium.com/p/3e052b199792) |
