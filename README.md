@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 21:37:36 GMT | A Comprehensive Analysis of Solana’s Security History: All Incidents, Impacts, and Evolution (Up to… | Lucrative Panda | [Read More](https://medium.com/p/1b1564c7ddfe) |
+| Mon, 28 Apr 2025 21:24:11 GMT | Ask SCK: We decided to give our 10-year-old a phone and need help | Savvy Cyber Kids | [Read More](https://medium.com/p/dc885c2292ef) |
+| Mon, 28 Apr 2025 21:23:51 GMT | How to find the right cybersecurity tools for your organization | Xaltius | [Read More](https://medium.com/p/4b12418791ac) |
+| Mon, 28 Apr 2025 21:21:41 GMT | Top Network Authentication Methods to Prevent Data Breaches in 2025 | Xaltius | [Read More](https://medium.com/p/b388a070d4f5) |
+| Mon, 28 Apr 2025 21:21:23 GMT | Day 6: Building My First Hacking Lab | Nile Okomo | [Read More](https://medium.com/p/92e6004f3bfb) |
+| Mon, 28 Apr 2025 21:19:41 GMT | How a cyber ecosystem works — your protection against a supply chain attack | Xaltius | [Read More](https://medium.com/p/a28e734ee504) |
+| Mon, 28 Apr 2025 21:19:08 GMT | A Beginner’s Guide to Securing OpenAI API Calls with Resk-LLM | Arch | [Read More](https://medium.com/p/5eec874ccdf8) |
+| Mon, 28 Apr 2025 21:17:09 GMT | Building a Crypter Part III: Key Obfuscation | S12 - H4CK | [Read More](https://medium.com/p/4f4951828f7a) |
 | Mon, 28 Apr 2025 21:11:29 GMT | WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at… | hacker_might | [Read More](https://medium.com/p/4a5ed41a9f06) |
 | Mon, 28 Apr 2025 21:07:31 GMT | Types of Penetration Testing: Which Is Right for Your Business? | IT_Engineer | [Read More](https://medium.com/p/3783befdc8a5) |
 | Mon, 28 Apr 2025 21:07:12 GMT | Password Reuse: The Silent Security Threat Inside America’s Most Trusted Companies | Hoplon Infosec | [Read More](https://medium.com/p/3c299a07451f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 15:57:33 GMT | Keylogger Detection System with Python | Vinu Varshith Alagappan | [Read More](https://medium.com/p/3a5a45c0718c) |
 | Mon, 28 Apr 2025 15:53:16 GMT | Earn Big with LunaFi $LFI Rewards This Year | LunaFi | [Read More](https://medium.com/p/5fb2807a24fe) |
 | Mon, 28 Apr 2025 15:52:55 GMT | 100 Linux Commands I Frequently Use for Everyday Tasks and Cyber SecurityHere’s a list of 100… | Dede Nugroho | [Read More](https://medium.com/p/5992076f2886) |
-| Mon, 28 Apr 2025 15:51:55 GMT | WooCommerce Users Targeted by Fake Patch Phishing Attack — Sites Backdoored! | CyDhaal | [Read More](https://medium.com/p/b6ed6888a1c7) |
-| Mon, 28 Apr 2025 15:51:15 GMT | The Digital Benefits Of Securing Internet With VPNs | James Neal | [Read More](https://medium.com/p/7dd9fdce52dd) |
-| Mon, 28 Apr 2025 15:42:55 GMT | How to use the NIST cybersecurity Framework to stay safe online | Richard Ndung'u | [Read More](https://medium.com/p/195006cbe18d) |
-| Mon, 28 Apr 2025 15:36:14 GMT | Major Power Outage Disrupts Spain and Portugal, Impacting Capitals and Surrounding Areas | Re: News | [Read More](https://medium.com/p/666a13ddbbe2) |
-| Mon, 28 Apr 2025 15:32:37 GMT | I Tried to Fix Cybersecurity in Government. They Laughed. | Sam Galope | [Read More](https://medium.com/p/d89fe7555792) |
-| Mon, 28 Apr 2025 15:29:16 GMT | What Are the Technical Areas in AI Governance? | Tal Eliyahu | [Read More](https://medium.com/p/f475eda6eec8) |
-| Mon, 28 Apr 2025 15:28:36 GMT | Creating a CCP connector: Part 4 | Tim Groothuis | [Read More](https://medium.com/p/e2827cea81ac) |
-| Mon, 28 Apr 2025 15:24:28 GMT | Roboto Sans - Writeup | Marvin | [Read More](https://medium.com/p/d26c3c9ec8dd) |
