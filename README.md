@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 18:27:44 GMT | A-LISTED TOOLS OFFERED BY THE BEST CYBERSECURITY CERTIFICATIONS | Jennifer Wales | [Read More](https://medium.com/p/9a1578a2da01) |
+| Mon, 28 Apr 2025 18:22:07 GMT | Local File Inclusion (LFI) vs Remote File Inclusion (RFI) | Adham Hashem | [Read More](https://medium.com/p/55c6df7427c5) |
+| Mon, 28 Apr 2025 18:21:41 GMT | You Don’t Have to Be Finished to Be Compelling | Michaela Wakefield | [Read More](https://medium.com/p/3139437b617e) |
+| Mon, 28 Apr 2025 18:21:24 GMT | Your Password Won’t Save You — Here’s What Actually Keeps You Safe Online | Giridharan P | [Read More](https://medium.com/p/2fd57afabf6c) |
+| Mon, 28 Apr 2025 18:20:10 GMT | CVE-2025–27556 - Django — Windows’ta LoginView, LogoutView ve set_language() üzerinde Potansiyel… | Yunus Olçar | [Read More](https://medium.com/p/86d6318d99e6) |
+| Mon, 28 Apr 2025 18:19:43 GMT | From Analysis to Action: A Guide to Decisive Cybersecurity Risk Management | Darryl MacLeod | [Read More](https://medium.com/p/f2479c0af6af) |
+| Mon, 28 Apr 2025 18:08:08 GMT | API Security: Scopes and Claims | Tihomir Manushev | [Read More](https://medium.com/p/af93c227bea0) |
+| Mon, 28 Apr 2025 18:07:41 GMT | : | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/9ad1acc64e3b) |
+| Mon, 28 Apr 2025 18:02:39 GMT | How Breaches Start: Breaking Down 5 Real Vulnerabilities ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/8b1a032b0335) |
+| Mon, 28 Apr 2025 17:58:18 GMT | Enterprise-Grade Data Centers in India | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/734641859f4b) |
+| Mon, 28 Apr 2025 17:57:00 GMT | Pakistan's Misinformation Campaigns: A Social Media Challenge | PRIYANSHU | [Read More](https://medium.com/p/0becd7903d0e) |
+| Mon, 28 Apr 2025 17:47:42 GMT | The Must-Have Data Strategy for Modern Manufacturers | Neha Mashruwala | [Read More](https://medium.com/p/d3af294f6487) |
+| Mon, 28 Apr 2025 17:36:20 GMT | HackTheBox Kerala: Igniting a Cybersecurity Revolution in God’s Own Country | Jayasankarkiran | [Read More](https://medium.com/p/b10f5cefbc16) |
 | Mon, 28 Apr 2025 17:32:47 GMT | Write — Up bullyBox - Linux machine (Intermediate) - | Sergios Serg | [Read More](https://medium.com/p/f51ee73f0384) |
 | Mon, 28 Apr 2025 17:32:37 GMT | Flipper Zero: The Ultimate Hacker’s Swiss Army Knife | The Tech Review | [Read More](https://medium.com/p/ac4cdc44a83b) |
 | Mon, 28 Apr 2025 17:31:47 GMT | Protecting Critical Infrastructure: How Rainbow Secure Defends Against Modern Cyber Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/e25d2b41270c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 13:55:52 GMT | AI Daily Pulse: One-Fifth of AI-Recommended Packages Found to Be Fake, Raising Slopsquatting… | LibrAI Insights | [Read More](https://medium.com/p/f85138c13b1f) |
 | Mon, 28 Apr 2025 13:53:27 GMT | Building a Custom C2 Server in Python: A Fresh Take on Offensive Security | Maxwell Cross | [Read More](https://medium.com/p/e3d8c09bc2ab) |
 | Mon, 28 Apr 2025 13:52:43 GMT | IoT and Automotive Device Security Vulnerabilities and Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/41d0fc4ff90b) |
-| Mon, 28 Apr 2025 13:52:43 GMT | Social Engineering vs. Phishing: Understanding the Differences | MidnightMusings | [Read More](https://medium.com/p/0c6c7e4e5132) |
-| Mon, 28 Apr 2025 13:52:34 GMT | 5 More Techniques to Lock Down Public-Facing Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/63b45e3930b6) |
-| Mon, 28 Apr 2025 13:52:08 GMT | Artificial Sleuths: Using AI To Up Your OSINT Game | Investigator515 | [Read More](https://medium.com/p/1e8de52f674e) |
-| Mon, 28 Apr 2025 13:46:54 GMT | App Passwords in Microsoft Entra ID: A Hidden MFA Bypass Risk | PatrickBinder | [Read More](https://medium.com/p/0c70973a078e) |
-| Mon, 28 Apr 2025 13:43:41 GMT | The OSINT Blueprint: Elevate Your Investigation Skills to Extraordinary Levels | wulf | [Read More](https://medium.com/p/0e7f7c832b9d) |
-| Mon, 28 Apr 2025 13:38:23 GMT | The Information Age! | Yoda Manhães | [Read More](https://medium.com/p/eec2573e38c7) |
-| Mon, 28 Apr 2025 13:31:21 GMT | KPI vs KRI — Quick Understanding | Ravindra Dagale | [Read More](https://medium.com/p/7617a9a6e8c4) |
-| Mon, 28 Apr 2025 13:31:01 GMT | Building Resilient Organizations Starts with Security-First Thinking | SecOps | [Read More](https://medium.com/p/3beeb2e5406d) |
-| Mon, 28 Apr 2025 13:28:52 GMT | Key Terminologies Every Senior Tech Leader Should Know | Ravindra Dagale | [Read More](https://medium.com/p/dfa53846e5c8) |
-| Mon, 28 Apr 2025 13:18:47 GMT | How to Choose the Right Cyber Security Course for Your Career Goals | Aiswarya N | [Read More](https://medium.com/p/59b0a54b86b1) |
-| Mon, 28 Apr 2025 13:16:44 GMT | What Is Cybersecurity? Meaning, Importance & Types | MidnightMusings | [Read More](https://medium.com/p/c3dee3598965) |
-| Mon, 28 Apr 2025 13:13:28 GMT | The Turing Test is Dead: New Ways to Measure Machine ‘Intelligence’ | Ahmad Javed | [Read More](https://medium.com/p/681aaef796ac) |
-| Mon, 28 Apr 2025 13:10:51 GMT | # Walkthrough: VulnHub Machine — Ted 1 (Full Root Access) | ghostcat | [Read More](https://medium.com/p/12b19f4dc036) |
