@@ -14,6 +14,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 05:20:43 GMT | Critical SAP NetWeaver Vulnerability: What You Need to Know Now | Nexsecura | [Read More](https://medium.com/p/263f411e7df0) |
+| Mon, 28 Apr 2025 05:17:17 GMT | Protect Your UAE Home with Smart AI Perimeter Security Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/36a3516a024a) |
+| Mon, 28 Apr 2025 05:15:36 GMT | The Last Chapter: A Dream that Died Fighting | TheIndianNetwork | [Read More](https://medium.com/p/ad80574f2744) |
+| Mon, 28 Apr 2025 05:14:38 GMT | Harness vs Jenkins: Modernising Your CI/CD Pipeline | Chandan Pal | [Read More](https://medium.com/p/2ef14c00abd8) |
+| Mon, 28 Apr 2025 05:09:35 GMT | ☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker's Guide | Abhijeet Kumawat | [Read More](https://medium.com/p/a0018704c391) |
+| Mon, 28 Apr 2025 05:09:32 GMT | Document Analysis — NexaBloom.xyz | Shanmukhakrishna | [Read More](https://medium.com/p/b7a9cd5a7438) |
+| Mon, 28 Apr 2025 05:02:41 GMT | IAM Roles vs IAM Policies — Understanding Access Control in AWS | Atharva Sardesai | [Read More](https://medium.com/p/adc57e41dce0) |
+| Mon, 28 Apr 2025 04:56:47 GMT | What Are Access Control Solutions and Why Your Business Needs Them | Projection House LLC | [Read More](https://medium.com/p/fc781a7592e3) |
+| Mon, 28 Apr 2025 04:55:46 GMT | Aftertaste. | Swarani | [Read More](https://medium.com/p/5a43e38ed58f) |
+| Mon, 28 Apr 2025 04:55:40 GMT | From Code to Cloud: 10 Cybersecurity Practices Every Developer Must Adopt in 2025 | Ahmad Javed | [Read More](https://medium.com/p/576edeb880db) |
 | Mon, 28 Apr 2025 04:33:07 GMT | Adversarial AI en el Kernel: Generando Exploits con IA y Defendiéndonos en Tiempo Real | Josué Acevedo Maldonado | [Read More](https://medium.com/p/8b77dd770513) |
 | Mon, 28 Apr 2025 04:32:30 GMT | The Impact of Cybersecurity on Small Business Growth and Stability | Fountain Hills Technologies | [Read More](https://medium.com/p/2223e919f925) |
 | Mon, 28 Apr 2025 04:31:52 GMT | The Linux Security Journey — Firewalld (Firewall Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66c9e9f74b21) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 20:01:58 GMT | XCSSET Malware 2025: Updated Techniques and Payloads | Mayank | [Read More](https://medium.com/p/05153f666d04) |
 | Sun, 27 Apr 2025 19:56:50 GMT | Breaking Down My CompTIA Security+ PBQs: What Actually Showed Up on Test Day | Jared Medeiros | [Read More](https://medium.com/p/37a63d4719ad) |
 | Sun, 27 Apr 2025 19:56:38 GMT | Rainbow Scarab Beetles Facts & Information | The Entomology Corner | [Read More](https://medium.com/p/baaf06f5f482) |
-| Sun, 27 Apr 2025 19:49:15 GMT | My First Bash Recon Script | srhoe | [Read More](https://medium.com/p/36d0cf3ead61) |
-| Sun, 27 Apr 2025 19:46:43 GMT | ASWAN CTF Writeup | Korea | [Read More](https://medium.com/p/d2842a9b2b9d) |
-| Sun, 27 Apr 2025 19:35:57 GMT | Dancing Without Strength - poem. | Moonshade | [Read More](https://medium.com/p/89650750b7ef) |
-| Sun, 27 Apr 2025 19:34:51 GMT | Behind the Curtain: Understanding Zone.Identifier | Nandakumar P | [Read More](https://medium.com/p/a588e7a9342c) |
-| Sun, 27 Apr 2025 19:33:56 GMT | Trojan:Script/Wacatac.B!ml — When Microsoft Defender Cries Wolf (Usually) | Brendan Smith | [Read More](https://medium.com/p/6fb25816eee6) |
-| Sun, 27 Apr 2025 19:33:48 GMT | Vaulting over a .innerHTML sink in a Locked-Down CSP | SMHTahsin33 | [Read More](https://medium.com/p/a628be8ba9dc) |
-| Sun, 27 Apr 2025 19:25:16 GMT | Your Go-To LLM Security Checklist for PenTesting. | Seb AGUELE | [Read More](https://medium.com/p/87115d7a4817) |
-| Sun, 27 Apr 2025 19:21:17 GMT | The Role of Exotic Top-Level Domains (.st, | An0n | [Read More](https://medium.com/p/856c5cc6ec4b) |
-| Sun, 27 Apr 2025 19:17:07 GMT | TryHackMe - AV Evasion: Shellcode - WriteUp | Axoloth | [Read More](https://medium.com/p/30ab56613089) |
-| Sun, 27 Apr 2025 19:13:15 GMT | Guarding the Web: A Beginner’s Guide to CSRF, XSS, and SQL Injection | Mohamed Ashfaq | [Read More](https://medium.com/p/779c1d738593) |
