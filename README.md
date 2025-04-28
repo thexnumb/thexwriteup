@@ -14,6 +14,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 05:53:05 GMT | Yapay Zeka ve Makine Öğrenmesi için Güvenli Bir Altyapı İnşa Etmek | Kartaca | [Read More](https://medium.com/p/379fa27c2b4a) |
+| Mon, 28 Apr 2025 05:49:13 GMT | Why Proactive Threat Hunting is Essential for Every Business in 2025 | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/e8af3723bccd) |
+| Mon, 28 Apr 2025 05:47:02 GMT | DAY 3 - Linux Basics | kate | [Read More](https://medium.com/p/f92aa9fc00e8) |
+| Mon, 28 Apr 2025 05:42:14 GMT | $500 Bounty: For a Simple Open Redirect | Monika sharma | [Read More](https://medium.com/p/a34051071a5c) |
+| Mon, 28 Apr 2025 05:41:09 GMT | Choosing the Right Antivirus Software: Your First Step to Digital Safety | TheReviewHive | [Read More](https://medium.com/p/b7b58a9fc682) |
+| Mon, 28 Apr 2025 05:39:31 GMT | How to Build a Cyber Threat Intelligence Collection Plan | Adam Goss | [Read More](https://medium.com/p/ed36715f7f33) |
+| Mon, 28 Apr 2025 05:31:42 GMT | Why Red-Teaming Your Own Detection Rules is the Best Career Lesson | Siddhant Mishra | [Read More](https://medium.com/p/4153555e61c7) |
+| Mon, 28 Apr 2025 05:31:37 GMT | Top 10 IT skills in demand for 2025 | FACE Prep Campus | [Read More](https://medium.com/p/b25552781b29) |
+| Mon, 28 Apr 2025 05:24:58 GMT | Top Cybersecurity Certifications in India: A Comparative Guide for 2025 | Iamayushvj | [Read More](https://medium.com/p/8be2f4593b45) |
 | Mon, 28 Apr 2025 05:20:43 GMT | Critical SAP NetWeaver Vulnerability: What You Need to Know Now | Nexsecura | [Read More](https://medium.com/p/263f411e7df0) |
 | Mon, 28 Apr 2025 05:17:17 GMT | Protect Your UAE Home with Smart AI Perimeter Security Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/36a3516a024a) |
 | Mon, 28 Apr 2025 05:15:36 GMT | The Last Chapter: A Dream that Died Fighting | TheIndianNetwork | [Read More](https://medium.com/p/ad80574f2744) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 20:33:44 GMT | Assets Chains Disputes And Recoveries! | Assetschainsonlinerecovery | [Read More](https://medium.com/p/026de5c75e36) |
 | Sun, 27 Apr 2025 20:30:22 GMT | Qripton: One-Time Keys for Every Encryption Request | Erik Rowan | [Read More](https://medium.com/p/f9f499fd41c7) |
 | Sun, 27 Apr 2025 20:27:12 GMT | How to Set Up a Secure Linux Server (for Beginners) | Hizam Alaklbi | [Read More](https://medium.com/p/02ecbb3765d5) |
-| Sun, 27 Apr 2025 20:27:11 GMT | Mastering Burp Suite Basics | musayyab sharif | [Read More](https://medium.com/p/479ffb8d1624) |
-| Sun, 27 Apr 2025 20:24:10 GMT | Why You Should Use AI Even if You Think You Don’t Need It | E. Ibrahimi | [Read More](https://medium.com/p/5d0f64c4eb1a) |
-| Sun, 27 Apr 2025 20:14:15 GMT | AI TRiSM: Gartner’s Framework for Trust , Risk and Security in AI​ | Rajesh Devadasan | [Read More](https://medium.com/p/b87ab78f8a0e) |
-| Sun, 27 Apr 2025 20:13:49 GMT | Manual Testing for Privilege Escalation and Broken Access Control My (Methodology) | MahmoudKroush | [Read More](https://medium.com/p/a3b9f41b82a2) |
-| Sun, 27 Apr 2025 20:13:26 GMT | Hacking APIs: Attackers exploiting SSRF | Israel Aráoz Severiche | [Read More](https://medium.com/p/57624d575987) |
-| Sun, 27 Apr 2025 20:08:59 GMT | Cybersecurity 101: The Basics and Why They Matter | Sarah Atuaka | [Read More](https://medium.com/p/95e955f7ba1a) |
-| Sun, 27 Apr 2025 20:01:58 GMT | XCSSET Malware 2025: Updated Techniques and Payloads | Mayank | [Read More](https://medium.com/p/05153f666d04) |
-| Sun, 27 Apr 2025 19:56:50 GMT | Breaking Down My CompTIA Security+ PBQs: What Actually Showed Up on Test Day | Jared Medeiros | [Read More](https://medium.com/p/37a63d4719ad) |
-| Sun, 27 Apr 2025 19:56:38 GMT | Rainbow Scarab Beetles Facts & Information | The Entomology Corner | [Read More](https://medium.com/p/baaf06f5f482) |
