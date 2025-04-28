@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 19:29:24 GMT | How to Build Cybersecurity Resilience for Your Business in an AI-Driven World | Jad lissandre | [Read More](https://medium.com/p/5a22a9a75843) |
+| Mon, 28 Apr 2025 19:25:32 GMT | Key Points on the NIST 800–171 Compliance Checklist | Akshay Chauhan | [Read More](https://medium.com/p/7e3eaeca6039) |
+| Mon, 28 Apr 2025 19:23:27 GMT | Strengthening Cybersecurity: Why People Are the Key Factor | Binitha John | [Read More](https://medium.com/p/bc0d34962d7a) |
+| Mon, 28 Apr 2025 19:21:16 GMT | The Benefits of Installing Automatic Gates and Access Control Systems for Your Home or Business | Rasoul Esfaharin | [Read More](https://medium.com/p/68e6fd0a5630) |
+| Mon, 28 Apr 2025 19:19:44 GMT | Mobile Device Management: The Key to a Secure Mobile Workforce | Akshay Chauhan | [Read More](https://medium.com/p/d21ba6285036) |
 | Mon, 28 Apr 2025 19:13:36 GMT | How to Become an Ethical Hacker (and Build a Career) | Md Shoyeb Hossain | [Read More](https://medium.com/p/647739f9ae20) |
+| Mon, 28 Apr 2025 19:12:40 GMT | Why 4 out of 5 Software Products Die | PanX Project | [Read More](https://medium.com/p/34ecdcee44a8) |
 | Mon, 28 Apr 2025 19:07:47 GMT | Web Uygulamalarında Sessiz Tehditler: SSTI ve CSTI | Ibrahim Yılmaz | [Read More](https://medium.com/p/058b8fc8e138) |
 | Mon, 28 Apr 2025 18:56:23 GMT | Day 13: Visible error-based SQL injection — Zero to Hero Blind Injection — Portswigger | RayofHope | [Read More](https://medium.com/p/3da2241a1672) |
 | Mon, 28 Apr 2025 18:50:37 GMT | VeriSource Data Breach Impacts 4 Million People | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/fe05cce5aac4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 14:30:51 GMT | The Pain of Setting Up 2FA on Every App | Vijay Kumar Gupta | [Read More](https://medium.com/p/4d17cb0895a2) |
 | Mon, 28 Apr 2025 14:25:10 GMT | DVR4 Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/69da0ebc168b) |
 | Mon, 28 Apr 2025 14:23:52 GMT | Google Cloud Account Takeover via URL Parsing Confusion | Mohamed Benchikh | [Read More](https://medium.com/p/c5e47389b7c7) |
-| Mon, 28 Apr 2025 14:18:55 GMT | Cyberattack Suspected Triggers Widespread Power Blackout Across Spain and Portugal | Hoplon Infosec | [Read More](https://medium.com/p/a2cd798901b4) |
-| Mon, 28 Apr 2025 14:17:46 GMT | The Anatomy of Deepfake Voice Attacks: Mapping the Threat Landscape in the Age of Synthetic Speech | Roy Zanbel | [Read More](https://medium.com/p/f65581371bf4) |
-| Mon, 28 Apr 2025 14:15:10 GMT | How to Secure Your Crypto Like a Pro in 2025 | Kobold assistant | [Read More](https://medium.com/p/f9815d2d448b) |
-| Mon, 28 Apr 2025 14:12:38 GMT | Common Cyberattacks & Prevention | MidnightMusings | [Read More](https://medium.com/p/373a1119498b) |
-| Mon, 28 Apr 2025 14:11:42 GMT | NIST CSF Made Simple: A Beginner's Guide to Cybersecurity Framework | Kambetastephano | [Read More](https://medium.com/p/f3f12bfcb6ac) |
-| Mon, 28 Apr 2025 14:10:06 GMT | Cybersecurity in Smart Vehicles: Threat Analysis and Advanced Protection Strategies | Emily | [Read More](https://medium.com/p/21fcdff507fe) |
