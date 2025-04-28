@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 15:16:53 GMT | Unlock Free Access to xss0r — Your XSS Success Deserves a Reward! | xss0r | [Read More](https://medium.com/p/160754315afd) |
+| Mon, 28 Apr 2025 15:13:43 GMT | A Complaint from AI: “I don’t Understand Your Company” | Vlad Radziuk | [Read More](https://medium.com/p/8314e39a2072) |
+| Mon, 28 Apr 2025 15:12:34 GMT | History of Random Numbers — and Why They Matter More Than Ever in 2025 | Sapiens Clan | [Read More](https://medium.com/p/8db95aad5d2e) |
+| Mon, 28 Apr 2025 15:11:06 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3b25a6ef8d62) |
+| Mon, 28 Apr 2025 15:05:41 GMT | Windows Recall: Invading Privacy or Increasing Productivity? | Wes | [Read More](https://medium.com/p/4bdd7d8185b7) |
+| Mon, 28 Apr 2025 15:03:44 GMT | Autenticación usando NestJS y JWT | Geampiere Jaramillo | [Read More](https://medium.com/p/74d6d7c8a2c7) |
+| Mon, 28 Apr 2025 15:02:59 GMT | Back to Friends | The Overthinker Journal | [Read More](https://medium.com/p/634cebaf1331) |
+| Mon, 28 Apr 2025 15:02:13 GMT | Secure Web Gateway vs Web Application Firewall: What’s the Difference? | Loria | [Read More](https://medium.com/p/a8d49316d865) |
+| Mon, 28 Apr 2025 15:01:18 GMT | Not Everything in a Data Leak is Real | MITRE Doggy | [Read More](https://medium.com/p/b5dfa92a9631) |
+| Mon, 28 Apr 2025 14:59:27 GMT | Step-by-Step Guide: Deploying SafeLine WAF on Synology NAS Using Docker | Loria | [Read More](https://medium.com/p/958073f77e0e) |
+| Mon, 28 Apr 2025 14:55:32 GMT | How to Defend Against Bot Attacks with SafeLine WAF | Loria | [Read More](https://medium.com/p/a6704b5e53fa) |
+| Mon, 28 Apr 2025 14:53:13 GMT | Authera: A Passwordless + 2A Authentication System | Ninad Walanj | [Read More](https://medium.com/p/c1a6d151d537) |
+| Mon, 28 Apr 2025 14:52:01 GMT | Exposing Hidden Vulnerabilities: How LeakHound — GitLeaks Scanner Unmasks | Pushan | [Read More](https://medium.com/p/625782a90059) |
+| Mon, 28 Apr 2025 14:50:33 GMT | Top Cybersecurity Companies: How They Keep You Safe Online | Kambetastephano | [Read More](https://medium.com/p/5aace740958a) |
+| Mon, 28 Apr 2025 14:43:25 GMT | Europe’s Defence Renaissance: How the Continent is Reinventing its Security Strategy | Aimar Burzaco Mateo | [Read More](https://medium.com/p/bd401cb69292) |
 | Mon, 28 Apr 2025 14:41:13 GMT | Daily dose of Chart : 28 April 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/492cbafe6a4e) |
 | Mon, 28 Apr 2025 14:35:57 GMT | Semperis Launches Ready1 to Transform Cyber Crisis Response | Louise Rolfe | [Read More](https://medium.com/p/e5d0673730db) |
 | Mon, 28 Apr 2025 14:32:34 GMT | How CVE Severity Levels Drive Security Prioritization | Saber You | [Read More](https://medium.com/p/1677a4360224) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 10:27:27 GMT | Why Every Property Needs a Security Guard: Top Benefits | United Guard Force India | [Read More](https://medium.com/p/6ad1792e473d) |
 | Mon, 28 Apr 2025 10:27:01 GMT | WooCommerce Users Beware: Fake Patch Phishing Campaign Unleashes Site Backdoors | Ismail Tasdelen | [Read More](https://medium.com/p/d77ccb847d8b) |
 | Mon, 28 Apr 2025 10:22:30 GMT | Unleashing Security Tooling: —  The SWC Registry | 0xjoi | [Read More](https://medium.com/p/eeb0d4183bcd) |
-| Mon, 28 Apr 2025 10:22:18 GMT | The Essential Role of Security Guard Services in Protecting Businesses | United Guard Force India | [Read More](https://medium.com/p/128f02f492fe) |
-| Mon, 28 Apr 2025 10:20:51 GMT | You Think You’re Safe Online? Hackers Think You’re a Joke. | Abdelaziz moustakim | [Read More](https://medium.com/p/bc0d903f604c) |
-| Mon, 28 Apr 2025 10:18:23 GMT | 7 Things You Should Never Share with ChatGPT (or Any AI) | Consulting4sec | [Read More](https://medium.com/p/9d9a1618a0fe) |
-| Mon, 28 Apr 2025 10:13:44 GMT | Android App Security: Step-by-Step Penetration Testing Tutorial Part-3 | Gokul | [Read More](https://medium.com/p/8b7c1cb85b5b) |
-| Mon, 28 Apr 2025 10:13:04 GMT | 100+ Free Cybersecurity and Networking Courses | Adharvkt | [Read More](https://medium.com/p/476a661e2a4d) |
-| Mon, 28 Apr 2025 10:11:58 GMT | Android App Security: Step-by-Step Penetration Testing Tutorial Part 5 | Gokul | [Read More](https://medium.com/p/c16b1a4a17f5) |
-| Mon, 28 Apr 2025 10:10:13 GMT | Android App Security Step-by-Step Penetration Testing Guide Part 2 | Gokul | [Read More](https://medium.com/p/276b60203b59) |
-| Mon, 28 Apr 2025 10:07:43 GMT | Royal Ransomware Reverse Engineering — Let’sDefend Challenge | Selim Oguz Şahin | [Read More](https://medium.com/p/0e434ca417b8) |
-| Mon, 28 Apr 2025 10:07:42 GMT | The case for Cybersecurity in OH&S, Environment and Quality Management | Dietmar Marggraff | [Read More](https://medium.com/p/f6d44ec53151) |
-| Mon, 28 Apr 2025 10:07:07 GMT | TryHackMe Mr. Phisher Walkthrough | Justin | [Read More](https://medium.com/p/168845754251) |
-| Mon, 28 Apr 2025 10:05:25 GMT | Behind Closed Doors: Safeguarding Secrets in DevSecOps Workflow | Revel Aldwin | [Read More](https://medium.com/p/cb8c20d9df40) |
-| Mon, 28 Apr 2025 10:05:16 GMT | Locking Down Your Files: How Go 1.24 Stops Hackers from Stealing Your Data | Siva | [Read More](https://medium.com/p/a34cf5541890) |
-| Mon, 28 Apr 2025 10:03:53 GMT | “Why Privacy is Important in 2025.” | merish | [Read More](https://medium.com/p/fd3c25e97f98) |
-| Mon, 28 Apr 2025 09:59:18 GMT | Vulnerability Assessment and Penetration Testing of DC-1 | CHEN HAICHENG | [Read More](https://medium.com/p/a18719e88772) |
-| Mon, 28 Apr 2025 09:58:40 GMT | How to Earn More Rewards with Bug $BUG in 2025 | Bug | [Read More](https://medium.com/p/f06d1357dee6) |
