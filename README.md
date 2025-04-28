@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 16:41:10 GMT | How hackers are weaponizing your digital life without ever cracking a password | O. J. Okpabi | [Read More](https://medium.com/p/450b5fd18902) |
+| Mon, 28 Apr 2025 16:40:46 GMT | Write — Up Helpdesk (Windows) - Notion | Sergios Serg | [Read More](https://medium.com/p/0104a03e3dcf) |
+| Mon, 28 Apr 2025 16:30:57 GMT | Network Penetration Testing Certifications | Aaron DeJong | [Read More](https://medium.com/p/d1ee997d3420) |
+| Mon, 28 Apr 2025 16:29:54 GMT | Ethical Hacker — Discover Your Path to Career Success (2025) | Franklin Rhodes | [Read More](https://medium.com/p/5ba5966deaa7) |
+| Mon, 28 Apr 2025 16:27:11 GMT | How I Hacked the Delhi Metro (Twice!) — A Journey from Curiosity to Responsible Disclosure | Sahil Choudhary | [Read More](https://medium.com/p/348f855bff47) |
+| Mon, 28 Apr 2025 16:25:58 GMT | TryHackMe - Obfuscation Principles - WriteUp | Axoloth | [Read More](https://medium.com/p/e270950f4910) |
+| Mon, 28 Apr 2025 16:21:21 GMT | Raised by Risk: How Growing Up Gen X Shaped My Career | Doug Jaworski | [Read More](https://medium.com/p/fbbb93d056b2) |
+| Mon, 28 Apr 2025 16:20:32 GMT | The Ultimate Web Application Pentesting Checklist | SafeAeon Inc. | [Read More](https://medium.com/p/61d0802f4b63) |
 | Mon, 28 Apr 2025 16:16:16 GMT | How to Get LFI: A Beginner’s Guide | LunaFi | [Read More](https://medium.com/p/a9cd06903f5b) |
 | Mon, 28 Apr 2025 16:14:22 GMT | Company Risk With AI | Turingvang | [Read More](https://medium.com/p/cdc791ccd490) |
 | Mon, 28 Apr 2025 16:12:34 GMT | The Username Trap: How Your Old Accounts Can Still Haunt You | Sam Galope | [Read More](https://medium.com/p/131989aecf41) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 12:28:02 GMT | No half truths | Balogun Kosly | [Read More](https://medium.com/p/92d398ebc744) |
 | Mon, 28 Apr 2025 12:26:22 GMT | RST TI Report Digest: 28 Apr 2025 | RST Cloud | [Read More](https://medium.com/p/fd57637d58a3) |
 | Mon, 28 Apr 2025 12:22:32 GMT | CIT CTF writeups | Selwyn Uy - Cybersecurity enthusiast - CTF Player | [Read More](https://medium.com/p/5de28a090d7e) |
-| Mon, 28 Apr 2025 12:21:44 GMT | CSTI ve SSTI Zafiyetleri | Kerim Ç | [Read More](https://medium.com/p/d3792ef5d6ee) |
-| Mon, 28 Apr 2025 12:19:47 GMT | 100 Linux Commands Cheat-Sheet For Beginners | DavD | [Read More](https://medium.com/p/c114a728f333) |
-| Mon, 28 Apr 2025 12:15:52 GMT | XSS (Cross-Site Scripting) Zafiyeti: Derinlemesine İnceleme | Alirıza Aslan | [Read More](https://medium.com/p/5ad6c8525871) |
-| Mon, 28 Apr 2025 12:15:29 GMT | The Disappearance of Landline Telephony. An Ignored Threat Revealed Today | Francisco Cobos | [Read More](https://medium.com/p/b3510777430c) |
-| Mon, 28 Apr 2025 12:12:37 GMT | Some AI Programs Can Bolster Businesses Against Vulnerabilities in Technology | John J. Spence | [Read More](https://medium.com/p/14854959fb5d) |
-| Mon, 28 Apr 2025 12:02:34 GMT | Securing the Ballot: Blockchain’s Potential for Election Integrity | JMTheAdvocate  - Jerica Richardson | [Read More](https://medium.com/p/5f67327f1a40) |
-| Mon, 28 Apr 2025 12:02:23 GMT | Cyber Security London: Protecting Your Business in the Digital Age | Paladin Cyber Security London | [Read More](https://medium.com/p/a8f12a0ccb80) |
-| Mon, 28 Apr 2025 11:56:29 GMT | Cybersecurity Strategies for 2025: Safeguarding Data in a Digital World | StrongBox IT | [Read More](https://medium.com/p/fd846067648c) |
