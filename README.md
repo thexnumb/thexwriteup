@@ -12,7 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 12:49:00 GMT | The $2500 bug: Remote Code Execution via Supply Chain Attack | Naveen kumawat | [Read More](https://medium.com/p/3beb07ac1a4c) |
+| Mon, 28 Apr 2025 12:47:19 GMT | Wake Up, IT… | Stas Sultanov | [Read More](https://medium.com/p/fdf1515dd858) |
+| Mon, 28 Apr 2025 12:46:46 GMT | How Industrial Security Keeps Operations Running Smoothly | Group 24/7 Security Services | [Read More](https://medium.com/p/45f43f1bc906) |
+| Mon, 28 Apr 2025 12:44:02 GMT | The Shadow Networks: Unmasking Mexican Cartel Involvement in the Devastating Reality of Human… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/6347c0c7ff2d) |
+| Mon, 28 Apr 2025 12:41:15 GMT | Security and Privacy, better together: NIST Launches New Privacy Framework | Tsaaro Consulting | [Read More](https://medium.com/p/886b68713511) |
+| Mon, 28 Apr 2025 12:33:25 GMT | شماره صیغه سنندج09015398913 شماره صیغه بوکان09015398913 شماره صیغه پیرانشهر09015398913 شماره صیغه… | معرف ازدواج موقت | [Read More](https://medium.com/p/55ef07a1c0de) |
+| Mon, 28 Apr 2025 12:32:34 GMT | Simple Tips for Bug Bounty Beginners: Content Spoofing via HTML Injection | Anish Narayan | [Read More](https://medium.com/p/a0ae7c39a89a) |
+| Mon, 28 Apr 2025 12:28:02 GMT | No half truths | Balogun Kosly | [Read More](https://medium.com/p/92d398ebc744) |
+| Mon, 28 Apr 2025 12:26:22 GMT | RST TI Report Digest: 28 Apr 2025 | RST Cloud | [Read More](https://medium.com/p/fd57637d58a3) |
+| Mon, 28 Apr 2025 12:22:32 GMT | CIT CTF writeups | Selwyn Uy - Cybersecurity enthusiast - CTF Player | [Read More](https://medium.com/p/5de28a090d7e) |
+| Mon, 28 Apr 2025 12:21:44 GMT | CSTI ve SSTI Zafiyetleri | Kerim Ç | [Read More](https://medium.com/p/d3792ef5d6ee) |
+| Mon, 28 Apr 2025 12:19:47 GMT | 100 Linux Commands Cheat-Sheet For Beginners | DavD | [Read More](https://medium.com/p/c114a728f333) |
+| Mon, 28 Apr 2025 12:15:52 GMT | XSS (Cross-Site Scripting) Zafiyeti: Derinlemesine İnceleme | Alirıza Aslan | [Read More](https://medium.com/p/5ad6c8525871) |
+| Mon, 28 Apr 2025 12:15:29 GMT | The Disappearance of Landline Telephony. An Ignored Threat Revealed Today | Francisco Cobos | [Read More](https://medium.com/p/b3510777430c) |
+| Mon, 28 Apr 2025 12:12:37 GMT | Some AI Programs Can Bolster Businesses Against Vulnerabilities in Technology | John J. Spence | [Read More](https://medium.com/p/14854959fb5d) |
+| Mon, 28 Apr 2025 12:02:34 GMT | Securing the Ballot: Blockchain’s Potential for Election Integrity | JMTheAdvocate  - Jerica Richardson | [Read More](https://medium.com/p/5f67327f1a40) |
+| Mon, 28 Apr 2025 12:02:23 GMT | Cyber Security London: Protecting Your Business in the Digital Age | Paladin Cyber Security London | [Read More](https://medium.com/p/a8f12a0ccb80) |
+| Mon, 28 Apr 2025 11:56:29 GMT | Cybersecurity Strategies for 2025: Safeguarding Data in a Digital World | StrongBox IT | [Read More](https://medium.com/p/fd846067648c) |
+| Mon, 28 Apr 2025 11:53:23 GMT | Why the OSCP+ Certification is Your Gateway to Success | Oscptraining | [Read More](https://medium.com/p/f4275873614a) |
+| Mon, 28 Apr 2025 11:46:38 GMT | Earn Passive Income with DORK: The Smart Way | DORK | [Read More](https://medium.com/p/1044004cb283) |
+| Mon, 28 Apr 2025 11:45:32 GMT | Want to Supercharge Your Vibe Coding Skills? | Vikrant Dheer | [Read More](https://medium.com/p/7f6bfa2898c4) |
+| Mon, 28 Apr 2025 11:44:14 GMT | Decrypting Firmware: A Practical Guide to Unlocking XOR-Encrypted Binaries | Horrow | [Read More](https://medium.com/p/493320a91c9c) |
+| Mon, 28 Apr 2025 11:40:57 GMT | Best Security Service in Delhi NCR: Your Trusted Safety Partner | NOPe | [Read More](https://medium.com/p/ec453e1d7344) |
+| Mon, 28 Apr 2025 11:40:51 GMT | HackTheBox : Exploit Lame Machines | Raden Dika Natakusumah | [Read More](https://medium.com/p/7a21562eac20) |
 | Mon, 28 Apr 2025 11:36:34 GMT | The Myth of the Cowboy Coder: Galloping Through Misconceptions in Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/d639205108e1) |
+| Mon, 28 Apr 2025 11:32:51 GMT | Ethical Hacking Certifications in 2025: CEH, OSCP or PenTest+? | Muhammad Ahmad | [Read More](https://medium.com/p/6733b29cca63) |
 | Mon, 28 Apr 2025 11:28:12 GMT | Gray Box Testing: The Perfect Balance of Knowledge and Realism? | West Advanced Technologies Inc | [Read More](https://medium.com/p/3a476eb0355a) |
 | Mon, 28 Apr 2025 11:22:42 GMT | Lab Report #6 Group Policy Preferences (GPP) Password Extraction and Event Log Analysis | Samet Koca | [Read More](https://medium.com/p/a0457f9632b2) |
 | Mon, 28 Apr 2025 11:20:29 GMT | ️ What is Wazuh? Discover the Open-Source Security Platform | Furkanctiner | [Read More](https://medium.com/p/b455587bd294) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 06:56:07 GMT | Catch Lies and Raise Your Credit Score with Expert Hacker Assistance | Labib Yasir | [Read More](https://medium.com/p/d531e05f334b) |
 | Mon, 28 Apr 2025 06:42:04 GMT | How I Found a Broken Access Control That Exposed Interview Answers? | Sri Shavin Kumar | [Read More](https://medium.com/p/e353128f6883) |
 | Mon, 28 Apr 2025 06:41:02 GMT | Unlock Bigger Profits with Curvance $CVE | Curvance | [Read More](https://medium.com/p/c12ea3e2baf8) |
-| Mon, 28 Apr 2025 06:39:18 GMT | What Happens When AI Starts Hacking Us Back? | Sarthak Agrawal | [Read More](https://medium.com/p/1b4f9003e93c) |
-| Mon, 28 Apr 2025 06:31:19 GMT | How i Access The Deleted Files of Someone in Google Drive - Bug Bounty | Ph.Hitachi | [Read More](https://medium.com/p/eac134df1de4) |
-| Mon, 28 Apr 2025 06:30:20 GMT | What are Operation Tokens, and why are they necessary? | Apoorv Bedmutha | [Read More](https://medium.com/p/7495493ceeab) |
-| Mon, 28 Apr 2025 06:21:29 GMT | The Hidden Dangers Lurking in Your Website (and How to Stop Them) | Design Interactive Web Solutions | [Read More](https://medium.com/p/a6f4949720f0) |
-| Mon, 28 Apr 2025 06:18:31 GMT | Windows PE (Preinstallation Environment) Deployment Guide | jie taro (杰太郎） | [Read More](https://medium.com/p/8eef443ddb6b) |
-| Mon, 28 Apr 2025 06:16:35 GMT | Building an AI Help Desk Assistant: The Art of Customer Identification and Secure Authentication —… | Giuseppe Trisciuoglio | [Read More](https://medium.com/p/54882a7bbb18) |
-| Mon, 28 Apr 2025 06:15:53 GMT | Cyber Security Awareness | Gurwinder Singh | [Read More](https://medium.com/p/b45ca1d561cf) |
-| Mon, 28 Apr 2025 06:15:37 GMT | Palo Alto Networks Prisma Cloud for Docker: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/09684cfd0d09) |
-| Mon, 28 Apr 2025 06:08:46 GMT | Top 5 Books That Outsmart Cybercriminals | Ahmad Javed | [Read More](https://medium.com/p/ecdac1ec9560) |
-| Mon, 28 Apr 2025 06:04:32 GMT | Cyber Hygiene 101: The New Generation’s Guide to Online Privacy | CyberFIT Solutions | [Read More](https://medium.com/p/3bfb686cbdad) |
-| Mon, 28 Apr 2025 06:04:10 GMT | How to Master Subdomain Takeovers in 2025 | Vipul Sonule | [Read More](https://medium.com/p/023f9f4817af) |
-| Mon, 28 Apr 2025 06:03:34 GMT | Taming Prompt Injection: How Google’s CaMeL Gives AI a Security Backbone for LLMs | Rajneesh Aggarwal | [Read More](https://medium.com/p/bfe9e6e3af0b) |
-| Mon, 28 Apr 2025 06:00:22 GMT | Today’s Top Cyber Intelligence Highlights — Apr 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/24865b448039) |
-| Mon, 28 Apr 2025 05:58:31 GMT | Social Engineering 2.0: How Hackers Manipulate You Without Code | Taiyab Lokhandwala | [Read More](https://medium.com/p/025b78d1603f) |
-| Mon, 28 Apr 2025 05:57:55 GMT | Top SysOps Automation Tools to Streamline IT Operations | TheReviewHive | [Read More](https://medium.com/p/6ae4d0797033) |
-| Mon, 28 Apr 2025 05:56:58 GMT | The Digital Threats Women Face Today | CyberFIT Solutions | [Read More](https://medium.com/p/c3c3286d3670) |
-| Mon, 28 Apr 2025 05:56:45 GMT | Disaster can strike anytime — Is your business prepared? | R&B Networks | [Read More](https://medium.com/p/19c72a39c55f) |
-| Mon, 28 Apr 2025 05:56:38 GMT | Protect Your Shopify Store with the Best Security Measures and Secure Customer Trust | isratzahanbd | [Read More](https://medium.com/p/719db1e9e730) |
-| Mon, 28 Apr 2025 05:56:18 GMT | Implementing a private secure connection between instances with VPC network peering in GCP | @jacob_sec | [Read More](https://medium.com/p/a4f169060e33) |
-| Mon, 28 Apr 2025 05:55:51 GMT | Responding to Cyber Attacks: Building Skills with Indian IR Programs | Pmax | [Read More](https://medium.com/p/f7cbff4b5419) |
-| Mon, 28 Apr 2025 05:53:31 GMT | Master Your Skills with CNT Technologies’ Java Training in Chandigarh — 2025’s Top Trending Course | Cnt Technologies | [Read More](https://medium.com/p/cccbc22d93c4) |
-| Mon, 28 Apr 2025 05:53:05 GMT | Yapay Zeka ve Makine Öğrenmesi için Güvenli Bir Altyapı İnşa Etmek | Kartaca | [Read More](https://medium.com/p/379fa27c2b4a) |
-| Mon, 28 Apr 2025 05:49:13 GMT | Why Proactive Threat Hunting is Essential for Every Business in 2025 | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/e8af3723bccd) |
-| Mon, 28 Apr 2025 05:47:02 GMT | DAY 3 - Linux Basics | kate | [Read More](https://medium.com/p/f92aa9fc00e8) |
-| Mon, 28 Apr 2025 05:42:14 GMT | $500 Bounty: For a Simple Open Redirect | Monika sharma | [Read More](https://medium.com/p/a34051071a5c) |
