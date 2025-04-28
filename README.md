@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 17:32:47 GMT | Write — Up bullyBox - Linux machine (Intermediate) - | Sergios Serg | [Read More](https://medium.com/p/f51ee73f0384) |
+| Mon, 28 Apr 2025 17:32:37 GMT | Flipper Zero: The Ultimate Hacker’s Swiss Army Knife | The Tech Review | [Read More](https://medium.com/p/ac4cdc44a83b) |
+| Mon, 28 Apr 2025 17:31:47 GMT | Protecting Critical Infrastructure: How Rainbow Secure Defends Against Modern Cyber Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/e25d2b41270c) |
+| Mon, 28 Apr 2025 17:30:35 GMT | The Role of Emotional Intelligence in Modern Security and Public Safety Leadership | Joseph Lozada | [Read More](https://medium.com/p/cd55500d2143) |
+| Mon, 28 Apr 2025 17:29:19 GMT | Why 90% of Go Developers Are Getting Security Wrong (And How You Can Fix It) | The Latency Gambler | [Read More](https://medium.com/p/2eac563e44a1) |
 | Mon, 28 Apr 2025 17:09:44 GMT | Will NATO Expand Even Further? What the Future Holds | Denizgeraslan | [Read More](https://medium.com/p/e5af8a9ea4b3) |
 | Mon, 28 Apr 2025 17:09:26 GMT | Lookup Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/1018f2353cb8) |
 | Mon, 28 Apr 2025 17:04:26 GMT | SOC147 — SSH Scan Activity | Cyril Philipp Abajar | [Read More](https://medium.com/p/06917c14996e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 13:16:44 GMT | What Is Cybersecurity? Meaning, Importance & Types | MidnightMusings | [Read More](https://medium.com/p/c3dee3598965) |
 | Mon, 28 Apr 2025 13:13:28 GMT | The Turing Test is Dead: New Ways to Measure Machine ‘Intelligence’ | Ahmad Javed | [Read More](https://medium.com/p/681aaef796ac) |
 | Mon, 28 Apr 2025 13:10:51 GMT | # Walkthrough: VulnHub Machine — Ted 1 (Full Root Access) | ghostcat | [Read More](https://medium.com/p/12b19f4dc036) |
-| Mon, 28 Apr 2025 13:09:52 GMT | How to Defend Your Organization Against Phishing Attacks: A Step-by-Step Guide | Dhanush N | [Read More](https://medium.com/p/653f367eb45b) |
-| Mon, 28 Apr 2025 13:07:12 GMT | Cybersecurity vs. Software Engineering: Key Differences | MidnightMusings | [Read More](https://medium.com/p/a6db00eae87a) |
-| Mon, 28 Apr 2025 13:05:12 GMT | I Hijacked Accounts in 10 Minutes (IDOR Bug) | Ibtissam Hammadi | [Read More](https://medium.com/p/b44ae8e53dfa) |
-| Mon, 28 Apr 2025 13:03:28 GMT | Shadows of Midnight: The Breach that Shook a Giant | Tales of Nyx | [Read More](https://medium.com/p/ff25f04c83b9) |
-| Mon, 28 Apr 2025 13:02:39 GMT | Manual Remediation Is Failing You: Automate or Get Left Behind | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9282ddb1ad2a) |
