@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 14:41:13 GMT | Daily dose of Chart : 28 April 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/492cbafe6a4e) |
+| Mon, 28 Apr 2025 14:35:57 GMT | Semperis Launches Ready1 to Transform Cyber Crisis Response | Louise Rolfe | [Read More](https://medium.com/p/e5d0673730db) |
+| Mon, 28 Apr 2025 14:32:34 GMT | How CVE Severity Levels Drive Security Prioritization | Saber You | [Read More](https://medium.com/p/1677a4360224) |
+| Mon, 28 Apr 2025 14:30:51 GMT | The Pain of Setting Up 2FA on Every App | Vijay Kumar Gupta | [Read More](https://medium.com/p/4d17cb0895a2) |
+| Mon, 28 Apr 2025 14:25:10 GMT | DVR4 Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/69da0ebc168b) |
+| Mon, 28 Apr 2025 14:18:55 GMT | Cyberattack Suspected Triggers Widespread Power Blackout Across Spain and Portugal | Hoplon Infosec | [Read More](https://medium.com/p/a2cd798901b4) |
+| Mon, 28 Apr 2025 14:17:46 GMT | The Anatomy of Deepfake Voice Attacks: Mapping the Threat Landscape in the Age of Synthetic Speech | Roy Zanbel | [Read More](https://medium.com/p/f65581371bf4) |
 | Mon, 28 Apr 2025 14:15:10 GMT | How to Secure Your Crypto Like a Pro in 2025 | Kobold assistant | [Read More](https://medium.com/p/f9815d2d448b) |
 | Mon, 28 Apr 2025 14:12:38 GMT | Common Cyberattacks & Prevention | MidnightMusings | [Read More](https://medium.com/p/373a1119498b) |
 | Mon, 28 Apr 2025 14:11:42 GMT | NIST CSF Made Simple: A Beginner's Guide to Cybersecurity Framework | Kambetastephano | [Read More](https://medium.com/p/f3f12bfcb6ac) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 10:03:53 GMT | “Why Privacy is Important in 2025.” | merish | [Read More](https://medium.com/p/fd3c25e97f98) |
 | Mon, 28 Apr 2025 09:59:18 GMT | Vulnerability Assessment and Penetration Testing of DC-1 | CHEN HAICHENG | [Read More](https://medium.com/p/a18719e88772) |
 | Mon, 28 Apr 2025 09:58:40 GMT | How to Earn More Rewards with Bug $BUG in 2025 | Bug | [Read More](https://medium.com/p/f06d1357dee6) |
-| Mon, 28 Apr 2025 09:47:27 GMT | Essential Security Measures For E-Commerce Websites | Glaxit Software Agency | [Read More](https://medium.com/p/af55fbf43745) |
-| Mon, 28 Apr 2025 09:47:24 GMT | OpenBSD 7.7 Released: Enhanced Security, Broader Hardware Support, and Improved Stability | Re: News | [Read More](https://medium.com/p/4fd815dc5dce) |
-| Mon, 28 Apr 2025 09:45:40 GMT | Allurity Expands European Reach with Acquisition of Croatian Cybersecurity Leader Infigo | myipinsights | [Read More](https://medium.com/p/820d0811ad34) |
-| Mon, 28 Apr 2025 09:34:23 GMT | How Docker Saved My Chatbot Project — But It’s Not Perfect | Mayesha Maliha Proma | [Read More](https://medium.com/p/12cf722442a8) |
-| Mon, 28 Apr 2025 09:29:18 GMT | Securing the Network: From Analog Command Centers to Cyber Defense | Elia T | [Read More](https://medium.com/p/b69911a111ba) |
-| Mon, 28 Apr 2025 09:16:47 GMT | Чеклист: Как да реагираме при киберинцидент (за микро бизнес) | Anita Stoyanova | [Read More](https://medium.com/p/218d476c8610) |
-| Mon, 28 Apr 2025 09:15:43 GMT | ️ Day 19: Extracting Secrets with NoSQL Injection — A Hacker’s Approach | Agarwaldaksh | [Read More](https://medium.com/p/ec0b700965f1) |
