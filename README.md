@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 15:36:14 GMT | Major Power Outage Disrupts Spain and Portugal, Impacting Capitals and Surrounding Areas | Re: News | [Read More](https://medium.com/p/666a13ddbbe2) |
+| Mon, 28 Apr 2025 15:32:37 GMT | I Tried to Fix Cybersecurity in Government. They Laughed. | Sam Galope | [Read More](https://medium.com/p/d89fe7555792) |
+| Mon, 28 Apr 2025 15:29:16 GMT | What Are the Technical Areas in AI Governance? | Tal Eliyahu | [Read More](https://medium.com/p/f475eda6eec8) |
+| Mon, 28 Apr 2025 15:28:36 GMT | Creating a CCP connector: Part 4 | Tim Groothuis | [Read More](https://medium.com/p/e2827cea81ac) |
+| Mon, 28 Apr 2025 15:24:28 GMT | Roboto Sans - Writeup | Marvin | [Read More](https://medium.com/p/d26c3c9ec8dd) |
+| Mon, 28 Apr 2025 15:24:16 GMT | findme - Writeup | Marvin | [Read More](https://medium.com/p/8d409450a5cb) |
+| Mon, 28 Apr 2025 15:21:11 GMT | CTF Write-up: LNKTrap (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/0e9e0df176f3) |
 | Mon, 28 Apr 2025 15:16:53 GMT | Unlock Free Access to xss0r — Your XSS Success Deserves a Reward! | xss0r | [Read More](https://medium.com/p/160754315afd) |
+| Mon, 28 Apr 2025 15:14:31 GMT | Pico-CTF — Reverse Engineering — Transformation (Easy? Not so much) | rinz0x0cruz | [Read More](https://medium.com/p/bbe90807b537) |
 | Mon, 28 Apr 2025 15:13:43 GMT | A Complaint from AI: “I don’t Understand Your Company” | Vlad Radziuk | [Read More](https://medium.com/p/8314e39a2072) |
 | Mon, 28 Apr 2025 15:12:34 GMT | History of Random Numbers — and Why They Matter More Than Ever in 2025 | Sapiens Clan | [Read More](https://medium.com/p/8db95aad5d2e) |
 | Mon, 28 Apr 2025 15:11:06 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3b25a6ef8d62) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 11:02:31 GMT | Why Log Integration Cybersecurity Matters Now | Vijilan | [Read More](https://medium.com/p/b5fb0d64b283) |
 | Mon, 28 Apr 2025 11:01:30 GMT | Article 1 sur 12 : CVE, CWE, CVSS & NVD | Saber You | [Read More](https://medium.com/p/68fbc8eb588f) |
 | Mon, 28 Apr 2025 10:59:32 GMT | How To Reduce & Detect Internal Fraud Risk | Skyrecoup | [Read More](https://medium.com/p/2561c30f5e2c) |
-| Mon, 28 Apr 2025 10:52:51 GMT | “All these years, have you been happy?” | Velwood -- 川口夜 | [Read More](https://medium.com/p/0531a2c08ae9) |
-| Mon, 28 Apr 2025 10:43:45 GMT | What Builds Your Digital Footprint — and How to Reduce It | Atomic Mail | [Read More](https://medium.com/p/af56cac8a5c5) |
-| Mon, 28 Apr 2025 10:42:36 GMT | POC — CVE-2025–29306 FOXCMS /images/index.html Code Execution Vulnerability | Very Lazy Tech | [Read More](https://medium.com/p/0c4db3905fd0) |
-| Mon, 28 Apr 2025 10:42:04 GMT | Underground Hackers Are Training AI That Governments FEAR | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/6dd08e088418) |
-| Mon, 28 Apr 2025 10:32:35 GMT | The Complete Guide to Network Security Assessment with Nmap | Patrick Amegavi | [Read More](https://medium.com/p/55e0c303f3c8) |
-| Mon, 28 Apr 2025 10:27:27 GMT | Why Every Property Needs a Security Guard: Top Benefits | United Guard Force India | [Read More](https://medium.com/p/6ad1792e473d) |
-| Mon, 28 Apr 2025 10:27:01 GMT | WooCommerce Users Beware: Fake Patch Phishing Campaign Unleashes Site Backdoors | Ismail Tasdelen | [Read More](https://medium.com/p/d77ccb847d8b) |
-| Mon, 28 Apr 2025 10:22:30 GMT | Unleashing Security Tooling: —  The SWC Registry | 0xjoi | [Read More](https://medium.com/p/eeb0d4183bcd) |
