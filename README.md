@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 18:33:30 GMT | Overpass — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/f93a747db630) |
+| Mon, 28 Apr 2025 18:29:26 GMT | Assessing Cybersecurity Knowledge Through Quizzes, Surveys, and Simulated Attacks | Cyber Crew Hub | [Read More](https://medium.com/p/098a915dc6f2) |
 | Mon, 28 Apr 2025 18:27:44 GMT | A-LISTED TOOLS OFFERED BY THE BEST CYBERSECURITY CERTIFICATIONS | Jennifer Wales | [Read More](https://medium.com/p/9a1578a2da01) |
+| Mon, 28 Apr 2025 18:24:44 GMT | How to Send Cookies from Browser to WebSocket Backend (and Why You Can’t See Them in Chrome… | Charith Jayasanka | [Read More](https://medium.com/p/b383b53b22fa) |
 | Mon, 28 Apr 2025 18:22:07 GMT | Local File Inclusion (LFI) vs Remote File Inclusion (RFI) | Adham Hashem | [Read More](https://medium.com/p/55c6df7427c5) |
 | Mon, 28 Apr 2025 18:21:41 GMT | You Don’t Have to Be Finished to Be Compelling | Michaela Wakefield | [Read More](https://medium.com/p/3139437b617e) |
 | Mon, 28 Apr 2025 18:21:24 GMT | Your Password Won’t Save You — Here’s What Actually Keeps You Safe Online | Giridharan P | [Read More](https://medium.com/p/2fd57afabf6c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 13:57:28 GMT | The Hidden Danger in AI Agents: How MCP Semantic Injection Creates a Perfect Security Storm | Vasudevan Surendran | [Read More](https://medium.com/p/e22c32f9fa7b) |
 | Mon, 28 Apr 2025 13:56:43 GMT | How to Spot a Legit Email vs. a Phishing Scam | Tech Made Simple By NTi | [Read More](https://medium.com/p/adf89c2c3e06) |
 | Mon, 28 Apr 2025 13:56:23 GMT | Setting up ADB (Tunneling) on WSL2 | Aan | [Read More](https://medium.com/p/a1fb66dd8407) |
-| Mon, 28 Apr 2025 13:55:52 GMT | AI Daily Pulse: One-Fifth of AI-Recommended Packages Found to Be Fake, Raising Slopsquatting… | LibrAI Insights | [Read More](https://medium.com/p/f85138c13b1f) |
-| Mon, 28 Apr 2025 13:53:27 GMT | Building a Custom C2 Server in Python: A Fresh Take on Offensive Security | Maxwell Cross | [Read More](https://medium.com/p/e3d8c09bc2ab) |
-| Mon, 28 Apr 2025 13:52:43 GMT | IoT and Automotive Device Security Vulnerabilities and Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/41d0fc4ff90b) |
