@@ -4,9 +4,7 @@ Store all the latest Medium Articles by specific tags for the Bug Bounty hunting
 
 ## 🌐 Let's Connect
 
-[![Discord](https://img.shields.io/badge/Discord-@thexnumb-1DA1F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/evffhtjWR7) [![Twitter](https://img.shields.io/badge/X-@thexsecurity-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/thexsecurity) [![Telegram](https://img.shields.io/badge/Telegram-@thexsecurity-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/thexsecurity) [![Instagram](https://img.shields.io/badge/Instagram-@thexnumb-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thexnumb) [![Infosec.exchange](https://img.shields.io/badge/Infosec.exchange-@thexnumb-E11BE9?style=flat&logo=mastodon&logoColor=white)](https://infosec.exchange/@thexnumb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](#) [![Medium](https://img.shields.io/badge/Medium-@thexnumb-black?style=flat&logo=medium)](https://medium.com/@thexnumb) [![Blogger](https://img.shields.io/badge/Blogger-TheXSecurity-FF5722?style=flat&logo=blogger&logoColor=white)](https://thexsecurity.blogspot.com/) [![YouTube](https://img.shields.io/badge/YouTube-@theXNumb-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@theXNumb/)
-
-🚀 **Let's hack the planet!** 🔥
+[![Discord](https://img.shields.io/badge/Discord-@thexnumb-1DA1F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/evffhtjWR7) [![Twitter](https://img.shields.io/badge/X-@thexsecurity-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/thexsecurity) [![Telegram](https://img.shields.io/badge/Telegram-@thexsecurity-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/thexsecurity) [![Instagram](https://img.shields.io/badge/Instagram-@thexnumb-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thexnumb) [![Infosec.exchange](https://img.shields.io/badge/Infosec.exchange-@thexnumb-E11BE9?style=flat&logo=mastodon&logoColor=white)](https://infosec.exchange/@thexnumb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](#) [![Medium](https://img.shields.io/badge/Medium-@thexnumb-black?style=flat&logo=medium)](https://medium.com/@thexnumb) [![Blogger](https://img.shields.io/badge/Blogger-TheXSecurity-FF5722?style=flat&logo=blogger&logoColor=white)](https://thexsecurity.blogspot.com/) [![YouTube](https://img.shields.io/badge/YouTube-@theXNumb-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@theXNumb/) [![Reddit](https://img.shields.io/badge/Reddit-@thexnumb-FF0000?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/u/thexnumb) 🚀 **Let's hack the planet!** 🔥
 
 # 📝 Latest Articles
 
@@ -14,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 07:43:18 GMT | GraphQL API hacking Series for bug hunters 01 | IronGhost | [Read More](https://medium.com/p/4db602685d16) |
+| Mon, 28 Apr 2025 07:39:19 GMT | FEATURE HIGHLIGHT: CUSTOMIZABLE WORKFLOWS | Cyver Core | [Read More](https://medium.com/p/557b8c9f995a) |
+| Mon, 28 Apr 2025 07:36:58 GMT | Hackers Exploit Craft CMS Flaws: A Deep Dive into CVE-2025–32432 | Ismail Tasdelen | [Read More](https://medium.com/p/edfab5a4819b) |
+| Mon, 28 Apr 2025 07:32:49 GMT | Why Pursuing an Ethical Hacking Certification is a Smart Career Move | Certocean | [Read More](https://medium.com/p/c65b8ba06364) |
+| Mon, 28 Apr 2025 07:30:14 GMT | How to bypass access controls mechanisms?  Portswigger Web Security Academy-Access Control | Rhythm Babu Kafle | [Read More](https://medium.com/p/b1f9a3e7790f) |
+| Mon, 28 Apr 2025 07:25:52 GMT | Why Every Modern Web Application Needs a Web Application Firewall (WAF) | Iqrar Ijaz | [Read More](https://medium.com/p/b9578a09e01c) |
+| Mon, 28 Apr 2025 07:22:29 GMT | Your Phone Number Is Your Biggest Digital Vulnerability — Here’s How to Protect It | Fahad Abalkhail | [Read More](https://medium.com/p/282f54dfeddd) |
+| Mon, 28 Apr 2025 07:19:35 GMT | How to Recover Deleted Snapchat Messages Easily | Labib Yasir | [Read More](https://medium.com/p/e84528c66a57) |
+| Mon, 28 Apr 2025 07:18:23 GMT | Best 12 Cybersecurity Services Companies in the World | Ethan Solar UK | [Read More](https://medium.com/p/b5a520acb3f3) |
+| Mon, 28 Apr 2025 07:10:06 GMT | Online Ethical Hacking Certification Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/4699e716b5e5) |
+| Mon, 28 Apr 2025 07:06:57 GMT | Exploring CVE-2025–24364 and CVE-2025–24365 in Vaultwarden | BI.ZONE | [Read More](https://medium.com/p/562ee308270f) |
+| Mon, 28 Apr 2025 07:03:32 GMT | Kijo Ninja — My Security Journey | Kijo Ninja | [Read More](https://medium.com/p/cd6ffdcae7ce) |
+| Mon, 28 Apr 2025 06:58:14 GMT | How to Get Your First Cybersecurity Job | Tech_boy | [Read More](https://medium.com/p/3a783819b5e2) |
+| Mon, 28 Apr 2025 06:56:07 GMT | Catch Lies and Raise Your Credit Score with Expert Hacker Assistance | Labib Yasir | [Read More](https://medium.com/p/d531e05f334b) |
+| Mon, 28 Apr 2025 06:42:04 GMT | How I Found a Broken Access Control That Exposed Interview Answers? | Sri Shavin Kumar | [Read More](https://medium.com/p/e353128f6883) |
+| Mon, 28 Apr 2025 06:41:02 GMT | Unlock Bigger Profits with Curvance $CVE | Curvance | [Read More](https://medium.com/p/c12ea3e2baf8) |
+| Mon, 28 Apr 2025 06:39:18 GMT | What Happens When AI Starts Hacking Us Back? | Sarthak Agrawal | [Read More](https://medium.com/p/1b4f9003e93c) |
+| Mon, 28 Apr 2025 06:31:19 GMT | How i Access The Deleted Files of Someone in Google Drive - Bug Bounty | Ph.Hitachi | [Read More](https://medium.com/p/eac134df1de4) |
+| Mon, 28 Apr 2025 06:30:20 GMT | What are Operation Tokens, and why are they necessary? | Apoorv Bedmutha | [Read More](https://medium.com/p/7495493ceeab) |
 | Mon, 28 Apr 2025 06:21:29 GMT | The Hidden Dangers Lurking in Your Website (and How to Stop Them) | Design Interactive Web Solutions | [Read More](https://medium.com/p/a6f4949720f0) |
 | Mon, 28 Apr 2025 06:18:31 GMT | Windows PE (Preinstallation Environment) Deployment Guide | jie taro (杰太郎） | [Read More](https://medium.com/p/8eef443ddb6b) |
 | Mon, 28 Apr 2025 06:16:35 GMT | Building an AI Help Desk Assistant: The Art of Customer Identification and Secure Authentication —… | Giuseppe Trisciuoglio | [Read More](https://medium.com/p/54882a7bbb18) |
@@ -95,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 00:37:42 GMT | Get ChainBounty (BOUNTY) Rewards and Maximize APY | ChainBounty | [Read More](https://medium.com/p/8bbf478aea1f) |
 | Mon, 28 Apr 2025 00:36:35 GMT | A List Of OSINT Resources(Must Read Article) | loyalonlytoday | [Read More](https://medium.com/p/6f7ee11709da) |
 | Mon, 28 Apr 2025 00:35:25 GMT | Blockchain Teknolojisi: Temelleri, Yapısal İnceleme ve Konsensüs Mekanizmaları | BekirBurakSaka | [Read More](https://medium.com/p/3e052b199792) |
-| Mon, 28 Apr 2025 00:09:22 GMT | Protecting Your Organization from Fraudulent Remote IT Workers | Andrew Kagan | [Read More](https://medium.com/p/e51a70669762) |
-| Mon, 28 Apr 2025 00:02:37 GMT | Hack The Box — Machine — Hospital Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/541055f94cdf) |
-| Sun, 27 Apr 2025 23:47:21 GMT | Confidentiality, Integrity, and Availability (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/909a7e9b8441) |
-| Sun, 27 Apr 2025 23:31:30 GMT | Modern Windows Exploitation: Patch Diffing for Zero Days | Adversarial Edge | [Read More](https://medium.com/p/814e95963b9c) |
-| Sun, 27 Apr 2025 23:29:24 GMT | BSidesSF 2025 Challenge Writer PoV | its C0rg1 | [Read More](https://medium.com/p/64fe57d2e48f) |
-| Sun, 27 Apr 2025 23:25:43 GMT | Automated vs Manual Pentesting: Why VoltSec.io Combines the Best of Both Worlds | Voltsec.io | [Read More](https://medium.com/p/2163782a34ba) |
-| Sun, 27 Apr 2025 23:24:19 GMT | What the heck is OAuth? | Kunal Sinha | [Read More](https://medium.com/p/a8c8cf5f2f67) |
-| Sun, 27 Apr 2025 23:13:56 GMT | BSIDES SF CTF 2025 — ACAAN | negligble | [Read More](https://medium.com/p/6fcea23ae17c) |
-| Sun, 27 Apr 2025 23:01:33 GMT | LetsDefend— RegistryHive Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/cfdd90fef927) |
-| Sun, 27 Apr 2025 23:01:32 GMT | HTB Knife Walkthrough | The Cyber Outpost | [Read More](https://medium.com/p/371996e96513) |
-| Sun, 27 Apr 2025 22:46:54 GMT | Brooklyn Nine Nine CTF — Full Writeup and Walkthrough | mikesploit | [Read More](https://medium.com/p/2a07d2eb21bc) |
-| Sun, 27 Apr 2025 22:41:37 GMT | Endpoints ID Exchange — OpenID Connect (OIDC) | Zack4DEV | [Read More](https://medium.com/p/1efff1090696) |
-| Sun, 27 Apr 2025 22:31:29 GMT | HACK SMART SECURITY WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/70e8a1d14954) |
-| Sun, 27 Apr 2025 22:25:51 GMT | Invasion of the Kudzu: APAC Confronts a Surge in System Intrusions | Avnishyam | [Read More](https://medium.com/p/4f0820f0ceb3) |
-| Sun, 27 Apr 2025 22:22:32 GMT | My Web Application Pentesting Roadmap: From PNPT to Web App Specialist | PwnerJoe | [Read More](https://medium.com/p/cf1c9671c11e) |
-| Sun, 27 Apr 2025 22:16:35 GMT | Why Every Organization Needs a Security Operations Center (SOC) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/01ba59daec32) |
-| Sun, 27 Apr 2025 22:15:51 GMT | From Vulnerable to Vigilant: Improving Cybersecurity in Small Business | Stephan Daniels | [Read More](https://medium.com/p/66094de33dce) |
-| Sun, 27 Apr 2025 22:07:04 GMT | The quiet cost of being single in your 30s — | Melissa Tropnas | [Read More](https://medium.com/p/974af4ee4bda) |
-| Sun, 27 Apr 2025 22:06:37 GMT | Hacking the Quizlet Match Game | אורי מגד | [Read More](https://medium.com/p/75cab6ef2c44) |
