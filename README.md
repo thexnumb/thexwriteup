@@ -12,14 +12,46 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 10:43:45 GMT | What Builds Your Digital Footprint — and How to Reduce It | Atomic Mail | [Read More](https://medium.com/p/af56cac8a5c5) |
+| Mon, 28 Apr 2025 10:42:36 GMT | POC — CVE-2025–29306 FOXCMS /images/index.html Code Execution Vulnerability | Very Lazy Tech | [Read More](https://medium.com/p/0c4db3905fd0) |
+| Mon, 28 Apr 2025 10:42:04 GMT | Underground Hackers Are Training AI That Governments FEAR | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/6dd08e088418) |
+| Mon, 28 Apr 2025 10:32:35 GMT | The Complete Guide to Network Security Assessment with Nmap | Patrick Amegavi | [Read More](https://medium.com/p/55e0c303f3c8) |
+| Mon, 28 Apr 2025 10:27:27 GMT | Why Every Property Needs a Security Guard: Top Benefits | United Guard Force India | [Read More](https://medium.com/p/6ad1792e473d) |
+| Mon, 28 Apr 2025 10:27:01 GMT | WooCommerce Users Beware: Fake Patch Phishing Campaign Unleashes Site Backdoors | Ismail Tasdelen | [Read More](https://medium.com/p/d77ccb847d8b) |
+| Mon, 28 Apr 2025 10:22:30 GMT | Unleashing Security Tooling: —  The SWC Registry | 0xjoi | [Read More](https://medium.com/p/eeb0d4183bcd) |
+| Mon, 28 Apr 2025 10:22:18 GMT | The Essential Role of Security Guard Services in Protecting Businesses | United Guard Force India | [Read More](https://medium.com/p/128f02f492fe) |
+| Mon, 28 Apr 2025 10:20:51 GMT | You Think You’re Safe Online? Hackers Think You’re a Joke. | Abdelaziz moustakim | [Read More](https://medium.com/p/bc0d903f604c) |
+| Mon, 28 Apr 2025 10:18:23 GMT | 7 Things You Should Never Share with ChatGPT (or Any AI) | Consulting4sec | [Read More](https://medium.com/p/9d9a1618a0fe) |
+| Mon, 28 Apr 2025 10:13:44 GMT | Android App Security: Step-by-Step Penetration Testing Tutorial Part-3 | Gokul | [Read More](https://medium.com/p/8b7c1cb85b5b) |
+| Mon, 28 Apr 2025 10:13:04 GMT | 100+ Free Cybersecurity and Networking Courses | Adharvkt | [Read More](https://medium.com/p/476a661e2a4d) |
+| Mon, 28 Apr 2025 10:11:58 GMT | Android App Security: Step-by-Step Penetration Testing Tutorial Part 5 | Gokul | [Read More](https://medium.com/p/c16b1a4a17f5) |
+| Mon, 28 Apr 2025 10:10:13 GMT | Android App Security Step-by-Step Penetration Testing Guide Part 2 | Gokul | [Read More](https://medium.com/p/276b60203b59) |
+| Mon, 28 Apr 2025 10:07:43 GMT | Royal Ransomware Reverse Engineering — Let’sDefend Challenge | Selim Oguz Şahin | [Read More](https://medium.com/p/0e434ca417b8) |
+| Mon, 28 Apr 2025 10:07:42 GMT | The case for Cybersecurity in OH&S, Environment and Quality Management | Dietmar Marggraff | [Read More](https://medium.com/p/f6d44ec53151) |
+| Mon, 28 Apr 2025 10:07:07 GMT | TryHackMe Mr. Phisher Walkthrough | Justin | [Read More](https://medium.com/p/168845754251) |
+| Mon, 28 Apr 2025 10:05:25 GMT | Behind Closed Doors: Safeguarding Secrets in DevSecOps Workflow | Revel Aldwin | [Read More](https://medium.com/p/cb8c20d9df40) |
+| Mon, 28 Apr 2025 10:05:16 GMT | Locking Down Your Files: How Go 1.24 Stops Hackers from Stealing Your Data | Siva | [Read More](https://medium.com/p/a34cf5541890) |
+| Mon, 28 Apr 2025 10:03:53 GMT | “Why Privacy is Important in 2025.” | merish | [Read More](https://medium.com/p/fd3c25e97f98) |
+| Mon, 28 Apr 2025 09:59:18 GMT | Vulnerability Assessment and Penetration Testing of DC-1 | CHEN HAICHENG | [Read More](https://medium.com/p/a18719e88772) |
+| Mon, 28 Apr 2025 09:58:40 GMT | How to Earn More Rewards with Bug $BUG in 2025 | Bug | [Read More](https://medium.com/p/f06d1357dee6) |
+| Mon, 28 Apr 2025 09:47:27 GMT | Essential Security Measures For E-Commerce Websites | Glaxit Software Agency | [Read More](https://medium.com/p/af55fbf43745) |
+| Mon, 28 Apr 2025 09:47:24 GMT | OpenBSD 7.7 Released: Enhanced Security, Broader Hardware Support, and Improved Stability | Re: News | [Read More](https://medium.com/p/4fd815dc5dce) |
+| Mon, 28 Apr 2025 09:45:40 GMT | Allurity Expands European Reach with Acquisition of Croatian Cybersecurity Leader Infigo | myipinsights | [Read More](https://medium.com/p/820d0811ad34) |
+| Mon, 28 Apr 2025 09:34:23 GMT | How Docker Saved My Chatbot Project — But It’s Not Perfect | Mayesha Maliha Proma | [Read More](https://medium.com/p/12cf722442a8) |
+| Mon, 28 Apr 2025 09:29:18 GMT | Securing the Network: From Analog Command Centers to Cyber Defense | Elia T | [Read More](https://medium.com/p/b69911a111ba) |
+| Mon, 28 Apr 2025 09:16:47 GMT | Чеклист: Как да реагираме при киберинцидент (за микро бизнес) | Anita Stoyanova | [Read More](https://medium.com/p/218d476c8610) |
+| Mon, 28 Apr 2025 09:15:43 GMT | ️ Day 19: Extracting Secrets with NoSQL Injection — A Hacker’s Approach | Agarwaldaksh | [Read More](https://medium.com/p/ec0b700965f1) |
+| Mon, 28 Apr 2025 09:09:38 GMT | How to Write and Use a Simple Function in Python | Jaytech | [Read More](https://medium.com/p/7e1933767783) |
 | Mon, 28 Apr 2025 09:09:29 GMT | [CIT CTF 2025] Solving all Web challenges | MindPatch | [Read More](https://medium.com/p/e9697670ae1f) |
 | Mon, 28 Apr 2025 08:49:32 GMT | PCI DSS Managed Security Services: A Strategic Approach to Payment Security | Uday Kumar | [Read More](https://medium.com/p/e77a1cb5ded2) |
 | Mon, 28 Apr 2025 08:35:16 GMT | Cybersecurity Risk Management: Key Steps to Managing Threats | SecureSlate | [Read More](https://medium.com/p/27629df03525) |
 | Mon, 28 Apr 2025 08:29:23 GMT | Hacking WordPress Plugins - TryHackMe Smol | Motasem Hamdan | [Read More](https://medium.com/p/8d8515c43731) |
+| Mon, 28 Apr 2025 08:24:45 GMT | 5 основни грешки в киберсигурността, които малкият бизнес допуска | Anita Stoyanova | [Read More](https://medium.com/p/1e244a4e0032) |
 | Mon, 28 Apr 2025 08:23:25 GMT | How I Earned $8947 bounty for Remote Code Execution via a Hijacked GitHub Module | Naveen kumawat | [Read More](https://medium.com/p/91c4a4b63255) |
 | Mon, 28 Apr 2025 08:21:02 GMT | Introducing TeNass: The N-Layers Security Protocol | rembuyung alas | [Read More](https://medium.com/p/9207bd2403ca) |
 | Mon, 28 Apr 2025 08:16:43 GMT | Introduction | Patrick Amegavi | [Read More](https://medium.com/p/0111ce9f289b) |
 | Mon, 28 Apr 2025 08:07:48 GMT | The Daily Tech Digest: 28 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/57621c99358d) |
+| Mon, 28 Apr 2025 08:00:41 GMT | AWS CDK and the Hidden Risks to Least Privilege | Joris Conijn | [Read More](https://medium.com/p/f52a61ce218c) |
 | Mon, 28 Apr 2025 07:59:49 GMT | JWT, Meet Me Outside: How I Decoded, Re-Signed, and Owned the App | Iski | [Read More](https://medium.com/p/95791eabcf5d) |
 | Mon, 28 Apr 2025 07:51:06 GMT | Best Linux Training for Beginners in Delhi with Certificate [2025] | Ankit_Cyber | [Read More](https://medium.com/p/a10eb2f7c784) |
 | Mon, 28 Apr 2025 07:50:48 GMT | Shadow Contracts: The Hidden Terms That Compromise Your Cloud | Induz Data Solutions | [Read More](https://medium.com/p/c2e6c7634f52) |
@@ -80,35 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 05:14:38 GMT | Harness vs Jenkins: Modernising Your CI/CD Pipeline | Chandan Pal | [Read More](https://medium.com/p/2ef14c00abd8) |
 | Mon, 28 Apr 2025 05:09:35 GMT | ☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker's Guide | Abhijeet Kumawat | [Read More](https://medium.com/p/a0018704c391) |
 | Mon, 28 Apr 2025 05:09:32 GMT | Document Analysis — NexaBloom.xyz | Shanmukhakrishna | [Read More](https://medium.com/p/b7a9cd5a7438) |
-| Mon, 28 Apr 2025 05:02:41 GMT | IAM Roles vs IAM Policies — Understanding Access Control in AWS | Atharva Sardesai | [Read More](https://medium.com/p/adc57e41dce0) |
-| Mon, 28 Apr 2025 04:56:47 GMT | What Are Access Control Solutions and Why Your Business Needs Them | Projection House LLC | [Read More](https://medium.com/p/fc781a7592e3) |
-| Mon, 28 Apr 2025 04:55:46 GMT | Aftertaste. | Swarani | [Read More](https://medium.com/p/5a43e38ed58f) |
-| Mon, 28 Apr 2025 04:55:40 GMT | From Code to Cloud: 10 Cybersecurity Practices Every Developer Must Adopt in 2025 | Ahmad Javed | [Read More](https://medium.com/p/576edeb880db) |
-| Mon, 28 Apr 2025 04:33:07 GMT | Adversarial AI en el Kernel: Generando Exploits con IA y Defendiéndonos en Tiempo Real | Josué Acevedo Maldonado | [Read More](https://medium.com/p/8b77dd770513) |
-| Mon, 28 Apr 2025 04:32:30 GMT | The Impact of Cybersecurity on Small Business Growth and Stability | Fountain Hills Technologies | [Read More](https://medium.com/p/2223e919f925) |
-| Mon, 28 Apr 2025 04:31:52 GMT | The Linux Security Journey — Firewalld (Firewall Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66c9e9f74b21) |
-| Mon, 28 Apr 2025 04:23:33 GMT | Confused About Your Future? | Ajay Bommidi | [Read More](https://medium.com/p/9273d3097b5e) |
-| Mon, 28 Apr 2025 04:05:29 GMT | Terror Strikes Pahalgam: A Nation in Mourning | Dr Vijayalakshmi Aluri | [Read More](https://medium.com/p/b5607bec94d9) |
-| Mon, 28 Apr 2025 03:55:49 GMT | How VPNs Ensure Data Integrity And Protection | James Neal | [Read More](https://medium.com/p/00daaf49b82c) |
-| Mon, 28 Apr 2025 03:47:35 GMT | The Secret Code of Security: How Cryptography Protects Your Digital World | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/03956fbaa2a3) |
-| Mon, 28 Apr 2025 03:45:38 GMT | Protect Your Identity With Cutting-Edge VPN Solutions | Melvin Erickson | [Read More](https://medium.com/p/55c908b5adf3) |
-| Mon, 28 Apr 2025 03:42:40 GMT | Ransomware: When Encryption Becomes a Weapon | abdur rashid firdaus | [Read More](https://medium.com/p/46148ba277ab) |
-| Mon, 28 Apr 2025 03:37:43 GMT | How To Stay Safe Online: Smarter Cybersecurity Habits Anyone Can Use | Subhanjan | [Read More](https://medium.com/p/e286405f6974) |
-| Mon, 28 Apr 2025 03:33:15 GMT | Building Secure PHP Applications: 5 Mistakes to Avoid in 2025 | Awofesobi kolade Peace | [Read More](https://medium.com/p/2d2617d9e63a) |
-| Mon, 28 Apr 2025 03:32:36 GMT | The Silent Alarm Intensifies: Inside the Global Exposure of 49,000 Building Access Systems | Deven Chhajed | [Read More](https://medium.com/p/3825710db239) |
-| Mon, 28 Apr 2025 03:32:36 GMT | Cyberspace: A New Dimension in the Digital World (2025) | Data defendere | [Read More](https://medium.com/p/7a49baf41d38) |
-| Mon, 28 Apr 2025 03:24:36 GMT | What is Asymmetric Encryption | Samxia99 | [Read More](https://medium.com/p/81f41915153a) |
-| Mon, 28 Apr 2025 03:22:39 GMT | IntelBroker: A closer look into a Prolific Cybercrime Threat Actor | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/1ba4a80aa07a) |
-| Mon, 28 Apr 2025 03:21:48 GMT | Encrypted by Design: Understanding the Core of Cybersecurity | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/0edf1bb55edf) |
-| Mon, 28 Apr 2025 03:02:22 GMT | Beware the Voice You Trust: The Rise of AI Voice Note Impersonation Scams in Kuwait | Cytomate | [Read More](https://medium.com/p/eba085ea0ab8) |
-| Mon, 28 Apr 2025 02:54:43 GMT | What is Cloud Security And Why does it matter in 2025 | CyberSecRealm | [Read More](https://medium.com/p/2828ac479827) |
-| Mon, 28 Apr 2025 02:53:53 GMT | DawgCTF 2025 Writeup — Mystery Signal II | xch0r | [Read More](https://medium.com/p/0c7388e8f5b9) |
-| Mon, 28 Apr 2025 02:52:25 GMT | Spring Security Vulnerability Exposes Valid Usernames to Attackers (CVE-2025–22234) | Cyber-AppSec | [Read More](https://medium.com/p/f9abc0575add) |
-| Mon, 28 Apr 2025 02:47:17 GMT | “Reclaiming My Voice: The Dance of Vulnerability and Connection” | Della | [Read More](https://medium.com/p/7e4829726ddf) |
-| Mon, 28 Apr 2025 02:45:31 GMT | YOU DESERVE BETTER. | Eliz Grace | [Read More](https://medium.com/p/cc30bfb38e11) |
-| Mon, 28 Apr 2025 02:43:29 GMT | DawgCTF 2025 Writeup - Mystery Signal I | xch0r | [Read More](https://medium.com/p/1f9fd31174d2) |
-| Mon, 28 Apr 2025 02:30:27 GMT | DawgCTF 2025 Writeup — Don’t Touch My Fone | xch0r | [Read More](https://medium.com/p/ac5855e56c15) |
-| Mon, 28 Apr 2025 02:26:42 GMT | The Red Teaming: 30-Day Challenge[14] | Bl@ckC!pH3r | [Read More](https://medium.com/p/b061cc19b0c3) |
-| Mon, 28 Apr 2025 02:05:28 GMT | SQL Direct - Writeup | Marvin | [Read More](https://medium.com/p/b9cd194c83c6) |
-| Mon, 28 Apr 2025 02:04:39 GMT | Cybersecurity Basics: Understanding IAAA Access Control | Jose Toledo | [Read More](https://medium.com/p/3212769b40f0) |
-| Mon, 28 Apr 2025 01:55:23 GMT | Hunting Suspicious DLL Side-Loading Activity | Paritosh | [Read More](https://medium.com/p/5d919f018ac6) |
