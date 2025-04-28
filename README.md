@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 13:38:23 GMT | The Information Age! | Yoda Manhães | [Read More](https://medium.com/p/eec2573e38c7) |
+| Mon, 28 Apr 2025 13:31:21 GMT | KPI vs KRI — Quick Understanding | Ravindra Dagale | [Read More](https://medium.com/p/7617a9a6e8c4) |
+| Mon, 28 Apr 2025 13:31:01 GMT | Building Resilient Organizations Starts with Security-First Thinking | SecOps | [Read More](https://medium.com/p/3beeb2e5406d) |
+| Mon, 28 Apr 2025 13:28:52 GMT | Key Terminologies Every Senior Tech Leader Should Know | Ravindra Dagale | [Read More](https://medium.com/p/dfa53846e5c8) |
+| Mon, 28 Apr 2025 13:18:47 GMT | How to Choose the Right Cyber Security Course for Your Career Goals | Aiswarya N | [Read More](https://medium.com/p/59b0a54b86b1) |
+| Mon, 28 Apr 2025 13:16:44 GMT | What Is Cybersecurity? Meaning, Importance & Types | MidnightMusings | [Read More](https://medium.com/p/c3dee3598965) |
+| Mon, 28 Apr 2025 13:13:28 GMT | The Turing Test is Dead: New Ways to Measure Machine ‘Intelligence’ | Ahmad Javed | [Read More](https://medium.com/p/681aaef796ac) |
+| Mon, 28 Apr 2025 13:10:51 GMT | # Walkthrough: VulnHub Machine — Ted 1 (Full Root Access) | ghostcat | [Read More](https://medium.com/p/12b19f4dc036) |
+| Mon, 28 Apr 2025 13:09:52 GMT | How to Defend Your Organization Against Phishing Attacks: A Step-by-Step Guide | Dhanush N | [Read More](https://medium.com/p/653f367eb45b) |
+| Mon, 28 Apr 2025 13:07:12 GMT | Cybersecurity vs. Software Engineering: Key Differences | MidnightMusings | [Read More](https://medium.com/p/a6db00eae87a) |
+| Mon, 28 Apr 2025 13:05:12 GMT | I Hijacked Accounts in 10 Minutes (IDOR Bug) | Ibtissam Hammadi | [Read More](https://medium.com/p/b44ae8e53dfa) |
+| Mon, 28 Apr 2025 13:03:28 GMT | Shadows of Midnight: The Breach that Shook a Giant | Tales of Nyx | [Read More](https://medium.com/p/ff25f04c83b9) |
+| Mon, 28 Apr 2025 13:02:39 GMT | Manual Remediation Is Failing You: Automate or Get Left Behind | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9282ddb1ad2a) |
+| Mon, 28 Apr 2025 13:01:41 GMT | Exploiting a Referer Header for Open Redirect | Ehtesham Ul Haq | [Read More](https://medium.com/p/ee2baa4a45b5) |
+| Mon, 28 Apr 2025 13:00:59 GMT | Smart Video Doorbell Showdown: See Who’s Really at the Door | Ping | [Read More](https://medium.com/p/702b59cb8ac2) |
+| Mon, 28 Apr 2025 12:54:37 GMT | Access to Information as a Tool for Poverty Alleviation in Nigeria | Chidalu Glory ✨✍️ | [Read More](https://medium.com/p/0ba954764965) |
 | Mon, 28 Apr 2025 12:49:00 GMT | The $2500 bug: Remote Code Execution via Supply Chain Attack | Naveen kumawat | [Read More](https://medium.com/p/3beb07ac1a4c) |
 | Mon, 28 Apr 2025 12:47:19 GMT | Wake Up, IT… | Stas Sultanov | [Read More](https://medium.com/p/fdf1515dd858) |
 | Mon, 28 Apr 2025 12:46:46 GMT | How Industrial Security Keeps Operations Running Smoothly | Group 24/7 Security Services | [Read More](https://medium.com/p/45f43f1bc906) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 07:44:38 GMT | GeeTest at GISEC 2025: What to Expect from Our Latest Innovations | GEETEST | [Read More](https://medium.com/p/528f71f6edf5) |
 | Mon, 28 Apr 2025 07:43:18 GMT | GraphQL API hacking Series for bug hunters 01 | IronGhost | [Read More](https://medium.com/p/4db602685d16) |
 | Mon, 28 Apr 2025 07:43:15 GMT | How the Internet Works: A Beginner’s Guide to Basic Network Protocols and IP Addressing | Irem | [Read More](https://medium.com/p/f1832a600920) |
-| Mon, 28 Apr 2025 07:39:19 GMT | FEATURE HIGHLIGHT: CUSTOMIZABLE WORKFLOWS | Cyver Core | [Read More](https://medium.com/p/557b8c9f995a) |
-| Mon, 28 Apr 2025 07:38:57 GMT | Will AI Take Over Jobs? What Career Skills Will Always Stay Relevant | Prism HRC | [Read More](https://medium.com/p/66a6370e7ee3) |
-| Mon, 28 Apr 2025 07:36:58 GMT | Hackers Exploit Craft CMS Flaws: A Deep Dive into CVE-2025–32432 | Ismail Tasdelen | [Read More](https://medium.com/p/edfab5a4819b) |
-| Mon, 28 Apr 2025 07:32:49 GMT | Why Pursuing an Ethical Hacking Certification is a Smart Career Move | Certocean | [Read More](https://medium.com/p/c65b8ba06364) |
-| Mon, 28 Apr 2025 07:30:14 GMT | How to bypass access controls mechanisms?  Portswigger Web Security Academy-Access Control | Rhythm Babu Kafle | [Read More](https://medium.com/p/b1f9a3e7790f) |
-| Mon, 28 Apr 2025 07:25:52 GMT | Why Every Modern Web Application Needs a Web Application Firewall (WAF) | Iqrar Ijaz | [Read More](https://medium.com/p/b9578a09e01c) |
-| Mon, 28 Apr 2025 07:22:29 GMT | Your Phone Number Is Your Biggest Digital Vulnerability — Here’s How to Protect It | Fahad Abalkhail | [Read More](https://medium.com/p/282f54dfeddd) |
-| Mon, 28 Apr 2025 07:19:35 GMT | How to Recover Deleted Snapchat Messages Easily | Labib Yasir | [Read More](https://medium.com/p/e84528c66a57) |
-| Mon, 28 Apr 2025 07:18:23 GMT | Best 12 Cybersecurity Services Companies in the World | Ethan Solar UK | [Read More](https://medium.com/p/b5a520acb3f3) |
-| Mon, 28 Apr 2025 07:10:06 GMT | Online Ethical Hacking Certification Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/4699e716b5e5) |
-| Mon, 28 Apr 2025 07:06:57 GMT | Exploring CVE-2025–24364 and CVE-2025–24365 in Vaultwarden | BI.ZONE | [Read More](https://medium.com/p/562ee308270f) |
-| Mon, 28 Apr 2025 07:03:32 GMT | Kijo Ninja — My Security Journey | Kijo Ninja | [Read More](https://medium.com/p/cd6ffdcae7ce) |
-| Mon, 28 Apr 2025 06:58:14 GMT | How to Get Your First Cybersecurity Job | Tech_boy | [Read More](https://medium.com/p/3a783819b5e2) |
-| Mon, 28 Apr 2025 06:56:07 GMT | Catch Lies and Raise Your Credit Score with Expert Hacker Assistance | Labib Yasir | [Read More](https://medium.com/p/d531e05f334b) |
-| Mon, 28 Apr 2025 06:42:04 GMT | How I Found a Broken Access Control That Exposed Interview Answers? | Sri Shavin Kumar | [Read More](https://medium.com/p/e353128f6883) |
-| Mon, 28 Apr 2025 06:41:02 GMT | Unlock Bigger Profits with Curvance $CVE | Curvance | [Read More](https://medium.com/p/c12ea3e2baf8) |
