@@ -12,9 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 23:10:15 GMT | Our NGINX Rate Limiting Strategy That Defeated a Major DDoS Attack | Service Guards | [Read More](https://medium.com/p/a13bb2434611) |
+| Mon, 28 Apr 2025 22:59:20 GMT | How Do You Explain Your Job to Non-Technical People? | Zudonu Osomudeya | [Read More](https://medium.com/p/061f9609b900) |
 | Mon, 28 Apr 2025 22:36:39 GMT | How I Used Google Dorking to Find Sensitive Data | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/58ef320c6d2d) |
 | Mon, 28 Apr 2025 22:35:03 GMT | The Rise of the Agentic SOC: Why Collaboration Between Humans and AI is the Future of Cyber… | Vivek Mokkarala | [Read More](https://medium.com/p/1a49e3cdf2a2) |
 | Mon, 28 Apr 2025 22:34:41 GMT | HIPAA Just Got Teeth: How 2025 Changes Will Hit Security Teams | Claudio Gallo | [Read More](https://medium.com/p/841ed25430a7) |
+| Mon, 28 Apr 2025 22:30:21 GMT | How You Can Earn Up to $100,000 with STON.fi Bug Bounty Program | CRYPTANUA | [Read More](https://medium.com/p/18861e0285e5) |
 | Mon, 28 Apr 2025 22:28:15 GMT | My Journey into AI: How I Passed Microsoft’s AI-900 and Began My AI Path | Syed Ali Turab | [Read More](https://medium.com/p/8c3ff289dbcf) |
 | Mon, 28 Apr 2025 22:26:20 GMT | The Rise of Ransomware as a Service and EDR Killers - A New Era of Cyber Threats | Avnishyam | [Read More](https://medium.com/p/8fd5bc1cf54d) |
 | Mon, 28 Apr 2025 22:25:37 GMT | Foundation-Sec-8B: An Open-Source LLM for Cybersecurity | Omar Santos | [Read More](https://medium.com/p/093a32531c59) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 16:30:57 GMT | Network Penetration Testing Certifications | Aaron DeJong | [Read More](https://medium.com/p/d1ee997d3420) |
 | Mon, 28 Apr 2025 16:29:54 GMT | Ethical Hacker — Discover Your Path to Career Success (2025) | Franklin Rhodes | [Read More](https://medium.com/p/5ba5966deaa7) |
 | Mon, 28 Apr 2025 16:27:11 GMT | How I Hacked the Delhi Metro (Twice!) — A Journey from Curiosity to Responsible Disclosure | Sahil Choudhary | [Read More](https://medium.com/p/348f855bff47) |
-| Mon, 28 Apr 2025 16:25:58 GMT | TryHackMe - Obfuscation Principles - WriteUp | Axoloth | [Read More](https://medium.com/p/e270950f4910) |
-| Mon, 28 Apr 2025 16:21:21 GMT | Raised by Risk: How Growing Up Gen X Shaped My Career | Doug Jaworski | [Read More](https://medium.com/p/fbbb93d056b2) |
-| Mon, 28 Apr 2025 16:20:32 GMT | The Ultimate Web Application Pentesting Checklist | SafeAeon Inc. | [Read More](https://medium.com/p/61d0802f4b63) |
