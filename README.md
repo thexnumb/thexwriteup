@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 22:36:39 GMT | How I Used Google Dorking to Find Sensitive Data | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/58ef320c6d2d) |
+| Mon, 28 Apr 2025 22:35:03 GMT | The Rise of the Agentic SOC: Why Collaboration Between Humans and AI is the Future of Cyber… | Vivek Mokkarala | [Read More](https://medium.com/p/1a49e3cdf2a2) |
+| Mon, 28 Apr 2025 22:34:41 GMT | HIPAA Just Got Teeth: How 2025 Changes Will Hit Security Teams | Claudio Gallo | [Read More](https://medium.com/p/841ed25430a7) |
+| Mon, 28 Apr 2025 22:28:15 GMT | My Journey into AI: How I Passed Microsoft’s AI-900 and Began My AI Path | Syed Ali Turab | [Read More](https://medium.com/p/8c3ff289dbcf) |
+| Mon, 28 Apr 2025 22:26:20 GMT | The Rise of Ransomware as a Service and EDR Killers - A New Era of Cyber Threats | Avnishyam | [Read More](https://medium.com/p/8fd5bc1cf54d) |
+| Mon, 28 Apr 2025 22:25:37 GMT | Foundation-Sec-8B: An Open-Source LLM for Cybersecurity | Omar Santos | [Read More](https://medium.com/p/093a32531c59) |
+| Mon, 28 Apr 2025 22:16:35 GMT | Building and Operating an Effective SOC: A Step-by-Step Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/3616a9fa2dc0) |
+| Mon, 28 Apr 2025 22:15:56 GMT | SAP NetWeaver CVE-2025–31324 Lab setup | Anil Yellamati | [Read More](https://medium.com/p/192f390c0493) |
 | Mon, 28 Apr 2025 22:02:37 GMT | Am I Seeing Myself, or Just Who I Survived? | JQ Starling | [Read More](https://medium.com/p/d1477625d990) |
 | Mon, 28 Apr 2025 21:54:28 GMT | Malware Analysis network lab setup part 1 nftables | Ruben | [Read More](https://medium.com/p/ff43d5e302e4) |
 | Mon, 28 Apr 2025 21:47:09 GMT | SOC262 — ScreenConnect Authentication Bypass Exploitation Detected (CVE-2024–1709) | Dh | [Read More](https://medium.com/p/671b2ae58955) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 16:25:58 GMT | TryHackMe - Obfuscation Principles - WriteUp | Axoloth | [Read More](https://medium.com/p/e270950f4910) |
 | Mon, 28 Apr 2025 16:21:21 GMT | Raised by Risk: How Growing Up Gen X Shaped My Career | Doug Jaworski | [Read More](https://medium.com/p/fbbb93d056b2) |
 | Mon, 28 Apr 2025 16:20:32 GMT | The Ultimate Web Application Pentesting Checklist | SafeAeon Inc. | [Read More](https://medium.com/p/61d0802f4b63) |
-| Mon, 28 Apr 2025 16:16:16 GMT | How to Get LFI: A Beginner’s Guide | LunaFi | [Read More](https://medium.com/p/a9cd06903f5b) |
-| Mon, 28 Apr 2025 16:14:22 GMT | Company Risk With AI | Turingvang | [Read More](https://medium.com/p/cdc791ccd490) |
-| Mon, 28 Apr 2025 16:12:34 GMT | The Username Trap: How Your Old Accounts Can Still Haunt You | Sam Galope | [Read More](https://medium.com/p/131989aecf41) |
-| Mon, 28 Apr 2025 16:11:42 GMT | AI Security | Turingvang | [Read More](https://medium.com/p/1f5c46f2f596) |
-| Mon, 28 Apr 2025 16:09:16 GMT | Enhancing Business Security with Advanced Endpoint Security Solutions | Williamjamerrr | [Read More](https://medium.com/p/e034916bcd54) |
-| Mon, 28 Apr 2025 16:09:04 GMT | Understanding Vulnerability Management SLA - Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/4dba2fa5a68b) |
-| Mon, 28 Apr 2025 16:06:19 GMT | Catalysis: The Future of Blockchain Restaking — Can It Scale, and Who Will Join the Revolution? | Scofield O. Idehen | [Read More](https://medium.com/p/738881e3a14e) |
-| Mon, 28 Apr 2025 16:04:19 GMT | HTTPS Setup for SEO: Why It’s Non-Negotiable and How to Do It Right | Farrukh Alam | [Read More](https://medium.com/p/054df67b133d) |
