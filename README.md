@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 20:21:13 GMT | Road to SSRF : PDF generation and filter bypass on ASP.net application | Supr4s | [Read More](https://medium.com/p/dd3aa91c0fed) |
+| Mon, 28 Apr 2025 20:20:02 GMT | How I Uncovered Critical Bugs on the Pay4Energy AEDC Portal (and What I Learned) | Eghosa Osayame | [Read More](https://medium.com/p/482b93e008f1) |
+| Mon, 28 Apr 2025 20:17:06 GMT | Your True Understanding of Attacks Starts with: Cyber Kill Chain | Maged Anas | [Read More](https://medium.com/p/c954ae22dd9f) |
 | Mon, 28 Apr 2025 20:04:37 GMT | T-Pot in a Flash: Deploying a Honeypot on an Ubuntu Server in Under 10 Minutes | Abishek S | [Read More](https://medium.com/p/19244d2e09dd) |
 | Mon, 28 Apr 2025 20:03:10 GMT | The A, B, C’s of Security Settings for Zoom | Savvy Cyber Kids | [Read More](https://medium.com/p/ea0fba539c19) |
 | Mon, 28 Apr 2025 20:00:48 GMT | 5 Ways to Protect Your Kids When They Use IoT Products | Savvy Cyber Kids | [Read More](https://medium.com/p/d96681a2dbad) |
@@ -19,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 19:49:56 GMT | Hack-Proof Your Story: A Guide for Authors | Vipul Mathur 'Naman' | [Read More](https://medium.com/p/589b739c91af) |
 | Mon, 28 Apr 2025 19:49:56 GMT | Security Advisory: Storm-1977 Attacks on Education Cloud via Password Spraying. | current.cybersecurity | [Read More](https://medium.com/p/63b810623b7b) |
 | Mon, 28 Apr 2025 19:44:16 GMT | Someday, DDoS Attacks Will Be History. But Today? It’s a Siege | Aaron Rose | [Read More](https://medium.com/p/16b418bab8ee) |
+| Mon, 28 Apr 2025 19:42:51 GMT | A Small Memoir of the Zadar Trip | daisycloudtai | [Read More](https://medium.com/p/ebbbf3ee6083) |
 | Mon, 28 Apr 2025 19:38:32 GMT | When a Single Id Breaks the System — Exploiting Mass Assignment in Patient Onboarding. | Dr Rmdn | [Read More](https://medium.com/p/7cf0b7a2877d) |
 | Mon, 28 Apr 2025 19:29:52 GMT | App Security in Swift: Keychain, Biometrics, Secure Enclave | Gaurav Harkhani | [Read More](https://medium.com/p/69359b4cffba) |
 | Mon, 28 Apr 2025 19:29:24 GMT | How to Build Cybersecurity Resilience for Your Business in an AI-Driven World | Jad lissandre | [Read More](https://medium.com/p/5a22a9a75843) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 15:03:44 GMT | Autenticación usando NestJS y JWT | Geampiere Jaramillo | [Read More](https://medium.com/p/74d6d7c8a2c7) |
 | Mon, 28 Apr 2025 15:02:59 GMT | Back to Friends | The Overthinker Journal | [Read More](https://medium.com/p/634cebaf1331) |
 | Mon, 28 Apr 2025 15:02:13 GMT | Secure Web Gateway vs Web Application Firewall: What’s the Difference? | Loria | [Read More](https://medium.com/p/a8d49316d865) |
-| Mon, 28 Apr 2025 15:01:18 GMT | Not Everything in a Data Leak is Real | MITRE Doggy | [Read More](https://medium.com/p/b5dfa92a9631) |
-| Mon, 28 Apr 2025 14:59:27 GMT | Step-by-Step Guide: Deploying SafeLine WAF on Synology NAS Using Docker | Loria | [Read More](https://medium.com/p/958073f77e0e) |
-| Mon, 28 Apr 2025 14:55:32 GMT | How to Defend Against Bot Attacks with SafeLine WAF | Loria | [Read More](https://medium.com/p/a6704b5e53fa) |
-| Mon, 28 Apr 2025 14:53:13 GMT | Authera: A Passwordless + 2A Authentication System | Ninad Walanj | [Read More](https://medium.com/p/c1a6d151d537) |
