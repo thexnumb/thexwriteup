@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 22:02:37 GMT | Am I Seeing Myself, or Just Who I Survived? | JQ Starling | [Read More](https://medium.com/p/d1477625d990) |
+| Mon, 28 Apr 2025 21:54:28 GMT | Malware Analysis network lab setup part 1 nftables | Ruben | [Read More](https://medium.com/p/ff43d5e302e4) |
+| Mon, 28 Apr 2025 21:47:09 GMT | SOC262 — ScreenConnect Authentication Bypass Exploitation Detected (CVE-2024–1709) | Dh | [Read More](https://medium.com/p/671b2ae58955) |
+| Mon, 28 Apr 2025 21:42:26 GMT | Qradar Usage Part II | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/e2d1fd8f7ec8) |
+| Mon, 28 Apr 2025 21:41:51 GMT | A Beginner Friendly Cyber Security Project: Python FIM | Jared Medeiros | [Read More](https://medium.com/p/12431ca77925) |
+| Mon, 28 Apr 2025 21:41:49 GMT | Introducing HOSICO: The Cat-Themed Solana Meme Token Debut on Top Exchanges | Kamaldeenlateef | [Read More](https://medium.com/p/8f026d1a25b6) |
 | Mon, 28 Apr 2025 21:37:36 GMT | A Comprehensive Analysis of Solana’s Security History: All Incidents, Impacts, and Evolution (Up to… | Lucrative Panda | [Read More](https://medium.com/p/1b1564c7ddfe) |
 | Mon, 28 Apr 2025 21:24:11 GMT | Ask SCK: We decided to give our 10-year-old a phone and need help | Savvy Cyber Kids | [Read More](https://medium.com/p/dc885c2292ef) |
 | Mon, 28 Apr 2025 21:23:51 GMT | How to find the right cybersecurity tools for your organization | Xaltius | [Read More](https://medium.com/p/4b12418791ac) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 16:09:04 GMT | Understanding Vulnerability Management SLA - Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/4dba2fa5a68b) |
 | Mon, 28 Apr 2025 16:06:19 GMT | Catalysis: The Future of Blockchain Restaking — Can It Scale, and Who Will Join the Revolution? | Scofield O. Idehen | [Read More](https://medium.com/p/738881e3a14e) |
 | Mon, 28 Apr 2025 16:04:19 GMT | HTTPS Setup for SEO: Why It’s Non-Negotiable and How to Do It Right | Farrukh Alam | [Read More](https://medium.com/p/054df67b133d) |
-| Mon, 28 Apr 2025 16:00:49 GMT | Confidential Layer ($CLONE): The Future of Private Blockchain Transactions | Machacjosef | [Read More](https://medium.com/p/011b78702aba) |
-| Mon, 28 Apr 2025 16:00:28 GMT | Exploring the Future of Smart Homes with SwitchBot Electric Blinds | Asqwfxvxqw | [Read More](https://medium.com/p/0c138099fdcd) |
-| Mon, 28 Apr 2025 16:00:13 GMT | Today Spain and Portugal Plunge into Darkness: Cyber-Terrorism or ‘Rare Atmospheric Phenomenon’? | Rick Gregson | [Read More](https://medium.com/p/f5cb58837f22) |
-| Mon, 28 Apr 2025 15:57:33 GMT | Keylogger Detection System with Python | Vinu Varshith Alagappan | [Read More](https://medium.com/p/3a5a45c0718c) |
-| Mon, 28 Apr 2025 15:53:16 GMT | Earn Big with LunaFi $LFI Rewards This Year | LunaFi | [Read More](https://medium.com/p/5fb2807a24fe) |
-| Mon, 28 Apr 2025 15:52:55 GMT | 100 Linux Commands I Frequently Use for Everyday Tasks and Cyber SecurityHere’s a list of 100… | Dede Nugroho | [Read More](https://medium.com/p/5992076f2886) |
