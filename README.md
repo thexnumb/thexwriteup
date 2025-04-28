@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 17:09:44 GMT | Will NATO Expand Even Further? What the Future Holds | Denizgeraslan | [Read More](https://medium.com/p/e5af8a9ea4b3) |
+| Mon, 28 Apr 2025 17:09:26 GMT | Lookup Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/1018f2353cb8) |
+| Mon, 28 Apr 2025 17:04:26 GMT | SOC147 — SSH Scan Activity | Cyril Philipp Abajar | [Read More](https://medium.com/p/06917c14996e) |
+| Mon, 28 Apr 2025 17:01:59 GMT | Every Click Leaves a Trace — Reduce Your Risk: Minimize Your Digital Footprint | Karl Buhl | [Read More](https://medium.com/p/f85bcd21aa3a) |
+| Mon, 28 Apr 2025 16:59:03 GMT | Why Directory Listing Vulnerabilities Are a Hacker’s Gateway | Nishanthan | [Read More](https://medium.com/p/ce0979f8982a) |
+| Mon, 28 Apr 2025 16:54:41 GMT | Authentic Vulnerability: A Reflection | Danielle du Plooy | [Read More](https://medium.com/p/31ab0fe5f056) |
+| Mon, 28 Apr 2025 16:51:27 GMT | Earth Kurma Cyber-Espionage Campaign Targets Southeast Asia with Custom Malware | CyBlog | [Read More](https://medium.com/p/de2f1858fe59) |
+| Mon, 28 Apr 2025 16:48:57 GMT | Ethical Hacking: Protecting the Digital World from the Inside | Md Shoyeb Hossain | [Read More](https://medium.com/p/b04fea9c72f3) |
+| Mon, 28 Apr 2025 16:45:39 GMT | Blue — Walkthrough - TryHackMe | Atharva puri | [Read More](https://medium.com/p/334a18373d10) |
 | Mon, 28 Apr 2025 16:41:10 GMT | How hackers are weaponizing your digital life without ever cracking a password | O. J. Okpabi | [Read More](https://medium.com/p/450b5fd18902) |
 | Mon, 28 Apr 2025 16:40:46 GMT | Write — Up Helpdesk (Windows) - Notion | Sergios Serg | [Read More](https://medium.com/p/0104a03e3dcf) |
+| Mon, 28 Apr 2025 16:40:02 GMT | Why Clicking "Remind Me Later" on Software Updates Could Be Your Biggest Mistake | O. J. Okpabi | [Read More](https://medium.com/p/fa79508f48f4) |
+| Mon, 28 Apr 2025 16:39:03 GMT | The ‘Innocent’ Emails That Stole Millions: True Stories That Will Change How You Read Your Inbox | O. J. Okpabi | [Read More](https://medium.com/p/bed618504a29) |
+| Mon, 28 Apr 2025 16:39:00 GMT | Fun marketing. Serious growth. | Pietro Bezza | [Read More](https://medium.com/p/42e4f126a45e) |
+| Mon, 28 Apr 2025 16:37:55 GMT | Marks & Spencer Cyberattack: What Businesses Need to Know and Why Cybersecurity Matters | O. J. Okpabi | [Read More](https://medium.com/p/e312103a1d4c) |
 | Mon, 28 Apr 2025 16:30:57 GMT | Network Penetration Testing Certifications | Aaron DeJong | [Read More](https://medium.com/p/d1ee997d3420) |
 | Mon, 28 Apr 2025 16:29:54 GMT | Ethical Hacker — Discover Your Path to Career Success (2025) | Franklin Rhodes | [Read More](https://medium.com/p/5ba5966deaa7) |
 | Mon, 28 Apr 2025 16:27:11 GMT | How I Hacked the Delhi Metro (Twice!) — A Journey from Curiosity to Responsible Disclosure | Sahil Choudhary | [Read More](https://medium.com/p/348f855bff47) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 13:05:12 GMT | I Hijacked Accounts in 10 Minutes (IDOR Bug) | Ibtissam Hammadi | [Read More](https://medium.com/p/b44ae8e53dfa) |
 | Mon, 28 Apr 2025 13:03:28 GMT | Shadows of Midnight: The Breach that Shook a Giant | Tales of Nyx | [Read More](https://medium.com/p/ff25f04c83b9) |
 | Mon, 28 Apr 2025 13:02:39 GMT | Manual Remediation Is Failing You: Automate or Get Left Behind | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9282ddb1ad2a) |
-| Mon, 28 Apr 2025 13:01:41 GMT | Exploiting a Referer Header for Open Redirect | Ehtesham Ul Haq | [Read More](https://medium.com/p/ee2baa4a45b5) |
-| Mon, 28 Apr 2025 13:00:59 GMT | Smart Video Doorbell Showdown: See Who’s Really at the Door | Ping | [Read More](https://medium.com/p/702b59cb8ac2) |
-| Mon, 28 Apr 2025 12:54:37 GMT | Access to Information as a Tool for Poverty Alleviation in Nigeria | Chidalu Glory ✨✍️ | [Read More](https://medium.com/p/0ba954764965) |
-| Mon, 28 Apr 2025 12:49:00 GMT | The $2500 bug: Remote Code Execution via Supply Chain Attack | Naveen kumawat | [Read More](https://medium.com/p/3beb07ac1a4c) |
-| Mon, 28 Apr 2025 12:47:19 GMT | Wake Up, IT… | Stas Sultanov | [Read More](https://medium.com/p/fdf1515dd858) |
-| Mon, 28 Apr 2025 12:46:46 GMT | How Industrial Security Keeps Operations Running Smoothly | Group 24/7 Security Services | [Read More](https://medium.com/p/45f43f1bc906) |
-| Mon, 28 Apr 2025 12:44:02 GMT | The Shadow Networks: Unmasking Mexican Cartel Involvement in the Devastating Reality of Human… | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/6347c0c7ff2d) |
-| Mon, 28 Apr 2025 12:41:15 GMT | Security and Privacy, better together: NIST Launches New Privacy Framework | Tsaaro Consulting | [Read More](https://medium.com/p/886b68713511) |
-| Mon, 28 Apr 2025 12:33:25 GMT | شماره صیغه سنندج09015398913 شماره صیغه بوکان09015398913 شماره صیغه پیرانشهر09015398913 شماره صیغه… | معرف ازدواج موقت | [Read More](https://medium.com/p/55ef07a1c0de) |
-| Mon, 28 Apr 2025 12:32:34 GMT | Simple Tips for Bug Bounty Beginners: Content Spoofing via HTML Injection | Anish Narayan | [Read More](https://medium.com/p/a0ae7c39a89a) |
-| Mon, 28 Apr 2025 12:28:02 GMT | No half truths | Balogun Kosly | [Read More](https://medium.com/p/92d398ebc744) |
-| Mon, 28 Apr 2025 12:26:22 GMT | RST TI Report Digest: 28 Apr 2025 | RST Cloud | [Read More](https://medium.com/p/fd57637d58a3) |
-| Mon, 28 Apr 2025 12:22:32 GMT | CIT CTF writeups | Selwyn Uy - Cybersecurity enthusiast - CTF Player | [Read More](https://medium.com/p/5de28a090d7e) |
