@@ -14,6 +14,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 04:05:29 GMT | Terror Strikes Pahalgam: A Nation in Mourning | Dr Vijayalakshmi Aluri | [Read More](https://medium.com/p/b5607bec94d9) |
+| Mon, 28 Apr 2025 03:55:49 GMT | How VPNs Ensure Data Integrity And Protection | James Neal | [Read More](https://medium.com/p/00daaf49b82c) |
 | Mon, 28 Apr 2025 03:47:35 GMT | The Secret Code of Security: How Cryptography Protects Your Digital World | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/03956fbaa2a3) |
 | Mon, 28 Apr 2025 03:45:38 GMT | Protect Your Identity With Cutting-Edge VPN Solutions | Melvin Erickson | [Read More](https://medium.com/p/55c908b5adf3) |
 | Mon, 28 Apr 2025 03:42:40 GMT | Ransomware: When Encryption Becomes a Weapon | abdur rashid firdaus | [Read More](https://medium.com/p/46148ba277ab) |
@@ -112,5 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 18:57:14 GMT | Google Agents Developers Kit (ADK) First Impressions and Quick Glance Security Considerations. | Juan Giarrizzo | [Read More](https://medium.com/p/ca2f30e9bb83) |
 | Sun, 27 Apr 2025 18:49:29 GMT | Cybersecurity for Beginners: A Fun & Easy Guide to Staying Safe Online | General Updates | [Read More](https://medium.com/p/d8860a3e707e) |
 | Sun, 27 Apr 2025 18:45:05 GMT | 1930 Days of K8s Challenge | Ajithkumar Subramanian | [Read More](https://medium.com/p/0afbb034518e) |
-| Sun, 27 Apr 2025 18:41:40 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 3 (Malicious Document Analysis) | KingOfPiratez | [Read More](https://medium.com/p/4add4e379bee) |
-| Sun, 27 Apr 2025 18:40:11 GMT | Dying: To be in America* | R.VanWagoner | [Read More](https://medium.com/p/4c6a4c5b814d) |
