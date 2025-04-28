@@ -14,6 +14,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 04:33:07 GMT | Adversarial AI en el Kernel: Generando Exploits con IA y Defendiéndonos en Tiempo Real | Josué Acevedo Maldonado | [Read More](https://medium.com/p/8b77dd770513) |
+| Mon, 28 Apr 2025 04:32:30 GMT | The Impact of Cybersecurity on Small Business Growth and Stability | Fountain Hills Technologies | [Read More](https://medium.com/p/2223e919f925) |
+| Mon, 28 Apr 2025 04:31:52 GMT | The Linux Security Journey — Firewalld (Firewall Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/66c9e9f74b21) |
+| Mon, 28 Apr 2025 04:23:33 GMT | Confused About Your Future? | Ajay Bommidi | [Read More](https://medium.com/p/9273d3097b5e) |
 | Mon, 28 Apr 2025 04:05:29 GMT | Terror Strikes Pahalgam: A Nation in Mourning | Dr Vijayalakshmi Aluri | [Read More](https://medium.com/p/b5607bec94d9) |
 | Mon, 28 Apr 2025 03:55:49 GMT | How VPNs Ensure Data Integrity And Protection | James Neal | [Read More](https://medium.com/p/00daaf49b82c) |
 | Mon, 28 Apr 2025 03:47:35 GMT | The Secret Code of Security: How Cryptography Protects Your Digital World | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/03956fbaa2a3) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 19:21:17 GMT | The Role of Exotic Top-Level Domains (.st, | An0n | [Read More](https://medium.com/p/856c5cc6ec4b) |
 | Sun, 27 Apr 2025 19:17:07 GMT | TryHackMe - AV Evasion: Shellcode - WriteUp | Axoloth | [Read More](https://medium.com/p/30ab56613089) |
 | Sun, 27 Apr 2025 19:13:15 GMT | Guarding the Web: A Beginner’s Guide to CSRF, XSS, and SQL Injection | Mohamed Ashfaq | [Read More](https://medium.com/p/779c1d738593) |
-| Sun, 27 Apr 2025 19:12:19 GMT | The World Needs More Cyber Warriors: Here’s Why You Should Join Cybersecurity Today | Uday Venkat | [Read More](https://medium.com/p/323a5a4c7485) |
-| Sun, 27 Apr 2025 18:57:14 GMT | Google Agents Developers Kit (ADK) First Impressions and Quick Glance Security Considerations. | Juan Giarrizzo | [Read More](https://medium.com/p/ca2f30e9bb83) |
-| Sun, 27 Apr 2025 18:49:29 GMT | Cybersecurity for Beginners: A Fun & Easy Guide to Staying Safe Online | General Updates | [Read More](https://medium.com/p/d8860a3e707e) |
-| Sun, 27 Apr 2025 18:45:05 GMT | 1930 Days of K8s Challenge | Ajithkumar Subramanian | [Read More](https://medium.com/p/0afbb034518e) |
