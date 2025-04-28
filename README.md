@@ -14,6 +14,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 03:47:35 GMT | The Secret Code of Security: How Cryptography Protects Your Digital World | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/03956fbaa2a3) |
+| Mon, 28 Apr 2025 03:45:38 GMT | Protect Your Identity With Cutting-Edge VPN Solutions | Melvin Erickson | [Read More](https://medium.com/p/55c908b5adf3) |
+| Mon, 28 Apr 2025 03:42:40 GMT | Ransomware: When Encryption Becomes a Weapon | abdur rashid firdaus | [Read More](https://medium.com/p/46148ba277ab) |
+| Mon, 28 Apr 2025 03:37:43 GMT | How To Stay Safe Online: Smarter Cybersecurity Habits Anyone Can Use | Subhanjan | [Read More](https://medium.com/p/e286405f6974) |
+| Mon, 28 Apr 2025 03:33:15 GMT | Building Secure PHP Applications: 5 Mistakes to Avoid in 2025 | Awofesobi kolade Peace | [Read More](https://medium.com/p/2d2617d9e63a) |
+| Mon, 28 Apr 2025 03:32:36 GMT | The Silent Alarm Intensifies: Inside the Global Exposure of 49,000 Building Access Systems | Deven Chhajed | [Read More](https://medium.com/p/3825710db239) |
+| Mon, 28 Apr 2025 03:32:36 GMT | Cyberspace: A New Dimension in the Digital World (2025) | Data defendere | [Read More](https://medium.com/p/7a49baf41d38) |
+| Mon, 28 Apr 2025 03:24:36 GMT | What is Asymmetric Encryption | Samxia99 | [Read More](https://medium.com/p/81f41915153a) |
+| Mon, 28 Apr 2025 03:22:39 GMT | IntelBroker: A closer look into a Prolific Cybercrime Threat Actor | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/1ba4a80aa07a) |
+| Mon, 28 Apr 2025 03:21:48 GMT | Encrypted by Design: Understanding the Core of Cybersecurity | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/0edf1bb55edf) |
 | Mon, 28 Apr 2025 03:02:22 GMT | Beware the Voice You Trust: The Rise of AI Voice Note Impersonation Scams in Kuwait | Cytomate | [Read More](https://medium.com/p/eba085ea0ab8) |
 | Mon, 28 Apr 2025 02:54:43 GMT | What is Cloud Security And Why does it matter in 2025 | CyberSecRealm | [Read More](https://medium.com/p/2828ac479827) |
 | Mon, 28 Apr 2025 02:53:53 GMT | DawgCTF 2025 Writeup — Mystery Signal II | xch0r | [Read More](https://medium.com/p/0c7388e8f5b9) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 18:45:05 GMT | 1930 Days of K8s Challenge | Ajithkumar Subramanian | [Read More](https://medium.com/p/0afbb034518e) |
 | Sun, 27 Apr 2025 18:41:40 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 3 (Malicious Document Analysis) | KingOfPiratez | [Read More](https://medium.com/p/4add4e379bee) |
 | Sun, 27 Apr 2025 18:40:11 GMT | Dying: To be in America* | R.VanWagoner | [Read More](https://medium.com/p/4c6a4c5b814d) |
-| Sun, 27 Apr 2025 18:30:55 GMT | Mastering the Foundations of Cybersecurity: Hacking, Virtual Machines, Linux, and Networking | Neeraj Rajeev | [Read More](https://medium.com/p/fdec0b8a8422) |
-| Sun, 27 Apr 2025 18:27:13 GMT | Digital Psychological Warfare: Impacts, Risks, and Prevention | SECZAP | [Read More](https://medium.com/p/d9425feea1c0) |
-| Sun, 27 Apr 2025 18:25:53 GMT | From Idiots to Icons: The 3 Who Got Life Right by Getting It Wrong | Michael Angelo G. Badando | [Read More](https://medium.com/p/84ebd07c32ac) |
-| Sun, 27 Apr 2025 18:24:24 GMT | HOW TO PROTECT YOUR PRIVACY ONLINE : WHY CYBER SECURITY IS A MUST LEARN SKILL TODAY | Amarachisolomon | [Read More](https://medium.com/p/408ea9b845a0) |
-| Sun, 27 Apr 2025 18:20:04 GMT | What is Symmetric Encryption | Samxia99 | [Read More](https://medium.com/p/82dc4e4ae055) |
-| Sun, 27 Apr 2025 18:18:37 GMT | Testing some features for creating accounts and tickets through Salesforce | Tyrik Emptage | [Read More](https://medium.com/p/db941ab06415) |
-| Sun, 27 Apr 2025 18:16:27 GMT | Cybersecurity Industry “Fact-Checks” Everyone Needs To Know. | José Reyes (@Architekt) | [Read More](https://medium.com/p/4cacbab5c2c2) |
-| Sun, 27 Apr 2025 18:14:08 GMT | Why Startups Must Prioritize Cybersecurity and Compliance | Mednmolars | [Read More](https://medium.com/p/85b5a2d405d7) |
-| Sun, 27 Apr 2025 18:08:56 GMT | ⚡ AI-CMD-X: Transform Your Plain English into Powerful Windows Commands Instantly! | The Pentrix | [Read More](https://medium.com/p/be9693eb6ec6) |
-| Sun, 27 Apr 2025 18:06:15 GMT | Glitch-TryHackme(Writeup) | CyberLabyrinthX | [Read More](https://medium.com/p/276fb3a3ddbe) |
