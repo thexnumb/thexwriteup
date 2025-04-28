@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 11:36:34 GMT | The Myth of the Cowboy Coder: Galloping Through Misconceptions in Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/d639205108e1) |
+| Mon, 28 Apr 2025 11:28:12 GMT | Gray Box Testing: The Perfect Balance of Knowledge and Realism? | West Advanced Technologies Inc | [Read More](https://medium.com/p/3a476eb0355a) |
+| Mon, 28 Apr 2025 11:22:42 GMT | Lab Report #6 Group Policy Preferences (GPP) Password Extraction and Event Log Analysis | Samet Koca | [Read More](https://medium.com/p/a0457f9632b2) |
+| Mon, 28 Apr 2025 11:20:29 GMT | ️ What is Wazuh? Discover the Open-Source Security Platform | Furkanctiner | [Read More](https://medium.com/p/b455587bd294) |
+| Mon, 28 Apr 2025 11:20:15 GMT | What is it like to work in cyber security? | ICTRD-Kaushalpith | [Read More](https://medium.com/p/c7a29c69970f) |
+| Mon, 28 Apr 2025 11:14:33 GMT | Understanding Bash and Its Importance in Cybersecurity | Jack = | [Read More](https://medium.com/p/a74fa7c9fba6) |
+| Mon, 28 Apr 2025 11:03:50 GMT | Performed a Denial of Service Attack on a Smart Contract (And How to Prevent It) | Magda  Jankowska | [Read More](https://medium.com/p/560a32252ff6) |
+| Mon, 28 Apr 2025 11:02:31 GMT | Why Log Integration Cybersecurity Matters Now | Vijilan | [Read More](https://medium.com/p/b5fb0d64b283) |
+| Mon, 28 Apr 2025 11:01:30 GMT | Article 1 sur 12 : CVE, CWE, CVSS & NVD | Saber You | [Read More](https://medium.com/p/68fbc8eb588f) |
+| Mon, 28 Apr 2025 10:59:32 GMT | How To Reduce & Detect Internal Fraud Risk | Skyrecoup | [Read More](https://medium.com/p/2561c30f5e2c) |
+| Mon, 28 Apr 2025 10:52:51 GMT | “All these years, have you been happy?” | Velwood -- 川口夜 | [Read More](https://medium.com/p/0531a2c08ae9) |
 | Mon, 28 Apr 2025 10:43:45 GMT | What Builds Your Digital Footprint — and How to Reduce It | Atomic Mail | [Read More](https://medium.com/p/af56cac8a5c5) |
 | Mon, 28 Apr 2025 10:42:36 GMT | POC — CVE-2025–29306 FOXCMS /images/index.html Code Execution Vulnerability | Very Lazy Tech | [Read More](https://medium.com/p/0c4db3905fd0) |
 | Mon, 28 Apr 2025 10:42:04 GMT | Underground Hackers Are Training AI That Governments FEAR | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/6dd08e088418) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 05:49:13 GMT | Why Proactive Threat Hunting is Essential for Every Business in 2025 | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/e8af3723bccd) |
 | Mon, 28 Apr 2025 05:47:02 GMT | DAY 3 - Linux Basics | kate | [Read More](https://medium.com/p/f92aa9fc00e8) |
 | Mon, 28 Apr 2025 05:42:14 GMT | $500 Bounty: For a Simple Open Redirect | Monika sharma | [Read More](https://medium.com/p/a34051071a5c) |
-| Mon, 28 Apr 2025 05:41:09 GMT | Choosing the Right Antivirus Software: Your First Step to Digital Safety | TheReviewHive | [Read More](https://medium.com/p/b7b58a9fc682) |
-| Mon, 28 Apr 2025 05:39:31 GMT | How to Build a Cyber Threat Intelligence Collection Plan | Adam Goss | [Read More](https://medium.com/p/ed36715f7f33) |
-| Mon, 28 Apr 2025 05:31:42 GMT | Why Red-Teaming Your Own Detection Rules is the Best Career Lesson | Siddhant Mishra | [Read More](https://medium.com/p/4153555e61c7) |
-| Mon, 28 Apr 2025 05:31:37 GMT | Top 10 IT skills in demand for 2025 | FACE Prep Campus | [Read More](https://medium.com/p/b25552781b29) |
-| Mon, 28 Apr 2025 05:24:58 GMT | Top Cybersecurity Certifications in India: A Comparative Guide for 2025 | Iamayushvj | [Read More](https://medium.com/p/8be2f4593b45) |
-| Mon, 28 Apr 2025 05:20:43 GMT | Critical SAP NetWeaver Vulnerability: What You Need to Know Now | Nexsecura | [Read More](https://medium.com/p/263f411e7df0) |
-| Mon, 28 Apr 2025 05:17:17 GMT | Protect Your UAE Home with Smart AI Perimeter Security Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/36a3516a024a) |
-| Mon, 28 Apr 2025 05:15:36 GMT | The Last Chapter: A Dream that Died Fighting | TheIndianNetwork | [Read More](https://medium.com/p/ad80574f2744) |
-| Mon, 28 Apr 2025 05:14:38 GMT | Harness vs Jenkins: Modernising Your CI/CD Pipeline | Chandan Pal | [Read More](https://medium.com/p/2ef14c00abd8) |
-| Mon, 28 Apr 2025 05:09:35 GMT | ☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker's Guide | Abhijeet Kumawat | [Read More](https://medium.com/p/a0018704c391) |
-| Mon, 28 Apr 2025 05:09:32 GMT | Document Analysis — NexaBloom.xyz | Shanmukhakrishna | [Read More](https://medium.com/p/b7a9cd5a7438) |
