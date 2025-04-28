@@ -14,6 +14,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 01:32:06 GMT | Pivoting | Narendra Varma Chekuri | [Read More](https://medium.com/p/b9b9a83f184e) |
+| Mon, 28 Apr 2025 01:16:30 GMT | America’s Cease-Fire Gamble: How One Deal Could Redraw the World – and Reach Your Doorstep | D.H. Jang | [Read More](https://medium.com/p/a96ca78a6e30) |
+| Mon, 28 Apr 2025 01:11:10 GMT | Understanding Vulnerabilities | Luis Soto | [Read More](https://medium.com/p/b9889f9b8865) |
+| Mon, 28 Apr 2025 01:07:50 GMT | LocalPotato - CVE-2023–21746 : TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/dde02f2828db) |
+| Mon, 28 Apr 2025 01:06:40 GMT | From Flipper Zero to Metal Key | Anthony Ellison | [Read More](https://medium.com/p/6f862b4aaab3) |
+| Mon, 28 Apr 2025 01:00:17 GMT | How I Made $12k in 48 Hours — By Recovering ‘Deleted’ Files | Ibtissam Hammadi | [Read More](https://medium.com/p/57bf7289ab9e) |
+| Mon, 28 Apr 2025 00:55:43 GMT | Maximizing Development Speed And Security With No-Code | Franklinr held | [Read More](https://medium.com/p/9b04992a676d) |
+| Mon, 28 Apr 2025 00:41:02 GMT | Maximize Your Bug $BUG Returns in 2025 | Bug | [Read More](https://medium.com/p/461c0d0acc12) |
+| Mon, 28 Apr 2025 00:38:56 GMT | How to Build Wealth with DORK $DORK | DORK | [Read More](https://medium.com/p/ba141a5c60aa) |
+| Mon, 28 Apr 2025 00:37:42 GMT | Get ChainBounty (BOUNTY) Rewards and Maximize APY | ChainBounty | [Read More](https://medium.com/p/8bbf478aea1f) |
+| Mon, 28 Apr 2025 00:36:35 GMT | A List Of OSINT Resources(Must Read Article) | loyalonlytoday | [Read More](https://medium.com/p/6f7ee11709da) |
+| Mon, 28 Apr 2025 00:35:25 GMT | Blockchain Teknolojisi: Temelleri, Yapısal İnceleme ve Konsensüs Mekanizmaları | BekirBurakSaka | [Read More](https://medium.com/p/3e052b199792) |
+| Mon, 28 Apr 2025 00:09:22 GMT | Protecting Your Organization from Fraudulent Remote IT Workers | Andrew Kagan | [Read More](https://medium.com/p/e51a70669762) |
+| Mon, 28 Apr 2025 00:02:37 GMT | Hack The Box — Machine — Hospital Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/541055f94cdf) |
+| Sun, 27 Apr 2025 23:47:21 GMT | Confidentiality, Integrity, and Availability (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/909a7e9b8441) |
 | Sun, 27 Apr 2025 23:31:30 GMT | Modern Windows Exploitation: Patch Diffing for Zero Days | Adversarial Edge | [Read More](https://medium.com/p/814e95963b9c) |
 | Sun, 27 Apr 2025 23:29:24 GMT | BSidesSF 2025 Challenge Writer PoV | its C0rg1 | [Read More](https://medium.com/p/64fe57d2e48f) |
 | Sun, 27 Apr 2025 23:25:43 GMT | Automated vs Manual Pentesting: Why VoltSec.io Combines the Best of Both Worlds | Voltsec.io | [Read More](https://medium.com/p/2163782a34ba) |
@@ -100,18 +115,3 @@ Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medi
 | Sun, 27 Apr 2025 17:21:14 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 2 (Malware Traffic Analysis with Wireshark) | KingOfPiratez | [Read More](https://medium.com/p/bbaa4bd9f557) |
 | Sun, 27 Apr 2025 17:16:36 GMT | Privilege Escalation via IDOR and ACL Bypass in a SaaS Application | Mohan Kumar N | [Read More](https://medium.com/p/e079bcd2cc4a) |
 | Sun, 27 Apr 2025 17:16:01 GMT | Distributed Denial of Service (DDoS) attack. | err0rgod | [Read More](https://medium.com/p/fa287dd1abb8) |
-| Sun, 27 Apr 2025 17:15:00 GMT | OutSystems Security Rules You Must Follow | reem hamdan | [Read More](https://medium.com/p/9f3f5942a1a0) |
-| Sun, 27 Apr 2025 17:12:38 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 1 (Dynamic Malware Analysis) | KingOfPiratez | [Read More](https://medium.com/p/3a2d69b7251e) |
-| Sun, 27 Apr 2025 17:08:55 GMT | Smuggling My Way Past Frontend Filters: A Fun Find on HackerOne | Ayush Kumar | [Read More](https://medium.com/p/4424dad3a16e) |
-| Sun, 27 Apr 2025 17:07:07 GMT | SwitchBot Smart Home Solutions | waterspaul3803 | [Read More](https://medium.com/p/812612ac3bb8) |
-| Sun, 27 Apr 2025 17:06:15 GMT | Why Startups Need Architects Before They Need Strategists | Liat Portal | [Read More](https://medium.com/p/16d1d79b83b3) |
-| Sun, 27 Apr 2025 16:53:07 GMT | SQUID HUNT Walkthrough | Utkarsh Aggarwal | [Read More](https://medium.com/p/9d2866440925) |
-| Sun, 27 Apr 2025 16:46:50 GMT | Identify Common Open Port Vulnerabilities in Your Network | Ssali Prosper Yasin | [Read More](https://medium.com/p/6b01bd54250c) |
-| Sun, 27 Apr 2025 16:45:36 GMT | Earn More, Risk Less: Curvance $CVE the Smart Way | Curvance | [Read More](https://medium.com/p/eaba3ad4f874) |
-| Sun, 27 Apr 2025 16:44:49 GMT | Guerilla Malware: How a New Android Banking Trojan Is Stealing Millions in 2024 | KLEAP Institute of Information Security | [Read More](https://medium.com/p/2de5bdaeeb47) |
-| Sun, 27 Apr 2025 16:27:42 GMT | My Security Journey | Kijo Ninja | [Read More](https://medium.com/p/96e65f025146) |
-| Sun, 27 Apr 2025 16:26:24 GMT | HackTheBox - Builder | jniket | [Read More](https://medium.com/p/15e7644d96fa) |
-| Sun, 27 Apr 2025 16:18:45 GMT | Paper Reading — On the Instability of Bitcoin Without the Block Reward | JingAnSi | [Read More](https://medium.com/p/eb2a469569aa) |
-| Sun, 27 Apr 2025 16:14:20 GMT | Unlocking the Future of Web3: Exploring Confidential Layer, Bridging, and the Power of $CLONE | schlong91 | [Read More](https://medium.com/p/af554cae0115) |
-| Sun, 27 Apr 2025 16:03:45 GMT | Security-First Flutter: Implementing Passkeys, Hardware Keystore, and Side-Channel Hardening | Subhanu Majumder | [Read More](https://medium.com/p/c0d88dc02e7f) |
-| Sun, 27 Apr 2025 16:02:34 GMT | Vulnerability Scanning vs. Penetration Testing: What’s the Difference? | Black Lock | [Read More](https://medium.com/p/b2cd42956de1) |
