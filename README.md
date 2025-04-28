@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 16:16:16 GMT | How to Get LFI: A Beginner’s Guide | LunaFi | [Read More](https://medium.com/p/a9cd06903f5b) |
+| Mon, 28 Apr 2025 16:14:22 GMT | Company Risk With AI | Turingvang | [Read More](https://medium.com/p/cdc791ccd490) |
+| Mon, 28 Apr 2025 16:12:34 GMT | The Username Trap: How Your Old Accounts Can Still Haunt You | Sam Galope | [Read More](https://medium.com/p/131989aecf41) |
+| Mon, 28 Apr 2025 16:11:42 GMT | AI Security | Turingvang | [Read More](https://medium.com/p/1f5c46f2f596) |
+| Mon, 28 Apr 2025 16:09:16 GMT | Enhancing Business Security with Advanced Endpoint Security Solutions | Williamjamerrr | [Read More](https://medium.com/p/e034916bcd54) |
+| Mon, 28 Apr 2025 16:09:04 GMT | Understanding Vulnerability Management SLA - Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/4dba2fa5a68b) |
+| Mon, 28 Apr 2025 16:06:19 GMT | Catalysis: The Future of Blockchain Restaking — Can It Scale, and Who Will Join the Revolution? | Scofield O. Idehen | [Read More](https://medium.com/p/738881e3a14e) |
+| Mon, 28 Apr 2025 16:04:19 GMT | HTTPS Setup for SEO: Why It’s Non-Negotiable and How to Do It Right | Farrukh Alam | [Read More](https://medium.com/p/054df67b133d) |
+| Mon, 28 Apr 2025 16:00:49 GMT | Confidential Layer ($CLONE): The Future of Private Blockchain Transactions | Machacjosef | [Read More](https://medium.com/p/011b78702aba) |
+| Mon, 28 Apr 2025 16:00:28 GMT | Exploring the Future of Smart Homes with SwitchBot Electric Blinds | Asqwfxvxqw | [Read More](https://medium.com/p/0c138099fdcd) |
+| Mon, 28 Apr 2025 16:00:13 GMT | Today Spain and Portugal Plunge into Darkness: Cyber-Terrorism or ‘Rare Atmospheric Phenomenon’? | Rick Gregson | [Read More](https://medium.com/p/f5cb58837f22) |
+| Mon, 28 Apr 2025 15:57:33 GMT | Keylogger Detection System with Python | Vinu Varshith Alagappan | [Read More](https://medium.com/p/3a5a45c0718c) |
+| Mon, 28 Apr 2025 15:53:16 GMT | Earn Big with LunaFi $LFI Rewards This Year | LunaFi | [Read More](https://medium.com/p/5fb2807a24fe) |
+| Mon, 28 Apr 2025 15:52:55 GMT | 100 Linux Commands I Frequently Use for Everyday Tasks and Cyber SecurityHere’s a list of 100… | Dede Nugroho | [Read More](https://medium.com/p/5992076f2886) |
+| Mon, 28 Apr 2025 15:51:55 GMT | WooCommerce Users Targeted by Fake Patch Phishing Attack — Sites Backdoored! | CyDhaal | [Read More](https://medium.com/p/b6ed6888a1c7) |
+| Mon, 28 Apr 2025 15:51:15 GMT | The Digital Benefits Of Securing Internet With VPNs | James Neal | [Read More](https://medium.com/p/7dd9fdce52dd) |
+| Mon, 28 Apr 2025 15:42:55 GMT | How to use the NIST cybersecurity Framework to stay safe online | Richard Ndung'u | [Read More](https://medium.com/p/195006cbe18d) |
 | Mon, 28 Apr 2025 15:36:14 GMT | Major Power Outage Disrupts Spain and Portugal, Impacting Capitals and Surrounding Areas | Re: News | [Read More](https://medium.com/p/666a13ddbbe2) |
 | Mon, 28 Apr 2025 15:32:37 GMT | I Tried to Fix Cybersecurity in Government. They Laughed. | Sam Galope | [Read More](https://medium.com/p/d89fe7555792) |
 | Mon, 28 Apr 2025 15:29:16 GMT | What Are the Technical Areas in AI Governance? | Tal Eliyahu | [Read More](https://medium.com/p/f475eda6eec8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 12:02:34 GMT | Securing the Ballot: Blockchain’s Potential for Election Integrity | JMTheAdvocate  - Jerica Richardson | [Read More](https://medium.com/p/5f67327f1a40) |
 | Mon, 28 Apr 2025 12:02:23 GMT | Cyber Security London: Protecting Your Business in the Digital Age | Paladin Cyber Security London | [Read More](https://medium.com/p/a8f12a0ccb80) |
 | Mon, 28 Apr 2025 11:56:29 GMT | Cybersecurity Strategies for 2025: Safeguarding Data in a Digital World | StrongBox IT | [Read More](https://medium.com/p/fd846067648c) |
-| Mon, 28 Apr 2025 11:53:23 GMT | Why the OSCP+ Certification is Your Gateway to Success | Oscptraining | [Read More](https://medium.com/p/f4275873614a) |
-| Mon, 28 Apr 2025 11:46:38 GMT | Earn Passive Income with DORK: The Smart Way | DORK | [Read More](https://medium.com/p/1044004cb283) |
-| Mon, 28 Apr 2025 11:45:32 GMT | Want to Supercharge Your Vibe Coding Skills? | Vikrant Dheer | [Read More](https://medium.com/p/7f6bfa2898c4) |
-| Mon, 28 Apr 2025 11:44:14 GMT | Decrypting Firmware: A Practical Guide to Unlocking XOR-Encrypted Binaries | Horrow | [Read More](https://medium.com/p/493320a91c9c) |
-| Mon, 28 Apr 2025 11:40:57 GMT | Best Security Service in Delhi NCR: Your Trusted Safety Partner | NOPe | [Read More](https://medium.com/p/ec453e1d7344) |
-| Mon, 28 Apr 2025 11:40:51 GMT | HackTheBox : Exploit Lame Machines | Raden Dika Natakusumah | [Read More](https://medium.com/p/7a21562eac20) |
-| Mon, 28 Apr 2025 11:36:34 GMT | The Myth of the Cowboy Coder: Galloping Through Misconceptions in Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/d639205108e1) |
-| Mon, 28 Apr 2025 11:32:51 GMT | Ethical Hacking Certifications in 2025: CEH, OSCP or PenTest+? | Muhammad Ahmad | [Read More](https://medium.com/p/6733b29cca63) |
-| Mon, 28 Apr 2025 11:28:12 GMT | Gray Box Testing: The Perfect Balance of Knowledge and Realism? | West Advanced Technologies Inc | [Read More](https://medium.com/p/3a476eb0355a) |
-| Mon, 28 Apr 2025 11:22:42 GMT | Lab Report #6 Group Policy Preferences (GPP) Password Extraction and Event Log Analysis | Samet Koca | [Read More](https://medium.com/p/a0457f9632b2) |
-| Mon, 28 Apr 2025 11:20:29 GMT | ️ What is Wazuh? Discover the Open-Source Security Platform | Furkanctiner | [Read More](https://medium.com/p/b455587bd294) |
-| Mon, 28 Apr 2025 11:20:15 GMT | What is it like to work in cyber security? | ICTRD-Kaushalpith | [Read More](https://medium.com/p/c7a29c69970f) |
-| Mon, 28 Apr 2025 11:14:33 GMT | Understanding Bash and Its Importance in Cybersecurity | Jack = | [Read More](https://medium.com/p/a74fa7c9fba6) |
-| Mon, 28 Apr 2025 11:03:50 GMT | Performed a Denial of Service Attack on a Smart Contract (And How to Prevent It) | Magda  Jankowska | [Read More](https://medium.com/p/560a32252ff6) |
-| Mon, 28 Apr 2025 11:02:31 GMT | Why Log Integration Cybersecurity Matters Now | Vijilan | [Read More](https://medium.com/p/b5fb0d64b283) |
-| Mon, 28 Apr 2025 11:01:30 GMT | Article 1 sur 12 : CVE, CWE, CVSS & NVD | Saber You | [Read More](https://medium.com/p/68fbc8eb588f) |
-| Mon, 28 Apr 2025 10:59:32 GMT | How To Reduce & Detect Internal Fraud Risk | Skyrecoup | [Read More](https://medium.com/p/2561c30f5e2c) |
