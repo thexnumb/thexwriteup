@@ -14,6 +14,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 03:02:22 GMT | Beware the Voice You Trust: The Rise of AI Voice Note Impersonation Scams in Kuwait | Cytomate | [Read More](https://medium.com/p/eba085ea0ab8) |
+| Mon, 28 Apr 2025 02:54:43 GMT | What is Cloud Security And Why does it matter in 2025 | CyberSecRealm | [Read More](https://medium.com/p/2828ac479827) |
+| Mon, 28 Apr 2025 02:53:53 GMT | DawgCTF 2025 Writeup — Mystery Signal II | xch0r | [Read More](https://medium.com/p/0c7388e8f5b9) |
+| Mon, 28 Apr 2025 02:52:25 GMT | Spring Security Vulnerability Exposes Valid Usernames to Attackers (CVE-2025–22234) | Cyber-AppSec | [Read More](https://medium.com/p/f9abc0575add) |
+| Mon, 28 Apr 2025 02:47:17 GMT | “Reclaiming My Voice: The Dance of Vulnerability and Connection” | Della | [Read More](https://medium.com/p/7e4829726ddf) |
+| Mon, 28 Apr 2025 02:45:31 GMT | YOU DESERVE BETTER. | Eliz Grace | [Read More](https://medium.com/p/cc30bfb38e11) |
+| Mon, 28 Apr 2025 02:43:29 GMT | DawgCTF 2025 Writeup - Mystery Signal I | xch0r | [Read More](https://medium.com/p/1f9fd31174d2) |
+| Mon, 28 Apr 2025 02:30:27 GMT | DawgCTF 2025 Writeup — Don’t Touch My Fone | xch0r | [Read More](https://medium.com/p/ac5855e56c15) |
+| Mon, 28 Apr 2025 02:26:42 GMT | The Red Teaming: 30-Day Challenge[14] | Bl@ckC!pH3r | [Read More](https://medium.com/p/b061cc19b0c3) |
+| Mon, 28 Apr 2025 02:05:28 GMT | SQL Direct - Writeup | Marvin | [Read More](https://medium.com/p/b9cd194c83c6) |
+| Mon, 28 Apr 2025 02:04:39 GMT | Cybersecurity Basics: Understanding IAAA Access Control | Jose Toledo | [Read More](https://medium.com/p/3212769b40f0) |
+| Mon, 28 Apr 2025 01:55:23 GMT | Hunting Suspicious DLL Side-Loading Activity | Paritosh | [Read More](https://medium.com/p/5d919f018ac6) |
+| Mon, 28 Apr 2025 01:54:09 GMT | $500 XSS Payload in Slack | Monika sharma | [Read More](https://medium.com/p/0b99de50f4df) |
+| Mon, 28 Apr 2025 01:52:54 GMT | The Malware You Can’t See Is the Most Dangerous — Here’s How to Fight It in 2025 | Noel | [Read More](https://medium.com/p/f21db20ecccb) |
+| Mon, 28 Apr 2025 01:52:46 GMT | Penetration Testing: How to Think Like a Hacker (Before They Do) | Ahmad Javed | [Read More](https://medium.com/p/da39e421942e) |
+| Mon, 28 Apr 2025 01:51:58 GMT | Our Small Business Was Attacked by a Clown — But It Wasn’t Funny | Noel | [Read More](https://medium.com/p/cec8136ec53b) |
 | Mon, 28 Apr 2025 01:32:06 GMT | Pivoting | Narendra Varma Chekuri | [Read More](https://medium.com/p/b9b9a83f184e) |
 | Mon, 28 Apr 2025 01:16:30 GMT | America’s Cease-Fire Gamble: How One Deal Could Redraw the World – and Reach Your Doorstep | D.H. Jang | [Read More](https://medium.com/p/a96ca78a6e30) |
 | Mon, 28 Apr 2025 01:11:10 GMT | Understanding Vulnerabilities | Luis Soto | [Read More](https://medium.com/p/b9889f9b8865) |
@@ -98,20 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 27 Apr 2025 18:14:08 GMT | Why Startups Must Prioritize Cybersecurity and Compliance | Mednmolars | [Read More](https://medium.com/p/85b5a2d405d7) |
 | Sun, 27 Apr 2025 18:08:56 GMT | ⚡ AI-CMD-X: Transform Your Plain English into Powerful Windows Commands Instantly! | The Pentrix | [Read More](https://medium.com/p/be9693eb6ec6) |
 | Sun, 27 Apr 2025 18:06:15 GMT | Glitch-TryHackme(Writeup) | CyberLabyrinthX | [Read More](https://medium.com/p/276fb3a3ddbe) |
-| Sun, 27 Apr 2025 18:01:33 GMT | Is Palo Alto Networks the Secret to Cloud Security World Domination? | Petros Magopoulos | [Read More](https://medium.com/p/a4be30a816f2) |
-| Sun, 27 Apr 2025 18:01:23 GMT | From Discovery to Patch: Critical DOM XSS & Open Redirect in Toyota’s Parts Portal | N0aziXss | [Read More](https://medium.com/p/e36383fa1aa1) |
-| Sun, 27 Apr 2025 17:52:34 GMT | ️ Advanced Cybersecurity Solutions by Hyperscales | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/f6a11ce678bb) |
-| Sun, 27 Apr 2025 17:49:48 GMT | VPS Hosting Solutions Powered by Hyperscales | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/df5e5ebb9a14) |
-| Sun, 27 Apr 2025 17:47:39 GMT | Deliver Lightning-Fast Experiences, Anywhere in the World | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/38aa4cdf966d) |
-| Sun, 27 Apr 2025 17:47:02 GMT | Part 1: What If Your Entire Business Could Go Down Because of One Vendor? | Taiwo Tomiwa | [Read More](https://medium.com/p/56e51235a489) |
-| Sun, 27 Apr 2025 17:46:57 GMT | What is Encryption | Samxia99 | [Read More](https://medium.com/p/c621c7e7fe5a) |
-| Sun, 27 Apr 2025 17:46:02 GMT | Welcome to CCWB — Cybersecurity Compliance Without Bullshit | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/6f9a5f16fa42) |
-| Sun, 27 Apr 2025 17:44:11 GMT | Spring Boot Actuator: The Hidden Security Time Bomb — Are You Exposing Too Much? | Himanshu | [Read More](https://medium.com/p/6ff21db277fc) |
-| Sun, 27 Apr 2025 17:41:05 GMT | The Rising Need for Compliance by Design in Modern Application Development | Kiran Maraju | [Read More](https://medium.com/p/d019e95e8e08) |
-| Sun, 27 Apr 2025 17:39:23 GMT | Exploring Virtual Machines for Cybersecurity: My Experience with VM Escape and How It Works | Mr. MOM | [Read More](https://medium.com/p/0e73f75cf605) |
-| Sun, 27 Apr 2025 17:29:45 GMT | Vulnerability Assesment of MS17–010 Eternal Blue SMB Remote
-Windows Kernel Pool Corruption for… | Aliza Ibrahim | [Read More](https://medium.com/p/c35d567feb62) |
-| Sun, 27 Apr 2025 17:24:15 GMT | Why Treasures Are Hidden | maika go nudge | [Read More](https://medium.com/p/fad281811533) |
-| Sun, 27 Apr 2025 17:21:14 GMT | An SOC Analyst’s Guide to Malware Analysis — Part 2 (Malware Traffic Analysis with Wireshark) | KingOfPiratez | [Read More](https://medium.com/p/bbaa4bd9f557) |
-| Sun, 27 Apr 2025 17:16:36 GMT | Privilege Escalation via IDOR and ACL Bypass in a SaaS Application | Mohan Kumar N | [Read More](https://medium.com/p/e079bcd2cc4a) |
-| Sun, 27 Apr 2025 17:16:01 GMT | Distributed Denial of Service (DDoS) attack. | err0rgod | [Read More](https://medium.com/p/fa287dd1abb8) |
