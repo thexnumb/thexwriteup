@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 20:04:37 GMT | T-Pot in a Flash: Deploying a Honeypot on an Ubuntu Server in Under 10 Minutes | Abishek S | [Read More](https://medium.com/p/19244d2e09dd) |
+| Mon, 28 Apr 2025 20:03:10 GMT | The A, B, C’s of Security Settings for Zoom | Savvy Cyber Kids | [Read More](https://medium.com/p/ea0fba539c19) |
+| Mon, 28 Apr 2025 20:00:48 GMT | 5 Ways to Protect Your Kids When They Use IoT Products | Savvy Cyber Kids | [Read More](https://medium.com/p/d96681a2dbad) |
+| Mon, 28 Apr 2025 19:53:53 GMT | SOC Fundamentals — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/119c2b12fb29) |
+| Mon, 28 Apr 2025 19:49:56 GMT | Hack-Proof Your Story: A Guide for Authors | Vipul Mathur 'Naman' | [Read More](https://medium.com/p/589b739c91af) |
+| Mon, 28 Apr 2025 19:49:56 GMT | Security Advisory: Storm-1977 Attacks on Education Cloud via Password Spraying. | current.cybersecurity | [Read More](https://medium.com/p/63b810623b7b) |
+| Mon, 28 Apr 2025 19:44:16 GMT | Someday, DDoS Attacks Will Be History. But Today? It’s a Siege | Aaron Rose | [Read More](https://medium.com/p/16b418bab8ee) |
+| Mon, 28 Apr 2025 19:38:32 GMT | When a Single Id Breaks the System — Exploiting Mass Assignment in Patient Onboarding. | Dr Rmdn | [Read More](https://medium.com/p/7cf0b7a2877d) |
+| Mon, 28 Apr 2025 19:29:52 GMT | App Security in Swift: Keychain, Biometrics, Secure Enclave | Gaurav Harkhani | [Read More](https://medium.com/p/69359b4cffba) |
 | Mon, 28 Apr 2025 19:29:24 GMT | How to Build Cybersecurity Resilience for Your Business in an AI-Driven World | Jad lissandre | [Read More](https://medium.com/p/5a22a9a75843) |
 | Mon, 28 Apr 2025 19:25:32 GMT | Key Points on the NIST 800–171 Compliance Checklist | Akshay Chauhan | [Read More](https://medium.com/p/7e3eaeca6039) |
 | Mon, 28 Apr 2025 19:23:27 GMT | Strengthening Cybersecurity: Why People Are the Key Factor | Binitha John | [Read More](https://medium.com/p/bc0d34962d7a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 14:59:27 GMT | Step-by-Step Guide: Deploying SafeLine WAF on Synology NAS Using Docker | Loria | [Read More](https://medium.com/p/958073f77e0e) |
 | Mon, 28 Apr 2025 14:55:32 GMT | How to Defend Against Bot Attacks with SafeLine WAF | Loria | [Read More](https://medium.com/p/a6704b5e53fa) |
 | Mon, 28 Apr 2025 14:53:13 GMT | Authera: A Passwordless + 2A Authentication System | Ninad Walanj | [Read More](https://medium.com/p/c1a6d151d537) |
-| Mon, 28 Apr 2025 14:52:01 GMT | Exposing Hidden Vulnerabilities: How LeakHound — GitLeaks Scanner Unmasks | Pushan | [Read More](https://medium.com/p/625782a90059) |
-| Mon, 28 Apr 2025 14:50:33 GMT | Top Cybersecurity Companies: How They Keep You Safe Online | Kambetastephano | [Read More](https://medium.com/p/5aace740958a) |
-| Mon, 28 Apr 2025 14:43:25 GMT | Europe’s Defence Renaissance: How the Continent is Reinventing its Security Strategy | Aimar Burzaco Mateo | [Read More](https://medium.com/p/bd401cb69292) |
-| Mon, 28 Apr 2025 14:41:13 GMT | Daily dose of Chart : 28 April 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/492cbafe6a4e) |
-| Mon, 28 Apr 2025 14:35:57 GMT | Semperis Launches Ready1 to Transform Cyber Crisis Response | Louise Rolfe | [Read More](https://medium.com/p/e5d0673730db) |
-| Mon, 28 Apr 2025 14:32:34 GMT | How CVE Severity Levels Drive Security Prioritization | Saber You | [Read More](https://medium.com/p/1677a4360224) |
-| Mon, 28 Apr 2025 14:30:51 GMT | The Pain of Setting Up 2FA on Every App | Vijay Kumar Gupta | [Read More](https://medium.com/p/4d17cb0895a2) |
-| Mon, 28 Apr 2025 14:25:10 GMT | DVR4 Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/69da0ebc168b) |
-| Mon, 28 Apr 2025 14:23:52 GMT | Google Cloud Account Takeover via URL Parsing Confusion | Mohamed Benchikh | [Read More](https://medium.com/p/c5e47389b7c7) |
