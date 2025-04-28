@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 14:15:10 GMT | How to Secure Your Crypto Like a Pro in 2025 | Kobold assistant | [Read More](https://medium.com/p/f9815d2d448b) |
+| Mon, 28 Apr 2025 14:12:38 GMT | Common Cyberattacks & Prevention | MidnightMusings | [Read More](https://medium.com/p/373a1119498b) |
+| Mon, 28 Apr 2025 14:11:42 GMT | NIST CSF Made Simple: A Beginner's Guide to Cybersecurity Framework | Kambetastephano | [Read More](https://medium.com/p/f3f12bfcb6ac) |
+| Mon, 28 Apr 2025 14:10:06 GMT | Cybersecurity in Smart Vehicles: Threat Analysis and Advanced Protection Strategies | Emily | [Read More](https://medium.com/p/21fcdff507fe) |
+| Mon, 28 Apr 2025 14:02:47 GMT | Entry-Level Cybersecurity Jobs: Your Path to a Cyber Career | MidnightMusings | [Read More](https://medium.com/p/00c0be0c9b82) |
+| Mon, 28 Apr 2025 14:02:39 GMT | Advanced C2 Infrastructure and Evasion Techniques | Esra Kayhan | [Read More](https://medium.com/p/d47ab87e3631) |
+| Mon, 28 Apr 2025 14:00:14 GMT | Cyber Briefing: 2025.04.28 | CyberMaterial | [Read More](https://medium.com/p/c67d9bb070f2) |
+| Mon, 28 Apr 2025 13:59:23 GMT | Google Cyber Alert: Scam Exposed... Stay Sharp! | O. J. Okpabi | [Read More](https://medium.com/p/c31b8972fc5d) |
+| Mon, 28 Apr 2025 13:57:28 GMT | The Hidden Danger in AI Agents: How MCP Semantic Injection Creates a Perfect Security Storm | Vasudevan Surendran | [Read More](https://medium.com/p/e22c32f9fa7b) |
+| Mon, 28 Apr 2025 13:56:43 GMT | How to Spot a Legit Email vs. a Phishing Scam | Tech Made Simple By NTi | [Read More](https://medium.com/p/adf89c2c3e06) |
+| Mon, 28 Apr 2025 13:56:23 GMT | Setting up ADB (Tunneling) on WSL2 | Aan | [Read More](https://medium.com/p/a1fb66dd8407) |
+| Mon, 28 Apr 2025 13:55:52 GMT | AI Daily Pulse: One-Fifth of AI-Recommended Packages Found to Be Fake, Raising Slopsquatting… | LibrAI Insights | [Read More](https://medium.com/p/f85138c13b1f) |
+| Mon, 28 Apr 2025 13:53:27 GMT | Building a Custom C2 Server in Python: A Fresh Take on Offensive Security | Maxwell Cross | [Read More](https://medium.com/p/e3d8c09bc2ab) |
+| Mon, 28 Apr 2025 13:52:43 GMT | IoT and Automotive Device Security Vulnerabilities and Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/41d0fc4ff90b) |
+| Mon, 28 Apr 2025 13:52:43 GMT | Social Engineering vs. Phishing: Understanding the Differences | MidnightMusings | [Read More](https://medium.com/p/0c6c7e4e5132) |
+| Mon, 28 Apr 2025 13:52:34 GMT | 5 More Techniques to Lock Down Public-Facing Linux Servers | Faruk Ahmed | [Read More](https://medium.com/p/63b45e3930b6) |
+| Mon, 28 Apr 2025 13:52:08 GMT | Artificial Sleuths: Using AI To Up Your OSINT Game | Investigator515 | [Read More](https://medium.com/p/1e8de52f674e) |
+| Mon, 28 Apr 2025 13:46:54 GMT | App Passwords in Microsoft Entra ID: A Hidden MFA Bypass Risk | PatrickBinder | [Read More](https://medium.com/p/0c70973a078e) |
+| Mon, 28 Apr 2025 13:43:41 GMT | The OSINT Blueprint: Elevate Your Investigation Skills to Extraordinary Levels | wulf | [Read More](https://medium.com/p/0e7f7c832b9d) |
 | Mon, 28 Apr 2025 13:38:23 GMT | The Information Age! | Yoda Manhães | [Read More](https://medium.com/p/eec2573e38c7) |
 | Mon, 28 Apr 2025 13:31:21 GMT | KPI vs KRI — Quick Understanding | Ravindra Dagale | [Read More](https://medium.com/p/7617a9a6e8c4) |
 | Mon, 28 Apr 2025 13:31:01 GMT | Building Resilient Organizations Starts with Security-First Thinking | SecOps | [Read More](https://medium.com/p/3beeb2e5406d) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 09:29:18 GMT | Securing the Network: From Analog Command Centers to Cyber Defense | Elia T | [Read More](https://medium.com/p/b69911a111ba) |
 | Mon, 28 Apr 2025 09:16:47 GMT | Чеклист: Как да реагираме при киберинцидент (за микро бизнес) | Anita Stoyanova | [Read More](https://medium.com/p/218d476c8610) |
 | Mon, 28 Apr 2025 09:15:43 GMT | ️ Day 19: Extracting Secrets with NoSQL Injection — A Hacker’s Approach | Agarwaldaksh | [Read More](https://medium.com/p/ec0b700965f1) |
-| Mon, 28 Apr 2025 09:09:38 GMT | How to Write and Use a Simple Function in Python | Jaytech | [Read More](https://medium.com/p/7e1933767783) |
-| Mon, 28 Apr 2025 09:09:29 GMT | [CIT CTF 2025] Solving all Web challenges | MindPatch | [Read More](https://medium.com/p/e9697670ae1f) |
-| Mon, 28 Apr 2025 08:49:32 GMT | PCI DSS Managed Security Services: A Strategic Approach to Payment Security | Uday Kumar | [Read More](https://medium.com/p/e77a1cb5ded2) |
-| Mon, 28 Apr 2025 08:35:16 GMT | Cybersecurity Risk Management: Key Steps to Managing Threats | SecureSlate | [Read More](https://medium.com/p/27629df03525) |
-| Mon, 28 Apr 2025 08:29:23 GMT | Hacking WordPress Plugins - TryHackMe Smol | Motasem Hamdan | [Read More](https://medium.com/p/8d8515c43731) |
-| Mon, 28 Apr 2025 08:24:45 GMT | 5 основни грешки в киберсигурността, които малкият бизнес допуска | Anita Stoyanova | [Read More](https://medium.com/p/1e244a4e0032) |
-| Mon, 28 Apr 2025 08:23:25 GMT | How I Earned $8947 bounty for Remote Code Execution via a Hijacked GitHub Module | Naveen kumawat | [Read More](https://medium.com/p/91c4a4b63255) |
-| Mon, 28 Apr 2025 08:21:02 GMT | Introducing TeNass: The N-Layers Security Protocol | rembuyung alas | [Read More](https://medium.com/p/9207bd2403ca) |
-| Mon, 28 Apr 2025 08:16:43 GMT | Introduction | Patrick Amegavi | [Read More](https://medium.com/p/0111ce9f289b) |
-| Mon, 28 Apr 2025 08:07:48 GMT | The Daily Tech Digest: 28 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/57621c99358d) |
-| Mon, 28 Apr 2025 08:00:41 GMT | AWS CDK and the Hidden Risks to Least Privilege | Joris Conijn | [Read More](https://medium.com/p/f52a61ce218c) |
-| Mon, 28 Apr 2025 07:59:49 GMT | JWT, Meet Me Outside: How I Decoded, Re-Signed, and Owned the App | Iski | [Read More](https://medium.com/p/95791eabcf5d) |
-| Mon, 28 Apr 2025 07:51:06 GMT | Best Linux Training for Beginners in Delhi with Certificate [2025] | Ankit_Cyber | [Read More](https://medium.com/p/a10eb2f7c784) |
-| Mon, 28 Apr 2025 07:50:48 GMT | Shadow Contracts: The Hidden Terms That Compromise Your Cloud | Induz Data Solutions | [Read More](https://medium.com/p/c2e6c7634f52) |
-| Mon, 28 Apr 2025 07:47:35 GMT | Maximize Your Penetration Testing Efficiency with Nuclei | WilsonNugrah | [Read More](https://medium.com/p/33109fe8ebbd) |
-| Mon, 28 Apr 2025 07:46:40 GMT | MuleSoft on Hyperforce | Jyoti Nimbalkar | [Read More](https://medium.com/p/cea6290a9a02) |
-| Mon, 28 Apr 2025 07:44:38 GMT | GeeTest at GISEC 2025: What to Expect from Our Latest Innovations | GEETEST | [Read More](https://medium.com/p/528f71f6edf5) |
-| Mon, 28 Apr 2025 07:43:18 GMT | GraphQL API hacking Series for bug hunters 01 | IronGhost | [Read More](https://medium.com/p/4db602685d16) |
-| Mon, 28 Apr 2025 07:43:15 GMT | How the Internet Works: A Beginner’s Guide to Basic Network Protocols and IP Addressing | Irem | [Read More](https://medium.com/p/f1832a600920) |
