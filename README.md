@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 28 Apr 2025 21:11:29 GMT | WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at… | hacker_might | [Read More](https://medium.com/p/4a5ed41a9f06) |
+| Mon, 28 Apr 2025 21:07:31 GMT | Types of Penetration Testing: Which Is Right for Your Business? | IT_Engineer | [Read More](https://medium.com/p/3783befdc8a5) |
+| Mon, 28 Apr 2025 21:07:12 GMT | Password Reuse: The Silent Security Threat Inside America’s Most Trusted Companies | Hoplon Infosec | [Read More](https://medium.com/p/3c299a07451f) |
+| Mon, 28 Apr 2025 21:06:41 GMT | CyberHub Weekly Digest — Emerging Threats and Innovations in Cybersecurity | CyberHub | [Read More](https://medium.com/p/ca3da53d8695) |
+| Mon, 28 Apr 2025 20:54:22 GMT | PostgreSQL RCE + LFI via UNION-Based SQLi - Field Manual | tobias are | [Read More](https://medium.com/p/b8176eda905e) |
+| Mon, 28 Apr 2025 20:53:25 GMT | NMAP: The Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/fbcbc26e6fb2) |
+| Mon, 28 Apr 2025 20:46:55 GMT | Hunting Diary: Cibersegurança e Sustentabilidade | mxprim0 | [Read More](https://medium.com/p/304102b2c085) |
+| Mon, 28 Apr 2025 20:46:34 GMT | Phishing Attacks Surge in APAC: A Wake-Up Call for the Manufacturing Sector | Avnishyam | [Read More](https://medium.com/p/5a0f5df547d5) |
+| Mon, 28 Apr 2025 20:40:18 GMT | Coinbase UX Glitch Caused False Security Alarms for Users | IC News | [Read More](https://medium.com/p/1f9ecc01441e) |
+| Mon, 28 Apr 2025 20:38:54 GMT | Can We Stop Documenting Our Detections? | Gary Katz | [Read More](https://medium.com/p/ded2201ec09b) |
+| Mon, 28 Apr 2025 20:22:50 GMT | La gestion des vulnérabilités un chantier capital pour BFC tracteurs | Florent M | [Read More](https://medium.com/p/27549ea22cee) |
 | Mon, 28 Apr 2025 20:21:13 GMT | Road to SSRF : PDF generation and filter bypass on ASP.net application | Supr4s | [Read More](https://medium.com/p/dd3aa91c0fed) |
 | Mon, 28 Apr 2025 20:20:02 GMT | How I Uncovered Critical Bugs on the Pay4Energy AEDC Portal (and What I Learned) | Eghosa Osayame | [Read More](https://medium.com/p/482b93e008f1) |
 | Mon, 28 Apr 2025 20:17:06 GMT | Your True Understanding of Attacks Starts with: Cyber Kill Chain | Maged Anas | [Read More](https://medium.com/p/c954ae22dd9f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 15:29:16 GMT | What Are the Technical Areas in AI Governance? | Tal Eliyahu | [Read More](https://medium.com/p/f475eda6eec8) |
 | Mon, 28 Apr 2025 15:28:36 GMT | Creating a CCP connector: Part 4 | Tim Groothuis | [Read More](https://medium.com/p/e2827cea81ac) |
 | Mon, 28 Apr 2025 15:24:28 GMT | Roboto Sans - Writeup | Marvin | [Read More](https://medium.com/p/d26c3c9ec8dd) |
-| Mon, 28 Apr 2025 15:24:16 GMT | findme - Writeup | Marvin | [Read More](https://medium.com/p/8d409450a5cb) |
-| Mon, 28 Apr 2025 15:21:11 GMT | CTF Write-up: LNKTrap (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/0e9e0df176f3) |
-| Mon, 28 Apr 2025 15:16:53 GMT | Unlock Free Access to xss0r — Your XSS Success Deserves a Reward! | xss0r | [Read More](https://medium.com/p/160754315afd) |
-| Mon, 28 Apr 2025 15:14:31 GMT | Pico-CTF — Reverse Engineering — Transformation (Easy? Not so much) | rinz0x0cruz | [Read More](https://medium.com/p/bbe90807b537) |
-| Mon, 28 Apr 2025 15:13:43 GMT | A Complaint from AI: “I don’t Understand Your Company” | Vlad Radziuk | [Read More](https://medium.com/p/8314e39a2072) |
-| Mon, 28 Apr 2025 15:12:34 GMT | History of Random Numbers — and Why They Matter More Than Ever in 2025 | Sapiens Clan | [Read More](https://medium.com/p/8db95aad5d2e) |
-| Mon, 28 Apr 2025 15:11:06 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3b25a6ef8d62) |
-| Mon, 28 Apr 2025 15:05:41 GMT | Windows Recall: Invading Privacy or Increasing Productivity? | Wes | [Read More](https://medium.com/p/4bdd7d8185b7) |
-| Mon, 28 Apr 2025 15:03:44 GMT | Autenticación usando NestJS y JWT | Geampiere Jaramillo | [Read More](https://medium.com/p/74d6d7c8a2c7) |
-| Mon, 28 Apr 2025 15:02:59 GMT | Back to Friends | The Overthinker Journal | [Read More](https://medium.com/p/634cebaf1331) |
-| Mon, 28 Apr 2025 15:02:13 GMT | Secure Web Gateway vs Web Application Firewall: What’s the Difference? | Loria | [Read More](https://medium.com/p/a8d49316d865) |
