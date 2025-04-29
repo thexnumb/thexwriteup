@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 08:47:23 GMT | 7 Best Cybersecurity Automation Tools for 2025 | SecureSlate | [Read More](https://medium.com/p/458348489f8f) |
+| Tue, 29 Apr 2025 08:45:36 GMT | OAuth 2.0 for First-Party Applications: Towards Balancing Security and UX. | Vihanga Vithanawasam | [Read More](https://medium.com/p/6205597e7fda) |
+| Tue, 29 Apr 2025 08:42:00 GMT | The Daily Tech Digest: 29 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/147ea6891945) |
+| Tue, 29 Apr 2025 08:41:29 GMT | ️Day 20: Clickjacking Explained: How It Works,Real-World Examples | Agarwaldaksh | [Read More](https://medium.com/p/0f0312416650) |
+| Tue, 29 Apr 2025 08:36:00 GMT | SECURET: The revolutionary secure messenger from SAY Services | SAYCOIN | [Read More](https://medium.com/p/e7c51d5d3abc) |
+| Tue, 29 Apr 2025 08:35:25 GMT | How to Learn Python Programming from Scratch in 2025? | Ankit_Cyber | [Read More](https://medium.com/p/02d83039e52c) |
+| Tue, 29 Apr 2025 08:32:32 GMT | What Recruiters Look for in a Cybersecurity Resume in 2025 | Abhijeet Kumawat | [Read More](https://medium.com/p/dcc81fa3154e) |
+| Tue, 29 Apr 2025 08:29:34 GMT | Tech-Enabled Security Services in Pune 2025 | United Guard Force India | [Read More](https://medium.com/p/3a89fa641f25) |
+| Tue, 29 Apr 2025 08:26:32 GMT | Trickster - Writeup | Marvin | [Read More](https://medium.com/p/276eec39e3ac) |
+| Tue, 29 Apr 2025 08:22:52 GMT | Armed vs. Unarmed Security Services in Pune | United Guard Force India | [Read More](https://medium.com/p/4948690a2d3c) |
 | Tue, 29 Apr 2025 08:19:16 GMT | SSRF Vulnerability in Symfony: How to Detect and Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/57b2fb42640e) |
 | Tue, 29 Apr 2025 08:17:12 GMT | Security Bulldog brings unparalleled speed, accuracy, and resilience! | The Security Bulldog | [Read More](https://medium.com/p/417cdf93991c) |
 | Tue, 29 Apr 2025 08:16:28 GMT | Pyrat—TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/1c110a6b9b32) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 01:53:42 GMT | The Fortune Cookie Virus: How a Chinese Takeout Order Nearly Destroyed a Company | Noel | [Read More](https://medium.com/p/81f18e04b9a6) |
 | Tue, 29 Apr 2025 01:53:20 GMT | The Mental Models That Will Make You a Better Security Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/d6fa918256a0) |
 | Tue, 29 Apr 2025 01:52:07 GMT | "Exploring Work-from-Home Opportunities: A Guide to Flexible Careers in 2025" | Pavan | [Read More](https://medium.com/p/27d4f44bce8b) |
-| Tue, 29 Apr 2025 01:51:31 GMT | Detection Result Classification | Garrett Spear | [Read More](https://medium.com/p/0802c27c3a3c) |
-| Tue, 29 Apr 2025 01:51:02 GMT | $100 Password Reset Flaw | Monika sharma | [Read More](https://medium.com/p/7827effebca2) |
-| Tue, 29 Apr 2025 01:41:51 GMT | How i Became a Pentester - Como me Tornei um Pentester | Gustavo Hetrich | [Read More](https://medium.com/p/96f5ce3644bb) |
-| Tue, 29 Apr 2025 01:39:12 GMT | What is a Firewall? How It Works to Protect Your Data (Beginner’s Guide) | Pawan Jaiswal | [Read More](https://medium.com/p/fe2262d8aad4) |
-| Tue, 29 Apr 2025 01:28:28 GMT | Tuesday Morning Threat Report: Apr 29, 2025 | Mark Maguire | [Read More](https://medium.com/p/a1df8ae2d7f1) |
-| Tue, 29 Apr 2025 01:26:13 GMT | Password Recovery? More Like Account Delivery Host Header Injection Madness | r00t | [Read More](https://medium.com/p/b0d0eb3a3b6d) |
-| Tue, 29 Apr 2025 01:21:09 GMT | Who is APT29, Russia’s Attributed Hacker Group? | Ant | [Read More](https://medium.com/p/5be71bbc98fc) |
-| Tue, 29 Apr 2025 01:05:28 GMT | The future of Software Bug Mitigation and Will We Ever Solve The Glitches. | Sergey B | [Read More](https://medium.com/p/21626b70203a) |
-| Tue, 29 Apr 2025 01:00:02 GMT | $500,000 to Catch STON.fi Bugs?! Let’s Get Hunting, STONfiers! | MADEOFBLU | [Read More](https://medium.com/p/8e3c2ba6ad55) |
-| Tue, 29 Apr 2025 00:56:04 GMT | Mental Hacking: Unlocking the Full Power of Your Mind | Benjaminmillerdev | [Read More](https://medium.com/p/8e303c62b893) |
