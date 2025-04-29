@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 07:35:49 GMT | CISA Sounds the Alarm: Broadcom and Commvault Flaws Under Active Exploitation! ️ | Ismail Tasdelen | [Read More](https://medium.com/p/67a3c5f7f3dd) |
+| Tue, 29 Apr 2025 07:33:52 GMT | Top Free Proxy Sites for Students in 2025: Bypass Restrictions with Ease | Proxy 302 | [Read More](https://medium.com/p/a0cc161f92e2) |
+| Tue, 29 Apr 2025 07:28:57 GMT | What are the Risks Associated with Generative AI Code? | Accorian | [Read More](https://medium.com/p/29dce9ff550c) |
+| Tue, 29 Apr 2025 07:26:37 GMT | Phases of a Cybersecurity Incident Response Plan | Khubra | [Read More](https://medium.com/p/16426ef6f6e4) |
+| Tue, 29 Apr 2025 07:25:14 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ee000823c64f) |
+| Tue, 29 Apr 2025 07:21:22 GMT | Access control installation in Waco tx: 5 Essential Considerations for Business Security | Cenathanjoy_Official | [Read More](https://medium.com/p/4f9256d0f796) |
+| Tue, 29 Apr 2025 07:21:08 GMT | How Microsoft Defender Suite Works — Protocols and Integration Explained | Vinod Survase | [Read More](https://medium.com/p/ec2f3f8d575d) |
+| Tue, 29 Apr 2025 07:18:24 GMT | Intercepting Requests with Chrome Extension | Alp Keskin | [Read More](https://medium.com/p/dfec2d28deda) |
+| Tue, 29 Apr 2025 07:18:19 GMT | Master Your Future with Cyber Security and Ethical Hacking Training in Chandigarh at Cnt… | Cnt Technologies | [Read More](https://medium.com/p/08d8f4981494) |
 | Tue, 29 Apr 2025 07:13:02 GMT | How I Learned to Diversify the Hard Way | ABHSHK | [Read More](https://medium.com/p/b4283ff6da4f) |
 | Tue, 29 Apr 2025 07:02:05 GMT | Advancing Cybersecurity Resilience with Francesco Christopher Percival | Francesco Christopher Percival | [Read More](https://medium.com/p/8708ffede073) |
 | Tue, 29 Apr 2025 07:01:34 GMT | Easy2Patch April 26, 2025 Catalog Update: 29 New Software Releases Now Available! | Easy2Patch | [Read More](https://medium.com/p/b9a341834189) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 22:36:39 GMT | How I Used Google Dorking to Find Sensitive Data | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/58ef320c6d2d) |
 | Mon, 28 Apr 2025 22:35:03 GMT | The Rise of the Agentic SOC: Why Collaboration Between Humans and AI is the Future of Cyber… | Vivek Mokkarala | [Read More](https://medium.com/p/1a49e3cdf2a2) |
 | Mon, 28 Apr 2025 22:34:41 GMT | HIPAA Just Got Teeth: How 2025 Changes Will Hit Security Teams | Claudio Gallo | [Read More](https://medium.com/p/841ed25430a7) |
-| Mon, 28 Apr 2025 22:30:21 GMT | How You Can Earn Up to $100,000 with STON.fi Bug Bounty Program | CRYPTANUA | [Read More](https://medium.com/p/18861e0285e5) |
-| Mon, 28 Apr 2025 22:28:15 GMT | My Journey into AI: How I Passed Microsoft’s AI-900 and Began My AI Path | Syed Ali Turab | [Read More](https://medium.com/p/8c3ff289dbcf) |
-| Mon, 28 Apr 2025 22:26:20 GMT | The Rise of Ransomware as a Service and EDR Killers - A New Era of Cyber Threats | Avnishyam | [Read More](https://medium.com/p/8fd5bc1cf54d) |
-| Mon, 28 Apr 2025 22:25:37 GMT | Foundation-Sec-8B: An Open-Source LLM for Cybersecurity | Omar Santos | [Read More](https://medium.com/p/093a32531c59) |
-| Mon, 28 Apr 2025 22:16:35 GMT | Building and Operating an Effective SOC: A Step-by-Step Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/3616a9fa2dc0) |
-| Mon, 28 Apr 2025 22:15:56 GMT | SAP NetWeaver CVE-2025–31324 Lab setup | Anil Yellamati | [Read More](https://medium.com/p/192f390c0493) |
-| Mon, 28 Apr 2025 22:02:37 GMT | Am I Seeing Myself, or Just Who I Survived? | JQ Starling | [Read More](https://medium.com/p/d1477625d990) |
-| Mon, 28 Apr 2025 21:54:28 GMT | Malware Analysis network lab setup part 1 nftables | Ruben | [Read More](https://medium.com/p/ff43d5e302e4) |
-| Mon, 28 Apr 2025 21:47:09 GMT | SOC262 — ScreenConnect Authentication Bypass Exploitation Detected (CVE-2024–1709) | Dh | [Read More](https://medium.com/p/671b2ae58955) |
