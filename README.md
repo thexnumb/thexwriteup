@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 16:46:23 GMT | How I Exploited an elFinder Vulnerability on Lookup | Stoic_Gang | [Read More](https://medium.com/p/d34d9a01e0a2) |
+| Tue, 29 Apr 2025 16:42:09 GMT | Building a Phishing URL Detection API with Machine Learning and Flask | Kyoungmin Roh | [Read More](https://medium.com/p/9f2ae7e4af59) |
+| Tue, 29 Apr 2025 16:39:33 GMT | Anatomy of a Threat — What Modern Cyber Attacks Really Look Like | Alexandrankwopara | [Read More](https://medium.com/p/31d5069bd35f) |
+| Tue, 29 Apr 2025 16:37:55 GMT | FLOXIF: Malware Analysis | Chase Dancer | [Read More](https://medium.com/p/6ba05c1662b0) |
+| Tue, 29 Apr 2025 16:34:34 GMT | Top Windows Commands for Penetration Tester | Victor Aaron Winnercoz | [Read More](https://medium.com/p/bc7394df5c17) |
+| Tue, 29 Apr 2025 16:32:42 GMT | IDS Fundamentals - TryHackMe Walthrough | Cyber.Bae | [Read More](https://medium.com/p/b72a63de1c78) |
+| Tue, 29 Apr 2025 16:31:16 GMT | What to Do If You Get Hit by Ransomware: A Simple Guide Based on the CISA Response Checklist | Hoplon Infosec | [Read More](https://medium.com/p/141d9384cce8) |
+| Tue, 29 Apr 2025 16:26:10 GMT | Auto Block Website Ping Attack: Secure Your Site from Continuous Floods | SafeAeon Inc. | [Read More](https://medium.com/p/4168f06ba2a9) |
+| Tue, 29 Apr 2025 16:26:03 GMT | Anonymous Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/a1363c0c85f6) |
+| Tue, 29 Apr 2025 16:24:14 GMT | From Skies to Screens | Niharika Dalal | [Read More](https://medium.com/p/4fd940707b88) |
+| Tue, 29 Apr 2025 16:23:39 GMT | This is What I’d Tell Every Junior Cybersecurity Engineer | Ryan G. Cox | [Read More](https://medium.com/p/a1e0cf5ddaef) |
+| Tue, 29 Apr 2025 16:21:54 GMT | When Your Cipher Suite Breaks Everything: Compatibility Nightmares in Modern Infrastructure | Saif Ali | [Read More](https://medium.com/p/d50759563969) |
+| Tue, 29 Apr 2025 16:17:51 GMT | Data Leakage Protection: Safeguard Your Business in the Digital Era | SafeAeon Inc. | [Read More](https://medium.com/p/53ae3f2f3aeb) |
 | Tue, 29 Apr 2025 16:11:26 GMT | A Safer & Smarter Home: How Josh.ai Powers Self-Monitored Security | Josh | [Read More](https://medium.com/p/6a9e2a0df94b) |
 | Tue, 29 Apr 2025 16:09:27 GMT | Next.js Güvenlik Alarmı: CVE-2025–29927 ve Snyk ile Kendini Koru! | Emre Ramazanoğlu | [Read More](https://medium.com/p/60f68d6fb461) |
 | Tue, 29 Apr 2025 16:08:57 GMT | Review & How to Prepare for the eLearnSecurity Certified Incident Responder (eCIR) Exam | Omar_Amir | [Read More](https://medium.com/p/be8ad9a89cdd) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 12:14:19 GMT | Unveiling the Shadows: Solana’s Transparency Crisis and the Case for Security by Design | Khaythefirst | [Read More](https://medium.com/p/1e11abdeb733) |
 | Tue, 29 Apr 2025 12:12:19 GMT | Integrating ISO 27001 with AI Governance Building Trust in Intelligent Systems | Azpirantz Technologies | [Read More](https://medium.com/p/1b5e78130f56) |
 | Tue, 29 Apr 2025 12:06:23 GMT | ResolverRAT: A Rising Threat to Healthcare and Pharmaceutical Sectors | Technijian | [Read More](https://medium.com/p/992fe92c2f6c) |
-| Tue, 29 Apr 2025 12:06:22 GMT | Managing Encryption Keys in GCP using Cloud HSM | @jacob_sec | [Read More](https://medium.com/p/3d0db1b52fb1) |
-| Tue, 29 Apr 2025 12:05:59 GMT | What Happens When You Request a Web Page? | Zoningxtr | [Read More](https://medium.com/p/5e382e05d89f) |
-| Tue, 29 Apr 2025 12:02:54 GMT | Reverse Engineering AWS with Terraform Import & Terraformer: A Practical Guide | Sonu Chauhan | [Read More](https://medium.com/p/5f593d77b3a8) |
-| Tue, 29 Apr 2025 12:02:49 GMT | How learning to be courageously vulnerable can make you better at your job and relationships. | Gregory Q. Jenkins | [Read More](https://medium.com/p/df9c7ea0305d) |
-| Tue, 29 Apr 2025 11:59:52 GMT | What is HTML Safe Character Encoding? | Zoningxtr | [Read More](https://medium.com/p/54a687fa8949) |
-| Tue, 29 Apr 2025 11:59:00 GMT | Onions, Cinnamon Buns, and other peelable things | Felicia Carrara | [Read More](https://medium.com/p/05bf84c7c910) |
-| Tue, 29 Apr 2025 11:55:33 GMT | Funding Uncertainty at MITRE: Implications for Global Cyber Security and the Future of… | Omar Alhendi | [Read More](https://medium.com/p/ec3fd1e81587) |
-| Tue, 29 Apr 2025 11:53:01 GMT | False Positive, True Leak: The Hidden Risks of Using the Public Version of Any.run | Ata Erdemir | [Read More](https://medium.com/p/5985b521ac7b) |
-| Tue, 29 Apr 2025 11:52:29 GMT | Kali Linux: The Ultimate Toolkit for Ethical Hackers | Oscptraining | [Read More](https://medium.com/p/50f4c7fbaf5c) |
-| Tue, 29 Apr 2025 11:35:23 GMT | HackTheBox Challenge: Nibbles — Using Metasploit for Privilege Escalation | adidhack | [Read More](https://medium.com/p/3f6b9e874d9e) |
-| Tue, 29 Apr 2025 11:34:50 GMT | Cybersecurity Training: Online or In-Person — Which Is Right for You? | Educ4te | [Read More](https://medium.com/p/3ceaac86843c) |
-| Tue, 29 Apr 2025 11:30:07 GMT | Tempest - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/6437b2ebf995) |
-| Tue, 29 Apr 2025 11:29:34 GMT | Elevate Your Guest Experience with Century Solutions Group | Century Solutions Group | [Read More](https://medium.com/p/407ea869f22d) |
