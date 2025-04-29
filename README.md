@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 04:18:59 GMT | Hunting CVEs in IoT Devices: A Wi-Fi Extender Walkthrough | David Yi | [Read More](https://medium.com/p/ea09b0afd90d) |
+| Tue, 29 Apr 2025 04:12:13 GMT | Defining Modern IT Infrastructure: The Evolving Landscape | Rick Hightower | [Read More](https://medium.com/p/e1862494f344) |
+| Tue, 29 Apr 2025 04:09:26 GMT | Understanding the SOCI Act: What It Means for Australian Businesses | cyber ethos | [Read More](https://medium.com/p/693c5ad1ff87) |
+| Tue, 29 Apr 2025 04:07:45 GMT | Why I choose Cybersecurity: Finding My Path as a Data Analyst | Asri Cahyani | [Read More](https://medium.com/p/238ebc0d951a) |
+| Tue, 29 Apr 2025 04:06:55 GMT | Who “owns” the CVE List? | Saber You | [Read More](https://medium.com/p/3e9529968ec3) |
+| Tue, 29 Apr 2025 04:05:03 GMT | Master Computer Networking for Hackers — All in One Shot! | D3athCod3 | [Read More](https://medium.com/p/c7d9ad85274f) |
+| Tue, 29 Apr 2025 03:55:50 GMT | Why Advanced VPN Features Are Essential In 2023 | Melvin Erickson | [Read More](https://medium.com/p/d868f279bc5c) |
+| Tue, 29 Apr 2025 03:55:35 GMT | Preparing for DefCon? | YaquisTech | [Read More](https://medium.com/p/08c969e6303c) |
+| Tue, 29 Apr 2025 03:48:34 GMT | The Future of Work in the Age of AI: Why the Rise of the IT/AI Business Consultant May Save Us All | Michael Phillips | [Read More](https://medium.com/p/8621b63c97b1) |
 | Tue, 29 Apr 2025 03:42:35 GMT | IGNITE— TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/ff309bc0c326) |
 | Tue, 29 Apr 2025 03:33:12 GMT | ThreatCrowd Attack Surface Recon | AbhirupKonwar | [Read More](https://medium.com/p/632252cbbafa) |
 | Tue, 29 Apr 2025 03:18:01 GMT | HOW TACACS+ AND RADIUS HELP PROTECT OUR NETWORK. | Jczeeshyamalan | [Read More](https://medium.com/p/7ac17b32907b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 19:25:32 GMT | Key Points on the NIST 800–171 Compliance Checklist | Akshay Chauhan | [Read More](https://medium.com/p/7e3eaeca6039) |
 | Mon, 28 Apr 2025 19:23:27 GMT | Strengthening Cybersecurity: Why People Are the Key Factor | Binitha John | [Read More](https://medium.com/p/bc0d34962d7a) |
 | Mon, 28 Apr 2025 19:21:16 GMT | The Benefits of Installing Automatic Gates and Access Control Systems for Your Home or Business | Rasoul Esfaharin | [Read More](https://medium.com/p/68e6fd0a5630) |
-| Mon, 28 Apr 2025 19:19:44 GMT | Mobile Device Management: The Key to a Secure Mobile Workforce | Akshay Chauhan | [Read More](https://medium.com/p/d21ba6285036) |
-| Mon, 28 Apr 2025 19:13:36 GMT | How to Become an Ethical Hacker (and Build a Career) | Md Shoyeb Hossain | [Read More](https://medium.com/p/647739f9ae20) |
-| Mon, 28 Apr 2025 19:12:40 GMT | Why 4 out of 5 Software Products Die | PanX Project | [Read More](https://medium.com/p/34ecdcee44a8) |
-| Mon, 28 Apr 2025 19:07:47 GMT | Web Uygulamalarında Sessiz Tehditler: SSTI ve CSTI | Ibrahim Yılmaz | [Read More](https://medium.com/p/058b8fc8e138) |
-| Mon, 28 Apr 2025 18:56:23 GMT | Day 13: Visible error-based SQL injection — Zero to Hero Blind Injection — Portswigger | RayofHope | [Read More](https://medium.com/p/3da2241a1672) |
-| Mon, 28 Apr 2025 18:50:37 GMT | VeriSource Data Breach Impacts 4 Million People | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/fe05cce5aac4) |
-| Mon, 28 Apr 2025 18:50:33 GMT | Server-Side Template Injection (SSTI) ve Client-Side Template Injection (CSTI) Zaafiyetleri | Fatih Erdem | [Read More](https://medium.com/p/bedfe002bc75) |
-| Mon, 28 Apr 2025 18:45:39 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 43 | Cyber Strategy Institute | [Read More](https://medium.com/p/2a10374be9c5) |
-| Mon, 28 Apr 2025 18:33:30 GMT | Overpass — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/f93a747db630) |
