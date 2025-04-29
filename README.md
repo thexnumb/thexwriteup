@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 21:32:13 GMT | Linux Command Line Kali, Penetration Tester’s Main Weapon | Jafar Umarassadulloh | [Read More](https://medium.com/p/ea872f6a9967) |
+| Tue, 29 Apr 2025 21:25:12 GMT | MacOS in the Crosshairs: How Crypto Malware is Expanding the Cyber Battlefield | Chetan Seripally | [Read More](https://medium.com/p/90344ca0ca8f) |
+| Tue, 29 Apr 2025 21:24:12 GMT | TryHackMe — Snort Challenge | Shamar Isaac | [Read More](https://medium.com/p/ed335f4c66e2) |
+| Tue, 29 Apr 2025 21:21:15 GMT | Breaking Into Cybersecurity with Brittney’s Bytes: From GRC to Red and Blue Teaming | Brittney Ginther | [Read More](https://medium.com/p/17946efaeabd) |
+| Tue, 29 Apr 2025 21:20:28 GMT | Size Matters! XKCD Was Right and The 2025 Password Table Again Proves It | Saropa Contacts News | [Read More](https://medium.com/p/6c80f4bb3e18) |
+| Tue, 29 Apr 2025 21:19:59 GMT | I Accidentally Exposed AWS Keys. What Happened Next Was a Masterclass in Cloud Persistence | Bassel Afrem | [Read More](https://medium.com/p/8a5154e4d31f) |
 | Tue, 29 Apr 2025 20:58:18 GMT | Securing Multisig Transactions on Solana: Addressing Infrastructure Vulnerabilities in the Squads… | Khaythefirst | [Read More](https://medium.com/p/74c06f5dac09) |
 | Tue, 29 Apr 2025 20:56:45 GMT | The Max Headroom Hack: The Strangest TV Hijacking in History | Jacob Ruhl | [Read More](https://medium.com/p/1eb19438daba) |
 | Tue, 29 Apr 2025 20:55:19 GMT | When Security Backfires: Why Wildcard SSL and DNSSEC Aren’t Always the Right Move | Ahmed AbdElmaqsoud | [Read More](https://medium.com/p/a70c700da5a3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 16:01:06 GMT | What Is LLM — Large Language Model? | Emerline | [Read More](https://medium.com/p/aa0f0e5c3bff) |
 | Tue, 29 Apr 2025 16:00:04 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | ImranTheExploitHunter | [Read More](https://medium.com/p/8e6b14c01725) |
 | Tue, 29 Apr 2025 15:59:37 GMT | Host & Network Penetration Testing: Exploitation CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/53b328b3f85a) |
-| Tue, 29 Apr 2025 15:57:49 GMT | 1 Click Account Takeover - XSS - CORS Misconfiguration - JWT Forgery | Raymond Van Wart | [Read More](https://medium.com/p/0cf73a28e236) |
-| Tue, 29 Apr 2025 15:57:29 GMT | Quantum Computers vs. Bitcoin: Is Your Crypto Doomed? | Robin Bucciarelli | [Read More](https://medium.com/p/8ca0368001ea) |
-| Tue, 29 Apr 2025 15:56:10 GMT | Ransomware-as-a-Service (RaaS): The Dark Industry Powering Cybercrime | Madhavaraman | [Read More](https://medium.com/p/446473b3a3b3) |
-| Tue, 29 Apr 2025 15:55:44 GMT | Reflection on Chapter 3: A TOP-LEVEL VIEW OF COMPUTER FUNCTION AND INTERCONNECTION | Azfar | [Read More](https://medium.com/p/a477b3005d15) |
-| Tue, 29 Apr 2025 15:55:00 GMT | Setting Up a Free SOC Lab with the Wazuh Cloud Trial: A Simple Guide | Farhan Beg | [Read More](https://medium.com/p/78860b35cb98) |
-| Tue, 29 Apr 2025 15:52:32 GMT | Lab 21 — Using Netstat command to view networking information | Hassen Hannachi | [Read More](https://medium.com/p/cdc2939a1052) |
