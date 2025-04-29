@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 10:44:38 GMT | Evolution of Security Guard Services | United Guard Force India | [Read More](https://medium.com/p/370c2e805681) |
+| Tue, 29 Apr 2025 10:40:25 GMT | Choosing the Right Security Guard Service | United Guard Force India | [Read More](https://medium.com/p/92b1d596806a) |
+| Tue, 29 Apr 2025 10:36:39 GMT | Protecting AI’s Secrets | Taylan İrak | [Read More](https://medium.com/p/8be38a95ff2e) |
+| Tue, 29 Apr 2025 10:35:20 GMT | Introduction to Web Security: The basics every developer should master | Rajan Verma | [Read More](https://medium.com/p/1c0193aecca6) |
+| Tue, 29 Apr 2025 10:30:31 GMT | How Does the Certified Ethical Hacking Foundation Kickstart Your Cybersecurity Career? | sneha gaikwad | [Read More](https://medium.com/p/c426664eed5d) |
+| Tue, 29 Apr 2025 10:29:14 GMT | Why Being Vulnerable is the Secret to Stronger Friendships | Imogen Hall | [Read More](https://medium.com/p/5db199ff3420) |
+| Tue, 29 Apr 2025 10:27:40 GMT | How to Choose the Best Alarm Monitoring in Dallas, TX | Cenathanjoy_Official | [Read More](https://medium.com/p/4b2eb009c933) |
 | Tue, 29 Apr 2025 10:21:14 GMT | VPN for Online Safety Tips Using a Virtual Private Network (VPN) is an effective way to enhance… | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/df4639351882) |
+| Tue, 29 Apr 2025 10:20:42 GMT | “Your heartbeat sounds like Sasquatch's feet.” | Anthony Ventarola | [Read More](https://medium.com/p/cf3f608d5556) |
 | Tue, 29 Apr 2025 10:17:36 GMT | Burp Lab: Exploiting XSS to bypass CSRF(detailed explanation and walkthrough) | J.Pinkmann | [Read More](https://medium.com/p/961b0bd538a7) |
 | Tue, 29 Apr 2025 10:16:51 GMT | Secrets of the Cyber Underworld (From These Books) | Ahmad Javed | [Read More](https://medium.com/p/a1cc052971da) |
 | Tue, 29 Apr 2025 09:54:43 GMT | Master’s in Cyber Security in the USA: Top Universities, Cost, Job Prospects & More | Mdoec Ahmedabad | [Read More](https://medium.com/p/53492b94de6b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 05:04:09 GMT | Website Security For Small Business Your Website is Live, but Is It Safe? | KaalSec | [Read More](https://medium.com/p/e2de2c95c3d5) |
 | Tue, 29 Apr 2025 04:57:49 GMT | Container Security Market Size, Share, Key Drivers, Growth Opportunities and Global Trends 2032 | Itocharlene | [Read More](https://medium.com/p/28ae821947b2) |
 | Tue, 29 Apr 2025 04:44:02 GMT | How AI-Powered CCTV Systems Adapt to Evolving Security Threats | Ask IT Support | [Read More](https://medium.com/p/385a9e1a4015) |
-| Tue, 29 Apr 2025 04:39:23 GMT | Viruses, Worms, and Trojans Explained: What Makes Each One Unique? | SignMyCode | [Read More](https://medium.com/p/1f50867b2022) |
-| Tue, 29 Apr 2025 04:32:36 GMT | CRYPTANALYSIS: ART OF BREAKING CODES | The Hackers Meetup | [Read More](https://medium.com/p/f737a1633e1c) |
-| Tue, 29 Apr 2025 04:18:59 GMT | Hunting CVEs in IoT Devices: A Wi-Fi Extender Walkthrough | David Yi | [Read More](https://medium.com/p/ea09b0afd90d) |
-| Tue, 29 Apr 2025 04:17:12 GMT | VPC Traffic Mirroring Architectures: Unmasking Network Blind Spots to Drive Business Growth | Servifyspheresolutions | [Read More](https://medium.com/p/eb6ac514bcd0) |
-| Tue, 29 Apr 2025 04:12:13 GMT | Defining Modern IT Infrastructure: The Evolving Landscape | Rick Hightower | [Read More](https://medium.com/p/e1862494f344) |
-| Tue, 29 Apr 2025 04:09:26 GMT | Understanding the SOCI Act: What It Means for Australian Businesses | cyber ethos | [Read More](https://medium.com/p/693c5ad1ff87) |
-| Tue, 29 Apr 2025 04:07:45 GMT | Why I choose Cybersecurity: Finding My Path as a Data Analyst | Asri Cahyani | [Read More](https://medium.com/p/238ebc0d951a) |
-| Tue, 29 Apr 2025 04:06:55 GMT | Who “owns” the CVE List? | Saber You | [Read More](https://medium.com/p/3e9529968ec3) |
