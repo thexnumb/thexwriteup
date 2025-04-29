@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 22:54:18 GMT | Data Security: Invest Before It’s Too Late | Faraz Ishaq | [Read More](https://medium.com/p/6f6415b3b25c) |
+| Tue, 29 Apr 2025 22:46:27 GMT | NVIDIA and IBM’s Contribution to Agentic AI for Cybersecurity with Increased Technology | Derrick Johnson | [Read More](https://medium.com/p/023185dc1a19) |
+| Tue, 29 Apr 2025 22:43:17 GMT | QRadar AMI Installation and Network Traffic Monitoring Configuration on AWS | Karimov | [Read More](https://medium.com/p/780248528cdb) |
+| Tue, 29 Apr 2025 22:38:36 GMT | CTF Pyrat - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/4854ae8514f8) |
+| Tue, 29 Apr 2025 22:36:34 GMT | COOL CLIMATE, WARM TENSIONS: NATO, RESOURCE SECURITY, & STRATEGIC FRAGMENTATION IN THE ARCTIC | Jonathan Petsche | [Read More](https://medium.com/p/7151a30a0395) |
 | Tue, 29 Apr 2025 22:17:57 GMT | Behind the Firewall: Real-World Security Risks in .NET 9 Web APIs | Adem KORKMAZ | [Read More](https://medium.com/p/1cf90c6ad3e6) |
 | Tue, 29 Apr 2025 22:17:34 GMT | Zero-Downtime & Secure Kubernetes Deployments on EKS with Argo Rollouts and Vault — A Real-World… | Abdihakim said | [Read More](https://medium.com/p/3af0a1d7ed31) |
 | Tue, 29 Apr 2025 22:16:34 GMT | A Comprehensive Guide to Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81431da5a21b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 16:46:23 GMT | How I Exploited an elFinder Vulnerability on Lookup | Stoic_Gang | [Read More](https://medium.com/p/d34d9a01e0a2) |
 | Tue, 29 Apr 2025 16:42:09 GMT | Building a Phishing URL Detection API with Machine Learning and Flask | Kyoungmin Roh | [Read More](https://medium.com/p/9f2ae7e4af59) |
 | Tue, 29 Apr 2025 16:39:33 GMT | Anatomy of a Threat — What Modern Cyber Attacks Really Look Like | Alexandrankwopara | [Read More](https://medium.com/p/31d5069bd35f) |
-| Tue, 29 Apr 2025 16:37:55 GMT | FLOXIF: Malware Analysis | Chase Dancer | [Read More](https://medium.com/p/6ba05c1662b0) |
-| Tue, 29 Apr 2025 16:34:34 GMT | Top Windows Commands for Penetration Tester | Victor Aaron Winnercoz | [Read More](https://medium.com/p/bc7394df5c17) |
-| Tue, 29 Apr 2025 16:32:42 GMT | IDS Fundamentals - TryHackMe Walthrough | Cyber.Bae | [Read More](https://medium.com/p/b72a63de1c78) |
-| Tue, 29 Apr 2025 16:31:16 GMT | What to Do If You Get Hit by Ransomware: A Simple Guide Based on the CISA Response Checklist | Hoplon Infosec | [Read More](https://medium.com/p/141d9384cce8) |
-| Tue, 29 Apr 2025 16:26:10 GMT | Auto Block Website Ping Attack: Secure Your Site from Continuous Floods | SafeAeon Inc. | [Read More](https://medium.com/p/4168f06ba2a9) |
