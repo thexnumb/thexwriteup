@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 19:16:06 GMT | Integration security challenges in AI-assisted coding tools | Zahwah Jameel | [Read More](https://medium.com/p/219dcbd90114) |
+| Tue, 29 Apr 2025 19:06:44 GMT | “Professional Hacker” Email Scam: Don’t Fall for This Nonsense | Brendan Smith | [Read More](https://medium.com/p/d57a6f0fcfde) |
+| Tue, 29 Apr 2025 19:02:48 GMT | 7 Critical Linux Logs You Should Review After a Security Incident | Faruk Ahmed | [Read More](https://medium.com/p/0adaa12906af) |
+| Tue, 29 Apr 2025 18:57:33 GMT | SOC132 — EventID 68 — Same Malicious File Found on Multiple Sources | Mateo Pappa | [Read More](https://medium.com/p/c57c0b1c18dc) |
+| Tue, 29 Apr 2025 18:56:49 GMT | Vulnhub — Venom | APS88 | [Read More](https://medium.com/p/1448cb8e7d4e) |
+| Tue, 29 Apr 2025 18:56:08 GMT | Week 1: Deploying a Secure LEMP Stack on Linux (Ubuntu 24.04) | Gkimari | [Read More](https://medium.com/p/2f4ab6647266) |
+| Tue, 29 Apr 2025 18:52:05 GMT | $450 Bounty: Stole Facebook OAuth Access Tokens via Phabricator | Monika sharma | [Read More](https://medium.com/p/4c4468268302) |
+| Tue, 29 Apr 2025 18:50:34 GMT |  | anonymous | [Read More](https://medium.com/p/3e90091f31a2) |
+| Tue, 29 Apr 2025 18:48:02 GMT | Logos Don’t Stop Scams: The Fight for Caller Identity Integrity | Numeracle | [Read More](https://medium.com/p/f96caa73127c) |
 | Tue, 29 Apr 2025 18:38:16 GMT | TheHarvester ile OSINT: Sızma Testinde Bilgi Toplama Rehberi | Isaergisi | [Read More](https://medium.com/p/97315220b7c9) |
 | Tue, 29 Apr 2025 18:34:00 GMT | TryHackMe - Signature Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/d5e72843a055) |
 | Tue, 29 Apr 2025 18:33:28 GMT | Building a Secure Secrets API + SSRF Lab | josegpac | [Read More](https://medium.com/p/7b31076096dc) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 14:50:21 GMT | The NIS2 Directive: Securing Humanity’s Digital Future | Ricardo Newman | [Read More](https://medium.com/p/c355f156bba2) |
 | Tue, 29 Apr 2025 14:46:48 GMT | How to Leverage CVEs and CVSS Scores for Stronger Cyber Defense | Saber You | [Read More](https://medium.com/p/8340a7fe6a47) |
 | Tue, 29 Apr 2025 14:46:11 GMT | How to Protect Your Node.js App from Malicious .PPT Files | Cloudmersive | [Read More](https://medium.com/p/de0b5eeba0bf) |
-| Tue, 29 Apr 2025 14:40:51 GMT | HTB Pandora Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/971206b77c43) |
-| Tue, 29 Apr 2025 14:39:05 GMT | ️ Why Your Website Security Posture Matters: A Wake-Up Call from Kalongo’s Designer Shoe Store in… | eL Njas!™ | [Read More](https://medium.com/p/f6c58eae2161) |
-| Tue, 29 Apr 2025 14:37:29 GMT | Securely Inject Secrets into a Kubernetes Deployment (The Right Way) | Chukwuebuka Okoli | [Read More](https://medium.com/p/1219550ca679) |
-| Tue, 29 Apr 2025 14:34:22 GMT | Task 2 — Passive vs Active Recon | Jesvin Simon Saji | [Read More](https://medium.com/p/f15365a0b8c8) |
-| Tue, 29 Apr 2025 14:31:25 GMT | Deepfakes: AI That Lies Right to Your Face — Here’s How to Catch It | Magina | [Read More](https://medium.com/p/8d1cf4971db1) |
-| Tue, 29 Apr 2025 14:28:21 GMT | Accessing a Private Internal Web Application via SSH SOCKS Proxy (From VPS to Local Machine) | Kokurate | [Read More](https://medium.com/p/c0adf749c7b7) |
-| Tue, 29 Apr 2025 14:25:09 GMT | How to: GRC Supplier Management | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/bd8a636919dd) |
-| Tue, 29 Apr 2025 14:21:47 GMT | NETWORKING CORE PROTOCOLS-- CYBER SECURITY 101 -- TRYHACKME | Surbhi_choudhary | [Read More](https://medium.com/p/fb41194f0301) |
-| Tue, 29 Apr 2025 14:18:59 GMT | Vibe Coding Meets Resilient Software: Securing Speed in the Age of AI | Takafumi Endo | [Read More](https://medium.com/p/8248864f4805) |
