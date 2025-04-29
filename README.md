@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 18:38:16 GMT | TheHarvester ile OSINT: Sızma Testinde Bilgi Toplama Rehberi | Isaergisi | [Read More](https://medium.com/p/97315220b7c9) |
+| Tue, 29 Apr 2025 18:34:00 GMT | TryHackMe - Signature Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/d5e72843a055) |
+| Tue, 29 Apr 2025 18:33:28 GMT | Building a Secure Secrets API + SSRF Lab | josegpac | [Read More](https://medium.com/p/7b31076096dc) |
+| Tue, 29 Apr 2025 18:32:48 GMT | Microsoft Security Solutions: Strengthening Your Organization with Penetration Testing and Red Team… | Charter Global | [Read More](https://medium.com/p/ea8bddfdb202) |
+| Tue, 29 Apr 2025 18:30:00 GMT | How I Escalated My Privileges to System Administrator on Redacted Platform by Tweaking a Single… | ASC Lages | [Read More](https://medium.com/p/7ac009d54683) |
+| Tue, 29 Apr 2025 18:28:08 GMT | Current Technologies Powering the Modern World in 2025 | Happyk | [Read More](https://medium.com/p/20528777b7f0) |
+| Tue, 29 Apr 2025 18:15:50 GMT | Sustainability by Design: The Double Role of IT in a Changing World | Ahmed Soliman | [Read More](https://medium.com/p/24d478661a9f) |
 | Tue, 29 Apr 2025 18:13:30 GMT | Security Operations Center (SOC) Temelleri — 13 | Ali Ekber KARA | [Read More](https://medium.com/p/f72630789e57) |
 | Tue, 29 Apr 2025 18:12:01 GMT | From Logs to ATO - How I Hacked IBM | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/52552d95dacf) |
 | Tue, 29 Apr 2025 18:11:30 GMT | How to Scan .XML Files for Threats in Java | Cloudmersive | [Read More](https://medium.com/p/67db187ca54e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 14:25:09 GMT | How to: GRC Supplier Management | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/bd8a636919dd) |
 | Tue, 29 Apr 2025 14:21:47 GMT | NETWORKING CORE PROTOCOLS-- CYBER SECURITY 101 -- TRYHACKME | Surbhi_choudhary | [Read More](https://medium.com/p/fb41194f0301) |
 | Tue, 29 Apr 2025 14:18:59 GMT | Vibe Coding Meets Resilient Software: Securing Speed in the Age of AI | Takafumi Endo | [Read More](https://medium.com/p/8248864f4805) |
-| Tue, 29 Apr 2025 14:17:49 GMT | Unraveling WEP: A Comprehensive Guide to Cracking Legacy Wireless Security | The Aegis Security | [Read More](https://medium.com/p/f8916a90eb2f) |
-| Tue, 29 Apr 2025 14:14:17 GMT | Overpass 2 — Hacked Walkthrough | Reek Elderblod | [Read More](https://medium.com/p/40c96d21c69b) |
-| Tue, 29 Apr 2025 14:01:59 GMT | What is Secret Management? | Taona | [Read More](https://medium.com/p/bf2e01e0c847) |
-| Tue, 29 Apr 2025 14:01:31 GMT | This One Security Mistake Could Expose Your Entire Backend to Hackers! | The Code Alchemist | [Read More](https://medium.com/p/b10d0e7b8e04) |
-| Tue, 29 Apr 2025 14:00:54 GMT | Cyber Briefing: 2025.04.29 | CyberMaterial | [Read More](https://medium.com/p/fa8539033137) |
-| Tue, 29 Apr 2025 13:54:49 GMT | What is RSA And AES Encryption? | Samxia99 | [Read More](https://medium.com/p/9bb040e6da8e) |
-| Tue, 29 Apr 2025 13:45:42 GMT | Lab Report#8 — Credentials in Object Properties | Samet Koca | [Read More](https://medium.com/p/fc8d1f0867b0) |
