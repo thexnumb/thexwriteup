@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 14:14:17 GMT | Overpass 2 — Hacked Walkthrough | Reek Elderblod | [Read More](https://medium.com/p/40c96d21c69b) |
+| Tue, 29 Apr 2025 14:01:59 GMT | What is Secret Management? | Taona | [Read More](https://medium.com/p/bf2e01e0c847) |
+| Tue, 29 Apr 2025 14:00:54 GMT | Cyber Briefing: 2025.04.29 | CyberMaterial | [Read More](https://medium.com/p/fa8539033137) |
+| Tue, 29 Apr 2025 13:54:49 GMT | What is RSA And AES Encryption? | Samxia99 | [Read More](https://medium.com/p/9bb040e6da8e) |
+| Tue, 29 Apr 2025 13:45:42 GMT | Lab Report#8 — Credentials in Object Properties | Samet Koca | [Read More](https://medium.com/p/fc8d1f0867b0) |
+| Tue, 29 Apr 2025 13:43:20 GMT | AI TRiSM by Gartner: Managing AI Trust, Risk, and Security | Tal Eliyahu | [Read More](https://medium.com/p/b7672042f54e) |
+| Tue, 29 Apr 2025 13:41:25 GMT | Keeping Secrets Secret: Why On-Premise AI Like Whisper is Crucial for Your VoIP Security | Office | [Read More](https://medium.com/p/59b3e2f31c86) |
+| Tue, 29 Apr 2025 13:38:10 GMT | Attack Campaign Exploits Exposed Git Repositories for Sensitive Data | current.cybersecurity | [Read More](https://medium.com/p/0d6ef54d2b49) |
+| Tue, 29 Apr 2025 13:37:43 GMT | Top 1 Trading Platform You Can Trust: Why Everyone’s Switching to Ccreater.top in 2025 | Phoebe Jenkins | [Read More](https://medium.com/p/07e8aacb3d83) |
+| Tue, 29 Apr 2025 13:35:00 GMT | if i don’t do it, no one else will | chérel | [Read More](https://medium.com/p/2c4fd533e2c6) |
+| Tue, 29 Apr 2025 13:33:22 GMT | [EP. 1] Feature or Flaw — Weak Password Policy | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/0f98307ceb08) |
+| Tue, 29 Apr 2025 13:32:45 GMT | Evolutionary Cyber Defense: Building Security That Learns, Shifts, and Survives | Jesse Scott | [Read More](https://medium.com/p/b116453aac81) |
+| Tue, 29 Apr 2025 13:30:29 GMT | Cybersecurity Home Lab — Phase 3: Create & Connect All Lab VMs | Khaled Alkhatib | [Read More](https://medium.com/p/542f1c56bb0e) |
+| Tue, 29 Apr 2025 13:24:44 GMT | Ever get a job offer that seemed too good to be true? It probably was.​ | Wes Young | [Read More](https://medium.com/p/90f4a0a4178d) |
 | Tue, 29 Apr 2025 13:10:17 GMT | What the Heart Really Wants in Love | Bright Flow | [Read More](https://medium.com/p/03054518c2a1) |
 | Tue, 29 Apr 2025 13:09:47 GMT | Cybersecurity: Fortifying Elenktes Audit Aggregators’ Foundation | Elenktes | [Read More](https://medium.com/p/a99ef1e7ca62) |
 | Tue, 29 Apr 2025 13:06:02 GMT | Inside the Shadows: How Chinese Triad Fronts Fuel Human Trafficking and Exploitation | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/d00127a3c54f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 08:16:28 GMT | Pyrat—TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/1c110a6b9b32) |
 | Tue, 29 Apr 2025 08:07:05 GMT | Where Damages Happens without Bombs | Merezonee | [Read More](https://medium.com/p/2181289f02c4) |
 | Tue, 29 Apr 2025 08:04:26 GMT | Building Privacy-First Platforms: DevOps Strategies for E-commerce and Financial Services | Sonu Chauhan | [Read More](https://medium.com/p/2c40da0c7191) |
-| Tue, 29 Apr 2025 08:01:33 GMT | Your Startup’s Security Shouldn’t Depend on Good Intentions | Oğuzhan Tursun | [Read More](https://medium.com/p/bdf05bd9efad) |
-| Tue, 29 Apr 2025 07:59:48 GMT | $140 Bounty: Full Path Disclosure on ads.twitter.com | Monika sharma | [Read More](https://medium.com/p/bdedd140ac27) |
-| Tue, 29 Apr 2025 07:59:38 GMT | How Hackers Try to Bypass 403 Forbidden Pages | Vipul Sonule | [Read More](https://medium.com/p/239c3f51a674) |
-| Tue, 29 Apr 2025 07:53:23 GMT | Not Just a Ping: How SSRF Opened the Gateway to Internal Secrets | Iski | [Read More](https://medium.com/p/d18eeccd4745) |
-| Tue, 29 Apr 2025 07:53:18 GMT | How to Transition from IT to Cybersecurity: A Roadmap | Ahmad Javed | [Read More](https://medium.com/p/76d828d1d25a) |
-| Tue, 29 Apr 2025 07:49:28 GMT | Security and Authentication in MongoDB (Advanced Level) | Bishal Devkota | [Read More](https://medium.com/p/55587d01867e) |
-| Tue, 29 Apr 2025 07:45:29 GMT | Introduction to HashiCorp Boundary and HashiCorp Vault with AWS | Infralovers GmbH | [Read More](https://medium.com/p/2cf5cc058399) |
-| Tue, 29 Apr 2025 07:44:03 GMT | ION Network Represents Indonesia as One of the Delegates at the 15th ASEAN-JAPAN Information… | ION Network | [Read More](https://medium.com/p/a77160e5b514) |
-| Tue, 29 Apr 2025 07:43:29 GMT | Weaponized Words: How a Trojanized UyghurEdit++ Tool Targeted World Uyghur Congress Leaders | Ismail Tasdelen | [Read More](https://medium.com/p/694cb36fe814) |
-| Tue, 29 Apr 2025 07:40:06 GMT | Cybersecurity Services that Actually Work | bloggers | [Read More](https://medium.com/p/0fb358580ecc) |
-| Tue, 29 Apr 2025 07:39:44 GMT | Discover the Latest Courses at Top Australian Institutes — 2025 Enrolment Open! | AIST | [Read More](https://medium.com/p/305a0970fb09) |
-| Tue, 29 Apr 2025 07:36:36 GMT | Difference Between TweetEraser and TweetDelete: What You Need to Know | Eddy Enoma | [Read More](https://medium.com/p/00b10203b4ba) |
-| Tue, 29 Apr 2025 07:35:49 GMT | CISA Sounds the Alarm: Broadcom and Commvault Flaws Under Active Exploitation! ️ | Ismail Tasdelen | [Read More](https://medium.com/p/67a3c5f7f3dd) |
-| Tue, 29 Apr 2025 07:33:52 GMT | Top Free Proxy Sites for Students in 2025: Bypass Restrictions with Ease | Proxy 302 | [Read More](https://medium.com/p/a0cc161f92e2) |
