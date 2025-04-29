@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 09:18:01 GMT | 10 Reasons Why Spring Boot Security Feels Broken in 2025 (With Code Fixes) | Lovish Kumar | [Read More](https://medium.com/p/945e9b72987e) |
+| Tue, 29 Apr 2025 09:17:50 GMT | How Managed IT Services Safeguard Your Business from Cyber Threats | Encox Services | [Read More](https://medium.com/p/df1dd8ab86f2) |
+| Tue, 29 Apr 2025 09:16:05 GMT | ## Secure Package Installation with npm install — ignore-scripts | Arrow Dan | [Read More](https://medium.com/p/22255c634b87) |
+| Tue, 29 Apr 2025 09:13:40 GMT | ChatGPT Jailbreak — Educational Purpose | Φiriki Intelligence | [Read More](https://medium.com/p/31b196531101) |
+| Tue, 29 Apr 2025 09:09:40 GMT | Writing Is Not Therapy! … But Sometimes It Pretends to Be. | Fela Odi | [Read More](https://medium.com/p/0dab168c29a8) |
+| Tue, 29 Apr 2025 09:01:25 GMT | The Cybersecurity Mistakes That Cost Companies $4.45M in 2025 (Based on Real Breach Data) | Orami | [Read More](https://medium.com/p/af1ccd30f4fa) |
+| Tue, 29 Apr 2025 08:59:45 GMT | How Hackers Crack Your Passwords Using Your Public Info (and How to Stop Them) | Rey Geldof | [Read More](https://medium.com/p/709e471c0a41) |
 | Tue, 29 Apr 2025 08:47:23 GMT | 7 Best Cybersecurity Automation Tools for 2025 | SecureSlate | [Read More](https://medium.com/p/458348489f8f) |
 | Tue, 29 Apr 2025 08:45:36 GMT | OAuth 2.0 for First-Party Applications: Towards Balancing Security and UX. | Vihanga Vithanawasam | [Read More](https://medium.com/p/6205597e7fda) |
 | Tue, 29 Apr 2025 08:42:00 GMT | The Daily Tech Digest: 29 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/147ea6891945) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 02:34:21 GMT | Basic Hygiene Factors: Quality and Security Are Not Features. They Are Foundations. | Saurabh Jain | [Read More](https://medium.com/p/2b1058b8420c) |
 | Tue, 29 Apr 2025 02:31:52 GMT | How a Simple Habit Changed My Life | Saddam Hussein | [Read More](https://medium.com/p/08ccea6095d9) |
 | Tue, 29 Apr 2025 02:26:52 GMT | Your Variable Names Are Killing Your Code — Here’s Why! | Code Crack | [Read More](https://medium.com/p/42abae729088) |
-| Tue, 29 Apr 2025 02:16:46 GMT | API Misconfigurations: The Silent Threat Exposing Sensitive Data | Cyber-AppSec | [Read More](https://medium.com/p/0d6d7eff2da8) |
-| Tue, 29 Apr 2025 02:13:43 GMT | DFIR: An Introduction - THM | Isiah Johnstone | [Read More](https://medium.com/p/75ecb3dbd60c) |
-| Tue, 29 Apr 2025 02:04:26 GMT | Nightfall in Men: What It Is and Why It Happens | Emily Wilson | [Read More](https://medium.com/p/19ca96bb0722) |
-| Tue, 29 Apr 2025 01:54:12 GMT | The Vending Machine That Hacked a Small Business: 2025’s Strangest Cyberattack | Noel | [Read More](https://medium.com/p/b9f74b55736c) |
-| Tue, 29 Apr 2025 01:53:42 GMT | The Fortune Cookie Virus: How a Chinese Takeout Order Nearly Destroyed a Company | Noel | [Read More](https://medium.com/p/81f18e04b9a6) |
-| Tue, 29 Apr 2025 01:53:20 GMT | The Mental Models That Will Make You a Better Security Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/d6fa918256a0) |
-| Tue, 29 Apr 2025 01:52:07 GMT | "Exploring Work-from-Home Opportunities: A Guide to Flexible Careers in 2025" | Pavan | [Read More](https://medium.com/p/27d4f44bce8b) |
