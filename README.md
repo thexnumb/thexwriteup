@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 11:34:50 GMT | Cybersecurity Training: Online or In-Person — Which Is Right for You? | Educ4te | [Read More](https://medium.com/p/3ceaac86843c) |
+| Tue, 29 Apr 2025 11:30:07 GMT | Tempest - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/6437b2ebf995) |
+| Tue, 29 Apr 2025 11:29:34 GMT | Elevate Your Guest Experience with Century Solutions Group | Century Solutions Group | [Read More](https://medium.com/p/407ea869f22d) |
+| Tue, 29 Apr 2025 11:12:03 GMT | Remote Desktop Protocol — Using Client Keyboard Input in Attack Attribution and Profiling | thedigitaldetective | [Read More](https://medium.com/p/94a76f0f4ff4) |
+| Tue, 29 Apr 2025 11:12:00 GMT | How to Secure Your E-Commerce Website from Hackers | Quality Thought | [Read More](https://medium.com/p/6b35b27e7722) |
 | Tue, 29 Apr 2025 11:05:42 GMT | What is the difference between Trend Apex one and Trend vision one in simple terms? | Umme habiba | [Read More](https://medium.com/p/76c27ad0d58f) |
 | Tue, 29 Apr 2025 11:02:09 GMT | F-Droid: The Open-Source App Store Alternative You Should Know About | KEALEN CLAUDE | [Read More](https://medium.com/p/450f593430eb) |
 | Tue, 29 Apr 2025 10:56:34 GMT | Monad Airdrop Guide: the Easiest Way to Unlock your Rewards | Monad | [Read More](https://medium.com/p/3a2bb6b2910d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 05:26:01 GMT | United States IT Spending Market Size & Growth Report 2034 | Aman Bansal | [Read More](https://medium.com/p/796a9794ba87) |
 | Tue, 29 Apr 2025 05:25:44 GMT | 見えない脅威とどう向き合うか ── スペイン・ポルトガル大停電の教訓 | Shige Tanimoto | [Read More](https://medium.com/p/d923501a4258) |
 | Tue, 29 Apr 2025 05:20:56 GMT | GraphQL API hacking Series for Bug Hunters Part 02 | IronGhost | [Read More](https://medium.com/p/837e0bc3be06) |
-| Tue, 29 Apr 2025 05:20:19 GMT | Principles of Security - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/d51e25d96087) |
-| Tue, 29 Apr 2025 05:19:55 GMT | Confronting the Invisible Threat: Lessons from the Spain–Portugal Blackout | Shige Tanimoto | [Read More](https://medium.com/p/d894d497edf1) |
-| Tue, 29 Apr 2025 05:11:57 GMT | Log Ingestion CrowdStrike Falcon Explained Simply | Vijilan | [Read More](https://medium.com/p/3e6f54b93542) |
-| Tue, 29 Apr 2025 05:11:37 GMT | Zero-Trust Architecture (ZTA): A Business Imperative, Not an Option | Faraz Ishaq | [Read More](https://medium.com/p/6c0742fa7855) |
-| Tue, 29 Apr 2025 05:09:57 GMT | Why Investing in Cybersecurity and Compliance Still Isn’t Enough for Data Protection | Jason Sohn | [Read More](https://medium.com/p/a41a60471ef3) |
