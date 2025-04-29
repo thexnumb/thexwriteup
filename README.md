@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 22:17:57 GMT | Behind the Firewall: Real-World Security Risks in .NET 9 Web APIs | Adem KORKMAZ | [Read More](https://medium.com/p/1cf90c6ad3e6) |
+| Tue, 29 Apr 2025 22:17:34 GMT | Zero-Downtime & Secure Kubernetes Deployments on EKS with Argo Rollouts and Vault — A Real-World… | Abdihakim said | [Read More](https://medium.com/p/3af0a1d7ed31) |
 | Tue, 29 Apr 2025 22:16:34 GMT | A Comprehensive Guide to Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81431da5a21b) |
 | Tue, 29 Apr 2025 22:14:20 GMT | My Battle to Regain Control from Spyware | Hogan Torah | [Read More](https://medium.com/p/6727ca8cdcb1) |
 | Tue, 29 Apr 2025 22:03:19 GMT | Towards Building Safe & Secure Agentic AI | Renata R Santos | [Read More](https://medium.com/p/4bac016c3ffe) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 16:32:42 GMT | IDS Fundamentals - TryHackMe Walthrough | Cyber.Bae | [Read More](https://medium.com/p/b72a63de1c78) |
 | Tue, 29 Apr 2025 16:31:16 GMT | What to Do If You Get Hit by Ransomware: A Simple Guide Based on the CISA Response Checklist | Hoplon Infosec | [Read More](https://medium.com/p/141d9384cce8) |
 | Tue, 29 Apr 2025 16:26:10 GMT | Auto Block Website Ping Attack: Secure Your Site from Continuous Floods | SafeAeon Inc. | [Read More](https://medium.com/p/4168f06ba2a9) |
-| Tue, 29 Apr 2025 16:26:03 GMT | Anonymous Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/a1363c0c85f6) |
-| Tue, 29 Apr 2025 16:24:14 GMT | From Skies to Screens | Niharika Dalal | [Read More](https://medium.com/p/4fd940707b88) |
