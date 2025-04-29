@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 01:41:51 GMT | How i Became a Pentester - Como me Tornei um Pentester | Gustavo Hetrich | [Read More](https://medium.com/p/96f5ce3644bb) |
+| Tue, 29 Apr 2025 01:39:12 GMT | What is a Firewall? How It Works to Protect Your Data (Beginner’s Guide) | Pawan Jaiswal | [Read More](https://medium.com/p/fe2262d8aad4) |
+| Tue, 29 Apr 2025 01:28:28 GMT | Tuesday Morning Threat Report: Apr 29, 2025 | Mark Maguire | [Read More](https://medium.com/p/a1df8ae2d7f1) |
+| Tue, 29 Apr 2025 01:26:13 GMT | Password Recovery? More Like Account Delivery Host Header Injection Madness | r00t | [Read More](https://medium.com/p/b0d0eb3a3b6d) |
+| Tue, 29 Apr 2025 01:21:09 GMT | Who is APT29, Russia’s Attributed Hacker Group? | Ant | [Read More](https://medium.com/p/5be71bbc98fc) |
+| Tue, 29 Apr 2025 01:05:28 GMT | The future of Software Bug Mitigation and Will We Ever Solve The Glitches. | Sergey B | [Read More](https://medium.com/p/21626b70203a) |
+| Tue, 29 Apr 2025 01:00:02 GMT | $500,000 to Catch STON.fi Bugs?! Let’s Get Hunting, STONfiers! | MADEOFBLU | [Read More](https://medium.com/p/8e3c2ba6ad55) |
+| Tue, 29 Apr 2025 00:56:04 GMT | Mental Hacking: Unlocking the Full Power of Your Mind | Benjaminmillerdev | [Read More](https://medium.com/p/8e303c62b893) |
+| Tue, 29 Apr 2025 00:55:43 GMT | Accelerated And Secure App Development: No-Code | Franklinr held | [Read More](https://medium.com/p/175651a9a804) |
+| Tue, 29 Apr 2025 00:46:30 GMT | The Fantastic Five: 2025’s Top Infostealer Malware | Brendan Smith | [Read More](https://medium.com/p/12e9598ecb51) |
+| Tue, 29 Apr 2025 00:42:35 GMT | Find .JS files of your bug bounty target(JS FILES RECON) | loyalonlytoday | [Read More](https://medium.com/p/306c3b169bae) |
+| Tue, 29 Apr 2025 00:39:48 GMT | Scan-ish Web Challange | Korea | [Read More](https://medium.com/p/76c5593435fd) |
+| Tue, 29 Apr 2025 00:02:38 GMT | Hack The Box — Machine — Hospital Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/3e4adcdde175) |
+| Mon, 28 Apr 2025 23:40:50 GMT | A random burst of vulnerability. | nini | [Read More](https://medium.com/p/79df3fb77fb2) |
+| Mon, 28 Apr 2025 23:40:46 GMT | Bootloaders, EFI, and Security: Protecting the First Line of Defense | Jesse Corson | [Read More](https://medium.com/p/96449f7b2ed2) |
+| Mon, 28 Apr 2025 23:40:45 GMT | About Me | EvenBaba | [Read More](https://medium.com/p/7f0d1c80559c) |
 | Mon, 28 Apr 2025 23:32:37 GMT | Palo Alto Networks Cloud NGFW for AWS: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/8604728f4c12) |
 | Mon, 28 Apr 2025 23:29:50 GMT | You Can’t ‘Turn On’ Security — with Matthew Rosenquist | Matthew.Rosenquist | [Read More](https://medium.com/p/847e51fba323) |
 | Mon, 28 Apr 2025 23:15:45 GMT | The European Blackout and What It Revealed About Crypto's Fragile Reality | Federico Rodenas | [Read More](https://medium.com/p/88be0cc522b1) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 17:32:47 GMT | Write — Up bullyBox - Linux machine (Intermediate) - | Sergios Serg | [Read More](https://medium.com/p/f51ee73f0384) |
 | Mon, 28 Apr 2025 17:32:37 GMT | Flipper Zero: The Ultimate Hacker’s Swiss Army Knife | The Tech Review | [Read More](https://medium.com/p/ac4cdc44a83b) |
 | Mon, 28 Apr 2025 17:31:47 GMT | Protecting Critical Infrastructure: How Rainbow Secure Defends Against Modern Cyber Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/e25d2b41270c) |
-| Mon, 28 Apr 2025 17:30:35 GMT | The Role of Emotional Intelligence in Modern Security and Public Safety Leadership | Joseph Lozada | [Read More](https://medium.com/p/cd55500d2143) |
-| Mon, 28 Apr 2025 17:29:19 GMT | Why 90% of Go Developers Are Getting Security Wrong (And How You Can Fix It) | The Latency Gambler | [Read More](https://medium.com/p/2eac563e44a1) |
-| Mon, 28 Apr 2025 17:09:44 GMT | Will NATO Expand Even Further? What the Future Holds | Denizgeraslan | [Read More](https://medium.com/p/e5af8a9ea4b3) |
-| Mon, 28 Apr 2025 17:09:26 GMT | Lookup Writeup (TryHackMe Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/1018f2353cb8) |
-| Mon, 28 Apr 2025 17:04:26 GMT | SOC147 — SSH Scan Activity | Cyril Philipp Abajar | [Read More](https://medium.com/p/06917c14996e) |
-| Mon, 28 Apr 2025 17:01:59 GMT | Every Click Leaves a Trace — Reduce Your Risk: Minimize Your Digital Footprint | Karl Buhl | [Read More](https://medium.com/p/f85bcd21aa3a) |
-| Mon, 28 Apr 2025 16:59:03 GMT | Why Directory Listing Vulnerabilities Are a Hacker’s Gateway | Nishanthan | [Read More](https://medium.com/p/ce0979f8982a) |
-| Mon, 28 Apr 2025 16:54:41 GMT | Authentic Vulnerability: A Reflection | Danielle du Plooy | [Read More](https://medium.com/p/31ab0fe5f056) |
-| Mon, 28 Apr 2025 16:51:27 GMT | Earth Kurma Cyber-Espionage Campaign Targets Southeast Asia with Custom Malware | CyBlog | [Read More](https://medium.com/p/de2f1858fe59) |
-| Mon, 28 Apr 2025 16:48:57 GMT | Ethical Hacking: Protecting the Digital World from the Inside | Md Shoyeb Hossain | [Read More](https://medium.com/p/b04fea9c72f3) |
-| Mon, 28 Apr 2025 16:45:39 GMT | Blue — Walkthrough - TryHackMe | Atharva puri | [Read More](https://medium.com/p/334a18373d10) |
-| Mon, 28 Apr 2025 16:41:10 GMT | How hackers are weaponizing your digital life without ever cracking a password | O. J. Okpabi | [Read More](https://medium.com/p/450b5fd18902) |
-| Mon, 28 Apr 2025 16:40:46 GMT | Write — Up Helpdesk (Windows) - Notion | Sergios Serg | [Read More](https://medium.com/p/0104a03e3dcf) |
-| Mon, 28 Apr 2025 16:40:02 GMT | Why Clicking "Remind Me Later" on Software Updates Could Be Your Biggest Mistake | O. J. Okpabi | [Read More](https://medium.com/p/fa79508f48f4) |
-| Mon, 28 Apr 2025 16:39:03 GMT | The ‘Innocent’ Emails That Stole Millions: True Stories That Will Change How You Read Your Inbox | O. J. Okpabi | [Read More](https://medium.com/p/bed618504a29) |
-| Mon, 28 Apr 2025 16:39:00 GMT | Fun marketing. Serious growth. | Pietro Bezza | [Read More](https://medium.com/p/42e4f126a45e) |
