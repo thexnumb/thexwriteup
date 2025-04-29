@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 06:22:14 GMT | Shadow Copy Forensics: Detecting and Investigating VSS Tampering | Paritosh | [Read More](https://medium.com/p/17c5bf555230) |
+| Tue, 29 Apr 2025 06:16:00 GMT | My Journey to OffSec Certified Professional+ (OSCP+): from zero to hero | Ramazan | [Read More](https://medium.com/p/abe8ff8455b0) |
+| Tue, 29 Apr 2025 06:10:43 GMT | Simplify NABARD IS Compliance with CertCube Labs | Certcube Labs | [Read More](https://medium.com/p/8fd9955f3049) |
+| Tue, 29 Apr 2025 06:09:19 GMT | Overview and Best Practices for AWS Inspector Security Vulnerability Management | Adhiraj Jarwal | [Read More](https://medium.com/p/10c9ebe7a368) |
+| Tue, 29 Apr 2025 06:07:12 GMT | A Complete Beginner’s Guide to Cybersecurity Maturity Model Certification | Prowise Systems | [Read More](https://medium.com/p/1f9345f8ebfe) |
+| Tue, 29 Apr 2025 06:06:32 GMT | SyncVault Bug Bounty Challenge | SyncVault | [Read More](https://medium.com/p/bfd466be173c) |
+| Tue, 29 Apr 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Apr 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8c7c779ab84a) |
+| Tue, 29 Apr 2025 05:58:14 GMT | I’m Tired...But I Still Believe. | Sneha Gangurde | [Read More](https://medium.com/p/d8e5d142fd60) |
+| Tue, 29 Apr 2025 05:45:02 GMT | ️ The ULTIMATE Web App Hacking Checklist for Bug Bounty Hunters | REDx Cybersec | [Read More](https://medium.com/p/a495b436ab6f) |
+| Tue, 29 Apr 2025 05:42:37 GMT | The Red Teaming: 30-Day Challenge[15] | Bl@ckC!pH3r | [Read More](https://medium.com/p/eee06f81f584) |
+| Tue, 29 Apr 2025 05:41:41 GMT | The Importance of Plastic Security Seals and Garment Plastic Seal Tags in Modern Industries | Risha Singh | [Read More](https://medium.com/p/9a16144624ed) |
 | Tue, 29 Apr 2025 05:26:01 GMT | United States IT Spending Market Size & Growth Report 2034 | Aman Bansal | [Read More](https://medium.com/p/796a9794ba87) |
+| Tue, 29 Apr 2025 05:25:44 GMT | 見えない脅威とどう向き合うか ── スペイン・ポルトガル大停電の教訓 | Shige Tanimoto | [Read More](https://medium.com/p/d923501a4258) |
 | Tue, 29 Apr 2025 05:20:56 GMT | GraphQL API hacking Series for Bug Hunters Part 02 | IronGhost | [Read More](https://medium.com/p/837e0bc3be06) |
 | Tue, 29 Apr 2025 05:20:19 GMT | Principles of Security - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/d51e25d96087) |
 | Tue, 29 Apr 2025 05:19:55 GMT | Confronting the Invisible Threat: Lessons from the Spain–Portugal Blackout | Shige Tanimoto | [Read More](https://medium.com/p/d894d497edf1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 21:19:08 GMT | A Beginner’s Guide to Securing OpenAI API Calls with Resk-LLM | Arch | [Read More](https://medium.com/p/5eec874ccdf8) |
 | Mon, 28 Apr 2025 21:17:09 GMT | Building a Crypter Part III: Key Obfuscation | S12 - H4CK | [Read More](https://medium.com/p/4f4951828f7a) |
 | Mon, 28 Apr 2025 21:11:29 GMT | WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at… | hacker_might | [Read More](https://medium.com/p/4a5ed41a9f06) |
-| Mon, 28 Apr 2025 21:07:31 GMT | Types of Penetration Testing: Which Is Right for Your Business? | IT_Engineer | [Read More](https://medium.com/p/3783befdc8a5) |
-| Mon, 28 Apr 2025 21:07:12 GMT | Password Reuse: The Silent Security Threat Inside America’s Most Trusted Companies | Hoplon Infosec | [Read More](https://medium.com/p/3c299a07451f) |
-| Mon, 28 Apr 2025 21:06:41 GMT | CyberHub Weekly Digest — Emerging Threats and Innovations in Cybersecurity | CyberHub | [Read More](https://medium.com/p/ca3da53d8695) |
-| Mon, 28 Apr 2025 20:54:22 GMT | PostgreSQL RCE + LFI via UNION-Based SQLi - Field Manual | tobias are | [Read More](https://medium.com/p/b8176eda905e) |
-| Mon, 28 Apr 2025 20:53:25 GMT | NMAP: The Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/fbcbc26e6fb2) |
-| Mon, 28 Apr 2025 20:46:55 GMT | Hunting Diary: Cibersegurança e Sustentabilidade | mxprim0 | [Read More](https://medium.com/p/304102b2c085) |
-| Mon, 28 Apr 2025 20:46:34 GMT | Phishing Attacks Surge in APAC: A Wake-Up Call for the Manufacturing Sector | Avnishyam | [Read More](https://medium.com/p/5a0f5df547d5) |
-| Mon, 28 Apr 2025 20:40:18 GMT | Coinbase UX Glitch Caused False Security Alarms for Users | IC News | [Read More](https://medium.com/p/1f9ecc01441e) |
-| Mon, 28 Apr 2025 20:38:54 GMT | Can We Stop Documenting Our Detections? | Gary Katz | [Read More](https://medium.com/p/ded2201ec09b) |
-| Mon, 28 Apr 2025 20:22:50 GMT | La gestion des vulnérabilités un chantier capital pour BFC tracteurs | Florent M | [Read More](https://medium.com/p/27549ea22cee) |
-| Mon, 28 Apr 2025 20:21:13 GMT | Road to SSRF : PDF generation and filter bypass on ASP.net application | Supr4s | [Read More](https://medium.com/p/dd3aa91c0fed) |
-| Mon, 28 Apr 2025 20:20:02 GMT | How I Uncovered Critical Bugs on the Pay4Energy AEDC Portal (and What I Learned) | Eghosa Osayame | [Read More](https://medium.com/p/482b93e008f1) |
