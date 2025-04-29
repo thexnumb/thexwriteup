@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 14:40:51 GMT | HTB Pandora Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/971206b77c43) |
+| Tue, 29 Apr 2025 14:39:05 GMT | ️ Why Your Website Security Posture Matters: A Wake-Up Call from Kalongo’s Designer Shoe Store in… | eL Njas!™ | [Read More](https://medium.com/p/f6c58eae2161) |
+| Tue, 29 Apr 2025 14:34:22 GMT | Task 2 — Passive vs Active Recon | Jesvin Simon Saji | [Read More](https://medium.com/p/f15365a0b8c8) |
+| Tue, 29 Apr 2025 14:28:21 GMT | Accessing a Private Internal Web Application via SSH SOCKS Proxy (From VPS to Local Machine) | Kokurate | [Read More](https://medium.com/p/c0adf749c7b7) |
+| Tue, 29 Apr 2025 14:25:09 GMT | How to: GRC Supplier Management | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/bd8a636919dd) |
+| Tue, 29 Apr 2025 14:21:47 GMT | NETWORKING CORE PROTOCOLS-- CYBER SECURITY 101 -- TRYHACKME | Surbhi_choudhary | [Read More](https://medium.com/p/fb41194f0301) |
+| Tue, 29 Apr 2025 14:18:59 GMT | Vibe Coding Meets Resilient Software: Securing Speed in the Age of AI | Takafumi Endo | [Read More](https://medium.com/p/8248864f4805) |
+| Tue, 29 Apr 2025 14:17:49 GMT | Unraveling WEP: A Comprehensive Guide to Cracking Legacy Wireless Security | The Aegis Security | [Read More](https://medium.com/p/f8916a90eb2f) |
 | Tue, 29 Apr 2025 14:14:17 GMT | Overpass 2 — Hacked Walkthrough | Reek Elderblod | [Read More](https://medium.com/p/40c96d21c69b) |
 | Tue, 29 Apr 2025 14:01:59 GMT | What is Secret Management? | Taona | [Read More](https://medium.com/p/bf2e01e0c847) |
 | Tue, 29 Apr 2025 14:00:54 GMT | Cyber Briefing: 2025.04.29 | CyberMaterial | [Read More](https://medium.com/p/fa8539033137) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 08:36:00 GMT | SECURET: The revolutionary secure messenger from SAY Services | SAYCOIN | [Read More](https://medium.com/p/e7c51d5d3abc) |
 | Tue, 29 Apr 2025 08:35:25 GMT | How to Learn Python Programming from Scratch in 2025? | Ankit_Cyber | [Read More](https://medium.com/p/02d83039e52c) |
 | Tue, 29 Apr 2025 08:32:32 GMT | What Recruiters Look for in a Cybersecurity Resume in 2025 | Abhijeet Kumawat | [Read More](https://medium.com/p/dcc81fa3154e) |
-| Tue, 29 Apr 2025 08:29:34 GMT | Tech-Enabled Security Services in Pune 2025 | United Guard Force India | [Read More](https://medium.com/p/3a89fa641f25) |
-| Tue, 29 Apr 2025 08:26:32 GMT | Trickster - Writeup | Marvin | [Read More](https://medium.com/p/276eec39e3ac) |
-| Tue, 29 Apr 2025 08:22:52 GMT | Armed vs. Unarmed Security Services in Pune | United Guard Force India | [Read More](https://medium.com/p/4948690a2d3c) |
-| Tue, 29 Apr 2025 08:19:16 GMT | SSRF Vulnerability in Symfony: How to Detect and Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/57b2fb42640e) |
-| Tue, 29 Apr 2025 08:17:12 GMT | Security Bulldog brings unparalleled speed, accuracy, and resilience! | The Security Bulldog | [Read More](https://medium.com/p/417cdf93991c) |
-| Tue, 29 Apr 2025 08:16:28 GMT | Pyrat—TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/1c110a6b9b32) |
-| Tue, 29 Apr 2025 08:07:05 GMT | Where Damages Happens without Bombs | Merezonee | [Read More](https://medium.com/p/2181289f02c4) |
-| Tue, 29 Apr 2025 08:04:26 GMT | Building Privacy-First Platforms: DevOps Strategies for E-commerce and Financial Services | Sonu Chauhan | [Read More](https://medium.com/p/2c40da0c7191) |
