@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 15:15:34 GMT | How Web Apps Work (And How Hackers Break Them) | Derick Johnson | [Read More](https://medium.com/p/d0fb85618ffe) |
+| Tue, 29 Apr 2025 15:13:04 GMT | Title: “Docker Dilemma to Dev Breakthrough — A Day in the Life of a Cyber Security Engineer in the… | Tanish  Dewase! | [Read More](https://medium.com/p/90fc5f5085da) |
+| Tue, 29 Apr 2025 15:07:20 GMT | How to Build a Cybersecurity Culture in Your Organization | John Locke | [Read More](https://medium.com/p/c9aa6c32058a) |
+| Tue, 29 Apr 2025 15:02:45 GMT | Technology Decisions I Made as A Cybersecurity Expert as A New Parent | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/6a8eb1b26b44) |
+| Tue, 29 Apr 2025 15:01:49 GMT | subdomain-scanner200OK | Lukas Simunovic | [Read More](https://medium.com/p/fcd762413e07) |
+| Tue, 29 Apr 2025 14:56:45 GMT | Active Directory Exploitation and Defense Techniques | Esra Kayhan | [Read More](https://medium.com/p/5c0aa705a07f) |
+| Tue, 29 Apr 2025 14:55:20 GMT | WIRE TOR introduces Red Team as a Service (RTaaS) | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/063f2b344fb4) |
+| Tue, 29 Apr 2025 14:54:17 GMT | MyExpense:1 (VulnHub) | S4ntiHack | [Read More](https://medium.com/p/397ca13a677e) |
+| Tue, 29 Apr 2025 14:52:28 GMT | Yapay Zeka Destekli Yeni Tehdit: AI Vishing | İbrahim Karsu | [Read More](https://medium.com/p/f28a16b95aa9) |
+| Tue, 29 Apr 2025 14:50:21 GMT | The NIS2 Directive: Securing Humanity’s Digital Future | Ricardo Newman | [Read More](https://medium.com/p/c355f156bba2) |
+| Tue, 29 Apr 2025 14:46:48 GMT | How to Leverage CVEs and CVSS Scores for Stronger Cyber Defense | Saber You | [Read More](https://medium.com/p/8340a7fe6a47) |
+| Tue, 29 Apr 2025 14:46:11 GMT | How to Protect Your Node.js App from Malicious .PPT Files | Cloudmersive | [Read More](https://medium.com/p/de0b5eeba0bf) |
 | Tue, 29 Apr 2025 14:40:51 GMT | HTB Pandora Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/971206b77c43) |
 | Tue, 29 Apr 2025 14:39:05 GMT | ️ Why Your Website Security Posture Matters: A Wake-Up Call from Kalongo’s Designer Shoe Store in… | eL Njas!™ | [Read More](https://medium.com/p/f6c58eae2161) |
+| Tue, 29 Apr 2025 14:37:29 GMT | Securely Inject Secrets into a Kubernetes Deployment (The Right Way) | Chukwuebuka Okoli | [Read More](https://medium.com/p/1219550ca679) |
 | Tue, 29 Apr 2025 14:34:22 GMT | Task 2 — Passive vs Active Recon | Jesvin Simon Saji | [Read More](https://medium.com/p/f15365a0b8c8) |
+| Tue, 29 Apr 2025 14:31:25 GMT | Deepfakes: AI That Lies Right to Your Face — Here’s How to Catch It | Magina | [Read More](https://medium.com/p/8d1cf4971db1) |
 | Tue, 29 Apr 2025 14:28:21 GMT | Accessing a Private Internal Web Application via SSH SOCKS Proxy (From VPS to Local Machine) | Kokurate | [Read More](https://medium.com/p/c0adf749c7b7) |
 | Tue, 29 Apr 2025 14:25:09 GMT | How to: GRC Supplier Management | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/bd8a636919dd) |
 | Tue, 29 Apr 2025 14:21:47 GMT | NETWORKING CORE PROTOCOLS-- CYBER SECURITY 101 -- TRYHACKME | Surbhi_choudhary | [Read More](https://medium.com/p/fb41194f0301) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 09:34:03 GMT | Custom vs. Standard KPI Dashboards: Which is Best for Your Healthcare Organization? | Kiskeya Core Staffing | [Read More](https://medium.com/p/6f933b664d43) |
 | Tue, 29 Apr 2025 09:33:14 GMT | What Palo Alto Networks’ Acquisition of Protect AI Means for AI Security | Juara IT Solutions | [Read More](https://medium.com/p/aa4ce06a535e) |
 | Tue, 29 Apr 2025 09:23:29 GMT | Passcovery 25.04: Grande avanço para Intel Arc + AMD RDNA 4 e mais melhorias | denglad | [Read More](https://medium.com/p/e38b6f823b8f) |
-| Tue, 29 Apr 2025 09:18:01 GMT | 10 Reasons Why Spring Boot Security Feels Broken in 2025 (With Code Fixes) | Lovish Kumar | [Read More](https://medium.com/p/945e9b72987e) |
-| Tue, 29 Apr 2025 09:17:50 GMT | How Managed IT Services Safeguard Your Business from Cyber Threats | Encox Services | [Read More](https://medium.com/p/df1dd8ab86f2) |
-| Tue, 29 Apr 2025 09:16:05 GMT | ## Secure Package Installation with npm install — ignore-scripts | Arrow Dan | [Read More](https://medium.com/p/22255c634b87) |
-| Tue, 29 Apr 2025 09:13:40 GMT | ChatGPT Jailbreak — Educational Purpose | Φiriki Intelligence | [Read More](https://medium.com/p/31b196531101) |
-| Tue, 29 Apr 2025 09:09:40 GMT | Writing Is Not Therapy! … But Sometimes It Pretends to Be. | Fela Odi | [Read More](https://medium.com/p/0dab168c29a8) |
-| Tue, 29 Apr 2025 09:01:25 GMT | The Cybersecurity Mistakes That Cost Companies $4.45M in 2025 (Based on Real Breach Data) | Orami | [Read More](https://medium.com/p/af1ccd30f4fa) |
-| Tue, 29 Apr 2025 08:59:45 GMT | How Hackers Crack Your Passwords Using Your Public Info (and How to Stop Them) | Rey Geldof | [Read More](https://medium.com/p/709e471c0a41) |
-| Tue, 29 Apr 2025 08:47:23 GMT | 7 Best Cybersecurity Automation Tools for 2025 | SecureSlate | [Read More](https://medium.com/p/458348489f8f) |
-| Tue, 29 Apr 2025 08:45:36 GMT | OAuth 2.0 for First-Party Applications: Towards Balancing Security and UX. | Vihanga Vithanawasam | [Read More](https://medium.com/p/6205597e7fda) |
-| Tue, 29 Apr 2025 08:42:00 GMT | The Daily Tech Digest: 29 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/147ea6891945) |
-| Tue, 29 Apr 2025 08:41:29 GMT | ️Day 20: Clickjacking Explained: How It Works,Real-World Examples | Agarwaldaksh | [Read More](https://medium.com/p/0f0312416650) |
-| Tue, 29 Apr 2025 08:36:00 GMT | SECURET: The revolutionary secure messenger from SAY Services | SAYCOIN | [Read More](https://medium.com/p/e7c51d5d3abc) |
-| Tue, 29 Apr 2025 08:35:25 GMT | How to Learn Python Programming from Scratch in 2025? | Ankit_Cyber | [Read More](https://medium.com/p/02d83039e52c) |
-| Tue, 29 Apr 2025 08:32:32 GMT | What Recruiters Look for in a Cybersecurity Resume in 2025 | Abhijeet Kumawat | [Read More](https://medium.com/p/dcc81fa3154e) |
