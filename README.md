@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 22:16:34 GMT | A Comprehensive Guide to Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81431da5a21b) |
+| Tue, 29 Apr 2025 22:14:20 GMT | My Battle to Regain Control from Spyware | Hogan Torah | [Read More](https://medium.com/p/6727ca8cdcb1) |
+| Tue, 29 Apr 2025 22:03:19 GMT | Towards Building Safe & Secure Agentic AI | Renata R Santos | [Read More](https://medium.com/p/4bac016c3ffe) |
+| Tue, 29 Apr 2025 21:52:34 GMT | Beyond Readiness: A Portrait of Trust | Jérôme Scullino | [Read More](https://medium.com/p/f8684bc18001) |
+| Tue, 29 Apr 2025 21:49:32 GMT | Practical Cybersecurity Leadership for IT Teams — Live Webinar! | Matthew.Rosenquist | [Read More](https://medium.com/p/34654fb5e56b) |
+| Tue, 29 Apr 2025 21:49:31 GMT | How to Easily Update Your Phone or Computer Operating Systems | Savvy Cyber Kids | [Read More](https://medium.com/p/05d8834a8ae9) |
+| Tue, 29 Apr 2025 21:47:48 GMT | Teens, Racism and Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/80fa61310422) |
+| Tue, 29 Apr 2025 21:45:55 GMT | Think Your Password Is A Secret? Think Again. | Savvy Cyber Kids | [Read More](https://medium.com/p/eb561aa49100) |
+| Tue, 29 Apr 2025 21:35:12 GMT | The Silent Backdoor in MCP | Aroha blue | [Read More](https://medium.com/p/24fe313c0456) |
+| Tue, 29 Apr 2025 21:33:01 GMT | Crack Ubuntu Log In Password ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/3dd4fa0bd7a3) |
+| Tue, 29 Apr 2025 21:32:38 GMT | Gölgeme Tutunurken | Ayşe Beyza Çanakçı | [Read More](https://medium.com/p/5fe0f022ee29) |
 | Tue, 29 Apr 2025 21:32:13 GMT | Linux Command Line Kali, Penetration Tester’s Main Weapon | Jafar Umarassadulloh | [Read More](https://medium.com/p/ea872f6a9967) |
 | Tue, 29 Apr 2025 21:25:12 GMT | MacOS in the Crosshairs: How Crypto Malware is Expanding the Cyber Battlefield | Chetan Seripally | [Read More](https://medium.com/p/90344ca0ca8f) |
 | Tue, 29 Apr 2025 21:24:12 GMT | TryHackMe — Snort Challenge | Shamar Isaac | [Read More](https://medium.com/p/ed335f4c66e2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 16:26:10 GMT | Auto Block Website Ping Attack: Secure Your Site from Continuous Floods | SafeAeon Inc. | [Read More](https://medium.com/p/4168f06ba2a9) |
 | Tue, 29 Apr 2025 16:26:03 GMT | Anonymous Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/a1363c0c85f6) |
 | Tue, 29 Apr 2025 16:24:14 GMT | From Skies to Screens | Niharika Dalal | [Read More](https://medium.com/p/4fd940707b88) |
-| Tue, 29 Apr 2025 16:23:39 GMT | This is What I’d Tell Every Junior Cybersecurity Engineer | Ryan G. Cox | [Read More](https://medium.com/p/a1e0cf5ddaef) |
-| Tue, 29 Apr 2025 16:21:54 GMT | When Your Cipher Suite Breaks Everything: Compatibility Nightmares in Modern Infrastructure | Saif Ali | [Read More](https://medium.com/p/d50759563969) |
-| Tue, 29 Apr 2025 16:17:51 GMT | Data Leakage Protection: Safeguard Your Business in the Digital Era | SafeAeon Inc. | [Read More](https://medium.com/p/53ae3f2f3aeb) |
-| Tue, 29 Apr 2025 16:11:26 GMT | A Safer & Smarter Home: How Josh.ai Powers Self-Monitored Security | Josh | [Read More](https://medium.com/p/6a9e2a0df94b) |
-| Tue, 29 Apr 2025 16:09:27 GMT | Next.js Güvenlik Alarmı: CVE-2025–29927 ve Snyk ile Kendini Koru! | Emre Ramazanoğlu | [Read More](https://medium.com/p/60f68d6fb461) |
-| Tue, 29 Apr 2025 16:08:57 GMT | Review & How to Prepare for the eLearnSecurity Certified Incident Responder (eCIR) Exam | Omar_Amir | [Read More](https://medium.com/p/be8ad9a89cdd) |
-| Tue, 29 Apr 2025 16:08:19 GMT | Exploiting SQLi for Total Clients Control in Enterprise Application | Isv | [Read More](https://medium.com/p/e940acf34aa6) |
-| Tue, 29 Apr 2025 16:05:15 GMT | ParrotSec vs Kali Linux: Which One Should You Choose? | Techrefreshing | [Read More](https://medium.com/p/1f417be05e56) |
-| Tue, 29 Apr 2025 16:01:06 GMT | What Is LLM — Large Language Model? | Emerline | [Read More](https://medium.com/p/aa0f0e5c3bff) |
-| Tue, 29 Apr 2025 16:00:04 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | ImranTheExploitHunter | [Read More](https://medium.com/p/8e6b14c01725) |
-| Tue, 29 Apr 2025 15:59:37 GMT | Host & Network Penetration Testing: Exploitation CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/53b328b3f85a) |
