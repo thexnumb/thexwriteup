@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 06:43:47 GMT | Cloudflare Tunnel Misconfigurations: A Silent Threat in DevOps Pipelines | Aditya Bhatt | [Read More](https://medium.com/p/c1842ca56fdd) |
+| Tue, 29 Apr 2025 06:38:41 GMT | Managing Old Infrastructure Systems: A Security View | Joe Frixon | [Read More](https://medium.com/p/2eff975e9a1a) |
+| Tue, 29 Apr 2025 06:38:38 GMT | The Value and Impact of PMP Certification in Today’s Professional Landscape | Certocean | [Read More](https://medium.com/p/ff2367a61732) |
+| Tue, 29 Apr 2025 06:35:22 GMT | The Iberian Blackout: A Conspiracy Unplugged | Paranormal Phenomena | [Read More](https://medium.com/p/580e3dba087a) |
+| Tue, 29 Apr 2025 06:34:25 GMT | How can i find a Jenkins dashboard and ended up with Reverse Shell on shodan | Fakhri Abbas Ailatat | [Read More](https://medium.com/p/31fcfb8db8b4) |
+| Tue, 29 Apr 2025 06:29:31 GMT | Why Ccreater.top is the Ultimate Trading Platform You Can’t Miss | Flora Snoddy | [Read More](https://medium.com/p/a7a0a0cd5644) |
+| Tue, 29 Apr 2025 06:28:42 GMT | AI-Driven Malware: The Silent Revolution Reshaping Cyber Threats | emanuel Brown | [Read More](https://medium.com/p/34c890adca2a) |
 | Tue, 29 Apr 2025 06:22:14 GMT | Shadow Copy Forensics: Detecting and Investigating VSS Tampering | Paritosh | [Read More](https://medium.com/p/17c5bf555230) |
+| Tue, 29 Apr 2025 06:17:32 GMT | Day 4 - Cybersecurity | kate | [Read More](https://medium.com/p/173106973ec5) |
 | Tue, 29 Apr 2025 06:16:00 GMT | My Journey to OffSec Certified Professional+ (OSCP+): from zero to hero | Ramazan | [Read More](https://medium.com/p/abe8ff8455b0) |
 | Tue, 29 Apr 2025 06:10:43 GMT | Simplify NABARD IS Compliance with CertCube Labs | Certcube Labs | [Read More](https://medium.com/p/8fd9955f3049) |
 | Tue, 29 Apr 2025 06:09:19 GMT | Overview and Best Practices for AWS Inspector Security Vulnerability Management | Adhiraj Jarwal | [Read More](https://medium.com/p/10c9ebe7a368) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 21:41:51 GMT | A Beginner Friendly Cyber Security Project: Python FIM | Jared Medeiros | [Read More](https://medium.com/p/12431ca77925) |
 | Mon, 28 Apr 2025 21:41:49 GMT | Introducing HOSICO: The Cat-Themed Solana Meme Token Debut on Top Exchanges | Kamaldeenlateef | [Read More](https://medium.com/p/8f026d1a25b6) |
 | Mon, 28 Apr 2025 21:37:36 GMT | A Comprehensive Analysis of Solana’s Security History: All Incidents, Impacts, and Evolution (Up to… | Lucrative Panda | [Read More](https://medium.com/p/1b1564c7ddfe) |
-| Mon, 28 Apr 2025 21:24:11 GMT | Ask SCK: We decided to give our 10-year-old a phone and need help | Savvy Cyber Kids | [Read More](https://medium.com/p/dc885c2292ef) |
-| Mon, 28 Apr 2025 21:23:51 GMT | How to find the right cybersecurity tools for your organization | Xaltius | [Read More](https://medium.com/p/4b12418791ac) |
-| Mon, 28 Apr 2025 21:21:41 GMT | Top Network Authentication Methods to Prevent Data Breaches in 2025 | Xaltius | [Read More](https://medium.com/p/b388a070d4f5) |
-| Mon, 28 Apr 2025 21:21:23 GMT | Day 6: Building My First Hacking Lab | Nile Okomo | [Read More](https://medium.com/p/92e6004f3bfb) |
-| Mon, 28 Apr 2025 21:19:41 GMT | How a cyber ecosystem works — your protection against a supply chain attack | Xaltius | [Read More](https://medium.com/p/a28e734ee504) |
-| Mon, 28 Apr 2025 21:19:08 GMT | A Beginner’s Guide to Securing OpenAI API Calls with Resk-LLM | Arch | [Read More](https://medium.com/p/5eec874ccdf8) |
-| Mon, 28 Apr 2025 21:17:09 GMT | Building a Crypter Part III: Key Obfuscation | S12 - H4CK | [Read More](https://medium.com/p/4f4951828f7a) |
-| Mon, 28 Apr 2025 21:11:29 GMT | WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at… | hacker_might | [Read More](https://medium.com/p/4a5ed41a9f06) |
