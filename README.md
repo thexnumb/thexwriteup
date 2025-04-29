@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 10:21:14 GMT | VPN for Online Safety Tips Using a Virtual Private Network (VPN) is an effective way to enhance… | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/df4639351882) |
+| Tue, 29 Apr 2025 10:17:36 GMT | Burp Lab: Exploiting XSS to bypass CSRF(detailed explanation and walkthrough) | J.Pinkmann | [Read More](https://medium.com/p/961b0bd538a7) |
+| Tue, 29 Apr 2025 10:16:51 GMT | Secrets of the Cyber Underworld (From These Books) | Ahmad Javed | [Read More](https://medium.com/p/a1cc052971da) |
+| Tue, 29 Apr 2025 09:54:43 GMT | Master’s in Cyber Security in the USA: Top Universities, Cost, Job Prospects & More | Mdoec Ahmedabad | [Read More](https://medium.com/p/53492b94de6b) |
+| Tue, 29 Apr 2025 09:39:40 GMT | SaaS Sovereignty: Who Really Owns Your Business’s Digital Footprint? | Induz Data Solutions | [Read More](https://medium.com/p/6a118f0a4bef) |
+| Tue, 29 Apr 2025 09:39:35 GMT | Telegram Üzerinde “Görev Yap, Para Kazan” Tuzağı | Efe Korkmaz | [Read More](https://medium.com/p/afc3aa368ab5) |
+| Tue, 29 Apr 2025 09:38:00 GMT | Understanding Zero-Day exploits | Martin Abramov | [Read More](https://medium.com/p/7a66090a5636) |
+| Tue, 29 Apr 2025 09:36:33 GMT | NETWORKING CONCEPT -- TRYHACKME-- CYBERSECURITY 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/f802b42b04e4) |
 | Tue, 29 Apr 2025 09:36:05 GMT | Industry 5.0: Where Human-Machine Collaboration Meets Unified Security | Rod Cowan | [Read More](https://medium.com/p/a4efe94d7389) |
 | Tue, 29 Apr 2025 09:34:07 GMT | How to Guard Your Online Life: A Beginner’s Guide to Cyber Hygiene | Udara Sandakelum | [Read More](https://medium.com/p/9b35301fe540) |
 | Tue, 29 Apr 2025 09:34:03 GMT | Custom vs. Standard KPI Dashboards: Which is Best for Your Healthcare Organization? | Kiskeya Core Staffing | [Read More](https://medium.com/p/6f933b664d43) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 04:09:26 GMT | Understanding the SOCI Act: What It Means for Australian Businesses | cyber ethos | [Read More](https://medium.com/p/693c5ad1ff87) |
 | Tue, 29 Apr 2025 04:07:45 GMT | Why I choose Cybersecurity: Finding My Path as a Data Analyst | Asri Cahyani | [Read More](https://medium.com/p/238ebc0d951a) |
 | Tue, 29 Apr 2025 04:06:55 GMT | Who “owns” the CVE List? | Saber You | [Read More](https://medium.com/p/3e9529968ec3) |
-| Tue, 29 Apr 2025 04:05:03 GMT | Master Computer Networking for Hackers — All in One Shot! | D3athCod3 | [Read More](https://medium.com/p/c7d9ad85274f) |
-| Tue, 29 Apr 2025 03:55:50 GMT | Why Advanced VPN Features Are Essential In 2023 | Melvin Erickson | [Read More](https://medium.com/p/d868f279bc5c) |
-| Tue, 29 Apr 2025 03:55:35 GMT | Preparing for DefCon? | YaquisTech | [Read More](https://medium.com/p/08c969e6303c) |
-| Tue, 29 Apr 2025 03:48:34 GMT | The Future of Work in the Age of AI: Why the Rise of the IT/AI Business Consultant May Save Us All | Michael Phillips | [Read More](https://medium.com/p/8621b63c97b1) |
-| Tue, 29 Apr 2025 03:42:35 GMT | IGNITE— TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/ff309bc0c326) |
-| Tue, 29 Apr 2025 03:33:12 GMT | ThreatCrowd Attack Surface Recon | AbhirupKonwar | [Read More](https://medium.com/p/632252cbbafa) |
-| Tue, 29 Apr 2025 03:18:01 GMT | HOW TACACS+ AND RADIUS HELP PROTECT OUR NETWORK. | Jczeeshyamalan | [Read More](https://medium.com/p/7ac17b32907b) |
-| Tue, 29 Apr 2025 03:07:52 GMT | Cyber Security | Bhanu | [Read More](https://medium.com/p/0c69991e7478) |
