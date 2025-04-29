@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 20:10:34 GMT | Dead Things Still Answer to God | DB Journal | [Read More](https://medium.com/p/ec707688884d) |
+| Tue, 29 Apr 2025 20:01:26 GMT | Why Prompts Are the New IOCs You Didn’t See Coming! | Thomas Roccia | [Read More](https://medium.com/p/46ecaacafe0a) |
+| Tue, 29 Apr 2025 19:56:56 GMT | Will We Need a Digital Police Force in the Age of AI? | dajdoj | [Read More](https://medium.com/p/15bb46c8c921) |
+| Tue, 29 Apr 2025 19:50:46 GMT | The Weight I Carry: A Journey of Body, Mind, and Quiet Resilience | Dr. Noor N. AyToghlo | [Read More](https://medium.com/p/85a9a34f9ab7) |
+| Tue, 29 Apr 2025 19:50:20 GMT | “We Hacked Your System” Email Scam: Just Another Sextortion Attempt | Brendan Smith | [Read More](https://medium.com/p/2fe60e0520dc) |
+| Tue, 29 Apr 2025 19:45:57 GMT | Integrating Amazon Q Developer with Slack | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/4197c21165c9) |
+| Tue, 29 Apr 2025 19:42:10 GMT | Anomaly Detection via Autoencoder in ARM Assembly | Etibar Aliyev | [Read More](https://medium.com/p/95c1f6ba99da) |
+| Tue, 29 Apr 2025 19:35:03 GMT | Unlock Bounties by Simply Reading: A Smart Way to Earn | Reju Kole | [Read More](https://medium.com/p/63a1cb410450) |
+| Tue, 29 Apr 2025 19:32:32 GMT | You Survived Y2K Bug — You Won’t Survive Y2K38 Bug | Shaant | [Read More](https://medium.com/p/e813d31a6daa) |
+| Tue, 29 Apr 2025 19:31:16 GMT | ENDPOINT DETECTION AND RESPONSE(EDR) SIMULATION | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/3b74d40e33f1) |
 | Tue, 29 Apr 2025 19:29:44 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges Explained (Part -1) | CH3TAN | [Read More](https://medium.com/p/17a7f57ea87b) |
 | Tue, 29 Apr 2025 19:29:01 GMT | From Ecuador  to Tech: My Journey into Cybersecurity | er3bit | [Read More](https://medium.com/p/4eeba54bb7ed) |
+| Tue, 29 Apr 2025 19:23:38 GMT | JS-URL-Endpoint-Harvester | Lukas Simunovic | [Read More](https://medium.com/p/5885d3a69ef6) |
 | Tue, 29 Apr 2025 19:17:02 GMT | Overview: Tesla, Inc. | Mercedes Rogers | [Read More](https://medium.com/p/a82156231024) |
 | Tue, 29 Apr 2025 19:16:06 GMT | Integration security challenges in AI-assisted coding tools | Zahwah Jameel | [Read More](https://medium.com/p/219dcbd90114) |
 | Tue, 29 Apr 2025 19:06:44 GMT | “Professional Hacker” Email Scam: Don’t Fall for This Nonsense | Brendan Smith | [Read More](https://medium.com/p/d57a6f0fcfde) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 15:32:30 GMT | GZR Observer Daily — Apr 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/255a0fdb182d) |
 | Tue, 29 Apr 2025 15:32:15 GMT | AI Agent Security in 2025: Separating Hype from Reality | Phillip Carrington | [Read More](https://medium.com/p/b2ccf381743f) |
 | Tue, 29 Apr 2025 15:30:45 GMT | STON.fi Bug Bounty Program: A Comprehensive Approach To DeFi Security. | DehLawOfCrypto | [Read More](https://medium.com/p/baa9c6b1a8ab) |
-| Tue, 29 Apr 2025 15:19:22 GMT | SOC131 — EventID 67 — Reverse TCP Backdoor Detected | Mateo Pappa | [Read More](https://medium.com/p/a1430effa252) |
-| Tue, 29 Apr 2025 15:17:05 GMT | SOC138 — Detected Suspicious Xls File | Kylaar Weathers | [Read More](https://medium.com/p/51fc071a0ff7) |
-| Tue, 29 Apr 2025 15:15:34 GMT | How Web Apps Work (And How Hackers Break Them) | Derick Johnson | [Read More](https://medium.com/p/d0fb85618ffe) |
-| Tue, 29 Apr 2025 15:13:04 GMT | Title: “Docker Dilemma to Dev Breakthrough — A Day in the Life of a Cyber Security Engineer in the… | Tanish  Dewase! | [Read More](https://medium.com/p/90fc5f5085da) |
-| Tue, 29 Apr 2025 15:07:20 GMT | How to Build a Cybersecurity Culture in Your Organization | John Locke | [Read More](https://medium.com/p/c9aa6c32058a) |
-| Tue, 29 Apr 2025 15:02:45 GMT | Technology Decisions I Made as A Cybersecurity Expert as A New Parent | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/6a8eb1b26b44) |
-| Tue, 29 Apr 2025 15:01:49 GMT | subdomain-scanner200OK | Lukas Simunovic | [Read More](https://medium.com/p/fcd762413e07) |
-| Tue, 29 Apr 2025 14:56:45 GMT | Active Directory Exploitation and Defense Techniques | Esra Kayhan | [Read More](https://medium.com/p/5c0aa705a07f) |
-| Tue, 29 Apr 2025 14:55:20 GMT | WIRE TOR introduces Red Team as a Service (RTaaS) | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/063f2b344fb4) |
-| Tue, 29 Apr 2025 14:54:17 GMT | MyExpense:1 (VulnHub) | S4ntiHack | [Read More](https://medium.com/p/397ca13a677e) |
-| Tue, 29 Apr 2025 14:52:28 GMT | Yapay Zeka Destekli Yeni Tehdit: AI Vishing | İbrahim Karsu | [Read More](https://medium.com/p/f28a16b95aa9) |
