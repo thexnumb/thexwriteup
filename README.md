@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 18:13:30 GMT | Security Operations Center (SOC) Temelleri — 13 | Ali Ekber KARA | [Read More](https://medium.com/p/f72630789e57) |
+| Tue, 29 Apr 2025 18:12:01 GMT | From Logs to ATO - How I Hacked IBM | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/52552d95dacf) |
+| Tue, 29 Apr 2025 18:11:30 GMT | How to Scan .XML Files for Threats in Java | Cloudmersive | [Read More](https://medium.com/p/67db187ca54e) |
+| Tue, 29 Apr 2025 18:10:36 GMT | Passphrases: Creating Better Passwords | Caleb Gammon | [Read More](https://medium.com/p/1b1ff9ab971f) |
+| Tue, 29 Apr 2025 18:09:22 GMT | Structure, Context, and AI | Mark Gerow | [Read More](https://medium.com/p/6d0478626012) |
+| Tue, 29 Apr 2025 18:08:37 GMT | On academic corruption and data security risk | Larsspekschoor | [Read More](https://medium.com/p/c6cfaca82699) |
+| Tue, 29 Apr 2025 18:02:33 GMT | Building a Security Operations Center: Main Steps | TechMagic | [Read More](https://medium.com/p/aef5de20a561) |
+| Tue, 29 Apr 2025 18:00:14 GMT | How To Get Entry Level Jobs in CyberSecurity | Gourav(spidergk) | [Read More](https://medium.com/p/97f9ef0df3bc) |
+| Tue, 29 Apr 2025 17:50:10 GMT | Hack The Box — Hospital (medium Windows Box) | MO R SY | [Read More](https://medium.com/p/419e069a6fb7) |
+| Tue, 29 Apr 2025 17:37:28 GMT | Bugcrowd Student Qualifier! CTF Challenge Writeup: Faulty Machine | Baraiprince | [Read More](https://medium.com/p/582e520bb001) |
 | Tue, 29 Apr 2025 17:36:19 GMT | EDR Can’t Stop You If You Walk Through the Front Door | Anezaneo | [Read More](https://medium.com/p/58e6c814b4fa) |
+| Tue, 29 Apr 2025 17:36:02 GMT | Hands-On with Wazuh: My NextStep Toward a Cybersecurity Career | Monish | [Read More](https://medium.com/p/00fb0121fb3b) |
 | Tue, 29 Apr 2025 17:34:35 GMT | Network Segmentation in Penetration Testing: Key Insights for Ethical Hackers and Red Teamers | YoungerSibling | [Read More](https://medium.com/p/8c563a975cfa) |
+| Tue, 29 Apr 2025 17:32:38 GMT | Zero Day Exploits — Google Edition | Chase Dancer | [Read More](https://medium.com/p/8d782310a0d2) |
 | Tue, 29 Apr 2025 17:26:02 GMT | I Have a Hacking Gig For YOU, Hack Them and Get Paid | Muhammad | [Read More](https://medium.com/p/2cddf6442492) |
 | Tue, 29 Apr 2025 17:20:51 GMT | Data Security and Encryption | Aalekh Srivastava | [Read More](https://medium.com/p/8faa0fb0c291) |
 | Tue, 29 Apr 2025 17:20:45 GMT | Intro to SQL Injection. | err0rgod | [Read More](https://medium.com/p/ec341c7be2ff) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 14:00:54 GMT | Cyber Briefing: 2025.04.29 | CyberMaterial | [Read More](https://medium.com/p/fa8539033137) |
 | Tue, 29 Apr 2025 13:54:49 GMT | What is RSA And AES Encryption? | Samxia99 | [Read More](https://medium.com/p/9bb040e6da8e) |
 | Tue, 29 Apr 2025 13:45:42 GMT | Lab Report#8 — Credentials in Object Properties | Samet Koca | [Read More](https://medium.com/p/fc8d1f0867b0) |
-| Tue, 29 Apr 2025 13:43:20 GMT | AI TRiSM by Gartner: Managing AI Trust, Risk, and Security | Tal Eliyahu | [Read More](https://medium.com/p/b7672042f54e) |
-| Tue, 29 Apr 2025 13:41:25 GMT | Keeping Secrets Secret: Why On-Premise AI Like Whisper is Crucial for Your VoIP Security | Office | [Read More](https://medium.com/p/59b3e2f31c86) |
-| Tue, 29 Apr 2025 13:38:10 GMT | Attack Campaign Exploits Exposed Git Repositories for Sensitive Data | current.cybersecurity | [Read More](https://medium.com/p/0d6ef54d2b49) |
-| Tue, 29 Apr 2025 13:37:43 GMT | Top 1 Trading Platform You Can Trust: Why Everyone’s Switching to Ccreater.top in 2025 | Phoebe Jenkins | [Read More](https://medium.com/p/07e8aacb3d83) |
-| Tue, 29 Apr 2025 13:35:00 GMT | if i don’t do it, no one else will | chérel | [Read More](https://medium.com/p/2c4fd533e2c6) |
-| Tue, 29 Apr 2025 13:33:22 GMT | [EP. 1] Feature or Flaw — Weak Password Policy | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/0f98307ceb08) |
-| Tue, 29 Apr 2025 13:32:45 GMT | Evolutionary Cyber Defense: Building Security That Learns, Shifts, and Survives | Jesse Scott | [Read More](https://medium.com/p/b116453aac81) |
-| Tue, 29 Apr 2025 13:30:29 GMT | Cybersecurity Home Lab — Phase 3: Create & Connect All Lab VMs | Khaled Alkhatib | [Read More](https://medium.com/p/542f1c56bb0e) |
-| Tue, 29 Apr 2025 13:24:44 GMT | Ever get a job offer that seemed too good to be true? It probably was.​ | Wes Young | [Read More](https://medium.com/p/90f4a0a4178d) |
-| Tue, 29 Apr 2025 13:10:17 GMT | What the Heart Really Wants in Love | Bright Flow | [Read More](https://medium.com/p/03054518c2a1) |
-| Tue, 29 Apr 2025 13:09:47 GMT | Cybersecurity: Fortifying Elenktes Audit Aggregators’ Foundation | Elenktes | [Read More](https://medium.com/p/a99ef1e7ca62) |
-| Tue, 29 Apr 2025 13:06:02 GMT | Inside the Shadows: How Chinese Triad Fronts Fuel Human Trafficking and Exploitation | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/d00127a3c54f) |
