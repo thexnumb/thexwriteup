@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 03:42:35 GMT | IGNITE— TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/ff309bc0c326) |
+| Tue, 29 Apr 2025 03:33:12 GMT | ThreatCrowd Attack Surface Recon | AbhirupKonwar | [Read More](https://medium.com/p/632252cbbafa) |
+| Tue, 29 Apr 2025 03:18:01 GMT | HOW TACACS+ AND RADIUS HELP PROTECT OUR NETWORK. | Jczeeshyamalan | [Read More](https://medium.com/p/7ac17b32907b) |
+| Tue, 29 Apr 2025 03:07:52 GMT | Cyber Security | Bhanu | [Read More](https://medium.com/p/0c69991e7478) |
 | Tue, 29 Apr 2025 02:56:33 GMT | Title: The Clockmaker's Secret | Saddam Hussein | [Read More](https://medium.com/p/3aaef31a2103) |
 | Tue, 29 Apr 2025 02:49:04 GMT | Fortifying Your Next.js Frontend: Lessons Learned in a World of Evolving Threats | Mahartha Gemilang | [Read More](https://medium.com/p/b14e977080e9) |
 | Tue, 29 Apr 2025 02:34:21 GMT | Basic Hygiene Factors: Quality and Security Are Not Features. They Are Foundations. | Saurabh Jain | [Read More](https://medium.com/p/2b1058b8420c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 18:50:33 GMT | Server-Side Template Injection (SSTI) ve Client-Side Template Injection (CSTI) Zaafiyetleri | Fatih Erdem | [Read More](https://medium.com/p/bedfe002bc75) |
 | Mon, 28 Apr 2025 18:45:39 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 43 | Cyber Strategy Institute | [Read More](https://medium.com/p/2a10374be9c5) |
 | Mon, 28 Apr 2025 18:33:30 GMT | Overpass — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/f93a747db630) |
-| Mon, 28 Apr 2025 18:29:26 GMT | Assessing Cybersecurity Knowledge Through Quizzes, Surveys, and Simulated Attacks | Cyber Crew Hub | [Read More](https://medium.com/p/098a915dc6f2) |
-| Mon, 28 Apr 2025 18:27:44 GMT | A-LISTED TOOLS OFFERED BY THE BEST CYBERSECURITY CERTIFICATIONS | Jennifer Wales | [Read More](https://medium.com/p/9a1578a2da01) |
-| Mon, 28 Apr 2025 18:24:44 GMT | How to Send Cookies from Browser to WebSocket Backend (and Why You Can’t See Them in Chrome… | Charith Jayasanka | [Read More](https://medium.com/p/b383b53b22fa) |
-| Mon, 28 Apr 2025 18:22:07 GMT | Local File Inclusion (LFI) vs Remote File Inclusion (RFI) | Adham Hashem | [Read More](https://medium.com/p/55c6df7427c5) |
