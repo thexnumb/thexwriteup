@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 17:36:19 GMT | EDR Can’t Stop You If You Walk Through the Front Door | Anezaneo | [Read More](https://medium.com/p/58e6c814b4fa) |
+| Tue, 29 Apr 2025 17:34:35 GMT | Network Segmentation in Penetration Testing: Key Insights for Ethical Hackers and Red Teamers | YoungerSibling | [Read More](https://medium.com/p/8c563a975cfa) |
+| Tue, 29 Apr 2025 17:26:02 GMT | I Have a Hacking Gig For YOU, Hack Them and Get Paid | Muhammad | [Read More](https://medium.com/p/2cddf6442492) |
+| Tue, 29 Apr 2025 17:20:51 GMT | Data Security and Encryption | Aalekh Srivastava | [Read More](https://medium.com/p/8faa0fb0c291) |
+| Tue, 29 Apr 2025 17:20:45 GMT | Intro to SQL Injection. | err0rgod | [Read More](https://medium.com/p/ec341c7be2ff) |
+| Tue, 29 Apr 2025 17:19:49 GMT | Level Up Your Reviews: The One Simple Habit for Better Code Reviews | Jake Merten | [Read More](https://medium.com/p/4b6cb1215399) |
+| Tue, 29 Apr 2025 17:19:02 GMT | Unlocking Digital Doors: A Deep Dive into Authentication & Authorization | Aalekh Srivastava | [Read More](https://medium.com/p/a4c63ffe2d59) |
+| Tue, 29 Apr 2025 17:18:57 GMT | SSH Bruteforce- All about bruteforce. | err0rgod | [Read More](https://medium.com/p/4ab38340631f) |
 | Tue, 29 Apr 2025 17:07:10 GMT | Beyond the Imitation Game: Why the Turing Test’s Deceptive Core Undermines Ethical AI | Leila Golchehreh | [Read More](https://medium.com/p/935b2c600729) |
 | Tue, 29 Apr 2025 17:06:36 GMT | Bug bounty program STON.fi: $500,000 in rewards | aqkiler | [Read More](https://medium.com/p/c03c1b90c24d) |
 | Tue, 29 Apr 2025 17:04:49 GMT | Bug Bounty программа STON.fi: $500,000 в наградах | aqkiler | [Read More](https://medium.com/p/ca3da312326d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 13:10:17 GMT | What the Heart Really Wants in Love | Bright Flow | [Read More](https://medium.com/p/03054518c2a1) |
 | Tue, 29 Apr 2025 13:09:47 GMT | Cybersecurity: Fortifying Elenktes Audit Aggregators’ Foundation | Elenktes | [Read More](https://medium.com/p/a99ef1e7ca62) |
 | Tue, 29 Apr 2025 13:06:02 GMT | Inside the Shadows: How Chinese Triad Fronts Fuel Human Trafficking and Exploitation | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/d00127a3c54f) |
-| Tue, 29 Apr 2025 13:03:52 GMT | Pentesting Redis | RE4PER | [Read More](https://medium.com/p/efce29b9b198) |
-| Tue, 29 Apr 2025 13:02:52 GMT | Your Attack Surface Has Exploded — Have You Mapped It Yet? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/ca648aeb7a5d) |
-| Tue, 29 Apr 2025 12:56:29 GMT | Scientists Prove Paradox-Free Time Travel Might Actually Be Possible | Emily Wilson | [Read More](https://medium.com/p/ae613b72f347) |
-| Tue, 29 Apr 2025 12:52:47 GMT | REFLECTION ON CHAPTER 3 | Majiq | [Read More](https://medium.com/p/57bd5b0e5e8d) |
-| Tue, 29 Apr 2025 12:52:29 GMT | 1. nmap [target] — Network scanning tool. | klandestins | [Read More](https://medium.com/p/6f0cd487617d) |
-| Tue, 29 Apr 2025 12:49:02 GMT | Cybersecurity Under Fire: Breaches, Budget Cuts, and Battles in the Sky | Sam Achek | [Read More](https://medium.com/p/6f6a3333cfd6) |
-| Tue, 29 Apr 2025 12:46:32 GMT | Responsibilities of the Transport Layer | Cyber Timi | [Read More](https://medium.com/p/8ef34c9bf3de) |
-| Tue, 29 Apr 2025 12:41:42 GMT | Bribery, Cargo Theft, and the Human Sensor Network: How Culture and Indicators Protect Supply… | Demitri Malinski | [Read More](https://medium.com/p/f1c6c7659a41) |
