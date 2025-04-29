@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 13:10:17 GMT | What the Heart Really Wants in Love | Bright Flow | [Read More](https://medium.com/p/03054518c2a1) |
+| Tue, 29 Apr 2025 13:09:47 GMT | Cybersecurity: Fortifying Elenktes Audit Aggregators’ Foundation | Elenktes | [Read More](https://medium.com/p/a99ef1e7ca62) |
+| Tue, 29 Apr 2025 13:06:02 GMT | Inside the Shadows: How Chinese Triad Fronts Fuel Human Trafficking and Exploitation | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/d00127a3c54f) |
+| Tue, 29 Apr 2025 13:03:52 GMT | Pentesting Redis | RE4PER | [Read More](https://medium.com/p/efce29b9b198) |
+| Tue, 29 Apr 2025 13:02:52 GMT | Your Attack Surface Has Exploded — Have You Mapped It Yet? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/ca648aeb7a5d) |
+| Tue, 29 Apr 2025 12:56:29 GMT | Scientists Prove Paradox-Free Time Travel Might Actually Be Possible | Emily Wilson | [Read More](https://medium.com/p/ae613b72f347) |
+| Tue, 29 Apr 2025 12:52:47 GMT | REFLECTION ON CHAPTER 3 | Majiq | [Read More](https://medium.com/p/57bd5b0e5e8d) |
+| Tue, 29 Apr 2025 12:52:29 GMT | 1. nmap [target] — Network scanning tool. | klandestins | [Read More](https://medium.com/p/6f0cd487617d) |
+| Tue, 29 Apr 2025 12:49:02 GMT | Cybersecurity Under Fire: Breaches, Budget Cuts, and Battles in the Sky | Sam Achek | [Read More](https://medium.com/p/6f6a3333cfd6) |
+| Tue, 29 Apr 2025 12:46:32 GMT | Responsibilities of the Transport Layer | Cyber Timi | [Read More](https://medium.com/p/8ef34c9bf3de) |
+| Tue, 29 Apr 2025 12:41:42 GMT | Bribery, Cargo Theft, and the Human Sensor Network: How Culture and Indicators Protect Supply… | Demitri Malinski | [Read More](https://medium.com/p/f1c6c7659a41) |
+| Tue, 29 Apr 2025 12:41:35 GMT | The Prompt Engineer’s Wordle | Eric Li | [Read More](https://medium.com/p/a626b14208dd) |
 | Tue, 29 Apr 2025 12:36:05 GMT | tcpdump 101: Silently Capturing Your Target’s Network Traffic | january1073 | [Read More](https://medium.com/p/76b839e64232) |
 | Tue, 29 Apr 2025 12:30:40 GMT | Lab Report#6 — Credentials in Shares | Samet Koca | [Read More](https://medium.com/p/3bd85120b85c) |
 | Tue, 29 Apr 2025 12:23:18 GMT | Professional Security System Installation in CT — Lynx Systems LLC | Lynx Systems LLC | [Read More](https://medium.com/p/a65febd8b0fe) |
@@ -39,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 11:12:00 GMT | How to Secure Your E-Commerce Website from Hackers | Quality Thought | [Read More](https://medium.com/p/6b35b27e7722) |
 | Tue, 29 Apr 2025 11:05:42 GMT | What is the difference between Trend Apex one and Trend vision one in simple terms? | Umme habiba | [Read More](https://medium.com/p/76c27ad0d58f) |
 | Tue, 29 Apr 2025 11:02:09 GMT | F-Droid: The Open-Source App Store Alternative You Should Know About | KEALEN CLAUDE | [Read More](https://medium.com/p/450f593430eb) |
+| Tue, 29 Apr 2025 11:00:02 GMT | Kübitler, Dolaşıklık ve Bilgi: Kuantumun Ayrılmaz Üçlüsü | Chinar Quantum AI | [Read More](https://medium.com/p/6d349e1ed144) |
 | Tue, 29 Apr 2025 10:56:34 GMT | Monad Airdrop Guide: the Easiest Way to Unlock your Rewards | Monad | [Read More](https://medium.com/p/3a2bb6b2910d) |
 | Tue, 29 Apr 2025 10:44:38 GMT | Evolution of Security Guard Services | United Guard Force India | [Read More](https://medium.com/p/370c2e805681) |
 | Tue, 29 Apr 2025 10:43:44 GMT | Null Byte : 1 | Raghav | [Read More](https://medium.com/p/4aab13dd58af) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 07:36:36 GMT | Difference Between TweetEraser and TweetDelete: What You Need to Know | Eddy Enoma | [Read More](https://medium.com/p/00b10203b4ba) |
 | Tue, 29 Apr 2025 07:35:49 GMT | CISA Sounds the Alarm: Broadcom and Commvault Flaws Under Active Exploitation! ️ | Ismail Tasdelen | [Read More](https://medium.com/p/67a3c5f7f3dd) |
 | Tue, 29 Apr 2025 07:33:52 GMT | Top Free Proxy Sites for Students in 2025: Bypass Restrictions with Ease | Proxy 302 | [Read More](https://medium.com/p/a0cc161f92e2) |
-| Tue, 29 Apr 2025 07:28:57 GMT | What are the Risks Associated with Generative AI Code? | Accorian | [Read More](https://medium.com/p/29dce9ff550c) |
-| Tue, 29 Apr 2025 07:26:37 GMT | Phases of a Cybersecurity Incident Response Plan | Khubra | [Read More](https://medium.com/p/16426ef6f6e4) |
-| Tue, 29 Apr 2025 07:25:14 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/ee000823c64f) |
-| Tue, 29 Apr 2025 07:21:22 GMT | Access control installation in Waco tx: 5 Essential Considerations for Business Security | Cenathanjoy_Official | [Read More](https://medium.com/p/4f9256d0f796) |
-| Tue, 29 Apr 2025 07:21:08 GMT | How Microsoft Defender Suite Works — Protocols and Integration Explained | Vinod Survase | [Read More](https://medium.com/p/ec2f3f8d575d) |
-| Tue, 29 Apr 2025 07:18:24 GMT | Intercepting Requests with Chrome Extension | Alp Keskin | [Read More](https://medium.com/p/dfec2d28deda) |
-| Tue, 29 Apr 2025 07:18:19 GMT | Master Your Future with Cyber Security and Ethical Hacking Training in Chandigarh at Cnt… | Cnt Technologies | [Read More](https://medium.com/p/08d8f4981494) |
-| Tue, 29 Apr 2025 07:13:02 GMT | How I Learned to Diversify the Hard Way | ABHSHK | [Read More](https://medium.com/p/b4283ff6da4f) |
-| Tue, 29 Apr 2025 07:02:05 GMT | Advancing Cybersecurity Resilience with Francesco Christopher Percival | Francesco Christopher Percival | [Read More](https://medium.com/p/8708ffede073) |
-| Tue, 29 Apr 2025 07:01:34 GMT | Easy2Patch April 26, 2025 Catalog Update: 29 New Software Releases Now Available! | Easy2Patch | [Read More](https://medium.com/p/b9a341834189) |
-| Tue, 29 Apr 2025 06:47:36 GMT | The Role of Artificial Intelligence in Cybersecurity | Jenny smith | [Read More](https://medium.com/p/0f9da4fac86a) |
-| Tue, 29 Apr 2025 06:43:47 GMT | Cloudflare Tunnel Misconfigurations: A Silent Threat in DevOps Pipelines | Aditya Bhatt | [Read More](https://medium.com/p/c1842ca56fdd) |
-| Tue, 29 Apr 2025 06:38:41 GMT | Managing Old Infrastructure Systems: A Security View | Joe Frixon | [Read More](https://medium.com/p/2eff975e9a1a) |
