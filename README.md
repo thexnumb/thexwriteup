@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 20:58:18 GMT | Securing Multisig Transactions on Solana: Addressing Infrastructure Vulnerabilities in the Squads… | Khaythefirst | [Read More](https://medium.com/p/74c06f5dac09) |
+| Tue, 29 Apr 2025 20:56:45 GMT | The Max Headroom Hack: The Strangest TV Hijacking in History | Jacob Ruhl | [Read More](https://medium.com/p/1eb19438daba) |
+| Tue, 29 Apr 2025 20:55:19 GMT | When Security Backfires: Why Wildcard SSL and DNSSEC Aren’t Always the Right Move | Ahmed AbdElmaqsoud | [Read More](https://medium.com/p/a70c700da5a3) |
+| Tue, 29 Apr 2025 20:53:35 GMT | De Padawan a expert: Mi viaje en TryHackMe y cómo transformó mi carrera en ciberseguridad | N0R37urn | [Read More](https://medium.com/p/5db5b498788a) |
+| Tue, 29 Apr 2025 20:45:55 GMT | WhatsApp’s Private Processing: AI Power Meets Ironclad Privacy | Ismail Tasdelen | [Read More](https://medium.com/p/f6072dda6aeb) |
+| Tue, 29 Apr 2025 20:45:23 GMT | Tierra Audit Report | Hyacinth | [Read More](https://medium.com/p/c25489e785a3) |
+| Tue, 29 Apr 2025 20:43:10 GMT | AI Jailbreaks and Data Risks: The Wild Side of GenAI in 2025 | Ismail Tasdelen | [Read More](https://medium.com/p/41c9d998abe2) |
+| Tue, 29 Apr 2025 20:42:35 GMT | Day 21: OverTheWire-Bandit Wargames: Level 0 → 5 | Agarwaldaksh | [Read More](https://medium.com/p/3f35a3c0c05f) |
+| Tue, 29 Apr 2025 20:40:22 GMT | Chinese Espionage Unveiled: How SentinelOne Fought Off PurpleHaze and Other Cyber Shenanigans… | Ismail Tasdelen | [Read More](https://medium.com/p/b8d46d08ac21) |
+| Tue, 29 Apr 2025 20:36:28 GMT | Securing Microsoft 365 Copilot with Reco: A Deep Dive into AI-Powered Protection | Ismail Tasdelen | [Read More](https://medium.com/p/bb44c3d16268) |
 | Tue, 29 Apr 2025 20:33:32 GMT | Zero-Days in 2024: Google’s Report Unpacks a Wild Year for Cybersecurity | Ismail Tasdelen | [Read More](https://medium.com/p/08bcd61b0823) |
 | Tue, 29 Apr 2025 20:20:05 GMT | Netsys64.exe: The Sneaky Crypto Miner That Didn’t Want to Be Found | Brendan Smith | [Read More](https://medium.com/p/c5ca080c8b45) |
 | Tue, 29 Apr 2025 20:10:34 GMT | Dead Things Still Answer to God | DB Journal | [Read More](https://medium.com/p/ec707688884d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 15:55:44 GMT | Reflection on Chapter 3: A TOP-LEVEL VIEW OF COMPUTER FUNCTION AND INTERCONNECTION | Azfar | [Read More](https://medium.com/p/a477b3005d15) |
 | Tue, 29 Apr 2025 15:55:00 GMT | Setting Up a Free SOC Lab with the Wazuh Cloud Trial: A Simple Guide | Farhan Beg | [Read More](https://medium.com/p/78860b35cb98) |
 | Tue, 29 Apr 2025 15:52:32 GMT | Lab 21 — Using Netstat command to view networking information | Hassen Hannachi | [Read More](https://medium.com/p/cdc2939a1052) |
-| Tue, 29 Apr 2025 15:52:04 GMT | To crash out or not to crash out | Jayne Dough | [Read More](https://medium.com/p/1fe56edb0bd8) |
-| Tue, 29 Apr 2025 15:50:55 GMT | Protecting Digital Information With VPNs | James Neal | [Read More](https://medium.com/p/8a0c804d22b3) |
-| Tue, 29 Apr 2025 15:48:32 GMT | The Journey to Increased Traffic and Leads: A Event Company’s Story | Jayati Kataria | [Read More](https://medium.com/p/1f040d6a5d1f) |
-| Tue, 29 Apr 2025 15:45:44 GMT | The Best Advanced VPN Services For Everyday Use | Melvin Erickson | [Read More](https://medium.com/p/33e76779fd25) |
-| Tue, 29 Apr 2025 15:43:08 GMT | The Pain Of An Unloved Child | Deeprootedmindset | [Read More](https://medium.com/p/52bc75b34191) |
-| Tue, 29 Apr 2025 15:42:04 GMT | Top 10 Trending Cybersecurity Topics in 2025: What Businesses Must Know | Madhavaraman | [Read More](https://medium.com/p/86f7ba5d6d3b) |
-| Tue, 29 Apr 2025 15:39:13 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/41e147364c1a) |
-| Tue, 29 Apr 2025 15:36:57 GMT | Zero Tech Background. 100% Determination. Welcome to My Cybersecurity Chaos | Yagmur Yerlikaya | [Read More](https://medium.com/p/b02f19b28e90) |
-| Tue, 29 Apr 2025 15:33:42 GMT | Pico-CTF - Reverse Engineering - Flag-Hunter (Song on Hackers?!) | rinz0x0cruz | [Read More](https://medium.com/p/801b45b007fc) |
-| Tue, 29 Apr 2025 15:32:30 GMT | GZR Observer Daily — Apr 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/255a0fdb182d) |
