@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 17:07:10 GMT | Beyond the Imitation Game: Why the Turing Test’s Deceptive Core Undermines Ethical AI | Leila Golchehreh | [Read More](https://medium.com/p/935b2c600729) |
+| Tue, 29 Apr 2025 17:06:36 GMT | Bug bounty program STON.fi: $500,000 in rewards | aqkiler | [Read More](https://medium.com/p/c03c1b90c24d) |
+| Tue, 29 Apr 2025 17:04:49 GMT | Bug Bounty программа STON.fi: $500,000 в наградах | aqkiler | [Read More](https://medium.com/p/ca3da312326d) |
+| Tue, 29 Apr 2025 17:04:03 GMT | Summary of the Spain Power Outage Analysis — April 28, 2025 | Marcellus von Ruijcken | [Read More](https://medium.com/p/dd2b45e467c0) |
+| Tue, 29 Apr 2025 16:59:38 GMT | The Hidden Data Exposure Risk in Financial AI: Legal and Compliance Implications | John V. Levonick | [Read More](https://medium.com/p/78bf11531793) |
+| Tue, 29 Apr 2025 16:59:31 GMT | A Beginner’s Experience with the HackTheBox CAP Machine | Freddy Harahap | [Read More](https://medium.com/p/9b8bca074724) |
+| Tue, 29 Apr 2025 16:58:03 GMT | Ransomware for Noobs: The Dictionary | Chase Dancer | [Read More](https://medium.com/p/1727a5d35470) |
+| Tue, 29 Apr 2025 16:57:49 GMT | Bug Tracking Management for QA Teams: Let’s Get It Right | Devy Azkia | [Read More](https://medium.com/p/b4f3e7cfe129) |
+| Tue, 29 Apr 2025 16:56:31 GMT | OT Security - Challenges and Solutions for Critical Infrastructure Protection | SafeAeon Inc. | [Read More](https://medium.com/p/3e6f47f6adf9) |
+| Tue, 29 Apr 2025 16:53:19 GMT | Security Operations Center (SOC) Temelleri — 12 | Ali Ekber KARA | [Read More](https://medium.com/p/87f4daa878e3) |
+| Tue, 29 Apr 2025 16:50:43 GMT | Ponzi Scheme Scam - Hire Hacker To Get Your Funds Back | BlackHat | [Read More](https://medium.com/p/8debdd45d344) |
 | Tue, 29 Apr 2025 16:46:23 GMT | How I Exploited an elFinder Vulnerability on Lookup | Stoic_Gang | [Read More](https://medium.com/p/d34d9a01e0a2) |
 | Tue, 29 Apr 2025 16:42:09 GMT | Building a Phishing URL Detection API with Machine Learning and Flask | Kyoungmin Roh | [Read More](https://medium.com/p/9f2ae7e4af59) |
 | Tue, 29 Apr 2025 16:39:33 GMT | Anatomy of a Threat — What Modern Cyber Attacks Really Look Like | Alexandrankwopara | [Read More](https://medium.com/p/31d5069bd35f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 12:49:02 GMT | Cybersecurity Under Fire: Breaches, Budget Cuts, and Battles in the Sky | Sam Achek | [Read More](https://medium.com/p/6f6a3333cfd6) |
 | Tue, 29 Apr 2025 12:46:32 GMT | Responsibilities of the Transport Layer | Cyber Timi | [Read More](https://medium.com/p/8ef34c9bf3de) |
 | Tue, 29 Apr 2025 12:41:42 GMT | Bribery, Cargo Theft, and the Human Sensor Network: How Culture and Indicators Protect Supply… | Demitri Malinski | [Read More](https://medium.com/p/f1c6c7659a41) |
-| Tue, 29 Apr 2025 12:41:35 GMT | The Prompt Engineer’s Wordle | Eric Li | [Read More](https://medium.com/p/a626b14208dd) |
-| Tue, 29 Apr 2025 12:36:05 GMT | tcpdump 101: Silently Capturing Your Target’s Network Traffic | january1073 | [Read More](https://medium.com/p/76b839e64232) |
-| Tue, 29 Apr 2025 12:30:40 GMT | Lab Report#6 — Credentials in Shares | Samet Koca | [Read More](https://medium.com/p/3bd85120b85c) |
-| Tue, 29 Apr 2025 12:23:18 GMT | Professional Security System Installation in CT — Lynx Systems LLC | Lynx Systems LLC | [Read More](https://medium.com/p/a65febd8b0fe) |
-| Tue, 29 Apr 2025 12:21:47 GMT | How Docker Help my Django Deployments | Muhamad Rifqi | [Read More](https://medium.com/p/2fc6c4b5c9dd) |
-| Tue, 29 Apr 2025 12:19:03 GMT | ️HTML Encoding Real Cases in deep | Zoningxtr | [Read More](https://medium.com/p/23945237edc6) |
-| Tue, 29 Apr 2025 12:17:19 GMT | Step-by-Step Guide to Securing Your DevOps Pipeline Like a Pro (2025 Edition) | AbdulRahman Mostafa | [Read More](https://medium.com/p/34cab8ed79eb) |
-| Tue, 29 Apr 2025 12:16:30 GMT | Qradar Usage III | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/7eb165c92766) |
-| Tue, 29 Apr 2025 12:14:19 GMT | Unveiling the Shadows: Solana’s Transparency Crisis and the Case for Security by Design | Khaythefirst | [Read More](https://medium.com/p/1e11abdeb733) |
-| Tue, 29 Apr 2025 12:12:19 GMT | Integrating ISO 27001 with AI Governance Building Trust in Intelligent Systems | Azpirantz Technologies | [Read More](https://medium.com/p/1b5e78130f56) |
-| Tue, 29 Apr 2025 12:06:23 GMT | ResolverRAT: A Rising Threat to Healthcare and Pharmaceutical Sectors | Technijian | [Read More](https://medium.com/p/992fe92c2f6c) |
