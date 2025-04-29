@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 19:29:44 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges Explained (Part -1) | CH3TAN | [Read More](https://medium.com/p/17a7f57ea87b) |
+| Tue, 29 Apr 2025 19:29:01 GMT | From Ecuador  to Tech: My Journey into Cybersecurity | er3bit | [Read More](https://medium.com/p/4eeba54bb7ed) |
+| Tue, 29 Apr 2025 19:17:02 GMT | Overview: Tesla, Inc. | Mercedes Rogers | [Read More](https://medium.com/p/a82156231024) |
 | Tue, 29 Apr 2025 19:16:06 GMT | Integration security challenges in AI-assisted coding tools | Zahwah Jameel | [Read More](https://medium.com/p/219dcbd90114) |
 | Tue, 29 Apr 2025 19:06:44 GMT | “Professional Hacker” Email Scam: Don’t Fall for This Nonsense | Brendan Smith | [Read More](https://medium.com/p/d57a6f0fcfde) |
 | Tue, 29 Apr 2025 19:02:48 GMT | 7 Critical Linux Logs You Should Review After a Security Incident | Faruk Ahmed | [Read More](https://medium.com/p/0adaa12906af) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 14:55:20 GMT | WIRE TOR introduces Red Team as a Service (RTaaS) | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/063f2b344fb4) |
 | Tue, 29 Apr 2025 14:54:17 GMT | MyExpense:1 (VulnHub) | S4ntiHack | [Read More](https://medium.com/p/397ca13a677e) |
 | Tue, 29 Apr 2025 14:52:28 GMT | Yapay Zeka Destekli Yeni Tehdit: AI Vishing | İbrahim Karsu | [Read More](https://medium.com/p/f28a16b95aa9) |
-| Tue, 29 Apr 2025 14:50:21 GMT | The NIS2 Directive: Securing Humanity’s Digital Future | Ricardo Newman | [Read More](https://medium.com/p/c355f156bba2) |
-| Tue, 29 Apr 2025 14:46:48 GMT | How to Leverage CVEs and CVSS Scores for Stronger Cyber Defense | Saber You | [Read More](https://medium.com/p/8340a7fe6a47) |
-| Tue, 29 Apr 2025 14:46:11 GMT | How to Protect Your Node.js App from Malicious .PPT Files | Cloudmersive | [Read More](https://medium.com/p/de0b5eeba0bf) |
