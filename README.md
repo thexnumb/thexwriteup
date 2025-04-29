@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 07:13:02 GMT | How I Learned to Diversify the Hard Way | ABHSHK | [Read More](https://medium.com/p/b4283ff6da4f) |
+| Tue, 29 Apr 2025 07:02:05 GMT | Advancing Cybersecurity Resilience with Francesco Christopher Percival | Francesco Christopher Percival | [Read More](https://medium.com/p/8708ffede073) |
+| Tue, 29 Apr 2025 07:01:34 GMT | Easy2Patch April 26, 2025 Catalog Update: 29 New Software Releases Now Available! | Easy2Patch | [Read More](https://medium.com/p/b9a341834189) |
+| Tue, 29 Apr 2025 06:47:36 GMT | The Role of Artificial Intelligence in Cybersecurity | Jenny smith | [Read More](https://medium.com/p/0f9da4fac86a) |
 | Tue, 29 Apr 2025 06:43:47 GMT | Cloudflare Tunnel Misconfigurations: A Silent Threat in DevOps Pipelines | Aditya Bhatt | [Read More](https://medium.com/p/c1842ca56fdd) |
 | Tue, 29 Apr 2025 06:38:41 GMT | Managing Old Infrastructure Systems: A Security View | Joe Frixon | [Read More](https://medium.com/p/2eff975e9a1a) |
 | Tue, 29 Apr 2025 06:38:38 GMT | The Value and Impact of PMP Certification in Today’s Professional Landscape | Certocean | [Read More](https://medium.com/p/ff2367a61732) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 22:02:37 GMT | Am I Seeing Myself, or Just Who I Survived? | JQ Starling | [Read More](https://medium.com/p/d1477625d990) |
 | Mon, 28 Apr 2025 21:54:28 GMT | Malware Analysis network lab setup part 1 nftables | Ruben | [Read More](https://medium.com/p/ff43d5e302e4) |
 | Mon, 28 Apr 2025 21:47:09 GMT | SOC262 — ScreenConnect Authentication Bypass Exploitation Detected (CVE-2024–1709) | Dh | [Read More](https://medium.com/p/671b2ae58955) |
-| Mon, 28 Apr 2025 21:42:26 GMT | Qradar Usage Part II | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/e2d1fd8f7ec8) |
-| Mon, 28 Apr 2025 21:41:51 GMT | A Beginner Friendly Cyber Security Project: Python FIM | Jared Medeiros | [Read More](https://medium.com/p/12431ca77925) |
-| Mon, 28 Apr 2025 21:41:49 GMT | Introducing HOSICO: The Cat-Themed Solana Meme Token Debut on Top Exchanges | Kamaldeenlateef | [Read More](https://medium.com/p/8f026d1a25b6) |
-| Mon, 28 Apr 2025 21:37:36 GMT | A Comprehensive Analysis of Solana’s Security History: All Incidents, Impacts, and Evolution (Up to… | Lucrative Panda | [Read More](https://medium.com/p/1b1564c7ddfe) |
