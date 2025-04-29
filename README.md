@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 05:26:01 GMT | United States IT Spending Market Size & Growth Report 2034 | Aman Bansal | [Read More](https://medium.com/p/796a9794ba87) |
+| Tue, 29 Apr 2025 05:20:56 GMT | GraphQL API hacking Series for Bug Hunters Part 02 | IronGhost | [Read More](https://medium.com/p/837e0bc3be06) |
+| Tue, 29 Apr 2025 05:20:19 GMT | Principles of Security - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/d51e25d96087) |
+| Tue, 29 Apr 2025 05:19:55 GMT | Confronting the Invisible Threat: Lessons from the Spain–Portugal Blackout | Shige Tanimoto | [Read More](https://medium.com/p/d894d497edf1) |
 | Tue, 29 Apr 2025 05:11:57 GMT | Log Ingestion CrowdStrike Falcon Explained Simply | Vijilan | [Read More](https://medium.com/p/3e6f54b93542) |
 | Tue, 29 Apr 2025 05:11:37 GMT | Zero-Trust Architecture (ZTA): A Business Imperative, Not an Option | Faraz Ishaq | [Read More](https://medium.com/p/6c0742fa7855) |
 | Tue, 29 Apr 2025 05:09:57 GMT | Why Investing in Cybersecurity and Compliance Still Isn’t Enough for Data Protection | Jason Sohn | [Read More](https://medium.com/p/a41a60471ef3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 20:22:50 GMT | La gestion des vulnérabilités un chantier capital pour BFC tracteurs | Florent M | [Read More](https://medium.com/p/27549ea22cee) |
 | Mon, 28 Apr 2025 20:21:13 GMT | Road to SSRF : PDF generation and filter bypass on ASP.net application | Supr4s | [Read More](https://medium.com/p/dd3aa91c0fed) |
 | Mon, 28 Apr 2025 20:20:02 GMT | How I Uncovered Critical Bugs on the Pay4Energy AEDC Portal (and What I Learned) | Eghosa Osayame | [Read More](https://medium.com/p/482b93e008f1) |
-| Mon, 28 Apr 2025 20:17:06 GMT | Your True Understanding of Attacks Starts with: Cyber Kill Chain | Maged Anas | [Read More](https://medium.com/p/c954ae22dd9f) |
-| Mon, 28 Apr 2025 20:04:37 GMT | T-Pot in a Flash: Deploying a Honeypot on an Ubuntu Server in Under 10 Minutes | Abishek S | [Read More](https://medium.com/p/19244d2e09dd) |
-| Mon, 28 Apr 2025 20:03:10 GMT | The A, B, C’s of Security Settings for Zoom | Savvy Cyber Kids | [Read More](https://medium.com/p/ea0fba539c19) |
-| Mon, 28 Apr 2025 20:00:48 GMT | 5 Ways to Protect Your Kids When They Use IoT Products | Savvy Cyber Kids | [Read More](https://medium.com/p/d96681a2dbad) |
