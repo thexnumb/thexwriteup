@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 05:11:57 GMT | Log Ingestion CrowdStrike Falcon Explained Simply | Vijilan | [Read More](https://medium.com/p/3e6f54b93542) |
+| Tue, 29 Apr 2025 05:11:37 GMT | Zero-Trust Architecture (ZTA): A Business Imperative, Not an Option | Faraz Ishaq | [Read More](https://medium.com/p/6c0742fa7855) |
+| Tue, 29 Apr 2025 05:09:57 GMT | Why Investing in Cybersecurity and Compliance Still Isn’t Enough for Data Protection | Jason Sohn | [Read More](https://medium.com/p/a41a60471ef3) |
+| Tue, 29 Apr 2025 05:07:30 GMT | Transform Your Business with High-Performance Network Infrastructure | R&B Networks | [Read More](https://medium.com/p/ac0b5064875d) |
+| Tue, 29 Apr 2025 05:06:41 GMT | Unlock ChatGPT’s Full Potential: Prompting Hacks to Save You Hours Every Day | Vugar Ibrahimov | [Read More](https://medium.com/p/7aec6eb4bbbc) |
+| Tue, 29 Apr 2025 05:04:09 GMT | Website Security For Small Business Your Website is Live, but Is It Safe? | KaalSec | [Read More](https://medium.com/p/e2de2c95c3d5) |
+| Tue, 29 Apr 2025 04:57:49 GMT | Container Security Market Size, Share, Key Drivers, Growth Opportunities and Global Trends 2032 | Itocharlene | [Read More](https://medium.com/p/28ae821947b2) |
+| Tue, 29 Apr 2025 04:44:02 GMT | How AI-Powered CCTV Systems Adapt to Evolving Security Threats | Ask IT Support | [Read More](https://medium.com/p/385a9e1a4015) |
+| Tue, 29 Apr 2025 04:39:23 GMT | Viruses, Worms, and Trojans Explained: What Makes Each One Unique? | SignMyCode | [Read More](https://medium.com/p/1f50867b2022) |
+| Tue, 29 Apr 2025 04:32:36 GMT | CRYPTANALYSIS: ART OF BREAKING CODES | The Hackers Meetup | [Read More](https://medium.com/p/f737a1633e1c) |
 | Tue, 29 Apr 2025 04:18:59 GMT | Hunting CVEs in IoT Devices: A Wi-Fi Extender Walkthrough | David Yi | [Read More](https://medium.com/p/ea09b0afd90d) |
 | Tue, 29 Apr 2025 04:17:12 GMT | VPC Traffic Mirroring Architectures: Unmasking Network Blind Spots to Drive Business Growth | Servifyspheresolutions | [Read More](https://medium.com/p/eb6ac514bcd0) |
 | Tue, 29 Apr 2025 04:12:13 GMT | Defining Modern IT Infrastructure: The Evolving Landscape | Rick Hightower | [Read More](https://medium.com/p/e1862494f344) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 20:04:37 GMT | T-Pot in a Flash: Deploying a Honeypot on an Ubuntu Server in Under 10 Minutes | Abishek S | [Read More](https://medium.com/p/19244d2e09dd) |
 | Mon, 28 Apr 2025 20:03:10 GMT | The A, B, C’s of Security Settings for Zoom | Savvy Cyber Kids | [Read More](https://medium.com/p/ea0fba539c19) |
 | Mon, 28 Apr 2025 20:00:48 GMT | 5 Ways to Protect Your Kids When They Use IoT Products | Savvy Cyber Kids | [Read More](https://medium.com/p/d96681a2dbad) |
-| Mon, 28 Apr 2025 19:53:53 GMT | SOC Fundamentals — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/119c2b12fb29) |
-| Mon, 28 Apr 2025 19:49:56 GMT | Hack-Proof Your Story: A Guide for Authors | Vipul Mathur 'Naman' | [Read More](https://medium.com/p/589b739c91af) |
-| Mon, 28 Apr 2025 19:49:56 GMT | Security Advisory: Storm-1977 Attacks on Education Cloud via Password Spraying. | current.cybersecurity | [Read More](https://medium.com/p/63b810623b7b) |
-| Mon, 28 Apr 2025 19:44:16 GMT | Someday, DDoS Attacks Will Be History. But Today? It’s a Siege | Aaron Rose | [Read More](https://medium.com/p/16b418bab8ee) |
-| Mon, 28 Apr 2025 19:42:51 GMT | A Small Memoir of the Zadar Trip | daisycloudtai | [Read More](https://medium.com/p/ebbbf3ee6083) |
-| Mon, 28 Apr 2025 19:38:32 GMT | When a Single Id Breaks the System — Exploiting Mass Assignment in Patient Onboarding. | Dr Rmdn | [Read More](https://medium.com/p/7cf0b7a2877d) |
-| Mon, 28 Apr 2025 19:29:52 GMT | App Security in Swift: Keychain, Biometrics, Secure Enclave | Gaurav Harkhani | [Read More](https://medium.com/p/69359b4cffba) |
-| Mon, 28 Apr 2025 19:29:24 GMT | How to Build Cybersecurity Resilience for Your Business in an AI-Driven World | Jad lissandre | [Read More](https://medium.com/p/5a22a9a75843) |
-| Mon, 28 Apr 2025 19:25:32 GMT | Key Points on the NIST 800–171 Compliance Checklist | Akshay Chauhan | [Read More](https://medium.com/p/7e3eaeca6039) |
-| Mon, 28 Apr 2025 19:23:27 GMT | Strengthening Cybersecurity: Why People Are the Key Factor | Binitha John | [Read More](https://medium.com/p/bc0d34962d7a) |
