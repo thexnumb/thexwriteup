@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 02:56:33 GMT | Title: The Clockmaker's Secret | Saddam Hussein | [Read More](https://medium.com/p/3aaef31a2103) |
+| Tue, 29 Apr 2025 02:49:04 GMT | Fortifying Your Next.js Frontend: Lessons Learned in a World of Evolving Threats | Mahartha Gemilang | [Read More](https://medium.com/p/b14e977080e9) |
+| Tue, 29 Apr 2025 02:34:21 GMT | Basic Hygiene Factors: Quality and Security Are Not Features. They Are Foundations. | Saurabh Jain | [Read More](https://medium.com/p/2b1058b8420c) |
+| Tue, 29 Apr 2025 02:31:52 GMT | How a Simple Habit Changed My Life | Saddam Hussein | [Read More](https://medium.com/p/08ccea6095d9) |
+| Tue, 29 Apr 2025 02:26:52 GMT | Your Variable Names Are Killing Your Code — Here’s Why! | Code Crack | [Read More](https://medium.com/p/42abae729088) |
+| Tue, 29 Apr 2025 02:16:46 GMT | API Misconfigurations: The Silent Threat Exposing Sensitive Data | Cyber-AppSec | [Read More](https://medium.com/p/0d6d7eff2da8) |
+| Tue, 29 Apr 2025 02:13:43 GMT | DFIR: An Introduction - THM | Isiah Johnstone | [Read More](https://medium.com/p/75ecb3dbd60c) |
+| Tue, 29 Apr 2025 02:04:26 GMT | Nightfall in Men: What It Is and Why It Happens | Emily Wilson | [Read More](https://medium.com/p/19ca96bb0722) |
+| Tue, 29 Apr 2025 01:54:12 GMT | The Vending Machine That Hacked a Small Business: 2025’s Strangest Cyberattack | Noel | [Read More](https://medium.com/p/b9f74b55736c) |
+| Tue, 29 Apr 2025 01:53:42 GMT | The Fortune Cookie Virus: How a Chinese Takeout Order Nearly Destroyed a Company | Noel | [Read More](https://medium.com/p/81f18e04b9a6) |
+| Tue, 29 Apr 2025 01:53:20 GMT | The Mental Models That Will Make You a Better Security Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/d6fa918256a0) |
+| Tue, 29 Apr 2025 01:52:07 GMT | "Exploring Work-from-Home Opportunities: A Guide to Flexible Careers in 2025" | Pavan | [Read More](https://medium.com/p/27d4f44bce8b) |
+| Tue, 29 Apr 2025 01:51:31 GMT | Detection Result Classification | Garrett Spear | [Read More](https://medium.com/p/0802c27c3a3c) |
+| Tue, 29 Apr 2025 01:51:02 GMT | $100 Password Reset Flaw | Monika sharma | [Read More](https://medium.com/p/7827effebca2) |
 | Tue, 29 Apr 2025 01:41:51 GMT | How i Became a Pentester - Como me Tornei um Pentester | Gustavo Hetrich | [Read More](https://medium.com/p/96f5ce3644bb) |
 | Tue, 29 Apr 2025 01:39:12 GMT | What is a Firewall? How It Works to Protect Your Data (Beginner’s Guide) | Pawan Jaiswal | [Read More](https://medium.com/p/fe2262d8aad4) |
 | Tue, 29 Apr 2025 01:28:28 GMT | Tuesday Morning Threat Report: Apr 29, 2025 | Mark Maguire | [Read More](https://medium.com/p/a1df8ae2d7f1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 18:27:44 GMT | A-LISTED TOOLS OFFERED BY THE BEST CYBERSECURITY CERTIFICATIONS | Jennifer Wales | [Read More](https://medium.com/p/9a1578a2da01) |
 | Mon, 28 Apr 2025 18:24:44 GMT | How to Send Cookies from Browser to WebSocket Backend (and Why You Can’t See Them in Chrome… | Charith Jayasanka | [Read More](https://medium.com/p/b383b53b22fa) |
 | Mon, 28 Apr 2025 18:22:07 GMT | Local File Inclusion (LFI) vs Remote File Inclusion (RFI) | Adham Hashem | [Read More](https://medium.com/p/55c6df7427c5) |
-| Mon, 28 Apr 2025 18:21:41 GMT | You Don’t Have to Be Finished to Be Compelling | Michaela Wakefield | [Read More](https://medium.com/p/3139437b617e) |
-| Mon, 28 Apr 2025 18:21:24 GMT | Your Password Won’t Save You — Here’s What Actually Keeps You Safe Online | Giridharan P | [Read More](https://medium.com/p/2fd57afabf6c) |
-| Mon, 28 Apr 2025 18:20:10 GMT | CVE-2025–27556 - Django — Windows’ta LoginView, LogoutView ve set_language() üzerinde Potansiyel… | Yunus Olçar | [Read More](https://medium.com/p/86d6318d99e6) |
-| Mon, 28 Apr 2025 18:19:43 GMT | From Analysis to Action: A Guide to Decisive Cybersecurity Risk Management | Darryl MacLeod | [Read More](https://medium.com/p/f2479c0af6af) |
-| Mon, 28 Apr 2025 18:08:08 GMT | API Security: Scopes and Claims | Tihomir Manushev | [Read More](https://medium.com/p/af93c227bea0) |
-| Mon, 28 Apr 2025 18:07:41 GMT | : | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/9ad1acc64e3b) |
-| Mon, 28 Apr 2025 18:02:39 GMT | How Breaches Start: Breaking Down 5 Real Vulnerabilities ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/8b1a032b0335) |
-| Mon, 28 Apr 2025 17:58:18 GMT | Enterprise-Grade Data Centers in India | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/734641859f4b) |
-| Mon, 28 Apr 2025 17:57:00 GMT | Pakistan's Misinformation Campaigns: A Social Media Challenge | PRIYANSHU | [Read More](https://medium.com/p/0becd7903d0e) |
-| Mon, 28 Apr 2025 17:47:42 GMT | The Must-Have Data Strategy for Modern Manufacturers | Neha Mashruwala | [Read More](https://medium.com/p/d3af294f6487) |
-| Mon, 28 Apr 2025 17:36:20 GMT | HackTheBox Kerala: Igniting a Cybersecurity Revolution in God’s Own Country | Jayasankarkiran | [Read More](https://medium.com/p/b10f5cefbc16) |
-| Mon, 28 Apr 2025 17:32:47 GMT | Write — Up bullyBox - Linux machine (Intermediate) - | Sergios Serg | [Read More](https://medium.com/p/f51ee73f0384) |
-| Mon, 28 Apr 2025 17:32:37 GMT | Flipper Zero: The Ultimate Hacker’s Swiss Army Knife | The Tech Review | [Read More](https://medium.com/p/ac4cdc44a83b) |
-| Mon, 28 Apr 2025 17:31:47 GMT | Protecting Critical Infrastructure: How Rainbow Secure Defends Against Modern Cyber Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/e25d2b41270c) |
