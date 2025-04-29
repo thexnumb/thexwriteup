@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 12:36:05 GMT | tcpdump 101: Silently Capturing Your Target’s Network Traffic | january1073 | [Read More](https://medium.com/p/76b839e64232) |
+| Tue, 29 Apr 2025 12:30:40 GMT | Lab Report#6 — Credentials in Shares | Samet Koca | [Read More](https://medium.com/p/3bd85120b85c) |
+| Tue, 29 Apr 2025 12:23:18 GMT | Professional Security System Installation in CT — Lynx Systems LLC | Lynx Systems LLC | [Read More](https://medium.com/p/a65febd8b0fe) |
+| Tue, 29 Apr 2025 12:21:47 GMT | How Docker Help my Django Deployments | Muhamad Rifqi | [Read More](https://medium.com/p/2fc6c4b5c9dd) |
+| Tue, 29 Apr 2025 12:19:03 GMT | ️HTML Encoding Real Cases in deep | Zoningxtr | [Read More](https://medium.com/p/23945237edc6) |
+| Tue, 29 Apr 2025 12:17:19 GMT | Step-by-Step Guide to Securing Your DevOps Pipeline Like a Pro (2025 Edition) | AbdulRahman Mostafa | [Read More](https://medium.com/p/34cab8ed79eb) |
+| Tue, 29 Apr 2025 12:16:30 GMT | Qradar Usage III | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/7eb165c92766) |
+| Tue, 29 Apr 2025 12:14:19 GMT | Unveiling the Shadows: Solana’s Transparency Crisis and the Case for Security by Design | Khaythefirst | [Read More](https://medium.com/p/1e11abdeb733) |
+| Tue, 29 Apr 2025 12:12:19 GMT | Integrating ISO 27001 with AI Governance Building Trust in Intelligent Systems | Azpirantz Technologies | [Read More](https://medium.com/p/1b5e78130f56) |
+| Tue, 29 Apr 2025 12:06:23 GMT | ResolverRAT: A Rising Threat to Healthcare and Pharmaceutical Sectors | Technijian | [Read More](https://medium.com/p/992fe92c2f6c) |
+| Tue, 29 Apr 2025 12:06:22 GMT | Managing Encryption Keys in GCP using Cloud HSM | @jacob_sec | [Read More](https://medium.com/p/3d0db1b52fb1) |
+| Tue, 29 Apr 2025 12:05:59 GMT | What Happens When You Request a Web Page? | Zoningxtr | [Read More](https://medium.com/p/5e382e05d89f) |
+| Tue, 29 Apr 2025 12:02:54 GMT | Reverse Engineering AWS with Terraform Import & Terraformer: A Practical Guide | Sonu Chauhan | [Read More](https://medium.com/p/5f593d77b3a8) |
+| Tue, 29 Apr 2025 12:02:49 GMT | How learning to be courageously vulnerable can make you better at your job and relationships. | Gregory Q. Jenkins | [Read More](https://medium.com/p/df9c7ea0305d) |
+| Tue, 29 Apr 2025 11:59:52 GMT | What is HTML Safe Character Encoding? | Zoningxtr | [Read More](https://medium.com/p/54a687fa8949) |
+| Tue, 29 Apr 2025 11:59:00 GMT | Onions, Cinnamon Buns, and other peelable things | Felicia Carrara | [Read More](https://medium.com/p/05bf84c7c910) |
+| Tue, 29 Apr 2025 11:55:33 GMT | Funding Uncertainty at MITRE: Implications for Global Cyber Security and the Future of… | Omar Alhendi | [Read More](https://medium.com/p/ec3fd1e81587) |
+| Tue, 29 Apr 2025 11:53:01 GMT | False Positive, True Leak: The Hidden Risks of Using the Public Version of Any.run | Ata Erdemir | [Read More](https://medium.com/p/5985b521ac7b) |
+| Tue, 29 Apr 2025 11:52:29 GMT | Kali Linux: The Ultimate Toolkit for Ethical Hackers | Oscptraining | [Read More](https://medium.com/p/50f4c7fbaf5c) |
+| Tue, 29 Apr 2025 11:35:23 GMT | HackTheBox Challenge: Nibbles — Using Metasploit for Privilege Escalation | adidhack | [Read More](https://medium.com/p/3f6b9e874d9e) |
 | Tue, 29 Apr 2025 11:34:50 GMT | Cybersecurity Training: Online or In-Person — Which Is Right for You? | Educ4te | [Read More](https://medium.com/p/3ceaac86843c) |
 | Tue, 29 Apr 2025 11:30:07 GMT | Tempest - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/6437b2ebf995) |
 | Tue, 29 Apr 2025 11:29:34 GMT | Elevate Your Guest Experience with Century Solutions Group | Century Solutions Group | [Read More](https://medium.com/p/407ea869f22d) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 06:47:36 GMT | The Role of Artificial Intelligence in Cybersecurity | Jenny smith | [Read More](https://medium.com/p/0f9da4fac86a) |
 | Tue, 29 Apr 2025 06:43:47 GMT | Cloudflare Tunnel Misconfigurations: A Silent Threat in DevOps Pipelines | Aditya Bhatt | [Read More](https://medium.com/p/c1842ca56fdd) |
 | Tue, 29 Apr 2025 06:38:41 GMT | Managing Old Infrastructure Systems: A Security View | Joe Frixon | [Read More](https://medium.com/p/2eff975e9a1a) |
-| Tue, 29 Apr 2025 06:38:38 GMT | The Value and Impact of PMP Certification in Today’s Professional Landscape | Certocean | [Read More](https://medium.com/p/ff2367a61732) |
-| Tue, 29 Apr 2025 06:35:22 GMT | The Iberian Blackout: A Conspiracy Unplugged | Paranormal Phenomena | [Read More](https://medium.com/p/580e3dba087a) |
-| Tue, 29 Apr 2025 06:34:25 GMT | How can i find a Jenkins dashboard and ended up with Reverse Shell on shodan | Fakhri Abbas Ailatat | [Read More](https://medium.com/p/31fcfb8db8b4) |
-| Tue, 29 Apr 2025 06:29:31 GMT | Why Ccreater.top is the Ultimate Trading Platform You Can’t Miss | Flora Snoddy | [Read More](https://medium.com/p/a7a0a0cd5644) |
-| Tue, 29 Apr 2025 06:28:42 GMT | AI-Driven Malware: The Silent Revolution Reshaping Cyber Threats | emanuel Brown | [Read More](https://medium.com/p/34c890adca2a) |
-| Tue, 29 Apr 2025 06:22:14 GMT | Shadow Copy Forensics: Detecting and Investigating VSS Tampering | Paritosh | [Read More](https://medium.com/p/17c5bf555230) |
-| Tue, 29 Apr 2025 06:17:32 GMT | Day 4 - Cybersecurity | kate | [Read More](https://medium.com/p/173106973ec5) |
-| Tue, 29 Apr 2025 06:16:00 GMT | My Journey to OffSec Certified Professional+ (OSCP+): from zero to hero | Ramazan | [Read More](https://medium.com/p/abe8ff8455b0) |
-| Tue, 29 Apr 2025 06:10:43 GMT | Simplify NABARD IS Compliance with CertCube Labs | Certcube Labs | [Read More](https://medium.com/p/8fd9955f3049) |
-| Tue, 29 Apr 2025 06:09:19 GMT | Overview and Best Practices for AWS Inspector Security Vulnerability Management | Adhiraj Jarwal | [Read More](https://medium.com/p/10c9ebe7a368) |
-| Tue, 29 Apr 2025 06:07:12 GMT | A Complete Beginner’s Guide to Cybersecurity Maturity Model Certification | Prowise Systems | [Read More](https://medium.com/p/1f9345f8ebfe) |
-| Tue, 29 Apr 2025 06:06:32 GMT | SyncVault Bug Bounty Challenge | SyncVault | [Read More](https://medium.com/p/bfd466be173c) |
-| Tue, 29 Apr 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Apr 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8c7c779ab84a) |
-| Tue, 29 Apr 2025 05:58:14 GMT | I’m Tired...But I Still Believe. | Sneha Gangurde | [Read More](https://medium.com/p/d8e5d142fd60) |
-| Tue, 29 Apr 2025 05:45:02 GMT | ️ The ULTIMATE Web App Hacking Checklist for Bug Bounty Hunters | REDx Cybersec | [Read More](https://medium.com/p/a495b436ab6f) |
-| Tue, 29 Apr 2025 05:42:37 GMT | The Red Teaming: 30-Day Challenge[15] | Bl@ckC!pH3r | [Read More](https://medium.com/p/eee06f81f584) |
-| Tue, 29 Apr 2025 05:41:41 GMT | The Importance of Plastic Security Seals and Garment Plastic Seal Tags in Modern Industries | Risha Singh | [Read More](https://medium.com/p/9a16144624ed) |
-| Tue, 29 Apr 2025 05:26:01 GMT | United States IT Spending Market Size & Growth Report 2034 | Aman Bansal | [Read More](https://medium.com/p/796a9794ba87) |
-| Tue, 29 Apr 2025 05:25:44 GMT | 見えない脅威とどう向き合うか ── スペイン・ポルトガル大停電の教訓 | Shige Tanimoto | [Read More](https://medium.com/p/d923501a4258) |
-| Tue, 29 Apr 2025 05:20:56 GMT | GraphQL API hacking Series for Bug Hunters Part 02 | IronGhost | [Read More](https://medium.com/p/837e0bc3be06) |
