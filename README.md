@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 20:33:32 GMT | Zero-Days in 2024: Google’s Report Unpacks a Wild Year for Cybersecurity | Ismail Tasdelen | [Read More](https://medium.com/p/08bcd61b0823) |
+| Tue, 29 Apr 2025 20:20:05 GMT | Netsys64.exe: The Sneaky Crypto Miner That Didn’t Want to Be Found | Brendan Smith | [Read More](https://medium.com/p/c5ca080c8b45) |
 | Tue, 29 Apr 2025 20:10:34 GMT | Dead Things Still Answer to God | DB Journal | [Read More](https://medium.com/p/ec707688884d) |
 | Tue, 29 Apr 2025 20:01:26 GMT | Why Prompts Are the New IOCs You Didn’t See Coming! | Thomas Roccia | [Read More](https://medium.com/p/46ecaacafe0a) |
 | Tue, 29 Apr 2025 19:56:56 GMT | Will We Need a Digital Police Force in the Age of AI? | dajdoj | [Read More](https://medium.com/p/15bb46c8c921) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 15:36:57 GMT | Zero Tech Background. 100% Determination. Welcome to My Cybersecurity Chaos | Yagmur Yerlikaya | [Read More](https://medium.com/p/b02f19b28e90) |
 | Tue, 29 Apr 2025 15:33:42 GMT | Pico-CTF - Reverse Engineering - Flag-Hunter (Song on Hackers?!) | rinz0x0cruz | [Read More](https://medium.com/p/801b45b007fc) |
 | Tue, 29 Apr 2025 15:32:30 GMT | GZR Observer Daily — Apr 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/255a0fdb182d) |
-| Tue, 29 Apr 2025 15:32:15 GMT | AI Agent Security in 2025: Separating Hype from Reality | Phillip Carrington | [Read More](https://medium.com/p/b2ccf381743f) |
-| Tue, 29 Apr 2025 15:30:45 GMT | STON.fi Bug Bounty Program: A Comprehensive Approach To DeFi Security. | DehLawOfCrypto | [Read More](https://medium.com/p/baa9c6b1a8ab) |
