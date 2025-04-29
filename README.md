@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 08:19:16 GMT | SSRF Vulnerability in Symfony: How to Detect and Prevent It | Pentest_Testing_Corp | [Read More](https://medium.com/p/57b2fb42640e) |
+| Tue, 29 Apr 2025 08:17:12 GMT | Security Bulldog brings unparalleled speed, accuracy, and resilience! | The Security Bulldog | [Read More](https://medium.com/p/417cdf93991c) |
+| Tue, 29 Apr 2025 08:16:28 GMT | Pyrat—TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/1c110a6b9b32) |
+| Tue, 29 Apr 2025 08:07:05 GMT | Where Damages Happens without Bombs | Merezonee | [Read More](https://medium.com/p/2181289f02c4) |
+| Tue, 29 Apr 2025 08:04:26 GMT | Building Privacy-First Platforms: DevOps Strategies for E-commerce and Financial Services | Sonu Chauhan | [Read More](https://medium.com/p/2c40da0c7191) |
+| Tue, 29 Apr 2025 08:01:33 GMT | Your Startup’s Security Shouldn’t Depend on Good Intentions | Oğuzhan Tursun | [Read More](https://medium.com/p/bdf05bd9efad) |
+| Tue, 29 Apr 2025 07:59:48 GMT | $140 Bounty: Full Path Disclosure on ads.twitter.com | Monika sharma | [Read More](https://medium.com/p/bdedd140ac27) |
+| Tue, 29 Apr 2025 07:59:38 GMT | How Hackers Try to Bypass 403 Forbidden Pages | Vipul Sonule | [Read More](https://medium.com/p/239c3f51a674) |
+| Tue, 29 Apr 2025 07:53:23 GMT | Not Just a Ping: How SSRF Opened the Gateway to Internal Secrets | Iski | [Read More](https://medium.com/p/d18eeccd4745) |
+| Tue, 29 Apr 2025 07:53:18 GMT | How to Transition from IT to Cybersecurity: A Roadmap | Ahmad Javed | [Read More](https://medium.com/p/76d828d1d25a) |
+| Tue, 29 Apr 2025 07:49:28 GMT | Security and Authentication in MongoDB (Advanced Level) | Bishal Devkota | [Read More](https://medium.com/p/55587d01867e) |
+| Tue, 29 Apr 2025 07:45:29 GMT | Introduction to HashiCorp Boundary and HashiCorp Vault with AWS | Infralovers GmbH | [Read More](https://medium.com/p/2cf5cc058399) |
+| Tue, 29 Apr 2025 07:44:03 GMT | ION Network Represents Indonesia as One of the Delegates at the 15th ASEAN-JAPAN Information… | ION Network | [Read More](https://medium.com/p/a77160e5b514) |
+| Tue, 29 Apr 2025 07:43:29 GMT | Weaponized Words: How a Trojanized UyghurEdit++ Tool Targeted World Uyghur Congress Leaders | Ismail Tasdelen | [Read More](https://medium.com/p/694cb36fe814) |
+| Tue, 29 Apr 2025 07:40:06 GMT | Cybersecurity Services that Actually Work | bloggers | [Read More](https://medium.com/p/0fb358580ecc) |
+| Tue, 29 Apr 2025 07:39:44 GMT | Discover the Latest Courses at Top Australian Institutes — 2025 Enrolment Open! | AIST | [Read More](https://medium.com/p/305a0970fb09) |
+| Tue, 29 Apr 2025 07:36:36 GMT | Difference Between TweetEraser and TweetDelete: What You Need to Know | Eddy Enoma | [Read More](https://medium.com/p/00b10203b4ba) |
 | Tue, 29 Apr 2025 07:35:49 GMT | CISA Sounds the Alarm: Broadcom and Commvault Flaws Under Active Exploitation! ️ | Ismail Tasdelen | [Read More](https://medium.com/p/67a3c5f7f3dd) |
 | Tue, 29 Apr 2025 07:33:52 GMT | Top Free Proxy Sites for Students in 2025: Bypass Restrictions with Ease | Proxy 302 | [Read More](https://medium.com/p/a0cc161f92e2) |
 | Tue, 29 Apr 2025 07:28:57 GMT | What are the Risks Associated with Generative AI Code? | Accorian | [Read More](https://medium.com/p/29dce9ff550c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 01:05:28 GMT | The future of Software Bug Mitigation and Will We Ever Solve The Glitches. | Sergey B | [Read More](https://medium.com/p/21626b70203a) |
 | Tue, 29 Apr 2025 01:00:02 GMT | $500,000 to Catch STON.fi Bugs?! Let’s Get Hunting, STONfiers! | MADEOFBLU | [Read More](https://medium.com/p/8e3c2ba6ad55) |
 | Tue, 29 Apr 2025 00:56:04 GMT | Mental Hacking: Unlocking the Full Power of Your Mind | Benjaminmillerdev | [Read More](https://medium.com/p/8e303c62b893) |
-| Tue, 29 Apr 2025 00:55:43 GMT | Accelerated And Secure App Development: No-Code | Franklinr held | [Read More](https://medium.com/p/175651a9a804) |
-| Tue, 29 Apr 2025 00:46:30 GMT | The Fantastic Five: 2025’s Top Infostealer Malware | Brendan Smith | [Read More](https://medium.com/p/12e9598ecb51) |
-| Tue, 29 Apr 2025 00:42:35 GMT | Find .JS files of your bug bounty target(JS FILES RECON) | loyalonlytoday | [Read More](https://medium.com/p/306c3b169bae) |
-| Tue, 29 Apr 2025 00:39:48 GMT | Scan-ish Web Challange | Korea | [Read More](https://medium.com/p/76c5593435fd) |
-| Tue, 29 Apr 2025 00:02:38 GMT | Hack The Box — Machine — Hospital Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/3e4adcdde175) |
-| Mon, 28 Apr 2025 23:40:50 GMT | A random burst of vulnerability. | nini | [Read More](https://medium.com/p/79df3fb77fb2) |
-| Mon, 28 Apr 2025 23:40:46 GMT | Bootloaders, EFI, and Security: Protecting the First Line of Defense | Jesse Corson | [Read More](https://medium.com/p/96449f7b2ed2) |
-| Mon, 28 Apr 2025 23:40:45 GMT | About Me | EvenBaba | [Read More](https://medium.com/p/7f0d1c80559c) |
-| Mon, 28 Apr 2025 23:32:37 GMT | Palo Alto Networks Cloud NGFW for AWS: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/8604728f4c12) |
-| Mon, 28 Apr 2025 23:29:50 GMT | You Can’t ‘Turn On’ Security — with Matthew Rosenquist | Matthew.Rosenquist | [Read More](https://medium.com/p/847e51fba323) |
-| Mon, 28 Apr 2025 23:15:45 GMT | The European Blackout and What It Revealed About Crypto's Fragile Reality | Federico Rodenas | [Read More](https://medium.com/p/88be0cc522b1) |
-| Mon, 28 Apr 2025 23:13:40 GMT | Rising Geopolitical and Nation State Cyber Threats | Matthew.Rosenquist | [Read More](https://medium.com/p/2650e1ac6665) |
-| Mon, 28 Apr 2025 23:10:15 GMT | Our NGINX Rate Limiting Strategy That Defeated a Major DDoS Attack | Service Guards | [Read More](https://medium.com/p/a13bb2434611) |
-| Mon, 28 Apr 2025 22:59:20 GMT | How Do You Explain Your Job to Non-Technical People? | Zudonu Osomudeya | [Read More](https://medium.com/p/061f9609b900) |
-| Mon, 28 Apr 2025 22:36:39 GMT | How I Used Google Dorking to Find Sensitive Data | Zainul Anwar Adi Putra | [Read More](https://medium.com/p/58ef320c6d2d) |
-| Mon, 28 Apr 2025 22:35:03 GMT | The Rise of the Agentic SOC: Why Collaboration Between Humans and AI is the Future of Cyber… | Vivek Mokkarala | [Read More](https://medium.com/p/1a49e3cdf2a2) |
-| Mon, 28 Apr 2025 22:34:41 GMT | HIPAA Just Got Teeth: How 2025 Changes Will Hit Security Teams | Claudio Gallo | [Read More](https://medium.com/p/841ed25430a7) |
