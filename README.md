@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 15:32:30 GMT | GZR Observer Daily — Apr 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/255a0fdb182d) |
+| Tue, 29 Apr 2025 15:32:15 GMT | AI Agent Security in 2025: Separating Hype from Reality | Phillip Carrington | [Read More](https://medium.com/p/b2ccf381743f) |
+| Tue, 29 Apr 2025 15:30:45 GMT | STON.fi Bug Bounty Program: A Comprehensive Approach To DeFi Security. | DehLawOfCrypto | [Read More](https://medium.com/p/baa9c6b1a8ab) |
+| Tue, 29 Apr 2025 15:19:22 GMT | SOC131 — EventID 67 — Reverse TCP Backdoor Detected | Mateo Pappa | [Read More](https://medium.com/p/a1430effa252) |
+| Tue, 29 Apr 2025 15:17:05 GMT | SOC138 — Detected Suspicious Xls File | Kylaar Weathers | [Read More](https://medium.com/p/51fc071a0ff7) |
 | Tue, 29 Apr 2025 15:15:34 GMT | How Web Apps Work (And How Hackers Break Them) | Derick Johnson | [Read More](https://medium.com/p/d0fb85618ffe) |
 | Tue, 29 Apr 2025 15:13:04 GMT | Title: “Docker Dilemma to Dev Breakthrough — A Day in the Life of a Cyber Security Engineer in the… | Tanish  Dewase! | [Read More](https://medium.com/p/90fc5f5085da) |
 | Tue, 29 Apr 2025 15:07:20 GMT | How to Build a Cybersecurity Culture in Your Organization | John Locke | [Read More](https://medium.com/p/c9aa6c32058a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 09:39:35 GMT | Telegram Üzerinde “Görev Yap, Para Kazan” Tuzağı | Efe Korkmaz | [Read More](https://medium.com/p/afc3aa368ab5) |
 | Tue, 29 Apr 2025 09:38:00 GMT | Understanding Zero-Day exploits | Martin Abramov | [Read More](https://medium.com/p/7a66090a5636) |
 | Tue, 29 Apr 2025 09:36:33 GMT | NETWORKING CONCEPT -- TRYHACKME-- CYBERSECURITY 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/f802b42b04e4) |
-| Tue, 29 Apr 2025 09:36:05 GMT | Industry 5.0: Where Human-Machine Collaboration Meets Unified Security | Rod Cowan | [Read More](https://medium.com/p/a4efe94d7389) |
-| Tue, 29 Apr 2025 09:34:07 GMT | How to Guard Your Online Life: A Beginner’s Guide to Cyber Hygiene | Udara Sandakelum | [Read More](https://medium.com/p/9b35301fe540) |
-| Tue, 29 Apr 2025 09:34:03 GMT | Custom vs. Standard KPI Dashboards: Which is Best for Your Healthcare Organization? | Kiskeya Core Staffing | [Read More](https://medium.com/p/6f933b664d43) |
-| Tue, 29 Apr 2025 09:33:14 GMT | What Palo Alto Networks’ Acquisition of Protect AI Means for AI Security | Juara IT Solutions | [Read More](https://medium.com/p/aa4ce06a535e) |
-| Tue, 29 Apr 2025 09:23:29 GMT | Passcovery 25.04: Grande avanço para Intel Arc + AMD RDNA 4 e mais melhorias | denglad | [Read More](https://medium.com/p/e38b6f823b8f) |
