@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 16:11:26 GMT | A Safer & Smarter Home: How Josh.ai Powers Self-Monitored Security | Josh | [Read More](https://medium.com/p/6a9e2a0df94b) |
+| Tue, 29 Apr 2025 16:09:27 GMT | Next.js Güvenlik Alarmı: CVE-2025–29927 ve Snyk ile Kendini Koru! | Emre Ramazanoğlu | [Read More](https://medium.com/p/60f68d6fb461) |
+| Tue, 29 Apr 2025 16:08:57 GMT | Review & How to Prepare for the eLearnSecurity Certified Incident Responder (eCIR) Exam | Omar_Amir | [Read More](https://medium.com/p/be8ad9a89cdd) |
+| Tue, 29 Apr 2025 16:08:19 GMT | Exploiting SQLi for Total Clients Control in Enterprise Application | Isv | [Read More](https://medium.com/p/e940acf34aa6) |
+| Tue, 29 Apr 2025 16:05:15 GMT | ParrotSec vs Kali Linux: Which One Should You Choose? | Techrefreshing | [Read More](https://medium.com/p/1f417be05e56) |
+| Tue, 29 Apr 2025 16:01:06 GMT | What Is LLM — Large Language Model? | Emerline | [Read More](https://medium.com/p/aa0f0e5c3bff) |
+| Tue, 29 Apr 2025 16:00:04 GMT | Host & Network Penetration Testing: Exploitation CTF 2 | ImranTheExploitHunter | [Read More](https://medium.com/p/8e6b14c01725) |
+| Tue, 29 Apr 2025 15:59:37 GMT | Host & Network Penetration Testing: Exploitation CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/53b328b3f85a) |
+| Tue, 29 Apr 2025 15:57:49 GMT | 1 Click Account Takeover - XSS - CORS Misconfiguration - JWT Forgery | Raymond Van Wart | [Read More](https://medium.com/p/0cf73a28e236) |
+| Tue, 29 Apr 2025 15:57:29 GMT | Quantum Computers vs. Bitcoin: Is Your Crypto Doomed? | Robin Bucciarelli | [Read More](https://medium.com/p/8ca0368001ea) |
+| Tue, 29 Apr 2025 15:56:10 GMT | Ransomware-as-a-Service (RaaS): The Dark Industry Powering Cybercrime | Madhavaraman | [Read More](https://medium.com/p/446473b3a3b3) |
+| Tue, 29 Apr 2025 15:55:44 GMT | Reflection on Chapter 3: A TOP-LEVEL VIEW OF COMPUTER FUNCTION AND INTERCONNECTION | Azfar | [Read More](https://medium.com/p/a477b3005d15) |
+| Tue, 29 Apr 2025 15:55:00 GMT | Setting Up a Free SOC Lab with the Wazuh Cloud Trial: A Simple Guide | Farhan Beg | [Read More](https://medium.com/p/78860b35cb98) |
+| Tue, 29 Apr 2025 15:52:32 GMT | Lab 21 — Using Netstat command to view networking information | Hassen Hannachi | [Read More](https://medium.com/p/cdc2939a1052) |
+| Tue, 29 Apr 2025 15:52:04 GMT | To crash out or not to crash out | Jayne Dough | [Read More](https://medium.com/p/1fe56edb0bd8) |
+| Tue, 29 Apr 2025 15:50:55 GMT | Protecting Digital Information With VPNs | James Neal | [Read More](https://medium.com/p/8a0c804d22b3) |
+| Tue, 29 Apr 2025 15:48:32 GMT | The Journey to Increased Traffic and Leads: A Event Company’s Story | Jayati Kataria | [Read More](https://medium.com/p/1f040d6a5d1f) |
+| Tue, 29 Apr 2025 15:45:44 GMT | The Best Advanced VPN Services For Everyday Use | Melvin Erickson | [Read More](https://medium.com/p/33e76779fd25) |
+| Tue, 29 Apr 2025 15:43:08 GMT | The Pain Of An Unloved Child | Deeprootedmindset | [Read More](https://medium.com/p/52bc75b34191) |
+| Tue, 29 Apr 2025 15:42:04 GMT | Top 10 Trending Cybersecurity Topics in 2025: What Businesses Must Know | Madhavaraman | [Read More](https://medium.com/p/86f7ba5d6d3b) |
+| Tue, 29 Apr 2025 15:39:13 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/41e147364c1a) |
+| Tue, 29 Apr 2025 15:36:57 GMT | Zero Tech Background. 100% Determination. Welcome to My Cybersecurity Chaos | Yagmur Yerlikaya | [Read More](https://medium.com/p/b02f19b28e90) |
+| Tue, 29 Apr 2025 15:33:42 GMT | Pico-CTF - Reverse Engineering - Flag-Hunter (Song on Hackers?!) | rinz0x0cruz | [Read More](https://medium.com/p/801b45b007fc) |
 | Tue, 29 Apr 2025 15:32:30 GMT | GZR Observer Daily — Apr 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/255a0fdb182d) |
 | Tue, 29 Apr 2025 15:32:15 GMT | AI Agent Security in 2025: Separating Hype from Reality | Phillip Carrington | [Read More](https://medium.com/p/b2ccf381743f) |
 | Tue, 29 Apr 2025 15:30:45 GMT | STON.fi Bug Bounty Program: A Comprehensive Approach To DeFi Security. | DehLawOfCrypto | [Read More](https://medium.com/p/baa9c6b1a8ab) |
@@ -41,6 +64,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 14:17:49 GMT | Unraveling WEP: A Comprehensive Guide to Cracking Legacy Wireless Security | The Aegis Security | [Read More](https://medium.com/p/f8916a90eb2f) |
 | Tue, 29 Apr 2025 14:14:17 GMT | Overpass 2 — Hacked Walkthrough | Reek Elderblod | [Read More](https://medium.com/p/40c96d21c69b) |
 | Tue, 29 Apr 2025 14:01:59 GMT | What is Secret Management? | Taona | [Read More](https://medium.com/p/bf2e01e0c847) |
+| Tue, 29 Apr 2025 14:01:31 GMT | This One Security Mistake Could Expose Your Entire Backend to Hackers! | The Code Alchemist | [Read More](https://medium.com/p/b10d0e7b8e04) |
 | Tue, 29 Apr 2025 14:00:54 GMT | Cyber Briefing: 2025.04.29 | CyberMaterial | [Read More](https://medium.com/p/fa8539033137) |
 | Tue, 29 Apr 2025 13:54:49 GMT | What is RSA And AES Encryption? | Samxia99 | [Read More](https://medium.com/p/9bb040e6da8e) |
 | Tue, 29 Apr 2025 13:45:42 GMT | Lab Report#8 — Credentials in Object Properties | Samet Koca | [Read More](https://medium.com/p/fc8d1f0867b0) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 11:34:50 GMT | Cybersecurity Training: Online or In-Person — Which Is Right for You? | Educ4te | [Read More](https://medium.com/p/3ceaac86843c) |
 | Tue, 29 Apr 2025 11:30:07 GMT | Tempest - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/6437b2ebf995) |
 | Tue, 29 Apr 2025 11:29:34 GMT | Elevate Your Guest Experience with Century Solutions Group | Century Solutions Group | [Read More](https://medium.com/p/407ea869f22d) |
-| Tue, 29 Apr 2025 11:12:03 GMT | Remote Desktop Protocol — Using Client Keyboard Input in Attack Attribution and Profiling | thedigitaldetective | [Read More](https://medium.com/p/94a76f0f4ff4) |
-| Tue, 29 Apr 2025 11:12:00 GMT | How to Secure Your E-Commerce Website from Hackers | Quality Thought | [Read More](https://medium.com/p/6b35b27e7722) |
-| Tue, 29 Apr 2025 11:05:42 GMT | What is the difference between Trend Apex one and Trend vision one in simple terms? | Umme habiba | [Read More](https://medium.com/p/76c27ad0d58f) |
-| Tue, 29 Apr 2025 11:02:09 GMT | F-Droid: The Open-Source App Store Alternative You Should Know About | KEALEN CLAUDE | [Read More](https://medium.com/p/450f593430eb) |
-| Tue, 29 Apr 2025 11:00:02 GMT | Kübitler, Dolaşıklık ve Bilgi: Kuantumun Ayrılmaz Üçlüsü | Chinar Quantum AI | [Read More](https://medium.com/p/6d349e1ed144) |
-| Tue, 29 Apr 2025 10:56:34 GMT | Monad Airdrop Guide: the Easiest Way to Unlock your Rewards | Monad | [Read More](https://medium.com/p/3a2bb6b2910d) |
-| Tue, 29 Apr 2025 10:44:38 GMT | Evolution of Security Guard Services | United Guard Force India | [Read More](https://medium.com/p/370c2e805681) |
-| Tue, 29 Apr 2025 10:43:44 GMT | Null Byte : 1 | Raghav | [Read More](https://medium.com/p/4aab13dd58af) |
-| Tue, 29 Apr 2025 10:41:14 GMT | NETWORKING ESSENTIALS -- TRYHACKME -- CYBERSCURITY 101 | Surbhi_choudhary | [Read More](https://medium.com/p/7b6ce36aadae) |
-| Tue, 29 Apr 2025 10:40:25 GMT | Choosing the Right Security Guard Service | United Guard Force India | [Read More](https://medium.com/p/92b1d596806a) |
-| Tue, 29 Apr 2025 10:36:39 GMT | Protecting AI’s Secrets | Taylan İrak | [Read More](https://medium.com/p/8be38a95ff2e) |
-| Tue, 29 Apr 2025 10:35:20 GMT | Introduction to Web Security: The basics every developer should master | Rajan Verma | [Read More](https://medium.com/p/1c0193aecca6) |
-| Tue, 29 Apr 2025 10:30:31 GMT | How Does the Certified Ethical Hacking Foundation Kickstart Your Cybersecurity Career? | sneha gaikwad | [Read More](https://medium.com/p/c426664eed5d) |
-| Tue, 29 Apr 2025 10:29:14 GMT | Why Being Vulnerable is the Secret to Stronger Friendships | Imogen Hall | [Read More](https://medium.com/p/5db199ff3420) |
-| Tue, 29 Apr 2025 10:27:40 GMT | How to Choose the Best Alarm Monitoring in Dallas, TX | Cenathanjoy_Official | [Read More](https://medium.com/p/4b2eb009c933) |
-| Tue, 29 Apr 2025 10:21:14 GMT | VPN for Online Safety Tips Using a Virtual Private Network (VPN) is an effective way to enhance… | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/df4639351882) |
-| Tue, 29 Apr 2025 10:20:42 GMT | “Your heartbeat sounds like Sasquatch's feet.” | Anthony Ventarola | [Read More](https://medium.com/p/cf3f608d5556) |
-| Tue, 29 Apr 2025 10:17:36 GMT | Burp Lab: Exploiting XSS to bypass CSRF(detailed explanation and walkthrough) | J.Pinkmann | [Read More](https://medium.com/p/961b0bd538a7) |
-| Tue, 29 Apr 2025 10:16:51 GMT | Secrets of the Cyber Underworld (From These Books) | Ahmad Javed | [Read More](https://medium.com/p/a1cc052971da) |
-| Tue, 29 Apr 2025 09:54:43 GMT | Master’s in Cyber Security in the USA: Top Universities, Cost, Job Prospects & More | Mdoec Ahmedabad | [Read More](https://medium.com/p/53492b94de6b) |
-| Tue, 29 Apr 2025 09:39:40 GMT | SaaS Sovereignty: Who Really Owns Your Business’s Digital Footprint? | Induz Data Solutions | [Read More](https://medium.com/p/6a118f0a4bef) |
-| Tue, 29 Apr 2025 09:39:35 GMT | Telegram Üzerinde “Görev Yap, Para Kazan” Tuzağı | Efe Korkmaz | [Read More](https://medium.com/p/afc3aa368ab5) |
-| Tue, 29 Apr 2025 09:38:00 GMT | Understanding Zero-Day exploits | Martin Abramov | [Read More](https://medium.com/p/7a66090a5636) |
-| Tue, 29 Apr 2025 09:36:33 GMT | NETWORKING CONCEPT -- TRYHACKME-- CYBERSECURITY 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/f802b42b04e4) |
