@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Tue, 29 Apr 2025 04:18:59 GMT | Hunting CVEs in IoT Devices: A Wi-Fi Extender Walkthrough | David Yi | [Read More](https://medium.com/p/ea09b0afd90d) |
+| Tue, 29 Apr 2025 04:17:12 GMT | VPC Traffic Mirroring Architectures: Unmasking Network Blind Spots to Drive Business Growth | Servifyspheresolutions | [Read More](https://medium.com/p/eb6ac514bcd0) |
 | Tue, 29 Apr 2025 04:12:13 GMT | Defining Modern IT Infrastructure: The Evolving Landscape | Rick Hightower | [Read More](https://medium.com/p/e1862494f344) |
 | Tue, 29 Apr 2025 04:09:26 GMT | Understanding the SOCI Act: What It Means for Australian Businesses | cyber ethos | [Read More](https://medium.com/p/693c5ad1ff87) |
 | Tue, 29 Apr 2025 04:07:45 GMT | Why I choose Cybersecurity: Finding My Path as a Data Analyst | Asri Cahyani | [Read More](https://medium.com/p/238ebc0d951a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 28 Apr 2025 19:29:24 GMT | How to Build Cybersecurity Resilience for Your Business in an AI-Driven World | Jad lissandre | [Read More](https://medium.com/p/5a22a9a75843) |
 | Mon, 28 Apr 2025 19:25:32 GMT | Key Points on the NIST 800–171 Compliance Checklist | Akshay Chauhan | [Read More](https://medium.com/p/7e3eaeca6039) |
 | Mon, 28 Apr 2025 19:23:27 GMT | Strengthening Cybersecurity: Why People Are the Key Factor | Binitha John | [Read More](https://medium.com/p/bc0d34962d7a) |
-| Mon, 28 Apr 2025 19:21:16 GMT | The Benefits of Installing Automatic Gates and Access Control Systems for Your Home or Business | Rasoul Esfaharin | [Read More](https://medium.com/p/68e6fd0a5630) |
