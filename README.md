@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 29 Apr 2025 09:36:05 GMT | Industry 5.0: Where Human-Machine Collaboration Meets Unified Security | Rod Cowan | [Read More](https://medium.com/p/a4efe94d7389) |
+| Tue, 29 Apr 2025 09:34:07 GMT | How to Guard Your Online Life: A Beginner’s Guide to Cyber Hygiene | Udara Sandakelum | [Read More](https://medium.com/p/9b35301fe540) |
+| Tue, 29 Apr 2025 09:34:03 GMT | Custom vs. Standard KPI Dashboards: Which is Best for Your Healthcare Organization? | Kiskeya Core Staffing | [Read More](https://medium.com/p/6f933b664d43) |
+| Tue, 29 Apr 2025 09:33:14 GMT | What Palo Alto Networks’ Acquisition of Protect AI Means for AI Security | Juara IT Solutions | [Read More](https://medium.com/p/aa4ce06a535e) |
+| Tue, 29 Apr 2025 09:23:29 GMT | Passcovery 25.04: Grande avanço para Intel Arc + AMD RDNA 4 e mais melhorias | denglad | [Read More](https://medium.com/p/e38b6f823b8f) |
 | Tue, 29 Apr 2025 09:18:01 GMT | 10 Reasons Why Spring Boot Security Feels Broken in 2025 (With Code Fixes) | Lovish Kumar | [Read More](https://medium.com/p/945e9b72987e) |
 | Tue, 29 Apr 2025 09:17:50 GMT | How Managed IT Services Safeguard Your Business from Cyber Threats | Encox Services | [Read More](https://medium.com/p/df1dd8ab86f2) |
 | Tue, 29 Apr 2025 09:16:05 GMT | ## Secure Package Installation with npm install — ignore-scripts | Arrow Dan | [Read More](https://medium.com/p/22255c634b87) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 03:33:12 GMT | ThreatCrowd Attack Surface Recon | AbhirupKonwar | [Read More](https://medium.com/p/632252cbbafa) |
 | Tue, 29 Apr 2025 03:18:01 GMT | HOW TACACS+ AND RADIUS HELP PROTECT OUR NETWORK. | Jczeeshyamalan | [Read More](https://medium.com/p/7ac17b32907b) |
 | Tue, 29 Apr 2025 03:07:52 GMT | Cyber Security | Bhanu | [Read More](https://medium.com/p/0c69991e7478) |
-| Tue, 29 Apr 2025 02:56:33 GMT | Title: The Clockmaker's Secret | Saddam Hussein | [Read More](https://medium.com/p/3aaef31a2103) |
-| Tue, 29 Apr 2025 02:49:04 GMT | Fortifying Your Next.js Frontend: Lessons Learned in a World of Evolving Threats | Mahartha Gemilang | [Read More](https://medium.com/p/b14e977080e9) |
-| Tue, 29 Apr 2025 02:34:21 GMT | Basic Hygiene Factors: Quality and Security Are Not Features. They Are Foundations. | Saurabh Jain | [Read More](https://medium.com/p/2b1058b8420c) |
-| Tue, 29 Apr 2025 02:31:52 GMT | How a Simple Habit Changed My Life | Saddam Hussein | [Read More](https://medium.com/p/08ccea6095d9) |
-| Tue, 29 Apr 2025 02:26:52 GMT | Your Variable Names Are Killing Your Code — Here’s Why! | Code Crack | [Read More](https://medium.com/p/42abae729088) |
