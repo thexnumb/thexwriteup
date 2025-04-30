@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 21:10:53 GMT | The First AI-Designed File Sharing Platform — A Glimpse Into Autonomous Businesses? | Guilherme Mariano de Souza Santos | [Read More](https://medium.com/p/3d271e687f6f) |
+| Wed, 30 Apr 2025 20:55:54 GMT | How I wrote my own encryption algorithm for the first time! | Sadra Bakhtiari | [Read More](https://medium.com/p/2ad1fea6cab3) |
+| Wed, 30 Apr 2025 20:52:42 GMT | False Positive Filtering Techniques and Automated Remediation Methods | Esra Kayhan | [Read More](https://medium.com/p/935cd254fe29) |
+| Wed, 30 Apr 2025 20:47:10 GMT | From LabHost to Lockdown: Turning 42,000 Phishing Domains into Threat Intel | Hoplon Infosec | [Read More](https://medium.com/p/1bc58eaf75d8) |
+| Wed, 30 Apr 2025 20:45:26 GMT | Could Your Toaster Be a Spy? | Tina Ginn | [Read More](https://medium.com/p/419a96d0b4a9) |
+| Wed, 30 Apr 2025 20:42:49 GMT | SSTI ve CSTI Zafiyetleri: Web Uygulamalarında Tehlikenin Sessiz Yüzü | Mehmet Deli | [Read More](https://medium.com/p/5d6370aa9e4b) |
 | Wed, 30 Apr 2025 20:34:42 GMT | Guess My Cheese (Part 1) — picoCTF 2025 — Affine Cipher | Jin | [Read More](https://medium.com/p/72df5b3a5f1e) |
 | Wed, 30 Apr 2025 20:26:25 GMT | Building a Plugin Architecture for Your Python C2 Implant: Modular Malware the Right Way | Maxwell Cross | [Read More](https://medium.com/p/7d10d262dcda) |
 | Wed, 30 Apr 2025 20:26:02 GMT | A lightweight approach to a heavy problem: why we’re building Tresal | Matthias Peeters | [Read More](https://medium.com/p/da144fd67422) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 15:32:36 GMT | GZR Observer Daily — Apr 30, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/066e27e27783) |
 | Wed, 30 Apr 2025 15:31:01 GMT | Cybersecurity Essentials: Protecting Your Digital World in 2025 and Beyond | Data Defendere | [Read More](https://medium.com/p/34ed75337ee9) |
 | Wed, 30 Apr 2025 15:30:49 GMT | Discover the Joy of Bonding with Your Baby Using Momcozy’s Baby Wrap Carrier! | Sadfghgfsafd | [Read More](https://medium.com/p/d2f6f9b8b142) |
-| Wed, 30 Apr 2025 15:30:09 GMT | When Vulnerability Feels Like a Performance | Rizqie Aulia | [Read More](https://medium.com/p/4b7fb5a8a07b) |
-| Wed, 30 Apr 2025 15:30:05 GMT | Эффективная защита сайтов и приложений c SafeLine WAF | Quella | [Read More](https://medium.com/p/0c91cf8e0ccf) |
-| Wed, 30 Apr 2025 15:30:00 GMT | Metasploit: Introduction - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8bfaa2b8aff2) |
-| Wed, 30 Apr 2025 15:29:26 GMT | Swappee Audit Report | Hyacinth | [Read More](https://medium.com/p/18c449b71325) |
-| Wed, 30 Apr 2025 15:27:53 GMT | I will write business analyst, cybersecurity, data science, data analyst, grc resume CV | Expertrichard | [Read More](https://medium.com/p/a2dbe1b1d529) |
-| Wed, 30 Apr 2025 15:27:40 GMT | 100 Perintah Linux Esensial untuk Pentester Profesional | toor | [Read More](https://medium.com/p/4bf0fbbf98c9) |
