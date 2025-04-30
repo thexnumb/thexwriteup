@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 03:02:37 GMT | Port Scanning Speed Test: RustScan vs Naabu | Patar Isac Pardomuan | [Read More](https://medium.com/p/9d7cfbd18424) |
+| Wed, 30 Apr 2025 02:49:14 GMT | Wicked Panda APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/381e51360791) |
+| Wed, 30 Apr 2025 02:45:57 GMT | How to Build a Killer Cybersecurity Portfolio | Ahmad Javed | [Read More](https://medium.com/p/53e2fe4f3721) |
+| Wed, 30 Apr 2025 02:42:41 GMT | Authentication in React Using JWT — Keep Your App Safe Like a Treasure Chest! | ASHABB Intelligence | [Read More](https://medium.com/p/e14bc9937400) |
+| Wed, 30 Apr 2025 02:40:14 GMT | The Hidden Threats Behind CDN: Why Security Defense Can’t Be Overlooked | Li Zixiang | [Read More](https://medium.com/p/3abc330f2adf) |
+| Wed, 30 Apr 2025 02:39:59 GMT | Hacking Printers on the Local Network Using Kali Linux ?! | Dayu Ovtama Nasrulah | [Read More](https://medium.com/p/5522b30eea24) |
+| Wed, 30 Apr 2025 02:28:03 GMT | When Networks Fall: Lessons from the Colonial Pipeline Breach | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/8c0239733a36) |
+| Wed, 30 Apr 2025 02:17:47 GMT | TryHackMe — Exploiting Erlang/OTP SSH: CVE-2025–32433 Vulnerability | Hajiaga Sadikhov | [Read More](https://medium.com/p/379ec646bb76) |
+| Wed, 30 Apr 2025 02:05:15 GMT | Who Prints Your Passport? Inside the High-Stakes World of Security Printing | Passport History & Collectibles | [Read More](https://medium.com/p/7f8154abad33) |
+| Wed, 30 Apr 2025 02:02:24 GMT | 2# Cybersecurity Mistakes You’re Probably Making — and How to Fix Them Today | TechWithKP | [Read More](https://medium.com/p/dc7734b55b63) |
+| Wed, 30 Apr 2025 02:00:33 GMT | The 6.5 Tbps Attack! | YuvaSec | [Read More](https://medium.com/p/8ecf27333a18) |
+| Wed, 30 Apr 2025 01:58:02 GMT | Maybe I Was Made to Be Alone | Moments with God | [Read More](https://medium.com/p/9b5c3351dffb) |
+| Wed, 30 Apr 2025 01:44:23 GMT | A Top-Level View of Computer Function and Interconnection | Daniya Sabih | [Read More](https://medium.com/p/cc6b4a29de04) |
+| Wed, 30 Apr 2025 01:42:01 GMT | Top 10 Cybersecurity Blog Posts That Made April 2025 a Breakthrough Month for OpenExploit | Pawan Jaiswal | [Read More](https://medium.com/p/fd21830fdd93) |
 | Wed, 30 Apr 2025 01:35:03 GMT | The Last Cup of Tea | Emily Wilson | [Read More](https://medium.com/p/8049ee96bb9d) |
 | Wed, 30 Apr 2025 01:31:16 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 3) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/377a6748f026) |
 | Wed, 30 Apr 2025 01:26:31 GMT | Understanding UAC Bypasses: A Red Team Perspective | Yua Mikanana | [Read More](https://medium.com/p/c77e0b6060f0) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 18:50:34 GMT |  | anonymous | [Read More](https://medium.com/p/3e90091f31a2) |
 | Tue, 29 Apr 2025 18:48:02 GMT | Logos Don’t Stop Scams: The Fight for Caller Identity Integrity | Numeracle | [Read More](https://medium.com/p/f96caa73127c) |
 | Tue, 29 Apr 2025 18:38:16 GMT | TheHarvester ile OSINT: Sızma Testinde Bilgi Toplama Rehberi | Isaergisi | [Read More](https://medium.com/p/97315220b7c9) |
-| Tue, 29 Apr 2025 18:34:00 GMT | TryHackMe - Signature Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/d5e72843a055) |
-| Tue, 29 Apr 2025 18:33:28 GMT | Building a Secure Secrets API + SSRF Lab | josegpac | [Read More](https://medium.com/p/7b31076096dc) |
-| Tue, 29 Apr 2025 18:32:48 GMT | Microsoft Security Solutions: Strengthening Your Organization with Penetration Testing and Red Team… | Charter Global | [Read More](https://medium.com/p/ea8bddfdb202) |
-| Tue, 29 Apr 2025 18:30:00 GMT | How I Escalated My Privileges to System Administrator on Redacted Platform by Tweaking a Single… | ASC Lages | [Read More](https://medium.com/p/7ac009d54683) |
-| Tue, 29 Apr 2025 18:28:08 GMT | Current Technologies Powering the Modern World in 2025 | Happyk | [Read More](https://medium.com/p/20528777b7f0) |
-| Tue, 29 Apr 2025 18:15:50 GMT | Sustainability by Design: The Double Role of IT in a Changing World | Ahmed Soliman | [Read More](https://medium.com/p/24d478661a9f) |
-| Tue, 29 Apr 2025 18:13:30 GMT | Security Operations Center (SOC) Temelleri — 13 | Ali Ekber KARA | [Read More](https://medium.com/p/f72630789e57) |
-| Tue, 29 Apr 2025 18:12:01 GMT | From Logs to ATO - How I Hacked IBM | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/52552d95dacf) |
-| Tue, 29 Apr 2025 18:11:30 GMT | How to Scan .XML Files for Threats in Java | Cloudmersive | [Read More](https://medium.com/p/67db187ca54e) |
-| Tue, 29 Apr 2025 18:10:36 GMT | Passphrases: Creating Better Passwords | Caleb Gammon | [Read More](https://medium.com/p/1b1ff9ab971f) |
-| Tue, 29 Apr 2025 18:09:22 GMT | Structure, Context, and AI | Mark Gerow | [Read More](https://medium.com/p/6d0478626012) |
-| Tue, 29 Apr 2025 18:08:37 GMT | On academic corruption and data security risk | Larsspekschoor | [Read More](https://medium.com/p/c6cfaca82699) |
-| Tue, 29 Apr 2025 18:02:33 GMT | Building a Security Operations Center: Main Steps | TechMagic | [Read More](https://medium.com/p/aef5de20a561) |
-| Tue, 29 Apr 2025 18:00:14 GMT | How To Get Entry Level Jobs in CyberSecurity | Gourav(spidergk) | [Read More](https://medium.com/p/97f9ef0df3bc) |
