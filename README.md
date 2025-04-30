@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 01:35:03 GMT | The Last Cup of Tea | Emily Wilson | [Read More](https://medium.com/p/8049ee96bb9d) |
+| Wed, 30 Apr 2025 01:31:16 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 3) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/377a6748f026) |
+| Wed, 30 Apr 2025 01:26:31 GMT | Understanding UAC Bypasses: A Red Team Perspective | Yua Mikanana | [Read More](https://medium.com/p/c77e0b6060f0) |
+| Wed, 30 Apr 2025 01:12:32 GMT | KQL (Kusto): Introduction- TryHackMe Walkthrough | Cyber.Bae | [Read More](https://medium.com/p/95ef4b608d68) |
+| Wed, 30 Apr 2025 01:09:40 GMT | How to Prevent Security Key Leaks in Android Repos Using GitLeaks | Ahmad Riza | [Read More](https://medium.com/p/143d9abde6c6) |
+| Wed, 30 Apr 2025 01:06:13 GMT | Learning Cyber Security: Network Traffic Analisys — Web Attack | Juni Artawan | [Read More](https://medium.com/p/de48fd385a5e) |
+| Wed, 30 Apr 2025 00:59:56 GMT | I’m a self-confessed Bigfoot dork, and since I live in Tokyo, any type of Sasquatch adventure is… | ODB BLOG | [Read More](https://medium.com/p/1a098ddc74a4) |
+| Wed, 30 Apr 2025 00:55:41 GMT | Sorry My Humanity Didn’t Match Your Aesthetic | Lisa Pottgen | [Read More](https://medium.com/p/2773ccbb003c) |
+| Wed, 30 Apr 2025 00:41:31 GMT | Find secrets in JS files(bug bounty) | loyalonlytoday | [Read More](https://medium.com/p/587e29025682) |
+| Wed, 30 Apr 2025 00:34:14 GMT | Strengthening Our Academic Foundations: How ExeQuantum is Advancing Post-Quantum Cryptography… | ExeQuantum | [Read More](https://medium.com/p/889ac0aba590) |
+| Wed, 30 Apr 2025 00:26:26 GMT | Top 10 Cybersecurity Trends to Watch in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/fa0f0987c368) |
+| Wed, 30 Apr 2025 00:08:36 GMT | ”Art” lab (React Native app) on Cybertalents walkthrough | Amr AbdElhameed | [Read More](https://medium.com/p/c9b3a16f7951) |
+| Wed, 30 Apr 2025 00:05:08 GMT | Want Me to Hate You? Be Genuinely Kind. | Kahina | [Read More](https://medium.com/p/9af5688497d2) |
+| Wed, 30 Apr 2025 00:03:51 GMT | Eger’s Earth Boring Dung Beetle Facts and Information | The Entomology Corner | [Read More](https://medium.com/p/501a9f419647) |
+| Wed, 30 Apr 2025 00:02:22 GMT | Hack The Box — Challenge — Spooky PassWalkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/a9562d00a6cb) |
+| Tue, 29 Apr 2025 23:57:54 GMT | An Attempt to Hijack My Digital Identity: A Cyber Attack Following Two Medium.com Articles | embossdotar | [Read More](https://medium.com/p/63692536546c) |
+| Tue, 29 Apr 2025 23:56:23 GMT | Every Job Seeker Will Get a Job — But Cybersecurity Rewards the Patient and Prepared | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/05b9b9756e38) |
+| Tue, 29 Apr 2025 23:42:36 GMT | Proving Grounds Practice — Pelican Walkthrough | Batu Ada Tutkun | [Read More](https://medium.com/p/13ca4638121c) |
+| Tue, 29 Apr 2025 23:42:18 GMT | LazyAdmin— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/277018351ee9) |
+| Tue, 29 Apr 2025 23:38:46 GMT | How to Evade Antivirus with Custom Payloads in Python | Maxwell Cross | [Read More](https://medium.com/p/2ff08fa23d2d) |
+| Tue, 29 Apr 2025 23:37:54 GMT | ✨ What Is Intellectual Enlightenment? | Alexious Fiero | [Read More](https://medium.com/p/f88a679a9af7) |
 | Tue, 29 Apr 2025 23:23:09 GMT | Operation Root Access — Walkthrough | Nikhil Shakya | [Read More](https://medium.com/p/ecf33ed93667) |
 | Tue, 29 Apr 2025 23:20:01 GMT | How to Securely Manage Accounts in Alibaba Cloud | Jacky Yau | [Read More](https://medium.com/p/1e4d64c000fd) |
 | Tue, 29 Apr 2025 23:19:18 GMT | Documenting my Experiences with the 2025 WiCyS Security Training Scholarship Program — Part 2… | Crislana Rafael | [Read More](https://medium.com/p/f0798aa506d1) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 18:08:37 GMT | On academic corruption and data security risk | Larsspekschoor | [Read More](https://medium.com/p/c6cfaca82699) |
 | Tue, 29 Apr 2025 18:02:33 GMT | Building a Security Operations Center: Main Steps | TechMagic | [Read More](https://medium.com/p/aef5de20a561) |
 | Tue, 29 Apr 2025 18:00:14 GMT | How To Get Entry Level Jobs in CyberSecurity | Gourav(spidergk) | [Read More](https://medium.com/p/97f9ef0df3bc) |
-| Tue, 29 Apr 2025 17:50:10 GMT | Hack The Box — Hospital (medium Windows Box) | MO R SY | [Read More](https://medium.com/p/419e069a6fb7) |
-| Tue, 29 Apr 2025 17:37:28 GMT | Bugcrowd Student Qualifier! CTF Challenge Writeup: Faulty Machine | Baraiprince | [Read More](https://medium.com/p/582e520bb001) |
-| Tue, 29 Apr 2025 17:36:19 GMT | EDR Can’t Stop You If You Walk Through the Front Door | Anezaneo | [Read More](https://medium.com/p/58e6c814b4fa) |
-| Tue, 29 Apr 2025 17:36:02 GMT | Hands-On with Wazuh: My NextStep Toward a Cybersecurity Career | Monish | [Read More](https://medium.com/p/00fb0121fb3b) |
-| Tue, 29 Apr 2025 17:34:35 GMT | Network Segmentation in Penetration Testing: Key Insights for Ethical Hackers and Red Teamers | YoungerSibling | [Read More](https://medium.com/p/8c563a975cfa) |
-| Tue, 29 Apr 2025 17:32:38 GMT | Zero Day Exploits — Google Edition | Chase Dancer | [Read More](https://medium.com/p/8d782310a0d2) |
-| Tue, 29 Apr 2025 17:26:02 GMT | I Have a Hacking Gig For YOU, Hack Them and Get Paid | Muhammad | [Read More](https://medium.com/p/2cddf6442492) |
-| Tue, 29 Apr 2025 17:20:51 GMT | Data Security and Encryption | Aalekh Srivastava | [Read More](https://medium.com/p/8faa0fb0c291) |
-| Tue, 29 Apr 2025 17:20:45 GMT | Intro to SQL Injection. | err0rgod | [Read More](https://medium.com/p/ec341c7be2ff) |
-| Tue, 29 Apr 2025 17:19:49 GMT | Level Up Your Reviews: The One Simple Habit for Better Code Reviews | Jake Merten | [Read More](https://medium.com/p/4b6cb1215399) |
-| Tue, 29 Apr 2025 17:19:02 GMT | Unlocking Digital Doors: A Deep Dive into Authentication & Authorization | Aalekh Srivastava | [Read More](https://medium.com/p/a4c63ffe2d59) |
-| Tue, 29 Apr 2025 17:18:57 GMT | SSH Bruteforce- All about bruteforce. | err0rgod | [Read More](https://medium.com/p/4ab38340631f) |
-| Tue, 29 Apr 2025 17:07:10 GMT | Beyond the Imitation Game: Why the Turing Test’s Deceptive Core Undermines Ethical AI | Leila Golchehreh | [Read More](https://medium.com/p/935b2c600729) |
-| Tue, 29 Apr 2025 17:06:36 GMT | Bug bounty program STON.fi: $500,000 in rewards | aqkiler | [Read More](https://medium.com/p/c03c1b90c24d) |
-| Tue, 29 Apr 2025 17:04:49 GMT | Bug Bounty программа STON.fi: $500,000 в наградах | aqkiler | [Read More](https://medium.com/p/ca3da312326d) |
-| Tue, 29 Apr 2025 17:04:03 GMT | Summary of the Spain Power Outage Analysis — April 28, 2025 | Marcellus von Ruijcken | [Read More](https://medium.com/p/dd2b45e467c0) |
-| Tue, 29 Apr 2025 16:59:38 GMT | The Hidden Data Exposure Risk in Financial AI: Legal and Compliance Implications | John V. Levonick | [Read More](https://medium.com/p/78bf11531793) |
-| Tue, 29 Apr 2025 16:59:31 GMT | A Beginner’s Experience with the HackTheBox CAP Machine | Freddy Harahap | [Read More](https://medium.com/p/9b8bca074724) |
-| Tue, 29 Apr 2025 16:58:03 GMT | Ransomware for Noobs: The Dictionary | Chase Dancer | [Read More](https://medium.com/p/1727a5d35470) |
-| Tue, 29 Apr 2025 16:57:49 GMT | Bug Tracking Management for QA Teams: Let’s Get It Right | Devy Azkia | [Read More](https://medium.com/p/b4f3e7cfe129) |
-| Tue, 29 Apr 2025 16:56:31 GMT | OT Security - Challenges and Solutions for Critical Infrastructure Protection | SafeAeon Inc. | [Read More](https://medium.com/p/3e6f47f6adf9) |
