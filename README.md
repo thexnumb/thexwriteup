@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 21:32:45 GMT | Introduction to YARA Rules: A Complete Beginner’s Guide | Analyst Atlas | [Read More](https://medium.com/p/645262b2bf6c) |
+| Wed, 30 Apr 2025 21:23:55 GMT | Volatile Machine — HTB Bugcrowd CTF Writeup | Zakyasali | [Read More](https://medium.com/p/45403032bb8c) |
+| Wed, 30 Apr 2025 21:23:00 GMT | Bail under Discussion for Calgary Woman Charged in Security Guard’s Death | Scott Hill | [Read More](https://medium.com/p/3ad9b05927d4) |
+| Wed, 30 Apr 2025 21:21:36 GMT | Cybersecurity in Audit Aggregation: An Essential Elenktes Priority | Elenktes | [Read More](https://medium.com/p/302775c90070) |
+| Wed, 30 Apr 2025 21:13:42 GMT | Inside Apple’s Private Cloud Compute: Can Confidential AI Be Trusted? | David Gobaud | [Read More](https://medium.com/p/4279d494d9b3) |
 | Wed, 30 Apr 2025 21:10:53 GMT | The First AI-Designed File Sharing Platform — A Glimpse Into Autonomous Businesses? | Guilherme Mariano de Souza Santos | [Read More](https://medium.com/p/3d271e687f6f) |
 | Wed, 30 Apr 2025 20:55:54 GMT | How I wrote my own encryption algorithm for the first time! | Sadra Bakhtiari | [Read More](https://medium.com/p/2ad1fea6cab3) |
 | Wed, 30 Apr 2025 20:52:42 GMT | False Positive Filtering Techniques and Automated Remediation Methods | Esra Kayhan | [Read More](https://medium.com/p/935cd254fe29) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 15:39:21 GMT | I Hope Someone Can See Right Through My Eyes | chi | [Read More](https://medium.com/p/b04ff42ae73e) |
 | Wed, 30 Apr 2025 15:38:04 GMT | What Is a WAF and Why Do You Need One? (Beginner-Friendly Guide) | Loria | [Read More](https://medium.com/p/879ed01d39c2) |
 | Wed, 30 Apr 2025 15:36:26 GMT | Cracks in the Chain: A Data-Driven Analysis of Solana’s Security History | ash.js | [Read More](https://medium.com/p/61c2cb9fa438) |
-| Wed, 30 Apr 2025 15:36:08 GMT | 100 Perintah Linux yang sering dipakaioleh pentester , auto jadi pentester senior | ASSRIANANG FITRA UTAMA | [Read More](https://medium.com/p/cbb572dcfd86) |
-| Wed, 30 Apr 2025 15:33:09 GMT | What Is a WAF and Why Do You Need One? (Beginner-Friendly Guide) | Quella | [Read More](https://medium.com/p/18dbb1918a2c) |
-| Wed, 30 Apr 2025 15:32:36 GMT | GZR Observer Daily — Apr 30, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/066e27e27783) |
-| Wed, 30 Apr 2025 15:31:01 GMT | Cybersecurity Essentials: Protecting Your Digital World in 2025 and Beyond | Data Defendere | [Read More](https://medium.com/p/34ed75337ee9) |
-| Wed, 30 Apr 2025 15:30:49 GMT | Discover the Joy of Bonding with Your Baby Using Momcozy’s Baby Wrap Carrier! | Sadfghgfsafd | [Read More](https://medium.com/p/d2f6f9b8b142) |
