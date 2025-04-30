@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 11:30:14 GMT | Personalization at Scale in Pharma Isn’t Optional Anymore — Here’s How Drupal Enables It | Prevya | [Read More](https://medium.com/p/35b170dfaea9) |
+| Wed, 30 Apr 2025 11:28:47 GMT | AI in Cybersecurity: A Double-Edged Sword Forging the Future | Loginsoft | [Read More](https://medium.com/p/5747ca35801e) |
+| Wed, 30 Apr 2025 11:24:06 GMT | The Hidden Challenges of Running a Cybersecurity Community | N0H4TS | [Read More](https://medium.com/p/a2a4635365a1) |
+| Wed, 30 Apr 2025 11:24:04 GMT | It’s not the industry that’s messy, it’s our comfort zone that’s fragile. | EXLITY | [Read More](https://medium.com/p/bfcf74ac1e27) |
+| Wed, 30 Apr 2025 11:22:54 GMT | SOC141 — Phishing URL Detected — EventID: 86 on LetsDefend | Amadi Oluchi Faith | [Read More](https://medium.com/p/8490256dcacb) |
+| Wed, 30 Apr 2025 11:21:33 GMT | A Complete History of Security Incidents on Solana: Root Causes, Resolutions, and Lessons Learned. | Toluwalase Peters | [Read More](https://medium.com/p/48293b46c4bf) |
+| Wed, 30 Apr 2025 11:19:09 GMT | The Infi XE control room console desk is a perfect blend of modern design and smart functionality… | Pyrotech Workspace Solutions | [Read More](https://medium.com/p/683ea866b2b5) |
+| Wed, 30 Apr 2025 11:18:48 GMT | 6 Tech Mistakes You're Probably Making (And How to Fix Them) | Eyad | [Read More](https://medium.com/p/2a19f7fea763) |
 | Wed, 30 Apr 2025 11:12:34 GMT | Regulation Roulette: Does Compliance Actually Save Money in the Long Run? | Wale Adedeji | [Read More](https://medium.com/p/da7090478a36) |
 | Wed, 30 Apr 2025 11:04:19 GMT | Boost Your Cybersecurity Leadership with CISM Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/9598b00e605b) |
 | Wed, 30 Apr 2025 11:02:36 GMT | Level Up #1: Advanced Auto Approve / Decline Script for WSUS | Easy2Patch | [Read More](https://medium.com/p/3c3b2fd5fd68) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 06:45:51 GMT | Master Cybersecurity with the Certified Ethical Hacker V13 (CEH) Course | Certocean | [Read More](https://medium.com/p/4b4349fb3f5e) |
 | Wed, 30 Apr 2025 06:45:42 GMT | The Growth of Cybercrime: Targeted Sectors and Their Evolution | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/4cdd37b9b3b3) |
 | Wed, 30 Apr 2025 06:41:54 GMT | When Cars Talk Too Much: The Cybersecurity Risks of Connected Vehicles | tezp | [Read More](https://medium.com/p/622428aca6d5) |
-| Wed, 30 Apr 2025 06:41:46 GMT | Proton Mail’s Indian Showdown: AI Deepfakes Spark a Nationwide Ban Threat | Ismail Tasdelen | [Read More](https://medium.com/p/99f58d1b65c3) |
-| Wed, 30 Apr 2025 06:33:38 GMT | Experts Say Cyberattacks Likely To Result In Blackouts | Devang Vashistha | [Read More](https://medium.com/p/4dfad3dac8e6) |
-| Wed, 30 Apr 2025 06:32:33 GMT | Network Management Mistakes and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/a904ff605567) |
-| Wed, 30 Apr 2025 06:30:29 GMT | Top netstat Commands Every Security+ Candidate Must Know | unica 02 | [Read More](https://medium.com/p/4116769c6ad1) |
-| Wed, 30 Apr 2025 06:26:03 GMT | Highest Paying IT Jobs in India in 2025: Roles, Skills & Salary Insights | Prism HRC | [Read More](https://medium.com/p/392680060eb0) |
-| Wed, 30 Apr 2025 06:16:44 GMT | Implementing Facial Recognition Login on Websites with FACEIO: A Step-by-Step Guide for Developers | Pius Oruko | [Read More](https://medium.com/p/6c7b09c4717d) |
-| Wed, 30 Apr 2025 06:12:18 GMT | How I Found Bugs on Adobe | RivuDon | [Read More](https://medium.com/p/16cedb79e830) |
-| Wed, 30 Apr 2025 06:11:05 GMT | 5 Common Network Management Mistakes and How to Avoid Them | Generative AI Blog | [Read More](https://medium.com/p/bd9f48b9b340) |
