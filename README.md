@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 09:20:10 GMT | World Quantum Day: Quantum Computing: Hype or Reality? | Marcel | [Read More](https://medium.com/p/bee57c0bf167) |
+| Wed, 30 Apr 2025 09:17:35 GMT | AWS in the Line of Fire: Offensive Security Insights used by Hackers | Aditya Bhatt | [Read More](https://medium.com/p/aa610cd368e0) |
+| Wed, 30 Apr 2025 09:15:00 GMT | How to Deploy SafeLine WAF with Docker in 5 Minutes | Mmrzxyyhmw | [Read More](https://medium.com/p/daa9c3831fcb) |
+| Wed, 30 Apr 2025 09:14:57 GMT | Experience the Best Security Services in Delhi with ISMS | Internal security and manpower services | [Read More](https://medium.com/p/72478250fed2) |
+| Wed, 30 Apr 2025 09:07:00 GMT | CORS InspectorCORS Inspector | Lukas Simunovic | [Read More](https://medium.com/p/b536fd5449c4) |
+| Wed, 30 Apr 2025 08:58:47 GMT | Custom Tooling Using Python | Hackskillls | [Read More](https://medium.com/p/f535b0727596) |
+| Wed, 30 Apr 2025 08:57:55 GMT | DLL injection fundamental — Part1 | Kijo Ninja | [Read More](https://medium.com/p/21301337f057) |
+| Wed, 30 Apr 2025 08:54:25 GMT | A Technical Review of AI-Infra-Guard V2: New MCP Server Security Analysis Tool | ForAISec | [Read More](https://medium.com/p/6733a7f319e0) |
+| Wed, 30 Apr 2025 08:51:53 GMT | The Vulnerability Paradox: Why We Share Our Deepest Truths With Those Who Know Us Least | Dominik Kohoutek | [Read More](https://medium.com/p/6edbbe74c7e6) |
+| Wed, 30 Apr 2025 08:49:34 GMT | Shadows of Resilience by Hennster | Hennster | [Read More](https://medium.com/p/27856c7e3e3c) |
 | Wed, 30 Apr 2025 08:41:06 GMT | WhatsApp Auto-Preview Link Leak: Sensitive Data Exposed Without User Interaction | Codepontiff | [Read More](https://medium.com/p/5317e6aeea3b) |
+| Wed, 30 Apr 2025 08:40:34 GMT | Pathologically, Me… | Timothée Lajeunesse | [Read More](https://medium.com/p/4caa478f03ec) |
 | Wed, 30 Apr 2025 08:40:32 GMT | Trying to break a Yubikey | Keir Finlow-Bates | [Read More](https://medium.com/p/4765e5184d0b) |
 | Wed, 30 Apr 2025 08:35:41 GMT | Shadows Within Shadows | Tales of Nyx | [Read More](https://medium.com/p/25fdea032c73) |
 | Wed, 30 Apr 2025 08:30:19 GMT | Starting out Bug Bounty as a Beginner | hackerhaishayad | [Read More](https://medium.com/p/12df44ccedcb) |
@@ -20,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 08:27:28 GMT |  | Smart Money Management | [Read More](https://medium.com/p/09c11c783a2c) |
 | Wed, 30 Apr 2025 08:24:47 GMT | Stealthy Linux Intrusions: Analyzing BPFDoor-like Threat Activity and Emerging Risks | David SEHYEON Baek | [Read More](https://medium.com/p/7faf6cc02c3d) |
 | Wed, 30 Apr 2025 08:22:58 GMT | Gen AI: Innovation Meets Security | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/8450f41c02ca) |
+| Wed, 30 Apr 2025 08:18:37 GMT | भारत की डिजिटल अर्थव्यवस्था तेज़ी से बढ़ रही है, और पूरे देश में डिजिटल भुगतान का प्रचलन बढ़ रहा… | Hacker news 07 | [Read More](https://medium.com/p/441d97915d12) |
 | Wed, 30 Apr 2025 08:17:37 GMT | 40 Essential Cybersecurity Terms Every Professional Must Know | Madhavaraman | [Read More](https://medium.com/p/f35053e92331) |
 | Wed, 30 Apr 2025 08:17:22 GMT | Pentesting — Living off the Land: | DeepBlue Security & Intelligence | [Read More](https://medium.com/p/9fedc3d75489) |
 | Wed, 30 Apr 2025 08:15:28 GMT | Cybersecurity Cheat Sheet ️ | AJANI TAIWO MICHEAL | [Read More](https://medium.com/p/b0a40e3328d1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 04:17:56 GMT | Enforcing policy-as-code: Open Policy Agent (OPA) | Raunak Balchandani | [Read More](https://medium.com/p/508883d6c0e8) |
 | Wed, 30 Apr 2025 04:09:17 GMT | Mystery at Sea: Norway’s Underwater Internet Cable Damaged, Raising Fears of Sabotage | Dipayan Ghosh | [Read More](https://medium.com/p/49845fdae1d4) |
 | Wed, 30 Apr 2025 04:09:14 GMT | Why JWT Needs a Secret If It’s Not Encrypted | Sergey Egorenkov | [Read More](https://medium.com/p/0e119cebd437) |
-| Wed, 30 Apr 2025 03:56:27 GMT | When Trust Turns Toxic: Weaponizing CustomGPTs for Phishing Attacks via DarkMind and Evilginx | Red Threat Cyber Security | [Read More](https://medium.com/p/f0b7e723ccf0) |
-| Wed, 30 Apr 2025 03:50:42 GMT | VPN Privacy Tips For Internet Users | James Neal | [Read More](https://medium.com/p/a2eaa2972e99) |
-| Wed, 30 Apr 2025 03:45:39 GMT | Enhance Your Online Experience With Revolutionary VPNs | Melvin Erickson | [Read More](https://medium.com/p/59eb2df4a6ac) |
-| Wed, 30 Apr 2025 03:32:39 GMT | Calculating the CVSS Base Score for a Remote Code Execution (RCE) Vulnerability | Saber You | [Read More](https://medium.com/p/69538b15d3b4) |
-| Wed, 30 Apr 2025 03:23:31 GMT | How I Solved “Stolen Mount” Chall on Tryhackme Hackfinity 2025 | abdur rashid firdaus | [Read More](https://medium.com/p/00c5d4521af7) |
-| Wed, 30 Apr 2025 03:17:13 GMT | Hackers Are Actually Good People — Product Hunt? Event Recap, Confession and Thanks | Ömer Faruk BULUT | [Read More](https://medium.com/p/c1ffab939355) |
-| Wed, 30 Apr 2025 03:02:37 GMT | Port Scanning Speed Test: RustScan vs Naabu | Patar Isac Pardomuan | [Read More](https://medium.com/p/9d7cfbd18424) |
-| Wed, 30 Apr 2025 02:49:14 GMT | Wicked Panda APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/381e51360791) |
-| Wed, 30 Apr 2025 02:45:57 GMT | How to Build a Killer Cybersecurity Portfolio | Ahmad Javed | [Read More](https://medium.com/p/53e2fe4f3721) |
-| Wed, 30 Apr 2025 02:42:41 GMT | Authentication in React Using JWT — Keep Your App Safe Like a Treasure Chest! | ASHABB Intelligence | [Read More](https://medium.com/p/e14bc9937400) |
-| Wed, 30 Apr 2025 02:40:14 GMT | The Hidden Threats Behind CDN: Why Security Defense Can’t Be Overlooked | Li Zixiang | [Read More](https://medium.com/p/3abc330f2adf) |
-| Wed, 30 Apr 2025 02:39:59 GMT | Hacking Printers on the Local Network Using Kali Linux ?! | Dayu Ovtama Nasrulah | [Read More](https://medium.com/p/5522b30eea24) |
