@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 18:23:47 GMT | Edge Computing Explained: Why It Matters More Than Ever | Engin Ergen | [Read More](https://medium.com/p/a0fd1c1cce56) |
+| Wed, 30 Apr 2025 18:17:11 GMT | How to Block Insecure .XLTX Uploads in a C#/.NET App | Cloudmersive | [Read More](https://medium.com/p/7b3737b9e757) |
+| Wed, 30 Apr 2025 18:16:31 GMT | MONTHLY SECURITY RECAP 04/2025 | Patrik Žák | [Read More](https://medium.com/p/a0230f068ff4) |
+| Wed, 30 Apr 2025 18:14:41 GMT | Threat modelling in ZTNA AWS web app | Abhishek Pandey | [Read More](https://medium.com/p/f809fa495eda) |
+| Wed, 30 Apr 2025 18:10:51 GMT | Ultimate Guide to AWS Security Hub: Centralized Cloud Security Monitoring | AWS Cloud Architect | [Read More](https://medium.com/p/68efd8026cfc) |
+| Wed, 30 Apr 2025 18:06:53 GMT | All about MITM- Spice things UP with it. | err0rgod | [Read More](https://medium.com/p/df0ba4282b27) |
+| Wed, 30 Apr 2025 18:05:00 GMT | PHISHING — How it’s done | err0rgod | [Read More](https://medium.com/p/01da5956ed6f) |
+| Wed, 30 Apr 2025 18:01:41 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 | ImranTheExploitHunter | [Read More](https://medium.com/p/c79ce9f6748d) |
+| Wed, 30 Apr 2025 18:00:08 GMT | From Internal IP Discovery to Full Database Dump | Mustafa Hatab | [Read More](https://medium.com/p/6fbbac0ff822) |
+| Wed, 30 Apr 2025 18:00:06 GMT | SOC115 — EventID 47 — Wscript.exe Usage as Dropper | Mateo Pappa | [Read More](https://medium.com/p/95ec7df8eeee) |
+| Wed, 30 Apr 2025 17:59:45 GMT | Command, Control, and Conquer: A First Principles Guide to Modern C2 Frameworks | Menelik | [Read More](https://medium.com/p/458c47470e2b) |
+| Wed, 30 Apr 2025 17:58:49 GMT | What Is a Cyber Tailgating Attack? How It Works and How to Prevent It | SafeAeon Inc. | [Read More](https://medium.com/p/05371c4c67d3) |
+| Wed, 30 Apr 2025 17:50:59 GMT | Browser Cookies: What They Are, How They Work, and Why They Matter | Tihomir Manushev | [Read More](https://medium.com/p/b0704b385dad) |
+| Wed, 30 Apr 2025 17:46:35 GMT | Splunk — Getting Data In | Bob Malin | [Read More](https://medium.com/p/3c1cb46000ed) |
+| Wed, 30 Apr 2025 17:45:32 GMT | BLAST VirtualBox Lab Environment Part 1.2: Install Kali Linux | Mike | [Read More](https://medium.com/p/a4523f282a75) |
+| Wed, 30 Apr 2025 17:42:58 GMT | A Deep Dive: History of Solana Security Incidents | Ebele Asiadiachi | [Read More](https://medium.com/p/e514be42df66) |
+| Wed, 30 Apr 2025 17:37:32 GMT | Building Collaborative AI Systems: An End-to-End Approach Using A2A Protocol, MCP, and Frameworks | Ashsingh | [Read More](https://medium.com/p/972e4daf4a27) |
+| Wed, 30 Apr 2025 17:37:23 GMT | Step-by-Step: Building a Hardened AMI in AWS Using EC2 Image Builder | Iavwerosuo | [Read More](https://medium.com/p/770ae54708c2) |
 | Wed, 30 Apr 2025 17:36:55 GMT | Hacking Workspace for Fun & Profit: Part II | Md Saikat | [Read More](https://medium.com/p/de9cd3cc9755) |
 | Wed, 30 Apr 2025 17:36:50 GMT | Misaligned Timing Is Killing Your Cybersecurity Campaigns | Alexandrankwopara | [Read More](https://medium.com/p/0cbeeb8d09d9) |
 | Wed, 30 Apr 2025 17:33:18 GMT | Morphohack Cyber Services — Crypto Recovery Specialist | Morphohack Cyber Services | [Read More](https://medium.com/p/8b64bff0d3b3) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 14:15:30 GMT | Introduction | Raphael P. | [Read More](https://medium.com/p/2de6b5f70909) |
 | Wed, 30 Apr 2025 14:14:42 GMT | HTB Monteverde Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/8a046412ae58) |
 | Wed, 30 Apr 2025 14:13:19 GMT | From Out-of-Scope to Critical: How I Earned 2500$ by Breaking the Rules | Gotcha1G | [Read More](https://medium.com/p/e8165ec5ef37) |
-| Wed, 30 Apr 2025 14:08:45 GMT | ️ OWASP Top 10: The Biggest Web Vulnerabilities (Explained Simply) | Ravindra Dagale | [Read More](https://medium.com/p/530a09ead1eb) |
-| Wed, 30 Apr 2025 14:04:57 GMT | IDOR : Ketika URL Bisa Jadi Kunci untuk Bobol Data Orang lain | Zaky Putra Pratama | [Read More](https://medium.com/p/7b68073f56d0) |
-| Wed, 30 Apr 2025 14:03:55 GMT | Natas2 — Wargames solutions writeup | Adithya M S | [Read More](https://medium.com/p/2b2946358259) |
-| Wed, 30 Apr 2025 14:02:39 GMT | Cyber Briefing: 2025.04.30 | CyberMaterial | [Read More](https://medium.com/p/04609458a079) |
-| Wed, 30 Apr 2025 14:00:36 GMT | Trivy: An Overview, Benefits Over Clair, and Usage Examples | Matías Salinas | [Read More](https://medium.com/p/cfb9d2b671c4) |
-| Wed, 30 Apr 2025 13:54:00 GMT | THM Snort Challenge — Live Attacks | Shamar Isaac | [Read More](https://medium.com/p/edb7c9deb3c1) |
-| Wed, 30 Apr 2025 13:53:04 GMT | Installation and integration of Hashicorp Vault on Kubernetes | Matías Salinas | [Read More](https://medium.com/p/9cb909e15b89) |
-| Wed, 30 Apr 2025 13:49:18 GMT | Meta’s “LlamaFirewall” Is Here — And It Might Just Be the Bodyguard AI Has Been Begging For ️ | The Cyber Ghost | [Read More](https://medium.com/p/45f16b3ddcb8) |
-| Wed, 30 Apr 2025 13:49:08 GMT | Understand HTTP Methods & Headers (Without Falling Asleep ) | Ravindra Dagale | [Read More](https://medium.com/p/eef07a83ea96) |
-| Wed, 30 Apr 2025 13:47:40 GMT | NIST AI Risk Framework (part 1) | David Scott | [Read More](https://medium.com/p/40ab90de1db7) |
-| Wed, 30 Apr 2025 13:43:27 GMT | OSUSEC — HackerOne 101 CTF Walk-through | Muntadhar M. Ahmed | [Read More](https://medium.com/p/a2c04ea777aa) |
-| Wed, 30 Apr 2025 13:42:56 GMT | Introduction to Shells — What you absolutely need to know | Niklas Heringer | [Read More](https://medium.com/p/870d53251d5e) |
-| Wed, 30 Apr 2025 13:33:09 GMT | How I Found My First Bug: IDOR Vulnerability & Got a $$$ Bounty! | Zephyrus | [Read More](https://medium.com/p/d11b983e1460) |
-| Wed, 30 Apr 2025 13:31:35 GMT | How to Protect APIs from Unauthorized Access & Attacks | Mehedi Hasan | [Read More](https://medium.com/p/caab2f14b086) |
-| Wed, 30 Apr 2025 13:31:16 GMT | India vs The Wayback Machine?! What’s REALLY Going On? | The Cyber Ghost | [Read More](https://medium.com/p/2bafdbf20826) |
-| Wed, 30 Apr 2025 13:31:02 GMT | Balanced Security | PRIRITY | [Read More](https://medium.com/p/d2f3cbad8505) |
-| Wed, 30 Apr 2025 13:22:44 GMT | geme | Siemba | [Read More](https://medium.com/p/a0cfc8b13a76) |
-| Wed, 30 Apr 2025 13:22:36 GMT | SSL Pinning in Android: Securing Your App’s Network Communications | Jaydeep khambhayta | [Read More](https://medium.com/p/c24567293f49) |
