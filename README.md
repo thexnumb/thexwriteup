@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 18:34:24 GMT | Lessons from My First Year in Cybersecurity: What They Don’t Teach in College | NinzaBoi | [Read More](https://medium.com/p/a157ffa82f12) |
+| Wed, 30 Apr 2025 18:31:18 GMT | Mastering Google Dorking (Advanced Techniques for OSINT Professionals) | Nazrul Islam Rana | [Read More](https://medium.com/p/5cc9e36993b9) |
+| Wed, 30 Apr 2025 18:28:08 GMT | Building a Packet Sniffer in Python as a Cybersecurity Student | Mujtaba Shaikeldin | [Read More](https://medium.com/p/c24c8a2572d1) |
+| Wed, 30 Apr 2025 18:27:33 GMT | RansomHub Just Vanished — But the Plot Thickens… | The Cyber Ghost | [Read More](https://medium.com/p/a24c53f46430) |
+| Wed, 30 Apr 2025 18:27:12 GMT | BLAST VirtualBox Lab Environment Part 1.3: Configure pfSense | Mike | [Read More](https://medium.com/p/0ea9b756962e) |
+| Wed, 30 Apr 2025 18:25:50 GMT | The Human Side of Risk | Azeezah | [Read More](https://medium.com/p/95029ca362a8) |
+| Wed, 30 Apr 2025 18:23:50 GMT | I Joined a “Work from Home” Scam to See How It Works — Here’s the Ugly Truth | Kamran Khan | [Read More](https://medium.com/p/fee7d7c807ed) |
 | Wed, 30 Apr 2025 18:23:47 GMT | Edge Computing Explained: Why It Matters More Than Ever | Engin Ergen | [Read More](https://medium.com/p/a0fd1c1cce56) |
 | Wed, 30 Apr 2025 18:17:11 GMT | How to Block Insecure .XLTX Uploads in a C#/.NET App | Cloudmersive | [Read More](https://medium.com/p/7b3737b9e757) |
 | Wed, 30 Apr 2025 18:16:31 GMT | MONTHLY SECURITY RECAP 04/2025 | Patrik Žák | [Read More](https://medium.com/p/a0230f068ff4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 14:26:46 GMT | Building a Security Monitoring Lab with Wazuh on MAC: A Journey from Theory to Practice | CyberPands | [Read More](https://medium.com/p/6834c48e8f89) |
 | Wed, 30 Apr 2025 14:24:52 GMT | April Make Me Happy (Bug Bounty Hunting) | Shuvo Kumar Saha | [Read More](https://medium.com/p/2af3fcf15746) |
 | Wed, 30 Apr 2025 14:23:54 GMT | Vulnerabilities You Can Find in a Payment Gateway | Ravindra Dagale | [Read More](https://medium.com/p/338b944b0f61) |
-| Wed, 30 Apr 2025 14:21:26 GMT | Testing HTTP Request Smuggling Using Nginx | Xinquanyip | [Read More](https://medium.com/p/e90449b4f134) |
-| Wed, 30 Apr 2025 14:20:45 GMT | The Hidden Danger of a World Run by AI | Sandeep Peiris | [Read More](https://medium.com/p/e26048351765) |
-| Wed, 30 Apr 2025 14:20:36 GMT | How to Check .POTX Template Files for Threats in your Node.js App | Cloudmersive | [Read More](https://medium.com/p/a69a82852436) |
-| Wed, 30 Apr 2025 14:19:53 GMT | Bypassing Email-Based 2FA via Client-Side Response Tampering: An Informative Case Study | z00x | [Read More](https://medium.com/p/ef4c58b9c97f) |
-| Wed, 30 Apr 2025 14:15:30 GMT | Introduction | Raphael P. | [Read More](https://medium.com/p/2de6b5f70909) |
-| Wed, 30 Apr 2025 14:14:42 GMT | HTB Monteverde Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/8a046412ae58) |
-| Wed, 30 Apr 2025 14:13:19 GMT | From Out-of-Scope to Critical: How I Earned 2500$ by Breaking the Rules | Gotcha1G | [Read More](https://medium.com/p/e8165ec5ef37) |
