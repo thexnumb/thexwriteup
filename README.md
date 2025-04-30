@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 20:07:20 GMT | Learning what’s the Cyber Kill Chain: A Beginner’s Guide | R1cH4t | [Read More](https://medium.com/p/be02af218ddf) |
+| Wed, 30 Apr 2025 20:06:50 GMT | Solana Down But Not Out: The Full Story of Its Outages, Hacks, and the Fight to Rebuild Trust | PerrieDExplorer | [Read More](https://medium.com/p/00c2393d60bb) |
+| Wed, 30 Apr 2025 20:04:46 GMT | SaaS: The Convenience That Became a Digital Security Minefield | Renata R Santos | [Read More](https://medium.com/p/784e7cb23028) |
+| Wed, 30 Apr 2025 20:02:23 GMT | The Rise of Phishing-as-a-Service and What the LabHost Takedown Teaches Us About Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/3973f2babc45) |
+| Wed, 30 Apr 2025 19:50:01 GMT | A Newbie’s Diary: Me and Clickjacking Vulnerability | Bourhan Bouacida | [Read More](https://medium.com/p/5174123c8de9) |
+| Wed, 30 Apr 2025 19:49:25 GMT | How I Turned an Old Phone into a Real-Time Face-Recognition Door Guard (with 3 Docker Commands) | Jean de Paula | [Read More](https://medium.com/p/ef76cb91d5ab) |
+| Wed, 30 Apr 2025 19:48:27 GMT | Ireland’s Health Care System Is Shockingly Awful And Inhumane | Deirdre ('Writer In The Abyss') | [Read More](https://medium.com/p/752c459953ff) |
+| Wed, 30 Apr 2025 19:45:48 GMT | Why You Won’t Find Russian or Chinese Servers on Reputable VPNs (and Why That Matters) | William Downing | [Read More](https://medium.com/p/f5d6b27e5556) |
+| Wed, 30 Apr 2025 19:40:39 GMT | Kali Linux : vacib əmrlər və alətlər (Part 1) | alizadasec | [Read More](https://medium.com/p/86ae7998442a) |
+| Wed, 30 Apr 2025 19:30:18 GMT | INE: Certified Incident Responder (eCIR) reviewwww, รีวิว eCIR | Ppow | [Read More](https://medium.com/p/c004c955fa92) |
 | Wed, 30 Apr 2025 19:22:22 GMT | Privacy Principles and Regulation | 0xr4m! | [Read More](https://medium.com/p/9738a9b5cd0b) |
 | Wed, 30 Apr 2025 19:20:05 GMT | The Intelligent Investor: A Comprehensive Guide to Value Investing | Apubra Daria | [Read More](https://medium.com/p/a20a1637e3c0) |
 | Wed, 30 Apr 2025 19:13:13 GMT | Refresh Tokens Are Trickier Than Many Developers Think | Sergey Egorenkov | [Read More](https://medium.com/p/46190800ff92) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 15:13:21 GMT | 100 Common Linux Command for Penetration Testing. | Defenderramadhan | [Read More](https://medium.com/p/dfe56e25ae45) |
 | Wed, 30 Apr 2025 15:06:01 GMT | Zero Trust Network Architectures and Implementations | Esra Kayhan | [Read More](https://medium.com/p/09bafa20df02) |
 | Wed, 30 Apr 2025 15:05:50 GMT | All About Zero Cost Abstractions in Rust: Explained in Simple English | Dhanush N | [Read More](https://medium.com/p/d29bcb3cffdd) |
-| Wed, 30 Apr 2025 15:01:43 GMT | Social Engineering: The Art of exploiting the human factor in any system | Shoyombo Raphael | [Read More](https://medium.com/p/9becdecbc77d) |
-| Wed, 30 Apr 2025 14:57:45 GMT | Securing Your AI: A Look at Meta’s Llama Firewall | Keith Foster | [Read More](https://medium.com/p/1d1d40ee16e5) |
-| Wed, 30 Apr 2025 14:57:19 GMT | AI Jailbreaks: How Hackers Are Fooling Artificial Intelligence | Cybersecurity Umbrella | [Read More](https://medium.com/p/8af407b85555) |
-| Wed, 30 Apr 2025 14:56:46 GMT | What Oracle’s Two Recent Hacks Mean for Businesses? | IT_Engineer | [Read More](https://medium.com/p/d1e52a020ee8) |
-| Wed, 30 Apr 2025 14:52:00 GMT | Chinese Hackers Hijack IPv6 with Spellbinder: A Cyber Sneak Attack ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/4fe27ca1a60e) |
-| Wed, 30 Apr 2025 14:51:17 GMT | Trusted Hospital Security Guards in Milton Keynes for Safe Healthcare Environments | Travel time | [Read More](https://medium.com/p/1d88b1632b7c) |
-| Wed, 30 Apr 2025 14:49:51 GMT | CVE-2025–31324: Unrestricted File Upload in SAP NetWeaver Visual Composer | Hoplon Infosec | [Read More](https://medium.com/p/3b930471b8d5) |
-| Wed, 30 Apr 2025 14:46:57 GMT | From Internal IP Discovery to Full Database Dump | dotHatab | [Read More](https://medium.com/p/96fbd85dbc7a) |
-| Wed, 30 Apr 2025 14:46:13 GMT | When Does URL Encoding Happen? | Zoningxtr | [Read More](https://medium.com/p/a5ff6e88c59f) |
-| Wed, 30 Apr 2025 14:46:01 GMT | Office Network Simulation Made Simple: My Hands-On Guide for Beginners | DavD | [Read More](https://medium.com/p/13e114dbfff0) |
