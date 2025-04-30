@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 22:17:11 GMT | Part 2: 10 Essential Websites Every Security Researcher Should Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/de799110f476) |
+| Wed, 30 Apr 2025 22:03:04 GMT | SOC292 — Possible PHP Injection Detected (CVE-2024–4577) Write-up | Dh | [Read More](https://medium.com/p/2ce1d03d5de0) |
+| Wed, 30 Apr 2025 22:02:59 GMT | Out-of-Bounds Read Podcast — “Root Cause Mapping and the CWE Top 25” | CWE Program | [Read More](https://medium.com/p/566323c9c39d) |
+| Wed, 30 Apr 2025 21:54:03 GMT | You Think You’re Growing — You’re Just Consuming | Hamza ELGADI | [Read More](https://medium.com/p/21074a27c582) |
+| Wed, 30 Apr 2025 21:49:25 GMT | From Zero to SIA Hero: The Ultimate 2025 Guide to Getting Licensed and Landing Security Jobs in… | AjayKrish | [Read More](https://medium.com/p/3e3c5d88dacc) |
+| Wed, 30 Apr 2025 21:48:35 GMT | The New Frontier of Cybersecurity: Autonomous Agents Powered by Generative AI | Gonzalo Surribas Sayago | [Read More](https://medium.com/p/0efa1584f884) |
+| Wed, 30 Apr 2025 21:47:40 GMT | Lab 22 — Netcat | Hassen Hannachi | [Read More](https://medium.com/p/6ae4e3f36ce4) |
+| Wed, 30 Apr 2025 21:45:29 GMT | Pause Like a Pro: How AutoPauseMiddleware Freezes Time for Game Hackers and Modders | nuclei_av | [Read More](https://medium.com/p/4a83bbefd9a8) |
+| Wed, 30 Apr 2025 21:38:20 GMT | Insecure Deserialization | 0xSt4n | [Read More](https://medium.com/p/5f0a39f39db1) |
 | Wed, 30 Apr 2025 21:32:45 GMT | Introduction to YARA Rules: A Complete Beginner’s Guide | Analyst Atlas | [Read More](https://medium.com/p/645262b2bf6c) |
 | Wed, 30 Apr 2025 21:23:55 GMT | Volatile Machine — HTB Bugcrowd CTF Writeup | Zakyasali | [Read More](https://medium.com/p/45403032bb8c) |
 | Wed, 30 Apr 2025 21:23:00 GMT | Bail under Discussion for Calgary Woman Charged in Security Guard’s Death | Scott Hill | [Read More](https://medium.com/p/3ad9b05927d4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 16:00:03 GMT | AWS — Application Security Landscape with KMS and Relational Database | Abhishek | [Read More](https://medium.com/p/005d83111b81) |
 | Wed, 30 Apr 2025 15:58:33 GMT | The Dark Side of Solana: Examining Major Security Exploits | Joel Emmanuel | [Read More](https://medium.com/p/0a66956cd7cd) |
 | Wed, 30 Apr 2025 15:56:37 GMT | Building Resilience Beyond Breaches: Lessons from SKT’s Security Incident | Park Sehun | [Read More](https://medium.com/p/5ce9f6a26ac2) |
-| Wed, 30 Apr 2025 15:52:47 GMT | Why We Steer Our Quarero Security Robot With a PlayStation Controller- The Future of Human-Machine… | Marcus Koehnlein | [Read More](https://medium.com/p/fc3598d987c1) |
-| Wed, 30 Apr 2025 15:51:53 GMT | Perintah Linux untuk Penetration Testing | Syifa Sabrina A. | [Read More](https://medium.com/p/cf3e1f627485) |
-| Wed, 30 Apr 2025 15:50:44 GMT | Understanding How VPNs Optimize Online Security | James Neal | [Read More](https://medium.com/p/947cbe4fc79f) |
-| Wed, 30 Apr 2025 15:50:21 GMT | AI Governance and Disinformation Security: Building Trust in a Digital Age | Md Zishan Firoz | [Read More](https://medium.com/p/8fdc8b86fc8b) |
-| Wed, 30 Apr 2025 15:50:12 GMT | Destruktiv imkanlarına görə virusların növlərinə baxaq | Orkhan Jalalov | [Read More](https://medium.com/p/39432d9f57ee) |
-| Wed, 30 Apr 2025 15:45:42 GMT | The Most Advanced VPNs For Business And Personal Use | Melvin Erickson | [Read More](https://medium.com/p/1ee774b1240a) |
-| Wed, 30 Apr 2025 15:39:21 GMT | I Hope Someone Can See Right Through My Eyes | chi | [Read More](https://medium.com/p/b04ff42ae73e) |
-| Wed, 30 Apr 2025 15:38:04 GMT | What Is a WAF and Why Do You Need One? (Beginner-Friendly Guide) | Loria | [Read More](https://medium.com/p/879ed01d39c2) |
-| Wed, 30 Apr 2025 15:36:26 GMT | Cracks in the Chain: A Data-Driven Analysis of Solana’s Security History | ash.js | [Read More](https://medium.com/p/61c2cb9fa438) |
