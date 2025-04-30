@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 11:12:34 GMT | Regulation Roulette: Does Compliance Actually Save Money in the Long Run? | Wale Adedeji | [Read More](https://medium.com/p/da7090478a36) |
+| Wed, 30 Apr 2025 11:04:19 GMT | Boost Your Cybersecurity Leadership with CISM Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/9598b00e605b) |
+| Wed, 30 Apr 2025 11:02:36 GMT | Level Up #1: Advanced Auto Approve / Decline Script for WSUS | Easy2Patch | [Read More](https://medium.com/p/3c3b2fd5fd68) |
+| Wed, 30 Apr 2025 10:57:38 GMT | Solar Inverters — Europe’s Hidden Cybersecurity Risk | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/ac2eb71a29bc) |
+| Wed, 30 Apr 2025 10:57:29 GMT | When Smart Homes Turn Dumb: IoT Vulnerabilities You Need to Know About | Karl Buhl | [Read More](https://medium.com/p/b07d40448410) |
+| Wed, 30 Apr 2025 10:57:13 GMT | Information disclosure on debug page —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/0d8f6b7ad974) |
+| Wed, 30 Apr 2025 10:55:33 GMT | Breaking into Cybersecurity: The Jobs, Skills, and Realities of Protecting the Digital World | SauroNatics | [Read More](https://medium.com/p/777ce3814bc4) |
+| Wed, 30 Apr 2025 10:53:22 GMT | LLM-powered Agent for Automated Google Dorking | yee-yore | [Read More](https://medium.com/p/dcb14d609dc2) |
+| Wed, 30 Apr 2025 10:50:35 GMT | Cybersecurity Threat Landscape: Trends, Insights, and Strategic Recommendations for Mitigating… | Ezeliora Godsfavour | [Read More](https://medium.com/p/ce41792c8948) |
+| Wed, 30 Apr 2025 10:47:09 GMT | OSWE Certification: Your Gateway to Advanced Web Exploitation | Nytcc | [Read More](https://medium.com/p/6ddd02241944) |
 | Wed, 30 Apr 2025 10:43:32 GMT | URGENT! 5 CYBERSECURITY MISTAKES YOU’RE PROBABLY MAKING IN 2025 BUT DON’T REALIZE | Rachel The Storyteller | [Read More](https://medium.com/p/e097f403fd38) |
 | Wed, 30 Apr 2025 10:42:35 GMT | [Common UI] 파일 업로드 UI를 설계할 때 고려해야 할 점 | Haemin Ryu | [Read More](https://medium.com/p/b7438e3208f3) |
 | Wed, 30 Apr 2025 10:41:17 GMT | Cybersecurity Awareness: Understanding XDR (Extended Detection and Response) | Ajala Jeremiah | [Read More](https://medium.com/p/7f7bf0af81a4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 06:16:44 GMT | Implementing Facial Recognition Login on Websites with FACEIO: A Step-by-Step Guide for Developers | Pius Oruko | [Read More](https://medium.com/p/6c7b09c4717d) |
 | Wed, 30 Apr 2025 06:12:18 GMT | How I Found Bugs on Adobe | RivuDon | [Read More](https://medium.com/p/16cedb79e830) |
 | Wed, 30 Apr 2025 06:11:05 GMT | 5 Common Network Management Mistakes and How to Avoid Them | Generative AI Blog | [Read More](https://medium.com/p/bd9f48b9b340) |
-| Wed, 30 Apr 2025 06:06:15 GMT | How to Detect Credential Dumping Tools like Mimikatz & LaZagne on Endpoints | Paritosh | [Read More](https://medium.com/p/c914ec745e40) |
-| Wed, 30 Apr 2025 06:05:50 GMT | $500 Bug Bounty:Open Redirection via OAuth on Shopify | Monika sharma | [Read More](https://medium.com/p/4159387482f9) |
-| Wed, 30 Apr 2025 06:04:49 GMT | Enable Microsoft Defender for Cloud using Azure Bicep! | Brian Veldman | [Read More](https://medium.com/p/81db533f2844) |
-| Wed, 30 Apr 2025 06:00:45 GMT | Certified Ethical Hacker V13 (CEH): The Ultimate Guide to Ethical Hacking and Cybersecurity… | Certocean | [Read More](https://medium.com/p/11cfb624f41d) |
-| Wed, 30 Apr 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Apr 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1f1be3e8a12f) |
-| Wed, 30 Apr 2025 05:51:58 GMT | The One Programming Concept 90% of Juniors Get Wrong | Johan L | [Read More](https://medium.com/p/3efcbc5c921b) |
-| Wed, 30 Apr 2025 05:46:18 GMT | Cloud Security Secrets: Ditch .env Files for Good! | Tyagi | [Read More](https://medium.com/p/188f59963e20) |
-| Wed, 30 Apr 2025 05:45:16 GMT | The Season of Almost | A. Reed | [Read More](https://medium.com/p/f745839d2427) |
-| Wed, 30 Apr 2025 05:32:57 GMT | TryHackMe - Git Happens - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/7edd3a1e478c) |
-| Wed, 30 Apr 2025 05:32:36 GMT | What Most People Overlook About PC Health | Metro Tech Solutions | [Read More](https://medium.com/p/27eb061a6736) |
