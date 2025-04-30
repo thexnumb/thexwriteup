@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 14:15:30 GMT | Introduction | Raphael P. | [Read More](https://medium.com/p/2de6b5f70909) |
+| Wed, 30 Apr 2025 14:14:42 GMT | HTB Monteverde Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/8a046412ae58) |
+| Wed, 30 Apr 2025 14:13:19 GMT | From Out-of-Scope to Critical: How I Earned 2500$ by Breaking the Rules | Gotcha1G | [Read More](https://medium.com/p/e8165ec5ef37) |
+| Wed, 30 Apr 2025 14:08:45 GMT | ️ OWASP Top 10: The Biggest Web Vulnerabilities (Explained Simply) | Ravindra Dagale | [Read More](https://medium.com/p/530a09ead1eb) |
+| Wed, 30 Apr 2025 14:03:55 GMT | Natas2 — Wargames solutions writeup | Adithya M S | [Read More](https://medium.com/p/2b2946358259) |
+| Wed, 30 Apr 2025 14:02:39 GMT | Cyber Briefing: 2025.04.30 | CyberMaterial | [Read More](https://medium.com/p/04609458a079) |
+| Wed, 30 Apr 2025 14:00:36 GMT | Trivy: An Overview, Benefits Over Clair, and Usage Examples | Matías Salinas | [Read More](https://medium.com/p/cfb9d2b671c4) |
+| Wed, 30 Apr 2025 13:54:00 GMT | THM Snort Challenge — Live Attacks | Shamar Isaac | [Read More](https://medium.com/p/edb7c9deb3c1) |
+| Wed, 30 Apr 2025 13:53:04 GMT | Installation and integration of Hashicorp Vault on Kubernetes | Matías Salinas | [Read More](https://medium.com/p/9cb909e15b89) |
+| Wed, 30 Apr 2025 13:49:18 GMT | Meta’s “LlamaFirewall” Is Here — And It Might Just Be the Bodyguard AI Has Been Begging For ️ | The Cyber Ghost | [Read More](https://medium.com/p/45f16b3ddcb8) |
+| Wed, 30 Apr 2025 13:49:08 GMT | Understand HTTP Methods & Headers (Without Falling Asleep ) | Ravindra Dagale | [Read More](https://medium.com/p/eef07a83ea96) |
+| Wed, 30 Apr 2025 13:47:40 GMT | NIST AI Risk Framework (part 1) | David Scott | [Read More](https://medium.com/p/40ab90de1db7) |
+| Wed, 30 Apr 2025 13:43:27 GMT | OSUSEC — HackerOne 101 CTF Walk-through | Muntadhar M. Ahmed | [Read More](https://medium.com/p/a2c04ea777aa) |
 | Wed, 30 Apr 2025 13:42:56 GMT | Introduction to Shells — What you absolutely need to know | Niklas Heringer | [Read More](https://medium.com/p/870d53251d5e) |
 | Wed, 30 Apr 2025 13:33:09 GMT | How I Found My First Bug: IDOR Vulnerability & Got a $$$ Bounty! | Zephyrus | [Read More](https://medium.com/p/d11b983e1460) |
 | Wed, 30 Apr 2025 13:31:35 GMT | How to Protect APIs from Unauthorized Access & Attacks | Mehedi Hasan | [Read More](https://medium.com/p/caab2f14b086) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 09:17:35 GMT | AWS in the Line of Fire: Offensive Security Insights used by Hackers | Aditya Bhatt | [Read More](https://medium.com/p/aa610cd368e0) |
 | Wed, 30 Apr 2025 09:15:00 GMT | How to Deploy SafeLine WAF with Docker in 5 Minutes | Mmrzxyyhmw | [Read More](https://medium.com/p/daa9c3831fcb) |
 | Wed, 30 Apr 2025 09:14:57 GMT | Experience the Best Security Services in Delhi with ISMS | Internal security and manpower services | [Read More](https://medium.com/p/72478250fed2) |
-| Wed, 30 Apr 2025 09:07:00 GMT | CORS InspectorCORS Inspector | Lukas Simunovic | [Read More](https://medium.com/p/b536fd5449c4) |
-| Wed, 30 Apr 2025 09:01:50 GMT | TryHackMe - Lookup | Hexshubz | [Read More](https://medium.com/p/49ea90442b0b) |
-| Wed, 30 Apr 2025 08:58:47 GMT | Custom Tooling Using Python | Hackskillls | [Read More](https://medium.com/p/f535b0727596) |
-| Wed, 30 Apr 2025 08:57:55 GMT | DLL injection fundamental — Part1 | Kijo Ninja | [Read More](https://medium.com/p/21301337f057) |
-| Wed, 30 Apr 2025 08:54:25 GMT | A Technical Review of AI-Infra-Guard V2: New MCP Server Security Analysis Tool | ForAISec | [Read More](https://medium.com/p/6733a7f319e0) |
-| Wed, 30 Apr 2025 08:51:53 GMT | The Vulnerability Paradox: Why We Share Our Deepest Truths With Those Who Know Us Least | Dominik Kohoutek | [Read More](https://medium.com/p/6edbbe74c7e6) |
-| Wed, 30 Apr 2025 08:49:34 GMT | Shadows of Resilience by Hennster | Hennster | [Read More](https://medium.com/p/27856c7e3e3c) |
-| Wed, 30 Apr 2025 08:41:06 GMT | WhatsApp Auto-Preview Link Leak: Sensitive Data Exposed Without User Interaction | Codepontiff | [Read More](https://medium.com/p/5317e6aeea3b) |
-| Wed, 30 Apr 2025 08:40:34 GMT | Pathologically, Me… | Timothée Lajeunesse | [Read More](https://medium.com/p/4caa478f03ec) |
-| Wed, 30 Apr 2025 08:40:32 GMT | Trying to break a Yubikey | Keir Finlow-Bates | [Read More](https://medium.com/p/4765e5184d0b) |
-| Wed, 30 Apr 2025 08:35:41 GMT | Shadows Within Shadows | Tales of Nyx | [Read More](https://medium.com/p/25fdea032c73) |
-| Wed, 30 Apr 2025 08:30:19 GMT | Starting out Bug Bounty as a Beginner | hackerhaishayad | [Read More](https://medium.com/p/12df44ccedcb) |
-| Wed, 30 Apr 2025 08:27:44 GMT | Gestion de crise et RETEX : Anticiper l’imprévisible | Rebecca Cottignies | [Read More](https://medium.com/p/bcd932819d95) |
