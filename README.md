@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 08:41:06 GMT | WhatsApp Auto-Preview Link Leak: Sensitive Data Exposed Without User Interaction | Codepontiff | [Read More](https://medium.com/p/5317e6aeea3b) |
+| Wed, 30 Apr 2025 08:40:32 GMT | Trying to break a Yubikey | Keir Finlow-Bates | [Read More](https://medium.com/p/4765e5184d0b) |
+| Wed, 30 Apr 2025 08:35:41 GMT | Shadows Within Shadows | Tales of Nyx | [Read More](https://medium.com/p/25fdea032c73) |
+| Wed, 30 Apr 2025 08:30:19 GMT | Starting out Bug Bounty as a Beginner | hackerhaishayad | [Read More](https://medium.com/p/12df44ccedcb) |
+| Wed, 30 Apr 2025 08:27:44 GMT | Gestion de crise et RETEX : Anticiper l’imprévisible | Rebecca Cottignies | [Read More](https://medium.com/p/bcd932819d95) |
 | Wed, 30 Apr 2025 08:27:28 GMT |  | Smart Money Management | [Read More](https://medium.com/p/09c11c783a2c) |
+| Wed, 30 Apr 2025 08:24:47 GMT | Stealthy Linux Intrusions: Analyzing BPFDoor-like Threat Activity and Emerging Risks | David SEHYEON Baek | [Read More](https://medium.com/p/7faf6cc02c3d) |
+| Wed, 30 Apr 2025 08:22:58 GMT | Gen AI: Innovation Meets Security | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/8450f41c02ca) |
 | Wed, 30 Apr 2025 08:17:37 GMT | 40 Essential Cybersecurity Terms Every Professional Must Know | Madhavaraman | [Read More](https://medium.com/p/f35053e92331) |
 | Wed, 30 Apr 2025 08:17:22 GMT | Pentesting — Living off the Land: | DeepBlue Security & Intelligence | [Read More](https://medium.com/p/9fedc3d75489) |
 | Wed, 30 Apr 2025 08:15:28 GMT | Cybersecurity Cheat Sheet ️ | AJANI TAIWO MICHEAL | [Read More](https://medium.com/p/b0a40e3328d1) |
+| Wed, 30 Apr 2025 08:14:30 GMT | The Invisible Trail: How to Check and Take Control of Your Digital Footprint | Fuzzyy Duck | [Read More](https://medium.com/p/0201020a44b2) |
 | Wed, 30 Apr 2025 08:13:55 GMT | Understanding Supply Chain Attacks | Erkan Kavas | [Read More](https://medium.com/p/19f97e8116cb) |
 | Wed, 30 Apr 2025 08:11:13 GMT | AI: Autonomous Security Agents | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/1c4ad0dd198b) |
 | Wed, 30 Apr 2025 08:10:50 GMT | Security Operations Center (SOC) Temelleri — 14 | Ali Ekber KARA | [Read More](https://medium.com/p/c31758c6627c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 02:42:41 GMT | Authentication in React Using JWT — Keep Your App Safe Like a Treasure Chest! | ASHABB Intelligence | [Read More](https://medium.com/p/e14bc9937400) |
 | Wed, 30 Apr 2025 02:40:14 GMT | The Hidden Threats Behind CDN: Why Security Defense Can’t Be Overlooked | Li Zixiang | [Read More](https://medium.com/p/3abc330f2adf) |
 | Wed, 30 Apr 2025 02:39:59 GMT | Hacking Printers on the Local Network Using Kali Linux ?! | Dayu Ovtama Nasrulah | [Read More](https://medium.com/p/5522b30eea24) |
-| Wed, 30 Apr 2025 02:28:03 GMT | When Networks Fall: Lessons from the Colonial Pipeline Breach | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/8c0239733a36) |
-| Wed, 30 Apr 2025 02:17:47 GMT | TryHackMe — Exploiting Erlang/OTP SSH: CVE-2025–32433 Vulnerability | Hajiaga Sadikhov | [Read More](https://medium.com/p/379ec646bb76) |
-| Wed, 30 Apr 2025 02:05:15 GMT | Who Prints Your Passport? Inside the High-Stakes World of Security Printing | Passport History & Collectibles | [Read More](https://medium.com/p/7f8154abad33) |
-| Wed, 30 Apr 2025 02:02:24 GMT | 2# Cybersecurity Mistakes You’re Probably Making — and How to Fix Them Today | TechWithKP | [Read More](https://medium.com/p/dc7734b55b63) |
-| Wed, 30 Apr 2025 02:00:33 GMT | The 6.5 Tbps Attack! | YuvaSec | [Read More](https://medium.com/p/8ecf27333a18) |
-| Wed, 30 Apr 2025 01:58:02 GMT | Maybe I Was Made to Be Alone | Moments with God | [Read More](https://medium.com/p/9b5c3351dffb) |
-| Wed, 30 Apr 2025 01:44:23 GMT | A Top-Level View of Computer Function and Interconnection | Daniya Sabih | [Read More](https://medium.com/p/cc6b4a29de04) |
-| Wed, 30 Apr 2025 01:42:01 GMT | Top 10 Cybersecurity Blog Posts That Made April 2025 a Breakthrough Month for OpenExploit | Pawan Jaiswal | [Read More](https://medium.com/p/fd21830fdd93) |
