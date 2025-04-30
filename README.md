@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 03:32:39 GMT | Calculating the CVSS Base Score for a Remote Code Execution (RCE) Vulnerability | Saber You | [Read More](https://medium.com/p/69538b15d3b4) |
+| Wed, 30 Apr 2025 03:23:31 GMT | How I Solved “Stolen Mount” Chall on Tryhackme Hackfinity 2025 | abdur rashid firdaus | [Read More](https://medium.com/p/00c5d4521af7) |
+| Wed, 30 Apr 2025 03:17:13 GMT | Hackers Are Actually Good People — Product Hunt? Event Recap, Confession and Thanks | Ömer Faruk BULUT | [Read More](https://medium.com/p/c1ffab939355) |
 | Wed, 30 Apr 2025 03:02:37 GMT | Port Scanning Speed Test: RustScan vs Naabu | Patar Isac Pardomuan | [Read More](https://medium.com/p/9d7cfbd18424) |
 | Wed, 30 Apr 2025 02:49:14 GMT | Wicked Panda APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/381e51360791) |
 | Wed, 30 Apr 2025 02:45:57 GMT | How to Build a Killer Cybersecurity Portfolio | Ahmad Javed | [Read More](https://medium.com/p/53e2fe4f3721) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 18:56:49 GMT | Vulnhub — Venom | APS88 | [Read More](https://medium.com/p/1448cb8e7d4e) |
 | Tue, 29 Apr 2025 18:56:08 GMT | Week 1: Deploying a Secure LEMP Stack on Linux (Ubuntu 24.04) | Gkimari | [Read More](https://medium.com/p/2f4ab6647266) |
 | Tue, 29 Apr 2025 18:52:05 GMT | $450 Bounty: Stole Facebook OAuth Access Tokens via Phabricator | Monika sharma | [Read More](https://medium.com/p/4c4468268302) |
-| Tue, 29 Apr 2025 18:50:34 GMT |  | anonymous | [Read More](https://medium.com/p/3e90091f31a2) |
-| Tue, 29 Apr 2025 18:48:02 GMT | Logos Don’t Stop Scams: The Fight for Caller Identity Integrity | Numeracle | [Read More](https://medium.com/p/f96caa73127c) |
-| Tue, 29 Apr 2025 18:38:16 GMT | TheHarvester ile OSINT: Sızma Testinde Bilgi Toplama Rehberi | Isaergisi | [Read More](https://medium.com/p/97315220b7c9) |
