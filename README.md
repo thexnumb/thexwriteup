@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 15:38:04 GMT | What Is a WAF and Why Do You Need One? (Beginner-Friendly Guide) | Loria | [Read More](https://medium.com/p/879ed01d39c2) |
+| Wed, 30 Apr 2025 15:33:09 GMT | What Is a WAF and Why Do You Need One? (Beginner-Friendly Guide) | Quella | [Read More](https://medium.com/p/18dbb1918a2c) |
+| Wed, 30 Apr 2025 15:32:36 GMT | GZR Observer Daily — Apr 30, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/066e27e27783) |
+| Wed, 30 Apr 2025 15:31:01 GMT | Cybersecurity Essentials: Protecting Your Digital World in 2025 and Beyond | Data Defendere | [Read More](https://medium.com/p/34ed75337ee9) |
+| Wed, 30 Apr 2025 15:30:09 GMT | When Vulnerability Feels Like a Performance | Rizqie Aulia | [Read More](https://medium.com/p/4b7fb5a8a07b) |
+| Wed, 30 Apr 2025 15:30:05 GMT | Эффективная защита сайтов и приложений c SafeLine WAF | Quella | [Read More](https://medium.com/p/0c91cf8e0ccf) |
+| Wed, 30 Apr 2025 15:30:00 GMT | Metasploit: Introduction - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8bfaa2b8aff2) |
+| Wed, 30 Apr 2025 15:29:26 GMT | Swappee Audit Report | Hyacinth | [Read More](https://medium.com/p/18c449b71325) |
+| Wed, 30 Apr 2025 15:27:53 GMT | I will write business analyst, cybersecurity, data science, data analyst, grc resume CV | Expertrichard | [Read More](https://medium.com/p/a2dbe1b1d529) |
+| Wed, 30 Apr 2025 15:27:40 GMT | 100 Perintah Linux Esensial untuk Pentester Profesional | toor | [Read More](https://medium.com/p/4bf0fbbf98c9) |
+| Wed, 30 Apr 2025 15:21:22 GMT | 5 Everyday Business Challenges That Smart Tech Can Solve Instantly | Tros Techologies | [Read More](https://medium.com/p/ec27fca719e4) |
 | Wed, 30 Apr 2025 15:18:19 GMT | Mr. Robot Themed Cybersecurity Virtual Lab Environment | Mike | [Read More](https://medium.com/p/e0ac43053cc9) |
 | Wed, 30 Apr 2025 15:15:06 GMT | CyberDefenders — PsExec Hunt Lab | Atlas Security | [Read More](https://medium.com/p/2603bcc07b69) |
 | Wed, 30 Apr 2025 15:13:21 GMT | 100 Common Linux Command for Penetration Testing. | Defenderramadhan | [Read More](https://medium.com/p/dfe56e25ae45) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 11:24:04 GMT | It’s not the industry that’s messy, it’s our comfort zone that’s fragile. | EXLITY | [Read More](https://medium.com/p/bfcf74ac1e27) |
 | Wed, 30 Apr 2025 11:22:54 GMT | SOC141 — Phishing URL Detected — EventID: 86 on LetsDefend | Amadi Oluchi Faith | [Read More](https://medium.com/p/8490256dcacb) |
 | Wed, 30 Apr 2025 11:21:33 GMT | A Complete History of Security Incidents on Solana: Root Causes, Resolutions, and Lessons Learned. | Toluwalase Peters | [Read More](https://medium.com/p/48293b46c4bf) |
-| Wed, 30 Apr 2025 11:19:09 GMT | The Infi XE control room console desk is a perfect blend of modern design and smart functionality… | Pyrotech Workspace Solutions | [Read More](https://medium.com/p/683ea866b2b5) |
-| Wed, 30 Apr 2025 11:18:48 GMT | 6 Tech Mistakes You're Probably Making (And How to Fix Them) | Eyad | [Read More](https://medium.com/p/2a19f7fea763) |
-| Wed, 30 Apr 2025 11:12:34 GMT | Regulation Roulette: Does Compliance Actually Save Money in the Long Run? | Wale Adedeji | [Read More](https://medium.com/p/da7090478a36) |
-| Wed, 30 Apr 2025 11:04:19 GMT | Boost Your Cybersecurity Leadership with CISM Certification at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/9598b00e605b) |
-| Wed, 30 Apr 2025 11:02:36 GMT | Level Up #1: Advanced Auto Approve / Decline Script for WSUS | Easy2Patch | [Read More](https://medium.com/p/3c3b2fd5fd68) |
-| Wed, 30 Apr 2025 10:57:38 GMT | Solar Inverters — Europe’s Hidden Cybersecurity Risk | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/ac2eb71a29bc) |
-| Wed, 30 Apr 2025 10:57:29 GMT | When Smart Homes Turn Dumb: IoT Vulnerabilities You Need to Know About | Karl Buhl | [Read More](https://medium.com/p/b07d40448410) |
-| Wed, 30 Apr 2025 10:57:13 GMT | Information disclosure on debug page —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/0d8f6b7ad974) |
-| Wed, 30 Apr 2025 10:55:33 GMT | Breaking into Cybersecurity: The Jobs, Skills, and Realities of Protecting the Digital World | SauroNatics | [Read More](https://medium.com/p/777ce3814bc4) |
-| Wed, 30 Apr 2025 10:53:22 GMT | LLM-powered Agent for Automated Google Dorking | yee-yore | [Read More](https://medium.com/p/dcb14d609dc2) |
-| Wed, 30 Apr 2025 10:50:35 GMT | Cybersecurity Threat Landscape: Trends, Insights, and Strategic Recommendations for Mitigating… | Ezeliora Godsfavour | [Read More](https://medium.com/p/ce41792c8948) |
