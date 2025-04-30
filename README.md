@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 15:18:19 GMT | Mr. Robot Themed Cybersecurity Virtual Lab Environment | Mike | [Read More](https://medium.com/p/e0ac43053cc9) |
+| Wed, 30 Apr 2025 15:15:06 GMT | CyberDefenders — PsExec Hunt Lab | Atlas Security | [Read More](https://medium.com/p/2603bcc07b69) |
+| Wed, 30 Apr 2025 15:13:21 GMT | 100 Common Linux Command for Penetration Testing. | Defenderramadhan | [Read More](https://medium.com/p/dfe56e25ae45) |
+| Wed, 30 Apr 2025 15:06:01 GMT | Zero Trust Network Architectures and Implementations | Esra Kayhan | [Read More](https://medium.com/p/09bafa20df02) |
+| Wed, 30 Apr 2025 15:05:50 GMT | All About Zero Cost Abstractions in Rust: Explained in Simple English | Dhanush N | [Read More](https://medium.com/p/d29bcb3cffdd) |
+| Wed, 30 Apr 2025 15:01:43 GMT | Social Engineering: The Art of exploiting the human factor in any system | Shoyombo Raphael | [Read More](https://medium.com/p/9becdecbc77d) |
+| Wed, 30 Apr 2025 14:57:45 GMT | Securing Your AI: A Look at Meta’s Llama Firewall | Keith Foster | [Read More](https://medium.com/p/1d1d40ee16e5) |
+| Wed, 30 Apr 2025 14:57:19 GMT | AI Jailbreaks: How Hackers Are Fooling Artificial Intelligence | Cybersecurity Umbrella | [Read More](https://medium.com/p/8af407b85555) |
+| Wed, 30 Apr 2025 14:56:46 GMT | What Oracle’s Two Recent Hacks Mean for Businesses? | IT_Engineer | [Read More](https://medium.com/p/d1e52a020ee8) |
+| Wed, 30 Apr 2025 14:52:00 GMT | Chinese Hackers Hijack IPv6 with Spellbinder: A Cyber Sneak Attack ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/4fe27ca1a60e) |
+| Wed, 30 Apr 2025 14:51:17 GMT | Trusted Hospital Security Guards in Milton Keynes for Safe Healthcare Environments | Travel time | [Read More](https://medium.com/p/1d88b1632b7c) |
+| Wed, 30 Apr 2025 14:49:51 GMT | CVE-2025–31324: Unrestricted File Upload in SAP NetWeaver Visual Composer | Hoplon Infosec | [Read More](https://medium.com/p/3b930471b8d5) |
+| Wed, 30 Apr 2025 14:46:57 GMT | From Internal IP Discovery to Full Database Dump | dotHatab | [Read More](https://medium.com/p/96fbd85dbc7a) |
+| Wed, 30 Apr 2025 14:46:13 GMT | When Does URL Encoding Happen? | Zoningxtr | [Read More](https://medium.com/p/a5ff6e88c59f) |
+| Wed, 30 Apr 2025 14:46:01 GMT | Office Network Simulation Made Simple: My Hands-On Guide for Beginners | DavD | [Read More](https://medium.com/p/13e114dbfff0) |
+| Wed, 30 Apr 2025 14:45:20 GMT | Complete Guide: URL Encoding Trigger Cases with Detailed Explanations and Examples | Zoningxtr | [Read More](https://medium.com/p/0fe80eb6be90) |
+| Wed, 30 Apr 2025 14:42:25 GMT | CWE vs. CVE: What They Are and Why You Need Both | Saber You | [Read More](https://medium.com/p/e969d517b10e) |
 | Wed, 30 Apr 2025 14:32:25 GMT | 9 Cyber Threats That Laugh at Your Strong Password | Mohamad MERHI | [Read More](https://medium.com/p/170c4e89f232) |
 | Wed, 30 Apr 2025 14:28:36 GMT | CYBERSCENTS_CTF_25 OSINT PART 2 | Harisahmed | [Read More](https://medium.com/p/7542841fdac6) |
 | Wed, 30 Apr 2025 14:28:22 GMT | 5 Linux Commands Hackers Use (And How to Detect Them on Your Server) | Faruk Ahmed | [Read More](https://medium.com/p/d44f488f7fa8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 10:55:33 GMT | Breaking into Cybersecurity: The Jobs, Skills, and Realities of Protecting the Digital World | SauroNatics | [Read More](https://medium.com/p/777ce3814bc4) |
 | Wed, 30 Apr 2025 10:53:22 GMT | LLM-powered Agent for Automated Google Dorking | yee-yore | [Read More](https://medium.com/p/dcb14d609dc2) |
 | Wed, 30 Apr 2025 10:50:35 GMT | Cybersecurity Threat Landscape: Trends, Insights, and Strategic Recommendations for Mitigating… | Ezeliora Godsfavour | [Read More](https://medium.com/p/ce41792c8948) |
-| Wed, 30 Apr 2025 10:47:09 GMT | OSWE Certification: Your Gateway to Advanced Web Exploitation | Nytcc | [Read More](https://medium.com/p/6ddd02241944) |
-| Wed, 30 Apr 2025 10:43:32 GMT | URGENT! 5 CYBERSECURITY MISTAKES YOU’RE PROBABLY MAKING IN 2025 BUT DON’T REALIZE | Rachel The Storyteller | [Read More](https://medium.com/p/e097f403fd38) |
-| Wed, 30 Apr 2025 10:42:35 GMT | [Common UI] 파일 업로드 UI를 설계할 때 고려해야 할 점 | Haemin Ryu | [Read More](https://medium.com/p/b7438e3208f3) |
-| Wed, 30 Apr 2025 10:41:17 GMT | Cybersecurity Awareness: Understanding XDR (Extended Detection and Response) | Ajala Jeremiah | [Read More](https://medium.com/p/7f7bf0af81a4) |
-| Wed, 30 Apr 2025 10:37:54 GMT | Nmap : THE BASICS -- TRYHACKME-- CYBER SECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/b48b77ae4fa6) |
-| Wed, 30 Apr 2025 10:34:35 GMT | Hacktivism vs. Cyberterrorism: Where Do We Draw the Line? | Kingsley Ekenedirichukwu Okafor | [Read More](https://medium.com/p/a9fbc8b5797e) |
-| Wed, 30 Apr 2025 10:31:06 GMT | Why IT Knowledge is Non-Negotiable for Cybersecurity (No, You Can’t Just Hack Facebook Overnight) | Abhijith Soman | [Read More](https://medium.com/p/2bf52ce60974) |
-| Wed, 30 Apr 2025 10:29:23 GMT | ORTUGAMING AMANAH | ORTUGAMING | [Read More](https://medium.com/p/08aa9b27ab1d) |
-| Wed, 30 Apr 2025 10:27:41 GMT | Unmasking Fraud and Fueling Growth: A Deep Dive into Solana’s On-Chain Dynamics | Khay | [Read More](https://medium.com/p/65dd2dd4b606) |
-| Wed, 30 Apr 2025 10:22:58 GMT | Join WING CODE: The Free Telegram Hub for Cybersecurity Learners | Wing Code | [Read More](https://medium.com/p/6e8638f29bd1) |
-| Wed, 30 Apr 2025 10:14:44 GMT | The Art of Kintsugi | Ritika Devender | [Read More](https://medium.com/p/86495aa9ebbc) |
-| Wed, 30 Apr 2025 10:09:41 GMT | Security Operations Center (SOC) Temelleri — 15 | Ali Ekber KARA | [Read More](https://medium.com/p/2e4473e9c1c5) |
-| Wed, 30 Apr 2025 10:08:45 GMT | The Growing Importance of OT Cybersecurity | DIKSHA BORKAR | [Read More](https://medium.com/p/66b210618b8b) |
-| Wed, 30 Apr 2025 10:08:42 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/7aea00fdc77a) |
-| Wed, 30 Apr 2025 10:05:32 GMT | Cybersecurity eBook Collection for Aspiring Hackers and Analysts — Curated by @VeryLazyTech | Very Lazy Tech | [Read More](https://medium.com/p/87dee170b9fb) |
-| Wed, 30 Apr 2025 10:00:24 GMT | Look Big in Cyberspace | Mr Success | [Read More](https://medium.com/p/5bdda87c8a73) |
-| Wed, 30 Apr 2025 09:50:28 GMT | Mastering RCE: How I Exploit Remote Code Execution Bugs Like a Pro | Abhijeet Kumawat | [Read More](https://medium.com/p/ddcc816552bf) |
