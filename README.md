@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 17:36:55 GMT | Hacking Workspace for Fun & Profit: Part II | Md Saikat | [Read More](https://medium.com/p/de9cd3cc9755) |
+| Wed, 30 Apr 2025 17:36:50 GMT | Misaligned Timing Is Killing Your Cybersecurity Campaigns | Alexandrankwopara | [Read More](https://medium.com/p/0cbeeb8d09d9) |
+| Wed, 30 Apr 2025 17:33:18 GMT | Morphohack Cyber Services — Crypto Recovery Specialist | Morphohack Cyber Services | [Read More](https://medium.com/p/8b64bff0d3b3) |
+| Wed, 30 Apr 2025 17:29:39 GMT | How Can I Recover My Losses From Globiance | Guav | [Read More](https://medium.com/p/31500617835f) |
+| Wed, 30 Apr 2025 17:27:29 GMT | The Hidden Politics of Cybersecurity Companies: When Technical Careers Hit the Ceiling | sudo3rs | [Read More](https://medium.com/p/c74e361b7073) |
+| Wed, 30 Apr 2025 17:09:40 GMT | ️ Cybersecurity Engineer Job Support: Stay Ahead of Threats in Real Time | Kbstraining | [Read More](https://medium.com/p/415d42bc1e9f) |
 | Wed, 30 Apr 2025 17:08:29 GMT | Exploring Subdomains: What They Are and How to Find Them | Nishanthan | [Read More](https://medium.com/p/91db1f16be86) |
 | Wed, 30 Apr 2025 16:59:16 GMT | How I Earned $1700 from Stripe Bug Bounties | Rinkesh Patidar | [Read More](https://medium.com/p/28173e8b0a56) |
 | Wed, 30 Apr 2025 16:57:11 GMT | Gizlilik Sözleşmesini Okumadık, Ama Bizi Okuyorlar | HSD Fırat Üniversitesi | [Read More](https://medium.com/p/a3f607c8fd09) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 13:31:02 GMT | Balanced Security | PRIRITY | [Read More](https://medium.com/p/d2f3cbad8505) |
 | Wed, 30 Apr 2025 13:22:44 GMT | geme | Siemba | [Read More](https://medium.com/p/a0cfc8b13a76) |
 | Wed, 30 Apr 2025 13:22:36 GMT | SSL Pinning in Android: Securing Your App’s Network Communications | Jaydeep khambhayta | [Read More](https://medium.com/p/c24567293f49) |
-| Wed, 30 Apr 2025 13:20:55 GMT | Meta Unveils LlamaFirewall to Enhance AI Security Against Cyber Threats | current.cybersecurity | [Read More](https://medium.com/p/5e37e7889d1b) |
-| Wed, 30 Apr 2025 13:19:38 GMT | Essential Skills Every Aspiring Security Professional Should Have | Aiswarya N | [Read More](https://medium.com/p/505e039d9eb0) |
-| Wed, 30 Apr 2025 13:18:06 GMT | Reporting a Scam Shouldn’t Make You Vulnerable Again: How Victims Are Exposed When Sharing Their… | Natasha Fuller | [Read More](https://medium.com/p/7fde78893ebc) |
-| Wed, 30 Apr 2025 13:17:55 GMT | Cybersecurity Threats In 2025 | Theunitedindian | [Read More](https://medium.com/p/6b685dc60bab) |
-| Wed, 30 Apr 2025 13:12:13 GMT | TryHackMe — Monday Monitor: A SOC-Level Security Walkthrough (with My Personal Notes) | Furkanctiner | [Read More](https://medium.com/p/864c7fb1094a) |
-| Wed, 30 Apr 2025 13:09:00 GMT | The Dilemma of an Africa Tour Leader: Is Traveling to Africa Dangerous? | Korean Africanist | [Read More](https://medium.com/p/a8d1c1fbb998) |
