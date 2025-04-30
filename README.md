@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 10:09:41 GMT | Security Operations Center (SOC) Temelleri — 15 | Ali Ekber KARA | [Read More](https://medium.com/p/2e4473e9c1c5) |
+| Wed, 30 Apr 2025 10:08:45 GMT | The Growing Importance of OT Cybersecurity | DIKSHA BORKAR | [Read More](https://medium.com/p/66b210618b8b) |
+| Wed, 30 Apr 2025 10:08:42 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/7aea00fdc77a) |
+| Wed, 30 Apr 2025 10:05:32 GMT | Cybersecurity eBook Collection for Aspiring Hackers and Analysts — Curated by @VeryLazyTech | Very Lazy Tech | [Read More](https://medium.com/p/87dee170b9fb) |
+| Wed, 30 Apr 2025 10:00:24 GMT | Look Big in Cyberspace | Mr Success | [Read More](https://medium.com/p/5bdda87c8a73) |
+| Wed, 30 Apr 2025 09:50:28 GMT | Mastering RCE: How I Exploit Remote Code Execution Bugs Like a Pro | Abhijeet Kumawat | [Read More](https://medium.com/p/ddcc816552bf) |
+| Wed, 30 Apr 2025 09:42:36 GMT | Akira Ransomware Hits Hitachi Vantara: What It Means for Your Business | Infoziant | [Read More](https://medium.com/p/9472aecba0d7) |
+| Wed, 30 Apr 2025 09:38:27 GMT | ️ Information Security Laws and Standards | Akalanka Dambagolla | [Read More](https://medium.com/p/6295d2d0d856) |
 | Wed, 30 Apr 2025 09:34:25 GMT | Honest reflection — When attention feels like control | LadyGev | [Read More](https://medium.com/p/f079fc821150) |
 | Wed, 30 Apr 2025 09:31:12 GMT | App Integrity in iOS | Jennyrib | [Read More](https://medium.com/p/d626362e9dbf) |
 | Wed, 30 Apr 2025 09:22:25 GMT | TryHackMe - Wireshark: Packet Operations — PACKET FILTERING PARTS | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/98f8f3bd478e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 05:01:46 GMT | Think You’re Safe Online? Think Again. | R&B Networks | [Read More](https://medium.com/p/d8c66aa95f50) |
 | Wed, 30 Apr 2025 04:58:35 GMT | Security with Istio | Bavithran | [Read More](https://medium.com/p/01f3d8897084) |
 | Wed, 30 Apr 2025 04:56:26 GMT | Why Reading Beats Listening in Cybersecurity Learning — and Always Will | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/9fb66878e1a8) |
-| Wed, 30 Apr 2025 04:47:16 GMT | Mastering Networks: Understanding Protocols and Securing Them | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/cc7bd25b799d) |
-| Wed, 30 Apr 2025 04:46:36 GMT | The Red Teaming: 30-Day Challenge[16] | Bl@ckC!pH3r | [Read More](https://medium.com/p/1ed250600323) |
-| Wed, 30 Apr 2025 04:46:35 GMT | How to Choose the Right Locksmith in Waco TX for Reliable and Affordable Service | Lawoffices | [Read More](https://medium.com/p/7f6da8e75dbd) |
-| Wed, 30 Apr 2025 04:45:28 GMT | Hacker Locking Files with Digital Chains: Ransomware Attack | Dereje Deressa | [Read More](https://medium.com/p/1b04c8bc3c08) |
-| Wed, 30 Apr 2025 04:42:23 GMT | Practical Cyber Deception —  Introduction to “Chaotic Good” | Koifsec | [Read More](https://medium.com/p/2ac7bf046fee) |
-| Wed, 30 Apr 2025 04:39:46 GMT | One OTP to Rule Them All: How I Replayed a Single Response and Logged in Forever on target.com | Nayan Choudhary | [Read More](https://medium.com/p/f58e58261607) |
-| Wed, 30 Apr 2025 04:32:38 GMT | Cybersecurity Basics Refresher Series(Part 3): TLS/SSL Explained — How Secure Communication… | Atharva Sardesai | [Read More](https://medium.com/p/47ebcb98a497) |
-| Wed, 30 Apr 2025 04:32:21 GMT | Cybersecurity is a Team Sport: Let’s Stop Overlooking Key Players | Amit Ambekar | [Read More](https://medium.com/p/4f03013aabca) |
