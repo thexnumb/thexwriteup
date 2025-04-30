@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 19:22:22 GMT | Privacy Principles and Regulation | 0xr4m! | [Read More](https://medium.com/p/9738a9b5cd0b) |
+| Wed, 30 Apr 2025 19:20:05 GMT | The Intelligent Investor: A Comprehensive Guide to Value Investing | Apubra Daria | [Read More](https://medium.com/p/a20a1637e3c0) |
+| Wed, 30 Apr 2025 19:13:13 GMT | Refresh Tokens Are Trickier Than Many Developers Think | Sergey Egorenkov | [Read More](https://medium.com/p/46190800ff92) |
 | Wed, 30 Apr 2025 18:57:47 GMT | Shadows of LSASS Dumping: Evasion Techniques and the Ongoing Struggle of EDR Solutions to Defend a… | Cytomate | [Read More](https://medium.com/p/2607fafc0594) |
 | Wed, 30 Apr 2025 18:56:22 GMT | How Can I Recover My Money From Triumphfx? | James | [Read More](https://medium.com/p/09f69ec1d843) |
 | Wed, 30 Apr 2025 18:54:25 GMT | Gremlin Stealer: A Deep Dive into the Emerging Information-Stealing Threat | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8b9cdfba9a69) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 14:46:57 GMT | From Internal IP Discovery to Full Database Dump | dotHatab | [Read More](https://medium.com/p/96fbd85dbc7a) |
 | Wed, 30 Apr 2025 14:46:13 GMT | When Does URL Encoding Happen? | Zoningxtr | [Read More](https://medium.com/p/a5ff6e88c59f) |
 | Wed, 30 Apr 2025 14:46:01 GMT | Office Network Simulation Made Simple: My Hands-On Guide for Beginners | DavD | [Read More](https://medium.com/p/13e114dbfff0) |
-| Wed, 30 Apr 2025 14:45:20 GMT | Complete Guide: URL Encoding Trigger Cases with Detailed Explanations and Examples | Zoningxtr | [Read More](https://medium.com/p/0fe80eb6be90) |
-| Wed, 30 Apr 2025 14:42:25 GMT | CWE vs. CVE: What They Are and Why You Need Both | Saber You | [Read More](https://medium.com/p/e969d517b10e) |
-| Wed, 30 Apr 2025 14:32:25 GMT | 9 Cyber Threats That Laugh at Your Strong Password | Mohamad MERHI | [Read More](https://medium.com/p/170c4e89f232) |
