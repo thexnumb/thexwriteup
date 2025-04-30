@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 18:57:47 GMT | Shadows of LSASS Dumping: Evasion Techniques and the Ongoing Struggle of EDR Solutions to Defend a… | Cytomate | [Read More](https://medium.com/p/2607fafc0594) |
+| Wed, 30 Apr 2025 18:56:22 GMT | How Can I Recover My Money From Triumphfx? | James | [Read More](https://medium.com/p/09f69ec1d843) |
+| Wed, 30 Apr 2025 18:54:25 GMT | Gremlin Stealer: A Deep Dive into the Emerging Information-Stealing Threat | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8b9cdfba9a69) |
+| Wed, 30 Apr 2025 18:51:01 GMT | Off-Chain, On Fire: How Web2 Vulnerabilities Still Haunt Web3 | Olaboyefavour | [Read More](https://medium.com/p/c4950957543a) |
+| Wed, 30 Apr 2025 18:42:59 GMT | Freelance Cybersecurity: How to Land Your First Client | Ahmad Javed | [Read More](https://medium.com/p/7dc4654eda50) |
 | Wed, 30 Apr 2025 18:34:24 GMT | Lessons from My First Year in Cybersecurity: What They Don’t Teach in College | NinzaBoi | [Read More](https://medium.com/p/a157ffa82f12) |
 | Wed, 30 Apr 2025 18:31:18 GMT | Mastering Google Dorking (Advanced Techniques for OSINT Professionals) | Nazrul Islam Rana | [Read More](https://medium.com/p/5cc9e36993b9) |
 | Wed, 30 Apr 2025 18:28:08 GMT | Building a Packet Sniffer in Python as a Cybersecurity Student | Mujtaba Shaikeldin | [Read More](https://medium.com/p/c24c8a2572d1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 14:45:20 GMT | Complete Guide: URL Encoding Trigger Cases with Detailed Explanations and Examples | Zoningxtr | [Read More](https://medium.com/p/0fe80eb6be90) |
 | Wed, 30 Apr 2025 14:42:25 GMT | CWE vs. CVE: What They Are and Why You Need Both | Saber You | [Read More](https://medium.com/p/e969d517b10e) |
 | Wed, 30 Apr 2025 14:32:25 GMT | 9 Cyber Threats That Laugh at Your Strong Password | Mohamad MERHI | [Read More](https://medium.com/p/170c4e89f232) |
-| Wed, 30 Apr 2025 14:28:36 GMT | CYBERSCENTS_CTF_25 OSINT PART 2 | Harisahmed | [Read More](https://medium.com/p/7542841fdac6) |
-| Wed, 30 Apr 2025 14:28:22 GMT | 5 Linux Commands Hackers Use (And How to Detect Them on Your Server) | Faruk Ahmed | [Read More](https://medium.com/p/d44f488f7fa8) |
-| Wed, 30 Apr 2025 14:26:46 GMT | Building a Security Monitoring Lab with Wazuh on MAC: A Journey from Theory to Practice | CyberPands | [Read More](https://medium.com/p/6834c48e8f89) |
-| Wed, 30 Apr 2025 14:24:52 GMT | April Make Me Happy (Bug Bounty Hunting) | Shuvo Kumar Saha | [Read More](https://medium.com/p/2af3fcf15746) |
-| Wed, 30 Apr 2025 14:23:54 GMT | Vulnerabilities You Can Find in a Payment Gateway | Ravindra Dagale | [Read More](https://medium.com/p/338b944b0f61) |
