@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 10:43:32 GMT | URGENT! 5 CYBERSECURITY MISTAKES YOU’RE PROBABLY MAKING IN 2025 BUT DON’T REALIZE | Rachel The Storyteller | [Read More](https://medium.com/p/e097f403fd38) |
+| Wed, 30 Apr 2025 10:42:35 GMT | [Common UI] 파일 업로드 UI를 설계할 때 고려해야 할 점 | Haemin Ryu | [Read More](https://medium.com/p/b7438e3208f3) |
+| Wed, 30 Apr 2025 10:41:17 GMT | Cybersecurity Awareness: Understanding XDR (Extended Detection and Response) | Ajala Jeremiah | [Read More](https://medium.com/p/7f7bf0af81a4) |
+| Wed, 30 Apr 2025 10:37:54 GMT | Nmap : THE BASICS -- TRYHACKME-- CYBER SECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/b48b77ae4fa6) |
+| Wed, 30 Apr 2025 10:34:35 GMT | Hacktivism vs. Cyberterrorism: Where Do We Draw the Line? | Kingsley Ekenedirichukwu Okafor | [Read More](https://medium.com/p/a9fbc8b5797e) |
+| Wed, 30 Apr 2025 10:31:06 GMT | Why IT Knowledge is Non-Negotiable for Cybersecurity (No, You Can’t Just Hack Facebook Overnight) | Abhijith Soman | [Read More](https://medium.com/p/2bf52ce60974) |
+| Wed, 30 Apr 2025 10:29:23 GMT | ORTUGAMING AMANAH | ORTUGAMING | [Read More](https://medium.com/p/08aa9b27ab1d) |
+| Wed, 30 Apr 2025 10:27:41 GMT | Unmasking Fraud and Fueling Growth: A Deep Dive into Solana’s On-Chain Dynamics | Khay | [Read More](https://medium.com/p/65dd2dd4b606) |
+| Wed, 30 Apr 2025 10:22:58 GMT | Join WING CODE: The Free Telegram Hub for Cybersecurity Learners | Wing Code | [Read More](https://medium.com/p/6e8638f29bd1) |
+| Wed, 30 Apr 2025 10:14:44 GMT | The Art of Kintsugi | Ritika Devender | [Read More](https://medium.com/p/86495aa9ebbc) |
 | Wed, 30 Apr 2025 10:09:41 GMT | Security Operations Center (SOC) Temelleri — 15 | Ali Ekber KARA | [Read More](https://medium.com/p/2e4473e9c1c5) |
 | Wed, 30 Apr 2025 10:08:45 GMT | The Growing Importance of OT Cybersecurity | DIKSHA BORKAR | [Read More](https://medium.com/p/66b210618b8b) |
 | Wed, 30 Apr 2025 10:08:42 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/7aea00fdc77a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 05:45:16 GMT | The Season of Almost | A. Reed | [Read More](https://medium.com/p/f745839d2427) |
 | Wed, 30 Apr 2025 05:32:57 GMT | TryHackMe - Git Happens - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/7edd3a1e478c) |
 | Wed, 30 Apr 2025 05:32:36 GMT | What Most People Overlook About PC Health | Metro Tech Solutions | [Read More](https://medium.com/p/27eb061a6736) |
-| Wed, 30 Apr 2025 05:32:36 GMT | Protect Your Nginx Server with Password Authentication: Single and Multiple Location Configurations… | Karthikeyantse | [Read More](https://medium.com/p/75812c64698a) |
-| Wed, 30 Apr 2025 05:22:47 GMT | Palo Alto Networks Prisma AIRS: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f65f800ac243) |
-| Wed, 30 Apr 2025 05:22:36 GMT | Chicago’s #1 Rolling Security Shutter Company: Why Taurus Security Shutters Stands Above the Rest | Kurt LaMothe | [Read More](https://medium.com/p/444a0dd2d374) |
-| Wed, 30 Apr 2025 05:20:19 GMT | Escalating trade tensions with China jeopardize rare earth access for U.S. defense firms | Saumya Mehta | [Read More](https://medium.com/p/dee6e5e0dfc1) |
-| Wed, 30 Apr 2025 05:16:35 GMT | The Art of the Ask: Crafting Effective Third-Party Risk Assessment Questionnaires | cyber_pix | [Read More](https://medium.com/p/f785acc4f8ab) |
-| Wed, 30 Apr 2025 05:08:00 GMT | Don’t Wait for Disaster to Strike -Prepare Today | R&B Networks | [Read More](https://medium.com/p/d1f1cd0541de) |
-| Wed, 30 Apr 2025 05:07:49 GMT | Syslog Dreams and Packet Nightmares: Love Letters from the Edge of the Network | Rain Ginsberg | [Read More](https://medium.com/p/81bd9cb1a84b) |
-| Wed, 30 Apr 2025 05:01:46 GMT | Think You’re Safe Online? Think Again. | R&B Networks | [Read More](https://medium.com/p/d8c66aa95f50) |
-| Wed, 30 Apr 2025 04:58:35 GMT | Security with Istio | Bavithran | [Read More](https://medium.com/p/01f3d8897084) |
-| Wed, 30 Apr 2025 04:56:26 GMT | Why Reading Beats Listening in Cybersecurity Learning — and Always Will | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/9fb66878e1a8) |
