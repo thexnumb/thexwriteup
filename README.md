@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 12:28:13 GMT | The Essential Future of Cybersecurity: Trends, AI, and Predictions | Jenny smith | [Read More](https://medium.com/p/2872bbc84705) |
+| Wed, 30 Apr 2025 12:26:25 GMT | Softech CTF 2025 — Forensics Challenges | Alyan Gulzar | [Read More](https://medium.com/p/e6b8b23d7c2f) |
+| Wed, 30 Apr 2025 12:17:43 GMT | The Hidden Costs of Reactive IT: Why a Proactive Approach Is Worth the Investment | Tier3MD | [Read More](https://medium.com/p/4fe8c3e794de) |
+| Wed, 30 Apr 2025 12:17:00 GMT | Understanding User Input Security: Bypasses, Techniques, and Real Examples | Mr. Lucifer | [Read More](https://medium.com/p/dade12f36653) |
+| Wed, 30 Apr 2025 12:15:27 GMT | Underground Fraud Economy | Emraan Keezar | [Read More](https://medium.com/p/b1f567d837ec) |
+| Wed, 30 Apr 2025 12:12:13 GMT | A Very Real Threat With Very Real Answers | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/5c18774a5502) |
+| Wed, 30 Apr 2025 12:11:40 GMT | The Change Healthcare Ransomware Attack: A Wake-Up Call for U.S. Healthcare Cybersecurity | Sam Bishop | [Read More](https://medium.com/p/5bda5ad083be) |
+| Wed, 30 Apr 2025 12:11:22 GMT | Start Your Tech Career in 2025: Beginner IT/Cybersecurity Certifications to Earn a Competitive… | CyberSecRealm | [Read More](https://medium.com/p/e4190568cc06) |
+| Wed, 30 Apr 2025 12:08:55 GMT | How We Averted a Worldwide Crisis | John Passadino | [Read More](https://medium.com/p/3450b988d335) |
+| Wed, 30 Apr 2025 12:06:52 GMT | Reliable CCTV Maintenance and Repair Services in Dubai by Prompt Diamond | Promptdiamond | [Read More](https://medium.com/p/958a08fc96a8) |
+| Wed, 30 Apr 2025 12:04:06 GMT | How to Install and Use AnonPhisher in Termux: A Simple Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/334ef9aad604) |
+| Wed, 30 Apr 2025 12:02:40 GMT | 5 Common Cybersecurity Threats and How to Prevent Them | Tech Solutions | [Read More](https://medium.com/p/6cc0398f22ab) |
+| Wed, 30 Apr 2025 12:01:19 GMT | Try Hack Me: Brain Rot | Burair Abbas | [Read More](https://medium.com/p/28128ea699a6) |
+| Wed, 30 Apr 2025 12:01:14 GMT | Deteksi dan Analisis Serangan Scanning, XSS, dan SQL Injection Berbasis Wireshark | Christopher Gilbert | [Read More](https://medium.com/p/a1000e7b88fc) |
+| Wed, 30 Apr 2025 11:56:24 GMT | KyubiSec | KyubiSec | [Read More](https://medium.com/p/5df382aac850) |
+| Wed, 30 Apr 2025 11:44:54 GMT | Phishing Exposed: How Cyber Tricksters Fool You and How to Outsmart Them | SauroNatics | [Read More](https://medium.com/p/56364cc7fa1e) |
+| Wed, 30 Apr 2025 11:36:19 GMT | Your Phone Is Getting Smarter- But At What Cost? | Hamna Nadeem | [Read More](https://medium.com/p/8ee1398782e5) |
+| Wed, 30 Apr 2025 11:35:18 GMT | What is Cryptanalysis? | InfosecTrain | [Read More](https://medium.com/p/5c7c82d86238) |
+| Wed, 30 Apr 2025 11:32:56 GMT | SQL Injection: The Silent Threat Lurking in Your Database (And How to Stop It) | SauroNatics | [Read More](https://medium.com/p/6c0b3bf35181) |
+| Wed, 30 Apr 2025 11:32:36 GMT | Key Security Components in Android & Security Metrics: The Foundation of App Security | Divyansh Dwivedi | [Read More](https://medium.com/p/e82eb5ce77de) |
+| Wed, 30 Apr 2025 11:31:50 GMT | Why Your Business Needs Professional Commercial Alarm Monitoring in Waco, TX | Jewelersleague | [Read More](https://medium.com/p/abea44f9c9db) |
 | Wed, 30 Apr 2025 11:30:14 GMT | Personalization at Scale in Pharma Isn’t Optional Anymore — Here’s How Drupal Enables It | Prevya | [Read More](https://medium.com/p/35b170dfaea9) |
 | Wed, 30 Apr 2025 11:28:47 GMT | AI in Cybersecurity: A Double-Edged Sword Forging the Future | Loginsoft | [Read More](https://medium.com/p/5747ca35801e) |
 | Wed, 30 Apr 2025 11:24:06 GMT | The Hidden Challenges of Running a Cybersecurity Community | N0H4TS | [Read More](https://medium.com/p/a2a4635365a1) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 07:40:03 GMT | DOM-inated! How a Tiny JS Sink Turned Into Critical XSS | Iski | [Read More](https://medium.com/p/a9a1dbe97df2) |
 | Wed, 30 Apr 2025 07:39:37 GMT | ️ Simulating and Preventing a SYN Flood Attack in a Virtual Cybersecurity Lab | Chigozie Iroegbulam | [Read More](https://medium.com/p/ee6c560493c2) |
 | Wed, 30 Apr 2025 07:36:45 GMT | Beyond CVEs: The Emergent Biology of Machine Defense | Shane Trimbur | [Read More](https://medium.com/p/34b93c270f2f) |
-| Wed, 30 Apr 2025 07:34:08 GMT | ประจำวันพุธที่ 30 เมษายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/1865fc171f8b) |
-| Wed, 30 Apr 2025 07:30:37 GMT | Top Questions to Ask Before Hiring a Pentesting Vendor | Qualysectechnologies | [Read More](https://medium.com/p/2a10a70676e1) |
-| Wed, 30 Apr 2025 07:29:11 GMT | Caught an IDOR Vulnerability on a Private Program — Earned a Bounty | Whitehat | [Read More](https://medium.com/p/a99d3ac6602b) |
-| Wed, 30 Apr 2025 07:23:55 GMT | Meta’s LlamaFirewall: The AI Security Shield We Didn’t Know We Needed ️ | Ismail Tasdelen | [Read More](https://medium.com/p/1d21c6163a4c) |
-| Wed, 30 Apr 2025 07:21:00 GMT | Building a Hacker’s Mindset: What Hacking Taught Me About Thinking Differently | Mohammed Fahad | [Read More](https://medium.com/p/2fe912ca4d04) |
-| Wed, 30 Apr 2025 07:18:32 GMT | Retail CRM Software Trends to Watch in 2025 | Dynamics 365 Retail | [Read More](https://medium.com/p/4ddecd73c421) |
-| Wed, 30 Apr 2025 07:18:31 GMT | Mastering SQL Injection Attacks Real-Life Case Studies | Audit Mania | [Read More](https://medium.com/p/f46c8530b1ca) |
-| Wed, 30 Apr 2025 07:17:02 GMT | Understanding Cybersecurity Basics: Stay Safe Online | Jakobpabli | [Read More](https://medium.com/p/05c68880c919) |
-| Wed, 30 Apr 2025 07:14:29 GMT | ️ Penetration Testing: DNS & DHCP | 0b1d1 | [Read More](https://medium.com/p/ed7f27d493ae) |
-| Wed, 30 Apr 2025 07:10:37 GMT | Strategic Role of Artificial Intelligence (AI) in ARCHANGEL 2.0 Firewall System from PT. SYDECO | Sydeco Indonesia | [Read More](https://medium.com/p/799ab6a46a03) |
-| Wed, 30 Apr 2025 07:09:28 GMT | The Daily Tech Digest: 30 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/3c929ce7b68f) |
-| Wed, 30 Apr 2025 07:06:15 GMT | Boost Your Career with Software Development in Chandigarh — CNT Technologies 2025 | Cnt Technologies | [Read More](https://medium.com/p/95cba6ac324f) |
-| Wed, 30 Apr 2025 07:03:44 GMT | Generative AI and the Future of Cybersecurity: What to Expect in 2025 | Miraroy | [Read More](https://medium.com/p/fe6d6947277a) |
-| Wed, 30 Apr 2025 07:01:30 GMT | From BPO to Cybersecurity: My Journey to Passing the eJPT Certification | Harmit Warang (g0tr0_0t?) | [Read More](https://medium.com/p/c52a6b7249c3) |
-| Wed, 30 Apr 2025 06:56:36 GMT | Unit Of Work Was the X++ Hero We Needed — Then Microsoft Killed It | Namir Sagheenanajar | [Read More](https://medium.com/p/45dc478df80b) |
-| Wed, 30 Apr 2025 06:52:39 GMT | Become a Data Science Expert — From Basics to Breakthroughs! | Scope Computers | [Read More](https://medium.com/p/320a103d782d) |
-| Wed, 30 Apr 2025 06:51:18 GMT | Recent Microsoft Security Fixes: Outlook and Windows Server Explained | Nexsecura | [Read More](https://medium.com/p/7acfaa1c0119) |
-| Wed, 30 Apr 2025 06:50:42 GMT | Critical Flaws in Commvault and Broadcom Software: An Urgent Call to Action | Nexsecura | [Read More](https://medium.com/p/93ba24d54eba) |
-| Wed, 30 Apr 2025 06:45:51 GMT | Master Cybersecurity with the Certified Ethical Hacker V13 (CEH) Course | Certocean | [Read More](https://medium.com/p/4b4349fb3f5e) |
-| Wed, 30 Apr 2025 06:45:42 GMT | The Growth of Cybercrime: Targeted Sectors and Their Evolution | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/4cdd37b9b3b3) |
-| Wed, 30 Apr 2025 06:41:54 GMT | When Cars Talk Too Much: The Cybersecurity Risks of Connected Vehicles | tezp | [Read More](https://medium.com/p/622428aca6d5) |
