@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 05:32:57 GMT | TryHackMe - Git Happens - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/7edd3a1e478c) |
+| Wed, 30 Apr 2025 05:32:36 GMT | What Most People Overlook About PC Health | Metro Tech Solutions | [Read More](https://medium.com/p/27eb061a6736) |
+| Wed, 30 Apr 2025 05:32:36 GMT | Protect Your Nginx Server with Password Authentication: Single and Multiple Location Configurations… | Karthikeyantse | [Read More](https://medium.com/p/75812c64698a) |
+| Wed, 30 Apr 2025 05:22:47 GMT | Palo Alto Networks Prisma AIRS: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f65f800ac243) |
+| Wed, 30 Apr 2025 05:22:36 GMT | Chicago’s #1 Rolling Security Shutter Company: Why Taurus Security Shutters Stands Above the Rest | Kurt LaMothe | [Read More](https://medium.com/p/444a0dd2d374) |
+| Wed, 30 Apr 2025 05:20:19 GMT | Escalating trade tensions with China jeopardize rare earth access for U.S. defense firms | Saumya Mehta | [Read More](https://medium.com/p/dee6e5e0dfc1) |
 | Wed, 30 Apr 2025 05:16:35 GMT | The Art of the Ask: Crafting Effective Third-Party Risk Assessment Questionnaires | cyber_pix | [Read More](https://medium.com/p/f785acc4f8ab) |
 | Wed, 30 Apr 2025 05:08:00 GMT | Don’t Wait for Disaster to Strike -Prepare Today | R&B Networks | [Read More](https://medium.com/p/d1f1cd0541de) |
 | Wed, 30 Apr 2025 05:07:49 GMT | Syslog Dreams and Packet Nightmares: Love Letters from the Edge of the Network | Rain Ginsberg | [Read More](https://medium.com/p/81bd9cb1a84b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 20:56:45 GMT | The Max Headroom Hack: The Strangest TV Hijacking in History | Jacob Ruhl | [Read More](https://medium.com/p/1eb19438daba) |
 | Tue, 29 Apr 2025 20:55:19 GMT | When Security Backfires: Why Wildcard SSL and DNSSEC Aren’t Always the Right Move | Ahmed AbdElmaqsoud | [Read More](https://medium.com/p/a70c700da5a3) |
 | Tue, 29 Apr 2025 20:53:35 GMT | De Padawan a expert: Mi viaje en TryHackMe y cómo transformó mi carrera en ciberseguridad | N0R37urn | [Read More](https://medium.com/p/5db5b498788a) |
-| Tue, 29 Apr 2025 20:45:55 GMT | WhatsApp’s Private Processing: AI Power Meets Ironclad Privacy | Ismail Tasdelen | [Read More](https://medium.com/p/f6072dda6aeb) |
-| Tue, 29 Apr 2025 20:45:23 GMT | Tierra Audit Report | Hyacinth | [Read More](https://medium.com/p/c25489e785a3) |
-| Tue, 29 Apr 2025 20:43:10 GMT | AI Jailbreaks and Data Risks: The Wild Side of GenAI in 2025 | Ismail Tasdelen | [Read More](https://medium.com/p/41c9d998abe2) |
-| Tue, 29 Apr 2025 20:42:35 GMT | Day 21: OverTheWire-Bandit Wargames: Level 0 → 5 | Agarwaldaksh | [Read More](https://medium.com/p/3f35a3c0c05f) |
-| Tue, 29 Apr 2025 20:40:22 GMT | Chinese Espionage Unveiled: How SentinelOne Fought Off PurpleHaze and Other Cyber Shenanigans… | Ismail Tasdelen | [Read More](https://medium.com/p/b8d46d08ac21) |
-| Tue, 29 Apr 2025 20:36:28 GMT | Securing Microsoft 365 Copilot with Reco: A Deep Dive into AI-Powered Protection | Ismail Tasdelen | [Read More](https://medium.com/p/bb44c3d16268) |
