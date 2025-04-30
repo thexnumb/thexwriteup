@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 07:30:37 GMT | Top Questions to Ask Before Hiring a Pentesting Vendor | Qualysectechnologies | [Read More](https://medium.com/p/2a10a70676e1) |
+| Wed, 30 Apr 2025 07:29:11 GMT | Caught an IDOR Vulnerability on a Private Program — Earned a Bounty | Whitehat | [Read More](https://medium.com/p/a99d3ac6602b) |
+| Wed, 30 Apr 2025 07:23:55 GMT | Meta’s LlamaFirewall: The AI Security Shield We Didn’t Know We Needed ️ | Ismail Tasdelen | [Read More](https://medium.com/p/1d21c6163a4c) |
+| Wed, 30 Apr 2025 07:21:00 GMT | Building a Hacker’s Mindset: What Hacking Taught Me About Thinking Differently | Mohammed Fahad | [Read More](https://medium.com/p/2fe912ca4d04) |
 | Wed, 30 Apr 2025 07:18:32 GMT | Retail CRM Software Trends to Watch in 2025 | Dynamics 365 Retail | [Read More](https://medium.com/p/4ddecd73c421) |
+| Wed, 30 Apr 2025 07:18:31 GMT | Mastering SQL Injection Attacks Real-Life Case Studies | Audit Mania | [Read More](https://medium.com/p/f46c8530b1ca) |
+| Wed, 30 Apr 2025 07:17:02 GMT | Understanding Cybersecurity Basics: Stay Safe Online | Jakobpabli | [Read More](https://medium.com/p/05c68880c919) |
 | Wed, 30 Apr 2025 07:14:29 GMT | ️ Penetration Testing: DNS & DHCP | 0b1d1 | [Read More](https://medium.com/p/ed7f27d493ae) |
 | Wed, 30 Apr 2025 07:10:37 GMT | Strategic Role of Artificial Intelligence (AI) in ARCHANGEL 2.0 Firewall System from PT. SYDECO | Sydeco Indonesia | [Read More](https://medium.com/p/799ab6a46a03) |
 | Wed, 30 Apr 2025 07:09:28 GMT | The Daily Tech Digest: 30 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/3c929ce7b68f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 23:57:54 GMT | An Attempt to Hijack My Digital Identity: A Cyber Attack Following Two Medium.com Articles | embossdotar | [Read More](https://medium.com/p/63692536546c) |
 | Tue, 29 Apr 2025 23:56:23 GMT | Every Job Seeker Will Get a Job — But Cybersecurity Rewards the Patient and Prepared | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/05b9b9756e38) |
 | Tue, 29 Apr 2025 23:42:36 GMT | Proving Grounds Practice — Pelican Walkthrough | Batu Ada Tutkun | [Read More](https://medium.com/p/13ca4638121c) |
-| Tue, 29 Apr 2025 23:42:18 GMT | LazyAdmin— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/277018351ee9) |
-| Tue, 29 Apr 2025 23:38:46 GMT | How to Evade Antivirus with Custom Payloads in Python | Maxwell Cross | [Read More](https://medium.com/p/2ff08fa23d2d) |
-| Tue, 29 Apr 2025 23:37:54 GMT | ✨ What Is Intellectual Enlightenment? | Alexious Fiero | [Read More](https://medium.com/p/f88a679a9af7) |
-| Tue, 29 Apr 2025 23:23:09 GMT | Operation Root Access — Walkthrough | Nikhil Shakya | [Read More](https://medium.com/p/ecf33ed93667) |
-| Tue, 29 Apr 2025 23:20:01 GMT | How to Securely Manage Accounts in Alibaba Cloud | Jacky Yau | [Read More](https://medium.com/p/1e4d64c000fd) |
-| Tue, 29 Apr 2025 23:19:18 GMT | Documenting my Experiences with the 2025 WiCyS Security Training Scholarship Program — Part 2… | Crislana Rafael | [Read More](https://medium.com/p/f0798aa506d1) |
