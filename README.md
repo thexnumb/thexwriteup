@@ -12,11 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 09:34:25 GMT | Honest reflection — When attention feels like control | LadyGev | [Read More](https://medium.com/p/f079fc821150) |
+| Wed, 30 Apr 2025 09:31:12 GMT | App Integrity in iOS | Jennyrib | [Read More](https://medium.com/p/d626362e9dbf) |
+| Wed, 30 Apr 2025 09:22:25 GMT | TryHackMe - Wireshark: Packet Operations — PACKET FILTERING PARTS | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/98f8f3bd478e) |
 | Wed, 30 Apr 2025 09:20:10 GMT | World Quantum Day: Quantum Computing: Hype or Reality? | Marcel | [Read More](https://medium.com/p/bee57c0bf167) |
+| Wed, 30 Apr 2025 09:19:17 GMT | Spookifier — HackTheB | Cheryl Maise Lobo | [Read More](https://medium.com/p/ec2f69e87ede) |
+| Wed, 30 Apr 2025 09:19:16 GMT | MITRE DEFEND: The Secret Weapon of Cybersecurity and Future Defense Strategies | Adnan Kutay Yüksel | [Read More](https://medium.com/p/10eb98e9b17d) |
 | Wed, 30 Apr 2025 09:17:35 GMT | AWS in the Line of Fire: Offensive Security Insights used by Hackers | Aditya Bhatt | [Read More](https://medium.com/p/aa610cd368e0) |
 | Wed, 30 Apr 2025 09:15:00 GMT | How to Deploy SafeLine WAF with Docker in 5 Minutes | Mmrzxyyhmw | [Read More](https://medium.com/p/daa9c3831fcb) |
 | Wed, 30 Apr 2025 09:14:57 GMT | Experience the Best Security Services in Delhi with ISMS | Internal security and manpower services | [Read More](https://medium.com/p/72478250fed2) |
 | Wed, 30 Apr 2025 09:07:00 GMT | CORS InspectorCORS Inspector | Lukas Simunovic | [Read More](https://medium.com/p/b536fd5449c4) |
+| Wed, 30 Apr 2025 09:01:50 GMT | TryHackMe - Lookup | Hexshubz | [Read More](https://medium.com/p/49ea90442b0b) |
 | Wed, 30 Apr 2025 08:58:47 GMT | Custom Tooling Using Python | Hackskillls | [Read More](https://medium.com/p/f535b0727596) |
 | Wed, 30 Apr 2025 08:57:55 GMT | DLL injection fundamental — Part1 | Kijo Ninja | [Read More](https://medium.com/p/21301337f057) |
 | Wed, 30 Apr 2025 08:54:25 GMT | A Technical Review of AI-Infra-Guard V2: New MCP Server Security Analysis Tool | ForAISec | [Read More](https://medium.com/p/6733a7f319e0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 04:39:46 GMT | One OTP to Rule Them All: How I Replayed a Single Response and Logged in Forever on target.com | Nayan Choudhary | [Read More](https://medium.com/p/f58e58261607) |
 | Wed, 30 Apr 2025 04:32:38 GMT | Cybersecurity Basics Refresher Series(Part 3): TLS/SSL Explained — How Secure Communication… | Atharva Sardesai | [Read More](https://medium.com/p/47ebcb98a497) |
 | Wed, 30 Apr 2025 04:32:21 GMT | Cybersecurity is a Team Sport: Let’s Stop Overlooking Key Players | Amit Ambekar | [Read More](https://medium.com/p/4f03013aabca) |
-| Wed, 30 Apr 2025 04:29:42 GMT | How to Disable Right-Click Context Menu on a Web Page (With Example) | Bhavesh Doshi | [Read More](https://medium.com/p/82ee0464ec44) |
-| Wed, 30 Apr 2025 04:26:30 GMT | The Dangerous Life of an Old Email Address | Sam Galope | [Read More](https://medium.com/p/839f9c28abab) |
-| Wed, 30 Apr 2025 04:21:17 GMT | Memory Analysis Introduction — TryHackMe Room | Samriddhi | [Read More](https://medium.com/p/e698afb45125) |
-| Wed, 30 Apr 2025 04:17:56 GMT | Enforcing policy-as-code: Open Policy Agent (OPA) | Raunak Balchandani | [Read More](https://medium.com/p/508883d6c0e8) |
-| Wed, 30 Apr 2025 04:09:17 GMT | Mystery at Sea: Norway’s Underwater Internet Cable Damaged, Raising Fears of Sabotage | Dipayan Ghosh | [Read More](https://medium.com/p/49845fdae1d4) |
-| Wed, 30 Apr 2025 04:09:14 GMT | Why JWT Needs a Secret If It’s Not Encrypted | Sergey Egorenkov | [Read More](https://medium.com/p/0e119cebd437) |
