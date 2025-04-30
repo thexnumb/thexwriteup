@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 17:08:29 GMT | Exploring Subdomains: What They Are and How to Find Them | Nishanthan | [Read More](https://medium.com/p/91db1f16be86) |
+| Wed, 30 Apr 2025 16:59:16 GMT | How I Earned $1700 from Stripe Bug Bounties | Rinkesh Patidar | [Read More](https://medium.com/p/28173e8b0a56) |
+| Wed, 30 Apr 2025 16:57:11 GMT | Gizlilik Sözleşmesini Okumadık, Ama Bizi Okuyorlar | HSD Fırat Üniversitesi | [Read More](https://medium.com/p/a3f607c8fd09) |
+| Wed, 30 Apr 2025 16:49:26 GMT | XSS Part — 9 : DOM XSS in document.write sink using source location.search inside a select element | Ahmad Sopyan | [Read More](https://medium.com/p/cb5650ac77b2) |
+| Wed, 30 Apr 2025 16:49:14 GMT | MCP Prompt Injection: The AI Hack That Cuts Both Ways ️ | Ismail Tasdelen | [Read More](https://medium.com/p/f340de123451) |
+| Wed, 30 Apr 2025 16:47:51 GMT | Can Web3 Security End Crypto Hacks — Mitchell Amador | Aroundthecoin | [Read More](https://medium.com/p/e5498ba9718a) |
 | Wed, 30 Apr 2025 16:44:53 GMT | بسم الله الرحمن الرحيم | Abu Maryam Rahmat | [Read More](https://medium.com/p/7e837698fe4b) |
+| Wed, 30 Apr 2025 16:41:42 GMT | Data Breaches | Nicole Tay | [Read More](https://medium.com/p/6a51b6e7db46) |
 | Wed, 30 Apr 2025 16:41:05 GMT | Network Penetration Testing | ANGGA | [Read More](https://medium.com/p/f5595dc37341) |
+| Wed, 30 Apr 2025 16:40:13 GMT | Scanning a Local Network with Metasploit and Nmap: A Cybersecurity Reconnaissance Walkthrough | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/66e134f9a99b) |
+| Wed, 30 Apr 2025 16:39:50 GMT | Strengthening Your Digital Lockbox: 4 User-Friendly Alternatives to the RSA Algorithm | Chibuike Kosisochukwu | [Read More](https://medium.com/p/7addeb0f45a4) |
 | Wed, 30 Apr 2025 16:36:05 GMT | SAP Netweaver Developmentserver CVE-2025–31324 Scanning | amxlm | [Read More](https://medium.com/p/bb63fdc5144b) |
 | Wed, 30 Apr 2025 16:35:24 GMT | How Does the Silver Ticket Actually Work? | Tvrpism | [Read More](https://medium.com/p/368ec8905edd) |
 | Wed, 30 Apr 2025 16:33:34 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/0898c3b57bc9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 13:17:55 GMT | Cybersecurity Threats In 2025 | Theunitedindian | [Read More](https://medium.com/p/6b685dc60bab) |
 | Wed, 30 Apr 2025 13:12:13 GMT | TryHackMe — Monday Monitor: A SOC-Level Security Walkthrough (with My Personal Notes) | Furkanctiner | [Read More](https://medium.com/p/864c7fb1094a) |
 | Wed, 30 Apr 2025 13:09:00 GMT | The Dilemma of an Africa Tour Leader: Is Traveling to Africa Dangerous? | Korean Africanist | [Read More](https://medium.com/p/a8d1c1fbb998) |
-| Wed, 30 Apr 2025 13:08:02 GMT | Identifying and Analyzing Scanning, XSS, and SQL Injection Attack from PCAP File | Freddy Harahap | [Read More](https://medium.com/p/fea1adca0578) |
-| Wed, 30 Apr 2025 13:04:36 GMT | No VPN? You’re at Risk in 2025 — 7 Reasons to Act Now | EVA VPN | [Read More](https://medium.com/p/4f5e5f204873) |
-| Wed, 30 Apr 2025 13:02:39 GMT | The Corporate Cost of Cybercrime — and How Peris.ai Helps You Fight Back | Peris.ai Cybersecurity | [Read More](https://medium.com/p/f9fa78bcca26) |
-| Wed, 30 Apr 2025 13:02:24 GMT | My Journey into Cybersecurity: From Biomedical Engineering to Application Security | Onyinyechi Norman-Roberts | [Read More](https://medium.com/p/82ae710fec85) |
-| Wed, 30 Apr 2025 12:50:30 GMT | The Business of People: Rethinking Profitability in Services | Shivendrasinhpatankar | [Read More](https://medium.com/p/ad2f4eebcd85) |
-| Wed, 30 Apr 2025 12:39:17 GMT | RansomHub’s Mysterious Disappearance: A Ransomware Rollercoaster | Ismail Tasdelen | [Read More](https://medium.com/p/1ed05ebdd1f4) |
-| Wed, 30 Apr 2025 12:35:38 GMT | Unlocking Secure Data for Energy and Mobility — Why We Invested in VIA | MMV Climate Tech | [Read More](https://medium.com/p/4126ee04ed6b) |
-| Wed, 30 Apr 2025 12:32:24 GMT | Capture your mobile traffic via Burp Suite. | Yuvaraj | [Read More](https://medium.com/p/6bd328faa765) |
-| Wed, 30 Apr 2025 12:28:13 GMT | The Essential Future of Cybersecurity: Trends, AI, and Predictions | Jenny smith | [Read More](https://medium.com/p/2872bbc84705) |
