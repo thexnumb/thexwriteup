@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 13:42:56 GMT | Introduction to Shells — What you absolutely need to know | Niklas Heringer | [Read More](https://medium.com/p/870d53251d5e) |
+| Wed, 30 Apr 2025 13:33:09 GMT | How I Found My First Bug: IDOR Vulnerability & Got a $$$ Bounty! | Zephyrus | [Read More](https://medium.com/p/d11b983e1460) |
+| Wed, 30 Apr 2025 13:31:35 GMT | How to Protect APIs from Unauthorized Access & Attacks | Mehedi Hasan | [Read More](https://medium.com/p/caab2f14b086) |
+| Wed, 30 Apr 2025 13:31:16 GMT | India vs The Wayback Machine?! What’s REALLY Going On? | The Cyber Ghost | [Read More](https://medium.com/p/2bafdbf20826) |
+| Wed, 30 Apr 2025 13:31:02 GMT | Balanced Security | PRIRITY | [Read More](https://medium.com/p/d2f3cbad8505) |
 | Wed, 30 Apr 2025 13:22:44 GMT | geme | Siemba | [Read More](https://medium.com/p/a0cfc8b13a76) |
+| Wed, 30 Apr 2025 13:22:36 GMT | SSL Pinning in Android: Securing Your App’s Network Communications | Jaydeep khambhayta | [Read More](https://medium.com/p/c24567293f49) |
+| Wed, 30 Apr 2025 13:20:55 GMT | Meta Unveils LlamaFirewall to Enhance AI Security Against Cyber Threats | current.cybersecurity | [Read More](https://medium.com/p/5e37e7889d1b) |
+| Wed, 30 Apr 2025 13:19:38 GMT | Essential Skills Every Aspiring Security Professional Should Have | Aiswarya N | [Read More](https://medium.com/p/505e039d9eb0) |
+| Wed, 30 Apr 2025 13:18:06 GMT | Reporting a Scam Shouldn’t Make You Vulnerable Again: How Victims Are Exposed When Sharing Their… | Natasha Fuller | [Read More](https://medium.com/p/7fde78893ebc) |
+| Wed, 30 Apr 2025 13:17:55 GMT | Cybersecurity Threats In 2025 | Theunitedindian | [Read More](https://medium.com/p/6b685dc60bab) |
 | Wed, 30 Apr 2025 13:12:13 GMT | TryHackMe — Monday Monitor: A SOC-Level Security Walkthrough (with My Personal Notes) | Furkanctiner | [Read More](https://medium.com/p/864c7fb1094a) |
 | Wed, 30 Apr 2025 13:09:00 GMT | The Dilemma of an Africa Tour Leader: Is Traveling to Africa Dangerous? | Korean Africanist | [Read More](https://medium.com/p/a8d1c1fbb998) |
 | Wed, 30 Apr 2025 13:08:02 GMT | Identifying and Analyzing Scanning, XSS, and SQL Injection Attack from PCAP File | Freddy Harahap | [Read More](https://medium.com/p/fea1adca0578) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 08:35:41 GMT | Shadows Within Shadows | Tales of Nyx | [Read More](https://medium.com/p/25fdea032c73) |
 | Wed, 30 Apr 2025 08:30:19 GMT | Starting out Bug Bounty as a Beginner | hackerhaishayad | [Read More](https://medium.com/p/12df44ccedcb) |
 | Wed, 30 Apr 2025 08:27:44 GMT | Gestion de crise et RETEX : Anticiper l’imprévisible | Rebecca Cottignies | [Read More](https://medium.com/p/bcd932819d95) |
-| Wed, 30 Apr 2025 08:27:28 GMT |  | Smart Money Management | [Read More](https://medium.com/p/09c11c783a2c) |
-| Wed, 30 Apr 2025 08:24:47 GMT | Stealthy Linux Intrusions: Analyzing BPFDoor-like Threat Activity and Emerging Risks | David SEHYEON Baek | [Read More](https://medium.com/p/7faf6cc02c3d) |
-| Wed, 30 Apr 2025 08:22:58 GMT | Gen AI: Innovation Meets Security | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/8450f41c02ca) |
-| Wed, 30 Apr 2025 08:18:37 GMT | भारत की डिजिटल अर्थव्यवस्था तेज़ी से बढ़ रही है, और पूरे देश में डिजिटल भुगतान का प्रचलन बढ़ रहा… | Hacker news 07 | [Read More](https://medium.com/p/441d97915d12) |
-| Wed, 30 Apr 2025 08:17:37 GMT | 40 Essential Cybersecurity Terms Every Professional Must Know | Madhavaraman | [Read More](https://medium.com/p/f35053e92331) |
-| Wed, 30 Apr 2025 08:17:22 GMT | Pentesting — Living off the Land: | DeepBlue Security & Intelligence | [Read More](https://medium.com/p/9fedc3d75489) |
-| Wed, 30 Apr 2025 08:15:28 GMT | Cybersecurity Cheat Sheet ️ | AJANI TAIWO MICHEAL | [Read More](https://medium.com/p/b0a40e3328d1) |
-| Wed, 30 Apr 2025 08:14:30 GMT | The Invisible Trail: How to Check and Take Control of Your Digital Footprint | Fuzzyy Duck | [Read More](https://medium.com/p/0201020a44b2) |
-| Wed, 30 Apr 2025 08:13:55 GMT | Understanding Supply Chain Attacks | Erkan Kavas | [Read More](https://medium.com/p/19f97e8116cb) |
-| Wed, 30 Apr 2025 08:11:13 GMT | AI: Autonomous Security Agents | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/1c4ad0dd198b) |
