@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 20:34:42 GMT | Guess My Cheese (Part 1) — picoCTF 2025 — Affine Cipher | Jin | [Read More](https://medium.com/p/72df5b3a5f1e) |
+| Wed, 30 Apr 2025 20:26:25 GMT | Building a Plugin Architecture for Your Python C2 Implant: Modular Malware the Right Way | Maxwell Cross | [Read More](https://medium.com/p/7d10d262dcda) |
+| Wed, 30 Apr 2025 20:26:02 GMT | A lightweight approach to a heavy problem: why we’re building Tresal | Matthias Peeters | [Read More](https://medium.com/p/da144fd67422) |
+| Wed, 30 Apr 2025 20:23:09 GMT | ️ Smarter Detections: Creating SIGMA Exclusion Rules in CoPilot for Velociraptor Alerts | SOCFortress | [Read More](https://medium.com/p/83175b52a998) |
+| Wed, 30 Apr 2025 20:19:30 GMT | Arlo Essential 2nd Generation Indoor Camera REVIEW — MacSources | MacSources | [Read More](https://medium.com/p/d1dd09a6cbe0) |
+| Wed, 30 Apr 2025 20:18:53 GMT | Training AI Without Leaking Data | Patrick Walsh | [Read More](https://medium.com/p/387acb699448) |
 | Wed, 30 Apr 2025 20:07:20 GMT | Learning what’s the Cyber Kill Chain: A Beginner’s Guide | R1cH4t | [Read More](https://medium.com/p/be02af218ddf) |
 | Wed, 30 Apr 2025 20:06:50 GMT | Solana Down But Not Out: The Full Story of Its Outages, Hacks, and the Fight to Rebuild Trust | PerrieDExplorer | [Read More](https://medium.com/p/00c2393d60bb) |
 | Wed, 30 Apr 2025 20:04:46 GMT | SaaS: The Convenience That Became a Digital Security Minefield | Renata R Santos | [Read More](https://medium.com/p/784e7cb23028) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 15:29:26 GMT | Swappee Audit Report | Hyacinth | [Read More](https://medium.com/p/18c449b71325) |
 | Wed, 30 Apr 2025 15:27:53 GMT | I will write business analyst, cybersecurity, data science, data analyst, grc resume CV | Expertrichard | [Read More](https://medium.com/p/a2dbe1b1d529) |
 | Wed, 30 Apr 2025 15:27:40 GMT | 100 Perintah Linux Esensial untuk Pentester Profesional | toor | [Read More](https://medium.com/p/4bf0fbbf98c9) |
-| Wed, 30 Apr 2025 15:21:22 GMT | 5 Everyday Business Challenges That Smart Tech Can Solve Instantly | Tros Techologies | [Read More](https://medium.com/p/ec27fca719e4) |
-| Wed, 30 Apr 2025 15:18:19 GMT | Mr. Robot Themed Cybersecurity Virtual Lab Environment | Mike | [Read More](https://medium.com/p/e0ac43053cc9) |
-| Wed, 30 Apr 2025 15:15:06 GMT | CyberDefenders — PsExec Hunt Lab | Atlas Security | [Read More](https://medium.com/p/2603bcc07b69) |
-| Wed, 30 Apr 2025 15:13:21 GMT | 100 Common Linux Command for Penetration Testing. | Defenderramadhan | [Read More](https://medium.com/p/dfe56e25ae45) |
-| Wed, 30 Apr 2025 15:06:01 GMT | Zero Trust Network Architectures and Implementations | Esra Kayhan | [Read More](https://medium.com/p/09bafa20df02) |
-| Wed, 30 Apr 2025 15:05:50 GMT | All About Zero Cost Abstractions in Rust: Explained in Simple English | Dhanush N | [Read More](https://medium.com/p/d29bcb3cffdd) |
