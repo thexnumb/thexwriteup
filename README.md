@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 13:22:44 GMT | geme | Siemba | [Read More](https://medium.com/p/a0cfc8b13a76) |
+| Wed, 30 Apr 2025 13:12:13 GMT | TryHackMe — Monday Monitor: A SOC-Level Security Walkthrough (with My Personal Notes) | Furkanctiner | [Read More](https://medium.com/p/864c7fb1094a) |
+| Wed, 30 Apr 2025 13:09:00 GMT | The Dilemma of an Africa Tour Leader: Is Traveling to Africa Dangerous? | Korean Africanist | [Read More](https://medium.com/p/a8d1c1fbb998) |
+| Wed, 30 Apr 2025 13:08:02 GMT | Identifying and Analyzing Scanning, XSS, and SQL Injection Attack from PCAP File | Freddy Harahap | [Read More](https://medium.com/p/fea1adca0578) |
+| Wed, 30 Apr 2025 13:04:36 GMT | No VPN? You’re at Risk in 2025 — 7 Reasons to Act Now | EVA VPN | [Read More](https://medium.com/p/4f5e5f204873) |
+| Wed, 30 Apr 2025 13:02:39 GMT | The Corporate Cost of Cybercrime — and How Peris.ai Helps You Fight Back | Peris.ai Cybersecurity | [Read More](https://medium.com/p/f9fa78bcca26) |
+| Wed, 30 Apr 2025 13:02:24 GMT | My Journey into Cybersecurity: From Biomedical Engineering to Application Security | Onyinyechi Norman-Roberts | [Read More](https://medium.com/p/82ae710fec85) |
+| Wed, 30 Apr 2025 12:50:30 GMT | The Business of People: Rethinking Profitability in Services | Shivendrasinhpatankar | [Read More](https://medium.com/p/ad2f4eebcd85) |
+| Wed, 30 Apr 2025 12:39:17 GMT | RansomHub’s Mysterious Disappearance: A Ransomware Rollercoaster | Ismail Tasdelen | [Read More](https://medium.com/p/1ed05ebdd1f4) |
+| Wed, 30 Apr 2025 12:35:38 GMT | Unlocking Secure Data for Energy and Mobility — Why We Invested in VIA | MMV Climate Tech | [Read More](https://medium.com/p/4126ee04ed6b) |
+| Wed, 30 Apr 2025 12:32:24 GMT | Capture your mobile traffic via Burp Suite. | Yuvaraj | [Read More](https://medium.com/p/6bd328faa765) |
 | Wed, 30 Apr 2025 12:28:13 GMT | The Essential Future of Cybersecurity: Trends, AI, and Predictions | Jenny smith | [Read More](https://medium.com/p/2872bbc84705) |
 | Wed, 30 Apr 2025 12:26:25 GMT | Softech CTF 2025 — Forensics Challenges | Alyan Gulzar | [Read More](https://medium.com/p/e6b8b23d7c2f) |
 | Wed, 30 Apr 2025 12:17:43 GMT | The Hidden Costs of Reactive IT: Why a Proactive Approach Is Worth the Investment | Tier3MD | [Read More](https://medium.com/p/4fe8c3e794de) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 08:14:30 GMT | The Invisible Trail: How to Check and Take Control of Your Digital Footprint | Fuzzyy Duck | [Read More](https://medium.com/p/0201020a44b2) |
 | Wed, 30 Apr 2025 08:13:55 GMT | Understanding Supply Chain Attacks | Erkan Kavas | [Read More](https://medium.com/p/19f97e8116cb) |
 | Wed, 30 Apr 2025 08:11:13 GMT | AI: Autonomous Security Agents | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/1c4ad0dd198b) |
-| Wed, 30 Apr 2025 08:10:50 GMT | Security Operations Center (SOC) Temelleri — 14 | Ali Ekber KARA | [Read More](https://medium.com/p/c31758c6627c) |
-| Wed, 30 Apr 2025 08:07:46 GMT | Pentesting — Living of the land: | DeepBlue Security & Intelligence | [Read More](https://medium.com/p/6777da6f6512) |
-| Wed, 30 Apr 2025 08:07:45 GMT | Role of Generative AI in Cyber Security: Applications and Tools | Reveation Labs | [Read More](https://medium.com/p/befeb7fe4e85) |
-| Wed, 30 Apr 2025 08:04:20 GMT | From Shell to Network Recon: Master the ipconfig, ifconfig, netstat, ip & ss Commands for… | YoungerSibling | [Read More](https://medium.com/p/dd02201319a0) |
-| Wed, 30 Apr 2025 08:03:00 GMT | Cybersecurity Services by TMIT — Stay One Step Ahead of Threats | Talent Movers INC | [Read More](https://medium.com/p/9c8e1158305e) |
-| Wed, 30 Apr 2025 07:51:24 GMT | Half of UK Businesses Hit by Cyberattacks, Large Firms Top Targets | SafetyDetectives Research Team | [Read More](https://medium.com/p/7db25aaf9c5d) |
-| Wed, 30 Apr 2025 07:48:27 GMT | Mice Proving ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/235465dc5f1c) |
-| Wed, 30 Apr 2025 07:47:42 GMT | Chapter 13: Lessons in Love and Loneliness | Hennster | [Read More](https://medium.com/p/f34f33e768b5) |
-| Wed, 30 Apr 2025 07:40:03 GMT | DOM-inated! How a Tiny JS Sink Turned Into Critical XSS | Iski | [Read More](https://medium.com/p/a9a1dbe97df2) |
-| Wed, 30 Apr 2025 07:39:37 GMT | ️ Simulating and Preventing a SYN Flood Attack in a Virtual Cybersecurity Lab | Chigozie Iroegbulam | [Read More](https://medium.com/p/ee6c560493c2) |
-| Wed, 30 Apr 2025 07:36:45 GMT | Beyond CVEs: The Emergent Biology of Machine Defense | Shane Trimbur | [Read More](https://medium.com/p/34b93c270f2f) |
