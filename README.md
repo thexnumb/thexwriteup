@@ -12,10 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 14:32:25 GMT | 9 Cyber Threats That Laugh at Your Strong Password | Mohamad MERHI | [Read More](https://medium.com/p/170c4e89f232) |
+| Wed, 30 Apr 2025 14:28:36 GMT | CYBERSCENTS_CTF_25 OSINT PART 2 | Harisahmed | [Read More](https://medium.com/p/7542841fdac6) |
+| Wed, 30 Apr 2025 14:28:22 GMT | 5 Linux Commands Hackers Use (And How to Detect Them on Your Server) | Faruk Ahmed | [Read More](https://medium.com/p/d44f488f7fa8) |
+| Wed, 30 Apr 2025 14:26:46 GMT | Building a Security Monitoring Lab with Wazuh on MAC: A Journey from Theory to Practice | CyberPands | [Read More](https://medium.com/p/6834c48e8f89) |
+| Wed, 30 Apr 2025 14:24:52 GMT | April Make Me Happy (Bug Bounty Hunting) | Shuvo Kumar Saha | [Read More](https://medium.com/p/2af3fcf15746) |
+| Wed, 30 Apr 2025 14:23:54 GMT | Vulnerabilities You Can Find in a Payment Gateway | Ravindra Dagale | [Read More](https://medium.com/p/338b944b0f61) |
+| Wed, 30 Apr 2025 14:21:26 GMT | Testing HTTP Request Smuggling Using Nginx | Xinquanyip | [Read More](https://medium.com/p/e90449b4f134) |
+| Wed, 30 Apr 2025 14:20:45 GMT | The Hidden Danger of a World Run by AI | Sandeep Peiris | [Read More](https://medium.com/p/e26048351765) |
+| Wed, 30 Apr 2025 14:20:36 GMT | How to Check .POTX Template Files for Threats in your Node.js App | Cloudmersive | [Read More](https://medium.com/p/a69a82852436) |
+| Wed, 30 Apr 2025 14:19:53 GMT | Bypassing Email-Based 2FA via Client-Side Response Tampering: An Informative Case Study | z00x | [Read More](https://medium.com/p/ef4c58b9c97f) |
 | Wed, 30 Apr 2025 14:15:30 GMT | Introduction | Raphael P. | [Read More](https://medium.com/p/2de6b5f70909) |
 | Wed, 30 Apr 2025 14:14:42 GMT | HTB Monteverde Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/8a046412ae58) |
 | Wed, 30 Apr 2025 14:13:19 GMT | From Out-of-Scope to Critical: How I Earned 2500$ by Breaking the Rules | Gotcha1G | [Read More](https://medium.com/p/e8165ec5ef37) |
 | Wed, 30 Apr 2025 14:08:45 GMT | ️ OWASP Top 10: The Biggest Web Vulnerabilities (Explained Simply) | Ravindra Dagale | [Read More](https://medium.com/p/530a09ead1eb) |
+| Wed, 30 Apr 2025 14:04:57 GMT | IDOR : Ketika URL Bisa Jadi Kunci untuk Bobol Data Orang lain | Zaky Putra Pratama | [Read More](https://medium.com/p/7b68073f56d0) |
 | Wed, 30 Apr 2025 14:03:55 GMT | Natas2 — Wargames solutions writeup | Adithya M S | [Read More](https://medium.com/p/2b2946358259) |
 | Wed, 30 Apr 2025 14:02:39 GMT | Cyber Briefing: 2025.04.30 | CyberMaterial | [Read More](https://medium.com/p/04609458a079) |
 | Wed, 30 Apr 2025 14:00:36 GMT | Trivy: An Overview, Benefits Over Clair, and Usage Examples | Matías Salinas | [Read More](https://medium.com/p/cfb9d2b671c4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 10:05:32 GMT | Cybersecurity eBook Collection for Aspiring Hackers and Analysts — Curated by @VeryLazyTech | Very Lazy Tech | [Read More](https://medium.com/p/87dee170b9fb) |
 | Wed, 30 Apr 2025 10:00:24 GMT | Look Big in Cyberspace | Mr Success | [Read More](https://medium.com/p/5bdda87c8a73) |
 | Wed, 30 Apr 2025 09:50:28 GMT | Mastering RCE: How I Exploit Remote Code Execution Bugs Like a Pro | Abhijeet Kumawat | [Read More](https://medium.com/p/ddcc816552bf) |
-| Wed, 30 Apr 2025 09:42:36 GMT | Akira Ransomware Hits Hitachi Vantara: What It Means for Your Business | Infoziant | [Read More](https://medium.com/p/9472aecba0d7) |
-| Wed, 30 Apr 2025 09:38:27 GMT | ️ Information Security Laws and Standards | Akalanka Dambagolla | [Read More](https://medium.com/p/6295d2d0d856) |
-| Wed, 30 Apr 2025 09:34:25 GMT | Honest reflection — When attention feels like control | LadyGev | [Read More](https://medium.com/p/f079fc821150) |
-| Wed, 30 Apr 2025 09:31:12 GMT | App Integrity in iOS | Jennyrib | [Read More](https://medium.com/p/d626362e9dbf) |
-| Wed, 30 Apr 2025 09:22:25 GMT | TryHackMe - Wireshark: Packet Operations — PACKET FILTERING PARTS | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/98f8f3bd478e) |
-| Wed, 30 Apr 2025 09:20:10 GMT | World Quantum Day: Quantum Computing: Hype or Reality? | Marcel | [Read More](https://medium.com/p/bee57c0bf167) |
-| Wed, 30 Apr 2025 09:19:17 GMT | Spookifier — HackTheB | Cheryl Maise Lobo | [Read More](https://medium.com/p/ec2f69e87ede) |
-| Wed, 30 Apr 2025 09:19:16 GMT | MITRE DEFEND: The Secret Weapon of Cybersecurity and Future Defense Strategies | Adnan Kutay Yüksel | [Read More](https://medium.com/p/10eb98e9b17d) |
-| Wed, 30 Apr 2025 09:17:35 GMT | AWS in the Line of Fire: Offensive Security Insights used by Hackers | Aditya Bhatt | [Read More](https://medium.com/p/aa610cd368e0) |
-| Wed, 30 Apr 2025 09:15:00 GMT | How to Deploy SafeLine WAF with Docker in 5 Minutes | Mmrzxyyhmw | [Read More](https://medium.com/p/daa9c3831fcb) |
-| Wed, 30 Apr 2025 09:14:57 GMT | Experience the Best Security Services in Delhi with ISMS | Internal security and manpower services | [Read More](https://medium.com/p/72478250fed2) |
