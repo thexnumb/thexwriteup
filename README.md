@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 05:16:35 GMT | The Art of the Ask: Crafting Effective Third-Party Risk Assessment Questionnaires | cyber_pix | [Read More](https://medium.com/p/f785acc4f8ab) |
+| Wed, 30 Apr 2025 05:08:00 GMT | Don’t Wait for Disaster to Strike -Prepare Today | R&B Networks | [Read More](https://medium.com/p/d1f1cd0541de) |
+| Wed, 30 Apr 2025 05:07:49 GMT | Syslog Dreams and Packet Nightmares: Love Letters from the Edge of the Network | Rain Ginsberg | [Read More](https://medium.com/p/81bd9cb1a84b) |
+| Wed, 30 Apr 2025 05:01:46 GMT | Think You’re Safe Online? Think Again. | R&B Networks | [Read More](https://medium.com/p/d8c66aa95f50) |
+| Wed, 30 Apr 2025 04:58:35 GMT | Security with Istio | Bavithran | [Read More](https://medium.com/p/01f3d8897084) |
+| Wed, 30 Apr 2025 04:56:26 GMT | Why Reading Beats Listening in Cybersecurity Learning — and Always Will | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/9fb66878e1a8) |
+| Wed, 30 Apr 2025 04:47:16 GMT | Mastering Networks: Understanding Protocols and Securing Them | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/cc7bd25b799d) |
+| Wed, 30 Apr 2025 04:46:36 GMT | The Red Teaming: 30-Day Challenge[16] | Bl@ckC!pH3r | [Read More](https://medium.com/p/1ed250600323) |
+| Wed, 30 Apr 2025 04:46:35 GMT | How to Choose the Right Locksmith in Waco TX for Reliable and Affordable Service | Lawoffices | [Read More](https://medium.com/p/7f6da8e75dbd) |
+| Wed, 30 Apr 2025 04:45:28 GMT | Hacker Locking Files with Digital Chains: Ransomware Attack | Dereje Deressa | [Read More](https://medium.com/p/1b04c8bc3c08) |
+| Wed, 30 Apr 2025 04:42:23 GMT | Practical Cyber Deception —  Introduction to “Chaotic Good” | Koifsec | [Read More](https://medium.com/p/2ac7bf046fee) |
 | Wed, 30 Apr 2025 04:39:46 GMT | One OTP to Rule Them All: How I Replayed a Single Response and Logged in Forever on target.com | Nayan Choudhary | [Read More](https://medium.com/p/f58e58261607) |
 | Wed, 30 Apr 2025 04:32:38 GMT | Cybersecurity Basics Refresher Series(Part 3): TLS/SSL Explained — How Secure Communication… | Atharva Sardesai | [Read More](https://medium.com/p/47ebcb98a497) |
 | Wed, 30 Apr 2025 04:32:21 GMT | Cybersecurity is a Team Sport: Let’s Stop Overlooking Key Players | Amit Ambekar | [Read More](https://medium.com/p/4f03013aabca) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 20:42:35 GMT | Day 21: OverTheWire-Bandit Wargames: Level 0 → 5 | Agarwaldaksh | [Read More](https://medium.com/p/3f35a3c0c05f) |
 | Tue, 29 Apr 2025 20:40:22 GMT | Chinese Espionage Unveiled: How SentinelOne Fought Off PurpleHaze and Other Cyber Shenanigans… | Ismail Tasdelen | [Read More](https://medium.com/p/b8d46d08ac21) |
 | Tue, 29 Apr 2025 20:36:28 GMT | Securing Microsoft 365 Copilot with Reco: A Deep Dive into AI-Powered Protection | Ismail Tasdelen | [Read More](https://medium.com/p/bb44c3d16268) |
-| Tue, 29 Apr 2025 20:33:32 GMT | Zero-Days in 2024: Google’s Report Unpacks a Wild Year for Cybersecurity | Ismail Tasdelen | [Read More](https://medium.com/p/08bcd61b0823) |
-| Tue, 29 Apr 2025 20:20:05 GMT | Netsys64.exe: The Sneaky Crypto Miner That Didn’t Want to Be Found | Brendan Smith | [Read More](https://medium.com/p/c5ca080c8b45) |
-| Tue, 29 Apr 2025 20:10:34 GMT | Dead Things Still Answer to God | DB Journal | [Read More](https://medium.com/p/ec707688884d) |
-| Tue, 29 Apr 2025 20:01:26 GMT | Why Prompts Are the New IOCs You Didn’t See Coming! | Thomas Roccia | [Read More](https://medium.com/p/46ecaacafe0a) |
-| Tue, 29 Apr 2025 19:56:56 GMT | Will We Need a Digital Police Force in the Age of AI? | dajdoj | [Read More](https://medium.com/p/15bb46c8c921) |
-| Tue, 29 Apr 2025 19:50:46 GMT | The Weight I Carry: A Journey of Body, Mind, and Quiet Resilience | Dr. Noor N. AyToghlo | [Read More](https://medium.com/p/85a9a34f9ab7) |
-| Tue, 29 Apr 2025 19:50:20 GMT | “We Hacked Your System” Email Scam: Just Another Sextortion Attempt | Brendan Smith | [Read More](https://medium.com/p/2fe60e0520dc) |
-| Tue, 29 Apr 2025 19:45:57 GMT | Integrating Amazon Q Developer with Slack | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/4197c21165c9) |
-| Tue, 29 Apr 2025 19:42:10 GMT | Anomaly Detection via Autoencoder in ARM Assembly | Etibar Aliyev | [Read More](https://medium.com/p/95c1f6ba99da) |
-| Tue, 29 Apr 2025 19:35:03 GMT | Unlock Bounties by Simply Reading: A Smart Way to Earn | Reju Kole | [Read More](https://medium.com/p/63a1cb410450) |
-| Tue, 29 Apr 2025 19:32:32 GMT | You Survived Y2K Bug — You Won’t Survive Y2K38 Bug | Shaant | [Read More](https://medium.com/p/e813d31a6daa) |
