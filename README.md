@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 22:26:08 GMT | Why Proactive Cybersecurity Is the Edge Every Business Needs | Cyber-AppSec | [Read More](https://medium.com/p/55d530b3c96f) |
+| Wed, 30 Apr 2025 22:18:30 GMT | Siteler Arası Betik Çalıştırma (XSS) Zafiyeti | Furkan Ayyıldız | [Read More](https://medium.com/p/56b0049fa65f) |
 | Wed, 30 Apr 2025 22:17:11 GMT | Part 2: 10 Essential Websites Every Security Researcher Should Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/de799110f476) |
+| Wed, 30 Apr 2025 22:14:54 GMT | Fortify Your Website: 10 HTTP Security Headers You Can’t Afford to Miss | redhunter1444 | [Read More](https://medium.com/p/98f0eec1e756) |
 | Wed, 30 Apr 2025 22:03:04 GMT | SOC292 — Possible PHP Injection Detected (CVE-2024–4577) Write-up | Dh | [Read More](https://medium.com/p/2ce1d03d5de0) |
 | Wed, 30 Apr 2025 22:02:59 GMT | Out-of-Bounds Read Podcast — “Root Cause Mapping and the CWE Top 25” | CWE Program | [Read More](https://medium.com/p/566323c9c39d) |
 | Wed, 30 Apr 2025 21:54:03 GMT | You Think You’re Growing — You’re Just Consuming | Hamza ELGADI | [Read More](https://medium.com/p/21074a27c582) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 16:07:06 GMT | SOAP - Writeup | Marvin | [Read More](https://medium.com/p/6038d3e64bd1) |
 | Wed, 30 Apr 2025 16:01:46 GMT | Generative AI Security Risks: Hidden Threats Your Organization Can’t Ignore | Ajay Kumar | [Read More](https://medium.com/p/dc6b709ee4d8) |
 | Wed, 30 Apr 2025 16:01:41 GMT | BLAST VirtualBox Lab Environment Part 1.1: pfSense | Mike | [Read More](https://medium.com/p/e56f8824d5e9) |
-| Wed, 30 Apr 2025 16:00:03 GMT | AWS — Application Security Landscape with KMS and Relational Database | Abhishek | [Read More](https://medium.com/p/005d83111b81) |
-| Wed, 30 Apr 2025 15:58:33 GMT | The Dark Side of Solana: Examining Major Security Exploits | Joel Emmanuel | [Read More](https://medium.com/p/0a66956cd7cd) |
-| Wed, 30 Apr 2025 15:56:37 GMT | Building Resilience Beyond Breaches: Lessons from SKT’s Security Incident | Park Sehun | [Read More](https://medium.com/p/5ce9f6a26ac2) |
