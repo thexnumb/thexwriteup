@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 23:33:55 GMT | When Relationships Feel Transactional: A Reflection on Real Connection | Lisa Meints, PhD | [Read More](https://medium.com/p/300625061165) |
+| Wed, 30 Apr 2025 23:22:57 GMT | What If WhatsApp Could Read Your Mind… But Promised Not To Peek? | Jojo S. | [Read More](https://medium.com/p/9f607ed12718) |
+| Wed, 30 Apr 2025 23:16:41 GMT | 5 Signs Your Business is Vulnerable to Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/a05f8eb222df) |
 | Wed, 30 Apr 2025 23:09:15 GMT | How AI Is Reshaping Cybersecurity in the U.S. — And How Businesses Can Prepare | Jazz Cyber Shield | [Read More](https://medium.com/p/f495dd4c5a3b) |
 | Wed, 30 Apr 2025 23:04:48 GMT | Why Secure Data Transfer Matters | Akshay Chauhan | [Read More](https://medium.com/p/14e42684c19a) |
 | Wed, 30 Apr 2025 22:54:27 GMT | How to Secure Your Next.js Application Against Common Threats | Sonali Nogja | [Read More](https://medium.com/p/65c4ee072795) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 16:44:53 GMT | بسم الله الرحمن الرحيم | Abu Maryam Rahmat | [Read More](https://medium.com/p/7e837698fe4b) |
 | Wed, 30 Apr 2025 16:41:42 GMT | Data Breaches | Nicole Tay | [Read More](https://medium.com/p/6a51b6e7db46) |
 | Wed, 30 Apr 2025 16:41:05 GMT | Network Penetration Testing | ANGGA | [Read More](https://medium.com/p/f5595dc37341) |
-| Wed, 30 Apr 2025 16:40:13 GMT | Scanning a Local Network with Metasploit and Nmap: A Cybersecurity Reconnaissance Walkthrough | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/66e134f9a99b) |
-| Wed, 30 Apr 2025 16:39:50 GMT | Strengthening Your Digital Lockbox: 4 User-Friendly Alternatives to the RSA Algorithm | Chibuike Kosisochukwu | [Read More](https://medium.com/p/7addeb0f45a4) |
-| Wed, 30 Apr 2025 16:36:05 GMT | SAP Netweaver Developmentserver CVE-2025–31324 Scanning | amxlm | [Read More](https://medium.com/p/bb63fdc5144b) |
