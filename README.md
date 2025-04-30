@@ -12,10 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 16:16:57 GMT | Host & Network Penetration Testing: Exploitation CTF 3 | ImranTheExploitHunter | [Read More](https://medium.com/p/4518b884c67e) |
+| Wed, 30 Apr 2025 16:08:34 GMT | Splunk: Basics — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/693f933a4d31) |
+| Wed, 30 Apr 2025 16:07:06 GMT | SOAP - Writeup | Marvin | [Read More](https://medium.com/p/6038d3e64bd1) |
+| Wed, 30 Apr 2025 16:01:46 GMT | Generative AI Security Risks: Hidden Threats Your Organization Can’t Ignore | Ajay Kumar | [Read More](https://medium.com/p/dc6b709ee4d8) |
+| Wed, 30 Apr 2025 16:01:41 GMT | BLAST VirtualBox Lab Environment Part 1.1: pfSense | Mike | [Read More](https://medium.com/p/e56f8824d5e9) |
+| Wed, 30 Apr 2025 16:00:03 GMT | AWS — Application Security Landscape with KMS and Relational Database | Abhishek | [Read More](https://medium.com/p/005d83111b81) |
+| Wed, 30 Apr 2025 15:58:33 GMT | The Dark Side of Solana: Examining Major Security Exploits | Joel Emmanuel | [Read More](https://medium.com/p/0a66956cd7cd) |
+| Wed, 30 Apr 2025 15:56:37 GMT | Building Resilience Beyond Breaches: Lessons from SKT’s Security Incident | Park Sehun | [Read More](https://medium.com/p/5ce9f6a26ac2) |
+| Wed, 30 Apr 2025 15:52:47 GMT | Why We Steer Our Quarero Security Robot With a PlayStation Controller- The Future of Human-Machine… | Marcus Koehnlein | [Read More](https://medium.com/p/fc3598d987c1) |
+| Wed, 30 Apr 2025 15:51:53 GMT | Perintah Linux untuk Penetration Testing | Syifa Sabrina A. | [Read More](https://medium.com/p/cf3e1f627485) |
+| Wed, 30 Apr 2025 15:50:44 GMT | Understanding How VPNs Optimize Online Security | James Neal | [Read More](https://medium.com/p/947cbe4fc79f) |
+| Wed, 30 Apr 2025 15:50:21 GMT | AI Governance and Disinformation Security: Building Trust in a Digital Age | Md Zishan Firoz | [Read More](https://medium.com/p/8fdc8b86fc8b) |
+| Wed, 30 Apr 2025 15:50:12 GMT | Destruktiv imkanlarına görə virusların növlərinə baxaq | Orkhan Jalalov | [Read More](https://medium.com/p/39432d9f57ee) |
+| Wed, 30 Apr 2025 15:45:42 GMT | The Most Advanced VPNs For Business And Personal Use | Melvin Erickson | [Read More](https://medium.com/p/1ee774b1240a) |
+| Wed, 30 Apr 2025 15:39:21 GMT | I Hope Someone Can See Right Through My Eyes | chi | [Read More](https://medium.com/p/b04ff42ae73e) |
 | Wed, 30 Apr 2025 15:38:04 GMT | What Is a WAF and Why Do You Need One? (Beginner-Friendly Guide) | Loria | [Read More](https://medium.com/p/879ed01d39c2) |
+| Wed, 30 Apr 2025 15:36:26 GMT | Cracks in the Chain: A Data-Driven Analysis of Solana’s Security History | ash.js | [Read More](https://medium.com/p/61c2cb9fa438) |
+| Wed, 30 Apr 2025 15:36:08 GMT | 100 Perintah Linux yang sering dipakaioleh pentester , auto jadi pentester senior | ASSRIANANG FITRA UTAMA | [Read More](https://medium.com/p/cbb572dcfd86) |
 | Wed, 30 Apr 2025 15:33:09 GMT | What Is a WAF and Why Do You Need One? (Beginner-Friendly Guide) | Quella | [Read More](https://medium.com/p/18dbb1918a2c) |
 | Wed, 30 Apr 2025 15:32:36 GMT | GZR Observer Daily — Apr 30, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/066e27e27783) |
 | Wed, 30 Apr 2025 15:31:01 GMT | Cybersecurity Essentials: Protecting Your Digital World in 2025 and Beyond | Data Defendere | [Read More](https://medium.com/p/34ed75337ee9) |
+| Wed, 30 Apr 2025 15:30:49 GMT | Discover the Joy of Bonding with Your Baby Using Momcozy’s Baby Wrap Carrier! | Sadfghgfsafd | [Read More](https://medium.com/p/d2f6f9b8b142) |
 | Wed, 30 Apr 2025 15:30:09 GMT | When Vulnerability Feels Like a Performance | Rizqie Aulia | [Read More](https://medium.com/p/4b7fb5a8a07b) |
 | Wed, 30 Apr 2025 15:30:05 GMT | Эффективная защита сайтов и приложений c SafeLine WAF | Quella | [Read More](https://medium.com/p/0c91cf8e0ccf) |
 | Wed, 30 Apr 2025 15:30:00 GMT | Metasploit: Introduction - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8bfaa2b8aff2) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 12:11:40 GMT | The Change Healthcare Ransomware Attack: A Wake-Up Call for U.S. Healthcare Cybersecurity | Sam Bishop | [Read More](https://medium.com/p/5bda5ad083be) |
 | Wed, 30 Apr 2025 12:11:22 GMT | Start Your Tech Career in 2025: Beginner IT/Cybersecurity Certifications to Earn a Competitive… | CyberSecRealm | [Read More](https://medium.com/p/e4190568cc06) |
 | Wed, 30 Apr 2025 12:08:55 GMT | How We Averted a Worldwide Crisis | John Passadino | [Read More](https://medium.com/p/3450b988d335) |
-| Wed, 30 Apr 2025 12:06:52 GMT | Reliable CCTV Maintenance and Repair Services in Dubai by Prompt Diamond | Promptdiamond | [Read More](https://medium.com/p/958a08fc96a8) |
-| Wed, 30 Apr 2025 12:04:06 GMT | How to Install and Use AnonPhisher in Termux: A Simple Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/334ef9aad604) |
-| Wed, 30 Apr 2025 12:02:40 GMT | 5 Common Cybersecurity Threats and How to Prevent Them | Tech Solutions | [Read More](https://medium.com/p/6cc0398f22ab) |
-| Wed, 30 Apr 2025 12:01:19 GMT | Try Hack Me: Brain Rot | Burair Abbas | [Read More](https://medium.com/p/28128ea699a6) |
-| Wed, 30 Apr 2025 12:01:14 GMT | Deteksi dan Analisis Serangan Scanning, XSS, dan SQL Injection Berbasis Wireshark | Christopher Gilbert | [Read More](https://medium.com/p/a1000e7b88fc) |
-| Wed, 30 Apr 2025 11:56:24 GMT | KyubiSec | KyubiSec | [Read More](https://medium.com/p/5df382aac850) |
-| Wed, 30 Apr 2025 11:44:54 GMT | Phishing Exposed: How Cyber Tricksters Fool You and How to Outsmart Them | SauroNatics | [Read More](https://medium.com/p/56364cc7fa1e) |
-| Wed, 30 Apr 2025 11:36:19 GMT | Your Phone Is Getting Smarter- But At What Cost? | Hamna Nadeem | [Read More](https://medium.com/p/8ee1398782e5) |
-| Wed, 30 Apr 2025 11:35:18 GMT | What is Cryptanalysis? | InfosecTrain | [Read More](https://medium.com/p/5c7c82d86238) |
-| Wed, 30 Apr 2025 11:32:56 GMT | SQL Injection: The Silent Threat Lurking in Your Database (And How to Stop It) | SauroNatics | [Read More](https://medium.com/p/6c0b3bf35181) |
-| Wed, 30 Apr 2025 11:32:36 GMT | Key Security Components in Android & Security Metrics: The Foundation of App Security | Divyansh Dwivedi | [Read More](https://medium.com/p/e82eb5ce77de) |
-| Wed, 30 Apr 2025 11:31:50 GMT | Why Your Business Needs Professional Commercial Alarm Monitoring in Waco, TX | Jewelersleague | [Read More](https://medium.com/p/abea44f9c9db) |
-| Wed, 30 Apr 2025 11:30:14 GMT | Personalization at Scale in Pharma Isn’t Optional Anymore — Here’s How Drupal Enables It | Prevya | [Read More](https://medium.com/p/35b170dfaea9) |
-| Wed, 30 Apr 2025 11:28:47 GMT | AI in Cybersecurity: A Double-Edged Sword Forging the Future | Loginsoft | [Read More](https://medium.com/p/5747ca35801e) |
-| Wed, 30 Apr 2025 11:24:06 GMT | The Hidden Challenges of Running a Cybersecurity Community | N0H4TS | [Read More](https://medium.com/p/a2a4635365a1) |
-| Wed, 30 Apr 2025 11:24:04 GMT | It’s not the industry that’s messy, it’s our comfort zone that’s fragile. | EXLITY | [Read More](https://medium.com/p/bfcf74ac1e27) |
-| Wed, 30 Apr 2025 11:22:54 GMT | SOC141 — Phishing URL Detected — EventID: 86 on LetsDefend | Amadi Oluchi Faith | [Read More](https://medium.com/p/8490256dcacb) |
-| Wed, 30 Apr 2025 11:21:33 GMT | A Complete History of Security Incidents on Solana: Root Causes, Resolutions, and Lessons Learned. | Toluwalase Peters | [Read More](https://medium.com/p/48293b46c4bf) |
