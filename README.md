@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 06:45:51 GMT | Master Cybersecurity with the Certified Ethical Hacker V13 (CEH) Course | Certocean | [Read More](https://medium.com/p/4b4349fb3f5e) |
+| Wed, 30 Apr 2025 06:45:42 GMT | The Growth of Cybercrime: Targeted Sectors and Their Evolution | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/4cdd37b9b3b3) |
+| Wed, 30 Apr 2025 06:41:54 GMT | When Cars Talk Too Much: The Cybersecurity Risks of Connected Vehicles | tezp | [Read More](https://medium.com/p/622428aca6d5) |
+| Wed, 30 Apr 2025 06:33:38 GMT | Experts Say Cyberattacks Likely To Result In Blackouts | Devang Vashistha | [Read More](https://medium.com/p/4dfad3dac8e6) |
+| Wed, 30 Apr 2025 06:32:33 GMT | Network Management Mistakes and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/a904ff605567) |
+| Wed, 30 Apr 2025 06:30:29 GMT | Top netstat Commands Every Security+ Candidate Must Know | unica 02 | [Read More](https://medium.com/p/4116769c6ad1) |
 | Wed, 30 Apr 2025 06:26:03 GMT | Highest Paying IT Jobs in India in 2025: Roles, Skills & Salary Insights | Prism HRC | [Read More](https://medium.com/p/392680060eb0) |
 | Wed, 30 Apr 2025 06:16:44 GMT | Implementing Facial Recognition Login on Websites with FACEIO: A Step-by-Step Guide for Developers | Pius Oruko | [Read More](https://medium.com/p/6c7b09c4717d) |
 | Wed, 30 Apr 2025 06:12:18 GMT | How I Found Bugs on Adobe | RivuDon | [Read More](https://medium.com/p/16cedb79e830) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 22:16:34 GMT | A Comprehensive Guide to Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81431da5a21b) |
 | Tue, 29 Apr 2025 22:14:20 GMT | My Battle to Regain Control from Spyware | Hogan Torah | [Read More](https://medium.com/p/6727ca8cdcb1) |
 | Tue, 29 Apr 2025 22:03:19 GMT | Towards Building Safe & Secure Agentic AI | Renata R Santos | [Read More](https://medium.com/p/4bac016c3ffe) |
-| Tue, 29 Apr 2025 21:52:34 GMT | Beyond Readiness: A Portrait of Trust | Jérôme Scullino | [Read More](https://medium.com/p/f8684bc18001) |
-| Tue, 29 Apr 2025 21:49:32 GMT | Practical Cybersecurity Leadership for IT Teams — Live Webinar! | Matthew.Rosenquist | [Read More](https://medium.com/p/34654fb5e56b) |
-| Tue, 29 Apr 2025 21:49:31 GMT | How to Easily Update Your Phone or Computer Operating Systems | Savvy Cyber Kids | [Read More](https://medium.com/p/05d8834a8ae9) |
-| Tue, 29 Apr 2025 21:47:48 GMT | Teens, Racism and Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/80fa61310422) |
-| Tue, 29 Apr 2025 21:45:55 GMT | Think Your Password Is A Secret? Think Again. | Savvy Cyber Kids | [Read More](https://medium.com/p/eb561aa49100) |
-| Tue, 29 Apr 2025 21:35:12 GMT | The Silent Backdoor in MCP | Aroha blue | [Read More](https://medium.com/p/24fe313c0456) |
