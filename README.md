@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 06:26:03 GMT | Highest Paying IT Jobs in India in 2025: Roles, Skills & Salary Insights | Prism HRC | [Read More](https://medium.com/p/392680060eb0) |
+| Wed, 30 Apr 2025 06:16:44 GMT | Implementing Facial Recognition Login on Websites with FACEIO: A Step-by-Step Guide for Developers | Pius Oruko | [Read More](https://medium.com/p/6c7b09c4717d) |
+| Wed, 30 Apr 2025 06:12:18 GMT | How I Found Bugs on Adobe | RivuDon | [Read More](https://medium.com/p/16cedb79e830) |
+| Wed, 30 Apr 2025 06:11:05 GMT | 5 Common Network Management Mistakes and How to Avoid Them | Generative AI Blog | [Read More](https://medium.com/p/bd9f48b9b340) |
+| Wed, 30 Apr 2025 06:06:15 GMT | How to Detect Credential Dumping Tools like Mimikatz & LaZagne on Endpoints | Paritosh | [Read More](https://medium.com/p/c914ec745e40) |
+| Wed, 30 Apr 2025 06:05:50 GMT | $500 Bug Bounty:Open Redirection via OAuth on Shopify | Monika sharma | [Read More](https://medium.com/p/4159387482f9) |
+| Wed, 30 Apr 2025 06:04:49 GMT | Enable Microsoft Defender for Cloud using Azure Bicep! | Brian Veldman | [Read More](https://medium.com/p/81db533f2844) |
+| Wed, 30 Apr 2025 06:00:45 GMT | Certified Ethical Hacker V13 (CEH): The Ultimate Guide to Ethical Hacking and Cybersecurity… | Certocean | [Read More](https://medium.com/p/11cfb624f41d) |
+| Wed, 30 Apr 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Apr 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1f1be3e8a12f) |
+| Wed, 30 Apr 2025 05:51:58 GMT | The One Programming Concept 90% of Juniors Get Wrong | Johan L | [Read More](https://medium.com/p/3efcbc5c921b) |
+| Wed, 30 Apr 2025 05:46:18 GMT | Cloud Security Secrets: Ditch .env Files for Good! | Tyagi | [Read More](https://medium.com/p/188f59963e20) |
+| Wed, 30 Apr 2025 05:45:16 GMT | The Season of Almost | A. Reed | [Read More](https://medium.com/p/f745839d2427) |
 | Wed, 30 Apr 2025 05:32:57 GMT | TryHackMe - Git Happens - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/7edd3a1e478c) |
 | Wed, 30 Apr 2025 05:32:36 GMT | What Most People Overlook About PC Health | Metro Tech Solutions | [Read More](https://medium.com/p/27eb061a6736) |
 | Wed, 30 Apr 2025 05:32:36 GMT | Protect Your Nginx Server with Password Authentication: Single and Multiple Location Configurations… | Karthikeyantse | [Read More](https://medium.com/p/75812c64698a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 21:47:48 GMT | Teens, Racism and Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/80fa61310422) |
 | Tue, 29 Apr 2025 21:45:55 GMT | Think Your Password Is A Secret? Think Again. | Savvy Cyber Kids | [Read More](https://medium.com/p/eb561aa49100) |
 | Tue, 29 Apr 2025 21:35:12 GMT | The Silent Backdoor in MCP | Aroha blue | [Read More](https://medium.com/p/24fe313c0456) |
-| Tue, 29 Apr 2025 21:33:01 GMT | Crack Ubuntu Log In Password ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/3dd4fa0bd7a3) |
-| Tue, 29 Apr 2025 21:32:38 GMT | Gölgeme Tutunurken | Ayşe Beyza Çanakçı | [Read More](https://medium.com/p/5fe0f022ee29) |
-| Tue, 29 Apr 2025 21:32:13 GMT | Linux Command Line Kali, Penetration Tester’s Main Weapon | Jafar Umarassadulloh | [Read More](https://medium.com/p/ea872f6a9967) |
-| Tue, 29 Apr 2025 21:25:12 GMT | MacOS in the Crosshairs: How Crypto Malware is Expanding the Cyber Battlefield | Chetan Seripally | [Read More](https://medium.com/p/90344ca0ca8f) |
-| Tue, 29 Apr 2025 21:24:12 GMT | TryHackMe — Snort Challenge | Shamar Isaac | [Read More](https://medium.com/p/ed335f4c66e2) |
-| Tue, 29 Apr 2025 21:21:15 GMT | Breaking Into Cybersecurity with Brittney’s Bytes: From GRC to Red and Blue Teaming | Brittney Ginther | [Read More](https://medium.com/p/17946efaeabd) |
-| Tue, 29 Apr 2025 21:20:28 GMT | Size Matters! XKCD Was Right and The 2025 Password Table Again Proves It | Saropa Contacts News | [Read More](https://medium.com/p/6c80f4bb3e18) |
-| Tue, 29 Apr 2025 21:19:59 GMT | I Accidentally Exposed AWS Keys. What Happened Next Was a Masterclass in Cloud Persistence | Bassel Afrem | [Read More](https://medium.com/p/8a5154e4d31f) |
-| Tue, 29 Apr 2025 20:58:18 GMT | Securing Multisig Transactions on Solana: Addressing Infrastructure Vulnerabilities in the Squads… | Khaythefirst | [Read More](https://medium.com/p/74c06f5dac09) |
-| Tue, 29 Apr 2025 20:56:45 GMT | The Max Headroom Hack: The Strangest TV Hijacking in History | Jacob Ruhl | [Read More](https://medium.com/p/1eb19438daba) |
-| Tue, 29 Apr 2025 20:55:19 GMT | When Security Backfires: Why Wildcard SSL and DNSSEC Aren’t Always the Right Move | Ahmed AbdElmaqsoud | [Read More](https://medium.com/p/a70c700da5a3) |
-| Tue, 29 Apr 2025 20:53:35 GMT | De Padawan a expert: Mi viaje en TryHackMe y cómo transformó mi carrera en ciberseguridad | N0R37urn | [Read More](https://medium.com/p/5db5b498788a) |
