@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 16:44:53 GMT | بسم الله الرحمن الرحيم | Abu Maryam Rahmat | [Read More](https://medium.com/p/7e837698fe4b) |
+| Wed, 30 Apr 2025 16:41:05 GMT | Network Penetration Testing | ANGGA | [Read More](https://medium.com/p/f5595dc37341) |
+| Wed, 30 Apr 2025 16:36:05 GMT | SAP Netweaver Developmentserver CVE-2025–31324 Scanning | amxlm | [Read More](https://medium.com/p/bb63fdc5144b) |
+| Wed, 30 Apr 2025 16:35:24 GMT | How Does the Silver Ticket Actually Work? | Tvrpism | [Read More](https://medium.com/p/368ec8905edd) |
+| Wed, 30 Apr 2025 16:33:34 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/0898c3b57bc9) |
+| Wed, 30 Apr 2025 16:32:24 GMT | How Not to Need | Saavan | [Read More](https://medium.com/p/6df4f7937412) |
+| Wed, 30 Apr 2025 16:28:14 GMT | Chatting with Cursor to Improve Web Application Security | Arthur Kay | [Read More](https://medium.com/p/8fd92512f1f3) |
+| Wed, 30 Apr 2025 16:27:06 GMT | Just a Blackout? What Public Data Reveals About the Iberian Grid Collapse of April 28th, 2025 | DotZero | [Read More](https://medium.com/p/cb9acc1f783a) |
 | Wed, 30 Apr 2025 16:16:57 GMT | Host & Network Penetration Testing: Exploitation CTF 3 | ImranTheExploitHunter | [Read More](https://medium.com/p/4518b884c67e) |
 | Wed, 30 Apr 2025 16:08:34 GMT | Splunk: Basics — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/693f933a4d31) |
 | Wed, 30 Apr 2025 16:07:06 GMT | SOAP - Writeup | Marvin | [Read More](https://medium.com/p/6038d3e64bd1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 12:35:38 GMT | Unlocking Secure Data for Energy and Mobility — Why We Invested in VIA | MMV Climate Tech | [Read More](https://medium.com/p/4126ee04ed6b) |
 | Wed, 30 Apr 2025 12:32:24 GMT | Capture your mobile traffic via Burp Suite. | Yuvaraj | [Read More](https://medium.com/p/6bd328faa765) |
 | Wed, 30 Apr 2025 12:28:13 GMT | The Essential Future of Cybersecurity: Trends, AI, and Predictions | Jenny smith | [Read More](https://medium.com/p/2872bbc84705) |
-| Wed, 30 Apr 2025 12:26:25 GMT | Softech CTF 2025 — Forensics Challenges | Alyan Gulzar | [Read More](https://medium.com/p/e6b8b23d7c2f) |
-| Wed, 30 Apr 2025 12:17:43 GMT | The Hidden Costs of Reactive IT: Why a Proactive Approach Is Worth the Investment | Tier3MD | [Read More](https://medium.com/p/4fe8c3e794de) |
-| Wed, 30 Apr 2025 12:17:00 GMT | Understanding User Input Security: Bypasses, Techniques, and Real Examples | Mr. Lucifer | [Read More](https://medium.com/p/dade12f36653) |
-| Wed, 30 Apr 2025 12:15:27 GMT | Underground Fraud Economy | Emraan Keezar | [Read More](https://medium.com/p/b1f567d837ec) |
-| Wed, 30 Apr 2025 12:12:13 GMT | A Very Real Threat With Very Real Answers | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/5c18774a5502) |
-| Wed, 30 Apr 2025 12:11:40 GMT | The Change Healthcare Ransomware Attack: A Wake-Up Call for U.S. Healthcare Cybersecurity | Sam Bishop | [Read More](https://medium.com/p/5bda5ad083be) |
-| Wed, 30 Apr 2025 12:11:22 GMT | Start Your Tech Career in 2025: Beginner IT/Cybersecurity Certifications to Earn a Competitive… | CyberSecRealm | [Read More](https://medium.com/p/e4190568cc06) |
-| Wed, 30 Apr 2025 12:08:55 GMT | How We Averted a Worldwide Crisis | John Passadino | [Read More](https://medium.com/p/3450b988d335) |
