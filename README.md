@@ -12,12 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 23:09:15 GMT | How AI Is Reshaping Cybersecurity in the U.S. — And How Businesses Can Prepare | Jazz Cyber Shield | [Read More](https://medium.com/p/f495dd4c5a3b) |
+| Wed, 30 Apr 2025 23:04:48 GMT | Why Secure Data Transfer Matters | Akshay Chauhan | [Read More](https://medium.com/p/14e42684c19a) |
+| Wed, 30 Apr 2025 22:54:27 GMT | How to Secure Your Next.js Application Against Common Threats | Sonali Nogja | [Read More](https://medium.com/p/65c4ee072795) |
+| Wed, 30 Apr 2025 22:46:27 GMT | How to Secure Your Supply Chain from Cyber Threats | Akshay Chauhan | [Read More](https://medium.com/p/d7748194952f) |
+| Wed, 30 Apr 2025 22:43:16 GMT | SecurityX? Is it worth it? | Zumi Yumi | [Read More](https://medium.com/p/19e17ad27922) |
+| Wed, 30 Apr 2025 22:40:24 GMT | SSTI ve CSTI Zafiyetlerini Anlamak | Hilmi Enginar | [Read More](https://medium.com/p/c7d4979bd7ea) |
+| Wed, 30 Apr 2025 22:40:24 GMT | Coding For Kids: Encouraging Children to Explore Coding | Savvy Cyber Kids | [Read More](https://medium.com/p/358b3a43db07) |
+| Wed, 30 Apr 2025 22:38:44 GMT | Social Media Privacy Checkups | Savvy Cyber Kids | [Read More](https://medium.com/p/152fe3e07dff) |
+| Wed, 30 Apr 2025 22:31:31 GMT | How Technology May Affect Your Children’s Sleep | Savvy Cyber Kids | [Read More](https://medium.com/p/055e361a00da) |
 | Wed, 30 Apr 2025 22:26:08 GMT | Why Proactive Cybersecurity Is the Edge Every Business Needs | Cyber-AppSec | [Read More](https://medium.com/p/55d530b3c96f) |
 | Wed, 30 Apr 2025 22:18:30 GMT | Siteler Arası Betik Çalıştırma (XSS) Zafiyeti | Furkan Ayyıldız | [Read More](https://medium.com/p/56b0049fa65f) |
 | Wed, 30 Apr 2025 22:17:11 GMT | Part 2: 10 Essential Websites Every Security Researcher Should Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/de799110f476) |
 | Wed, 30 Apr 2025 22:14:54 GMT | Fortify Your Website: 10 HTTP Security Headers You Can’t Afford to Miss | redhunter1444 | [Read More](https://medium.com/p/98f0eec1e756) |
 | Wed, 30 Apr 2025 22:03:04 GMT | SOC292 — Possible PHP Injection Detected (CVE-2024–4577) Write-up | Dh | [Read More](https://medium.com/p/2ce1d03d5de0) |
 | Wed, 30 Apr 2025 22:02:59 GMT | Out-of-Bounds Read Podcast — “Root Cause Mapping and the CWE Top 25” | CWE Program | [Read More](https://medium.com/p/566323c9c39d) |
+| Wed, 30 Apr 2025 21:57:20 GMT | El Ransomware como una causa de fallecimiento | Tiziano Mass | [Read More](https://medium.com/p/9ebcbec8e229) |
 | Wed, 30 Apr 2025 21:54:03 GMT | You Think You’re Growing — You’re Just Consuming | Hamza ELGADI | [Read More](https://medium.com/p/21074a27c582) |
 | Wed, 30 Apr 2025 21:49:25 GMT | From Zero to SIA Hero: The Ultimate 2025 Guide to Getting Licensed and Landing Security Jobs in… | AjayKrish | [Read More](https://medium.com/p/3e3c5d88dacc) |
 | Wed, 30 Apr 2025 21:48:35 GMT | The New Frontier of Cybersecurity: Autonomous Agents Powered by Generative AI | Gonzalo Surribas Sayago | [Read More](https://medium.com/p/0efa1584f884) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 16:40:13 GMT | Scanning a Local Network with Metasploit and Nmap: A Cybersecurity Reconnaissance Walkthrough | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/66e134f9a99b) |
 | Wed, 30 Apr 2025 16:39:50 GMT | Strengthening Your Digital Lockbox: 4 User-Friendly Alternatives to the RSA Algorithm | Chibuike Kosisochukwu | [Read More](https://medium.com/p/7addeb0f45a4) |
 | Wed, 30 Apr 2025 16:36:05 GMT | SAP Netweaver Developmentserver CVE-2025–31324 Scanning | amxlm | [Read More](https://medium.com/p/bb63fdc5144b) |
-| Wed, 30 Apr 2025 16:35:24 GMT | How Does the Silver Ticket Actually Work? | Tvrpism | [Read More](https://medium.com/p/368ec8905edd) |
-| Wed, 30 Apr 2025 16:33:34 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/0898c3b57bc9) |
-| Wed, 30 Apr 2025 16:32:24 GMT | How Not to Need | Saavan | [Read More](https://medium.com/p/6df4f7937412) |
-| Wed, 30 Apr 2025 16:28:14 GMT | Chatting with Cursor to Improve Web Application Security | Arthur Kay | [Read More](https://medium.com/p/8fd92512f1f3) |
-| Wed, 30 Apr 2025 16:27:06 GMT | Just a Blackout? What Public Data Reveals About the Iberian Grid Collapse of April 28th, 2025 | DotZero | [Read More](https://medium.com/p/cb9acc1f783a) |
-| Wed, 30 Apr 2025 16:16:57 GMT | Host & Network Penetration Testing: Exploitation CTF 3 | ImranTheExploitHunter | [Read More](https://medium.com/p/4518b884c67e) |
-| Wed, 30 Apr 2025 16:08:34 GMT | Splunk: Basics — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/693f933a4d31) |
-| Wed, 30 Apr 2025 16:07:06 GMT | SOAP - Writeup | Marvin | [Read More](https://medium.com/p/6038d3e64bd1) |
-| Wed, 30 Apr 2025 16:01:46 GMT | Generative AI Security Risks: Hidden Threats Your Organization Can’t Ignore | Ajay Kumar | [Read More](https://medium.com/p/dc6b709ee4d8) |
-| Wed, 30 Apr 2025 16:01:41 GMT | BLAST VirtualBox Lab Environment Part 1.1: pfSense | Mike | [Read More](https://medium.com/p/e56f8824d5e9) |
