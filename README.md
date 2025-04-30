@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 04:39:46 GMT | One OTP to Rule Them All: How I Replayed a Single Response and Logged in Forever on target.com | Nayan Choudhary | [Read More](https://medium.com/p/f58e58261607) |
+| Wed, 30 Apr 2025 04:32:38 GMT | Cybersecurity Basics Refresher Series(Part 3): TLS/SSL Explained — How Secure Communication… | Atharva Sardesai | [Read More](https://medium.com/p/47ebcb98a497) |
+| Wed, 30 Apr 2025 04:32:21 GMT | Cybersecurity is a Team Sport: Let’s Stop Overlooking Key Players | Amit Ambekar | [Read More](https://medium.com/p/4f03013aabca) |
+| Wed, 30 Apr 2025 04:29:42 GMT | How to Disable Right-Click Context Menu on a Web Page (With Example) | Bhavesh Doshi | [Read More](https://medium.com/p/82ee0464ec44) |
+| Wed, 30 Apr 2025 04:26:30 GMT | The Dangerous Life of an Old Email Address | Sam Galope | [Read More](https://medium.com/p/839f9c28abab) |
 | Wed, 30 Apr 2025 04:21:17 GMT | Memory Analysis Introduction — TryHackMe Room | Samriddhi | [Read More](https://medium.com/p/e698afb45125) |
+| Wed, 30 Apr 2025 04:17:56 GMT | Enforcing policy-as-code: Open Policy Agent (OPA) | Raunak Balchandani | [Read More](https://medium.com/p/508883d6c0e8) |
 | Wed, 30 Apr 2025 04:09:17 GMT | Mystery at Sea: Norway’s Underwater Internet Cable Damaged, Raising Fears of Sabotage | Dipayan Ghosh | [Read More](https://medium.com/p/49845fdae1d4) |
 | Wed, 30 Apr 2025 04:09:14 GMT | Why JWT Needs a Secret If It’s Not Encrypted | Sergey Egorenkov | [Read More](https://medium.com/p/0e119cebd437) |
 | Wed, 30 Apr 2025 03:56:27 GMT | When Trust Turns Toxic: Weaponizing CustomGPTs for Phishing Attacks via DarkMind and Evilginx | Red Threat Cyber Security | [Read More](https://medium.com/p/f0b7e723ccf0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 19:42:10 GMT | Anomaly Detection via Autoencoder in ARM Assembly | Etibar Aliyev | [Read More](https://medium.com/p/95c1f6ba99da) |
 | Tue, 29 Apr 2025 19:35:03 GMT | Unlock Bounties by Simply Reading: A Smart Way to Earn | Reju Kole | [Read More](https://medium.com/p/63a1cb410450) |
 | Tue, 29 Apr 2025 19:32:32 GMT | You Survived Y2K Bug — You Won’t Survive Y2K38 Bug | Shaant | [Read More](https://medium.com/p/e813d31a6daa) |
-| Tue, 29 Apr 2025 19:31:16 GMT | ENDPOINT DETECTION AND RESPONSE(EDR) SIMULATION | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/3b74d40e33f1) |
-| Tue, 29 Apr 2025 19:29:44 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges Explained (Part -1) | CH3TAN | [Read More](https://medium.com/p/17a7f57ea87b) |
-| Tue, 29 Apr 2025 19:29:01 GMT | From Ecuador  to Tech: My Journey into Cybersecurity | er3bit | [Read More](https://medium.com/p/4eeba54bb7ed) |
-| Tue, 29 Apr 2025 19:23:38 GMT | JS-URL-Endpoint-Harvester | Lukas Simunovic | [Read More](https://medium.com/p/5885d3a69ef6) |
-| Tue, 29 Apr 2025 19:17:02 GMT | Overview: Tesla, Inc. | Mercedes Rogers | [Read More](https://medium.com/p/a82156231024) |
-| Tue, 29 Apr 2025 19:16:06 GMT | Integration security challenges in AI-assisted coding tools | Zahwah Jameel | [Read More](https://medium.com/p/219dcbd90114) |
