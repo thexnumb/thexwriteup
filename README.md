@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 30 Apr 2025 07:18:32 GMT | Retail CRM Software Trends to Watch in 2025 | Dynamics 365 Retail | [Read More](https://medium.com/p/4ddecd73c421) |
+| Wed, 30 Apr 2025 07:14:29 GMT | ️ Penetration Testing: DNS & DHCP | 0b1d1 | [Read More](https://medium.com/p/ed7f27d493ae) |
+| Wed, 30 Apr 2025 07:10:37 GMT | Strategic Role of Artificial Intelligence (AI) in ARCHANGEL 2.0 Firewall System from PT. SYDECO | Sydeco Indonesia | [Read More](https://medium.com/p/799ab6a46a03) |
+| Wed, 30 Apr 2025 07:09:28 GMT | The Daily Tech Digest: 30 April 2025 | Souren Stepanyan | [Read More](https://medium.com/p/3c929ce7b68f) |
+| Wed, 30 Apr 2025 07:06:15 GMT | Boost Your Career with Software Development in Chandigarh — CNT Technologies 2025 | Cnt Technologies | [Read More](https://medium.com/p/95cba6ac324f) |
+| Wed, 30 Apr 2025 07:03:44 GMT | Generative AI and the Future of Cybersecurity: What to Expect in 2025 | Miraroy | [Read More](https://medium.com/p/fe6d6947277a) |
+| Wed, 30 Apr 2025 07:01:30 GMT | From BPO to Cybersecurity: My Journey to Passing the eJPT Certification | Harmit Warang (g0tr0_0t?) | [Read More](https://medium.com/p/c52a6b7249c3) |
+| Wed, 30 Apr 2025 06:56:36 GMT | Unit Of Work Was the X++ Hero We Needed — Then Microsoft Killed It | Namir Sagheenanajar | [Read More](https://medium.com/p/45dc478df80b) |
+| Wed, 30 Apr 2025 06:52:39 GMT | Become a Data Science Expert — From Basics to Breakthroughs! | Scope Computers | [Read More](https://medium.com/p/320a103d782d) |
+| Wed, 30 Apr 2025 06:51:18 GMT | Recent Microsoft Security Fixes: Outlook and Windows Server Explained | Nexsecura | [Read More](https://medium.com/p/7acfaa1c0119) |
+| Wed, 30 Apr 2025 06:50:42 GMT | Critical Flaws in Commvault and Broadcom Software: An Urgent Call to Action | Nexsecura | [Read More](https://medium.com/p/93ba24d54eba) |
 | Wed, 30 Apr 2025 06:45:51 GMT | Master Cybersecurity with the Certified Ethical Hacker V13 (CEH) Course | Certocean | [Read More](https://medium.com/p/4b4349fb3f5e) |
 | Wed, 30 Apr 2025 06:45:42 GMT | The Growth of Cybercrime: Targeted Sectors and Their Evolution | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/4cdd37b9b3b3) |
 | Wed, 30 Apr 2025 06:41:54 GMT | When Cars Talk Too Much: The Cybersecurity Risks of Connected Vehicles | tezp | [Read More](https://medium.com/p/622428aca6d5) |
+| Wed, 30 Apr 2025 06:41:46 GMT | Proton Mail’s Indian Showdown: AI Deepfakes Spark a Nationwide Ban Threat | Ismail Tasdelen | [Read More](https://medium.com/p/99f58d1b65c3) |
 | Wed, 30 Apr 2025 06:33:38 GMT | Experts Say Cyberattacks Likely To Result In Blackouts | Devang Vashistha | [Read More](https://medium.com/p/4dfad3dac8e6) |
 | Wed, 30 Apr 2025 06:32:33 GMT | Network Management Mistakes and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/a904ff605567) |
 | Wed, 30 Apr 2025 06:30:29 GMT | Top netstat Commands Every Security+ Candidate Must Know | unica 02 | [Read More](https://medium.com/p/4116769c6ad1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 29 Apr 2025 23:23:09 GMT | Operation Root Access — Walkthrough | Nikhil Shakya | [Read More](https://medium.com/p/ecf33ed93667) |
 | Tue, 29 Apr 2025 23:20:01 GMT | How to Securely Manage Accounts in Alibaba Cloud | Jacky Yau | [Read More](https://medium.com/p/1e4d64c000fd) |
 | Tue, 29 Apr 2025 23:19:18 GMT | Documenting my Experiences with the 2025 WiCyS Security Training Scholarship Program — Part 2… | Crislana Rafael | [Read More](https://medium.com/p/f0798aa506d1) |
-| Tue, 29 Apr 2025 23:08:51 GMT | SOC286 — Potential OS Discovery via WMIC.exe | Dh | [Read More](https://medium.com/p/15da69863a76) |
-| Tue, 29 Apr 2025 22:58:25 GMT | Güvenlikte Yeni Dönem: Zero Trust Yaklaşımı ve Uygulama Yöntemleri | Talha Memiş | [Read More](https://medium.com/p/7f7d30c3e223) |
-| Tue, 29 Apr 2025 22:54:18 GMT | Data Security: Invest Before It’s Too Late | Faraz Ishaq | [Read More](https://medium.com/p/6f6415b3b25c) |
-| Tue, 29 Apr 2025 22:46:27 GMT | NVIDIA and IBM’s Contribution to Agentic AI for Cybersecurity with Increased Technology | Derrick Johnson | [Read More](https://medium.com/p/023185dc1a19) |
-| Tue, 29 Apr 2025 22:43:17 GMT | QRadar AMI Installation and Network Traffic Monitoring Configuration on AWS | Karimov | [Read More](https://medium.com/p/780248528cdb) |
-| Tue, 29 Apr 2025 22:38:36 GMT | CTF Pyrat - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/4854ae8514f8) |
-| Tue, 29 Apr 2025 22:36:34 GMT | COOL CLIMATE, WARM TENSIONS: NATO, RESOURCE SECURITY, & STRATEGIC FRAGMENTATION IN THE ARCTIC | Jonathan Petsche | [Read More](https://medium.com/p/7151a30a0395) |
-| Tue, 29 Apr 2025 22:17:57 GMT | Behind the Firewall: Real-World Security Risks in .NET 9 Web APIs | Adem KORKMAZ | [Read More](https://medium.com/p/1cf90c6ad3e6) |
-| Tue, 29 Apr 2025 22:17:34 GMT | Zero-Downtime & Secure Kubernetes Deployments on EKS with Argo Rollouts and Vault — A Real-World… | Abdihakim said | [Read More](https://medium.com/p/3af0a1d7ed31) |
-| Tue, 29 Apr 2025 22:16:34 GMT | A Comprehensive Guide to Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/81431da5a21b) |
-| Tue, 29 Apr 2025 22:14:20 GMT | My Battle to Regain Control from Spyware | Hogan Torah | [Read More](https://medium.com/p/6727ca8cdcb1) |
-| Tue, 29 Apr 2025 22:03:19 GMT | Towards Building Safe & Secure Agentic AI | Renata R Santos | [Read More](https://medium.com/p/4bac016c3ffe) |
