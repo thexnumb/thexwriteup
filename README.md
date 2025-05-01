@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 16:43:11 GMT | Why Your Cybersecurity Onboarding Emails Aren’t Working | Alexandrankwopara | [Read More](https://medium.com/p/26824f31fde2) |
+| Thu, 01 May 2025 16:38:34 GMT | Learning Cyber Security - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/4abc8ba25b89) |
+| Thu, 01 May 2025 16:34:48 GMT | How Investigating an ICICI Bank Phishing Site Uncovered a Malware Operation | Aarsh Jawa | [Read More](https://medium.com/p/45ecac000609) |
+| Thu, 01 May 2025 16:32:24 GMT | Vector: Oracle Breach — March 2025 | Faraz Ishaq | [Read More](https://medium.com/p/be89c2ac151c) |
+| Thu, 01 May 2025 16:22:20 GMT | Top-Tier Private Security Services for California Businesses | Code Four Private Security | [Read More](https://medium.com/p/47132152aeef) |
+| Thu, 01 May 2025 16:19:27 GMT | Elevate Your Team’s Look with Reliable Security Uniforms from Pro Uniforms | Prouniformsusa | [Read More](https://medium.com/p/0d994cb5e09f) |
+| Thu, 01 May 2025 16:17:50 GMT | AI and Machine Learning : Double Edged Sword | Erkan Kavas | [Read More](https://medium.com/p/093ffee1aa62) |
+| Thu, 01 May 2025 16:17:47 GMT | Top 10 AI & Tech Developments in the U.S. (May 1, 2025) | Neural Lab | [Read More](https://medium.com/p/a61138181635) |
 | Thu, 01 May 2025 16:17:13 GMT | Review of Security Research Articles: April 2025 | Lukasz Wierzbicki | [Read More](https://medium.com/p/976925d6d181) |
 | Thu, 01 May 2025 16:08:57 GMT | History Of Cyber Attacks | Manushibombaywala | [Read More](https://medium.com/p/116f0c1743ae) |
 | Thu, 01 May 2025 16:08:36 GMT | 6 Signs Your Linux Server Might Be Compromised (And What to Do Next) | Faruk Ahmed | [Read More](https://medium.com/p/5d3b4032e3cd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 10:50:27 GMT | Red Team vs Blue Team: Purple Teaming Scenarios and Exercises | Esra Kayhan | [Read More](https://medium.com/p/42111f02782d) |
 | Thu, 01 May 2025 10:49:22 GMT | India’s Leaked Identity: Why Your Aadhaar & Bank Data Costs Just ₹10 on the Dark Web | Anushree Krishna Suryavanshi | [Read More](https://medium.com/p/10fc8846e461) |
 | Thu, 01 May 2025 10:43:46 GMT | Cyber = backups aren’t enough anymore | Boïté | [Read More](https://medium.com/p/3663542040ef) |
-| Thu, 01 May 2025 10:36:06 GMT | BLAST VirtualBox Lab Environment Part 3: Active Directory | Mike | [Read More](https://medium.com/p/add44d7195de) |
-| Thu, 01 May 2025 10:35:51 GMT | Why VAPT Is Critical During Digital Transformation and Cloud Migration | West Advanced Technologies Inc | [Read More](https://medium.com/p/c6ba22c4e56d) |
-| Thu, 01 May 2025 10:32:20 GMT | CJP: Jak rozpoznać fałszywy link? Wstępne sprawdzanie adresów URL i linków skróconych | CyberNest Edu | [Read More](https://medium.com/p/e0b55f297f52) |
-| Thu, 01 May 2025 10:27:11 GMT | DarkWatchman and Sheriff Malware: Stealthy Cyberattacks Rock Russia and Ukraine ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/01ca2050520e) |
-| Thu, 01 May 2025 10:23:25 GMT | Commvault’s Azure Breach: A Zero-Day Tale of Webshells and Nation-State Hackers ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/4d23a46467d6) |
-| Thu, 01 May 2025 10:22:46 GMT | The importance of AI in Cyber Security | Matei Pandaru | [Read More](https://medium.com/p/6c2bc2477046) |
-| Thu, 01 May 2025 10:20:49 GMT | 10 AI Prompts Every DevOps Engineer Should Use to Work 10× Faster | Zudonu Osomudeya | [Read More](https://medium.com/p/3474ac59ffc1) |
-| Thu, 01 May 2025 10:18:51 GMT | SonicWall Under Siege: Hackers Exploit Flaws in SMA Devices | Ismail Tasdelen | [Read More](https://medium.com/p/56ce850f2062) |
