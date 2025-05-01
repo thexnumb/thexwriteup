@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 15:15:00 GMT | SLINGRING: A Stylish Python Reverse Shell for Ethical Hackers | Alwenperara | [Read More](https://medium.com/p/b0c9ca7d38c5) |
+| Thu, 01 May 2025 15:12:53 GMT | National Password Day 2025: Why It’s Time for UK Businesses to Rethink Password Security | Alex Hughes | [Read More](https://medium.com/p/b37a9e6dbb9f) |
+| Thu, 01 May 2025 15:12:46 GMT | How to Create and Sell Digital Products: A Step-by-Step Guide | Authenticmedia | [Read More](https://medium.com/p/f9bedd2d368b) |
+| Thu, 01 May 2025 15:12:01 GMT | Top 3 Vulnerability Assessment Tools You Should Know ️ | 0b1d1 | [Read More](https://medium.com/p/078ba8136d0f) |
+| Thu, 01 May 2025 15:04:13 GMT | World Password Day: Small Habit, Big Protection | Ajay Chandran | [Read More](https://medium.com/p/9684cfcb3f59) |
+| Thu, 01 May 2025 15:02:52 GMT | How I Used Cloudflare’s Health Checks to Bypass Their WAF Rules | Ahmed AbdElmaqsoud | [Read More](https://medium.com/p/75a8a55adcc6) |
+| Thu, 01 May 2025 15:02:38 GMT | Pentagon’s AI Power Move: How the U.S. Plans to Beat China in the Global Minerals Race | Lamidi Idris Olamide | [Read More](https://medium.com/p/e59997450cc3) |
+| Thu, 01 May 2025 15:02:15 GMT | MBCLEARN TUGAS DC — 2 | Vorzlee | [Read More](https://medium.com/p/78333ab502ab) |
+| Thu, 01 May 2025 14:56:47 GMT | TryHackMe - Psycho Break - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/ba1da6c02776) |
+| Thu, 01 May 2025 14:54:52 GMT | “Protecting Our Wisest Generation: 7 Scams Targeting Seniors & How to Outsmart Them!” | ɌƋƑ•TECH | [Read More](https://medium.com/p/63404eaa5960) |
+| Thu, 01 May 2025 14:51:50 GMT | The Significance of Secure Test Infrastructure | Torin Vale | [Read More](https://medium.com/p/f1deffa42324) |
+| Thu, 01 May 2025 14:47:29 GMT | Timestomping in Linux: Techniques, Detection, and Forensic Insights | Dean | [Read More](https://medium.com/p/3b70355d9cc5) |
+| Thu, 01 May 2025 14:46:23 GMT | THM — Network Miner | Shamar Isaac | [Read More](https://medium.com/p/394254e40050) |
+| Thu, 01 May 2025 14:42:48 GMT | Deepfake Technology: Risks & Opportunities. | EncycloTech | [Read More](https://medium.com/p/adf87d8bd68b) |
+| Thu, 01 May 2025 14:38:59 GMT | The Weight of Emptiness | Just Me, Writing | [Read More](https://medium.com/p/96602b9a321e) |
 | Thu, 01 May 2025 14:36:26 GMT | Navigating the Future of AI: A Security Deep Dive into the Model Context Protocol (A Three-Part… | Keith Foster | [Read More](https://medium.com/p/05a83af8eb7a) |
 | Thu, 01 May 2025 14:35:05 GMT | The Misuse of GenAI by Fraudsters #2 | Altan Atabarezz | [Read More](https://medium.com/p/edad9a36114d) |
 | Thu, 01 May 2025 14:24:37 GMT | Claude’s Dark Side: How AI Fueled a Global Fake Persona Campaign | Ismail Tasdelen | [Read More](https://medium.com/p/366a06b96103) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 09:32:59 GMT | Europe’s Great Blackout: A Wake-Up Call for the Age of Fragile Power | Sany | [Read More](https://medium.com/p/5f6b0bbed59b) |
 | Thu, 01 May 2025 09:31:00 GMT | Prevent XXE Injection in Symfony: Code & Fix GuidePrevent XXE Injection in Symfony: Code & Fix… | Pentest_Testing_Corp | [Read More](https://medium.com/p/31d92f9f7849) |
 | Thu, 01 May 2025 09:30:30 GMT | EternalBlue — The Exploit That Changed Everything | Aksar Ojha | [Read More](https://medium.com/p/e1f64e29a931) |
-| Thu, 01 May 2025 09:28:28 GMT | Exposed: Digigram PYKO-OUT AoIP Devices Accessible Online Without Login — CVE-2025–3927 | hacker_might | [Read More](https://medium.com/p/8f74307ba4c1) |
-| Thu, 01 May 2025 09:27:08 GMT | Hello | WinsNBA | [Read More](https://medium.com/p/933b02ba2864) |
-| Thu, 01 May 2025 09:26:29 GMT | Wireshark | Kalidasan | [Read More](https://medium.com/p/01954a44dcba) |
-| Thu, 01 May 2025 09:23:22 GMT | Art of Complex Spell | restdone | [Read More](https://medium.com/p/4681e82e74aa) |
-| Thu, 01 May 2025 09:22:20 GMT | Public Safety and Security - Security - Mindgroom | Mindgroom Career Counselling | [Read More](https://medium.com/p/2ee6aed52e8b) |
-| Thu, 01 May 2025 09:14:40 GMT | Modern Network Security Protocols and Their Effectiveness Against Emerging Threats | Amir Hossein | [Read More](https://medium.com/p/e76594a19bd9) |
-| Thu, 01 May 2025 09:11:28 GMT | ประจำวันพฤหัสบดีที่ 1 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/9d599cbbe6fb) |
-| Thu, 01 May 2025 08:43:29 GMT | A Beginner’s Complete Journey into Cybersecurity: Concepts, Tools, and Hands-on Labs | Abiseck D | [Read More](https://medium.com/p/393760845a57) |
-| Thu, 01 May 2025 08:38:54 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/6e64f1ea5725) |
-| Thu, 01 May 2025 08:37:46 GMT | How Safe is Kraken? A Comprehensive Review of the Kraken Crypto Exchange | ECOS | [Read More](https://medium.com/p/a0e0a8be6568) |
-| Thu, 01 May 2025 08:32:41 GMT | EVENT ID-( 83 )-SOC119— Proxy — Malicious Executable File Detected | MSHARI | [Read More](https://medium.com/p/50165802e1a8) |
-| Thu, 01 May 2025 08:31:12 GMT | Don’t Tell Your Secrets to Anyone — The Power of Guarding Your Inner World | Subham Pokhriyal | [Read More](https://medium.com/p/a2daf8aadb6b) |
-| Thu, 01 May 2025 08:29:15 GMT | Security in Web Development: How to Protect Your Website | Preksha | [Read More](https://medium.com/p/cd1e0dcb0145) |
-| Thu, 01 May 2025 08:06:33 GMT | My Capstone Project from Google’s GenAI Intensive: Explained Simply | Rashmi Patil | [Read More](https://medium.com/p/895e30a15578) |
-| Thu, 01 May 2025 08:06:01 GMT | Starting a New Journey | Rajkumar Neupane | [Read More](https://medium.com/p/d60f12bf2773) |
