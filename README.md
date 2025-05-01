@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 07:09:17 GMT | #10 Security & Accessibility — QA Selflearn Log | Ariiq Romero | [Read More](https://medium.com/p/de6d7aec2307) |
+| Thu, 01 May 2025 07:05:35 GMT | 3 Security Mistakes You’re Making With Your Passwords | Computerexpertadelaide | [Read More](https://medium.com/p/011b0973a4a6) |
+| Thu, 01 May 2025 07:02:34 GMT | Boost Your Endpoint Security with Latest Patches | Easy2Patch | [Read More](https://medium.com/p/e58596a8a83c) |
+| Thu, 01 May 2025 07:00:07 GMT | Linux Privilege Escalation: A Practical Guide for Hackers and Defenders | abhi mistry | [Read More](https://medium.com/p/52343a0422e7) |
+| Thu, 01 May 2025 06:59:23 GMT | SOC Lab Setup Using Wazuh and Snort 3.6 | Neethusunil | [Read More](https://medium.com/p/579e503e9995) |
+| Thu, 01 May 2025 06:56:43 GMT | Advance Your Cybersecurity Career with Certified Ethical Hacker v13 | Certocean | [Read More](https://medium.com/p/59cc679d6fda) |
 | Thu, 01 May 2025 06:47:22 GMT | Wazuh Series: Memahami dan Menerapkan File Integrity Monitoring (FIM) | Christofer rian | [Read More](https://medium.com/p/84cc56ec8408) |
+| Thu, 01 May 2025 06:44:35 GMT | Smart Home Automation Market Growth Drivers, Trends and Future Scenarios 2025–2032 | Tushar Pareek | [Read More](https://medium.com/p/4bec7b66656a) |
 | Thu, 01 May 2025 06:41:08 GMT | ️ Exploitation of CVE-2024–3400 — Palo Alto PAN-OS Command Injection (Critical) | Febriants | [Read More](https://medium.com/p/a77d5e974967) |
 | Thu, 01 May 2025 06:37:03 GMT | bruteforcing login credential ubuntu linux ova | Maliefrasyahermawan | [Read More](https://medium.com/p/542f7d673306) |
 | Thu, 01 May 2025 06:34:42 GMT | Certified Ethical Hacker v13: Your Gateway to a Career in Ethical Hacking | Certocean | [Read More](https://medium.com/p/4238e1c03b7d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 23:16:41 GMT | 5 Signs Your Business is Vulnerable to Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/a05f8eb222df) |
 | Wed, 30 Apr 2025 23:09:15 GMT | How AI Is Reshaping Cybersecurity in the U.S. — And How Businesses Can Prepare | Jazz Cyber Shield | [Read More](https://medium.com/p/f495dd4c5a3b) |
 | Wed, 30 Apr 2025 23:04:48 GMT | Why Secure Data Transfer Matters | Akshay Chauhan | [Read More](https://medium.com/p/14e42684c19a) |
-| Wed, 30 Apr 2025 22:54:27 GMT | How to Secure Your Next.js Application Against Common Threats | Sonali Nogja | [Read More](https://medium.com/p/65c4ee072795) |
-| Wed, 30 Apr 2025 22:46:27 GMT | How to Secure Your Supply Chain from Cyber Threats | Akshay Chauhan | [Read More](https://medium.com/p/d7748194952f) |
-| Wed, 30 Apr 2025 22:43:16 GMT | SecurityX? Is it worth it? | Zumi Yumi | [Read More](https://medium.com/p/19e17ad27922) |
-| Wed, 30 Apr 2025 22:40:24 GMT | SSTI ve CSTI Zafiyetlerini Anlamak | Hilmi Enginar | [Read More](https://medium.com/p/c7d4979bd7ea) |
-| Wed, 30 Apr 2025 22:40:24 GMT | Coding For Kids: Encouraging Children to Explore Coding | Savvy Cyber Kids | [Read More](https://medium.com/p/358b3a43db07) |
-| Wed, 30 Apr 2025 22:38:44 GMT | Social Media Privacy Checkups | Savvy Cyber Kids | [Read More](https://medium.com/p/152fe3e07dff) |
-| Wed, 30 Apr 2025 22:31:31 GMT | How Technology May Affect Your Children’s Sleep | Savvy Cyber Kids | [Read More](https://medium.com/p/055e361a00da) |
