@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 19:09:42 GMT | How to hunt for (P1, P2) Blind XSS | Mostafa Alrefai | [Read More](https://medium.com/p/87e027acd85b) |
 | Thu, 01 May 2025 18:39:49 GMT | Cybersecurity Tips for Online Businesses | Zin Linn Htut | [Read More](https://medium.com/p/0b91eb28ac08) |
 | Thu, 01 May 2025 18:33:56 GMT | What is Security Testing in Cybersecurity? A Must-Know for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/83c5c8a0c337) |
 | Thu, 01 May 2025 18:33:00 GMT | How Password Hashing Works: PBKDF2, Argon2 & More | Ankita Singh | [Read More](https://medium.com/p/95cee0cd7c4a) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 12:35:33 GMT | Anomaly Detection in Network Traffic Using Machine Learning | ab | [Read More](https://medium.com/p/446b1e0ddc4e) |
 | Thu, 01 May 2025 12:35:02 GMT | Why Every Organisation Needs to Implement Phishing Simulation Testing | SecDesk | [Read More](https://medium.com/p/d2034cf59875) |
 | Thu, 01 May 2025 12:33:09 GMT | EDR Nedir? | Burak Özdelen | [Read More](https://medium.com/p/1c5741071981) |
-| Thu, 01 May 2025 12:31:42 GMT | Why Top Companies Choose Qualysec for Penetration Testing | Qualysectechnologies | [Read More](https://medium.com/p/79d8c09820ee) |
