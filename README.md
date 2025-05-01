@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 05:38:45 GMT | Exploring VoltSec.io’s | Voltsec.io | [Read More](https://medium.com/p/9d75921ff4d6) |
+| Thu, 01 May 2025 05:25:28 GMT | How Security Services in Dandenong Are Adapting to Modern Threats in 2025 | Ion Security | [Read More](https://medium.com/p/564ea5be2db7) |
+| Thu, 01 May 2025 05:22:44 GMT | Safety vs Security — SHIFT LEFT | Carolyn Peer | [Read More](https://medium.com/p/3bc9e3930628) |
+| Thu, 01 May 2025 05:18:25 GMT | “Enkripsi dalam Bayangan: Ancaman Nyata Ransomware di Dunia Digital” | Muhammad Rafi Athallah | [Read More](https://medium.com/p/d9100ae8592f) |
+| Thu, 01 May 2025 05:17:24 GMT | World Password Day: Secure Your Digital Life by Self-Hosting Vaultwarden | Prasanna Reddy | [Read More](https://medium.com/p/105eaa9bf0b0) |
 | Thu, 01 May 2025 05:11:30 GMT | The Great Iberian Blackout: A Dark Warning of a Cashless Future | Oliviero Mannucci | [Read More](https://medium.com/p/4671416a7899) |
 | Thu, 01 May 2025 04:58:11 GMT | The Perfect Digital Heist: How I, Benjamin Hunter Miller, Was a Victim of a Clone Company Scam | Benjaminmillerdev | [Read More](https://medium.com/p/14c97ac5a21c) |
 | Thu, 01 May 2025 04:49:19 GMT | Build a Future-Ready Business with Smart Network Infrastructure | R&B Networks | [Read More](https://medium.com/p/ff77ebae860f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 21:21:36 GMT | Cybersecurity in Audit Aggregation: An Essential Elenktes Priority | Elenktes | [Read More](https://medium.com/p/302775c90070) |
 | Wed, 30 Apr 2025 21:13:42 GMT | Inside Apple’s Private Cloud Compute: Can Confidential AI Be Trusted? | David Gobaud | [Read More](https://medium.com/p/4279d494d9b3) |
 | Wed, 30 Apr 2025 21:10:53 GMT | The First AI-Designed File Sharing Platform — A Glimpse Into Autonomous Businesses? | Guilherme Mariano de Souza Santos | [Read More](https://medium.com/p/3d271e687f6f) |
-| Wed, 30 Apr 2025 20:55:54 GMT | How I wrote my own encryption algorithm for the first time! | Sadra Bakhtiari | [Read More](https://medium.com/p/2ad1fea6cab3) |
-| Wed, 30 Apr 2025 20:52:42 GMT | False Positive Filtering Techniques and Automated Remediation Methods | Esra Kayhan | [Read More](https://medium.com/p/935cd254fe29) |
-| Wed, 30 Apr 2025 20:47:10 GMT | From LabHost to Lockdown: Turning 42,000 Phishing Domains into Threat Intel | Hoplon Infosec | [Read More](https://medium.com/p/1bc58eaf75d8) |
-| Wed, 30 Apr 2025 20:45:26 GMT | Could Your Toaster Be a Spy? | Tina Ginn | [Read More](https://medium.com/p/419a96d0b4a9) |
-| Wed, 30 Apr 2025 20:42:49 GMT | SSTI ve CSTI Zafiyetleri: Web Uygulamalarında Tehlikenin Sessiz Yüzü | Mehmet Deli | [Read More](https://medium.com/p/5d6370aa9e4b) |
