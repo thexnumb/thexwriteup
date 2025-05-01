@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 13:24:11 GMT | KageLeak — E-posta Sızıntılarını Tespit Eden Web Uygulaması | realkage | [Read More](https://medium.com/p/cf7f19f72b8b) |
+| Thu, 01 May 2025 13:23:50 GMT | Home Lab Series: Nmap Scan of IP Address 192.168.232.1 | Ogwuazor Lucky | [Read More](https://medium.com/p/2f0384e7318e) |
+| Thu, 01 May 2025 13:20:49 GMT | AI and Cybersecurity: The Battle Against Hackers and Threats | mann | [Read More](https://medium.com/p/5aaac301f899) |
+| Thu, 01 May 2025 13:16:13 GMT | Network Segmentation: Why Your Office Network Is a Hacker’s Buffet | Ahmad Javed | [Read More](https://medium.com/p/ed4161acbec7) |
+| Thu, 01 May 2025 13:09:21 GMT | Exploring Tor in a Cybersecurity Home Lab: Privacy, Risks, and Real-World Use Cases | Khaled Alkhatib | [Read More](https://medium.com/p/22172c729087) |
+| Thu, 01 May 2025 13:07:54 GMT | Feel like your #IoT devices are part of a grand puppet show? Guess who’s pulling the strings… | Wes Young | [Read More](https://medium.com/p/5f3d92adbf52) |
+| Thu, 01 May 2025 13:03:51 GMT | API Hacking on Mercedes-Benz | SIDDHANT SHUKLA | [Read More](https://medium.com/p/f36605954d5f) |
+| Thu, 01 May 2025 13:03:41 GMT | Sandfly:  Microsoft Sentinel Monitoring & Overview Workbook/Dashboard — See your Linux threats… | Truvis Thornton | [Read More](https://medium.com/p/4c4598ab8580) |
+| Thu, 01 May 2025 13:02:16 GMT | Hack The Box — Cicada Write-up | Ross Mitchell | [Read More](https://medium.com/p/0038ecaba5c6) |
+| Thu, 01 May 2025 13:01:44 GMT | How Secure Is Your Password? A 2025 Cybersecurity Reality Check | Peris.ai Cybersecurity | [Read More](https://medium.com/p/71aef8c2627e) |
+| Thu, 01 May 2025 13:00:52 GMT | SPX Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/57590e101bc2) |
+| Thu, 01 May 2025 12:57:19 GMT | Wireshark MCP: Your Packet Data’s New Best Friend (Now With Privacy Protection!) | sarthak siddha | [Read More](https://medium.com/p/fc8b65d3875e) |
+| Thu, 01 May 2025 12:50:22 GMT | How I Conquered the CompTIA Security+ Exam (And You Can Too!) | Saransh Mahajan | [Read More](https://medium.com/p/1b59af77aa73) |
+| Thu, 01 May 2025 12:47:44 GMT | Home Lab Series: Scan of IP Address using Nmap in a VM Environment. | Ogwuazor Lucky | [Read More](https://medium.com/p/adb0f306d7a3) |
+| Thu, 01 May 2025 12:35:33 GMT | Anomaly Detection in Network Traffic Using Machine Learning | ab | [Read More](https://medium.com/p/446b1e0ddc4e) |
 | Thu, 01 May 2025 12:35:02 GMT | Why Every Organisation Needs to Implement Phishing Simulation Testing | SecDesk | [Read More](https://medium.com/p/d2034cf59875) |
+| Thu, 01 May 2025 12:33:09 GMT | EDR Nedir? | Burak Özdelen | [Read More](https://medium.com/p/1c5741071981) |
 | Thu, 01 May 2025 12:31:42 GMT | Why Top Companies Choose Qualysec for Penetration Testing | Qualysectechnologies | [Read More](https://medium.com/p/79d8c09820ee) |
 | Thu, 01 May 2025 12:31:08 GMT | What Is the Dark Web? Dangers + How to Stay Safe | Atomic Mail | [Read More](https://medium.com/p/5abedd6388e9) |
 | Thu, 01 May 2025 12:22:01 GMT | Mapping the SK Telecom Cyberattack Through the MITRE ATT&CK Framework | Anil Yellamati | [Read More](https://medium.com/p/df1197cffdab) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 07:11:09 GMT | Security Models vs Security Frameworks | EOLO | [Read More](https://medium.com/p/27cca5506e05) |
 | Thu, 01 May 2025 07:09:17 GMT | #10 Security & Accessibility — QA Selflearn Log | Ariiq Romero | [Read More](https://medium.com/p/de6d7aec2307) |
 | Thu, 01 May 2025 07:07:33 GMT | Bank DKI’s IT Collapse: A Wake-Up Call for Indonesia’s Public Banking Sector | MITRE Doggy | [Read More](https://medium.com/p/e823050851df) |
-| Thu, 01 May 2025 07:05:35 GMT | 3 Security Mistakes You’re Making With Your Passwords | Computerexpertadelaide | [Read More](https://medium.com/p/011b0973a4a6) |
-| Thu, 01 May 2025 07:02:34 GMT | Boost Your Endpoint Security with Latest Patches | Easy2Patch | [Read More](https://medium.com/p/e58596a8a83c) |
-| Thu, 01 May 2025 07:00:07 GMT | Linux Privilege Escalation: A Practical Guide for Hackers and Defenders | abhi mistry | [Read More](https://medium.com/p/52343a0422e7) |
-| Thu, 01 May 2025 06:59:23 GMT | SOC Lab Setup Using Wazuh and Snort 3.6 | Neethusunil | [Read More](https://medium.com/p/579e503e9995) |
-| Thu, 01 May 2025 06:56:43 GMT | Advance Your Cybersecurity Career with Certified Ethical Hacker v13 | Certocean | [Read More](https://medium.com/p/59cc679d6fda) |
-| Thu, 01 May 2025 06:47:22 GMT | Wazuh Series: Memahami dan Menerapkan File Integrity Monitoring (FIM) | Christofer rian | [Read More](https://medium.com/p/84cc56ec8408) |
-| Thu, 01 May 2025 06:44:35 GMT | Smart Home Automation Market Growth Drivers, Trends and Future Scenarios 2025–2032 | Tushar Pareek | [Read More](https://medium.com/p/4bec7b66656a) |
-| Thu, 01 May 2025 06:41:08 GMT | ️ Exploitation of CVE-2024–3400 — Palo Alto PAN-OS Command Injection (Critical) | Febriants | [Read More](https://medium.com/p/a77d5e974967) |
-| Thu, 01 May 2025 06:37:03 GMT | bruteforcing login credential ubuntu linux ova | Maliefrasyahermawan | [Read More](https://medium.com/p/542f7d673306) |
-| Thu, 01 May 2025 06:34:42 GMT | Certified Ethical Hacker v13: Your Gateway to a Career in Ethical Hacking | Certocean | [Read More](https://medium.com/p/4238e1c03b7d) |
-| Thu, 01 May 2025 06:33:43 GMT | What is PAM & Why It Matters in 2025 | Amrit Sinha | [Read More](https://medium.com/p/a3c017d1b239) |
-| Thu, 01 May 2025 06:32:55 GMT | Top 10 Application Security Tools to Fortify Your Software in 2025 | Jenny smith | [Read More](https://medium.com/p/4b6e69558399) |
-| Thu, 01 May 2025 06:24:18 GMT | Most Recent Cyber Attacks and Data Breaches of April 2025 | Alice Martin | [Read More](https://medium.com/p/039f48b22ad0) |
-| Thu, 01 May 2025 06:13:05 GMT | Here Is How I Found Out Love Is Never Enough To Sustain A Relationship. | PromiseOsas | [Read More](https://medium.com/p/69d612696c2b) |
-| Thu, 01 May 2025 06:09:15 GMT | Crack Windows Password [Ethical Hacking Article] | Mr Horbio | [Read More](https://medium.com/p/cb3f0593fe58) |
-| Thu, 01 May 2025 06:05:41 GMT | KLCP Explained: What, Why, and How to Nail It | Akshat Kaushik | [Read More](https://medium.com/p/0c4bdc3c54f9) |
