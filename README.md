@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 21:30:22 GMT | Understanding Proxies: The Hidden Middlemen of Modern Networking | Diogo Neto | [Read More](https://medium.com/p/f1046d469d1e) |
+| Thu, 01 May 2025 21:29:04 GMT | RAMPCon 2025: Navigating the Future of FedRAMP and Cloud Security | Kinsey Matthews | [Read More](https://medium.com/p/3907f8d4e044) |
+| Thu, 01 May 2025 21:26:01 GMT | M&S Meltdown: Cyberattack Disrupts Stores, Sales and Trust | Hoplon Infosec | [Read More](https://medium.com/p/7e2959fa5ccb) |
+| Thu, 01 May 2025 21:22:04 GMT | Early Cascade Injection | S12 - H4CK | [Read More](https://medium.com/p/db3882a10bc7) |
+| Thu, 01 May 2025 21:19:19 GMT | Slopsquatting: Yes, It Is As Stupid As It Sounds | Andrew Zuo | [Read More](https://medium.com/p/973dab6d92e7) |
 | Thu, 01 May 2025 21:12:24 GMT | DNS Tunneling Detection: Hunting via Passive DNS Logs | Esra Kayhan | [Read More](https://medium.com/p/a6fd761ff822) |
 | Thu, 01 May 2025 21:09:03 GMT | AI Security: Hacking the AI- How People Jailbreak LLMs And Why It Matters | Mariem Jabloun | [Read More](https://medium.com/p/154267edc5ca) |
 | Thu, 01 May 2025 21:08:54 GMT | The Rise of Job Offer Scams on LinkedIn and WhatsApp: What You Need to Know | Suhas Gaikwad | [Read More](https://medium.com/p/3321cf848bb9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 14:36:26 GMT | Navigating the Future of AI: A Security Deep Dive into the Model Context Protocol (A Three-Part… | Keith Foster | [Read More](https://medium.com/p/05a83af8eb7a) |
 | Thu, 01 May 2025 14:35:05 GMT | The Misuse of GenAI by Fraudsters #2 | Altan Atabarezz | [Read More](https://medium.com/p/edad9a36114d) |
 | Thu, 01 May 2025 14:24:37 GMT | Claude’s Dark Side: How AI Fueled a Global Fake Persona Campaign | Ismail Tasdelen | [Read More](https://medium.com/p/366a06b96103) |
-| Thu, 01 May 2025 14:23:11 GMT | The Ultimate Guide to a Successful Career in Cybersecurity | Abdelaziz moustakim | [Read More](https://medium.com/p/ff2887d9c552) |
-| Thu, 01 May 2025 14:21:15 GMT | Inside the Mind of a Hacker: What Makes Mythic C2 So Powerful? | Yua Mikanana | [Read More](https://medium.com/p/7c569c63b687) |
-| Thu, 01 May 2025 14:18:30 GMT | “Riders of Justice”: A Study of Genius, Grief, and Charisma Rewritten | Dewmini Gunasekera | [Read More](https://medium.com/p/2799e59d2823) |
-| Thu, 01 May 2025 14:16:35 GMT | Pentesting Oracle TNS Listeners on Default Ports 1521–1529: Techniques, Tools & Remediation | Very Lazy Tech | [Read More](https://medium.com/p/1a11b1413b0d) |
-| Thu, 01 May 2025 14:13:25 GMT | Fileless Plugin Execution: Running Python Payloads In-Memory for C2 Implants | Maxwell Cross | [Read More](https://medium.com/p/6fa4ef6f41f8) |
