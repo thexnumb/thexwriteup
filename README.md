@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 15:21:07 GMT | Helicopter Administrators — 247CTF solution writeup | Adithya M S | [Read More](https://medium.com/p/bc2f359b0525) |
+| Thu, 01 May 2025 15:15:58 GMT | Workers’ Day | Faustino Henriques | [Read More](https://medium.com/p/9402d82f5c72) |
 | Thu, 01 May 2025 15:15:00 GMT | SLINGRING: A Stylish Python Reverse Shell for Ethical Hackers | Alwenperara | [Read More](https://medium.com/p/b0c9ca7d38c5) |
 | Thu, 01 May 2025 15:12:53 GMT | National Password Day 2025: Why It’s Time for UK Businesses to Rethink Password Security | Alex Hughes | [Read More](https://medium.com/p/b37a9e6dbb9f) |
 | Thu, 01 May 2025 15:12:46 GMT | How to Create and Sell Digital Products: A Step-by-Step Guide | Authenticmedia | [Read More](https://medium.com/p/f9bedd2d368b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 09:39:45 GMT | Identity and Access Management | Igor Berner | [Read More](https://medium.com/p/b22ea3ce9115) |
 | Thu, 01 May 2025 09:36:35 GMT | Detecting Anomalous Parent-Child Process Chains: A Practical Guide for Endpoint Security | Paritosh | [Read More](https://medium.com/p/77f9ddfa1d21) |
 | Thu, 01 May 2025 09:32:59 GMT | Europe’s Great Blackout: A Wake-Up Call for the Age of Fragile Power | Sany | [Read More](https://medium.com/p/5f6b0bbed59b) |
-| Thu, 01 May 2025 09:31:00 GMT | Prevent XXE Injection in Symfony: Code & Fix GuidePrevent XXE Injection in Symfony: Code & Fix… | Pentest_Testing_Corp | [Read More](https://medium.com/p/31d92f9f7849) |
-| Thu, 01 May 2025 09:30:30 GMT | EternalBlue — The Exploit That Changed Everything | Aksar Ojha | [Read More](https://medium.com/p/e1f64e29a931) |
