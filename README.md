@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 18:26:12 GMT | How to Protect Your C# Application from Malicious .XPS Files | Cloudmersive | [Read More](https://medium.com/p/cda822d0bb62) |
+| Thu, 01 May 2025 18:23:00 GMT | Locking Down Your Digital Life: My Multi-Layered Approach to Online Security | ABHSHK | [Read More](https://medium.com/p/b38c8b4ff975) |
+| Thu, 01 May 2025 18:15:27 GMT | Review of the BSCP (Burp Suite Certified Practitioner) Exam | g0k4yy | [Read More](https://medium.com/p/22f5bb501017) |
+| Thu, 01 May 2025 18:10:32 GMT | Part 2 — What types of encryption do popular apps use and are they really secure? | Pycooding | [Read More](https://medium.com/p/f2a20fbcfd0e) |
+| Thu, 01 May 2025 18:08:12 GMT | Why Waiting on Cybersecurity Could Be the Most Expensive Decision You Make | Donald Betancourt | [Read More](https://medium.com/p/fc63a905d529) |
+| Thu, 01 May 2025 18:01:54 GMT | BoogeyMan 1 - THM Writeup | Emerson32 | [Read More](https://medium.com/p/c643d8752ebe) |
+| Thu, 01 May 2025 18:01:23 GMT | Web Application Penetration Testing CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/83efd539c675) |
+| Thu, 01 May 2025 17:56:48 GMT | Public Key Encryption:Dummies Guide | Vikas Taank | [Read More](https://medium.com/p/49af3a2182e5) |
+| Thu, 01 May 2025 17:51:56 GMT | Browsing Safely: How HTTPS & HTTP Protects You Online | Tanuja chaudhari | [Read More](https://medium.com/p/51698c989567) |
+| Thu, 01 May 2025 17:51:01 GMT | Karachi’s ride-hailing services will be unified under a single system: Sharjeel | Asad Ullah | [Read More](https://medium.com/p/9835acb563ea) |
+| Thu, 01 May 2025 17:41:11 GMT | Inside the Hacker’s Toolbox: Cracking Passwords with Hashcat and John the Ripper | jiggy meow | [Read More](https://medium.com/p/a34f2caa63c4) |
 | Thu, 01 May 2025 17:32:35 GMT | Everyone Is Being Lied To About AI Agents | Zudonu Osomudeya | [Read More](https://medium.com/p/4b2e7856f226) |
 | Thu, 01 May 2025 17:31:32 GMT | Cybersecurity vs. Cyber Security: Which Is Correct? | Laurianne Apollon | [Read More](https://medium.com/p/631801db1f9b) |
 | Thu, 01 May 2025 17:30:36 GMT | Cybersecurity and Cyber Fraud Prevention: An Ultimate Guide | Abhay Shukla | [Read More](https://medium.com/p/6ab26ee99c19) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 12:02:27 GMT | The 5 Biggest Cybersecurity Mistakes Companies Still Make in 2025 | CyberGain | [Read More](https://medium.com/p/7bec07dc03f9) |
 | Thu, 01 May 2025 11:53:09 GMT | TryHackMe - Runtime Detection Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/4adc517e28b9) |
 | Thu, 01 May 2025 11:46:46 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy | [Read More](https://medium.com/p/0fa6b0b30536) |
-| Thu, 01 May 2025 11:44:32 GMT | The FBI’s LabHost Takedown: What 42,000 Phishing Domains Mean for Your Cybersecurity | Technijian | [Read More](https://medium.com/p/f68ccdd66e6c) |
-| Thu, 01 May 2025 11:38:10 GMT | RDP Forensics Part 2: Fingerprinting Attacks with Timezone and Monitor Display Resolution | thedigitaldetective | [Read More](https://medium.com/p/3ebe668d52ad) |
-| Thu, 01 May 2025 11:37:48 GMT | CRYPTOGRAPHY BASICS-- CYBER SECURITY 101-- TRYHACKME-- | Surbhi_choudhary | [Read More](https://medium.com/p/9e2764164a8a) |
-| Thu, 01 May 2025 11:33:19 GMT | Streamlining Cybersecurity Assessments with an Offline AI-Powered Web App | Lennart Erikson | [Read More](https://medium.com/p/ef18cc84f328) |
-| Thu, 01 May 2025 11:26:35 GMT | Security and Risk Management for Enterprise AI | Vasu Rao | [Read More](https://medium.com/p/355b9a2863c5) |
-| Thu, 01 May 2025 11:22:21 GMT | SOC108 — Malicious Remote Access Software Detected | Cyril Philipp Abajar | [Read More](https://medium.com/p/454803863cae) |
-| Thu, 01 May 2025 11:19:14 GMT | 5 Game-Changing IAM Trends You Can’t Ignore in 2025 | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/29ada5fd2f38) |
-| Thu, 01 May 2025 11:13:16 GMT | Analisa dan Cara Kerja XSS (Cross-Site Scripting) | Erdinurrohmat | [Read More](https://medium.com/p/60ecca7988b6) |
-| Thu, 01 May 2025 11:13:09 GMT | Private Apps in faynoSync — Keep Your Software Secure | Serhii Kuyanov | [Read More](https://medium.com/p/5a7ef8c8341c) |
-| Thu, 01 May 2025 11:11:29 GMT | Understanding Phishing and Its Many Forms | Elten John Aruja | [Read More](https://medium.com/p/c270281e9b50) |
-| Thu, 01 May 2025 11:08:19 GMT | BLAST VirtualBox Lab Environment Part 5: Domain Joining | Mike | [Read More](https://medium.com/p/67b047834540) |
