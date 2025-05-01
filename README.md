@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 09:36:35 GMT | Detecting Anomalous Parent-Child Process Chains: A Practical Guide for Endpoint Security | Paritosh | [Read More](https://medium.com/p/77f9ddfa1d21) |
+| Thu, 01 May 2025 09:32:59 GMT | Europe’s Great Blackout: A Wake-Up Call for the Age of Fragile Power | Sany | [Read More](https://medium.com/p/5f6b0bbed59b) |
+| Thu, 01 May 2025 09:31:00 GMT | Prevent XXE Injection in Symfony: Code & Fix GuidePrevent XXE Injection in Symfony: Code & Fix… | Pentest_Testing_Corp | [Read More](https://medium.com/p/31d92f9f7849) |
+| Thu, 01 May 2025 09:30:30 GMT | EternalBlue — The Exploit That Changed Everything | Aksar Ojha | [Read More](https://medium.com/p/e1f64e29a931) |
+| Thu, 01 May 2025 09:28:28 GMT | Exposed: Digigram PYKO-OUT AoIP Devices Accessible Online Without Login — CVE-2025–3927 | hacker_might | [Read More](https://medium.com/p/8f74307ba4c1) |
+| Thu, 01 May 2025 09:27:08 GMT | Hello | WinsNBA | [Read More](https://medium.com/p/933b02ba2864) |
+| Thu, 01 May 2025 09:26:29 GMT | Wireshark | Kalidasan | [Read More](https://medium.com/p/01954a44dcba) |
+| Thu, 01 May 2025 09:23:22 GMT | Art of Complex Spell | restdone | [Read More](https://medium.com/p/4681e82e74aa) |
+| Thu, 01 May 2025 09:22:20 GMT | Public Safety and Security - Security - Mindgroom | Mindgroom Career Counselling | [Read More](https://medium.com/p/2ee6aed52e8b) |
+| Thu, 01 May 2025 09:14:40 GMT | Modern Network Security Protocols and Their Effectiveness Against Emerging Threats | Amir Hossein | [Read More](https://medium.com/p/e76594a19bd9) |
+| Thu, 01 May 2025 09:11:28 GMT | ประจำวันพฤหัสบดีที่ 1 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/9d599cbbe6fb) |
 | Thu, 01 May 2025 08:43:29 GMT | A Beginner’s Complete Journey into Cybersecurity: Concepts, Tools, and Hands-on Labs | Abiseck D | [Read More](https://medium.com/p/393760845a57) |
 | Thu, 01 May 2025 08:38:54 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/6e64f1ea5725) |
 | Thu, 01 May 2025 08:37:46 GMT | How Safe is Kraken? A Comprehensive Review of the Kraken Crypto Exchange | ECOS | [Read More](https://medium.com/p/a0e0a8be6568) |
@@ -23,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 08:03:44 GMT | The Secrets Behind Subdomain Takeovers Nobody Shares | Abhijeet Kumawat | [Read More](https://medium.com/p/ba6b5d7bf258) |
 | Thu, 01 May 2025 08:03:31 GMT | How to Root any Samsung Using Magisk with Linux | Revfuser | [Read More](https://medium.com/p/3120d04215f7) |
 | Thu, 01 May 2025 08:02:31 GMT | Firefox 138 Released: New Features and Critical Security Fixes | Easy2Patch | [Read More](https://medium.com/p/cc00ac967782) |
+| Thu, 01 May 2025 07:59:01 GMT | God’s Eye di Fast & Furious: Beneran Ada atau Cuma Akal-akalan Film? | Angga Syah | [Read More](https://medium.com/p/4af90c637850) |
 | Thu, 01 May 2025 07:57:55 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/b1930d7562c4) |
 | Thu, 01 May 2025 07:48:08 GMT | Every Hacker Uses These Search Engines in 2025 | Scofield O. Idehen | [Read More](https://medium.com/p/8b5f4a8a59a3) |
 | Thu, 01 May 2025 07:46:01 GMT | 0day Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/cb2e35b42f56) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 01:57:11 GMT | Navigating the New Frontier of Generative AI Security | rajni singh | [Read More](https://medium.com/p/fac1df96f25f) |
 | Thu, 01 May 2025 01:46:00 GMT | ️‍♂️ Malware Analysis — OCSP Abuse & Registry Tampering in a .NET Sample | Arsene | [Read More](https://medium.com/p/364e2b23cdee) |
 | Thu, 01 May 2025 01:44:11 GMT | Will AI Replace Cybersecurity? The Truth About the Future of Cyber Defense | Pawan Jaiswal | [Read More](https://medium.com/p/c46a13dbc179) |
-| Thu, 01 May 2025 01:31:00 GMT | Introduction to Splunk: Collect, Search, and Detect | Daniel J. L'Episcopo | [Read More](https://medium.com/p/940dcd47b555) |
-| Thu, 01 May 2025 01:26:02 GMT | 9 Security Threats in Generative AI Agents | Tal Eliyahu | [Read More](https://medium.com/p/8485aed6efe7) |
-| Thu, 01 May 2025 01:21:31 GMT | How Much a Man Loves You Shows in His Self-Discipline | UnaTolkien | [Read More](https://medium.com/p/fbca107f0141) |
-| Thu, 01 May 2025 01:21:23 GMT | CTF Hackerverse - Write UP | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/43f1bcb4312a) |
-| Thu, 01 May 2025 01:10:28 GMT | Hack The Box Academy — Network Foundations— Introduction to Networks | bl77rd | [Read More](https://medium.com/p/9d1a7c06e239) |
-| Thu, 01 May 2025 01:01:47 GMT | OSINT Combine CTFD — Challenge: Shadow Fleet | rootsechax | [Read More](https://medium.com/p/62b46cf39fb7) |
-| Thu, 01 May 2025 01:00:54 GMT | OSINT Combine CTFD — Challenge: Proper Poppy I & II | rootsechax | [Read More](https://medium.com/p/307e6bc7366d) |
-| Thu, 01 May 2025 00:59:57 GMT | OSINT Combine CTFD — Challenge: Getting Started & Legendary Beasts | rootsechax | [Read More](https://medium.com/p/60bbe7f0467a) |
-| Thu, 01 May 2025 00:59:04 GMT | WHO’S IN THE MIDDLE? | YuvaSec | [Read More](https://medium.com/p/45dacc9a24a0) |
-| Thu, 01 May 2025 00:52:24 GMT | ️ Comparing Popular Python Speech Recognition Libraries: Vosk, Google Speech, and More! | Sivaprakash Sivakumar | [Read More](https://medium.com/p/3834becb3e5d) |
-| Thu, 01 May 2025 00:38:03 GMT | FBI Issues New Warning: Gmail Users Targeted by AI-Driven Phishing Scams | Future Ai Blog | [Read More](https://medium.com/p/4bee3f2e0dd0) |
-| Thu, 01 May 2025 00:37:11 GMT | Important tool for Pentesters & Bug hunters | loyalonlytoday | [Read More](https://medium.com/p/ea33ab1269b6) |
