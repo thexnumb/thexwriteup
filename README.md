@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 11:22:21 GMT | SOC108 — Malicious Remote Access Software Detected | Cyril Philipp Abajar | [Read More](https://medium.com/p/454803863cae) |
+| Thu, 01 May 2025 11:19:14 GMT | 5 Game-Changing IAM Trends You Can’t Ignore in 2025 | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/29ada5fd2f38) |
 | Thu, 01 May 2025 11:13:16 GMT | Analisa dan Cara Kerja XSS (Cross-Site Scripting) | Erdinurrohmat | [Read More](https://medium.com/p/60ecca7988b6) |
+| Thu, 01 May 2025 11:13:09 GMT | Private Apps in faynoSync — Keep Your Software Secure | Serhii Kuyanov | [Read More](https://medium.com/p/5a7ef8c8341c) |
+| Thu, 01 May 2025 11:11:29 GMT | Understanding Phishing and Its Many Forms | Elten John Aruja | [Read More](https://medium.com/p/c270281e9b50) |
 | Thu, 01 May 2025 11:08:19 GMT | BLAST VirtualBox Lab Environment Part 5: Domain Joining | Mike | [Read More](https://medium.com/p/67b047834540) |
 | Thu, 01 May 2025 11:02:25 GMT | $1000+ Passive Recon Strategy You’re Not Using (Yet) | It4chis3c | [Read More](https://medium.com/p/164f5b1e6231) |
 | Thu, 01 May 2025 11:00:24 GMT | Why Organizations are Failing in Their DevSecOps and Cloud Security Programs | Singh Saksham | [Read More](https://medium.com/p/55ec2337a006) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 04:58:11 GMT | The Perfect Digital Heist: How I, Benjamin Hunter Miller, Was a Victim of a Clone Company Scam | Benjaminmillerdev | [Read More](https://medium.com/p/14c97ac5a21c) |
 | Thu, 01 May 2025 04:49:19 GMT | Build a Future-Ready Business with Smart Network Infrastructure | R&B Networks | [Read More](https://medium.com/p/ff77ebae860f) |
 | Thu, 01 May 2025 04:45:31 GMT | Sysmon in Action: Why It’s Essential for Windows Threat Detection. | Sirjan Pun Magar | [Read More](https://medium.com/p/609a97b87c46) |
-| Thu, 01 May 2025 04:43:53 GMT | awal bulan main game di pelangislot | Gusti Prabu | [Read More](https://medium.com/p/88f61b9decca) |
-| Thu, 01 May 2025 04:34:23 GMT | Stored XSS: Ancaman Tersembunyi di Komentar Web | Muhammadnurulfirdaus | [Read More](https://medium.com/p/e86726efc116) |
-| Thu, 01 May 2025 04:33:19 GMT | The Sweet and Tangy Success of Pulse Candy: A Rs. 1 Revolution | Emily Wilson | [Read More](https://medium.com/p/cee4517c3ddf) |
-| Thu, 01 May 2025 04:19:51 GMT | Top 11 osCommerce Services Companies in the World | Intazar Ali | [Read More](https://medium.com/p/b34c9b18b448) |
