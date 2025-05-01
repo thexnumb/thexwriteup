@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 20:15:45 GMT | Creating an Information Security and Privacy Management Plan | Arslaan Asad | [Read More](https://medium.com/p/d23d280014bb) |
+| Thu, 01 May 2025 20:08:02 GMT | Why love is more than a feeling | Maria Bratsos | [Read More](https://medium.com/p/3c67171c5500) |
+| Thu, 01 May 2025 20:02:25 GMT | How to Respond to a Cyber Attack: A Step-by-Step Guide for Business Leaders | John Locke | [Read More](https://medium.com/p/98c59f9e1e5c) |
+| Thu, 01 May 2025 19:50:13 GMT | Building a Scalable Anomaly Detection System with OpenSearch | Furkan Gungor | [Read More](https://medium.com/p/585715542ea5) |
+| Thu, 01 May 2025 19:44:03 GMT | April Cybersecurity Recap — News, Insights and Analysis | Akila Maithripala | [Read More](https://medium.com/p/53afb2251792) |
+| Thu, 01 May 2025 19:41:02 GMT | How I Found a $5K Bug in JavaScript — A Bug Bounty Story | Krish_cyber | [Read More](https://medium.com/p/dba44140efab) |
 | Thu, 01 May 2025 19:37:21 GMT | Happy World Password Day: Secure Your Digital Life | Muhammad Naveed Arshad,MSc -Writer-Editor- AI Engr | [Read More](https://medium.com/p/aea097e837f7) |
+| Thu, 01 May 2025 19:34:08 GMT | JSRecon 101: Unearthing Hidden Secrets in JavaScript Files for Bug Bounty Success ️♂️ | Krish_cyber | [Read More](https://medium.com/p/0ee75778da59) |
 | Thu, 01 May 2025 19:29:35 GMT | The Urgency of Post-Quantum Cryptography in the Era of Quantum Chips | current.cybersecurity | [Read More](https://medium.com/p/fb75f0792d96) |
 | Thu, 01 May 2025 19:26:43 GMT | What I Learned About NIST CSF 2.0 (and Why I Think It’s Actually Kinda Cool) | Tanner Sexton | [Read More](https://medium.com/p/7a226b7a75b2) |
 | Thu, 01 May 2025 19:09:42 GMT | How to hunt for (P1, P2) Blind XSS | Mostafa Alrefai | [Read More](https://medium.com/p/87e027acd85b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 13:16:13 GMT | Network Segmentation: Why Your Office Network Is a Hacker’s Buffet | Ahmad Javed | [Read More](https://medium.com/p/ed4161acbec7) |
 | Thu, 01 May 2025 13:09:21 GMT | Exploring Tor in a Cybersecurity Home Lab: Privacy, Risks, and Real-World Use Cases | Khaled Alkhatib | [Read More](https://medium.com/p/22172c729087) |
 | Thu, 01 May 2025 13:07:54 GMT | Feel like your #IoT devices are part of a grand puppet show? Guess who’s pulling the strings… | Wes Young | [Read More](https://medium.com/p/5f3d92adbf52) |
-| Thu, 01 May 2025 13:03:51 GMT | API Hacking on Mercedes-Benz | SIDDHANT SHUKLA | [Read More](https://medium.com/p/f36605954d5f) |
-| Thu, 01 May 2025 13:03:41 GMT | Sandfly:  Microsoft Sentinel Monitoring & Overview Workbook/Dashboard — See your Linux threats… | Truvis Thornton | [Read More](https://medium.com/p/4c4598ab8580) |
-| Thu, 01 May 2025 13:02:16 GMT | Hack The Box — Cicada Write-up | Ross Mitchell | [Read More](https://medium.com/p/0038ecaba5c6) |
-| Thu, 01 May 2025 13:01:44 GMT | How Secure Is Your Password? A 2025 Cybersecurity Reality Check | Peris.ai Cybersecurity | [Read More](https://medium.com/p/71aef8c2627e) |
-| Thu, 01 May 2025 13:00:52 GMT | SPX Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/57590e101bc2) |
-| Thu, 01 May 2025 12:57:19 GMT | Wireshark MCP: Your Packet Data’s New Best Friend (Now With Privacy Protection!) | sarthak siddha | [Read More](https://medium.com/p/fc8b65d3875e) |
-| Thu, 01 May 2025 12:50:22 GMT | How I Conquered the CompTIA Security+ Exam (And You Can Too!) | Saransh Mahajan | [Read More](https://medium.com/p/1b59af77aa73) |
