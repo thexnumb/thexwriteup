@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 07:35:13 GMT | TempSafe: Secrets That Adapt and Vanish | Koshy | [Read More](https://medium.com/p/1378fae33f62) |
+| Thu, 01 May 2025 07:33:35 GMT | The Silent Exploitation: How Instagram and Telegram Are Becoming Hunting Grounds for Women’s… | Mohit Kumar | [Read More](https://medium.com/p/8e567a8e9710) |
+| Thu, 01 May 2025 07:32:26 GMT | Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on… | Gokuleswaran B | [Read More](https://medium.com/p/b76dcc3041ac) |
+| Thu, 01 May 2025 07:31:43 GMT | HOW TO HACK REDIS !! | RE4PER | [Read More](https://medium.com/p/ec8d5ff989e1) |
+| Thu, 01 May 2025 07:25:11 GMT | The Rise of Rogue SaaS Apps: What Shadow IT Looks Like in 2025 | Ignatius Gigis | [Read More](https://medium.com/p/f3895122c29c) |
+| Thu, 01 May 2025 07:11:09 GMT | Security Models vs Security Frameworks | EOLO | [Read More](https://medium.com/p/27cca5506e05) |
 | Thu, 01 May 2025 07:09:17 GMT | #10 Security & Accessibility — QA Selflearn Log | Ariiq Romero | [Read More](https://medium.com/p/de6d7aec2307) |
+| Thu, 01 May 2025 07:07:33 GMT | Bank DKI’s IT Collapse: A Wake-Up Call for Indonesia’s Public Banking Sector | MITRE Doggy | [Read More](https://medium.com/p/e823050851df) |
 | Thu, 01 May 2025 07:05:35 GMT | 3 Security Mistakes You’re Making With Your Passwords | Computerexpertadelaide | [Read More](https://medium.com/p/011b0973a4a6) |
 | Thu, 01 May 2025 07:02:34 GMT | Boost Your Endpoint Security with Latest Patches | Easy2Patch | [Read More](https://medium.com/p/e58596a8a83c) |
 | Thu, 01 May 2025 07:00:07 GMT | Linux Privilege Escalation: A Practical Guide for Hackers and Defenders | abhi mistry | [Read More](https://medium.com/p/52343a0422e7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 23:55:55 GMT | Simulating a Basic SQL Injection Using DVWA and Metasploitable | Alpondith | [Read More](https://medium.com/p/68121f2a0353) |
 | Wed, 30 Apr 2025 23:52:26 GMT | Bridging the Security Gap: Addressing Web2 Vulnerabilities in Web3 Systems | Khay | [Read More](https://medium.com/p/97fe20025297) |
 | Wed, 30 Apr 2025 23:49:57 GMT | When Cybersecurity Pros Turn Criminal | Matthew.Rosenquist | [Read More](https://medium.com/p/c92a51930bb9) |
-| Wed, 30 Apr 2025 23:47:57 GMT | Intro to Penetration Testing ~ Ethical Hacker | 0b1d1 | [Read More](https://medium.com/p/1ffd6dd597f3) |
-| Wed, 30 Apr 2025 23:39:02 GMT | A VOYAGE THROUGH SOLANA’S SECURITY LANDSCAPE | Greatness | [Read More](https://medium.com/p/ba303bd8931f) |
-| Wed, 30 Apr 2025 23:33:55 GMT | When Relationships Feel Transactional: A Reflection on Real Connection | Lisa Meints, PhD | [Read More](https://medium.com/p/300625061165) |
-| Wed, 30 Apr 2025 23:22:57 GMT | What If WhatsApp Could Read Your Mind… But Promised Not To Peek? | Jojo S. | [Read More](https://medium.com/p/9f607ed12718) |
-| Wed, 30 Apr 2025 23:16:41 GMT | 5 Signs Your Business is Vulnerable to Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/a05f8eb222df) |
-| Wed, 30 Apr 2025 23:09:15 GMT | How AI Is Reshaping Cybersecurity in the U.S. — And How Businesses Can Prepare | Jazz Cyber Shield | [Read More](https://medium.com/p/f495dd4c5a3b) |
-| Wed, 30 Apr 2025 23:04:48 GMT | Why Secure Data Transfer Matters | Akshay Chauhan | [Read More](https://medium.com/p/14e42684c19a) |
