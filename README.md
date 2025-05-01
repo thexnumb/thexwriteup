@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 16:58:48 GMT | Cyber Alert: ‘Pakistan Cyber Force’ ने राजस्थान सरकार की Websites की Hack | Hacker news 07 | [Read More](https://medium.com/p/98b098652dbf) |
+| Thu, 01 May 2025 16:49:34 GMT | Incident Response Process - TryHackMe Walkthrough | Cyber.Bae | [Read More](https://medium.com/p/68e51c68c0b4) |
 | Thu, 01 May 2025 16:43:11 GMT | Why Your Cybersecurity Onboarding Emails Aren’t Working | Alexandrankwopara | [Read More](https://medium.com/p/26824f31fde2) |
 | Thu, 01 May 2025 16:38:34 GMT | Learning Cyber Security - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/4abc8ba25b89) |
 | Thu, 01 May 2025 16:34:48 GMT | How Investigating an ICICI Bank Phishing Site Uncovered a Malware Operation | Aarsh Jawa | [Read More](https://medium.com/p/45ecac000609) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 10:56:53 GMT | Black Hats, White Hats, and Gray: Decoding the Hacker World and How It Affects You | SauroNatics | [Read More](https://medium.com/p/5fabedd30e1b) |
 | Thu, 01 May 2025 10:52:55 GMT | BLAST VirtualBox Lab Environment Part 4: Setting Up Users, Groups, and Policies | Mike | [Read More](https://medium.com/p/16ca68730b00) |
 | Thu, 01 May 2025 10:50:27 GMT | Red Team vs Blue Team: Purple Teaming Scenarios and Exercises | Esra Kayhan | [Read More](https://medium.com/p/42111f02782d) |
-| Thu, 01 May 2025 10:49:22 GMT | India’s Leaked Identity: Why Your Aadhaar & Bank Data Costs Just ₹10 on the Dark Web | Anushree Krishna Suryavanshi | [Read More](https://medium.com/p/10fc8846e461) |
-| Thu, 01 May 2025 10:43:46 GMT | Cyber = backups aren’t enough anymore | Boïté | [Read More](https://medium.com/p/3663542040ef) |
