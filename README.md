@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 21:12:24 GMT | DNS Tunneling Detection: Hunting via Passive DNS Logs | Esra Kayhan | [Read More](https://medium.com/p/a6fd761ff822) |
+| Thu, 01 May 2025 21:09:03 GMT | AI Security: Hacking the AI- How People Jailbreak LLMs And Why It Matters | Mariem Jabloun | [Read More](https://medium.com/p/154267edc5ca) |
+| Thu, 01 May 2025 21:08:54 GMT | The Rise of Job Offer Scams on LinkedIn and WhatsApp: What You Need to Know | Suhas Gaikwad | [Read More](https://medium.com/p/3321cf848bb9) |
+| Thu, 01 May 2025 21:07:52 GMT | Need guidance in bug bounty | Shahin | [Read More](https://medium.com/p/a5171d591dec) |
+| Thu, 01 May 2025 21:06:15 GMT | Firewalls vs WAFs: Defending Your Digital Fortress from the Network to the Application Layer | Diogo Neto | [Read More](https://medium.com/p/8adb236c74c3) |
+| Thu, 01 May 2025 21:02:24 GMT | NetFlow and Zeek for Network Traffic Analysis and Anomaly Detection | Esra Kayhan | [Read More](https://medium.com/p/2d8c2043886d) |
+| Thu, 01 May 2025 20:57:15 GMT | ️ The CIA Triad: The Backbone of Cybersecurity | Thakur Naman Singh | [Read More](https://medium.com/p/0937eab42a21) |
+| Thu, 01 May 2025 20:55:39 GMT | Embracing Digital Transformation to Strengthen Community Healthcare | Mahendra Aseri | [Read More](https://medium.com/p/3f53d91c9ba3) |
+| Thu, 01 May 2025 20:45:23 GMT | Why Some Cyber Threats Are Deliberately Ignored | Rouzbeh No | [Read More](https://medium.com/p/5a6b4316cc87) |
 | Thu, 01 May 2025 20:31:30 GMT | How to Prevent Malicious .EPUB File Uploads in Java | Cloudmersive | [Read More](https://medium.com/p/3c51b1a13733) |
 | Thu, 01 May 2025 20:27:56 GMT | Vulnerability Assessment with Tenable Nessus® | Bahadir Mammadli | [Read More](https://medium.com/p/e9e4288a476d) |
 | Thu, 01 May 2025 20:26:24 GMT | Detecting Malicious Traffic via SSL/TLS Handshakes: The Art of Hunting in Encrypted Streams | Esra Kayhan | [Read More](https://medium.com/p/2d6f0c5cd9fe) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 14:18:30 GMT | “Riders of Justice”: A Study of Genius, Grief, and Charisma Rewritten | Dewmini Gunasekera | [Read More](https://medium.com/p/2799e59d2823) |
 | Thu, 01 May 2025 14:16:35 GMT | Pentesting Oracle TNS Listeners on Default Ports 1521–1529: Techniques, Tools & Remediation | Very Lazy Tech | [Read More](https://medium.com/p/1a11b1413b0d) |
 | Thu, 01 May 2025 14:13:25 GMT | Fileless Plugin Execution: Running Python Payloads In-Memory for C2 Implants | Maxwell Cross | [Read More](https://medium.com/p/6fa4ef6f41f8) |
-| Thu, 01 May 2025 14:02:46 GMT | Cyber Briefing: 2025.05.01 | CyberMaterial | [Read More](https://medium.com/p/3196cbd1d890) |
-| Thu, 01 May 2025 14:02:18 GMT | Empowering a Greener Future: The RET Ecosystem’s Vision for Sustainable Innovation | Renewable Energy Token | [Read More](https://medium.com/p/91e69007acd7) |
-| Thu, 01 May 2025 13:47:29 GMT | PicoCTF Writeup — Cookie Monster Secret Recipe WalkThrough | Aliza Ibrahim | [Read More](https://medium.com/p/4216f9b733f5) |
-| Thu, 01 May 2025 13:46:16 GMT | CORS: For the Novice | CuriTe | [Read More](https://medium.com/p/02bece227d3c) |
-| Thu, 01 May 2025 13:42:49 GMT | Advancing AI in Defense Organizations - TechAhead | TechAhead - App - AI  - Web - Cloud - | [Read More](https://medium.com/p/c75690c6e4a5) |
-| Thu, 01 May 2025 13:42:25 GMT | Coaching Through Discomfort: What Male Athletes Deserve | Kip Ioane | [Read More](https://medium.com/p/e6b29457445c) |
-| Thu, 01 May 2025 13:40:58 GMT | CEH v13: A Gateway into Cybersecurity | Securium Academy | [Read More](https://medium.com/p/cdb05387c5d0) |
-| Thu, 01 May 2025 13:40:10 GMT | How to Choose the Right Cybersecurity Vendor for Your Business (2025 Guide) | SecureSlate | [Read More](https://medium.com/p/bd68cfbe60f6) |
-| Thu, 01 May 2025 13:37:35 GMT | Strengthening Attack Surface Management (ASM) with Threat Intelligence: How Loginsoft leads the Way | Loginsoft | [Read More](https://medium.com/p/86c48e2f3adf) |
