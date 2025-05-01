@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 20:31:30 GMT | How to Prevent Malicious .EPUB File Uploads in Java | Cloudmersive | [Read More](https://medium.com/p/3c51b1a13733) |
+| Thu, 01 May 2025 20:27:56 GMT | Vulnerability Assessment with Tenable Nessus® | Bahadir Mammadli | [Read More](https://medium.com/p/e9e4288a476d) |
+| Thu, 01 May 2025 20:26:24 GMT | Detecting Malicious Traffic via SSL/TLS Handshakes: The Art of Hunting in Encrypted Streams | Esra Kayhan | [Read More](https://medium.com/p/2d6f0c5cd9fe) |
+| Thu, 01 May 2025 20:26:24 GMT | Access Control and Vulnerability Exploitation | musayyab sharif | [Read More](https://medium.com/p/3f754930c852) |
+| Thu, 01 May 2025 20:21:59 GMT | HackTheBox — Lame Walkthrough | Cheryl Maise Lobo | [Read More](https://medium.com/p/e00ff76a5adf) |
+| Thu, 01 May 2025 20:19:57 GMT | Are You Wearing a Fur Coat? | Leya Meuvi | [Read More](https://medium.com/p/cab4f3c9c0ad) |
+| Thu, 01 May 2025 20:18:05 GMT | What Lurks Beneath: My Chilling Journey into the Dark Web. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/6854003f133d) |
 | Thu, 01 May 2025 20:15:45 GMT | Creating an Information Security and Privacy Management Plan | Arslaan Asad | [Read More](https://medium.com/p/d23d280014bb) |
 | Thu, 01 May 2025 20:08:02 GMT | Why love is more than a feeling | Maria Bratsos | [Read More](https://medium.com/p/3c67171c5500) |
 | Thu, 01 May 2025 20:02:25 GMT | How to Respond to a Cyber Attack: A Step-by-Step Guide for Business Leaders | John Locke | [Read More](https://medium.com/p/98c59f9e1e5c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 13:40:58 GMT | CEH v13: A Gateway into Cybersecurity | Securium Academy | [Read More](https://medium.com/p/cdb05387c5d0) |
 | Thu, 01 May 2025 13:40:10 GMT | How to Choose the Right Cybersecurity Vendor for Your Business (2025 Guide) | SecureSlate | [Read More](https://medium.com/p/bd68cfbe60f6) |
 | Thu, 01 May 2025 13:37:35 GMT | Strengthening Attack Surface Management (ASM) with Threat Intelligence: How Loginsoft leads the Way | Loginsoft | [Read More](https://medium.com/p/86c48e2f3adf) |
-| Thu, 01 May 2025 13:33:34 GMT | How to Automate Security Checks in DevOps: A Simple Tutorial | AbdulRahman Mostafa | [Read More](https://medium.com/p/4dbb1c487e26) |
-| Thu, 01 May 2025 13:24:11 GMT | KageLeak — E-posta Sızıntılarını Tespit Eden Web Uygulaması | realkage | [Read More](https://medium.com/p/cf7f19f72b8b) |
-| Thu, 01 May 2025 13:23:50 GMT | Home Lab Series: Nmap Scan of IP Address 192.168.232.1 | Ogwuazor Lucky | [Read More](https://medium.com/p/2f0384e7318e) |
-| Thu, 01 May 2025 13:20:49 GMT | AI and Cybersecurity: The Battle Against Hackers and Threats | mann | [Read More](https://medium.com/p/5aaac301f899) |
-| Thu, 01 May 2025 13:16:13 GMT | Network Segmentation: Why Your Office Network Is a Hacker’s Buffet | Ahmad Javed | [Read More](https://medium.com/p/ed4161acbec7) |
-| Thu, 01 May 2025 13:09:21 GMT | Exploring Tor in a Cybersecurity Home Lab: Privacy, Risks, and Real-World Use Cases | Khaled Alkhatib | [Read More](https://medium.com/p/22172c729087) |
-| Thu, 01 May 2025 13:07:54 GMT | Feel like your #IoT devices are part of a grand puppet show? Guess who’s pulling the strings… | Wes Young | [Read More](https://medium.com/p/5f3d92adbf52) |
