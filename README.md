@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 03:11:07 GMT | Want Better Sleep? Try Turning Off Your Wi-Fi and Putting Your Phone in Another Room | Emily Wilson | [Read More](https://medium.com/p/6462c0879961) |
+| Thu, 01 May 2025 03:09:00 GMT | Session Reuse After Logout: Vulnerability Report on Improper Session Invalidation | FufuFafa | [Read More](https://medium.com/p/3e6a8d3d1707) |
+| Thu, 01 May 2025 03:08:27 GMT | Beyond WhatsApp, Telegram & Signal: Top 5 Ultra-Secure Messaging Apps for Total Anonymity &… | Rizwan Hilal Shah (D3crypT0r) | [Read More](https://medium.com/p/10a7b6f7071e) |
+| Thu, 01 May 2025 03:02:39 GMT | Could My iPhone be Hacked? | Maria Orms | [Read More](https://medium.com/p/a6360626d937) |
+| Thu, 01 May 2025 03:02:32 GMT | A Fact Like a Pancake (Faktas Kaip Blynas — Lithuanian saying) | Ain Stærlingsson — forestbathers unit UA | [Read More](https://medium.com/p/785ebd873c65) |
+| Thu, 01 May 2025 02:42:23 GMT | Day 22: Racing Against Logic — Mastering Limit Overrun Race Conditions | Agarwaldaksh | [Read More](https://medium.com/p/4981cc66446e) |
+| Thu, 01 May 2025 02:39:30 GMT | The Invisible Wins: Why What You Don’t Post Might Be Your Biggest Victory | Emily Wilson | [Read More](https://medium.com/p/2145e0557ad5) |
+| Thu, 01 May 2025 02:33:15 GMT | SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL | rr-1k | [Read More](https://medium.com/p/261e5b2beda4) |
+| Thu, 01 May 2025 02:32:57 GMT | FIPS 140: The Best Explanation Ever (Hopefully) | Matthew Venne | [Read More](https://medium.com/p/71d3683d82ed) |
+| Thu, 01 May 2025 02:29:52 GMT | Exploring the Best in Gun Accessories: Dulce Dom’s Gun Storage Box | Ksguskdnf | [Read More](https://medium.com/p/3a39497f257d) |
+| Thu, 01 May 2025 02:28:22 GMT | Why May 1st Matters: Remembering the Struggles of Labour Day | Emily Wilson | [Read More](https://medium.com/p/46a5b7f0533c) |
+| Thu, 01 May 2025 02:01:02 GMT | Business Email Compromise (BEC): The Billion-Dollar Scam Hiding in Your Inbox | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4058a212569a) |
+| Thu, 01 May 2025 01:57:11 GMT | Navigating the New Frontier of Generative AI Security | rajni singh | [Read More](https://medium.com/p/fac1df96f25f) |
+| Thu, 01 May 2025 01:46:00 GMT | ️‍♂️ Malware Analysis — OCSP Abuse & Registry Tampering in a .NET Sample | Arsene | [Read More](https://medium.com/p/364e2b23cdee) |
 | Thu, 01 May 2025 01:44:11 GMT | Will AI Replace Cybersecurity? The Truth About the Future of Cyber Defense | Pawan Jaiswal | [Read More](https://medium.com/p/c46a13dbc179) |
 | Thu, 01 May 2025 01:31:00 GMT | Introduction to Splunk: Collect, Search, and Detect | Daniel J. L'Episcopo | [Read More](https://medium.com/p/940dcd47b555) |
 | Thu, 01 May 2025 01:26:02 GMT | 9 Security Threats in Generative AI Agents | Tal Eliyahu | [Read More](https://medium.com/p/8485aed6efe7) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 19:22:22 GMT | Privacy Principles and Regulation | 0xr4m! | [Read More](https://medium.com/p/9738a9b5cd0b) |
 | Wed, 30 Apr 2025 19:20:05 GMT | The Intelligent Investor: A Comprehensive Guide to Value Investing | Apubra Daria | [Read More](https://medium.com/p/a20a1637e3c0) |
 | Wed, 30 Apr 2025 19:13:13 GMT | Refresh Tokens Are Trickier Than Many Developers Think | Sergey Egorenkov | [Read More](https://medium.com/p/46190800ff92) |
-| Wed, 30 Apr 2025 18:57:47 GMT | Shadows of LSASS Dumping: Evasion Techniques and the Ongoing Struggle of EDR Solutions to Defend a… | Cytomate | [Read More](https://medium.com/p/2607fafc0594) |
-| Wed, 30 Apr 2025 18:56:22 GMT | How Can I Recover My Money From Triumphfx? | James | [Read More](https://medium.com/p/09f69ec1d843) |
-| Wed, 30 Apr 2025 18:54:25 GMT | Gremlin Stealer: A Deep Dive into the Emerging Information-Stealing Threat | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8b9cdfba9a69) |
-| Wed, 30 Apr 2025 18:51:01 GMT | Off-Chain, On Fire: How Web2 Vulnerabilities Still Haunt Web3 | Olaboyefavour | [Read More](https://medium.com/p/c4950957543a) |
-| Wed, 30 Apr 2025 18:42:59 GMT | Freelance Cybersecurity: How to Land Your First Client | Ahmad Javed | [Read More](https://medium.com/p/7dc4654eda50) |
-| Wed, 30 Apr 2025 18:34:24 GMT | Lessons from My First Year in Cybersecurity: What They Don’t Teach in College | NinzaBoi | [Read More](https://medium.com/p/a157ffa82f12) |
-| Wed, 30 Apr 2025 18:31:18 GMT | Mastering Google Dorking (Advanced Techniques for OSINT Professionals) | Nazrul Islam Rana | [Read More](https://medium.com/p/5cc9e36993b9) |
-| Wed, 30 Apr 2025 18:28:08 GMT | Building a Packet Sniffer in Python as a Cybersecurity Student | Mujtaba Shaikeldin | [Read More](https://medium.com/p/c24c8a2572d1) |
-| Wed, 30 Apr 2025 18:27:33 GMT | RansomHub Just Vanished — But the Plot Thickens… | The Cyber Ghost | [Read More](https://medium.com/p/a24c53f46430) |
-| Wed, 30 Apr 2025 18:27:12 GMT | BLAST VirtualBox Lab Environment Part 1.3: Configure pfSense | Mike | [Read More](https://medium.com/p/0ea9b756962e) |
-| Wed, 30 Apr 2025 18:25:50 GMT | The Human Side of Risk | Azeezah | [Read More](https://medium.com/p/95029ca362a8) |
-| Wed, 30 Apr 2025 18:23:50 GMT | I Joined a “Work from Home” Scam to See How It Works — Here’s the Ugly Truth | Kamran Khan | [Read More](https://medium.com/p/fee7d7c807ed) |
-| Wed, 30 Apr 2025 18:23:47 GMT | Edge Computing Explained: Why It Matters More Than Ever | Engin Ergen | [Read More](https://medium.com/p/a0fd1c1cce56) |
-| Wed, 30 Apr 2025 18:17:11 GMT | How to Block Insecure .XLTX Uploads in a C#/.NET App | Cloudmersive | [Read More](https://medium.com/p/7b3737b9e757) |
