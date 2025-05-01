@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 23:20:20 GMT | anaVulnerability Management in the Age of Remote Work | Akshay Chauhan | [Read More](https://medium.com/p/491d841e23cd) |
 | Thu, 01 May 2025 23:13:43 GMT | Ascension Data Breach Highlights the Growing Risks of Third-Party Cybersecurity Failures | Avnishyam | [Read More](https://medium.com/p/0b26565b7c9f) |
 | Thu, 01 May 2025 23:12:48 GMT | Nation State Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b752750c6e78) |
 | Thu, 01 May 2025 23:02:38 GMT | Tools of the Trade: Top 10 Forensics Software Every Analyst Should Know | ByteSectorX | [Read More](https://medium.com/p/37bbfcc1c386) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 15:44:18 GMT | Co-op Shuts Down IT Systems After Hack Attempt: What You Need to Know | Hoplon Infosec | [Read More](https://medium.com/p/2445c37979cb) |
 | Thu, 01 May 2025 15:43:06 GMT | FFUF(Fuzz Faster U Fool) cheat sheet | Mozammalhossaintanvir | [Read More](https://medium.com/p/27bf72f6a685) |
 | Thu, 01 May 2025 15:21:07 GMT | Helicopter Administrators — 247CTF solution writeup | Adithya M S | [Read More](https://medium.com/p/bc2f359b0525) |
-| Thu, 01 May 2025 15:15:58 GMT | Workers’ Day | Faustino Henriques | [Read More](https://medium.com/p/9402d82f5c72) |
