@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 17:32:35 GMT | Everyone Is Being Lied To About AI Agents | Zudonu Osomudeya | [Read More](https://medium.com/p/4b2e7856f226) |
+| Thu, 01 May 2025 17:31:32 GMT | Cybersecurity vs. Cyber Security: Which Is Correct? | Laurianne Apollon | [Read More](https://medium.com/p/631801db1f9b) |
+| Thu, 01 May 2025 17:30:36 GMT | Cybersecurity and Cyber Fraud Prevention: An Ultimate Guide | Abhay Shukla | [Read More](https://medium.com/p/6ab26ee99c19) |
+| Thu, 01 May 2025 17:25:38 GMT | AI and Tech for India’s Security and Economic Growth | Pankaj Kumar | [Read More](https://medium.com/p/33f594d9a008) |
+| Thu, 01 May 2025 17:24:25 GMT | A Beginner’s Guide to ISO/IEC 27001 and the Foundations of Information Security — I | Harmit Warang (göt.r0_0t?) | [Read More](https://medium.com/p/5888d07ce9b1) |
 | Thu, 01 May 2025 16:58:48 GMT | Cyber Alert: ‘Pakistan Cyber Force’ ने राजस्थान सरकार की Websites की Hack | Hacker news 07 | [Read More](https://medium.com/p/98b098652dbf) |
 | Thu, 01 May 2025 16:49:34 GMT | Incident Response Process - TryHackMe Walkthrough | Cyber.Bae | [Read More](https://medium.com/p/68e51c68c0b4) |
 | Thu, 01 May 2025 16:43:11 GMT | Why Your Cybersecurity Onboarding Emails Aren’t Working | Alexandrankwopara | [Read More](https://medium.com/p/26824f31fde2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 11:13:09 GMT | Private Apps in faynoSync — Keep Your Software Secure | Serhii Kuyanov | [Read More](https://medium.com/p/5a7ef8c8341c) |
 | Thu, 01 May 2025 11:11:29 GMT | Understanding Phishing and Its Many Forms | Elten John Aruja | [Read More](https://medium.com/p/c270281e9b50) |
 | Thu, 01 May 2025 11:08:19 GMT | BLAST VirtualBox Lab Environment Part 5: Domain Joining | Mike | [Read More](https://medium.com/p/67b047834540) |
-| Thu, 01 May 2025 11:02:25 GMT | $1000+ Passive Recon Strategy You’re Not Using (Yet) | It4chis3c | [Read More](https://medium.com/p/164f5b1e6231) |
-| Thu, 01 May 2025 11:00:24 GMT | Why Organizations are Failing in Their DevSecOps and Cloud Security Programs | Singh Saksham | [Read More](https://medium.com/p/55ec2337a006) |
-| Thu, 01 May 2025 10:56:53 GMT | Black Hats, White Hats, and Gray: Decoding the Hacker World and How It Affects You | SauroNatics | [Read More](https://medium.com/p/5fabedd30e1b) |
-| Thu, 01 May 2025 10:52:55 GMT | BLAST VirtualBox Lab Environment Part 4: Setting Up Users, Groups, and Policies | Mike | [Read More](https://medium.com/p/16ca68730b00) |
-| Thu, 01 May 2025 10:50:27 GMT | Red Team vs Blue Team: Purple Teaming Scenarios and Exercises | Esra Kayhan | [Read More](https://medium.com/p/42111f02782d) |
