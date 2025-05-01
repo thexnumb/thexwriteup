@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 22:16:24 GMT | What is Privileged Access Management (PAM) and Why It’s Vital for Cybersecurity | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe43ad0b7494) |
+| Thu, 01 May 2025 22:15:05 GMT | Why Cybersecurity Requires Passion, Not Just Skills: My Takeaways from a Globant Session | Fabián Muñoz | [Read More](https://medium.com/p/f23410f621ea) |
+| Thu, 01 May 2025 22:08:24 GMT | Wonderland — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/31db78a25319) |
+| Thu, 01 May 2025 22:01:34 GMT | Is Your Snowflake Secure? Here’s a Practical Review You Can Run Today | Eylon Steiner | [Read More](https://medium.com/p/f291d686931c) |
+| Thu, 01 May 2025 21:53:41 GMT | Discover the Future of Security with ANRAN CCTV Cameras! | vreed4565 | [Read More](https://medium.com/p/302b35a91438) |
+| Thu, 01 May 2025 21:47:25 GMT | Hacking Services Consultation - Firewall Bypass | BlackHat | [Read More](https://medium.com/p/77cf74c817ae) |
 | Thu, 01 May 2025 21:30:22 GMT | Understanding Proxies: The Hidden Middlemen of Modern Networking | Diogo Neto | [Read More](https://medium.com/p/f1046d469d1e) |
 | Thu, 01 May 2025 21:29:04 GMT | RAMPCon 2025: Navigating the Future of FedRAMP and Cloud Security | Kinsey Matthews | [Read More](https://medium.com/p/3907f8d4e044) |
 | Thu, 01 May 2025 21:26:01 GMT | M&S Meltdown: Cyberattack Disrupts Stores, Sales and Trust | Hoplon Infosec | [Read More](https://medium.com/p/7e2959fa5ccb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 14:54:52 GMT | “Protecting Our Wisest Generation: 7 Scams Targeting Seniors & How to Outsmart Them!” | ɌƋƑ•TECH | [Read More](https://medium.com/p/63404eaa5960) |
 | Thu, 01 May 2025 14:51:50 GMT | The Significance of Secure Test Infrastructure | Torin Vale | [Read More](https://medium.com/p/f1deffa42324) |
 | Thu, 01 May 2025 14:47:29 GMT | Timestomping in Linux: Techniques, Detection, and Forensic Insights | Dean | [Read More](https://medium.com/p/3b70355d9cc5) |
-| Thu, 01 May 2025 14:46:23 GMT | THM — Network Miner | Shamar Isaac | [Read More](https://medium.com/p/394254e40050) |
-| Thu, 01 May 2025 14:42:48 GMT | Deepfake Technology: Risks & Opportunities. | EncycloTech | [Read More](https://medium.com/p/adf87d8bd68b) |
-| Thu, 01 May 2025 14:38:59 GMT | The Weight of Emptiness | Just Me, Writing | [Read More](https://medium.com/p/96602b9a321e) |
-| Thu, 01 May 2025 14:36:26 GMT | Navigating the Future of AI: A Security Deep Dive into the Model Context Protocol (A Three-Part… | Keith Foster | [Read More](https://medium.com/p/05a83af8eb7a) |
-| Thu, 01 May 2025 14:35:05 GMT | The Misuse of GenAI by Fraudsters #2 | Altan Atabarezz | [Read More](https://medium.com/p/edad9a36114d) |
-| Thu, 01 May 2025 14:24:37 GMT | Claude’s Dark Side: How AI Fueled a Global Fake Persona Campaign | Ismail Tasdelen | [Read More](https://medium.com/p/366a06b96103) |
