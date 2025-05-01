@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 14:36:26 GMT | Navigating the Future of AI: A Security Deep Dive into the Model Context Protocol (A Three-Part… | Keith Foster | [Read More](https://medium.com/p/05a83af8eb7a) |
+| Thu, 01 May 2025 14:35:05 GMT | The Misuse of GenAI by Fraudsters #2 | Altan Atabarezz | [Read More](https://medium.com/p/edad9a36114d) |
+| Thu, 01 May 2025 14:24:37 GMT | Claude’s Dark Side: How AI Fueled a Global Fake Persona Campaign | Ismail Tasdelen | [Read More](https://medium.com/p/366a06b96103) |
+| Thu, 01 May 2025 14:23:11 GMT | The Ultimate Guide to a Successful Career in Cybersecurity | Abdelaziz moustakim | [Read More](https://medium.com/p/ff2887d9c552) |
+| Thu, 01 May 2025 14:21:15 GMT | Inside the Mind of a Hacker: What Makes Mythic C2 So Powerful? | Yua Mikanana | [Read More](https://medium.com/p/7c569c63b687) |
+| Thu, 01 May 2025 14:18:30 GMT | “Riders of Justice”: A Study of Genius, Grief, and Charisma Rewritten | Dewmini Gunasekera | [Read More](https://medium.com/p/2799e59d2823) |
 | Thu, 01 May 2025 14:16:35 GMT | Pentesting Oracle TNS Listeners on Default Ports 1521–1529: Techniques, Tools & Remediation | Very Lazy Tech | [Read More](https://medium.com/p/1a11b1413b0d) |
+| Thu, 01 May 2025 14:13:25 GMT | Fileless Plugin Execution: Running Python Payloads In-Memory for C2 Implants | Maxwell Cross | [Read More](https://medium.com/p/6fa4ef6f41f8) |
 | Thu, 01 May 2025 14:02:46 GMT | Cyber Briefing: 2025.05.01 | CyberMaterial | [Read More](https://medium.com/p/3196cbd1d890) |
 | Thu, 01 May 2025 14:02:18 GMT | Empowering a Greener Future: The RET Ecosystem’s Vision for Sustainable Innovation | Renewable Energy Token | [Read More](https://medium.com/p/91e69007acd7) |
 | Thu, 01 May 2025 13:47:29 GMT | PicoCTF Writeup — Cookie Monster Secret Recipe WalkThrough | Aliza Ibrahim | [Read More](https://medium.com/p/4216f9b733f5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 08:29:15 GMT | Security in Web Development: How to Protect Your Website | Preksha | [Read More](https://medium.com/p/cd1e0dcb0145) |
 | Thu, 01 May 2025 08:06:33 GMT | My Capstone Project from Google’s GenAI Intensive: Explained Simply | Rashmi Patil | [Read More](https://medium.com/p/895e30a15578) |
 | Thu, 01 May 2025 08:06:01 GMT | Starting a New Journey | Rajkumar Neupane | [Read More](https://medium.com/p/d60f12bf2773) |
-| Thu, 01 May 2025 08:03:44 GMT | The Secrets Behind Subdomain Takeovers Nobody Shares | Abhijeet Kumawat | [Read More](https://medium.com/p/ba6b5d7bf258) |
-| Thu, 01 May 2025 08:03:31 GMT | How to Root any Samsung Using Magisk with Linux | Revfuser | [Read More](https://medium.com/p/3120d04215f7) |
-| Thu, 01 May 2025 08:02:31 GMT | Firefox 138 Released: New Features and Critical Security Fixes | Easy2Patch | [Read More](https://medium.com/p/cc00ac967782) |
-| Thu, 01 May 2025 07:59:01 GMT | God’s Eye di Fast & Furious: Beneran Ada atau Cuma Akal-akalan Film? | Angga Syah | [Read More](https://medium.com/p/4af90c637850) |
-| Thu, 01 May 2025 07:57:55 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/b1930d7562c4) |
-| Thu, 01 May 2025 07:48:08 GMT | Every Hacker Uses These Search Engines in 2025 | Scofield O. Idehen | [Read More](https://medium.com/p/8b5f4a8a59a3) |
-| Thu, 01 May 2025 07:46:01 GMT | 0day Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/cb2e35b42f56) |
