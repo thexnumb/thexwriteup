@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 12:35:02 GMT | Why Every Organisation Needs to Implement Phishing Simulation Testing | SecDesk | [Read More](https://medium.com/p/d2034cf59875) |
+| Thu, 01 May 2025 12:31:42 GMT | Why Top Companies Choose Qualysec for Penetration Testing | Qualysectechnologies | [Read More](https://medium.com/p/79d8c09820ee) |
+| Thu, 01 May 2025 12:31:08 GMT | What Is the Dark Web? Dangers + How to Stay Safe | Atomic Mail | [Read More](https://medium.com/p/5abedd6388e9) |
+| Thu, 01 May 2025 12:22:01 GMT | Mapping the SK Telecom Cyberattack Through the MITRE ATT&CK Framework | Anil Yellamati | [Read More](https://medium.com/p/df1197cffdab) |
+| Thu, 01 May 2025 12:17:46 GMT | Discover the Best Investigation Agency for Personal Investigations: Your Trusted Partner in Truth | Delhi Detectives | [Read More](https://medium.com/p/349453d4b82d) |
+| Thu, 01 May 2025 12:17:15 GMT | Hack your APIs using Postman | Anurag Mewar | [Read More](https://medium.com/p/2ed24d987d47) |
+| Thu, 01 May 2025 12:09:38 GMT | USAID’s Reckless ITAD Gamble | Kyle Marks | [Read More](https://medium.com/p/621f56e1d962) |
+| Thu, 01 May 2025 12:06:36 GMT | Starting the Journey: Why Detection Engineering Needs to Evolve Beyond the Basics | Siddhant Mishra | [Read More](https://medium.com/p/3c880a2c7d81) |
+| Thu, 01 May 2025 12:02:27 GMT | The 5 Biggest Cybersecurity Mistakes Companies Still Make in 2025 | CyberGain | [Read More](https://medium.com/p/7bec07dc03f9) |
+| Thu, 01 May 2025 11:53:09 GMT | TryHackMe - Runtime Detection Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/4adc517e28b9) |
+| Thu, 01 May 2025 11:46:46 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy | [Read More](https://medium.com/p/0fa6b0b30536) |
+| Thu, 01 May 2025 11:44:32 GMT | The FBI’s LabHost Takedown: What 42,000 Phishing Domains Mean for Your Cybersecurity | Technijian | [Read More](https://medium.com/p/f68ccdd66e6c) |
+| Thu, 01 May 2025 11:38:10 GMT | RDP Forensics Part 2: Fingerprinting Attacks with Timezone and Monitor Display Resolution | thedigitaldetective | [Read More](https://medium.com/p/3ebe668d52ad) |
+| Thu, 01 May 2025 11:37:48 GMT | CRYPTOGRAPHY BASICS-- CYBER SECURITY 101-- TRYHACKME-- | Surbhi_choudhary | [Read More](https://medium.com/p/9e2764164a8a) |
+| Thu, 01 May 2025 11:33:19 GMT | Streamlining Cybersecurity Assessments with an Offline AI-Powered Web App | Lennart Erikson | [Read More](https://medium.com/p/ef18cc84f328) |
+| Thu, 01 May 2025 11:26:35 GMT | Security and Risk Management for Enterprise AI | Vasu Rao | [Read More](https://medium.com/p/355b9a2863c5) |
 | Thu, 01 May 2025 11:22:21 GMT | SOC108 — Malicious Remote Access Software Detected | Cyril Philipp Abajar | [Read More](https://medium.com/p/454803863cae) |
 | Thu, 01 May 2025 11:19:14 GMT | 5 Game-Changing IAM Trends You Can’t Ignore in 2025 | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/29ada5fd2f38) |
 | Thu, 01 May 2025 11:13:16 GMT | Analisa dan Cara Kerja XSS (Cross-Site Scripting) | Erdinurrohmat | [Read More](https://medium.com/p/60ecca7988b6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 06:13:05 GMT | Here Is How I Found Out Love Is Never Enough To Sustain A Relationship. | PromiseOsas | [Read More](https://medium.com/p/69d612696c2b) |
 | Thu, 01 May 2025 06:09:15 GMT | Crack Windows Password [Ethical Hacking Article] | Mr Horbio | [Read More](https://medium.com/p/cb3f0593fe58) |
 | Thu, 01 May 2025 06:05:41 GMT | KLCP Explained: What, Why, and How to Nail It | Akshat Kaushik | [Read More](https://medium.com/p/0c4bdc3c54f9) |
-| Thu, 01 May 2025 06:03:43 GMT | Bypassing OTP: Unlocking Vulnerabilities & Securing Your App | B4LOGI | [Read More](https://medium.com/p/a5eac4727515) |
-| Thu, 01 May 2025 06:02:03 GMT | Lab: Finding and exploiting an unused API endpoint | Mukilan Baskaran | [Read More](https://medium.com/p/79fa6744f21e) |
-| Thu, 01 May 2025 06:00:58 GMT | $500 Bounty: Hijacking HackerOne via window.opener | Monika sharma | [Read More](https://medium.com/p/e16700108e12) |
-| Thu, 01 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d04ab7daa0c6) |
-| Thu, 01 May 2025 06:00:07 GMT | How I bypassed an IP block… without changing my IP? | phoenixcatalan | [Read More](https://medium.com/p/e8082a43957b) |
-| Thu, 01 May 2025 05:52:09 GMT | From JS File to Jackpot: How I Found API Keys and Secrets Hidden in Production Code | Iski | [Read More](https://medium.com/p/87af8750b751) |
-| Thu, 01 May 2025 05:43:44 GMT | Why Cybersecurity Is Not Just About Hacking — Myths vs Reality | Ninza-_-Boi | [Read More](https://medium.com/p/841d711d9254) |
-| Thu, 01 May 2025 05:38:45 GMT | Exploring VoltSec.io’s | Voltsec.io | [Read More](https://medium.com/p/9d75921ff4d6) |
-| Thu, 01 May 2025 05:25:28 GMT | How Security Services in Dandenong Are Adapting to Modern Threats in 2025 | Ion Security | [Read More](https://medium.com/p/564ea5be2db7) |
-| Thu, 01 May 2025 05:22:44 GMT | Safety vs Security — SHIFT LEFT | Carolyn Peer | [Read More](https://medium.com/p/3bc9e3930628) |
-| Thu, 01 May 2025 05:18:25 GMT | “Enkripsi dalam Bayangan: Ancaman Nyata Ransomware di Dunia Digital” | Muhammad Rafi Athallah | [Read More](https://medium.com/p/d9100ae8592f) |
-| Thu, 01 May 2025 05:17:24 GMT | World Password Day: Secure Your Digital Life by Self-Hosting Vaultwarden | Prasanna Reddy | [Read More](https://medium.com/p/105eaa9bf0b0) |
-| Thu, 01 May 2025 05:11:30 GMT | The Great Iberian Blackout: A Dark Warning of a Cashless Future | Oliviero Mannucci | [Read More](https://medium.com/p/4671416a7899) |
-| Thu, 01 May 2025 04:58:11 GMT | The Perfect Digital Heist: How I, Benjamin Hunter Miller, Was a Victim of a Clone Company Scam | Benjaminmillerdev | [Read More](https://medium.com/p/14c97ac5a21c) |
-| Thu, 01 May 2025 04:49:19 GMT | Build a Future-Ready Business with Smart Network Infrastructure | R&B Networks | [Read More](https://medium.com/p/ff77ebae860f) |
-| Thu, 01 May 2025 04:45:31 GMT | Sysmon in Action: Why It’s Essential for Windows Threat Detection. | Sirjan Pun Magar | [Read More](https://medium.com/p/609a97b87c46) |
