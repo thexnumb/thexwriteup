@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 19:37:21 GMT | Happy World Password Day: Secure Your Digital Life | Muhammad Naveed Arshad,MSc -Writer-Editor- AI Engr | [Read More](https://medium.com/p/aea097e837f7) |
+| Thu, 01 May 2025 19:29:35 GMT | The Urgency of Post-Quantum Cryptography in the Era of Quantum Chips | current.cybersecurity | [Read More](https://medium.com/p/fb75f0792d96) |
+| Thu, 01 May 2025 19:26:43 GMT | What I Learned About NIST CSF 2.0 (and Why I Think It’s Actually Kinda Cool) | Tanner Sexton | [Read More](https://medium.com/p/7a226b7a75b2) |
 | Thu, 01 May 2025 19:09:42 GMT | How to hunt for (P1, P2) Blind XSS | Mostafa Alrefai | [Read More](https://medium.com/p/87e027acd85b) |
+| Thu, 01 May 2025 19:08:16 GMT | Access (Easy)— HTB Walkthrough | Ömer Faruk Duran | [Read More](https://medium.com/p/8da8aa825163) |
 | Thu, 01 May 2025 18:39:49 GMT | Cybersecurity Tips for Online Businesses | Zin Linn Htut | [Read More](https://medium.com/p/0b91eb28ac08) |
 | Thu, 01 May 2025 18:33:56 GMT | What is Security Testing in Cybersecurity? A Must-Know for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/83c5c8a0c337) |
 | Thu, 01 May 2025 18:33:00 GMT | How Password Hashing Works: PBKDF2, Argon2 & More | Ankita Singh | [Read More](https://medium.com/p/95cee0cd7c4a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 13:00:52 GMT | SPX Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/57590e101bc2) |
 | Thu, 01 May 2025 12:57:19 GMT | Wireshark MCP: Your Packet Data’s New Best Friend (Now With Privacy Protection!) | sarthak siddha | [Read More](https://medium.com/p/fc8b65d3875e) |
 | Thu, 01 May 2025 12:50:22 GMT | How I Conquered the CompTIA Security+ Exam (And You Can Too!) | Saransh Mahajan | [Read More](https://medium.com/p/1b59af77aa73) |
-| Thu, 01 May 2025 12:47:44 GMT | Home Lab Series: Scan of IP Address using Nmap in a VM Environment. | Ogwuazor Lucky | [Read More](https://medium.com/p/adb0f306d7a3) |
-| Thu, 01 May 2025 12:35:33 GMT | Anomaly Detection in Network Traffic Using Machine Learning | ab | [Read More](https://medium.com/p/446b1e0ddc4e) |
-| Thu, 01 May 2025 12:35:02 GMT | Why Every Organisation Needs to Implement Phishing Simulation Testing | SecDesk | [Read More](https://medium.com/p/d2034cf59875) |
-| Thu, 01 May 2025 12:33:09 GMT | EDR Nedir? | Burak Özdelen | [Read More](https://medium.com/p/1c5741071981) |
