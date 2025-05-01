@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 05:11:30 GMT | The Great Iberian Blackout: A Dark Warning of a Cashless Future | Oliviero Mannucci | [Read More](https://medium.com/p/4671416a7899) |
+| Thu, 01 May 2025 04:58:11 GMT | The Perfect Digital Heist: How I, Benjamin Hunter Miller, Was a Victim of a Clone Company Scam | Benjaminmillerdev | [Read More](https://medium.com/p/14c97ac5a21c) |
+| Thu, 01 May 2025 04:49:19 GMT | Build a Future-Ready Business with Smart Network Infrastructure | R&B Networks | [Read More](https://medium.com/p/ff77ebae860f) |
+| Thu, 01 May 2025 04:45:31 GMT | Sysmon in Action: Why It’s Essential for Windows Threat Detection. | Sirjan Pun Magar | [Read More](https://medium.com/p/609a97b87c46) |
+| Thu, 01 May 2025 04:34:23 GMT | Stored XSS: Ancaman Tersembunyi di Komentar Web | Muhammadnurulfirdaus | [Read More](https://medium.com/p/e86726efc116) |
+| Thu, 01 May 2025 04:33:19 GMT | The Sweet and Tangy Success of Pulse Candy: A Rs. 1 Revolution | Emily Wilson | [Read More](https://medium.com/p/cee4517c3ddf) |
 | Thu, 01 May 2025 04:19:51 GMT | Top 11 osCommerce Services Companies in the World | Intazar Ali | [Read More](https://medium.com/p/b34c9b18b448) |
 | Thu, 01 May 2025 04:10:36 GMT | Techniques Implemented last month as a Bug Hunter | AbhirupKonwar | [Read More](https://medium.com/p/f0e6af9cb12e) |
 | Thu, 01 May 2025 04:04:55 GMT | Building Self-Healing SaaS Applications in Django & Frappe: Auto-Defense Against Cyber Threats | Pranav Dixit | [Read More](https://medium.com/p/16c268d0b3a0) |
@@ -62,6 +68,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 00:19:27 GMT | Why Geopolitical Conflicts Now Begin With Cyberattacks | Techscribe Central | [Read More](https://medium.com/p/4e2d3703ee46) |
 | Thu, 01 May 2025 00:14:42 GMT | Strengthening Cloud Resilience with Alibaba Cloud Security Center | Jacky Yau | [Read More](https://medium.com/p/c3f5aa3158a2) |
 | Thu, 01 May 2025 00:04:24 GMT | Brooklyn Nine Nine— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/48bae2c8a4c5) |
+| Thu, 01 May 2025 00:03:20 GMT | Simulasi Jaringan Peer-to-Peer dan Small Office dengan Cisco Packet Tracer | Syifa Sabrina A. | [Read More](https://medium.com/p/903428e0a815) |
 | Thu, 01 May 2025 00:02:41 GMT | Hack The Box — Challenge — SpookyPass  Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/38ed87dae169) |
 | Wed, 30 Apr 2025 23:59:52 GMT | You’ve seen Squid Game, where people risked everything, for money. | Humble Lee | [Read More](https://medium.com/p/dd93bc75fed7) |
 | Wed, 30 Apr 2025 23:55:55 GMT | Simulating a Basic SQL Injection Using DVWA and Metasploitable | Alpondith | [Read More](https://medium.com/p/68121f2a0353) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 20:47:10 GMT | From LabHost to Lockdown: Turning 42,000 Phishing Domains into Threat Intel | Hoplon Infosec | [Read More](https://medium.com/p/1bc58eaf75d8) |
 | Wed, 30 Apr 2025 20:45:26 GMT | Could Your Toaster Be a Spy? | Tina Ginn | [Read More](https://medium.com/p/419a96d0b4a9) |
 | Wed, 30 Apr 2025 20:42:49 GMT | SSTI ve CSTI Zafiyetleri: Web Uygulamalarında Tehlikenin Sessiz Yüzü | Mehmet Deli | [Read More](https://medium.com/p/5d6370aa9e4b) |
-| Wed, 30 Apr 2025 20:34:42 GMT | Guess My Cheese (Part 1) — picoCTF 2025 — Affine Cipher | Jin | [Read More](https://medium.com/p/72df5b3a5f1e) |
-| Wed, 30 Apr 2025 20:26:25 GMT | Building a Plugin Architecture for Your Python C2 Implant: Modular Malware the Right Way | Maxwell Cross | [Read More](https://medium.com/p/7d10d262dcda) |
-| Wed, 30 Apr 2025 20:26:02 GMT | A lightweight approach to a heavy problem: why we’re building Tresal | Matthias Peeters | [Read More](https://medium.com/p/da144fd67422) |
-| Wed, 30 Apr 2025 20:23:09 GMT | ️ Smarter Detections: Creating SIGMA Exclusion Rules in CoPilot for Velociraptor Alerts | SOCFortress | [Read More](https://medium.com/p/83175b52a998) |
-| Wed, 30 Apr 2025 20:19:30 GMT | Arlo Essential 2nd Generation Indoor Camera REVIEW — MacSources | MacSources | [Read More](https://medium.com/p/d1dd09a6cbe0) |
-| Wed, 30 Apr 2025 20:18:53 GMT | Training AI Without Leaking Data | Patrick Walsh | [Read More](https://medium.com/p/387acb699448) |
-| Wed, 30 Apr 2025 20:07:20 GMT | Learning what’s the Cyber Kill Chain: A Beginner’s Guide | R1cH4t | [Read More](https://medium.com/p/be02af218ddf) |
