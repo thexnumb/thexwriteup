@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 16:17:13 GMT | Review of Security Research Articles: April 2025 | Lukasz Wierzbicki | [Read More](https://medium.com/p/976925d6d181) |
+| Thu, 01 May 2025 16:08:57 GMT | History Of Cyber Attacks | Manushibombaywala | [Read More](https://medium.com/p/116f0c1743ae) |
+| Thu, 01 May 2025 16:08:36 GMT | 6 Signs Your Linux Server Might Be Compromised (And What to Do Next) | Faruk Ahmed | [Read More](https://medium.com/p/5d3b4032e3cd) |
+| Thu, 01 May 2025 16:06:23 GMT | Fake WordPress Security Plugin: A Sneaky Backdoor for Hackers ‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/680b98b32d9d) |
+| Thu, 01 May 2025 16:05:33 GMT | What are Firewalls- The first line of  Defence. | err0rgod | [Read More](https://medium.com/p/b133592a67ec) |
+| Thu, 01 May 2025 15:59:21 GMT | The Misuse of Generative AI | Narender Beniwal | [Read More](https://medium.com/p/09d0e366c16a) |
+| Thu, 01 May 2025 15:59:01 GMT | OPA + GitOps: Enhancing Compliance, Security, and Automation for Platform Teams | Debghosal | [Read More](https://medium.com/p/426bc53ce9c4) |
+| Thu, 01 May 2025 15:49:04 GMT | From Attacks to Alerts: Setting Up a Cybersecurity Lab for Complete Skill Development | Diogo Neto | [Read More](https://medium.com/p/b8a1e65b3993) |
+| Thu, 01 May 2025 15:47:05 GMT | Certifications vs. Formal Education vs. Experience in Cybersecurity: The debate? | Ishmael Dube | [Read More](https://medium.com/p/fc277d7455bc) |
+| Thu, 01 May 2025 15:45:37 GMT | Maximize Anonymity With The Most Advanced VPN | Melvin Erickson | [Read More](https://medium.com/p/c83c64514a02) |
+| Thu, 01 May 2025 15:44:18 GMT | Co-op Shuts Down IT Systems After Hack Attempt: What You Need to Know | Hoplon Infosec | [Read More](https://medium.com/p/2445c37979cb) |
+| Thu, 01 May 2025 15:43:06 GMT | FFUF(Fuzz Faster U Fool) cheat sheet | Mozammalhossaintanvir | [Read More](https://medium.com/p/27bf72f6a685) |
 | Thu, 01 May 2025 15:21:07 GMT | Helicopter Administrators — 247CTF solution writeup | Adithya M S | [Read More](https://medium.com/p/bc2f359b0525) |
 | Thu, 01 May 2025 15:15:58 GMT | Workers’ Day | Faustino Henriques | [Read More](https://medium.com/p/9402d82f5c72) |
 | Thu, 01 May 2025 15:15:00 GMT | SLINGRING: A Stylish Python Reverse Shell for Ethical Hackers | Alwenperara | [Read More](https://medium.com/p/b0c9ca7d38c5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 10:22:46 GMT | The importance of AI in Cyber Security | Matei Pandaru | [Read More](https://medium.com/p/6c2bc2477046) |
 | Thu, 01 May 2025 10:20:49 GMT | 10 AI Prompts Every DevOps Engineer Should Use to Work 10× Faster | Zudonu Osomudeya | [Read More](https://medium.com/p/3474ac59ffc1) |
 | Thu, 01 May 2025 10:18:51 GMT | SonicWall Under Siege: Hackers Exploit Flaws in SMA Devices | Ismail Tasdelen | [Read More](https://medium.com/p/56ce850f2062) |
-| Thu, 01 May 2025 10:15:18 GMT | Day 1: Creating a Logical Diagram | Warmann Onisowurun | [Read More](https://medium.com/p/a00411007906) |
-| Thu, 01 May 2025 10:12:50 GMT | What is Cybersecurity and Why is it Important? | Kaundal K K | [Read More](https://medium.com/p/7e38832e206d) |
-| Thu, 01 May 2025 10:03:39 GMT | Generative AI in Phishing Attacks | Taiyab Lokhandwala | [Read More](https://medium.com/p/404923cdfc85) |
-| Thu, 01 May 2025 10:03:23 GMT | UnderPass Walkthrough: Lab on htb | Aksar Ojha | [Read More](https://medium.com/p/a9774d8e42ca) |
-| Thu, 01 May 2025 10:01:32 GMT | Lessons from the SKT Hack: A Wake-Up Call for Digital Security and Corporate Responsibility | Law and Ethics in Tech | [Read More](https://medium.com/p/9aa90b3ced41) |
-| Thu, 01 May 2025 09:57:27 GMT | From Anonymous SMB to SYSTEM: Hacking HTB’s “Support” Like a Boss | Regan Temudo | [Read More](https://medium.com/p/d0faca25b6e7) |
-| Thu, 01 May 2025 09:49:59 GMT | Decrypting Firmware: Uncovering Hidden Threats Through Binary Reverse Engineering with Hopper | Horrow | [Read More](https://medium.com/p/a04d0f71b7ec) |
-| Thu, 01 May 2025 09:46:23 GMT | I Passed eJPT with 97% (2025) | N.S.N | [Read More](https://medium.com/p/54ecdbd1b035) |
-| Thu, 01 May 2025 09:44:23 GMT | How Can Vulnerability Assessment and Penetration Testing Save Your Business from Cyber Threats? | Saurabh | [Read More](https://medium.com/p/c4f1d5d05a0f) |
-| Thu, 01 May 2025 09:39:45 GMT | Identity and Access Management | Igor Berner | [Read More](https://medium.com/p/b22ea3ce9115) |
-| Thu, 01 May 2025 09:36:35 GMT | Detecting Anomalous Parent-Child Process Chains: A Practical Guide for Endpoint Security | Paritosh | [Read More](https://medium.com/p/77f9ddfa1d21) |
-| Thu, 01 May 2025 09:32:59 GMT | Europe’s Great Blackout: A Wake-Up Call for the Age of Fragile Power | Sany | [Read More](https://medium.com/p/5f6b0bbed59b) |
