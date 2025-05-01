@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 01:44:11 GMT | Will AI Replace Cybersecurity? The Truth About the Future of Cyber Defense | Pawan Jaiswal | [Read More](https://medium.com/p/c46a13dbc179) |
+| Thu, 01 May 2025 01:31:00 GMT | Introduction to Splunk: Collect, Search, and Detect | Daniel J. L'Episcopo | [Read More](https://medium.com/p/940dcd47b555) |
+| Thu, 01 May 2025 01:26:02 GMT | 9 Security Threats in Generative AI Agents | Tal Eliyahu | [Read More](https://medium.com/p/8485aed6efe7) |
+| Thu, 01 May 2025 01:21:31 GMT | How Much a Man Loves You Shows in His Self-Discipline | UnaTolkien | [Read More](https://medium.com/p/fbca107f0141) |
+| Thu, 01 May 2025 01:21:23 GMT | CTF Hackerverse - Write UP | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/43f1bcb4312a) |
+| Thu, 01 May 2025 01:10:28 GMT | Hack The Box Academy — Network Foundations— Introduction to Networks | bl77rd | [Read More](https://medium.com/p/9d1a7c06e239) |
+| Thu, 01 May 2025 01:01:47 GMT | OSINT Combine CTFD — Challenge: Shadow Fleet | rootsechax | [Read More](https://medium.com/p/62b46cf39fb7) |
+| Thu, 01 May 2025 01:00:54 GMT | OSINT Combine CTFD — Challenge: Proper Poppy I & II | rootsechax | [Read More](https://medium.com/p/307e6bc7366d) |
+| Thu, 01 May 2025 00:59:57 GMT | OSINT Combine CTFD — Challenge: Getting Started & Legendary Beasts | rootsechax | [Read More](https://medium.com/p/60bbe7f0467a) |
+| Thu, 01 May 2025 00:59:04 GMT | WHO’S IN THE MIDDLE? | YuvaSec | [Read More](https://medium.com/p/45dacc9a24a0) |
+| Thu, 01 May 2025 00:52:24 GMT | ️ Comparing Popular Python Speech Recognition Libraries: Vosk, Google Speech, and More! | Sivaprakash Sivakumar | [Read More](https://medium.com/p/3834becb3e5d) |
+| Thu, 01 May 2025 00:38:03 GMT | FBI Issues New Warning: Gmail Users Targeted by AI-Driven Phishing Scams | Future Ai Blog | [Read More](https://medium.com/p/4bee3f2e0dd0) |
+| Thu, 01 May 2025 00:37:11 GMT | Important tool for Pentesters & Bug hunters | loyalonlytoday | [Read More](https://medium.com/p/ea33ab1269b6) |
+| Thu, 01 May 2025 00:36:09 GMT | Understanding SQL Injection : A Simple Explanation | Alpondith | [Read More](https://medium.com/p/d748bd987c43) |
+| Thu, 01 May 2025 00:24:32 GMT | Why Accepting User-Supplied HTML is a Critical Security Risk | Cyber T | [Read More](https://medium.com/p/a2d2caa7d133) |
+| Thu, 01 May 2025 00:24:09 GMT | Forbidden Knowledge: Banned Cybersecurity Reads | Ahmad Javed | [Read More](https://medium.com/p/a4bdba77f26e) |
+| Thu, 01 May 2025 00:24:02 GMT | Inside the $50,000 Office Cyberattack No One Saw Coming | Noel | [Read More](https://medium.com/p/bf305280bc9e) |
+| Thu, 01 May 2025 00:23:56 GMT | How a Smoothie Machine Bypassed MFA, Hijacked Payroll, and Infiltrated Google Workspace | Noel | [Read More](https://medium.com/p/4aedc20ff9c1) |
+| Thu, 01 May 2025 00:23:48 GMT | How a Rogue Alexa Update Cost This Business $90,000 in 48 Hours | Noel | [Read More](https://medium.com/p/1a22d02c3c23) |
+| Thu, 01 May 2025 00:19:40 GMT | $1000 Bounty: XSS in Phabricator’s Editor | Monika sharma | [Read More](https://medium.com/p/97fa74b24633) |
+| Thu, 01 May 2025 00:19:32 GMT | How To Stay Safe Online: Smarter Cybersecurity Habits Anyone Can Use | Techscribe Central | [Read More](https://medium.com/p/3042845a4bef) |
+| Thu, 01 May 2025 00:19:27 GMT | Why Geopolitical Conflicts Now Begin With Cyberattacks | Techscribe Central | [Read More](https://medium.com/p/4e2d3703ee46) |
+| Thu, 01 May 2025 00:14:42 GMT | Strengthening Cloud Resilience with Alibaba Cloud Security Center | Jacky Yau | [Read More](https://medium.com/p/c3f5aa3158a2) |
+| Thu, 01 May 2025 00:04:24 GMT | Brooklyn Nine Nine— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/48bae2c8a4c5) |
+| Thu, 01 May 2025 00:02:41 GMT | Hack The Box — Challenge — SpookyPass  Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/38ed87dae169) |
+| Wed, 30 Apr 2025 23:59:52 GMT | You’ve seen Squid Game, where people risked everything, for money. | Humble Lee | [Read More](https://medium.com/p/dd93bc75fed7) |
+| Wed, 30 Apr 2025 23:55:55 GMT | Simulating a Basic SQL Injection Using DVWA and Metasploitable | Alpondith | [Read More](https://medium.com/p/68121f2a0353) |
+| Wed, 30 Apr 2025 23:52:26 GMT | Bridging the Security Gap: Addressing Web2 Vulnerabilities in Web3 Systems | Khay | [Read More](https://medium.com/p/97fe20025297) |
+| Wed, 30 Apr 2025 23:49:57 GMT | When Cybersecurity Pros Turn Criminal | Matthew.Rosenquist | [Read More](https://medium.com/p/c92a51930bb9) |
+| Wed, 30 Apr 2025 23:47:57 GMT | Intro to Penetration Testing ~ Ethical Hacker | 0b1d1 | [Read More](https://medium.com/p/1ffd6dd597f3) |
+| Wed, 30 Apr 2025 23:39:02 GMT | A VOYAGE THROUGH SOLANA’S SECURITY LANDSCAPE | Greatness | [Read More](https://medium.com/p/ba303bd8931f) |
 | Wed, 30 Apr 2025 23:33:55 GMT | When Relationships Feel Transactional: A Reflection on Real Connection | Lisa Meints, PhD | [Read More](https://medium.com/p/300625061165) |
 | Wed, 30 Apr 2025 23:22:57 GMT | What If WhatsApp Could Read Your Mind… But Promised Not To Peek? | Jojo S. | [Read More](https://medium.com/p/9f607ed12718) |
 | Wed, 30 Apr 2025 23:16:41 GMT | 5 Signs Your Business is Vulnerable to Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/a05f8eb222df) |
@@ -81,34 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 18:23:50 GMT | I Joined a “Work from Home” Scam to See How It Works — Here’s the Ugly Truth | Kamran Khan | [Read More](https://medium.com/p/fee7d7c807ed) |
 | Wed, 30 Apr 2025 18:23:47 GMT | Edge Computing Explained: Why It Matters More Than Ever | Engin Ergen | [Read More](https://medium.com/p/a0fd1c1cce56) |
 | Wed, 30 Apr 2025 18:17:11 GMT | How to Block Insecure .XLTX Uploads in a C#/.NET App | Cloudmersive | [Read More](https://medium.com/p/7b3737b9e757) |
-| Wed, 30 Apr 2025 18:16:31 GMT | MONTHLY SECURITY RECAP 04/2025 | Patrik Žák | [Read More](https://medium.com/p/a0230f068ff4) |
-| Wed, 30 Apr 2025 18:14:41 GMT | Threat modelling in ZTNA AWS web app | Abhishek Pandey | [Read More](https://medium.com/p/f809fa495eda) |
-| Wed, 30 Apr 2025 18:10:51 GMT | Ultimate Guide to AWS Security Hub: Centralized Cloud Security Monitoring | AWS Cloud Architect | [Read More](https://medium.com/p/68efd8026cfc) |
-| Wed, 30 Apr 2025 18:06:53 GMT | All about MITM- Spice things UP with it. | err0rgod | [Read More](https://medium.com/p/df0ba4282b27) |
-| Wed, 30 Apr 2025 18:05:00 GMT | PHISHING — How it’s done | err0rgod | [Read More](https://medium.com/p/01da5956ed6f) |
-| Wed, 30 Apr 2025 18:01:41 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 | ImranTheExploitHunter | [Read More](https://medium.com/p/c79ce9f6748d) |
-| Wed, 30 Apr 2025 18:00:08 GMT | From Internal IP Discovery to Full Database Dump | Mustafa Hatab | [Read More](https://medium.com/p/6fbbac0ff822) |
-| Wed, 30 Apr 2025 18:00:06 GMT | SOC115 — EventID 47 — Wscript.exe Usage as Dropper | Mateo Pappa | [Read More](https://medium.com/p/95ec7df8eeee) |
-| Wed, 30 Apr 2025 17:59:45 GMT | Command, Control, and Conquer: A First Principles Guide to Modern C2 Frameworks | Menelik | [Read More](https://medium.com/p/458c47470e2b) |
-| Wed, 30 Apr 2025 17:58:49 GMT | What Is a Cyber Tailgating Attack? How It Works and How to Prevent It | SafeAeon Inc. | [Read More](https://medium.com/p/05371c4c67d3) |
-| Wed, 30 Apr 2025 17:50:59 GMT | Browser Cookies: What They Are, How They Work, and Why They Matter | Tihomir Manushev | [Read More](https://medium.com/p/b0704b385dad) |
-| Wed, 30 Apr 2025 17:46:35 GMT | Splunk — Getting Data In | Bob Malin | [Read More](https://medium.com/p/3c1cb46000ed) |
-| Wed, 30 Apr 2025 17:45:32 GMT | BLAST VirtualBox Lab Environment Part 1.2: Install Kali Linux | Mike | [Read More](https://medium.com/p/a4523f282a75) |
-| Wed, 30 Apr 2025 17:42:58 GMT | A Deep Dive: History of Solana Security Incidents | Ebele Asiadiachi | [Read More](https://medium.com/p/e514be42df66) |
-| Wed, 30 Apr 2025 17:37:32 GMT | Building Collaborative AI Systems: An End-to-End Approach Using A2A Protocol, MCP, and Frameworks | Ashsingh | [Read More](https://medium.com/p/972e4daf4a27) |
-| Wed, 30 Apr 2025 17:37:23 GMT | Step-by-Step: Building a Hardened AMI in AWS Using EC2 Image Builder | Iavwerosuo | [Read More](https://medium.com/p/770ae54708c2) |
-| Wed, 30 Apr 2025 17:36:55 GMT | Hacking Workspace for Fun & Profit: Part II | Md Saikat | [Read More](https://medium.com/p/de9cd3cc9755) |
-| Wed, 30 Apr 2025 17:36:50 GMT | Misaligned Timing Is Killing Your Cybersecurity Campaigns | Alexandrankwopara | [Read More](https://medium.com/p/0cbeeb8d09d9) |
-| Wed, 30 Apr 2025 17:33:18 GMT | Morphohack Cyber Services — Crypto Recovery Specialist | Morphohack Cyber Services | [Read More](https://medium.com/p/8b64bff0d3b3) |
-| Wed, 30 Apr 2025 17:29:39 GMT | How Can I Recover My Losses From Globiance | Guav | [Read More](https://medium.com/p/31500617835f) |
-| Wed, 30 Apr 2025 17:27:29 GMT | The Hidden Politics of Cybersecurity Companies: When Technical Careers Hit the Ceiling | sudo3rs | [Read More](https://medium.com/p/c74e361b7073) |
-| Wed, 30 Apr 2025 17:09:40 GMT | ️ Cybersecurity Engineer Job Support: Stay Ahead of Threats in Real Time | Kbstraining | [Read More](https://medium.com/p/415d42bc1e9f) |
-| Wed, 30 Apr 2025 17:08:29 GMT | Exploring Subdomains: What They Are and How to Find Them | Nishanthan | [Read More](https://medium.com/p/91db1f16be86) |
-| Wed, 30 Apr 2025 16:59:16 GMT | How I Earned $1700 from Stripe Bug Bounties | Rinkesh Patidar | [Read More](https://medium.com/p/28173e8b0a56) |
-| Wed, 30 Apr 2025 16:57:11 GMT | Gizlilik Sözleşmesini Okumadık, Ama Bizi Okuyorlar | HSD Fırat Üniversitesi | [Read More](https://medium.com/p/a3f607c8fd09) |
-| Wed, 30 Apr 2025 16:49:26 GMT | XSS Part — 9 : DOM XSS in document.write sink using source location.search inside a select element | Ahmad Sopyan | [Read More](https://medium.com/p/cb5650ac77b2) |
-| Wed, 30 Apr 2025 16:49:14 GMT | MCP Prompt Injection: The AI Hack That Cuts Both Ways ️ | Ismail Tasdelen | [Read More](https://medium.com/p/f340de123451) |
-| Wed, 30 Apr 2025 16:47:51 GMT | Can Web3 Security End Crypto Hacks — Mitchell Amador | Aroundthecoin | [Read More](https://medium.com/p/e5498ba9718a) |
-| Wed, 30 Apr 2025 16:44:53 GMT | بسم الله الرحمن الرحيم | Abu Maryam Rahmat | [Read More](https://medium.com/p/7e837698fe4b) |
-| Wed, 30 Apr 2025 16:41:42 GMT | Data Breaches | Nicole Tay | [Read More](https://medium.com/p/6a51b6e7db46) |
-| Wed, 30 Apr 2025 16:41:05 GMT | Network Penetration Testing | ANGGA | [Read More](https://medium.com/p/f5595dc37341) |
