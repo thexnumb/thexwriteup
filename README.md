@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 06:24:18 GMT | Most Recent Cyber Attacks and Data Breaches of April 2025 | Alice Martin | [Read More](https://medium.com/p/039f48b22ad0) |
+| Thu, 01 May 2025 06:13:05 GMT | Here Is How I Found Out Love Is Never Enough To Sustain A Relationship. | PromiseOsas | [Read More](https://medium.com/p/69d612696c2b) |
+| Thu, 01 May 2025 06:09:15 GMT | Crack Windows Password [Ethical Hacking Article] | Mr Horbio | [Read More](https://medium.com/p/cb3f0593fe58) |
+| Thu, 01 May 2025 06:05:41 GMT | KLCP Explained: What, Why, and How to Nail It | Akshat Kaushik | [Read More](https://medium.com/p/0c4bdc3c54f9) |
+| Thu, 01 May 2025 06:03:43 GMT | Bypassing OTP: Unlocking Vulnerabilities & Securing Your App | B4LOGI | [Read More](https://medium.com/p/a5eac4727515) |
+| Thu, 01 May 2025 06:02:03 GMT | Lab: Finding and exploiting an unused API endpoint | Mukilan Baskaran | [Read More](https://medium.com/p/79fa6744f21e) |
+| Thu, 01 May 2025 06:00:58 GMT | $500 Bounty: Hijacking HackerOne via window.opener | Monika sharma | [Read More](https://medium.com/p/e16700108e12) |
+| Thu, 01 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d04ab7daa0c6) |
+| Thu, 01 May 2025 06:00:07 GMT | How I bypassed an IP block… without changing my IP? | phoenixcatalan | [Read More](https://medium.com/p/e8082a43957b) |
+| Thu, 01 May 2025 05:52:09 GMT | From JS File to Jackpot: How I Found API Keys and Secrets Hidden in Production Code | Iski | [Read More](https://medium.com/p/87af8750b751) |
+| Thu, 01 May 2025 05:43:44 GMT | Why Cybersecurity Is Not Just About Hacking — Myths vs Reality | Ninza-_-Boi | [Read More](https://medium.com/p/841d711d9254) |
 | Thu, 01 May 2025 05:38:45 GMT | Exploring VoltSec.io’s | Voltsec.io | [Read More](https://medium.com/p/9d75921ff4d6) |
 | Thu, 01 May 2025 05:25:28 GMT | How Security Services in Dandenong Are Adapting to Modern Threats in 2025 | Ion Security | [Read More](https://medium.com/p/564ea5be2db7) |
 | Thu, 01 May 2025 05:22:44 GMT | Safety vs Security — SHIFT LEFT | Carolyn Peer | [Read More](https://medium.com/p/3bc9e3930628) |
@@ -21,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 04:58:11 GMT | The Perfect Digital Heist: How I, Benjamin Hunter Miller, Was a Victim of a Clone Company Scam | Benjaminmillerdev | [Read More](https://medium.com/p/14c97ac5a21c) |
 | Thu, 01 May 2025 04:49:19 GMT | Build a Future-Ready Business with Smart Network Infrastructure | R&B Networks | [Read More](https://medium.com/p/ff77ebae860f) |
 | Thu, 01 May 2025 04:45:31 GMT | Sysmon in Action: Why It’s Essential for Windows Threat Detection. | Sirjan Pun Magar | [Read More](https://medium.com/p/609a97b87c46) |
+| Thu, 01 May 2025 04:43:53 GMT | awal bulan main game di pelangislot | Gusti Prabu | [Read More](https://medium.com/p/88f61b9decca) |
 | Thu, 01 May 2025 04:34:23 GMT | Stored XSS: Ancaman Tersembunyi di Komentar Web | Muhammadnurulfirdaus | [Read More](https://medium.com/p/e86726efc116) |
 | Thu, 01 May 2025 04:33:19 GMT | The Sweet and Tangy Success of Pulse Candy: A Rs. 1 Revolution | Emily Wilson | [Read More](https://medium.com/p/cee4517c3ddf) |
 | Thu, 01 May 2025 04:19:51 GMT | Top 11 osCommerce Services Companies in the World | Intazar Ali | [Read More](https://medium.com/p/b34c9b18b448) |
@@ -29,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 03:55:46 GMT | Efficient Ways To Use VPNs For Privacy | James Neal | [Read More](https://medium.com/p/0a7b3c78356e) |
 | Thu, 01 May 2025 03:52:24 GMT | How CWE Helps Build Secure Software: A Developer’s Guide | Saber You | [Read More](https://medium.com/p/585c08670863) |
 | Thu, 01 May 2025 03:50:40 GMT | Discover New Frontiers In VPN Technology | Melvin Erickson | [Read More](https://medium.com/p/e004addf2c28) |
+| Thu, 01 May 2025 03:47:41 GMT | Exposing Privacy Sensitive Web Agent Data | Devin Ersoy | [Read More](https://medium.com/p/552ff64672ce) |
 | Thu, 01 May 2025 03:46:08 GMT | AWS Security Group Change Monitoring with Slack Alerts | Harshil Thummar ☁️ | [Read More](https://medium.com/p/4e98264c6544) |
 | Thu, 01 May 2025 03:39:29 GMT | Bsides Seattle 2025 — Information Security Conference | Grace Gong | [Read More](https://medium.com/p/25de799efb57) |
 | Thu, 01 May 2025 03:31:31 GMT | When Space Goes Dark: Inside the Cyberattack on Poland’s Space Agency | Deven Chhajed | [Read More](https://medium.com/p/851e66857a7e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 22:14:54 GMT | Fortify Your Website: 10 HTTP Security Headers You Can’t Afford to Miss | redhunter1444 | [Read More](https://medium.com/p/98f0eec1e756) |
 | Wed, 30 Apr 2025 22:03:04 GMT | SOC292 — Possible PHP Injection Detected (CVE-2024–4577) Write-up | Dh | [Read More](https://medium.com/p/2ce1d03d5de0) |
 | Wed, 30 Apr 2025 22:02:59 GMT | Out-of-Bounds Read Podcast — “Root Cause Mapping and the CWE Top 25” | CWE Program | [Read More](https://medium.com/p/566323c9c39d) |
-| Wed, 30 Apr 2025 21:57:20 GMT | El Ransomware como una causa de fallecimiento | Tiziano Mass | [Read More](https://medium.com/p/9ebcbec8e229) |
-| Wed, 30 Apr 2025 21:54:03 GMT | You Think You’re Growing — You’re Just Consuming | Hamza ELGADI | [Read More](https://medium.com/p/21074a27c582) |
-| Wed, 30 Apr 2025 21:49:25 GMT | From Zero to SIA Hero: The Ultimate 2025 Guide to Getting Licensed and Landing Security Jobs in… | AjayKrish | [Read More](https://medium.com/p/3e3c5d88dacc) |
-| Wed, 30 Apr 2025 21:48:35 GMT | The New Frontier of Cybersecurity: Autonomous Agents Powered by Generative AI | Gonzalo Surribas Sayago | [Read More](https://medium.com/p/0efa1584f884) |
-| Wed, 30 Apr 2025 21:47:40 GMT | Lab 22 — Netcat | Hassen Hannachi | [Read More](https://medium.com/p/6ae4e3f36ce4) |
-| Wed, 30 Apr 2025 21:45:29 GMT | Pause Like a Pro: How AutoPauseMiddleware Freezes Time for Game Hackers and Modders | nuclei_av | [Read More](https://medium.com/p/4a83bbefd9a8) |
-| Wed, 30 Apr 2025 21:38:20 GMT | Insecure Deserialization | 0xSt4n | [Read More](https://medium.com/p/5f0a39f39db1) |
-| Wed, 30 Apr 2025 21:32:45 GMT | Introduction to YARA Rules: A Complete Beginner’s Guide | Analyst Atlas | [Read More](https://medium.com/p/645262b2bf6c) |
-| Wed, 30 Apr 2025 21:23:55 GMT | Volatile Machine — HTB Bugcrowd CTF Writeup | Zakyasali | [Read More](https://medium.com/p/45403032bb8c) |
-| Wed, 30 Apr 2025 21:23:00 GMT | Bail under Discussion for Calgary Woman Charged in Security Guard’s Death | Scott Hill | [Read More](https://medium.com/p/3ad9b05927d4) |
-| Wed, 30 Apr 2025 21:21:36 GMT | Cybersecurity in Audit Aggregation: An Essential Elenktes Priority | Elenktes | [Read More](https://medium.com/p/302775c90070) |
-| Wed, 30 Apr 2025 21:13:42 GMT | Inside Apple’s Private Cloud Compute: Can Confidential AI Be Trusted? | David Gobaud | [Read More](https://medium.com/p/4279d494d9b3) |
-| Wed, 30 Apr 2025 21:10:53 GMT | The First AI-Designed File Sharing Platform — A Glimpse Into Autonomous Businesses? | Guilherme Mariano de Souza Santos | [Read More](https://medium.com/p/3d271e687f6f) |
