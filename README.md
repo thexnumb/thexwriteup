@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 10:18:51 GMT | SonicWall Under Siege: Hackers Exploit Flaws in SMA Devices | Ismail Tasdelen | [Read More](https://medium.com/p/56ce850f2062) |
+| Thu, 01 May 2025 10:12:50 GMT | What is Cybersecurity and Why is it Important? | Kaundal K K | [Read More](https://medium.com/p/7e38832e206d) |
+| Thu, 01 May 2025 10:03:39 GMT | Generative AI in Phishing Attacks | Taiyab Lokhandwala | [Read More](https://medium.com/p/404923cdfc85) |
+| Thu, 01 May 2025 10:03:23 GMT | UnderPass Walkthrough: Lab on htb | Aksar Ojha | [Read More](https://medium.com/p/a9774d8e42ca) |
+| Thu, 01 May 2025 10:01:32 GMT | Lessons from the SKT Hack: A Wake-Up Call for Digital Security and Corporate Responsibility | Law and Ethics in Tech | [Read More](https://medium.com/p/9aa90b3ced41) |
+| Thu, 01 May 2025 09:57:27 GMT | From Anonymous SMB to SYSTEM: Hacking HTB’s “Support” Like a Boss | Regan Temudo | [Read More](https://medium.com/p/d0faca25b6e7) |
+| Thu, 01 May 2025 09:49:59 GMT | Decrypting Firmware: Uncovering Hidden Threats Through Binary Reverse Engineering with Hopper | Horrow | [Read More](https://medium.com/p/a04d0f71b7ec) |
+| Thu, 01 May 2025 09:46:23 GMT | I Passed eJPT with 97% (2025) | N.S.N | [Read More](https://medium.com/p/54ecdbd1b035) |
+| Thu, 01 May 2025 09:44:23 GMT | How Can Vulnerability Assessment and Penetration Testing Save Your Business from Cyber Threats? | Saurabh | [Read More](https://medium.com/p/c4f1d5d05a0f) |
+| Thu, 01 May 2025 09:39:45 GMT | Identity and Access Management | Igor Berner | [Read More](https://medium.com/p/b22ea3ce9115) |
 | Thu, 01 May 2025 09:36:35 GMT | Detecting Anomalous Parent-Child Process Chains: A Practical Guide for Endpoint Security | Paritosh | [Read More](https://medium.com/p/77f9ddfa1d21) |
 | Thu, 01 May 2025 09:32:59 GMT | Europe’s Great Blackout: A Wake-Up Call for the Age of Fragile Power | Sany | [Read More](https://medium.com/p/5f6b0bbed59b) |
 | Thu, 01 May 2025 09:31:00 GMT | Prevent XXE Injection in Symfony: Code & Fix GuidePrevent XXE Injection in Symfony: Code & Fix… | Pentest_Testing_Corp | [Read More](https://medium.com/p/31d92f9f7849) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 03:08:27 GMT | Beyond WhatsApp, Telegram & Signal: Top 5 Ultra-Secure Messaging Apps for Total Anonymity &… | Rizwan Hilal Shah (D3crypT0r) | [Read More](https://medium.com/p/10a7b6f7071e) |
 | Thu, 01 May 2025 03:02:39 GMT | Could My iPhone be Hacked? | Maria Orms | [Read More](https://medium.com/p/a6360626d937) |
 | Thu, 01 May 2025 03:02:32 GMT | A Fact Like a Pancake (Faktas Kaip Blynas — Lithuanian saying) | Ain Stærlingsson — forestbathers unit UA | [Read More](https://medium.com/p/785ebd873c65) |
-| Thu, 01 May 2025 02:42:23 GMT | Day 22: Racing Against Logic — Mastering Limit Overrun Race Conditions | Agarwaldaksh | [Read More](https://medium.com/p/4981cc66446e) |
-| Thu, 01 May 2025 02:39:30 GMT | The Invisible Wins: Why What You Don’t Post Might Be Your Biggest Victory | Emily Wilson | [Read More](https://medium.com/p/2145e0557ad5) |
-| Thu, 01 May 2025 02:33:15 GMT | SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL | rr-1k | [Read More](https://medium.com/p/261e5b2beda4) |
-| Thu, 01 May 2025 02:32:57 GMT | FIPS 140: The Best Explanation Ever (Hopefully) | Matthew Venne | [Read More](https://medium.com/p/71d3683d82ed) |
-| Thu, 01 May 2025 02:29:52 GMT | Exploring the Best in Gun Accessories: Dulce Dom’s Gun Storage Box | Ksguskdnf | [Read More](https://medium.com/p/3a39497f257d) |
-| Thu, 01 May 2025 02:28:22 GMT | Why May 1st Matters: Remembering the Struggles of Labour Day | Emily Wilson | [Read More](https://medium.com/p/46a5b7f0533c) |
-| Thu, 01 May 2025 02:01:02 GMT | Business Email Compromise (BEC): The Billion-Dollar Scam Hiding in Your Inbox | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4058a212569a) |
-| Thu, 01 May 2025 01:57:11 GMT | Navigating the New Frontier of Generative AI Security | rajni singh | [Read More](https://medium.com/p/fac1df96f25f) |
-| Thu, 01 May 2025 01:46:00 GMT | ️‍♂️ Malware Analysis — OCSP Abuse & Registry Tampering in a .NET Sample | Arsene | [Read More](https://medium.com/p/364e2b23cdee) |
-| Thu, 01 May 2025 01:44:11 GMT | Will AI Replace Cybersecurity? The Truth About the Future of Cyber Defense | Pawan Jaiswal | [Read More](https://medium.com/p/c46a13dbc179) |
