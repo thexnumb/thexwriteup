@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 03:52:24 GMT | How CWE Helps Build Secure Software: A Developer’s Guide | Saber You | [Read More](https://medium.com/p/585c08670863) |
+| Thu, 01 May 2025 03:46:08 GMT | AWS Security Group Change Monitoring with Slack Alerts | Harshil Thummar ☁️ | [Read More](https://medium.com/p/4e98264c6544) |
+| Thu, 01 May 2025 03:39:29 GMT | Bsides Seattle 2025 — Information Security Conference | Grace Gong | [Read More](https://medium.com/p/25de799efb57) |
+| Thu, 01 May 2025 03:31:31 GMT | When Space Goes Dark: Inside the Cyberattack on Poland’s Space Agency | Deven Chhajed | [Read More](https://medium.com/p/851e66857a7e) |
+| Thu, 01 May 2025 03:30:50 GMT | Wireless Wednesday — Wifi Pentesting — Lab Setup | MichaelLearns_ | [Read More](https://medium.com/p/ed96712b07af) |
+| Thu, 01 May 2025 03:19:32 GMT | Bypassing Email Verification to Hijack Any Account — No User Interaction Needed | Tanvir Ahmed | [Read More](https://medium.com/p/58539b18f36a) |
+| Thu, 01 May 2025 03:18:16 GMT | Quantum Cryptography: The Next Frontier in Cybersecurity | Faraz Ishaq | [Read More](https://medium.com/p/725382e5abaa) |
 | Thu, 01 May 2025 03:11:07 GMT | Want Better Sleep? Try Turning Off Your Wi-Fi and Putting Your Phone in Another Room | Emily Wilson | [Read More](https://medium.com/p/6462c0879961) |
 | Thu, 01 May 2025 03:09:00 GMT | Session Reuse After Logout: Vulnerability Report on Improper Session Invalidation | FufuFafa | [Read More](https://medium.com/p/3e6a8d3d1707) |
 | Thu, 01 May 2025 03:08:27 GMT | Beyond WhatsApp, Telegram & Signal: Top 5 Ultra-Secure Messaging Apps for Total Anonymity &… | Rizwan Hilal Shah (D3crypT0r) | [Read More](https://medium.com/p/10a7b6f7071e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 20:02:23 GMT | The Rise of Phishing-as-a-Service and What the LabHost Takedown Teaches Us About Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/3973f2babc45) |
 | Wed, 30 Apr 2025 19:50:01 GMT | A Newbie’s Diary: Me and Clickjacking Vulnerability | Bourhan Bouacida | [Read More](https://medium.com/p/5174123c8de9) |
 | Wed, 30 Apr 2025 19:49:25 GMT | How I Turned an Old Phone into a Real-Time Face-Recognition Door Guard (with 3 Docker Commands) | Jean de Paula | [Read More](https://medium.com/p/ef76cb91d5ab) |
-| Wed, 30 Apr 2025 19:48:27 GMT | Ireland’s Health Care System Is Shockingly Awful And Inhumane | Deirdre ('Writer In The Abyss') | [Read More](https://medium.com/p/752c459953ff) |
-| Wed, 30 Apr 2025 19:45:48 GMT | Why You Won’t Find Russian or Chinese Servers on Reputable VPNs (and Why That Matters) | William Downing | [Read More](https://medium.com/p/f5d6b27e5556) |
-| Wed, 30 Apr 2025 19:40:39 GMT | Kali Linux : vacib əmrlər və alətlər (Part 1) | alizadasec | [Read More](https://medium.com/p/86ae7998442a) |
-| Wed, 30 Apr 2025 19:30:18 GMT | INE: Certified Incident Responder (eCIR) reviewwww, รีวิว eCIR | Ppow | [Read More](https://medium.com/p/c004c955fa92) |
-| Wed, 30 Apr 2025 19:22:22 GMT | Privacy Principles and Regulation | 0xr4m! | [Read More](https://medium.com/p/9738a9b5cd0b) |
-| Wed, 30 Apr 2025 19:20:05 GMT | The Intelligent Investor: A Comprehensive Guide to Value Investing | Apubra Daria | [Read More](https://medium.com/p/a20a1637e3c0) |
-| Wed, 30 Apr 2025 19:13:13 GMT | Refresh Tokens Are Trickier Than Many Developers Think | Sergey Egorenkov | [Read More](https://medium.com/p/46190800ff92) |
