@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 04:19:51 GMT | Top 11 osCommerce Services Companies in the World | Intazar Ali | [Read More](https://medium.com/p/b34c9b18b448) |
+| Thu, 01 May 2025 04:10:36 GMT | Techniques Implemented last month as a Bug Hunter | AbhirupKonwar | [Read More](https://medium.com/p/f0e6af9cb12e) |
+| Thu, 01 May 2025 04:04:55 GMT | Building Self-Healing SaaS Applications in Django & Frappe: Auto-Defense Against Cyber Threats | Pranav Dixit | [Read More](https://medium.com/p/16c268d0b3a0) |
+| Thu, 01 May 2025 03:55:46 GMT | Efficient Ways To Use VPNs For Privacy | James Neal | [Read More](https://medium.com/p/0a7b3c78356e) |
 | Thu, 01 May 2025 03:52:24 GMT | How CWE Helps Build Secure Software: A Developer’s Guide | Saber You | [Read More](https://medium.com/p/585c08670863) |
+| Thu, 01 May 2025 03:50:40 GMT | Discover New Frontiers In VPN Technology | Melvin Erickson | [Read More](https://medium.com/p/e004addf2c28) |
 | Thu, 01 May 2025 03:46:08 GMT | AWS Security Group Change Monitoring with Slack Alerts | Harshil Thummar ☁️ | [Read More](https://medium.com/p/4e98264c6544) |
 | Thu, 01 May 2025 03:39:29 GMT | Bsides Seattle 2025 — Information Security Conference | Grace Gong | [Read More](https://medium.com/p/25de799efb57) |
 | Thu, 01 May 2025 03:31:31 GMT | When Space Goes Dark: Inside the Cyberattack on Poland’s Space Agency | Deven Chhajed | [Read More](https://medium.com/p/851e66857a7e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 20:19:30 GMT | Arlo Essential 2nd Generation Indoor Camera REVIEW — MacSources | MacSources | [Read More](https://medium.com/p/d1dd09a6cbe0) |
 | Wed, 30 Apr 2025 20:18:53 GMT | Training AI Without Leaking Data | Patrick Walsh | [Read More](https://medium.com/p/387acb699448) |
 | Wed, 30 Apr 2025 20:07:20 GMT | Learning what’s the Cyber Kill Chain: A Beginner’s Guide | R1cH4t | [Read More](https://medium.com/p/be02af218ddf) |
-| Wed, 30 Apr 2025 20:06:50 GMT | Solana Down But Not Out: The Full Story of Its Outages, Hacks, and the Fight to Rebuild Trust | PerrieDExplorer | [Read More](https://medium.com/p/00c2393d60bb) |
-| Wed, 30 Apr 2025 20:04:46 GMT | SaaS: The Convenience That Became a Digital Security Minefield | Renata R Santos | [Read More](https://medium.com/p/784e7cb23028) |
-| Wed, 30 Apr 2025 20:02:23 GMT | The Rise of Phishing-as-a-Service and What the LabHost Takedown Teaches Us About Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/3973f2babc45) |
-| Wed, 30 Apr 2025 19:50:01 GMT | A Newbie’s Diary: Me and Clickjacking Vulnerability | Bourhan Bouacida | [Read More](https://medium.com/p/5174123c8de9) |
-| Wed, 30 Apr 2025 19:49:25 GMT | How I Turned an Old Phone into a Real-Time Face-Recognition Door Guard (with 3 Docker Commands) | Jean de Paula | [Read More](https://medium.com/p/ef76cb91d5ab) |
