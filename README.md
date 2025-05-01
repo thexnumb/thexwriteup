@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 18:39:49 GMT | Cybersecurity Tips for Online Businesses | Zin Linn Htut | [Read More](https://medium.com/p/0b91eb28ac08) |
+| Thu, 01 May 2025 18:33:56 GMT | What is Security Testing in Cybersecurity? A Must-Know for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/83c5c8a0c337) |
+| Thu, 01 May 2025 18:33:00 GMT | How Password Hashing Works: PBKDF2, Argon2 & More | Ankita Singh | [Read More](https://medium.com/p/95cee0cd7c4a) |
+| Thu, 01 May 2025 18:31:49 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges Explained (Part 2) | CH3TAN | [Read More](https://medium.com/p/2520d7b1e10c) |
+| Thu, 01 May 2025 18:28:03 GMT | Holding the AI Line: Cybersecurity, Ethics, and the Human Core | Julia Kovaleva | [Read More](https://medium.com/p/13613a2e315c) |
+| Thu, 01 May 2025 18:28:01 GMT | Hack The Box: Arctic Walkthrough | packetsniper | [Read More](https://medium.com/p/a1ae405d0cd8) |
+| Thu, 01 May 2025 18:26:34 GMT | What Tools Can I Use to Protect My Computer from Viruses? Your Essential Guide | SafeAeon Inc. | [Read More](https://medium.com/p/ffd9817c2509) |
 | Thu, 01 May 2025 18:26:12 GMT | How to Protect Your C# Application from Malicious .XPS Files | Cloudmersive | [Read More](https://medium.com/p/cda822d0bb62) |
 | Thu, 01 May 2025 18:23:00 GMT | Locking Down Your Digital Life: My Multi-Layered Approach to Online Security | ABHSHK | [Read More](https://medium.com/p/b38c8b4ff975) |
+| Thu, 01 May 2025 18:21:38 GMT | Technical Report On Analysis Using VirusTotal to Analyze Suspicious URLs | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/84237061358b) |
+| Thu, 01 May 2025 18:19:55 GMT | SOC 2 Compliance: Why It’s the Seal of Trust Your Business Needs | SafeAeon Inc. | [Read More](https://medium.com/p/c7afc16d5038) |
 | Thu, 01 May 2025 18:15:27 GMT | Review of the BSCP (Burp Suite Certified Practitioner) Exam | g0k4yy | [Read More](https://medium.com/p/22f5bb501017) |
 | Thu, 01 May 2025 18:10:32 GMT | Part 2 — What types of encryption do popular apps use and are they really secure? | Pycooding | [Read More](https://medium.com/p/f2a20fbcfd0e) |
 | Thu, 01 May 2025 18:08:12 GMT | Why Waiting on Cybersecurity Could Be the Most Expensive Decision You Make | Donald Betancourt | [Read More](https://medium.com/p/fc63a905d529) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 12:35:02 GMT | Why Every Organisation Needs to Implement Phishing Simulation Testing | SecDesk | [Read More](https://medium.com/p/d2034cf59875) |
 | Thu, 01 May 2025 12:33:09 GMT | EDR Nedir? | Burak Özdelen | [Read More](https://medium.com/p/1c5741071981) |
 | Thu, 01 May 2025 12:31:42 GMT | Why Top Companies Choose Qualysec for Penetration Testing | Qualysectechnologies | [Read More](https://medium.com/p/79d8c09820ee) |
-| Thu, 01 May 2025 12:31:08 GMT | What Is the Dark Web? Dangers + How to Stay Safe | Atomic Mail | [Read More](https://medium.com/p/5abedd6388e9) |
-| Thu, 01 May 2025 12:22:01 GMT | Mapping the SK Telecom Cyberattack Through the MITRE ATT&CK Framework | Anil Yellamati | [Read More](https://medium.com/p/df1197cffdab) |
-| Thu, 01 May 2025 12:17:46 GMT | Discover the Best Investigation Agency for Personal Investigations: Your Trusted Partner in Truth | Delhi Detectives | [Read More](https://medium.com/p/349453d4b82d) |
-| Thu, 01 May 2025 12:17:15 GMT | Hack your APIs using Postman | Anurag Mewar | [Read More](https://medium.com/p/2ed24d987d47) |
-| Thu, 01 May 2025 12:09:38 GMT | USAID’s Reckless ITAD Gamble | Kyle Marks | [Read More](https://medium.com/p/621f56e1d962) |
-| Thu, 01 May 2025 12:06:36 GMT | Starting the Journey: Why Detection Engineering Needs to Evolve Beyond the Basics | Siddhant Mishra | [Read More](https://medium.com/p/3c880a2c7d81) |
-| Thu, 01 May 2025 12:02:27 GMT | The 5 Biggest Cybersecurity Mistakes Companies Still Make in 2025 | CyberGain | [Read More](https://medium.com/p/7bec07dc03f9) |
-| Thu, 01 May 2025 11:53:09 GMT | TryHackMe - Runtime Detection Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/4adc517e28b9) |
-| Thu, 01 May 2025 11:46:46 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy | [Read More](https://medium.com/p/0fa6b0b30536) |
