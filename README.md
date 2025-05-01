@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 08:38:54 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/6e64f1ea5725) |
+| Thu, 01 May 2025 08:37:46 GMT | How Safe is Kraken? A Comprehensive Review of the Kraken Crypto Exchange | ECOS | [Read More](https://medium.com/p/a0e0a8be6568) |
+| Thu, 01 May 2025 08:32:41 GMT | EVENT ID-( 83 )-SOC119— Proxy — Malicious Executable File Detected | MSHARI | [Read More](https://medium.com/p/50165802e1a8) |
+| Thu, 01 May 2025 08:31:12 GMT | Don’t Tell Your Secrets to Anyone — The Power of Guarding Your Inner World | Subham Pokhriyal | [Read More](https://medium.com/p/a2daf8aadb6b) |
+| Thu, 01 May 2025 08:29:15 GMT | Security in Web Development: How to Protect Your Website | Preksha | [Read More](https://medium.com/p/cd1e0dcb0145) |
 | Thu, 01 May 2025 08:06:33 GMT | My Capstone Project from Google’s GenAI Intensive: Explained Simply | Rashmi Patil | [Read More](https://medium.com/p/895e30a15578) |
 | Thu, 01 May 2025 08:06:01 GMT | Starting a New Journey | Rajkumar Neupane | [Read More](https://medium.com/p/d60f12bf2773) |
 | Thu, 01 May 2025 08:03:44 GMT | The Secrets Behind Subdomain Takeovers Nobody Shares | Abhijeet Kumawat | [Read More](https://medium.com/p/ba6b5d7bf258) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 00:38:03 GMT | FBI Issues New Warning: Gmail Users Targeted by AI-Driven Phishing Scams | Future Ai Blog | [Read More](https://medium.com/p/4bee3f2e0dd0) |
 | Thu, 01 May 2025 00:37:11 GMT | Important tool for Pentesters & Bug hunters | loyalonlytoday | [Read More](https://medium.com/p/ea33ab1269b6) |
 | Thu, 01 May 2025 00:36:09 GMT | Understanding SQL Injection : A Simple Explanation | Alpondith | [Read More](https://medium.com/p/d748bd987c43) |
-| Thu, 01 May 2025 00:24:32 GMT | Why Accepting User-Supplied HTML is a Critical Security Risk | Cyber T | [Read More](https://medium.com/p/a2d2caa7d133) |
-| Thu, 01 May 2025 00:24:09 GMT | Forbidden Knowledge: Banned Cybersecurity Reads | Ahmad Javed | [Read More](https://medium.com/p/a4bdba77f26e) |
-| Thu, 01 May 2025 00:24:02 GMT | Inside the $50,000 Office Cyberattack No One Saw Coming | Noel | [Read More](https://medium.com/p/bf305280bc9e) |
-| Thu, 01 May 2025 00:23:56 GMT | How a Smoothie Machine Bypassed MFA, Hijacked Payroll, and Infiltrated Google Workspace | Noel | [Read More](https://medium.com/p/4aedc20ff9c1) |
-| Thu, 01 May 2025 00:23:48 GMT | How a Rogue Alexa Update Cost This Business $90,000 in 48 Hours | Noel | [Read More](https://medium.com/p/1a22d02c3c23) |
