@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 08:43:29 GMT | A Beginner’s Complete Journey into Cybersecurity: Concepts, Tools, and Hands-on Labs | Abiseck D | [Read More](https://medium.com/p/393760845a57) |
 | Thu, 01 May 2025 08:38:54 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/6e64f1ea5725) |
 | Thu, 01 May 2025 08:37:46 GMT | How Safe is Kraken? A Comprehensive Review of the Kraken Crypto Exchange | ECOS | [Read More](https://medium.com/p/a0e0a8be6568) |
 | Thu, 01 May 2025 08:32:41 GMT | EVENT ID-( 83 )-SOC119— Proxy — Malicious Executable File Detected | MSHARI | [Read More](https://medium.com/p/50165802e1a8) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 00:52:24 GMT | ️ Comparing Popular Python Speech Recognition Libraries: Vosk, Google Speech, and More! | Sivaprakash Sivakumar | [Read More](https://medium.com/p/3834becb3e5d) |
 | Thu, 01 May 2025 00:38:03 GMT | FBI Issues New Warning: Gmail Users Targeted by AI-Driven Phishing Scams | Future Ai Blog | [Read More](https://medium.com/p/4bee3f2e0dd0) |
 | Thu, 01 May 2025 00:37:11 GMT | Important tool for Pentesters & Bug hunters | loyalonlytoday | [Read More](https://medium.com/p/ea33ab1269b6) |
-| Thu, 01 May 2025 00:36:09 GMT | Understanding SQL Injection : A Simple Explanation | Alpondith | [Read More](https://medium.com/p/d748bd987c43) |
