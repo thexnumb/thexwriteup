@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 11:13:16 GMT | Analisa dan Cara Kerja XSS (Cross-Site Scripting) | Erdinurrohmat | [Read More](https://medium.com/p/60ecca7988b6) |
+| Thu, 01 May 2025 11:08:19 GMT | BLAST VirtualBox Lab Environment Part 5: Domain Joining | Mike | [Read More](https://medium.com/p/67b047834540) |
+| Thu, 01 May 2025 11:02:25 GMT | $1000+ Passive Recon Strategy You’re Not Using (Yet) | It4chis3c | [Read More](https://medium.com/p/164f5b1e6231) |
+| Thu, 01 May 2025 11:00:24 GMT | Why Organizations are Failing in Their DevSecOps and Cloud Security Programs | Singh Saksham | [Read More](https://medium.com/p/55ec2337a006) |
+| Thu, 01 May 2025 10:56:53 GMT | Black Hats, White Hats, and Gray: Decoding the Hacker World and How It Affects You | SauroNatics | [Read More](https://medium.com/p/5fabedd30e1b) |
+| Thu, 01 May 2025 10:52:55 GMT | BLAST VirtualBox Lab Environment Part 4: Setting Up Users, Groups, and Policies | Mike | [Read More](https://medium.com/p/16ca68730b00) |
+| Thu, 01 May 2025 10:50:27 GMT | Red Team vs Blue Team: Purple Teaming Scenarios and Exercises | Esra Kayhan | [Read More](https://medium.com/p/42111f02782d) |
+| Thu, 01 May 2025 10:49:22 GMT | India’s Leaked Identity: Why Your Aadhaar & Bank Data Costs Just ₹10 on the Dark Web | Anushree Krishna Suryavanshi | [Read More](https://medium.com/p/10fc8846e461) |
+| Thu, 01 May 2025 10:43:46 GMT | Cyber = backups aren’t enough anymore | Boïté | [Read More](https://medium.com/p/3663542040ef) |
 | Thu, 01 May 2025 10:36:06 GMT | BLAST VirtualBox Lab Environment Part 3: Active Directory | Mike | [Read More](https://medium.com/p/add44d7195de) |
 | Thu, 01 May 2025 10:35:51 GMT | Why VAPT Is Critical During Digital Transformation and Cloud Migration | West Advanced Technologies Inc | [Read More](https://medium.com/p/c6ba22c4e56d) |
 | Thu, 01 May 2025 10:32:20 GMT | CJP: Jak rozpoznać fałszywy link? Wstępne sprawdzanie adresów URL i linków skróconych | CyberNest Edu | [Read More](https://medium.com/p/e0b55f297f52) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 04:34:23 GMT | Stored XSS: Ancaman Tersembunyi di Komentar Web | Muhammadnurulfirdaus | [Read More](https://medium.com/p/e86726efc116) |
 | Thu, 01 May 2025 04:33:19 GMT | The Sweet and Tangy Success of Pulse Candy: A Rs. 1 Revolution | Emily Wilson | [Read More](https://medium.com/p/cee4517c3ddf) |
 | Thu, 01 May 2025 04:19:51 GMT | Top 11 osCommerce Services Companies in the World | Intazar Ali | [Read More](https://medium.com/p/b34c9b18b448) |
-| Thu, 01 May 2025 04:10:36 GMT | Techniques Implemented last month as a Bug Hunter | AbhirupKonwar | [Read More](https://medium.com/p/f0e6af9cb12e) |
-| Thu, 01 May 2025 04:04:55 GMT | Building Self-Healing SaaS Applications in Django & Frappe: Auto-Defense Against Cyber Threats | Pranav Dixit | [Read More](https://medium.com/p/16c268d0b3a0) |
-| Thu, 01 May 2025 03:55:46 GMT | Efficient Ways To Use VPNs For Privacy | James Neal | [Read More](https://medium.com/p/0a7b3c78356e) |
-| Thu, 01 May 2025 03:52:24 GMT | How CWE Helps Build Secure Software: A Developer’s Guide | Saber You | [Read More](https://medium.com/p/585c08670863) |
-| Thu, 01 May 2025 03:50:40 GMT | Discover New Frontiers In VPN Technology | Melvin Erickson | [Read More](https://medium.com/p/e004addf2c28) |
-| Thu, 01 May 2025 03:47:41 GMT | Exposing Privacy Sensitive Web Agent Data | Devin Ersoy | [Read More](https://medium.com/p/552ff64672ce) |
-| Thu, 01 May 2025 03:46:08 GMT | AWS Security Group Change Monitoring with Slack Alerts | Harshil Thummar ☁️ | [Read More](https://medium.com/p/4e98264c6544) |
-| Thu, 01 May 2025 03:39:29 GMT | Bsides Seattle 2025 — Information Security Conference | Grace Gong | [Read More](https://medium.com/p/25de799efb57) |
-| Thu, 01 May 2025 03:31:31 GMT | When Space Goes Dark: Inside the Cyberattack on Poland’s Space Agency | Deven Chhajed | [Read More](https://medium.com/p/851e66857a7e) |
