@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 22:25:47 GMT | Error installing cocoapods for Mac Intel!! | Ahmet Bostanciklioglu | [Read More](https://medium.com/p/3b4f180e3030) |
+| Thu, 01 May 2025 22:24:02 GMT | Why Hizo Prioritizes Cybersecurity | HIZO HQ | [Read More](https://medium.com/p/99f3e184b146) |
+| Thu, 01 May 2025 22:23:40 GMT | US Reaffirms Full Support for Taiwan Amid Growing China Tensions | Yasmim Sousa | [Read More](https://medium.com/p/219ebf71cfb7) |
+| Thu, 01 May 2025 22:17:53 GMT | HTB Cascade Walkthrough | Mauricio Pallares | [Read More](https://medium.com/p/740a9a3a9afa) |
 | Thu, 01 May 2025 22:16:24 GMT | What is Privileged Access Management (PAM) and Why It’s Vital for Cybersecurity | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe43ad0b7494) |
 | Thu, 01 May 2025 22:15:05 GMT | Why Cybersecurity Requires Passion, Not Just Skills: My Takeaways from a Globant Session | Fabián Muñoz | [Read More](https://medium.com/p/f23410f621ea) |
 | Thu, 01 May 2025 22:08:24 GMT | Wonderland — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/31db78a25319) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 15:02:52 GMT | How I Used Cloudflare’s Health Checks to Bypass Their WAF Rules | Ahmed AbdElmaqsoud | [Read More](https://medium.com/p/75a8a55adcc6) |
 | Thu, 01 May 2025 15:02:38 GMT | Pentagon’s AI Power Move: How the U.S. Plans to Beat China in the Global Minerals Race | Lamidi Idris Olamide | [Read More](https://medium.com/p/e59997450cc3) |
 | Thu, 01 May 2025 15:02:15 GMT | MBCLEARN TUGAS DC — 2 | Vorzlee | [Read More](https://medium.com/p/78333ab502ab) |
-| Thu, 01 May 2025 14:56:47 GMT | TryHackMe - Psycho Break - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/ba1da6c02776) |
-| Thu, 01 May 2025 14:54:52 GMT | “Protecting Our Wisest Generation: 7 Scams Targeting Seniors & How to Outsmart Them!” | ɌƋƑ•TECH | [Read More](https://medium.com/p/63404eaa5960) |
-| Thu, 01 May 2025 14:51:50 GMT | The Significance of Secure Test Infrastructure | Torin Vale | [Read More](https://medium.com/p/f1deffa42324) |
-| Thu, 01 May 2025 14:47:29 GMT | Timestomping in Linux: Techniques, Detection, and Forensic Insights | Dean | [Read More](https://medium.com/p/3b70355d9cc5) |
