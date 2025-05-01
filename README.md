@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 14:16:35 GMT | Pentesting Oracle TNS Listeners on Default Ports 1521–1529: Techniques, Tools & Remediation | Very Lazy Tech | [Read More](https://medium.com/p/1a11b1413b0d) |
+| Thu, 01 May 2025 14:02:46 GMT | Cyber Briefing: 2025.05.01 | CyberMaterial | [Read More](https://medium.com/p/3196cbd1d890) |
+| Thu, 01 May 2025 14:02:18 GMT | Empowering a Greener Future: The RET Ecosystem’s Vision for Sustainable Innovation | Renewable Energy Token | [Read More](https://medium.com/p/91e69007acd7) |
+| Thu, 01 May 2025 13:47:29 GMT | PicoCTF Writeup — Cookie Monster Secret Recipe WalkThrough | Aliza Ibrahim | [Read More](https://medium.com/p/4216f9b733f5) |
+| Thu, 01 May 2025 13:46:16 GMT | CORS: For the Novice | CuriTe | [Read More](https://medium.com/p/02bece227d3c) |
+| Thu, 01 May 2025 13:42:49 GMT | Advancing AI in Defense Organizations - TechAhead | TechAhead - App - AI  - Web - Cloud - | [Read More](https://medium.com/p/c75690c6e4a5) |
+| Thu, 01 May 2025 13:42:25 GMT | Coaching Through Discomfort: What Male Athletes Deserve | Kip Ioane | [Read More](https://medium.com/p/e6b29457445c) |
 | Thu, 01 May 2025 13:40:58 GMT | CEH v13: A Gateway into Cybersecurity | Securium Academy | [Read More](https://medium.com/p/cdb05387c5d0) |
 | Thu, 01 May 2025 13:40:10 GMT | How to Choose the Right Cybersecurity Vendor for Your Business (2025 Guide) | SecureSlate | [Read More](https://medium.com/p/bd68cfbe60f6) |
 | Thu, 01 May 2025 13:37:35 GMT | Strengthening Attack Surface Management (ASM) with Threat Intelligence: How Loginsoft leads the Way | Loginsoft | [Read More](https://medium.com/p/86c48e2f3adf) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 07:57:55 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/b1930d7562c4) |
 | Thu, 01 May 2025 07:48:08 GMT | Every Hacker Uses These Search Engines in 2025 | Scofield O. Idehen | [Read More](https://medium.com/p/8b5f4a8a59a3) |
 | Thu, 01 May 2025 07:46:01 GMT | 0day Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/cb2e35b42f56) |
-| Thu, 01 May 2025 07:37:59 GMT | Seeing What You Say: Mutual Information as the Glue of Multimodal Transformers | Satyam Mishra | [Read More](https://medium.com/p/d66562f25787) |
-| Thu, 01 May 2025 07:37:13 GMT | Stop API Breaches: Secure ASP.NET Core from Path Traversal Now | Nagaraj | [Read More](https://medium.com/p/7c06e14d9d78) |
-| Thu, 01 May 2025 07:36:04 GMT | Who Said Semicolons Don’t Matter in JavaScript? | Nolan | [Read More](https://medium.com/p/ecca1e235db9) |
-| Thu, 01 May 2025 07:35:13 GMT | TempSafe: Secrets That Adapt and Vanish | Koshy | [Read More](https://medium.com/p/1378fae33f62) |
-| Thu, 01 May 2025 07:33:35 GMT | The Silent Exploitation: How Instagram and Telegram Are Becoming Hunting Grounds for Women’s… | Mohit Kumar | [Read More](https://medium.com/p/8e567a8e9710) |
-| Thu, 01 May 2025 07:32:26 GMT | Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on… | Gokuleswaran B | [Read More](https://medium.com/p/b76dcc3041ac) |
-| Thu, 01 May 2025 07:31:43 GMT | HOW TO HACK REDIS !! | RE4PER | [Read More](https://medium.com/p/ec8d5ff989e1) |
