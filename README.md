@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 13:40:58 GMT | CEH v13: A Gateway into Cybersecurity | Securium Academy | [Read More](https://medium.com/p/cdb05387c5d0) |
+| Thu, 01 May 2025 13:40:10 GMT | How to Choose the Right Cybersecurity Vendor for Your Business (2025 Guide) | SecureSlate | [Read More](https://medium.com/p/bd68cfbe60f6) |
+| Thu, 01 May 2025 13:37:35 GMT | Strengthening Attack Surface Management (ASM) with Threat Intelligence: How Loginsoft leads the Way | Loginsoft | [Read More](https://medium.com/p/86c48e2f3adf) |
+| Thu, 01 May 2025 13:33:34 GMT | How to Automate Security Checks in DevOps: A Simple Tutorial | AbdulRahman Mostafa | [Read More](https://medium.com/p/4dbb1c487e26) |
 | Thu, 01 May 2025 13:24:11 GMT | KageLeak — E-posta Sızıntılarını Tespit Eden Web Uygulaması | realkage | [Read More](https://medium.com/p/cf7f19f72b8b) |
 | Thu, 01 May 2025 13:23:50 GMT | Home Lab Series: Nmap Scan of IP Address 192.168.232.1 | Ogwuazor Lucky | [Read More](https://medium.com/p/2f0384e7318e) |
 | Thu, 01 May 2025 13:20:49 GMT | AI and Cybersecurity: The Battle Against Hackers and Threats | mann | [Read More](https://medium.com/p/5aaac301f899) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 07:33:35 GMT | The Silent Exploitation: How Instagram and Telegram Are Becoming Hunting Grounds for Women’s… | Mohit Kumar | [Read More](https://medium.com/p/8e567a8e9710) |
 | Thu, 01 May 2025 07:32:26 GMT | Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on… | Gokuleswaran B | [Read More](https://medium.com/p/b76dcc3041ac) |
 | Thu, 01 May 2025 07:31:43 GMT | HOW TO HACK REDIS !! | RE4PER | [Read More](https://medium.com/p/ec8d5ff989e1) |
-| Thu, 01 May 2025 07:25:11 GMT | The Rise of Rogue SaaS Apps: What Shadow IT Looks Like in 2025 | Ignatius Gigis | [Read More](https://medium.com/p/f3895122c29c) |
-| Thu, 01 May 2025 07:11:09 GMT | Security Models vs Security Frameworks | EOLO | [Read More](https://medium.com/p/27cca5506e05) |
-| Thu, 01 May 2025 07:09:17 GMT | #10 Security & Accessibility — QA Selflearn Log | Ariiq Romero | [Read More](https://medium.com/p/de6d7aec2307) |
-| Thu, 01 May 2025 07:07:33 GMT | Bank DKI’s IT Collapse: A Wake-Up Call for Indonesia’s Public Banking Sector | MITRE Doggy | [Read More](https://medium.com/p/e823050851df) |
