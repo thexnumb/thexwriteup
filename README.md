@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 08:06:33 GMT | My Capstone Project from Google’s GenAI Intensive: Explained Simply | Rashmi Patil | [Read More](https://medium.com/p/895e30a15578) |
+| Thu, 01 May 2025 08:06:01 GMT | Starting a New Journey | Rajkumar Neupane | [Read More](https://medium.com/p/d60f12bf2773) |
+| Thu, 01 May 2025 08:03:44 GMT | The Secrets Behind Subdomain Takeovers Nobody Shares | Abhijeet Kumawat | [Read More](https://medium.com/p/ba6b5d7bf258) |
+| Thu, 01 May 2025 08:03:31 GMT | How to Root any Samsung Using Magisk with Linux | Revfuser | [Read More](https://medium.com/p/3120d04215f7) |
+| Thu, 01 May 2025 08:02:31 GMT | Firefox 138 Released: New Features and Critical Security Fixes | Easy2Patch | [Read More](https://medium.com/p/cc00ac967782) |
+| Thu, 01 May 2025 07:57:55 GMT | Security Principles | Yashbhingarde | [Read More](https://medium.com/p/b1930d7562c4) |
+| Thu, 01 May 2025 07:48:08 GMT | Every Hacker Uses These Search Engines in 2025 | Scofield O. Idehen | [Read More](https://medium.com/p/8b5f4a8a59a3) |
+| Thu, 01 May 2025 07:46:01 GMT | 0day Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/cb2e35b42f56) |
+| Thu, 01 May 2025 07:37:59 GMT | Seeing What You Say: Mutual Information as the Glue of Multimodal Transformers | Satyam Mishra | [Read More](https://medium.com/p/d66562f25787) |
+| Thu, 01 May 2025 07:37:13 GMT | Stop API Breaches: Secure ASP.NET Core from Path Traversal Now | Nagaraj | [Read More](https://medium.com/p/7c06e14d9d78) |
+| Thu, 01 May 2025 07:36:04 GMT | Who Said Semicolons Don’t Matter in JavaScript? | Nolan | [Read More](https://medium.com/p/ecca1e235db9) |
 | Thu, 01 May 2025 07:35:13 GMT | TempSafe: Secrets That Adapt and Vanish | Koshy | [Read More](https://medium.com/p/1378fae33f62) |
 | Thu, 01 May 2025 07:33:35 GMT | The Silent Exploitation: How Instagram and Telegram Are Becoming Hunting Grounds for Women’s… | Mohit Kumar | [Read More](https://medium.com/p/8e567a8e9710) |
 | Thu, 01 May 2025 07:32:26 GMT | Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on… | Gokuleswaran B | [Read More](https://medium.com/p/b76dcc3041ac) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 00:24:02 GMT | Inside the $50,000 Office Cyberattack No One Saw Coming | Noel | [Read More](https://medium.com/p/bf305280bc9e) |
 | Thu, 01 May 2025 00:23:56 GMT | How a Smoothie Machine Bypassed MFA, Hijacked Payroll, and Infiltrated Google Workspace | Noel | [Read More](https://medium.com/p/4aedc20ff9c1) |
 | Thu, 01 May 2025 00:23:48 GMT | How a Rogue Alexa Update Cost This Business $90,000 in 48 Hours | Noel | [Read More](https://medium.com/p/1a22d02c3c23) |
-| Thu, 01 May 2025 00:19:40 GMT | $1000 Bounty: XSS in Phabricator’s Editor | Monika sharma | [Read More](https://medium.com/p/97fa74b24633) |
-| Thu, 01 May 2025 00:19:32 GMT | How To Stay Safe Online: Smarter Cybersecurity Habits Anyone Can Use | Techscribe Central | [Read More](https://medium.com/p/3042845a4bef) |
-| Thu, 01 May 2025 00:19:27 GMT | Why Geopolitical Conflicts Now Begin With Cyberattacks | Techscribe Central | [Read More](https://medium.com/p/4e2d3703ee46) |
-| Thu, 01 May 2025 00:14:42 GMT | Strengthening Cloud Resilience with Alibaba Cloud Security Center | Jacky Yau | [Read More](https://medium.com/p/c3f5aa3158a2) |
-| Thu, 01 May 2025 00:04:24 GMT | Brooklyn Nine Nine— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/48bae2c8a4c5) |
-| Thu, 01 May 2025 00:03:20 GMT | Simulasi Jaringan Peer-to-Peer dan Small Office dengan Cisco Packet Tracer | Syifa Sabrina A. | [Read More](https://medium.com/p/903428e0a815) |
-| Thu, 01 May 2025 00:02:41 GMT | Hack The Box — Challenge — SpookyPass  Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/38ed87dae169) |
-| Wed, 30 Apr 2025 23:59:52 GMT | You’ve seen Squid Game, where people risked everything, for money. | Humble Lee | [Read More](https://medium.com/p/dd93bc75fed7) |
-| Wed, 30 Apr 2025 23:55:55 GMT | Simulating a Basic SQL Injection Using DVWA and Metasploitable | Alpondith | [Read More](https://medium.com/p/68121f2a0353) |
-| Wed, 30 Apr 2025 23:52:26 GMT | Bridging the Security Gap: Addressing Web2 Vulnerabilities in Web3 Systems | Khay | [Read More](https://medium.com/p/97fe20025297) |
-| Wed, 30 Apr 2025 23:49:57 GMT | When Cybersecurity Pros Turn Criminal | Matthew.Rosenquist | [Read More](https://medium.com/p/c92a51930bb9) |
