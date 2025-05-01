@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 06:47:22 GMT | Wazuh Series: Memahami dan Menerapkan File Integrity Monitoring (FIM) | Christofer rian | [Read More](https://medium.com/p/84cc56ec8408) |
+| Thu, 01 May 2025 06:41:08 GMT | ️ Exploitation of CVE-2024–3400 — Palo Alto PAN-OS Command Injection (Critical) | Febriants | [Read More](https://medium.com/p/a77d5e974967) |
+| Thu, 01 May 2025 06:37:03 GMT | bruteforcing login credential ubuntu linux ova | Maliefrasyahermawan | [Read More](https://medium.com/p/542f7d673306) |
+| Thu, 01 May 2025 06:34:42 GMT | Certified Ethical Hacker v13: Your Gateway to a Career in Ethical Hacking | Certocean | [Read More](https://medium.com/p/4238e1c03b7d) |
+| Thu, 01 May 2025 06:33:43 GMT | What is PAM & Why It Matters in 2025 | Amrit Sinha | [Read More](https://medium.com/p/a3c017d1b239) |
+| Thu, 01 May 2025 06:32:55 GMT | Top 10 Application Security Tools to Fortify Your Software in 2025 | Jenny smith | [Read More](https://medium.com/p/4b6e69558399) |
 | Thu, 01 May 2025 06:24:18 GMT | Most Recent Cyber Attacks and Data Breaches of April 2025 | Alice Martin | [Read More](https://medium.com/p/039f48b22ad0) |
 | Thu, 01 May 2025 06:13:05 GMT | Here Is How I Found Out Love Is Never Enough To Sustain A Relationship. | PromiseOsas | [Read More](https://medium.com/p/69d612696c2b) |
 | Thu, 01 May 2025 06:09:15 GMT | Crack Windows Password [Ethical Hacking Article] | Mr Horbio | [Read More](https://medium.com/p/cb3f0593fe58) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 30 Apr 2025 22:40:24 GMT | Coding For Kids: Encouraging Children to Explore Coding | Savvy Cyber Kids | [Read More](https://medium.com/p/358b3a43db07) |
 | Wed, 30 Apr 2025 22:38:44 GMT | Social Media Privacy Checkups | Savvy Cyber Kids | [Read More](https://medium.com/p/152fe3e07dff) |
 | Wed, 30 Apr 2025 22:31:31 GMT | How Technology May Affect Your Children’s Sleep | Savvy Cyber Kids | [Read More](https://medium.com/p/055e361a00da) |
-| Wed, 30 Apr 2025 22:26:08 GMT | Why Proactive Cybersecurity Is the Edge Every Business Needs | Cyber-AppSec | [Read More](https://medium.com/p/55d530b3c96f) |
-| Wed, 30 Apr 2025 22:18:30 GMT | Siteler Arası Betik Çalıştırma (XSS) Zafiyeti | Furkan Ayyıldız | [Read More](https://medium.com/p/56b0049fa65f) |
-| Wed, 30 Apr 2025 22:17:11 GMT | Part 2: 10 Essential Websites Every Security Researcher Should Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/de799110f476) |
-| Wed, 30 Apr 2025 22:14:54 GMT | Fortify Your Website: 10 HTTP Security Headers You Can’t Afford to Miss | redhunter1444 | [Read More](https://medium.com/p/98f0eec1e756) |
-| Wed, 30 Apr 2025 22:03:04 GMT | SOC292 — Possible PHP Injection Detected (CVE-2024–4577) Write-up | Dh | [Read More](https://medium.com/p/2ce1d03d5de0) |
-| Wed, 30 Apr 2025 22:02:59 GMT | Out-of-Bounds Read Podcast — “Root Cause Mapping and the CWE Top 25” | CWE Program | [Read More](https://medium.com/p/566323c9c39d) |
