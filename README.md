@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 10:36:06 GMT | BLAST VirtualBox Lab Environment Part 3: Active Directory | Mike | [Read More](https://medium.com/p/add44d7195de) |
+| Thu, 01 May 2025 10:35:51 GMT | Why VAPT Is Critical During Digital Transformation and Cloud Migration | West Advanced Technologies Inc | [Read More](https://medium.com/p/c6ba22c4e56d) |
+| Thu, 01 May 2025 10:32:20 GMT | CJP: Jak rozpoznać fałszywy link? Wstępne sprawdzanie adresów URL i linków skróconych | CyberNest Edu | [Read More](https://medium.com/p/e0b55f297f52) |
+| Thu, 01 May 2025 10:27:11 GMT | DarkWatchman and Sheriff Malware: Stealthy Cyberattacks Rock Russia and Ukraine ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/01ca2050520e) |
+| Thu, 01 May 2025 10:23:25 GMT | Commvault’s Azure Breach: A Zero-Day Tale of Webshells and Nation-State Hackers ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/4d23a46467d6) |
+| Thu, 01 May 2025 10:22:46 GMT | The importance of AI in Cyber Security | Matei Pandaru | [Read More](https://medium.com/p/6c2bc2477046) |
+| Thu, 01 May 2025 10:20:49 GMT | 10 AI Prompts Every DevOps Engineer Should Use to Work 10× Faster | Zudonu Osomudeya | [Read More](https://medium.com/p/3474ac59ffc1) |
 | Thu, 01 May 2025 10:18:51 GMT | SonicWall Under Siege: Hackers Exploit Flaws in SMA Devices | Ismail Tasdelen | [Read More](https://medium.com/p/56ce850f2062) |
+| Thu, 01 May 2025 10:15:18 GMT | Day 1: Creating a Logical Diagram | Warmann Onisowurun | [Read More](https://medium.com/p/a00411007906) |
 | Thu, 01 May 2025 10:12:50 GMT | What is Cybersecurity and Why is it Important? | Kaundal K K | [Read More](https://medium.com/p/7e38832e206d) |
 | Thu, 01 May 2025 10:03:39 GMT | Generative AI in Phishing Attacks | Taiyab Lokhandwala | [Read More](https://medium.com/p/404923cdfc85) |
 | Thu, 01 May 2025 10:03:23 GMT | UnderPass Walkthrough: Lab on htb | Aksar Ojha | [Read More](https://medium.com/p/a9774d8e42ca) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 03:46:08 GMT | AWS Security Group Change Monitoring with Slack Alerts | Harshil Thummar ☁️ | [Read More](https://medium.com/p/4e98264c6544) |
 | Thu, 01 May 2025 03:39:29 GMT | Bsides Seattle 2025 — Information Security Conference | Grace Gong | [Read More](https://medium.com/p/25de799efb57) |
 | Thu, 01 May 2025 03:31:31 GMT | When Space Goes Dark: Inside the Cyberattack on Poland’s Space Agency | Deven Chhajed | [Read More](https://medium.com/p/851e66857a7e) |
-| Thu, 01 May 2025 03:30:50 GMT | Wireless Wednesday — Wifi Pentesting — Lab Setup | MichaelLearns_ | [Read More](https://medium.com/p/ed96712b07af) |
-| Thu, 01 May 2025 03:19:32 GMT | Bypassing Email Verification to Hijack Any Account — No User Interaction Needed | Tanvir Ahmed | [Read More](https://medium.com/p/58539b18f36a) |
-| Thu, 01 May 2025 03:18:16 GMT | Quantum Cryptography: The Next Frontier in Cybersecurity | Faraz Ishaq | [Read More](https://medium.com/p/725382e5abaa) |
-| Thu, 01 May 2025 03:11:07 GMT | Want Better Sleep? Try Turning Off Your Wi-Fi and Putting Your Phone in Another Room | Emily Wilson | [Read More](https://medium.com/p/6462c0879961) |
-| Thu, 01 May 2025 03:09:00 GMT | Session Reuse After Logout: Vulnerability Report on Improper Session Invalidation | FufuFafa | [Read More](https://medium.com/p/3e6a8d3d1707) |
-| Thu, 01 May 2025 03:08:27 GMT | Beyond WhatsApp, Telegram & Signal: Top 5 Ultra-Secure Messaging Apps for Total Anonymity &… | Rizwan Hilal Shah (D3crypT0r) | [Read More](https://medium.com/p/10a7b6f7071e) |
-| Thu, 01 May 2025 03:02:39 GMT | Could My iPhone be Hacked? | Maria Orms | [Read More](https://medium.com/p/a6360626d937) |
-| Thu, 01 May 2025 03:02:32 GMT | A Fact Like a Pancake (Faktas Kaip Blynas — Lithuanian saying) | Ain Stærlingsson — forestbathers unit UA | [Read More](https://medium.com/p/785ebd873c65) |
