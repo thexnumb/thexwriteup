@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 May 2025 23:13:43 GMT | Ascension Data Breach Highlights the Growing Risks of Third-Party Cybersecurity Failures | Avnishyam | [Read More](https://medium.com/p/0b26565b7c9f) |
+| Thu, 01 May 2025 23:12:48 GMT | Nation State Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b752750c6e78) |
+| Thu, 01 May 2025 23:02:38 GMT | Tools of the Trade: Top 10 Forensics Software Every Analyst Should Know | ByteSectorX | [Read More](https://medium.com/p/37bbfcc1c386) |
+| Thu, 01 May 2025 23:00:53 GMT | How to Use PGP to Digitally Sign and Secure Your Files and Images | ByteSectorX | [Read More](https://medium.com/p/b8ce00aa5f20) |
+| Thu, 01 May 2025 22:52:54 GMT | Freelance Content Writing: A Step-by-Step Guide for Beginners | Pathway to Progress | [Read More](https://medium.com/p/ff67bf78789b) |
+| Thu, 01 May 2025 22:52:01 GMT | Comprehensive Summary: Security Information and Event Management (SIEM) | Dharmik Savani | [Read More](https://medium.com/p/9ebbf8ab593b) |
+| Thu, 01 May 2025 22:44:30 GMT | Password Attacks — Network Services — CPTS | nob1as | [Read More](https://medium.com/p/8bc942d42fcf) |
+| Thu, 01 May 2025 22:32:25 GMT | WEASEL WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d7638cb4ecad) |
 | Thu, 01 May 2025 22:25:47 GMT | Error installing cocoapods for Mac Intel!! | Ahmet Bostanciklioglu | [Read More](https://medium.com/p/3b4f180e3030) |
 | Thu, 01 May 2025 22:24:02 GMT | Why Hizo Prioritizes Cybersecurity | HIZO HQ | [Read More](https://medium.com/p/99f3e184b146) |
 | Thu, 01 May 2025 22:23:40 GMT | US Reaffirms Full Support for Taiwan Amid Growing China Tensions | Yasmim Sousa | [Read More](https://medium.com/p/219ebf71cfb7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 15:43:06 GMT | FFUF(Fuzz Faster U Fool) cheat sheet | Mozammalhossaintanvir | [Read More](https://medium.com/p/27bf72f6a685) |
 | Thu, 01 May 2025 15:21:07 GMT | Helicopter Administrators — 247CTF solution writeup | Adithya M S | [Read More](https://medium.com/p/bc2f359b0525) |
 | Thu, 01 May 2025 15:15:58 GMT | Workers’ Day | Faustino Henriques | [Read More](https://medium.com/p/9402d82f5c72) |
-| Thu, 01 May 2025 15:15:00 GMT | SLINGRING: A Stylish Python Reverse Shell for Ethical Hackers | Alwenperara | [Read More](https://medium.com/p/b0c9ca7d38c5) |
-| Thu, 01 May 2025 15:12:53 GMT | National Password Day 2025: Why It’s Time for UK Businesses to Rethink Password Security | Alex Hughes | [Read More](https://medium.com/p/b37a9e6dbb9f) |
-| Thu, 01 May 2025 15:12:46 GMT | How to Create and Sell Digital Products: A Step-by-Step Guide | Authenticmedia | [Read More](https://medium.com/p/f9bedd2d368b) |
-| Thu, 01 May 2025 15:12:01 GMT | Top 3 Vulnerability Assessment Tools You Should Know ️ | 0b1d1 | [Read More](https://medium.com/p/078ba8136d0f) |
-| Thu, 01 May 2025 15:04:13 GMT | World Password Day: Small Habit, Big Protection | Ajay Chandran | [Read More](https://medium.com/p/9684cfcb3f59) |
-| Thu, 01 May 2025 15:02:52 GMT | How I Used Cloudflare’s Health Checks to Bypass Their WAF Rules | Ahmed AbdElmaqsoud | [Read More](https://medium.com/p/75a8a55adcc6) |
-| Thu, 01 May 2025 15:02:38 GMT | Pentagon’s AI Power Move: How the U.S. Plans to Beat China in the Global Minerals Race | Lamidi Idris Olamide | [Read More](https://medium.com/p/e59997450cc3) |
-| Thu, 01 May 2025 15:02:15 GMT | MBCLEARN TUGAS DC — 2 | Vorzlee | [Read More](https://medium.com/p/78333ab502ab) |
