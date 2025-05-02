@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 18:39:21 GMT | Threat Hunting 101: Identifying Brute Force Attacks with Sentinel, MDE, and the MITRE ATT&CK… | Dean Haycox | [Read More](https://medium.com/p/42e836b24cbc) |
+| Fri, 02 May 2025 18:37:20 GMT | Privilege Escalation to Super Admin via Mass Assessment in a Multi-Tenant Laravel App | Rahul M S | [Read More](https://medium.com/p/526d1309de73) |
+| Fri, 02 May 2025 18:37:05 GMT | Anonymous— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/705a3e67bb09) |
+| Fri, 02 May 2025 18:35:34 GMT | Tampering or tampering: which one is it? | Security Consulting Blogspot | [Read More](https://medium.com/p/89bf607c8899) |
+| Fri, 02 May 2025 18:33:29 GMT | Breaking into Security Software Engineering | Vaibhav Kushwaha | [Read More](https://medium.com/p/099619fc164d) |
+| Fri, 02 May 2025 18:32:50 GMT | Cybersecurity — in Pop Culture vs “Reality” | Boseankit | [Read More](https://medium.com/p/037f70d7400d) |
+| Fri, 02 May 2025 18:31:17 GMT | Thai Visa Centre admits running the tdac.in.th phishing site | Alex | [Read More](https://medium.com/p/f7c3db53ec5c) |
+| Fri, 02 May 2025 18:29:26 GMT | AI-Powered Cyber Threats and Defenses | Techrigid | [Read More](https://medium.com/p/76acd0000899) |
+| Fri, 02 May 2025 18:28:57 GMT | What is Cyber Risk Quantification, and Why is it Important for Businesses Today? | SafeAeon Inc. | [Read More](https://medium.com/p/630ea8c4052d) |
+| Fri, 02 May 2025 18:28:42 GMT | Top IT Certifications Hiring Managers Actually Care About in 2025 | Anita E. | [Read More](https://medium.com/p/63de67f86836) |
 | Fri, 02 May 2025 18:21:33 GMT | How Can a Beginner Start a Cybersecurity Career? | SafeAeon Inc. | [Read More](https://medium.com/p/f9fb9964a1ab) |
 | Fri, 02 May 2025 18:20:40 GMT | The Ultimate Web Application Hacking Checklist (2025 Edition) | ZishanAdThandar | [Read More](https://medium.com/p/eea1a0a23977) |
 | Fri, 02 May 2025 18:18:46 GMT | Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover | Huntsman | [Read More](https://medium.com/p/46a09f95eaba) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 12:59:41 GMT | Unlocking Your Future: Why Cybersecurity Might Be the Career You Never Considered | ICTRD-Kaushalpith | [Read More](https://medium.com/p/75eb4333fb24) |
 | Fri, 02 May 2025 12:58:16 GMT | So You Want to Get Into Cybersecurity and You’re Feeling Overwhelmed? | PwnerJoe | [Read More](https://medium.com/p/25cc78274e12) |
 | Fri, 02 May 2025 12:58:15 GMT | Why You Can’t Stop Online Scams (Fast Flux Secrets Revealed) | Dhanush N | [Read More](https://medium.com/p/e09f3d02fee3) |
-| Fri, 02 May 2025 12:51:39 GMT | OWASP Top 10 For Flutter — M5: Insecure Communication for Flutter and Dart | Talsec | [Read More](https://medium.com/p/63fa4f38e0cd) |
-| Fri, 02 May 2025 12:51:17 GMT | The Role of Cybersecurity in ESG: Protecting People, Systems, and Trust | Cybersecurity Umbrella | [Read More](https://medium.com/p/3347b3b2c619) |
-| Fri, 02 May 2025 12:49:21 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/44fc89996546) |
-| Fri, 02 May 2025 12:48:11 GMT | Why DaaS Is a Game Changer for SaaS Platforms in 2025 | Redblox.io | [Read More](https://medium.com/p/8aeea68ba9d6) |
-| Fri, 02 May 2025 12:42:20 GMT | Cybersecurity Threats: What They Are, How They Happen, and How to Stay Safe Online | N.Samuvel | [Read More](https://medium.com/p/4257e1ddc69b) |
-| Fri, 02 May 2025 12:28:57 GMT | Implementing Role Based Access Control(RBAC) in Microsoft Azure | @jacob_sec | [Read More](https://medium.com/p/d11c28a9a877) |
-| Fri, 02 May 2025 12:27:41 GMT | Understanding Networking Basics with Cisco Packet Tracer | Jafar Umarassadulloh | [Read More](https://medium.com/p/2478a8b7ce53) |
-| Fri, 02 May 2025 12:15:42 GMT | Phishing — Snapped Phishing-Line - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/8d1f7d7feea7) |
-| Fri, 02 May 2025 12:08:47 GMT | The Excel Epidemic: How Uncontrolled Spreadsheets Are Crippling Your Organization | Ugur Kadakal | [Read More](https://medium.com/p/236ab6a20c9d) |
-| Fri, 02 May 2025 12:07:27 GMT | WordPress XSS Attacks: What Is It and How to Avoid It? | Taha Mehmood | [Read More](https://medium.com/p/7047b975d228) |
