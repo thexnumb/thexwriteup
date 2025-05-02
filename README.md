@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 11:20:28 GMT | You Google Something on Your Phone — What Really Happens? | Subadevan C | [Read More](https://medium.com/p/bd57276d2fdf) |
+| Fri, 02 May 2025 11:17:27 GMT | Malware Analysis of Domain Names Using VirusTotal | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/01b4d2416bad) |
+| Fri, 02 May 2025 11:15:48 GMT | How SOAR Platforms Transform Incident Response: Real-World Use Cases | Devaaravindlutukurty | [Read More](https://medium.com/p/31a83da8b95f) |
 | Fri, 02 May 2025 11:14:29 GMT | Crypto Scam Evolution: 5 Critical Protection Strategies | Karl Buhl | [Read More](https://medium.com/p/3a12825a7c4f) |
 | Fri, 02 May 2025 11:11:19 GMT | Why Post-Quantum Crypto Matters & How to Implement NIST’s Standards (2025 Update) | Tausif Ali | [Read More](https://medium.com/p/11602ed240d8) |
+| Fri, 02 May 2025 11:09:51 GMT | Micro Service Security Interview Questions: | Vikas Taank | [Read More](https://medium.com/p/23af12add2f1) |
 | Fri, 02 May 2025 11:07:33 GMT | ‍♀️Breaking In: A Walkthrough of My First Vulnhub CTF Challenge | Esom Eze | [Read More](https://medium.com/p/a63318861f37) |
 | Fri, 02 May 2025 11:04:38 GMT | M&S Cyber Attack: Won’t Somebody Think of the Copywriters?! | Eloise Horsfield | [Read More](https://medium.com/p/f13636d008ee) |
 | Fri, 02 May 2025 11:02:26 GMT | $198M Gone: The 5 Most Devastating Crypto Hacks of April 2025 | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/cbc58203347b) |
@@ -109,7 +113,3 @@ By Ana Vespera | Ana Vespera ✨ | [Read More](https://medium.com/p/94439308cb25
 | Fri, 02 May 2025 06:18:03 GMT | Top 10 Mobile App Security Tips and Trends for 2025 | SignMyCode | [Read More](https://medium.com/p/c390e99b6441) |
 | Fri, 02 May 2025 06:16:07 GMT | “The Human Faces Behind National Security: Stories of Mike Waltz, Marco Rubio, and the Guardians of… | GOPAL KRISHNA MAITY | [Read More](https://medium.com/p/a92a87635a93) |
 | Fri, 02 May 2025 06:15:55 GMT | Safeguarding Your Digital Self: Why Data Privacy Matters More Than Ever | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/d60797da965d) |
-| Fri, 02 May 2025 06:09:39 GMT | From Packet Filters to AI Sentinels: The Incredible Journey of the Firewall | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/196001fd12be) |
-| Fri, 02 May 2025 06:07:00 GMT | Top 7 Legacy Application Modernization Strategies for 2025 | Shikhar Gupta | [Read More](https://medium.com/p/94434252d5d6) |
-| Fri, 02 May 2025 06:00:56 GMT | CoinEx Review: | Micheal | [Read More](https://medium.com/p/a3257bec0f96) |
-| Fri, 02 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/78a9e088fae3) |
