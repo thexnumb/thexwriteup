@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 08:11:31 GMT | ⚔️ Day 23: Mastering Multi-Endpoint Race Conditions — Where Timing Breaks Logic | Agarwaldaksh | [Read More](https://medium.com/p/8200c4799e00) |
+| Fri, 02 May 2025 08:08:42 GMT | The Daily Tech Digest: 02 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/516082d01ac1) |
+| Fri, 02 May 2025 07:59:32 GMT | Running Proxmox Safely: How to Keep VMs Isolated Without Losing Sleep | Mr.PlanB | [Read More](https://medium.com/p/27430703d63c) |
+| Fri, 02 May 2025 07:52:09 GMT | The Rising Importance of Cyber security 2025 | FACE Prep Campus | [Read More](https://medium.com/p/46f04b38dd54) |
+| Fri, 02 May 2025 07:51:25 GMT | Bridging Cybersecurity and Data Science: The Rise of the PCiDS | Dr. Daniel Koh | [Read More](https://medium.com/p/ca6ae9bc7d00) |
+| Fri, 02 May 2025 07:43:05 GMT | File Upload Vulnerabilities: Conventional Threats and Emerging Risks in 2025 | Karthik S | [Read More](https://medium.com/p/cf27eee4fb03) |
+| Fri, 02 May 2025 07:37:28 GMT | XSS Part — 10 : DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Ahmad Sopyan | [Read More](https://medium.com/p/82c6bb516124) |
+| Fri, 02 May 2025 07:31:38 GMT | Is It Possible To Withdraw My Money From Kcex ? | Verila | [Read More](https://medium.com/p/b62cf696b6ec) |
+| Fri, 02 May 2025 07:29:12 GMT | How Can I Recover My Money From Kcex? | Verila | [Read More](https://medium.com/p/3f9271e5a346) |
 | Fri, 02 May 2025 07:28:21 GMT | The Ultimate Guide to Energy-Efficient and Secure Living: Why Every Australian Home Needs Roller… | Punithaperumalvml | [Read More](https://medium.com/p/daf758570989) |
 | Fri, 02 May 2025 07:24:53 GMT | CVE-2025–27556 - Django — Potential DoS Vulnerability in LoginView, LogoutView, and set_language()… | Yunus Olçar | [Read More](https://medium.com/p/0bbe81fe77f2) |
 | Fri, 02 May 2025 07:19:57 GMT | Practical Strategies to Safeguard Wire Instructions from Cyberattacks | Serishahid | [Read More](https://medium.com/p/f92c1e66bd07) |
@@ -107,12 +116,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Fri, 02 May 2025 00:32:07 GMT | Day 13: Wireshark — Basic Packet Capture and Analysis | Bl@ckC!pH3r | [Read More](https://medium.com/p/7b67b286f63d) |
 | Fri, 02 May 2025 00:26:11 GMT | KC7: Krusty Krab — Report | Aeronique | [Read More](https://medium.com/p/c29b5dd48d06) |
 | Fri, 02 May 2025 00:22:56 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Harshprajapati | [Read More](https://medium.com/p/d047c9cedad7) |
-| Fri, 02 May 2025 00:11:34 GMT | Mobil Şəbəkələrin Görünməyən Təhlükəsi: SS7 Hücumu Nədir və Biz Necə Qoruna Bilərik? | Murad Bağıyev | [Read More](https://medium.com/p/6f5c602f8abd) |
-| Fri, 02 May 2025 00:09:25 GMT | Missed Horizontal Privilege Escalation in a Bug Bounty Program! | Zeta | [Read More](https://medium.com/p/d7134b2ffa01) |
-| Fri, 02 May 2025 00:01:56 GMT | Reverse-Engineering Cluely | Pouya | [Read More](https://medium.com/p/a62b9cbbda10) |
-| Fri, 02 May 2025 00:01:34 GMT | Cybersecurity Revolution: Conferences Leading the Way | Abhinav Pathak | [Read More](https://medium.com/p/399659f5ae16) |
-| Fri, 02 May 2025 00:01:34 GMT | Hack The Box — Machine — Cap Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/d382087fcaa2) |
-| Thu, 01 May 2025 23:38:25 GMT | Why Your Smart Home Integrator Should Follow the NIST Framework | Matt Manalis | [Read More](https://medium.com/p/c29f7dcb377a) |
-| Thu, 01 May 2025 23:25:38 GMT | How to Use I2P to Safely Explore the Dark Web: A Complete Guide | ByteSectorX | [Read More](https://medium.com/p/b67ba48bffac) |
-| Thu, 01 May 2025 23:20:20 GMT | anaVulnerability Management in the Age of Remote Work | Akshay Chauhan | [Read More](https://medium.com/p/491d841e23cd) |
-| Thu, 01 May 2025 23:13:43 GMT | Ascension Data Breach Highlights the Growing Risks of Third-Party Cybersecurity Failures | Avnishyam | [Read More](https://medium.com/p/0b26565b7c9f) |
