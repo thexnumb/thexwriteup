@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 15:38:30 GMT | Harsh Truths for Americans Aged 25–35: A Survival Guide for the Ruthless Economy | Ozdprinter | [Read More](https://medium.com/p/557d5e5914da) |
+| Fri, 02 May 2025 15:30:48 GMT | Secure Environment in Web Application Deployment | Mehran Hematyar | [Read More](https://medium.com/p/6697193e90ca) |
+| Fri, 02 May 2025 15:21:40 GMT | - … | Φiriki Intelligence | [Read More](https://medium.com/p/d00d2eb877e3) |
 | Fri, 02 May 2025 15:19:27 GMT | The Rise of Phishing Attacks and How to Mitigate Them | Jackdavis Iap | [Read More](https://medium.com/p/5ccb8ca7e809) |
 | Fri, 02 May 2025 15:17:03 GMT | TryHackMe: Lookup (Easy) | J. Kai | [Read More](https://medium.com/p/31d120a17c1d) |
 | Fri, 02 May 2025 15:07:34 GMT | Cybercriminals Leverage Legacy Microsoft Equation Editor Bug to Spread XLoader | The Infosec Journal | [Read More](https://medium.com/p/4dfb03bb66e4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 09:34:18 GMT | Automating dependency updates in your DevOps setup | Jorn Beyers | [Read More](https://medium.com/p/4866169f8e0a) |
 | Fri, 02 May 2025 09:32:27 GMT | “I’ve Been The Archer” | dinar lala | [Read More](https://medium.com/p/49978862151d) |
 | Fri, 02 May 2025 09:32:12 GMT | Why Every AI Startup Needs MCP. | Rohan Girdhani - The TechDoc | [Read More](https://medium.com/p/ff8ee973d031) |
-| Fri, 02 May 2025 09:26:34 GMT | Prevent v Detect — It Is All About Effort (I mean AI) | Dan Cvrcek | [Read More](https://medium.com/p/9843c676ecac) |
-| Fri, 02 May 2025 09:26:22 GMT | Part Two: Tracing the Web-From ICICI Phishing Kit to a Larger Malware Campaign. | Aarsh Jawa | [Read More](https://medium.com/p/0d62bf39fa10) |
-| Fri, 02 May 2025 09:25:47 GMT | Hunting Access Control Bugs: How I Found a Critical IDOR & Privilege Escalation in a Fort Knox-Like… | Whoami | [Read More](https://medium.com/p/a4aeb46d8714) |
