@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 20:16:27 GMT | Looking out for the average guy… | Asma Riaz Malik | [Read More](https://medium.com/p/e27d13a7d389) |
+| Fri, 02 May 2025 19:51:16 GMT | Micro-services :Ways To Authenticate Incoming Requests | Vikas Taank | [Read More](https://medium.com/p/b2bef332e1b3) |
+| Fri, 02 May 2025 19:43:26 GMT | Policy Puppetry: A Universal Jailbreak Threat to AI Language Models | Pytech Academy | [Read More](https://medium.com/p/ee64991b0a75) |
+| Fri, 02 May 2025 19:39:25 GMT | Eyes on Earth: The GEOINT OSINT Blog | Intelligent rose | [Read More](https://medium.com/p/dd74090eb9b1) |
 | Fri, 02 May 2025 19:25:41 GMT | I FOUND A REAL HACKER. PROFESSORVENOM69@GMAIL | Rosemary | [Read More](https://medium.com/p/3c223cafa37c) |
 | Fri, 02 May 2025 19:22:42 GMT | how intentional can I be? | allyiswondering | [Read More](https://medium.com/p/1d689fd5ece6) |
 | Fri, 02 May 2025 19:20:39 GMT | StresserTH L4,L7 - C2/BOTNET | Richards | [Read More](https://medium.com/p/e7af637b9c8a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 14:32:02 GMT | “Çok Katmanlı E-Posta Güvenliği: MSA, WAF ve DNS Proxy ile Tam Koruma” | Furkan Ayteş | [Read More](https://medium.com/p/bb96c28d2a53) |
 | Fri, 02 May 2025 14:31:59 GMT | Autonomous Vehicles and the Cyber-Physical Revolution: Shaping the Future of Mobility | Data Defendere | [Read More](https://medium.com/p/32fab4587f95) |
 | Fri, 02 May 2025 14:31:41 GMT | Security Operations Center (SOC) dalam Menangkal Serangan Ransomware | Sigit Adi | [Read More](https://medium.com/p/214772d56c9a) |
-| Fri, 02 May 2025 14:21:31 GMT | How AI Is Transforming the World of Design | Simon Ndiritu | [Read More](https://medium.com/p/3c4a7db13da2) |
-| Fri, 02 May 2025 14:21:01 GMT | Week of Exposure: High-Impact Vulnerabilities and Threat Trends Unfold | Loginsoft | [Read More](https://medium.com/p/155af4b82367) |
-| Fri, 02 May 2025 14:01:51 GMT | CISSP Journal: Business Continuity Planning Part I | abdeldayemnour | [Read More](https://medium.com/p/ba8bc291fedf) |
-| Fri, 02 May 2025 14:01:44 GMT | Think Blockchain Is Complicated? Not After Reading This! | HarisNF | [Read More](https://medium.com/p/364702d32868) |
