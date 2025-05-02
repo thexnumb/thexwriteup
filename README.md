@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 04:09:29 GMT | ️‍♂️ Subdomain Enumeration Automation for Bug Bounty: Save Time, Hack Smart! | Shady Farouk | [Read More](https://medium.com/p/dd5d97eba1dc) |
+| Fri, 02 May 2025 04:08:55 GMT | FutureProof 2.0 - Episode #10: Tech Sovereignty — Can Nations Own Their Digital Futures? | Bayo Adebogun | [Read More](https://medium.com/p/e2d71f3c8339) |
+| Fri, 02 May 2025 04:06:26 GMT | Cybersecurity Basics: Principle of Least Privilege | Jose Toledo | [Read More](https://medium.com/p/91e62645ca49) |
+| Fri, 02 May 2025 04:06:13 GMT | Give it Time: Reflections on a Year of Change, Growth, and Letting Go | Jiaqi Yu | [Read More](https://medium.com/p/2cc9183db9e9) |
+| Fri, 02 May 2025 04:01:32 GMT | NMAP Scripting Engine Part 1 | Red | [Read More](https://medium.com/p/545e79898f82) |
+| Fri, 02 May 2025 03:54:54 GMT | Advanced Adversaries in Focus: MITRE 2025 | Jagir Shastri | [Read More](https://medium.com/p/6abd86bed3db) |
+| Fri, 02 May 2025 03:54:37 GMT | This Espresso Machine Was Actually a Hacker — and We Had No Idea | Noel | [Read More](https://medium.com/p/51bf99eed7c5) |
+| Fri, 02 May 2025 03:54:01 GMT | This One GPS Tracking Trick Could Save Your Car from Theft | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/ff45ebdaff0e) |
+| Fri, 02 May 2025 03:52:50 GMT | $400 Bounty: OAuth Token Theft in One Click | Monika sharma | [Read More](https://medium.com/p/4eb29b16d6dc) |
+| Fri, 02 May 2025 03:50:55 GMT | VPNs And Data Security: Core Concepts Explained | James Neal | [Read More](https://medium.com/p/4051fbf837af) |
 | Fri, 02 May 2025 03:46:24 GMT | From File Upload to Credential Theft: My $1,000 Bounty Journey with Stored XSS | Krish_cyber | [Read More](https://medium.com/p/76d70ac53817) |
+| Fri, 02 May 2025 03:46:12 GMT | Spam vs Phishing: What’s the Difference and Why It Matters | Pawan Jaiswal | [Read More](https://medium.com/p/e8a7ac84b0e9) |
+| Fri, 02 May 2025 03:46:06 GMT | Warning: This Common Office Gadget Can Be a Backdoor for Hackers | Noel | [Read More](https://medium.com/p/1e5816417976) |
 | Fri, 02 May 2025 03:46:00 GMT | The Ultimate Guide to 403 Forbidden Bypass (2025 Edition) | coffinxp | [Read More](https://medium.com/p/1b2e852e503e) |
+| Fri, 02 May 2025 03:45:50 GMT | Protect Your Privacy With Top VPN Technologies | Melvin Erickson | [Read More](https://medium.com/p/c576f00ee072) |
 | Fri, 02 May 2025 03:44:40 GMT | Title: AI and Cybersecurity: Navigating the Challenges and Building Smart Defenses
 Author: Dheeraj… | Dheerajdeshpande | [Read More](https://medium.com/p/4fab289232fe) |
 | Fri, 02 May 2025 03:40:54 GMT | The 5 Cybersecurity Tools Every Mobile App Developer Needs in Their Stack | Ahmad Javed | [Read More](https://medium.com/p/01a261fda645) |
@@ -102,16 +115,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 19:37:21 GMT | Happy World Password Day: Secure Your Digital Life | Muhammad Naveed Arshad,MSc -Writer-Editor- AI Engr | [Read More](https://medium.com/p/aea097e837f7) |
 | Thu, 01 May 2025 19:34:08 GMT | JSRecon 101: Unearthing Hidden Secrets in JavaScript Files for Bug Bounty Success ️♂️ | Krish_cyber | [Read More](https://medium.com/p/0ee75778da59) |
 | Thu, 01 May 2025 19:29:35 GMT | The Urgency of Post-Quantum Cryptography in the Era of Quantum Chips | current.cybersecurity | [Read More](https://medium.com/p/fb75f0792d96) |
-| Thu, 01 May 2025 19:26:43 GMT | What I Learned About NIST CSF 2.0 (and Why I Think It’s Actually Kinda Cool) | Tanner Sexton | [Read More](https://medium.com/p/7a226b7a75b2) |
-| Thu, 01 May 2025 19:09:42 GMT | How to hunt for (P1, P2) Blind XSS | Mostafa Alrefai | [Read More](https://medium.com/p/87e027acd85b) |
-| Thu, 01 May 2025 19:08:16 GMT | Access (Easy)— HTB Walkthrough | Ömer Faruk Duran | [Read More](https://medium.com/p/8da8aa825163) |
-| Thu, 01 May 2025 18:39:49 GMT | Cybersecurity Tips for Online Businesses | Zin Linn Htut | [Read More](https://medium.com/p/0b91eb28ac08) |
-| Thu, 01 May 2025 18:33:56 GMT | What is Security Testing in Cybersecurity? A Must-Know for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/83c5c8a0c337) |
-| Thu, 01 May 2025 18:33:00 GMT | How Password Hashing Works: PBKDF2, Argon2 & More | Ankita Singh | [Read More](https://medium.com/p/95cee0cd7c4a) |
-| Thu, 01 May 2025 18:31:49 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges Explained (Part 2) | CH3TAN | [Read More](https://medium.com/p/2520d7b1e10c) |
-| Thu, 01 May 2025 18:28:03 GMT | Holding the AI Line: Cybersecurity, Ethics, and the Human Core | Julia Kovaleva | [Read More](https://medium.com/p/13613a2e315c) |
-| Thu, 01 May 2025 18:28:01 GMT | Hack The Box: Arctic Walkthrough | packetsniper | [Read More](https://medium.com/p/a1ae405d0cd8) |
-| Thu, 01 May 2025 18:26:34 GMT | What Tools Can I Use to Protect My Computer from Viruses? Your Essential Guide | SafeAeon Inc. | [Read More](https://medium.com/p/ffd9817c2509) |
-| Thu, 01 May 2025 18:26:12 GMT | How to Protect Your C# Application from Malicious .XPS Files | Cloudmersive | [Read More](https://medium.com/p/cda822d0bb62) |
-| Thu, 01 May 2025 18:23:00 GMT | Locking Down Your Digital Life: My Multi-Layered Approach to Online Security | ABHSHK | [Read More](https://medium.com/p/b38c8b4ff975) |
-| Thu, 01 May 2025 18:21:38 GMT | Technical Report On Analysis Using VirusTotal to Analyze Suspicious URLs | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/84237061358b) |
