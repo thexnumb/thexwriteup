@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 17:14:15 GMT | The AI Effect in Learning to Code | Sean H Thomas | [Read More](https://medium.com/p/9999076e69d9) |
+| Fri, 02 May 2025 17:01:50 GMT | Post-Pen Testing: What to Do After the Test | Akshay Chauhan | [Read More](https://medium.com/p/c46cdb610a83) |
+| Fri, 02 May 2025 17:00:49 GMT | “Protecting AI’s Brain: Why Agent Reasoning Hijacking Is a Big Deal” | AnusyaAngamuthu | [Read More](https://medium.com/p/fb6c22a1880d) |
+| Fri, 02 May 2025 16:58:41 GMT | Mr Robot Writeup (Vulnhub Intermediate Machine) | Ivan Daňo | [Read More](https://medium.com/p/db260853968b) |
+| Fri, 02 May 2025 16:58:23 GMT | SOC270 — AsynchRAT Malware Detected | Dh | [Read More](https://medium.com/p/3cfbc90a0609) |
+| Fri, 02 May 2025 16:55:18 GMT | The Sticker Shop — TryHackMe Writeup | z0diac | [Read More](https://medium.com/p/d2a97c599a2b) |
+| Fri, 02 May 2025 16:54:04 GMT | Understanding Clause 4 of ISO/IEC 27001: Context of the Organization — II | Harmit Warang (göt.r0_0t?) | [Read More](https://medium.com/p/02e6863f387a) |
+| Fri, 02 May 2025 16:53:06 GMT | The Night Watcher: Todor’s Quiet Vigil Over Sofia | Mario Alexiev | [Read More](https://medium.com/p/b26b0f5cf69d) |
+| Fri, 02 May 2025 16:51:25 GMT | Insecure Direct Object Reference (IDOR) in a Government Portal | Dharanis | [Read More](https://medium.com/p/c83c0c638577) |
+| Fri, 02 May 2025 16:46:59 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/919677089251) |
+| Fri, 02 May 2025 16:45:26 GMT | Cyber Sentinel 2025: The Double-Edged Sword of AI in Cybersecurity | Jay Desai | [Read More](https://medium.com/p/be173001d5a7) |
+| Fri, 02 May 2025 16:45:24 GMT | UX in Cybersecurity: 10 Real-World Tips Designers and Developers Shouldn’t Ignore | Marta Fernandez | [Read More](https://medium.com/p/b0240cab532d) |
+| Fri, 02 May 2025 16:44:19 GMT | NIST AI Risk Framework (part 2) | David Scott | [Read More](https://medium.com/p/d86dc98f1ead) |
 | Fri, 02 May 2025 16:39:17 GMT | TryHackMe “Cheese” CTF — Beginner-Friendly Walkthrough (My First CTF!) | KĒLV!N | [Read More](https://medium.com/p/b51fe3542f6a) |
 | Fri, 02 May 2025 16:28:14 GMT | Active Directory Gets Smarter: Key Security Enhancements in Windows Server 2025 | Mohammad  sepehri nia | [Read More](https://medium.com/p/4e2dd650e7d3) |
 | Fri, 02 May 2025 16:25:28 GMT | How Cybercriminals Exploit Data Brokers to Target Law Firms | mePrism Privacy | [Read More](https://medium.com/p/88289548963d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 10:57:25 GMT | Internal Network Exposure Assessment Using Nmap: A Case Study on Local Host IP address | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/c95bcc54df36) |
 | Fri, 02 May 2025 10:56:37 GMT | Source code disclosure via backup files—  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/365ad1a19994) |
 | Fri, 02 May 2025 10:53:08 GMT | Unraveling a Data Breach: A TryHackMe DFIR Adventure with Driving Solutions | Prince Philip | [Read More](https://medium.com/p/5ed326945a6f) |
-| Fri, 02 May 2025 10:50:59 GMT | What the Verizon DBIR 2025 Tells Us About the State of Cyber Threats | SOCRadar® Extended Cyber Threat Intelligence | [Read More](https://medium.com/p/6c09386e55ca) |
-| Fri, 02 May 2025 10:50:17 GMT | [EP. 2] Feature or Flaw — Cookie Attributes | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/f00cbdd84dd3) |
-| Fri, 02 May 2025 10:49:25 GMT | BugCrowd Student Qualifier! CTF Challenge Writeup: Shell_Shop | Aditya Bhos | [Read More](https://medium.com/p/acd49851e845) |
-| Fri, 02 May 2025 10:48:57 GMT | SPLUNK KUNAI CONFIGURATION FOR LINUX | Ozgeserens | [Read More](https://medium.com/p/6c1c3eec110d) |
-| Fri, 02 May 2025 10:45:48 GMT | Traditional vs. Automated Threat Hunting: Closing the Gap in Modern Cybersecurity | Devaaravindlutukurty | [Read More](https://medium.com/p/233744760f34) |
-| Fri, 02 May 2025 10:44:19 GMT | Security by Design : qu’est-ce que ça veut vraiment dire ? | Adam REHAIEM | [Read More](https://medium.com/p/5f1615c41a29) |
-| Fri, 02 May 2025 10:43:02 GMT | MintsLoader and GhostWeaver: The Sneaky Cyber Duo Taking Phishing to the Next Level! ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/1c3c3c7c363d) |
-| Fri, 02 May 2025 10:40:48 GMT | Lampiao(Vulnhub) | Amalpp | [Read More](https://medium.com/p/8816ee83f5f8) |
-| Fri, 02 May 2025 10:40:41 GMT | Microsoft Ditches Passwords for Passkeys: A Passwordless Future Awaits! | Ismail Tasdelen | [Read More](https://medium.com/p/c4672acff17d) |
-| Fri, 02 May 2025 10:39:49 GMT | Ethical Hacking Course in Jodhpur: How to Build a Future-Proof Career in Cybersecurity (2025 Guide) | Maheshwar Singh Shekhawat | [Read More](https://medium.com/p/cda479ef116d) |
-| Fri, 02 May 2025 10:32:46 GMT | Reading Between the Texts: How Gearhead Engineers Phone Hacker Exposed the Affair | Morenolina | [Read More](https://medium.com/p/3282e31612a3) |
-| Fri, 02 May 2025 10:31:25 GMT | Best Remote CCTV Monitoring Solutions for Families | Global CCTV Monitoring Services | [Read More](https://medium.com/p/887c2c199b37) |
-| Fri, 02 May 2025 10:27:14 GMT | Friend or Stranger? How AI Cameras Recognize Faces Around Your Home | Dima Kynal | [Read More](https://medium.com/p/78a9682ef751) |
