@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 08:42:14 GMT | Microsoft Makes Passkeys the Default Sign-In for All New Windows 11 Users | CyBlog | [Read More](https://medium.com/p/ce9ab9e3e756) |
+| Fri, 02 May 2025 08:35:25 GMT | Find Out Who’s Behind an Email: How theHarvester Helps You Stay Safe | Sam Galope | [Read More](https://medium.com/p/3f08b76eb8b0) |
+| Fri, 02 May 2025 08:25:49 GMT | Identifying Risks in Technology Projects | Ed-it Editions | [Read More](https://medium.com/p/e8667de7ef19) |
+| Fri, 02 May 2025 08:24:23 GMT | Secure File Handling in Go 1.24: The Complete Guide to os.Root and OpenInRoot | Siva | [Read More](https://medium.com/p/ccad6286eb6e) |
+| Fri, 02 May 2025 08:24:14 GMT | Kali Linux Operating System Explained | Mwenda Kelvin | [Read More](https://medium.com/p/87ad15ebaac1) |
+| Fri, 02 May 2025 08:23:21 GMT | SASE — Protect Yourself! | Ed-it Editions | [Read More](https://medium.com/p/e7c7aa1d24d7) |
+| Fri, 02 May 2025 08:21:49 GMT | Managing Threat Understanding with Time-Sensitive Reaction Strategies | Ed-it Editions | [Read More](https://medium.com/p/66829db77af1) |
+| Fri, 02 May 2025 08:19:55 GMT | HTTP Status Codes: The Emojis of the Web | Mukul Saini | [Read More](https://medium.com/p/763e8c5288ed) |
+| Fri, 02 May 2025 08:16:31 GMT | Let’s Encrypt: Why You should (and Shouldn’t) use free SSL certificates | Roman Huliak | [Read More](https://medium.com/p/711b3365127f) |
 | Fri, 02 May 2025 08:11:31 GMT | ⚔️ Day 23: Mastering Multi-Endpoint Race Conditions — Where Timing Breaks Logic | Agarwaldaksh | [Read More](https://medium.com/p/8200c4799e00) |
 | Fri, 02 May 2025 08:08:42 GMT | The Daily Tech Digest: 02 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/516082d01ac1) |
 | Fri, 02 May 2025 07:59:32 GMT | Running Proxmox Safely: How to Keep VMs Isolated Without Losing Sleep | Mr.PlanB | [Read More](https://medium.com/p/27430703d63c) |
@@ -107,12 +116,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Fri, 02 May 2025 02:22:25 GMT | The Red Teaming: 30-Day Challenge[18] | Bl@ckC!pH3r | [Read More](https://medium.com/p/d71941b6d0b5) |
 | Fri, 02 May 2025 02:07:57 GMT | Prompt Injection in ChatGPT and LLMs: What Developers Must Know | Manish Shivanandhan | [Read More](https://medium.com/p/a92f9df34569) |
 | Fri, 02 May 2025 02:06:04 GMT | Inside the Kernel: Lessons from Real OS Security Failures | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/0e6b0d77f403) |
-| Fri, 02 May 2025 01:30:40 GMT | Case Study: Unveiling 642,639 Government Credential Leaks Across 192 Countries | WebThreat.io - Fábio Correia | [Read More](https://medium.com/p/2c2cb5f94842) |
-| Fri, 02 May 2025 01:26:43 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 5) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/3329319c5518) |
-| Fri, 02 May 2025 01:17:47 GMT | Yaoguai Aswan CTF 2025 Finals | Sayed Reda | [Read More](https://medium.com/p/3b9003931803) |
-| Fri, 02 May 2025 01:08:52 GMT | The Hidden Race: Quantum Computing, Artificial Intelligence, and the Silent Technological Race | Awakened Chain | [Read More](https://medium.com/p/a22c45bb211a) |
-| Fri, 02 May 2025 01:02:01 GMT | How to Keep Family & Friends Safe Online & Avoid Scams | ɌƋƑ•TECH | [Read More](https://medium.com/p/9ef86aaaa412) |
-| Fri, 02 May 2025 00:37:12 GMT | Finding more subdomains(part 4) | loyalonlytoday | [Read More](https://medium.com/p/a9bdde09f052) |
-| Fri, 02 May 2025 00:32:07 GMT | Day 13: Wireshark — Basic Packet Capture and Analysis | Bl@ckC!pH3r | [Read More](https://medium.com/p/7b67b286f63d) |
-| Fri, 02 May 2025 00:26:11 GMT | KC7: Krusty Krab — Report | Aeronique | [Read More](https://medium.com/p/c29b5dd48d06) |
-| Fri, 02 May 2025 00:22:56 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Harshprajapati | [Read More](https://medium.com/p/d047c9cedad7) |
