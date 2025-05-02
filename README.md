@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 19:25:41 GMT | I FOUND A REAL HACKER. PROFESSORVENOM69@GMAIL | Rosemary | [Read More](https://medium.com/p/3c223cafa37c) |
+| Fri, 02 May 2025 19:22:42 GMT | how intentional can I be? | allyiswondering | [Read More](https://medium.com/p/1d689fd5ece6) |
+| Fri, 02 May 2025 19:20:39 GMT | StresserTH L4,L7 - C2/BOTNET | Richards | [Read More](https://medium.com/p/e7af637b9c8a) |
+| Fri, 02 May 2025 19:19:41 GMT | Fortress of Data: How Modern ERP Systems Are Your First Line of Defense Against Cyber Threats | Grade ERP | [Read More](https://medium.com/p/3fbb80140db6) |
+| Fri, 02 May 2025 19:11:23 GMT | Fixing OWASP API10:2023 — Unsafe Consumption of APIs in Symfony 7 | Tihomir Manushev | [Read More](https://medium.com/p/fe6aef3a2349) |
 | Fri, 02 May 2025 19:05:15 GMT | Shellcode Injection via Window Callbacks | Malforge Group | [Read More](https://medium.com/p/b33f7646c2bd) |
 | Fri, 02 May 2025 19:01:31 GMT | Could a Cybersecurity Mindset Have Kept the Leaning Tower Straight? | Cyber Kavy | [Read More](https://medium.com/p/c5e5cf727be8) |
 | Fri, 02 May 2025 19:01:29 GMT | Analysis Using Splunk for Windows Event Log Monitoring | Awuru Isaac | [Read More](https://medium.com/p/15746cf5a66f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 14:21:01 GMT | Week of Exposure: High-Impact Vulnerabilities and Threat Trends Unfold | Loginsoft | [Read More](https://medium.com/p/155af4b82367) |
 | Fri, 02 May 2025 14:01:51 GMT | CISSP Journal: Business Continuity Planning Part I | abdeldayemnour | [Read More](https://medium.com/p/ba8bc291fedf) |
 | Fri, 02 May 2025 14:01:44 GMT | Think Blockchain Is Complicated? Not After Reading This! | HarisNF | [Read More](https://medium.com/p/364702d32868) |
-| Fri, 02 May 2025 14:00:50 GMT | Cyber Briefing: 2025.05.02 | CyberMaterial | [Read More](https://medium.com/p/a5dd379cbfe0) |
-| Fri, 02 May 2025 14:00:02 GMT | DORA Has Entered the Chat: EU’s New Cyber Rulebook Reshaping Financial Security | january1073 | [Read More](https://medium.com/p/e2ce7dd95c5d) |
-| Fri, 02 May 2025 13:58:39 GMT | TikTok’s €530M GDPR Fine: Why Europe’s Slamming the Brakes on Data Transfers to China! | Ismail Tasdelen | [Read More](https://medium.com/p/c8336cc59cb0) |
-| Fri, 02 May 2025 13:57:33 GMT | 9 Core Threats Facing LLM Agents | Tal Eliyahu | [Read More](https://medium.com/p/f6fbd66fad54) |
-| Fri, 02 May 2025 13:56:51 GMT | 6 Months to Backend Developer: My Journey From Zero IT Knowledge to Coding Professionally | Rizky Ananda | [Read More](https://medium.com/p/5b2b3516c824) |
