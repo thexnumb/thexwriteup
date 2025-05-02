@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 14:32:49 GMT | Building Peer-to-Peer (P2P) Network and Simulating LAN Network for a Small Office | Defenderramadhan | [Read More](https://medium.com/p/9a363993b443) |
+| Fri, 02 May 2025 14:32:02 GMT | “Çok Katmanlı E-Posta Güvenliği: MSA, WAF ve DNS Proxy ile Tam Koruma” | Furkan Ayteş | [Read More](https://medium.com/p/bb96c28d2a53) |
+| Fri, 02 May 2025 14:31:59 GMT | Autonomous Vehicles and the Cyber-Physical Revolution: Shaping the Future of Mobility | Data Defendere | [Read More](https://medium.com/p/32fab4587f95) |
+| Fri, 02 May 2025 14:31:41 GMT | Security Operations Center (SOC) dalam Menangkal Serangan Ransomware | Sigit Adi | [Read More](https://medium.com/p/214772d56c9a) |
+| Fri, 02 May 2025 14:21:31 GMT | How AI Is Transforming the World of Design | Simon Ndiritu | [Read More](https://medium.com/p/3c4a7db13da2) |
+| Fri, 02 May 2025 14:21:01 GMT | Week of Exposure: High-Impact Vulnerabilities and Threat Trends Unfold | Loginsoft | [Read More](https://medium.com/p/155af4b82367) |
 | Fri, 02 May 2025 14:01:51 GMT | CISSP Journal: Business Continuity Planning Part I | abdeldayemnour | [Read More](https://medium.com/p/ba8bc291fedf) |
 | Fri, 02 May 2025 14:01:44 GMT | Think Blockchain Is Complicated? Not After Reading This! | HarisNF | [Read More](https://medium.com/p/364702d32868) |
 | Fri, 02 May 2025 14:00:50 GMT | Cyber Briefing: 2025.05.02 | CyberMaterial | [Read More](https://medium.com/p/a5dd379cbfe0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 08:59:27 GMT | Introduction to Nginx: The Silent Hero Behind the Web | Milan Madusanka senarathna | [Read More](https://medium.com/p/3b1756949152) |
 | Fri, 02 May 2025 08:58:17 GMT | SAP NetWeaver Zero-Day Vulnerability CVE-2025–31324: A Critical Threat to Enterprise Systems | Infoziant | [Read More](https://medium.com/p/2c08d9679cf7) |
 | Fri, 02 May 2025 08:55:57 GMT | Exploring Secure Video Conferencing Solutions for Meaningful Connections | Harold D. Ramirez | [Read More](https://medium.com/p/d295fa8ddfa5) |
-| Fri, 02 May 2025 08:48:45 GMT | Choose the Best Security Company in Pune | United Guard Force India | [Read More](https://medium.com/p/f8ac2e057448) |
-| Fri, 02 May 2025 08:43:23 GMT | The Ultimate NIST 800–171 Compliance Checklist: What Most Businesses Miss! | SecureSlate | [Read More](https://medium.com/p/4dd0ac83d77a) |
-| Fri, 02 May 2025 08:42:14 GMT | Microsoft Makes Passkeys the Default Sign-In for All New Windows 11 Users | CyBlog | [Read More](https://medium.com/p/ce9ab9e3e756) |
-| Fri, 02 May 2025 08:41:59 GMT | Top 5 Benefits of Security Services in Pune | United Guard Force India | [Read More](https://medium.com/p/0b1d363d5ca0) |
-| Fri, 02 May 2025 08:35:25 GMT | Find Out Who’s Behind an Email: How theHarvester Helps You Stay Safe | Sam Galope | [Read More](https://medium.com/p/3f08b76eb8b0) |
-| Fri, 02 May 2025 08:25:49 GMT | Identifying Risks in Technology Projects | Ed-it Editions | [Read More](https://medium.com/p/e8667de7ef19) |
