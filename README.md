@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 09:12:47 GMT | SOS Technology: Empowering Business Expansion with Secure IT Services in Dubai | Sosictengineer | [Read More](https://medium.com/p/38b6de984238) |
+| Fri, 02 May 2025 09:06:03 GMT | Web Security & Bug Bounty: Learn Penetration Testing — Chapter 1 | Riki SatyaGraha | [Read More](https://medium.com/p/51af5f98bc59) |
+| Fri, 02 May 2025 09:02:27 GMT | Demystifying Cookies and Sessions in Node.js: A Journey from Raw HTTP to Express | Chukwuebuka Okoli | [Read More](https://medium.com/p/df55664c1a50) |
+| Fri, 02 May 2025 08:59:27 GMT | Introduction to Nginx: The Silent Hero Behind the Web | Milan Madusanka senarathna | [Read More](https://medium.com/p/3b1756949152) |
+| Fri, 02 May 2025 08:58:17 GMT | SAP NetWeaver Zero-Day Vulnerability CVE-2025–31324: A Critical Threat to Enterprise Systems | Infoziant | [Read More](https://medium.com/p/2c08d9679cf7) |
+| Fri, 02 May 2025 08:55:57 GMT | Exploring Secure Video Conferencing Solutions for Meaningful Connections | Harold D. Ramirez | [Read More](https://medium.com/p/d295fa8ddfa5) |
+| Fri, 02 May 2025 08:48:45 GMT | Choose the Best Security Company in Pune | United Guard Force India | [Read More](https://medium.com/p/f8ac2e057448) |
+| Fri, 02 May 2025 08:43:23 GMT | The Ultimate NIST 800–171 Compliance Checklist: What Most Businesses Miss! | SecureSlate | [Read More](https://medium.com/p/4dd0ac83d77a) |
 | Fri, 02 May 2025 08:42:14 GMT | Microsoft Makes Passkeys the Default Sign-In for All New Windows 11 Users | CyBlog | [Read More](https://medium.com/p/ce9ab9e3e756) |
+| Fri, 02 May 2025 08:41:59 GMT | Top 5 Benefits of Security Services in Pune | United Guard Force India | [Read More](https://medium.com/p/0b1d363d5ca0) |
 | Fri, 02 May 2025 08:35:25 GMT | Find Out Who’s Behind an Email: How theHarvester Helps You Stay Safe | Sam Galope | [Read More](https://medium.com/p/3f08b76eb8b0) |
 | Fri, 02 May 2025 08:25:49 GMT | Identifying Risks in Technology Projects | Ed-it Editions | [Read More](https://medium.com/p/e8667de7ef19) |
 | Fri, 02 May 2025 08:24:23 GMT | Secure File Handling in Go 1.24: The Complete Guide to os.Root and OpenInRoot | Siva | [Read More](https://medium.com/p/ccad6286eb6e) |
@@ -107,12 +116,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Fri, 02 May 2025 03:13:13 GMT | Top 5 IT Companies Post Single-Digit Growth | infohutnews | [Read More](https://medium.com/p/f43399e64d2f) |
 | Fri, 02 May 2025 03:05:37 GMT | 10 AI Security Tools You Should Know About in 2025 | OrangeJellyPie | [Read More](https://medium.com/p/d16a1c7dafe9) |
 | Fri, 02 May 2025 03:03:19 GMT | How to Dissect Malware Like a Cyber Pathologist (Without Getting Infected) | Ahmad Javed | [Read More](https://medium.com/p/41d967abf2e7) |
-| Fri, 02 May 2025 02:35:45 GMT | Hack-Proof Your OS: Securing Windows and Linux | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/084089caefea) |
-| Fri, 02 May 2025 02:34:44 GMT | OSINT Combine CTFD — Challenge: Safari Time | rootsechax | [Read More](https://medium.com/p/b0fc59f0658c) |
-| Fri, 02 May 2025 02:32:26 GMT | OSINT Combine CTFD — Challenge: Not So Smug Smuggler | rootsechax | [Read More](https://medium.com/p/abec5a518400) |
-| Fri, 02 May 2025 02:32:25 GMT | Top 5 Monitoring Tools in 2025 for Cloud DevOps | Sridhar | [Read More](https://medium.com/p/2189f262d497) |
-| Fri, 02 May 2025 02:32:25 GMT | ️ Learn Burp Suite from Scratch Setup in 3 Easy Steps | Reza Yuzron W | [Read More](https://medium.com/p/db8d236856e7) |
-| Fri, 02 May 2025 02:30:44 GMT | Boost Your Linux Performance: How to Increase Swap Memory in 5 Simple Steps (Beginner Friendly) | Rupesh Sharma | [Read More](https://medium.com/p/f62aacacf609) |
-| Fri, 02 May 2025 02:22:25 GMT | The Red Teaming: 30-Day Challenge[18] | Bl@ckC!pH3r | [Read More](https://medium.com/p/d71941b6d0b5) |
-| Fri, 02 May 2025 02:07:57 GMT | Prompt Injection in ChatGPT and LLMs: What Developers Must Know | Manish Shivanandhan | [Read More](https://medium.com/p/a92f9df34569) |
-| Fri, 02 May 2025 02:06:04 GMT | Inside the Kernel: Lessons from Real OS Security Failures | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/0e6b0d77f403) |
