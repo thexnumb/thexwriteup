@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 17:36:46 GMT | A Beginner-Friendly Breakdown of Web Application Penetration Testing in 2025 | Aryansaha | [Read More](https://medium.com/p/6bbe272277cd) |
+| Fri, 02 May 2025 17:30:16 GMT | How to Scan PostScript (.PS) Files for Threats in your Python App | Cloudmersive | [Read More](https://medium.com/p/8c640447adcc) |
+| Fri, 02 May 2025 17:25:55 GMT | White Box Penetration Testing: Why It’s a Big Deal in 2025 | Aryansaha | [Read More](https://medium.com/p/6c303ae18082) |
+| Fri, 02 May 2025 17:23:44 GMT | New phishing scam: Malicious search ads | AdBlock | [Read More](https://medium.com/p/3e799e29598b) |
+| Fri, 02 May 2025 17:21:58 GMT | CAP WALKTHROUGH: HACKTHEBOX | R4nd0mSys | [Read More](https://medium.com/p/b37544cdebd0) |
+| Fri, 02 May 2025 17:21:52 GMT | Remote Code Execution Threat Found in Apache HTTP Server | current.cybersecurity | [Read More](https://medium.com/p/b109460d0a86) |
+| Fri, 02 May 2025 17:20:42 GMT | Boogeyman 2 - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/3422ba5b49bc) |
+| Fri, 02 May 2025 17:16:08 GMT | Race Conditions in JWT Refresh Token Rotation ‍♀️‍➡️ | Ali nazari | [Read More](https://medium.com/p/5293056146af) |
 | Fri, 02 May 2025 17:14:15 GMT | The AI Effect in Learning to Code | Sean H Thomas | [Read More](https://medium.com/p/9999076e69d9) |
+| Fri, 02 May 2025 17:13:43 GMT | The Weekly Threat Round-up 28/04/2025 -02/05/2025 | RileyHv | [Read More](https://medium.com/p/0ff28c51464b) |
 | Fri, 02 May 2025 17:01:50 GMT | Post-Pen Testing: What to Do After the Test | Akshay Chauhan | [Read More](https://medium.com/p/c46cdb610a83) |
 | Fri, 02 May 2025 17:00:49 GMT | “Protecting AI’s Brain: Why Agent Reasoning Hijacking Is a Big Deal” | AnusyaAngamuthu | [Read More](https://medium.com/p/fb6c22a1880d) |
 | Fri, 02 May 2025 16:58:41 GMT | Mr Robot Writeup (Vulnhub Intermediate Machine) | Ivan Daňo | [Read More](https://medium.com/p/db260853968b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 11:20:28 GMT | You Google Something on Your Phone — What Really Happens? | Subadevan C | [Read More](https://medium.com/p/bd57276d2fdf) |
 | Fri, 02 May 2025 11:17:27 GMT | Malware Analysis of Domain Names Using VirusTotal | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/01b4d2416bad) |
 | Fri, 02 May 2025 11:15:48 GMT | How SOAR Platforms Transform Incident Response: Real-World Use Cases | Devaaravindlutukurty | [Read More](https://medium.com/p/31a83da8b95f) |
-| Fri, 02 May 2025 11:14:29 GMT | Crypto Scam Evolution: 5 Critical Protection Strategies | Karl Buhl | [Read More](https://medium.com/p/3a12825a7c4f) |
-| Fri, 02 May 2025 11:11:19 GMT | Why Post-Quantum Crypto Matters & How to Implement NIST’s Standards (2025 Update) | Tausif Ali | [Read More](https://medium.com/p/11602ed240d8) |
-| Fri, 02 May 2025 11:09:51 GMT | Micro Service Security Interview Questions: | Vikas Taank | [Read More](https://medium.com/p/23af12add2f1) |
-| Fri, 02 May 2025 11:07:33 GMT | ‍♀️Breaking In: A Walkthrough of My First Vulnhub CTF Challenge | Esom Eze | [Read More](https://medium.com/p/a63318861f37) |
-| Fri, 02 May 2025 11:04:38 GMT | M&S Cyber Attack: Won’t Somebody Think of the Copywriters?! | Eloise Horsfield | [Read More](https://medium.com/p/f13636d008ee) |
-| Fri, 02 May 2025 11:02:26 GMT | $198M Gone: The 5 Most Devastating Crypto Hacks of April 2025 | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/cbc58203347b) |
-| Fri, 02 May 2025 10:57:25 GMT | Internal Network Exposure Assessment Using Nmap: A Case Study on Local Host IP address | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/c95bcc54df36) |
-| Fri, 02 May 2025 10:56:37 GMT | Source code disclosure via backup files—  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/365ad1a19994) |
-| Fri, 02 May 2025 10:53:08 GMT | Unraveling a Data Breach: A TryHackMe DFIR Adventure with Driving Solutions | Prince Philip | [Read More](https://medium.com/p/5ed326945a6f) |
