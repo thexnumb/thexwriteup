@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 05:00:06 GMT | How Is Cybersecurity Adapting to Stay One Step Ahead of Hackers? | Shivani Sharma | [Read More](https://medium.com/p/ca0713e8c869) |
+| Fri, 02 May 2025 04:59:41 GMT | Aircraft Security in a Connected World | Udit | [Read More](https://medium.com/p/bb70052a3ff2) |
+| Fri, 02 May 2025 04:56:57 GMT | Port : Computer System | Aakash Dhakal | [Read More](https://medium.com/p/7df606c883f3) |
+| Fri, 02 May 2025 04:55:49 GMT | Strengthen Your Security in 2025 with Threat Hunting: Here’s How | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/65e03fec3ee3) |
+| Fri, 02 May 2025 04:49:21 GMT | When Public Records Become Research: | Public Records Watch | [Read More](https://medium.com/p/d2ada594bcc3) |
+| Fri, 02 May 2025 04:45:32 GMT | Cybersecurity Consulting vs In-House Security Teams: Which is Right for You? | R&B Networks | [Read More](https://medium.com/p/34083ecbd336) |
 | Fri, 02 May 2025 04:44:02 GMT | Prompt Injection in Large Language Models: A Comprehensive Analysis of Threats and Mitigation… | Shiam Beeharry | [Read More](https://medium.com/p/1a9f0b44cdec) |
 | Fri, 02 May 2025 04:42:18 GMT | The Windows Concept Journey — Per-User Windows Services | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4ffaed8d5865) |
 | Fri, 02 May 2025 04:32:25 GMT | Part 2: Exploring Static Malware Analysis — Processes, Techniques, and Tools | The Hackers Meetup | [Read More](https://medium.com/p/cb23f2217522) |
@@ -109,9 +115,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 20:26:24 GMT | Detecting Malicious Traffic via SSL/TLS Handshakes: The Art of Hunting in Encrypted Streams | Esra Kayhan | [Read More](https://medium.com/p/2d6f0c5cd9fe) |
 | Thu, 01 May 2025 20:26:24 GMT | Access Control and Vulnerability Exploitation | musayyab sharif | [Read More](https://medium.com/p/3f754930c852) |
 | Thu, 01 May 2025 20:21:59 GMT | HackTheBox — Lame Walkthrough | Cheryl Maise Lobo | [Read More](https://medium.com/p/e00ff76a5adf) |
-| Thu, 01 May 2025 20:19:57 GMT | Are You Wearing a Fur Coat? | Leya Meuvi | [Read More](https://medium.com/p/cab4f3c9c0ad) |
-| Thu, 01 May 2025 20:18:05 GMT | What Lurks Beneath: My Chilling Journey into the Dark Web. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/6854003f133d) |
-| Thu, 01 May 2025 20:15:45 GMT | Creating an Information Security and Privacy Management Plan | Arslaan Asad | [Read More](https://medium.com/p/d23d280014bb) |
-| Thu, 01 May 2025 20:08:02 GMT | Why love is more than a feeling | Maria Bratsos | [Read More](https://medium.com/p/3c67171c5500) |
-| Thu, 01 May 2025 20:02:25 GMT | How to Respond to a Cyber Attack: A Step-by-Step Guide for Business Leaders | John Locke | [Read More](https://medium.com/p/98c59f9e1e5c) |
-| Thu, 01 May 2025 19:50:13 GMT | Building a Scalable Anomaly Detection System with OpenSearch | Furkan Gungor | [Read More](https://medium.com/p/585715542ea5) |
