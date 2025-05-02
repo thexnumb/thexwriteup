@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 10:14:40 GMT | How to Present Bugs to the Team | Olha Holota from TestCaseLab | [Read More](https://medium.com/p/feb5c1d91b59) |
+| Fri, 02 May 2025 10:13:08 GMT | Skills That Make a Great Security Guard Stand Out | United Guard Force India | [Read More](https://medium.com/p/123c0510fc6d) |
+| Fri, 02 May 2025 10:10:31 GMT | Payloads in Plain Sight: How Open Redirect + JavaScript Led to Full Account Takeover | Iski | [Read More](https://medium.com/p/a7ae1c359679) |
+| Fri, 02 May 2025 10:08:42 GMT | Imagine your computer is off. | Shams Ahmadi | [Read More](https://medium.com/p/a31d975f1512) |
+| Fri, 02 May 2025 10:08:05 GMT | Why Businesses Need Security Guard Services | United Guard Force India | [Read More](https://medium.com/p/088312e6a2d8) |
+| Fri, 02 May 2025 10:02:45 GMT | Visualizing System Logs with Splunk: From Setup to Custom Dashboards | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/c80eec8110f6) |
+| Fri, 02 May 2025 10:02:02 GMT | Uba Sani and a National Template for Peace | JJ. Omojuwa | [Read More](https://medium.com/p/1fde393b9980) |
+| Fri, 02 May 2025 10:01:21 GMT | ASF Corporal Test 2025 Is Now Live — Start Practicing Today! | JobsTests.Site | [Read More](https://medium.com/p/f81f1dca8849) |
+| Fri, 02 May 2025 10:00:08 GMT | Demystifying Your Network Traffic on macOS: A Docker-Based Approach with MMT | Luong NGUYEN | [Read More](https://medium.com/p/e9d595034c36) |
+| Fri, 02 May 2025 09:58:11 GMT | Locky Ransomware | TabTree IT Consulting Company | [Read More](https://medium.com/p/9e76c44e31c5) |
+| Fri, 02 May 2025 09:55:08 GMT | Wi-Fi Kablosuz Ağ Güvenliği | umut akdoğan | [Read More](https://medium.com/p/633c74074633) |
+| Fri, 02 May 2025 09:52:53 GMT | Spotting Cyber Threats: How I Learned to Recognize a Hacker. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/9a0511dbdbd4) |
+| Fri, 02 May 2025 09:52:44 GMT | Episode 1: The Door Opens | Odunze Jennifer Oluchukwu | [Read More](https://medium.com/p/7c8af5804762) |
+| Fri, 02 May 2025 09:51:53 GMT | Communicating Value to Leadership: 5 Tips for Security Professionals | SecOps | [Read More](https://medium.com/p/ee05014dbb26) |
+| Fri, 02 May 2025 09:48:38 GMT | The Corix Partners Friday Reading List — May 2, 2025 | JC Gaillard | [Read More](https://medium.com/p/1f92c86b3edd) |
+| Fri, 02 May 2025 09:46:53 GMT | Jennifer’s Journey into Cybersecurity | Odunze Jennifer Oluchukwu | [Read More](https://medium.com/p/473179a2970a) |
+| Fri, 02 May 2025 09:44:07 GMT | Why Steering Security Robots with a PlayStation Controller Is a Bold Cultural Move | Presslink Media | [Read More](https://medium.com/p/0eb164bca8da) |
+| Fri, 02 May 2025 09:39:12 GMT | Using Confidential VM to Ensure Data and Application Protection in GCP | @jacob_sec | [Read More](https://medium.com/p/60f81df48d50) |
 | Fri, 02 May 2025 09:34:18 GMT | Automating dependency updates in your DevOps setup | Jorn Beyers | [Read More](https://medium.com/p/4866169f8e0a) |
 | Fri, 02 May 2025 09:32:27 GMT | “I’ve Been The Archer” | dinar lala | [Read More](https://medium.com/p/49978862151d) |
 | Fri, 02 May 2025 09:32:12 GMT | Why Every AI Startup Needs MCP. | Rohan Girdhani - The TechDoc | [Read More](https://medium.com/p/ff8ee973d031) |
@@ -95,22 +113,3 @@ By Ana Vespera | Ana Vespera ✨ | [Read More](https://medium.com/p/94439308cb25
 | Fri, 02 May 2025 04:32:25 GMT | Part 2: Exploring Static Malware Analysis — Processes, Techniques, and Tools | The Hackers Meetup | [Read More](https://medium.com/p/cb23f2217522) |
 | Fri, 02 May 2025 04:25:47 GMT | $300 Bounty: SSRF to Cloud Metadata | Monika sharma | [Read More](https://medium.com/p/4c6a7dda9818) |
 | Fri, 02 May 2025 04:25:15 GMT | Burnout in Infosec? My Reset Routine That Brought Me Back | Satyam Pathania | [Read More](https://medium.com/p/01476de3fa59) |
-| Fri, 02 May 2025 04:21:12 GMT | Mengidentifikasi Serangan Scanning, XSS, dan SQL Injection dari File PCAP | Angelica Juliana | [Read More](https://medium.com/p/df5f2771e362) |
-| Fri, 02 May 2025 04:09:29 GMT | ️‍♂️ Subdomain Enumeration Automation for Bug Bounty: Save Time, Hack Smart! | Shady Farouk | [Read More](https://medium.com/p/dd5d97eba1dc) |
-| Fri, 02 May 2025 04:08:55 GMT | FutureProof 2.0 - Episode #10: Tech Sovereignty — Can Nations Own Their Digital Futures? | Bayo Adebogun | [Read More](https://medium.com/p/e2d71f3c8339) |
-| Fri, 02 May 2025 04:06:26 GMT | Cybersecurity Basics: Principle of Least Privilege | Jose Toledo | [Read More](https://medium.com/p/91e62645ca49) |
-| Fri, 02 May 2025 04:06:13 GMT | Give it Time: Reflections on a Year of Change, Growth, and Letting Go | Jiaqi Yu | [Read More](https://medium.com/p/2cc9183db9e9) |
-| Fri, 02 May 2025 04:01:32 GMT | NMAP Scripting Engine Part 1 | Red | [Read More](https://medium.com/p/545e79898f82) |
-| Fri, 02 May 2025 03:54:54 GMT | Advanced Adversaries in Focus: MITRE 2025 | Jagir Shastri | [Read More](https://medium.com/p/6abd86bed3db) |
-| Fri, 02 May 2025 03:54:37 GMT | This Espresso Machine Was Actually a Hacker — and We Had No Idea | Noel | [Read More](https://medium.com/p/51bf99eed7c5) |
-| Fri, 02 May 2025 03:54:01 GMT | This One GPS Tracking Trick Could Save Your Car from Theft | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/ff45ebdaff0e) |
-| Fri, 02 May 2025 03:52:50 GMT | $400 Bounty: OAuth Token Theft in One Click | Monika sharma | [Read More](https://medium.com/p/4eb29b16d6dc) |
-| Fri, 02 May 2025 03:50:55 GMT | VPNs And Data Security: Core Concepts Explained | James Neal | [Read More](https://medium.com/p/4051fbf837af) |
-| Fri, 02 May 2025 03:46:24 GMT | From File Upload to Credential Theft: My $1,000 Bounty Journey with Stored XSS | Krish_cyber | [Read More](https://medium.com/p/76d70ac53817) |
-| Fri, 02 May 2025 03:46:12 GMT | Spam vs Phishing: What’s the Difference and Why It Matters | Pawan Jaiswal | [Read More](https://medium.com/p/e8a7ac84b0e9) |
-| Fri, 02 May 2025 03:46:06 GMT | Warning: This Common Office Gadget Can Be a Backdoor for Hackers | Noel | [Read More](https://medium.com/p/1e5816417976) |
-| Fri, 02 May 2025 03:46:00 GMT | The Ultimate Guide to 403 Forbidden Bypass (2025 Edition) | coffinxp | [Read More](https://medium.com/p/1b2e852e503e) |
-| Fri, 02 May 2025 03:45:50 GMT | Protect Your Privacy With Top VPN Technologies | Melvin Erickson | [Read More](https://medium.com/p/c576f00ee072) |
-| Fri, 02 May 2025 03:44:40 GMT | Title: AI and Cybersecurity: Navigating the Challenges and Building Smart Defenses
-Author: Dheeraj… | Dheerajdeshpande | [Read More](https://medium.com/p/4fab289232fe) |
-| Fri, 02 May 2025 03:40:54 GMT | The 5 Cybersecurity Tools Every Mobile App Developer Needs in Their Stack | Ahmad Javed | [Read More](https://medium.com/p/01a261fda645) |
