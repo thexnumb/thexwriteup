@@ -12,11 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 11:14:29 GMT | Crypto Scam Evolution: 5 Critical Protection Strategies | Karl Buhl | [Read More](https://medium.com/p/3a12825a7c4f) |
+| Fri, 02 May 2025 11:11:19 GMT | Why Post-Quantum Crypto Matters & How to Implement NIST’s Standards (2025 Update) | Tausif Ali | [Read More](https://medium.com/p/11602ed240d8) |
+| Fri, 02 May 2025 11:07:33 GMT | ‍♀️Breaking In: A Walkthrough of My First Vulnhub CTF Challenge | Esom Eze | [Read More](https://medium.com/p/a63318861f37) |
+| Fri, 02 May 2025 11:04:38 GMT | M&S Cyber Attack: Won’t Somebody Think of the Copywriters?! | Eloise Horsfield | [Read More](https://medium.com/p/f13636d008ee) |
+| Fri, 02 May 2025 11:02:26 GMT | $198M Gone: The 5 Most Devastating Crypto Hacks of April 2025 | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/cbc58203347b) |
+| Fri, 02 May 2025 10:57:25 GMT | Internal Network Exposure Assessment Using Nmap: A Case Study on Local Host IP address | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/c95bcc54df36) |
+| Fri, 02 May 2025 10:56:37 GMT | Source code disclosure via backup files—  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/365ad1a19994) |
+| Fri, 02 May 2025 10:53:08 GMT | Unraveling a Data Breach: A TryHackMe DFIR Adventure with Driving Solutions | Prince Philip | [Read More](https://medium.com/p/5ed326945a6f) |
+| Fri, 02 May 2025 10:50:59 GMT | What the Verizon DBIR 2025 Tells Us About the State of Cyber Threats | SOCRadar® Extended Cyber Threat Intelligence | [Read More](https://medium.com/p/6c09386e55ca) |
+| Fri, 02 May 2025 10:50:17 GMT | [EP. 2] Feature or Flaw — Cookie Attributes | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/f00cbdd84dd3) |
+| Fri, 02 May 2025 10:49:25 GMT | BugCrowd Student Qualifier! CTF Challenge Writeup: Shell_Shop | Aditya Bhos | [Read More](https://medium.com/p/acd49851e845) |
+| Fri, 02 May 2025 10:48:57 GMT | SPLUNK KUNAI CONFIGURATION FOR LINUX | Ozgeserens | [Read More](https://medium.com/p/6c1c3eec110d) |
+| Fri, 02 May 2025 10:45:48 GMT | Traditional vs. Automated Threat Hunting: Closing the Gap in Modern Cybersecurity | Devaaravindlutukurty | [Read More](https://medium.com/p/233744760f34) |
 | Fri, 02 May 2025 10:43:02 GMT | MintsLoader and GhostWeaver: The Sneaky Cyber Duo Taking Phishing to the Next Level! ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/1c3c3c7c363d) |
 | Fri, 02 May 2025 10:40:48 GMT | Lampiao(Vulnhub) | Amalpp | [Read More](https://medium.com/p/8816ee83f5f8) |
 | Fri, 02 May 2025 10:40:41 GMT | Microsoft Ditches Passwords for Passkeys: A Passwordless Future Awaits! | Ismail Tasdelen | [Read More](https://medium.com/p/c4672acff17d) |
 | Fri, 02 May 2025 10:39:49 GMT | Ethical Hacking Course in Jodhpur: How to Build a Future-Proof Career in Cybersecurity (2025 Guide) | Maheshwar Singh Shekhawat | [Read More](https://medium.com/p/cda479ef116d) |
 | Fri, 02 May 2025 10:32:46 GMT | Reading Between the Texts: How Gearhead Engineers Phone Hacker Exposed the Affair | Morenolina | [Read More](https://medium.com/p/3282e31612a3) |
+| Fri, 02 May 2025 10:31:25 GMT | Best Remote CCTV Monitoring Solutions for Families | Global CCTV Monitoring Services | [Read More](https://medium.com/p/887c2c199b37) |
 | Fri, 02 May 2025 10:27:14 GMT | Friend or Stranger? How AI Cameras Recognize Faces Around Your Home | Dima Kynal | [Read More](https://medium.com/p/78a9682ef751) |
 | Fri, 02 May 2025 10:16:18 GMT | Blue Teams Lab Online — Phishy V1 WalkThrough | Justin | [Read More](https://medium.com/p/525a3298e40f) |
 | Fri, 02 May 2025 10:14:40 GMT | How to Present Bugs to the Team | Olha Holota from TestCaseLab | [Read More](https://medium.com/p/feb5c1d91b59) |
@@ -99,17 +113,3 @@ By Ana Vespera | Ana Vespera ✨ | [Read More](https://medium.com/p/94439308cb25
 | Fri, 02 May 2025 06:07:00 GMT | Top 7 Legacy Application Modernization Strategies for 2025 | Shikhar Gupta | [Read More](https://medium.com/p/94434252d5d6) |
 | Fri, 02 May 2025 06:00:56 GMT | CoinEx Review: | Micheal | [Read More](https://medium.com/p/a3257bec0f96) |
 | Fri, 02 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/78a9e088fae3) |
-| Fri, 02 May 2025 05:55:07 GMT | Cyber Attack 2025 Trends Every Business Must Watch | Gauravinsightss | [Read More](https://medium.com/p/7a6f868ce814) |
-| Fri, 02 May 2025 05:50:09 GMT | AI for Regulatory Compliance in Cybersecurity: Meeting Global Standards | Phanish Lakkarasu | [Read More](https://medium.com/p/b65b21201786) |
-| Fri, 02 May 2025 05:47:39 GMT | Top 5 Common Cybersecurity Threats | Oz | [Read More](https://medium.com/p/1a826dc802c8) |
-| Fri, 02 May 2025 05:35:05 GMT | Understanding Security Controls: Types, Categories, and Real-Life Examples | unica 02 | [Read More](https://medium.com/p/239ae50ee4c6) |
-| Fri, 02 May 2025 05:32:25 GMT | 10 Ways to Secure Your WordPress Website in 2025 | Mayur Koshti | [Read More](https://medium.com/p/e66c36d3605e) |
-| Fri, 02 May 2025 05:32:01 GMT | The Silent Hijack: How WordPress Sites Are Fueling a Global Ad Fraud Operation | Chetans | [Read More](https://medium.com/p/551b6a6b7c07) |
-| Fri, 02 May 2025 05:30:41 GMT | Docker Under Siege: New Malware Campaign Hijacks Cloud Containers | Chetans | [Read More](https://medium.com/p/39d2c5ee34db) |
-| Fri, 02 May 2025 05:29:16 GMT | Botnets on the Rise: The DDoS Surge Shaking Up Global Cybersecurity | Chetans | [Read More](https://medium.com/p/aa4627b5333a) |
-| Fri, 02 May 2025 05:27:19 GMT | Breaking In: My Unfiltered Journey Into the World of Cybersecurity | Gh0stSp10iT | [Read More](https://medium.com/p/fabbfcd31833) |
-| Fri, 02 May 2025 05:26:12 GMT | Palo Alto Networks Prisma SASE 3.0: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/514941498939) |
-| Fri, 02 May 2025 05:19:15 GMT | The Importance of VAPT Services for Business Cybersecurity | Microscan Communications | [Read More](https://medium.com/p/abbb99a332ab) |
-| Fri, 02 May 2025 05:00:06 GMT | How Is Cybersecurity Adapting to Stay One Step Ahead of Hackers? | Shivani Sharma | [Read More](https://medium.com/p/ca0713e8c869) |
-| Fri, 02 May 2025 04:59:41 GMT | Aircraft Security in a Connected World | Udit | [Read More](https://medium.com/p/bb70052a3ff2) |
-| Fri, 02 May 2025 04:56:57 GMT | Port : Computer System | Aakash Dhakal | [Read More](https://medium.com/p/7df606c883f3) |
