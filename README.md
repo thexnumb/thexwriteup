@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 18:21:33 GMT | How Can a Beginner Start a Cybersecurity Career? | SafeAeon Inc. | [Read More](https://medium.com/p/f9fb9964a1ab) |
+| Fri, 02 May 2025 18:20:40 GMT | The Ultimate Web Application Hacking Checklist (2025 Edition) | ZishanAdThandar | [Read More](https://medium.com/p/eea1a0a23977) |
+| Fri, 02 May 2025 18:18:46 GMT | Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover | Huntsman | [Read More](https://medium.com/p/46a09f95eaba) |
+| Fri, 02 May 2025 18:18:38 GMT | How I Built the Ultimate Web Hacking Checklist — And Why It’s Helping Bug Bounty Hunters Win More | ZishanAdThandar | [Read More](https://medium.com/p/d6ef0cb8dc4b) |
+| Fri, 02 May 2025 18:17:13 GMT | Why we’re afraid to ask | James Gottry | [Read More](https://medium.com/p/8119dc4d3d09) |
+| Fri, 02 May 2025 18:13:38 GMT | How Secure Are Modern EHR Systems Against Data Breaches? | SafeAeon Inc. | [Read More](https://medium.com/p/6acd4935f83b) |
+| Fri, 02 May 2025 18:12:18 GMT | Analysis Using Nmap for Network Scanning | Awuru Isaac | [Read More](https://medium.com/p/52c76b4c5ad2) |
+| Fri, 02 May 2025 18:07:37 GMT | Shadows Over the Treasury | Tales of Nyx | [Read More](https://medium.com/p/0e412b20fbe4) |
+| Fri, 02 May 2025 18:00:01 GMT | Escalação de Privilégios Linux | Illumisec | [Read More](https://medium.com/p/9f5b6be2667a) |
+| Fri, 02 May 2025 17:56:35 GMT | ️ How to Recover a Hacked Social Media Account: A Complete Guide by a Cybersecurity Investigator | Kshahabaj | [Read More](https://medium.com/p/74f750d297d9) |
+| Fri, 02 May 2025 17:54:41 GMT | Belajar XSS dari Nol: Nyolong Cookie Lokal Buat Seru-seruan (Edukasi Only!) | Indra Maha Resi | [Read More](https://medium.com/p/ea6ec2361f2f) |
+| Fri, 02 May 2025 17:47:57 GMT | Vulnerable to Prepared: Building Incident Response Plan | Beacon Blade | [Read More](https://medium.com/p/16059849bcf8) |
+| Fri, 02 May 2025 17:43:12 GMT | Red Teaming vs. Penetration Testing: Which One Does Your Business Actually Need in 2025? | Bawanancy | [Read More](https://medium.com/p/cdab00ae34d5) |
 | Fri, 02 May 2025 17:36:46 GMT | A Beginner-Friendly Breakdown of Web Application Penetration Testing in 2025 | Aryansaha | [Read More](https://medium.com/p/6bbe272277cd) |
 | Fri, 02 May 2025 17:30:16 GMT | How to Scan PostScript (.PS) Files for Threats in your Python App | Cloudmersive | [Read More](https://medium.com/p/8c640447adcc) |
 | Fri, 02 May 2025 17:25:55 GMT | White Box Penetration Testing: Why It’s a Big Deal in 2025 | Aryansaha | [Read More](https://medium.com/p/6c303ae18082) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 12:15:42 GMT | Phishing — Snapped Phishing-Line - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/8d1f7d7feea7) |
 | Fri, 02 May 2025 12:08:47 GMT | The Excel Epidemic: How Uncontrolled Spreadsheets Are Crippling Your Organization | Ugur Kadakal | [Read More](https://medium.com/p/236ab6a20c9d) |
 | Fri, 02 May 2025 12:07:27 GMT | WordPress XSS Attacks: What Is It and How to Avoid It? | Taha Mehmood | [Read More](https://medium.com/p/7047b975d228) |
-| Fri, 02 May 2025 12:06:55 GMT | Inside a Watering Hole Attack: A Step-by-Step Social Engineering Demo | Stanley Nilam | [Read More](https://medium.com/p/03fd1b569fef) |
-| Fri, 02 May 2025 12:04:56 GMT | Strengthen Your Vehicle Security West Midlands with Advanced Solutions | Advanced Telematics | [Read More](https://medium.com/p/4744e26255df) |
-| Fri, 02 May 2025 12:02:25 GMT | The Inflation of “Security Researchers” and Its Consequences for Open Source | Marc Anton Dahmen | [Read More](https://medium.com/p/b02623ebf4d3) |
-| Fri, 02 May 2025 12:02:16 GMT | What is the Cisco 350–501 Exam? A Complete Guide for Aspiring Network Engineers | Vasundhra sharma | [Read More](https://medium.com/p/ad449a5ec435) |
-| Fri, 02 May 2025 12:02:11 GMT | The biggest thing you bring to any site? Forward Motion. | EXLITY | [Read More](https://medium.com/p/17a6252fb9b1) |
-| Fri, 02 May 2025 11:44:24 GMT | ️ Top 10 Most Trusted Cyber Security Agencies in 2025 | Harley Dean Pious | [Read More](https://medium.com/p/bd5bdc6bf31c) |
-| Fri, 02 May 2025 11:42:37 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1847a7dd6af7) |
-| Fri, 02 May 2025 11:41:57 GMT | How to Protect Your Social Media and Email Accounts | Polkadot Anti-Scam Team | [Read More](https://medium.com/p/d20e612f3249) |
-| Fri, 02 May 2025 11:41:11 GMT | Recovery With James | Jenny Kyle | [Read More](https://medium.com/p/4b80669bf53c) |
-| Fri, 02 May 2025 11:36:24 GMT | Mentoring the Next Generation: A Cybersecurity Leader’s Role in Closing the Skills Gap | Wale Adedeji | [Read More](https://medium.com/p/f1b8a40dade5) |
-| Fri, 02 May 2025 11:20:28 GMT | You Google Something on Your Phone — What Really Happens? | Subadevan C | [Read More](https://medium.com/p/bd57276d2fdf) |
-| Fri, 02 May 2025 11:17:27 GMT | Malware Analysis of Domain Names Using VirusTotal | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/01b4d2416bad) |
-| Fri, 02 May 2025 11:15:48 GMT | How SOAR Platforms Transform Incident Response: Real-World Use Cases | Devaaravindlutukurty | [Read More](https://medium.com/p/31a83da8b95f) |
