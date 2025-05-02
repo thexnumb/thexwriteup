@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 22:12:32 GMT | Should Companies Worry About Ransomware? | JM | [Read More](https://medium.com/p/8663470d7d22) |
+| Fri, 02 May 2025 22:04:48 GMT | Depression is an easy “friend” to sit with. | Lauryn | [Read More](https://medium.com/p/4df890e5f224) |
+| Fri, 02 May 2025 21:55:20 GMT | No Risk, No Story | Daniel Gagarin | [Read More](https://medium.com/p/af3a6ec188e2) |
 | Fri, 02 May 2025 21:03:51 GMT | The Best First Phone for your Child | Savvy Cyber Kids | [Read More](https://medium.com/p/66ebb125fcd1) |
 | Fri, 02 May 2025 21:01:49 GMT | How to Setup a MacBook with Privacy in Mind | Savvy Cyber Kids | [Read More](https://medium.com/p/86099a7cbd49) |
 | Fri, 02 May 2025 20:59:57 GMT | How to Protect Your Data from Theft | Savvy Cyber Kids | [Read More](https://medium.com/p/fc056cbc28f9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 15:47:52 GMT | Ensuring Safe Healthcare Environments: Trusted Hospital Security Guards in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/2442e45e7e84) |
 | Fri, 02 May 2025 15:46:04 GMT | Achieve Greater Security With Advanced VPN Features | Melvin Erickson | [Read More](https://medium.com/p/bb32e61a4506) |
 | Fri, 02 May 2025 15:38:30 GMT | Harsh Truths for Americans Aged 25–35: A Survival Guide for the Ruthless Economy | Ozdprinter | [Read More](https://medium.com/p/557d5e5914da) |
-| Fri, 02 May 2025 15:30:48 GMT | Secure Environment in Web Application Deployment | Mehran Hematyar | [Read More](https://medium.com/p/6697193e90ca) |
-| Fri, 02 May 2025 15:21:40 GMT | - … | Φiriki Intelligence | [Read More](https://medium.com/p/d00d2eb877e3) |
-| Fri, 02 May 2025 15:19:27 GMT | The Rise of Phishing Attacks and How to Mitigate Them | Jackdavis Iap | [Read More](https://medium.com/p/5ccb8ca7e809) |
