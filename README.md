@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 05:35:05 GMT | Understanding Security Controls: Types, Categories, and Real-Life Examples | unica 02 | [Read More](https://medium.com/p/239ae50ee4c6) |
+| Fri, 02 May 2025 05:32:25 GMT | 10 Ways to Secure Your WordPress Website in 2025 | Mayur Koshti | [Read More](https://medium.com/p/e66c36d3605e) |
+| Fri, 02 May 2025 05:32:01 GMT | The Silent Hijack: How WordPress Sites Are Fueling a Global Ad Fraud Operation | Chetans | [Read More](https://medium.com/p/551b6a6b7c07) |
+| Fri, 02 May 2025 05:30:41 GMT | Docker Under Siege: New Malware Campaign Hijacks Cloud Containers | Chetans | [Read More](https://medium.com/p/39d2c5ee34db) |
+| Fri, 02 May 2025 05:29:16 GMT | Botnets on the Rise: The DDoS Surge Shaking Up Global Cybersecurity | Chetans | [Read More](https://medium.com/p/aa4627b5333a) |
+| Fri, 02 May 2025 05:27:19 GMT | Breaking In: My Unfiltered Journey Into the World of Cybersecurity | Gh0stSp10iT | [Read More](https://medium.com/p/fabbfcd31833) |
+| Fri, 02 May 2025 05:26:12 GMT | Palo Alto Networks Prisma SASE 3.0: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/514941498939) |
+| Fri, 02 May 2025 05:19:15 GMT | The Importance of VAPT Services for Business Cybersecurity | Microscan Communications | [Read More](https://medium.com/p/abbb99a332ab) |
 | Fri, 02 May 2025 05:00:06 GMT | How Is Cybersecurity Adapting to Stay One Step Ahead of Hackers? | Shivani Sharma | [Read More](https://medium.com/p/ca0713e8c869) |
 | Fri, 02 May 2025 04:59:41 GMT | Aircraft Security in a Connected World | Udit | [Read More](https://medium.com/p/bb70052a3ff2) |
 | Fri, 02 May 2025 04:56:57 GMT | Port : Computer System | Aakash Dhakal | [Read More](https://medium.com/p/7df606c883f3) |
@@ -107,11 +115,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 21:07:52 GMT | Need guidance in bug bounty | Shahin | [Read More](https://medium.com/p/a5171d591dec) |
 | Thu, 01 May 2025 21:06:15 GMT | Firewalls vs WAFs: Defending Your Digital Fortress from the Network to the Application Layer | Diogo Neto | [Read More](https://medium.com/p/8adb236c74c3) |
 | Thu, 01 May 2025 21:02:24 GMT | NetFlow and Zeek for Network Traffic Analysis and Anomaly Detection | Esra Kayhan | [Read More](https://medium.com/p/2d8c2043886d) |
-| Thu, 01 May 2025 20:57:15 GMT | ️ The CIA Triad: The Backbone of Cybersecurity | Thakur Naman Singh | [Read More](https://medium.com/p/0937eab42a21) |
-| Thu, 01 May 2025 20:55:39 GMT | Embracing Digital Transformation to Strengthen Community Healthcare | Mahendra Aseri | [Read More](https://medium.com/p/3f53d91c9ba3) |
-| Thu, 01 May 2025 20:45:23 GMT | Why Some Cyber Threats Are Deliberately Ignored | Rouzbeh No | [Read More](https://medium.com/p/5a6b4316cc87) |
-| Thu, 01 May 2025 20:31:30 GMT | How to Prevent Malicious .EPUB File Uploads in Java | Cloudmersive | [Read More](https://medium.com/p/3c51b1a13733) |
-| Thu, 01 May 2025 20:27:56 GMT | Vulnerability Assessment with Tenable Nessus® | Bahadir Mammadli | [Read More](https://medium.com/p/e9e4288a476d) |
-| Thu, 01 May 2025 20:26:24 GMT | Detecting Malicious Traffic via SSL/TLS Handshakes: The Art of Hunting in Encrypted Streams | Esra Kayhan | [Read More](https://medium.com/p/2d6f0c5cd9fe) |
-| Thu, 01 May 2025 20:26:24 GMT | Access Control and Vulnerability Exploitation | musayyab sharif | [Read More](https://medium.com/p/3f754930c852) |
-| Thu, 01 May 2025 20:21:59 GMT | HackTheBox — Lame Walkthrough | Cheryl Maise Lobo | [Read More](https://medium.com/p/e00ff76a5adf) |
