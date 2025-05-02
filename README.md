@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 07:12:20 GMT | Persistence via Registry — How Attackers Abuse the Windows Registry | Paritosh | [Read More](https://medium.com/p/186be2587c20) |
+| Fri, 02 May 2025 07:12:13 GMT | How to Build a Trustworthy Security Team for Your Business | Mohan Ahuja | [Read More](https://medium.com/p/15a57d79138d) |
+| Fri, 02 May 2025 07:07:13 GMT | Playing with Binaries: Emulation and Debugging | Horrow | [Read More](https://medium.com/p/c7913688862c) |
+| Fri, 02 May 2025 07:05:45 GMT | ประจำวันศุกร์ที่ 2 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7825a62846ff) |
+| Fri, 02 May 2025 06:59:17 GMT | Secure Your Android Code (Part 1) | Prouha Kévin | [Read More](https://medium.com/p/1a9e8ca1af38) |
+| Fri, 02 May 2025 06:50:41 GMT | Williams Security Task Force-Event Security Services West Palm Beach | Williams Security Task Force | [Read More](https://medium.com/p/9f63538b66fc) |
+| Fri, 02 May 2025 06:50:28 GMT | “AI Isn’t Coming. It’s Already Here — and Running the Show.”
+By Ana Vespera | Ana Vespera ✨ | [Read More](https://medium.com/p/94439308cb25) |
+| Fri, 02 May 2025 06:41:32 GMT | ERP Tyranny: Where Politics, Power Plays, and Purges Reign Supreme | Namir Sagheenanajar | [Read More](https://medium.com/p/f132fce8d32d) |
 | Fri, 02 May 2025 06:38:51 GMT | A Guide to Cybersecurity Risk Assessment Checklist | Crystal Recoup | [Read More](https://medium.com/p/f154fff8e728) |
 | Fri, 02 May 2025 06:37:17 GMT | From Electrical Engineer to Cybersecurity Champion — The Journey of Shaik Shoaib with KIIS | KLEAP Institute of Information Security | [Read More](https://medium.com/p/68b9ff781a14) |
 | Fri, 02 May 2025 06:35:47 GMT | AI and Fraud Detection: How Fintech is Fighting Financial Crime | Noah Martinez | [Read More](https://medium.com/p/5f44259ee0a3) |
@@ -107,11 +116,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 23:12:48 GMT | Nation State Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b752750c6e78) |
 | Thu, 01 May 2025 23:02:38 GMT | Tools of the Trade: Top 10 Forensics Software Every Analyst Should Know | ByteSectorX | [Read More](https://medium.com/p/37bbfcc1c386) |
 | Thu, 01 May 2025 23:00:53 GMT | How to Use PGP to Digitally Sign and Secure Your Files and Images | ByteSectorX | [Read More](https://medium.com/p/b8ce00aa5f20) |
-| Thu, 01 May 2025 22:52:54 GMT | Freelance Content Writing: A Step-by-Step Guide for Beginners | Pathway to Progress | [Read More](https://medium.com/p/ff67bf78789b) |
-| Thu, 01 May 2025 22:52:01 GMT | Comprehensive Summary: Security Information and Event Management (SIEM) | Dharmik Savani | [Read More](https://medium.com/p/9ebbf8ab593b) |
-| Thu, 01 May 2025 22:44:30 GMT | Password Attacks — Network Services — CPTS | nob1as | [Read More](https://medium.com/p/8bc942d42fcf) |
-| Thu, 01 May 2025 22:32:25 GMT | WEASEL WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/d7638cb4ecad) |
-| Thu, 01 May 2025 22:25:47 GMT | Error installing cocoapods for Mac Intel!! | Ahmet Bostanciklioglu | [Read More](https://medium.com/p/3b4f180e3030) |
-| Thu, 01 May 2025 22:24:02 GMT | Why Hizo Prioritizes Cybersecurity | HIZO HQ | [Read More](https://medium.com/p/99f3e184b146) |
-| Thu, 01 May 2025 22:23:40 GMT | US Reaffirms Full Support for Taiwan Amid Growing China Tensions | Yasmim Sousa | [Read More](https://medium.com/p/219ebf71cfb7) |
-| Thu, 01 May 2025 22:17:53 GMT | HTB Cascade Walkthrough | Mauricio Pallares | [Read More](https://medium.com/p/740a9a3a9afa) |
