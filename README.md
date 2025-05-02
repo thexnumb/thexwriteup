@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 22:16:37 GMT | Implementing PAM to Secure Your Most Sensitive Accounts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ff0973ca1792) |
+| Fri, 02 May 2025 22:14:02 GMT | Scattered Spider Strikes Again: Why Modern Enterprises Must Rethink Identity and Access Security | Avnishyam | [Read More](https://medium.com/p/ec73094e26fb) |
 | Fri, 02 May 2025 22:12:32 GMT | Should Companies Worry About Ransomware? | JM | [Read More](https://medium.com/p/8663470d7d22) |
 | Fri, 02 May 2025 22:04:48 GMT | Depression is an easy “friend” to sit with. | Lauryn | [Read More](https://medium.com/p/4df890e5f224) |
 | Fri, 02 May 2025 21:55:20 GMT | No Risk, No Story | Daniel Gagarin | [Read More](https://medium.com/p/af3a6ec188e2) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 15:54:50 GMT | TryHackMe - SOC Workbooks and Lookups - WriteUp | Axoloth | [Read More](https://medium.com/p/c041fdfa6fa8) |
 | Fri, 02 May 2025 15:54:45 GMT | My Shameless Plug | Eina Schroeder | [Read More](https://medium.com/p/19331688c500) |
 | Fri, 02 May 2025 15:47:52 GMT | Ensuring Safe Healthcare Environments: Trusted Hospital Security Guards in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/2442e45e7e84) |
-| Fri, 02 May 2025 15:46:04 GMT | Achieve Greater Security With Advanced VPN Features | Melvin Erickson | [Read More](https://medium.com/p/bb32e61a4506) |
-| Fri, 02 May 2025 15:38:30 GMT | Harsh Truths for Americans Aged 25–35: A Survival Guide for the Ruthless Economy | Ozdprinter | [Read More](https://medium.com/p/557d5e5914da) |
