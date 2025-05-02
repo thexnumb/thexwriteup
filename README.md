@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 19:05:15 GMT | Shellcode Injection via Window Callbacks | Malforge Group | [Read More](https://medium.com/p/b33f7646c2bd) |
+| Fri, 02 May 2025 19:01:31 GMT | Could a Cybersecurity Mindset Have Kept the Leaning Tower Straight? | Cyber Kavy | [Read More](https://medium.com/p/c5e5cf727be8) |
+| Fri, 02 May 2025 19:01:29 GMT | Analysis Using Splunk for Windows Event Log Monitoring | Awuru Isaac | [Read More](https://medium.com/p/15746cf5a66f) |
+| Fri, 02 May 2025 19:00:50 GMT | Securing Wendy’s: A Practical Guide to Incident Response in Fast Food | Rohith Dinakaran | [Read More](https://medium.com/p/701b5a413d1f) |
+| Fri, 02 May 2025 18:58:58 GMT | 5 Remote Work Trends That Will Define Q2 2025 | Hirely | [Read More](https://medium.com/p/024fd2fc3ad8) |
+| Fri, 02 May 2025 18:52:17 GMT | Exploiting Race Condition to apply discount coupon multiple times | Arunoday Tiwari | [Read More](https://medium.com/p/8c8368be44d2) |
+| Fri, 02 May 2025 18:48:40 GMT | Tough Jobs Need Tough Gear: A Look at the Heavy-Duty APX 6000 Radio Holster | Judy Reynolds | [Read More](https://medium.com/p/7c85ab4b4ae2) |
 | Fri, 02 May 2025 18:39:21 GMT | Threat Hunting 101: Identifying Brute Force Attacks with Sentinel, MDE, and the MITRE ATT&CK… | Dean Haycox | [Read More](https://medium.com/p/42e836b24cbc) |
 | Fri, 02 May 2025 18:37:20 GMT | Privilege Escalation to Super Admin via Mass Assessment in a Multi-Tenant Laravel App | Rahul M S | [Read More](https://medium.com/p/526d1309de73) |
 | Fri, 02 May 2025 18:37:05 GMT | Anonymous— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/705a3e67bb09) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 13:58:39 GMT | TikTok’s €530M GDPR Fine: Why Europe’s Slamming the Brakes on Data Transfers to China! | Ismail Tasdelen | [Read More](https://medium.com/p/c8336cc59cb0) |
 | Fri, 02 May 2025 13:57:33 GMT | 9 Core Threats Facing LLM Agents | Tal Eliyahu | [Read More](https://medium.com/p/f6fbd66fad54) |
 | Fri, 02 May 2025 13:56:51 GMT | 6 Months to Backend Developer: My Journey From Zero IT Knowledge to Coding Professionally | Rizky Ananda | [Read More](https://medium.com/p/5b2b3516c824) |
-| Fri, 02 May 2025 13:38:55 GMT | How to hack the world’s most secure networks: Part 1 — Introduction | Cesaire Njietche Fangang | [Read More](https://medium.com/p/baa058ae6298) |
-| Fri, 02 May 2025 13:31:24 GMT | Cyber Kill Chain for Beginners: How Hackers Plan Attacks and How You Can Stop Them | Shah kaif | [Read More](https://medium.com/p/a981d7e4dead) |
-| Fri, 02 May 2025 13:12:43 GMT | Informational Momentum, Duality, and Entanglement: Foundations for Emergent Spacetime Structure | David Lille | [Read More](https://medium.com/p/6016dddbba0a) |
-| Fri, 02 May 2025 13:10:42 GMT | Firewalls Are Not Enough: EDSPL’s New-Age Security Science for the Modern Threat Landscape | saurabh cyberinfomines | [Read More](https://medium.com/p/d58e327610cc) |
-| Fri, 02 May 2025 12:59:41 GMT | Unlocking Your Future: Why Cybersecurity Might Be the Career You Never Considered | ICTRD-Kaushalpith | [Read More](https://medium.com/p/75eb4333fb24) |
-| Fri, 02 May 2025 12:58:16 GMT | So You Want to Get Into Cybersecurity and You’re Feeling Overwhelmed? | PwnerJoe | [Read More](https://medium.com/p/25cc78274e12) |
-| Fri, 02 May 2025 12:58:15 GMT | Why You Can’t Stop Online Scams (Fast Flux Secrets Revealed) | Dhanush N | [Read More](https://medium.com/p/e09f3d02fee3) |
