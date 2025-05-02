@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 16:39:17 GMT | TryHackMe “Cheese” CTF — Beginner-Friendly Walkthrough (My First CTF!) | KĒLV!N | [Read More](https://medium.com/p/b51fe3542f6a) |
+| Fri, 02 May 2025 16:28:14 GMT | Active Directory Gets Smarter: Key Security Enhancements in Windows Server 2025 | Mohammad  sepehri nia | [Read More](https://medium.com/p/4e2dd650e7d3) |
+| Fri, 02 May 2025 16:25:28 GMT | How Cybercriminals Exploit Data Brokers to Target Law Firms | mePrism Privacy | [Read More](https://medium.com/p/88289548963d) |
+| Fri, 02 May 2025 16:25:18 GMT | Semgrep 101: Creating SAST Rules for Your Codebase | Hosam Gemei | [Read More](https://medium.com/p/e3147f339e55) |
+| Fri, 02 May 2025 16:24:27 GMT | Outdated Crypto Libraries: A Hidden Risk | Aditya Singh | [Read More](https://medium.com/p/4765305b18c9) |
+| Fri, 02 May 2025 16:23:47 GMT | Cybersecurity 101 | Sujal Adhikari | [Read More](https://medium.com/p/2edbd4bec954) |
+| Fri, 02 May 2025 16:23:27 GMT | $1000 Bounty: Account Takeover via Host Header Injection in Password Reset Flow | Ehtesham Ul Haq | [Read More](https://medium.com/p/dc0cdb2d972b) |
 | Fri, 02 May 2025 16:17:06 GMT | Cybersecurity News Review — Week 18 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/dbda26c727be) |
 | Fri, 02 May 2025 16:12:55 GMT | The Unseen Hero of Cybersecurity: Preventing Threats Before They Emerge with Threat Modeling | Adnan Kutay Yüksel | [Read More](https://medium.com/p/e92c1197fdcd) |
 | Fri, 02 May 2025 16:11:44 GMT | How Can I Withdraw My Money From Binolla? | Alvos | [Read More](https://medium.com/p/be5f78fd4553) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 10:32:46 GMT | Reading Between the Texts: How Gearhead Engineers Phone Hacker Exposed the Affair | Morenolina | [Read More](https://medium.com/p/3282e31612a3) |
 | Fri, 02 May 2025 10:31:25 GMT | Best Remote CCTV Monitoring Solutions for Families | Global CCTV Monitoring Services | [Read More](https://medium.com/p/887c2c199b37) |
 | Fri, 02 May 2025 10:27:14 GMT | Friend or Stranger? How AI Cameras Recognize Faces Around Your Home | Dima Kynal | [Read More](https://medium.com/p/78a9682ef751) |
-| Fri, 02 May 2025 10:16:18 GMT | Blue Teams Lab Online — Phishy V1 WalkThrough | Justin | [Read More](https://medium.com/p/525a3298e40f) |
-| Fri, 02 May 2025 10:14:40 GMT | How to Present Bugs to the Team | Olha Holota from TestCaseLab | [Read More](https://medium.com/p/feb5c1d91b59) |
-| Fri, 02 May 2025 10:13:54 GMT | DevSecOps Phase 1: Planning & Security Requirements Engineering | Dinidhu Jayasinghe | [Read More](https://medium.com/p/bc81075149d2) |
-| Fri, 02 May 2025 10:13:08 GMT | Skills That Make a Great Security Guard Stand Out | United Guard Force India | [Read More](https://medium.com/p/123c0510fc6d) |
-| Fri, 02 May 2025 10:10:31 GMT | Payloads in Plain Sight: How Open Redirect + JavaScript Led to Full Account Takeover | Iski | [Read More](https://medium.com/p/a7ae1c359679) |
-| Fri, 02 May 2025 10:08:42 GMT | Imagine your computer is off. | Shams Ahmadi | [Read More](https://medium.com/p/a31d975f1512) |
-| Fri, 02 May 2025 10:08:05 GMT | Why Businesses Need Security Guard Services | United Guard Force India | [Read More](https://medium.com/p/088312e6a2d8) |
