@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 06:19:41 GMT | Start Your Tech Career in 2025: Beginner IT Certifications to Earn a Competitive Salary | CyberSecRealm | [Read More](https://medium.com/p/c0eacee41342) |
+| Fri, 02 May 2025 06:18:03 GMT | Top 10 Mobile App Security Tips and Trends for 2025 | SignMyCode | [Read More](https://medium.com/p/c390e99b6441) |
+| Fri, 02 May 2025 06:16:07 GMT | “The Human Faces Behind National Security: Stories of Mike Waltz, Marco Rubio, and the Guardians of… | GOPAL KRISHNA MAITY | [Read More](https://medium.com/p/a92a87635a93) |
+| Fri, 02 May 2025 06:15:55 GMT | Safeguarding Your Digital Self: Why Data Privacy Matters More Than Ever | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/d60797da965d) |
+| Fri, 02 May 2025 06:09:39 GMT | From Packet Filters to AI Sentinels: The Incredible Journey of the Firewall | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/196001fd12be) |
+| Fri, 02 May 2025 06:07:00 GMT | Top 7 Legacy Application Modernization Strategies for 2025 | Shikhar Gupta | [Read More](https://medium.com/p/94434252d5d6) |
+| Fri, 02 May 2025 06:00:56 GMT | CoinEx Review: | Micheal | [Read More](https://medium.com/p/a3257bec0f96) |
+| Fri, 02 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 02, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/78a9e088fae3) |
+| Fri, 02 May 2025 05:55:07 GMT | Cyber Attack 2025 Trends Every Business Must Watch | Gauravinsightss | [Read More](https://medium.com/p/7a6f868ce814) |
+| Fri, 02 May 2025 05:50:09 GMT | AI for Regulatory Compliance in Cybersecurity: Meeting Global Standards | Phanish Lakkarasu | [Read More](https://medium.com/p/b65b21201786) |
+| Fri, 02 May 2025 05:47:39 GMT | Top 5 Common Cybersecurity Threats | Oz | [Read More](https://medium.com/p/1a826dc802c8) |
 | Fri, 02 May 2025 05:35:05 GMT | Understanding Security Controls: Types, Categories, and Real-Life Examples | unica 02 | [Read More](https://medium.com/p/239ae50ee4c6) |
 | Fri, 02 May 2025 05:32:25 GMT | 10 Ways to Secure Your WordPress Website in 2025 | Mayur Koshti | [Read More](https://medium.com/p/e66c36d3605e) |
 | Fri, 02 May 2025 05:32:01 GMT | The Silent Hijack: How WordPress Sites Are Fueling a Global Ad Fraud Operation | Chetans | [Read More](https://medium.com/p/551b6a6b7c07) |
@@ -31,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 04:32:25 GMT | Part 2: Exploring Static Malware Analysis — Processes, Techniques, and Tools | The Hackers Meetup | [Read More](https://medium.com/p/cb23f2217522) |
 | Fri, 02 May 2025 04:25:47 GMT | $300 Bounty: SSRF to Cloud Metadata | Monika sharma | [Read More](https://medium.com/p/4c6a7dda9818) |
 | Fri, 02 May 2025 04:25:15 GMT | Burnout in Infosec? My Reset Routine That Brought Me Back | Satyam Pathania | [Read More](https://medium.com/p/01476de3fa59) |
+| Fri, 02 May 2025 04:21:12 GMT | Mengidentifikasi Serangan Scanning, XSS, dan SQL Injection dari File PCAP | Angelica Juliana | [Read More](https://medium.com/p/df5f2771e362) |
 | Fri, 02 May 2025 04:09:29 GMT | ️‍♂️ Subdomain Enumeration Automation for Bug Bounty: Save Time, Hack Smart! | Shady Farouk | [Read More](https://medium.com/p/dd5d97eba1dc) |
 | Fri, 02 May 2025 04:08:55 GMT | FutureProof 2.0 - Episode #10: Tech Sovereignty — Can Nations Own Their Digital Futures? | Bayo Adebogun | [Read More](https://medium.com/p/e2d71f3c8339) |
 | Fri, 02 May 2025 04:06:26 GMT | Cybersecurity Basics: Principle of Least Privilege | Jose Toledo | [Read More](https://medium.com/p/91e62645ca49) |
@@ -103,15 +115,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 22:08:24 GMT | Wonderland — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/31db78a25319) |
 | Thu, 01 May 2025 22:01:34 GMT | Is Your Snowflake Secure? Here’s a Practical Review You Can Run Today | Eylon Steiner | [Read More](https://medium.com/p/f291d686931c) |
 | Thu, 01 May 2025 21:53:41 GMT | Discover the Future of Security with ANRAN CCTV Cameras! | vreed4565 | [Read More](https://medium.com/p/302b35a91438) |
-| Thu, 01 May 2025 21:47:25 GMT | Hacking Services Consultation - Firewall Bypass | BlackHat | [Read More](https://medium.com/p/77cf74c817ae) |
-| Thu, 01 May 2025 21:30:22 GMT | Understanding Proxies: The Hidden Middlemen of Modern Networking | Diogo Neto | [Read More](https://medium.com/p/f1046d469d1e) |
-| Thu, 01 May 2025 21:29:04 GMT | RAMPCon 2025: Navigating the Future of FedRAMP and Cloud Security | Kinsey Matthews | [Read More](https://medium.com/p/3907f8d4e044) |
-| Thu, 01 May 2025 21:26:01 GMT | M&S Meltdown: Cyberattack Disrupts Stores, Sales and Trust | Hoplon Infosec | [Read More](https://medium.com/p/7e2959fa5ccb) |
-| Thu, 01 May 2025 21:22:04 GMT | Early Cascade Injection | S12 - H4CK | [Read More](https://medium.com/p/db3882a10bc7) |
-| Thu, 01 May 2025 21:19:19 GMT | Slopsquatting: Yes, It Is As Stupid As It Sounds | Andrew Zuo | [Read More](https://medium.com/p/973dab6d92e7) |
-| Thu, 01 May 2025 21:12:24 GMT | DNS Tunneling Detection: Hunting via Passive DNS Logs | Esra Kayhan | [Read More](https://medium.com/p/a6fd761ff822) |
-| Thu, 01 May 2025 21:09:03 GMT | AI Security: Hacking the AI- How People Jailbreak LLMs And Why It Matters | Mariem Jabloun | [Read More](https://medium.com/p/154267edc5ca) |
-| Thu, 01 May 2025 21:08:54 GMT | The Rise of Job Offer Scams on LinkedIn and WhatsApp: What You Need to Know | Suhas Gaikwad | [Read More](https://medium.com/p/3321cf848bb9) |
-| Thu, 01 May 2025 21:07:52 GMT | Need guidance in bug bounty | Shahin | [Read More](https://medium.com/p/a5171d591dec) |
-| Thu, 01 May 2025 21:06:15 GMT | Firewalls vs WAFs: Defending Your Digital Fortress from the Network to the Application Layer | Diogo Neto | [Read More](https://medium.com/p/8adb236c74c3) |
-| Thu, 01 May 2025 21:02:24 GMT | NetFlow and Zeek for Network Traffic Analysis and Anomaly Detection | Esra Kayhan | [Read More](https://medium.com/p/2d8c2043886d) |
