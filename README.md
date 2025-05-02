@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 06:38:51 GMT | A Guide to Cybersecurity Risk Assessment Checklist | Crystal Recoup | [Read More](https://medium.com/p/f154fff8e728) |
+| Fri, 02 May 2025 06:37:17 GMT | From Electrical Engineer to Cybersecurity Champion — The Journey of Shaik Shoaib with KIIS | KLEAP Institute of Information Security | [Read More](https://medium.com/p/68b9ff781a14) |
+| Fri, 02 May 2025 06:35:47 GMT | AI and Fraud Detection: How Fintech is Fighting Financial Crime | Noah Martinez | [Read More](https://medium.com/p/5f44259ee0a3) |
+| Fri, 02 May 2025 06:31:26 GMT | Mastering CNAME Records: Best Practices, Pitfalls, and Performance | MonitorDNS | [Read More](https://medium.com/p/7b91d1de41c2) |
+| Fri, 02 May 2025 06:25:01 GMT | What Is Arbitrage Bot Development for Crypto Trading? | Remand Simon | [Read More](https://medium.com/p/5d2aa99848ef) |
 | Fri, 02 May 2025 06:19:41 GMT | Start Your Tech Career in 2025: Beginner IT Certifications to Earn a Competitive Salary | CyberSecRealm | [Read More](https://medium.com/p/c0eacee41342) |
 | Fri, 02 May 2025 06:18:03 GMT | Top 10 Mobile App Security Tips and Trends for 2025 | SignMyCode | [Read More](https://medium.com/p/c390e99b6441) |
 | Fri, 02 May 2025 06:16:07 GMT | “The Human Faces Behind National Security: Stories of Mike Waltz, Marco Rubio, and the Guardians of… | GOPAL KRISHNA MAITY | [Read More](https://medium.com/p/a92a87635a93) |
@@ -110,8 +115,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 22:24:02 GMT | Why Hizo Prioritizes Cybersecurity | HIZO HQ | [Read More](https://medium.com/p/99f3e184b146) |
 | Thu, 01 May 2025 22:23:40 GMT | US Reaffirms Full Support for Taiwan Amid Growing China Tensions | Yasmim Sousa | [Read More](https://medium.com/p/219ebf71cfb7) |
 | Thu, 01 May 2025 22:17:53 GMT | HTB Cascade Walkthrough | Mauricio Pallares | [Read More](https://medium.com/p/740a9a3a9afa) |
-| Thu, 01 May 2025 22:16:24 GMT | What is Privileged Access Management (PAM) and Why It’s Vital for Cybersecurity | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe43ad0b7494) |
-| Thu, 01 May 2025 22:15:05 GMT | Why Cybersecurity Requires Passion, Not Just Skills: My Takeaways from a Globant Session | Fabián Muñoz | [Read More](https://medium.com/p/f23410f621ea) |
-| Thu, 01 May 2025 22:08:24 GMT | Wonderland — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/31db78a25319) |
-| Thu, 01 May 2025 22:01:34 GMT | Is Your Snowflake Secure? Here’s a Practical Review You Can Run Today | Eylon Steiner | [Read More](https://medium.com/p/f291d686931c) |
-| Thu, 01 May 2025 21:53:41 GMT | Discover the Future of Security with ANRAN CCTV Cameras! | vreed4565 | [Read More](https://medium.com/p/302b35a91438) |
