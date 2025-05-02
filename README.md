@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 03:46:24 GMT | From File Upload to Credential Theft: My $1,000 Bounty Journey with Stored XSS | Krish_cyber | [Read More](https://medium.com/p/76d70ac53817) |
+| Fri, 02 May 2025 03:46:00 GMT | The Ultimate Guide to 403 Forbidden Bypass (2025 Edition) | coffinxp | [Read More](https://medium.com/p/1b2e852e503e) |
+| Fri, 02 May 2025 03:44:40 GMT | Title: AI and Cybersecurity: Navigating the Challenges and Building Smart Defenses
+Author: Dheeraj… | Dheerajdeshpande | [Read More](https://medium.com/p/4fab289232fe) |
+| Fri, 02 May 2025 03:40:54 GMT | The 5 Cybersecurity Tools Every Mobile App Developer Needs in Their Stack | Ahmad Javed | [Read More](https://medium.com/p/01a261fda645) |
+| Fri, 02 May 2025 03:32:28 GMT | Understanding the NTT Data Breach and Its Ripple Effects | Deven Chhajed | [Read More](https://medium.com/p/c47209104ced) |
+| Fri, 02 May 2025 03:28:26 GMT | Setting the Stage | Mike Gonzalez | [Read More](https://medium.com/p/8a0c893dc901) |
+| Fri, 02 May 2025 03:28:13 GMT | Don’t You Forget!
+Secure by Design in the 
+Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe51c3d08eeb) |
+| Fri, 02 May 2025 03:16:49 GMT | Why Linux? | abdur rashid firdaus | [Read More](https://medium.com/p/498b8ae6bf0b) |
+| Fri, 02 May 2025 03:14:57 GMT | Logless Hunt - TryHackMe Room | Sam | [Read More](https://medium.com/p/909ed3c305f4) |
+| Fri, 02 May 2025 03:13:24 GMT | 4,800+ IPs Used in Massive Recon Attack Targeting Git Configuration Files — What You Need to Know | Cyber-AppSec | [Read More](https://medium.com/p/bd7903377b21) |
+| Fri, 02 May 2025 03:13:13 GMT | Top 5 IT Companies Post Single-Digit Growth | infohutnews | [Read More](https://medium.com/p/f43399e64d2f) |
 | Fri, 02 May 2025 03:05:37 GMT | 10 AI Security Tools You Should Know About in 2025 | OrangeJellyPie | [Read More](https://medium.com/p/d16a1c7dafe9) |
 | Fri, 02 May 2025 03:03:19 GMT | How to Dissect Malware Like a Cyber Pathologist (Without Getting Infected) | Ahmad Javed | [Read More](https://medium.com/p/41d967abf2e7) |
 | Fri, 02 May 2025 02:35:45 GMT | Hack-Proof Your OS: Securing Windows and Linux | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/084089caefea) |
@@ -101,14 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 18:26:12 GMT | How to Protect Your C# Application from Malicious .XPS Files | Cloudmersive | [Read More](https://medium.com/p/cda822d0bb62) |
 | Thu, 01 May 2025 18:23:00 GMT | Locking Down Your Digital Life: My Multi-Layered Approach to Online Security | ABHSHK | [Read More](https://medium.com/p/b38c8b4ff975) |
 | Thu, 01 May 2025 18:21:38 GMT | Technical Report On Analysis Using VirusTotal to Analyze Suspicious URLs | Ibrahim Olaniyi Abiodun | [Read More](https://medium.com/p/84237061358b) |
-| Thu, 01 May 2025 18:19:55 GMT | SOC 2 Compliance: Why It’s the Seal of Trust Your Business Needs | SafeAeon Inc. | [Read More](https://medium.com/p/c7afc16d5038) |
-| Thu, 01 May 2025 18:15:27 GMT | Review of the BSCP (Burp Suite Certified Practitioner) Exam | g0k4yy | [Read More](https://medium.com/p/22f5bb501017) |
-| Thu, 01 May 2025 18:10:32 GMT | Part 2 — What types of encryption do popular apps use and are they really secure? | Pycooding | [Read More](https://medium.com/p/f2a20fbcfd0e) |
-| Thu, 01 May 2025 18:08:12 GMT | Why Waiting on Cybersecurity Could Be the Most Expensive Decision You Make | Donald Betancourt | [Read More](https://medium.com/p/fc63a905d529) |
-| Thu, 01 May 2025 18:01:54 GMT | BoogeyMan 1 - THM Writeup | Emerson32 | [Read More](https://medium.com/p/c643d8752ebe) |
-| Thu, 01 May 2025 18:01:23 GMT | Web Application Penetration Testing CTF 1 | ImranTheExploitHunter | [Read More](https://medium.com/p/83efd539c675) |
-| Thu, 01 May 2025 17:56:48 GMT | Public Key Encryption:Dummies Guide | Vikas Taank | [Read More](https://medium.com/p/49af3a2182e5) |
-| Thu, 01 May 2025 17:51:56 GMT | Browsing Safely: How HTTPS & HTTP Protects You Online | Tanuja chaudhari | [Read More](https://medium.com/p/51698c989567) |
-| Thu, 01 May 2025 17:51:01 GMT | Karachi’s ride-hailing services will be unified under a single system: Sharjeel | Asad Ullah | [Read More](https://medium.com/p/9835acb563ea) |
-| Thu, 01 May 2025 17:41:11 GMT | Inside the Hacker’s Toolbox: Cracking Passwords with Hashcat and John the Ripper | jiggy meow | [Read More](https://medium.com/p/a34f2caa63c4) |
-| Thu, 01 May 2025 17:32:35 GMT | Everyone Is Being Lied To About AI Agents | Zudonu Osomudeya | [Read More](https://medium.com/p/4b2e7856f226) |
