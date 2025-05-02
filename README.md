@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 21:03:51 GMT | The Best First Phone for your Child | Savvy Cyber Kids | [Read More](https://medium.com/p/66ebb125fcd1) |
+| Fri, 02 May 2025 21:01:49 GMT | How to Setup a MacBook with Privacy in Mind | Savvy Cyber Kids | [Read More](https://medium.com/p/86099a7cbd49) |
+| Fri, 02 May 2025 20:59:57 GMT | How to Protect Your Data from Theft | Savvy Cyber Kids | [Read More](https://medium.com/p/fc056cbc28f9) |
+| Fri, 02 May 2025 20:57:57 GMT | The Avalanche Beneath Us: Soulbound Intelligence and the Future of Flow | Eóin Walsh | [Read More](https://medium.com/p/54f3f07a9e8b) |
+| Fri, 02 May 2025 20:56:56 GMT | Hack Any WIFI Using Evil Twin Attack ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/33e516fd80c8) |
+| Fri, 02 May 2025 20:41:02 GMT | ️ IDS/IPS Tuning: Rule Writing Techniques for Snort/Suricata | Esra Kayhan | [Read More](https://medium.com/p/95683bbed3f6) |
+| Fri, 02 May 2025 20:36:01 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege — Possible CVE-2023–29357 Exploitation | Harshprajapati | [Read More](https://medium.com/p/0a43e002c76b) |
+| Fri, 02 May 2025 20:35:39 GMT | Documenting my threat detection home lab Day 3 | Xp | [Read More](https://medium.com/p/e1a55da5b8ed) |
+| Fri, 02 May 2025 20:33:13 GMT | The Anatomy of a Password Cracker: Building Your Own to Understand Digital Security | Kolamide Idowu | [Read More](https://medium.com/p/c0ef24a53328) |
+| Fri, 02 May 2025 20:33:05 GMT | Kill them with kindness or myself? | Dreamer_985 | [Read More](https://medium.com/p/73069776d1a9) |
 | Fri, 02 May 2025 20:31:48 GMT | Scan Smarter: Hardening Containers & IaC with Trivy and CI Integration | samuel viana da silva | [Read More](https://medium.com/p/077adb3d80cc) |
 | Fri, 02 May 2025 20:18:35 GMT | CODE RED: The Cybersecurity Threats We’re Not Ready For | Mohammed Thabet | [Read More](https://medium.com/p/e55f591f5408) |
 | Fri, 02 May 2025 20:16:27 GMT | Looking out for the average guy… | Asma Riaz Malik | [Read More](https://medium.com/p/e27d13a7d389) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 15:30:48 GMT | Secure Environment in Web Application Deployment | Mehran Hematyar | [Read More](https://medium.com/p/6697193e90ca) |
 | Fri, 02 May 2025 15:21:40 GMT | - … | Φiriki Intelligence | [Read More](https://medium.com/p/d00d2eb877e3) |
 | Fri, 02 May 2025 15:19:27 GMT | The Rise of Phishing Attacks and How to Mitigate Them | Jackdavis Iap | [Read More](https://medium.com/p/5ccb8ca7e809) |
-| Fri, 02 May 2025 15:17:03 GMT | TryHackMe: Lookup (Easy) | J. Kai | [Read More](https://medium.com/p/31d120a17c1d) |
-| Fri, 02 May 2025 15:07:34 GMT | Cybercriminals Leverage Legacy Microsoft Equation Editor Bug to Spread XLoader | The Infosec Journal | [Read More](https://medium.com/p/4dfb03bb66e4) |
-| Fri, 02 May 2025 14:59:22 GMT | Why is it that we see crying as a sign of weakness? | lai | [Read More](https://medium.com/p/3e1185d33490) |
-| Fri, 02 May 2025 14:49:33 GMT | My First Paid Bug Bounty: A Hidden Gallery & A Lesson in Misconfiguration :-) | Naitik Gupta | [Read More](https://medium.com/p/3efefe71c8cf) |
-| Fri, 02 May 2025 14:48:48 GMT | The Strength in Vulnerability | John Riggs | [Read More](https://medium.com/p/4bf86711903e) |
-| Fri, 02 May 2025 14:48:13 GMT | April 2025: Major Cyber Attacks, Ransomware Attacks and Data Breaches | IT_Engineer | [Read More](https://medium.com/p/125e2a55f1a6) |
-| Fri, 02 May 2025 14:46:01 GMT | Confronting China’s Strategic Leverage: A Call to Fortify America’s Energy, Cyber, and Supply Chain… | Richard Ward | [Read More](https://medium.com/p/bbba2ab3601c) |
-| Fri, 02 May 2025 14:40:25 GMT | Home Office Security: Secure Headless Raspberry Pi Setup with SSH Keys, Firewall, Fail2Ban, PSAD… | H-H Kolberg | [Read More](https://medium.com/p/4c02e8ce4123) |
-| Fri, 02 May 2025 14:32:49 GMT | Building Peer-to-Peer (P2P) Network and Simulating LAN Network for a Small Office | Defenderramadhan | [Read More](https://medium.com/p/9a363993b443) |
-| Fri, 02 May 2025 14:32:02 GMT | “Çok Katmanlı E-Posta Güvenliği: MSA, WAF ve DNS Proxy ile Tam Koruma” | Furkan Ayteş | [Read More](https://medium.com/p/bb96c28d2a53) |
