@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 01:30:40 GMT | Case Study: Unveiling 642,639 Government Credential Leaks Across 192 Countries | WebThreat.io - Fábio Correia | [Read More](https://medium.com/p/2c2cb5f94842) |
+| Fri, 02 May 2025 01:26:43 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 5) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/3329319c5518) |
+| Fri, 02 May 2025 01:17:47 GMT | Yaoguai Aswan CTF 2025 Finals | Sayed Reda | [Read More](https://medium.com/p/3b9003931803) |
+| Fri, 02 May 2025 01:08:52 GMT | The Hidden Race: Quantum Computing, Artificial Intelligence, and the Silent Technological Race | Awakened Chain | [Read More](https://medium.com/p/a22c45bb211a) |
+| Fri, 02 May 2025 01:02:01 GMT | How to Keep Family & Friends Safe Online & Avoid Scams | ɌƋƑ•TECH | [Read More](https://medium.com/p/9ef86aaaa412) |
+| Fri, 02 May 2025 00:37:12 GMT | Finding more subdomains(part 4) | loyalonlytoday | [Read More](https://medium.com/p/a9bdde09f052) |
+| Fri, 02 May 2025 00:32:07 GMT | Day 13: Wireshark — Basic Packet Capture and Analysis | Bl@ckC!pH3r | [Read More](https://medium.com/p/7b67b286f63d) |
+| Fri, 02 May 2025 00:26:11 GMT | KC7: Krusty Krab — Report | Aeronique | [Read More](https://medium.com/p/c29b5dd48d06) |
+| Fri, 02 May 2025 00:22:56 GMT | SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Harshprajapati | [Read More](https://medium.com/p/d047c9cedad7) |
+| Fri, 02 May 2025 00:11:34 GMT | Mobil Şəbəkələrin Görünməyən Təhlükəsi: SS7 Hücumu Nədir və Biz Necə Qoruna Bilərik? | Murad Bağıyev | [Read More](https://medium.com/p/6f5c602f8abd) |
+| Fri, 02 May 2025 00:09:25 GMT | Missed Horizontal Privilege Escalation in a Bug Bounty Program! | Zeta | [Read More](https://medium.com/p/d7134b2ffa01) |
+| Fri, 02 May 2025 00:01:56 GMT | Reverse-Engineering Cluely | Pouya | [Read More](https://medium.com/p/a62b9cbbda10) |
+| Fri, 02 May 2025 00:01:34 GMT | Cybersecurity Revolution: Conferences Leading the Way | Abhinav Pathak | [Read More](https://medium.com/p/399659f5ae16) |
+| Fri, 02 May 2025 00:01:34 GMT | Hack The Box — Machine — Cap Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/d382087fcaa2) |
+| Thu, 01 May 2025 23:38:25 GMT | Why Your Smart Home Integrator Should Follow the NIST Framework | Matt Manalis | [Read More](https://medium.com/p/c29f7dcb377a) |
+| Thu, 01 May 2025 23:25:38 GMT | How to Use I2P to Safely Explore the Dark Web: A Complete Guide | ByteSectorX | [Read More](https://medium.com/p/b67ba48bffac) |
 | Thu, 01 May 2025 23:20:20 GMT | anaVulnerability Management in the Age of Remote Work | Akshay Chauhan | [Read More](https://medium.com/p/491d841e23cd) |
 | Thu, 01 May 2025 23:13:43 GMT | Ascension Data Breach Highlights the Growing Risks of Third-Party Cybersecurity Failures | Avnishyam | [Read More](https://medium.com/p/0b26565b7c9f) |
 | Thu, 01 May 2025 23:12:48 GMT | Nation State Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b752750c6e78) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 16:34:48 GMT | How Investigating an ICICI Bank Phishing Site Uncovered a Malware Operation | Aarsh Jawa | [Read More](https://medium.com/p/45ecac000609) |
 | Thu, 01 May 2025 16:32:24 GMT | Vector: Oracle Breach — March 2025 | Faraz Ishaq | [Read More](https://medium.com/p/be89c2ac151c) |
 | Thu, 01 May 2025 16:22:20 GMT | Top-Tier Private Security Services for California Businesses | Code Four Private Security | [Read More](https://medium.com/p/47132152aeef) |
-| Thu, 01 May 2025 16:19:27 GMT | Elevate Your Team’s Look with Reliable Security Uniforms from Pro Uniforms | Prouniformsusa | [Read More](https://medium.com/p/0d994cb5e09f) |
-| Thu, 01 May 2025 16:17:50 GMT | AI and Machine Learning : Double Edged Sword | Erkan Kavas | [Read More](https://medium.com/p/093ffee1aa62) |
-| Thu, 01 May 2025 16:17:47 GMT | Top 10 AI & Tech Developments in the U.S. (May 1, 2025) | Neural Lab | [Read More](https://medium.com/p/a61138181635) |
-| Thu, 01 May 2025 16:17:13 GMT | Review of Security Research Articles: April 2025 | Lukasz Wierzbicki | [Read More](https://medium.com/p/976925d6d181) |
-| Thu, 01 May 2025 16:08:57 GMT | History Of Cyber Attacks | Manushibombaywala | [Read More](https://medium.com/p/116f0c1743ae) |
-| Thu, 01 May 2025 16:08:36 GMT | 6 Signs Your Linux Server Might Be Compromised (And What to Do Next) | Faruk Ahmed | [Read More](https://medium.com/p/5d3b4032e3cd) |
-| Thu, 01 May 2025 16:06:23 GMT | Fake WordPress Security Plugin: A Sneaky Backdoor for Hackers ‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/680b98b32d9d) |
-| Thu, 01 May 2025 16:05:33 GMT | What are Firewalls- The first line of  Defence. | err0rgod | [Read More](https://medium.com/p/b133592a67ec) |
-| Thu, 01 May 2025 15:59:21 GMT | The Misuse of Generative AI | Narender Beniwal | [Read More](https://medium.com/p/09d0e366c16a) |
-| Thu, 01 May 2025 15:59:01 GMT | OPA + GitOps: Enhancing Compliance, Security, and Automation for Platform Teams | Debghosal | [Read More](https://medium.com/p/426bc53ce9c4) |
-| Thu, 01 May 2025 15:49:04 GMT | From Attacks to Alerts: Setting Up a Cybersecurity Lab for Complete Skill Development | Diogo Neto | [Read More](https://medium.com/p/b8a1e65b3993) |
-| Thu, 01 May 2025 15:47:05 GMT | Certifications vs. Formal Education vs. Experience in Cybersecurity: The debate? | Ishmael Dube | [Read More](https://medium.com/p/fc277d7455bc) |
-| Thu, 01 May 2025 15:45:37 GMT | Maximize Anonymity With The Most Advanced VPN | Melvin Erickson | [Read More](https://medium.com/p/c83c64514a02) |
-| Thu, 01 May 2025 15:44:18 GMT | Co-op Shuts Down IT Systems After Hack Attempt: What You Need to Know | Hoplon Infosec | [Read More](https://medium.com/p/2445c37979cb) |
-| Thu, 01 May 2025 15:43:06 GMT | FFUF(Fuzz Faster U Fool) cheat sheet | Mozammalhossaintanvir | [Read More](https://medium.com/p/27bf72f6a685) |
-| Thu, 01 May 2025 15:21:07 GMT | Helicopter Administrators — 247CTF solution writeup | Adithya M S | [Read More](https://medium.com/p/bc2f359b0525) |
