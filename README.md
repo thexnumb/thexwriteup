@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 16:17:06 GMT | Cybersecurity News Review — Week 18 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/dbda26c727be) |
+| Fri, 02 May 2025 16:12:55 GMT | The Unseen Hero of Cybersecurity: Preventing Threats Before They Emerge with Threat Modeling | Adnan Kutay Yüksel | [Read More](https://medium.com/p/e92c1197fdcd) |
+| Fri, 02 May 2025 16:11:44 GMT | How Can I Withdraw My Money From Binolla? | Alvos | [Read More](https://medium.com/p/be5f78fd4553) |
+| Fri, 02 May 2025 16:09:20 GMT | Exploiting File Inclusion: From Dot-Dot-Slash to RCE using PHP Sessions, Log Poisoning, and… | Bash Overflow | [Read More](https://medium.com/p/4db1bdf8ad77) |
+| Fri, 02 May 2025 16:08:31 GMT | How to Set Up a Self-Hosted OOB Client for Burp Suite with Interactsh | Dmytro V. | [Read More](https://medium.com/p/c56322cd9933) |
+| Fri, 02 May 2025 16:08:14 GMT | How I Monitored and Tracked Unwanted Access Attempts on My Server Using Daemons, Logs, and Python… | Arash hadad | [Read More](https://medium.com/p/d2078eef68e2) |
+| Fri, 02 May 2025 16:07:18 GMT | picoCTF — Roboto Sans | Aashraymt | [Read More](https://medium.com/p/69c16ac890af) |
+| Fri, 02 May 2025 16:03:45 GMT | How Can I Recover My Money From Binolla? | Alvos | [Read More](https://medium.com/p/7d9ee0b827c8) |
+| Fri, 02 May 2025 16:02:52 GMT | Achieving Persistence: Covert Techniques to Keep Your Python C2 Implant Alive | Maxwell Cross | [Read More](https://medium.com/p/88836164b3b2) |
+| Fri, 02 May 2025 15:57:02 GMT | What is Active Directory? Its Architecture, Components, and Importance. | Muhammad Abdur Raafay | [Read More](https://medium.com/p/1de3d982c9fc) |
+| Fri, 02 May 2025 15:56:30 GMT | ️ How to Secure Your Docker Containers Like a Hacker Would (So They Can’t) | Priyanshu Rajput | [Read More](https://medium.com/p/c18d3531d7b8) |
+| Fri, 02 May 2025 15:55:56 GMT | picoCTF — Web Decode | Aashraymt | [Read More](https://medium.com/p/0a71ad402019) |
+| Fri, 02 May 2025 15:54:50 GMT | TryHackMe - SOC Workbooks and Lookups - WriteUp | Axoloth | [Read More](https://medium.com/p/c041fdfa6fa8) |
+| Fri, 02 May 2025 15:54:45 GMT | My Shameless Plug | Eina Schroeder | [Read More](https://medium.com/p/19331688c500) |
+| Fri, 02 May 2025 15:47:52 GMT | Ensuring Safe Healthcare Environments: Trusted Hospital Security Guards in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/2442e45e7e84) |
+| Fri, 02 May 2025 15:46:04 GMT | Achieve Greater Security With Advanced VPN Features | Melvin Erickson | [Read More](https://medium.com/p/bb32e61a4506) |
 | Fri, 02 May 2025 15:38:30 GMT | Harsh Truths for Americans Aged 25–35: A Survival Guide for the Ruthless Economy | Ozdprinter | [Read More](https://medium.com/p/557d5e5914da) |
 | Fri, 02 May 2025 15:30:48 GMT | Secure Environment in Web Application Deployment | Mehran Hematyar | [Read More](https://medium.com/p/6697193e90ca) |
 | Fri, 02 May 2025 15:21:40 GMT | - … | Φiriki Intelligence | [Read More](https://medium.com/p/d00d2eb877e3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 10:10:31 GMT | Payloads in Plain Sight: How Open Redirect + JavaScript Led to Full Account Takeover | Iski | [Read More](https://medium.com/p/a7ae1c359679) |
 | Fri, 02 May 2025 10:08:42 GMT | Imagine your computer is off. | Shams Ahmadi | [Read More](https://medium.com/p/a31d975f1512) |
 | Fri, 02 May 2025 10:08:05 GMT | Why Businesses Need Security Guard Services | United Guard Force India | [Read More](https://medium.com/p/088312e6a2d8) |
-| Fri, 02 May 2025 10:02:45 GMT | Visualizing System Logs with Splunk: From Setup to Custom Dashboards | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/c80eec8110f6) |
-| Fri, 02 May 2025 10:02:02 GMT | Uba Sani and a National Template for Peace | JJ. Omojuwa | [Read More](https://medium.com/p/1fde393b9980) |
-| Fri, 02 May 2025 10:01:21 GMT | ASF Corporal Test 2025 Is Now Live — Start Practicing Today! | JobsTests.Site | [Read More](https://medium.com/p/f81f1dca8849) |
-| Fri, 02 May 2025 10:00:08 GMT | Demystifying Your Network Traffic on macOS: A Docker-Based Approach with MMT | Luong NGUYEN | [Read More](https://medium.com/p/e9d595034c36) |
-| Fri, 02 May 2025 09:58:11 GMT | Locky Ransomware | TabTree IT Consulting Company | [Read More](https://medium.com/p/9e76c44e31c5) |
-| Fri, 02 May 2025 09:55:08 GMT | Wi-Fi Kablosuz Ağ Güvenliği | umut akdoğan | [Read More](https://medium.com/p/633c74074633) |
-| Fri, 02 May 2025 09:52:53 GMT | Spotting Cyber Threats: How I Learned to Recognize a Hacker. | Dom 'Tudell Mika' | [Read More](https://medium.com/p/9a0511dbdbd4) |
-| Fri, 02 May 2025 09:52:44 GMT | Episode 1: The Door Opens | Odunze Jennifer Oluchukwu | [Read More](https://medium.com/p/7c8af5804762) |
-| Fri, 02 May 2025 09:51:53 GMT | Communicating Value to Leadership: 5 Tips for Security Professionals | SecOps | [Read More](https://medium.com/p/ee05014dbb26) |
-| Fri, 02 May 2025 09:48:38 GMT | The Corix Partners Friday Reading List — May 2, 2025 | JC Gaillard | [Read More](https://medium.com/p/1f92c86b3edd) |
-| Fri, 02 May 2025 09:46:53 GMT | Jennifer’s Journey into Cybersecurity | Odunze Jennifer Oluchukwu | [Read More](https://medium.com/p/473179a2970a) |
-| Fri, 02 May 2025 09:44:07 GMT | Why Steering Security Robots with a PlayStation Controller Is a Bold Cultural Move | Presslink Media | [Read More](https://medium.com/p/0eb164bca8da) |
-| Fri, 02 May 2025 09:39:12 GMT | Using Confidential VM to Ensure Data and Application Protection in GCP | @jacob_sec | [Read More](https://medium.com/p/60f81df48d50) |
-| Fri, 02 May 2025 09:34:18 GMT | Automating dependency updates in your DevOps setup | Jorn Beyers | [Read More](https://medium.com/p/4866169f8e0a) |
-| Fri, 02 May 2025 09:32:27 GMT | “I’ve Been The Archer” | dinar lala | [Read More](https://medium.com/p/49978862151d) |
-| Fri, 02 May 2025 09:32:12 GMT | Why Every AI Startup Needs MCP. | Rohan Girdhani - The TechDoc | [Read More](https://medium.com/p/ff8ee973d031) |
