@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 07:28:21 GMT | The Ultimate Guide to Energy-Efficient and Secure Living: Why Every Australian Home Needs Roller… | Punithaperumalvml | [Read More](https://medium.com/p/daf758570989) |
+| Fri, 02 May 2025 07:24:53 GMT | CVE-2025–27556 - Django — Potential DoS Vulnerability in LoginView, LogoutView, and set_language()… | Yunus Olçar | [Read More](https://medium.com/p/0bbe81fe77f2) |
+| Fri, 02 May 2025 07:19:57 GMT | Practical Strategies to Safeguard Wire Instructions from Cyberattacks | Serishahid | [Read More](https://medium.com/p/f92c1e66bd07) |
 | Fri, 02 May 2025 07:12:20 GMT | Persistence via Registry — How Attackers Abuse the Windows Registry | Paritosh | [Read More](https://medium.com/p/186be2587c20) |
 | Fri, 02 May 2025 07:12:13 GMT | How to Build a Trustworthy Security Team for Your Business | Mohan Ahuja | [Read More](https://medium.com/p/15a57d79138d) |
 | Fri, 02 May 2025 07:07:13 GMT | Playing with Binaries: Emulation and Debugging | Horrow | [Read More](https://medium.com/p/c7913688862c) |
@@ -113,6 +116,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 23:25:38 GMT | How to Use I2P to Safely Explore the Dark Web: A Complete Guide | ByteSectorX | [Read More](https://medium.com/p/b67ba48bffac) |
 | Thu, 01 May 2025 23:20:20 GMT | anaVulnerability Management in the Age of Remote Work | Akshay Chauhan | [Read More](https://medium.com/p/491d841e23cd) |
 | Thu, 01 May 2025 23:13:43 GMT | Ascension Data Breach Highlights the Growing Risks of Third-Party Cybersecurity Failures | Avnishyam | [Read More](https://medium.com/p/0b26565b7c9f) |
-| Thu, 01 May 2025 23:12:48 GMT | Nation State Cyberattacks | Matthew.Rosenquist | [Read More](https://medium.com/p/b752750c6e78) |
-| Thu, 01 May 2025 23:02:38 GMT | Tools of the Trade: Top 10 Forensics Software Every Analyst Should Know | ByteSectorX | [Read More](https://medium.com/p/37bbfcc1c386) |
-| Thu, 01 May 2025 23:00:53 GMT | How to Use PGP to Digitally Sign and Secure Your Files and Images | ByteSectorX | [Read More](https://medium.com/p/b8ce00aa5f20) |
