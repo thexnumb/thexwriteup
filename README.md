@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 20:31:48 GMT | Scan Smarter: Hardening Containers & IaC with Trivy and CI Integration | samuel viana da silva | [Read More](https://medium.com/p/077adb3d80cc) |
+| Fri, 02 May 2025 20:18:35 GMT | CODE RED: The Cybersecurity Threats We’re Not Ready For | Mohammed Thabet | [Read More](https://medium.com/p/e55f591f5408) |
 | Fri, 02 May 2025 20:16:27 GMT | Looking out for the average guy… | Asma Riaz Malik | [Read More](https://medium.com/p/e27d13a7d389) |
 | Fri, 02 May 2025 19:51:16 GMT | Micro-services :Ways To Authenticate Incoming Requests | Vikas Taank | [Read More](https://medium.com/p/b2bef332e1b3) |
 | Fri, 02 May 2025 19:43:26 GMT | Policy Puppetry: A Universal Jailbreak Threat to AI Language Models | Pytech Academy | [Read More](https://medium.com/p/ee64991b0a75) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 14:40:25 GMT | Home Office Security: Secure Headless Raspberry Pi Setup with SSH Keys, Firewall, Fail2Ban, PSAD… | H-H Kolberg | [Read More](https://medium.com/p/4c02e8ce4123) |
 | Fri, 02 May 2025 14:32:49 GMT | Building Peer-to-Peer (P2P) Network and Simulating LAN Network for a Small Office | Defenderramadhan | [Read More](https://medium.com/p/9a363993b443) |
 | Fri, 02 May 2025 14:32:02 GMT | “Çok Katmanlı E-Posta Güvenliği: MSA, WAF ve DNS Proxy ile Tam Koruma” | Furkan Ayteş | [Read More](https://medium.com/p/bb96c28d2a53) |
-| Fri, 02 May 2025 14:31:59 GMT | Autonomous Vehicles and the Cyber-Physical Revolution: Shaping the Future of Mobility | Data Defendere | [Read More](https://medium.com/p/32fab4587f95) |
-| Fri, 02 May 2025 14:31:41 GMT | Security Operations Center (SOC) dalam Menangkal Serangan Ransomware | Sigit Adi | [Read More](https://medium.com/p/214772d56c9a) |
