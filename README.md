@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 04:44:02 GMT | Prompt Injection in Large Language Models: A Comprehensive Analysis of Threats and Mitigation… | Shiam Beeharry | [Read More](https://medium.com/p/1a9f0b44cdec) |
+| Fri, 02 May 2025 04:42:18 GMT | The Windows Concept Journey — Per-User Windows Services | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4ffaed8d5865) |
+| Fri, 02 May 2025 04:32:25 GMT | Part 2: Exploring Static Malware Analysis — Processes, Techniques, and Tools | The Hackers Meetup | [Read More](https://medium.com/p/cb23f2217522) |
+| Fri, 02 May 2025 04:25:47 GMT | $300 Bounty: SSRF to Cloud Metadata | Monika sharma | [Read More](https://medium.com/p/4c6a7dda9818) |
+| Fri, 02 May 2025 04:25:15 GMT | Burnout in Infosec? My Reset Routine That Brought Me Back | Satyam Pathania | [Read More](https://medium.com/p/01476de3fa59) |
 | Fri, 02 May 2025 04:09:29 GMT | ️‍♂️ Subdomain Enumeration Automation for Bug Bounty: Save Time, Hack Smart! | Shady Farouk | [Read More](https://medium.com/p/dd5d97eba1dc) |
 | Fri, 02 May 2025 04:08:55 GMT | FutureProof 2.0 - Episode #10: Tech Sovereignty — Can Nations Own Their Digital Futures? | Bayo Adebogun | [Read More](https://medium.com/p/e2d71f3c8339) |
 | Fri, 02 May 2025 04:06:26 GMT | Cybersecurity Basics: Principle of Least Privilege | Jose Toledo | [Read More](https://medium.com/p/91e62645ca49) |
@@ -110,8 +115,3 @@ Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe5
 | Thu, 01 May 2025 20:08:02 GMT | Why love is more than a feeling | Maria Bratsos | [Read More](https://medium.com/p/3c67171c5500) |
 | Thu, 01 May 2025 20:02:25 GMT | How to Respond to a Cyber Attack: A Step-by-Step Guide for Business Leaders | John Locke | [Read More](https://medium.com/p/98c59f9e1e5c) |
 | Thu, 01 May 2025 19:50:13 GMT | Building a Scalable Anomaly Detection System with OpenSearch | Furkan Gungor | [Read More](https://medium.com/p/585715542ea5) |
-| Thu, 01 May 2025 19:44:03 GMT | April Cybersecurity Recap — News, Insights and Analysis | Akila Maithripala | [Read More](https://medium.com/p/53afb2251792) |
-| Thu, 01 May 2025 19:41:02 GMT | How I Found a $5K Bug in JavaScript — A Bug Bounty Story | Krish_cyber | [Read More](https://medium.com/p/dba44140efab) |
-| Thu, 01 May 2025 19:37:21 GMT | Happy World Password Day: Secure Your Digital Life | Muhammad Naveed Arshad,MSc -Writer-Editor- AI Engr | [Read More](https://medium.com/p/aea097e837f7) |
-| Thu, 01 May 2025 19:34:08 GMT | JSRecon 101: Unearthing Hidden Secrets in JavaScript Files for Bug Bounty Success ️♂️ | Krish_cyber | [Read More](https://medium.com/p/0ee75778da59) |
-| Thu, 01 May 2025 19:29:35 GMT | The Urgency of Post-Quantum Cryptography in the Era of Quantum Chips | current.cybersecurity | [Read More](https://medium.com/p/fb75f0792d96) |
