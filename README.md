@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 10:43:02 GMT | MintsLoader and GhostWeaver: The Sneaky Cyber Duo Taking Phishing to the Next Level! ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/1c3c3c7c363d) |
+| Fri, 02 May 2025 10:40:48 GMT | Lampiao(Vulnhub) | Amalpp | [Read More](https://medium.com/p/8816ee83f5f8) |
+| Fri, 02 May 2025 10:40:41 GMT | Microsoft Ditches Passwords for Passkeys: A Passwordless Future Awaits! | Ismail Tasdelen | [Read More](https://medium.com/p/c4672acff17d) |
+| Fri, 02 May 2025 10:39:49 GMT | Ethical Hacking Course in Jodhpur: How to Build a Future-Proof Career in Cybersecurity (2025 Guide) | Maheshwar Singh Shekhawat | [Read More](https://medium.com/p/cda479ef116d) |
+| Fri, 02 May 2025 10:32:46 GMT | Reading Between the Texts: How Gearhead Engineers Phone Hacker Exposed the Affair | Morenolina | [Read More](https://medium.com/p/3282e31612a3) |
+| Fri, 02 May 2025 10:27:14 GMT | Friend or Stranger? How AI Cameras Recognize Faces Around Your Home | Dima Kynal | [Read More](https://medium.com/p/78a9682ef751) |
+| Fri, 02 May 2025 10:16:18 GMT | Blue Teams Lab Online — Phishy V1 WalkThrough | Justin | [Read More](https://medium.com/p/525a3298e40f) |
 | Fri, 02 May 2025 10:14:40 GMT | How to Present Bugs to the Team | Olha Holota from TestCaseLab | [Read More](https://medium.com/p/feb5c1d91b59) |
+| Fri, 02 May 2025 10:13:54 GMT | DevSecOps Phase 1: Planning & Security Requirements Engineering | Dinidhu Jayasinghe | [Read More](https://medium.com/p/bc81075149d2) |
 | Fri, 02 May 2025 10:13:08 GMT | Skills That Make a Great Security Guard Stand Out | United Guard Force India | [Read More](https://medium.com/p/123c0510fc6d) |
 | Fri, 02 May 2025 10:10:31 GMT | Payloads in Plain Sight: How Open Redirect + JavaScript Led to Full Account Takeover | Iski | [Read More](https://medium.com/p/a7ae1c359679) |
 | Fri, 02 May 2025 10:08:42 GMT | Imagine your computer is off. | Shams Ahmadi | [Read More](https://medium.com/p/a31d975f1512) |
@@ -105,11 +113,3 @@ By Ana Vespera | Ana Vespera ✨ | [Read More](https://medium.com/p/94439308cb25
 | Fri, 02 May 2025 05:00:06 GMT | How Is Cybersecurity Adapting to Stay One Step Ahead of Hackers? | Shivani Sharma | [Read More](https://medium.com/p/ca0713e8c869) |
 | Fri, 02 May 2025 04:59:41 GMT | Aircraft Security in a Connected World | Udit | [Read More](https://medium.com/p/bb70052a3ff2) |
 | Fri, 02 May 2025 04:56:57 GMT | Port : Computer System | Aakash Dhakal | [Read More](https://medium.com/p/7df606c883f3) |
-| Fri, 02 May 2025 04:55:49 GMT | Strengthen Your Security in 2025 with Threat Hunting: Here’s How | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/65e03fec3ee3) |
-| Fri, 02 May 2025 04:49:21 GMT | When Public Records Become Research: | Public Records Watch | [Read More](https://medium.com/p/d2ada594bcc3) |
-| Fri, 02 May 2025 04:45:32 GMT | Cybersecurity Consulting vs In-House Security Teams: Which is Right for You? | R&B Networks | [Read More](https://medium.com/p/34083ecbd336) |
-| Fri, 02 May 2025 04:44:02 GMT | Prompt Injection in Large Language Models: A Comprehensive Analysis of Threats and Mitigation… | Shiam Beeharry | [Read More](https://medium.com/p/1a9f0b44cdec) |
-| Fri, 02 May 2025 04:42:18 GMT | The Windows Concept Journey — Per-User Windows Services | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4ffaed8d5865) |
-| Fri, 02 May 2025 04:32:25 GMT | Part 2: Exploring Static Malware Analysis — Processes, Techniques, and Tools | The Hackers Meetup | [Read More](https://medium.com/p/cb23f2217522) |
-| Fri, 02 May 2025 04:25:47 GMT | $300 Bounty: SSRF to Cloud Metadata | Monika sharma | [Read More](https://medium.com/p/4c6a7dda9818) |
-| Fri, 02 May 2025 04:25:15 GMT | Burnout in Infosec? My Reset Routine That Brought Me Back | Satyam Pathania | [Read More](https://medium.com/p/01476de3fa59) |
