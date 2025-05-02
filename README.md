@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 13:12:43 GMT | Informational Momentum, Duality, and Entanglement: Foundations for Emergent Spacetime Structure | David Lille | [Read More](https://medium.com/p/6016dddbba0a) |
+| Fri, 02 May 2025 13:10:42 GMT | Firewalls Are Not Enough: EDSPL’s New-Age Security Science for the Modern Threat Landscape | saurabh cyberinfomines | [Read More](https://medium.com/p/d58e327610cc) |
+| Fri, 02 May 2025 12:59:41 GMT | Unlocking Your Future: Why Cybersecurity Might Be the Career You Never Considered | ICTRD-Kaushalpith | [Read More](https://medium.com/p/75eb4333fb24) |
+| Fri, 02 May 2025 12:58:16 GMT | So You Want to Get Into Cybersecurity and You’re Feeling Overwhelmed? | PwnerJoe | [Read More](https://medium.com/p/25cc78274e12) |
+| Fri, 02 May 2025 12:58:15 GMT | Why You Can’t Stop Online Scams (Fast Flux Secrets Revealed) | Dhanush N | [Read More](https://medium.com/p/e09f3d02fee3) |
+| Fri, 02 May 2025 12:51:39 GMT | OWASP Top 10 For Flutter — M5: Insecure Communication for Flutter and Dart | Talsec | [Read More](https://medium.com/p/63fa4f38e0cd) |
+| Fri, 02 May 2025 12:51:17 GMT | The Role of Cybersecurity in ESG: Protecting People, Systems, and Trust | Cybersecurity Umbrella | [Read More](https://medium.com/p/3347b3b2c619) |
+| Fri, 02 May 2025 12:49:21 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/44fc89996546) |
+| Fri, 02 May 2025 12:48:11 GMT | Why DaaS Is a Game Changer for SaaS Platforms in 2025 | Redblox.io | [Read More](https://medium.com/p/8aeea68ba9d6) |
+| Fri, 02 May 2025 12:42:20 GMT | Cybersecurity Threats: What They Are, How They Happen, and How to Stay Safe Online | N.Samuvel | [Read More](https://medium.com/p/4257e1ddc69b) |
 | Fri, 02 May 2025 12:28:57 GMT | Implementing Role Based Access Control(RBAC) in Microsoft Azure | @jacob_sec | [Read More](https://medium.com/p/d11c28a9a877) |
 | Fri, 02 May 2025 12:27:41 GMT | Understanding Networking Basics with Cisco Packet Tracer | Jafar Umarassadulloh | [Read More](https://medium.com/p/2478a8b7ce53) |
 | Fri, 02 May 2025 12:15:42 GMT | Phishing — Snapped Phishing-Line - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/8d1f7d7feea7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 08:08:42 GMT | The Daily Tech Digest: 02 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/516082d01ac1) |
 | Fri, 02 May 2025 07:59:32 GMT | Running Proxmox Safely: How to Keep VMs Isolated Without Losing Sleep | Mr.PlanB | [Read More](https://medium.com/p/27430703d63c) |
 | Fri, 02 May 2025 07:52:09 GMT | The Rising Importance of Cyber security 2025 | FACE Prep Campus | [Read More](https://medium.com/p/46f04b38dd54) |
-| Fri, 02 May 2025 07:51:25 GMT | Bridging Cybersecurity and Data Science: The Rise of the PCiDS | Dr. Daniel Koh | [Read More](https://medium.com/p/ca6ae9bc7d00) |
-| Fri, 02 May 2025 07:43:05 GMT | File Upload Vulnerabilities: Conventional Threats and Emerging Risks in 2025 | Karthik S | [Read More](https://medium.com/p/cf27eee4fb03) |
-| Fri, 02 May 2025 07:37:28 GMT | XSS Part — 10 : DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Ahmad Sopyan | [Read More](https://medium.com/p/82c6bb516124) |
-| Fri, 02 May 2025 07:31:38 GMT | Is It Possible To Withdraw My Money From Kcex ? | Verila | [Read More](https://medium.com/p/b62cf696b6ec) |
-| Fri, 02 May 2025 07:29:12 GMT | How Can I Recover My Money From Kcex? | Verila | [Read More](https://medium.com/p/3f9271e5a346) |
-| Fri, 02 May 2025 07:28:21 GMT | The Ultimate Guide to Energy-Efficient and Secure Living: Why Every Australian Home Needs Roller… | Punithaperumalvml | [Read More](https://medium.com/p/daf758570989) |
-| Fri, 02 May 2025 07:24:53 GMT | CVE-2025–27556 - Django — Potential DoS Vulnerability in LoginView, LogoutView, and set_language()… | Yunus Olçar | [Read More](https://medium.com/p/0bbe81fe77f2) |
-| Fri, 02 May 2025 07:19:57 GMT | Practical Strategies to Safeguard Wire Instructions from Cyberattacks | Serishahid | [Read More](https://medium.com/p/f92c1e66bd07) |
-| Fri, 02 May 2025 07:12:20 GMT | Persistence via Registry — How Attackers Abuse the Windows Registry | Paritosh | [Read More](https://medium.com/p/186be2587c20) |
-| Fri, 02 May 2025 07:12:13 GMT | How to Build a Trustworthy Security Team for Your Business | Mohan Ahuja | [Read More](https://medium.com/p/15a57d79138d) |
