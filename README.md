@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 15:19:27 GMT | The Rise of Phishing Attacks and How to Mitigate Them | Jackdavis Iap | [Read More](https://medium.com/p/5ccb8ca7e809) |
+| Fri, 02 May 2025 15:17:03 GMT | TryHackMe: Lookup (Easy) | J. Kai | [Read More](https://medium.com/p/31d120a17c1d) |
+| Fri, 02 May 2025 15:07:34 GMT | Cybercriminals Leverage Legacy Microsoft Equation Editor Bug to Spread XLoader | The Infosec Journal | [Read More](https://medium.com/p/4dfb03bb66e4) |
+| Fri, 02 May 2025 14:59:22 GMT | Why is it that we see crying as a sign of weakness? | lai | [Read More](https://medium.com/p/3e1185d33490) |
+| Fri, 02 May 2025 14:49:33 GMT | My First Paid Bug Bounty: A Hidden Gallery & A Lesson in Misconfiguration :-) | Naitik Gupta | [Read More](https://medium.com/p/3efefe71c8cf) |
+| Fri, 02 May 2025 14:48:48 GMT | The Strength in Vulnerability | John Riggs | [Read More](https://medium.com/p/4bf86711903e) |
+| Fri, 02 May 2025 14:48:13 GMT | April 2025: Major Cyber Attacks, Ransomware Attacks and Data Breaches | IT_Engineer | [Read More](https://medium.com/p/125e2a55f1a6) |
+| Fri, 02 May 2025 14:46:01 GMT | Confronting China’s Strategic Leverage: A Call to Fortify America’s Energy, Cyber, and Supply Chain… | Richard Ward | [Read More](https://medium.com/p/bbba2ab3601c) |
+| Fri, 02 May 2025 14:40:25 GMT | Home Office Security: Secure Headless Raspberry Pi Setup with SSH Keys, Firewall, Fail2Ban, PSAD… | H-H Kolberg | [Read More](https://medium.com/p/4c02e8ce4123) |
 | Fri, 02 May 2025 14:32:49 GMT | Building Peer-to-Peer (P2P) Network and Simulating LAN Network for a Small Office | Defenderramadhan | [Read More](https://medium.com/p/9a363993b443) |
 | Fri, 02 May 2025 14:32:02 GMT | “Çok Katmanlı E-Posta Güvenliği: MSA, WAF ve DNS Proxy ile Tam Koruma” | Furkan Ayteş | [Read More](https://medium.com/p/bb96c28d2a53) |
 | Fri, 02 May 2025 14:31:59 GMT | Autonomous Vehicles and the Cyber-Physical Revolution: Shaping the Future of Mobility | Data Defendere | [Read More](https://medium.com/p/32fab4587f95) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 09:26:34 GMT | Prevent v Detect — It Is All About Effort (I mean AI) | Dan Cvrcek | [Read More](https://medium.com/p/9843c676ecac) |
 | Fri, 02 May 2025 09:26:22 GMT | Part Two: Tracing the Web-From ICICI Phishing Kit to a Larger Malware Campaign. | Aarsh Jawa | [Read More](https://medium.com/p/0d62bf39fa10) |
 | Fri, 02 May 2025 09:25:47 GMT | Hunting Access Control Bugs: How I Found a Critical IDOR & Privilege Escalation in a Fort Knox-Like… | Whoami | [Read More](https://medium.com/p/a4aeb46d8714) |
-| Fri, 02 May 2025 09:21:09 GMT | How to Secure Your API Key: Best Practices for App and Software Developers | Authorshivani | [Read More](https://medium.com/p/92d70405bea5) |
-| Fri, 02 May 2025 09:16:50 GMT | Understanding RSA and AES Encryption in Android: A Beginner’s Guide | Samset | [Read More](https://medium.com/p/d734f472a728) |
-| Fri, 02 May 2025 09:16:03 GMT | How to Install Nginx on a Red Hat Server (RHEL/CentOS/Rocky) — Step-by-Step Guide | Milan Madusanka senarathna | [Read More](https://medium.com/p/31a8017b800f) |
-| Fri, 02 May 2025 09:12:47 GMT | SOS Technology: Empowering Business Expansion with Secure IT Services in Dubai | Sosictengineer | [Read More](https://medium.com/p/38b6de984238) |
-| Fri, 02 May 2025 09:06:03 GMT | Web Security & Bug Bounty: Learn Penetration Testing — Chapter 1 | Riki SatyaGraha | [Read More](https://medium.com/p/51af5f98bc59) |
-| Fri, 02 May 2025 09:02:27 GMT | Demystifying Cookies and Sessions in Node.js: A Journey from Raw HTTP to Express | Chukwuebuka Okoli | [Read More](https://medium.com/p/df55664c1a50) |
-| Fri, 02 May 2025 08:59:27 GMT | Introduction to Nginx: The Silent Hero Behind the Web | Milan Madusanka senarathna | [Read More](https://medium.com/p/3b1756949152) |
-| Fri, 02 May 2025 08:58:17 GMT | SAP NetWeaver Zero-Day Vulnerability CVE-2025–31324: A Critical Threat to Enterprise Systems | Infoziant | [Read More](https://medium.com/p/2c08d9679cf7) |
-| Fri, 02 May 2025 08:55:57 GMT | Exploring Secure Video Conferencing Solutions for Meaningful Connections | Harold D. Ramirez | [Read More](https://medium.com/p/d295fa8ddfa5) |
