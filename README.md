@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 12:28:57 GMT | Implementing Role Based Access Control(RBAC) in Microsoft Azure | @jacob_sec | [Read More](https://medium.com/p/d11c28a9a877) |
+| Fri, 02 May 2025 12:27:41 GMT | Understanding Networking Basics with Cisco Packet Tracer | Jafar Umarassadulloh | [Read More](https://medium.com/p/2478a8b7ce53) |
+| Fri, 02 May 2025 12:15:42 GMT | Phishing — Snapped Phishing-Line - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/8d1f7d7feea7) |
+| Fri, 02 May 2025 12:08:47 GMT | The Excel Epidemic: How Uncontrolled Spreadsheets Are Crippling Your Organization | Ugur Kadakal | [Read More](https://medium.com/p/236ab6a20c9d) |
+| Fri, 02 May 2025 12:07:27 GMT | WordPress XSS Attacks: What Is It and How to Avoid It? | Taha Mehmood | [Read More](https://medium.com/p/7047b975d228) |
+| Fri, 02 May 2025 12:06:55 GMT | Inside a Watering Hole Attack: A Step-by-Step Social Engineering Demo | Stanley Nilam | [Read More](https://medium.com/p/03fd1b569fef) |
+| Fri, 02 May 2025 12:04:56 GMT | Strengthen Your Vehicle Security West Midlands with Advanced Solutions | Advanced Telematics | [Read More](https://medium.com/p/4744e26255df) |
+| Fri, 02 May 2025 12:02:25 GMT | The Inflation of “Security Researchers” and Its Consequences for Open Source | Marc Anton Dahmen | [Read More](https://medium.com/p/b02623ebf4d3) |
+| Fri, 02 May 2025 12:02:16 GMT | What is the Cisco 350–501 Exam? A Complete Guide for Aspiring Network Engineers | Vasundhra sharma | [Read More](https://medium.com/p/ad449a5ec435) |
+| Fri, 02 May 2025 12:02:11 GMT | The biggest thing you bring to any site? Forward Motion. | EXLITY | [Read More](https://medium.com/p/17a6252fb9b1) |
+| Fri, 02 May 2025 11:44:24 GMT | ️ Top 10 Most Trusted Cyber Security Agencies in 2025 | Harley Dean Pious | [Read More](https://medium.com/p/bd5bdc6bf31c) |
+| Fri, 02 May 2025 11:42:37 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1847a7dd6af7) |
+| Fri, 02 May 2025 11:41:57 GMT | How to Protect Your Social Media and Email Accounts | Polkadot Anti-Scam Team | [Read More](https://medium.com/p/d20e612f3249) |
+| Fri, 02 May 2025 11:41:11 GMT | Recovery With James | Jenny Kyle | [Read More](https://medium.com/p/4b80669bf53c) |
+| Fri, 02 May 2025 11:36:24 GMT | Mentoring the Next Generation: A Cybersecurity Leader’s Role in Closing the Skills Gap | Wale Adedeji | [Read More](https://medium.com/p/f1b8a40dade5) |
 | Fri, 02 May 2025 11:20:28 GMT | You Google Something on Your Phone — What Really Happens? | Subadevan C | [Read More](https://medium.com/p/bd57276d2fdf) |
 | Fri, 02 May 2025 11:17:27 GMT | Malware Analysis of Domain Names Using VirusTotal | Blessing Olajumoke Akinmola | [Read More](https://medium.com/p/01b4d2416bad) |
 | Fri, 02 May 2025 11:15:48 GMT | How SOAR Platforms Transform Incident Response: Real-World Use Cases | Devaaravindlutukurty | [Read More](https://medium.com/p/31a83da8b95f) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 07:19:57 GMT | Practical Strategies to Safeguard Wire Instructions from Cyberattacks | Serishahid | [Read More](https://medium.com/p/f92c1e66bd07) |
 | Fri, 02 May 2025 07:12:20 GMT | Persistence via Registry — How Attackers Abuse the Windows Registry | Paritosh | [Read More](https://medium.com/p/186be2587c20) |
 | Fri, 02 May 2025 07:12:13 GMT | How to Build a Trustworthy Security Team for Your Business | Mohan Ahuja | [Read More](https://medium.com/p/15a57d79138d) |
-| Fri, 02 May 2025 07:07:13 GMT | Playing with Binaries: Emulation and Debugging | Horrow | [Read More](https://medium.com/p/c7913688862c) |
-| Fri, 02 May 2025 07:05:45 GMT | ประจำวันศุกร์ที่ 2 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7825a62846ff) |
-| Fri, 02 May 2025 06:59:17 GMT | Secure Your Android Code (Part 1) | Prouha Kévin | [Read More](https://medium.com/p/1a9e8ca1af38) |
-| Fri, 02 May 2025 06:50:41 GMT | Williams Security Task Force-Event Security Services West Palm Beach | Williams Security Task Force | [Read More](https://medium.com/p/9f63538b66fc) |
-| Fri, 02 May 2025 06:50:28 GMT | “AI Isn’t Coming. It’s Already Here — and Running the Show.”
-By Ana Vespera | Ana Vespera ✨ | [Read More](https://medium.com/p/94439308cb25) |
-| Fri, 02 May 2025 06:41:32 GMT | ERP Tyranny: Where Politics, Power Plays, and Purges Reign Supreme | Namir Sagheenanajar | [Read More](https://medium.com/p/f132fce8d32d) |
-| Fri, 02 May 2025 06:38:51 GMT | A Guide to Cybersecurity Risk Assessment Checklist | Crystal Recoup | [Read More](https://medium.com/p/f154fff8e728) |
-| Fri, 02 May 2025 06:37:17 GMT | From Electrical Engineer to Cybersecurity Champion — The Journey of Shaik Shoaib with KIIS | KLEAP Institute of Information Security | [Read More](https://medium.com/p/68b9ff781a14) |
-| Fri, 02 May 2025 06:35:47 GMT | AI and Fraud Detection: How Fintech is Fighting Financial Crime | Noah Martinez | [Read More](https://medium.com/p/5f44259ee0a3) |
-| Fri, 02 May 2025 06:31:26 GMT | Mastering CNAME Records: Best Practices, Pitfalls, and Performance | MonitorDNS | [Read More](https://medium.com/p/7b91d1de41c2) |
-| Fri, 02 May 2025 06:25:01 GMT | What Is Arbitrage Bot Development for Crypto Trading? | Remand Simon | [Read More](https://medium.com/p/5d2aa99848ef) |
-| Fri, 02 May 2025 06:19:41 GMT | Start Your Tech Career in 2025: Beginner IT Certifications to Earn a Competitive Salary | CyberSecRealm | [Read More](https://medium.com/p/c0eacee41342) |
-| Fri, 02 May 2025 06:18:03 GMT | Top 10 Mobile App Security Tips and Trends for 2025 | SignMyCode | [Read More](https://medium.com/p/c390e99b6441) |
-| Fri, 02 May 2025 06:16:07 GMT | “The Human Faces Behind National Security: Stories of Mike Waltz, Marco Rubio, and the Guardians of… | GOPAL KRISHNA MAITY | [Read More](https://medium.com/p/a92a87635a93) |
-| Fri, 02 May 2025 06:15:55 GMT | Safeguarding Your Digital Self: Why Data Privacy Matters More Than Ever | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/d60797da965d) |
