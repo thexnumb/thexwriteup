@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 13:31:24 GMT | Cyber Kill Chain for Beginners: How Hackers Plan Attacks and How You Can Stop Them | Shah kaif | [Read More](https://medium.com/p/a981d7e4dead) |
 | Fri, 02 May 2025 13:12:43 GMT | Informational Momentum, Duality, and Entanglement: Foundations for Emergent Spacetime Structure | David Lille | [Read More](https://medium.com/p/6016dddbba0a) |
 | Fri, 02 May 2025 13:10:42 GMT | Firewalls Are Not Enough: EDSPL’s New-Age Security Science for the Modern Threat Landscape | saurabh cyberinfomines | [Read More](https://medium.com/p/d58e327610cc) |
 | Fri, 02 May 2025 12:59:41 GMT | Unlocking Your Future: Why Cybersecurity Might Be the Career You Never Considered | ICTRD-Kaushalpith | [Read More](https://medium.com/p/75eb4333fb24) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 08:11:31 GMT | ⚔️ Day 23: Mastering Multi-Endpoint Race Conditions — Where Timing Breaks Logic | Agarwaldaksh | [Read More](https://medium.com/p/8200c4799e00) |
 | Fri, 02 May 2025 08:08:42 GMT | The Daily Tech Digest: 02 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/516082d01ac1) |
 | Fri, 02 May 2025 07:59:32 GMT | Running Proxmox Safely: How to Keep VMs Isolated Without Losing Sleep | Mr.PlanB | [Read More](https://medium.com/p/27430703d63c) |
-| Fri, 02 May 2025 07:52:09 GMT | The Rising Importance of Cyber security 2025 | FACE Prep Campus | [Read More](https://medium.com/p/46f04b38dd54) |
