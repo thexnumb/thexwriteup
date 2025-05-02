@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 03:05:37 GMT | 10 AI Security Tools You Should Know About in 2025 | OrangeJellyPie | [Read More](https://medium.com/p/d16a1c7dafe9) |
+| Fri, 02 May 2025 03:03:19 GMT | How to Dissect Malware Like a Cyber Pathologist (Without Getting Infected) | Ahmad Javed | [Read More](https://medium.com/p/41d967abf2e7) |
+| Fri, 02 May 2025 02:35:45 GMT | Hack-Proof Your OS: Securing Windows and Linux | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/084089caefea) |
+| Fri, 02 May 2025 02:34:44 GMT | OSINT Combine CTFD — Challenge: Safari Time | rootsechax | [Read More](https://medium.com/p/b0fc59f0658c) |
+| Fri, 02 May 2025 02:32:26 GMT | OSINT Combine CTFD — Challenge: Not So Smug Smuggler | rootsechax | [Read More](https://medium.com/p/abec5a518400) |
+| Fri, 02 May 2025 02:32:25 GMT | Top 5 Monitoring Tools in 2025 for Cloud DevOps | Sridhar | [Read More](https://medium.com/p/2189f262d497) |
+| Fri, 02 May 2025 02:32:25 GMT | ️ Learn Burp Suite from Scratch Setup in 3 Easy Steps | Reza Yuzron W | [Read More](https://medium.com/p/db8d236856e7) |
+| Fri, 02 May 2025 02:30:44 GMT | Boost Your Linux Performance: How to Increase Swap Memory in 5 Simple Steps (Beginner Friendly) | Rupesh Sharma | [Read More](https://medium.com/p/f62aacacf609) |
+| Fri, 02 May 2025 02:22:25 GMT | The Red Teaming: 30-Day Challenge[18] | Bl@ckC!pH3r | [Read More](https://medium.com/p/d71941b6d0b5) |
+| Fri, 02 May 2025 02:07:57 GMT | Prompt Injection in ChatGPT and LLMs: What Developers Must Know | Manish Shivanandhan | [Read More](https://medium.com/p/a92f9df34569) |
+| Fri, 02 May 2025 02:06:04 GMT | Inside the Kernel: Lessons from Real OS Security Failures | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/0e6b0d77f403) |
 | Fri, 02 May 2025 01:30:40 GMT | Case Study: Unveiling 642,639 Government Credential Leaks Across 192 Countries | WebThreat.io - Fábio Correia | [Read More](https://medium.com/p/2c2cb5f94842) |
 | Fri, 02 May 2025 01:26:43 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 5) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/3329319c5518) |
 | Fri, 02 May 2025 01:17:47 GMT | Yaoguai Aswan CTF 2025 Finals | Sayed Reda | [Read More](https://medium.com/p/3b9003931803) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 May 2025 17:51:01 GMT | Karachi’s ride-hailing services will be unified under a single system: Sharjeel | Asad Ullah | [Read More](https://medium.com/p/9835acb563ea) |
 | Thu, 01 May 2025 17:41:11 GMT | Inside the Hacker’s Toolbox: Cracking Passwords with Hashcat and John the Ripper | jiggy meow | [Read More](https://medium.com/p/a34f2caa63c4) |
 | Thu, 01 May 2025 17:32:35 GMT | Everyone Is Being Lied To About AI Agents | Zudonu Osomudeya | [Read More](https://medium.com/p/4b2e7856f226) |
-| Thu, 01 May 2025 17:31:32 GMT | Cybersecurity vs. Cyber Security: Which Is Correct? | Laurianne Apollon | [Read More](https://medium.com/p/631801db1f9b) |
-| Thu, 01 May 2025 17:30:36 GMT | Cybersecurity and Cyber Fraud Prevention: An Ultimate Guide | Abhay Shukla | [Read More](https://medium.com/p/6ab26ee99c19) |
-| Thu, 01 May 2025 17:25:38 GMT | AI and Tech for India’s Security and Economic Growth | Pankaj Kumar | [Read More](https://medium.com/p/33f594d9a008) |
-| Thu, 01 May 2025 17:24:25 GMT | A Beginner’s Guide to ISO/IEC 27001 and the Foundations of Information Security — I | Harmit Warang (göt.r0_0t?) | [Read More](https://medium.com/p/5888d07ce9b1) |
-| Thu, 01 May 2025 16:58:48 GMT | Cyber Alert: ‘Pakistan Cyber Force’ ने राजस्थान सरकार की Websites की Hack | Hacker news 07 | [Read More](https://medium.com/p/98b098652dbf) |
-| Thu, 01 May 2025 16:49:34 GMT | Incident Response Process - TryHackMe Walkthrough | Cyber.Bae | [Read More](https://medium.com/p/68e51c68c0b4) |
-| Thu, 01 May 2025 16:43:11 GMT | Why Your Cybersecurity Onboarding Emails Aren’t Working | Alexandrankwopara | [Read More](https://medium.com/p/26824f31fde2) |
-| Thu, 01 May 2025 16:38:34 GMT | Learning Cyber Security - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/4abc8ba25b89) |
-| Thu, 01 May 2025 16:34:48 GMT | How Investigating an ICICI Bank Phishing Site Uncovered a Malware Operation | Aarsh Jawa | [Read More](https://medium.com/p/45ecac000609) |
-| Thu, 01 May 2025 16:32:24 GMT | Vector: Oracle Breach — March 2025 | Faraz Ishaq | [Read More](https://medium.com/p/be89c2ac151c) |
-| Thu, 01 May 2025 16:22:20 GMT | Top-Tier Private Security Services for California Businesses | Code Four Private Security | [Read More](https://medium.com/p/47132152aeef) |
