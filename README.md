@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 23:08:35 GMT | CyberDefenders — Oski Lab | Jose Chaves | [Read More](https://medium.com/p/da3b7399ead0) |
+| Fri, 02 May 2025 22:41:06 GMT | When AI Turns Against Us: Anthropic Report Highlights Growing Threats of Generative AI Misuse | Cyber-AppSec | [Read More](https://medium.com/p/efbe1190cea4) |
 | Fri, 02 May 2025 22:16:37 GMT | Implementing PAM to Secure Your Most Sensitive Accounts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ff0973ca1792) |
 | Fri, 02 May 2025 22:14:02 GMT | Scattered Spider Strikes Again: Why Modern Enterprises Must Rethink Identity and Access Security | Avnishyam | [Read More](https://medium.com/p/ec73094e26fb) |
 | Fri, 02 May 2025 22:12:32 GMT | Should Companies Worry About Ransomware? | JM | [Read More](https://medium.com/p/8663470d7d22) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 15:56:30 GMT | ️ How to Secure Your Docker Containers Like a Hacker Would (So They Can’t) | Priyanshu Rajput | [Read More](https://medium.com/p/c18d3531d7b8) |
 | Fri, 02 May 2025 15:55:56 GMT | picoCTF — Web Decode | Aashraymt | [Read More](https://medium.com/p/0a71ad402019) |
 | Fri, 02 May 2025 15:54:50 GMT | TryHackMe - SOC Workbooks and Lookups - WriteUp | Axoloth | [Read More](https://medium.com/p/c041fdfa6fa8) |
-| Fri, 02 May 2025 15:54:45 GMT | My Shameless Plug | Eina Schroeder | [Read More](https://medium.com/p/19331688c500) |
-| Fri, 02 May 2025 15:47:52 GMT | Ensuring Safe Healthcare Environments: Trusted Hospital Security Guards in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/2442e45e7e84) |
