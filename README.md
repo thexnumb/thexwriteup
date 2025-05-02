@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 14:01:51 GMT | CISSP Journal: Business Continuity Planning Part I | abdeldayemnour | [Read More](https://medium.com/p/ba8bc291fedf) |
+| Fri, 02 May 2025 14:01:44 GMT | Think Blockchain Is Complicated? Not After Reading This! | HarisNF | [Read More](https://medium.com/p/364702d32868) |
+| Fri, 02 May 2025 14:00:50 GMT | Cyber Briefing: 2025.05.02 | CyberMaterial | [Read More](https://medium.com/p/a5dd379cbfe0) |
+| Fri, 02 May 2025 14:00:02 GMT | DORA Has Entered the Chat: EU’s New Cyber Rulebook Reshaping Financial Security | january1073 | [Read More](https://medium.com/p/e2ce7dd95c5d) |
+| Fri, 02 May 2025 13:58:39 GMT | TikTok’s €530M GDPR Fine: Why Europe’s Slamming the Brakes on Data Transfers to China! | Ismail Tasdelen | [Read More](https://medium.com/p/c8336cc59cb0) |
+| Fri, 02 May 2025 13:57:33 GMT | 9 Core Threats Facing LLM Agents | Tal Eliyahu | [Read More](https://medium.com/p/f6fbd66fad54) |
+| Fri, 02 May 2025 13:56:51 GMT | 6 Months to Backend Developer: My Journey From Zero IT Knowledge to Coding Professionally | Rizky Ananda | [Read More](https://medium.com/p/5b2b3516c824) |
+| Fri, 02 May 2025 13:38:55 GMT | How to hack the world’s most secure networks: Part 1 — Introduction | Cesaire Njietche Fangang | [Read More](https://medium.com/p/baa058ae6298) |
 | Fri, 02 May 2025 13:31:24 GMT | Cyber Kill Chain for Beginners: How Hackers Plan Attacks and How You Can Stop Them | Shah kaif | [Read More](https://medium.com/p/a981d7e4dead) |
 | Fri, 02 May 2025 13:12:43 GMT | Informational Momentum, Duality, and Entanglement: Foundations for Emergent Spacetime Structure | David Lille | [Read More](https://medium.com/p/6016dddbba0a) |
 | Fri, 02 May 2025 13:10:42 GMT | Firewalls Are Not Enough: EDSPL’s New-Age Security Science for the Modern Threat Landscape | saurabh cyberinfomines | [Read More](https://medium.com/p/d58e327610cc) |
@@ -55,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 10:49:25 GMT | BugCrowd Student Qualifier! CTF Challenge Writeup: Shell_Shop | Aditya Bhos | [Read More](https://medium.com/p/acd49851e845) |
 | Fri, 02 May 2025 10:48:57 GMT | SPLUNK KUNAI CONFIGURATION FOR LINUX | Ozgeserens | [Read More](https://medium.com/p/6c1c3eec110d) |
 | Fri, 02 May 2025 10:45:48 GMT | Traditional vs. Automated Threat Hunting: Closing the Gap in Modern Cybersecurity | Devaaravindlutukurty | [Read More](https://medium.com/p/233744760f34) |
+| Fri, 02 May 2025 10:44:19 GMT | Security by Design : qu’est-ce que ça veut vraiment dire ? | Adam REHAIEM | [Read More](https://medium.com/p/5f1615c41a29) |
 | Fri, 02 May 2025 10:43:02 GMT | MintsLoader and GhostWeaver: The Sneaky Cyber Duo Taking Phishing to the Next Level! ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/1c3c3c7c363d) |
 | Fri, 02 May 2025 10:40:48 GMT | Lampiao(Vulnhub) | Amalpp | [Read More](https://medium.com/p/8816ee83f5f8) |
 | Fri, 02 May 2025 10:40:41 GMT | Microsoft Ditches Passwords for Passkeys: A Passwordless Future Awaits! | Ismail Tasdelen | [Read More](https://medium.com/p/c4672acff17d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 08:41:59 GMT | Top 5 Benefits of Security Services in Pune | United Guard Force India | [Read More](https://medium.com/p/0b1d363d5ca0) |
 | Fri, 02 May 2025 08:35:25 GMT | Find Out Who’s Behind an Email: How theHarvester Helps You Stay Safe | Sam Galope | [Read More](https://medium.com/p/3f08b76eb8b0) |
 | Fri, 02 May 2025 08:25:49 GMT | Identifying Risks in Technology Projects | Ed-it Editions | [Read More](https://medium.com/p/e8667de7ef19) |
-| Fri, 02 May 2025 08:24:23 GMT | Secure File Handling in Go 1.24: The Complete Guide to os.Root and OpenInRoot | Siva | [Read More](https://medium.com/p/ccad6286eb6e) |
-| Fri, 02 May 2025 08:24:14 GMT | Kali Linux Operating System Explained | Mwenda Kelvin | [Read More](https://medium.com/p/87ad15ebaac1) |
-| Fri, 02 May 2025 08:23:21 GMT | SASE — Protect Yourself! | Ed-it Editions | [Read More](https://medium.com/p/e7c7aa1d24d7) |
-| Fri, 02 May 2025 08:21:49 GMT | Managing Threat Understanding with Time-Sensitive Reaction Strategies | Ed-it Editions | [Read More](https://medium.com/p/66829db77af1) |
-| Fri, 02 May 2025 08:19:55 GMT | HTTP Status Codes: The Emojis of the Web | Mukul Saini | [Read More](https://medium.com/p/763e8c5288ed) |
-| Fri, 02 May 2025 08:16:31 GMT | Let’s Encrypt: Why You should (and Shouldn’t) use free SSL certificates | Roman Huliak | [Read More](https://medium.com/p/711b3365127f) |
-| Fri, 02 May 2025 08:11:31 GMT | ⚔️ Day 23: Mastering Multi-Endpoint Race Conditions — Where Timing Breaks Logic | Agarwaldaksh | [Read More](https://medium.com/p/8200c4799e00) |
-| Fri, 02 May 2025 08:08:42 GMT | The Daily Tech Digest: 02 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/516082d01ac1) |
-| Fri, 02 May 2025 07:59:32 GMT | Running Proxmox Safely: How to Keep VMs Isolated Without Losing Sleep | Mr.PlanB | [Read More](https://medium.com/p/27430703d63c) |
