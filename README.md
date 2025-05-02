@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 May 2025 09:34:18 GMT | Automating dependency updates in your DevOps setup | Jorn Beyers | [Read More](https://medium.com/p/4866169f8e0a) |
+| Fri, 02 May 2025 09:32:27 GMT | “I’ve Been The Archer” | dinar lala | [Read More](https://medium.com/p/49978862151d) |
+| Fri, 02 May 2025 09:32:12 GMT | Why Every AI Startup Needs MCP. | Rohan Girdhani - The TechDoc | [Read More](https://medium.com/p/ff8ee973d031) |
+| Fri, 02 May 2025 09:26:34 GMT | Prevent v Detect — It Is All About Effort (I mean AI) | Dan Cvrcek | [Read More](https://medium.com/p/9843c676ecac) |
+| Fri, 02 May 2025 09:26:22 GMT | Part Two: Tracing the Web-From ICICI Phishing Kit to a Larger Malware Campaign. | Aarsh Jawa | [Read More](https://medium.com/p/0d62bf39fa10) |
+| Fri, 02 May 2025 09:25:47 GMT | Hunting Access Control Bugs: How I Found a Critical IDOR & Privilege Escalation in a Fort Knox-Like… | Whoami | [Read More](https://medium.com/p/a4aeb46d8714) |
+| Fri, 02 May 2025 09:21:09 GMT | How to Secure Your API Key: Best Practices for App and Software Developers | Authorshivani | [Read More](https://medium.com/p/92d70405bea5) |
+| Fri, 02 May 2025 09:16:50 GMT | Understanding RSA and AES Encryption in Android: A Beginner’s Guide | Samset | [Read More](https://medium.com/p/d734f472a728) |
+| Fri, 02 May 2025 09:16:03 GMT | How to Install Nginx on a Red Hat Server (RHEL/CentOS/Rocky) — Step-by-Step Guide | Milan Madusanka senarathna | [Read More](https://medium.com/p/31a8017b800f) |
 | Fri, 02 May 2025 09:12:47 GMT | SOS Technology: Empowering Business Expansion with Secure IT Services in Dubai | Sosictengineer | [Read More](https://medium.com/p/38b6de984238) |
 | Fri, 02 May 2025 09:06:03 GMT | Web Security & Bug Bounty: Learn Penetration Testing — Chapter 1 | Riki SatyaGraha | [Read More](https://medium.com/p/51af5f98bc59) |
 | Fri, 02 May 2025 09:02:27 GMT | Demystifying Cookies and Sessions in Node.js: A Journey from Raw HTTP to Express | Chukwuebuka Okoli | [Read More](https://medium.com/p/df55664c1a50) |
@@ -105,14 +114,3 @@ By Ana Vespera | Ana Vespera ✨ | [Read More](https://medium.com/p/94439308cb25
 | Fri, 02 May 2025 03:44:40 GMT | Title: AI and Cybersecurity: Navigating the Challenges and Building Smart Defenses
 Author: Dheeraj… | Dheerajdeshpande | [Read More](https://medium.com/p/4fab289232fe) |
 | Fri, 02 May 2025 03:40:54 GMT | The 5 Cybersecurity Tools Every Mobile App Developer Needs in Their Stack | Ahmad Javed | [Read More](https://medium.com/p/01a261fda645) |
-| Fri, 02 May 2025 03:32:28 GMT | Understanding the NTT Data Breach and Its Ripple Effects | Deven Chhajed | [Read More](https://medium.com/p/c47209104ced) |
-| Fri, 02 May 2025 03:28:26 GMT | Setting the Stage | Mike Gonzalez | [Read More](https://medium.com/p/8a0c893dc901) |
-| Fri, 02 May 2025 03:28:13 GMT | Don’t You Forget!
-Secure by Design in the 
-Age of Cloud-First Security | KAI GRIFFIN | [Read More](https://medium.com/p/fe51c3d08eeb) |
-| Fri, 02 May 2025 03:16:49 GMT | Why Linux? | abdur rashid firdaus | [Read More](https://medium.com/p/498b8ae6bf0b) |
-| Fri, 02 May 2025 03:14:57 GMT | Logless Hunt - TryHackMe Room | Sam | [Read More](https://medium.com/p/909ed3c305f4) |
-| Fri, 02 May 2025 03:13:24 GMT | 4,800+ IPs Used in Massive Recon Attack Targeting Git Configuration Files — What You Need to Know | Cyber-AppSec | [Read More](https://medium.com/p/bd7903377b21) |
-| Fri, 02 May 2025 03:13:13 GMT | Top 5 IT Companies Post Single-Digit Growth | infohutnews | [Read More](https://medium.com/p/f43399e64d2f) |
-| Fri, 02 May 2025 03:05:37 GMT | 10 AI Security Tools You Should Know About in 2025 | OrangeJellyPie | [Read More](https://medium.com/p/d16a1c7dafe9) |
-| Fri, 02 May 2025 03:03:19 GMT | How to Dissect Malware Like a Cyber Pathologist (Without Getting Infected) | Ahmad Javed | [Read More](https://medium.com/p/41d967abf2e7) |
