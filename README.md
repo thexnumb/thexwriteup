@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 09:21:22 GMT | DIRECTORY STRUCTURE | The Security Alchemist | [Read More](https://medium.com/p/529978d414fe) |
+| Sat, 03 May 2025 09:19:52 GMT | 3 Cybersecurity Myths That Put You at Risk (And How to Fix Them) | MaryCyberExplains | [Read More](https://medium.com/p/abd8b781cae2) |
+| Sat, 03 May 2025 09:12:05 GMT | How 5G Is Reshaping IT Systems and Network Architecture | Nailashahbaz | [Read More](https://medium.com/p/92ec0764d99a) |
 | Sat, 03 May 2025 08:53:58 GMT | Cookies vs localStorage: What’s Safer and When? | Apoorv Bedmutha | [Read More](https://medium.com/p/396959783b55) |
 | Sat, 03 May 2025 08:50:01 GMT | What If Strength Also Meant Letting Someone In? | Pages | [Read More](https://medium.com/p/4bac49af38e9) |
 | Sat, 03 May 2025 08:48:35 GMT | Exploring the Future of Surveillance with ANRAN | Dsgfghsdfsg | [Read More](https://medium.com/p/993f672d7976) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 23:39:54 GMT | NIST Releases New Password Guidelines: Prioritizing Length Over Complexity | Majdi Draouil | [Read More](https://medium.com/p/fd14a384a225) |
 | Fri, 02 May 2025 23:25:42 GMT | Thoth Tech: 1 Vulnhub Walkthrough | Riddhish | [Read More](https://medium.com/p/7ae101b7c1f4) |
 | Fri, 02 May 2025 23:21:10 GMT | DiamondXRay(tryhackme) | Devilman24 | [Read More](https://medium.com/p/baa4bae90a7a) |
-| Fri, 02 May 2025 23:08:35 GMT | CyberDefenders — Oski Lab | Jose Chaves | [Read More](https://medium.com/p/da3b7399ead0) |
-| Fri, 02 May 2025 23:07:01 GMT | I’m Not Numb, I’m Waiting | Alexandra Engen | [Read More](https://medium.com/p/83cf09b00c09) |
-| Fri, 02 May 2025 22:41:06 GMT | When AI Turns Against Us: Anthropic Report Highlights Growing Threats of Generative AI Misuse | Cyber-AppSec | [Read More](https://medium.com/p/efbe1190cea4) |
