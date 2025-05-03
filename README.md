@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 11:12:24 GMT | Dynamic Malware Analysis: Sandbox Evasion Techniques | Esra Kayhan | [Read More](https://medium.com/p/15cd7a68c6cb) |
+| Sat, 03 May 2025 11:02:25 GMT | This Simple Domain Hack Is Fooling Millions: Don’t Be Next! | Dhanush N | [Read More](https://medium.com/p/ee18e902cf64) |
+| Sat, 03 May 2025 11:01:59 GMT | Why Most DevOps Engineers Never Earn 6 Figures (And How to Break Through) | Zudonu Osomudeya | [Read More](https://medium.com/p/19dc68b70b8b) |
+| Sat, 03 May 2025 10:43:13 GMT | My LinkedIn Post On Cybersecurity Certs Got Over 160K impressions .. This Is What I Learnt | Taimur Ijlal | [Read More](https://medium.com/p/0da5718adc3e) |
 | Sat, 03 May 2025 10:34:17 GMT | Why Zig’s ‘No Hidden Control Flow’ Might Be a Bug, Not a Feature | Harsh Vardhan | [Read More](https://medium.com/p/06d42f9787a5) |
 | Sat, 03 May 2025 10:33:25 GMT | Cyberattack on Polish State Registry Systems: A Wake-Up Call for Government Cyber Resilience | Avnishyam | [Read More](https://medium.com/p/150202ce2bf2) |
 | Sat, 03 May 2025 10:31:54 GMT | SSTI2 - Writeup | Marvin | [Read More](https://medium.com/p/e22d6dee4f92) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 01:09:11 GMT | The Secret Weapon Legal-Tech Startups Need: Conversion Copywriting | Adesua Adedamola - WAYVSMAKER | [Read More](https://medium.com/p/6c482b3e6a22) |
 | Sat, 03 May 2025 00:58:07 GMT | Let Credentialing Assistance pay your SANS renewal fees, version 3.0 | Rich | [Read More](https://medium.com/p/a95ab0c9e8d5) |
 | Sat, 03 May 2025 00:51:40 GMT | Tracking Threat Actor TTPs with MITRE ATT&CK Mapping | Paritosh | [Read More](https://medium.com/p/f90d68d9ea7f) |
-| Sat, 03 May 2025 00:50:17 GMT | Classical and Post-Quantum Cryptography: A Comparative Analysis | Caamanno | [Read More](https://medium.com/p/94321c8615c4) |
-| Sat, 03 May 2025 00:37:10 GMT | Day 14: Suricata and Zeek — The Dynamic Duo of IDS Tools | Bl@ckC!pH3r | [Read More](https://medium.com/p/b25d3a953dac) |
-| Sat, 03 May 2025 00:27:22 GMT | Fraud detection is not a solo mission | Peter Bordes | [Read More](https://medium.com/p/e30646c3208f) |
-| Sat, 03 May 2025 00:02:00 GMT | How Can I Recover My Money From XProMarket ? | Doris | [Read More](https://medium.com/p/53f0cb092e0c) |
