@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 08:35:12 GMT | From Bug Finder to Risk Advisor: How Security Roles Are Evolving | UnpluggedSec | [Read More](https://medium.com/p/db1aa86dd137) |
+| Sat, 03 May 2025 08:30:54 GMT | Is Russia losing the cyber warfare? | Mashal Zahid | [Read More](https://medium.com/p/3f289613a4c7) |
+| Sat, 03 May 2025 08:25:45 GMT | My Journey from School Dropout to Principal Security Engineer | Vaibhav Kushwaha | [Read More](https://medium.com/p/0b4a837cea38) |
 | Sat, 03 May 2025 08:15:19 GMT | “The Art of UDP Scanning: Quiet, Powerful, and Often Overlooked” | All in One security | [Read More](https://medium.com/p/afa763b25f16) |
 | Sat, 03 May 2025 08:12:16 GMT | To learn a cybersecurity course, follow these practical steps to get started confidently: | ICTRD-Kaushalpith | [Read More](https://medium.com/p/d4abd665d396) |
+| Sat, 03 May 2025 08:02:25 GMT | Domain-Hijacking: Risiken, Prävention und Handlungsstrategien | mertes.dev | [Read More](https://medium.com/p/ddab8908188c) |
 | Sat, 03 May 2025 07:57:32 GMT | Decentralized Cybersecurity Framework for Autonomous Systems (DCFAS) | Rahul Jebin Raju | [Read More](https://medium.com/p/790f08121bac) |
 | Sat, 03 May 2025 07:55:12 GMT | 11 Best Cybersecurity Companies to Know in 2025: A Quick Guide for the Curious and the Cautious | Mehak kamra | [Read More](https://medium.com/p/270cf23c2610) |
 | Sat, 03 May 2025 07:50:06 GMT | “Understanding TCP Communication Flags — The Handshake Behind the Internet” | All in One security | [Read More](https://medium.com/p/0003535c95b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 22:12:32 GMT | Should Companies Worry About Ransomware? | JM | [Read More](https://medium.com/p/8663470d7d22) |
 | Fri, 02 May 2025 22:04:48 GMT | Depression is an easy “friend” to sit with. | Lauryn | [Read More](https://medium.com/p/4df890e5f224) |
 | Fri, 02 May 2025 21:55:20 GMT | No Risk, No Story | Daniel Gagarin | [Read More](https://medium.com/p/af3a6ec188e2) |
-| Fri, 02 May 2025 21:03:51 GMT | The Best First Phone for your Child | Savvy Cyber Kids | [Read More](https://medium.com/p/66ebb125fcd1) |
-| Fri, 02 May 2025 21:01:49 GMT | How to Setup a MacBook with Privacy in Mind | Savvy Cyber Kids | [Read More](https://medium.com/p/86099a7cbd49) |
-| Fri, 02 May 2025 20:59:57 GMT | How to Protect Your Data from Theft | Savvy Cyber Kids | [Read More](https://medium.com/p/fc056cbc28f9) |
-| Fri, 02 May 2025 20:57:57 GMT | The Avalanche Beneath Us: Soulbound Intelligence and the Future of Flow | Eóin Walsh | [Read More](https://medium.com/p/54f3f07a9e8b) |
