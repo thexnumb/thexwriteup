@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 02:32:26 GMT | Smart Grids Explained: CPS in Energy Management | Data Defendere | [Read More](https://medium.com/p/5a024e27c824) |
+| Sat, 03 May 2025 02:18:45 GMT | Why does the PCiDS training program matter? | Dr. Daniel Koh | [Read More](https://medium.com/p/8f959d7fcde3) |
+| Sat, 03 May 2025 02:17:38 GMT | AI-Powered Mystery Box Scams | Tal Eliyahu | [Read More](https://medium.com/p/02e931065a19) |
+| Sat, 03 May 2025 02:09:20 GMT | IoT and Agile Product Security Development: A Basis Case Study | Tom Britton | [Read More](https://medium.com/p/096c9b445283) |
+| Sat, 03 May 2025 02:06:17 GMT | Get Proactive on Vulnerability Disclosure: A Comprehensive Guide | Tom Britton | [Read More](https://medium.com/p/da828f8867bb) |
+| Sat, 03 May 2025 01:56:47 GMT | Insecure Randomness Zafiyeti Kaynak Kod Analizi | Umut Kayra Doğan | [Read More](https://medium.com/p/611c8fe121db) |
+| Sat, 03 May 2025 01:34:51 GMT | The Shape of Risk: From Cybersecurity to the Human Condition | Tom Yonashiro | [Read More](https://medium.com/p/db447714b779) |
+| Sat, 03 May 2025 01:31:32 GMT | Enhancing Security and Privacy in Federated Learning Systems | Epicbytecraft | [Read More](https://medium.com/p/074eba317865) |
 | Sat, 03 May 2025 01:31:14 GMT | Why Many Indonesian Companies Use Scrum Without Understanding Its Core Values and Framework Purpose | Feldy Judah Kambey | [Read More](https://medium.com/p/afb73706a8c2) |
 | Sat, 03 May 2025 01:17:15 GMT | How I Discovered Email Spoofing Still Works in 2025—and Why That Should Concern You | Michael Mbelu Chukwudi | [Read More](https://medium.com/p/323258291c19) |
 | Sat, 03 May 2025 01:11:03 GMT | Siber Tehdit İstihbaratına Giriş: Kavramlar, Süreçler ve Uygulamalar | A. Alp Tiftik | [Read More](https://medium.com/p/7030e7d4312a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 16:54:04 GMT | Understanding Clause 4 of ISO/IEC 27001: Context of the Organization — II | Harmit Warang (göt.r0_0t?) | [Read More](https://medium.com/p/02e6863f387a) |
 | Fri, 02 May 2025 16:53:06 GMT | The Night Watcher: Todor’s Quiet Vigil Over Sofia | Mario Alexiev | [Read More](https://medium.com/p/b26b0f5cf69d) |
 | Fri, 02 May 2025 16:51:25 GMT | Insecure Direct Object Reference (IDOR) in a Government Portal | Dharanis | [Read More](https://medium.com/p/c83c0c638577) |
-| Fri, 02 May 2025 16:46:59 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/919677089251) |
-| Fri, 02 May 2025 16:45:26 GMT | Cyber Sentinel 2025: The Double-Edged Sword of AI in Cybersecurity | Jay Desai | [Read More](https://medium.com/p/be173001d5a7) |
-| Fri, 02 May 2025 16:45:24 GMT | UX in Cybersecurity: 10 Real-World Tips Designers and Developers Shouldn’t Ignore | Marta Fernandez | [Read More](https://medium.com/p/b0240cab532d) |
-| Fri, 02 May 2025 16:44:19 GMT | NIST AI Risk Framework (part 2) | David Scott | [Read More](https://medium.com/p/d86dc98f1ead) |
-| Fri, 02 May 2025 16:39:17 GMT | TryHackMe “Cheese” CTF — Beginner-Friendly Walkthrough (My First CTF!) | KĒLV!N | [Read More](https://medium.com/p/b51fe3542f6a) |
-| Fri, 02 May 2025 16:28:14 GMT | Active Directory Gets Smarter: Key Security Enhancements in Windows Server 2025 | Mohammad  sepehri nia | [Read More](https://medium.com/p/4e2dd650e7d3) |
-| Fri, 02 May 2025 16:25:28 GMT | How Cybercriminals Exploit Data Brokers to Target Law Firms | mePrism Privacy | [Read More](https://medium.com/p/88289548963d) |
-| Fri, 02 May 2025 16:25:18 GMT | Semgrep 101: Creating SAST Rules for Your Codebase | Hosam Gemei | [Read More](https://medium.com/p/e3147f339e55) |
