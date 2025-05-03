@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 07:33:36 GMT | No Sql Injection - Writeup | Marvin | [Read More](https://medium.com/p/acd7f2044376) |
+| Sat, 03 May 2025 07:32:08 GMT | Crypto Clash: Nigeria Takes Binance to Court Over Billions in Alleged Tax Evasion | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/0d10803f1d49) |
+| Sat, 03 May 2025 07:14:19 GMT | Önemli Windows Event Log SIEM Kullanım Senaryoları | Önder AKÖZ | [Read More](https://medium.com/p/71ec1df1b02a) |
 | Sat, 03 May 2025 07:12:50 GMT | HTB Base Machine walkthrough | Srij | [Read More](https://medium.com/p/17675fb22d8b) |
 | Sat, 03 May 2025 07:09:38 GMT | Spot the Holes Before You Dig Them: A Developer’s Guide to Threat & Risk Analysis | Bryan Tjandra | [Read More](https://medium.com/p/dff1a12a7461) |
 | Sat, 03 May 2025 07:07:38 GMT | Bugged by Backup Files: How .zip and .bak Gave Me the Source Code | Iski | [Read More](https://medium.com/p/872a376b0b2b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 20:33:05 GMT | Kill them with kindness or myself? | Dreamer_985 | [Read More](https://medium.com/p/73069776d1a9) |
 | Fri, 02 May 2025 20:31:48 GMT | Scan Smarter: Hardening Containers & IaC with Trivy and CI Integration | samuel viana da silva | [Read More](https://medium.com/p/077adb3d80cc) |
 | Fri, 02 May 2025 20:18:35 GMT | CODE RED: The Cybersecurity Threats We’re Not Ready For | Mohammed Thabet | [Read More](https://medium.com/p/e55f591f5408) |
-| Fri, 02 May 2025 20:16:27 GMT | Looking out for the average guy… | Asma Riaz Malik | [Read More](https://medium.com/p/e27d13a7d389) |
-| Fri, 02 May 2025 19:51:16 GMT | Micro-services :Ways To Authenticate Incoming Requests | Vikas Taank | [Read More](https://medium.com/p/b2bef332e1b3) |
-| Fri, 02 May 2025 19:43:26 GMT | Policy Puppetry: A Universal Jailbreak Threat to AI Language Models | Pytech Academy | [Read More](https://medium.com/p/ee64991b0a75) |
