@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 10:34:17 GMT | Why Zig’s ‘No Hidden Control Flow’ Might Be a Bug, Not a Feature | Harsh Vardhan | [Read More](https://medium.com/p/06d42f9787a5) |
+| Sat, 03 May 2025 10:33:25 GMT | Cyberattack on Polish State Registry Systems: A Wake-Up Call for Government Cyber Resilience | Avnishyam | [Read More](https://medium.com/p/150202ce2bf2) |
+| Sat, 03 May 2025 10:31:54 GMT | SSTI2 - Writeup | Marvin | [Read More](https://medium.com/p/e22d6dee4f92) |
+| Sat, 03 May 2025 10:25:17 GMT | Authentication types: Knowledge and Ownership | Igor Berner | [Read More](https://medium.com/p/de95d8d87e43) |
 | Sat, 03 May 2025 09:53:02 GMT | Cybersecurity Vs Software Engineering Which One is Better? | Glaxit Software Agency | [Read More](https://medium.com/p/575542a4eda2) |
 | Sat, 03 May 2025 09:34:20 GMT | From Classic SOC to Autonomous SOC: The Future of Cyber Defense | Aris Haryanto | [Read More](https://medium.com/p/1ada150e86ca) |
 | Sat, 03 May 2025 09:21:22 GMT | DIRECTORY STRUCTURE | The Security Alchemist | [Read More](https://medium.com/p/529978d414fe) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 00:37:10 GMT | Day 14: Suricata and Zeek — The Dynamic Duo of IDS Tools | Bl@ckC!pH3r | [Read More](https://medium.com/p/b25d3a953dac) |
 | Sat, 03 May 2025 00:27:22 GMT | Fraud detection is not a solo mission | Peter Bordes | [Read More](https://medium.com/p/e30646c3208f) |
 | Sat, 03 May 2025 00:02:00 GMT | How Can I Recover My Money From XProMarket ? | Doris | [Read More](https://medium.com/p/53f0cb092e0c) |
-| Sat, 03 May 2025 00:01:35 GMT | Hack The Box — Machine — Cap Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/97895f9b621b) |
-| Sat, 03 May 2025 00:00:13 GMT | Getting Your Mind Back | Ram Iyer | [Read More](https://medium.com/p/db9cd77a7ee1) |
-| Fri, 02 May 2025 23:55:04 GMT | The Age of AI: Our Final Invention or Our Fastest Collapse? | Arash keshmiri | [Read More](https://medium.com/p/0f7f397e47be) |
-| Fri, 02 May 2025 23:39:54 GMT | NIST Releases New Password Guidelines: Prioritizing Length Over Complexity | Majdi Draouil | [Read More](https://medium.com/p/fd14a384a225) |
