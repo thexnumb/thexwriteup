@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 19:31:32 GMT | Zero Trust in Practice: How IBM Implements It Globally | Original bee | [Read More](https://medium.com/p/9059ea7c494f) |
+| Sat, 03 May 2025 19:31:31 GMT | SQL Injection Nedir? Güvenli Backend Geliştirmenin Temelleri | Furkan YOLCU | [Read More](https://medium.com/p/11418cafb906) |
+| Sat, 03 May 2025 19:15:57 GMT | You Won’t Believe These 10 Weird Tech Inventions That Actually Exist! | Narmeen Feyli | [Read More](https://medium.com/p/595d3b8c0c49) |
+| Sat, 03 May 2025 19:11:20 GMT | 7 Common Tech Myths People Still Believe | Narmeen Feyli | [Read More](https://medium.com/p/e84a71e419a7) |
+| Sat, 03 May 2025 19:11:15 GMT | The Overlooked Cybersecurity Risk: How Version Control Issues and Social Engineering Enable Supply… | Jeffrey Nickle | [Read More](https://medium.com/p/ba7fb4be34c2) |
 | Sat, 03 May 2025 19:00:28 GMT | Cybersecurity(Beginners Guide) | Abiolaoluwatuyi | [Read More](https://medium.com/p/aeb629b15fc1) |
 | Sat, 03 May 2025 18:58:53 GMT | The Silent Threat: Understanding Infostealer Malware and How to Protect Yourself | Aniket Tegginamath | [Read More](https://medium.com/p/7e9a5e0644b6) |
 | Sat, 03 May 2025 18:52:36 GMT | Hack The Box Academy — Network Foundations — Network Concepts | bl77rd | [Read More](https://medium.com/p/14ee779d52dc) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 11:12:24 GMT | Dynamic Malware Analysis: Sandbox Evasion Techniques | Esra Kayhan | [Read More](https://medium.com/p/15cd7a68c6cb) |
 | Sat, 03 May 2025 11:02:25 GMT | This Simple Domain Hack Is Fooling Millions: Don’t Be Next! | Dhanush N | [Read More](https://medium.com/p/ee18e902cf64) |
 | Sat, 03 May 2025 11:01:59 GMT | Why Most DevOps Engineers Never Earn 6 Figures (And How to Break Through) | Zudonu Osomudeya | [Read More](https://medium.com/p/19dc68b70b8b) |
-| Sat, 03 May 2025 10:43:13 GMT | My LinkedIn Post On Cybersecurity Certs Got Over 160K impressions .. This Is What I Learnt | Taimur Ijlal | [Read More](https://medium.com/p/0da5718adc3e) |
-| Sat, 03 May 2025 10:34:17 GMT | Why Zig’s ‘No Hidden Control Flow’ Might Be a Bug, Not a Feature | Harsh Vardhan | [Read More](https://medium.com/p/06d42f9787a5) |
-| Sat, 03 May 2025 10:33:25 GMT | Cyberattack on Polish State Registry Systems: A Wake-Up Call for Government Cyber Resilience | Avnishyam | [Read More](https://medium.com/p/150202ce2bf2) |
-| Sat, 03 May 2025 10:31:54 GMT | SSTI2 - Writeup | Marvin | [Read More](https://medium.com/p/e22d6dee4f92) |
-| Sat, 03 May 2025 10:25:17 GMT | Authentication types: Knowledge and Ownership | Igor Berner | [Read More](https://medium.com/p/de95d8d87e43) |
