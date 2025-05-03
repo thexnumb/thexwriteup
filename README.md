@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 06:37:41 GMT | 2025’s Must-Attend Cybersecurity Conferences | Ahmad Javed | [Read More](https://medium.com/p/67a0b79185ab) |
+| Sat, 03 May 2025 06:29:03 GMT | Here’s How I Recover My Money DDB Miner ? | Judgeminers | [Read More](https://medium.com/p/4df4a62b36e9) |
+| Sat, 03 May 2025 06:24:57 GMT | Phishing in 2025: AI-Driven Scams, Real Victims & How to Outsmart Them | Nikita | [Read More](https://medium.com/p/e4c4bf835ba4) |
 | Sat, 03 May 2025 06:19:25 GMT | Ethical Hacking Certification: Unlock Your Career in Cybersecurity | Certocean | [Read More](https://medium.com/p/cff319edf6be) |
 | Sat, 03 May 2025 06:01:44 GMT | Can Developers See Your Password? | The CodeCrafter | [Read More](https://medium.com/p/77935b6a1719) |
 | Sat, 03 May 2025 06:00:27 GMT | What Are KaalSec Cybersecurity Services & Why Your Business Needs Them | KaalSec | [Read More](https://medium.com/p/d5aeec332930) |
@@ -23,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 05:33:55 GMT | eCPPTv3 Certification Review & Tips | sl4de | [Read More](https://medium.com/p/14569eb2aca7) |
 | Sat, 03 May 2025 05:33:03 GMT | Elevate Your Career with ACSMI’s Online Cybersecurity Certification | ACSMI Advanced Cybersecurity Management Institute | [Read More](https://medium.com/p/2e3dbbf98a77) |
 | Sat, 03 May 2025 05:29:08 GMT | Palo Alto Networks Private 5G Security Solutions: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/417c2adc72e0) |
+| Sat, 03 May 2025 05:29:06 GMT | OpenFeign QueryDSL 마이그레이션 총정리 | Daegyeom | [Read More](https://medium.com/p/dee89cb3ec05) |
 | Sat, 03 May 2025 05:28:14 GMT | Creating time Based OTP server from scratch | Sumeet | [Read More](https://medium.com/p/269f5494141b) |
 | Sat, 03 May 2025 05:20:05 GMT | 10 Tech Jobs You Can Get Without a Degree (That Actually Pay Well) | Prism HRC | [Read More](https://medium.com/p/4ccd865a1c7b) |
 | Sat, 03 May 2025 05:07:21 GMT | Stop Missing Critical Security Alerts: Why CVETodo.com | Anthony Walker | [Read More](https://medium.com/p/3997f29225e4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 19:00:50 GMT | Securing Wendy’s: A Practical Guide to Incident Response in Fast Food | Rohith Dinakaran | [Read More](https://medium.com/p/701b5a413d1f) |
 | Fri, 02 May 2025 18:58:58 GMT | 5 Remote Work Trends That Will Define Q2 2025 | Hirely | [Read More](https://medium.com/p/024fd2fc3ad8) |
 | Fri, 02 May 2025 18:52:17 GMT | Exploiting Race Condition to apply discount coupon multiple times | Arunoday Tiwari | [Read More](https://medium.com/p/8c8368be44d2) |
-| Fri, 02 May 2025 18:48:40 GMT | Tough Jobs Need Tough Gear: A Look at the Heavy-Duty APX 6000 Radio Holster | Judy Reynolds | [Read More](https://medium.com/p/7c85ab4b4ae2) |
-| Fri, 02 May 2025 18:39:21 GMT | Threat Hunting 101: Identifying Brute Force Attacks with Sentinel, MDE, and the MITRE ATT&CK… | Dean Haycox | [Read More](https://medium.com/p/42e836b24cbc) |
-| Fri, 02 May 2025 18:37:20 GMT | Privilege Escalation to Super Admin via Mass Assessment in a Multi-Tenant Laravel App | Rahul M S | [Read More](https://medium.com/p/526d1309de73) |
-| Fri, 02 May 2025 18:37:05 GMT | Anonymous— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/705a3e67bb09) |
