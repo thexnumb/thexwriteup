@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 01:31:14 GMT | Why Many Indonesian Companies Use Scrum Without Understanding Its Core Values and Framework Purpose | Feldy Judah Kambey | [Read More](https://medium.com/p/afb73706a8c2) |
+| Sat, 03 May 2025 01:17:15 GMT | How I Discovered Email Spoofing Still Works in 2025—and Why That Should Concern You | Michael Mbelu Chukwudi | [Read More](https://medium.com/p/323258291c19) |
+| Sat, 03 May 2025 01:11:03 GMT | Siber Tehdit İstihbaratına Giriş: Kavramlar, Süreçler ve Uygulamalar | A. Alp Tiftik | [Read More](https://medium.com/p/7030e7d4312a) |
+| Sat, 03 May 2025 01:09:11 GMT | The Secret Weapon Legal-Tech Startups Need: Conversion Copywriting | Adesua Adedamola - WAYVSMAKER | [Read More](https://medium.com/p/6c482b3e6a22) |
+| Sat, 03 May 2025 00:58:07 GMT | Let Credentialing Assistance pay your SANS renewal fees, version 3.0 | Rich | [Read More](https://medium.com/p/a95ab0c9e8d5) |
+| Sat, 03 May 2025 00:51:40 GMT | Tracking Threat Actor TTPs with MITRE ATT&CK Mapping | Paritosh | [Read More](https://medium.com/p/f90d68d9ea7f) |
+| Sat, 03 May 2025 00:50:17 GMT | Classical and Post-Quantum Cryptography: A Comparative Analysis | Caamanno | [Read More](https://medium.com/p/94321c8615c4) |
+| Sat, 03 May 2025 00:37:10 GMT | Day 14: Suricata and Zeek — The Dynamic Duo of IDS Tools | Bl@ckC!pH3r | [Read More](https://medium.com/p/b25d3a953dac) |
+| Sat, 03 May 2025 00:27:22 GMT | Fraud detection is not a solo mission | Peter Bordes | [Read More](https://medium.com/p/e30646c3208f) |
+| Sat, 03 May 2025 00:02:00 GMT | How Can I Recover My Money From XProMarket ? | Doris | [Read More](https://medium.com/p/53f0cb092e0c) |
+| Sat, 03 May 2025 00:01:35 GMT | Hack The Box — Machine — Cap Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/97895f9b621b) |
+| Fri, 02 May 2025 23:55:04 GMT | The Age of AI: Our Final Invention or Our Fastest Collapse? | Arash keshmiri | [Read More](https://medium.com/p/0f7f397e47be) |
+| Fri, 02 May 2025 23:39:54 GMT | NIST Releases New Password Guidelines: Prioritizing Length Over Complexity | Majdi Draouil | [Read More](https://medium.com/p/fd14a384a225) |
+| Fri, 02 May 2025 23:25:42 GMT | Thoth Tech: 1 Vulnhub Walkthrough | Riddhish | [Read More](https://medium.com/p/7ae101b7c1f4) |
 | Fri, 02 May 2025 23:21:10 GMT | DiamondXRay(tryhackme) | Devilman24 | [Read More](https://medium.com/p/baa4bae90a7a) |
 | Fri, 02 May 2025 23:08:35 GMT | CyberDefenders — Oski Lab | Jose Chaves | [Read More](https://medium.com/p/da3b7399ead0) |
 | Fri, 02 May 2025 23:07:01 GMT | I’m Not Numb, I’m Waiting | Alexandra Engen | [Read More](https://medium.com/p/83cf09b00c09) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 16:28:14 GMT | Active Directory Gets Smarter: Key Security Enhancements in Windows Server 2025 | Mohammad  sepehri nia | [Read More](https://medium.com/p/4e2dd650e7d3) |
 | Fri, 02 May 2025 16:25:28 GMT | How Cybercriminals Exploit Data Brokers to Target Law Firms | mePrism Privacy | [Read More](https://medium.com/p/88289548963d) |
 | Fri, 02 May 2025 16:25:18 GMT | Semgrep 101: Creating SAST Rules for Your Codebase | Hosam Gemei | [Read More](https://medium.com/p/e3147f339e55) |
-| Fri, 02 May 2025 16:24:27 GMT | Outdated Crypto Libraries: A Hidden Risk | Aditya Singh | [Read More](https://medium.com/p/4765305b18c9) |
-| Fri, 02 May 2025 16:23:47 GMT | Cybersecurity 101 | Sujal Adhikari | [Read More](https://medium.com/p/2edbd4bec954) |
-| Fri, 02 May 2025 16:23:27 GMT | $1000 Bounty: Account Takeover via Host Header Injection in Password Reset Flow | Ehtesham Ul Haq | [Read More](https://medium.com/p/dc0cdb2d972b) |
-| Fri, 02 May 2025 16:17:06 GMT | Cybersecurity News Review — Week 18 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/dbda26c727be) |
-| Fri, 02 May 2025 16:12:55 GMT | The Unseen Hero of Cybersecurity: Preventing Threats Before They Emerge with Threat Modeling | Adnan Kutay Yüksel | [Read More](https://medium.com/p/e92c1197fdcd) |
-| Fri, 02 May 2025 16:11:44 GMT | How Can I Withdraw My Money From Binolla? | Alvos | [Read More](https://medium.com/p/be5f78fd4553) |
-| Fri, 02 May 2025 16:09:20 GMT | Exploiting File Inclusion: From Dot-Dot-Slash to RCE using PHP Sessions, Log Poisoning, and… | Bash Overflow | [Read More](https://medium.com/p/4db1bdf8ad77) |
-| Fri, 02 May 2025 16:08:31 GMT | How to Set Up a Self-Hosted OOB Client for Burp Suite with Interactsh | Dmytro V. | [Read More](https://medium.com/p/c56322cd9933) |
-| Fri, 02 May 2025 16:08:14 GMT | How I Monitored and Tracked Unwanted Access Attempts on My Server Using Daemons, Logs, and Python… | Arash hadad | [Read More](https://medium.com/p/d2078eef68e2) |
-| Fri, 02 May 2025 16:07:18 GMT | picoCTF — Roboto Sans | Aashraymt | [Read More](https://medium.com/p/69c16ac890af) |
-| Fri, 02 May 2025 16:03:45 GMT | How Can I Recover My Money From Binolla? | Alvos | [Read More](https://medium.com/p/7d9ee0b827c8) |
-| Fri, 02 May 2025 16:02:52 GMT | Achieving Persistence: Covert Techniques to Keep Your Python C2 Implant Alive | Maxwell Cross | [Read More](https://medium.com/p/88836164b3b2) |
-| Fri, 02 May 2025 15:57:02 GMT | What is Active Directory? Its Architecture, Components, and Importance. | Muhammad Abdur Raafay | [Read More](https://medium.com/p/1de3d982c9fc) |
-| Fri, 02 May 2025 15:56:30 GMT | ️ How to Secure Your Docker Containers Like a Hacker Would (So They Can’t) | Priyanshu Rajput | [Read More](https://medium.com/p/c18d3531d7b8) |
