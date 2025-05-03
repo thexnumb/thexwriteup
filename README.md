@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 15:14:20 GMT | Data Exfiltration Detection — Strategi Teknis untuk Mencegah Kebocoran Data | Sigit Adi Irianto | [Read More](https://medium.com/p/e42e4b77bd94) |
+| Sat, 03 May 2025 15:13:19 GMT | Building Trust Between Microservices: Our mTLS Journey | Kamesh Ayachit | [Read More](https://medium.com/p/03b7ff1ec408) |
+| Sat, 03 May 2025 15:04:57 GMT | Malware Detection — Strategi Teknis untuk Deteksi dan Mitigasi Ancaman | Sigit Adi Irianto | [Read More](https://medium.com/p/ffde75a55e52) |
+| Sat, 03 May 2025 14:58:54 GMT | Why Cybersecurity Matters in 2025 | Diyarokadia | [Read More](https://medium.com/p/5b21a0aa793b) |
+| Sat, 03 May 2025 14:56:14 GMT | Brute Force Attack: Cara SIEM Menangkal Serangan Password Cracking dengan Cerdas | Sigit Adi Irianto | [Read More](https://medium.com/p/a01523f6eb23) |
+| Sat, 03 May 2025 14:40:01 GMT | Malicious Go Modules Unleash Disk-Wiping Chaos in Supply Chain Attack | Ismail Tasdelen | [Read More](https://medium.com/p/ee5dd4ef70f6) |
+| Sat, 03 May 2025 14:37:45 GMT | Mastering Incident Response: Practical Insights and Strategies — Women in CyberSecurity Conference… | Meera Tamboli | [Read More](https://medium.com/p/eb1950012392) |
+| Sat, 03 May 2025 14:37:16 GMT | Iranian Hackers’ Two-Year Stealth Mission in Middle East CNI ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/0fa9414d1266) |
 | Sat, 03 May 2025 14:33:00 GMT | Adversarial Machine Learning in Cybersecurity: The Next Battlefield | ab | [Read More](https://medium.com/p/17894cc62ae8) |
 | Sat, 03 May 2025 14:32:29 GMT | Day 24: OverTheWire Bandit Walkthrough: Levels 6 → 11 | Agarwaldaksh | [Read More](https://medium.com/p/2ea1a785fd7c) |
 | Sat, 03 May 2025 14:31:01 GMT | Malicious PDFs Deliver Remcos RAT: Windows Users Targeted by Cybercriminals | The Infosec Journal | [Read More](https://medium.com/p/a9b15e92b4a2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 06:46:15 GMT | Multi-Factor Authentication for Data Center Access in UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/f781a8d4fae2) |
 | Sat, 03 May 2025 06:45:04 GMT | Unmasking Cyber Threats: The Power of Digital Forensics & Incident Response. | Sanjay K Mohindroo | [Read More](https://medium.com/p/f03015d2feda) |
 | Sat, 03 May 2025 06:37:41 GMT | 2025’s Must-Attend Cybersecurity Conferences | Ahmad Javed | [Read More](https://medium.com/p/67a0b79185ab) |
-| Sat, 03 May 2025 06:29:03 GMT | Here’s How I Recover My Money DDB Miner ? | Judgeminers | [Read More](https://medium.com/p/4df4a62b36e9) |
-| Sat, 03 May 2025 06:24:57 GMT | Phishing in 2025: AI-Driven Scams, Real Victims & How to Outsmart Them | Nikita | [Read More](https://medium.com/p/e4c4bf835ba4) |
-| Sat, 03 May 2025 06:19:25 GMT | Ethical Hacking Certification: Unlock Your Career in Cybersecurity | Certocean | [Read More](https://medium.com/p/cff319edf6be) |
-| Sat, 03 May 2025 06:01:44 GMT | Can Developers See Your Password? | The CodeCrafter | [Read More](https://medium.com/p/77935b6a1719) |
-| Sat, 03 May 2025 06:00:27 GMT | What Are KaalSec Cybersecurity Services & Why Your Business Needs Them | KaalSec | [Read More](https://medium.com/p/d5aeec332930) |
-| Sat, 03 May 2025 05:57:59 GMT | The Power of Ethical Hacking Certification: A New Age Cybersecurity Passport | Certocean | [Read More](https://medium.com/p/716c5e7ce1a4) |
-| Sat, 03 May 2025 05:57:40 GMT | The Windows Security Journey — Sudo for Windows vs RunAs | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1f97749a05e9) |
-| Sat, 03 May 2025 05:57:06 GMT | What is Kaalsec? The Cybersecurity & Automation Partner Your Business Has Been Missing | KaalSec | [Read More](https://medium.com/p/43c56f019080) |
