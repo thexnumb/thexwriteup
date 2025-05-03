@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 15:28:34 GMT | Types of Malware: Understanding the Threats Lurking in the Digital World | Batu Ada Tutkun | [Read More](https://medium.com/p/c5544afc2fa6) |
+| Sat, 03 May 2025 15:27:55 GMT | 3v@l - Writeup | Marvin | [Read More](https://medium.com/p/41363b65767d) |
+| Sat, 03 May 2025 15:19:29 GMT | will you still love me if i’m vulnerable? | aerie ৎ | [Read More](https://medium.com/p/64124636c296) |
 | Sat, 03 May 2025 15:14:20 GMT | Data Exfiltration Detection — Strategi Teknis untuk Mencegah Kebocoran Data | Sigit Adi Irianto | [Read More](https://medium.com/p/e42e4b77bd94) |
 | Sat, 03 May 2025 15:13:19 GMT | Building Trust Between Microservices: Our mTLS Journey | Kamesh Ayachit | [Read More](https://medium.com/p/03b7ff1ec408) |
 | Sat, 03 May 2025 15:04:57 GMT | Malware Detection — Strategi Teknis untuk Deteksi dan Mitigasi Ancaman | Sigit Adi Irianto | [Read More](https://medium.com/p/ffde75a55e52) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 06:50:46 GMT | Cybersecurity in the Real World: How Office Life Teaches Us the Fundamentals | unica 02 | [Read More](https://medium.com/p/138f879b2de3) |
 | Sat, 03 May 2025 06:50:02 GMT | I Am Not Always Who I Appear to Be | Raw | [Read More](https://medium.com/p/ae59ec6d3fc2) |
 | Sat, 03 May 2025 06:46:20 GMT | Linux Fundamentals Reference Guide (TryHackMe-Based) | Mainekdeveloper | [Read More](https://medium.com/p/98e1c4f473d7) |
-| Sat, 03 May 2025 06:46:15 GMT | Multi-Factor Authentication for Data Center Access in UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/f781a8d4fae2) |
-| Sat, 03 May 2025 06:45:04 GMT | Unmasking Cyber Threats: The Power of Digital Forensics & Incident Response. | Sanjay K Mohindroo | [Read More](https://medium.com/p/f03015d2feda) |
-| Sat, 03 May 2025 06:37:41 GMT | 2025’s Must-Attend Cybersecurity Conferences | Ahmad Javed | [Read More](https://medium.com/p/67a0b79185ab) |
