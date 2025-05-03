@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 19:00:28 GMT | Cybersecurity(Beginners Guide) | Abiolaoluwatuyi | [Read More](https://medium.com/p/aeb629b15fc1) |
+| Sat, 03 May 2025 18:58:53 GMT | The Silent Threat: Understanding Infostealer Malware and How to Protect Yourself | Aniket Tegginamath | [Read More](https://medium.com/p/7e9a5e0644b6) |
+| Sat, 03 May 2025 18:52:36 GMT | Hack The Box Academy — Network Foundations — Network Concepts | bl77rd | [Read More](https://medium.com/p/14ee779d52dc) |
+| Sat, 03 May 2025 18:44:05 GMT | How I set up a sneaky honeypot on my windows laptop — Sharing my learnings!! | Aquaregia17 | [Read More](https://medium.com/p/4bc547fcf84e) |
+| Sat, 03 May 2025 18:40:30 GMT | Deploy Your Own Dark Web Website on EC2 in Just 5 Minutes ️ | Naman Raghuwanshi | [Read More](https://medium.com/p/6cdd6becbe76) |
 | Sat, 03 May 2025 18:38:38 GMT | Behind the CAPTCHA: Unmasking a .Net Memory-Loader in a fake verification trap | Morgan E | [Read More](https://medium.com/p/09ce32ccff91) |
 | Sat, 03 May 2025 18:36:35 GMT | Red Teaming: RFID Access Card Attack — Using ESP32 | Yashshirke | [Read More](https://medium.com/p/22fc4a929dfc) |
 | Sat, 03 May 2025 18:21:01 GMT | SUNSET | midlaj irumban | [Read More](https://medium.com/p/7250dc274778) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 10:33:25 GMT | Cyberattack on Polish State Registry Systems: A Wake-Up Call for Government Cyber Resilience | Avnishyam | [Read More](https://medium.com/p/150202ce2bf2) |
 | Sat, 03 May 2025 10:31:54 GMT | SSTI2 - Writeup | Marvin | [Read More](https://medium.com/p/e22d6dee4f92) |
 | Sat, 03 May 2025 10:25:17 GMT | Authentication types: Knowledge and Ownership | Igor Berner | [Read More](https://medium.com/p/de95d8d87e43) |
-| Sat, 03 May 2025 09:53:02 GMT | Cybersecurity Vs Software Engineering Which One is Better? | Glaxit Software Agency | [Read More](https://medium.com/p/575542a4eda2) |
-| Sat, 03 May 2025 09:34:20 GMT | From Classic SOC to Autonomous SOC: The Future of Cyber Defense | Aris Haryanto | [Read More](https://medium.com/p/1ada150e86ca) |
-| Sat, 03 May 2025 09:21:22 GMT | DIRECTORY STRUCTURE | The Security Alchemist | [Read More](https://medium.com/p/529978d414fe) |
-| Sat, 03 May 2025 09:19:52 GMT | 3 Cybersecurity Myths That Put You at Risk (And How to Fix Them) | MaryCyberExplains | [Read More](https://medium.com/p/abd8b781cae2) |
-| Sat, 03 May 2025 09:12:05 GMT | How 5G Is Reshaping IT Systems and Network Architecture | Nailashahbaz | [Read More](https://medium.com/p/92ec0764d99a) |
