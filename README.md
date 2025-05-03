@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 16:37:35 GMT | Identifying and Exploiting API Vulnerabilities | Urshila Ravindran | [Read More](https://medium.com/p/3860e7340612) |
+| Sat, 03 May 2025 16:21:26 GMT | Toxic Agents: The Perfect Weapon for Attackers | NoAILabs | [Read More](https://medium.com/p/130ba4ca847c) |
 | Sat, 03 May 2025 16:02:26 GMT | Dumping Credentials with Python: Automating LSASS Access and Credential Extraction… | Maxwell Cross | [Read More](https://medium.com/p/a8c79d36ff08) |
 | Sat, 03 May 2025 16:00:06 GMT | What It Means to Have a Higher-Than-Average Adversity Quotient | Michael Angelo G. Badando | [Read More](https://medium.com/p/973cdf2f3f1b) |
 | Sat, 03 May 2025 15:54:53 GMT | ️ Cybersecurity Leadership: Guiding Digital Defenses with Strategy and Strength | Kora | [Read More](https://medium.com/p/c9042735d8cb) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 07:32:25 GMT | Building a Secure  Mobile App : Best Practices, Modern Techniques, and Real Code Examples | Arpit Choudhary | [Read More](https://medium.com/p/4ce2ac9f63e1) |
 | Sat, 03 May 2025 07:32:08 GMT | Crypto Clash: Nigeria Takes Binance to Court Over Billions in Alleged Tax Evasion | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/0d10803f1d49) |
 | Sat, 03 May 2025 07:31:15 GMT | Mastering smbclient for CTFs and Offensive Security: A Practical Guide from the Field | Cupid | [Read More](https://medium.com/p/2eb2f04d1bbc) |
-| Sat, 03 May 2025 07:14:19 GMT | Önemli Windows Event Log SIEM Kullanım Senaryoları | Önder AKÖZ | [Read More](https://medium.com/p/71ec1df1b02a) |
-| Sat, 03 May 2025 07:12:50 GMT | HTB Base Machine walkthrough | Srij | [Read More](https://medium.com/p/17675fb22d8b) |
