@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 13:25:05 GMT | //How to become an Ethical Hacker, zero to pro… Complete Roadmap!! | Rupesh_rs | [Read More](https://medium.com/p/4f5d2c7a2f6b) |
+| Sat, 03 May 2025 13:12:20 GMT | Interaction of Network and Security | Ed-it Editions | [Read More](https://medium.com/p/7ce1e07ec028) |
+| Sat, 03 May 2025 13:10:24 GMT | Negotiating the Storm of a Data Breach Dispute | Ed-it Editions | [Read More](https://medium.com/p/53afb985640a) |
+| Sat, 03 May 2025 13:06:46 GMT | PPTP- Point-to-Point Tunneling Protocol — Port 1723 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/8d36438849c5) |
+| Sat, 03 May 2025 13:04:12 GMT | Mental Health in Cybersecurity: Navigating the 2025 Landscape | Daniel Ușurelu | [Read More](https://medium.com/p/480f1b56ab88) |
+| Sat, 03 May 2025 12:59:17 GMT | “Digital Chains: The Covert Implementation of China’s Social Credit System in German Education” | SIMKRA | [Read More](https://medium.com/p/013214b2a0f1) |
+| Sat, 03 May 2025 12:56:59 GMT | Leveraging Ollama for Enhanced Cybersecurity: Opportunities, Challenges, and Best Practices | Daniel Ușurelu | [Read More](https://medium.com/p/96d097433c25) |
+| Sat, 03 May 2025 12:56:50 GMT | 6 Apps You Should NEVER Use On Your Mac | Faizan Saghir | [Read More](https://medium.com/p/b33666563f9d) |
+| Sat, 03 May 2025 12:47:49 GMT | Fortifying Your Build: Expert Construction Site Security Services in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/eb0e110548bf) |
+| Sat, 03 May 2025 12:46:00 GMT | Securing Your Web Applications: The Essential Guide for Beginners | CoderDev | [Read More](https://medium.com/p/f448b73085fd) |
+| Sat, 03 May 2025 12:42:51 GMT | How an Instagram Reel Got Me Into Cybersecurity and Bug Hunting | Naresh  Singh | [Read More](https://medium.com/p/9561c4c0c5d8) |
+| Sat, 03 May 2025 12:40:58 GMT | Information Disclosure Vulnerability Writeup HackerOne | AbhirupKonwar | [Read More](https://medium.com/p/be7fbe7e7893) |
+| Sat, 03 May 2025 12:36:15 GMT | The Ultimate Unified Framework guide for AI Security and Risk Management | M1k0 | [Read More](https://medium.com/p/8036266cdc52) |
 | Sat, 03 May 2025 12:28:42 GMT | How to Book Virtual Assistant Support for Your Small Business in Minutes | Book Virtual Assistant | [Read More](https://medium.com/p/15b399ae01ff) |
 | Sat, 03 May 2025 12:11:52 GMT | What Is the Dark Web? A Complete Guide for Curious Minds | Cytrusst | [Read More](https://medium.com/p/b809e2b13a7a) |
 | Sat, 03 May 2025 12:11:46 GMT | TerraStealerV2 and TerraLogger: Golden Chickens’ New Malware Families Discovered | MITRE Doggy | [Read More](https://medium.com/p/96eaafa332de) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 04:34:11 GMT | The Hunt for Hidden Domains: A Beginner’s Guide to Subfinder and 10 Subdomain Discovery Tools for… | Yamini Yadav | [Read More](https://medium.com/p/ce10ade962bf) |
 | Sat, 03 May 2025 04:31:51 GMT | IDOR Attacks Made Simple: How Hackers Access Unauthorized Data | Vipul Sonule | [Read More](https://medium.com/p/ca1158d18190) |
 | Sat, 03 May 2025 04:28:08 GMT | $4,323 Bounty Alert | Monika sharma | [Read More](https://medium.com/p/4af6e66bb8c1) |
-| Sat, 03 May 2025 04:27:05 GMT | A free tool for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/e06e45db9bb9) |
-| Sat, 03 May 2025 04:25:39 GMT | Understanding JWT (JSON Web Tokens): Structure, Creation, Validation, and Security Considerations | Jobin J | [Read More](https://medium.com/p/e421eaf25966) |
-| Sat, 03 May 2025 04:08:37 GMT | I created a Bootable Kali Linux USB with Rufus — And So Can You | Amy Huynh | [Read More](https://medium.com/p/63f4a27e1343) |
-| Sat, 03 May 2025 03:54:42 GMT | Why Cybersecurity is Important | Ahmad Javed | [Read More](https://medium.com/p/63b23a3b8b94) |
-| Sat, 03 May 2025 03:50:41 GMT | Protecting Online Identity With VPNs | James Neal | [Read More](https://medium.com/p/8c4edc8961aa) |
-| Sat, 03 May 2025 03:34:02 GMT | Prompt for mitigating vulnerabilities introduced by package dependencies | Jesse White | [Read More](https://medium.com/p/641f99a6238d) |
-| Sat, 03 May 2025 03:09:13 GMT | Breaking in Unpardoned. | NnFace | [Read More](https://medium.com/p/02f64d4f412e) |
-| Sat, 03 May 2025 03:05:21 GMT | Understanding SSH Keys and encryption in the age of Quantum computing | Roman Huliak | [Read More](https://medium.com/p/6327579dcf71) |
-| Sat, 03 May 2025 03:05:07 GMT | Zero-Day Monitoring Evasions: How Attackers Stay Invisible | Bl@ckC!pH3r | [Read More](https://medium.com/p/87779f3dd951) |
-| Sat, 03 May 2025 03:02:20 GMT | OSINT Alert: The LinkedIn HR Scam You Can’t Afford to Ignore | ARoy | [Read More](https://medium.com/p/50adc01a7d53) |
-| Sat, 03 May 2025 03:02:11 GMT | $750 Bounty: Two-factor Authentication | Monika sharma | [Read More](https://medium.com/p/5241a45e7fc1) |
-| Sat, 03 May 2025 03:01:57 GMT | “40 Linux Commands That Kickstarted My Ethical Hacking Journey” | Yamini Yadav | [Read More](https://medium.com/p/9e73a5c19859) |
-| Sat, 03 May 2025 03:01:50 GMT | Hacked by a Bathroom Mirror: The $18,000 Mistake No One Saw Coming | Noel | [Read More](https://medium.com/p/4d21a604858f) |
