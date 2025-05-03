@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 23:04:54 GMT | Forging My Path in Cybersecurity: An Enthusiast’s Journey Through Training and Internship | G3ntl3Kn1ght | [Read More](https://medium.com/p/cdcb661d98da) |
+| Sat, 03 May 2025 23:03:15 GMT | Fixing ‘zsh: corrupt history file’ in Kali Linux as a Penetration Tester | Yamini Yadav | [Read More](https://medium.com/p/0e37b68507a7) |
+| Sat, 03 May 2025 22:44:20 GMT | Top Modern Encryption Algorithms | Adem KORKMAZ | [Read More](https://medium.com/p/54ea8a057ccf) |
 | Sat, 03 May 2025 22:16:36 GMT | Security Information and Event Management (SIEM): Why You Need It in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0955385acd8f) |
 | Sat, 03 May 2025 22:12:07 GMT | Day 11: I Tried to Walk Through the Full Pentesting Lifecycle | Nile Okomo | [Read More](https://medium.com/p/cd28f3a6d6b3) |
 | Sat, 03 May 2025 22:10:45 GMT | Mirror Image: Finding My Future Self in a Stranger’s Story | Odyssey of Silence | [Read More](https://medium.com/p/60e9d5d3a690) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 13:14:29 GMT | Drawing the Value Map for Business Growth | Ed-it Editions | [Read More](https://medium.com/p/755bfc4c149a) |
 | Sat, 03 May 2025 13:12:20 GMT | Interaction of Network and Security | Ed-it Editions | [Read More](https://medium.com/p/7ce1e07ec028) |
 | Sat, 03 May 2025 13:10:24 GMT | Negotiating the Storm of a Data Breach Dispute | Ed-it Editions | [Read More](https://medium.com/p/53afb985640a) |
-| Sat, 03 May 2025 13:06:46 GMT | PPTP- Point-to-Point Tunneling Protocol — Port 1723 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/8d36438849c5) |
-| Sat, 03 May 2025 13:04:12 GMT | Mental Health in Cybersecurity: Navigating the 2025 Landscape | Daniel Ușurelu | [Read More](https://medium.com/p/480f1b56ab88) |
-| Sat, 03 May 2025 12:59:17 GMT | “Digital Chains: The Covert Implementation of China’s Social Credit System in German Education” | SIMKRA | [Read More](https://medium.com/p/013214b2a0f1) |
