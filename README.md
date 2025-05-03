@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 04:34:11 GMT | The Hunt for Hidden Domains: A Beginner’s Guide to Subfinder and 10 Subdomain Discovery Tools for… | Yamini Yadav | [Read More](https://medium.com/p/ce10ade962bf) |
+| Sat, 03 May 2025 04:31:51 GMT | IDOR Attacks Made Simple: How Hackers Access Unauthorized Data | Vipul Sonule | [Read More](https://medium.com/p/ca1158d18190) |
+| Sat, 03 May 2025 04:28:08 GMT | $4,323 Bounty Alert | Monika sharma | [Read More](https://medium.com/p/4af6e66bb8c1) |
+| Sat, 03 May 2025 04:27:05 GMT | A free tool for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/e06e45db9bb9) |
+| Sat, 03 May 2025 04:25:39 GMT | Understanding JWT (JSON Web Tokens): Structure, Creation, Validation, and Security Considerations | Jobin J | [Read More](https://medium.com/p/e421eaf25966) |
 | Sat, 03 May 2025 04:08:37 GMT | I created a Bootable Kali Linux USB with Rufus — And So Can You | Amy Huynh | [Read More](https://medium.com/p/63f4a27e1343) |
 | Sat, 03 May 2025 03:54:42 GMT | Why Cybersecurity is Important | Ahmad Javed | [Read More](https://medium.com/p/63b23a3b8b94) |
 | Sat, 03 May 2025 03:50:41 GMT | Protecting Online Identity With VPNs | James Neal | [Read More](https://medium.com/p/8c4edc8961aa) |
@@ -43,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 00:27:22 GMT | Fraud detection is not a solo mission | Peter Bordes | [Read More](https://medium.com/p/e30646c3208f) |
 | Sat, 03 May 2025 00:02:00 GMT | How Can I Recover My Money From XProMarket ? | Doris | [Read More](https://medium.com/p/53f0cb092e0c) |
 | Sat, 03 May 2025 00:01:35 GMT | Hack The Box — Machine — Cap Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/97895f9b621b) |
+| Sat, 03 May 2025 00:00:13 GMT | Getting Your Mind Back | Ram Iyer | [Read More](https://medium.com/p/db9cd77a7ee1) |
 | Fri, 02 May 2025 23:55:04 GMT | The Age of AI: Our Final Invention or Our Fastest Collapse? | Arash keshmiri | [Read More](https://medium.com/p/0f7f397e47be) |
 | Fri, 02 May 2025 23:39:54 GMT | NIST Releases New Password Guidelines: Prioritizing Length Over Complexity | Majdi Draouil | [Read More](https://medium.com/p/fd14a384a225) |
 | Fri, 02 May 2025 23:25:42 GMT | Thoth Tech: 1 Vulnhub Walkthrough | Riddhish | [Read More](https://medium.com/p/7ae101b7c1f4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 17:54:41 GMT | Belajar XSS dari Nol: Nyolong Cookie Lokal Buat Seru-seruan (Edukasi Only!) | Indra Maha Resi | [Read More](https://medium.com/p/ea6ec2361f2f) |
 | Fri, 02 May 2025 17:47:57 GMT | Vulnerable to Prepared: Building Incident Response Plan | Beacon Blade | [Read More](https://medium.com/p/16059849bcf8) |
 | Fri, 02 May 2025 17:43:12 GMT | Red Teaming vs. Penetration Testing: Which One Does Your Business Actually Need in 2025? | Bawanancy | [Read More](https://medium.com/p/cdab00ae34d5) |
-| Fri, 02 May 2025 17:36:46 GMT | A Beginner-Friendly Breakdown of Web Application Penetration Testing in 2025 | Aryansaha | [Read More](https://medium.com/p/6bbe272277cd) |
-| Fri, 02 May 2025 17:30:16 GMT | How to Scan PostScript (.PS) Files for Threats in your Python App | Cloudmersive | [Read More](https://medium.com/p/8c640447adcc) |
-| Fri, 02 May 2025 17:25:55 GMT | White Box Penetration Testing: Why It’s a Big Deal in 2025 | Aryansaha | [Read More](https://medium.com/p/6c303ae18082) |
-| Fri, 02 May 2025 17:23:44 GMT | New phishing scam: Malicious search ads | AdBlock | [Read More](https://medium.com/p/3e799e29598b) |
-| Fri, 02 May 2025 17:21:58 GMT | CAP WALKTHROUGH: HACKTHEBOX | R4nd0mSys | [Read More](https://medium.com/p/b37544cdebd0) |
-| Fri, 02 May 2025 17:21:52 GMT | Remote Code Execution Threat Found in Apache HTTP Server | current.cybersecurity | [Read More](https://medium.com/p/b109460d0a86) |
