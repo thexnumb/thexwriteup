@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 13:33:57 GMT | I Almost Lost Everything in a Phishing Scam — Here’s How You Can Stay Safe | Nerav R Parmar | [Read More](https://medium.com/p/53f476618d21) |
+| Sat, 03 May 2025 13:27:45 GMT | Cybersecurity Issues in AI Protocols | Vicky Donald | [Read More](https://medium.com/p/95e4b72b3576) |
 | Sat, 03 May 2025 13:25:05 GMT | //How to become an Ethical Hacker, zero to pro… Complete Roadmap!! | Rupesh_rs | [Read More](https://medium.com/p/4f5d2c7a2f6b) |
+| Sat, 03 May 2025 13:21:31 GMT | How Quantum Computing is a Threat to Cryptography | Avinash Prasad | [Read More](https://medium.com/p/7cfded37520a) |
+| Sat, 03 May 2025 13:20:15 GMT | GDPR’s €5.66 B Fine Toll: How to Convince Your Boss to Upgrade Data-Protection | Iuliia Arkadeva | [Read More](https://medium.com/p/67a753bff3f5) |
+| Sat, 03 May 2025 13:14:46 GMT | While Hackers Planned, EDSPL Was Already Ten Steps Ahead | saurabh cyberinfomines | [Read More](https://medium.com/p/b34fd8fb1c1b) |
+| Sat, 03 May 2025 13:14:29 GMT | Drawing the Value Map for Business Growth | Ed-it Editions | [Read More](https://medium.com/p/755bfc4c149a) |
 | Sat, 03 May 2025 13:12:20 GMT | Interaction of Network and Security | Ed-it Editions | [Read More](https://medium.com/p/7ce1e07ec028) |
 | Sat, 03 May 2025 13:10:24 GMT | Negotiating the Storm of a Data Breach Dispute | Ed-it Editions | [Read More](https://medium.com/p/53afb985640a) |
 | Sat, 03 May 2025 13:06:46 GMT | PPTP- Point-to-Point Tunneling Protocol — Port 1723 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/8d36438849c5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 05:07:09 GMT | Am I Safe? | Ahmad Javed | [Read More](https://medium.com/p/d9511c94591c) |
 | Sat, 03 May 2025 05:01:37 GMT | Mastering Advanced CORS: Security Best Practices and Node.js Tips | Ahmet Soner | [Read More](https://medium.com/p/319c1db44eb2) |
 | Sat, 03 May 2025 04:55:14 GMT | OSINT Combine CTFD — Challenge: Hello Friend | rootsechax | [Read More](https://medium.com/p/93ad902b1a59) |
-| Sat, 03 May 2025 04:54:06 GMT | Building a Scalable Rate Limiter with Redis + Cloud Run + Serverless VPC on Google Cloud | Pavitra Lalwani | [Read More](https://medium.com/p/f8fcc13189e2) |
-| Sat, 03 May 2025 04:53:31 GMT | OSINT Combine CTFD — Challenge: Forest Pals | rootsechax | [Read More](https://medium.com/p/a663697cbef9) |
-| Sat, 03 May 2025 04:40:09 GMT | M3: Insecure Authentication / Authorization — OWASP Mobile Top 10–2024 | Madhumathi chamarthi | [Read More](https://medium.com/p/510a2d0f419e) |
-| Sat, 03 May 2025 04:34:11 GMT | The Hunt for Hidden Domains: A Beginner’s Guide to Subfinder and 10 Subdomain Discovery Tools for… | Yamini Yadav | [Read More](https://medium.com/p/ce10ade962bf) |
-| Sat, 03 May 2025 04:31:51 GMT | IDOR Attacks Made Simple: How Hackers Access Unauthorized Data | Vipul Sonule | [Read More](https://medium.com/p/ca1158d18190) |
-| Sat, 03 May 2025 04:28:08 GMT | $4,323 Bounty Alert | Monika sharma | [Read More](https://medium.com/p/4af6e66bb8c1) |
