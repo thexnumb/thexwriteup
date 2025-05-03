@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 20:59:59 GMT | Sanganak ~ The #1 Premium IT Boutique for Branding, Design, Development, Blockchain & AI | Aryabhatta | [Read More](https://medium.com/p/24c47e0a4994) |
+| Sat, 03 May 2025 20:57:43 GMT | When Servers Talk to Strangers: SSRF | YuvaSec | [Read More](https://medium.com/p/ac541d1cb5e6) |
+| Sat, 03 May 2025 20:52:23 GMT | ️ Detecting Red Team C2 Traffic on the Network: Techniques and Code Examples | Esra Kayhan | [Read More](https://medium.com/p/01e467500dbc) |
+| Sat, 03 May 2025 20:48:55 GMT | Collection of Ethical Hacking Courses & Resources | Macky  (TheNMAPGuy)  Matsunaga | [Read More](https://medium.com/p/0ec776b0395c) |
+| Sat, 03 May 2025 20:41:07 GMT | Uploading large files with Fingerprints and Resumable support in browsers | Tomas (Tome) Frastia | [Read More](https://medium.com/p/3ba7c2fc654e) |
+| Sat, 03 May 2025 20:31:40 GMT | JWT-Based Stateless Authentication for Microservices: A Complete Guide | Shubham Kumbhar | [Read More](https://medium.com/p/745f17c70b1e) |
 | Sat, 03 May 2025 20:26:38 GMT | Embrace Comfort with Momcozy Swaddle Blankets | Popescilti | [Read More](https://medium.com/p/251822e65b10) |
 | Sat, 03 May 2025 20:13:53 GMT | Hack The Box Academy — Network Foundations — Components of a Network | bl77rd | [Read More](https://medium.com/p/77b64477990c) |
 | Sat, 03 May 2025 20:03:11 GMT | Palo Alto Firewall: Protection Profiles for Zones and DoS Attacks | Vivek Mishra | [Read More](https://medium.com/p/67050fca62fd) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 12:11:46 GMT | TerraStealerV2 and TerraLogger: Golden Chickens’ New Malware Families Discovered | MITRE Doggy | [Read More](https://medium.com/p/96eaafa332de) |
 | Sat, 03 May 2025 12:09:34 GMT | Unveiling APT28: The Russian Cyber Espionage Campaign Against France | Nexsecura | [Read More](https://medium.com/p/f2923ebc471b) |
 | Sat, 03 May 2025 12:07:46 GMT | Persistence Through Windows Task Scheduler: A Hidden Backdoor | Taha Ex | [Read More](https://medium.com/p/cfe02166755a) |
-| Sat, 03 May 2025 12:06:46 GMT | Emerging Threat: Malware Disguised as WordPress Security Plugin | Nexsecura | [Read More](https://medium.com/p/a18d4a132c23) |
-| Sat, 03 May 2025 12:06:08 GMT | Cyber Attacks on UK Retailers: The Harrods Incident and Its Implications | Nexsecura | [Read More](https://medium.com/p/999ffc349d20) |
-| Sat, 03 May 2025 12:01:31 GMT | Endpoint Security: The Critical shield every business needs in the age of Cyber Threats | Juarait Digital | [Read More](https://medium.com/p/e9f947b41cc0) |
-| Sat, 03 May 2025 11:46:35 GMT | Retail Under Fire: Inside the DragonForce Ransomware Attacks on Industry Giants | MITRE Doggy | [Read More](https://medium.com/p/92cf5e84efa1) |
-| Sat, 03 May 2025 11:41:02 GMT | What to Consider When Choosing Alarm Monitoring in Dallas, TX | Cenathanjoy_Official | [Read More](https://medium.com/p/e2895f5f896e) |
-| Sat, 03 May 2025 11:33:42 GMT | Unmasking SectorJ: Inside the World of a Shadowy Cybercrime Collective | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/c1652b5baf5b) |
