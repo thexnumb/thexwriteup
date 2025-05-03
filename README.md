@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 20:13:53 GMT | Hack The Box Academy — Network Foundations — Components of a Network | bl77rd | [Read More](https://medium.com/p/77b64477990c) |
+| Sat, 03 May 2025 20:03:11 GMT | Palo Alto Firewall: Protection Profiles for Zones and DoS Attacks | Vivek Mishra | [Read More](https://medium.com/p/67050fca62fd) |
+| Sat, 03 May 2025 19:54:07 GMT | Fact Check: Viral Pulwama Attack Video Is Actually from 2007 Iraq Bombing | Intelligent rose | [Read More](https://medium.com/p/773098007d32) |
+| Sat, 03 May 2025 19:52:22 GMT | On Being Seen: Black Love, Vulnerability, and the Weight of Masculinity in Open Water by Caleb… | ephemeral chronicles | [Read More](https://medium.com/p/9eefb89d59d9) |
+| Sat, 03 May 2025 19:38:38 GMT | How AI is Transforming Identity and Access Management: Smarter Security for a Digital Future | Kaveeshapiumini | [Read More](https://medium.com/p/da2f8577792a) |
+| Sat, 03 May 2025 19:36:07 GMT | SSTI ve CSTI: Siber Güvenlikteki Sessiz Tehditler | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/cd8c3681c0d4) |
 | Sat, 03 May 2025 19:31:32 GMT | Zero Trust in Practice: How IBM Implements It Globally | Original bee | [Read More](https://medium.com/p/9059ea7c494f) |
 | Sat, 03 May 2025 19:31:31 GMT | SQL Injection Nedir? Güvenli Backend Geliştirmenin Temelleri | Furkan YOLCU | [Read More](https://medium.com/p/11418cafb906) |
 | Sat, 03 May 2025 19:15:57 GMT | You Won’t Believe These 10 Weird Tech Inventions That Actually Exist! | Narmeen Feyli | [Read More](https://medium.com/p/595d3b8c0c49) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 11:41:02 GMT | What to Consider When Choosing Alarm Monitoring in Dallas, TX | Cenathanjoy_Official | [Read More](https://medium.com/p/e2895f5f896e) |
 | Sat, 03 May 2025 11:33:42 GMT | Unmasking SectorJ: Inside the World of a Shadowy Cybercrime Collective | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/c1652b5baf5b) |
 | Sat, 03 May 2025 11:29:41 GMT | Beauty and Boundaries | Jina Vale | [Read More](https://medium.com/p/ec0c8d594dcf) |
-| Sat, 03 May 2025 11:20:17 GMT | Don’t Be a Victim: Here’s How to Keep Your KYC Safe Offline (Seriously!) | pauling | [Read More](https://medium.com/p/1ea6ef2986b9) |
-| Sat, 03 May 2025 11:20:04 GMT | How to Securely Manage Connection Strings in ASP.NET Core (.NET 6/7/8) Using .env | Jayodya Nandasena | [Read More](https://medium.com/p/9213f767d4be) |
-| Sat, 03 May 2025 11:13:47 GMT | Iranian Hackers Breached Middle East Infrastructure for 2 Years — Using VPNs You Probably Still Use | TechBrain | [Read More](https://medium.com/p/6fa52a17a2c5) |
-| Sat, 03 May 2025 11:12:24 GMT | Dynamic Malware Analysis: Sandbox Evasion Techniques | Esra Kayhan | [Read More](https://medium.com/p/15cd7a68c6cb) |
-| Sat, 03 May 2025 11:02:25 GMT | This Simple Domain Hack Is Fooling Millions: Don’t Be Next! | Dhanush N | [Read More](https://medium.com/p/ee18e902cf64) |
-| Sat, 03 May 2025 11:01:59 GMT | Why Most DevOps Engineers Never Earn 6 Figures (And How to Break Through) | Zudonu Osomudeya | [Read More](https://medium.com/p/19dc68b70b8b) |
