@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 14:12:35 GMT | Bypassing Attack Surface Reduction (ASR) Rules with VBA Macros Part 2 | Moataz Osama | [Read More](https://medium.com/p/e2ad87cb5a38) |
+| Sat, 03 May 2025 14:05:18 GMT | Hashing | Akbar | [Read More](https://medium.com/p/3ea3e7005133) |
+| Sat, 03 May 2025 13:55:55 GMT | My eCPPTv3 Review! | 0xTurki | [Read More](https://medium.com/p/d59dcc849d0e) |
+| Sat, 03 May 2025 13:46:43 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/fa56babafae5) |
+| Sat, 03 May 2025 13:35:11 GMT | From Coursera to Code: Building a Simple IOC Scanner in Python | Ameer | [Read More](https://medium.com/p/1efeadf8ffa9) |
 | Sat, 03 May 2025 13:33:57 GMT | I Almost Lost Everything in a Phishing Scam — Here’s How You Can Stay Safe | Nerav R Parmar | [Read More](https://medium.com/p/53f476618d21) |
 | Sat, 03 May 2025 13:27:45 GMT | Cybersecurity Issues in AI Protocols | Vicky Donald | [Read More](https://medium.com/p/95e4b72b3576) |
 | Sat, 03 May 2025 13:25:05 GMT | //How to become an Ethical Hacker, zero to pro… Complete Roadmap!! | Rupesh_rs | [Read More](https://medium.com/p/4f5d2c7a2f6b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 05:29:08 GMT | Palo Alto Networks Private 5G Security Solutions: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/417c2adc72e0) |
 | Sat, 03 May 2025 05:29:06 GMT | OpenFeign QueryDSL 마이그레이션 총정리 | Daegyeom | [Read More](https://medium.com/p/dee89cb3ec05) |
 | Sat, 03 May 2025 05:28:14 GMT | Creating time Based OTP server from scratch | Sumeet | [Read More](https://medium.com/p/269f5494141b) |
-| Sat, 03 May 2025 05:20:05 GMT | 10 Tech Jobs You Can Get Without a Degree (That Actually Pay Well) | Prism HRC | [Read More](https://medium.com/p/4ccd865a1c7b) |
-| Sat, 03 May 2025 05:07:21 GMT | Stop Missing Critical Security Alerts: Why CVETodo.com | Anthony Walker | [Read More](https://medium.com/p/3997f29225e4) |
-| Sat, 03 May 2025 05:07:09 GMT | Am I Safe? | Ahmad Javed | [Read More](https://medium.com/p/d9511c94591c) |
-| Sat, 03 May 2025 05:01:37 GMT | Mastering Advanced CORS: Security Best Practices and Node.js Tips | Ahmet Soner | [Read More](https://medium.com/p/319c1db44eb2) |
-| Sat, 03 May 2025 04:55:14 GMT | OSINT Combine CTFD — Challenge: Hello Friend | rootsechax | [Read More](https://medium.com/p/93ad902b1a59) |
