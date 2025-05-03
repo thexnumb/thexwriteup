@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 21:35:08 GMT | Reflection on “SOC Job Now!” course by CyberNowEducation | Karl Lane | [Read More](https://medium.com/p/1b374c137871) |
+| Sat, 03 May 2025 21:32:08 GMT | Should You Share That… Or Keep It In Your Journal? | Voke Etefe | [Read More](https://medium.com/p/2071b089ca85) |
+| Sat, 03 May 2025 21:26:29 GMT | Billions of Apple Devices Exposed by AirBorne AirPlay Flaws | Avnishyam | [Read More](https://medium.com/p/5baff08dcaf1) |
+| Sat, 03 May 2025 21:23:18 GMT | Have You Ever Tried to Cross the Street with Your Eyes Closed? | B Kean | [Read More](https://medium.com/p/9b6b92313fc7) |
+| Sat, 03 May 2025 21:13:34 GMT | Allocation Vulnerabilities: Hidden Dangers in Memory Management | Tugberk Pekgur | [Read More](https://medium.com/p/4cbaf0d12698) |
 | Sat, 03 May 2025 20:59:59 GMT | Sanganak ~ The #1 Premium IT Boutique for Branding, Design, Development, Blockchain & AI | Aryabhatta | [Read More](https://medium.com/p/24c47e0a4994) |
 | Sat, 03 May 2025 20:57:43 GMT | When Servers Talk to Strangers: SSRF | YuvaSec | [Read More](https://medium.com/p/ac541d1cb5e6) |
 | Sat, 03 May 2025 20:52:23 GMT | ️ Detecting Red Team C2 Traffic on the Network: Techniques and Code Examples | Esra Kayhan | [Read More](https://medium.com/p/01e467500dbc) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 12:42:51 GMT | How an Instagram Reel Got Me Into Cybersecurity and Bug Hunting | Naresh  Singh | [Read More](https://medium.com/p/9561c4c0c5d8) |
 | Sat, 03 May 2025 12:40:58 GMT | Information Disclosure Vulnerability Writeup HackerOne | AbhirupKonwar | [Read More](https://medium.com/p/be7fbe7e7893) |
 | Sat, 03 May 2025 12:36:15 GMT | The Ultimate Unified Framework guide for AI Security and Risk Management | M1k0 | [Read More](https://medium.com/p/8036266cdc52) |
-| Sat, 03 May 2025 12:28:42 GMT | How to Book Virtual Assistant Support for Your Small Business in Minutes | Book Virtual Assistant | [Read More](https://medium.com/p/15b399ae01ff) |
-| Sat, 03 May 2025 12:11:52 GMT | What Is the Dark Web? A Complete Guide for Curious Minds | Cytrusst | [Read More](https://medium.com/p/b809e2b13a7a) |
-| Sat, 03 May 2025 12:11:46 GMT | TerraStealerV2 and TerraLogger: Golden Chickens’ New Malware Families Discovered | MITRE Doggy | [Read More](https://medium.com/p/96eaafa332de) |
-| Sat, 03 May 2025 12:09:34 GMT | Unveiling APT28: The Russian Cyber Espionage Campaign Against France | Nexsecura | [Read More](https://medium.com/p/f2923ebc471b) |
-| Sat, 03 May 2025 12:07:46 GMT | Persistence Through Windows Task Scheduler: A Hidden Backdoor | Taha Ex | [Read More](https://medium.com/p/cfe02166755a) |
