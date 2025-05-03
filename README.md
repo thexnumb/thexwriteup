@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 22:12:07 GMT | Day 11: I Tried to Walk Through the Full Pentesting Lifecycle | Nile Okomo | [Read More](https://medium.com/p/cd28f3a6d6b3) |
+| Sat, 03 May 2025 21:59:18 GMT | The Least Privilege Access Journey with AWS IAM Access Analyzer | Collin Smith | [Read More](https://medium.com/p/2d1816ff24ee) |
+| Sat, 03 May 2025 21:53:23 GMT | Exploring the Benefits of Momcozy Swaddle for Newborns | Dsfhfggsdgfd | [Read More](https://medium.com/p/0decdd83a3cf) |
+| Sat, 03 May 2025 21:43:58 GMT | Internal — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/6e4adf870ae5) |
+| Sat, 03 May 2025 21:36:52 GMT | Meta vs. Nigeria: A Landmark Case for Africa’s Digital Sovereignty and Global Tech Accountability | Francis Omachi | [Read More](https://medium.com/p/9d71e85c6b32) |
 | Sat, 03 May 2025 21:35:08 GMT | Reflection on “SOC Job Now!” course by CyberNowEducation | Karl Lane | [Read More](https://medium.com/p/1b374c137871) |
 | Sat, 03 May 2025 21:32:08 GMT | Should You Share That… Or Keep It In Your Journal? | Voke Etefe | [Read More](https://medium.com/p/2071b089ca85) |
 | Sat, 03 May 2025 21:26:29 GMT | Billions of Apple Devices Exposed by AirBorne AirPlay Flaws | Avnishyam | [Read More](https://medium.com/p/5baff08dcaf1) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 12:59:17 GMT | “Digital Chains: The Covert Implementation of China’s Social Credit System in German Education” | SIMKRA | [Read More](https://medium.com/p/013214b2a0f1) |
 | Sat, 03 May 2025 12:56:59 GMT | Leveraging Ollama for Enhanced Cybersecurity: Opportunities, Challenges, and Best Practices | Daniel Ușurelu | [Read More](https://medium.com/p/96d097433c25) |
 | Sat, 03 May 2025 12:56:50 GMT | 6 Apps You Should NEVER Use On Your Mac | Faizan Saghir | [Read More](https://medium.com/p/b33666563f9d) |
-| Sat, 03 May 2025 12:47:49 GMT | Fortifying Your Build: Expert Construction Site Security Services in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/eb0e110548bf) |
-| Sat, 03 May 2025 12:46:00 GMT | Securing Your Web Applications: The Essential Guide for Beginners | CoderDev | [Read More](https://medium.com/p/f448b73085fd) |
-| Sat, 03 May 2025 12:42:51 GMT | How an Instagram Reel Got Me Into Cybersecurity and Bug Hunting | Naresh  Singh | [Read More](https://medium.com/p/9561c4c0c5d8) |
-| Sat, 03 May 2025 12:40:58 GMT | Information Disclosure Vulnerability Writeup HackerOne | AbhirupKonwar | [Read More](https://medium.com/p/be7fbe7e7893) |
-| Sat, 03 May 2025 12:36:15 GMT | The Ultimate Unified Framework guide for AI Security and Risk Management | M1k0 | [Read More](https://medium.com/p/8036266cdc52) |
