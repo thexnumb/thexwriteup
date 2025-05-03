@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 06:19:25 GMT | Ethical Hacking Certification: Unlock Your Career in Cybersecurity | Certocean | [Read More](https://medium.com/p/cff319edf6be) |
+| Sat, 03 May 2025 06:01:44 GMT | Can Developers See Your Password? | The CodeCrafter | [Read More](https://medium.com/p/77935b6a1719) |
+| Sat, 03 May 2025 06:00:27 GMT | What Are KaalSec Cybersecurity Services & Why Your Business Needs Them | KaalSec | [Read More](https://medium.com/p/d5aeec332930) |
+| Sat, 03 May 2025 05:57:59 GMT | The Power of Ethical Hacking Certification: A New Age Cybersecurity Passport | Certocean | [Read More](https://medium.com/p/716c5e7ce1a4) |
+| Sat, 03 May 2025 05:57:40 GMT | The Windows Security Journey — Sudo for Windows vs RunAs | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1f97749a05e9) |
+| Sat, 03 May 2025 05:57:06 GMT | What is Kaalsec? The Cybersecurity & Automation Partner Your Business Has Been Missing | KaalSec | [Read More](https://medium.com/p/43c56f019080) |
+| Sat, 03 May 2025 05:45:20 GMT | How I Found Internal Dashboards Using Google Dorks + OSINT | Abhijeet Kumawat | [Read More](https://medium.com/p/5f2c9515fcd6) |
+| Sat, 03 May 2025 05:44:41 GMT | Are You Losing Time and Clients? Here’s How KaalSec Saved 20 Hours a Week with AI Bots | KaalSec | [Read More](https://medium.com/p/9883ecbf2f8f) |
 | Sat, 03 May 2025 05:33:55 GMT | eCPPTv3 Certification Review & Tips | sl4de | [Read More](https://medium.com/p/14569eb2aca7) |
 | Sat, 03 May 2025 05:33:03 GMT | Elevate Your Career with ACSMI’s Online Cybersecurity Certification | ACSMI Advanced Cybersecurity Management Institute | [Read More](https://medium.com/p/2e3dbbf98a77) |
 | Sat, 03 May 2025 05:29:08 GMT | Palo Alto Networks Private 5G Security Solutions: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/417c2adc72e0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 18:39:21 GMT | Threat Hunting 101: Identifying Brute Force Attacks with Sentinel, MDE, and the MITRE ATT&CK… | Dean Haycox | [Read More](https://medium.com/p/42e836b24cbc) |
 | Fri, 02 May 2025 18:37:20 GMT | Privilege Escalation to Super Admin via Mass Assessment in a Multi-Tenant Laravel App | Rahul M S | [Read More](https://medium.com/p/526d1309de73) |
 | Fri, 02 May 2025 18:37:05 GMT | Anonymous— TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/705a3e67bb09) |
-| Fri, 02 May 2025 18:35:34 GMT | Tampering or tampering: which one is it? | Security Consulting Blogspot | [Read More](https://medium.com/p/89bf607c8899) |
-| Fri, 02 May 2025 18:33:29 GMT | Breaking into Security Software Engineering | Vaibhav Kushwaha | [Read More](https://medium.com/p/099619fc164d) |
-| Fri, 02 May 2025 18:32:50 GMT | Cybersecurity — in Pop Culture vs “Reality” | Boseankit | [Read More](https://medium.com/p/037f70d7400d) |
-| Fri, 02 May 2025 18:31:17 GMT | Thai Visa Centre admits running the tdac.in.th phishing site | Alex | [Read More](https://medium.com/p/f7c3db53ec5c) |
-| Fri, 02 May 2025 18:29:26 GMT | AI-Powered Cyber Threats and Defenses | Techrigid | [Read More](https://medium.com/p/76acd0000899) |
-| Fri, 02 May 2025 18:28:57 GMT | What is Cyber Risk Quantification, and Why is it Important for Businesses Today? | SafeAeon Inc. | [Read More](https://medium.com/p/630ea8c4052d) |
-| Fri, 02 May 2025 18:28:42 GMT | Top IT Certifications Hiring Managers Actually Care About in 2025 | Anita E. | [Read More](https://medium.com/p/63de67f86836) |
-| Fri, 02 May 2025 18:21:33 GMT | How Can a Beginner Start a Cybersecurity Career? | SafeAeon Inc. | [Read More](https://medium.com/p/f9fb9964a1ab) |
