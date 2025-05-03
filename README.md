@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 23:32:24 GMT | Palo Alto Networks AI Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7f196741c484) |
+| Sat, 03 May 2025 23:08:07 GMT | Zeek (formerly Bro) | Shamar Isaac | [Read More](https://medium.com/p/61b9a13ec56b) |
 | Sat, 03 May 2025 23:04:54 GMT | Forging My Path in Cybersecurity: An Enthusiast’s Journey Through Training and Internship | G3ntl3Kn1ght | [Read More](https://medium.com/p/cdcb661d98da) |
 | Sat, 03 May 2025 23:03:15 GMT | Fixing ‘zsh: corrupt history file’ in Kali Linux as a Penetration Tester | Yamini Yadav | [Read More](https://medium.com/p/0e37b68507a7) |
 | Sat, 03 May 2025 22:44:20 GMT | Top Modern Encryption Algorithms | Adem KORKMAZ | [Read More](https://medium.com/p/54ea8a057ccf) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 13:20:15 GMT | GDPR’s €5.66 B Fine Toll: How to Convince Your Boss to Upgrade Data-Protection | Iuliia Arkadeva | [Read More](https://medium.com/p/67a753bff3f5) |
 | Sat, 03 May 2025 13:14:46 GMT | While Hackers Planned, EDSPL Was Already Ten Steps Ahead | saurabh cyberinfomines | [Read More](https://medium.com/p/b34fd8fb1c1b) |
 | Sat, 03 May 2025 13:14:29 GMT | Drawing the Value Map for Business Growth | Ed-it Editions | [Read More](https://medium.com/p/755bfc4c149a) |
-| Sat, 03 May 2025 13:12:20 GMT | Interaction of Network and Security | Ed-it Editions | [Read More](https://medium.com/p/7ce1e07ec028) |
-| Sat, 03 May 2025 13:10:24 GMT | Negotiating the Storm of a Data Breach Dispute | Ed-it Editions | [Read More](https://medium.com/p/53afb985640a) |
