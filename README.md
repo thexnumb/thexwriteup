@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 18:38:38 GMT | Behind the CAPTCHA: Unmasking a .Net Memory-Loader in a fake verification trap | Morgan E | [Read More](https://medium.com/p/09ce32ccff91) |
+| Sat, 03 May 2025 18:36:35 GMT | Red Teaming: RFID Access Card Attack — Using ESP32 | Yashshirke | [Read More](https://medium.com/p/22fc4a929dfc) |
+| Sat, 03 May 2025 18:21:01 GMT | SUNSET | midlaj irumban | [Read More](https://medium.com/p/7250dc274778) |
 | Sat, 03 May 2025 18:14:34 GMT | Behind the CAPTCHA: Unmasking a .NET Memory-Loader in a Fake Verification Trap | Morgan E | [Read More](https://medium.com/p/face9030e7f0) |
 | Sat, 03 May 2025 18:09:53 GMT | TryHackMe - Logless Hunt - WriteUp | Axoloth | [Read More](https://medium.com/p/3021ac513730) |
 | Sat, 03 May 2025 18:08:37 GMT | Analysis Using VirusTotal for Domain Threat Intelligence | Awuru Isaac | [Read More](https://medium.com/p/5e252f06da80) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 09:21:22 GMT | DIRECTORY STRUCTURE | The Security Alchemist | [Read More](https://medium.com/p/529978d414fe) |
 | Sat, 03 May 2025 09:19:52 GMT | 3 Cybersecurity Myths That Put You at Risk (And How to Fix Them) | MaryCyberExplains | [Read More](https://medium.com/p/abd8b781cae2) |
 | Sat, 03 May 2025 09:12:05 GMT | How 5G Is Reshaping IT Systems and Network Architecture | Nailashahbaz | [Read More](https://medium.com/p/92ec0764d99a) |
-| Sat, 03 May 2025 08:53:58 GMT | Cookies vs localStorage: What’s Safer and When? | Apoorv Bedmutha | [Read More](https://medium.com/p/396959783b55) |
-| Sat, 03 May 2025 08:50:01 GMT | What If Strength Also Meant Letting Someone In? | Pages | [Read More](https://medium.com/p/4bac49af38e9) |
-| Sat, 03 May 2025 08:48:35 GMT | Exploring the Future of Surveillance with ANRAN | Dsgfghsdfsg | [Read More](https://medium.com/p/993f672d7976) |
