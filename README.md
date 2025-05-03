@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 05:07:21 GMT | Stop Missing Critical Security Alerts: Why CVETodo.com | Anthony Walker | [Read More](https://medium.com/p/3997f29225e4) |
+| Sat, 03 May 2025 05:07:09 GMT | Am I Safe? | Ahmad Javed | [Read More](https://medium.com/p/d9511c94591c) |
+| Sat, 03 May 2025 05:01:37 GMT | Mastering Advanced CORS: Security Best Practices and Node.js Tips | Ahmet Soner | [Read More](https://medium.com/p/319c1db44eb2) |
+| Sat, 03 May 2025 04:55:14 GMT | OSINT Combine CTFD — Challenge: Hello Friend | rootsechax | [Read More](https://medium.com/p/93ad902b1a59) |
+| Sat, 03 May 2025 04:54:06 GMT | Building a Scalable Rate Limiter with Redis + Cloud Run + Serverless VPC on Google Cloud | Pavitra Lalwani | [Read More](https://medium.com/p/f8fcc13189e2) |
+| Sat, 03 May 2025 04:53:31 GMT | OSINT Combine CTFD — Challenge: Forest Pals | rootsechax | [Read More](https://medium.com/p/a663697cbef9) |
+| Sat, 03 May 2025 04:40:09 GMT | M3: Insecure Authentication / Authorization — OWASP Mobile Top 10–2024 | Madhumathi chamarthi | [Read More](https://medium.com/p/510a2d0f419e) |
 | Sat, 03 May 2025 04:34:11 GMT | The Hunt for Hidden Domains: A Beginner’s Guide to Subfinder and 10 Subdomain Discovery Tools for… | Yamini Yadav | [Read More](https://medium.com/p/ce10ade962bf) |
 | Sat, 03 May 2025 04:31:51 GMT | IDOR Attacks Made Simple: How Hackers Access Unauthorized Data | Vipul Sonule | [Read More](https://medium.com/p/ca1158d18190) |
 | Sat, 03 May 2025 04:28:08 GMT | $4,323 Bounty Alert | Monika sharma | [Read More](https://medium.com/p/4af6e66bb8c1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 18:18:38 GMT | How I Built the Ultimate Web Hacking Checklist — And Why It’s Helping Bug Bounty Hunters Win More | ZishanAdThandar | [Read More](https://medium.com/p/d6ef0cb8dc4b) |
 | Fri, 02 May 2025 18:17:13 GMT | Why we’re afraid to ask | James Gottry | [Read More](https://medium.com/p/8119dc4d3d09) |
 | Fri, 02 May 2025 18:13:38 GMT | How Secure Are Modern EHR Systems Against Data Breaches? | SafeAeon Inc. | [Read More](https://medium.com/p/6acd4935f83b) |
-| Fri, 02 May 2025 18:12:18 GMT | Analysis Using Nmap for Network Scanning | Awuru Isaac | [Read More](https://medium.com/p/52c76b4c5ad2) |
-| Fri, 02 May 2025 18:07:37 GMT | Shadows Over the Treasury | Tales of Nyx | [Read More](https://medium.com/p/0e412b20fbe4) |
-| Fri, 02 May 2025 18:00:01 GMT | Escalação de Privilégios Linux | Illumisec | [Read More](https://medium.com/p/9f5b6be2667a) |
-| Fri, 02 May 2025 17:56:35 GMT | ️ How to Recover a Hacked Social Media Account: A Complete Guide by a Cybersecurity Investigator | Kshahabaj | [Read More](https://medium.com/p/74f750d297d9) |
-| Fri, 02 May 2025 17:54:41 GMT | Belajar XSS dari Nol: Nyolong Cookie Lokal Buat Seru-seruan (Edukasi Only!) | Indra Maha Resi | [Read More](https://medium.com/p/ea6ec2361f2f) |
-| Fri, 02 May 2025 17:47:57 GMT | Vulnerable to Prepared: Building Incident Response Plan | Beacon Blade | [Read More](https://medium.com/p/16059849bcf8) |
-| Fri, 02 May 2025 17:43:12 GMT | Red Teaming vs. Penetration Testing: Which One Does Your Business Actually Need in 2025? | Bawanancy | [Read More](https://medium.com/p/cdab00ae34d5) |
