@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 11:20:17 GMT | Don’t Be a Victim: Here’s How to Keep Your KYC Safe Offline (Seriously!) | pauling | [Read More](https://medium.com/p/1ea6ef2986b9) |
+| Sat, 03 May 2025 11:20:04 GMT | How to Securely Manage Connection Strings in ASP.NET Core (.NET 6/7/8) Using .env | Jayodya Nandasena | [Read More](https://medium.com/p/9213f767d4be) |
+| Sat, 03 May 2025 11:13:47 GMT | Iranian Hackers Breached Middle East Infrastructure for 2 Years — Using VPNs You Probably Still Use | TechBrain | [Read More](https://medium.com/p/6fa52a17a2c5) |
 | Sat, 03 May 2025 11:12:24 GMT | Dynamic Malware Analysis: Sandbox Evasion Techniques | Esra Kayhan | [Read More](https://medium.com/p/15cd7a68c6cb) |
 | Sat, 03 May 2025 11:02:25 GMT | This Simple Domain Hack Is Fooling Millions: Don’t Be Next! | Dhanush N | [Read More](https://medium.com/p/ee18e902cf64) |
 | Sat, 03 May 2025 11:01:59 GMT | Why Most DevOps Engineers Never Earn 6 Figures (And How to Break Through) | Zudonu Osomudeya | [Read More](https://medium.com/p/19dc68b70b8b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 01:31:14 GMT | Why Many Indonesian Companies Use Scrum Without Understanding Its Core Values and Framework Purpose | Feldy Judah Kambey | [Read More](https://medium.com/p/afb73706a8c2) |
 | Sat, 03 May 2025 01:17:15 GMT | How I Discovered Email Spoofing Still Works in 2025—and Why That Should Concern You | Michael Mbelu Chukwudi | [Read More](https://medium.com/p/323258291c19) |
 | Sat, 03 May 2025 01:11:03 GMT | Siber Tehdit İstihbaratına Giriş: Kavramlar, Süreçler ve Uygulamalar | A. Alp Tiftik | [Read More](https://medium.com/p/7030e7d4312a) |
-| Sat, 03 May 2025 01:09:11 GMT | The Secret Weapon Legal-Tech Startups Need: Conversion Copywriting | Adesua Adedamola - WAYVSMAKER | [Read More](https://medium.com/p/6c482b3e6a22) |
-| Sat, 03 May 2025 00:58:07 GMT | Let Credentialing Assistance pay your SANS renewal fees, version 3.0 | Rich | [Read More](https://medium.com/p/a95ab0c9e8d5) |
-| Sat, 03 May 2025 00:51:40 GMT | Tracking Threat Actor TTPs with MITRE ATT&CK Mapping | Paritosh | [Read More](https://medium.com/p/f90d68d9ea7f) |
