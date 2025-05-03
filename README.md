@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 14:33:00 GMT | Adversarial Machine Learning in Cybersecurity: The Next Battlefield | ab | [Read More](https://medium.com/p/17894cc62ae8) |
+| Sat, 03 May 2025 14:32:29 GMT | Day 24: OverTheWire Bandit Walkthrough: Levels 6 → 11 | Agarwaldaksh | [Read More](https://medium.com/p/2ea1a785fd7c) |
+| Sat, 03 May 2025 14:31:01 GMT | Malicious PDFs Deliver Remcos RAT: Windows Users Targeted by Cybercriminals | The Infosec Journal | [Read More](https://medium.com/p/a9b15e92b4a2) |
+| Sat, 03 May 2025 14:24:10 GMT | Your People Don’t Work in the Office Anymore | William Hunt | [Read More](https://medium.com/p/0076b233ad81) |
+| Sat, 03 May 2025 14:21:55 GMT | Hacking AI: Easy as Pie — Women in CyberSecurity Conference 2025 Takeaways V | Meera Tamboli | [Read More](https://medium.com/p/531cce6d5efa) |
+| Sat, 03 May 2025 14:15:19 GMT | We Need to Talk About Women and Deepfakes — Access, Impact and Awareness — Women in CyberSecurity… | Meera Tamboli | [Read More](https://medium.com/p/3a0e2c85ed81) |
 | Sat, 03 May 2025 14:12:35 GMT | Bypassing Attack Surface Reduction (ASR) Rules with VBA Macros Part 2 | Moataz Osama | [Read More](https://medium.com/p/e2ad87cb5a38) |
 | Sat, 03 May 2025 14:05:18 GMT | Hashing | Akbar | [Read More](https://medium.com/p/3ea3e7005133) |
+| Sat, 03 May 2025 14:02:00 GMT | Les 7 principes fondamentaux du Security by Design | Adam REHAIEM | [Read More](https://medium.com/p/7eafa7ddbf71) |
 | Sat, 03 May 2025 13:55:55 GMT | My eCPPTv3 Review! | 0xTurki | [Read More](https://medium.com/p/d59dcc849d0e) |
 | Sat, 03 May 2025 13:46:43 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/fa56babafae5) |
 | Sat, 03 May 2025 13:35:11 GMT | From Coursera to Code: Building a Simple IOC Scanner in Python | Ameer | [Read More](https://medium.com/p/1efeadf8ffa9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 05:57:59 GMT | The Power of Ethical Hacking Certification: A New Age Cybersecurity Passport | Certocean | [Read More](https://medium.com/p/716c5e7ce1a4) |
 | Sat, 03 May 2025 05:57:40 GMT | The Windows Security Journey — Sudo for Windows vs RunAs | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1f97749a05e9) |
 | Sat, 03 May 2025 05:57:06 GMT | What is Kaalsec? The Cybersecurity & Automation Partner Your Business Has Been Missing | KaalSec | [Read More](https://medium.com/p/43c56f019080) |
-| Sat, 03 May 2025 05:45:20 GMT | How I Found Internal Dashboards Using Google Dorks + OSINT | Abhijeet Kumawat | [Read More](https://medium.com/p/5f2c9515fcd6) |
-| Sat, 03 May 2025 05:44:41 GMT | Are You Losing Time and Clients? Here’s How KaalSec Saved 20 Hours a Week with AI Bots | KaalSec | [Read More](https://medium.com/p/9883ecbf2f8f) |
-| Sat, 03 May 2025 05:33:55 GMT | eCPPTv3 Certification Review & Tips | sl4de | [Read More](https://medium.com/p/14569eb2aca7) |
-| Sat, 03 May 2025 05:33:03 GMT | Elevate Your Career with ACSMI’s Online Cybersecurity Certification | ACSMI Advanced Cybersecurity Management Institute | [Read More](https://medium.com/p/2e3dbbf98a77) |
-| Sat, 03 May 2025 05:29:08 GMT | Palo Alto Networks Private 5G Security Solutions: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/417c2adc72e0) |
-| Sat, 03 May 2025 05:29:06 GMT | OpenFeign QueryDSL 마이그레이션 총정리 | Daegyeom | [Read More](https://medium.com/p/dee89cb3ec05) |
-| Sat, 03 May 2025 05:28:14 GMT | Creating time Based OTP server from scratch | Sumeet | [Read More](https://medium.com/p/269f5494141b) |
