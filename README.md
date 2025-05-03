@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 16:02:26 GMT | Dumping Credentials with Python: Automating LSASS Access and Credential Extraction… | Maxwell Cross | [Read More](https://medium.com/p/a8c79d36ff08) |
+| Sat, 03 May 2025 16:00:06 GMT | What It Means to Have a Higher-Than-Average Adversity Quotient | Michael Angelo G. Badando | [Read More](https://medium.com/p/973cdf2f3f1b) |
+| Sat, 03 May 2025 15:54:53 GMT | ️ Cybersecurity Leadership: Guiding Digital Defenses with Strategy and Strength | Kora | [Read More](https://medium.com/p/c9042735d8cb) |
+| Sat, 03 May 2025 15:50:50 GMT | Comprehensive Guide To VPN Security Features | James Neal | [Read More](https://medium.com/p/39292c6ec4f7) |
+| Sat, 03 May 2025 15:46:15 GMT | How AI, Digital Marketing, Cybersecurity & Smart Money Habits Are Shaping 2025 | Lakshya Singh | [Read More](https://medium.com/p/0d8c58cb1141) |
+| Sat, 03 May 2025 15:43:16 GMT | From web developer to cybersecurity: My path to AI and Cloud | Christian Seyboth | [Read More](https://medium.com/p/d42d4ac176ff) |
+| Sat, 03 May 2025 15:42:31 GMT | Top 5 Courses to become Ethical Hacker in 2025 | javinpaul | [Read More](https://medium.com/p/69964ef0d6cb) |
+| Sat, 03 May 2025 15:39:26 GMT | جهت صیغه موقت ودائم تلگرام پیام بدهید(09915528413)ویا باشماره (09364608280)
+صیغه بهبهان صیغه مشگین… | حاجی طباطبای | [Read More](https://medium.com/p/1f2954e0248c) |
+| Sat, 03 May 2025 15:37:56 GMT | Real-World Assets (RWAs) in Web3 | Adesua Adedamola - WAYVSMAKER | [Read More](https://medium.com/p/2dd4e054c15c) |
 | Sat, 03 May 2025 15:28:34 GMT | Types of Malware: Understanding the Threats Lurking in the Digital World | Batu Ada Tutkun | [Read More](https://medium.com/p/c5544afc2fa6) |
 | Sat, 03 May 2025 15:27:55 GMT | 3v@l - Writeup | Marvin | [Read More](https://medium.com/p/41363b65767d) |
 | Sat, 03 May 2025 15:19:29 GMT | will you still love me if i’m vulnerable? | aerie ৎ | [Read More](https://medium.com/p/64124636c296) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 07:31:15 GMT | Mastering smbclient for CTFs and Offensive Security: A Practical Guide from the Field | Cupid | [Read More](https://medium.com/p/2eb2f04d1bbc) |
 | Sat, 03 May 2025 07:14:19 GMT | Önemli Windows Event Log SIEM Kullanım Senaryoları | Önder AKÖZ | [Read More](https://medium.com/p/71ec1df1b02a) |
 | Sat, 03 May 2025 07:12:50 GMT | HTB Base Machine walkthrough | Srij | [Read More](https://medium.com/p/17675fb22d8b) |
-| Sat, 03 May 2025 07:09:38 GMT | Spot the Holes Before You Dig Them: A Developer’s Guide to Threat & Risk Analysis | Bryan Tjandra | [Read More](https://medium.com/p/dff1a12a7461) |
-| Sat, 03 May 2025 07:07:38 GMT | Bugged by Backup Files: How .zip and .bak Gave Me the Source Code | Iski | [Read More](https://medium.com/p/872a376b0b2b) |
-| Sat, 03 May 2025 07:05:07 GMT | Building Secure Backend Services: A Developer’s Guide to Getting It Right | Harshith Gowda | [Read More](https://medium.com/p/502e063081be) |
-| Sat, 03 May 2025 06:59:37 GMT | Unmasking a Telegram Job Scam: A Reconnaissance Case Study ️‍♂️ | 0x_Levi | [Read More](https://medium.com/p/57f2c7bb5eca) |
-| Sat, 03 May 2025 06:56:50 GMT | Leveraging the Public Domain: Open Source Threat Intelligence (OSTI) for Proactive Cybersecurity | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/5fbf5c04d45c) |
-| Sat, 03 May 2025 06:53:51 GMT | What Is Ethical Hacking? A Simple Guide for Beginners | Sumaya Sulaiman | [Read More](https://medium.com/p/e52f765cef87) |
-| Sat, 03 May 2025 06:50:46 GMT | Cybersecurity in the Real World: How Office Life Teaches Us the Fundamentals | unica 02 | [Read More](https://medium.com/p/138f879b2de3) |
-| Sat, 03 May 2025 06:50:02 GMT | I Am Not Always Who I Appear to Be | Raw | [Read More](https://medium.com/p/ae59ec6d3fc2) |
-| Sat, 03 May 2025 06:46:20 GMT | Linux Fundamentals Reference Guide (TryHackMe-Based) | Mainekdeveloper | [Read More](https://medium.com/p/98e1c4f473d7) |
