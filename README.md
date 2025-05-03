@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 08:15:19 GMT | “The Art of UDP Scanning: Quiet, Powerful, and Often Overlooked” | All in One security | [Read More](https://medium.com/p/afa763b25f16) |
+| Sat, 03 May 2025 08:12:16 GMT | To learn a cybersecurity course, follow these practical steps to get started confidently: | ICTRD-Kaushalpith | [Read More](https://medium.com/p/d4abd665d396) |
+| Sat, 03 May 2025 07:57:32 GMT | Decentralized Cybersecurity Framework for Autonomous Systems (DCFAS) | Rahul Jebin Raju | [Read More](https://medium.com/p/790f08121bac) |
+| Sat, 03 May 2025 07:55:12 GMT | 11 Best Cybersecurity Companies to Know in 2025: A Quick Guide for the Curious and the Cautious | Mehak kamra | [Read More](https://medium.com/p/270cf23c2610) |
+| Sat, 03 May 2025 07:50:06 GMT | “Understanding TCP Communication Flags — The Handshake Behind the Internet” | All in One security | [Read More](https://medium.com/p/0003535c95b7) |
+| Sat, 03 May 2025 07:41:28 GMT | Venom Spider Uses Server-Side Polymorphism to Weave a Web Around Victims | MITRE Doggy | [Read More](https://medium.com/p/8b5fa4c38287) |
 | Sat, 03 May 2025 07:33:36 GMT | No Sql Injection - Writeup | Marvin | [Read More](https://medium.com/p/acd7f2044376) |
+| Sat, 03 May 2025 07:32:25 GMT | Building a Secure  Mobile App : Best Practices, Modern Techniques, and Real Code Examples | Arpit Choudhary | [Read More](https://medium.com/p/4ce2ac9f63e1) |
 | Sat, 03 May 2025 07:32:08 GMT | Crypto Clash: Nigeria Takes Binance to Court Over Billions in Alleged Tax Evasion | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/0d10803f1d49) |
+| Sat, 03 May 2025 07:31:15 GMT | Mastering smbclient for CTFs and Offensive Security: A Practical Guide from the Field | Cupid | [Read More](https://medium.com/p/2eb2f04d1bbc) |
 | Sat, 03 May 2025 07:14:19 GMT | Önemli Windows Event Log SIEM Kullanım Senaryoları | Önder AKÖZ | [Read More](https://medium.com/p/71ec1df1b02a) |
 | Sat, 03 May 2025 07:12:50 GMT | HTB Base Machine walkthrough | Srij | [Read More](https://medium.com/p/17675fb22d8b) |
 | Sat, 03 May 2025 07:09:38 GMT | Spot the Holes Before You Dig Them: A Developer’s Guide to Threat & Risk Analysis | Bryan Tjandra | [Read More](https://medium.com/p/dff1a12a7461) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 21:01:49 GMT | How to Setup a MacBook with Privacy in Mind | Savvy Cyber Kids | [Read More](https://medium.com/p/86099a7cbd49) |
 | Fri, 02 May 2025 20:59:57 GMT | How to Protect Your Data from Theft | Savvy Cyber Kids | [Read More](https://medium.com/p/fc056cbc28f9) |
 | Fri, 02 May 2025 20:57:57 GMT | The Avalanche Beneath Us: Soulbound Intelligence and the Future of Flow | Eóin Walsh | [Read More](https://medium.com/p/54f3f07a9e8b) |
-| Fri, 02 May 2025 20:56:56 GMT | Hack Any WIFI Using Evil Twin Attack ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/33e516fd80c8) |
-| Fri, 02 May 2025 20:41:02 GMT | ️ IDS/IPS Tuning: Rule Writing Techniques for Snort/Suricata | Esra Kayhan | [Read More](https://medium.com/p/95683bbed3f6) |
-| Fri, 02 May 2025 20:36:01 GMT | SOC227 — Microsoft SharePoint Server Elevation of Privilege — Possible CVE-2023–29357 Exploitation | Harshprajapati | [Read More](https://medium.com/p/0a43e002c76b) |
-| Fri, 02 May 2025 20:35:39 GMT | Documenting my threat detection home lab Day 3 | Xp | [Read More](https://medium.com/p/e1a55da5b8ed) |
-| Fri, 02 May 2025 20:33:13 GMT | The Anatomy of a Password Cracker: Building Your Own to Understand Digital Security | Kolamide Idowu | [Read More](https://medium.com/p/c0ef24a53328) |
-| Fri, 02 May 2025 20:33:05 GMT | Kill them with kindness or myself? | Dreamer_985 | [Read More](https://medium.com/p/73069776d1a9) |
-| Fri, 02 May 2025 20:31:48 GMT | Scan Smarter: Hardening Containers & IaC with Trivy and CI Integration | samuel viana da silva | [Read More](https://medium.com/p/077adb3d80cc) |
-| Fri, 02 May 2025 20:18:35 GMT | CODE RED: The Cybersecurity Threats We’re Not Ready For | Mohammed Thabet | [Read More](https://medium.com/p/e55f591f5408) |
