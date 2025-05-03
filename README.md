@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 03:34:02 GMT | Prompt for mitigating vulnerabilities introduced by package dependencies | Jesse White | [Read More](https://medium.com/p/641f99a6238d) |
+| Sat, 03 May 2025 03:09:13 GMT | Breaking in Unpardoned. | NnFace | [Read More](https://medium.com/p/02f64d4f412e) |
+| Sat, 03 May 2025 03:05:21 GMT | Understanding SSH Keys and encryption in the age of Quantum computing | Roman Huliak | [Read More](https://medium.com/p/6327579dcf71) |
+| Sat, 03 May 2025 03:05:07 GMT | Zero-Day Monitoring Evasions: How Attackers Stay Invisible | Bl@ckC!pH3r | [Read More](https://medium.com/p/87779f3dd951) |
+| Sat, 03 May 2025 03:02:20 GMT | OSINT Alert: The LinkedIn HR Scam You Can’t Afford to Ignore | ARoy | [Read More](https://medium.com/p/50adc01a7d53) |
+| Sat, 03 May 2025 03:02:11 GMT | $750 Bounty: Two-factor Authentication | Monika sharma | [Read More](https://medium.com/p/5241a45e7fc1) |
+| Sat, 03 May 2025 03:01:57 GMT | “40 Linux Commands That Kickstarted My Ethical Hacking Journey” | Yamini Yadav | [Read More](https://medium.com/p/9e73a5c19859) |
+| Sat, 03 May 2025 03:01:50 GMT | Hacked by a Bathroom Mirror: The $18,000 Mistake No One Saw Coming | Noel | [Read More](https://medium.com/p/4d21a604858f) |
+| Sat, 03 May 2025 03:01:45 GMT | How a Smart Whiteboard Hacked a Business in 2025 — And What You Can Do to Prevent It | Noel | [Read More](https://medium.com/p/5b43fc6fefb1) |
 | Sat, 03 May 2025 02:32:26 GMT | Smart Grids Explained: CPS in Energy Management | Data Defendere | [Read More](https://medium.com/p/5a024e27c824) |
 | Sat, 03 May 2025 02:18:45 GMT | Why does the PCiDS training program matter? | Dr. Daniel Koh | [Read More](https://medium.com/p/8f959d7fcde3) |
 | Sat, 03 May 2025 02:17:38 GMT | AI-Powered Mystery Box Scams | Tal Eliyahu | [Read More](https://medium.com/p/02e931065a19) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 17:20:42 GMT | Boogeyman 2 - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/3422ba5b49bc) |
 | Fri, 02 May 2025 17:16:08 GMT | Race Conditions in JWT Refresh Token Rotation ‍♀️‍➡️ | Ali nazari | [Read More](https://medium.com/p/5293056146af) |
 | Fri, 02 May 2025 17:14:15 GMT | The AI Effect in Learning to Code | Sean H Thomas | [Read More](https://medium.com/p/9999076e69d9) |
-| Fri, 02 May 2025 17:13:43 GMT | The Weekly Threat Round-up 28/04/2025 -02/05/2025 | RileyHv | [Read More](https://medium.com/p/0ff28c51464b) |
-| Fri, 02 May 2025 17:01:50 GMT | Post-Pen Testing: What to Do After the Test | Akshay Chauhan | [Read More](https://medium.com/p/c46cdb610a83) |
-| Fri, 02 May 2025 17:00:49 GMT | “Protecting AI’s Brain: Why Agent Reasoning Hijacking Is a Big Deal” | AnusyaAngamuthu | [Read More](https://medium.com/p/fb6c22a1880d) |
-| Fri, 02 May 2025 16:58:41 GMT | Mr Robot Writeup (Vulnhub Intermediate Machine) | Ivan Daňo | [Read More](https://medium.com/p/db260853968b) |
-| Fri, 02 May 2025 16:58:23 GMT | SOC270 — AsynchRAT Malware Detected | Dh | [Read More](https://medium.com/p/3cfbc90a0609) |
-| Fri, 02 May 2025 16:55:18 GMT | The Sticker Shop — TryHackMe Writeup | z0diac | [Read More](https://medium.com/p/d2a97c599a2b) |
-| Fri, 02 May 2025 16:54:04 GMT | Understanding Clause 4 of ISO/IEC 27001: Context of the Organization — II | Harmit Warang (göt.r0_0t?) | [Read More](https://medium.com/p/02e6863f387a) |
-| Fri, 02 May 2025 16:53:06 GMT | The Night Watcher: Todor’s Quiet Vigil Over Sofia | Mario Alexiev | [Read More](https://medium.com/p/b26b0f5cf69d) |
-| Fri, 02 May 2025 16:51:25 GMT | Insecure Direct Object Reference (IDOR) in a Government Portal | Dharanis | [Read More](https://medium.com/p/c83c0c638577) |
