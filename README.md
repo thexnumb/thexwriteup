@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 17:30:08 GMT | ITSEC: Android CrackMe App Writeup | Alfian Taka | [Read More](https://medium.com/p/4993a37ca19a) |
+| Sat, 03 May 2025 17:14:54 GMT | Preserve your secrets: AWS IAM Roles Anywhere | Marc Campora | [Read More](https://medium.com/p/4eac6d95dce4) |
 | Sat, 03 May 2025 17:01:24 GMT | Smart Wordlists: Supercharge Feroxbuster with Python (Part 2) | Lav Thaiba | [Read More](https://medium.com/p/e33fbc646b37) |
 | Sat, 03 May 2025 16:58:48 GMT | ️ Cracking the Code: How Organizational PenTesting Builds Cyber Resilience | Kora | [Read More](https://medium.com/p/8be471788c9a) |
 | Sat, 03 May 2025 16:58:46 GMT | ️ How to Change Username and Hostname on Kali Linux (2025 Update) - REDxCybersec | REDx Cybersec | [Read More](https://medium.com/p/376997b3f3ad) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 08:30:54 GMT | Is Russia losing the cyber warfare? | Mashal Zahid | [Read More](https://medium.com/p/3f289613a4c7) |
 | Sat, 03 May 2025 08:25:45 GMT | My Journey from School Dropout to Principal Security Engineer | Vaibhav Kushwaha | [Read More](https://medium.com/p/0b4a837cea38) |
 | Sat, 03 May 2025 08:15:19 GMT | “The Art of UDP Scanning: Quiet, Powerful, and Often Overlooked” | All in One security | [Read More](https://medium.com/p/afa763b25f16) |
-| Sat, 03 May 2025 08:12:16 GMT | To learn a cybersecurity course, follow these practical steps to get started confidently: | ICTRD-Kaushalpith | [Read More](https://medium.com/p/d4abd665d396) |
-| Sat, 03 May 2025 08:02:25 GMT | Domain-Hijacking: Risiken, Prävention und Handlungsstrategien | mertes.dev | [Read More](https://medium.com/p/ddab8908188c) |
