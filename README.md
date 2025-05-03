@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 07:12:50 GMT | HTB Base Machine walkthrough | Srij | [Read More](https://medium.com/p/17675fb22d8b) |
+| Sat, 03 May 2025 07:09:38 GMT | Spot the Holes Before You Dig Them: A Developer’s Guide to Threat & Risk Analysis | Bryan Tjandra | [Read More](https://medium.com/p/dff1a12a7461) |
+| Sat, 03 May 2025 07:07:38 GMT | Bugged by Backup Files: How .zip and .bak Gave Me the Source Code | Iski | [Read More](https://medium.com/p/872a376b0b2b) |
+| Sat, 03 May 2025 07:05:07 GMT | Building Secure Backend Services: A Developer’s Guide to Getting It Right | Harshith Gowda | [Read More](https://medium.com/p/502e063081be) |
+| Sat, 03 May 2025 06:59:37 GMT | Unmasking a Telegram Job Scam: A Reconnaissance Case Study ️‍♂️ | 0x_Levi | [Read More](https://medium.com/p/57f2c7bb5eca) |
+| Sat, 03 May 2025 06:56:50 GMT | Leveraging the Public Domain: Open Source Threat Intelligence (OSTI) for Proactive Cybersecurity | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/5fbf5c04d45c) |
+| Sat, 03 May 2025 06:53:51 GMT | What Is Ethical Hacking? A Simple Guide for Beginners | Sumaya Sulaiman | [Read More](https://medium.com/p/e52f765cef87) |
+| Sat, 03 May 2025 06:50:46 GMT | Cybersecurity in the Real World: How Office Life Teaches Us the Fundamentals | unica 02 | [Read More](https://medium.com/p/138f879b2de3) |
+| Sat, 03 May 2025 06:50:02 GMT | I Am Not Always Who I Appear to Be | Raw | [Read More](https://medium.com/p/ae59ec6d3fc2) |
+| Sat, 03 May 2025 06:46:20 GMT | Linux Fundamentals Reference Guide (TryHackMe-Based) | Mainekdeveloper | [Read More](https://medium.com/p/98e1c4f473d7) |
+| Sat, 03 May 2025 06:46:15 GMT | Multi-Factor Authentication for Data Center Access in UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/f781a8d4fae2) |
+| Sat, 03 May 2025 06:45:04 GMT | Unmasking Cyber Threats: The Power of Digital Forensics & Incident Response. | Sanjay K Mohindroo | [Read More](https://medium.com/p/f03015d2feda) |
 | Sat, 03 May 2025 06:37:41 GMT | 2025’s Must-Attend Cybersecurity Conferences | Ahmad Javed | [Read More](https://medium.com/p/67a0b79185ab) |
 | Sat, 03 May 2025 06:29:03 GMT | Here’s How I Recover My Money DDB Miner ? | Judgeminers | [Read More](https://medium.com/p/4df4a62b36e9) |
 | Sat, 03 May 2025 06:24:57 GMT | Phishing in 2025: AI-Driven Scams, Real Victims & How to Outsmart Them | Nikita | [Read More](https://medium.com/p/e4c4bf835ba4) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 20:16:27 GMT | Looking out for the average guy… | Asma Riaz Malik | [Read More](https://medium.com/p/e27d13a7d389) |
 | Fri, 02 May 2025 19:51:16 GMT | Micro-services :Ways To Authenticate Incoming Requests | Vikas Taank | [Read More](https://medium.com/p/b2bef332e1b3) |
 | Fri, 02 May 2025 19:43:26 GMT | Policy Puppetry: A Universal Jailbreak Threat to AI Language Models | Pytech Academy | [Read More](https://medium.com/p/ee64991b0a75) |
-| Fri, 02 May 2025 19:39:25 GMT | Eyes on Earth: The GEOINT OSINT Blog | Intelligent rose | [Read More](https://medium.com/p/dd74090eb9b1) |
-| Fri, 02 May 2025 19:25:41 GMT | I FOUND A REAL HACKER. PROFESSORVENOM69@GMAIL | Rosemary | [Read More](https://medium.com/p/3c223cafa37c) |
-| Fri, 02 May 2025 19:22:42 GMT | how intentional can I be? | allyiswondering | [Read More](https://medium.com/p/1d689fd5ece6) |
-| Fri, 02 May 2025 19:20:39 GMT | StresserTH L4,L7 - C2/BOTNET | Richards | [Read More](https://medium.com/p/e7af637b9c8a) |
-| Fri, 02 May 2025 19:19:41 GMT | Fortress of Data: How Modern ERP Systems Are Your First Line of Defense Against Cyber Threats | Grade ERP | [Read More](https://medium.com/p/3fbb80140db6) |
-| Fri, 02 May 2025 19:11:23 GMT | Fixing OWASP API10:2023 — Unsafe Consumption of APIs in Symfony 7 | Tihomir Manushev | [Read More](https://medium.com/p/fe6aef3a2349) |
-| Fri, 02 May 2025 19:05:15 GMT | Shellcode Injection via Window Callbacks | Malforge Group | [Read More](https://medium.com/p/b33f7646c2bd) |
-| Fri, 02 May 2025 19:01:31 GMT | Could a Cybersecurity Mindset Have Kept the Leaning Tower Straight? | Cyber Kavy | [Read More](https://medium.com/p/c5e5cf727be8) |
-| Fri, 02 May 2025 19:01:29 GMT | Analysis Using Splunk for Windows Event Log Monitoring | Awuru Isaac | [Read More](https://medium.com/p/15746cf5a66f) |
-| Fri, 02 May 2025 19:00:50 GMT | Securing Wendy’s: A Practical Guide to Incident Response in Fast Food | Rohith Dinakaran | [Read More](https://medium.com/p/701b5a413d1f) |
-| Fri, 02 May 2025 18:58:58 GMT | 5 Remote Work Trends That Will Define Q2 2025 | Hirely | [Read More](https://medium.com/p/024fd2fc3ad8) |
-| Fri, 02 May 2025 18:52:17 GMT | Exploiting Race Condition to apply discount coupon multiple times | Arunoday Tiwari | [Read More](https://medium.com/p/8c8368be44d2) |
