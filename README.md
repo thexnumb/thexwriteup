@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 05:33:55 GMT | eCPPTv3 Certification Review & Tips | sl4de | [Read More](https://medium.com/p/14569eb2aca7) |
+| Sat, 03 May 2025 05:33:03 GMT | Elevate Your Career with ACSMI’s Online Cybersecurity Certification | ACSMI Advanced Cybersecurity Management Institute | [Read More](https://medium.com/p/2e3dbbf98a77) |
+| Sat, 03 May 2025 05:29:08 GMT | Palo Alto Networks Private 5G Security Solutions: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/417c2adc72e0) |
+| Sat, 03 May 2025 05:28:14 GMT | Creating time Based OTP server from scratch | Sumeet | [Read More](https://medium.com/p/269f5494141b) |
+| Sat, 03 May 2025 05:20:05 GMT | 10 Tech Jobs You Can Get Without a Degree (That Actually Pay Well) | Prism HRC | [Read More](https://medium.com/p/4ccd865a1c7b) |
 | Sat, 03 May 2025 05:07:21 GMT | Stop Missing Critical Security Alerts: Why CVETodo.com | Anthony Walker | [Read More](https://medium.com/p/3997f29225e4) |
 | Sat, 03 May 2025 05:07:09 GMT | Am I Safe? | Ahmad Javed | [Read More](https://medium.com/p/d9511c94591c) |
 | Sat, 03 May 2025 05:01:37 GMT | Mastering Advanced CORS: Security Best Practices and Node.js Tips | Ahmet Soner | [Read More](https://medium.com/p/319c1db44eb2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 18:28:57 GMT | What is Cyber Risk Quantification, and Why is it Important for Businesses Today? | SafeAeon Inc. | [Read More](https://medium.com/p/630ea8c4052d) |
 | Fri, 02 May 2025 18:28:42 GMT | Top IT Certifications Hiring Managers Actually Care About in 2025 | Anita E. | [Read More](https://medium.com/p/63de67f86836) |
 | Fri, 02 May 2025 18:21:33 GMT | How Can a Beginner Start a Cybersecurity Career? | SafeAeon Inc. | [Read More](https://medium.com/p/f9fb9964a1ab) |
-| Fri, 02 May 2025 18:20:40 GMT | The Ultimate Web Application Hacking Checklist (2025 Edition) | ZishanAdThandar | [Read More](https://medium.com/p/eea1a0a23977) |
-| Fri, 02 May 2025 18:18:46 GMT | Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover | Huntsman | [Read More](https://medium.com/p/46a09f95eaba) |
-| Fri, 02 May 2025 18:18:38 GMT | How I Built the Ultimate Web Hacking Checklist — And Why It’s Helping Bug Bounty Hunters Win More | ZishanAdThandar | [Read More](https://medium.com/p/d6ef0cb8dc4b) |
-| Fri, 02 May 2025 18:17:13 GMT | Why we’re afraid to ask | James Gottry | [Read More](https://medium.com/p/8119dc4d3d09) |
-| Fri, 02 May 2025 18:13:38 GMT | How Secure Are Modern EHR Systems Against Data Breaches? | SafeAeon Inc. | [Read More](https://medium.com/p/6acd4935f83b) |
