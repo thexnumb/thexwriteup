@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 08:53:58 GMT | Cookies vs localStorage: What’s Safer and When? | Apoorv Bedmutha | [Read More](https://medium.com/p/396959783b55) |
+| Sat, 03 May 2025 08:50:01 GMT | What If Strength Also Meant Letting Someone In? | Pages | [Read More](https://medium.com/p/4bac49af38e9) |
+| Sat, 03 May 2025 08:48:35 GMT | Exploring the Future of Surveillance with ANRAN | Dsgfghsdfsg | [Read More](https://medium.com/p/993f672d7976) |
+| Sat, 03 May 2025 08:44:51 GMT | U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Spree ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/f9bdb68a4ba0) |
+| Sat, 03 May 2025 08:41:16 GMT | GRC ANALYST IN RED TEAMING FIELDS: Phishing, smishing, vishing, and oh quishing (heard about that?) | Onukwue Eunice | [Read More](https://medium.com/p/6fac71f5dd2a) |
 | Sat, 03 May 2025 08:35:12 GMT | From Bug Finder to Risk Advisor: How Security Roles Are Evolving | UnpluggedSec | [Read More](https://medium.com/p/db1aa86dd137) |
 | Sat, 03 May 2025 08:30:54 GMT | Is Russia losing the cyber warfare? | Mashal Zahid | [Read More](https://medium.com/p/3f289613a4c7) |
 | Sat, 03 May 2025 08:25:45 GMT | My Journey from School Dropout to Principal Security Engineer | Vaibhav Kushwaha | [Read More](https://medium.com/p/0b4a837cea38) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 23:08:35 GMT | CyberDefenders — Oski Lab | Jose Chaves | [Read More](https://medium.com/p/da3b7399ead0) |
 | Fri, 02 May 2025 23:07:01 GMT | I’m Not Numb, I’m Waiting | Alexandra Engen | [Read More](https://medium.com/p/83cf09b00c09) |
 | Fri, 02 May 2025 22:41:06 GMT | When AI Turns Against Us: Anthropic Report Highlights Growing Threats of Generative AI Misuse | Cyber-AppSec | [Read More](https://medium.com/p/efbe1190cea4) |
-| Fri, 02 May 2025 22:16:37 GMT | Implementing PAM to Secure Your Most Sensitive Accounts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ff0973ca1792) |
-| Fri, 02 May 2025 22:14:02 GMT | Scattered Spider Strikes Again: Why Modern Enterprises Must Rethink Identity and Access Security | Avnishyam | [Read More](https://medium.com/p/ec73094e26fb) |
-| Fri, 02 May 2025 22:12:32 GMT | Should Companies Worry About Ransomware? | JM | [Read More](https://medium.com/p/8663470d7d22) |
-| Fri, 02 May 2025 22:04:48 GMT | Depression is an easy “friend” to sit with. | Lauryn | [Read More](https://medium.com/p/4df890e5f224) |
-| Fri, 02 May 2025 21:55:20 GMT | No Risk, No Story | Daniel Gagarin | [Read More](https://medium.com/p/af3a6ec188e2) |
