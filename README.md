@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 18:14:34 GMT | Behind the CAPTCHA: Unmasking a .NET Memory-Loader in a Fake Verification Trap | Morgan E | [Read More](https://medium.com/p/face9030e7f0) |
+| Sat, 03 May 2025 18:09:53 GMT | TryHackMe - Logless Hunt - WriteUp | Axoloth | [Read More](https://medium.com/p/3021ac513730) |
+| Sat, 03 May 2025 18:08:37 GMT | Analysis Using VirusTotal for Domain Threat Intelligence | Awuru Isaac | [Read More](https://medium.com/p/5e252f06da80) |
+| Sat, 03 May 2025 18:04:06 GMT | Detection Engineering Lifecycle: An Integrated Approach to Threat Detection and Response | Maksim Goldenberg | [Read More](https://medium.com/p/54de5bf17dba) |
+| Sat, 03 May 2025 17:57:04 GMT | Unlock the Power of AI with Hyperscales Dedicated Servers | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/6490c151e833) |
+| Sat, 03 May 2025 17:40:15 GMT | How to Automate Phishing Email Detection with n8n and VirusTotal | Corey Jones | [Read More](https://medium.com/p/de61e8e1f3f4) |
 | Sat, 03 May 2025 17:30:08 GMT | ITSEC: Android CrackMe App Writeup | Alfian Taka | [Read More](https://medium.com/p/4993a37ca19a) |
 | Sat, 03 May 2025 17:14:54 GMT | Preserve your secrets: AWS IAM Roles Anywhere | Marc Campora | [Read More](https://medium.com/p/4eac6d95dce4) |
 | Sat, 03 May 2025 17:01:24 GMT | Smart Wordlists: Supercharge Feroxbuster with Python (Part 2) | Lav Thaiba | [Read More](https://medium.com/p/e33fbc646b37) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 08:53:58 GMT | Cookies vs localStorage: What’s Safer and When? | Apoorv Bedmutha | [Read More](https://medium.com/p/396959783b55) |
 | Sat, 03 May 2025 08:50:01 GMT | What If Strength Also Meant Letting Someone In? | Pages | [Read More](https://medium.com/p/4bac49af38e9) |
 | Sat, 03 May 2025 08:48:35 GMT | Exploring the Future of Surveillance with ANRAN | Dsgfghsdfsg | [Read More](https://medium.com/p/993f672d7976) |
-| Sat, 03 May 2025 08:44:51 GMT | U.S. Charges Yemeni Hacker Behind Black Kingdom Ransomware Spree ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/f9bdb68a4ba0) |
-| Sat, 03 May 2025 08:41:16 GMT | GRC ANALYST IN RED TEAMING FIELDS: Phishing, smishing, vishing, and oh quishing (heard about that?) | Onukwue Eunice | [Read More](https://medium.com/p/6fac71f5dd2a) |
-| Sat, 03 May 2025 08:35:12 GMT | From Bug Finder to Risk Advisor: How Security Roles Are Evolving | UnpluggedSec | [Read More](https://medium.com/p/db1aa86dd137) |
-| Sat, 03 May 2025 08:30:54 GMT | Is Russia losing the cyber warfare? | Mashal Zahid | [Read More](https://medium.com/p/3f289613a4c7) |
-| Sat, 03 May 2025 08:25:45 GMT | My Journey from School Dropout to Principal Security Engineer | Vaibhav Kushwaha | [Read More](https://medium.com/p/0b4a837cea38) |
-| Sat, 03 May 2025 08:15:19 GMT | “The Art of UDP Scanning: Quiet, Powerful, and Often Overlooked” | All in One security | [Read More](https://medium.com/p/afa763b25f16) |
