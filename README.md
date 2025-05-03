@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 09:53:02 GMT | Cybersecurity Vs Software Engineering Which One is Better? | Glaxit Software Agency | [Read More](https://medium.com/p/575542a4eda2) |
+| Sat, 03 May 2025 09:34:20 GMT | From Classic SOC to Autonomous SOC: The Future of Cyber Defense | Aris Haryanto | [Read More](https://medium.com/p/1ada150e86ca) |
 | Sat, 03 May 2025 09:21:22 GMT | DIRECTORY STRUCTURE | The Security Alchemist | [Read More](https://medium.com/p/529978d414fe) |
 | Sat, 03 May 2025 09:19:52 GMT | 3 Cybersecurity Myths That Put You at Risk (And How to Fix Them) | MaryCyberExplains | [Read More](https://medium.com/p/abd8b781cae2) |
 | Sat, 03 May 2025 09:12:05 GMT | How 5G Is Reshaping IT Systems and Network Architecture | Nailashahbaz | [Read More](https://medium.com/p/92ec0764d99a) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 00:00:13 GMT | Getting Your Mind Back | Ram Iyer | [Read More](https://medium.com/p/db9cd77a7ee1) |
 | Fri, 02 May 2025 23:55:04 GMT | The Age of AI: Our Final Invention or Our Fastest Collapse? | Arash keshmiri | [Read More](https://medium.com/p/0f7f397e47be) |
 | Fri, 02 May 2025 23:39:54 GMT | NIST Releases New Password Guidelines: Prioritizing Length Over Complexity | Majdi Draouil | [Read More](https://medium.com/p/fd14a384a225) |
-| Fri, 02 May 2025 23:25:42 GMT | Thoth Tech: 1 Vulnhub Walkthrough | Riddhish | [Read More](https://medium.com/p/7ae101b7c1f4) |
-| Fri, 02 May 2025 23:21:10 GMT | DiamondXRay(tryhackme) | Devilman24 | [Read More](https://medium.com/p/baa4bae90a7a) |
