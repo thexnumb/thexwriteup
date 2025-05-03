@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 17:01:24 GMT | Smart Wordlists: Supercharge Feroxbuster with Python (Part 2) | Lav Thaiba | [Read More](https://medium.com/p/e33fbc646b37) |
+| Sat, 03 May 2025 16:58:48 GMT | ️ Cracking the Code: How Organizational PenTesting Builds Cyber Resilience | Kora | [Read More](https://medium.com/p/8be471788c9a) |
+| Sat, 03 May 2025 16:58:46 GMT | ️ How to Change Username and Hostname on Kali Linux (2025 Update) - REDxCybersec | REDx Cybersec | [Read More](https://medium.com/p/376997b3f3ad) |
+| Sat, 03 May 2025 16:55:43 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri | Bilalgns | [Read More](https://medium.com/p/6989773c9722) |
+| Sat, 03 May 2025 16:55:22 GMT | The Calculated Villain: The Art and Science of Adversarial Intelligence | Bee Davis | [Read More](https://medium.com/p/1991bbe49d74) |
+| Sat, 03 May 2025 16:54:15 GMT | Siber Güvenliğe Giriş: Görünmeyeni Görmek | Bilalgns | [Read More](https://medium.com/p/e19227a1d5b9) |
+| Sat, 03 May 2025 16:37:50 GMT | Facade Patterns: Good on the face of it | Bill Corrie | [Read More](https://medium.com/p/202e5aac072f) |
 | Sat, 03 May 2025 16:37:35 GMT | Identifying and Exploiting API Vulnerabilities | Urshila Ravindran | [Read More](https://medium.com/p/3860e7340612) |
+| Sat, 03 May 2025 16:37:23 GMT | Pass the CKS Exam with Confidence: Master These Essential Kubernetes Security Commands | Mahernaija | [Read More](https://medium.com/p/7404839f35d0) |
 | Sat, 03 May 2025 16:21:26 GMT | Toxic Agents: The Perfect Weapon for Attackers | NoAILabs | [Read More](https://medium.com/p/130ba4ca847c) |
 | Sat, 03 May 2025 16:02:26 GMT | Dumping Credentials with Python: Automating LSASS Access and Credential Extraction… | Maxwell Cross | [Read More](https://medium.com/p/a8c79d36ff08) |
 | Sat, 03 May 2025 16:00:06 GMT | What It Means to Have a Higher-Than-Average Adversity Quotient | Michael Angelo G. Badando | [Read More](https://medium.com/p/973cdf2f3f1b) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 08:15:19 GMT | “The Art of UDP Scanning: Quiet, Powerful, and Often Overlooked” | All in One security | [Read More](https://medium.com/p/afa763b25f16) |
 | Sat, 03 May 2025 08:12:16 GMT | To learn a cybersecurity course, follow these practical steps to get started confidently: | ICTRD-Kaushalpith | [Read More](https://medium.com/p/d4abd665d396) |
 | Sat, 03 May 2025 08:02:25 GMT | Domain-Hijacking: Risiken, Prävention und Handlungsstrategien | mertes.dev | [Read More](https://medium.com/p/ddab8908188c) |
-| Sat, 03 May 2025 07:57:32 GMT | Decentralized Cybersecurity Framework for Autonomous Systems (DCFAS) | Rahul Jebin Raju | [Read More](https://medium.com/p/790f08121bac) |
-| Sat, 03 May 2025 07:55:12 GMT | 11 Best Cybersecurity Companies to Know in 2025: A Quick Guide for the Curious and the Cautious | Mehak kamra | [Read More](https://medium.com/p/270cf23c2610) |
-| Sat, 03 May 2025 07:50:06 GMT | “Understanding TCP Communication Flags — The Handshake Behind the Internet” | All in One security | [Read More](https://medium.com/p/0003535c95b7) |
-| Sat, 03 May 2025 07:41:28 GMT | Venom Spider Uses Server-Side Polymorphism to Weave a Web Around Victims | MITRE Doggy | [Read More](https://medium.com/p/8b5fa4c38287) |
-| Sat, 03 May 2025 07:33:36 GMT | No Sql Injection - Writeup | Marvin | [Read More](https://medium.com/p/acd7f2044376) |
-| Sat, 03 May 2025 07:32:25 GMT | Building a Secure  Mobile App : Best Practices, Modern Techniques, and Real Code Examples | Arpit Choudhary | [Read More](https://medium.com/p/4ce2ac9f63e1) |
-| Sat, 03 May 2025 07:32:08 GMT | Crypto Clash: Nigeria Takes Binance to Court Over Billions in Alleged Tax Evasion | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/0d10803f1d49) |
-| Sat, 03 May 2025 07:31:15 GMT | Mastering smbclient for CTFs and Offensive Security: A Practical Guide from the Field | Cupid | [Read More](https://medium.com/p/2eb2f04d1bbc) |
