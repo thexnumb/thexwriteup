@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 04:08:37 GMT | I created a Bootable Kali Linux USB with Rufus — And So Can You | Amy Huynh | [Read More](https://medium.com/p/63f4a27e1343) |
+| Sat, 03 May 2025 03:54:42 GMT | Why Cybersecurity is Important | Ahmad Javed | [Read More](https://medium.com/p/63b23a3b8b94) |
+| Sat, 03 May 2025 03:50:41 GMT | Protecting Online Identity With VPNs | James Neal | [Read More](https://medium.com/p/8c4edc8961aa) |
 | Sat, 03 May 2025 03:34:02 GMT | Prompt for mitigating vulnerabilities introduced by package dependencies | Jesse White | [Read More](https://medium.com/p/641f99a6238d) |
 | Sat, 03 May 2025 03:09:13 GMT | Breaking in Unpardoned. | NnFace | [Read More](https://medium.com/p/02f64d4f412e) |
 | Sat, 03 May 2025 03:05:21 GMT | Understanding SSH Keys and encryption in the age of Quantum computing | Roman Huliak | [Read More](https://medium.com/p/6327579dcf71) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 May 2025 17:23:44 GMT | New phishing scam: Malicious search ads | AdBlock | [Read More](https://medium.com/p/3e799e29598b) |
 | Fri, 02 May 2025 17:21:58 GMT | CAP WALKTHROUGH: HACKTHEBOX | R4nd0mSys | [Read More](https://medium.com/p/b37544cdebd0) |
 | Fri, 02 May 2025 17:21:52 GMT | Remote Code Execution Threat Found in Apache HTTP Server | current.cybersecurity | [Read More](https://medium.com/p/b109460d0a86) |
-| Fri, 02 May 2025 17:20:42 GMT | Boogeyman 2 - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/3422ba5b49bc) |
-| Fri, 02 May 2025 17:16:08 GMT | Race Conditions in JWT Refresh Token Rotation ‍♀️‍➡️ | Ali nazari | [Read More](https://medium.com/p/5293056146af) |
-| Fri, 02 May 2025 17:14:15 GMT | The AI Effect in Learning to Code | Sean H Thomas | [Read More](https://medium.com/p/9999076e69d9) |
