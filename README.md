@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 May 2025 12:28:42 GMT | How to Book Virtual Assistant Support for Your Small Business in Minutes | Book Virtual Assistant | [Read More](https://medium.com/p/15b399ae01ff) |
+| Sat, 03 May 2025 12:11:52 GMT | What Is the Dark Web? A Complete Guide for Curious Minds | Cytrusst | [Read More](https://medium.com/p/b809e2b13a7a) |
+| Sat, 03 May 2025 12:11:46 GMT | TerraStealerV2 and TerraLogger: Golden Chickens’ New Malware Families Discovered | MITRE Doggy | [Read More](https://medium.com/p/96eaafa332de) |
+| Sat, 03 May 2025 12:09:34 GMT | Unveiling APT28: The Russian Cyber Espionage Campaign Against France | Nexsecura | [Read More](https://medium.com/p/f2923ebc471b) |
+| Sat, 03 May 2025 12:07:46 GMT | Persistence Through Windows Task Scheduler: A Hidden Backdoor | Taha Ex | [Read More](https://medium.com/p/cfe02166755a) |
+| Sat, 03 May 2025 12:06:46 GMT | Emerging Threat: Malware Disguised as WordPress Security Plugin | Nexsecura | [Read More](https://medium.com/p/a18d4a132c23) |
+| Sat, 03 May 2025 12:06:08 GMT | Cyber Attacks on UK Retailers: The Harrods Incident and Its Implications | Nexsecura | [Read More](https://medium.com/p/999ffc349d20) |
+| Sat, 03 May 2025 12:01:31 GMT | Endpoint Security: The Critical shield every business needs in the age of Cyber Threats | Juarait Digital | [Read More](https://medium.com/p/e9f947b41cc0) |
+| Sat, 03 May 2025 11:46:35 GMT | Retail Under Fire: Inside the DragonForce Ransomware Attacks on Industry Giants | MITRE Doggy | [Read More](https://medium.com/p/92cf5e84efa1) |
+| Sat, 03 May 2025 11:41:02 GMT | What to Consider When Choosing Alarm Monitoring in Dallas, TX | Cenathanjoy_Official | [Read More](https://medium.com/p/e2895f5f896e) |
+| Sat, 03 May 2025 11:33:42 GMT | Unmasking SectorJ: Inside the World of a Shadowy Cybercrime Collective | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/c1652b5baf5b) |
+| Sat, 03 May 2025 11:29:41 GMT | Beauty and Boundaries | Jina Vale | [Read More](https://medium.com/p/ec0c8d594dcf) |
 | Sat, 03 May 2025 11:20:17 GMT | Don’t Be a Victim: Here’s How to Keep Your KYC Safe Offline (Seriously!) | pauling | [Read More](https://medium.com/p/1ea6ef2986b9) |
 | Sat, 03 May 2025 11:20:04 GMT | How to Securely Manage Connection Strings in ASP.NET Core (.NET 6/7/8) Using .env | Jayodya Nandasena | [Read More](https://medium.com/p/9213f767d4be) |
 | Sat, 03 May 2025 11:13:47 GMT | Iranian Hackers Breached Middle East Infrastructure for 2 Years — Using VPNs You Probably Still Use | TechBrain | [Read More](https://medium.com/p/6fa52a17a2c5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 03:02:11 GMT | $750 Bounty: Two-factor Authentication | Monika sharma | [Read More](https://medium.com/p/5241a45e7fc1) |
 | Sat, 03 May 2025 03:01:57 GMT | “40 Linux Commands That Kickstarted My Ethical Hacking Journey” | Yamini Yadav | [Read More](https://medium.com/p/9e73a5c19859) |
 | Sat, 03 May 2025 03:01:50 GMT | Hacked by a Bathroom Mirror: The $18,000 Mistake No One Saw Coming | Noel | [Read More](https://medium.com/p/4d21a604858f) |
-| Sat, 03 May 2025 03:01:45 GMT | How a Smart Whiteboard Hacked a Business in 2025 — And What You Can Do to Prevent It | Noel | [Read More](https://medium.com/p/5b43fc6fefb1) |
-| Sat, 03 May 2025 02:32:26 GMT | Smart Grids Explained: CPS in Energy Management | Data Defendere | [Read More](https://medium.com/p/5a024e27c824) |
-| Sat, 03 May 2025 02:18:45 GMT | Why does the PCiDS training program matter? | Dr. Daniel Koh | [Read More](https://medium.com/p/8f959d7fcde3) |
-| Sat, 03 May 2025 02:17:38 GMT | AI-Powered Mystery Box Scams | Tal Eliyahu | [Read More](https://medium.com/p/02e931065a19) |
-| Sat, 03 May 2025 02:09:20 GMT | IoT and Agile Product Security Development: A Basis Case Study | Tom Britton | [Read More](https://medium.com/p/096c9b445283) |
-| Sat, 03 May 2025 02:06:17 GMT | Get Proactive on Vulnerability Disclosure: A Comprehensive Guide | Tom Britton | [Read More](https://medium.com/p/da828f8867bb) |
-| Sat, 03 May 2025 01:56:47 GMT | Insecure Randomness Zafiyeti Kaynak Kod Analizi | Umut Kayra Doğan | [Read More](https://medium.com/p/611c8fe121db) |
-| Sat, 03 May 2025 01:34:51 GMT | The Shape of Risk: From Cybersecurity to the Human Condition | Tom Yonashiro | [Read More](https://medium.com/p/db447714b779) |
-| Sat, 03 May 2025 01:31:32 GMT | Enhancing Security and Privacy in Federated Learning Systems | Epicbytecraft | [Read More](https://medium.com/p/074eba317865) |
-| Sat, 03 May 2025 01:31:14 GMT | Why Many Indonesian Companies Use Scrum Without Understanding Its Core Values and Framework Purpose | Feldy Judah Kambey | [Read More](https://medium.com/p/afb73706a8c2) |
-| Sat, 03 May 2025 01:17:15 GMT | How I Discovered Email Spoofing Still Works in 2025—and Why That Should Concern You | Michael Mbelu Chukwudi | [Read More](https://medium.com/p/323258291c19) |
-| Sat, 03 May 2025 01:11:03 GMT | Siber Tehdit İstihbaratına Giriş: Kavramlar, Süreçler ve Uygulamalar | A. Alp Tiftik | [Read More](https://medium.com/p/7030e7d4312a) |
