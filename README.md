@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 18:44:37 GMT | GCP Privilege Escalation: Abusing Function Admin Role for Full Project Takeover | Nairuz Abulhul | [Read More](https://medium.com/p/4be96a951ddc) |
+| Sun, 04 May 2025 18:42:27 GMT | Recent Cybersecurity Incident: Russian Hackers Target Romanian Government Websites | Eaglevision | [Read More](https://medium.com/p/7d3552951921) |
+| Sun, 04 May 2025 18:35:45 GMT | Top 99+ Best Sites To ChimeAccounts (Aged & Real) | Usapremierit | [Read More](https://medium.com/p/a28a958fb6c2) |
+| Sun, 04 May 2025 18:29:28 GMT | Isolating labs with VRFs and WireGuard | Peter De Sousa | [Read More](https://medium.com/p/3bf3a74bed6b) |
+| Sun, 04 May 2025 18:26:13 GMT | Is the Rapid Rise of AI the Beginning of the End | Brad McEvilly | [Read More](https://medium.com/p/62c2bafe7725) |
+| Sun, 04 May 2025 18:19:15 GMT | Whispers vs. Shouts: The Real Story Behind HTTP & HTTPS | Vaishnav Gnair | [Read More](https://medium.com/p/04c6150277cb) |
+| Sun, 04 May 2025 18:18:31 GMT | Best Dark Web Monitoring Tools in 2025: A Deep Dive into the Cyber Underworld | cybrNK | [Read More](https://medium.com/p/5fd5bc72b3ba) |
+| Sun, 04 May 2025 18:16:51 GMT | 7 ChatGPT Prompts to Smash Your Goals | Axoloth | [Read More](https://medium.com/p/c0fb9d85c381) |
 | Sun, 04 May 2025 18:10:10 GMT | Open Source is Eating the World (But With Better Security Now, Promise) | Soham Banerjee | [Read More](https://medium.com/p/639610694c80) |
 | Sun, 04 May 2025 18:08:17 GMT | Hack The Box Academy — Network Foundations — Domain Name System (DNS) | bl77rd | [Read More](https://medium.com/p/1bbe99008635) |
 | Sun, 04 May 2025 17:56:28 GMT | Thread IDs, Process IDs — The Start of Malware Magic | Malforge Group | [Read More](https://medium.com/p/57f583682dd3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 11:02:31 GMT | King Of Dark Web Final Hours | Tsumit | [Read More](https://medium.com/p/d6c08446fd8a) |
 | Sun, 04 May 2025 11:01:41 GMT | RaaS-Ransomware as a Service | Darshan Naresh Naik | [Read More](https://medium.com/p/fe4f2d1ed603) |
 | Sun, 04 May 2025 11:00:21 GMT | Image - PG Practice Walkthrough | Adam Bartlett | [Read More](https://medium.com/p/c7a40f489f6e) |
-| Sun, 04 May 2025 10:54:33 GMT | HTB StreamIO Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/9a3b673c03ff) |
-| Sun, 04 May 2025 10:50:24 GMT | Understanding the Core Concepts of OOP | Erkan Kavas | [Read More](https://medium.com/p/0b258fbe86e4) |
-| Sun, 04 May 2025 10:49:57 GMT | AI-Terminal-X >> Ai-Powered Intelligent Linux Command Line Copilot | The Pentrix | [Read More](https://medium.com/p/04629dfaf057) |
-| Sun, 04 May 2025 10:41:42 GMT | The Ultimate Guide to Email Input Field Vulnerability Testing | coffinxp | [Read More](https://medium.com/p/18f96fc42251) |
-| Sun, 04 May 2025 10:38:01 GMT | My fear of running out of money | Hamzaaftab | [Read More](https://medium.com/p/6172ffa326af) |
-| Sun, 04 May 2025 10:32:25 GMT | Buffer Overflow Attacks: Stack and Heap-Based Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/ec0d53d8c86c) |
-| Sun, 04 May 2025 10:22:05 GMT | Mastering Bug Bounties with Burp Suite: A Comprehensive Guide to Web Security | Benjaminmillerdev | [Read More](https://medium.com/p/bb63a03e6511) |
-| Sun, 04 May 2025 10:21:44 GMT | Privilege Escalation Techniques in Linux Operating Systems | Mehmet Agah | [Read More](https://medium.com/p/2b31fb56960c) |
