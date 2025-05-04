@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 17:00:25 GMT | “Understanding the Distinction Between Security and Privacy in the Digital Age” | Poojithajayareddygari | [Read More](https://medium.com/p/8d8f6ece98b6) |
+| Sun, 04 May 2025 16:58:36 GMT | a | Visual Monitoring Solutions | [Read More](https://medium.com/p/deedb2d78fab) |
+| Sun, 04 May 2025 16:57:34 GMT | Navigating the Digital Maze: Cisco’s Foundation-Sec-8B and the Curious Case of AI in Cybersecurity | Shaitan | [Read More](https://medium.com/p/545096592833) |
+| Sun, 04 May 2025 16:43:24 GMT | OSEP in 2025 — experience, advice & criticism | Sohail Saha | [Read More](https://medium.com/p/3c4947cd023c) |
 | Sun, 04 May 2025 16:34:09 GMT | Hack The Box Academy — Network Foundations — Dynamic Host Configuration Protocol (DHCP) | bl77rd | [Read More](https://medium.com/p/ea8b9b062e44) |
 | Sun, 04 May 2025 16:33:14 GMT | VPNs: Can They Outrun The Censors? What You Need To Know | The Censored State | [Read More](https://medium.com/p/c55322c3f9a8) |
 | Sun, 04 May 2025 16:18:24 GMT | Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/df86da9d161b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 09:44:08 GMT | The Power of Vulnerability in Building Authentic Connections | S. Thorn | [Read More](https://medium.com/p/98ab7d11afb7) |
 | Sun, 04 May 2025 09:38:48 GMT | Cyber Defense Architecture in the Age of Agentic AI Threats | Balaram Panda | [Read More](https://medium.com/p/20aca4a143cb) |
 | Sun, 04 May 2025 09:34:55 GMT | Microsoft Declares the Password Obsolete: New Accounts Now Passwordless by Default | CyDhaal | [Read More](https://medium.com/p/32fff10a5b59) |
-| Sun, 04 May 2025 09:24:16 GMT | Ultimate Guide to Android Banking App Security: Best Practices & Scanning Tools | Satish Nada | [Read More](https://medium.com/p/42d30ff3dfa9) |
-| Sun, 04 May 2025 09:23:15 GMT | What Is Laravel Timebox and Why You Should Start Using It Today | MasteryOfLaravel | [Read More](https://medium.com/p/26735bd13864) |
-| Sun, 04 May 2025 09:13:50 GMT | Staying Informed on Cybersecurity: A simple Guide that everybody can use | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/434aa9f9128a) |
-| Sun, 04 May 2025 09:13:01 GMT | XSS : Bypass default-src ‘self’ | Kaz Research | [Read More](https://medium.com/p/8916a137776f) |
