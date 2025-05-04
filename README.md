@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 05:36:15 GMT | Microsoft RDP Flaw Lets Old Passwords Keep Working — Even After You Change Them | Raj Kumar M | [Read More](https://medium.com/p/b74522149bed) |
+| Sun, 04 May 2025 05:19:05 GMT | Securing PostgreSQL: Best Practices for User & Database Setup | Rizqi Mulki | [Read More](https://medium.com/p/3a13c71e9f82) |
+| Sun, 04 May 2025 05:16:22 GMT | Malware Analysis network lab setup part 2 switch | Ruben | [Read More](https://medium.com/p/cc36a58dbe5c) |
 | Sun, 04 May 2025 05:11:18 GMT | Cybersecurity Trends 2025: What Every C-Suite Leader Needs to Know | SapidBlue | [Read More](https://medium.com/p/b8b28d3edb81) |
 | Sun, 04 May 2025 04:57:39 GMT | Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/5138464ec051) |
 | Sun, 04 May 2025 04:55:45 GMT | # Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/f14bbe3e2d01) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 16:58:46 GMT | ️ How to Change Username and Hostname on Kali Linux (2025 Update) - REDxCybersec | REDx Cybersec | [Read More](https://medium.com/p/376997b3f3ad) |
 | Sat, 03 May 2025 16:55:43 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri | Bilalgns | [Read More](https://medium.com/p/6989773c9722) |
 | Sat, 03 May 2025 16:55:22 GMT | The Calculated Villain: The Art and Science of Adversarial Intelligence | Bee Davis | [Read More](https://medium.com/p/1991bbe49d74) |
-| Sat, 03 May 2025 16:54:15 GMT | Siber Güvenliğe Giriş: Görünmeyeni Görmek | Bilalgns | [Read More](https://medium.com/p/e19227a1d5b9) |
-| Sat, 03 May 2025 16:37:50 GMT | Facade Patterns: Good on the face of it | Bill Corrie | [Read More](https://medium.com/p/202e5aac072f) |
-| Sat, 03 May 2025 16:37:35 GMT | Identifying and Exploiting API Vulnerabilities | Urshila Ravindran | [Read More](https://medium.com/p/3860e7340612) |
