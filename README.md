@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 05:11:18 GMT | Cybersecurity Trends 2025: What Every C-Suite Leader Needs to Know | SapidBlue | [Read More](https://medium.com/p/b8b28d3edb81) |
+| Sun, 04 May 2025 04:57:39 GMT | Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/5138464ec051) |
+| Sun, 04 May 2025 04:55:45 GMT | # Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/f14bbe3e2d01) |
+| Sun, 04 May 2025 04:51:48 GMT | Bukan Cuma Hacker: Ternyata Gini Cara Website Bisa Diretas (dan Mungkin Punyamu Juga) | handev.code | [Read More](https://medium.com/p/229db3e2fbaa) |
+| Sun, 04 May 2025 04:44:35 GMT | Vulnerability | Brittany Martin | [Read More](https://medium.com/p/27ba71b25da9) |
 | Sun, 04 May 2025 04:35:58 GMT | Using VirusTotal Graphs and Retro Hunt for IOC Discovery | Paritosh | [Read More](https://medium.com/p/d1c4b4e209b4) |
 | Sun, 04 May 2025 04:25:00 GMT | Ransomware Warning Signals - Lessons from the hellcat Attack | Avnishyam | [Read More](https://medium.com/p/758fd41715e2) |
 | Sun, 04 May 2025 04:23:28 GMT | Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey | Mohsin khan | [Read More](https://medium.com/p/bae8a5418461) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 16:54:15 GMT | Siber Güvenliğe Giriş: Görünmeyeni Görmek | Bilalgns | [Read More](https://medium.com/p/e19227a1d5b9) |
 | Sat, 03 May 2025 16:37:50 GMT | Facade Patterns: Good on the face of it | Bill Corrie | [Read More](https://medium.com/p/202e5aac072f) |
 | Sat, 03 May 2025 16:37:35 GMT | Identifying and Exploiting API Vulnerabilities | Urshila Ravindran | [Read More](https://medium.com/p/3860e7340612) |
-| Sat, 03 May 2025 16:37:23 GMT | Pass the CKS Exam with Confidence: Master These Essential Kubernetes Security Commands | Mahernaija | [Read More](https://medium.com/p/7404839f35d0) |
-| Sat, 03 May 2025 16:21:26 GMT | Toxic Agents: The Perfect Weapon for Attackers | NoAILabs | [Read More](https://medium.com/p/130ba4ca847c) |
-| Sat, 03 May 2025 16:02:26 GMT | Dumping Credentials with Python: Automating LSASS Access and Credential Extraction… | Maxwell Cross | [Read More](https://medium.com/p/a8c79d36ff08) |
-| Sat, 03 May 2025 16:00:06 GMT | What It Means to Have a Higher-Than-Average Adversity Quotient | Michael Angelo G. Badando | [Read More](https://medium.com/p/973cdf2f3f1b) |
-| Sat, 03 May 2025 15:54:53 GMT | ️ Cybersecurity Leadership: Guiding Digital Defenses with Strategy and Strength | Kora | [Read More](https://medium.com/p/c9042735d8cb) |
