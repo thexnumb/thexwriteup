@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 16:18:10 GMT | Sandfly: Using the product in Production Properly — Configuring Schedules and Scanning for Threats… | Truvis Thornton | [Read More](https://medium.com/p/e4624015121a) |
+| Sun, 04 May 2025 16:17:24 GMT | eWPTXv3 Certification Review | 0xSt4n | [Read More](https://medium.com/p/fd9449be6bdf) |
+| Sun, 04 May 2025 16:13:02 GMT | Why Cybersecurity Specialists Must Understand Networks? | Lamiya Salahova | [Read More](https://medium.com/p/acb87204f724) |
+| Sun, 04 May 2025 16:07:25 GMT | Hack The Box Academy — Network Foundations — Network Communication | bl77rd | [Read More](https://medium.com/p/9adfb64c79b2) |
+| Sun, 04 May 2025 16:02:34 GMT | Lateral Movement with Python: Remotely Executing Commands Over SMB & WMI | Maxwell Cross | [Read More](https://medium.com/p/4fb95526b3d6) |
+| Sun, 04 May 2025 16:02:34 GMT | ️ UK Retailers Under Attack: Ransomware Chaos Hits the High Street | LazyHacker | [Read More](https://medium.com/p/c8db572e1db7) |
+| Sun, 04 May 2025 16:01:06 GMT | Migrating from localStorage to HttpOnly Cookie in GraphQL (Beginner Friendly Guide with Django +… | Manjurul Hoque Rumi | [Read More](https://medium.com/p/d9b23ed85135) |
+| Sun, 04 May 2025 15:57:56 GMT | Java Code Analysis!?! - Writeup | Marvin | [Read More](https://medium.com/p/8910da2f13bc) |
+| Sun, 04 May 2025 15:56:53 GMT | El drama de las apuestas en sitios ilegales y ludopatía infantil | Tiziano Mass | [Read More](https://medium.com/p/3a8258eb414a) |
+| Sun, 04 May 2025 15:55:16 GMT | LetsDefend SOC239 — CUPS RCE Detection via IPP Injection (CVE-2024–47177) | Dh | [Read More](https://medium.com/p/e90d2ae2fd4b) |
+| Sun, 04 May 2025 15:50:39 GMT | A Synopsis Of VPN Technology And Benefits | James Neal | [Read More](https://medium.com/p/308fdea89622) |
+| Sun, 04 May 2025 15:45:45 GMT | Explore The Most Advanced Security In VPN Technology | Melvin Erickson | [Read More](https://medium.com/p/8086c604573e) |
+| Sun, 04 May 2025 15:44:47 GMT | Building a Custom RAT - Full Course Introduction | S12 - H4CK | [Read More](https://medium.com/p/9c2a236c7995) |
+| Sun, 04 May 2025 15:41:44 GMT | Tackling Conditional Blind SQLi Like a Pro: OSWE Prep Powered by Burp Suite | Anezaneo | [Read More](https://medium.com/p/9764ba210b40) |
 | Sun, 04 May 2025 15:39:00 GMT | The Future of Financial Crime Detection: Real-Time, Relationship-Aware, and Explainable | RaptorX.ai | [Read More](https://medium.com/p/6931c55f54c5) |
+| Sun, 04 May 2025 15:36:48 GMT | Coldd Box — A Complete Walkthrough from Initial Access to Root | Md Faiyaz Khan | [Read More](https://medium.com/p/48cc42117542) |
 | Sun, 04 May 2025 15:30:44 GMT | Breaking Barriers: My Journey into Web Application Penetration Testing | Ganga Subhash | [Read More](https://medium.com/p/394a032cfd46) |
 | Sun, 04 May 2025 15:30:42 GMT | Caught on Camera: 21 Million Work Screens Leaked Online — Could Yours Be Next? | Janeel Abrahams | [Read More](https://medium.com/p/5b49f33e3377) |
 | Sun, 04 May 2025 15:24:33 GMT | Understanding Server Side Template Injection (SSTI) | Natarajan C K | [Read More](https://medium.com/p/1cb0465dd46d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 09:03:51 GMT | Modest Payouts, Major Payoff: 4 IDORs That Netted $12K | Ashutosh Dutta | [Read More](https://medium.com/p/64f4ab6754c0) |
 | Sun, 04 May 2025 09:00:07 GMT | Building Our Security Scanner Automation: From a Task to a Culture | Bennoli13 | [Read More](https://medium.com/p/5489cd02c311) |
 | Sun, 04 May 2025 08:55:48 GMT | When Do I Feel Vulnerable? (And Why That Matters in Love) | KH | [Read More](https://medium.com/p/34222e90d0c4) |
-| Sun, 04 May 2025 08:52:03 GMT | I Took a Gummy, Some Tequila, and Walked into History: What Graduating from SDSU Really Meant | Dorian Hardwood | [Read More](https://medium.com/p/2bac9697fe39) |
-| Sun, 04 May 2025 08:45:26 GMT | Ashley Madison: The Class Action Lawsuit That Should Have Been Filed. | Khadija Mostafa | [Read More](https://medium.com/p/ae5ce3ea1686) |
-| Sun, 04 May 2025 08:37:50 GMT | Title: A Quiet Confession Behind The Old Song. | Praise Ayanfeoluwa Odufuwa | [Read More](https://medium.com/p/1b250d87b95f) |
-| Sun, 04 May 2025 08:22:09 GMT | Cyber Crime and Its Solutions | ParagGodbole | [Read More](https://medium.com/p/bda4fb4d0da3) |
-| Sun, 04 May 2025 08:16:09 GMT | How to Install MobSF on Kali Linux Using Podman (No Docker Needed) | Rishi Patidar | [Read More](https://medium.com/p/4ea7c0f6bf7f) |
-| Sun, 04 May 2025 08:10:06 GMT | React Native Mastery: Develop Your Own Mobile App | Shivam Thakur | [Read More](https://medium.com/p/689b0573c31c) |
-| Sun, 04 May 2025 08:06:27 GMT | A Tech Maker’s Guide to Implementing Zero Trust Architecture: 5 Practical Steps to Secure Your… | Nayak Satya | [Read More](https://medium.com/p/5e9e2591406b) |
-| Sun, 04 May 2025 08:06:01 GMT | How Attackers Are Outsmarting AI Security Systems: The Hidden World of Adversarial Machine Learning | Vikrant Dheer | [Read More](https://medium.com/p/b4d3fc48cce7) |
-| Sun, 04 May 2025 08:05:24 GMT | Certified Ethical Hacker Study Notes & Practice Tests | Motasem Hamdan | [Read More](https://medium.com/p/555627c8fe45) |
-| Sun, 04 May 2025 08:03:05 GMT | Understanding Log Analysis and Monitoring Commands as a Beginner | unica 02 | [Read More](https://medium.com/p/4cfd1a5cfe48) |
-| Sun, 04 May 2025 07:51:18 GMT | Top 4 Practical and Powerful Applications of Machine Learning with Python | Mohammad Hossein Moghadasi | [Read More](https://medium.com/p/988ea0f7e647) |
-| Sun, 04 May 2025 07:49:38 GMT | Model Armor with Sensitive Data Protection to Safeguard GenAI Applications | Kapil Gupta | [Read More](https://medium.com/p/86278844ed52) |
-| Sun, 04 May 2025 07:39:35 GMT | Agentic AI Protocols and Risk Mitigations in Cybersecurity Architectures | Keith Iron | [Read More](https://medium.com/p/3bea702d663a) |
-| Sun, 04 May 2025 07:33:12 GMT | Subdomain Surfing to Server Secrets  — How I Took Over a Forgotten Subdomain | Iski | [Read More](https://medium.com/p/4e9b1147f880) |
-| Sun, 04 May 2025 07:24:54 GMT | Why Most ‘Secure’ AWS Setups Fail a Real Penetration Test | Sajjad Hussain | [Read More](https://medium.com/p/bf6473585467) |
