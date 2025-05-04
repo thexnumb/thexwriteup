@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 06:18:46 GMT | $800 Bounty: Account Takeover in Shopify | Monika sharma | [Read More](https://medium.com/p/f4394ee37975) |
+| Sun, 04 May 2025 06:16:22 GMT | DevSecOps Phase 2: Code & Commit Stage — Harden the Developer Workflow | Dinidhu Jayasinghe | [Read More](https://medium.com/p/31430e9d2ec1) |
+| Sun, 04 May 2025 06:15:59 GMT | $3750 Bounty: Account Creation with Invalid Email Addresses | Monika sharma | [Read More](https://medium.com/p/aca169eddcc7) |
+| Sun, 04 May 2025 06:12:18 GMT | Logless Hunt: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/3458ff15e70d) |
+| Sun, 04 May 2025 06:04:34 GMT | Prevent Directory Traversal in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/60fadb5ae22d) |
+| Sun, 04 May 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — May 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/fae09439219d) |
+| Sun, 04 May 2025 05:56:32 GMT | It Has a Vault? Not the Money Kind — Understanding ARCON PAM Architecture | Amrit Sinha | [Read More](https://medium.com/p/1634f2037a3d) |
 | Sun, 04 May 2025 05:36:15 GMT | Microsoft RDP Flaw Lets Old Passwords Keep Working — Even After You Change Them | Raj Kumar M | [Read More](https://medium.com/p/b74522149bed) |
 | Sun, 04 May 2025 05:19:05 GMT | Securing PostgreSQL: Best Practices for User & Database Setup | Rizqi Mulki | [Read More](https://medium.com/p/3a13c71e9f82) |
 | Sun, 04 May 2025 05:16:22 GMT | Malware Analysis network lab setup part 2 switch | Ruben | [Read More](https://medium.com/p/cc36a58dbe5c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 18:04:06 GMT | Detection Engineering Lifecycle: An Integrated Approach to Threat Detection and Response | Maksim Goldenberg | [Read More](https://medium.com/p/54de5bf17dba) |
 | Sat, 03 May 2025 17:57:04 GMT | Unlock the Power of AI with Hyperscales Dedicated Servers | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/6490c151e833) |
 | Sat, 03 May 2025 17:40:15 GMT | How to Automate Phishing Email Detection with n8n and VirusTotal | Corey Jones | [Read More](https://medium.com/p/de61e8e1f3f4) |
-| Sat, 03 May 2025 17:30:08 GMT | ITSEC: Android CrackMe App Writeup | Alfian Taka | [Read More](https://medium.com/p/4993a37ca19a) |
-| Sat, 03 May 2025 17:14:54 GMT | Preserve your secrets: AWS IAM Roles Anywhere | Marc Campora | [Read More](https://medium.com/p/4eac6d95dce4) |
-| Sat, 03 May 2025 17:01:24 GMT | Smart Wordlists: Supercharge Feroxbuster with Python (Part 2) | Lav Thaiba | [Read More](https://medium.com/p/e33fbc646b37) |
-| Sat, 03 May 2025 16:58:48 GMT | ️ Cracking the Code: How Organizational PenTesting Builds Cyber Resilience | Kora | [Read More](https://medium.com/p/8be471788c9a) |
-| Sat, 03 May 2025 16:58:46 GMT | ️ How to Change Username and Hostname on Kali Linux (2025 Update) - REDxCybersec | REDx Cybersec | [Read More](https://medium.com/p/376997b3f3ad) |
-| Sat, 03 May 2025 16:55:43 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri | Bilalgns | [Read More](https://medium.com/p/6989773c9722) |
-| Sat, 03 May 2025 16:55:22 GMT | The Calculated Villain: The Art and Science of Adversarial Intelligence | Bee Davis | [Read More](https://medium.com/p/1991bbe49d74) |
