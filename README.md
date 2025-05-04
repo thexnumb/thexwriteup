@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 22:16:34 GMT | How to Implement a SIEM Solution in Your Organization: A Practical Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5b59394e3e48) |
+| Sun, 04 May 2025 22:14:42 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL’s Innovative Solutions | Cemkaraismailoglu | [Read More](https://medium.com/p/8932947dc18e) |
 | Sun, 04 May 2025 22:09:50 GMT | Performing SQL Injection with Burp Suite and sqlmap on DVWA | Alpondith | [Read More](https://medium.com/p/c3cabb00c287) |
 | Sun, 04 May 2025 22:01:12 GMT | How Being Too Nice Can Cost You $4.45 Million: The Real Game of Social Engineering | Amit kumar | [Read More](https://medium.com/p/bc05d2001b34) |
 | Sun, 04 May 2025 21:57:21 GMT | The Optimistic Overthinker | Poonam Bhandari | [Read More](https://medium.com/p/a53f1daccae7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 14:15:31 GMT | Common Web Attacks and Detection Techniques | Sahil Dherange | [Read More](https://medium.com/p/7eaa7780b945) |
 | Sun, 04 May 2025 14:14:33 GMT | Python Security Best Practices: A Guide for DevOps Engineers | Lalit Sharma | [Read More](https://medium.com/p/df3015a3b30b) |
 | Sun, 04 May 2025 14:11:53 GMT | MQTT (Message Queuing Telemetry Transport) — Port 1883 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/3ee2f6510bf4) |
-| Sun, 04 May 2025 14:10:49 GMT | CLOUD OSINT | rr-1k | [Read More](https://medium.com/p/0e259c256008) |
-| Sun, 04 May 2025 14:06:31 GMT | How I Found My Favorite Bug in a Top Bug Bounty Program | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/bbeb36e898f8) |
