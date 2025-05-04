@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 12:32:52 GMT | ️ Web3 Security Weekly Digest — April 28–May 4, 2025 | Null Return | [Read More](https://medium.com/p/3aed05631c80) |
+| Sun, 04 May 2025 12:32:39 GMT | Hacking the Hackers: Inside the World of Honeypots and Cyber Deception | An0n | [Read More](https://medium.com/p/ba83ffcf133e) |
+| Sun, 04 May 2025 12:28:35 GMT | The Cybersecurity-AI Nexus: Opportunities and Risks | Ninza-_-Boi | [Read More](https://medium.com/p/b9fcb223af88) |
+| Sun, 04 May 2025 12:25:46 GMT | Why Has Humanity Never Invented the S System? | Leeahandfulofhope | [Read More](https://medium.com/p/750ecd614a78) |
+| Sun, 04 May 2025 12:20:47 GMT | Patterns are changing. | samba | [Read More](https://medium.com/p/83767e39e88e) |
+| Sun, 04 May 2025 12:13:46 GMT | Why RiskInsightsHub.com Stands Out in a Crowded Risk Management Blogosphere | Hiren Desai | [Read More](https://medium.com/p/5e085f554b6d) |
+| Sun, 04 May 2025 12:09:50 GMT | Understanding SQL Injection: What It Is and How to Prevent It | ImashaNilupul | [Read More](https://medium.com/p/d332e2038ae4) |
+| Sun, 04 May 2025 12:05:16 GMT | Security-First Development: Why ‘Feature-Fast’ Mindset is Killing Your App | Ahmad Javed | [Read More](https://medium.com/p/e6177b0b796d) |
+| Sun, 04 May 2025 11:53:04 GMT | Entropy: The secret ingredient of Cybersecurity | Mayank Sharma | [Read More](https://medium.com/p/c31b48aa21b8) |
+| Sun, 04 May 2025 11:52:38 GMT | API Güvenliğinde JWT mi, Session mı? | Ahmet Mert Ünsel | [Read More](https://medium.com/p/e5eefa227838) |
+| Sun, 04 May 2025 11:41:13 GMT | HTB — Flag Command | Cxd4_ | [Read More](https://medium.com/p/bb29192dae57) |
+| Sun, 04 May 2025 11:37:27 GMT | Neither Peacenik nor Kahanist | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/d3ac4abaf7c9) |
 | Sun, 04 May 2025 11:21:32 GMT | Detecting and Analyzing Cobalt Strike Beacon Traffic | Esra Kayhan | [Read More](https://medium.com/p/9667ef45cf64) |
 | Sun, 04 May 2025 11:07:38 GMT | Smarter Ransomware Protection on NetApp Without Burning Your Budget | Mr.PlanB | [Read More](https://medium.com/p/4fcfc0731c8d) |
 | Sun, 04 May 2025 11:04:28 GMT | Australia’s Cybersecurity Reckoning: Why Attacks Like the Optus Breach Keep Happening | Pudasainikishor | [Read More](https://medium.com/p/5763d8571d54) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 03:45:03 GMT | Exploring the Future of Secure Storage Wallets with ELLIPAL | Fy | [Read More](https://medium.com/p/e8fd6504edcb) |
 | Sun, 04 May 2025 03:42:24 GMT | Anonforce — TryHackMe —   CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/946186ca4caa) |
 | Sun, 04 May 2025 03:35:38 GMT | Burnout in the SOC Is Real — And It’s a CISO’s Problem to Solve | Cyber-AppSec | [Read More](https://medium.com/p/7949500a6ace) |
-| Sun, 04 May 2025 03:34:02 GMT | Top 10 Security Threats in AI Agents and How to Defend Against Them | Shiam Beeharry | [Read More](https://medium.com/p/56622f2f5d48) |
-| Sun, 04 May 2025 03:23:55 GMT | Web Security & Bug Bounty: Learn Penetration Testing — Chapter 2 | Riki SatyaGraha | [Read More](https://medium.com/p/46414fc762a4) |
-| Sun, 04 May 2025 03:18:27 GMT | Where To Buy Flash Usdt And Btc Online, Visit Globalflashco.com | globalcoin | [Read More](https://medium.com/p/e7bc3551fd4c) |
-| Sun, 04 May 2025 02:56:36 GMT | The IoT-CPS Connection: A Partnership for Today & The Future | Data Defendere | [Read More](https://medium.com/p/b1a5d99ab0c2) |
-| Sun, 04 May 2025 02:32:24 GMT | Simplifying Kubernetes Networking with Linkerd in AKS | Sridhar | [Read More](https://medium.com/p/24ce8160bb88) |
-| Sun, 04 May 2025 02:21:31 GMT | Mastering Boundary Value Analysis: Guide to Uncovering Hidden Bugs | sajith dilshan | [Read More](https://medium.com/p/4eb58b43899b) |
-| Sun, 04 May 2025 02:02:43 GMT | AWS Cloud SOC Monitoring: Attack Detection & Response | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/045968e58ab4) |
-| Sun, 04 May 2025 01:44:25 GMT | TryHackMe: Anonymous | Milton Hernandez | [Read More](https://medium.com/p/14afa9b5129b) |
-| Sun, 04 May 2025 01:34:53 GMT | ️‍♂️ The Phantom Update: How One Routine Software Patch Nearly Destroyed X Business | Noel | [Read More](https://medium.com/p/455adddd731c) |
-| Sun, 04 May 2025 01:34:27 GMT | $505 Bounty: Denial of Service Vulnerability | Monika sharma | [Read More](https://medium.com/p/bd6daef5fe8a) |
-| Sun, 04 May 2025 01:34:05 GMT | The Future of Cybersecurity | Ahmad Javed | [Read More](https://medium.com/p/6c6b4378b907) |
-| Sun, 04 May 2025 01:33:46 GMT | How a Simple PDF Invoice Almost Took Down a Business in 2025 | Noel | [Read More](https://medium.com/p/1bcb6db5b621) |
