@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 21:03:40 GMT | CIA TRİADI NEDİR? | Esma Yetiş | [Read More](https://medium.com/p/cbd22fb0dc4f) |
+| Sun, 04 May 2025 21:01:50 GMT | Beginner SOC Analyst Project: Building an Email Analyzer for Suspicious Emails | Dharit Thakkar | [Read More](https://medium.com/p/dddd40951f6b) |
+| Sun, 04 May 2025 20:50:17 GMT | The Torture of Vulnerability | Tina Marie | [Read More](https://medium.com/p/7ff82ca6f4b7) |
 | Sun, 04 May 2025 20:32:23 GMT | CVE, CWE and NVD | Luis Soto | [Read More](https://medium.com/p/82bb90b226f6) |
+| Sun, 04 May 2025 20:28:07 GMT | How to Configure Apache for HTTPS with SSL: A Beginner-Friendly Guide | Nikhil Dhiman | [Read More](https://medium.com/p/8445ce720ffb) |
 | Sun, 04 May 2025 20:26:37 GMT | Path Traversal Techniques | musayyab sharif | [Read More](https://medium.com/p/26ae250a3907) |
 | Sun, 04 May 2025 20:12:46 GMT | Llama: The AI At Everyone’s Fingertip | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/1224ab273eca) |
 | Sun, 04 May 2025 20:11:09 GMT | Why Many Countries in Africa Are Lagging in IT and Cybersecurity? | ERP Today | [Read More](https://medium.com/p/a8a0ba92ab38) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 13:23:56 GMT | A Basic Guide to Fuzzing with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/f0619ce0bff4) |
 | Sun, 04 May 2025 13:14:22 GMT | What the Bible Can Teach Us About Cybersecurity: False Prophets, Baselines, and the Battle for… | Cyber Lee | [Read More](https://medium.com/p/e1ddfabfc2fb) |
 | Sun, 04 May 2025 13:10:12 GMT | Security in the Multi-Cloud World | Ed-it Editions | [Read More](https://medium.com/p/c69d0c85e347) |
-| Sun, 04 May 2025 13:01:03 GMT | “AI Security in Business: How to Stay Protected Without Losing Sleep” | Geni Tech | [Read More](https://medium.com/p/15280016b871) |
-| Sun, 04 May 2025 12:51:38 GMT | 5 Essential Best Practices to Secure Web Applications | Nitin Kumar | [Read More](https://medium.com/p/206bea4bf990) |
-| Sun, 04 May 2025 12:33:57 GMT | Scanning Direct Vulnerabilities in Spring Boot Dependencies with OSV-Scanner ? - Part 6 | Raşit Eşdemir | [Read More](https://medium.com/p/63bac666426b) |
-| Sun, 04 May 2025 12:32:52 GMT | ️ Web3 Security Weekly Digest — April 28–May 4, 2025 | Null Return | [Read More](https://medium.com/p/3aed05631c80) |
