@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 11:21:32 GMT | Detecting and Analyzing Cobalt Strike Beacon Traffic | Esra Kayhan | [Read More](https://medium.com/p/9667ef45cf64) |
+| Sun, 04 May 2025 11:07:38 GMT | Smarter Ransomware Protection on NetApp Without Burning Your Budget | Mr.PlanB | [Read More](https://medium.com/p/4fcfc0731c8d) |
+| Sun, 04 May 2025 11:04:28 GMT | Australia’s Cybersecurity Reckoning: Why Attacks Like the Optus Breach Keep Happening | Pudasainikishor | [Read More](https://medium.com/p/5763d8571d54) |
+| Sun, 04 May 2025 11:03:59 GMT | Big Game Ransomware: the myths experts tell board members | Kevin Beaumont | [Read More](https://medium.com/p/03d5e1d1c4b7) |
 | Sun, 04 May 2025 11:03:15 GMT | Password Security: How Strong Is Your Digital Lock? | M. Jama | [Read More](https://medium.com/p/5432348034f4) |
 | Sun, 04 May 2025 11:02:33 GMT | Understand the Cyber Kill Chain | Ashwin Notes | [Read More](https://medium.com/p/4a0550513ba1) |
 | Sun, 04 May 2025 11:02:31 GMT | King Of Dark Web Final Hours | Tsumit | [Read More](https://medium.com/p/d6c08446fd8a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 01:34:27 GMT | $505 Bounty: Denial of Service Vulnerability | Monika sharma | [Read More](https://medium.com/p/bd6daef5fe8a) |
 | Sun, 04 May 2025 01:34:05 GMT | The Future of Cybersecurity | Ahmad Javed | [Read More](https://medium.com/p/6c6b4378b907) |
 | Sun, 04 May 2025 01:33:46 GMT | How a Simple PDF Invoice Almost Took Down a Business in 2025 | Noel | [Read More](https://medium.com/p/1bcb6db5b621) |
-| Sun, 04 May 2025 01:31:44 GMT | Cockpit - PG Practice Walkthrough - (brief) | Adam Bartlett | [Read More](https://medium.com/p/543edbb9b963) |
-| Sun, 04 May 2025 01:13:25 GMT | TryHackMe: Bounty Hacker | Milton Hernandez | [Read More](https://medium.com/p/7913e4b45792) |
-| Sun, 04 May 2025 01:11:47 GMT | What is Subdomain Enumeration & Why It Matters in Bug Bounties | Mohammad Karim | [Read More](https://medium.com/p/644006b0635f) |
-| Sun, 04 May 2025 00:51:48 GMT | How I Found an Host Header Injection Vulnerability Easily In (Mars)$ | Zuksh | [Read More](https://medium.com/p/2a56a1c942c3) |
