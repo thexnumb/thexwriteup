@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 15:39:00 GMT | The Future of Financial Crime Detection: Real-Time, Relationship-Aware, and Explainable | RaptorX.ai | [Read More](https://medium.com/p/6931c55f54c5) |
+| Sun, 04 May 2025 15:30:44 GMT | Breaking Barriers: My Journey into Web Application Penetration Testing | Ganga Subhash | [Read More](https://medium.com/p/394a032cfd46) |
+| Sun, 04 May 2025 15:30:42 GMT | Caught on Camera: 21 Million Work Screens Leaked Online — Could Yours Be Next? | Janeel Abrahams | [Read More](https://medium.com/p/5b49f33e3377) |
+| Sun, 04 May 2025 15:24:33 GMT | Understanding Server Side Template Injection (SSTI) | Natarajan C K | [Read More](https://medium.com/p/1cb0465dd46d) |
+| Sun, 04 May 2025 15:24:05 GMT | SolarWinds Hack: 5 Critical Lessons for Businesses | Ahmad Javed | [Read More](https://medium.com/p/9be1e7b3d500) |
+| Sun, 04 May 2025 15:16:58 GMT | Apa Itu Cyber Security? (Bahasan santai untuk para newbie) | Bintang - Learning Cyber Security | [Read More](https://medium.com/p/6f8f3958cd20) |
+| Sun, 04 May 2025 15:16:22 GMT | Prompt Engineering: Hacker’s Edition | binbashfun | [Read More](https://medium.com/p/74cca4749ca6) |
 | Sun, 04 May 2025 15:01:31 GMT | The quiet art of becoming | Quynton Johnson | [Read More](https://medium.com/p/91ff227204b5) |
 | Sun, 04 May 2025 14:57:34 GMT | Information Security Audits in Healthcare: Planning, Activities & Compliance Essentials | Jadala Ajay | [Read More](https://medium.com/p/0e160725df28) |
 | Sun, 04 May 2025 14:56:22 GMT | How a Simple IDOR Bug in Dubsmash’s API Could’ve Let Anyone Mess With Your Audio | Aryansaha | [Read More](https://medium.com/p/957887b75b69) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 07:39:35 GMT | Agentic AI Protocols and Risk Mitigations in Cybersecurity Architectures | Keith Iron | [Read More](https://medium.com/p/3bea702d663a) |
 | Sun, 04 May 2025 07:33:12 GMT | Subdomain Surfing to Server Secrets  — How I Took Over a Forgotten Subdomain | Iski | [Read More](https://medium.com/p/4e9b1147f880) |
 | Sun, 04 May 2025 07:24:54 GMT | Why Most ‘Secure’ AWS Setups Fail a Real Penetration Test | Sajjad Hussain | [Read More](https://medium.com/p/bf6473585467) |
-| Sun, 04 May 2025 07:14:59 GMT | Unlocking the Power of Cyber Threat Intelligence with Arachne Digital | Arachne Digital | [Read More](https://medium.com/p/f90332f03f8c) |
-| Sun, 04 May 2025 07:08:20 GMT | Embracing Vulnerability — A Lesson in Growth | @TheUnseenLeader | [Read More](https://medium.com/p/31f6fcbd75d0) |
-| Sun, 04 May 2025 07:03:12 GMT | Download Google Chrome: The Fast, Secure, and Reliable Browser You Need Today | Digi Web Story | [Read More](https://medium.com/p/03e9d6710077) |
-| Sun, 04 May 2025 07:02:29 GMT | Time to Quasi-Panic Over a New Apple AirPlay Bug | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f376cb0e71cc) |
-| Sun, 04 May 2025 07:02:29 GMT | The Love Bug: How a Rejected Thesis Sparked a Global Cyber Pandemic | The Blunders and Wonders of History | [Read More](https://medium.com/p/cdb0c10577f6) |
-| Sun, 04 May 2025 06:53:02 GMT | Build your own 2FA Authenticator in Go — Like Google Authenticator | Hemanth Sai | [Read More](https://medium.com/p/3a9dcac3f084) |
-| Sun, 04 May 2025 06:37:24 GMT | From Firefighting to Fortitude: Why Cybersecurity Needs a Seat at the Strategy Table | JC Gaillard | [Read More](https://medium.com/p/3df7e7e05f1e) |
