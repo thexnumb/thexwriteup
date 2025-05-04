@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 09:24:16 GMT | Ultimate Guide to Android Banking App Security: Best Practices & Scanning Tools | Satish Nada | [Read More](https://medium.com/p/42d30ff3dfa9) |
+| Sun, 04 May 2025 09:23:15 GMT | What Is Laravel Timebox and Why You Should Start Using It Today | MasteryOfLaravel | [Read More](https://medium.com/p/26735bd13864) |
 | Sun, 04 May 2025 09:13:50 GMT | Staying Informed on Cybersecurity: A simple Guide that everybody can use | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/434aa9f9128a) |
 | Sun, 04 May 2025 09:13:01 GMT | XSS : Bypass default-src ‘self’ | Kaz Research | [Read More](https://medium.com/p/8916a137776f) |
 | Sun, 04 May 2025 09:07:27 GMT | OSINT Combine CTFD — Challenge: Get Rotated! | rootsechax | [Read More](https://medium.com/p/ce802f596502) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 21:36:52 GMT | Meta vs. Nigeria: A Landmark Case for Africa’s Digital Sovereignty and Global Tech Accountability | Francis Omachi | [Read More](https://medium.com/p/9d71e85c6b32) |
 | Sat, 03 May 2025 21:35:08 GMT | Reflection on “SOC Job Now!” course by CyberNowEducation | Karl Lane | [Read More](https://medium.com/p/1b374c137871) |
 | Sat, 03 May 2025 21:32:08 GMT | Should You Share That… Or Keep It In Your Journal? | Voke Etefe | [Read More](https://medium.com/p/2071b089ca85) |
-| Sat, 03 May 2025 21:26:29 GMT | Billions of Apple Devices Exposed by AirBorne AirPlay Flaws | Avnishyam | [Read More](https://medium.com/p/5baff08dcaf1) |
-| Sat, 03 May 2025 21:23:18 GMT | Have You Ever Tried to Cross the Street with Your Eyes Closed? | B Kean | [Read More](https://medium.com/p/9b6b92313fc7) |
