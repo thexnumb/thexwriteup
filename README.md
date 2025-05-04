@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 07:14:59 GMT | Unlocking the Power of Cyber Threat Intelligence with Arachne Digital | Arachne Digital | [Read More](https://medium.com/p/f90332f03f8c) |
+| Sun, 04 May 2025 07:08:20 GMT | Embracing Vulnerability — A Lesson in Growth | @TheUnseenLeader | [Read More](https://medium.com/p/31f6fcbd75d0) |
+| Sun, 04 May 2025 07:03:12 GMT | Download Google Chrome: The Fast, Secure, and Reliable Browser You Need Today | Digi Web Story | [Read More](https://medium.com/p/03e9d6710077) |
+| Sun, 04 May 2025 07:02:29 GMT | Time to Quasi-Panic Over a New Apple AirPlay Bug | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/f376cb0e71cc) |
+| Sun, 04 May 2025 07:02:29 GMT | The Love Bug: How a Rejected Thesis Sparked a Global Cyber Pandemic | The Blunders and Wonders of History | [Read More](https://medium.com/p/cdb0c10577f6) |
+| Sun, 04 May 2025 06:53:02 GMT | Build your own 2FA Authenticator in Go — Like Google Authenticator | Hemanth Sai | [Read More](https://medium.com/p/3a9dcac3f084) |
 | Sun, 04 May 2025 06:37:24 GMT | From Firefighting to Fortitude: Why Cybersecurity Needs a Seat at the Strategy Table | JC Gaillard | [Read More](https://medium.com/p/3df7e7e05f1e) |
 | Sun, 04 May 2025 06:36:21 GMT | WordPress User Enumeration via author-sitemap.xml on Payapps.com | Regan Temudo | [Read More](https://medium.com/p/5ffad0ca1cc2) |
 | Sun, 04 May 2025 06:33:35 GMT | A two-year-long cyberespionage campaign has been uncovered targeting a Critical National… | CyDhaal | [Read More](https://medium.com/p/e9877a7367b2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 19:11:15 GMT | The Overlooked Cybersecurity Risk: How Version Control Issues and Social Engineering Enable Supply… | Jeffrey Nickle | [Read More](https://medium.com/p/ba7fb4be34c2) |
 | Sat, 03 May 2025 19:00:28 GMT | Cybersecurity(Beginners Guide) | Abiolaoluwatuyi | [Read More](https://medium.com/p/aeb629b15fc1) |
 | Sat, 03 May 2025 18:58:53 GMT | The Silent Threat: Understanding Infostealer Malware and How to Protect Yourself | Aniket Tegginamath | [Read More](https://medium.com/p/7e9a5e0644b6) |
-| Sat, 03 May 2025 18:52:36 GMT | Hack The Box Academy — Network Foundations — Network Concepts | bl77rd | [Read More](https://medium.com/p/14ee779d52dc) |
-| Sat, 03 May 2025 18:44:05 GMT | How I set up a sneaky honeypot on my windows laptop — Sharing my learnings!! | Aquaregia17 | [Read More](https://medium.com/p/4bc547fcf84e) |
-| Sat, 03 May 2025 18:40:30 GMT | Deploy Your Own Dark Web Website on EC2 in Just 5 Minutes ️ | Naman Raghuwanshi | [Read More](https://medium.com/p/6cdd6becbe76) |
-| Sat, 03 May 2025 18:38:38 GMT | Behind the CAPTCHA: Unmasking a .Net Memory-Loader in a fake verification trap | Morgan E | [Read More](https://medium.com/p/09ce32ccff91) |
-| Sat, 03 May 2025 18:36:35 GMT | Red Teaming: RFID Access Card Attack — Using ESP32 | Yashshirke | [Read More](https://medium.com/p/22fc4a929dfc) |
-| Sat, 03 May 2025 18:21:01 GMT | SUNSET | midlaj irumban | [Read More](https://medium.com/p/7250dc274778) |
