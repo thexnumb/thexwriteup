@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 18:10:10 GMT | Open Source is Eating the World (But With Better Security Now, Promise) | Soham Banerjee | [Read More](https://medium.com/p/639610694c80) |
+| Sun, 04 May 2025 18:08:17 GMT | Hack The Box Academy — Network Foundations — Domain Name System (DNS) | bl77rd | [Read More](https://medium.com/p/1bbe99008635) |
+| Sun, 04 May 2025 17:56:28 GMT | Thread IDs, Process IDs — The Start of Malware Magic | Malforge Group | [Read More](https://medium.com/p/57f583682dd3) |
+| Sun, 04 May 2025 17:48:41 GMT | The Importance of Password Entropy in Cybersecurity: Strengthening Your Defenses Against… | Ivo Pereira | [Read More](https://medium.com/p/2ff1c1f882cf) |
+| Sun, 04 May 2025 17:48:22 GMT | CORS in Symfony 7 | Tihomir Manushev | [Read More](https://medium.com/p/a4678daedb91) |
+| Sun, 04 May 2025 17:38:16 GMT | You Should Encrypt Your Environment Variables | Ali nazari | [Read More](https://medium.com/p/cdd20afde061) |
+| Sun, 04 May 2025 17:36:09 GMT | TrailAlerts: Take Control of Cloud Detection in AWS | Adan | [Read More](https://medium.com/p/9e7761f49509) |
 | Sun, 04 May 2025 17:33:03 GMT | Hack The Box Academy — Network Foundations — Network Address Translation (NAT) | bl77rd | [Read More](https://medium.com/p/7ccdca6d6915) |
 | Sun, 04 May 2025 17:27:12 GMT | Asus Just Launched New ExpertBook AI Laptops in India — Here’s What You Need to Know! | SATHISH R | [Read More](https://medium.com/p/f39438bb012b) |
 | Sun, 04 May 2025 17:16:33 GMT | Evil Twin Setup using hostapd and dnsmasq | Atharva puri | [Read More](https://medium.com/p/cae451dcd9c3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 10:32:25 GMT | Buffer Overflow Attacks: Stack and Heap-Based Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/ec0d53d8c86c) |
 | Sun, 04 May 2025 10:22:05 GMT | Mastering Bug Bounties with Burp Suite: A Comprehensive Guide to Web Security | Benjaminmillerdev | [Read More](https://medium.com/p/bb63a03e6511) |
 | Sun, 04 May 2025 10:21:44 GMT | Privilege Escalation Techniques in Linux Operating Systems | Mehmet Agah | [Read More](https://medium.com/p/2b31fb56960c) |
-| Sun, 04 May 2025 10:20:54 GMT | Mastering Nikto: Advanced Bug Bounty Hunting Techniques” by Benjamin Miller. | Benjaminmillerdev | [Read More](https://medium.com/p/62d2bc441e6a) |
-| Sun, 04 May 2025 10:16:09 GMT | Identity and Access Management (IAM) | Yash Bhingarde | [Read More](https://medium.com/p/d909d07656b0) |
-| Sun, 04 May 2025 10:04:24 GMT | Ghost in the Headers: Evading Device Fingerprinting on Phishing Sites | KeyboardSamurai | [Read More](https://medium.com/p/47bb6075edc6) |
-| Sun, 04 May 2025 10:02:17 GMT | ️ Bulletproof Hosting: The Dark Web’s Favorite Infrastructure | Mathews kuruvila | [Read More](https://medium.com/p/a4c189c414d8) |
-| Sun, 04 May 2025 10:01:10 GMT | Is it a Cyber Trap? | Preeti Pathak | [Read More](https://medium.com/p/dcc8aeda62f7) |
-| Sun, 04 May 2025 09:52:44 GMT | Full Account Takeover di redacted.com: Ganti Password Tanpa Tahu Password Lama?! | FufuFafa | [Read More](https://medium.com/p/be89bd69bb61) |
-| Sun, 04 May 2025 09:50:52 GMT | Attitude: Menyambut Revolusi AI | Nando Teddy | [Read More](https://medium.com/p/4c8140f247eb) |
