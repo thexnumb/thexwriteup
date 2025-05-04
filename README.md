@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 06:37:24 GMT | From Firefighting to Fortitude: Why Cybersecurity Needs a Seat at the Strategy Table | JC Gaillard | [Read More](https://medium.com/p/3df7e7e05f1e) |
+| Sun, 04 May 2025 06:36:21 GMT | WordPress User Enumeration via author-sitemap.xml on Payapps.com | Regan Temudo | [Read More](https://medium.com/p/5ffad0ca1cc2) |
+| Sun, 04 May 2025 06:33:35 GMT | A two-year-long cyberespionage campaign has been uncovered targeting a Critical National… | CyDhaal | [Read More](https://medium.com/p/e9877a7367b2) |
+| Sun, 04 May 2025 06:27:33 GMT | LegionHunters — Publication for Security Researchers | AbhirupKonwar | [Read More](https://medium.com/p/25406971f7df) |
+| Sun, 04 May 2025 06:25:18 GMT | EUROPE POSSESSES SEVERAL LAYERS OF DEFENSE AND RESPONSE STRUCTURES TO "STRIKE BACK" OR RETALIATE… | Nauman khan | [Read More](https://medium.com/p/f2e0fe3f7a92) |
+| Sun, 04 May 2025 06:19:07 GMT | Supply Chain Attack Alert: Malicious Go Modules and npm/PyPI Packages Deliver Devastating Linux… | CyDhaal | [Read More](https://medium.com/p/4f55d2481264) |
 | Sun, 04 May 2025 06:18:46 GMT | $800 Bounty: Account Takeover in Shopify | Monika sharma | [Read More](https://medium.com/p/f4394ee37975) |
 | Sun, 04 May 2025 06:16:22 GMT | DevSecOps Phase 2: Code & Commit Stage — Harden the Developer Workflow | Dinidhu Jayasinghe | [Read More](https://medium.com/p/31430e9d2ec1) |
 | Sun, 04 May 2025 06:15:59 GMT | $3750 Bounty: Account Creation with Invalid Email Addresses | Monika sharma | [Read More](https://medium.com/p/aca169eddcc7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 18:38:38 GMT | Behind the CAPTCHA: Unmasking a .Net Memory-Loader in a fake verification trap | Morgan E | [Read More](https://medium.com/p/09ce32ccff91) |
 | Sat, 03 May 2025 18:36:35 GMT | Red Teaming: RFID Access Card Attack — Using ESP32 | Yashshirke | [Read More](https://medium.com/p/22fc4a929dfc) |
 | Sat, 03 May 2025 18:21:01 GMT | SUNSET | midlaj irumban | [Read More](https://medium.com/p/7250dc274778) |
-| Sat, 03 May 2025 18:14:34 GMT | Behind the CAPTCHA: Unmasking a .NET Memory-Loader in a Fake Verification Trap | Morgan E | [Read More](https://medium.com/p/face9030e7f0) |
-| Sat, 03 May 2025 18:09:53 GMT | TryHackMe - Logless Hunt - WriteUp | Axoloth | [Read More](https://medium.com/p/3021ac513730) |
-| Sat, 03 May 2025 18:08:37 GMT | Analysis Using VirusTotal for Domain Threat Intelligence | Awuru Isaac | [Read More](https://medium.com/p/5e252f06da80) |
-| Sat, 03 May 2025 18:04:06 GMT | Detection Engineering Lifecycle: An Integrated Approach to Threat Detection and Response | Maksim Goldenberg | [Read More](https://medium.com/p/54de5bf17dba) |
-| Sat, 03 May 2025 17:57:04 GMT | Unlock the Power of AI with Hyperscales Dedicated Servers | Arushkaushik Shapemyskills | [Read More](https://medium.com/p/6490c151e833) |
-| Sat, 03 May 2025 17:40:15 GMT | How to Automate Phishing Email Detection with n8n and VirusTotal | Corey Jones | [Read More](https://medium.com/p/de61e8e1f3f4) |
