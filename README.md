@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 11:03:15 GMT | Password Security: How Strong Is Your Digital Lock? | M. Jama | [Read More](https://medium.com/p/5432348034f4) |
+| Sun, 04 May 2025 11:02:33 GMT | Understand the Cyber Kill Chain | Ashwin Notes | [Read More](https://medium.com/p/4a0550513ba1) |
+| Sun, 04 May 2025 11:02:31 GMT | King Of Dark Web Final Hours | Tsumit | [Read More](https://medium.com/p/d6c08446fd8a) |
+| Sun, 04 May 2025 11:01:41 GMT | RaaS-Ransomware as a Service | Darshan Naresh Naik | [Read More](https://medium.com/p/fe4f2d1ed603) |
+| Sun, 04 May 2025 11:00:21 GMT | Image - PG Practice Walkthrough | Adam Bartlett | [Read More](https://medium.com/p/c7a40f489f6e) |
+| Sun, 04 May 2025 10:54:33 GMT | HTB StreamIO Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/9a3b673c03ff) |
+| Sun, 04 May 2025 10:50:24 GMT | Understanding the Core Concepts of OOP | Erkan Kavas | [Read More](https://medium.com/p/0b258fbe86e4) |
+| Sun, 04 May 2025 10:49:57 GMT | AI-Terminal-X >> Ai-Powered Intelligent Linux Command Line Copilot | The Pentrix | [Read More](https://medium.com/p/04629dfaf057) |
+| Sun, 04 May 2025 10:41:42 GMT | The Ultimate Guide to Email Input Field Vulnerability Testing | coffinxp | [Read More](https://medium.com/p/18f96fc42251) |
+| Sun, 04 May 2025 10:38:01 GMT | My fear of running out of money | Hamzaaftab | [Read More](https://medium.com/p/6172ffa326af) |
 | Sun, 04 May 2025 10:32:25 GMT | Buffer Overflow Attacks: Stack and Heap-Based Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/ec0d53d8c86c) |
 | Sun, 04 May 2025 10:22:05 GMT | Mastering Bug Bounties with Burp Suite: A Comprehensive Guide to Web Security | Benjaminmillerdev | [Read More](https://medium.com/p/bb63a03e6511) |
 | Sun, 04 May 2025 10:21:44 GMT | Privilege Escalation Techniques in Linux Operating Systems | Mehmet Agah | [Read More](https://medium.com/p/2b31fb56960c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 01:13:25 GMT | TryHackMe: Bounty Hacker | Milton Hernandez | [Read More](https://medium.com/p/7913e4b45792) |
 | Sun, 04 May 2025 01:11:47 GMT | What is Subdomain Enumeration & Why It Matters in Bug Bounties | Mohammad Karim | [Read More](https://medium.com/p/644006b0635f) |
 | Sun, 04 May 2025 00:51:48 GMT | How I Found an Host Header Injection Vulnerability Easily In (Mars)$ | Zuksh | [Read More](https://medium.com/p/2a56a1c942c3) |
-| Sun, 04 May 2025 00:41:32 GMT | GEOINT Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/deb9bf7e549e) |
-| Sun, 04 May 2025 00:32:43 GMT | Understanding Blockchain — And Why It Matters for Innovation | Srinivas Baipalli | [Read More](https://medium.com/p/0b5071e778b4) |
-| Sun, 04 May 2025 00:30:41 GMT | RECOVER SCAMMED USDT THROUGH // FUNDS RECLAIMER COMPANY | Benitatrueba | [Read More](https://medium.com/p/fda1bd14ca00) |
-| Sun, 04 May 2025 00:14:21 GMT | Nigeria on the Road to Perdition: A Nation at the Edge of Collapse | Charles J. Kash | [Read More](https://medium.com/p/d860c66bd22f) |
-| Sun, 04 May 2025 00:07:15 GMT | BoogeyMan 3 - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/e561dac7bca5) |
-| Sun, 04 May 2025 00:03:52 GMT | Password Security: History, Myths, and Modern Approaches | KMO | [Read More](https://medium.com/p/f1934458e61c) |
-| Sun, 04 May 2025 00:02:24 GMT | Metodología Inicial para Máquinas de Hack The Box | JPablo13 | [Read More](https://medium.com/p/16620d22c0a2) |
-| Sat, 03 May 2025 23:46:24 GMT | From Curiosity to Duplicated: How I Found a Critical Account Takeover Bug | Hamza Ahmed Youssef | [Read More](https://medium.com/p/8e43bd035ab0) |
-| Sat, 03 May 2025 23:43:22 GMT | Modern Network Communication Technologies | Mariia Hirniak | [Read More](https://medium.com/p/855a15cf184a) |
-| Sat, 03 May 2025 23:32:24 GMT | Palo Alto Networks AI Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7f196741c484) |
