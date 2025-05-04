@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 16:34:09 GMT | Hack The Box Academy — Network Foundations — Dynamic Host Configuration Protocol (DHCP) | bl77rd | [Read More](https://medium.com/p/ea8b9b062e44) |
+| Sun, 04 May 2025 16:33:14 GMT | VPNs: Can They Outrun The Censors? What You Need To Know | The Censored State | [Read More](https://medium.com/p/c55322c3f9a8) |
+| Sun, 04 May 2025 16:18:24 GMT | Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/df86da9d161b) |
 | Sun, 04 May 2025 16:18:10 GMT | Sandfly: Using the product in Production Properly — Configuring Schedules and Scanning for Threats… | Truvis Thornton | [Read More](https://medium.com/p/e4624015121a) |
 | Sun, 04 May 2025 16:17:24 GMT | eWPTXv3 Certification Review | 0xSt4n | [Read More](https://medium.com/p/fd9449be6bdf) |
+| Sun, 04 May 2025 16:15:34 GMT | Switch to a Cybersecurity Analyst Career with No Technical Background? (Tried & Tested) | Divya Arora | [Read More](https://medium.com/p/20d7d71ba92d) |
 | Sun, 04 May 2025 16:13:02 GMT | Why Cybersecurity Specialists Must Understand Networks? | Lamiya Salahova | [Read More](https://medium.com/p/acb87204f724) |
 | Sun, 04 May 2025 16:07:25 GMT | Hack The Box Academy — Network Foundations — Network Communication | bl77rd | [Read More](https://medium.com/p/9adfb64c79b2) |
 | Sun, 04 May 2025 16:02:34 GMT | Lateral Movement with Python: Remotely Executing Commands Over SMB & WMI | Maxwell Cross | [Read More](https://medium.com/p/4fb95526b3d6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 09:23:15 GMT | What Is Laravel Timebox and Why You Should Start Using It Today | MasteryOfLaravel | [Read More](https://medium.com/p/26735bd13864) |
 | Sun, 04 May 2025 09:13:50 GMT | Staying Informed on Cybersecurity: A simple Guide that everybody can use | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/434aa9f9128a) |
 | Sun, 04 May 2025 09:13:01 GMT | XSS : Bypass default-src ‘self’ | Kaz Research | [Read More](https://medium.com/p/8916a137776f) |
-| Sun, 04 May 2025 09:07:27 GMT | OSINT Combine CTFD — Challenge: Get Rotated! | rootsechax | [Read More](https://medium.com/p/ce802f596502) |
-| Sun, 04 May 2025 09:03:51 GMT | Modest Payouts, Major Payoff: 4 IDORs That Netted $12K | Ashutosh Dutta | [Read More](https://medium.com/p/64f4ab6754c0) |
-| Sun, 04 May 2025 09:00:07 GMT | Building Our Security Scanner Automation: From a Task to a Culture | Bennoli13 | [Read More](https://medium.com/p/5489cd02c311) |
-| Sun, 04 May 2025 08:55:48 GMT | When Do I Feel Vulnerable? (And Why That Matters in Love) | KH | [Read More](https://medium.com/p/34222e90d0c4) |
