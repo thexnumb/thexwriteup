@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 20:32:23 GMT | CVE, CWE and NVD | Luis Soto | [Read More](https://medium.com/p/82bb90b226f6) |
+| Sun, 04 May 2025 20:26:37 GMT | Path Traversal Techniques | musayyab sharif | [Read More](https://medium.com/p/26ae250a3907) |
+| Sun, 04 May 2025 20:12:46 GMT | Llama: The AI At Everyone’s Fingertip | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/1224ab273eca) |
+| Sun, 04 May 2025 20:11:09 GMT | Why Many Countries in Africa Are Lagging in IT and Cybersecurity? | ERP Today | [Read More](https://medium.com/p/a8a0ba92ab38) |
 | Sun, 04 May 2025 20:06:46 GMT | Applying First Principles Thinking to Cybersecurity | K3e9X | [Read More](https://medium.com/p/286f02432290) |
 | Sun, 04 May 2025 20:02:52 GMT | The Risk Brought by Renewable Energy: What Happened in Europe, What Should We Learn? | Mustafa Ergen | [Read More](https://medium.com/p/b8c92d961ef0) |
 | Sun, 04 May 2025 19:54:46 GMT | VAAL: Vulnerability Assessment Automation using LLMs | Sandeep Egalapati | [Read More](https://medium.com/p/a4485b98c7bd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 12:51:38 GMT | 5 Essential Best Practices to Secure Web Applications | Nitin Kumar | [Read More](https://medium.com/p/206bea4bf990) |
 | Sun, 04 May 2025 12:33:57 GMT | Scanning Direct Vulnerabilities in Spring Boot Dependencies with OSV-Scanner ? - Part 6 | Raşit Eşdemir | [Read More](https://medium.com/p/63bac666426b) |
 | Sun, 04 May 2025 12:32:52 GMT | ️ Web3 Security Weekly Digest — April 28–May 4, 2025 | Null Return | [Read More](https://medium.com/p/3aed05631c80) |
-| Sun, 04 May 2025 12:32:39 GMT | Hacking the Hackers: Inside the World of Honeypots and Cyber Deception | An0n | [Read More](https://medium.com/p/ba83ffcf133e) |
-| Sun, 04 May 2025 12:30:09 GMT | Beautiful open redirect on Google.com | Biswajeet Ray | [Read More](https://medium.com/p/752c98a80b7d) |
-| Sun, 04 May 2025 12:28:35 GMT | The Cybersecurity-AI Nexus: Opportunities and Risks | Ninza-_-Boi | [Read More](https://medium.com/p/b9fcb223af88) |
-| Sun, 04 May 2025 12:25:46 GMT | Why Has Humanity Never Invented the S System? | Leeahandfulofhope | [Read More](https://medium.com/p/750ecd614a78) |
