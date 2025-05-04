@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 21:34:51 GMT | Hacking in 2025: Where to Start & What to Learn? | Inside Garuda | [Read More](https://medium.com/p/5c6831677008) |
+| Sun, 04 May 2025 21:32:33 GMT | How AI-Powered Cybersecurity is Changing the Game for Startups | Secure Startups LLC | [Read More](https://medium.com/p/c1488fa893cc) |
+| Sun, 04 May 2025 21:25:33 GMT | Building Your Own HMAC-Signed Double-Submit CSRF | Ali nazari | [Read More](https://medium.com/p/52204a96ef64) |
+| Sun, 04 May 2025 21:19:02 GMT | Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey | Ismail Tasdelen | [Read More](https://medium.com/p/4673d1192389) |
 | Sun, 04 May 2025 21:03:40 GMT | CIA TRİADI NEDİR? | Esma Yetiş | [Read More](https://medium.com/p/cbd22fb0dc4f) |
 | Sun, 04 May 2025 21:01:50 GMT | Beginner SOC Analyst Project: Building an Email Analyzer for Suspicious Emails | Dharit Thakkar | [Read More](https://medium.com/p/dddd40951f6b) |
 | Sun, 04 May 2025 20:50:17 GMT | The Torture of Vulnerability | Tina Marie | [Read More](https://medium.com/p/7ff82ca6f4b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 13:45:20 GMT | The Resistance Front: Behind Pakistan’s New Terror Strategy in Kashmir | Shaumik | [Read More](https://medium.com/p/e4280a89d95d) |
 | Sun, 04 May 2025 13:30:28 GMT | Privilege Escalation Vulnerabilities Explained with Examples and Exploits | Pawan Jaiswal | [Read More](https://medium.com/p/577e4a54d0e8) |
 | Sun, 04 May 2025 13:29:10 GMT | Sleep Cycles: The Science Behind and How to Hack Yours | Somdeb Paul | [Read More](https://medium.com/p/6c26b7be19d0) |
-| Sun, 04 May 2025 13:26:46 GMT | Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack | Jiniyaasma | [Read More](https://medium.com/p/973933309657) |
-| Sun, 04 May 2025 13:23:56 GMT | A Basic Guide to Fuzzing with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/f0619ce0bff4) |
-| Sun, 04 May 2025 13:14:22 GMT | What the Bible Can Teach Us About Cybersecurity: False Prophets, Baselines, and the Battle for… | Cyber Lee | [Read More](https://medium.com/p/e1ddfabfc2fb) |
-| Sun, 04 May 2025 13:10:12 GMT | Security in the Multi-Cloud World | Ed-it Editions | [Read More](https://medium.com/p/c69d0c85e347) |
