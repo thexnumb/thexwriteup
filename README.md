@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 08:16:09 GMT | How to Install MobSF on Kali Linux Using Podman (No Docker Needed) | Rishi Patidar | [Read More](https://medium.com/p/4ea7c0f6bf7f) |
+| Sun, 04 May 2025 08:10:06 GMT | React Native Mastery: Develop Your Own Mobile App | Shivam Thakur | [Read More](https://medium.com/p/689b0573c31c) |
+| Sun, 04 May 2025 08:06:27 GMT | A Tech Maker’s Guide to Implementing Zero Trust Architecture: 5 Practical Steps to Secure Your… | Nayak Satya | [Read More](https://medium.com/p/5e9e2591406b) |
+| Sun, 04 May 2025 08:06:01 GMT | How Attackers Are Outsmarting AI Security Systems: The Hidden World of Adversarial Machine Learning | Vikrant Dheer | [Read More](https://medium.com/p/b4d3fc48cce7) |
+| Sun, 04 May 2025 08:05:24 GMT | Certified Ethical Hacker Study Notes & Practice Tests | Motasem Hamdan | [Read More](https://medium.com/p/555627c8fe45) |
+| Sun, 04 May 2025 08:03:05 GMT | Understanding Log Analysis and Monitoring Commands as a Beginner | unica 02 | [Read More](https://medium.com/p/4cfd1a5cfe48) |
+| Sun, 04 May 2025 07:51:18 GMT | Top 4 Practical and Powerful Applications of Machine Learning with Python | Mohammad Hossein Moghadasi | [Read More](https://medium.com/p/988ea0f7e647) |
+| Sun, 04 May 2025 07:49:38 GMT | Model Armor with Sensitive Data Protection to Safeguard GenAI Applications | Kapil Gupta | [Read More](https://medium.com/p/86278844ed52) |
+| Sun, 04 May 2025 07:39:35 GMT | Agentic AI Protocols and Risk Mitigations in Cybersecurity Architectures | Keith Iron | [Read More](https://medium.com/p/3bea702d663a) |
+| Sun, 04 May 2025 07:33:12 GMT | Subdomain Surfing to Server Secrets  — How I Took Over a Forgotten Subdomain | Iski | [Read More](https://medium.com/p/4e9b1147f880) |
 | Sun, 04 May 2025 07:24:54 GMT | Why Most ‘Secure’ AWS Setups Fail a Real Penetration Test | Sajjad Hussain | [Read More](https://medium.com/p/bf6473585467) |
 | Sun, 04 May 2025 07:14:59 GMT | Unlocking the Power of Cyber Threat Intelligence with Arachne Digital | Arachne Digital | [Read More](https://medium.com/p/f90332f03f8c) |
 | Sun, 04 May 2025 07:08:20 GMT | Embracing Vulnerability — A Lesson in Growth | @TheUnseenLeader | [Read More](https://medium.com/p/31f6fcbd75d0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 20:26:38 GMT | Embrace Comfort with Momcozy Swaddle Blankets | Popescilti | [Read More](https://medium.com/p/251822e65b10) |
 | Sat, 03 May 2025 20:13:53 GMT | Hack The Box Academy — Network Foundations — Components of a Network | bl77rd | [Read More](https://medium.com/p/77b64477990c) |
 | Sat, 03 May 2025 20:03:11 GMT | Palo Alto Firewall: Protection Profiles for Zones and DoS Attacks | Vivek Mishra | [Read More](https://medium.com/p/67050fca62fd) |
-| Sat, 03 May 2025 19:54:07 GMT | Fact Check: Viral Pulwama Attack Video Is Actually from 2007 Iraq Bombing | Intelligent rose | [Read More](https://medium.com/p/773098007d32) |
-| Sat, 03 May 2025 19:52:22 GMT | On Being Seen: Black Love, Vulnerability, and the Weight of Masculinity in Open Water by Caleb… | ephemeral chronicles | [Read More](https://medium.com/p/9eefb89d59d9) |
-| Sat, 03 May 2025 19:38:38 GMT | How AI is Transforming Identity and Access Management: Smarter Security for a Digital Future | Kaveeshapiumini | [Read More](https://medium.com/p/da2f8577792a) |
-| Sat, 03 May 2025 19:36:07 GMT | SSTI ve CSTI: Siber Güvenlikteki Sessiz Tehditler | Muhammet Yasin Ağzıkuru | [Read More](https://medium.com/p/cd8c3681c0d4) |
-| Sat, 03 May 2025 19:31:32 GMT | Zero Trust in Practice: How IBM Implements It Globally | Original bee | [Read More](https://medium.com/p/9059ea7c494f) |
-| Sat, 03 May 2025 19:31:31 GMT | SQL Injection Nedir? Güvenli Backend Geliştirmenin Temelleri | Furkan YOLCU | [Read More](https://medium.com/p/11418cafb906) |
-| Sat, 03 May 2025 19:15:57 GMT | You Won’t Believe These 10 Weird Tech Inventions That Actually Exist! | Narmeen Feyli | [Read More](https://medium.com/p/595d3b8c0c49) |
-| Sat, 03 May 2025 19:11:20 GMT | 7 Common Tech Myths People Still Believe | Narmeen Feyli | [Read More](https://medium.com/p/e84a71e419a7) |
-| Sat, 03 May 2025 19:11:15 GMT | The Overlooked Cybersecurity Risk: How Version Control Issues and Social Engineering Enable Supply… | Jeffrey Nickle | [Read More](https://medium.com/p/ba7fb4be34c2) |
-| Sat, 03 May 2025 19:00:28 GMT | Cybersecurity(Beginners Guide) | Abiolaoluwatuyi | [Read More](https://medium.com/p/aeb629b15fc1) |
