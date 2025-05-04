@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 23:17:03 GMT | HackTheBox - UpDown | jniket | [Read More](https://medium.com/p/f25fce332352) |
+| Sun, 04 May 2025 23:16:25 GMT | The Red Teaming: 30-Day Challenge[21] | Bl@ckC!pH3r | [Read More](https://medium.com/p/def1cfcaf7f3) |
+| Sun, 04 May 2025 23:02:27 GMT | LetsDefend — Windows Registry Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/a905b3f24fee) |
+| Sun, 04 May 2025 22:52:48 GMT | How to Earn Passive Income with Bugs Bunny $BUGS Rewards | Benjamin
+ Lucas | [Read More](https://medium.com/p/7cd04c46d503) |
+| Sun, 04 May 2025 22:48:49 GMT | Securing the Cloud with Ease: The Power of Agentless Defender for Cloud | Shivaprasad Narayana | [Read More](https://medium.com/p/af9c3906e5e6) |
+| Sun, 04 May 2025 22:41:32 GMT | Recovery Made Easy With James… | Jenny Kyle | [Read More](https://medium.com/p/5daec2ae63a8) |
+| Sun, 04 May 2025 22:36:57 GMT | Why Dev Environments Should Never Be Public & What Happens When They’re Forgotten | BatuKapicioglu | [Read More](https://medium.com/p/8d955d1f489b) |
+| Sun, 04 May 2025 22:34:07 GMT | Explaining a Warm Standby Disaster Recovery Architecture on AWS | Akuphe Dieudonne | [Read More](https://medium.com/p/6858039c6a09) |
 | Sun, 04 May 2025 22:16:34 GMT | How to Implement a SIEM Solution in Your Organization: A Practical Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5b59394e3e48) |
 | Sun, 04 May 2025 22:14:42 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL’s Innovative Solutions | Cemkaraismailoglu | [Read More](https://medium.com/p/8932947dc18e) |
 | Sun, 04 May 2025 22:09:50 GMT | Performing SQL Injection with Burp Suite and sqlmap on DVWA | Alpondith | [Read More](https://medium.com/p/c3cabb00c287) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 14:49:07 GMT | One Request Too Many: Understanding and Surviving DoS & DDoS Attacks | Santhosh | [Read More](https://medium.com/p/5e337817aeb1) |
 | Sun, 04 May 2025 14:44:23 GMT | Why Red Teaming Is the Secret Weapon CISOs Need in 2025 | Mehak kamra | [Read More](https://medium.com/p/55e55262a8c5) |
 | Sun, 04 May 2025 14:44:04 GMT | Vibe Coding: The GenAI Hustle & How Not to Leak Your Company’s Secrets | yzw.joel | [Read More](https://medium.com/p/d085316ab685) |
-| Sun, 04 May 2025 14:38:43 GMT | It’s Not ClickBait — Trust me | Yao Thompson | [Read More](https://medium.com/p/2410011c2174) |
-| Sun, 04 May 2025 14:28:05 GMT | 7 Windows Server Defaults You Should Change Right After Installation | Faruk Ahmed | [Read More](https://medium.com/p/310e56fee2a1) |
-| Sun, 04 May 2025 14:26:05 GMT | WİNDOWS 10’UN SONU YAKLAŞIYOR: DEVAM MI, DEĞİŞİM Mİ? | Beyza Nur Ozanalp | [Read More](https://medium.com/p/d8a52549e514) |
-| Sun, 04 May 2025 14:24:40 GMT | Welcome to Cyber Hype! | Cyber Hype | [Read More](https://medium.com/p/a09ba98014ca) |
-| Sun, 04 May 2025 14:18:20 GMT | What are JSON Web Tokens? | Mark Achiles G. Flores Jr. | [Read More](https://medium.com/p/7f1bb3963b74) |
-| Sun, 04 May 2025 14:15:31 GMT | Common Web Attacks and Detection Techniques | Sahil Dherange | [Read More](https://medium.com/p/7eaa7780b945) |
-| Sun, 04 May 2025 14:14:33 GMT | Python Security Best Practices: A Guide for DevOps Engineers | Lalit Sharma | [Read More](https://medium.com/p/df3015a3b30b) |
-| Sun, 04 May 2025 14:11:53 GMT | MQTT (Message Queuing Telemetry Transport) — Port 1883 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/3ee2f6510bf4) |
