@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 13:30:28 GMT | Privilege Escalation Vulnerabilities Explained with Examples and Exploits | Pawan Jaiswal | [Read More](https://medium.com/p/577e4a54d0e8) |
+| Sun, 04 May 2025 13:29:10 GMT | Sleep Cycles: The Science Behind and How to Hack Yours | Somdeb Paul | [Read More](https://medium.com/p/6c26b7be19d0) |
+| Sun, 04 May 2025 13:26:46 GMT | Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack | Jiniyaasma | [Read More](https://medium.com/p/973933309657) |
 | Sun, 04 May 2025 13:23:56 GMT | A Basic Guide to Fuzzing with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/f0619ce0bff4) |
 | Sun, 04 May 2025 13:14:22 GMT | What the Bible Can Teach Us About Cybersecurity: False Prophets, Baselines, and the Battle for… | Cyber Lee | [Read More](https://medium.com/p/e1ddfabfc2fb) |
 | Sun, 04 May 2025 13:10:12 GMT | Security in the Multi-Cloud World | Ed-it Editions | [Read More](https://medium.com/p/c69d0c85e347) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 04:51:48 GMT | Bukan Cuma Hacker: Ternyata Gini Cara Website Bisa Diretas (dan Mungkin Punyamu Juga) | handev.code | [Read More](https://medium.com/p/229db3e2fbaa) |
 | Sun, 04 May 2025 04:44:35 GMT | Vulnerability | Brittany Martin | [Read More](https://medium.com/p/27ba71b25da9) |
 | Sun, 04 May 2025 04:35:58 GMT | Using VirusTotal Graphs and Retro Hunt for IOC Discovery | Paritosh | [Read More](https://medium.com/p/d1c4b4e209b4) |
-| Sun, 04 May 2025 04:25:00 GMT | Ransomware Warning Signals - Lessons from the hellcat Attack | Avnishyam | [Read More](https://medium.com/p/758fd41715e2) |
-| Sun, 04 May 2025 04:23:28 GMT | Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey | Mohsin khan | [Read More](https://medium.com/p/bae8a5418461) |
-| Sun, 04 May 2025 04:08:16 GMT | Comprehensive Analysis of INFORMATION SECURITY Auditing Standards and Models from Academic Papers | Jadala Ajay | [Read More](https://medium.com/p/ab99162c3c9d) |
