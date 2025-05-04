@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 07:24:54 GMT | Why Most ‘Secure’ AWS Setups Fail a Real Penetration Test | Sajjad Hussain | [Read More](https://medium.com/p/bf6473585467) |
 | Sun, 04 May 2025 07:14:59 GMT | Unlocking the Power of Cyber Threat Intelligence with Arachne Digital | Arachne Digital | [Read More](https://medium.com/p/f90332f03f8c) |
 | Sun, 04 May 2025 07:08:20 GMT | Embracing Vulnerability — A Lesson in Growth | @TheUnseenLeader | [Read More](https://medium.com/p/31f6fcbd75d0) |
 | Sun, 04 May 2025 07:03:12 GMT | Download Google Chrome: The Fast, Secure, and Reliable Browser You Need Today | Digi Web Story | [Read More](https://medium.com/p/03e9d6710077) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 19:11:20 GMT | 7 Common Tech Myths People Still Believe | Narmeen Feyli | [Read More](https://medium.com/p/e84a71e419a7) |
 | Sat, 03 May 2025 19:11:15 GMT | The Overlooked Cybersecurity Risk: How Version Control Issues and Social Engineering Enable Supply… | Jeffrey Nickle | [Read More](https://medium.com/p/ba7fb4be34c2) |
 | Sat, 03 May 2025 19:00:28 GMT | Cybersecurity(Beginners Guide) | Abiolaoluwatuyi | [Read More](https://medium.com/p/aeb629b15fc1) |
-| Sat, 03 May 2025 18:58:53 GMT | The Silent Threat: Understanding Infostealer Malware and How to Protect Yourself | Aniket Tegginamath | [Read More](https://medium.com/p/7e9a5e0644b6) |
