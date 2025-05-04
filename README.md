@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 22:09:50 GMT | Performing SQL Injection with Burp Suite and sqlmap on DVWA | Alpondith | [Read More](https://medium.com/p/c3cabb00c287) |
+| Sun, 04 May 2025 22:01:12 GMT | How Being Too Nice Can Cost You $4.45 Million: The Real Game of Social Engineering | Amit kumar | [Read More](https://medium.com/p/bc05d2001b34) |
+| Sun, 04 May 2025 21:57:21 GMT | The Optimistic Overthinker | Poonam Bhandari | [Read More](https://medium.com/p/a53f1daccae7) |
+| Sun, 04 May 2025 21:57:18 GMT | NIST AI RMF Sect. 3: Trustworthiness | David Scott | [Read More](https://medium.com/p/9b4bbb0954e3) |
+| Sun, 04 May 2025 21:48:21 GMT | Stuxnet: The World’s First Cyber Weapon | E. Ibrahimi | [Read More](https://medium.com/p/95ddf5ee2567) |
 | Sun, 04 May 2025 21:34:51 GMT | Hacking in 2025: Where to Start & What to Learn? | Inside Garuda | [Read More](https://medium.com/p/5c6831677008) |
+| Sun, 04 May 2025 21:33:22 GMT | How I Found an Exposed debug/pprof/ Endpoint on a Google Subdomain and Earned $1337 | Ali Hassan Khan | [Read More](https://medium.com/p/85a1d92a0bcd) |
 | Sun, 04 May 2025 21:32:33 GMT | How AI-Powered Cybersecurity is Changing the Game for Startups | Secure Startups LLC | [Read More](https://medium.com/p/c1488fa893cc) |
 | Sun, 04 May 2025 21:25:33 GMT | Building Your Own HMAC-Signed Double-Submit CSRF | Ali nazari | [Read More](https://medium.com/p/52204a96ef64) |
 | Sun, 04 May 2025 21:19:02 GMT | Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey | Ismail Tasdelen | [Read More](https://medium.com/p/4673d1192389) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 14:11:53 GMT | MQTT (Message Queuing Telemetry Transport) — Port 1883 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/3ee2f6510bf4) |
 | Sun, 04 May 2025 14:10:49 GMT | CLOUD OSINT | rr-1k | [Read More](https://medium.com/p/0e259c256008) |
 | Sun, 04 May 2025 14:06:31 GMT | How I Found My Favorite Bug in a Top Bug Bounty Program | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/bbeb36e898f8) |
-| Sun, 04 May 2025 13:52:51 GMT | XSS Part — 11 : Reflected DOM XSS | Ahmad Sopyan | [Read More](https://medium.com/p/eb0c5b410075) |
-| Sun, 04 May 2025 13:50:45 GMT | Day 25: Web Cache Deception — Tricking Caches to Leak Secrets ️‍♂️ | Agarwaldaksh | [Read More](https://medium.com/p/c4100a693b97) |
-| Sun, 04 May 2025 13:47:43 GMT | Cybersecurity | Kunshdbansal | [Read More](https://medium.com/p/d2c48e2ff7b6) |
-| Sun, 04 May 2025 13:45:20 GMT | The Resistance Front: Behind Pakistan’s New Terror Strategy in Kashmir | Shaumik | [Read More](https://medium.com/p/e4280a89d95d) |
-| Sun, 04 May 2025 13:30:28 GMT | Privilege Escalation Vulnerabilities Explained with Examples and Exploits | Pawan Jaiswal | [Read More](https://medium.com/p/577e4a54d0e8) |
-| Sun, 04 May 2025 13:29:10 GMT | Sleep Cycles: The Science Behind and How to Hack Yours | Somdeb Paul | [Read More](https://medium.com/p/6c26b7be19d0) |
