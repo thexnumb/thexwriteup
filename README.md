@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 13:23:56 GMT | A Basic Guide to Fuzzing with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/f0619ce0bff4) |
+| Sun, 04 May 2025 13:14:22 GMT | What the Bible Can Teach Us About Cybersecurity: False Prophets, Baselines, and the Battle for… | Cyber Lee | [Read More](https://medium.com/p/e1ddfabfc2fb) |
+| Sun, 04 May 2025 13:10:12 GMT | Security in the Multi-Cloud World | Ed-it Editions | [Read More](https://medium.com/p/c69d0c85e347) |
+| Sun, 04 May 2025 13:01:03 GMT | “AI Security in Business: How to Stay Protected Without Losing Sleep” | Geni Tech | [Read More](https://medium.com/p/15280016b871) |
+| Sun, 04 May 2025 12:51:38 GMT | 5 Essential Best Practices to Secure Web Applications | Nitin Kumar | [Read More](https://medium.com/p/206bea4bf990) |
+| Sun, 04 May 2025 12:33:57 GMT | Scanning Direct Vulnerabilities in Spring Boot Dependencies with OSV-Scanner ? - Part 6 | Raşit Eşdemir | [Read More](https://medium.com/p/63bac666426b) |
 | Sun, 04 May 2025 12:32:52 GMT | ️ Web3 Security Weekly Digest — April 28–May 4, 2025 | Null Return | [Read More](https://medium.com/p/3aed05631c80) |
 | Sun, 04 May 2025 12:32:39 GMT | Hacking the Hackers: Inside the World of Honeypots and Cyber Deception | An0n | [Read More](https://medium.com/p/ba83ffcf133e) |
+| Sun, 04 May 2025 12:30:09 GMT | Beautiful open redirect on Google.com | Biswajeet Ray | [Read More](https://medium.com/p/752c98a80b7d) |
 | Sun, 04 May 2025 12:28:35 GMT | The Cybersecurity-AI Nexus: Opportunities and Risks | Ninza-_-Boi | [Read More](https://medium.com/p/b9fcb223af88) |
 | Sun, 04 May 2025 12:25:46 GMT | Why Has Humanity Never Invented the S System? | Leeahandfulofhope | [Read More](https://medium.com/p/750ecd614a78) |
 | Sun, 04 May 2025 12:20:47 GMT | Patterns are changing. | samba | [Read More](https://medium.com/p/83767e39e88e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 04:25:00 GMT | Ransomware Warning Signals - Lessons from the hellcat Attack | Avnishyam | [Read More](https://medium.com/p/758fd41715e2) |
 | Sun, 04 May 2025 04:23:28 GMT | Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey | Mohsin khan | [Read More](https://medium.com/p/bae8a5418461) |
 | Sun, 04 May 2025 04:08:16 GMT | Comprehensive Analysis of INFORMATION SECURITY Auditing Standards and Models from Academic Papers | Jadala Ajay | [Read More](https://medium.com/p/ab99162c3c9d) |
-| Sun, 04 May 2025 04:03:56 GMT | What is 3DS and Why Does It Matter for Payment Security? | Satoka Sotome | [Read More](https://medium.com/p/6a336ccad387) |
-| Sun, 04 May 2025 03:50:47 GMT | How VPNs Facilitate Secure Remote Access | James Neal | [Read More](https://medium.com/p/35e83e80122b) |
-| Sun, 04 May 2025 03:46:07 GMT | Mastering Event Handlers in JavaScript and HTML: The Complete Guide with Examples | Zoningxtr | [Read More](https://medium.com/p/60ef2c4d025b) |
-| Sun, 04 May 2025 03:45:43 GMT | The Ultimate In Digital Protection: Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/0b5a5639a10d) |
-| Sun, 04 May 2025 03:45:03 GMT | Exploring the Future of Secure Storage Wallets with ELLIPAL | Fy | [Read More](https://medium.com/p/e8fd6504edcb) |
-| Sun, 04 May 2025 03:42:24 GMT | Anonforce — TryHackMe —   CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/946186ca4caa) |
-| Sun, 04 May 2025 03:35:38 GMT | Burnout in the SOC Is Real — And It’s a CISO’s Problem to Solve | Cyber-AppSec | [Read More](https://medium.com/p/7949500a6ace) |
