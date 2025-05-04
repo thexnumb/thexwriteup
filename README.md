@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 08:22:09 GMT | Cyber Crime and Its Solutions | ParagGodbole | [Read More](https://medium.com/p/bda4fb4d0da3) |
 | Sun, 04 May 2025 08:16:09 GMT | How to Install MobSF on Kali Linux Using Podman (No Docker Needed) | Rishi Patidar | [Read More](https://medium.com/p/4ea7c0f6bf7f) |
 | Sun, 04 May 2025 08:10:06 GMT | React Native Mastery: Develop Your Own Mobile App | Shivam Thakur | [Read More](https://medium.com/p/689b0573c31c) |
 | Sun, 04 May 2025 08:06:27 GMT | A Tech Maker’s Guide to Implementing Zero Trust Architecture: 5 Practical Steps to Secure Your… | Nayak Satya | [Read More](https://medium.com/p/5e9e2591406b) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 20:31:40 GMT | JWT-Based Stateless Authentication for Microservices: A Complete Guide | Shubham Kumbhar | [Read More](https://medium.com/p/745f17c70b1e) |
 | Sat, 03 May 2025 20:26:38 GMT | Embrace Comfort with Momcozy Swaddle Blankets | Popescilti | [Read More](https://medium.com/p/251822e65b10) |
 | Sat, 03 May 2025 20:13:53 GMT | Hack The Box Academy — Network Foundations — Components of a Network | bl77rd | [Read More](https://medium.com/p/77b64477990c) |
-| Sat, 03 May 2025 20:03:11 GMT | Palo Alto Firewall: Protection Profiles for Zones and DoS Attacks | Vivek Mishra | [Read More](https://medium.com/p/67050fca62fd) |
