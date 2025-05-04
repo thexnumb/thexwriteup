@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 02:56:36 GMT | The IoT-CPS Connection: A Partnership for Today & The Future | Data Defendere | [Read More](https://medium.com/p/b1a5d99ab0c2) |
+| Sun, 04 May 2025 02:32:24 GMT | Simplifying Kubernetes Networking with Linkerd in AKS | Sridhar | [Read More](https://medium.com/p/24ce8160bb88) |
+| Sun, 04 May 2025 02:21:31 GMT | Mastering Boundary Value Analysis: Guide to Uncovering Hidden Bugs | sajith dilshan | [Read More](https://medium.com/p/4eb58b43899b) |
+| Sun, 04 May 2025 02:02:43 GMT | AWS Cloud SOC Monitoring: Attack Detection & Response | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/045968e58ab4) |
+| Sun, 04 May 2025 01:44:25 GMT | TryHackMe: Anonymous | Milton Hernandez | [Read More](https://medium.com/p/14afa9b5129b) |
 | Sun, 04 May 2025 01:34:53 GMT | ️‍♂️ The Phantom Update: How One Routine Software Patch Nearly Destroyed X Business | Noel | [Read More](https://medium.com/p/455adddd731c) |
 | Sun, 04 May 2025 01:34:27 GMT | $505 Bounty: Denial of Service Vulnerability | Monika sharma | [Read More](https://medium.com/p/bd6daef5fe8a) |
 | Sun, 04 May 2025 01:34:05 GMT | The Future of Cybersecurity | Ahmad Javed | [Read More](https://medium.com/p/6c6b4378b907) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 15:04:57 GMT | Malware Detection — Strategi Teknis untuk Deteksi dan Mitigasi Ancaman | Sigit Adi Irianto | [Read More](https://medium.com/p/ffde75a55e52) |
 | Sat, 03 May 2025 14:58:54 GMT | Why Cybersecurity Matters in 2025 | Diyarokadia | [Read More](https://medium.com/p/5b21a0aa793b) |
 | Sat, 03 May 2025 14:56:14 GMT | Brute Force Attack: Cara SIEM Menangkal Serangan Password Cracking dengan Cerdas | Sigit Adi Irianto | [Read More](https://medium.com/p/a01523f6eb23) |
-| Sat, 03 May 2025 14:40:01 GMT | Malicious Go Modules Unleash Disk-Wiping Chaos in Supply Chain Attack | Ismail Tasdelen | [Read More](https://medium.com/p/ee5dd4ef70f6) |
-| Sat, 03 May 2025 14:37:45 GMT | Mastering Incident Response: Practical Insights and Strategies — Women in CyberSecurity Conference… | Meera Tamboli | [Read More](https://medium.com/p/eb1950012392) |
-| Sat, 03 May 2025 14:37:16 GMT | Iranian Hackers’ Two-Year Stealth Mission in Middle East CNI ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/0fa9414d1266) |
-| Sat, 03 May 2025 14:33:00 GMT | Adversarial Machine Learning in Cybersecurity: The Next Battlefield | ab | [Read More](https://medium.com/p/17894cc62ae8) |
-| Sat, 03 May 2025 14:32:29 GMT | Day 24: OverTheWire Bandit Walkthrough: Levels 6 → 11 | Agarwaldaksh | [Read More](https://medium.com/p/2ea1a785fd7c) |
