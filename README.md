@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 14:06:31 GMT | How I Found My Favorite Bug in a Top Bug Bounty Program | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/bbeb36e898f8) |
+| Sun, 04 May 2025 13:52:51 GMT | XSS Part — 11 : Reflected DOM XSS | Ahmad Sopyan | [Read More](https://medium.com/p/eb0c5b410075) |
+| Sun, 04 May 2025 13:50:45 GMT | Day 25: Web Cache Deception — Tricking Caches to Leak Secrets ️‍♂️ | Agarwaldaksh | [Read More](https://medium.com/p/c4100a693b97) |
+| Sun, 04 May 2025 13:47:43 GMT | Cybersecurity | Kunshdbansal | [Read More](https://medium.com/p/d2c48e2ff7b6) |
+| Sun, 04 May 2025 13:45:20 GMT | The Resistance Front: Behind Pakistan’s New Terror Strategy in Kashmir | Shaumik | [Read More](https://medium.com/p/e4280a89d95d) |
 | Sun, 04 May 2025 13:30:28 GMT | Privilege Escalation Vulnerabilities Explained with Examples and Exploits | Pawan Jaiswal | [Read More](https://medium.com/p/577e4a54d0e8) |
 | Sun, 04 May 2025 13:29:10 GMT | Sleep Cycles: The Science Behind and How to Hack Yours | Somdeb Paul | [Read More](https://medium.com/p/6c26b7be19d0) |
 | Sun, 04 May 2025 13:26:46 GMT | Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack | Jiniyaasma | [Read More](https://medium.com/p/973933309657) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 05:19:05 GMT | Securing PostgreSQL: Best Practices for User & Database Setup | Rizqi Mulki | [Read More](https://medium.com/p/3a13c71e9f82) |
 | Sun, 04 May 2025 05:16:22 GMT | Malware Analysis network lab setup part 2 switch | Ruben | [Read More](https://medium.com/p/cc36a58dbe5c) |
 | Sun, 04 May 2025 05:11:18 GMT | Cybersecurity Trends 2025: What Every C-Suite Leader Needs to Know | SapidBlue | [Read More](https://medium.com/p/b8b28d3edb81) |
-| Sun, 04 May 2025 04:57:39 GMT | Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/5138464ec051) |
-| Sun, 04 May 2025 04:55:45 GMT | # Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/f14bbe3e2d01) |
-| Sun, 04 May 2025 04:51:48 GMT | Bukan Cuma Hacker: Ternyata Gini Cara Website Bisa Diretas (dan Mungkin Punyamu Juga) | handev.code | [Read More](https://medium.com/p/229db3e2fbaa) |
-| Sun, 04 May 2025 04:44:35 GMT | Vulnerability | Brittany Martin | [Read More](https://medium.com/p/27ba71b25da9) |
-| Sun, 04 May 2025 04:35:58 GMT | Using VirusTotal Graphs and Retro Hunt for IOC Discovery | Paritosh | [Read More](https://medium.com/p/d1c4b4e209b4) |
