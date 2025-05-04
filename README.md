@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 03:46:07 GMT | Mastering Event Handlers in JavaScript and HTML: The Complete Guide with Examples | Zoningxtr | [Read More](https://medium.com/p/60ef2c4d025b) |
+| Sun, 04 May 2025 03:45:03 GMT | Exploring the Future of Secure Storage Wallets with ELLIPAL | Fy | [Read More](https://medium.com/p/e8fd6504edcb) |
+| Sun, 04 May 2025 03:42:24 GMT | Anonforce — TryHackMe —   CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/946186ca4caa) |
+| Sun, 04 May 2025 03:35:38 GMT | Burnout in the SOC Is Real — And It’s a CISO’s Problem to Solve | Cyber-AppSec | [Read More](https://medium.com/p/7949500a6ace) |
+| Sun, 04 May 2025 03:34:02 GMT | Top 10 Security Threats in AI Agents and How to Defend Against Them | Shiam Beeharry | [Read More](https://medium.com/p/56622f2f5d48) |
+| Sun, 04 May 2025 03:23:55 GMT | Web Security & Bug Bounty: Learn Penetration Testing — Chapter 2 | Riki SatyaGraha | [Read More](https://medium.com/p/46414fc762a4) |
+| Sun, 04 May 2025 03:18:27 GMT | Where To Buy Flash Usdt And Btc Online, Visit Globalflashco.com | globalcoin | [Read More](https://medium.com/p/e7bc3551fd4c) |
 | Sun, 04 May 2025 02:56:36 GMT | The IoT-CPS Connection: A Partnership for Today & The Future | Data Defendere | [Read More](https://medium.com/p/b1a5d99ab0c2) |
 | Sun, 04 May 2025 02:32:24 GMT | Simplifying Kubernetes Networking with Linkerd in AKS | Sridhar | [Read More](https://medium.com/p/24ce8160bb88) |
 | Sun, 04 May 2025 02:21:31 GMT | Mastering Boundary Value Analysis: Guide to Uncovering Hidden Bugs | sajith dilshan | [Read More](https://medium.com/p/4eb58b43899b) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 صیغه بهبهان صیغه مشگین… | حاجی طباطبای | [Read More](https://medium.com/p/1f2954e0248c) |
 | Sat, 03 May 2025 15:37:56 GMT | Real-World Assets (RWAs) in Web3 | Adesua Adedamola - WAYVSMAKER | [Read More](https://medium.com/p/2dd4e054c15c) |
 | Sat, 03 May 2025 15:28:34 GMT | Types of Malware: Understanding the Threats Lurking in the Digital World | Batu Ada Tutkun | [Read More](https://medium.com/p/c5544afc2fa6) |
-| Sat, 03 May 2025 15:27:55 GMT | 3v@l - Writeup | Marvin | [Read More](https://medium.com/p/41363b65767d) |
-| Sat, 03 May 2025 15:19:29 GMT | will you still love me if i’m vulnerable? | aerie ৎ | [Read More](https://medium.com/p/64124636c296) |
-| Sat, 03 May 2025 15:14:20 GMT | Data Exfiltration Detection — Strategi Teknis untuk Mencegah Kebocoran Data | Sigit Adi Irianto | [Read More](https://medium.com/p/e42e4b77bd94) |
-| Sat, 03 May 2025 15:13:19 GMT | Building Trust Between Microservices: Our mTLS Journey | Kamesh Ayachit | [Read More](https://medium.com/p/03b7ff1ec408) |
-| Sat, 03 May 2025 15:04:57 GMT | Malware Detection — Strategi Teknis untuk Deteksi dan Mitigasi Ancaman | Sigit Adi Irianto | [Read More](https://medium.com/p/ffde75a55e52) |
-| Sat, 03 May 2025 14:58:54 GMT | Why Cybersecurity Matters in 2025 | Diyarokadia | [Read More](https://medium.com/p/5b21a0aa793b) |
-| Sat, 03 May 2025 14:56:14 GMT | Brute Force Attack: Cara SIEM Menangkal Serangan Password Cracking dengan Cerdas | Sigit Adi Irianto | [Read More](https://medium.com/p/a01523f6eb23) |
