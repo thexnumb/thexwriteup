@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 14:26:05 GMT | WİNDOWS 10’UN SONU YAKLAŞIYOR: DEVAM MI, DEĞİŞİM Mİ? | Beyza Nur Ozanalp | [Read More](https://medium.com/p/d8a52549e514) |
+| Sun, 04 May 2025 14:24:40 GMT | Welcome to Cyber Hype! | Cyber Hype | [Read More](https://medium.com/p/a09ba98014ca) |
+| Sun, 04 May 2025 14:18:20 GMT | What are JSON Web Tokens? | Mark Achiles G. Flores Jr. | [Read More](https://medium.com/p/7f1bb3963b74) |
+| Sun, 04 May 2025 14:15:31 GMT | Common Web Attacks and Detection Techniques | Sahil Dherange | [Read More](https://medium.com/p/7eaa7780b945) |
+| Sun, 04 May 2025 14:14:33 GMT | Python Security Best Practices: A Guide for DevOps Engineers | Lalit Sharma | [Read More](https://medium.com/p/df3015a3b30b) |
+| Sun, 04 May 2025 14:11:53 GMT | MQTT (Message Queuing Telemetry Transport) — Port 1883 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/3ee2f6510bf4) |
+| Sun, 04 May 2025 14:10:49 GMT | CLOUD OSINT | rr-1k | [Read More](https://medium.com/p/0e259c256008) |
 | Sun, 04 May 2025 14:06:31 GMT | How I Found My Favorite Bug in a Top Bug Bounty Program | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/bbeb36e898f8) |
 | Sun, 04 May 2025 13:52:51 GMT | XSS Part — 11 : Reflected DOM XSS | Ahmad Sopyan | [Read More](https://medium.com/p/eb0c5b410075) |
 | Sun, 04 May 2025 13:50:45 GMT | Day 25: Web Cache Deception — Tricking Caches to Leak Secrets ️‍♂️ | Agarwaldaksh | [Read More](https://medium.com/p/c4100a693b97) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 06:16:22 GMT | DevSecOps Phase 2: Code & Commit Stage — Harden the Developer Workflow | Dinidhu Jayasinghe | [Read More](https://medium.com/p/31430e9d2ec1) |
 | Sun, 04 May 2025 06:15:59 GMT | $3750 Bounty: Account Creation with Invalid Email Addresses | Monika sharma | [Read More](https://medium.com/p/aca169eddcc7) |
 | Sun, 04 May 2025 06:12:18 GMT | Logless Hunt: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/3458ff15e70d) |
-| Sun, 04 May 2025 06:04:34 GMT | Prevent Directory Traversal in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/60fadb5ae22d) |
-| Sun, 04 May 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — May 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/fae09439219d) |
-| Sun, 04 May 2025 05:56:32 GMT | It Has a Vault? Not the Money Kind — Understanding ARCON PAM Architecture | Amrit Sinha | [Read More](https://medium.com/p/1634f2037a3d) |
-| Sun, 04 May 2025 05:36:15 GMT | Microsoft RDP Flaw Lets Old Passwords Keep Working — Even After You Change Them | Raj Kumar M | [Read More](https://medium.com/p/b74522149bed) |
-| Sun, 04 May 2025 05:19:05 GMT | Securing PostgreSQL: Best Practices for User & Database Setup | Rizqi Mulki | [Read More](https://medium.com/p/3a13c71e9f82) |
-| Sun, 04 May 2025 05:16:22 GMT | Malware Analysis network lab setup part 2 switch | Ruben | [Read More](https://medium.com/p/cc36a58dbe5c) |
-| Sun, 04 May 2025 05:11:18 GMT | Cybersecurity Trends 2025: What Every C-Suite Leader Needs to Know | SapidBlue | [Read More](https://medium.com/p/b8b28d3edb81) |
