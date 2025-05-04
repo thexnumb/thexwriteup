@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 15:01:31 GMT | The quiet art of becoming | Quynton Johnson | [Read More](https://medium.com/p/91ff227204b5) |
+| Sun, 04 May 2025 14:57:34 GMT | Information Security Audits in Healthcare: Planning, Activities & Compliance Essentials | Jadala Ajay | [Read More](https://medium.com/p/0e160725df28) |
+| Sun, 04 May 2025 14:56:22 GMT | How a Simple IDOR Bug in Dubsmash’s API Could’ve Let Anyone Mess With Your Audio | Aryansaha | [Read More](https://medium.com/p/957887b75b69) |
+| Sun, 04 May 2025 14:51:08 GMT | Shopify Bug Bounty: Exploiting Access Controls in Shopify Ping and KITCRM | Aryansaha | [Read More](https://medium.com/p/edbb0b3ac711) |
+| Sun, 04 May 2025 14:49:07 GMT | One Request Too Many: Understanding and Surviving DoS & DDoS Attacks | Santhosh | [Read More](https://medium.com/p/5e337817aeb1) |
+| Sun, 04 May 2025 14:44:23 GMT | Why Red Teaming Is the Secret Weapon CISOs Need in 2025 | Mehak kamra | [Read More](https://medium.com/p/55e55262a8c5) |
+| Sun, 04 May 2025 14:44:04 GMT | Vibe Coding: The GenAI Hustle & How Not to Leak Your Company’s Secrets | yzw.joel | [Read More](https://medium.com/p/d085316ab685) |
+| Sun, 04 May 2025 14:38:43 GMT | It’s Not ClickBait — Trust me | Yao Thompson | [Read More](https://medium.com/p/2410011c2174) |
+| Sun, 04 May 2025 14:28:05 GMT | 7 Windows Server Defaults You Should Change Right After Installation | Faruk Ahmed | [Read More](https://medium.com/p/310e56fee2a1) |
 | Sun, 04 May 2025 14:26:05 GMT | WİNDOWS 10’UN SONU YAKLAŞIYOR: DEVAM MI, DEĞİŞİM Mİ? | Beyza Nur Ozanalp | [Read More](https://medium.com/p/d8a52549e514) |
 | Sun, 04 May 2025 14:24:40 GMT | Welcome to Cyber Hype! | Cyber Hype | [Read More](https://medium.com/p/a09ba98014ca) |
 | Sun, 04 May 2025 14:18:20 GMT | What are JSON Web Tokens? | Mark Achiles G. Flores Jr. | [Read More](https://medium.com/p/7f1bb3963b74) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 07:02:29 GMT | The Love Bug: How a Rejected Thesis Sparked a Global Cyber Pandemic | The Blunders and Wonders of History | [Read More](https://medium.com/p/cdb0c10577f6) |
 | Sun, 04 May 2025 06:53:02 GMT | Build your own 2FA Authenticator in Go — Like Google Authenticator | Hemanth Sai | [Read More](https://medium.com/p/3a9dcac3f084) |
 | Sun, 04 May 2025 06:37:24 GMT | From Firefighting to Fortitude: Why Cybersecurity Needs a Seat at the Strategy Table | JC Gaillard | [Read More](https://medium.com/p/3df7e7e05f1e) |
-| Sun, 04 May 2025 06:36:21 GMT | WordPress User Enumeration via author-sitemap.xml on Payapps.com | Regan Temudo | [Read More](https://medium.com/p/5ffad0ca1cc2) |
-| Sun, 04 May 2025 06:33:35 GMT | A two-year-long cyberespionage campaign has been uncovered targeting a Critical National… | CyDhaal | [Read More](https://medium.com/p/e9877a7367b2) |
-| Sun, 04 May 2025 06:27:33 GMT | LegionHunters — Publication for Security Researchers | AbhirupKonwar | [Read More](https://medium.com/p/25406971f7df) |
-| Sun, 04 May 2025 06:25:18 GMT | EUROPE POSSESSES SEVERAL LAYERS OF DEFENSE AND RESPONSE STRUCTURES TO "STRIKE BACK" OR RETALIATE… | Nauman khan | [Read More](https://medium.com/p/f2e0fe3f7a92) |
-| Sun, 04 May 2025 06:19:07 GMT | Supply Chain Attack Alert: Malicious Go Modules and npm/PyPI Packages Deliver Devastating Linux… | CyDhaal | [Read More](https://medium.com/p/4f55d2481264) |
-| Sun, 04 May 2025 06:18:46 GMT | $800 Bounty: Account Takeover in Shopify | Monika sharma | [Read More](https://medium.com/p/f4394ee37975) |
-| Sun, 04 May 2025 06:16:22 GMT | DevSecOps Phase 2: Code & Commit Stage — Harden the Developer Workflow | Dinidhu Jayasinghe | [Read More](https://medium.com/p/31430e9d2ec1) |
-| Sun, 04 May 2025 06:15:59 GMT | $3750 Bounty: Account Creation with Invalid Email Addresses | Monika sharma | [Read More](https://medium.com/p/aca169eddcc7) |
-| Sun, 04 May 2025 06:12:18 GMT | Logless Hunt: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/3458ff15e70d) |
