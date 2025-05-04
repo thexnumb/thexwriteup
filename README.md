@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 04:25:00 GMT | Ransomware Warning Signals - Lessons from the hellcat Attack | Avnishyam | [Read More](https://medium.com/p/758fd41715e2) |
+| Sun, 04 May 2025 04:23:28 GMT | Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey | Mohsin khan | [Read More](https://medium.com/p/bae8a5418461) |
+| Sun, 04 May 2025 04:08:16 GMT | Comprehensive Analysis of INFORMATION SECURITY Auditing Standards and Models from Academic Papers | Jadala Ajay | [Read More](https://medium.com/p/ab99162c3c9d) |
+| Sun, 04 May 2025 04:03:56 GMT | What is 3DS and Why Does It Matter for Payment Security? | Satoka Sotome | [Read More](https://medium.com/p/6a336ccad387) |
+| Sun, 04 May 2025 03:50:47 GMT | How VPNs Facilitate Secure Remote Access | James Neal | [Read More](https://medium.com/p/35e83e80122b) |
 | Sun, 04 May 2025 03:46:07 GMT | Mastering Event Handlers in JavaScript and HTML: The Complete Guide with Examples | Zoningxtr | [Read More](https://medium.com/p/60ef2c4d025b) |
+| Sun, 04 May 2025 03:45:43 GMT | The Ultimate In Digital Protection: Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/0b5a5639a10d) |
 | Sun, 04 May 2025 03:45:03 GMT | Exploring the Future of Secure Storage Wallets with ELLIPAL | Fy | [Read More](https://medium.com/p/e8fd6504edcb) |
 | Sun, 04 May 2025 03:42:24 GMT | Anonforce — TryHackMe —   CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/946186ca4caa) |
 | Sun, 04 May 2025 03:35:38 GMT | Burnout in the SOC Is Real — And It’s a CISO’s Problem to Solve | Cyber-AppSec | [Read More](https://medium.com/p/7949500a6ace) |
@@ -106,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 16:00:06 GMT | What It Means to Have a Higher-Than-Average Adversity Quotient | Michael Angelo G. Badando | [Read More](https://medium.com/p/973cdf2f3f1b) |
 | Sat, 03 May 2025 15:54:53 GMT | ️ Cybersecurity Leadership: Guiding Digital Defenses with Strategy and Strength | Kora | [Read More](https://medium.com/p/c9042735d8cb) |
 | Sat, 03 May 2025 15:50:50 GMT | Comprehensive Guide To VPN Security Features | James Neal | [Read More](https://medium.com/p/39292c6ec4f7) |
-| Sat, 03 May 2025 15:46:15 GMT | How AI, Digital Marketing, Cybersecurity & Smart Money Habits Are Shaping 2025 | Lakshya Singh | [Read More](https://medium.com/p/0d8c58cb1141) |
-| Sat, 03 May 2025 15:43:16 GMT | From web developer to cybersecurity: My path to AI and Cloud | Christian Seyboth | [Read More](https://medium.com/p/d42d4ac176ff) |
-| Sat, 03 May 2025 15:42:31 GMT | Top 5 Courses to become Ethical Hacker in 2025 | javinpaul | [Read More](https://medium.com/p/69964ef0d6cb) |
-| Sat, 03 May 2025 15:39:26 GMT | جهت صیغه موقت ودائم تلگرام پیام بدهید(09915528413)ویا باشماره (09364608280)
-صیغه بهبهان صیغه مشگین… | حاجی طباطبای | [Read More](https://medium.com/p/1f2954e0248c) |
-| Sat, 03 May 2025 15:37:56 GMT | Real-World Assets (RWAs) in Web3 | Adesua Adedamola - WAYVSMAKER | [Read More](https://medium.com/p/2dd4e054c15c) |
-| Sat, 03 May 2025 15:28:34 GMT | Types of Malware: Understanding the Threats Lurking in the Digital World | Batu Ada Tutkun | [Read More](https://medium.com/p/c5544afc2fa6) |
