@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 19:33:04 GMT | Single Sign On — Kerberos and SESAME | Igor Berner | [Read More](https://medium.com/p/acd628a63b31) |
+| Sun, 04 May 2025 19:27:03 GMT | Write Smarter Functions in Python: 10 Tips That Will Change the Way You Code | Ozdprinter | [Read More](https://medium.com/p/087485369d41) |
+| Sun, 04 May 2025 19:26:59 GMT | Coinbase urges US Supreme Court to rethink digital privacy doctrine | IC News | [Read More](https://medium.com/p/c8b0ce73f14f) |
+| Sun, 04 May 2025 19:24:33 GMT | How to Hack an LLM: A Beginner-Friendly Guide to Pentesting Large Language Models | Naveen Singh | [Read More](https://medium.com/p/bc7cdbd65cb9) |
+| Sun, 04 May 2025 19:19:25 GMT | SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data | Prashant kamkar | [Read More](https://medium.com/p/0bde62a649aa) |
+| Sun, 04 May 2025 19:13:52 GMT | Malvertising: The $13 Billion Problem You Didn’t Know You Were Paying For | Amit kumar | [Read More](https://medium.com/p/88f7d91de5ba) |
 | Sun, 04 May 2025 19:10:39 GMT | So You Think You Have Nothing to Hide? Think Again. | Judy's Cyber Journal | [Read More](https://medium.com/p/555f5ba9f53f) |
 | Sun, 04 May 2025 19:10:23 GMT | 5 Ways Hackers Exploit Outdated WordPress Plugins — and How to Stop Them | Shubradeb | [Read More](https://medium.com/p/e9c5669ec7d1) |
 | Sun, 04 May 2025 19:09:09 GMT | Tired of WhatsApp monopoly? Interoperability could set us free — securely | Pradeen Krishna G | [Read More](https://medium.com/p/8ecaf4bef043) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 11:52:38 GMT | API Güvenliğinde JWT mi, Session mı? | Ahmet Mert Ünsel | [Read More](https://medium.com/p/e5eefa227838) |
 | Sun, 04 May 2025 11:41:13 GMT | HTB — Flag Command | Cxd4_ | [Read More](https://medium.com/p/bb29192dae57) |
 | Sun, 04 May 2025 11:37:27 GMT | Neither Peacenik nor Kahanist | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/d3ac4abaf7c9) |
-| Sun, 04 May 2025 11:21:32 GMT | Detecting and Analyzing Cobalt Strike Beacon Traffic | Esra Kayhan | [Read More](https://medium.com/p/9667ef45cf64) |
-| Sun, 04 May 2025 11:07:38 GMT | Smarter Ransomware Protection on NetApp Without Burning Your Budget | Mr.PlanB | [Read More](https://medium.com/p/4fcfc0731c8d) |
-| Sun, 04 May 2025 11:04:28 GMT | Australia’s Cybersecurity Reckoning: Why Attacks Like the Optus Breach Keep Happening | Pudasainikishor | [Read More](https://medium.com/p/5763d8571d54) |
-| Sun, 04 May 2025 11:03:59 GMT | Big Game Ransomware: the myths experts tell board members | Kevin Beaumont | [Read More](https://medium.com/p/03d5e1d1c4b7) |
-| Sun, 04 May 2025 11:03:15 GMT | Password Security: How Strong Is Your Digital Lock? | M. Jama | [Read More](https://medium.com/p/5432348034f4) |
-| Sun, 04 May 2025 11:02:33 GMT | Understand the Cyber Kill Chain | Ashwin Notes | [Read More](https://medium.com/p/4a0550513ba1) |
