@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 01:34:53 GMT | ️‍♂️ The Phantom Update: How One Routine Software Patch Nearly Destroyed X Business | Noel | [Read More](https://medium.com/p/455adddd731c) |
+| Sun, 04 May 2025 01:34:27 GMT | $505 Bounty: Denial of Service Vulnerability | Monika sharma | [Read More](https://medium.com/p/bd6daef5fe8a) |
+| Sun, 04 May 2025 01:34:05 GMT | The Future of Cybersecurity | Ahmad Javed | [Read More](https://medium.com/p/6c6b4378b907) |
+| Sun, 04 May 2025 01:33:46 GMT | How a Simple PDF Invoice Almost Took Down a Business in 2025 | Noel | [Read More](https://medium.com/p/1bcb6db5b621) |
+| Sun, 04 May 2025 01:31:44 GMT | Cockpit - PG Practice Walkthrough - (brief) | Adam Bartlett | [Read More](https://medium.com/p/543edbb9b963) |
+| Sun, 04 May 2025 01:13:25 GMT | TryHackMe: Bounty Hacker | Milton Hernandez | [Read More](https://medium.com/p/7913e4b45792) |
+| Sun, 04 May 2025 01:11:47 GMT | What is Subdomain Enumeration & Why It Matters in Bug Bounties | Mohammad Karim | [Read More](https://medium.com/p/644006b0635f) |
+| Sun, 04 May 2025 00:51:48 GMT | How I Found an Host Header Injection Vulnerability Easily In (Mars)$ | Zuksh | [Read More](https://medium.com/p/2a56a1c942c3) |
+| Sun, 04 May 2025 00:41:32 GMT | GEOINT Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/deb9bf7e549e) |
+| Sun, 04 May 2025 00:32:43 GMT | Understanding Blockchain — And Why It Matters for Innovation | Srinivas Baipalli | [Read More](https://medium.com/p/0b5071e778b4) |
+| Sun, 04 May 2025 00:30:41 GMT | RECOVER SCAMMED USDT THROUGH // FUNDS RECLAIMER COMPANY | Benitatrueba | [Read More](https://medium.com/p/fda1bd14ca00) |
+| Sun, 04 May 2025 00:14:21 GMT | Nigeria on the Road to Perdition: A Nation at the Edge of Collapse | Charles J. Kash | [Read More](https://medium.com/p/d860c66bd22f) |
+| Sun, 04 May 2025 00:07:15 GMT | BoogeyMan 3 - THM Write-Up | Emerson32 | [Read More](https://medium.com/p/e561dac7bca5) |
+| Sun, 04 May 2025 00:03:52 GMT | Password Security: History, Myths, and Modern Approaches | KMO | [Read More](https://medium.com/p/f1934458e61c) |
+| Sun, 04 May 2025 00:02:24 GMT | Metodología Inicial para Máquinas de Hack The Box | JPablo13 | [Read More](https://medium.com/p/16620d22c0a2) |
+| Sat, 03 May 2025 23:46:24 GMT | From Curiosity to Duplicated: How I Found a Critical Account Takeover Bug | Hamza Ahmed Youssef | [Read More](https://medium.com/p/8e43bd035ab0) |
+| Sat, 03 May 2025 23:43:22 GMT | Modern Network Communication Technologies | Mariia Hirniak | [Read More](https://medium.com/p/855a15cf184a) |
 | Sat, 03 May 2025 23:32:24 GMT | Palo Alto Networks AI Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7f196741c484) |
 | Sat, 03 May 2025 23:08:07 GMT | Zeek (formerly Bro) | Shamar Isaac | [Read More](https://medium.com/p/61b9a13ec56b) |
 | Sat, 03 May 2025 23:04:54 GMT | Forging My Path in Cybersecurity: An Enthusiast’s Journey Through Training and Internship | G3ntl3Kn1ght | [Read More](https://medium.com/p/cdcb661d98da) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 14:37:16 GMT | Iranian Hackers’ Two-Year Stealth Mission in Middle East CNI ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/0fa9414d1266) |
 | Sat, 03 May 2025 14:33:00 GMT | Adversarial Machine Learning in Cybersecurity: The Next Battlefield | ab | [Read More](https://medium.com/p/17894cc62ae8) |
 | Sat, 03 May 2025 14:32:29 GMT | Day 24: OverTheWire Bandit Walkthrough: Levels 6 → 11 | Agarwaldaksh | [Read More](https://medium.com/p/2ea1a785fd7c) |
-| Sat, 03 May 2025 14:31:01 GMT | Malicious PDFs Deliver Remcos RAT: Windows Users Targeted by Cybercriminals | The Infosec Journal | [Read More](https://medium.com/p/a9b15e92b4a2) |
-| Sat, 03 May 2025 14:24:10 GMT | Your People Don’t Work in the Office Anymore | William Hunt | [Read More](https://medium.com/p/0076b233ad81) |
-| Sat, 03 May 2025 14:21:55 GMT | Hacking AI: Easy as Pie — Women in CyberSecurity Conference 2025 Takeaways V | Meera Tamboli | [Read More](https://medium.com/p/531cce6d5efa) |
-| Sat, 03 May 2025 14:15:19 GMT | We Need to Talk About Women and Deepfakes — Access, Impact and Awareness — Women in CyberSecurity… | Meera Tamboli | [Read More](https://medium.com/p/3a0e2c85ed81) |
-| Sat, 03 May 2025 14:12:35 GMT | Bypassing Attack Surface Reduction (ASR) Rules with VBA Macros Part 2 | Moataz Osama | [Read More](https://medium.com/p/e2ad87cb5a38) |
-| Sat, 03 May 2025 14:05:18 GMT | Hashing | Akbar | [Read More](https://medium.com/p/3ea3e7005133) |
-| Sat, 03 May 2025 14:02:00 GMT | Les 7 principes fondamentaux du Security by Design | Adam REHAIEM | [Read More](https://medium.com/p/7eafa7ddbf71) |
-| Sat, 03 May 2025 13:55:55 GMT | My eCPPTv3 Review! | 0xTurki | [Read More](https://medium.com/p/d59dcc849d0e) |
-| Sat, 03 May 2025 13:46:43 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/fa56babafae5) |
-| Sat, 03 May 2025 13:35:11 GMT | From Coursera to Code: Building a Simple IOC Scanner in Python | Ameer | [Read More](https://medium.com/p/1efeadf8ffa9) |
-| Sat, 03 May 2025 13:33:57 GMT | I Almost Lost Everything in a Phishing Scam — Here’s How You Can Stay Safe | Nerav R Parmar | [Read More](https://medium.com/p/53f476618d21) |
-| Sat, 03 May 2025 13:27:45 GMT | Cybersecurity Issues in AI Protocols | Vicky Donald | [Read More](https://medium.com/p/95e4b72b3576) |
-| Sat, 03 May 2025 13:25:05 GMT | //How to become an Ethical Hacker, zero to pro… Complete Roadmap!! | Rupesh_rs | [Read More](https://medium.com/p/4f5d2c7a2f6b) |
-| Sat, 03 May 2025 13:21:31 GMT | How Quantum Computing is a Threat to Cryptography | Avinash Prasad | [Read More](https://medium.com/p/7cfded37520a) |
-| Sat, 03 May 2025 13:20:15 GMT | GDPR’s €5.66 B Fine Toll: How to Convince Your Boss to Upgrade Data-Protection | Iuliia Arkadeva | [Read More](https://medium.com/p/67a753bff3f5) |
-| Sat, 03 May 2025 13:14:46 GMT | While Hackers Planned, EDSPL Was Already Ten Steps Ahead | saurabh cyberinfomines | [Read More](https://medium.com/p/b34fd8fb1c1b) |
-| Sat, 03 May 2025 13:14:29 GMT | Drawing the Value Map for Business Growth | Ed-it Editions | [Read More](https://medium.com/p/755bfc4c149a) |
