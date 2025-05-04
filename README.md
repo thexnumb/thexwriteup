@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 04:35:58 GMT | Using VirusTotal Graphs and Retro Hunt for IOC Discovery | Paritosh | [Read More](https://medium.com/p/d1c4b4e209b4) |
 | Sun, 04 May 2025 04:25:00 GMT | Ransomware Warning Signals - Lessons from the hellcat Attack | Avnishyam | [Read More](https://medium.com/p/758fd41715e2) |
 | Sun, 04 May 2025 04:23:28 GMT | Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey | Mohsin khan | [Read More](https://medium.com/p/bae8a5418461) |
 | Sun, 04 May 2025 04:08:16 GMT | Comprehensive Analysis of INFORMATION SECURITY Auditing Standards and Models from Academic Papers | Jadala Ajay | [Read More](https://medium.com/p/ab99162c3c9d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 16:02:26 GMT | Dumping Credentials with Python: Automating LSASS Access and Credential Extraction… | Maxwell Cross | [Read More](https://medium.com/p/a8c79d36ff08) |
 | Sat, 03 May 2025 16:00:06 GMT | What It Means to Have a Higher-Than-Average Adversity Quotient | Michael Angelo G. Badando | [Read More](https://medium.com/p/973cdf2f3f1b) |
 | Sat, 03 May 2025 15:54:53 GMT | ️ Cybersecurity Leadership: Guiding Digital Defenses with Strategy and Strength | Kora | [Read More](https://medium.com/p/c9042735d8cb) |
-| Sat, 03 May 2025 15:50:50 GMT | Comprehensive Guide To VPN Security Features | James Neal | [Read More](https://medium.com/p/39292c6ec4f7) |
