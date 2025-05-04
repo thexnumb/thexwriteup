@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 19:10:39 GMT | So You Think You Have Nothing to Hide? Think Again. | Judy's Cyber Journal | [Read More](https://medium.com/p/555f5ba9f53f) |
+| Sun, 04 May 2025 19:10:23 GMT | 5 Ways Hackers Exploit Outdated WordPress Plugins — and How to Stop Them | Shubradeb | [Read More](https://medium.com/p/e9c5669ec7d1) |
+| Sun, 04 May 2025 19:09:09 GMT | Tired of WhatsApp monopoly? Interoperability could set us free — securely | Pradeen Krishna G | [Read More](https://medium.com/p/8ecaf4bef043) |
 | Sun, 04 May 2025 18:44:37 GMT | GCP Privilege Escalation: Abusing Function Admin Role for Full Project Takeover | Nairuz Abulhul | [Read More](https://medium.com/p/4be96a951ddc) |
 | Sun, 04 May 2025 18:42:27 GMT | Recent Cybersecurity Incident: Russian Hackers Target Romanian Government Websites | Eaglevision | [Read More](https://medium.com/p/7d3552951921) |
 | Sun, 04 May 2025 18:35:45 GMT | Top 99+ Best Sites To ChimeAccounts (Aged & Real) | Usapremierit | [Read More](https://medium.com/p/a28a958fb6c2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 11:03:59 GMT | Big Game Ransomware: the myths experts tell board members | Kevin Beaumont | [Read More](https://medium.com/p/03d5e1d1c4b7) |
 | Sun, 04 May 2025 11:03:15 GMT | Password Security: How Strong Is Your Digital Lock? | M. Jama | [Read More](https://medium.com/p/5432348034f4) |
 | Sun, 04 May 2025 11:02:33 GMT | Understand the Cyber Kill Chain | Ashwin Notes | [Read More](https://medium.com/p/4a0550513ba1) |
-| Sun, 04 May 2025 11:02:31 GMT | King Of Dark Web Final Hours | Tsumit | [Read More](https://medium.com/p/d6c08446fd8a) |
-| Sun, 04 May 2025 11:01:41 GMT | RaaS-Ransomware as a Service | Darshan Naresh Naik | [Read More](https://medium.com/p/fe4f2d1ed603) |
-| Sun, 04 May 2025 11:00:21 GMT | Image - PG Practice Walkthrough | Adam Bartlett | [Read More](https://medium.com/p/c7a40f489f6e) |
