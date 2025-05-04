@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 20:06:46 GMT | Applying First Principles Thinking to Cybersecurity | K3e9X | [Read More](https://medium.com/p/286f02432290) |
+| Sun, 04 May 2025 20:02:52 GMT | The Risk Brought by Renewable Energy: What Happened in Europe, What Should We Learn? | Mustafa Ergen | [Read More](https://medium.com/p/b8c92d961ef0) |
+| Sun, 04 May 2025 19:54:46 GMT | VAAL: Vulnerability Assessment Automation using LLMs | Sandeep Egalapati | [Read More](https://medium.com/p/a4485b98c7bd) |
+| Sun, 04 May 2025 19:48:26 GMT | System Leadership: Influencing organizational effectiveness in a technologically changing business… | Prof.. Charles Anosike | [Read More](https://medium.com/p/f5424e21bdde) |
+| Sun, 04 May 2025 19:46:09 GMT | Content trust & Docker - Part 2 | Çiğdem Kadakoğlu | [Read More](https://medium.com/p/be945acf24f4) |
+| Sun, 04 May 2025 19:42:03 GMT | When Compliance Gaps Cost Millions - The RTX Cybersecurity Settlement | Avnishyam | [Read More](https://medium.com/p/712a9cfe83bf) |
+| Sun, 04 May 2025 19:39:20 GMT | My Cybersecurity News Aggregator: Built with GitHub Actions | Michael Rico | [Read More](https://medium.com/p/72880b4fc06c) |
 | Sun, 04 May 2025 19:33:04 GMT | Single Sign On — Kerberos and SESAME | Igor Berner | [Read More](https://medium.com/p/acd628a63b31) |
+| Sun, 04 May 2025 19:32:17 GMT | Loopscale’s $5.8M Exploit: Internal Pricing vulnerability | CyberLucifer | [Read More](https://medium.com/p/52de24ee8c28) |
 | Sun, 04 May 2025 19:27:03 GMT | Write Smarter Functions in Python: 10 Tips That Will Change the Way You Code | Ozdprinter | [Read More](https://medium.com/p/087485369d41) |
 | Sun, 04 May 2025 19:26:59 GMT | Coinbase urges US Supreme Court to rethink digital privacy doctrine | IC News | [Read More](https://medium.com/p/c8b0ce73f14f) |
 | Sun, 04 May 2025 19:24:33 GMT | How to Hack an LLM: A Beginner-Friendly Guide to Pentesting Large Language Models | Naveen Singh | [Read More](https://medium.com/p/bc7cdbd65cb9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 12:30:09 GMT | Beautiful open redirect on Google.com | Biswajeet Ray | [Read More](https://medium.com/p/752c98a80b7d) |
 | Sun, 04 May 2025 12:28:35 GMT | The Cybersecurity-AI Nexus: Opportunities and Risks | Ninza-_-Boi | [Read More](https://medium.com/p/b9fcb223af88) |
 | Sun, 04 May 2025 12:25:46 GMT | Why Has Humanity Never Invented the S System? | Leeahandfulofhope | [Read More](https://medium.com/p/750ecd614a78) |
-| Sun, 04 May 2025 12:20:47 GMT | Patterns are changing. | samba | [Read More](https://medium.com/p/83767e39e88e) |
-| Sun, 04 May 2025 12:13:46 GMT | Why RiskInsightsHub.com Stands Out in a Crowded Risk Management Blogosphere | Hiren Desai | [Read More](https://medium.com/p/5e085f554b6d) |
-| Sun, 04 May 2025 12:09:50 GMT | Understanding SQL Injection: What It Is and How to Prevent It | ImashaNilupul | [Read More](https://medium.com/p/d332e2038ae4) |
-| Sun, 04 May 2025 12:05:16 GMT | Security-First Development: Why ‘Feature-Fast’ Mindset is Killing Your App | Ahmad Javed | [Read More](https://medium.com/p/e6177b0b796d) |
-| Sun, 04 May 2025 11:53:04 GMT | Entropy: The secret ingredient of Cybersecurity | Mayank Sharma | [Read More](https://medium.com/p/c31b48aa21b8) |
-| Sun, 04 May 2025 11:52:38 GMT | API Güvenliğinde JWT mi, Session mı? | Ahmet Mert Ünsel | [Read More](https://medium.com/p/e5eefa227838) |
-| Sun, 04 May 2025 11:41:13 GMT | HTB — Flag Command | Cxd4_ | [Read More](https://medium.com/p/bb29192dae57) |
-| Sun, 04 May 2025 11:37:27 GMT | Neither Peacenik nor Kahanist | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/d3ac4abaf7c9) |
