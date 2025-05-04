@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 10:32:25 GMT | Buffer Overflow Attacks: Stack and Heap-Based Exploit Development | Esra Kayhan | [Read More](https://medium.com/p/ec0d53d8c86c) |
+| Sun, 04 May 2025 10:22:05 GMT | Mastering Bug Bounties with Burp Suite: A Comprehensive Guide to Web Security | Benjaminmillerdev | [Read More](https://medium.com/p/bb63a03e6511) |
+| Sun, 04 May 2025 10:21:44 GMT | Privilege Escalation Techniques in Linux Operating Systems | Mehmet Agah | [Read More](https://medium.com/p/2b31fb56960c) |
+| Sun, 04 May 2025 10:20:54 GMT | Mastering Nikto: Advanced Bug Bounty Hunting Techniques” by Benjamin Miller. | Benjaminmillerdev | [Read More](https://medium.com/p/62d2bc441e6a) |
 | Sun, 04 May 2025 10:16:09 GMT | Identity and Access Management (IAM) | Yash Bhingarde | [Read More](https://medium.com/p/d909d07656b0) |
 | Sun, 04 May 2025 10:04:24 GMT | Ghost in the Headers: Evading Device Fingerprinting on Phishing Sites | KeyboardSamurai | [Read More](https://medium.com/p/47bb6075edc6) |
 | Sun, 04 May 2025 10:02:17 GMT | ️ Bulletproof Hosting: The Dark Web’s Favorite Infrastructure | Mathews kuruvila | [Read More](https://medium.com/p/a4c189c414d8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 23:46:24 GMT | From Curiosity to Duplicated: How I Found a Critical Account Takeover Bug | Hamza Ahmed Youssef | [Read More](https://medium.com/p/8e43bd035ab0) |
 | Sat, 03 May 2025 23:43:22 GMT | Modern Network Communication Technologies | Mariia Hirniak | [Read More](https://medium.com/p/855a15cf184a) |
 | Sat, 03 May 2025 23:32:24 GMT | Palo Alto Networks AI Runtime Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/7f196741c484) |
-| Sat, 03 May 2025 23:08:07 GMT | Zeek (formerly Bro) | Shamar Isaac | [Read More](https://medium.com/p/61b9a13ec56b) |
-| Sat, 03 May 2025 23:04:54 GMT | Forging My Path in Cybersecurity: An Enthusiast’s Journey Through Training and Internship | G3ntl3Kn1ght | [Read More](https://medium.com/p/cdcb661d98da) |
-| Sat, 03 May 2025 23:03:15 GMT | Fixing ‘zsh: corrupt history file’ in Kali Linux as a Penetration Tester | Yamini Yadav | [Read More](https://medium.com/p/0e37b68507a7) |
-| Sat, 03 May 2025 22:44:20 GMT | Top Modern Encryption Algorithms | Adem KORKMAZ | [Read More](https://medium.com/p/54ea8a057ccf) |
