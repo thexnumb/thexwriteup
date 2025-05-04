@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 17:33:03 GMT | Hack The Box Academy — Network Foundations — Network Address Translation (NAT) | bl77rd | [Read More](https://medium.com/p/7ccdca6d6915) |
+| Sun, 04 May 2025 17:27:12 GMT | Asus Just Launched New ExpertBook AI Laptops in India — Here’s What You Need to Know! | SATHISH R | [Read More](https://medium.com/p/f39438bb012b) |
+| Sun, 04 May 2025 17:16:33 GMT | Evil Twin Setup using hostapd and dnsmasq | Atharva puri | [Read More](https://medium.com/p/cae451dcd9c3) |
 | Sun, 04 May 2025 17:00:25 GMT | “Understanding the Distinction Between Security and Privacy in the Digital Age” | Poojithajayareddygari | [Read More](https://medium.com/p/8d8f6ece98b6) |
 | Sun, 04 May 2025 16:58:36 GMT | a | Visual Monitoring Solutions | [Read More](https://medium.com/p/deedb2d78fab) |
 | Sun, 04 May 2025 16:57:34 GMT | Navigating the Digital Maze: Cisco’s Foundation-Sec-8B and the Curious Case of AI in Cybersecurity | Shaitan | [Read More](https://medium.com/p/545096592833) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 10:01:10 GMT | Is it a Cyber Trap? | Preeti Pathak | [Read More](https://medium.com/p/dcc8aeda62f7) |
 | Sun, 04 May 2025 09:52:44 GMT | Full Account Takeover di redacted.com: Ganti Password Tanpa Tahu Password Lama?! | FufuFafa | [Read More](https://medium.com/p/be89bd69bb61) |
 | Sun, 04 May 2025 09:50:52 GMT | Attitude: Menyambut Revolusi AI | Nando Teddy | [Read More](https://medium.com/p/4c8140f247eb) |
-| Sun, 04 May 2025 09:44:08 GMT | The Power of Vulnerability in Building Authentic Connections | S. Thorn | [Read More](https://medium.com/p/98ab7d11afb7) |
-| Sun, 04 May 2025 09:38:48 GMT | Cyber Defense Architecture in the Age of Agentic AI Threats | Balaram Panda | [Read More](https://medium.com/p/20aca4a143cb) |
-| Sun, 04 May 2025 09:34:55 GMT | Microsoft Declares the Password Obsolete: New Accounts Now Passwordless by Default | CyDhaal | [Read More](https://medium.com/p/32fff10a5b59) |
