@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 09:13:50 GMT | Staying Informed on Cybersecurity: A simple Guide that everybody can use | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/434aa9f9128a) |
+| Sun, 04 May 2025 09:13:01 GMT | XSS : Bypass default-src ‘self’ | Kaz Research | [Read More](https://medium.com/p/8916a137776f) |
+| Sun, 04 May 2025 09:07:27 GMT | OSINT Combine CTFD — Challenge: Get Rotated! | rootsechax | [Read More](https://medium.com/p/ce802f596502) |
+| Sun, 04 May 2025 09:03:51 GMT | Modest Payouts, Major Payoff: 4 IDORs That Netted $12K | Ashutosh Dutta | [Read More](https://medium.com/p/64f4ab6754c0) |
+| Sun, 04 May 2025 09:00:07 GMT | Building Our Security Scanner Automation: From a Task to a Culture | Bennoli13 | [Read More](https://medium.com/p/5489cd02c311) |
+| Sun, 04 May 2025 08:55:48 GMT | When Do I Feel Vulnerable? (And Why That Matters in Love) | KH | [Read More](https://medium.com/p/34222e90d0c4) |
+| Sun, 04 May 2025 08:52:03 GMT | I Took a Gummy, Some Tequila, and Walked into History: What Graduating from SDSU Really Meant | Dorian Hardwood | [Read More](https://medium.com/p/2bac9697fe39) |
+| Sun, 04 May 2025 08:45:26 GMT | Ashley Madison: The Class Action Lawsuit That Should Have Been Filed. | Khadija Mostafa | [Read More](https://medium.com/p/ae5ce3ea1686) |
+| Sun, 04 May 2025 08:37:50 GMT | Title: A Quiet Confession Behind The Old Song. | Praise Ayanfeoluwa Odufuwa | [Read More](https://medium.com/p/1b250d87b95f) |
 | Sun, 04 May 2025 08:22:09 GMT | Cyber Crime and Its Solutions | ParagGodbole | [Read More](https://medium.com/p/bda4fb4d0da3) |
 | Sun, 04 May 2025 08:16:09 GMT | How to Install MobSF on Kali Linux Using Podman (No Docker Needed) | Rishi Patidar | [Read More](https://medium.com/p/4ea7c0f6bf7f) |
 | Sun, 04 May 2025 08:10:06 GMT | React Native Mastery: Develop Your Own Mobile App | Shivam Thakur | [Read More](https://medium.com/p/689b0573c31c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 21:32:08 GMT | Should You Share That… Or Keep It In Your Journal? | Voke Etefe | [Read More](https://medium.com/p/2071b089ca85) |
 | Sat, 03 May 2025 21:26:29 GMT | Billions of Apple Devices Exposed by AirBorne AirPlay Flaws | Avnishyam | [Read More](https://medium.com/p/5baff08dcaf1) |
 | Sat, 03 May 2025 21:23:18 GMT | Have You Ever Tried to Cross the Street with Your Eyes Closed? | B Kean | [Read More](https://medium.com/p/9b6b92313fc7) |
-| Sat, 03 May 2025 21:13:34 GMT | Allocation Vulnerabilities: Hidden Dangers in Memory Management | Tugberk Pekgur | [Read More](https://medium.com/p/4cbaf0d12698) |
-| Sat, 03 May 2025 20:59:59 GMT | Sanganak ~ The #1 Premium IT Boutique for Branding, Design, Development, Blockchain & AI | Aryabhatta | [Read More](https://medium.com/p/24c47e0a4994) |
-| Sat, 03 May 2025 20:57:43 GMT | When Servers Talk to Strangers: SSRF | YuvaSec | [Read More](https://medium.com/p/ac541d1cb5e6) |
-| Sat, 03 May 2025 20:52:23 GMT | ️ Detecting Red Team C2 Traffic on the Network: Techniques and Code Examples | Esra Kayhan | [Read More](https://medium.com/p/01e467500dbc) |
-| Sat, 03 May 2025 20:48:55 GMT | Collection of Ethical Hacking Courses & Resources | Macky  (TheNMAPGuy)  Matsunaga | [Read More](https://medium.com/p/0ec776b0395c) |
-| Sat, 03 May 2025 20:41:07 GMT | Uploading large files with Fingerprints and Resumable support in browsers | Tomas (Tome) Frastia | [Read More](https://medium.com/p/3ba7c2fc654e) |
-| Sat, 03 May 2025 20:31:40 GMT | JWT-Based Stateless Authentication for Microservices: A Complete Guide | Shubham Kumbhar | [Read More](https://medium.com/p/745f17c70b1e) |
-| Sat, 03 May 2025 20:26:38 GMT | Embrace Comfort with Momcozy Swaddle Blankets | Popescilti | [Read More](https://medium.com/p/251822e65b10) |
-| Sat, 03 May 2025 20:13:53 GMT | Hack The Box Academy — Network Foundations — Components of a Network | bl77rd | [Read More](https://medium.com/p/77b64477990c) |
