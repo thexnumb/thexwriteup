@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 May 2025 10:16:09 GMT | Identity and Access Management (IAM) | Yash Bhingarde | [Read More](https://medium.com/p/d909d07656b0) |
+| Sun, 04 May 2025 10:04:24 GMT | Ghost in the Headers: Evading Device Fingerprinting on Phishing Sites | KeyboardSamurai | [Read More](https://medium.com/p/47bb6075edc6) |
+| Sun, 04 May 2025 10:02:17 GMT | ️ Bulletproof Hosting: The Dark Web’s Favorite Infrastructure | Mathews kuruvila | [Read More](https://medium.com/p/a4c189c414d8) |
+| Sun, 04 May 2025 10:01:10 GMT | Is it a Cyber Trap? | Preeti Pathak | [Read More](https://medium.com/p/dcc8aeda62f7) |
+| Sun, 04 May 2025 09:52:44 GMT | Full Account Takeover di redacted.com: Ganti Password Tanpa Tahu Password Lama?! | FufuFafa | [Read More](https://medium.com/p/be89bd69bb61) |
+| Sun, 04 May 2025 09:50:52 GMT | Attitude: Menyambut Revolusi AI | Nando Teddy | [Read More](https://medium.com/p/4c8140f247eb) |
+| Sun, 04 May 2025 09:44:08 GMT | The Power of Vulnerability in Building Authentic Connections | S. Thorn | [Read More](https://medium.com/p/98ab7d11afb7) |
+| Sun, 04 May 2025 09:38:48 GMT | Cyber Defense Architecture in the Age of Agentic AI Threats | Balaram Panda | [Read More](https://medium.com/p/20aca4a143cb) |
+| Sun, 04 May 2025 09:34:55 GMT | Microsoft Declares the Password Obsolete: New Accounts Now Passwordless by Default | CyDhaal | [Read More](https://medium.com/p/32fff10a5b59) |
 | Sun, 04 May 2025 09:24:16 GMT | Ultimate Guide to Android Banking App Security: Best Practices & Scanning Tools | Satish Nada | [Read More](https://medium.com/p/42d30ff3dfa9) |
 | Sun, 04 May 2025 09:23:15 GMT | What Is Laravel Timebox and Why You Should Start Using It Today | MasteryOfLaravel | [Read More](https://medium.com/p/26735bd13864) |
 | Sun, 04 May 2025 09:13:50 GMT | Staying Informed on Cybersecurity: A simple Guide that everybody can use | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/434aa9f9128a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 May 2025 23:04:54 GMT | Forging My Path in Cybersecurity: An Enthusiast’s Journey Through Training and Internship | G3ntl3Kn1ght | [Read More](https://medium.com/p/cdcb661d98da) |
 | Sat, 03 May 2025 23:03:15 GMT | Fixing ‘zsh: corrupt history file’ in Kali Linux as a Penetration Tester | Yamini Yadav | [Read More](https://medium.com/p/0e37b68507a7) |
 | Sat, 03 May 2025 22:44:20 GMT | Top Modern Encryption Algorithms | Adem KORKMAZ | [Read More](https://medium.com/p/54ea8a057ccf) |
-| Sat, 03 May 2025 22:16:36 GMT | Security Information and Event Management (SIEM): Why You Need It in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/0955385acd8f) |
-| Sat, 03 May 2025 22:12:07 GMT | Day 11: I Tried to Walk Through the Full Pentesting Lifecycle | Nile Okomo | [Read More](https://medium.com/p/cd28f3a6d6b3) |
-| Sat, 03 May 2025 22:10:45 GMT | Mirror Image: Finding My Future Self in a Stranger’s Story | Odyssey of Silence | [Read More](https://medium.com/p/60e9d5d3a690) |
-| Sat, 03 May 2025 21:59:18 GMT | The Least Privilege Access Journey with AWS IAM Access Analyzer | Collin Smith | [Read More](https://medium.com/p/2d1816ff24ee) |
-| Sat, 03 May 2025 21:53:23 GMT | Exploring the Benefits of Momcozy Swaddle for Newborns | Dsfhfggsdgfd | [Read More](https://medium.com/p/0decdd83a3cf) |
-| Sat, 03 May 2025 21:43:58 GMT | Internal — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/6e4adf870ae5) |
-| Sat, 03 May 2025 21:36:52 GMT | Meta vs. Nigeria: A Landmark Case for Africa’s Digital Sovereignty and Global Tech Accountability | Francis Omachi | [Read More](https://medium.com/p/9d71e85c6b32) |
-| Sat, 03 May 2025 21:35:08 GMT | Reflection on “SOC Job Now!” course by CyberNowEducation | Karl Lane | [Read More](https://medium.com/p/1b374c137871) |
-| Sat, 03 May 2025 21:32:08 GMT | Should You Share That… Or Keep It In Your Journal? | Voke Etefe | [Read More](https://medium.com/p/2071b089ca85) |
