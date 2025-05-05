@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 13:25:46 GMT | I Passed the Practical SOC Analyst Associate (PSAA) — Here’s What You Need to Know | Supot Sirisak | [Read More](https://medium.com/p/8e4096d758bc) |
+| Mon, 05 May 2025 13:22:34 GMT | Android vs iOS: A Comprehensive Comparison of Features, Security, and Performance | Somesh Deshmukh | [Read More](https://medium.com/p/c299acba0d81) |
+| Mon, 05 May 2025 13:17:33 GMT | StealC Malware v2.2.4: New Upgrades Bring More Stealth & Data Theft Power | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/21fd85e86af7) |
+| Mon, 05 May 2025 13:07:33 GMT | Why API Security Matters More Than Ever in 2024 | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/b686a12a6acd) |
+| Mon, 05 May 2025 13:05:16 GMT | Cybersecurity Home Lab — Phase 4: Splunk Setup & Log Forwarding | Khaled Alkhatib | [Read More](https://medium.com/p/a188ba6ea15d) |
+| Mon, 05 May 2025 13:01:44 GMT | Kickstart MobSF on Kali Linux — The Easiest Way Possible! | Prateek Ranjan | [Read More](https://medium.com/p/63896663273f) |
+| Mon, 05 May 2025 12:58:59 GMT | Unintended Consequences | Shuvodip Ray | [Read More](https://medium.com/p/a6fab76501ad) |
+| Mon, 05 May 2025 12:55:49 GMT | Every Click Is Tracked — VPNs Aren’t Optional Anymore! | Your's Nightmare | [Read More](https://medium.com/p/b004ecfd6eb1) |
+| Mon, 05 May 2025 12:42:34 GMT | Do you like the work of art that I am? | Benita Imokhai | [Read More](https://medium.com/p/0619567ed5ff) |
 | Mon, 05 May 2025 12:31:06 GMT | Kerberos necə işləyir? Protokolun mexanizminə detallı baxış | nurlan012 | [Read More](https://medium.com/p/4aec368ebafe) |
+| Mon, 05 May 2025 12:30:06 GMT | You scan a link on VirusTotal, and the result shows zero detections—completely green. | Defeu James | [Read More](https://medium.com/p/bbedaafc476c) |
 | Mon, 05 May 2025 12:28:53 GMT | Domain III — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/daf9c3b1a5e4) |
 | Mon, 05 May 2025 12:28:00 GMT | Week 19: Vulnerability | Deepa Ranganathan | [Read More](https://medium.com/p/e9c0bc38fb39) |
 | Mon, 05 May 2025 12:24:52 GMT | How Much Time Does a SOC 2 Audit Take? | SecureSlate | [Read More](https://medium.com/p/a298073ddc9e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 08:02:00 GMT | Secure Grafana: The 2025 Checklist | Giam | [Read More](https://medium.com/p/b2b66e7730e4) |
 | Mon, 05 May 2025 08:01:04 GMT | The Evolution of Sparse Information Retrieval | Beatrice Rapisarda | [Read More](https://medium.com/p/0857e5dcc761) |
 | Mon, 05 May 2025 07:59:35 GMT | Membaca access.log untuk Respons Insiden dan Investigasi Forensik Digital (Part 2) — Indonesia ver. | influez | [Read More](https://medium.com/p/700c75e0c4fd) |
-| Mon, 05 May 2025 07:58:26 GMT | Msfvenom ile nasıl payload oluşturulur,payload nasıl AV sistemlerinden gizlenir? | Mustafa Şekerci | [Read More](https://medium.com/p/f6f2277b2205) |
-| Mon, 05 May 2025 07:56:26 GMT | How spyware in Mobile Apps Steals Your Private Photos and Messages | KLEAP Institute of Information Security | [Read More](https://medium.com/p/07720d76fa0d) |
-| Mon, 05 May 2025 07:55:18 GMT | Google Dorking: How to Uncover Hidden Vulnerabilities in Penetration Testing ️‍♂️ | YoungerSibling | [Read More](https://medium.com/p/2a3386522e79) |
-| Mon, 05 May 2025 07:44:17 GMT | Clickjacked to the Core: Turning UI into a Trapdoor | Iski | [Read More](https://medium.com/p/a196dde6997b) |
-| Mon, 05 May 2025 07:26:01 GMT | VPN vs. Proxy: What’s the Difference and Which One Should You Choose? | EVA VPN | [Read More](https://medium.com/p/920684c082f7) |
-| Mon, 05 May 2025 07:12:31 GMT | Bypassing Regex Validations to Achieve RCE: A Wild Bug Story | Abhijeet Kumawat | [Read More](https://medium.com/p/4c523f69b9f8) |
-| Mon, 05 May 2025 07:12:14 GMT | Why Choose Mobiloitte for Smart Agriculture Tech? | Remand Simon | [Read More](https://medium.com/p/5e2ffcc481e9) |
-| Mon, 05 May 2025 07:10:05 GMT | This Time Give Silence A Chance. | Sandali | [Read More](https://medium.com/p/ceb3d256a3d9) |
-| Mon, 05 May 2025 07:03:15 GMT | Cloud Computing 101: The Glossary Edition | Aliyan Shaikh | [Read More](https://medium.com/p/46f1e93172aa) |
-| Mon, 05 May 2025 07:02:57 GMT | SIEM in the Trenches: 25 Real-World Lessons for Building Scalable, Actionable, and Cost-Efficient… | Rsprasangi | [Read More](https://medium.com/p/9b610dc5ab67) |
