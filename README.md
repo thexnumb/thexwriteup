@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 17:58:24 GMT | While AI is Becoming Your Search Engine: | Brad Kirkpatrick, CISSP | [Read More](https://medium.com/p/761947db618b) |
+| Mon, 05 May 2025 17:58:20 GMT | How Can I Recover My Money From Fxpro? | Vera | [Read More](https://medium.com/p/b25e6441efd7) |
+| Mon, 05 May 2025 17:51:49 GMT | Behind the Login : Authentication and Access Control in Social Media | Aditi Gade | [Read More](https://medium.com/p/3b14766047c9) |
+| Mon, 05 May 2025 17:51:21 GMT | une XSS simple sur la page de login CVE-2024–48410 | Itachix0f | [Read More](https://medium.com/p/65435f4a0f84) |
+| Mon, 05 May 2025 17:49:04 GMT | Designing Solo Recon: Building a Calm, Trustworthy Brand for a Security Tool | Solo Recon | [Read More](https://medium.com/p/0de5a301a206) |
+| Mon, 05 May 2025 17:44:14 GMT | Zero-Trust Data Architecture: Moving Beyond Perimeter Security in the AI Era | Sajeer Babu | [Read More](https://medium.com/p/e2a95239de13) |
+| Mon, 05 May 2025 17:39:45 GMT | Building in the Open: Why We’re Sharing the Process, Not Just the Product | Solo Recon | [Read More](https://medium.com/p/57edb4fcb5cb) |
 | Mon, 05 May 2025 17:36:27 GMT | Debugging History: How a Moth Became the First Computer Bug | Nivetha Thangaraj | [Read More](https://medium.com/p/6bf02259058a) |
 | Mon, 05 May 2025 17:32:25 GMT | Top 10 Myths About Cybersecurity Careers — Debunked | Laurianne Apollon | [Read More](https://medium.com/p/d5cac8b942d2) |
 | Mon, 05 May 2025 17:30:40 GMT | Day 25: Integrating osTicket with ELK Stack | Mikey O. | [Read More](https://medium.com/p/b85c1b64bcf0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 12:55:49 GMT | Every Click Is Tracked — VPNs Aren’t Optional Anymore! | Your's Nightmare | [Read More](https://medium.com/p/b004ecfd6eb1) |
 | Mon, 05 May 2025 12:42:34 GMT | Do you like the work of art that I am? | Benita Imokhai | [Read More](https://medium.com/p/0619567ed5ff) |
 | Mon, 05 May 2025 12:31:06 GMT | Kerberos necə işləyir? Protokolun mexanizminə detallı baxış | nurlan012 | [Read More](https://medium.com/p/4aec368ebafe) |
-| Mon, 05 May 2025 12:30:06 GMT | You scan a link on VirusTotal, and the result shows zero detections—completely green. | Defeu James | [Read More](https://medium.com/p/bbedaafc476c) |
-| Mon, 05 May 2025 12:28:53 GMT | Domain III — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/daf9c3b1a5e4) |
-| Mon, 05 May 2025 12:28:00 GMT | Week 19: Vulnerability | Deepa Ranganathan | [Read More](https://medium.com/p/e9c0bc38fb39) |
-| Mon, 05 May 2025 12:24:52 GMT | How Much Time Does a SOC 2 Audit Take? | SecureSlate | [Read More](https://medium.com/p/a298073ddc9e) |
-| Mon, 05 May 2025 12:08:52 GMT | Securing the Internet of Things: How to Safeguard Connected Devices from Breaches | HIYA CHATTERJEE | [Read More](https://medium.com/p/5bd8b0879e16) |
-| Mon, 05 May 2025 12:07:44 GMT | Crafting Policies That Drive Secure Innovation and Resilient Governance | COMPASS | [Read More](https://medium.com/p/85f131f0cbf0) |
-| Mon, 05 May 2025 12:07:08 GMT | Recovery | Jenny Kyle | [Read More](https://medium.com/p/76b4bacb55ad) |
