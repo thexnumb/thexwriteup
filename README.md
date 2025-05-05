@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 17:36:27 GMT | Debugging History: How a Moth Became the First Computer Bug | Nivetha Thangaraj | [Read More](https://medium.com/p/6bf02259058a) |
+| Mon, 05 May 2025 17:32:25 GMT | Top 10 Myths About Cybersecurity Careers — Debunked | Laurianne Apollon | [Read More](https://medium.com/p/d5cac8b942d2) |
+| Mon, 05 May 2025 17:30:40 GMT | Day 25: Integrating osTicket with ELK Stack | Mikey O. | [Read More](https://medium.com/p/b85c1b64bcf0) |
+| Mon, 05 May 2025 17:29:59 GMT | Subdomain Takeover: My $450 Win & How You Can Do It Too | Ehtesham Ul Haq | [Read More](https://medium.com/p/3337ca0513b6) |
+| Mon, 05 May 2025 17:29:38 GMT | Password Apocalyps - 19 Billion Exposed Credentials and What Comes Next | Avnishyam | [Read More](https://medium.com/p/92e1d58d3ccd) |
+| Mon, 05 May 2025 17:29:18 GMT | CyberDefenders — WebStrike Lab (Blue Team Challenges) | David Lipscomb Jr. | [Read More](https://medium.com/p/d14efc7ef532) |
+| Mon, 05 May 2025 17:29:13 GMT | “My Journey through OverTheWire Bandit: From Level 1 to 10” | Kalidasan | [Read More](https://medium.com/p/30b566ab55a9) |
+| Mon, 05 May 2025 17:18:05 GMT | From Logs to Breaches: Blind Spots in Security Monitoring | Chukwuebuka Okoli | [Read More](https://medium.com/p/5631dcccc3d2) |
+| Mon, 05 May 2025 17:17:34 GMT | A little about me: | RedHatReed | [Read More](https://medium.com/p/f040a2244ba4) |
+| Mon, 05 May 2025 17:09:26 GMT | Why Businesses are Choosing Rainbow Secure for Phishing-Resistant Security? | Dr. Shashi Karhail | [Read More](https://medium.com/p/f681973bbc10) |
+| Mon, 05 May 2025 17:06:38 GMT | Uploading and Serving Static Files in Spring Boot | Alexander Obregon | [Read More](https://medium.com/p/aa8cdc6e6984) |
 | Mon, 05 May 2025 16:55:41 GMT | How to Hunt XML External Entity Vulnerability — like a pro✨ | Kidnapshadow | [Read More](https://medium.com/p/4d5f24ceade7) |
 | Mon, 05 May 2025 16:49:20 GMT | Why Vulnerability Assessment Services Are Essential for Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/4c4a45558fc9) |
 | Mon, 05 May 2025 16:45:40 GMT | From Curiosity to Compromise: What a School Network Taught Us About Visibility | Andre Fernandes | [Read More](https://medium.com/p/bcf62cafe3f1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 12:08:52 GMT | Securing the Internet of Things: How to Safeguard Connected Devices from Breaches | HIYA CHATTERJEE | [Read More](https://medium.com/p/5bd8b0879e16) |
 | Mon, 05 May 2025 12:07:44 GMT | Crafting Policies That Drive Secure Innovation and Resilient Governance | COMPASS | [Read More](https://medium.com/p/85f131f0cbf0) |
 | Mon, 05 May 2025 12:07:08 GMT | Recovery | Jenny Kyle | [Read More](https://medium.com/p/76b4bacb55ad) |
-| Mon, 05 May 2025 12:04:04 GMT | How Multi-Factor Authentication (MFA) Works | Gowtham D | [Read More](https://medium.com/p/52c962813b92) |
-| Mon, 05 May 2025 11:59:04 GMT | A highly detailed digital illustration of a humanoid robot named "A-07" sitting on a metal bench in… | Imran Khan Fans 804 | [Read More](https://medium.com/p/9878120c2652) |
-| Mon, 05 May 2025 11:41:31 GMT | SSRF Attacks in Modern Web Applications: Next-Generation Tactics | Esra Kayhan | [Read More](https://medium.com/p/af23d62070b1) |
-| Mon, 05 May 2025 11:39:42 GMT | SOAR is the Future: Transforming the Modern SOC — PART 3 SOAR vs SIEM — Understanding the… | CTF Shadow 24 | [Read More](https://medium.com/p/66d1112f723a) |
-| Mon, 05 May 2025 11:37:20 GMT | Perfection Is a Myth, Leverage Isn’t: Securing Google Workspace for Small Teams | Ismail Tasdelen | [Read More](https://medium.com/p/1f8a7b391cbf) |
-| Mon, 05 May 2025 11:31:27 GMT | Cyber Alert: Patna में 2 भाई गिरफ्तार — ️‍♂️ CBI और ED बनकर करते थे Cyber Fraud! | Hacker news 07 | [Read More](https://medium.com/p/081312f485ef) |
-| Mon, 05 May 2025 11:28:28 GMT | The Ultimate Guide to Cyber Threat Actors: Exploring Hackers, Hacktivists, and Their Tactics | Abdelaziz moustakim | [Read More](https://medium.com/p/c660cefc90b6) |
-| Mon, 05 May 2025 11:25:04 GMT | Beyond Ports and Protocols: The Rise of Deep Packet Inspection | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/516506813bc2) |
-| Mon, 05 May 2025 11:24:20 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/666884a75524) |
-| Mon, 05 May 2025 11:21:50 GMT | Part 1: Identity Federation in Multi-Cloud — Foundation and Technical Risks | Karlmarx Karunanithi | [Read More](https://medium.com/p/dd34dfb126a8) |
-| Mon, 05 May 2025 11:15:19 GMT | Your Favorite Browser is Spying on You: Browse Without Being Watched | Karl Buhl | [Read More](https://medium.com/p/1ee94337fe7b) |
