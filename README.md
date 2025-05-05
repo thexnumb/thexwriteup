@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 15:15:26 GMT | 18,000 Networks Hacked: How SolarWinds Compromised Global Security | M Yousuf Hussain | [Read More](https://medium.com/p/a00fdee57d6d) |
+| Mon, 05 May 2025 15:14:20 GMT | JWT Authentication Best Practices: A Guide for Secure Web Applications | Hamzasufian | [Read More](https://medium.com/p/798b7a36f023) |
+| Mon, 05 May 2025 15:12:28 GMT | Critical Android Zero-Day Vulnerabilities Exposed: What You Need to Know and How to Stay Safe | Omar Alhendi | [Read More](https://medium.com/p/aee89b18767e) |
+| Mon, 05 May 2025 15:10:12 GMT | Can I Perform SCAP Scans on Container Images? Yes You Can! | Dale Bingham | [Read More](https://medium.com/p/b646798e1ba3) |
+| Mon, 05 May 2025 15:07:11 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/18da58ff138f) |
+| Mon, 05 May 2025 15:00:48 GMT | Cookie-Bite: Testing Azure Defender Logging & Alerting with Session Replay | Elpfarr | [Read More](https://medium.com/p/08f53aea6276) |
+| Mon, 05 May 2025 14:57:14 GMT | Maximize Recon Solana for Passive Income Success | RECON | [Read More](https://medium.com/p/c589ad2a64f7) |
+| Mon, 05 May 2025 14:57:03 GMT | Crypto Crimes #3: Coincheck’s $530M Hack and the Rise of Japan’s Crypto Regulation | BitterBitcoiner | [Read More](https://medium.com/p/e86095c778f7) |
+| Mon, 05 May 2025 14:51:22 GMT | ️ Understanding Antivirus Software: Keeping Your Devices Safe | Tech Made Simple By NTi | [Read More](https://medium.com/p/7f578f1d13a8) |
+| Mon, 05 May 2025 14:48:29 GMT | The Ultimate Guide to Bounty $BNTY Yield Farming | BNTY | [Read More](https://medium.com/p/5c68d64e8e42) |
+| Mon, 05 May 2025 14:39:35 GMT | NIS2: What Every Developer and Tech Lead Needs To Know Right Now | Patrick Kalkman | [Read More](https://medium.com/p/796028926d8f) |
+| Mon, 05 May 2025 14:39:22 GMT | Credential Relaying & NTLM Abuse with Python: Turning Stolen Hashes into Shells | Maxwell Cross | [Read More](https://medium.com/p/7d2e3ed56399) |
 | Mon, 05 May 2025 14:36:46 GMT | North Korea Hacking Organization Konni Malicious Code Distribution Exploiting Fake Document for VAT… | MITRE Doggy | [Read More](https://medium.com/p/652878e1182f) |
 | Mon, 05 May 2025 14:35:11 GMT | Ransomware Tactics and Defenses: Next-Generation Fileless Attacks | Esra Kayhan | [Read More](https://medium.com/p/dbf3e1664af1) |
 | Mon, 05 May 2025 14:31:52 GMT | I Am Afraid | Charleston Li | [Read More](https://medium.com/p/920f067c00d2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 09:47:52 GMT | Detecting SQL Injection Attacks - LetsDefend | Arshad Hossain | [Read More](https://medium.com/p/f61d7c631dc8) |
 | Mon, 05 May 2025 09:46:28 GMT | Golden Chickens Return with TerraStealerV2: A Potent Threat to Cryptocurrency and Financial Sectors | CyBlog | [Read More](https://medium.com/p/915f34607b73) |
 | Mon, 05 May 2025 09:45:27 GMT | Domain II — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/b6c45679fed0) |
-| Mon, 05 May 2025 09:42:03 GMT | How to Create a MySQL 8.0 Instance in GCP Using Terraform with a Shared VPC | Think, Write, Repeat | [Read More](https://medium.com/p/bba92f2caf91) |
-| Mon, 05 May 2025 09:41:25 GMT | Earn Big with Bugs Bunny $BUGS Rewards This Year | BUGS | [Read More](https://medium.com/p/eb72c1683074) |
-| Mon, 05 May 2025 09:40:42 GMT | {CyberDefenders Write-up} Lespion Lab : Lespion Lab | Sh3nobi | [Read More](https://medium.com/p/f6bbe3270696) |
-| Mon, 05 May 2025 09:37:34 GMT | How this little $2 E-Book Quietly Fixed a JIRA Nightmare I Didn’t Even Know I Had | Suresh Parimi | [Read More](https://medium.com/p/d2284f041ed7) |
-| Mon, 05 May 2025 09:36:05 GMT | Windows Persistence via Registry: Run and RunOnce Keys | Taha Ex | [Read More](https://medium.com/p/c2d6eced8a6e) |
-| Mon, 05 May 2025 09:33:27 GMT | What Websites Know About You | Corinna Brown | [Read More](https://medium.com/p/aa2ba5373f8e) |
-| Mon, 05 May 2025 09:33:19 GMT | Mastering Metasploit: A Beginner Guide for Penetration Testing | Rac:) | [Read More](https://medium.com/p/f8eb9825c05c) |
-| Mon, 05 May 2025 09:33:09 GMT | The Ultimate Guide to Cyber Security Training in India 2025 | Amaljoseph | [Read More](https://medium.com/p/103698263e4c) |
-| Mon, 05 May 2025 09:32:42 GMT | CVE-2025–32817: Critical SonicWall Privilege Escalation Flaw — Why Businesses Need Proactive… | Infoziant | [Read More](https://medium.com/p/bb81f032128d) |
-| Mon, 05 May 2025 09:31:20 GMT | Moebius Tryhackme Writeup | St3mw4s | [Read More](https://medium.com/p/d9b1790f1225) |
-| Mon, 05 May 2025 09:29:51 GMT | How Security Copilot is Changing SOC Operations | Mirko Peters | [Read More](https://medium.com/p/09e5e4e9ec8c) |
-| Mon, 05 May 2025 09:29:48 GMT | $750 Bounty: Sensitive Data Exposure | Monika sharma | [Read More](https://medium.com/p/c944e626c733) |
