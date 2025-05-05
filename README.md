@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 23:07:04 GMT | Human vs AI: What’s Better for CCTV Surveillance? | Visual Monitoring Solutions | [Read More](https://medium.com/p/8569fb25603e) |
+| Mon, 05 May 2025 23:06:26 GMT | $500 Bounty for Reflected XSS on HackerOne | Monika sharma | [Read More](https://medium.com/p/29c13793bc91) |
+| Mon, 05 May 2025 23:04:51 GMT | Hacker’s Recon Guide: Tools & Tricks to Map Any Target | Vipul Sonule | [Read More](https://medium.com/p/f1e97d7bfdb6) |
+| Mon, 05 May 2025 23:03:54 GMT | Secrets HACKERS Don’t Want You to Know About OSINT! | Dhanush N | [Read More](https://medium.com/p/0db5a3e66943) |
+| Mon, 05 May 2025 22:56:25 GMT | Top 5 Cybersecurity Threats to Watch in 2025 — and How to Get Ready | Michael Siopa | [Read More](https://medium.com/p/95d9c097e461) |
 | Mon, 05 May 2025 22:37:25 GMT | The Unexpected Upside: Unleashing Creativity and Exploring Limits? | Majeztik SlumBoi / Julius Crawford | [Read More](https://medium.com/p/a244ab0eb661) |
+| Mon, 05 May 2025 22:35:18 GMT | Life Is Better Without Feelings | LarikHati | [Read More](https://medium.com/p/680df29f759c) |
 | Mon, 05 May 2025 22:32:20 GMT | Windows DPAPI Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/69af5169ffe8) |
 | Mon, 05 May 2025 22:27:01 GMT | TryHackMe: Python Basics Room Explained | Diego Lasarin | [Read More](https://medium.com/p/9eb2d37b7e7a) |
 | Mon, 05 May 2025 22:26:27 GMT | Building the Digital Fortress: The Next Chapter in my Story [WHO AM I — PART2] | Taher Amine, mMBA, CISSP-SME, CCISO, CMSA, ISOxx | [Read More](https://medium.com/p/695ddd41f608) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 16:34:34 GMT | Analysis Using NMAP for Network Scan on a Local IP Address. | Oteniara Temitope | [Read More](https://medium.com/p/9e24496bcb72) |
 | Mon, 05 May 2025 16:34:04 GMT | Data Sovereignty vs Digital Sovereignty: Key Considerations for Businesses | Yves Delvaux | [Read More](https://medium.com/p/1bbd3df06401) |
 | Mon, 05 May 2025 16:30:57 GMT | Analysis Using VirusTotal to detect potential malicious behavior, analyze domain associations with… | Oteniara Temitope | [Read More](https://medium.com/p/c2745840bf72) |
-| Mon, 05 May 2025 16:27:58 GMT | So What? | Dan Glass | [Read More](https://medium.com/p/5bb85d000235) |
-| Mon, 05 May 2025 16:27:22 GMT | How Can I Withdraw My Money From Bsvcloud? | Douglas | [Read More](https://medium.com/p/3cee667cbb6b) |
-| Mon, 05 May 2025 16:17:31 GMT | No Illusions, Just Cyber Security — Why I’m Here | Andre Fernandes | [Read More](https://medium.com/p/1ccd56b4f809) |
-| Mon, 05 May 2025 16:14:35 GMT | Shell Games : Understanding Reverse, Bind and Web Shells For CTF’s and More | Fuzzyy Duck | [Read More](https://medium.com/p/e8e9bcadc224) |
-| Mon, 05 May 2025 16:12:37 GMT | CYSHOCK 2025 | xSuffs811 | [Read More](https://medium.com/p/4b6e2db5bb46) |
-| Mon, 05 May 2025 16:11:05 GMT | Getting Started in Cybersecurity: A Career Change Guide | Kyla Saylor | [Read More](https://medium.com/p/509252832879) |
