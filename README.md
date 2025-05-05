@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 15:32:26 GMT | Real-Time Challenges in Cyber-Physical Systems: Today and To the Future | Data Defendere | [Read More](https://medium.com/p/2a06c2be0206) |
+| Mon, 05 May 2025 15:32:05 GMT | The Risk of No Risk | Tom Yonashiro | [Read More](https://medium.com/p/93a11177cf04) |
+| Mon, 05 May 2025 15:30:06 GMT | How to Make Your ChainBounty $BOUNTY earn passive income for you | BOUNTY | [Read More](https://medium.com/p/3ca8bd0e9870) |
+| Mon, 05 May 2025 15:23:24 GMT | Increase Your Curvance $CVE Rewards in 2025 | CVE | [Read More](https://medium.com/p/b3b51051bceb) |
+| Mon, 05 May 2025 15:21:33 GMT | Zero-Day Exploit in Apple Devices Opens the Door to Wormable Attacks via AirPlay | Zbyte | [Read More](https://medium.com/p/fba74e66de6d) |
+| Mon, 05 May 2025 15:19:33 GMT | Metaverse: What It Means for Work, Play, and Identity | Pavan | [Read More](https://medium.com/p/d58c9ccb67f2) |
+| Mon, 05 May 2025 15:17:41 GMT | Salt and Pepper: The Perfect Spices for Hashing | Mark Achiles G. Flores Jr. | [Read More](https://medium.com/p/e84d40c1ee6c) |
 | Mon, 05 May 2025 15:15:26 GMT | 18,000 Networks Hacked: How SolarWinds Compromised Global Security | M Yousuf Hussain | [Read More](https://medium.com/p/a00fdee57d6d) |
 | Mon, 05 May 2025 15:14:20 GMT | JWT Authentication Best Practices: A Guide for Secure Web Applications | Hamzasufian | [Read More](https://medium.com/p/798b7a36f023) |
 | Mon, 05 May 2025 15:12:28 GMT | Critical Android Zero-Day Vulnerabilities Exposed: What You Need to Know and How to Stay Safe | Omar Alhendi | [Read More](https://medium.com/p/aee89b18767e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 10:10:32 GMT | Understanding the Real Power of Security in a Digital and Physical World | Anishaluccas | [Read More](https://medium.com/p/24706fe67c92) |
 | Mon, 05 May 2025 10:10:04 GMT | COUNTER-PROGRAM: “HUMAN DIGNITY DEFENSE INITIATIVE” (HDDI) | SIMKRA | [Read More](https://medium.com/p/7f3b08a1e16d) |
 | Mon, 05 May 2025 10:09:45 GMT | CAP Walkthrough — HackTheBox | R4nd0mSys | [Read More](https://medium.com/p/0e53a7bd4ce3) |
-| Mon, 05 May 2025 10:04:07 GMT | Dogcat (Medium) —  TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/f51d549517f8) |
-| Mon, 05 May 2025 09:58:39 GMT | Best Python Programming Training for Beginners in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/10c514eb22f5) |
-| Mon, 05 May 2025 09:57:27 GMT | CONNESSI A MORTE | Arturo Di Corinto | [Read More](https://medium.com/p/bb7bc1a798f8) |
-| Mon, 05 May 2025 09:55:46 GMT | The Ascendant Tide: Navigating the Growth of the Cyber Security as a Service Market | Marrtin Olivia | [Read More](https://medium.com/p/5cbfd3213612) |
-| Mon, 05 May 2025 09:47:52 GMT | Detecting SQL Injection Attacks - LetsDefend | Arshad Hossain | [Read More](https://medium.com/p/f61d7c631dc8) |
-| Mon, 05 May 2025 09:46:28 GMT | Golden Chickens Return with TerraStealerV2: A Potent Threat to Cryptocurrency and Financial Sectors | CyBlog | [Read More](https://medium.com/p/915f34607b73) |
-| Mon, 05 May 2025 09:45:27 GMT | Domain II — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/b6c45679fed0) |
