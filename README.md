@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 20:21:30 GMT | Most Programming Interviews Are Designed to Hire the Wrong People | Junaid Khalid | [Read More](https://medium.com/p/a7ce15fcb45c) |
+| Mon, 05 May 2025 20:20:45 GMT | Top 5 Skills to Attain in 2025 | Rabiahassan | [Read More](https://medium.com/p/bd04946ec0fd) |
+| Mon, 05 May 2025 20:15:37 GMT | How to Remove Sensitive Files from GitHub History(without crying too much) | Tsitsi Flora | [Read More](https://medium.com/p/a6245dd168d8) |
+| Mon, 05 May 2025 20:15:19 GMT | Windows Server Zero Trust: Secure File Sharing for Remote Workers | Everything news | [Read More](https://medium.com/p/24711eb72538) |
+| Mon, 05 May 2025 20:13:24 GMT | Retail Cyberattacks and the Privacy Paradox: Why Consumers Still Click ‘Buy’ | Cara Pearce | [Read More](https://medium.com/p/a7b2815f4e56) |
+| Mon, 05 May 2025 20:10:00 GMT | RECON: Comprehensive Guide To Earning Rewards | RECON | [Read More](https://medium.com/p/658b8ca62506) |
+| Mon, 05 May 2025 19:59:00 GMT | When Warlords Turn to Cybercrime- Sanctions on Myanmar’s Scam Emperor | Avnishyam | [Read More](https://medium.com/p/690d886005e0) |
+| Mon, 05 May 2025 19:58:54 GMT | Seeing Beyond the Link: How LLMs Are Elevating URL Classification for the Enterprise | Aysha Mir | [Read More](https://medium.com/p/ad79c87be2a9) |
+| Mon, 05 May 2025 19:52:17 GMT | He Said “Feel Better” — But I Wasn’t Sick | Insidevoices | [Read More](https://medium.com/p/5de3654157f3) |
+| Mon, 05 May 2025 19:51:41 GMT | Beyond the Firewall: Exploring the World of Cyber Security | The Curious Learner | [Read More](https://medium.com/p/2af5683fa3c4) |
+| Mon, 05 May 2025 19:48:32 GMT | The NIS2 Directive: How Europe’s New Cyber Law Impacts Businesses — Even Beyond the EU | Atty. Meltem Karatepe | [Read More](https://medium.com/p/5f0401e7b399) |
+| Mon, 05 May 2025 19:43:33 GMT | Build a Personal SIEM With n8n, Windows Logs, and OpenAI | Corey Jones | [Read More](https://medium.com/p/0d83ca11cfea) |
+| Mon, 05 May 2025 19:41:30 GMT | Establishing Identity as a Service (IDaaS): Key Mechanisms, Client Data, and Relying Party… | Quentin Wallace | [Read More](https://medium.com/p/13f14e7f6226) |
+| Mon, 05 May 2025 19:39:29 GMT | Türkiye’de Siber Güvenlik Kanunu ve Eylem Planı | Aslıhan Kuzucu | [Read More](https://medium.com/p/4be06e578542) |
+| Mon, 05 May 2025 19:38:48 GMT | Building a Real-World SOC Analyst Lab: Threat Detection, Response Automation & SIEM Integration | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/e8a4759646da) |
 | Mon, 05 May 2025 19:28:19 GMT | How to Harden WordPress Login Security Against Brute Force Attacks | Shubradeb | [Read More](https://medium.com/p/dee5f771754b) |
 | Mon, 05 May 2025 19:27:20 GMT | Cybersecurity in Quantum Computing: Challenges and Opportunities | Paul Leongas | [Read More](https://medium.com/p/45563996be6a) |
 | Mon, 05 May 2025 19:26:16 GMT | Part 2: Identity Federation in Multi-Cloud — Governance & Oversight Failures | Karlmarx Karunanithi | [Read More](https://medium.com/p/9d8efb804f60) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 14:57:03 GMT | Crypto Crimes #3: Coincheck’s $530M Hack and the Rise of Japan’s Crypto Regulation | BitterBitcoiner | [Read More](https://medium.com/p/e86095c778f7) |
 | Mon, 05 May 2025 14:51:22 GMT | ️ Understanding Antivirus Software: Keeping Your Devices Safe | Tech Made Simple By NTi | [Read More](https://medium.com/p/7f578f1d13a8) |
 | Mon, 05 May 2025 14:48:29 GMT | The Ultimate Guide to Bounty $BNTY Yield Farming | BNTY | [Read More](https://medium.com/p/5c68d64e8e42) |
-| Mon, 05 May 2025 14:39:35 GMT | NIS2: What Every Developer and Tech Lead Needs To Know Right Now | Patrick Kalkman | [Read More](https://medium.com/p/796028926d8f) |
-| Mon, 05 May 2025 14:39:22 GMT | Credential Relaying & NTLM Abuse with Python: Turning Stolen Hashes into Shells | Maxwell Cross | [Read More](https://medium.com/p/7d2e3ed56399) |
-| Mon, 05 May 2025 14:36:46 GMT | North Korea Hacking Organization Konni Malicious Code Distribution Exploiting Fake Document for VAT… | MITRE Doggy | [Read More](https://medium.com/p/652878e1182f) |
-| Mon, 05 May 2025 14:35:11 GMT | Ransomware Tactics and Defenses: Next-Generation Fileless Attacks | Esra Kayhan | [Read More](https://medium.com/p/dbf3e1664af1) |
-| Mon, 05 May 2025 14:31:52 GMT | I Am Afraid | Charleston Li | [Read More](https://medium.com/p/920f067c00d2) |
-| Mon, 05 May 2025 14:31:00 GMT | Bug Bounty : Se confronter au réel, apprendre à encaisser ️‍♂️ | Rebecca Cottignies | [Read More](https://medium.com/p/87376b539175) |
-| Mon, 05 May 2025 14:27:48 GMT | What’s Covered in the CEH v12 Exam? Topics, Domains, and Format Explained | Eliana | [Read More](https://medium.com/p/caa95f33060b) |
-| Mon, 05 May 2025 14:27:15 GMT | Why Noncompliant Will Always Comply | KAI GRIFFIN | [Read More](https://medium.com/p/9aedd9358802) |
-| Mon, 05 May 2025 14:25:38 GMT | Quantum-Safe Encryption: Securing Banking in the Quantum Era | Joseph V Thomas | [Read More](https://medium.com/p/1c3f6f5a2e72) |
-| Mon, 05 May 2025 14:22:31 GMT | Why Professional Event Security Services in the UK Are Essential for Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/7f22ed34662a) |
-| Mon, 05 May 2025 14:22:26 GMT | My super simple Google Calendar hack for Obsidian | Vladimir Campos | [Read More](https://medium.com/p/dd1110340f61) |
-| Mon, 05 May 2025 14:21:30 GMT | The Invisible Flaws in Bluetooth Low Energy — And Why We Should Care | SHAZZAD HOSSAIN SHAWON | [Read More](https://medium.com/p/af445bbfcf0f) |
-| Mon, 05 May 2025 14:20:24 GMT | How you get hacked by simply opening my document | TimTrademark | [Read More](https://medium.com/p/35f811958391) |
-| Mon, 05 May 2025 14:17:52 GMT | Ubuntu Server Snort Kurulumu | Buse Suna | [Read More](https://medium.com/p/c6f708c488c6) |
-| Mon, 05 May 2025 14:16:34 GMT | Compaq HP Insight Manager — Port 2301, 2381 — How to exploit | Very Lazy Tech | [Read More](https://medium.com/p/337f1175d2f8) |
