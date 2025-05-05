@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 19:12:40 GMT | BehindTheScreens: Breaches, Backlashes, and the Battle for AI Security | Sam Achek | [Read More](https://medium.com/p/9e82da0785d7) |
+| Mon, 05 May 2025 19:12:17 GMT | #OpISIS: Hacktivism and the New Era of Counterterrorism | Taryn Murphy | [Read More](https://medium.com/p/8c852ba38c95) |
+| Mon, 05 May 2025 19:01:01 GMT | TryHackMe: Search Skills Room Explained | Diego Lasarin | [Read More](https://medium.com/p/e4c5114eadf9) |
+| Mon, 05 May 2025 18:57:41 GMT | Can your web application survive contemporary cybersecurity threats? | Yogesh V Malvankar | [Read More](https://medium.com/p/4450d164171a) |
+| Mon, 05 May 2025 18:56:21 GMT | How safe is your mobile app ecosystem? | Yogesh V Malvankar | [Read More](https://medium.com/p/d7895771fe5f) |
+| Mon, 05 May 2025 18:54:51 GMT | APIs are critical to the functioning of modern data applications; however, they are also highly… | Yogesh V Malvankar | [Read More](https://medium.com/p/6b696fe80324) |
+| Mon, 05 May 2025 18:53:04 GMT | Your endpoints are the new perimeter – are they secure enough? | Yogesh V Malvankar | [Read More](https://medium.com/p/2403b41c8c84) |
+| Mon, 05 May 2025 18:51:14 GMT | Is Your Wi-Fi Network Secure or Only Password Protected? | Yogesh V Malvankar | [Read More](https://medium.com/p/d59e9da1363c) |
+| Mon, 05 May 2025 18:48:18 GMT | They Got ARRESTED Smuggling ANTS Out of Kenya?! 1000 Ants Sell for Jaw-Dropping $220,000! | Supreeth Nagella | [Read More](https://medium.com/p/b5cebc379743) |
+| Mon, 05 May 2025 18:45:36 GMT | Are your vital assets threatened without your consent? | Yogesh V Malvankar | [Read More](https://medium.com/p/4767235ca152) |
+| Mon, 05 May 2025 18:43:07 GMT | Connecting to TryHackMe with OpenVPN: A Beginner’s Guide | Byte-Sized Security | [Read More](https://medium.com/p/a4e386a7ec82) |
 | Mon, 05 May 2025 18:42:27 GMT | Deepfake Danger: When Technology Loses Its Moral Compass | MATHANAM.S | [Read More](https://medium.com/p/4f0e3c9cea90) |
 | Mon, 05 May 2025 18:41:42 GMT | I Kept Missing Concert Tickets — So I Built an Android Bot to Buy Them for Me | Balazs Banto | [Read More](https://medium.com/p/0bd370ebd6d5) |
+| Mon, 05 May 2025 18:38:41 GMT | How to Scan PowerPoint Show (.PPSX) Files for Threats in your Node.js App | Cloudmersive | [Read More](https://medium.com/p/b900179f40cc) |
+| Mon, 05 May 2025 18:38:30 GMT | Can AI Predict a Cyberattack Before It Happens? The Future of Cyber Intuition | Ash Wren | [Read More](https://medium.com/p/d68aba7e2263) |
 | Mon, 05 May 2025 18:30:09 GMT | Is Quantum Computing a Threat to Blockchain?⛓️‍ | Suraj Sabale | [Read More](https://medium.com/p/ee4066c16ee3) |
 | Mon, 05 May 2025 18:30:02 GMT | AirBorne: How Wormable AirPlay Flaws Put Billions of Apple Devices at Risk | Ismail Tasdelen | [Read More](https://medium.com/p/eae1c6071a12) |
 | Mon, 05 May 2025 18:25:26 GMT | Layered Defenses and Latent Failures: Why Software Errors Happen | Maneesh Chaturvedi | [Read More](https://medium.com/p/5493b35e97ea) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 14:11:45 GMT | Frictionless Fortress: Jillian Rushing’s Guide to Trust-First Product Security | cybergriotz | [Read More](https://medium.com/p/dcc2c69e452e) |
 | Mon, 05 May 2025 14:11:19 GMT | Master Cybersecurity with the Best Ethical Hacking Course in Mira Road at Samyak Computer Classes | Samyak IT Solution | [Read More](https://medium.com/p/a2a85b24a745) |
 | Mon, 05 May 2025 14:06:26 GMT | I Applied to 400 Jobs Before Landing One — Here’s the DevOps Resume That Finally Worked | Zudonu Osomudeya | [Read More](https://medium.com/p/669964fceadb) |
-| Mon, 05 May 2025 14:04:40 GMT | I deleted TikTok and Instagram off my phone last night and vowed to stop making content for my own… | Fallonbuchholz | [Read More](https://medium.com/p/22f916cefc8c) |
-| Mon, 05 May 2025 13:58:24 GMT | Cyber Briefing: 2025.05.05 | CyberMaterial | [Read More](https://medium.com/p/5db4da35c48f) |
-| Mon, 05 May 2025 13:56:34 GMT | Great Scott! The AI went ‘Back to the Backend’ without a ‘Transaction Token with Assured Context’! | Lars Lefebvre | [Read More](https://medium.com/p/3f3ee2a3b37d) |
-| Mon, 05 May 2025 13:49:18 GMT | The Double-Edged Sword of AI | Ammaar Shaikh | [Read More](https://medium.com/p/ef301e549508) |
-| Mon, 05 May 2025 13:47:50 GMT | Information Disclosure Vulnerability — A Simple Recon Leads to User Data Exposure $$$ | Dedrknex | [Read More](https://medium.com/p/0e13acaa1945) |
-| Mon, 05 May 2025 13:43:48 GMT | How Bug is Powering the Next Wave of Crypto Rewards | BUG | [Read More](https://medium.com/p/1fb9f85209dd) |
-| Mon, 05 May 2025 13:43:06 GMT | Data Sovereignty in a Connected World: Why FrostByte Puts You in Control | FrostByte | [Read More](https://medium.com/p/31b4c9c281c9) |
-| Mon, 05 May 2025 13:42:01 GMT | 82 — SOC140 — Phishing Mail Detected — Suspicious Task Scheduler-Letsdefend. | Amadi Oluchi Faith | [Read More](https://medium.com/p/d3a2193ec4cb) |
-| Mon, 05 May 2025 13:39:44 GMT | We have a binary: Malware.DontRunMeSo | Ad3M | [Read More](https://medium.com/p/51eeed0a76b2) |
-| Mon, 05 May 2025 13:33:13 GMT | If Your Data Is Safe, So Is Your Business: EDSPL’s 360° Cybersecurity Shield | saurabh cyberinfomines | [Read More](https://medium.com/p/b6ad17767e70) |
-| Mon, 05 May 2025 13:33:01 GMT | Threat and Vulnerabilities Report-April 2025 | Loginsoft | [Read More](https://medium.com/p/054ef00c86f3) |
-| Mon, 05 May 2025 13:31:47 GMT | Leveraging .INI Files for Code Execution on Windows: Techniques Used by Malware and Adversaries | Mohammed Tanveer | [Read More](https://medium.com/p/43bff6ec8e24) |
-| Mon, 05 May 2025 13:25:46 GMT | I Passed the Practical SOC Analyst Associate (PSAA) — Here’s What You Need to Know | Supot Sirisak | [Read More](https://medium.com/p/8e4096d758bc) |
