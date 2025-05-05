@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 08:47:36 GMT | Easy Framework based Bugs Series is soon… | Shir0E | [Read More](https://medium.com/p/fb8f29e21be0) |
+| Mon, 05 May 2025 08:42:27 GMT | OWASP Testing Guide(OTG-INFO-001) | Mehmet Başkır | [Read More](https://medium.com/p/9ea7a3a00670) |
+| Mon, 05 May 2025 08:41:11 GMT | Introduction about me | Shir0E | [Read More](https://medium.com/p/5431bc883bae) |
+| Mon, 05 May 2025 08:40:36 GMT | Vulnix Writeup (Vulnhub Intermediate Machine) | Ivan Daňo | [Read More](https://medium.com/p/2a7ddb0cb4c5) |
+| Mon, 05 May 2025 08:38:42 GMT | The Ultimate Guide to Using Cloudflare WAF: Setup, Rules, Examples and Docs | Aryansaha | [Read More](https://medium.com/p/28ae1d1e88a5) |
+| Mon, 05 May 2025 08:27:09 GMT | Hacker Summer Camp Diaries — Episode 2 | Piggy Bank by Prachi Doshi | [Read More](https://medium.com/p/bb29cd093100) |
 | Mon, 05 May 2025 08:14:11 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri: OSI ve TCP/IP Modelleri | Amad Tidiane Sow | [Read More](https://medium.com/p/60094ab398e9) |
 | Mon, 05 May 2025 08:11:45 GMT | Subdomain Dork Recon via 3rd party | AbhirupKonwar | [Read More](https://medium.com/p/54ea05b59a62) |
 | Mon, 05 May 2025 08:08:29 GMT | AI, Disinformation & Executive Risk: Why This Conversation Matters Now | SecOps | [Read More](https://medium.com/p/f16501c58999) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 01:07:01 GMT | Building Long-Term Wealth with Bounty | Jake
  Yang | [Read More](https://medium.com/p/3762ba0c3739) |
 | Mon, 05 May 2025 00:47:40 GMT | Securing a Small Business Network with Switch and Router Configurations | Cell | [Read More](https://medium.com/p/d227068913d5) |
-| Mon, 05 May 2025 00:44:24 GMT | Writing a Detection Broke My Brain (And Made Me Respect Security Engineers Forever) | Emmanuel Joshua | [Read More](https://medium.com/p/01ecd6bb6703) |
-| Mon, 05 May 2025 00:42:24 GMT | SIGINT(Signals Intelligence)Tools | loyalonlytoday | [Read More](https://medium.com/p/8968cf12b840) |
-| Mon, 05 May 2025 00:39:17 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 6) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/530fa102f14a) |
-| Mon, 05 May 2025 00:36:10 GMT | Initial Methodology for Hack The Box Machines | JPablo13 | [Read More](https://medium.com/p/59c0c6b1f8b1) |
-| Mon, 05 May 2025 00:22:18 GMT | How to Get the Most Out of Your ChainBounty $BOUNTY Rewards | BOUNTY | [Read More](https://medium.com/p/8a5f2c06b144) |
-| Mon, 05 May 2025 00:16:05 GMT | Email Spoofing Can Destroy Your Business!! | Md. Ashiquer Rahman Fahad | [Read More](https://medium.com/p/a431ea7a6287) |
