@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 09:21:14 GMT | Understanding the Basic Differences Between CCNA, CCNP, and CCIE | Vasundhra sharma | [Read More](https://medium.com/p/edd64d11b161) |
+| Mon, 05 May 2025 09:12:38 GMT | Best Home Safes for Peace of Mind: 3 Options That Actually Feel Worth It | One Tap | [Read More](https://medium.com/p/d66fe855bd22) |
+| Mon, 05 May 2025 09:08:54 GMT | Nuances about configuring Semgrep automated scans | Antonio Lara | [Read More](https://medium.com/p/7996d45e6b88) |
+| Mon, 05 May 2025 09:07:26 GMT | 7 Best HIPAA Compliance Software for 2025 | SecureSlate | [Read More](https://medium.com/p/ef4b0444dfd6) |
+| Mon, 05 May 2025 09:02:52 GMT | Securing the Web One Header at a Time: CSP Headers | Pranieth Chandrasekara | [Read More](https://medium.com/p/c734b5b8e8ec) |
+| Mon, 05 May 2025 09:02:50 GMT | Self-Awareness Is the Real Compatibility Test: Why Owning Your Past Creates Better Relationships | KarlBaia | [Read More](https://medium.com/p/145c6aba5fb5) |
+| Mon, 05 May 2025 09:01:39 GMT | Implementing OAuth 2.0 with Google and Facebook SSO in Spring Boot | Satyam Joshi | [Read More](https://medium.com/p/d2cd577da64b) |
+| Mon, 05 May 2025 08:58:16 GMT | VAPT for SaaS Startups: Early Security Investment That Pays Off | West Advanced Technologies Inc | [Read More](https://medium.com/p/f12eec00f308) |
+| Mon, 05 May 2025 08:55:26 GMT | RST TI Report Digest: 05 May 2025 | RST Cloud | [Read More](https://medium.com/p/643af11f1e43) |
+| Mon, 05 May 2025 08:51:29 GMT | How a Verbose Error Message Led Me to RCE Through a File Upload | Alberto Barbieri | [Read More](https://medium.com/p/bf8ea4a2d29d) |
+| Mon, 05 May 2025 08:48:01 GMT | Manual Penetration Testing Process Roadmap We Follow at AI1Security | All in One security | [Read More](https://medium.com/p/4655cab787a5) |
 | Mon, 05 May 2025 08:47:36 GMT | Easy Framework based Bugs Series is soon… | Shir0E | [Read More](https://medium.com/p/fb8f29e21be0) |
+| Mon, 05 May 2025 08:44:58 GMT | Falco: Getting hands-on for CKS exam | Puru Tuladhar | [Read More](https://medium.com/p/437f4e6c9484) |
 | Mon, 05 May 2025 08:42:27 GMT | OWASP Testing Guide(OTG-INFO-001) | Mehmet Başkır | [Read More](https://medium.com/p/9ea7a3a00670) |
+| Mon, 05 May 2025 08:42:18 GMT | HelloWorld, Goodbye Protection: Disassembling a Broken DEX Challenge | Alok Kumar Mishra | [Read More](https://medium.com/p/b8b34d6e08d8) |
 | Mon, 05 May 2025 08:41:11 GMT | Introduction about me | Shir0E | [Read More](https://medium.com/p/5431bc883bae) |
 | Mon, 05 May 2025 08:40:36 GMT | Vulnix Writeup (Vulnhub Intermediate Machine) | Ivan Daňo | [Read More](https://medium.com/p/2a7ddb0cb4c5) |
 | Mon, 05 May 2025 08:38:42 GMT | The Ultimate Guide to Using Cloudflare WAF: Setup, Rules, Examples and Docs | Aryansaha | [Read More](https://medium.com/p/28ae1d1e88a5) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 02:32:02 GMT | Your Digital Life Is at Risk — Even If You’re Not in Tech | Tech Researcher | [Read More](https://medium.com/p/80832905f95d) |
 | Mon, 05 May 2025 02:31:37 GMT | Using Two-Factor Authentication (2FA) To Stay Safe | Mwenda Kelvin | [Read More](https://medium.com/p/c6cb7e4a6b07) |
 | Mon, 05 May 2025 02:30:14 GMT | Broken Code, Broken Trust: Lessons from the Equifax Breach | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/c1b1e28db74f) |
-| Mon, 05 May 2025 02:29:35 GMT | Next NSA: Political Leader, Cyber Expert | CCD-IS | [Read More](https://medium.com/p/c4ae7a8ed7fe) |
-| Mon, 05 May 2025 02:24:10 GMT | Power Grid Cybersecurity: Protecting the Lifeline of Modern Society | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/f6f222f91597) |
-| Mon, 05 May 2025 02:13:04 GMT | Cyber Resilience: The New Cornerstone of National Security | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/abfcf49c550c) |
-| Mon, 05 May 2025 02:05:45 GMT | The AI Alignment Crisis: Why Cybersecurity & Computer Engineering See What Many AI Researchers… | Christoforus Yoga Haryanto | [Read More](https://medium.com/p/873ede0495a4) |
-| Mon, 05 May 2025 02:03:37 GMT | Are AI Systems Easy to Hack? Inside the Weak Links of Popular AI Methodologies | Anerella | [Read More](https://medium.com/p/8fbefeb1e787) |
-| Mon, 05 May 2025 01:56:26 GMT | Day 16: Sigma Rules — Write Once, Use Anywhere | Bl@ckC!pH3r | [Read More](https://medium.com/p/fa1ce11ba204) |
-| Mon, 05 May 2025 01:51:23 GMT | How a $60 Cat Feeder Crashed a Business in 48 Hours (No, Seriously) | Noel | [Read More](https://medium.com/p/ca18b8e9e228) |
-| Mon, 05 May 2025 01:39:51 GMT | SolarWinds Unshaded: A Deep Dive into the 2020 Supply Chain Breach — Cyber Threat | Jadala Ajay | [Read More](https://medium.com/p/2278c2cada95) |
-| Mon, 05 May 2025 01:27:49 GMT | Maximize Your Digital Wealth with DORK Strategies | DORK | [Read More](https://medium.com/p/b76784e64698) |
-| Mon, 05 May 2025 01:25:34 GMT | Mastering Modern Red Teaming Infrastructure — Part 8: Simulating APT Infostealer via Stealthy… | Faris Faisal 0xFF | [Read More](https://medium.com/p/ab128dbb83c6) |
-| Mon, 05 May 2025 01:11:50 GMT | For the Ones Still Holding On | Gigi | [Read More](https://medium.com/p/6e1cb7357f69) |
-| Mon, 05 May 2025 01:07:01 GMT | Building Long-Term Wealth with Bounty | Jake
- Yang | [Read More](https://medium.com/p/3762ba0c3739) |
-| Mon, 05 May 2025 00:47:40 GMT | Securing a Small Business Network with Switch and Router Configurations | Cell | [Read More](https://medium.com/p/d227068913d5) |
