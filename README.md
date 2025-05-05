@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 16:17:31 GMT | No Illusions, Just Cyber Security — Why I’m Here | Andre Fernandes | [Read More](https://medium.com/p/1ccd56b4f809) |
+| Mon, 05 May 2025 16:14:35 GMT | Shell Games : Understanding Reverse, Bind and Web Shells For CTF’s and More | Fuzzyy Duck | [Read More](https://medium.com/p/e8e9bcadc224) |
+| Mon, 05 May 2025 16:12:37 GMT | CYSHOCK 2025 | xSuffs811 | [Read More](https://medium.com/p/4b6e2db5bb46) |
+| Mon, 05 May 2025 16:11:05 GMT | Getting Started in Cybersecurity: A Career Change Guide | Kyla Saylor | [Read More](https://medium.com/p/509252832879) |
+| Mon, 05 May 2025 15:58:58 GMT | Spellbinding the Network: Replicating TheWizards’ APT-Style IPv6 Attack for Red Team Operations | Anthony Cihan | [Read More](https://medium.com/p/d1a2edca4c72) |
+| Mon, 05 May 2025 15:55:53 GMT | Understanding Why VPNs Matter In Internet Safety | James Neal | [Read More](https://medium.com/p/3404e8dfd597) |
+| Mon, 05 May 2025 15:52:24 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 44 | Cyber Strategy Institute | [Read More](https://medium.com/p/83d286d0a323) |
+| Mon, 05 May 2025 15:50:59 GMT | Crypto Success: Using Bugs Bunny to Your Advantage | BUGS | [Read More](https://medium.com/p/dab10674108e) |
+| Mon, 05 May 2025 15:46:48 GMT | what Is Fomo is forex trading ?? | Joseph classic | [Read More](https://medium.com/p/de888a3a5285) |
+| Mon, 05 May 2025 15:45:50 GMT | Revolutionary Features Of The Most Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/c19dd688466c) |
+| Mon, 05 May 2025 15:44:13 GMT | I found Open Redirect on US Government website | 0xPedrop | [Read More](https://medium.com/p/60a2d1d1e049) |
+| Mon, 05 May 2025 15:43:51 GMT | The Unseen Battle: Why Modern Cybersecurity Demands Proactive Defense and Zero Trust | e0xsecops | [Read More](https://medium.com/p/0f63ec875784) |
+| Mon, 05 May 2025 15:42:26 GMT | Back to Basics #6: Network layer protocols | Norman Kolarikkal | [Read More](https://medium.com/p/ad7d82ac6b80) |
 | Mon, 05 May 2025 15:32:26 GMT | Real-Time Challenges in Cyber-Physical Systems: Today and To the Future | Data Defendere | [Read More](https://medium.com/p/2a06c2be0206) |
 | Mon, 05 May 2025 15:32:05 GMT | The Risk of No Risk | Tom Yonashiro | [Read More](https://medium.com/p/93a11177cf04) |
 | Mon, 05 May 2025 15:30:06 GMT | How to Make Your ChainBounty $BOUNTY earn passive income for you | BOUNTY | [Read More](https://medium.com/p/3ca8bd0e9870) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 10:56:38 GMT | Delayed Disclosure, Lasting Damage - The VeriSource Data‑Breach Wake‑Up Call | Avnishyam | [Read More](https://medium.com/p/9ce4ac1a360d) |
 | Mon, 05 May 2025 10:54:43 GMT | Why Is Healthcare a Top Target for Cybersecurity Threats? | Shamsul Anam Emon | [Read More](https://medium.com/p/81b1f83713e1) |
 | Mon, 05 May 2025 10:51:28 GMT | Evoqua Water Technologies: All Latest info 2025 | Alisha Noor | [Read More](https://medium.com/p/d1f1d885f8e9) |
-| Mon, 05 May 2025 10:50:06 GMT | Forever, I Will Be Your Most Devoted Lover | Dean Amartasentana Sakutadjati | [Read More](https://medium.com/p/980c6892dcbd) |
-| Mon, 05 May 2025 10:35:37 GMT | Cybersecurity and the Art of Simplifying: Understand Deeply to Explain Clearly | K3e9X | [Read More](https://medium.com/p/4bbc2d72ab2b) |
-| Mon, 05 May 2025 10:34:07 GMT | Cybersecurity Core Terminologies: A Beginner’s Guide | Joshua Mizal | [Read More](https://medium.com/p/394e9ab6d2a3) |
-| Mon, 05 May 2025 10:32:08 GMT | FINDIT 2025: Simulating Ransomware Locked File Decryption | abdur rashid firdaus | [Read More](https://medium.com/p/c0889a86484c) |
-| Mon, 05 May 2025 10:27:42 GMT | #work on cyber issues... | The Gen Z Writer | [Read More](https://medium.com/p/af9cccd248b5) |
-| Mon, 05 May 2025 10:26:49 GMT | Recon Solana ETH Passive Income Strategies for 2025 | RECON | [Read More](https://medium.com/p/da758a66f92f) |
-| Mon, 05 May 2025 10:21:47 GMT | Account Takeover via IDOR in Password Reset — Leading to $$$$ Exposure | hexaphp | [Read More](https://medium.com/p/94ddab4626aa) |
-| Mon, 05 May 2025 10:18:42 GMT | The Ultimate Step-by-Step Guide for Curvance $CVE | CVE | [Read More](https://medium.com/p/1b6f58bf8f9c) |
-| Mon, 05 May 2025 10:16:53 GMT | A minimalistic way to evade Applocker and Defender using Regasm.exe with AES encryption. | Abdallah Mesleh | [Read More](https://medium.com/p/7de59d928044) |
-| Mon, 05 May 2025 10:16:03 GMT | Care Infotech | Careinfotech | [Read More](https://medium.com/p/ce167b75938c) |
-| Mon, 05 May 2025 10:10:32 GMT | Understanding the Real Power of Security in a Digital and Physical World | Anishaluccas | [Read More](https://medium.com/p/24706fe67c92) |
-| Mon, 05 May 2025 10:10:04 GMT | COUNTER-PROGRAM: “HUMAN DIGNITY DEFENSE INITIATIVE” (HDDI) | SIMKRA | [Read More](https://medium.com/p/7f3b08a1e16d) |
-| Mon, 05 May 2025 10:09:45 GMT | CAP Walkthrough — HackTheBox | R4nd0mSys | [Read More](https://medium.com/p/0e53a7bd4ce3) |
