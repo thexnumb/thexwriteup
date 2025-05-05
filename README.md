@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 19:28:19 GMT | How to Harden WordPress Login Security Against Brute Force Attacks | Shubradeb | [Read More](https://medium.com/p/dee5f771754b) |
+| Mon, 05 May 2025 19:27:20 GMT | Cybersecurity in Quantum Computing: Challenges and Opportunities | Paul Leongas | [Read More](https://medium.com/p/45563996be6a) |
+| Mon, 05 May 2025 19:26:16 GMT | Part 2: Identity Federation in Multi-Cloud — Governance & Oversight Failures | Karlmarx Karunanithi | [Read More](https://medium.com/p/9d8efb804f60) |
+| Mon, 05 May 2025 19:22:59 GMT | How to Secure SSH Access to Your Linux Server | Hizam Alaklbi | [Read More](https://medium.com/p/5374f835fcf5) |
+| Mon, 05 May 2025 19:21:37 GMT | Tryhackme Ledger write-up | 14thprince | [Read More](https://medium.com/p/cbdb088ec9c4) |
 | Mon, 05 May 2025 19:12:40 GMT | BehindTheScreens: Breaches, Backlashes, and the Battle for AI Security | Sam Achek | [Read More](https://medium.com/p/9e82da0785d7) |
 | Mon, 05 May 2025 19:12:17 GMT | #OpISIS: Hacktivism and the New Era of Counterterrorism | Taryn Murphy | [Read More](https://medium.com/p/8c852ba38c95) |
 | Mon, 05 May 2025 19:01:01 GMT | TryHackMe: Search Skills Room Explained | Diego Lasarin | [Read More](https://medium.com/p/e4c5114eadf9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 14:20:24 GMT | How you get hacked by simply opening my document | TimTrademark | [Read More](https://medium.com/p/35f811958391) |
 | Mon, 05 May 2025 14:17:52 GMT | Ubuntu Server Snort Kurulumu | Buse Suna | [Read More](https://medium.com/p/c6f708c488c6) |
 | Mon, 05 May 2025 14:16:34 GMT | Compaq HP Insight Manager — Port 2301, 2381 — How to exploit | Very Lazy Tech | [Read More](https://medium.com/p/337f1175d2f8) |
-| Mon, 05 May 2025 14:16:33 GMT | The Relevance of Ongoing Security Management Development | Ed-it Editions | [Read More](https://medium.com/p/ecb0c4fc2265) |
-| Mon, 05 May 2025 14:11:51 GMT | Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security | Dhanush N | [Read More](https://medium.com/p/7173f6e90980) |
-| Mon, 05 May 2025 14:11:45 GMT | Frictionless Fortress: Jillian Rushing’s Guide to Trust-First Product Security | cybergriotz | [Read More](https://medium.com/p/dcc2c69e452e) |
-| Mon, 05 May 2025 14:11:19 GMT | Master Cybersecurity with the Best Ethical Hacking Course in Mira Road at Samyak Computer Classes | Samyak IT Solution | [Read More](https://medium.com/p/a2a85b24a745) |
-| Mon, 05 May 2025 14:06:26 GMT | I Applied to 400 Jobs Before Landing One — Here’s the DevOps Resume That Finally Worked | Zudonu Osomudeya | [Read More](https://medium.com/p/669964fceadb) |
