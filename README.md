@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 21:31:40 GMT | Microsoft Bug Bounty: How I Found Unrestricted Access to Trace.axd | Ali Hassan Khan | [Read More](https://medium.com/p/734cd3fdddb5) |
+| Mon, 05 May 2025 21:26:29 GMT | This AI Can Hack Itself: The Chilling Truth About Agentic AI Cyber Threats | The Lazy Creator | [Read More](https://medium.com/p/1b6a361ee256) |
+| Mon, 05 May 2025 21:26:01 GMT | Conquer burnout | BitFlippa | [Read More](https://medium.com/p/0c567956211e) |
+| Mon, 05 May 2025 21:23:31 GMT | How to Plan a Corporate Data Migration to the Cloud with Security and High Availability | Fred Alencar R Fonseca | [Read More](https://medium.com/p/f9cb7f6add68) |
+| Mon, 05 May 2025 21:22:33 GMT | Elevating Stadium Experiences: Smarter, Safer Access for World-Class Venues | SU Group Holdings Limited (SUGP) | [Read More](https://medium.com/p/a303382210d0) |
+| Mon, 05 May 2025 21:14:33 GMT | The Quiet Tech War You’re Not Watching (And Why That’s a Good Thing) | Aaron Rose | [Read More](https://medium.com/p/7a5fc780532c) |
 | Mon, 05 May 2025 20:58:25 GMT | Ağ Katmanlarını Anlamak ve Siber Dünyanın Tehlikeleriyle Yüzleşmek | Hiranur Gemalmaz | [Read More](https://medium.com/p/d3a7964ce880) |
 | Mon, 05 May 2025 20:57:28 GMT | Time-Based C2 DNS Server | S12 - H4CK | [Read More](https://medium.com/p/9338545e5575) |
 | Mon, 05 May 2025 20:50:13 GMT | Part 3: Identity Federation in Multi-Cloud — Exploits, Use Cases, and How to Fix It | Karlmarx Karunanithi | [Read More](https://medium.com/p/9903bb7173ce) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 15:30:06 GMT | How to Make Your ChainBounty $BOUNTY earn passive income for you | BOUNTY | [Read More](https://medium.com/p/3ca8bd0e9870) |
 | Mon, 05 May 2025 15:23:24 GMT | Increase Your Curvance $CVE Rewards in 2025 | CVE | [Read More](https://medium.com/p/b3b51051bceb) |
 | Mon, 05 May 2025 15:21:33 GMT | Zero-Day Exploit in Apple Devices Opens the Door to Wormable Attacks via AirPlay | Zbyte | [Read More](https://medium.com/p/fba74e66de6d) |
-| Mon, 05 May 2025 15:19:33 GMT | Metaverse: What It Means for Work, Play, and Identity | Pavan | [Read More](https://medium.com/p/d58c9ccb67f2) |
-| Mon, 05 May 2025 15:17:41 GMT | Salt and Pepper: The Perfect Spices for Hashing | Mark Achiles G. Flores Jr. | [Read More](https://medium.com/p/e84d40c1ee6c) |
-| Mon, 05 May 2025 15:15:26 GMT | 18,000 Networks Hacked: How SolarWinds Compromised Global Security | M Yousuf Hussain | [Read More](https://medium.com/p/a00fdee57d6d) |
-| Mon, 05 May 2025 15:14:20 GMT | JWT Authentication Best Practices: A Guide for Secure Web Applications | Hamzasufian | [Read More](https://medium.com/p/798b7a36f023) |
-| Mon, 05 May 2025 15:12:28 GMT | Critical Android Zero-Day Vulnerabilities Exposed: What You Need to Know and How to Stay Safe | Omar Alhendi | [Read More](https://medium.com/p/aee89b18767e) |
-| Mon, 05 May 2025 15:10:12 GMT | Can I Perform SCAP Scans on Container Images? Yes You Can! | Dale Bingham | [Read More](https://medium.com/p/b646798e1ba3) |
