@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 10:35:37 GMT | Cybersecurity and the Art of Simplifying: Understand Deeply to Explain Clearly | K3e9X | [Read More](https://medium.com/p/4bbc2d72ab2b) |
+| Mon, 05 May 2025 10:34:07 GMT | Cybersecurity Core Terminologies: A Beginner’s Guide | Joshua Mizal | [Read More](https://medium.com/p/394e9ab6d2a3) |
+| Mon, 05 May 2025 10:32:08 GMT | FINDIT 2025: Simulating Ransomware Locked File Decryption | abdur rashid firdaus | [Read More](https://medium.com/p/c0889a86484c) |
+| Mon, 05 May 2025 10:27:42 GMT | #work on cyber issues... | The Gen Z Writer | [Read More](https://medium.com/p/af9cccd248b5) |
+| Mon, 05 May 2025 10:26:49 GMT | Recon Solana ETH Passive Income Strategies for 2025 | RECON | [Read More](https://medium.com/p/da758a66f92f) |
+| Mon, 05 May 2025 10:21:47 GMT | Account Takeover via IDOR in Password Reset — Leading to $$$$ Exposure | hexaphp | [Read More](https://medium.com/p/94ddab4626aa) |
 | Mon, 05 May 2025 10:18:42 GMT | The Ultimate Step-by-Step Guide for Curvance $CVE | CVE | [Read More](https://medium.com/p/1b6f58bf8f9c) |
+| Mon, 05 May 2025 10:16:53 GMT | A minimalistic way to evade Applocker and Defender using Regasm.exe with AES encryption. | Abdallah Mesleh | [Read More](https://medium.com/p/7de59d928044) |
 | Mon, 05 May 2025 10:16:03 GMT | Care Infotech | Careinfotech | [Read More](https://medium.com/p/ce167b75938c) |
+| Mon, 05 May 2025 10:10:32 GMT | Understanding the Real Power of Security in a Digital and Physical World | Anishaluccas | [Read More](https://medium.com/p/24706fe67c92) |
+| Mon, 05 May 2025 10:10:04 GMT | COUNTER-PROGRAM: “HUMAN DIGNITY DEFENSE INITIATIVE” (HDDI) | SIMKRA | [Read More](https://medium.com/p/7f3b08a1e16d) |
 | Mon, 05 May 2025 10:09:45 GMT | CAP Walkthrough — HackTheBox | R4nd0mSys | [Read More](https://medium.com/p/0e53a7bd4ce3) |
 | Mon, 05 May 2025 10:04:07 GMT | Dogcat (Medium) —  TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/f51d549517f8) |
 | Mon, 05 May 2025 09:58:39 GMT | Best Python Programming Training for Beginners in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/10c514eb22f5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 05:27:28 GMT | AI-Powered Threat Detection: Enhancing Cybersecurity in Danish Applications | Teo Nordics | [Read More](https://medium.com/p/f8ea15960ed6) |
 | Mon, 05 May 2025 05:15:52 GMT | Secure Your Cloud, Secure Your Future ☁️️ | R&B Networks | [Read More](https://medium.com/p/19cad022852d) |
 | Mon, 05 May 2025 05:07:52 GMT | Why Change Management is Critical for Cybersecurity? | unica 02 | [Read More](https://medium.com/p/428a40e9affe) |
-| Mon, 05 May 2025 05:06:57 GMT | The Journey to Spiritual Awakening: Embracing Mutual Integration | Zsolt Hermann | [Read More](https://medium.com/p/90de35a0eefa) |
-| Mon, 05 May 2025 05:06:02 GMT | How to Enhance Your LunaFi $LFI Strategy | LFI | [Read More](https://medium.com/p/f45e88e92003) |
-| Mon, 05 May 2025 05:02:09 GMT | User Safety and Security on Daman Games - A Trusted Gaming Environment | Sahima Sighs | [Read More](https://medium.com/p/321792e12a15) |
-| Mon, 05 May 2025 04:55:44 GMT | AI-Powered Debugging Tools You Should Try Now (2025) | 1926JB55 Soundarya.S | [Read More](https://medium.com/p/0ee9ef2b5935) |
-| Mon, 05 May 2025 04:46:37 GMT | Cloud Squatting: Understanding and Mitigating a Modern Cyber Threat | Centizen Nationwide | [Read More](https://medium.com/p/bff365dd4614) |
-| Mon, 05 May 2025 04:45:25 GMT | SPOKANE, Washington — A 15-year-old Spokane resident has been arrested in connection with a… | Jonathan Terrezo | [Read More](https://medium.com/p/3a75c9be249e) |
-| Mon, 05 May 2025 04:44:11 GMT | Benefits of Third-Party Vendor Audit Services to Industry | Securis360 Inc. | [Read More](https://medium.com/p/2bd19487f50e) |
-| Mon, 05 May 2025 04:36:31 GMT | How Hackers find your weak spots? | Innefu Labs | [Read More](https://medium.com/p/3d6fe4f9c952) |
-| Mon, 05 May 2025 04:31:38 GMT | Are Enterprise LLMs Secure Enough for Internal Use? | MidnightMusings | [Read More](https://medium.com/p/890632f29e91) |
