@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 12:31:06 GMT | Kerberos necə işləyir? Protokolun mexanizminə detallı baxış | nurlan012 | [Read More](https://medium.com/p/4aec368ebafe) |
+| Mon, 05 May 2025 12:28:53 GMT | Domain III — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/daf9c3b1a5e4) |
+| Mon, 05 May 2025 12:28:00 GMT | Week 19: Vulnerability | Deepa Ranganathan | [Read More](https://medium.com/p/e9c0bc38fb39) |
+| Mon, 05 May 2025 12:24:52 GMT | How Much Time Does a SOC 2 Audit Take? | SecureSlate | [Read More](https://medium.com/p/a298073ddc9e) |
+| Mon, 05 May 2025 12:08:52 GMT | Securing the Internet of Things: How to Safeguard Connected Devices from Breaches | HIYA CHATTERJEE | [Read More](https://medium.com/p/5bd8b0879e16) |
+| Mon, 05 May 2025 12:07:44 GMT | Crafting Policies That Drive Secure Innovation and Resilient Governance | COMPASS | [Read More](https://medium.com/p/85f131f0cbf0) |
+| Mon, 05 May 2025 12:07:08 GMT | Recovery | Jenny Kyle | [Read More](https://medium.com/p/76b4bacb55ad) |
+| Mon, 05 May 2025 12:04:04 GMT | How Multi-Factor Authentication (MFA) Works | Gowtham D | [Read More](https://medium.com/p/52c962813b92) |
+| Mon, 05 May 2025 11:59:04 GMT | A highly detailed digital illustration of a humanoid robot named "A-07" sitting on a metal bench in… | Imran Khan Fans 804 | [Read More](https://medium.com/p/9878120c2652) |
+| Mon, 05 May 2025 11:41:31 GMT | SSRF Attacks in Modern Web Applications: Next-Generation Tactics | Esra Kayhan | [Read More](https://medium.com/p/af23d62070b1) |
+| Mon, 05 May 2025 11:39:42 GMT | SOAR is the Future: Transforming the Modern SOC — PART 3 SOAR vs SIEM — Understanding the… | CTF Shadow 24 | [Read More](https://medium.com/p/66d1112f723a) |
+| Mon, 05 May 2025 11:37:20 GMT | Perfection Is a Myth, Leverage Isn’t: Securing Google Workspace for Small Teams | Ismail Tasdelen | [Read More](https://medium.com/p/1f8a7b391cbf) |
 | Mon, 05 May 2025 11:31:27 GMT | Cyber Alert: Patna में 2 भाई गिरफ्तार — ️‍♂️ CBI और ED बनकर करते थे Cyber Fraud! | Hacker news 07 | [Read More](https://medium.com/p/081312f485ef) |
 | Mon, 05 May 2025 11:28:28 GMT | The Ultimate Guide to Cyber Threat Actors: Exploring Hackers, Hacktivists, and Their Tactics | Abdelaziz moustakim | [Read More](https://medium.com/p/c660cefc90b6) |
 | Mon, 05 May 2025 11:25:04 GMT | Beyond Ports and Protocols: The Rise of Deep Packet Inspection | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/516506813bc2) |
@@ -58,6 +70,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 09:33:09 GMT | The Ultimate Guide to Cyber Security Training in India 2025 | Amaljoseph | [Read More](https://medium.com/p/103698263e4c) |
 | Mon, 05 May 2025 09:32:42 GMT | CVE-2025–32817: Critical SonicWall Privilege Escalation Flaw — Why Businesses Need Proactive… | Infoziant | [Read More](https://medium.com/p/bb81f032128d) |
 | Mon, 05 May 2025 09:31:20 GMT | Moebius Tryhackme Writeup | St3mw4s | [Read More](https://medium.com/p/d9b1790f1225) |
+| Mon, 05 May 2025 09:29:51 GMT | How Security Copilot is Changing SOC Operations | Mirko Peters | [Read More](https://medium.com/p/09e5e4e9ec8c) |
 | Mon, 05 May 2025 09:29:48 GMT | $750 Bounty: Sensitive Data Exposure | Monika sharma | [Read More](https://medium.com/p/c944e626c733) |
 | Mon, 05 May 2025 09:29:17 GMT | Equifax Breach: How a $700M Mistake Happened | Ahmad Javed | [Read More](https://medium.com/p/3fd54858a650) |
 | Mon, 05 May 2025 09:29:09 GMT | Secure your Python applications: Best practices for developers | Roman Huliak | [Read More](https://medium.com/p/8ab8b8bc8bba) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 07:10:05 GMT | This Time Give Silence A Chance. | Sandali | [Read More](https://medium.com/p/ceb3d256a3d9) |
 | Mon, 05 May 2025 07:03:15 GMT | Cloud Computing 101: The Glossary Edition | Aliyan Shaikh | [Read More](https://medium.com/p/46f1e93172aa) |
 | Mon, 05 May 2025 07:02:57 GMT | SIEM in the Trenches: 25 Real-World Lessons for Building Scalable, Actionable, and Cost-Efficient… | Rsprasangi | [Read More](https://medium.com/p/9b610dc5ab67) |
-| Mon, 05 May 2025 07:02:02 GMT | Complete Ethical Hacking Course with Certification 2025 | cyber security Updates | [Read More](https://medium.com/p/8ca4d38e6c27) |
-| Mon, 05 May 2025 07:01:35 GMT | Scammers Are Getting Smarter, and It’s Getting Weird | Chisom Ezeneche | [Read More](https://medium.com/p/9f7de616a65d) |
-| Mon, 05 May 2025 07:00:50 GMT | writing a vulnerable story | Natacha G. Filion | [Read More](https://medium.com/p/62414812fb42) |
-| Mon, 05 May 2025 06:56:28 GMT | Why Post-Quantum CryptoGraphy isn’t ready for Prime Time | Sudarshan | [Read More](https://medium.com/p/00443acc5eea) |
-| Mon, 05 May 2025 06:51:55 GMT | 0 CVE with 0 Effort — your fast-track guide to secure containers with Minimus  ! | Aviel Bitton | [Read More](https://medium.com/p/b914405d6111) |
-| Mon, 05 May 2025 06:47:16 GMT | Understanding Network and Web Security: How to Safeguard Your Digital Assets | Khatore IT Solutions | [Read More](https://medium.com/p/40fd0459162f) |
-| Mon, 05 May 2025 06:42:34 GMT | The Compliance Trap: Checkboxes That Don’t Actually Protect You | Induz Data Solutions | [Read More](https://medium.com/p/07ae983545de) |
-| Mon, 05 May 2025 06:34:32 GMT | The Daily Tech Digest: 05 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/05c95f1c8226) |
-| Mon, 05 May 2025 06:27:09 GMT | Understanding Security at the Edge vs. at the Application Layer in AWS | Pierre Schroth | [Read More](https://medium.com/p/2bfa16903421) |
-| Mon, 05 May 2025 06:26:16 GMT | Main Reasons for Increasing Cyber Crimes: | Ashish Agrawal | [Read More](https://medium.com/p/f82cf5e8ae9d) |
-| Mon, 05 May 2025 06:22:26 GMT | AI Agents and the End of Awkward Pair Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/f0ccc54f162d) |
-| Mon, 05 May 2025 06:19:09 GMT | Securing Your Website with Content Security Policy (CSP): Nonce vs Hash | Sahaya Godson | [Read More](https://medium.com/p/36fa6ea913a0) |
-| Mon, 05 May 2025 06:12:48 GMT | Golden Chickens Expand Malware Arsenal with TerraStealerV2 and TerraLogger to Target Browser… | CyDhaal | [Read More](https://medium.com/p/ad8d6da7f3d3) |
