@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 08:14:11 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri: OSI ve TCP/IP Modelleri | Amad Tidiane Sow | [Read More](https://medium.com/p/60094ab398e9) |
+| Mon, 05 May 2025 08:11:45 GMT | Subdomain Dork Recon via 3rd party | AbhirupKonwar | [Read More](https://medium.com/p/54ea05b59a62) |
+| Mon, 05 May 2025 08:08:29 GMT | AI, Disinformation & Executive Risk: Why This Conversation Matters Now | SecOps | [Read More](https://medium.com/p/f16501c58999) |
+| Mon, 05 May 2025 08:06:21 GMT | OWASP: Web Uygulamaları Güvenlik Testi | Mehmet Başkır | [Read More](https://medium.com/p/cfdf0596f467) |
+| Mon, 05 May 2025 08:02:00 GMT | Secure Grafana: The 2025 Checklist | Giam | [Read More](https://medium.com/p/b2b66e7730e4) |
+| Mon, 05 May 2025 08:01:04 GMT | The Evolution of Sparse Information Retrieval | Beatrice Rapisarda | [Read More](https://medium.com/p/0857e5dcc761) |
+| Mon, 05 May 2025 07:59:35 GMT | Membaca access.log untuk Respons Insiden dan Investigasi Forensik Digital (Part 2) — Indonesia ver. | influez | [Read More](https://medium.com/p/700c75e0c4fd) |
+| Mon, 05 May 2025 07:58:26 GMT | Msfvenom ile nasıl payload oluşturulur,payload nasıl AV sistemlerinden gizlenir? | Mustafa Şekerci | [Read More](https://medium.com/p/f6f2277b2205) |
+| Mon, 05 May 2025 07:56:26 GMT | How spyware in Mobile Apps Steals Your Private Photos and Messages | KLEAP Institute of Information Security | [Read More](https://medium.com/p/07720d76fa0d) |
+| Mon, 05 May 2025 07:55:18 GMT | Google Dorking: How to Uncover Hidden Vulnerabilities in Penetration Testing ️‍♂️ | YoungerSibling | [Read More](https://medium.com/p/2a3386522e79) |
+| Mon, 05 May 2025 07:44:17 GMT | Clickjacked to the Core: Turning UI into a Trapdoor | Iski | [Read More](https://medium.com/p/a196dde6997b) |
 | Mon, 05 May 2025 07:26:01 GMT | VPN vs. Proxy: What’s the Difference and Which One Should You Choose? | EVA VPN | [Read More](https://medium.com/p/920684c082f7) |
 | Mon, 05 May 2025 07:12:31 GMT | Bypassing Regex Validations to Achieve RCE: A Wild Bug Story | Abhijeet Kumawat | [Read More](https://medium.com/p/4c523f69b9f8) |
 | Mon, 05 May 2025 07:12:14 GMT | Why Choose Mobiloitte for Smart Agriculture Tech? | Remand Simon | [Read More](https://medium.com/p/5e2ffcc481e9) |
@@ -102,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 00:36:10 GMT | Initial Methodology for Hack The Box Machines | JPablo13 | [Read More](https://medium.com/p/59c0c6b1f8b1) |
 | Mon, 05 May 2025 00:22:18 GMT | How to Get the Most Out of Your ChainBounty $BOUNTY Rewards | BOUNTY | [Read More](https://medium.com/p/8a5f2c06b144) |
 | Mon, 05 May 2025 00:16:05 GMT | Email Spoofing Can Destroy Your Business!! | Md. Ashiquer Rahman Fahad | [Read More](https://medium.com/p/a431ea7a6287) |
-| Mon, 05 May 2025 00:14:27 GMT | Security in the Grey: A Study of Risk, Reward, and Human Nature | Tuan Kamiss | [Read More](https://medium.com/p/098ca095039b) |
-| Mon, 05 May 2025 00:02:46 GMT | Your Browser is the Battlefield Now: Axiad Mesh + Microsoft Edge for Business | David Canellos | [Read More](https://medium.com/p/fae10180cf63) |
-| Sun, 04 May 2025 23:17:03 GMT | HackTheBox - UpDown | jniket | [Read More](https://medium.com/p/f25fce332352) |
-| Sun, 04 May 2025 23:16:25 GMT | The Red Teaming: 30-Day Challenge[21] | Bl@ckC!pH3r | [Read More](https://medium.com/p/def1cfcaf7f3) |
-| Sun, 04 May 2025 23:02:27 GMT | LetsDefend — Windows Registry Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/a905b3f24fee) |
-| Sun, 04 May 2025 22:52:48 GMT | How to Earn Passive Income with Bugs Bunny $BUGS Rewards | Benjamin
- Lucas | [Read More](https://medium.com/p/7cd04c46d503) |
-| Sun, 04 May 2025 22:48:49 GMT | Securing the Cloud with Ease: The Power of Agentless Defender for Cloud | Shivaprasad Narayana | [Read More](https://medium.com/p/af9c3906e5e6) |
-| Sun, 04 May 2025 22:41:32 GMT | Recovery Made Easy With James… | Jenny Kyle | [Read More](https://medium.com/p/5daec2ae63a8) |
-| Sun, 04 May 2025 22:36:57 GMT | Why Dev Environments Should Never Be Public & What Happens When They’re Forgotten | BatuKapicioglu | [Read More](https://medium.com/p/8d955d1f489b) |
-| Sun, 04 May 2025 22:34:07 GMT | Explaining a Warm Standby Disaster Recovery Architecture on AWS | Akuphe Dieudonne | [Read More](https://medium.com/p/6858039c6a09) |
-| Sun, 04 May 2025 22:16:34 GMT | How to Implement a SIEM Solution in Your Organization: A Practical Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5b59394e3e48) |
