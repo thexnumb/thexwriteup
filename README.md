@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 05:37:22 GMT | HTB: Ransom (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/10fd87409d7e) |
+| Mon, 05 May 2025 05:36:51 GMT | Day 26 of Web Security: Delimiter & Normalization Discrepancies | Agarwaldaksh | [Read More](https://medium.com/p/aa07e043c2b2) |
+| Mon, 05 May 2025 05:33:00 GMT | Threat Profiling 101: How to Create a Threat Profile | Adam Goss | [Read More](https://medium.com/p/4f37f9c4a943) |
+| Mon, 05 May 2025 05:27:28 GMT | AI-Powered Threat Detection: Enhancing Cybersecurity in Danish Applications | Teo Nordics | [Read More](https://medium.com/p/f8ea15960ed6) |
+| Mon, 05 May 2025 05:15:52 GMT | Secure Your Cloud, Secure Your Future ☁️️ | R&B Networks | [Read More](https://medium.com/p/19cad022852d) |
 | Mon, 05 May 2025 05:07:52 GMT | Why Change Management is Critical for Cybersecurity? | unica 02 | [Read More](https://medium.com/p/428a40e9affe) |
 | Mon, 05 May 2025 05:06:57 GMT | The Journey to Spiritual Awakening: Embracing Mutual Integration | Zsolt Hermann | [Read More](https://medium.com/p/90de35a0eefa) |
 | Mon, 05 May 2025 05:06:02 GMT | How to Enhance Your LunaFi $LFI Strategy | LFI | [Read More](https://medium.com/p/f45e88e92003) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 19:32:17 GMT | Loopscale’s $5.8M Exploit: Internal Pricing vulnerability | CyberLucifer | [Read More](https://medium.com/p/52de24ee8c28) |
 | Sun, 04 May 2025 19:27:03 GMT | Write Smarter Functions in Python: 10 Tips That Will Change the Way You Code | Ozdprinter | [Read More](https://medium.com/p/087485369d41) |
 | Sun, 04 May 2025 19:26:59 GMT | Coinbase urges US Supreme Court to rethink digital privacy doctrine | IC News | [Read More](https://medium.com/p/c8b0ce73f14f) |
-| Sun, 04 May 2025 19:24:33 GMT | How to Hack an LLM: A Beginner-Friendly Guide to Pentesting Large Language Models | Naveen Singh | [Read More](https://medium.com/p/bc7cdbd65cb9) |
-| Sun, 04 May 2025 19:19:25 GMT | SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data | Prashant kamkar | [Read More](https://medium.com/p/0bde62a649aa) |
-| Sun, 04 May 2025 19:13:52 GMT | Malvertising: The $13 Billion Problem You Didn’t Know You Were Paying For | Amit kumar | [Read More](https://medium.com/p/88f7d91de5ba) |
-| Sun, 04 May 2025 19:10:39 GMT | So You Think You Have Nothing to Hide? Think Again. | Judy's Cyber Journal | [Read More](https://medium.com/p/555f5ba9f53f) |
-| Sun, 04 May 2025 19:10:23 GMT | 5 Ways Hackers Exploit Outdated WordPress Plugins — and How to Stop Them | Shubradeb | [Read More](https://medium.com/p/e9c5669ec7d1) |
