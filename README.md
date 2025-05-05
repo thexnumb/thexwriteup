@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 10:18:42 GMT | The Ultimate Step-by-Step Guide for Curvance $CVE | CVE | [Read More](https://medium.com/p/1b6f58bf8f9c) |
+| Mon, 05 May 2025 10:16:03 GMT | Care Infotech | Careinfotech | [Read More](https://medium.com/p/ce167b75938c) |
+| Mon, 05 May 2025 10:09:45 GMT | CAP Walkthrough — HackTheBox | R4nd0mSys | [Read More](https://medium.com/p/0e53a7bd4ce3) |
+| Mon, 05 May 2025 10:04:07 GMT | Dogcat (Medium) —  TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/f51d549517f8) |
+| Mon, 05 May 2025 09:58:39 GMT | Best Python Programming Training for Beginners in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/10c514eb22f5) |
+| Mon, 05 May 2025 09:57:27 GMT | CONNESSI A MORTE | Arturo Di Corinto | [Read More](https://medium.com/p/bb7bc1a798f8) |
+| Mon, 05 May 2025 09:55:46 GMT | The Ascendant Tide: Navigating the Growth of the Cyber Security as a Service Market | Marrtin Olivia | [Read More](https://medium.com/p/5cbfd3213612) |
+| Mon, 05 May 2025 09:47:52 GMT | Detecting SQL Injection Attacks - LetsDefend | Arshad Hossain | [Read More](https://medium.com/p/f61d7c631dc8) |
+| Mon, 05 May 2025 09:46:28 GMT | Golden Chickens Return with TerraStealerV2: A Potent Threat to Cryptocurrency and Financial Sectors | CyBlog | [Read More](https://medium.com/p/915f34607b73) |
+| Mon, 05 May 2025 09:45:27 GMT | Domain II — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/b6c45679fed0) |
+| Mon, 05 May 2025 09:42:03 GMT | How to Create a MySQL 8.0 Instance in GCP Using Terraform with a Shared VPC | Think, Write, Repeat | [Read More](https://medium.com/p/bba92f2caf91) |
+| Mon, 05 May 2025 09:41:25 GMT | Earn Big with Bugs Bunny $BUGS Rewards This Year | BUGS | [Read More](https://medium.com/p/eb72c1683074) |
 | Mon, 05 May 2025 09:40:42 GMT | {CyberDefenders Write-up} Lespion Lab : Lespion Lab | Sh3nobi | [Read More](https://medium.com/p/f6bbe3270696) |
+| Mon, 05 May 2025 09:37:34 GMT | How this little $2 E-Book Quietly Fixed a JIRA Nightmare I Didn’t Even Know I Had | Suresh Parimi | [Read More](https://medium.com/p/d2284f041ed7) |
 | Mon, 05 May 2025 09:36:05 GMT | Windows Persistence via Registry: Run and RunOnce Keys | Taha Ex | [Read More](https://medium.com/p/c2d6eced8a6e) |
 | Mon, 05 May 2025 09:33:27 GMT | What Websites Know About You | Corinna Brown | [Read More](https://medium.com/p/aa2ba5373f8e) |
 | Mon, 05 May 2025 09:33:19 GMT | Mastering Metasploit: A Beginner Guide for Penetration Testing | Rac:) | [Read More](https://medium.com/p/f8eb9825c05c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 04:44:11 GMT | Benefits of Third-Party Vendor Audit Services to Industry | Securis360 Inc. | [Read More](https://medium.com/p/2bd19487f50e) |
 | Mon, 05 May 2025 04:36:31 GMT | How Hackers find your weak spots? | Innefu Labs | [Read More](https://medium.com/p/3d6fe4f9c952) |
 | Mon, 05 May 2025 04:31:38 GMT | Are Enterprise LLMs Secure Enough for Internal Use? | MidnightMusings | [Read More](https://medium.com/p/890632f29e91) |
-| Mon, 05 May 2025 04:20:55 GMT | UAE Enhances Public Safety with Expanded CCTV Surveillance Network | Tekshoyabeelyas | [Read More](https://medium.com/p/90a6956276bf) |
-| Mon, 05 May 2025 04:17:54 GMT | Exploiting computer control agents | Sevan Hayrapet | [Read More](https://medium.com/p/4beb9a330694) |
-| Mon, 05 May 2025 04:10:45 GMT | Guide to Obtaining a Second Citizenship in Saint Lucia through the Citizenship by Investment. | Michael P. Di Fulvio | [Read More](https://medium.com/p/0ff4139aa275) |
-| Mon, 05 May 2025 04:03:02 GMT | WebSockFish - Writeup | Marvin | [Read More](https://medium.com/p/e29a79a2ef0d) |
-| Mon, 05 May 2025 04:02:37 GMT | Let’s Activate Fail2Ban: A Lesson in Cybersecurity, Persistence, and Growth | Arash hadad | [Read More](https://medium.com/p/5124b4e737ba) |
-| Mon, 05 May 2025 03:55:47 GMT | VPN Functionality: Ensuring Online Privacy | James Neal | [Read More](https://medium.com/p/007726f0eabe) |
-| Mon, 05 May 2025 03:51:47 GMT | How a Simple Calendar Invite Brought Down a Fast-Growing Business: The AI Vulnerability No One Saw… | Noel | [Read More](https://medium.com/p/36503ab6ce31) |
-| Mon, 05 May 2025 03:45:46 GMT | Advanced VPN Providers Setting New Standards | Melvin Erickson | [Read More](https://medium.com/p/39c99c9cffa8) |
-| Mon, 05 May 2025 03:34:26 GMT | Data Minimization and Purpose Limitation: Principles for Compliance | Author Peter - Lawyer- MBA ,LL.M | [Read More](https://medium.com/p/6beba3819b00) |
-| Mon, 05 May 2025 03:32:26 GMT | Inside the Alleged Cyberattack on Jaguar Land Rover | Deven Chhajed | [Read More](https://medium.com/p/5613b9cc415f) |
-| Mon, 05 May 2025 03:32:25 GMT | How a Simple Phone Number Led to a Shocking Discovery Using Spiderfoot | Sam Galope | [Read More](https://medium.com/p/c292f6e2e53d) |
-| Mon, 05 May 2025 03:30:01 GMT | UnderPass — Hack The Box Write-up | Keyvanoandriansyah | [Read More](https://medium.com/p/2bb175bb78f7) |
-| Mon, 05 May 2025 03:26:43 GMT | Earn Smarter: Leveraging Bug for Growth | BUG | [Read More](https://medium.com/p/02bcdafaeb11) |
