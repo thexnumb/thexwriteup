@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 22:37:25 GMT | The Unexpected Upside: Unleashing Creativity and Exploring Limits? | Majeztik SlumBoi / Julius Crawford | [Read More](https://medium.com/p/a244ab0eb661) |
+| Mon, 05 May 2025 22:32:20 GMT | Windows DPAPI Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/69af5169ffe8) |
+| Mon, 05 May 2025 22:27:01 GMT | TryHackMe: Python Basics Room Explained | Diego Lasarin | [Read More](https://medium.com/p/9eb2d37b7e7a) |
+| Mon, 05 May 2025 22:26:27 GMT | Building the Digital Fortress: The Next Chapter in my Story [WHO AM I — PART2] | Taher Amine, mMBA, CISSP-SME, CCISO, CMSA, ISOxx | [Read More](https://medium.com/p/695ddd41f608) |
+| Mon, 05 May 2025 22:17:32 GMT | Understanding the Role of a CISO in Protecting Your Organization’s Cybersecurity | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8f5d952f8725) |
+| Mon, 05 May 2025 22:11:52 GMT | $2,900 Bounty: How I Bypassed 2FA via Facebook SSO on a Private Program at HackerOne | Ali Hassan Khan | [Read More](https://medium.com/p/fac7b900cc5d) |
 | Mon, 05 May 2025 22:07:45 GMT | Cyber Risk Scenarios: Leveraging LLMs and the CLEAR Model to Define and Assess Cyber Risks… | Juan Pablo Castro | [Read More](https://medium.com/p/56863981332d) |
 | Mon, 05 May 2025 22:05:07 GMT | How I Passed the Certified Ethical Hacker Exam! | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/8d974d21bcd1) |
 | Mon, 05 May 2025 21:52:02 GMT | The Pain of Mediocrity | Tiefgang & Tamtam | [Read More](https://medium.com/p/18bfede1151c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 16:14:35 GMT | Shell Games : Understanding Reverse, Bind and Web Shells For CTF’s and More | Fuzzyy Duck | [Read More](https://medium.com/p/e8e9bcadc224) |
 | Mon, 05 May 2025 16:12:37 GMT | CYSHOCK 2025 | xSuffs811 | [Read More](https://medium.com/p/4b6e2db5bb46) |
 | Mon, 05 May 2025 16:11:05 GMT | Getting Started in Cybersecurity: A Career Change Guide | Kyla Saylor | [Read More](https://medium.com/p/509252832879) |
-| Mon, 05 May 2025 15:58:58 GMT | Spellbinding the Network: Replicating TheWizards’ APT-Style IPv6 Attack for Red Team Operations | Anthony Cihan | [Read More](https://medium.com/p/d1a2edca4c72) |
-| Mon, 05 May 2025 15:55:53 GMT | Understanding Why VPNs Matter In Internet Safety | James Neal | [Read More](https://medium.com/p/3404e8dfd597) |
-| Mon, 05 May 2025 15:52:24 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 44 | Cyber Strategy Institute | [Read More](https://medium.com/p/83d286d0a323) |
-| Mon, 05 May 2025 15:50:59 GMT | Crypto Success: Using Bugs Bunny to Your Advantage | BUGS | [Read More](https://medium.com/p/dab10674108e) |
-| Mon, 05 May 2025 15:46:48 GMT | what Is Fomo is forex trading ?? | Joseph classic | [Read More](https://medium.com/p/de888a3a5285) |
-| Mon, 05 May 2025 15:45:50 GMT | Revolutionary Features Of The Most Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/c19dd688466c) |
