@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 11:06:55 GMT | How to build a Keylogger with C++ in 5 minutes | Batu Ada Tutkun | [Read More](https://medium.com/p/221fbe780c89) |
+| Mon, 05 May 2025 11:06:27 GMT | Machine Learning vs. Rule-Based Detection: What Really Matters in the SOC | Youssef Agouram | [Read More](https://medium.com/p/3f3f32ffe1f7) |
+| Mon, 05 May 2025 11:04:06 GMT | Why Is K-12 a Top Target for Cybersecurity Threats? | Shamsul Anam Emon | [Read More](https://medium.com/p/0a00ea3f85f0) |
+| Mon, 05 May 2025 11:02:26 GMT | We Got Her Account Back and Here’s What We Found | Dinah Davis | [Read More](https://medium.com/p/aa1e18c3e98d) |
+| Mon, 05 May 2025 10:58:26 GMT | They Thought I Was In a Rut. Instead, I Was Soaking. | Yida Wu | [Read More](https://medium.com/p/93fdf8fa4d61) |
+| Mon, 05 May 2025 10:56:38 GMT | Delayed Disclosure, Lasting Damage - The VeriSource Data‑Breach Wake‑Up Call | Avnishyam | [Read More](https://medium.com/p/9ce4ac1a360d) |
+| Mon, 05 May 2025 10:54:43 GMT | Why Is Healthcare a Top Target for Cybersecurity Threats? | Shamsul Anam Emon | [Read More](https://medium.com/p/81b1f83713e1) |
+| Mon, 05 May 2025 10:51:28 GMT | Evoqua Water Technologies: All Latest info 2025 | Alisha Noor | [Read More](https://medium.com/p/d1f1d885f8e9) |
+| Mon, 05 May 2025 10:50:06 GMT | Forever, I Will Be Your Most Devoted Lover | Dean Amartasentana Sakutadjati | [Read More](https://medium.com/p/980c6892dcbd) |
 | Mon, 05 May 2025 10:35:37 GMT | Cybersecurity and the Art of Simplifying: Understand Deeply to Explain Clearly | K3e9X | [Read More](https://medium.com/p/4bbc2d72ab2b) |
 | Mon, 05 May 2025 10:34:07 GMT | Cybersecurity Core Terminologies: A Beginner’s Guide | Joshua Mizal | [Read More](https://medium.com/p/394e9ab6d2a3) |
 | Mon, 05 May 2025 10:32:08 GMT | FINDIT 2025: Simulating Ransomware Locked File Decryption | abdur rashid firdaus | [Read More](https://medium.com/p/c0889a86484c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 05:58:52 GMT | Palo Alto Networks Prisma Cloud Data Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/29b29cd6307c) |
 | Mon, 05 May 2025 05:53:43 GMT | Benjamin Miller’s spin on privilege escalation in Linux systems! | Benjaminmillerdev | [Read More](https://medium.com/p/f126f954817a) |
 | Mon, 05 May 2025 05:52:03 GMT | Building Large-Scale Applications with .NET and Angular: A Comprehensive Guide (Part 5) | Anand Panchal | [Read More](https://medium.com/p/f1cfe241202c) |
-| Mon, 05 May 2025 05:50:14 GMT | Security Management: Creating a Flexible Strategy for Enterprise Risk and Security Management | Gauravinsightss | [Read More](https://medium.com/p/5a93a4961627) |
-| Mon, 05 May 2025 05:48:46 GMT | Red Team Recon Write-Up: SMB & AD Enumeration with enum4linux | Shah kaif | [Read More](https://medium.com/p/ca92c593b1f6) |
-| Mon, 05 May 2025 05:45:38 GMT | Beautiful, thought provoking piece. | Jessica Lalic | [Read More](https://medium.com/p/9809160736dc) |
-| Mon, 05 May 2025 05:37:22 GMT | HTB: Ransom (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/10fd87409d7e) |
-| Mon, 05 May 2025 05:36:51 GMT | Day 26 of Web Security: Delimiter & Normalization Discrepancies | Agarwaldaksh | [Read More](https://medium.com/p/aa07e043c2b2) |
-| Mon, 05 May 2025 05:33:00 GMT | Threat Profiling 101: How to Create a Threat Profile | Adam Goss | [Read More](https://medium.com/p/4f37f9c4a943) |
-| Mon, 05 May 2025 05:27:28 GMT | AI-Powered Threat Detection: Enhancing Cybersecurity in Danish Applications | Teo Nordics | [Read More](https://medium.com/p/f8ea15960ed6) |
-| Mon, 05 May 2025 05:15:52 GMT | Secure Your Cloud, Secure Your Future ☁️️ | R&B Networks | [Read More](https://medium.com/p/19cad022852d) |
-| Mon, 05 May 2025 05:07:52 GMT | Why Change Management is Critical for Cybersecurity? | unica 02 | [Read More](https://medium.com/p/428a40e9affe) |
