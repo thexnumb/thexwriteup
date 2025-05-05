@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 06:19:09 GMT | Securing Your Website with Content Security Policy (CSP): Nonce vs Hash | Sahaya Godson | [Read More](https://medium.com/p/36fa6ea913a0) |
+| Mon, 05 May 2025 06:12:48 GMT | Golden Chickens Expand Malware Arsenal with TerraStealerV2 and TerraLogger to Target Browser… | CyDhaal | [Read More](https://medium.com/p/ad8d6da7f3d3) |
+| Mon, 05 May 2025 06:05:37 GMT | Revisit OWASP API Top 10 in The Age of Agentic AI | Tam Nguyen | [Read More](https://medium.com/p/bceb03dcf92f) |
+| Mon, 05 May 2025 06:03:12 GMT | Snapdroid: One-Click Android PoC Capture for Bug Bounty Hunters & Pentesters | Sid Joshi | [Read More](https://medium.com/p/2f7a44bf5582) |
+| Mon, 05 May 2025 06:00:25 GMT | Master Ethical Hacking with OSCP+ Online Training | Certgrow | [Read More](https://medium.com/p/bee59eecce40) |
+| Mon, 05 May 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — May 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/da1d6f4cb624) |
+| Mon, 05 May 2025 05:59:00 GMT | Streamline Mondoo Case Management with Jira | Infralovers GmbH | [Read More](https://medium.com/p/ccb08156a86c) |
+| Mon, 05 May 2025 05:58:52 GMT | Palo Alto Networks Prisma Cloud Data Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/29b29cd6307c) |
+| Mon, 05 May 2025 05:53:43 GMT | Benjamin Miller’s spin on privilege escalation in Linux systems! | Benjaminmillerdev | [Read More](https://medium.com/p/f126f954817a) |
+| Mon, 05 May 2025 05:52:03 GMT | Building Large-Scale Applications with .NET and Angular: A Comprehensive Guide (Part 5) | Anand Panchal | [Read More](https://medium.com/p/f1cfe241202c) |
+| Mon, 05 May 2025 05:50:14 GMT | Security Management: Creating a Flexible Strategy for Enterprise Risk and Security Management | Gauravinsightss | [Read More](https://medium.com/p/5a93a4961627) |
+| Mon, 05 May 2025 05:48:46 GMT | Red Team Recon Write-Up: SMB & AD Enumeration with enum4linux | Shah kaif | [Read More](https://medium.com/p/ca92c593b1f6) |
+| Mon, 05 May 2025 05:45:38 GMT | Beautiful, thought provoking piece. | Jessica Lalic | [Read More](https://medium.com/p/9809160736dc) |
 | Mon, 05 May 2025 05:37:22 GMT | HTB: Ransom (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/10fd87409d7e) |
 | Mon, 05 May 2025 05:36:51 GMT | Day 26 of Web Security: Delimiter & Normalization Discrepancies | Agarwaldaksh | [Read More](https://medium.com/p/aa07e043c2b2) |
 | Mon, 05 May 2025 05:33:00 GMT | Threat Profiling 101: How to Create a Threat Profile | Adam Goss | [Read More](https://medium.com/p/4f37f9c4a943) |
@@ -101,16 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 20:32:23 GMT | CVE, CWE and NVD | Luis Soto | [Read More](https://medium.com/p/82bb90b226f6) |
 | Sun, 04 May 2025 20:28:07 GMT | How to Configure Apache for HTTPS with SSL: A Beginner-Friendly Guide | Nikhil Dhiman | [Read More](https://medium.com/p/8445ce720ffb) |
 | Sun, 04 May 2025 20:26:37 GMT | Path Traversal Techniques | musayyab sharif | [Read More](https://medium.com/p/26ae250a3907) |
-| Sun, 04 May 2025 20:12:46 GMT | Llama: The AI At Everyone’s Fingertip | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/1224ab273eca) |
-| Sun, 04 May 2025 20:11:09 GMT | Why Many Countries in Africa Are Lagging in IT and Cybersecurity? | ERP Today | [Read More](https://medium.com/p/a8a0ba92ab38) |
-| Sun, 04 May 2025 20:06:46 GMT | Applying First Principles Thinking to Cybersecurity | K3e9X | [Read More](https://medium.com/p/286f02432290) |
-| Sun, 04 May 2025 20:02:52 GMT | The Risk Brought by Renewable Energy: What Happened in Europe, What Should We Learn? | Mustafa Ergen | [Read More](https://medium.com/p/b8c92d961ef0) |
-| Sun, 04 May 2025 19:54:46 GMT | VAAL: Vulnerability Assessment Automation using LLMs | Sandeep Egalapati | [Read More](https://medium.com/p/a4485b98c7bd) |
-| Sun, 04 May 2025 19:48:26 GMT | System Leadership: Influencing organizational effectiveness in a technologically changing business… | Prof.. Charles Anosike | [Read More](https://medium.com/p/f5424e21bdde) |
-| Sun, 04 May 2025 19:46:09 GMT | Content trust & Docker - Part 2 | Çiğdem Kadakoğlu | [Read More](https://medium.com/p/be945acf24f4) |
-| Sun, 04 May 2025 19:42:03 GMT | When Compliance Gaps Cost Millions - The RTX Cybersecurity Settlement | Avnishyam | [Read More](https://medium.com/p/712a9cfe83bf) |
-| Sun, 04 May 2025 19:39:20 GMT | My Cybersecurity News Aggregator: Built with GitHub Actions | Michael Rico | [Read More](https://medium.com/p/72880b4fc06c) |
-| Sun, 04 May 2025 19:33:04 GMT | Single Sign On — Kerberos and SESAME | Igor Berner | [Read More](https://medium.com/p/acd628a63b31) |
-| Sun, 04 May 2025 19:32:17 GMT | Loopscale’s $5.8M Exploit: Internal Pricing vulnerability | CyberLucifer | [Read More](https://medium.com/p/52de24ee8c28) |
-| Sun, 04 May 2025 19:27:03 GMT | Write Smarter Functions in Python: 10 Tips That Will Change the Way You Code | Ozdprinter | [Read More](https://medium.com/p/087485369d41) |
-| Sun, 04 May 2025 19:26:59 GMT | Coinbase urges US Supreme Court to rethink digital privacy doctrine | IC News | [Read More](https://medium.com/p/c8b0ce73f14f) |
