@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 16:45:40 GMT | From Curiosity to Compromise: What a School Network Taught Us About Visibility | Andre Fernandes | [Read More](https://medium.com/p/bcf62cafe3f1) |
+| Mon, 05 May 2025 16:41:07 GMT | ColddBox (tryhackme) | Amalpp | [Read More](https://medium.com/p/733c17a93206) |
+| Mon, 05 May 2025 16:37:32 GMT | Enhancing Modern Enterprises with Comprehensive IT and Security Solutions | Defend My Business | [Read More](https://medium.com/p/04c683755070) |
+| Mon, 05 May 2025 16:34:34 GMT | Analysis Using NMAP for Network Scan on a Local IP Address. | Oteniara Temitope | [Read More](https://medium.com/p/9e24496bcb72) |
+| Mon, 05 May 2025 16:34:04 GMT | Data Sovereignty vs Digital Sovereignty: Key Considerations for Businesses | Yves Delvaux | [Read More](https://medium.com/p/1bbd3df06401) |
+| Mon, 05 May 2025 16:30:57 GMT | Analysis Using VirusTotal to detect potential malicious behavior, analyze domain associations with… | Oteniara Temitope | [Read More](https://medium.com/p/c2745840bf72) |
+| Mon, 05 May 2025 16:27:58 GMT | So What? | Dan Glass | [Read More](https://medium.com/p/5bb85d000235) |
+| Mon, 05 May 2025 16:27:22 GMT | How Can I Withdraw My Money From Bsvcloud? | Douglas | [Read More](https://medium.com/p/3cee667cbb6b) |
 | Mon, 05 May 2025 16:17:31 GMT | No Illusions, Just Cyber Security — Why I’m Here | Andre Fernandes | [Read More](https://medium.com/p/1ccd56b4f809) |
 | Mon, 05 May 2025 16:14:35 GMT | Shell Games : Understanding Reverse, Bind and Web Shells For CTF’s and More | Fuzzyy Duck | [Read More](https://medium.com/p/e8e9bcadc224) |
 | Mon, 05 May 2025 16:12:37 GMT | CYSHOCK 2025 | xSuffs811 | [Read More](https://medium.com/p/4b6e2db5bb46) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 11:15:19 GMT | Your Favorite Browser is Spying on You: Browse Without Being Watched | Karl Buhl | [Read More](https://medium.com/p/1ee94337fe7b) |
 | Mon, 05 May 2025 11:14:02 GMT | Security Robots on Tour | Presslink Media | [Read More](https://medium.com/p/fee26a74de55) |
 | Mon, 05 May 2025 11:14:00 GMT | Siber Güvenlik Temelleri | Hiranur Gemalmaz | [Read More](https://medium.com/p/336441f9a9bd) |
-| Mon, 05 May 2025 11:06:55 GMT | How to build a Keylogger with C++ in 5 minutes | Batu Ada Tutkun | [Read More](https://medium.com/p/221fbe780c89) |
-| Mon, 05 May 2025 11:06:27 GMT | Machine Learning vs. Rule-Based Detection: What Really Matters in the SOC | Youssef Agouram | [Read More](https://medium.com/p/3f3f32ffe1f7) |
-| Mon, 05 May 2025 11:04:06 GMT | Why Is K-12 a Top Target for Cybersecurity Threats? | Shamsul Anam Emon | [Read More](https://medium.com/p/0a00ea3f85f0) |
-| Mon, 05 May 2025 11:02:26 GMT | We Got Her Account Back and Here’s What We Found | Dinah Davis | [Read More](https://medium.com/p/aa1e18c3e98d) |
-| Mon, 05 May 2025 10:58:26 GMT | They Thought I Was In a Rut. Instead, I Was Soaking. | Yida Wu | [Read More](https://medium.com/p/93fdf8fa4d61) |
-| Mon, 05 May 2025 10:56:38 GMT | Delayed Disclosure, Lasting Damage - The VeriSource Data‑Breach Wake‑Up Call | Avnishyam | [Read More](https://medium.com/p/9ce4ac1a360d) |
-| Mon, 05 May 2025 10:54:43 GMT | Why Is Healthcare a Top Target for Cybersecurity Threats? | Shamsul Anam Emon | [Read More](https://medium.com/p/81b1f83713e1) |
-| Mon, 05 May 2025 10:51:28 GMT | Evoqua Water Technologies: All Latest info 2025 | Alisha Noor | [Read More](https://medium.com/p/d1f1d885f8e9) |
