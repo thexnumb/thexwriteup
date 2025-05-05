@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 04:20:55 GMT | UAE Enhances Public Safety with Expanded CCTV Surveillance Network | Tekshoyabeelyas | [Read More](https://medium.com/p/90a6956276bf) |
+| Mon, 05 May 2025 04:17:54 GMT | Exploiting computer control agents | Sevan Hayrapet | [Read More](https://medium.com/p/4beb9a330694) |
+| Mon, 05 May 2025 04:10:45 GMT | Guide to Obtaining a Second Citizenship in Saint Lucia through the Citizenship by Investment. | Michael P. Di Fulvio | [Read More](https://medium.com/p/0ff4139aa275) |
+| Mon, 05 May 2025 04:03:02 GMT | WebSockFish - Writeup | Marvin | [Read More](https://medium.com/p/e29a79a2ef0d) |
+| Mon, 05 May 2025 04:02:37 GMT | Let’s Activate Fail2Ban: A Lesson in Cybersecurity, Persistence, and Growth | Arash hadad | [Read More](https://medium.com/p/5124b4e737ba) |
+| Mon, 05 May 2025 03:55:47 GMT | VPN Functionality: Ensuring Online Privacy | James Neal | [Read More](https://medium.com/p/007726f0eabe) |
+| Mon, 05 May 2025 03:51:47 GMT | How a Simple Calendar Invite Brought Down a Fast-Growing Business: The AI Vulnerability No One Saw… | Noel | [Read More](https://medium.com/p/36503ab6ce31) |
 | Mon, 05 May 2025 03:45:46 GMT | Advanced VPN Providers Setting New Standards | Melvin Erickson | [Read More](https://medium.com/p/39c99c9cffa8) |
 | Mon, 05 May 2025 03:34:26 GMT | Data Minimization and Purpose Limitation: Principles for Compliance | Author Peter - Lawyer- MBA ,LL.M | [Read More](https://medium.com/p/6beba3819b00) |
 | Mon, 05 May 2025 03:32:26 GMT | Inside the Alleged Cyberattack on Jaguar Land Rover | Deven Chhajed | [Read More](https://medium.com/p/5613b9cc415f) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 18:18:31 GMT | Best Dark Web Monitoring Tools in 2025: A Deep Dive into the Cyber Underworld | cybrNK | [Read More](https://medium.com/p/5fd5bc72b3ba) |
 | Sun, 04 May 2025 18:16:51 GMT | 7 ChatGPT Prompts to Smash Your Goals | Axoloth | [Read More](https://medium.com/p/c0fb9d85c381) |
 | Sun, 04 May 2025 18:10:10 GMT | Open Source is Eating the World (But With Better Security Now, Promise) | Soham Banerjee | [Read More](https://medium.com/p/639610694c80) |
-| Sun, 04 May 2025 18:08:17 GMT | Hack The Box Academy — Network Foundations — Domain Name System (DNS) | bl77rd | [Read More](https://medium.com/p/1bbe99008635) |
-| Sun, 04 May 2025 17:56:28 GMT | Thread IDs, Process IDs — The Start of Malware Magic | Malforge Group | [Read More](https://medium.com/p/57f583682dd3) |
-| Sun, 04 May 2025 17:48:41 GMT | The Importance of Password Entropy in Cybersecurity: Strengthening Your Defenses Against… | Ivo Pereira | [Read More](https://medium.com/p/2ff1c1f882cf) |
-| Sun, 04 May 2025 17:48:22 GMT | CORS in Symfony 7 | Tihomir Manushev | [Read More](https://medium.com/p/a4678daedb91) |
-| Sun, 04 May 2025 17:38:16 GMT | You Should Encrypt Your Environment Variables | Ali nazari | [Read More](https://medium.com/p/cdd20afde061) |
-| Sun, 04 May 2025 17:36:09 GMT | TrailAlerts: Take Control of Cloud Detection in AWS | Adan | [Read More](https://medium.com/p/9e7761f49509) |
-| Sun, 04 May 2025 17:33:03 GMT | Hack The Box Academy — Network Foundations — Network Address Translation (NAT) | bl77rd | [Read More](https://medium.com/p/7ccdca6d6915) |
