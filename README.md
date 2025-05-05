@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 14:36:46 GMT | North Korea Hacking Organization Konni Malicious Code Distribution Exploiting Fake Document for VAT… | MITRE Doggy | [Read More](https://medium.com/p/652878e1182f) |
+| Mon, 05 May 2025 14:35:11 GMT | Ransomware Tactics and Defenses: Next-Generation Fileless Attacks | Esra Kayhan | [Read More](https://medium.com/p/dbf3e1664af1) |
+| Mon, 05 May 2025 14:31:52 GMT | I Am Afraid | Charleston Li | [Read More](https://medium.com/p/920f067c00d2) |
+| Mon, 05 May 2025 14:31:00 GMT | Bug Bounty : Se confronter au réel, apprendre à encaisser ️‍♂️ | Rebecca Cottignies | [Read More](https://medium.com/p/87376b539175) |
+| Mon, 05 May 2025 14:27:48 GMT | What’s Covered in the CEH v12 Exam? Topics, Domains, and Format Explained | Eliana | [Read More](https://medium.com/p/caa95f33060b) |
+| Mon, 05 May 2025 14:27:15 GMT | Why Noncompliant Will Always Comply | KAI GRIFFIN | [Read More](https://medium.com/p/9aedd9358802) |
+| Mon, 05 May 2025 14:25:38 GMT | Quantum-Safe Encryption: Securing Banking in the Quantum Era | Joseph V Thomas | [Read More](https://medium.com/p/1c3f6f5a2e72) |
+| Mon, 05 May 2025 14:22:31 GMT | Why Professional Event Security Services in the UK Are Essential for Every Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/7f22ed34662a) |
+| Mon, 05 May 2025 14:22:26 GMT | My super simple Google Calendar hack for Obsidian | Vladimir Campos | [Read More](https://medium.com/p/dd1110340f61) |
+| Mon, 05 May 2025 14:21:30 GMT | The Invisible Flaws in Bluetooth Low Energy — And Why We Should Care | SHAZZAD HOSSAIN SHAWON | [Read More](https://medium.com/p/af445bbfcf0f) |
+| Mon, 05 May 2025 14:20:24 GMT | How you get hacked by simply opening my document | TimTrademark | [Read More](https://medium.com/p/35f811958391) |
+| Mon, 05 May 2025 14:17:52 GMT | Ubuntu Server Snort Kurulumu | Buse Suna | [Read More](https://medium.com/p/c6f708c488c6) |
 | Mon, 05 May 2025 14:16:34 GMT | Compaq HP Insight Manager — Port 2301, 2381 — How to exploit | Very Lazy Tech | [Read More](https://medium.com/p/337f1175d2f8) |
+| Mon, 05 May 2025 14:16:33 GMT | The Relevance of Ongoing Security Management Development | Ed-it Editions | [Read More](https://medium.com/p/ecb0c4fc2265) |
 | Mon, 05 May 2025 14:11:51 GMT | Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security | Dhanush N | [Read More](https://medium.com/p/7173f6e90980) |
 | Mon, 05 May 2025 14:11:45 GMT | Frictionless Fortress: Jillian Rushing’s Guide to Trust-First Product Security | cybergriotz | [Read More](https://medium.com/p/dcc2c69e452e) |
+| Mon, 05 May 2025 14:11:19 GMT | Master Cybersecurity with the Best Ethical Hacking Course in Mira Road at Samyak Computer Classes | Samyak IT Solution | [Read More](https://medium.com/p/a2a85b24a745) |
 | Mon, 05 May 2025 14:06:26 GMT | I Applied to 400 Jobs Before Landing One — Here’s the DevOps Resume That Finally Worked | Zudonu Osomudeya | [Read More](https://medium.com/p/669964fceadb) |
 | Mon, 05 May 2025 14:04:40 GMT | I deleted TikTok and Instagram off my phone last night and vowed to stop making content for my own… | Fallonbuchholz | [Read More](https://medium.com/p/22f916cefc8c) |
 | Mon, 05 May 2025 13:58:24 GMT | Cyber Briefing: 2025.05.05 | CyberMaterial | [Read More](https://medium.com/p/5db4da35c48f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 09:31:20 GMT | Moebius Tryhackme Writeup | St3mw4s | [Read More](https://medium.com/p/d9b1790f1225) |
 | Mon, 05 May 2025 09:29:51 GMT | How Security Copilot is Changing SOC Operations | Mirko Peters | [Read More](https://medium.com/p/09e5e4e9ec8c) |
 | Mon, 05 May 2025 09:29:48 GMT | $750 Bounty: Sensitive Data Exposure | Monika sharma | [Read More](https://medium.com/p/c944e626c733) |
-| Mon, 05 May 2025 09:29:17 GMT | Equifax Breach: How a $700M Mistake Happened | Ahmad Javed | [Read More](https://medium.com/p/3fd54858a650) |
-| Mon, 05 May 2025 09:29:09 GMT | Secure your Python applications: Best practices for developers | Roman Huliak | [Read More](https://medium.com/p/8ab8b8bc8bba) |
-| Mon, 05 May 2025 09:29:01 GMT | DevSecOps Phase 3: Build Stage — CI/CD Security Gate with SAST + SCA | Dinidhu Jayasinghe | [Read More](https://medium.com/p/a61d988d32d7) |
-| Mon, 05 May 2025 09:28:40 GMT | Windows Persistence with Logon Scripts (UserInitMprLogonScript) | Taha Ex | [Read More](https://medium.com/p/d995299dc94c) |
-| Mon, 05 May 2025 09:21:14 GMT | Understanding the Basic Differences Between CCNA, CCNP, and CCIE | Vasundhra sharma | [Read More](https://medium.com/p/edd64d11b161) |
-| Mon, 05 May 2025 09:12:38 GMT | Best Home Safes for Peace of Mind: 3 Options That Actually Feel Worth It | One Tap | [Read More](https://medium.com/p/d66fe855bd22) |
-| Mon, 05 May 2025 09:08:54 GMT | Nuances about configuring Semgrep automated scans | Antonio Lara | [Read More](https://medium.com/p/7996d45e6b88) |
-| Mon, 05 May 2025 09:07:26 GMT | 7 Best HIPAA Compliance Software for 2025 | SecureSlate | [Read More](https://medium.com/p/ef4b0444dfd6) |
-| Mon, 05 May 2025 09:02:52 GMT | Securing the Web One Header at a Time: CSP Headers | Pranieth Chandrasekara | [Read More](https://medium.com/p/c734b5b8e8ec) |
-| Mon, 05 May 2025 09:02:50 GMT | Self-Awareness Is the Real Compatibility Test: Why Owning Your Past Creates Better Relationships | KarlBaia | [Read More](https://medium.com/p/145c6aba5fb5) |
-| Mon, 05 May 2025 09:01:39 GMT | Implementing OAuth 2.0 with Google and Facebook SSO in Spring Boot | Satyam Joshi | [Read More](https://medium.com/p/d2cd577da64b) |
-| Mon, 05 May 2025 08:58:16 GMT | VAPT for SaaS Startups: Early Security Investment That Pays Off | West Advanced Technologies Inc | [Read More](https://medium.com/p/f12eec00f308) |
-| Mon, 05 May 2025 08:55:26 GMT | RST TI Report Digest: 05 May 2025 | RST Cloud | [Read More](https://medium.com/p/643af11f1e43) |
-| Mon, 05 May 2025 08:51:29 GMT | How a Verbose Error Message Led Me to RCE Through a File Upload | Alberto Barbieri | [Read More](https://medium.com/p/bf8ea4a2d29d) |
