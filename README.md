@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 07:12:31 GMT | Bypassing Regex Validations to Achieve RCE: A Wild Bug Story | Abhijeet Kumawat | [Read More](https://medium.com/p/4c523f69b9f8) |
+| Mon, 05 May 2025 07:12:14 GMT | Why Choose Mobiloitte for Smart Agriculture Tech? | Remand Simon | [Read More](https://medium.com/p/5e2ffcc481e9) |
+| Mon, 05 May 2025 07:10:05 GMT | This Time Give Silence A Chance. | Sandali | [Read More](https://medium.com/p/ceb3d256a3d9) |
+| Mon, 05 May 2025 07:03:15 GMT | Cloud Computing 101: The Glossary Edition | Aliyan Shaikh | [Read More](https://medium.com/p/46f1e93172aa) |
+| Mon, 05 May 2025 07:02:57 GMT | SIEM in the Trenches: 25 Real-World Lessons for Building Scalable, Actionable, and Cost-Efficient… | Rsprasangi | [Read More](https://medium.com/p/9b610dc5ab67) |
+| Mon, 05 May 2025 07:02:02 GMT | Complete Ethical Hacking Course with Certification 2025 | cyber security Updates | [Read More](https://medium.com/p/8ca4d38e6c27) |
+| Mon, 05 May 2025 07:01:35 GMT | Scammers Are Getting Smarter, and It’s Getting Weird | Chisom Ezeneche | [Read More](https://medium.com/p/9f7de616a65d) |
+| Mon, 05 May 2025 07:00:50 GMT | writing a vulnerable story | Natacha G. Filion | [Read More](https://medium.com/p/62414812fb42) |
+| Mon, 05 May 2025 06:56:28 GMT | Why Post-Quantum CryptoGraphy isn’t ready for Prime Time | Sudarshan | [Read More](https://medium.com/p/00443acc5eea) |
+| Mon, 05 May 2025 06:51:55 GMT | 0 CVE with 0 Effort — your fast-track guide to secure containers with Minimus  ! | Aviel Bitton | [Read More](https://medium.com/p/b914405d6111) |
+| Mon, 05 May 2025 06:47:16 GMT | Understanding Network and Web Security: How to Safeguard Your Digital Assets | Khatore IT Solutions | [Read More](https://medium.com/p/40fd0459162f) |
+| Mon, 05 May 2025 06:42:34 GMT | The Compliance Trap: Checkboxes That Don’t Actually Protect You | Induz Data Solutions | [Read More](https://medium.com/p/07ae983545de) |
+| Mon, 05 May 2025 06:34:32 GMT | The Daily Tech Digest: 05 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/05c95f1c8226) |
+| Mon, 05 May 2025 06:27:09 GMT | Understanding Security at the Edge vs. at the Application Layer in AWS | Pierre Schroth | [Read More](https://medium.com/p/2bfa16903421) |
+| Mon, 05 May 2025 06:26:16 GMT | Main Reasons for Increasing Cyber Crimes: | Ashish Agrawal | [Read More](https://medium.com/p/f82cf5e8ae9d) |
+| Mon, 05 May 2025 06:22:26 GMT | AI Agents and the End of Awkward Pair Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/f0ccc54f162d) |
 | Mon, 05 May 2025 06:19:09 GMT | Securing Your Website with Content Security Policy (CSP): Nonce vs Hash | Sahaya Godson | [Read More](https://medium.com/p/36fa6ea913a0) |
 | Mon, 05 May 2025 06:12:48 GMT | Golden Chickens Expand Malware Arsenal with TerraStealerV2 and TerraLogger to Target Browser… | CyDhaal | [Read More](https://medium.com/p/ad8d6da7f3d3) |
 | Mon, 05 May 2025 06:05:37 GMT | Revisit OWASP API Top 10 in The Age of Agentic AI | Tam Nguyen | [Read More](https://medium.com/p/bceb03dcf92f) |
@@ -98,19 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 22:34:07 GMT | Explaining a Warm Standby Disaster Recovery Architecture on AWS | Akuphe Dieudonne | [Read More](https://medium.com/p/6858039c6a09) |
 | Sun, 04 May 2025 22:16:34 GMT | How to Implement a SIEM Solution in Your Organization: A Practical Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5b59394e3e48) |
 | Sun, 04 May 2025 22:14:42 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL’s Innovative Solutions | Cemkaraismailoglu | [Read More](https://medium.com/p/8932947dc18e) |
-| Sun, 04 May 2025 22:09:50 GMT | Performing SQL Injection with Burp Suite and sqlmap on DVWA | Alpondith | [Read More](https://medium.com/p/c3cabb00c287) |
-| Sun, 04 May 2025 22:01:12 GMT | How Being Too Nice Can Cost You $4.45 Million: The Real Game of Social Engineering | Amit kumar | [Read More](https://medium.com/p/bc05d2001b34) |
-| Sun, 04 May 2025 21:57:21 GMT | The Optimistic Overthinker | Poonam Bhandari | [Read More](https://medium.com/p/a53f1daccae7) |
-| Sun, 04 May 2025 21:57:18 GMT | NIST AI RMF Sect. 3: Trustworthiness | David Scott | [Read More](https://medium.com/p/9b4bbb0954e3) |
-| Sun, 04 May 2025 21:48:21 GMT | Stuxnet: The World’s First Cyber Weapon | E. Ibrahimi | [Read More](https://medium.com/p/95ddf5ee2567) |
-| Sun, 04 May 2025 21:34:51 GMT | Hacking in 2025: Where to Start & What to Learn? | Inside Garuda | [Read More](https://medium.com/p/5c6831677008) |
-| Sun, 04 May 2025 21:33:22 GMT | How I Found an Exposed debug/pprof/ Endpoint on a Google Subdomain and Earned $1337 | Ali Hassan Khan | [Read More](https://medium.com/p/85a1d92a0bcd) |
-| Sun, 04 May 2025 21:32:33 GMT | How AI-Powered Cybersecurity is Changing the Game for Startups | Secure Startups LLC | [Read More](https://medium.com/p/c1488fa893cc) |
-| Sun, 04 May 2025 21:25:33 GMT | Building Your Own HMAC-Signed Double-Submit CSRF | Ali nazari | [Read More](https://medium.com/p/52204a96ef64) |
-| Sun, 04 May 2025 21:19:02 GMT | Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey | Ismail Tasdelen | [Read More](https://medium.com/p/4673d1192389) |
-| Sun, 04 May 2025 21:03:40 GMT | CIA TRİADI NEDİR? | Esma Yetiş | [Read More](https://medium.com/p/cbd22fb0dc4f) |
-| Sun, 04 May 2025 21:01:50 GMT | Beginner SOC Analyst Project: Building an Email Analyzer for Suspicious Emails | Dharit Thakkar | [Read More](https://medium.com/p/dddd40951f6b) |
-| Sun, 04 May 2025 20:50:17 GMT | The Torture of Vulnerability | Tina Marie | [Read More](https://medium.com/p/7ff82ca6f4b7) |
-| Sun, 04 May 2025 20:32:23 GMT | CVE, CWE and NVD | Luis Soto | [Read More](https://medium.com/p/82bb90b226f6) |
-| Sun, 04 May 2025 20:28:07 GMT | How to Configure Apache for HTTPS with SSL: A Beginner-Friendly Guide | Nikhil Dhiman | [Read More](https://medium.com/p/8445ce720ffb) |
-| Sun, 04 May 2025 20:26:37 GMT | Path Traversal Techniques | musayyab sharif | [Read More](https://medium.com/p/26ae250a3907) |
