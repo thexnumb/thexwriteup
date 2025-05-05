@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 04:31:38 GMT | Are Enterprise LLMs Secure Enough for Internal Use? | MidnightMusings | [Read More](https://medium.com/p/890632f29e91) |
 | Mon, 05 May 2025 04:20:55 GMT | UAE Enhances Public Safety with Expanded CCTV Surveillance Network | Tekshoyabeelyas | [Read More](https://medium.com/p/90a6956276bf) |
 | Mon, 05 May 2025 04:17:54 GMT | Exploiting computer control agents | Sevan Hayrapet | [Read More](https://medium.com/p/4beb9a330694) |
 | Mon, 05 May 2025 04:10:45 GMT | Guide to Obtaining a Second Citizenship in Saint Lucia through the Citizenship by Investment. | Michael P. Di Fulvio | [Read More](https://medium.com/p/0ff4139aa275) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 18:19:15 GMT | Whispers vs. Shouts: The Real Story Behind HTTP & HTTPS | Vaishnav Gnair | [Read More](https://medium.com/p/04c6150277cb) |
 | Sun, 04 May 2025 18:18:31 GMT | Best Dark Web Monitoring Tools in 2025: A Deep Dive into the Cyber Underworld | cybrNK | [Read More](https://medium.com/p/5fd5bc72b3ba) |
 | Sun, 04 May 2025 18:16:51 GMT | 7 ChatGPT Prompts to Smash Your Goals | Axoloth | [Read More](https://medium.com/p/c0fb9d85c381) |
-| Sun, 04 May 2025 18:10:10 GMT | Open Source is Eating the World (But With Better Security Now, Promise) | Soham Banerjee | [Read More](https://medium.com/p/639610694c80) |
