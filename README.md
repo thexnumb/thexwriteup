@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 14:16:34 GMT | Compaq HP Insight Manager — Port 2301, 2381 — How to exploit | Very Lazy Tech | [Read More](https://medium.com/p/337f1175d2f8) |
+| Mon, 05 May 2025 14:11:51 GMT | Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security | Dhanush N | [Read More](https://medium.com/p/7173f6e90980) |
+| Mon, 05 May 2025 14:11:45 GMT | Frictionless Fortress: Jillian Rushing’s Guide to Trust-First Product Security | cybergriotz | [Read More](https://medium.com/p/dcc2c69e452e) |
+| Mon, 05 May 2025 14:06:26 GMT | I Applied to 400 Jobs Before Landing One — Here’s the DevOps Resume That Finally Worked | Zudonu Osomudeya | [Read More](https://medium.com/p/669964fceadb) |
+| Mon, 05 May 2025 14:04:40 GMT | I deleted TikTok and Instagram off my phone last night and vowed to stop making content for my own… | Fallonbuchholz | [Read More](https://medium.com/p/22f916cefc8c) |
+| Mon, 05 May 2025 13:58:24 GMT | Cyber Briefing: 2025.05.05 | CyberMaterial | [Read More](https://medium.com/p/5db4da35c48f) |
+| Mon, 05 May 2025 13:56:34 GMT | Great Scott! The AI went ‘Back to the Backend’ without a ‘Transaction Token with Assured Context’! | Lars Lefebvre | [Read More](https://medium.com/p/3f3ee2a3b37d) |
+| Mon, 05 May 2025 13:49:18 GMT | The Double-Edged Sword of AI | Ammaar Shaikh | [Read More](https://medium.com/p/ef301e549508) |
+| Mon, 05 May 2025 13:47:50 GMT | Information Disclosure Vulnerability — A Simple Recon Leads to User Data Exposure $$$ | Dedrknex | [Read More](https://medium.com/p/0e13acaa1945) |
+| Mon, 05 May 2025 13:43:48 GMT | How Bug is Powering the Next Wave of Crypto Rewards | BUG | [Read More](https://medium.com/p/1fb9f85209dd) |
+| Mon, 05 May 2025 13:43:06 GMT | Data Sovereignty in a Connected World: Why FrostByte Puts You in Control | FrostByte | [Read More](https://medium.com/p/31b4c9c281c9) |
+| Mon, 05 May 2025 13:42:01 GMT | 82 — SOC140 — Phishing Mail Detected — Suspicious Task Scheduler-Letsdefend. | Amadi Oluchi Faith | [Read More](https://medium.com/p/d3a2193ec4cb) |
+| Mon, 05 May 2025 13:39:44 GMT | We have a binary: Malware.DontRunMeSo | Ad3M | [Read More](https://medium.com/p/51eeed0a76b2) |
+| Mon, 05 May 2025 13:33:13 GMT | If Your Data Is Safe, So Is Your Business: EDSPL’s 360° Cybersecurity Shield | saurabh cyberinfomines | [Read More](https://medium.com/p/b6ad17767e70) |
+| Mon, 05 May 2025 13:33:01 GMT | Threat and Vulnerabilities Report-April 2025 | Loginsoft | [Read More](https://medium.com/p/054ef00c86f3) |
+| Mon, 05 May 2025 13:31:47 GMT | Leveraging .INI Files for Code Execution on Windows: Techniques Used by Malware and Adversaries | Mohammed Tanveer | [Read More](https://medium.com/p/43bff6ec8e24) |
 | Mon, 05 May 2025 13:25:46 GMT | I Passed the Practical SOC Analyst Associate (PSAA) — Here’s What You Need to Know | Supot Sirisak | [Read More](https://medium.com/p/8e4096d758bc) |
 | Mon, 05 May 2025 13:22:34 GMT | Android vs iOS: A Comprehensive Comparison of Features, Security, and Performance | Somesh Deshmukh | [Read More](https://medium.com/p/c299acba0d81) |
 | Mon, 05 May 2025 13:17:33 GMT | StealC Malware v2.2.4: New Upgrades Bring More Stealth & Data Theft Power | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/21fd85e86af7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 08:58:16 GMT | VAPT for SaaS Startups: Early Security Investment That Pays Off | West Advanced Technologies Inc | [Read More](https://medium.com/p/f12eec00f308) |
 | Mon, 05 May 2025 08:55:26 GMT | RST TI Report Digest: 05 May 2025 | RST Cloud | [Read More](https://medium.com/p/643af11f1e43) |
 | Mon, 05 May 2025 08:51:29 GMT | How a Verbose Error Message Led Me to RCE Through a File Upload | Alberto Barbieri | [Read More](https://medium.com/p/bf8ea4a2d29d) |
-| Mon, 05 May 2025 08:48:01 GMT | Manual Penetration Testing Process Roadmap We Follow at AI1Security | All in One security | [Read More](https://medium.com/p/4655cab787a5) |
-| Mon, 05 May 2025 08:47:36 GMT | Easy Framework based Bugs Series is soon… | Shir0E | [Read More](https://medium.com/p/fb8f29e21be0) |
-| Mon, 05 May 2025 08:44:58 GMT | Falco: Getting hands-on for CKS exam | Puru Tuladhar | [Read More](https://medium.com/p/437f4e6c9484) |
-| Mon, 05 May 2025 08:42:27 GMT | OWASP Testing Guide(OTG-INFO-001) | Mehmet Başkır | [Read More](https://medium.com/p/9ea7a3a00670) |
-| Mon, 05 May 2025 08:42:18 GMT | HelloWorld, Goodbye Protection: Disassembling a Broken DEX Challenge | Alok Kumar Mishra | [Read More](https://medium.com/p/b8b34d6e08d8) |
-| Mon, 05 May 2025 08:41:11 GMT | Introduction about me | Shir0E | [Read More](https://medium.com/p/5431bc883bae) |
-| Mon, 05 May 2025 08:40:36 GMT | Vulnix Writeup (Vulnhub Intermediate Machine) | Ivan Daňo | [Read More](https://medium.com/p/2a7ddb0cb4c5) |
-| Mon, 05 May 2025 08:38:42 GMT | The Ultimate Guide to Using Cloudflare WAF: Setup, Rules, Examples and Docs | Aryansaha | [Read More](https://medium.com/p/28ae1d1e88a5) |
-| Mon, 05 May 2025 08:27:09 GMT | Hacker Summer Camp Diaries — Episode 2 | Piggy Bank by Prachi Doshi | [Read More](https://medium.com/p/bb29cd093100) |
-| Mon, 05 May 2025 08:14:11 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri: OSI ve TCP/IP Modelleri | Amad Tidiane Sow | [Read More](https://medium.com/p/60094ab398e9) |
-| Mon, 05 May 2025 08:11:45 GMT | Subdomain Dork Recon via 3rd party | AbhirupKonwar | [Read More](https://medium.com/p/54ea05b59a62) |
-| Mon, 05 May 2025 08:08:29 GMT | AI, Disinformation & Executive Risk: Why This Conversation Matters Now | SecOps | [Read More](https://medium.com/p/f16501c58999) |
-| Mon, 05 May 2025 08:06:21 GMT | OWASP: Web Uygulamaları Güvenlik Testi | Mehmet Başkır | [Read More](https://medium.com/p/cfdf0596f467) |
-| Mon, 05 May 2025 08:02:00 GMT | Secure Grafana: The 2025 Checklist | Giam | [Read More](https://medium.com/p/b2b66e7730e4) |
-| Mon, 05 May 2025 08:01:04 GMT | The Evolution of Sparse Information Retrieval | Beatrice Rapisarda | [Read More](https://medium.com/p/0857e5dcc761) |
-| Mon, 05 May 2025 07:59:35 GMT | Membaca access.log untuk Respons Insiden dan Investigasi Forensik Digital (Part 2) — Indonesia ver. | influez | [Read More](https://medium.com/p/700c75e0c4fd) |
