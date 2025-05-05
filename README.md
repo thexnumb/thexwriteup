@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 09:40:42 GMT | {CyberDefenders Write-up} Lespion Lab : Lespion Lab | Sh3nobi | [Read More](https://medium.com/p/f6bbe3270696) |
+| Mon, 05 May 2025 09:36:05 GMT | Windows Persistence via Registry: Run and RunOnce Keys | Taha Ex | [Read More](https://medium.com/p/c2d6eced8a6e) |
+| Mon, 05 May 2025 09:33:27 GMT | What Websites Know About You | Corinna Brown | [Read More](https://medium.com/p/aa2ba5373f8e) |
+| Mon, 05 May 2025 09:33:19 GMT | Mastering Metasploit: A Beginner Guide for Penetration Testing | Rac:) | [Read More](https://medium.com/p/f8eb9825c05c) |
+| Mon, 05 May 2025 09:33:09 GMT | The Ultimate Guide to Cyber Security Training in India 2025 | Amaljoseph | [Read More](https://medium.com/p/103698263e4c) |
+| Mon, 05 May 2025 09:32:42 GMT | CVE-2025–32817: Critical SonicWall Privilege Escalation Flaw — Why Businesses Need Proactive… | Infoziant | [Read More](https://medium.com/p/bb81f032128d) |
+| Mon, 05 May 2025 09:31:20 GMT | Moebius Tryhackme Writeup | St3mw4s | [Read More](https://medium.com/p/d9b1790f1225) |
+| Mon, 05 May 2025 09:29:48 GMT | $750 Bounty: Sensitive Data Exposure | Monika sharma | [Read More](https://medium.com/p/c944e626c733) |
+| Mon, 05 May 2025 09:29:17 GMT | Equifax Breach: How a $700M Mistake Happened | Ahmad Javed | [Read More](https://medium.com/p/3fd54858a650) |
+| Mon, 05 May 2025 09:29:09 GMT | Secure your Python applications: Best practices for developers | Roman Huliak | [Read More](https://medium.com/p/8ab8b8bc8bba) |
+| Mon, 05 May 2025 09:29:01 GMT | DevSecOps Phase 3: Build Stage — CI/CD Security Gate with SAST + SCA | Dinidhu Jayasinghe | [Read More](https://medium.com/p/a61d988d32d7) |
+| Mon, 05 May 2025 09:28:40 GMT | Windows Persistence with Logon Scripts (UserInitMprLogonScript) | Taha Ex | [Read More](https://medium.com/p/d995299dc94c) |
 | Mon, 05 May 2025 09:21:14 GMT | Understanding the Basic Differences Between CCNA, CCNP, and CCIE | Vasundhra sharma | [Read More](https://medium.com/p/edd64d11b161) |
 | Mon, 05 May 2025 09:12:38 GMT | Best Home Safes for Peace of Mind: 3 Options That Actually Feel Worth It | One Tap | [Read More](https://medium.com/p/d66fe855bd22) |
 | Mon, 05 May 2025 09:08:54 GMT | Nuances about configuring Semgrep automated scans | Antonio Lara | [Read More](https://medium.com/p/7996d45e6b88) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 03:32:25 GMT | How a Simple Phone Number Led to a Shocking Discovery Using Spiderfoot | Sam Galope | [Read More](https://medium.com/p/c292f6e2e53d) |
 | Mon, 05 May 2025 03:30:01 GMT | UnderPass — Hack The Box Write-up | Keyvanoandriansyah | [Read More](https://medium.com/p/2bb175bb78f7) |
 | Mon, 05 May 2025 03:26:43 GMT | Earn Smarter: Leveraging Bug for Growth | BUG | [Read More](https://medium.com/p/02bcdafaeb11) |
-| Mon, 05 May 2025 03:25:09 GMT | How to Build a Minimal,Secure , Scalable Home Lab with Proxmox | Oscar Achuy | [Read More](https://medium.com/p/df8d5ac9f52a) |
-| Mon, 05 May 2025 03:22:57 GMT | A deeper looks of AWS Security Platforms | Jacky Yau | [Read More](https://medium.com/p/662088a9250a) |
-| Mon, 05 May 2025 03:07:21 GMT | The World Wide Web | Shamar Isaac | [Read More](https://medium.com/p/cb177a0fd84b) |
-| Mon, 05 May 2025 03:01:35 GMT | Reinventing the wheel: A Software Engineering Balancing Act | Chinmay Kulkarni | [Read More](https://medium.com/p/22f738c4c378) |
-| Mon, 05 May 2025 02:58:46 GMT | Behind the Cloud — The TRUTH About TeraBox. | YuvaSec | [Read More](https://medium.com/p/dbf6976ba313) |
-| Mon, 05 May 2025 02:58:23 GMT | Demystifying Blockchain Security: An Easy-to-Understand Guide | Pawan Jaiswal | [Read More](https://medium.com/p/8f27cdd9a9ab) |
-| Mon, 05 May 2025 02:56:17 GMT | Smart Contract Security: Practical Automated Security Audit with Slither | VorobevSA | [Read More](https://medium.com/p/778bad1e94aa) |
-| Mon, 05 May 2025 02:45:44 GMT | Authentication vs Authorization vs Accounting (AAA) — The Cybersecurity Trio Everyone Should… | Thakur Naman Singh | [Read More](https://medium.com/p/4ce8c1c6e8f4) |
-| Mon, 05 May 2025 02:40:44 GMT | Stop Wasting Time: Build a CTI Collection Plan That Actually Works! | Paritosh | [Read More](https://medium.com/p/6edb5181a383) |
-| Mon, 05 May 2025 02:32:02 GMT | Your Digital Life Is at Risk — Even If You’re Not in Tech | Tech Researcher | [Read More](https://medium.com/p/80832905f95d) |
-| Mon, 05 May 2025 02:31:37 GMT | Using Two-Factor Authentication (2FA) To Stay Safe | Mwenda Kelvin | [Read More](https://medium.com/p/c6cb7e4a6b07) |
-| Mon, 05 May 2025 02:30:14 GMT | Broken Code, Broken Trust: Lessons from the Equifax Breach | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/c1b1e28db74f) |
