@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 11:31:27 GMT | Cyber Alert: Patna में 2 भाई गिरफ्तार — ️‍♂️ CBI और ED बनकर करते थे Cyber Fraud! | Hacker news 07 | [Read More](https://medium.com/p/081312f485ef) |
+| Mon, 05 May 2025 11:28:28 GMT | The Ultimate Guide to Cyber Threat Actors: Exploring Hackers, Hacktivists, and Their Tactics | Abdelaziz moustakim | [Read More](https://medium.com/p/c660cefc90b6) |
+| Mon, 05 May 2025 11:25:04 GMT | Beyond Ports and Protocols: The Rise of Deep Packet Inspection | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/516506813bc2) |
+| Mon, 05 May 2025 11:24:20 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/666884a75524) |
+| Mon, 05 May 2025 11:21:50 GMT | Part 1: Identity Federation in Multi-Cloud — Foundation and Technical Risks | Karlmarx Karunanithi | [Read More](https://medium.com/p/dd34dfb126a8) |
+| Mon, 05 May 2025 11:15:19 GMT | Your Favorite Browser is Spying on You: Browse Without Being Watched | Karl Buhl | [Read More](https://medium.com/p/1ee94337fe7b) |
+| Mon, 05 May 2025 11:14:02 GMT | Security Robots on Tour | Presslink Media | [Read More](https://medium.com/p/fee26a74de55) |
+| Mon, 05 May 2025 11:14:00 GMT | Siber Güvenlik Temelleri | Hiranur Gemalmaz | [Read More](https://medium.com/p/336441f9a9bd) |
 | Mon, 05 May 2025 11:06:55 GMT | How to build a Keylogger with C++ in 5 minutes | Batu Ada Tutkun | [Read More](https://medium.com/p/221fbe780c89) |
 | Mon, 05 May 2025 11:06:27 GMT | Machine Learning vs. Rule-Based Detection: What Really Matters in the SOC | Youssef Agouram | [Read More](https://medium.com/p/3f3f32ffe1f7) |
 | Mon, 05 May 2025 11:04:06 GMT | Why Is K-12 a Top Target for Cybersecurity Threats? | Shamsul Anam Emon | [Read More](https://medium.com/p/0a00ea3f85f0) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 06:22:26 GMT | AI Agents and the End of Awkward Pair Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/f0ccc54f162d) |
 | Mon, 05 May 2025 06:19:09 GMT | Securing Your Website with Content Security Policy (CSP): Nonce vs Hash | Sahaya Godson | [Read More](https://medium.com/p/36fa6ea913a0) |
 | Mon, 05 May 2025 06:12:48 GMT | Golden Chickens Expand Malware Arsenal with TerraStealerV2 and TerraLogger to Target Browser… | CyDhaal | [Read More](https://medium.com/p/ad8d6da7f3d3) |
-| Mon, 05 May 2025 06:05:37 GMT | Revisit OWASP API Top 10 in The Age of Agentic AI | Tam Nguyen | [Read More](https://medium.com/p/bceb03dcf92f) |
-| Mon, 05 May 2025 06:03:12 GMT | Snapdroid: One-Click Android PoC Capture for Bug Bounty Hunters & Pentesters | Sid Joshi | [Read More](https://medium.com/p/2f7a44bf5582) |
-| Mon, 05 May 2025 06:00:25 GMT | Master Ethical Hacking with OSCP+ Online Training | Certgrow | [Read More](https://medium.com/p/bee59eecce40) |
-| Mon, 05 May 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — May 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/da1d6f4cb624) |
-| Mon, 05 May 2025 05:59:00 GMT | Streamline Mondoo Case Management with Jira | Infralovers GmbH | [Read More](https://medium.com/p/ccb08156a86c) |
-| Mon, 05 May 2025 05:58:52 GMT | Palo Alto Networks Prisma Cloud Data Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/29b29cd6307c) |
-| Mon, 05 May 2025 05:53:43 GMT | Benjamin Miller’s spin on privilege escalation in Linux systems! | Benjaminmillerdev | [Read More](https://medium.com/p/f126f954817a) |
-| Mon, 05 May 2025 05:52:03 GMT | Building Large-Scale Applications with .NET and Angular: A Comprehensive Guide (Part 5) | Anand Panchal | [Read More](https://medium.com/p/f1cfe241202c) |
