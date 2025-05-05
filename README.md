@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 22:07:45 GMT | Cyber Risk Scenarios: Leveraging LLMs and the CLEAR Model to Define and Assess Cyber Risks… | Juan Pablo Castro | [Read More](https://medium.com/p/56863981332d) |
+| Mon, 05 May 2025 22:05:07 GMT | How I Passed the Certified Ethical Hacker Exam! | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/8d974d21bcd1) |
+| Mon, 05 May 2025 21:52:02 GMT | The Pain of Mediocrity | Tiefgang & Tamtam | [Read More](https://medium.com/p/18bfede1151c) |
+| Mon, 05 May 2025 21:51:27 GMT | Understanding the Mosquito Lifecycle (and How to Break It) | MR B | [Read More](https://medium.com/p/99445d076d16) |
+| Mon, 05 May 2025 21:50:45 GMT | How I Bypassed a Forbidden (403) Page to Access Exposed Apache Server-Status – HackerOne | Ali Hassan Khan | [Read More](https://medium.com/p/912cff5eed0a) |
+| Mon, 05 May 2025 21:49:24 GMT | Discussion Questions for The Social Dilemma | Savvy Cyber Kids | [Read More](https://medium.com/p/046574fea59f) |
+| Mon, 05 May 2025 21:48:14 GMT | Have an impact where YOU live, Volunteer with Savvy Cyber Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/b5b90774119d) |
+| Mon, 05 May 2025 21:46:34 GMT | Ask SCK: Should I be posting my toddler’s pictures on social media? | Savvy Cyber Kids | [Read More](https://medium.com/p/4c0947316714) |
 | Mon, 05 May 2025 21:31:40 GMT | Microsoft Bug Bounty: How I Found Unrestricted Access to Trace.axd | Ali Hassan Khan | [Read More](https://medium.com/p/734cd3fdddb5) |
 | Mon, 05 May 2025 21:26:29 GMT | This AI Can Hack Itself: The Chilling Truth About Agentic AI Cyber Threats | The Lazy Creator | [Read More](https://medium.com/p/1b6a361ee256) |
 | Mon, 05 May 2025 21:26:01 GMT | Conquer burnout | BitFlippa | [Read More](https://medium.com/p/0c567956211e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 15:50:59 GMT | Crypto Success: Using Bugs Bunny to Your Advantage | BUGS | [Read More](https://medium.com/p/dab10674108e) |
 | Mon, 05 May 2025 15:46:48 GMT | what Is Fomo is forex trading ?? | Joseph classic | [Read More](https://medium.com/p/de888a3a5285) |
 | Mon, 05 May 2025 15:45:50 GMT | Revolutionary Features Of The Most Advanced VPNs | Melvin Erickson | [Read More](https://medium.com/p/c19dd688466c) |
-| Mon, 05 May 2025 15:44:13 GMT | I found Open Redirect on US Government website | 0xPedrop | [Read More](https://medium.com/p/60a2d1d1e049) |
-| Mon, 05 May 2025 15:43:51 GMT | The Unseen Battle: Why Modern Cybersecurity Demands Proactive Defense and Zero Trust | e0xsecops | [Read More](https://medium.com/p/0f63ec875784) |
-| Mon, 05 May 2025 15:42:26 GMT | Back to Basics #6: Network layer protocols | Norman Kolarikkal | [Read More](https://medium.com/p/ad7d82ac6b80) |
-| Mon, 05 May 2025 15:32:26 GMT | Real-Time Challenges in Cyber-Physical Systems: Today and To the Future | Data Defendere | [Read More](https://medium.com/p/2a06c2be0206) |
-| Mon, 05 May 2025 15:32:05 GMT | The Risk of No Risk | Tom Yonashiro | [Read More](https://medium.com/p/93a11177cf04) |
-| Mon, 05 May 2025 15:30:06 GMT | How to Make Your ChainBounty $BOUNTY earn passive income for you | BOUNTY | [Read More](https://medium.com/p/3ca8bd0e9870) |
-| Mon, 05 May 2025 15:23:24 GMT | Increase Your Curvance $CVE Rewards in 2025 | CVE | [Read More](https://medium.com/p/b3b51051bceb) |
-| Mon, 05 May 2025 15:21:33 GMT | Zero-Day Exploit in Apple Devices Opens the Door to Wormable Attacks via AirPlay | Zbyte | [Read More](https://medium.com/p/fba74e66de6d) |
