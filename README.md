@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 20:36:11 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025— Part 1 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/3278b440c08b) |
+| Mon, 05 May 2025 20:26:18 GMT | Türkiye’nin 2025 Siber Güvenlik Hamlesi: Yeni Kanun Neler Getiriyor? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/5d11b3f6e01f) |
+| Mon, 05 May 2025 20:25:12 GMT | How to Spot and Avoid Malicious Apps: Protecting Your Digital Security | Pradeep Jaiswal | [Read More](https://medium.com/p/05a168f763ba) |
 | Mon, 05 May 2025 20:21:30 GMT | Most Programming Interviews Are Designed to Hire the Wrong People | Junaid Khalid | [Read More](https://medium.com/p/a7ce15fcb45c) |
 | Mon, 05 May 2025 20:20:45 GMT | Top 5 Skills to Attain in 2025 | Rabiahassan | [Read More](https://medium.com/p/bd04946ec0fd) |
 | Mon, 05 May 2025 20:15:37 GMT | How to Remove Sensitive Files from GitHub History(without crying too much) | Tsitsi Flora | [Read More](https://medium.com/p/a6245dd168d8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 15:07:11 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/18da58ff138f) |
 | Mon, 05 May 2025 15:00:48 GMT | Cookie-Bite: Testing Azure Defender Logging & Alerting with Session Replay | Elpfarr | [Read More](https://medium.com/p/08f53aea6276) |
 | Mon, 05 May 2025 14:57:14 GMT | Maximize Recon Solana for Passive Income Success | RECON | [Read More](https://medium.com/p/c589ad2a64f7) |
-| Mon, 05 May 2025 14:57:03 GMT | Crypto Crimes #3: Coincheck’s $530M Hack and the Rise of Japan’s Crypto Regulation | BitterBitcoiner | [Read More](https://medium.com/p/e86095c778f7) |
-| Mon, 05 May 2025 14:51:22 GMT | ️ Understanding Antivirus Software: Keeping Your Devices Safe | Tech Made Simple By NTi | [Read More](https://medium.com/p/7f578f1d13a8) |
-| Mon, 05 May 2025 14:48:29 GMT | The Ultimate Guide to Bounty $BNTY Yield Farming | BNTY | [Read More](https://medium.com/p/5c68d64e8e42) |
