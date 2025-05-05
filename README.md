@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 05:07:52 GMT | Why Change Management is Critical for Cybersecurity? | unica 02 | [Read More](https://medium.com/p/428a40e9affe) |
+| Mon, 05 May 2025 05:06:57 GMT | The Journey to Spiritual Awakening: Embracing Mutual Integration | Zsolt Hermann | [Read More](https://medium.com/p/90de35a0eefa) |
+| Mon, 05 May 2025 05:06:02 GMT | How to Enhance Your LunaFi $LFI Strategy | LFI | [Read More](https://medium.com/p/f45e88e92003) |
+| Mon, 05 May 2025 05:02:09 GMT | User Safety and Security on Daman Games - A Trusted Gaming Environment | Sahima Sighs | [Read More](https://medium.com/p/321792e12a15) |
+| Mon, 05 May 2025 04:55:44 GMT | AI-Powered Debugging Tools You Should Try Now (2025) | 1926JB55 Soundarya.S | [Read More](https://medium.com/p/0ee9ef2b5935) |
+| Mon, 05 May 2025 04:46:37 GMT | Cloud Squatting: Understanding and Mitigating a Modern Cyber Threat | Centizen Nationwide | [Read More](https://medium.com/p/bff365dd4614) |
+| Mon, 05 May 2025 04:45:25 GMT | SPOKANE, Washington — A 15-year-old Spokane resident has been arrested in connection with a… | Jonathan Terrezo | [Read More](https://medium.com/p/3a75c9be249e) |
+| Mon, 05 May 2025 04:44:11 GMT | Benefits of Third-Party Vendor Audit Services to Industry | Securis360 Inc. | [Read More](https://medium.com/p/2bd19487f50e) |
+| Mon, 05 May 2025 04:36:31 GMT | How Hackers find your weak spots? | Innefu Labs | [Read More](https://medium.com/p/3d6fe4f9c952) |
 | Mon, 05 May 2025 04:31:38 GMT | Are Enterprise LLMs Secure Enough for Internal Use? | MidnightMusings | [Read More](https://medium.com/p/890632f29e91) |
 | Mon, 05 May 2025 04:20:55 GMT | UAE Enhances Public Safety with Expanded CCTV Surveillance Network | Tekshoyabeelyas | [Read More](https://medium.com/p/90a6956276bf) |
 | Mon, 05 May 2025 04:17:54 GMT | Exploiting computer control agents | Sevan Hayrapet | [Read More](https://medium.com/p/4beb9a330694) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 19:13:52 GMT | Malvertising: The $13 Billion Problem You Didn’t Know You Were Paying For | Amit kumar | [Read More](https://medium.com/p/88f7d91de5ba) |
 | Sun, 04 May 2025 19:10:39 GMT | So You Think You Have Nothing to Hide? Think Again. | Judy's Cyber Journal | [Read More](https://medium.com/p/555f5ba9f53f) |
 | Sun, 04 May 2025 19:10:23 GMT | 5 Ways Hackers Exploit Outdated WordPress Plugins — and How to Stop Them | Shubradeb | [Read More](https://medium.com/p/e9c5669ec7d1) |
-| Sun, 04 May 2025 19:09:09 GMT | Tired of WhatsApp monopoly? Interoperability could set us free — securely | Pradeen Krishna G | [Read More](https://medium.com/p/8ecaf4bef043) |
-| Sun, 04 May 2025 18:44:37 GMT | GCP Privilege Escalation: Abusing Function Admin Role for Full Project Takeover | Nairuz Abulhul | [Read More](https://medium.com/p/4be96a951ddc) |
-| Sun, 04 May 2025 18:42:27 GMT | Recent Cybersecurity Incident: Russian Hackers Target Romanian Government Websites | Eaglevision | [Read More](https://medium.com/p/7d3552951921) |
-| Sun, 04 May 2025 18:35:45 GMT | Top 99+ Best Sites To ChimeAccounts (Aged & Real) | Usapremierit | [Read More](https://medium.com/p/a28a958fb6c2) |
-| Sun, 04 May 2025 18:29:28 GMT | Isolating labs with VRFs and WireGuard | Peter De Sousa | [Read More](https://medium.com/p/3bf3a74bed6b) |
-| Sun, 04 May 2025 18:26:13 GMT | Is the Rapid Rise of AI the Beginning of the End | Brad McEvilly | [Read More](https://medium.com/p/62c2bafe7725) |
-| Sun, 04 May 2025 18:19:15 GMT | Whispers vs. Shouts: The Real Story Behind HTTP & HTTPS | Vaishnav Gnair | [Read More](https://medium.com/p/04c6150277cb) |
-| Sun, 04 May 2025 18:18:31 GMT | Best Dark Web Monitoring Tools in 2025: A Deep Dive into the Cyber Underworld | cybrNK | [Read More](https://medium.com/p/5fd5bc72b3ba) |
-| Sun, 04 May 2025 18:16:51 GMT | 7 ChatGPT Prompts to Smash Your Goals | Axoloth | [Read More](https://medium.com/p/c0fb9d85c381) |
