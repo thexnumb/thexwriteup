@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 20:58:25 GMT | Ağ Katmanlarını Anlamak ve Siber Dünyanın Tehlikeleriyle Yüzleşmek | Hiranur Gemalmaz | [Read More](https://medium.com/p/d3a7964ce880) |
+| Mon, 05 May 2025 20:57:28 GMT | Time-Based C2 DNS Server | S12 - H4CK | [Read More](https://medium.com/p/9338545e5575) |
+| Mon, 05 May 2025 20:50:13 GMT | Part 3: Identity Federation in Multi-Cloud — Exploits, Use Cases, and How to Fix It | Karlmarx Karunanithi | [Read More](https://medium.com/p/9903bb7173ce) |
 | Mon, 05 May 2025 20:36:11 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025— Part 1 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/3278b440c08b) |
 | Mon, 05 May 2025 20:26:18 GMT | Türkiye’nin 2025 Siber Güvenlik Hamlesi: Yeni Kanun Neler Getiriyor? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/5d11b3f6e01f) |
 | Mon, 05 May 2025 20:25:12 GMT | How to Spot and Avoid Malicious Apps: Protecting Your Digital Security | Pradeep Jaiswal | [Read More](https://medium.com/p/05a168f763ba) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 15:14:20 GMT | JWT Authentication Best Practices: A Guide for Secure Web Applications | Hamzasufian | [Read More](https://medium.com/p/798b7a36f023) |
 | Mon, 05 May 2025 15:12:28 GMT | Critical Android Zero-Day Vulnerabilities Exposed: What You Need to Know and How to Stay Safe | Omar Alhendi | [Read More](https://medium.com/p/aee89b18767e) |
 | Mon, 05 May 2025 15:10:12 GMT | Can I Perform SCAP Scans on Container Images? Yes You Can! | Dale Bingham | [Read More](https://medium.com/p/b646798e1ba3) |
-| Mon, 05 May 2025 15:07:11 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/18da58ff138f) |
-| Mon, 05 May 2025 15:00:48 GMT | Cookie-Bite: Testing Azure Defender Logging & Alerting with Session Replay | Elpfarr | [Read More](https://medium.com/p/08f53aea6276) |
-| Mon, 05 May 2025 14:57:14 GMT | Maximize Recon Solana for Passive Income Success | RECON | [Read More](https://medium.com/p/c589ad2a64f7) |
