@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 16:55:41 GMT | How to Hunt XML External Entity Vulnerability — like a pro✨ | Kidnapshadow | [Read More](https://medium.com/p/4d5f24ceade7) |
+| Mon, 05 May 2025 16:49:20 GMT | Why Vulnerability Assessment Services Are Essential for Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/4c4a45558fc9) |
 | Mon, 05 May 2025 16:45:40 GMT | From Curiosity to Compromise: What a School Network Taught Us About Visibility | Andre Fernandes | [Read More](https://medium.com/p/bcf62cafe3f1) |
 | Mon, 05 May 2025 16:41:07 GMT | ColddBox (tryhackme) | Amalpp | [Read More](https://medium.com/p/733c17a93206) |
 | Mon, 05 May 2025 16:37:32 GMT | Enhancing Modern Enterprises with Comprehensive IT and Security Solutions | Defend My Business | [Read More](https://medium.com/p/04c683755070) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 11:24:20 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/666884a75524) |
 | Mon, 05 May 2025 11:21:50 GMT | Part 1: Identity Federation in Multi-Cloud — Foundation and Technical Risks | Karlmarx Karunanithi | [Read More](https://medium.com/p/dd34dfb126a8) |
 | Mon, 05 May 2025 11:15:19 GMT | Your Favorite Browser is Spying on You: Browse Without Being Watched | Karl Buhl | [Read More](https://medium.com/p/1ee94337fe7b) |
-| Mon, 05 May 2025 11:14:02 GMT | Security Robots on Tour | Presslink Media | [Read More](https://medium.com/p/fee26a74de55) |
-| Mon, 05 May 2025 11:14:00 GMT | Siber Güvenlik Temelleri | Hiranur Gemalmaz | [Read More](https://medium.com/p/336441f9a9bd) |
