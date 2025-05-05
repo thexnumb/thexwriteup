@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 01:27:49 GMT | Maximize Your Digital Wealth with DORK Strategies | DORK | [Read More](https://medium.com/p/b76784e64698) |
+| Mon, 05 May 2025 01:25:34 GMT | Mastering Modern Red Teaming Infrastructure — Part 8: Simulating APT Infostealer via Stealthy… | Faris Faisal 0xFF | [Read More](https://medium.com/p/ab128dbb83c6) |
+| Mon, 05 May 2025 01:11:50 GMT | For the Ones Still Holding On | Gigi | [Read More](https://medium.com/p/6e1cb7357f69) |
+| Mon, 05 May 2025 01:07:01 GMT | Building Long-Term Wealth with Bounty | Jake
+ Yang | [Read More](https://medium.com/p/3762ba0c3739) |
+| Mon, 05 May 2025 00:47:40 GMT | Securing a Small Business Network with Switch and Router Configurations | Cell | [Read More](https://medium.com/p/d227068913d5) |
+| Mon, 05 May 2025 00:44:24 GMT | Writing a Detection Broke My Brain (And Made Me Respect Security Engineers Forever) | Emmanuel Joshua | [Read More](https://medium.com/p/01ecd6bb6703) |
+| Mon, 05 May 2025 00:42:24 GMT | SIGINT(Signals Intelligence)Tools | loyalonlytoday | [Read More](https://medium.com/p/8968cf12b840) |
+| Mon, 05 May 2025 00:39:17 GMT | My PortSwigger Journey: Exploring SQL Vulnerabilities Using Burp Suite (Pt 6) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/530fa102f14a) |
+| Mon, 05 May 2025 00:36:10 GMT | Initial Methodology for Hack The Box Machines | JPablo13 | [Read More](https://medium.com/p/59c0c6b1f8b1) |
+| Mon, 05 May 2025 00:22:18 GMT | How to Get the Most Out of Your ChainBounty $BOUNTY Rewards | BOUNTY | [Read More](https://medium.com/p/8a5f2c06b144) |
+| Mon, 05 May 2025 00:16:05 GMT | Email Spoofing Can Destroy Your Business!! | Md. Ashiquer Rahman Fahad | [Read More](https://medium.com/p/a431ea7a6287) |
+| Mon, 05 May 2025 00:14:27 GMT | Security in the Grey: A Study of Risk, Reward, and Human Nature | Tuan Kamiss | [Read More](https://medium.com/p/098ca095039b) |
+| Mon, 05 May 2025 00:02:46 GMT | Your Browser is the Battlefield Now: Axiad Mesh + Microsoft Edge for Business | David Canellos | [Read More](https://medium.com/p/fae10180cf63) |
 | Sun, 04 May 2025 23:17:03 GMT | HackTheBox - UpDown | jniket | [Read More](https://medium.com/p/f25fce332352) |
 | Sun, 04 May 2025 23:16:25 GMT | The Red Teaming: 30-Day Challenge[21] | Bl@ckC!pH3r | [Read More](https://medium.com/p/def1cfcaf7f3) |
 | Sun, 04 May 2025 23:02:27 GMT | LetsDefend — Windows Registry Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/a905b3f24fee) |
@@ -100,16 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 15:41:44 GMT | Tackling Conditional Blind SQLi Like a Pro: OSWE Prep Powered by Burp Suite | Anezaneo | [Read More](https://medium.com/p/9764ba210b40) |
 | Sun, 04 May 2025 15:39:00 GMT | The Future of Financial Crime Detection: Real-Time, Relationship-Aware, and Explainable | RaptorX.ai | [Read More](https://medium.com/p/6931c55f54c5) |
 | Sun, 04 May 2025 15:36:48 GMT | Coldd Box — A Complete Walkthrough from Initial Access to Root | Md Faiyaz Khan | [Read More](https://medium.com/p/48cc42117542) |
-| Sun, 04 May 2025 15:30:44 GMT | Breaking Barriers: My Journey into Web Application Penetration Testing | Ganga Subhash | [Read More](https://medium.com/p/394a032cfd46) |
-| Sun, 04 May 2025 15:30:42 GMT | Caught on Camera: 21 Million Work Screens Leaked Online — Could Yours Be Next? | Janeel Abrahams | [Read More](https://medium.com/p/5b49f33e3377) |
-| Sun, 04 May 2025 15:24:33 GMT | Understanding Server Side Template Injection (SSTI) | Natarajan C K | [Read More](https://medium.com/p/1cb0465dd46d) |
-| Sun, 04 May 2025 15:24:05 GMT | SolarWinds Hack: 5 Critical Lessons for Businesses | Ahmad Javed | [Read More](https://medium.com/p/9be1e7b3d500) |
-| Sun, 04 May 2025 15:16:58 GMT | Apa Itu Cyber Security? (Bahasan santai untuk para newbie) | Bintang - Learning Cyber Security | [Read More](https://medium.com/p/6f8f3958cd20) |
-| Sun, 04 May 2025 15:16:22 GMT | Prompt Engineering: Hacker’s Edition | binbashfun | [Read More](https://medium.com/p/74cca4749ca6) |
-| Sun, 04 May 2025 15:01:31 GMT | The quiet art of becoming | Quynton Johnson | [Read More](https://medium.com/p/91ff227204b5) |
-| Sun, 04 May 2025 14:57:34 GMT | Information Security Audits in Healthcare: Planning, Activities & Compliance Essentials | Jadala Ajay | [Read More](https://medium.com/p/0e160725df28) |
-| Sun, 04 May 2025 14:56:22 GMT | How a Simple IDOR Bug in Dubsmash’s API Could’ve Let Anyone Mess With Your Audio | Aryansaha | [Read More](https://medium.com/p/957887b75b69) |
-| Sun, 04 May 2025 14:51:08 GMT | Shopify Bug Bounty: Exploiting Access Controls in Shopify Ping and KITCRM | Aryansaha | [Read More](https://medium.com/p/edbb0b3ac711) |
-| Sun, 04 May 2025 14:49:07 GMT | One Request Too Many: Understanding and Surviving DoS & DDoS Attacks | Santhosh | [Read More](https://medium.com/p/5e337817aeb1) |
-| Sun, 04 May 2025 14:44:23 GMT | Why Red Teaming Is the Secret Weapon CISOs Need in 2025 | Mehak kamra | [Read More](https://medium.com/p/55e55262a8c5) |
-| Sun, 04 May 2025 14:44:04 GMT | Vibe Coding: The GenAI Hustle & How Not to Leak Your Company’s Secrets | yzw.joel | [Read More](https://medium.com/p/d085316ab685) |
