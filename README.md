@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 03:45:46 GMT | Advanced VPN Providers Setting New Standards | Melvin Erickson | [Read More](https://medium.com/p/39c99c9cffa8) |
+| Mon, 05 May 2025 03:34:26 GMT | Data Minimization and Purpose Limitation: Principles for Compliance | Author Peter - Lawyer- MBA ,LL.M | [Read More](https://medium.com/p/6beba3819b00) |
+| Mon, 05 May 2025 03:32:26 GMT | Inside the Alleged Cyberattack on Jaguar Land Rover | Deven Chhajed | [Read More](https://medium.com/p/5613b9cc415f) |
+| Mon, 05 May 2025 03:32:25 GMT | How a Simple Phone Number Led to a Shocking Discovery Using Spiderfoot | Sam Galope | [Read More](https://medium.com/p/c292f6e2e53d) |
+| Mon, 05 May 2025 03:30:01 GMT | UnderPass — Hack The Box Write-up | Keyvanoandriansyah | [Read More](https://medium.com/p/2bb175bb78f7) |
+| Mon, 05 May 2025 03:26:43 GMT | Earn Smarter: Leveraging Bug for Growth | BUG | [Read More](https://medium.com/p/02bcdafaeb11) |
+| Mon, 05 May 2025 03:25:09 GMT | How to Build a Minimal,Secure , Scalable Home Lab with Proxmox | Oscar Achuy | [Read More](https://medium.com/p/df8d5ac9f52a) |
+| Mon, 05 May 2025 03:22:57 GMT | A deeper looks of AWS Security Platforms | Jacky Yau | [Read More](https://medium.com/p/662088a9250a) |
+| Mon, 05 May 2025 03:07:21 GMT | The World Wide Web | Shamar Isaac | [Read More](https://medium.com/p/cb177a0fd84b) |
 | Mon, 05 May 2025 03:01:35 GMT | Reinventing the wheel: A Software Engineering Balancing Act | Chinmay Kulkarni | [Read More](https://medium.com/p/22f738c4c378) |
 | Mon, 05 May 2025 02:58:46 GMT | Behind the Cloud — The TRUTH About TeraBox. | YuvaSec | [Read More](https://medium.com/p/dbf6976ba313) |
 | Mon, 05 May 2025 02:58:23 GMT | Demystifying Blockchain Security: An Easy-to-Understand Guide | Pawan Jaiswal | [Read More](https://medium.com/p/8f27cdd9a9ab) |
@@ -105,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 17:38:16 GMT | You Should Encrypt Your Environment Variables | Ali nazari | [Read More](https://medium.com/p/cdd20afde061) |
 | Sun, 04 May 2025 17:36:09 GMT | TrailAlerts: Take Control of Cloud Detection in AWS | Adan | [Read More](https://medium.com/p/9e7761f49509) |
 | Sun, 04 May 2025 17:33:03 GMT | Hack The Box Academy — Network Foundations — Network Address Translation (NAT) | bl77rd | [Read More](https://medium.com/p/7ccdca6d6915) |
-| Sun, 04 May 2025 17:27:12 GMT | Asus Just Launched New ExpertBook AI Laptops in India — Here’s What You Need to Know! | SATHISH R | [Read More](https://medium.com/p/f39438bb012b) |
-| Sun, 04 May 2025 17:16:33 GMT | Evil Twin Setup using hostapd and dnsmasq | Atharva puri | [Read More](https://medium.com/p/cae451dcd9c3) |
-| Sun, 04 May 2025 17:00:25 GMT | “Understanding the Distinction Between Security and Privacy in the Digital Age” | Poojithajayareddygari | [Read More](https://medium.com/p/8d8f6ece98b6) |
-| Sun, 04 May 2025 16:58:36 GMT | a | Visual Monitoring Solutions | [Read More](https://medium.com/p/deedb2d78fab) |
-| Sun, 04 May 2025 16:57:34 GMT | Navigating the Digital Maze: Cisco’s Foundation-Sec-8B and the Curious Case of AI in Cybersecurity | Shaitan | [Read More](https://medium.com/p/545096592833) |
-| Sun, 04 May 2025 16:43:24 GMT | OSEP in 2025 — experience, advice & criticism | Sohail Saha | [Read More](https://medium.com/p/3c4947cd023c) |
-| Sun, 04 May 2025 16:34:09 GMT | Hack The Box Academy — Network Foundations — Dynamic Host Configuration Protocol (DHCP) | bl77rd | [Read More](https://medium.com/p/ea8b9b062e44) |
-| Sun, 04 May 2025 16:33:14 GMT | VPNs: Can They Outrun The Censors? What You Need To Know | The Censored State | [Read More](https://medium.com/p/c55322c3f9a8) |
-| Sun, 04 May 2025 16:18:24 GMT | Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/df86da9d161b) |
