@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 18:42:27 GMT | Deepfake Danger: When Technology Loses Its Moral Compass | MATHANAM.S | [Read More](https://medium.com/p/4f0e3c9cea90) |
+| Mon, 05 May 2025 18:41:42 GMT | I Kept Missing Concert Tickets — So I Built an Android Bot to Buy Them for Me | Balazs Banto | [Read More](https://medium.com/p/0bd370ebd6d5) |
+| Mon, 05 May 2025 18:30:09 GMT | Is Quantum Computing a Threat to Blockchain?⛓️‍ | Suraj Sabale | [Read More](https://medium.com/p/ee4066c16ee3) |
+| Mon, 05 May 2025 18:30:02 GMT | AirBorne: How Wormable AirPlay Flaws Put Billions of Apple Devices at Risk | Ismail Tasdelen | [Read More](https://medium.com/p/eae1c6071a12) |
+| Mon, 05 May 2025 18:25:26 GMT | Layered Defenses and Latent Failures: Why Software Errors Happen | Maneesh Chaturvedi | [Read More](https://medium.com/p/5493b35e97ea) |
+| Mon, 05 May 2025 18:25:15 GMT | The Importance of Cybersecurity in the Digital Age | Vansh Khandelwal | [Read More](https://medium.com/p/84cfd221cc81) |
+| Mon, 05 May 2025 18:24:34 GMT | Critical Commvault Vulnerability CVE-2025–34028: A Zero-Click Nightmare | Ismail Tasdelen | [Read More](https://medium.com/p/91aec71d6e15) |
+| Mon, 05 May 2025 18:24:13 GMT | Mock Drills & Readiness Checks at Indian Financial Institutions | Yogesh V Malvankar | [Read More](https://medium.com/p/bd782b579d18) |
+| Mon, 05 May 2025 18:14:48 GMT | Cross-Site Request Forgery (CSRF) Made Easy: A Beginner’s Perspective | Natarajan C K | [Read More](https://medium.com/p/037b4ba6d62a) |
 | Mon, 05 May 2025 17:58:24 GMT | While AI is Becoming Your Search Engine: | Brad Kirkpatrick, CISSP | [Read More](https://medium.com/p/761947db618b) |
 | Mon, 05 May 2025 17:58:20 GMT | How Can I Recover My Money From Fxpro? | Vera | [Read More](https://medium.com/p/b25e6441efd7) |
 | Mon, 05 May 2025 17:51:49 GMT | Behind the Login : Authentication and Access Control in Social Media | Aditi Gade | [Read More](https://medium.com/p/3b14766047c9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 13:33:01 GMT | Threat and Vulnerabilities Report-April 2025 | Loginsoft | [Read More](https://medium.com/p/054ef00c86f3) |
 | Mon, 05 May 2025 13:31:47 GMT | Leveraging .INI Files for Code Execution on Windows: Techniques Used by Malware and Adversaries | Mohammed Tanveer | [Read More](https://medium.com/p/43bff6ec8e24) |
 | Mon, 05 May 2025 13:25:46 GMT | I Passed the Practical SOC Analyst Associate (PSAA) — Here’s What You Need to Know | Supot Sirisak | [Read More](https://medium.com/p/8e4096d758bc) |
-| Mon, 05 May 2025 13:22:34 GMT | Android vs iOS: A Comprehensive Comparison of Features, Security, and Performance | Somesh Deshmukh | [Read More](https://medium.com/p/c299acba0d81) |
-| Mon, 05 May 2025 13:17:33 GMT | StealC Malware v2.2.4: New Upgrades Bring More Stealth & Data Theft Power | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/21fd85e86af7) |
-| Mon, 05 May 2025 13:07:33 GMT | Why API Security Matters More Than Ever in 2024 | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/b686a12a6acd) |
-| Mon, 05 May 2025 13:05:16 GMT | Cybersecurity Home Lab — Phase 4: Splunk Setup & Log Forwarding | Khaled Alkhatib | [Read More](https://medium.com/p/a188ba6ea15d) |
-| Mon, 05 May 2025 13:01:44 GMT | Kickstart MobSF on Kali Linux — The Easiest Way Possible! | Prateek Ranjan | [Read More](https://medium.com/p/63896663273f) |
-| Mon, 05 May 2025 12:58:59 GMT | Unintended Consequences | Shuvodip Ray | [Read More](https://medium.com/p/a6fab76501ad) |
-| Mon, 05 May 2025 12:55:49 GMT | Every Click Is Tracked — VPNs Aren’t Optional Anymore! | Your's Nightmare | [Read More](https://medium.com/p/b004ecfd6eb1) |
-| Mon, 05 May 2025 12:42:34 GMT | Do you like the work of art that I am? | Benita Imokhai | [Read More](https://medium.com/p/0619567ed5ff) |
-| Mon, 05 May 2025 12:31:06 GMT | Kerberos necə işləyir? Protokolun mexanizminə detallı baxış | nurlan012 | [Read More](https://medium.com/p/4aec368ebafe) |
