@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 May 2025 03:01:35 GMT | Reinventing the wheel: A Software Engineering Balancing Act | Chinmay Kulkarni | [Read More](https://medium.com/p/22f738c4c378) |
+| Mon, 05 May 2025 02:58:46 GMT | Behind the Cloud — The TRUTH About TeraBox. | YuvaSec | [Read More](https://medium.com/p/dbf6976ba313) |
+| Mon, 05 May 2025 02:58:23 GMT | Demystifying Blockchain Security: An Easy-to-Understand Guide | Pawan Jaiswal | [Read More](https://medium.com/p/8f27cdd9a9ab) |
+| Mon, 05 May 2025 02:56:17 GMT | Smart Contract Security: Practical Automated Security Audit with Slither | VorobevSA | [Read More](https://medium.com/p/778bad1e94aa) |
+| Mon, 05 May 2025 02:45:44 GMT | Authentication vs Authorization vs Accounting (AAA) — The Cybersecurity Trio Everyone Should… | Thakur Naman Singh | [Read More](https://medium.com/p/4ce8c1c6e8f4) |
+| Mon, 05 May 2025 02:40:44 GMT | Stop Wasting Time: Build a CTI Collection Plan That Actually Works! | Paritosh | [Read More](https://medium.com/p/6edb5181a383) |
+| Mon, 05 May 2025 02:32:02 GMT | Your Digital Life Is at Risk — Even If You’re Not in Tech | Tech Researcher | [Read More](https://medium.com/p/80832905f95d) |
+| Mon, 05 May 2025 02:31:37 GMT | Using Two-Factor Authentication (2FA) To Stay Safe | Mwenda Kelvin | [Read More](https://medium.com/p/c6cb7e4a6b07) |
+| Mon, 05 May 2025 02:30:14 GMT | Broken Code, Broken Trust: Lessons from the Equifax Breach | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/c1b1e28db74f) |
+| Mon, 05 May 2025 02:29:35 GMT | Next NSA: Political Leader, Cyber Expert | CCD-IS | [Read More](https://medium.com/p/c4ae7a8ed7fe) |
+| Mon, 05 May 2025 02:24:10 GMT | Power Grid Cybersecurity: Protecting the Lifeline of Modern Society | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/f6f222f91597) |
+| Mon, 05 May 2025 02:13:04 GMT | Cyber Resilience: The New Cornerstone of National Security | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/abfcf49c550c) |
+| Mon, 05 May 2025 02:05:45 GMT | The AI Alignment Crisis: Why Cybersecurity & Computer Engineering See What Many AI Researchers… | Christoforus Yoga Haryanto | [Read More](https://medium.com/p/873ede0495a4) |
+| Mon, 05 May 2025 02:03:37 GMT | Are AI Systems Easy to Hack? Inside the Weak Links of Popular AI Methodologies | Anerella | [Read More](https://medium.com/p/8fbefeb1e787) |
+| Mon, 05 May 2025 01:56:26 GMT | Day 16: Sigma Rules — Write Once, Use Anywhere | Bl@ckC!pH3r | [Read More](https://medium.com/p/fa1ce11ba204) |
+| Mon, 05 May 2025 01:51:23 GMT | How a $60 Cat Feeder Crashed a Business in 48 Hours (No, Seriously) | Noel | [Read More](https://medium.com/p/ca18b8e9e228) |
+| Mon, 05 May 2025 01:39:51 GMT | SolarWinds Unshaded: A Deep Dive into the 2020 Supply Chain Breach — Cyber Threat | Jadala Ajay | [Read More](https://medium.com/p/2278c2cada95) |
 | Mon, 05 May 2025 01:27:49 GMT | Maximize Your Digital Wealth with DORK Strategies | DORK | [Read More](https://medium.com/p/b76784e64698) |
 | Mon, 05 May 2025 01:25:34 GMT | Mastering Modern Red Teaming Infrastructure — Part 8: Simulating APT Infostealer via Stealthy… | Faris Faisal 0xFF | [Read More](https://medium.com/p/ab128dbb83c6) |
 | Mon, 05 May 2025 01:11:50 GMT | For the Ones Still Holding On | Gigi | [Read More](https://medium.com/p/6e1cb7357f69) |
@@ -97,20 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 May 2025 16:34:09 GMT | Hack The Box Academy — Network Foundations — Dynamic Host Configuration Protocol (DHCP) | bl77rd | [Read More](https://medium.com/p/ea8b9b062e44) |
 | Sun, 04 May 2025 16:33:14 GMT | VPNs: Can They Outrun The Censors? What You Need To Know | The Censored State | [Read More](https://medium.com/p/c55322c3f9a8) |
 | Sun, 04 May 2025 16:18:24 GMT | Reverse Shell Payload for Flipper Zero | amis13 | [Read More](https://medium.com/p/df86da9d161b) |
-| Sun, 04 May 2025 16:18:10 GMT | Sandfly: Using the product in Production Properly — Configuring Schedules and Scanning for Threats… | Truvis Thornton | [Read More](https://medium.com/p/e4624015121a) |
-| Sun, 04 May 2025 16:17:24 GMT | eWPTXv3 Certification Review | 0xSt4n | [Read More](https://medium.com/p/fd9449be6bdf) |
-| Sun, 04 May 2025 16:15:34 GMT | Switch to a Cybersecurity Analyst Career with No Technical Background? (Tried & Tested) | Divya Arora | [Read More](https://medium.com/p/20d7d71ba92d) |
-| Sun, 04 May 2025 16:13:02 GMT | Why Cybersecurity Specialists Must Understand Networks? | Lamiya Salahova | [Read More](https://medium.com/p/acb87204f724) |
-| Sun, 04 May 2025 16:07:25 GMT | Hack The Box Academy — Network Foundations — Network Communication | bl77rd | [Read More](https://medium.com/p/9adfb64c79b2) |
-| Sun, 04 May 2025 16:02:34 GMT | Lateral Movement with Python: Remotely Executing Commands Over SMB & WMI | Maxwell Cross | [Read More](https://medium.com/p/4fb95526b3d6) |
-| Sun, 04 May 2025 16:02:34 GMT | ️ UK Retailers Under Attack: Ransomware Chaos Hits the High Street | LazyHacker | [Read More](https://medium.com/p/c8db572e1db7) |
-| Sun, 04 May 2025 16:01:06 GMT | Migrating from localStorage to HttpOnly Cookie in GraphQL (Beginner Friendly Guide with Django +… | Manjurul Hoque Rumi | [Read More](https://medium.com/p/d9b23ed85135) |
-| Sun, 04 May 2025 15:57:56 GMT | Java Code Analysis!?! - Writeup | Marvin | [Read More](https://medium.com/p/8910da2f13bc) |
-| Sun, 04 May 2025 15:56:53 GMT | El drama de las apuestas en sitios ilegales y ludopatía infantil | Tiziano Mass | [Read More](https://medium.com/p/3a8258eb414a) |
-| Sun, 04 May 2025 15:55:16 GMT | LetsDefend SOC239 — CUPS RCE Detection via IPP Injection (CVE-2024–47177) | Dh | [Read More](https://medium.com/p/e90d2ae2fd4b) |
-| Sun, 04 May 2025 15:50:39 GMT | A Synopsis Of VPN Technology And Benefits | James Neal | [Read More](https://medium.com/p/308fdea89622) |
-| Sun, 04 May 2025 15:45:45 GMT | Explore The Most Advanced Security In VPN Technology | Melvin Erickson | [Read More](https://medium.com/p/8086c604573e) |
-| Sun, 04 May 2025 15:44:47 GMT | Building a Custom RAT - Full Course Introduction | S12 - H4CK | [Read More](https://medium.com/p/9c2a236c7995) |
-| Sun, 04 May 2025 15:41:44 GMT | Tackling Conditional Blind SQLi Like a Pro: OSWE Prep Powered by Burp Suite | Anezaneo | [Read More](https://medium.com/p/9764ba210b40) |
-| Sun, 04 May 2025 15:39:00 GMT | The Future of Financial Crime Detection: Real-Time, Relationship-Aware, and Explainable | RaptorX.ai | [Read More](https://medium.com/p/6931c55f54c5) |
-| Sun, 04 May 2025 15:36:48 GMT | Coldd Box — A Complete Walkthrough from Initial Access to Root | Md Faiyaz Khan | [Read More](https://medium.com/p/48cc42117542) |
