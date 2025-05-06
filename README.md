@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 19:14:25 GMT | What’s Your Name — TryHackMe — Detailed Writeup | Farid Hajiyev | [Read More](https://medium.com/p/efc28f018aac) |
+| Tue, 06 May 2025 19:08:47 GMT | WordPress Backdoors: What They Are and How to Detect Them | All in One security | [Read More](https://medium.com/p/8cfd566d795b) |
+| Tue, 06 May 2025 19:06:30 GMT | Defense Station Cybersecurity Solution for Hedge Funds and Family Offices | Nabil W | [Read More](https://medium.com/p/4f4470260aba) |
+| Tue, 06 May 2025 19:05:32 GMT | The Poison Apple of AI Automation | Tim McAllister | [Read More](https://medium.com/p/ca4cb27d4e0c) |
+| Tue, 06 May 2025 19:05:26 GMT | How an IT Managed Services Provider in Springfield, MO Prevents Threats | PCnet | [Read More](https://medium.com/p/b9a7f7ec07fb) |
+| Tue, 06 May 2025 19:03:20 GMT | Vulnerability Data Enrichment for CVE Records: 251 CNAs on the Enrichment Recognition List for May… | CVE Program Blog | [Read More](https://medium.com/p/0c56e3d382d1) |
+| Tue, 06 May 2025 19:02:16 GMT | FOFA Dorking for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/a35c80bbab6e) |
+| Tue, 06 May 2025 19:02:01 GMT | Cybersecurity vs. Curiosity: Why Funny Sites Aren’t Always Harmless | Andre Fernandes | [Read More](https://medium.com/p/0f0b8735e83d) |
+| Tue, 06 May 2025 18:59:38 GMT | Email Analysis | Hritesh Tkr | [Read More](https://medium.com/p/65da4e4ef6ca) |
+| Tue, 06 May 2025 18:59:28 GMT | Too Much. | just Lyd | [Read More](https://medium.com/p/ec1ea5f52865) |
+| Tue, 06 May 2025 18:57:22 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/fcf3d49a9f87) |
+| Tue, 06 May 2025 18:51:55 GMT | Stop Obsessing Over Open Rates & Start Building Email Momentum | Alexandrankwopara | [Read More](https://medium.com/p/f6fc0dce966c) |
+| Tue, 06 May 2025 18:51:15 GMT | Apache Parquet Servers Vulnerable to Critical CVE-2025–30065 Flaw | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/486a6e038d93) |
+| Tue, 06 May 2025 18:49:28 GMT | Ethical Hacking vs. Cybersecurity: What’s the Real Difference and Why It Matters to You? | Codevirussec | [Read More](https://medium.com/p/7145752e7b4f) |
 | Tue, 06 May 2025 18:41:35 GMT | Understanding the Context of the Organization (Clause 4.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/e2e505cc98c2) |
 | Tue, 06 May 2025 18:40:05 GMT | El debate ético en el Hacking: ¿Dónde trazar la línea? | Tiziano Mass | [Read More](https://medium.com/p/0dc672637303) |
 | Tue, 06 May 2025 18:39:16 GMT | New Tools, New Errors: Deploying TheHive & Cortex on Kali Linux with Docker | Manish Rawat | [Read More](https://medium.com/p/6467385c318a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 14:17:23 GMT | World Coin Scan Retina Controversy: Earning Money is Dangerous! | Ambang | [Read More](https://medium.com/p/bf21668b91a9) |
 | Tue, 06 May 2025 14:16:41 GMT | Helm Charts Gone Wild: Microsoft Warns of Kubernetes Data Leaks ️ | Ismail Tasdelen | [Read More](https://medium.com/p/17ad2b3cb1f8) |
 | Tue, 06 May 2025 14:10:38 GMT | A Must-Have Tool for Bug Hunters: Find Open Redirect Vulnerabilities on Linux | Elie Attieh | [Read More](https://medium.com/p/21ad0c7d148e) |
-| Tue, 06 May 2025 14:10:16 GMT | Fort Knox or Cardboard Box? Securing Your Cisco Fortress | Ba_zsh | [Read More](https://medium.com/p/36a3c85404c2) |
-| Tue, 06 May 2025 14:00:37 GMT | Creating Safe and Secure Learning Environments: School Security Guards in Milton Keynes | Travel time | [Read More](https://medium.com/p/415ec69c8403) |
-| Tue, 06 May 2025 14:00:05 GMT | Exif Challenge EasyWriteup : ctflearn | Rindaman666 | [Read More](https://medium.com/p/f178aec39b18) |
-| Tue, 06 May 2025 13:56:59 GMT | Windows Sandbox: The Secret Cybersecurity Tool Already on Your PC | Vijay Kumar Gupta | [Read More](https://medium.com/p/43cf0a38d733) |
-| Tue, 06 May 2025 13:56:19 GMT | [Alerte Sécurité – Kali Linux] : Mise à jour système temporairement interrompue ! | ASSOUA ADJI | [Read More](https://medium.com/p/7c53b45f7e7c) |
-| Tue, 06 May 2025 13:50:43 GMT | Evrostics’ Strange Attractor as Thirdness | Mapping the Medium with Sarah C Tyrrell | [Read More](https://medium.com/p/4d17b9fd9610) |
-| Tue, 06 May 2025 13:49:29 GMT | Navigating PEH: An Introduction | Kazi Kaavi Nawaz | [Read More](https://medium.com/p/ffbe34536988) |
-| Tue, 06 May 2025 13:41:33 GMT | Implementing Sign in with Apple on the Backend with Spring Boot: A Complete Guide | Murat Karakurt | [Read More](https://medium.com/p/395b6f0da2df) |
-| Tue, 06 May 2025 13:40:17 GMT | Log4Shell (CVE-2021–44228): The Log Injection Flaw That Shook the Internet | Md Faiyaz Khan | [Read More](https://medium.com/p/c9b26b92afb6) |
-| Tue, 06 May 2025 13:35:02 GMT | AI-Driven RaaS: FunkSec and Algerian Hackers Take the Stage | Khadraoui Chouaib | [Read More](https://medium.com/p/6d11aad0735d) |
-| Tue, 06 May 2025 13:34:27 GMT | Strategic AI Alliances and the Geopolitics of Today’s Internet | Josh Taylor | [Read More](https://medium.com/p/ec8f124664db) |
-| Tue, 06 May 2025 13:32:30 GMT | Typosquatting and BEC Fraud — The potersignal.com Incident | Beau | [Read More](https://medium.com/p/5d6b5bb595a1) |
-| Tue, 06 May 2025 13:28:42 GMT | Card Sorting for Better Information Architecture | Jay Patel | [Read More](https://medium.com/p/564f076d80f8) |
-| Tue, 06 May 2025 13:22:28 GMT | ️ CVE-Based Exploit Development: Finding and Enhancing PoCs from GitHub | Esra Kayhan | [Read More](https://medium.com/p/7453e7e8d372) |
