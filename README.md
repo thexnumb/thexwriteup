@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 16:40:39 GMT | Bridging the Gap Between Network and Security Teams | Andre Fernandes | [Read More](https://medium.com/p/ceff1ba9b93a) |
+| Tue, 06 May 2025 16:34:31 GMT | TryHackMe - Evading Logging and Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/bd9dcaf9a20f) |
+| Tue, 06 May 2025 16:29:35 GMT | TryHackMe — Wgel CTF write-up | Firhansanad | [Read More](https://medium.com/p/6222b3e8287e) |
+| Tue, 06 May 2025 16:28:26 GMT | Things I Wish I Knew When I Started My Career in Tech | Jaya Vishwakarma | [Read More](https://medium.com/p/675841d67973) |
+| Tue, 06 May 2025 16:27:15 GMT | Incident Response Süreçlerine Sistematik Yaklaşım | Batuhan Pekdur | [Read More](https://medium.com/p/372078778799) |
+| Tue, 06 May 2025 16:25:35 GMT | Here’s How I Was Able To Recover My Money From Affirm? | Betty | [Read More](https://medium.com/p/145fdf9032b3) |
+| Tue, 06 May 2025 16:16:27 GMT | Security Isn’t Just Technical — It’s Emotional Now | Jay Simmons | [Read More](https://medium.com/p/3e96688e3033) |
 | Tue, 06 May 2025 16:15:51 GMT | PEN Testing vs. Vulnerability Scanning | Lightwavenet Andrewmills | [Read More](https://medium.com/p/d8925761af9c) |
 | Tue, 06 May 2025 16:14:11 GMT | Information Technology in Finance | Lightwavenet Andrewmills | [Read More](https://medium.com/p/03c761570d02) |
 | Tue, 06 May 2025 16:07:54 GMT | Binwalk Challenge Easy : CTFLearn | Rindaman666 | [Read More](https://medium.com/p/f1cdebaf5911) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 11:02:51 GMT | Europol shuts down Kidflix: A global crackdown on dark web child exploitation | hide.me VPN | [Read More](https://medium.com/p/275e982651a4) |
 | Tue, 06 May 2025 11:01:39 GMT | Shamir’s Secret Sharing Scheme | Ashwin Notes | [Read More](https://medium.com/p/0c170b2cab1f) |
 | Tue, 06 May 2025 10:59:22 GMT | FAQs: Working with Elevate for Your IT Needs | Elevate | [Read More](https://medium.com/p/76c6153848e5) |
-| Tue, 06 May 2025 10:54:24 GMT | I Found a Massive Cross-Tenant Access Control Bug by Testing Multiple Roles — Here’s What I Learned! | Whoami | [Read More](https://medium.com/p/ed9c7b7f8b92) |
-| Tue, 06 May 2025 10:54:00 GMT | Security Robots Germany | Presslink Media | [Read More](https://medium.com/p/5d12e781cc9e) |
-| Tue, 06 May 2025 10:48:11 GMT | When We Say ‘I’m Fine’ — But Mean ‘Please Stay’ | S. Thorn | [Read More](https://medium.com/p/65e5817d0774) |
-| Tue, 06 May 2025 10:26:47 GMT | Top Cyber Security Course in India — Upgrade Your Career in 2025 | Amaljoseph | [Read More](https://medium.com/p/a0b41b52c831) |
-| Tue, 06 May 2025 10:26:33 GMT | Closing Myrror — Part II: Technology (Mostly) Doesn’t Matter | Yoad Fekete | [Read More](https://medium.com/p/be1f6e94e8ac) |
-| Tue, 06 May 2025 10:13:57 GMT | Social Engineering: The Human Bug in the Cybersecurity System | Ankit Bose | [Read More](https://medium.com/p/03d4229a3337) |
-| Tue, 06 May 2025 10:11:57 GMT | IT OUTSOURCING | TabTree IT Consulting Company | [Read More](https://medium.com/p/13d6d2587d4b) |
