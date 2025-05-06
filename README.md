@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 07:38:51 GMT | Understanding Hackers and Ethical Hacking | AmoghaKS | [Read More](https://medium.com/p/c3e58ad08ecd) |
+| Tue, 06 May 2025 07:31:23 GMT | Data Anonymization on AWS for RDS or Aurora PostgreSQL: A Practical Approach Using pgcrypto | Shailesh Kumar Mishra | [Read More](https://medium.com/p/c243c89d9803) |
+| Tue, 06 May 2025 07:31:17 GMT | When Developers Hack Themselves: The Blue Team's New Nightmare | Siddhant Mishra | [Read More](https://medium.com/p/738c16d46a92) |
+| Tue, 06 May 2025 07:31:16 GMT | Women Rising in Mumbai Security Services | United Guard Force India | [Read More](https://medium.com/p/cd36dd5e4ed6) |
+| Tue, 06 May 2025 07:30:45 GMT | Event Security Services in Bangalore — Southwall Securities llp | Southwallsecuritiesservice | [Read More](https://medium.com/p/0fb0eed83ec6) |
+| Tue, 06 May 2025 07:30:28 GMT | Google Patches Sneaky Android Zero-Day in May 2025: CVE-2025–27363 Hits the Kill Switch | Ismail Tasdelen | [Read More](https://medium.com/p/02ee34b0641c) |
+| Tue, 06 May 2025 07:23:18 GMT | Why Are Offensive Security Services Critical for Cybersecurity in the UAE? | Ahad me | [Read More](https://medium.com/p/9b247a38f408) |
+| Tue, 06 May 2025 07:22:19 GMT | Utilize Your Rewards with Curvance $CVE | CVE | [Read More](https://medium.com/p/991fe113fc76) |
+| Tue, 06 May 2025 07:21:49 GMT | What Does a CISO Do and Why Is It Crucial for Australian Businesses? | cyber ethos | [Read More](https://medium.com/p/e4449297b295) |
+| Tue, 06 May 2025 07:18:19 GMT | Finally, A New World of Digital Trust | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/da4cedb422f0) |
+| Tue, 06 May 2025 07:16:56 GMT | $2000 Bounty: Stored XSS in GitLab | Monika sharma | [Read More](https://medium.com/p/c71b2d7a3c21) |
 | Tue, 06 May 2025 07:15:08 GMT | How Hackers Exploit CORS Misconfigurations | Vipul Sonule | [Read More](https://medium.com/p/35a6c5d7e0c8) |
 | Tue, 06 May 2025 07:06:17 GMT | How to Measure Product Security Program Success: Top 10 Metrics That Matter | Chandan Bhattacharya | [Read More](https://medium.com/p/d7bc74c35b74) |
 | Tue, 06 May 2025 07:02:39 GMT | Easy2Patch April 26, 2025 Catalog Update: 29 New Software Releases Now Available! | Easy2Patch | [Read More](https://medium.com/p/055c1b3dfb4a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 00:44:08 GMT | Open-Source Intelligence (OSINT) for Threat Enrichment: A Deep Dive with Maltego, Spiderfoot… | Paritosh | [Read More](https://medium.com/p/9241fadbf464) |
 | Tue, 06 May 2025 00:41:03 GMT | Secure Pod Traffic with K8s Network Policies (w/ kind Hands-on) | Vishwa S | [Read More](https://medium.com/p/68845d94b017) |
 | Tue, 06 May 2025 00:27:47 GMT | 19 Billion Stolen Passwords?! Here’s Why You Should Care — And How to Beat the Hackers | Varnith | [Read More](https://medium.com/p/d3bff46be82f) |
-| Tue, 06 May 2025 00:25:45 GMT | The Rise of Phishing-as-a-Service and What the LabHost Takedown Teaches Us About Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/ad7486258cbb) |
-| Tue, 06 May 2025 00:25:21 GMT | MacOS in the Crosshairs: How Crypto Malware is Expanding the Cyber Battlefield | Chetan Seripally | [Read More](https://medium.com/p/11cda8b5a360) |
-| Tue, 06 May 2025 00:24:26 GMT | Online Privacy Settings Tips Managing your online privacy settings is crucial for protecting your… | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/48d597682995) |
-| Tue, 06 May 2025 00:02:27 GMT | Hack The Box — Machine — Lame Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/0225d6f72376) |
-| Tue, 06 May 2025 00:02:01 GMT | The Great Data Heist: Your Digital Life Under Siege in 2025 | kiran dhathri boddepalli | [Read More](https://medium.com/p/3bd63953ed4c) |
-| Mon, 05 May 2025 23:57:22 GMT | Comprehensive Guide to VeraCrypt: A Robust Encryption Tool | ByteSectorX | [Read More](https://medium.com/p/c726c1bc2597) |
-| Mon, 05 May 2025 23:25:01 GMT | Digital White Blood Cells: Building an Immune System for the Internet | Aaron Rose | [Read More](https://medium.com/p/008d1f0e930f) |
-| Mon, 05 May 2025 23:07:04 GMT | Human vs AI: What’s Better for CCTV Surveillance? | Visual Monitoring Solutions | [Read More](https://medium.com/p/8569fb25603e) |
-| Mon, 05 May 2025 23:06:26 GMT | $500 Bounty for Reflected XSS on HackerOne | Monika sharma | [Read More](https://medium.com/p/29c13793bc91) |
-| Mon, 05 May 2025 23:04:51 GMT | Hacker’s Recon Guide: Tools & Tricks to Map Any Target | Vipul Sonule | [Read More](https://medium.com/p/f1e97d7bfdb6) |
-| Mon, 05 May 2025 23:03:54 GMT | Secrets HACKERS Don’t Want You to Know About OSINT! | Dhanush N | [Read More](https://medium.com/p/0db5a3e66943) |
