@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 22:40:58 GMT | Force, Space, and Time: The Keys to Cyber Dominance | Zero Day Thirty | [Read More](https://medium.com/p/a4765a91ff43) |
+| Tue, 06 May 2025 22:26:20 GMT | I Watched Nation-State DDoS Attack Unfold Live. Here’s What I Learned | legacy0x1 | [Read More](https://medium.com/p/93cd373e41c2) |
+| Tue, 06 May 2025 22:26:02 GMT | Pocket Delivery — Campanha Orgulho da Zona Leste | Vinícius Santos | [Read More](https://medium.com/p/dbc4b546c9ca) |
 | Tue, 06 May 2025 22:16:37 GMT | How to Build a Strong Cybersecurity Program with a CISO | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d79fe99f10e) |
 | Tue, 06 May 2025 22:10:43 GMT | “The $10 DIY Phishing Kit That Broke into My Inbox” | An0n | [Read More](https://medium.com/p/55cdf8412474) |
 | Tue, 06 May 2025 21:58:56 GMT | SCAM ALERT: Someone Sent Me My Own OTP?!  WTF?! | Sumanth Yerranagula | [Read More](https://medium.com/p/3badc68161d3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 16:56:15 GMT | Not Everything Needs to Break You | Harshita Shukla | [Read More](https://medium.com/p/38f419fdc3c8) |
 | Tue, 06 May 2025 16:52:21 GMT | TryHackMe — Offensive Security Intro | ternera | [Read More](https://medium.com/p/d7d3b4c20dca) |
 | Tue, 06 May 2025 16:40:39 GMT | Bridging the Gap Between Network and Security Teams | Andre Fernandes | [Read More](https://medium.com/p/ceff1ba9b93a) |
-| Tue, 06 May 2025 16:40:27 GMT | Fear the Follow-Up? When the Spotlight Fades, Are the Right Questions Still Being Asked? | Scott Hill | [Read More](https://medium.com/p/46bde9607e4b) |
-| Tue, 06 May 2025 16:34:31 GMT | TryHackMe - Evading Logging and Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/bd9dcaf9a20f) |
-| Tue, 06 May 2025 16:29:35 GMT | TryHackMe — Wgel CTF write-up | Firhansanad | [Read More](https://medium.com/p/6222b3e8287e) |
