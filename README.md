@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 08:46:24 GMT | Remote Desktop Puzzle: The Overlooked RDP Vulnerability That Could Expose Your Entire Network | Infoziant | [Read More](https://medium.com/p/bd04cd0756ef) |
+| Tue, 06 May 2025 08:42:16 GMT | Smart cars are transforming the way we drive, offering a realm of convenience and advanced… | Techzonego | [Read More](https://medium.com/p/476cba03736a) |
+| Tue, 06 May 2025 08:40:13 GMT | Network Security Testing Market Forecast: Emerging Trends and Growth Drivers Through 2031 | Harsh Mehta | [Read More](https://medium.com/p/3dcf141cbd60) |
+| Tue, 06 May 2025 08:39:51 GMT | Securing Cookies and Session Management in Node.js and Express | Lavanya Preethi Manoharan | [Read More](https://medium.com/p/3ae4a4b53521) |
+| Tue, 06 May 2025 08:38:54 GMT | Lab 3 — Practical Malware Analysis | Sapir Twig | [Read More](https://medium.com/p/322eb2c6de45) |
+| Tue, 06 May 2025 08:38:04 GMT | BTLO Investigation — MiddleMayhem Walkthrough | Aninda Banerjee | [Read More](https://medium.com/p/aef22f0a4919) |
+| Tue, 06 May 2025 08:37:33 GMT | Why Hizo Prioritizes Cybersecurity | Hizo | [Read More](https://medium.com/p/0300de4ee4b5) |
+| Tue, 06 May 2025 08:36:53 GMT | The Quiet Collapse of the Strong One | Último cuarto | [Read More](https://medium.com/p/a821dbe3b1dc) |
+| Tue, 06 May 2025 08:35:46 GMT | Undeleted Secrets: Uncovering an IDOR Vulnerability in “Recently Deleted” Items | Wahid Najim | [Read More](https://medium.com/p/6d35db221008) |
+| Tue, 06 May 2025 08:33:24 GMT | Google redesigns android and improves it security system | Lenou Joy | [Read More](https://medium.com/p/393e611e2c50) |
+| Tue, 06 May 2025 08:24:53 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges (Part 3) | CH3TAN | [Read More](https://medium.com/p/b70a62ed4395) |
+| Tue, 06 May 2025 08:24:51 GMT | AI for a Secure, Scalable, and Smarter Future | Shri sai nithin chowdary Dukkipati | [Read More](https://medium.com/p/791047b643ab) |
 | Tue, 06 May 2025 08:14:12 GMT | Query Confusion: How HTTP Parameter Pollution Made the App Spill Secrets | Iski | [Read More](https://medium.com/p/55b09a1bc98b) |
 | Tue, 06 May 2025 08:11:16 GMT | Anonymous File Sharing: Send Files Fast with Magic-Wormhole | REDx Cybersec | [Read More](https://medium.com/p/23a83752ed51) |
 | Tue, 06 May 2025 08:09:58 GMT | Prevent File Inclusion Vulnerability in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/07391072469a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 02:36:22 GMT | Application Security in 2025: A CISO’s Strategic Playbook | Cyber-AppSec | [Read More](https://medium.com/p/f11d4bd8ae82) |
 | Tue, 06 May 2025 02:23:29 GMT | From the School District Files: New Threats, but This Time It Wasn’t the Students | Andre Fernandes | [Read More](https://medium.com/p/f1cc2a8f77b0) |
 | Tue, 06 May 2025 02:21:12 GMT | Building a Virtualized Lab with pfSense, Active Directory, and Network Security | Endoisshy | [Read More](https://medium.com/p/b1325bbcb8d1) |
-| Tue, 06 May 2025 02:21:04 GMT | Serpentine - Writeup | Marvin | [Read More](https://medium.com/p/9433ad5dd6cc) |
-| Tue, 06 May 2025 02:20:56 GMT | 5 Windows Defender Features You’re Probably Not Using (But Should Be) | Faruk Ahmed | [Read More](https://medium.com/p/ca02740fc76d) |
-| Tue, 06 May 2025 02:15:05 GMT | Unlocking Masculinity: Embracing Vulnerability for Deeper Connection | Eldas | [Read More](https://medium.com/p/6d6047eed11d) |
-| Tue, 06 May 2025 02:08:27 GMT | Security Experts Warn of RDP Access with Outdated Passwords | current.cybersecurity | [Read More](https://medium.com/p/dfd3a8596b13) |
-| Tue, 06 May 2025 02:05:36 GMT | So what is OpenID Connect (OIDC)? | Kunal Sinha | [Read More](https://medium.com/p/5a92c25792bb) |
-| Tue, 06 May 2025 02:01:33 GMT | Evil Twin Wi-Fi Attacks: How to Spot, Prevent, and Protect Your Data | Kavish saraiya | [Read More](https://medium.com/p/04ecffe2a09c) |
-| Tue, 06 May 2025 01:40:50 GMT | Hack The Box Academy — Network Foundations — Wireless Networks | bl77rd | [Read More](https://medium.com/p/82a1003a3081) |
-| Tue, 06 May 2025 01:40:26 GMT | Cybersecurity for Small Businesses in 2025: Essential Tools and Strategies | Pawan Jaiswal | [Read More](https://medium.com/p/20a4ac5dd3f9) |
-| Tue, 06 May 2025 01:39:23 GMT | Protect Your APIs with Rate Limiting using Bucket4j | Ankit Kumar | [Read More](https://medium.com/p/b50590381d79) |
-| Tue, 06 May 2025 01:04:42 GMT | Safety Concerns in Autonomous Vehicles | Imali | [Read More](https://medium.com/p/0e15c3032069) |
-| Tue, 06 May 2025 01:02:50 GMT | NTFS Forensics Challenge LetsDefend | Dh | [Read More](https://medium.com/p/05ff5044e217) |
-| Tue, 06 May 2025 01:02:47 GMT | Hack The Box Academy — Network Foundations — Internet Architecture | bl77rd | [Read More](https://medium.com/p/768450d21f3f) |
