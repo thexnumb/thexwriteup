@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 08:14:12 GMT | Query Confusion: How HTTP Parameter Pollution Made the App Spill Secrets | Iski | [Read More](https://medium.com/p/55b09a1bc98b) |
+| Tue, 06 May 2025 08:11:16 GMT | Anonymous File Sharing: Send Files Fast with Magic-Wormhole | REDx Cybersec | [Read More](https://medium.com/p/23a83752ed51) |
+| Tue, 06 May 2025 08:09:58 GMT | Prevent File Inclusion Vulnerability in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/07391072469a) |
+| Tue, 06 May 2025 08:03:25 GMT | The Hidden Threat of Generative AI Spear Phishing: Why You Need to Act Now | Vikrant Dheer | [Read More](https://medium.com/p/e10122fccbc5) |
+| Tue, 06 May 2025 07:49:50 GMT | Who is 5hezy? | SHAH ZAIB | [Read More](https://medium.com/p/ae3ff517dc35) |
+| Tue, 06 May 2025 07:44:26 GMT | Shadows in the Name Tag | Tales of Nyx | [Read More](https://medium.com/p/356660e16419) |
+| Tue, 06 May 2025 07:41:18 GMT | DLL injection fundamental — Part2 | Kijo Ninja | [Read More](https://medium.com/p/afd42a0c332a) |
 | Tue, 06 May 2025 07:38:51 GMT | Understanding Hackers and Ethical Hacking | AmoghaKS | [Read More](https://medium.com/p/c3e58ad08ecd) |
 | Tue, 06 May 2025 07:31:23 GMT | Data Anonymization on AWS for RDS or Aurora PostgreSQL: A Practical Approach Using pgcrypto | Shailesh Kumar Mishra | [Read More](https://medium.com/p/c243c89d9803) |
 | Tue, 06 May 2025 07:31:17 GMT | When Developers Hack Themselves: The Blue Team's New Nightmare | Siddhant Mishra | [Read More](https://medium.com/p/738c16d46a92) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 01:04:42 GMT | Safety Concerns in Autonomous Vehicles | Imali | [Read More](https://medium.com/p/0e15c3032069) |
 | Tue, 06 May 2025 01:02:50 GMT | NTFS Forensics Challenge LetsDefend | Dh | [Read More](https://medium.com/p/05ff5044e217) |
 | Tue, 06 May 2025 01:02:47 GMT | Hack The Box Academy — Network Foundations — Internet Architecture | bl77rd | [Read More](https://medium.com/p/768450d21f3f) |
-| Tue, 06 May 2025 01:00:04 GMT | How Uber Was Compromised in 2022: A Technical Analysis of Authentication and Session Control… | Paula Yara | [Read More](https://medium.com/p/fe359502e8b8) |
-| Tue, 06 May 2025 00:54:58 GMT | Tech Security Lessons from the Latest Signal Clone Scandal | Robert Baer | [Read More](https://medium.com/p/e1ecaea8c39c) |
-| Tue, 06 May 2025 00:47:10 GMT | The Weight of Being There | Charlote Barbosa Paet | [Read More](https://medium.com/p/7ee455ff7a3e) |
-| Tue, 06 May 2025 00:46:34 GMT | Fictional Hack Series: Exploiting an Outdated WordPress Plugin | www.Rarefied.co | [Read More](https://medium.com/p/a5ee1f3e83f8) |
-| Tue, 06 May 2025 00:44:08 GMT | Open-Source Intelligence (OSINT) for Threat Enrichment: A Deep Dive with Maltego, Spiderfoot… | Paritosh | [Read More](https://medium.com/p/9241fadbf464) |
-| Tue, 06 May 2025 00:41:03 GMT | Secure Pod Traffic with K8s Network Policies (w/ kind Hands-on) | Vishwa S | [Read More](https://medium.com/p/68845d94b017) |
-| Tue, 06 May 2025 00:27:47 GMT | 19 Billion Stolen Passwords?! Here’s Why You Should Care — And How to Beat the Hackers | Varnith | [Read More](https://medium.com/p/d3bff46be82f) |
