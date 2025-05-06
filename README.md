@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 16:15:51 GMT | PEN Testing vs. Vulnerability Scanning | Lightwavenet Andrewmills | [Read More](https://medium.com/p/d8925761af9c) |
+| Tue, 06 May 2025 16:14:11 GMT | Information Technology in Finance | Lightwavenet Andrewmills | [Read More](https://medium.com/p/03c761570d02) |
+| Tue, 06 May 2025 16:07:54 GMT | Binwalk Challenge Easy : CTFLearn | Rindaman666 | [Read More](https://medium.com/p/f1cdebaf5911) |
+| Tue, 06 May 2025 16:02:29 GMT | Abusing Windows COM Objects with Python: Fileless Execution via Excel.Application and Beyond | Maxwell Cross | [Read More](https://medium.com/p/bb635f32ee68) |
+| Tue, 06 May 2025 15:56:00 GMT | Canada Needs Its Own Cyber Shield — I’m Launching the Petition and the Tool to Make It Happen | Abdulmajid Abdi | [Read More](https://medium.com/p/ca0f0d9ae1fe) |
+| Tue, 06 May 2025 15:51:04 GMT | Mastering the Fundamentals of Information Technology Skills: A Roadmap for Every Professional | Mazhar Imran | [Read More](https://medium.com/p/3d9c349a3771) |
+| Tue, 06 May 2025 15:50:56 GMT | The Impact Of VPNs On Online Privacy Protection | James Neal | [Read More](https://medium.com/p/08fc087cfa32) |
+| Tue, 06 May 2025 15:50:48 GMT | Advanced VPN Technologies For Safe Internet Use | Melvin Erickson | [Read More](https://medium.com/p/d9aae46e4bda) |
+| Tue, 06 May 2025 15:49:37 GMT | A Beginner’s Guide to Securing Your Home Wi-Fi Network | M.D.Sandhiya | [Read More](https://medium.com/p/173777fc44a0) |
+| Tue, 06 May 2025 15:49:13 GMT | Turning a Zero Visibility Access Control to Zero Trust | Joshi | [Read More](https://medium.com/p/a16e9fcd8aa9) |
 | Tue, 06 May 2025 15:38:04 GMT | IDOR Allows Unauthorized Access to Other Users’ Personal Data | brbr0s | [Read More](https://medium.com/p/8f73486cbab0) |
 | Tue, 06 May 2025 15:37:32 GMT | POPIA: What South Africans Need to Know About Their Digital Privacy Rights. | Prince Moche | [Read More](https://medium.com/p/c8dbe46c0068) |
 | Tue, 06 May 2025 15:32:53 GMT | When Empathy Becomes a Burden | Crane Vision | [Read More](https://medium.com/p/6828861c2d3c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 10:26:33 GMT | Closing Myrror — Part II: Technology (Mostly) Doesn’t Matter | Yoad Fekete | [Read More](https://medium.com/p/be1f6e94e8ac) |
 | Tue, 06 May 2025 10:13:57 GMT | Social Engineering: The Human Bug in the Cybersecurity System | Ankit Bose | [Read More](https://medium.com/p/03d4229a3337) |
 | Tue, 06 May 2025 10:11:57 GMT | IT OUTSOURCING | TabTree IT Consulting Company | [Read More](https://medium.com/p/13d6d2587d4b) |
-| Tue, 06 May 2025 10:07:59 GMT | Quantum Computing in Banking: New Fraud Detection Capabilities Explained | Joseph V Thomas | [Read More](https://medium.com/p/2e5ce55aff82) |
-| Tue, 06 May 2025 10:03:30 GMT | From Zero to Backdoor Hero: Mastering Firmware Emulation, Patching, and Covert Control | Horrow | [Read More](https://medium.com/p/cd672e20d86a) |
-| Tue, 06 May 2025 10:01:34 GMT | Security Is a UX Problem | Solo Recon | [Read More](https://medium.com/p/2a9a244b9de4) |
-| Tue, 06 May 2025 09:59:38 GMT | SOC Case Study - Phishing Analysis - SOC282 | Motasem Hamdan | [Read More](https://medium.com/p/db5a330a5114) |
-| Tue, 06 May 2025 09:57:00 GMT | Understanding IoT and OT in Cybersecurity: The New Frontlines of Digital Defense | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/8fb8b3db14a0) |
-| Tue, 06 May 2025 09:55:56 GMT | Why End-to-End Encryption Matters in Video Conferencing (and How to Get It Right) | Digital Samba | [Read More](https://medium.com/p/5c49b3929934) |
-| Tue, 06 May 2025 09:54:46 GMT | Critical Langflow Vulnerability Added to CISA KEV List: AI-Powered Workflows Under Threat | CyBlog | [Read More](https://medium.com/p/def5379340aa) |
-| Tue, 06 May 2025 09:36:19 GMT | How to Implement Cybersecurity Monitoring to Keep Hackers Out | SecureSlate | [Read More](https://medium.com/p/23bf27cad265) |
-| Tue, 06 May 2025 09:35:42 GMT | Cyber Security Summer Internship for Freshers [2025] | Ankit_Cyber | [Read More](https://medium.com/p/fff5154a7473) |
-| Tue, 06 May 2025 09:29:37 GMT | Exploring Course Content in a Cyber Security Program in Delhi | GICSEH | [Read More](https://medium.com/p/1f17f87702ed) |
