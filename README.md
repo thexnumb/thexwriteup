@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 21:34:11 GMT | TryHackMe — Hammer Write-up | João Laimer | [Read More](https://medium.com/p/ab347efce261) |
+| Tue, 06 May 2025 21:30:59 GMT | List of TryHackMe Free Rooms ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/ba857cc8f707) |
+| Tue, 06 May 2025 21:22:28 GMT | Cracking the Airwaves: Security Vulnerabilities in Modern 5G Telecom Networks | Piyush | [Read More](https://medium.com/p/cacd63498f82) |
+| Tue, 06 May 2025 21:22:21 GMT | Threat actor Profiling — Pakistan cyber threat actors targeting India | DarkKnight | [Read More](https://medium.com/p/3aee5ab55e8e) |
+| Tue, 06 May 2025 21:18:16 GMT | How AWS WAF Saved the Day: The Power of Web Application Firewall | Jotham Arinze | [Read More](https://medium.com/p/84b82d56eed5) |
+| Tue, 06 May 2025 21:17:28 GMT | Critical Android Malware Alert - BTMOB RAT Steals Banking Data via Accessibility Services | Avnishyam | [Read More](https://medium.com/p/bd9140fd807a) |
 | Tue, 06 May 2025 21:11:11 GMT | Thirsty for love | Vanja Majin Ortiz Martinez | [Read More](https://medium.com/p/d48d5fae4eaa) |
 | Tue, 06 May 2025 21:11:10 GMT | ️ Fuzzing for Hackers: Write Your Own Fuzzer in Python & Get Started with AFL | Piyush | [Read More](https://medium.com/p/d375baf243d2) |
 | Tue, 06 May 2025 21:10:08 GMT | Zip Threats: What You Need to Know to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/5a6c201ea155) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 16:07:54 GMT | Binwalk Challenge Easy : CTFLearn | Rindaman666 | [Read More](https://medium.com/p/f1cdebaf5911) |
 | Tue, 06 May 2025 16:02:29 GMT | Abusing Windows COM Objects with Python: Fileless Execution via Excel.Application and Beyond | Maxwell Cross | [Read More](https://medium.com/p/bb635f32ee68) |
 | Tue, 06 May 2025 15:56:00 GMT | Canada Needs Its Own Cyber Shield — I’m Launching the Petition and the Tool to Make It Happen | Abdulmajid Abdi | [Read More](https://medium.com/p/ca0f0d9ae1fe) |
-| Tue, 06 May 2025 15:51:04 GMT | Mastering the Fundamentals of Information Technology Skills: A Roadmap for Every Professional | Mazhar Imran | [Read More](https://medium.com/p/3d9c349a3771) |
-| Tue, 06 May 2025 15:50:56 GMT | The Impact Of VPNs On Online Privacy Protection | James Neal | [Read More](https://medium.com/p/08fc087cfa32) |
-| Tue, 06 May 2025 15:50:48 GMT | Advanced VPN Technologies For Safe Internet Use | Melvin Erickson | [Read More](https://medium.com/p/d9aae46e4bda) |
-| Tue, 06 May 2025 15:49:37 GMT | A Beginner’s Guide to Securing Your Home Wi-Fi Network | M.D.Sandhiya | [Read More](https://medium.com/p/173777fc44a0) |
-| Tue, 06 May 2025 15:49:13 GMT | Turning a Zero Visibility Access Control to Zero Trust | Joshi | [Read More](https://medium.com/p/a16e9fcd8aa9) |
-| Tue, 06 May 2025 15:38:04 GMT | IDOR Allows Unauthorized Access to Other Users’ Personal Data | brbr0s | [Read More](https://medium.com/p/8f73486cbab0) |
