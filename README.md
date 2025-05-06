@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 18:41:35 GMT | Understanding the Context of the Organization (Clause 4.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/e2e505cc98c2) |
+| Tue, 06 May 2025 18:40:05 GMT | El debate ético en el Hacking: ¿Dónde trazar la línea? | Tiziano Mass | [Read More](https://medium.com/p/0dc672637303) |
+| Tue, 06 May 2025 18:39:16 GMT | New Tools, New Errors: Deploying TheHive & Cortex on Kali Linux with Docker | Manish Rawat | [Read More](https://medium.com/p/6467385c318a) |
+| Tue, 06 May 2025 18:37:14 GMT | gssiosch | ناهید مرادی | [Read More](https://medium.com/p/ded20e5d1bd0) |
+| Tue, 06 May 2025 18:35:06 GMT | What is a Virtual SOC and Why Does Your Business Need One? | SafeAeon Inc. | [Read More](https://medium.com/p/f324d75a3fa6) |
+| Tue, 06 May 2025 18:32:20 GMT | ️‍♂️ I Reported a Security Flaw, They Silently Patched It… and Ghosted Me. | Rolextital | [Read More](https://medium.com/p/03f0a02a696b) |
+| Tue, 06 May 2025 18:30:15 GMT | Embers of Hope | Anjaliamge | [Read More](https://medium.com/p/50eee34d3d83) |
 | Tue, 06 May 2025 18:27:40 GMT | Explore the Level 5 HND in Computing — Cybersecurity: Your Path to a Safer Digital Future | Ancy Thomas | [Read More](https://medium.com/p/9a1098d3786e) |
 | Tue, 06 May 2025 18:25:31 GMT | The Dark Web’s Worst Nightmares (In Book Form) | Ahmad Javed | [Read More](https://medium.com/p/aa24c27edb17) |
 | Tue, 06 May 2025 18:21:28 GMT | Why Cybersecurity Awareness Training Matters for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/241e6209f8c2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 13:32:30 GMT | Typosquatting and BEC Fraud — The potersignal.com Incident | Beau | [Read More](https://medium.com/p/5d6b5bb595a1) |
 | Tue, 06 May 2025 13:28:42 GMT | Card Sorting for Better Information Architecture | Jay Patel | [Read More](https://medium.com/p/564f076d80f8) |
 | Tue, 06 May 2025 13:22:28 GMT | ️ CVE-Based Exploit Development: Finding and Enhancing PoCs from GitHub | Esra Kayhan | [Read More](https://medium.com/p/7453e7e8d372) |
-| Tue, 06 May 2025 13:20:55 GMT | High-Demand Skills for 2025: AI, Cybersecurity, and Beyond | Muhammad Zain ul Abideen | [Read More](https://medium.com/p/087f20276f50) |
-| Tue, 06 May 2025 13:10:31 GMT | Think your SOC’s bulletproof? Meet TheWizards | Wes Young | [Read More](https://medium.com/p/15f49b09ba4e) |
-| Tue, 06 May 2025 13:06:35 GMT | ️ Active Directory Certificate Services (ADCS) Exploitation Techniques: In-Depth Offensive and… | Esra Kayhan | [Read More](https://medium.com/p/fa6714b13770) |
-| Tue, 06 May 2025 13:06:11 GMT | Web App Security 101 Best Practices Every Dev Should Know | Mehak kamra | [Read More](https://medium.com/p/17e845f4f285) |
-| Tue, 06 May 2025 13:02:44 GMT | Browser Isolation: Your Invisible Shield Against Cyber Threats | Cybersecurity Umbrella | [Read More](https://medium.com/p/d19714abbd4b) |
-| Tue, 06 May 2025 13:02:30 GMT | Best Practices for Ethical Hacking | 4achievers | [Read More](https://medium.com/p/7040f86dbb81) |
-| Tue, 06 May 2025 13:02:11 GMT | OpenID Connect (OIDC) Nedir ve Neden Gerekli? | Furkan Özmen | [Read More](https://medium.com/p/d9de9aaec1f6) |
