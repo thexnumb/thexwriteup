@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 01:40:50 GMT | Hack The Box Academy — Network Foundations — Wireless Networks | bl77rd | [Read More](https://medium.com/p/82a1003a3081) |
+| Tue, 06 May 2025 01:40:26 GMT | Cybersecurity for Small Businesses in 2025: Essential Tools and Strategies | Pawan Jaiswal | [Read More](https://medium.com/p/20a4ac5dd3f9) |
+| Tue, 06 May 2025 01:04:42 GMT | Safety Concerns in Autonomous Vehicles | Imali | [Read More](https://medium.com/p/0e15c3032069) |
+| Tue, 06 May 2025 01:02:50 GMT | NTFS Forensics Challenge LetsDefend | Dh | [Read More](https://medium.com/p/05ff5044e217) |
+| Tue, 06 May 2025 01:02:47 GMT | Hack The Box Academy — Network Foundations — Internet Architecture | bl77rd | [Read More](https://medium.com/p/768450d21f3f) |
+| Tue, 06 May 2025 01:00:04 GMT | How Uber Was Compromised in 2022: A Technical Analysis of Authentication and Session Control… | Paula Yara | [Read More](https://medium.com/p/fe359502e8b8) |
+| Tue, 06 May 2025 00:54:58 GMT | Tech Security Lessons from the Latest Signal Clone Scandal | Robert Baer | [Read More](https://medium.com/p/e1ecaea8c39c) |
+| Tue, 06 May 2025 00:47:10 GMT | The Weight of Being There | Charlote Barbosa Paet | [Read More](https://medium.com/p/7ee455ff7a3e) |
+| Tue, 06 May 2025 00:46:34 GMT | Fictional Hack Series: Exploiting an Outdated WordPress Plugin | www.Rarefied.co | [Read More](https://medium.com/p/a5ee1f3e83f8) |
+| Tue, 06 May 2025 00:44:08 GMT | Open-Source Intelligence (OSINT) for Threat Enrichment: A Deep Dive with Maltego, Spiderfoot… | Paritosh | [Read More](https://medium.com/p/9241fadbf464) |
+| Tue, 06 May 2025 00:41:03 GMT | Secure Pod Traffic with K8s Network Policies (w/ kind Hands-on) | Vishwa S | [Read More](https://medium.com/p/68845d94b017) |
+| Tue, 06 May 2025 00:27:47 GMT | 19 Billion Stolen Passwords?! Here’s Why You Should Care — And How to Beat the Hackers | Varnith | [Read More](https://medium.com/p/d3bff46be82f) |
+| Tue, 06 May 2025 00:25:45 GMT | The Rise of Phishing-as-a-Service and What the LabHost Takedown Teaches Us About Cybersecurity | Chetan Seripally | [Read More](https://medium.com/p/ad7486258cbb) |
+| Tue, 06 May 2025 00:25:21 GMT | MacOS in the Crosshairs: How Crypto Malware is Expanding the Cyber Battlefield | Chetan Seripally | [Read More](https://medium.com/p/11cda8b5a360) |
+| Tue, 06 May 2025 00:24:26 GMT | Online Privacy Settings Tips Managing your online privacy settings is crucial for protecting your… | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/48d597682995) |
+| Tue, 06 May 2025 00:02:27 GMT | Hack The Box — Machine — Lame Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/0225d6f72376) |
+| Tue, 06 May 2025 00:02:01 GMT | The Great Data Heist: Your Digital Life Under Siege in 2025 | kiran dhathri boddepalli | [Read More](https://medium.com/p/3bd63953ed4c) |
+| Mon, 05 May 2025 23:57:22 GMT | Comprehensive Guide to VeraCrypt: A Robust Encryption Tool | ByteSectorX | [Read More](https://medium.com/p/c726c1bc2597) |
 | Mon, 05 May 2025 23:25:01 GMT | Digital White Blood Cells: Building an Immune System for the Internet | Aaron Rose | [Read More](https://medium.com/p/008d1f0e930f) |
 | Mon, 05 May 2025 23:07:04 GMT | Human vs AI: What’s Better for CCTV Surveillance? | Visual Monitoring Solutions | [Read More](https://medium.com/p/8569fb25603e) |
 | Mon, 05 May 2025 23:06:26 GMT | $500 Bounty for Reflected XSS on HackerOne | Monika sharma | [Read More](https://medium.com/p/29c13793bc91) |
@@ -42,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 20:58:25 GMT | Ağ Katmanlarını Anlamak ve Siber Dünyanın Tehlikeleriyle Yüzleşmek | Hiranur Gemalmaz | [Read More](https://medium.com/p/d3a7964ce880) |
 | Mon, 05 May 2025 20:57:28 GMT | Time-Based C2 DNS Server | S12 - H4CK | [Read More](https://medium.com/p/9338545e5575) |
 | Mon, 05 May 2025 20:50:13 GMT | Part 3: Identity Federation in Multi-Cloud — Exploits, Use Cases, and How to Fix It | Karlmarx Karunanithi | [Read More](https://medium.com/p/9903bb7173ce) |
+| Mon, 05 May 2025 20:49:12 GMT | The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/b64fd3d158dd) |
 | Mon, 05 May 2025 20:36:11 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025— Part 1 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/3278b440c08b) |
 | Mon, 05 May 2025 20:26:18 GMT | Türkiye’nin 2025 Siber Güvenlik Hamlesi: Yeni Kanun Neler Getiriyor? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/5d11b3f6e01f) |
 | Mon, 05 May 2025 20:25:12 GMT | How to Spot and Avoid Malicious Apps: Protecting Your Digital Security | Pradeep Jaiswal | [Read More](https://medium.com/p/05a168f763ba) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 17:51:21 GMT | une XSS simple sur la page de login CVE-2024–48410 | Itachix0f | [Read More](https://medium.com/p/65435f4a0f84) |
 | Mon, 05 May 2025 17:49:04 GMT | Designing Solo Recon: Building a Calm, Trustworthy Brand for a Security Tool | Solo Recon | [Read More](https://medium.com/p/0de5a301a206) |
 | Mon, 05 May 2025 17:44:14 GMT | Zero-Trust Data Architecture: Moving Beyond Perimeter Security in the AI Era | Sajeer Babu | [Read More](https://medium.com/p/e2a95239de13) |
-| Mon, 05 May 2025 17:39:45 GMT | Building in the Open: Why We’re Sharing the Process, Not Just the Product | Solo Recon | [Read More](https://medium.com/p/57edb4fcb5cb) |
-| Mon, 05 May 2025 17:36:27 GMT | Debugging History: How a Moth Became the First Computer Bug | Nivetha Thangaraj | [Read More](https://medium.com/p/6bf02259058a) |
-| Mon, 05 May 2025 17:32:25 GMT | Top 10 Myths About Cybersecurity Careers — Debunked | Laurianne Apollon | [Read More](https://medium.com/p/d5cac8b942d2) |
-| Mon, 05 May 2025 17:30:40 GMT | Day 25: Integrating osTicket with ELK Stack | Mikey O. | [Read More](https://medium.com/p/b85c1b64bcf0) |
-| Mon, 05 May 2025 17:29:59 GMT | Subdomain Takeover: My $450 Win & How You Can Do It Too | Ehtesham Ul Haq | [Read More](https://medium.com/p/3337ca0513b6) |
-| Mon, 05 May 2025 17:29:38 GMT | Password Apocalyps - 19 Billion Exposed Credentials and What Comes Next | Avnishyam | [Read More](https://medium.com/p/92e1d58d3ccd) |
-| Mon, 05 May 2025 17:29:18 GMT | CyberDefenders — WebStrike Lab (Blue Team Challenges) | David Lipscomb Jr. | [Read More](https://medium.com/p/d14efc7ef532) |
-| Mon, 05 May 2025 17:29:13 GMT | “My Journey through OverTheWire Bandit: From Level 1 to 10” | Kalidasan | [Read More](https://medium.com/p/30b566ab55a9) |
-| Mon, 05 May 2025 17:18:05 GMT | From Logs to Breaches: Blind Spots in Security Monitoring | Chukwuebuka Okoli | [Read More](https://medium.com/p/5631dcccc3d2) |
-| Mon, 05 May 2025 17:17:34 GMT | A little about me: | RedHatReed | [Read More](https://medium.com/p/f040a2244ba4) |
-| Mon, 05 May 2025 17:09:26 GMT | Why Businesses are Choosing Rainbow Secure for Phishing-Resistant Security? | Dr. Shashi Karhail | [Read More](https://medium.com/p/f681973bbc10) |
-| Mon, 05 May 2025 17:06:38 GMT | Uploading and Serving Static Files in Spring Boot | Alexander Obregon | [Read More](https://medium.com/p/aa8cdc6e6984) |
-| Mon, 05 May 2025 16:55:41 GMT | How to Hunt XML External Entity Vulnerability — like a pro✨ | Kidnapshadow | [Read More](https://medium.com/p/4d5f24ceade7) |
-| Mon, 05 May 2025 16:49:20 GMT | Why Vulnerability Assessment Services Are Essential for Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/4c4a45558fc9) |
-| Mon, 05 May 2025 16:45:40 GMT | From Curiosity to Compromise: What a School Network Taught Us About Visibility | Andre Fernandes | [Read More](https://medium.com/p/bcf62cafe3f1) |
-| Mon, 05 May 2025 16:41:07 GMT | ColddBox (tryhackme) | Amalpp | [Read More](https://medium.com/p/733c17a93206) |
-| Mon, 05 May 2025 16:37:32 GMT | Enhancing Modern Enterprises with Comprehensive IT and Security Solutions | Defend My Business | [Read More](https://medium.com/p/04c683755070) |
-| Mon, 05 May 2025 16:34:34 GMT | Analysis Using NMAP for Network Scan on a Local IP Address. | Oteniara Temitope | [Read More](https://medium.com/p/9e24496bcb72) |
-| Mon, 05 May 2025 16:34:04 GMT | Data Sovereignty vs Digital Sovereignty: Key Considerations for Businesses | Yves Delvaux | [Read More](https://medium.com/p/1bbd3df06401) |
