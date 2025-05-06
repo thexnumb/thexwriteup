@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 06:18:05 GMT | Silent Killers: How Dark Web Operators Penetrate Businesses & How to Fortify Your Defenses | Olusegun Awolola | [Read More](https://medium.com/p/58643ef39ba5) |
+| Tue, 06 May 2025 06:16:13 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 4: Custom Resources | Infralovers GmbH | [Read More](https://medium.com/p/8d51de61d760) |
+| Tue, 06 May 2025 06:13:34 GMT | 10 Essential Skills Every Data Analyst Needs in 2025 (And How to Build Them) | Prism HRC | [Read More](https://medium.com/p/52752a5433de) |
+| Tue, 06 May 2025 06:06:54 GMT | Security issues in offchain components for devs and auditors | Monethic.io | [Read More](https://medium.com/p/a4efd8cf2bd2) |
+| Tue, 06 May 2025 06:04:13 GMT | Faith Against Fear: How Singapore Counters Radicalisation Through the Religious Rehabilitation… | Dan Marshall-Singh | [Read More](https://medium.com/p/8eedbf18fcb1) |
+| Tue, 06 May 2025 06:02:43 GMT | Node.js uygulamanızı production’a aldığınızda gerçekten güvende mi? | PardusTech | [Read More](https://medium.com/p/1914e7776589) |
+| Tue, 06 May 2025 06:01:46 GMT | Certified Ethical Hacker V13 (CEH): Your Gateway to a Career in Ethical Hacking | Certocean | [Read More](https://medium.com/p/eeff0794e7b0) |
+| Tue, 06 May 2025 06:01:02 GMT | BASIC PENTESTING TRYHACKME WALKTHROUGH : | Khubra | [Read More](https://medium.com/p/151de5738c82) |
+| Tue, 06 May 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — May 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5bb8ec4ccd73) |
+| Tue, 06 May 2025 05:55:03 GMT | Day 27: Exploring GraphQL API Vulnerabilities — From Discovery to Exploitation | Agarwaldaksh | [Read More](https://medium.com/p/f0911da53092) |
+| Tue, 06 May 2025 05:49:00 GMT | Crypto Crimes #5: Bitstamp’s $5M Hack and the Rise of Exchange Phishing Attacks | BitterBitcoiner | [Read More](https://medium.com/p/d60be05802d4) |
+| Tue, 06 May 2025 05:45:07 GMT | Why Pursuing the CISSP Certification Is Worth It | Certgrow | [Read More](https://medium.com/p/24ba3cf1f5f2) |
+| Tue, 06 May 2025 05:38:18 GMT | Palo Alto Networks Cortex Cloud: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/41ab70785bee) |
+| Tue, 06 May 2025 05:37:45 GMT | Langflow’s CVE-2025–3248: A Zero-Click RCE Nightmare Hits CISA’s KEV List | Ismail Tasdelen | [Read More](https://medium.com/p/0b6038b61ffa) |
+| Tue, 06 May 2025 05:37:43 GMT | Reliable Security: Turnstile Solutions for UAE Enterprises | Aafiya | [Read More](https://medium.com/p/bc6cf89facc7) |
+| Tue, 06 May 2025 05:36:30 GMT | The Real Deal on DDoS Protection: How to Actually Stay Online When Chaos Hits | Sajjad Hussain | [Read More](https://medium.com/p/8961afd7a1d6) |
 | Tue, 06 May 2025 05:24:59 GMT | Cybersecurity for Normal People: 10 Things You Can Do Today to Stay Safe | Sachin K S | [Read More](https://medium.com/p/ef98df812382) |
 | Tue, 06 May 2025 05:23:43 GMT | Kickstarting My Cybersecurity Career Using LetsDefend — A Beginner’s SOC Path | md_ashmar | [Read More](https://medium.com/p/5e8a2ef4f5b1) |
 | Tue, 06 May 2025 05:21:28 GMT | Crypto Crimes #4: The PlusToken Ponzi Scheme That Lured Millions and Vanished Billions | BitterBitcoiner | [Read More](https://medium.com/p/c9e66034ee89) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 21:52:02 GMT | The Pain of Mediocrity | Tiefgang & Tamtam | [Read More](https://medium.com/p/18bfede1151c) |
 | Mon, 05 May 2025 21:51:27 GMT | Understanding the Mosquito Lifecycle (and How to Break It) | MR B | [Read More](https://medium.com/p/99445d076d16) |
 | Mon, 05 May 2025 21:50:45 GMT | How I Bypassed a Forbidden (403) Page to Access Exposed Apache Server-Status – HackerOne | Ali Hassan Khan | [Read More](https://medium.com/p/912cff5eed0a) |
-| Mon, 05 May 2025 21:49:24 GMT | Discussion Questions for The Social Dilemma | Savvy Cyber Kids | [Read More](https://medium.com/p/046574fea59f) |
-| Mon, 05 May 2025 21:48:14 GMT | Have an impact where YOU live, Volunteer with Savvy Cyber Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/b5b90774119d) |
-| Mon, 05 May 2025 21:46:34 GMT | Ask SCK: Should I be posting my toddler’s pictures on social media? | Savvy Cyber Kids | [Read More](https://medium.com/p/4c0947316714) |
-| Mon, 05 May 2025 21:31:40 GMT | Microsoft Bug Bounty: How I Found Unrestricted Access to Trace.axd | Ali Hassan Khan | [Read More](https://medium.com/p/734cd3fdddb5) |
-| Mon, 05 May 2025 21:26:29 GMT | This AI Can Hack Itself: The Chilling Truth About Agentic AI Cyber Threats | The Lazy Creator | [Read More](https://medium.com/p/1b6a361ee256) |
-| Mon, 05 May 2025 21:26:01 GMT | Conquer burnout | BitFlippa | [Read More](https://medium.com/p/0c567956211e) |
-| Mon, 05 May 2025 21:23:31 GMT | How to Plan a Corporate Data Migration to the Cloud with Security and High Availability | Fred Alencar R Fonseca | [Read More](https://medium.com/p/f9cb7f6add68) |
-| Mon, 05 May 2025 21:22:33 GMT | Elevating Stadium Experiences: Smarter, Safer Access for World-Class Venues | SU Group Holdings Limited (SUGP) | [Read More](https://medium.com/p/a303382210d0) |
-| Mon, 05 May 2025 21:14:33 GMT | The Quiet Tech War You’re Not Watching (And Why That’s a Good Thing) | Aaron Rose | [Read More](https://medium.com/p/7a5fc780532c) |
-| Mon, 05 May 2025 20:58:25 GMT | Ağ Katmanlarını Anlamak ve Siber Dünyanın Tehlikeleriyle Yüzleşmek | Hiranur Gemalmaz | [Read More](https://medium.com/p/d3a7964ce880) |
-| Mon, 05 May 2025 20:57:28 GMT | Time-Based C2 DNS Server | S12 - H4CK | [Read More](https://medium.com/p/9338545e5575) |
-| Mon, 05 May 2025 20:50:13 GMT | Part 3: Identity Federation in Multi-Cloud — Exploits, Use Cases, and How to Fix It | Karlmarx Karunanithi | [Read More](https://medium.com/p/9903bb7173ce) |
-| Mon, 05 May 2025 20:49:12 GMT | The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/b64fd3d158dd) |
-| Mon, 05 May 2025 20:36:11 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025— Part 1 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/3278b440c08b) |
-| Mon, 05 May 2025 20:26:18 GMT | Türkiye’nin 2025 Siber Güvenlik Hamlesi: Yeni Kanun Neler Getiriyor? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/5d11b3f6e01f) |
-| Mon, 05 May 2025 20:25:12 GMT | How to Spot and Avoid Malicious Apps: Protecting Your Digital Security | Pradeep Jaiswal | [Read More](https://medium.com/p/05a168f763ba) |
