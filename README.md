@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 05:24:59 GMT | Cybersecurity for Normal People: 10 Things You Can Do Today to Stay Safe | Sachin K S | [Read More](https://medium.com/p/ef98df812382) |
+| Tue, 06 May 2025 05:23:43 GMT | Kickstarting My Cybersecurity Career Using LetsDefend — A Beginner’s SOC Path | md_ashmar | [Read More](https://medium.com/p/5e8a2ef4f5b1) |
+| Tue, 06 May 2025 05:21:28 GMT | Crypto Crimes #4: The PlusToken Ponzi Scheme That Lured Millions and Vanished Billions | BitterBitcoiner | [Read More](https://medium.com/p/c9e66034ee89) |
+| Tue, 06 May 2025 05:20:14 GMT | Firewall Bypass new technique . | Rishav anand | [Read More](https://medium.com/p/2048f8e391ad) |
 | Tue, 06 May 2025 05:17:21 GMT | Ice | farsana77 | [Read More](https://medium.com/p/9a244a777209) |
+| Tue, 06 May 2025 05:11:49 GMT | HTB Academy — DNS Zone Transfers | BotsiCat | [Read More](https://medium.com/p/8b82acf117c9) |
 | Tue, 06 May 2025 05:03:01 GMT | Cyber Hygiene for Humans: 5 Simple Steps to Secure Your Digital Life | Allen Clement Justine Clement | [Read More](https://medium.com/p/d8855f13ba5d) |
 | Tue, 06 May 2025 05:02:19 GMT | Raising awareness about cybersecurity is easy on paper. | Defeu James | [Read More](https://medium.com/p/791df8a127be) |
 | Tue, 06 May 2025 05:01:34 GMT | Just read this | InsightScribe | [Read More](https://medium.com/p/c4b18269e2b2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 20:36:11 GMT | Overview of the Most Common AI-Powered Cyber Threats in 2025— Part 1 | WAITS Software- und Prozessberatungsgesellsch. mbH | [Read More](https://medium.com/p/3278b440c08b) |
 | Mon, 05 May 2025 20:26:18 GMT | Türkiye’nin 2025 Siber Güvenlik Hamlesi: Yeni Kanun Neler Getiriyor? | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/5d11b3f6e01f) |
 | Mon, 05 May 2025 20:25:12 GMT | How to Spot and Avoid Malicious Apps: Protecting Your Digital Security | Pradeep Jaiswal | [Read More](https://medium.com/p/05a168f763ba) |
-| Mon, 05 May 2025 20:21:30 GMT | Most Programming Interviews Are Designed to Hire the Wrong People | Junaid Khalid | [Read More](https://medium.com/p/a7ce15fcb45c) |
-| Mon, 05 May 2025 20:20:45 GMT | Top 5 Skills to Attain in 2025 | Rabiahassan | [Read More](https://medium.com/p/bd04946ec0fd) |
-| Mon, 05 May 2025 20:15:37 GMT | How to Remove Sensitive Files from GitHub History(without crying too much) | Tsitsi Flora | [Read More](https://medium.com/p/a6245dd168d8) |
-| Mon, 05 May 2025 20:15:19 GMT | Windows Server Zero Trust: Secure File Sharing for Remote Workers | Everything news | [Read More](https://medium.com/p/24711eb72538) |
-| Mon, 05 May 2025 20:13:24 GMT | Retail Cyberattacks and the Privacy Paradox: Why Consumers Still Click ‘Buy’ | Cara Pearce | [Read More](https://medium.com/p/a7b2815f4e56) |
