@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 12:33:56 GMT | A list of checklists for bug hunters and penetration testers | loyalonlytoday | [Read More](https://medium.com/p/d94d711375bd) |
+| Tue, 06 May 2025 12:28:31 GMT | Exploring the ANRAN Advantage in CCTV Solutions | Longfellowelmina | [Read More](https://medium.com/p/ba8313fe0f82) |
+| Tue, 06 May 2025 12:26:00 GMT | Why API Security Testing Should Never Be an Afterthought | StrongBox IT | [Read More](https://medium.com/p/2379d149e819) |
+| Tue, 06 May 2025 12:18:59 GMT | Türkiye’nin Siber Güvenlik Vizyonu: Kanun ve Strateji Ekseninde 2025'e Doğru | Hiranur Gemalmaz | [Read More](https://medium.com/p/9567fa7c3220) |
+| Tue, 06 May 2025 12:16:37 GMT | Cybersecurity Lab Report: Simulation and Mitigation of a TCP SYN Flood Attack Using hping3 | Chioma Ezeonugo | [Read More](https://medium.com/p/0d1d96c30d66) |
+| Tue, 06 May 2025 12:14:38 GMT | Job Oriented Cyber Security Course in Delhi | Crawsec | [Read More](https://medium.com/p/b4dc374cd72c) |
+| Tue, 06 May 2025 12:13:53 GMT | Stop wasting your money for nothing (Especially when it’s not yours!) | Martin Abramov | [Read More](https://medium.com/p/b83ea9fa4c2d) |
+| Tue, 06 May 2025 12:13:43 GMT | Signs Your Business Needs a Red Team Engagement — Are You Vulnerable? | West Advanced Technologies Inc | [Read More](https://medium.com/p/93163ad79f58) |
+| Tue, 06 May 2025 12:09:09 GMT | How I Found Critical Flaws in a Medical SOAP API | om kumar | [Read More](https://medium.com/p/382233398015) |
+| Tue, 06 May 2025 12:07:18 GMT | IT Information UK: A Comprehensive Overview | ameliabreack | [Read More](https://medium.com/p/fb719d5cbbc1) |
+| Tue, 06 May 2025 12:06:44 GMT | This One Mistake Cost Google $100 Million | Shweta L | [Read More](https://medium.com/p/2d99380c6fe2) |
+| Tue, 06 May 2025 11:57:30 GMT | Carbanak Hackers’ $1 Billion Heist | M Yousuf Hussain | [Read More](https://medium.com/p/bd0e3271ddf5) |
+| Tue, 06 May 2025 11:53:50 GMT | How to Use Git and Azure CLI Behind a Corporate Proxy (Step-by-Step Guide) | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/0ca0abbeb8c8) |
 | Tue, 06 May 2025 11:35:58 GMT | Unpacking an Obfuscated AutoIt Malware Campaign Delivering Lumma Stealer | Imane Ismail | [Read More](https://medium.com/p/39728fa4db60) |
 | Tue, 06 May 2025 11:30:27 GMT | What is an AI app and why is it important? | Jassy bella | [Read More](https://medium.com/p/22f0336304f5) |
 | Tue, 06 May 2025 11:29:46 GMT | Cisco Launches Foundation-sec-8B: The First Open-Source AI Model Designed Specifically for… | BestAI | [Read More](https://medium.com/p/8cd9e76dedb8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — May 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5bb8ec4ccd73) |
 | Tue, 06 May 2025 05:55:03 GMT | Day 27: Exploring GraphQL API Vulnerabilities — From Discovery to Exploitation | Agarwaldaksh | [Read More](https://medium.com/p/f0911da53092) |
 | Tue, 06 May 2025 05:49:00 GMT | Crypto Crimes #5: Bitstamp’s $5M Hack and the Rise of Exchange Phishing Attacks | BitterBitcoiner | [Read More](https://medium.com/p/d60be05802d4) |
-| Tue, 06 May 2025 05:45:07 GMT | Why Pursuing the CISSP Certification Is Worth It | Certgrow | [Read More](https://medium.com/p/24ba3cf1f5f2) |
-| Tue, 06 May 2025 05:38:18 GMT | Palo Alto Networks Cortex Cloud: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/41ab70785bee) |
-| Tue, 06 May 2025 05:37:45 GMT | Langflow’s CVE-2025–3248: A Zero-Click RCE Nightmare Hits CISA’s KEV List | Ismail Tasdelen | [Read More](https://medium.com/p/0b6038b61ffa) |
-| Tue, 06 May 2025 05:37:43 GMT | Reliable Security: Turnstile Solutions for UAE Enterprises | Aafiya | [Read More](https://medium.com/p/bc6cf89facc7) |
-| Tue, 06 May 2025 05:36:30 GMT | The Real Deal on DDoS Protection: How to Actually Stay Online When Chaos Hits | Sajjad Hussain | [Read More](https://medium.com/p/8961afd7a1d6) |
-| Tue, 06 May 2025 05:24:59 GMT | Cybersecurity for Normal People: 10 Things You Can Do Today to Stay Safe | Sachin K S | [Read More](https://medium.com/p/ef98df812382) |
-| Tue, 06 May 2025 05:23:43 GMT | Kickstarting My Cybersecurity Career Using LetsDefend — A Beginner’s SOC Path | md_ashmar | [Read More](https://medium.com/p/5e8a2ef4f5b1) |
-| Tue, 06 May 2025 05:21:28 GMT | Crypto Crimes #4: The PlusToken Ponzi Scheme That Lured Millions and Vanished Billions | BitterBitcoiner | [Read More](https://medium.com/p/c9e66034ee89) |
-| Tue, 06 May 2025 05:20:14 GMT | Firewall Bypass new technique . | Rishav anand | [Read More](https://medium.com/p/2048f8e391ad) |
-| Tue, 06 May 2025 05:17:21 GMT | Ice | farsana77 | [Read More](https://medium.com/p/9a244a777209) |
-| Tue, 06 May 2025 05:11:49 GMT | HTB Academy — DNS Zone Transfers | BotsiCat | [Read More](https://medium.com/p/8b82acf117c9) |
-| Tue, 06 May 2025 05:03:01 GMT | Cyber Hygiene for Humans: 5 Simple Steps to Secure Your Digital Life | Allen Clement Justine Clement | [Read More](https://medium.com/p/d8855f13ba5d) |
-| Tue, 06 May 2025 05:02:19 GMT | Raising awareness about cybersecurity is easy on paper. | Defeu James | [Read More](https://medium.com/p/791df8a127be) |
