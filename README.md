@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 05:17:21 GMT | Ice | farsana77 | [Read More](https://medium.com/p/9a244a777209) |
+| Tue, 06 May 2025 05:03:01 GMT | Cyber Hygiene for Humans: 5 Simple Steps to Secure Your Digital Life | Allen Clement Justine Clement | [Read More](https://medium.com/p/d8855f13ba5d) |
+| Tue, 06 May 2025 05:02:19 GMT | Raising awareness about cybersecurity is easy on paper. | Defeu James | [Read More](https://medium.com/p/791df8a127be) |
+| Tue, 06 May 2025 05:01:34 GMT | Just read this | InsightScribe | [Read More](https://medium.com/p/c4b18269e2b2) |
+| Tue, 06 May 2025 04:56:36 GMT | Shadow AI: What IT Leaders at LinkedIn Worry About | MidnightMusings | [Read More](https://medium.com/p/66f07867f7d5) |
+| Tue, 06 May 2025 04:51:54 GMT | Build a Smarter, Faster Network for Your Business | R&B Networks | [Read More](https://medium.com/p/7a8d9d4b50e3) |
+| Tue, 06 May 2025 04:45:57 GMT | Frida detection bypass; How your error messages help hackers. | sai9t | [Read More](https://medium.com/p/6b492ec655ef) |
+| Tue, 06 May 2025 04:37:23 GMT | ¿QA para qué?/QA for what? | Estanislao Zubiri | [Read More](https://medium.com/p/e88181b4da7e) |
+| Tue, 06 May 2025 04:33:48 GMT | Why Ethical Hacking Summer Training and VAPT Internships Are a Must for IT Students | Maya Dhavale | [Read More](https://medium.com/p/93178bc4865c) |
 | Tue, 06 May 2025 04:31:44 GMT | CYBER SECURITY IN ARMED FORCES | The Hackers Meetup | [Read More](https://medium.com/p/d68f2433b4fd) |
 | Tue, 06 May 2025 04:25:32 GMT | Understanding Cryptography: How Your Crypto Wallets, Apps, and NFTs Stay Secure | unica 02 | [Read More](https://medium.com/p/97cccdd8bafe) |
 | Tue, 06 May 2025 04:14:04 GMT | HACK-ERA CTF — Intra University Round Walkthrough… | Rajneesh Kumar Arya | [Read More](https://medium.com/p/8d5ca27c1573) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 20:15:37 GMT | How to Remove Sensitive Files from GitHub History(without crying too much) | Tsitsi Flora | [Read More](https://medium.com/p/a6245dd168d8) |
 | Mon, 05 May 2025 20:15:19 GMT | Windows Server Zero Trust: Secure File Sharing for Remote Workers | Everything news | [Read More](https://medium.com/p/24711eb72538) |
 | Mon, 05 May 2025 20:13:24 GMT | Retail Cyberattacks and the Privacy Paradox: Why Consumers Still Click ‘Buy’ | Cara Pearce | [Read More](https://medium.com/p/a7b2815f4e56) |
-| Mon, 05 May 2025 20:10:00 GMT | RECON: Comprehensive Guide To Earning Rewards | RECON | [Read More](https://medium.com/p/658b8ca62506) |
-| Mon, 05 May 2025 19:59:00 GMT | When Warlords Turn to Cybercrime- Sanctions on Myanmar’s Scam Emperor | Avnishyam | [Read More](https://medium.com/p/690d886005e0) |
-| Mon, 05 May 2025 19:58:54 GMT | Seeing Beyond the Link: How LLMs Are Elevating URL Classification for the Enterprise | Aysha Mir | [Read More](https://medium.com/p/ad79c87be2a9) |
-| Mon, 05 May 2025 19:52:17 GMT | He Said “Feel Better” — But I Wasn’t Sick | Insidevoices | [Read More](https://medium.com/p/5de3654157f3) |
-| Mon, 05 May 2025 19:51:41 GMT | Beyond the Firewall: Exploring the World of Cyber Security | The Curious Learner | [Read More](https://medium.com/p/2af5683fa3c4) |
-| Mon, 05 May 2025 19:48:32 GMT | The NIS2 Directive: How Europe’s New Cyber Law Impacts Businesses — Even Beyond the EU | Atty. Meltem Karatepe | [Read More](https://medium.com/p/5f0401e7b399) |
-| Mon, 05 May 2025 19:43:33 GMT | Build a Personal SIEM With n8n, Windows Logs, and OpenAI | Corey Jones | [Read More](https://medium.com/p/0d83ca11cfea) |
-| Mon, 05 May 2025 19:41:30 GMT | Establishing Identity as a Service (IDaaS): Key Mechanisms, Client Data, and Relying Party… | Quentin Wallace | [Read More](https://medium.com/p/13f14e7f6226) |
-| Mon, 05 May 2025 19:39:29 GMT | Türkiye’de Siber Güvenlik Kanunu ve Eylem Planı | Aslıhan Kuzucu | [Read More](https://medium.com/p/4be06e578542) |
