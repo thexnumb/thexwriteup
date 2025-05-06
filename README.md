@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 19:36:18 GMT | The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2 | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/a7d8a69710ff) |
+| Tue, 06 May 2025 19:35:15 GMT | WordPress Security Posture: More Fragile Than You Think | AZ | [Read More](https://medium.com/p/15497115b435) |
+| Tue, 06 May 2025 19:31:58 GMT | Revisiting the Past, Hacking the Future | SIDDHANT SHUKLA | [Read More](https://medium.com/p/c3cae222858c) |
+| Tue, 06 May 2025 19:27:11 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri | Arda Cinar | [Read More](https://medium.com/p/bde01e77fd5d) |
 | Tue, 06 May 2025 19:14:25 GMT | What’s Your Name — TryHackMe — Detailed Writeup | Farid Hajiyev | [Read More](https://medium.com/p/efc28f018aac) |
 | Tue, 06 May 2025 19:08:47 GMT | WordPress Backdoors: What They Are and How to Detect Them | All in One security | [Read More](https://medium.com/p/8cfd566d795b) |
 | Tue, 06 May 2025 19:06:30 GMT | Defense Station Cybersecurity Solution for Hedge Funds and Family Offices | Nabil W | [Read More](https://medium.com/p/4f4470260aba) |
@@ -34,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 18:32:20 GMT | ️‍♂️ I Reported a Security Flaw, They Silently Patched It… and Ghosted Me. | Rolextital | [Read More](https://medium.com/p/03f0a02a696b) |
 | Tue, 06 May 2025 18:30:15 GMT | Embers of Hope | Anjaliamge | [Read More](https://medium.com/p/50eee34d3d83) |
 | Tue, 06 May 2025 18:27:40 GMT | Explore the Level 5 HND in Computing — Cybersecurity: Your Path to a Safer Digital Future | Ancy Thomas | [Read More](https://medium.com/p/9a1098d3786e) |
+| Tue, 06 May 2025 18:26:50 GMT | 10 Common Web Application Security Mistakes (and How to Fix Them Like a Pro) | Md Faiyaz Khan | [Read More](https://medium.com/p/fac99a5b0ed7) |
 | Tue, 06 May 2025 18:25:31 GMT | The Dark Web’s Worst Nightmares (In Book Form) | Ahmad Javed | [Read More](https://medium.com/p/aa24c27edb17) |
 | Tue, 06 May 2025 18:21:28 GMT | Why Cybersecurity Awareness Training Matters for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/241e6209f8c2) |
 | Tue, 06 May 2025 18:06:09 GMT | Digital Disney Disasters - Inside Two Shocking 2024 Hacks | Avnishyam | [Read More](https://medium.com/p/531abebff966) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 14:23:39 GMT | Cyber Briefing: 2025.05.06 | CyberMaterial | [Read More](https://medium.com/p/7dc79652d275) |
 | Tue, 06 May 2025 14:22:06 GMT | Windows Activation Keys or Vidar Stealers hiding in plain sight?? | Praj Shete | [Read More](https://medium.com/p/5afccc2b5b34) |
 | Tue, 06 May 2025 14:21:23 GMT | Learning Cybersecurity the Fun Way Through Homelabs | Gracie Emmanuel | [Read More](https://medium.com/p/412e171dc986) |
-| Tue, 06 May 2025 14:21:01 GMT | NFS Service — Port 2049 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/d70875fbaeff) |
-| Tue, 06 May 2025 14:18:48 GMT | Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks | Zeta | [Read More](https://medium.com/p/3cabd1f97aee) |
-| Tue, 06 May 2025 14:17:23 GMT | World Coin Scan Retina Controversy: Earning Money is Dangerous! | Ambang | [Read More](https://medium.com/p/bf21668b91a9) |
-| Tue, 06 May 2025 14:16:41 GMT | Helm Charts Gone Wild: Microsoft Warns of Kubernetes Data Leaks ️ | Ismail Tasdelen | [Read More](https://medium.com/p/17ad2b3cb1f8) |
-| Tue, 06 May 2025 14:10:38 GMT | A Must-Have Tool for Bug Hunters: Find Open Redirect Vulnerabilities on Linux | Elie Attieh | [Read More](https://medium.com/p/21ad0c7d148e) |
