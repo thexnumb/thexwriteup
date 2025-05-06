@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 18:27:40 GMT | Explore the Level 5 HND in Computing — Cybersecurity: Your Path to a Safer Digital Future | Ancy Thomas | [Read More](https://medium.com/p/9a1098d3786e) |
+| Tue, 06 May 2025 18:25:31 GMT | The Dark Web’s Worst Nightmares (In Book Form) | Ahmad Javed | [Read More](https://medium.com/p/aa24c27edb17) |
+| Tue, 06 May 2025 18:21:28 GMT | Why Cybersecurity Awareness Training Matters for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/241e6209f8c2) |
+| Tue, 06 May 2025 18:06:09 GMT | Digital Disney Disasters - Inside Two Shocking 2024 Hacks | Avnishyam | [Read More](https://medium.com/p/531abebff966) |
+| Tue, 06 May 2025 18:01:26 GMT | Practical Cybersecurity Leadership for IT Teams | Matthew.Rosenquist | [Read More](https://medium.com/p/5b763c3e599d) |
+| Tue, 06 May 2025 17:59:00 GMT | Role of Winevent IDs in Log Analysis | Priyadharsini Selvarajan | [Read More](https://medium.com/p/d23f8ca5a482) |
+| Tue, 06 May 2025 17:58:05 GMT | This Simple Keyword Can Save You from Hours of Debugging! | Code Crack | [Read More](https://medium.com/p/58889a37ee43) |
+| Tue, 06 May 2025 17:47:33 GMT | ️ How I Earned $150 by Exploiting an XML-RPC SSRF in a WordPress Site | @Sauravkrish | [Read More](https://medium.com/p/51037eb58252) |
+| Tue, 06 May 2025 17:46:01 GMT | How to Scan .HDR Files for Malicious Content using C/C++ | Cloudmersive | [Read More](https://medium.com/p/023436e10820) |
+| Tue, 06 May 2025 17:41:40 GMT | Tdac.in.th, eta.in.th, dtv.in.th, asq.in.th phishing network | Fake TDAC | [Read More](https://medium.com/p/cf676a0d18ff) |
+| Tue, 06 May 2025 17:40:08 GMT | Cyberwarfare Funding Accelerates and Everyone is at Risk | Matthew.Rosenquist | [Read More](https://medium.com/p/5cf7f4b2eb57) |
 | Tue, 06 May 2025 17:31:31 GMT | IP Subnetting Demystified | Thilakesh | [Read More](https://medium.com/p/4c4354153624) |
 | Tue, 06 May 2025 17:26:45 GMT | Defense Cybersecurity: Protecting National Security in the Digital Age | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/a07ec2c01669) |
 | Tue, 06 May 2025 17:26:34 GMT | Energy Cybersecurity: Safeguarding the Vital Arteries of Oil and Gas Infrastructure | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/84eafeb9b5f5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 13:02:44 GMT | Browser Isolation: Your Invisible Shield Against Cyber Threats | Cybersecurity Umbrella | [Read More](https://medium.com/p/d19714abbd4b) |
 | Tue, 06 May 2025 13:02:30 GMT | Best Practices for Ethical Hacking | 4achievers | [Read More](https://medium.com/p/7040f86dbb81) |
 | Tue, 06 May 2025 13:02:11 GMT | OpenID Connect (OIDC) Nedir ve Neden Gerekli? | Furkan Özmen | [Read More](https://medium.com/p/d9de9aaec1f6) |
-| Tue, 06 May 2025 13:01:37 GMT | Predictive Cybersecurity: Don’t Just Defend — Anticipate | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9badf0a1fabe) |
-| Tue, 06 May 2025 13:00:41 GMT | Security Robot Market | Marcus Koehnlein | [Read More](https://medium.com/p/8819d92de3f3) |
-| Tue, 06 May 2025 13:00:37 GMT | Email Enumeration melalui Endpoint POST /api/passwordReset/?h= | FufuFafa | [Read More](https://medium.com/p/80c4aa7d0159) |
-| Tue, 06 May 2025 13:00:01 GMT | The Future of Blockchain: Interoperability, Scalability, and Security Challenges | Augmenta | [Read More](https://medium.com/p/d1d9e33dc9d5) |
-| Tue, 06 May 2025 12:58:56 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/bf0d3cb08534) |
-| Tue, 06 May 2025 12:48:09 GMT | ‘Relatable’ Content is Dying — Here’s the Unethical Trick Quietly Replacing It | The DigiPalms | [Read More](https://medium.com/p/f93ad503a6a5) |
-| Tue, 06 May 2025 12:41:25 GMT | The New Frontier of Executive Threats — When Digital Becomes Physical | SecOps | [Read More](https://medium.com/p/63cfa3f3e333) |
-| Tue, 06 May 2025 12:33:56 GMT | A list of checklists for bug hunters and penetration testers | loyalonlytoday | [Read More](https://medium.com/p/d94d711375bd) |
-| Tue, 06 May 2025 12:28:31 GMT | Exploring the ANRAN Advantage in CCTV Solutions | Longfellowelmina | [Read More](https://medium.com/p/ba8313fe0f82) |
-| Tue, 06 May 2025 12:26:00 GMT | Why API Security Testing Should Never Be an Afterthought | StrongBox IT | [Read More](https://medium.com/p/2379d149e819) |
-| Tue, 06 May 2025 12:18:59 GMT | Türkiye’nin Siber Güvenlik Vizyonu: Kanun ve Strateji Ekseninde 2025'e Doğru | Hiranur Gemalmaz | [Read More](https://medium.com/p/9567fa7c3220) |
