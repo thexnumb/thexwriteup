@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 13:22:28 GMT | ️ CVE-Based Exploit Development: Finding and Enhancing PoCs from GitHub | Esra Kayhan | [Read More](https://medium.com/p/7453e7e8d372) |
+| Tue, 06 May 2025 13:20:55 GMT | High-Demand Skills for 2025: AI, Cybersecurity, and Beyond | Muhammad Zain ul Abideen | [Read More](https://medium.com/p/087f20276f50) |
+| Tue, 06 May 2025 13:10:31 GMT | Think your SOC’s bulletproof? Meet TheWizards | Wes Young | [Read More](https://medium.com/p/15f49b09ba4e) |
+| Tue, 06 May 2025 13:06:35 GMT | ️ Active Directory Certificate Services (ADCS) Exploitation Techniques: In-Depth Offensive and… | Esra Kayhan | [Read More](https://medium.com/p/fa6714b13770) |
+| Tue, 06 May 2025 13:06:11 GMT | Web App Security 101 Best Practices Every Dev Should Know | Mehak kamra | [Read More](https://medium.com/p/17e845f4f285) |
+| Tue, 06 May 2025 13:02:44 GMT | Browser Isolation: Your Invisible Shield Against Cyber Threats | Cybersecurity Umbrella | [Read More](https://medium.com/p/d19714abbd4b) |
+| Tue, 06 May 2025 13:02:30 GMT | Best Practices for Ethical Hacking | 4achievers | [Read More](https://medium.com/p/7040f86dbb81) |
+| Tue, 06 May 2025 13:02:11 GMT | OpenID Connect (OIDC) Nedir ve Neden Gerekli? | Furkan Özmen | [Read More](https://medium.com/p/d9de9aaec1f6) |
+| Tue, 06 May 2025 13:01:37 GMT | Predictive Cybersecurity: Don’t Just Defend — Anticipate | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9badf0a1fabe) |
+| Tue, 06 May 2025 13:00:41 GMT | Security Robot Market | Marcus Koehnlein | [Read More](https://medium.com/p/8819d92de3f3) |
+| Tue, 06 May 2025 13:00:37 GMT | Email Enumeration melalui Endpoint POST /api/passwordReset/?h= | FufuFafa | [Read More](https://medium.com/p/80c4aa7d0159) |
+| Tue, 06 May 2025 13:00:01 GMT | The Future of Blockchain: Interoperability, Scalability, and Security Challenges | Augmenta | [Read More](https://medium.com/p/d1d9e33dc9d5) |
+| Tue, 06 May 2025 12:58:56 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/bf0d3cb08534) |
+| Tue, 06 May 2025 12:48:09 GMT | ‘Relatable’ Content is Dying — Here’s the Unethical Trick Quietly Replacing It | The DigiPalms | [Read More](https://medium.com/p/f93ad503a6a5) |
+| Tue, 06 May 2025 12:41:25 GMT | The New Frontier of Executive Threats — When Digital Becomes Physical | SecOps | [Read More](https://medium.com/p/63cfa3f3e333) |
 | Tue, 06 May 2025 12:33:56 GMT | A list of checklists for bug hunters and penetration testers | loyalonlytoday | [Read More](https://medium.com/p/d94d711375bd) |
 | Tue, 06 May 2025 12:28:31 GMT | Exploring the ANRAN Advantage in CCTV Solutions | Longfellowelmina | [Read More](https://medium.com/p/ba8313fe0f82) |
 | Tue, 06 May 2025 12:26:00 GMT | Why API Security Testing Should Never Be an Afterthought | StrongBox IT | [Read More](https://medium.com/p/2379d149e819) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 06:46:37 GMT | The Daily Tech Digest: 06 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/dce947c35f7f) |
 | Tue, 06 May 2025 06:46:23 GMT | Proof of Concept > Proof of Experience | Isbeginner | [Read More](https://medium.com/p/92486b4251ba) |
 | Tue, 06 May 2025 06:38:04 GMT | Cyber & Physical Security: Mumbai’s Smart Future | United Guard Force India | [Read More](https://medium.com/p/c9dc800262ee) |
-| Tue, 06 May 2025 06:37:18 GMT | Love: The Best Feeling Ever… | Anshika Mittal | [Read More](https://medium.com/p/f431397c4bf2) |
-| Tue, 06 May 2025 06:36:47 GMT | Shift Left Testing | Rashid Alakbarov | [Read More](https://medium.com/p/a9293d520eaa) |
-| Tue, 06 May 2025 06:36:43 GMT | Protocols and Servers - TryHackMe Writeups - by DESYNC | DESYNC | [Read More](https://medium.com/p/d4dd5e7f2c4b) |
-| Tue, 06 May 2025 06:23:48 GMT | Tiny Tech, Big Impact: The Rise of BPS Pressure Sensors in a Smart World | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/0523e39249be) |
-| Tue, 06 May 2025 06:18:05 GMT | Silent Killers: How Dark Web Operators Penetrate Businesses & How to Fortify Your Defenses | Olusegun Awolola | [Read More](https://medium.com/p/58643ef39ba5) |
-| Tue, 06 May 2025 06:16:13 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 4: Custom Resources | Infralovers GmbH | [Read More](https://medium.com/p/8d51de61d760) |
-| Tue, 06 May 2025 06:13:34 GMT | 10 Essential Skills Every Data Analyst Needs in 2025 (And How to Build Them) | Prism HRC | [Read More](https://medium.com/p/52752a5433de) |
-| Tue, 06 May 2025 06:06:54 GMT | Security issues in offchain components for devs and auditors | Monethic.io | [Read More](https://medium.com/p/a4efd8cf2bd2) |
-| Tue, 06 May 2025 06:04:13 GMT | Faith Against Fear: How Singapore Counters Radicalisation Through the Religious Rehabilitation… | Dan Marshall-Singh | [Read More](https://medium.com/p/8eedbf18fcb1) |
-| Tue, 06 May 2025 06:02:43 GMT | Node.js uygulamanızı production’a aldığınızda gerçekten güvende mi? | PardusTech | [Read More](https://medium.com/p/1914e7776589) |
-| Tue, 06 May 2025 06:01:46 GMT | Certified Ethical Hacker V13 (CEH): Your Gateway to a Career in Ethical Hacking | Certocean | [Read More](https://medium.com/p/eeff0794e7b0) |
-| Tue, 06 May 2025 06:01:02 GMT | BASIC PENTESTING TRYHACKME WALKTHROUGH : | Khubra | [Read More](https://medium.com/p/151de5738c82) |
-| Tue, 06 May 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — May 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5bb8ec4ccd73) |
-| Tue, 06 May 2025 05:55:03 GMT | Day 27: Exploring GraphQL API Vulnerabilities — From Discovery to Exploitation | Agarwaldaksh | [Read More](https://medium.com/p/f0911da53092) |
-| Tue, 06 May 2025 05:49:00 GMT | Crypto Crimes #5: Bitstamp’s $5M Hack and the Rise of Exchange Phishing Attacks | BitterBitcoiner | [Read More](https://medium.com/p/d60be05802d4) |
