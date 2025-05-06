@@ -12,11 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 20:32:46 GMT | Redis Has a Memory Problem and It’s Not Funny | Brendan Smith | [Read More](https://medium.com/p/dde229785a83) |
+| Tue, 06 May 2025 20:28:16 GMT | CSRF with broken referrer validation | Arunoday Tiwari | [Read More](https://medium.com/p/ead2c9dfc103) |
+| Tue, 06 May 2025 20:26:24 GMT | Do You Really TrustYour AI Generated Code? | Mossab Kbeisy | [Read More](https://medium.com/p/c914a19b7c70) |
+| Tue, 06 May 2025 20:23:15 GMT | ️‍♂️ Friday Overtime TryHackMe | Ivan | [Read More](https://medium.com/p/615ddc199c2c) |
 | Tue, 06 May 2025 20:12:11 GMT | ARP Poisoning Saldırısı Nedir? Ettercap ile Uygulamalı Anlatım | Sumeyra | [Read More](https://medium.com/p/fad97b792054) |
 | Tue, 06 May 2025 20:08:03 GMT | Why My MacBook Warned Me About Weak Wi-Fi Security (WPA)? Let’s Understand Together! | Amitishacked | [Read More](https://medium.com/p/2e0b141c8036) |
 | Tue, 06 May 2025 19:52:46 GMT | Türkiye’de Siber Güvenlik Kanunu ve Siber Güvenlik Eylem Planı | Mevlüt Kaan Karakoç | [Read More](https://medium.com/p/92778c6c1a83) |
 | Tue, 06 May 2025 19:50:41 GMT | API Security in NextJs Application | electrooo | [Read More](https://medium.com/p/c71b9a795448) |
 | Tue, 06 May 2025 19:43:21 GMT | Why Vulnerability Is The New Success | Scott Asai | [Read More](https://medium.com/p/099c05d54509) |
+| Tue, 06 May 2025 19:39:11 GMT | SSRF (Server-Side Request Forgery) | Yaxshi Sariyeva | [Read More](https://medium.com/p/87b79925f83d) |
 | Tue, 06 May 2025 19:36:18 GMT | The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2 | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/a7d8a69710ff) |
 | Tue, 06 May 2025 19:35:15 GMT | WordPress Security Posture: More Fragile Than You Think | AZ | [Read More](https://medium.com/p/15497115b435) |
 | Tue, 06 May 2025 19:31:58 GMT | Revisiting the Past, Hacking the Future | SIDDHANT SHUKLA | [Read More](https://medium.com/p/c3cae222858c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 14:46:39 GMT | CMDB and Vulnerability Management: A Symbiotic Relationship | Maksim Goldenberg | [Read More](https://medium.com/p/49909e933014) |
 | Tue, 06 May 2025 14:44:26 GMT | TOP Ways Hackers Exploit Crypto Wallets and How to Avoid getting Drained. | Mevengine - Smart Crypto bots and Mev bots | [Read More](https://medium.com/p/271cf2168bbb) |
 | Tue, 06 May 2025 14:42:14 GMT | Zero Trust ile Regülasyonlara Uyum | Kutay Şenol | [Read More](https://medium.com/p/371abaa2b3c1) |
-| Tue, 06 May 2025 14:39:43 GMT | Cảnh báo job lừa đảo — Dẫn dụ anh em dev tải và giải nén malware | leoodz | [Read More](https://medium.com/p/76b9bf2fe41b) |
-| Tue, 06 May 2025 14:37:24 GMT | How to Scan .FIG Files for Risky Content in your Python App | Cloudmersive | [Read More](https://medium.com/p/bf8c2d5162d2) |
-| Tue, 06 May 2025 14:34:34 GMT | H@cking Hospital For Mass PII Leak | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/85c3d89db434) |
-| Tue, 06 May 2025 14:33:53 GMT | The Hidden Dangers of Misconfigured Cloud Storage | Erkan Kavas | [Read More](https://medium.com/p/c9debc08f506) |
-| Tue, 06 May 2025 14:30:57 GMT | Blue team vs Red team — protect your smart contracts from both sides | Pavlo Horbonos | [Read More](https://medium.com/p/321145ff129e) |
