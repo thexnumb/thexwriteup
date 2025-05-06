@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 11:35:58 GMT | Unpacking an Obfuscated AutoIt Malware Campaign Delivering Lumma Stealer | Imane Ismail | [Read More](https://medium.com/p/39728fa4db60) |
+| Tue, 06 May 2025 11:30:27 GMT | What is an AI app and why is it important? | Jassy bella | [Read More](https://medium.com/p/22f0336304f5) |
+| Tue, 06 May 2025 11:29:46 GMT | Cisco Launches Foundation-sec-8B: The First Open-Source AI Model Designed Specifically for… | BestAI | [Read More](https://medium.com/p/8cd9e76dedb8) |
+| Tue, 06 May 2025 11:18:48 GMT | The Role of CISOs and Boardroom Leaders in Building a Strong Security Culture | Sarah Atuaka | [Read More](https://medium.com/p/912d30cbfc99) |
+| Tue, 06 May 2025 11:15:52 GMT | Disaster Recovery vs. Total Loss Recovery: Preparing for the Worst in a Cyber Attack | Jeff Cechinel | [Read More](https://medium.com/p/7ca98d419450) |
 | Tue, 06 May 2025 11:06:17 GMT | The Impact of Tariffs on the Cybersecurity Market | Mahesh Tiwari | [Read More](https://medium.com/p/efbfb6650af9) |
 | Tue, 06 May 2025 11:06:01 GMT | Authentication bypass via information disclosure —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/93e7076cfd14) |
 | Tue, 06 May 2025 11:04:58 GMT | Oracle faced second cyberattack: Legacy systems breached, log-in data stolen? | hide.me VPN | [Read More](https://medium.com/p/32e975f28b40) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 05:11:49 GMT | HTB Academy — DNS Zone Transfers | BotsiCat | [Read More](https://medium.com/p/8b82acf117c9) |
 | Tue, 06 May 2025 05:03:01 GMT | Cyber Hygiene for Humans: 5 Simple Steps to Secure Your Digital Life | Allen Clement Justine Clement | [Read More](https://medium.com/p/d8855f13ba5d) |
 | Tue, 06 May 2025 05:02:19 GMT | Raising awareness about cybersecurity is easy on paper. | Defeu James | [Read More](https://medium.com/p/791df8a127be) |
-| Tue, 06 May 2025 05:01:34 GMT | Just read this | InsightScribe | [Read More](https://medium.com/p/c4b18269e2b2) |
-| Tue, 06 May 2025 04:56:36 GMT | Shadow AI: What IT Leaders at LinkedIn Worry About | MidnightMusings | [Read More](https://medium.com/p/66f07867f7d5) |
-| Tue, 06 May 2025 04:51:54 GMT | Build a Smarter, Faster Network for Your Business | R&B Networks | [Read More](https://medium.com/p/7a8d9d4b50e3) |
-| Tue, 06 May 2025 04:45:57 GMT | Frida detection bypass; How your error messages help hackers. | sai9t | [Read More](https://medium.com/p/6b492ec655ef) |
-| Tue, 06 May 2025 04:37:23 GMT | ¿QA para qué?/QA for what? | Estanislao Zubiri | [Read More](https://medium.com/p/e88181b4da7e) |
