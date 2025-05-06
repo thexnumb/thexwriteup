@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 14:42:14 GMT | Zero Trust ile Regülasyonlara Uyum | Kutay Şenol | [Read More](https://medium.com/p/371abaa2b3c1) |
+| Tue, 06 May 2025 14:37:24 GMT | How to Scan .FIG Files for Risky Content in your Python App | Cloudmersive | [Read More](https://medium.com/p/bf8c2d5162d2) |
+| Tue, 06 May 2025 14:34:34 GMT | H@cking Hospital For Mass PII Leak | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/85c3d89db434) |
+| Tue, 06 May 2025 14:33:53 GMT | The Hidden Dangers of Misconfigured Cloud Storage | Erkan Kavas | [Read More](https://medium.com/p/c9debc08f506) |
+| Tue, 06 May 2025 14:30:57 GMT | Blue team vs Red team — protect your smart contracts from both sides | Pavlo Horbonos | [Read More](https://medium.com/p/321145ff129e) |
+| Tue, 06 May 2025 14:29:08 GMT | I Found Bugs in 50+ Paid Bug Bounty Programs | Mehrabopi | [Read More](https://medium.com/p/5fcf88dbc761) |
+| Tue, 06 May 2025 14:26:20 GMT | Protocols and Servers 2 - TryHackMe Writeups - by DESYNC | DESYNC | [Read More](https://medium.com/p/381981eed5ba) |
+| Tue, 06 May 2025 14:23:39 GMT | Cyber Briefing: 2025.05.06 | CyberMaterial | [Read More](https://medium.com/p/7dc79652d275) |
+| Tue, 06 May 2025 14:22:06 GMT | Windows Activation Keys or Vidar Stealers hiding in plain sight?? | Praj Shete | [Read More](https://medium.com/p/5afccc2b5b34) |
+| Tue, 06 May 2025 14:21:23 GMT | Learning Cybersecurity the Fun Way Through Homelabs | Gracie Emmanuel | [Read More](https://medium.com/p/412e171dc986) |
+| Tue, 06 May 2025 14:21:01 GMT | NFS Service — Port 2049 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/d70875fbaeff) |
 | Tue, 06 May 2025 14:18:48 GMT | Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks | Zeta | [Read More](https://medium.com/p/3cabd1f97aee) |
+| Tue, 06 May 2025 14:17:23 GMT | World Coin Scan Retina Controversy: Earning Money is Dangerous! | Ambang | [Read More](https://medium.com/p/bf21668b91a9) |
+| Tue, 06 May 2025 14:16:41 GMT | Helm Charts Gone Wild: Microsoft Warns of Kubernetes Data Leaks ️ | Ismail Tasdelen | [Read More](https://medium.com/p/17ad2b3cb1f8) |
 | Tue, 06 May 2025 14:10:38 GMT | A Must-Have Tool for Bug Hunters: Find Open Redirect Vulnerabilities on Linux | Elie Attieh | [Read More](https://medium.com/p/21ad0c7d148e) |
 | Tue, 06 May 2025 14:10:16 GMT | Fort Knox or Cardboard Box? Securing Your Cisco Fortress | Ba_zsh | [Read More](https://medium.com/p/36a3c85404c2) |
 | Tue, 06 May 2025 14:00:37 GMT | Creating Safe and Secure Learning Environments: School Security Guards in Milton Keynes | Travel time | [Read More](https://medium.com/p/415ec69c8403) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 08:35:46 GMT | Undeleted Secrets: Uncovering an IDOR Vulnerability in “Recently Deleted” Items | Wahid Najim | [Read More](https://medium.com/p/6d35db221008) |
 | Tue, 06 May 2025 08:33:24 GMT | Google redesigns android and improves it security system | Lenou Joy | [Read More](https://medium.com/p/393e611e2c50) |
 | Tue, 06 May 2025 08:24:53 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges (Part 3) | CH3TAN | [Read More](https://medium.com/p/b70a62ed4395) |
-| Tue, 06 May 2025 08:24:51 GMT | AI for a Secure, Scalable, and Smarter Future | Shri sai nithin chowdary Dukkipati | [Read More](https://medium.com/p/791047b643ab) |
-| Tue, 06 May 2025 08:14:12 GMT | Query Confusion: How HTTP Parameter Pollution Made the App Spill Secrets | Iski | [Read More](https://medium.com/p/55b09a1bc98b) |
-| Tue, 06 May 2025 08:11:16 GMT | Anonymous File Sharing: Send Files Fast with Magic-Wormhole | REDx Cybersec | [Read More](https://medium.com/p/23a83752ed51) |
-| Tue, 06 May 2025 08:09:58 GMT | Prevent File Inclusion Vulnerability in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/07391072469a) |
-| Tue, 06 May 2025 08:03:25 GMT | The Hidden Threat of Generative AI Spear Phishing: Why You Need to Act Now | Vikrant Dheer | [Read More](https://medium.com/p/e10122fccbc5) |
-| Tue, 06 May 2025 07:49:50 GMT | Who is 5hezy? | SHAH ZAIB | [Read More](https://medium.com/p/ae3ff517dc35) |
-| Tue, 06 May 2025 07:44:26 GMT | Shadows in the Name Tag | Tales of Nyx | [Read More](https://medium.com/p/356660e16419) |
-| Tue, 06 May 2025 07:41:18 GMT | DLL injection fundamental — Part2 | Kijo Ninja | [Read More](https://medium.com/p/afd42a0c332a) |
-| Tue, 06 May 2025 07:38:51 GMT | Understanding Hackers and Ethical Hacking | AmoghaKS | [Read More](https://medium.com/p/c3e58ad08ecd) |
-| Tue, 06 May 2025 07:31:23 GMT | Data Anonymization on AWS for RDS or Aurora PostgreSQL: A Practical Approach Using pgcrypto | Shailesh Kumar Mishra | [Read More](https://medium.com/p/c243c89d9803) |
-| Tue, 06 May 2025 07:31:17 GMT | When Developers Hack Themselves: The Blue Team's New Nightmare | Siddhant Mishra | [Read More](https://medium.com/p/738c16d46a92) |
-| Tue, 06 May 2025 07:31:16 GMT | Women Rising in Mumbai Security Services | United Guard Force India | [Read More](https://medium.com/p/cd36dd5e4ed6) |
-| Tue, 06 May 2025 07:30:45 GMT | Event Security Services in Bangalore — Southwall Securities llp | Southwallsecuritiesservice | [Read More](https://medium.com/p/0fb0eed83ec6) |
