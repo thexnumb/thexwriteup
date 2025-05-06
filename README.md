@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 10:11:57 GMT | IT OUTSOURCING | TabTree IT Consulting Company | [Read More](https://medium.com/p/13d6d2587d4b) |
+| Tue, 06 May 2025 10:07:59 GMT | Quantum Computing in Banking: New Fraud Detection Capabilities Explained | Joseph V Thomas | [Read More](https://medium.com/p/2e5ce55aff82) |
+| Tue, 06 May 2025 10:03:30 GMT | From Zero to Backdoor Hero: Mastering Firmware Emulation, Patching, and Covert Control | Horrow | [Read More](https://medium.com/p/cd672e20d86a) |
+| Tue, 06 May 2025 10:01:34 GMT | Security Is a UX Problem | Solo Recon | [Read More](https://medium.com/p/2a9a244b9de4) |
+| Tue, 06 May 2025 09:59:38 GMT | SOC Case Study - Phishing Analysis - SOC282 | Motasem Hamdan | [Read More](https://medium.com/p/db5a330a5114) |
+| Tue, 06 May 2025 09:57:00 GMT | Understanding IoT and OT in Cybersecurity: The New Frontlines of Digital Defense | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/8fb8b3db14a0) |
+| Tue, 06 May 2025 09:55:56 GMT | Why End-to-End Encryption Matters in Video Conferencing (and How to Get It Right) | Digital Samba | [Read More](https://medium.com/p/5c49b3929934) |
+| Tue, 06 May 2025 09:54:46 GMT | Critical Langflow Vulnerability Added to CISA KEV List: AI-Powered Workflows Under Threat | CyBlog | [Read More](https://medium.com/p/def5379340aa) |
+| Tue, 06 May 2025 09:36:19 GMT | How to Implement Cybersecurity Monitoring to Keep Hackers Out | SecureSlate | [Read More](https://medium.com/p/23bf27cad265) |
+| Tue, 06 May 2025 09:35:42 GMT | Cyber Security Summer Internship for Freshers [2025] | Ankit_Cyber | [Read More](https://medium.com/p/fff5154a7473) |
 | Tue, 06 May 2025 09:29:37 GMT | Exploring Course Content in a Cyber Security Program in Delhi | GICSEH | [Read More](https://medium.com/p/1f17f87702ed) |
 | Tue, 06 May 2025 09:28:12 GMT | Signal Clone App Used By Trump Official Suspended After a Hack | SafetyDetectives Research Team | [Read More](https://medium.com/p/3b6966b83bc1) |
 | Tue, 06 May 2025 09:20:06 GMT | OAuth Integration Hijack via Predictable state Parameter | Kariiem Gamal | [Read More](https://medium.com/p/facdae83e6b6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 03:55:20 GMT | What Is SSL Pinning? A Simple Guide for Everyone | Shiv Shankar Tiwari | [Read More](https://medium.com/p/0e9d9c12b543) |
 | Tue, 06 May 2025 03:50:51 GMT | How VPNs Securely Connect Global Networks | James Neal | [Read More](https://medium.com/p/2e126ac6883f) |
 | Tue, 06 May 2025 03:45:40 GMT | The Best Advanced VPN Options For Complete Security | Melvin Erickson | [Read More](https://medium.com/p/1ee2593ca113) |
-| Tue, 06 May 2025 03:45:27 GMT | Secure Your NestJS App with Two-Factor Authentication: A Step-by-Step Guide | Vatcharat R. | [Read More](https://medium.com/p/c2593084f0af) |
-| Tue, 06 May 2025 03:41:30 GMT | ANTHEM— THM CTF — WRITEUP | 5kullk3r | [Read More](https://medium.com/p/2e8a7bd9b80a) |
-| Tue, 06 May 2025 03:41:21 GMT | Configuring Static IP and Network Connectivity Between Windows and Linux VMs | Adrian Gonzalez | [Read More](https://medium.com/p/93284ffd43fc) |
-| Tue, 06 May 2025 03:32:30 GMT | Linkerd on AKS: Advanced Traffic Management & Real-World Patterns (Part 3) | Sridhar | [Read More](https://medium.com/p/1ae9d197ea21) |
-| Tue, 06 May 2025 03:32:30 GMT | The ₹2 Lakh WhatsApp Image Scam: How One Click Can Empty Your Bank Account | Deven Chhajed | [Read More](https://medium.com/p/b7c1efec794c) |
-| Tue, 06 May 2025 03:32:30 GMT | Top Applications of Cyber-Physical Systems in Manufacturing: Today and Shaping the Future | Data Defendere | [Read More](https://medium.com/p/99e3c4011440) |
-| Tue, 06 May 2025 03:15:09 GMT | AWS IAM: Understanding Allow vs Deny | Eramarinfo | [Read More](https://medium.com/p/5546c703c977) |
-| Tue, 06 May 2025 03:06:33 GMT | The Illusion of Security: Why Strong Passwords Alone Are No Longer Enough | Kevin Alosius  James | [Read More](https://medium.com/p/fc089524ba1b) |
-| Tue, 06 May 2025 03:02:13 GMT | Hacking APIs: Server-Side Parameter Pollution 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/97a155c85029) |
-| Tue, 06 May 2025 02:58:50 GMT | Kenapa Kita Selalu Klik “Setuju” | Fadhil Pratama | [Read More](https://medium.com/p/3b0af4698ef2) |
