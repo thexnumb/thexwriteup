@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 15:38:04 GMT | IDOR Allows Unauthorized Access to Other Users’ Personal Data | brbr0s | [Read More](https://medium.com/p/8f73486cbab0) |
+| Tue, 06 May 2025 15:37:32 GMT | POPIA: What South Africans Need to Know About Their Digital Privacy Rights. | Prince Moche | [Read More](https://medium.com/p/c8dbe46c0068) |
+| Tue, 06 May 2025 15:32:53 GMT | When Empathy Becomes a Burden | Crane Vision | [Read More](https://medium.com/p/6828861c2d3c) |
+| Tue, 06 May 2025 15:31:42 GMT | Plug, Boot, Vanish: How I Turned a USB Stick into a Portable Privacy Fortress | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/a1b14f7772ad) |
+| Tue, 06 May 2025 15:28:09 GMT | Secure Masculinity — A Legacy I grew up with | Shivali Sharma | [Read More](https://medium.com/p/c1c4c6dd1183) |
 | Tue, 06 May 2025 15:21:12 GMT | How I Built a One-Click Vulnerability Report Generator with Python | EL_Cazad0r | [Read More](https://medium.com/p/e61d87983d7b) |
 | Tue, 06 May 2025 15:12:55 GMT | ️ From Frustration to Triumph: How I Finally Conquered the ELK Stack | Manish Rawat | [Read More](https://medium.com/p/6097f9f413e9) |
 | Tue, 06 May 2025 15:05:50 GMT | Introduction to Asset -Data Classification | Igor Berner | [Read More](https://medium.com/p/ce263f061fe2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 09:36:19 GMT | How to Implement Cybersecurity Monitoring to Keep Hackers Out | SecureSlate | [Read More](https://medium.com/p/23bf27cad265) |
 | Tue, 06 May 2025 09:35:42 GMT | Cyber Security Summer Internship for Freshers [2025] | Ankit_Cyber | [Read More](https://medium.com/p/fff5154a7473) |
 | Tue, 06 May 2025 09:29:37 GMT | Exploring Course Content in a Cyber Security Program in Delhi | GICSEH | [Read More](https://medium.com/p/1f17f87702ed) |
-| Tue, 06 May 2025 09:28:12 GMT | Signal Clone App Used By Trump Official Suspended After a Hack | SafetyDetectives Research Team | [Read More](https://medium.com/p/3b6966b83bc1) |
-| Tue, 06 May 2025 09:20:06 GMT | OAuth Integration Hijack via Predictable state Parameter | Kariiem Gamal | [Read More](https://medium.com/p/facdae83e6b6) |
-| Tue, 06 May 2025 09:14:00 GMT | The Great Firewall of China: Behind The Wall | Md. Shefayer Ahmed | [Read More](https://medium.com/p/a5c745b9f11a) |
-| Tue, 06 May 2025 09:09:33 GMT | Splunk Boss of the SOC: Investigating an APT with Splunk | Shivramolia | [Read More](https://medium.com/p/e83a8ebd13af) |
-| Tue, 06 May 2025 09:07:50 GMT | How to Secure Your Applications and APIs in a Cloud-Native World? | CyRAACS | [Read More](https://medium.com/p/4ae0567396f7) |
