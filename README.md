@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 15:21:12 GMT | How I Built a One-Click Vulnerability Report Generator with Python | EL_Cazad0r | [Read More](https://medium.com/p/e61d87983d7b) |
+| Tue, 06 May 2025 15:12:55 GMT | ️ From Frustration to Triumph: How I Finally Conquered the ELK Stack | Manish Rawat | [Read More](https://medium.com/p/6097f9f413e9) |
+| Tue, 06 May 2025 15:05:50 GMT | Introduction to Asset -Data Classification | Igor Berner | [Read More](https://medium.com/p/ce263f061fe2) |
+| Tue, 06 May 2025 15:02:34 GMT | Is Your App Protected? The Branch API Vulnerability You Need to Know About | Mrunal chawda | [Read More](https://medium.com/p/d5eecee12c91) |
+| Tue, 06 May 2025 14:59:24 GMT | How I Found a Leaky .env File ☕ — And Why It’s a Big Deal | B4LOGI | [Read More](https://medium.com/p/8aa430e07e33) |
+| Tue, 06 May 2025 14:58:20 GMT | VULNUB-DC:1 WALKTHROUGH | Teja | [Read More](https://medium.com/p/81da97eb66ef) |
+| Tue, 06 May 2025 14:57:40 GMT | DevSecOps with DefectDojo and Github Actions with BEARER CLI, BANDIT CLI and SNYK Test | Nitesh Rijal | [Read More](https://medium.com/p/764fe5768432) |
+| Tue, 06 May 2025 14:57:03 GMT | You are the product. | Nathan | [Read More](https://medium.com/p/08bcf967566f) |
+| Tue, 06 May 2025 14:46:39 GMT | CMDB and Vulnerability Management: A Symbiotic Relationship | Maksim Goldenberg | [Read More](https://medium.com/p/49909e933014) |
+| Tue, 06 May 2025 14:44:26 GMT | TOP Ways Hackers Exploit Crypto Wallets and How to Avoid getting Drained. | Mevengine - Smart Crypto bots and Mev bots | [Read More](https://medium.com/p/271cf2168bbb) |
 | Tue, 06 May 2025 14:42:14 GMT | Zero Trust ile Regülasyonlara Uyum | Kutay Şenol | [Read More](https://medium.com/p/371abaa2b3c1) |
+| Tue, 06 May 2025 14:39:43 GMT | Cảnh báo job lừa đảo — Dẫn dụ anh em dev tải và giải nén malware | leoodz | [Read More](https://medium.com/p/76b9bf2fe41b) |
 | Tue, 06 May 2025 14:37:24 GMT | How to Scan .FIG Files for Risky Content in your Python App | Cloudmersive | [Read More](https://medium.com/p/bf8c2d5162d2) |
 | Tue, 06 May 2025 14:34:34 GMT | H@cking Hospital For Mass PII Leak | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/85c3d89db434) |
 | Tue, 06 May 2025 14:33:53 GMT | The Hidden Dangers of Misconfigured Cloud Storage | Erkan Kavas | [Read More](https://medium.com/p/c9debc08f506) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 09:14:00 GMT | The Great Firewall of China: Behind The Wall | Md. Shefayer Ahmed | [Read More](https://medium.com/p/a5c745b9f11a) |
 | Tue, 06 May 2025 09:09:33 GMT | Splunk Boss of the SOC: Investigating an APT with Splunk | Shivramolia | [Read More](https://medium.com/p/e83a8ebd13af) |
 | Tue, 06 May 2025 09:07:50 GMT | How to Secure Your Applications and APIs in a Cloud-Native World? | CyRAACS | [Read More](https://medium.com/p/4ae0567396f7) |
-| Tue, 06 May 2025 08:46:24 GMT | Remote Desktop Puzzle: The Overlooked RDP Vulnerability That Could Expose Your Entire Network | Infoziant | [Read More](https://medium.com/p/bd04cd0756ef) |
-| Tue, 06 May 2025 08:42:16 GMT | Smart cars are transforming the way we drive, offering a realm of convenience and advanced… | Techzonego | [Read More](https://medium.com/p/476cba03736a) |
-| Tue, 06 May 2025 08:40:13 GMT | Network Security Testing Market Forecast: Emerging Trends and Growth Drivers Through 2031 | Harsh Mehta | [Read More](https://medium.com/p/3dcf141cbd60) |
-| Tue, 06 May 2025 08:39:51 GMT | Securing Cookies and Session Management in Node.js and Express | Lavanya Preethi Manoharan | [Read More](https://medium.com/p/3ae4a4b53521) |
-| Tue, 06 May 2025 08:38:54 GMT | Lab 3 — Practical Malware Analysis | Sapir Twig | [Read More](https://medium.com/p/322eb2c6de45) |
-| Tue, 06 May 2025 08:38:04 GMT | BTLO Investigation — MiddleMayhem Walkthrough | Aninda Banerjee | [Read More](https://medium.com/p/aef22f0a4919) |
-| Tue, 06 May 2025 08:37:33 GMT | Why Hizo Prioritizes Cybersecurity | Hizo | [Read More](https://medium.com/p/0300de4ee4b5) |
-| Tue, 06 May 2025 08:36:53 GMT | The Quiet Collapse of the Strong One | Último cuarto | [Read More](https://medium.com/p/a821dbe3b1dc) |
-| Tue, 06 May 2025 08:35:46 GMT | Undeleted Secrets: Uncovering an IDOR Vulnerability in “Recently Deleted” Items | Wahid Najim | [Read More](https://medium.com/p/6d35db221008) |
-| Tue, 06 May 2025 08:33:24 GMT | Google redesigns android and improves it security system | Lenou Joy | [Read More](https://medium.com/p/393e611e2c50) |
-| Tue, 06 May 2025 08:24:53 GMT | Mastering Runtime Hooking with Frida — Real-World Challenges (Part 3) | CH3TAN | [Read More](https://medium.com/p/b70a62ed4395) |
