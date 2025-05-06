@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 03:06:33 GMT | The Illusion of Security: Why Strong Passwords Alone Are No Longer Enough | Kevin Alosius  James | [Read More](https://medium.com/p/fc089524ba1b) |
+| Tue, 06 May 2025 02:58:50 GMT | Kenapa Kita Selalu Klik “Setuju” | Fadhil Pratama | [Read More](https://medium.com/p/3b0af4698ef2) |
+| Tue, 06 May 2025 02:55:15 GMT | Tuesday Morning Threat Report: May 6, 2025 | Mark Maguire | [Read More](https://medium.com/p/3b58f004ef3e) |
+| Tue, 06 May 2025 02:50:42 GMT | What do I do with an OAuth token? | Kunal Sinha | [Read More](https://medium.com/p/e7edd332fafb) |
+| Tue, 06 May 2025 02:48:29 GMT | ‍☠️ CVE-2023–36874: Popping Admin on Windows the Hacker Way | Kenneth Nevers | [Read More](https://medium.com/p/287ab7edf2ba) |
+| Tue, 06 May 2025 02:36:22 GMT | Application Security in 2025: A CISO’s Strategic Playbook | Cyber-AppSec | [Read More](https://medium.com/p/f11d4bd8ae82) |
+| Tue, 06 May 2025 02:23:29 GMT | From the School District Files: New Threats, but This Time It Wasn’t the Students | Andre Fernandes | [Read More](https://medium.com/p/f1cc2a8f77b0) |
+| Tue, 06 May 2025 02:21:12 GMT | Building a Virtualized Lab with pfSense, Active Directory, and Network Security | Endoisshy | [Read More](https://medium.com/p/b1325bbcb8d1) |
+| Tue, 06 May 2025 02:21:04 GMT | Serpentine - Writeup | Marvin | [Read More](https://medium.com/p/9433ad5dd6cc) |
+| Tue, 06 May 2025 02:20:56 GMT | 5 Windows Defender Features You’re Probably Not Using (But Should Be) | Faruk Ahmed | [Read More](https://medium.com/p/ca02740fc76d) |
+| Tue, 06 May 2025 02:15:05 GMT | Unlocking Masculinity: Embracing Vulnerability for Deeper Connection | Eldas | [Read More](https://medium.com/p/6d6047eed11d) |
+| Tue, 06 May 2025 02:08:27 GMT | Security Experts Warn of RDP Access with Outdated Passwords | current.cybersecurity | [Read More](https://medium.com/p/dfd3a8596b13) |
+| Tue, 06 May 2025 02:05:36 GMT | So what is OpenID Connect (OIDC)? | Kunal Sinha | [Read More](https://medium.com/p/5a92c25792bb) |
+| Tue, 06 May 2025 02:01:33 GMT | Evil Twin Wi-Fi Attacks: How to Spot, Prevent, and Protect Your Data | Kavish saraiya | [Read More](https://medium.com/p/04ecffe2a09c) |
 | Tue, 06 May 2025 01:40:50 GMT | Hack The Box Academy — Network Foundations — Wireless Networks | bl77rd | [Read More](https://medium.com/p/82a1003a3081) |
 | Tue, 06 May 2025 01:40:26 GMT | Cybersecurity for Small Businesses in 2025: Essential Tools and Strategies | Pawan Jaiswal | [Read More](https://medium.com/p/20a4ac5dd3f9) |
+| Tue, 06 May 2025 01:39:23 GMT | Protect Your APIs with Rate Limiting using Bucket4j | Ankit Kumar | [Read More](https://medium.com/p/b50590381d79) |
 | Tue, 06 May 2025 01:04:42 GMT | Safety Concerns in Autonomous Vehicles | Imali | [Read More](https://medium.com/p/0e15c3032069) |
 | Tue, 06 May 2025 01:02:50 GMT | NTFS Forensics Challenge LetsDefend | Dh | [Read More](https://medium.com/p/05ff5044e217) |
 | Tue, 06 May 2025 01:02:47 GMT | Hack The Box Academy — Network Foundations — Internet Architecture | bl77rd | [Read More](https://medium.com/p/768450d21f3f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 18:43:07 GMT | Connecting to TryHackMe with OpenVPN: A Beginner’s Guide | Byte-Sized Security | [Read More](https://medium.com/p/a4e386a7ec82) |
 | Mon, 05 May 2025 18:42:27 GMT | Deepfake Danger: When Technology Loses Its Moral Compass | MATHANAM.S | [Read More](https://medium.com/p/4f0e3c9cea90) |
 | Mon, 05 May 2025 18:41:42 GMT | I Kept Missing Concert Tickets — So I Built an Android Bot to Buy Them for Me | Balazs Banto | [Read More](https://medium.com/p/0bd370ebd6d5) |
-| Mon, 05 May 2025 18:38:41 GMT | How to Scan PowerPoint Show (.PPSX) Files for Threats in your Node.js App | Cloudmersive | [Read More](https://medium.com/p/b900179f40cc) |
-| Mon, 05 May 2025 18:38:30 GMT | Can AI Predict a Cyberattack Before It Happens? The Future of Cyber Intuition | Ash Wren | [Read More](https://medium.com/p/d68aba7e2263) |
-| Mon, 05 May 2025 18:30:09 GMT | Is Quantum Computing a Threat to Blockchain?⛓️‍ | Suraj Sabale | [Read More](https://medium.com/p/ee4066c16ee3) |
-| Mon, 05 May 2025 18:30:02 GMT | AirBorne: How Wormable AirPlay Flaws Put Billions of Apple Devices at Risk | Ismail Tasdelen | [Read More](https://medium.com/p/eae1c6071a12) |
-| Mon, 05 May 2025 18:25:26 GMT | Layered Defenses and Latent Failures: Why Software Errors Happen | Maneesh Chaturvedi | [Read More](https://medium.com/p/5493b35e97ea) |
-| Mon, 05 May 2025 18:25:15 GMT | The Importance of Cybersecurity in the Digital Age | Vansh Khandelwal | [Read More](https://medium.com/p/84cfd221cc81) |
-| Mon, 05 May 2025 18:24:34 GMT | Critical Commvault Vulnerability CVE-2025–34028: A Zero-Click Nightmare | Ismail Tasdelen | [Read More](https://medium.com/p/91aec71d6e15) |
-| Mon, 05 May 2025 18:24:13 GMT | Mock Drills & Readiness Checks at Indian Financial Institutions | Yogesh V Malvankar | [Read More](https://medium.com/p/bd782b579d18) |
-| Mon, 05 May 2025 18:14:48 GMT | Cross-Site Request Forgery (CSRF) Made Easy: A Beginner’s Perspective | Natarajan C K | [Read More](https://medium.com/p/037b4ba6d62a) |
-| Mon, 05 May 2025 17:58:24 GMT | While AI is Becoming Your Search Engine: | Brad Kirkpatrick, CISSP | [Read More](https://medium.com/p/761947db618b) |
-| Mon, 05 May 2025 17:58:20 GMT | How Can I Recover My Money From Fxpro? | Vera | [Read More](https://medium.com/p/b25e6441efd7) |
-| Mon, 05 May 2025 17:51:49 GMT | Behind the Login : Authentication and Access Control in Social Media | Aditi Gade | [Read More](https://medium.com/p/3b14766047c9) |
-| Mon, 05 May 2025 17:51:21 GMT | une XSS simple sur la page de login CVE-2024–48410 | Itachix0f | [Read More](https://medium.com/p/65435f4a0f84) |
-| Mon, 05 May 2025 17:49:04 GMT | Designing Solo Recon: Building a Calm, Trustworthy Brand for a Security Tool | Solo Recon | [Read More](https://medium.com/p/0de5a301a206) |
-| Mon, 05 May 2025 17:44:14 GMT | Zero-Trust Data Architecture: Moving Beyond Perimeter Security in the AI Era | Sajeer Babu | [Read More](https://medium.com/p/e2a95239de13) |
