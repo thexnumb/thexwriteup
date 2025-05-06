@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 22:16:37 GMT | How to Build a Strong Cybersecurity Program with a CISO | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d79fe99f10e) |
+| Tue, 06 May 2025 22:10:43 GMT | “The $10 DIY Phishing Kit That Broke into My Inbox” | An0n | [Read More](https://medium.com/p/55cdf8412474) |
+| Tue, 06 May 2025 21:58:56 GMT | SCAM ALERT: Someone Sent Me My Own OTP?!  WTF?! | Sumanth Yerranagula | [Read More](https://medium.com/p/3badc68161d3) |
+| Tue, 06 May 2025 21:57:34 GMT | Tech-Savvy or Not, Seniors Deserve Scam-Free Screens: Here’s How to Help! | ɌƋƑ•TECH | [Read More](https://medium.com/p/a4a666648703) |
+| Tue, 06 May 2025 21:52:52 GMT | Wireless Pentesting #1: Introduction | Norman Kolarikkal | [Read More](https://medium.com/p/a635e0c0e5c9) |
+| Tue, 06 May 2025 21:50:52 GMT | TryHackMe - Nmap: The Basics — Cyber Security 101 | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/6455fb40f804) |
+| Tue, 06 May 2025 21:45:23 GMT | How to Detect Suspicious Activity on a Linux Server in Under 5 Minutes | Faruk Ahmed | [Read More](https://medium.com/p/6a60afd52a94) |
+| Tue, 06 May 2025 21:41:07 GMT | Why Every Business Needs a Tailored Cybersecurity Strategy in 2025 | Tungstencyberdg | [Read More](https://medium.com/p/fbe6895c968d) |
+| Tue, 06 May 2025 21:36:48 GMT | Mavi Takım Başlangıç Rehberi | Nursenaavci | [Read More](https://medium.com/p/a3759d27ffd1) |
 | Tue, 06 May 2025 21:34:11 GMT | TryHackMe — Hammer Write-up | João Laimer | [Read More](https://medium.com/p/ab347efce261) |
 | Tue, 06 May 2025 21:30:59 GMT | List of TryHackMe Free Rooms ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/ba857cc8f707) |
 | Tue, 06 May 2025 21:22:28 GMT | Cracking the Airwaves: Security Vulnerabilities in Modern 5G Telecom Networks | Piyush | [Read More](https://medium.com/p/cacd63498f82) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 16:40:27 GMT | Fear the Follow-Up? When the Spotlight Fades, Are the Right Questions Still Being Asked? | Scott Hill | [Read More](https://medium.com/p/46bde9607e4b) |
 | Tue, 06 May 2025 16:34:31 GMT | TryHackMe - Evading Logging and Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/bd9dcaf9a20f) |
 | Tue, 06 May 2025 16:29:35 GMT | TryHackMe — Wgel CTF write-up | Firhansanad | [Read More](https://medium.com/p/6222b3e8287e) |
-| Tue, 06 May 2025 16:28:26 GMT | Things I Wish I Knew When I Started My Career in Tech | Jaya Vishwakarma | [Read More](https://medium.com/p/675841d67973) |
-| Tue, 06 May 2025 16:27:15 GMT | Incident Response Süreçlerine Sistematik Yaklaşım | Batuhan Pekdur | [Read More](https://medium.com/p/372078778799) |
-| Tue, 06 May 2025 16:25:35 GMT | Here’s How I Was Able To Recover My Money From Affirm? | Betty | [Read More](https://medium.com/p/145fdf9032b3) |
-| Tue, 06 May 2025 16:16:27 GMT | Security Isn’t Just Technical — It’s Emotional Now | Jay Simmons | [Read More](https://medium.com/p/3e96688e3033) |
-| Tue, 06 May 2025 16:15:51 GMT | PEN Testing vs. Vulnerability Scanning | Lightwavenet Andrewmills | [Read More](https://medium.com/p/d8925761af9c) |
-| Tue, 06 May 2025 16:14:11 GMT | Information Technology in Finance | Lightwavenet Andrewmills | [Read More](https://medium.com/p/03c761570d02) |
-| Tue, 06 May 2025 16:07:54 GMT | Binwalk Challenge Easy : CTFLearn | Rindaman666 | [Read More](https://medium.com/p/f1cdebaf5911) |
-| Tue, 06 May 2025 16:02:29 GMT | Abusing Windows COM Objects with Python: Fileless Execution via Excel.Application and Beyond | Maxwell Cross | [Read More](https://medium.com/p/bb635f32ee68) |
-| Tue, 06 May 2025 15:56:00 GMT | Canada Needs Its Own Cyber Shield — I’m Launching the Petition and the Tool to Make It Happen | Abdulmajid Abdi | [Read More](https://medium.com/p/ca0f0d9ae1fe) |
