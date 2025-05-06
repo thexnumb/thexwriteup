@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 22:59:24 GMT | How I Was Able To Recover My Money From Renimas? | Sophia | [Read More](https://medium.com/p/a0655413b250) |
+| Tue, 06 May 2025 22:58:56 GMT | Bugs Bunny: My Go-To Combo for Snagging Token Claims | BUGS | [Read More](https://medium.com/p/8445ce257aa6) |
+| Tue, 06 May 2025 22:57:29 GMT | How to Prevent Social Engineering | Savvy Cyber Kids | [Read More](https://medium.com/p/d1e6f97d5b2f) |
+| Tue, 06 May 2025 22:55:49 GMT | What’s Appropriate for Kids on Disney+? | Savvy Cyber Kids | [Read More](https://medium.com/p/cc08e8ff1f37) |
+| Tue, 06 May 2025 22:48:54 GMT | AI vs. AI: Why Your Security Strategy Needs to Catch Up — Fast | Cyber-AppSec | [Read More](https://medium.com/p/814d3b2297a3) |
+| Tue, 06 May 2025 22:46:23 GMT | FortiGate Site-to-Site VPN Setup in GNS3 | mraricayos | [Read More](https://medium.com/p/9aa5b5d52b3d) |
+| Tue, 06 May 2025 22:44:36 GMT | How Cyber Attackers Steal Passwords & How to Defend Against Them | Ian James | [Read More](https://medium.com/p/9364770b4e74) |
 | Tue, 06 May 2025 22:40:58 GMT | Force, Space, and Time: The Keys to Cyber Dominance | Zero Day Thirty | [Read More](https://medium.com/p/a4765a91ff43) |
 | Tue, 06 May 2025 22:26:20 GMT | I Watched Nation-State DDoS Attack Unfold Live. Here’s What I Learned | legacy0x1 | [Read More](https://medium.com/p/93cd373e41c2) |
 | Tue, 06 May 2025 22:26:02 GMT | Pocket Delivery — Campanha Orgulho da Zona Leste | Vinícius Santos | [Read More](https://medium.com/p/dbc4b546c9ca) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 17:05:28 GMT | Digital Forensics- Mobile Forensics Analysis of Indeed | Korymckinney | [Read More](https://medium.com/p/afb3df6b6d7f) |
 | Tue, 06 May 2025 17:04:00 GMT | Why Is There a Shortage of Cybersecurity Professionals? | Shamsul Anam Emon | [Read More](https://medium.com/p/373e3fcc49de) |
 | Tue, 06 May 2025 17:00:29 GMT | Are Your Node.js Apps Safe? Shocking Security Flaws and Must-Know Best Practices for 2025 | Kanhaaggarwal | [Read More](https://medium.com/p/38fa6da4386a) |
-| Tue, 06 May 2025 16:59:51 GMT | Android App Security: Step-by-Step Penetration Testing Tutorial Part-4 | Gokul | [Read More](https://medium.com/p/5adbef4d64c8) |
-| Tue, 06 May 2025 16:59:26 GMT | Why Do IoT Devices Pose a Cybersecurity Risk? | Shamsul Anam Emon | [Read More](https://medium.com/p/f75dbfa07cd6) |
-| Tue, 06 May 2025 16:58:12 GMT | API Security: Protecting Digital Gateways | Gayathiri Muralitharan | [Read More](https://medium.com/p/23d8368348a4) |
-| Tue, 06 May 2025 16:56:21 GMT | Supercharge Your IT Support with ManageEngine ServiceDesk Plus | Northwindtech | [Read More](https://medium.com/p/d558a7966735) |
-| Tue, 06 May 2025 16:56:15 GMT | Not Everything Needs to Break You | Harshita Shukla | [Read More](https://medium.com/p/38f419fdc3c8) |
-| Tue, 06 May 2025 16:52:21 GMT | TryHackMe — Offensive Security Intro | ternera | [Read More](https://medium.com/p/d7d3b4c20dca) |
-| Tue, 06 May 2025 16:40:39 GMT | Bridging the Gap Between Network and Security Teams | Andre Fernandes | [Read More](https://medium.com/p/ceff1ba9b93a) |
