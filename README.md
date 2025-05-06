@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 07:15:08 GMT | How Hackers Exploit CORS Misconfigurations | Vipul Sonule | [Read More](https://medium.com/p/35a6c5d7e0c8) |
+| Tue, 06 May 2025 07:06:17 GMT | How to Measure Product Security Program Success: Top 10 Metrics That Matter | Chandan Bhattacharya | [Read More](https://medium.com/p/d7bc74c35b74) |
+| Tue, 06 May 2025 07:02:39 GMT | Easy2Patch April 26, 2025 Catalog Update: 29 New Software Releases Now Available! | Easy2Patch | [Read More](https://medium.com/p/055c1b3dfb4a) |
+| Tue, 06 May 2025 06:59:19 GMT | VulnHub: The Planets : Earth | Mrcool76 | [Read More](https://medium.com/p/988fb291a4a0) |
+| Tue, 06 May 2025 06:58:08 GMT | Essential Cybersecurity Practices for Businesses Today | Linkbuilding | [Read More](https://medium.com/p/b891d32ef2f9) |
+| Tue, 06 May 2025 06:51:23 GMT | How I Tamed Cursor AI to Write Perfect Code Every Time | S3CloudHub | [Read More](https://medium.com/p/ad57941412b0) |
 | Tue, 06 May 2025 06:46:37 GMT | The Daily Tech Digest: 06 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/dce947c35f7f) |
 | Tue, 06 May 2025 06:46:23 GMT | Proof of Concept > Proof of Experience | Isbeginner | [Read More](https://medium.com/p/92486b4251ba) |
 | Tue, 06 May 2025 06:38:04 GMT | Cyber & Physical Security: Mumbai’s Smart Future | United Guard Force India | [Read More](https://medium.com/p/c9dc800262ee) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 23:06:26 GMT | $500 Bounty for Reflected XSS on HackerOne | Monika sharma | [Read More](https://medium.com/p/29c13793bc91) |
 | Mon, 05 May 2025 23:04:51 GMT | Hacker’s Recon Guide: Tools & Tricks to Map Any Target | Vipul Sonule | [Read More](https://medium.com/p/f1e97d7bfdb6) |
 | Mon, 05 May 2025 23:03:54 GMT | Secrets HACKERS Don’t Want You to Know About OSINT! | Dhanush N | [Read More](https://medium.com/p/0db5a3e66943) |
-| Mon, 05 May 2025 22:56:25 GMT | Top 5 Cybersecurity Threats to Watch in 2025 — and How to Get Ready | Michael Siopa | [Read More](https://medium.com/p/95d9c097e461) |
-| Mon, 05 May 2025 22:37:25 GMT | The Unexpected Upside: Unleashing Creativity and Exploring Limits? | Majeztik SlumBoi / Julius Crawford | [Read More](https://medium.com/p/a244ab0eb661) |
-| Mon, 05 May 2025 22:35:18 GMT | Life Is Better Without Feelings | LarikHati | [Read More](https://medium.com/p/680df29f759c) |
-| Mon, 05 May 2025 22:32:20 GMT | Windows DPAPI Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/69af5169ffe8) |
-| Mon, 05 May 2025 22:27:01 GMT | TryHackMe: Python Basics Room Explained | Diego Lasarin | [Read More](https://medium.com/p/9eb2d37b7e7a) |
-| Mon, 05 May 2025 22:26:27 GMT | Building the Digital Fortress: The Next Chapter in my Story [WHO AM I — PART2] | Taher Amine, mMBA, CISSP-SME, CCISO, CMSA, ISOxx | [Read More](https://medium.com/p/695ddd41f608) |
