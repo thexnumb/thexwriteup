@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 21:11:11 GMT | Thirsty for love | Vanja Majin Ortiz Martinez | [Read More](https://medium.com/p/d48d5fae4eaa) |
+| Tue, 06 May 2025 21:11:10 GMT | ️ Fuzzing for Hackers: Write Your Own Fuzzer in Python & Get Started with AFL | Piyush | [Read More](https://medium.com/p/d375baf243d2) |
+| Tue, 06 May 2025 21:10:08 GMT | Zip Threats: What You Need to Know to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/5a6c201ea155) |
+| Tue, 06 May 2025 21:04:09 GMT | Comunidades emergentes | Hugo Alberto Guadarrama Sánchez | [Read More](https://medium.com/p/f19726f12334) |
+| Tue, 06 May 2025 21:03:18 GMT | Beyond the Buzz: Advanced Fuzzing Techniques and Real-World Impact | Piyush | [Read More](https://medium.com/p/5cf5e8fc275a) |
+| Tue, 06 May 2025 21:02:26 GMT | What is Threat Hunting and Why Every SME Should Care. | John Locke | [Read More](https://medium.com/p/003cf725524a) |
+| Tue, 06 May 2025 20:56:21 GMT | Rabbit Scams and RDGA Trickery: How Investment Fraudsters Are Outsmarting Victims in 2025 | Ismail Tasdelen | [Read More](https://medium.com/p/a787b14224dc) |
+| Tue, 06 May 2025 20:55:59 GMT | PROTECT YOUR DATA PRIVACY IN A DIGITALLY CONNECTED WORLD | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/20263055d6bb) |
+| Tue, 06 May 2025 20:53:37 GMT | CTF with CSRF involving referrer header | Arunoday Tiwari | [Read More](https://medium.com/p/186041e6b6b5) |
+| Tue, 06 May 2025 20:49:11 GMT | Neurocracked CTF Part Three: Neural Network Nexus | Tyler Wall | [Read More](https://medium.com/p/367f49a70902) |
+| Tue, 06 May 2025 20:47:35 GMT | When Trust Breaks Down: What Corewell’s Data Breaches Cost My Family | Neka D'Amico | [Read More](https://medium.com/p/397e3239a2a7) |
+| Tue, 06 May 2025 20:46:10 GMT | Neurocracked CTF Part Two: Whispers in the Shell | Tyler Wall | [Read More](https://medium.com/p/79716acd61c8) |
+| Tue, 06 May 2025 20:42:53 GMT | SEToolkit ile Phishing Saldırısı: Sosyal Mühendislik Pratiği | Sumeyra | [Read More](https://medium.com/p/407c5d556b96) |
+| Tue, 06 May 2025 20:41:48 GMT | Neurocracked CTF Part One: Upgrade Required | Tyler Wall | [Read More](https://medium.com/p/1321c04cf0e6) |
+| Tue, 06 May 2025 20:35:29 GMT | Colleagues, whether you are seeking advancement in your current company or looking to make a… | Franklin Rhodes | [Read More](https://medium.com/p/d3424d744044) |
 | Tue, 06 May 2025 20:32:46 GMT | Redis Has a Memory Problem and It’s Not Funny | Brendan Smith | [Read More](https://medium.com/p/dde229785a83) |
 | Tue, 06 May 2025 20:28:16 GMT | CSRF with broken referrer validation | Arunoday Tiwari | [Read More](https://medium.com/p/ead2c9dfc103) |
 | Tue, 06 May 2025 20:26:24 GMT | Do You Really TrustYour AI Generated Code? | Mossab Kbeisy | [Read More](https://medium.com/p/c914a19b7c70) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 15:49:37 GMT | A Beginner’s Guide to Securing Your Home Wi-Fi Network | M.D.Sandhiya | [Read More](https://medium.com/p/173777fc44a0) |
 | Tue, 06 May 2025 15:49:13 GMT | Turning a Zero Visibility Access Control to Zero Trust | Joshi | [Read More](https://medium.com/p/a16e9fcd8aa9) |
 | Tue, 06 May 2025 15:38:04 GMT | IDOR Allows Unauthorized Access to Other Users’ Personal Data | brbr0s | [Read More](https://medium.com/p/8f73486cbab0) |
-| Tue, 06 May 2025 15:37:32 GMT | POPIA: What South Africans Need to Know About Their Digital Privacy Rights. | Prince Moche | [Read More](https://medium.com/p/c8dbe46c0068) |
-| Tue, 06 May 2025 15:32:53 GMT | When Empathy Becomes a Burden | Crane Vision | [Read More](https://medium.com/p/6828861c2d3c) |
-| Tue, 06 May 2025 15:31:42 GMT | Plug, Boot, Vanish: How I Turned a USB Stick into a Portable Privacy Fortress | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/a1b14f7772ad) |
-| Tue, 06 May 2025 15:28:09 GMT | Secure Masculinity — A Legacy I grew up with | Shivali Sharma | [Read More](https://medium.com/p/c1c4c6dd1183) |
-| Tue, 06 May 2025 15:21:12 GMT | How I Built a One-Click Vulnerability Report Generator with Python | EL_Cazad0r | [Read More](https://medium.com/p/e61d87983d7b) |
-| Tue, 06 May 2025 15:12:55 GMT | ️ From Frustration to Triumph: How I Finally Conquered the ELK Stack | Manish Rawat | [Read More](https://medium.com/p/6097f9f413e9) |
-| Tue, 06 May 2025 15:05:50 GMT | Introduction to Asset -Data Classification | Igor Berner | [Read More](https://medium.com/p/ce263f061fe2) |
-| Tue, 06 May 2025 15:02:34 GMT | Is Your App Protected? The Branch API Vulnerability You Need to Know About | Mrunal chawda | [Read More](https://medium.com/p/d5eecee12c91) |
-| Tue, 06 May 2025 14:59:24 GMT | How I Found a Leaky .env File ☕ — And Why It’s a Big Deal | B4LOGI | [Read More](https://medium.com/p/8aa430e07e33) |
-| Tue, 06 May 2025 14:58:20 GMT | VULNUB-DC:1 WALKTHROUGH | Teja | [Read More](https://medium.com/p/81da97eb66ef) |
-| Tue, 06 May 2025 14:57:40 GMT | DevSecOps with DefectDojo and Github Actions with BEARER CLI, BANDIT CLI and SNYK Test | Nitesh Rijal | [Read More](https://medium.com/p/764fe5768432) |
-| Tue, 06 May 2025 14:57:03 GMT | You are the product. | Nathan | [Read More](https://medium.com/p/08bcf967566f) |
-| Tue, 06 May 2025 14:46:39 GMT | CMDB and Vulnerability Management: A Symbiotic Relationship | Maksim Goldenberg | [Read More](https://medium.com/p/49909e933014) |
-| Tue, 06 May 2025 14:44:26 GMT | TOP Ways Hackers Exploit Crypto Wallets and How to Avoid getting Drained. | Mevengine - Smart Crypto bots and Mev bots | [Read More](https://medium.com/p/271cf2168bbb) |
-| Tue, 06 May 2025 14:42:14 GMT | Zero Trust ile Regülasyonlara Uyum | Kutay Şenol | [Read More](https://medium.com/p/371abaa2b3c1) |
