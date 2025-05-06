@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 17:31:31 GMT | IP Subnetting Demystified | Thilakesh | [Read More](https://medium.com/p/4c4354153624) |
+| Tue, 06 May 2025 17:26:45 GMT | Defense Cybersecurity: Protecting National Security in the Digital Age | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/a07ec2c01669) |
+| Tue, 06 May 2025 17:26:34 GMT | Energy Cybersecurity: Safeguarding the Vital Arteries of Oil and Gas Infrastructure | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/84eafeb9b5f5) |
+| Tue, 06 May 2025 17:26:18 GMT | Agriculture Cybersecurity: Protecting the Foundations of Global Food Security | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/6fa62f77b61f) |
+| Tue, 06 May 2025 17:25:59 GMT | How I Found People Talking About CoinCollectExperts — And How They Helped Me Recover My Money | victoria grayson | [Read More](https://medium.com/p/e9cba7bbb859) |
+| Tue, 06 May 2025 17:23:23 GMT | The Automation vs. Human Analysis Debate in SOC Operations: Striking the Right Balance | Ninza-_-Boi | [Read More](https://medium.com/p/e223667a71d8) |
+| Tue, 06 May 2025 17:21:52 GMT | Enterprises Most Vulnerable Cybersecurity Blind Spots | Matthew.Rosenquist | [Read More](https://medium.com/p/d278f877be8f) |
+| Tue, 06 May 2025 17:17:49 GMT | A Man’s Quiet Longing | rashimJoshi | [Read More](https://medium.com/p/42220c916a21) |
 | Tue, 06 May 2025 17:10:28 GMT | Yeni Siber Güvenlik Yasası ve Ulusal Strateji Ne Getiriyor? | Bugraeren | [Read More](https://medium.com/p/e42f86a018c8) |
+| Tue, 06 May 2025 17:08:14 GMT | ️ Flask Under Attack? Not on My Watch! | Priyanshu Rajput | [Read More](https://medium.com/p/0a04b176e168) |
 | Tue, 06 May 2025 17:05:28 GMT | Digital Forensics- Mobile Forensics Analysis of Indeed | Korymckinney | [Read More](https://medium.com/p/afb3df6b6d7f) |
 | Tue, 06 May 2025 17:04:00 GMT | Why Is There a Shortage of Cybersecurity Professionals? | Shamsul Anam Emon | [Read More](https://medium.com/p/373e3fcc49de) |
 | Tue, 06 May 2025 17:00:29 GMT | Are Your Node.js Apps Safe? Shocking Security Flaws and Must-Know Best Practices for 2025 | Kanhaaggarwal | [Read More](https://medium.com/p/38fa6da4386a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 12:28:31 GMT | Exploring the ANRAN Advantage in CCTV Solutions | Longfellowelmina | [Read More](https://medium.com/p/ba8313fe0f82) |
 | Tue, 06 May 2025 12:26:00 GMT | Why API Security Testing Should Never Be an Afterthought | StrongBox IT | [Read More](https://medium.com/p/2379d149e819) |
 | Tue, 06 May 2025 12:18:59 GMT | Türkiye’nin Siber Güvenlik Vizyonu: Kanun ve Strateji Ekseninde 2025'e Doğru | Hiranur Gemalmaz | [Read More](https://medium.com/p/9567fa7c3220) |
-| Tue, 06 May 2025 12:16:37 GMT | Cybersecurity Lab Report: Simulation and Mitigation of a TCP SYN Flood Attack Using hping3 | Chioma Ezeonugo | [Read More](https://medium.com/p/0d1d96c30d66) |
-| Tue, 06 May 2025 12:14:38 GMT | Job Oriented Cyber Security Course in Delhi | Crawsec | [Read More](https://medium.com/p/b4dc374cd72c) |
-| Tue, 06 May 2025 12:13:53 GMT | Stop wasting your money for nothing (Especially when it’s not yours!) | Martin Abramov | [Read More](https://medium.com/p/b83ea9fa4c2d) |
-| Tue, 06 May 2025 12:13:43 GMT | Signs Your Business Needs a Red Team Engagement — Are You Vulnerable? | West Advanced Technologies Inc | [Read More](https://medium.com/p/93163ad79f58) |
-| Tue, 06 May 2025 12:09:09 GMT | How I Found Critical Flaws in a Medical SOAP API | om kumar | [Read More](https://medium.com/p/382233398015) |
-| Tue, 06 May 2025 12:07:18 GMT | IT Information UK: A Comprehensive Overview | ameliabreack | [Read More](https://medium.com/p/fb719d5cbbc1) |
-| Tue, 06 May 2025 12:06:44 GMT | This One Mistake Cost Google $100 Million | Shweta L | [Read More](https://medium.com/p/2d99380c6fe2) |
-| Tue, 06 May 2025 11:57:30 GMT | Carbanak Hackers’ $1 Billion Heist | M Yousuf Hussain | [Read More](https://medium.com/p/bd0e3271ddf5) |
-| Tue, 06 May 2025 11:53:50 GMT | How to Use Git and Azure CLI Behind a Corporate Proxy (Step-by-Step Guide) | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/0ca0abbeb8c8) |
