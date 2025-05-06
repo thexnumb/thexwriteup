@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 20:12:11 GMT | ARP Poisoning Saldırısı Nedir? Ettercap ile Uygulamalı Anlatım | Sumeyra | [Read More](https://medium.com/p/fad97b792054) |
+| Tue, 06 May 2025 20:08:03 GMT | Why My MacBook Warned Me About Weak Wi-Fi Security (WPA)? Let’s Understand Together! | Amitishacked | [Read More](https://medium.com/p/2e0b141c8036) |
+| Tue, 06 May 2025 19:52:46 GMT | Türkiye’de Siber Güvenlik Kanunu ve Siber Güvenlik Eylem Planı | Mevlüt Kaan Karakoç | [Read More](https://medium.com/p/92778c6c1a83) |
+| Tue, 06 May 2025 19:50:41 GMT | API Security in NextJs Application | electrooo | [Read More](https://medium.com/p/c71b9a795448) |
+| Tue, 06 May 2025 19:43:21 GMT | Why Vulnerability Is The New Success | Scott Asai | [Read More](https://medium.com/p/099c05d54509) |
 | Tue, 06 May 2025 19:36:18 GMT | The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2 | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/a7d8a69710ff) |
 | Tue, 06 May 2025 19:35:15 GMT | WordPress Security Posture: More Fragile Than You Think | AZ | [Read More](https://medium.com/p/15497115b435) |
 | Tue, 06 May 2025 19:31:58 GMT | Revisiting the Past, Hacking the Future | SIDDHANT SHUKLA | [Read More](https://medium.com/p/c3cae222858c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 14:34:34 GMT | H@cking Hospital For Mass PII Leak | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/85c3d89db434) |
 | Tue, 06 May 2025 14:33:53 GMT | The Hidden Dangers of Misconfigured Cloud Storage | Erkan Kavas | [Read More](https://medium.com/p/c9debc08f506) |
 | Tue, 06 May 2025 14:30:57 GMT | Blue team vs Red team — protect your smart contracts from both sides | Pavlo Horbonos | [Read More](https://medium.com/p/321145ff129e) |
-| Tue, 06 May 2025 14:29:08 GMT | I Found Bugs in 50+ Paid Bug Bounty Programs | Mehrabopi | [Read More](https://medium.com/p/5fcf88dbc761) |
-| Tue, 06 May 2025 14:26:20 GMT | Protocols and Servers 2 - TryHackMe Writeups - by DESYNC | DESYNC | [Read More](https://medium.com/p/381981eed5ba) |
-| Tue, 06 May 2025 14:23:39 GMT | Cyber Briefing: 2025.05.06 | CyberMaterial | [Read More](https://medium.com/p/7dc79652d275) |
-| Tue, 06 May 2025 14:22:06 GMT | Windows Activation Keys or Vidar Stealers hiding in plain sight?? | Praj Shete | [Read More](https://medium.com/p/5afccc2b5b34) |
-| Tue, 06 May 2025 14:21:23 GMT | Learning Cybersecurity the Fun Way Through Homelabs | Gracie Emmanuel | [Read More](https://medium.com/p/412e171dc986) |
