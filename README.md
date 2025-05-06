@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 04:31:44 GMT | CYBER SECURITY IN ARMED FORCES | The Hackers Meetup | [Read More](https://medium.com/p/d68f2433b4fd) |
+| Tue, 06 May 2025 04:25:32 GMT | Understanding Cryptography: How Your Crypto Wallets, Apps, and NFTs Stay Secure | unica 02 | [Read More](https://medium.com/p/97cccdd8bafe) |
 | Tue, 06 May 2025 04:14:04 GMT | HACK-ERA CTF — Intra University Round Walkthrough… | Rajneesh Kumar Arya | [Read More](https://medium.com/p/8d5ca27c1573) |
 | Tue, 06 May 2025 04:08:58 GMT | IT SERVICES | Devarshi Acharya | [Read More](https://medium.com/p/71ebee1e8359) |
 | Tue, 06 May 2025 04:04:23 GMT | mus1c - Writeup | Marvin | [Read More](https://medium.com/p/429fcf1f00ae) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 19:43:33 GMT | Build a Personal SIEM With n8n, Windows Logs, and OpenAI | Corey Jones | [Read More](https://medium.com/p/0d83ca11cfea) |
 | Mon, 05 May 2025 19:41:30 GMT | Establishing Identity as a Service (IDaaS): Key Mechanisms, Client Data, and Relying Party… | Quentin Wallace | [Read More](https://medium.com/p/13f14e7f6226) |
 | Mon, 05 May 2025 19:39:29 GMT | Türkiye’de Siber Güvenlik Kanunu ve Eylem Planı | Aslıhan Kuzucu | [Read More](https://medium.com/p/4be06e578542) |
-| Mon, 05 May 2025 19:38:48 GMT | Building a Real-World SOC Analyst Lab: Threat Detection, Response Automation & SIEM Integration | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/e8a4759646da) |
-| Mon, 05 May 2025 19:28:19 GMT | How to Harden WordPress Login Security Against Brute Force Attacks | Shubradeb | [Read More](https://medium.com/p/dee5f771754b) |
