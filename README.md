@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 10:26:47 GMT | Top Cyber Security Course in India — Upgrade Your Career in 2025 | Amaljoseph | [Read More](https://medium.com/p/a0b41b52c831) |
+| Tue, 06 May 2025 10:26:33 GMT | Closing Myrror — Part II: Technology (Mostly) Doesn’t Matter | Yoad Fekete | [Read More](https://medium.com/p/be1f6e94e8ac) |
+| Tue, 06 May 2025 10:13:57 GMT | Social Engineering: The Human Bug in the Cybersecurity System | Ankit Bose | [Read More](https://medium.com/p/03d4229a3337) |
 | Tue, 06 May 2025 10:11:57 GMT | IT OUTSOURCING | TabTree IT Consulting Company | [Read More](https://medium.com/p/13d6d2587d4b) |
 | Tue, 06 May 2025 10:07:59 GMT | Quantum Computing in Banking: New Fraud Detection Capabilities Explained | Joseph V Thomas | [Read More](https://medium.com/p/2e5ce55aff82) |
 | Tue, 06 May 2025 10:03:30 GMT | From Zero to Backdoor Hero: Mastering Firmware Emulation, Patching, and Covert Control | Horrow | [Read More](https://medium.com/p/cd672e20d86a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 04:01:45 GMT | Analysis of a APT36 Variant(Transparent Tribe) | Shubho57 | [Read More](https://medium.com/p/7d794c29c802) |
 | Tue, 06 May 2025 04:00:20 GMT | Highlights from WiDS TLV 2025 | Noa Lubin | [Read More](https://medium.com/p/8bb05024f318) |
 | Tue, 06 May 2025 03:55:24 GMT | Earn Passive Income with Bugs Bunny: The Smart Way | BUGS | [Read More](https://medium.com/p/6f4eb43b0f46) |
-| Tue, 06 May 2025 03:55:20 GMT | What Is SSL Pinning? A Simple Guide for Everyone | Shiv Shankar Tiwari | [Read More](https://medium.com/p/0e9d9c12b543) |
-| Tue, 06 May 2025 03:50:51 GMT | How VPNs Securely Connect Global Networks | James Neal | [Read More](https://medium.com/p/2e126ac6883f) |
-| Tue, 06 May 2025 03:45:40 GMT | The Best Advanced VPN Options For Complete Security | Melvin Erickson | [Read More](https://medium.com/p/1ee2593ca113) |
