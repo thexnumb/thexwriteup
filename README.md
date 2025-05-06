@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 11:06:17 GMT | The Impact of Tariffs on the Cybersecurity Market | Mahesh Tiwari | [Read More](https://medium.com/p/efbfb6650af9) |
+| Tue, 06 May 2025 11:06:01 GMT | Authentication bypass via information disclosure —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/93e7076cfd14) |
+| Tue, 06 May 2025 11:04:58 GMT | Oracle faced second cyberattack: Legacy systems breached, log-in data stolen? | hide.me VPN | [Read More](https://medium.com/p/32e975f28b40) |
+| Tue, 06 May 2025 11:02:51 GMT | Europol shuts down Kidflix: A global crackdown on dark web child exploitation | hide.me VPN | [Read More](https://medium.com/p/275e982651a4) |
+| Tue, 06 May 2025 11:01:39 GMT | Shamir’s Secret Sharing Scheme | Ashwin Notes | [Read More](https://medium.com/p/0c170b2cab1f) |
+| Tue, 06 May 2025 10:59:22 GMT | FAQs: Working with Elevate for Your IT Needs | Elevate | [Read More](https://medium.com/p/76c6153848e5) |
+| Tue, 06 May 2025 10:54:24 GMT | I Found a Massive Cross-Tenant Access Control Bug by Testing Multiple Roles — Here’s What I Learned! | Whoami | [Read More](https://medium.com/p/ed9c7b7f8b92) |
+| Tue, 06 May 2025 10:54:00 GMT | Security Robots Germany | Presslink Media | [Read More](https://medium.com/p/5d12e781cc9e) |
+| Tue, 06 May 2025 10:48:11 GMT | When We Say ‘I’m Fine’ — But Mean ‘Please Stay’ | S. Thorn | [Read More](https://medium.com/p/65e5817d0774) |
 | Tue, 06 May 2025 10:26:47 GMT | Top Cyber Security Course in India — Upgrade Your Career in 2025 | Amaljoseph | [Read More](https://medium.com/p/a0b41b52c831) |
 | Tue, 06 May 2025 10:26:33 GMT | Closing Myrror — Part II: Technology (Mostly) Doesn’t Matter | Yoad Fekete | [Read More](https://medium.com/p/be1f6e94e8ac) |
 | Tue, 06 May 2025 10:13:57 GMT | Social Engineering: The Human Bug in the Cybersecurity System | Ankit Bose | [Read More](https://medium.com/p/03d4229a3337) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 04:51:54 GMT | Build a Smarter, Faster Network for Your Business | R&B Networks | [Read More](https://medium.com/p/7a8d9d4b50e3) |
 | Tue, 06 May 2025 04:45:57 GMT | Frida detection bypass; How your error messages help hackers. | sai9t | [Read More](https://medium.com/p/6b492ec655ef) |
 | Tue, 06 May 2025 04:37:23 GMT | ¿QA para qué?/QA for what? | Estanislao Zubiri | [Read More](https://medium.com/p/e88181b4da7e) |
-| Tue, 06 May 2025 04:33:48 GMT | Why Ethical Hacking Summer Training and VAPT Internships Are a Must for IT Students | Maya Dhavale | [Read More](https://medium.com/p/93178bc4865c) |
-| Tue, 06 May 2025 04:31:44 GMT | CYBER SECURITY IN ARMED FORCES | The Hackers Meetup | [Read More](https://medium.com/p/d68f2433b4fd) |
-| Tue, 06 May 2025 04:25:32 GMT | Understanding Cryptography: How Your Crypto Wallets, Apps, and NFTs Stay Secure | unica 02 | [Read More](https://medium.com/p/97cccdd8bafe) |
-| Tue, 06 May 2025 04:14:04 GMT | HACK-ERA CTF — Intra University Round Walkthrough… | Rajneesh Kumar Arya | [Read More](https://medium.com/p/8d5ca27c1573) |
-| Tue, 06 May 2025 04:08:58 GMT | IT SERVICES | Devarshi Acharya | [Read More](https://medium.com/p/71ebee1e8359) |
-| Tue, 06 May 2025 04:04:23 GMT | mus1c - Writeup | Marvin | [Read More](https://medium.com/p/429fcf1f00ae) |
-| Tue, 06 May 2025 04:01:45 GMT | Analysis of a APT36 Variant(Transparent Tribe) | Shubho57 | [Read More](https://medium.com/p/7d794c29c802) |
-| Tue, 06 May 2025 04:00:20 GMT | Highlights from WiDS TLV 2025 | Noa Lubin | [Read More](https://medium.com/p/8bb05024f318) |
-| Tue, 06 May 2025 03:55:24 GMT | Earn Passive Income with Bugs Bunny: The Smart Way | BUGS | [Read More](https://medium.com/p/6f4eb43b0f46) |
