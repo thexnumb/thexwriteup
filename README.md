@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 09:29:37 GMT | Exploring Course Content in a Cyber Security Program in Delhi | GICSEH | [Read More](https://medium.com/p/1f17f87702ed) |
+| Tue, 06 May 2025 09:28:12 GMT | Signal Clone App Used By Trump Official Suspended After a Hack | SafetyDetectives Research Team | [Read More](https://medium.com/p/3b6966b83bc1) |
+| Tue, 06 May 2025 09:20:06 GMT | OAuth Integration Hijack via Predictable state Parameter | Kariiem Gamal | [Read More](https://medium.com/p/facdae83e6b6) |
 | Tue, 06 May 2025 09:14:00 GMT | The Great Firewall of China: Behind The Wall | Md. Shefayer Ahmed | [Read More](https://medium.com/p/a5c745b9f11a) |
 | Tue, 06 May 2025 09:09:33 GMT | Splunk Boss of the SOC: Investigating an APT with Splunk | Shivramolia | [Read More](https://medium.com/p/e83a8ebd13af) |
 | Tue, 06 May 2025 09:07:50 GMT | How to Secure Your Applications and APIs in a Cloud-Native World? | CyRAACS | [Read More](https://medium.com/p/4ae0567396f7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 03:06:33 GMT | The Illusion of Security: Why Strong Passwords Alone Are No Longer Enough | Kevin Alosius  James | [Read More](https://medium.com/p/fc089524ba1b) |
 | Tue, 06 May 2025 03:02:13 GMT | Hacking APIs: Server-Side Parameter Pollution 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/97a155c85029) |
 | Tue, 06 May 2025 02:58:50 GMT | Kenapa Kita Selalu Klik “Setuju” | Fadhil Pratama | [Read More](https://medium.com/p/3b0af4698ef2) |
-| Tue, 06 May 2025 02:55:15 GMT | Tuesday Morning Threat Report: May 6, 2025 | Mark Maguire | [Read More](https://medium.com/p/3b58f004ef3e) |
-| Tue, 06 May 2025 02:50:42 GMT | What do I do with an OAuth token? | Kunal Sinha | [Read More](https://medium.com/p/e7edd332fafb) |
-| Tue, 06 May 2025 02:48:29 GMT | ‍☠️ CVE-2023–36874: Popping Admin on Windows the Hacker Way | Kenneth Nevers | [Read More](https://medium.com/p/287ab7edf2ba) |
