@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 04:14:04 GMT | HACK-ERA CTF — Intra University Round Walkthrough… | Rajneesh Kumar Arya | [Read More](https://medium.com/p/8d5ca27c1573) |
+| Tue, 06 May 2025 04:08:58 GMT | IT SERVICES | Devarshi Acharya | [Read More](https://medium.com/p/71ebee1e8359) |
+| Tue, 06 May 2025 04:04:23 GMT | mus1c - Writeup | Marvin | [Read More](https://medium.com/p/429fcf1f00ae) |
+| Tue, 06 May 2025 04:01:45 GMT | Analysis of a APT36 Variant(Transparent Tribe) | Shubho57 | [Read More](https://medium.com/p/7d794c29c802) |
+| Tue, 06 May 2025 04:00:20 GMT | Highlights from WiDS TLV 2025 | Noa Lubin | [Read More](https://medium.com/p/8bb05024f318) |
+| Tue, 06 May 2025 03:55:24 GMT | Earn Passive Income with Bugs Bunny: The Smart Way | BUGS | [Read More](https://medium.com/p/6f4eb43b0f46) |
+| Tue, 06 May 2025 03:55:20 GMT | What Is SSL Pinning? A Simple Guide for Everyone | Shiv Shankar Tiwari | [Read More](https://medium.com/p/0e9d9c12b543) |
+| Tue, 06 May 2025 03:50:51 GMT | How VPNs Securely Connect Global Networks | James Neal | [Read More](https://medium.com/p/2e126ac6883f) |
+| Tue, 06 May 2025 03:45:40 GMT | The Best Advanced VPN Options For Complete Security | Melvin Erickson | [Read More](https://medium.com/p/1ee2593ca113) |
+| Tue, 06 May 2025 03:45:27 GMT | Secure Your NestJS App with Two-Factor Authentication: A Step-by-Step Guide | Vatcharat R. | [Read More](https://medium.com/p/c2593084f0af) |
 | Tue, 06 May 2025 03:41:30 GMT | ANTHEM— THM CTF — WRITEUP | 5kullk3r | [Read More](https://medium.com/p/2e8a7bd9b80a) |
 | Tue, 06 May 2025 03:41:21 GMT | Configuring Static IP and Network Connectivity Between Windows and Linux VMs | Adrian Gonzalez | [Read More](https://medium.com/p/93284ffd43fc) |
 | Tue, 06 May 2025 03:32:30 GMT | Linkerd on AKS: Advanced Traffic Management & Real-World Patterns (Part 3) | Sridhar | [Read More](https://medium.com/p/1ae9d197ea21) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 19:39:29 GMT | Türkiye’de Siber Güvenlik Kanunu ve Eylem Planı | Aslıhan Kuzucu | [Read More](https://medium.com/p/4be06e578542) |
 | Mon, 05 May 2025 19:38:48 GMT | Building a Real-World SOC Analyst Lab: Threat Detection, Response Automation & SIEM Integration | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/e8a4759646da) |
 | Mon, 05 May 2025 19:28:19 GMT | How to Harden WordPress Login Security Against Brute Force Attacks | Shubradeb | [Read More](https://medium.com/p/dee5f771754b) |
-| Mon, 05 May 2025 19:27:20 GMT | Cybersecurity in Quantum Computing: Challenges and Opportunities | Paul Leongas | [Read More](https://medium.com/p/45563996be6a) |
-| Mon, 05 May 2025 19:26:16 GMT | Part 2: Identity Federation in Multi-Cloud — Governance & Oversight Failures | Karlmarx Karunanithi | [Read More](https://medium.com/p/9d8efb804f60) |
-| Mon, 05 May 2025 19:22:59 GMT | How to Secure SSH Access to Your Linux Server | Hizam Alaklbi | [Read More](https://medium.com/p/5374f835fcf5) |
-| Mon, 05 May 2025 19:21:37 GMT | Tryhackme Ledger write-up | 14thprince | [Read More](https://medium.com/p/cbdb088ec9c4) |
-| Mon, 05 May 2025 19:12:40 GMT | BehindTheScreens: Breaches, Backlashes, and the Battle for AI Security | Sam Achek | [Read More](https://medium.com/p/9e82da0785d7) |
-| Mon, 05 May 2025 19:12:17 GMT | #OpISIS: Hacktivism and the New Era of Counterterrorism | Taryn Murphy | [Read More](https://medium.com/p/8c852ba38c95) |
-| Mon, 05 May 2025 19:01:01 GMT | TryHackMe: Search Skills Room Explained | Diego Lasarin | [Read More](https://medium.com/p/e4c5114eadf9) |
-| Mon, 05 May 2025 18:57:41 GMT | Can your web application survive contemporary cybersecurity threats? | Yogesh V Malvankar | [Read More](https://medium.com/p/4450d164171a) |
-| Mon, 05 May 2025 18:56:21 GMT | How safe is your mobile app ecosystem? | Yogesh V Malvankar | [Read More](https://medium.com/p/d7895771fe5f) |
-| Mon, 05 May 2025 18:54:51 GMT | APIs are critical to the functioning of modern data applications; however, they are also highly… | Yogesh V Malvankar | [Read More](https://medium.com/p/6b696fe80324) |
