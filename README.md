@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 09:14:00 GMT | The Great Firewall of China: Behind The Wall | Md. Shefayer Ahmed | [Read More](https://medium.com/p/a5c745b9f11a) |
+| Tue, 06 May 2025 09:09:33 GMT | Splunk Boss of the SOC: Investigating an APT with Splunk | Shivramolia | [Read More](https://medium.com/p/e83a8ebd13af) |
+| Tue, 06 May 2025 09:07:50 GMT | How to Secure Your Applications and APIs in a Cloud-Native World? | CyRAACS | [Read More](https://medium.com/p/4ae0567396f7) |
 | Tue, 06 May 2025 08:46:24 GMT | Remote Desktop Puzzle: The Overlooked RDP Vulnerability That Could Expose Your Entire Network | Infoziant | [Read More](https://medium.com/p/bd04cd0756ef) |
 | Tue, 06 May 2025 08:42:16 GMT | Smart cars are transforming the way we drive, offering a realm of convenience and advanced… | Techzonego | [Read More](https://medium.com/p/476cba03736a) |
 | Tue, 06 May 2025 08:40:13 GMT | Network Security Testing Market Forecast: Emerging Trends and Growth Drivers Through 2031 | Harsh Mehta | [Read More](https://medium.com/p/3dcf141cbd60) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 02:55:15 GMT | Tuesday Morning Threat Report: May 6, 2025 | Mark Maguire | [Read More](https://medium.com/p/3b58f004ef3e) |
 | Tue, 06 May 2025 02:50:42 GMT | What do I do with an OAuth token? | Kunal Sinha | [Read More](https://medium.com/p/e7edd332fafb) |
 | Tue, 06 May 2025 02:48:29 GMT | ‍☠️ CVE-2023–36874: Popping Admin on Windows the Hacker Way | Kenneth Nevers | [Read More](https://medium.com/p/287ab7edf2ba) |
-| Tue, 06 May 2025 02:36:22 GMT | Application Security in 2025: A CISO’s Strategic Playbook | Cyber-AppSec | [Read More](https://medium.com/p/f11d4bd8ae82) |
-| Tue, 06 May 2025 02:23:29 GMT | From the School District Files: New Threats, but This Time It Wasn’t the Students | Andre Fernandes | [Read More](https://medium.com/p/f1cc2a8f77b0) |
-| Tue, 06 May 2025 02:21:12 GMT | Building a Virtualized Lab with pfSense, Active Directory, and Network Security | Endoisshy | [Read More](https://medium.com/p/b1325bbcb8d1) |
