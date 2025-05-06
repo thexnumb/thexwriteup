@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 17:10:28 GMT | Yeni Siber Güvenlik Yasası ve Ulusal Strateji Ne Getiriyor? | Bugraeren | [Read More](https://medium.com/p/e42f86a018c8) |
+| Tue, 06 May 2025 17:05:28 GMT | Digital Forensics- Mobile Forensics Analysis of Indeed | Korymckinney | [Read More](https://medium.com/p/afb3df6b6d7f) |
+| Tue, 06 May 2025 17:04:00 GMT | Why Is There a Shortage of Cybersecurity Professionals? | Shamsul Anam Emon | [Read More](https://medium.com/p/373e3fcc49de) |
+| Tue, 06 May 2025 17:00:29 GMT | Are Your Node.js Apps Safe? Shocking Security Flaws and Must-Know Best Practices for 2025 | Kanhaaggarwal | [Read More](https://medium.com/p/38fa6da4386a) |
+| Tue, 06 May 2025 16:59:51 GMT | Android App Security: Step-by-Step Penetration Testing Tutorial Part-4 | Gokul | [Read More](https://medium.com/p/5adbef4d64c8) |
+| Tue, 06 May 2025 16:59:26 GMT | Why Do IoT Devices Pose a Cybersecurity Risk? | Shamsul Anam Emon | [Read More](https://medium.com/p/f75dbfa07cd6) |
+| Tue, 06 May 2025 16:58:12 GMT | API Security: Protecting Digital Gateways | Gayathiri Muralitharan | [Read More](https://medium.com/p/23d8368348a4) |
+| Tue, 06 May 2025 16:56:21 GMT | Supercharge Your IT Support with ManageEngine ServiceDesk Plus | Northwindtech | [Read More](https://medium.com/p/d558a7966735) |
+| Tue, 06 May 2025 16:56:15 GMT | Not Everything Needs to Break You | Harshita Shukla | [Read More](https://medium.com/p/38f419fdc3c8) |
+| Tue, 06 May 2025 16:52:21 GMT | TryHackMe — Offensive Security Intro | ternera | [Read More](https://medium.com/p/d7d3b4c20dca) |
 | Tue, 06 May 2025 16:40:39 GMT | Bridging the Gap Between Network and Security Teams | Andre Fernandes | [Read More](https://medium.com/p/ceff1ba9b93a) |
+| Tue, 06 May 2025 16:40:27 GMT | Fear the Follow-Up? When the Spotlight Fades, Are the Right Questions Still Being Asked? | Scott Hill | [Read More](https://medium.com/p/46bde9607e4b) |
 | Tue, 06 May 2025 16:34:31 GMT | TryHackMe - Evading Logging and Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/bd9dcaf9a20f) |
 | Tue, 06 May 2025 16:29:35 GMT | TryHackMe — Wgel CTF write-up | Firhansanad | [Read More](https://medium.com/p/6222b3e8287e) |
 | Tue, 06 May 2025 16:28:26 GMT | Things I Wish I Knew When I Started My Career in Tech | Jaya Vishwakarma | [Read More](https://medium.com/p/675841d67973) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 12:06:44 GMT | This One Mistake Cost Google $100 Million | Shweta L | [Read More](https://medium.com/p/2d99380c6fe2) |
 | Tue, 06 May 2025 11:57:30 GMT | Carbanak Hackers’ $1 Billion Heist | M Yousuf Hussain | [Read More](https://medium.com/p/bd0e3271ddf5) |
 | Tue, 06 May 2025 11:53:50 GMT | How to Use Git and Azure CLI Behind a Corporate Proxy (Step-by-Step Guide) | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/0ca0abbeb8c8) |
-| Tue, 06 May 2025 11:35:58 GMT | Unpacking an Obfuscated AutoIt Malware Campaign Delivering Lumma Stealer | Imane Ismail | [Read More](https://medium.com/p/39728fa4db60) |
-| Tue, 06 May 2025 11:30:27 GMT | What is an AI app and why is it important? | Jassy bella | [Read More](https://medium.com/p/22f0336304f5) |
-| Tue, 06 May 2025 11:29:46 GMT | Cisco Launches Foundation-sec-8B: The First Open-Source AI Model Designed Specifically for… | BestAI | [Read More](https://medium.com/p/8cd9e76dedb8) |
-| Tue, 06 May 2025 11:18:48 GMT | The Role of CISOs and Boardroom Leaders in Building a Strong Security Culture | Sarah Atuaka | [Read More](https://medium.com/p/912d30cbfc99) |
-| Tue, 06 May 2025 11:15:52 GMT | Disaster Recovery vs. Total Loss Recovery: Preparing for the Worst in a Cyber Attack | Jeff Cechinel | [Read More](https://medium.com/p/7ca98d419450) |
-| Tue, 06 May 2025 11:06:17 GMT | The Impact of Tariffs on the Cybersecurity Market | Mahesh Tiwari | [Read More](https://medium.com/p/efbfb6650af9) |
-| Tue, 06 May 2025 11:06:01 GMT | Authentication bypass via information disclosure —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/93e7076cfd14) |
-| Tue, 06 May 2025 11:04:58 GMT | Oracle faced second cyberattack: Legacy systems breached, log-in data stolen? | hide.me VPN | [Read More](https://medium.com/p/32e975f28b40) |
-| Tue, 06 May 2025 11:02:51 GMT | Europol shuts down Kidflix: A global crackdown on dark web child exploitation | hide.me VPN | [Read More](https://medium.com/p/275e982651a4) |
-| Tue, 06 May 2025 11:01:39 GMT | Shamir’s Secret Sharing Scheme | Ashwin Notes | [Read More](https://medium.com/p/0c170b2cab1f) |
-| Tue, 06 May 2025 10:59:22 GMT | FAQs: Working with Elevate for Your IT Needs | Elevate | [Read More](https://medium.com/p/76c6153848e5) |
