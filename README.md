@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 03:41:30 GMT | ANTHEM— THM CTF — WRITEUP | 5kullk3r | [Read More](https://medium.com/p/2e8a7bd9b80a) |
+| Tue, 06 May 2025 03:41:21 GMT | Configuring Static IP and Network Connectivity Between Windows and Linux VMs | Adrian Gonzalez | [Read More](https://medium.com/p/93284ffd43fc) |
+| Tue, 06 May 2025 03:32:30 GMT | Linkerd on AKS: Advanced Traffic Management & Real-World Patterns (Part 3) | Sridhar | [Read More](https://medium.com/p/1ae9d197ea21) |
+| Tue, 06 May 2025 03:32:30 GMT | The ₹2 Lakh WhatsApp Image Scam: How One Click Can Empty Your Bank Account | Deven Chhajed | [Read More](https://medium.com/p/b7c1efec794c) |
+| Tue, 06 May 2025 03:32:30 GMT | Top Applications of Cyber-Physical Systems in Manufacturing: Today and Shaping the Future | Data Defendere | [Read More](https://medium.com/p/99e3c4011440) |
+| Tue, 06 May 2025 03:15:09 GMT | AWS IAM: Understanding Allow vs Deny | Eramarinfo | [Read More](https://medium.com/p/5546c703c977) |
 | Tue, 06 May 2025 03:06:33 GMT | The Illusion of Security: Why Strong Passwords Alone Are No Longer Enough | Kevin Alosius  James | [Read More](https://medium.com/p/fc089524ba1b) |
+| Tue, 06 May 2025 03:02:13 GMT | Hacking APIs: Server-Side Parameter Pollution 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/97a155c85029) |
 | Tue, 06 May 2025 02:58:50 GMT | Kenapa Kita Selalu Klik “Setuju” | Fadhil Pratama | [Read More](https://medium.com/p/3b0af4698ef2) |
 | Tue, 06 May 2025 02:55:15 GMT | Tuesday Morning Threat Report: May 6, 2025 | Mark Maguire | [Read More](https://medium.com/p/3b58f004ef3e) |
 | Tue, 06 May 2025 02:50:42 GMT | What do I do with an OAuth token? | Kunal Sinha | [Read More](https://medium.com/p/e7edd332fafb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 18:57:41 GMT | Can your web application survive contemporary cybersecurity threats? | Yogesh V Malvankar | [Read More](https://medium.com/p/4450d164171a) |
 | Mon, 05 May 2025 18:56:21 GMT | How safe is your mobile app ecosystem? | Yogesh V Malvankar | [Read More](https://medium.com/p/d7895771fe5f) |
 | Mon, 05 May 2025 18:54:51 GMT | APIs are critical to the functioning of modern data applications; however, they are also highly… | Yogesh V Malvankar | [Read More](https://medium.com/p/6b696fe80324) |
-| Mon, 05 May 2025 18:53:04 GMT | Your endpoints are the new perimeter – are they secure enough? | Yogesh V Malvankar | [Read More](https://medium.com/p/2403b41c8c84) |
-| Mon, 05 May 2025 18:51:14 GMT | Is Your Wi-Fi Network Secure or Only Password Protected? | Yogesh V Malvankar | [Read More](https://medium.com/p/d59e9da1363c) |
-| Mon, 05 May 2025 18:48:18 GMT | They Got ARRESTED Smuggling ANTS Out of Kenya?! 1000 Ants Sell for Jaw-Dropping $220,000! | Supreeth Nagella | [Read More](https://medium.com/p/b5cebc379743) |
-| Mon, 05 May 2025 18:45:36 GMT | Are your vital assets threatened without your consent? | Yogesh V Malvankar | [Read More](https://medium.com/p/4767235ca152) |
-| Mon, 05 May 2025 18:43:07 GMT | Connecting to TryHackMe with OpenVPN: A Beginner’s Guide | Byte-Sized Security | [Read More](https://medium.com/p/a4e386a7ec82) |
-| Mon, 05 May 2025 18:42:27 GMT | Deepfake Danger: When Technology Loses Its Moral Compass | MATHANAM.S | [Read More](https://medium.com/p/4f0e3c9cea90) |
-| Mon, 05 May 2025 18:41:42 GMT | I Kept Missing Concert Tickets — So I Built an Android Bot to Buy Them for Me | Balazs Banto | [Read More](https://medium.com/p/0bd370ebd6d5) |
