@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 May 2025 06:46:37 GMT | The Daily Tech Digest: 06 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/dce947c35f7f) |
+| Tue, 06 May 2025 06:46:23 GMT | Proof of Concept > Proof of Experience | Isbeginner | [Read More](https://medium.com/p/92486b4251ba) |
+| Tue, 06 May 2025 06:38:04 GMT | Cyber & Physical Security: Mumbai’s Smart Future | United Guard Force India | [Read More](https://medium.com/p/c9dc800262ee) |
+| Tue, 06 May 2025 06:37:18 GMT | Love: The Best Feeling Ever… | Anshika Mittal | [Read More](https://medium.com/p/f431397c4bf2) |
+| Tue, 06 May 2025 06:36:47 GMT | Shift Left Testing | Rashid Alakbarov | [Read More](https://medium.com/p/a9293d520eaa) |
+| Tue, 06 May 2025 06:36:43 GMT | Protocols and Servers - TryHackMe Writeups - by DESYNC | DESYNC | [Read More](https://medium.com/p/d4dd5e7f2c4b) |
+| Tue, 06 May 2025 06:23:48 GMT | Tiny Tech, Big Impact: The Rise of BPS Pressure Sensors in a Smart World | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/0523e39249be) |
 | Tue, 06 May 2025 06:18:05 GMT | Silent Killers: How Dark Web Operators Penetrate Businesses & How to Fortify Your Defenses | Olusegun Awolola | [Read More](https://medium.com/p/58643ef39ba5) |
 | Tue, 06 May 2025 06:16:13 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 4: Custom Resources | Infralovers GmbH | [Read More](https://medium.com/p/8d51de61d760) |
 | Tue, 06 May 2025 06:13:34 GMT | 10 Essential Skills Every Data Analyst Needs in 2025 (And How to Build Them) | Prism HRC | [Read More](https://medium.com/p/52752a5433de) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 May 2025 22:32:20 GMT | Windows DPAPI Fundamentals | Tom O'Neill | [Read More](https://medium.com/p/69af5169ffe8) |
 | Mon, 05 May 2025 22:27:01 GMT | TryHackMe: Python Basics Room Explained | Diego Lasarin | [Read More](https://medium.com/p/9eb2d37b7e7a) |
 | Mon, 05 May 2025 22:26:27 GMT | Building the Digital Fortress: The Next Chapter in my Story [WHO AM I — PART2] | Taher Amine, mMBA, CISSP-SME, CCISO, CMSA, ISOxx | [Read More](https://medium.com/p/695ddd41f608) |
-| Mon, 05 May 2025 22:17:32 GMT | Understanding the Role of a CISO in Protecting Your Organization’s Cybersecurity | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8f5d952f8725) |
-| Mon, 05 May 2025 22:11:52 GMT | $2,900 Bounty: How I Bypassed 2FA via Facebook SSO on a Private Program at HackerOne | Ali Hassan Khan | [Read More](https://medium.com/p/fac7b900cc5d) |
-| Mon, 05 May 2025 22:07:45 GMT | Cyber Risk Scenarios: Leveraging LLMs and the CLEAR Model to Define and Assess Cyber Risks… | Juan Pablo Castro | [Read More](https://medium.com/p/56863981332d) |
-| Mon, 05 May 2025 22:05:07 GMT | How I Passed the Certified Ethical Hacker Exam! | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/8d974d21bcd1) |
-| Mon, 05 May 2025 21:52:02 GMT | The Pain of Mediocrity | Tiefgang & Tamtam | [Read More](https://medium.com/p/18bfede1151c) |
-| Mon, 05 May 2025 21:51:27 GMT | Understanding the Mosquito Lifecycle (and How to Break It) | MR B | [Read More](https://medium.com/p/99445d076d16) |
-| Mon, 05 May 2025 21:50:45 GMT | How I Bypassed a Forbidden (403) Page to Access Exposed Apache Server-Status – HackerOne | Ali Hassan Khan | [Read More](https://medium.com/p/912cff5eed0a) |
