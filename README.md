@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 20:12:13 GMT | Think Your Password Is Safe? I Cracked 100 in 24 Hours — Here’s How | All in One security | [Read More](https://medium.com/p/f6551401b200) |
+| Wed, 07 May 2025 19:57:32 GMT | Offsec →Cran Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/d91dde3e90a7) |
+| Wed, 07 May 2025 19:55:42 GMT | OttoKit WordPress Plugin Exploit Hackers Create Rogue Admin Account | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/7e654c49e719) |
+| Wed, 07 May 2025 19:54:56 GMT | The Dark Web: How to Use It and What You Will Find | Laura Maldonado | [Read More](https://medium.com/p/0fe5e2df8d5d) |
+| Wed, 07 May 2025 19:46:49 GMT | Offsec →Press Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/9203f82ee925) |
+| Wed, 07 May 2025 19:44:54 GMT | Zero Day in Plain Sight: How PLAY Ransomware Exploited a Windows Logging Vulnerability | Chetan Seripally | [Read More](https://medium.com/p/090f703c1351) |
+| Wed, 07 May 2025 19:39:48 GMT | Rejection, Attraction, and the Quiet Freedom of Acceptance | Harvey Gitonga Kinyua | [Read More](https://medium.com/p/1ca56f221435) |
+| Wed, 07 May 2025 19:39:12 GMT | The Disarmed Defender: A Security Failure on U.S. Military Bases | Brandon Dewater | [Read More](https://medium.com/p/ffa1e30eaaff) |
+| Wed, 07 May 2025 19:36:38 GMT | Building an Enterprise-Grade AWS CI/CD Pipeline with Terraform | Shivanshu Sharma | [Read More](https://medium.com/p/5a2adee1a3ec) |
+| Wed, 07 May 2025 19:36:34 GMT | CAPTCHA Scams: How Phishing Attacks Are Using Fake CAPTCHAs to Trick You | Akshay Chauhan | [Read More](https://medium.com/p/579bafd3d46c) |
+| Wed, 07 May 2025 19:36:07 GMT | Loving without a word. | Nimi | [Read More](https://medium.com/p/a95f9f299520) |
+| Wed, 07 May 2025 19:27:45 GMT | SOC167 — LS Command Detected in Requested URL | CyberSicko | [Read More](https://medium.com/p/45e7daa509ac) |
+| Wed, 07 May 2025 19:24:42 GMT | NSO Group Ordered to Pay $168 Million Over WhatsApp Pegasus Spyware Attacks | CyDhaal | [Read More](https://medium.com/p/02858d4da66a) |
 | Wed, 07 May 2025 19:23:43 GMT | Offsec → Slow walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/b1f5e99c4229) |
 | Wed, 07 May 2025 19:20:46 GMT | DAM (Database Activity Monitoring) Nedir? Neden Kurumlar için Hayati Öneme Sahiptir? | Hibdilek | [Read More](https://medium.com/p/9f71626f2781) |
 | Wed, 07 May 2025 19:16:08 GMT | Europol Dismantles Six Major DDoS-for-Hire Platforms in Global Crackdown | CyDhaal | [Read More](https://medium.com/p/30bb35f99af5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 14:18:28 GMT | A Story of Lonely Slices | Karuppasamy P | [Read More](https://medium.com/p/e97662fd7514) |
 | Wed, 07 May 2025 14:17:52 GMT | In future wars, the first missile won’t fly-it will be coded. | Rathinavel M.S | [Read More](https://medium.com/p/cca27bde3cb4) |
 | Wed, 07 May 2025 14:17:30 GMT | [solved] Firewalld disable AllowZoneDrifting | Johan Louwers | [Read More](https://medium.com/p/04b2205b76ce) |
-| Wed, 07 May 2025 14:17:09 GMT | Why Everyone Should Learn SQL (And How to Start) | Dhanush N | [Read More](https://medium.com/p/034ae994f747) |
-| Wed, 07 May 2025 14:14:46 GMT | HTB Editorial Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/055fed9a2bed) |
-| Wed, 07 May 2025 14:13:24 GMT | Check Fraud Scam | Internet Exposed | [Read More](https://medium.com/p/56ec0036129c) |
-| Wed, 07 May 2025 14:12:40 GMT | 100 Must-Know PowerShell Commands for Cybersecurity | Bl@ckC!pH3r | [Read More](https://medium.com/p/6118b5eb3da0) |
-| Wed, 07 May 2025 14:09:49 GMT | Splunk HEC Bahasa Indonesia | ZXVE | [Read More](https://medium.com/p/cf5ca20ec734) |
-| Wed, 07 May 2025 14:05:49 GMT | The FCC Move that Could Shut Down China’s Backdoor Access to U.S. Telecom Infrastructure | National Security Institute | [Read More](https://medium.com/p/dc43b7c9c6d2) |
-| Wed, 07 May 2025 14:05:33 GMT | LetsDefend Web Attacks 2: Detecting and Solving Attacks with Real Log Files | CyberSam | [Read More](https://medium.com/p/beaf85e74dd0) |
-| Wed, 07 May 2025 14:02:41 GMT | How a cybersecurity conference sent me into an existential career crisis | Cup of Nonfiction | [Read More](https://medium.com/p/1bd3e57e5adc) |
-| Wed, 07 May 2025 14:00:16 GMT | Cyber Briefing: 2025.05.07 | CyberMaterial | [Read More](https://medium.com/p/49d306efa447) |
-| Wed, 07 May 2025 13:55:55 GMT | Why Hire Veterans for Entry-Level Cybersecurity Jobs? | Shamsul Anam Emon | [Read More](https://medium.com/p/e6ff2dd1c885) |
-| Wed, 07 May 2025 13:54:47 GMT | Quantum Computing and Cryptocurrency: Navigating the Impending Paradigm Shift with Todd Kassal… | Todd Kassal | [Read More](https://medium.com/p/39dc562c4ef8) |
-| Wed, 07 May 2025 13:51:53 GMT | Security Service updates at Google Cloud Next 2025 | pict3 | [Read More](https://medium.com/p/072e03f1a302) |
-| Wed, 07 May 2025 13:48:26 GMT | Top 5 Emerging Trends in Cargo Fraud and Theft: How to Stay Ahead in 2025 | Demitri Malinski | [Read More](https://medium.com/p/e40475004071) |
