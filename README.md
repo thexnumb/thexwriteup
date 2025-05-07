@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 08:37:38 GMT | JS Recon To HTML Injection | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/4cdca8fd88cf) |
+| Wed, 07 May 2025 08:34:26 GMT | The Most Notorious WhatsApp Hacking Scam in India (2025) | Nikita | [Read More](https://medium.com/p/d27d0e9b59f2) |
+| Wed, 07 May 2025 08:33:26 GMT | What is Blockchain? A Beginner’s Guide to the Future of Digital Trust | Block Decoded | [Read More](https://medium.com/p/740c5ee28d44) |
 | Wed, 07 May 2025 08:23:25 GMT | Mastering Cybersecurity Incidents: A Deep Dive into EC-Council’s E-CIH Certification | Shreyashettyctr | [Read More](https://medium.com/p/351929488e43) |
 | Wed, 07 May 2025 08:18:32 GMT | What is Zero Trust and How Can It Be Implemented in a Company? | Sedat INCI - Cyber Security Engineer | [Read More](https://medium.com/p/8d74f92451ca) |
 | Wed, 07 May 2025 08:16:32 GMT | Australian superannuation funds breached | hide.me VPN | [Read More](https://medium.com/p/e7b25d076148) |
@@ -25,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 08:04:45 GMT | Security Debt in the Cloud: What You’re Delaying Will Cost You | Induz Data Solutions | [Read More](https://medium.com/p/287bef720d78) |
 | Wed, 07 May 2025 08:04:12 GMT | THM - Logless Hunt | Francesco Pastore | [Read More](https://medium.com/p/69d54f43c4c1) |
 | Wed, 07 May 2025 08:03:26 GMT | Title: How I’m Building My First App Using Only a Mobile Phone | Editorroyal | [Read More](https://medium.com/p/40c06e9dc864) |
+| Wed, 07 May 2025 08:02:29 GMT | Sicherheitsroboter Deutschland | Presslink Media | [Read More](https://medium.com/p/d5c731a782c6) |
 | Wed, 07 May 2025 07:59:03 GMT | ️‍♂️ Unlisted but Not Unseen: How I Found the Admin Panel in a JavaScript Comment | Iski | [Read More](https://medium.com/p/f34af758b4c8) |
 | Wed, 07 May 2025 07:57:19 GMT | Security Robots Switzerland | Marcus Koehnlein | [Read More](https://medium.com/p/60409ed83d4c) |
 | Wed, 07 May 2025 07:54:36 GMT | Amazon Cognito M2M Token Caching for Cost Optimisation & Performance | Serverless Advocate | [Read More](https://medium.com/p/74c876d6f4aa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 01:28:33 GMT | The Only 4 Security WordPress Plugins You Need to Know | Media Plaza | [Read More](https://medium.com/p/1dd17468ccfa) |
 | Wed, 07 May 2025 00:45:40 GMT | How to Claim $RECON | RECON | [Read More](https://medium.com/p/e61e953f96d4) |
 | Wed, 07 May 2025 00:42:47 GMT | AI Isn’t Powerful. We Just Hand It the Keys. | NaveeeN Chendra | [Read More](https://medium.com/p/2e148d73a008) |
-| Wed, 07 May 2025 00:37:33 GMT | A list of tools to find CORS(Cross-Origin Resource Sharing) | loyalonlytoday | [Read More](https://medium.com/p/37f4c5ead5a1) |
-| Wed, 07 May 2025 00:29:06 GMT | Securing Data with a Bastion Host with Terraform in AWS | Collin Smith | [Read More](https://medium.com/p/ce88c4e7b32c) |
-| Wed, 07 May 2025 00:02:28 GMT | Hack The Box — Machine — Lame Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/a35ffd590aff) |
-| Tue, 06 May 2025 23:59:22 GMT | DORK: Get Your Exclusive DORK Tokens Now! | DORK | [Read More](https://medium.com/p/c47ffe2b64a5) |
