@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 23:14:51 GMT | Cobain Cyber Security 101 : Offensive Security Intro seru ! | Velia's Journey | [Read More](https://medium.com/p/3f62ca501d11) |
+| Wed, 07 May 2025 23:06:45 GMT | 8 Reasons Not To Trust Your Phone With Sensitive Stuff | Deepak Puri | [Read More](https://medium.com/p/3751b8b61052) |
+| Wed, 07 May 2025 23:03:40 GMT | Ask Savvy Cyber Kids: Is All Screen Time The Same? | Savvy Cyber Kids | [Read More](https://medium.com/p/8777870c93f3) |
+| Wed, 07 May 2025 23:00:42 GMT | How To Keep Kids Safe While Remote Learning | Savvy Cyber Kids | [Read More](https://medium.com/p/d1cc96d357a0) |
+| Wed, 07 May 2025 22:48:26 GMT | Security Isn’t a Luxury in Portland Anymore. It’s a Necessity. | Brendan Weed | [Read More](https://medium.com/p/213c76abbd56) |
+| Wed, 07 May 2025 22:41:51 GMT | That One Time I Never Stopped Loving the Internet | Virgil (Tim) Eaton | [Read More](https://medium.com/p/08bd178c07a3) |
+| Wed, 07 May 2025 22:33:34 GMT | DIJITAL AYAK IZLERIMIZIN TOZU KALKARKEN: UNUTULMANIN SANATI VE SIBER FARKINDALIK | Talha Memiş | [Read More](https://medium.com/p/e21bc19301b0) |
 | Wed, 07 May 2025 22:30:05 GMT | Not Your Data, Not Your AI
 If we don’t control how AI is trained, we’ll gradually lose control… | ITgeek | [Read More](https://medium.com/p/710f2b43af79) |
 | Wed, 07 May 2025 22:16:34 GMT | How to Implement a Zero Trust Architecture in Your Network | Karthikeyan Nagaraj | [Read More](https://medium.com/p/6cba1ff54845) |
@@ -106,10 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 15:45:57 GMT | Wearing People Down: How Covert Operations Target Vulnerabilities to Destabilize Movements | Cat Mendonca | [Read More](https://medium.com/p/ef42e2d9969d) |
 | Wed, 07 May 2025 15:45:14 GMT | Mitigating Software Supply Chain Vulnerabilities with Zero-Trust Dependencies | James Davis | [Read More](https://medium.com/p/06f950497cfe) |
 | Wed, 07 May 2025 15:42:56 GMT | Investigating Windows Logs | Hritesh Tkr | [Read More](https://medium.com/p/e2b22b707f8d) |
-| Wed, 07 May 2025 15:41:07 GMT | Day 28: Bypassing GraphQL Introspection, Rate Limiting, and CSRF Defenses | Agarwaldaksh | [Read More](https://medium.com/p/be95c779baed) |
-| Wed, 07 May 2025 15:37:14 GMT | Cyber Security: A Beginner’s Guide for 2025 | Ritik Yadav | [Read More](https://medium.com/p/0e0b722b9257) |
-| Wed, 07 May 2025 15:35:16 GMT | Trickster picoCTF 2024 Writeup | Surt | [Read More](https://medium.com/p/e0e80aa8ef0d) |
-| Wed, 07 May 2025 15:30:59 GMT | Day 119 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/045c87b55d3a) |
-| Wed, 07 May 2025 15:29:09 GMT | WinPEAS & LinPEAS — The Most Powerful Privilege Escalation Enumeration Tools for Pentesters | Kshahabaj | [Read More](https://medium.com/p/92f89b045122) |
-| Wed, 07 May 2025 15:23:18 GMT | https://www.instagram.com/p/DJRrpWohSZJ/?igsh=NG9idzQxOHlyeG1n | Mata Hacker | [Read More](https://medium.com/p/94f38a1bbe15) |
-| Wed, 07 May 2025 15:18:33 GMT | Compress-a-thon — Web Exploitation — Pentathon 2025 | Somnath Das | [Read More](https://medium.com/p/fea9adf9fa6b) |
