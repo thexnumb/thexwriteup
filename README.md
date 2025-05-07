@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 19:23:43 GMT | Offsec → Slow walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/b1f5e99c4229) |
+| Wed, 07 May 2025 19:20:46 GMT | DAM (Database Activity Monitoring) Nedir? Neden Kurumlar için Hayati Öneme Sahiptir? | Hibdilek | [Read More](https://medium.com/p/9f71626f2781) |
+| Wed, 07 May 2025 19:16:08 GMT | Europol Dismantles Six Major DDoS-for-Hire Platforms in Global Crackdown | CyDhaal | [Read More](https://medium.com/p/30bb35f99af5) |
 | Wed, 07 May 2025 19:11:43 GMT | Floyd’s Tortoise & Hare Cycle Finding Algorithm: Explanation & Proof | Preeti L. | [Read More](https://medium.com/p/bf59befb153a) |
 | Wed, 07 May 2025 19:08:22 GMT | In the Quiet of Us | Heena | [Read More](https://medium.com/p/fc8f1519e46b) |
 | Wed, 07 May 2025 19:04:36 GMT | Flare VM Kurulumu | Aydan | [Read More](https://medium.com/p/3a1a97a6a803) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 13:54:47 GMT | Quantum Computing and Cryptocurrency: Navigating the Impending Paradigm Shift with Todd Kassal… | Todd Kassal | [Read More](https://medium.com/p/39dc562c4ef8) |
 | Wed, 07 May 2025 13:51:53 GMT | Security Service updates at Google Cloud Next 2025 | pict3 | [Read More](https://medium.com/p/072e03f1a302) |
 | Wed, 07 May 2025 13:48:26 GMT | Top 5 Emerging Trends in Cargo Fraud and Theft: How to Stay Ahead in 2025 | Demitri Malinski | [Read More](https://medium.com/p/e40475004071) |
-| Wed, 07 May 2025 13:43:51 GMT | Discovering a Blind XSS Vulnerability in the Platform | Saeiez | [Read More](https://medium.com/p/1fa45a6621db) |
-| Wed, 07 May 2025 13:43:02 GMT | Is Every Security Problem Just Access Control in Disguise? | Kai Yuan Thng | [Read More](https://medium.com/p/740fa28d5321) |
-| Wed, 07 May 2025 13:39:27 GMT | Şifre Yorgunluğu: Dijital Dünyada Sessiz Bir Kriz | HSD DPU | [Read More](https://medium.com/p/5ac36aa30826) |
