@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 06:45:32 GMT | Hacking the Frontend Logic: Exploiting JavaScript Business Flaws | Vipul Sonule | [Read More](https://medium.com/p/b6600fafd8a4) |
+| Wed, 07 May 2025 06:43:13 GMT | Cloud Colonialism: How Tech Giants Profit from Your Enterprise Data | Induz Data Solutions | [Read More](https://medium.com/p/fa7bb850a4d5) |
+| Wed, 07 May 2025 06:38:43 GMT | Securing Apache2 + PHP: Practical guide for safer web hosting | Roman Huliak | [Read More](https://medium.com/p/3c967800c582) |
+| Wed, 07 May 2025 06:38:17 GMT | $2,900 Bounty: Public S3 Bucket Exposure in Shopify | Monika sharma | [Read More](https://medium.com/p/05b14bbf6dad) |
+| Wed, 07 May 2025 06:32:34 GMT | Advanced Nginx Security: Password Protect and Restrict Access by IP Address | Karthikeyantse | [Read More](https://medium.com/p/a131f977b48d) |
+| Wed, 07 May 2025 06:30:33 GMT | Privileged Access Management: AI, Observability, and Data-Driven Insights | Gauri Kale | [Read More](https://medium.com/p/c972e9a3eb02) |
+| Wed, 07 May 2025 06:27:22 GMT | The Rise of Industrial Control Protocols | Omkar Bhalekar | [Read More](https://medium.com/p/1dccabb95f1b) |
 | Wed, 07 May 2025 06:26:47 GMT | Craft CMS Zero-Day Exploit Chain Leads to RCE and Data Theft | Infoziant | [Read More](https://medium.com/p/7e4296c99f02) |
 | Wed, 07 May 2025 06:25:39 GMT | Nanoservice Security: How to Build Atomic Workflows for a Zero-Trust Future | Akshat Sharma | [Read More](https://medium.com/p/99985d99909b) |
 | Wed, 07 May 2025 06:25:33 GMT | VulnHUB:Basic Pentesting 1 | Mrcool76 | [Read More](https://medium.com/p/5b75a65e9e10) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 21:10:08 GMT | Zip Threats: What You Need to Know to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/5a6c201ea155) |
 | Tue, 06 May 2025 21:04:09 GMT | Comunidades emergentes | Hugo Alberto Guadarrama Sánchez | [Read More](https://medium.com/p/f19726f12334) |
 | Tue, 06 May 2025 21:03:18 GMT | Beyond the Buzz: Advanced Fuzzing Techniques and Real-World Impact | Piyush | [Read More](https://medium.com/p/5cf5e8fc275a) |
-| Tue, 06 May 2025 21:02:26 GMT | What is Threat Hunting and Why Every SME Should Care. | John Locke | [Read More](https://medium.com/p/003cf725524a) |
-| Tue, 06 May 2025 20:56:21 GMT | Rabbit Scams and RDGA Trickery: How Investment Fraudsters Are Outsmarting Victims in 2025 | Ismail Tasdelen | [Read More](https://medium.com/p/a787b14224dc) |
-| Tue, 06 May 2025 20:55:59 GMT | PROTECT YOUR DATA PRIVACY IN A DIGITALLY CONNECTED WORLD | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/20263055d6bb) |
-| Tue, 06 May 2025 20:53:37 GMT | CTF with CSRF involving referrer header | Arunoday Tiwari | [Read More](https://medium.com/p/186041e6b6b5) |
-| Tue, 06 May 2025 20:49:11 GMT | Neurocracked CTF Part Three: Neural Network Nexus | Tyler Wall | [Read More](https://medium.com/p/367f49a70902) |
-| Tue, 06 May 2025 20:47:35 GMT | When Trust Breaks Down: What Corewell’s Data Breaches Cost My Family | Neka D'Amico | [Read More](https://medium.com/p/397e3239a2a7) |
-| Tue, 06 May 2025 20:46:10 GMT | Neurocracked CTF Part Two: Whispers in the Shell | Tyler Wall | [Read More](https://medium.com/p/79716acd61c8) |
