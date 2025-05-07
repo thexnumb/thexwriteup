@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 07:35:45 GMT | AML (Anti-Money Laundering) Nedir? Kripto Sektörü İçin Neden Kritik? | BeosinTR | [Read More](https://medium.com/p/79bd2199ccb9) |
+| Wed, 07 May 2025 07:25:15 GMT | ️ Inside the Web: A Deep Dive into Cyberattacks in 2025 | Taha Qureshi | [Read More](https://medium.com/p/d45ac8df7ef1) |
+| Wed, 07 May 2025 07:24:42 GMT | Combatting Rising Cyber Threats: Leveraging Large Model Capabilities for Vulnerability Detection | Tencent EdgeOne | [Read More](https://medium.com/p/010484156d25) |
 | Wed, 07 May 2025 07:15:43 GMT | How to Master Vulnerability Management to Stop Silent Threats | SecureSlate | [Read More](https://medium.com/p/fff50073086f) |
+| Wed, 07 May 2025 07:14:41 GMT | From Stress to Success: Let Managed Services Handle IT | IPSpecialist | [Read More](https://medium.com/p/429c6ea972ca) |
 | Wed, 07 May 2025 07:08:51 GMT | Cyber Kill Chain — LetsDefend walkthrough | md_ashmar | [Read More](https://medium.com/p/eaa30940a6cb) |
 | Wed, 07 May 2025 07:08:14 GMT | Still Believing These 5 VPN Myths? Time for a Reality Check | EVA VPN | [Read More](https://medium.com/p/34fb258df5f7) |
 | Wed, 07 May 2025 07:07:14 GMT | What is Cybercrime and How to Protect Yourself? | Gigabittechnologies | [Read More](https://medium.com/p/50cb6f5f1561) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 21:57:34 GMT | Tech-Savvy or Not, Seniors Deserve Scam-Free Screens: Here’s How to Help! | ɌƋƑ•TECH | [Read More](https://medium.com/p/a4a666648703) |
 | Tue, 06 May 2025 21:52:52 GMT | Wireless Pentesting #1: Introduction | Norman Kolarikkal | [Read More](https://medium.com/p/a635e0c0e5c9) |
 | Tue, 06 May 2025 21:50:52 GMT | TryHackMe - Nmap: The Basics — Cyber Security 101 | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/6455fb40f804) |
-| Tue, 06 May 2025 21:45:23 GMT | How to Detect Suspicious Activity on a Linux Server in Under 5 Minutes | Faruk Ahmed | [Read More](https://medium.com/p/6a60afd52a94) |
-| Tue, 06 May 2025 21:41:07 GMT | Why Every Business Needs a Tailored Cybersecurity Strategy in 2025 | Tungstencyberdg | [Read More](https://medium.com/p/fbe6895c968d) |
-| Tue, 06 May 2025 21:36:48 GMT | Mavi Takım Başlangıç Rehberi | Nursenaavci | [Read More](https://medium.com/p/a3759d27ffd1) |
-| Tue, 06 May 2025 21:34:11 GMT | TryHackMe — Hammer Write-up | João Laimer | [Read More](https://medium.com/p/ab347efce261) |
