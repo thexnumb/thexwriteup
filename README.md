@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 09:20:58 GMT | Unveiling Critical Weaknesses: A Rigorous Penetration Test of a Web Application | Tusharpuri | [Read More](https://medium.com/p/3b60cef532e6) |
+| Wed, 07 May 2025 09:07:25 GMT | NSO Group Slapped with $168M Fine for Pegasus Spyware Attacks on WhatsApp Users ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/9971c15c03d8) |
+| Wed, 07 May 2025 09:06:40 GMT | EFFECTIVE WEBSITE MONITORING — IALERTS | TabTree IT Consulting Company | [Read More](https://medium.com/p/65603a046e5f) |
+| Wed, 07 May 2025 09:02:33 GMT | Transform Your Business with Microsoft 365 & Azure | R&B Networks | [Read More](https://medium.com/p/964ae67badc4) |
+| Wed, 07 May 2025 09:00:16 GMT | Managing Serverless as Downstream Systems: Challenges and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/36eed7d31477) |
+| Wed, 07 May 2025 09:00:13 GMT | Managing Serverless as Downstream Systems: Challenges and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/163cf4a76eb5) |
+| Wed, 07 May 2025 08:53:02 GMT | hash-only-1 - Writeup | Marvin | [Read More](https://medium.com/p/8d0b4ce3b8b6) |
 | Wed, 07 May 2025 08:37:38 GMT | JS Recon To HTML Injection | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/4cdca8fd88cf) |
 | Wed, 07 May 2025 08:34:26 GMT | The Most Notorious WhatsApp Hacking Scam in India (2025) | Nikita | [Read More](https://medium.com/p/d27d0e9b59f2) |
 | Wed, 07 May 2025 08:33:26 GMT | What is Blockchain? A Beginner’s Guide to the Future of Digital Trust | Block Decoded | [Read More](https://medium.com/p/740c5ee28d44) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 01:54:00 GMT | 7 Java Security Mistakes That Could Ruin Your Project (And How to Avoid Them!) | Harry | [Read More](https://medium.com/p/89f79072f5a6) |
 | Wed, 07 May 2025 01:53:31 GMT | Building a Secure Home Network in 2025: Practical Tips | Pawan Jaiswal | [Read More](https://medium.com/p/d359f4f41867) |
 | Wed, 07 May 2025 01:45:59 GMT | Claim $BUGS tokens by Bugs Bunny with This Crypto Guide within Minutes | BUGS | [Read More](https://medium.com/p/533b308b7b39) |
-| Wed, 07 May 2025 01:38:54 GMT | 5 Security Hacks for Spring Boot with Java 21 You Need RN! | Juan Manuel Lopez | [Read More](https://medium.com/p/6f577be52f53) |
-| Wed, 07 May 2025 01:35:14 GMT | 01.02: Mona! LOOK! | Kim Smith | [Read More](https://medium.com/p/08d481a3613b) |
-| Wed, 07 May 2025 01:33:24 GMT | Cybersecurity 101: Networking Fundamentals | Kheyraldhs | [Read More](https://medium.com/p/495108cdfa86) |
-| Wed, 07 May 2025 01:31:38 GMT | The two faces of AI | Mark Dewolf | [Read More](https://medium.com/p/fd7b7fd67d26) |
-| Wed, 07 May 2025 01:28:33 GMT | The Only 4 Security WordPress Plugins You Need to Know | Media Plaza | [Read More](https://medium.com/p/1dd17468ccfa) |
-| Wed, 07 May 2025 00:45:40 GMT | How to Claim $RECON | RECON | [Read More](https://medium.com/p/e61e953f96d4) |
-| Wed, 07 May 2025 00:42:47 GMT | AI Isn’t Powerful. We Just Hand It the Keys. | NaveeeN Chendra | [Read More](https://medium.com/p/2e148d73a008) |
