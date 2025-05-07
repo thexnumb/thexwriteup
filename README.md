@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 20:40:19 GMT | What Is a Random Password Generator and How Does It Protect Your Online Accounts? | Tahashaikhseo | [Read More](https://medium.com/p/a465064f4ee2) |
+| Wed, 07 May 2025 20:32:00 GMT | Bypassing SEH Protections in Vulnserver | 0x47M4D | [Read More](https://medium.com/p/a4b95d1bc80e) |
+| Wed, 07 May 2025 20:26:35 GMT | File Upload Vulnerabilities | musayyab sharif | [Read More](https://medium.com/p/260741e24c30) |
 | Wed, 07 May 2025 20:12:13 GMT | Think Your Password Is Safe? I Cracked 100 in 24 Hours — Here’s How | All in One security | [Read More](https://medium.com/p/f6551401b200) |
 | Wed, 07 May 2025 19:57:32 GMT | Offsec →Cran Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/d91dde3e90a7) |
 | Wed, 07 May 2025 19:55:42 GMT | OttoKit WordPress Plugin Exploit Hackers Create Rogue Admin Account | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/7e654c49e719) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 14:26:36 GMT | Docker — Port 2375,2376 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/8faa8d70a7ab) |
 | Wed, 07 May 2025 14:25:20 GMT | How to Avoid Phishing Scams in 2025 | Yousaf javed | [Read More](https://medium.com/p/895e13a747d9) |
 | Wed, 07 May 2025 14:23:02 GMT | Bad Buoys: A Modular Swarm for Autonomous Maritime Monitoring and Defense | Iangdonohue | [Read More](https://medium.com/p/680b1d55b337) |
-| Wed, 07 May 2025 14:18:28 GMT | A Story of Lonely Slices | Karuppasamy P | [Read More](https://medium.com/p/e97662fd7514) |
-| Wed, 07 May 2025 14:17:52 GMT | In future wars, the first missile won’t fly-it will be coded. | Rathinavel M.S | [Read More](https://medium.com/p/cca27bde3cb4) |
-| Wed, 07 May 2025 14:17:30 GMT | [solved] Firewalld disable AllowZoneDrifting | Johan Louwers | [Read More](https://medium.com/p/04b2205b76ce) |
