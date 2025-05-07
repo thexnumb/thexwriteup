@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 11:33:09 GMT | Únete a ICTC para conseguir una nuevo skin de tarjeta | WhiteBIT | [Read More](https://medium.com/p/257c45a0d2f1) |
+| Wed, 07 May 2025 11:33:03 GMT | How Security Patrols Help Prevent Commercial Break-Ins at Commercial Properties | ICorp Security | [Read More](https://medium.com/p/eb95ba1d7f54) |
+| Wed, 07 May 2025 11:27:12 GMT | Certificado SSL 2029: renovación cada 49 días | Manuel Jesús Gallardo Martín | [Read More](https://medium.com/p/7a2f4bc45a3c) |
+| Wed, 07 May 2025 11:25:57 GMT | How Background Checks Strengthen Recruitment in the UK Security Sector | Background Screening Services | [Read More](https://medium.com/p/7ae587f33368) |
+| Wed, 07 May 2025 11:20:41 GMT | Leadership in the Age of Cybersecurity: Protecting Europe’s Digital Assets | Itssonic | [Read More](https://medium.com/p/d394ef6e0617) |
 | Wed, 07 May 2025 11:17:30 GMT | Penetration Testing vs. Vulnerability Scanning: Key Differences | Ampcus Cyber | [Read More](https://medium.com/p/cc9beb9cbc79) |
 | Wed, 07 May 2025 11:17:15 GMT | What Is the Microsoft Azure Equivalent Certification for AWS Solutions Architect? | Vasundhra sharma | [Read More](https://medium.com/p/658bb2a71aaa) |
 | Wed, 07 May 2025 11:14:53 GMT | The Importance of Cybersecurity in App Development | Zetaton | [Read More](https://medium.com/p/0c764a716467) |
@@ -21,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 11:07:29 GMT | Baby Monitors That Actually Work: 3 Picks Worth Checking Out | Ping | [Read More](https://medium.com/p/e789bb849d1b) |
 | Wed, 07 May 2025 11:07:04 GMT | The 20 Biggest Data Breaches in History: Lessons Learned | Sattrix | [Read More](https://medium.com/p/12d08e7e1773) |
 | Wed, 07 May 2025 11:06:22 GMT | 7 Access Control Mistakes You MUST Fix Now! | SecureSlate | [Read More](https://medium.com/p/0ada6d9891df) |
+| Wed, 07 May 2025 11:05:08 GMT | Wazuh [100] Detecting SQL Injection and XSS Attacks using DVWA + Wazuh SIEM | Prakriti Timilsina | [Read More](https://medium.com/p/18b2b40738ef) |
 | Wed, 07 May 2025 11:02:38 GMT | The Echoes of you. | Nazzie | [Read More](https://medium.com/p/15128d716c7e) |
 | Wed, 07 May 2025 11:02:38 GMT | Bitdefender vs. Kaspersky: Antivirus Comparison (2024–2025) | sudo3rs | [Read More](https://medium.com/p/8bd189de73ca) |
 | Wed, 07 May 2025 11:02:24 GMT | Ensure Your Safety with ISMS: Leading Security Agency in Delhi | Internal security and manpower services | [Read More](https://medium.com/p/94f24425a75c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 06:25:39 GMT | Nanoservice Security: How to Build Atomic Workflows for a Zero-Trust Future | Akshat Sharma | [Read More](https://medium.com/p/99985d99909b) |
 | Wed, 07 May 2025 06:25:33 GMT | VulnHUB:Basic Pentesting 1 | Mrcool76 | [Read More](https://medium.com/p/5b75a65e9e10) |
 | Wed, 07 May 2025 06:20:45 GMT | How to setup a Monthly Free VPS for Bug Hunting | Mostafa Alrefai | [Read More](https://medium.com/p/d41d0fa3ed6c) |
-| Wed, 07 May 2025 06:17:31 GMT | More Short Stories from Tech: Where Fiction Meets Our Digital Reality | Quentin Drummond Anderson | [Read More](https://medium.com/p/fa3a3111737c) |
-| Wed, 07 May 2025 06:10:09 GMT | Setting Up Secure Connections in Azure Data Factory with Key Vault | Haotianzhu | [Read More](https://medium.com/p/888bb1c877a9) |
-| Wed, 07 May 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — May 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d5a7a60f99c9) |
-| Wed, 07 May 2025 05:59:58 GMT | Master Cybersecurity with Certified Ethical Hacker V13 | Certocean | [Read More](https://medium.com/p/ecfc1e54f1fa) |
-| Wed, 07 May 2025 05:58:13 GMT | Penetration Testing | farsana77 | [Read More](https://medium.com/p/8e32225db19e) |
-| Wed, 07 May 2025 05:58:07 GMT | What Are the Best Data Security Platforms to Protect Your Business in 2025? | AI Guts | [Read More](https://medium.com/p/d209820882c1) |
