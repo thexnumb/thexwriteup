@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 01:38:54 GMT | 5 Security Hacks for Spring Boot with Java 21 You Need RN! | Juan Manuel Lopez | [Read More](https://medium.com/p/6f577be52f53) |
+| Wed, 07 May 2025 01:35:14 GMT | 01.02: Mona! LOOK! | Kim Smith | [Read More](https://medium.com/p/08d481a3613b) |
+| Wed, 07 May 2025 01:33:24 GMT | Cybersecurity 101: Networking Fundamentals | Kheyraldhs | [Read More](https://medium.com/p/495108cdfa86) |
+| Wed, 07 May 2025 01:31:38 GMT | The two faces of AI | Mark Dewolf | [Read More](https://medium.com/p/fd7b7fd67d26) |
+| Wed, 07 May 2025 01:28:33 GMT | The Only 4 Security WordPress Plugins You Need to Know | Media Plaza | [Read More](https://medium.com/p/1dd17468ccfa) |
+| Wed, 07 May 2025 00:45:40 GMT | How to Claim $RECON | RECON | [Read More](https://medium.com/p/e61e953f96d4) |
+| Wed, 07 May 2025 00:42:47 GMT | AI Isn’t Powerful. We Just Hand It the Keys. | NaveeeN Chendra | [Read More](https://medium.com/p/2e148d73a008) |
+| Wed, 07 May 2025 00:37:33 GMT | A list of tools to find CORS(Cross-Origin Resource Sharing) | loyalonlytoday | [Read More](https://medium.com/p/37f4c5ead5a1) |
+| Wed, 07 May 2025 00:29:06 GMT | Securing Data with a Bastion Host with Terraform in AWS | Collin Smith | [Read More](https://medium.com/p/ce88c4e7b32c) |
+| Wed, 07 May 2025 00:02:28 GMT | Hack The Box — Machine — Lame Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/a35ffd590aff) |
+| Tue, 06 May 2025 23:59:22 GMT | DORK: Get Your Exclusive DORK Tokens Now! | DORK | [Read More](https://medium.com/p/c47ffe2b64a5) |
+| Tue, 06 May 2025 23:52:15 GMT | Why I Love Cyber Security | CT Foose | [Read More](https://medium.com/p/a00f9c357f37) |
 | Tue, 06 May 2025 23:31:07 GMT | ️ Understanding the NIST Cybersecurity Framework: A Practical Deep Dive | Riya Patel | [Read More](https://medium.com/p/d683bc3f6b5b) |
 | Tue, 06 May 2025 22:59:24 GMT | How I Was Able To Recover My Money From Renimas? | Sophia | [Read More](https://medium.com/p/a0655413b250) |
 | Tue, 06 May 2025 22:58:56 GMT | Bugs Bunny: My Go-To Combo for Snagging Token Claims | BUGS | [Read More](https://medium.com/p/8445ce257aa6) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 17:46:01 GMT | How to Scan .HDR Files for Malicious Content using C/C++ | Cloudmersive | [Read More](https://medium.com/p/023436e10820) |
 | Tue, 06 May 2025 17:41:40 GMT | Tdac.in.th, eta.in.th, dtv.in.th, asq.in.th phishing network | Fake TDAC | [Read More](https://medium.com/p/cf676a0d18ff) |
 | Tue, 06 May 2025 17:40:08 GMT | Cyberwarfare Funding Accelerates and Everyone is at Risk | Matthew.Rosenquist | [Read More](https://medium.com/p/5cf7f4b2eb57) |
-| Tue, 06 May 2025 17:31:31 GMT | IP Subnetting Demystified | Thilakesh | [Read More](https://medium.com/p/4c4354153624) |
-| Tue, 06 May 2025 17:26:45 GMT | Defense Cybersecurity: Protecting National Security in the Digital Age | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/a07ec2c01669) |
-| Tue, 06 May 2025 17:26:34 GMT | Energy Cybersecurity: Safeguarding the Vital Arteries of Oil and Gas Infrastructure | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/84eafeb9b5f5) |
-| Tue, 06 May 2025 17:26:18 GMT | Agriculture Cybersecurity: Protecting the Foundations of Global Food Security | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/6fa62f77b61f) |
-| Tue, 06 May 2025 17:25:59 GMT | How I Found People Talking About CoinCollectExperts — And How They Helped Me Recover My Money | victoria grayson | [Read More](https://medium.com/p/e9cba7bbb859) |
-| Tue, 06 May 2025 17:23:23 GMT | The Automation vs. Human Analysis Debate in SOC Operations: Striking the Right Balance | Ninza-_-Boi | [Read More](https://medium.com/p/e223667a71d8) |
-| Tue, 06 May 2025 17:21:52 GMT | Enterprises Most Vulnerable Cybersecurity Blind Spots | Matthew.Rosenquist | [Read More](https://medium.com/p/d278f877be8f) |
-| Tue, 06 May 2025 17:17:49 GMT | A Man’s Quiet Longing | rashimJoshi | [Read More](https://medium.com/p/42220c916a21) |
-| Tue, 06 May 2025 17:10:28 GMT | Yeni Siber Güvenlik Yasası ve Ulusal Strateji Ne Getiriyor? | Bugraeren | [Read More](https://medium.com/p/e42f86a018c8) |
-| Tue, 06 May 2025 17:08:14 GMT | ️ Flask Under Attack? Not on My Watch! | Priyanshu Rajput | [Read More](https://medium.com/p/0a04b176e168) |
-| Tue, 06 May 2025 17:05:28 GMT | Digital Forensics- Mobile Forensics Analysis of Indeed | Korymckinney | [Read More](https://medium.com/p/afb3df6b6d7f) |
-| Tue, 06 May 2025 17:04:00 GMT | Why Is There a Shortage of Cybersecurity Professionals? | Shamsul Anam Emon | [Read More](https://medium.com/p/373e3fcc49de) |
