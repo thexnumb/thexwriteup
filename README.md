@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 10:40:45 GMT | SEBI CSCRF: Key Compliance Measures & Cybersecurity Checklist (2025) | Ampcus Cyber | [Read More](https://medium.com/p/cc96b8a482a1) |
+| Wed, 07 May 2025 10:31:39 GMT | TechXY Turbo — Tech Podcast Launch | Frank Gullo | [Read More](https://medium.com/p/b1af0b69692f) |
+| Wed, 07 May 2025 10:30:00 GMT | Affordable SEO and Web Design That Works | Morgan Donovan | [Read More](https://medium.com/p/f54b5bb890d1) |
+| Wed, 07 May 2025 10:21:00 GMT | Detecting SQL Injection Attacks | Fatimahasan | [Read More](https://medium.com/p/f12324774e0d) |
 | Wed, 07 May 2025 10:16:41 GMT | SubNotifier | Nahid Əliyev | [Read More](https://medium.com/p/b8a8f2671819) |
 | Wed, 07 May 2025 10:12:50 GMT | How I Passed the Blue Team Level 1 (BTL1) Certification Exam: My Experience and Tips | Enes Cayvarlı | [Read More](https://medium.com/p/3b3b9763b0a8) |
 | Wed, 07 May 2025 10:10:13 GMT | Is this the End of High Paying Tech Jobs? | FACE Prep Campus | [Read More](https://medium.com/p/ce8eba3c1d3f) |
@@ -58,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 07:45:18 GMT | Bypassing File Upload Restrictions: A Practical Guide to Finding and Exploiting Vulnerabilities | .M4KS | [Read More](https://medium.com/p/b20e831c4a32) |
 | Wed, 07 May 2025 07:35:45 GMT | AML (Anti-Money Laundering) Nedir? Kripto Sektörü İçin Neden Kritik? | BeosinTR | [Read More](https://medium.com/p/79bd2199ccb9) |
 | Wed, 07 May 2025 07:33:35 GMT | Top 7 Cyber Security Certifications in India for 2025 | Anand Narayanan | [Read More](https://medium.com/p/530d59136c2f) |
+| Wed, 07 May 2025 07:28:06 GMT | An Evening of Browser Security: SquareX’s RSAC Networking Dinner | SquareX | [Read More](https://medium.com/p/218458917c5b) |
 | Wed, 07 May 2025 07:25:15 GMT | ️ Inside the Web: A Deep Dive into Cyberattacks in 2025 | Taha Qureshi | [Read More](https://medium.com/p/d45ac8df7ef1) |
 | Wed, 07 May 2025 07:24:42 GMT | Combatting Rising Cyber Threats: Leveraging Large Model Capabilities for Vulnerability Detection | Tencent EdgeOne | [Read More](https://medium.com/p/010484156d25) |
 | Wed, 07 May 2025 07:15:43 GMT | How to Master Vulnerability Management to Stop Silent Threats | SecureSlate | [Read More](https://medium.com/p/fff50073086f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 04:36:54 GMT | How to Secure Your Application When Using AWS CloudFront | Eramarinfo | [Read More](https://medium.com/p/b59abfe732ec) |
 | Wed, 07 May 2025 04:23:37 GMT | The Cultural Failures Exposed by WannaCry | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/d9f7868f1248) |
 | Wed, 07 May 2025 04:07:38 GMT | The Windows Process Journey — vmconnect.exe (Virtual Machine Connection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3e7f3c2c3ee1) |
-| Wed, 07 May 2025 03:50:52 GMT | North Korean Hacker Exposed in Job Interview Scam Targeting Crypto Firms | Weeklyblockchain | [Read More](https://medium.com/p/b23d6e333af2) |
-| Wed, 07 May 2025 03:50:41 GMT | Potential Risks Without VPN According To Experts | James Neal | [Read More](https://medium.com/p/3e9a35a924d0) |
-| Wed, 07 May 2025 03:50:04 GMT | CS2AI’s Cyber Security in Manufacturing Symposium | Mike Gonzalez | [Read More](https://medium.com/p/73d8df10ce7b) |
-| Wed, 07 May 2025 03:38:00 GMT | Navigating the Linux File System for Beginners | Arthur Baronov | [Read More](https://medium.com/p/63ef2f721688) |
-| Wed, 07 May 2025 03:34:52 GMT | Backchannel client-authentication in OAuth flow | Kunal Sinha | [Read More](https://medium.com/p/82d2afea660e) |
