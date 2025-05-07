@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 14:18:28 GMT | A Story of Lonely Slices | Karuppasamy P | [Read More](https://medium.com/p/e97662fd7514) |
+| Wed, 07 May 2025 14:17:52 GMT | In future wars, the first missile won’t fly-it will be coded. | Rathinavel M.S | [Read More](https://medium.com/p/cca27bde3cb4) |
+| Wed, 07 May 2025 14:14:46 GMT | HTB Editorial Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/055fed9a2bed) |
+| Wed, 07 May 2025 14:13:24 GMT | Check Fraud Scam | Internet Exposed | [Read More](https://medium.com/p/56ec0036129c) |
+| Wed, 07 May 2025 14:12:40 GMT | 100 Must-Know PowerShell Commands for Cybersecurity | Bl@ckC!pH3r | [Read More](https://medium.com/p/6118b5eb3da0) |
+| Wed, 07 May 2025 14:09:49 GMT | Splunk HEC Bahasa Indonesia | ZXVE | [Read More](https://medium.com/p/cf5ca20ec734) |
+| Wed, 07 May 2025 14:05:49 GMT | The FCC Move that Could Shut Down China’s Backdoor Access to U.S. Telecom Infrastructure | National Security Institute | [Read More](https://medium.com/p/dc43b7c9c6d2) |
+| Wed, 07 May 2025 14:05:33 GMT | LetsDefend Web Attacks 2: Detecting and Solving Attacks with Real Log Files | CyberSam | [Read More](https://medium.com/p/beaf85e74dd0) |
+| Wed, 07 May 2025 14:02:41 GMT | How a cybersecurity conference sent me into an existential career crisis | Cup of Nonfiction | [Read More](https://medium.com/p/1bd3e57e5adc) |
+| Wed, 07 May 2025 14:00:16 GMT | Cyber Briefing: 2025.05.07 | CyberMaterial | [Read More](https://medium.com/p/49d306efa447) |
+| Wed, 07 May 2025 13:55:55 GMT | Why Hire Veterans for Entry-Level Cybersecurity Jobs? | Shamsul Anam Emon | [Read More](https://medium.com/p/e6ff2dd1c885) |
+| Wed, 07 May 2025 13:54:47 GMT | Quantum Computing and Cryptocurrency: Navigating the Impending Paradigm Shift with Todd Kassal… | Todd Kassal | [Read More](https://medium.com/p/39dc562c4ef8) |
+| Wed, 07 May 2025 13:51:53 GMT | Security Service updates at Google Cloud Next 2025 | pict3 | [Read More](https://medium.com/p/072e03f1a302) |
+| Wed, 07 May 2025 13:48:26 GMT | Top 5 Emerging Trends in Cargo Fraud and Theft: How to Stay Ahead in 2025 | Demitri Malinski | [Read More](https://medium.com/p/e40475004071) |
+| Wed, 07 May 2025 13:43:51 GMT | Discovering a Blind XSS Vulnerability in the Platform | Saeiez | [Read More](https://medium.com/p/1fa45a6621db) |
+| Wed, 07 May 2025 13:43:02 GMT | Is Every Security Problem Just Access Control in Disguise? | Kai Yuan Thng | [Read More](https://medium.com/p/740fa28d5321) |
+| Wed, 07 May 2025 13:39:27 GMT | Şifre Yorgunluğu: Dijital Dünyada Sessiz Bir Kriz | HSD DPU | [Read More](https://medium.com/p/5ac36aa30826) |
+| Wed, 07 May 2025 13:34:32 GMT | From EncryptedSharedPreferences to Secure DataStore in Jetpack Compose – My Real-World Shift | Malik Saif | [Read More](https://medium.com/p/9f3a6f3c57b2) |
 | Wed, 07 May 2025 13:27:37 GMT | Essential Programming Languages with Ecosystems | Erkan Kavas | [Read More](https://medium.com/p/cec8f61a1139) |
 | Wed, 07 May 2025 13:27:10 GMT | Non-Consensual Consent: The Downfall And Impact Of The Largest AI Pornography Website. | Nols Vt | [Read More](https://medium.com/p/a492c0d5836a) |
 | Wed, 07 May 2025 13:26:37 GMT | The Gentle Strength of Vulnerability in Leadership | Catherine Wong Delumpa | [Read More](https://medium.com/p/479c79827c1f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 09:28:42 GMT | Colonial Pipeline Ransomware Attack: A Post-Mortem | Ahmad Javed | [Read More](https://medium.com/p/0f1152432959) |
 | Wed, 07 May 2025 09:25:07 GMT | Access Control Systems in Frederick, MD - ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/e011e45286c1) |
 | Wed, 07 May 2025 09:20:58 GMT | Unveiling Critical Weaknesses: A Rigorous Penetration Test of a Web Application | Tusharpuri | [Read More](https://medium.com/p/3b60cef532e6) |
-| Wed, 07 May 2025 09:07:25 GMT | NSO Group Slapped with $168M Fine for Pegasus Spyware Attacks on WhatsApp Users ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/9971c15c03d8) |
-| Wed, 07 May 2025 09:06:40 GMT | EFFECTIVE WEBSITE MONITORING — IALERTS | TabTree IT Consulting Company | [Read More](https://medium.com/p/65603a046e5f) |
-| Wed, 07 May 2025 09:02:33 GMT | Transform Your Business with Microsoft 365 & Azure | R&B Networks | [Read More](https://medium.com/p/964ae67badc4) |
-| Wed, 07 May 2025 09:00:16 GMT | Managing Serverless as Downstream Systems: Challenges and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/36eed7d31477) |
-| Wed, 07 May 2025 09:00:13 GMT | Managing Serverless as Downstream Systems: Challenges and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/163cf4a76eb5) |
-| Wed, 07 May 2025 08:53:02 GMT | hash-only-1 - Writeup | Marvin | [Read More](https://medium.com/p/8d0b4ce3b8b6) |
-| Wed, 07 May 2025 08:37:38 GMT | JS Recon To HTML Injection | Raunak Gupta Aka Biscuit | [Read More](https://medium.com/p/4cdca8fd88cf) |
-| Wed, 07 May 2025 08:34:26 GMT | The Most Notorious WhatsApp Hacking Scam in India (2025) | Nikita | [Read More](https://medium.com/p/d27d0e9b59f2) |
-| Wed, 07 May 2025 08:33:26 GMT | What is Blockchain? A Beginner’s Guide to the Future of Digital Trust | Block Decoded | [Read More](https://medium.com/p/740c5ee28d44) |
-| Wed, 07 May 2025 08:23:25 GMT | Mastering Cybersecurity Incidents: A Deep Dive into EC-Council’s E-CIH Certification | Shreyashettyctr | [Read More](https://medium.com/p/351929488e43) |
-| Wed, 07 May 2025 08:18:32 GMT | What is Zero Trust and How Can It Be Implemented in a Company? | Sedat INCI - Cyber Security Engineer | [Read More](https://medium.com/p/8d74f92451ca) |
-| Wed, 07 May 2025 08:16:32 GMT | Australian superannuation funds breached | hide.me VPN | [Read More](https://medium.com/p/e7b25d076148) |
-| Wed, 07 May 2025 08:13:33 GMT | Bulk Download Blobs from Azure Storage Using AZCopy | Tharakahalkewelatecs | [Read More](https://medium.com/p/edc8e38c6b56) |
-| Wed, 07 May 2025 08:13:29 GMT | Foresee the response of LLM and counter-attack | restdone | [Read More](https://medium.com/p/bd6fb76d2e20) |
-| Wed, 07 May 2025 08:12:49 GMT | “ Mastering Bug Bounty Recon: Tools & Techniques to Uncover Vulnerabilities ” | Hex00 | [Read More](https://medium.com/p/6db1bbfef248) |
-| Wed, 07 May 2025 08:12:33 GMT | Hackers, Bananas & Fake News | Lorraine Trindade | [Read More](https://medium.com/p/7f6dd73081f3) |
-| Wed, 07 May 2025 08:09:31 GMT | Best Linux Classes in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/4d0b45816f72) |
-| Wed, 07 May 2025 08:06:08 GMT | Navigating the Local LLM Landscape: Understanding and Mitigating Security Risks with Ollama | Jitendar Singh | [Read More](https://medium.com/p/b80d8362b67b) |
