@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 08:23:25 GMT | Mastering Cybersecurity Incidents: A Deep Dive into EC-Council’s E-CIH Certification | Shreyashettyctr | [Read More](https://medium.com/p/351929488e43) |
+| Wed, 07 May 2025 08:18:32 GMT | What is Zero Trust and How Can It Be Implemented in a Company? | Sedat INCI - Cyber Security Engineer | [Read More](https://medium.com/p/8d74f92451ca) |
+| Wed, 07 May 2025 08:16:32 GMT | Australian superannuation funds breached | hide.me VPN | [Read More](https://medium.com/p/e7b25d076148) |
+| Wed, 07 May 2025 08:13:33 GMT | Bulk Download Blobs from Azure Storage Using AZCopy | Tharakahalkewelatecs | [Read More](https://medium.com/p/edc8e38c6b56) |
+| Wed, 07 May 2025 08:13:29 GMT | Foresee the response of LLM and counter-attack | restdone | [Read More](https://medium.com/p/bd6fb76d2e20) |
+| Wed, 07 May 2025 08:12:49 GMT | “ Mastering Bug Bounty Recon: Tools & Techniques to Uncover Vulnerabilities ” | Hex00 | [Read More](https://medium.com/p/6db1bbfef248) |
+| Wed, 07 May 2025 08:12:33 GMT | Hackers, Bananas & Fake News | Lorraine Trindade | [Read More](https://medium.com/p/7f6dd73081f3) |
+| Wed, 07 May 2025 08:09:31 GMT | Best Linux Classes in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/4d0b45816f72) |
+| Wed, 07 May 2025 08:06:08 GMT | Navigating the Local LLM Landscape: Understanding and Mitigating Security Risks with Ollama | Jitendar Singh | [Read More](https://medium.com/p/b80d8362b67b) |
+| Wed, 07 May 2025 08:05:57 GMT | Why You Should Build Your Own Cybersecurity Lab — And How To Do It | Elizabeth Akindele | [Read More](https://medium.com/p/59e363f30a9d) |
+| Wed, 07 May 2025 08:04:45 GMT | Security Debt in the Cloud: What You’re Delaying Will Cost You | Induz Data Solutions | [Read More](https://medium.com/p/287bef720d78) |
+| Wed, 07 May 2025 08:04:12 GMT | THM - Logless Hunt | Francesco Pastore | [Read More](https://medium.com/p/69d54f43c4c1) |
+| Wed, 07 May 2025 08:03:26 GMT | Title: How I’m Building My First App Using Only a Mobile Phone | Editorroyal | [Read More](https://medium.com/p/40c06e9dc864) |
+| Wed, 07 May 2025 07:59:03 GMT | ️‍♂️ Unlisted but Not Unseen: How I Found the Admin Panel in a JavaScript Comment | Iski | [Read More](https://medium.com/p/f34af758b4c8) |
+| Wed, 07 May 2025 07:57:19 GMT | Security Robots Switzerland | Marcus Koehnlein | [Read More](https://medium.com/p/60409ed83d4c) |
+| Wed, 07 May 2025 07:54:36 GMT | Amazon Cognito M2M Token Caching for Cost Optimisation & Performance | Serverless Advocate | [Read More](https://medium.com/p/74c876d6f4aa) |
+| Wed, 07 May 2025 07:45:18 GMT | Bypassing File Upload Restrictions: A Practical Guide to Finding and Exploiting Vulnerabilities | .M4KS | [Read More](https://medium.com/p/b20e831c4a32) |
 | Wed, 07 May 2025 07:35:45 GMT | AML (Anti-Money Laundering) Nedir? Kripto Sektörü İçin Neden Kritik? | BeosinTR | [Read More](https://medium.com/p/79bd2199ccb9) |
+| Wed, 07 May 2025 07:33:35 GMT | Top 7 Cyber Security Certifications in India for 2025 | Anand Narayanan | [Read More](https://medium.com/p/530d59136c2f) |
 | Wed, 07 May 2025 07:25:15 GMT | ️ Inside the Web: A Deep Dive into Cyberattacks in 2025 | Taha Qureshi | [Read More](https://medium.com/p/d45ac8df7ef1) |
 | Wed, 07 May 2025 07:24:42 GMT | Combatting Rising Cyber Threats: Leveraging Large Model Capabilities for Vulnerability Detection | Tencent EdgeOne | [Read More](https://medium.com/p/010484156d25) |
 | Wed, 07 May 2025 07:15:43 GMT | How to Master Vulnerability Management to Stop Silent Threats | SecureSlate | [Read More](https://medium.com/p/fff50073086f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 00:29:06 GMT | Securing Data with a Bastion Host with Terraform in AWS | Collin Smith | [Read More](https://medium.com/p/ce88c4e7b32c) |
 | Wed, 07 May 2025 00:02:28 GMT | Hack The Box — Machine — Lame Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/a35ffd590aff) |
 | Tue, 06 May 2025 23:59:22 GMT | DORK: Get Your Exclusive DORK Tokens Now! | DORK | [Read More](https://medium.com/p/c47ffe2b64a5) |
-| Tue, 06 May 2025 23:52:15 GMT | Why I Love Cyber Security | CT Foose | [Read More](https://medium.com/p/a00f9c357f37) |
-| Tue, 06 May 2025 23:31:07 GMT | ️ Understanding the NIST Cybersecurity Framework: A Practical Deep Dive | Riya Patel | [Read More](https://medium.com/p/d683bc3f6b5b) |
-| Tue, 06 May 2025 22:59:24 GMT | How I Was Able To Recover My Money From Renimas? | Sophia | [Read More](https://medium.com/p/a0655413b250) |
-| Tue, 06 May 2025 22:58:56 GMT | Bugs Bunny: My Go-To Combo for Snagging Token Claims | BUGS | [Read More](https://medium.com/p/8445ce257aa6) |
-| Tue, 06 May 2025 22:57:29 GMT | How to Prevent Social Engineering | Savvy Cyber Kids | [Read More](https://medium.com/p/d1e6f97d5b2f) |
-| Tue, 06 May 2025 22:55:49 GMT | What’s Appropriate for Kids on Disney+? | Savvy Cyber Kids | [Read More](https://medium.com/p/cc08e8ff1f37) |
-| Tue, 06 May 2025 22:48:54 GMT | AI vs. AI: Why Your Security Strategy Needs to Catch Up — Fast | Cyber-AppSec | [Read More](https://medium.com/p/814d3b2297a3) |
-| Tue, 06 May 2025 22:46:23 GMT | FortiGate Site-to-Site VPN Setup in GNS3 | mraricayos | [Read More](https://medium.com/p/9aa5b5d52b3d) |
-| Tue, 06 May 2025 22:44:36 GMT | How Cyber Attackers Steal Passwords & How to Defend Against Them | Ian James | [Read More](https://medium.com/p/9364770b4e74) |
-| Tue, 06 May 2025 22:40:58 GMT | Force, Space, and Time: The Keys to Cyber Dominance | Zero Day Thirty | [Read More](https://medium.com/p/a4765a91ff43) |
-| Tue, 06 May 2025 22:26:20 GMT | I Watched Nation-State DDoS Attack Unfold Live. Here’s What I Learned | legacy0x1 | [Read More](https://medium.com/p/93cd373e41c2) |
-| Tue, 06 May 2025 22:26:02 GMT | Pocket Delivery — Campanha Orgulho da Zona Leste | Vinícius Santos | [Read More](https://medium.com/p/dbc4b546c9ca) |
-| Tue, 06 May 2025 22:16:37 GMT | How to Build a Strong Cybersecurity Program with a CISO | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d79fe99f10e) |
-| Tue, 06 May 2025 22:10:43 GMT | “The $10 DIY Phishing Kit That Broke into My Inbox” | An0n | [Read More](https://medium.com/p/55cdf8412474) |
-| Tue, 06 May 2025 21:58:56 GMT | SCAM ALERT: Someone Sent Me My Own OTP?!  WTF?! | Sumanth Yerranagula | [Read More](https://medium.com/p/3badc68161d3) |
-| Tue, 06 May 2025 21:57:34 GMT | Tech-Savvy or Not, Seniors Deserve Scam-Free Screens: Here’s How to Help! | ɌƋƑ•TECH | [Read More](https://medium.com/p/a4a666648703) |
-| Tue, 06 May 2025 21:52:52 GMT | Wireless Pentesting #1: Introduction | Norman Kolarikkal | [Read More](https://medium.com/p/a635e0c0e5c9) |
-| Tue, 06 May 2025 21:50:52 GMT | TryHackMe - Nmap: The Basics — Cyber Security 101 | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/6455fb40f804) |
