@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 03:09:50 GMT | The Role of AI in the Future of Penetration Testing: A Game-Changer for Ethical Hackers | Mohammad Suleiman | [Read More](https://medium.com/p/50309a089af2) |
+| Wed, 07 May 2025 02:59:32 GMT | Fortifying the Inbox: Why Email Security is a Boardroom Priority | Jerry Yonga | [Read More](https://medium.com/p/d636316450fe) |
+| Wed, 07 May 2025 02:31:42 GMT | Hack The Box Pentesting: CAP | abdur rashid firdaus | [Read More](https://medium.com/p/b1842b61cfd7) |
+| Wed, 07 May 2025 02:30:46 GMT | The Untold Truth of Malware Analysis: Inside the War Room of Digital Espionage | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e288bf560810) |
+| Wed, 07 May 2025 02:19:21 GMT | Terrorism and Internal Security: Lessons from the Pahalgam Attack | Vijay | [Read More](https://medium.com/p/93bf39720192) |
+| Wed, 07 May 2025 02:12:01 GMT | Navigating AI Adoption: Insights from OpenAI’s Enterprise Playbook and the Pivotal Role of Security | Tom Croll | [Read More](https://medium.com/p/006571e6e85d) |
+| Wed, 07 May 2025 01:54:00 GMT | 7 Java Security Mistakes That Could Ruin Your Project (And How to Avoid Them!) | Harry | [Read More](https://medium.com/p/89f79072f5a6) |
+| Wed, 07 May 2025 01:53:31 GMT | Building a Secure Home Network in 2025: Practical Tips | Pawan Jaiswal | [Read More](https://medium.com/p/d359f4f41867) |
+| Wed, 07 May 2025 01:45:59 GMT | Claim $BUGS tokens by Bugs Bunny with This Crypto Guide within Minutes | BUGS | [Read More](https://medium.com/p/533b308b7b39) |
 | Wed, 07 May 2025 01:38:54 GMT | 5 Security Hacks for Spring Boot with Java 21 You Need RN! | Juan Manuel Lopez | [Read More](https://medium.com/p/6f577be52f53) |
 | Wed, 07 May 2025 01:35:14 GMT | 01.02: Mona! LOOK! | Kim Smith | [Read More](https://medium.com/p/08d481a3613b) |
 | Wed, 07 May 2025 01:33:24 GMT | Cybersecurity 101: Networking Fundamentals | Kheyraldhs | [Read More](https://medium.com/p/495108cdfa86) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 18:27:40 GMT | Explore the Level 5 HND in Computing — Cybersecurity: Your Path to a Safer Digital Future | Ancy Thomas | [Read More](https://medium.com/p/9a1098d3786e) |
 | Tue, 06 May 2025 18:26:50 GMT | 10 Common Web Application Security Mistakes (and How to Fix Them Like a Pro) | Md Faiyaz Khan | [Read More](https://medium.com/p/fac99a5b0ed7) |
 | Tue, 06 May 2025 18:25:31 GMT | The Dark Web’s Worst Nightmares (In Book Form) | Ahmad Javed | [Read More](https://medium.com/p/aa24c27edb17) |
-| Tue, 06 May 2025 18:21:28 GMT | Why Cybersecurity Awareness Training Matters for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/241e6209f8c2) |
-| Tue, 06 May 2025 18:06:09 GMT | Digital Disney Disasters - Inside Two Shocking 2024 Hacks | Avnishyam | [Read More](https://medium.com/p/531abebff966) |
-| Tue, 06 May 2025 18:01:26 GMT | Practical Cybersecurity Leadership for IT Teams | Matthew.Rosenquist | [Read More](https://medium.com/p/5b763c3e599d) |
-| Tue, 06 May 2025 17:59:00 GMT | Role of Winevent IDs in Log Analysis | Priyadharsini Selvarajan | [Read More](https://medium.com/p/d23f8ca5a482) |
-| Tue, 06 May 2025 17:58:05 GMT | This Simple Keyword Can Save You from Hours of Debugging! | Code Crack | [Read More](https://medium.com/p/58889a37ee43) |
-| Tue, 06 May 2025 17:47:33 GMT | ️ How I Earned $150 by Exploiting an XML-RPC SSRF in a WordPress Site | @Sauravkrish | [Read More](https://medium.com/p/51037eb58252) |
-| Tue, 06 May 2025 17:46:01 GMT | How to Scan .HDR Files for Malicious Content using C/C++ | Cloudmersive | [Read More](https://medium.com/p/023436e10820) |
-| Tue, 06 May 2025 17:41:40 GMT | Tdac.in.th, eta.in.th, dtv.in.th, asq.in.th phishing network | Fake TDAC | [Read More](https://medium.com/p/cf676a0d18ff) |
-| Tue, 06 May 2025 17:40:08 GMT | Cyberwarfare Funding Accelerates and Everyone is at Risk | Matthew.Rosenquist | [Read More](https://medium.com/p/5cf7f4b2eb57) |
