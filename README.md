@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 04:36:54 GMT | How to Secure Your Application When Using AWS CloudFront | Eramarinfo | [Read More](https://medium.com/p/b59abfe732ec) |
 | Wed, 07 May 2025 04:23:37 GMT | The Cultural Failures Exposed by WannaCry | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/d9f7868f1248) |
 | Wed, 07 May 2025 04:07:38 GMT | The Windows Process Journey — vmconnect.exe (Virtual Machine Connection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3e7f3c2c3ee1) |
 | Wed, 07 May 2025 03:50:52 GMT | North Korean Hacker Exposed in Job Interview Scam Targeting Crypto Firms | Weeklyblockchain | [Read More](https://medium.com/p/b23d6e333af2) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 19:02:16 GMT | FOFA Dorking for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/a35c80bbab6e) |
 | Tue, 06 May 2025 19:02:01 GMT | Cybersecurity vs. Curiosity: Why Funny Sites Aren’t Always Harmless | Andre Fernandes | [Read More](https://medium.com/p/0f0b8735e83d) |
 | Tue, 06 May 2025 18:59:38 GMT | Email Analysis | Hritesh Tkr | [Read More](https://medium.com/p/65da4e4ef6ca) |
-| Tue, 06 May 2025 18:59:28 GMT | Too Much. | just Lyd | [Read More](https://medium.com/p/ec1ea5f52865) |
