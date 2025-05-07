@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 15:18:33 GMT | Compress-a-thon — Web Exploitation — Pentathon 2025 | Somnath Das | [Read More](https://medium.com/p/fea9adf9fa6b) |
+| Wed, 07 May 2025 15:18:05 GMT | Applied Network Theory: How to Kill a Complex System | Hannes Rollin | [Read More](https://medium.com/p/676041707a21) |
+| Wed, 07 May 2025 15:15:58 GMT | US Warns of Hackers Targeting ICS/SCADA at Oil and Gas Organizations | IT_Engineer | [Read More](https://medium.com/p/21ec504430d5) |
+| Wed, 07 May 2025 15:03:26 GMT | Extended Detection and Response (XDR): The Future of Unified Cybersecurity | Jackdavis Iap | [Read More](https://medium.com/p/ebe2784a79b8) |
+| Wed, 07 May 2025 14:57:12 GMT | Introduction to Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/e8b51a2a195f) |
+| Wed, 07 May 2025 14:47:36 GMT | Container Security in Kubernetes: A Practical Guide to the Principle of Least Privilege | YOUSSEF CHAMRAH | [Read More](https://medium.com/p/31b25fd64d90) |
+| Wed, 07 May 2025 14:40:48 GMT | AWS Amplify Studio Hit by Severe Vulnerability Enabling Code Execution | current.cybersecurity | [Read More](https://medium.com/p/a00004545a4c) |
 | Wed, 07 May 2025 14:40:25 GMT | ⚔️ Space Security Is the New Cyber Battlefield: Why You Should Care Before It’s Too Late | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/a373d7e0dde5) |
+| Wed, 07 May 2025 14:37:53 GMT | Two Extremes, One Platform: How StealthMole Helped Map Radical Networks | OpsecZero | [Read More](https://medium.com/p/400b2fcbe38d) |
+| Wed, 07 May 2025 14:37:42 GMT | Navigating the Treacherous Waters: Understanding the Security Risks of the Model Context Protocol… | Keith Foster | [Read More](https://medium.com/p/01da48d6e5a2) |
+| Wed, 07 May 2025 14:36:09 GMT | *My Path to Becoming a Cyber Technology Master* | The Gen Z Writer | [Read More](https://medium.com/p/76e9aad17573) |
 | Wed, 07 May 2025 14:31:46 GMT | Tool Deep Dives: Using Metasploit for Penetration Testing | Cyber Sec Pro | [Read More](https://medium.com/p/68c98afff365) |
 | Wed, 07 May 2025 14:31:32 GMT | What Is a Wi-Fi Pineapple? And How to Protect Yourself From Getting Hacked | Mohamad MERHI | [Read More](https://medium.com/p/caaced139ee1) |
 | Wed, 07 May 2025 14:31:25 GMT | MITRE Technique and Detection Opportunities — Ransomware Attackers Leveraged Privilege Escalation… | MITRE Doggy | [Read More](https://medium.com/p/d43cbecb22db) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 10:40:45 GMT | SEBI CSCRF: Key Compliance Measures & Cybersecurity Checklist (2025) | Ampcus Cyber | [Read More](https://medium.com/p/cc96b8a482a1) |
 | Wed, 07 May 2025 10:31:39 GMT | TechXY Turbo — Tech Podcast Launch | Frank Gullo | [Read More](https://medium.com/p/b1af0b69692f) |
 | Wed, 07 May 2025 10:30:00 GMT | Affordable SEO and Web Design That Works | Morgan Donovan | [Read More](https://medium.com/p/f54b5bb890d1) |
-| Wed, 07 May 2025 10:21:00 GMT | Detecting SQL Injection Attacks | Fatimahasan | [Read More](https://medium.com/p/f12324774e0d) |
-| Wed, 07 May 2025 10:16:41 GMT | SubNotifier | Nahid Əliyev | [Read More](https://medium.com/p/b8a8f2671819) |
-| Wed, 07 May 2025 10:12:50 GMT | How I Passed the Blue Team Level 1 (BTL1) Certification Exam: My Experience and Tips | Enes Cayvarlı | [Read More](https://medium.com/p/3b3b9763b0a8) |
-| Wed, 07 May 2025 10:10:13 GMT | Is this the End of High Paying Tech Jobs? | FACE Prep Campus | [Read More](https://medium.com/p/ce8eba3c1d3f) |
-| Wed, 07 May 2025 10:10:06 GMT | Why SMBs Are Prime Targets for Cyber Attacks ?(And How to Stay Safe in 2025) | Sachidanandan KP | [Read More](https://medium.com/p/e1829531b11c) |
-| Wed, 07 May 2025 10:06:59 GMT | Super-Quantum Computer: Unlocking the Potential of Simulated Worlds | Przemek Czerkas | [Read More](https://medium.com/p/4ea4a7071b69) |
-| Wed, 07 May 2025 10:06:12 GMT | Data Center Security Market Size to See Stunning Growth: $62.2 Billion by 2032 | Harsh Mehta | [Read More](https://medium.com/p/d7d45456143e) |
-| Wed, 07 May 2025 10:03:30 GMT | The Daily Tech Digest: 07 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8776a48a53b9) |
-| Wed, 07 May 2025 09:58:47 GMT | Orphaned Applications: The Quietest Risk in Your Digital Estate | Serkan Sevinç | [Read More](https://medium.com/p/322aacee5735) |
-| Wed, 07 May 2025 09:55:50 GMT | Revolutionizing Linux Command Line: The Latest Update of Ai-Terminal-X | The Pentrix | [Read More](https://medium.com/p/33a271420c91) |
