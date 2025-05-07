@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 06:26:47 GMT | Craft CMS Zero-Day Exploit Chain Leads to RCE and Data Theft | Infoziant | [Read More](https://medium.com/p/7e4296c99f02) |
+| Wed, 07 May 2025 06:25:39 GMT | Nanoservice Security: How to Build Atomic Workflows for a Zero-Trust Future | Akshat Sharma | [Read More](https://medium.com/p/99985d99909b) |
+| Wed, 07 May 2025 06:25:33 GMT | VulnHUB:Basic Pentesting 1 | Mrcool76 | [Read More](https://medium.com/p/5b75a65e9e10) |
+| Wed, 07 May 2025 06:20:45 GMT | How to setup a Monthly Free VPS for Bug Hunting | Mostafa Alrefai | [Read More](https://medium.com/p/d41d0fa3ed6c) |
+| Wed, 07 May 2025 06:17:31 GMT | More Short Stories from Tech: Where Fiction Meets Our Digital Reality | Quentin Drummond Anderson | [Read More](https://medium.com/p/fa3a3111737c) |
+| Wed, 07 May 2025 06:10:09 GMT | Setting Up Secure Connections in Azure Data Factory with Key Vault | Haotianzhu | [Read More](https://medium.com/p/888bb1c877a9) |
+| Wed, 07 May 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — May 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d5a7a60f99c9) |
+| Wed, 07 May 2025 05:59:58 GMT | Master Cybersecurity with Certified Ethical Hacker V13 | Certocean | [Read More](https://medium.com/p/ecfc1e54f1fa) |
+| Wed, 07 May 2025 05:58:13 GMT | Penetration Testing | farsana77 | [Read More](https://medium.com/p/8e32225db19e) |
+| Wed, 07 May 2025 05:58:07 GMT | What Are the Best Data Security Platforms to Protect Your Business in 2025? | AI Guts | [Read More](https://medium.com/p/d209820882c1) |
+| Wed, 07 May 2025 05:57:33 GMT | Kali Linux: The Hacker’s Swiss Army Knife | Khubra | [Read More](https://medium.com/p/4fa102f9f40c) |
+| Wed, 07 May 2025 05:56:10 GMT | When the Algorithms Get Bored: What Comes After Predictable? | ANISH BALA SACHIN | [Read More](https://medium.com/p/aae478fc1886) |
+| Wed, 07 May 2025 05:51:55 GMT | Quantum Security: The Silent Threat Coming for Your Business | Abdihamid A | [Read More](https://medium.com/p/a62916107073) |
+| Wed, 07 May 2025 05:48:09 GMT | Access Control in Banks: Protecting Financial Assets in the UAE | Aafiya | [Read More](https://medium.com/p/e9b8724337ea) |
 | Wed, 07 May 2025 05:40:45 GMT | Certified Ethical Hacker V13: Master the Art of Ethical Hacking in the Modern Cybersecurity Era | Certocean | [Read More](https://medium.com/p/133606e39380) |
 | Wed, 07 May 2025 05:37:35 GMT | Palo Alto Networks Prisma Cloud Network Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/2297639e1833) |
 | Wed, 07 May 2025 05:36:48 GMT | Managed Detection and Response (MDR): The Future of Cybersecurity Starts Here | Gargiben | [Read More](https://medium.com/p/e27232ec1c07) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 20:49:11 GMT | Neurocracked CTF Part Three: Neural Network Nexus | Tyler Wall | [Read More](https://medium.com/p/367f49a70902) |
 | Tue, 06 May 2025 20:47:35 GMT | When Trust Breaks Down: What Corewell’s Data Breaches Cost My Family | Neka D'Amico | [Read More](https://medium.com/p/397e3239a2a7) |
 | Tue, 06 May 2025 20:46:10 GMT | Neurocracked CTF Part Two: Whispers in the Shell | Tyler Wall | [Read More](https://medium.com/p/79716acd61c8) |
-| Tue, 06 May 2025 20:42:53 GMT | SEToolkit ile Phishing Saldırısı: Sosyal Mühendislik Pratiği | Sumeyra | [Read More](https://medium.com/p/407c5d556b96) |
-| Tue, 06 May 2025 20:41:48 GMT | Neurocracked CTF Part One: Upgrade Required | Tyler Wall | [Read More](https://medium.com/p/1321c04cf0e6) |
-| Tue, 06 May 2025 20:35:29 GMT | Colleagues, whether you are seeking advancement in your current company or looking to make a… | Franklin Rhodes | [Read More](https://medium.com/p/d3424d744044) |
-| Tue, 06 May 2025 20:32:46 GMT | Redis Has a Memory Problem and It’s Not Funny | Brendan Smith | [Read More](https://medium.com/p/dde229785a83) |
-| Tue, 06 May 2025 20:28:16 GMT | CSRF with broken referrer validation | Arunoday Tiwari | [Read More](https://medium.com/p/ead2c9dfc103) |
-| Tue, 06 May 2025 20:26:24 GMT | Do You Really TrustYour AI Generated Code? | Mossab Kbeisy | [Read More](https://medium.com/p/c914a19b7c70) |
-| Tue, 06 May 2025 20:23:15 GMT | ️‍♂️ Friday Overtime TryHackMe | Ivan | [Read More](https://medium.com/p/615ddc199c2c) |
-| Tue, 06 May 2025 20:12:11 GMT | ARP Poisoning Saldırısı Nedir? Ettercap ile Uygulamalı Anlatım | Sumeyra | [Read More](https://medium.com/p/fad97b792054) |
-| Tue, 06 May 2025 20:08:03 GMT | Why My MacBook Warned Me About Weak Wi-Fi Security (WPA)? Let’s Understand Together! | Amitishacked | [Read More](https://medium.com/p/2e0b141c8036) |
-| Tue, 06 May 2025 19:52:46 GMT | Türkiye’de Siber Güvenlik Kanunu ve Siber Güvenlik Eylem Planı | Mevlüt Kaan Karakoç | [Read More](https://medium.com/p/92778c6c1a83) |
-| Tue, 06 May 2025 19:50:41 GMT | API Security in NextJs Application | electrooo | [Read More](https://medium.com/p/c71b9a795448) |
-| Tue, 06 May 2025 19:43:21 GMT | Why Vulnerability Is The New Success | Scott Asai | [Read More](https://medium.com/p/099c05d54509) |
-| Tue, 06 May 2025 19:39:11 GMT | SSRF (Server-Side Request Forgery) | Yaxshi Sariyeva | [Read More](https://medium.com/p/87b79925f83d) |
-| Tue, 06 May 2025 19:36:18 GMT | The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2 | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/a7d8a69710ff) |
