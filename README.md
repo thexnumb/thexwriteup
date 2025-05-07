@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 16:21:11 GMT | Classification vs. Categorization & Marking vs. Labeling | Igor Berner | [Read More](https://medium.com/p/844dd9d6371a) |
+| Wed, 07 May 2025 16:17:55 GMT | Borders Are Physical. Identity Shouldn’t Be. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4354f9f1dba3) |
+| Wed, 07 May 2025 16:14:58 GMT | Don’t Get “Fix”ed | Eina Schroeder | [Read More](https://medium.com/p/b14245714bd6) |
+| Wed, 07 May 2025 16:08:37 GMT | Data Exfiltration - Tips - Consult Hacker | BlackHat | [Read More](https://medium.com/p/0765967d29f0) |
+| Wed, 07 May 2025 16:03:28 GMT | Fog Ransomware: The Full Breakdown | Loginsoft | [Read More](https://medium.com/p/b77437838d60) |
+| Wed, 07 May 2025 16:03:25 GMT | Code Snippets and How To on GitHub | Teri Radichel | [Read More](https://medium.com/p/9b81be036271) |
+| Wed, 07 May 2025 16:02:37 GMT | Threadless Code Injection: Abusing Windows Fibers for Stealthy In-Memory Execution | Maxwell Cross | [Read More](https://medium.com/p/954abcb106ae) |
+| Wed, 07 May 2025 16:02:18 GMT | Can AI Protect You from Scams? The Hidden Truth About Fraudulent Messages | Maha Althobaiti | [Read More](https://medium.com/p/426f429cbcf6) |
+| Wed, 07 May 2025 16:01:44 GMT | Your Ultimate Guide to Receiving Curvance $CVE Tokens | CVE | [Read More](https://medium.com/p/76ab0380ced0) |
+| Wed, 07 May 2025 15:51:00 GMT | VPN Tips For Maximizing Internet Security | James Neal | [Read More](https://medium.com/p/a1072e3f1cb9) |
+| Wed, 07 May 2025 15:50:17 GMT | I Tried Microsoft Security Copilot — and It’s a Game-Changer for Cybersecurity | LazyHacker | [Read More](https://medium.com/p/e3a1da4af6ba) |
+| Wed, 07 May 2025 15:46:58 GMT | Dependency Confusion: Critical Security Risks of Using Internal Repositories | Dmitry Protsenko | [Read More](https://medium.com/p/576e0f912e4e) |
+| Wed, 07 May 2025 15:46:01 GMT | Leading-Edge VPN Features For Every User | Melvin Erickson | [Read More](https://medium.com/p/04d52a2eff28) |
+| Wed, 07 May 2025 15:45:57 GMT | Wearing People Down: How Covert Operations Target Vulnerabilities to Destabilize Movements | Cat Mendonca | [Read More](https://medium.com/p/ef42e2d9969d) |
+| Wed, 07 May 2025 15:45:14 GMT | Mitigating Software Supply Chain Vulnerabilities with Zero-Trust Dependencies | James Davis | [Read More](https://medium.com/p/06f950497cfe) |
+| Wed, 07 May 2025 15:42:56 GMT | Investigating Windows Logs | Hritesh Tkr | [Read More](https://medium.com/p/e2b22b707f8d) |
+| Wed, 07 May 2025 15:41:07 GMT | Day 28: Bypassing GraphQL Introspection, Rate Limiting, and CSRF Defenses | Agarwaldaksh | [Read More](https://medium.com/p/be95c779baed) |
+| Wed, 07 May 2025 15:37:14 GMT | Cyber Security: A Beginner’s Guide for 2025 | Ritik Yadav | [Read More](https://medium.com/p/0e0b722b9257) |
+| Wed, 07 May 2025 15:35:16 GMT | Trickster picoCTF 2024 Writeup | Surt | [Read More](https://medium.com/p/e0e80aa8ef0d) |
 | Wed, 07 May 2025 15:30:59 GMT | Day 119 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/045c87b55d3a) |
 | Wed, 07 May 2025 15:29:09 GMT | WinPEAS & LinPEAS — The Most Powerful Privilege Escalation Enumeration Tools for Pentesters | Kshahabaj | [Read More](https://medium.com/p/92f89b045122) |
 | Wed, 07 May 2025 15:23:18 GMT | https://www.instagram.com/p/DJRrpWohSZJ/?igsh=NG9idzQxOHlyeG1n | Mata Hacker | [Read More](https://medium.com/p/94f38a1bbe15) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 11:25:57 GMT | How Background Checks Strengthen Recruitment in the UK Security Sector | Background Screening Services | [Read More](https://medium.com/p/7ae587f33368) |
 | Wed, 07 May 2025 11:20:41 GMT | Leadership in the Age of Cybersecurity: Protecting Europe’s Digital Assets | Itssonic | [Read More](https://medium.com/p/d394ef6e0617) |
 | Wed, 07 May 2025 11:17:30 GMT | Penetration Testing vs. Vulnerability Scanning: Key Differences | Ampcus Cyber | [Read More](https://medium.com/p/cc9beb9cbc79) |
-| Wed, 07 May 2025 11:17:15 GMT | What Is the Microsoft Azure Equivalent Certification for AWS Solutions Architect? | Vasundhra sharma | [Read More](https://medium.com/p/658bb2a71aaa) |
-| Wed, 07 May 2025 11:14:53 GMT | The Importance of Cybersecurity in App Development | Zetaton | [Read More](https://medium.com/p/0c764a716467) |
-| Wed, 07 May 2025 11:14:46 GMT | Pay Up or Get Exposed: Inside the Extortionware Threat | Karl Buhl | [Read More](https://medium.com/p/ed554d33984b) |
-| Wed, 07 May 2025 11:09:44 GMT | Exploring the Bug Bounty Program: A Gateway to Ethical Hacking and Cybersecurity Careers | Anand Narayanan | [Read More](https://medium.com/p/34649bc79690) |
-| Wed, 07 May 2025 11:07:47 GMT | Keep It Safe: The Best Home Safes for When Life Gets… Unpredictable | Scals | [Read More](https://medium.com/p/53c871e6c37a) |
-| Wed, 07 May 2025 11:07:29 GMT | Baby Monitors That Actually Work: 3 Picks Worth Checking Out | Ping | [Read More](https://medium.com/p/e789bb849d1b) |
-| Wed, 07 May 2025 11:07:04 GMT | The 20 Biggest Data Breaches in History: Lessons Learned | Sattrix | [Read More](https://medium.com/p/12d08e7e1773) |
-| Wed, 07 May 2025 11:06:22 GMT | 7 Access Control Mistakes You MUST Fix Now! | SecureSlate | [Read More](https://medium.com/p/0ada6d9891df) |
-| Wed, 07 May 2025 11:05:08 GMT | Wazuh [100] Detecting SQL Injection and XSS Attacks using DVWA + Wazuh SIEM | Prakriti Timilsina | [Read More](https://medium.com/p/18b2b40738ef) |
-| Wed, 07 May 2025 11:02:38 GMT | The Echoes of you. | Nazzie | [Read More](https://medium.com/p/15128d716c7e) |
-| Wed, 07 May 2025 11:02:38 GMT | Bitdefender vs. Kaspersky: Antivirus Comparison (2024–2025) | sudo3rs | [Read More](https://medium.com/p/8bd189de73ca) |
-| Wed, 07 May 2025 11:02:24 GMT | Ensure Your Safety with ISMS: Leading Security Agency in Delhi | Internal security and manpower services | [Read More](https://medium.com/p/94f24425a75c) |
-| Wed, 07 May 2025 10:58:53 GMT | Cybersecurity: Safeguarding the Digital Frontier | Khurath | [Read More](https://medium.com/p/436a097dd556) |
-| Wed, 07 May 2025 10:57:45 GMT | Why Can’t I Follow People on TikTok? Common Reasons & Solutions | Sufyantest | [Read More](https://medium.com/p/66deb2d6b122) |
-| Wed, 07 May 2025 10:55:38 GMT | Brim | Shamar Isaac | [Read More](https://medium.com/p/c81eceded67e) |
-| Wed, 07 May 2025 10:55:27 GMT | The Playground Security Squad: How Your Tech Stack Keeps the Bad Guys Out | Sachin | [Read More](https://medium.com/p/2470ae962e9b) |
-| Wed, 07 May 2025 10:52:23 GMT | Which Safe is Right for You? | Tap2Live | [Read More](https://medium.com/p/a22394af17ff) |
-| Wed, 07 May 2025 10:52:22 GMT | Real Using Ethical Hacking To Stay One Step Ahead Of Cyber Threats | Sangfor | [Read More](https://medium.com/p/ed7577fc5e5f) |
-| Wed, 07 May 2025 10:46:06 GMT | How a JavaScript File Led Me to an Open Redirect Vulnerability | Shafayat Ahmed Alif | [Read More](https://medium.com/p/eefce51303b2) |
