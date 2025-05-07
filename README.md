@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 16:45:24 GMT | The Growing Threat of Ransomware-as-a-Service (RaaS): How Cybercriminals Are Industrializing… | Murali Ravi Narayan | [Read More](https://medium.com/p/53b660303c61) |
+| Wed, 07 May 2025 16:42:58 GMT | AI is changing everything, and secrets need to keep up | Amber Britton | [Read More](https://medium.com/p/4da9c2f1af1b) |
+| Wed, 07 May 2025 16:41:53 GMT | World War III: A Cyber War | Hathi Manan | [Read More](https://medium.com/p/32ecc8ff914d) |
+| Wed, 07 May 2025 16:40:52 GMT | Why Your Business Needs a Patch Management Service Provider | SafeAeon Inc. | [Read More](https://medium.com/p/5c0b73d3aae6) |
+| Wed, 07 May 2025 16:39:31 GMT | The Rise of AI-Powered Cyberattacks: A New Era of Threats | Murali Ravi Narayan | [Read More](https://medium.com/p/5ba6c2d0f4cd) |
+| Wed, 07 May 2025 16:36:30 GMT | Anti-Looter Kit Review | John | [Read More](https://medium.com/p/b4f0d29bc561) |
+| Wed, 07 May 2025 16:33:44 GMT | HACK-ERA CTF — Phase 1 Walkthrough | Rajneesh Kumar Arya | [Read More](https://medium.com/p/63b3316e86c7) |
+| Wed, 07 May 2025 16:30:10 GMT | SOC123 — EventID 56— Enumeration Tool Detected | Mateo Pappa | [Read More](https://medium.com/p/5f79522d9716) |
 | Wed, 07 May 2025 16:21:11 GMT | Classification vs. Categorization & Marking vs. Labeling | Igor Berner | [Read More](https://medium.com/p/844dd9d6371a) |
 | Wed, 07 May 2025 16:17:55 GMT | Borders Are Physical. Identity Shouldn’t Be. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4354f9f1dba3) |
 | Wed, 07 May 2025 16:14:58 GMT | Don’t Get “Fix”ed | Eina Schroeder | [Read More](https://medium.com/p/b14245714bd6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 11:52:22 GMT | 10 security mistakes can kill your startup before it even starts growing | Anshul Chauhan | [Read More](https://medium.com/p/5daf72c43e04) |
 | Wed, 07 May 2025 11:49:50 GMT | Vulnerability Assessment & Reverse Engineering (V.A.R.E) Lab #14 | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/03d70195ac06) |
 | Wed, 07 May 2025 11:45:34 GMT | Lookup (Easy) — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/c0bbf93f43c2) |
-| Wed, 07 May 2025 11:43:56 GMT | Domain IV — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/f13b409f86f4) |
-| Wed, 07 May 2025 11:43:43 GMT | Play Ransomware Exploits Windows CVE-2024–26169 to Escalate Privileges and Deploy Payloads | CyBlog | [Read More](https://medium.com/p/57e57b3c24d4) |
-| Wed, 07 May 2025 11:33:09 GMT | Únete a ICTC para conseguir una nuevo skin de tarjeta | WhiteBIT | [Read More](https://medium.com/p/257c45a0d2f1) |
-| Wed, 07 May 2025 11:33:03 GMT | How Security Patrols Help Prevent Commercial Break-Ins at Commercial Properties | ICorp Security | [Read More](https://medium.com/p/eb95ba1d7f54) |
-| Wed, 07 May 2025 11:27:12 GMT | Certificado SSL 2029: renovación cada 49 días | Manuel Jesús Gallardo Martín | [Read More](https://medium.com/p/7a2f4bc45a3c) |
-| Wed, 07 May 2025 11:25:57 GMT | How Background Checks Strengthen Recruitment in the UK Security Sector | Background Screening Services | [Read More](https://medium.com/p/7ae587f33368) |
-| Wed, 07 May 2025 11:20:41 GMT | Leadership in the Age of Cybersecurity: Protecting Europe’s Digital Assets | Itssonic | [Read More](https://medium.com/p/d394ef6e0617) |
-| Wed, 07 May 2025 11:17:30 GMT | Penetration Testing vs. Vulnerability Scanning: Key Differences | Ampcus Cyber | [Read More](https://medium.com/p/cc9beb9cbc79) |
