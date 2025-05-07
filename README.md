@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 10:16:41 GMT | SubNotifier | Nahid Əliyev | [Read More](https://medium.com/p/b8a8f2671819) |
+| Wed, 07 May 2025 10:12:50 GMT | How I Passed the Blue Team Level 1 (BTL1) Certification Exam: My Experience and Tips | Enes Cayvarlı | [Read More](https://medium.com/p/3b3b9763b0a8) |
+| Wed, 07 May 2025 10:10:13 GMT | Is this the End of High Paying Tech Jobs? | FACE Prep Campus | [Read More](https://medium.com/p/ce8eba3c1d3f) |
+| Wed, 07 May 2025 10:10:06 GMT | Why SMBs Are Prime Targets for Cyber Attacks ?(And How to Stay Safe in 2025) | Sachidanandan KP | [Read More](https://medium.com/p/e1829531b11c) |
+| Wed, 07 May 2025 10:06:59 GMT | Super-Quantum Computer: Unlocking the Potential of Simulated Worlds | Przemek Czerkas | [Read More](https://medium.com/p/4ea4a7071b69) |
+| Wed, 07 May 2025 10:06:12 GMT | Data Center Security Market Size to See Stunning Growth: $62.2 Billion by 2032 | Harsh Mehta | [Read More](https://medium.com/p/d7d45456143e) |
+| Wed, 07 May 2025 10:03:30 GMT | The Daily Tech Digest: 07 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8776a48a53b9) |
+| Wed, 07 May 2025 09:58:47 GMT | Orphaned Applications: The Quietest Risk in Your Digital Estate | Serkan Sevinç | [Read More](https://medium.com/p/322aacee5735) |
+| Wed, 07 May 2025 09:55:50 GMT | Revolutionizing Linux Command Line: The Latest Update of Ai-Terminal-X | The Pentrix | [Read More](https://medium.com/p/33a271420c91) |
+| Wed, 07 May 2025 09:47:22 GMT | I passed the eJPT exam on my first attempt! | Xuanyingtan | [Read More](https://medium.com/p/d8f5bd83decc) |
+| Wed, 07 May 2025 09:45:45 GMT | Privacy Based/Oriented Browsers [PC, Multiplatform] | Shardul Sawant | [Read More](https://medium.com/p/e608731134d9) |
+| Wed, 07 May 2025 09:43:28 GMT | How Hackers Are Stealing Passwords Using Your Browser — And What You Can Do About It. | Iman Athauda | [Read More](https://medium.com/p/1c02e25108a4) |
+| Wed, 07 May 2025 09:43:10 GMT | Sahipsiz uygulama, sessizce açık kapı bırakır. | Serkan Sevinç | [Read More](https://medium.com/p/0034046adafe) |
 | Wed, 07 May 2025 09:40:11 GMT | Essential Cryptocurrency Security Tips for Beginners | Kamar Maki | [Read More](https://medium.com/p/4bdda9e146f2) |
 | Wed, 07 May 2025 09:28:42 GMT | Colonial Pipeline Ransomware Attack: A Post-Mortem | Ahmad Javed | [Read More](https://medium.com/p/0f1152432959) |
 | Wed, 07 May 2025 09:25:07 GMT | Access Control Systems in Frederick, MD - ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/e011e45286c1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 03:50:04 GMT | CS2AI’s Cyber Security in Manufacturing Symposium | Mike Gonzalez | [Read More](https://medium.com/p/73d8df10ce7b) |
 | Wed, 07 May 2025 03:38:00 GMT | Navigating the Linux File System for Beginners | Arthur Baronov | [Read More](https://medium.com/p/63ef2f721688) |
 | Wed, 07 May 2025 03:34:52 GMT | Backchannel client-authentication in OAuth flow | Kunal Sinha | [Read More](https://medium.com/p/82d2afea660e) |
-| Wed, 07 May 2025 03:34:16 GMT | Why CVSS Scores Alone Aren’t Enough in Vulnerability Management | Paritosh | [Read More](https://medium.com/p/219e8efad30e) |
-| Wed, 07 May 2025 03:32:34 GMT | Istio vs. Linkerd: Choosing the Right Service Mesh for Your Kubernetes Environment | Sridhar | [Read More](https://medium.com/p/90cd26bec2a7) |
-| Wed, 07 May 2025 03:32:34 GMT | 6 Ways to Prevent MongoDB Injection Attacks | Arunangshu Das | [Read More](https://medium.com/p/7e9021040c12) |
-| Wed, 07 May 2025 03:30:21 GMT | HTB — Cypher (Experience & Takeaways) | Max | [Read More](https://medium.com/p/0c4f51d17ab1) |
-| Wed, 07 May 2025 03:20:45 GMT | Step-by-Step Guide to Claim Curvance (CVE) | CVE | [Read More](https://medium.com/p/81f7e54f9114) |
-| Wed, 07 May 2025 03:12:53 GMT | flag_shop - Writeup | Marvin | [Read More](https://medium.com/p/9651e2ecf7b5) |
-| Wed, 07 May 2025 03:11:56 GMT | Day 26: Investigating SSH Brute-force Attack | Mikey O. | [Read More](https://medium.com/p/64fd9478efc2) |
-| Wed, 07 May 2025 03:09:50 GMT | The Role of AI in the Future of Penetration Testing: A Game-Changer for Ethical Hackers | Mohammad Suleiman | [Read More](https://medium.com/p/50309a089af2) |
-| Wed, 07 May 2025 02:59:32 GMT | Fortifying the Inbox: Why Email Security is a Boardroom Priority | Jerry Yonga | [Read More](https://medium.com/p/d636316450fe) |
-| Wed, 07 May 2025 02:31:42 GMT | Hack The Box Pentesting: CAP | abdur rashid firdaus | [Read More](https://medium.com/p/b1842b61cfd7) |
-| Wed, 07 May 2025 02:30:46 GMT | The Untold Truth of Malware Analysis: Inside the War Room of Digital Espionage | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/e288bf560810) |
-| Wed, 07 May 2025 02:19:21 GMT | Terrorism and Internal Security: Lessons from the Pahalgam Attack | Vijay | [Read More](https://medium.com/p/93bf39720192) |
-| Wed, 07 May 2025 02:12:01 GMT | Navigating AI Adoption: Insights from OpenAI’s Enterprise Playbook and the Pivotal Role of Security | Tom Croll | [Read More](https://medium.com/p/006571e6e85d) |
