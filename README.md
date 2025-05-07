@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 13:27:37 GMT | Essential Programming Languages with Ecosystems | Erkan Kavas | [Read More](https://medium.com/p/cec8f61a1139) |
+| Wed, 07 May 2025 13:27:10 GMT | Non-Consensual Consent: The Downfall And Impact Of The Largest AI Pornography Website. | Nols Vt | [Read More](https://medium.com/p/a492c0d5836a) |
+| Wed, 07 May 2025 13:26:37 GMT | The Gentle Strength of Vulnerability in Leadership | Catherine Wong Delumpa | [Read More](https://medium.com/p/479c79827c1f) |
+| Wed, 07 May 2025 13:26:37 GMT | I’m Betting on Cybersecurity in the Age of AI — and Here’s Why You Should Too | Rami5a | [Read More](https://medium.com/p/2f9ab7880f19) |
+| Wed, 07 May 2025 13:24:04 GMT | Top cybersecurity courses in India | Edgar luis | [Read More](https://medium.com/p/cf98cd8ecabf) |
+| Wed, 07 May 2025 13:17:57 GMT | Operation Sindoor, India’s Counter-terror Playbook and Pakistan’s Response | Zorawar Gill | [Read More](https://medium.com/p/479e0cec4a47) |
+| Wed, 07 May 2025 13:16:56 GMT | VLAN IN PRACTICE — HOW LOGICAL SEGMENTATION MAKES NETWORKS FLEXIBLE, SECURE AND SCALABLE | Mariia Hirniak | [Read More](https://medium.com/p/1e40af38a8ee) |
+| Wed, 07 May 2025 13:10:44 GMT | RMF Is Being Dismantled. What Do We Do Now? | Cheryl Abram | [Read More](https://medium.com/p/b743bd4df71a) |
+| Wed, 07 May 2025 13:10:20 GMT | From Cross-Subdomain Cookie Reuse to Becoming Super Admin: An Exploit Chain Walkthrough | cyberpro151 | [Read More](https://medium.com/p/32527caa2a11) |
+| Wed, 07 May 2025 13:02:44 GMT | The Fatal Delay Between Detection and Investigation | Peris.ai Cybersecurity | [Read More](https://medium.com/p/69477cf10008) |
+| Wed, 07 May 2025 13:01:33 GMT | Chrome 136 Is Here: Why You | James Neal | [Read More](https://medium.com/p/b692ef4fedba) |
+| Wed, 07 May 2025 12:56:47 GMT | SpiderFoot ile E-Posta Güvenliği Testi | Isaergisi | [Read More](https://medium.com/p/114f0c6a2288) |
 | Wed, 07 May 2025 12:43:15 GMT | Top 10 Common Bugs Every Tester Should Know | Prafulla Mishra | [Read More](https://medium.com/p/651beea26b26) |
 | Wed, 07 May 2025 12:39:14 GMT | A Step-by-Step Guide to Building Secure Generative AI Apps on AWS Bedrock | Sampathkumarbasa | [Read More](https://medium.com/p/eead8af94640) |
 | Wed, 07 May 2025 12:38:37 GMT | Exposing the Usual Suspects Common Vulnerabilities Found in Web App Penetration Testing | Mehak kamra | [Read More](https://medium.com/p/93cd73e75b63) |
+| Wed, 07 May 2025 12:33:41 GMT | Subukan O Bitawan | kofi and shosholit | [Read More](https://medium.com/p/4707893f8a5c) |
 | Wed, 07 May 2025 12:33:39 GMT | Think Like a Hacker: Learn the Core of Cybersecurity in One Read | Sultan Ahmmed | [Read More](https://medium.com/p/d5654ef8d01f) |
 | Wed, 07 May 2025 12:32:36 GMT | Blast From The Past: WOOT, There It Is — woot.com | Namir Sagheenanajar | [Read More](https://medium.com/p/22865127d563) |
 | Wed, 07 May 2025 12:31:29 GMT | Certified Red Team Analyst (CRTA) — Certification Review | Mohamed Belhassen Cherif | [Read More](https://medium.com/p/70e18a972828) |
@@ -77,6 +90,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 09:43:28 GMT | How Hackers Are Stealing Passwords Using Your Browser — And What You Can Do About It. | Iman Athauda | [Read More](https://medium.com/p/1c02e25108a4) |
 | Wed, 07 May 2025 09:43:10 GMT | Sahipsiz uygulama, sessizce açık kapı bırakır. | Serkan Sevinç | [Read More](https://medium.com/p/0034046adafe) |
 | Wed, 07 May 2025 09:40:11 GMT | Essential Cryptocurrency Security Tips for Beginners | Kamar Maki | [Read More](https://medium.com/p/4bdda9e146f2) |
+| Wed, 07 May 2025 09:32:59 GMT | I’m learning to let my boundaries speak louder than my empathy. | kofi and shosholit | [Read More](https://medium.com/p/002e0ffa2d97) |
 | Wed, 07 May 2025 09:28:42 GMT | Colonial Pipeline Ransomware Attack: A Post-Mortem | Ahmad Javed | [Read More](https://medium.com/p/0f1152432959) |
 | Wed, 07 May 2025 09:25:07 GMT | Access Control Systems in Frederick, MD - ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/e011e45286c1) |
 | Wed, 07 May 2025 09:20:58 GMT | Unveiling Critical Weaknesses: A Rigorous Penetration Test of a Web Application | Tusharpuri | [Read More](https://medium.com/p/3b60cef532e6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 08:12:33 GMT | Hackers, Bananas & Fake News | Lorraine Trindade | [Read More](https://medium.com/p/7f6dd73081f3) |
 | Wed, 07 May 2025 08:09:31 GMT | Best Linux Classes in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/4d0b45816f72) |
 | Wed, 07 May 2025 08:06:08 GMT | Navigating the Local LLM Landscape: Understanding and Mitigating Security Risks with Ollama | Jitendar Singh | [Read More](https://medium.com/p/b80d8362b67b) |
-| Wed, 07 May 2025 08:05:57 GMT | Why You Should Build Your Own Cybersecurity Lab — And How To Do It | Elizabeth Akindele | [Read More](https://medium.com/p/59e363f30a9d) |
-| Wed, 07 May 2025 08:04:45 GMT | Security Debt in the Cloud: What You’re Delaying Will Cost You | Induz Data Solutions | [Read More](https://medium.com/p/287bef720d78) |
-| Wed, 07 May 2025 08:04:12 GMT | THM - Logless Hunt | Francesco Pastore | [Read More](https://medium.com/p/69d54f43c4c1) |
-| Wed, 07 May 2025 08:03:26 GMT | Title: How I’m Building My First App Using Only a Mobile Phone | Editorroyal | [Read More](https://medium.com/p/40c06e9dc864) |
-| Wed, 07 May 2025 08:02:29 GMT | Sicherheitsroboter Deutschland | Presslink Media | [Read More](https://medium.com/p/d5c731a782c6) |
-| Wed, 07 May 2025 07:59:03 GMT | ️‍♂️ Unlisted but Not Unseen: How I Found the Admin Panel in a JavaScript Comment | Iski | [Read More](https://medium.com/p/f34af758b4c8) |
-| Wed, 07 May 2025 07:57:19 GMT | Security Robots Switzerland | Marcus Koehnlein | [Read More](https://medium.com/p/60409ed83d4c) |
-| Wed, 07 May 2025 07:54:36 GMT | Amazon Cognito M2M Token Caching for Cost Optimisation & Performance | Serverless Advocate | [Read More](https://medium.com/p/74c876d6f4aa) |
-| Wed, 07 May 2025 07:45:18 GMT | Bypassing File Upload Restrictions: A Practical Guide to Finding and Exploiting Vulnerabilities | .M4KS | [Read More](https://medium.com/p/b20e831c4a32) |
-| Wed, 07 May 2025 07:35:45 GMT | AML (Anti-Money Laundering) Nedir? Kripto Sektörü İçin Neden Kritik? | BeosinTR | [Read More](https://medium.com/p/79bd2199ccb9) |
-| Wed, 07 May 2025 07:33:35 GMT | Top 7 Cyber Security Certifications in India for 2025 | Anand Narayanan | [Read More](https://medium.com/p/530d59136c2f) |
-| Wed, 07 May 2025 07:28:06 GMT | An Evening of Browser Security: SquareX’s RSAC Networking Dinner | SquareX | [Read More](https://medium.com/p/218458917c5b) |
-| Wed, 07 May 2025 07:25:15 GMT | ️ Inside the Web: A Deep Dive into Cyberattacks in 2025 | Taha Qureshi | [Read More](https://medium.com/p/d45ac8df7ef1) |
-| Wed, 07 May 2025 07:24:42 GMT | Combatting Rising Cyber Threats: Leveraging Large Model Capabilities for Vulnerability Detection | Tencent EdgeOne | [Read More](https://medium.com/p/010484156d25) |
