@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 23:27:43 GMT | HOW TO CRACK WIFI PASSWORDS USING AIRGEDDON ON LINUX SYSTEM | Reuben Odoma | [Read More](https://medium.com/p/43609768df9b) |
+| Wed, 07 May 2025 23:22:53 GMT | Protecting Your Nudes: A Guide to Digital Intimacy and Privacy in the Age of Surveillance | BiyteLüm | [Read More](https://medium.com/p/6aa8e7600e32) |
+| Wed, 07 May 2025 23:20:30 GMT | Pentesting Fundamentals — TryHackMe Room Walkthrough | Ahmed Nageeb | [Read More](https://medium.com/p/15dd07058c9f) |
 | Wed, 07 May 2025 23:14:51 GMT | Cobain Cyber Security 101 : Offensive Security Intro seru ! | Velia's Journey | [Read More](https://medium.com/p/3f62ca501d11) |
 | Wed, 07 May 2025 23:06:45 GMT | 8 Reasons Not To Trust Your Phone With Sensitive Stuff | Deepak Puri | [Read More](https://medium.com/p/3751b8b61052) |
 | Wed, 07 May 2025 23:03:40 GMT | Ask Savvy Cyber Kids: Is All Screen Time The Same? | Savvy Cyber Kids | [Read More](https://medium.com/p/8777870c93f3) |
@@ -110,6 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 15:50:17 GMT | I Tried Microsoft Security Copilot — and It’s a Game-Changer for Cybersecurity | LazyHacker | [Read More](https://medium.com/p/e3a1da4af6ba) |
 | Wed, 07 May 2025 15:46:58 GMT | Dependency Confusion: Critical Security Risks of Using Internal Repositories | Dmitry Protsenko | [Read More](https://medium.com/p/576e0f912e4e) |
 | Wed, 07 May 2025 15:46:01 GMT | Leading-Edge VPN Features For Every User | Melvin Erickson | [Read More](https://medium.com/p/04d52a2eff28) |
-| Wed, 07 May 2025 15:45:57 GMT | Wearing People Down: How Covert Operations Target Vulnerabilities to Destabilize Movements | Cat Mendonca | [Read More](https://medium.com/p/ef42e2d9969d) |
-| Wed, 07 May 2025 15:45:14 GMT | Mitigating Software Supply Chain Vulnerabilities with Zero-Trust Dependencies | James Davis | [Read More](https://medium.com/p/06f950497cfe) |
-| Wed, 07 May 2025 15:42:56 GMT | Investigating Windows Logs | Hritesh Tkr | [Read More](https://medium.com/p/e2b22b707f8d) |
