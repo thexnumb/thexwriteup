@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 03:50:41 GMT | Potential Risks Without VPN According To Experts | James Neal | [Read More](https://medium.com/p/3e9a35a924d0) |
+| Wed, 07 May 2025 03:50:04 GMT | CS2AI’s Cyber Security in Manufacturing Symposium | Mike Gonzalez | [Read More](https://medium.com/p/73d8df10ce7b) |
+| Wed, 07 May 2025 03:38:00 GMT | Navigating the Linux File System for Beginners | Arthur Baronov | [Read More](https://medium.com/p/63ef2f721688) |
+| Wed, 07 May 2025 03:34:52 GMT | Backchannel client-authentication in OAuth flow | Kunal Sinha | [Read More](https://medium.com/p/82d2afea660e) |
+| Wed, 07 May 2025 03:34:16 GMT | Why CVSS Scores Alone Aren’t Enough in Vulnerability Management | Paritosh | [Read More](https://medium.com/p/219e8efad30e) |
+| Wed, 07 May 2025 03:32:34 GMT | Istio vs. Linkerd: Choosing the Right Service Mesh for Your Kubernetes Environment | Sridhar | [Read More](https://medium.com/p/90cd26bec2a7) |
+| Wed, 07 May 2025 03:32:34 GMT | 6 Ways to Prevent MongoDB Injection Attacks | Arunangshu Das | [Read More](https://medium.com/p/7e9021040c12) |
+| Wed, 07 May 2025 03:30:21 GMT | HTB — Cypher (Experience & Takeaways) | Max | [Read More](https://medium.com/p/0c4f51d17ab1) |
+| Wed, 07 May 2025 03:20:45 GMT | Step-by-Step Guide to Claim Curvance (CVE) | CVE | [Read More](https://medium.com/p/81f7e54f9114) |
+| Wed, 07 May 2025 03:12:53 GMT | flag_shop - Writeup | Marvin | [Read More](https://medium.com/p/9651e2ecf7b5) |
+| Wed, 07 May 2025 03:11:56 GMT | Day 26: Investigating SSH Brute-force Attack | Mikey O. | [Read More](https://medium.com/p/64fd9478efc2) |
 | Wed, 07 May 2025 03:09:50 GMT | The Role of AI in the Future of Penetration Testing: A Game-Changer for Ethical Hackers | Mohammad Suleiman | [Read More](https://medium.com/p/50309a089af2) |
 | Wed, 07 May 2025 02:59:32 GMT | Fortifying the Inbox: Why Email Security is a Boardroom Priority | Jerry Yonga | [Read More](https://medium.com/p/d636316450fe) |
 | Wed, 07 May 2025 02:31:42 GMT | Hack The Box Pentesting: CAP | abdur rashid firdaus | [Read More](https://medium.com/p/b1842b61cfd7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 18:57:22 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/fcf3d49a9f87) |
 | Tue, 06 May 2025 18:51:55 GMT | Stop Obsessing Over Open Rates & Start Building Email Momentum | Alexandrankwopara | [Read More](https://medium.com/p/f6fc0dce966c) |
 | Tue, 06 May 2025 18:51:15 GMT | Apache Parquet Servers Vulnerable to Critical CVE-2025–30065 Flaw | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/486a6e038d93) |
-| Tue, 06 May 2025 18:49:28 GMT | Ethical Hacking vs. Cybersecurity: What’s the Real Difference and Why It Matters to You? | Codevirussec | [Read More](https://medium.com/p/7145752e7b4f) |
-| Tue, 06 May 2025 18:41:35 GMT | Understanding the Context of the Organization (Clause 4.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/e2e505cc98c2) |
-| Tue, 06 May 2025 18:40:05 GMT | El debate ético en el Hacking: ¿Dónde trazar la línea? | Tiziano Mass | [Read More](https://medium.com/p/0dc672637303) |
-| Tue, 06 May 2025 18:39:16 GMT | New Tools, New Errors: Deploying TheHive & Cortex on Kali Linux with Docker | Manish Rawat | [Read More](https://medium.com/p/6467385c318a) |
-| Tue, 06 May 2025 18:37:14 GMT | gssiosch | ناهید مرادی | [Read More](https://medium.com/p/ded20e5d1bd0) |
-| Tue, 06 May 2025 18:35:06 GMT | What is a Virtual SOC and Why Does Your Business Need One? | SafeAeon Inc. | [Read More](https://medium.com/p/f324d75a3fa6) |
-| Tue, 06 May 2025 18:32:20 GMT | ️‍♂️ I Reported a Security Flaw, They Silently Patched It… and Ghosted Me. | Rolextital | [Read More](https://medium.com/p/03f0a02a696b) |
-| Tue, 06 May 2025 18:30:15 GMT | Embers of Hope | Anjaliamge | [Read More](https://medium.com/p/50eee34d3d83) |
-| Tue, 06 May 2025 18:27:40 GMT | Explore the Level 5 HND in Computing — Cybersecurity: Your Path to a Safer Digital Future | Ancy Thomas | [Read More](https://medium.com/p/9a1098d3786e) |
-| Tue, 06 May 2025 18:26:50 GMT | 10 Common Web Application Security Mistakes (and How to Fix Them Like a Pro) | Md Faiyaz Khan | [Read More](https://medium.com/p/fac99a5b0ed7) |
-| Tue, 06 May 2025 18:25:31 GMT | The Dark Web’s Worst Nightmares (In Book Form) | Ahmad Javed | [Read More](https://medium.com/p/aa24c27edb17) |
