@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 17:40:23 GMT | Deathnote - Vulnweb - CTF | neerajjayesh | [Read More](https://medium.com/p/fd3d4e334fd4) |
+| Wed, 07 May 2025 17:36:24 GMT | The Fall of Knights of Old: A Shattered Legacy | O. J. Okpabi | [Read More](https://medium.com/p/307f66f23f3e) |
+| Wed, 07 May 2025 17:35:36 GMT | ActiveWatch: A New Way to Stay Ahead of Cyber Threats. But Is It Perfect? | O. J. Okpabi | [Read More](https://medium.com/p/776e32a088c1) |
+| Wed, 07 May 2025 17:35:09 GMT | Darcula: The Phishing Syndicate Behind 884,000 Stolen Credit Cards | O. J. Okpabi | [Read More](https://medium.com/p/9e27cf1a7400) |
+| Wed, 07 May 2025 17:34:52 GMT | The Yale Health Hack: A Dangerous Cyber Breach | O. J. Okpabi | [Read More](https://medium.com/p/a61e9d7ea58b) |
+| Wed, 07 May 2025 17:34:37 GMT | This 2-Minute Test Reveals If You Fall for Fake News | 1Spot | [Read More](https://medium.com/p/9c87c868e409) |
+| Wed, 07 May 2025 17:21:38 GMT | Vault Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/3b5d5152a243) |
 | Wed, 07 May 2025 17:16:41 GMT | Understanding Cybersecurity Tools: A Beginner’s Guide to Safeguarding Your Digital World | Laurianne Apollon | [Read More](https://medium.com/p/b3833b7bd7cb) |
+| Wed, 07 May 2025 17:06:02 GMT | Enterprise Architecture vs. Solution Architecture: A Unique Gist View | Sean Gu | [Read More](https://medium.com/p/45b5b6b257ca) |
 | Wed, 07 May 2025 16:54:04 GMT | Why Managed Detection and Response Is Essential for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/7a27b3905cc7) |
 | Wed, 07 May 2025 16:52:33 GMT | The Intersection of AI and IoMT: Benefits, Threats, and the Future of Healthcare Cybersecurity | Murali Ravi Narayan | [Read More](https://medium.com/p/b85c96775f6b) |
 | Wed, 07 May 2025 16:50:06 GMT | Traffic Plan Issued in Islamabad Amid PSL Team Movements | Nomi | [Read More](https://medium.com/p/4b51587fad71) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 12:32:36 GMT | Blast From The Past: WOOT, There It Is — woot.com | Namir Sagheenanajar | [Read More](https://medium.com/p/22865127d563) |
 | Wed, 07 May 2025 12:31:29 GMT | Certified Red Team Analyst (CRTA) — Certification Review | Mohamed Belhassen Cherif | [Read More](https://medium.com/p/70e18a972828) |
 | Wed, 07 May 2025 12:16:48 GMT | Lost in Familiar Eyes | Tara Rai | [Read More](https://medium.com/p/92f1ccbe3fb0) |
-| Wed, 07 May 2025 12:16:37 GMT | The Hidden Cost of ‘I’m Fine’ Culture in Nigeria | Guardrail Project | [Read More](https://medium.com/p/a40f9143aa62) |
-| Wed, 07 May 2025 12:05:59 GMT | SNI SSL vs IP-Based SSL Certificate: Which One is Better for Your Business? | Olivia Carter | [Read More](https://medium.com/p/1606982fe276) |
-| Wed, 07 May 2025 12:02:36 GMT | Think You’re Safe Online? | Patrickjamesnc | [Read More](https://medium.com/p/44821ddb9485) |
-| Wed, 07 May 2025 12:02:36 GMT | The Dark Side of AI: Navigating the Threat Landscape | Neil Sahota | [Read More](https://medium.com/p/84a7955168a8) |
-| Wed, 07 May 2025 12:00:59 GMT | Flag Command : Hack The Box Writeup - By Rindaman666 | Rindaman666 | [Read More](https://medium.com/p/490d67ed1456) |
-| Wed, 07 May 2025 12:00:11 GMT | How I will change my Life in 1 week. | waris | [Read More](https://medium.com/p/11b9b8d043a2) |
-| Wed, 07 May 2025 11:58:17 GMT | How AI Enhances Cybersecurity for Businesses | HAROLD CALEB | [Read More](https://medium.com/p/d908d5377d4f) |
-| Wed, 07 May 2025 11:57:54 GMT | From Steel Bars to Firewalls: How Corrections Prepared Me for Cybersecurity | Brandon Dewater | [Read More](https://medium.com/p/a82ceb3990a9) |
