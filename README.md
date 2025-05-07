@@ -12,12 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 19:11:43 GMT | Floyd’s Tortoise & Hare Cycle Finding Algorithm: Explanation & Proof | Preeti L. | [Read More](https://medium.com/p/bf59befb153a) |
+| Wed, 07 May 2025 19:08:22 GMT | In the Quiet of Us | Heena | [Read More](https://medium.com/p/fc8f1519e46b) |
+| Wed, 07 May 2025 19:04:36 GMT | Flare VM Kurulumu | Aydan | [Read More](https://medium.com/p/3a1a97a6a803) |
+| Wed, 07 May 2025 18:58:16 GMT | Hello, are you in need of hacking services? | Darkvenom | [Read More](https://medium.com/p/8ebb48de588f) |
+| Wed, 07 May 2025 18:57:22 GMT | Web Development in 2025: The Trends Shaping the Digital Landscape | Robert Baer | [Read More](https://medium.com/p/9f63ce4b11b9) |
+| Wed, 07 May 2025 18:51:35 GMT | Why Is Anonymization a Challenge in Cybersecurity? | Shamsul Anam Emon | [Read More](https://medium.com/p/fb8f1e320130) |
+| Wed, 07 May 2025 18:49:26 GMT | Stay Safe in Web3 with NOVA AI | D_DEAN | [Read More](https://medium.com/p/02ca742167f5) |
+| Wed, 07 May 2025 18:42:03 GMT | Eyes in the Sky: How Companies Can Defend Against Unauthorized Drone Threats” | Mackseemoose-alphasexo | [Read More](https://medium.com/p/616b48879c49) |
 | Wed, 07 May 2025 18:38:07 GMT | A New Journey Begins ✨ | Hussein Alyamnii | [Read More](https://medium.com/p/547c13574d11) |
 | Wed, 07 May 2025 18:30:28 GMT | Meta Wins $167M From Israeli Spyware Firm NSO Over WhatsApp Breach | CoinGen | [Read More](https://medium.com/p/cccbec2461dd) |
 | Wed, 07 May 2025 18:27:22 GMT | The Rising Cyber Threat to Critical Infrastructure: Why the Oil and Gas Sector Must Act Now | Siva Gunasekaran | [Read More](https://medium.com/p/8b390df12516) |
 | Wed, 07 May 2025 18:26:24 GMT | How Data Brokers Power Phishing and How mePrism Stops It | mePrism Privacy | [Read More](https://medium.com/p/43ba627583af) |
 | Wed, 07 May 2025 18:19:48 GMT | Loopholes in School Web Filters | Paul  Cuffe | [Read More](https://medium.com/p/cfd8cc6bbc31) |
 | Wed, 07 May 2025 18:18:31 GMT | IBM Security and Compliance Center wins “Best Security Compliance in Enterprise” at the 2025 Cloud… | Bill Grady | [Read More](https://medium.com/p/8c9095657286) |
+| Wed, 07 May 2025 18:09:32 GMT | DeepSeek R1: What to expect | Sneha Tojo Kanichai | [Read More](https://medium.com/p/65d3296ba115) |
 | Wed, 07 May 2025 17:57:06 GMT | KeePass & Nextcloud — The Last Password You’ll Ever Need to Remember | Tobias Blaser | [Read More](https://medium.com/p/f541f210fe14) |
 | Wed, 07 May 2025 17:57:01 GMT | HoneyBOT Secrets Revealed | Omar Hesham | [Read More](https://medium.com/p/9b79af6d204a) |
 | Wed, 07 May 2025 17:52:58 GMT | Cybersecurity and Quantum Computing with Paul Leongas: A Race Against Time | Paul Leongas | [Read More](https://medium.com/p/64a9c0e19e6d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 13:43:51 GMT | Discovering a Blind XSS Vulnerability in the Platform | Saeiez | [Read More](https://medium.com/p/1fa45a6621db) |
 | Wed, 07 May 2025 13:43:02 GMT | Is Every Security Problem Just Access Control in Disguise? | Kai Yuan Thng | [Read More](https://medium.com/p/740fa28d5321) |
 | Wed, 07 May 2025 13:39:27 GMT | Şifre Yorgunluğu: Dijital Dünyada Sessiz Bir Kriz | HSD DPU | [Read More](https://medium.com/p/5ac36aa30826) |
-| Wed, 07 May 2025 13:34:32 GMT | From EncryptedSharedPreferences to Secure DataStore in Jetpack Compose – My Real-World Shift | Malik Saif | [Read More](https://medium.com/p/9f3a6f3c57b2) |
-| Wed, 07 May 2025 13:27:37 GMT | Essential Programming Languages with Ecosystems | Erkan Kavas | [Read More](https://medium.com/p/cec8f61a1139) |
-| Wed, 07 May 2025 13:27:10 GMT | Non-Consensual Consent: The Downfall And Impact Of The Largest AI Pornography Website. | Nols Vt | [Read More](https://medium.com/p/a492c0d5836a) |
-| Wed, 07 May 2025 13:26:37 GMT | The Gentle Strength of Vulnerability in Leadership | Catherine Wong Delumpa | [Read More](https://medium.com/p/479c79827c1f) |
-| Wed, 07 May 2025 13:26:37 GMT | I’m Betting on Cybersecurity in the Age of AI — and Here’s Why You Should Too | Rami5a | [Read More](https://medium.com/p/2f9ab7880f19) |
-| Wed, 07 May 2025 13:24:04 GMT | Top cybersecurity courses in India | Edgar luis | [Read More](https://medium.com/p/cf98cd8ecabf) |
-| Wed, 07 May 2025 13:17:57 GMT | Operation Sindoor, India’s Counter-terror Playbook and Pakistan’s Response | Zorawar Gill | [Read More](https://medium.com/p/479e0cec4a47) |
-| Wed, 07 May 2025 13:16:56 GMT | VLAN IN PRACTICE — HOW LOGICAL SEGMENTATION MAKES NETWORKS FLEXIBLE, SECURE AND SCALABLE | Mariia Hirniak | [Read More](https://medium.com/p/1e40af38a8ee) |
-| Wed, 07 May 2025 13:10:44 GMT | RMF Is Being Dismantled. What Do We Do Now? | Cheryl Abram | [Read More](https://medium.com/p/b743bd4df71a) |
