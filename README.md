@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 12:43:15 GMT | Top 10 Common Bugs Every Tester Should Know | Prafulla Mishra | [Read More](https://medium.com/p/651beea26b26) |
+| Wed, 07 May 2025 12:39:14 GMT | A Step-by-Step Guide to Building Secure Generative AI Apps on AWS Bedrock | Sampathkumarbasa | [Read More](https://medium.com/p/eead8af94640) |
+| Wed, 07 May 2025 12:38:37 GMT | Exposing the Usual Suspects Common Vulnerabilities Found in Web App Penetration Testing | Mehak kamra | [Read More](https://medium.com/p/93cd73e75b63) |
+| Wed, 07 May 2025 12:33:39 GMT | Think Like a Hacker: Learn the Core of Cybersecurity in One Read | Sultan Ahmmed | [Read More](https://medium.com/p/d5654ef8d01f) |
+| Wed, 07 May 2025 12:32:36 GMT | Blast From The Past: WOOT, There It Is — woot.com | Namir Sagheenanajar | [Read More](https://medium.com/p/22865127d563) |
+| Wed, 07 May 2025 12:31:29 GMT | Certified Red Team Analyst (CRTA) — Certification Review | Mohamed Belhassen Cherif | [Read More](https://medium.com/p/70e18a972828) |
+| Wed, 07 May 2025 12:16:48 GMT | Lost in Familiar Eyes | Tara Rai | [Read More](https://medium.com/p/92f1ccbe3fb0) |
+| Wed, 07 May 2025 12:16:37 GMT | The Hidden Cost of ‘I’m Fine’ Culture in Nigeria | Guardrail Project | [Read More](https://medium.com/p/a40f9143aa62) |
+| Wed, 07 May 2025 12:05:59 GMT | SNI SSL vs IP-Based SSL Certificate: Which One is Better for Your Business? | Olivia Carter | [Read More](https://medium.com/p/1606982fe276) |
+| Wed, 07 May 2025 12:02:36 GMT | Think You’re Safe Online? | Patrickjamesnc | [Read More](https://medium.com/p/44821ddb9485) |
+| Wed, 07 May 2025 12:02:36 GMT | The Dark Side of AI: Navigating the Threat Landscape | Neil Sahota | [Read More](https://medium.com/p/84a7955168a8) |
+| Wed, 07 May 2025 12:00:59 GMT | Flag Command : Hack The Box Writeup - By Rindaman666 | Rindaman666 | [Read More](https://medium.com/p/490d67ed1456) |
+| Wed, 07 May 2025 12:00:11 GMT | How I will change my Life in 1 week. | waris | [Read More](https://medium.com/p/11b9b8d043a2) |
+| Wed, 07 May 2025 11:58:17 GMT | How AI Enhances Cybersecurity for Businesses | HAROLD CALEB | [Read More](https://medium.com/p/d908d5377d4f) |
+| Wed, 07 May 2025 11:57:54 GMT | From Steel Bars to Firewalls: How Corrections Prepared Me for Cybersecurity | Brandon Dewater | [Read More](https://medium.com/p/a82ceb3990a9) |
+| Wed, 07 May 2025 11:52:41 GMT | AI-POWERED PENETRATION TESTING AND YOU | Cyver Core | [Read More](https://medium.com/p/fa1c0398c165) |
+| Wed, 07 May 2025 11:52:28 GMT | How Not to Forfeit Your Personal and Financial Data While Searching for a Job | Olena Arshynnikova | [Read More](https://medium.com/p/813c40733501) |
+| Wed, 07 May 2025 11:52:22 GMT | 10 security mistakes can kill your startup before it even starts growing | Anshul Chauhan | [Read More](https://medium.com/p/5daf72c43e04) |
+| Wed, 07 May 2025 11:49:50 GMT | Vulnerability Assessment & Reverse Engineering (V.A.R.E) Lab #14 | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/03d70195ac06) |
+| Wed, 07 May 2025 11:45:34 GMT | Lookup (Easy) — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/c0bbf93f43c2) |
+| Wed, 07 May 2025 11:43:56 GMT | Domain IV — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/f13b409f86f4) |
+| Wed, 07 May 2025 11:43:43 GMT | Play Ransomware Exploits Windows CVE-2024–26169 to Escalate Privileges and Deploy Payloads | CyBlog | [Read More](https://medium.com/p/57e57b3c24d4) |
 | Wed, 07 May 2025 11:33:09 GMT | Únete a ICTC para conseguir una nuevo skin de tarjeta | WhiteBIT | [Read More](https://medium.com/p/257c45a0d2f1) |
 | Wed, 07 May 2025 11:33:03 GMT | How Security Patrols Help Prevent Commercial Break-Ins at Commercial Properties | ICorp Security | [Read More](https://medium.com/p/eb95ba1d7f54) |
 | Wed, 07 May 2025 11:27:12 GMT | Certificado SSL 2029: renovación cada 49 días | Manuel Jesús Gallardo Martín | [Read More](https://medium.com/p/7a2f4bc45a3c) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 07:28:06 GMT | An Evening of Browser Security: SquareX’s RSAC Networking Dinner | SquareX | [Read More](https://medium.com/p/218458917c5b) |
 | Wed, 07 May 2025 07:25:15 GMT | ️ Inside the Web: A Deep Dive into Cyberattacks in 2025 | Taha Qureshi | [Read More](https://medium.com/p/d45ac8df7ef1) |
 | Wed, 07 May 2025 07:24:42 GMT | Combatting Rising Cyber Threats: Leveraging Large Model Capabilities for Vulnerability Detection | Tencent EdgeOne | [Read More](https://medium.com/p/010484156d25) |
-| Wed, 07 May 2025 07:15:43 GMT | How to Master Vulnerability Management to Stop Silent Threats | SecureSlate | [Read More](https://medium.com/p/fff50073086f) |
-| Wed, 07 May 2025 07:14:41 GMT | From Stress to Success: Let Managed Services Handle IT | IPSpecialist | [Read More](https://medium.com/p/429c6ea972ca) |
-| Wed, 07 May 2025 07:08:51 GMT | Cyber Kill Chain — LetsDefend walkthrough | md_ashmar | [Read More](https://medium.com/p/eaa30940a6cb) |
-| Wed, 07 May 2025 07:08:14 GMT | Still Believing These 5 VPN Myths? Time for a Reality Check | EVA VPN | [Read More](https://medium.com/p/34fb258df5f7) |
-| Wed, 07 May 2025 07:07:14 GMT | What is Cybercrime and How to Protect Yourself? | Gigabittechnologies | [Read More](https://medium.com/p/50cb6f5f1561) |
-| Wed, 07 May 2025 07:02:22 GMT | Net Sec Challenge - TryHackMe Challenge writeups - by DESYNC | DESYNC | [Read More](https://medium.com/p/1596cac954b8) |
-| Wed, 07 May 2025 06:59:41 GMT | Facial Recognition: Faster Check-ins at UAE Events | Aafiya | [Read More](https://medium.com/p/643402773445) |
-| Wed, 07 May 2025 06:56:33 GMT | Best Cybersecurity Online Programs in 2025 | cyber security Updates | [Read More](https://medium.com/p/c01760dd46aa) |
-| Wed, 07 May 2025 06:47:06 GMT | A Penetration Tester’s Journey | Yamini Yadav | [Read More](https://medium.com/p/ad6f5291395c) |
-| Wed, 07 May 2025 06:46:05 GMT | DevSecOps Phase 4: Test Stage — Secure Runtime & Dynamic Testing | Dinidhu Jayasinghe | [Read More](https://medium.com/p/02e7fd28ae15) |
-| Wed, 07 May 2025 06:45:32 GMT | Hacking the Frontend Logic: Exploiting JavaScript Business Flaws | Vipul Sonule | [Read More](https://medium.com/p/b6600fafd8a4) |
-| Wed, 07 May 2025 06:44:53 GMT | SOC125 — Suspicious Rundll32 Activity | Cyril Philipp Abajar | [Read More](https://medium.com/p/46034bda3409) |
-| Wed, 07 May 2025 06:43:13 GMT | Cloud Colonialism: How Tech Giants Profit from Your Enterprise Data | Induz Data Solutions | [Read More](https://medium.com/p/fa7bb850a4d5) |
-| Wed, 07 May 2025 06:38:43 GMT | Securing Apache2 + PHP: Practical guide for safer web hosting | Roman Huliak | [Read More](https://medium.com/p/3c967800c582) |
-| Wed, 07 May 2025 06:38:17 GMT | $2,900 Bounty: Public S3 Bucket Exposure in Shopify | Monika sharma | [Read More](https://medium.com/p/05b14bbf6dad) |
-| Wed, 07 May 2025 06:32:34 GMT | Advanced Nginx Security: Password Protect and Restrict Access by IP Address | Karthikeyantse | [Read More](https://medium.com/p/a131f977b48d) |
-| Wed, 07 May 2025 06:30:33 GMT | Privileged Access Management: AI, Observability, and Data-Driven Insights | Gauri Kale | [Read More](https://medium.com/p/c972e9a3eb02) |
-| Wed, 07 May 2025 06:27:22 GMT | The Rise of Industrial Control Protocols | Omkar Bhalekar | [Read More](https://medium.com/p/1dccabb95f1b) |
-| Wed, 07 May 2025 06:26:47 GMT | Craft CMS Zero-Day Exploit Chain Leads to RCE and Data Theft | Infoziant | [Read More](https://medium.com/p/7e4296c99f02) |
-| Wed, 07 May 2025 06:25:39 GMT | Nanoservice Security: How to Build Atomic Workflows for a Zero-Trust Future | Akshat Sharma | [Read More](https://medium.com/p/99985d99909b) |
-| Wed, 07 May 2025 06:25:33 GMT | VulnHUB:Basic Pentesting 1 | Mrcool76 | [Read More](https://medium.com/p/5b75a65e9e10) |
-| Wed, 07 May 2025 06:20:45 GMT | How to setup a Monthly Free VPS for Bug Hunting | Mostafa Alrefai | [Read More](https://medium.com/p/d41d0fa3ed6c) |
