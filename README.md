@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 22:30:05 GMT | Not Your Data, Not Your AI
+If we don’t control how AI is trained, we’ll gradually lose control… | ITgeek | [Read More](https://medium.com/p/710f2b43af79) |
+| Wed, 07 May 2025 22:16:34 GMT | How to Implement a Zero Trust Architecture in Your Network | Karthikeyan Nagaraj | [Read More](https://medium.com/p/6cba1ff54845) |
 | Wed, 07 May 2025 22:12:16 GMT | Cyberattacks on Critical Infrastructures Makes Us Very Vulnerable | Matthew.Rosenquist | [Read More](https://medium.com/p/4b34fe538276) |
 | Wed, 07 May 2025 22:10:18 GMT | Step-by-Step SOC165 Alert Investigation: Possible SQL Injection (Event ID 115) | Daiva Sadauskiene | [Read More](https://medium.com/p/da75d63e05d3) |
 | Wed, 07 May 2025 22:06:13 GMT | The Fallacy of Perfect Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/abbbf321bf5b) |
@@ -110,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 15:29:09 GMT | WinPEAS & LinPEAS — The Most Powerful Privilege Escalation Enumeration Tools for Pentesters | Kshahabaj | [Read More](https://medium.com/p/92f89b045122) |
 | Wed, 07 May 2025 15:23:18 GMT | https://www.instagram.com/p/DJRrpWohSZJ/?igsh=NG9idzQxOHlyeG1n | Mata Hacker | [Read More](https://medium.com/p/94f38a1bbe15) |
 | Wed, 07 May 2025 15:18:33 GMT | Compress-a-thon — Web Exploitation — Pentathon 2025 | Somnath Das | [Read More](https://medium.com/p/fea9adf9fa6b) |
-| Wed, 07 May 2025 15:18:05 GMT | Applied Network Theory: How to Kill a Complex System | Hannes Rollin | [Read More](https://medium.com/p/676041707a21) |
-| Wed, 07 May 2025 15:15:58 GMT | US Warns of Hackers Targeting ICS/SCADA at Oil and Gas Organizations | IT_Engineer | [Read More](https://medium.com/p/21ec504430d5) |
