@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 18:19:48 GMT | Loopholes in School Web Filters | Paul  Cuffe | [Read More](https://medium.com/p/cfd8cc6bbc31) |
+| Wed, 07 May 2025 18:18:31 GMT | IBM Security and Compliance Center wins “Best Security Compliance in Enterprise” at the 2025 Cloud… | Bill Grady | [Read More](https://medium.com/p/8c9095657286) |
+| Wed, 07 May 2025 17:57:06 GMT | KeePass & Nextcloud — The Last Password You’ll Ever Need to Remember | Tobias Blaser | [Read More](https://medium.com/p/f541f210fe14) |
+| Wed, 07 May 2025 17:57:01 GMT | HoneyBOT Secrets Revealed | Omar Hesham | [Read More](https://medium.com/p/9b79af6d204a) |
+| Wed, 07 May 2025 17:52:58 GMT | Cybersecurity and Quantum Computing with Paul Leongas: A Race Against Time | Paul Leongas | [Read More](https://medium.com/p/64a9c0e19e6d) |
+| Wed, 07 May 2025 17:48:57 GMT | How to Claim $RECON Easily | RECON | [Read More](https://medium.com/p/8991f1d2393a) |
+| Wed, 07 May 2025 17:46:40 GMT | Inside the ClickFunnels Data Breach: What Happened and How Businesses Can Stay Secure | Chetan Seripally | [Read More](https://medium.com/p/5f1308b40dc5) |
 | Wed, 07 May 2025 17:40:23 GMT | Deathnote - Vulnweb - CTF | neerajjayesh | [Read More](https://medium.com/p/fd3d4e334fd4) |
+| Wed, 07 May 2025 17:38:24 GMT | Claim Your Tokens: Curvance $CVE Claiming Guide Now Live | CVE | [Read More](https://medium.com/p/3ed58cc90313) |
 | Wed, 07 May 2025 17:36:24 GMT | The Fall of Knights of Old: A Shattered Legacy | O. J. Okpabi | [Read More](https://medium.com/p/307f66f23f3e) |
 | Wed, 07 May 2025 17:35:36 GMT | ActiveWatch: A New Way to Stay Ahead of Cyber Threats. But Is It Perfect? | O. J. Okpabi | [Read More](https://medium.com/p/776e32a088c1) |
 | Wed, 07 May 2025 17:35:09 GMT | Darcula: The Phishing Syndicate Behind 884,000 Stolen Credit Cards | O. J. Okpabi | [Read More](https://medium.com/p/9e27cf1a7400) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 13:02:44 GMT | The Fatal Delay Between Detection and Investigation | Peris.ai Cybersecurity | [Read More](https://medium.com/p/69477cf10008) |
 | Wed, 07 May 2025 13:01:33 GMT | Chrome 136 Is Here: Why You | James Neal | [Read More](https://medium.com/p/b692ef4fedba) |
 | Wed, 07 May 2025 12:56:47 GMT | SpiderFoot ile E-Posta Güvenliği Testi | Isaergisi | [Read More](https://medium.com/p/114f0c6a2288) |
-| Wed, 07 May 2025 12:43:15 GMT | Top 10 Common Bugs Every Tester Should Know | Prafulla Mishra | [Read More](https://medium.com/p/651beea26b26) |
-| Wed, 07 May 2025 12:39:14 GMT | A Step-by-Step Guide to Building Secure Generative AI Apps on AWS Bedrock | Sampathkumarbasa | [Read More](https://medium.com/p/eead8af94640) |
-| Wed, 07 May 2025 12:38:37 GMT | Exposing the Usual Suspects Common Vulnerabilities Found in Web App Penetration Testing | Mehak kamra | [Read More](https://medium.com/p/93cd73e75b63) |
-| Wed, 07 May 2025 12:33:41 GMT | Subukan O Bitawan | kofi and shosholit | [Read More](https://medium.com/p/4707893f8a5c) |
-| Wed, 07 May 2025 12:33:39 GMT | Think Like a Hacker: Learn the Core of Cybersecurity in One Read | Sultan Ahmmed | [Read More](https://medium.com/p/d5654ef8d01f) |
-| Wed, 07 May 2025 12:32:36 GMT | Blast From The Past: WOOT, There It Is — woot.com | Namir Sagheenanajar | [Read More](https://medium.com/p/22865127d563) |
-| Wed, 07 May 2025 12:31:29 GMT | Certified Red Team Analyst (CRTA) — Certification Review | Mohamed Belhassen Cherif | [Read More](https://medium.com/p/70e18a972828) |
-| Wed, 07 May 2025 12:16:48 GMT | Lost in Familiar Eyes | Tara Rai | [Read More](https://medium.com/p/92f1ccbe3fb0) |
