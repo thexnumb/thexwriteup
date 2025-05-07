@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 21:28:43 GMT | Post-Quantum Cryptography Explained: The Algorithms That Will Outlive RSA | K3e9X | [Read More](https://medium.com/p/4ee6ed422bac) |
+| Wed, 07 May 2025 21:24:48 GMT | Cybersecurity Made Simple for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/0abae0ed0f16) |
+| Wed, 07 May 2025 21:21:05 GMT | MY FIRST BUG BOUNTY-RECON | Arunoday Tiwari | [Read More](https://medium.com/p/efec0eddc6c3) |
 | Wed, 07 May 2025 20:49:07 GMT | Covert Morse Code: How Hidden Signals Can Infiltrate Networks, Phones & IoT Devices | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/6f7b743f148f) |
 | Wed, 07 May 2025 20:47:42 GMT | mTLS authentication between Azure Logic App and IBM MQ using built-in MQ Connector | Dipesh Shah | [Read More](https://medium.com/p/9b4b2cf0f7c0) |
 | Wed, 07 May 2025 20:41:11 GMT | CVE-2025–12345: Information Leak in LibPixel via Malformed PNG Custom Chunk | ALI MAZEN | [Read More](https://medium.com/p/bd541d620358) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 14:37:53 GMT | Two Extremes, One Platform: How StealthMole Helped Map Radical Networks | OpsecZero | [Read More](https://medium.com/p/400b2fcbe38d) |
 | Wed, 07 May 2025 14:37:42 GMT | Navigating the Treacherous Waters: Understanding the Security Risks of the Model Context Protocol… | Keith Foster | [Read More](https://medium.com/p/01da48d6e5a2) |
 | Wed, 07 May 2025 14:36:09 GMT | *My Path to Becoming a Cyber Technology Master* | The Gen Z Writer | [Read More](https://medium.com/p/76e9aad17573) |
-| Wed, 07 May 2025 14:31:46 GMT | Tool Deep Dives: Using Metasploit for Penetration Testing | Cyber Sec Pro | [Read More](https://medium.com/p/68c98afff365) |
-| Wed, 07 May 2025 14:31:32 GMT | What Is a Wi-Fi Pineapple? And How to Protect Yourself From Getting Hacked | Mohamad MERHI | [Read More](https://medium.com/p/caaced139ee1) |
-| Wed, 07 May 2025 14:31:25 GMT | MITRE Technique and Detection Opportunities — Ransomware Attackers Leveraged Privilege Escalation… | MITRE Doggy | [Read More](https://medium.com/p/d43cbecb22db) |
