@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 05:40:45 GMT | Certified Ethical Hacker V13: Master the Art of Ethical Hacking in the Modern Cybersecurity Era | Certocean | [Read More](https://medium.com/p/133606e39380) |
+| Wed, 07 May 2025 05:37:35 GMT | Palo Alto Networks Prisma Cloud Network Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/2297639e1833) |
+| Wed, 07 May 2025 05:36:48 GMT | Managed Detection and Response (MDR): The Future of Cybersecurity Starts Here | Gargiben | [Read More](https://medium.com/p/e27232ec1c07) |
+| Wed, 07 May 2025 05:32:36 GMT | Fortify Your Home: Essential Tips for a Secure Network Setup | hp | [Read More](https://medium.com/p/92429fb9a813) |
+| Wed, 07 May 2025 05:31:05 GMT | Parrot OS for Students: Learning Cybersecurity the Smart Way | Sachin K S | [Read More](https://medium.com/p/ff0e155cf237) |
+| Wed, 07 May 2025 05:29:39 GMT | Secure Your AI Future: Top Model Security Strategies To Safeguard Digital Creations From Cyber… | Jacky Kapadia | [Read More](https://medium.com/p/774d60aa9962) |
+| Wed, 07 May 2025 05:18:55 GMT | “The SS7 Attack: How Hackers Can Intercept Your Calls and Messages — And What You Can Do About It”… | Hex00 | [Read More](https://medium.com/p/9f975c293089) |
 | Wed, 07 May 2025 05:06:40 GMT | SKT Telecommunications Hacking File Analysis of Smartadm Key Points | MITRE Doggy | [Read More](https://medium.com/p/e837d0a39b7d) |
 | Wed, 07 May 2025 05:02:59 GMT | What Is a Port? (And Why Hackers Obsess Over Them) | Tanzeem Khatri | [Read More](https://medium.com/p/3d21eb413e98) |
 | Wed, 07 May 2025 04:54:36 GMT | Building a Secure Infrastructure with Docker, Endian Firewall, and Linux VMs from Scratch-Part2 … | Firas Meddeb | [Read More](https://medium.com/p/5b4b9a2520b4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 19:43:21 GMT | Why Vulnerability Is The New Success | Scott Asai | [Read More](https://medium.com/p/099c05d54509) |
 | Tue, 06 May 2025 19:39:11 GMT | SSRF (Server-Side Request Forgery) | Yaxshi Sariyeva | [Read More](https://medium.com/p/87b79925f83d) |
 | Tue, 06 May 2025 19:36:18 GMT | The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2 | Mohamed Talaat Saada (@t4144t) | [Read More](https://medium.com/p/a7d8a69710ff) |
-| Tue, 06 May 2025 19:35:15 GMT | WordPress Security Posture: More Fragile Than You Think | AZ | [Read More](https://medium.com/p/15497115b435) |
-| Tue, 06 May 2025 19:31:58 GMT | Revisiting the Past, Hacking the Future | SIDDHANT SHUKLA | [Read More](https://medium.com/p/c3cae222858c) |
-| Tue, 06 May 2025 19:27:11 GMT | Ağ Katmanları ve Temel Saldırı Yöntemleri | Arda Cinar | [Read More](https://medium.com/p/bde01e77fd5d) |
-| Tue, 06 May 2025 19:14:25 GMT | What’s Your Name — TryHackMe — Detailed Writeup | Farid Hajiyev | [Read More](https://medium.com/p/efc28f018aac) |
-| Tue, 06 May 2025 19:08:47 GMT | WordPress Backdoors: What They Are and How to Detect Them | All in One security | [Read More](https://medium.com/p/8cfd566d795b) |
-| Tue, 06 May 2025 19:06:30 GMT | Defense Station Cybersecurity Solution for Hedge Funds and Family Offices | Nabil W | [Read More](https://medium.com/p/4f4470260aba) |
-| Tue, 06 May 2025 19:05:32 GMT | The Poison Apple of AI Automation | Tim McAllister | [Read More](https://medium.com/p/ca4cb27d4e0c) |
