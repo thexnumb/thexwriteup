@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 22:12:16 GMT | Cyberattacks on Critical Infrastructures Makes Us Very Vulnerable | Matthew.Rosenquist | [Read More](https://medium.com/p/4b34fe538276) |
+| Wed, 07 May 2025 22:10:18 GMT | Step-by-Step SOC165 Alert Investigation: Possible SQL Injection (Event ID 115) | Daiva Sadauskiene | [Read More](https://medium.com/p/da75d63e05d3) |
+| Wed, 07 May 2025 22:06:13 GMT | The Fallacy of Perfect Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/abbbf321bf5b) |
+| Wed, 07 May 2025 22:03:18 GMT | Telegram is no longer at the top. | TECHRBC | [Read More](https://medium.com/p/066f2d4f7a31) |
+| Wed, 07 May 2025 22:01:37 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resum | Hennessy Dianna | [Read More](https://medium.com/p/9574d9a4f371) |
+| Wed, 07 May 2025 21:54:19 GMT | Day 14: Blind SQL injection with time delays — Zero to Hero Time-Based Blind SQL Injection —… | RayofHope | [Read More](https://medium.com/p/ed80f1ce7b0d) |
+| Wed, 07 May 2025 21:52:23 GMT | How to Run Ollama Securely on a Remote GPU with Vast.ai — A Private, Token-Free AI Setup | Iklobato | [Read More](https://medium.com/p/e68287e23951) |
+| Wed, 07 May 2025 21:44:03 GMT | Handling Multipart File Uploads in JAX-RS 2.1 (on WebSphere Liberty) | keylearn | [Read More](https://medium.com/p/b83dbc88be2c) |
 | Wed, 07 May 2025 21:28:43 GMT | Post-Quantum Cryptography Explained: The Algorithms That Will Outlive RSA | K3e9X | [Read More](https://medium.com/p/4ee6ed422bac) |
 | Wed, 07 May 2025 21:24:48 GMT | Cybersecurity Made Simple for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/0abae0ed0f16) |
 | Wed, 07 May 2025 21:21:05 GMT | MY FIRST BUG BOUNTY-RECON | Arunoday Tiwari | [Read More](https://medium.com/p/efec0eddc6c3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 15:18:33 GMT | Compress-a-thon — Web Exploitation — Pentathon 2025 | Somnath Das | [Read More](https://medium.com/p/fea9adf9fa6b) |
 | Wed, 07 May 2025 15:18:05 GMT | Applied Network Theory: How to Kill a Complex System | Hannes Rollin | [Read More](https://medium.com/p/676041707a21) |
 | Wed, 07 May 2025 15:15:58 GMT | US Warns of Hackers Targeting ICS/SCADA at Oil and Gas Organizations | IT_Engineer | [Read More](https://medium.com/p/21ec504430d5) |
-| Wed, 07 May 2025 15:03:26 GMT | Extended Detection and Response (XDR): The Future of Unified Cybersecurity | Jackdavis Iap | [Read More](https://medium.com/p/ebe2784a79b8) |
-| Wed, 07 May 2025 14:57:12 GMT | Introduction to Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/e8b51a2a195f) |
-| Wed, 07 May 2025 14:47:36 GMT | Container Security in Kubernetes: A Practical Guide to the Principle of Least Privilege | YOUSSEF CHAMRAH | [Read More](https://medium.com/p/31b25fd64d90) |
-| Wed, 07 May 2025 14:40:48 GMT | AWS Amplify Studio Hit by Severe Vulnerability Enabling Code Execution | current.cybersecurity | [Read More](https://medium.com/p/a00004545a4c) |
-| Wed, 07 May 2025 14:40:25 GMT | ⚔️ Space Security Is the New Cyber Battlefield: Why You Should Care Before It’s Too Late | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/a373d7e0dde5) |
-| Wed, 07 May 2025 14:37:53 GMT | Two Extremes, One Platform: How StealthMole Helped Map Radical Networks | OpsecZero | [Read More](https://medium.com/p/400b2fcbe38d) |
-| Wed, 07 May 2025 14:37:42 GMT | Navigating the Treacherous Waters: Understanding the Security Risks of the Model Context Protocol… | Keith Foster | [Read More](https://medium.com/p/01da48d6e5a2) |
-| Wed, 07 May 2025 14:36:09 GMT | *My Path to Becoming a Cyber Technology Master* | The Gen Z Writer | [Read More](https://medium.com/p/76e9aad17573) |
