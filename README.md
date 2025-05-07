@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 05:06:40 GMT | SKT Telecommunications Hacking File Analysis of Smartadm Key Points | MITRE Doggy | [Read More](https://medium.com/p/e837d0a39b7d) |
+| Wed, 07 May 2025 05:02:59 GMT | What Is a Port? (And Why Hackers Obsess Over Them) | Tanzeem Khatri | [Read More](https://medium.com/p/3d21eb413e98) |
+| Wed, 07 May 2025 04:54:36 GMT | Building a Secure Infrastructure with Docker, Endian Firewall, and Linux VMs from Scratch-Part2 … | Firas Meddeb | [Read More](https://medium.com/p/5b4b9a2520b4) |
+| Wed, 07 May 2025 04:52:54 GMT | Navneet Singh Ekoahamdutivnasti Sets National Record as Youngest to Develop Deepfake Detection Tool… | CYBER NEWS HUB | [Read More](https://medium.com/p/36b5621cf9cf) |
+| Wed, 07 May 2025 04:49:38 GMT | Digital Identity & Authentication: | Techomania | [Read More](https://medium.com/p/4607d3d8026c) |
 | Wed, 07 May 2025 04:36:54 GMT | How to Secure Your Application When Using AWS CloudFront | Eramarinfo | [Read More](https://medium.com/p/b59abfe732ec) |
 | Wed, 07 May 2025 04:23:37 GMT | The Cultural Failures Exposed by WannaCry | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/d9f7868f1248) |
 | Wed, 07 May 2025 04:07:38 GMT | The Windows Process Journey — vmconnect.exe (Virtual Machine Connection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3e7f3c2c3ee1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 19:08:47 GMT | WordPress Backdoors: What They Are and How to Detect Them | All in One security | [Read More](https://medium.com/p/8cfd566d795b) |
 | Tue, 06 May 2025 19:06:30 GMT | Defense Station Cybersecurity Solution for Hedge Funds and Family Offices | Nabil W | [Read More](https://medium.com/p/4f4470260aba) |
 | Tue, 06 May 2025 19:05:32 GMT | The Poison Apple of AI Automation | Tim McAllister | [Read More](https://medium.com/p/ca4cb27d4e0c) |
-| Tue, 06 May 2025 19:05:26 GMT | How an IT Managed Services Provider in Springfield, MO Prevents Threats | PCnet | [Read More](https://medium.com/p/b9a7f7ec07fb) |
-| Tue, 06 May 2025 19:03:20 GMT | Vulnerability Data Enrichment for CVE Records: 251 CNAs on the Enrichment Recognition List for May… | CVE Program Blog | [Read More](https://medium.com/p/0c56e3d382d1) |
-| Tue, 06 May 2025 19:02:16 GMT | FOFA Dorking for Bug Hunters | AbhirupKonwar | [Read More](https://medium.com/p/a35c80bbab6e) |
-| Tue, 06 May 2025 19:02:01 GMT | Cybersecurity vs. Curiosity: Why Funny Sites Aren’t Always Harmless | Andre Fernandes | [Read More](https://medium.com/p/0f0b8735e83d) |
-| Tue, 06 May 2025 18:59:38 GMT | Email Analysis | Hritesh Tkr | [Read More](https://medium.com/p/65da4e4ef6ca) |
