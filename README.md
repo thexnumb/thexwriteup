@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 15:30:59 GMT | Day 119 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/045c87b55d3a) |
+| Wed, 07 May 2025 15:29:09 GMT | WinPEAS & LinPEAS — The Most Powerful Privilege Escalation Enumeration Tools for Pentesters | Kshahabaj | [Read More](https://medium.com/p/92f89b045122) |
+| Wed, 07 May 2025 15:23:18 GMT | https://www.instagram.com/p/DJRrpWohSZJ/?igsh=NG9idzQxOHlyeG1n | Mata Hacker | [Read More](https://medium.com/p/94f38a1bbe15) |
 | Wed, 07 May 2025 15:18:33 GMT | Compress-a-thon — Web Exploitation — Pentathon 2025 | Somnath Das | [Read More](https://medium.com/p/fea9adf9fa6b) |
 | Wed, 07 May 2025 15:18:05 GMT | Applied Network Theory: How to Kill a Complex System | Hannes Rollin | [Read More](https://medium.com/p/676041707a21) |
 | Wed, 07 May 2025 15:15:58 GMT | US Warns of Hackers Targeting ICS/SCADA at Oil and Gas Organizations | IT_Engineer | [Read More](https://medium.com/p/21ec504430d5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 10:52:23 GMT | Which Safe is Right for You? | Tap2Live | [Read More](https://medium.com/p/a22394af17ff) |
 | Wed, 07 May 2025 10:52:22 GMT | Real Using Ethical Hacking To Stay One Step Ahead Of Cyber Threats | Sangfor | [Read More](https://medium.com/p/ed7577fc5e5f) |
 | Wed, 07 May 2025 10:46:06 GMT | How a JavaScript File Led Me to an Open Redirect Vulnerability | Shafayat Ahmed Alif | [Read More](https://medium.com/p/eefce51303b2) |
-| Wed, 07 May 2025 10:40:45 GMT | SEBI CSCRF: Key Compliance Measures & Cybersecurity Checklist (2025) | Ampcus Cyber | [Read More](https://medium.com/p/cc96b8a482a1) |
-| Wed, 07 May 2025 10:31:39 GMT | TechXY Turbo — Tech Podcast Launch | Frank Gullo | [Read More](https://medium.com/p/b1af0b69692f) |
-| Wed, 07 May 2025 10:30:00 GMT | Affordable SEO and Web Design That Works | Morgan Donovan | [Read More](https://medium.com/p/f54b5bb890d1) |
