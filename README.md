@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 04:23:37 GMT | The Cultural Failures Exposed by WannaCry | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/d9f7868f1248) |
+| Wed, 07 May 2025 04:07:38 GMT | The Windows Process Journey — vmconnect.exe (Virtual Machine Connection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3e7f3c2c3ee1) |
+| Wed, 07 May 2025 03:50:52 GMT | North Korean Hacker Exposed in Job Interview Scam Targeting Crypto Firms | Weeklyblockchain | [Read More](https://medium.com/p/b23d6e333af2) |
 | Wed, 07 May 2025 03:50:41 GMT | Potential Risks Without VPN According To Experts | James Neal | [Read More](https://medium.com/p/3e9a35a924d0) |
 | Wed, 07 May 2025 03:50:04 GMT | CS2AI’s Cyber Security in Manufacturing Symposium | Mike Gonzalez | [Read More](https://medium.com/p/73d8df10ce7b) |
 | Wed, 07 May 2025 03:38:00 GMT | Navigating the Linux File System for Beginners | Arthur Baronov | [Read More](https://medium.com/p/63ef2f721688) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 19:02:01 GMT | Cybersecurity vs. Curiosity: Why Funny Sites Aren’t Always Harmless | Andre Fernandes | [Read More](https://medium.com/p/0f0b8735e83d) |
 | Tue, 06 May 2025 18:59:38 GMT | Email Analysis | Hritesh Tkr | [Read More](https://medium.com/p/65da4e4ef6ca) |
 | Tue, 06 May 2025 18:59:28 GMT | Too Much. | just Lyd | [Read More](https://medium.com/p/ec1ea5f52865) |
-| Tue, 06 May 2025 18:57:22 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/fcf3d49a9f87) |
-| Tue, 06 May 2025 18:51:55 GMT | Stop Obsessing Over Open Rates & Start Building Email Momentum | Alexandrankwopara | [Read More](https://medium.com/p/f6fc0dce966c) |
-| Tue, 06 May 2025 18:51:15 GMT | Apache Parquet Servers Vulnerable to Critical CVE-2025–30065 Flaw | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/486a6e038d93) |
