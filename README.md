@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 14:40:25 GMT | ⚔️ Space Security Is the New Cyber Battlefield: Why You Should Care Before It’s Too Late | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/a373d7e0dde5) |
+| Wed, 07 May 2025 14:31:46 GMT | Tool Deep Dives: Using Metasploit for Penetration Testing | Cyber Sec Pro | [Read More](https://medium.com/p/68c98afff365) |
+| Wed, 07 May 2025 14:31:32 GMT | What Is a Wi-Fi Pineapple? And How to Protect Yourself From Getting Hacked | Mohamad MERHI | [Read More](https://medium.com/p/caaced139ee1) |
+| Wed, 07 May 2025 14:31:25 GMT | MITRE Technique and Detection Opportunities — Ransomware Attackers Leveraged Privilege Escalation… | MITRE Doggy | [Read More](https://medium.com/p/d43cbecb22db) |
+| Wed, 07 May 2025 14:26:36 GMT | Docker — Port 2375,2376 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/8faa8d70a7ab) |
+| Wed, 07 May 2025 14:25:20 GMT | How to Avoid Phishing Scams in 2025 | Yousaf javed | [Read More](https://medium.com/p/895e13a747d9) |
+| Wed, 07 May 2025 14:23:02 GMT | Bad Buoys: A Modular Swarm for Autonomous Maritime Monitoring and Defense | Iangdonohue | [Read More](https://medium.com/p/680b1d55b337) |
 | Wed, 07 May 2025 14:18:28 GMT | A Story of Lonely Slices | Karuppasamy P | [Read More](https://medium.com/p/e97662fd7514) |
 | Wed, 07 May 2025 14:17:52 GMT | In future wars, the first missile won’t fly-it will be coded. | Rathinavel M.S | [Read More](https://medium.com/p/cca27bde3cb4) |
+| Wed, 07 May 2025 14:17:30 GMT | [solved] Firewalld disable AllowZoneDrifting | Johan Louwers | [Read More](https://medium.com/p/04b2205b76ce) |
+| Wed, 07 May 2025 14:17:09 GMT | Why Everyone Should Learn SQL (And How to Start) | Dhanush N | [Read More](https://medium.com/p/034ae994f747) |
 | Wed, 07 May 2025 14:14:46 GMT | HTB Editorial Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/055fed9a2bed) |
 | Wed, 07 May 2025 14:13:24 GMT | Check Fraud Scam | Internet Exposed | [Read More](https://medium.com/p/56ec0036129c) |
 | Wed, 07 May 2025 14:12:40 GMT | 100 Must-Know PowerShell Commands for Cybersecurity | Bl@ckC!pH3r | [Read More](https://medium.com/p/6118b5eb3da0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 10:03:30 GMT | The Daily Tech Digest: 07 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8776a48a53b9) |
 | Wed, 07 May 2025 09:58:47 GMT | Orphaned Applications: The Quietest Risk in Your Digital Estate | Serkan Sevinç | [Read More](https://medium.com/p/322aacee5735) |
 | Wed, 07 May 2025 09:55:50 GMT | Revolutionizing Linux Command Line: The Latest Update of Ai-Terminal-X | The Pentrix | [Read More](https://medium.com/p/33a271420c91) |
-| Wed, 07 May 2025 09:47:22 GMT | I passed the eJPT exam on my first attempt! | Xuanyingtan | [Read More](https://medium.com/p/d8f5bd83decc) |
-| Wed, 07 May 2025 09:45:45 GMT | Privacy Based/Oriented Browsers [PC, Multiplatform] | Shardul Sawant | [Read More](https://medium.com/p/e608731134d9) |
-| Wed, 07 May 2025 09:43:28 GMT | How Hackers Are Stealing Passwords Using Your Browser — And What You Can Do About It. | Iman Athauda | [Read More](https://medium.com/p/1c02e25108a4) |
-| Wed, 07 May 2025 09:43:10 GMT | Sahipsiz uygulama, sessizce açık kapı bırakır. | Serkan Sevinç | [Read More](https://medium.com/p/0034046adafe) |
-| Wed, 07 May 2025 09:40:11 GMT | Essential Cryptocurrency Security Tips for Beginners | Kamar Maki | [Read More](https://medium.com/p/4bdda9e146f2) |
-| Wed, 07 May 2025 09:32:59 GMT | I’m learning to let my boundaries speak louder than my empathy. | kofi and shosholit | [Read More](https://medium.com/p/002e0ffa2d97) |
-| Wed, 07 May 2025 09:28:42 GMT | Colonial Pipeline Ransomware Attack: A Post-Mortem | Ahmad Javed | [Read More](https://medium.com/p/0f1152432959) |
-| Wed, 07 May 2025 09:25:07 GMT | Access Control Systems in Frederick, MD - ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/e011e45286c1) |
-| Wed, 07 May 2025 09:20:58 GMT | Unveiling Critical Weaknesses: A Rigorous Penetration Test of a Web Application | Tusharpuri | [Read More](https://medium.com/p/3b60cef532e6) |
