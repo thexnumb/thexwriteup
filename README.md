@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 07:15:43 GMT | How to Master Vulnerability Management to Stop Silent Threats | SecureSlate | [Read More](https://medium.com/p/fff50073086f) |
+| Wed, 07 May 2025 07:08:51 GMT | Cyber Kill Chain — LetsDefend walkthrough | md_ashmar | [Read More](https://medium.com/p/eaa30940a6cb) |
+| Wed, 07 May 2025 07:08:14 GMT | Still Believing These 5 VPN Myths? Time for a Reality Check | EVA VPN | [Read More](https://medium.com/p/34fb258df5f7) |
+| Wed, 07 May 2025 07:07:14 GMT | What is Cybercrime and How to Protect Yourself? | Gigabittechnologies | [Read More](https://medium.com/p/50cb6f5f1561) |
+| Wed, 07 May 2025 07:02:22 GMT | Net Sec Challenge - TryHackMe Challenge writeups - by DESYNC | DESYNC | [Read More](https://medium.com/p/1596cac954b8) |
+| Wed, 07 May 2025 06:59:41 GMT | Facial Recognition: Faster Check-ins at UAE Events | Aafiya | [Read More](https://medium.com/p/643402773445) |
+| Wed, 07 May 2025 06:56:33 GMT | Best Cybersecurity Online Programs in 2025 | cyber security Updates | [Read More](https://medium.com/p/c01760dd46aa) |
+| Wed, 07 May 2025 06:47:06 GMT | A Penetration Tester’s Journey | Yamini Yadav | [Read More](https://medium.com/p/ad6f5291395c) |
+| Wed, 07 May 2025 06:46:05 GMT | DevSecOps Phase 4: Test Stage — Secure Runtime & Dynamic Testing | Dinidhu Jayasinghe | [Read More](https://medium.com/p/02e7fd28ae15) |
 | Wed, 07 May 2025 06:45:32 GMT | Hacking the Frontend Logic: Exploiting JavaScript Business Flaws | Vipul Sonule | [Read More](https://medium.com/p/b6600fafd8a4) |
+| Wed, 07 May 2025 06:44:53 GMT | SOC125 — Suspicious Rundll32 Activity | Cyril Philipp Abajar | [Read More](https://medium.com/p/46034bda3409) |
 | Wed, 07 May 2025 06:43:13 GMT | Cloud Colonialism: How Tech Giants Profit from Your Enterprise Data | Induz Data Solutions | [Read More](https://medium.com/p/fa7bb850a4d5) |
 | Wed, 07 May 2025 06:38:43 GMT | Securing Apache2 + PHP: Practical guide for safer web hosting | Roman Huliak | [Read More](https://medium.com/p/3c967800c582) |
 | Wed, 07 May 2025 06:38:17 GMT | $2,900 Bounty: Public S3 Bucket Exposure in Shopify | Monika sharma | [Read More](https://medium.com/p/05b14bbf6dad) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 May 2025 21:41:07 GMT | Why Every Business Needs a Tailored Cybersecurity Strategy in 2025 | Tungstencyberdg | [Read More](https://medium.com/p/fbe6895c968d) |
 | Tue, 06 May 2025 21:36:48 GMT | Mavi Takım Başlangıç Rehberi | Nursenaavci | [Read More](https://medium.com/p/a3759d27ffd1) |
 | Tue, 06 May 2025 21:34:11 GMT | TryHackMe — Hammer Write-up | João Laimer | [Read More](https://medium.com/p/ab347efce261) |
-| Tue, 06 May 2025 21:30:59 GMT | List of TryHackMe Free Rooms ( 2025 ) | Ceo Defender | [Read More](https://medium.com/p/ba857cc8f707) |
-| Tue, 06 May 2025 21:22:28 GMT | Cracking the Airwaves: Security Vulnerabilities in Modern 5G Telecom Networks | Piyush | [Read More](https://medium.com/p/cacd63498f82) |
-| Tue, 06 May 2025 21:22:21 GMT | Threat actor Profiling — Pakistan cyber threat actors targeting India | DarkKnight | [Read More](https://medium.com/p/3aee5ab55e8e) |
-| Tue, 06 May 2025 21:18:16 GMT | How AWS WAF Saved the Day: The Power of Web Application Firewall | Jotham Arinze | [Read More](https://medium.com/p/84b82d56eed5) |
-| Tue, 06 May 2025 21:17:28 GMT | Critical Android Malware Alert - BTMOB RAT Steals Banking Data via Accessibility Services | Avnishyam | [Read More](https://medium.com/p/bd9140fd807a) |
-| Tue, 06 May 2025 21:11:11 GMT | Thirsty for love | Vanja Majin Ortiz Martinez | [Read More](https://medium.com/p/d48d5fae4eaa) |
-| Tue, 06 May 2025 21:11:10 GMT | ️ Fuzzing for Hackers: Write Your Own Fuzzer in Python & Get Started with AFL | Piyush | [Read More](https://medium.com/p/d375baf243d2) |
-| Tue, 06 May 2025 21:10:08 GMT | Zip Threats: What You Need to Know to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/5a6c201ea155) |
-| Tue, 06 May 2025 21:04:09 GMT | Comunidades emergentes | Hugo Alberto Guadarrama Sánchez | [Read More](https://medium.com/p/f19726f12334) |
-| Tue, 06 May 2025 21:03:18 GMT | Beyond the Buzz: Advanced Fuzzing Techniques and Real-World Impact | Piyush | [Read More](https://medium.com/p/5cf5e8fc275a) |
