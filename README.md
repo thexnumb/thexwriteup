@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 May 2025 18:38:07 GMT | A New Journey Begins ✨ | Hussein Alyamnii | [Read More](https://medium.com/p/547c13574d11) |
+| Wed, 07 May 2025 18:30:28 GMT | Meta Wins $167M From Israeli Spyware Firm NSO Over WhatsApp Breach | CoinGen | [Read More](https://medium.com/p/cccbec2461dd) |
+| Wed, 07 May 2025 18:27:22 GMT | The Rising Cyber Threat to Critical Infrastructure: Why the Oil and Gas Sector Must Act Now | Siva Gunasekaran | [Read More](https://medium.com/p/8b390df12516) |
+| Wed, 07 May 2025 18:26:24 GMT | How Data Brokers Power Phishing and How mePrism Stops It | mePrism Privacy | [Read More](https://medium.com/p/43ba627583af) |
 | Wed, 07 May 2025 18:19:48 GMT | Loopholes in School Web Filters | Paul  Cuffe | [Read More](https://medium.com/p/cfd8cc6bbc31) |
 | Wed, 07 May 2025 18:18:31 GMT | IBM Security and Compliance Center wins “Best Security Compliance in Enterprise” at the 2025 Cloud… | Bill Grady | [Read More](https://medium.com/p/8c9095657286) |
 | Wed, 07 May 2025 17:57:06 GMT | KeePass & Nextcloud — The Last Password You’ll Ever Need to Remember | Tobias Blaser | [Read More](https://medium.com/p/f541f210fe14) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 13:17:57 GMT | Operation Sindoor, India’s Counter-terror Playbook and Pakistan’s Response | Zorawar Gill | [Read More](https://medium.com/p/479e0cec4a47) |
 | Wed, 07 May 2025 13:16:56 GMT | VLAN IN PRACTICE — HOW LOGICAL SEGMENTATION MAKES NETWORKS FLEXIBLE, SECURE AND SCALABLE | Mariia Hirniak | [Read More](https://medium.com/p/1e40af38a8ee) |
 | Wed, 07 May 2025 13:10:44 GMT | RMF Is Being Dismantled. What Do We Do Now? | Cheryl Abram | [Read More](https://medium.com/p/b743bd4df71a) |
-| Wed, 07 May 2025 13:10:20 GMT | From Cross-Subdomain Cookie Reuse to Becoming Super Admin: An Exploit Chain Walkthrough | cyberpro151 | [Read More](https://medium.com/p/32527caa2a11) |
-| Wed, 07 May 2025 13:02:44 GMT | The Fatal Delay Between Detection and Investigation | Peris.ai Cybersecurity | [Read More](https://medium.com/p/69477cf10008) |
-| Wed, 07 May 2025 13:01:33 GMT | Chrome 136 Is Here: Why You | James Neal | [Read More](https://medium.com/p/b692ef4fedba) |
-| Wed, 07 May 2025 12:56:47 GMT | SpiderFoot ile E-Posta Güvenliği Testi | Isaergisi | [Read More](https://medium.com/p/114f0c6a2288) |
