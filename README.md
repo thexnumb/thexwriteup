@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 15:16:29 GMT | How the Internet Works Part I | Baraaemad | [Read More](https://medium.com/p/517bb3c45892) |
+| Thu, 08 May 2025 15:06:02 GMT | Why Digital Privacy Is the New Human Right | Prince Moche | [Read More](https://medium.com/p/c0a914c80bdb) |
+| Thu, 08 May 2025 15:00:03 GMT | How Samczsun is bridging the old web to the dark forest | Mike Orcutt | [Read More](https://medium.com/p/53074b9f171e) |
+| Thu, 08 May 2025 14:59:30 GMT | Meta Wins $168M Lawsuit Against NSO Group for WhatsApp Spying | Hoplon Infosec | [Read More](https://medium.com/p/a7f35eec61eb) |
+| Thu, 08 May 2025 14:50:46 GMT | What a Field CTO Really Does (When You Work for a Cybersecurity Vendor) | Andre Fernandes | [Read More](https://medium.com/p/5df3887d134e) |
+| Thu, 08 May 2025 14:49:33 GMT | A Day in the Life of a Cyber Threat Analyst: Inside the War Room of Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/bf89e96d2bed) |
+| Thu, 08 May 2025 14:47:30 GMT | What Does The Future Of AI In Cybersecurity Look Like ? | Fuzail Al Arabia | [Read More](https://medium.com/p/cd4ec7045d51) |
+| Thu, 08 May 2025 14:43:47 GMT | Too Many Spreadsheets? Transforming File-Based Chaos into Data-Centric Simplicity | Ugur Kadakal | [Read More](https://medium.com/p/babe17fb85fe) |
+| Thu, 08 May 2025 14:42:13 GMT | 4 Signs Your Microsoft Account Has Been Hacked — And What to Do About It | Alex Hughes | [Read More](https://medium.com/p/c8d3bd224efa) |
 | Thu, 08 May 2025 14:36:38 GMT | Cost-Effective S3 Cross-Region Replication with Single-AZ Storage on AWS | Isaac Ntumpi | [Read More](https://medium.com/p/0fdebe69f8b4) |
 | Thu, 08 May 2025 14:33:35 GMT | Building a Flipper Zero Ethernet Adapter for Red Team Recon | josegpac | [Read More](https://medium.com/p/494ef206ea93) |
 | Thu, 08 May 2025 14:32:45 GMT | What Is Ethical Hacking? When Breaking the Rules Makes You Safer | Alex Hughes | [Read More](https://medium.com/p/ee170833e5a1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 10:16:44 GMT | Cybersecurity Services: Safeguarding Your Business in the Digital Era | Arushi Srivastava | [Read More](https://medium.com/p/bace76aabfb5) |
 | Thu, 08 May 2025 10:06:23 GMT | April hack analysis and overview | Sisi | [Read More](https://medium.com/p/5d92b02bc745) |
 | Thu, 08 May 2025 09:46:06 GMT | Samsung MagicINFO 9 Server RCE Vulnerability: What You Need to Know | Infoziant | [Read More](https://medium.com/p/907604813573) |
-| Thu, 08 May 2025 09:37:18 GMT | Handling Requirements and Data Roles | Igor Berner | [Read More](https://medium.com/p/372e22cfe40d) |
-| Thu, 08 May 2025 09:35:01 GMT | Episode 2: DNS — The Invisible GPS That Hackers Love to Hijack | Vaishnav Gnair | [Read More](https://medium.com/p/cd04d2e1935d) |
-| Thu, 08 May 2025 09:28:11 GMT | Lab 5 — IDA Pro | Sapir Twig | [Read More](https://medium.com/p/a452a19d2af2) |
-| Thu, 08 May 2025 09:27:30 GMT | Meet the Susware Engineer: The True Architect of Bugs | Fanvercel | [Read More](https://medium.com/p/952fb08793b1) |
-| Thu, 08 May 2025 09:27:04 GMT | HTB — Heal Write-up | Nikita Astashenko | [Read More](https://medium.com/p/c8c0e96a6aff) |
-| Thu, 08 May 2025 09:22:36 GMT | The CIO’s Guide to IT Strategy | Mark Bridges | [Read More](https://medium.com/p/c2e86863b067) |
-| Thu, 08 May 2025 09:22:30 GMT | 智能合约漏洞：区块链世界的隐秘威胁 | Mckayla Chartrand | [Read More](https://medium.com/p/d53a3dd495cb) |
-| Thu, 08 May 2025 09:20:27 GMT | Does ChatGPT Use My Personal Data for Training? | Nelover | [Read More](https://medium.com/p/79ed2bd04fbe) |
-| Thu, 08 May 2025 09:11:56 GMT | Pentesting Fundamentals - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8ea030a37a82) |
