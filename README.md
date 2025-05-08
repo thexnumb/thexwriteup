@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 21:32:13 GMT | $5000 Bounty: Critical Stored XSS | Monika sharma | [Read More](https://medium.com/p/e93c1730eccc) |
+| Thu, 08 May 2025 21:30:34 GMT | TryHackMe Room Write-Up: Hydra | Ahmed Nageeb | [Read More](https://medium.com/p/25aa521f5f54) |
+| Thu, 08 May 2025 21:27:47 GMT | Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios | coffinxp | [Read More](https://medium.com/p/e00c9e1f85cd) |
+| Thu, 08 May 2025 21:27:41 GMT | $500 Bounty: Parameter Pollution in HackerOne’s | Monika sharma | [Read More](https://medium.com/p/976bb0a3caae) |
+| Thu, 08 May 2025 21:27:33 GMT | Digital Trenches: When Governments Wage War in the Shadows | Ahmad Javed | [Read More](https://medium.com/p/4d667f5ca2c9) |
+| Thu, 08 May 2025 21:23:36 GMT | Nginx advanced techniques: Turbocharge your web infrastructure | Roman Huliak | [Read More](https://medium.com/p/6b2c7bf6fb74) |
+| Thu, 08 May 2025 21:23:13 GMT | Bypassing Security Mechanisms in Restricted Mobile Applications | Onurcan Genç | [Read More](https://medium.com/p/173b6059c0f0) |
+| Thu, 08 May 2025 21:22:33 GMT | Honeypots vs. Watering Hole Attacks | Cyber T | [Read More](https://medium.com/p/ad40cf76b1e9) |
+| Thu, 08 May 2025 21:22:26 GMT | TryHackMe - Memory Acquisition - WriteUp | Axoloth | [Read More](https://medium.com/p/c9d3248ec4c1) |
+| Thu, 08 May 2025 21:20:53 GMT | Reverse Engineering Başlanğıcı: IDA Pro-da CrackME Analizi | Elmin Farzaliyev | [Read More](https://medium.com/p/e46da4adf674) |
+| Thu, 08 May 2025 21:13:27 GMT | Is the Certified Lead Penetration Test Professional (CLPTP) Certification Worth It? | Shamsul Anam Emon | [Read More](https://medium.com/p/61f6adf8b3da) |
 | Thu, 08 May 2025 21:10:39 GMT | to be loved even in the silent moments | halle | [Read More](https://medium.com/p/ce1334abb578) |
+| Thu, 08 May 2025 21:10:31 GMT | My Cybersecurity Journey with Digitanotion Limited: Real-World Skills, Real Growth | Nanfwang Solomon | [Read More](https://medium.com/p/d64952021bed) |
 | Thu, 08 May 2025 21:06:26 GMT | Social security in India | The United Indian | [Read More](https://medium.com/p/32180e5e5784) |
 | Thu, 08 May 2025 21:02:38 GMT | The Cost of Ignoring Cybersecurity | John Locke | [Read More](https://medium.com/p/741c610fa5cf) |
 | Thu, 08 May 2025 20:55:47 GMT | GOAD Part 1: Scanning the Forest - Reconnaissance in an Active Directory Jungle | Cyb3rByte | [Read More](https://medium.com/p/53a125bd2486) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 16:06:00 GMT | The Weekly Threat Round-up 05/05/2025 – 08/05/2025 | RileyHv | [Read More](https://medium.com/p/c76335d6a309) |
 | Thu, 08 May 2025 16:02:42 GMT | Phantom Threads in Python: Hijacking Dormant Threads for Stealthy Code Execution on Windows | Maxwell Cross | [Read More](https://medium.com/p/2d9315c24136) |
 | Thu, 08 May 2025 16:02:41 GMT | ¿Gratis? El Mito de la IA Gratuita y sus Costos Ocultos | Chris Galleta | [Read More](https://medium.com/p/034c26d72f5b) |
-| Thu, 08 May 2025 16:02:08 GMT | Nigeria’s New Police State: How the Rich Bought the Force and Left the Rest to Rot | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/aa12501d27fe) |
-| Thu, 08 May 2025 16:01:40 GMT | Wazuh: The Free SIEM That Fights Like a Paid One | Aditya Bhatt | [Read More](https://medium.com/p/9554ed1272da) |
-| Thu, 08 May 2025 16:00:33 GMT | Stop Contact-Form Spam in React with One File and Zero Dependencies | Maurice Lichtenberg | [Read More](https://medium.com/p/e0b1b95e48a6) |
-| Thu, 08 May 2025 15:57:54 GMT | The Everyday Kubernetes Challenges Nobody Warns You About | Zudonu Osomudeya | [Read More](https://medium.com/p/81f1e9bd6583) |
-| Thu, 08 May 2025 15:57:32 GMT | Qilin Ransomware Surges in April 2025: 45 Breaches Linked to Stealthy NETXLOADER Malware | Jiniyaasma | [Read More](https://medium.com/p/7d7ec74ed527) |
-| Thu, 08 May 2025 15:54:39 GMT | Cyberattacks on Critical Infrastructures Can Be Brutal | Matthew.Rosenquist | [Read More](https://medium.com/p/b3d4f70322f0) |
-| Thu, 08 May 2025 15:50:41 GMT | Internet Security Tips: Why You Need A VPN | James Neal | [Read More](https://medium.com/p/4e470bfd19bf) |
-| Thu, 08 May 2025 15:49:35 GMT | Understanding Cyber Threats: From Malware to DDoS Attacks | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/ecfb881725f8) |
-| Thu, 08 May 2025 15:46:18 GMT | ¿La Ciberseguridad es un Gasto o una Inversión? | Tiziano Mass | [Read More](https://medium.com/p/de93cf936ad9) |
-| Thu, 08 May 2025 15:37:58 GMT | Hacking Heaven | majoki | [Read More](https://medium.com/p/e3c4dcdcc680) |
-| Thu, 08 May 2025 15:37:22 GMT | Why Is My Network 192.168.x.x… but My Virtual Machine Shows 10.x.x.x? | embossdotar | [Read More](https://medium.com/p/cb232e437fca) |
-| Thu, 08 May 2025 15:34:22 GMT | Instantly Claim $CVE: No Gas Fees Required | CVE | [Read More](https://medium.com/p/5dc6385f0ec9) |
