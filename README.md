@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 20:11:51 GMT | PowerSchool Hacker Now Targeting Individual School Districts in Ongoing Extortion Campaign | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/5b4a7d8a85d2) |
+| Thu, 08 May 2025 20:09:27 GMT | Recon Solana: My Go-To Combo for Snagging Token Claims | RECON | [Read More](https://medium.com/p/d5169ae64e87) |
+| Thu, 08 May 2025 20:06:39 GMT | Three Reasons Healthcare Organizations Continue to Struggle with Access Control (and How to Fix… | Shereese Maynard | [Read More](https://medium.com/p/133f146d166b) |
+| Thu, 08 May 2025 20:00:36 GMT | TeleMessage Signal Hack: Why Your Chats Could Be Next If We Ignore These Flaws | Li Zixiang | [Read More](https://medium.com/p/37d64065b810) |
+| Thu, 08 May 2025 19:56:42 GMT | How I Found Peace of Mind: Simple Tricks to Keep Looters Off Your Property | Frisk | [Read More](https://medium.com/p/1d5d1f55d06e) |
+| Thu, 08 May 2025 19:50:57 GMT | How I Got a Free Order by Bypassing Login — My First Real-World Bug | Moh2005rr | [Read More](https://medium.com/p/38798b79a9d7) |
+| Thu, 08 May 2025 19:50:55 GMT | BEYOND THE FACADE: UNLOCKING THE POWER OF EMOTIONAL AUTHENTICITY IN MEN | Fedude Annie | [Read More](https://medium.com/p/db3df4f29912) |
+| Thu, 08 May 2025 19:42:13 GMT | My only competition is me . | My Blog | [Read More](https://medium.com/p/270e06568a91) |
+| Thu, 08 May 2025 19:40:46 GMT | Finding God in the Dark: The Cost of Letting Go | TF Reynard | [Read More](https://medium.com/p/3d43780565f3) |
 | Thu, 08 May 2025 19:32:17 GMT | This AI Code Review Tool Caught 95% of Our Errors — Game-Changer! | DevRooted | [Read More](https://medium.com/p/610997a45aab) |
 | Thu, 08 May 2025 19:23:24 GMT | How I Use AuditD to Catch Silent Security Threats on Linux | Faruk Ahmed | [Read More](https://medium.com/p/9e9b5ba48895) |
 | Thu, 08 May 2025 19:23:09 GMT | What Is Firewall Pass Through and Why Does It Matter? | SafeAeon Inc. | [Read More](https://medium.com/p/785d577c9abf) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 14:49:33 GMT | A Day in the Life of a Cyber Threat Analyst: Inside the War Room of Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/bf89e96d2bed) |
 | Thu, 08 May 2025 14:47:30 GMT | What Does The Future Of AI In Cybersecurity Look Like ? | Fuzail Al Arabia | [Read More](https://medium.com/p/cd4ec7045d51) |
 | Thu, 08 May 2025 14:43:47 GMT | Too Many Spreadsheets? Transforming File-Based Chaos into Data-Centric Simplicity | Ugur Kadakal | [Read More](https://medium.com/p/babe17fb85fe) |
-| Thu, 08 May 2025 14:42:13 GMT | 4 Signs Your Microsoft Account Has Been Hacked — And What to Do About It | Alex Hughes | [Read More](https://medium.com/p/c8d3bd224efa) |
-| Thu, 08 May 2025 14:36:38 GMT | Cost-Effective S3 Cross-Region Replication with Single-AZ Storage on AWS | Isaac Ntumpi | [Read More](https://medium.com/p/0fdebe69f8b4) |
-| Thu, 08 May 2025 14:33:35 GMT | Building a Flipper Zero Ethernet Adapter for Red Team Recon | josegpac | [Read More](https://medium.com/p/494ef206ea93) |
-| Thu, 08 May 2025 14:32:45 GMT | What Is Ethical Hacking? When Breaking the Rules Makes You Safer | Alex Hughes | [Read More](https://medium.com/p/ee170833e5a1) |
-| Thu, 08 May 2025 14:31:24 GMT | One day I stopped waiting to be asked | Poppy Sindral | [Read More](https://medium.com/p/bc7184f46059) |
-| Thu, 08 May 2025 14:31:04 GMT | Play Ransomware Exploits Windows Zero-Day (CVE-2025–29824) to Breach U.S. | Jiniyaasma | [Read More](https://medium.com/p/09fae5f6a9cd) |
-| Thu, 08 May 2025 14:27:39 GMT | DDoS Attack Detector: Real-Time IP Monitoring & Visualization Tool | indrajith | [Read More](https://medium.com/p/8058d4c401f6) |
-| Thu, 08 May 2025 14:25:17 GMT | How to implement Secure Pipeline only with open-source tools | Vernieri | [Read More](https://medium.com/p/b658f3fcc6c6) |
-| Thu, 08 May 2025 14:21:32 GMT | Sapphire Ticket Attack: Understanding Kerberos Ticket Forgery Risks ️️ | 0b1d1 | [Read More](https://medium.com/p/3dcf8f5d244c) |
