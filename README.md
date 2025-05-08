@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 09:20:27 GMT | Does ChatGPT Use My Personal Data for Training? | Nelover | [Read More](https://medium.com/p/79ed2bd04fbe) |
+| Thu, 08 May 2025 09:11:56 GMT | Pentesting Fundamentals - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8ea030a37a82) |
+| Thu, 08 May 2025 09:07:21 GMT | Golden Chickens Are Back: TerraStealerV2 is Hunting Your Crypto and Chrome Logins | TechBrain | [Read More](https://medium.com/p/7ce191243af1) |
+| Thu, 08 May 2025 09:06:50 GMT | Vulnerability Scan for Your Project | Mahdi Mallaki | [Read More](https://medium.com/p/ef911119cc56) |
+| Thu, 08 May 2025 09:05:37 GMT | Emotionally Invincible | Madi | [Read More](https://medium.com/p/9e33b8643334) |
+| Thu, 08 May 2025 09:03:17 GMT | A Dengerous CyberAttack Type : Supply-Chain Attack | Rohit Maity | [Read More](https://medium.com/p/e992bbb3cf79) |
+| Thu, 08 May 2025 09:01:15 GMT | Before the Firewall: EDSPL’s Visionary Approach to Cyber Defense | saurabh cyberinfomines | [Read More](https://medium.com/p/f308131c162e) |
+| Thu, 08 May 2025 08:59:58 GMT | The Power of Information in the Age of AI
+AI 시대, 정보를 다루는 힘 | linglingling3 | [Read More](https://medium.com/p/d38442ec5a62) |
+| Thu, 08 May 2025 08:59:49 GMT | WebSocket mi, REST mi? Gerçek Zamanlı Veri İletimi İçin Doğru Seçim Ne? | ELİF KİŞİ | [Read More](https://medium.com/p/3dfab6d404f5) |
+| Thu, 08 May 2025 08:54:29 GMT | Prevent Unrestricted File Upload in Symfony Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/d25406df104e) |
+| Thu, 08 May 2025 08:51:26 GMT | ‍ “When ICS meets APT — the past has clues, the future has targets.” | om sonawane | [Read More](https://medium.com/p/f4de796afb3b) |
+| Thu, 08 May 2025 08:49:31 GMT | Hacker Türleri | Taha Özcan | [Read More](https://medium.com/p/4fee7a3dc740) |
+| Thu, 08 May 2025 08:49:17 GMT | Reliable 24/7 Security: Protection That Never Sleeps | Internal security and manpower services | [Read More](https://medium.com/p/d57b8e84621e) |
 | Thu, 08 May 2025 08:44:20 GMT | Hacker-Proof Your Mind: 6 Books to Start | Ahmad Javed | [Read More](https://medium.com/p/85e9a92c5585) |
 | Thu, 08 May 2025 08:36:09 GMT | Day 29: PortSwigger Lab Walkthroughs (No Tools): SQL Injection via URL & Login Form | Agarwaldaksh | [Read More](https://medium.com/p/293016dc3b74) |
 | Thu, 08 May 2025 08:33:58 GMT | SSL pinning in Android applications | Nick Psarakis | [Read More](https://medium.com/p/6deec120f31d) |
@@ -100,16 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 04:32:41 GMT | The Courage to Be Seen | Mridu Goyal | [Read More](https://medium.com/p/11747d22734c) |
 | Thu, 08 May 2025 04:32:35 GMT | MITRE ATT&CK Framework walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/c1d7e83db4fa) |
 | Thu, 08 May 2025 04:28:39 GMT | My Beginner Journey — Setting Up an Active Directory Lab for Cybersecurity | Lovepreetsg | [Read More](https://medium.com/p/41d936449735) |
-| Thu, 08 May 2025 04:28:12 GMT | Supercharging API Security Testing: GitHub Copilot + Burp Suite Repeater Workflow | Franco Brevis | [Read More](https://medium.com/p/b1c60dc318e0) |
-| Thu, 08 May 2025 04:25:52 GMT | CTF ID-Networkers 2025 - Write UP | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/78648bf13168) |
-| Thu, 08 May 2025 04:21:18 GMT | to be loved at my lowest too | writingpastime | [Read More](https://medium.com/p/ed1335b19949) |
-| Thu, 08 May 2025 03:50:54 GMT | The VPN Advantage: Stay Private And Secure | James Neal | [Read More](https://medium.com/p/cbb0266aff56) |
-| Thu, 08 May 2025 03:50:18 GMT | Inside the Ransom Room: Analyzing 208 Leaked LockBit Negotiations | Diptendu Kar | [Read More](https://medium.com/p/609de0676240) |
-| Thu, 08 May 2025 03:45:40 GMT | The Premier VPN Solutions For Enhanced Privacy | Melvin Erickson | [Read More](https://medium.com/p/535e4582fdd6) |
-| Thu, 08 May 2025 03:45:14 GMT | TryHackMe “Lo-Fi” Room Walkthrough — Exploiting Local File Inclusion (LFI) | Jens Becker | [Read More](https://medium.com/p/843ed97d0455) |
-| Thu, 08 May 2025 03:42:25 GMT | Pachinko - Writeup | Marvin | [Read More](https://medium.com/p/c3b3d2aeef08) |
-| Thu, 08 May 2025 03:31:37 GMT | Launch Your First Cloud Server on AWS: A Beginner-Friendly Hands-On POC | Vaibhav Parekh | [Read More](https://medium.com/p/6320b386520d) |
-| Thu, 08 May 2025 03:28:14 GMT | PUBLIC KEY CRYPTOGRAPHY BASICS-- TRYHACKME-- CYBERSECURITY 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/9a7650814e96) |
-| Thu, 08 May 2025 03:27:39 GMT | HASHING BASICS-- TRYHACKME-- CYBER SECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/dfb781a86827) |
-| Thu, 08 May 2025 03:15:42 GMT | #  TryHackMe Billing Walkthrough | dhruv shyam | [Read More](https://medium.com/p/c2bec374bc9c) |
-| Thu, 08 May 2025 03:13:16 GMT | [Review] Multi-Cloud Blue Team Analyst (MCBTA) in Bahasa | gtrwhyurmdhan | [Read More](https://medium.com/p/79f1730d26cc) |
