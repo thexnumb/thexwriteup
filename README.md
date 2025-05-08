@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 15:37:58 GMT | Hacking Heaven | majoki | [Read More](https://medium.com/p/e3c4dcdcc680) |
+| Thu, 08 May 2025 15:37:22 GMT | Why Is My Network 192.168.x.x… but My Virtual Machine Shows 10.x.x.x? | embossdotar | [Read More](https://medium.com/p/cb232e437fca) |
+| Thu, 08 May 2025 15:30:33 GMT | 1.0 Identity — The First Pillar of Zero Trust | James Booth | [Read More](https://medium.com/p/918c8af2b338) |
+| Thu, 08 May 2025 15:21:54 GMT | Designing NexusKiosk: A Secure, Minimalist OS for Public Library Terminals | Carnell Hines | [Read More](https://medium.com/p/5961b614b5b8) |
+| Thu, 08 May 2025 15:20:35 GMT | PW Crack 4- PicoCTF Walkthrough- Difficulty- Medium- General Skills | Midhunkrishnan P U | [Read More](https://medium.com/p/bc4ca1611a9a) |
 | Thu, 08 May 2025 15:16:29 GMT | How the Internet Works Part I | Baraaemad | [Read More](https://medium.com/p/517bb3c45892) |
 | Thu, 08 May 2025 15:06:02 GMT | Why Digital Privacy Is the New Human Right | Prince Moche | [Read More](https://medium.com/p/c0a914c80bdb) |
 | Thu, 08 May 2025 15:00:03 GMT | How Samczsun is bridging the old web to the dark forest | Mike Orcutt | [Read More](https://medium.com/p/53074b9f171e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 10:22:27 GMT | How Cyberattacks Impact Businesses: Financial and Operational Risks | NewEvol | [Read More](https://medium.com/p/15b8440aa6cb) |
 | Thu, 08 May 2025 10:21:24 GMT | How I Deleted Any User’s Account— No Interaction Needed | Ehtesham Ul Haq | [Read More](https://medium.com/p/faae0442ff4f) |
 | Thu, 08 May 2025 10:21:19 GMT | Weekend Cyber Security Classes in Hyderabad for Working Professionals | Sanchitamishra | [Read More](https://medium.com/p/6cfdbc852b98) |
-| Thu, 08 May 2025 10:20:05 GMT | Cyber Warfare & Geopolitics: A Strategic Frontier in the Digital Age | Jackdavis Iap | [Read More](https://medium.com/p/62f5831b34b1) |
-| Thu, 08 May 2025 10:17:34 GMT | Safe & Sound: Simple Habits That Secure Your Personal Finances | Aceunion | [Read More](https://medium.com/p/68c238f51f6d) |
-| Thu, 08 May 2025 10:16:44 GMT | Cybersecurity Services: Safeguarding Your Business in the Digital Era | Arushi Srivastava | [Read More](https://medium.com/p/bace76aabfb5) |
-| Thu, 08 May 2025 10:06:23 GMT | April hack analysis and overview | Sisi | [Read More](https://medium.com/p/5d92b02bc745) |
-| Thu, 08 May 2025 09:46:06 GMT | Samsung MagicINFO 9 Server RCE Vulnerability: What You Need to Know | Infoziant | [Read More](https://medium.com/p/907604813573) |
