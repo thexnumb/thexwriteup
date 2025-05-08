@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 16:38:19 GMT | Port Scanning: The Foundation of Discovery | Vaibhav Kushwaha | [Read More](https://medium.com/p/7479dfc7ed83) |
+| Thu, 08 May 2025 16:32:52 GMT | Stop Ignoring These 5 Spring Registry Pitfalls in Your Microservices! | The Code Alchemist | [Read More](https://medium.com/p/c71cdb5e5064) |
+| Thu, 08 May 2025 16:30:44 GMT | Seconds to Respond: A Strategic & Operational Guide to Cyber-Crisis Command | Mouad_mouadri | [Read More](https://medium.com/p/f02421a5e394) |
+| Thu, 08 May 2025 16:30:23 GMT | Design of a Network Vulnerability Scanner: Defining the Scope | Vaibhav Kushwaha | [Read More](https://medium.com/p/69baad5c235f) |
+| Thu, 08 May 2025 16:30:10 GMT | Nocturnal — HackTheBox | Ryan | [Read More](https://medium.com/p/8fec566c5824) |
+| Thu, 08 May 2025 16:25:27 GMT | Have you ever heard of “swatting”? | ɌƋƑ•TECH | [Read More](https://medium.com/p/81303dccb57f) |
+| Thu, 08 May 2025 16:24:34 GMT | How I Passed the Security+ Exam: Study Tips for Tech Learners Balancing Faith, Family, and Focus | Ariel Mcbride | [Read More](https://medium.com/p/ec595aa7cfc1) |
 | Thu, 08 May 2025 16:21:48 GMT | From the Battlefield to the Boardroom: A Veteran’s Ethical Vision for Servant Leadership in the… | Matthew Magelitz | [Read More](https://medium.com/p/339188958a6e) |
+| Thu, 08 May 2025 16:20:31 GMT | From Rust to Go: Our Rewrite Cut 50% of Dev Time — and 0% of Bugs | Harsh Vardhan | [Read More](https://medium.com/p/35eec44b12f7) |
 | Thu, 08 May 2025 16:16:15 GMT | The Evolution of AI in Cybersecurity Defense | Fayyaz Rajpari | [Read More](https://medium.com/p/64110d61260f) |
 | Thu, 08 May 2025 16:13:38 GMT | Alarm: Did You Change Your Wi-Fi Password? 86% of Us Never Did! | Dr. Feliks Kravets | [Read More](https://medium.com/p/40e3dbf3285e) |
 | Thu, 08 May 2025 16:09:37 GMT | Why Ex-Teachers Make the Best Employees | Bcourt | [Read More](https://medium.com/p/4e4c9ee76bb1) |
@@ -82,6 +90,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 12:56:25 GMT | Can Usability and Cybersecurity Really Get Along? | Ngatz | [Read More](https://medium.com/p/9dee6cf3ccbb) |
 | Thu, 08 May 2025 12:56:20 GMT | Top Cybersecurity Threats Brisbane SMEs Face in 2025 | Elevate | [Read More](https://medium.com/p/7da09ac4b8b4) |
 | Thu, 08 May 2025 12:51:56 GMT | Build a Phishing Detection Bot With Gmail, VirusTotal, and GPT | Corey Jones | [Read More](https://medium.com/p/de9cb7290596) |
+| Thu, 08 May 2025 12:44:48 GMT | Exposing a Simple Bug That Crashed an Organization’s Forum | Mo2men Elmady | [Read More](https://medium.com/p/8ac532157d6a) |
 | Thu, 08 May 2025 12:44:14 GMT | DC-3 Machine (Vulnhub) | Amalpp | [Read More](https://medium.com/p/d5f5b509a9a4) |
 | Thu, 08 May 2025 12:30:32 GMT | CVE-2024–6648: Mi primer CVE | n0d0n | [Read More](https://medium.com/p/3c945bfbcb2f) |
 | Thu, 08 May 2025 12:26:40 GMT | NIST AI 100–1: Sect. 5 Core Functions and 5.1 Governance | David Scott | [Read More](https://medium.com/p/a1b8b80e4250) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 11:41:08 GMT | "Mastering the Modern Hustle: Build Wealth, Grow Your Career, and Elevate Your Life" | Pavan | [Read More](https://medium.com/p/91274612bcb1) |
 | Thu, 08 May 2025 11:40:10 GMT | ️ The Role of Nation-State Hackers in Modern Warfare: Cyber Battles Beyond Borders | HFNRL | [Read More](https://medium.com/p/79d4ec0dac43) |
 | Thu, 08 May 2025 11:38:09 GMT | VIP Protection: More Than Just a Bodyguard | Group 24/7 Security Services | [Read More](https://medium.com/p/81ece036da8f) |
-| Thu, 08 May 2025 11:31:46 GMT | Why is My Vite Env Variable undefined? Here's the Simple Fix. | Koushik | [Read More](https://medium.com/p/0da4623554b2) |
-| Thu, 08 May 2025 11:26:52 GMT | Security Tools Alone Don’t Protect You — Human Factors and Strategic Planning Matter Most | CyBlog | [Read More](https://medium.com/p/35c704985d1a) |
-| Thu, 08 May 2025 11:25:26 GMT | Importance of Technology on the Internet | David Mark | [Read More](https://medium.com/p/bbda10c906a4) |
-| Thu, 08 May 2025 11:23:41 GMT | This Unthinkable Cyberattack Left a Coffee Shop in Ruins — Here’s What You Need to Know | Noel | [Read More](https://medium.com/p/f3b215d2f2ab) |
-| Thu, 08 May 2025 11:22:33 GMT | Get Your Tokens: Claim $BUG for Bug Now | BUG | [Read More](https://medium.com/p/b83a1ddfeef1) |
-| Thu, 08 May 2025 11:15:49 GMT | SIEM Migration Trends | Apto Solutions | [Read More](https://medium.com/p/900578db3f79) |
-| Thu, 08 May 2025 11:15:38 GMT | Gen AI in Malware Creation: How Cybercriminals are Automating Attacks | Taiyab Lokhandwala | [Read More](https://medium.com/p/b122011900bb) |
-| Thu, 08 May 2025 11:14:53 GMT | Which Outdoor Security Camera System Should You Trust? Let’s Find Your Perfect Match! | Senjas | [Read More](https://medium.com/p/2a3f3088394b) |
-| Thu, 08 May 2025 11:13:20 GMT | “Magic Numbers” in the World of Pentesting | David Delgado Déniz | [Read More](https://medium.com/p/e22c6da4a6d6) |
