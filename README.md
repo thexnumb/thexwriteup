@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 03:50:54 GMT | The VPN Advantage: Stay Private And Secure | James Neal | [Read More](https://medium.com/p/cbb0266aff56) |
+| Thu, 08 May 2025 03:50:18 GMT | Inside the Ransom Room: Analyzing 208 Leaked LockBit Negotiations | Diptendu Kar | [Read More](https://medium.com/p/609de0676240) |
+| Thu, 08 May 2025 03:45:40 GMT | The Premier VPN Solutions For Enhanced Privacy | Melvin Erickson | [Read More](https://medium.com/p/535e4582fdd6) |
+| Thu, 08 May 2025 03:45:14 GMT | TryHackMe “Lo-Fi” Room Walkthrough — Exploiting Local File Inclusion (LFI) | Jens Becker | [Read More](https://medium.com/p/843ed97d0455) |
+| Thu, 08 May 2025 03:42:25 GMT | Pachinko - Writeup | Marvin | [Read More](https://medium.com/p/c3b3d2aeef08) |
+| Thu, 08 May 2025 03:31:37 GMT | Launch Your First Cloud Server on AWS: A Beginner-Friendly Hands-On POC | Vaibhav Parekh | [Read More](https://medium.com/p/6320b386520d) |
+| Thu, 08 May 2025 03:28:14 GMT | PUBLIC KEY CRYPTOGRAPHY BASICS-- TRYHACKME-- CYBERSECURITY 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/9a7650814e96) |
+| Thu, 08 May 2025 03:27:39 GMT | HASHING BASICS-- TRYHACKME-- CYBER SECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/dfb781a86827) |
+| Thu, 08 May 2025 03:15:42 GMT | #  TryHackMe Billing Walkthrough | dhruv shyam | [Read More](https://medium.com/p/c2bec374bc9c) |
+| Thu, 08 May 2025 03:13:16 GMT | [Review] Multi-Cloud Blue Team Analyst (MCBTA) in Bahasa | gtrwhyurmdhan | [Read More](https://medium.com/p/79f1730d26cc) |
 | Thu, 08 May 2025 03:09:06 GMT | Shifting Left with Vulnerability Management: Security as Code | Paritosh | [Read More](https://medium.com/p/353c206db2de) |
 | Thu, 08 May 2025 02:59:27 GMT | Securing the Future of Autonomous AI: An In-Depth Look at Meta’s LlamaFirewall | Akshay Nair | [Read More](https://medium.com/p/c6568fbe0eeb) |
 | Thu, 08 May 2025 02:56:49 GMT | XSS Part — 12 : Stored DOM XSS | Ahmad Sopyan | [Read More](https://medium.com/p/431c560cb54d) |
@@ -103,13 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 17:57:01 GMT | HoneyBOT Secrets Revealed | Omar Hesham | [Read More](https://medium.com/p/9b79af6d204a) |
 | Wed, 07 May 2025 17:52:58 GMT | Cybersecurity and Quantum Computing with Paul Leongas: A Race Against Time | Paul Leongas | [Read More](https://medium.com/p/64a9c0e19e6d) |
 | Wed, 07 May 2025 17:48:57 GMT | How to Claim $RECON Easily | RECON | [Read More](https://medium.com/p/8991f1d2393a) |
-| Wed, 07 May 2025 17:46:40 GMT | Inside the ClickFunnels Data Breach: What Happened and How Businesses Can Stay Secure | Chetan Seripally | [Read More](https://medium.com/p/5f1308b40dc5) |
-| Wed, 07 May 2025 17:40:23 GMT | Deathnote - Vulnweb - CTF | neerajjayesh | [Read More](https://medium.com/p/fd3d4e334fd4) |
-| Wed, 07 May 2025 17:38:24 GMT | Claim Your Tokens: Curvance $CVE Claiming Guide Now Live | CVE | [Read More](https://medium.com/p/3ed58cc90313) |
-| Wed, 07 May 2025 17:36:24 GMT | The Fall of Knights of Old: A Shattered Legacy | O. J. Okpabi | [Read More](https://medium.com/p/307f66f23f3e) |
-| Wed, 07 May 2025 17:35:36 GMT | ActiveWatch: A New Way to Stay Ahead of Cyber Threats. But Is It Perfect? | O. J. Okpabi | [Read More](https://medium.com/p/776e32a088c1) |
-| Wed, 07 May 2025 17:35:09 GMT | Darcula: The Phishing Syndicate Behind 884,000 Stolen Credit Cards | O. J. Okpabi | [Read More](https://medium.com/p/9e27cf1a7400) |
-| Wed, 07 May 2025 17:34:52 GMT | The Yale Health Hack: A Dangerous Cyber Breach | O. J. Okpabi | [Read More](https://medium.com/p/a61e9d7ea58b) |
-| Wed, 07 May 2025 17:34:37 GMT | This 2-Minute Test Reveals If You Fall for Fake News | 1Spot | [Read More](https://medium.com/p/9c87c868e409) |
-| Wed, 07 May 2025 17:21:38 GMT | Vault Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/3b5d5152a243) |
-| Wed, 07 May 2025 17:16:41 GMT | Understanding Cybersecurity Tools: A Beginner’s Guide to Safeguarding Your Digital World | Laurianne Apollon | [Read More](https://medium.com/p/b3833b7bd7cb) |
