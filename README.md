@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 07:37:52 GMT | ⚔️ Unsafe Eval = Unlimited Control: How a JS Sink Let Me Run Anything | Iski | [Read More](https://medium.com/p/60794929a295) |
+| Thu, 08 May 2025 07:34:58 GMT | Bilgisayar Ağları Nedir? - Siber Güvenliğin Temeli: Ağları Anlamak | Irem | [Read More](https://medium.com/p/ee07ca956bea) |
+| Thu, 08 May 2025 07:34:44 GMT | Hosting Tor v3 Onion Services & Creating Vanity .onion Addresses — A Complete Guide | Ayush P | [Read More](https://medium.com/p/748d02ac6b7f) |
+| Thu, 08 May 2025 07:28:39 GMT | Nmap for Beginners – The First Tool I Learned as a Hacker | Tanzeem Khatri | [Read More](https://medium.com/p/1ffb64af4502) |
+| Thu, 08 May 2025 07:22:04 GMT | Ethical Hacking Summer Internship Program in Delhi | cyber security Updates | [Read More](https://medium.com/p/b62ee8143e46) |
+| Thu, 08 May 2025 07:21:40 GMT | How to share sensitive information securely with your friends without any third party tool | Jiahao Ji Zhou | [Read More](https://medium.com/p/8fb25fcdce4f) |
+| Thu, 08 May 2025 07:16:25 GMT | Top 5 money making AI tools (2025). | Rishav anand | [Read More](https://medium.com/p/fc3989a3768b) |
+| Thu, 08 May 2025 07:16:03 GMT | Secure Email Gateway: Essential Protection for Business Communications | Ayush | [Read More](https://medium.com/p/98580438a68a) |
 | Thu, 08 May 2025 07:15:46 GMT | From Zero to Recon: Your First ASN-Based Scanning Workflow | Saumadip Mandal | [Read More](https://medium.com/p/b08c88709410) |
 | Thu, 08 May 2025 07:08:25 GMT | UK infrastructure under siege: Holy league hacktivist coalition targets critical systems | hide.me VPN | [Read More](https://medium.com/p/5172302fe442) |
 | Thu, 08 May 2025 07:07:40 GMT | AI vs. AI: Inside the Emerging Cybersecurity Arms Race | Les Ottolenghi | [Read More](https://medium.com/p/132b80180f17) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 00:41:10 GMT | Cybersecurity for Freelancers: Protecting Your Remote Work and Digital Assets | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/64daaf7ec9af) |
 | Thu, 08 May 2025 00:40:48 GMT | Security Mechanisms were disabled… by who? | Tobiasacastleberry | [Read More](https://medium.com/p/147c72d00692) |
 | Thu, 08 May 2025 00:37:33 GMT | Online investigation toolkit for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/610fb263846b) |
-| Thu, 08 May 2025 00:26:59 GMT | The Luddites Guide To Love… Or Operational Security For Online Dating. | Seccult | [Read More](https://medium.com/p/acc959ef640e) |
-| Thu, 08 May 2025 00:22:36 GMT | Your Face Value(d) By AI | Sasi Chandru | [Read More](https://medium.com/p/3926b0538a13) |
-| Thu, 08 May 2025 00:11:09 GMT | Lab Rats: 6 Essential Tools For Your RF Hacking Lab | Investigator515 | [Read More](https://medium.com/p/0165e377636d) |
-| Thu, 08 May 2025 00:02:36 GMT | Nmap Guide — Port Scanning is Just the Beginning | JPablo13 | [Read More](https://medium.com/p/0d60ebba5987) |
-| Wed, 07 May 2025 23:47:23 GMT | 100K+ WordPress Sites at Risk: OttoKit Plugin Under Active Attack | Cyber-AppSec | [Read More](https://medium.com/p/b793887e3a21) |
-| Wed, 07 May 2025 23:38:25 GMT | A (not so) Unexpected Journey: Building My First Home Lab | Chris C. | [Read More](https://medium.com/p/48b0253b32ed) |
-| Wed, 07 May 2025 23:27:43 GMT | HOW TO CRACK WIFI PASSWORDS USING AIRGEDDON ON LINUX SYSTEM | Reuben Odoma | [Read More](https://medium.com/p/43609768df9b) |
-| Wed, 07 May 2025 23:22:53 GMT | Protecting Your Nudes: A Guide to Digital Intimacy and Privacy in the Age of Surveillance | BiyteLüm | [Read More](https://medium.com/p/6aa8e7600e32) |
