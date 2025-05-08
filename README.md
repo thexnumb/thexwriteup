@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 21:10:39 GMT | to be loved even in the silent moments | halle | [Read More](https://medium.com/p/ce1334abb578) |
+| Thu, 08 May 2025 21:06:26 GMT | Social security in India | The United Indian | [Read More](https://medium.com/p/32180e5e5784) |
+| Thu, 08 May 2025 21:02:38 GMT | The Cost of Ignoring Cybersecurity | John Locke | [Read More](https://medium.com/p/741c610fa5cf) |
+| Thu, 08 May 2025 20:55:47 GMT | GOAD Part 1: Scanning the Forest - Reconnaissance in an Active Directory Jungle | Cyb3rByte | [Read More](https://medium.com/p/53a125bd2486) |
+| Thu, 08 May 2025 20:44:22 GMT | Türkiye’nin Yeni Nesil Siber Güvenlik Forumu: HackForum.org | HackForum.org | [Read More](https://medium.com/p/e86c024cf277) |
+| Thu, 08 May 2025 20:40:34 GMT | Why Cybersecurity is Crucial for Business Continuity and Success | Networth | [Read More](https://medium.com/p/53a3c2907b5d) |
+| Thu, 08 May 2025 20:37:07 GMT | Can Diplomacy Save India and Pakistan? Lessons from 75 Years of Conflict | Sanyamdubey | [Read More](https://medium.com/p/1056c77472ef) |
 | Thu, 08 May 2025 20:31:34 GMT | The Invisible Hack: Understanding Cookie and Session Hijacking in Everyday Life | All in One security | [Read More](https://medium.com/p/4be8aae83fbe) |
 | Thu, 08 May 2025 20:26:41 GMT | ETW Ghost Logger | S12 - H4CK | [Read More](https://medium.com/p/be16a635e7a2) |
 | Thu, 08 May 2025 20:26:36 GMT | Exploiting File Upload and SSRF Vulnerabilities | musayyab sharif | [Read More](https://medium.com/p/e58bc984b285) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 15:37:58 GMT | Hacking Heaven | majoki | [Read More](https://medium.com/p/e3c4dcdcc680) |
 | Thu, 08 May 2025 15:37:22 GMT | Why Is My Network 192.168.x.x… but My Virtual Machine Shows 10.x.x.x? | embossdotar | [Read More](https://medium.com/p/cb232e437fca) |
 | Thu, 08 May 2025 15:34:22 GMT | Instantly Claim $CVE: No Gas Fees Required | CVE | [Read More](https://medium.com/p/5dc6385f0ec9) |
-| Thu, 08 May 2025 15:33:20 GMT | [MongoDB][Mongoose] อัพเกรด 8.5.x เป็น 8.9.x มีเรื่องอะไรควรต้องระวังบ้าง | Tossaphol Chin | [Read More](https://medium.com/p/ba11b7e4947c) |
-| Thu, 08 May 2025 15:30:33 GMT | 1.0 Identity — The First Pillar of Zero Trust | James Booth | [Read More](https://medium.com/p/918c8af2b338) |
-| Thu, 08 May 2025 15:21:54 GMT | Designing NexusKiosk: A Secure, Minimalist OS for Public Library Terminals | Carnell Hines | [Read More](https://medium.com/p/5961b614b5b8) |
-| Thu, 08 May 2025 15:20:35 GMT | PW Crack 4- PicoCTF Walkthrough- Difficulty- Medium- General Skills | Midhunkrishnan P U | [Read More](https://medium.com/p/bc4ca1611a9a) |
-| Thu, 08 May 2025 15:16:29 GMT | How the Internet Works Part I | Baraaemad | [Read More](https://medium.com/p/517bb3c45892) |
-| Thu, 08 May 2025 15:06:02 GMT | Why Digital Privacy Is the New Human Right | Prince Moche | [Read More](https://medium.com/p/c0a914c80bdb) |
-| Thu, 08 May 2025 15:00:03 GMT | How Samczsun is bridging the old web to the dark forest | Mike Orcutt | [Read More](https://medium.com/p/53074b9f171e) |
