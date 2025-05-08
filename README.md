@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 08:24:51 GMT | The Malware That Sends SMS
+from Your Phone — FluBott | KLEAP Institute of Information Security | [Read More](https://medium.com/p/fb82660ac245) |
+| Thu, 08 May 2025 08:17:13 GMT | Europol Takes Down Major DDoS-for-Hire Networks: A Closer Look | Nexsecura | [Read More](https://medium.com/p/baa4a00bfc85) |
+| Thu, 08 May 2025 08:15:39 GMT | Breaking Into Web App Security: My Journey Through the PWPA Certification | LtReborn | [Read More](https://medium.com/p/f150a5099722) |
+| Thu, 08 May 2025 08:14:00 GMT | Social psychology and cybersecurity are two fields that intersect in surprising ways. | Techzonego | [Read More](https://medium.com/p/47523e79a53d) |
+| Thu, 08 May 2025 08:10:56 GMT | How to Escalate The Payload On The Infected Machine. | NnFace | [Read More](https://medium.com/p/1d1beaa560ef) |
+| Thu, 08 May 2025 08:09:13 GMT | Securing Patient Data: Cybersecurity Essentials for Dental Practices | Anablock | [Read More](https://medium.com/p/0fc00410f34c) |
+| Thu, 08 May 2025 08:08:46 GMT | What Are Cybersecurity Regulations? The Definitive Guide for 2025 | Diehardmclane | [Read More](https://medium.com/p/562bf7e30329) |
+| Thu, 08 May 2025 08:08:35 GMT | SSL Certificate Expired? Here’s What Happens and How to Renew It | CheapSSLweb | [Read More](https://medium.com/p/59f7e30bc5ce) |
+| Thu, 08 May 2025 08:01:42 GMT | The Hacker’s lifeline: Command and Control (C2) Channels | Bl@ckC!pH3r | [Read More](https://medium.com/p/c5c519064f31) |
+| Thu, 08 May 2025 07:55:07 GMT | ประจำวันพฤหัสบดีที่ 8 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/5035d1ff0caf) |
+| Thu, 08 May 2025 07:53:19 GMT | One Hacker, Many Solutions: From Smartphones to Cybersecurity | Noblehackers                   The Noble Hackers | [Read More](https://medium.com/p/40d8b05d0328) |
 | Thu, 08 May 2025 07:37:52 GMT | ⚔️ Unsafe Eval = Unlimited Control: How a JS Sink Let Me Run Anything | Iski | [Read More](https://medium.com/p/60794929a295) |
 | Thu, 08 May 2025 07:34:58 GMT | Bilgisayar Ağları Nedir? - Siber Güvenliğin Temeli: Ağları Anlamak | Irem | [Read More](https://medium.com/p/ee07ca956bea) |
 | Thu, 08 May 2025 07:34:44 GMT | Hosting Tor v3 Onion Services & Creating Vanity .onion Addresses — A Complete Guide | Ayush P | [Read More](https://medium.com/p/748d02ac6b7f) |
+| Thu, 08 May 2025 07:31:47 GMT | What is CCTV Monitoring and How Does it Work? | Jane Tang | [Read More](https://medium.com/p/db192c3b9d68) |
 | Thu, 08 May 2025 07:28:39 GMT | Nmap for Beginners – The First Tool I Learned as a Hacker | Tanzeem Khatri | [Read More](https://medium.com/p/1ffb64af4502) |
 | Thu, 08 May 2025 07:22:04 GMT | Ethical Hacking Summer Internship Program in Delhi | cyber security Updates | [Read More](https://medium.com/p/b62ee8143e46) |
 | Thu, 08 May 2025 07:21:40 GMT | How to share sensitive information securely with your friends without any third party tool | Jiahao Ji Zhou | [Read More](https://medium.com/p/8fb25fcdce4f) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 02:22:06 GMT | Unlocking the Power of HSM Simulators: A Developer’s Secret Weapon | Swathi Cl | [Read More](https://medium.com/p/2702b3f1e97a) |
 | Thu, 08 May 2025 02:08:23 GMT | The Never-Ending Loop of Healing | Alexandra Prestinary | [Read More](https://medium.com/p/4c1f1761d609) |
 | Thu, 08 May 2025 02:04:43 GMT | After cancer: Between two rooms | Peter Moroney | [Read More](https://medium.com/p/92e269df0b8a) |
-| Thu, 08 May 2025 01:57:17 GMT | What the New York subway tells us about the future of the internet | Diego Obregón | [Read More](https://medium.com/p/1513981de78d) |
-| Thu, 08 May 2025 01:48:11 GMT | hash-only-2 - Writeup | Marvin | [Read More](https://medium.com/p/04869373c955) |
-| Thu, 08 May 2025 01:45:08 GMT | Top 9 Best Ethical Hacking Conferences to Attend in 2025 | Pawan Jaiswal | [Read More](https://medium.com/p/7d20460e6390) |
-| Thu, 08 May 2025 01:25:12 GMT | Wordfence Review And Wordfence Security Plugin Review | Neo Thompson (Tech-Sonar Technologies) | [Read More](https://medium.com/p/15a607db7c42) |
-| Thu, 08 May 2025 01:23:01 GMT | 7 Cara Hacker Menipu Karyawan Anda (Dan Gimana Kita Bisa Menghentikannya) | handev.code | [Read More](https://medium.com/p/5b747e22621f) |
-| Thu, 08 May 2025 01:17:34 GMT | Mobile Cybersecurity for Kids & Teens: Protecting Your Child in 2025In an era where kids and teens… | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/3f300fa9d213) |
-| Thu, 08 May 2025 01:04:47 GMT | Hack The Box Academy — Network Foundations — Network Security | bl77rd | [Read More](https://medium.com/p/ce058e102a6e) |
-| Thu, 08 May 2025 00:59:53 GMT | CVST: Scan Multiple Container Images with Trivy for HTML & CSV Vulnerability Reports | Amr Omran | [Read More](https://medium.com/p/0188152a5f3b) |
-| Thu, 08 May 2025 00:57:07 GMT | Cybersecurity FAQs | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/333c4d273093) |
-| Thu, 08 May 2025 00:41:10 GMT | Cybersecurity for Freelancers: Protecting Your Remote Work and Digital Assets | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/64daaf7ec9af) |
-| Thu, 08 May 2025 00:40:48 GMT | Security Mechanisms were disabled… by who? | Tobiasacastleberry | [Read More](https://medium.com/p/147c72d00692) |
-| Thu, 08 May 2025 00:37:33 GMT | Online investigation toolkit for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/610fb263846b) |
