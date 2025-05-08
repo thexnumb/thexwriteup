@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 21:44:35 GMT | How a Smart Guard Patrol System Can Reinvent On-Site Security in 2025 | MQKING | [Read More](https://medium.com/p/f5c34957c8e2) |
 | Thu, 08 May 2025 21:32:13 GMT | $5000 Bounty: Critical Stored XSS | Monika sharma | [Read More](https://medium.com/p/e93c1730eccc) |
 | Thu, 08 May 2025 21:30:34 GMT | TryHackMe Room Write-Up: Hydra | Ahmed Nageeb | [Read More](https://medium.com/p/25aa521f5f54) |
 | Thu, 08 May 2025 21:27:47 GMT | Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios | coffinxp | [Read More](https://medium.com/p/e00c9e1f85cd) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 16:06:27 GMT | Daily dose of Chart : 08 May 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/b6b27e15fc94) |
 | Thu, 08 May 2025 16:06:00 GMT | The Weekly Threat Round-up 05/05/2025 – 08/05/2025 | RileyHv | [Read More](https://medium.com/p/c76335d6a309) |
 | Thu, 08 May 2025 16:02:42 GMT | Phantom Threads in Python: Hijacking Dormant Threads for Stealthy Code Execution on Windows | Maxwell Cross | [Read More](https://medium.com/p/2d9315c24136) |
-| Thu, 08 May 2025 16:02:41 GMT | ¿Gratis? El Mito de la IA Gratuita y sus Costos Ocultos | Chris Galleta | [Read More](https://medium.com/p/034c26d72f5b) |
