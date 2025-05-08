@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 22:36:58 GMT | How to Build a Spam Email Classifier | Adedaniel | [Read More](https://medium.com/p/045b94ece4ed) |
+| Thu, 08 May 2025 22:21:53 GMT | ElectricBreeze-1 — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/126eb7c9988d) |
+| Thu, 08 May 2025 22:16:28 GMT | Why are screens so addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/e077a029dcb5) |
+| Thu, 08 May 2025 22:16:01 GMT | Advanced Persistent Threats (APT): How to Detect and Respond to Sophisticated Cyber Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b09cfda8d232) |
+| Thu, 08 May 2025 22:09:01 GMT | PTA reacts to hacking and social media blockades in India | Asad Ullah | [Read More](https://medium.com/p/4cf71265c3fa) |
 | Thu, 08 May 2025 21:44:35 GMT | How a Smart Guard Patrol System Can Reinvent On-Site Security in 2025 | MQKING | [Read More](https://medium.com/p/f5c34957c8e2) |
 | Thu, 08 May 2025 21:32:13 GMT | $5000 Bounty: Critical Stored XSS | Monika sharma | [Read More](https://medium.com/p/e93c1730eccc) |
 | Thu, 08 May 2025 21:30:34 GMT | TryHackMe Room Write-Up: Hydra | Ahmed Nageeb | [Read More](https://medium.com/p/25aa521f5f54) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 16:20:31 GMT | From Rust to Go: Our Rewrite Cut 50% of Dev Time — and 0% of Bugs | Harsh Vardhan | [Read More](https://medium.com/p/35eec44b12f7) |
 | Thu, 08 May 2025 16:16:15 GMT | The Evolution of AI in Cybersecurity Defense | Fayyaz Rajpari | [Read More](https://medium.com/p/64110d61260f) |
 | Thu, 08 May 2025 16:13:38 GMT | Alarm: Did You Change Your Wi-Fi Password? 86% of Us Never Did! | Dr. Feliks Kravets | [Read More](https://medium.com/p/40e3dbf3285e) |
-| Thu, 08 May 2025 16:09:37 GMT | Why Ex-Teachers Make the Best Employees | Bcourt | [Read More](https://medium.com/p/4e4c9ee76bb1) |
-| Thu, 08 May 2025 16:09:31 GMT | From Sales to Tech: Why I Chose to Start Over | Kanth Raju | [Read More](https://medium.com/p/92c2f6e04d3d) |
-| Thu, 08 May 2025 16:06:27 GMT | Daily dose of Chart : 08 May 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/b6b27e15fc94) |
-| Thu, 08 May 2025 16:06:00 GMT | The Weekly Threat Round-up 05/05/2025 – 08/05/2025 | RileyHv | [Read More](https://medium.com/p/c76335d6a309) |
-| Thu, 08 May 2025 16:02:42 GMT | Phantom Threads in Python: Hijacking Dormant Threads for Stealthy Code Execution on Windows | Maxwell Cross | [Read More](https://medium.com/p/2d9315c24136) |
