@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 10:17:34 GMT | Safe & Sound: Simple Habits That Secure Your Personal Finances | Aceunion | [Read More](https://medium.com/p/68c238f51f6d) |
+| Thu, 08 May 2025 10:16:44 GMT | Cybersecurity Services: Safeguarding Your Business in the Digital Era | Arushi Srivastava | [Read More](https://medium.com/p/bace76aabfb5) |
+| Thu, 08 May 2025 10:06:23 GMT | April hack analysis and overview | Sisi | [Read More](https://medium.com/p/5d92b02bc745) |
+| Thu, 08 May 2025 09:46:06 GMT | Samsung MagicINFO 9 Server RCE Vulnerability: What You Need to Know | Infoziant | [Read More](https://medium.com/p/907604813573) |
+| Thu, 08 May 2025 09:37:18 GMT | Handling Requirements and Data Roles | Igor Berner | [Read More](https://medium.com/p/372e22cfe40d) |
+| Thu, 08 May 2025 09:35:01 GMT | Episode 2: DNS — The Invisible GPS That Hackers Love to Hijack | Vaishnav Gnair | [Read More](https://medium.com/p/cd04d2e1935d) |
+| Thu, 08 May 2025 09:28:11 GMT | Lab 5 — IDA Pro | Sapir Twig | [Read More](https://medium.com/p/a452a19d2af2) |
 | Thu, 08 May 2025 09:27:30 GMT | Meet the Susware Engineer: The True Architect of Bugs | Fanvercel | [Read More](https://medium.com/p/952fb08793b1) |
 | Thu, 08 May 2025 09:27:04 GMT | HTB — Heal Write-up | Nikita Astashenko | [Read More](https://medium.com/p/c8c0e96a6aff) |
 | Thu, 08 May 2025 09:22:36 GMT | The CIO’s Guide to IT Strategy | Mark Bridges | [Read More](https://medium.com/p/c2e86863b067) |
@@ -107,10 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 05:11:45 GMT | Hack Android Device Using Kali Linux & Metasploit (Educational Purpose Only) | Waqas Akram | [Read More](https://medium.com/p/5b8135df4184) |
 | Thu, 08 May 2025 05:08:21 GMT | My Book: IT Career Starter Kit: How to Start, Adapt, In a Dynamic Tech World | Raul Leite | [Read More](https://medium.com/p/6b1f5e0b72c0) |
 | Thu, 08 May 2025 04:58:53 GMT | Telecommunications Cybersecurity: Fortifying the Gateway of National Communication and Stability | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/5b6d000a15bf) |
-| Thu, 08 May 2025 04:58:51 GMT | Teknik Reflective DLL Injection: Cara Kerja dan Implementasi Process Injection | r3N4l_Dy | [Read More](https://medium.com/p/6f0b910f7ba0) |
-| Thu, 08 May 2025 04:58:42 GMT | Financial Systems Cybersecurity: Safeguarding the Invisible Pillars of Economic Sovereignty | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/a64fb55f15ec) |
-| Thu, 08 May 2025 04:58:32 GMT | Water Supply Cybersecurity: Safeguarding a Nation’s Most Vital Resource | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/3b0ca2baa3d8) |
-| Thu, 08 May 2025 04:49:47 GMT | Hack Any System Using Kali Linux & Metasploit (For Educational Purposes Only) | Waqas Akram | [Read More](https://medium.com/p/caefb14bebe5) |
-| Thu, 08 May 2025 04:44:08 GMT | The Cost of Cybercrime Is Skyrocketing -Is Your Business Ready? | R&B Networks | [Read More](https://medium.com/p/c26c6ceb5a2f) |
-| Thu, 08 May 2025 04:42:59 GMT | Bug Hunting in JS Files: Tricks, Tools, and Real-World POCs | Abhijeet Kumawat | [Read More](https://medium.com/p/70406e3eb72e) |
-| Thu, 08 May 2025 04:38:11 GMT | The CEO’s Cyber Wake-Up Call: 7 Alarming Threats That Nearly Crippled Martin’s Company (And What… | Biswajeet Poddar | [Read More](https://medium.com/p/21229af3c07c) |
