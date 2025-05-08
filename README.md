@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 04:44:08 GMT | The Cost of Cybercrime Is Skyrocketing -Is Your Business Ready? | R&B Networks | [Read More](https://medium.com/p/c26c6ceb5a2f) |
+| Thu, 08 May 2025 04:42:59 GMT | Bug Hunting in JS Files: Tricks, Tools, and Real-World POCs | Abhijeet Kumawat | [Read More](https://medium.com/p/70406e3eb72e) |
+| Thu, 08 May 2025 04:35:59 GMT | John THE RIPPER : THE BASICS --TRYHACKME-- CYBERSECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/60d14bdb977a) |
+| Thu, 08 May 2025 04:32:41 GMT | The Courage to Be Seen | Mridu Goyal | [Read More](https://medium.com/p/11747d22734c) |
+| Thu, 08 May 2025 04:32:35 GMT | MITRE ATT&CK Framework walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/c1d7e83db4fa) |
+| Thu, 08 May 2025 04:28:39 GMT | My Beginner Journey — Setting Up an Active Directory Lab for Cybersecurity | Lovepreetsg | [Read More](https://medium.com/p/41d936449735) |
+| Thu, 08 May 2025 04:28:12 GMT | Supercharging API Security Testing: GitHub Copilot + Burp Suite Repeater Workflow | Franco Brevis | [Read More](https://medium.com/p/b1c60dc318e0) |
+| Thu, 08 May 2025 04:25:52 GMT | CTF ID-Networkers 2025 - Write UP | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/78648bf13168) |
 | Thu, 08 May 2025 04:21:18 GMT | to be loved at my lowest too | writingpastime | [Read More](https://medium.com/p/ed1335b19949) |
 | Thu, 08 May 2025 03:50:54 GMT | The VPN Advantage: Stay Private And Secure | James Neal | [Read More](https://medium.com/p/cbb0266aff56) |
 | Thu, 08 May 2025 03:50:18 GMT | Inside the Ransom Room: Analyzing 208 Leaked LockBit Negotiations | Diptendu Kar | [Read More](https://medium.com/p/609de0676240) |
@@ -105,11 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 18:42:03 GMT | Eyes in the Sky: How Companies Can Defend Against Unauthorized Drone Threats” | Mackseemoose-alphasexo | [Read More](https://medium.com/p/616b48879c49) |
 | Wed, 07 May 2025 18:38:07 GMT | A New Journey Begins ✨ | Hussein Alyamnii | [Read More](https://medium.com/p/547c13574d11) |
 | Wed, 07 May 2025 18:30:28 GMT | Meta Wins $167M From Israeli Spyware Firm NSO Over WhatsApp Breach | CoinGen | [Read More](https://medium.com/p/cccbec2461dd) |
-| Wed, 07 May 2025 18:27:22 GMT | The Rising Cyber Threat to Critical Infrastructure: Why the Oil and Gas Sector Must Act Now | Siva Gunasekaran | [Read More](https://medium.com/p/8b390df12516) |
-| Wed, 07 May 2025 18:26:24 GMT | How Data Brokers Power Phishing and How mePrism Stops It | mePrism Privacy | [Read More](https://medium.com/p/43ba627583af) |
-| Wed, 07 May 2025 18:19:48 GMT | Loopholes in School Web Filters | Paul  Cuffe | [Read More](https://medium.com/p/cfd8cc6bbc31) |
-| Wed, 07 May 2025 18:18:31 GMT | IBM Security and Compliance Center wins “Best Security Compliance in Enterprise” at the 2025 Cloud… | Bill Grady | [Read More](https://medium.com/p/8c9095657286) |
-| Wed, 07 May 2025 18:09:32 GMT | DeepSeek R1: What to expect | Sneha Tojo Kanichai | [Read More](https://medium.com/p/65d3296ba115) |
-| Wed, 07 May 2025 17:57:06 GMT | KeePass & Nextcloud — The Last Password You’ll Ever Need to Remember | Tobias Blaser | [Read More](https://medium.com/p/f541f210fe14) |
-| Wed, 07 May 2025 17:57:01 GMT | HoneyBOT Secrets Revealed | Omar Hesham | [Read More](https://medium.com/p/9b79af6d204a) |
-| Wed, 07 May 2025 17:52:58 GMT | Cybersecurity and Quantum Computing with Paul Leongas: A Race Against Time | Paul Leongas | [Read More](https://medium.com/p/64a9c0e19e6d) |
