@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 05:16:36 GMT | The Day I Learned the Power of Vulnerability | John | [Read More](https://medium.com/p/1bba645cc12a) |
+| Thu, 08 May 2025 05:15:18 GMT | $100 Bounty: How a Spoofed Email Could Change Any Username on HackerOne | Monika sharma | [Read More](https://medium.com/p/8efd98ab44f5) |
+| Thu, 08 May 2025 05:14:14 GMT | Installing Android Studio for Android Pentesting in windows | ROHIT SHARMA | [Read More](https://medium.com/p/5bbaa4062957) |
+| Thu, 08 May 2025 05:11:45 GMT | Hack Android Device Using Kali Linux & Metasploit (Educational Purpose Only) | Waqas Akram | [Read More](https://medium.com/p/5b8135df4184) |
+| Thu, 08 May 2025 05:08:21 GMT | My Book: IT Career Starter Kit: How to Start, Adapt, In a Dynamic Tech World | Raul Leite | [Read More](https://medium.com/p/6b1f5e0b72c0) |
+| Thu, 08 May 2025 04:58:53 GMT | Telecommunications Cybersecurity: Fortifying the Gateway of National Communication and Stability | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/5b6d000a15bf) |
+| Thu, 08 May 2025 04:58:51 GMT | Teknik Reflective DLL Injection: Cara Kerja dan Implementasi Process Injection | r3N4l_Dy | [Read More](https://medium.com/p/6f0b910f7ba0) |
+| Thu, 08 May 2025 04:58:42 GMT | Financial Systems Cybersecurity: Safeguarding the Invisible Pillars of Economic Sovereignty | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/a64fb55f15ec) |
+| Thu, 08 May 2025 04:58:32 GMT | Water Supply Cybersecurity: Safeguarding a Nation’s Most Vital Resource | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/3b0ca2baa3d8) |
+| Thu, 08 May 2025 04:49:47 GMT | Hack Any System Using Kali Linux & Metasploit (For Educational Purposes Only) | Waqas Akram | [Read More](https://medium.com/p/caefb14bebe5) |
 | Thu, 08 May 2025 04:44:08 GMT | The Cost of Cybercrime Is Skyrocketing -Is Your Business Ready? | R&B Networks | [Read More](https://medium.com/p/c26c6ceb5a2f) |
 | Thu, 08 May 2025 04:42:59 GMT | Bug Hunting in JS Files: Tricks, Tools, and Real-World POCs | Abhijeet Kumawat | [Read More](https://medium.com/p/70406e3eb72e) |
+| Thu, 08 May 2025 04:38:11 GMT | The CEO’s Cyber Wake-Up Call: 7 Alarming Threats That Nearly Crippled Martin’s Company (And What… | Biswajeet Poddar | [Read More](https://medium.com/p/21229af3c07c) |
 | Thu, 08 May 2025 04:35:59 GMT | John THE RIPPER : THE BASICS --TRYHACKME-- CYBERSECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/60d14bdb977a) |
 | Thu, 08 May 2025 04:32:41 GMT | The Courage to Be Seen | Mridu Goyal | [Read More](https://medium.com/p/11747d22734c) |
 | Thu, 08 May 2025 04:32:35 GMT | MITRE ATT&CK Framework walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/c1d7e83db4fa) |
@@ -102,14 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 19:24:42 GMT | NSO Group Ordered to Pay $168 Million Over WhatsApp Pegasus Spyware Attacks | CyDhaal | [Read More](https://medium.com/p/02858d4da66a) |
 | Wed, 07 May 2025 19:23:43 GMT | Offsec → Slow walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/b1f5e99c4229) |
 | Wed, 07 May 2025 19:20:46 GMT | DAM (Database Activity Monitoring) Nedir? Neden Kurumlar için Hayati Öneme Sahiptir? | Hibdilek | [Read More](https://medium.com/p/9f71626f2781) |
-| Wed, 07 May 2025 19:16:08 GMT | Europol Dismantles Six Major DDoS-for-Hire Platforms in Global Crackdown | CyDhaal | [Read More](https://medium.com/p/30bb35f99af5) |
-| Wed, 07 May 2025 19:11:43 GMT | Floyd’s Tortoise & Hare Cycle Finding Algorithm: Explanation & Proof | Preeti L. | [Read More](https://medium.com/p/bf59befb153a) |
-| Wed, 07 May 2025 19:08:22 GMT | In the Quiet of Us | Heena | [Read More](https://medium.com/p/fc8f1519e46b) |
-| Wed, 07 May 2025 19:04:36 GMT | Flare VM Kurulumu | Aydan | [Read More](https://medium.com/p/3a1a97a6a803) |
-| Wed, 07 May 2025 18:58:16 GMT | Hello, are you in need of hacking services? | Darkvenom | [Read More](https://medium.com/p/8ebb48de588f) |
-| Wed, 07 May 2025 18:57:22 GMT | Web Development in 2025: The Trends Shaping the Digital Landscape | Robert Baer | [Read More](https://medium.com/p/9f63ce4b11b9) |
-| Wed, 07 May 2025 18:51:35 GMT | Why Is Anonymization a Challenge in Cybersecurity? | Shamsul Anam Emon | [Read More](https://medium.com/p/fb8f1e320130) |
-| Wed, 07 May 2025 18:49:26 GMT | Stay Safe in Web3 with NOVA AI | D_DEAN | [Read More](https://medium.com/p/02ca742167f5) |
-| Wed, 07 May 2025 18:42:03 GMT | Eyes in the Sky: How Companies Can Defend Against Unauthorized Drone Threats” | Mackseemoose-alphasexo | [Read More](https://medium.com/p/616b48879c49) |
-| Wed, 07 May 2025 18:38:07 GMT | A New Journey Begins ✨ | Hussein Alyamnii | [Read More](https://medium.com/p/547c13574d11) |
-| Wed, 07 May 2025 18:30:28 GMT | Meta Wins $167M From Israeli Spyware Firm NSO Over WhatsApp Breach | CoinGen | [Read More](https://medium.com/p/cccbec2461dd) |
