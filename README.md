@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 03:09:06 GMT | Shifting Left with Vulnerability Management: Security as Code | Paritosh | [Read More](https://medium.com/p/353c206db2de) |
+| Thu, 08 May 2025 02:59:27 GMT | Securing the Future of Autonomous AI: An In-Depth Look at Meta’s LlamaFirewall | Akshay Nair | [Read More](https://medium.com/p/c6568fbe0eeb) |
+| Thu, 08 May 2025 02:56:49 GMT | XSS Part — 12 : Stored DOM XSS | Ahmad Sopyan | [Read More](https://medium.com/p/431c560cb54d) |
+| Thu, 08 May 2025 02:45:46 GMT | No Auth, No Problem: The API Vulnerability That Led to Full Account Takeover | akr3ch | [Read More](https://medium.com/p/199c6d7e7fa7) |
+| Thu, 08 May 2025 02:32:36 GMT | Day 19: Analyzing DNS Logs — Detection Use Cases and How to Spot Malicious Activity | Bl@ckC!pH3r | [Read More](https://medium.com/p/5171b4068e2f) |
+| Thu, 08 May 2025 02:22:06 GMT | Unlocking the Power of HSM Simulators: A Developer’s Secret Weapon | Swathi Cl | [Read More](https://medium.com/p/2702b3f1e97a) |
+| Thu, 08 May 2025 02:08:23 GMT | The Never-Ending Loop of Healing | Alexandra Prestinary | [Read More](https://medium.com/p/4c1f1761d609) |
+| Thu, 08 May 2025 02:04:43 GMT | After cancer: Between two rooms | Peter Moroney | [Read More](https://medium.com/p/92e269df0b8a) |
+| Thu, 08 May 2025 01:57:17 GMT | What the New York subway tells us about the future of the internet | Diego Obregón | [Read More](https://medium.com/p/1513981de78d) |
+| Thu, 08 May 2025 01:48:11 GMT | hash-only-2 - Writeup | Marvin | [Read More](https://medium.com/p/04869373c955) |
+| Thu, 08 May 2025 01:45:08 GMT | Top 9 Best Ethical Hacking Conferences to Attend in 2025 | Pawan Jaiswal | [Read More](https://medium.com/p/7d20460e6390) |
 | Thu, 08 May 2025 01:25:12 GMT | Wordfence Review And Wordfence Security Plugin Review | Neo Thompson (Tech-Sonar Technologies) | [Read More](https://medium.com/p/15a607db7c42) |
 | Thu, 08 May 2025 01:23:01 GMT | 7 Cara Hacker Menipu Karyawan Anda (Dan Gimana Kita Bisa Menghentikannya) | handev.code | [Read More](https://medium.com/p/5b747e22621f) |
 | Thu, 08 May 2025 01:17:34 GMT | Mobile Cybersecurity for Kids & Teens: Protecting Your Child in 2025In an era where kids and teens… | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/3f300fa9d213) |
@@ -102,14 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 17:34:37 GMT | This 2-Minute Test Reveals If You Fall for Fake News | 1Spot | [Read More](https://medium.com/p/9c87c868e409) |
 | Wed, 07 May 2025 17:21:38 GMT | Vault Proving Ground Walk-Through | Muhammed Aktepe | [Read More](https://medium.com/p/3b5d5152a243) |
 | Wed, 07 May 2025 17:16:41 GMT | Understanding Cybersecurity Tools: A Beginner’s Guide to Safeguarding Your Digital World | Laurianne Apollon | [Read More](https://medium.com/p/b3833b7bd7cb) |
-| Wed, 07 May 2025 17:06:02 GMT | Enterprise Architecture vs. Solution Architecture: A Unique Gist View | Sean Gu | [Read More](https://medium.com/p/45b5b6b257ca) |
-| Wed, 07 May 2025 16:54:04 GMT | Why Managed Detection and Response Is Essential for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/7a27b3905cc7) |
-| Wed, 07 May 2025 16:52:33 GMT | The Intersection of AI and IoMT: Benefits, Threats, and the Future of Healthcare Cybersecurity | Murali Ravi Narayan | [Read More](https://medium.com/p/b85c96775f6b) |
-| Wed, 07 May 2025 16:50:06 GMT | Traffic Plan Issued in Islamabad Amid PSL Team Movements | Nomi | [Read More](https://medium.com/p/4b51587fad71) |
-| Wed, 07 May 2025 16:45:24 GMT | The Growing Threat of Ransomware-as-a-Service (RaaS): How Cybercriminals Are Industrializing… | Murali Ravi Narayan | [Read More](https://medium.com/p/53b660303c61) |
-| Wed, 07 May 2025 16:42:58 GMT | AI is changing everything, and secrets need to keep up | Amber Britton | [Read More](https://medium.com/p/4da9c2f1af1b) |
-| Wed, 07 May 2025 16:42:34 GMT | The Future Is Now: Top AI trends that are redefining 2025 | Ashusingh | [Read More](https://medium.com/p/21daeea39ec5) |
-| Wed, 07 May 2025 16:41:53 GMT | World War III: A Cyber War | Hathi Manan | [Read More](https://medium.com/p/32ecc8ff914d) |
-| Wed, 07 May 2025 16:40:52 GMT | Why Your Business Needs a Patch Management Service Provider | SafeAeon Inc. | [Read More](https://medium.com/p/5c0b73d3aae6) |
-| Wed, 07 May 2025 16:39:31 GMT | The Rise of AI-Powered Cyberattacks: A New Era of Threats | Murali Ravi Narayan | [Read More](https://medium.com/p/5ba6c2d0f4cd) |
-| Wed, 07 May 2025 16:36:30 GMT | Anti-Looter Kit Review | John | [Read More](https://medium.com/p/b4f0d29bc561) |
