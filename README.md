@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 16:21:48 GMT | From the Battlefield to the Boardroom: A Veteran’s Ethical Vision for Servant Leadership in the… | Matthew Magelitz | [Read More](https://medium.com/p/339188958a6e) |
+| Thu, 08 May 2025 16:16:15 GMT | The Evolution of AI in Cybersecurity Defense | Fayyaz Rajpari | [Read More](https://medium.com/p/64110d61260f) |
+| Thu, 08 May 2025 16:13:38 GMT | Alarm: Did You Change Your Wi-Fi Password? 86% of Us Never Did! | Dr. Feliks Kravets | [Read More](https://medium.com/p/40e3dbf3285e) |
+| Thu, 08 May 2025 16:09:37 GMT | Why Ex-Teachers Make the Best Employees | Bcourt | [Read More](https://medium.com/p/4e4c9ee76bb1) |
+| Thu, 08 May 2025 16:09:31 GMT | From Sales to Tech: Why I Chose to Start Over | Kanth Raju | [Read More](https://medium.com/p/92c2f6e04d3d) |
+| Thu, 08 May 2025 16:06:27 GMT | Daily dose of Chart : 08 May 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/b6b27e15fc94) |
+| Thu, 08 May 2025 16:06:00 GMT | The Weekly Threat Round-up 05/05/2025 – 08/05/2025 | RileyHv | [Read More](https://medium.com/p/c76335d6a309) |
+| Thu, 08 May 2025 16:02:42 GMT | Phantom Threads in Python: Hijacking Dormant Threads for Stealthy Code Execution on Windows | Maxwell Cross | [Read More](https://medium.com/p/2d9315c24136) |
+| Thu, 08 May 2025 16:02:08 GMT | Nigeria’s New Police State: How the Rich Bought the Force and Left the Rest to Rot | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/aa12501d27fe) |
+| Thu, 08 May 2025 16:01:40 GMT | Wazuh: The Free SIEM That Fights Like a Paid One | Aditya Bhatt | [Read More](https://medium.com/p/9554ed1272da) |
+| Thu, 08 May 2025 16:00:33 GMT | Stop Contact-Form Spam in React with One File and Zero Dependencies | Maurice Lichtenberg | [Read More](https://medium.com/p/e0b1b95e48a6) |
+| Thu, 08 May 2025 15:57:54 GMT | The Everyday Kubernetes Challenges Nobody Warns You About | Zudonu Osomudeya | [Read More](https://medium.com/p/81f1e9bd6583) |
+| Thu, 08 May 2025 15:57:32 GMT | Qilin Ransomware Surges in April 2025: 45 Breaches Linked to Stealthy NETXLOADER Malware | Jiniyaasma | [Read More](https://medium.com/p/7d7ec74ed527) |
+| Thu, 08 May 2025 15:54:39 GMT | Cyberattacks on Critical Infrastructures Can Be Brutal | Matthew.Rosenquist | [Read More](https://medium.com/p/b3d4f70322f0) |
+| Thu, 08 May 2025 15:50:41 GMT | Internet Security Tips: Why You Need A VPN | James Neal | [Read More](https://medium.com/p/4e470bfd19bf) |
+| Thu, 08 May 2025 15:49:35 GMT | Understanding Cyber Threats: From Malware to DDoS Attacks | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/ecfb881725f8) |
+| Thu, 08 May 2025 15:46:18 GMT | ¿La Ciberseguridad es un Gasto o una Inversión? | Tiziano Mass | [Read More](https://medium.com/p/de93cf936ad9) |
 | Thu, 08 May 2025 15:37:58 GMT | Hacking Heaven | majoki | [Read More](https://medium.com/p/e3c4dcdcc680) |
 | Thu, 08 May 2025 15:37:22 GMT | Why Is My Network 192.168.x.x… but My Virtual Machine Shows 10.x.x.x? | embossdotar | [Read More](https://medium.com/p/cb232e437fca) |
+| Thu, 08 May 2025 15:34:22 GMT | Instantly Claim $CVE: No Gas Fees Required | CVE | [Read More](https://medium.com/p/5dc6385f0ec9) |
 | Thu, 08 May 2025 15:30:33 GMT | 1.0 Identity — The First Pillar of Zero Trust | James Booth | [Read More](https://medium.com/p/918c8af2b338) |
 | Thu, 08 May 2025 15:21:54 GMT | Designing NexusKiosk: A Secure, Minimalist OS for Public Library Terminals | Carnell Hines | [Read More](https://medium.com/p/5961b614b5b8) |
 | Thu, 08 May 2025 15:20:35 GMT | PW Crack 4- PicoCTF Walkthrough- Difficulty- Medium- General Skills | Midhunkrishnan P U | [Read More](https://medium.com/p/bc4ca1611a9a) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 11:15:38 GMT | Gen AI in Malware Creation: How Cybercriminals are Automating Attacks | Taiyab Lokhandwala | [Read More](https://medium.com/p/b122011900bb) |
 | Thu, 08 May 2025 11:14:53 GMT | Which Outdoor Security Camera System Should You Trust? Let’s Find Your Perfect Match! | Senjas | [Read More](https://medium.com/p/2a3f3088394b) |
 | Thu, 08 May 2025 11:13:20 GMT | “Magic Numbers” in the World of Pentesting | David Delgado Déniz | [Read More](https://medium.com/p/e22c6da4a6d6) |
-| Thu, 08 May 2025 11:07:43 GMT | ChainBounty: My Go-To Combo for Snagging Token Claims | BOUNTY | [Read More](https://medium.com/p/aac4c3f228e4) |
-| Thu, 08 May 2025 11:04:26 GMT | The Ultimate Guide to Content Security Policy (CSP) | Shah kaif | [Read More](https://medium.com/p/7b2e3db97bbd) |
-| Thu, 08 May 2025 11:02:55 GMT | REDEFINING MANHOOD: THE IMPORTANCE OF EMOTIONAL INTELLIGENCE AND VULNERABILITY | Fedude Annie | [Read More](https://medium.com/p/04505cd706e4) |
-| Thu, 08 May 2025 11:00:21 GMT | Home Security Cameras Installation in Dallas: Five Things You Must Know Before Hiring | Michableth | [Read More](https://medium.com/p/2968cca92869) |
-| Thu, 08 May 2025 10:57:20 GMT | Best network security firewall in 2025? | Rony Henry | [Read More](https://medium.com/p/5e950e58350c) |
-| Thu, 08 May 2025 10:55:09 GMT | Data Classification Policy | Igor Berner | [Read More](https://medium.com/p/f7bb1ec0b250) |
-| Thu, 08 May 2025 10:49:05 GMT | Complete Guide to Nuclei Vulnerability Scanner | shubham kumar | [Read More](https://medium.com/p/cc67658d30ad) |
-| Thu, 08 May 2025 10:44:55 GMT | How I Found PII on BBP, Open Door to Sensitive PDFs — But Got a Duplicate | Frostynxth | [Read More](https://medium.com/p/643fa0092e36) |
-| Thu, 08 May 2025 10:42:07 GMT | Cyber Alert: Pakistani Hackers का दावा — Indian Defence Websites Hack की गईं! | Hacker news 07 | [Read More](https://medium.com/p/7aad7c44d4c8) |
-| Thu, 08 May 2025 10:41:51 GMT | Which Keyless Entry Is Right for Your Home? | Tap2Live | [Read More](https://medium.com/p/d9647d8b62b9) |
-| Thu, 08 May 2025 10:37:25 GMT | Still I Rise | Brianochiengodhiambo | [Read More](https://medium.com/p/67cd2b50047e) |
-| Thu, 08 May 2025 10:34:23 GMT | Bash Scripting Basics for Linux Mastery Part 5 | Yamini Yadav | [Read More](https://medium.com/p/ce87ac73c22c) |
-| Thu, 08 May 2025 10:31:32 GMT | Top 5 Reasons to Get Certified Ethical Hacking Foundation in 2025 | sneha gaikwad | [Read More](https://medium.com/p/e15ce2d9bde9) |
-| Thu, 08 May 2025 10:31:06 GMT | When Nations Clash, Citizens Become Digital Targets: How Operation Sindoor Exposes Your… | Anuradha Tibile | [Read More](https://medium.com/p/6f99c2d4e375) |
-| Thu, 08 May 2025 10:24:06 GMT | How are you | Usman Naseem | [Read More](https://medium.com/p/88b21dd62ff3) |
-| Thu, 08 May 2025 10:22:27 GMT | How Cyberattacks Impact Businesses: Financial and Operational Risks | NewEvol | [Read More](https://medium.com/p/15b8440aa6cb) |
-| Thu, 08 May 2025 10:21:24 GMT | How I Deleted Any User’s Account— No Interaction Needed | Ehtesham Ul Haq | [Read More](https://medium.com/p/faae0442ff4f) |
-| Thu, 08 May 2025 10:21:19 GMT | Weekend Cyber Security Classes in Hyderabad for Working Professionals | Sanchitamishra | [Read More](https://medium.com/p/6cfdbc852b98) |
