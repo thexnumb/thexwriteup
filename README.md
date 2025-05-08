@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 05:32:45 GMT | ️ Hide Malicious Files in Images Using Steghide (Ethical Hacking Tutorial) | Waqas Akram | [Read More](https://medium.com/p/dbb7b1d6b0d1) |
+| Thu, 08 May 2025 05:32:00 GMT | Deploying Wazuh: Installation and Configuration | CyberRanger Labs | [Read More](https://medium.com/p/7f3f65a50895) |
+| Thu, 08 May 2025 05:27:14 GMT | The Future of Private Security: Human Guards + Technology | Guardian Integrated Security | [Read More](https://medium.com/p/c4cb526efe21) |
+| Thu, 08 May 2025 05:20:26 GMT | Two-Factor Authentication (2FA) is still considered a highly effective security measure when… | Defeu James | [Read More](https://medium.com/p/e89e3a707fd7) |
+| Thu, 08 May 2025 05:20:03 GMT | Over 70% of personal data is likely already on the dark web, hidden from sight. | Defeu James | [Read More](https://medium.com/p/20a96611e204) |
+| Thu, 08 May 2025 05:17:34 GMT | Burp Suite Kya Hai? Hacker Ka Swiss Knife - Tech Explained in Hindi | Decode Duniya | [Read More](https://medium.com/p/ba127ed26352) |
+| Thu, 08 May 2025 05:16:56 GMT | A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This! | Dhanush N | [Read More](https://medium.com/p/a9837f711f6b) |
 | Thu, 08 May 2025 05:16:36 GMT | The Day I Learned the Power of Vulnerability | John | [Read More](https://medium.com/p/1bba645cc12a) |
+| Thu, 08 May 2025 05:15:37 GMT | Tool Review — TraceWeb.io Extension | ne555 | [Read More](https://medium.com/p/5fdf79396e21) |
 | Thu, 08 May 2025 05:15:18 GMT | $100 Bounty: How a Spoofed Email Could Change Any Username on HackerOne | Monika sharma | [Read More](https://medium.com/p/8efd98ab44f5) |
+| Thu, 08 May 2025 05:14:23 GMT | Mastering Linux Part 3: A Beginner’s Guide to APT and YUM Package Management | Yamini Yadav | [Read More](https://medium.com/p/d37742d4f822) |
 | Thu, 08 May 2025 05:14:14 GMT | Installing Android Studio for Android Pentesting in windows | ROHIT SHARMA | [Read More](https://medium.com/p/5bbaa4062957) |
 | Thu, 08 May 2025 05:11:45 GMT | Hack Android Device Using Kali Linux & Metasploit (Educational Purpose Only) | Waqas Akram | [Read More](https://medium.com/p/5b8135df4184) |
 | Thu, 08 May 2025 05:08:21 GMT | My Book: IT Career Starter Kit: How to Start, Adapt, In a Dynamic Tech World | Raul Leite | [Read More](https://medium.com/p/6b1f5e0b72c0) |
@@ -104,12 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 19:54:56 GMT | The Dark Web: How to Use It and What You Will Find | Laura Maldonado | [Read More](https://medium.com/p/0fe5e2df8d5d) |
 | Wed, 07 May 2025 19:46:49 GMT | Offsec →Press Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/9203f82ee925) |
 | Wed, 07 May 2025 19:44:54 GMT | Zero Day in Plain Sight: How PLAY Ransomware Exploited a Windows Logging Vulnerability | Chetan Seripally | [Read More](https://medium.com/p/090f703c1351) |
-| Wed, 07 May 2025 19:39:48 GMT | Rejection, Attraction, and the Quiet Freedom of Acceptance | Harvey Gitonga Kinyua | [Read More](https://medium.com/p/1ca56f221435) |
-| Wed, 07 May 2025 19:39:12 GMT | The Disarmed Defender: A Security Failure on U.S. Military Bases | Brandon Dewater | [Read More](https://medium.com/p/ffa1e30eaaff) |
-| Wed, 07 May 2025 19:36:38 GMT | Building an Enterprise-Grade AWS CI/CD Pipeline with Terraform | Shivanshu Sharma | [Read More](https://medium.com/p/5a2adee1a3ec) |
-| Wed, 07 May 2025 19:36:34 GMT | CAPTCHA Scams: How Phishing Attacks Are Using Fake CAPTCHAs to Trick You | Akshay Chauhan | [Read More](https://medium.com/p/579bafd3d46c) |
-| Wed, 07 May 2025 19:36:07 GMT | Loving without a word. | Nimi | [Read More](https://medium.com/p/a95f9f299520) |
-| Wed, 07 May 2025 19:27:45 GMT | SOC167 — LS Command Detected in Requested URL | CyberSicko | [Read More](https://medium.com/p/45e7daa509ac) |
-| Wed, 07 May 2025 19:24:42 GMT | NSO Group Ordered to Pay $168 Million Over WhatsApp Pegasus Spyware Attacks | CyDhaal | [Read More](https://medium.com/p/02858d4da66a) |
-| Wed, 07 May 2025 19:23:43 GMT | Offsec → Slow walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/b1f5e99c4229) |
-| Wed, 07 May 2025 19:20:46 GMT | DAM (Database Activity Monitoring) Nedir? Neden Kurumlar için Hayati Öneme Sahiptir? | Hibdilek | [Read More](https://medium.com/p/9f71626f2781) |
