@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 23:04:13 GMT | Just Because You Can, Doesn’t Mean You Should: Think Before You Post | Savvy Cyber Kids | [Read More](https://medium.com/p/50ad3d77dcf6) |
+| Thu, 08 May 2025 23:02:18 GMT | AWS IAM Initial Access . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/517e5ce72cb4) |
+| Thu, 08 May 2025 23:00:27 GMT | Common MFA Mistakes and How to Avoid Them | Akshay Chauhan | [Read More](https://medium.com/p/2254903b9790) |
 | Thu, 08 May 2025 22:36:58 GMT | How to Build a Spam Email Classifier | Adedaniel | [Read More](https://medium.com/p/045b94ece4ed) |
+| Thu, 08 May 2025 22:35:56 GMT | Top 5 Wallets for USDT | Jelly Skipper | [Read More](https://medium.com/p/6f2e18b0bcab) |
+| Thu, 08 May 2025 22:31:01 GMT | CHEMISTRY WALKTHROUGH : HACKTHEBOX | rizzziom | [Read More](https://medium.com/p/401b16358037) |
 | Thu, 08 May 2025 22:21:53 GMT | ElectricBreeze-1 — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/126eb7c9988d) |
 | Thu, 08 May 2025 22:16:28 GMT | Why are screens so addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/e077a029dcb5) |
 | Thu, 08 May 2025 22:16:01 GMT | Advanced Persistent Threats (APT): How to Detect and Respond to Sophisticated Cyber Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b09cfda8d232) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 16:30:23 GMT | Design of a Network Vulnerability Scanner: Defining the Scope | Vaibhav Kushwaha | [Read More](https://medium.com/p/69baad5c235f) |
 | Thu, 08 May 2025 16:30:10 GMT | Nocturnal — HackTheBox | Ryan | [Read More](https://medium.com/p/8fec566c5824) |
 | Thu, 08 May 2025 16:25:27 GMT | Have you ever heard of “swatting”? | ɌƋƑ•TECH | [Read More](https://medium.com/p/81303dccb57f) |
-| Thu, 08 May 2025 16:24:34 GMT | How I Passed the Security+ Exam: Study Tips for Tech Learners Balancing Faith, Family, and Focus | Ariel Mcbride | [Read More](https://medium.com/p/ec595aa7cfc1) |
-| Thu, 08 May 2025 16:21:48 GMT | From the Battlefield to the Boardroom: A Veteran’s Ethical Vision for Servant Leadership in the… | Matthew Magelitz | [Read More](https://medium.com/p/339188958a6e) |
-| Thu, 08 May 2025 16:20:31 GMT | From Rust to Go: Our Rewrite Cut 50% of Dev Time — and 0% of Bugs | Harsh Vardhan | [Read More](https://medium.com/p/35eec44b12f7) |
-| Thu, 08 May 2025 16:16:15 GMT | The Evolution of AI in Cybersecurity Defense | Fayyaz Rajpari | [Read More](https://medium.com/p/64110d61260f) |
-| Thu, 08 May 2025 16:13:38 GMT | Alarm: Did You Change Your Wi-Fi Password? 86% of Us Never Did! | Dr. Feliks Kravets | [Read More](https://medium.com/p/40e3dbf3285e) |
