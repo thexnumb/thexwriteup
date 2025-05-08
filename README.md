@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 18:47:43 GMT | Inside the FreeDrain & Inferno Drainer Scams: How Crypto Wallets Are Being Drained via SEO and… | CyDhaal | [Read More](https://medium.com/p/adf7cbeff573) |
+| Thu, 08 May 2025 18:46:55 GMT | A home that is not perfect but worth missing | Mozanaraff | [Read More](https://medium.com/p/df65b2be7aef) |
+| Thu, 08 May 2025 18:39:52 GMT | MuleSoft Rate Limiting — SLA Based Policy | Praveen Reddy | [Read More](https://medium.com/p/6f1e14dab39c) |
+| Thu, 08 May 2025 18:37:18 GMT | Kelly Benefits Data Breach: What 413,000+ Affected Individuals Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/6a62e181ed67) |
+| Thu, 08 May 2025 18:36:39 GMT | Eliminating Unused CSS and JS in WordPress Without Breaking the Site | Shubradeb | [Read More](https://medium.com/p/64c39b8d5b13) |
+| Thu, 08 May 2025 18:33:38 GMT | Maximize Your Crypto Rewards with $CVE | CVE | [Read More](https://medium.com/p/7329f5b4cad7) |
+| Thu, 08 May 2025 18:30:15 GMT | Cybersecurity Job Roles of the Future: What Will Still Exist, Evolve, or Disappear by 2030? | Taimur Ijlal | [Read More](https://medium.com/p/ee5584f6ba9f) |
+| Thu, 08 May 2025 18:29:03 GMT | Getting Your Hair Grey with Sophos ZTNA — Or: How to Survive Configuring Sophos Zero Trust Network… | CyberPumpkin | [Read More](https://medium.com/p/04b069561747) |
+| Thu, 08 May 2025 18:27:21 GMT | Whiterose (CTF) — TryHackMe Writeup | z0diac | [Read More](https://medium.com/p/8c4434fd3e5b) |
+| Thu, 08 May 2025 18:26:46 GMT | From Open Redirect to Full Account Takeover: Exploiting OAuth Misconfiguration | z00x | [Read More](https://medium.com/p/35b0d215cf02) |
+| Thu, 08 May 2025 18:25:39 GMT | Power, Protect, and Connect: Your Digital Advantage Starts Here | Defend My Business | [Read More](https://medium.com/p/64b672bc28a1) |
+| Thu, 08 May 2025 18:24:30 GMT | Les 4 meilleurs camera externes | Schekinaelnm | [Read More](https://medium.com/p/882d0ab623ef) |
+| Thu, 08 May 2025 18:23:21 GMT | Day 1 — Stuxnet: The Cyber Weapon That Broke the Centrifuge | om sonawane | [Read More](https://medium.com/p/7f02b02ac83f) |
+| Thu, 08 May 2025 18:23:10 GMT | What Is SQL Injection? A Beginner’s Guide to One of the Web’s Most Common Vulnerabilities | Nishanthan | [Read More](https://medium.com/p/be0da2a061e3) |
+| Thu, 08 May 2025 18:19:58 GMT | Secure by Design: How to Avoid Costly Infrastructure Access Control Mistakes | Nicholas Thoni | [Read More](https://medium.com/p/7908c9a635b7) |
 | Thu, 08 May 2025 18:17:55 GMT | AWS IAM Enumeration . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/d2a66ffc35ef) |
 | Thu, 08 May 2025 18:13:26 GMT | The Weight of Wanting More: Being Queer, Sensitive, and Misunderstood in an Uncertain World | matthew | [Read More](https://medium.com/p/e60a7d2f0928) |
 | Thu, 08 May 2025 18:09:46 GMT | Once we land on a low-privileged user shell in our Windows target it’s crucial to know what to and… | Evyeveline | [Read More](https://medium.com/p/9bedccf0728c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 14:07:05 GMT | Since 2013, It’s less profitable to sell drugs anymore. | Martin Abramov | [Read More](https://medium.com/p/1a3182c28b5a) |
 | Thu, 08 May 2025 14:04:31 GMT | Cyber Briefing: 2025.05.08 | CyberMaterial | [Read More](https://medium.com/p/8c7565445cc2) |
 | Thu, 08 May 2025 14:02:43 GMT | Prompt Injection: The New SQL Injection — But Smarter, Scarier, and Already Here | Younes Khadraoui, PhD | [Read More](https://medium.com/p/cf07728fecfb) |
-| Thu, 08 May 2025 14:02:42 GMT | How I Prepared for the CISSP Exam: Reflections and Tips | abdeldayemnour | [Read More](https://medium.com/p/8e0ced588274) |
-| Thu, 08 May 2025 14:02:12 GMT | What Is a Non-Custodial Wallet? Why It Matters for Security and Ownership | Paywaz | [Read More](https://medium.com/p/aa8ffef1d662) |
-| Thu, 08 May 2025 14:00:34 GMT | $4,000 Bounty: Exploiting Insecure OAuth Handling and 2FA Bypass in a Mobile Application | Ali Hassan Khan | [Read More](https://medium.com/p/5c9e977e501f) |
-| Thu, 08 May 2025 13:53:58 GMT | Bogon Address — Explained | embossdotar | [Read More](https://medium.com/p/cf73e1dacce5) |
-| Thu, 08 May 2025 13:51:53 GMT | Tell Your Story | Faris Alami | [Read More](https://medium.com/p/779d8e4b12bb) |
-| Thu, 08 May 2025 13:44:12 GMT | Lab 6 — RECOGNIZING C CODE CONSTRUCTS IN ASSEMBLY | Sapir Twig | [Read More](https://medium.com/p/8abe09939a1a) |
-| Thu, 08 May 2025 13:43:53 GMT | Secure iOS Development | Ahmed Hamza | [Read More](https://medium.com/p/b5e9e378c7db) |
-| Thu, 08 May 2025 13:40:25 GMT | BEDR Pre-liminary Audit Report Published | BEDR_Bitcoin EDen Rich | [Read More](https://medium.com/p/7c2b6f09e8c1) |
-| Thu, 08 May 2025 13:35:43 GMT | Italy’s Cybersecurity Crisis: Navigating a Surge in Cyberattacks in 2025 | Atlas Security | [Read More](https://medium.com/p/f514f5e73a8b) |
-| Thu, 08 May 2025 13:32:42 GMT | Adversary Emulation Plans: Adversary Simulation with MITRE ATT&CK | Esra Kayhan | [Read More](https://medium.com/p/b9b3c910fd90) |
-| Thu, 08 May 2025 13:25:00 GMT | Fortify-Open Text SAST Detailed Installation Guide (Windows & Linux) | Kerem | [Read More](https://medium.com/p/9de01f516cc1) |
-| Thu, 08 May 2025 13:21:27 GMT | Five MCP Risks You Don’t Want in Production | AI Rabbit | [Read More](https://medium.com/p/b2e9805f4b16) |
-| Thu, 08 May 2025 13:20:56 GMT | Corporate Greed Chronicles: Cloud Outages to Job Outages, Crowdstrike Laying Off 5% | Namir Sagheenanajar | [Read More](https://medium.com/p/3c4079b4ee7f) |
-| Thu, 08 May 2025 13:17:38 GMT | THM: Ledger | Persecure | [Read More](https://medium.com/p/cfb3e3619bf2) |
-| Thu, 08 May 2025 13:10:00 GMT | Securycor Ltd: Your Trusted Partner for Professional Security Services | Travel time | [Read More](https://medium.com/p/3d091c494df4) |
