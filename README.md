@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 14:36:38 GMT | Cost-Effective S3 Cross-Region Replication with Single-AZ Storage on AWS | Isaac Ntumpi | [Read More](https://medium.com/p/0fdebe69f8b4) |
+| Thu, 08 May 2025 14:33:35 GMT | Building a Flipper Zero Ethernet Adapter for Red Team Recon | josegpac | [Read More](https://medium.com/p/494ef206ea93) |
+| Thu, 08 May 2025 14:32:45 GMT | What Is Ethical Hacking? When Breaking the Rules Makes You Safer | Alex Hughes | [Read More](https://medium.com/p/ee170833e5a1) |
+| Thu, 08 May 2025 14:31:24 GMT | One day I stopped waiting to be asked | Poppy Sindral | [Read More](https://medium.com/p/bc7184f46059) |
+| Thu, 08 May 2025 14:31:04 GMT | Play Ransomware Exploits Windows Zero-Day (CVE-2025–29824) to Breach U.S. | Jiniyaasma | [Read More](https://medium.com/p/09fae5f6a9cd) |
+| Thu, 08 May 2025 14:27:39 GMT | DDoS Attack Detector: Real-Time IP Monitoring & Visualization Tool | indrajith | [Read More](https://medium.com/p/8058d4c401f6) |
+| Thu, 08 May 2025 14:25:17 GMT | How to implement Secure Pipeline only with open-source tools | Vernieri | [Read More](https://medium.com/p/b658f3fcc6c6) |
+| Thu, 08 May 2025 14:21:32 GMT | Sapphire Ticket Attack: Understanding Kerberos Ticket Forgery Risks ️️ | 0b1d1 | [Read More](https://medium.com/p/3dcf8f5d244c) |
+| Thu, 08 May 2025 14:16:57 GMT | Setting Up a Secure Wi-Fi Network at Home | Tech Made Simple By NTi | [Read More](https://medium.com/p/beef871f44bb) |
 | Thu, 08 May 2025 14:14:28 GMT | Prompt injection against LLMs .. what about it? | Adham Hashem | [Read More](https://medium.com/p/1230b99bc1ba) |
 | Thu, 08 May 2025 14:13:16 GMT | Zero Trust Architecture: A Necessity in Modern IT Security | ITBizTeK | [Read More](https://medium.com/p/25a8ae6dad4b) |
 | Thu, 08 May 2025 14:08:30 GMT | How Can Hackers Hack Your Phone? Understanding the Threats in 2025 | Phone Hackers | [Read More](https://medium.com/p/91641de9a84c) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 09:22:30 GMT | 智能合约漏洞：区块链世界的隐秘威胁 | Mckayla Chartrand | [Read More](https://medium.com/p/d53a3dd495cb) |
 | Thu, 08 May 2025 09:20:27 GMT | Does ChatGPT Use My Personal Data for Training? | Nelover | [Read More](https://medium.com/p/79ed2bd04fbe) |
 | Thu, 08 May 2025 09:11:56 GMT | Pentesting Fundamentals - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8ea030a37a82) |
-| Thu, 08 May 2025 09:07:21 GMT | Golden Chickens Are Back: TerraStealerV2 is Hunting Your Crypto and Chrome Logins | TechBrain | [Read More](https://medium.com/p/7ce191243af1) |
-| Thu, 08 May 2025 09:06:50 GMT | Vulnerability Scan for Your Project | Mahdi Mallaki | [Read More](https://medium.com/p/ef911119cc56) |
-| Thu, 08 May 2025 09:05:37 GMT | Emotionally Invincible | Madi | [Read More](https://medium.com/p/9e33b8643334) |
-| Thu, 08 May 2025 09:03:17 GMT | A Dengerous CyberAttack Type : Supply-Chain Attack | Rohit Maity | [Read More](https://medium.com/p/e992bbb3cf79) |
-| Thu, 08 May 2025 09:01:15 GMT | Before the Firewall: EDSPL’s Visionary Approach to Cyber Defense | saurabh cyberinfomines | [Read More](https://medium.com/p/f308131c162e) |
-| Thu, 08 May 2025 08:59:58 GMT | The Power of Information in the Age of AI
-AI 시대, 정보를 다루는 힘 | linglingling3 | [Read More](https://medium.com/p/d38442ec5a62) |
-| Thu, 08 May 2025 08:59:49 GMT | WebSocket mi, REST mi? Gerçek Zamanlı Veri İletimi İçin Doğru Seçim Ne? | ELİF KİŞİ | [Read More](https://medium.com/p/3dfab6d404f5) |
-| Thu, 08 May 2025 08:54:29 GMT | Prevent Unrestricted File Upload in Symfony Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/d25406df104e) |
-| Thu, 08 May 2025 08:51:26 GMT | ‍ “When ICS meets APT — the past has clues, the future has targets.” | om sonawane | [Read More](https://medium.com/p/f4de796afb3b) |
