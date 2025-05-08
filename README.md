@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 12:30:32 GMT | CVE-2024–6648: Mi primer CVE | n0d0n | [Read More](https://medium.com/p/3c945bfbcb2f) |
+| Thu, 08 May 2025 12:26:40 GMT | NIST AI 100–1: Sect. 5 Core Functions and 5.1 Governance | David Scott | [Read More](https://medium.com/p/a1b8b80e4250) |
+| Thu, 08 May 2025 12:25:33 GMT | Level Up Your Security Posture: Why VAPT is Crucial in the Age of Cloud and Ransomware | West Advanced Technologies Inc | [Read More](https://medium.com/p/fade6c3b0243) |
+| Thu, 08 May 2025 12:20:27 GMT | Building a Secure Infrastructure with Docker, Endian Firewall, and Linux VMs from Scratch-Part3… | Firas Meddeb | [Read More](https://medium.com/p/8b4f6725da48) |
+| Thu, 08 May 2025 12:16:19 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/7eace6c50147) |
+| Thu, 08 May 2025 12:11:06 GMT | Double Trouble for Hackers: Why 2FA is Your Best Mate | Alasdair Roddick | [Read More](https://medium.com/p/3d16a507469d) |
+| Thu, 08 May 2025 12:05:52 GMT | Hire Licensed Event Security Staff in London for a Safe and Successful Summer | waeventservices.co.uk/ | [Read More](https://medium.com/p/cd90bddeab64) |
+| Thu, 08 May 2025 12:04:00 GMT | AI in Cybersecurity and CEH: A New Era of Intelligent Digital Defense | cyberwingITSolution | [Read More](https://medium.com/p/193d207422d0) |
+| Thu, 08 May 2025 12:03:06 GMT | Step-by-Step Guide to Claim $RECON | RECON | [Read More](https://medium.com/p/ecb4f79d4f6b) |
+| Thu, 08 May 2025 12:01:08 GMT | The Future of U.S. Application Security and What Businesses Must Do Now | Vijay Mishra | [Read More](https://medium.com/p/838f979ab16a) |
+| Thu, 08 May 2025 12:00:40 GMT | EVEN RSA CAN BE BROKEN??? | Ibnu Ilham | [Read More](https://medium.com/p/348c8455db50) |
+| Thu, 08 May 2025 12:00:16 GMT | $700 Bounty from a 2-Year-Old Secret — Found with iScan.today | Arshad Kazmi | [Read More](https://medium.com/p/87fb07eb5f53) |
+| Thu, 08 May 2025 11:56:51 GMT | AWS CloudWatch alarms routing to Mattermost using Lambda | CloudifyOps | [Read More](https://medium.com/p/9974b082674a) |
+| Thu, 08 May 2025 11:51:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/86d3473d2517) |
+| Thu, 08 May 2025 11:45:46 GMT | Smol | Ajay Chhillar | [Read More](https://medium.com/p/b68b736ad907) |
+| Thu, 08 May 2025 11:45:45 GMT | AI Can Hack Your App in Seconds. Here Is What You Can Do | Sergey Egorenkov | [Read More](https://medium.com/p/21fa2fd23694) |
+| Thu, 08 May 2025 11:45:37 GMT | How to Secure Data Privacy and Stop Breaches | SecureSlate | [Read More](https://medium.com/p/e7a30f45974e) |
+| Thu, 08 May 2025 11:41:08 GMT | "Mastering the Modern Hustle: Build Wealth, Grow Your Career, and Elevate Your Life" | Pavan | [Read More](https://medium.com/p/91274612bcb1) |
+| Thu, 08 May 2025 11:40:10 GMT | ️ The Role of Nation-State Hackers in Modern Warfare: Cyber Battles Beyond Borders | HFNRL | [Read More](https://medium.com/p/79d4ec0dac43) |
+| Thu, 08 May 2025 11:38:09 GMT | VIP Protection: More Than Just a Bodyguard | Group 24/7 Security Services | [Read More](https://medium.com/p/81ece036da8f) |
 | Thu, 08 May 2025 11:31:46 GMT | Why is My Vite Env Variable undefined? Here's the Simple Fix. | Koushik | [Read More](https://medium.com/p/0da4623554b2) |
 | Thu, 08 May 2025 11:26:52 GMT | Security Tools Alone Don’t Protect You — Human Factors and Strategic Planning Matter Most | CyBlog | [Read More](https://medium.com/p/35c704985d1a) |
 | Thu, 08 May 2025 11:25:26 GMT | Importance of Technology on the Internet | David Mark | [Read More](https://medium.com/p/bbda10c906a4) |
@@ -94,23 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 07:21:40 GMT | How to share sensitive information securely with your friends without any third party tool | Jiahao Ji Zhou | [Read More](https://medium.com/p/8fb25fcdce4f) |
 | Thu, 08 May 2025 07:16:25 GMT | Top 5 money making AI tools (2025). | Rishav anand | [Read More](https://medium.com/p/fc3989a3768b) |
 | Thu, 08 May 2025 07:16:03 GMT | Secure Email Gateway: Essential Protection for Business Communications | Ayush | [Read More](https://medium.com/p/98580438a68a) |
-| Thu, 08 May 2025 07:15:46 GMT | From Zero to Recon: Your First ASN-Based Scanning Workflow | Saumadip Mandal | [Read More](https://medium.com/p/b08c88709410) |
-| Thu, 08 May 2025 07:08:25 GMT | UK infrastructure under siege: Holy league hacktivist coalition targets critical systems | hide.me VPN | [Read More](https://medium.com/p/5172302fe442) |
-| Thu, 08 May 2025 07:07:40 GMT | AI vs. AI: Inside the Emerging Cybersecurity Arms Race | Les Ottolenghi | [Read More](https://medium.com/p/132b80180f17) |
-| Thu, 08 May 2025 07:05:06 GMT | Leadership change at NSA sparks cybersecurity concerns | hide.me VPN | [Read More](https://medium.com/p/9a5606e28cbd) |
-| Thu, 08 May 2025 07:04:03 GMT | Primeros pasos en BloodHound | Security Layer | [Read More](https://medium.com/p/1a3bd1b77f8c) |
-| Thu, 08 May 2025 07:02:43 GMT | Top Third-Party Apps Targeted by Cyberattacks (And Why They Must Be Patched) | Easy2Patch | [Read More](https://medium.com/p/07f4e3bd7005) |
-| Thu, 08 May 2025 07:00:24 GMT | Top Soft Skills That Employers Will Look for in 2025 | Prism HRC | [Read More](https://medium.com/p/37ed6f1703fd) |
-| Thu, 08 May 2025 06:57:14 GMT | Cybersecurity Certifications Aren’t Enough Anymore. Here’s Why | Amarandhar Reddy Kotha | [Read More](https://medium.com/p/0e3c0e993011) |
-| Thu, 08 May 2025 06:52:46 GMT | TwistScan — detection of malicious domains using dnstwist permutations and urlscan.io analysis | Marco Pedrinazzi | [Read More](https://medium.com/p/e9a9f4876af0) |
-| Thu, 08 May 2025 06:48:51 GMT | How to Manage Cryptographic Keys to Prevent Security Failures | SignMyCode | [Read More](https://medium.com/p/d48051a88406) |
-| Thu, 08 May 2025 06:47:08 GMT | Harness the Power of Microsoft Database Software | Audit Mania | [Read More](https://medium.com/p/a362ce600001) |
-| Thu, 08 May 2025 06:47:07 GMT | The Ultimate Guide to Cyber Attack Types: Classification & Techniques Explained | Charith Aloka | [Read More](https://medium.com/p/a1cdeabecfc9) |
-| Thu, 08 May 2025 06:40:21 GMT | 100 Must-Know CMD Commands for Cybersecurity | Bl@ckC!pH3r | [Read More](https://medium.com/p/e0094a715dd7) |
-| Thu, 08 May 2025 06:36:36 GMT | How to Optimize WordPress for Mobile Speed in 2025 | Shubradeb | [Read More](https://medium.com/p/c35289fec9b1) |
-| Thu, 08 May 2025 06:30:47 GMT | How To Download & Install Tor Browser in Windows | Mwenda Kelvin | [Read More](https://medium.com/p/6158ab7dc115) |
-| Thu, 08 May 2025 06:30:39 GMT | Read These or Risk It: Cybersecurity Must-Reads | Ahmad Javed | [Read More](https://medium.com/p/d52cb466c2c2) |
-| Thu, 08 May 2025 06:23:11 GMT | Top Firewall Software for 2025 (Top Firewall Review 2025) | Rony Henry | [Read More](https://medium.com/p/9a718214cfc8) |
-| Thu, 08 May 2025 06:21:13 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 3: Imports | Infralovers GmbH | [Read More](https://medium.com/p/430a8b444c27) |
-| Thu, 08 May 2025 06:21:01 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 2: Data Sources | Infralovers GmbH | [Read More](https://medium.com/p/948a692946ad) |
-| Thu, 08 May 2025 06:20:43 GMT | Future-Proofing Your Compliance: Strategic Insights with Mondoo and Terraform | Infralovers GmbH | [Read More](https://medium.com/p/388548979903) |
