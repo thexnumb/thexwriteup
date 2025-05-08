@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 11:31:46 GMT | Why is My Vite Env Variable undefined? Here's the Simple Fix. | Koushik | [Read More](https://medium.com/p/0da4623554b2) |
+| Thu, 08 May 2025 11:26:52 GMT | Security Tools Alone Don’t Protect You — Human Factors and Strategic Planning Matter Most | CyBlog | [Read More](https://medium.com/p/35c704985d1a) |
+| Thu, 08 May 2025 11:25:26 GMT | Importance of Technology on the Internet | David Mark | [Read More](https://medium.com/p/bbda10c906a4) |
+| Thu, 08 May 2025 11:23:41 GMT | This Unthinkable Cyberattack Left a Coffee Shop in Ruins — Here’s What You Need to Know | Noel | [Read More](https://medium.com/p/f3b215d2f2ab) |
+| Thu, 08 May 2025 11:22:33 GMT | Get Your Tokens: Claim $BUG for Bug Now | BUG | [Read More](https://medium.com/p/b83a1ddfeef1) |
 | Thu, 08 May 2025 11:15:49 GMT | SIEM Migration Trends | Apto Solutions | [Read More](https://medium.com/p/900578db3f79) |
+| Thu, 08 May 2025 11:15:38 GMT | Gen AI in Malware Creation: How Cybercriminals are Automating Attacks | Taiyab Lokhandwala | [Read More](https://medium.com/p/b122011900bb) |
 | Thu, 08 May 2025 11:14:53 GMT | Which Outdoor Security Camera System Should You Trust? Let’s Find Your Perfect Match! | Senjas | [Read More](https://medium.com/p/2a3f3088394b) |
 | Thu, 08 May 2025 11:13:20 GMT | “Magic Numbers” in the World of Pentesting | David Delgado Déniz | [Read More](https://medium.com/p/e22c6da4a6d6) |
+| Thu, 08 May 2025 11:07:43 GMT | ChainBounty: My Go-To Combo for Snagging Token Claims | BOUNTY | [Read More](https://medium.com/p/aac4c3f228e4) |
 | Thu, 08 May 2025 11:04:26 GMT | The Ultimate Guide to Content Security Policy (CSP) | Shah kaif | [Read More](https://medium.com/p/7b2e3db97bbd) |
 | Thu, 08 May 2025 11:02:55 GMT | REDEFINING MANHOOD: THE IMPORTANCE OF EMOTIONAL INTELLIGENCE AND VULNERABILITY | Fedude Annie | [Read More](https://medium.com/p/04505cd706e4) |
 | Thu, 08 May 2025 11:00:21 GMT | Home Security Cameras Installation in Dallas: Five Things You Must Know Before Hiring | Michableth | [Read More](https://medium.com/p/2968cca92869) |
@@ -107,10 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 06:21:13 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 3: Imports | Infralovers GmbH | [Read More](https://medium.com/p/430a8b444c27) |
 | Thu, 08 May 2025 06:21:01 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 2: Data Sources | Infralovers GmbH | [Read More](https://medium.com/p/948a692946ad) |
 | Thu, 08 May 2025 06:20:43 GMT | Future-Proofing Your Compliance: Strategic Insights with Mondoo and Terraform | Infralovers GmbH | [Read More](https://medium.com/p/388548979903) |
-| Thu, 08 May 2025 06:11:27 GMT | Understanding Threat Actors, Motivations, and Attack Vectors with real life examples | unica 02 | [Read More](https://medium.com/p/02285cace1c1) |
-| Thu, 08 May 2025 06:10:56 GMT | The Future of Cybersecurity Is Predictive — And It’s Already Here | Les Ottolenghi | [Read More](https://medium.com/p/f34c03659bd0) |
-| Thu, 08 May 2025 06:09:45 GMT | How I Cleared eJPTv2 & Got My First Cybersecurity Certification | Sayyam Saboo | [Read More](https://medium.com/p/05b8b5525edd) |
-| Thu, 08 May 2025 06:09:00 GMT | Why Construction Sites in Mumbai Need 24/7 Security | United Guard Force India | [Read More](https://medium.com/p/4a3410707b2b) |
-| Thu, 08 May 2025 06:05:54 GMT | What is Automated Incident Response? | InfosecTrain | [Read More](https://medium.com/p/f87222274817) |
-| Thu, 08 May 2025 06:05:29 GMT | What Makes a Security Guard Truly Reliable? | United Guard Force India | [Read More](https://medium.com/p/556d5b846536) |
-| Thu, 08 May 2025 06:02:34 GMT | Retail Security in Mumbai: Stop Theft & Shoplifting | United Guard Force India | [Read More](https://medium.com/p/c7e819137c8c) |
