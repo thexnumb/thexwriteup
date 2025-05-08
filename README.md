@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 17:24:05 GMT | Legal problems of Information Technologies and what to know as a professional | Brugosofi | [Read More](https://medium.com/p/400ed5ad4c10) |
+| Thu, 08 May 2025 17:15:32 GMT | Navigating the Jurisprudential Quagmire of Encryption Policy in the Aftermath of the 2025 U.S. | Lokakreeti Neog | [Read More](https://medium.com/p/9c1728596f8e) |
+| Thu, 08 May 2025 17:14:54 GMT | Remote Work Security: Best Practices for Distributed Teams | Ahmad Javed | [Read More](https://medium.com/p/6b44ddef0cd5) |
+| Thu, 08 May 2025 17:13:43 GMT | The Rise of AI-Powered Ransomware: A New Era in Cybersecurity Threats | Raed Ahsan | [Read More](https://medium.com/p/5f287debd582) |
 | Thu, 08 May 2025 17:07:21 GMT | How to Secure Your Containerized Workloads with Free SSL Certificates from Let’s Encrypt | Omkar Sathe | [Read More](https://medium.com/p/6760a21ffabf) |
 | Thu, 08 May 2025 17:06:15 GMT | Linux File System Hierarchy Explained: A Beginner-to-Advanced Guide with Examples | YoungerSibling | [Read More](https://medium.com/p/ddcd04510246) |
+| Thu, 08 May 2025 17:04:44 GMT | AWS Mastery: Zero To Hero | Shivam Thakur | [Read More](https://medium.com/p/6816b1b0e9f8) |
 | Thu, 08 May 2025 16:57:42 GMT | iCostamp: Top 5 Must-Know Facts About Blockchain Timestamping! Secure & Verify Data Like a Pro! | USA BIZZ NETWORK | [Read More](https://medium.com/p/d3345fdf90f5) |
 | Thu, 08 May 2025 16:55:39 GMT | Your business never sleeps — and neither do we. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c7717636f968) |
 | Thu, 08 May 2025 16:53:42 GMT | Exposing Shadow APIs: The Hidden Attack Surface in Modern Web Apps | tezp | [Read More](https://medium.com/p/6fd1af0ec4e9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 12:16:19 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/7eace6c50147) |
 | Thu, 08 May 2025 12:11:06 GMT | Double Trouble for Hackers: Why 2FA is Your Best Mate | Alasdair Roddick | [Read More](https://medium.com/p/3d16a507469d) |
 | Thu, 08 May 2025 12:05:52 GMT | Hire Licensed Event Security Staff in London for a Safe and Successful Summer | waeventservices.co.uk/ | [Read More](https://medium.com/p/cd90bddeab64) |
-| Thu, 08 May 2025 12:04:00 GMT | AI in Cybersecurity and CEH: A New Era of Intelligent Digital Defense | cyberwingITSolution | [Read More](https://medium.com/p/193d207422d0) |
-| Thu, 08 May 2025 12:03:06 GMT | Step-by-Step Guide to Claim $RECON | RECON | [Read More](https://medium.com/p/ecb4f79d4f6b) |
-| Thu, 08 May 2025 12:01:08 GMT | The Future of U.S. Application Security and What Businesses Must Do Now | Vijay Mishra | [Read More](https://medium.com/p/838f979ab16a) |
-| Thu, 08 May 2025 12:00:40 GMT | EVEN RSA CAN BE BROKEN??? | Ibnu Ilham | [Read More](https://medium.com/p/348c8455db50) |
-| Thu, 08 May 2025 12:00:16 GMT | $700 Bounty from a 2-Year-Old Secret — Found with iScan.today | Arshad Kazmi | [Read More](https://medium.com/p/87fb07eb5f53) |
