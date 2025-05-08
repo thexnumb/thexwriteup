@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 01:25:12 GMT | Wordfence Review And Wordfence Security Plugin Review | Neo Thompson (Tech-Sonar Technologies) | [Read More](https://medium.com/p/15a607db7c42) |
+| Thu, 08 May 2025 01:23:01 GMT | 7 Cara Hacker Menipu Karyawan Anda (Dan Gimana Kita Bisa Menghentikannya) | handev.code | [Read More](https://medium.com/p/5b747e22621f) |
+| Thu, 08 May 2025 01:17:34 GMT | Mobile Cybersecurity for Kids & Teens: Protecting Your Child in 2025In an era where kids and teens… | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/3f300fa9d213) |
+| Thu, 08 May 2025 01:04:47 GMT | Hack The Box Academy — Network Foundations — Network Security | bl77rd | [Read More](https://medium.com/p/ce058e102a6e) |
+| Thu, 08 May 2025 00:59:53 GMT | CVST: Scan Multiple Container Images with Trivy for HTML & CSV Vulnerability Reports | Amr Omran | [Read More](https://medium.com/p/0188152a5f3b) |
+| Thu, 08 May 2025 00:57:07 GMT | Cybersecurity FAQs | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/333c4d273093) |
+| Thu, 08 May 2025 00:41:10 GMT | Cybersecurity for Freelancers: Protecting Your Remote Work and Digital Assets | ‌‌‌‌‌‌‌‌‌ | [Read More](https://medium.com/p/64daaf7ec9af) |
+| Thu, 08 May 2025 00:40:48 GMT | Security Mechanisms were disabled… by who? | Tobiasacastleberry | [Read More](https://medium.com/p/147c72d00692) |
+| Thu, 08 May 2025 00:37:33 GMT | Online investigation toolkit for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/610fb263846b) |
+| Thu, 08 May 2025 00:26:59 GMT | The Luddites Guide To Love… Or Operational Security For Online Dating. | Seccult | [Read More](https://medium.com/p/acc959ef640e) |
+| Thu, 08 May 2025 00:22:36 GMT | Your Face Value(d) By AI | Sasi Chandru | [Read More](https://medium.com/p/3926b0538a13) |
+| Thu, 08 May 2025 00:11:09 GMT | Lab Rats: 6 Essential Tools For Your RF Hacking Lab | Investigator515 | [Read More](https://medium.com/p/0165e377636d) |
+| Thu, 08 May 2025 00:02:36 GMT | Nmap Guide — Port Scanning is Just the Beginning | JPablo13 | [Read More](https://medium.com/p/0d60ebba5987) |
+| Wed, 07 May 2025 23:47:23 GMT | 100K+ WordPress Sites at Risk: OttoKit Plugin Under Active Attack | Cyber-AppSec | [Read More](https://medium.com/p/b793887e3a21) |
+| Wed, 07 May 2025 23:38:25 GMT | A (not so) Unexpected Journey: Building My First Home Lab | Chris C. | [Read More](https://medium.com/p/48b0253b32ed) |
 | Wed, 07 May 2025 23:27:43 GMT | HOW TO CRACK WIFI PASSWORDS USING AIRGEDDON ON LINUX SYSTEM | Reuben Odoma | [Read More](https://medium.com/p/43609768df9b) |
 | Wed, 07 May 2025 23:22:53 GMT | Protecting Your Nudes: A Guide to Digital Intimacy and Privacy in the Age of Surveillance | BiyteLüm | [Read More](https://medium.com/p/6aa8e7600e32) |
 | Wed, 07 May 2025 23:20:30 GMT | Pentesting Fundamentals — TryHackMe Room Walkthrough | Ahmed Nageeb | [Read More](https://medium.com/p/15dd07058c9f) |
@@ -98,18 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 16:40:52 GMT | Why Your Business Needs a Patch Management Service Provider | SafeAeon Inc. | [Read More](https://medium.com/p/5c0b73d3aae6) |
 | Wed, 07 May 2025 16:39:31 GMT | The Rise of AI-Powered Cyberattacks: A New Era of Threats | Murali Ravi Narayan | [Read More](https://medium.com/p/5ba6c2d0f4cd) |
 | Wed, 07 May 2025 16:36:30 GMT | Anti-Looter Kit Review | John | [Read More](https://medium.com/p/b4f0d29bc561) |
-| Wed, 07 May 2025 16:33:44 GMT | HACK-ERA CTF — Phase 1 Walkthrough | Rajneesh Kumar Arya | [Read More](https://medium.com/p/63b3316e86c7) |
-| Wed, 07 May 2025 16:30:10 GMT | SOC123 — EventID 56— Enumeration Tool Detected | Mateo Pappa | [Read More](https://medium.com/p/5f79522d9716) |
-| Wed, 07 May 2025 16:21:11 GMT | Classification vs. Categorization & Marking vs. Labeling | Igor Berner | [Read More](https://medium.com/p/844dd9d6371a) |
-| Wed, 07 May 2025 16:17:55 GMT | Borders Are Physical. Identity Shouldn’t Be. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4354f9f1dba3) |
-| Wed, 07 May 2025 16:14:58 GMT | Don’t Get “Fix”ed | Eina Schroeder | [Read More](https://medium.com/p/b14245714bd6) |
-| Wed, 07 May 2025 16:08:37 GMT | Data Exfiltration - Tips - Consult Hacker | BlackHat | [Read More](https://medium.com/p/0765967d29f0) |
-| Wed, 07 May 2025 16:03:28 GMT | Fog Ransomware: The Full Breakdown | Loginsoft | [Read More](https://medium.com/p/b77437838d60) |
-| Wed, 07 May 2025 16:03:25 GMT | Code Snippets and How To on GitHub | Teri Radichel | [Read More](https://medium.com/p/9b81be036271) |
-| Wed, 07 May 2025 16:02:37 GMT | Threadless Code Injection: Abusing Windows Fibers for Stealthy In-Memory Execution | Maxwell Cross | [Read More](https://medium.com/p/954abcb106ae) |
-| Wed, 07 May 2025 16:02:18 GMT | Can AI Protect You from Scams? The Hidden Truth About Fraudulent Messages | Maha Althobaiti | [Read More](https://medium.com/p/426f429cbcf6) |
-| Wed, 07 May 2025 16:01:44 GMT | Your Ultimate Guide to Receiving Curvance $CVE Tokens | CVE | [Read More](https://medium.com/p/76ab0380ced0) |
-| Wed, 07 May 2025 15:51:00 GMT | VPN Tips For Maximizing Internet Security | James Neal | [Read More](https://medium.com/p/a1072e3f1cb9) |
-| Wed, 07 May 2025 15:50:17 GMT | I Tried Microsoft Security Copilot — and It’s a Game-Changer for Cybersecurity | LazyHacker | [Read More](https://medium.com/p/e3a1da4af6ba) |
-| Wed, 07 May 2025 15:46:58 GMT | Dependency Confusion: Critical Security Risks of Using Internal Repositories | Dmitry Protsenko | [Read More](https://medium.com/p/576e0f912e4e) |
-| Wed, 07 May 2025 15:46:01 GMT | Leading-Edge VPN Features For Every User | Melvin Erickson | [Read More](https://medium.com/p/04d52a2eff28) |
