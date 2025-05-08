@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 09:27:30 GMT | Meet the Susware Engineer: The True Architect of Bugs | Fanvercel | [Read More](https://medium.com/p/952fb08793b1) |
+| Thu, 08 May 2025 09:27:04 GMT | HTB — Heal Write-up | Nikita Astashenko | [Read More](https://medium.com/p/c8c0e96a6aff) |
+| Thu, 08 May 2025 09:22:36 GMT | The CIO’s Guide to IT Strategy | Mark Bridges | [Read More](https://medium.com/p/c2e86863b067) |
 | Thu, 08 May 2025 09:20:27 GMT | Does ChatGPT Use My Personal Data for Training? | Nelover | [Read More](https://medium.com/p/79ed2bd04fbe) |
 | Thu, 08 May 2025 09:11:56 GMT | Pentesting Fundamentals - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8ea030a37a82) |
 | Thu, 08 May 2025 09:07:21 GMT | Golden Chickens Are Back: TerraStealerV2 is Hunting Your Crypto and Chrome Logins | TechBrain | [Read More](https://medium.com/p/7ce191243af1) |
@@ -90,6 +93,7 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 05:48:53 GMT | Palo Alto Networks Prisma Cloud Workload Protection: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/36af4d93551c) |
 | Thu, 08 May 2025 05:32:45 GMT | ️ Hide Malicious Files in Images Using Steghide (Ethical Hacking Tutorial) | Waqas Akram | [Read More](https://medium.com/p/dbb7b1d6b0d1) |
 | Thu, 08 May 2025 05:32:00 GMT | Deploying Wazuh: Installation and Configuration | CyberRanger Labs | [Read More](https://medium.com/p/7f3f65a50895) |
+| Thu, 08 May 2025 05:29:52 GMT | HTB ORBITAL SOURCE CODE SECURITY REVIEW | theerachai.ch | [Read More](https://medium.com/p/5027b295761f) |
 | Thu, 08 May 2025 05:27:14 GMT | The Future of Private Security: Human Guards + Technology | Guardian Integrated Security | [Read More](https://medium.com/p/c4cb526efe21) |
 | Thu, 08 May 2025 05:20:26 GMT | Two-Factor Authentication (2FA) is still considered a highly effective security measure when… | Defeu James | [Read More](https://medium.com/p/e89e3a707fd7) |
 | Thu, 08 May 2025 05:20:03 GMT | Over 70% of personal data is likely already on the dark web, hidden from sight. | Defeu James | [Read More](https://medium.com/p/20a96611e204) |
@@ -110,7 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 04:44:08 GMT | The Cost of Cybercrime Is Skyrocketing -Is Your Business Ready? | R&B Networks | [Read More](https://medium.com/p/c26c6ceb5a2f) |
 | Thu, 08 May 2025 04:42:59 GMT | Bug Hunting in JS Files: Tricks, Tools, and Real-World POCs | Abhijeet Kumawat | [Read More](https://medium.com/p/70406e3eb72e) |
 | Thu, 08 May 2025 04:38:11 GMT | The CEO’s Cyber Wake-Up Call: 7 Alarming Threats That Nearly Crippled Martin’s Company (And What… | Biswajeet Poddar | [Read More](https://medium.com/p/21229af3c07c) |
-| Thu, 08 May 2025 04:35:59 GMT | John THE RIPPER : THE BASICS --TRYHACKME-- CYBERSECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/60d14bdb977a) |
-| Thu, 08 May 2025 04:32:41 GMT | The Courage to Be Seen | Mridu Goyal | [Read More](https://medium.com/p/11747d22734c) |
-| Thu, 08 May 2025 04:32:35 GMT | MITRE ATT&CK Framework walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/c1d7e83db4fa) |
-| Thu, 08 May 2025 04:28:39 GMT | My Beginner Journey — Setting Up an Active Directory Lab for Cybersecurity | Lovepreetsg | [Read More](https://medium.com/p/41d936449735) |
