@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 20:31:34 GMT | The Invisible Hack: Understanding Cookie and Session Hijacking in Everyday Life | All in One security | [Read More](https://medium.com/p/4be8aae83fbe) |
+| Thu, 08 May 2025 20:26:41 GMT | ETW Ghost Logger | S12 - H4CK | [Read More](https://medium.com/p/be16a635e7a2) |
+| Thu, 08 May 2025 20:26:36 GMT | Exploiting File Upload and SSRF Vulnerabilities | musayyab sharif | [Read More](https://medium.com/p/e58bc984b285) |
+| Thu, 08 May 2025 20:26:36 GMT | TCM Security — Academy | Drew | [Read More](https://medium.com/p/52804b0c1219) |
+| Thu, 08 May 2025 20:23:10 GMT | Kaspersky Internet Security Review: A Detailed Teaching | Neo Thompson (Tech-Sonar Technologies) | [Read More](https://medium.com/p/ba4adab9f05d) |
 | Thu, 08 May 2025 20:11:51 GMT | PowerSchool Hacker Now Targeting Individual School Districts in Ongoing Extortion Campaign | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/5b4a7d8a85d2) |
 | Thu, 08 May 2025 20:09:27 GMT | Recon Solana: My Go-To Combo for Snagging Token Claims | RECON | [Read More](https://medium.com/p/d5169ae64e87) |
 | Thu, 08 May 2025 20:06:39 GMT | Three Reasons Healthcare Organizations Continue to Struggle with Access Control (and How to Fix… | Shereese Maynard | [Read More](https://medium.com/p/133f146d166b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 15:16:29 GMT | How the Internet Works Part I | Baraaemad | [Read More](https://medium.com/p/517bb3c45892) |
 | Thu, 08 May 2025 15:06:02 GMT | Why Digital Privacy Is the New Human Right | Prince Moche | [Read More](https://medium.com/p/c0a914c80bdb) |
 | Thu, 08 May 2025 15:00:03 GMT | How Samczsun is bridging the old web to the dark forest | Mike Orcutt | [Read More](https://medium.com/p/53074b9f171e) |
-| Thu, 08 May 2025 14:59:30 GMT | Meta Wins $168M Lawsuit Against NSO Group for WhatsApp Spying | Hoplon Infosec | [Read More](https://medium.com/p/a7f35eec61eb) |
-| Thu, 08 May 2025 14:50:46 GMT | What a Field CTO Really Does (When You Work for a Cybersecurity Vendor) | Andre Fernandes | [Read More](https://medium.com/p/5df3887d134e) |
-| Thu, 08 May 2025 14:49:33 GMT | A Day in the Life of a Cyber Threat Analyst: Inside the War Room of Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/bf89e96d2bed) |
-| Thu, 08 May 2025 14:47:30 GMT | What Does The Future Of AI In Cybersecurity Look Like ? | Fuzail Al Arabia | [Read More](https://medium.com/p/cd4ec7045d51) |
-| Thu, 08 May 2025 14:43:47 GMT | Too Many Spreadsheets? Transforming File-Based Chaos into Data-Centric Simplicity | Ugur Kadakal | [Read More](https://medium.com/p/babe17fb85fe) |
