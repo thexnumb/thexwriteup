@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 11:15:49 GMT | SIEM Migration Trends | Apto Solutions | [Read More](https://medium.com/p/900578db3f79) |
+| Thu, 08 May 2025 11:14:53 GMT | Which Outdoor Security Camera System Should You Trust? Let’s Find Your Perfect Match! | Senjas | [Read More](https://medium.com/p/2a3f3088394b) |
+| Thu, 08 May 2025 11:13:20 GMT | “Magic Numbers” in the World of Pentesting | David Delgado Déniz | [Read More](https://medium.com/p/e22c6da4a6d6) |
+| Thu, 08 May 2025 11:04:26 GMT | The Ultimate Guide to Content Security Policy (CSP) | Shah kaif | [Read More](https://medium.com/p/7b2e3db97bbd) |
+| Thu, 08 May 2025 11:02:55 GMT | REDEFINING MANHOOD: THE IMPORTANCE OF EMOTIONAL INTELLIGENCE AND VULNERABILITY | Fedude Annie | [Read More](https://medium.com/p/04505cd706e4) |
+| Thu, 08 May 2025 11:00:21 GMT | Home Security Cameras Installation in Dallas: Five Things You Must Know Before Hiring | Michableth | [Read More](https://medium.com/p/2968cca92869) |
+| Thu, 08 May 2025 10:57:20 GMT | Best network security firewall in 2025? | Rony Henry | [Read More](https://medium.com/p/5e950e58350c) |
+| Thu, 08 May 2025 10:55:09 GMT | Data Classification Policy | Igor Berner | [Read More](https://medium.com/p/f7bb1ec0b250) |
+| Thu, 08 May 2025 10:49:05 GMT | Complete Guide to Nuclei Vulnerability Scanner | shubham kumar | [Read More](https://medium.com/p/cc67658d30ad) |
+| Thu, 08 May 2025 10:44:55 GMT | How I Found PII on BBP, Open Door to Sensitive PDFs — But Got a Duplicate | Frostynxth | [Read More](https://medium.com/p/643fa0092e36) |
 | Thu, 08 May 2025 10:42:07 GMT | Cyber Alert: Pakistani Hackers का दावा — Indian Defence Websites Hack की गईं! | Hacker news 07 | [Read More](https://medium.com/p/7aad7c44d4c8) |
 | Thu, 08 May 2025 10:41:51 GMT | Which Keyless Entry Is Right for Your Home? | Tap2Live | [Read More](https://medium.com/p/d9647d8b62b9) |
 | Thu, 08 May 2025 10:37:25 GMT | Still I Rise | Brianochiengodhiambo | [Read More](https://medium.com/p/67cd2b50047e) |
@@ -33,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 09:27:30 GMT | Meet the Susware Engineer: The True Architect of Bugs | Fanvercel | [Read More](https://medium.com/p/952fb08793b1) |
 | Thu, 08 May 2025 09:27:04 GMT | HTB — Heal Write-up | Nikita Astashenko | [Read More](https://medium.com/p/c8c0e96a6aff) |
 | Thu, 08 May 2025 09:22:36 GMT | The CIO’s Guide to IT Strategy | Mark Bridges | [Read More](https://medium.com/p/c2e86863b067) |
+| Thu, 08 May 2025 09:22:30 GMT | 智能合约漏洞：区块链世界的隐秘威胁 | Mckayla Chartrand | [Read More](https://medium.com/p/d53a3dd495cb) |
 | Thu, 08 May 2025 09:20:27 GMT | Does ChatGPT Use My Personal Data for Training? | Nelover | [Read More](https://medium.com/p/79ed2bd04fbe) |
 | Thu, 08 May 2025 09:11:56 GMT | Pentesting Fundamentals - TryHackMe - Write-Up by FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/8ea030a37a82) |
 | Thu, 08 May 2025 09:07:21 GMT | Golden Chickens Are Back: TerraStealerV2 is Hunting Your Crypto and Chrome Logins | TechBrain | [Read More](https://medium.com/p/7ce191243af1) |
@@ -103,14 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 06:05:54 GMT | What is Automated Incident Response? | InfosecTrain | [Read More](https://medium.com/p/f87222274817) |
 | Thu, 08 May 2025 06:05:29 GMT | What Makes a Security Guard Truly Reliable? | United Guard Force India | [Read More](https://medium.com/p/556d5b846536) |
 | Thu, 08 May 2025 06:02:34 GMT | Retail Security in Mumbai: Stop Theft & Shoplifting | United Guard Force India | [Read More](https://medium.com/p/c7e819137c8c) |
-| Thu, 08 May 2025 06:01:34 GMT | Lab Guide: Visible Error-Based SQL Injection | Meni Tasa | [Read More](https://medium.com/p/7cdc2225d9b4) |
-| Thu, 08 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ff877dd24cdd) |
-| Thu, 08 May 2025 05:53:17 GMT | AI in Banking Security: How AI-Powered Tools Are Combating Financial Fraud | Harry Ko | [Read More](https://medium.com/p/657e176d72b6) |
-| Thu, 08 May 2025 05:50:36 GMT | Robot Guard Switzerland | Marcus Koehnlein | [Read More](https://medium.com/p/72d820241722) |
-| Thu, 08 May 2025 05:49:02 GMT | 5 Costly Tech Mistakes Real Estate Agencies Make (And How MSPs Prevent Them) | Technokraft Serve | [Read More](https://medium.com/p/94f94d3e3ed8) |
-| Thu, 08 May 2025 05:48:53 GMT | Palo Alto Networks Prisma Cloud Workload Protection: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/36af4d93551c) |
-| Thu, 08 May 2025 05:32:45 GMT | ️ Hide Malicious Files in Images Using Steghide (Ethical Hacking Tutorial) | Waqas Akram | [Read More](https://medium.com/p/dbb7b1d6b0d1) |
-| Thu, 08 May 2025 05:32:00 GMT | Deploying Wazuh: Installation and Configuration | CyberRanger Labs | [Read More](https://medium.com/p/7f3f65a50895) |
-| Thu, 08 May 2025 05:29:52 GMT | HTB ORBITAL SOURCE CODE SECURITY REVIEW | theerachai.ch | [Read More](https://medium.com/p/5027b295761f) |
-| Thu, 08 May 2025 05:27:14 GMT | The Future of Private Security: Human Guards + Technology | Guardian Integrated Security | [Read More](https://medium.com/p/c4cb526efe21) |
-| Thu, 08 May 2025 05:20:26 GMT | Two-Factor Authentication (2FA) is still considered a highly effective security measure when… | Defeu James | [Read More](https://medium.com/p/e89e3a707fd7) |
