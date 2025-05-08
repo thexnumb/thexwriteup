@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 19:32:17 GMT | This AI Code Review Tool Caught 95% of Our Errors — Game-Changer! | DevRooted | [Read More](https://medium.com/p/610997a45aab) |
+| Thu, 08 May 2025 19:23:24 GMT | How I Use AuditD to Catch Silent Security Threats on Linux | Faruk Ahmed | [Read More](https://medium.com/p/9e9b5ba48895) |
+| Thu, 08 May 2025 19:23:09 GMT | What Is Firewall Pass Through and Why Does It Matter? | SafeAeon Inc. | [Read More](https://medium.com/p/785d577c9abf) |
+| Thu, 08 May 2025 19:20:41 GMT | India-Pakistan Conflict: The Rising Threat of Cyberwarfare on the Modern Battlefield | Vaishnavid | [Read More](https://medium.com/p/6a238e746e8a) |
+| Thu, 08 May 2025 19:14:35 GMT | Hacking PAK website in Mass…. | Darshan Naresh Naik | [Read More](https://medium.com/p/46e4fa4c2f5c) |
 | Thu, 08 May 2025 19:11:05 GMT | Beware of Interview Scams! | Calvin Pak | [Read More](https://medium.com/p/cbf77d2b34e3) |
+| Thu, 08 May 2025 19:08:49 GMT | Everything You Need to Know About Yuzu Keys for Smooth Gaming | SafeAeon Inc. | [Read More](https://medium.com/p/61010f8dcd6e) |
+| Thu, 08 May 2025 19:06:26 GMT | Windows Persistence Through WMI Event Subscriptions: A DFIR Deep Dive | Roey Bartov | [Read More](https://medium.com/p/010929a67708) |
 | Thu, 08 May 2025 18:47:43 GMT | Inside the FreeDrain & Inferno Drainer Scams: How Crypto Wallets Are Being Drained via SEO and… | CyDhaal | [Read More](https://medium.com/p/adf7cbeff573) |
 | Thu, 08 May 2025 18:46:55 GMT | A home that is not perfect but worth missing | Mozanaraff | [Read More](https://medium.com/p/df65b2be7aef) |
 | Thu, 08 May 2025 18:39:52 GMT | MuleSoft Rate Limiting — SLA Based Policy | Praveen Reddy | [Read More](https://medium.com/p/6f1e14dab39c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 14:27:39 GMT | DDoS Attack Detector: Real-Time IP Monitoring & Visualization Tool | indrajith | [Read More](https://medium.com/p/8058d4c401f6) |
 | Thu, 08 May 2025 14:25:17 GMT | How to implement Secure Pipeline only with open-source tools | Vernieri | [Read More](https://medium.com/p/b658f3fcc6c6) |
 | Thu, 08 May 2025 14:21:32 GMT | Sapphire Ticket Attack: Understanding Kerberos Ticket Forgery Risks ️️ | 0b1d1 | [Read More](https://medium.com/p/3dcf8f5d244c) |
-| Thu, 08 May 2025 14:16:57 GMT | Setting Up a Secure Wi-Fi Network at Home | Tech Made Simple By NTi | [Read More](https://medium.com/p/beef871f44bb) |
-| Thu, 08 May 2025 14:14:28 GMT | Prompt injection against LLMs .. what about it? | Adham Hashem | [Read More](https://medium.com/p/1230b99bc1ba) |
-| Thu, 08 May 2025 14:13:16 GMT | Zero Trust Architecture: A Necessity in Modern IT Security | ITBizTeK | [Read More](https://medium.com/p/25a8ae6dad4b) |
-| Thu, 08 May 2025 14:08:30 GMT | How Can Hackers Hack Your Phone? Understanding the Threats in 2025 | Phone Hackers | [Read More](https://medium.com/p/91641de9a84c) |
-| Thu, 08 May 2025 14:08:18 GMT | Startup(Easy) — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/2803b1c478f0) |
-| Thu, 08 May 2025 14:07:05 GMT | Since 2013, It’s less profitable to sell drugs anymore. | Martin Abramov | [Read More](https://medium.com/p/1a3182c28b5a) |
-| Thu, 08 May 2025 14:04:31 GMT | Cyber Briefing: 2025.05.08 | CyberMaterial | [Read More](https://medium.com/p/8c7565445cc2) |
