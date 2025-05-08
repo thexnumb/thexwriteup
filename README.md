@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 10:42:07 GMT | Cyber Alert: Pakistani Hackers का दावा — Indian Defence Websites Hack की गईं! | Hacker news 07 | [Read More](https://medium.com/p/7aad7c44d4c8) |
+| Thu, 08 May 2025 10:41:51 GMT | Which Keyless Entry Is Right for Your Home? | Tap2Live | [Read More](https://medium.com/p/d9647d8b62b9) |
+| Thu, 08 May 2025 10:37:25 GMT | Still I Rise | Brianochiengodhiambo | [Read More](https://medium.com/p/67cd2b50047e) |
+| Thu, 08 May 2025 10:34:23 GMT | Bash Scripting Basics for Linux Mastery Part 5 | Yamini Yadav | [Read More](https://medium.com/p/ce87ac73c22c) |
+| Thu, 08 May 2025 10:31:32 GMT | Top 5 Reasons to Get Certified Ethical Hacking Foundation in 2025 | sneha gaikwad | [Read More](https://medium.com/p/e15ce2d9bde9) |
+| Thu, 08 May 2025 10:31:06 GMT | When Nations Clash, Citizens Become Digital Targets: How Operation Sindoor Exposes Your… | Anuradha Tibile | [Read More](https://medium.com/p/6f99c2d4e375) |
+| Thu, 08 May 2025 10:24:06 GMT | How are you | Usman Naseem | [Read More](https://medium.com/p/88b21dd62ff3) |
+| Thu, 08 May 2025 10:22:27 GMT | How Cyberattacks Impact Businesses: Financial and Operational Risks | NewEvol | [Read More](https://medium.com/p/15b8440aa6cb) |
+| Thu, 08 May 2025 10:21:24 GMT | How I Deleted Any User’s Account— No Interaction Needed | Ehtesham Ul Haq | [Read More](https://medium.com/p/faae0442ff4f) |
+| Thu, 08 May 2025 10:21:19 GMT | Weekend Cyber Security Classes in Hyderabad for Working Professionals | Sanchitamishra | [Read More](https://medium.com/p/6cfdbc852b98) |
+| Thu, 08 May 2025 10:20:05 GMT | Cyber Warfare & Geopolitics: A Strategic Frontier in the Digital Age | Jackdavis Iap | [Read More](https://medium.com/p/62f5831b34b1) |
 | Thu, 08 May 2025 10:17:34 GMT | Safe & Sound: Simple Habits That Secure Your Personal Finances | Aceunion | [Read More](https://medium.com/p/68c238f51f6d) |
 | Thu, 08 May 2025 10:16:44 GMT | Cybersecurity Services: Safeguarding Your Business in the Digital Era | Arushi Srivastava | [Read More](https://medium.com/p/bace76aabfb5) |
 | Thu, 08 May 2025 10:06:23 GMT | April hack analysis and overview | Sisi | [Read More](https://medium.com/p/5d92b02bc745) |
@@ -103,14 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 05:29:52 GMT | HTB ORBITAL SOURCE CODE SECURITY REVIEW | theerachai.ch | [Read More](https://medium.com/p/5027b295761f) |
 | Thu, 08 May 2025 05:27:14 GMT | The Future of Private Security: Human Guards + Technology | Guardian Integrated Security | [Read More](https://medium.com/p/c4cb526efe21) |
 | Thu, 08 May 2025 05:20:26 GMT | Two-Factor Authentication (2FA) is still considered a highly effective security measure when… | Defeu James | [Read More](https://medium.com/p/e89e3a707fd7) |
-| Thu, 08 May 2025 05:20:03 GMT | Over 70% of personal data is likely already on the dark web, hidden from sight. | Defeu James | [Read More](https://medium.com/p/20a96611e204) |
-| Thu, 08 May 2025 05:17:34 GMT | Burp Suite Kya Hai? Hacker Ka Swiss Knife - Tech Explained in Hindi | Decode Duniya | [Read More](https://medium.com/p/ba127ed26352) |
-| Thu, 08 May 2025 05:16:56 GMT | A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This! | Dhanush N | [Read More](https://medium.com/p/a9837f711f6b) |
-| Thu, 08 May 2025 05:16:36 GMT | The Day I Learned the Power of Vulnerability | John | [Read More](https://medium.com/p/1bba645cc12a) |
-| Thu, 08 May 2025 05:15:37 GMT | Tool Review — TraceWeb.io Extension | ne555 | [Read More](https://medium.com/p/5fdf79396e21) |
-| Thu, 08 May 2025 05:15:18 GMT | $100 Bounty: How a Spoofed Email Could Change Any Username on HackerOne | Monika sharma | [Read More](https://medium.com/p/8efd98ab44f5) |
-| Thu, 08 May 2025 05:14:23 GMT | Mastering Linux Part 3: A Beginner’s Guide to APT and YUM Package Management | Yamini Yadav | [Read More](https://medium.com/p/d37742d4f822) |
-| Thu, 08 May 2025 05:14:14 GMT | Installing Android Studio for Android Pentesting in windows | ROHIT SHARMA | [Read More](https://medium.com/p/5bbaa4062957) |
-| Thu, 08 May 2025 05:11:45 GMT | Hack Android Device Using Kali Linux & Metasploit (Educational Purpose Only) | Waqas Akram | [Read More](https://medium.com/p/5b8135df4184) |
-| Thu, 08 May 2025 05:08:21 GMT | My Book: IT Career Starter Kit: How to Start, Adapt, In a Dynamic Tech World | Raul Leite | [Read More](https://medium.com/p/6b1f5e0b72c0) |
-| Thu, 08 May 2025 04:58:53 GMT | Telecommunications Cybersecurity: Fortifying the Gateway of National Communication and Stability | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/5b6d000a15bf) |
