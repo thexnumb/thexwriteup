@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 19:11:05 GMT | Beware of Interview Scams! | Calvin Pak | [Read More](https://medium.com/p/cbf77d2b34e3) |
 | Thu, 08 May 2025 18:47:43 GMT | Inside the FreeDrain & Inferno Drainer Scams: How Crypto Wallets Are Being Drained via SEO and… | CyDhaal | [Read More](https://medium.com/p/adf7cbeff573) |
 | Thu, 08 May 2025 18:46:55 GMT | A home that is not perfect but worth missing | Mozanaraff | [Read More](https://medium.com/p/df65b2be7aef) |
 | Thu, 08 May 2025 18:39:52 GMT | MuleSoft Rate Limiting — SLA Based Policy | Praveen Reddy | [Read More](https://medium.com/p/6f1e14dab39c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 14:08:18 GMT | Startup(Easy) — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/2803b1c478f0) |
 | Thu, 08 May 2025 14:07:05 GMT | Since 2013, It’s less profitable to sell drugs anymore. | Martin Abramov | [Read More](https://medium.com/p/1a3182c28b5a) |
 | Thu, 08 May 2025 14:04:31 GMT | Cyber Briefing: 2025.05.08 | CyberMaterial | [Read More](https://medium.com/p/8c7565445cc2) |
-| Thu, 08 May 2025 14:02:43 GMT | Prompt Injection: The New SQL Injection — But Smarter, Scarier, and Already Here | Younes Khadraoui, PhD | [Read More](https://medium.com/p/cf07728fecfb) |
