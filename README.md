@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 14:14:28 GMT | Prompt injection against LLMs .. what about it? | Adham Hashem | [Read More](https://medium.com/p/1230b99bc1ba) |
+| Thu, 08 May 2025 14:13:16 GMT | Zero Trust Architecture: A Necessity in Modern IT Security | ITBizTeK | [Read More](https://medium.com/p/25a8ae6dad4b) |
+| Thu, 08 May 2025 14:08:30 GMT | How Can Hackers Hack Your Phone? Understanding the Threats in 2025 | Phone Hackers | [Read More](https://medium.com/p/91641de9a84c) |
+| Thu, 08 May 2025 14:08:18 GMT | Startup(Easy) — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/2803b1c478f0) |
+| Thu, 08 May 2025 14:07:05 GMT | Since 2013, It’s less profitable to sell drugs anymore. | Martin Abramov | [Read More](https://medium.com/p/1a3182c28b5a) |
+| Thu, 08 May 2025 14:04:31 GMT | Cyber Briefing: 2025.05.08 | CyberMaterial | [Read More](https://medium.com/p/8c7565445cc2) |
+| Thu, 08 May 2025 14:02:43 GMT | Prompt Injection: The New SQL Injection — But Smarter, Scarier, and Already Here | Younes Khadraoui, PhD | [Read More](https://medium.com/p/cf07728fecfb) |
+| Thu, 08 May 2025 14:02:42 GMT | How I Prepared for the CISSP Exam: Reflections and Tips | abdeldayemnour | [Read More](https://medium.com/p/8e0ced588274) |
+| Thu, 08 May 2025 14:02:12 GMT | What Is a Non-Custodial Wallet? Why It Matters for Security and Ownership | Paywaz | [Read More](https://medium.com/p/aa8ffef1d662) |
+| Thu, 08 May 2025 14:00:34 GMT | $4,000 Bounty: Exploiting Insecure OAuth Handling and 2FA Bypass in a Mobile Application | Ali Hassan Khan | [Read More](https://medium.com/p/5c9e977e501f) |
+| Thu, 08 May 2025 13:53:58 GMT | Bogon Address — Explained | embossdotar | [Read More](https://medium.com/p/cf73e1dacce5) |
+| Thu, 08 May 2025 13:51:53 GMT | Tell Your Story | Faris Alami | [Read More](https://medium.com/p/779d8e4b12bb) |
+| Thu, 08 May 2025 13:44:12 GMT | Lab 6 — RECOGNIZING C CODE CONSTRUCTS IN ASSEMBLY | Sapir Twig | [Read More](https://medium.com/p/8abe09939a1a) |
+| Thu, 08 May 2025 13:43:53 GMT | Secure iOS Development | Ahmed Hamza | [Read More](https://medium.com/p/b5e9e378c7db) |
+| Thu, 08 May 2025 13:40:25 GMT | BEDR Pre-liminary Audit Report Published | BEDR_Bitcoin EDen Rich | [Read More](https://medium.com/p/7c2b6f09e8c1) |
+| Thu, 08 May 2025 13:35:43 GMT | Italy’s Cybersecurity Crisis: Navigating a Surge in Cyberattacks in 2025 | Atlas Security | [Read More](https://medium.com/p/f514f5e73a8b) |
+| Thu, 08 May 2025 13:32:42 GMT | Adversary Emulation Plans: Adversary Simulation with MITRE ATT&CK | Esra Kayhan | [Read More](https://medium.com/p/b9b3c910fd90) |
 | Thu, 08 May 2025 13:25:00 GMT | Fortify-Open Text SAST Detailed Installation Guide (Windows & Linux) | Kerem | [Read More](https://medium.com/p/9de01f516cc1) |
 | Thu, 08 May 2025 13:21:27 GMT | Five MCP Risks You Don’t Want in Production | AI Rabbit | [Read More](https://medium.com/p/b2e9805f4b16) |
 | Thu, 08 May 2025 13:20:56 GMT | Corporate Greed Chronicles: Cloud Outages to Job Outages, Crowdstrike Laying Off 5% | Namir Sagheenanajar | [Read More](https://medium.com/p/3c4079b4ee7f) |
@@ -96,21 +113,3 @@ AI 시대, 정보를 다루는 힘 | linglingling3 | [Read More](https://medium.
 | Thu, 08 May 2025 08:59:49 GMT | WebSocket mi, REST mi? Gerçek Zamanlı Veri İletimi İçin Doğru Seçim Ne? | ELİF KİŞİ | [Read More](https://medium.com/p/3dfab6d404f5) |
 | Thu, 08 May 2025 08:54:29 GMT | Prevent Unrestricted File Upload in Symfony Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/d25406df104e) |
 | Thu, 08 May 2025 08:51:26 GMT | ‍ “When ICS meets APT — the past has clues, the future has targets.” | om sonawane | [Read More](https://medium.com/p/f4de796afb3b) |
-| Thu, 08 May 2025 08:49:31 GMT | Hacker Türleri | Taha Özcan | [Read More](https://medium.com/p/4fee7a3dc740) |
-| Thu, 08 May 2025 08:49:17 GMT | Reliable 24/7 Security: Protection That Never Sleeps | Internal security and manpower services | [Read More](https://medium.com/p/d57b8e84621e) |
-| Thu, 08 May 2025 08:44:20 GMT | Hacker-Proof Your Mind: 6 Books to Start | Ahmad Javed | [Read More](https://medium.com/p/85e9a92c5585) |
-| Thu, 08 May 2025 08:36:09 GMT | Day 29: PortSwigger Lab Walkthroughs (No Tools): SQL Injection via URL & Login Form | Agarwaldaksh | [Read More](https://medium.com/p/293016dc3b74) |
-| Thu, 08 May 2025 08:33:58 GMT | SSL pinning in Android applications | Nick Psarakis | [Read More](https://medium.com/p/6deec120f31d) |
-| Thu, 08 May 2025 08:31:16 GMT | Landmark Verdict: NSO Group Ordered to Pay $168 Million for WhatsApp Spyware Breach. | eL Njas!™ | [Read More](https://medium.com/p/8022c13debf6) |
-| Thu, 08 May 2025 08:28:06 GMT | Siber Güvenlikte Kill Chain Aşamaları | Taha Özcan | [Read More](https://medium.com/p/409ba10b5c8c) |
-| Thu, 08 May 2025 08:26:34 GMT | Unlock the Secrets of $BUG and Start Growing Your Crypto Portfolio | BUG | [Read More](https://medium.com/p/9555abe7fdad) |
-| Thu, 08 May 2025 08:25:37 GMT | Best Construction Site Security Services in Alberta | Support | [Read More](https://medium.com/p/a2e718aedc72) |
-| Thu, 08 May 2025 08:24:51 GMT | The Malware That Sends SMS
-from Your Phone — FluBott | KLEAP Institute of Information Security | [Read More](https://medium.com/p/fb82660ac245) |
-| Thu, 08 May 2025 08:23:46 GMT | Sicherheitsroboter Österreich | Presslink Media | [Read More](https://medium.com/p/1fc58f5360e7) |
-| Thu, 08 May 2025 08:17:13 GMT | Europol Takes Down Major DDoS-for-Hire Networks: A Closer Look | Nexsecura | [Read More](https://medium.com/p/baa4a00bfc85) |
-| Thu, 08 May 2025 08:15:39 GMT | Breaking Into Web App Security: My Journey Through the PWPA Certification | LtReborn | [Read More](https://medium.com/p/f150a5099722) |
-| Thu, 08 May 2025 08:14:00 GMT | Social psychology and cybersecurity are two fields that intersect in surprising ways. | Techzonego | [Read More](https://medium.com/p/47523e79a53d) |
-| Thu, 08 May 2025 08:10:56 GMT | How to Escalate The Payload On The Infected Machine. | NnFace | [Read More](https://medium.com/p/1d1beaa560ef) |
-| Thu, 08 May 2025 08:09:13 GMT | Securing Patient Data: Cybersecurity Essentials for Dental Practices | Anablock | [Read More](https://medium.com/p/0fc00410f34c) |
-| Thu, 08 May 2025 08:08:46 GMT | What Are Cybersecurity Regulations? The Definitive Guide for 2025 | Diehardmclane | [Read More](https://medium.com/p/562bf7e30329) |
