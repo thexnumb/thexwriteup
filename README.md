@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 07:15:46 GMT | From Zero to Recon: Your First ASN-Based Scanning Workflow | Saumadip Mandal | [Read More](https://medium.com/p/b08c88709410) |
+| Thu, 08 May 2025 07:08:25 GMT | UK infrastructure under siege: Holy league hacktivist coalition targets critical systems | hide.me VPN | [Read More](https://medium.com/p/5172302fe442) |
+| Thu, 08 May 2025 07:07:40 GMT | AI vs. AI: Inside the Emerging Cybersecurity Arms Race | Les Ottolenghi | [Read More](https://medium.com/p/132b80180f17) |
+| Thu, 08 May 2025 07:05:06 GMT | Leadership change at NSA sparks cybersecurity concerns | hide.me VPN | [Read More](https://medium.com/p/9a5606e28cbd) |
+| Thu, 08 May 2025 07:04:03 GMT | Primeros pasos en BloodHound | Security Layer | [Read More](https://medium.com/p/1a3bd1b77f8c) |
+| Thu, 08 May 2025 07:02:43 GMT | Top Third-Party Apps Targeted by Cyberattacks (And Why They Must Be Patched) | Easy2Patch | [Read More](https://medium.com/p/07f4e3bd7005) |
+| Thu, 08 May 2025 07:00:24 GMT | Top Soft Skills That Employers Will Look for in 2025 | Prism HRC | [Read More](https://medium.com/p/37ed6f1703fd) |
+| Thu, 08 May 2025 06:57:14 GMT | Cybersecurity Certifications Aren’t Enough Anymore. Here’s Why | Amarandhar Reddy Kotha | [Read More](https://medium.com/p/0e3c0e993011) |
+| Thu, 08 May 2025 06:52:46 GMT | TwistScan — detection of malicious domains using dnstwist permutations and urlscan.io analysis | Marco Pedrinazzi | [Read More](https://medium.com/p/e9a9f4876af0) |
+| Thu, 08 May 2025 06:48:51 GMT | How to Manage Cryptographic Keys to Prevent Security Failures | SignMyCode | [Read More](https://medium.com/p/d48051a88406) |
+| Thu, 08 May 2025 06:47:08 GMT | Harness the Power of Microsoft Database Software | Audit Mania | [Read More](https://medium.com/p/a362ce600001) |
+| Thu, 08 May 2025 06:47:07 GMT | The Ultimate Guide to Cyber Attack Types: Classification & Techniques Explained | Charith Aloka | [Read More](https://medium.com/p/a1cdeabecfc9) |
+| Thu, 08 May 2025 06:40:21 GMT | 100 Must-Know CMD Commands for Cybersecurity | Bl@ckC!pH3r | [Read More](https://medium.com/p/e0094a715dd7) |
+| Thu, 08 May 2025 06:36:36 GMT | How to Optimize WordPress for Mobile Speed in 2025 | Shubradeb | [Read More](https://medium.com/p/c35289fec9b1) |
+| Thu, 08 May 2025 06:30:47 GMT | How To Download & Install Tor Browser in Windows | Mwenda Kelvin | [Read More](https://medium.com/p/6158ab7dc115) |
+| Thu, 08 May 2025 06:30:39 GMT | Read These or Risk It: Cybersecurity Must-Reads | Ahmad Javed | [Read More](https://medium.com/p/d52cb466c2c2) |
+| Thu, 08 May 2025 06:23:11 GMT | Top Firewall Software for 2025 (Top Firewall Review 2025) | Rony Henry | [Read More](https://medium.com/p/9a718214cfc8) |
+| Thu, 08 May 2025 06:21:13 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 3: Imports | Infralovers GmbH | [Read More](https://medium.com/p/430a8b444c27) |
+| Thu, 08 May 2025 06:21:01 GMT | Leveraging Terraform for Enhanced Asset Security with Mondoo — Part 2: Data Sources | Infralovers GmbH | [Read More](https://medium.com/p/948a692946ad) |
+| Thu, 08 May 2025 06:20:43 GMT | Future-Proofing Your Compliance: Strategic Insights with Mondoo and Terraform | Infralovers GmbH | [Read More](https://medium.com/p/388548979903) |
 | Thu, 08 May 2025 06:11:27 GMT | Understanding Threat Actors, Motivations, and Attack Vectors with real life examples | unica 02 | [Read More](https://medium.com/p/02285cace1c1) |
 | Thu, 08 May 2025 06:10:56 GMT | The Future of Cybersecurity Is Predictive — And It’s Already Here | Les Ottolenghi | [Read More](https://medium.com/p/f34c03659bd0) |
 | Thu, 08 May 2025 06:09:45 GMT | How I Cleared eJPTv2 & Got My First Cybersecurity Certification | Sayyam Saboo | [Read More](https://medium.com/p/05b8b5525edd) |
@@ -92,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 May 2025 23:38:25 GMT | A (not so) Unexpected Journey: Building My First Home Lab | Chris C. | [Read More](https://medium.com/p/48b0253b32ed) |
 | Wed, 07 May 2025 23:27:43 GMT | HOW TO CRACK WIFI PASSWORDS USING AIRGEDDON ON LINUX SYSTEM | Reuben Odoma | [Read More](https://medium.com/p/43609768df9b) |
 | Wed, 07 May 2025 23:22:53 GMT | Protecting Your Nudes: A Guide to Digital Intimacy and Privacy in the Age of Surveillance | BiyteLüm | [Read More](https://medium.com/p/6aa8e7600e32) |
-| Wed, 07 May 2025 23:20:30 GMT | Pentesting Fundamentals — TryHackMe Room Walkthrough | Ahmed Nageeb | [Read More](https://medium.com/p/15dd07058c9f) |
-| Wed, 07 May 2025 23:14:51 GMT | Cobain Cyber Security 101 : Offensive Security Intro seru ! | Velia's Journey | [Read More](https://medium.com/p/3f62ca501d11) |
-| Wed, 07 May 2025 23:06:45 GMT | 8 Reasons Not To Trust Your Phone With Sensitive Stuff | Deepak Puri | [Read More](https://medium.com/p/3751b8b61052) |
-| Wed, 07 May 2025 23:03:40 GMT | Ask Savvy Cyber Kids: Is All Screen Time The Same? | Savvy Cyber Kids | [Read More](https://medium.com/p/8777870c93f3) |
-| Wed, 07 May 2025 23:00:42 GMT | How To Keep Kids Safe While Remote Learning | Savvy Cyber Kids | [Read More](https://medium.com/p/d1cc96d357a0) |
-| Wed, 07 May 2025 22:48:26 GMT | Security Isn’t a Luxury in Portland Anymore. It’s a Necessity. | Brendan Weed | [Read More](https://medium.com/p/213c76abbd56) |
-| Wed, 07 May 2025 22:41:51 GMT | That One Time I Never Stopped Loving the Internet | Virgil (Tim) Eaton | [Read More](https://medium.com/p/08bd178c07a3) |
-| Wed, 07 May 2025 22:33:34 GMT | DIJITAL AYAK IZLERIMIZIN TOZU KALKARKEN: UNUTULMANIN SANATI VE SIBER FARKINDALIK | Talha Memiş | [Read More](https://medium.com/p/e21bc19301b0) |
-| Wed, 07 May 2025 22:30:05 GMT | Not Your Data, Not Your AI
-If we don’t control how AI is trained, we’ll gradually lose control… | ITgeek | [Read More](https://medium.com/p/710f2b43af79) |
-| Wed, 07 May 2025 22:16:34 GMT | How to Implement a Zero Trust Architecture in Your Network | Karthikeyan Nagaraj | [Read More](https://medium.com/p/6cba1ff54845) |
-| Wed, 07 May 2025 22:12:16 GMT | Cyberattacks on Critical Infrastructures Makes Us Very Vulnerable | Matthew.Rosenquist | [Read More](https://medium.com/p/4b34fe538276) |
-| Wed, 07 May 2025 22:10:18 GMT | Step-by-Step SOC165 Alert Investigation: Possible SQL Injection (Event ID 115) | Daiva Sadauskiene | [Read More](https://medium.com/p/da75d63e05d3) |
-| Wed, 07 May 2025 22:06:13 GMT | The Fallacy of Perfect Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/abbbf321bf5b) |
-| Wed, 07 May 2025 22:03:18 GMT | Telegram is no longer at the top. | TECHRBC | [Read More](https://medium.com/p/066f2d4f7a31) |
-| Wed, 07 May 2025 22:01:37 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resum | Hennessy Dianna | [Read More](https://medium.com/p/9574d9a4f371) |
-| Wed, 07 May 2025 21:54:19 GMT | Day 14: Blind SQL injection with time delays — Zero to Hero Time-Based Blind SQL Injection —… | RayofHope | [Read More](https://medium.com/p/ed80f1ce7b0d) |
-| Wed, 07 May 2025 21:52:23 GMT | How to Run Ollama Securely on a Remote GPU with Vast.ai — A Private, Token-Free AI Setup | Iklobato | [Read More](https://medium.com/p/e68287e23951) |
-| Wed, 07 May 2025 21:44:03 GMT | Handling Multipart File Uploads in JAX-RS 2.1 (on WebSphere Liberty) | keylearn | [Read More](https://medium.com/p/b83dbc88be2c) |
-| Wed, 07 May 2025 21:28:43 GMT | Post-Quantum Cryptography Explained: The Algorithms That Will Outlive RSA | K3e9X | [Read More](https://medium.com/p/4ee6ed422bac) |
-| Wed, 07 May 2025 21:24:48 GMT | Cybersecurity Made Simple for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/0abae0ed0f16) |
