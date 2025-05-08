@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 06:11:27 GMT | Understanding Threat Actors, Motivations, and Attack Vectors with real life examples | unica 02 | [Read More](https://medium.com/p/02285cace1c1) |
+| Thu, 08 May 2025 06:10:56 GMT | The Future of Cybersecurity Is Predictive — And It’s Already Here | Les Ottolenghi | [Read More](https://medium.com/p/f34c03659bd0) |
+| Thu, 08 May 2025 06:09:45 GMT | How I Cleared eJPTv2 & Got My First Cybersecurity Certification | Sayyam Saboo | [Read More](https://medium.com/p/05b8b5525edd) |
+| Thu, 08 May 2025 06:09:00 GMT | Why Construction Sites in Mumbai Need 24/7 Security | United Guard Force India | [Read More](https://medium.com/p/4a3410707b2b) |
+| Thu, 08 May 2025 06:05:54 GMT | What is Automated Incident Response? | InfosecTrain | [Read More](https://medium.com/p/f87222274817) |
+| Thu, 08 May 2025 06:05:29 GMT | What Makes a Security Guard Truly Reliable? | United Guard Force India | [Read More](https://medium.com/p/556d5b846536) |
+| Thu, 08 May 2025 06:02:34 GMT | Retail Security in Mumbai: Stop Theft & Shoplifting | United Guard Force India | [Read More](https://medium.com/p/c7e819137c8c) |
+| Thu, 08 May 2025 06:01:34 GMT | Lab Guide: Visible Error-Based SQL Injection | Meni Tasa | [Read More](https://medium.com/p/7cdc2225d9b4) |
+| Thu, 08 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ff877dd24cdd) |
+| Thu, 08 May 2025 05:53:17 GMT | AI in Banking Security: How AI-Powered Tools Are Combating Financial Fraud | Harry Ko | [Read More](https://medium.com/p/657e176d72b6) |
+| Thu, 08 May 2025 05:50:36 GMT | Robot Guard Switzerland | Marcus Koehnlein | [Read More](https://medium.com/p/72d820241722) |
+| Thu, 08 May 2025 05:49:02 GMT | 5 Costly Tech Mistakes Real Estate Agencies Make (And How MSPs Prevent Them) | Technokraft Serve | [Read More](https://medium.com/p/94f94d3e3ed8) |
+| Thu, 08 May 2025 05:48:53 GMT | Palo Alto Networks Prisma Cloud Workload Protection: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/36af4d93551c) |
 | Thu, 08 May 2025 05:32:45 GMT | ️ Hide Malicious Files in Images Using Steghide (Ethical Hacking Tutorial) | Waqas Akram | [Read More](https://medium.com/p/dbb7b1d6b0d1) |
 | Thu, 08 May 2025 05:32:00 GMT | Deploying Wazuh: Installation and Configuration | CyberRanger Labs | [Read More](https://medium.com/p/7f3f65a50895) |
 | Thu, 08 May 2025 05:27:14 GMT | The Future of Private Security: Human Guards + Technology | Guardian Integrated Security | [Read More](https://medium.com/p/c4cb526efe21) |
@@ -100,16 +113,3 @@ If we don’t control how AI is trained, we’ll gradually lose control… | ITg
 | Wed, 07 May 2025 21:44:03 GMT | Handling Multipart File Uploads in JAX-RS 2.1 (on WebSphere Liberty) | keylearn | [Read More](https://medium.com/p/b83dbc88be2c) |
 | Wed, 07 May 2025 21:28:43 GMT | Post-Quantum Cryptography Explained: The Algorithms That Will Outlive RSA | K3e9X | [Read More](https://medium.com/p/4ee6ed422bac) |
 | Wed, 07 May 2025 21:24:48 GMT | Cybersecurity Made Simple for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/0abae0ed0f16) |
-| Wed, 07 May 2025 21:21:05 GMT | MY FIRST BUG BOUNTY-RECON | Arunoday Tiwari | [Read More](https://medium.com/p/efec0eddc6c3) |
-| Wed, 07 May 2025 20:49:07 GMT | Covert Morse Code: How Hidden Signals Can Infiltrate Networks, Phones & IoT Devices | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/6f7b743f148f) |
-| Wed, 07 May 2025 20:47:42 GMT | mTLS authentication between Azure Logic App and IBM MQ using built-in MQ Connector | Dipesh Shah | [Read More](https://medium.com/p/9b4b2cf0f7c0) |
-| Wed, 07 May 2025 20:41:11 GMT | CVE-2025–12345: Information Leak in LibPixel via Malformed PNG Custom Chunk | ALI MAZEN | [Read More](https://medium.com/p/bd541d620358) |
-| Wed, 07 May 2025 20:40:19 GMT | What Is a Random Password Generator and How Does It Protect Your Online Accounts? | Tahashaikhseo | [Read More](https://medium.com/p/a465064f4ee2) |
-| Wed, 07 May 2025 20:32:00 GMT | Bypassing SEH Protections in Vulnserver | 0x47M4D | [Read More](https://medium.com/p/a4b95d1bc80e) |
-| Wed, 07 May 2025 20:26:35 GMT | File Upload Vulnerabilities | musayyab sharif | [Read More](https://medium.com/p/260741e24c30) |
-| Wed, 07 May 2025 20:12:13 GMT | Think Your Password Is Safe? I Cracked 100 in 24 Hours — Here’s How | All in One security | [Read More](https://medium.com/p/f6551401b200) |
-| Wed, 07 May 2025 19:57:32 GMT | Offsec →Cran Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/d91dde3e90a7) |
-| Wed, 07 May 2025 19:55:42 GMT | OttoKit WordPress Plugin Exploit Hackers Create Rogue Admin Account | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/7e654c49e719) |
-| Wed, 07 May 2025 19:54:56 GMT | The Dark Web: How to Use It and What You Will Find | Laura Maldonado | [Read More](https://medium.com/p/0fe5e2df8d5d) |
-| Wed, 07 May 2025 19:46:49 GMT | Offsec →Press Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/9203f82ee925) |
-| Wed, 07 May 2025 19:44:54 GMT | Zero Day in Plain Sight: How PLAY Ransomware Exploited a Windows Logging Vulnerability | Chetan Seripally | [Read More](https://medium.com/p/090f703c1351) |
