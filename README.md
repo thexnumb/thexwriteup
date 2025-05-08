@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 17:07:21 GMT | How to Secure Your Containerized Workloads with Free SSL Certificates from Let’s Encrypt | Omkar Sathe | [Read More](https://medium.com/p/6760a21ffabf) |
+| Thu, 08 May 2025 17:06:15 GMT | Linux File System Hierarchy Explained: A Beginner-to-Advanced Guide with Examples | YoungerSibling | [Read More](https://medium.com/p/ddcd04510246) |
+| Thu, 08 May 2025 16:57:42 GMT | iCostamp: Top 5 Must-Know Facts About Blockchain Timestamping! Secure & Verify Data Like a Pro! | USA BIZZ NETWORK | [Read More](https://medium.com/p/d3345fdf90f5) |
+| Thu, 08 May 2025 16:55:39 GMT | Your business never sleeps — and neither do we. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c7717636f968) |
+| Thu, 08 May 2025 16:53:42 GMT | Exposing Shadow APIs: The Hidden Attack Surface in Modern Web Apps | tezp | [Read More](https://medium.com/p/6fd1af0ec4e9) |
+| Thu, 08 May 2025 16:52:56 GMT | From Co-Pilots to Autopilots: The Evolution of AI Agents in Cybersecurity | Wale Adedeji | [Read More](https://medium.com/p/eb9d028dc4ea) |
 | Thu, 08 May 2025 16:38:19 GMT | Port Scanning: The Foundation of Discovery | Vaibhav Kushwaha | [Read More](https://medium.com/p/7479dfc7ed83) |
 | Thu, 08 May 2025 16:32:52 GMT | Stop Ignoring These 5 Spring Registry Pitfalls in Your Microservices! | The Code Alchemist | [Read More](https://medium.com/p/c71cdb5e5064) |
 | Thu, 08 May 2025 16:30:44 GMT | Seconds to Respond: A Strategic & Operational Guide to Cyber-Crisis Command | Mouad_mouadri | [Read More](https://medium.com/p/f02421a5e394) |
@@ -28,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 16:06:27 GMT | Daily dose of Chart : 08 May 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/b6b27e15fc94) |
 | Thu, 08 May 2025 16:06:00 GMT | The Weekly Threat Round-up 05/05/2025 – 08/05/2025 | RileyHv | [Read More](https://medium.com/p/c76335d6a309) |
 | Thu, 08 May 2025 16:02:42 GMT | Phantom Threads in Python: Hijacking Dormant Threads for Stealthy Code Execution on Windows | Maxwell Cross | [Read More](https://medium.com/p/2d9315c24136) |
+| Thu, 08 May 2025 16:02:41 GMT | ¿Gratis? El Mito de la IA Gratuita y sus Costos Ocultos | Chris Galleta | [Read More](https://medium.com/p/034c26d72f5b) |
 | Thu, 08 May 2025 16:02:08 GMT | Nigeria’s New Police State: How the Rich Bought the Force and Left the Rest to Rot | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/aa12501d27fe) |
 | Thu, 08 May 2025 16:01:40 GMT | Wazuh: The Free SIEM That Fights Like a Paid One | Aditya Bhatt | [Read More](https://medium.com/p/9554ed1272da) |
 | Thu, 08 May 2025 16:00:33 GMT | Stop Contact-Form Spam in React with One File and Zero Dependencies | Maurice Lichtenberg | [Read More](https://medium.com/p/e0b1b95e48a6) |
@@ -40,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 15:37:58 GMT | Hacking Heaven | majoki | [Read More](https://medium.com/p/e3c4dcdcc680) |
 | Thu, 08 May 2025 15:37:22 GMT | Why Is My Network 192.168.x.x… but My Virtual Machine Shows 10.x.x.x? | embossdotar | [Read More](https://medium.com/p/cb232e437fca) |
 | Thu, 08 May 2025 15:34:22 GMT | Instantly Claim $CVE: No Gas Fees Required | CVE | [Read More](https://medium.com/p/5dc6385f0ec9) |
+| Thu, 08 May 2025 15:33:20 GMT | [MongoDB][Mongoose] อัพเกรด 8.5.x เป็น 8.9.x มีเรื่องอะไรควรต้องระวังบ้าง | Tossaphol Chin | [Read More](https://medium.com/p/ba11b7e4947c) |
 | Thu, 08 May 2025 15:30:33 GMT | 1.0 Identity — The First Pillar of Zero Trust | James Booth | [Read More](https://medium.com/p/918c8af2b338) |
 | Thu, 08 May 2025 15:21:54 GMT | Designing NexusKiosk: A Secure, Minimalist OS for Public Library Terminals | Carnell Hines | [Read More](https://medium.com/p/5961b614b5b8) |
 | Thu, 08 May 2025 15:20:35 GMT | PW Crack 4- PicoCTF Walkthrough- Difficulty- Medium- General Skills | Midhunkrishnan P U | [Read More](https://medium.com/p/bc4ca1611a9a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 12:01:08 GMT | The Future of U.S. Application Security and What Businesses Must Do Now | Vijay Mishra | [Read More](https://medium.com/p/838f979ab16a) |
 | Thu, 08 May 2025 12:00:40 GMT | EVEN RSA CAN BE BROKEN??? | Ibnu Ilham | [Read More](https://medium.com/p/348c8455db50) |
 | Thu, 08 May 2025 12:00:16 GMT | $700 Bounty from a 2-Year-Old Secret — Found with iScan.today | Arshad Kazmi | [Read More](https://medium.com/p/87fb07eb5f53) |
-| Thu, 08 May 2025 11:56:51 GMT | AWS CloudWatch alarms routing to Mattermost using Lambda | CloudifyOps | [Read More](https://medium.com/p/9974b082674a) |
-| Thu, 08 May 2025 11:51:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/86d3473d2517) |
-| Thu, 08 May 2025 11:45:46 GMT | Smol | Ajay Chhillar | [Read More](https://medium.com/p/b68b736ad907) |
-| Thu, 08 May 2025 11:45:45 GMT | AI Can Hack Your App in Seconds. Here Is What You Can Do | Sergey Egorenkov | [Read More](https://medium.com/p/21fa2fd23694) |
-| Thu, 08 May 2025 11:45:37 GMT | How to Secure Data Privacy and Stop Breaches | SecureSlate | [Read More](https://medium.com/p/e7a30f45974e) |
-| Thu, 08 May 2025 11:41:08 GMT | "Mastering the Modern Hustle: Build Wealth, Grow Your Career, and Elevate Your Life" | Pavan | [Read More](https://medium.com/p/91274612bcb1) |
-| Thu, 08 May 2025 11:40:10 GMT | ️ The Role of Nation-State Hackers in Modern Warfare: Cyber Battles Beyond Borders | HFNRL | [Read More](https://medium.com/p/79d4ec0dac43) |
-| Thu, 08 May 2025 11:38:09 GMT | VIP Protection: More Than Just a Bodyguard | Group 24/7 Security Services | [Read More](https://medium.com/p/81ece036da8f) |
