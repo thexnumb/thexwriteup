@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 08:44:20 GMT | Hacker-Proof Your Mind: 6 Books to Start | Ahmad Javed | [Read More](https://medium.com/p/85e9a92c5585) |
+| Thu, 08 May 2025 08:36:09 GMT | Day 29: PortSwigger Lab Walkthroughs (No Tools): SQL Injection via URL & Login Form | Agarwaldaksh | [Read More](https://medium.com/p/293016dc3b74) |
+| Thu, 08 May 2025 08:33:58 GMT | SSL pinning in Android applications | Nick Psarakis | [Read More](https://medium.com/p/6deec120f31d) |
+| Thu, 08 May 2025 08:31:16 GMT | Landmark Verdict: NSO Group Ordered to Pay $168 Million for WhatsApp Spyware Breach. | eL Njas!™ | [Read More](https://medium.com/p/8022c13debf6) |
+| Thu, 08 May 2025 08:28:06 GMT | Siber Güvenlikte Kill Chain Aşamaları | Taha Özcan | [Read More](https://medium.com/p/409ba10b5c8c) |
+| Thu, 08 May 2025 08:26:34 GMT | Unlock the Secrets of $BUG and Start Growing Your Crypto Portfolio | BUG | [Read More](https://medium.com/p/9555abe7fdad) |
+| Thu, 08 May 2025 08:25:37 GMT | Best Construction Site Security Services in Alberta | Support | [Read More](https://medium.com/p/a2e718aedc72) |
 | Thu, 08 May 2025 08:24:51 GMT | The Malware That Sends SMS
 from Your Phone — FluBott | KLEAP Institute of Information Security | [Read More](https://medium.com/p/fb82660ac245) |
+| Thu, 08 May 2025 08:23:46 GMT | Sicherheitsroboter Österreich | Presslink Media | [Read More](https://medium.com/p/1fc58f5360e7) |
 | Thu, 08 May 2025 08:17:13 GMT | Europol Takes Down Major DDoS-for-Hire Networks: A Closer Look | Nexsecura | [Read More](https://medium.com/p/baa4a00bfc85) |
 | Thu, 08 May 2025 08:15:39 GMT | Breaking Into Web App Security: My Journey Through the PWPA Certification | LtReborn | [Read More](https://medium.com/p/f150a5099722) |
 | Thu, 08 May 2025 08:14:00 GMT | Social psychology and cybersecurity are two fields that intersect in surprising ways. | Techzonego | [Read More](https://medium.com/p/47523e79a53d) |
@@ -105,11 +113,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 03:27:39 GMT | HASHING BASICS-- TRYHACKME-- CYBER SECURITY 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/dfb781a86827) |
 | Thu, 08 May 2025 03:15:42 GMT | #  TryHackMe Billing Walkthrough | dhruv shyam | [Read More](https://medium.com/p/c2bec374bc9c) |
 | Thu, 08 May 2025 03:13:16 GMT | [Review] Multi-Cloud Blue Team Analyst (MCBTA) in Bahasa | gtrwhyurmdhan | [Read More](https://medium.com/p/79f1730d26cc) |
-| Thu, 08 May 2025 03:09:06 GMT | Shifting Left with Vulnerability Management: Security as Code | Paritosh | [Read More](https://medium.com/p/353c206db2de) |
-| Thu, 08 May 2025 02:59:27 GMT | Securing the Future of Autonomous AI: An In-Depth Look at Meta’s LlamaFirewall | Akshay Nair | [Read More](https://medium.com/p/c6568fbe0eeb) |
-| Thu, 08 May 2025 02:56:49 GMT | XSS Part — 12 : Stored DOM XSS | Ahmad Sopyan | [Read More](https://medium.com/p/431c560cb54d) |
-| Thu, 08 May 2025 02:45:46 GMT | No Auth, No Problem: The API Vulnerability That Led to Full Account Takeover | akr3ch | [Read More](https://medium.com/p/199c6d7e7fa7) |
-| Thu, 08 May 2025 02:32:36 GMT | Day 19: Analyzing DNS Logs — Detection Use Cases and How to Spot Malicious Activity | Bl@ckC!pH3r | [Read More](https://medium.com/p/5171b4068e2f) |
-| Thu, 08 May 2025 02:22:06 GMT | Unlocking the Power of HSM Simulators: A Developer’s Secret Weapon | Swathi Cl | [Read More](https://medium.com/p/2702b3f1e97a) |
-| Thu, 08 May 2025 02:08:23 GMT | The Never-Ending Loop of Healing | Alexandra Prestinary | [Read More](https://medium.com/p/4c1f1761d609) |
-| Thu, 08 May 2025 02:04:43 GMT | After cancer: Between two rooms | Peter Moroney | [Read More](https://medium.com/p/92e269df0b8a) |
