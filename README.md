@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 13:25:00 GMT | Fortify-Open Text SAST Detailed Installation Guide (Windows & Linux) | Kerem | [Read More](https://medium.com/p/9de01f516cc1) |
+| Thu, 08 May 2025 13:21:27 GMT | Five MCP Risks You Don’t Want in Production | AI Rabbit | [Read More](https://medium.com/p/b2e9805f4b16) |
+| Thu, 08 May 2025 13:20:56 GMT | Corporate Greed Chronicles: Cloud Outages to Job Outages, Crowdstrike Laying Off 5% | Namir Sagheenanajar | [Read More](https://medium.com/p/3c4079b4ee7f) |
+| Thu, 08 May 2025 13:17:38 GMT | THM: Ledger | Persecure | [Read More](https://medium.com/p/cfb3e3619bf2) |
+| Thu, 08 May 2025 13:10:00 GMT | Securycor Ltd: Your Trusted Partner for Professional Security Services | Travel time | [Read More](https://medium.com/p/3d091c494df4) |
+| Thu, 08 May 2025 13:08:00 GMT | Golden Chickens dropped TerraStealerV2 — fake résumés, real pain. | Wes Young | [Read More](https://medium.com/p/c32d6211a09f) |
+| Thu, 08 May 2025 13:04:24 GMT | Build an Almost Free Website | Mikes_Hacks | [Read More](https://medium.com/p/65c26ec444f9) |
+| Thu, 08 May 2025 13:02:15 GMT | Hardened Container Build Chains with Nix: Reproducible Builds for Compliance-Critical Environments | Sachin Rajakaruna | [Read More](https://medium.com/p/b42025c4b70e) |
+| Thu, 08 May 2025 13:01:08 GMT | How to Choose the Right Cybersecurity Course in India | Edgar luis | [Read More](https://medium.com/p/99829e82ab88) |
+| Thu, 08 May 2025 12:56:25 GMT | Can Usability and Cybersecurity Really Get Along? | Ngatz | [Read More](https://medium.com/p/9dee6cf3ccbb) |
+| Thu, 08 May 2025 12:56:20 GMT | Top Cybersecurity Threats Brisbane SMEs Face in 2025 | Elevate | [Read More](https://medium.com/p/7da09ac4b8b4) |
+| Thu, 08 May 2025 12:51:56 GMT | Build a Phishing Detection Bot With Gmail, VirusTotal, and GPT | Corey Jones | [Read More](https://medium.com/p/de9cb7290596) |
+| Thu, 08 May 2025 12:44:14 GMT | DC-3 Machine (Vulnhub) | Amalpp | [Read More](https://medium.com/p/d5f5b509a9a4) |
 | Thu, 08 May 2025 12:30:32 GMT | CVE-2024–6648: Mi primer CVE | n0d0n | [Read More](https://medium.com/p/3c945bfbcb2f) |
 | Thu, 08 May 2025 12:26:40 GMT | NIST AI 100–1: Sect. 5 Core Functions and 5.1 Governance | David Scott | [Read More](https://medium.com/p/a1b8b80e4250) |
 | Thu, 08 May 2025 12:25:33 GMT | Level Up Your Security Posture: Why VAPT is Crucial in the Age of Cloud and Ransomware | West Advanced Technologies Inc | [Read More](https://medium.com/p/fade6c3b0243) |
@@ -101,16 +114,3 @@ from Your Phone — FluBott | KLEAP Institute of Information Security | [Rea
 | Thu, 08 May 2025 08:10:56 GMT | How to Escalate The Payload On The Infected Machine. | NnFace | [Read More](https://medium.com/p/1d1beaa560ef) |
 | Thu, 08 May 2025 08:09:13 GMT | Securing Patient Data: Cybersecurity Essentials for Dental Practices | Anablock | [Read More](https://medium.com/p/0fc00410f34c) |
 | Thu, 08 May 2025 08:08:46 GMT | What Are Cybersecurity Regulations? The Definitive Guide for 2025 | Diehardmclane | [Read More](https://medium.com/p/562bf7e30329) |
-| Thu, 08 May 2025 08:08:35 GMT | SSL Certificate Expired? Here’s What Happens and How to Renew It | CheapSSLweb | [Read More](https://medium.com/p/59f7e30bc5ce) |
-| Thu, 08 May 2025 08:01:42 GMT | The Hacker’s lifeline: Command and Control (C2) Channels | Bl@ckC!pH3r | [Read More](https://medium.com/p/c5c519064f31) |
-| Thu, 08 May 2025 07:55:07 GMT | ประจำวันพฤหัสบดีที่ 8 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/5035d1ff0caf) |
-| Thu, 08 May 2025 07:53:19 GMT | One Hacker, Many Solutions: From Smartphones to Cybersecurity | Noblehackers                   The Noble Hackers | [Read More](https://medium.com/p/40d8b05d0328) |
-| Thu, 08 May 2025 07:37:52 GMT | ⚔️ Unsafe Eval = Unlimited Control: How a JS Sink Let Me Run Anything | Iski | [Read More](https://medium.com/p/60794929a295) |
-| Thu, 08 May 2025 07:34:58 GMT | Bilgisayar Ağları Nedir? - Siber Güvenliğin Temeli: Ağları Anlamak | Irem | [Read More](https://medium.com/p/ee07ca956bea) |
-| Thu, 08 May 2025 07:34:44 GMT | Hosting Tor v3 Onion Services & Creating Vanity .onion Addresses — A Complete Guide | Ayush P | [Read More](https://medium.com/p/748d02ac6b7f) |
-| Thu, 08 May 2025 07:31:47 GMT | What is CCTV Monitoring and How Does it Work? | Jane Tang | [Read More](https://medium.com/p/db192c3b9d68) |
-| Thu, 08 May 2025 07:28:39 GMT | Nmap for Beginners – The First Tool I Learned as a Hacker | Tanzeem Khatri | [Read More](https://medium.com/p/1ffb64af4502) |
-| Thu, 08 May 2025 07:22:04 GMT | Ethical Hacking Summer Internship Program in Delhi | cyber security Updates | [Read More](https://medium.com/p/b62ee8143e46) |
-| Thu, 08 May 2025 07:21:40 GMT | How to share sensitive information securely with your friends without any third party tool | Jiahao Ji Zhou | [Read More](https://medium.com/p/8fb25fcdce4f) |
-| Thu, 08 May 2025 07:16:25 GMT | Top 5 money making AI tools (2025). | Rishav anand | [Read More](https://medium.com/p/fc3989a3768b) |
-| Thu, 08 May 2025 07:16:03 GMT | Secure Email Gateway: Essential Protection for Business Communications | Ayush | [Read More](https://medium.com/p/98580438a68a) |
