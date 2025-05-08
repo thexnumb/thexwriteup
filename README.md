@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 May 2025 18:17:55 GMT | AWS IAM Enumeration . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/d2a66ffc35ef) |
+| Thu, 08 May 2025 18:13:26 GMT | The Weight of Wanting More: Being Queer, Sensitive, and Misunderstood in an Uncertain World | matthew | [Read More](https://medium.com/p/e60a7d2f0928) |
+| Thu, 08 May 2025 18:09:46 GMT | Once we land on a low-privileged user shell in our Windows target it’s crucial to know what to and… | Evyeveline | [Read More](https://medium.com/p/9bedccf0728c) |
+| Thu, 08 May 2025 18:09:17 GMT | Navigating Files and Directories in Linux | Warmann Onisowurun | [Read More](https://medium.com/p/b5f0e95b689f) |
+| Thu, 08 May 2025 18:03:20 GMT | ✨ Introducing: The “Dear Me” Series — Letters to My Future Self ✨ | Oluwadamilola Fabiyi | [Read More](https://medium.com/p/7bece5c96c6c) |
+| Thu, 08 May 2025 18:02:40 GMT | A Love Letter to Laughter | McCauley | [Read More](https://medium.com/p/978c95a416a8) |
+| Thu, 08 May 2025 18:01:47 GMT | “It’s Just a Wallet”… Until It’s Gone: What Nobody Tells You About Wallet Security in Crypto. | Iyonmana Adesuwa | [Read More](https://medium.com/p/2faf98f7a35a) |
+| Thu, 08 May 2025 18:00:39 GMT | Goodbye Hardcoded Secrets: Hello Managed Identity! | Vijesh Vijayan Nair | [Read More](https://medium.com/p/eedfac0937e3) |
+| Thu, 08 May 2025 18:00:17 GMT | Understanding Security Models: Bell-LaPadula, Biba, and Clark-Wilson | 0xr4m! | [Read More](https://medium.com/p/d1b6a219da4a) |
+| Thu, 08 May 2025 17:59:21 GMT | From Curiosity to Capability: My Life-Changing Journey Through the VAPT Cybersecurity Mentorship… | Abdulazeezuthman | [Read More](https://medium.com/p/0a7a1f9e0b3c) |
+| Thu, 08 May 2025 17:56:43 GMT | The Courage to Be Human | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/ef698dfeb2cc) |
+| Thu, 08 May 2025 17:56:25 GMT | Talk on “Meta Concerns in ML Security/Privacy” with Professor N. Asokan from University of Waterloo | AYE MIN KHANT | [Read More](https://medium.com/p/61adf30bc8d5) |
+| Thu, 08 May 2025 17:54:13 GMT | Logs, Sweat, and Suricata: My Journey to a Real-Time Threat Hunting Powerhouse | Manish Rawat | [Read More](https://medium.com/p/51c217b621fb) |
+| Thu, 08 May 2025 17:53:19 GMT | Networking Concepts — TryHackMe room writeup | Taylor Wavra | [Read More](https://medium.com/p/b58671619008) |
+| Thu, 08 May 2025 17:48:41 GMT | The Story Behind 4 Vulnerabilities in a Single Target | Mahmoud elsadey | [Read More](https://medium.com/p/11f89224d585) |
+| Thu, 08 May 2025 17:37:37 GMT | Play Ransomware Sneaks In with a Windows Zero-Day: Inside the CVE-2025–29824 Attack | Ismail Tasdelen | [Read More](https://medium.com/p/e944fbfefd77) |
 | Thu, 08 May 2025 17:24:05 GMT | Legal problems of Information Technologies and what to know as a professional | Brugosofi | [Read More](https://medium.com/p/400ed5ad4c10) |
 | Thu, 08 May 2025 17:15:32 GMT | Navigating the Jurisprudential Quagmire of Encryption Policy in the Aftermath of the 2025 U.S. | Lokakreeti Neog | [Read More](https://medium.com/p/9c1728596f8e) |
 | Thu, 08 May 2025 17:14:54 GMT | Remote Work Security: Best Practices for Distributed Teams | Ahmad Javed | [Read More](https://medium.com/p/6b44ddef0cd5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 13:20:56 GMT | Corporate Greed Chronicles: Cloud Outages to Job Outages, Crowdstrike Laying Off 5% | Namir Sagheenanajar | [Read More](https://medium.com/p/3c4079b4ee7f) |
 | Thu, 08 May 2025 13:17:38 GMT | THM: Ledger | Persecure | [Read More](https://medium.com/p/cfb3e3619bf2) |
 | Thu, 08 May 2025 13:10:00 GMT | Securycor Ltd: Your Trusted Partner for Professional Security Services | Travel time | [Read More](https://medium.com/p/3d091c494df4) |
-| Thu, 08 May 2025 13:08:00 GMT | Golden Chickens dropped TerraStealerV2 — fake résumés, real pain. | Wes Young | [Read More](https://medium.com/p/c32d6211a09f) |
-| Thu, 08 May 2025 13:04:24 GMT | Build an Almost Free Website | Mikes_Hacks | [Read More](https://medium.com/p/65c26ec444f9) |
-| Thu, 08 May 2025 13:02:15 GMT | Hardened Container Build Chains with Nix: Reproducible Builds for Compliance-Critical Environments | Sachin Rajakaruna | [Read More](https://medium.com/p/b42025c4b70e) |
-| Thu, 08 May 2025 13:01:08 GMT | How to Choose the Right Cybersecurity Course in India | Edgar luis | [Read More](https://medium.com/p/99829e82ab88) |
-| Thu, 08 May 2025 12:56:25 GMT | Can Usability and Cybersecurity Really Get Along? | Ngatz | [Read More](https://medium.com/p/9dee6cf3ccbb) |
-| Thu, 08 May 2025 12:56:20 GMT | Top Cybersecurity Threats Brisbane SMEs Face in 2025 | Elevate | [Read More](https://medium.com/p/7da09ac4b8b4) |
-| Thu, 08 May 2025 12:51:56 GMT | Build a Phishing Detection Bot With Gmail, VirusTotal, and GPT | Corey Jones | [Read More](https://medium.com/p/de9cb7290596) |
-| Thu, 08 May 2025 12:44:48 GMT | Exposing a Simple Bug That Crashed an Organization’s Forum | Mo2men Elmady | [Read More](https://medium.com/p/8ac532157d6a) |
-| Thu, 08 May 2025 12:44:14 GMT | DC-3 Machine (Vulnhub) | Amalpp | [Read More](https://medium.com/p/d5f5b509a9a4) |
-| Thu, 08 May 2025 12:30:32 GMT | CVE-2024–6648: Mi primer CVE | n0d0n | [Read More](https://medium.com/p/3c945bfbcb2f) |
-| Thu, 08 May 2025 12:26:40 GMT | NIST AI 100–1: Sect. 5 Core Functions and 5.1 Governance | David Scott | [Read More](https://medium.com/p/a1b8b80e4250) |
-| Thu, 08 May 2025 12:25:33 GMT | Level Up Your Security Posture: Why VAPT is Crucial in the Age of Cloud and Ransomware | West Advanced Technologies Inc | [Read More](https://medium.com/p/fade6c3b0243) |
-| Thu, 08 May 2025 12:20:27 GMT | Building a Secure Infrastructure with Docker, Endian Firewall, and Linux VMs from Scratch-Part3… | Firas Meddeb | [Read More](https://medium.com/p/8b4f6725da48) |
-| Thu, 08 May 2025 12:16:19 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/7eace6c50147) |
-| Thu, 08 May 2025 12:11:06 GMT | Double Trouble for Hackers: Why 2FA is Your Best Mate | Alasdair Roddick | [Read More](https://medium.com/p/3d16a507469d) |
-| Thu, 08 May 2025 12:05:52 GMT | Hire Licensed Event Security Staff in London for a Safe and Successful Summer | waeventservices.co.uk/ | [Read More](https://medium.com/p/cd90bddeab64) |
