@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 05:36:02 GMT | Vulnerability Management in Cloud-Native Environments: A Comprehensive Guide | Paritosh | [Read More](https://medium.com/p/38fb59cec36a) |
+| Fri, 09 May 2025 05:29:48 GMT | The Ultimate List of 100 Essential Cybersecurity Tools (2024 Edition) | Kalyanib | [Read More](https://medium.com/p/9b288312e206) |
+| Fri, 09 May 2025 05:27:18 GMT | Cybersecurity Solutions: Strengthening Your Business with NetImpact Strategies | Netimpact strategies | [Read More](https://medium.com/p/de22b0cdf731) |
+| Fri, 09 May 2025 05:25:53 GMT | 38,000+ FreeDrain Subdomains Are Exploiting SEO to Steal Your Crypto Wallet Seed Phrases | Jiniyaasma | [Read More](https://medium.com/p/75860d6cf3fd) |
+| Fri, 09 May 2025 05:25:50 GMT | The Less Sexy Side of Cyber — why good reporting matters | Lee Barney | [Read More](https://medium.com/p/bb7af0415b78) |
+| Fri, 09 May 2025 05:22:35 GMT | Palo Alto Networks Prisma Cloud Compute: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9a541eadd602) |
 | Fri, 09 May 2025 05:14:23 GMT | Auto Traffic Monitoring Using Video Analytics — UAE | Tekhabeeb | [Read More](https://medium.com/p/bec90f678620) |
 | Fri, 09 May 2025 05:11:47 GMT | SUNSET | farsana77 | [Read More](https://medium.com/p/34840e33c85b) |
 | Fri, 09 May 2025 04:48:58 GMT | ️Recon Automation Like a Pro: My 5-Stage System to Catch More Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/4fff7b7c4726) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 19:50:57 GMT | How I Got a Free Order by Bypassing Login — My First Real-World Bug | Moh2005rr | [Read More](https://medium.com/p/38798b79a9d7) |
 | Thu, 08 May 2025 19:50:55 GMT | BEYOND THE FACADE: UNLOCKING THE POWER OF EMOTIONAL AUTHENTICITY IN MEN | Fedude Annie | [Read More](https://medium.com/p/db3df4f29912) |
 | Thu, 08 May 2025 19:42:13 GMT | My only competition is me . | My Blog | [Read More](https://medium.com/p/270e06568a91) |
-| Thu, 08 May 2025 19:40:46 GMT | Finding God in the Dark: The Cost of Letting Go | TF Reynard | [Read More](https://medium.com/p/3d43780565f3) |
-| Thu, 08 May 2025 19:32:17 GMT | This AI Code Review Tool Caught 95% of Our Errors — Game-Changer! | DevRooted | [Read More](https://medium.com/p/610997a45aab) |
-| Thu, 08 May 2025 19:23:24 GMT | How I Use AuditD to Catch Silent Security Threats on Linux | Faruk Ahmed | [Read More](https://medium.com/p/9e9b5ba48895) |
-| Thu, 08 May 2025 19:23:09 GMT | What Is Firewall Pass Through and Why Does It Matter? | SafeAeon Inc. | [Read More](https://medium.com/p/785d577c9abf) |
-| Thu, 08 May 2025 19:20:41 GMT | India-Pakistan Conflict: The Rising Threat of Cyberwarfare on the Modern Battlefield | Vaishnavid | [Read More](https://medium.com/p/6a238e746e8a) |
-| Thu, 08 May 2025 19:14:35 GMT | Hacking PAK website in Mass…. | Darshan Naresh Naik | [Read More](https://medium.com/p/46e4fa4c2f5c) |
