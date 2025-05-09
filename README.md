@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 20:16:01 GMT | How a Misconfigured Endpoint Exposed Over 3 Million Users and Access to Other Applications | Bryan Muñoz | [Read More](https://medium.com/p/f3697737c158) |
+| Fri, 09 May 2025 20:10:19 GMT | Cloud Security Fundamentals On AWS | Arion Nagappen | [Read More](https://medium.com/p/25b1384b101a) |
+| Fri, 09 May 2025 20:05:48 GMT | I Analyzed The Privacy Policies of 5 Popular Apps(What I Found is Shocking) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/d15be80c7bd7) |
+| Fri, 09 May 2025 20:04:19 GMT | Public Charging Stations: The Security Risk You’re Overlooking? | Karl Buhl | [Read More](https://medium.com/p/8958be1a7276) |
+| Fri, 09 May 2025 20:03:13 GMT | Packing and Unpacking | xwxrtxn | [Read More](https://medium.com/p/7d8f676f2a71) |
+| Fri, 09 May 2025 19:53:48 GMT | Penguin Chronicles — My Linux Origin Story | Ace | [Read More](https://medium.com/p/1d6eec36f50f) |
+| Fri, 09 May 2025 19:42:14 GMT | 3 Cybersecurity Skills You Don’t Realize You Already Have | Jbird | [Read More](https://medium.com/p/7d7bfc0e6fed) |
+| Fri, 09 May 2025 19:38:58 GMT | The $1.8 Billion Mistake(This Will End Your Business) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/021f8b906a9d) |
 | Fri, 09 May 2025 19:31:14 GMT | Dear Diary; My younger self and I. | Favour Ugbor. | [Read More](https://medium.com/p/d53482130668) |
 | Fri, 09 May 2025 19:30:32 GMT | Employee Monitoring Software Abused in Ransomware Attacks | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/59187e3c6177) |
+| Fri, 09 May 2025 19:29:33 GMT | The #1 Mistake Guaranteed to Lose You Customers(And How To Fix It) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/985f41adeed7) |
+| Fri, 09 May 2025 19:28:37 GMT | Persistent Cyber Threats in the Investment Sector: Control, Surveillance, and Insider Exploitation | 0trust0day | [Read More](https://medium.com/p/b1f62dc143bd) |
 | Fri, 09 May 2025 19:20:13 GMT | Hidden Dangers of Public Wi-Fi(And How to Protect Yourself) | Jason | [Read More](https://medium.com/p/ac8a6e0a481c) |
 | Fri, 09 May 2025 19:17:00 GMT | Cybersecurity Culture: Building Security from the Inside Out | Maged Anas | [Read More](https://medium.com/p/b767f6d1d615) |
 | Fri, 09 May 2025 19:12:14 GMT | Reviewing Penetration Testing Contracts | Kulkan Security | [Read More](https://medium.com/p/6e0e615f48e6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 14:00:39 GMT | Squid — Port 3128 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/4cc4adcff83a) |
 | Fri, 09 May 2025 13:58:41 GMT | Cyber Briefing: 2025.05.09 | CyberMaterial | [Read More](https://medium.com/p/d43d78831655) |
 | Fri, 09 May 2025 13:58:01 GMT | Zero Trust Mimarisi: Artık Kimseye Güvenilmiyor | Mehmet Nur Devecioğlu | [Read More](https://medium.com/p/ebb3d4f5f164) |
-| Fri, 09 May 2025 13:55:26 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/6acecf5f3be3) |
-| Fri, 09 May 2025 13:53:59 GMT | Will AI Deepen the Cyber‑Security Skills Gap? | Paul Tuck | [Read More](https://medium.com/p/a1974ca7a1e3) |
-| Fri, 09 May 2025 13:37:53 GMT | LOCKBIT INTERNALS LEAKED | Rakesh Krishnan | [Read More](https://medium.com/p/32b3287860ca) |
-| Fri, 09 May 2025 13:36:02 GMT | Threat Hunting Maturity Model (THMM) Applications: Meaning and Implementation of the Maturity… | Esra Kayhan | [Read More](https://medium.com/p/f968d7483ab8) |
-| Fri, 09 May 2025 13:34:57 GMT | Elasticsearch Güvenlik Açığı (CVE-2014–3120): Groovy ile Gelen Tehlike | Dursunngvnn | [Read More](https://medium.com/p/8d227f047def) |
-| Fri, 09 May 2025 13:30:06 GMT | Google Gemini Nano: The Future of On-Device AI | Om Choudhary | [Read More](https://medium.com/p/6a82024c6ee1) |
-| Fri, 09 May 2025 13:26:18 GMT | Zero Trust Mimarisi: Artık Kimseye Güvenilmiyor | Mehmet Nur Devecioğlu | [Read More](https://medium.com/p/07146caf4355) |
-| Fri, 09 May 2025 13:19:31 GMT | MITRE Technique and Detection Opportunities — Finding Minhook in a sideloading attack — and Sweden… | MITRE Doggy | [Read More](https://medium.com/p/52f896c42ecc) |
-| Fri, 09 May 2025 13:15:29 GMT | MITRE Technique and Detection Opportunities — Cyber criminals impersonate payroll, HR and benefits… | MITRE Doggy | [Read More](https://medium.com/p/97974859030c) |
-| Fri, 09 May 2025 13:12:59 GMT | Transparent Data Encryption — TDE | Nitin Shete | [Read More](https://medium.com/p/19222764edf5) |
