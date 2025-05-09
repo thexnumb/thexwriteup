@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 06:24:22 GMT | Cyber War: A Growing Threat to Our Digital World — How We Can Safeguard Our Future | Badal kathayat | [Read More](https://medium.com/p/dac9a2c41e4b) |
+| Fri, 09 May 2025 06:17:55 GMT | $840 Bounty: How I Stole OAuth Tokens from Twitter | Monika sharma | [Read More](https://medium.com/p/733f82857eda) |
+| Fri, 09 May 2025 06:11:24 GMT | SonicWall’s SMA 100 Nightmare: How Three Flaws Let Hackers Run Code as Root ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/b507c558b7dc) |
+| Fri, 09 May 2025 06:06:46 GMT | How did I get my first pentesting internship as a university student without any pentesting certs? | GLITCH | [Read More](https://medium.com/p/e753db501219) |
+| Fri, 09 May 2025 06:04:51 GMT | FOFA Dorking - Part 2 | AbhirupKonwar | [Read More](https://medium.com/p/106994da9b96) |
+| Fri, 09 May 2025 06:03:58 GMT | Qilin Ransomware Steals the Show: 72 Data Leaks in April 2025’s Cyber Chaos | Ismail Tasdelen | [Read More](https://medium.com/p/c0ee32d8e68c) |
+| Fri, 09 May 2025 06:03:21 GMT | CodeGuardian OpsIQ – The Secure AI Strategy Every Engineering Org Needs Now | Gregory Tzvi Kaidanov | [Read More](https://medium.com/p/8c32ea359c69) |
+| Fri, 09 May 2025 06:02:32 GMT | The Linux Concept Journey — Snap | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f39201df078d) |
+| Fri, 09 May 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — May 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/83a659cac47a) |
+| Fri, 09 May 2025 05:58:29 GMT | Russian Hackers’ ClickFix Scam: How Fake CAPTCHAs Unleash LOSTKEYS Malware ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c81c8bf88f87) |
+| Fri, 09 May 2025 05:57:33 GMT | Pre Security | DESYNC | [Read More](https://medium.com/p/dfd120d446a1) |
+| Fri, 09 May 2025 05:54:25 GMT | MirrorFace’s Sneaky Cyber Spree: ROAMINGMOUSE and Upgraded ANEL Malware Hit Japan and Taiwan… | Ismail Tasdelen | [Read More](https://medium.com/p/66877910ec90) |
+| Fri, 09 May 2025 05:53:37 GMT | Reverse Engineering Malware: Unveiling the Hidden Threats | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/d7711da7bedd) |
+| Fri, 09 May 2025 05:50:38 GMT | Cisco’s IOS XE Nightmare: How a Hard-Coded JWT in CVE-2025–20188 Let Hackers Go Full Root ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/48dc088a8bdb) |
+| Fri, 09 May 2025 05:44:20 GMT | Buy Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/e2e6b9b97acd) |
+| Fri, 09 May 2025 05:44:02 GMT | OttoKit WordPress Plugin Hacked: How 100K+ Sites Fell Prey to Sneaky Exploits ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/3c8ddac468e8) |
+| Fri, 09 May 2025 05:42:15 GMT | Apache Server Series — Part 4:Apache Hardening (Secure Your Web Server) | Parthraj Gohil | [Read More](https://medium.com/p/e7c2f0386c14) |
 | Fri, 09 May 2025 05:36:02 GMT | Vulnerability Management in Cloud-Native Environments: A Comprehensive Guide | Paritosh | [Read More](https://medium.com/p/38fb59cec36a) |
 | Fri, 09 May 2025 05:29:48 GMT | The Ultimate List of 100 Essential Cybersecurity Tools (2024 Edition) | Kalyanib | [Read More](https://medium.com/p/9b288312e206) |
 | Fri, 09 May 2025 05:27:18 GMT | Cybersecurity Solutions: Strengthening Your Business with NetImpact Strategies | Netimpact strategies | [Read More](https://medium.com/p/de22b0cdf731) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 21:10:31 GMT | My Cybersecurity Journey with Digitanotion Limited: Real-World Skills, Real Growth | Nanfwang Solomon | [Read More](https://medium.com/p/d64952021bed) |
 | Thu, 08 May 2025 21:06:26 GMT | Social security in India | The United Indian | [Read More](https://medium.com/p/32180e5e5784) |
 | Thu, 08 May 2025 21:02:38 GMT | The Cost of Ignoring Cybersecurity | John Locke | [Read More](https://medium.com/p/741c610fa5cf) |
-| Thu, 08 May 2025 20:55:47 GMT | GOAD Part 1: Scanning the Forest - Reconnaissance in an Active Directory Jungle | Cyb3rByte | [Read More](https://medium.com/p/53a125bd2486) |
-| Thu, 08 May 2025 20:44:22 GMT | Türkiye’nin Yeni Nesil Siber Güvenlik Forumu: HackForum.org | HackForum.org | [Read More](https://medium.com/p/e86c024cf277) |
-| Thu, 08 May 2025 20:40:34 GMT | Why Cybersecurity is Crucial for Business Continuity and Success | Networth | [Read More](https://medium.com/p/53a3c2907b5d) |
-| Thu, 08 May 2025 20:37:07 GMT | Can Diplomacy Save India and Pakistan? Lessons from 75 Years of Conflict | Sanyamdubey | [Read More](https://medium.com/p/1056c77472ef) |
-| Thu, 08 May 2025 20:31:34 GMT | The Invisible Hack: Understanding Cookie and Session Hijacking in Everyday Life | All in One security | [Read More](https://medium.com/p/4be8aae83fbe) |
-| Thu, 08 May 2025 20:26:41 GMT | ETW Ghost Logger | S12 - H4CK | [Read More](https://medium.com/p/be16a635e7a2) |
-| Thu, 08 May 2025 20:26:36 GMT | Exploiting File Upload and SSRF Vulnerabilities | musayyab sharif | [Read More](https://medium.com/p/e58bc984b285) |
-| Thu, 08 May 2025 20:26:36 GMT | TCM Security — Academy | Drew | [Read More](https://medium.com/p/52804b0c1219) |
-| Thu, 08 May 2025 20:23:10 GMT | Kaspersky Internet Security Review: A Detailed Teaching | Neo Thompson (Tech-Sonar Technologies) | [Read More](https://medium.com/p/ba4adab9f05d) |
-| Thu, 08 May 2025 20:11:51 GMT | PowerSchool Hacker Now Targeting Individual School Districts in Ongoing Extortion Campaign | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/5b4a7d8a85d2) |
-| Thu, 08 May 2025 20:09:27 GMT | Recon Solana: My Go-To Combo for Snagging Token Claims | RECON | [Read More](https://medium.com/p/d5169ae64e87) |
-| Thu, 08 May 2025 20:06:39 GMT | Three Reasons Healthcare Organizations Continue to Struggle with Access Control (and How to Fix… | Shereese Maynard | [Read More](https://medium.com/p/133f146d166b) |
-| Thu, 08 May 2025 20:00:36 GMT | TeleMessage Signal Hack: Why Your Chats Could Be Next If We Ignore These Flaws | Li Zixiang | [Read More](https://medium.com/p/37d64065b810) |
-| Thu, 08 May 2025 19:56:42 GMT | How I Found Peace of Mind: Simple Tricks to Keep Looters Off Your Property | Frisk | [Read More](https://medium.com/p/1d5d1f55d06e) |
-| Thu, 08 May 2025 19:50:57 GMT | How I Got a Free Order by Bypassing Login — My First Real-World Bug | Moh2005rr | [Read More](https://medium.com/p/38798b79a9d7) |
-| Thu, 08 May 2025 19:50:55 GMT | BEYOND THE FACADE: UNLOCKING THE POWER OF EMOTIONAL AUTHENTICITY IN MEN | Fedude Annie | [Read More](https://medium.com/p/db3df4f29912) |
-| Thu, 08 May 2025 19:42:13 GMT | My only competition is me . | My Blog | [Read More](https://medium.com/p/270e06568a91) |
