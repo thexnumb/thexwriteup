@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 11:09:23 GMT | How IDS, IPS, and IDPS Protect Your Network Like Digital Bodyguards | Cyber T | [Read More](https://medium.com/p/1f6f9a5aa338) |
+| Fri, 09 May 2025 11:04:04 GMT | Automating Serialized File Analysis and Security Scanning in CI/CD Pipelines | Femi Oyesanya | [Read More](https://medium.com/p/43d9fba06db9) |
+| Fri, 09 May 2025 11:02:38 GMT | Integrating SAST and DAST into DevOps Using OWASP ZAP and SonarQube | Varul Arora | [Read More](https://medium.com/p/50ff74c23017) |
+| Fri, 09 May 2025 10:47:18 GMT | Offsec →SPX walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/651ac8926612) |
+| Fri, 09 May 2025 10:46:48 GMT | Offsec →Jordak walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/76a2d1ef1a2e) |
+| Fri, 09 May 2025 10:44:38 GMT | TUI tool for generating packets of arbitrary input and monitoring packets! | Ochi Daiki | [Read More](https://medium.com/p/6dc6d2212f2a) |
+| Fri, 09 May 2025 10:39:46 GMT | This AI can find your face online — should you be worried? | reverse-image-search | [Read More](https://medium.com/p/7743abc9f1ad) |
+| Fri, 09 May 2025 10:36:42 GMT | IDS vs. IPS — What’s the Difference and When Do You Use Each? | Richard Dosumu | [Read More](https://medium.com/p/69f4df0882f6) |
 | Fri, 09 May 2025 10:29:51 GMT | Linux Commands and Tears | diaryofacyberfan | [Read More](https://medium.com/p/29f08360f05f) |
 | Fri, 09 May 2025 10:26:11 GMT | Cybersecurity Stocks In India: A Comprehensive List Of Top Players | Kundkundtc | [Read More](https://medium.com/p/dca2e837898d) |
 | Fri, 09 May 2025 10:24:56 GMT | Russian Hackers Now Use Fake CAPTCHAs to Steal Your Files, and How AI Could’ve Caught It | TechBrain | [Read More](https://medium.com/p/9f1bd70d22fd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 05:44:20 GMT | Buy Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/e2e6b9b97acd) |
 | Fri, 09 May 2025 05:44:02 GMT | OttoKit WordPress Plugin Hacked: How 100K+ Sites Fell Prey to Sneaky Exploits ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/3c8ddac468e8) |
 | Fri, 09 May 2025 05:42:15 GMT | Apache Server Series — Part 4:Apache Hardening (Secure Your Web Server) | Parthraj Gohil | [Read More](https://medium.com/p/e7c2f0386c14) |
-| Fri, 09 May 2025 05:36:02 GMT | Vulnerability Management in Cloud-Native Environments: A Comprehensive Guide | Paritosh | [Read More](https://medium.com/p/38fb59cec36a) |
-| Fri, 09 May 2025 05:29:48 GMT | The Ultimate List of 100 Essential Cybersecurity Tools (2024 Edition) | Kalyanib | [Read More](https://medium.com/p/9b288312e206) |
-| Fri, 09 May 2025 05:27:18 GMT | Cybersecurity Solutions: Strengthening Your Business with NetImpact Strategies | Netimpact strategies | [Read More](https://medium.com/p/de22b0cdf731) |
-| Fri, 09 May 2025 05:25:53 GMT | 38,000+ FreeDrain Subdomains Are Exploiting SEO to Steal Your Crypto Wallet Seed Phrases | Jiniyaasma | [Read More](https://medium.com/p/75860d6cf3fd) |
-| Fri, 09 May 2025 05:25:50 GMT | The Less Sexy Side of Cyber — why good reporting matters | Lee Barney | [Read More](https://medium.com/p/bb7af0415b78) |
-| Fri, 09 May 2025 05:22:35 GMT | Palo Alto Networks Prisma Cloud Compute: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9a541eadd602) |
-| Fri, 09 May 2025 05:14:23 GMT | Auto Traffic Monitoring Using Video Analytics — UAE | Tekhabeeb | [Read More](https://medium.com/p/bec90f678620) |
-| Fri, 09 May 2025 05:11:47 GMT | SUNSET | farsana77 | [Read More](https://medium.com/p/34840e33c85b) |
