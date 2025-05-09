@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 16:20:14 GMT | HTB — Bank Write-up | Nikita Astashenko | [Read More](https://medium.com/p/425461ace183) |
+| Fri, 09 May 2025 16:15:11 GMT | TryHackMe - SOC Metrics and Objectives - WriteUp | Axoloth | [Read More](https://medium.com/p/065588a47c0e) |
+| Fri, 09 May 2025 16:14:37 GMT | Billing -TryHackMe | Peta Pavan | [Read More](https://medium.com/p/e6e7f891688e) |
+| Fri, 09 May 2025 16:05:53 GMT | TryHackme: Kenobi Walkthrough | Ajuzie David | [Read More](https://medium.com/p/fbc3d70cd913) |
+| Fri, 09 May 2025 16:04:50 GMT | Why Cybersecurity in SCADA & PLC Systems Matters More Than Ever | Collin McGee | [Read More](https://medium.com/p/82a3b5372855) |
+| Fri, 09 May 2025 16:04:09 GMT | CTF Write-up: Legacy Hang Tuah | YoussefKandeel | [Read More](https://medium.com/p/22a180912813) |
+| Fri, 09 May 2025 16:01:34 GMT | Task Scheduler Persistence with Python: COM & XML Evasion | Maxwell Cross | [Read More](https://medium.com/p/6c6755746fb2) |
+| Fri, 09 May 2025 15:57:11 GMT | Thalorin: and Asymmetric Advantage for Aerospace and Defense | Thalorin | [Read More](https://medium.com/p/032814d2d058) |
+| Fri, 09 May 2025 15:54:11 GMT | NIST AI 100–1 RMF: Sect. 5.3 -Measuring erformance and Risk | David Scott | [Read More](https://medium.com/p/e0806f1fa1b9) |
+| Fri, 09 May 2025 15:51:37 GMT | How to Secure Kubernetes: Step-by-Step Best Practices for Locking Down Your Cluster ️ | Mahernaija | [Read More](https://medium.com/p/688156f6def2) |
+| Fri, 09 May 2025 15:50:44 GMT | Intro to Cyber Threat Intel - TryHackMe Walkthrough | CyferNest Sec | [Read More](https://medium.com/p/adbc2b2529ad) |
+| Fri, 09 May 2025 15:45:20 GMT | Is Outsourcing Your Help Desk Worth It? 3 Reasons Ontario, CA Companies Say Yes | Zeta Sky | [Read More](https://medium.com/p/e8964209909b) |
+| Fri, 09 May 2025 15:42:36 GMT | PROTECTION VAUDOU POUR TOUTE VOTRE VIE. Téléphone WhatsApp: 00229 01 94 7369 37 | grand maitre marabout lantan | [Read More](https://medium.com/p/4f17889d4ada) |
+| Fri, 09 May 2025 15:42:28 GMT | Mastering Nuclei — The Ultimate Tool for Web Vulnerability Scanning & Bug Bounties | Kshahabaj | [Read More](https://medium.com/p/1dcd5818d85e) |
+| Fri, 09 May 2025 15:40:23 GMT | To Love in the Moment: A Message to the Avoidant Heart | Groovy Spirit Realm | [Read More](https://medium.com/p/ccf251b0b438) |
 | Fri, 09 May 2025 15:33:45 GMT | Maximizing the Value of Managed IT Services in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/bfe60ed13be3) |
 | Fri, 09 May 2025 15:25:07 GMT | Awesome hack I did so far (Real World Scenario) | St01 x kingpromy | [Read More](https://medium.com/p/be5f143a24d9) |
 | Fri, 09 May 2025 15:13:56 GMT | Building a Phishing Attack Simulator | Mullidev! | [Read More](https://medium.com/p/ca405ecd6be8) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 10:24:56 GMT | Russian Hackers Now Use Fake CAPTCHAs to Steal Your Files, and How AI Could’ve Caught It | TechBrain | [Read More](https://medium.com/p/9f1bd70d22fd) |
 | Fri, 09 May 2025 10:21:47 GMT | On Security of IT Security Products | 1AUS FfM | [Read More](https://medium.com/p/24d5a173f626) |
 | Fri, 09 May 2025 10:18:42 GMT | Web Application Security Assessment Using OWASP Juice Shop & OWASP ZAP Part 02 | Soban Malik | [Read More](https://medium.com/p/167b7b572928) |
-| Fri, 09 May 2025 10:14:35 GMT | Army Dog Center Rawalpindi 03009195279 - Khoji Dogs Rawalpindi Official | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/e13ee761b899) |
-| Fri, 09 May 2025 10:13:58 GMT | HIPAA 2025 Security Rule Updates: What Healthcare Organizations Need to Know | Priyansh Shah | [Read More](https://medium.com/p/f06fd0ebba9b) |
-| Fri, 09 May 2025 10:06:55 GMT | NSO Group’s $168M Legal Setback: Implications for Cybersecurity and Privacy | Nexsecura | [Read More](https://medium.com/p/27e33b830bea) |
-| Fri, 09 May 2025 10:05:10 GMT | ️ Investigating User and Access Management in Linux: A Forensics Perspective | Irem | [Read More](https://medium.com/p/e88a5a7a613a) |
-| Fri, 09 May 2025 10:02:50 GMT | Cybersecurity: Protecting the Digital World We Rely On | Hardwin Software Solutions | [Read More](https://medium.com/p/bb829fe87e0a) |
-| Fri, 09 May 2025 10:02:41 GMT | What It’s Like to Build With a Non-Human Teammate | Solo Recon | [Read More](https://medium.com/p/ee5808b8427f) |
-| Fri, 09 May 2025 10:02:34 GMT | The Future of Technology: B Tech in Cloud Technology and Information Security | Aashi | [Read More](https://medium.com/p/e2b3ad417dd0) |
-| Fri, 09 May 2025 09:50:32 GMT | New Book Release: The Cyber Shield: Protecting Your Data and Devices from Cyber Attacks" ️ | SIR BARRON QASEM II ( Qasimius Barronicus) | [Read More](https://medium.com/p/f91959a41828) |
-| Fri, 09 May 2025 09:39:47 GMT | Hackers Hate This One Outsourced Cybersecurity Trick | Magellan Solutions | [Read More](https://medium.com/p/8369428d8b28) |
-| Fri, 09 May 2025 09:37:10 GMT | Why NGFW Alone Isn’t Enough — And What DNA 140 Does Differently | NEXCOM 新漢 | [Read More](https://medium.com/p/0e8b83edaa0f) |
-| Fri, 09 May 2025 09:34:53 GMT | Introduction | Tros Techologies | [Read More](https://medium.com/p/539bd3ae0a07) |
-| Fri, 09 May 2025 09:34:24 GMT | Security Tools Everyone Should Know About | ToolsZone.net | [Read More](https://medium.com/p/b12eca153dff) |
-| Fri, 09 May 2025 09:32:21 GMT | Vrinda AI: Setting the Record Straight Against Fake News and Misinformation | CYBER NEWS HUB | [Read More](https://medium.com/p/7c9177d99aa7) |
-| Fri, 09 May 2025 09:32:00 GMT | Identifying Interested Parties and Their Requirements (Clause 4.2 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/f6324f6ccfa8) |
-| Fri, 09 May 2025 09:30:50 GMT | Enhancing Dependabot Auto-Merging: A Smarter, More Secure Approach | Michaël Vanderheyden | [Read More](https://medium.com/p/da15691f8ea0) |
