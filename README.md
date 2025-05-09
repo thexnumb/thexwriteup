@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 15:33:45 GMT | Maximizing the Value of Managed IT Services in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/bfe60ed13be3) |
+| Fri, 09 May 2025 15:25:07 GMT | Awesome hack I did so far (Real World Scenario) | St01 x kingpromy | [Read More](https://medium.com/p/be5f143a24d9) |
+| Fri, 09 May 2025 15:13:56 GMT | Building a Phishing Attack Simulator | Mullidev! | [Read More](https://medium.com/p/ca405ecd6be8) |
 | Fri, 09 May 2025 15:09:01 GMT | Red Team Araçları ile Güvenlik Zafiyetlerini Keşfedin: SharpHound, Rubeus, Seatbelt, SharpUp… | Rvyd | [Read More](https://medium.com/p/a100fa4a336a) |
 | Fri, 09 May 2025 15:05:52 GMT | Scan Before You Click: A Guide to URL Scanning for Security | Mohamad Mahmood | [Read More](https://medium.com/p/9f057b94384a) |
 | Fri, 09 May 2025 15:02:40 GMT | You’re Not Patching Vulnerabilities. You’re Patching Prioritisation. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/c04d933cd2c1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 09:32:21 GMT | Vrinda AI: Setting the Record Straight Against Fake News and Misinformation | CYBER NEWS HUB | [Read More](https://medium.com/p/7c9177d99aa7) |
 | Fri, 09 May 2025 09:32:00 GMT | Identifying Interested Parties and Their Requirements (Clause 4.2 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/f6324f6ccfa8) |
 | Fri, 09 May 2025 09:30:50 GMT | Enhancing Dependabot Auto-Merging: A Smarter, More Secure Approach | Michaël Vanderheyden | [Read More](https://medium.com/p/da15691f8ea0) |
-| Fri, 09 May 2025 09:17:33 GMT | What Cybersecurity Can Learn From Retail, Admin, and Support Roles | Kurious & Secure - Kokui Agbenu | [Read More](https://medium.com/p/bf1d84dbc36e) |
-| Fri, 09 May 2025 09:17:08 GMT | Keeping Secrets–How to Handle Authentication Data in Low- and Pro-Code Environments | Stefan Schultz | [Read More](https://medium.com/p/768eabb4d20b) |
-| Fri, 09 May 2025 09:13:20 GMT | Can improper implementation of GraphQL resolvers lead to SQL Injection vulnerabilities? ..Yes | Adham Hashem | [Read More](https://medium.com/p/9433ef551e95) |
