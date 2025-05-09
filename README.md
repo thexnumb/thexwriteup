@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 09:34:53 GMT | Introduction | Tros Techologies | [Read More](https://medium.com/p/539bd3ae0a07) |
+| Fri, 09 May 2025 09:34:24 GMT | Security Tools Everyone Should Know About | ToolsZone.net | [Read More](https://medium.com/p/b12eca153dff) |
+| Fri, 09 May 2025 09:32:21 GMT | Vrinda AI: Setting the Record Straight Against Fake News and Misinformation | CYBER NEWS HUB | [Read More](https://medium.com/p/7c9177d99aa7) |
+| Fri, 09 May 2025 09:32:00 GMT | Identifying Interested Parties and Their Requirements (Clause 4.2 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/f6324f6ccfa8) |
+| Fri, 09 May 2025 09:30:50 GMT | Enhancing Dependabot Auto-Merging: A Smarter, More Secure Approach | Michaël Vanderheyden | [Read More](https://medium.com/p/da15691f8ea0) |
 | Fri, 09 May 2025 09:17:33 GMT | What Cybersecurity Can Learn From Retail, Admin, and Support Roles | Kurious & Secure - Kokui Agbenu | [Read More](https://medium.com/p/bf1d84dbc36e) |
+| Fri, 09 May 2025 09:17:08 GMT | Keeping Secrets–How to Handle Authentication Data in Low- and Pro-Code Environments | Stefan Schultz | [Read More](https://medium.com/p/768eabb4d20b) |
 | Fri, 09 May 2025 09:13:20 GMT | Can improper implementation of GraphQL resolvers lead to SQL Injection vulnerabilities? ..Yes | Adham Hashem | [Read More](https://medium.com/p/9433ef551e95) |
 | Fri, 09 May 2025 09:08:58 GMT | Sicherheitsroboter kaufen | Presslink Media | [Read More](https://medium.com/p/5d562f3ae62f) |
 | Fri, 09 May 2025 09:08:40 GMT | Georgia College Student Faces Deportation After Traffic Stop: The Case of Ximena Arias-Cristobal | Prijesh donga | [Read More](https://medium.com/p/961503ee9977) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 03:35:18 GMT | Navigating the Labyrinth of Security and Privacy in the Mobile and IoT Era | Mpandugalang | [Read More](https://medium.com/p/3ad4c0b00f57) |
 | Fri, 09 May 2025 03:31:33 GMT | 5 Kubernetes Security Vulnerabilities I Found in Every Client’s Cluster | Sridhar | [Read More](https://medium.com/p/395320f50f76) |
 | Fri, 09 May 2025 03:27:50 GMT | The Forgotten Tools Key to Advancing your Cyber Security Career | Jbird | [Read More](https://medium.com/p/b9f76f51cab9) |
-| Fri, 09 May 2025 03:25:28 GMT | Navigating the Privacy Maze: Insights from Research on Notices and Choices | Mpandugalang | [Read More](https://medium.com/p/e9910fd7be0e) |
-| Fri, 09 May 2025 03:25:23 GMT | Cracking the Code: Digital Forensics Unveiled | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/6a036e456679) |
-| Fri, 09 May 2025 03:16:07 GMT | Breaking Down The Operation of WannaCry Ransomware | abdur rashid firdaus | [Read More](https://medium.com/p/869671de6f17) |
-| Fri, 09 May 2025 03:15:48 GMT | Navigating the Shadows: Unpacking Private Browsing Usage and Security Indicators | Mpandugalang | [Read More](https://medium.com/p/27fbffc18475) |
-| Fri, 09 May 2025 03:01:10 GMT | Open Redirect Vulnerability: What It Is and Why It Matters | Pawan Jaiswal | [Read More](https://medium.com/p/b600117c61a7) |
-| Fri, 09 May 2025 02:47:38 GMT | To the One who has been avoiding me. | Ema Nymton | [Read More](https://medium.com/p/be0640c535fc) |
