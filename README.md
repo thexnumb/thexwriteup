@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 23:12:22 GMT | N8N Hardening: Complete Guide to Securing Your Automation Workflows | Efrainec | [Read More](https://medium.com/p/aa84c8f07095) |
 | Fri, 09 May 2025 22:40:22 GMT | Microsoft Listens to Security Concerns and Delays New OneDrive Sync | Matthew.Rosenquist | [Read More](https://medium.com/p/bf796b74f183) |
+| Fri, 09 May 2025 22:37:14 GMT | Peer Pressure and Cyberbullying Explained for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/bc3b16379ffc) |
 | Fri, 09 May 2025 22:16:37 GMT | Advanced Persistent Threats (APT): How to Detect and Respond to Sophisticated Cyber Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8786b9b1bcca) |
 | Fri, 09 May 2025 22:06:51 GMT | When I Was Scammed and Left With Nothing, What Did I Learn? | aLuMow | [Read More](https://medium.com/p/e49d97bd9dbd) |
 | Fri, 09 May 2025 21:59:02 GMT | Debugging in the Cloud: The Aftermath of My GCP App Deployment | Aayush.K | [Read More](https://medium.com/p/add400092196) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 15:13:56 GMT | Building a Phishing Attack Simulator | Mullidev! | [Read More](https://medium.com/p/ca405ecd6be8) |
 | Fri, 09 May 2025 15:09:01 GMT | Red Team Araçları ile Güvenlik Zafiyetlerini Keşfedin: SharpHound, Rubeus, Seatbelt, SharpUp… | Rvyd | [Read More](https://medium.com/p/a100fa4a336a) |
 | Fri, 09 May 2025 15:05:52 GMT | Scan Before You Click: A Guide to URL Scanning for Security | Mohamad Mahmood | [Read More](https://medium.com/p/9f057b94384a) |
-| Fri, 09 May 2025 15:02:40 GMT | You’re Not Patching Vulnerabilities. You’re Patching Prioritisation. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/c04d933cd2c1) |
-| Fri, 09 May 2025 15:01:24 GMT | ️ 5 Signs Your Computer Has Been Hacked — And What to Do About It | Alex Hughes | [Read More](https://medium.com/p/25fe08ffdf1e) |
