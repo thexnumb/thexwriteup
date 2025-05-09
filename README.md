@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 05:14:23 GMT | Auto Traffic Monitoring Using Video Analytics — UAE | Tekhabeeb | [Read More](https://medium.com/p/bec90f678620) |
+| Fri, 09 May 2025 05:11:47 GMT | SUNSET | farsana77 | [Read More](https://medium.com/p/34840e33c85b) |
+| Fri, 09 May 2025 04:48:58 GMT | ️Recon Automation Like a Pro: My 5-Stage System to Catch More Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/4fff7b7c4726) |
 | Fri, 09 May 2025 04:42:36 GMT | Cyber-Physical Systems in Defense: Assessing Opportunities and Risks | Data Defendere | [Read More](https://medium.com/p/1080a59bbe2d) |
 | Fri, 09 May 2025 04:42:36 GMT | Phishing Email Analysis walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/e15ea07eb8b9) |
 | Fri, 09 May 2025 04:40:37 GMT | Top 10 Ways Hackers Exploit Web Applications (and How to Prevent Them) | Manish Shivanandhan | [Read More](https://medium.com/p/6dfd05630e2c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 19:23:09 GMT | What Is Firewall Pass Through and Why Does It Matter? | SafeAeon Inc. | [Read More](https://medium.com/p/785d577c9abf) |
 | Thu, 08 May 2025 19:20:41 GMT | India-Pakistan Conflict: The Rising Threat of Cyberwarfare on the Modern Battlefield | Vaishnavid | [Read More](https://medium.com/p/6a238e746e8a) |
 | Thu, 08 May 2025 19:14:35 GMT | Hacking PAK website in Mass…. | Darshan Naresh Naik | [Read More](https://medium.com/p/46e4fa4c2f5c) |
-| Thu, 08 May 2025 19:11:05 GMT | Beware of Interview Scams! | Calvin Pak | [Read More](https://medium.com/p/cbf77d2b34e3) |
-| Thu, 08 May 2025 19:08:49 GMT | Everything You Need to Know About Yuzu Keys for Smooth Gaming | SafeAeon Inc. | [Read More](https://medium.com/p/61010f8dcd6e) |
-| Thu, 08 May 2025 19:06:26 GMT | Windows Persistence Through WMI Event Subscriptions: A DFIR Deep Dive | Roey Bartov | [Read More](https://medium.com/p/010929a67708) |
