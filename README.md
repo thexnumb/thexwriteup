@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 13:19:31 GMT | MITRE Technique and Detection Opportunities — Finding Minhook in a sideloading attack — and Sweden… | MITRE Doggy | [Read More](https://medium.com/p/52f896c42ecc) |
+| Fri, 09 May 2025 13:15:29 GMT | MITRE Technique and Detection Opportunities — Cyber criminals impersonate payroll, HR and benefits… | MITRE Doggy | [Read More](https://medium.com/p/97974859030c) |
+| Fri, 09 May 2025 13:12:59 GMT | Transparent Data Encryption — TDE | Nitin Shete | [Read More](https://medium.com/p/19222764edf5) |
+| Fri, 09 May 2025 13:12:43 GMT | Your GitHub Defaults Are a Cybersecurity Nightmare — Here’s How to Fix Them | Ka Mok | [Read More](https://medium.com/p/1e4b31a9d47b) |
+| Fri, 09 May 2025 13:10:25 GMT | ️ Hide Shellcode in Images: A Red Team Trick You’ve Probably Overlooked | Yua Mikanana | [Read More](https://medium.com/p/4fda876932e9) |
+| Fri, 09 May 2025 13:06:28 GMT | Geen hack in Spanje wel ééntje dichtbij huis | LottaCvUF | [Read More](https://medium.com/p/7ce52ca55f6f) |
+| Fri, 09 May 2025 13:06:07 GMT | Newly Emerged Ransomware Groups in 2025: The Next Wave of Cyber Threats | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/6ace55b7eddc) |
+| Fri, 09 May 2025 13:03:40 GMT | The Dark Side of Cybersecurity: Understanding Cybercrime & How to Fight It | Adhildot | [Read More](https://medium.com/p/18322abc73a0) |
+| Fri, 09 May 2025 13:02:42 GMT | SOC Scalability Without Growing Headcount — Is It Possible? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/84065542b3e7) |
+| Fri, 09 May 2025 12:59:09 GMT | HyperScanner [HxScanner] v1.4: A Fast, Beautiful HTTP & CORS Scanner for Modern Hackers | Neeraj Sah | [Read More](https://medium.com/p/749b36e2d947) |
+| Fri, 09 May 2025 12:57:01 GMT | Quantum-Resistant Federated Kafka: Architecting Secure, Compliant, and Scalable Multi-Cloud Event… | Sachin Rajakaruna | [Read More](https://medium.com/p/7baf1f788268) |
+| Fri, 09 May 2025 12:55:17 GMT | Why SecurA is the Leading Security and Housekeeping Service Provider in Delhi NCR | securasecurty | [Read More](https://medium.com/p/c3e39cc14320) |
+| Fri, 09 May 2025 12:55:15 GMT | Securing Your Django REST API: Authentication, Permissions, and Best Practices | Sarah Mwangi | [Read More](https://medium.com/p/e3fe9c697072) |
+| Fri, 09 May 2025 12:42:38 GMT | 10 Key Things Every Developer Must Know About Security Best Practices (With Simple Examples) | Gulshan N | [Read More](https://medium.com/p/9d3e233a245d) |
 | Fri, 09 May 2025 12:37:26 GMT | Initial Access Brokers Target Brazilian Organizations via Malicious Email Campaigns | CyBlog | [Read More](https://medium.com/p/20ea2f3f2b4a) |
 | Fri, 09 May 2025 12:32:39 GMT | Week 3 in Cybersecurity — Admin Rights, Broken Scripts & Patience Pays Off | Fabián Muñoz | [Read More](https://medium.com/p/bff561ffd717) |
 | Fri, 09 May 2025 12:32:15 GMT | Empowering Cloud Security with Trend Micro- Vision One | Juarait Digital | [Read More](https://medium.com/p/c742c793d1f4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 07:42:37 GMT | What’s In Your C# String Extension Toolbox: Cryptography Utilities | Namir Sagheenanajar | [Read More](https://medium.com/p/7eed27f22962) |
 | Fri, 09 May 2025 07:40:58 GMT | Understanding GPU Access in Containers: Why Setting GPU ID Inside a Non-GPU JupyterLab Container… | Ramkrushna Maheshwar | [Read More](https://medium.com/p/020ac6ce1d2d) |
 | Fri, 09 May 2025 07:40:31 GMT | How Do We Stay Honest in a World That Performs Emotion? | Mark Choi | [Read More](https://medium.com/p/81535f0dfc24) |
-| Fri, 09 May 2025 07:28:47 GMT | Act Quickly: Bounty $BNTY Crypto Claiming Guide | BNTY | [Read More](https://medium.com/p/223a30f081dd) |
-| Fri, 09 May 2025 07:27:26 GMT | Active Directory Basics - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/1e9ed149feb5) |
-| Fri, 09 May 2025 07:23:41 GMT | Crafting HIPAA-Compliant Software Safely | Levitation Infotech | [Read More](https://medium.com/p/91916d78c606) |
-| Fri, 09 May 2025 07:23:34 GMT | TryHackMe Networking Secure Protocols Writeup | Motasem Hamdan | [Read More](https://medium.com/p/8106c0c2da37) |
-| Fri, 09 May 2025 07:17:20 GMT | Cyber Security Course in Kochi: A Smart Career Move in 2025 | Arun | [Read More](https://medium.com/p/e3f8f7e8a0ad) |
-| Fri, 09 May 2025 07:08:46 GMT | A Symphony of Shadows | Tales of Nyx | [Read More](https://medium.com/p/33d1449c0036) |
-| Fri, 09 May 2025 07:07:58 GMT | Cybersecurity101 — Cybersecurity Role: Security Operational Compliance | Ilham Firdiyanto | [Read More](https://medium.com/p/97a222c71a7f) |
-| Fri, 09 May 2025 07:04:40 GMT | Meet Mondoo: Unified Security for DevOps and Cloud | Infralovers GmbH | [Read More](https://medium.com/p/a646285e0784) |
-| Fri, 09 May 2025 07:01:12 GMT | Best Machine Learning Course Program in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/ff23059ead81) |
-| Fri, 09 May 2025 06:54:21 GMT | ‍☠️ CVE-2023–36874: Popping Admin on Windows the Hacker Way | Kenneth Nevers | [Read More](https://medium.com/p/4ae68eacae46) |
-| Fri, 09 May 2025 06:52:22 GMT | Transforming Global Cyber ​​Security Through Artificial Intelligence (AI): From Medical… | Sydeco Indonesia | [Read More](https://medium.com/p/3dd272e4fdef) |
-| Fri, 09 May 2025 06:51:13 GMT | Cybersecurity Summer Internship Program in Delhi | cyber security Updates | [Read More](https://medium.com/p/ae6e06bf5a18) |
-| Fri, 09 May 2025 06:49:42 GMT | Maryland Taps Former Federal CISO as New Cybersecurity Chief | SafetyDetectives Research Team | [Read More](https://medium.com/p/afc0922746fe) |
-| Fri, 09 May 2025 06:47:21 GMT | JS File Reconnaissance In Web Hacking | SysSecureLabs | [Read More](https://medium.com/p/436215909594) |
