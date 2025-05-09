@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 22:16:37 GMT | Advanced Persistent Threats (APT): How to Detect and Respond to Sophisticated Cyber Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8786b9b1bcca) |
+| Fri, 09 May 2025 22:06:51 GMT | When I Was Scammed and Left With Nothing, What Did I Learn? | aLuMow | [Read More](https://medium.com/p/e49d97bd9dbd) |
+| Fri, 09 May 2025 21:59:02 GMT | Debugging in the Cloud: The Aftermath of My GCP App Deployment | Aayush.K | [Read More](https://medium.com/p/add400092196) |
+| Fri, 09 May 2025 21:44:13 GMT | How To Claim $LFI Tokens | LFI | [Read More](https://medium.com/p/34e6d5e2b1c0) |
+| Fri, 09 May 2025 21:36:37 GMT | How I Hacked a Website Using Only Google | All in One security | [Read More](https://medium.com/p/03a228447a96) |
+| Fri, 09 May 2025 21:34:38 GMT | How To Prevent Hacking by Spotting Fake Emails | Savvy Cyber Kids | [Read More](https://medium.com/p/b7798c3068ca) |
+| Fri, 09 May 2025 21:33:58 GMT | Your Data is Worth Thousands — Here’s Who’s Selling It (And How to Stop It) | Beyond The Firewall | [Read More](https://medium.com/p/62e0ac2c8d81) |
+| Fri, 09 May 2025 21:32:10 GMT | what do i title this? | Idris Abdullateef | [Read More](https://medium.com/p/a9d9c322ff9f) |
+| Fri, 09 May 2025 21:31:51 GMT | LetsDefend Windows Memory Dump Challenge | Dh | [Read More](https://medium.com/p/bb3eea9e56e9) |
 | Fri, 09 May 2025 21:18:25 GMT | HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL | Arunoday Tiwari | [Read More](https://medium.com/p/bfd7bc1b2c72) |
 | Fri, 09 May 2025 21:13:55 GMT | How Exposed Are You? Find Out in 2 Minutes with This Privacy Scorecard | Jason - Beyond The Firewall | [Read More](https://medium.com/p/7cf40e0f9d92) |
 | Fri, 09 May 2025 21:02:03 GMT | Creating Safe Spaces in Online Dating: What We Do Differently at Koktailz | KokTailz Dating App | [Read More](https://medium.com/p/d03eda325e4d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 15:02:40 GMT | You’re Not Patching Vulnerabilities. You’re Patching Prioritisation. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/c04d933cd2c1) |
 | Fri, 09 May 2025 15:01:24 GMT | ️ 5 Signs Your Computer Has Been Hacked — And What to Do About It | Alex Hughes | [Read More](https://medium.com/p/25fe08ffdf1e) |
 | Fri, 09 May 2025 14:59:20 GMT | Title: DLF has Fallen | Parthiban Das | [Read More](https://medium.com/p/7770ec21e961) |
-| Fri, 09 May 2025 14:58:28 GMT | From Data to Dollars: 5 IT Strategies That Sell | BhanU Prakash | [Read More](https://medium.com/p/32fc60d5c52a) |
-| Fri, 09 May 2025 14:56:01 GMT | Deepfake and Synthetic Media Detection | Esra Kayhan | [Read More](https://medium.com/p/27738956c358) |
-| Fri, 09 May 2025 14:53:27 GMT | How AWS Is Using Generative AI to Transform Cybersecurity | Victoria McDorman | [Read More](https://medium.com/p/3b24ec08ec2a) |
-| Fri, 09 May 2025 14:50:26 GMT | Is Your Phone Really Listening to You? Separating Myth from Metadata | Sultan | [Read More](https://medium.com/p/3373e5ba43b5) |
-| Fri, 09 May 2025 14:44:20 GMT | Enhancing Security for Moroccan Websites with Blockchain Technology | Chaimae Sn | [Read More](https://medium.com/p/062fe236b114) |
-| Fri, 09 May 2025 14:40:31 GMT | PHP Is Silently Powering Your Frontend Form Without Even Making a Peep | Asian Digital Hub | [Read More](https://medium.com/p/db092bad3c5e) |
-| Fri, 09 May 2025 14:38:50 GMT | The Day I Finally Said It Out Loud | Amal Devasia | [Read More](https://medium.com/p/df64a0fd8025) |
-| Fri, 09 May 2025 14:38:34 GMT | Why State & Local Agencies Can’t Afford to Ignore Cloudflare’s Security Stack in 2025 | Andrea Alaniz | [Read More](https://medium.com/p/c09a34f6b935) |
-| Fri, 09 May 2025 14:36:46 GMT | Catch of the Day | Rich Brown | [Read More](https://medium.com/p/9761a548ee23) |
