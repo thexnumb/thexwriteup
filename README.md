@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 08:26:45 GMT | AirPlay Vulnerability: What Apple Users Need to Know Right Now | R&B Networks | [Read More](https://medium.com/p/db89640c8559) |
+| Fri, 09 May 2025 08:14:01 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/d640c73dd872) |
+| Fri, 09 May 2025 08:13:39 GMT | What’s SSRF(Server Side Request Forgery) | Agazadeamin | [Read More](https://medium.com/p/dd729ab88b8b) |
+| Fri, 09 May 2025 08:10:43 GMT | The Corix Partners Friday Reading List — May 9, 2025 | JC Gaillard | [Read More](https://medium.com/p/7007a1b012b3) |
+| Fri, 09 May 2025 08:07:31 GMT | Protect Your Digital World from Cyber Attacks with SiyanoAV | Manik | [Read More](https://medium.com/p/68052302d7d3) |
+| Fri, 09 May 2025 08:02:39 GMT | Penetration Testing — Increase your web pentest speed in Burp AI | Tony Fu - OSCP, AWS x 3 | [Read More](https://medium.com/p/2c796308e87a) |
+| Fri, 09 May 2025 07:59:05 GMT | How Can I Withdraw My Money From Selwix? | Ambrose | [Read More](https://medium.com/p/4cbab9d62dd8) |
+| Fri, 09 May 2025 07:57:15 GMT | CSP? More Like Can’t Stop Payloads  — Bypassing CSP to XSS Like a Pro | Iski | [Read More](https://medium.com/p/90d27c2c3a40) |
+| Fri, 09 May 2025 07:55:37 GMT | ⚠️ Understanding Cross-Site Scripting (XSS): A Deep Dive into One of the Web’s Oldest Threats | Donttellanyone | [Read More](https://medium.com/p/b34f1e3bd6ec) |
+| Fri, 09 May 2025 07:52:36 GMT | The Ad s | Penny | [Read More](https://medium.com/p/c8cbc365de52) |
+| Fri, 09 May 2025 07:49:37 GMT | Cyber Hygiene Tips: How to Stay Safe Online Every Day | Ash Wren | [Read More](https://medium.com/p/e007cb15c08e) |
+| Fri, 09 May 2025 07:49:10 GMT | Beware the Malware That Dances – Literally. | Milap Oza | [Read More](https://medium.com/p/64fb68aaebfe) |
+| Fri, 09 May 2025 07:48:34 GMT | How to Assign an Instagram Manager Safely and Professionally | Sufyantest | [Read More](https://medium.com/p/2948d6aef616) |
+| Fri, 09 May 2025 07:48:12 GMT | How IT Services Can Strengthen Your Cybersecurity Strategy | Aimdigitaluk | [Read More](https://medium.com/p/38f9235c0b32) |
+| Fri, 09 May 2025 07:47:36 GMT | Writing Without Certainty | Mark Choi | [Read More](https://medium.com/p/175260c78106) |
+| Fri, 09 May 2025 07:45:19 GMT | VPNs: The New Backdoor for Hackers? | Cloudbric VPN | [Read More](https://medium.com/p/147cdc08a12d) |
+| Fri, 09 May 2025 07:42:37 GMT | What’s In Your C# String Extension Toolbox: Cryptography Utilities | Namir Sagheenanajar | [Read More](https://medium.com/p/7eed27f22962) |
+| Fri, 09 May 2025 07:40:58 GMT | Understanding GPU Access in Containers: Why Setting GPU ID Inside a Non-GPU JupyterLab Container… | Ramkrushna Maheshwar | [Read More](https://medium.com/p/020ac6ce1d2d) |
+| Fri, 09 May 2025 07:40:31 GMT | How Do We Stay Honest in a World That Performs Emotion? | Mark Choi | [Read More](https://medium.com/p/81535f0dfc24) |
 | Fri, 09 May 2025 07:28:47 GMT | Act Quickly: Bounty $BNTY Crypto Claiming Guide | BNTY | [Read More](https://medium.com/p/223a30f081dd) |
 | Fri, 09 May 2025 07:27:26 GMT | Active Directory Basics - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/1e9ed149feb5) |
 | Fri, 09 May 2025 07:23:41 GMT | Crafting HIPAA-Compliant Software Safely | Levitation Infotech | [Read More](https://medium.com/p/91916d78c606) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 01:19:56 GMT | Critical RCE Vulnerability Discovered in Erlang/OTP SSH — CVE-2025–32433 | Criminal IP | [Read More](https://medium.com/p/bdaba163524a) |
 | Fri, 09 May 2025 01:16:40 GMT | The Red Teaming: 30-Day Challenge[25] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c156f8f7d4b1) |
 | Fri, 09 May 2025 01:07:23 GMT | Incognito Mode Myths Busted: Secure Your Online Life Now! | Arpit Kishor Giri | [Read More](https://medium.com/p/514e86614e28) |
-| Fri, 09 May 2025 01:02:43 GMT | Securing the Stack: Why Maintainers Deserve Real Threat Intel This May | Arachne Digital | [Read More](https://medium.com/p/141a2968b3c7) |
-| Fri, 09 May 2025 00:57:27 GMT | Enhancing Your Cloud Posture with Azure Security Benchmark v3 | Jacky Yau | [Read More](https://medium.com/p/33cf4f0888ee) |
-| Fri, 09 May 2025 00:47:32 GMT | Improve your cybersecurity skills | loyalonlytoday | [Read More](https://medium.com/p/5cdb31d40a4f) |
-| Fri, 09 May 2025 00:46:48 GMT | ❗️Telefonimdan firibgarlik SMS yuborildi. Nima bo‘ldi va qanday himoyalanish kerak? | KOMILJON MUKHAMMADIEV | [Read More](https://medium.com/p/9526d0411c3d) |
-| Fri, 09 May 2025 00:34:21 GMT | North Korean Hackers Might Be Your New Remote Co-Workers | CyberMassive | [Read More](https://medium.com/p/e2f380cae810) |
-| Fri, 09 May 2025 00:26:31 GMT | SOC Metrics and Objectives . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/21ae88dfea0c) |
-| Fri, 09 May 2025 00:22:38 GMT | The Airport Wi-Fi Trap: How Hackers Can Own You Before You Board | All in One security | [Read More](https://medium.com/p/effbe0a76753) |
-| Fri, 09 May 2025 00:04:38 GMT | Navigating mercurial waters | Chris Bronk | [Read More](https://medium.com/p/5e43022ab3aa) |
-| Fri, 09 May 2025 00:03:35 GMT | XSS Explained: A Complete Guide to Cross-Site Scripting with Practical Examples | Mazen Elsayed | [Read More](https://medium.com/p/80453349b35f) |
-| Fri, 09 May 2025 00:01:35 GMT | Burp Suite Guide to Ethical Hacking | JPablo13 | [Read More](https://medium.com/p/b47cf56fe638) |
-| Fri, 09 May 2025 00:01:35 GMT | Guía de Burp Suite para hacking ético | JPablo13 | [Read More](https://medium.com/p/313c130ab349) |
-| Thu, 08 May 2025 23:40:45 GMT | Fallaaa Makers | Hendrick Ströngreen | [Read More](https://medium.com/p/31a233486e65) |
-| Thu, 08 May 2025 23:04:13 GMT | Just Because You Can, Doesn’t Mean You Should: Think Before You Post | Savvy Cyber Kids | [Read More](https://medium.com/p/50ad3d77dcf6) |
-| Thu, 08 May 2025 23:02:18 GMT | AWS IAM Initial Access . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/517e5ce72cb4) |
-| Thu, 08 May 2025 23:00:27 GMT | Common MFA Mistakes and How to Avoid Them | Akshay Chauhan | [Read More](https://medium.com/p/2254903b9790) |
-| Thu, 08 May 2025 22:36:58 GMT | How to Build a Spam Email Classifier | Adedaniel | [Read More](https://medium.com/p/045b94ece4ed) |
-| Thu, 08 May 2025 22:35:56 GMT | Top 5 Wallets for USDT | Jelly Skipper | [Read More](https://medium.com/p/6f2e18b0bcab) |
-| Thu, 08 May 2025 22:31:01 GMT | CHEMISTRY WALKTHROUGH : HACKTHEBOX | rizzziom | [Read More](https://medium.com/p/401b16358037) |
-| Thu, 08 May 2025 22:21:53 GMT | ElectricBreeze-1 — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/126eb7c9988d) |
