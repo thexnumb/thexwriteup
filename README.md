@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 10:29:51 GMT | Linux Commands and Tears | diaryofacyberfan | [Read More](https://medium.com/p/29f08360f05f) |
+| Fri, 09 May 2025 10:26:11 GMT | Cybersecurity Stocks In India: A Comprehensive List Of Top Players | Kundkundtc | [Read More](https://medium.com/p/dca2e837898d) |
+| Fri, 09 May 2025 10:24:56 GMT | Russian Hackers Now Use Fake CAPTCHAs to Steal Your Files, and How AI Could’ve Caught It | TechBrain | [Read More](https://medium.com/p/9f1bd70d22fd) |
 | Fri, 09 May 2025 10:21:47 GMT | On Security of IT Security Products | 1AUS FfM | [Read More](https://medium.com/p/24d5a173f626) |
+| Fri, 09 May 2025 10:18:42 GMT | Web Application Security Assessment Using OWASP Juice Shop & OWASP ZAP Part 02 | Soban Malik | [Read More](https://medium.com/p/167b7b572928) |
 | Fri, 09 May 2025 10:14:35 GMT | Army Dog Center Rawalpindi 03009195279 - Khoji Dogs Rawalpindi Official | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/e13ee761b899) |
 | Fri, 09 May 2025 10:13:58 GMT | HIPAA 2025 Security Rule Updates: What Healthcare Organizations Need to Know | Priyansh Shah | [Read More](https://medium.com/p/f06fd0ebba9b) |
 | Fri, 09 May 2025 10:06:55 GMT | NSO Group’s $168M Legal Setback: Implications for Cybersecurity and Privacy | Nexsecura | [Read More](https://medium.com/p/27e33b830bea) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 05:22:35 GMT | Palo Alto Networks Prisma Cloud Compute: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/9a541eadd602) |
 | Fri, 09 May 2025 05:14:23 GMT | Auto Traffic Monitoring Using Video Analytics — UAE | Tekhabeeb | [Read More](https://medium.com/p/bec90f678620) |
 | Fri, 09 May 2025 05:11:47 GMT | SUNSET | farsana77 | [Read More](https://medium.com/p/34840e33c85b) |
-| Fri, 09 May 2025 04:48:58 GMT | ️Recon Automation Like a Pro: My 5-Stage System to Catch More Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/4fff7b7c4726) |
-| Fri, 09 May 2025 04:42:36 GMT | Cyber-Physical Systems in Defense: Assessing Opportunities and Risks | Data Defendere | [Read More](https://medium.com/p/1080a59bbe2d) |
-| Fri, 09 May 2025 04:42:36 GMT | Phishing Email Analysis walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/e15ea07eb8b9) |
-| Fri, 09 May 2025 04:40:37 GMT | Top 10 Ways Hackers Exploit Web Applications (and How to Prevent Them) | Manish Shivanandhan | [Read More](https://medium.com/p/6dfd05630e2c) |
