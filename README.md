@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 03:41:39 GMT | Hack The Box: SecNotes Walkthrough | packetsniper | [Read More](https://medium.com/p/e438135cbc6d) |
+| Fri, 09 May 2025 03:36:46 GMT | Cyber War against India Tomorrow?:- | Sushantogale | [Read More](https://medium.com/p/6531a95ac274) |
+| Fri, 09 May 2025 03:35:18 GMT | Navigating the Labyrinth of Security and Privacy in the Mobile and IoT Era | Mpandugalang | [Read More](https://medium.com/p/3ad4c0b00f57) |
+| Fri, 09 May 2025 03:31:33 GMT | 5 Kubernetes Security Vulnerabilities I Found in Every Client’s Cluster | Sridhar | [Read More](https://medium.com/p/395320f50f76) |
+| Fri, 09 May 2025 03:27:50 GMT | The Forgotten Tools Key to Advancing your Cyber Security Career | Jbird | [Read More](https://medium.com/p/b9f76f51cab9) |
+| Fri, 09 May 2025 03:25:28 GMT | Navigating the Privacy Maze: Insights from Research on Notices and Choices | Mpandugalang | [Read More](https://medium.com/p/e9910fd7be0e) |
+| Fri, 09 May 2025 03:25:23 GMT | Cracking the Code: Digital Forensics Unveiled | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/6a036e456679) |
+| Fri, 09 May 2025 03:16:07 GMT | Breaking Down The Operation of WannaCry Ransomware | abdur rashid firdaus | [Read More](https://medium.com/p/869671de6f17) |
+| Fri, 09 May 2025 03:15:48 GMT | Navigating the Shadows: Unpacking Private Browsing Usage and Security Indicators | Mpandugalang | [Read More](https://medium.com/p/27fbffc18475) |
+| Fri, 09 May 2025 03:01:10 GMT | Open Redirect Vulnerability: What It Is and Why It Matters | Pawan Jaiswal | [Read More](https://medium.com/p/b600117c61a7) |
 | Fri, 09 May 2025 02:47:38 GMT | To the One who has been avoiding me. | Ema Nymton | [Read More](https://medium.com/p/be0640c535fc) |
 | Fri, 09 May 2025 02:42:06 GMT | Cracking Malware: The Art of Analysis & Reverse Engineering | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/43ccb931e39a) |
 | Fri, 09 May 2025 02:37:09 GMT | Hack to Protect: Mastering Penetration Testing | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/e81872090e2f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 18:30:15 GMT | Cybersecurity Job Roles of the Future: What Will Still Exist, Evolve, or Disappear by 2030? | Taimur Ijlal | [Read More](https://medium.com/p/ee5584f6ba9f) |
 | Thu, 08 May 2025 18:29:03 GMT | Getting Your Hair Grey with Sophos ZTNA — Or: How to Survive Configuring Sophos Zero Trust Network… | CyberPumpkin | [Read More](https://medium.com/p/04b069561747) |
 | Thu, 08 May 2025 18:27:21 GMT | Whiterose (CTF) — TryHackMe Writeup | z0diac | [Read More](https://medium.com/p/8c4434fd3e5b) |
-| Thu, 08 May 2025 18:26:46 GMT | From Open Redirect to Full Account Takeover: Exploiting OAuth Misconfiguration | z00x | [Read More](https://medium.com/p/35b0d215cf02) |
-| Thu, 08 May 2025 18:25:39 GMT | Power, Protect, and Connect: Your Digital Advantage Starts Here | Defend My Business | [Read More](https://medium.com/p/64b672bc28a1) |
-| Thu, 08 May 2025 18:24:30 GMT | Les 4 meilleurs camera externes | Schekinaelnm | [Read More](https://medium.com/p/882d0ab623ef) |
-| Thu, 08 May 2025 18:23:21 GMT | Day 1 — Stuxnet: The Cyber Weapon That Broke the Centrifuge | om sonawane | [Read More](https://medium.com/p/7f02b02ac83f) |
-| Thu, 08 May 2025 18:23:10 GMT | What Is SQL Injection? A Beginner’s Guide to One of the Web’s Most Common Vulnerabilities | Nishanthan | [Read More](https://medium.com/p/be0da2a061e3) |
-| Thu, 08 May 2025 18:19:58 GMT | Secure by Design: How to Avoid Costly Infrastructure Access Control Mistakes | Nicholas Thoni | [Read More](https://medium.com/p/7908c9a635b7) |
-| Thu, 08 May 2025 18:17:55 GMT | AWS IAM Enumeration . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/d2a66ffc35ef) |
-| Thu, 08 May 2025 18:13:26 GMT | The Weight of Wanting More: Being Queer, Sensitive, and Misunderstood in an Uncertain World | matthew | [Read More](https://medium.com/p/e60a7d2f0928) |
-| Thu, 08 May 2025 18:09:46 GMT | Once we land on a low-privileged user shell in our Windows target it’s crucial to know what to and… | Evyeveline | [Read More](https://medium.com/p/9bedccf0728c) |
-| Thu, 08 May 2025 18:09:17 GMT | Navigating Files and Directories in Linux | Warmann Onisowurun | [Read More](https://medium.com/p/b5f0e95b689f) |
