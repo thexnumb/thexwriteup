@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 07:28:47 GMT | Act Quickly: Bounty $BNTY Crypto Claiming Guide | BNTY | [Read More](https://medium.com/p/223a30f081dd) |
+| Fri, 09 May 2025 07:27:26 GMT | Active Directory Basics - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/1e9ed149feb5) |
+| Fri, 09 May 2025 07:23:41 GMT | Crafting HIPAA-Compliant Software Safely | Levitation Infotech | [Read More](https://medium.com/p/91916d78c606) |
+| Fri, 09 May 2025 07:23:34 GMT | TryHackMe Networking Secure Protocols Writeup | Motasem Hamdan | [Read More](https://medium.com/p/8106c0c2da37) |
 | Fri, 09 May 2025 07:17:20 GMT | Cyber Security Course in Kochi: A Smart Career Move in 2025 | Arun | [Read More](https://medium.com/p/e3f8f7e8a0ad) |
 | Fri, 09 May 2025 07:08:46 GMT | A Symphony of Shadows | Tales of Nyx | [Read More](https://medium.com/p/33d1449c0036) |
 | Fri, 09 May 2025 07:07:58 GMT | Cybersecurity101 — Cybersecurity Role: Security Operational Compliance | Ilham Firdiyanto | [Read More](https://medium.com/p/97a222c71a7f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 22:35:56 GMT | Top 5 Wallets for USDT | Jelly Skipper | [Read More](https://medium.com/p/6f2e18b0bcab) |
 | Thu, 08 May 2025 22:31:01 GMT | CHEMISTRY WALKTHROUGH : HACKTHEBOX | rizzziom | [Read More](https://medium.com/p/401b16358037) |
 | Thu, 08 May 2025 22:21:53 GMT | ElectricBreeze-1 — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/126eb7c9988d) |
-| Thu, 08 May 2025 22:16:28 GMT | Why are screens so addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/e077a029dcb5) |
-| Thu, 08 May 2025 22:16:01 GMT | Advanced Persistent Threats (APT): How to Detect and Respond to Sophisticated Cyber Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b09cfda8d232) |
-| Thu, 08 May 2025 22:09:01 GMT | PTA reacts to hacking and social media blockades in India | Asad Ullah | [Read More](https://medium.com/p/4cf71265c3fa) |
-| Thu, 08 May 2025 21:44:35 GMT | How a Smart Guard Patrol System Can Reinvent On-Site Security in 2025 | MQKING | [Read More](https://medium.com/p/f5c34957c8e2) |
