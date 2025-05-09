@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 01:42:38 GMT | The Russia-linked threat actor known as COLDRIVER has been observed distributing a new malware… | ulethon | [Read More](https://medium.com/p/f01a443e12c9) |
+| Fri, 09 May 2025 01:38:15 GMT | How Breaches Start: 5 Real-World Vulnerabilities That Escalated Fast | Cyber-AppSec | [Read More](https://medium.com/p/4593ee0ce887) |
+| Fri, 09 May 2025 01:30:37 GMT | Hack The Box Academy — Network Foundations — Skills Assessment | bl77rd | [Read More](https://medium.com/p/51c5aae13912) |
+| Fri, 09 May 2025 01:21:22 GMT | Securing Windows: How to Set Up a Pre-Boot PIN with BitLocker | p3tsh0p | [Read More](https://medium.com/p/77b6b7396d80) |
+| Fri, 09 May 2025 01:19:56 GMT | Critical RCE Vulnerability Discovered in Erlang/OTP SSH — CVE-2025–32433 | Criminal IP | [Read More](https://medium.com/p/bdaba163524a) |
+| Fri, 09 May 2025 01:16:40 GMT | The Red Teaming: 30-Day Challenge[25] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c156f8f7d4b1) |
+| Fri, 09 May 2025 01:07:23 GMT | Incognito Mode Myths Busted: Secure Your Online Life Now! | Arpit Kishor Giri | [Read More](https://medium.com/p/514e86614e28) |
+| Fri, 09 May 2025 01:02:43 GMT | Securing the Stack: Why Maintainers Deserve Real Threat Intel This May | Arachne Digital | [Read More](https://medium.com/p/141a2968b3c7) |
+| Fri, 09 May 2025 00:57:27 GMT | Enhancing Your Cloud Posture with Azure Security Benchmark v3 | Jacky Yau | [Read More](https://medium.com/p/33cf4f0888ee) |
+| Fri, 09 May 2025 00:47:32 GMT | Improve your cybersecurity skills | loyalonlytoday | [Read More](https://medium.com/p/5cdb31d40a4f) |
+| Fri, 09 May 2025 00:46:48 GMT | ❗️Telefonimdan firibgarlik SMS yuborildi. Nima bo‘ldi va qanday himoyalanish kerak? | KOMILJON MUKHAMMADIEV | [Read More](https://medium.com/p/9526d0411c3d) |
+| Fri, 09 May 2025 00:34:21 GMT | North Korean Hackers Might Be Your New Remote Co-Workers | CyberMassive | [Read More](https://medium.com/p/e2f380cae810) |
+| Fri, 09 May 2025 00:26:31 GMT | SOC Metrics and Objectives . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/21ae88dfea0c) |
+| Fri, 09 May 2025 00:22:38 GMT | The Airport Wi-Fi Trap: How Hackers Can Own You Before You Board | All in One security | [Read More](https://medium.com/p/effbe0a76753) |
+| Fri, 09 May 2025 00:04:38 GMT | Navigating mercurial waters | Chris Bronk | [Read More](https://medium.com/p/5e43022ab3aa) |
+| Fri, 09 May 2025 00:03:35 GMT | XSS Explained: A Complete Guide to Cross-Site Scripting with Practical Examples | Mazen Elsayed | [Read More](https://medium.com/p/80453349b35f) |
+| Fri, 09 May 2025 00:01:35 GMT | Burp Suite Guide to Ethical Hacking | JPablo13 | [Read More](https://medium.com/p/b47cf56fe638) |
+| Fri, 09 May 2025 00:01:35 GMT | Guía de Burp Suite para hacking ético | JPablo13 | [Read More](https://medium.com/p/313c130ab349) |
+| Thu, 08 May 2025 23:40:45 GMT | Fallaaa Makers | Hendrick Ströngreen | [Read More](https://medium.com/p/31a233486e65) |
 | Thu, 08 May 2025 23:04:13 GMT | Just Because You Can, Doesn’t Mean You Should: Think Before You Post | Savvy Cyber Kids | [Read More](https://medium.com/p/50ad3d77dcf6) |
 | Thu, 08 May 2025 23:02:18 GMT | AWS IAM Initial Access . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/517e5ce72cb4) |
 | Thu, 08 May 2025 23:00:27 GMT | Common MFA Mistakes and How to Avoid Them | Akshay Chauhan | [Read More](https://medium.com/p/2254903b9790) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 17:56:25 GMT | Talk on “Meta Concerns in ML Security/Privacy” with Professor N. Asokan from University of Waterloo | AYE MIN KHANT | [Read More](https://medium.com/p/61adf30bc8d5) |
 | Thu, 08 May 2025 17:54:13 GMT | Logs, Sweat, and Suricata: My Journey to a Real-Time Threat Hunting Powerhouse | Manish Rawat | [Read More](https://medium.com/p/51c217b621fb) |
 | Thu, 08 May 2025 17:53:19 GMT | Networking Concepts — TryHackMe room writeup | Taylor Wavra | [Read More](https://medium.com/p/b58671619008) |
-| Thu, 08 May 2025 17:48:41 GMT | The Story Behind 4 Vulnerabilities in a Single Target | Mahmoud elsadey | [Read More](https://medium.com/p/11f89224d585) |
-| Thu, 08 May 2025 17:37:37 GMT | Play Ransomware Sneaks In with a Windows Zero-Day: Inside the CVE-2025–29824 Attack | Ismail Tasdelen | [Read More](https://medium.com/p/e944fbfefd77) |
-| Thu, 08 May 2025 17:24:05 GMT | Legal problems of Information Technologies and what to know as a professional | Brugosofi | [Read More](https://medium.com/p/400ed5ad4c10) |
-| Thu, 08 May 2025 17:15:32 GMT | Navigating the Jurisprudential Quagmire of Encryption Policy in the Aftermath of the 2025 U.S. | Lokakreeti Neog | [Read More](https://medium.com/p/9c1728596f8e) |
-| Thu, 08 May 2025 17:14:54 GMT | Remote Work Security: Best Practices for Distributed Teams | Ahmad Javed | [Read More](https://medium.com/p/6b44ddef0cd5) |
-| Thu, 08 May 2025 17:13:43 GMT | The Rise of AI-Powered Ransomware: A New Era in Cybersecurity Threats | Raed Ahsan | [Read More](https://medium.com/p/5f287debd582) |
-| Thu, 08 May 2025 17:07:21 GMT | How to Secure Your Containerized Workloads with Free SSL Certificates from Let’s Encrypt | Omkar Sathe | [Read More](https://medium.com/p/6760a21ffabf) |
-| Thu, 08 May 2025 17:06:15 GMT | Linux File System Hierarchy Explained: A Beginner-to-Advanced Guide with Examples | YoungerSibling | [Read More](https://medium.com/p/ddcd04510246) |
-| Thu, 08 May 2025 17:04:44 GMT | AWS Mastery: Zero To Hero | Shivam Thakur | [Read More](https://medium.com/p/6816b1b0e9f8) |
-| Thu, 08 May 2025 16:57:42 GMT | iCostamp: Top 5 Must-Know Facts About Blockchain Timestamping! Secure & Verify Data Like a Pro! | USA BIZZ NETWORK | [Read More](https://medium.com/p/d3345fdf90f5) |
-| Thu, 08 May 2025 16:55:39 GMT | Your business never sleeps — and neither do we. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c7717636f968) |
-| Thu, 08 May 2025 16:53:42 GMT | Exposing Shadow APIs: The Hidden Attack Surface in Modern Web Apps | tezp | [Read More](https://medium.com/p/6fd1af0ec4e9) |
-| Thu, 08 May 2025 16:52:56 GMT | From Co-Pilots to Autopilots: The Evolution of AI Agents in Cybersecurity | Wale Adedeji | [Read More](https://medium.com/p/eb9d028dc4ea) |
-| Thu, 08 May 2025 16:38:19 GMT | Port Scanning: The Foundation of Discovery | Vaibhav Kushwaha | [Read More](https://medium.com/p/7479dfc7ed83) |
-| Thu, 08 May 2025 16:32:52 GMT | Stop Ignoring These 5 Spring Registry Pitfalls in Your Microservices! | The Code Alchemist | [Read More](https://medium.com/p/c71cdb5e5064) |
-| Thu, 08 May 2025 16:30:44 GMT | Seconds to Respond: A Strategic & Operational Guide to Cyber-Crisis Command | Mouad_mouadri | [Read More](https://medium.com/p/f02421a5e394) |
-| Thu, 08 May 2025 16:30:23 GMT | Design of a Network Vulnerability Scanner: Defining the Scope | Vaibhav Kushwaha | [Read More](https://medium.com/p/69baad5c235f) |
-| Thu, 08 May 2025 16:30:10 GMT | Nocturnal — HackTheBox | Ryan | [Read More](https://medium.com/p/8fec566c5824) |
-| Thu, 08 May 2025 16:25:27 GMT | Have you ever heard of “swatting”? | ɌƋƑ•TECH | [Read More](https://medium.com/p/81303dccb57f) |
