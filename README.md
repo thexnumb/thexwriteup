@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 18:12:12 GMT | Path Traversal —  OWASP JuiceShop #8 | DebianHat | [Read More](https://medium.com/p/3f62ed196d52) |
+| Fri, 09 May 2025 18:08:20 GMT | Google Dorking: The Ethical Hacker’s Guide to Advanced Search Techniques | Jakob Turner | [Read More](https://medium.com/p/8123a444ae88) |
+| Fri, 09 May 2025 18:06:29 GMT | The Leaderboard Illusion | Tal Eliyahu | [Read More](https://medium.com/p/3f3de023e0f1) |
+| Fri, 09 May 2025 17:58:37 GMT | Use Your Own SSH Key With a Passphrase on an EC2 Instance | Teri Radichel | [Read More](https://medium.com/p/72c7a549b055) |
+| Fri, 09 May 2025 17:54:31 GMT | 5 Super Powerful INFORMATION SECURITY Prompts for CHATGPT Users |  | [Read More](https://medium.com/p/ff45a4f502a9) |
+| Fri, 09 May 2025 17:52:23 GMT | Somethings phishy | Logan Elkins | [Read More](https://medium.com/p/5a228d198403) |
+| Fri, 09 May 2025 17:50:07 GMT | Mastering 403 Bypasses | Cybersectoworld | [Read More](https://medium.com/p/cf6d1919404e) |
 | Fri, 09 May 2025 17:32:04 GMT | Threat Modeling — Computer Using Agent (CUA) — Part 2 | Aroha blue | [Read More](https://medium.com/p/704bad651ec0) |
 | Fri, 09 May 2025 17:28:03 GMT | Android Interview Questions: App Security Best Practices | Harshita Bambure | [Read More](https://medium.com/p/7b4546909e4a) |
 | Fri, 09 May 2025 17:26:23 GMT | analyse pixel tools and their effects on learning outcomes | S Anuradha | [Read More](https://medium.com/p/78aca284a971) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 12:13:15 GMT | Driver f$#k3ng Loaded | Anthony Ventarola | [Read More](https://medium.com/p/8aabd9235fec) |
 | Fri, 09 May 2025 11:58:10 GMT | Best Parental Control Apps for Android and iPhone in 2025 | StartDigital | [Read More](https://medium.com/p/9160f792a31f) |
 | Fri, 09 May 2025 11:56:45 GMT | The Overlooked Risk: Insider Threats in Education Networks | Brandon Dewater | [Read More](https://medium.com/p/2f31d530a0c1) |
-| Fri, 09 May 2025 11:52:33 GMT | Why Industry Standards Are Important: A Simple Guide to Succeeding in Machine Learning | Imran Jakhro | [Read More](https://medium.com/p/c60d65287003) |
-| Fri, 09 May 2025 11:46:43 GMT | ITWave CTF 2025 — WannaCry challenge writeup | ExPlo1t | [Read More](https://medium.com/p/0abcf7946514) |
-| Fri, 09 May 2025 11:39:08 GMT | Windows Command Line - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/0a99bcb88d8e) |
-| Fri, 09 May 2025 11:35:38 GMT | Secure Your Future: The Ultimate Guide to Cybersecurity Courses in India | Dbrooks | [Read More](https://medium.com/p/7a28fe711a85) |
-| Fri, 09 May 2025 11:32:38 GMT | Hands-On Project: Launching a Web Server on Amazon EC2 (Linux + PuTTY) | Ekpenyong Emmanuel | [Read More](https://medium.com/p/b0ec8c88b2df) |
-| Fri, 09 May 2025 11:29:26 GMT | Git Some Phish | Tomer Wetzler | [Read More](https://medium.com/p/278c40c0dfb0) |
-| Fri, 09 May 2025 11:28:44 GMT | Beyond the Boardroom — How Threats Follow Executives Home | SecOps | [Read More](https://medium.com/p/24451c554b56) |
