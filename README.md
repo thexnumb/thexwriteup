@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 13:37:53 GMT | LOCKBIT INTERNALS LEAKED | Rakesh Krishnan | [Read More](https://medium.com/p/32b3287860ca) |
+| Fri, 09 May 2025 13:36:02 GMT | Threat Hunting Maturity Model (THMM) Applications: Meaning and Implementation of the Maturity… | Esra Kayhan | [Read More](https://medium.com/p/f968d7483ab8) |
+| Fri, 09 May 2025 13:34:57 GMT | Elasticsearch Güvenlik Açığı (CVE-2014–3120): Groovy ile Gelen Tehlike | Dursunngvnn | [Read More](https://medium.com/p/8d227f047def) |
+| Fri, 09 May 2025 13:30:06 GMT | Google Gemini Nano: The Future of On-Device AI | Om Choudhary | [Read More](https://medium.com/p/6a82024c6ee1) |
+| Fri, 09 May 2025 13:26:18 GMT | Zero Trust Mimarisi: Artık Kimseye Güvenilmiyor | Mehmet Nur Devecioğlu | [Read More](https://medium.com/p/07146caf4355) |
 | Fri, 09 May 2025 13:19:31 GMT | MITRE Technique and Detection Opportunities — Finding Minhook in a sideloading attack — and Sweden… | MITRE Doggy | [Read More](https://medium.com/p/52f896c42ecc) |
 | Fri, 09 May 2025 13:15:29 GMT | MITRE Technique and Detection Opportunities — Cyber criminals impersonate payroll, HR and benefits… | MITRE Doggy | [Read More](https://medium.com/p/97974859030c) |
 | Fri, 09 May 2025 13:12:59 GMT | Transparent Data Encryption — TDE | Nitin Shete | [Read More](https://medium.com/p/19222764edf5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 07:49:10 GMT | Beware the Malware That Dances – Literally. | Milap Oza | [Read More](https://medium.com/p/64fb68aaebfe) |
 | Fri, 09 May 2025 07:48:34 GMT | How to Assign an Instagram Manager Safely and Professionally | Sufyantest | [Read More](https://medium.com/p/2948d6aef616) |
 | Fri, 09 May 2025 07:48:12 GMT | How IT Services Can Strengthen Your Cybersecurity Strategy | Aimdigitaluk | [Read More](https://medium.com/p/38f9235c0b32) |
-| Fri, 09 May 2025 07:47:36 GMT | Writing Without Certainty | Mark Choi | [Read More](https://medium.com/p/175260c78106) |
-| Fri, 09 May 2025 07:45:19 GMT | VPNs: The New Backdoor for Hackers? | Cloudbric VPN | [Read More](https://medium.com/p/147cdc08a12d) |
-| Fri, 09 May 2025 07:42:37 GMT | What’s In Your C# String Extension Toolbox: Cryptography Utilities | Namir Sagheenanajar | [Read More](https://medium.com/p/7eed27f22962) |
-| Fri, 09 May 2025 07:40:58 GMT | Understanding GPU Access in Containers: Why Setting GPU ID Inside a Non-GPU JupyterLab Container… | Ramkrushna Maheshwar | [Read More](https://medium.com/p/020ac6ce1d2d) |
-| Fri, 09 May 2025 07:40:31 GMT | How Do We Stay Honest in a World That Performs Emotion? | Mark Choi | [Read More](https://medium.com/p/81535f0dfc24) |
