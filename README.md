@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 11:35:38 GMT | Secure Your Future: The Ultimate Guide to Cybersecurity Courses in India | Dbrooks | [Read More](https://medium.com/p/7a28fe711a85) |
+| Fri, 09 May 2025 11:32:38 GMT | Hands-On Project: Launching a Web Server on Amazon EC2 (Linux + PuTTY) | Ekpenyong Emmanuel | [Read More](https://medium.com/p/b0ec8c88b2df) |
+| Fri, 09 May 2025 11:29:26 GMT | Git Some Phish | Tomer Wetzler | [Read More](https://medium.com/p/278c40c0dfb0) |
+| Fri, 09 May 2025 11:25:07 GMT | Sweet Security Disaster: How I Could Verify Any Account on a Dessert Website | Het Patel | [Read More](https://medium.com/p/689ca0b1ef45) |
+| Fri, 09 May 2025 11:23:04 GMT | How Companies Like 1Password and Okta Are Securing Autonomous AI Agents in 2025 | Babar Ali Jamali | [Read More](https://medium.com/p/f2d37e36f2ae) |
+| Fri, 09 May 2025 11:22:20 GMT | Why PCI DSS Compliance Is Critical for Indian Businesses — Cyber Quess Insights | Aarav Mehta | [Read More](https://medium.com/p/7732c916b911) |
+| Fri, 09 May 2025 11:16:40 GMT | Anomaly Detection Using Autoencoders: A Deep Dive into Fraud Detection | Ogochukwu Stanley Ikegbo | [Read More](https://medium.com/p/9f59bcb5ab32) |
 | Fri, 09 May 2025 11:09:23 GMT | How IDS, IPS, and IDPS Protect Your Network Like Digital Bodyguards | Cyber T | [Read More](https://medium.com/p/1f6f9a5aa338) |
+| Fri, 09 May 2025 11:08:53 GMT | IoT & OT Security: What to Do After You Know the Basics? | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/888ea84ec194) |
+| Fri, 09 May 2025 11:07:26 GMT | Why You Need an ISO 27001 Consultant in India — A Guide by Cyber Quess | Aarav Mehta | [Read More](https://medium.com/p/58f62398e7eb) |
+| Fri, 09 May 2025 11:07:06 GMT | Role of a Security Engineer (Linux Systems)Protecting Linux Infrastructure | cyberwingITSolution | [Read More](https://medium.com/p/0dc168159b14) |
 | Fri, 09 May 2025 11:04:04 GMT | Automating Serialized File Analysis and Security Scanning in CI/CD Pipelines | Femi Oyesanya | [Read More](https://medium.com/p/43d9fba06db9) |
 | Fri, 09 May 2025 11:02:38 GMT | Integrating SAST and DAST into DevOps Using OWASP ZAP and SonarQube | Varul Arora | [Read More](https://medium.com/p/50ff74c23017) |
 | Fri, 09 May 2025 10:47:18 GMT | Offsec →SPX walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/651ac8926612) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 06:04:51 GMT | FOFA Dorking - Part 2 | AbhirupKonwar | [Read More](https://medium.com/p/106994da9b96) |
 | Fri, 09 May 2025 06:03:58 GMT | Qilin Ransomware Steals the Show: 72 Data Leaks in April 2025’s Cyber Chaos | Ismail Tasdelen | [Read More](https://medium.com/p/c0ee32d8e68c) |
 | Fri, 09 May 2025 06:03:21 GMT | CodeGuardian OpsIQ – The Secure AI Strategy Every Engineering Org Needs Now | Gregory Tzvi Kaidanov | [Read More](https://medium.com/p/8c32ea359c69) |
-| Fri, 09 May 2025 06:02:32 GMT | The Linux Concept Journey — Snap | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f39201df078d) |
-| Fri, 09 May 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — May 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/83a659cac47a) |
-| Fri, 09 May 2025 05:58:29 GMT | Russian Hackers’ ClickFix Scam: How Fake CAPTCHAs Unleash LOSTKEYS Malware ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c81c8bf88f87) |
-| Fri, 09 May 2025 05:57:33 GMT | Pre Security | DESYNC | [Read More](https://medium.com/p/dfd120d446a1) |
-| Fri, 09 May 2025 05:54:25 GMT | MirrorFace’s Sneaky Cyber Spree: ROAMINGMOUSE and Upgraded ANEL Malware Hit Japan and Taiwan… | Ismail Tasdelen | [Read More](https://medium.com/p/66877910ec90) |
-| Fri, 09 May 2025 05:53:37 GMT | Reverse Engineering Malware: Unveiling the Hidden Threats | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/d7711da7bedd) |
-| Fri, 09 May 2025 05:50:38 GMT | Cisco’s IOS XE Nightmare: How a Hard-Coded JWT in CVE-2025–20188 Let Hackers Go Full Root ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/48dc088a8bdb) |
-| Fri, 09 May 2025 05:44:20 GMT | Buy Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/e2e6b9b97acd) |
-| Fri, 09 May 2025 05:44:02 GMT | OttoKit WordPress Plugin Hacked: How 100K+ Sites Fell Prey to Sneaky Exploits ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/3c8ddac468e8) |
-| Fri, 09 May 2025 05:42:15 GMT | Apache Server Series — Part 4:Apache Hardening (Secure Your Web Server) | Parthraj Gohil | [Read More](https://medium.com/p/e7c2f0386c14) |
