@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 10:21:47 GMT | On Security of IT Security Products | 1AUS FfM | [Read More](https://medium.com/p/24d5a173f626) |
+| Fri, 09 May 2025 10:14:35 GMT | Army Dog Center Rawalpindi 03009195279 - Khoji Dogs Rawalpindi Official | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/e13ee761b899) |
+| Fri, 09 May 2025 10:13:58 GMT | HIPAA 2025 Security Rule Updates: What Healthcare Organizations Need to Know | Priyansh Shah | [Read More](https://medium.com/p/f06fd0ebba9b) |
+| Fri, 09 May 2025 10:06:55 GMT | NSO Group’s $168M Legal Setback: Implications for Cybersecurity and Privacy | Nexsecura | [Read More](https://medium.com/p/27e33b830bea) |
+| Fri, 09 May 2025 10:05:10 GMT | ️ Investigating User and Access Management in Linux: A Forensics Perspective | Irem | [Read More](https://medium.com/p/e88a5a7a613a) |
+| Fri, 09 May 2025 10:02:50 GMT | Cybersecurity: Protecting the Digital World We Rely On | Hardwin Software Solutions | [Read More](https://medium.com/p/bb829fe87e0a) |
+| Fri, 09 May 2025 10:02:41 GMT | What It’s Like to Build With a Non-Human Teammate | Solo Recon | [Read More](https://medium.com/p/ee5808b8427f) |
+| Fri, 09 May 2025 10:02:34 GMT | The Future of Technology: B Tech in Cloud Technology and Information Security | Aashi | [Read More](https://medium.com/p/e2b3ad417dd0) |
+| Fri, 09 May 2025 09:50:32 GMT | New Book Release: The Cyber Shield: Protecting Your Data and Devices from Cyber Attacks" ️ | SIR BARRON QASEM II ( Qasimius Barronicus) | [Read More](https://medium.com/p/f91959a41828) |
+| Fri, 09 May 2025 09:39:47 GMT | Hackers Hate This One Outsourced Cybersecurity Trick | Magellan Solutions | [Read More](https://medium.com/p/8369428d8b28) |
+| Fri, 09 May 2025 09:37:10 GMT | Why NGFW Alone Isn’t Enough — And What DNA 140 Does Differently | NEXCOM 新漢 | [Read More](https://medium.com/p/0e8b83edaa0f) |
 | Fri, 09 May 2025 09:34:53 GMT | Introduction | Tros Techologies | [Read More](https://medium.com/p/539bd3ae0a07) |
 | Fri, 09 May 2025 09:34:24 GMT | Security Tools Everyone Should Know About | ToolsZone.net | [Read More](https://medium.com/p/b12eca153dff) |
 | Fri, 09 May 2025 09:32:21 GMT | Vrinda AI: Setting the Record Straight Against Fake News and Misinformation | CYBER NEWS HUB | [Read More](https://medium.com/p/7c9177d99aa7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 04:42:36 GMT | Cyber-Physical Systems in Defense: Assessing Opportunities and Risks | Data Defendere | [Read More](https://medium.com/p/1080a59bbe2d) |
 | Fri, 09 May 2025 04:42:36 GMT | Phishing Email Analysis walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/e15ea07eb8b9) |
 | Fri, 09 May 2025 04:40:37 GMT | Top 10 Ways Hackers Exploit Web Applications (and How to Prevent Them) | Manish Shivanandhan | [Read More](https://medium.com/p/6dfd05630e2c) |
-| Fri, 09 May 2025 04:23:40 GMT | How Crackers Turned Netflix Accounts into Their Own | Shuvodip Ray | [Read More](https://medium.com/p/192b239c91e1) |
-| Fri, 09 May 2025 04:16:49 GMT | The One Linux Security Habit That Saved Me From a Silent Breach | Faruk Ahmed | [Read More](https://medium.com/p/a0a138d25962) |
-| Fri, 09 May 2025 04:06:16 GMT | How To Instantly Claim $DORK | DORK | [Read More](https://medium.com/p/3ad29ea2e7aa) |
-| Fri, 09 May 2025 04:01:05 GMT | Hacking AI with Markdown: How We Triggered XSS in DeepSeek’s Chat | N45HT | [Read More](https://medium.com/p/e625686530b6) |
-| Fri, 09 May 2025 03:50:56 GMT | Exploring The Necessity Of VPNs In 2023 | James Neal | [Read More](https://medium.com/p/d7c0a3463374) |
-| Fri, 09 May 2025 03:45:52 GMT | Why The Most Advanced VPNs Are A Necessity | Melvin Erickson | [Read More](https://medium.com/p/cba8d27e72f7) |
-| Fri, 09 May 2025 03:41:39 GMT | Hack The Box: SecNotes Walkthrough | packetsniper | [Read More](https://medium.com/p/e438135cbc6d) |
-| Fri, 09 May 2025 03:36:46 GMT | Cyber War against India Tomorrow?:- | Sushantogale | [Read More](https://medium.com/p/6531a95ac274) |
-| Fri, 09 May 2025 03:35:18 GMT | Navigating the Labyrinth of Security and Privacy in the Mobile and IoT Era | Mpandugalang | [Read More](https://medium.com/p/3ad4c0b00f57) |
-| Fri, 09 May 2025 03:31:33 GMT | 5 Kubernetes Security Vulnerabilities I Found in Every Client’s Cluster | Sridhar | [Read More](https://medium.com/p/395320f50f76) |
-| Fri, 09 May 2025 03:27:50 GMT | The Forgotten Tools Key to Advancing your Cyber Security Career | Jbird | [Read More](https://medium.com/p/b9f76f51cab9) |
