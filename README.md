@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 21:18:25 GMT | HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL | Arunoday Tiwari | [Read More](https://medium.com/p/bfd7bc1b2c72) |
+| Fri, 09 May 2025 21:13:55 GMT | How Exposed Are You? Find Out in 2 Minutes with This Privacy Scorecard | Jason - Beyond The Firewall | [Read More](https://medium.com/p/7cf40e0f9d92) |
+| Fri, 09 May 2025 21:02:03 GMT | Creating Safe Spaces in Online Dating: What We Do Differently at Koktailz | KokTailz Dating App | [Read More](https://medium.com/p/d03eda325e4d) |
+| Fri, 09 May 2025 20:58:33 GMT | Why Every Emerging Business Requires a vCISO | Sherry | [Read More](https://medium.com/p/6b709f228abe) |
+| Fri, 09 May 2025 20:56:32 GMT | Delete Yourself from the Internet in 10 Simple Steps | Jason - Beyond The Firewall | [Read More](https://medium.com/p/142096faa9f5) |
+| Fri, 09 May 2025 20:51:23 GMT | Subliminal Signals via Flicker and Dithering | notalenanot | [Read More](https://medium.com/p/2f5613b35b42) |
+| Fri, 09 May 2025 20:48:46 GMT | HTTP REQUEST SMUGGLING | Arunoday Tiwari | [Read More](https://medium.com/p/a1be1c2cf302) |
+| Fri, 09 May 2025 20:34:59 GMT | Bridging the Digital Divide: How to Deliver Support Seniors Will Love (and Actually… | ɌƋƑ•TECH | [Read More](https://medium.com/p/3bb72d317d6f) |
 | Fri, 09 May 2025 20:24:04 GMT | Secure CI/CD 2025: Practical GitLab Hardening Guide | Aleksei Aleinikov | [Read More](https://medium.com/p/09cde127063d) |
 | Fri, 09 May 2025 20:18:16 GMT | I Asked to Be Seen. And Then I Was. And I Panicked. | Ana Perez | [Read More](https://medium.com/p/202951cd0bd4) |
 | Fri, 09 May 2025 20:16:01 GMT | How a Misconfigured Endpoint Exposed Over 3 Million Users and Access to Other Applications | Bryan Muñoz | [Read More](https://medium.com/p/f3697737c158) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 14:38:50 GMT | The Day I Finally Said It Out Loud | Amal Devasia | [Read More](https://medium.com/p/df64a0fd8025) |
 | Fri, 09 May 2025 14:38:34 GMT | Why State & Local Agencies Can’t Afford to Ignore Cloudflare’s Security Stack in 2025 | Andrea Alaniz | [Read More](https://medium.com/p/c09a34f6b935) |
 | Fri, 09 May 2025 14:36:46 GMT | Catch of the Day | Rich Brown | [Read More](https://medium.com/p/9761a548ee23) |
-| Fri, 09 May 2025 14:31:01 GMT | The Hackers Meetup — April Edition: Cyber Law, Forensics, and Dark Web Insights | The Hackers Meetup | [Read More](https://medium.com/p/266578ba41cd) |
-| Fri, 09 May 2025 14:23:29 GMT | Guarding Your Digital DNA: EDSPL Combines Network, Email, Application & API Security Like No Other | saurabh cyberinfomines | [Read More](https://medium.com/p/a732bc7a932c) |
-| Fri, 09 May 2025 14:22:45 GMT | Ice Room: Icecast Exploitation and Privilege Escalation | Rac:) | [Read More](https://medium.com/p/1de794902d59) |
-| Fri, 09 May 2025 14:21:08 GMT | Blue Room: EternalBlue Exploitation | Rac:) | [Read More](https://medium.com/p/87b800d82fd0) |
-| Fri, 09 May 2025 14:20:30 GMT | Mastering Rate Limit Bypass Techniques | coffinxp | [Read More](https://medium.com/p/fff9499b0f42) |
-| Fri, 09 May 2025 14:16:01 GMT | A Secure and Scalable Authentication Flow | Ashit Ranpura | [Read More](https://medium.com/p/a548724716a4) |
-| Fri, 09 May 2025 14:14:51 GMT | The Real Benefits of Installing a 2 Star Security Handle on Your Front Door | Lock Fitter | [Read More](https://medium.com/p/19ca9abaa441) |
-| Fri, 09 May 2025 14:13:28 GMT | How to Leverage AI as a Security Engineer Without Becoming Illiterate | Ryan G. Cox | [Read More](https://medium.com/p/8c54ad907d77) |
