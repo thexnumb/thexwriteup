@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 07:17:20 GMT | Cyber Security Course in Kochi: A Smart Career Move in 2025 | Arun | [Read More](https://medium.com/p/e3f8f7e8a0ad) |
+| Fri, 09 May 2025 07:08:46 GMT | A Symphony of Shadows | Tales of Nyx | [Read More](https://medium.com/p/33d1449c0036) |
+| Fri, 09 May 2025 07:07:58 GMT | Cybersecurity101 — Cybersecurity Role: Security Operational Compliance | Ilham Firdiyanto | [Read More](https://medium.com/p/97a222c71a7f) |
+| Fri, 09 May 2025 07:04:40 GMT | Meet Mondoo: Unified Security for DevOps and Cloud | Infralovers GmbH | [Read More](https://medium.com/p/a646285e0784) |
+| Fri, 09 May 2025 07:01:12 GMT | Best Machine Learning Course Program in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/ff23059ead81) |
+| Fri, 09 May 2025 06:54:21 GMT | ‍☠️ CVE-2023–36874: Popping Admin on Windows the Hacker Way | Kenneth Nevers | [Read More](https://medium.com/p/4ae68eacae46) |
+| Fri, 09 May 2025 06:52:22 GMT | Transforming Global Cyber ​​Security Through Artificial Intelligence (AI): From Medical… | Sydeco Indonesia | [Read More](https://medium.com/p/3dd272e4fdef) |
+| Fri, 09 May 2025 06:51:13 GMT | Cybersecurity Summer Internship Program in Delhi | cyber security Updates | [Read More](https://medium.com/p/ae6e06bf5a18) |
+| Fri, 09 May 2025 06:49:42 GMT | Maryland Taps Former Federal CISO as New Cybersecurity Chief | SafetyDetectives Research Team | [Read More](https://medium.com/p/afc0922746fe) |
+| Fri, 09 May 2025 06:47:21 GMT | JS File Reconnaissance In Web Hacking | SysSecureLabs | [Read More](https://medium.com/p/436215909594) |
+| Fri, 09 May 2025 06:42:17 GMT | Website Security in the Digital Age: How Cybersecurity Services Are Changing the Game | Arushi Srivastava | [Read More](https://medium.com/p/5a0525e32d24) |
+| Fri, 09 May 2025 06:37:29 GMT | Quantum-Safe Cryptography: Safeguarding the Digital Future | Jackdavis Iap | [Read More](https://medium.com/p/0be0f47baa96) |
+| Fri, 09 May 2025 06:33:32 GMT | Potential and Challenges for Cyber Security in Blockchain Technology | AMEEN RASHID PUTHIYAKATH | [Read More](https://medium.com/p/e2c124714d5c) |
+| Fri, 09 May 2025 06:33:18 GMT | $50,000 Bounty: GitHub Access Token | Monika sharma | [Read More](https://medium.com/p/c29cb6f00182) |
+| Fri, 09 May 2025 06:25:48 GMT | Chinese Hackers’ SuperShell Heist: How CVE-2025–31324 Turns SAP Servers into Cyber Playgrounds… | Ismail Tasdelen | [Read More](https://medium.com/p/a0eeeabd60cf) |
 | Fri, 09 May 2025 06:24:22 GMT | Cyber War: A Growing Threat to Our Digital World — How We Can Safeguard Our Future | Badal kathayat | [Read More](https://medium.com/p/dac9a2c41e4b) |
 | Fri, 09 May 2025 06:17:55 GMT | $840 Bounty: How I Stole OAuth Tokens from Twitter | Monika sharma | [Read More](https://medium.com/p/733f82857eda) |
 | Fri, 09 May 2025 06:11:24 GMT | SonicWall’s SMA 100 Nightmare: How Three Flaws Let Hackers Run Code as Root ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/b507c558b7dc) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 22:16:01 GMT | Advanced Persistent Threats (APT): How to Detect and Respond to Sophisticated Cyber Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b09cfda8d232) |
 | Thu, 08 May 2025 22:09:01 GMT | PTA reacts to hacking and social media blockades in India | Asad Ullah | [Read More](https://medium.com/p/4cf71265c3fa) |
 | Thu, 08 May 2025 21:44:35 GMT | How a Smart Guard Patrol System Can Reinvent On-Site Security in 2025 | MQKING | [Read More](https://medium.com/p/f5c34957c8e2) |
-| Thu, 08 May 2025 21:32:13 GMT | $5000 Bounty: Critical Stored XSS | Monika sharma | [Read More](https://medium.com/p/e93c1730eccc) |
-| Thu, 08 May 2025 21:30:34 GMT | TryHackMe Room Write-Up: Hydra | Ahmed Nageeb | [Read More](https://medium.com/p/25aa521f5f54) |
-| Thu, 08 May 2025 21:27:47 GMT | Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios | coffinxp | [Read More](https://medium.com/p/e00c9e1f85cd) |
-| Thu, 08 May 2025 21:27:41 GMT | $500 Bounty: Parameter Pollution in HackerOne’s | Monika sharma | [Read More](https://medium.com/p/976bb0a3caae) |
-| Thu, 08 May 2025 21:27:33 GMT | Digital Trenches: When Governments Wage War in the Shadows | Ahmad Javed | [Read More](https://medium.com/p/4d667f5ca2c9) |
-| Thu, 08 May 2025 21:23:36 GMT | Nginx advanced techniques: Turbocharge your web infrastructure | Roman Huliak | [Read More](https://medium.com/p/6b2c7bf6fb74) |
-| Thu, 08 May 2025 21:23:13 GMT | Bypassing Security Mechanisms in Restricted Mobile Applications | Onurcan Genç | [Read More](https://medium.com/p/173b6059c0f0) |
-| Thu, 08 May 2025 21:22:33 GMT | Honeypots vs. Watering Hole Attacks | Cyber T | [Read More](https://medium.com/p/ad40cf76b1e9) |
-| Thu, 08 May 2025 21:22:26 GMT | TryHackMe - Memory Acquisition - WriteUp | Axoloth | [Read More](https://medium.com/p/c9d3248ec4c1) |
-| Thu, 08 May 2025 21:20:53 GMT | Reverse Engineering Başlanğıcı: IDA Pro-da CrackME Analizi | Elmin Farzaliyev | [Read More](https://medium.com/p/e46da4adf674) |
-| Thu, 08 May 2025 21:13:27 GMT | Is the Certified Lead Penetration Test Professional (CLPTP) Certification Worth It? | Shamsul Anam Emon | [Read More](https://medium.com/p/61f6adf8b3da) |
-| Thu, 08 May 2025 21:10:39 GMT | to be loved even in the silent moments | halle | [Read More](https://medium.com/p/ce1334abb578) |
-| Thu, 08 May 2025 21:10:31 GMT | My Cybersecurity Journey with Digitanotion Limited: Real-World Skills, Real Growth | Nanfwang Solomon | [Read More](https://medium.com/p/d64952021bed) |
-| Thu, 08 May 2025 21:06:26 GMT | Social security in India | The United Indian | [Read More](https://medium.com/p/32180e5e5784) |
-| Thu, 08 May 2025 21:02:38 GMT | The Cost of Ignoring Cybersecurity | John Locke | [Read More](https://medium.com/p/741c610fa5cf) |
