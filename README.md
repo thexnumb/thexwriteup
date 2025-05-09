@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 19:12:14 GMT | Reviewing Penetration Testing Contracts | Kulkan Security | [Read More](https://medium.com/p/6e0e615f48e6) |
+| Fri, 09 May 2025 19:12:06 GMT | How Your Online Activities Are Being Tracked and Sold: Protect Your Digital Presence Today | All in One security | [Read More](https://medium.com/p/20b4fcb0e7a7) |
+| Fri, 09 May 2025 19:08:12 GMT | RootSeeker Begins - A Cybersecurity Enthusiast’s Journey | RootSeeker | [Read More](https://medium.com/p/fd9b623357d2) |
+| Fri, 09 May 2025 19:07:51 GMT | Repaving your Kubernetes worker nodes with Karpenter | Jeremy Cowan | [Read More](https://medium.com/p/bb6280c0dffb) |
+| Fri, 09 May 2025 19:06:38 GMT | Smishing, huh? | Cyber Kavy | [Read More](https://medium.com/p/2a81615378bf) |
+| Fri, 09 May 2025 19:05:29 GMT | How I Ended Up Making Cybersecurity Posters for an Afghan Hospital | Jabbar Yaqub | [Read More](https://medium.com/p/3fbd8848f2df) |
+| Fri, 09 May 2025 18:59:00 GMT | Cyber Security: How AI Defenders will lead the way to better resilience | Shavyn Aubeeluck | [Read More](https://medium.com/p/9622c8192e46) |
+| Fri, 09 May 2025 18:55:44 GMT | Extract & Analyze Mobile App Storage in Seconds | Sandeep Wawdane | [Read More](https://medium.com/p/8e0585c0ff57) |
+| Fri, 09 May 2025 18:55:20 GMT | Is this the threat you’ve been looking for? | Security Consulting Blogspot | [Read More](https://medium.com/p/6504af869118) |
+| Fri, 09 May 2025 18:50:21 GMT | Operation Moonlander: The Silent Threat of EoL and IoT Devices in Proxy Botnets | Siva Gunasekaran | [Read More](https://medium.com/p/f2dd4214348c) |
+| Fri, 09 May 2025 18:47:43 GMT | $15,000 Bounty: Found a Critical Vulnerability in Snapchat | Monika sharma | [Read More](https://medium.com/p/377176a0f0eb) |
 | Fri, 09 May 2025 18:41:21 GMT | Mastering Privileged Access Management | vinay vasanth | [Read More](https://medium.com/p/0358a80fa866) |
 | Fri, 09 May 2025 18:41:06 GMT | How Lawyers Are Preying on Cyber Attack Victims and Insurance Companies Exacerbate the Problem | Teri Radichel | [Read More](https://medium.com/p/f62f6caef442) |
 | Fri, 09 May 2025 18:37:05 GMT | Termux for Beginners: | 0b1d1 | [Read More](https://medium.com/p/db0ed5edcf19) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 13:10:25 GMT | ️ Hide Shellcode in Images: A Red Team Trick You’ve Probably Overlooked | Yua Mikanana | [Read More](https://medium.com/p/4fda876932e9) |
 | Fri, 09 May 2025 13:06:28 GMT | Geen hack in Spanje wel ééntje dichtbij huis | LottaCvUF | [Read More](https://medium.com/p/7ce52ca55f6f) |
 | Fri, 09 May 2025 13:06:07 GMT | Newly Emerged Ransomware Groups in 2025: The Next Wave of Cyber Threats | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/6ace55b7eddc) |
-| Fri, 09 May 2025 13:03:40 GMT | The Dark Side of Cybersecurity: Understanding Cybercrime & How to Fight It | Adhildot | [Read More](https://medium.com/p/18322abc73a0) |
-| Fri, 09 May 2025 13:02:42 GMT | SOC Scalability Without Growing Headcount — Is It Possible? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/84065542b3e7) |
-| Fri, 09 May 2025 12:59:09 GMT | HyperScanner [HxScanner] v1.4: A Fast, Beautiful HTTP & CORS Scanner for Modern Hackers | Neeraj Sah | [Read More](https://medium.com/p/749b36e2d947) |
-| Fri, 09 May 2025 12:57:01 GMT | Quantum-Resistant Federated Kafka: Architecting Secure, Compliant, and Scalable Multi-Cloud Event… | Sachin Rajakaruna | [Read More](https://medium.com/p/7baf1f788268) |
-| Fri, 09 May 2025 12:55:17 GMT | Why SecurA is the Leading Security and Housekeeping Service Provider in Delhi NCR | securasecurty | [Read More](https://medium.com/p/c3e39cc14320) |
-| Fri, 09 May 2025 12:55:15 GMT | Securing Your Django REST API: Authentication, Permissions, and Best Practices | Sarah Mwangi | [Read More](https://medium.com/p/e3fe9c697072) |
-| Fri, 09 May 2025 12:42:38 GMT | 10 Key Things Every Developer Must Know About Security Best Practices (With Simple Examples) | Gulshan N | [Read More](https://medium.com/p/9d3e233a245d) |
-| Fri, 09 May 2025 12:37:26 GMT | Initial Access Brokers Target Brazilian Organizations via Malicious Email Campaigns | CyBlog | [Read More](https://medium.com/p/20ea2f3f2b4a) |
-| Fri, 09 May 2025 12:32:39 GMT | Week 3 in Cybersecurity — Admin Rights, Broken Scripts & Patience Pays Off | Fabián Muñoz | [Read More](https://medium.com/p/bff561ffd717) |
-| Fri, 09 May 2025 12:32:15 GMT | Empowering Cloud Security with Trend Micro- Vision One | Juarait Digital | [Read More](https://medium.com/p/c742c793d1f4) |
-| Fri, 09 May 2025 12:26:39 GMT | Hackers Broke In Through the Microwave. Yes, Really. | Noel | [Read More](https://medium.com/p/89ef5c06376b) |
