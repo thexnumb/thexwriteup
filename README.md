@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 04:06:16 GMT | How To Instantly Claim $DORK | DORK | [Read More](https://medium.com/p/3ad29ea2e7aa) |
+| Fri, 09 May 2025 04:01:05 GMT | Hacking AI with Markdown: How We Triggered XSS in DeepSeek’s Chat | N45HT | [Read More](https://medium.com/p/e625686530b6) |
+| Fri, 09 May 2025 03:50:56 GMT | Exploring The Necessity Of VPNs In 2023 | James Neal | [Read More](https://medium.com/p/d7c0a3463374) |
+| Fri, 09 May 2025 03:45:52 GMT | Why The Most Advanced VPNs Are A Necessity | Melvin Erickson | [Read More](https://medium.com/p/cba8d27e72f7) |
 | Fri, 09 May 2025 03:41:39 GMT | Hack The Box: SecNotes Walkthrough | packetsniper | [Read More](https://medium.com/p/e438135cbc6d) |
 | Fri, 09 May 2025 03:36:46 GMT | Cyber War against India Tomorrow?:- | Sushantogale | [Read More](https://medium.com/p/6531a95ac274) |
 | Fri, 09 May 2025 03:35:18 GMT | Navigating the Labyrinth of Security and Privacy in the Mobile and IoT Era | Mpandugalang | [Read More](https://medium.com/p/3ad4c0b00f57) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 18:39:52 GMT | MuleSoft Rate Limiting — SLA Based Policy | Praveen Reddy | [Read More](https://medium.com/p/6f1e14dab39c) |
 | Thu, 08 May 2025 18:37:18 GMT | Kelly Benefits Data Breach: What 413,000+ Affected Individuals Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/6a62e181ed67) |
 | Thu, 08 May 2025 18:36:39 GMT | Eliminating Unused CSS and JS in WordPress Without Breaking the Site | Shubradeb | [Read More](https://medium.com/p/64c39b8d5b13) |
-| Thu, 08 May 2025 18:33:38 GMT | Maximize Your Crypto Rewards with $CVE | CVE | [Read More](https://medium.com/p/7329f5b4cad7) |
-| Thu, 08 May 2025 18:30:15 GMT | Cybersecurity Job Roles of the Future: What Will Still Exist, Evolve, or Disappear by 2030? | Taimur Ijlal | [Read More](https://medium.com/p/ee5584f6ba9f) |
-| Thu, 08 May 2025 18:29:03 GMT | Getting Your Hair Grey with Sophos ZTNA — Or: How to Survive Configuring Sophos Zero Trust Network… | CyberPumpkin | [Read More](https://medium.com/p/04b069561747) |
-| Thu, 08 May 2025 18:27:21 GMT | Whiterose (CTF) — TryHackMe Writeup | z0diac | [Read More](https://medium.com/p/8c4434fd3e5b) |
