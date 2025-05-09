@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 18:41:21 GMT | Mastering Privileged Access Management | vinay vasanth | [Read More](https://medium.com/p/0358a80fa866) |
+| Fri, 09 May 2025 18:41:06 GMT | How Lawyers Are Preying on Cyber Attack Victims and Insurance Companies Exacerbate the Problem | Teri Radichel | [Read More](https://medium.com/p/f62f6caef442) |
+| Fri, 09 May 2025 18:37:05 GMT | Termux for Beginners: | 0b1d1 | [Read More](https://medium.com/p/db0ed5edcf19) |
+| Fri, 09 May 2025 18:32:40 GMT | Diagnosing Theme Conflicts Like a Pro: WordPress Edition | Shubradeb | [Read More](https://medium.com/p/39c2041d8a8b) |
 | Fri, 09 May 2025 18:12:12 GMT | Path Traversal —  OWASP JuiceShop #8 | DebianHat | [Read More](https://medium.com/p/3f62ed196d52) |
 | Fri, 09 May 2025 18:08:20 GMT | Google Dorking: The Ethical Hacker’s Guide to Advanced Search Techniques | Jakob Turner | [Read More](https://medium.com/p/8123a444ae88) |
 | Fri, 09 May 2025 18:06:29 GMT | The Leaderboard Illusion | Tal Eliyahu | [Read More](https://medium.com/p/3f3de023e0f1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 12:32:39 GMT | Week 3 in Cybersecurity — Admin Rights, Broken Scripts & Patience Pays Off | Fabián Muñoz | [Read More](https://medium.com/p/bff561ffd717) |
 | Fri, 09 May 2025 12:32:15 GMT | Empowering Cloud Security with Trend Micro- Vision One | Juarait Digital | [Read More](https://medium.com/p/c742c793d1f4) |
 | Fri, 09 May 2025 12:26:39 GMT | Hackers Broke In Through the Microwave. Yes, Really. | Noel | [Read More](https://medium.com/p/89ef5c06376b) |
-| Fri, 09 May 2025 12:16:48 GMT | Domain V — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/e1d7a5f4ece7) |
-| Fri, 09 May 2025 12:13:15 GMT | Driver f$#k3ng Loaded | Anthony Ventarola | [Read More](https://medium.com/p/8aabd9235fec) |
-| Fri, 09 May 2025 11:58:10 GMT | Best Parental Control Apps for Android and iPhone in 2025 | StartDigital | [Read More](https://medium.com/p/9160f792a31f) |
-| Fri, 09 May 2025 11:56:45 GMT | The Overlooked Risk: Insider Threats in Education Networks | Brandon Dewater | [Read More](https://medium.com/p/2f31d530a0c1) |
