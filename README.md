@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 23:31:32 GMT | The Red Teaming: 30-Day Challenge[26] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c338f235913b) |
+| Fri, 09 May 2025 23:23:55 GMT | Setting Up Roblox Safely for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/7557381d8a0a) |
+| Fri, 09 May 2025 23:21:52 GMT | Indian missiles ‘strike army air bases in Pakistan | BTS Brand ☑️ | [Read More](https://medium.com/p/cdd27b440e9d) |
+| Fri, 09 May 2025 23:20:09 GMT | PowerSchool Data Breach — Round 2 Extortions | Matthew.Rosenquist | [Read More](https://medium.com/p/feb78dd09d00) |
+| Fri, 09 May 2025 23:19:27 GMT | Part 1: Understanding Policy-as-Code and AWS Service Control Policies | Karlmarx Karunanithi | [Read More](https://medium.com/p/c342940171b7) |
+| Fri, 09 May 2025 23:16:18 GMT | How I got a job | Bill Corrie | [Read More](https://medium.com/p/6efef689b090) |
 | Fri, 09 May 2025 23:12:22 GMT | N8N Hardening: Complete Guide to Securing Your Automation Workflows | Efrainec | [Read More](https://medium.com/p/aa84c8f07095) |
 | Fri, 09 May 2025 22:40:22 GMT | Microsoft Listens to Security Concerns and Delays New OneDrive Sync | Matthew.Rosenquist | [Read More](https://medium.com/p/bf796b74f183) |
 | Fri, 09 May 2025 22:37:14 GMT | Peer Pressure and Cyberbullying Explained for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/bc3b16379ffc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 15:45:20 GMT | Is Outsourcing Your Help Desk Worth It? 3 Reasons Ontario, CA Companies Say Yes | Zeta Sky | [Read More](https://medium.com/p/e8964209909b) |
 | Fri, 09 May 2025 15:42:36 GMT | PROTECTION VAUDOU POUR TOUTE VOTRE VIE. Téléphone WhatsApp: 00229 01 94 7369 37 | grand maitre marabout lantan | [Read More](https://medium.com/p/4f17889d4ada) |
 | Fri, 09 May 2025 15:42:28 GMT | Mastering Nuclei — The Ultimate Tool for Web Vulnerability Scanning & Bug Bounties | Kshahabaj | [Read More](https://medium.com/p/1dcd5818d85e) |
-| Fri, 09 May 2025 15:40:23 GMT | To Love in the Moment: A Message to the Avoidant Heart | Groovy Spirit Realm | [Read More](https://medium.com/p/ccf251b0b438) |
-| Fri, 09 May 2025 15:33:45 GMT | Maximizing the Value of Managed IT Services in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/bfe60ed13be3) |
-| Fri, 09 May 2025 15:25:07 GMT | Awesome hack I did so far (Real World Scenario) | St01 x kingpromy | [Read More](https://medium.com/p/be5f143a24d9) |
-| Fri, 09 May 2025 15:13:56 GMT | Building a Phishing Attack Simulator | Mullidev! | [Read More](https://medium.com/p/ca405ecd6be8) |
-| Fri, 09 May 2025 15:09:01 GMT | Red Team Araçları ile Güvenlik Zafiyetlerini Keşfedin: SharpHound, Rubeus, Seatbelt, SharpUp… | Rvyd | [Read More](https://medium.com/p/a100fa4a336a) |
-| Fri, 09 May 2025 15:05:52 GMT | Scan Before You Click: A Guide to URL Scanning for Security | Mohamad Mahmood | [Read More](https://medium.com/p/9f057b94384a) |
