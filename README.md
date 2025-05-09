@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 12:37:26 GMT | Initial Access Brokers Target Brazilian Organizations via Malicious Email Campaigns | CyBlog | [Read More](https://medium.com/p/20ea2f3f2b4a) |
+| Fri, 09 May 2025 12:32:39 GMT | Week 3 in Cybersecurity — Admin Rights, Broken Scripts & Patience Pays Off | Fabián Muñoz | [Read More](https://medium.com/p/bff561ffd717) |
+| Fri, 09 May 2025 12:32:15 GMT | Empowering Cloud Security with Trend Micro- Vision One | Juarait Digital | [Read More](https://medium.com/p/c742c793d1f4) |
+| Fri, 09 May 2025 12:26:39 GMT | Hackers Broke In Through the Microwave. Yes, Really. | Noel | [Read More](https://medium.com/p/89ef5c06376b) |
+| Fri, 09 May 2025 12:16:48 GMT | Domain V — Certified in Cybersecurity (CC) Certification Exam Keywords | Burak Koçyiğit | [Read More](https://medium.com/p/e1d7a5f4ece7) |
+| Fri, 09 May 2025 12:13:15 GMT | Driver f$#k3ng Loaded | Anthony Ventarola | [Read More](https://medium.com/p/8aabd9235fec) |
+| Fri, 09 May 2025 11:58:10 GMT | Best Parental Control Apps for Android and iPhone in 2025 | StartDigital | [Read More](https://medium.com/p/9160f792a31f) |
+| Fri, 09 May 2025 11:56:45 GMT | The Overlooked Risk: Insider Threats in Education Networks | Brandon Dewater | [Read More](https://medium.com/p/2f31d530a0c1) |
+| Fri, 09 May 2025 11:52:33 GMT | Why Industry Standards Are Important: A Simple Guide to Succeeding in Machine Learning | Imran Jakhro | [Read More](https://medium.com/p/c60d65287003) |
+| Fri, 09 May 2025 11:46:43 GMT | ITWave CTF 2025 — WannaCry challenge writeup | ExPlo1t | [Read More](https://medium.com/p/0abcf7946514) |
+| Fri, 09 May 2025 11:39:08 GMT | Windows Command Line - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/0a99bcb88d8e) |
 | Fri, 09 May 2025 11:35:38 GMT | Secure Your Future: The Ultimate Guide to Cybersecurity Courses in India | Dbrooks | [Read More](https://medium.com/p/7a28fe711a85) |
 | Fri, 09 May 2025 11:32:38 GMT | Hands-On Project: Launching a Web Server on Amazon EC2 (Linux + PuTTY) | Ekpenyong Emmanuel | [Read More](https://medium.com/p/b0ec8c88b2df) |
 | Fri, 09 May 2025 11:29:26 GMT | Git Some Phish | Tomer Wetzler | [Read More](https://medium.com/p/278c40c0dfb0) |
+| Fri, 09 May 2025 11:28:44 GMT | Beyond the Boardroom — How Threats Follow Executives Home | SecOps | [Read More](https://medium.com/p/24451c554b56) |
 | Fri, 09 May 2025 11:25:07 GMT | Sweet Security Disaster: How I Could Verify Any Account on a Dessert Website | Het Patel | [Read More](https://medium.com/p/689ca0b1ef45) |
 | Fri, 09 May 2025 11:23:04 GMT | How Companies Like 1Password and Okta Are Securing Autonomous AI Agents in 2025 | Babar Ali Jamali | [Read More](https://medium.com/p/f2d37e36f2ae) |
 | Fri, 09 May 2025 11:22:20 GMT | Why PCI DSS Compliance Is Critical for Indian Businesses — Cyber Quess Insights | Aarav Mehta | [Read More](https://medium.com/p/7732c916b911) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 06:51:13 GMT | Cybersecurity Summer Internship Program in Delhi | cyber security Updates | [Read More](https://medium.com/p/ae6e06bf5a18) |
 | Fri, 09 May 2025 06:49:42 GMT | Maryland Taps Former Federal CISO as New Cybersecurity Chief | SafetyDetectives Research Team | [Read More](https://medium.com/p/afc0922746fe) |
 | Fri, 09 May 2025 06:47:21 GMT | JS File Reconnaissance In Web Hacking | SysSecureLabs | [Read More](https://medium.com/p/436215909594) |
-| Fri, 09 May 2025 06:42:17 GMT | Website Security in the Digital Age: How Cybersecurity Services Are Changing the Game | Arushi Srivastava | [Read More](https://medium.com/p/5a0525e32d24) |
-| Fri, 09 May 2025 06:37:29 GMT | Quantum-Safe Cryptography: Safeguarding the Digital Future | Jackdavis Iap | [Read More](https://medium.com/p/0be0f47baa96) |
-| Fri, 09 May 2025 06:33:32 GMT | Potential and Challenges for Cyber Security in Blockchain Technology | AMEEN RASHID PUTHIYAKATH | [Read More](https://medium.com/p/e2c124714d5c) |
-| Fri, 09 May 2025 06:33:18 GMT | $50,000 Bounty: GitHub Access Token | Monika sharma | [Read More](https://medium.com/p/c29cb6f00182) |
-| Fri, 09 May 2025 06:25:48 GMT | Chinese Hackers’ SuperShell Heist: How CVE-2025–31324 Turns SAP Servers into Cyber Playgrounds… | Ismail Tasdelen | [Read More](https://medium.com/p/a0eeeabd60cf) |
-| Fri, 09 May 2025 06:24:22 GMT | Cyber War: A Growing Threat to Our Digital World — How We Can Safeguard Our Future | Badal kathayat | [Read More](https://medium.com/p/dac9a2c41e4b) |
-| Fri, 09 May 2025 06:17:55 GMT | $840 Bounty: How I Stole OAuth Tokens from Twitter | Monika sharma | [Read More](https://medium.com/p/733f82857eda) |
-| Fri, 09 May 2025 06:11:24 GMT | SonicWall’s SMA 100 Nightmare: How Three Flaws Let Hackers Run Code as Root ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/b507c558b7dc) |
-| Fri, 09 May 2025 06:06:46 GMT | How did I get my first pentesting internship as a university student without any pentesting certs? | GLITCH | [Read More](https://medium.com/p/e753db501219) |
-| Fri, 09 May 2025 06:04:51 GMT | FOFA Dorking - Part 2 | AbhirupKonwar | [Read More](https://medium.com/p/106994da9b96) |
-| Fri, 09 May 2025 06:03:58 GMT | Qilin Ransomware Steals the Show: 72 Data Leaks in April 2025’s Cyber Chaos | Ismail Tasdelen | [Read More](https://medium.com/p/c0ee32d8e68c) |
-| Fri, 09 May 2025 06:03:21 GMT | CodeGuardian OpsIQ – The Secure AI Strategy Every Engineering Org Needs Now | Gregory Tzvi Kaidanov | [Read More](https://medium.com/p/8c32ea359c69) |
