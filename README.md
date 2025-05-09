@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 15:09:01 GMT | Red Team Araçları ile Güvenlik Zafiyetlerini Keşfedin: SharpHound, Rubeus, Seatbelt, SharpUp… | Rvyd | [Read More](https://medium.com/p/a100fa4a336a) |
+| Fri, 09 May 2025 15:05:52 GMT | Scan Before You Click: A Guide to URL Scanning for Security | Mohamad Mahmood | [Read More](https://medium.com/p/9f057b94384a) |
+| Fri, 09 May 2025 15:02:40 GMT | You’re Not Patching Vulnerabilities. You’re Patching Prioritisation. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/c04d933cd2c1) |
+| Fri, 09 May 2025 15:01:24 GMT | ️ 5 Signs Your Computer Has Been Hacked — And What to Do About It | Alex Hughes | [Read More](https://medium.com/p/25fe08ffdf1e) |
+| Fri, 09 May 2025 14:59:20 GMT | Title: DLF has Fallen | Parthiban Das | [Read More](https://medium.com/p/7770ec21e961) |
+| Fri, 09 May 2025 14:58:28 GMT | From Data to Dollars: 5 IT Strategies That Sell | BhanU Prakash | [Read More](https://medium.com/p/32fc60d5c52a) |
+| Fri, 09 May 2025 14:56:01 GMT | Deepfake and Synthetic Media Detection | Esra Kayhan | [Read More](https://medium.com/p/27738956c358) |
+| Fri, 09 May 2025 14:53:27 GMT | How AWS Is Using Generative AI to Transform Cybersecurity | Victoria McDorman | [Read More](https://medium.com/p/3b24ec08ec2a) |
+| Fri, 09 May 2025 14:50:26 GMT | Is Your Phone Really Listening to You? Separating Myth from Metadata | Sultan | [Read More](https://medium.com/p/3373e5ba43b5) |
+| Fri, 09 May 2025 14:44:20 GMT | Enhancing Security for Moroccan Websites with Blockchain Technology | Chaimae Sn | [Read More](https://medium.com/p/062fe236b114) |
+| Fri, 09 May 2025 14:40:31 GMT | PHP Is Silently Powering Your Frontend Form Without Even Making a Peep | Asian Digital Hub | [Read More](https://medium.com/p/db092bad3c5e) |
+| Fri, 09 May 2025 14:38:50 GMT | The Day I Finally Said It Out Loud | Amal Devasia | [Read More](https://medium.com/p/df64a0fd8025) |
 | Fri, 09 May 2025 14:38:34 GMT | Why State & Local Agencies Can’t Afford to Ignore Cloudflare’s Security Stack in 2025 | Andrea Alaniz | [Read More](https://medium.com/p/c09a34f6b935) |
 | Fri, 09 May 2025 14:36:46 GMT | Catch of the Day | Rich Brown | [Read More](https://medium.com/p/9761a548ee23) |
 | Fri, 09 May 2025 14:31:01 GMT | The Hackers Meetup — April Edition: Cyber Law, Forensics, and Dark Web Insights | The Hackers Meetup | [Read More](https://medium.com/p/266578ba41cd) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 09:17:33 GMT | What Cybersecurity Can Learn From Retail, Admin, and Support Roles | Kurious & Secure - Kokui Agbenu | [Read More](https://medium.com/p/bf1d84dbc36e) |
 | Fri, 09 May 2025 09:17:08 GMT | Keeping Secrets–How to Handle Authentication Data in Low- and Pro-Code Environments | Stefan Schultz | [Read More](https://medium.com/p/768eabb4d20b) |
 | Fri, 09 May 2025 09:13:20 GMT | Can improper implementation of GraphQL resolvers lead to SQL Injection vulnerabilities? ..Yes | Adham Hashem | [Read More](https://medium.com/p/9433ef551e95) |
-| Fri, 09 May 2025 09:08:58 GMT | Sicherheitsroboter kaufen | Presslink Media | [Read More](https://medium.com/p/5d562f3ae62f) |
-| Fri, 09 May 2025 09:08:40 GMT | Georgia College Student Faces Deportation After Traffic Stop: The Case of Ximena Arias-Cristobal | Prijesh donga | [Read More](https://medium.com/p/961503ee9977) |
-| Fri, 09 May 2025 09:02:42 GMT | Web Application Hacking: Where do I Even Start? | Regan Temudo | [Read More](https://medium.com/p/a1e05c240936) |
-| Fri, 09 May 2025 09:00:21 GMT | Using Access Tokens and Refresh Tokens Effectively: A Guide to Securing API-Driven Applications | Anh Trần Tuấn | [Read More](https://medium.com/p/30a09672f5f1) |
-| Fri, 09 May 2025 09:00:18 GMT | Using Access Tokens and Refresh Tokens Effectively: A Guide to Securing API-Driven Applications | Anh Trần Tuấn | [Read More](https://medium.com/p/052d6223b70c) |
-| Fri, 09 May 2025 08:58:23 GMT | Event-Viewing - Writeup | Marvin | [Read More](https://medium.com/p/3c05d139b3e3) |
-| Fri, 09 May 2025 08:56:39 GMT | OttoKit WordPress Plugin Vulnerability (CVE-2025–27007): Attackers Adding Admin Accounts on… | Infoziant | [Read More](https://medium.com/p/3356cd38c08f) |
-| Fri, 09 May 2025 08:54:29 GMT | Understanding payload obfuscation and encoding in XSS attacks and WAF bypass techniques | Larbi OUIYZME | [Read More](https://medium.com/p/3c9b5397d000) |
-| Fri, 09 May 2025 08:54:15 GMT | VPS for E-commerce: Why It Matters | VSYS Host | [Read More](https://medium.com/p/c255c90eb21e) |
-| Fri, 09 May 2025 08:52:44 GMT | Security Vulnerability in Hidden Parameters: IDOR Attack on Mighty App Payment Page | TECNO Security | [Read More](https://medium.com/p/e01ea2f2dc48) |
-| Fri, 09 May 2025 08:50:31 GMT | Is the Certified Ethical Hacker (CEH) Certification Hard? What to Expect and How to Prepare | Shamsul Anam Emon | [Read More](https://medium.com/p/007756e8937b) |
-| Fri, 09 May 2025 08:47:18 GMT | Day 30: PortSwigger SQL Injection Labs: Extracting Database Version (Oracle & MySQL/Microsoft)… | Agarwaldaksh | [Read More](https://medium.com/p/d8574897ad0d) |
