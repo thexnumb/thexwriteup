@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 17:32:04 GMT | Threat Modeling — Computer Using Agent (CUA) — Part 2 | Aroha blue | [Read More](https://medium.com/p/704bad651ec0) |
+| Fri, 09 May 2025 17:28:03 GMT | Android Interview Questions: App Security Best Practices | Harshita Bambure | [Read More](https://medium.com/p/7b4546909e4a) |
+| Fri, 09 May 2025 17:26:23 GMT | analyse pixel tools and their effects on learning outcomes | S Anuradha | [Read More](https://medium.com/p/78aca284a971) |
+| Fri, 09 May 2025 17:24:20 GMT | ⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection | ASC Lages | [Read More](https://medium.com/p/47a0db51bfd9) |
 | Fri, 09 May 2025 17:17:42 GMT | LinkedIn: More Than Just a Job Board — It’s Your Professional Playground | Vignaraj Ravi | [Read More](https://medium.com/p/e3fdf324c367) |
+| Fri, 09 May 2025 17:17:41 GMT | Inside Out Living: Be Real or Be Really Tired | Farzad Banifatemi | [Read More](https://medium.com/p/b5966d996bcf) |
+| Fri, 09 May 2025 17:17:12 GMT | i’m learning to fight like You | deardiary | [Read More](https://medium.com/p/d411d16e251c) |
 | Fri, 09 May 2025 17:08:11 GMT | Beyond the 404: Your Step-by-Step Guide to Installing Kali NetHunter Rootless on Termux (and… | Abel | [Read More](https://medium.com/p/dd96a4a213e6) |
 | Fri, 09 May 2025 17:06:32 GMT | Pentesting My Roku TV: A Quiet Attack Vector in the Living Room | C. Oscar Lawshea | [Read More](https://medium.com/p/a50d8aa633ce) |
 | Fri, 09 May 2025 17:01:00 GMT | I Nothing Felt Right Until I Found Hãcking | Kazi Arman Elahi | [Read More](https://medium.com/p/60db0c657c3f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 11:32:38 GMT | Hands-On Project: Launching a Web Server on Amazon EC2 (Linux + PuTTY) | Ekpenyong Emmanuel | [Read More](https://medium.com/p/b0ec8c88b2df) |
 | Fri, 09 May 2025 11:29:26 GMT | Git Some Phish | Tomer Wetzler | [Read More](https://medium.com/p/278c40c0dfb0) |
 | Fri, 09 May 2025 11:28:44 GMT | Beyond the Boardroom — How Threats Follow Executives Home | SecOps | [Read More](https://medium.com/p/24451c554b56) |
-| Fri, 09 May 2025 11:25:07 GMT | Sweet Security Disaster: How I Could Verify Any Account on a Dessert Website | Het Patel | [Read More](https://medium.com/p/689ca0b1ef45) |
-| Fri, 09 May 2025 11:23:04 GMT | How Companies Like 1Password and Okta Are Securing Autonomous AI Agents in 2025 | Babar Ali Jamali | [Read More](https://medium.com/p/f2d37e36f2ae) |
-| Fri, 09 May 2025 11:22:20 GMT | Why PCI DSS Compliance Is Critical for Indian Businesses — Cyber Quess Insights | Aarav Mehta | [Read More](https://medium.com/p/7732c916b911) |
-| Fri, 09 May 2025 11:16:40 GMT | Anomaly Detection Using Autoencoders: A Deep Dive into Fraud Detection | Ogochukwu Stanley Ikegbo | [Read More](https://medium.com/p/9f59bcb5ab32) |
-| Fri, 09 May 2025 11:09:23 GMT | How IDS, IPS, and IDPS Protect Your Network Like Digital Bodyguards | Cyber T | [Read More](https://medium.com/p/1f6f9a5aa338) |
-| Fri, 09 May 2025 11:08:53 GMT | IoT & OT Security: What to Do After You Know the Basics? | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/888ea84ec194) |
