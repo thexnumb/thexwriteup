@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 08:43:33 GMT | ORTUGAMING | ORTUGAMING | [Read More](https://medium.com/p/f4e3666cc200) |
 | Fri, 09 May 2025 08:26:45 GMT | AirPlay Vulnerability: What Apple Users Need to Know Right Now | R&B Networks | [Read More](https://medium.com/p/db89640c8559) |
+| Fri, 09 May 2025 08:20:07 GMT | How To Get $CVE Rewards | CVE | [Read More](https://medium.com/p/2f9f7de47a7d) |
 | Fri, 09 May 2025 08:14:01 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/d640c73dd872) |
 | Fri, 09 May 2025 08:13:39 GMT | What’s SSRF(Server Side Request Forgery) | Agazadeamin | [Read More](https://medium.com/p/dd729ab88b8b) |
 | Fri, 09 May 2025 08:10:43 GMT | The Corix Partners Friday Reading List — May 9, 2025 | JC Gaillard | [Read More](https://medium.com/p/7007a1b012b3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 01:30:37 GMT | Hack The Box Academy — Network Foundations — Skills Assessment | bl77rd | [Read More](https://medium.com/p/51c5aae13912) |
 | Fri, 09 May 2025 01:21:22 GMT | Securing Windows: How to Set Up a Pre-Boot PIN with BitLocker | p3tsh0p | [Read More](https://medium.com/p/77b6b7396d80) |
 | Fri, 09 May 2025 01:19:56 GMT | Critical RCE Vulnerability Discovered in Erlang/OTP SSH — CVE-2025–32433 | Criminal IP | [Read More](https://medium.com/p/bdaba163524a) |
-| Fri, 09 May 2025 01:16:40 GMT | The Red Teaming: 30-Day Challenge[25] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c156f8f7d4b1) |
-| Fri, 09 May 2025 01:07:23 GMT | Incognito Mode Myths Busted: Secure Your Online Life Now! | Arpit Kishor Giri | [Read More](https://medium.com/p/514e86614e28) |
