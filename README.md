@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 09:17:33 GMT | What Cybersecurity Can Learn From Retail, Admin, and Support Roles | Kurious & Secure - Kokui Agbenu | [Read More](https://medium.com/p/bf1d84dbc36e) |
+| Fri, 09 May 2025 09:13:20 GMT | Can improper implementation of GraphQL resolvers lead to SQL Injection vulnerabilities? ..Yes | Adham Hashem | [Read More](https://medium.com/p/9433ef551e95) |
+| Fri, 09 May 2025 09:08:58 GMT | Sicherheitsroboter kaufen | Presslink Media | [Read More](https://medium.com/p/5d562f3ae62f) |
+| Fri, 09 May 2025 09:08:40 GMT | Georgia College Student Faces Deportation After Traffic Stop: The Case of Ximena Arias-Cristobal | Prijesh donga | [Read More](https://medium.com/p/961503ee9977) |
+| Fri, 09 May 2025 09:02:42 GMT | Web Application Hacking: Where do I Even Start? | Regan Temudo | [Read More](https://medium.com/p/a1e05c240936) |
+| Fri, 09 May 2025 09:00:21 GMT | Using Access Tokens and Refresh Tokens Effectively: A Guide to Securing API-Driven Applications | Anh Trần Tuấn | [Read More](https://medium.com/p/30a09672f5f1) |
+| Fri, 09 May 2025 09:00:18 GMT | Using Access Tokens and Refresh Tokens Effectively: A Guide to Securing API-Driven Applications | Anh Trần Tuấn | [Read More](https://medium.com/p/052d6223b70c) |
+| Fri, 09 May 2025 08:58:23 GMT | Event-Viewing - Writeup | Marvin | [Read More](https://medium.com/p/3c05d139b3e3) |
+| Fri, 09 May 2025 08:56:39 GMT | OttoKit WordPress Plugin Vulnerability (CVE-2025–27007): Attackers Adding Admin Accounts on… | Infoziant | [Read More](https://medium.com/p/3356cd38c08f) |
+| Fri, 09 May 2025 08:54:29 GMT | Understanding payload obfuscation and encoding in XSS attacks and WAF bypass techniques | Larbi OUIYZME | [Read More](https://medium.com/p/3c9b5397d000) |
+| Fri, 09 May 2025 08:54:15 GMT | VPS for E-commerce: Why It Matters | VSYS Host | [Read More](https://medium.com/p/c255c90eb21e) |
+| Fri, 09 May 2025 08:52:44 GMT | Security Vulnerability in Hidden Parameters: IDOR Attack on Mighty App Payment Page | TECNO Security | [Read More](https://medium.com/p/e01ea2f2dc48) |
+| Fri, 09 May 2025 08:50:31 GMT | Is the Certified Ethical Hacker (CEH) Certification Hard? What to Expect and How to Prepare | Shamsul Anam Emon | [Read More](https://medium.com/p/007756e8937b) |
+| Fri, 09 May 2025 08:47:18 GMT | Day 30: PortSwigger SQL Injection Labs: Extracting Database Version (Oracle & MySQL/Microsoft)… | Agarwaldaksh | [Read More](https://medium.com/p/d8574897ad0d) |
 | Fri, 09 May 2025 08:43:33 GMT | ORTUGAMING | ORTUGAMING | [Read More](https://medium.com/p/f4e3666cc200) |
 | Fri, 09 May 2025 08:26:45 GMT | AirPlay Vulnerability: What Apple Users Need to Know Right Now | R&B Networks | [Read More](https://medium.com/p/db89640c8559) |
 | Fri, 09 May 2025 08:20:07 GMT | How To Get $CVE Rewards | CVE | [Read More](https://medium.com/p/2f9f7de47a7d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 03:15:48 GMT | Navigating the Shadows: Unpacking Private Browsing Usage and Security Indicators | Mpandugalang | [Read More](https://medium.com/p/27fbffc18475) |
 | Fri, 09 May 2025 03:01:10 GMT | Open Redirect Vulnerability: What It Is and Why It Matters | Pawan Jaiswal | [Read More](https://medium.com/p/b600117c61a7) |
 | Fri, 09 May 2025 02:47:38 GMT | To the One who has been avoiding me. | Ema Nymton | [Read More](https://medium.com/p/be0640c535fc) |
-| Fri, 09 May 2025 02:42:06 GMT | Cracking Malware: The Art of Analysis & Reverse Engineering | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/43ccb931e39a) |
-| Fri, 09 May 2025 02:37:09 GMT | Hack to Protect: Mastering Penetration Testing | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/e81872090e2f) |
-| Fri, 09 May 2025 02:31:33 GMT | Believe in yourself | EXLITY | [Read More](https://medium.com/p/afb169b42fb5) |
-| Fri, 09 May 2025 02:28:53 GMT | The Rise of AI Companions — Are We Replacing Human Relationships? | Bhavya Singla | [Read More](https://medium.com/p/9e513b5c7bd2) |
-| Fri, 09 May 2025 02:16:41 GMT | Are Your Confidential Files Just a Google Search Away? Metagoofil Can Tell | Sam Galope | [Read More](https://medium.com/p/ea6c7c6bd9fe) |
-| Fri, 09 May 2025 02:10:04 GMT | Dodging the Debugger: WinAntiDbg0x300 (picoCTF 2024 Writeup) | Ibnu Ilham | [Read More](https://medium.com/p/0d913ad398ba) |
-| Fri, 09 May 2025 02:07:49 GMT | flags are stepic - Writeup | Marvin | [Read More](https://medium.com/p/26a3c795a0e9) |
-| Fri, 09 May 2025 01:58:08 GMT | Cybersecurity 101: What Your Operating System Actually Does in the Context of Cybersecurity. | Kheyraldhs | [Read More](https://medium.com/p/009a83fb8151) |
-| Fri, 09 May 2025 01:43:22 GMT | Cyber Attacks: Which Ones Should Developers Prioritize (and Which Can Wait)? | Alif Mauludi | [Read More](https://medium.com/p/c00c08742387) |
-| Fri, 09 May 2025 01:42:38 GMT | The Russia-linked threat actor known as COLDRIVER has been observed distributing a new malware… | ulethon | [Read More](https://medium.com/p/f01a443e12c9) |
-| Fri, 09 May 2025 01:38:15 GMT | How Breaches Start: 5 Real-World Vulnerabilities That Escalated Fast | Cyber-AppSec | [Read More](https://medium.com/p/4593ee0ce887) |
-| Fri, 09 May 2025 01:30:37 GMT | Hack The Box Academy — Network Foundations — Skills Assessment | bl77rd | [Read More](https://medium.com/p/51c5aae13912) |
-| Fri, 09 May 2025 01:21:22 GMT | Securing Windows: How to Set Up a Pre-Boot PIN with BitLocker | p3tsh0p | [Read More](https://medium.com/p/77b6b7396d80) |
-| Fri, 09 May 2025 01:19:56 GMT | Critical RCE Vulnerability Discovered in Erlang/OTP SSH — CVE-2025–32433 | Criminal IP | [Read More](https://medium.com/p/bdaba163524a) |
