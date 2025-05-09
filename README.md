@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 14:38:34 GMT | Why State & Local Agencies Can’t Afford to Ignore Cloudflare’s Security Stack in 2025 | Andrea Alaniz | [Read More](https://medium.com/p/c09a34f6b935) |
+| Fri, 09 May 2025 14:36:46 GMT | Catch of the Day | Rich Brown | [Read More](https://medium.com/p/9761a548ee23) |
+| Fri, 09 May 2025 14:31:01 GMT | The Hackers Meetup — April Edition: Cyber Law, Forensics, and Dark Web Insights | The Hackers Meetup | [Read More](https://medium.com/p/266578ba41cd) |
+| Fri, 09 May 2025 14:23:29 GMT | Guarding Your Digital DNA: EDSPL Combines Network, Email, Application & API Security Like No Other | saurabh cyberinfomines | [Read More](https://medium.com/p/a732bc7a932c) |
+| Fri, 09 May 2025 14:22:45 GMT | Ice Room: Icecast Exploitation and Privilege Escalation | Rac:) | [Read More](https://medium.com/p/1de794902d59) |
+| Fri, 09 May 2025 14:21:08 GMT | Blue Room: EternalBlue Exploitation | Rac:) | [Read More](https://medium.com/p/87b800d82fd0) |
+| Fri, 09 May 2025 14:20:30 GMT | Mastering Rate Limit Bypass Techniques | coffinxp | [Read More](https://medium.com/p/fff9499b0f42) |
+| Fri, 09 May 2025 14:16:01 GMT | A Secure and Scalable Authentication Flow | Ashit Ranpura | [Read More](https://medium.com/p/a548724716a4) |
+| Fri, 09 May 2025 14:14:51 GMT | The Real Benefits of Installing a 2 Star Security Handle on Your Front Door | Lock Fitter | [Read More](https://medium.com/p/19ca9abaa441) |
 | Fri, 09 May 2025 14:13:28 GMT | How to Leverage AI as a Security Engineer Without Becoming Illiterate | Ryan G. Cox | [Read More](https://medium.com/p/8c54ad907d77) |
+| Fri, 09 May 2025 14:07:52 GMT | Top 10 Security Flaws We Found in Crypto Exchanges (Real-World Cases) | Decrypt0 | [Read More](https://medium.com/p/11f21bf27c9d) |
 | Fri, 09 May 2025 14:00:39 GMT | Squid — Port 3128 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/4cc4adcff83a) |
 | Fri, 09 May 2025 13:58:41 GMT | Cyber Briefing: 2025.05.09 | CyberMaterial | [Read More](https://medium.com/p/d43d78831655) |
 | Fri, 09 May 2025 13:58:01 GMT | Zero Trust Mimarisi: Artık Kimseye Güvenilmiyor | Mehmet Nur Devecioğlu | [Read More](https://medium.com/p/ebb3d4f5f164) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 08:52:44 GMT | Security Vulnerability in Hidden Parameters: IDOR Attack on Mighty App Payment Page | TECNO Security | [Read More](https://medium.com/p/e01ea2f2dc48) |
 | Fri, 09 May 2025 08:50:31 GMT | Is the Certified Ethical Hacker (CEH) Certification Hard? What to Expect and How to Prepare | Shamsul Anam Emon | [Read More](https://medium.com/p/007756e8937b) |
 | Fri, 09 May 2025 08:47:18 GMT | Day 30: PortSwigger SQL Injection Labs: Extracting Database Version (Oracle & MySQL/Microsoft)… | Agarwaldaksh | [Read More](https://medium.com/p/d8574897ad0d) |
-| Fri, 09 May 2025 08:43:33 GMT | ORTUGAMING | ORTUGAMING | [Read More](https://medium.com/p/f4e3666cc200) |
-| Fri, 09 May 2025 08:26:45 GMT | AirPlay Vulnerability: What Apple Users Need to Know Right Now | R&B Networks | [Read More](https://medium.com/p/db89640c8559) |
-| Fri, 09 May 2025 08:20:07 GMT | How To Get $CVE Rewards | CVE | [Read More](https://medium.com/p/2f9f7de47a7d) |
-| Fri, 09 May 2025 08:14:01 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/d640c73dd872) |
-| Fri, 09 May 2025 08:13:39 GMT | What’s SSRF(Server Side Request Forgery) | Agazadeamin | [Read More](https://medium.com/p/dd729ab88b8b) |
-| Fri, 09 May 2025 08:10:43 GMT | The Corix Partners Friday Reading List — May 9, 2025 | JC Gaillard | [Read More](https://medium.com/p/7007a1b012b3) |
-| Fri, 09 May 2025 08:07:31 GMT | Protect Your Digital World from Cyber Attacks with SiyanoAV | Manik | [Read More](https://medium.com/p/68052302d7d3) |
-| Fri, 09 May 2025 08:02:39 GMT | Penetration Testing — Increase your web pentest speed in Burp AI | Tony Fu - OSCP, AWS x 3 | [Read More](https://medium.com/p/2c796308e87a) |
-| Fri, 09 May 2025 07:59:05 GMT | How Can I Withdraw My Money From Selwix? | Ambrose | [Read More](https://medium.com/p/4cbab9d62dd8) |
-| Fri, 09 May 2025 07:57:15 GMT | CSP? More Like Can’t Stop Payloads  — Bypassing CSP to XSS Like a Pro | Iski | [Read More](https://medium.com/p/90d27c2c3a40) |
