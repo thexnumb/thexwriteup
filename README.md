@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 02:47:38 GMT | To the One who has been avoiding me. | Ema Nymton | [Read More](https://medium.com/p/be0640c535fc) |
+| Fri, 09 May 2025 02:42:06 GMT | Cracking Malware: The Art of Analysis & Reverse Engineering | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/43ccb931e39a) |
+| Fri, 09 May 2025 02:37:09 GMT | Hack to Protect: Mastering Penetration Testing | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/e81872090e2f) |
+| Fri, 09 May 2025 02:31:33 GMT | Believe in yourself | EXLITY | [Read More](https://medium.com/p/afb169b42fb5) |
+| Fri, 09 May 2025 02:28:53 GMT | The Rise of AI Companions — Are We Replacing Human Relationships? | Bhavya Singla | [Read More](https://medium.com/p/9e513b5c7bd2) |
+| Fri, 09 May 2025 02:16:41 GMT | Are Your Confidential Files Just a Google Search Away? Metagoofil Can Tell | Sam Galope | [Read More](https://medium.com/p/ea6c7c6bd9fe) |
+| Fri, 09 May 2025 02:10:04 GMT | Dodging the Debugger: WinAntiDbg0x300 (picoCTF 2024 Writeup) | Ibnu Ilham | [Read More](https://medium.com/p/0d913ad398ba) |
+| Fri, 09 May 2025 02:07:49 GMT | flags are stepic - Writeup | Marvin | [Read More](https://medium.com/p/26a3c795a0e9) |
+| Fri, 09 May 2025 01:58:08 GMT | Cybersecurity 101: What Your Operating System Actually Does in the Context of Cybersecurity. | Kheyraldhs | [Read More](https://medium.com/p/009a83fb8151) |
+| Fri, 09 May 2025 01:43:22 GMT | Cyber Attacks: Which Ones Should Developers Prioritize (and Which Can Wait)? | Alif Mauludi | [Read More](https://medium.com/p/c00c08742387) |
 | Fri, 09 May 2025 01:42:38 GMT | The Russia-linked threat actor known as COLDRIVER has been observed distributing a new malware… | ulethon | [Read More](https://medium.com/p/f01a443e12c9) |
 | Fri, 09 May 2025 01:38:15 GMT | How Breaches Start: 5 Real-World Vulnerabilities That Escalated Fast | Cyber-AppSec | [Read More](https://medium.com/p/4593ee0ce887) |
 | Fri, 09 May 2025 01:30:37 GMT | Hack The Box Academy — Network Foundations — Skills Assessment | bl77rd | [Read More](https://medium.com/p/51c5aae13912) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 18:13:26 GMT | The Weight of Wanting More: Being Queer, Sensitive, and Misunderstood in an Uncertain World | matthew | [Read More](https://medium.com/p/e60a7d2f0928) |
 | Thu, 08 May 2025 18:09:46 GMT | Once we land on a low-privileged user shell in our Windows target it’s crucial to know what to and… | Evyeveline | [Read More](https://medium.com/p/9bedccf0728c) |
 | Thu, 08 May 2025 18:09:17 GMT | Navigating Files and Directories in Linux | Warmann Onisowurun | [Read More](https://medium.com/p/b5f0e95b689f) |
-| Thu, 08 May 2025 18:03:20 GMT | ✨ Introducing: The “Dear Me” Series — Letters to My Future Self ✨ | Oluwadamilola Fabiyi | [Read More](https://medium.com/p/7bece5c96c6c) |
-| Thu, 08 May 2025 18:02:40 GMT | A Love Letter to Laughter | McCauley | [Read More](https://medium.com/p/978c95a416a8) |
-| Thu, 08 May 2025 18:01:47 GMT | “It’s Just a Wallet”… Until It’s Gone: What Nobody Tells You About Wallet Security in Crypto. | Iyonmana Adesuwa | [Read More](https://medium.com/p/2faf98f7a35a) |
-| Thu, 08 May 2025 18:00:39 GMT | Goodbye Hardcoded Secrets: Hello Managed Identity! | Vijesh Vijayan Nair | [Read More](https://medium.com/p/eedfac0937e3) |
-| Thu, 08 May 2025 18:00:17 GMT | Understanding Security Models: Bell-LaPadula, Biba, and Clark-Wilson | 0xr4m! | [Read More](https://medium.com/p/d1b6a219da4a) |
-| Thu, 08 May 2025 17:59:21 GMT | From Curiosity to Capability: My Life-Changing Journey Through the VAPT Cybersecurity Mentorship… | Abdulazeezuthman | [Read More](https://medium.com/p/0a7a1f9e0b3c) |
-| Thu, 08 May 2025 17:56:43 GMT | The Courage to Be Human | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/ef698dfeb2cc) |
-| Thu, 08 May 2025 17:56:25 GMT | Talk on “Meta Concerns in ML Security/Privacy” with Professor N. Asokan from University of Waterloo | AYE MIN KHANT | [Read More](https://medium.com/p/61adf30bc8d5) |
-| Thu, 08 May 2025 17:54:13 GMT | Logs, Sweat, and Suricata: My Journey to a Real-Time Threat Hunting Powerhouse | Manish Rawat | [Read More](https://medium.com/p/51c217b621fb) |
-| Thu, 08 May 2025 17:53:19 GMT | Networking Concepts — TryHackMe room writeup | Taylor Wavra | [Read More](https://medium.com/p/b58671619008) |
