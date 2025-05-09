@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 16:40:15 GMT | Cybersecurity News Review — Week 19 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/d6884a65ba43) |
+| Fri, 09 May 2025 16:29:37 GMT | Navigating the AI Paradox: Balancing Competitive Edge and Security in AI Adoption | Ajay Kumar | [Read More](https://medium.com/p/488116008c0f) |
+| Fri, 09 May 2025 16:26:55 GMT | Lab 23 — IP Scanners | Hassen Hannachi | [Read More](https://medium.com/p/b161ff2158ef) |
 | Fri, 09 May 2025 16:20:14 GMT | HTB — Bank Write-up | Nikita Astashenko | [Read More](https://medium.com/p/425461ace183) |
+| Fri, 09 May 2025 16:17:15 GMT | Remote Surveillance - Make Enquiries - Get Help | BlackHat | [Read More](https://medium.com/p/8d59412a82bf) |
 | Fri, 09 May 2025 16:15:11 GMT | TryHackMe - SOC Metrics and Objectives - WriteUp | Axoloth | [Read More](https://medium.com/p/065588a47c0e) |
 | Fri, 09 May 2025 16:14:37 GMT | Billing -TryHackMe | Peta Pavan | [Read More](https://medium.com/p/e6e7f891688e) |
 | Fri, 09 May 2025 16:05:53 GMT | TryHackme: Kenobi Walkthrough | Ajuzie David | [Read More](https://medium.com/p/fbc3d70cd913) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 10:39:46 GMT | This AI can find your face online — should you be worried? | reverse-image-search | [Read More](https://medium.com/p/7743abc9f1ad) |
 | Fri, 09 May 2025 10:36:42 GMT | IDS vs. IPS — What’s the Difference and When Do You Use Each? | Richard Dosumu | [Read More](https://medium.com/p/69f4df0882f6) |
 | Fri, 09 May 2025 10:29:51 GMT | Linux Commands and Tears | diaryofacyberfan | [Read More](https://medium.com/p/29f08360f05f) |
-| Fri, 09 May 2025 10:26:11 GMT | Cybersecurity Stocks In India: A Comprehensive List Of Top Players | Kundkundtc | [Read More](https://medium.com/p/dca2e837898d) |
-| Fri, 09 May 2025 10:24:56 GMT | Russian Hackers Now Use Fake CAPTCHAs to Steal Your Files, and How AI Could’ve Caught It | TechBrain | [Read More](https://medium.com/p/9f1bd70d22fd) |
-| Fri, 09 May 2025 10:21:47 GMT | On Security of IT Security Products | 1AUS FfM | [Read More](https://medium.com/p/24d5a173f626) |
-| Fri, 09 May 2025 10:18:42 GMT | Web Application Security Assessment Using OWASP Juice Shop & OWASP ZAP Part 02 | Soban Malik | [Read More](https://medium.com/p/167b7b572928) |
