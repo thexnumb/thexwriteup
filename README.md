@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 17:17:42 GMT | LinkedIn: More Than Just a Job Board — It’s Your Professional Playground | Vignaraj Ravi | [Read More](https://medium.com/p/e3fdf324c367) |
+| Fri, 09 May 2025 17:08:11 GMT | Beyond the 404: Your Step-by-Step Guide to Installing Kali NetHunter Rootless on Termux (and… | Abel | [Read More](https://medium.com/p/dd96a4a213e6) |
+| Fri, 09 May 2025 17:06:32 GMT | Pentesting My Roku TV: A Quiet Attack Vector in the Living Room | C. Oscar Lawshea | [Read More](https://medium.com/p/a50d8aa633ce) |
+| Fri, 09 May 2025 17:01:00 GMT | I Nothing Felt Right Until I Found Hãcking | Kazi Arman Elahi | [Read More](https://medium.com/p/60db0c657c3f) |
+| Fri, 09 May 2025 16:54:35 GMT | I Rewrote a Legacy Service in Rust — The Bug Count Dropped to Zero | Codepinion | [Read More](https://medium.com/p/265bb6a73197) |
+| Fri, 09 May 2025 16:49:18 GMT | How to Claim Free Bounty (BNTY) | BNTY | [Read More](https://medium.com/p/7e9394bce646) |
+| Fri, 09 May 2025 16:47:33 GMT | For the umpteenth time: What is the difference between Threat and Risk in business context? | Shittu | [Read More](https://medium.com/p/9b020a77a5ec) |
+| Fri, 09 May 2025 16:47:29 GMT | Top AI-Powered Cybersecurity Tools for 2025 | Cyber Sec Pro | [Read More](https://medium.com/p/95d3d0808ed1) |
+| Fri, 09 May 2025 16:46:33 GMT | Building a strong cyber security culture isn’t just a tick box exercise — it’s a strategic… | Dr Tai Durojaiye | [Read More](https://medium.com/p/2bab0df3a375) |
 | Fri, 09 May 2025 16:40:15 GMT | Cybersecurity News Review — Week 19 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/d6884a65ba43) |
+| Fri, 09 May 2025 16:37:10 GMT | $500 Social Security Boost for 2025: What You Need to Know | Rudraanshprajapati | [Read More](https://medium.com/p/9e06b72b2007) |
 | Fri, 09 May 2025 16:29:37 GMT | Navigating the AI Paradox: Balancing Competitive Edge and Security in AI Adoption | Ajay Kumar | [Read More](https://medium.com/p/488116008c0f) |
 | Fri, 09 May 2025 16:26:55 GMT | Lab 23 — IP Scanners | Hassen Hannachi | [Read More](https://medium.com/p/b161ff2158ef) |
 | Fri, 09 May 2025 16:20:14 GMT | HTB — Bank Write-up | Nikita Astashenko | [Read More](https://medium.com/p/425461ace183) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 11:16:40 GMT | Anomaly Detection Using Autoencoders: A Deep Dive into Fraud Detection | Ogochukwu Stanley Ikegbo | [Read More](https://medium.com/p/9f59bcb5ab32) |
 | Fri, 09 May 2025 11:09:23 GMT | How IDS, IPS, and IDPS Protect Your Network Like Digital Bodyguards | Cyber T | [Read More](https://medium.com/p/1f6f9a5aa338) |
 | Fri, 09 May 2025 11:08:53 GMT | IoT & OT Security: What to Do After You Know the Basics? | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/888ea84ec194) |
-| Fri, 09 May 2025 11:07:26 GMT | Why You Need an ISO 27001 Consultant in India — A Guide by Cyber Quess | Aarav Mehta | [Read More](https://medium.com/p/58f62398e7eb) |
-| Fri, 09 May 2025 11:07:06 GMT | Role of a Security Engineer (Linux Systems)Protecting Linux Infrastructure | cyberwingITSolution | [Read More](https://medium.com/p/0dc168159b14) |
-| Fri, 09 May 2025 11:04:04 GMT | Automating Serialized File Analysis and Security Scanning in CI/CD Pipelines | Femi Oyesanya | [Read More](https://medium.com/p/43d9fba06db9) |
-| Fri, 09 May 2025 11:02:38 GMT | Integrating SAST and DAST into DevOps Using OWASP ZAP and SonarQube | Varul Arora | [Read More](https://medium.com/p/50ff74c23017) |
-| Fri, 09 May 2025 10:47:18 GMT | Offsec →SPX walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/651ac8926612) |
-| Fri, 09 May 2025 10:46:48 GMT | Offsec →Jordak walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/76a2d1ef1a2e) |
-| Fri, 09 May 2025 10:44:38 GMT | TUI tool for generating packets of arbitrary input and monitoring packets! | Ochi Daiki | [Read More](https://medium.com/p/6dc6d2212f2a) |
-| Fri, 09 May 2025 10:39:46 GMT | This AI can find your face online — should you be worried? | reverse-image-search | [Read More](https://medium.com/p/7743abc9f1ad) |
-| Fri, 09 May 2025 10:36:42 GMT | IDS vs. IPS — What’s the Difference and When Do You Use Each? | Richard Dosumu | [Read More](https://medium.com/p/69f4df0882f6) |
-| Fri, 09 May 2025 10:29:51 GMT | Linux Commands and Tears | diaryofacyberfan | [Read More](https://medium.com/p/29f08360f05f) |
