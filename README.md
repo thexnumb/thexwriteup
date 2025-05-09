@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 20:24:04 GMT | Secure CI/CD 2025: Practical GitLab Hardening Guide | Aleksei Aleinikov | [Read More](https://medium.com/p/09cde127063d) |
+| Fri, 09 May 2025 20:18:16 GMT | I Asked to Be Seen. And Then I Was. And I Panicked. | Ana Perez | [Read More](https://medium.com/p/202951cd0bd4) |
 | Fri, 09 May 2025 20:16:01 GMT | How a Misconfigured Endpoint Exposed Over 3 Million Users and Access to Other Applications | Bryan Muñoz | [Read More](https://medium.com/p/f3697737c158) |
+| Fri, 09 May 2025 20:14:28 GMT | Top 10 Cybersecurity Trends Shaping 2025 | Cullensam | [Read More](https://medium.com/p/6282cc198f57) |
+| Fri, 09 May 2025 20:14:09 GMT | Strengthen Your Business with Smart Cybersecurity and Internet Solutions | Defend My Business | [Read More](https://medium.com/p/9fca9e43f3f7) |
 | Fri, 09 May 2025 20:10:19 GMT | Cloud Security Fundamentals On AWS | Arion Nagappen | [Read More](https://medium.com/p/25b1384b101a) |
 | Fri, 09 May 2025 20:05:48 GMT | I Analyzed The Privacy Policies of 5 Popular Apps(What I Found is Shocking) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/d15be80c7bd7) |
 | Fri, 09 May 2025 20:04:19 GMT | Public Charging Stations: The Security Risk You’re Overlooking? | Karl Buhl | [Read More](https://medium.com/p/8958be1a7276) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 14:16:01 GMT | A Secure and Scalable Authentication Flow | Ashit Ranpura | [Read More](https://medium.com/p/a548724716a4) |
 | Fri, 09 May 2025 14:14:51 GMT | The Real Benefits of Installing a 2 Star Security Handle on Your Front Door | Lock Fitter | [Read More](https://medium.com/p/19ca9abaa441) |
 | Fri, 09 May 2025 14:13:28 GMT | How to Leverage AI as a Security Engineer Without Becoming Illiterate | Ryan G. Cox | [Read More](https://medium.com/p/8c54ad907d77) |
-| Fri, 09 May 2025 14:07:52 GMT | Top 10 Security Flaws We Found in Crypto Exchanges (Real-World Cases) | Decrypt0 | [Read More](https://medium.com/p/11f21bf27c9d) |
-| Fri, 09 May 2025 14:00:39 GMT | Squid — Port 3128 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/4cc4adcff83a) |
-| Fri, 09 May 2025 13:58:41 GMT | Cyber Briefing: 2025.05.09 | CyberMaterial | [Read More](https://medium.com/p/d43d78831655) |
-| Fri, 09 May 2025 13:58:01 GMT | Zero Trust Mimarisi: Artık Kimseye Güvenilmiyor | Mehmet Nur Devecioğlu | [Read More](https://medium.com/p/ebb3d4f5f164) |
