@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 14:13:28 GMT | How to Leverage AI as a Security Engineer Without Becoming Illiterate | Ryan G. Cox | [Read More](https://medium.com/p/8c54ad907d77) |
+| Fri, 09 May 2025 14:00:39 GMT | Squid — Port 3128 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/4cc4adcff83a) |
+| Fri, 09 May 2025 13:58:41 GMT | Cyber Briefing: 2025.05.09 | CyberMaterial | [Read More](https://medium.com/p/d43d78831655) |
+| Fri, 09 May 2025 13:58:01 GMT | Zero Trust Mimarisi: Artık Kimseye Güvenilmiyor | Mehmet Nur Devecioğlu | [Read More](https://medium.com/p/ebb3d4f5f164) |
+| Fri, 09 May 2025 13:55:26 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/6acecf5f3be3) |
+| Fri, 09 May 2025 13:53:59 GMT | Will AI Deepen the Cyber‑Security Skills Gap? | Paul Tuck | [Read More](https://medium.com/p/a1974ca7a1e3) |
 | Fri, 09 May 2025 13:37:53 GMT | LOCKBIT INTERNALS LEAKED | Rakesh Krishnan | [Read More](https://medium.com/p/32b3287860ca) |
 | Fri, 09 May 2025 13:36:02 GMT | Threat Hunting Maturity Model (THMM) Applications: Meaning and Implementation of the Maturity… | Esra Kayhan | [Read More](https://medium.com/p/f968d7483ab8) |
 | Fri, 09 May 2025 13:34:57 GMT | Elasticsearch Güvenlik Açığı (CVE-2014–3120): Groovy ile Gelen Tehlike | Dursunngvnn | [Read More](https://medium.com/p/8d227f047def) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 08:02:39 GMT | Penetration Testing — Increase your web pentest speed in Burp AI | Tony Fu - OSCP, AWS x 3 | [Read More](https://medium.com/p/2c796308e87a) |
 | Fri, 09 May 2025 07:59:05 GMT | How Can I Withdraw My Money From Selwix? | Ambrose | [Read More](https://medium.com/p/4cbab9d62dd8) |
 | Fri, 09 May 2025 07:57:15 GMT | CSP? More Like Can’t Stop Payloads  — Bypassing CSP to XSS Like a Pro | Iski | [Read More](https://medium.com/p/90d27c2c3a40) |
-| Fri, 09 May 2025 07:55:37 GMT | ⚠️ Understanding Cross-Site Scripting (XSS): A Deep Dive into One of the Web’s Oldest Threats | Donttellanyone | [Read More](https://medium.com/p/b34f1e3bd6ec) |
-| Fri, 09 May 2025 07:52:36 GMT | The Ad s | Penny | [Read More](https://medium.com/p/c8cbc365de52) |
-| Fri, 09 May 2025 07:49:37 GMT | Cyber Hygiene Tips: How to Stay Safe Online Every Day | Ash Wren | [Read More](https://medium.com/p/e007cb15c08e) |
-| Fri, 09 May 2025 07:49:10 GMT | Beware the Malware That Dances – Literally. | Milap Oza | [Read More](https://medium.com/p/64fb68aaebfe) |
-| Fri, 09 May 2025 07:48:34 GMT | How to Assign an Instagram Manager Safely and Professionally | Sufyantest | [Read More](https://medium.com/p/2948d6aef616) |
-| Fri, 09 May 2025 07:48:12 GMT | How IT Services Can Strengthen Your Cybersecurity Strategy | Aimdigitaluk | [Read More](https://medium.com/p/38f9235c0b32) |
