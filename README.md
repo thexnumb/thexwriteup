@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 04:42:36 GMT | Cyber-Physical Systems in Defense: Assessing Opportunities and Risks | Data Defendere | [Read More](https://medium.com/p/1080a59bbe2d) |
+| Fri, 09 May 2025 04:42:36 GMT | Phishing Email Analysis walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/e15ea07eb8b9) |
+| Fri, 09 May 2025 04:40:37 GMT | Top 10 Ways Hackers Exploit Web Applications (and How to Prevent Them) | Manish Shivanandhan | [Read More](https://medium.com/p/6dfd05630e2c) |
+| Fri, 09 May 2025 04:23:40 GMT | How Crackers Turned Netflix Accounts into Their Own | Shuvodip Ray | [Read More](https://medium.com/p/192b239c91e1) |
+| Fri, 09 May 2025 04:16:49 GMT | The One Linux Security Habit That Saved Me From a Silent Breach | Faruk Ahmed | [Read More](https://medium.com/p/a0a138d25962) |
 | Fri, 09 May 2025 04:06:16 GMT | How To Instantly Claim $DORK | DORK | [Read More](https://medium.com/p/3ad29ea2e7aa) |
 | Fri, 09 May 2025 04:01:05 GMT | Hacking AI with Markdown: How We Triggered XSS in DeepSeek’s Chat | N45HT | [Read More](https://medium.com/p/e625686530b6) |
 | Fri, 09 May 2025 03:50:56 GMT | Exploring The Necessity Of VPNs In 2023 | James Neal | [Read More](https://medium.com/p/d7c0a3463374) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 May 2025 19:11:05 GMT | Beware of Interview Scams! | Calvin Pak | [Read More](https://medium.com/p/cbf77d2b34e3) |
 | Thu, 08 May 2025 19:08:49 GMT | Everything You Need to Know About Yuzu Keys for Smooth Gaming | SafeAeon Inc. | [Read More](https://medium.com/p/61010f8dcd6e) |
 | Thu, 08 May 2025 19:06:26 GMT | Windows Persistence Through WMI Event Subscriptions: A DFIR Deep Dive | Roey Bartov | [Read More](https://medium.com/p/010929a67708) |
-| Thu, 08 May 2025 18:47:43 GMT | Inside the FreeDrain & Inferno Drainer Scams: How Crypto Wallets Are Being Drained via SEO and… | CyDhaal | [Read More](https://medium.com/p/adf7cbeff573) |
-| Thu, 08 May 2025 18:46:55 GMT | A home that is not perfect but worth missing | Mozanaraff | [Read More](https://medium.com/p/df65b2be7aef) |
-| Thu, 08 May 2025 18:39:52 GMT | MuleSoft Rate Limiting — SLA Based Policy | Praveen Reddy | [Read More](https://medium.com/p/6f1e14dab39c) |
-| Thu, 08 May 2025 18:37:18 GMT | Kelly Benefits Data Breach: What 413,000+ Affected Individuals Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/6a62e181ed67) |
-| Thu, 08 May 2025 18:36:39 GMT | Eliminating Unused CSS and JS in WordPress Without Breaking the Site | Shubradeb | [Read More](https://medium.com/p/64c39b8d5b13) |
