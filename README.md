@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 May 2025 19:31:14 GMT | Dear Diary; My younger self and I. | Favour Ugbor. | [Read More](https://medium.com/p/d53482130668) |
+| Fri, 09 May 2025 19:30:32 GMT | Employee Monitoring Software Abused in Ransomware Attacks | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/59187e3c6177) |
+| Fri, 09 May 2025 19:20:13 GMT | Hidden Dangers of Public Wi-Fi(And How to Protect Yourself) | Jason | [Read More](https://medium.com/p/ac8a6e0a481c) |
+| Fri, 09 May 2025 19:17:00 GMT | Cybersecurity Culture: Building Security from the Inside Out | Maged Anas | [Read More](https://medium.com/p/b767f6d1d615) |
 | Fri, 09 May 2025 19:12:14 GMT | Reviewing Penetration Testing Contracts | Kulkan Security | [Read More](https://medium.com/p/6e0e615f48e6) |
 | Fri, 09 May 2025 19:12:06 GMT | How Your Online Activities Are Being Tracked and Sold: Protect Your Digital Presence Today | All in One security | [Read More](https://medium.com/p/20b4fcb0e7a7) |
 | Fri, 09 May 2025 19:08:12 GMT | RootSeeker Begins - A Cybersecurity Enthusiast’s Journey | RootSeeker | [Read More](https://medium.com/p/fd9b623357d2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 13:19:31 GMT | MITRE Technique and Detection Opportunities — Finding Minhook in a sideloading attack — and Sweden… | MITRE Doggy | [Read More](https://medium.com/p/52f896c42ecc) |
 | Fri, 09 May 2025 13:15:29 GMT | MITRE Technique and Detection Opportunities — Cyber criminals impersonate payroll, HR and benefits… | MITRE Doggy | [Read More](https://medium.com/p/97974859030c) |
 | Fri, 09 May 2025 13:12:59 GMT | Transparent Data Encryption — TDE | Nitin Shete | [Read More](https://medium.com/p/19222764edf5) |
-| Fri, 09 May 2025 13:12:43 GMT | Your GitHub Defaults Are a Cybersecurity Nightmare — Here’s How to Fix Them | Ka Mok | [Read More](https://medium.com/p/1e4b31a9d47b) |
-| Fri, 09 May 2025 13:10:25 GMT | ️ Hide Shellcode in Images: A Red Team Trick You’ve Probably Overlooked | Yua Mikanana | [Read More](https://medium.com/p/4fda876932e9) |
-| Fri, 09 May 2025 13:06:28 GMT | Geen hack in Spanje wel ééntje dichtbij huis | LottaCvUF | [Read More](https://medium.com/p/7ce52ca55f6f) |
-| Fri, 09 May 2025 13:06:07 GMT | Newly Emerged Ransomware Groups in 2025: The Next Wave of Cyber Threats | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/6ace55b7eddc) |
