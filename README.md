@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 19:02:14 GMT | From Response to Resilience | Hantz | [Read More](https://medium.com/p/00f72206a0e0) |
+| Sat, 10 May 2025 18:54:48 GMT | Cyber Security Risk Management | Tanmay Bhattacharjee | [Read More](https://medium.com/p/b54ced30b7fa) |
+| Sat, 10 May 2025 18:51:55 GMT | Digital Armor: Why Personal OpSec Is Your New Superpower | Joe The OSINT Guy | [Read More](https://medium.com/p/e522e2e0b684) |
+| Sat, 10 May 2025 18:44:28 GMT | The Rise of a Silent Thief: Noodlophile Malware Masquerading as AI Tools | Chetan Seripally | [Read More](https://medium.com/p/7bbbce726c6a) |
 | Sat, 10 May 2025 18:31:04 GMT | Staying Secure: How Often Should You Update Cybersecurity Measures? | IT Pros Management Inc | [Read More](https://medium.com/p/261009ac57ca) |
 | Sat, 10 May 2025 18:13:27 GMT | Locked Down in the Cloud: 15 AWS Security Services to Bulletproof Your Application! | Rsprasangi | [Read More](https://medium.com/p/0bd5b23e95b2) |
 | Sat, 10 May 2025 18:03:23 GMT | Khoji Dog Center Attock 03018665280 Khoji Kutta Attock Official | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/79f89e9a093d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 10:53:34 GMT | How Cybersecurity Experts Think Like Hackers to Stop Hackers | Mahidul Haque | [Read More](https://medium.com/p/77e873708d6d) |
 | Sat, 10 May 2025 10:50:15 GMT | Brazilian Execs Under Siege: How NF-e Spam and Legit RMM Tools Became Cybercriminals’ New BFFs | Ismail Tasdelen | [Read More](https://medium.com/p/2c5b8360c67e) |
 | Sat, 10 May 2025 10:46:28 GMT | CEH v12 vs OSCP: Which Cybersecurity Certification is Better in 2025? | Vasundhra sharma | [Read More](https://medium.com/p/e1964383476a) |
-| Sat, 10 May 2025 10:35:46 GMT | I’ve Conditioned My Mind to a Life Alone — But I Still Hope for Love | Tita Friday | [Read More](https://medium.com/p/827e2d3d945c) |
-| Sat, 10 May 2025 10:32:21 GMT | ️ Bypass Authentication via Brute Force Attack | FufuFafa | [Read More](https://medium.com/p/2400216151d8) |
-| Sat, 10 May 2025 10:20:20 GMT | Cluster Mimarisi Nedir? Neden Kullanılır? | Yiğit Ozan Boztepe | [Read More](https://medium.com/p/3701f03a21f5) |
-| Sat, 10 May 2025 10:18:52 GMT | สรุปจากการศึกษาเรื่อง Security Operations | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/1514147c5258) |
