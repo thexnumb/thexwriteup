@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 11:12:43 GMT | Real-World Applications & Emerging Trends in IoT/OT Security | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/da654f2dab12) |
+| Sat, 10 May 2025 11:05:33 GMT | Google’s $1.375 Billion Texas Showdown: A Privacy Wake-Up Call! ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c87e04265c6e) |
+| Sat, 10 May 2025 11:03:41 GMT | Do you need Linux for cyber security? | cyberwingITSolution | [Read More](https://medium.com/p/a53b81ae6cc1) |
+| Sat, 10 May 2025 11:02:38 GMT | Connecting the Dots: From Breach Dumps to Real People — A Human Approach to OSINT | Varul Arora | [Read More](https://medium.com/p/99fc2190b169) |
+| Sat, 10 May 2025 11:01:36 GMT | $12,000 Bounty: From Path Traversal to Remote Code Execution on GitLab | Monika sharma | [Read More](https://medium.com/p/eab315e346c3) |
+| Sat, 10 May 2025 11:00:33 GMT | Top 5 Certifications You Need to Enter the Offensive Cybersecurity World | Khushi Chouhan | [Read More](https://medium.com/p/3a36cfe6fae3) |
+| Sat, 10 May 2025 10:57:52 GMT | Cyber Cops Bust a $46M Botnet Empire: 7,000 Hacked IoT Devices Taken Down! ‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/9b23ad50dcde) |
+| Sat, 10 May 2025 10:53:56 GMT | Inside the Enemy Lines: How a Simple IDOR Unmasked a Major Malware Campaign | Chux | [Read More](https://medium.com/p/4d61c2293cf6) |
+| Sat, 10 May 2025 10:53:34 GMT | How Cybersecurity Experts Think Like Hackers to Stop Hackers | Mahidul Haque | [Read More](https://medium.com/p/77e873708d6d) |
+| Sat, 10 May 2025 10:50:15 GMT | Brazilian Execs Under Siege: How NF-e Spam and Legit RMM Tools Became Cybercriminals’ New BFFs | Ismail Tasdelen | [Read More](https://medium.com/p/2c5b8360c67e) |
+| Sat, 10 May 2025 10:46:28 GMT | CEH v12 vs OSCP: Which Cybersecurity Certification is Better in 2025? | Vasundhra sharma | [Read More](https://medium.com/p/e1964383476a) |
+| Sat, 10 May 2025 10:35:46 GMT | I’ve Conditioned My Mind to a Life Alone — But I Still Hope for Love | Tita Friday | [Read More](https://medium.com/p/827e2d3d945c) |
+| Sat, 10 May 2025 10:32:21 GMT | ️ Bypass Authentication via Brute Force Attack | FufuFafa | [Read More](https://medium.com/p/2400216151d8) |
 | Sat, 10 May 2025 10:20:20 GMT | Cluster Mimarisi Nedir? Neden Kullanılır? | Yiğit Ozan Boztepe | [Read More](https://medium.com/p/3701f03a21f5) |
 | Sat, 10 May 2025 10:18:52 GMT | สรุปจากการศึกษาเรื่อง Security Operations | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/1514147c5258) |
 | Sat, 10 May 2025 10:15:49 GMT | The Vulnerability Management Playbook for Lean Security Teams | Paritosh | [Read More](https://medium.com/p/f253be8a0c85) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 04:07:01 GMT | The Art of Being Your Own Anchor. | Amara | [Read More](https://medium.com/p/3632755d7a9b) |
 | Sat, 10 May 2025 03:57:36 GMT | The West’s Hypocrisy Exposed: How IMF Funding Enables a Terror Hub Amid War Threats | Akshat Pathak | [Read More](https://medium.com/p/0b0b05081d2a) |
 | Sat, 10 May 2025 03:52:22 GMT | Beauty in Brokenness | Dolapo Adeyemi | [Read More](https://medium.com/p/b19f4166b789) |
-| Sat, 10 May 2025 03:50:12 GMT | How to Claim ChainBounty Token Distributions - $BOUNTY Fortune Drops | BOUNTY | [Read More](https://medium.com/p/6f1f4aeeb390) |
-| Sat, 10 May 2025 03:42:26 GMT | How to Automate CVE and Vulnerability Advisory Response Using Tines | Cyber-AppSec | [Read More](https://medium.com/p/2d7d499b171f) |
-| Sat, 10 May 2025 03:36:27 GMT | Why is Starting Cyber Risk Quantification So Hard? (And How to Make it Easier) | Mehdi | [Read More](https://medium.com/p/d032e4d7fbd4) |
-| Sat, 10 May 2025 03:32:33 GMT | Your Smart Toaster Could Be a Cyberweapon: The Urgent Need for IoT Device Security | Benjamin Taylor | [Read More](https://medium.com/p/f08513a5947a) |
-| Sat, 10 May 2025 03:31:32 GMT | Blockchain Gaming Giant WEMIX Suffers $6.1M Hack | Deven Chhajed | [Read More](https://medium.com/p/88c316c73e15) |
-| Sat, 10 May 2025 03:28:00 GMT | PoliLight: Securing Edge Nodes in Distributed IoT Systems with a Lightweight Policy Engine | Atharv Kulkarni | [Read More](https://medium.com/p/1b46d94990c1) |
-| Sat, 10 May 2025 03:24:23 GMT | Beyond Patch Tuesday: Managing Vulnerabilities in Real-Time | Paritosh | [Read More](https://medium.com/p/63dbfa6ac92f) |
-| Sat, 10 May 2025 03:20:34 GMT | The best cybersecurity experts aren’t just problem-solvers. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/7ea3086a676d) |
-| Sat, 10 May 2025 03:10:41 GMT | I Taught My Linux Server to Feel Regret — Then Watched It Apologize in Real-Time | Faruk Ahmed | [Read More](https://medium.com/p/a9ceef9d33f3) |
-| Sat, 10 May 2025 03:09:50 GMT | How I Ended Up Making Cybersecurity Posters for an Afghan Hospital | Jabbar Yaqub | [Read More](https://medium.com/p/a5a529f673d0) |
-| Sat, 10 May 2025 02:43:39 GMT | Notes on Red Team Ethical Hacking Course (Udemy) | Mike Anthony | [Read More](https://medium.com/p/3c70affa8014) |
-| Sat, 10 May 2025 02:33:58 GMT | The Passwordless Future: Securing the Digital World Against AI-Driven Threats | Jeffrey Nickle | [Read More](https://medium.com/p/4732642b7122) |
-| Sat, 10 May 2025 02:15:16 GMT | A Beginner’s Guide to Installing and Uninstalling Nginx on ubuntu | Rohith Remesh | [Read More](https://medium.com/p/985ef45eb9ce) |
