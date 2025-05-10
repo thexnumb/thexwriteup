@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 09:11:46 GMT | Issue #224 — Open Policy Engine, Production-Ready Infrastructure for GenAI Apps, Lakehouse… | Anton Babenko | [Read More](https://medium.com/p/cb1d32e544ef) |
+| Sat, 10 May 2025 09:09:30 GMT | XSS Part — 13 : Reflected XSS into HTML context with most tags and attributes blocked | Ahmad Sopyan | [Read More](https://medium.com/p/bf7363bd6016) |
+| Sat, 10 May 2025 09:08:28 GMT | How to Prepare Your Exchange for a Penetration Test | Decrypt0 | [Read More](https://medium.com/p/941305b949ed) |
+| Sat, 10 May 2025 09:04:49 GMT | Hacking Windows Login Screen via Accessibility Backdoors (Sticky Keys & Utilman Exploits) | Taha Ex | [Read More](https://medium.com/p/157e3b18e52d) |
+| Sat, 10 May 2025 09:01:42 GMT | How to improve Your Skills in Penetration Testing and Ethical Hacking (with resources) | Mohammad Suleiman | [Read More](https://medium.com/p/18423515d6f9) |
+| Sat, 10 May 2025 09:01:29 GMT | NTLM vs NetNTLM | Taha Ex | [Read More](https://medium.com/p/30a384c8fe01) |
+| Sat, 10 May 2025 08:56:43 GMT | How is AI affecting employment & Your Job? Examining its role in cybersecurity and automation. | Motasem Hamdan | [Read More](https://medium.com/p/588704d30bda) |
+| Sat, 10 May 2025 08:44:24 GMT | TryHackMe - Living Off the Land - WriteUp | Axoloth | [Read More](https://medium.com/p/730aa22fffb4) |
 | Sat, 10 May 2025 08:40:03 GMT | Dynamic Malware Analysis Example #1 Letsdefend | lukewago | [Read More](https://medium.com/p/17477c11fa42) |
 | Sat, 10 May 2025 08:35:17 GMT | Resillion — when those who preach cybersecurity forget to practice it | 0trust0day | [Read More](https://medium.com/p/5f99a2a31654) |
 | Sat, 10 May 2025 08:33:42 GMT | Best Private Security Services in Bangalore — Southwall Securities | Southwallsecuritiesservice | [Read More](https://medium.com/p/cb854831bfd7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 00:17:17 GMT | Hack The Box — Machine — Strutted Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/d8609b1fe6b0) |
 | Fri, 09 May 2025 23:59:34 GMT | TryHackMe Ice — Breakdown and Reflection on Software Relics | mikesploit | [Read More](https://medium.com/p/4a931903bbf5) |
 | Fri, 09 May 2025 23:36:30 GMT | Breaking Down the HackerOne Postbook CTF — Attacks, Implications & Defenses | Odiomonafe Jamal . A | [Read More](https://medium.com/p/645091e10f98) |
-| Fri, 09 May 2025 23:31:32 GMT | The Red Teaming: 30-Day Challenge[26] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c338f235913b) |
-| Fri, 09 May 2025 23:23:55 GMT | Setting Up Roblox Safely for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/7557381d8a0a) |
-| Fri, 09 May 2025 23:21:52 GMT | Indian missiles ‘strike army air bases in Pakistan | BTS Brand ☑️ | [Read More](https://medium.com/p/cdd27b440e9d) |
-| Fri, 09 May 2025 23:20:09 GMT | PowerSchool Data Breach — Round 2 Extortions | Matthew.Rosenquist | [Read More](https://medium.com/p/feb78dd09d00) |
-| Fri, 09 May 2025 23:19:27 GMT | Part 1: Understanding Policy-as-Code and AWS Service Control Policies | Karlmarx Karunanithi | [Read More](https://medium.com/p/c342940171b7) |
-| Fri, 09 May 2025 23:16:18 GMT | How I got a job | Bill Corrie | [Read More](https://medium.com/p/6efef689b090) |
-| Fri, 09 May 2025 23:12:22 GMT | N8N Hardening: Complete Guide to Securing Your Automation Workflows | Efrainec | [Read More](https://medium.com/p/aa84c8f07095) |
-| Fri, 09 May 2025 22:40:22 GMT | Microsoft Listens to Security Concerns and Delays New OneDrive Sync | Matthew.Rosenquist | [Read More](https://medium.com/p/bf796b74f183) |
