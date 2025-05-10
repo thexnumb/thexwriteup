@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 01:28:05 GMT | Unlocking the Invisible Shield: How Modern Cryptography Secures Your Digital World( discussing the… | Chibuike Kosisochukwu | [Read More](https://medium.com/p/79b42f83549f) |
+| Sat, 10 May 2025 01:13:03 GMT | Exploring the Best Cold Wallet Crypto: ELLIPAL’s Innovative Hardware Wallets | Dsgfghsdfsg | [Read More](https://medium.com/p/8b48e4902fe7) |
+| Sat, 10 May 2025 01:08:51 GMT | More Than Broken Access: The Real Power of IDORs | XeRox01 | [Read More](https://medium.com/p/a50763e9ff8d) |
+| Sat, 10 May 2025 01:02:03 GMT | Micro-Business Cybersecurity | Eina Schroeder | [Read More](https://medium.com/p/4ddd7743f466) |
+| Sat, 10 May 2025 00:49:37 GMT | Inside the CIA’s Secret Onine War to Recruit Informants in the World’s Darkest Corners | Robert Morton | [Read More](https://medium.com/p/ad9c86698a00) |
+| Sat, 10 May 2025 00:38:36 GMT | How To Unlock $BNTY Tokens | BNTY | [Read More](https://medium.com/p/34c60eff5ca9) |
+| Sat, 10 May 2025 00:36:37 GMT | Facebook analysis tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/fc7d8b2f4d7d) |
+| Sat, 10 May 2025 00:23:57 GMT | Words Of The Day — 20250510 | cokojo | [Read More](https://medium.com/p/5369bcf5548b) |
+| Sat, 10 May 2025 00:23:39 GMT | HOW I STARTED MY CYBER SECURITY JOURNEY | Kryptic_Fhrank | [Read More](https://medium.com/p/0ba3333f7b7a) |
+| Sat, 10 May 2025 00:17:17 GMT | Hack The Box — Machine — Strutted Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/d8609b1fe6b0) |
+| Fri, 09 May 2025 23:59:34 GMT | TryHackMe Ice — Breakdown and Reflection on Software Relics | mikesploit | [Read More](https://medium.com/p/4a931903bbf5) |
+| Fri, 09 May 2025 23:36:30 GMT | Breaking Down the HackerOne Postbook CTF — Attacks, Implications & Defenses | Odiomonafe Jamal . A | [Read More](https://medium.com/p/645091e10f98) |
 | Fri, 09 May 2025 23:31:32 GMT | The Red Teaming: 30-Day Challenge[26] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c338f235913b) |
 | Fri, 09 May 2025 23:23:55 GMT | Setting Up Roblox Safely for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/7557381d8a0a) |
 | Fri, 09 May 2025 23:21:52 GMT | Indian missiles ‘strike army air bases in Pakistan | BTS Brand ☑️ | [Read More](https://medium.com/p/cdd27b440e9d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 16:20:14 GMT | HTB — Bank Write-up | Nikita Astashenko | [Read More](https://medium.com/p/425461ace183) |
 | Fri, 09 May 2025 16:17:15 GMT | Remote Surveillance - Make Enquiries - Get Help | BlackHat | [Read More](https://medium.com/p/8d59412a82bf) |
 | Fri, 09 May 2025 16:15:11 GMT | TryHackMe - SOC Metrics and Objectives - WriteUp | Axoloth | [Read More](https://medium.com/p/065588a47c0e) |
-| Fri, 09 May 2025 16:14:37 GMT | Billing -TryHackMe | Peta Pavan | [Read More](https://medium.com/p/e6e7f891688e) |
-| Fri, 09 May 2025 16:05:53 GMT | TryHackme: Kenobi Walkthrough | Ajuzie David | [Read More](https://medium.com/p/fbc3d70cd913) |
-| Fri, 09 May 2025 16:04:50 GMT | Why Cybersecurity in SCADA & PLC Systems Matters More Than Ever | Collin McGee | [Read More](https://medium.com/p/82a3b5372855) |
-| Fri, 09 May 2025 16:04:09 GMT | CTF Write-up: Legacy Hang Tuah | YoussefKandeel | [Read More](https://medium.com/p/22a180912813) |
-| Fri, 09 May 2025 16:01:34 GMT | Task Scheduler Persistence with Python: COM & XML Evasion | Maxwell Cross | [Read More](https://medium.com/p/6c6755746fb2) |
-| Fri, 09 May 2025 15:57:11 GMT | Thalorin: and Asymmetric Advantage for Aerospace and Defense | Thalorin | [Read More](https://medium.com/p/032814d2d058) |
-| Fri, 09 May 2025 15:54:11 GMT | NIST AI 100–1 RMF: Sect. 5.3 -Measuring erformance and Risk | David Scott | [Read More](https://medium.com/p/e0806f1fa1b9) |
-| Fri, 09 May 2025 15:51:37 GMT | How to Secure Kubernetes: Step-by-Step Best Practices for Locking Down Your Cluster ️ | Mahernaija | [Read More](https://medium.com/p/688156f6def2) |
-| Fri, 09 May 2025 15:50:44 GMT | Intro to Cyber Threat Intel - TryHackMe Walkthrough | CyferNest Sec | [Read More](https://medium.com/p/adbc2b2529ad) |
-| Fri, 09 May 2025 15:45:20 GMT | Is Outsourcing Your Help Desk Worth It? 3 Reasons Ontario, CA Companies Say Yes | Zeta Sky | [Read More](https://medium.com/p/e8964209909b) |
-| Fri, 09 May 2025 15:42:36 GMT | PROTECTION VAUDOU POUR TOUTE VOTRE VIE. Téléphone WhatsApp: 00229 01 94 7369 37 | grand maitre marabout lantan | [Read More](https://medium.com/p/4f17889d4ada) |
-| Fri, 09 May 2025 15:42:28 GMT | Mastering Nuclei — The Ultimate Tool for Web Vulnerability Scanning & Bug Bounties | Kshahabaj | [Read More](https://medium.com/p/1dcd5818d85e) |
