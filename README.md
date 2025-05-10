@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 05:08:43 GMT | Securing and Consuming APIs in the Cloud: A Complete Journey from Provider to Customer | Zoningxtr | [Read More](https://medium.com/p/d7c0f736b84d) |
+| Sat, 10 May 2025 05:04:45 GMT | 5 Communication Skills Every Cybersecurity Pro Needs | Ahmad Javed | [Read More](https://medium.com/p/566192886b2f) |
+| Sat, 10 May 2025 05:03:54 GMT | War in the Cyber World Among Nations | Decode Duniya | [Read More](https://medium.com/p/530a8d8f25c7) |
+| Sat, 10 May 2025 05:02:34 GMT | How Emerging Technologies Are Reshaping IT Operations — And Why Upskilling Through a PG Diploma… | MIT School of Distance Education | [Read More](https://medium.com/p/6819596cc0b3) |
+| Sat, 10 May 2025 05:01:05 GMT | 5 Life-Changing ChatGPT Features You Probably Didn’t Know About | FACE Prep Campus | [Read More](https://medium.com/p/d6f39e6fc762) |
+| Sat, 10 May 2025 04:50:43 GMT | Hidden HackerOne & Bugcrowd Programs: How to Get Private Invites | Abhijeet Kumawat | [Read More](https://medium.com/p/74f8e8ce38c4) |
+| Sat, 10 May 2025 04:49:50 GMT | How to Build an Internal Security Review Checklist Before Every Deployment ✅ | Securr - Web3 Security | [Read More](https://medium.com/p/2c84910293aa) |
+| Sat, 10 May 2025 04:44:18 GMT | Client Communication: 3 Rules for Freelance Cybersec Pros | Ahmad Javed | [Read More](https://medium.com/p/b98e7eceff82) |
+| Sat, 10 May 2025 04:40:28 GMT | Is war justified? | Alis | [Read More](https://medium.com/p/94021a7ab710) |
 | Sat, 10 May 2025 04:40:07 GMT | OWASP Top 10 (2024): A Complete Guide to Web Security Risks You Can’t Ignore | Jiniyaasma | [Read More](https://medium.com/p/257278b9850a) |
 | Sat, 10 May 2025 04:38:28 GMT | Core Banking System Architecture Explained: Layers, Components, and Security | Zoningxtr | [Read More](https://medium.com/p/72368ff7aed8) |
 | Sat, 10 May 2025 04:28:09 GMT | Deep Learning: Trends and Future Directions | Ergin Altıntaş | [Read More](https://medium.com/p/9cd6f16dbf06) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 18:55:20 GMT | Is this the threat you’ve been looking for? | Security Consulting Blogspot | [Read More](https://medium.com/p/6504af869118) |
 | Fri, 09 May 2025 18:50:21 GMT | Operation Moonlander: The Silent Threat of EoL and IoT Devices in Proxy Botnets | Siva Gunasekaran | [Read More](https://medium.com/p/f2dd4214348c) |
 | Fri, 09 May 2025 18:47:43 GMT | $15,000 Bounty: Found a Critical Vulnerability in Snapchat | Monika sharma | [Read More](https://medium.com/p/377176a0f0eb) |
-| Fri, 09 May 2025 18:41:21 GMT | Mastering Privileged Access Management | vinay vasanth | [Read More](https://medium.com/p/0358a80fa866) |
-| Fri, 09 May 2025 18:41:06 GMT | How Lawyers Are Preying on Cyber Attack Victims and Insurance Companies Exacerbate the Problem | Teri Radichel | [Read More](https://medium.com/p/f62f6caef442) |
-| Fri, 09 May 2025 18:37:05 GMT | Termux for Beginners: | 0b1d1 | [Read More](https://medium.com/p/db0ed5edcf19) |
-| Fri, 09 May 2025 18:32:40 GMT | Diagnosing Theme Conflicts Like a Pro: WordPress Edition | Shubradeb | [Read More](https://medium.com/p/39c2041d8a8b) |
-| Fri, 09 May 2025 18:12:12 GMT | Path Traversal —  OWASP JuiceShop #8 | DebianHat | [Read More](https://medium.com/p/3f62ed196d52) |
-| Fri, 09 May 2025 18:08:20 GMT | Google Dorking: The Ethical Hacker’s Guide to Advanced Search Techniques | Jakob Turner | [Read More](https://medium.com/p/8123a444ae88) |
-| Fri, 09 May 2025 18:06:29 GMT | The Leaderboard Illusion | Tal Eliyahu | [Read More](https://medium.com/p/3f3de023e0f1) |
-| Fri, 09 May 2025 17:58:37 GMT | Use Your Own SSH Key With a Passphrase on an EC2 Instance | Teri Radichel | [Read More](https://medium.com/p/72c7a549b055) |
-| Fri, 09 May 2025 17:54:31 GMT | 5 Super Powerful INFORMATION SECURITY Prompts for CHATGPT Users |  | [Read More](https://medium.com/p/ff45a4f502a9) |
