@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 03:42:26 GMT | How to Automate CVE and Vulnerability Advisory Response Using Tines | Cyber-AppSec | [Read More](https://medium.com/p/2d7d499b171f) |
+| Sat, 10 May 2025 03:36:27 GMT | Why is Starting Cyber Risk Quantification So Hard? (And How to Make it Easier) | Mehdi | [Read More](https://medium.com/p/d032e4d7fbd4) |
+| Sat, 10 May 2025 03:32:33 GMT | Your Smart Toaster Could Be a Cyberweapon: The Urgent Need for IoT Device Security | Benjamin Taylor | [Read More](https://medium.com/p/f08513a5947a) |
+| Sat, 10 May 2025 03:31:32 GMT | Blockchain Gaming Giant WEMIX Suffers $6.1M Hack | Deven Chhajed | [Read More](https://medium.com/p/88c316c73e15) |
+| Sat, 10 May 2025 03:28:00 GMT | PoliLight: Securing Edge Nodes in Distributed IoT Systems with a Lightweight Policy Engine | Atharv Kulkarni | [Read More](https://medium.com/p/1b46d94990c1) |
+| Sat, 10 May 2025 03:24:23 GMT | Beyond Patch Tuesday: Managing Vulnerabilities in Real-Time | Paritosh | [Read More](https://medium.com/p/63dbfa6ac92f) |
+| Sat, 10 May 2025 03:20:34 GMT | The best cybersecurity experts aren’t just problem-solvers. | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/7ea3086a676d) |
+| Sat, 10 May 2025 03:10:41 GMT | I Taught My Linux Server to Feel Regret — Then Watched It Apologize in Real-Time | Faruk Ahmed | [Read More](https://medium.com/p/a9ceef9d33f3) |
+| Sat, 10 May 2025 03:09:50 GMT | How I Ended Up Making Cybersecurity Posters for an Afghan Hospital | Jabbar Yaqub | [Read More](https://medium.com/p/a5a529f673d0) |
 | Sat, 10 May 2025 02:43:39 GMT | Notes on Red Team Ethical Hacking Course (Udemy) | Mike Anthony | [Read More](https://medium.com/p/3c70affa8014) |
 | Sat, 10 May 2025 02:33:58 GMT | The Passwordless Future: Securing the Digital World Against AI-Driven Threats | Jeffrey Nickle | [Read More](https://medium.com/p/4732642b7122) |
 | Sat, 10 May 2025 02:15:16 GMT | A Beginner’s Guide to Installing and Uninstalling Nginx on ubuntu | Rohith Remesh | [Read More](https://medium.com/p/985ef45eb9ce) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 17:26:23 GMT | analyse pixel tools and their effects on learning outcomes | S Anuradha | [Read More](https://medium.com/p/78aca284a971) |
 | Fri, 09 May 2025 17:24:20 GMT | ⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection | ASC Lages | [Read More](https://medium.com/p/47a0db51bfd9) |
 | Fri, 09 May 2025 17:17:42 GMT | LinkedIn: More Than Just a Job Board — It’s Your Professional Playground | Vignaraj Ravi | [Read More](https://medium.com/p/e3fdf324c367) |
-| Fri, 09 May 2025 17:17:41 GMT | Inside Out Living: Be Real or Be Really Tired | Farzad Banifatemi | [Read More](https://medium.com/p/b5966d996bcf) |
-| Fri, 09 May 2025 17:17:12 GMT | i’m learning to fight like You | deardiary | [Read More](https://medium.com/p/d411d16e251c) |
-| Fri, 09 May 2025 17:08:11 GMT | Beyond the 404: Your Step-by-Step Guide to Installing Kali NetHunter Rootless on Termux (and… | Abel | [Read More](https://medium.com/p/dd96a4a213e6) |
-| Fri, 09 May 2025 17:06:32 GMT | Pentesting My Roku TV: A Quiet Attack Vector in the Living Room | C. Oscar Lawshea | [Read More](https://medium.com/p/a50d8aa633ce) |
-| Fri, 09 May 2025 17:01:00 GMT | I Nothing Felt Right Until I Found Hãcking | Kazi Arman Elahi | [Read More](https://medium.com/p/60db0c657c3f) |
-| Fri, 09 May 2025 16:54:35 GMT | I Rewrote a Legacy Service in Rust — The Bug Count Dropped to Zero | Codepinion | [Read More](https://medium.com/p/265bb6a73197) |
-| Fri, 09 May 2025 16:49:18 GMT | How to Claim Free Bounty (BNTY) | BNTY | [Read More](https://medium.com/p/7e9394bce646) |
-| Fri, 09 May 2025 16:47:33 GMT | For the umpteenth time: What is the difference between Threat and Risk in business context? | Shittu | [Read More](https://medium.com/p/9b020a77a5ec) |
-| Fri, 09 May 2025 16:47:29 GMT | Top AI-Powered Cybersecurity Tools for 2025 | Cyber Sec Pro | [Read More](https://medium.com/p/95d3d0808ed1) |
