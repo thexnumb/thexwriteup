@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 04:07:01 GMT | The Art of Being Your Own Anchor. | Amara | [Read More](https://medium.com/p/3632755d7a9b) |
+| Sat, 10 May 2025 03:57:36 GMT | The West’s Hypocrisy Exposed: How IMF Funding Enables a Terror Hub Amid War Threats | Akshat Pathak | [Read More](https://medium.com/p/0b0b05081d2a) |
+| Sat, 10 May 2025 03:52:22 GMT | Beauty in Brokenness | Dolapo Adeyemi | [Read More](https://medium.com/p/b19f4166b789) |
+| Sat, 10 May 2025 03:50:12 GMT | How to Claim ChainBounty Token Distributions - $BOUNTY Fortune Drops | BOUNTY | [Read More](https://medium.com/p/6f1f4aeeb390) |
 | Sat, 10 May 2025 03:42:26 GMT | How to Automate CVE and Vulnerability Advisory Response Using Tines | Cyber-AppSec | [Read More](https://medium.com/p/2d7d499b171f) |
 | Sat, 10 May 2025 03:36:27 GMT | Why is Starting Cyber Risk Quantification So Hard? (And How to Make it Easier) | Mehdi | [Read More](https://medium.com/p/d032e4d7fbd4) |
 | Sat, 10 May 2025 03:32:33 GMT | Your Smart Toaster Could Be a Cyberweapon: The Urgent Need for IoT Device Security | Benjamin Taylor | [Read More](https://medium.com/p/f08513a5947a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 17:52:23 GMT | Somethings phishy | Logan Elkins | [Read More](https://medium.com/p/5a228d198403) |
 | Fri, 09 May 2025 17:50:07 GMT | Mastering 403 Bypasses | Cybersectoworld | [Read More](https://medium.com/p/cf6d1919404e) |
 | Fri, 09 May 2025 17:32:04 GMT | Threat Modeling — Computer Using Agent (CUA) — Part 2 | Aroha blue | [Read More](https://medium.com/p/704bad651ec0) |
-| Fri, 09 May 2025 17:28:03 GMT | Android Interview Questions: App Security Best Practices | Harshita Bambure | [Read More](https://medium.com/p/7b4546909e4a) |
-| Fri, 09 May 2025 17:26:23 GMT | analyse pixel tools and their effects on learning outcomes | S Anuradha | [Read More](https://medium.com/p/78aca284a971) |
-| Fri, 09 May 2025 17:24:20 GMT | ⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection | ASC Lages | [Read More](https://medium.com/p/47a0db51bfd9) |
-| Fri, 09 May 2025 17:17:42 GMT | LinkedIn: More Than Just a Job Board — It’s Your Professional Playground | Vignaraj Ravi | [Read More](https://medium.com/p/e3fdf324c367) |
