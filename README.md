@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 22:02:38 GMT | My Files Are Being Touched by Whom? An Easy Guide to Permissions in Windows | The Security Alchemist | [Read More](https://medium.com/p/9bca35536662) |
+| Sat, 10 May 2025 21:55:51 GMT | Process Monitor | Matthew A Smith | [Read More](https://medium.com/p/bdafbc372617) |
+| Sat, 10 May 2025 21:52:28 GMT | SOC Metrics and Objectives — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/94b02368e3b1) |
+| Sat, 10 May 2025 21:51:25 GMT | A Cyber Threat Intelligence Journey — from Hack The Box to Locked Shields | Serdar Gumus | [Read More](https://medium.com/p/dae306d511cb) |
+| Sat, 10 May 2025 21:42:40 GMT | I Got Hired to Hack a Company… So I Delivered Pizza | All in One security | [Read More](https://medium.com/p/fce04cb4f8d7) |
 | Sat, 10 May 2025 21:14:49 GMT | How to Get CEH Certified in 2025: A Step-by-Step Guide | Joanhermann | [Read More](https://medium.com/p/975473921a37) |
 | Sat, 10 May 2025 21:05:16 GMT | Siri and Alexa Spying On Us | Yuri Singidas | [Read More](https://medium.com/p/b282c8d612aa) |
 | Sat, 10 May 2025 21:02:08 GMT | Using Impacket with Virtualenv — A Safe Setup for Pentesters | BotsiCat | [Read More](https://medium.com/p/223607333b2a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 13:17:50 GMT | Utiliser l’IA pour Analyser la Recherche en Cyber/GRC : Retour d’Expérience | Abbas Benterki | [Read More](https://medium.com/p/9abaa45f1800) |
 | Sat, 10 May 2025 13:16:37 GMT | Hackers Love This .NET Mistake — Don’t Fall for It! | Code Crack | [Read More](https://medium.com/p/31110144fda5) |
 | Sat, 10 May 2025 13:16:18 GMT | A World on Fire: Drowning in Misinformation, Gasping for Truth | Joy | [Read More](https://medium.com/p/a8034755c3f4) |
-| Sat, 10 May 2025 13:13:34 GMT | eJPTv2 exam Review with Tips | Amaz Selection | [Read More](https://medium.com/p/b58b23a12e16) |
-| Sat, 10 May 2025 13:02:40 GMT | Deepfake Scams: AI-Powered Fraud Is Undermining Corporate Trust | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d7a406f8bb1a) |
-| Sat, 10 May 2025 13:02:39 GMT | Measuring What Matters: A Mindset Shift in Blue Teams | Siddhant Mishra | [Read More](https://medium.com/p/187692dd60bc) |
-| Sat, 10 May 2025 12:57:48 GMT | Privilege Escalation Using Autorun Feature in Windows | Ammar Ahmed | [Read More](https://medium.com/p/2bc4108d54a1) |
-| Sat, 10 May 2025 12:50:17 GMT | Risk Evolves. What Lead Paint Has Taught Me About IT Security Practices | Dave Sumner | [Read More](https://medium.com/p/efd114f6db5d) |
