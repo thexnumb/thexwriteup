@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 04:40:07 GMT | OWASP Top 10 (2024): A Complete Guide to Web Security Risks You Can’t Ignore | Jiniyaasma | [Read More](https://medium.com/p/257278b9850a) |
+| Sat, 10 May 2025 04:38:28 GMT | Core Banking System Architecture Explained: Layers, Components, and Security | Zoningxtr | [Read More](https://medium.com/p/72368ff7aed8) |
+| Sat, 10 May 2025 04:28:09 GMT | Deep Learning: Trends and Future Directions | Ergin Altıntaş | [Read More](https://medium.com/p/9cd6f16dbf06) |
 | Sat, 10 May 2025 04:07:01 GMT | The Art of Being Your Own Anchor. | Amara | [Read More](https://medium.com/p/3632755d7a9b) |
 | Sat, 10 May 2025 03:57:36 GMT | The West’s Hypocrisy Exposed: How IMF Funding Enables a Terror Hub Amid War Threats | Akshat Pathak | [Read More](https://medium.com/p/0b0b05081d2a) |
 | Sat, 10 May 2025 03:52:22 GMT | Beauty in Brokenness | Dolapo Adeyemi | [Read More](https://medium.com/p/b19f4166b789) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 18:06:29 GMT | The Leaderboard Illusion | Tal Eliyahu | [Read More](https://medium.com/p/3f3de023e0f1) |
 | Fri, 09 May 2025 17:58:37 GMT | Use Your Own SSH Key With a Passphrase on an EC2 Instance | Teri Radichel | [Read More](https://medium.com/p/72c7a549b055) |
 | Fri, 09 May 2025 17:54:31 GMT | 5 Super Powerful INFORMATION SECURITY Prompts for CHATGPT Users |  | [Read More](https://medium.com/p/ff45a4f502a9) |
-| Fri, 09 May 2025 17:52:23 GMT | Somethings phishy | Logan Elkins | [Read More](https://medium.com/p/5a228d198403) |
-| Fri, 09 May 2025 17:50:07 GMT | Mastering 403 Bypasses | Cybersectoworld | [Read More](https://medium.com/p/cf6d1919404e) |
-| Fri, 09 May 2025 17:32:04 GMT | Threat Modeling — Computer Using Agent (CUA) — Part 2 | Aroha blue | [Read More](https://medium.com/p/704bad651ec0) |
