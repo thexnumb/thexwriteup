@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 21:14:49 GMT | How to Get CEH Certified in 2025: A Step-by-Step Guide | Joanhermann | [Read More](https://medium.com/p/975473921a37) |
 | Sat, 10 May 2025 21:05:16 GMT | Siri and Alexa Spying On Us | Yuri Singidas | [Read More](https://medium.com/p/b282c8d612aa) |
 | Sat, 10 May 2025 21:02:08 GMT | Using Impacket with Virtualenv — A Safe Setup for Pentesters | BotsiCat | [Read More](https://medium.com/p/223607333b2a) |
 | Sat, 10 May 2025 20:58:48 GMT | DevSecOps | Richard Ndung'u | [Read More](https://medium.com/p/13c5a50bedcf) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 13:02:39 GMT | Measuring What Matters: A Mindset Shift in Blue Teams | Siddhant Mishra | [Read More](https://medium.com/p/187692dd60bc) |
 | Sat, 10 May 2025 12:57:48 GMT | Privilege Escalation Using Autorun Feature in Windows | Ammar Ahmed | [Read More](https://medium.com/p/2bc4108d54a1) |
 | Sat, 10 May 2025 12:50:17 GMT | Risk Evolves. What Lead Paint Has Taught Me About IT Security Practices | Dave Sumner | [Read More](https://medium.com/p/efd114f6db5d) |
-| Sat, 10 May 2025 12:48:28 GMT | Holocron of Content | Anezaneo | [Read More](https://medium.com/p/b67fda64bd5a) |
