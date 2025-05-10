@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 14:12:15 GMT | Tryhackme - OWASP Top 10–2021 - X — Server-Side Request Forgery (SSRF) - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/1380f176c63e) |
+| Sat, 10 May 2025 14:06:48 GMT | Information Security Risk Management: The Architect’s Tightrope Walk | Lali Devamanthri | [Read More](https://medium.com/p/5f64eb50a099) |
+| Sat, 10 May 2025 14:01:34 GMT | OSINT Techniques for Target Intelligence Gathering: Using Recon-ng and Maltego | Esra Kayhan | [Read More](https://medium.com/p/5fd750d875a6) |
+| Sat, 10 May 2025 13:59:58 GMT | Two-Factor Authentication: Why It’s Not As Bulletproof As You Think | Abdur Mowlana | [Read More](https://medium.com/p/a849e4247b2c) |
+| Sat, 10 May 2025 13:59:46 GMT | Why PHP Needs a Browser Sandbox Wingman for User Scripts — Before It Wrecks Your Server? | Asian Digital Hub | [Read More](https://medium.com/p/763f532bd697) |
+| Sat, 10 May 2025 13:57:47 GMT | We are TISAX certified | Sylvain Gibier | [Read More](https://medium.com/p/4eb099bb7b04) |
+| Sat, 10 May 2025 13:55:00 GMT | Bleeding, quietly | Kyra Baskin | [Read More](https://medium.com/p/4907ff547d1c) |
+| Sat, 10 May 2025 13:45:51 GMT | The Vital Role of SOC Analysts in Modern Cybersecurity | Cybernous Infosec consulting | [Read More](https://medium.com/p/1c299390673e) |
 | Sat, 10 May 2025 13:29:07 GMT | OSWA Exam Review | Peter Slynn | [Read More](https://medium.com/p/cda7f6be1079) |
 | Sat, 10 May 2025 13:27:46 GMT | Building a Digitally Conscious Executive Protection Program | SecOps | [Read More](https://medium.com/p/ef1327d598db) |
 | Sat, 10 May 2025 13:26:44 GMT | When My Retry Logic Became a DDoS Attack | Abhinav | [Read More](https://medium.com/p/fee63530b7f1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 06:49:11 GMT | 5 Practical Cybersecurity Habits Every Developer and IT Professional Must Build in 2025 | Ivo Pereira | [Read More](https://medium.com/p/116f36bce03c) |
 | Sat, 10 May 2025 06:43:45 GMT | Night Patrol Services That Protect Mumbai | United Guard Force India | [Read More](https://medium.com/p/be372fdfc14b) |
 | Sat, 10 May 2025 06:40:29 GMT | Why CCTV Alone Fails for Mumbai Property Security | United Guard Force India | [Read More](https://medium.com/p/bc9ba0c89e52) |
-| Sat, 10 May 2025 06:39:17 GMT | PowerSchool Data Breach: The Rising Threat of Double Extortion Ransomware | Nexsecura | [Read More](https://medium.com/p/74da1a35b9ad) |
-| Sat, 10 May 2025 06:32:39 GMT | The Day Bitcoin Breaks: What Happens When China or Russia Crack the Blockchain First | Ronnie Huss | [Read More](https://medium.com/p/7def5856abcb) |
-| Sat, 10 May 2025 06:31:24 GMT | The Importance of Cybersecurity Awareness Training | Poddar Group of Institutions | [Read More](https://medium.com/p/388bcba213fd) |
-| Sat, 10 May 2025 06:29:07 GMT | Blind XXE Attacks via Out-of-Band Interaction Using Burp Collaborator | Bash Overflow | [Read More](https://medium.com/p/af0abd7c7d25) |
-| Sat, 10 May 2025 06:26:46 GMT | How to Measure Cybersecurity Risk ? | Saurabh | [Read More](https://medium.com/p/c511422a9a39) |
-| Sat, 10 May 2025 06:16:11 GMT | Gen AI Coding: Promises & Challenges | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/666401a96203) |
-| Sat, 10 May 2025 06:13:52 GMT | ORTUGAMING | ORTUGAMING | [Read More](https://medium.com/p/603aec680f4a) |
-| Sat, 10 May 2025 06:12:20 GMT | Detecting Web Attacks Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/53a8530d3084) |
