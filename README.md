@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 07:26:58 GMT | Security Is Evolving — EDSPL Is Leading the Transformation | saurabh cyberinfomines | [Read More](https://medium.com/p/a20cf9afb89b) |
+| Sat, 10 May 2025 07:22:43 GMT | The $15B Data Imperative: Why IoT Data Management Is the Next Frontier in Digital Transformation | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/0463b68d3be6) |
 | Sat, 10 May 2025 06:51:19 GMT | Security Guard Training Excellence in Mumbai | United Guard Force India | [Read More](https://medium.com/p/45f3155513f5) |
 | Sat, 10 May 2025 06:49:27 GMT | The Secret to Building a Hacker-Proof DevOps Workflow | AbdulRahman Mostafa | [Read More](https://medium.com/p/66849a9c4da7) |
 | Sat, 10 May 2025 06:49:11 GMT | 5 Practical Cybersecurity Habits Every Developer and IT Professional Must Build in 2025 | Ivo Pereira | [Read More](https://medium.com/p/116f36bce03c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 20:56:32 GMT | Delete Yourself from the Internet in 10 Simple Steps | Jason - Beyond The Firewall | [Read More](https://medium.com/p/142096faa9f5) |
 | Fri, 09 May 2025 20:51:23 GMT | Subliminal Signals via Flicker and Dithering | notalenanot | [Read More](https://medium.com/p/2f5613b35b42) |
 | Fri, 09 May 2025 20:48:46 GMT | HTTP REQUEST SMUGGLING | Arunoday Tiwari | [Read More](https://medium.com/p/a1be1c2cf302) |
-| Fri, 09 May 2025 20:34:59 GMT | Bridging the Digital Divide: How to Deliver Support Seniors Will Love (and Actually… | ɌƋƑ•TECH | [Read More](https://medium.com/p/3bb72d317d6f) |
-| Fri, 09 May 2025 20:24:04 GMT | Secure CI/CD 2025: Practical GitLab Hardening Guide | Aleksei Aleinikov | [Read More](https://medium.com/p/09cde127063d) |
