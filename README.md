@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 15:16:42 GMT | Supply Chain Attacks: Software Supply Chain Security | Esra Kayhan | [Read More](https://medium.com/p/3a6bb521d391) |
+| Sat, 10 May 2025 15:15:32 GMT | AI systems aren’t secure. | Bushy | [Read More](https://medium.com/p/092d688d9c09) |
+| Sat, 10 May 2025 15:13:12 GMT | Real-time Deepfakes: what if “seeing is believing” no longer means anything? | Adler Medrado | [Read More](https://medium.com/p/a16e4e414e67) |
+| Sat, 10 May 2025 15:06:01 GMT | Security Testing with Breach and Attack Simulation (BAS) Tools: Caldera and Infection Monkey in… | Esra Kayhan | [Read More](https://medium.com/p/a66c88cd9f29) |
+| Sat, 10 May 2025 15:03:55 GMT | BG03 — Disrupting Pest Reproduction: How to Prevent Egg Hatching and Stop the Cycle | AITA | [Read More](https://medium.com/p/92c87a23356c) |
+| Sat, 10 May 2025 15:01:46 GMT | Underpass HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/2bfcd62528ef) |
+| Sat, 10 May 2025 15:01:40 GMT | Underpass— HackTheBox CTF Walkthrough | NTHSec | [Read More](https://medium.com/p/5c51af4c60b6) |
+| Sat, 10 May 2025 15:00:50 GMT | "Midjourney Mastery: Unlocking the Future of AI-Generated Art" | Pavan | [Read More](https://medium.com/p/33c1febe85ef) |
+| Sat, 10 May 2025 14:58:40 GMT | BG02 — The New Evolution of Pest Control: The Revolution of Wave-Based Disabling Technology | AITA | [Read More](https://medium.com/p/e281a8ffa04f) |
+| Sat, 10 May 2025 14:55:42 GMT | Build Your Own AI SOC — Part 2 | Corey Jones | [Read More](https://medium.com/p/7edf9a84282f) |
+| Sat, 10 May 2025 14:55:13 GMT | Linux Fundamentals Part 1 - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/9e6e26901197) |
+| Sat, 10 May 2025 14:51:46 GMT | The Lessons from the Army That Have Shaped My Cybersecurity Mindset | Emmet Field | [Read More](https://medium.com/p/1d0188aabe78) |
+| Sat, 10 May 2025 14:46:22 GMT | BG01 — Waves Turn Insects Into ‘Useless’ Creatures: The Era of Frequencies, Not Chemicals | AITA | [Read More](https://medium.com/p/17e729e4006f) |
 | Sat, 10 May 2025 14:28:51 GMT | “Oops, I Pushed the Secret Key Again!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/db810670e450) |
 | Sat, 10 May 2025 14:21:59 GMT | Robot Guard | Marcus Koehnlein | [Read More](https://medium.com/p/eb1a39c98d44) |
 | Sat, 10 May 2025 14:19:13 GMT | LockBit Ransomware Gang Hacked: Internal Data & Victim Chats Leaked | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/05b1adc7e123) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 08:26:16 GMT | Self-Driving Cars: Safety and Efficiency | Imali | [Read More](https://medium.com/p/400819f42960) |
 | Sat, 10 May 2025 08:21:54 GMT | Unlock the Potential of $LFI and Earn Big with LunaFi | LFI | [Read More](https://medium.com/p/35425b9b03ca) |
 | Sat, 10 May 2025 08:17:20 GMT | Fet Ed | Roin Bridges | [Read More](https://medium.com/p/e119d2a379bd) |
-| Sat, 10 May 2025 08:12:39 GMT | XSS in Bootstrap 4.3.1: Tooltip-Based Exploit | Abhiram | [Read More](https://medium.com/p/fe204fe29ca9) |
-| Sat, 10 May 2025 08:12:33 GMT | Best Ethical Hacking Course After 12th Science | Ankit_Cyber | [Read More](https://medium.com/p/ac3f26e8f664) |
-| Sat, 10 May 2025 08:08:56 GMT | TryHackMe Hammer: Hacking JWTs Token & Bypassing 2FA | root㉿kali:~# | [Read More](https://medium.com/p/df8c0408aa00) |
-| Sat, 10 May 2025 07:59:29 GMT | Cloud and Cybersecurity: Protecting Businesses in the Digital Era — Teddy K | Asia Advantage | [Read More](https://medium.com/p/38cbed1e0bae) |
-| Sat, 10 May 2025 07:50:08 GMT | ️‍♂️ The Unwanted Guest: How Misconfigured Firebase Gave Me All the Data | Iski | [Read More](https://medium.com/p/80e0e23b7250) |
-| Sat, 10 May 2025 07:45:07 GMT | Introduction to Web Applications | Fatimahasan | [Read More](https://medium.com/p/3567db23580a) |
-| Sat, 10 May 2025 07:44:36 GMT | The Rise of Cyber Threats in India and How Education Can Help Combat Them | Salahudheen KI | [Read More](https://medium.com/p/0daf6751b5ef) |
-| Sat, 10 May 2025 07:41:20 GMT | What Is Sales Call Compliance? The 2025 Guide for Australian & EU Teams | Komplya AI | [Read More](https://medium.com/p/a471686f03ea) |
-| Sat, 10 May 2025 07:34:36 GMT | Alephium’s Intellectual Approach to the Blockchain Trifecta: Security, Scalability, and… | INIUBONG ABASI | [Read More](https://medium.com/p/c99c29d09468) |
-| Sat, 10 May 2025 07:26:58 GMT | Security Is Evolving — EDSPL Is Leading the Transformation | saurabh cyberinfomines | [Read More](https://medium.com/p/a20cf9afb89b) |
-| Sat, 10 May 2025 07:22:43 GMT | The $15B Data Imperative: Why IoT Data Management Is the Next Frontier in Digital Transformation | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/0463b68d3be6) |
-| Sat, 10 May 2025 06:51:19 GMT | Security Guard Training Excellence in Mumbai | United Guard Force India | [Read More](https://medium.com/p/45f3155513f5) |
-| Sat, 10 May 2025 06:49:27 GMT | The Secret to Building a Hacker-Proof DevOps Workflow | AbdulRahman Mostafa | [Read More](https://medium.com/p/66849a9c4da7) |
