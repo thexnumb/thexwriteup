@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 09:29:06 GMT | As the Week Unfolds | Tõmï | [Read More](https://medium.com/p/9bb8af34c6eb) |
+| Sat, 10 May 2025 09:23:39 GMT | Dorking Receh, Ketemu NIK & NPWP di Domain Pemerintah | FufuFafa | [Read More](https://medium.com/p/30e89912d3be) |
+| Sat, 10 May 2025 09:14:58 GMT | EKS Pod Identity: Easily manage AWS resource access | Binaya Sharma | [Read More](https://medium.com/p/c2f953ea5208) |
 | Sat, 10 May 2025 09:11:46 GMT | Issue #224 — Open Policy Engine, Production-Ready Infrastructure for GenAI Apps, Lakehouse… | Anton Babenko | [Read More](https://medium.com/p/cb1d32e544ef) |
 | Sat, 10 May 2025 09:09:30 GMT | XSS Part — 13 : Reflected XSS into HTML context with most tags and attributes blocked | Ahmad Sopyan | [Read More](https://medium.com/p/bf7363bd6016) |
 | Sat, 10 May 2025 09:08:28 GMT | How to Prepare Your Exchange for a Penetration Test | Decrypt0 | [Read More](https://medium.com/p/941305b949ed) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 00:36:37 GMT | Facebook analysis tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/fc7d8b2f4d7d) |
 | Sat, 10 May 2025 00:23:57 GMT | Words Of The Day — 20250510 | cokojo | [Read More](https://medium.com/p/5369bcf5548b) |
 | Sat, 10 May 2025 00:23:39 GMT | HOW I STARTED MY CYBER SECURITY JOURNEY | Kryptic_Fhrank | [Read More](https://medium.com/p/0ba3333f7b7a) |
-| Sat, 10 May 2025 00:17:17 GMT | Hack The Box — Machine — Strutted Walkthrough (ES) | JPablo13 | [Read More](https://medium.com/p/d8609b1fe6b0) |
-| Fri, 09 May 2025 23:59:34 GMT | TryHackMe Ice — Breakdown and Reflection on Software Relics | mikesploit | [Read More](https://medium.com/p/4a931903bbf5) |
-| Fri, 09 May 2025 23:36:30 GMT | Breaking Down the HackerOne Postbook CTF — Attacks, Implications & Defenses | Odiomonafe Jamal . A | [Read More](https://medium.com/p/645091e10f98) |
