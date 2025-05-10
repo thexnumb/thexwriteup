@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 16:36:57 GMT | 24/7 Fire Safety Assurance: Waking Watch Services in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/76b274ae8de1) |
+| Sat, 10 May 2025 16:32:20 GMT | Part 1: “How I Got Into Security” | [ 0xV4sh ] | [Read More](https://medium.com/p/6d6c26cbf2a7) |
+| Sat, 10 May 2025 16:30:15 GMT | SOC Workbooks and Lookups - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/2ceab41075a2) |
+| Sat, 10 May 2025 16:23:58 GMT | Can Blockchain Solve Data Privacy Woes? | Rajneesh Chaudhary | [Read More](https://medium.com/p/99f74326684c) |
+| Sat, 10 May 2025 16:23:00 GMT | Navigating the Flux: How WFH and WFA Redefined Cybersecurity | Roopa Kushtagi | [Read More](https://medium.com/p/12e00a86326a) |
 | Sat, 10 May 2025 16:20:22 GMT | What is an HTTP Method? | Himakshithakre | [Read More](https://medium.com/p/46e67ce4ac0f) |
 | Sat, 10 May 2025 16:18:17 GMT | Day 31: Introduction to Computer Networking — LAN, WAN, P2P, and More! | Agarwaldaksh | [Read More](https://medium.com/p/4af0e255874a) |
 | Sat, 10 May 2025 16:17:14 GMT | The Dark Side of Browser Extensions: How That Emoji Add-On Might Be Stealing Your Data | Bl@ckC!pH3r | [Read More](https://medium.com/p/a1001e595f1f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 09:23:39 GMT | Dorking Receh, Ketemu NIK & NPWP di Domain Pemerintah | FufuFafa | [Read More](https://medium.com/p/30e89912d3be) |
 | Sat, 10 May 2025 09:14:58 GMT | EKS Pod Identity: Easily manage AWS resource access | Binaya Sharma | [Read More](https://medium.com/p/c2f953ea5208) |
 | Sat, 10 May 2025 09:11:46 GMT | Issue #224 — Open Policy Engine, Production-Ready Infrastructure for GenAI Apps, Lakehouse… | Anton Babenko | [Read More](https://medium.com/p/cb1d32e544ef) |
-| Sat, 10 May 2025 09:09:30 GMT | XSS Part — 13 : Reflected XSS into HTML context with most tags and attributes blocked | Ahmad Sopyan | [Read More](https://medium.com/p/bf7363bd6016) |
-| Sat, 10 May 2025 09:08:28 GMT | How to Prepare Your Exchange for a Penetration Test | Decrypt0 | [Read More](https://medium.com/p/941305b949ed) |
-| Sat, 10 May 2025 09:04:49 GMT | Hacking Windows Login Screen via Accessibility Backdoors (Sticky Keys & Utilman Exploits) | Taha Ex | [Read More](https://medium.com/p/157e3b18e52d) |
-| Sat, 10 May 2025 09:01:42 GMT | How to improve Your Skills in Penetration Testing and Ethical Hacking (with resources) | Mohammad Suleiman | [Read More](https://medium.com/p/18423515d6f9) |
-| Sat, 10 May 2025 09:01:29 GMT | NTLM vs NetNTLM | Taha Ex | [Read More](https://medium.com/p/30a384c8fe01) |
