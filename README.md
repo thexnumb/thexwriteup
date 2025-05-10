@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 13:29:07 GMT | OSWA Exam Review | Peter Slynn | [Read More](https://medium.com/p/cda7f6be1079) |
+| Sat, 10 May 2025 13:27:46 GMT | Building a Digitally Conscious Executive Protection Program | SecOps | [Read More](https://medium.com/p/ef1327d598db) |
+| Sat, 10 May 2025 13:26:44 GMT | When My Retry Logic Became a DDoS Attack | Abhinav | [Read More](https://medium.com/p/fee63530b7f1) |
 | Sat, 10 May 2025 13:21:44 GMT | Lessons from the film  Logout | Rohini Lakshané | [Read More](https://medium.com/p/0c3c8a9b80f3) |
+| Sat, 10 May 2025 13:20:29 GMT | KLCP Exam Review with Success Tips | Peter Slynn | [Read More](https://medium.com/p/52217981374d) |
+| Sat, 10 May 2025 13:18:11 GMT | Breaking Tech News Today: Major Innovations Shaping the Future | Sholikhin | [Read More](https://medium.com/p/69c3bd99eadb) |
+| Sat, 10 May 2025 13:17:50 GMT | Utiliser l’IA pour Analyser la Recherche en Cyber/GRC : Retour d’Expérience | Abbas Benterki | [Read More](https://medium.com/p/9abaa45f1800) |
 | Sat, 10 May 2025 13:16:37 GMT | Hackers Love This .NET Mistake — Don’t Fall for It! | Code Crack | [Read More](https://medium.com/p/31110144fda5) |
 | Sat, 10 May 2025 13:16:18 GMT | A World on Fire: Drowning in Misinformation, Gasping for Truth | Joy | [Read More](https://medium.com/p/a8034755c3f4) |
 | Sat, 10 May 2025 13:13:34 GMT | eJPTv2 exam Review with Tips | Amaz Selection | [Read More](https://medium.com/p/b58b23a12e16) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 06:16:11 GMT | Gen AI Coding: Promises & Challenges | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/666401a96203) |
 | Sat, 10 May 2025 06:13:52 GMT | ORTUGAMING | ORTUGAMING | [Read More](https://medium.com/p/603aec680f4a) |
 | Sat, 10 May 2025 06:12:20 GMT | Detecting Web Attacks Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/53a8530d3084) |
-| Sat, 10 May 2025 06:10:34 GMT | The Linux Process Journey — passwd (Change User Password) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/98d5fab2fe45) |
-| Sat, 10 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a3182dbccae3) |
-| Sat, 10 May 2025 05:59:40 GMT | สรุปจากการอ่าน Network Security | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/cb38aedd61a7) |
-| Sat, 10 May 2025 05:55:03 GMT | Unlocking Cyber Careers with the OSCP+ Certification | Oscptraining | [Read More](https://medium.com/p/817d426bb215) |
-| Sat, 10 May 2025 05:52:35 GMT | Still Fighting the Wrong Fight? The CISO Paradox in 2025 | JC Gaillard | [Read More](https://medium.com/p/b5d89250c6bc) |
-| Sat, 10 May 2025 05:51:17 GMT | Top Certifications That Can Land You a Job in Tech | Prism HRC | [Read More](https://medium.com/p/e6b79184f54b) |
