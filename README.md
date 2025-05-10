@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 14:28:51 GMT | “Oops, I Pushed the Secret Key Again!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/db810670e450) |
+| Sat, 10 May 2025 14:21:59 GMT | Robot Guard | Marcus Koehnlein | [Read More](https://medium.com/p/eb1a39c98d44) |
+| Sat, 10 May 2025 14:19:13 GMT | LockBit Ransomware Gang Hacked: Internal Data & Victim Chats Leaked | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/05b1adc7e123) |
 | Sat, 10 May 2025 14:12:15 GMT | Tryhackme - OWASP Top 10–2021 - X — Server-Side Request Forgery (SSRF) - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/1380f176c63e) |
 | Sat, 10 May 2025 14:06:48 GMT | Information Security Risk Management: The Architect’s Tightrope Walk | Lali Devamanthri | [Read More](https://medium.com/p/5f64eb50a099) |
 | Sat, 10 May 2025 14:01:34 GMT | OSINT Techniques for Target Intelligence Gathering: Using Recon-ng and Maltego | Esra Kayhan | [Read More](https://medium.com/p/5fd750d875a6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 07:22:43 GMT | The $15B Data Imperative: Why IoT Data Management Is the Next Frontier in Digital Transformation | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/0463b68d3be6) |
 | Sat, 10 May 2025 06:51:19 GMT | Security Guard Training Excellence in Mumbai | United Guard Force India | [Read More](https://medium.com/p/45f3155513f5) |
 | Sat, 10 May 2025 06:49:27 GMT | The Secret to Building a Hacker-Proof DevOps Workflow | AbdulRahman Mostafa | [Read More](https://medium.com/p/66849a9c4da7) |
-| Sat, 10 May 2025 06:49:11 GMT | 5 Practical Cybersecurity Habits Every Developer and IT Professional Must Build in 2025 | Ivo Pereira | [Read More](https://medium.com/p/116f36bce03c) |
-| Sat, 10 May 2025 06:43:45 GMT | Night Patrol Services That Protect Mumbai | United Guard Force India | [Read More](https://medium.com/p/be372fdfc14b) |
-| Sat, 10 May 2025 06:40:29 GMT | Why CCTV Alone Fails for Mumbai Property Security | United Guard Force India | [Read More](https://medium.com/p/bc9ba0c89e52) |
