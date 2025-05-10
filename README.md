@@ -12,11 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 06:43:45 GMT | Night Patrol Services That Protect Mumbai | United Guard Force India | [Read More](https://medium.com/p/be372fdfc14b) |
+| Sat, 10 May 2025 06:40:29 GMT | Why CCTV Alone Fails for Mumbai Property Security | United Guard Force India | [Read More](https://medium.com/p/bc9ba0c89e52) |
+| Sat, 10 May 2025 06:39:17 GMT | PowerSchool Data Breach: The Rising Threat of Double Extortion Ransomware | Nexsecura | [Read More](https://medium.com/p/74da1a35b9ad) |
+| Sat, 10 May 2025 06:32:39 GMT | The Day Bitcoin Breaks: What Happens When China or Russia Crack the Blockchain First | Ronnie Huss | [Read More](https://medium.com/p/7def5856abcb) |
+| Sat, 10 May 2025 06:31:24 GMT | The Importance of Cybersecurity Awareness Training | Poddar Group of Institutions | [Read More](https://medium.com/p/388bcba213fd) |
+| Sat, 10 May 2025 06:29:07 GMT | Blind XXE Attacks via Out-of-Band Interaction Using Burp Collaborator | Bash Overflow | [Read More](https://medium.com/p/af0abd7c7d25) |
+| Sat, 10 May 2025 06:26:46 GMT | How to Measure Cybersecurity Risk ? | Saurabh | [Read More](https://medium.com/p/c511422a9a39) |
 | Sat, 10 May 2025 06:16:11 GMT | Gen AI Coding: Promises & Challenges | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/666401a96203) |
 | Sat, 10 May 2025 06:13:52 GMT | ORTUGAMING | ORTUGAMING | [Read More](https://medium.com/p/603aec680f4a) |
 | Sat, 10 May 2025 06:12:20 GMT | Detecting Web Attacks Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/53a8530d3084) |
 | Sat, 10 May 2025 06:10:34 GMT | The Linux Process Journey — passwd (Change User Password) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/98d5fab2fe45) |
 | Sat, 10 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a3182dbccae3) |
+| Sat, 10 May 2025 05:59:40 GMT | สรุปจากการอ่าน Network Security | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/cb38aedd61a7) |
 | Sat, 10 May 2025 05:55:03 GMT | Unlocking Cyber Careers with the OSCP+ Certification | Oscptraining | [Read More](https://medium.com/p/817d426bb215) |
 | Sat, 10 May 2025 05:52:35 GMT | Still Fighting the Wrong Fight? The CISO Paradox in 2025 | JC Gaillard | [Read More](https://medium.com/p/b5d89250c6bc) |
 | Sat, 10 May 2025 05:51:17 GMT | Top Certifications That Can Land You a Job in Tech | Prism HRC | [Read More](https://medium.com/p/e6b79184f54b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 20:18:16 GMT | I Asked to Be Seen. And Then I Was. And I Panicked. | Ana Perez | [Read More](https://medium.com/p/202951cd0bd4) |
 | Fri, 09 May 2025 20:16:01 GMT | How a Misconfigured Endpoint Exposed Over 3 Million Users and Access to Other Applications | Bryan Muñoz | [Read More](https://medium.com/p/f3697737c158) |
 | Fri, 09 May 2025 20:14:28 GMT | Top 10 Cybersecurity Trends Shaping 2025 | Cullensam | [Read More](https://medium.com/p/6282cc198f57) |
-| Fri, 09 May 2025 20:14:09 GMT | Strengthen Your Business with Smart Cybersecurity and Internet Solutions | Defend My Business | [Read More](https://medium.com/p/9fca9e43f3f7) |
-| Fri, 09 May 2025 20:10:19 GMT | Cloud Security Fundamentals On AWS | Arion Nagappen | [Read More](https://medium.com/p/25b1384b101a) |
-| Fri, 09 May 2025 20:05:48 GMT | I Analyzed The Privacy Policies of 5 Popular Apps(What I Found is Shocking) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/d15be80c7bd7) |
-| Fri, 09 May 2025 20:04:19 GMT | Public Charging Stations: The Security Risk You’re Overlooking? | Karl Buhl | [Read More](https://medium.com/p/8958be1a7276) |
-| Fri, 09 May 2025 20:03:13 GMT | Packing and Unpacking | xwxrtxn | [Read More](https://medium.com/p/7d8f676f2a71) |
-| Fri, 09 May 2025 19:53:48 GMT | Penguin Chronicles — My Linux Origin Story | Ace | [Read More](https://medium.com/p/1d6eec36f50f) |
-| Fri, 09 May 2025 19:42:14 GMT | 3 Cybersecurity Skills You Don’t Realize You Already Have | Jbird | [Read More](https://medium.com/p/7d7bfc0e6fed) |
-| Fri, 09 May 2025 19:38:58 GMT | The $1.8 Billion Mistake(This Will End Your Business) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/021f8b906a9d) |
