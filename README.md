@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 20:03:28 GMT | Beyond Silence and Pedestals: 15 Pillars of Authentic Love | Groovy Spirit Realm | [Read More](https://medium.com/p/b1c54ca59383) |
+| Sat, 10 May 2025 20:01:37 GMT | Weaponized PDF Invoices and Java-based RATs: Inside a Sophisticated Multiplatform Email Attack | Siva Gunasekaran | [Read More](https://medium.com/p/9cd49a1934e9) |
+| Sat, 10 May 2025 20:01:22 GMT | Navigating Today’s Tech Challenges: Risks, Trust, and Reliable Solutions | Veridian Tech Solutions By Support.Com | [Read More](https://medium.com/p/b5c4554585a7) |
+| Sat, 10 May 2025 20:00:35 GMT | I Read The AI Revolution in Networking, Cybersecurity, and Emerging Technologies — Here’s What… | NaveeeN Chendra | [Read More](https://medium.com/p/a3b308e46e38) |
+| Sat, 10 May 2025 19:59:37 GMT | Step-by-Step Guide to Acquiring DORK | DORK | [Read More](https://medium.com/p/7cc06ffb2813) |
+| Sat, 10 May 2025 19:52:55 GMT | CYBER THREAT INTELLIGENCE | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/87d7f6d68831) |
+| Sat, 10 May 2025 19:51:40 GMT | 3,200+ Developers infected through malicious NPM packages targeting Cursor | CyberLucifer | [Read More](https://medium.com/p/bb4620548954) |
+| Sat, 10 May 2025 19:51:29 GMT | Hacked Through a Shipping Label — Here’s How a Small Business Survived the Unthinkable | Noel | [Read More](https://medium.com/p/b7d9b97003af) |
+| Sat, 10 May 2025 19:51:24 GMT | A Pizza App Hacked a Small Business for $75,000 — Here’s What Went Wrong | Noel | [Read More](https://medium.com/p/736ac6ab9364) |
+| Sat, 10 May 2025 19:48:45 GMT | The Hack That Felt Like a Horror Movie: Inside the 2025 Cyber Nightmare | Noel | [Read More](https://medium.com/p/537edc2e5ad3) |
+| Sat, 10 May 2025 19:48:41 GMT | $9,400 Bounty: XSS in Shopify’s Jamf Pro via Exposed Swagger UI | Monika sharma | [Read More](https://medium.com/p/7b029a4be766) |
+| Sat, 10 May 2025 19:48:33 GMT | Why Your Printer Might Be the Office’s Biggest Snitch (And How to Stop It) | Bl@ckC!pH3r | [Read More](https://medium.com/p/e1b7f425bfb9) |
 | Sat, 10 May 2025 19:35:53 GMT | The Amphibious Vehicle with Interactive AI: Revolutionizing Transportation for Land and Water | Aly | [Read More](https://medium.com/p/adc54e3930f3) |
+| Sat, 10 May 2025 19:28:19 GMT | Unpacking Falco: A Guide to Mastering Rule Logic | Karlmarx Karunanithi | [Read More](https://medium.com/p/34d89d2ef44d) |
 | Sat, 10 May 2025 19:23:19 GMT | Malicious npm Packages Hit Over 3,200 Cursor Users with Sneaky Backdoor | Farhan Ansari | [Read More](https://medium.com/p/520cd0eda570) |
 | Sat, 10 May 2025 19:17:23 GMT | HTB — UnderPass Write-up | Nikita Astashenko | [Read More](https://medium.com/p/ede7f3fd68cd) |
 | Sat, 10 May 2025 19:14:32 GMT | Comparing Directory Bruteforcing Tools — Once In, Never Out | Strikoder | [Read More](https://medium.com/p/d2da24819bd4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 12:20:04 GMT | import tkinter as tk | edward mwagoa | [Read More](https://medium.com/p/cfc6f872f5a0) |
 | Sat, 10 May 2025 12:19:53 GMT | (NestJS-15) Validating Multiple File Uploads in NestJS Using Custom Pipe | Bhargava Chary | [Read More](https://medium.com/p/ce75889c9768) |
 | Sat, 10 May 2025 12:15:51 GMT | How I Found Multiple Critical Vulnerabilities in File Upload Functionality | Suresh S | [Read More](https://medium.com/p/d868db55b55a) |
-| Sat, 10 May 2025 12:02:24 GMT | Void Botnet Uncovered: From Cracked Games to Credential Theft | Vidhi patel | [Read More](https://medium.com/p/3efbe83a5910) |
-| Sat, 10 May 2025 12:02:10 GMT | What is a Cyber Security Specialist? - IIFIS | seenivasan V | [Read More](https://medium.com/p/cfdf768e8475) |
-| Sat, 10 May 2025 11:42:30 GMT | Is ISC2 Certified in Cybersecurity Worth It for Beginners? | InnoVirtuoso - Tech, CyberSec Blogger | [Read More](https://medium.com/p/c5e178e7a47a) |
-| Sat, 10 May 2025 11:28:00 GMT | Linux Shells - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/109a6417b755) |
-| Sat, 10 May 2025 11:27:49 GMT | How I Earned 100 euros in 4 Hours as a Beginner Bug Bounty Hunter | Niranjan Prajapati | [Read More](https://medium.com/p/623530ba8bf5) |
-| Sat, 10 May 2025 11:15:29 GMT | Apl⚙️ Reliable, Scalable & Built for Performance | Cloudmitra Cloud Servers | [Read More](https://medium.com/p/29e3f40dc9c3) |
-| Sat, 10 May 2025 11:12:43 GMT | Real-World Applications & Emerging Trends in IoT/OT Security | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/da654f2dab12) |
-| Sat, 10 May 2025 11:06:57 GMT | Why Event Security Services Are Essential for a Safe Gathering | Jane Tang | [Read More](https://medium.com/p/67d7cd772382) |
-| Sat, 10 May 2025 11:05:33 GMT | Google’s $1.375 Billion Texas Showdown: A Privacy Wake-Up Call! ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c87e04265c6e) |
-| Sat, 10 May 2025 11:03:41 GMT | Do you need Linux for cyber security? | cyberwingITSolution | [Read More](https://medium.com/p/a53b81ae6cc1) |
-| Sat, 10 May 2025 11:02:38 GMT | Connecting the Dots: From Breach Dumps to Real People — A Human Approach to OSINT | Varul Arora | [Read More](https://medium.com/p/99fc2190b169) |
-| Sat, 10 May 2025 11:01:36 GMT | $12,000 Bounty: From Path Traversal to Remote Code Execution on GitLab | Monika sharma | [Read More](https://medium.com/p/eab315e346c3) |
-| Sat, 10 May 2025 11:00:33 GMT | Top 5 Certifications You Need to Enter the Offensive Cybersecurity World | Khushi Chouhan | [Read More](https://medium.com/p/3a36cfe6fae3) |
