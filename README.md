@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 02:43:39 GMT | Notes on Red Team Ethical Hacking Course (Udemy) | Mike Anthony | [Read More](https://medium.com/p/3c70affa8014) |
+| Sat, 10 May 2025 02:33:58 GMT | The Passwordless Future: Securing the Digital World Against AI-Driven Threats | Jeffrey Nickle | [Read More](https://medium.com/p/4732642b7122) |
+| Sat, 10 May 2025 02:15:16 GMT | A Beginner’s Guide to Installing and Uninstalling Nginx on ubuntu | Rohith Remesh | [Read More](https://medium.com/p/985ef45eb9ce) |
+| Sat, 10 May 2025 02:09:18 GMT | Software Quality Metrics (SQM) | Muhammad Fajar Satria Pamungkas | [Read More](https://medium.com/p/dd924144933f) |
+| Sat, 10 May 2025 02:06:45 GMT | Types of Hackers: Why ‘White Hat’ is Only Half the Story in Offensive Cybersecurity | Jens Becker | [Read More](https://medium.com/p/e22cfce30b7b) |
+| Sat, 10 May 2025 02:04:51 GMT | InvokeAI_RCE - PG Walkthrough | Adam Bartlett | [Read More](https://medium.com/p/11efb4477d4b) |
+| Sat, 10 May 2025 01:38:29 GMT | New Wave of Exploits Targets Unpatched SAP Systems | current.cybersecurity | [Read More](https://medium.com/p/267918d63b11) |
+| Sat, 10 May 2025 01:36:51 GMT | MikroTik Winbox DLL Side-Loading Vulnerability X2 | ice-wzl | [Read More](https://medium.com/p/413d371ff5f0) |
 | Sat, 10 May 2025 01:28:05 GMT | Unlocking the Invisible Shield: How Modern Cryptography Secures Your Digital World( discussing the… | Chibuike Kosisochukwu | [Read More](https://medium.com/p/79b42f83549f) |
 | Sat, 10 May 2025 01:13:03 GMT | Exploring the Best Cold Wallet Crypto: ELLIPAL’s Innovative Hardware Wallets | Dsgfghsdfsg | [Read More](https://medium.com/p/8b48e4902fe7) |
 | Sat, 10 May 2025 01:08:51 GMT | More Than Broken Access: The Real Power of IDORs | XeRox01 | [Read More](https://medium.com/p/a50763e9ff8d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 16:49:18 GMT | How to Claim Free Bounty (BNTY) | BNTY | [Read More](https://medium.com/p/7e9394bce646) |
 | Fri, 09 May 2025 16:47:33 GMT | For the umpteenth time: What is the difference between Threat and Risk in business context? | Shittu | [Read More](https://medium.com/p/9b020a77a5ec) |
 | Fri, 09 May 2025 16:47:29 GMT | Top AI-Powered Cybersecurity Tools for 2025 | Cyber Sec Pro | [Read More](https://medium.com/p/95d3d0808ed1) |
-| Fri, 09 May 2025 16:46:33 GMT | Building a strong cyber security culture isn’t just a tick box exercise — it’s a strategic… | Dr Tai Durojaiye | [Read More](https://medium.com/p/2bab0df3a375) |
-| Fri, 09 May 2025 16:40:15 GMT | Cybersecurity News Review — Week 19 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/d6884a65ba43) |
-| Fri, 09 May 2025 16:37:10 GMT | $500 Social Security Boost for 2025: What You Need to Know | Rudraanshprajapati | [Read More](https://medium.com/p/9e06b72b2007) |
-| Fri, 09 May 2025 16:29:37 GMT | Navigating the AI Paradox: Balancing Competitive Edge and Security in AI Adoption | Ajay Kumar | [Read More](https://medium.com/p/488116008c0f) |
-| Fri, 09 May 2025 16:26:55 GMT | Lab 23 — IP Scanners | Hassen Hannachi | [Read More](https://medium.com/p/b161ff2158ef) |
-| Fri, 09 May 2025 16:20:14 GMT | HTB — Bank Write-up | Nikita Astashenko | [Read More](https://medium.com/p/425461ace183) |
-| Fri, 09 May 2025 16:17:15 GMT | Remote Surveillance - Make Enquiries - Get Help | BlackHat | [Read More](https://medium.com/p/8d59412a82bf) |
-| Fri, 09 May 2025 16:15:11 GMT | TryHackMe - SOC Metrics and Objectives - WriteUp | Axoloth | [Read More](https://medium.com/p/065588a47c0e) |
