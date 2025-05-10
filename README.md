@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 10:15:49 GMT | The Vulnerability Management Playbook for Lean Security Teams | Paritosh | [Read More](https://medium.com/p/f253be8a0c85) |
+| Sat, 10 May 2025 10:06:45 GMT | Why Do I Need a More Secure Phone? | Henryawong | [Read More](https://medium.com/p/572719864d37) |
+| Sat, 10 May 2025 10:03:51 GMT | Major breach: LockBit Ransomware Group Hacked! | Yasin Kalli | [Read More](https://medium.com/p/a9af3bb19958) |
+| Sat, 10 May 2025 09:56:34 GMT | Gobuster: Complete Guide to Directory & DNS Enumeration ️ | 0b1d1 | [Read More](https://medium.com/p/63c4c83237bb) |
+| Sat, 10 May 2025 09:53:33 GMT | Why Do Companies Use Linux for Servers, Security, and Scalability? | cyberwingITSolution | [Read More](https://medium.com/p/f6915e6a20cc) |
+| Sat, 10 May 2025 09:50:56 GMT | Ethical Hacking Course | Droporg Mkt | [Read More](https://medium.com/p/c654510efd52) |
+| Sat, 10 May 2025 09:49:36 GMT | MS17–010 EternalBlue Vulnerability Lab Setup & Exploitation Guide (For Learning Purposes) | Babar Ali Jamali | [Read More](https://medium.com/p/da8ccc529fc5) |
+| Sat, 10 May 2025 09:49:00 GMT | Linuxda Wazuh vasitəsi ilə xarici yaddaş(USB) qurğularını deaktiv etmə | Makharramli | [Read More](https://medium.com/p/9693ad414e60) |
+| Sat, 10 May 2025 09:48:10 GMT | The Role of AI in Cyber Forensics: Investigating Attacks Faster and Smarter | Taiyab Lokhandwala | [Read More](https://medium.com/p/56b7505f0e38) |
+| Sat, 10 May 2025 09:48:00 GMT | Here’s how i recover my money from ask2bid | Megan Steven | [Read More](https://medium.com/p/d31da8e49cdc) |
+| Sat, 10 May 2025 09:41:36 GMT | Ataques de Phishing (Ingeniería Social) | S4ntiHack | [Read More](https://medium.com/p/ca8fc733b86b) |
+| Sat, 10 May 2025 09:40:11 GMT | Germany Shuts Down eXch Crypto Platform in €34M Seizure Linked to Bybit Hack and Darknet Laundering | CoinGen | [Read More](https://medium.com/p/9d3d0f38a366) |
 | Sat, 10 May 2025 09:29:06 GMT | As the Week Unfolds | Tõmï | [Read More](https://medium.com/p/9bb8af34c6eb) |
 | Sat, 10 May 2025 09:23:39 GMT | Dorking Receh, Ketemu NIK & NPWP di Domain Pemerintah | FufuFafa | [Read More](https://medium.com/p/30e89912d3be) |
 | Sat, 10 May 2025 09:14:58 GMT | EKS Pod Identity: Easily manage AWS resource access | Binaya Sharma | [Read More](https://medium.com/p/c2f953ea5208) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 02:15:16 GMT | A Beginner’s Guide to Installing and Uninstalling Nginx on ubuntu | Rohith Remesh | [Read More](https://medium.com/p/985ef45eb9ce) |
 | Sat, 10 May 2025 02:09:18 GMT | Software Quality Metrics (SQM) | Muhammad Fajar Satria Pamungkas | [Read More](https://medium.com/p/dd924144933f) |
 | Sat, 10 May 2025 02:06:45 GMT | Types of Hackers: Why ‘White Hat’ is Only Half the Story in Offensive Cybersecurity | Jens Becker | [Read More](https://medium.com/p/e22cfce30b7b) |
-| Sat, 10 May 2025 02:04:51 GMT | InvokeAI_RCE - PG Walkthrough | Adam Bartlett | [Read More](https://medium.com/p/11efb4477d4b) |
-| Sat, 10 May 2025 01:38:29 GMT | New Wave of Exploits Targets Unpatched SAP Systems | current.cybersecurity | [Read More](https://medium.com/p/267918d63b11) |
-| Sat, 10 May 2025 01:36:51 GMT | MikroTik Winbox DLL Side-Loading Vulnerability X2 | ice-wzl | [Read More](https://medium.com/p/413d371ff5f0) |
-| Sat, 10 May 2025 01:28:05 GMT | Unlocking the Invisible Shield: How Modern Cryptography Secures Your Digital World( discussing the… | Chibuike Kosisochukwu | [Read More](https://medium.com/p/79b42f83549f) |
-| Sat, 10 May 2025 01:13:03 GMT | Exploring the Best Cold Wallet Crypto: ELLIPAL’s Innovative Hardware Wallets | Dsgfghsdfsg | [Read More](https://medium.com/p/8b48e4902fe7) |
-| Sat, 10 May 2025 01:08:51 GMT | More Than Broken Access: The Real Power of IDORs | XeRox01 | [Read More](https://medium.com/p/a50763e9ff8d) |
-| Sat, 10 May 2025 01:02:03 GMT | Micro-Business Cybersecurity | Eina Schroeder | [Read More](https://medium.com/p/4ddd7743f466) |
-| Sat, 10 May 2025 00:49:37 GMT | Inside the CIA’s Secret Onine War to Recruit Informants in the World’s Darkest Corners | Robert Morton | [Read More](https://medium.com/p/ad9c86698a00) |
-| Sat, 10 May 2025 00:38:36 GMT | How To Unlock $BNTY Tokens | BNTY | [Read More](https://medium.com/p/34c60eff5ca9) |
-| Sat, 10 May 2025 00:36:37 GMT | Facebook analysis tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/fc7d8b2f4d7d) |
-| Sat, 10 May 2025 00:23:57 GMT | Words Of The Day — 20250510 | cokojo | [Read More](https://medium.com/p/5369bcf5548b) |
-| Sat, 10 May 2025 00:23:39 GMT | HOW I STARTED MY CYBER SECURITY JOURNEY | Kryptic_Fhrank | [Read More](https://medium.com/p/0ba3333f7b7a) |
