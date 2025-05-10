@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 19:35:53 GMT | The Amphibious Vehicle with Interactive AI: Revolutionizing Transportation for Land and Water | Aly | [Read More](https://medium.com/p/adc54e3930f3) |
+| Sat, 10 May 2025 19:23:19 GMT | Malicious npm Packages Hit Over 3,200 Cursor Users with Sneaky Backdoor | Farhan Ansari | [Read More](https://medium.com/p/520cd0eda570) |
+| Sat, 10 May 2025 19:17:23 GMT | HTB — UnderPass Write-up | Nikita Astashenko | [Read More](https://medium.com/p/ede7f3fd68cd) |
+| Sat, 10 May 2025 19:14:32 GMT | Comparing Directory Bruteforcing Tools — Once In, Never Out | Strikoder | [Read More](https://medium.com/p/d2da24819bd4) |
+| Sat, 10 May 2025 19:14:03 GMT | Antivirus is Not Dead: Global Endpoint Security Lessons from the Frontlines | Ninza-_-Boi | [Read More](https://medium.com/p/d77ff537f9fb) |
 | Sat, 10 May 2025 19:02:14 GMT | From Response to Resilience | Hantz | [Read More](https://medium.com/p/00f72206a0e0) |
 | Sat, 10 May 2025 18:54:48 GMT | Cyber Security Risk Management | Tanmay Bhattacharjee | [Read More](https://medium.com/p/b54ced30b7fa) |
 | Sat, 10 May 2025 18:51:55 GMT | Digital Armor: Why Personal OpSec Is Your New Superpower | Joe The OSINT Guy | [Read More](https://medium.com/p/e522e2e0b684) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 11:02:38 GMT | Connecting the Dots: From Breach Dumps to Real People — A Human Approach to OSINT | Varul Arora | [Read More](https://medium.com/p/99fc2190b169) |
 | Sat, 10 May 2025 11:01:36 GMT | $12,000 Bounty: From Path Traversal to Remote Code Execution on GitLab | Monika sharma | [Read More](https://medium.com/p/eab315e346c3) |
 | Sat, 10 May 2025 11:00:33 GMT | Top 5 Certifications You Need to Enter the Offensive Cybersecurity World | Khushi Chouhan | [Read More](https://medium.com/p/3a36cfe6fae3) |
-| Sat, 10 May 2025 10:57:52 GMT | Cyber Cops Bust a $46M Botnet Empire: 7,000 Hacked IoT Devices Taken Down! ‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/9b23ad50dcde) |
-| Sat, 10 May 2025 10:53:56 GMT | Inside the Enemy Lines: How a Simple IDOR Unmasked a Major Malware Campaign | Chux | [Read More](https://medium.com/p/4d61c2293cf6) |
-| Sat, 10 May 2025 10:53:34 GMT | How Cybersecurity Experts Think Like Hackers to Stop Hackers | Mahidul Haque | [Read More](https://medium.com/p/77e873708d6d) |
-| Sat, 10 May 2025 10:50:15 GMT | Brazilian Execs Under Siege: How NF-e Spam and Legit RMM Tools Became Cybercriminals’ New BFFs | Ismail Tasdelen | [Read More](https://medium.com/p/2c5b8360c67e) |
-| Sat, 10 May 2025 10:46:28 GMT | CEH v12 vs OSCP: Which Cybersecurity Certification is Better in 2025? | Vasundhra sharma | [Read More](https://medium.com/p/e1964383476a) |
