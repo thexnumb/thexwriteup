@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 06:51:19 GMT | Security Guard Training Excellence in Mumbai | United Guard Force India | [Read More](https://medium.com/p/45f3155513f5) |
+| Sat, 10 May 2025 06:49:27 GMT | The Secret to Building a Hacker-Proof DevOps Workflow | AbdulRahman Mostafa | [Read More](https://medium.com/p/66849a9c4da7) |
+| Sat, 10 May 2025 06:49:11 GMT | 5 Practical Cybersecurity Habits Every Developer and IT Professional Must Build in 2025 | Ivo Pereira | [Read More](https://medium.com/p/116f36bce03c) |
 | Sat, 10 May 2025 06:43:45 GMT | Night Patrol Services That Protect Mumbai | United Guard Force India | [Read More](https://medium.com/p/be372fdfc14b) |
 | Sat, 10 May 2025 06:40:29 GMT | Why CCTV Alone Fails for Mumbai Property Security | United Guard Force India | [Read More](https://medium.com/p/bc9ba0c89e52) |
 | Sat, 10 May 2025 06:39:17 GMT | PowerSchool Data Breach: The Rising Threat of Double Extortion Ransomware | Nexsecura | [Read More](https://medium.com/p/74da1a35b9ad) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 20:48:46 GMT | HTTP REQUEST SMUGGLING | Arunoday Tiwari | [Read More](https://medium.com/p/a1be1c2cf302) |
 | Fri, 09 May 2025 20:34:59 GMT | Bridging the Digital Divide: How to Deliver Support Seniors Will Love (and Actually… | ɌƋƑ•TECH | [Read More](https://medium.com/p/3bb72d317d6f) |
 | Fri, 09 May 2025 20:24:04 GMT | Secure CI/CD 2025: Practical GitLab Hardening Guide | Aleksei Aleinikov | [Read More](https://medium.com/p/09cde127063d) |
-| Fri, 09 May 2025 20:18:16 GMT | I Asked to Be Seen. And Then I Was. And I Panicked. | Ana Perez | [Read More](https://medium.com/p/202951cd0bd4) |
-| Fri, 09 May 2025 20:16:01 GMT | How a Misconfigured Endpoint Exposed Over 3 Million Users and Access to Other Applications | Bryan Muñoz | [Read More](https://medium.com/p/f3697737c158) |
-| Fri, 09 May 2025 20:14:28 GMT | Top 10 Cybersecurity Trends Shaping 2025 | Cullensam | [Read More](https://medium.com/p/6282cc198f57) |
