@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 10:20:20 GMT | Cluster Mimarisi Nedir? Neden Kullanılır? | Yiğit Ozan Boztepe | [Read More](https://medium.com/p/3701f03a21f5) |
+| Sat, 10 May 2025 10:18:52 GMT | สรุปจากการศึกษาเรื่อง Security Operations | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/1514147c5258) |
 | Sat, 10 May 2025 10:15:49 GMT | The Vulnerability Management Playbook for Lean Security Teams | Paritosh | [Read More](https://medium.com/p/f253be8a0c85) |
 | Sat, 10 May 2025 10:06:45 GMT | Why Do I Need a More Secure Phone? | Henryawong | [Read More](https://medium.com/p/572719864d37) |
 | Sat, 10 May 2025 10:03:51 GMT | Major breach: LockBit Ransomware Group Hacked! | Yasin Kalli | [Read More](https://medium.com/p/a9af3bb19958) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 02:43:39 GMT | Notes on Red Team Ethical Hacking Course (Udemy) | Mike Anthony | [Read More](https://medium.com/p/3c70affa8014) |
 | Sat, 10 May 2025 02:33:58 GMT | The Passwordless Future: Securing the Digital World Against AI-Driven Threats | Jeffrey Nickle | [Read More](https://medium.com/p/4732642b7122) |
 | Sat, 10 May 2025 02:15:16 GMT | A Beginner’s Guide to Installing and Uninstalling Nginx on ubuntu | Rohith Remesh | [Read More](https://medium.com/p/985ef45eb9ce) |
-| Sat, 10 May 2025 02:09:18 GMT | Software Quality Metrics (SQM) | Muhammad Fajar Satria Pamungkas | [Read More](https://medium.com/p/dd924144933f) |
-| Sat, 10 May 2025 02:06:45 GMT | Types of Hackers: Why ‘White Hat’ is Only Half the Story in Offensive Cybersecurity | Jens Becker | [Read More](https://medium.com/p/e22cfce30b7b) |
