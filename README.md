@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 16:20:22 GMT | What is an HTTP Method? | Himakshithakre | [Read More](https://medium.com/p/46e67ce4ac0f) |
+| Sat, 10 May 2025 16:18:17 GMT | Day 31: Introduction to Computer Networking — LAN, WAN, P2P, and More! | Agarwaldaksh | [Read More](https://medium.com/p/4af0e255874a) |
+| Sat, 10 May 2025 16:17:14 GMT | The Dark Side of Browser Extensions: How That Emoji Add-On Might Be Stealing Your Data | Bl@ckC!pH3r | [Read More](https://medium.com/p/a1001e595f1f) |
+| Sat, 10 May 2025 16:10:03 GMT | Cat Pictures - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/c9f07f2443e1) |
+| Sat, 10 May 2025 16:01:38 GMT | Making Your First $1,000 in Bug Bounties: A Practical Roadmap for Aspiring Hackers | Maxwell Cross | [Read More](https://medium.com/p/0b74a89c76a9) |
+| Sat, 10 May 2025 15:40:06 GMT | Sahte Baz İstasyonu Furyası — IMSI Catcher | Serhat AYDIN | [Read More](https://medium.com/p/043ca3ff45dc) |
+| Sat, 10 May 2025 15:39:02 GMT | How I Linked My Dahua Alarm to Video (And Made My Security System Way Smarter) | Rara | [Read More](https://medium.com/p/8d4913d23c1b) |
 | Sat, 10 May 2025 15:34:22 GMT | HTML Injection | Fatimahasan | [Read More](https://medium.com/p/33a2ba6d7562) |
+| Sat, 10 May 2025 15:25:46 GMT | There’s a Difference Between Tired and Tired | Adam Craig | [Read More](https://medium.com/p/9c58b855b5b8) |
 | Sat, 10 May 2025 15:25:31 GMT | CSRF Attack di sahabat.kotabogor.go.id — Change Bio profiles | FufuFafa | [Read More](https://medium.com/p/bf2666d35f37) |
 | Sat, 10 May 2025 15:16:42 GMT | Supply Chain Attacks: Software Supply Chain Security | Esra Kayhan | [Read More](https://medium.com/p/3a6bb521d391) |
 | Sat, 10 May 2025 15:15:32 GMT | AI systems aren’t secure. | Bushy | [Read More](https://medium.com/p/092d688d9c09) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 09:04:49 GMT | Hacking Windows Login Screen via Accessibility Backdoors (Sticky Keys & Utilman Exploits) | Taha Ex | [Read More](https://medium.com/p/157e3b18e52d) |
 | Sat, 10 May 2025 09:01:42 GMT | How to improve Your Skills in Penetration Testing and Ethical Hacking (with resources) | Mohammad Suleiman | [Read More](https://medium.com/p/18423515d6f9) |
 | Sat, 10 May 2025 09:01:29 GMT | NTLM vs NetNTLM | Taha Ex | [Read More](https://medium.com/p/30a384c8fe01) |
-| Sat, 10 May 2025 08:56:43 GMT | How is AI affecting employment & Your Job? Examining its role in cybersecurity and automation. | Motasem Hamdan | [Read More](https://medium.com/p/588704d30bda) |
-| Sat, 10 May 2025 08:44:24 GMT | TryHackMe - Living Off the Land - WriteUp | Axoloth | [Read More](https://medium.com/p/730aa22fffb4) |
-| Sat, 10 May 2025 08:40:03 GMT | Dynamic Malware Analysis Example #1 Letsdefend | lukewago | [Read More](https://medium.com/p/17477c11fa42) |
-| Sat, 10 May 2025 08:35:17 GMT | Resillion — when those who preach cybersecurity forget to practice it | 0trust0day | [Read More](https://medium.com/p/5f99a2a31654) |
-| Sat, 10 May 2025 08:33:42 GMT | Best Private Security Services in Bangalore — Southwall Securities | Southwallsecuritiesservice | [Read More](https://medium.com/p/cb854831bfd7) |
-| Sat, 10 May 2025 08:33:22 GMT | Cybersecurity with Python — Part4: Detecting Threats in Apache Logs | Vaibhavi Tilak | [Read More](https://medium.com/p/2090992e8f71) |
-| Sat, 10 May 2025 08:28:10 GMT | Understanding Variables, Operators, and Functions in Dart | Daily Learn | [Read More](https://medium.com/p/a614f4433fa7) |
-| Sat, 10 May 2025 08:26:16 GMT | Self-Driving Cars: Safety and Efficiency | Imali | [Read More](https://medium.com/p/400819f42960) |
