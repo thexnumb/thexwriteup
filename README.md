@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 13:21:44 GMT | Lessons from the film  Logout | Rohini Lakshané | [Read More](https://medium.com/p/0c3c8a9b80f3) |
+| Sat, 10 May 2025 13:16:37 GMT | Hackers Love This .NET Mistake — Don’t Fall for It! | Code Crack | [Read More](https://medium.com/p/31110144fda5) |
+| Sat, 10 May 2025 13:16:18 GMT | A World on Fire: Drowning in Misinformation, Gasping for Truth | Joy | [Read More](https://medium.com/p/a8034755c3f4) |
+| Sat, 10 May 2025 13:13:34 GMT | eJPTv2 exam Review with Tips | Amaz Selection | [Read More](https://medium.com/p/b58b23a12e16) |
+| Sat, 10 May 2025 13:02:40 GMT | Deepfake Scams: AI-Powered Fraud Is Undermining Corporate Trust | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d7a406f8bb1a) |
+| Sat, 10 May 2025 13:02:39 GMT | Measuring What Matters: A Mindset Shift in Blue Teams | Siddhant Mishra | [Read More](https://medium.com/p/187692dd60bc) |
+| Sat, 10 May 2025 12:57:48 GMT | Privilege Escalation Using Autorun Feature in Windows | Ammar Ahmed | [Read More](https://medium.com/p/2bc4108d54a1) |
+| Sat, 10 May 2025 12:50:17 GMT | Risk Evolves. What Lead Paint Has Taught Me About IT Security Practices | Dave Sumner | [Read More](https://medium.com/p/efd114f6db5d) |
+| Sat, 10 May 2025 12:48:28 GMT | Holocron of Content | Anezaneo | [Read More](https://medium.com/p/b67fda64bd5a) |
+| Sat, 10 May 2025 12:36:45 GMT | From Zero to Cracked: Capturing and Cracking NetNTLMv2 Hashes with Responder and Hashcat | Taha Ex | [Read More](https://medium.com/p/271dfd92b77e) |
 | Sat, 10 May 2025 12:31:24 GMT | In today’s technology-driven world, cybersecurity is more important than ever. | Techzonego | [Read More](https://medium.com/p/8090aaff30ba) |
 | Sat, 10 May 2025 12:29:08 GMT | Analyzing network traffic using Wireshark. Beginner friendly guide. | Rabia Riaz | [Read More](https://medium.com/p/34b6d139d897) |
 | Sat, 10 May 2025 12:28:40 GMT | From Beginner to Expert: Your Learning Path at Cyber Pratibha | cyber infomines | [Read More](https://medium.com/p/457336afc6d6) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 05:55:03 GMT | Unlocking Cyber Careers with the OSCP+ Certification | Oscptraining | [Read More](https://medium.com/p/817d426bb215) |
 | Sat, 10 May 2025 05:52:35 GMT | Still Fighting the Wrong Fight? The CISO Paradox in 2025 | JC Gaillard | [Read More](https://medium.com/p/b5d89250c6bc) |
 | Sat, 10 May 2025 05:51:17 GMT | Top Certifications That Can Land You a Job in Tech | Prism HRC | [Read More](https://medium.com/p/e6b79184f54b) |
-| Sat, 10 May 2025 05:46:15 GMT | Palo Alto Networks Prisma Cloud Serverless Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0b9e317d901d) |
-| Sat, 10 May 2025 05:46:09 GMT | How Backups Can Break End-to-End Encryption (E2EE) | Pawan Jaiswal | [Read More](https://medium.com/p/28b2caa94f7f) |
-| Sat, 10 May 2025 05:44:25 GMT | Domain Ninja: A New Era in Ethical Traffic Acquisition - Product Review | PixelBot Studio | [Read More](https://medium.com/p/b409ac985bec) |
-| Sat, 10 May 2025 05:39:13 GMT | Domain Ninja : A New Era in Ethical Traffic Acquisition - Product Review | PixelBot Studio | [Read More](https://medium.com/p/cfc6b39b4a98) |
-| Sat, 10 May 2025 05:37:34 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/91f5539eed62) |
-| Sat, 10 May 2025 05:36:30 GMT | Intercepting Android Emulator Traffic with Burp Suite: A Step-by-Step Guide | ROHIT SHARMA | [Read More](https://medium.com/p/f91a6b0d9670) |
-| Sat, 10 May 2025 05:33:50 GMT | Lookup (CTF) — TryHackMe Writeup | z0diac | [Read More](https://medium.com/p/284ddfd85b2f) |
-| Sat, 10 May 2025 05:24:18 GMT | Are You a Fool for Communicating? Absolutely Not. | Esha Bhandari | [Read More](https://medium.com/p/48ca0be497b3) |
-| Sat, 10 May 2025 05:12:36 GMT | Deploy The Application in kubernetes | sreekanthkurapati | [Read More](https://medium.com/p/2f28ad5fbab2) |
-| Sat, 10 May 2025 05:08:43 GMT | Securing and Consuming APIs in the Cloud: A Complete Journey from Provider to Customer | Zoningxtr | [Read More](https://medium.com/p/d7c0f736b84d) |
