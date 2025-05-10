@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 21:05:16 GMT | Siri and Alexa Spying On Us | Yuri Singidas | [Read More](https://medium.com/p/b282c8d612aa) |
+| Sat, 10 May 2025 21:02:08 GMT | Using Impacket with Virtualenv — A Safe Setup for Pentesters | BotsiCat | [Read More](https://medium.com/p/223607333b2a) |
+| Sat, 10 May 2025 20:58:48 GMT | DevSecOps | Richard Ndung'u | [Read More](https://medium.com/p/13c5a50bedcf) |
+| Sat, 10 May 2025 20:58:40 GMT | SOC239 — Remote Code Execution Detected in Splunk Enterprise | Harshprajapati | [Read More](https://medium.com/p/6c87f7ba7198) |
+| Sat, 10 May 2025 20:57:30 GMT | QRadar 101: Dominate the Hunt️ | Omar Hesham | [Read More](https://medium.com/p/66e27c5e385a) |
+| Sat, 10 May 2025 20:47:39 GMT | TryHackMe: Metasploit: Meterpreter | RedHatReed | [Read More](https://medium.com/p/641431f96e4c) |
 | Sat, 10 May 2025 20:37:07 GMT | India vs Pakistan: Cyber War 2.0 A Gen Z Hacker’s POV | Sumanth Yerranagula | [Read More](https://medium.com/p/a032e3ebf7f0) |
 | Sat, 10 May 2025 20:33:04 GMT | Legacy Authentication, Modern Risk- The Hidden Backdoor in Microsoft Entra ID | Siva Gunasekaran | [Read More](https://medium.com/p/6d441731333d) |
 | Sat, 10 May 2025 20:03:28 GMT | Beyond Silence and Pedestals: 15 Pillars of Authentic Love | Groovy Spirit Realm | [Read More](https://medium.com/p/b1c54ca59383) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 12:57:48 GMT | Privilege Escalation Using Autorun Feature in Windows | Ammar Ahmed | [Read More](https://medium.com/p/2bc4108d54a1) |
 | Sat, 10 May 2025 12:50:17 GMT | Risk Evolves. What Lead Paint Has Taught Me About IT Security Practices | Dave Sumner | [Read More](https://medium.com/p/efd114f6db5d) |
 | Sat, 10 May 2025 12:48:28 GMT | Holocron of Content | Anezaneo | [Read More](https://medium.com/p/b67fda64bd5a) |
-| Sat, 10 May 2025 12:36:45 GMT | From Zero to Cracked: Capturing and Cracking NetNTLMv2 Hashes with Responder and Hashcat | Taha Ex | [Read More](https://medium.com/p/271dfd92b77e) |
-| Sat, 10 May 2025 12:31:24 GMT | In today’s technology-driven world, cybersecurity is more important than ever. | Techzonego | [Read More](https://medium.com/p/8090aaff30ba) |
-| Sat, 10 May 2025 12:29:08 GMT | Analyzing network traffic using Wireshark. Beginner friendly guide. | Rabia Riaz | [Read More](https://medium.com/p/34b6d139d897) |
-| Sat, 10 May 2025 12:28:40 GMT | From Beginner to Expert: Your Learning Path at Cyber Pratibha | cyber infomines | [Read More](https://medium.com/p/457336afc6d6) |
-| Sat, 10 May 2025 12:26:39 GMT | The Unstoppable Cyberattack That Nearly Wiped Out a Growing Small Business (And What You Can Learn… | Noel | [Read More](https://medium.com/p/96e5106574ee) |
-| Sat, 10 May 2025 12:20:04 GMT | import tkinter as tk | edward mwagoa | [Read More](https://medium.com/p/cfc6f872f5a0) |
