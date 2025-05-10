@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 06:16:11 GMT | Gen AI Coding: Promises & Challenges | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/666401a96203) |
+| Sat, 10 May 2025 06:13:52 GMT | ORTUGAMING | ORTUGAMING | [Read More](https://medium.com/p/603aec680f4a) |
+| Sat, 10 May 2025 06:12:20 GMT | Detecting Web Attacks Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/53a8530d3084) |
+| Sat, 10 May 2025 06:10:34 GMT | The Linux Process Journey — passwd (Change User Password) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/98d5fab2fe45) |
+| Sat, 10 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a3182dbccae3) |
+| Sat, 10 May 2025 05:55:03 GMT | Unlocking Cyber Careers with the OSCP+ Certification | Oscptraining | [Read More](https://medium.com/p/817d426bb215) |
+| Sat, 10 May 2025 05:52:35 GMT | Still Fighting the Wrong Fight? The CISO Paradox in 2025 | JC Gaillard | [Read More](https://medium.com/p/b5d89250c6bc) |
+| Sat, 10 May 2025 05:51:17 GMT | Top Certifications That Can Land You a Job in Tech | Prism HRC | [Read More](https://medium.com/p/e6b79184f54b) |
+| Sat, 10 May 2025 05:46:15 GMT | Palo Alto Networks Prisma Cloud Serverless Security: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/0b9e317d901d) |
+| Sat, 10 May 2025 05:46:09 GMT | How Backups Can Break End-to-End Encryption (E2EE) | Pawan Jaiswal | [Read More](https://medium.com/p/28b2caa94f7f) |
+| Sat, 10 May 2025 05:44:25 GMT | Domain Ninja: A New Era in Ethical Traffic Acquisition - Product Review | PixelBot Studio | [Read More](https://medium.com/p/b409ac985bec) |
 | Sat, 10 May 2025 05:39:13 GMT | Domain Ninja : A New Era in Ethical Traffic Acquisition - Product Review | PixelBot Studio | [Read More](https://medium.com/p/cfc6b39b4a98) |
 | Sat, 10 May 2025 05:37:34 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/91f5539eed62) |
 | Sat, 10 May 2025 05:36:30 GMT | Intercepting Android Emulator Traffic with Burp Suite: A Step-by-Step Guide | ROHIT SHARMA | [Read More](https://medium.com/p/f91a6b0d9670) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 19:53:48 GMT | Penguin Chronicles — My Linux Origin Story | Ace | [Read More](https://medium.com/p/1d6eec36f50f) |
 | Fri, 09 May 2025 19:42:14 GMT | 3 Cybersecurity Skills You Don’t Realize You Already Have | Jbird | [Read More](https://medium.com/p/7d7bfc0e6fed) |
 | Fri, 09 May 2025 19:38:58 GMT | The $1.8 Billion Mistake(This Will End Your Business) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/021f8b906a9d) |
-| Fri, 09 May 2025 19:31:14 GMT | Dear Diary; My younger self and I. | Favour Ugbor. | [Read More](https://medium.com/p/d53482130668) |
-| Fri, 09 May 2025 19:30:32 GMT | Employee Monitoring Software Abused in Ransomware Attacks | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/59187e3c6177) |
-| Fri, 09 May 2025 19:29:33 GMT | The #1 Mistake Guaranteed to Lose You Customers(And How To Fix It) | Jason - Beyond The Firewall | [Read More](https://medium.com/p/985f41adeed7) |
-| Fri, 09 May 2025 19:28:37 GMT | Persistent Cyber Threats in the Investment Sector: Control, Surveillance, and Insider Exploitation | 0trust0day | [Read More](https://medium.com/p/b1f62dc143bd) |
-| Fri, 09 May 2025 19:20:13 GMT | Hidden Dangers of Public Wi-Fi(And How to Protect Yourself) | Jason | [Read More](https://medium.com/p/ac8a6e0a481c) |
-| Fri, 09 May 2025 19:17:00 GMT | Cybersecurity Culture: Building Security from the Inside Out | Maged Anas | [Read More](https://medium.com/p/b767f6d1d615) |
-| Fri, 09 May 2025 19:12:14 GMT | Reviewing Penetration Testing Contracts | Kulkan Security | [Read More](https://medium.com/p/6e0e615f48e6) |
-| Fri, 09 May 2025 19:12:06 GMT | How Your Online Activities Are Being Tracked and Sold: Protect Your Digital Presence Today | All in One security | [Read More](https://medium.com/p/20b4fcb0e7a7) |
-| Fri, 09 May 2025 19:08:12 GMT | RootSeeker Begins - A Cybersecurity Enthusiast’s Journey | RootSeeker | [Read More](https://medium.com/p/fd9b623357d2) |
-| Fri, 09 May 2025 19:07:51 GMT | Repaving your Kubernetes worker nodes with Karpenter | Jeremy Cowan | [Read More](https://medium.com/p/bb6280c0dffb) |
-| Fri, 09 May 2025 19:06:38 GMT | Smishing, huh? | Cyber Kavy | [Read More](https://medium.com/p/2a81615378bf) |
