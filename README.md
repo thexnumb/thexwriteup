@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 11:28:00 GMT | Linux Shells - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/109a6417b755) |
+| Sat, 10 May 2025 11:27:49 GMT | How I Earned 100 euros in 4 Hours as a Beginner Bug Bounty Hunter | Niranjan Prajapati | [Read More](https://medium.com/p/623530ba8bf5) |
+| Sat, 10 May 2025 11:15:29 GMT | Apl⚙️ Reliable, Scalable & Built for Performance | Cloudmitra Cloud Servers | [Read More](https://medium.com/p/29e3f40dc9c3) |
 | Sat, 10 May 2025 11:12:43 GMT | Real-World Applications & Emerging Trends in IoT/OT Security | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/da654f2dab12) |
+| Sat, 10 May 2025 11:06:57 GMT | Why Event Security Services Are Essential for a Safe Gathering | Jane Tang | [Read More](https://medium.com/p/67d7cd772382) |
 | Sat, 10 May 2025 11:05:33 GMT | Google’s $1.375 Billion Texas Showdown: A Privacy Wake-Up Call! ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c87e04265c6e) |
 | Sat, 10 May 2025 11:03:41 GMT | Do you need Linux for cyber security? | cyberwingITSolution | [Read More](https://medium.com/p/a53b81ae6cc1) |
 | Sat, 10 May 2025 11:02:38 GMT | Connecting the Dots: From Breach Dumps to Real People — A Human Approach to OSINT | Varul Arora | [Read More](https://medium.com/p/99fc2190b169) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 04:40:28 GMT | Is war justified? | Alis | [Read More](https://medium.com/p/94021a7ab710) |
 | Sat, 10 May 2025 04:40:07 GMT | OWASP Top 10 (2024): A Complete Guide to Web Security Risks You Can’t Ignore | Jiniyaasma | [Read More](https://medium.com/p/257278b9850a) |
 | Sat, 10 May 2025 04:38:28 GMT | Core Banking System Architecture Explained: Layers, Components, and Security | Zoningxtr | [Read More](https://medium.com/p/72368ff7aed8) |
-| Sat, 10 May 2025 04:28:09 GMT | Deep Learning: Trends and Future Directions | Ergin Altıntaş | [Read More](https://medium.com/p/9cd6f16dbf06) |
-| Sat, 10 May 2025 04:07:01 GMT | The Art of Being Your Own Anchor. | Amara | [Read More](https://medium.com/p/3632755d7a9b) |
-| Sat, 10 May 2025 03:57:36 GMT | The West’s Hypocrisy Exposed: How IMF Funding Enables a Terror Hub Amid War Threats | Akshat Pathak | [Read More](https://medium.com/p/0b0b05081d2a) |
-| Sat, 10 May 2025 03:52:22 GMT | Beauty in Brokenness | Dolapo Adeyemi | [Read More](https://medium.com/p/b19f4166b789) |
