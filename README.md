@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 08:17:20 GMT | Fet Ed | Roin Bridges | [Read More](https://medium.com/p/e119d2a379bd) |
+| Sat, 10 May 2025 08:12:39 GMT | XSS in Bootstrap 4.3.1: Tooltip-Based Exploit | Abhiram | [Read More](https://medium.com/p/fe204fe29ca9) |
+| Sat, 10 May 2025 08:12:33 GMT | Best Ethical Hacking Course After 12th Science | Ankit_Cyber | [Read More](https://medium.com/p/ac3f26e8f664) |
+| Sat, 10 May 2025 08:08:56 GMT | TryHackMe Hammer: Hacking JWTs Token & Bypassing 2FA | root㉿kali:~# | [Read More](https://medium.com/p/df8c0408aa00) |
+| Sat, 10 May 2025 07:59:29 GMT | Cloud and Cybersecurity: Protecting Businesses in the Digital Era — Teddy K | Asia Advantage | [Read More](https://medium.com/p/38cbed1e0bae) |
+| Sat, 10 May 2025 07:50:08 GMT | ️‍♂️ The Unwanted Guest: How Misconfigured Firebase Gave Me All the Data | Iski | [Read More](https://medium.com/p/80e0e23b7250) |
+| Sat, 10 May 2025 07:45:07 GMT | Introduction to Web Applications | Fatimahasan | [Read More](https://medium.com/p/3567db23580a) |
+| Sat, 10 May 2025 07:44:36 GMT | The Rise of Cyber Threats in India and How Education Can Help Combat Them | Salahudheen KI | [Read More](https://medium.com/p/0daf6751b5ef) |
+| Sat, 10 May 2025 07:41:20 GMT | What Is Sales Call Compliance? The 2025 Guide for Australian & EU Teams | Komplya AI | [Read More](https://medium.com/p/a471686f03ea) |
+| Sat, 10 May 2025 07:34:36 GMT | Alephium’s Intellectual Approach to the Blockchain Trifecta: Security, Scalability, and… | INIUBONG ABASI | [Read More](https://medium.com/p/c99c29d09468) |
 | Sat, 10 May 2025 07:26:58 GMT | Security Is Evolving — EDSPL Is Leading the Transformation | saurabh cyberinfomines | [Read More](https://medium.com/p/a20cf9afb89b) |
 | Sat, 10 May 2025 07:22:43 GMT | The $15B Data Imperative: Why IoT Data Management Is the Next Frontier in Digital Transformation | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/0463b68d3be6) |
 | Sat, 10 May 2025 06:51:19 GMT | Security Guard Training Excellence in Mumbai | United Guard Force India | [Read More](https://medium.com/p/45f3155513f5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 21:44:13 GMT | How To Claim $LFI Tokens | LFI | [Read More](https://medium.com/p/34e6d5e2b1c0) |
 | Fri, 09 May 2025 21:36:37 GMT | How I Hacked a Website Using Only Google | All in One security | [Read More](https://medium.com/p/03a228447a96) |
 | Fri, 09 May 2025 21:34:38 GMT | How To Prevent Hacking by Spotting Fake Emails | Savvy Cyber Kids | [Read More](https://medium.com/p/b7798c3068ca) |
-| Fri, 09 May 2025 21:33:58 GMT | Your Data is Worth Thousands — Here’s Who’s Selling It (And How to Stop It) | Beyond The Firewall | [Read More](https://medium.com/p/62e0ac2c8d81) |
-| Fri, 09 May 2025 21:32:10 GMT | what do i title this? | Idris Abdullateef | [Read More](https://medium.com/p/a9d9c322ff9f) |
-| Fri, 09 May 2025 21:31:51 GMT | LetsDefend Windows Memory Dump Challenge | Dh | [Read More](https://medium.com/p/bb3eea9e56e9) |
-| Fri, 09 May 2025 21:18:25 GMT | HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL | Arunoday Tiwari | [Read More](https://medium.com/p/bfd7bc1b2c72) |
-| Fri, 09 May 2025 21:13:55 GMT | How Exposed Are You? Find Out in 2 Minutes with This Privacy Scorecard | Jason - Beyond The Firewall | [Read More](https://medium.com/p/7cf40e0f9d92) |
-| Fri, 09 May 2025 21:02:03 GMT | Creating Safe Spaces in Online Dating: What We Do Differently at Koktailz | KokTailz Dating App | [Read More](https://medium.com/p/d03eda325e4d) |
-| Fri, 09 May 2025 20:58:33 GMT | Why Every Emerging Business Requires a vCISO | Sherry | [Read More](https://medium.com/p/6b709f228abe) |
-| Fri, 09 May 2025 20:56:32 GMT | Delete Yourself from the Internet in 10 Simple Steps | Jason - Beyond The Firewall | [Read More](https://medium.com/p/142096faa9f5) |
-| Fri, 09 May 2025 20:51:23 GMT | Subliminal Signals via Flicker and Dithering | notalenanot | [Read More](https://medium.com/p/2f5613b35b42) |
-| Fri, 09 May 2025 20:48:46 GMT | HTTP REQUEST SMUGGLING | Arunoday Tiwari | [Read More](https://medium.com/p/a1be1c2cf302) |
