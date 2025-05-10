@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 17:14:32 GMT | Google Dorking — Hacking con Buscadores | Alexis Giménez | [Read More](https://medium.com/p/2ccbdd4ef0a1) |
+| Sat, 10 May 2025 17:09:34 GMT | How to Use Fiddler to Scan Mobile App Endpoints | Richard Nwonah | [Read More](https://medium.com/p/64a074c2e35d) |
+| Sat, 10 May 2025 17:07:40 GMT | Understanding SOC 2 Compliance: Why It Matters for AI Chatbots and LLMs | Vignaraj Ravi | [Read More](https://medium.com/p/5d10948c68a2) |
+| Sat, 10 May 2025 16:53:07 GMT | 9 Principles of Cloud Architecture: A Practical Guide | Saraswathi Lakshman | [Read More](https://medium.com/p/254006f83d7a) |
+| Sat, 10 May 2025 16:51:42 GMT | Cybersecurity Beginner Roadmap | Himakshithakre | [Read More](https://medium.com/p/fb6262a7e4b6) |
+| Sat, 10 May 2025 16:49:51 GMT | Why Traditional Security Scans Aren’t Enough in 2025 | Mehak kamra | [Read More](https://medium.com/p/0c033b5f4980) |
+| Sat, 10 May 2025 16:43:53 GMT | Secure Your AI Agents Before Hackers Strike Your Business | Cybersectoworld | [Read More](https://medium.com/p/b882cfd6b657) |
+| Sat, 10 May 2025 16:43:43 GMT | Server Setup and Hardening for Beginners | Swam Htet Aung | [Read More](https://medium.com/p/f7415a63efe8) |
 | Sat, 10 May 2025 16:36:57 GMT | 24/7 Fire Safety Assurance: Waking Watch Services in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/76b274ae8de1) |
 | Sat, 10 May 2025 16:32:20 GMT | Part 1: “How I Got Into Security” | [ 0xV4sh ] | [Read More](https://medium.com/p/6d6c26cbf2a7) |
 | Sat, 10 May 2025 16:30:15 GMT | SOC Workbooks and Lookups - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/2ceab41075a2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 09:50:56 GMT | Ethical Hacking Course | Droporg Mkt | [Read More](https://medium.com/p/c654510efd52) |
 | Sat, 10 May 2025 09:49:36 GMT | MS17–010 EternalBlue Vulnerability Lab Setup & Exploitation Guide (For Learning Purposes) | Babar Ali Jamali | [Read More](https://medium.com/p/da8ccc529fc5) |
 | Sat, 10 May 2025 09:49:00 GMT | Linuxda Wazuh vasitəsi ilə xarici yaddaş(USB) qurğularını deaktiv etmə | Makharramli | [Read More](https://medium.com/p/9693ad414e60) |
-| Sat, 10 May 2025 09:48:10 GMT | The Role of AI in Cyber Forensics: Investigating Attacks Faster and Smarter | Taiyab Lokhandwala | [Read More](https://medium.com/p/56b7505f0e38) |
-| Sat, 10 May 2025 09:48:00 GMT | Here’s how i recover my money from ask2bid | Megan Steven | [Read More](https://medium.com/p/d31da8e49cdc) |
-| Sat, 10 May 2025 09:41:36 GMT | Ataques de Phishing (Ingeniería Social) | S4ntiHack | [Read More](https://medium.com/p/ca8fc733b86b) |
-| Sat, 10 May 2025 09:40:11 GMT | Germany Shuts Down eXch Crypto Platform in €34M Seizure Linked to Bybit Hack and Darknet Laundering | CoinGen | [Read More](https://medium.com/p/9d3d0f38a366) |
-| Sat, 10 May 2025 09:29:06 GMT | As the Week Unfolds | Tõmï | [Read More](https://medium.com/p/9bb8af34c6eb) |
-| Sat, 10 May 2025 09:23:39 GMT | Dorking Receh, Ketemu NIK & NPWP di Domain Pemerintah | FufuFafa | [Read More](https://medium.com/p/30e89912d3be) |
-| Sat, 10 May 2025 09:14:58 GMT | EKS Pod Identity: Easily manage AWS resource access | Binaya Sharma | [Read More](https://medium.com/p/c2f953ea5208) |
-| Sat, 10 May 2025 09:11:46 GMT | Issue #224 — Open Policy Engine, Production-Ready Infrastructure for GenAI Apps, Lakehouse… | Anton Babenko | [Read More](https://medium.com/p/cb1d32e544ef) |
