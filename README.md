@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 15:34:22 GMT | HTML Injection | Fatimahasan | [Read More](https://medium.com/p/33a2ba6d7562) |
+| Sat, 10 May 2025 15:25:31 GMT | CSRF Attack di sahabat.kotabogor.go.id — Change Bio profiles | FufuFafa | [Read More](https://medium.com/p/bf2666d35f37) |
 | Sat, 10 May 2025 15:16:42 GMT | Supply Chain Attacks: Software Supply Chain Security | Esra Kayhan | [Read More](https://medium.com/p/3a6bb521d391) |
 | Sat, 10 May 2025 15:15:32 GMT | AI systems aren’t secure. | Bushy | [Read More](https://medium.com/p/092d688d9c09) |
 | Sat, 10 May 2025 15:13:12 GMT | Real-time Deepfakes: what if “seeing is believing” no longer means anything? | Adler Medrado | [Read More](https://medium.com/p/a16e4e414e67) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 08:33:22 GMT | Cybersecurity with Python — Part4: Detecting Threats in Apache Logs | Vaibhavi Tilak | [Read More](https://medium.com/p/2090992e8f71) |
 | Sat, 10 May 2025 08:28:10 GMT | Understanding Variables, Operators, and Functions in Dart | Daily Learn | [Read More](https://medium.com/p/a614f4433fa7) |
 | Sat, 10 May 2025 08:26:16 GMT | Self-Driving Cars: Safety and Efficiency | Imali | [Read More](https://medium.com/p/400819f42960) |
-| Sat, 10 May 2025 08:21:54 GMT | Unlock the Potential of $LFI and Earn Big with LunaFi | LFI | [Read More](https://medium.com/p/35425b9b03ca) |
-| Sat, 10 May 2025 08:17:20 GMT | Fet Ed | Roin Bridges | [Read More](https://medium.com/p/e119d2a379bd) |
