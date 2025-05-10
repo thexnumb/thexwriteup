@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 20:37:07 GMT | India vs Pakistan: Cyber War 2.0 A Gen Z Hacker’s POV | Sumanth Yerranagula | [Read More](https://medium.com/p/a032e3ebf7f0) |
+| Sat, 10 May 2025 20:33:04 GMT | Legacy Authentication, Modern Risk- The Hidden Backdoor in Microsoft Entra ID | Siva Gunasekaran | [Read More](https://medium.com/p/6d441731333d) |
 | Sat, 10 May 2025 20:03:28 GMT | Beyond Silence and Pedestals: 15 Pillars of Authentic Love | Groovy Spirit Realm | [Read More](https://medium.com/p/b1c54ca59383) |
 | Sat, 10 May 2025 20:01:37 GMT | Weaponized PDF Invoices and Java-based RATs: Inside a Sophisticated Multiplatform Email Attack | Siva Gunasekaran | [Read More](https://medium.com/p/9cd49a1934e9) |
 | Sat, 10 May 2025 20:01:22 GMT | Navigating Today’s Tech Challenges: Risks, Trust, and Reliable Solutions | Veridian Tech Solutions By Support.Com | [Read More](https://medium.com/p/b5c4554585a7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 12:28:40 GMT | From Beginner to Expert: Your Learning Path at Cyber Pratibha | cyber infomines | [Read More](https://medium.com/p/457336afc6d6) |
 | Sat, 10 May 2025 12:26:39 GMT | The Unstoppable Cyberattack That Nearly Wiped Out a Growing Small Business (And What You Can Learn… | Noel | [Read More](https://medium.com/p/96e5106574ee) |
 | Sat, 10 May 2025 12:20:04 GMT | import tkinter as tk | edward mwagoa | [Read More](https://medium.com/p/cfc6f872f5a0) |
-| Sat, 10 May 2025 12:19:53 GMT | (NestJS-15) Validating Multiple File Uploads in NestJS Using Custom Pipe | Bhargava Chary | [Read More](https://medium.com/p/ce75889c9768) |
-| Sat, 10 May 2025 12:15:51 GMT | How I Found Multiple Critical Vulnerabilities in File Upload Functionality | Suresh S | [Read More](https://medium.com/p/d868db55b55a) |
