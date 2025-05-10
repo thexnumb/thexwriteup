@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 18:13:27 GMT | Locked Down in the Cloud: 15 AWS Security Services to Bulletproof Your Application! | Rsprasangi | [Read More](https://medium.com/p/0bd5b23e95b2) |
+| Sat, 10 May 2025 18:03:23 GMT | Khoji Dog Center Attock 03018665280 Khoji Kutta Attock Official | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/79f89e9a093d) |
+| Sat, 10 May 2025 17:56:15 GMT | Linux Fundamentals Part 3 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/354ba3a8857e) |
+| Sat, 10 May 2025 17:43:56 GMT | Brute Force Hash Cracker Using SHA-256 With Python | Halildeniz | [Read More](https://medium.com/p/f3ab07a7511e) |
+| Sat, 10 May 2025 17:34:13 GMT | RG Security: Your Premier Choice for Professional Security Services in Southampton | Qadir Riaz | [Read More](https://medium.com/p/636b76ada6bf) |
 | Sat, 10 May 2025 17:26:04 GMT | Cyber Vulnerabilities in Satellites: Risks and Security Measures | s asghar | [Read More](https://medium.com/p/8f7cc390664b) |
 | Sat, 10 May 2025 17:14:32 GMT | Google Dorking — Hacking con Buscadores | Alexis Giménez | [Read More](https://medium.com/p/2ccbdd4ef0a1) |
 | Sat, 10 May 2025 17:09:34 GMT | How to Use Fiddler to Scan Mobile App Endpoints | Richard Nwonah | [Read More](https://medium.com/p/64a074c2e35d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 10:20:20 GMT | Cluster Mimarisi Nedir? Neden Kullanılır? | Yiğit Ozan Boztepe | [Read More](https://medium.com/p/3701f03a21f5) |
 | Sat, 10 May 2025 10:18:52 GMT | สรุปจากการศึกษาเรื่อง Security Operations | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/1514147c5258) |
 | Sat, 10 May 2025 10:15:49 GMT | The Vulnerability Management Playbook for Lean Security Teams | Paritosh | [Read More](https://medium.com/p/f253be8a0c85) |
-| Sat, 10 May 2025 10:06:45 GMT | Why Do I Need a More Secure Phone? | Henryawong | [Read More](https://medium.com/p/572719864d37) |
-| Sat, 10 May 2025 10:03:51 GMT | Major breach: LockBit Ransomware Group Hacked! | Yasin Kalli | [Read More](https://medium.com/p/a9af3bb19958) |
-| Sat, 10 May 2025 09:56:34 GMT | Gobuster: Complete Guide to Directory & DNS Enumeration ️ | 0b1d1 | [Read More](https://medium.com/p/63c4c83237bb) |
-| Sat, 10 May 2025 09:53:33 GMT | Why Do Companies Use Linux for Servers, Security, and Scalability? | cyberwingITSolution | [Read More](https://medium.com/p/f6915e6a20cc) |
-| Sat, 10 May 2025 09:50:56 GMT | Ethical Hacking Course | Droporg Mkt | [Read More](https://medium.com/p/c654510efd52) |
