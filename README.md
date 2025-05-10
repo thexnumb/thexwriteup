@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 22:58:17 GMT | Post‑Quantum Cryptography: Safeguarding the Digital World Beyond Quantum Supremacy | Jay Pandit | [Read More](https://medium.com/p/ced6c2f7df4a) |
 | Sat, 10 May 2025 22:16:37 GMT | Part 3–10 More Must-Know Resources for Researchers | Karthikeyan Nagaraj | [Read More](https://medium.com/p/3f96e27947fa) |
 | Sat, 10 May 2025 22:02:38 GMT | My Files Are Being Touched by Whom? An Easy Guide to Permissions in Windows | The Security Alchemist | [Read More](https://medium.com/p/9bca35536662) |
 | Sat, 10 May 2025 21:55:51 GMT | Process Monitor | Matthew A Smith | [Read More](https://medium.com/p/bdafbc372617) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 13:20:29 GMT | KLCP Exam Review with Success Tips | Peter Slynn | [Read More](https://medium.com/p/52217981374d) |
 | Sat, 10 May 2025 13:18:11 GMT | Breaking Tech News Today: Major Innovations Shaping the Future | Sholikhin | [Read More](https://medium.com/p/69c3bd99eadb) |
 | Sat, 10 May 2025 13:17:50 GMT | Utiliser l’IA pour Analyser la Recherche en Cyber/GRC : Retour d’Expérience | Abbas Benterki | [Read More](https://medium.com/p/9abaa45f1800) |
-| Sat, 10 May 2025 13:16:37 GMT | Hackers Love This .NET Mistake — Don’t Fall for It! | Code Crack | [Read More](https://medium.com/p/31110144fda5) |
