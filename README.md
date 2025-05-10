@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 08:40:03 GMT | Dynamic Malware Analysis Example #1 Letsdefend | lukewago | [Read More](https://medium.com/p/17477c11fa42) |
+| Sat, 10 May 2025 08:35:17 GMT | Resillion — when those who preach cybersecurity forget to practice it | 0trust0day | [Read More](https://medium.com/p/5f99a2a31654) |
+| Sat, 10 May 2025 08:33:42 GMT | Best Private Security Services in Bangalore — Southwall Securities | Southwallsecuritiesservice | [Read More](https://medium.com/p/cb854831bfd7) |
+| Sat, 10 May 2025 08:33:22 GMT | Cybersecurity with Python — Part4: Detecting Threats in Apache Logs | Vaibhavi Tilak | [Read More](https://medium.com/p/2090992e8f71) |
+| Sat, 10 May 2025 08:28:10 GMT | Understanding Variables, Operators, and Functions in Dart | Daily Learn | [Read More](https://medium.com/p/a614f4433fa7) |
+| Sat, 10 May 2025 08:26:16 GMT | Self-Driving Cars: Safety and Efficiency | Imali | [Read More](https://medium.com/p/400819f42960) |
+| Sat, 10 May 2025 08:21:54 GMT | Unlock the Potential of $LFI and Earn Big with LunaFi | LFI | [Read More](https://medium.com/p/35425b9b03ca) |
 | Sat, 10 May 2025 08:17:20 GMT | Fet Ed | Roin Bridges | [Read More](https://medium.com/p/e119d2a379bd) |
 | Sat, 10 May 2025 08:12:39 GMT | XSS in Bootstrap 4.3.1: Tooltip-Based Exploit | Abhiram | [Read More](https://medium.com/p/fe204fe29ca9) |
 | Sat, 10 May 2025 08:12:33 GMT | Best Ethical Hacking Course After 12th Science | Ankit_Cyber | [Read More](https://medium.com/p/ac3f26e8f664) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 23:16:18 GMT | How I got a job | Bill Corrie | [Read More](https://medium.com/p/6efef689b090) |
 | Fri, 09 May 2025 23:12:22 GMT | N8N Hardening: Complete Guide to Securing Your Automation Workflows | Efrainec | [Read More](https://medium.com/p/aa84c8f07095) |
 | Fri, 09 May 2025 22:40:22 GMT | Microsoft Listens to Security Concerns and Delays New OneDrive Sync | Matthew.Rosenquist | [Read More](https://medium.com/p/bf796b74f183) |
-| Fri, 09 May 2025 22:37:14 GMT | Peer Pressure and Cyberbullying Explained for Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/bc3b16379ffc) |
-| Fri, 09 May 2025 22:16:37 GMT | Advanced Persistent Threats (APT): How to Detect and Respond to Sophisticated Cyber Attacks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/8786b9b1bcca) |
-| Fri, 09 May 2025 22:06:51 GMT | When I Was Scammed and Left With Nothing, What Did I Learn? | aLuMow | [Read More](https://medium.com/p/e49d97bd9dbd) |
-| Fri, 09 May 2025 21:59:02 GMT | Debugging in the Cloud: The Aftermath of My GCP App Deployment | Aayush.K | [Read More](https://medium.com/p/add400092196) |
-| Fri, 09 May 2025 21:44:13 GMT | How To Claim $LFI Tokens | LFI | [Read More](https://medium.com/p/34e6d5e2b1c0) |
-| Fri, 09 May 2025 21:36:37 GMT | How I Hacked a Website Using Only Google | All in One security | [Read More](https://medium.com/p/03a228447a96) |
-| Fri, 09 May 2025 21:34:38 GMT | How To Prevent Hacking by Spotting Fake Emails | Savvy Cyber Kids | [Read More](https://medium.com/p/b7798c3068ca) |
