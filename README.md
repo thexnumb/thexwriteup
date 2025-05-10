@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 23:29:57 GMT | BOUNTY Rewards: How to Get Started | BOUNTY | [Read More](https://medium.com/p/0966f8edb160) |
+| Sat, 10 May 2025 23:22:25 GMT | Building a Cybersecurity Homelab | Kunal Joshi | [Read More](https://medium.com/p/34da7b5e7031) |
+| Sat, 10 May 2025 23:17:05 GMT | When ClickOps Meets DevOps: The Hidden Fault Lines in No‑Code Cloud Pipelines | Godwiniheuwa | [Read More](https://medium.com/p/90eddaef5d95) |
 | Sat, 10 May 2025 22:58:17 GMT | Post‑Quantum Cryptography: Safeguarding the Digital World Beyond Quantum Supremacy | Jay Pandit | [Read More](https://medium.com/p/ced6c2f7df4a) |
 | Sat, 10 May 2025 22:16:37 GMT | Part 3–10 More Must-Know Resources for Researchers | Karthikeyan Nagaraj | [Read More](https://medium.com/p/3f96e27947fa) |
 | Sat, 10 May 2025 22:02:38 GMT | My Files Are Being Touched by Whom? An Easy Guide to Permissions in Windows | The Security Alchemist | [Read More](https://medium.com/p/9bca35536662) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 13:27:46 GMT | Building a Digitally Conscious Executive Protection Program | SecOps | [Read More](https://medium.com/p/ef1327d598db) |
 | Sat, 10 May 2025 13:26:44 GMT | When My Retry Logic Became a DDoS Attack | Abhinav | [Read More](https://medium.com/p/fee63530b7f1) |
 | Sat, 10 May 2025 13:21:44 GMT | Lessons from the film  Logout | Rohini Lakshané | [Read More](https://medium.com/p/0c3c8a9b80f3) |
-| Sat, 10 May 2025 13:20:29 GMT | KLCP Exam Review with Success Tips | Peter Slynn | [Read More](https://medium.com/p/52217981374d) |
-| Sat, 10 May 2025 13:18:11 GMT | Breaking Tech News Today: Major Innovations Shaping the Future | Sholikhin | [Read More](https://medium.com/p/69c3bd99eadb) |
-| Sat, 10 May 2025 13:17:50 GMT | Utiliser l’IA pour Analyser la Recherche en Cyber/GRC : Retour d’Expérience | Abbas Benterki | [Read More](https://medium.com/p/9abaa45f1800) |
