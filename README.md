@@ -12,9 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 17:26:04 GMT | Cyber Vulnerabilities in Satellites: Risks and Security Measures | s asghar | [Read More](https://medium.com/p/8f7cc390664b) |
 | Sat, 10 May 2025 17:14:32 GMT | Google Dorking — Hacking con Buscadores | Alexis Giménez | [Read More](https://medium.com/p/2ccbdd4ef0a1) |
 | Sat, 10 May 2025 17:09:34 GMT | How to Use Fiddler to Scan Mobile App Endpoints | Richard Nwonah | [Read More](https://medium.com/p/64a074c2e35d) |
 | Sat, 10 May 2025 17:07:40 GMT | Understanding SOC 2 Compliance: Why It Matters for AI Chatbots and LLMs | Vignaraj Ravi | [Read More](https://medium.com/p/5d10948c68a2) |
+| Sat, 10 May 2025 17:03:35 GMT | The Information Security Program — Your Organization’s Digital Immune System | Lali Devamanthri | [Read More](https://medium.com/p/9ec5bbd0aff3) |
 | Sat, 10 May 2025 16:53:07 GMT | 9 Principles of Cloud Architecture: A Practical Guide | Saraswathi Lakshman | [Read More](https://medium.com/p/254006f83d7a) |
 | Sat, 10 May 2025 16:51:42 GMT | Cybersecurity Beginner Roadmap | Himakshithakre | [Read More](https://medium.com/p/fb6262a7e4b6) |
 | Sat, 10 May 2025 16:49:51 GMT | Why Traditional Security Scans Aren’t Enough in 2025 | Mehak kamra | [Read More](https://medium.com/p/0c033b5f4980) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 09:56:34 GMT | Gobuster: Complete Guide to Directory & DNS Enumeration ️ | 0b1d1 | [Read More](https://medium.com/p/63c4c83237bb) |
 | Sat, 10 May 2025 09:53:33 GMT | Why Do Companies Use Linux for Servers, Security, and Scalability? | cyberwingITSolution | [Read More](https://medium.com/p/f6915e6a20cc) |
 | Sat, 10 May 2025 09:50:56 GMT | Ethical Hacking Course | Droporg Mkt | [Read More](https://medium.com/p/c654510efd52) |
-| Sat, 10 May 2025 09:49:36 GMT | MS17–010 EternalBlue Vulnerability Lab Setup & Exploitation Guide (For Learning Purposes) | Babar Ali Jamali | [Read More](https://medium.com/p/da8ccc529fc5) |
-| Sat, 10 May 2025 09:49:00 GMT | Linuxda Wazuh vasitəsi ilə xarici yaddaş(USB) qurğularını deaktiv etmə | Makharramli | [Read More](https://medium.com/p/9693ad414e60) |
