@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 May 2025 05:39:13 GMT | Domain Ninja : A New Era in Ethical Traffic Acquisition - Product Review | PixelBot Studio | [Read More](https://medium.com/p/cfc6b39b4a98) |
+| Sat, 10 May 2025 05:37:34 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/91f5539eed62) |
+| Sat, 10 May 2025 05:36:30 GMT | Intercepting Android Emulator Traffic with Burp Suite: A Step-by-Step Guide | ROHIT SHARMA | [Read More](https://medium.com/p/f91a6b0d9670) |
+| Sat, 10 May 2025 05:33:50 GMT | Lookup (CTF) — TryHackMe Writeup | z0diac | [Read More](https://medium.com/p/284ddfd85b2f) |
+| Sat, 10 May 2025 05:24:18 GMT | Are You a Fool for Communicating? Absolutely Not. | Esha Bhandari | [Read More](https://medium.com/p/48ca0be497b3) |
+| Sat, 10 May 2025 05:12:36 GMT | Deploy The Application in kubernetes | sreekanthkurapati | [Read More](https://medium.com/p/2f28ad5fbab2) |
 | Sat, 10 May 2025 05:08:43 GMT | Securing and Consuming APIs in the Cloud: A Complete Journey from Provider to Customer | Zoningxtr | [Read More](https://medium.com/p/d7c0f736b84d) |
 | Sat, 10 May 2025 05:04:45 GMT | 5 Communication Skills Every Cybersecurity Pro Needs | Ahmad Javed | [Read More](https://medium.com/p/566192886b2f) |
 | Sat, 10 May 2025 05:03:54 GMT | War in the Cyber World Among Nations | Decode Duniya | [Read More](https://medium.com/p/530a8d8f25c7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 May 2025 19:08:12 GMT | RootSeeker Begins - A Cybersecurity Enthusiast’s Journey | RootSeeker | [Read More](https://medium.com/p/fd9b623357d2) |
 | Fri, 09 May 2025 19:07:51 GMT | Repaving your Kubernetes worker nodes with Karpenter | Jeremy Cowan | [Read More](https://medium.com/p/bb6280c0dffb) |
 | Fri, 09 May 2025 19:06:38 GMT | Smishing, huh? | Cyber Kavy | [Read More](https://medium.com/p/2a81615378bf) |
-| Fri, 09 May 2025 19:05:29 GMT | How I Ended Up Making Cybersecurity Posters for an Afghan Hospital | Jabbar Yaqub | [Read More](https://medium.com/p/3fbd8848f2df) |
-| Fri, 09 May 2025 18:59:00 GMT | Cyber Security: How AI Defenders will lead the way to better resilience | Shavyn Aubeeluck | [Read More](https://medium.com/p/9622c8192e46) |
-| Fri, 09 May 2025 18:55:44 GMT | Extract & Analyze Mobile App Storage in Seconds | Sandeep Wawdane | [Read More](https://medium.com/p/8e0585c0ff57) |
-| Fri, 09 May 2025 18:55:20 GMT | Is this the threat you’ve been looking for? | Security Consulting Blogspot | [Read More](https://medium.com/p/6504af869118) |
-| Fri, 09 May 2025 18:50:21 GMT | Operation Moonlander: The Silent Threat of EoL and IoT Devices in Proxy Botnets | Siva Gunasekaran | [Read More](https://medium.com/p/f2dd4214348c) |
-| Fri, 09 May 2025 18:47:43 GMT | $15,000 Bounty: Found a Critical Vulnerability in Snapchat | Monika sharma | [Read More](https://medium.com/p/377176a0f0eb) |
