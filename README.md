@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 04:03:00 GMT | CORS Misconfigurations: The Silent Killer of Web App Security | Nishanthan | [Read More](https://medium.com/p/563397c959ec) |
+| Sun, 11 May 2025 04:00:24 GMT | Zero Trust in 2025: How to Secure Your Startup Against AI-Powered Cyberattacks | Amber Kakkar | [Read More](https://medium.com/p/c0fbc2ff40b4) |
+| Sun, 11 May 2025 03:58:24 GMT | ️ Cybersecurity 101: How to Stay Safe from Rising Cyber Threats | Ivo Pereira | [Read More](https://medium.com/p/987661b98ce9) |
+| Sun, 11 May 2025 03:52:26 GMT | Malicious npm Packages Infect 3,200+ Cursor Users with a Credential-Stealing Backdoor | Cyber-AppSec | [Read More](https://medium.com/p/3264ba690bfa) |
+| Sun, 11 May 2025 03:51:42 GMT | How a StubHub Insider Stole 1,000 Taylor Swift Tickets: A MITRE ATT&CK Analysis | Brittney Ginther | [Read More](https://medium.com/p/ca4c24b19de4) |
 | Sun, 11 May 2025 03:43:24 GMT | API Key Exposure in NASA GitHub Repository Leads to Unauthorized Access to Academic Data | Abhijeet Kumawat | [Read More](https://medium.com/p/816bfb6ffede) |
 | Sun, 11 May 2025 03:42:37 GMT | LIGHT- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/01b4fcb61b58) |
 | Sun, 11 May 2025 03:39:58 GMT | Stack — Buffer Overflow | FieryParks | [Read More](https://medium.com/p/461b7792369b) |
@@ -108,8 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 16:23:00 GMT | Navigating the Flux: How WFH and WFA Redefined Cybersecurity | Roopa Kushtagi | [Read More](https://medium.com/p/12e00a86326a) |
 | Sat, 10 May 2025 16:20:22 GMT | What is an HTTP Method? | Himakshithakre | [Read More](https://medium.com/p/46e67ce4ac0f) |
 | Sat, 10 May 2025 16:18:17 GMT | Day 31: Introduction to Computer Networking — LAN, WAN, P2P, and More! | Agarwaldaksh | [Read More](https://medium.com/p/4af0e255874a) |
-| Sat, 10 May 2025 16:17:14 GMT | The Dark Side of Browser Extensions: How That Emoji Add-On Might Be Stealing Your Data | Bl@ckC!pH3r | [Read More](https://medium.com/p/a1001e595f1f) |
-| Sat, 10 May 2025 16:10:03 GMT | Cat Pictures - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/c9f07f2443e1) |
-| Sat, 10 May 2025 16:01:38 GMT | Making Your First $1,000 in Bug Bounties: A Practical Roadmap for Aspiring Hackers | Maxwell Cross | [Read More](https://medium.com/p/0b74a89c76a9) |
-| Sat, 10 May 2025 15:40:06 GMT | Sahte Baz İstasyonu Furyası — IMSI Catcher | Serhat AYDIN | [Read More](https://medium.com/p/043ca3ff45dc) |
-| Sat, 10 May 2025 15:39:02 GMT | How I Linked My Dahua Alarm to Video (And Made My Security System Way Smarter) | Rara | [Read More](https://medium.com/p/8d4913d23c1b) |
