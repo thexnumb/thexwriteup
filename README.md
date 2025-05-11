@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 15:23:16 GMT | Smap Passive Port Scanning Tool | AbhirupKonwar | [Read More](https://medium.com/p/3e2802979dbe) |
+| Sun, 11 May 2025 15:18:50 GMT | The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It | Swarnim Bandekar | [Read More](https://medium.com/p/d73d42d206bc) |
+| Sun, 11 May 2025 15:17:17 GMT | Indian IT-The Way Forward | Vipin Labroo | [Read More](https://medium.com/p/bcf3ecee3d12) |
 | Sun, 11 May 2025 15:02:46 GMT | Confidential AI with LLMs: Building a Secure RAG Pipeline | Ouarda FENEK | [Read More](https://medium.com/p/dc72365a2c6b) |
 | Sun, 11 May 2025 15:01:34 GMT | Day 123 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/d20411e4db2c) |
 | Sun, 11 May 2025 14:54:49 GMT | cybersecurity | Asim | [Read More](https://medium.com/p/d4fbf0116263) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 06:53:30 GMT | MITRE Technique and Detection Opportunities — CVE-2025–31324 — SAP Critical Vulnerability CVSS 10! | MITRE Doggy | [Read More](https://medium.com/p/7f72b8e653a2) |
 | Sun, 11 May 2025 06:38:03 GMT | Securing Kubernetes Workloads with Falco | Vinod Kumar Nair | [Read More](https://medium.com/p/87f5ad1b9e6b) |
 | Sun, 11 May 2025 06:15:01 GMT | The Grid Hacked: Unveiling the Story of a Nation-State Cyber Attack | om sonawane | [Read More](https://medium.com/p/c4e9a53018fe) |
-| Sun, 11 May 2025 06:04:45 GMT | The CLR Customization Trick That Lets You Run Quasar RAT on Fully Patched Windows 11 Without… | Yua Mikanana | [Read More](https://medium.com/p/206a2f948fed) |
-| Sun, 11 May 2025 06:02:34 GMT | 5 Places XSS Hides in Modern Bootstrap Apps (and How to Find Them) | Abhiram | [Read More](https://medium.com/p/d22ec62c8359) |
-| Sun, 11 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a9664f0fe0e4) |
