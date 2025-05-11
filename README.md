@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 17:37:51 GMT | HackTheBox - ServMon | jniket | [Read More](https://medium.com/p/a55c5a7e9a89) |
+| Sun, 11 May 2025 17:37:42 GMT | Reconstructing Lost Security Footage with Wireshark and ffmpeg: A TryHackMe Walkthrough | Chris Simser | [Read More](https://medium.com/p/3f203657b1fd) |
+| Sun, 11 May 2025 17:27:00 GMT | The Hidden Language: Exploiting GraphQL for Unauthorized Data Dump | Iski | [Read More](https://medium.com/p/8be49f30a005) |
+| Sun, 11 May 2025 17:25:15 GMT | Qué es UEFI Secure Boot DBX | Borisab | [Read More](https://medium.com/p/25d3b5458a6f) |
+| Sun, 11 May 2025 17:24:20 GMT | Information Technology Sector Trends Analysis: Navigating the Digital Landscape in 2025
+May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178) |
+| Sun, 11 May 2025 17:23:25 GMT | Notes from the Simulation | Oluoa | [Read More](https://medium.com/p/eabb7efce7c7) |
+| Sun, 11 May 2025 17:21:56 GMT | Why Every Modern Spring Boot Project Needs an Interceptor (and How to Set One Up ) | The Code Alchemist | [Read More](https://medium.com/p/59c1459d944c) |
+| Sun, 11 May 2025 17:20:08 GMT | Setting the Record Straight: False Allegations Against Vrinda AI and Myself | CYBER NEWS HUB | [Read More](https://medium.com/p/a8a3276f3667) |
+| Sun, 11 May 2025 17:18:23 GMT | rm -f /tmp/f; mkfifo /tmp/f; cat /tmp/f - /bin/bash -i 2>&1 - nc -lvp <port> > /tmp/f | Adam Bartlett | [Read More](https://medium.com/p/dbecab89e965) |
 | Sun, 11 May 2025 17:04:47 GMT | Chrome Extensions Can Hack You - Cyber Defenders FakeGPT Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/a6d3bb66ebd8) |
 | Sun, 11 May 2025 17:00:21 GMT | LunaFi $LFI: A Smart Way to Maximize Earnings | LFI | [Read More](https://medium.com/p/7c6dda3cf607) |
 | Sun, 11 May 2025 16:48:16 GMT | Free Virtual Private Server for Ethical Hacking: GitHub CodeSpaces | Elmurimi | [Read More](https://medium.com/p/e423f001a79b) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 08:50:06 GMT | Mobil Uygulama Güvenliği Neden Önemlidir? | Zeynepazradoygun | [Read More](https://medium.com/p/41912a4d5b60) |
 | Sun, 11 May 2025 08:44:47 GMT | I’m Afraid You’ll Leave — So I Leave First | Sriram Yaladandi | [Read More](https://medium.com/p/1f49d5c8b39e) |
 | Sun, 11 May 2025 08:43:57 GMT | Lattice-Based Cryptography | Jay Pandit | [Read More](https://medium.com/p/456a33facd55) |
-| Sun, 11 May 2025 08:38:53 GMT | Hack the Box →Administrator | SURAJ -MRX001 | [Read More](https://medium.com/p/b24b5ac2ff4a) |
-| Sun, 11 May 2025 08:35:09 GMT | Opening Markets with Taiwan’s “Number Fist,” Connecting Clients with ABC: How I Precisely Develop… | JimChiu | [Read More](https://medium.com/p/55c878571334) |
-| Sun, 11 May 2025 08:29:02 GMT | Try hack Me→Enterprise walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/c4c72fb7876d) |
-| Sun, 11 May 2025 08:10:40 GMT | ️ A Simple Header, A New Experience — My Clickjacking Discovery. | Naitik Gupta | [Read More](https://medium.com/p/46b5910eb1da) |
-| Sun, 11 May 2025 08:05:22 GMT | Why Cybersecurity Awareness Matters More Than Ever in 2025 | Ddm atiq | [Read More](https://medium.com/p/d34d1f5ae0eb) |
-| Sun, 11 May 2025 08:02:15 GMT | Why Ethical Hacking Is the Future of Digital Defense: A Gen Z Perspective | Shaykhul | [Read More](https://medium.com/p/0b106a265895) |
-| Sun, 11 May 2025 08:02:00 GMT | Offsec →Hutch Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/40da7ee61dac) |
-| Sun, 11 May 2025 08:01:42 GMT | Clickjacking Prevention in Symfony Framework | Pentest_Testing_Corp | [Read More](https://medium.com/p/4e2bd1704a34) |
-| Sun, 11 May 2025 08:00:59 GMT | 5 Security+ Concepts That Every Cybersecurity Professional Must Master in 2025 | Abdul Marrow | [Read More](https://medium.com/p/20b476382f52) |
