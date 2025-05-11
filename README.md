@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 03:43:24 GMT | API Key Exposure in NASA GitHub Repository Leads to Unauthorized Access to Academic Data | Abhijeet Kumawat | [Read More](https://medium.com/p/816bfb6ffede) |
+| Sun, 11 May 2025 03:42:37 GMT | LIGHT- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/01b4fcb61b58) |
+| Sun, 11 May 2025 03:39:58 GMT | Stack — Buffer Overflow | FieryParks | [Read More](https://medium.com/p/461b7792369b) |
+| Sun, 11 May 2025 03:36:35 GMT | “Oops, I Still Have Access!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/eecadab11fd9) |
+| Sun, 11 May 2025 03:31:33 GMT | Behind the Screen: Unmasking the 60 Million Silent Threats Lurking on Your Android Applications | Deven Chhajed | [Read More](https://medium.com/p/014e3f9db1f3) |
+| Sun, 11 May 2025 03:11:22 GMT | Cracking the Financial Backbone of Terrorism in India: Challenges and Responses
+Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) |
 | Sun, 11 May 2025 02:59:16 GMT | The Sacred Slut and the Digital Virgin. How AI Reinforces Our Madonna–Whore Complex | Sarah Elspeth | [Read More](https://medium.com/p/f1ac82068422) |
 | Sun, 11 May 2025 02:50:51 GMT | How I Achieved the AWS Certified Security — Specialty | LtReborn | [Read More](https://medium.com/p/ff92f6ca2831) |
 | Sun, 11 May 2025 02:44:12 GMT | DCSync Attacks: Abusing Replication Rights for Stealthy Domain Dominance | Rushabh Bhutak | [Read More](https://medium.com/p/944df906eb9e) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 16:01:38 GMT | Making Your First $1,000 in Bug Bounties: A Practical Roadmap for Aspiring Hackers | Maxwell Cross | [Read More](https://medium.com/p/0b74a89c76a9) |
 | Sat, 10 May 2025 15:40:06 GMT | Sahte Baz İstasyonu Furyası — IMSI Catcher | Serhat AYDIN | [Read More](https://medium.com/p/043ca3ff45dc) |
 | Sat, 10 May 2025 15:39:02 GMT | How I Linked My Dahua Alarm to Video (And Made My Security System Way Smarter) | Rara | [Read More](https://medium.com/p/8d4913d23c1b) |
-| Sat, 10 May 2025 15:34:22 GMT | HTML Injection | Fatimahasan | [Read More](https://medium.com/p/33a2ba6d7562) |
-| Sat, 10 May 2025 15:25:46 GMT | There’s a Difference Between Tired and Tired | Adam Craig | [Read More](https://medium.com/p/9c58b855b5b8) |
-| Sat, 10 May 2025 15:25:31 GMT | CSRF Attack di sahabat.kotabogor.go.id — Change Bio profiles | FufuFafa | [Read More](https://medium.com/p/bf2666d35f37) |
-| Sat, 10 May 2025 15:16:42 GMT | Supply Chain Attacks: Software Supply Chain Security | Esra Kayhan | [Read More](https://medium.com/p/3a6bb521d391) |
-| Sat, 10 May 2025 15:15:32 GMT | AI systems aren’t secure. | Bushy | [Read More](https://medium.com/p/092d688d9c09) |
-| Sat, 10 May 2025 15:13:12 GMT | Real-time Deepfakes: what if “seeing is believing” no longer means anything? | Adler Medrado | [Read More](https://medium.com/p/a16e4e414e67) |
