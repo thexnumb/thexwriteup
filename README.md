@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 22:04:30 GMT | Big Data and AWS | Brian J Lalla | [Read More](https://medium.com/p/0d5c98fba1ed) |
+| Sun, 11 May 2025 22:00:34 GMT | Real Life Recovery Expert | Jenny Kyle | [Read More](https://medium.com/p/150677277bc3) |
+| Sun, 11 May 2025 21:56:57 GMT | Rethinking Identity Security: Why It’s More Urgent Than Ever | Abhay Kulkarni | [Read More](https://medium.com/p/6e6db56b1041) |
+| Sun, 11 May 2025 21:44:38 GMT | ESP-07 with SIM800: Control a Relay via SMS + Web Terminal | Im0nk3yar0und | [Read More](https://medium.com/p/1e390ce34f0b) |
 | Sun, 11 May 2025 21:20:28 GMT | Golang and Security Best Practices | Jesse Corson | [Read More](https://medium.com/p/4f6e2d96834e) |
 | Sun, 11 May 2025 21:19:54 GMT | Privacy in Cryptocurrencies: Comparing Monero, Bitcoin, and Zcash | MoneroPrivacyHub | [Read More](https://medium.com/p/e52637a405d5) |
 | Sun, 11 May 2025 21:18:33 GMT | ONProver: The Missing Piece in Web3’s Trustless Infrastructure | Blessing Shodunke | [Read More](https://medium.com/p/d25b5ef5ef58) |
@@ -109,7 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 13:02:32 GMT | Overwhelmed by Alerts? Here’s How Brahma Fusion Filters the Noise | Peris.ai Cybersecurity | [Read More](https://medium.com/p/da0505fd09a6) |
 | Sun, 11 May 2025 12:55:49 GMT | Getting LFI: Everything You Need to Know | LFI | [Read More](https://medium.com/p/d6a9c4ac9628) |
 | Sun, 11 May 2025 12:52:34 GMT | Jason Eastman Joins CV5 Capital, Strengthening Leadership in Digital Asset Funds and Cybersecurity | Manish Roshan @Coneberry.com | [Read More](https://medium.com/p/231de097ad87) |
-| Sun, 11 May 2025 12:51:51 GMT | https://en.etetec.com/2025/05/how-to-prevent-facebook-from-reading.html | Mohamed Swidan | [Read More](https://medium.com/p/ed236c53b7e3) |
-| Sun, 11 May 2025 12:48:35 GMT | Supply Chain Attack Hits Popular npm Package 45K+ Developers at Risk | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/537eac7c8ef3) |
-| Sun, 11 May 2025 12:42:07 GMT | SSL/TLS: The Unsung Hero of Secure and Performant AI | Nitish Agarwal | [Read More](https://medium.com/p/45f34669456b) |
-| Sun, 11 May 2025 12:36:27 GMT | Autonomous Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/3331cb52d8ce) |
