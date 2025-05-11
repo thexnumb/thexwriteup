@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 14:11:02 GMT | Alert — HTB | 14mj4ck | [Read More](https://medium.com/p/a38264622938) |
+| Sun, 11 May 2025 14:10:56 GMT | Pentest Süreçlerinde Yapay Zekâ Kullanımı: Yardımcı mı, Oyuncu mu? | Onur Civan | [Read More](https://medium.com/p/d3649a9f5d99) |
+| Sun, 11 May 2025 14:07:05 GMT | Detecting Backdoors in Enterprise Networks: A Modern Cybersecurity Priority | CyDhaal | [Read More](https://medium.com/p/24b6172541ce) |
+| Sun, 11 May 2025 14:04:24 GMT | Strengthen Your iPhone’s Security with These 5 Settings | Justin Pineda | [Read More](https://medium.com/p/86c4107e2d82) |
+| Sun, 11 May 2025 13:55:55 GMT | Critical Azure & Power Apps Vulnerabilities Patched by Microsoft: What You Need to Know | CyDhaal | [Read More](https://medium.com/p/101b33521a56) |
+| Sun, 11 May 2025 13:51:58 GMT | We’re Finally Winning: Google’s $1.4 Billion Texas Settlement for Privacy Breaches | Mike Broadly, DHSc | [Read More](https://medium.com/p/b4375783e95e) |
+| Sun, 11 May 2025 13:51:46 GMT | Everything You Need to Know About OpenSSH | Kuldeepkumawat | [Read More](https://medium.com/p/31bdaf684133) |
+| Sun, 11 May 2025 13:49:59 GMT | Reconnaissance: The Cyber Attack Blueprint | Defeu James | [Read More](https://medium.com/p/f325d5784df0) |
+| Sun, 11 May 2025 13:48:31 GMT | Detecting Cyber Threats Before They Strike | Defeu James | [Read More](https://medium.com/p/41c79f0c74f1) |
+| Sun, 11 May 2025 13:45:46 GMT | Exploiting Active Directory Trusts. | Opeyemi Ariyo | [Read More](https://medium.com/p/0fe1b3d7b5f4) |
+| Sun, 11 May 2025 13:43:36 GMT | Chemistry — HTB | 14mj4ck | [Read More](https://medium.com/p/472824acbfeb) |
+| Sun, 11 May 2025 13:43:06 GMT | Cybersecurity in the Next 5 Years: What’s Coming — and What You Absolutely Shouldn’t Do | Redoni | [Read More](https://medium.com/p/19ea85f8aefd) |
 | Sun, 11 May 2025 13:36:29 GMT | Quantum Computing and Post-Quantum Cryptography | Pankaj Kumar Bind | [Read More](https://medium.com/p/41cafb044bf8) |
 | Sun, 11 May 2025 13:25:54 GMT | APIs Hacking : Exploiting Race Condition 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/e063ea5057cb) |
 | Sun, 11 May 2025 13:18:25 GMT | How Hackers Exploit NoSQL Injections And How to Stop Them | Dhanush N | [Read More](https://medium.com/p/b49611b17aa2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 04:46:47 GMT | IT vs. Banking: Decoding the Career Choice | Anshu Dikshant | [Read More](https://medium.com/p/ceb616991914) |
 | Sun, 11 May 2025 04:46:22 GMT | What Is Post‑Quantum Cryptography? | Jay Pandit | [Read More](https://medium.com/p/2e7a00681662) |
 | Sun, 11 May 2025 04:37:17 GMT | Zombie SaaS Accounts: The Forgotten Subscriptions Still Haunting Your Company | Bl@ckC!pH3r | [Read More](https://medium.com/p/f079c2087fdc) |
-| Sun, 11 May 2025 04:36:01 GMT | Code That Crawls: A Psychogeography of Malware Ecosystems | Rain Ginsberg | [Read More](https://medium.com/p/3893851cd32d) |
-| Sun, 11 May 2025 04:36:01 GMT | Detecting Web Attacks — 2 Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/4ac0d68f0fda) |
-| Sun, 11 May 2025 04:31:43 GMT | ️ Safeguarding India: Where Public Money Meets Patriotism | H R SHAH | [Read More](https://medium.com/p/e7e165973f2c) |
-| Sun, 11 May 2025 04:28:15 GMT | The Linux Process Journey — hwrng (Hardware Number Random Generator) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b1de6826ab84) |
-| Sun, 11 May 2025 04:21:48 GMT | Enhancing AWS Security with Customer Managed Prefix Lists for Dynamic IP Whitelisting and Access… | Rio Wiraldhani | [Read More](https://medium.com/p/1eff2f0cbf18) |
-| Sun, 11 May 2025 04:20:19 GMT | Quantum Scrambler - Writeup | Marvin | [Read More](https://medium.com/p/1dc9850e191d) |
-| Sun, 11 May 2025 04:03:00 GMT | CORS Misconfigurations: The Silent Killer of Web App Security | Nishanthan | [Read More](https://medium.com/p/563397c959ec) |
-| Sun, 11 May 2025 04:00:24 GMT | Zero Trust in 2025: How to Secure Your Startup Against AI-Powered Cyberattacks | Amber Kakkar | [Read More](https://medium.com/p/c0fbc2ff40b4) |
-| Sun, 11 May 2025 03:58:24 GMT | ️ Cybersecurity 101: How to Stay Safe from Rising Cyber Threats | Ivo Pereira | [Read More](https://medium.com/p/987661b98ce9) |
-| Sun, 11 May 2025 03:52:26 GMT | Malicious npm Packages Infect 3,200+ Cursor Users with a Credential-Stealing Backdoor | Cyber-AppSec | [Read More](https://medium.com/p/3264ba690bfa) |
-| Sun, 11 May 2025 03:51:42 GMT | How a StubHub Insider Stole 1,000 Taylor Swift Tickets: A MITRE ATT&CK Analysis | Brittney Ginther | [Read More](https://medium.com/p/ca4c24b19de4) |
-| Sun, 11 May 2025 03:43:24 GMT | API Key Exposure in NASA GitHub Repository Leads to Unauthorized Access to Academic Data | Abhijeet Kumawat | [Read More](https://medium.com/p/816bfb6ffede) |
