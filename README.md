@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 04:36:01 GMT | Code That Crawls: A Psychogeography of Malware Ecosystems | Rain Ginsberg | [Read More](https://medium.com/p/3893851cd32d) |
+| Sun, 11 May 2025 04:36:01 GMT | Detecting Web Attacks — 2 Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/4ac0d68f0fda) |
+| Sun, 11 May 2025 04:28:15 GMT | The Linux Process Journey — hwrng (Hardware Number Random Generator) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b1de6826ab84) |
+| Sun, 11 May 2025 04:21:48 GMT | Enhancing AWS Security with Customer Managed Prefix Lists for Dynamic IP Whitelisting and Access… | Rio Wiraldhani | [Read More](https://medium.com/p/1eff2f0cbf18) |
+| Sun, 11 May 2025 04:20:19 GMT | Quantum Scrambler - Writeup | Marvin | [Read More](https://medium.com/p/1dc9850e191d) |
 | Sun, 11 May 2025 04:03:00 GMT | CORS Misconfigurations: The Silent Killer of Web App Security | Nishanthan | [Read More](https://medium.com/p/563397c959ec) |
 | Sun, 11 May 2025 04:00:24 GMT | Zero Trust in 2025: How to Secure Your Startup Against AI-Powered Cyberattacks | Amber Kakkar | [Read More](https://medium.com/p/c0fbc2ff40b4) |
 | Sun, 11 May 2025 03:58:24 GMT | ️ Cybersecurity 101: How to Stay Safe from Rising Cyber Threats | Ivo Pereira | [Read More](https://medium.com/p/987661b98ce9) |
@@ -108,8 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 16:43:43 GMT | Server Setup and Hardening for Beginners | Swam Htet Aung | [Read More](https://medium.com/p/f7415a63efe8) |
 | Sat, 10 May 2025 16:36:57 GMT | 24/7 Fire Safety Assurance: Waking Watch Services in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/76b274ae8de1) |
 | Sat, 10 May 2025 16:32:20 GMT | Part 1: “How I Got Into Security” | [ 0xV4sh ] | [Read More](https://medium.com/p/6d6c26cbf2a7) |
-| Sat, 10 May 2025 16:30:15 GMT | SOC Workbooks and Lookups - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/2ceab41075a2) |
-| Sat, 10 May 2025 16:23:58 GMT | Can Blockchain Solve Data Privacy Woes? | Rajneesh Chaudhary | [Read More](https://medium.com/p/99f74326684c) |
-| Sat, 10 May 2025 16:23:00 GMT | Navigating the Flux: How WFH and WFA Redefined Cybersecurity | Roopa Kushtagi | [Read More](https://medium.com/p/12e00a86326a) |
-| Sat, 10 May 2025 16:20:22 GMT | What is an HTTP Method? | Himakshithakre | [Read More](https://medium.com/p/46e67ce4ac0f) |
-| Sat, 10 May 2025 16:18:17 GMT | Day 31: Introduction to Computer Networking — LAN, WAN, P2P, and More! | Agarwaldaksh | [Read More](https://medium.com/p/4af0e255874a) |
