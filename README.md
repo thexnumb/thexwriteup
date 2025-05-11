@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 09:07:12 GMT | Why Web Pentesting +Web Dev Is 2025’s Smartest Career Move for Devs and Cyber Geeks | Inside Garuda | [Read More](https://medium.com/p/c2cc087549cc) |
+| Sun, 11 May 2025 09:05:48 GMT | Careers in Cyber - TryHackME | mahita kodela | [Read More](https://medium.com/p/cade48801831) |
+| Sun, 11 May 2025 09:02:02 GMT | Mr. Robot CTF Walkthrough | Nano | [Read More](https://medium.com/p/78e18adaaa6b) |
+| Sun, 11 May 2025 09:00:55 GMT | 5 Techniques for Building a Robust Data Pipeline Architecture | Anh Trần Tuấn | [Read More](https://medium.com/p/694782c8187c) |
+| Sun, 11 May 2025 09:00:52 GMT | 5 Techniques for Building a Robust Data Pipeline Architecture | Anh Trần Tuấn | [Read More](https://medium.com/p/9328dbb3289a) |
+| Sun, 11 May 2025 08:59:11 GMT | Cybersecurity on a Shoestring: Protecting Your Organization Without Breaking the Bank | Adefemi Onanuga | [Read More](https://medium.com/p/6cdb291b66eb) |
+| Sun, 11 May 2025 08:50:06 GMT | Mobil Uygulama Güvenliği Neden Önemlidir? | Zeynepazradoygun | [Read More](https://medium.com/p/41912a4d5b60) |
+| Sun, 11 May 2025 08:44:47 GMT | I’m Afraid You’ll Leave — So I Leave First | Sriram Yaladandi | [Read More](https://medium.com/p/1f49d5c8b39e) |
+| Sun, 11 May 2025 08:43:57 GMT | Lattice-Based Cryptography | Jay Pandit | [Read More](https://medium.com/p/456a33facd55) |
 | Sun, 11 May 2025 08:38:53 GMT | Hack the Box →Administrator | SURAJ -MRX001 | [Read More](https://medium.com/p/b24b5ac2ff4a) |
 | Sun, 11 May 2025 08:35:09 GMT | Opening Markets with Taiwan’s “Number Fist,” Connecting Clients with ABC: How I Precisely Develop… | JimChiu | [Read More](https://medium.com/p/55c878571334) |
 | Sun, 11 May 2025 08:29:02 GMT | Try hack Me→Enterprise walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/c4c72fb7876d) |
@@ -104,12 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 21:42:40 GMT | I Got Hired to Hack a Company… So I Delivered Pizza | All in One security | [Read More](https://medium.com/p/fce04cb4f8d7) |
 | Sat, 10 May 2025 21:14:49 GMT | How to Get CEH Certified in 2025: A Step-by-Step Guide | Joanhermann | [Read More](https://medium.com/p/975473921a37) |
 | Sat, 10 May 2025 21:05:16 GMT | Siri and Alexa Spying On Us | Yuri Singidas | [Read More](https://medium.com/p/b282c8d612aa) |
-| Sat, 10 May 2025 21:02:08 GMT | Using Impacket with Virtualenv — A Safe Setup for Pentesters | BotsiCat | [Read More](https://medium.com/p/223607333b2a) |
-| Sat, 10 May 2025 20:58:48 GMT | DevSecOps | Richard Ndung'u | [Read More](https://medium.com/p/13c5a50bedcf) |
-| Sat, 10 May 2025 20:58:40 GMT | SOC239 — Remote Code Execution Detected in Splunk Enterprise | Harshprajapati | [Read More](https://medium.com/p/6c87f7ba7198) |
-| Sat, 10 May 2025 20:57:30 GMT | QRadar 101: Dominate the Hunt️ | Omar Hesham | [Read More](https://medium.com/p/66e27c5e385a) |
-| Sat, 10 May 2025 20:47:39 GMT | TryHackMe: Metasploit: Meterpreter | RedHatReed | [Read More](https://medium.com/p/641431f96e4c) |
-| Sat, 10 May 2025 20:37:07 GMT | India vs Pakistan: Cyber War 2.0 A Gen Z Hacker’s POV | Sumanth Yerranagula | [Read More](https://medium.com/p/a032e3ebf7f0) |
-| Sat, 10 May 2025 20:33:04 GMT | Legacy Authentication, Modern Risk- The Hidden Backdoor in Microsoft Entra ID | Siva Gunasekaran | [Read More](https://medium.com/p/6d441731333d) |
-| Sat, 10 May 2025 20:03:28 GMT | Beyond Silence and Pedestals: 15 Pillars of Authentic Love | Groovy Spirit Realm | [Read More](https://medium.com/p/b1c54ca59383) |
-| Sat, 10 May 2025 20:01:37 GMT | Weaponized PDF Invoices and Java-based RATs: Inside a Sophisticated Multiplatform Email Attack | Siva Gunasekaran | [Read More](https://medium.com/p/9cd49a1934e9) |
