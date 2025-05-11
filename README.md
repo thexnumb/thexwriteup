@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 08:38:53 GMT | Hack the Box →Administrator | SURAJ -MRX001 | [Read More](https://medium.com/p/b24b5ac2ff4a) |
+| Sun, 11 May 2025 08:35:09 GMT | Opening Markets with Taiwan’s “Number Fist,” Connecting Clients with ABC: How I Precisely Develop… | JimChiu | [Read More](https://medium.com/p/55c878571334) |
+| Sun, 11 May 2025 08:29:02 GMT | Try hack Me→Enterprise walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/c4c72fb7876d) |
 | Sun, 11 May 2025 08:10:40 GMT | ️ A Simple Header, A New Experience — My Clickjacking Discovery. | Naitik Gupta | [Read More](https://medium.com/p/46b5910eb1da) |
 | Sun, 11 May 2025 08:05:22 GMT | Why Cybersecurity Awareness Matters More Than Ever in 2025 | Ddm atiq | [Read More](https://medium.com/p/d34d1f5ae0eb) |
 | Sun, 11 May 2025 08:02:15 GMT | Why Ethical Hacking Is the Future of Digital Defense: A Gen Z Perspective | Shaykhul | [Read More](https://medium.com/p/0b106a265895) |
@@ -110,6 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 20:33:04 GMT | Legacy Authentication, Modern Risk- The Hidden Backdoor in Microsoft Entra ID | Siva Gunasekaran | [Read More](https://medium.com/p/6d441731333d) |
 | Sat, 10 May 2025 20:03:28 GMT | Beyond Silence and Pedestals: 15 Pillars of Authentic Love | Groovy Spirit Realm | [Read More](https://medium.com/p/b1c54ca59383) |
 | Sat, 10 May 2025 20:01:37 GMT | Weaponized PDF Invoices and Java-based RATs: Inside a Sophisticated Multiplatform Email Attack | Siva Gunasekaran | [Read More](https://medium.com/p/9cd49a1934e9) |
-| Sat, 10 May 2025 20:01:22 GMT | Navigating Today’s Tech Challenges: Risks, Trust, and Reliable Solutions | Veridian Tech Solutions By Support.Com | [Read More](https://medium.com/p/b5c4554585a7) |
-| Sat, 10 May 2025 20:00:35 GMT | I Read The AI Revolution in Networking, Cybersecurity, and Emerging Technologies — Here’s What… | NaveeeN Chendra | [Read More](https://medium.com/p/a3b308e46e38) |
-| Sat, 10 May 2025 19:59:37 GMT | Step-by-Step Guide to Acquiring DORK | DORK | [Read More](https://medium.com/p/7cc06ffb2813) |
