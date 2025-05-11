@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 23:32:27 GMT | Red Team Concepts by Mr. David | Darshan Naresh Naik | [Read More](https://medium.com/p/5650776fd778) |
+| Sun, 11 May 2025 23:17:59 GMT | Authorization Bypass Through HTTP Response Manipulation | OctaYus | [Read More](https://medium.com/p/00e318a5b722) |
+| Sun, 11 May 2025 23:17:27 GMT | What is Cybersecurity? What are its Types and its Advantages? | Samridhi | [Read More](https://medium.com/p/c20f5275877c) |
 | Sun, 11 May 2025 23:02:28 GMT | LetsDefend — VoIP Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/97a6639ffabe) |
 | Sun, 11 May 2025 22:56:47 GMT | Cybersecurity Import/Export Regulations | Raviteja Mureboina | [Read More](https://medium.com/p/2a776db37320) |
 | Sun, 11 May 2025 22:34:31 GMT | Quantum Internet: The Unhackable Future of Communication | Daedalus | [Read More](https://medium.com/p/0e88641c3898) |
@@ -110,6 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 13:51:46 GMT | Everything You Need to Know About OpenSSH | Kuldeepkumawat | [Read More](https://medium.com/p/31bdaf684133) |
 | Sun, 11 May 2025 13:49:59 GMT | Reconnaissance: The Cyber Attack Blueprint | Defeu James | [Read More](https://medium.com/p/f325d5784df0) |
 | Sun, 11 May 2025 13:48:31 GMT | Detecting Cyber Threats Before They Strike | Defeu James | [Read More](https://medium.com/p/41c79f0c74f1) |
-| Sun, 11 May 2025 13:45:46 GMT | Exploiting Active Directory Trusts. | Opeyemi Ariyo | [Read More](https://medium.com/p/0fe1b3d7b5f4) |
-| Sun, 11 May 2025 13:43:36 GMT | Chemistry — HTB | 14mj4ck | [Read More](https://medium.com/p/472824acbfeb) |
-| Sun, 11 May 2025 13:43:06 GMT | Cybersecurity in the Next 5 Years: What’s Coming — and What You Absolutely Shouldn’t Do | Redoni | [Read More](https://medium.com/p/19ea85f8aefd) |
