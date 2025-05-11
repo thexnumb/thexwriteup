@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 19:22:03 GMT | Wazuh ile Gerçek Zamanlı Saldırı Tespiti — RDP Brute-Force Senaryosu | Melike Büşra Şener | [Read More](https://medium.com/p/e442d1245a94) |
+| Sun, 11 May 2025 19:16:16 GMT | Knight_dojo CTF Challenge | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/f777454e18d9) |
+| Sun, 11 May 2025 19:02:52 GMT | Reflections on moving towards SaaS. | Tom | [Read More](https://medium.com/p/c7a26cdc6629) |
 | Sun, 11 May 2025 18:56:40 GMT | The Recon Playbook: Finding Hidden Endpoints Like a Pro | Maxwell Cross | [Read More](https://medium.com/p/a48b8dea3d3f) |
 | Sun, 11 May 2025 18:55:35 GMT | Active Directory Lab: Creating Domain users and Attaching a VM to the Domain | Dito _0xE7 | [Read More](https://medium.com/p/00234a998b67) |
 | Sun, 11 May 2025 18:54:04 GMT | Why not object capability languages? | Mike Hearn | [Read More](https://medium.com/p/a8e6cbdf9682) |
@@ -110,6 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 11:21:55 GMT | Cloudflare Explained in Bengali: ওয়েব স্পিড ও সিকিউরিটির পরিপূর্ণ সমাধান | Md. Sumon | [Read More](https://medium.com/p/de724198dfba) |
 | Sun, 11 May 2025 11:08:07 GMT | security | Uptown Jack | [Read More](https://medium.com/p/9814b519c2ac) |
 | Sun, 11 May 2025 11:06:39 GMT | Why Vulnerability Is the Quiet Superpower We’re All Hiding From | Mr. Wells | [Read More](https://medium.com/p/039dc5587a88) |
-| Sun, 11 May 2025 11:05:33 GMT | OpenAlgo Update — Static IP Compliance, CORS, CSP, and Safer Algo Trading | Rajandran R (Creator - OpenAlgo) | [Read More](https://medium.com/p/2200263f1811) |
-| Sun, 11 May 2025 11:04:33 GMT | 10 Things to Start Your Cybersecurity Career | eNVy | [Read More](https://medium.com/p/5dc5325bc013) |
-| Sun, 11 May 2025 11:02:25 GMT | AI-Powered SOC Systems: The Future of Threat Detection | Esra Kayhan | [Read More](https://medium.com/p/6d023e8da97e) |
