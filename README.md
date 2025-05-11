@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 09:36:17 GMT | Bypass Fitur Ganti Email via Request API Langsung | FufuFafa | [Read More](https://medium.com/p/fac831a8dc31) |
 | Sun, 11 May 2025 09:07:12 GMT | Why Web Pentesting +Web Dev Is 2025’s Smartest Career Move for Devs and Cyber Geeks | Inside Garuda | [Read More](https://medium.com/p/c2cc087549cc) |
 | Sun, 11 May 2025 09:05:48 GMT | Careers in Cyber - TryHackME | mahita kodela | [Read More](https://medium.com/p/cade48801831) |
 | Sun, 11 May 2025 09:02:02 GMT | Mr. Robot CTF Walkthrough | Nano | [Read More](https://medium.com/p/78e18adaaa6b) |
@@ -112,4 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 21:51:25 GMT | A Cyber Threat Intelligence Journey — from Hack The Box to Locked Shields | Serdar Gumus | [Read More](https://medium.com/p/dae306d511cb) |
 | Sat, 10 May 2025 21:42:40 GMT | I Got Hired to Hack a Company… So I Delivered Pizza | All in One security | [Read More](https://medium.com/p/fce04cb4f8d7) |
 | Sat, 10 May 2025 21:14:49 GMT | How to Get CEH Certified in 2025: A Step-by-Step Guide | Joanhermann | [Read More](https://medium.com/p/975473921a37) |
-| Sat, 10 May 2025 21:05:16 GMT | Siri and Alexa Spying On Us | Yuri Singidas | [Read More](https://medium.com/p/b282c8d612aa) |
