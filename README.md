@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 06:15:01 GMT | The Grid Hacked: Unveiling the Story of a Nation-State Cyber Attack | om sonawane | [Read More](https://medium.com/p/c4e9a53018fe) |
+| Sun, 11 May 2025 06:04:45 GMT | The CLR Customization Trick That Lets You Run Quasar RAT on Fully Patched Windows 11 Without… | Yua Mikanana | [Read More](https://medium.com/p/206a2f948fed) |
+| Sun, 11 May 2025 06:02:34 GMT | 5 Places XSS Hides in Modern Bootstrap Apps (and How to Find Them) | Abhiram | [Read More](https://medium.com/p/d22ec62c8359) |
+| Sun, 11 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a9664f0fe0e4) |
+| Sun, 11 May 2025 05:55:04 GMT | This New Linux Feature Becomes a Stealth Weapon for Hackers | howtouselinux | [Read More](https://medium.com/p/a1187c6f6210) |
+| Sun, 11 May 2025 05:46:43 GMT | To Understand Israel, Look to Taiwan | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/344c3ffb34e1) |
 | Sun, 11 May 2025 05:16:37 GMT | Inside Vulnerability Scanners: What’s Available and How to Roll Your Own | Ilay tertman | [Read More](https://medium.com/p/888fc7d138f1) |
 | Sun, 11 May 2025 05:13:43 GMT | How to Communicate Risks Without Causing Panic | Ahmad Javed | [Read More](https://medium.com/p/0c2d30464ef7) |
 | Sun, 11 May 2025 05:12:53 GMT | ️ Master Nmap: The Ultimate Network Scanning Tool | Kuldeepkumawat | [Read More](https://medium.com/p/af845c274d81) |
@@ -107,9 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 18:51:55 GMT | Digital Armor: Why Personal OpSec Is Your New Superpower | Joe The OSINT Guy | [Read More](https://medium.com/p/e522e2e0b684) |
 | Sat, 10 May 2025 18:44:28 GMT | The Rise of a Silent Thief: Noodlophile Malware Masquerading as AI Tools | Chetan Seripally | [Read More](https://medium.com/p/7bbbce726c6a) |
 | Sat, 10 May 2025 18:31:04 GMT | Staying Secure: How Often Should You Update Cybersecurity Measures? | IT Pros Management Inc | [Read More](https://medium.com/p/261009ac57ca) |
-| Sat, 10 May 2025 18:13:27 GMT | Locked Down in the Cloud: 15 AWS Security Services to Bulletproof Your Application! | Rsprasangi | [Read More](https://medium.com/p/0bd5b23e95b2) |
-| Sat, 10 May 2025 18:03:23 GMT | Khoji Dog Center Attock 03018665280 Khoji Kutta Attock Official | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/79f89e9a093d) |
-| Sat, 10 May 2025 17:56:15 GMT | Linux Fundamentals Part 3 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/354ba3a8857e) |
-| Sat, 10 May 2025 17:43:56 GMT | Brute Force Hash Cracker Using SHA-256 With Python | Halildeniz | [Read More](https://medium.com/p/f3ab07a7511e) |
-| Sat, 10 May 2025 17:34:13 GMT | RG Security: Your Premier Choice for Professional Security Services in Southampton | Qadir Riaz | [Read More](https://medium.com/p/636b76ada6bf) |
-| Sat, 10 May 2025 17:26:04 GMT | Cyber Vulnerabilities in Satellites: Risks and Security Measures | s asghar | [Read More](https://medium.com/p/8f7cc390664b) |
