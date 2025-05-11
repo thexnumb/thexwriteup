@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 11:06:39 GMT | Why Vulnerability Is the Quiet Superpower We’re All Hiding From | Mr. Wells | [Read More](https://medium.com/p/039dc5587a88) |
+| Sun, 11 May 2025 11:04:33 GMT | 10 Things to Start Your Cybersecurity Career | eNVy | [Read More](https://medium.com/p/5dc5325bc013) |
+| Sun, 11 May 2025 11:02:25 GMT | AI-Powered SOC Systems: The Future of Threat Detection | Esra Kayhan | [Read More](https://medium.com/p/6d023e8da97e) |
+| Sun, 11 May 2025 11:02:25 GMT | SOC Analysts and Machine Learning Fundamentals | Esra Kayhan | [Read More](https://medium.com/p/9e044a99675c) |
+| Sun, 11 May 2025 10:58:31 GMT | What Is an AI Agent? How to build AI Agent for Yourself | Nikolay Gul | [Read More](https://medium.com/p/7e87a23ddb7f) |
+| Sun, 11 May 2025 10:54:26 GMT | I Liked the Ones Who Left | Silent Observer | [Read More](https://medium.com/p/409833e10434) |
+| Sun, 11 May 2025 10:48:33 GMT | Introduction to Computer Networking | Mainekdeveloper | [Read More](https://medium.com/p/5b3d29b82a20) |
+| Sun, 11 May 2025 10:36:57 GMT | Misery Loves Company | Lukasz Wierzbicki | [Read More](https://medium.com/p/caa98f426514) |
 | Sun, 11 May 2025 10:14:20 GMT | Cyber Warfare Explodes: India vs. Pakistan — The Battle Beyond Borders | Everclear International | [Read More](https://medium.com/p/5f2f7c547ef4) |
 | Sun, 11 May 2025 10:08:02 GMT | a love letter to the man i didn’t know i love(d) | Carina Scherer | [Read More](https://medium.com/p/90a92db259e8) |
 | Sun, 11 May 2025 10:05:31 GMT | SS7, Sahte Baz İstasyonları, SMS Swapping ve Sinyal İstihbaratı: Teknik Bir İnceleme | Ahmet Göker | [Read More](https://medium.com/p/883c1d0e74c4) |
@@ -105,11 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sun, 11 May 2025 01:17:37 GMT | learning Apps or Website | Atish lohade | [Read More](https://medium.com/p/6a49df562e30) |
 | Sun, 11 May 2025 01:02:10 GMT | How to Secure a Web Application Safely Behind a Kubernetes Service | Marcus England | [Read More](https://medium.com/p/3e4ffddbd5d6) |
 | Sun, 11 May 2025 00:55:13 GMT | Digital Naivety is Dangerous – A Manifesto for Awareness in the Surveillance Age | Tom | [Read More](https://medium.com/p/e80e1e0f3706) |
-| Sun, 11 May 2025 00:48:24 GMT | HawkEye Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/698eb306f68c) |
-| Sun, 11 May 2025 00:32:37 GMT | Hands-On Project: Implementing AWS Auto Scaling with EC2 and Load Balancer Integration | Ekpenyong Emmanuel | [Read More](https://medium.com/p/25e0f1f01b9c) |
-| Sun, 11 May 2025 00:23:26 GMT | Cybersecurity and Information Warfare | Ahmad Naeem | [Read More](https://medium.com/p/c8db4ae31748) |
-| Sun, 11 May 2025 00:14:53 GMT | How I Flooded Myself  — hping3 Against Apache | january1073 | [Read More](https://medium.com/p/c518cbab639f) |
-| Sun, 11 May 2025 00:02:07 GMT | The Shift: Redefining Success, One Honest Conversation at a Time | Roopa Dey | [Read More](https://medium.com/p/8165065bf59a) |
-| Sat, 10 May 2025 23:29:57 GMT | BOUNTY Rewards: How to Get Started | BOUNTY | [Read More](https://medium.com/p/0966f8edb160) |
-| Sat, 10 May 2025 23:22:25 GMT | Building a Cybersecurity Homelab | Kunal Joshi | [Read More](https://medium.com/p/34da7b5e7031) |
-| Sat, 10 May 2025 23:17:05 GMT | When ClickOps Meets DevOps: The Hidden Fault Lines in No‑Code Cloud Pipelines | Godwiniheuwa | [Read More](https://medium.com/p/90eddaef5d95) |
