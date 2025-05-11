@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 23:02:28 GMT | LetsDefend — VoIP Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/97a6639ffabe) |
+| Sun, 11 May 2025 22:56:47 GMT | Cybersecurity Import/Export Regulations | Raviteja Mureboina | [Read More](https://medium.com/p/2a776db37320) |
 | Sun, 11 May 2025 22:34:31 GMT | Quantum Internet: The Unhackable Future of Communication | Daedalus | [Read More](https://medium.com/p/0e88641c3898) |
+| Sun, 11 May 2025 22:32:26 GMT | RELEVANT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/a928d49becb4) |
 | Sun, 11 May 2025 22:31:04 GMT | Tracking App Data Changes with Git During Mobile App Security Review | Arkadiy Litvinenko | [Read More](https://medium.com/p/520af779dd49) |
 | Sun, 11 May 2025 22:30:45 GMT | Reverse Shell Over Ngrok Using Ncat — Windows & Linux Setup Guide | Mr. Torjan Captain | [Read More](https://medium.com/p/6ee35ae05e1c) |
 | Sun, 11 May 2025 22:24:18 GMT | What’s powering your LLM stack — and how resilient is it? | Tal Eliyahu | [Read More](https://medium.com/p/7a3e9507971a) |
@@ -110,6 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 13:45:46 GMT | Exploiting Active Directory Trusts. | Opeyemi Ariyo | [Read More](https://medium.com/p/0fe1b3d7b5f4) |
 | Sun, 11 May 2025 13:43:36 GMT | Chemistry — HTB | 14mj4ck | [Read More](https://medium.com/p/472824acbfeb) |
 | Sun, 11 May 2025 13:43:06 GMT | Cybersecurity in the Next 5 Years: What’s Coming — and What You Absolutely Shouldn’t Do | Redoni | [Read More](https://medium.com/p/19ea85f8aefd) |
-| Sun, 11 May 2025 13:36:29 GMT | Quantum Computing and Post-Quantum Cryptography | Pankaj Kumar Bind | [Read More](https://medium.com/p/41cafb044bf8) |
-| Sun, 11 May 2025 13:33:49 GMT | Why the realme NARZO N61 Might Be the Best Budget Smartphone of 2025 (And Where to Get It) | Techyinsider | [Read More](https://medium.com/p/56c601c0b033) |
-| Sun, 11 May 2025 13:25:54 GMT | APIs Hacking : Exploiting Race Condition 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/e063ea5057cb) |
