@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 15:02:46 GMT | Confidential AI with LLMs: Building a Secure RAG Pipeline | Ouarda FENEK | [Read More](https://medium.com/p/dc72365a2c6b) |
+| Sun, 11 May 2025 15:01:34 GMT | Day 123 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/d20411e4db2c) |
+| Sun, 11 May 2025 14:54:49 GMT | cybersecurity | Asim | [Read More](https://medium.com/p/d4fbf0116263) |
+| Sun, 11 May 2025 14:52:22 GMT | Retracted - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/365482ff8317) |
+| Sun, 11 May 2025 14:42:56 GMT | Cracks in the Castle: Your Beginner’s Guide to Vulnerability Assessment and Management | Owais Mohammad | [Read More](https://medium.com/p/c91aec701fff) |
+| Sun, 11 May 2025 14:42:53 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/676e3c4cd67d) |
+| Sun, 11 May 2025 14:39:02 GMT | When Friendship Starts to Feel Like a Transaction | @changemaker | [Read More](https://medium.com/p/6cb36668d2ef) |
+| Sun, 11 May 2025 14:38:02 GMT | LinkVortex — HTB | 14mj4ck | [Read More](https://medium.com/p/b4c3d7fce498) |
+| Sun, 11 May 2025 14:35:46 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/73f12cac6725) |
+| Sun, 11 May 2025 14:27:31 GMT | HackTheBox- Planning | HckN1L | [Read More](https://medium.com/p/343976c3b02e) |
 | Sun, 11 May 2025 14:21:45 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/bc9760dd379f) |
 | Sun, 11 May 2025 14:11:02 GMT | Alert — HTB | 14mj4ck | [Read More](https://medium.com/p/a38264622938) |
 | Sun, 11 May 2025 14:10:56 GMT | Pentest Süreçlerinde Yapay Zekâ Kullanımı: Yardımcı mı, Oyuncu mu? | Onur Civan | [Read More](https://medium.com/p/d3649a9f5d99) |
@@ -26,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 13:43:36 GMT | Chemistry — HTB | 14mj4ck | [Read More](https://medium.com/p/472824acbfeb) |
 | Sun, 11 May 2025 13:43:06 GMT | Cybersecurity in the Next 5 Years: What’s Coming — and What You Absolutely Shouldn’t Do | Redoni | [Read More](https://medium.com/p/19ea85f8aefd) |
 | Sun, 11 May 2025 13:36:29 GMT | Quantum Computing and Post-Quantum Cryptography | Pankaj Kumar Bind | [Read More](https://medium.com/p/41cafb044bf8) |
+| Sun, 11 May 2025 13:33:49 GMT | Why the realme NARZO N61 Might Be the Best Budget Smartphone of 2025 (And Where to Get It) | Techyinsider | [Read More](https://medium.com/p/56c601c0b033) |
 | Sun, 11 May 2025 13:25:54 GMT | APIs Hacking : Exploiting Race Condition 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/e063ea5057cb) |
 | Sun, 11 May 2025 13:18:25 GMT | How Hackers Exploit NoSQL Injections And How to Stop Them | Dhanush N | [Read More](https://medium.com/p/b49611b17aa2) |
 | Sun, 11 May 2025 13:11:33 GMT | Understanding Threats & Mitigations in Agentic AI Systems | Akhil Vakkalanka | [Read More](https://medium.com/p/fcf5c7513df0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 06:04:45 GMT | The CLR Customization Trick That Lets You Run Quasar RAT on Fully Patched Windows 11 Without… | Yua Mikanana | [Read More](https://medium.com/p/206a2f948fed) |
 | Sun, 11 May 2025 06:02:34 GMT | 5 Places XSS Hides in Modern Bootstrap Apps (and How to Find Them) | Abhiram | [Read More](https://medium.com/p/d22ec62c8359) |
 | Sun, 11 May 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — May 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a9664f0fe0e4) |
-| Sun, 11 May 2025 05:55:04 GMT | This New Linux Feature Becomes a Stealth Weapon for Hackers | howtouselinux | [Read More](https://medium.com/p/a1187c6f6210) |
-| Sun, 11 May 2025 05:46:43 GMT | To Understand Israel, Look to Taiwan | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/344c3ffb34e1) |
-| Sun, 11 May 2025 05:16:37 GMT | Inside Vulnerability Scanners: What’s Available and How to Roll Your Own | Ilay tertman | [Read More](https://medium.com/p/888fc7d138f1) |
-| Sun, 11 May 2025 05:13:43 GMT | How to Communicate Risks Without Causing Panic | Ahmad Javed | [Read More](https://medium.com/p/0c2d30464ef7) |
-| Sun, 11 May 2025 05:12:53 GMT | ️ Master Nmap: The Ultimate Network Scanning Tool | Kuldeepkumawat | [Read More](https://medium.com/p/af845c274d81) |
-| Sun, 11 May 2025 05:11:17 GMT | AI-Powered IAM: Revolutionizing Security or Opening New Doors for Cybercrime? | Siva Desetti | [Read More](https://medium.com/p/34413ce6a0cb) |
-| Sun, 11 May 2025 05:01:40 GMT | LetsDefend Web Attacks 2: Detecting and Solving Attacks with Real Log Files. Part 2 | CyberSam | [Read More](https://medium.com/p/f5ec69dac56a) |
-| Sun, 11 May 2025 04:51:07 GMT | Deploying Keycloak for Enterprise Identity Management on Kubernetes: A Complete Guide | Rio Wiraldhani | [Read More](https://medium.com/p/eca73d7df1e3) |
-| Sun, 11 May 2025 04:49:15 GMT | API Keys Gone Wild: How Leaked Credentials Are Fueling a Silent Cloud War | Bl@ckC!pH3r | [Read More](https://medium.com/p/5b9403107b9c) |
-| Sun, 11 May 2025 04:46:47 GMT | IT vs. Banking: Decoding the Career Choice | Anshu Dikshant | [Read More](https://medium.com/p/ceb616991914) |
-| Sun, 11 May 2025 04:46:22 GMT | What Is Post‑Quantum Cryptography? | Jay Pandit | [Read More](https://medium.com/p/2e7a00681662) |
