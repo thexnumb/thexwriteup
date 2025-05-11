@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 01:32:20 GMT | Silly Doors — Web Challenge | Bedair | [Read More](https://medium.com/p/7b1f4ef382a6) |
+| Sun, 11 May 2025 01:31:33 GMT | The Red Teaming: 30-Day Challenge[27] | Bl@ckC!pH3r | [Read More](https://medium.com/p/8280f7a7074c) |
+| Sun, 11 May 2025 01:25:45 GMT | บันทึกการศึกษาเรื่อง Access Control Concept | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/1c970cae1bd2) |
+| Sun, 11 May 2025 01:17:37 GMT | learning Apps or Website | Atish lohade | [Read More](https://medium.com/p/6a49df562e30) |
+| Sun, 11 May 2025 01:02:10 GMT | How to Secure a Web Application Safely Behind a Kubernetes Service | Marcus England | [Read More](https://medium.com/p/3e4ffddbd5d6) |
+| Sun, 11 May 2025 00:55:13 GMT | Digital Naivety is Dangerous – A Manifesto for Awareness in the Surveillance Age | Tom | [Read More](https://medium.com/p/e80e1e0f3706) |
+| Sun, 11 May 2025 00:48:24 GMT | HawkEye Lab Write-Up - By BnHany | BnHany | [Read More](https://medium.com/p/698eb306f68c) |
+| Sun, 11 May 2025 00:32:37 GMT | Hands-On Project: Implementing AWS Auto Scaling with EC2 and Load Balancer Integration | Ekpenyong Emmanuel | [Read More](https://medium.com/p/25e0f1f01b9c) |
+| Sun, 11 May 2025 00:23:26 GMT | Cybersecurity and Information Warfare | Ahmad Naeem | [Read More](https://medium.com/p/c8db4ae31748) |
+| Sun, 11 May 2025 00:14:53 GMT | How I Flooded Myself  — hping3 Against Apache | january1073 | [Read More](https://medium.com/p/c518cbab639f) |
+| Sun, 11 May 2025 00:02:07 GMT | The Shift: Redefining Success, One Honest Conversation at a Time | Roopa Dey | [Read More](https://medium.com/p/8165065bf59a) |
 | Sat, 10 May 2025 23:29:57 GMT | BOUNTY Rewards: How to Get Started | BOUNTY | [Read More](https://medium.com/p/0966f8edb160) |
 | Sat, 10 May 2025 23:22:25 GMT | Building a Cybersecurity Homelab | Kunal Joshi | [Read More](https://medium.com/p/34da7b5e7031) |
 | Sat, 10 May 2025 23:17:05 GMT | When ClickOps Meets DevOps: The Hidden Fault Lines in No‑Code Cloud Pipelines | Godwiniheuwa | [Read More](https://medium.com/p/90eddaef5d95) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 14:21:59 GMT | Robot Guard | Marcus Koehnlein | [Read More](https://medium.com/p/eb1a39c98d44) |
 | Sat, 10 May 2025 14:19:13 GMT | LockBit Ransomware Gang Hacked: Internal Data & Victim Chats Leaked | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/05b1adc7e123) |
 | Sat, 10 May 2025 14:12:15 GMT | Tryhackme - OWASP Top 10–2021 - X — Server-Side Request Forgery (SSRF) - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/1380f176c63e) |
-| Sat, 10 May 2025 14:06:48 GMT | Information Security Risk Management: The Architect’s Tightrope Walk | Lali Devamanthri | [Read More](https://medium.com/p/5f64eb50a099) |
-| Sat, 10 May 2025 14:01:34 GMT | OSINT Techniques for Target Intelligence Gathering: Using Recon-ng and Maltego | Esra Kayhan | [Read More](https://medium.com/p/5fd750d875a6) |
-| Sat, 10 May 2025 13:59:58 GMT | Two-Factor Authentication: Why It’s Not As Bulletproof As You Think | Abdur Mowlana | [Read More](https://medium.com/p/a849e4247b2c) |
-| Sat, 10 May 2025 13:59:46 GMT | Why PHP Needs a Browser Sandbox Wingman for User Scripts — Before It Wrecks Your Server? | Asian Digital Hub | [Read More](https://medium.com/p/763f532bd697) |
-| Sat, 10 May 2025 13:57:47 GMT | We are TISAX certified | Sylvain Gibier | [Read More](https://medium.com/p/4eb099bb7b04) |
-| Sat, 10 May 2025 13:55:00 GMT | Bleeding, quietly | Kyra Baskin | [Read More](https://medium.com/p/4907ff547d1c) |
-| Sat, 10 May 2025 13:45:51 GMT | The Vital Role of SOC Analysts in Modern Cybersecurity | Cybernous Infosec consulting | [Read More](https://medium.com/p/1c299390673e) |
-| Sat, 10 May 2025 13:29:07 GMT | OSWA Exam Review | Peter Slynn | [Read More](https://medium.com/p/cda7f6be1079) |
-| Sat, 10 May 2025 13:27:46 GMT | Building a Digitally Conscious Executive Protection Program | SecOps | [Read More](https://medium.com/p/ef1327d598db) |
-| Sat, 10 May 2025 13:26:44 GMT | When My Retry Logic Became a DDoS Attack | Abhinav | [Read More](https://medium.com/p/fee63530b7f1) |
-| Sat, 10 May 2025 13:21:44 GMT | Lessons from the film  Logout | Rohini Lakshané | [Read More](https://medium.com/p/0c3c8a9b80f3) |
