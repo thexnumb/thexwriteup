@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 05:16:37 GMT | Inside Vulnerability Scanners: What’s Available and How to Roll Your Own | Ilay tertman | [Read More](https://medium.com/p/888fc7d138f1) |
+| Sun, 11 May 2025 05:13:43 GMT | How to Communicate Risks Without Causing Panic | Ahmad Javed | [Read More](https://medium.com/p/0c2d30464ef7) |
+| Sun, 11 May 2025 05:12:53 GMT | ️ Master Nmap: The Ultimate Network Scanning Tool | Kuldeepkumawat | [Read More](https://medium.com/p/af845c274d81) |
+| Sun, 11 May 2025 05:11:17 GMT | AI-Powered IAM: Revolutionizing Security or Opening New Doors for Cybercrime? | Siva Desetti | [Read More](https://medium.com/p/34413ce6a0cb) |
+| Sun, 11 May 2025 05:01:40 GMT | LetsDefend Web Attacks 2: Detecting and Solving Attacks with Real Log Files. Part 2 | CyberSam | [Read More](https://medium.com/p/f5ec69dac56a) |
+| Sun, 11 May 2025 04:51:07 GMT | Deploying Keycloak for Enterprise Identity Management on Kubernetes: A Complete Guide | Rio Wiraldhani | [Read More](https://medium.com/p/eca73d7df1e3) |
+| Sun, 11 May 2025 04:49:15 GMT | API Keys Gone Wild: How Leaked Credentials Are Fueling a Silent Cloud War | Bl@ckC!pH3r | [Read More](https://medium.com/p/5b9403107b9c) |
+| Sun, 11 May 2025 04:46:47 GMT | IT vs. Banking: Decoding the Career Choice | Anshu Dikshant | [Read More](https://medium.com/p/ceb616991914) |
+| Sun, 11 May 2025 04:46:22 GMT | What Is Post‑Quantum Cryptography? | Jay Pandit | [Read More](https://medium.com/p/2e7a00681662) |
+| Sun, 11 May 2025 04:37:17 GMT | Zombie SaaS Accounts: The Forgotten Subscriptions Still Haunting Your Company | Bl@ckC!pH3r | [Read More](https://medium.com/p/f079c2087fdc) |
 | Sun, 11 May 2025 04:36:01 GMT | Code That Crawls: A Psychogeography of Malware Ecosystems | Rain Ginsberg | [Read More](https://medium.com/p/3893851cd32d) |
 | Sun, 11 May 2025 04:36:01 GMT | Detecting Web Attacks — 2 Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/4ac0d68f0fda) |
+| Sun, 11 May 2025 04:31:43 GMT | ️ Safeguarding India: Where Public Money Meets Patriotism | H R SHAH | [Read More](https://medium.com/p/e7e165973f2c) |
 | Sun, 11 May 2025 04:28:15 GMT | The Linux Process Journey — hwrng (Hardware Number Random Generator) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b1de6826ab84) |
 | Sun, 11 May 2025 04:21:48 GMT | Enhancing AWS Security with Customer Managed Prefix Lists for Dynamic IP Whitelisting and Access… | Rio Wiraldhani | [Read More](https://medium.com/p/1eff2f0cbf18) |
 | Sun, 11 May 2025 04:20:19 GMT | Quantum Scrambler - Writeup | Marvin | [Read More](https://medium.com/p/1dc9850e191d) |
@@ -102,14 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 17:43:56 GMT | Brute Force Hash Cracker Using SHA-256 With Python | Halildeniz | [Read More](https://medium.com/p/f3ab07a7511e) |
 | Sat, 10 May 2025 17:34:13 GMT | RG Security: Your Premier Choice for Professional Security Services in Southampton | Qadir Riaz | [Read More](https://medium.com/p/636b76ada6bf) |
 | Sat, 10 May 2025 17:26:04 GMT | Cyber Vulnerabilities in Satellites: Risks and Security Measures | s asghar | [Read More](https://medium.com/p/8f7cc390664b) |
-| Sat, 10 May 2025 17:14:32 GMT | Google Dorking — Hacking con Buscadores | Alexis Giménez | [Read More](https://medium.com/p/2ccbdd4ef0a1) |
-| Sat, 10 May 2025 17:09:34 GMT | How to Use Fiddler to Scan Mobile App Endpoints | Richard Nwonah | [Read More](https://medium.com/p/64a074c2e35d) |
-| Sat, 10 May 2025 17:07:40 GMT | Understanding SOC 2 Compliance: Why It Matters for AI Chatbots and LLMs | Vignaraj Ravi | [Read More](https://medium.com/p/5d10948c68a2) |
-| Sat, 10 May 2025 17:03:35 GMT | The Information Security Program — Your Organization’s Digital Immune System | Lali Devamanthri | [Read More](https://medium.com/p/9ec5bbd0aff3) |
-| Sat, 10 May 2025 16:53:07 GMT | 9 Principles of Cloud Architecture: A Practical Guide | Saraswathi Lakshman | [Read More](https://medium.com/p/254006f83d7a) |
-| Sat, 10 May 2025 16:51:42 GMT | Cybersecurity Beginner Roadmap | Himakshithakre | [Read More](https://medium.com/p/fb6262a7e4b6) |
-| Sat, 10 May 2025 16:49:51 GMT | Why Traditional Security Scans Aren’t Enough in 2025 | Mehak kamra | [Read More](https://medium.com/p/0c033b5f4980) |
-| Sat, 10 May 2025 16:43:53 GMT | Secure Your AI Agents Before Hackers Strike Your Business | Cybersectoworld | [Read More](https://medium.com/p/b882cfd6b657) |
-| Sat, 10 May 2025 16:43:43 GMT | Server Setup and Hardening for Beginners | Swam Htet Aung | [Read More](https://medium.com/p/f7415a63efe8) |
-| Sat, 10 May 2025 16:36:57 GMT | 24/7 Fire Safety Assurance: Waking Watch Services in Milton Keynes | Qadir Riaz | [Read More](https://medium.com/p/76b274ae8de1) |
-| Sat, 10 May 2025 16:32:20 GMT | Part 1: “How I Got Into Security” | [ 0xV4sh ] | [Read More](https://medium.com/p/6d6c26cbf2a7) |
