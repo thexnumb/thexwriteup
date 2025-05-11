@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 21:15:02 GMT | Unlock DeFi Potential with DORK | DORK | [Read More](https://medium.com/p/b0c9647a4dec) |
+| Sun, 11 May 2025 21:00:25 GMT | Day 15: Blind SQL injection with time delays and information retrieval — Zero to Hero Time-Based… | RayofHope | [Read More](https://medium.com/p/75f93027eebf) |
+| Sun, 11 May 2025 20:48:58 GMT | The Key Difference Between a Cybersecurity Expert and a Common Website Owner — And How We Protect… | All in One security | [Read More](https://medium.com/p/4f7b3954a6c8) |
+| Sun, 11 May 2025 20:46:51 GMT | Code‑Based Cryptography: Error‑Correcting Codes Turned Quantum‑Proof Shields | Jay Pandit | [Read More](https://medium.com/p/442c2a55afcd) |
+| Sun, 11 May 2025 20:38:30 GMT | From Web to Mobile: Understanding Android Architecture for Pentesters — part 1 | Arash Shahbazi | [Read More](https://medium.com/p/c38560df64f5) |
 | Sun, 11 May 2025 20:02:14 GMT | Mobil Uygulama Güvenliği | Berkay DAĞGÜLÜ | [Read More](https://medium.com/p/7ff5b1ae7ee5) |
 | Sun, 11 May 2025 20:00:43 GMT | LetsDefend — Http Basic Auth Walkthrough | Javier | [Read More](https://medium.com/p/7cbdf7e0293e) |
 | Sun, 11 May 2025 20:00:25 GMT | Mothering Yourself in 2025: Being Vulnerable & Safe | Aviva Perlo, www.creativecoping.us | [Read More](https://medium.com/p/ec32db854019) |
@@ -108,8 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 12:08:28 GMT | Instagram analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/156ea6b9f897) |
 | Sun, 11 May 2025 12:07:31 GMT | Bug Bounty Race: Exploiting Race Conditions for Infinite Discounts | Aditya Bhatt | [Read More](https://medium.com/p/a2cb2f233804) |
 | Sun, 11 May 2025 12:05:02 GMT | Top Cybersecurity Threats in 2025: Trends & Defense Strategies | Badal Mehra | [Read More](https://medium.com/p/5eb81536b922) |
-| Sun, 11 May 2025 12:02:33 GMT | Can Secure Apps Be Vibe Coded? | Liam Chambers | [Read More](https://medium.com/p/0e961669d832) |
-| Sun, 11 May 2025 12:00:02 GMT | Cyberbullying in India: Legal Remedies, Case Laws, and Protection for Victims | Saurabh Savara | [Read More](https://medium.com/p/5f8bcb3e80a5) |
-| Sun, 11 May 2025 11:50:53 GMT | OtterCookie v4 and the Rising Threat of North Korean Cyber Espionage | CyDhaal | [Read More](https://medium.com/p/ad14ef7ffc5e) |
-| Sun, 11 May 2025 11:49:37 GMT | AI vs AI: The digital battle. | Sri Harsha Kurra | [Read More](https://medium.com/p/dfd49bd0d5ac) |
-| Sun, 11 May 2025 11:45:19 GMT | Moniker Link (CVE-2024–21413)-- Tryhackme -- Cybersecurity 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/e1dbe21d66e6) |
