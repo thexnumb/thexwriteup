@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 14:21:45 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/bc9760dd379f) |
 | Sun, 11 May 2025 14:11:02 GMT | Alert — HTB | 14mj4ck | [Read More](https://medium.com/p/a38264622938) |
 | Sun, 11 May 2025 14:10:56 GMT | Pentest Süreçlerinde Yapay Zekâ Kullanımı: Yardımcı mı, Oyuncu mu? | Onur Civan | [Read More](https://medium.com/p/d3649a9f5d99) |
 | Sun, 11 May 2025 14:07:05 GMT | Detecting Backdoors in Enterprise Networks: A Modern Cybersecurity Priority | CyDhaal | [Read More](https://medium.com/p/24b6172541ce) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 04:49:15 GMT | API Keys Gone Wild: How Leaked Credentials Are Fueling a Silent Cloud War | Bl@ckC!pH3r | [Read More](https://medium.com/p/5b9403107b9c) |
 | Sun, 11 May 2025 04:46:47 GMT | IT vs. Banking: Decoding the Career Choice | Anshu Dikshant | [Read More](https://medium.com/p/ceb616991914) |
 | Sun, 11 May 2025 04:46:22 GMT | What Is Post‑Quantum Cryptography? | Jay Pandit | [Read More](https://medium.com/p/2e7a00681662) |
-| Sun, 11 May 2025 04:37:17 GMT | Zombie SaaS Accounts: The Forgotten Subscriptions Still Haunting Your Company | Bl@ckC!pH3r | [Read More](https://medium.com/p/f079c2087fdc) |
