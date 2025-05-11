@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 16:37:53 GMT | Building a Secure OTA (“Over-the-Air”) System in React Native | Mattiullah Shahzad | [Read More](https://medium.com/p/912f12e7e6e9) |
+| Sun, 11 May 2025 16:23:52 GMT | ETHLisbon 2025 powered by Lightshift and Encode | Jade Harcourt-Harrison | [Read More](https://medium.com/p/ce529cddc5d1) |
 | Sun, 11 May 2025 15:57:37 GMT | MFA Update OTP Bypass | Md. Abu Rayhan | [Read More](https://medium.com/p/64e2cd1cbe86) |
 | Sun, 11 May 2025 15:53:56 GMT | Mobius Token Exploited for $2.15 Million in Smart Contract Hack on BNB Chain | CyberLucifer | [Read More](https://medium.com/p/82a01215ed29) |
 | Sun, 11 May 2025 15:49:52 GMT | WireTor Mother’s Day Special Offer 50% OFF! | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/f0d1646319e6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 07:59:22 GMT | The Wonderful FN-DSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/085097eb8f99) |
 | Sun, 11 May 2025 07:58:15 GMT | 9.Cybersecurity Evolution: AI Defends the Digital FrontierSpace Tech Expansion: Humanity’s Next… | Maruti | [Read More](https://medium.com/p/900885a4897a) |
 | Sun, 11 May 2025 07:51:27 GMT | Identify common open ports vulnerabilities in your network | Valtlex | [Read More](https://medium.com/p/f19a14826a7e) |
-| Sun, 11 May 2025 07:47:55 GMT | Cerberus e o Abuso de MDM: Lições de um Ataque Real para a Segurança Corporativa | Enzo Miziara | [Read More](https://medium.com/p/9f8983c08d7e) |
-| Sun, 11 May 2025 07:46:13 GMT | Is OffSec Still the Gold Standard? An Honest OSEP and OffSec Review | NyaMeeEain | [Read More](https://medium.com/p/9c2baa70cd9c) |
