@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 13:11:33 GMT | Understanding Threats & Mitigations in Agentic AI Systems | Akhil Vakkalanka | [Read More](https://medium.com/p/fcf5c7513df0) |
+| Sun, 11 May 2025 13:02:32 GMT | Overwhelmed by Alerts? Here’s How Brahma Fusion Filters the Noise | Peris.ai Cybersecurity | [Read More](https://medium.com/p/da0505fd09a6) |
+| Sun, 11 May 2025 12:55:49 GMT | Getting LFI: Everything You Need to Know | LFI | [Read More](https://medium.com/p/d6a9c4ac9628) |
+| Sun, 11 May 2025 12:52:34 GMT | Jason Eastman Joins CV5 Capital, Strengthening Leadership in Digital Asset Funds and Cybersecurity | Manish Roshan @Coneberry.com | [Read More](https://medium.com/p/231de097ad87) |
+| Sun, 11 May 2025 12:51:51 GMT | https://en.etetec.com/2025/05/how-to-prevent-facebook-from-reading.html | Mohamed Swidan | [Read More](https://medium.com/p/ed236c53b7e3) |
+| Sun, 11 May 2025 12:48:35 GMT | Supply Chain Attack Hits Popular npm Package 45K+ Developers at Risk | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/537eac7c8ef3) |
+| Sun, 11 May 2025 12:42:07 GMT | SSL/TLS: The Unsung Hero of Secure and Performant AI | Nitish Agarwal | [Read More](https://medium.com/p/45f34669456b) |
+| Sun, 11 May 2025 12:36:27 GMT | Autonomous Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/3331cb52d8ce) |
 | Sun, 11 May 2025 12:08:28 GMT | Instagram analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/156ea6b9f897) |
 | Sun, 11 May 2025 12:07:31 GMT | Bug Bounty Race: Exploiting Race Conditions for Infinite Discounts | Aditya Bhatt | [Read More](https://medium.com/p/a2cb2f233804) |
 | Sun, 11 May 2025 12:05:02 GMT | Top Cybersecurity Threats in 2025: Trends & Defense Strategies | Badal Mehra | [Read More](https://medium.com/p/5eb81536b922) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 03:42:37 GMT | LIGHT- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/01b4fcb61b58) |
 | Sun, 11 May 2025 03:39:58 GMT | Stack — Buffer Overflow | FieryParks | [Read More](https://medium.com/p/461b7792369b) |
 | Sun, 11 May 2025 03:36:35 GMT | “Oops, I Still Have Access!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/eecadab11fd9) |
-| Sun, 11 May 2025 03:31:33 GMT | Behind the Screen: Unmasking the 60 Million Silent Threats Lurking on Your Android Applications | Deven Chhajed | [Read More](https://medium.com/p/014e3f9db1f3) |
-| Sun, 11 May 2025 03:11:22 GMT | Cracking the Financial Backbone of Terrorism in India: Challenges and Responses
-Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) |
-| Sun, 11 May 2025 02:59:16 GMT | The Sacred Slut and the Digital Virgin. How AI Reinforces Our Madonna–Whore Complex | Sarah Elspeth | [Read More](https://medium.com/p/f1ac82068422) |
-| Sun, 11 May 2025 02:50:51 GMT | How I Achieved the AWS Certified Security — Specialty | LtReborn | [Read More](https://medium.com/p/ff92f6ca2831) |
-| Sun, 11 May 2025 02:44:12 GMT | DCSync Attacks: Abusing Replication Rights for Stealthy Domain Dominance | Rushabh Bhutak | [Read More](https://medium.com/p/944df906eb9e) |
-| Sun, 11 May 2025 02:40:27 GMT | $16,000 Bounty: Stored XSS in GitLab | Monika sharma | [Read More](https://medium.com/p/a0f57e5c4245) |
-| Sun, 11 May 2025 02:31:34 GMT | How AI Supercharges Cyber-Physical Systems: Today and Into the Future | Data Defendere | [Read More](https://medium.com/p/a002fb733ffd) |
-| Sun, 11 May 2025 02:30:50 GMT | A Beginner’s Guide to Cloud Migration for Indian Businesses: Why 2025 is the Right Time | Aryan Tech World Pvt. Ltd. | [Read More](https://medium.com/p/fc636e1ac93e) |
