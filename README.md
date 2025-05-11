@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 07:10:14 GMT | Preface | Lamyae Elfakir | [Read More](https://medium.com/p/d588e0836901) |
+| Sun, 11 May 2025 06:59:52 GMT | Penetration Testing Course with Certification | cyber security Updates | [Read More](https://medium.com/p/d7ac2d985a6f) |
+| Sun, 11 May 2025 06:53:45 GMT | Confessions of a Bug Bounty Hunter: Tales from the Digital Jungle | Vijay Kumar Gupta | [Read More](https://medium.com/p/892e188bc282) |
+| Sun, 11 May 2025 06:53:30 GMT | MITRE Technique and Detection Opportunities — CVE-2025–31324 — SAP Critical Vulnerability CVSS 10! | MITRE Doggy | [Read More](https://medium.com/p/7f72b8e653a2) |
 | Sun, 11 May 2025 06:38:03 GMT | Securing Kubernetes Workloads with Falco | Vinod Kumar Nair | [Read More](https://medium.com/p/87f5ad1b9e6b) |
 | Sun, 11 May 2025 06:15:01 GMT | The Grid Hacked: Unveiling the Story of a Nation-State Cyber Attack | om sonawane | [Read More](https://medium.com/p/c4e9a53018fe) |
 | Sun, 11 May 2025 06:04:45 GMT | The CLR Customization Trick That Lets You Run Quasar RAT on Fully Patched Windows 11 Without… | Yua Mikanana | [Read More](https://medium.com/p/206a2f948fed) |
@@ -109,7 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 19:17:23 GMT | HTB — UnderPass Write-up | Nikita Astashenko | [Read More](https://medium.com/p/ede7f3fd68cd) |
 | Sat, 10 May 2025 19:14:32 GMT | Comparing Directory Bruteforcing Tools — Once In, Never Out | Strikoder | [Read More](https://medium.com/p/d2da24819bd4) |
 | Sat, 10 May 2025 19:14:03 GMT | Antivirus is Not Dead: Global Endpoint Security Lessons from the Frontlines | Ninza-_-Boi | [Read More](https://medium.com/p/d77ff537f9fb) |
-| Sat, 10 May 2025 19:02:14 GMT | From Response to Resilience | Hantz | [Read More](https://medium.com/p/00f72206a0e0) |
-| Sat, 10 May 2025 18:54:48 GMT | Cyber Security Risk Management | Tanmay Bhattacharjee | [Read More](https://medium.com/p/b54ced30b7fa) |
-| Sat, 10 May 2025 18:51:55 GMT | Digital Armor: Why Personal OpSec Is Your New Superpower | Joe The OSINT Guy | [Read More](https://medium.com/p/e522e2e0b684) |
-| Sat, 10 May 2025 18:44:28 GMT | The Rise of a Silent Thief: Noodlophile Malware Masquerading as AI Tools | Chetan Seripally | [Read More](https://medium.com/p/7bbbce726c6a) |
