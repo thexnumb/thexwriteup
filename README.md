@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 02:59:16 GMT | The Sacred Slut and the Digital Virgin. How AI Reinforces Our Madonna–Whore Complex | Sarah Elspeth | [Read More](https://medium.com/p/f1ac82068422) |
+| Sun, 11 May 2025 02:50:51 GMT | How I Achieved the AWS Certified Security — Specialty | LtReborn | [Read More](https://medium.com/p/ff92f6ca2831) |
+| Sun, 11 May 2025 02:44:12 GMT | DCSync Attacks: Abusing Replication Rights for Stealthy Domain Dominance | Rushabh Bhutak | [Read More](https://medium.com/p/944df906eb9e) |
+| Sun, 11 May 2025 02:40:27 GMT | $16,000 Bounty: Stored XSS in GitLab | Monika sharma | [Read More](https://medium.com/p/a0f57e5c4245) |
+| Sun, 11 May 2025 02:31:34 GMT | How AI Supercharges Cyber-Physical Systems: Today and Into the Future | Data Defendere | [Read More](https://medium.com/p/a002fb733ffd) |
+| Sun, 11 May 2025 02:30:50 GMT | A Beginner’s Guide to Cloud Migration for Indian Businesses: Why 2025 is the Right Time | Aryan Tech World Pvt. Ltd. | [Read More](https://medium.com/p/fc636e1ac93e) |
+| Sun, 11 May 2025 02:25:20 GMT | Fraud Detection How Data Sciences Protects Your Wallet in Real-Time | Nicholas C. Henry | [Read More](https://medium.com/p/36a6fcee7a4b) |
+| Sun, 11 May 2025 02:25:06 GMT | BG04 — Disrupting the Pupa to Adult Transformation: How to Stop Pests Before They Become Adults | AITA | [Read More](https://medium.com/p/d9bec8af2222) |
+| Sun, 11 May 2025 02:13:35 GMT | How to Enhance Your Web Application Performance with JavaScript Debugging Tools | Mohd | [Read More](https://medium.com/p/7ba3e79caafc) |
+| Sun, 11 May 2025 02:10:40 GMT | Hack The Box — Machine — Strutted Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/aa5db47d0e95) |
+| Sun, 11 May 2025 01:59:02 GMT | Pyramid of Pain THM Practical Example— Walkthrough | Keran Elias | [Read More](https://medium.com/p/b337b9dce1cf) |
+| Sun, 11 May 2025 01:47:18 GMT | Transportation Infrastructure Cybersecurity: Safeguarding Mobility, Ensuring Stability | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/b3c1db2da800) |
+| Sun, 11 May 2025 01:47:06 GMT | Government Operations Cybersecurity: Ensuring Sovereignty in the Digital Age | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/7e9af9789c9c) |
+| Sun, 11 May 2025 01:46:56 GMT | Healthcare Cybersecurity: Preserving Trust, Protecting Lives, Securing Futures | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/89a75502c0fd) |
 | Sun, 11 May 2025 01:32:20 GMT | Silly Doors — Web Challenge | Bedair | [Read More](https://medium.com/p/7b1f4ef382a6) |
 | Sun, 11 May 2025 01:31:33 GMT | The Red Teaming: 30-Day Challenge[27] | Bl@ckC!pH3r | [Read More](https://medium.com/p/8280f7a7074c) |
 | Sun, 11 May 2025 01:25:45 GMT | บันทึกการศึกษาเรื่อง Access Control Concept | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/1c970cae1bd2) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 May 2025 15:16:42 GMT | Supply Chain Attacks: Software Supply Chain Security | Esra Kayhan | [Read More](https://medium.com/p/3a6bb521d391) |
 | Sat, 10 May 2025 15:15:32 GMT | AI systems aren’t secure. | Bushy | [Read More](https://medium.com/p/092d688d9c09) |
 | Sat, 10 May 2025 15:13:12 GMT | Real-time Deepfakes: what if “seeing is believing” no longer means anything? | Adler Medrado | [Read More](https://medium.com/p/a16e4e414e67) |
-| Sat, 10 May 2025 15:06:01 GMT | Security Testing with Breach and Attack Simulation (BAS) Tools: Caldera and Infection Monkey in… | Esra Kayhan | [Read More](https://medium.com/p/a66c88cd9f29) |
-| Sat, 10 May 2025 15:03:55 GMT | BG03 — Disrupting Pest Reproduction: How to Prevent Egg Hatching and Stop the Cycle | AITA | [Read More](https://medium.com/p/92c87a23356c) |
-| Sat, 10 May 2025 15:01:46 GMT | Underpass HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/2bfcd62528ef) |
-| Sat, 10 May 2025 15:01:40 GMT | Underpass— HackTheBox CTF Walkthrough | NTHSec | [Read More](https://medium.com/p/5c51af4c60b6) |
-| Sat, 10 May 2025 15:00:50 GMT | "Midjourney Mastery: Unlocking the Future of AI-Generated Art" | Pavan | [Read More](https://medium.com/p/33c1febe85ef) |
-| Sat, 10 May 2025 14:58:40 GMT | BG02 — The New Evolution of Pest Control: The Revolution of Wave-Based Disabling Technology | AITA | [Read More](https://medium.com/p/e281a8ffa04f) |
-| Sat, 10 May 2025 14:55:42 GMT | Build Your Own AI SOC — Part 2 | Corey Jones | [Read More](https://medium.com/p/7edf9a84282f) |
-| Sat, 10 May 2025 14:55:13 GMT | Linux Fundamentals Part 1 - TryHackMe Writeups - By DESYNC | DESYNC | [Read More](https://medium.com/p/9e6e26901197) |
-| Sat, 10 May 2025 14:51:46 GMT | The Lessons from the Army That Have Shaped My Cybersecurity Mindset | Emmet Field | [Read More](https://medium.com/p/1d0188aabe78) |
-| Sat, 10 May 2025 14:46:22 GMT | BG01 — Waves Turn Insects Into ‘Useless’ Creatures: The Era of Frequencies, Not Chemicals | AITA | [Read More](https://medium.com/p/17e729e4006f) |
-| Sat, 10 May 2025 14:28:51 GMT | “Oops, I Pushed the Secret Key Again!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/db810670e450) |
-| Sat, 10 May 2025 14:21:59 GMT | Robot Guard | Marcus Koehnlein | [Read More](https://medium.com/p/eb1a39c98d44) |
-| Sat, 10 May 2025 14:19:13 GMT | LockBit Ransomware Gang Hacked: Internal Data & Victim Chats Leaked | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/05b1adc7e123) |
-| Sat, 10 May 2025 14:12:15 GMT | Tryhackme - OWASP Top 10–2021 - X — Server-Side Request Forgery (SSRF) - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/1380f176c63e) |
