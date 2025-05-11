@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 15:57:37 GMT | MFA Update OTP Bypass | Md. Abu Rayhan | [Read More](https://medium.com/p/64e2cd1cbe86) |
+| Sun, 11 May 2025 15:53:56 GMT | Mobius Token Exploited for $2.15 Million in Smart Contract Hack on BNB Chain | CyberLucifer | [Read More](https://medium.com/p/82a01215ed29) |
+| Sun, 11 May 2025 15:49:52 GMT | WireTor Mother’s Day Special Offer 50% OFF! | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/f0d1646319e6) |
+| Sun, 11 May 2025 15:46:57 GMT | 10 Ways to Lock Down Your Social Media Like a Digital Fortress | Franz Mckellar | [Read More](https://medium.com/p/589a5bc7d5b2) |
+| Sun, 11 May 2025 15:41:04 GMT | Meta’s AI Glasses: A Privacy Nightmare We Can’t Afford | Dr. Keita Broadwater | [Read More](https://medium.com/p/21e6aa707f86) |
+| Sun, 11 May 2025 15:40:00 GMT | Living Alone Diaries - Vulnerability | ms.giyoh | [Read More](https://medium.com/p/8393030a403f) |
+| Sun, 11 May 2025 15:35:37 GMT | Day 32: OSI & TCP/IP Models — Understand the Layers with Wireshark | Agarwaldaksh | [Read More](https://medium.com/p/08e0a9bbdacd) |
+| Sun, 11 May 2025 15:33:19 GMT | I am new here, feels weird…. | Bernice Rich✨‍♀️ | [Read More](https://medium.com/p/67cf4c35598f) |
 | Sun, 11 May 2025 15:23:16 GMT | Smap Passive Port Scanning Tool | AbhirupKonwar | [Read More](https://medium.com/p/3e2802979dbe) |
 | Sun, 11 May 2025 15:18:50 GMT | The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It | Swarnim Bandekar | [Read More](https://medium.com/p/d73d42d206bc) |
 | Sun, 11 May 2025 15:17:17 GMT | Indian IT-The Way Forward | Vipin Labroo | [Read More](https://medium.com/p/bcf3ecee3d12) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 07:51:27 GMT | Identify common open ports vulnerabilities in your network | Valtlex | [Read More](https://medium.com/p/f19a14826a7e) |
 | Sun, 11 May 2025 07:47:55 GMT | Cerberus e o Abuso de MDM: Lições de um Ataque Real para a Segurança Corporativa | Enzo Miziara | [Read More](https://medium.com/p/9f8983c08d7e) |
 | Sun, 11 May 2025 07:46:13 GMT | Is OffSec Still the Gold Standard? An Honest OSEP and OffSec Review | NyaMeeEain | [Read More](https://medium.com/p/9c2baa70cd9c) |
-| Sun, 11 May 2025 07:23:29 GMT | What Phones Do World Leaders Use? | Typical News Channel | [Read More](https://medium.com/p/a9979684c9e2) |
-| Sun, 11 May 2025 07:10:14 GMT | Preface | Lamyae Elfakir | [Read More](https://medium.com/p/d588e0836901) |
-| Sun, 11 May 2025 07:08:35 GMT | Microsoft Goes Passwordless: What You Need to Know | Pawan Jaiswal | [Read More](https://medium.com/p/cea8b1e8e68f) |
-| Sun, 11 May 2025 06:59:52 GMT | Penetration Testing Course with Certification | cyber security Updates | [Read More](https://medium.com/p/d7ac2d985a6f) |
-| Sun, 11 May 2025 06:53:45 GMT | Confessions of a Bug Bounty Hunter: Tales from the Digital Jungle | Vijay Kumar Gupta | [Read More](https://medium.com/p/892e188bc282) |
-| Sun, 11 May 2025 06:53:30 GMT | MITRE Technique and Detection Opportunities — CVE-2025–31324 — SAP Critical Vulnerability CVSS 10! | MITRE Doggy | [Read More](https://medium.com/p/7f72b8e653a2) |
-| Sun, 11 May 2025 06:38:03 GMT | Securing Kubernetes Workloads with Falco | Vinod Kumar Nair | [Read More](https://medium.com/p/87f5ad1b9e6b) |
-| Sun, 11 May 2025 06:15:01 GMT | The Grid Hacked: Unveiling the Story of a Nation-State Cyber Attack | om sonawane | [Read More](https://medium.com/p/c4e9a53018fe) |
