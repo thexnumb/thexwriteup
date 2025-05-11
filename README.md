@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 18:40:09 GMT | Security Footage | Vaibhavprajapati | [Read More](https://medium.com/p/f7a60afbd8eb) |
+| Sun, 11 May 2025 18:27:36 GMT | The Backdoor You’ll Never Detect…Unless You Do This First | KeyboardSamurai | [Read More](https://medium.com/p/deb8308feb74) |
 | Sun, 11 May 2025 18:24:55 GMT | Fake CAPTCHA Attack on iClicker Exposes Growing Cybersecurity Risks in Education | Chetan Seripally | [Read More](https://medium.com/p/8b590948d01e) |
 | Sun, 11 May 2025 18:21:29 GMT | The Hacker Pathway: My Comeback Story on TryHackMe . . . | Sharzun | [Read More](https://medium.com/p/3de0f50b8455) |
 | Sun, 11 May 2025 18:14:27 GMT | Unauthorized Access to Meta’s Draft Profile Picture Frames: A Bug Bounty Breakdown | Mehak kamra | [Read More](https://medium.com/p/c46f592005dd) |
@@ -20,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 18:07:44 GMT | How to Deal With Broken WordPress Sites After a Plugin Update | Shubradeb | [Read More](https://medium.com/p/e1d8bdd94574) |
 | Sun, 11 May 2025 18:03:02 GMT | How to Google Smarter: Advanced Search Tricks You’ll Actually Use | Irem | [Read More](https://medium.com/p/075f1fdc4a1d) |
 | Sun, 11 May 2025 18:02:52 GMT | IS XAMPP SECURE? | Thecodebasejournal | [Read More](https://medium.com/p/d388afecc626) |
+| Sun, 11 May 2025 17:58:37 GMT | Bulletproof IT Changes: A Comprehensive Framework for Zero-Downtime Implementations | Shahid Sharif | [Read More](https://medium.com/p/8169dee1b909) |
 | Sun, 11 May 2025 17:57:41 GMT | Active Directory Lab | Dito _0xE7 | [Read More](https://medium.com/p/d4f7add0a37b) |
 | Sun, 11 May 2025 17:55:19 GMT | Access control violation detection using Wazuh and OPA | Tsognong Fidèle | [Read More](https://medium.com/p/3bb927861698) |
 | Sun, 11 May 2025 17:54:16 GMT | You’re Already Doing OSINT — You Just Didn’t Know It | Irem | [Read More](https://medium.com/p/ee584729f77b) |
@@ -110,6 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 10:14:20 GMT | Cyber Warfare Explodes: India vs. Pakistan — The Battle Beyond Borders | Everclear International | [Read More](https://medium.com/p/5f2f7c547ef4) |
 | Sun, 11 May 2025 10:08:02 GMT | a love letter to the man i didn’t know i love(d) | Carina Scherer | [Read More](https://medium.com/p/90a92db259e8) |
 | Sun, 11 May 2025 10:05:31 GMT | SS7, Sahte Baz İstasyonları, SMS Swapping ve Sinyal İstihbaratı: Teknik Bir İnceleme | Ahmet Göker | [Read More](https://medium.com/p/883c1d0e74c4) |
-| Sun, 11 May 2025 10:02:28 GMT | TryHackMe - Intro to GraphQL Hacking - WriteUp | Axoloth | [Read More](https://medium.com/p/b4531346425f) |
-| Sun, 11 May 2025 09:59:43 GMT | Role of Drones and Cyber Warfare in the 2025 India-Pakistan Conflict | Mian Shahbaz | [Read More](https://medium.com/p/a3ab078dd99c) |
-| Sun, 11 May 2025 09:56:54 GMT | What is Cyber Security? Types, Importance & Job Profiles | Ankit_Cyber | [Read More](https://medium.com/p/449e69949d39) |
