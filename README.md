@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 07:23:29 GMT | What Phones Do World Leaders Use? | Typical News Channel | [Read More](https://medium.com/p/a9979684c9e2) |
 | Sun, 11 May 2025 07:10:14 GMT | Preface | Lamyae Elfakir | [Read More](https://medium.com/p/d588e0836901) |
+| Sun, 11 May 2025 07:08:35 GMT | Microsoft Goes Passwordless: What You Need to Know | Pawan Jaiswal | [Read More](https://medium.com/p/cea8b1e8e68f) |
 | Sun, 11 May 2025 06:59:52 GMT | Penetration Testing Course with Certification | cyber security Updates | [Read More](https://medium.com/p/d7ac2d985a6f) |
 | Sun, 11 May 2025 06:53:45 GMT | Confessions of a Bug Bounty Hunter: Tales from the Digital Jungle | Vijay Kumar Gupta | [Read More](https://medium.com/p/892e188bc282) |
 | Sun, 11 May 2025 06:53:30 GMT | MITRE Technique and Detection Opportunities — CVE-2025–31324 — SAP Critical Vulnerability CVSS 10! | MITRE Doggy | [Read More](https://medium.com/p/7f72b8e653a2) |
@@ -111,5 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 19:28:19 GMT | Unpacking Falco: A Guide to Mastering Rule Logic | Karlmarx Karunanithi | [Read More](https://medium.com/p/34d89d2ef44d) |
 | Sat, 10 May 2025 19:23:19 GMT | Malicious npm Packages Hit Over 3,200 Cursor Users with Sneaky Backdoor | Farhan Ansari | [Read More](https://medium.com/p/520cd0eda570) |
 | Sat, 10 May 2025 19:17:23 GMT | HTB — UnderPass Write-up | Nikita Astashenko | [Read More](https://medium.com/p/ede7f3fd68cd) |
-| Sat, 10 May 2025 19:14:32 GMT | Comparing Directory Bruteforcing Tools — Once In, Never Out | Strikoder | [Read More](https://medium.com/p/d2da24819bd4) |
-| Sat, 10 May 2025 19:14:03 GMT | Antivirus is Not Dead: Global Endpoint Security Lessons from the Frontlines | Ninza-_-Boi | [Read More](https://medium.com/p/d77ff537f9fb) |
