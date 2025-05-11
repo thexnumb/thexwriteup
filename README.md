@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 12:08:28 GMT | Instagram analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/156ea6b9f897) |
+| Sun, 11 May 2025 12:07:31 GMT | Bug Bounty Race: Exploiting Race Conditions for Infinite Discounts | Aditya Bhatt | [Read More](https://medium.com/p/a2cb2f233804) |
+| Sun, 11 May 2025 12:05:02 GMT | Top Cybersecurity Threats in 2025: Trends & Defense Strategies | Badal Mehra | [Read More](https://medium.com/p/5eb81536b922) |
+| Sun, 11 May 2025 12:02:33 GMT | Can Secure Apps Be Vibe Coded? | Liam Chambers | [Read More](https://medium.com/p/0e961669d832) |
+| Sun, 11 May 2025 12:00:02 GMT | Cyberbullying in India: Legal Remedies, Case Laws, and Protection for Victims | Saurabh Savara | [Read More](https://medium.com/p/5f8bcb3e80a5) |
+| Sun, 11 May 2025 11:50:53 GMT | OtterCookie v4 and the Rising Threat of North Korean Cyber Espionage | CyDhaal | [Read More](https://medium.com/p/ad14ef7ffc5e) |
+| Sun, 11 May 2025 11:49:37 GMT | AI vs AI: The digital battle. | Sri Harsha Kurra | [Read More](https://medium.com/p/dfd49bd0d5ac) |
+| Sun, 11 May 2025 11:45:19 GMT | Moniker Link (CVE-2024–21413)-- Tryhackme -- Cybersecurity 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/e1dbe21d66e6) |
+| Sun, 11 May 2025 11:38:21 GMT | About Me: M. Ahmad Mazen Abushbeika | Ahmed M Shabeika | [Read More](https://medium.com/p/8c4d16e60b68) |
 | Sun, 11 May 2025 11:26:38 GMT | Information disclosure in version control history —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/b9b4dae963f3) |
 | Sun, 11 May 2025 11:25:01 GMT | TryHackMe - Pentesting Fundamentals WriteUp | Amr Eid | [Read More](https://medium.com/p/212d8a68b163) |
+| Sun, 11 May 2025 11:21:55 GMT | Cloudflare Explained in Bengali: ওয়েব স্পিড ও সিকিউরিটির পরিপূর্ণ সমাধান | Md. Sumon | [Read More](https://medium.com/p/de724198dfba) |
 | Sun, 11 May 2025 11:08:07 GMT | security | Uptown Jack | [Read More](https://medium.com/p/9814b519c2ac) |
 | Sun, 11 May 2025 11:06:39 GMT | Why Vulnerability Is the Quiet Superpower We’re All Hiding From | Mr. Wells | [Read More](https://medium.com/p/039dc5587a88) |
 | Sun, 11 May 2025 11:05:33 GMT | OpenAlgo Update — Static IP Compliance, CORS, CSP, and Safer Algo Trading | Rajandran R (Creator - OpenAlgo) | [Read More](https://medium.com/p/2200263f1811) |
@@ -103,13 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sun, 11 May 2025 02:40:27 GMT | $16,000 Bounty: Stored XSS in GitLab | Monika sharma | [Read More](https://medium.com/p/a0f57e5c4245) |
 | Sun, 11 May 2025 02:31:34 GMT | How AI Supercharges Cyber-Physical Systems: Today and Into the Future | Data Defendere | [Read More](https://medium.com/p/a002fb733ffd) |
 | Sun, 11 May 2025 02:30:50 GMT | A Beginner’s Guide to Cloud Migration for Indian Businesses: Why 2025 is the Right Time | Aryan Tech World Pvt. Ltd. | [Read More](https://medium.com/p/fc636e1ac93e) |
-| Sun, 11 May 2025 02:25:20 GMT | Fraud Detection How Data Sciences Protects Your Wallet in Real-Time | Nicholas C. Henry | [Read More](https://medium.com/p/36a6fcee7a4b) |
-| Sun, 11 May 2025 02:25:06 GMT | BG04 — Disrupting the Pupa to Adult Transformation: How to Stop Pests Before They Become Adults | AITA | [Read More](https://medium.com/p/d9bec8af2222) |
-| Sun, 11 May 2025 02:13:35 GMT | How to Enhance Your Web Application Performance with JavaScript Debugging Tools | Mohd | [Read More](https://medium.com/p/7ba3e79caafc) |
-| Sun, 11 May 2025 02:10:40 GMT | Hack The Box — Machine — Strutted Walkthrough (EN) | JPablo13 | [Read More](https://medium.com/p/aa5db47d0e95) |
-| Sun, 11 May 2025 01:59:02 GMT | Pyramid of Pain THM Practical Example— Walkthrough | Keran Elias | [Read More](https://medium.com/p/b337b9dce1cf) |
-| Sun, 11 May 2025 01:47:18 GMT | Transportation Infrastructure Cybersecurity: Safeguarding Mobility, Ensuring Stability | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/b3c1db2da800) |
-| Sun, 11 May 2025 01:47:06 GMT | Government Operations Cybersecurity: Ensuring Sovereignty in the Digital Age | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/7e9af9789c9c) |
-| Sun, 11 May 2025 01:46:56 GMT | Healthcare Cybersecurity: Preserving Trust, Protecting Lives, Securing Futures | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/89a75502c0fd) |
-| Sun, 11 May 2025 01:32:20 GMT | Silly Doors — Web Challenge | Bedair | [Read More](https://medium.com/p/7b1f4ef382a6) |
-| Sun, 11 May 2025 01:31:33 GMT | The Red Teaming: 30-Day Challenge[27] | Bl@ckC!pH3r | [Read More](https://medium.com/p/8280f7a7074c) |
