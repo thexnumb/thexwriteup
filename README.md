@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 11:26:38 GMT | Information disclosure in version control history —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/b9b4dae963f3) |
+| Sun, 11 May 2025 11:25:01 GMT | TryHackMe - Pentesting Fundamentals WriteUp | Amr Eid | [Read More](https://medium.com/p/212d8a68b163) |
+| Sun, 11 May 2025 11:08:07 GMT | security | Uptown Jack | [Read More](https://medium.com/p/9814b519c2ac) |
 | Sun, 11 May 2025 11:06:39 GMT | Why Vulnerability Is the Quiet Superpower We’re All Hiding From | Mr. Wells | [Read More](https://medium.com/p/039dc5587a88) |
+| Sun, 11 May 2025 11:05:33 GMT | OpenAlgo Update — Static IP Compliance, CORS, CSP, and Safer Algo Trading | Rajandran R (Creator - OpenAlgo) | [Read More](https://medium.com/p/2200263f1811) |
 | Sun, 11 May 2025 11:04:33 GMT | 10 Things to Start Your Cybersecurity Career | eNVy | [Read More](https://medium.com/p/5dc5325bc013) |
 | Sun, 11 May 2025 11:02:25 GMT | AI-Powered SOC Systems: The Future of Threat Detection | Esra Kayhan | [Read More](https://medium.com/p/6d023e8da97e) |
 | Sun, 11 May 2025 11:02:25 GMT | SOC Analysts and Machine Learning Fundamentals | Esra Kayhan | [Read More](https://medium.com/p/9e044a99675c) |
@@ -109,7 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sun, 11 May 2025 01:46:56 GMT | Healthcare Cybersecurity: Preserving Trust, Protecting Lives, Securing Futures | Saleh A AbuRumman  M.S. | [Read More](https://medium.com/p/89a75502c0fd) |
 | Sun, 11 May 2025 01:32:20 GMT | Silly Doors — Web Challenge | Bedair | [Read More](https://medium.com/p/7b1f4ef382a6) |
 | Sun, 11 May 2025 01:31:33 GMT | The Red Teaming: 30-Day Challenge[27] | Bl@ckC!pH3r | [Read More](https://medium.com/p/8280f7a7074c) |
-| Sun, 11 May 2025 01:25:45 GMT | บันทึกการศึกษาเรื่อง Access Control Concept | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/1c970cae1bd2) |
-| Sun, 11 May 2025 01:17:37 GMT | learning Apps or Website | Atish lohade | [Read More](https://medium.com/p/6a49df562e30) |
-| Sun, 11 May 2025 01:02:10 GMT | How to Secure a Web Application Safely Behind a Kubernetes Service | Marcus England | [Read More](https://medium.com/p/3e4ffddbd5d6) |
-| Sun, 11 May 2025 00:55:13 GMT | Digital Naivety is Dangerous – A Manifesto for Awareness in the Surveillance Age | Tom | [Read More](https://medium.com/p/e80e1e0f3706) |
