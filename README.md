@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 06:38:03 GMT | Securing Kubernetes Workloads with Falco | Vinod Kumar Nair | [Read More](https://medium.com/p/87f5ad1b9e6b) |
 | Sun, 11 May 2025 06:15:01 GMT | The Grid Hacked: Unveiling the Story of a Nation-State Cyber Attack | om sonawane | [Read More](https://medium.com/p/c4e9a53018fe) |
 | Sun, 11 May 2025 06:04:45 GMT | The CLR Customization Trick That Lets You Run Quasar RAT on Fully Patched Windows 11 Without… | Yua Mikanana | [Read More](https://medium.com/p/206a2f948fed) |
 | Sun, 11 May 2025 06:02:34 GMT | 5 Places XSS Hides in Modern Bootstrap Apps (and How to Find Them) | Abhiram | [Read More](https://medium.com/p/d22ec62c8359) |
@@ -112,4 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 18:54:48 GMT | Cyber Security Risk Management | Tanmay Bhattacharjee | [Read More](https://medium.com/p/b54ced30b7fa) |
 | Sat, 10 May 2025 18:51:55 GMT | Digital Armor: Why Personal OpSec Is Your New Superpower | Joe The OSINT Guy | [Read More](https://medium.com/p/e522e2e0b684) |
 | Sat, 10 May 2025 18:44:28 GMT | The Rise of a Silent Thief: Noodlophile Malware Masquerading as AI Tools | Chetan Seripally | [Read More](https://medium.com/p/7bbbce726c6a) |
-| Sat, 10 May 2025 18:31:04 GMT | Staying Secure: How Often Should You Update Cybersecurity Measures? | IT Pros Management Inc | [Read More](https://medium.com/p/261009ac57ca) |
