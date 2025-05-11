@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 22:34:31 GMT | Quantum Internet: The Unhackable Future of Communication | Daedalus | [Read More](https://medium.com/p/0e88641c3898) |
+| Sun, 11 May 2025 22:31:04 GMT | Tracking App Data Changes with Git During Mobile App Security Review | Arkadiy Litvinenko | [Read More](https://medium.com/p/520af779dd49) |
+| Sun, 11 May 2025 22:30:45 GMT | Reverse Shell Over Ngrok Using Ncat — Windows & Linux Setup Guide | Mr. Torjan Captain | [Read More](https://medium.com/p/6ee35ae05e1c) |
+| Sun, 11 May 2025 22:24:18 GMT | What’s powering your LLM stack — and how resilient is it? | Tal Eliyahu | [Read More](https://medium.com/p/7a3e9507971a) |
+| Sun, 11 May 2025 22:16:43 GMT | (Part 4) — 10 Websites for Cybersecurity Enthusiasts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a8df6465f6d0) |
 | Sun, 11 May 2025 22:04:30 GMT | Big Data and AWS | Brian J Lalla | [Read More](https://medium.com/p/0d5c98fba1ed) |
 | Sun, 11 May 2025 22:00:34 GMT | Real Life Recovery Expert | Jenny Kyle | [Read More](https://medium.com/p/150677277bc3) |
 | Sun, 11 May 2025 21:56:57 GMT | Rethinking Identity Security: Why It’s More Urgent Than Ever | Abhay Kulkarni | [Read More](https://medium.com/p/6e6db56b1041) |
@@ -108,8 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 13:36:29 GMT | Quantum Computing and Post-Quantum Cryptography | Pankaj Kumar Bind | [Read More](https://medium.com/p/41cafb044bf8) |
 | Sun, 11 May 2025 13:33:49 GMT | Why the realme NARZO N61 Might Be the Best Budget Smartphone of 2025 (And Where to Get It) | Techyinsider | [Read More](https://medium.com/p/56c601c0b033) |
 | Sun, 11 May 2025 13:25:54 GMT | APIs Hacking : Exploiting Race Condition 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/e063ea5057cb) |
-| Sun, 11 May 2025 13:18:25 GMT | How Hackers Exploit NoSQL Injections And How to Stop Them | Dhanush N | [Read More](https://medium.com/p/b49611b17aa2) |
-| Sun, 11 May 2025 13:11:33 GMT | Understanding Threats & Mitigations in Agentic AI Systems | Akhil Vakkalanka | [Read More](https://medium.com/p/fcf5c7513df0) |
-| Sun, 11 May 2025 13:02:32 GMT | Overwhelmed by Alerts? Here’s How Brahma Fusion Filters the Noise | Peris.ai Cybersecurity | [Read More](https://medium.com/p/da0505fd09a6) |
-| Sun, 11 May 2025 12:55:49 GMT | Getting LFI: Everything You Need to Know | LFI | [Read More](https://medium.com/p/d6a9c4ac9628) |
-| Sun, 11 May 2025 12:52:34 GMT | Jason Eastman Joins CV5 Capital, Strengthening Leadership in Digital Asset Funds and Cybersecurity | Manish Roshan @Coneberry.com | [Read More](https://medium.com/p/231de097ad87) |
