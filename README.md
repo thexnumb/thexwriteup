@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 10:08:02 GMT | a love letter to the man i didn’t know i love(d) | Carina Scherer | [Read More](https://medium.com/p/90a92db259e8) |
+| Sun, 11 May 2025 10:05:31 GMT | SS7, Sahte Baz İstasyonları, SMS Swapping ve Sinyal İstihbaratı: Teknik Bir İnceleme | Ahmet Göker | [Read More](https://medium.com/p/883c1d0e74c4) |
+| Sun, 11 May 2025 10:02:28 GMT | TryHackMe - Intro to GraphQL Hacking - WriteUp | Axoloth | [Read More](https://medium.com/p/b4531346425f) |
+| Sun, 11 May 2025 09:59:43 GMT | Role of Drones and Cyber Warfare in the 2025 India-Pakistan Conflict | Mian Shahbaz | [Read More](https://medium.com/p/a3ab078dd99c) |
+| Sun, 11 May 2025 09:56:54 GMT | What is Cyber Security? Types, Importance & Job Profiles | Ankit_Cyber | [Read More](https://medium.com/p/449e69949d39) |
+| Sun, 11 May 2025 09:56:42 GMT | GTOOMH; Triggered | cream with shocking soda | [Read More](https://medium.com/p/406b7fd8971a) |
 | Sun, 11 May 2025 09:36:17 GMT | Bypass Fitur Ganti Email via Request API Langsung | FufuFafa | [Read More](https://medium.com/p/fac831a8dc31) |
+| Sun, 11 May 2025 09:31:49 GMT | URL File Attack in Active Directory and Mitigation | Abdus Satter | [Read More](https://medium.com/p/4433e7f946cf) |
 | Sun, 11 May 2025 09:07:12 GMT | Why Web Pentesting +Web Dev Is 2025’s Smartest Career Move for Devs and Cyber Geeks | Inside Garuda | [Read More](https://medium.com/p/c2cc087549cc) |
 | Sun, 11 May 2025 09:05:48 GMT | Careers in Cyber - TryHackME | mahita kodela | [Read More](https://medium.com/p/cade48801831) |
 | Sun, 11 May 2025 09:02:02 GMT | Mr. Robot CTF Walkthrough | Nano | [Read More](https://medium.com/p/78e18adaaa6b) |
@@ -106,10 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 23:22:25 GMT | Building a Cybersecurity Homelab | Kunal Joshi | [Read More](https://medium.com/p/34da7b5e7031) |
 | Sat, 10 May 2025 23:17:05 GMT | When ClickOps Meets DevOps: The Hidden Fault Lines in No‑Code Cloud Pipelines | Godwiniheuwa | [Read More](https://medium.com/p/90eddaef5d95) |
 | Sat, 10 May 2025 22:58:17 GMT | Post‑Quantum Cryptography: Safeguarding the Digital World Beyond Quantum Supremacy | Jay Pandit | [Read More](https://medium.com/p/ced6c2f7df4a) |
-| Sat, 10 May 2025 22:16:37 GMT | Part 3–10 More Must-Know Resources for Researchers | Karthikeyan Nagaraj | [Read More](https://medium.com/p/3f96e27947fa) |
-| Sat, 10 May 2025 22:02:38 GMT | My Files Are Being Touched by Whom? An Easy Guide to Permissions in Windows | The Security Alchemist | [Read More](https://medium.com/p/9bca35536662) |
-| Sat, 10 May 2025 21:55:51 GMT | Process Monitor | Matthew A Smith | [Read More](https://medium.com/p/bdafbc372617) |
-| Sat, 10 May 2025 21:52:28 GMT | SOC Metrics and Objectives — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/94b02368e3b1) |
-| Sat, 10 May 2025 21:51:25 GMT | A Cyber Threat Intelligence Journey — from Hack The Box to Locked Shields | Serdar Gumus | [Read More](https://medium.com/p/dae306d511cb) |
-| Sat, 10 May 2025 21:42:40 GMT | I Got Hired to Hack a Company… So I Delivered Pizza | All in One security | [Read More](https://medium.com/p/fce04cb4f8d7) |
-| Sat, 10 May 2025 21:14:49 GMT | How to Get CEH Certified in 2025: A Step-by-Step Guide | Joanhermann | [Read More](https://medium.com/p/975473921a37) |
