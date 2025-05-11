@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 08:10:40 GMT | ️ A Simple Header, A New Experience — My Clickjacking Discovery. | Naitik Gupta | [Read More](https://medium.com/p/46b5910eb1da) |
+| Sun, 11 May 2025 08:05:22 GMT | Why Cybersecurity Awareness Matters More Than Ever in 2025 | Ddm atiq | [Read More](https://medium.com/p/d34d1f5ae0eb) |
+| Sun, 11 May 2025 08:02:15 GMT | Why Ethical Hacking Is the Future of Digital Defense: A Gen Z Perspective | Shaykhul | [Read More](https://medium.com/p/0b106a265895) |
+| Sun, 11 May 2025 08:02:00 GMT | Offsec →Hutch Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/40da7ee61dac) |
+| Sun, 11 May 2025 08:01:42 GMT | Clickjacking Prevention in Symfony Framework | Pentest_Testing_Corp | [Read More](https://medium.com/p/4e2bd1704a34) |
+| Sun, 11 May 2025 08:00:59 GMT | 5 Security+ Concepts That Every Cybersecurity Professional Must Master in 2025 | Abdul Marrow | [Read More](https://medium.com/p/20b476382f52) |
+| Sun, 11 May 2025 07:59:22 GMT | The Wonderful FN-DSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/085097eb8f99) |
+| Sun, 11 May 2025 07:58:15 GMT | 9.Cybersecurity Evolution: AI Defends the Digital FrontierSpace Tech Expansion: Humanity’s Next… | Maruti | [Read More](https://medium.com/p/900885a4897a) |
+| Sun, 11 May 2025 07:51:27 GMT | Identify common open ports vulnerabilities in your network | Valtlex | [Read More](https://medium.com/p/f19a14826a7e) |
+| Sun, 11 May 2025 07:47:55 GMT | Cerberus e o Abuso de MDM: Lições de um Ataque Real para a Segurança Corporativa | Enzo Miziara | [Read More](https://medium.com/p/9f8983c08d7e) |
+| Sun, 11 May 2025 07:46:13 GMT | Is OffSec Still the Gold Standard? An Honest OSEP and OffSec Review | NyaMeeEain | [Read More](https://medium.com/p/9c2baa70cd9c) |
 | Sun, 11 May 2025 07:23:29 GMT | What Phones Do World Leaders Use? | Typical News Channel | [Read More](https://medium.com/p/a9979684c9e2) |
 | Sun, 11 May 2025 07:10:14 GMT | Preface | Lamyae Elfakir | [Read More](https://medium.com/p/d588e0836901) |
 | Sun, 11 May 2025 07:08:35 GMT | Microsoft Goes Passwordless: What You Need to Know | Pawan Jaiswal | [Read More](https://medium.com/p/cea8b1e8e68f) |
@@ -102,14 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 20:01:22 GMT | Navigating Today’s Tech Challenges: Risks, Trust, and Reliable Solutions | Veridian Tech Solutions By Support.Com | [Read More](https://medium.com/p/b5c4554585a7) |
 | Sat, 10 May 2025 20:00:35 GMT | I Read The AI Revolution in Networking, Cybersecurity, and Emerging Technologies — Here’s What… | NaveeeN Chendra | [Read More](https://medium.com/p/a3b308e46e38) |
 | Sat, 10 May 2025 19:59:37 GMT | Step-by-Step Guide to Acquiring DORK | DORK | [Read More](https://medium.com/p/7cc06ffb2813) |
-| Sat, 10 May 2025 19:52:55 GMT | CYBER THREAT INTELLIGENCE | Mustapha Oluwatobi Isaac | [Read More](https://medium.com/p/87d7f6d68831) |
-| Sat, 10 May 2025 19:51:40 GMT | 3,200+ Developers infected through malicious NPM packages targeting Cursor | CyberLucifer | [Read More](https://medium.com/p/bb4620548954) |
-| Sat, 10 May 2025 19:51:29 GMT | Hacked Through a Shipping Label — Here’s How a Small Business Survived the Unthinkable | Noel | [Read More](https://medium.com/p/b7d9b97003af) |
-| Sat, 10 May 2025 19:51:24 GMT | A Pizza App Hacked a Small Business for $75,000 — Here’s What Went Wrong | Noel | [Read More](https://medium.com/p/736ac6ab9364) |
-| Sat, 10 May 2025 19:48:45 GMT | The Hack That Felt Like a Horror Movie: Inside the 2025 Cyber Nightmare | Noel | [Read More](https://medium.com/p/537edc2e5ad3) |
-| Sat, 10 May 2025 19:48:41 GMT | $9,400 Bounty: XSS in Shopify’s Jamf Pro via Exposed Swagger UI | Monika sharma | [Read More](https://medium.com/p/7b029a4be766) |
-| Sat, 10 May 2025 19:48:33 GMT | Why Your Printer Might Be the Office’s Biggest Snitch (And How to Stop It) | Bl@ckC!pH3r | [Read More](https://medium.com/p/e1b7f425bfb9) |
-| Sat, 10 May 2025 19:35:53 GMT | The Amphibious Vehicle with Interactive AI: Revolutionizing Transportation for Land and Water | Aly | [Read More](https://medium.com/p/adc54e3930f3) |
-| Sat, 10 May 2025 19:28:19 GMT | Unpacking Falco: A Guide to Mastering Rule Logic | Karlmarx Karunanithi | [Read More](https://medium.com/p/34d89d2ef44d) |
-| Sat, 10 May 2025 19:23:19 GMT | Malicious npm Packages Hit Over 3,200 Cursor Users with Sneaky Backdoor | Farhan Ansari | [Read More](https://medium.com/p/520cd0eda570) |
-| Sat, 10 May 2025 19:17:23 GMT | HTB — UnderPass Write-up | Nikita Astashenko | [Read More](https://medium.com/p/ede7f3fd68cd) |
