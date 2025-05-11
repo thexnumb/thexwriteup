@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 18:24:55 GMT | Fake CAPTCHA Attack on iClicker Exposes Growing Cybersecurity Risks in Education | Chetan Seripally | [Read More](https://medium.com/p/8b590948d01e) |
+| Sun, 11 May 2025 18:21:29 GMT | The Hacker Pathway: My Comeback Story on TryHackMe . . . | Sharzun | [Read More](https://medium.com/p/3de0f50b8455) |
+| Sun, 11 May 2025 18:14:27 GMT | Unauthorized Access to Meta’s Draft Profile Picture Frames: A Bug Bounty Breakdown | Mehak kamra | [Read More](https://medium.com/p/c46f592005dd) |
+| Sun, 11 May 2025 18:11:24 GMT | The Core Concepts of Cybersecurity — Explained Simply | Promé | [Read More](https://medium.com/p/a6b684cfd469) |
+| Sun, 11 May 2025 18:08:03 GMT | ️ Secure Programming: Coding with Security in Mind | Williams | [Read More](https://medium.com/p/3d04263e9551) |
+| Sun, 11 May 2025 18:07:44 GMT | How to Deal With Broken WordPress Sites After a Plugin Update | Shubradeb | [Read More](https://medium.com/p/e1d8bdd94574) |
+| Sun, 11 May 2025 18:03:02 GMT | How to Google Smarter: Advanced Search Tricks You’ll Actually Use | Irem | [Read More](https://medium.com/p/075f1fdc4a1d) |
+| Sun, 11 May 2025 18:02:52 GMT | IS XAMPP SECURE? | Thecodebasejournal | [Read More](https://medium.com/p/d388afecc626) |
+| Sun, 11 May 2025 17:57:41 GMT | Active Directory Lab | Dito _0xE7 | [Read More](https://medium.com/p/d4f7add0a37b) |
+| Sun, 11 May 2025 17:55:19 GMT | Access control violation detection using Wazuh and OPA | Tsognong Fidèle | [Read More](https://medium.com/p/3bb927861698) |
+| Sun, 11 May 2025 17:54:16 GMT | You’re Already Doing OSINT — You Just Didn’t Know It | Irem | [Read More](https://medium.com/p/ee584729f77b) |
+| Sun, 11 May 2025 17:40:18 GMT | OWASP Top 10 and the Corresponding Mitigations in Ruby on Rails | Jack Douglas | [Read More](https://medium.com/p/ba8201c2fe9b) |
 | Sun, 11 May 2025 17:37:51 GMT | HackTheBox - ServMon | jniket | [Read More](https://medium.com/p/a55c5a7e9a89) |
 | Sun, 11 May 2025 17:37:42 GMT | Reconstructing Lost Security Footage with Wireshark and ffmpeg: A TryHackMe Walkthrough | Chris Simser | [Read More](https://medium.com/p/3f203657b1fd) |
 | Sun, 11 May 2025 17:27:00 GMT | The Hidden Language: Exploiting GraphQL for Unauthorized Data Dump | Iski | [Read More](https://medium.com/p/8be49f30a005) |
@@ -101,15 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 10:02:28 GMT | TryHackMe - Intro to GraphQL Hacking - WriteUp | Axoloth | [Read More](https://medium.com/p/b4531346425f) |
 | Sun, 11 May 2025 09:59:43 GMT | Role of Drones and Cyber Warfare in the 2025 India-Pakistan Conflict | Mian Shahbaz | [Read More](https://medium.com/p/a3ab078dd99c) |
 | Sun, 11 May 2025 09:56:54 GMT | What is Cyber Security? Types, Importance & Job Profiles | Ankit_Cyber | [Read More](https://medium.com/p/449e69949d39) |
-| Sun, 11 May 2025 09:56:42 GMT | GTOOMH; Triggered | cream with shocking soda | [Read More](https://medium.com/p/406b7fd8971a) |
-| Sun, 11 May 2025 09:36:17 GMT | Bypass Fitur Ganti Email via Request API Langsung | FufuFafa | [Read More](https://medium.com/p/fac831a8dc31) |
-| Sun, 11 May 2025 09:31:49 GMT | URL File Attack in Active Directory and Mitigation | Abdus Satter | [Read More](https://medium.com/p/4433e7f946cf) |
-| Sun, 11 May 2025 09:07:12 GMT | Why Web Pentesting +Web Dev Is 2025’s Smartest Career Move for Devs and Cyber Geeks | Inside Garuda | [Read More](https://medium.com/p/c2cc087549cc) |
-| Sun, 11 May 2025 09:05:48 GMT | Careers in Cyber - TryHackME | mahita kodela | [Read More](https://medium.com/p/cade48801831) |
-| Sun, 11 May 2025 09:02:02 GMT | Mr. Robot CTF Walkthrough | Nano | [Read More](https://medium.com/p/78e18adaaa6b) |
-| Sun, 11 May 2025 09:00:55 GMT | 5 Techniques for Building a Robust Data Pipeline Architecture | Anh Trần Tuấn | [Read More](https://medium.com/p/694782c8187c) |
-| Sun, 11 May 2025 09:00:52 GMT | 5 Techniques for Building a Robust Data Pipeline Architecture | Anh Trần Tuấn | [Read More](https://medium.com/p/9328dbb3289a) |
-| Sun, 11 May 2025 08:59:11 GMT | Cybersecurity on a Shoestring: Protecting Your Organization Without Breaking the Bank | Adefemi Onanuga | [Read More](https://medium.com/p/6cdb291b66eb) |
-| Sun, 11 May 2025 08:50:06 GMT | Mobil Uygulama Güvenliği Neden Önemlidir? | Zeynepazradoygun | [Read More](https://medium.com/p/41912a4d5b60) |
-| Sun, 11 May 2025 08:44:47 GMT | I’m Afraid You’ll Leave — So I Leave First | Sriram Yaladandi | [Read More](https://medium.com/p/1f49d5c8b39e) |
-| Sun, 11 May 2025 08:43:57 GMT | Lattice-Based Cryptography | Jay Pandit | [Read More](https://medium.com/p/456a33facd55) |
