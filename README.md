@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 10:14:20 GMT | Cyber Warfare Explodes: India vs. Pakistan — The Battle Beyond Borders | Everclear International | [Read More](https://medium.com/p/5f2f7c547ef4) |
 | Sun, 11 May 2025 10:08:02 GMT | a love letter to the man i didn’t know i love(d) | Carina Scherer | [Read More](https://medium.com/p/90a92db259e8) |
 | Sun, 11 May 2025 10:05:31 GMT | SS7, Sahte Baz İstasyonları, SMS Swapping ve Sinyal İstihbaratı: Teknik Bir İnceleme | Ahmet Göker | [Read More](https://medium.com/p/883c1d0e74c4) |
 | Sun, 11 May 2025 10:02:28 GMT | TryHackMe - Intro to GraphQL Hacking - WriteUp | Axoloth | [Read More](https://medium.com/p/b4531346425f) |
@@ -112,4 +113,3 @@ Published on… | Subharup Das | [Read More](https://medium.com/p/5ff19ebaeac7) 
 | Sat, 10 May 2025 23:29:57 GMT | BOUNTY Rewards: How to Get Started | BOUNTY | [Read More](https://medium.com/p/0966f8edb160) |
 | Sat, 10 May 2025 23:22:25 GMT | Building a Cybersecurity Homelab | Kunal Joshi | [Read More](https://medium.com/p/34da7b5e7031) |
 | Sat, 10 May 2025 23:17:05 GMT | When ClickOps Meets DevOps: The Hidden Fault Lines in No‑Code Cloud Pipelines | Godwiniheuwa | [Read More](https://medium.com/p/90eddaef5d95) |
-| Sat, 10 May 2025 22:58:17 GMT | Post‑Quantum Cryptography: Safeguarding the Digital World Beyond Quantum Supremacy | Jay Pandit | [Read More](https://medium.com/p/ced6c2f7df4a) |
