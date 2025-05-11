@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 17:04:47 GMT | Chrome Extensions Can Hack You - Cyber Defenders FakeGPT Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/a6d3bb66ebd8) |
+| Sun, 11 May 2025 17:00:21 GMT | LunaFi $LFI: A Smart Way to Maximize Earnings | LFI | [Read More](https://medium.com/p/7c6dda3cf607) |
+| Sun, 11 May 2025 16:48:16 GMT | Free Virtual Private Server for Ethical Hacking: GitHub CodeSpaces | Elmurimi | [Read More](https://medium.com/p/e423f001a79b) |
 | Sun, 11 May 2025 16:37:53 GMT | Building a Secure OTA (“Over-the-Air”) System in React Native | Mattiullah Shahzad | [Read More](https://medium.com/p/912f12e7e6e9) |
 | Sun, 11 May 2025 16:23:52 GMT | ETHLisbon 2025 powered by Lightshift and Encode | Jade Harcourt-Harrison | [Read More](https://medium.com/p/ce529cddc5d1) |
 | Sun, 11 May 2025 15:57:37 GMT | MFA Update OTP Bypass | Md. Abu Rayhan | [Read More](https://medium.com/p/64e2cd1cbe86) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 08:02:00 GMT | Offsec →Hutch Walkthrough | SURAJ -MRX001 | [Read More](https://medium.com/p/40da7ee61dac) |
 | Sun, 11 May 2025 08:01:42 GMT | Clickjacking Prevention in Symfony Framework | Pentest_Testing_Corp | [Read More](https://medium.com/p/4e2bd1704a34) |
 | Sun, 11 May 2025 08:00:59 GMT | 5 Security+ Concepts That Every Cybersecurity Professional Must Master in 2025 | Abdul Marrow | [Read More](https://medium.com/p/20b476382f52) |
-| Sun, 11 May 2025 07:59:22 GMT | The Wonderful FN-DSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/085097eb8f99) |
-| Sun, 11 May 2025 07:58:15 GMT | 9.Cybersecurity Evolution: AI Defends the Digital FrontierSpace Tech Expansion: Humanity’s Next… | Maruti | [Read More](https://medium.com/p/900885a4897a) |
-| Sun, 11 May 2025 07:51:27 GMT | Identify common open ports vulnerabilities in your network | Valtlex | [Read More](https://medium.com/p/f19a14826a7e) |
