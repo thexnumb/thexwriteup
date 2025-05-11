@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 20:02:14 GMT | Mobil Uygulama Güvenliği | Berkay DAĞGÜLÜ | [Read More](https://medium.com/p/7ff5b1ae7ee5) |
+| Sun, 11 May 2025 20:00:43 GMT | LetsDefend — Http Basic Auth Walkthrough | Javier | [Read More](https://medium.com/p/7cbdf7e0293e) |
+| Sun, 11 May 2025 20:00:25 GMT | Mothering Yourself in 2025: Being Vulnerable & Safe | Aviva Perlo, www.creativecoping.us | [Read More](https://medium.com/p/ec32db854019) |
+| Sun, 11 May 2025 19:54:05 GMT | The 2025 CISO Cheat Sheet | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/72065026fa03) |
+| Sun, 11 May 2025 19:44:44 GMT | Hiring for Information Technology Lead in San Francisco, CA | Lesten Gonsalves | [Read More](https://medium.com/p/d4333f88b906) |
+| Sun, 11 May 2025 19:33:26 GMT | What if Europe finally built its own sovereign social platform ?9 | Dumont | [Read More](https://medium.com/p/5bc4e58a91e8) |
 | Sun, 11 May 2025 19:22:03 GMT | Wazuh ile Gerçek Zamanlı Saldırı Tespiti — RDP Brute-Force Senaryosu | Melike Büşra Şener | [Read More](https://medium.com/p/e442d1245a94) |
 | Sun, 11 May 2025 19:16:16 GMT | Knight_dojo CTF Challenge | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/f777454e18d9) |
 | Sun, 11 May 2025 19:02:52 GMT | Reflections on moving towards SaaS. | Tom | [Read More](https://medium.com/p/c7a26cdc6629) |
@@ -107,9 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 11:50:53 GMT | OtterCookie v4 and the Rising Threat of North Korean Cyber Espionage | CyDhaal | [Read More](https://medium.com/p/ad14ef7ffc5e) |
 | Sun, 11 May 2025 11:49:37 GMT | AI vs AI: The digital battle. | Sri Harsha Kurra | [Read More](https://medium.com/p/dfd49bd0d5ac) |
 | Sun, 11 May 2025 11:45:19 GMT | Moniker Link (CVE-2024–21413)-- Tryhackme -- Cybersecurity 101-- | Surbhi_choudhary | [Read More](https://medium.com/p/e1dbe21d66e6) |
-| Sun, 11 May 2025 11:38:21 GMT | About Me: M. Ahmad Mazen Abushbeika | Ahmed M Shabeika | [Read More](https://medium.com/p/8c4d16e60b68) |
-| Sun, 11 May 2025 11:26:38 GMT | Information disclosure in version control history —  Lab Walkthrough ️ | Dev-angelist | [Read More](https://medium.com/p/b9b4dae963f3) |
-| Sun, 11 May 2025 11:25:01 GMT | TryHackMe - Pentesting Fundamentals WriteUp | Amr Eid | [Read More](https://medium.com/p/212d8a68b163) |
-| Sun, 11 May 2025 11:21:55 GMT | Cloudflare Explained in Bengali: ওয়েব স্পিড ও সিকিউরিটির পরিপূর্ণ সমাধান | Md. Sumon | [Read More](https://medium.com/p/de724198dfba) |
-| Sun, 11 May 2025 11:08:07 GMT | security | Uptown Jack | [Read More](https://medium.com/p/9814b519c2ac) |
-| Sun, 11 May 2025 11:06:39 GMT | Why Vulnerability Is the Quiet Superpower We’re All Hiding From | Mr. Wells | [Read More](https://medium.com/p/039dc5587a88) |
