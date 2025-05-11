@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 13:36:29 GMT | Quantum Computing and Post-Quantum Cryptography | Pankaj Kumar Bind | [Read More](https://medium.com/p/41cafb044bf8) |
+| Sun, 11 May 2025 13:25:54 GMT | APIs Hacking : Exploiting Race Condition 101 | Israel Aráoz Severiche | [Read More](https://medium.com/p/e063ea5057cb) |
+| Sun, 11 May 2025 13:18:25 GMT | How Hackers Exploit NoSQL Injections And How to Stop Them | Dhanush N | [Read More](https://medium.com/p/b49611b17aa2) |
 | Sun, 11 May 2025 13:11:33 GMT | Understanding Threats & Mitigations in Agentic AI Systems | Akhil Vakkalanka | [Read More](https://medium.com/p/fcf5c7513df0) |
 | Sun, 11 May 2025 13:02:32 GMT | Overwhelmed by Alerts? Here’s How Brahma Fusion Filters the Noise | Peris.ai Cybersecurity | [Read More](https://medium.com/p/da0505fd09a6) |
 | Sun, 11 May 2025 12:55:49 GMT | Getting LFI: Everything You Need to Know | LFI | [Read More](https://medium.com/p/d6a9c4ac9628) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 03:52:26 GMT | Malicious npm Packages Infect 3,200+ Cursor Users with a Credential-Stealing Backdoor | Cyber-AppSec | [Read More](https://medium.com/p/3264ba690bfa) |
 | Sun, 11 May 2025 03:51:42 GMT | How a StubHub Insider Stole 1,000 Taylor Swift Tickets: A MITRE ATT&CK Analysis | Brittney Ginther | [Read More](https://medium.com/p/ca4c24b19de4) |
 | Sun, 11 May 2025 03:43:24 GMT | API Key Exposure in NASA GitHub Repository Leads to Unauthorized Access to Academic Data | Abhijeet Kumawat | [Read More](https://medium.com/p/816bfb6ffede) |
-| Sun, 11 May 2025 03:42:37 GMT | LIGHT- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/01b4fcb61b58) |
-| Sun, 11 May 2025 03:39:58 GMT | Stack — Buffer Overflow | FieryParks | [Read More](https://medium.com/p/461b7792369b) |
-| Sun, 11 May 2025 03:36:35 GMT | “Oops, I Still Have Access!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/eecadab11fd9) |
