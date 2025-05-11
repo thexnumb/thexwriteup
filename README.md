@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 May 2025 18:56:40 GMT | The Recon Playbook: Finding Hidden Endpoints Like a Pro | Maxwell Cross | [Read More](https://medium.com/p/a48b8dea3d3f) |
+| Sun, 11 May 2025 18:55:35 GMT | Active Directory Lab: Creating Domain users and Attaching a VM to the Domain | Dito _0xE7 | [Read More](https://medium.com/p/00234a998b67) |
+| Sun, 11 May 2025 18:54:04 GMT | Why not object capability languages? | Mike Hearn | [Read More](https://medium.com/p/a8e6cbdf9682) |
+| Sun, 11 May 2025 18:52:35 GMT | I Am Homeless | Metromonk | [Read More](https://medium.com/p/257e94683ecb) |
 | Sun, 11 May 2025 18:40:09 GMT | Security Footage | Vaibhavprajapati | [Read More](https://medium.com/p/f7a60afbd8eb) |
+| Sun, 11 May 2025 18:37:28 GMT | The FBI’s Urgent Router Security Warning: What You Need to Know to Protect Your Network | Chetan Seripally | [Read More](https://medium.com/p/4dcde3dce9ec) |
+| Sun, 11 May 2025 18:35:58 GMT | How I Removed Sensitive Data from Git History - A Real-World Fix | Mario Bignami | [Read More](https://medium.com/p/6a05dab9f884) |
+| Sun, 11 May 2025 18:32:18 GMT | Imposter Army Officer Ashok Kumar exposed By Rajput Haxor aka Rudra Pratap Singh | Rajput Haxor | [Read More](https://medium.com/p/334c6d019466) |
+| Sun, 11 May 2025 18:32:09 GMT | Hashing Basics — Tryhackme Walkthrough | Orgeismail | [Read More](https://medium.com/p/4804cc870f83) |
 | Sun, 11 May 2025 18:27:36 GMT | The Backdoor You’ll Never Detect…Unless You Do This First | KeyboardSamurai | [Read More](https://medium.com/p/deb8308feb74) |
 | Sun, 11 May 2025 18:24:55 GMT | Fake CAPTCHA Attack on iClicker Exposes Growing Cybersecurity Risks in Education | Chetan Seripally | [Read More](https://medium.com/p/8b590948d01e) |
 | Sun, 11 May 2025 18:21:29 GMT | The Hacker Pathway: My Comeback Story on TryHackMe . . . | Sharzun | [Read More](https://medium.com/p/3de0f50b8455) |
@@ -105,11 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 11:05:33 GMT | OpenAlgo Update — Static IP Compliance, CORS, CSP, and Safer Algo Trading | Rajandran R (Creator - OpenAlgo) | [Read More](https://medium.com/p/2200263f1811) |
 | Sun, 11 May 2025 11:04:33 GMT | 10 Things to Start Your Cybersecurity Career | eNVy | [Read More](https://medium.com/p/5dc5325bc013) |
 | Sun, 11 May 2025 11:02:25 GMT | AI-Powered SOC Systems: The Future of Threat Detection | Esra Kayhan | [Read More](https://medium.com/p/6d023e8da97e) |
-| Sun, 11 May 2025 11:02:25 GMT | SOC Analysts and Machine Learning Fundamentals | Esra Kayhan | [Read More](https://medium.com/p/9e044a99675c) |
-| Sun, 11 May 2025 10:58:31 GMT | What Is an AI Agent? How to build AI Agent for Yourself | Nikolay Gul | [Read More](https://medium.com/p/7e87a23ddb7f) |
-| Sun, 11 May 2025 10:54:26 GMT | I Liked the Ones Who Left | Silent Observer | [Read More](https://medium.com/p/409833e10434) |
-| Sun, 11 May 2025 10:48:33 GMT | Introduction to Computer Networking | Mainekdeveloper | [Read More](https://medium.com/p/5b3d29b82a20) |
-| Sun, 11 May 2025 10:36:57 GMT | Misery Loves Company | Lukasz Wierzbicki | [Read More](https://medium.com/p/caa98f426514) |
-| Sun, 11 May 2025 10:14:20 GMT | Cyber Warfare Explodes: India vs. Pakistan — The Battle Beyond Borders | Everclear International | [Read More](https://medium.com/p/5f2f7c547ef4) |
-| Sun, 11 May 2025 10:08:02 GMT | a love letter to the man i didn’t know i love(d) | Carina Scherer | [Read More](https://medium.com/p/90a92db259e8) |
-| Sun, 11 May 2025 10:05:31 GMT | SS7, Sahte Baz İstasyonları, SMS Swapping ve Sinyal İstihbaratı: Teknik Bir İnceleme | Ahmet Göker | [Read More](https://medium.com/p/883c1d0e74c4) |
