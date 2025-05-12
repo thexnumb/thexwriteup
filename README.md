@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 19:57:53 GMT | LockBit Ransomware Gang Hacked: Inside the Leak That Shook the Dark Web | Irem | [Read More](https://medium.com/p/cdcb72f00e12) |
+| Mon, 12 May 2025 19:51:39 GMT | Why I Couldn’t Stay Silent Any Longer | TJ Larson | [Read More](https://medium.com/p/3c1aaaaee56c) |
+| Mon, 12 May 2025 19:48:40 GMT | How WiFi Monitoring Can Improve Network Security | Abdulraheemyoo | [Read More](https://medium.com/p/a70e87fde102) |
+| Mon, 12 May 2025 19:47:06 GMT | Choosing the Right MSP: A Smart Move for Your Business | Donald Betancourt | [Read More](https://medium.com/p/843ee4b214a5) |
+| Mon, 12 May 2025 19:40:21 GMT | ️Web3 Security Weekly Digest — May 5–11, 2025 | Null Return | [Read More](https://medium.com/p/534a45aa7a78) |
+| Mon, 12 May 2025 19:39:16 GMT | Slashing EPA funding may have downstream cybersecurity impacts on an already vulnerable water… | Center for Long-Term Cybersecurity | [Read More](https://medium.com/p/72b46d194239) |
+| Mon, 12 May 2025 19:36:57 GMT | Learning AI as a Cybersecurity Student: A Personal Journey — Day 1 | Arshathhaq | [Read More](https://medium.com/p/7e69d6785deb) |
+| Mon, 12 May 2025 19:33:19 GMT | Advanced Threat Hunting with EDR: Building Custom Detection Rules | ByteSectorX | [Read More](https://medium.com/p/f32dd9bc49f1) |
 | Mon, 12 May 2025 19:20:08 GMT | IAM and Cybersecurity in India: Challenges, Gaps, and the Road Ahead | Manoj Gulahe | [Read More](https://medium.com/p/fee438445a37) |
 | Mon, 12 May 2025 19:14:10 GMT | Cyber Threat Metrics & Global Impact Analysis (2015–2024). | Khairat Olaleye | [Read More](https://medium.com/p/2f47e322eeb2) |
 | Mon, 12 May 2025 19:13:45 GMT | NTFS Steganography: The Art of Data Hiding in File Systems | Dev Sharma | [Read More](https://medium.com/p/72dc161742a1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 14:32:28 GMT | Codexis: Building a Custom GPT Agent to Help Security Teams Create Better Training, Faster | Jay Simmons | [Read More](https://medium.com/p/6d3fb2ec2461) |
 | Mon, 12 May 2025 14:30:19 GMT | Cyber Security in Predictive Maintenance: How CPS is Transforming Industries | Data Defendere | [Read More](https://medium.com/p/380edc8d0369) |
 | Mon, 12 May 2025 14:29:36 GMT | how gen z is disrupting traditional politics in 2025 | S Anuradha | [Read More](https://medium.com/p/98cd91e23aa9) |
-| Mon, 12 May 2025 14:16:54 GMT | ️ Top 25 Most Dangerous Software Weaknesses (CWE) | Shivam Raj | [Read More](https://medium.com/p/91a3e4e58f42) |
-| Mon, 12 May 2025 14:15:06 GMT | TryHackMe MD2PDF Walkthrough/Write-up | Efe | [Read More](https://medium.com/p/7907991d9960) |
-| Mon, 12 May 2025 14:14:13 GMT | Bravo Team: Choreographers of the Invisible War | Nana | [Read More](https://medium.com/p/1f7119293597) |
-| Mon, 12 May 2025 14:12:26 GMT | Navigating Career Changes in IT: Transitioning to New Roles in 2025 | Tasktech Recruiters | [Read More](https://medium.com/p/8c52a3101026) |
-| Mon, 12 May 2025 14:11:49 GMT | Frontend Security 101 | Lil_3omda | [Read More](https://medium.com/p/c5e56a0666a9) |
-| Mon, 12 May 2025 14:11:06 GMT | How to Handle File Uploads with Node.js and Express — Multer Edition | Ionx Solutions | [Read More](https://medium.com/p/1e26b1839213) |
-| Mon, 12 May 2025 14:08:27 GMT | The Human Hack: How Social Engineering Exploits People, Not Firewalls | Brandon Dewater | [Read More](https://medium.com/p/9e075f90af83) |
-| Mon, 12 May 2025 14:02:33 GMT | Talking About What You Want (Sexually) Is Hard | Vixxen | [Read More](https://medium.com/p/ca1a7d714623) |
