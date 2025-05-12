@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 03:09:19 GMT | วิธีทำ 2FA ใน NestJS ด้วย speakeasy ฉบับละเอียดสุดๆ Step-by-Step | Vatcharat R. | [Read More](https://medium.com/p/ceaa41c62268) |
+| Mon, 12 May 2025 03:06:01 GMT | Privacy Act of 1974 | Raviteja Mureboina | [Read More](https://medium.com/p/279918eb0583) |
+| Mon, 12 May 2025 03:05:26 GMT | The Invisible Engine: How AI and Machine Learning are Quietly Driving Digital Transformation All… | Abhishek Kumar | [Read More](https://medium.com/p/8ff186254ce2) |
+| Mon, 12 May 2025 03:03:06 GMT | Conquering the Mr. Robot CTF on TryHackMe | Jonelle Owens | [Read More](https://medium.com/p/c54cde15c512) |
+| Mon, 12 May 2025 03:01:50 GMT | How I Exploited a Low-Level Logic Flaw to Manipulate Product Prices Using Burp Intruder | Bash Overflow | [Read More](https://medium.com/p/64143bee2322) |
+| Mon, 12 May 2025 02:56:49 GMT | RST TI Report Digest: 12 May 2025 | RST Cloud | [Read More](https://medium.com/p/a722a226fd5e) |
+| Mon, 12 May 2025 02:55:35 GMT | XSS attack ကိုဘယ်လိုကာကွယ်မလဲ | Win Linn Aung | [Read More](https://medium.com/p/379a52e154bf) |
+| Mon, 12 May 2025 02:46:08 GMT | What’s the Clothing for a Soul? | Aditya Bhardwaj | [Read More](https://medium.com/p/0b74cc6db05b) |
+| Mon, 12 May 2025 02:38:29 GMT | NIST, ISO, COBIT and the Battle for Relevance | Vishal Kumar | [Read More](https://medium.com/p/ea0348291831) |
+| Mon, 12 May 2025 02:38:11 GMT | Template Report Bug Bounty (Bahasa Indonesia) | Ikhlasul | [Read More](https://medium.com/p/d3ad2f9d84ee) |
+| Mon, 12 May 2025 02:19:34 GMT | LetsDefend — Investigate Web Attack Walkthrough | Javier | [Read More](https://medium.com/p/a53773f43c10) |
+| Mon, 12 May 2025 02:09:09 GMT | LetsDefend SOC104 EventID:36 — Malware Detected — Walkthrough | Harris Zumoh | [Read More](https://medium.com/p/64735793c9b4) |
+| Mon, 12 May 2025 02:01:12 GMT | Security Robots Comparison | Marcus Koehnlein | [Read More](https://medium.com/p/411ad2ebe4b6) |
+| Mon, 12 May 2025 01:50:52 GMT | GenLayer: Infrastruktur Otak Dunia untuk AI dan Blockchain | Ching | [Read More](https://medium.com/p/a7a05decf582) |
+| Mon, 12 May 2025 01:50:46 GMT | Meta concerns in ML security/privacy | Supasan Muanjit | [Read More](https://medium.com/p/df3871d510e5) |
+| Mon, 12 May 2025 01:42:24 GMT | The Red Teaming: 30-Day Challenge[28] | Bl@ckC!pH3r | [Read More](https://medium.com/p/afa2f7ef2eda) |
 | Mon, 12 May 2025 01:41:22 GMT | $25,000 SSRF in HackerOne’s Analytics Reports | Monika sharma | [Read More](https://medium.com/p/b9a5b3aa3d6e) |
 | Mon, 12 May 2025 01:41:18 GMT | Sleepwalking Botnets Are Real — and They’re Coming for Your Business | Noel | [Read More](https://medium.com/p/a59f747bde55) |
 | Mon, 12 May 2025 01:41:13 GMT | The $45,000 Vacuum Cleaner That Hacked a Business | Noel | [Read More](https://medium.com/p/edb087f19dbc) |
@@ -97,19 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 16:37:53 GMT | Building a Secure OTA (“Over-the-Air”) System in React Native | Mattiullah Shahzad | [Read More](https://medium.com/p/912f12e7e6e9) |
 | Sun, 11 May 2025 16:23:52 GMT | ETHLisbon 2025 powered by Lightshift and Encode | Jade Harcourt-Harrison | [Read More](https://medium.com/p/ce529cddc5d1) |
 | Sun, 11 May 2025 15:57:37 GMT | MFA Update OTP Bypass | Md. Abu Rayhan | [Read More](https://medium.com/p/64e2cd1cbe86) |
-| Sun, 11 May 2025 15:53:56 GMT | Mobius Token Exploited for $2.15 Million in Smart Contract Hack on BNB Chain | CyberLucifer | [Read More](https://medium.com/p/82a01215ed29) |
-| Sun, 11 May 2025 15:49:52 GMT | WireTor Mother’s Day Special Offer 50% OFF! | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/f0d1646319e6) |
-| Sun, 11 May 2025 15:46:57 GMT | 10 Ways to Lock Down Your Social Media Like a Digital Fortress | Franz Mckellar | [Read More](https://medium.com/p/589a5bc7d5b2) |
-| Sun, 11 May 2025 15:41:04 GMT | Meta’s AI Glasses: A Privacy Nightmare We Can’t Afford | Dr. Keita Broadwater | [Read More](https://medium.com/p/21e6aa707f86) |
-| Sun, 11 May 2025 15:40:00 GMT | Living Alone Diaries - Vulnerability | ms.giyoh | [Read More](https://medium.com/p/8393030a403f) |
-| Sun, 11 May 2025 15:35:37 GMT | Day 32: OSI & TCP/IP Models — Understand the Layers with Wireshark | Agarwaldaksh | [Read More](https://medium.com/p/08e0a9bbdacd) |
-| Sun, 11 May 2025 15:33:19 GMT | I am new here, feels weird…. | Bernice Rich✨‍♀️ | [Read More](https://medium.com/p/67cf4c35598f) |
-| Sun, 11 May 2025 15:23:16 GMT | Smap Passive Port Scanning Tool | AbhirupKonwar | [Read More](https://medium.com/p/3e2802979dbe) |
-| Sun, 11 May 2025 15:18:50 GMT | The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It | Swarnim Bandekar | [Read More](https://medium.com/p/d73d42d206bc) |
-| Sun, 11 May 2025 15:17:17 GMT | Indian IT-The Way Forward | Vipin Labroo | [Read More](https://medium.com/p/bcf3ecee3d12) |
-| Sun, 11 May 2025 15:02:46 GMT | Confidential AI with LLMs: Building a Secure RAG Pipeline | Ouarda FENEK | [Read More](https://medium.com/p/dc72365a2c6b) |
-| Sun, 11 May 2025 15:01:34 GMT | Day 123 of 1000 – LiveGood 1000-Day Challenge | LiveGood Js | [Read More](https://medium.com/p/d20411e4db2c) |
-| Sun, 11 May 2025 14:54:49 GMT | cybersecurity | Asim | [Read More](https://medium.com/p/d4fbf0116263) |
-| Sun, 11 May 2025 14:52:22 GMT | Retracted - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/365482ff8317) |
-| Sun, 11 May 2025 14:42:56 GMT | Cracks in the Castle: Your Beginner’s Guide to Vulnerability Assessment and Management | Owais Mohammad | [Read More](https://medium.com/p/c91aec701fff) |
-| Sun, 11 May 2025 14:42:53 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/676e3c4cd67d) |
