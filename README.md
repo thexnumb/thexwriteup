@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 21:24:07 GMT | Unauthenticated Cache Purging Vulnerability | 00xdata | [Read More](https://medium.com/p/29f2641fcbb8) |
+| Mon, 12 May 2025 21:22:42 GMT | ️ Protect What Matters Most – Before It’s Too Late | Mubashir Hussain | [Read More](https://medium.com/p/e8c83dda14a3) |
 | Mon, 12 May 2025 21:10:43 GMT | To migrate to the Rujira token (RUJI) via the Rujira Alliance merger, follow these key steps: | Rujitoken | [Read More](https://medium.com/p/848512624188) |
 | Mon, 12 May 2025 21:03:43 GMT | Who is Cyberthinks? My Story as a Young Ethical Hacker | Vishesh Dhiman | [Read More](https://medium.com/p/493725ee68ed) |
 | Mon, 12 May 2025 20:57:47 GMT | How to Turn LunaFi $LFI into Your Most Profitable Investment | LFI | [Read More](https://medium.com/p/a2b86ef92913) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 14:56:43 GMT | What Security Managers Don’t Know About Microsoft Azure (But Should) | Everton Araújo | [Read More](https://medium.com/p/1beecd888416) |
 | Mon, 12 May 2025 14:49:34 GMT | Why Everyone’s Suddenly an “AI Expert” — And Why That’s a Little Concerning | satyaranjan bal | [Read More](https://medium.com/p/439037ede7a5) |
 | Mon, 12 May 2025 14:49:08 GMT | The Cybersecurity Escape Room: Every Mistake I Made in My First Job | Vijay Kumar Gupta | [Read More](https://medium.com/p/edee5430548a) |
-| Mon, 12 May 2025 14:48:44 GMT | Leveraging NICE Framework Tools for Transparent Hiring | Kyla Saylor | [Read More](https://medium.com/p/9beb13e8ee4f) |
-| Mon, 12 May 2025 14:46:49 GMT | Understanding Wireless Security: WEP, WPA & WPA2 Explained | 0b1d1 | [Read More](https://medium.com/p/004b936c6546) |
