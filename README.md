@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 18:19:21 GMT | Fighting Financial Fraud and Inequality with AI: My Journey in Applied Research | Md Tanvir Rahman | [Read More](https://medium.com/p/6ec81ab21716) |
+| Mon, 12 May 2025 18:15:14 GMT | Tryhackme : Security Footage Oda Çözümü | yigitsarioglu | [Read More](https://medium.com/p/46b822aa0a66) |
+| Mon, 12 May 2025 18:12:34 GMT | Why ‘Just Finishing Tasks’ Is Killing Your Career Growth | Jaya Vishwakarma | [Read More](https://medium.com/p/09ecd8b14ae5) |
+| Mon, 12 May 2025 18:11:21 GMT | Entry #60 | O.J. Whiskey | [Read More](https://medium.com/p/eaee7198de28) |
+| Mon, 12 May 2025 18:04:58 GMT | HTB — Escape Write-up | Nikita Astashenko | [Read More](https://medium.com/p/b0caad2d8f7c) |
+| Mon, 12 May 2025 17:58:50 GMT | DPAPI Blob Hunting | Tom O'Neill | [Read More](https://medium.com/p/967d2baead6a) |
+| Mon, 12 May 2025 17:57:41 GMT | The No-Bull Guide to Safer Internet Browsing | O. J. Okpabi | [Read More](https://medium.com/p/319f0d5698d2) |
+| Mon, 12 May 2025 17:56:13 GMT | Installation, Set-Up and doing Dynamic Analysis and Static analysis using mobsf | Kennedymutugi | [Read More](https://medium.com/p/920690991a68) |
+| Mon, 12 May 2025 17:53:24 GMT | Why Rainbow Secure is perfect fit for businesses that want secure access control without heavy IT… | Dr. Shashi Karhail | [Read More](https://medium.com/p/816d95831c44) |
+| Mon, 12 May 2025 17:39:57 GMT | LetsDefend — SpiceRAT (Medium) | Mateo Pappa | [Read More](https://medium.com/p/881a474c0982) |
+| Mon, 12 May 2025 17:39:05 GMT | The Hidden Loneliness of Modern Men ‍♂️ | Abdul Sajith | [Read More](https://medium.com/p/fd5615b2caf1) |
 | Mon, 12 May 2025 17:38:09 GMT | Why Your Business Needs Data Loss Prevention Services Today | SafeAeon Inc. | [Read More](https://medium.com/p/fe7e8d5f99ad) |
 | Mon, 12 May 2025 17:37:59 GMT | CTF Write-up: YaraWizards (Certified Cyber Defenders | itsGir | [Read More](https://medium.com/p/6854d0fa4fa6) |
 | Mon, 12 May 2025 17:34:51 GMT | iHeartMedia Data Breach Exposes Sensitive Personal Information of Radio Listeners | LegalNewsbyDave | [Read More](https://medium.com/p/7f798377b9a0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 13:31:04 GMT | Command Injections: Introduction & Exploitation | Onur Bilici | [Read More](https://medium.com/p/5e40482e9c28) |
 | Mon, 12 May 2025 13:27:11 GMT | Tree dalam Python | fijrisalwa | [Read More](https://medium.com/p/573326b39f12) |
 | Mon, 12 May 2025 13:23:35 GMT | Web Security Merdeka Siber Write up | Defen | [Read More](https://medium.com/p/8b57d42869ac) |
-| Mon, 12 May 2025 13:19:37 GMT | From Access Control to Guardrails: How to Build Safe and Compliant GenAI Apps with AWS Bedrock | Sampathkumarbasa | [Read More](https://medium.com/p/c8e3b532d83f) |
-| Mon, 12 May 2025 13:18:07 GMT | Exploit Unleashed: Inside the Apache Parquet CVE-2025–30065 Vulnerability | Technijian | [Read More](https://medium.com/p/99adc24cb1dc) |
-| Mon, 12 May 2025 13:17:12 GMT | Git-Based Risk Assessments | Amine Raji | [Read More](https://medium.com/p/47120a016722) |
-| Mon, 12 May 2025 13:16:36 GMT | BehindTheScreens: Ransomware Leaks, Rogue AI Agents, and the Rise of Cyber Retaliation | Sam Achek | [Read More](https://medium.com/p/12b3a9fc4ee5) |
-| Mon, 12 May 2025 13:15:15 GMT | Mastering Linux Commands for Ethical Hacking: A Practical Guide for Real-World OffSec | YoungerSibling | [Read More](https://medium.com/p/f0d09d62a814) |
-| Mon, 12 May 2025 13:13:41 GMT | From PyCon Estonia Speaker to Patchstack Innovator: Rashmi Nagpal | Python Estonia | [Read More](https://medium.com/p/716a39f7be66) |
-| Mon, 12 May 2025 13:11:20 GMT | SOC Analyst: The Frontline Defender of Cybersecurity | Cybernous Infosec consulting | [Read More](https://medium.com/p/5d486164cd6d) |
-| Mon, 12 May 2025 13:10:57 GMT | Top 5 vulnerability testing companies in the USA | OptiSol Business Solutions | [Read More](https://medium.com/p/f651b5a87963) |
-| Mon, 12 May 2025 13:09:47 GMT | Hindsight Accountability: Deterring the Gaming of Regulations | Jean Czerlinski Whitmore Ortega | [Read More](https://medium.com/p/2ccdc800db09) |
-| Mon, 12 May 2025 13:02:31 GMT | TryHackMe: Intro to Digital Forensics — Room Completion Summary | Jonelle Owens | [Read More](https://medium.com/p/ccfd43a10f89) |
-| Mon, 12 May 2025 13:02:27 GMT | 5 Emerging Cybersecurity Threats Enterprises Can’t Afford to Ignore | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9d575926e75c) |
