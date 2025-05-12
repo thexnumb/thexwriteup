@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 23:32:27 GMT | This One Grammar Mistake Is Why Your Board Doesn’t Trust Your Security Reports | Lee Barney | [Read More](https://medium.com/p/8e5298a6d671) |
 | Mon, 12 May 2025 23:17:53 GMT | Security in APIs and Microservices: an essential pillar of Software Quality | Marcelo Esperandio Lucio | [Read More](https://medium.com/p/71667dcb869a) |
+| Mon, 12 May 2025 23:11:12 GMT | What do one’s past choices look like when seen through the eyes of the present? | Vuotosiderale | [Read More](https://medium.com/p/13804659b69d) |
 | Mon, 12 May 2025 23:05:06 GMT | THM: Blue | RedHatReed | [Read More](https://medium.com/p/f36063438d85) |
 | Mon, 12 May 2025 23:02:51 GMT | Part 1: How to Become a Pentester in 2025: Free & Affordable Online Labs | Anezaneo | [Read More](https://medium.com/p/940b6bf8061c) |
 | Mon, 12 May 2025 22:55:23 GMT | Threat Modeling a Batch Job System on AWS ~ Video and Slides | Teri Radichel | [Read More](https://medium.com/p/3f3c26dd31d8) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 16:03:34 GMT | ASUS Patches Critical DriverHub Flaws: A One-Click RCE Nightmare | Ismail Tasdelen | [Read More](https://medium.com/p/8d8bdc3f6710) |
 | Mon, 12 May 2025 16:03:06 GMT | Why Generative AI Lessons Should be Put in to School Curriculum | Sarah Eshun | [Read More](https://medium.com/p/22a550560f64) |
 | Mon, 12 May 2025 16:02:31 GMT | Part 1: Python Foothold via Macros, HTA, and ISOs | Maxwell Cross | [Read More](https://medium.com/p/05cd56f98b0e) |
-| Mon, 12 May 2025 16:02:28 GMT | Django REST Framework: Authentication & Permissions | Michal Dróżdż | [Read More](https://medium.com/p/5b81da9d0364) |
-| Mon, 12 May 2025 16:02:27 GMT | Security Footage THM - Writeup | Domon | [Read More](https://medium.com/p/307b852514de) |
