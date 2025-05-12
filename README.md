@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 22:33:36 GMT | Mixed Feelings | Peas | [Read More](https://medium.com/p/5feb810f2cd4) |
+| Mon, 12 May 2025 22:24:23 GMT | Full Moon In Scorpio during Pluto retrogade | M8L4MU53 | [Read More](https://medium.com/p/ce54c2afc330) |
+| Mon, 12 May 2025 22:24:12 GMT | Privacy-Preserving Computation | Mi'kail Eli'yah | [Read More](https://medium.com/p/d1c53afa81a8) |
+| Mon, 12 May 2025 22:16:57 GMT | RECOVERY OF STOLEN COINS WITH CRYPTO PANDEMIC HUNTER | Christopher Renee | [Read More](https://medium.com/p/bb33f2597e0b) |
+| Mon, 12 May 2025 22:16:26 GMT | DNS Spoofing: What It Is and How to Defend Against It | Karthikeyan Nagaraj | [Read More](https://medium.com/p/77be6e1af9e4) |
 | Mon, 12 May 2025 21:53:02 GMT | Process Hypnosis Injection Technique | S12 - H4CK | [Read More](https://medium.com/p/58e9901ae2cc) |
 | Mon, 12 May 2025 21:38:12 GMT | Top 5 Takeaways for CISOs from RSAC 2025: AI Security in Focus | Mike Pearl | [Read More](https://medium.com/p/019489c3a439) |
 | Mon, 12 May 2025 21:37:44 GMT | Cyberthinks — My Cybersecurity Journey at 18 | Vishesh Dhiman | [Read More](https://medium.com/p/96b0602e13ed) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 15:39:50 GMT | I Passed the CKA and Created a Free Kubernetes Lab Book With 20+ Exam-Style Scenarios | DevOpsDynamo | [Read More](https://medium.com/p/93277a14dd62) |
 | Mon, 12 May 2025 15:34:11 GMT | Windows Fundamentals 1 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/8f7aff4db4d7) |
 | Mon, 12 May 2025 15:28:41 GMT | Google to Pay $1.375 Billion in Historic Texas Data Privacy Settlement | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/cb091508c9d1) |
-| Mon, 12 May 2025 15:20:18 GMT | The Journey from Obscurity to Tech Empire: My Comeback | Vedant Jha | [Read More](https://medium.com/p/0eca35f1e30c) |
-| Mon, 12 May 2025 15:13:12 GMT | Day 33: Understanding How Devices Communicate on the Internet | Agarwaldaksh | [Read More](https://medium.com/p/69d1efcb5d40) |
-| Mon, 12 May 2025 15:08:22 GMT | Master CRLF Injection: The Underrated Bug with Dangerous Potential | coffinxp | [Read More](https://medium.com/p/33bb0d62e031) |
-| Mon, 12 May 2025 15:04:36 GMT | TryHackMe Windows Command Line | thecaesar | [Read More](https://medium.com/p/34fdb6ed18b1) |
-| Mon, 12 May 2025 15:04:28 GMT | Abu Dhabi Launches Quantum-Resistant Blockchain to Secure Future Digital Infrastructure | MG Singh | [Read More](https://medium.com/p/f724ba79e4a4) |
