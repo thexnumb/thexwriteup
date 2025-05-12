@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 13:27:11 GMT | Tree dalam Python | fijrisalwa | [Read More](https://medium.com/p/573326b39f12) |
+| Mon, 12 May 2025 13:23:35 GMT | Web Security Merdeka Siber Write up | Defen | [Read More](https://medium.com/p/8b57d42869ac) |
+| Mon, 12 May 2025 13:19:37 GMT | From Access Control to Guardrails: How to Build Safe and Compliant GenAI Apps with AWS Bedrock | Sampathkumarbasa | [Read More](https://medium.com/p/c8e3b532d83f) |
+| Mon, 12 May 2025 13:18:07 GMT | Exploit Unleashed: Inside the Apache Parquet CVE-2025–30065 Vulnerability | Technijian | [Read More](https://medium.com/p/99adc24cb1dc) |
+| Mon, 12 May 2025 13:17:12 GMT | Git-Based Risk Assessments | Amine Raji | [Read More](https://medium.com/p/47120a016722) |
+| Mon, 12 May 2025 13:16:36 GMT | BehindTheScreens: Ransomware Leaks, Rogue AI Agents, and the Rise of Cyber Retaliation | Sam Achek | [Read More](https://medium.com/p/12b3a9fc4ee5) |
+| Mon, 12 May 2025 13:15:15 GMT | Mastering Linux Commands for Ethical Hacking: A Practical Guide for Real-World OffSec | YoungerSibling | [Read More](https://medium.com/p/f0d09d62a814) |
+| Mon, 12 May 2025 13:13:41 GMT | From PyCon Estonia Speaker to Patchstack Innovator: Rashmi Nagpal | Python Estonia | [Read More](https://medium.com/p/716a39f7be66) |
+| Mon, 12 May 2025 13:11:20 GMT | SOC Analyst: The Frontline Defender of Cybersecurity | Cybernous Infosec consulting | [Read More](https://medium.com/p/5d486164cd6d) |
+| Mon, 12 May 2025 13:10:57 GMT | Top 5 vulnerability testing companies in the USA | OptiSol Business Solutions | [Read More](https://medium.com/p/f651b5a87963) |
+| Mon, 12 May 2025 13:09:47 GMT | Hindsight Accountability: Deterring the Gaming of Regulations | Jean Czerlinski Whitmore Ortega | [Read More](https://medium.com/p/2ccdc800db09) |
+| Mon, 12 May 2025 13:02:31 GMT | TryHackMe: Intro to Digital Forensics — Room Completion Summary | Jonelle Owens | [Read More](https://medium.com/p/ccfd43a10f89) |
+| Mon, 12 May 2025 13:02:27 GMT | 5 Emerging Cybersecurity Threats Enterprises Can’t Afford to Ignore | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9d575926e75c) |
+| Mon, 12 May 2025 12:57:21 GMT | How to Set Up AWS WAF in 2025 (5 Minute Guide) | Alex Arancio | [Read More](https://medium.com/p/82b7ad2cc1d9) |
+| Mon, 12 May 2025 12:55:34 GMT | Basic Linux Commands I Use In My Digital Forensics Investigation | AJAK Cyber Academy | [Read More](https://medium.com/p/2e233d119b17) |
+| Mon, 12 May 2025 12:51:20 GMT | When Turning the Other Cheek Meets a World on Fire | Author Kristine Benevento | [Read More](https://medium.com/p/34176611c589) |
+| Mon, 12 May 2025 12:38:38 GMT | When Obfuscation Fails and Simplicity Wins: How Clean Code Silently Slipped Past EDR | Yaniv Azran | [Read More](https://medium.com/p/81663d8b7d7f) |
 | Mon, 12 May 2025 12:37:26 GMT | Tracking Vulnerability Burndown in Container Images for RMF | Dale Bingham | [Read More](https://medium.com/p/7d9c07e2e739) |
 | Mon, 12 May 2025 12:33:27 GMT | How I Find Open Redirect Bugs Using Waybackurls, Gau & GF Tool | Ch4ndan das | [Read More](https://medium.com/p/64ac3dcb9aa0) |
 | Mon, 12 May 2025 12:32:27 GMT | Demystifying mTLS: How Mutual TLS Protects Microservices — With a Real-Life Analogy | Haneelkumarnagineni | [Read More](https://medium.com/p/513b37f78925) |
+| Mon, 12 May 2025 12:31:57 GMT | Intercept phone’s traffic in burp (using actual phone) | Ozz | [Read More](https://medium.com/p/ca46317add92) |
 | Mon, 12 May 2025 12:31:24 GMT | The Distinction Between Red Teaming and Penetration Testing | Oshada Rashmika | [Read More](https://medium.com/p/f24fcaa06b52) |
 | Mon, 12 May 2025 12:29:38 GMT | Scan Smart, Stay Secure: Your Comprehensive Guide to QR Code Safety | Ol Iv | [Read More](https://medium.com/p/fa352e38c478) |
 | Mon, 12 May 2025 12:29:12 GMT | Kioptrix: Level 1 Walkthrough | Mohamedghareeb | [Read More](https://medium.com/p/cfc981c8a809) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 09:15:05 GMT | From HTTP to HTTPS | Sandun jayawardhana | [Read More](https://medium.com/p/9ea615ed480c) |
 | Mon, 12 May 2025 09:12:44 GMT | Security Robot as a Service | Dr. Tillmann Lauk | [Read More](https://medium.com/p/bfbd9290c4cb) |
 | Mon, 12 May 2025 09:11:42 GMT | The Adventures of Techy Teddybear: Cybersecurity and Online Safety… | Fatima Zahra | [Read More](https://medium.com/p/302a4be133ae) |
-| Mon, 12 May 2025 09:10:37 GMT | OAuth 2: Explained Simply | Said Lfagrouche | [Read More](https://medium.com/p/da3fb81d6687) |
-| Mon, 12 May 2025 09:09:10 GMT | The Hacker’s Code | Medium Daily Reward | [Read More](https://medium.com/p/e4ffa198f28f) |
-| Mon, 12 May 2025 09:06:03 GMT | Secure 5G Networks with O-RAN Architecture: Benefits, Security Standards | Dilip Rajpurohit | [Read More](https://medium.com/p/65de501b0cf7) |
-| Mon, 12 May 2025 09:05:50 GMT | Quantifying Security: KPIs for Protection and Business Impact | SecOps | [Read More](https://medium.com/p/b5dcf9c7005c) |
-| Mon, 12 May 2025 09:03:14 GMT | How to Select a Reliable Security Company in Singapore? | Jane Tang | [Read More](https://medium.com/p/3eca0791114c) |
-| Mon, 12 May 2025 08:55:51 GMT | SOC Insights with Python: A Noob’s Path from Data to Detection | Yogesh Singh | [Read More](https://medium.com/p/d80aa67aaf62) |
-| Mon, 12 May 2025 08:51:16 GMT | Showhe Crumbling Fortress | Tales of Nyx | [Read More](https://medium.com/p/662181bbffd3) |
-| Mon, 12 May 2025 08:49:28 GMT | The Future of Military Drones: Market Growth, Trends and Technological Innovations | Peter fernandas | [Read More](https://medium.com/p/9ccdcbaf3919) |
-| Mon, 12 May 2025 08:43:06 GMT | Measuring What Truly Enhances Safety and Enables Operations | Rahala Insights | [Read More](https://medium.com/p/5c525a4190db) |
-| Mon, 12 May 2025 08:42:52 GMT | Gift 4000 USDT Blockchain Trc20 ( Okx wallet -Safepal wallet) | Miya clark | [Read More](https://medium.com/p/0bb6de26625f) |
-| Mon, 12 May 2025 08:31:00 GMT | Securing Tomorrow: A Leadership View on Emerging Tech Risks. | Sanjay K Mohindroo | [Read More](https://medium.com/p/2201cd086ea5) |
-| Mon, 12 May 2025 08:21:25 GMT | ESET NOD32 Antivirus: A Comprehensive Guide to Features, Editions, and Benefits | Said Mo | [Read More](https://medium.com/p/6add5e766a5c) |
-| Mon, 12 May 2025 08:19:27 GMT | Security and reliability | José Vicente del Valle Fayos | [Read More](https://medium.com/p/8b23c3e91cfc) |
-| Mon, 12 May 2025 08:18:46 GMT | ️ Hunting IDOR: A Deep Dive into Insecure Direct Object References | Shah kaif | [Read More](https://medium.com/p/b550a9f77333) |
-| Mon, 12 May 2025 08:18:28 GMT | PipeMagic trojan: A case study in advanced threats | hide.me VPN | [Read More](https://medium.com/p/0b07a411fe5f) |
-| Mon, 12 May 2025 08:18:09 GMT | Operation Cloud Spy: Uncovering AWS IAM Roles Without Logging In | Menelik | [Read More](https://medium.com/p/4b96b0fcd939) |
-| Mon, 12 May 2025 08:14:35 GMT | ️ Understanding Software Patches, Their Types, and How Vendors Determine the Severity | Mohana Reddy | [Read More](https://medium.com/p/5150918ffeb2) |
-| Mon, 12 May 2025 08:10:54 GMT | Digital Forensics and Cyber War: The Invisible Battlefield | LumenXo Inc. | [Read More](https://medium.com/p/8bbc30e5ef0b) |
