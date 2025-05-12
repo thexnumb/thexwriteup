@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 08:19:27 GMT | Security and reliability | José Vicente del Valle Fayos | [Read More](https://medium.com/p/8b23c3e91cfc) |
+| Mon, 12 May 2025 08:18:46 GMT | ️ Hunting IDOR: A Deep Dive into Insecure Direct Object References | Shah kaif | [Read More](https://medium.com/p/b550a9f77333) |
+| Mon, 12 May 2025 08:18:28 GMT | PipeMagic trojan: A case study in advanced threats | hide.me VPN | [Read More](https://medium.com/p/0b07a411fe5f) |
+| Mon, 12 May 2025 08:18:09 GMT | Operation Cloud Spy: Uncovering AWS IAM Roles Without Logging In | Menelik | [Read More](https://medium.com/p/4b96b0fcd939) |
+| Mon, 12 May 2025 08:14:35 GMT | ️ Understanding Software Patches, Their Types, and How Vendors Determine the Severity | Mohana Reddy | [Read More](https://medium.com/p/5150918ffeb2) |
+| Mon, 12 May 2025 08:10:54 GMT | Digital Forensics and Cyber War: The Invisible Battlefield | LumenXo Inc. | [Read More](https://medium.com/p/8bbc30e5ef0b) |
+| Mon, 12 May 2025 08:10:42 GMT | The Heart Heals Slowly, Like Skin Without a Bandage | Substance M | [Read More](https://medium.com/p/ef612c578aa1) |
+| Mon, 12 May 2025 08:08:00 GMT | Spyware: The Silent Threat Lurking Behind Every Click | TheReviewHive | [Read More](https://medium.com/p/5ade379d6b63) |
+| Mon, 12 May 2025 08:07:05 GMT | how I bypassed KYC with deepfake – full process | F0xD0x | [Read More](https://medium.com/p/f0cefa067b84) |
+| Mon, 12 May 2025 08:04:15 GMT | SameSite? SameMess: How I Bypassed Cookie Protections to Hijack Sessions ️‍♂️ | Iski | [Read More](https://medium.com/p/20520f4be7ec) |
+| Mon, 12 May 2025 08:02:54 GMT | How Security Teams Mislead Developers — And What to Do About It | Sajidur Rahman | [Read More](https://medium.com/p/f75f63773598) |
+| Mon, 12 May 2025 07:46:16 GMT | Phishing in 2025: Smarter Attacks, Smarter Defenses | FACE Prep Campus | [Read More](https://medium.com/p/560358201d6a) |
+| Mon, 12 May 2025 07:39:49 GMT | Is it really Crypto safe? | MR. CIP | [Read More](https://medium.com/p/f43d93727c06) |
 | Mon, 12 May 2025 07:34:05 GMT | XSS Part — 14 : Reflected XSS into HTML context with all tags blocked except custom ones | Ahmad Sopyan | [Read More](https://medium.com/p/3b69cd2053f6) |
+| Mon, 12 May 2025 07:29:28 GMT | The 4.0 Soldier: how defence structures can leverage narrative psychometrics to counter emotional… | Gabriel Cojocaru | [Read More](https://medium.com/p/6232e6ed4388) |
+| Mon, 12 May 2025 07:28:37 GMT | What is Web Application Security? | cyber security Updates | [Read More](https://medium.com/p/0d8bce7a861b) |
 | Mon, 12 May 2025 07:25:10 GMT | Scam and fraud in Telegram: what you need to know | Inside Pro – Earn and Grow on TG | [Read More](https://medium.com/p/0bc91b37f463) |
 | Mon, 12 May 2025 07:20:58 GMT | HIPAA Security Rule: Are You Compliant or at Risk? | SecureSlate | [Read More](https://medium.com/p/f56127d6483d) |
 | Mon, 12 May 2025 07:14:07 GMT | Launching an Apache web server with Auto Scaling in AWS | Hendersonerik | [Read More](https://medium.com/p/1d48800b2d86) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 02:38:11 GMT | Template Report Bug Bounty (Bahasa Indonesia) | Ikhlasul | [Read More](https://medium.com/p/d3ad2f9d84ee) |
 | Mon, 12 May 2025 02:19:34 GMT | LetsDefend — Investigate Web Attack Walkthrough | Javier | [Read More](https://medium.com/p/a53773f43c10) |
 | Mon, 12 May 2025 02:09:09 GMT | LetsDefend SOC104 EventID:36 — Malware Detected — Walkthrough | Harris Zumoh | [Read More](https://medium.com/p/64735793c9b4) |
-| Mon, 12 May 2025 02:01:12 GMT | Security Robots Comparison | Marcus Koehnlein | [Read More](https://medium.com/p/411ad2ebe4b6) |
-| Mon, 12 May 2025 01:50:52 GMT | GenLayer: Infrastruktur Otak Dunia untuk AI dan Blockchain | Ching | [Read More](https://medium.com/p/a7a05decf582) |
-| Mon, 12 May 2025 01:50:46 GMT | Meta concerns in ML security/privacy | Supasan Muanjit | [Read More](https://medium.com/p/df3871d510e5) |
-| Mon, 12 May 2025 01:42:24 GMT | The Red Teaming: 30-Day Challenge[28] | Bl@ckC!pH3r | [Read More](https://medium.com/p/afa2f7ef2eda) |
-| Mon, 12 May 2025 01:41:22 GMT | $25,000 SSRF in HackerOne’s Analytics Reports | Monika sharma | [Read More](https://medium.com/p/b9a5b3aa3d6e) |
-| Mon, 12 May 2025 01:41:18 GMT | Sleepwalking Botnets Are Real — and They’re Coming for Your Business | Noel | [Read More](https://medium.com/p/a59f747bde55) |
-| Mon, 12 May 2025 01:41:13 GMT | The $45,000 Vacuum Cleaner That Hacked a Business | Noel | [Read More](https://medium.com/p/edb087f19dbc) |
-| Mon, 12 May 2025 01:41:10 GMT | The Drone That Took Down a $1M Business: A 2025 Cybersecurity Nightmare | Noel | [Read More](https://medium.com/p/23e529d1ad43) |
-| Mon, 12 May 2025 01:36:44 GMT | Multivariate Polynomial Cryptography: Quadratic Equations vs. Quantum Computers | Jay Pandit | [Read More](https://medium.com/p/54912a559016) |
-| Mon, 12 May 2025 01:31:44 GMT | How I Solved a Server-Side Template Injection Challenge (picoCTF Write-up) | 00xtrkh | [Read More](https://medium.com/p/d8bda172a440) |
-| Mon, 12 May 2025 01:26:18 GMT | The Ultimate Guide to OWASP Top Ten Security Risks | deepak katara | [Read More](https://medium.com/p/f05d756869dc) |
-| Mon, 12 May 2025 01:09:13 GMT | The Fears of Friendship: | Jophiel J | [Read More](https://medium.com/p/1ec216a054a9) |
-| Mon, 12 May 2025 01:09:01 GMT | Why Making Quick Reference Guides in Cybersecurity Is Necessary | Zavier Chambers | [Read More](https://medium.com/p/3b790847a6df) |
-| Mon, 12 May 2025 00:59:44 GMT | Vulnerability Assessment and Penetration Testing of a Deliberately Vulnerable | Amirul Afiq | [Read More](https://medium.com/p/6376d80a83f6) |
-| Mon, 12 May 2025 00:49:45 GMT | สรุปการศึกษาเรื่อง Security Principles | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/8745e387b800) |
