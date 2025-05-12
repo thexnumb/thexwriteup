@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 05:39:09 GMT | The Art of Exploitation: Metasploit’s Role in Modern Cyber Warfare | Adhvaidhwila | [Read More](https://medium.com/p/33913155daa8) |
+| Mon, 12 May 2025 05:36:30 GMT | Top 5 Cybersecurity Tools for Small Businesses | is*hosting | [Read More](https://medium.com/p/eceeba0be39f) |
+| Mon, 12 May 2025 05:36:26 GMT | How to Host a Static Website Using Amazon S3 (Step-by-Step) | Abdisamad Yusuf | [Read More](https://medium.com/p/85d480d676b9) |
+| Mon, 12 May 2025 05:35:23 GMT | How to Start a Career in Cybersecurity with No Experience | Shamsul Anam Emon | [Read More](https://medium.com/p/c1910086d316) |
+| Mon, 12 May 2025 05:34:35 GMT | What is a Botnet, and How Does It Work? | Hamza Hanif | [Read More](https://medium.com/p/b1b796eab47c) |
+| Mon, 12 May 2025 05:34:21 GMT | What is DevOps? A Beginner’s Guide | Rohith Remesh | [Read More](https://medium.com/p/6ed335a68f00) |
+| Mon, 12 May 2025 05:33:58 GMT | In the ever-evolving landscape of cybersecurity, traditional measures often fall short when it… | Sagar Jain | [Read More](https://medium.com/p/0c6298f662f7) |
+| Mon, 12 May 2025 05:29:04 GMT | Shift Left with AI, Part 2: When Agents Act, Identity Must Lead | David Canellos | [Read More](https://medium.com/p/a61fbc29591c) |
+| Mon, 12 May 2025 05:23:20 GMT | HIPAA Compliance for Healthtech Success A Snarky Builder’s Guide to Not Getting Sued | Levitation Infotech | [Read More](https://medium.com/p/870f98151bcb) |
+| Mon, 12 May 2025 05:20:27 GMT | AI in Cybersecurity: Your Shield Against Tomorrow’s Threats | Tejash Kumar | [Read More](https://medium.com/p/7228f9dbf412) |
+| Mon, 12 May 2025 05:12:29 GMT | Quantum Key Distribution (QKD): Securing Secrets with Single Photons | Jay Pandit | [Read More](https://medium.com/p/77904a59a428) |
+| Mon, 12 May 2025 05:10:57 GMT | (Behind Closed Doors) | Norman | [Read More](https://medium.com/p/2dd4f2513d35) |
 | Mon, 12 May 2025 05:05:24 GMT | Guarding the Human Element: Identity, Culture, and the Coming Directions of Access Governance | Vivian O | [Read More](https://medium.com/p/cae939678823) |
 | Mon, 12 May 2025 05:03:45 GMT | Is Your Physical Security Strategy Still Relevant in 2025? | Lona Dsouza | [Read More](https://medium.com/p/cec709b445a8) |
 | Mon, 12 May 2025 04:54:37 GMT | How to Build a Custom Netcat with Python | Muhammad Abdullahi | [Read More](https://medium.com/p/685ebd97bd14) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 20:00:43 GMT | LetsDefend — Http Basic Auth Walkthrough | Javier | [Read More](https://medium.com/p/7cbdf7e0293e) |
 | Sun, 11 May 2025 20:00:25 GMT | Mothering Yourself in 2025: Being Vulnerable & Safe | Aviva Perlo, www.creativecoping.us | [Read More](https://medium.com/p/ec32db854019) |
 | Sun, 11 May 2025 19:54:05 GMT | The 2025 CISO Cheat Sheet | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/72065026fa03) |
-| Sun, 11 May 2025 19:44:44 GMT | Hiring for Information Technology Lead in San Francisco, CA | Lesten Gonsalves | [Read More](https://medium.com/p/d4333f88b906) |
-| Sun, 11 May 2025 19:33:26 GMT | What if Europe finally built its own sovereign social platform ?9 | Dumont | [Read More](https://medium.com/p/5bc4e58a91e8) |
-| Sun, 11 May 2025 19:22:03 GMT | Wazuh ile Gerçek Zamanlı Saldırı Tespiti — RDP Brute-Force Senaryosu | Melike Büşra Şener | [Read More](https://medium.com/p/e442d1245a94) |
-| Sun, 11 May 2025 19:16:16 GMT | Knight_dojo CTF Challenge | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/f777454e18d9) |
-| Sun, 11 May 2025 19:02:52 GMT | Reflections on moving towards SaaS. | Tom | [Read More](https://medium.com/p/c7a26cdc6629) |
-| Sun, 11 May 2025 18:56:40 GMT | The Recon Playbook: Finding Hidden Endpoints Like a Pro | Maxwell Cross | [Read More](https://medium.com/p/a48b8dea3d3f) |
-| Sun, 11 May 2025 18:55:35 GMT | Active Directory Lab: Creating Domain users and Attaching a VM to the Domain | Dito _0xE7 | [Read More](https://medium.com/p/00234a998b67) |
-| Sun, 11 May 2025 18:54:04 GMT | Why not object capability languages? | Mike Hearn | [Read More](https://medium.com/p/a8e6cbdf9682) |
-| Sun, 11 May 2025 18:52:35 GMT | I Am Homeless | Metromonk | [Read More](https://medium.com/p/257e94683ecb) |
-| Sun, 11 May 2025 18:40:09 GMT | Security Footage | Vaibhavprajapati | [Read More](https://medium.com/p/f7a60afbd8eb) |
-| Sun, 11 May 2025 18:37:28 GMT | The FBI’s Urgent Router Security Warning: What You Need to Know to Protect Your Network | Chetan Seripally | [Read More](https://medium.com/p/4dcde3dce9ec) |
-| Sun, 11 May 2025 18:35:58 GMT | How I Removed Sensitive Data from Git History - A Real-World Fix | Mario Bignami | [Read More](https://medium.com/p/6a05dab9f884) |
