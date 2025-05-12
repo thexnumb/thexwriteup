@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 07:14:07 GMT | Launching an Apache web server with Auto Scaling in AWS | Hendersonerik | [Read More](https://medium.com/p/1d48800b2d86) |
+| Mon, 12 May 2025 07:11:57 GMT | I’ve Been Hacked—Again: A Decade of Digital Intrusion and Paranoia Turned Proof | Jared Weisinger | [Read More](https://medium.com/p/d142171ee81b) |
+| Mon, 12 May 2025 07:11:04 GMT | Antivirus vs. EDR: The New Age of Digital Defense | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/17d2a71d69c5) |
+| Mon, 12 May 2025 07:06:44 GMT | What is the Python Programming Language? A Beginner Guide | Ankit_Cyber | [Read More](https://medium.com/p/93f53e17ec55) |
+| Mon, 12 May 2025 07:04:00 GMT | From Message to Malware: The Modern Malware Hunt | Abhijith A | [Read More](https://medium.com/p/249add43ff5b) |
+| Mon, 12 May 2025 07:02:28 GMT | Don’t Hit the Snooze Button: It’s Time to Rethink Certificate Management | GlobalSign | [Read More](https://medium.com/p/88e46a57a4c6) |
+| Mon, 12 May 2025 07:02:28 GMT | Lab Guide: Blind SQL Injection with Time Delays and Information Retrieval | Meni Tasa | [Read More](https://medium.com/p/ac2b0b2e7d57) |
+| Mon, 12 May 2025 06:55:25 GMT | This Red Teaming Tools can make you a pro Hacker. | Rishav anand | [Read More](https://medium.com/p/69b5f60fd735) |
+| Mon, 12 May 2025 06:41:47 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2a78dfa4c76b) |
+| Mon, 12 May 2025 06:40:40 GMT | LockBit Gets Hacked: Cybercriminals Taste Their Own Medicine | TECHi | [Read More](https://medium.com/p/69b6f4047702) |
 | Mon, 12 May 2025 06:22:43 GMT | LlamaFirewall: Building Guardrails for Autonomous AI Agents in an Agentic World | Sai Krishna Reddy Mudhiganti | [Read More](https://medium.com/p/c6fdc34b9df6) |
 | Mon, 12 May 2025 06:21:37 GMT | Vulnerability Management — Nessus Scanner | whoami | [Read More](https://medium.com/p/d809b99e3a26) |
 | Mon, 12 May 2025 06:21:27 GMT | UnderPass — HackTheBox Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/5fb10f1e3cbb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 00:14:29 GMT | Where Is the Justice for the Heart? | disisnabzz | [Read More](https://medium.com/p/0eb2556674b3) |
 | Sun, 11 May 2025 23:56:52 GMT | How Ethical Hackers Find and Exploit Security Flaws | Sohampawar | [Read More](https://medium.com/p/726eaeaf28e0) |
 | Sun, 11 May 2025 23:39:38 GMT | Orlando’s Urban Expansion Drives Demand for Network Infrastructure, IT Services and Cybersecurity | Alexandre Acioli Alves | [Read More](https://medium.com/p/73dfbdb73b69) |
-| Sun, 11 May 2025 23:32:27 GMT | Red Team Concepts by Mr. David | Darshan Naresh Naik | [Read More](https://medium.com/p/5650776fd778) |
-| Sun, 11 May 2025 23:17:59 GMT | Authorization Bypass Through HTTP Response Manipulation | OctaYus | [Read More](https://medium.com/p/00e318a5b722) |
-| Sun, 11 May 2025 23:17:27 GMT | What is Cybersecurity? What are its Types and its Advantages? | Samridhi | [Read More](https://medium.com/p/c20f5275877c) |
-| Sun, 11 May 2025 23:02:28 GMT | LetsDefend — VoIP Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/97a6639ffabe) |
-| Sun, 11 May 2025 22:56:47 GMT | Cybersecurity Import/Export Regulations | Raviteja Mureboina | [Read More](https://medium.com/p/2a776db37320) |
-| Sun, 11 May 2025 22:34:31 GMT | Quantum Internet: The Unhackable Future of Communication | Daedalus | [Read More](https://medium.com/p/0e88641c3898) |
-| Sun, 11 May 2025 22:32:26 GMT | RELEVANT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/a928d49becb4) |
-| Sun, 11 May 2025 22:31:04 GMT | Tracking App Data Changes with Git During Mobile App Security Review | Arkadiy Litvinenko | [Read More](https://medium.com/p/520af779dd49) |
-| Sun, 11 May 2025 22:30:45 GMT | Reverse Shell Over Ngrok Using Ncat — Windows & Linux Setup Guide | Mr. Torjan Captain | [Read More](https://medium.com/p/6ee35ae05e1c) |
-| Sun, 11 May 2025 22:24:18 GMT | What’s powering your LLM stack — and how resilient is it? | Tal Eliyahu | [Read More](https://medium.com/p/7a3e9507971a) |
