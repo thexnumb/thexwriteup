@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 05:05:24 GMT | Guarding the Human Element: Identity, Culture, and the Coming Directions of Access Governance | Vivian O | [Read More](https://medium.com/p/cae939678823) |
+| Mon, 12 May 2025 05:03:45 GMT | Is Your Physical Security Strategy Still Relevant in 2025? | Lona Dsouza | [Read More](https://medium.com/p/cec709b445a8) |
+| Mon, 12 May 2025 04:54:37 GMT | How to Build a Custom Netcat with Python | Muhammad Abdullahi | [Read More](https://medium.com/p/685ebd97bd14) |
+| Mon, 12 May 2025 04:54:33 GMT | “I’ll let you be in my dreams if I can be in yours.” — Bob Dylan | Allison | [Read More](https://medium.com/p/b1b1c4d25fd6) |
+| Mon, 12 May 2025 04:52:31 GMT | TryHackMe Logless Hunt: Complete Guide to Incident Response & Threat Hunting | Visir | [Read More](https://medium.com/p/1c2054674c3e) |
+| Mon, 12 May 2025 04:52:28 GMT | How I Earned $200 From a Simple EXIF Bug (Step by Step Guide, You Can Use Today) | BugBounty University | [Read More](https://medium.com/p/c71dc2d82389) |
+| Mon, 12 May 2025 04:51:25 GMT | OSEP Exam Review & Prep Guide 2025 — My Road to OffSec Experienced Penetration Tester | Anezaneo | [Read More](https://medium.com/p/ea7eaeac61fa) |
+| Mon, 12 May 2025 04:51:03 GMT | How I Found SSTI in a Search Bar | Umanhonlen Gabriel | [Read More](https://medium.com/p/6fede0d3263c) |
+| Mon, 12 May 2025 04:48:05 GMT | You should stop using these passwords right away!! | Pranav Bhardwaj | [Read More](https://medium.com/p/ff52fbfc4653) |
+| Mon, 12 May 2025 04:45:57 GMT | Secure the Vibe. | MS | [Read More](https://medium.com/p/2b03b8eb95a9) |
+| Mon, 12 May 2025 04:43:32 GMT | API Security #1: Understanding BOLA — The Most Common Yet Overlooked Threat | Ferizco | [Read More](https://medium.com/p/705e0bb9cd07) |
 | Mon, 12 May 2025 04:43:08 GMT | Beyond the Breach: How SMBs Can Outsmart Ransomware in 2025 | Ignatius Gigis | [Read More](https://medium.com/p/2f9c395a55a3) |
 | Mon, 12 May 2025 04:38:43 GMT | Network Analysis Tools That Actually Make Your Life Easier (Not Harder) | Bl@ckC!pH3r | [Read More](https://medium.com/p/cec5a4e51ce0) |
 | Mon, 12 May 2025 04:36:01 GMT | Investigate Web Attack walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/12aeacab638c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 18:40:09 GMT | Security Footage | Vaibhavprajapati | [Read More](https://medium.com/p/f7a60afbd8eb) |
 | Sun, 11 May 2025 18:37:28 GMT | The FBI’s Urgent Router Security Warning: What You Need to Know to Protect Your Network | Chetan Seripally | [Read More](https://medium.com/p/4dcde3dce9ec) |
 | Sun, 11 May 2025 18:35:58 GMT | How I Removed Sensitive Data from Git History - A Real-World Fix | Mario Bignami | [Read More](https://medium.com/p/6a05dab9f884) |
-| Sun, 11 May 2025 18:32:18 GMT | Imposter Army Officer Ashok Kumar exposed By Rajput Haxor aka Rudra Pratap Singh | Rajput Haxor | [Read More](https://medium.com/p/334c6d019466) |
-| Sun, 11 May 2025 18:32:09 GMT | Hashing Basics — Tryhackme Walkthrough | Orgeismail | [Read More](https://medium.com/p/4804cc870f83) |
-| Sun, 11 May 2025 18:27:36 GMT | The Backdoor You’ll Never Detect…Unless You Do This First | KeyboardSamurai | [Read More](https://medium.com/p/deb8308feb74) |
-| Sun, 11 May 2025 18:24:55 GMT | Fake CAPTCHA Attack on iClicker Exposes Growing Cybersecurity Risks in Education | Chetan Seripally | [Read More](https://medium.com/p/8b590948d01e) |
-| Sun, 11 May 2025 18:21:29 GMT | The Hacker Pathway: My Comeback Story on TryHackMe . . . | Sharzun | [Read More](https://medium.com/p/3de0f50b8455) |
-| Sun, 11 May 2025 18:14:27 GMT | Unauthorized Access to Meta’s Draft Profile Picture Frames: A Bug Bounty Breakdown | Mehak kamra | [Read More](https://medium.com/p/c46f592005dd) |
-| Sun, 11 May 2025 18:11:24 GMT | The Core Concepts of Cybersecurity — Explained Simply | Promé | [Read More](https://medium.com/p/a6b684cfd469) |
-| Sun, 11 May 2025 18:08:03 GMT | ️ Secure Programming: Coding with Security in Mind | Williams | [Read More](https://medium.com/p/3d04263e9551) |
-| Sun, 11 May 2025 18:07:44 GMT | How to Deal With Broken WordPress Sites After a Plugin Update | Shubradeb | [Read More](https://medium.com/p/e1d8bdd94574) |
-| Sun, 11 May 2025 18:03:02 GMT | How to Google Smarter: Advanced Search Tricks You’ll Actually Use | Irem | [Read More](https://medium.com/p/075f1fdc4a1d) |
-| Sun, 11 May 2025 18:02:52 GMT | IS XAMPP SECURE? | Thecodebasejournal | [Read More](https://medium.com/p/d388afecc626) |
