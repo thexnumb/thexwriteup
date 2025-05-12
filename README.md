@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 16:19:17 GMT | Windows Fundamentals 2 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/9b73c6390cc4) |
+| Mon, 12 May 2025 16:19:06 GMT | Uploading Files to Google Cloud Storage (GCS) Using the gsutil Command-Line Tool | Asmitha | [Read More](https://medium.com/p/71bca0a2b731) |
+| Mon, 12 May 2025 16:18:00 GMT | Weird Leak? Favicon Caching Might Be Exposing You | An0n | [Read More](https://medium.com/p/ebefcce7a2c8) |
+| Mon, 12 May 2025 16:17:54 GMT | Public Key Infrastructure (PKI) | Hasindu Nagolla | [Read More](https://medium.com/p/ee09fd6b8d06) |
+| Mon, 12 May 2025 16:15:40 GMT | False Positive vs False Negative — Explained Simply | Ravindra Dagale | [Read More](https://medium.com/p/007825aeb72d) |
+| Mon, 12 May 2025 16:03:34 GMT | ASUS Patches Critical DriverHub Flaws: A One-Click RCE Nightmare | Ismail Tasdelen | [Read More](https://medium.com/p/8d8bdc3f6710) |
+| Mon, 12 May 2025 16:03:06 GMT | Why Generative AI Lessons Should be Put in to School Curriculum | Sarah Eshun | [Read More](https://medium.com/p/22a550560f64) |
+| Mon, 12 May 2025 16:02:31 GMT | Part 1: Python Foothold via Macros, HTA, and ISOs | Maxwell Cross | [Read More](https://medium.com/p/05cd56f98b0e) |
+| Mon, 12 May 2025 16:02:28 GMT | Django REST Framework: Authentication & Permissions | Michal Dróżdż | [Read More](https://medium.com/p/5b81da9d0364) |
+| Mon, 12 May 2025 16:02:27 GMT | Security Footage THM - Writeup | Domon | [Read More](https://medium.com/p/307b852514de) |
+| Mon, 12 May 2025 16:01:36 GMT | CROSS SITE FLASHING[XSF] | pyrg0x00 | [Read More](https://medium.com/p/41b41a9d8791) |
+| Mon, 12 May 2025 16:01:25 GMT | Common Active Directory Attacks  found on the OSCP+ | Raymond Van Wart | [Read More](https://medium.com/p/6556ec312bf2) |
+| Mon, 12 May 2025 15:59:39 GMT | The Persistence Problem: Why Exposed Credentials Linger Like Uninvited Guests ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/708d50f36209) |
+| Mon, 12 May 2025 15:59:36 GMT | BitFx reviews | Lewis Kelly | [Read More](https://medium.com/p/b92df9bc73a3) |
+| Mon, 12 May 2025 15:50:26 GMT | Why Penetration Testing Matters for Your Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/f2fb310276ef) |
 | Mon, 12 May 2025 15:39:50 GMT | I Passed the CKA and Created a Free Kubernetes Lab Book With 20+ Exam-Style Scenarios | DevOpsDynamo | [Read More](https://medium.com/p/93277a14dd62) |
 | Mon, 12 May 2025 15:34:11 GMT | Windows Fundamentals 1 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/8f7aff4db4d7) |
 | Mon, 12 May 2025 15:28:41 GMT | Google to Pay $1.375 Billion in Historic Texas Data Privacy Settlement | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/cb091508c9d1) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 11:59:18 GMT | After Hours Security Services: Keeping Your Property Safe When It Matters Most | Ava Levi | [Read More](https://medium.com/p/d35a1bff18fe) |
 | Mon, 12 May 2025 11:48:57 GMT | How kube-score Helped Me Harden My Node JS Application Deployment | Chetan Bothra | [Read More](https://medium.com/p/13e54a46205e) |
 | Mon, 12 May 2025 11:46:20 GMT | DORK $DORK: The Key to Unlocking Bigger Earnings | DORK | [Read More](https://medium.com/p/cde8084ad49d) |
-| Mon, 12 May 2025 11:42:52 GMT | Vaka Şablonları ile Güvenlik Olayı Yanıt Süresini Azaltın | Perform Yazılım | [Read More](https://medium.com/p/7ba6f13b14b6) |
-| Mon, 12 May 2025 11:33:14 GMT | 21 AI Tools for Any Purpose — Your Complete Stack for 2025 | Generative AI | [Read More](https://medium.com/p/109f9b47c175) |
-| Mon, 12 May 2025 11:30:53 GMT | [Incident Response] HTTP Beaconing Detection — A Realistic SOC Simulation in a Banking Environment | Terence Imoma | [Read More](https://medium.com/p/011cd74e4b05) |
-| Mon, 12 May 2025 11:29:21 GMT | Overcoming BGP Limitations on MultipleAzure ExpressRoute with GRE Tunnels | Massimo Grassi | [Read More](https://medium.com/p/362bbc2fcd02) |
-| Mon, 12 May 2025 11:26:13 GMT | How can I reclaim my money from Bitharbour ? | James Wilcox | [Read More](https://medium.com/p/574955795733) |
-| Mon, 12 May 2025 11:25:03 GMT | Researcher Yuvi — My Cybersecurity Journey at 16 | Yuvraj Gupta | [Read More](https://medium.com/p/ab4e2bb10a97) |
-| Mon, 12 May 2025 11:23:15 GMT | What should I do to recover my money from Bitharbour ? | James Wilcox | [Read More](https://medium.com/p/66c9833c18d9) |
-| Mon, 12 May 2025 11:20:06 GMT | $12,000 RCE in GitLab: Arbitrary File Overwrite via Path Injection | Monika sharma | [Read More](https://medium.com/p/35443b6602df) |
-| Mon, 12 May 2025 11:19:40 GMT | The Dangers of Always-On Bluetooth in Company-Issued Devices | Bl@ckC!pH3r | [Read More](https://medium.com/p/a92f422b020e) |
-| Mon, 12 May 2025 11:12:20 GMT | Financia futures reviews | Kendra | [Read More](https://medium.com/p/9616959c33f2) |
-| Mon, 12 May 2025 11:09:42 GMT | Explore Top Higher Education Institutions in Australia — Unlock Your Future! | royalinternational | [Read More](https://medium.com/p/266c83ce5807) |
-| Mon, 12 May 2025 11:08:14 GMT | Signalgate 2025: A Governance Crisis of Security and Transparency Under the Trump Administration | The Marhaen Doctrine | [Read More](https://medium.com/p/cd5d373316e1) |
-| Mon, 12 May 2025 11:06:46 GMT | iSCSI— Port 3260 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/c8402da9cefb) |
-| Mon, 12 May 2025 11:05:09 GMT | Why Security Solutions in Singapore Are Essential | Jane Tang | [Read More](https://medium.com/p/c0f1717eb055) |
-| Mon, 12 May 2025 11:02:40 GMT | Title: 5G Technology and Cybersecurity: Next-Generation Threats and Solutions | Esra Kayhan | [Read More](https://medium.com/p/c8ec083aac84) |
