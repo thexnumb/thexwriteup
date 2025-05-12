@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 07:34:05 GMT | XSS Part — 14 : Reflected XSS into HTML context with all tags blocked except custom ones | Ahmad Sopyan | [Read More](https://medium.com/p/3b69cd2053f6) |
+| Mon, 12 May 2025 07:25:10 GMT | Scam and fraud in Telegram: what you need to know | Inside Pro – Earn and Grow on TG | [Read More](https://medium.com/p/0bc91b37f463) |
+| Mon, 12 May 2025 07:20:58 GMT | HIPAA Security Rule: Are You Compliant or at Risk? | SecureSlate | [Read More](https://medium.com/p/f56127d6483d) |
 | Mon, 12 May 2025 07:14:07 GMT | Launching an Apache web server with Auto Scaling in AWS | Hendersonerik | [Read More](https://medium.com/p/1d48800b2d86) |
 | Mon, 12 May 2025 07:11:57 GMT | I’ve Been Hacked—Again: A Decade of Digital Intrusion and Paranoia Turned Proof | Jared Weisinger | [Read More](https://medium.com/p/d142171ee81b) |
 | Mon, 12 May 2025 07:11:04 GMT | Antivirus vs. EDR: The New Age of Digital Defense | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/17d2a71d69c5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 01:09:01 GMT | Why Making Quick Reference Guides in Cybersecurity Is Necessary | Zavier Chambers | [Read More](https://medium.com/p/3b790847a6df) |
 | Mon, 12 May 2025 00:59:44 GMT | Vulnerability Assessment and Penetration Testing of a Deliberately Vulnerable | Amirul Afiq | [Read More](https://medium.com/p/6376d80a83f6) |
 | Mon, 12 May 2025 00:49:45 GMT | สรุปการศึกษาเรื่อง Security Principles | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/8745e387b800) |
-| Mon, 12 May 2025 00:14:29 GMT | Where Is the Justice for the Heart? | disisnabzz | [Read More](https://medium.com/p/0eb2556674b3) |
-| Sun, 11 May 2025 23:56:52 GMT | How Ethical Hackers Find and Exploit Security Flaws | Sohampawar | [Read More](https://medium.com/p/726eaeaf28e0) |
-| Sun, 11 May 2025 23:39:38 GMT | Orlando’s Urban Expansion Drives Demand for Network Infrastructure, IT Services and Cybersecurity | Alexandre Acioli Alves | [Read More](https://medium.com/p/73dfbdb73b69) |
