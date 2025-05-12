@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 17:09:39 GMT | OSINT Writeups — MIST Cyber Drill 2025 | Mr Grey | [Read More](https://medium.com/p/2d1e398a4672) |
+| Mon, 12 May 2025 17:07:31 GMT | What If the “Answer” Is the Problem? | Cheryl Abram | [Read More](https://medium.com/p/0bbdd118b8b9) |
+| Mon, 12 May 2025 17:04:49 GMT | Web Uygulama Güvenliği | Neriman Topçu | [Read More](https://medium.com/p/469bfc07d328) |
+| Mon, 12 May 2025 16:55:54 GMT | bWAPP HTML Injection CheatSheet — (WebApp Pentesting 1) | serkanbenol | [Read More](https://medium.com/p/f6ae6719617a) |
+| Mon, 12 May 2025 16:55:31 GMT | Dark Web Markets: What Are They Selling Beyond Data? | Akshay Chauhan | [Read More](https://medium.com/p/597cbcf0a340) |
+| Mon, 12 May 2025 16:53:03 GMT | ELF Master — cybertalents | Mohamed atiaa | [Read More](https://medium.com/p/94b28cd547b9) |
+| Mon, 12 May 2025 16:51:20 GMT | The Ultimate IDOR Bug Bounty Methodology — Learn & Hunt Like a Pro (2025 Guide) | hackersatty | [Read More](https://medium.com/p/fd79e50fd7fe) |
+| Mon, 12 May 2025 16:49:59 GMT | SEO & Google Dorking: A Power Combo for Digital Sleuths & Smart Marketers | Mahesh Ravaji | [Read More](https://medium.com/p/1997d91f9263) |
 | Mon, 12 May 2025 16:41:47 GMT | [Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into… | hackersatty | [Read More](https://medium.com/p/23e0d699d792) |
+| Mon, 12 May 2025 16:40:27 GMT | This Malware Uses Steam Domains to Steal Your Identity  — A Deep Dive into Azorult | Arsene | [Read More](https://medium.com/p/4a847fcf0dad) |
 | Mon, 12 May 2025 16:36:39 GMT | Virtualized Mobile Forensics Research Using Kali Linux on Android Tablet | Navjot Singh | [Read More](https://medium.com/p/3b4320cf731b) |
 | Mon, 12 May 2025 16:29:05 GMT | When Fear Means Go | Mark | [Read More](https://medium.com/p/4b0ad162c8d1) |
 | Mon, 12 May 2025 16:28:16 GMT | The Evolving Cyber Threat Landscape: A Strategic Outlook for IT Professionals | Travis Ray Caverhill | [Read More](https://medium.com/p/1709e20aed38) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 12:31:57 GMT | Intercept phone’s traffic in burp (using actual phone) | Ozz | [Read More](https://medium.com/p/ca46317add92) |
 | Mon, 12 May 2025 12:31:24 GMT | The Distinction Between Red Teaming and Penetration Testing | Oshada Rashmika | [Read More](https://medium.com/p/f24fcaa06b52) |
 | Mon, 12 May 2025 12:29:38 GMT | Scan Smart, Stay Secure: Your Comprehensive Guide to QR Code Safety | Ol Iv | [Read More](https://medium.com/p/fa352e38c478) |
-| Mon, 12 May 2025 12:29:12 GMT | Kioptrix: Level 1 Walkthrough | Mohamedghareeb | [Read More](https://medium.com/p/cfc981c8a809) |
-| Mon, 12 May 2025 12:26:37 GMT | The $75,000 Fish Tank: How an Office Aquarium Triggered a Cyberattack in 2025 | Noel | [Read More](https://medium.com/p/96888455c7b5) |
-| Mon, 12 May 2025 12:24:18 GMT | Cyber Escalation Between India and Pakistan Following Operation Sindoor: A Threat Intelligence… | Ashish Kharbanda | [Read More](https://medium.com/p/d8f59ae68b76) |
-| Mon, 12 May 2025 12:22:03 GMT | Security by Design: Embedding Security into Your Architecture | aneesh kumar | [Read More](https://medium.com/p/f53ab0e7cd98) |
-| Mon, 12 May 2025 12:19:05 GMT | Why You Should Disable Bluetooth When Not in Use | Sanchitamishra | [Read More](https://medium.com/p/3dec839ea1be) |
-| Mon, 12 May 2025 12:16:46 GMT | Researcher Yuvi Teen Hacker to Hall of Fame: My Cybersecurity Journey at 16 | Yuvraj Gupta | [Read More](https://medium.com/p/230efba091cb) |
-| Mon, 12 May 2025 12:16:16 GMT | Look at Google Search Updates from 2011 to 2025: How Search Has Shifted Over Time | Bhavesh Rajpurohit | [Read More](https://medium.com/p/b95bde9ee3a1) |
-| Mon, 12 May 2025 12:13:39 GMT | Bypassing 2FA in a Banking App — A Real-World Example | Reshop Das | [Read More](https://medium.com/p/7a3a47653e78) |
-| Mon, 12 May 2025 12:09:59 GMT | How I Caught a Suspicious Shell Script Running in /tmp (And What It Taught Me) | Faruk Ahmed | [Read More](https://medium.com/p/19fcd7abe63a) |
