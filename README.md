@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 12:37:26 GMT | Tracking Vulnerability Burndown in Container Images for RMF | Dale Bingham | [Read More](https://medium.com/p/7d9c07e2e739) |
+| Mon, 12 May 2025 12:33:27 GMT | How I Find Open Redirect Bugs Using Waybackurls, Gau & GF Tool | Ch4ndan das | [Read More](https://medium.com/p/64ac3dcb9aa0) |
+| Mon, 12 May 2025 12:32:27 GMT | Demystifying mTLS: How Mutual TLS Protects Microservices — With a Real-Life Analogy | Haneelkumarnagineni | [Read More](https://medium.com/p/513b37f78925) |
+| Mon, 12 May 2025 12:31:24 GMT | The Distinction Between Red Teaming and Penetration Testing | Oshada Rashmika | [Read More](https://medium.com/p/f24fcaa06b52) |
+| Mon, 12 May 2025 12:29:38 GMT | Scan Smart, Stay Secure: Your Comprehensive Guide to QR Code Safety | Ol Iv | [Read More](https://medium.com/p/fa352e38c478) |
+| Mon, 12 May 2025 12:29:12 GMT | Kioptrix: Level 1 Walkthrough | Mohamedghareeb | [Read More](https://medium.com/p/cfc981c8a809) |
+| Mon, 12 May 2025 12:26:37 GMT | The $75,000 Fish Tank: How an Office Aquarium Triggered a Cyberattack in 2025 | Noel | [Read More](https://medium.com/p/96888455c7b5) |
+| Mon, 12 May 2025 12:24:18 GMT | Cyber Escalation Between India and Pakistan Following Operation Sindoor: A Threat Intelligence… | Ashish Kharbanda | [Read More](https://medium.com/p/d8f59ae68b76) |
+| Mon, 12 May 2025 12:22:03 GMT | Security by Design: Embedding Security into Your Architecture | aneesh kumar | [Read More](https://medium.com/p/f53ab0e7cd98) |
+| Mon, 12 May 2025 12:19:05 GMT | Why You Should Disable Bluetooth When Not in Use | Sanchitamishra | [Read More](https://medium.com/p/3dec839ea1be) |
+| Mon, 12 May 2025 12:16:46 GMT | Researcher Yuvi Teen Hacker to Hall of Fame: My Cybersecurity Journey at 16 | Yuvraj Gupta | [Read More](https://medium.com/p/230efba091cb) |
+| Mon, 12 May 2025 12:16:16 GMT | Look at Google Search Updates from 2011 to 2025: How Search Has Shifted Over Time | Bhavesh Rajpurohit | [Read More](https://medium.com/p/b95bde9ee3a1) |
+| Mon, 12 May 2025 12:13:39 GMT | Bypassing 2FA in a Banking App — A Real-World Example | Reshop Das | [Read More](https://medium.com/p/7a3a47653e78) |
+| Mon, 12 May 2025 12:09:59 GMT | How I Caught a Suspicious Shell Script Running in /tmp (And What It Taught Me) | Faruk Ahmed | [Read More](https://medium.com/p/19fcd7abe63a) |
+| Mon, 12 May 2025 12:09:22 GMT | Let’s Talk Network Security — The Smart Way | M.Magdy | [Read More](https://medium.com/p/690ca76b91d8) |
+| Mon, 12 May 2025 12:09:12 GMT | Top 5 Cyber Security Challenges: How to Overcome Them in 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/93439f92d8cb) |
+| Mon, 12 May 2025 12:05:45 GMT | SQL Server 2016 ve Sonrası Veritabanlarında Dinamik Veri Maskeleme (DDM) | Murat Culum | [Read More](https://medium.com/p/e6135004d8b6) |
+| Mon, 12 May 2025 12:02:28 GMT | My Journey to Becoming an ISO/IEC 27001:2022 Lead Auditor: How Cybersecurity Shapes Impact and… | Grace James kaka | [Read More](https://medium.com/p/8e2f9f42ce74) |
+| Mon, 12 May 2025 12:00:55 GMT | The missing information system. URLs of the Physical World. | PLESION | [Read More](https://medium.com/p/ac53612b1cc0) |
+| Mon, 12 May 2025 11:59:18 GMT | After Hours Security Services: Keeping Your Property Safe When It Matters Most | Ava Levi | [Read More](https://medium.com/p/d35a1bff18fe) |
+| Mon, 12 May 2025 11:48:57 GMT | How kube-score Helped Me Harden My Node JS Application Deployment | Chetan Bothra | [Read More](https://medium.com/p/13e54a46205e) |
+| Mon, 12 May 2025 11:46:20 GMT | DORK $DORK: The Key to Unlocking Bigger Earnings | DORK | [Read More](https://medium.com/p/cde8084ad49d) |
+| Mon, 12 May 2025 11:42:52 GMT | Vaka Şablonları ile Güvenlik Olayı Yanıt Süresini Azaltın | Perform Yazılım | [Read More](https://medium.com/p/7ba6f13b14b6) |
+| Mon, 12 May 2025 11:33:14 GMT | 21 AI Tools for Any Purpose — Your Complete Stack for 2025 | Generative AI | [Read More](https://medium.com/p/109f9b47c175) |
 | Mon, 12 May 2025 11:30:53 GMT | [Incident Response] HTTP Beaconing Detection — A Realistic SOC Simulation in a Banking Environment | Terence Imoma | [Read More](https://medium.com/p/011cd74e4b05) |
 | Mon, 12 May 2025 11:29:21 GMT | Overcoming BGP Limitations on MultipleAzure ExpressRoute with GRE Tunnels | Massimo Grassi | [Read More](https://medium.com/p/362bbc2fcd02) |
 | Mon, 12 May 2025 11:26:13 GMT | How can I reclaim my money from Bitharbour ? | James Wilcox | [Read More](https://medium.com/p/574955795733) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 08:18:09 GMT | Operation Cloud Spy: Uncovering AWS IAM Roles Without Logging In | Menelik | [Read More](https://medium.com/p/4b96b0fcd939) |
 | Mon, 12 May 2025 08:14:35 GMT | ️ Understanding Software Patches, Their Types, and How Vendors Determine the Severity | Mohana Reddy | [Read More](https://medium.com/p/5150918ffeb2) |
 | Mon, 12 May 2025 08:10:54 GMT | Digital Forensics and Cyber War: The Invisible Battlefield | LumenXo Inc. | [Read More](https://medium.com/p/8bbc30e5ef0b) |
-| Mon, 12 May 2025 08:10:42 GMT | The Heart Heals Slowly, Like Skin Without a Bandage | Substance M | [Read More](https://medium.com/p/ef612c578aa1) |
-| Mon, 12 May 2025 08:08:00 GMT | Spyware: The Silent Threat Lurking Behind Every Click | TheReviewHive | [Read More](https://medium.com/p/5ade379d6b63) |
-| Mon, 12 May 2025 08:07:05 GMT | how I bypassed KYC with deepfake – full process | F0xD0x | [Read More](https://medium.com/p/f0cefa067b84) |
-| Mon, 12 May 2025 08:04:15 GMT | SameSite? SameMess: How I Bypassed Cookie Protections to Hijack Sessions ️‍♂️ | Iski | [Read More](https://medium.com/p/20520f4be7ec) |
-| Mon, 12 May 2025 08:02:54 GMT | How Security Teams Mislead Developers — And What to Do About It | Sajidur Rahman | [Read More](https://medium.com/p/f75f63773598) |
-| Mon, 12 May 2025 07:46:16 GMT | Phishing in 2025: Smarter Attacks, Smarter Defenses | FACE Prep Campus | [Read More](https://medium.com/p/560358201d6a) |
-| Mon, 12 May 2025 07:39:49 GMT | Is it really Crypto safe? | MR. CIP | [Read More](https://medium.com/p/f43d93727c06) |
-| Mon, 12 May 2025 07:34:05 GMT | XSS Part — 14 : Reflected XSS into HTML context with all tags blocked except custom ones | Ahmad Sopyan | [Read More](https://medium.com/p/3b69cd2053f6) |
-| Mon, 12 May 2025 07:29:28 GMT | The 4.0 Soldier: how defence structures can leverage narrative psychometrics to counter emotional… | Gabriel Cojocaru | [Read More](https://medium.com/p/6232e6ed4388) |
-| Mon, 12 May 2025 07:28:37 GMT | What is Web Application Security? | cyber security Updates | [Read More](https://medium.com/p/0d8bce7a861b) |
-| Mon, 12 May 2025 07:25:10 GMT | Scam and fraud in Telegram: what you need to know | Inside Pro – Earn and Grow on TG | [Read More](https://medium.com/p/0bc91b37f463) |
-| Mon, 12 May 2025 07:20:58 GMT | HIPAA Security Rule: Are You Compliant or at Risk? | SecureSlate | [Read More](https://medium.com/p/f56127d6483d) |
-| Mon, 12 May 2025 07:14:07 GMT | Launching an Apache web server with Auto Scaling in AWS | Hendersonerik | [Read More](https://medium.com/p/1d48800b2d86) |
-| Mon, 12 May 2025 07:11:57 GMT | I’ve Been Hacked—Again: A Decade of Digital Intrusion and Paranoia Turned Proof | Jared Weisinger | [Read More](https://medium.com/p/d142171ee81b) |
-| Mon, 12 May 2025 07:11:04 GMT | Antivirus vs. EDR: The New Age of Digital Defense | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/17d2a71d69c5) |
-| Mon, 12 May 2025 07:06:44 GMT | What is the Python Programming Language? A Beginner Guide | Ankit_Cyber | [Read More](https://medium.com/p/93f53e17ec55) |
-| Mon, 12 May 2025 07:04:00 GMT | From Message to Malware: The Modern Malware Hunt | Abhijith A | [Read More](https://medium.com/p/249add43ff5b) |
-| Mon, 12 May 2025 07:02:28 GMT | Don’t Hit the Snooze Button: It’s Time to Rethink Certificate Management | GlobalSign | [Read More](https://medium.com/p/88e46a57a4c6) |
-| Mon, 12 May 2025 07:02:28 GMT | Lab Guide: Blind SQL Injection with Time Delays and Information Retrieval | Meni Tasa | [Read More](https://medium.com/p/ac2b0b2e7d57) |
-| Mon, 12 May 2025 06:55:25 GMT | This Red Teaming Tools can make you a pro Hacker. | Rishav anand | [Read More](https://medium.com/p/69b5f60fd735) |
-| Mon, 12 May 2025 06:41:47 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2a78dfa4c76b) |
-| Mon, 12 May 2025 06:40:40 GMT | LockBit Gets Hacked: Cybercriminals Taste Their Own Medicine | TECHi | [Read More](https://medium.com/p/69b6f4047702) |
-| Mon, 12 May 2025 06:22:43 GMT | LlamaFirewall: Building Guardrails for Autonomous AI Agents in an Agentic World | Sai Krishna Reddy Mudhiganti | [Read More](https://medium.com/p/c6fdc34b9df6) |
-| Mon, 12 May 2025 06:21:37 GMT | Vulnerability Management — Nessus Scanner | whoami | [Read More](https://medium.com/p/d809b99e3a26) |
