@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 11:30:53 GMT | [Incident Response] HTTP Beaconing Detection — A Realistic SOC Simulation in a Banking Environment | Terence Imoma | [Read More](https://medium.com/p/011cd74e4b05) |
+| Mon, 12 May 2025 11:29:21 GMT | Overcoming BGP Limitations on MultipleAzure ExpressRoute with GRE Tunnels | Massimo Grassi | [Read More](https://medium.com/p/362bbc2fcd02) |
+| Mon, 12 May 2025 11:26:13 GMT | How can I reclaim my money from Bitharbour ? | James Wilcox | [Read More](https://medium.com/p/574955795733) |
+| Mon, 12 May 2025 11:25:03 GMT | Researcher Yuvi — My Cybersecurity Journey at 16 | Yuvraj Gupta | [Read More](https://medium.com/p/ab4e2bb10a97) |
+| Mon, 12 May 2025 11:23:15 GMT | What should I do to recover my money from Bitharbour ? | James Wilcox | [Read More](https://medium.com/p/66c9833c18d9) |
+| Mon, 12 May 2025 11:20:06 GMT | $12,000 RCE in GitLab: Arbitrary File Overwrite via Path Injection | Monika sharma | [Read More](https://medium.com/p/35443b6602df) |
+| Mon, 12 May 2025 11:19:40 GMT | The Dangers of Always-On Bluetooth in Company-Issued Devices | Bl@ckC!pH3r | [Read More](https://medium.com/p/a92f422b020e) |
 | Mon, 12 May 2025 11:12:20 GMT | Financia futures reviews | Kendra | [Read More](https://medium.com/p/9616959c33f2) |
+| Mon, 12 May 2025 11:09:42 GMT | Explore Top Higher Education Institutions in Australia — Unlock Your Future! | royalinternational | [Read More](https://medium.com/p/266c83ce5807) |
 | Mon, 12 May 2025 11:08:14 GMT | Signalgate 2025: A Governance Crisis of Security and Transparency Under the Trump Administration | The Marhaen Doctrine | [Read More](https://medium.com/p/cd5d373316e1) |
 | Mon, 12 May 2025 11:06:46 GMT | iSCSI— Port 3260 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/c8402da9cefb) |
 | Mon, 12 May 2025 11:05:09 GMT | Why Security Solutions in Singapore Are Essential | Jane Tang | [Read More](https://medium.com/p/c0f1717eb055) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 06:40:40 GMT | LockBit Gets Hacked: Cybercriminals Taste Their Own Medicine | TECHi | [Read More](https://medium.com/p/69b6f4047702) |
 | Mon, 12 May 2025 06:22:43 GMT | LlamaFirewall: Building Guardrails for Autonomous AI Agents in an Agentic World | Sai Krishna Reddy Mudhiganti | [Read More](https://medium.com/p/c6fdc34b9df6) |
 | Mon, 12 May 2025 06:21:37 GMT | Vulnerability Management — Nessus Scanner | whoami | [Read More](https://medium.com/p/d809b99e3a26) |
-| Mon, 12 May 2025 06:21:27 GMT | UnderPass — HackTheBox Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/5fb10f1e3cbb) |
-| Mon, 12 May 2025 06:17:34 GMT | SSRF via PDF Generator? Yes, and It Led to EC2 Metadata Access | Abhijeet Kumawat | [Read More](https://medium.com/p/39b8e5b41840) |
-| Mon, 12 May 2025 06:16:54 GMT | The Psychology of Patch Fatigue: Why Teams Delay Fixes | Paritosh | [Read More](https://medium.com/p/eb4690cfb38e) |
-| Mon, 12 May 2025 06:15:10 GMT | The Hidden Costs of Delayed Patching (And Why It Happens So Often) | Bl@ckC!pH3r | [Read More](https://medium.com/p/718ca6319e0a) |
-| Mon, 12 May 2025 06:14:46 GMT | Top 5 Easiest Bugs for Beginners in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/45dd81c49e03) |
-| Mon, 12 May 2025 06:14:27 GMT | $10,000 Bounty: HackerOne Report Comments Leak via “Export as .zip” | Monika sharma | [Read More](https://medium.com/p/a4aed8bd7409) |
-| Mon, 12 May 2025 06:12:29 GMT | When the Transfer Portal Hits Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/56ae00f2db3e) |
-| Mon, 12 May 2025 06:12:03 GMT | The Daily Tech Digest: 12 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f46b845decab) |
