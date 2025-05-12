@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 20:20:52 GMT | Malvertising’s New Threat: Exploiting Trusted Google Domains | Moriya Pedael | [Read More](https://medium.com/p/552b8b9b607c) |
+| Mon, 12 May 2025 20:19:33 GMT | When Code Turns Kinetic: Mapping and Breaking ICS Attack Chains Through Realistic Simulation | Param Dhagia | [Read More](https://medium.com/p/c4f587d007b7) |
+| Mon, 12 May 2025 20:19:32 GMT | DragonForce Goes Retail: Inside the Cyber Siege of M&S, Co-op, and Harrods | Irem | [Read More](https://medium.com/p/0c02c927ad75) |
+| Mon, 12 May 2025 20:18:27 GMT | How to Copy Any Website in Seconds ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/3074506c4525) |
 | Mon, 12 May 2025 19:57:53 GMT | LockBit Ransomware Gang Hacked: Inside the Leak That Shook the Dark Web | Irem | [Read More](https://medium.com/p/cdcb72f00e12) |
 | Mon, 12 May 2025 19:51:39 GMT | Why I Couldn’t Stay Silent Any Longer | TJ Larson | [Read More](https://medium.com/p/3c1aaaaee56c) |
 | Mon, 12 May 2025 19:48:40 GMT | How WiFi Monitoring Can Improve Network Security | Abdulraheemyoo | [Read More](https://medium.com/p/a70e87fde102) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 14:38:00 GMT | Unlocking Safety: How Motion Detector Alarms Enhance Home Security | Lrxfourie | [Read More](https://medium.com/p/42a7162bb34e) |
 | Mon, 12 May 2025 14:37:58 GMT | Cybersecurity Checklist for Remote Teams in 2025 | Surge Solutions | [Read More](https://medium.com/p/29a9f88a980d) |
 | Mon, 12 May 2025 14:33:50 GMT | AI-powered Cybersecurity Threat Detection | Imali | [Read More](https://medium.com/p/c774ad973350) |
-| Mon, 12 May 2025 14:32:44 GMT | Which CCNA Course Is Best for Beginners? A Complete Guide to Start Your Networking Journey | cyberwingITSolution | [Read More](https://medium.com/p/175b32526668) |
-| Mon, 12 May 2025 14:32:28 GMT | Codexis: Building a Custom GPT Agent to Help Security Teams Create Better Training, Faster | Jay Simmons | [Read More](https://medium.com/p/6d3fb2ec2461) |
-| Mon, 12 May 2025 14:30:19 GMT | Cyber Security in Predictive Maintenance: How CPS is Transforming Industries | Data Defendere | [Read More](https://medium.com/p/380edc8d0369) |
-| Mon, 12 May 2025 14:29:36 GMT | how gen z is disrupting traditional politics in 2025 | S Anuradha | [Read More](https://medium.com/p/98cd91e23aa9) |
