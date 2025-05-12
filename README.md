@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 15:20:18 GMT | The Journey from Obscurity to Tech Empire: My Comeback | Vedant Jha | [Read More](https://medium.com/p/0eca35f1e30c) |
+| Mon, 12 May 2025 15:13:12 GMT | Day 33: Understanding How Devices Communicate on the Internet | Agarwaldaksh | [Read More](https://medium.com/p/69d1efcb5d40) |
+| Mon, 12 May 2025 15:08:22 GMT | Master CRLF Injection: The Underrated Bug with Dangerous Potential | coffinxp | [Read More](https://medium.com/p/33bb0d62e031) |
+| Mon, 12 May 2025 15:04:36 GMT | TryHackMe Windows Command Line | thecaesar | [Read More](https://medium.com/p/34fdb6ed18b1) |
+| Mon, 12 May 2025 15:04:28 GMT | Abu Dhabi Launches Quantum-Resistant Blockchain to Secure Future Digital Infrastructure | MG Singh | [Read More](https://medium.com/p/f724ba79e4a4) |
+| Mon, 12 May 2025 15:02:38 GMT | THM Security Footage Room — Writeup | karna | [Read More](https://medium.com/p/51051e17c30b) |
+| Mon, 12 May 2025 14:58:27 GMT | Anatomy of EVMAuth | Shaun Scovil | [Read More](https://medium.com/p/2c6624ac6f19) |
+| Mon, 12 May 2025 14:56:43 GMT | What Security Managers Don’t Know About Microsoft Azure (But Should) | Everton Araújo | [Read More](https://medium.com/p/1beecd888416) |
+| Mon, 12 May 2025 14:49:34 GMT | Why Everyone’s Suddenly an “AI Expert” — And Why That’s a Little Concerning | satyaranjan bal | [Read More](https://medium.com/p/439037ede7a5) |
+| Mon, 12 May 2025 14:49:08 GMT | The Cybersecurity Escape Room: Every Mistake I Made in My First Job | Vijay Kumar Gupta | [Read More](https://medium.com/p/edee5430548a) |
+| Mon, 12 May 2025 14:48:44 GMT | Leveraging NICE Framework Tools for Transparent Hiring | Kyla Saylor | [Read More](https://medium.com/p/9beb13e8ee4f) |
+| Mon, 12 May 2025 14:46:49 GMT | Understanding Wireless Security: WEP, WPA & WPA2 Explained | 0b1d1 | [Read More](https://medium.com/p/004b936c6546) |
+| Mon, 12 May 2025 14:46:13 GMT | why the 2024 global elections might designed the next 50 years of democracy | S Anuradha | [Read More](https://medium.com/p/70efa70abdc7) |
+| Mon, 12 May 2025 14:42:26 GMT | The Dark Side of Cryptography: When Security Becomes a Double-Edged Sword | All in One security | [Read More](https://medium.com/p/895ffbcb5452) |
+| Mon, 12 May 2025 14:41:06 GMT | Simplifying Digital Transformation: The Story of BeGop Solutions | Begopsolutions | [Read More](https://medium.com/p/a36fe6cf6ea4) |
 | Mon, 12 May 2025 14:38:00 GMT | Unlocking Safety: How Motion Detector Alarms Enhance Home Security | Lrxfourie | [Read More](https://medium.com/p/42a7162bb34e) |
+| Mon, 12 May 2025 14:37:58 GMT | Cybersecurity Checklist for Remote Teams in 2025 | Surge Solutions | [Read More](https://medium.com/p/29a9f88a980d) |
 | Mon, 12 May 2025 14:33:50 GMT | AI-powered Cybersecurity Threat Detection | Imali | [Read More](https://medium.com/p/c774ad973350) |
 | Mon, 12 May 2025 14:32:44 GMT | Which CCNA Course Is Best for Beginners? A Complete Guide to Start Your Networking Journey | cyberwingITSolution | [Read More](https://medium.com/p/175b32526668) |
 | Mon, 12 May 2025 14:32:28 GMT | Codexis: Building a Custom GPT Agent to Help Security Teams Create Better Training, Faster | Jay Simmons | [Read More](https://medium.com/p/6d3fb2ec2461) |
@@ -27,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 14:08:27 GMT | The Human Hack: How Social Engineering Exploits People, Not Firewalls | Brandon Dewater | [Read More](https://medium.com/p/9e075f90af83) |
 | Mon, 12 May 2025 14:02:33 GMT | Talking About What You Want (Sexually) Is Hard | Vixxen | [Read More](https://medium.com/p/ca1a7d714623) |
 | Mon, 12 May 2025 14:02:31 GMT | Mustard Dress | Latoya Campbell | [Read More](https://medium.com/p/72805d0bf883) |
+| Mon, 12 May 2025 14:00:09 GMT | How a shredder brought me joy | Ruslan Osipov | [Read More](https://medium.com/p/8eef4eae5ae5) |
 | Mon, 12 May 2025 13:59:50 GMT | Cyber Briefing: 2025.05.12 | CyberMaterial | [Read More](https://medium.com/p/e56d870600eb) |
 | Mon, 12 May 2025 13:58:54 GMT | Buy Surveillance Robots | Marcus Koehnlein | [Read More](https://medium.com/p/ccc9d81ce8d0) |
 | Mon, 12 May 2025 13:58:29 GMT | Why Every DevOps Team Needs to Think Like a Hacker | AbdulRahman Mostafa | [Read More](https://medium.com/p/b94dc03ce712) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 11:02:39 GMT | Regulatory Compliance and Technical Security: Perspectives from KVKK, GDPR, and ISO 27001 | Esra Kayhan | [Read More](https://medium.com/p/176cc015b220) |
 | Mon, 12 May 2025 11:00:13 GMT | Best DevOps Tools to Learn in 2025 for Career Growth and Efficiency | cyberwingITSolution | [Read More](https://medium.com/p/12f53dde57a5) |
 | Mon, 12 May 2025 11:00:06 GMT | How Does Vulnerability Assessment and Penetration Testing Strengthen Cybersecurity Posture? | Ahad me | [Read More](https://medium.com/p/90c305f4dfd6) |
-| Mon, 12 May 2025 10:58:58 GMT | What Is an Umbrella Logging System and Why It Matters ️ | Harisk | [Read More](https://medium.com/p/7012dd20f37c) |
-| Mon, 12 May 2025 10:58:52 GMT | Hackers Love Lazy People — Here’s Why! | Your's Nightmare | [Read More](https://medium.com/p/0d8115d8cfae) |
-| Mon, 12 May 2025 10:56:34 GMT | Do You Still Need an Antivirus in 2025? Here’s the Truth | Your's Nightmare | [Read More](https://medium.com/p/d031efe12945) |
-| Mon, 12 May 2025 10:53:21 GMT | Web Application VAPT: Identifying and Exploiting Common Web Vulnerabilities | Microscan Communications | [Read More](https://medium.com/p/aae134b9a677) |
-| Mon, 12 May 2025 10:48:07 GMT | You Don’t Have to Be Ready. Just Do It | Oluwatobiloba | [Read More](https://medium.com/p/f7d1803b6e2b) |
-| Mon, 12 May 2025 10:44:25 GMT | Fake AI Tools Used to Spread LummaC2 Malware in Sophisticated Social Engineering Campaign | CyBlog | [Read More](https://medium.com/p/395ef8f61709) |
-| Mon, 12 May 2025 10:40:17 GMT | Hack the Scam: The Rise of Ethical Hackers in Financial Fraud Prevention | RedTeamsaniga Suresh | [Read More](https://medium.com/p/272f68882ac1) |
-| Mon, 12 May 2025 10:35:54 GMT | Third-Party App Permissions: Your Digital Backdoor | Karl Buhl | [Read More](https://medium.com/p/cef174bc30a5) |
-| Mon, 12 May 2025 10:34:04 GMT | OAuth Explained | Lukas Niessen | [Read More](https://medium.com/p/e8b01af3056e) |
-| Mon, 12 May 2025 10:31:16 GMT | สรุปการเรียนรู้เรื่อง Incident Response, BCP, Disaster Recovery Concepts | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/03db06ec54f8) |
-| Mon, 12 May 2025 10:31:06 GMT | Beyond Voice and Data: The Future of Telecom Revenue with Evolution Marketplace | Ashwini R | [Read More](https://medium.com/p/ac61ba07c1e2) |
-| Mon, 12 May 2025 10:29:47 GMT | Deep fake Technology and Cybersecurity: A New Digital Threat | Bivek raj | [Read More](https://medium.com/p/86f35badcebb) |
-| Mon, 12 May 2025 10:29:22 GMT | Inside Pakistan’s Alleged Multi-Vector Cyber Attack Against Indian Infrastructure | Osama Asghar | [Read More](https://medium.com/p/7bcbe0903afc) |
-| Mon, 12 May 2025 10:25:39 GMT | Ransomware 101: From Locking Files to Hijacking CPUs | minodh rinesh | [Read More](https://medium.com/p/9be78fdee29b) |
-| Mon, 12 May 2025 10:09:32 GMT | Fake AI Tools Are Being Used to Spread Malware — Here’s What You Need to Know | CyDhaal | [Read More](https://medium.com/p/5972a9352947) |
-| Mon, 12 May 2025 10:02:56 GMT | OSCP vs CEH vs CompTIA+: Which is Best for a Career in Ethical Hacking? | Vasundhra sharma | [Read More](https://medium.com/p/fea4a449bd95) |
-| Mon, 12 May 2025 10:02:34 GMT | Solo Doesn’t Mean Unprotected | Solo Recon | [Read More](https://medium.com/p/2b6b7dee1c1e) |
