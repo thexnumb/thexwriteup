@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 21:10:43 GMT | To migrate to the Rujira token (RUJI) via the Rujira Alliance merger, follow these key steps: | Rujitoken | [Read More](https://medium.com/p/848512624188) |
+| Mon, 12 May 2025 21:03:43 GMT | Who is Cyberthinks? My Story as a Young Ethical Hacker | Vishesh Dhiman | [Read More](https://medium.com/p/493725ee68ed) |
+| Mon, 12 May 2025 20:57:47 GMT | How to Turn LunaFi $LFI into Your Most Profitable Investment | LFI | [Read More](https://medium.com/p/a2b86ef92913) |
+| Mon, 12 May 2025 20:57:22 GMT | Architectural Debt is Costing Enterprises Millions - This Is the Framework I Use to Make It Visible… | Azzeddine Amiar | [Read More](https://medium.com/p/271828590ac4) |
+| Mon, 12 May 2025 20:54:05 GMT | UnderPass - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/6d134ede7763) |
 | Mon, 12 May 2025 20:20:52 GMT | Malvertising’s New Threat: Exploiting Trusted Google Domains | Moriya Pedael | [Read More](https://medium.com/p/552b8b9b607c) |
 | Mon, 12 May 2025 20:19:33 GMT | When Code Turns Kinetic: Mapping and Breaking ICS Attack Chains Through Realistic Simulation | Param Dhagia | [Read More](https://medium.com/p/c4f587d007b7) |
 | Mon, 12 May 2025 20:19:32 GMT | DragonForce Goes Retail: Inside the Cyber Siege of M&S, Co-op, and Harrods | Irem | [Read More](https://medium.com/p/0c02c927ad75) |
@@ -46,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 17:58:50 GMT | DPAPI Blob Hunting | Tom O'Neill | [Read More](https://medium.com/p/967d2baead6a) |
 | Mon, 12 May 2025 17:57:41 GMT | The No-Bull Guide to Safer Internet Browsing | O. J. Okpabi | [Read More](https://medium.com/p/319f0d5698d2) |
 | Mon, 12 May 2025 17:56:13 GMT | Installation, Set-Up and doing Dynamic Analysis and Static analysis using mobsf | Kennedymutugi | [Read More](https://medium.com/p/920690991a68) |
+| Mon, 12 May 2025 17:53:47 GMT | How To Hacking Safe Exam Browser 3.4 for MacOS or 3.7 for Windows | Givenchy ampulembang | [Read More](https://medium.com/p/51d2608432e4) |
 | Mon, 12 May 2025 17:53:24 GMT | Why Rainbow Secure is perfect fit for businesses that want secure access control without heavy IT… | Dr. Shashi Karhail | [Read More](https://medium.com/p/816d95831c44) |
 | Mon, 12 May 2025 17:39:57 GMT | LetsDefend — SpiceRAT (Medium) | Mateo Pappa | [Read More](https://medium.com/p/881a474c0982) |
 | Mon, 12 May 2025 17:39:05 GMT | The Hidden Loneliness of Modern Men ‍♂️ | Abdul Sajith | [Read More](https://medium.com/p/fd5615b2caf1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 14:49:08 GMT | The Cybersecurity Escape Room: Every Mistake I Made in My First Job | Vijay Kumar Gupta | [Read More](https://medium.com/p/edee5430548a) |
 | Mon, 12 May 2025 14:48:44 GMT | Leveraging NICE Framework Tools for Transparent Hiring | Kyla Saylor | [Read More](https://medium.com/p/9beb13e8ee4f) |
 | Mon, 12 May 2025 14:46:49 GMT | Understanding Wireless Security: WEP, WPA & WPA2 Explained | 0b1d1 | [Read More](https://medium.com/p/004b936c6546) |
-| Mon, 12 May 2025 14:46:13 GMT | why the 2024 global elections might designed the next 50 years of democracy | S Anuradha | [Read More](https://medium.com/p/70efa70abdc7) |
-| Mon, 12 May 2025 14:42:26 GMT | The Dark Side of Cryptography: When Security Becomes a Double-Edged Sword | All in One security | [Read More](https://medium.com/p/895ffbcb5452) |
-| Mon, 12 May 2025 14:41:06 GMT | Simplifying Digital Transformation: The Story of BeGop Solutions | Begopsolutions | [Read More](https://medium.com/p/a36fe6cf6ea4) |
-| Mon, 12 May 2025 14:38:00 GMT | Unlocking Safety: How Motion Detector Alarms Enhance Home Security | Lrxfourie | [Read More](https://medium.com/p/42a7162bb34e) |
-| Mon, 12 May 2025 14:37:58 GMT | Cybersecurity Checklist for Remote Teams in 2025 | Surge Solutions | [Read More](https://medium.com/p/29a9f88a980d) |
-| Mon, 12 May 2025 14:33:50 GMT | AI-powered Cybersecurity Threat Detection | Imali | [Read More](https://medium.com/p/c774ad973350) |
