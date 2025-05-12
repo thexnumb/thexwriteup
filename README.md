@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 04:43:08 GMT | Beyond the Breach: How SMBs Can Outsmart Ransomware in 2025 | Ignatius Gigis | [Read More](https://medium.com/p/2f9c395a55a3) |
+| Mon, 12 May 2025 04:38:43 GMT | Network Analysis Tools That Actually Make Your Life Easier (Not Harder) | Bl@ckC!pH3r | [Read More](https://medium.com/p/cec5a4e51ce0) |
+| Mon, 12 May 2025 04:36:01 GMT | Investigate Web Attack walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/12aeacab638c) |
+| Mon, 12 May 2025 04:32:35 GMT | Zero-Knowledge Proofs: The Future of Anonymous Verification | Nanda Siddhardha | [Read More](https://medium.com/p/5fb7214ff64e) |
+| Mon, 12 May 2025 04:30:21 GMT | Breaking APIs: A Bug Hunter’s Guide | Aditya Bhatt | [Read More](https://medium.com/p/ba20b7098364) |
+| Mon, 12 May 2025 04:27:27 GMT | File Integrity Monitoring in Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/67a695761b42) |
+| Mon, 12 May 2025 04:24:11 GMT | Monitoring Linux resources with Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/3dacc387c4a6) |
 | Mon, 12 May 2025 04:20:44 GMT | Monitoring Windows Resources with Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/1465b6ee2fdd) |
 | Mon, 12 May 2025 04:16:43 GMT | MobSF (101). | Rishav anand | [Read More](https://medium.com/p/317a295103fb) |
 | Mon, 12 May 2025 04:14:56 GMT | Hash‑Based Cryptography: Merkle Trees, One‑Time Keys, and the Quest for Quantum‑Safe Signatures | Jay Pandit | [Read More](https://medium.com/p/9572f1d88501) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 18:07:44 GMT | How to Deal With Broken WordPress Sites After a Plugin Update | Shubradeb | [Read More](https://medium.com/p/e1d8bdd94574) |
 | Sun, 11 May 2025 18:03:02 GMT | How to Google Smarter: Advanced Search Tricks You’ll Actually Use | Irem | [Read More](https://medium.com/p/075f1fdc4a1d) |
 | Sun, 11 May 2025 18:02:52 GMT | IS XAMPP SECURE? | Thecodebasejournal | [Read More](https://medium.com/p/d388afecc626) |
-| Sun, 11 May 2025 17:58:37 GMT | Bulletproof IT Changes: A Comprehensive Framework for Zero-Downtime Implementations | Shahid Sharif | [Read More](https://medium.com/p/8169dee1b909) |
-| Sun, 11 May 2025 17:57:41 GMT | Active Directory Lab | Dito _0xE7 | [Read More](https://medium.com/p/d4f7add0a37b) |
-| Sun, 11 May 2025 17:55:19 GMT | Access control violation detection using Wazuh and OPA | Tsognong Fidèle | [Read More](https://medium.com/p/3bb927861698) |
-| Sun, 11 May 2025 17:54:16 GMT | You’re Already Doing OSINT — You Just Didn’t Know It | Irem | [Read More](https://medium.com/p/ee584729f77b) |
-| Sun, 11 May 2025 17:40:18 GMT | OWASP Top 10 and the Corresponding Mitigations in Ruby on Rails | Jack Douglas | [Read More](https://medium.com/p/ba8201c2fe9b) |
-| Sun, 11 May 2025 17:37:51 GMT | HackTheBox - ServMon | jniket | [Read More](https://medium.com/p/a55c5a7e9a89) |
-| Sun, 11 May 2025 17:37:42 GMT | Reconstructing Lost Security Footage with Wireshark and ffmpeg: A TryHackMe Walkthrough | Chris Simser | [Read More](https://medium.com/p/3f203657b1fd) |
