@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 04:20:44 GMT | Monitoring Windows Resources with Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/1465b6ee2fdd) |
+| Mon, 12 May 2025 04:16:43 GMT | MobSF (101). | Rishav anand | [Read More](https://medium.com/p/317a295103fb) |
+| Mon, 12 May 2025 04:14:56 GMT | Hash‑Based Cryptography: Merkle Trees, One‑Time Keys, and the Quest for Quantum‑Safe Signatures | Jay Pandit | [Read More](https://medium.com/p/9572f1d88501) |
+| Mon, 12 May 2025 03:54:20 GMT | Zero Trust Architecture: The Future of Secure Systems in Regulated Industries | Abdul Marrow | [Read More](https://medium.com/p/5d37910ce90a) |
 | Mon, 12 May 2025 03:45:23 GMT | Maybe its high time I accept I too need a shoulder to rely on | Daegi_diary | [Read More](https://medium.com/p/e9bcc2bbc052) |
 | Mon, 12 May 2025 03:45:05 GMT | Embracing and Healing Your Wounded Inner Child: 7 Lessons to Heal with Love | Bhikkhu Asanga Vajra | [Read More](https://medium.com/p/9f484a11b3ee) |
 | Mon, 12 May 2025 03:42:26 GMT | The Username That Haunted My Friend | Sam Galope | [Read More](https://medium.com/p/4bba7d4afd74) |
@@ -108,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 17:40:18 GMT | OWASP Top 10 and the Corresponding Mitigations in Ruby on Rails | Jack Douglas | [Read More](https://medium.com/p/ba8201c2fe9b) |
 | Sun, 11 May 2025 17:37:51 GMT | HackTheBox - ServMon | jniket | [Read More](https://medium.com/p/a55c5a7e9a89) |
 | Sun, 11 May 2025 17:37:42 GMT | Reconstructing Lost Security Footage with Wireshark and ffmpeg: A TryHackMe Walkthrough | Chris Simser | [Read More](https://medium.com/p/3f203657b1fd) |
-| Sun, 11 May 2025 17:27:00 GMT | The Hidden Language: Exploiting GraphQL for Unauthorized Data Dump | Iski | [Read More](https://medium.com/p/8be49f30a005) |
-| Sun, 11 May 2025 17:25:15 GMT | Qué es UEFI Secure Boot DBX | Borisab | [Read More](https://medium.com/p/25d3b5458a6f) |
-| Sun, 11 May 2025 17:24:20 GMT | Information Technology Sector Trends Analysis: Navigating the Digital Landscape in 2025
-May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178) |
-| Sun, 11 May 2025 17:23:25 GMT | Notes from the Simulation | Oluoa | [Read More](https://medium.com/p/eabb7efce7c7) |
