@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 17:38:09 GMT | Why Your Business Needs Data Loss Prevention Services Today | SafeAeon Inc. | [Read More](https://medium.com/p/fe7e8d5f99ad) |
+| Mon, 12 May 2025 17:37:59 GMT | CTF Write-up: YaraWizards (Certified Cyber Defenders | itsGir | [Read More](https://medium.com/p/6854d0fa4fa6) |
+| Mon, 12 May 2025 17:34:51 GMT | iHeartMedia Data Breach Exposes Sensitive Personal Information of Radio Listeners | LegalNewsbyDave | [Read More](https://medium.com/p/7f798377b9a0) |
+| Mon, 12 May 2025 17:30:17 GMT | How to Counter Email Phishing Attacks and Protect Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/7de4158bca33) |
+| Mon, 12 May 2025 17:27:30 GMT | Google’s $1.375 Billion Settlement: What It Means for Businesses. | Chetan Seripally | [Read More](https://medium.com/p/20e354e19f26) |
+| Mon, 12 May 2025 17:16:19 GMT | How I Found a Way to Submit LeetCode Premium Problems as a Free User | Shreyas Mahajan | [Read More](https://medium.com/p/cb30668b976c) |
+| Mon, 12 May 2025 17:13:14 GMT | Cybersecurity in America: Why Companies Are Investing More Than Ever | Kevinasutton | [Read More](https://medium.com/p/4deb0cde4d87) |
+| Mon, 12 May 2025 17:12:47 GMT | Fake AI Apps Are the New Trojan Horse — How cybercriminals are exploiting the AI boom | UpTech Solution | [Read More](https://medium.com/p/b9c516a356c8) |
+| Mon, 12 May 2025 17:12:34 GMT | Cybersecurity for Beginners: 5 Mistakes You’re Probably Making (and How to Avoid Them) | Javier García - Cibersecurity Engineering | [Read More](https://medium.com/p/9d2343509a62) |
 | Mon, 12 May 2025 17:09:39 GMT | OSINT Writeups — MIST Cyber Drill 2025 | Mr Grey | [Read More](https://medium.com/p/2d1e398a4672) |
+| Mon, 12 May 2025 17:08:08 GMT | The Security Paradox: Why Blockchain Users Shouldn’t Have to Choose Between Control and Protection | Liam Stein | [Read More](https://medium.com/p/5b86195bead7) |
 | Mon, 12 May 2025 17:07:31 GMT | What If the “Answer” Is the Problem? | Cheryl Abram | [Read More](https://medium.com/p/0bbdd118b8b9) |
 | Mon, 12 May 2025 17:04:49 GMT | Web Uygulama Güvenliği | Neriman Topçu | [Read More](https://medium.com/p/469bfc07d328) |
 | Mon, 12 May 2025 16:55:54 GMT | bWAPP HTML Injection CheatSheet — (WebApp Pentesting 1) | serkanbenol | [Read More](https://medium.com/p/f6ae6719617a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 13:09:47 GMT | Hindsight Accountability: Deterring the Gaming of Regulations | Jean Czerlinski Whitmore Ortega | [Read More](https://medium.com/p/2ccdc800db09) |
 | Mon, 12 May 2025 13:02:31 GMT | TryHackMe: Intro to Digital Forensics — Room Completion Summary | Jonelle Owens | [Read More](https://medium.com/p/ccfd43a10f89) |
 | Mon, 12 May 2025 13:02:27 GMT | 5 Emerging Cybersecurity Threats Enterprises Can’t Afford to Ignore | Peris.ai Cybersecurity | [Read More](https://medium.com/p/9d575926e75c) |
-| Mon, 12 May 2025 12:57:21 GMT | How to Set Up AWS WAF in 2025 (5 Minute Guide) | Alex Arancio | [Read More](https://medium.com/p/82b7ad2cc1d9) |
-| Mon, 12 May 2025 12:55:34 GMT | Basic Linux Commands I Use In My Digital Forensics Investigation | AJAK Cyber Academy | [Read More](https://medium.com/p/2e233d119b17) |
-| Mon, 12 May 2025 12:51:20 GMT | When Turning the Other Cheek Meets a World on Fire | Author Kristine Benevento | [Read More](https://medium.com/p/34176611c589) |
-| Mon, 12 May 2025 12:38:38 GMT | When Obfuscation Fails and Simplicity Wins: How Clean Code Silently Slipped Past EDR | Yaniv Azran | [Read More](https://medium.com/p/81663d8b7d7f) |
-| Mon, 12 May 2025 12:37:26 GMT | Tracking Vulnerability Burndown in Container Images for RMF | Dale Bingham | [Read More](https://medium.com/p/7d9c07e2e739) |
-| Mon, 12 May 2025 12:33:27 GMT | How I Find Open Redirect Bugs Using Waybackurls, Gau & GF Tool | Ch4ndan das | [Read More](https://medium.com/p/64ac3dcb9aa0) |
-| Mon, 12 May 2025 12:32:27 GMT | Demystifying mTLS: How Mutual TLS Protects Microservices — With a Real-Life Analogy | Haneelkumarnagineni | [Read More](https://medium.com/p/513b37f78925) |
-| Mon, 12 May 2025 12:31:57 GMT | Intercept phone’s traffic in burp (using actual phone) | Ozz | [Read More](https://medium.com/p/ca46317add92) |
-| Mon, 12 May 2025 12:31:24 GMT | The Distinction Between Red Teaming and Penetration Testing | Oshada Rashmika | [Read More](https://medium.com/p/f24fcaa06b52) |
-| Mon, 12 May 2025 12:29:38 GMT | Scan Smart, Stay Secure: Your Comprehensive Guide to QR Code Safety | Ol Iv | [Read More](https://medium.com/p/fa352e38c478) |
