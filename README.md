@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 19:09:44 GMT | 9 Rewarding Cybersecurity Certifications That Pay Off | Techridge Solutions | [Read More](https://medium.com/p/11ea7f380dea) |
+| Mon, 12 May 2025 19:06:49 GMT | Why Penetration Testing is Essential for Businesses in Saudi Arabia | ahmed nadi | [Read More](https://medium.com/p/a12645930572) |
+| Mon, 12 May 2025 19:06:27 GMT | What I Read January 2018: Org Innovation, Strategy, Cyber Conflict | Michael Lortz | [Read More](https://medium.com/p/ab68f76e429d) |
+| Mon, 12 May 2025 18:55:25 GMT | Best IT Consulting Firms in New Zealand | Susan Clinton | [Read More](https://medium.com/p/5b0834f3895b) |
+| Mon, 12 May 2025 18:46:10 GMT | Does the size of a company affect its average cost/loss due to cybercrime? | Brian J Lalla | [Read More](https://medium.com/p/07de17a9882b) |
+| Mon, 12 May 2025 18:46:04 GMT | Navigating the Cloud-Native Maze: An Observability-First Approach to IAM and DevOps | Satbir Singh | [Read More](https://medium.com/p/dec222a27a78) |
+| Mon, 12 May 2025 18:41:20 GMT | New article on blog | M S Sripati | [Read More](https://medium.com/p/cc4e310b506a) |
 | Mon, 12 May 2025 18:40:16 GMT | Traveling Smart with Primasim: Is eSIM Safe for Travelers? | PrimaSIM | [Read More](https://medium.com/p/f937db1c9232) |
 | Mon, 12 May 2025 18:37:24 GMT | How to Reset Kali Password Without Re-Installation | Toheeb Kayode Adisa | [Read More](https://medium.com/p/1b0cdf123969) |
 | Mon, 12 May 2025 18:32:24 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/04117e5498fe) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 14:02:31 GMT | Mustard Dress | Latoya Campbell | [Read More](https://medium.com/p/72805d0bf883) |
 | Mon, 12 May 2025 14:00:09 GMT | How a shredder brought me joy | Ruslan Osipov | [Read More](https://medium.com/p/8eef4eae5ae5) |
 | Mon, 12 May 2025 13:59:50 GMT | Cyber Briefing: 2025.05.12 | CyberMaterial | [Read More](https://medium.com/p/e56d870600eb) |
-| Mon, 12 May 2025 13:58:54 GMT | Buy Surveillance Robots | Marcus Koehnlein | [Read More](https://medium.com/p/ccc9d81ce8d0) |
-| Mon, 12 May 2025 13:58:29 GMT | Why Every DevOps Team Needs to Think Like a Hacker | AbdulRahman Mostafa | [Read More](https://medium.com/p/b94dc03ce712) |
-| Mon, 12 May 2025 13:53:43 GMT | THM — Security Footage | Dimitris Manolaras | [Read More](https://medium.com/p/7635e9640000) |
-| Mon, 12 May 2025 13:53:21 GMT | This transfer bonus hits different | Daily Drop | [Read More](https://medium.com/p/3a7e628a4e0b) |
-| Mon, 12 May 2025 13:46:38 GMT | What You Should Learn Now to Be Relevant in 2030 | Srishti Sharma | [Read More](https://medium.com/p/be864b1af1a7) |
-| Mon, 12 May 2025 13:46:18 GMT | Threat Actors Ramp Up Exploitation of Widely Deployed Enterprise Technologies | Loginsoft | [Read More](https://medium.com/p/e25f650697d0) |
-| Mon, 12 May 2025 13:40:08 GMT | Why PlutoSec Is Canada’s Go-To Cybersecurity Partner | Esha Motiani | [Read More](https://medium.com/p/9ea2995417d6) |
