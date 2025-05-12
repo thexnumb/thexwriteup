@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 03:45:23 GMT | Maybe its high time I accept I too need a shoulder to rely on | Daegi_diary | [Read More](https://medium.com/p/e9bcc2bbc052) |
+| Mon, 12 May 2025 03:45:05 GMT | Embracing and Healing Your Wounded Inner Child: 7 Lessons to Heal with Love | Bhikkhu Asanga Vajra | [Read More](https://medium.com/p/9f484a11b3ee) |
+| Mon, 12 May 2025 03:42:26 GMT | The Username That Haunted My Friend | Sam Galope | [Read More](https://medium.com/p/4bba7d4afd74) |
+| Mon, 12 May 2025 03:37:57 GMT | Between Hope and Acceptance | Hennster | [Read More](https://medium.com/p/e6f81ff175e3) |
+| Mon, 12 May 2025 03:32:29 GMT | Firewalls & Frontlines: Why India’s Stock Exchanges Restricted Global Access | Deven Chhajed | [Read More](https://medium.com/p/bc82f019036d) |
+| Mon, 12 May 2025 03:31:33 GMT | Building Resilient Cybersecurity Frameworks in Regulated Environments — Whitepaper | Abdul Marrow | [Read More](https://medium.com/p/37be1da52d26) |
+| Mon, 12 May 2025 03:30:29 GMT | Before You’re Hacked, Read These | Ahmad Javed | [Read More](https://medium.com/p/6a9f74dd5636) |
+| Mon, 12 May 2025 03:27:31 GMT | How Strong Is My Password in 2025? Let’s Find Out! | Tahashaikhseo | [Read More](https://medium.com/p/8755f3fad9ff) |
+| Mon, 12 May 2025 03:15:31 GMT | Got Harassed? Smash Their Axxxs!! | Snooptsz | [Read More](https://medium.com/p/0e1d0708ee2b) |
 | Mon, 12 May 2025 03:09:19 GMT | วิธีทำ 2FA ใน NestJS ด้วย speakeasy ฉบับละเอียดสุดๆ Step-by-Step | Vatcharat R. | [Read More](https://medium.com/p/ceaa41c62268) |
 | Mon, 12 May 2025 03:06:01 GMT | Privacy Act of 1974 | Raviteja Mureboina | [Read More](https://medium.com/p/279918eb0583) |
 | Mon, 12 May 2025 03:05:26 GMT | The Invisible Engine: How AI and Machine Learning are Quietly Driving Digital Transformation All… | Abhishek Kumar | [Read More](https://medium.com/p/8ff186254ce2) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 17:24:20 GMT | Information Technology Sector Trends Analysis: Navigating the Digital Landscape in 2025
 May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178) |
 | Sun, 11 May 2025 17:23:25 GMT | Notes from the Simulation | Oluoa | [Read More](https://medium.com/p/eabb7efce7c7) |
-| Sun, 11 May 2025 17:21:56 GMT | Why Every Modern Spring Boot Project Needs an Interceptor (and How to Set One Up ) | The Code Alchemist | [Read More](https://medium.com/p/59c1459d944c) |
-| Sun, 11 May 2025 17:20:08 GMT | Setting the Record Straight: False Allegations Against Vrinda AI and Myself | CYBER NEWS HUB | [Read More](https://medium.com/p/a8a3276f3667) |
-| Sun, 11 May 2025 17:18:23 GMT | rm -f /tmp/f; mkfifo /tmp/f; cat /tmp/f - /bin/bash -i 2>&1 - nc -lvp <port> > /tmp/f | Adam Bartlett | [Read More](https://medium.com/p/dbecab89e965) |
-| Sun, 11 May 2025 17:04:47 GMT | Chrome Extensions Can Hack You - Cyber Defenders FakeGPT Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/a6d3bb66ebd8) |
-| Sun, 11 May 2025 17:00:21 GMT | LunaFi $LFI: A Smart Way to Maximize Earnings | LFI | [Read More](https://medium.com/p/7c6dda3cf607) |
-| Sun, 11 May 2025 16:48:16 GMT | Free Virtual Private Server for Ethical Hacking: GitHub CodeSpaces | Elmurimi | [Read More](https://medium.com/p/e423f001a79b) |
-| Sun, 11 May 2025 16:37:53 GMT | Building a Secure OTA (“Over-the-Air”) System in React Native | Mattiullah Shahzad | [Read More](https://medium.com/p/912f12e7e6e9) |
-| Sun, 11 May 2025 16:23:52 GMT | ETHLisbon 2025 powered by Lightshift and Encode | Jade Harcourt-Harrison | [Read More](https://medium.com/p/ce529cddc5d1) |
-| Sun, 11 May 2025 15:57:37 GMT | MFA Update OTP Bypass | Md. Abu Rayhan | [Read More](https://medium.com/p/64e2cd1cbe86) |
