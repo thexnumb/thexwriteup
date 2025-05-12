@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 09:19:37 GMT | Digital Deception | Sakthimurugan Saravanan | [Read More](https://medium.com/p/07362eae348b) |
+| Mon, 12 May 2025 09:15:05 GMT | From HTTP to HTTPS | Sandun jayawardhana | [Read More](https://medium.com/p/9ea615ed480c) |
+| Mon, 12 May 2025 09:12:44 GMT | Security Robot as a Service | Dr. Tillmann Lauk | [Read More](https://medium.com/p/bfbd9290c4cb) |
+| Mon, 12 May 2025 09:11:42 GMT | The Adventures of Techy Teddybear: Cybersecurity and Online Safety… | Fatima Zahra | [Read More](https://medium.com/p/302a4be133ae) |
+| Mon, 12 May 2025 09:09:10 GMT | The Hacker’s Code | Medium Daily Reward | [Read More](https://medium.com/p/e4ffa198f28f) |
+| Mon, 12 May 2025 09:06:03 GMT | Secure 5G Networks with O-RAN Architecture: Benefits, Security Standards | Dilip Rajpurohit | [Read More](https://medium.com/p/65de501b0cf7) |
+| Mon, 12 May 2025 09:05:50 GMT | Quantifying Security: KPIs for Protection and Business Impact | SecOps | [Read More](https://medium.com/p/b5dcf9c7005c) |
+| Mon, 12 May 2025 09:03:14 GMT | How to Select a Reliable Security Company in Singapore? | Jane Tang | [Read More](https://medium.com/p/3eca0791114c) |
+| Mon, 12 May 2025 08:55:51 GMT | SOC Insights with Python: A Noob’s Path from Data to Detection | Yogesh Singh | [Read More](https://medium.com/p/d80aa67aaf62) |
+| Mon, 12 May 2025 08:51:16 GMT | Showhe Crumbling Fortress | Tales of Nyx | [Read More](https://medium.com/p/662181bbffd3) |
+| Mon, 12 May 2025 08:49:28 GMT | The Future of Military Drones: Market Growth, Trends and Technological Innovations | Peter fernandas | [Read More](https://medium.com/p/9ccdcbaf3919) |
 | Mon, 12 May 2025 08:43:06 GMT | Measuring What Truly Enhances Safety and Enables Operations | Rahala Insights | [Read More](https://medium.com/p/5c525a4190db) |
 | Mon, 12 May 2025 08:42:52 GMT | Gift 4000 USDT Blockchain Trc20 ( Okx wallet -Safepal wallet) | Miya clark | [Read More](https://medium.com/p/0bb6de26625f) |
 | Mon, 12 May 2025 08:31:00 GMT | Securing Tomorrow: A Leadership View on Emerging Tech Risks. | Sanjay K Mohindroo | [Read More](https://medium.com/p/2201cd086ea5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 03:32:29 GMT | Firewalls & Frontlines: Why India’s Stock Exchanges Restricted Global Access | Deven Chhajed | [Read More](https://medium.com/p/bc82f019036d) |
 | Mon, 12 May 2025 03:31:33 GMT | Building Resilient Cybersecurity Frameworks in Regulated Environments — Whitepaper | Abdul Marrow | [Read More](https://medium.com/p/37be1da52d26) |
 | Mon, 12 May 2025 03:30:29 GMT | Before You’re Hacked, Read These | Ahmad Javed | [Read More](https://medium.com/p/6a9f74dd5636) |
-| Mon, 12 May 2025 03:27:31 GMT | How Strong Is My Password in 2025? Let’s Find Out! | Tahashaikhseo | [Read More](https://medium.com/p/8755f3fad9ff) |
-| Mon, 12 May 2025 03:15:31 GMT | Got Harassed? Smash Their Axxxs!! | Snooptsz | [Read More](https://medium.com/p/0e1d0708ee2b) |
-| Mon, 12 May 2025 03:09:19 GMT | วิธีทำ 2FA ใน NestJS ด้วย speakeasy ฉบับละเอียดสุดๆ Step-by-Step | Vatcharat R. | [Read More](https://medium.com/p/ceaa41c62268) |
-| Mon, 12 May 2025 03:06:01 GMT | Privacy Act of 1974 | Raviteja Mureboina | [Read More](https://medium.com/p/279918eb0583) |
-| Mon, 12 May 2025 03:05:26 GMT | The Invisible Engine: How AI and Machine Learning are Quietly Driving Digital Transformation All… | Abhishek Kumar | [Read More](https://medium.com/p/8ff186254ce2) |
-| Mon, 12 May 2025 03:03:06 GMT | Conquering the Mr. Robot CTF on TryHackMe | Jonelle Owens | [Read More](https://medium.com/p/c54cde15c512) |
-| Mon, 12 May 2025 03:01:50 GMT | How I Exploited a Low-Level Logic Flaw to Manipulate Product Prices Using Burp Intruder | Bash Overflow | [Read More](https://medium.com/p/64143bee2322) |
-| Mon, 12 May 2025 02:56:49 GMT | RST TI Report Digest: 12 May 2025 | RST Cloud | [Read More](https://medium.com/p/a722a226fd5e) |
-| Mon, 12 May 2025 02:55:35 GMT | XSS attack ကိုဘယ်လိုကာကွယ်မလဲ | Win Linn Aung | [Read More](https://medium.com/p/379a52e154bf) |
-| Mon, 12 May 2025 02:46:08 GMT | What’s the Clothing for a Soul? | Aditya Bhardwaj | [Read More](https://medium.com/p/0b74cc6db05b) |
-| Mon, 12 May 2025 02:38:29 GMT | NIST, ISO, COBIT and the Battle for Relevance | Vishal Kumar | [Read More](https://medium.com/p/ea0348291831) |
