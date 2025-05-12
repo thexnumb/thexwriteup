@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 18:40:16 GMT | Traveling Smart with Primasim: Is eSIM Safe for Travelers? | PrimaSIM | [Read More](https://medium.com/p/f937db1c9232) |
+| Mon, 12 May 2025 18:37:24 GMT | How to Reset Kali Password Without Re-Installation | Toheeb Kayode Adisa | [Read More](https://medium.com/p/1b0cdf123969) |
+| Mon, 12 May 2025 18:32:24 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/04117e5498fe) |
+| Mon, 12 May 2025 18:24:12 GMT | Even after believing you’ve become capable of everything, that what once caused you pain no longer… | Madona_luchi️ | [Read More](https://medium.com/p/37f76b6ad0be) |
 | Mon, 12 May 2025 18:19:21 GMT | Fighting Financial Fraud and Inequality with AI: My Journey in Applied Research | Md Tanvir Rahman | [Read More](https://medium.com/p/6ec81ab21716) |
 | Mon, 12 May 2025 18:15:14 GMT | Tryhackme : Security Footage Oda Çözümü | yigitsarioglu | [Read More](https://medium.com/p/46b822aa0a66) |
 | Mon, 12 May 2025 18:12:34 GMT | Why ‘Just Finishing Tasks’ Is Killing Your Career Growth | Jaya Vishwakarma | [Read More](https://medium.com/p/09ecd8b14ae5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 13:46:38 GMT | What You Should Learn Now to Be Relevant in 2030 | Srishti Sharma | [Read More](https://medium.com/p/be864b1af1a7) |
 | Mon, 12 May 2025 13:46:18 GMT | Threat Actors Ramp Up Exploitation of Widely Deployed Enterprise Technologies | Loginsoft | [Read More](https://medium.com/p/e25f650697d0) |
 | Mon, 12 May 2025 13:40:08 GMT | Why PlutoSec Is Canada’s Go-To Cybersecurity Partner | Esha Motiani | [Read More](https://medium.com/p/9ea2995417d6) |
-| Mon, 12 May 2025 13:35:00 GMT | Build Your Own AI SOC — Part 3 Phishing Detection With Gmail, VirusTotal, and GPT | Corey Jones | [Read More](https://medium.com/p/7ed4d4a8b3b2) |
-| Mon, 12 May 2025 13:31:04 GMT | Command Injections: Introduction & Exploitation | Onur Bilici | [Read More](https://medium.com/p/5e40482e9c28) |
-| Mon, 12 May 2025 13:27:11 GMT | Tree dalam Python | fijrisalwa | [Read More](https://medium.com/p/573326b39f12) |
-| Mon, 12 May 2025 13:23:35 GMT | Web Security Merdeka Siber Write up | Defen | [Read More](https://medium.com/p/8b57d42869ac) |
