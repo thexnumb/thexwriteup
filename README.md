@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 14:16:54 GMT | ️ Top 25 Most Dangerous Software Weaknesses (CWE) | Shivam Raj | [Read More](https://medium.com/p/91a3e4e58f42) |
+| Mon, 12 May 2025 14:15:06 GMT | TryHackMe MD2PDF Walkthrough/Write-up | Efe | [Read More](https://medium.com/p/7907991d9960) |
+| Mon, 12 May 2025 14:14:13 GMT | Bravo Team: Choreographers of the Invisible War | Nana | [Read More](https://medium.com/p/1f7119293597) |
+| Mon, 12 May 2025 14:12:26 GMT | Navigating Career Changes in IT: Transitioning to New Roles in 2025 | Tasktech Recruiters | [Read More](https://medium.com/p/8c52a3101026) |
+| Mon, 12 May 2025 14:11:49 GMT | Frontend Security 101 | Lil_3omda | [Read More](https://medium.com/p/c5e56a0666a9) |
+| Mon, 12 May 2025 14:11:06 GMT | How to Handle File Uploads with Node.js and Express — Multer Edition | Ionx Solutions | [Read More](https://medium.com/p/1e26b1839213) |
+| Mon, 12 May 2025 14:08:27 GMT | The Human Hack: How Social Engineering Exploits People, Not Firewalls | Brandon Dewater | [Read More](https://medium.com/p/9e075f90af83) |
+| Mon, 12 May 2025 14:02:33 GMT | Talking About What You Want (Sexually) Is Hard | Vixxen | [Read More](https://medium.com/p/ca1a7d714623) |
+| Mon, 12 May 2025 14:02:31 GMT | Mustard Dress | Latoya Campbell | [Read More](https://medium.com/p/72805d0bf883) |
+| Mon, 12 May 2025 13:59:50 GMT | Cyber Briefing: 2025.05.12 | CyberMaterial | [Read More](https://medium.com/p/e56d870600eb) |
+| Mon, 12 May 2025 13:58:54 GMT | Buy Surveillance Robots | Marcus Koehnlein | [Read More](https://medium.com/p/ccc9d81ce8d0) |
+| Mon, 12 May 2025 13:58:29 GMT | Why Every DevOps Team Needs to Think Like a Hacker | AbdulRahman Mostafa | [Read More](https://medium.com/p/b94dc03ce712) |
+| Mon, 12 May 2025 13:53:43 GMT | THM — Security Footage | Dimitris Manolaras | [Read More](https://medium.com/p/7635e9640000) |
+| Mon, 12 May 2025 13:53:21 GMT | This transfer bonus hits different | Daily Drop | [Read More](https://medium.com/p/3a7e628a4e0b) |
+| Mon, 12 May 2025 13:46:38 GMT | What You Should Learn Now to Be Relevant in 2030 | Srishti Sharma | [Read More](https://medium.com/p/be864b1af1a7) |
+| Mon, 12 May 2025 13:46:18 GMT | Threat Actors Ramp Up Exploitation of Widely Deployed Enterprise Technologies | Loginsoft | [Read More](https://medium.com/p/e25f650697d0) |
+| Mon, 12 May 2025 13:40:08 GMT | Why PlutoSec Is Canada’s Go-To Cybersecurity Partner | Esha Motiani | [Read More](https://medium.com/p/9ea2995417d6) |
+| Mon, 12 May 2025 13:35:00 GMT | Build Your Own AI SOC — Part 3 Phishing Detection With Gmail, VirusTotal, and GPT | Corey Jones | [Read More](https://medium.com/p/7ed4d4a8b3b2) |
+| Mon, 12 May 2025 13:31:04 GMT | Command Injections: Introduction & Exploitation | Onur Bilici | [Read More](https://medium.com/p/5e40482e9c28) |
 | Mon, 12 May 2025 13:27:11 GMT | Tree dalam Python | fijrisalwa | [Read More](https://medium.com/p/573326b39f12) |
 | Mon, 12 May 2025 13:23:35 GMT | Web Security Merdeka Siber Write up | Defen | [Read More](https://medium.com/p/8b57d42869ac) |
 | Mon, 12 May 2025 13:19:37 GMT | From Access Control to Guardrails: How to Build Safe and Compliant GenAI Apps with AWS Bedrock | Sampathkumarbasa | [Read More](https://medium.com/p/c8e3b532d83f) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 09:44:28 GMT | Noodlophile Malware: How Fake AI Tools Are Luring Thousands into a Cyber Trap | Ismail Tasdelen | [Read More](https://medium.com/p/33500eecb068) |
 | Mon, 12 May 2025 09:43:39 GMT | Is it possible to recover my money from Caviex ? | Micheal | [Read More](https://medium.com/p/780e96200bb1) |
 | Mon, 12 May 2025 09:42:04 GMT | How to Unlock and Download Any Facebook Profile Picture (Even Private Accounts) | Kamo Nina | [Read More](https://medium.com/p/219b021e89e1) |
-| Mon, 12 May 2025 09:41:54 GMT | Can a Drunken Confession Be Real? | Substance M | [Read More](https://medium.com/p/d482af5cb602) |
-| Mon, 12 May 2025 09:38:49 GMT | A Practical Guide to Policy Version Management When Source Code is Missing | Venkatesh Jujarao | [Read More](https://medium.com/p/1d8fc4609228) |
-| Mon, 12 May 2025 09:36:38 GMT | Making Sense of NIST CSF: A Practical Guide for Beginners | Kurious & Secure - Kokui Agbenu | [Read More](https://medium.com/p/28ba8d300379) |
-| Mon, 12 May 2025 09:28:03 GMT | Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/d60626a53cce) |
-| Mon, 12 May 2025 09:27:51 GMT | Navigating the Complexities of Modern IT: A Look at Unified Identity and AccessManagement | Technet.Blog | [Read More](https://medium.com/p/9c14f4efdbc6) |
-| Mon, 12 May 2025 09:25:57 GMT | NEWSLETTER : Securing AI Agents & Identities — The Next Frontier in Digital Trust | Nitin Garg | [Read More](https://medium.com/p/331feb1d06b4) |
-| Mon, 12 May 2025 09:25:27 GMT | Exploiting the HTB Cap Machine | Alessandro Sasanelli | [Read More](https://medium.com/p/2d74345d4894) |
-| Mon, 12 May 2025 09:24:54 GMT | Impact of Cloud Technology on Endpoint Security | Sunder Singh | [Read More](https://medium.com/p/ad755f7371cc) |
-| Mon, 12 May 2025 09:22:45 GMT | How Vulnerability Becomes Your Greatest Strength: Embracing Insecurities to Grow | Manesh Kumar | [Read More](https://medium.com/p/eeaacb8e5ec2) |
-| Mon, 12 May 2025 09:21:22 GMT | NIST Compliance: How to Be Compliant | SecureSlate | [Read More](https://medium.com/p/189d1df3a505) |
-| Mon, 12 May 2025 09:20:41 GMT | Walking the Line Between Vulnerability and Oversharing | Beth Z. | [Read More](https://medium.com/p/c6a7ba690f36) |
-| Mon, 12 May 2025 09:19:37 GMT | Digital Deception | Sakthimurugan Saravanan | [Read More](https://medium.com/p/07362eae348b) |
-| Mon, 12 May 2025 09:19:24 GMT | 5 Key Application Security Types & The Tools You Need to Protect Them | Adhvaidhwila | [Read More](https://medium.com/p/eb08b063592f) |
-| Mon, 12 May 2025 09:18:30 GMT | How to Choose a VPN: A 5-Minute Checklist for Beginners | EVA VPN | [Read More](https://medium.com/p/f16119690e36) |
-| Mon, 12 May 2025 09:16:45 GMT | Cisco Patches Critical IOS XE Vulnerability — What You Need to Know | Infoziant | [Read More](https://medium.com/p/2b4d216bed4b) |
-| Mon, 12 May 2025 09:16:36 GMT | LetsDefend Windows Fundamentals Course WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/2be4d182fe35) |
-| Mon, 12 May 2025 09:15:05 GMT | From HTTP to HTTPS | Sandun jayawardhana | [Read More](https://medium.com/p/9ea615ed480c) |
-| Mon, 12 May 2025 09:12:44 GMT | Security Robot as a Service | Dr. Tillmann Lauk | [Read More](https://medium.com/p/bfbd9290c4cb) |
-| Mon, 12 May 2025 09:11:42 GMT | The Adventures of Techy Teddybear: Cybersecurity and Online Safety… | Fatima Zahra | [Read More](https://medium.com/p/302a4be133ae) |
