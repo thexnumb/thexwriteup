@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 10:09:32 GMT | Fake AI Tools Are Being Used to Spread Malware — Here’s What You Need to Know | CyDhaal | [Read More](https://medium.com/p/5972a9352947) |
+| Mon, 12 May 2025 10:02:56 GMT | OSCP vs CEH vs CompTIA+: Which is Best for a Career in Ethical Hacking? | Vasundhra sharma | [Read More](https://medium.com/p/fea4a449bd95) |
+| Mon, 12 May 2025 10:02:34 GMT | Solo Doesn’t Mean Unprotected | Solo Recon | [Read More](https://medium.com/p/2b6b7dee1c1e) |
+| Mon, 12 May 2025 09:59:56 GMT | How can I get my money back from Tradepropel ? | Harry Paul | [Read More](https://medium.com/p/ed7b1bca1ad3) |
+| Mon, 12 May 2025 09:46:14 GMT | Jihadist Terrorism is the Problem… | John Matthews | [Read More](https://medium.com/p/178d126a1d77) |
+| Mon, 12 May 2025 09:44:34 GMT | IDOR Forge: Advanced IDOR Vulnerability Scanner | Babar Ali Jamali | [Read More](https://medium.com/p/3d8f581d9b8b) |
+| Mon, 12 May 2025 09:44:28 GMT | Noodlophile Malware: How Fake AI Tools Are Luring Thousands into a Cyber Trap | Ismail Tasdelen | [Read More](https://medium.com/p/33500eecb068) |
+| Mon, 12 May 2025 09:43:39 GMT | Is it possible to recover my money from Caviex ? | Micheal | [Read More](https://medium.com/p/780e96200bb1) |
+| Mon, 12 May 2025 09:42:04 GMT | How to Unlock and Download Any Facebook Profile Picture (Even Private Accounts) | Kamo Nina | [Read More](https://medium.com/p/219b021e89e1) |
+| Mon, 12 May 2025 09:41:54 GMT | Can a Drunken Confession Be Real? | Substance M | [Read More](https://medium.com/p/d482af5cb602) |
+| Mon, 12 May 2025 09:38:49 GMT | A Practical Guide to Policy Version Management When Source Code is Missing | Venkatesh Jujarao | [Read More](https://medium.com/p/1d8fc4609228) |
+| Mon, 12 May 2025 09:36:38 GMT | Making Sense of NIST CSF: A Practical Guide for Beginners | Kurious & Secure - Kokui Agbenu | [Read More](https://medium.com/p/28ba8d300379) |
 | Mon, 12 May 2025 09:28:03 GMT | Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/d60626a53cce) |
 | Mon, 12 May 2025 09:27:51 GMT | Navigating the Complexities of Modern IT: A Look at Unified Identity and AccessManagement | Technet.Blog | [Read More](https://medium.com/p/9c14f4efdbc6) |
 | Mon, 12 May 2025 09:25:57 GMT | NEWSLETTER : Securing AI Agents & Identities — The Next Frontier in Digital Trust | Nitin Garg | [Read More](https://medium.com/p/331feb1d06b4) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 05:05:24 GMT | Guarding the Human Element: Identity, Culture, and the Coming Directions of Access Governance | Vivian O | [Read More](https://medium.com/p/cae939678823) |
 | Mon, 12 May 2025 05:03:45 GMT | Is Your Physical Security Strategy Still Relevant in 2025? | Lona Dsouza | [Read More](https://medium.com/p/cec709b445a8) |
 | Mon, 12 May 2025 04:54:37 GMT | How to Build a Custom Netcat with Python | Muhammad Abdullahi | [Read More](https://medium.com/p/685ebd97bd14) |
-| Mon, 12 May 2025 04:54:33 GMT | “I’ll let you be in my dreams if I can be in yours.” — Bob Dylan | Allison | [Read More](https://medium.com/p/b1b1c4d25fd6) |
-| Mon, 12 May 2025 04:52:31 GMT | TryHackMe Logless Hunt: Complete Guide to Incident Response & Threat Hunting | Visir | [Read More](https://medium.com/p/1c2054674c3e) |
-| Mon, 12 May 2025 04:52:28 GMT | How I Earned $200 From a Simple EXIF Bug (Step by Step Guide, You Can Use Today) | BugBounty University | [Read More](https://medium.com/p/c71dc2d82389) |
-| Mon, 12 May 2025 04:51:25 GMT | OSEP Exam Review & Prep Guide 2025 — My Road to OffSec Experienced Penetration Tester | Anezaneo | [Read More](https://medium.com/p/ea7eaeac61fa) |
-| Mon, 12 May 2025 04:51:03 GMT | How I Found SSTI in a Search Bar | Umanhonlen Gabriel | [Read More](https://medium.com/p/6fede0d3263c) |
-| Mon, 12 May 2025 04:48:05 GMT | You should stop using these passwords right away!! | Pranav Bhardwaj | [Read More](https://medium.com/p/ff52fbfc4653) |
-| Mon, 12 May 2025 04:45:57 GMT | Secure the Vibe. | MS | [Read More](https://medium.com/p/2b03b8eb95a9) |
-| Mon, 12 May 2025 04:43:32 GMT | API Security #1: Understanding BOLA — The Most Common Yet Overlooked Threat | Ferizco | [Read More](https://medium.com/p/705e0bb9cd07) |
-| Mon, 12 May 2025 04:43:08 GMT | Beyond the Breach: How SMBs Can Outsmart Ransomware in 2025 | Ignatius Gigis | [Read More](https://medium.com/p/2f9c395a55a3) |
-| Mon, 12 May 2025 04:38:43 GMT | Network Analysis Tools That Actually Make Your Life Easier (Not Harder) | Bl@ckC!pH3r | [Read More](https://medium.com/p/cec5a4e51ce0) |
-| Mon, 12 May 2025 04:36:01 GMT | Investigate Web Attack walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/12aeacab638c) |
-| Mon, 12 May 2025 04:32:35 GMT | Zero-Knowledge Proofs: The Future of Anonymous Verification | Nanda Siddhardha | [Read More](https://medium.com/p/5fb7214ff64e) |
