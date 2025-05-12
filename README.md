@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 11:12:20 GMT | Financia futures reviews | Kendra | [Read More](https://medium.com/p/9616959c33f2) |
+| Mon, 12 May 2025 11:08:14 GMT | Signalgate 2025: A Governance Crisis of Security and Transparency Under the Trump Administration | The Marhaen Doctrine | [Read More](https://medium.com/p/cd5d373316e1) |
+| Mon, 12 May 2025 11:06:46 GMT | iSCSI— Port 3260 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/c8402da9cefb) |
+| Mon, 12 May 2025 11:05:09 GMT | Why Security Solutions in Singapore Are Essential | Jane Tang | [Read More](https://medium.com/p/c0f1717eb055) |
+| Mon, 12 May 2025 11:02:40 GMT | Title: 5G Technology and Cybersecurity: Next-Generation Threats and Solutions | Esra Kayhan | [Read More](https://medium.com/p/c8ec083aac84) |
+| Mon, 12 May 2025 11:02:39 GMT | Regulatory Compliance and Technical Security: Perspectives from KVKK, GDPR, and ISO 27001 | Esra Kayhan | [Read More](https://medium.com/p/176cc015b220) |
+| Mon, 12 May 2025 11:00:13 GMT | Best DevOps Tools to Learn in 2025 for Career Growth and Efficiency | cyberwingITSolution | [Read More](https://medium.com/p/12f53dde57a5) |
+| Mon, 12 May 2025 11:00:06 GMT | How Does Vulnerability Assessment and Penetration Testing Strengthen Cybersecurity Posture? | Ahad me | [Read More](https://medium.com/p/90c305f4dfd6) |
+| Mon, 12 May 2025 10:58:58 GMT | What Is an Umbrella Logging System and Why It Matters ️ | Harisk | [Read More](https://medium.com/p/7012dd20f37c) |
+| Mon, 12 May 2025 10:58:52 GMT | Hackers Love Lazy People — Here’s Why! | Your's Nightmare | [Read More](https://medium.com/p/0d8115d8cfae) |
+| Mon, 12 May 2025 10:56:34 GMT | Do You Still Need an Antivirus in 2025? Here’s the Truth | Your's Nightmare | [Read More](https://medium.com/p/d031efe12945) |
+| Mon, 12 May 2025 10:53:21 GMT | Web Application VAPT: Identifying and Exploiting Common Web Vulnerabilities | Microscan Communications | [Read More](https://medium.com/p/aae134b9a677) |
+| Mon, 12 May 2025 10:48:07 GMT | You Don’t Have to Be Ready. Just Do It | Oluwatobiloba | [Read More](https://medium.com/p/f7d1803b6e2b) |
+| Mon, 12 May 2025 10:44:25 GMT | Fake AI Tools Used to Spread LummaC2 Malware in Sophisticated Social Engineering Campaign | CyBlog | [Read More](https://medium.com/p/395ef8f61709) |
 | Mon, 12 May 2025 10:40:17 GMT | Hack the Scam: The Rise of Ethical Hackers in Financial Fraud Prevention | RedTeamsaniga Suresh | [Read More](https://medium.com/p/272f68882ac1) |
+| Mon, 12 May 2025 10:35:54 GMT | Third-Party App Permissions: Your Digital Backdoor | Karl Buhl | [Read More](https://medium.com/p/cef174bc30a5) |
 | Mon, 12 May 2025 10:34:04 GMT | OAuth Explained | Lukas Niessen | [Read More](https://medium.com/p/e8b01af3056e) |
 | Mon, 12 May 2025 10:31:16 GMT | สรุปการเรียนรู้เรื่อง Incident Response, BCP, Disaster Recovery Concepts | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/03db06ec54f8) |
 | Mon, 12 May 2025 10:31:06 GMT | Beyond Voice and Data: The Future of Telecom Revenue with Evolution Marketplace | Ashwini R | [Read More](https://medium.com/p/ac61ba07c1e2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 06:14:27 GMT | $10,000 Bounty: HackerOne Report Comments Leak via “Export as .zip” | Monika sharma | [Read More](https://medium.com/p/a4aed8bd7409) |
 | Mon, 12 May 2025 06:12:29 GMT | When the Transfer Portal Hits Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/56ae00f2db3e) |
 | Mon, 12 May 2025 06:12:03 GMT | The Daily Tech Digest: 12 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f46b845decab) |
-| Mon, 12 May 2025 06:11:41 GMT | Struktur Data : Tree | Yasa Wijaya | [Read More](https://medium.com/p/7eaf9c5bc7e1) |
-| Mon, 12 May 2025 06:06:26 GMT | Cynthia Kayle: The Importance of Regular Security Audits in Protecting Your Organization | Cynthia Kayle | [Read More](https://medium.com/p/11960a58b5a2) |
-| Mon, 12 May 2025 06:05:37 GMT | Why Your Home Router Might Be Helping a Botnet Right Now (And You’d Never Know | Bl@ckC!pH3r | [Read More](https://medium.com/p/cf17353218af) |
-| Mon, 12 May 2025 06:00:23 GMT | Today’s Top Cyber Intelligence Highlights — May 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/964b163fb41c) |
-| Mon, 12 May 2025 05:53:53 GMT | TryHackMe - Network Security Solutions - WriteUp | Axoloth | [Read More](https://medium.com/p/46a320e2fd9d) |
-| Mon, 12 May 2025 05:51:51 GMT | AI Platforms in Regulatory Frameworks An Architect’s Guide to Compliance Chaos | Levitation Infotech | [Read More](https://medium.com/p/29cb795d6141) |
-| Mon, 12 May 2025 05:44:18 GMT | A list of datasets for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/8521490a7f5e) |
-| Mon, 12 May 2025 05:39:09 GMT | The Art of Exploitation: Metasploit’s Role in Modern Cyber Warfare | Adhvaidhwila | [Read More](https://medium.com/p/33913155daa8) |
-| Mon, 12 May 2025 05:36:30 GMT | Top 5 Cybersecurity Tools for Small Businesses | is*hosting | [Read More](https://medium.com/p/eceeba0be39f) |
-| Mon, 12 May 2025 05:36:26 GMT | How to Host a Static Website Using Amazon S3 (Step-by-Step) | Abdisamad Yusuf | [Read More](https://medium.com/p/85d480d676b9) |
-| Mon, 12 May 2025 05:35:23 GMT | How to Start a Career in Cybersecurity with No Experience | Shamsul Anam Emon | [Read More](https://medium.com/p/c1910086d316) |
-| Mon, 12 May 2025 05:34:35 GMT | What is a Botnet, and How Does It Work? | Hamza Hanif | [Read More](https://medium.com/p/b1b796eab47c) |
-| Mon, 12 May 2025 05:34:21 GMT | What is DevOps? A Beginner’s Guide | Rohith Remesh | [Read More](https://medium.com/p/6ed335a68f00) |
-| Mon, 12 May 2025 05:33:58 GMT | In the ever-evolving landscape of cybersecurity, traditional measures often fall short when it… | Sagar Jain | [Read More](https://medium.com/p/0c6298f662f7) |
-| Mon, 12 May 2025 05:29:04 GMT | Shift Left with AI, Part 2: When Agents Act, Identity Must Lead | David Canellos | [Read More](https://medium.com/p/a61fbc29591c) |
