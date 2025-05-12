@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 10:40:17 GMT | Hack the Scam: The Rise of Ethical Hackers in Financial Fraud Prevention | RedTeamsaniga Suresh | [Read More](https://medium.com/p/272f68882ac1) |
+| Mon, 12 May 2025 10:34:04 GMT | OAuth Explained | Lukas Niessen | [Read More](https://medium.com/p/e8b01af3056e) |
+| Mon, 12 May 2025 10:31:16 GMT | สรุปการเรียนรู้เรื่อง Incident Response, BCP, Disaster Recovery Concepts | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/03db06ec54f8) |
+| Mon, 12 May 2025 10:31:06 GMT | Beyond Voice and Data: The Future of Telecom Revenue with Evolution Marketplace | Ashwini R | [Read More](https://medium.com/p/ac61ba07c1e2) |
+| Mon, 12 May 2025 10:29:47 GMT | Deep fake Technology and Cybersecurity: A New Digital Threat | Bivek raj | [Read More](https://medium.com/p/86f35badcebb) |
+| Mon, 12 May 2025 10:29:22 GMT | Inside Pakistan’s Alleged Multi-Vector Cyber Attack Against Indian Infrastructure | Osama Asghar | [Read More](https://medium.com/p/7bcbe0903afc) |
+| Mon, 12 May 2025 10:25:39 GMT | Ransomware 101: From Locking Files to Hijacking CPUs | minodh rinesh | [Read More](https://medium.com/p/9be78fdee29b) |
 | Mon, 12 May 2025 10:09:32 GMT | Fake AI Tools Are Being Used to Spread Malware — Here’s What You Need to Know | CyDhaal | [Read More](https://medium.com/p/5972a9352947) |
 | Mon, 12 May 2025 10:02:56 GMT | OSCP vs CEH vs CompTIA+: Which is Best for a Career in Ethical Hacking? | Vasundhra sharma | [Read More](https://medium.com/p/fea4a449bd95) |
 | Mon, 12 May 2025 10:02:34 GMT | Solo Doesn’t Mean Unprotected | Solo Recon | [Read More](https://medium.com/p/2b6b7dee1c1e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 05:34:21 GMT | What is DevOps? A Beginner’s Guide | Rohith Remesh | [Read More](https://medium.com/p/6ed335a68f00) |
 | Mon, 12 May 2025 05:33:58 GMT | In the ever-evolving landscape of cybersecurity, traditional measures often fall short when it… | Sagar Jain | [Read More](https://medium.com/p/0c6298f662f7) |
 | Mon, 12 May 2025 05:29:04 GMT | Shift Left with AI, Part 2: When Agents Act, Identity Must Lead | David Canellos | [Read More](https://medium.com/p/a61fbc29591c) |
-| Mon, 12 May 2025 05:23:20 GMT | HIPAA Compliance for Healthtech Success A Snarky Builder’s Guide to Not Getting Sued | Levitation Infotech | [Read More](https://medium.com/p/870f98151bcb) |
-| Mon, 12 May 2025 05:20:27 GMT | AI in Cybersecurity: Your Shield Against Tomorrow’s Threats | Tejash Kumar | [Read More](https://medium.com/p/7228f9dbf412) |
-| Mon, 12 May 2025 05:12:29 GMT | Quantum Key Distribution (QKD): Securing Secrets with Single Photons | Jay Pandit | [Read More](https://medium.com/p/77904a59a428) |
-| Mon, 12 May 2025 05:10:57 GMT | (Behind Closed Doors) | Norman | [Read More](https://medium.com/p/2dd4f2513d35) |
-| Mon, 12 May 2025 05:05:24 GMT | Guarding the Human Element: Identity, Culture, and the Coming Directions of Access Governance | Vivian O | [Read More](https://medium.com/p/cae939678823) |
-| Mon, 12 May 2025 05:03:45 GMT | Is Your Physical Security Strategy Still Relevant in 2025? | Lona Dsouza | [Read More](https://medium.com/p/cec709b445a8) |
-| Mon, 12 May 2025 04:54:37 GMT | How to Build a Custom Netcat with Python | Muhammad Abdullahi | [Read More](https://medium.com/p/685ebd97bd14) |
