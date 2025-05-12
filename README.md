@@ -12,10 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 09:28:03 GMT | Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/d60626a53cce) |
+| Mon, 12 May 2025 09:27:51 GMT | Navigating the Complexities of Modern IT: A Look at Unified Identity and AccessManagement | Technet.Blog | [Read More](https://medium.com/p/9c14f4efdbc6) |
+| Mon, 12 May 2025 09:25:57 GMT | NEWSLETTER : Securing AI Agents & Identities — The Next Frontier in Digital Trust | Nitin Garg | [Read More](https://medium.com/p/331feb1d06b4) |
+| Mon, 12 May 2025 09:25:27 GMT | Exploiting the HTB Cap Machine | Alessandro Sasanelli | [Read More](https://medium.com/p/2d74345d4894) |
+| Mon, 12 May 2025 09:24:54 GMT | Impact of Cloud Technology on Endpoint Security | Sunder Singh | [Read More](https://medium.com/p/ad755f7371cc) |
+| Mon, 12 May 2025 09:22:45 GMT | How Vulnerability Becomes Your Greatest Strength: Embracing Insecurities to Grow | Manesh Kumar | [Read More](https://medium.com/p/eeaacb8e5ec2) |
+| Mon, 12 May 2025 09:21:22 GMT | NIST Compliance: How to Be Compliant | SecureSlate | [Read More](https://medium.com/p/189d1df3a505) |
+| Mon, 12 May 2025 09:20:41 GMT | Walking the Line Between Vulnerability and Oversharing | Beth Z. | [Read More](https://medium.com/p/c6a7ba690f36) |
 | Mon, 12 May 2025 09:19:37 GMT | Digital Deception | Sakthimurugan Saravanan | [Read More](https://medium.com/p/07362eae348b) |
+| Mon, 12 May 2025 09:19:24 GMT | 5 Key Application Security Types & The Tools You Need to Protect Them | Adhvaidhwila | [Read More](https://medium.com/p/eb08b063592f) |
+| Mon, 12 May 2025 09:18:30 GMT | How to Choose a VPN: A 5-Minute Checklist for Beginners | EVA VPN | [Read More](https://medium.com/p/f16119690e36) |
+| Mon, 12 May 2025 09:16:45 GMT | Cisco Patches Critical IOS XE Vulnerability — What You Need to Know | Infoziant | [Read More](https://medium.com/p/2b4d216bed4b) |
+| Mon, 12 May 2025 09:16:36 GMT | LetsDefend Windows Fundamentals Course WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/2be4d182fe35) |
 | Mon, 12 May 2025 09:15:05 GMT | From HTTP to HTTPS | Sandun jayawardhana | [Read More](https://medium.com/p/9ea615ed480c) |
 | Mon, 12 May 2025 09:12:44 GMT | Security Robot as a Service | Dr. Tillmann Lauk | [Read More](https://medium.com/p/bfbd9290c4cb) |
 | Mon, 12 May 2025 09:11:42 GMT | The Adventures of Techy Teddybear: Cybersecurity and Online Safety… | Fatima Zahra | [Read More](https://medium.com/p/302a4be133ae) |
+| Mon, 12 May 2025 09:10:37 GMT | OAuth 2: Explained Simply | Said Lfagrouche | [Read More](https://medium.com/p/da3fb81d6687) |
 | Mon, 12 May 2025 09:09:10 GMT | The Hacker’s Code | Medium Daily Reward | [Read More](https://medium.com/p/e4ffa198f28f) |
 | Mon, 12 May 2025 09:06:03 GMT | Secure 5G Networks with O-RAN Architecture: Benefits, Security Standards | Dilip Rajpurohit | [Read More](https://medium.com/p/65de501b0cf7) |
 | Mon, 12 May 2025 09:05:50 GMT | Quantifying Security: KPIs for Protection and Business Impact | SecOps | [Read More](https://medium.com/p/b5dcf9c7005c) |
@@ -26,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 08:43:06 GMT | Measuring What Truly Enhances Safety and Enables Operations | Rahala Insights | [Read More](https://medium.com/p/5c525a4190db) |
 | Mon, 12 May 2025 08:42:52 GMT | Gift 4000 USDT Blockchain Trc20 ( Okx wallet -Safepal wallet) | Miya clark | [Read More](https://medium.com/p/0bb6de26625f) |
 | Mon, 12 May 2025 08:31:00 GMT | Securing Tomorrow: A Leadership View on Emerging Tech Risks. | Sanjay K Mohindroo | [Read More](https://medium.com/p/2201cd086ea5) |
+| Mon, 12 May 2025 08:21:25 GMT | ESET NOD32 Antivirus: A Comprehensive Guide to Features, Editions, and Benefits | Said Mo | [Read More](https://medium.com/p/6add5e766a5c) |
 | Mon, 12 May 2025 08:19:27 GMT | Security and reliability | José Vicente del Valle Fayos | [Read More](https://medium.com/p/8b23c3e91cfc) |
 | Mon, 12 May 2025 08:18:46 GMT | ️ Hunting IDOR: A Deep Dive into Insecure Direct Object References | Shah kaif | [Read More](https://medium.com/p/b550a9f77333) |
 | Mon, 12 May 2025 08:18:28 GMT | PipeMagic trojan: A case study in advanced threats | hide.me VPN | [Read More](https://medium.com/p/0b07a411fe5f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 04:38:43 GMT | Network Analysis Tools That Actually Make Your Life Easier (Not Harder) | Bl@ckC!pH3r | [Read More](https://medium.com/p/cec5a4e51ce0) |
 | Mon, 12 May 2025 04:36:01 GMT | Investigate Web Attack walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/12aeacab638c) |
 | Mon, 12 May 2025 04:32:35 GMT | Zero-Knowledge Proofs: The Future of Anonymous Verification | Nanda Siddhardha | [Read More](https://medium.com/p/5fb7214ff64e) |
-| Mon, 12 May 2025 04:30:21 GMT | Breaking APIs: A Bug Hunter’s Guide | Aditya Bhatt | [Read More](https://medium.com/p/ba20b7098364) |
-| Mon, 12 May 2025 04:27:27 GMT | File Integrity Monitoring in Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/67a695761b42) |
-| Mon, 12 May 2025 04:24:11 GMT | Monitoring Linux resources with Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/3dacc387c4a6) |
-| Mon, 12 May 2025 04:20:44 GMT | Monitoring Windows Resources with Wazuh | CyberRanger Labs | [Read More](https://medium.com/p/1465b6ee2fdd) |
-| Mon, 12 May 2025 04:16:43 GMT | MobSF (101). | Rishav anand | [Read More](https://medium.com/p/317a295103fb) |
-| Mon, 12 May 2025 04:14:56 GMT | Hash‑Based Cryptography: Merkle Trees, One‑Time Keys, and the Quest for Quantum‑Safe Signatures | Jay Pandit | [Read More](https://medium.com/p/9572f1d88501) |
-| Mon, 12 May 2025 03:54:20 GMT | Zero Trust Architecture: The Future of Secure Systems in Regulated Industries | Abdul Marrow | [Read More](https://medium.com/p/5d37910ce90a) |
-| Mon, 12 May 2025 03:45:23 GMT | Maybe its high time I accept I too need a shoulder to rely on | Daegi_diary | [Read More](https://medium.com/p/e9bcc2bbc052) |
-| Mon, 12 May 2025 03:45:05 GMT | Embracing and Healing Your Wounded Inner Child: 7 Lessons to Heal with Love | Bhikkhu Asanga Vajra | [Read More](https://medium.com/p/9f484a11b3ee) |
-| Mon, 12 May 2025 03:42:26 GMT | The Username That Haunted My Friend | Sam Galope | [Read More](https://medium.com/p/4bba7d4afd74) |
-| Mon, 12 May 2025 03:37:57 GMT | Between Hope and Acceptance | Hennster | [Read More](https://medium.com/p/e6f81ff175e3) |
-| Mon, 12 May 2025 03:32:29 GMT | Firewalls & Frontlines: Why India’s Stock Exchanges Restricted Global Access | Deven Chhajed | [Read More](https://medium.com/p/bc82f019036d) |
-| Mon, 12 May 2025 03:31:33 GMT | Building Resilient Cybersecurity Frameworks in Regulated Environments — Whitepaper | Abdul Marrow | [Read More](https://medium.com/p/37be1da52d26) |
-| Mon, 12 May 2025 03:30:29 GMT | Before You’re Hacked, Read These | Ahmad Javed | [Read More](https://medium.com/p/6a9f74dd5636) |
