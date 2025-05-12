@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 08:43:06 GMT | Measuring What Truly Enhances Safety and Enables Operations | Rahala Insights | [Read More](https://medium.com/p/5c525a4190db) |
+| Mon, 12 May 2025 08:42:52 GMT | Gift 4000 USDT Blockchain Trc20 ( Okx wallet -Safepal wallet) | Miya clark | [Read More](https://medium.com/p/0bb6de26625f) |
+| Mon, 12 May 2025 08:31:00 GMT | Securing Tomorrow: A Leadership View on Emerging Tech Risks. | Sanjay K Mohindroo | [Read More](https://medium.com/p/2201cd086ea5) |
 | Mon, 12 May 2025 08:19:27 GMT | Security and reliability | José Vicente del Valle Fayos | [Read More](https://medium.com/p/8b23c3e91cfc) |
 | Mon, 12 May 2025 08:18:46 GMT | ️ Hunting IDOR: A Deep Dive into Insecure Direct Object References | Shah kaif | [Read More](https://medium.com/p/b550a9f77333) |
 | Mon, 12 May 2025 08:18:28 GMT | PipeMagic trojan: A case study in advanced threats | hide.me VPN | [Read More](https://medium.com/p/0b07a411fe5f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 02:55:35 GMT | XSS attack ကိုဘယ်လိုကာကွယ်မလဲ | Win Linn Aung | [Read More](https://medium.com/p/379a52e154bf) |
 | Mon, 12 May 2025 02:46:08 GMT | What’s the Clothing for a Soul? | Aditya Bhardwaj | [Read More](https://medium.com/p/0b74cc6db05b) |
 | Mon, 12 May 2025 02:38:29 GMT | NIST, ISO, COBIT and the Battle for Relevance | Vishal Kumar | [Read More](https://medium.com/p/ea0348291831) |
-| Mon, 12 May 2025 02:38:11 GMT | Template Report Bug Bounty (Bahasa Indonesia) | Ikhlasul | [Read More](https://medium.com/p/d3ad2f9d84ee) |
-| Mon, 12 May 2025 02:19:34 GMT | LetsDefend — Investigate Web Attack Walkthrough | Javier | [Read More](https://medium.com/p/a53773f43c10) |
-| Mon, 12 May 2025 02:09:09 GMT | LetsDefend SOC104 EventID:36 — Malware Detected — Walkthrough | Harris Zumoh | [Read More](https://medium.com/p/64735793c9b4) |
