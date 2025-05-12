@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 06:22:43 GMT | LlamaFirewall: Building Guardrails for Autonomous AI Agents in an Agentic World | Sai Krishna Reddy Mudhiganti | [Read More](https://medium.com/p/c6fdc34b9df6) |
+| Mon, 12 May 2025 06:21:37 GMT | Vulnerability Management — Nessus Scanner | whoami | [Read More](https://medium.com/p/d809b99e3a26) |
+| Mon, 12 May 2025 06:21:27 GMT | UnderPass — HackTheBox Walkthrough | Tech&Jazzgirl | [Read More](https://medium.com/p/5fb10f1e3cbb) |
+| Mon, 12 May 2025 06:17:34 GMT | SSRF via PDF Generator? Yes, and It Led to EC2 Metadata Access | Abhijeet Kumawat | [Read More](https://medium.com/p/39b8e5b41840) |
+| Mon, 12 May 2025 06:16:54 GMT | The Psychology of Patch Fatigue: Why Teams Delay Fixes | Paritosh | [Read More](https://medium.com/p/eb4690cfb38e) |
+| Mon, 12 May 2025 06:15:10 GMT | The Hidden Costs of Delayed Patching (And Why It Happens So Often) | Bl@ckC!pH3r | [Read More](https://medium.com/p/718ca6319e0a) |
+| Mon, 12 May 2025 06:14:46 GMT | Top 5 Easiest Bugs for Beginners in Bug Bounty | Vipul Sonule | [Read More](https://medium.com/p/45dd81c49e03) |
+| Mon, 12 May 2025 06:14:27 GMT | $10,000 Bounty: HackerOne Report Comments Leak via “Export as .zip” | Monika sharma | [Read More](https://medium.com/p/a4aed8bd7409) |
+| Mon, 12 May 2025 06:12:29 GMT | When the Transfer Portal Hits Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/56ae00f2db3e) |
+| Mon, 12 May 2025 06:12:03 GMT | The Daily Tech Digest: 12 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f46b845decab) |
+| Mon, 12 May 2025 06:11:41 GMT | Struktur Data : Tree | Yasa Wijaya | [Read More](https://medium.com/p/7eaf9c5bc7e1) |
+| Mon, 12 May 2025 06:06:26 GMT | Cynthia Kayle: The Importance of Regular Security Audits in Protecting Your Organization | Cynthia Kayle | [Read More](https://medium.com/p/11960a58b5a2) |
+| Mon, 12 May 2025 06:05:37 GMT | Why Your Home Router Might Be Helping a Botnet Right Now (And You’d Never Know | Bl@ckC!pH3r | [Read More](https://medium.com/p/cf17353218af) |
+| Mon, 12 May 2025 06:00:23 GMT | Today’s Top Cyber Intelligence Highlights — May 12, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/964b163fb41c) |
+| Mon, 12 May 2025 05:53:53 GMT | TryHackMe - Network Security Solutions - WriteUp | Axoloth | [Read More](https://medium.com/p/46a320e2fd9d) |
+| Mon, 12 May 2025 05:51:51 GMT | AI Platforms in Regulatory Frameworks An Architect’s Guide to Compliance Chaos | Levitation Infotech | [Read More](https://medium.com/p/29cb795d6141) |
+| Mon, 12 May 2025 05:44:18 GMT | A list of datasets for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/8521490a7f5e) |
 | Mon, 12 May 2025 05:39:09 GMT | The Art of Exploitation: Metasploit’s Role in Modern Cyber Warfare | Adhvaidhwila | [Read More](https://medium.com/p/33913155daa8) |
 | Mon, 12 May 2025 05:36:30 GMT | Top 5 Cybersecurity Tools for Small Businesses | is*hosting | [Read More](https://medium.com/p/eceeba0be39f) |
 | Mon, 12 May 2025 05:36:26 GMT | How to Host a Static Website Using Amazon S3 (Step-by-Step) | Abdisamad Yusuf | [Read More](https://medium.com/p/85d480d676b9) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 May 2025 22:31:04 GMT | Tracking App Data Changes with Git During Mobile App Security Review | Arkadiy Litvinenko | [Read More](https://medium.com/p/520af779dd49) |
 | Sun, 11 May 2025 22:30:45 GMT | Reverse Shell Over Ngrok Using Ncat — Windows & Linux Setup Guide | Mr. Torjan Captain | [Read More](https://medium.com/p/6ee35ae05e1c) |
 | Sun, 11 May 2025 22:24:18 GMT | What’s powering your LLM stack — and how resilient is it? | Tal Eliyahu | [Read More](https://medium.com/p/7a3e9507971a) |
-| Sun, 11 May 2025 22:16:43 GMT | (Part 4) — 10 Websites for Cybersecurity Enthusiasts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/a8df6465f6d0) |
-| Sun, 11 May 2025 22:04:30 GMT | Big Data and AWS | Brian J Lalla | [Read More](https://medium.com/p/0d5c98fba1ed) |
-| Sun, 11 May 2025 22:00:34 GMT | Real Life Recovery Expert | Jenny Kyle | [Read More](https://medium.com/p/150677277bc3) |
-| Sun, 11 May 2025 21:56:57 GMT | Rethinking Identity Security: Why It’s More Urgent Than Ever | Abhay Kulkarni | [Read More](https://medium.com/p/6e6db56b1041) |
-| Sun, 11 May 2025 21:44:38 GMT | ESP-07 with SIM800: Control a Relay via SMS + Web Terminal | Im0nk3yar0und | [Read More](https://medium.com/p/1e390ce34f0b) |
-| Sun, 11 May 2025 21:20:28 GMT | Golang and Security Best Practices | Jesse Corson | [Read More](https://medium.com/p/4f6e2d96834e) |
-| Sun, 11 May 2025 21:19:54 GMT | Privacy in Cryptocurrencies: Comparing Monero, Bitcoin, and Zcash | MoneroPrivacyHub | [Read More](https://medium.com/p/e52637a405d5) |
-| Sun, 11 May 2025 21:18:33 GMT | ONProver: The Missing Piece in Web3’s Trustless Infrastructure | Blessing Shodunke | [Read More](https://medium.com/p/d25b5ef5ef58) |
-| Sun, 11 May 2025 21:15:02 GMT | Unlock DeFi Potential with DORK | DORK | [Read More](https://medium.com/p/b0c9647a4dec) |
-| Sun, 11 May 2025 21:00:25 GMT | Day 15: Blind SQL injection with time delays and information retrieval — Zero to Hero Time-Based… | RayofHope | [Read More](https://medium.com/p/75f93027eebf) |
-| Sun, 11 May 2025 20:48:58 GMT | The Key Difference Between a Cybersecurity Expert and a Common Website Owner — And How We Protect… | All in One security | [Read More](https://medium.com/p/4f7b3954a6c8) |
-| Sun, 11 May 2025 20:46:51 GMT | Code‑Based Cryptography: Error‑Correcting Codes Turned Quantum‑Proof Shields | Jay Pandit | [Read More](https://medium.com/p/442c2a55afcd) |
-| Sun, 11 May 2025 20:38:30 GMT | From Web to Mobile: Understanding Android Architecture for Pentesters — part 1 | Arash Shahbazi | [Read More](https://medium.com/p/c38560df64f5) |
-| Sun, 11 May 2025 20:02:14 GMT | Mobil Uygulama Güvenliği | Berkay DAĞGÜLÜ | [Read More](https://medium.com/p/7ff5b1ae7ee5) |
-| Sun, 11 May 2025 20:00:43 GMT | LetsDefend — Http Basic Auth Walkthrough | Javier | [Read More](https://medium.com/p/7cbdf7e0293e) |
-| Sun, 11 May 2025 20:00:25 GMT | Mothering Yourself in 2025: Being Vulnerable & Safe | Aviva Perlo, www.creativecoping.us | [Read More](https://medium.com/p/ec32db854019) |
-| Sun, 11 May 2025 19:54:05 GMT | The 2025 CISO Cheat Sheet | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/72065026fa03) |
