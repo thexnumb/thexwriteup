@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 19:20:08 GMT | IAM and Cybersecurity in India: Challenges, Gaps, and the Road Ahead | Manoj Gulahe | [Read More](https://medium.com/p/fee438445a37) |
+| Mon, 12 May 2025 19:14:10 GMT | Cyber Threat Metrics & Global Impact Analysis (2015–2024). | Khairat Olaleye | [Read More](https://medium.com/p/2f47e322eeb2) |
+| Mon, 12 May 2025 19:13:45 GMT | NTFS Steganography: The Art of Data Hiding in File Systems | Dev Sharma | [Read More](https://medium.com/p/72dc161742a1) |
 | Mon, 12 May 2025 19:09:44 GMT | 9 Rewarding Cybersecurity Certifications That Pay Off | Techridge Solutions | [Read More](https://medium.com/p/11ea7f380dea) |
 | Mon, 12 May 2025 19:06:49 GMT | Why Penetration Testing is Essential for Businesses in Saudi Arabia | ahmed nadi | [Read More](https://medium.com/p/a12645930572) |
 | Mon, 12 May 2025 19:06:27 GMT | What I Read January 2018: Org Innovation, Strategy, Cyber Conflict | Michael Lortz | [Read More](https://medium.com/p/ab68f76e429d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 14:11:06 GMT | How to Handle File Uploads with Node.js and Express — Multer Edition | Ionx Solutions | [Read More](https://medium.com/p/1e26b1839213) |
 | Mon, 12 May 2025 14:08:27 GMT | The Human Hack: How Social Engineering Exploits People, Not Firewalls | Brandon Dewater | [Read More](https://medium.com/p/9e075f90af83) |
 | Mon, 12 May 2025 14:02:33 GMT | Talking About What You Want (Sexually) Is Hard | Vixxen | [Read More](https://medium.com/p/ca1a7d714623) |
-| Mon, 12 May 2025 14:02:31 GMT | Mustard Dress | Latoya Campbell | [Read More](https://medium.com/p/72805d0bf883) |
-| Mon, 12 May 2025 14:00:09 GMT | How a shredder brought me joy | Ruslan Osipov | [Read More](https://medium.com/p/8eef4eae5ae5) |
-| Mon, 12 May 2025 13:59:50 GMT | Cyber Briefing: 2025.05.12 | CyberMaterial | [Read More](https://medium.com/p/e56d870600eb) |
