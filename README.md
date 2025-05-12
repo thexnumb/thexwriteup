@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 14:38:00 GMT | Unlocking Safety: How Motion Detector Alarms Enhance Home Security | Lrxfourie | [Read More](https://medium.com/p/42a7162bb34e) |
+| Mon, 12 May 2025 14:33:50 GMT | AI-powered Cybersecurity Threat Detection | Imali | [Read More](https://medium.com/p/c774ad973350) |
+| Mon, 12 May 2025 14:32:44 GMT | Which CCNA Course Is Best for Beginners? A Complete Guide to Start Your Networking Journey | cyberwingITSolution | [Read More](https://medium.com/p/175b32526668) |
+| Mon, 12 May 2025 14:32:28 GMT | Codexis: Building a Custom GPT Agent to Help Security Teams Create Better Training, Faster | Jay Simmons | [Read More](https://medium.com/p/6d3fb2ec2461) |
+| Mon, 12 May 2025 14:30:19 GMT | Cyber Security in Predictive Maintenance: How CPS is Transforming Industries | Data Defendere | [Read More](https://medium.com/p/380edc8d0369) |
+| Mon, 12 May 2025 14:29:36 GMT | how gen z is disrupting traditional politics in 2025 | S Anuradha | [Read More](https://medium.com/p/98cd91e23aa9) |
 | Mon, 12 May 2025 14:16:54 GMT | ️ Top 25 Most Dangerous Software Weaknesses (CWE) | Shivam Raj | [Read More](https://medium.com/p/91a3e4e58f42) |
 | Mon, 12 May 2025 14:15:06 GMT | TryHackMe MD2PDF Walkthrough/Write-up | Efe | [Read More](https://medium.com/p/7907991d9960) |
 | Mon, 12 May 2025 14:14:13 GMT | Bravo Team: Choreographers of the Invisible War | Nana | [Read More](https://medium.com/p/1f7119293597) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 10:09:32 GMT | Fake AI Tools Are Being Used to Spread Malware — Here’s What You Need to Know | CyDhaal | [Read More](https://medium.com/p/5972a9352947) |
 | Mon, 12 May 2025 10:02:56 GMT | OSCP vs CEH vs CompTIA+: Which is Best for a Career in Ethical Hacking? | Vasundhra sharma | [Read More](https://medium.com/p/fea4a449bd95) |
 | Mon, 12 May 2025 10:02:34 GMT | Solo Doesn’t Mean Unprotected | Solo Recon | [Read More](https://medium.com/p/2b6b7dee1c1e) |
-| Mon, 12 May 2025 09:59:56 GMT | How can I get my money back from Tradepropel ? | Harry Paul | [Read More](https://medium.com/p/ed7b1bca1ad3) |
-| Mon, 12 May 2025 09:46:14 GMT | Jihadist Terrorism is the Problem… | John Matthews | [Read More](https://medium.com/p/178d126a1d77) |
-| Mon, 12 May 2025 09:44:34 GMT | IDOR Forge: Advanced IDOR Vulnerability Scanner | Babar Ali Jamali | [Read More](https://medium.com/p/3d8f581d9b8b) |
-| Mon, 12 May 2025 09:44:28 GMT | Noodlophile Malware: How Fake AI Tools Are Luring Thousands into a Cyber Trap | Ismail Tasdelen | [Read More](https://medium.com/p/33500eecb068) |
-| Mon, 12 May 2025 09:43:39 GMT | Is it possible to recover my money from Caviex ? | Micheal | [Read More](https://medium.com/p/780e96200bb1) |
-| Mon, 12 May 2025 09:42:04 GMT | How to Unlock and Download Any Facebook Profile Picture (Even Private Accounts) | Kamo Nina | [Read More](https://medium.com/p/219b021e89e1) |
