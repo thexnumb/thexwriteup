@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 23:17:53 GMT | Security in APIs and Microservices: an essential pillar of Software Quality | Marcelo Esperandio Lucio | [Read More](https://medium.com/p/71667dcb869a) |
+| Mon, 12 May 2025 23:05:06 GMT | THM: Blue | RedHatReed | [Read More](https://medium.com/p/f36063438d85) |
+| Mon, 12 May 2025 23:02:51 GMT | Part 1: How to Become a Pentester in 2025: Free & Affordable Online Labs | Anezaneo | [Read More](https://medium.com/p/940b6bf8061c) |
+| Mon, 12 May 2025 22:55:23 GMT | Threat Modeling a Batch Job System on AWS ~ Video and Slides | Teri Radichel | [Read More](https://medium.com/p/3f3c26dd31d8) |
+| Mon, 12 May 2025 22:53:47 GMT | HTTP Protocol | tech_rybbit | [Read More](https://medium.com/p/d1e72de08d46) |
+| Mon, 12 May 2025 22:52:37 GMT | Implementing Passkeys in Android — A Full-Stack Guide | Tom Colvin | [Read More](https://medium.com/p/9436744af9ab) |
+| Mon, 12 May 2025 22:50:08 GMT | Night 5: The Three Apples ( Cyber-Sec Anti-Detective) | Shwetha Jayaraj | [Read More](https://medium.com/p/18e92fe42d81) |
+| Mon, 12 May 2025 22:38:01 GMT | Docker Vulnerabilities: It’s Not Just About Patching and fixing the configuration files | Saurabh Srivastava | [Read More](https://medium.com/p/b77a46c9eb03) |
 | Mon, 12 May 2025 22:33:36 GMT | Mixed Feelings | Peas | [Read More](https://medium.com/p/5feb810f2cd4) |
+| Mon, 12 May 2025 22:30:14 GMT | Threat Modeling for AI Systems: STRIDE, DREAD, and Beyond | Dave Patten | [Read More](https://medium.com/p/8a3996a0ab43) |
 | Mon, 12 May 2025 22:24:23 GMT | Full Moon In Scorpio during Pluto retrogade | M8L4MU53 | [Read More](https://medium.com/p/ce54c2afc330) |
 | Mon, 12 May 2025 22:24:12 GMT | Privacy-Preserving Computation | Mi'kail Eli'yah | [Read More](https://medium.com/p/d1c53afa81a8) |
 | Mon, 12 May 2025 22:16:57 GMT | RECOVERY OF STOLEN COINS WITH CRYPTO PANDEMIC HUNTER | Christopher Renee | [Read More](https://medium.com/p/bb33f2597e0b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 16:02:31 GMT | Part 1: Python Foothold via Macros, HTA, and ISOs | Maxwell Cross | [Read More](https://medium.com/p/05cd56f98b0e) |
 | Mon, 12 May 2025 16:02:28 GMT | Django REST Framework: Authentication & Permissions | Michal Dróżdż | [Read More](https://medium.com/p/5b81da9d0364) |
 | Mon, 12 May 2025 16:02:27 GMT | Security Footage THM - Writeup | Domon | [Read More](https://medium.com/p/307b852514de) |
-| Mon, 12 May 2025 16:01:36 GMT | CROSS SITE FLASHING[XSF] | pyrg0x00 | [Read More](https://medium.com/p/41b41a9d8791) |
-| Mon, 12 May 2025 16:01:25 GMT | Common Active Directory Attacks  found on the OSCP+ | Raymond Van Wart | [Read More](https://medium.com/p/6556ec312bf2) |
-| Mon, 12 May 2025 15:59:39 GMT | The Persistence Problem: Why Exposed Credentials Linger Like Uninvited Guests ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/708d50f36209) |
-| Mon, 12 May 2025 15:59:36 GMT | BitFx reviews | Lewis Kelly | [Read More](https://medium.com/p/b92df9bc73a3) |
-| Mon, 12 May 2025 15:50:26 GMT | Why Penetration Testing Matters for Your Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/f2fb310276ef) |
-| Mon, 12 May 2025 15:46:23 GMT | Privacy Notice dan Choice: Sebuah Peringatan, Penting namun Terabaikan | Barry Sahya | [Read More](https://medium.com/p/58f3fbad491d) |
-| Mon, 12 May 2025 15:39:50 GMT | I Passed the CKA and Created a Free Kubernetes Lab Book With 20+ Exam-Style Scenarios | DevOpsDynamo | [Read More](https://medium.com/p/93277a14dd62) |
-| Mon, 12 May 2025 15:34:11 GMT | Windows Fundamentals 1 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/8f7aff4db4d7) |
-| Mon, 12 May 2025 15:28:41 GMT | Google to Pay $1.375 Billion in Historic Texas Data Privacy Settlement | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/cb091508c9d1) |
