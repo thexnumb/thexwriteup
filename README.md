@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 21:53:02 GMT | Process Hypnosis Injection Technique | S12 - H4CK | [Read More](https://medium.com/p/58e9901ae2cc) |
+| Mon, 12 May 2025 21:38:12 GMT | Top 5 Takeaways for CISOs from RSAC 2025: AI Security in Focus | Mike Pearl | [Read More](https://medium.com/p/019489c3a439) |
+| Mon, 12 May 2025 21:37:44 GMT | Cyberthinks — My Cybersecurity Journey at 18 | Vishesh Dhiman | [Read More](https://medium.com/p/96b0602e13ed) |
+| Mon, 12 May 2025 21:28:28 GMT | A Wake-Up Call from the Digital Edge | Cheng Yi | [Read More](https://medium.com/p/48347c8a77b3) |
+| Mon, 12 May 2025 21:28:09 GMT | HTB — Lame Challenge(Write-up) | GhostX_101 | [Read More](https://medium.com/p/1c56031fa584) |
 | Mon, 12 May 2025 21:24:07 GMT | Unauthenticated Cache Purging Vulnerability | 00xdata | [Read More](https://medium.com/p/29f2641fcbb8) |
 | Mon, 12 May 2025 21:22:42 GMT | ️ Protect What Matters Most – Before It’s Too Late | Mubashir Hussain | [Read More](https://medium.com/p/e8c83dda14a3) |
 | Mon, 12 May 2025 21:10:43 GMT | To migrate to the Rujira token (RUJI) via the Rujira Alliance merger, follow these key steps: | Rujitoken | [Read More](https://medium.com/p/848512624188) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 15:08:22 GMT | Master CRLF Injection: The Underrated Bug with Dangerous Potential | coffinxp | [Read More](https://medium.com/p/33bb0d62e031) |
 | Mon, 12 May 2025 15:04:36 GMT | TryHackMe Windows Command Line | thecaesar | [Read More](https://medium.com/p/34fdb6ed18b1) |
 | Mon, 12 May 2025 15:04:28 GMT | Abu Dhabi Launches Quantum-Resistant Blockchain to Secure Future Digital Infrastructure | MG Singh | [Read More](https://medium.com/p/f724ba79e4a4) |
-| Mon, 12 May 2025 15:02:38 GMT | THM Security Footage Room — Writeup | karna | [Read More](https://medium.com/p/51051e17c30b) |
-| Mon, 12 May 2025 14:58:27 GMT | Anatomy of EVMAuth | Shaun Scovil | [Read More](https://medium.com/p/2c6624ac6f19) |
-| Mon, 12 May 2025 14:56:43 GMT | What Security Managers Don’t Know About Microsoft Azure (But Should) | Everton Araújo | [Read More](https://medium.com/p/1beecd888416) |
-| Mon, 12 May 2025 14:49:34 GMT | Why Everyone’s Suddenly an “AI Expert” — And Why That’s a Little Concerning | satyaranjan bal | [Read More](https://medium.com/p/439037ede7a5) |
-| Mon, 12 May 2025 14:49:08 GMT | The Cybersecurity Escape Room: Every Mistake I Made in My First Job | Vijay Kumar Gupta | [Read More](https://medium.com/p/edee5430548a) |
