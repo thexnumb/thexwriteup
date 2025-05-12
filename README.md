@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 16:41:47 GMT | [Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into… | hackersatty | [Read More](https://medium.com/p/23e0d699d792) |
+| Mon, 12 May 2025 16:36:39 GMT | Virtualized Mobile Forensics Research Using Kali Linux on Android Tablet | Navjot Singh | [Read More](https://medium.com/p/3b4320cf731b) |
+| Mon, 12 May 2025 16:29:05 GMT | When Fear Means Go | Mark | [Read More](https://medium.com/p/4b0ad162c8d1) |
+| Mon, 12 May 2025 16:28:16 GMT | The Evolving Cyber Threat Landscape: A Strategic Outlook for IT Professionals | Travis Ray Caverhill | [Read More](https://medium.com/p/1709e20aed38) |
+| Mon, 12 May 2025 16:26:43 GMT | Who’s Knocking? — A Video Intercom as the Guardian of Your Home | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/ed1ebbbbe20c) |
+| Mon, 12 May 2025 16:24:06 GMT | Navigating Cybersecurity Challenges: How State and Local Governments Must Adapt to the Evolving… | Andrea Alaniz | [Read More](https://medium.com/p/a80058712e7d) |
+| Mon, 12 May 2025 16:22:33 GMT | Building a Secure Telehealth Platform with Amazon Chime SDK and WAF | AWS Cloud Architect | [Read More](https://medium.com/p/6766622bcd74) |
 | Mon, 12 May 2025 16:19:17 GMT | Windows Fundamentals 2 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/9b73c6390cc4) |
 | Mon, 12 May 2025 16:19:06 GMT | Uploading Files to Google Cloud Storage (GCS) Using the gsutil Command-Line Tool | Asmitha | [Read More](https://medium.com/p/71bca0a2b731) |
 | Mon, 12 May 2025 16:18:00 GMT | Weird Leak? Favicon Caching Might Be Exposing You | An0n | [Read More](https://medium.com/p/ebefcce7a2c8) |
@@ -27,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 15:59:39 GMT | The Persistence Problem: Why Exposed Credentials Linger Like Uninvited Guests ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/708d50f36209) |
 | Mon, 12 May 2025 15:59:36 GMT | BitFx reviews | Lewis Kelly | [Read More](https://medium.com/p/b92df9bc73a3) |
 | Mon, 12 May 2025 15:50:26 GMT | Why Penetration Testing Matters for Your Business Security | SafeAeon Inc. | [Read More](https://medium.com/p/f2fb310276ef) |
+| Mon, 12 May 2025 15:46:23 GMT | Privacy Notice dan Choice: Sebuah Peringatan, Penting namun Terabaikan | Barry Sahya | [Read More](https://medium.com/p/58f3fbad491d) |
 | Mon, 12 May 2025 15:39:50 GMT | I Passed the CKA and Created a Free Kubernetes Lab Book With 20+ Exam-Style Scenarios | DevOpsDynamo | [Read More](https://medium.com/p/93277a14dd62) |
 | Mon, 12 May 2025 15:34:11 GMT | Windows Fundamentals 1 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/8f7aff4db4d7) |
 | Mon, 12 May 2025 15:28:41 GMT | Google to Pay $1.375 Billion in Historic Texas Data Privacy Settlement | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/cb091508c9d1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 12:16:16 GMT | Look at Google Search Updates from 2011 to 2025: How Search Has Shifted Over Time | Bhavesh Rajpurohit | [Read More](https://medium.com/p/b95bde9ee3a1) |
 | Mon, 12 May 2025 12:13:39 GMT | Bypassing 2FA in a Banking App — A Real-World Example | Reshop Das | [Read More](https://medium.com/p/7a3a47653e78) |
 | Mon, 12 May 2025 12:09:59 GMT | How I Caught a Suspicious Shell Script Running in /tmp (And What It Taught Me) | Faruk Ahmed | [Read More](https://medium.com/p/19fcd7abe63a) |
-| Mon, 12 May 2025 12:09:22 GMT | Let’s Talk Network Security — The Smart Way | M.Magdy | [Read More](https://medium.com/p/690ca76b91d8) |
-| Mon, 12 May 2025 12:09:12 GMT | Top 5 Cyber Security Challenges: How to Overcome Them in 2025 | West Advanced Technologies Inc | [Read More](https://medium.com/p/93439f92d8cb) |
-| Mon, 12 May 2025 12:05:45 GMT | SQL Server 2016 ve Sonrası Veritabanlarında Dinamik Veri Maskeleme (DDM) | Murat Culum | [Read More](https://medium.com/p/e6135004d8b6) |
-| Mon, 12 May 2025 12:02:28 GMT | My Journey to Becoming an ISO/IEC 27001:2022 Lead Auditor: How Cybersecurity Shapes Impact and… | Grace James kaka | [Read More](https://medium.com/p/8e2f9f42ce74) |
-| Mon, 12 May 2025 12:00:55 GMT | The missing information system. URLs of the Physical World. | PLESION | [Read More](https://medium.com/p/ac53612b1cc0) |
-| Mon, 12 May 2025 11:59:18 GMT | After Hours Security Services: Keeping Your Property Safe When It Matters Most | Ava Levi | [Read More](https://medium.com/p/d35a1bff18fe) |
-| Mon, 12 May 2025 11:48:57 GMT | How kube-score Helped Me Harden My Node JS Application Deployment | Chetan Bothra | [Read More](https://medium.com/p/13e54a46205e) |
-| Mon, 12 May 2025 11:46:20 GMT | DORK $DORK: The Key to Unlocking Bigger Earnings | DORK | [Read More](https://medium.com/p/cde8084ad49d) |
