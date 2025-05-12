@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 May 2025 01:41:22 GMT | $25,000 SSRF in HackerOne’s Analytics Reports | Monika sharma | [Read More](https://medium.com/p/b9a5b3aa3d6e) |
+| Mon, 12 May 2025 01:41:18 GMT | Sleepwalking Botnets Are Real — and They’re Coming for Your Business | Noel | [Read More](https://medium.com/p/a59f747bde55) |
+| Mon, 12 May 2025 01:41:13 GMT | The $45,000 Vacuum Cleaner That Hacked a Business | Noel | [Read More](https://medium.com/p/edb087f19dbc) |
+| Mon, 12 May 2025 01:41:10 GMT | The Drone That Took Down a $1M Business: A 2025 Cybersecurity Nightmare | Noel | [Read More](https://medium.com/p/23e529d1ad43) |
+| Mon, 12 May 2025 01:36:44 GMT | Multivariate Polynomial Cryptography: Quadratic Equations vs. Quantum Computers | Jay Pandit | [Read More](https://medium.com/p/54912a559016) |
+| Mon, 12 May 2025 01:31:44 GMT | How I Solved a Server-Side Template Injection Challenge (picoCTF Write-up) | 00xtrkh | [Read More](https://medium.com/p/d8bda172a440) |
+| Mon, 12 May 2025 01:26:18 GMT | The Ultimate Guide to OWASP Top Ten Security Risks | deepak katara | [Read More](https://medium.com/p/f05d756869dc) |
+| Mon, 12 May 2025 01:09:13 GMT | The Fears of Friendship: | Jophiel J | [Read More](https://medium.com/p/1ec216a054a9) |
+| Mon, 12 May 2025 01:09:01 GMT | Why Making Quick Reference Guides in Cybersecurity Is Necessary | Zavier Chambers | [Read More](https://medium.com/p/3b790847a6df) |
+| Mon, 12 May 2025 00:59:44 GMT | Vulnerability Assessment and Penetration Testing of a Deliberately Vulnerable | Amirul Afiq | [Read More](https://medium.com/p/6376d80a83f6) |
+| Mon, 12 May 2025 00:49:45 GMT | สรุปการศึกษาเรื่อง Security Principles | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/8745e387b800) |
+| Mon, 12 May 2025 00:14:29 GMT | Where Is the Justice for the Heart? | disisnabzz | [Read More](https://medium.com/p/0eb2556674b3) |
+| Sun, 11 May 2025 23:56:52 GMT | How Ethical Hackers Find and Exploit Security Flaws | Sohampawar | [Read More](https://medium.com/p/726eaeaf28e0) |
+| Sun, 11 May 2025 23:39:38 GMT | Orlando’s Urban Expansion Drives Demand for Network Infrastructure, IT Services and Cybersecurity | Alexandre Acioli Alves | [Read More](https://medium.com/p/73dfbdb73b69) |
 | Sun, 11 May 2025 23:32:27 GMT | Red Team Concepts by Mr. David | Darshan Naresh Naik | [Read More](https://medium.com/p/5650776fd778) |
 | Sun, 11 May 2025 23:17:59 GMT | Authorization Bypass Through HTTP Response Manipulation | OctaYus | [Read More](https://medium.com/p/00e318a5b722) |
 | Sun, 11 May 2025 23:17:27 GMT | What is Cybersecurity? What are its Types and its Advantages? | Samridhi | [Read More](https://medium.com/p/c20f5275877c) |
@@ -99,17 +113,3 @@ May 11… | Veridian Zenith Tech | [Read More](https://medium.com/p/2fd1e50fb178
 | Sun, 11 May 2025 14:52:22 GMT | Retracted - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/365482ff8317) |
 | Sun, 11 May 2025 14:42:56 GMT | Cracks in the Castle: Your Beginner’s Guide to Vulnerability Assessment and Management | Owais Mohammad | [Read More](https://medium.com/p/c91aec701fff) |
 | Sun, 11 May 2025 14:42:53 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/676e3c4cd67d) |
-| Sun, 11 May 2025 14:39:02 GMT | When Friendship Starts to Feel Like a Transaction | @changemaker | [Read More](https://medium.com/p/6cb36668d2ef) |
-| Sun, 11 May 2025 14:38:02 GMT | LinkVortex — HTB | 14mj4ck | [Read More](https://medium.com/p/b4c3d7fce498) |
-| Sun, 11 May 2025 14:35:46 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/73f12cac6725) |
-| Sun, 11 May 2025 14:27:31 GMT | HackTheBox- Planning | HckN1L | [Read More](https://medium.com/p/343976c3b02e) |
-| Sun, 11 May 2025 14:21:45 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/bc9760dd379f) |
-| Sun, 11 May 2025 14:11:02 GMT | Alert — HTB | 14mj4ck | [Read More](https://medium.com/p/a38264622938) |
-| Sun, 11 May 2025 14:10:56 GMT | Pentest Süreçlerinde Yapay Zekâ Kullanımı: Yardımcı mı, Oyuncu mu? | Onur Civan | [Read More](https://medium.com/p/d3649a9f5d99) |
-| Sun, 11 May 2025 14:07:05 GMT | Detecting Backdoors in Enterprise Networks: A Modern Cybersecurity Priority | CyDhaal | [Read More](https://medium.com/p/24b6172541ce) |
-| Sun, 11 May 2025 14:04:24 GMT | Strengthen Your iPhone’s Security with These 5 Settings | Justin Pineda | [Read More](https://medium.com/p/86c4107e2d82) |
-| Sun, 11 May 2025 13:55:55 GMT | Critical Azure & Power Apps Vulnerabilities Patched by Microsoft: What You Need to Know | CyDhaal | [Read More](https://medium.com/p/101b33521a56) |
-| Sun, 11 May 2025 13:51:58 GMT | We’re Finally Winning: Google’s $1.4 Billion Texas Settlement for Privacy Breaches | Mike Broadly, DHSc | [Read More](https://medium.com/p/b4375783e95e) |
-| Sun, 11 May 2025 13:51:46 GMT | Everything You Need to Know About OpenSSH | Kuldeepkumawat | [Read More](https://medium.com/p/31bdaf684133) |
-| Sun, 11 May 2025 13:49:59 GMT | Reconnaissance: The Cyber Attack Blueprint | Defeu James | [Read More](https://medium.com/p/f325d5784df0) |
-| Sun, 11 May 2025 13:48:31 GMT | Detecting Cyber Threats Before They Strike | Defeu James | [Read More](https://medium.com/p/41c79f0c74f1) |
