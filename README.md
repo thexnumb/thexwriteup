@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 17:36:37 GMT | Why Continuous Penetration Testing Is a Must in 2025 | Mehak kamra | [Read More](https://medium.com/p/cc685c068a9c) |
+| Tue, 13 May 2025 17:34:58 GMT | The Security Gap JPMorgan Chase’s CISO Didn’t Mention — And Why It’s in Your Browser | Mary Yang | [Read More](https://medium.com/p/b85ed07a028a) |
+| Tue, 13 May 2025 17:32:28 GMT | 7 Cybersecurity Project Ideas You Can Actually Finish (And Learn From) | SoBatista | [Read More](https://medium.com/p/eb88ab6932b8) |
+| Tue, 13 May 2025 17:32:06 GMT | Understanding MIME Sniffing attacks: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/7151e1a5d9a5) |
+| Tue, 13 May 2025 17:26:24 GMT | How to Check a Phishing Email Domain and Tips to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/8e81d8a2312c) |
+| Tue, 13 May 2025 17:23:58 GMT | Build Your Own AI SOC — Part 4 | Corey Jones | [Read More](https://medium.com/p/b91267073f14) |
+| Tue, 13 May 2025 17:23:20 GMT | Organizational Units & Groups | Dito _0xE7 | [Read More](https://medium.com/p/7661f3a5a468) |
+| Tue, 13 May 2025 17:21:41 GMT | Automatización y Pentesting: Usa la IA y herramientas Open-Source | Faraday Team | [Read More](https://medium.com/p/c62febab70b3) |
+| Tue, 13 May 2025 17:08:29 GMT | Log 01: Cyber… Security… Cybersecurity? | Apurva Cybersecurity | [Read More](https://medium.com/p/d562c0305508) |
 | Tue, 13 May 2025 17:07:57 GMT | Fake CAPTCHA Attack: How Trust Can Be Turned Against You | Nayan Raj Sah | [Read More](https://medium.com/p/a42b59f66e88) |
 | Tue, 13 May 2025 17:04:00 GMT | My Broken Heart Was My First Cybersecurity Portofolio and Experience : A Write-Up | NafyCat69 | [Read More](https://medium.com/p/6e0fd4260284) |
 | Tue, 13 May 2025 16:54:57 GMT | sorry I texted back immediately, I’m a grown up, the phone was in my hand and I genuinely like you | Novia Ageng | [Read More](https://medium.com/p/9f5107a89529) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 12:00:14 GMT | The Complete Checklist for Migrating to Automated Reconciliation | Kosh AI | [Read More](https://medium.com/p/4b58b1091ac3) |
 | Tue, 13 May 2025 11:56:31 GMT | Why Australia is the Ideal Country for IT Jobs in 2025 | Ubicor Capital | [Read More](https://medium.com/p/15397d570307) |
 | Tue, 13 May 2025 11:39:17 GMT | Web Cache | saad eddine | [Read More](https://medium.com/p/6065a266ae95) |
-| Tue, 13 May 2025 11:38:16 GMT | Managing the Third-Party Supply-Chain Questionnaire Headache | Paul Missio | [Read More](https://medium.com/p/0ec983156c3a) |
-| Tue, 13 May 2025 11:34:40 GMT | piccico spaccifico, non spassoso e tipo brutto (bug sul PC con la RAM satura e non) | octospacc | [Read More](https://medium.com/p/881964add3dc) |
-| Tue, 13 May 2025 11:22:29 GMT | This Is Why Hackers Keep Winning :) Weak Passwords! | Your's Nightmare | [Read More](https://medium.com/p/4b25124cbfa3) |
-| Tue, 13 May 2025 11:21:06 GMT | Network Security Series — Part 2 | M.Magdy | [Read More](https://medium.com/p/5c187fab202e) |
-| Tue, 13 May 2025 11:20:02 GMT | The Complete Guide to Securing Your Home Wi-Fi Network in 2025 | Ricardo Leal | [Read More](https://medium.com/p/7a69bdd2a2ca) |
-| Tue, 13 May 2025 11:19:43 GMT | Day 8: ️ Prompt Injection in AI — What It Is & How to Defend Against It | Somya Golchha | [Read More](https://medium.com/p/4a5ca6470ce7) |
-| Tue, 13 May 2025 11:18:08 GMT | Warning Signs Your Phone Might Be Hacked | Your's Nightmare | [Read More](https://medium.com/p/ae95f965a36b) |
-| Tue, 13 May 2025 11:15:40 GMT | Testing out some PowerShell commands for creating new sample aliases, opening the profile script to… | Tyrik Emptage | [Read More](https://medium.com/p/e4ac93f86c05) |
-| Tue, 13 May 2025 11:10:43 GMT | The Biggest Crisis of the Modern Era: Technological Disruption and Cybersecurity Threats | Kevin Shah | [Read More](https://medium.com/p/2ce4d1996461) |
