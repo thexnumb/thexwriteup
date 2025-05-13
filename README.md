@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 03:42:25 GMT | TOMGHOST- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/64b5984ef355) |
+| Tue, 13 May 2025 03:32:28 GMT | SpyX Exposed: When Stalkerware Gets Stalked and 2 Million Users Pay the Price | Deven Chhajed | [Read More](https://medium.com/p/003bac5d03b9) |
+| Tue, 13 May 2025 03:19:55 GMT | KMS Isn’t Just for S3: Let’s Talk EC2 Volumes | Fiardika Rizki | [Read More](https://medium.com/p/cce60d52fc76) |
+| Tue, 13 May 2025 03:19:03 GMT | Wait… My S3 Bucket Wasn’t Actually Locked?! A KMS Story | Fiardika Rizki | [Read More](https://medium.com/p/fd8216cd3f26) |
+| Tue, 13 May 2025 03:11:56 GMT | How to Supercharge Your Earnings by DORK $DORK | DORK | [Read More](https://medium.com/p/60ec4cec6e5a) |
+| Tue, 13 May 2025 03:10:25 GMT | The 3-Second Social Media Hack That Protects Your Kids | Ahmad Javed | [Read More](https://medium.com/p/77fdb211254b) |
 | Tue, 13 May 2025 03:04:08 GMT | Inside the Shadows: Why HTTP Smuggling Still Breaks the Web | Isv | [Read More](https://medium.com/p/c81c69577fdd) |
 | Tue, 13 May 2025 03:02:35 GMT | Stop Blaming QA for Production Bugs — Start Building Stronger Teams | Test Tactix | [Read More](https://medium.com/p/f82d2d8506d3) |
+| Tue, 13 May 2025 03:02:31 GMT | The Age of Disruption | Vic Langston - Journalist | [Read More](https://medium.com/p/5d502ded0623) |
 | Tue, 13 May 2025 02:58:18 GMT | Basic vulnerability exploit: Understanding vulnerability | Syakir Sulaiman | [Read More](https://medium.com/p/f6dbd5562af8) |
 | Tue, 13 May 2025 02:55:50 GMT | TShark | Shamar Isaac | [Read More](https://medium.com/p/50a97ff1f7bc) |
 | Tue, 13 May 2025 02:54:26 GMT | CVE Rewards: How to Get Started | CVE | [Read More](https://medium.com/p/0d6dd30bd3a2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 18:15:14 GMT | Tryhackme : Security Footage Oda Çözümü | yigitsarioglu | [Read More](https://medium.com/p/46b822aa0a66) |
 | Mon, 12 May 2025 18:12:34 GMT | Why ‘Just Finishing Tasks’ Is Killing Your Career Growth | Jaya Vishwakarma | [Read More](https://medium.com/p/09ecd8b14ae5) |
 | Mon, 12 May 2025 18:11:21 GMT | Entry #60 | O.J. Whiskey | [Read More](https://medium.com/p/eaee7198de28) |
-| Mon, 12 May 2025 18:04:58 GMT | HTB — Escape Write-up | Nikita Astashenko | [Read More](https://medium.com/p/b0caad2d8f7c) |
-| Mon, 12 May 2025 17:58:50 GMT | DPAPI Blob Hunting | Tom O'Neill | [Read More](https://medium.com/p/967d2baead6a) |
-| Mon, 12 May 2025 17:57:41 GMT | The No-Bull Guide to Safer Internet Browsing | O. J. Okpabi | [Read More](https://medium.com/p/319f0d5698d2) |
-| Mon, 12 May 2025 17:56:13 GMT | Installation, Set-Up and doing Dynamic Analysis and Static analysis using mobsf | Kennedymutugi | [Read More](https://medium.com/p/920690991a68) |
-| Mon, 12 May 2025 17:53:47 GMT | How To Hacking Safe Exam Browser 3.4 for MacOS or 3.7 for Windows | Givenchy ampulembang | [Read More](https://medium.com/p/51d2608432e4) |
-| Mon, 12 May 2025 17:53:24 GMT | Why Rainbow Secure is perfect fit for businesses that want secure access control without heavy IT… | Dr. Shashi Karhail | [Read More](https://medium.com/p/816d95831c44) |
-| Mon, 12 May 2025 17:39:57 GMT | LetsDefend — SpiceRAT (Medium) | Mateo Pappa | [Read More](https://medium.com/p/881a474c0982) |
