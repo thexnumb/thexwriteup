@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 04:24:09 GMT | Jaibreak Detection Bypass using Shadow | RRespxwnss | [Read More](https://medium.com/p/2908f0057516) |
+| Tue, 13 May 2025 04:05:19 GMT | The Linux Concept Journey — Linux Kernel | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0b06457569e8) |
+| Tue, 13 May 2025 03:53:45 GMT | Even the Strong Get Tired of Being Strong | Dhruvi ✨ | [Read More](https://medium.com/p/75f95adf6c1e) |
 | Tue, 13 May 2025 03:42:25 GMT | TOMGHOST- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/64b5984ef355) |
 | Tue, 13 May 2025 03:32:28 GMT | SpyX Exposed: When Stalkerware Gets Stalked and 2 Million Users Pay the Price | Deven Chhajed | [Read More](https://medium.com/p/003bac5d03b9) |
 | Tue, 13 May 2025 03:19:55 GMT | KMS Isn’t Just for S3: Let’s Talk EC2 Volumes | Fiardika Rizki | [Read More](https://medium.com/p/cce60d52fc76) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 18:32:24 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/04117e5498fe) |
 | Mon, 12 May 2025 18:24:12 GMT | Even after believing you’ve become capable of everything, that what once caused you pain no longer… | Madona_luchi️ | [Read More](https://medium.com/p/37f76b6ad0be) |
 | Mon, 12 May 2025 18:19:21 GMT | Fighting Financial Fraud and Inequality with AI: My Journey in Applied Research | Md Tanvir Rahman | [Read More](https://medium.com/p/6ec81ab21716) |
-| Mon, 12 May 2025 18:15:14 GMT | Tryhackme : Security Footage Oda Çözümü | yigitsarioglu | [Read More](https://medium.com/p/46b822aa0a66) |
-| Mon, 12 May 2025 18:12:34 GMT | Why ‘Just Finishing Tasks’ Is Killing Your Career Growth | Jaya Vishwakarma | [Read More](https://medium.com/p/09ecd8b14ae5) |
-| Mon, 12 May 2025 18:11:21 GMT | Entry #60 | O.J. Whiskey | [Read More](https://medium.com/p/eaee7198de28) |
