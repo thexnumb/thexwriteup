@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 08:42:54 GMT | Why Metrics Matter in Modern Security Operations. | SecOps | [Read More](https://medium.com/p/97b0b84b5c35) |
+| Tue, 13 May 2025 08:40:59 GMT | “Using Public Wi-Fi Without This? | Vexpoltech | [Read More](https://medium.com/p/23b8f68b0ce0) |
+| Tue, 13 May 2025 08:31:31 GMT | Practical Malware Analysis — Lab 7 | Sapir Twig | [Read More](https://medium.com/p/9db4f9f4a4f9) |
 | Tue, 13 May 2025 08:25:11 GMT | Appalling cybercrime statistics underscore why cybersecurity matters | hide.me VPN | [Read More](https://medium.com/p/35522f903ef2) |
 | Tue, 13 May 2025 08:22:00 GMT | Privacy rules are shifting fast — here’s what to know | hide.me VPN | [Read More](https://medium.com/p/67a6515673fc) |
 | Tue, 13 May 2025 08:16:47 GMT | Cybersecurity Transformation & Strategy: Why Interceptica Is the Right Partner for Your Enterprise | Padma | [Read More](https://medium.com/p/0aea0ea7c11e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 01:54:48 GMT | Basic Computer Architecture for Cybersecurity | Kyoungmin Roh | [Read More](https://medium.com/p/1559bd5bc42d) |
 | Tue, 13 May 2025 01:42:01 GMT | Why Passwords Aren’t Enough: A Simple Guide to Multi-Factor Authentication (MFA) | Ram Nikhil Meka | [Read More](https://medium.com/p/ab1533070fdb) |
 | Tue, 13 May 2025 01:33:12 GMT | LockBit Hacking Group Defaced and Compromised — May 2025 Incident Report | KN | [Read More](https://medium.com/p/15c4e4a7e1a8) |
-| Tue, 13 May 2025 01:28:19 GMT | Snyk plugin for JetBrains IDE’s | Michael Harms | [Read More](https://medium.com/p/4a982ab73eea) |
-| Tue, 13 May 2025 01:20:38 GMT | Boost Your Bug $BUG Strategy with These Expert Tips | BUG | [Read More](https://medium.com/p/6bc5f591b77d) |
-| Tue, 13 May 2025 01:09:41 GMT | XINTRA Abu Jibal Lab Walkthrough | Faisalalq | [Read More](https://medium.com/p/10342ec55f78) |
