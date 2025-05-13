@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 06:21:22 GMT | don’t know where to start Bug Bounty!!! start your journey now | mR.nObOdY | [Read More](https://medium.com/p/150e63d052f4) |
+| Tue, 13 May 2025 06:16:26 GMT | Secure Shared Logging: Creating a Centralized Logs Directory for Multiple Linux Users | Ayushmaan Srivastav | [Read More](https://medium.com/p/79ec84b886e4) |
+| Tue, 13 May 2025 06:09:45 GMT | The Daily Tech Digest: 13 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9f7a7b9022ed) |
+| Tue, 13 May 2025 06:08:20 GMT | Securing Your Distributed Control System: A Cybersecurity Guide | Kavyarajeev | [Read More](https://medium.com/p/d737e0598400) |
+| Tue, 13 May 2025 06:02:35 GMT | Always carry out audits on networks that you are been granted permissions to….. | ABUBAKAR ADAMU | [Read More](https://medium.com/p/2752b4b7c750) |
+| Tue, 13 May 2025 06:01:30 GMT | Unlocking the Power of SBOM: Your Guide to Software Bill of Materials | Monish Correia | [Read More](https://medium.com/p/ff2484a23724) |
+| Tue, 13 May 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — May 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0a305ccd0f01) |
+| Tue, 13 May 2025 05:56:28 GMT | Why do we need SSL? | techwithpatil | [Read More](https://medium.com/p/4914f9a30e28) |
+| Tue, 13 May 2025 05:55:47 GMT | Supply Chain Security with CIS SecureSuite Certification and Mondoo’s Compliance on Autopilot | Infralovers GmbH | [Read More](https://medium.com/p/5276a86d8861) |
+| Tue, 13 May 2025 05:55:31 GMT | Kubernetes Security Posture Management: Safeguarding Clusters and Workloads | Infralovers GmbH | [Read More](https://medium.com/p/4832ef46c934) |
+| Tue, 13 May 2025 05:51:34 GMT | The Ultimate Guide to Curvance $CVE | CVE | [Read More](https://medium.com/p/119e39219b07) |
+| Tue, 13 May 2025 05:50:54 GMT | What if the people you love are just you in disguise? | Abbi | [Read More](https://medium.com/p/78aca5d57096) |
+| Tue, 13 May 2025 05:49:04 GMT | Bypassing CSRF Protections | Itamar Yochpaz | [Read More](https://medium.com/p/7db64f26b9e5) |
+| Tue, 13 May 2025 05:48:48 GMT | $256 Bounty : XSS via Web Cache Poisoning in Discourse | Monika sharma | [Read More](https://medium.com/p/594d5961555e) |
+| Tue, 13 May 2025 05:46:29 GMT | The Missing Piece in Cloud Security: GRC | Aashish Baweja | [Read More](https://medium.com/p/d6bfa7ee9c86) |
 | Tue, 13 May 2025 05:41:47 GMT | How Hackers Bypass Login Pages with SQL, Logic Flaws, and Headers | Vipul Sonule | [Read More](https://medium.com/p/567a5649e701) |
 | Tue, 13 May 2025 05:40:04 GMT | Forget Me Not: How Broken Logout Functionality Let Me Ride Sessions Forever | Iski | [Read More](https://medium.com/p/3435e6d98845) |
 | Tue, 13 May 2025 05:38:18 GMT | Cyber Security Awareness | ABUBAKAR ADAMU | [Read More](https://medium.com/p/17c4492d8676) |
+| Tue, 13 May 2025 05:37:24 GMT | Comparing Popular Static Application Security Testing (SAST) Tools | Jin Vincent Necesario | [Read More](https://medium.com/p/04fa2e0143ce) |
 | Tue, 13 May 2025 05:15:24 GMT | Agentic Security | Javier Calderon Jr | [Read More](https://medium.com/p/fc3287af6966) |
 | Tue, 13 May 2025 05:14:08 GMT | Detect, Defend & Mitigate Non-Human Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b410884d57cd) |
 | Tue, 13 May 2025 05:09:32 GMT | Don’t Let Swap Crash Your Cluster: A Kubernetes Warning | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0af54d291444) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 21:10:43 GMT | To migrate to the Rujira token (RUJI) via the Rujira Alliance merger, follow these key steps: | Rujitoken | [Read More](https://medium.com/p/848512624188) |
 | Mon, 12 May 2025 21:03:43 GMT | Who is Cyberthinks? My Story as a Young Ethical Hacker | Vishesh Dhiman | [Read More](https://medium.com/p/493725ee68ed) |
 | Mon, 12 May 2025 20:57:47 GMT | How to Turn LunaFi $LFI into Your Most Profitable Investment | LFI | [Read More](https://medium.com/p/a2b86ef92913) |
-| Mon, 12 May 2025 20:57:22 GMT | Architectural Debt is Costing Enterprises Millions - This Is the Framework I Use to Make It Visible… | Azzeddine Amiar | [Read More](https://medium.com/p/271828590ac4) |
-| Mon, 12 May 2025 20:54:05 GMT | UnderPass - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/6d134ede7763) |
-| Mon, 12 May 2025 20:20:52 GMT | Malvertising’s New Threat: Exploiting Trusted Google Domains | Moriya Pedael | [Read More](https://medium.com/p/552b8b9b607c) |
-| Mon, 12 May 2025 20:19:33 GMT | When Code Turns Kinetic: Mapping and Breaking ICS Attack Chains Through Realistic Simulation | Param Dhagia | [Read More](https://medium.com/p/c4f587d007b7) |
-| Mon, 12 May 2025 20:19:32 GMT | DragonForce Goes Retail: Inside the Cyber Siege of M&S, Co-op, and Harrods | Irem | [Read More](https://medium.com/p/0c02c927ad75) |
-| Mon, 12 May 2025 20:18:27 GMT | How to Copy Any Website in Seconds ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/3074506c4525) |
-| Mon, 12 May 2025 19:59:07 GMT | Ink Bleeds Too | Henry | [Read More](https://medium.com/p/cc372b8730ac) |
-| Mon, 12 May 2025 19:57:53 GMT | LockBit Ransomware Gang Hacked: Inside the Leak That Shook the Dark Web | Irem | [Read More](https://medium.com/p/cdcb72f00e12) |
-| Mon, 12 May 2025 19:51:39 GMT | Why I Couldn’t Stay Silent Any Longer | TJ Larson | [Read More](https://medium.com/p/3c1aaaaee56c) |
-| Mon, 12 May 2025 19:48:40 GMT | How WiFi Monitoring Can Improve Network Security | Abdulraheemyoo | [Read More](https://medium.com/p/a70e87fde102) |
-| Mon, 12 May 2025 19:47:06 GMT | Choosing the Right MSP: A Smart Move for Your Business | Donald Betancourt | [Read More](https://medium.com/p/843ee4b214a5) |
-| Mon, 12 May 2025 19:40:21 GMT | ️Web3 Security Weekly Digest — May 5–11, 2025 | Null Return | [Read More](https://medium.com/p/534a45aa7a78) |
-| Mon, 12 May 2025 19:39:16 GMT | Slashing EPA funding may have downstream cybersecurity impacts on an already vulnerable water… | Center for Long-Term Cybersecurity | [Read More](https://medium.com/p/72b46d194239) |
-| Mon, 12 May 2025 19:36:57 GMT | Learning AI as a Cybersecurity Student: A Personal Journey — Day 1 | Arshathhaq | [Read More](https://medium.com/p/7e69d6785deb) |
-| Mon, 12 May 2025 19:33:19 GMT | Advanced Threat Hunting with EDR: Building Custom Detection Rules | ByteSectorX | [Read More](https://medium.com/p/f32dd9bc49f1) |
-| Mon, 12 May 2025 19:20:08 GMT | IAM and Cybersecurity in India: Challenges, Gaps, and the Road Ahead | Manoj Gulahe | [Read More](https://medium.com/p/fee438445a37) |
