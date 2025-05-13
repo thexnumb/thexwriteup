@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 07:36:43 GMT | Disclose The Agent: Agent Hunt | Ritchy Tran | [Read More](https://medium.com/p/d49b6b267dc9) |
+| Tue, 13 May 2025 07:31:58 GMT | GOAD Part 2: When Enumeration Bites Back - From SMB to R.I.P. | Cyb3rByte | [Read More](https://medium.com/p/ee7708c98b7d) |
+| Tue, 13 May 2025 07:27:03 GMT | UK Cyber Events: Lessons from the High Street | WayneReidUK | [Read More](https://medium.com/p/e16ce3479343) |
+| Tue, 13 May 2025 07:25:05 GMT | The Evolution of Information Sharing Throughout History | linglingling3 | [Read More](https://medium.com/p/347938ea1ef1) |
+| Tue, 13 May 2025 07:11:11 GMT | This Is Why You’re Not Getting Hired — Even If You’re Doing Everything Right | Prism HRC | [Read More](https://medium.com/p/0adf7cef3c1f) |
 | Tue, 13 May 2025 07:10:34 GMT | RAILGUN: Elevating Privacy in Decentralized Finance | Abhinav Soomaney | [Read More](https://medium.com/p/d8600779c711) |
 | Tue, 13 May 2025 07:03:18 GMT | SSH Explained: What SFMC Admins & Developers Need to Know | Charlie Fay | [Read More](https://medium.com/p/f146b9b41550) |
 | Tue, 13 May 2025 07:02:46 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/85c6b1758170) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 23:46:26 GMT | Earn Passive Income with Bug: The Smart Way | BUG | [Read More](https://medium.com/p/dbdff8252ac5) |
 | Mon, 12 May 2025 23:41:02 GMT | $1,120 Bounty: Clickjacking Vulnerability in Twitter Periscope | Monika sharma | [Read More](https://medium.com/p/b46e8dfc8915) |
 | Mon, 12 May 2025 23:32:27 GMT | This One Grammar Mistake Is Why Your Board Doesn’t Trust Your Security Reports | Lee Barney | [Read More](https://medium.com/p/8e5298a6d671) |
-| Mon, 12 May 2025 23:17:53 GMT | Security in APIs and Microservices: an essential pillar of Software Quality | Marcelo Esperandio Lucio | [Read More](https://medium.com/p/71667dcb869a) |
-| Mon, 12 May 2025 23:11:12 GMT | What do one’s past choices look like when seen through the eyes of the present? | Vuotosiderale | [Read More](https://medium.com/p/13804659b69d) |
-| Mon, 12 May 2025 23:05:06 GMT | THM: Blue | RedHatReed | [Read More](https://medium.com/p/f36063438d85) |
-| Mon, 12 May 2025 23:02:51 GMT | Part 1: How to Become a Pentester in 2025: Free & Affordable Online Labs | Anezaneo | [Read More](https://medium.com/p/940b6bf8061c) |
-| Mon, 12 May 2025 22:55:23 GMT | Threat Modeling a Batch Job System on AWS ~ Video and Slides | Teri Radichel | [Read More](https://medium.com/p/3f3c26dd31d8) |
