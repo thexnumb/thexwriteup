@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 10:44:06 GMT | How to choose the right cybersecurity service on Fiverr | Bd Techhouse | [Read More](https://medium.com/p/c196e5ad6d17) |
+| Tue, 13 May 2025 10:38:23 GMT | Cracking the Windows Ceiling: A Practical Guide to Privilege Escalation. | abhi mistry | [Read More](https://medium.com/p/0c3934bca52f) |
+| Tue, 13 May 2025 10:38:07 GMT | Detecting Threats with Wazuh FIM | CyberRanger Labs | [Read More](https://medium.com/p/18b1aa877672) |
+| Tue, 13 May 2025 10:32:54 GMT | Regular Expressions — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/8bc46445e6e8) |
+| Tue, 13 May 2025 10:32:16 GMT | Say Goodbye to Passwords: How Microsoft’s Passkeys Are Rewriting the Rules of Business Security | Elie Attieh | [Read More](https://medium.com/p/73beb4ca8d3f) |
+| Tue, 13 May 2025 10:31:46 GMT | Cyber Security Engineering Admission 2025 - Cyber Security Engineering College Greater Noida | deveshdhama | [Read More](https://medium.com/p/8a5e69f4061b) |
+| Tue, 13 May 2025 10:31:07 GMT | Inside the Mind of a Hacker: Social Engineering in Red Team Operations | Oshada Rashmika | [Read More](https://medium.com/p/09362103135f) |
+| Tue, 13 May 2025 10:29:52 GMT | How to Choose the Right Cybersecurity Service Provider for Your Business ? | Saurabh | [Read More](https://medium.com/p/1c0c2e6a0918) |
+| Tue, 13 May 2025 10:29:14 GMT | iClicker Hacked: Fake CAPTCHA Used to Trick Students into Running Malware | Infoziant | [Read More](https://medium.com/p/bc09de80f4ba) |
+| Tue, 13 May 2025 10:24:37 GMT | When Trust is Exploited: A Real-World EDR Bypass Story | Harsimrat Korey | [Read More](https://medium.com/p/7121e402a502) |
+| Tue, 13 May 2025 10:24:36 GMT | TheHackersLabs  —  Microchip | APS88 | [Read More](https://medium.com/p/10b1699be42f) |
+| Tue, 13 May 2025 10:19:01 GMT | What You Should Know About Public Wi-Fi and Mobile Banking | ACEUnion | [Read More](https://medium.com/p/9c872f9ccffe) |
+| Tue, 13 May 2025 10:18:02 GMT | Strategic Power Move: Commvault Teams With Deloitte to Strengthen Enterprise Cyber Resilience | Technijian | [Read More](https://medium.com/p/70ea8bac2567) |
+| Tue, 13 May 2025 10:16:18 GMT | Security Problems, Security Goals in Computing, Services and mechanisms— Information Security | Nandhini P | [Read More](https://medium.com/p/1081ba0a302a) |
 | Tue, 13 May 2025 10:10:03 GMT | Cyber Security as a key component of Digitization | Oscar Okwero | [Read More](https://medium.com/p/5be62c118597) |
 | Tue, 13 May 2025 10:06:01 GMT | Hotels are Always Watching | Top Boss | [Read More](https://medium.com/p/7503313ae289) |
 | Tue, 13 May 2025 10:05:56 GMT | TryHackMe - Introduction To Honeypots - WriteUp | Axoloth | [Read More](https://medium.com/p/6d03fa92ad4b) |
@@ -99,17 +113,3 @@ Cybersecurity is the practice of protecting computers, servers, mobile… | TP M
 | Tue, 13 May 2025 06:01:30 GMT | Unlocking the Power of SBOM: Your Guide to Software Bill of Materials | Monish Correia | [Read More](https://medium.com/p/ff2484a23724) |
 | Tue, 13 May 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — May 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0a305ccd0f01) |
 | Tue, 13 May 2025 05:56:28 GMT | Why do we need SSL? | techwithpatil | [Read More](https://medium.com/p/4914f9a30e28) |
-| Tue, 13 May 2025 05:55:47 GMT | Supply Chain Security with CIS SecureSuite Certification and Mondoo’s Compliance on Autopilot | Infralovers GmbH | [Read More](https://medium.com/p/5276a86d8861) |
-| Tue, 13 May 2025 05:55:31 GMT | Kubernetes Security Posture Management: Safeguarding Clusters and Workloads | Infralovers GmbH | [Read More](https://medium.com/p/4832ef46c934) |
-| Tue, 13 May 2025 05:51:34 GMT | The Ultimate Guide to Curvance $CVE | CVE | [Read More](https://medium.com/p/119e39219b07) |
-| Tue, 13 May 2025 05:50:54 GMT | What if the people you love are just you in disguise? | Abbi | [Read More](https://medium.com/p/78aca5d57096) |
-| Tue, 13 May 2025 05:49:04 GMT | Bypassing CSRF Protections | Itamar Yochpaz | [Read More](https://medium.com/p/7db64f26b9e5) |
-| Tue, 13 May 2025 05:48:48 GMT | $256 Bounty : XSS via Web Cache Poisoning in Discourse | Monika sharma | [Read More](https://medium.com/p/594d5961555e) |
-| Tue, 13 May 2025 05:46:29 GMT | The Missing Piece in Cloud Security: GRC | Aashish Baweja | [Read More](https://medium.com/p/d6bfa7ee9c86) |
-| Tue, 13 May 2025 05:41:47 GMT | How Hackers Bypass Login Pages with SQL, Logic Flaws, and Headers | Vipul Sonule | [Read More](https://medium.com/p/567a5649e701) |
-| Tue, 13 May 2025 05:40:04 GMT | Forget Me Not: How Broken Logout Functionality Let Me Ride Sessions Forever | Iski | [Read More](https://medium.com/p/3435e6d98845) |
-| Tue, 13 May 2025 05:38:18 GMT | Cyber Security Awareness | ABUBAKAR ADAMU | [Read More](https://medium.com/p/17c4492d8676) |
-| Tue, 13 May 2025 05:37:24 GMT | Comparing Popular Static Application Security Testing (SAST) Tools | Jin Vincent Necesario | [Read More](https://medium.com/p/04fa2e0143ce) |
-| Tue, 13 May 2025 05:15:24 GMT | Agentic Security | Javier Calderon Jr | [Read More](https://medium.com/p/fc3287af6966) |
-| Tue, 13 May 2025 05:14:08 GMT | Detect, Defend & Mitigate Non-Human Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b410884d57cd) |
-| Tue, 13 May 2025 05:09:32 GMT | Don’t Let Swap Crash Your Cluster: A Kubernetes Warning | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0af54d291444) |
