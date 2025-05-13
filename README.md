@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 20:37:59 GMT | Starting Cybersecurity: A Roadmap for the utterly Curious | HackWitHer | [Read More](https://medium.com/p/4f5f50ba6b9c) |
+| Tue, 13 May 2025 20:31:37 GMT | La certification cyber! | Florent M | [Read More](https://medium.com/p/fbceca851c66) |
+| Tue, 13 May 2025 20:30:45 GMT | Bridging the Talent Gap Through Smart Technology Partnerships | Vivek Rao | [Read More](https://medium.com/p/484d095c2a6f) |
+| Tue, 13 May 2025 20:28:29 GMT | Cyber Journey: Active Directory/OPNsense/Splunk Home Lab | Gabriel Walker-Zuniga | [Read More](https://medium.com/p/921be3942cdc) |
+| Tue, 13 May 2025 20:27:49 GMT | Ubuntu 2025 : How to solve ERROR: Could not find version that satisfies the requirement tensorflow… | Don De Dieu Bundjoko | [Read More](https://medium.com/p/3e4bb3dcf52c) |
+| Tue, 13 May 2025 20:21:28 GMT | Beyond Firewalls: Why Cybersecurity and Connectivity Are Business Essentials in 2025 | Defend My Business | [Read More](https://medium.com/p/c7d67726fc45) |
+| Tue, 13 May 2025 20:14:41 GMT | شماره صیغه اسلام شهر 09011277694 | pijeri1444@umeifun.com | [Read More](https://medium.com/p/a46a99e180d8) |
+| Tue, 13 May 2025 20:13:46 GMT | شماره صیغه کرج 09011277694 | pijeri1444@umeifun.com | [Read More](https://medium.com/p/8b5ab0e88c6e) |
+| Tue, 13 May 2025 20:13:46 GMT | Digital Infrastructure That Scales With You | Vivek Rao | [Read More](https://medium.com/p/dd923ff6016a) |
+| Tue, 13 May 2025 20:12:59 GMT | شماره صیغه برازجان 09011277694 | pijeri1444@umeifun.com | [Read More](https://medium.com/p/c41c4de99e67) |
 | Tue, 13 May 2025 20:11:48 GMT | Hack The Box “Planning” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/72317cf3d287) |
 | Tue, 13 May 2025 20:10:51 GMT | Quaoar: 1— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/adf9b899a73d) |
 | Tue, 13 May 2025 20:04:15 GMT | Vendor Lock-in Nedir? Riskleri ve Önleme Stratejileri | Mehmetturkkan | [Read More](https://medium.com/p/b299269d9de7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 15:13:04 GMT | Understanding CORS: What, Why & How? | Damarakeswar Guddanti | [Read More](https://medium.com/p/56516bbb1391) |
 | Tue, 13 May 2025 15:05:18 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/6e0e3a25f439) |
 | Tue, 13 May 2025 15:00:06 GMT | Ways to Protect Your Bank Account | Souhail Laghchim | [Read More](https://medium.com/p/f56692357e60) |
-| Tue, 13 May 2025 14:55:32 GMT | XSS Part — 15 : Reflected XSS with some SVG markup allowed | Ahmad Sopyan | [Read More](https://medium.com/p/4f336f450a86) |
-| Tue, 13 May 2025 14:48:49 GMT | Penetration Testing vs. Vulnerability Scanning: What’s Best for Your Application Security? | VTEST | [Read More](https://medium.com/p/2e40b68017b1) |
-| Tue, 13 May 2025 14:45:35 GMT | Cryptonapping | Franky Arriola | [Read More](https://medium.com/p/396700ec0b42) |
-| Tue, 13 May 2025 14:36:07 GMT | Stinky & The Drain | Sharon .A. Stocker | [Read More](https://medium.com/p/b79550134771) |
-| Tue, 13 May 2025 14:28:58 GMT | ASUS DriverHub Vulnerability Exposes Users to Remote Code Execution | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/1f924851eeac) |
-| Tue, 13 May 2025 14:27:46 GMT | Bug Bounty Roadmap 2025: The Complete Guide to Becoming a Professional Ethical Hacker | Jiniyaasma | [Read More](https://medium.com/p/a6ff0abc69ef) |
-| Tue, 13 May 2025 14:23:50 GMT | Which IAM SaaS architecture is for you — exploring IAM architectures in Software-as-a-Service… | Natalia Trojanowska-Korepta | [Read More](https://medium.com/p/d648c12eb3a0) |
-| Tue, 13 May 2025 14:20:42 GMT | SOC Analyst: The Coolest Cyber Job You’ve Never Heard Of ! | Cyber Shahrukh | [Read More](https://medium.com/p/69199381d213) |
-| Tue, 13 May 2025 14:14:39 GMT | How I Learned Prompt Engineering as a Security Consultant | Kreskn | [Read More](https://medium.com/p/e128370135cc) |
-| Tue, 13 May 2025 14:14:11 GMT | This Innocent AI Tool Took Down an Entire Company | Noel | [Read More](https://medium.com/p/c400a4cf1c54) |
