@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 16:49:10 GMT | AI in Cybersecurity: The Future of Digital Defense in 2025 and Beyond | SACHIN  SHIVAJI RAUT | [Read More](https://medium.com/p/af62b4731e02) |
+| Tue, 13 May 2025 16:44:30 GMT | How I Bypassed Permissions in a Telehealth Platform | Whoami | [Read More](https://medium.com/p/f05b249b127c) |
+| Tue, 13 May 2025 16:35:56 GMT | Finding My Path in Cybersecurity: My Experience with Purdue Northwest’s CWCT Program | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/c77e4ee5af03) |
+| Tue, 13 May 2025 16:34:38 GMT | $$$ bounty via unique username bypass | cryptoshant | [Read More](https://medium.com/p/26f2c76f5ee7) |
+| Tue, 13 May 2025 16:33:38 GMT | The Silent Flame: A Meditator’s Reflections on Humanity’s Wars | Dao Jiang | [Read More](https://medium.com/p/7281b1403515) |
+| Tue, 13 May 2025 16:23:05 GMT | Reflections on Cybersecurity Futures 2025: Looking Back from the Present | Center for Long-Term Cybersecurity | [Read More](https://medium.com/p/37a85196ca73) |
+| Tue, 13 May 2025 16:22:19 GMT | AWS API Gateway Endpoints: The Ultimate Guide to Private, Edge, and Regional APIs | Ravindu Hirimuthugoda | [Read More](https://medium.com/p/6503d252d93a) |
+| Tue, 13 May 2025 16:20:58 GMT | SOC130— EventID 64 — Event Log Cleared | Mateo Pappa | [Read More](https://medium.com/p/15cf6ad85a56) |
 | Tue, 13 May 2025 16:18:29 GMT | My Exceptional SSRF Finding | nocley | [Read More](https://medium.com/p/73e8039e3a22) |
+| Tue, 13 May 2025 16:15:50 GMT | The Ache of Almost: When Love Nearly Chose You | Ruby Rantina Febrianti | [Read More](https://medium.com/p/d6cb16352294) |
 | Tue, 13 May 2025 16:14:24 GMT | BalooFood - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/ec98d45b3f26) |
 | Tue, 13 May 2025 16:14:08 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/59d6fd96ed89) |
 | Tue, 13 May 2025 16:02:43 GMT | Forgot Password? More Like Forgot Security | Derick Johnson | [Read More](https://medium.com/p/96f9b89730ad) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 11:07:26 GMT | Network Security Measures You Need in 2025 to Stop Cyber Threats | SecureSlate | [Read More](https://medium.com/p/acfeca6688e5) |
 | Tue, 13 May 2025 11:02:27 GMT | How to Know If Your Data Has Been Leaked — Without Accessing the Dark Web (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/e2ed1431c3bd) |
 | Tue, 13 May 2025 10:59:53 GMT | Cyber Kill Chain TryHackme Example : Walkthrough | Keran Elias | [Read More](https://medium.com/p/573c1cdf31c5) |
-| Tue, 13 May 2025 10:59:04 GMT | How Can Cyber Security Firms Help Prevent Data Breaches? | cyber ethos | [Read More](https://medium.com/p/2b1727e4f4f7) |
-| Tue, 13 May 2025 10:53:43 GMT | How I Found a Way to Prolong Password Reset Code Expiry | Ehtesham Ul Haq | [Read More](https://medium.com/p/6214391023de) |
-| Tue, 13 May 2025 10:52:28 GMT | AI in Digital Forensics: Solving Crimes Faster Than CSI? | Original bee | [Read More](https://medium.com/p/fa0d296592af) |
-| Tue, 13 May 2025 10:51:59 GMT | “Approve to continue”: How a Single MFA Push Turned into a Full-Blown Social Engineering Attempt | Effedielle | [Read More](https://medium.com/p/5adc348da805) |
-| Tue, 13 May 2025 10:50:39 GMT | ️ 9 Smart Cybersecurity Tips You Need to Know Today! | ICTRD-Kaushalpith | [Read More](https://medium.com/p/e451e1d2cac9) |
-| Tue, 13 May 2025 10:49:45 GMT | L’ingénierie sociale : l’art oublié du hacking humain | Manon.exe | [Read More](https://medium.com/p/257b0fa872f0) |
-| Tue, 13 May 2025 10:48:05 GMT | SAP Cloud Connector (SCC): integrating SAP Business Technology Platform (SAP BTP) to on-premise | Jacques Maeda | [Read More](https://medium.com/p/96a5c0a9838c) |
-| Tue, 13 May 2025 10:44:06 GMT | How to choose the right cybersecurity service on Fiverr | Bd Techhouse | [Read More](https://medium.com/p/c196e5ad6d17) |
-| Tue, 13 May 2025 10:39:18 GMT | Privacy: tentang Istilah dan Definisi | Jihad Dinullah Akbar | [Read More](https://medium.com/p/fc0df8691478) |
