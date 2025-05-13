@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 09:20:53 GMT | DIGITAL DATA COLLECTORS | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/0f6e502fc865) |
+| Tue, 13 May 2025 09:20:41 GMT | Your Boss is Spying on Your Work Laptop — Here’s What They Can See | Ahmad Javed | [Read More](https://medium.com/p/a0d6c15cc1cc) |
+| Tue, 13 May 2025 09:19:35 GMT | How Cloudflare Powers Secure and Fast Digital Experiences in 2025 | Levitation Infotech | [Read More](https://medium.com/p/ad36fea1cde2) |
+| Tue, 13 May 2025 09:15:56 GMT | So Google Lied. Again. And Texans Just Sent Them a $1.4 Billion Bill. | TechBrain | [Read More](https://medium.com/p/5e24fefeaf44) |
+| Tue, 13 May 2025 09:08:35 GMT | Tokenization | Anindito T | [Read More](https://medium.com/p/c9bbfd6c82a0) |
+| Tue, 13 May 2025 09:06:25 GMT | OpenShift Service Mesh 3 Embraces Istio Ambient: A Sidecar-Free Future for Secure, Observable… | Luca Berton | [Read More](https://medium.com/p/7aa1b7db6447) |
+| Tue, 13 May 2025 09:02:34 GMT | Title: DevSecOps and Building a Security Culture: Continuous Security | Esra Kayhan | [Read More](https://medium.com/p/23c67060759a) |
+| Tue, 13 May 2025 09:00:27 GMT | Oracle 19c Data Redaction (DDM) | Murat Culum | [Read More](https://medium.com/p/2e6b02376bed) |
+| Tue, 13 May 2025 08:47:09 GMT | Gift 4000 USDT Blockchain Trc20 ( Okx wallet -Safepal wallet) | Miya clark | [Read More](https://medium.com/p/9303a5de0cbe) |
+| Tue, 13 May 2025 08:43:37 GMT | The Rise of AI Avatars: Are We Replacing Influencers with Algorithms? | Ddm atiq | [Read More](https://medium.com/p/3c389962bfa4) |
 | Tue, 13 May 2025 08:42:54 GMT | Why Metrics Matter in Modern Security Operations. | SecOps | [Read More](https://medium.com/p/97b0b84b5c35) |
 | Tue, 13 May 2025 08:40:59 GMT | “Using Public Wi-Fi Without This? | Vexpoltech | [Read More](https://medium.com/p/23b8f68b0ce0) |
 | Tue, 13 May 2025 08:31:31 GMT | Practical Malware Analysis — Lab 7 | Sapir Twig | [Read More](https://medium.com/p/9db4f9f4a4f9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 02:55:50 GMT | TShark | Shamar Isaac | [Read More](https://medium.com/p/50a97ff1f7bc) |
 | Tue, 13 May 2025 02:54:26 GMT | CVE Rewards: How to Get Started | CVE | [Read More](https://medium.com/p/0d6dd30bd3a2) |
 | Tue, 13 May 2025 02:41:29 GMT | Bypassing Content Moderation Filters: Techniques, Challenges, and Implications | Faruk Alpay | [Read More](https://medium.com/p/4d329f43a6c1) |
-| Tue, 13 May 2025 02:38:27 GMT | The Human Firewall: Why Your Employees Are Both Your Greatest Vulnerability and Asset | Paritosh | [Read More](https://medium.com/p/76a93b879bae) |
-| Tue, 13 May 2025 02:36:43 GMT | Cybercriminals Exploit Outdated Protocols to Breach Microsoft Entra ID | current.cybersecurity | [Read More](https://medium.com/p/50c9f03fa3e0) |
-| Tue, 13 May 2025 02:35:55 GMT | Quantum Computing: The Next Cyber Arms Race Has Already Begun | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/54b9381fdd88) |
-| Tue, 13 May 2025 02:19:24 GMT | TryHackMe — Neighbour Walkthrough / Write-up | Liam McIntosh | [Read More](https://medium.com/p/c85c4fd0431f) |
-| Tue, 13 May 2025 02:14:21 GMT | Ethical Android Penetration Testing with TheFatRat & Ngrok | Dhananjay Tupe | [Read More](https://medium.com/p/6f858afcdfd2) |
-| Tue, 13 May 2025 02:07:50 GMT | From Threat Cells to Threat Models | Lindsay Stought | [Read More](https://medium.com/p/5deeb861e947) |
-| Tue, 13 May 2025 02:00:42 GMT | mKingdom (Easy) — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/d336c85b2501) |
-| Tue, 13 May 2025 01:54:48 GMT | Basic Computer Architecture for Cybersecurity | Kyoungmin Roh | [Read More](https://medium.com/p/1559bd5bc42d) |
-| Tue, 13 May 2025 01:42:01 GMT | Why Passwords Aren’t Enough: A Simple Guide to Multi-Factor Authentication (MFA) | Ram Nikhil Meka | [Read More](https://medium.com/p/ab1533070fdb) |
-| Tue, 13 May 2025 01:33:12 GMT | LockBit Hacking Group Defaced and Compromised — May 2025 Incident Report | KN | [Read More](https://medium.com/p/15c4e4a7e1a8) |
