@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 10:10:03 GMT | Cyber Security as a key component of Digitization | Oscar Okwero | [Read More](https://medium.com/p/5be62c118597) |
+| Tue, 13 May 2025 10:06:01 GMT | Hotels are Always Watching | Top Boss | [Read More](https://medium.com/p/7503313ae289) |
+| Tue, 13 May 2025 10:05:56 GMT | TryHackMe - Introduction To Honeypots - WriteUp | Axoloth | [Read More](https://medium.com/p/6d03fa92ad4b) |
+| Tue, 13 May 2025 10:04:01 GMT | DLL injection fundamental — Part3 | Kijo Ninja | [Read More](https://medium.com/p/f061f955a63c) |
+| Tue, 13 May 2025 10:01:44 GMT | Of All the Gall! | Lisa Schamess | [Read More](https://medium.com/p/40b2df45bee3) |
+| Tue, 13 May 2025 10:01:40 GMT | Cyber Warfare in the 21st Century: A New Battlefield | Talal Ahmad | [Read More](https://medium.com/p/4c0ce589e47d) |
+| Tue, 13 May 2025 09:56:17 GMT | Direct Guard Services — Leading Security Guard Company in San Jose, CA | Direct Guard Services | [Read More](https://medium.com/p/e1185bc1450b) |
+| Tue, 13 May 2025 09:54:10 GMT | Is Kudo Trade Legit? | Dominic Tomlinson | [Read More](https://medium.com/p/318d3566de31) |
+| Tue, 13 May 2025 09:52:48 GMT | IT SOLUTIONS | Devarshi Acharya | [Read More](https://medium.com/p/ac73a3aefb13) |
+| Tue, 13 May 2025 09:51:16 GMT | Is Your Device Online and Exposed? Learn What Shodan Reveals. | Myra Jarenga | [Read More](https://medium.com/p/ec77af6af738) |
+| Tue, 13 May 2025 09:46:01 GMT | What I Learned Through the Swamp When I Stopped Numbing | Julius Corababa | [Read More](https://medium.com/p/957372fbe51b) |
+| Tue, 13 May 2025 09:41:45 GMT | The Flip Side of Conversational Analytics: Are We Trading Insights for Privacy? | Clarista Inc. | [Read More](https://medium.com/p/1a8334b61ba2) |
 | Tue, 13 May 2025 09:38:03 GMT | AI-Driven Defence: The Rise of Smart Cyber Security Consultancy | Qcom Ltd | [Read More](https://medium.com/p/e31d03407c30) |
+| Tue, 13 May 2025 09:37:06 GMT | ประจำวันอังคารที่ 13 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c268b8c25b38) |
 | Tue, 13 May 2025 09:34:20 GMT | SQLMAP (Tryhackme) | Amalpp | [Read More](https://medium.com/p/aa4cd9fb46fd) |
 | Tue, 13 May 2025 09:30:47 GMT | Israel, 2015 — When Hackers Watched the Watchers | om sonawane | [Read More](https://medium.com/p/f30da25b6eab) |
 | Tue, 13 May 2025 09:30:12 GMT | Practical Malware Analysis — Lab 9 | Sapir Twig | [Read More](https://medium.com/p/0a93ca59b796) |
@@ -100,16 +113,3 @@ Cybersecurity is the practice of protecting computers, servers, mobile… | TP M
 | Tue, 13 May 2025 05:15:24 GMT | Agentic Security | Javier Calderon Jr | [Read More](https://medium.com/p/fc3287af6966) |
 | Tue, 13 May 2025 05:14:08 GMT | Detect, Defend & Mitigate Non-Human Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b410884d57cd) |
 | Tue, 13 May 2025 05:09:32 GMT | Don’t Let Swap Crash Your Cluster: A Kubernetes Warning | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0af54d291444) |
-| Tue, 13 May 2025 05:07:24 GMT | How a Cyber Security Development Company Can Safeguard Your Business | Webtrills | [Read More](https://medium.com/p/57e70fa710e9) |
-| Tue, 13 May 2025 05:03:09 GMT | Maximize Your Digital Wealth with DORK Strategies | DORK | [Read More](https://medium.com/p/30b77deaaf90) |
-| Tue, 13 May 2025 05:02:50 GMT | Video Analytics in Transportation in UAE | Tekhabeeb | [Read More](https://medium.com/p/fa7c685fe06c) |
-| Tue, 13 May 2025 05:00:48 GMT | Enroll in the Best Cyber Security and Ethical Hacking Training in Chandigarh for 2025 — CNT… | Cnt Technologies | [Read More](https://medium.com/p/f6ad5c10408d) |
-| Tue, 13 May 2025 04:58:41 GMT | Insecure Deserialization : An Introduction | Yash Radhakrishna | [Read More](https://medium.com/p/9abceee4cfb0) |
-| Tue, 13 May 2025 04:39:28 GMT | The $1,000 Recon Trick: One Command That Changed My Hunting Game | Abhijeet Kumawat | [Read More](https://medium.com/p/58527a7f6d7c) |
-| Tue, 13 May 2025 04:36:02 GMT | How to Investigate a SIEM Alert? — LetsDefend | md_ashmar | [Read More](https://medium.com/p/9f6edfb2cbb2) |
-| Tue, 13 May 2025 04:36:01 GMT | Malware Analysis Fundamentals Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/ee8b104bf7c7) |
-| Tue, 13 May 2025 04:24:09 GMT | Jaibreak Detection Bypass using Shadow | RRespxwnss | [Read More](https://medium.com/p/2908f0057516) |
-| Tue, 13 May 2025 04:05:19 GMT | The Linux Concept Journey — Linux Kernel | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0b06457569e8) |
-| Tue, 13 May 2025 03:53:45 GMT | Even the Strong Get Tired of Being Strong | Dhruvi ✨ | [Read More](https://medium.com/p/75f95adf6c1e) |
-| Tue, 13 May 2025 03:42:25 GMT | TOMGHOST- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/64b5984ef355) |
-| Tue, 13 May 2025 03:32:28 GMT | SpyX Exposed: When Stalkerware Gets Stalked and 2 Million Users Pay the Price | Deven Chhajed | [Read More](https://medium.com/p/003bac5d03b9) |
