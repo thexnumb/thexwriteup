@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 15:32:56 GMT | GZR Observer Daily — May 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5142d37ba6ae) |
+| Tue, 13 May 2025 15:28:10 GMT | How to Use a Passkey for Encryption | David Gobaud | [Read More](https://medium.com/p/8848af93c814) |
 | Tue, 13 May 2025 15:17:35 GMT | What Will Greenland Do as President of the Nordic Council | Henri Kouam | [Read More](https://medium.com/p/a99679b90ac5) |
 | Tue, 13 May 2025 15:17:28 GMT | Drugs too need privacy? | Joshi | [Read More](https://medium.com/p/c3a84bbdf6fd) |
 | Tue, 13 May 2025 15:16:15 GMT | Nervous and excited about taking the first certification in Cybersecurity! | Madhu Patnam | [Read More](https://medium.com/p/1e239930e463) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 10:24:36 GMT | TheHackersLabs  —  Microchip | APS88 | [Read More](https://medium.com/p/10b1699be42f) |
 | Tue, 13 May 2025 10:19:01 GMT | What You Should Know About Public Wi-Fi and Mobile Banking | ACEUnion | [Read More](https://medium.com/p/9c872f9ccffe) |
 | Tue, 13 May 2025 10:18:02 GMT | Strategic Power Move: Commvault Teams With Deloitte to Strengthen Enterprise Cyber Resilience | Technijian | [Read More](https://medium.com/p/70ea8bac2567) |
-| Tue, 13 May 2025 10:16:18 GMT | Security Problems, Security Goals in Computing, Services and mechanisms— Information Security | Nandhini P | [Read More](https://medium.com/p/1081ba0a302a) |
-| Tue, 13 May 2025 10:10:03 GMT | Cyber Security as a key component of Digitization | Oscar Okwero | [Read More](https://medium.com/p/5be62c118597) |
