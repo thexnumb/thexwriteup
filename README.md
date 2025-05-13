@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 05:15:24 GMT | Agentic Security | Javier Calderon Jr | [Read More](https://medium.com/p/fc3287af6966) |
+| Tue, 13 May 2025 05:14:08 GMT | Detect, Defend & Mitigate Non-Human Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b410884d57cd) |
+| Tue, 13 May 2025 05:09:32 GMT | Don’t Let Swap Crash Your Cluster: A Kubernetes Warning | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0af54d291444) |
+| Tue, 13 May 2025 05:07:24 GMT | How a Cyber Security Development Company Can Safeguard Your Business | Webtrills | [Read More](https://medium.com/p/57e70fa710e9) |
+| Tue, 13 May 2025 05:03:09 GMT | Maximize Your Digital Wealth with DORK Strategies | DORK | [Read More](https://medium.com/p/30b77deaaf90) |
+| Tue, 13 May 2025 05:02:50 GMT | Video Analytics in Transportation in UAE | Tekhabeeb | [Read More](https://medium.com/p/fa7c685fe06c) |
+| Tue, 13 May 2025 05:00:48 GMT | Enroll in the Best Cyber Security and Ethical Hacking Training in Chandigarh for 2025 — CNT… | Cnt Technologies | [Read More](https://medium.com/p/f6ad5c10408d) |
+| Tue, 13 May 2025 04:58:41 GMT | Insecure Deserialization : An Introduction | Yash Radhakrishna | [Read More](https://medium.com/p/9abceee4cfb0) |
 | Tue, 13 May 2025 04:39:28 GMT | The $1,000 Recon Trick: One Command That Changed My Hunting Game | Abhijeet Kumawat | [Read More](https://medium.com/p/58527a7f6d7c) |
 | Tue, 13 May 2025 04:36:02 GMT | How to Investigate a SIEM Alert? — LetsDefend | md_ashmar | [Read More](https://medium.com/p/9f6edfb2cbb2) |
 | Tue, 13 May 2025 04:36:01 GMT | Malware Analysis Fundamentals Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/ee8b104bf7c7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 19:14:10 GMT | Cyber Threat Metrics & Global Impact Analysis (2015–2024). | Khairat Olaleye | [Read More](https://medium.com/p/2f47e322eeb2) |
 | Mon, 12 May 2025 19:13:45 GMT | NTFS Steganography: The Art of Data Hiding in File Systems | Dev Sharma | [Read More](https://medium.com/p/72dc161742a1) |
 | Mon, 12 May 2025 19:09:44 GMT | 9 Rewarding Cybersecurity Certifications That Pay Off | Techridge Solutions | [Read More](https://medium.com/p/11ea7f380dea) |
-| Mon, 12 May 2025 19:06:49 GMT | Why Penetration Testing is Essential for Businesses in Saudi Arabia | ahmed nadi | [Read More](https://medium.com/p/a12645930572) |
-| Mon, 12 May 2025 19:06:27 GMT | What I Read January 2018: Org Innovation, Strategy, Cyber Conflict | Michael Lortz | [Read More](https://medium.com/p/ab68f76e429d) |
-| Mon, 12 May 2025 18:55:25 GMT | Best IT Consulting Firms in New Zealand | Susan Clinton | [Read More](https://medium.com/p/5b0834f3895b) |
-| Mon, 12 May 2025 18:46:10 GMT | Does the size of a company affect its average cost/loss due to cybercrime? | Brian J Lalla | [Read More](https://medium.com/p/07de17a9882b) |
-| Mon, 12 May 2025 18:46:04 GMT | Navigating the Cloud-Native Maze: An Observability-First Approach to IAM and DevOps | Satbir Singh | [Read More](https://medium.com/p/dec222a27a78) |
-| Mon, 12 May 2025 18:41:20 GMT | New article on blog | M S Sripati | [Read More](https://medium.com/p/cc4e310b506a) |
-| Mon, 12 May 2025 18:40:16 GMT | Traveling Smart with Primasim: Is eSIM Safe for Travelers? | PrimaSIM | [Read More](https://medium.com/p/f937db1c9232) |
-| Mon, 12 May 2025 18:37:24 GMT | How to Reset Kali Password Without Re-Installation | Toheeb Kayode Adisa | [Read More](https://medium.com/p/1b0cdf123969) |
