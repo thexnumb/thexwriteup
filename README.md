@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 11:10:43 GMT | The Biggest Crisis of the Modern Era: Technological Disruption and Cybersecurity Threats | Kevin Shah | [Read More](https://medium.com/p/2ce4d1996461) |
+| Tue, 13 May 2025 11:10:30 GMT | DDoS Protection for Business: A Practical Overview | VSYS Host | [Read More](https://medium.com/p/129e52dec37b) |
+| Tue, 13 May 2025 11:07:26 GMT | Network Security Measures You Need in 2025 to Stop Cyber Threats | SecureSlate | [Read More](https://medium.com/p/acfeca6688e5) |
+| Tue, 13 May 2025 11:02:27 GMT | How to Know If Your Data Has Been Leaked — Without Accessing the Dark Web (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/e2ed1431c3bd) |
+| Tue, 13 May 2025 10:59:53 GMT | Cyber Kill Chain TryHackme Example : Walkthrough | Keran Elias | [Read More](https://medium.com/p/573c1cdf31c5) |
+| Tue, 13 May 2025 10:59:04 GMT | How Can Cyber Security Firms Help Prevent Data Breaches? | cyber ethos | [Read More](https://medium.com/p/2b1727e4f4f7) |
+| Tue, 13 May 2025 10:53:43 GMT | How I Found a Way to Prolong Password Reset Code Expiry | Ehtesham Ul Haq | [Read More](https://medium.com/p/6214391023de) |
+| Tue, 13 May 2025 10:52:28 GMT | AI in Digital Forensics: Solving Crimes Faster Than CSI? | Original bee | [Read More](https://medium.com/p/fa0d296592af) |
+| Tue, 13 May 2025 10:51:59 GMT | “Approve to continue”: How a Single MFA Push Turned into a Full-Blown Social Engineering Attempt | Effedielle | [Read More](https://medium.com/p/5adc348da805) |
+| Tue, 13 May 2025 10:50:39 GMT | ️ 9 Smart Cybersecurity Tips You Need to Know Today! | ICTRD-Kaushalpith | [Read More](https://medium.com/p/e451e1d2cac9) |
+| Tue, 13 May 2025 10:49:45 GMT | L’ingénierie sociale : l’art oublié du hacking humain | Manon.exe | [Read More](https://medium.com/p/257b0fa872f0) |
+| Tue, 13 May 2025 10:48:05 GMT | SAP Cloud Connector (SCC): integrating SAP Business Technology Platform (SAP BTP) to on-premise | Jacques Maeda | [Read More](https://medium.com/p/96a5c0a9838c) |
 | Tue, 13 May 2025 10:44:06 GMT | How to choose the right cybersecurity service on Fiverr | Bd Techhouse | [Read More](https://medium.com/p/c196e5ad6d17) |
+| Tue, 13 May 2025 10:39:18 GMT | Privacy: tentang Istilah dan Definisi | Jihad Dinullah Akbar | [Read More](https://medium.com/p/fc0df8691478) |
 | Tue, 13 May 2025 10:38:23 GMT | Cracking the Windows Ceiling: A Practical Guide to Privilege Escalation. | abhi mistry | [Read More](https://medium.com/p/0c3934bca52f) |
 | Tue, 13 May 2025 10:38:07 GMT | Detecting Threats with Wazuh FIM | CyberRanger Labs | [Read More](https://medium.com/p/18b1aa877672) |
 | Tue, 13 May 2025 10:32:54 GMT | Regular Expressions — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/8bc46445e6e8) |
@@ -100,16 +113,3 @@ Cybersecurity is the practice of protecting computers, servers, mobile… | TP M
 | Tue, 13 May 2025 06:43:14 GMT | What Makes a Top Security Agency in Mumbai | United Guard Force India | [Read More](https://medium.com/p/15c0b584fbd6) |
 | Tue, 13 May 2025 06:43:03 GMT | Adopt Zero Trust Architecture | Ritesh JOSHI | [Read More](https://medium.com/p/cc6f93c7f3d5) |
 | Tue, 13 May 2025 06:42:10 GMT | Making Cybersecurity Obsolete: A Vision for a Secure Digital Future | Bass Tadros | [Read More](https://medium.com/p/89d8c6adf3fb) |
-| Tue, 13 May 2025 06:40:18 GMT | Tips to Identify a Reliable Security Agency | United Guard Force India | [Read More](https://medium.com/p/f92acb018072) |
-| Tue, 13 May 2025 06:32:33 GMT | What is Continuous Threat Exposure Management? | Glesec | [Read More](https://medium.com/p/25fb7094be25) |
-| Tue, 13 May 2025 06:32:27 GMT | How I passed eJPT v2 in 6 days (2025) | Patryk Kieszek | [Read More](https://medium.com/p/f0dc3ee37c4f) |
-| Tue, 13 May 2025 06:29:13 GMT | Android’s Silent Threat: NotificationListenerService Fuels Malware Persistence | Sethu Satheesh | [Read More](https://medium.com/p/b50e0f217b34) |
-| Tue, 13 May 2025 06:28:11 GMT | Researcher Yuvi — My Cybersecurity Journey at 16 | Yuvraj Gupta | [Read More](https://medium.com/p/e3dde09fba78) |
-| Tue, 13 May 2025 06:21:22 GMT | don’t know where to start Bug Bounty!!! start your journey now | mR.nObOdY | [Read More](https://medium.com/p/150e63d052f4) |
-| Tue, 13 May 2025 06:16:26 GMT | Secure Shared Logging: Creating a Centralized Logs Directory for Multiple Linux Users | Ayushmaan Srivastav | [Read More](https://medium.com/p/79ec84b886e4) |
-| Tue, 13 May 2025 06:09:45 GMT | The Daily Tech Digest: 13 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9f7a7b9022ed) |
-| Tue, 13 May 2025 06:08:20 GMT | Securing Your Distributed Control System: A Cybersecurity Guide | Kavyarajeev | [Read More](https://medium.com/p/d737e0598400) |
-| Tue, 13 May 2025 06:02:35 GMT | Always carry out audits on networks that you are been granted permissions to….. | ABUBAKAR ADAMU | [Read More](https://medium.com/p/2752b4b7c750) |
-| Tue, 13 May 2025 06:01:30 GMT | Unlocking the Power of SBOM: Your Guide to Software Bill of Materials | Monish Correia | [Read More](https://medium.com/p/ff2484a23724) |
-| Tue, 13 May 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — May 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0a305ccd0f01) |
-| Tue, 13 May 2025 05:56:28 GMT | Why do we need SSL? | techwithpatil | [Read More](https://medium.com/p/4914f9a30e28) |
