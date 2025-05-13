@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 06:44:40 GMT | Best Cyber Security Analyst Courses and Resources for Every Skill Level | Mr Technology | [Read More](https://medium.com/p/61e079baf68c) |
+| Tue, 13 May 2025 06:43:03 GMT | Adopt Zero Trust Architecture | Ritesh JOSHI | [Read More](https://medium.com/p/cc6f93c7f3d5) |
+| Tue, 13 May 2025 06:42:10 GMT | Making Cybersecurity Obsolete: A Vision for a Secure Digital Future | Bass Tadros | [Read More](https://medium.com/p/89d8c6adf3fb) |
+| Tue, 13 May 2025 06:40:18 GMT | Tips to Identify a Reliable Security Agency | United Guard Force India | [Read More](https://medium.com/p/f92acb018072) |
+| Tue, 13 May 2025 06:32:33 GMT | What is Continuous Threat Exposure Management? | Glesec | [Read More](https://medium.com/p/25fb7094be25) |
+| Tue, 13 May 2025 06:32:27 GMT | How I passed eJPT v2 in 6 days (2025) | Patryk Kieszek | [Read More](https://medium.com/p/f0dc3ee37c4f) |
+| Tue, 13 May 2025 06:29:13 GMT | Android’s Silent Threat: NotificationListenerService Fuels Malware Persistence | Sethu Satheesh | [Read More](https://medium.com/p/b50e0f217b34) |
+| Tue, 13 May 2025 06:28:11 GMT | Researcher Yuvi — My Cybersecurity Journey at 16 | Yuvraj Gupta | [Read More](https://medium.com/p/e3dde09fba78) |
 | Tue, 13 May 2025 06:21:22 GMT | don’t know where to start Bug Bounty!!! start your journey now | mR.nObOdY | [Read More](https://medium.com/p/150e63d052f4) |
 | Tue, 13 May 2025 06:16:26 GMT | Secure Shared Logging: Creating a Centralized Logs Directory for Multiple Linux Users | Ayushmaan Srivastav | [Read More](https://medium.com/p/79ec84b886e4) |
 | Tue, 13 May 2025 06:09:45 GMT | The Daily Tech Digest: 13 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9f7a7b9022ed) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 22:16:26 GMT | DNS Spoofing: What It Is and How to Defend Against It | Karthikeyan Nagaraj | [Read More](https://medium.com/p/77be6e1af9e4) |
 | Mon, 12 May 2025 21:53:02 GMT | Process Hypnosis Injection Technique | S12 - H4CK | [Read More](https://medium.com/p/58e9901ae2cc) |
 | Mon, 12 May 2025 21:38:12 GMT | Top 5 Takeaways for CISOs from RSAC 2025: AI Security in Focus | Mike Pearl | [Read More](https://medium.com/p/019489c3a439) |
-| Mon, 12 May 2025 21:37:44 GMT | Cyberthinks — My Cybersecurity Journey at 18 | Vishesh Dhiman | [Read More](https://medium.com/p/96b0602e13ed) |
-| Mon, 12 May 2025 21:28:28 GMT | A Wake-Up Call from the Digital Edge | Cheng Yi | [Read More](https://medium.com/p/48347c8a77b3) |
-| Mon, 12 May 2025 21:28:09 GMT | HTB — Lame Challenge(Write-up) | GhostX_101 | [Read More](https://medium.com/p/1c56031fa584) |
-| Mon, 12 May 2025 21:24:07 GMT | Unauthenticated Cache Purging Vulnerability | 00xdata | [Read More](https://medium.com/p/29f2641fcbb8) |
-| Mon, 12 May 2025 21:22:42 GMT | ️ Protect What Matters Most – Before It’s Too Late | Mubashir Hussain | [Read More](https://medium.com/p/e8c83dda14a3) |
-| Mon, 12 May 2025 21:10:43 GMT | To migrate to the Rujira token (RUJI) via the Rujira Alliance merger, follow these key steps: | Rujitoken | [Read More](https://medium.com/p/848512624188) |
-| Mon, 12 May 2025 21:03:43 GMT | Who is Cyberthinks? My Story as a Young Ethical Hacker | Vishesh Dhiman | [Read More](https://medium.com/p/493725ee68ed) |
-| Mon, 12 May 2025 20:57:47 GMT | How to Turn LunaFi $LFI into Your Most Profitable Investment | LFI | [Read More](https://medium.com/p/a2b86ef92913) |
