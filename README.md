@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 11:22:29 GMT | This Is Why Hackers Keep Winning :) Weak Passwords! | Your's Nightmare | [Read More](https://medium.com/p/4b25124cbfa3) |
+| Tue, 13 May 2025 11:21:06 GMT | Network Security Series — Part 2 | M.Magdy | [Read More](https://medium.com/p/5c187fab202e) |
+| Tue, 13 May 2025 11:20:02 GMT | The Complete Guide to Securing Your Home Wi-Fi Network in 2025 | Ricardo Leal | [Read More](https://medium.com/p/7a69bdd2a2ca) |
+| Tue, 13 May 2025 11:19:43 GMT | Day 8: ️ Prompt Injection in AI — What It Is & How to Defend Against It | Somya Golchha | [Read More](https://medium.com/p/4a5ca6470ce7) |
+| Tue, 13 May 2025 11:18:08 GMT | Warning Signs Your Phone Might Be Hacked | Your's Nightmare | [Read More](https://medium.com/p/ae95f965a36b) |
+| Tue, 13 May 2025 11:15:40 GMT | Testing out some PowerShell commands for creating new sample aliases, opening the profile script to… | Tyrik Emptage | [Read More](https://medium.com/p/e4ac93f86c05) |
 | Tue, 13 May 2025 11:10:43 GMT | The Biggest Crisis of the Modern Era: Technological Disruption and Cybersecurity Threats | Kevin Shah | [Read More](https://medium.com/p/2ce4d1996461) |
 | Tue, 13 May 2025 11:10:30 GMT | DDoS Protection for Business: A Practical Overview | VSYS Host | [Read More](https://medium.com/p/129e52dec37b) |
 | Tue, 13 May 2025 11:07:26 GMT | Network Security Measures You Need in 2025 to Stop Cyber Threats | SecureSlate | [Read More](https://medium.com/p/acfeca6688e5) |
@@ -107,9 +113,3 @@ Cybersecurity is the practice of protecting computers, servers, mobile… | TP M
 | Tue, 13 May 2025 06:53:18 GMT | The Internet Computer’s Privacy, Security, and Speed | Joseph Hurtado | [Read More](https://medium.com/p/24fbf8a2c697) |
 | Tue, 13 May 2025 06:52:57 GMT | The OSI Model for a beginner to understand how the Internet Works | unica 02 | [Read More](https://medium.com/p/af2b74629edf) |
 | Tue, 13 May 2025 06:52:33 GMT | ABUN DA YA KAMATA A SANI AKAN NETWORK SECURITY | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/612f2122790f) |
-| Tue, 13 May 2025 06:47:39 GMT | Überwachungsroboter kaufen | Presslink Media | [Read More](https://medium.com/p/99f17df8d0c4) |
-| Tue, 13 May 2025 06:46:42 GMT | Choosing Right Security: Cost vs. Quality | United Guard Force India | [Read More](https://medium.com/p/6093d966f68b) |
-| Tue, 13 May 2025 06:44:40 GMT | Best Cyber Security Analyst Courses and Resources for Every Skill Level | Mr Technology | [Read More](https://medium.com/p/61e079baf68c) |
-| Tue, 13 May 2025 06:43:14 GMT | What Makes a Top Security Agency in Mumbai | United Guard Force India | [Read More](https://medium.com/p/15c0b584fbd6) |
-| Tue, 13 May 2025 06:43:03 GMT | Adopt Zero Trust Architecture | Ritesh JOSHI | [Read More](https://medium.com/p/cc6f93c7f3d5) |
-| Tue, 13 May 2025 06:42:10 GMT | Making Cybersecurity Obsolete: A Vision for a Secure Digital Future | Bass Tadros | [Read More](https://medium.com/p/89d8c6adf3fb) |
