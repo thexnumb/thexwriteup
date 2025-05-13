@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 12:31:35 GMT | When You’re Not the Hero in Your Own Story | Aaron Pace | [Read More](https://medium.com/p/d4ddc639d148) |
+| Tue, 13 May 2025 12:28:17 GMT | North Korean Konni APT Targets Ukraine with Evolving Malware in Geopolitical Cyber Campaign | CyBlog | [Read More](https://medium.com/p/190f91eec1d3) |
+| Tue, 13 May 2025 12:27:43 GMT | The Cry of a Sheep | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/0e0969e8125e) |
+| Tue, 13 May 2025 12:26:49 GMT | How To Threat Model #1 | Maria Writes | [Read More](https://medium.com/p/1a5aa03e1eb8) |
+| Tue, 13 May 2025 12:26:00 GMT | MITRE Technique and Detection Opportunities — Chinese Group Exploiting SAP Vulnerability | MITRE Doggy | [Read More](https://medium.com/p/6607e709e389) |
+| Tue, 13 May 2025 12:20:52 GMT | Basic Pentesting: 1 Walkthrough (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/9ab453354a59) |
+| Tue, 13 May 2025 12:19:28 GMT | Your Email Was in a Data Breach ;( | Your's Nightmare | [Read More](https://medium.com/p/4a8e3fe4027c) |
+| Tue, 13 May 2025 12:18:45 GMT | ‘Big Four’ — A Cortina de Ferro Digital Parte I:  Rússia | 0x0d4y | [Read More](https://medium.com/p/3d167bd512ec) |
+| Tue, 13 May 2025 12:18:03 GMT | Bitlocker-1 - Writeup | Marvin | [Read More](https://medium.com/p/7c0e2cfa90d4) |
+| Tue, 13 May 2025 12:17:39 GMT | Rickdiculously — Step by Step CTF Walkthrough | Suryadi Putra | [Read More](https://medium.com/p/c47be72d3420) |
+| Tue, 13 May 2025 12:13:31 GMT | Fields in TCP Header | Cyber Timi | [Read More](https://medium.com/p/4408d1597408) |
+| Tue, 13 May 2025 12:09:44 GMT | From Monday Blues to Friday Bliss: The Tale of My Code’s Mood Swings | Medhansh | [Read More](https://medium.com/p/cff76444435b) |
+| Tue, 13 May 2025 12:08:13 GMT | The Rise of Deepfake and Synthetic Identity Attacks in Cybersecurity | Jackdavis Iap | [Read More](https://medium.com/p/39bc6d103fa3) |
+| Tue, 13 May 2025 12:06:53 GMT | Identity: The New Perimeter in Cybersecurity | Devops Trainer | [Read More](https://medium.com/p/1fcac1cf76b2) |
+| Tue, 13 May 2025 12:04:49 GMT | Mamie > cybersécurité : le plot twist que je n’avais pas vu venir | Manon.exe | [Read More](https://medium.com/p/92f148e9d256) |
+| Tue, 13 May 2025 12:00:14 GMT | The Complete Checklist for Migrating to Automated Reconciliation | Kosh AI | [Read More](https://medium.com/p/4b58b1091ac3) |
+| Tue, 13 May 2025 11:56:31 GMT | Why Australia is the Ideal Country for IT Jobs in 2025 | Ubicor Capital | [Read More](https://medium.com/p/15397d570307) |
+| Tue, 13 May 2025 11:39:17 GMT | Web Cache | saad eddine | [Read More](https://medium.com/p/6065a266ae95) |
+| Tue, 13 May 2025 11:38:16 GMT | Managing the Third-Party Supply-Chain Questionnaire Headache | Paul Missio | [Read More](https://medium.com/p/0ec983156c3a) |
 | Tue, 13 May 2025 11:22:29 GMT | This Is Why Hackers Keep Winning :) Weak Passwords! | Your's Nightmare | [Read More](https://medium.com/p/4b25124cbfa3) |
 | Tue, 13 May 2025 11:21:06 GMT | Network Security Series — Part 2 | M.Magdy | [Read More](https://medium.com/p/5c187fab202e) |
 | Tue, 13 May 2025 11:20:02 GMT | The Complete Guide to Securing Your Home Wi-Fi Network in 2025 | Ricardo Leal | [Read More](https://medium.com/p/7a69bdd2a2ca) |
@@ -94,22 +113,3 @@ Cybersecurity is the practice of protecting computers, servers, mobile… | TP M
 | Tue, 13 May 2025 07:56:17 GMT | Prevent Session Fixation in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/3b43b8e1e9ae) |
 | Tue, 13 May 2025 07:46:42 GMT | Certifying AI-Based Penetration Testing Agents | Dave Mound | [Read More](https://medium.com/p/562c27ed9a88) |
 | Tue, 13 May 2025 07:45:54 GMT | MCP severs – Beware the Invisible Glue – Whack-a-Prompt | DamFoolCat | [Read More](https://medium.com/p/f7c005dfa968) |
-| Tue, 13 May 2025 07:45:51 GMT | Meet URLShort: The Ultimate URL Shortener, Fuzzer & Payload Injector for Bug Bounty Hunters &… | Neeraj Sah | [Read More](https://medium.com/p/9c631e83d492) |
-| Tue, 13 May 2025 07:42:04 GMT | OPSEC Guide — Part 1: Creating PGP Keys (GNU/Linux) | SirHaxAlot | [Read More](https://medium.com/p/2ad82dde6e8d) |
-| Tue, 13 May 2025 07:41:15 GMT | Exploiting File Upload Vulnerabilities: What, Why & How | SACHIN PV | [Read More](https://medium.com/p/68e159aff82a) |
-| Tue, 13 May 2025 07:39:01 GMT | INSECURE AI USAGE | Barmansubhajit | [Read More](https://medium.com/p/a75c1039853a) |
-| Tue, 13 May 2025 07:36:43 GMT | Disclose The Agent: Agent Hunt | Ritchy Tran | [Read More](https://medium.com/p/d49b6b267dc9) |
-| Tue, 13 May 2025 07:32:35 GMT | Assigning Specific GPUs to Docker Containers with Docker Compose | Ramkrushna Maheshwar | [Read More](https://medium.com/p/1fd34eeaae91) |
-| Tue, 13 May 2025 07:31:58 GMT | GOAD Part 2: When Enumeration Bites Back - From SMB to R.I.P. | Cyb3rByte | [Read More](https://medium.com/p/ee7708c98b7d) |
-| Tue, 13 May 2025 07:27:03 GMT | UK Cyber Events: Lessons from the High Street | WayneReidUK | [Read More](https://medium.com/p/e16ce3479343) |
-| Tue, 13 May 2025 07:25:05 GMT | The Evolution of Information Sharing Throughout History | linglingling3 | [Read More](https://medium.com/p/347938ea1ef1) |
-| Tue, 13 May 2025 07:11:11 GMT | This Is Why You’re Not Getting Hired — Even If You’re Doing Everything Right | Prism HRC | [Read More](https://medium.com/p/0adf7cef3c1f) |
-| Tue, 13 May 2025 07:10:34 GMT | RAILGUN: Elevating Privacy in Decentralized Finance | Abhinav Soomaney | [Read More](https://medium.com/p/d8600779c711) |
-| Tue, 13 May 2025 07:03:18 GMT | SSH Explained: What SFMC Admins & Developers Need to Know | Charlie Fay | [Read More](https://medium.com/p/f146b9b41550) |
-| Tue, 13 May 2025 07:02:46 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/85c6b1758170) |
-| Tue, 13 May 2025 07:02:40 GMT | Symmetric data encryption with Python | pikoTutorial | [Read More](https://medium.com/p/f4f360fe2003) |
-| Tue, 13 May 2025 07:02:05 GMT | Generative AI Transformers: Unlocking the Future of Creativity and Innovation | Anindito T | [Read More](https://medium.com/p/4a37587ef406) |
-| Tue, 13 May 2025 06:55:44 GMT | Best Cyber Forensics Training in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/0d8a9e65cde7) |
-| Tue, 13 May 2025 06:53:18 GMT | The Internet Computer’s Privacy, Security, and Speed | Joseph Hurtado | [Read More](https://medium.com/p/24fbf8a2c697) |
-| Tue, 13 May 2025 06:52:57 GMT | The OSI Model for a beginner to understand how the Internet Works | unica 02 | [Read More](https://medium.com/p/af2b74629edf) |
-| Tue, 13 May 2025 06:52:33 GMT | ABUN DA YA KAMATA A SANI AKAN NETWORK SECURITY | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/612f2122790f) |
