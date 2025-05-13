@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 19:02:46 GMT | ETH Zurich identifies ‘Branch Privilege Injection’ flaw in Intel CPUs | Re: News | [Read More](https://medium.com/p/419443fa0697) |
+| Tue, 13 May 2025 18:53:18 GMT | Cryptography Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/73239869cb64) |
+| Tue, 13 May 2025 18:52:41 GMT | What Makes High Rise Buildings Security Different from Other Buildings? | Roger Lee | [Read More](https://medium.com/p/74ab345cc2e2) |
+| Tue, 13 May 2025 18:49:54 GMT | Laravel: Encryption with Eloquent Models (Secure Your Sensitive Data) | Alhassan Mohammed | [Read More](https://medium.com/p/eb8ad6beee99) |
+| Tue, 13 May 2025 18:45:09 GMT | Below The Surface: The Silicon-Deep Security of the Cloud | Saim Wajid | [Read More](https://medium.com/p/b6eb6f1ec5bf) |
+| Tue, 13 May 2025 18:40:51 GMT | ShadowWrite (CVE-2025–22247): The Pre-Ransomware Exploit Hiding in Your VMs | CoffeeCloud Series | [Read More](https://medium.com/p/2934a1094dff) |
 | Tue, 13 May 2025 18:36:52 GMT | Ascension Cyberattack: 435,000+ Patients Data Compromised | Hoplon Infosec | [Read More](https://medium.com/p/e4c3b6f27a68) |
 | Tue, 13 May 2025 18:35:59 GMT | Ekstensi Browser Bisa Lihat Password-mu? | Afifprasetya | [Read More](https://medium.com/p/8ab0d6d114cc) |
 | Tue, 13 May 2025 18:35:47 GMT | Is Your Small Business Wearing Digital Pajamas in Public? | Eina Schroeder | [Read More](https://medium.com/p/fbaf362e60a7) |
@@ -22,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 18:27:51 GMT | Soft on Purpose | Wavinya | [Read More](https://medium.com/p/ea788b928c47) |
 | Tue, 13 May 2025 18:26:21 GMT | CVE-2025–22247 — ShadowWrite | CoffeeCloud Series | [Read More](https://medium.com/p/4328867d6623) |
 | Tue, 13 May 2025 18:19:15 GMT | I Deployed My First Linux Machine! | Luispuello | [Read More](https://medium.com/p/f290bfd1cebe) |
+| Tue, 13 May 2025 18:17:18 GMT | The Flawless Illusion: What We Hide Behind Our Images | Riya Sharma | [Read More](https://medium.com/p/94d7292a32ee) |
 | Tue, 13 May 2025 18:14:02 GMT | This Blog Will Offend You — If You Still Think AI in Cybersecurity Is Optional | Shiven Grover | [Read More](https://medium.com/p/d7542b4a3f53) |
 | Tue, 13 May 2025 18:06:58 GMT | ⚔️ White Hat vs. Black Hat Hackers: What’s the Difference? | Codevirussec | [Read More](https://medium.com/p/22691e81c87b) |
 | Tue, 13 May 2025 18:05:20 GMT | 8 Measures to Protect Against Medical Billing Cyber Threats and Fraud | MailMyStatements | [Read More](https://medium.com/p/f1e7e9b16082) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 13:32:51 GMT | macOS Security: Advanced Defense Mechanisms and Best Practices | Samyakgoel | [Read More](https://medium.com/p/d74125220f02) |
 | Tue, 13 May 2025 13:30:44 GMT | Analyzing Google’s Historic $1.375 Billion Settlement Over Privacy Violations | Nexsecura | [Read More](https://medium.com/p/2483af300943) |
 | Tue, 13 May 2025 13:27:25 GMT | Code Smell 300 — Package Hallucination | Maximiliano Contieri | [Read More](https://medium.com/p/9b2004a909d0) |
-| Tue, 13 May 2025 13:23:18 GMT | Web Uygulamalarında Görünmez Tehdit: CORS Yanlış Yapılandırmaları ve MisCORSion Deneyimi | Mustafa Öztürk | [Read More](https://medium.com/p/2300a88b87df) |
-| Tue, 13 May 2025 13:23:08 GMT | Maximizing Microsoft 365 Security: Key Improvements You Can Make Today Pt 2 | Oludolamu Onimole | [Read More](https://medium.com/p/6cc4229f781d) |
-| Tue, 13 May 2025 13:19:10 GMT | Lost Your Card? Here’s What to Do Immediately | ACEUnion | [Read More](https://medium.com/p/ce248ae8685e) |
-| Tue, 13 May 2025 13:19:02 GMT | Same pill, new label: Gunra just spiked the ransomware cocktail menu — | Wes Young | [Read More](https://medium.com/p/0fa76d51e276) |
-| Tue, 13 May 2025 13:10:46 GMT | Tobiloba Aramide Ogundiyan Sparks Cybersecurity Confidence. | Tobiloba Aramide Ogundiyan | [Read More](https://medium.com/p/d0cabb528bc5) |
-| Tue, 13 May 2025 13:05:06 GMT | Tuesday Morning Threat Report: May 13, 2025 | Mark Maguire | [Read More](https://medium.com/p/f2b009f9a6bb) |
-| Tue, 13 May 2025 13:01:37 GMT | Zero Downtime Security: Is It Possible for Enterprises? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0d8565bb4b00) |
