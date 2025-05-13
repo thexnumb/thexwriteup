@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 07:10:34 GMT | RAILGUN: Elevating Privacy in Decentralized Finance | Abhinav Soomaney | [Read More](https://medium.com/p/d8600779c711) |
+| Tue, 13 May 2025 07:03:18 GMT | SSH Explained: What SFMC Admins & Developers Need to Know | Charlie Fay | [Read More](https://medium.com/p/f146b9b41550) |
+| Tue, 13 May 2025 07:02:46 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/85c6b1758170) |
+| Tue, 13 May 2025 07:02:40 GMT | Symmetric data encryption with Python | pikoTutorial | [Read More](https://medium.com/p/f4f360fe2003) |
+| Tue, 13 May 2025 07:02:05 GMT | Generative AI Transformers: Unlocking the Future of Creativity and Innovation | Anindito T | [Read More](https://medium.com/p/4a37587ef406) |
+| Tue, 13 May 2025 06:55:44 GMT | Best Cyber Forensics Training in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/0d8a9e65cde7) |
+| Tue, 13 May 2025 06:53:18 GMT | The Internet Computer’s Privacy, Security, and Speed | Joseph Hurtado | [Read More](https://medium.com/p/24fbf8a2c697) |
+| Tue, 13 May 2025 06:52:57 GMT | The OSI Model for a beginner to understand how the Internet Works | unica 02 | [Read More](https://medium.com/p/af2b74629edf) |
+| Tue, 13 May 2025 06:52:33 GMT | ABUN DA YA KAMATA A SANI AKAN NETWORK SECURITY | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/612f2122790f) |
+| Tue, 13 May 2025 06:47:39 GMT | Überwachungsroboter kaufen | Presslink Media | [Read More](https://medium.com/p/99f17df8d0c4) |
+| Tue, 13 May 2025 06:46:42 GMT | Choosing Right Security: Cost vs. Quality | United Guard Force India | [Read More](https://medium.com/p/6093d966f68b) |
 | Tue, 13 May 2025 06:44:40 GMT | Best Cyber Security Analyst Courses and Resources for Every Skill Level | Mr Technology | [Read More](https://medium.com/p/61e079baf68c) |
+| Tue, 13 May 2025 06:43:14 GMT | What Makes a Top Security Agency in Mumbai | United Guard Force India | [Read More](https://medium.com/p/15c0b584fbd6) |
 | Tue, 13 May 2025 06:43:03 GMT | Adopt Zero Trust Architecture | Ritesh JOSHI | [Read More](https://medium.com/p/cc6f93c7f3d5) |
 | Tue, 13 May 2025 06:42:10 GMT | Making Cybersecurity Obsolete: A Vision for a Secure Digital Future | Bass Tadros | [Read More](https://medium.com/p/89d8c6adf3fb) |
 | Tue, 13 May 2025 06:40:18 GMT | Tips to Identify a Reliable Security Agency | United Guard Force India | [Read More](https://medium.com/p/f92acb018072) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 23:05:06 GMT | THM: Blue | RedHatReed | [Read More](https://medium.com/p/f36063438d85) |
 | Mon, 12 May 2025 23:02:51 GMT | Part 1: How to Become a Pentester in 2025: Free & Affordable Online Labs | Anezaneo | [Read More](https://medium.com/p/940b6bf8061c) |
 | Mon, 12 May 2025 22:55:23 GMT | Threat Modeling a Batch Job System on AWS ~ Video and Slides | Teri Radichel | [Read More](https://medium.com/p/3f3c26dd31d8) |
-| Mon, 12 May 2025 22:53:47 GMT | HTTP Protocol | tech_rybbit | [Read More](https://medium.com/p/d1e72de08d46) |
-| Mon, 12 May 2025 22:52:37 GMT | Implementing Passkeys in Android — A Full-Stack Guide | Tom Colvin | [Read More](https://medium.com/p/9436744af9ab) |
-| Mon, 12 May 2025 22:50:08 GMT | Night 5: The Three Apples ( Cyber-Sec Anti-Detective) | Shwetha Jayaraj | [Read More](https://medium.com/p/18e92fe42d81) |
-| Mon, 12 May 2025 22:38:01 GMT | Docker Vulnerabilities: It’s Not Just About Patching and fixing the configuration files | Saurabh Srivastava | [Read More](https://medium.com/p/b77a46c9eb03) |
-| Mon, 12 May 2025 22:33:36 GMT | Mixed Feelings | Peas | [Read More](https://medium.com/p/5feb810f2cd4) |
-| Mon, 12 May 2025 22:30:14 GMT | Threat Modeling for AI Systems: STRIDE, DREAD, and Beyond | Dave Patten | [Read More](https://medium.com/p/8a3996a0ab43) |
-| Mon, 12 May 2025 22:24:23 GMT | Full Moon In Scorpio during Pluto retrogade | M8L4MU53 | [Read More](https://medium.com/p/ce54c2afc330) |
-| Mon, 12 May 2025 22:24:12 GMT | Privacy-Preserving Computation | Mi'kail Eli'yah | [Read More](https://medium.com/p/d1c53afa81a8) |
-| Mon, 12 May 2025 22:16:57 GMT | RECOVERY OF STOLEN COINS WITH CRYPTO PANDEMIC HUNTER | Christopher Renee | [Read More](https://medium.com/p/bb33f2597e0b) |
-| Mon, 12 May 2025 22:16:26 GMT | DNS Spoofing: What It Is and How to Defend Against It | Karthikeyan Nagaraj | [Read More](https://medium.com/p/77be6e1af9e4) |
-| Mon, 12 May 2025 21:53:02 GMT | Process Hypnosis Injection Technique | S12 - H4CK | [Read More](https://medium.com/p/58e9901ae2cc) |
-| Mon, 12 May 2025 21:38:12 GMT | Top 5 Takeaways for CISOs from RSAC 2025: AI Security in Focus | Mike Pearl | [Read More](https://medium.com/p/019489c3a439) |
