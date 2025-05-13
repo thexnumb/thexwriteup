@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 14:28:58 GMT | ASUS DriverHub Vulnerability Exposes Users to Remote Code Execution | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/1f924851eeac) |
+| Tue, 13 May 2025 14:27:46 GMT | Bug Bounty Roadmap 2025: The Complete Guide to Becoming a Professional Ethical Hacker | Jiniyaasma | [Read More](https://medium.com/p/a6ff0abc69ef) |
+| Tue, 13 May 2025 14:23:50 GMT | Which IAM SaaS architecture is for you — exploring IAM architectures in Software-as-a-Service… | Natalia Trojanowska-Korepta | [Read More](https://medium.com/p/d648c12eb3a0) |
+| Tue, 13 May 2025 14:20:42 GMT | SOC Analyst: The Coolest Cyber Job You’ve Never Heard Of ! | Cyber Shahrukh | [Read More](https://medium.com/p/69199381d213) |
 | Tue, 13 May 2025 14:14:39 GMT | How I Learned Prompt Engineering as a Security Consultant | Kreskn | [Read More](https://medium.com/p/e128370135cc) |
 | Tue, 13 May 2025 14:14:11 GMT | This Innocent AI Tool Took Down an Entire Company | Noel | [Read More](https://medium.com/p/c400a4cf1c54) |
 | Tue, 13 May 2025 14:14:05 GMT | Pro Tips to Get a Reaction from IT/Security Leadership When Discussing Cybersecurity Investments | CyberBruhArmy | [Read More](https://medium.com/p/bf2e5ba2cbe5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 09:52:48 GMT | IT SOLUTIONS | Devarshi Acharya | [Read More](https://medium.com/p/ac73a3aefb13) |
 | Tue, 13 May 2025 09:51:16 GMT | Is Your Device Online and Exposed? Learn What Shodan Reveals. | Myra Jarenga | [Read More](https://medium.com/p/ec77af6af738) |
 | Tue, 13 May 2025 09:46:01 GMT | What I Learned Through the Swamp When I Stopped Numbing | Julius Corababa | [Read More](https://medium.com/p/957372fbe51b) |
-| Tue, 13 May 2025 09:41:45 GMT | The Flip Side of Conversational Analytics: Are We Trading Insights for Privacy? | Clarista Inc. | [Read More](https://medium.com/p/1a8334b61ba2) |
-| Tue, 13 May 2025 09:38:03 GMT | AI-Driven Defence: The Rise of Smart Cyber Security Consultancy | Qcom Ltd | [Read More](https://medium.com/p/e31d03407c30) |
-| Tue, 13 May 2025 09:37:06 GMT | ประจำวันอังคารที่ 13 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c268b8c25b38) |
-| Tue, 13 May 2025 09:34:20 GMT | SQLMAP (Tryhackme) | Amalpp | [Read More](https://medium.com/p/aa4cd9fb46fd) |
