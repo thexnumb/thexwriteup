@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 01:33:12 GMT | LockBit Hacking Group Defaced and Compromised — May 2025 Incident Report | KN | [Read More](https://medium.com/p/15c4e4a7e1a8) |
+| Tue, 13 May 2025 01:28:19 GMT | Snyk plugin for JetBrains IDE’s | Michael Harms | [Read More](https://medium.com/p/4a982ab73eea) |
+| Tue, 13 May 2025 01:20:38 GMT | Boost Your Bug $BUG Strategy with These Expert Tips | BUG | [Read More](https://medium.com/p/6bc5f591b77d) |
+| Tue, 13 May 2025 01:09:41 GMT | XINTRA Abu Jibal Lab Walkthrough | Faisalalq | [Read More](https://medium.com/p/10342ec55f78) |
+| Tue, 13 May 2025 01:06:59 GMT | Dexter’s Lab | Montel Oliver | [Read More](https://medium.com/p/8dcb1d3821aa) |
+| Tue, 13 May 2025 01:01:33 GMT | PHP Type Juggling Vulnerability: Exploitation and Defense | Mahmoud Bedair | [Read More](https://medium.com/p/fdbd49e8ff99) |
+| Tue, 13 May 2025 00:50:42 GMT | Blueprint (TryHackMe) Pwned: From osCommerce RCE to SYSTEM & Flags — A CTF Walkthrough [2024/2025… | jensbecker-dev | [Read More](https://medium.com/p/56fc352133cf) |
+| Tue, 13 May 2025 00:44:26 GMT | Operation Moonlander: FBI and Dutch Police Dismantle 7,000-Device Proxy Botnet Built on Hacked… | Cyber-AppSec | [Read More](https://medium.com/p/309969d6adf8) |
+| Tue, 13 May 2025 00:42:37 GMT | The Chronicles of IntentSim[on]: The Rogue IP Infiltration — A Field Report | INTENTSIM | [Read More](https://medium.com/p/59ccdef9cfda) |
+| Tue, 13 May 2025 00:42:26 GMT | (VATINT) Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/dd62cd983a5e) |
+| Tue, 13 May 2025 00:32:26 GMT | Implement Secure JWT Authentication in Your ASP.NET Core Project | Jenil Sojitra | [Read More](https://medium.com/p/502fd22eed99) |
+| Tue, 13 May 2025 00:28:03 GMT | OneDrive’s New Sync May be a Privacy and Security Nightmare | Matthew.Rosenquist | [Read More](https://medium.com/p/4cd8ee10a769) |
+| Tue, 13 May 2025 00:17:58 GMT | Mengenal Nmap: Alat Andalan Para Hacker & Pentester | Velia's Journey | [Read More](https://medium.com/p/52de68e96457) |
+| Tue, 13 May 2025 00:11:38 GMT | Some Days, Rest Feels Like a Distant Dream | Joy | [Read More](https://medium.com/p/ae1f0c432b18) |
+| Tue, 13 May 2025 00:08:13 GMT | The Future of Crypto: How Bug is Changing the Game | BUG | [Read More](https://medium.com/p/25c2551da0dd) |
+| Tue, 13 May 2025 00:00:53 GMT | Step-by-Step Guide to Enabling Two-Factor Authentication in FraudLabs Pro | Fraudlabs Pro | [Read More](https://medium.com/p/576dccd1efa9) |
+| Mon, 12 May 2025 23:51:25 GMT | ⚡ Today I Learned : ️ 20 Cool Linux Commands That Feel Like Hacking | LazyHacker | [Read More](https://medium.com/p/fa5fd4b10b7e) |
+| Mon, 12 May 2025 23:46:26 GMT | Earn Passive Income with Bug: The Smart Way | BUG | [Read More](https://medium.com/p/dbdff8252ac5) |
+| Mon, 12 May 2025 23:41:02 GMT | $1,120 Bounty: Clickjacking Vulnerability in Twitter Periscope | Monika sharma | [Read More](https://medium.com/p/b46e8dfc8915) |
 | Mon, 12 May 2025 23:32:27 GMT | This One Grammar Mistake Is Why Your Board Doesn’t Trust Your Security Reports | Lee Barney | [Read More](https://medium.com/p/8e5298a6d671) |
 | Mon, 12 May 2025 23:17:53 GMT | Security in APIs and Microservices: an essential pillar of Software Quality | Marcelo Esperandio Lucio | [Read More](https://medium.com/p/71667dcb869a) |
 | Mon, 12 May 2025 23:11:12 GMT | What do one’s past choices look like when seen through the eyes of the present? | Vuotosiderale | [Read More](https://medium.com/p/13804659b69d) |
@@ -44,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 20:19:33 GMT | When Code Turns Kinetic: Mapping and Breaking ICS Attack Chains Through Realistic Simulation | Param Dhagia | [Read More](https://medium.com/p/c4f587d007b7) |
 | Mon, 12 May 2025 20:19:32 GMT | DragonForce Goes Retail: Inside the Cyber Siege of M&S, Co-op, and Harrods | Irem | [Read More](https://medium.com/p/0c02c927ad75) |
 | Mon, 12 May 2025 20:18:27 GMT | How to Copy Any Website in Seconds ( Step-by-Step ) 2025 | Ceo Defender | [Read More](https://medium.com/p/3074506c4525) |
+| Mon, 12 May 2025 19:59:07 GMT | Ink Bleeds Too | Henry | [Read More](https://medium.com/p/cc372b8730ac) |
 | Mon, 12 May 2025 19:57:53 GMT | LockBit Ransomware Gang Hacked: Inside the Leak That Shook the Dark Web | Irem | [Read More](https://medium.com/p/cdcb72f00e12) |
 | Mon, 12 May 2025 19:51:39 GMT | Why I Couldn’t Stay Silent Any Longer | TJ Larson | [Read More](https://medium.com/p/3c1aaaaee56c) |
 | Mon, 12 May 2025 19:48:40 GMT | How WiFi Monitoring Can Improve Network Security | Abdulraheemyoo | [Read More](https://medium.com/p/a70e87fde102) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 17:07:31 GMT | What If the “Answer” Is the Problem? | Cheryl Abram | [Read More](https://medium.com/p/0bbdd118b8b9) |
 | Mon, 12 May 2025 17:04:49 GMT | Web Uygulama Güvenliği | Neriman Topçu | [Read More](https://medium.com/p/469bfc07d328) |
 | Mon, 12 May 2025 16:55:54 GMT | bWAPP HTML Injection CheatSheet — (WebApp Pentesting 1) | serkanbenol | [Read More](https://medium.com/p/f6ae6719617a) |
-| Mon, 12 May 2025 16:55:31 GMT | Dark Web Markets: What Are They Selling Beyond Data? | Akshay Chauhan | [Read More](https://medium.com/p/597cbcf0a340) |
-| Mon, 12 May 2025 16:53:03 GMT | ELF Master — cybertalents | Mohamed atiaa | [Read More](https://medium.com/p/94b28cd547b9) |
-| Mon, 12 May 2025 16:51:20 GMT | The Ultimate IDOR Bug Bounty Methodology — Learn & Hunt Like a Pro (2025 Guide) | hackersatty | [Read More](https://medium.com/p/fd79e50fd7fe) |
-| Mon, 12 May 2025 16:49:59 GMT | SEO & Google Dorking: A Power Combo for Digital Sleuths & Smart Marketers | Mahesh Ravaji | [Read More](https://medium.com/p/1997d91f9263) |
-| Mon, 12 May 2025 16:41:47 GMT | [Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into… | hackersatty | [Read More](https://medium.com/p/23e0d699d792) |
-| Mon, 12 May 2025 16:40:27 GMT | This Malware Uses Steam Domains to Steal Your Identity  — A Deep Dive into Azorult | Arsene | [Read More](https://medium.com/p/4a847fcf0dad) |
-| Mon, 12 May 2025 16:36:39 GMT | Virtualized Mobile Forensics Research Using Kali Linux on Android Tablet | Navjot Singh | [Read More](https://medium.com/p/3b4320cf731b) |
-| Mon, 12 May 2025 16:29:05 GMT | When Fear Means Go | Mark | [Read More](https://medium.com/p/4b0ad162c8d1) |
-| Mon, 12 May 2025 16:28:16 GMT | The Evolving Cyber Threat Landscape: A Strategic Outlook for IT Professionals | Travis Ray Caverhill | [Read More](https://medium.com/p/1709e20aed38) |
-| Mon, 12 May 2025 16:26:43 GMT | Who’s Knocking? — A Video Intercom as the Guardian of Your Home | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/ed1ebbbbe20c) |
-| Mon, 12 May 2025 16:24:06 GMT | Navigating Cybersecurity Challenges: How State and Local Governments Must Adapt to the Evolving… | Andrea Alaniz | [Read More](https://medium.com/p/a80058712e7d) |
-| Mon, 12 May 2025 16:22:33 GMT | Building a Secure Telehealth Platform with Amazon Chime SDK and WAF | AWS Cloud Architect | [Read More](https://medium.com/p/6766622bcd74) |
-| Mon, 12 May 2025 16:19:17 GMT | Windows Fundamentals 2 - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/9b73c6390cc4) |
-| Mon, 12 May 2025 16:19:06 GMT | Uploading Files to Google Cloud Storage (GCS) Using the gsutil Command-Line Tool | Asmitha | [Read More](https://medium.com/p/71bca0a2b731) |
-| Mon, 12 May 2025 16:18:00 GMT | Weird Leak? Favicon Caching Might Be Exposing You | An0n | [Read More](https://medium.com/p/ebefcce7a2c8) |
-| Mon, 12 May 2025 16:17:54 GMT | Public Key Infrastructure (PKI) | Hasindu Nagolla | [Read More](https://medium.com/p/ee09fd6b8d06) |
-| Mon, 12 May 2025 16:15:40 GMT | False Positive vs False Negative — Explained Simply | Ravindra Dagale | [Read More](https://medium.com/p/007825aeb72d) |
-| Mon, 12 May 2025 16:03:34 GMT | ASUS Patches Critical DriverHub Flaws: A One-Click RCE Nightmare | Ismail Tasdelen | [Read More](https://medium.com/p/8d8bdc3f6710) |
-| Mon, 12 May 2025 16:03:06 GMT | Why Generative AI Lessons Should be Put in to School Curriculum | Sarah Eshun | [Read More](https://medium.com/p/22a550560f64) |
-| Mon, 12 May 2025 16:02:31 GMT | Part 1: Python Foothold via Macros, HTA, and ISOs | Maxwell Cross | [Read More](https://medium.com/p/05cd56f98b0e) |
