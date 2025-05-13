@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 23:28:02 GMT | Writing Pentest Reports . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/6a7cb22fe89f) |
+| Tue, 13 May 2025 23:20:42 GMT | Getting Started with Amazon Q Developer | Teri Radichel | [Read More](https://medium.com/p/7d693546dbdf) |
+| Tue, 13 May 2025 23:13:47 GMT | Phishing Alert: How Hackers Are Targeting Apple & Google Wallets (And How to Stay Safe) | Sherry | [Read More](https://medium.com/p/0cb3421fcad3) |
 | Tue, 13 May 2025 23:03:20 GMT | Hack The Box - Devvortex | Luigi Carpio (0xBahalaNa) | [Read More](https://medium.com/p/d263c121cd7c) |
 | Tue, 13 May 2025 22:58:57 GMT | Australia needs a defence levy to survive an uncertain future | Jonathan Meddings | [Read More](https://medium.com/p/08bf155d595b) |
 | Tue, 13 May 2025 22:55:49 GMT | meerkat — a scuffed writeup + update | nubb | [Read More](https://medium.com/p/d91df036b8d3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 17:45:09 GMT | Safe and Responsible AI in Australia — The Government’s Interim Response | Privacy Research Team, Securiti | [Read More](https://medium.com/p/8af9b1065d35) |
 | Tue, 13 May 2025 17:40:11 GMT | CSRF Explained: The Quiet Threat Hiding Behind Logged-In Sessions | Akshay Chauhan | [Read More](https://medium.com/p/4ec359da6bba) |
 | Tue, 13 May 2025 17:38:28 GMT | Why Your Business Needs 2FA for Stronger Security | SafeAeon Inc. | [Read More](https://medium.com/p/e15d19362728) |
-| Tue, 13 May 2025 17:36:37 GMT | Why Continuous Penetration Testing Is a Must in 2025 | Mehak kamra | [Read More](https://medium.com/p/cc685c068a9c) |
-| Tue, 13 May 2025 17:34:58 GMT | The Security Gap JPMorgan Chase’s CISO Didn’t Mention — And Why It’s in Your Browser | Mary Yang | [Read More](https://medium.com/p/b85ed07a028a) |
-| Tue, 13 May 2025 17:32:28 GMT | 7 Cybersecurity Project Ideas You Can Actually Finish (And Learn From) | SoBatista | [Read More](https://medium.com/p/eb88ab6932b8) |
