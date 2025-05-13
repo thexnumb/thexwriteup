@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 23:03:20 GMT | Hack The Box - Devvortex | Luigi Carpio (0xBahalaNa) | [Read More](https://medium.com/p/d263c121cd7c) |
+| Tue, 13 May 2025 22:58:57 GMT | Australia needs a defence levy to survive an uncertain future | Jonathan Meddings | [Read More](https://medium.com/p/08bf155d595b) |
+| Tue, 13 May 2025 22:55:49 GMT | meerkat — a scuffed writeup + update | nubb | [Read More](https://medium.com/p/d91df036b8d3) |
+| Tue, 13 May 2025 22:49:47 GMT | Post India-Pakistan Conflict: India’s Digital Retaliation — Tariffs, Tech, and a Wake-Up Call for… | Everclear International | [Read More](https://medium.com/p/8f999373708f) |
+| Tue, 13 May 2025 22:49:01 GMT | He Thought His Building Site Was Secure — Until He Checked the Footage | B Painex | [Read More](https://medium.com/p/e8aa0b894561) |
 | Tue, 13 May 2025 22:40:48 GMT | Ultra-Fast DevSecOps Scanners | AquilaX AI | [Read More](https://medium.com/p/b75b3720bdb0) |
 | Tue, 13 May 2025 22:40:25 GMT | How Is Technology Addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/05407a5c8c88) |
 | Tue, 13 May 2025 22:40:05 GMT | Fake AI Tools Used to Spread Noodlophile Malware — Over 62,000 Users Targeted via Facebook Lures | Cyber-AppSec | [Read More](https://medium.com/p/4c1c85b18597) |
+| Tue, 13 May 2025 22:40:04 GMT | UnderPass (Write-Up) — Hack The Box | Ross Mitchell | [Read More](https://medium.com/p/98d5039af892) |
 | Tue, 13 May 2025 22:36:23 GMT | What is online blackmail and what can I do to prevent it from happening? | Savvy Cyber Kids | [Read More](https://medium.com/p/4126a0f1f67d) |
 | Tue, 13 May 2025 22:34:05 GMT | “Your Account Has Been Disabled in the App Store and iTunes” — What It Means & How to Possibly Fix… | Zavier Chambers | [Read More](https://medium.com/p/8f46d2ecde41) |
 | Tue, 13 May 2025 22:33:12 GMT | Constructing a Safe Password | Savvy Cyber Kids | [Read More](https://medium.com/p/c1e296ee4639) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 17:36:37 GMT | Why Continuous Penetration Testing Is a Must in 2025 | Mehak kamra | [Read More](https://medium.com/p/cc685c068a9c) |
 | Tue, 13 May 2025 17:34:58 GMT | The Security Gap JPMorgan Chase’s CISO Didn’t Mention — And Why It’s in Your Browser | Mary Yang | [Read More](https://medium.com/p/b85ed07a028a) |
 | Tue, 13 May 2025 17:32:28 GMT | 7 Cybersecurity Project Ideas You Can Actually Finish (And Learn From) | SoBatista | [Read More](https://medium.com/p/eb88ab6932b8) |
-| Tue, 13 May 2025 17:32:06 GMT | Understanding MIME Sniffing attacks: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/7151e1a5d9a5) |
-| Tue, 13 May 2025 17:26:24 GMT | How to Check a Phishing Email Domain and Tips to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/8e81d8a2312c) |
-| Tue, 13 May 2025 17:23:58 GMT | Build Your Own AI SOC — Part 4 | Corey Jones | [Read More](https://medium.com/p/b91267073f14) |
-| Tue, 13 May 2025 17:23:20 GMT | Organizational Units & Groups | Dito _0xE7 | [Read More](https://medium.com/p/7661f3a5a468) |
-| Tue, 13 May 2025 17:21:41 GMT | Automatización y Pentesting: Usa la IA y herramientas Open-Source | Faraday Team | [Read More](https://medium.com/p/c62febab70b3) |
-| Tue, 13 May 2025 17:08:29 GMT | Log 01: Cyber… Security… Cybersecurity? | Apurva Cybersecurity | [Read More](https://medium.com/p/d562c0305508) |
