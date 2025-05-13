@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 21:24:50 GMT | Port Scanning 101: What It Is and Why Hackers Love It | All in One security | [Read More](https://medium.com/p/6103e469c258) |
+| Tue, 13 May 2025 21:16:28 GMT | TryHackMe -TomGhost Walkthrough — Beginner-Friendly CTF | Yousraouahid | [Read More](https://medium.com/p/04b8cb0d4097) |
 | Tue, 13 May 2025 21:11:58 GMT | Introducing DomainRecon: Your Advanced WHOIS & DNS Intelligence Tool | N0aziXss | [Read More](https://medium.com/p/9e2dc63ae774) |
 | Tue, 13 May 2025 21:11:47 GMT | The Hardest Part of Life: Retirement Struggle for the 60s | Claire Moore | [Read More](https://medium.com/p/e97f3347de38) |
 | Tue, 13 May 2025 21:06:04 GMT | A Sneaky PyPI Package Tried to Steal Solana Devs’ Secrets | Ismail Tasdelen | [Read More](https://medium.com/p/1d273c70e81c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 16:14:08 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/59d6fd96ed89) |
 | Tue, 13 May 2025 16:02:43 GMT | Forgot Password? More Like Forgot Security | Derick Johnson | [Read More](https://medium.com/p/96f9b89730ad) |
 | Tue, 13 May 2025 16:02:39 GMT | Part 2: Privilege Escalation & Credential Access | Maxwell Cross | [Read More](https://medium.com/p/38af0d233b65) |
-| Tue, 13 May 2025 16:01:39 GMT | Hibernate Mode Forensics: A Hidden Goldmine in Digital Investigations | Dhruv Dadarwala | [Read More](https://medium.com/p/a1b33407747e) |
-| Tue, 13 May 2025 15:55:20 GMT | Assets Guard by InfluxAI (second part) | InfluxAI | [Read More](https://medium.com/p/fccc8c2e7887) |
