@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 04:39:28 GMT | The $1,000 Recon Trick: One Command That Changed My Hunting Game | Abhijeet Kumawat | [Read More](https://medium.com/p/58527a7f6d7c) |
+| Tue, 13 May 2025 04:36:02 GMT | How to Investigate a SIEM Alert? — LetsDefend | md_ashmar | [Read More](https://medium.com/p/9f6edfb2cbb2) |
+| Tue, 13 May 2025 04:36:01 GMT | Malware Analysis Fundamentals Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/ee8b104bf7c7) |
 | Tue, 13 May 2025 04:24:09 GMT | Jaibreak Detection Bypass using Shadow | RRespxwnss | [Read More](https://medium.com/p/2908f0057516) |
 | Tue, 13 May 2025 04:05:19 GMT | The Linux Concept Journey — Linux Kernel | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/0b06457569e8) |
 | Tue, 13 May 2025 03:53:45 GMT | Even the Strong Get Tired of Being Strong | Dhruvi ✨ | [Read More](https://medium.com/p/75f95adf6c1e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 18:41:20 GMT | New article on blog | M S Sripati | [Read More](https://medium.com/p/cc4e310b506a) |
 | Mon, 12 May 2025 18:40:16 GMT | Traveling Smart with Primasim: Is eSIM Safe for Travelers? | PrimaSIM | [Read More](https://medium.com/p/f937db1c9232) |
 | Mon, 12 May 2025 18:37:24 GMT | How to Reset Kali Password Without Re-Installation | Toheeb Kayode Adisa | [Read More](https://medium.com/p/1b0cdf123969) |
-| Mon, 12 May 2025 18:32:24 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/04117e5498fe) |
-| Mon, 12 May 2025 18:24:12 GMT | Even after believing you’ve become capable of everything, that what once caused you pain no longer… | Madona_luchi️ | [Read More](https://medium.com/p/37f76b6ad0be) |
-| Mon, 12 May 2025 18:19:21 GMT | Fighting Financial Fraud and Inequality with AI: My Journey in Applied Research | Md Tanvir Rahman | [Read More](https://medium.com/p/6ec81ab21716) |
