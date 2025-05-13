@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 09:38:03 GMT | AI-Driven Defence: The Rise of Smart Cyber Security Consultancy | Qcom Ltd | [Read More](https://medium.com/p/e31d03407c30) |
+| Tue, 13 May 2025 09:34:20 GMT | SQLMAP (Tryhackme) | Amalpp | [Read More](https://medium.com/p/aa4cd9fb46fd) |
+| Tue, 13 May 2025 09:30:47 GMT | Israel, 2015 — When Hackers Watched the Watchers | om sonawane | [Read More](https://medium.com/p/f30da25b6eab) |
+| Tue, 13 May 2025 09:30:12 GMT | Practical Malware Analysis — Lab 9 | Sapir Twig | [Read More](https://medium.com/p/0a93ca59b796) |
+| Tue, 13 May 2025 09:26:45 GMT | Are Insects Animals? Understanding the Classification | Original bee | [Read More](https://medium.com/p/3ef53f77d048) |
+| Tue, 13 May 2025 09:26:26 GMT | HOW TO HAVE VISIBILITY AND SECURITY OF CICD ECOSYSTEM | Pramod Rana (@IAmVarchashva) | [Read More](https://medium.com/p/d8d13734107b) |
+| Tue, 13 May 2025 09:26:12 GMT | ️ How I Broke Active Directory with ESC1 in TryHackMe’s Ledger Room | MatSec | [Read More](https://medium.com/p/3c828e0debdd) |
+| Tue, 13 May 2025 09:25:00 GMT | SharpEye: Advanced Linux Intrusion Detection System | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/32c4c08544e8) |
+| Tue, 13 May 2025 09:24:19 GMT | Are You Looking for Free Training on AWS, Azure, Cisco, and Cybersecurity? Here You Go! | Babar Ali Jamali | [Read More](https://medium.com/p/7cad9fbd60ab) |
+| Tue, 13 May 2025 09:23:28 GMT | Cybersecurity Best Practices
+Cybersecurity is the practice of protecting computers, servers, mobile… | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/de6a6b868001) |
+| Tue, 13 May 2025 09:21:34 GMT | WHY YOU SHOULD CHOOSE CYBERSECURITY BEING AN | Arya Maheshwari | [Read More](https://medium.com/p/0d9cb00ed128) |
 | Tue, 13 May 2025 09:20:53 GMT | DIGITAL DATA COLLECTORS | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/0f6e502fc865) |
 | Tue, 13 May 2025 09:20:41 GMT | Your Boss is Spying on Your Work Laptop — Here’s What They Can See | Ahmad Javed | [Read More](https://medium.com/p/a0d6c15cc1cc) |
 | Tue, 13 May 2025 09:19:35 GMT | How Cloudflare Powers Secure and Fast Digital Experiences in 2025 | Levitation Infotech | [Read More](https://medium.com/p/ad36fea1cde2) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 03:53:45 GMT | Even the Strong Get Tired of Being Strong | Dhruvi ✨ | [Read More](https://medium.com/p/75f95adf6c1e) |
 | Tue, 13 May 2025 03:42:25 GMT | TOMGHOST- TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/64b5984ef355) |
 | Tue, 13 May 2025 03:32:28 GMT | SpyX Exposed: When Stalkerware Gets Stalked and 2 Million Users Pay the Price | Deven Chhajed | [Read More](https://medium.com/p/003bac5d03b9) |
-| Tue, 13 May 2025 03:19:55 GMT | KMS Isn’t Just for S3: Let’s Talk EC2 Volumes | Fiardika Rizki | [Read More](https://medium.com/p/cce60d52fc76) |
-| Tue, 13 May 2025 03:19:03 GMT | Wait… My S3 Bucket Wasn’t Actually Locked?! A KMS Story | Fiardika Rizki | [Read More](https://medium.com/p/fd8216cd3f26) |
-| Tue, 13 May 2025 03:11:56 GMT | How to Supercharge Your Earnings by DORK $DORK | DORK | [Read More](https://medium.com/p/60ec4cec6e5a) |
-| Tue, 13 May 2025 03:10:25 GMT | The 3-Second Social Media Hack That Protects Your Kids | Ahmad Javed | [Read More](https://medium.com/p/77fdb211254b) |
-| Tue, 13 May 2025 03:04:08 GMT | Inside the Shadows: Why HTTP Smuggling Still Breaks the Web | Isv | [Read More](https://medium.com/p/c81c69577fdd) |
-| Tue, 13 May 2025 03:02:35 GMT | Stop Blaming QA for Production Bugs — Start Building Stronger Teams | Test Tactix | [Read More](https://medium.com/p/f82d2d8506d3) |
-| Tue, 13 May 2025 03:02:31 GMT | The Age of Disruption | Vic Langston - Journalist | [Read More](https://medium.com/p/5d502ded0623) |
-| Tue, 13 May 2025 02:58:18 GMT | Basic vulnerability exploit: Understanding vulnerability | Syakir Sulaiman | [Read More](https://medium.com/p/f6dbd5562af8) |
-| Tue, 13 May 2025 02:55:50 GMT | TShark | Shamar Isaac | [Read More](https://medium.com/p/50a97ff1f7bc) |
-| Tue, 13 May 2025 02:54:26 GMT | CVE Rewards: How to Get Started | CVE | [Read More](https://medium.com/p/0d6dd30bd3a2) |
-| Tue, 13 May 2025 02:41:29 GMT | Bypassing Content Moderation Filters: Techniques, Challenges, and Implications | Faruk Alpay | [Read More](https://medium.com/p/4d329f43a6c1) |
