@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 21:11:58 GMT | Introducing DomainRecon: Your Advanced WHOIS & DNS Intelligence Tool | N0aziXss | [Read More](https://medium.com/p/9e2dc63ae774) |
+| Tue, 13 May 2025 21:11:47 GMT | The Hardest Part of Life: Retirement Struggle for the 60s | Claire Moore | [Read More](https://medium.com/p/e97f3347de38) |
+| Tue, 13 May 2025 21:06:04 GMT | A Sneaky PyPI Package Tried to Steal Solana Devs’ Secrets | Ismail Tasdelen | [Read More](https://medium.com/p/1d273c70e81c) |
+| Tue, 13 May 2025 21:03:43 GMT | Red Team Fundamentals — TryHackMe Room Writeup | Taylor Wavra | [Read More](https://medium.com/p/f42212845873) |
+| Tue, 13 May 2025 21:02:43 GMT | North Korean Konni APT Targets Ukraine: A Cyber Espionage Tale ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/12da576504c9) |
+| Tue, 13 May 2025 21:02:31 GMT | Building and Testing an Effective Threat-Hunting Strategy | John Locke | [Read More](https://medium.com/p/767717c18a56) |
+| Tue, 13 May 2025 21:00:22 GMT | Why Smart Houses Needs Smarter Security — The Rise of Automated Home Protection | Mohsin | [Read More](https://medium.com/p/a2f2664f8467) |
+| Tue, 13 May 2025 20:59:54 GMT | Moldova Busts Ransomware Suspect in €4.5M Cyber Heist: A DoppelPaymer Takedown ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/e24131aaa5b8) |
+| Tue, 13 May 2025 20:56:47 GMT | Security Footage THM Write up | Muzaffar Waadallh | [Read More](https://medium.com/p/e946f3948203) |
+| Tue, 13 May 2025 20:54:54 GMT | AWS VPC - Attack and Defense . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/991cd64b473c) |
+| Tue, 13 May 2025 20:53:18 GMT | Colleagues, the “CISA: Certified Information Systems Auditor” program will equip you to pass the… | Franklin Rhodes | [Read More](https://medium.com/p/054740a5266d) |
+| Tue, 13 May 2025 20:51:58 GMT | Wenn Stille zu laut wird | Tami | [Read More](https://medium.com/p/9261ca6d8e45) |
+| Tue, 13 May 2025 20:40:45 GMT | Are QR codes safe? | Roberto Maggio | [Read More](https://medium.com/p/f87a41632678) |
 | Tue, 13 May 2025 20:37:59 GMT | Starting Cybersecurity: A Roadmap for the utterly Curious | HackWitHer | [Read More](https://medium.com/p/4f5f50ba6b9c) |
 | Tue, 13 May 2025 20:31:37 GMT | La certification cyber! | Florent M | [Read More](https://medium.com/p/fbceca851c66) |
 | Tue, 13 May 2025 20:30:45 GMT | Bridging the Talent Gap Through Smart Technology Partnerships | Vivek Rao | [Read More](https://medium.com/p/484d095c2a6f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 16:02:39 GMT | Part 2: Privilege Escalation & Credential Access | Maxwell Cross | [Read More](https://medium.com/p/38af0d233b65) |
 | Tue, 13 May 2025 16:01:39 GMT | Hibernate Mode Forensics: A Hidden Goldmine in Digital Investigations | Dhruv Dadarwala | [Read More](https://medium.com/p/a1b33407747e) |
 | Tue, 13 May 2025 15:55:20 GMT | Assets Guard by InfluxAI (second part) | InfluxAI | [Read More](https://medium.com/p/fccc8c2e7887) |
-| Tue, 13 May 2025 15:54:12 GMT | Cyberattacks in Space: A Silent Threat That Could Cripple Our World | O. J. Okpabi | [Read More](https://medium.com/p/b24ca29fb03b) |
-| Tue, 13 May 2025 15:53:03 GMT | What Is a CSRF Attack? A Simple Guide for Beginners | SafeAeon Inc. | [Read More](https://medium.com/p/39f66d2e97a1) |
-| Tue, 13 May 2025 15:52:50 GMT | We Agreed to Protect the Ocean —  So Where’s the Law? | Luka Jagor | [Read More](https://medium.com/p/c4a4612e5589) |
-| Tue, 13 May 2025 15:49:23 GMT | Python Basics - TryHackMe Walkthrough | Cyber.Bae | [Read More](https://medium.com/p/0bee6ef8e6dd) |
-| Tue, 13 May 2025 15:41:04 GMT | Using the Token Mediation Policy in API Connect | TC Burke | [Read More](https://medium.com/p/f478d94db5e7) |
-| Tue, 13 May 2025 15:32:56 GMT | GZR Observer Daily — May 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5142d37ba6ae) |
-| Tue, 13 May 2025 15:28:10 GMT | How to Use a Passkey for Encryption | David Gobaud | [Read More](https://medium.com/p/8848af93c814) |
-| Tue, 13 May 2025 15:17:35 GMT | What Will Greenland Do as President of the Nordic Council | Henri Kouam | [Read More](https://medium.com/p/a99679b90ac5) |
-| Tue, 13 May 2025 15:17:28 GMT | Drugs too need privacy? | Joshi | [Read More](https://medium.com/p/c3a84bbdf6fd) |
-| Tue, 13 May 2025 15:16:15 GMT | Nervous and excited about taking the first certification in Cybersecurity! | Madhu Patnam | [Read More](https://medium.com/p/1e239930e463) |
-| Tue, 13 May 2025 15:13:04 GMT | Understanding CORS: What, Why & How? | Damarakeswar Guddanti | [Read More](https://medium.com/p/56516bbb1391) |
-| Tue, 13 May 2025 15:05:18 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/6e0e3a25f439) |
-| Tue, 13 May 2025 15:00:06 GMT | Ways to Protect Your Bank Account | Souhail Laghchim | [Read More](https://medium.com/p/f56692357e60) |
