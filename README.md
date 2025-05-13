@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 15:17:35 GMT | What Will Greenland Do as President of the Nordic Council | Henri Kouam | [Read More](https://medium.com/p/a99679b90ac5) |
+| Tue, 13 May 2025 15:17:28 GMT | Drugs too need privacy? | Joshi | [Read More](https://medium.com/p/c3a84bbdf6fd) |
+| Tue, 13 May 2025 15:16:15 GMT | Nervous and excited about taking the first certification in Cybersecurity! | Madhu Patnam | [Read More](https://medium.com/p/1e239930e463) |
+| Tue, 13 May 2025 15:13:04 GMT | Understanding CORS: What, Why & How? | Damarakeswar Guddanti | [Read More](https://medium.com/p/56516bbb1391) |
+| Tue, 13 May 2025 15:05:18 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/6e0e3a25f439) |
+| Tue, 13 May 2025 15:00:06 GMT | Ways to Protect Your Bank Account | Souhail Laghchim | [Read More](https://medium.com/p/f56692357e60) |
+| Tue, 13 May 2025 14:55:32 GMT | XSS Part — 15 : Reflected XSS with some SVG markup allowed | Ahmad Sopyan | [Read More](https://medium.com/p/4f336f450a86) |
+| Tue, 13 May 2025 14:48:49 GMT | Penetration Testing vs. Vulnerability Scanning: What’s Best for Your Application Security? | VTEST | [Read More](https://medium.com/p/2e40b68017b1) |
+| Tue, 13 May 2025 14:45:35 GMT | Cryptonapping | Franky Arriola | [Read More](https://medium.com/p/396700ec0b42) |
+| Tue, 13 May 2025 14:36:07 GMT | Stinky & The Drain | Sharon .A. Stocker | [Read More](https://medium.com/p/b79550134771) |
 | Tue, 13 May 2025 14:28:58 GMT | ASUS DriverHub Vulnerability Exposes Users to Remote Code Execution | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/1f924851eeac) |
 | Tue, 13 May 2025 14:27:46 GMT | Bug Bounty Roadmap 2025: The Complete Guide to Becoming a Professional Ethical Hacker | Jiniyaasma | [Read More](https://medium.com/p/a6ff0abc69ef) |
 | Tue, 13 May 2025 14:23:50 GMT | Which IAM SaaS architecture is for you — exploring IAM architectures in Software-as-a-Service… | Natalia Trojanowska-Korepta | [Read More](https://medium.com/p/d648c12eb3a0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 10:18:02 GMT | Strategic Power Move: Commvault Teams With Deloitte to Strengthen Enterprise Cyber Resilience | Technijian | [Read More](https://medium.com/p/70ea8bac2567) |
 | Tue, 13 May 2025 10:16:18 GMT | Security Problems, Security Goals in Computing, Services and mechanisms— Information Security | Nandhini P | [Read More](https://medium.com/p/1081ba0a302a) |
 | Tue, 13 May 2025 10:10:03 GMT | Cyber Security as a key component of Digitization | Oscar Okwero | [Read More](https://medium.com/p/5be62c118597) |
-| Tue, 13 May 2025 10:06:01 GMT | Hotels are Always Watching | Top Boss | [Read More](https://medium.com/p/7503313ae289) |
-| Tue, 13 May 2025 10:05:56 GMT | TryHackMe - Introduction To Honeypots - WriteUp | Axoloth | [Read More](https://medium.com/p/6d03fa92ad4b) |
-| Tue, 13 May 2025 10:04:01 GMT | DLL injection fundamental — Part3 | Kijo Ninja | [Read More](https://medium.com/p/f061f955a63c) |
-| Tue, 13 May 2025 10:01:44 GMT | Of All the Gall! | Lisa Schamess | [Read More](https://medium.com/p/40b2df45bee3) |
-| Tue, 13 May 2025 10:01:40 GMT | Cyber Warfare in the 21st Century: A New Battlefield | Talal Ahmad | [Read More](https://medium.com/p/4c0ce589e47d) |
-| Tue, 13 May 2025 09:56:17 GMT | Direct Guard Services — Leading Security Guard Company in San Jose, CA | Direct Guard Services | [Read More](https://medium.com/p/e1185bc1450b) |
-| Tue, 13 May 2025 09:54:10 GMT | Is Kudo Trade Legit? | Dominic Tomlinson | [Read More](https://medium.com/p/318d3566de31) |
-| Tue, 13 May 2025 09:52:48 GMT | IT SOLUTIONS | Devarshi Acharya | [Read More](https://medium.com/p/ac73a3aefb13) |
-| Tue, 13 May 2025 09:51:16 GMT | Is Your Device Online and Exposed? Learn What Shodan Reveals. | Myra Jarenga | [Read More](https://medium.com/p/ec77af6af738) |
-| Tue, 13 May 2025 09:46:01 GMT | What I Learned Through the Swamp When I Stopped Numbing | Julius Corababa | [Read More](https://medium.com/p/957372fbe51b) |
