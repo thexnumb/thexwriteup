@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 20:11:48 GMT | Hack The Box “Planning” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/72317cf3d287) |
+| Tue, 13 May 2025 20:10:51 GMT | Quaoar: 1— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/adf9b899a73d) |
+| Tue, 13 May 2025 20:04:15 GMT | Vendor Lock-in Nedir? Riskleri ve Önleme Stratejileri | Mehmetturkkan | [Read More](https://medium.com/p/b299269d9de7) |
+| Tue, 13 May 2025 19:58:31 GMT | Cybercrime in the UK: Trends, Case Studies, and Legal Measures | Jyothika Vinoth | [Read More](https://medium.com/p/f275965a05f1) |
+| Tue, 13 May 2025 19:55:42 GMT | Breaking Bitcoin: Exploiting Signature Flaws, Wallet Weaknesses & Real-World Exploits and Defense… | CryptoDeepTools | [Read More](https://medium.com/p/a772e7fd680f) |
+| Tue, 13 May 2025 19:51:26 GMT | Upload Vulns | Julio | [Read More](https://medium.com/p/3c139f507b28) |
+| Tue, 13 May 2025 19:48:53 GMT | Egg Hunting 101: A Practical Guide | 0x47M4D | [Read More](https://medium.com/p/93d3eb1ebe6c) |
+| Tue, 13 May 2025 19:45:51 GMT | REST API Design: 18 Proven Best Practices for Clean and Efficient Endpoints | Jens@Fivesec | [Read More](https://medium.com/p/a295ba46c514) |
+| Tue, 13 May 2025 19:42:03 GMT | Cyber Security Culture Goals That Drive Real Change: A Guide for Organisational Leaders | Dr Tai Durojaiye | [Read More](https://medium.com/p/7aa7055a5f23) |
+| Tue, 13 May 2025 19:37:15 GMT | Embracing the Future — What a Cyber-Resilient Organization Looks Like | Vivek Rao | [Read More](https://medium.com/p/3a4cbb9df6a4) |
+| Tue, 13 May 2025 19:37:14 GMT | Hands-on Lab: ARP Flood Attack Simulation and Mitigation | Warmann Onisowurun | [Read More](https://medium.com/p/07fcc82e6389) |
+| Tue, 13 May 2025 19:32:27 GMT | Securing the Distributed Workforce | RSUPPORT Blog | [Read More](https://medium.com/p/b1f3f06a9c37) |
+| Tue, 13 May 2025 19:27:35 GMT | Networking for Humans: IP Addresses, Subnets & Ports Explained Without Melting Your Brain (Part 1) | Malik Ahmad | [Read More](https://medium.com/p/7a82159022f9) |
 | Tue, 13 May 2025 19:22:39 GMT | Cringe But Lovely Enough | hernowoadin | [Read More](https://medium.com/p/c6227ab4c516) |
 | Tue, 13 May 2025 19:21:28 GMT | Passwords: Your First Line of Digital Defense | Cybersecure | [Read More](https://medium.com/p/e49117f6868b) |
 | Tue, 13 May 2025 19:16:31 GMT | Why You Should Totally Use AWS Cognito | Simple Stack | [Read More](https://medium.com/p/9a5a8976f380) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 14:20:42 GMT | SOC Analyst: The Coolest Cyber Job You’ve Never Heard Of ! | Cyber Shahrukh | [Read More](https://medium.com/p/69199381d213) |
 | Tue, 13 May 2025 14:14:39 GMT | How I Learned Prompt Engineering as a Security Consultant | Kreskn | [Read More](https://medium.com/p/e128370135cc) |
 | Tue, 13 May 2025 14:14:11 GMT | This Innocent AI Tool Took Down an Entire Company | Noel | [Read More](https://medium.com/p/c400a4cf1c54) |
-| Tue, 13 May 2025 14:14:05 GMT | Pro Tips to Get a Reaction from IT/Security Leadership When Discussing Cybersecurity Investments | CyberBruhArmy | [Read More](https://medium.com/p/bf2e5ba2cbe5) |
-| Tue, 13 May 2025 14:13:51 GMT | Day 34: Subnetting Demystified — The Foundation of Scalable Networking | Agarwaldaksh | [Read More](https://medium.com/p/e9b0ca136a8a) |
-| Tue, 13 May 2025 14:10:34 GMT | Der Pentesting-Vertrag | january1073 | [Read More](https://medium.com/p/961e19c5860e) |
-| Tue, 13 May 2025 14:10:05 GMT | How PentestGPT Is Changing the Game for Ethical Hackers and CTF Players | Yamini Yadav | [Read More](https://medium.com/p/20d3f842a1be) |
-| Tue, 13 May 2025 14:09:54 GMT | How a Wellness Startup Lost $100K to a Hacker Hiding in the Office Air | Noel | [Read More](https://medium.com/p/74d1c28db8f3) |
-| Tue, 13 May 2025 14:04:24 GMT | Powerful CSPM Cloud Security Tricks That Will Change Your Life | CyberBruhArmy | [Read More](https://medium.com/p/50bedd6062aa) |
-| Tue, 13 May 2025 13:59:58 GMT | Cybersecurity & Digital Privacy in 2025: What You Need to Know (and Do) | Faiza Sohail | [Read More](https://medium.com/p/6284cd6367e8) |
-| Tue, 13 May 2025 13:59:12 GMT | Powerful Antivirus, EDR, and XDR Tricks That Will Change Your Life | CyberBruhArmy | [Read More](https://medium.com/p/46df4b0b5b1a) |
-| Tue, 13 May 2025 13:58:50 GMT | Cyber Briefing: 2025.05.13 | CyberMaterial | [Read More](https://medium.com/p/4d59ffa028d2) |
-| Tue, 13 May 2025 13:51:36 GMT | Powerful Data Loss Prevention Tricks That Will Change Your Life | CyberBruhArmy | [Read More](https://medium.com/p/4759233f8321) |
-| Tue, 13 May 2025 13:50:30 GMT | "Operation Bunyan Num Marsos: How Pakistan Outsmarted India in the 2025 War". | Allishba Akram | [Read More](https://medium.com/p/03c740a6e769) |
-| Tue, 13 May 2025 13:50:28 GMT | What Makes a Penetration Test “Audit-Grade” for Blockchain Businesses? | Decrypt0 | [Read More](https://medium.com/p/062835b7da90) |
-| Tue, 13 May 2025 13:46:38 GMT | Increase Your LunaFi $LFI Rewards in 2025 | LFI | [Read More](https://medium.com/p/a4e8dc81bbb5) |
