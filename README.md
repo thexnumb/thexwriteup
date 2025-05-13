@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 13:30:44 GMT | Analyzing Google’s Historic $1.375 Billion Settlement Over Privacy Violations | Nexsecura | [Read More](https://medium.com/p/2483af300943) |
+| Tue, 13 May 2025 13:27:25 GMT | Code Smell 300 — Package Hallucination | Maximiliano Contieri | [Read More](https://medium.com/p/9b2004a909d0) |
+| Tue, 13 May 2025 13:23:18 GMT | Web Uygulamalarında Görünmez Tehdit: CORS Yanlış Yapılandırmaları ve MisCORSion Deneyimi | Mustafa Öztürk | [Read More](https://medium.com/p/2300a88b87df) |
+| Tue, 13 May 2025 13:23:08 GMT | Maximizing Microsoft 365 Security: Key Improvements You Can Make Today Pt 2 | Oludolamu Onimole | [Read More](https://medium.com/p/6cc4229f781d) |
+| Tue, 13 May 2025 13:19:10 GMT | Lost Your Card? Here’s What to Do Immediately | ACEUnion | [Read More](https://medium.com/p/ce248ae8685e) |
+| Tue, 13 May 2025 13:19:02 GMT | Same pill, new label: Gunra just spiked the ransomware cocktail menu — | Wes Young | [Read More](https://medium.com/p/0fa76d51e276) |
+| Tue, 13 May 2025 13:10:46 GMT | Tobiloba Aramide Ogundiyan Sparks Cybersecurity Confidence. | Tobiloba Aramide Ogundiyan | [Read More](https://medium.com/p/d0cabb528bc5) |
+| Tue, 13 May 2025 13:05:06 GMT | Tuesday Morning Threat Report: May 13, 2025 | Mark Maguire | [Read More](https://medium.com/p/f2b009f9a6bb) |
+| Tue, 13 May 2025 13:01:37 GMT | Zero Downtime Security: Is It Possible for Enterprises? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0d8565bb4b00) |
+| Tue, 13 May 2025 13:00:54 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/247abda95c20) |
+| Tue, 13 May 2025 12:56:20 GMT | QubesOS: The Digital Quarantine Master, You Wish You Had In 2020 | The Hackers Meetup | [Read More](https://medium.com/p/94075248d5ca) |
+| Tue, 13 May 2025 12:53:12 GMT | Traveling? Keep Your Online World with You Using this Guide | EVA VPN | [Read More](https://medium.com/p/1a64d703f2ef) |
+| Tue, 13 May 2025 12:51:22 GMT | Symfonos: 1 (VulnHub) | S4ntiHack | [Read More](https://medium.com/p/62b9309e6473) |
+| Tue, 13 May 2025 12:42:22 GMT | Building the Future of Encryption - A Proposal for Standardised Cryptographic Primitives. | Nnamdi Michael Okpala | [Read More](https://medium.com/p/0a846a88be1b) |
+| Tue, 13 May 2025 12:40:32 GMT | Bridging the Gap: How to Align Cyber and Physical Security to Reduce Insider Threats in the… | Demitri Malinski | [Read More](https://medium.com/p/3328bc958e10) |
 | Tue, 13 May 2025 12:31:35 GMT | When You’re Not the Hero in Your Own Story | Aaron Pace | [Read More](https://medium.com/p/d4ddc639d148) |
 | Tue, 13 May 2025 12:28:17 GMT | North Korean Konni APT Targets Ukraine with Evolving Malware in Geopolitical Cyber Campaign | CyBlog | [Read More](https://medium.com/p/190f91eec1d3) |
 | Tue, 13 May 2025 12:27:43 GMT | The Cry of a Sheep | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/0e0969e8125e) |
@@ -98,18 +113,3 @@ Cybersecurity is the practice of protecting computers, servers, mobile… | TP M
 | Tue, 13 May 2025 09:02:34 GMT | Title: DevSecOps and Building a Security Culture: Continuous Security | Esra Kayhan | [Read More](https://medium.com/p/23c67060759a) |
 | Tue, 13 May 2025 09:00:27 GMT | Oracle 19c Data Redaction (DDM) | Murat Culum | [Read More](https://medium.com/p/2e6b02376bed) |
 | Tue, 13 May 2025 08:47:09 GMT | Gift 4000 USDT Blockchain Trc20 ( Okx wallet -Safepal wallet) | Miya clark | [Read More](https://medium.com/p/9303a5de0cbe) |
-| Tue, 13 May 2025 08:43:37 GMT | The Rise of AI Avatars: Are We Replacing Influencers with Algorithms? | Ddm atiq | [Read More](https://medium.com/p/3c389962bfa4) |
-| Tue, 13 May 2025 08:42:54 GMT | Why Metrics Matter in Modern Security Operations. | SecOps | [Read More](https://medium.com/p/97b0b84b5c35) |
-| Tue, 13 May 2025 08:40:59 GMT | “Using Public Wi-Fi Without This? | Vexpoltech | [Read More](https://medium.com/p/23b8f68b0ce0) |
-| Tue, 13 May 2025 08:31:31 GMT | Practical Malware Analysis — Lab 7 | Sapir Twig | [Read More](https://medium.com/p/9db4f9f4a4f9) |
-| Tue, 13 May 2025 08:25:11 GMT | Appalling cybercrime statistics underscore why cybersecurity matters | hide.me VPN | [Read More](https://medium.com/p/35522f903ef2) |
-| Tue, 13 May 2025 08:22:00 GMT | Privacy rules are shifting fast — here’s what to know | hide.me VPN | [Read More](https://medium.com/p/67a6515673fc) |
-| Tue, 13 May 2025 08:16:47 GMT | Cybersecurity Transformation & Strategy: Why Interceptica Is the Right Partner for Your Enterprise | Padma | [Read More](https://medium.com/p/0aea0ea7c11e) |
-| Tue, 13 May 2025 08:15:01 GMT | Why Whitelisting Is Not Enough to Secure your Agent’s Web Search | Dennis Rall | [Read More](https://medium.com/p/6d70b0df951f) |
-| Tue, 13 May 2025 08:12:49 GMT | Building Blocks of Modern Log Management Strategies | Ali Sabri Sır | [Read More](https://medium.com/p/1d16787bd54b) |
-| Tue, 13 May 2025 08:08:19 GMT | What I Do After the User Flag — My Beginner’s Priv Esc Flow | Niklas Heringer | [Read More](https://medium.com/p/01d2e6316bcd) |
-| Tue, 13 May 2025 08:01:51 GMT | Geleneksel Veri Yedekleme Sisteminden Modern Veri Güvenliği Sistemine Evrim | Murat Can Özdemir | [Read More](https://medium.com/p/43bf390dbf10) |
-| Tue, 13 May 2025 08:01:19 GMT | Understanding Local File Inclusion (LFI): A Comprehensive Guide | Subhash Pathak | [Read More](https://medium.com/p/eda3c20d5a7e) |
-| Tue, 13 May 2025 07:56:17 GMT | Prevent Session Fixation in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/3b43b8e1e9ae) |
-| Tue, 13 May 2025 07:46:42 GMT | Certifying AI-Based Penetration Testing Agents | Dave Mound | [Read More](https://medium.com/p/562c27ed9a88) |
-| Tue, 13 May 2025 07:45:54 GMT | MCP severs – Beware the Invisible Glue – Whack-a-Prompt | DamFoolCat | [Read More](https://medium.com/p/f7c005dfa968) |
