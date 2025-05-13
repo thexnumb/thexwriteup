@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 16:18:29 GMT | My Exceptional SSRF Finding | nocley | [Read More](https://medium.com/p/73e8039e3a22) |
+| Tue, 13 May 2025 16:14:24 GMT | BalooFood - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/ec98d45b3f26) |
+| Tue, 13 May 2025 16:14:08 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/59d6fd96ed89) |
+| Tue, 13 May 2025 16:02:43 GMT | Forgot Password? More Like Forgot Security | Derick Johnson | [Read More](https://medium.com/p/96f9b89730ad) |
+| Tue, 13 May 2025 16:02:39 GMT | Part 2: Privilege Escalation & Credential Access | Maxwell Cross | [Read More](https://medium.com/p/38af0d233b65) |
+| Tue, 13 May 2025 16:01:39 GMT | Hibernate Mode Forensics: A Hidden Goldmine in Digital Investigations | Dhruv Dadarwala | [Read More](https://medium.com/p/a1b33407747e) |
+| Tue, 13 May 2025 15:55:20 GMT | Assets Guard by InfluxAI (second part) | InfluxAI | [Read More](https://medium.com/p/fccc8c2e7887) |
+| Tue, 13 May 2025 15:54:12 GMT | Cyberattacks in Space: A Silent Threat That Could Cripple Our World | O. J. Okpabi | [Read More](https://medium.com/p/b24ca29fb03b) |
+| Tue, 13 May 2025 15:53:03 GMT | What Is a CSRF Attack? A Simple Guide for Beginners | SafeAeon Inc. | [Read More](https://medium.com/p/39f66d2e97a1) |
+| Tue, 13 May 2025 15:52:50 GMT | We Agreed to Protect the Ocean —  So Where’s the Law? | Luka Jagor | [Read More](https://medium.com/p/c4a4612e5589) |
+| Tue, 13 May 2025 15:49:23 GMT | Python Basics - TryHackMe Walkthrough | Cyber.Bae | [Read More](https://medium.com/p/0bee6ef8e6dd) |
+| Tue, 13 May 2025 15:41:04 GMT | Using the Token Mediation Policy in API Connect | TC Burke | [Read More](https://medium.com/p/f478d94db5e7) |
 | Tue, 13 May 2025 15:32:56 GMT | GZR Observer Daily — May 13, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/5142d37ba6ae) |
 | Tue, 13 May 2025 15:28:10 GMT | How to Use a Passkey for Encryption | David Gobaud | [Read More](https://medium.com/p/8848af93c814) |
 | Tue, 13 May 2025 15:17:35 GMT | What Will Greenland Do as President of the Nordic Council | Henri Kouam | [Read More](https://medium.com/p/a99679b90ac5) |
@@ -79,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 11:56:31 GMT | Why Australia is the Ideal Country for IT Jobs in 2025 | Ubicor Capital | [Read More](https://medium.com/p/15397d570307) |
 | Tue, 13 May 2025 11:39:17 GMT | Web Cache | saad eddine | [Read More](https://medium.com/p/6065a266ae95) |
 | Tue, 13 May 2025 11:38:16 GMT | Managing the Third-Party Supply-Chain Questionnaire Headache | Paul Missio | [Read More](https://medium.com/p/0ec983156c3a) |
+| Tue, 13 May 2025 11:34:40 GMT | piccico spaccifico, non spassoso e tipo brutto (bug sul PC con la RAM satura e non) | octospacc | [Read More](https://medium.com/p/881964add3dc) |
 | Tue, 13 May 2025 11:22:29 GMT | This Is Why Hackers Keep Winning :) Weak Passwords! | Your's Nightmare | [Read More](https://medium.com/p/4b25124cbfa3) |
 | Tue, 13 May 2025 11:21:06 GMT | Network Security Series — Part 2 | M.Magdy | [Read More](https://medium.com/p/5c187fab202e) |
 | Tue, 13 May 2025 11:20:02 GMT | The Complete Guide to Securing Your Home Wi-Fi Network in 2025 | Ricardo Leal | [Read More](https://medium.com/p/7a69bdd2a2ca) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 10:48:05 GMT | SAP Cloud Connector (SCC): integrating SAP Business Technology Platform (SAP BTP) to on-premise | Jacques Maeda | [Read More](https://medium.com/p/96a5c0a9838c) |
 | Tue, 13 May 2025 10:44:06 GMT | How to choose the right cybersecurity service on Fiverr | Bd Techhouse | [Read More](https://medium.com/p/c196e5ad6d17) |
 | Tue, 13 May 2025 10:39:18 GMT | Privacy: tentang Istilah dan Definisi | Jihad Dinullah Akbar | [Read More](https://medium.com/p/fc0df8691478) |
-| Tue, 13 May 2025 10:38:23 GMT | Cracking the Windows Ceiling: A Practical Guide to Privilege Escalation. | abhi mistry | [Read More](https://medium.com/p/0c3934bca52f) |
-| Tue, 13 May 2025 10:38:07 GMT | Detecting Threats with Wazuh FIM | CyberRanger Labs | [Read More](https://medium.com/p/18b1aa877672) |
-| Tue, 13 May 2025 10:32:54 GMT | Regular Expressions — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/8bc46445e6e8) |
-| Tue, 13 May 2025 10:32:16 GMT | Say Goodbye to Passwords: How Microsoft’s Passkeys Are Rewriting the Rules of Business Security | Elie Attieh | [Read More](https://medium.com/p/73beb4ca8d3f) |
-| Tue, 13 May 2025 10:31:46 GMT | Cyber Security Engineering Admission 2025 - Cyber Security Engineering College Greater Noida | deveshdhama | [Read More](https://medium.com/p/8a5e69f4061b) |
-| Tue, 13 May 2025 10:31:07 GMT | Inside the Mind of a Hacker: Social Engineering in Red Team Operations | Oshada Rashmika | [Read More](https://medium.com/p/09362103135f) |
-| Tue, 13 May 2025 10:31:01 GMT | Cybersecurity Improvements with Pen Testing - Mindcore | Matt Rosenthal | [Read More](https://medium.com/p/37ec6d10a6e2) |
-| Tue, 13 May 2025 10:29:52 GMT | How to Choose the Right Cybersecurity Service Provider for Your Business ? | Saurabh | [Read More](https://medium.com/p/1c0c2e6a0918) |
-| Tue, 13 May 2025 10:29:14 GMT | iClicker Hacked: Fake CAPTCHA Used to Trick Students into Running Malware | Infoziant | [Read More](https://medium.com/p/bc09de80f4ba) |
-| Tue, 13 May 2025 10:24:37 GMT | When Trust is Exploited: A Real-World EDR Bypass Story | Harsimrat Korey | [Read More](https://medium.com/p/7121e402a502) |
-| Tue, 13 May 2025 10:24:36 GMT | TheHackersLabs  —  Microchip | APS88 | [Read More](https://medium.com/p/10b1699be42f) |
-| Tue, 13 May 2025 10:19:01 GMT | What You Should Know About Public Wi-Fi and Mobile Banking | ACEUnion | [Read More](https://medium.com/p/9c872f9ccffe) |
-| Tue, 13 May 2025 10:18:02 GMT | Strategic Power Move: Commvault Teams With Deloitte to Strengthen Enterprise Cyber Resilience | Technijian | [Read More](https://medium.com/p/70ea8bac2567) |
