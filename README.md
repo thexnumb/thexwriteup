@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 19:22:39 GMT | Cringe But Lovely Enough | hernowoadin | [Read More](https://medium.com/p/c6227ab4c516) |
+| Tue, 13 May 2025 19:21:28 GMT | Passwords: Your First Line of Digital Defense | Cybersecure | [Read More](https://medium.com/p/e49117f6868b) |
+| Tue, 13 May 2025 19:16:31 GMT | Why You Should Totally Use AWS Cognito | Simple Stack | [Read More](https://medium.com/p/9a5a8976f380) |
+| Tue, 13 May 2025 19:11:28 GMT | How integrate vulnerability management into your existing IT processes? | IT_Engineer | [Read More](https://medium.com/p/52e111e3d8d0) |
 | Tue, 13 May 2025 19:02:46 GMT | ETH Zurich identifies ‘Branch Privilege Injection’ flaw in Intel CPUs | Re: News | [Read More](https://medium.com/p/419443fa0697) |
 | Tue, 13 May 2025 18:53:18 GMT | Cryptography Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/73239869cb64) |
 | Tue, 13 May 2025 18:52:41 GMT | What Makes High Rise Buildings Security Different from Other Buildings? | Roger Lee | [Read More](https://medium.com/p/74ab345cc2e2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 13:50:30 GMT | "Operation Bunyan Num Marsos: How Pakistan Outsmarted India in the 2025 War". | Allishba Akram | [Read More](https://medium.com/p/03c740a6e769) |
 | Tue, 13 May 2025 13:50:28 GMT | What Makes a Penetration Test “Audit-Grade” for Blockchain Businesses? | Decrypt0 | [Read More](https://medium.com/p/062835b7da90) |
 | Tue, 13 May 2025 13:46:38 GMT | Increase Your LunaFi $LFI Rewards in 2025 | LFI | [Read More](https://medium.com/p/a4e8dc81bbb5) |
-| Tue, 13 May 2025 13:39:18 GMT | Building a Fortress: Strategies for Securing Your Model Context Protocol (MCP) Deployments | Keith Foster | [Read More](https://medium.com/p/3bf334f3713f) |
-| Tue, 13 May 2025 13:32:51 GMT | macOS Security: Advanced Defense Mechanisms and Best Practices | Samyakgoel | [Read More](https://medium.com/p/d74125220f02) |
-| Tue, 13 May 2025 13:30:44 GMT | Analyzing Google’s Historic $1.375 Billion Settlement Over Privacy Violations | Nexsecura | [Read More](https://medium.com/p/2483af300943) |
-| Tue, 13 May 2025 13:27:25 GMT | Code Smell 300 — Package Hallucination | Maximiliano Contieri | [Read More](https://medium.com/p/9b2004a909d0) |
