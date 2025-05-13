@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 22:09:53 GMT | Basics of Patrolling and Surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/9e2fe31636b1) |
+| Tue, 13 May 2025 22:09:44 GMT | Secrets in the Cloud: How to Secure Your Configurations Before It’s Too Late! ☁️ | Pranav Teja Garikapati | [Read More](https://medium.com/p/d753f02386e1) |
+| Tue, 13 May 2025 22:09:08 GMT | The Fallacy of the Best Product | Mauricio Giraldo | [Read More](https://medium.com/p/516ca09c7937) |
+| Tue, 13 May 2025 22:03:52 GMT | fnwn@hacking:$whoami | fnwn | [Read More](https://medium.com/p/7a8837442b2a) |
+| Tue, 13 May 2025 21:52:00 GMT | Why the Smartest People I Know Are Building Bunkers (And I Might Join Them) | E. Fatimah | [Read More](https://medium.com/p/795f9fb2ce9f) |
+| Tue, 13 May 2025 21:46:58 GMT | Introducing NetRecon: Your Advanced WHOIS & DNS Intelligence Tool | N0aziXss | [Read More](https://medium.com/p/1371b795fb71) |
+| Tue, 13 May 2025 21:46:40 GMT | CTF Dreaming - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/f3146503d5e0) |
+| Tue, 13 May 2025 21:43:13 GMT | OSWP Exam Review | Peter Sieb | [Read More](https://medium.com/p/f7965d6aab11) |
+| Tue, 13 May 2025 21:41:10 GMT | ASUS DriverHub Flaw: Hackers Could Execute Commands with Full Admin Rights | Hoplon Infosec | [Read More](https://medium.com/p/796acc140483) |
 | Tue, 13 May 2025 21:24:50 GMT | Port Scanning 101: What It Is and Why Hackers Love It | All in One security | [Read More](https://medium.com/p/6103e469c258) |
 | Tue, 13 May 2025 21:16:28 GMT | TryHackMe -TomGhost Walkthrough — Beginner-Friendly CTF | Yousraouahid | [Read More](https://medium.com/p/04b8cb0d4097) |
 | Tue, 13 May 2025 21:11:58 GMT | Introducing DomainRecon: Your Advanced WHOIS & DNS Intelligence Tool | N0aziXss | [Read More](https://medium.com/p/9e2dc63ae774) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 16:35:56 GMT | Finding My Path in Cybersecurity: My Experience with Purdue Northwest’s CWCT Program | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/c77e4ee5af03) |
 | Tue, 13 May 2025 16:34:38 GMT | $$$ bounty via unique username bypass | cryptoshant | [Read More](https://medium.com/p/26f2c76f5ee7) |
 | Tue, 13 May 2025 16:33:38 GMT | The Silent Flame: A Meditator’s Reflections on Humanity’s Wars | Dao Jiang | [Read More](https://medium.com/p/7281b1403515) |
-| Tue, 13 May 2025 16:23:05 GMT | Reflections on Cybersecurity Futures 2025: Looking Back from the Present | Center for Long-Term Cybersecurity | [Read More](https://medium.com/p/37a85196ca73) |
-| Tue, 13 May 2025 16:22:19 GMT | AWS API Gateway Endpoints: The Ultimate Guide to Private, Edge, and Regional APIs | Ravindu Hirimuthugoda | [Read More](https://medium.com/p/6503d252d93a) |
-| Tue, 13 May 2025 16:20:58 GMT | SOC130— EventID 64 — Event Log Cleared | Mateo Pappa | [Read More](https://medium.com/p/15cf6ad85a56) |
-| Tue, 13 May 2025 16:18:29 GMT | My Exceptional SSRF Finding | nocley | [Read More](https://medium.com/p/73e8039e3a22) |
-| Tue, 13 May 2025 16:15:50 GMT | The Ache of Almost: When Love Nearly Chose You | Ruby Rantina Febrianti | [Read More](https://medium.com/p/d6cb16352294) |
-| Tue, 13 May 2025 16:14:24 GMT | BalooFood - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/ec98d45b3f26) |
-| Tue, 13 May 2025 16:14:08 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/59d6fd96ed89) |
-| Tue, 13 May 2025 16:02:43 GMT | Forgot Password? More Like Forgot Security | Derick Johnson | [Read More](https://medium.com/p/96f9b89730ad) |
-| Tue, 13 May 2025 16:02:39 GMT | Part 2: Privilege Escalation & Credential Access | Maxwell Cross | [Read More](https://medium.com/p/38af0d233b65) |
