@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 18:36:52 GMT | Ascension Cyberattack: 435,000+ Patients Data Compromised | Hoplon Infosec | [Read More](https://medium.com/p/e4c3b6f27a68) |
+| Tue, 13 May 2025 18:35:59 GMT | Ekstensi Browser Bisa Lihat Password-mu? | Afifprasetya | [Read More](https://medium.com/p/8ab0d6d114cc) |
+| Tue, 13 May 2025 18:35:47 GMT | Is Your Small Business Wearing Digital Pajamas in Public? | Eina Schroeder | [Read More](https://medium.com/p/fbaf362e60a7) |
+| Tue, 13 May 2025 18:34:38 GMT | Як захиститись від DDOS: практичний гайд для бекенд-розробника | Bohdan Pastukh | [Read More](https://medium.com/p/63268e92b798) |
+| Tue, 13 May 2025 18:33:23 GMT | How Insecurity Delayed My Career — But Didn’t Stop It | Luispuello | [Read More](https://medium.com/p/3f649deff9d9) |
+| Tue, 13 May 2025 18:32:27 GMT | How to Deal With Broken WordPress Sites After a Plugin Update | Shubradeb | [Read More](https://medium.com/p/fe1ca97d4e61) |
+| Tue, 13 May 2025 18:31:26 GMT | LetsDefend SOC Walkthrough - SOC 105 — Requested T.I. URL address | Tijan Hydara | [Read More](https://medium.com/p/d9901c170a5c) |
+| Tue, 13 May 2025 18:27:51 GMT | Soft on Purpose | Wavinya | [Read More](https://medium.com/p/ea788b928c47) |
+| Tue, 13 May 2025 18:26:21 GMT | CVE-2025–22247 — ShadowWrite | CoffeeCloud Series | [Read More](https://medium.com/p/4328867d6623) |
 | Tue, 13 May 2025 18:19:15 GMT | I Deployed My First Linux Machine! | Luispuello | [Read More](https://medium.com/p/f290bfd1cebe) |
 | Tue, 13 May 2025 18:14:02 GMT | This Blog Will Offend You — If You Still Think AI in Cybersecurity Is Optional | Shiven Grover | [Read More](https://medium.com/p/d7542b4a3f53) |
 | Tue, 13 May 2025 18:06:58 GMT | ⚔️ White Hat vs. Black Hat Hackers: What’s the Difference? | Codevirussec | [Read More](https://medium.com/p/22691e81c87b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 13:10:46 GMT | Tobiloba Aramide Ogundiyan Sparks Cybersecurity Confidence. | Tobiloba Aramide Ogundiyan | [Read More](https://medium.com/p/d0cabb528bc5) |
 | Tue, 13 May 2025 13:05:06 GMT | Tuesday Morning Threat Report: May 13, 2025 | Mark Maguire | [Read More](https://medium.com/p/f2b009f9a6bb) |
 | Tue, 13 May 2025 13:01:37 GMT | Zero Downtime Security: Is It Possible for Enterprises? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0d8565bb4b00) |
-| Tue, 13 May 2025 13:00:54 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/247abda95c20) |
-| Tue, 13 May 2025 12:56:20 GMT | QubesOS: The Digital Quarantine Master, You Wish You Had In 2020 | The Hackers Meetup | [Read More](https://medium.com/p/94075248d5ca) |
-| Tue, 13 May 2025 12:53:12 GMT | Traveling? Keep Your Online World with You Using this Guide | EVA VPN | [Read More](https://medium.com/p/1a64d703f2ef) |
-| Tue, 13 May 2025 12:51:22 GMT | Symfonos: 1 (VulnHub) | S4ntiHack | [Read More](https://medium.com/p/62b9309e6473) |
-| Tue, 13 May 2025 12:42:22 GMT | Building the Future of Encryption - A Proposal for Standardised Cryptographic Primitives. | Nnamdi Michael Okpala | [Read More](https://medium.com/p/0a846a88be1b) |
-| Tue, 13 May 2025 12:40:32 GMT | Bridging the Gap: How to Align Cyber and Physical Security to Reduce Insider Threats in the… | Demitri Malinski | [Read More](https://medium.com/p/3328bc958e10) |
-| Tue, 13 May 2025 12:31:35 GMT | When You’re Not the Hero in Your Own Story | Aaron Pace | [Read More](https://medium.com/p/d4ddc639d148) |
-| Tue, 13 May 2025 12:28:17 GMT | North Korean Konni APT Targets Ukraine with Evolving Malware in Geopolitical Cyber Campaign | CyBlog | [Read More](https://medium.com/p/190f91eec1d3) |
-| Tue, 13 May 2025 12:27:43 GMT | The Cry of a Sheep | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/0e0969e8125e) |
