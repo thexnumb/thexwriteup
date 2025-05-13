@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 14:14:39 GMT | How I Learned Prompt Engineering as a Security Consultant | Kreskn | [Read More](https://medium.com/p/e128370135cc) |
+| Tue, 13 May 2025 14:14:11 GMT | This Innocent AI Tool Took Down an Entire Company | Noel | [Read More](https://medium.com/p/c400a4cf1c54) |
+| Tue, 13 May 2025 14:14:05 GMT | Pro Tips to Get a Reaction from IT/Security Leadership When Discussing Cybersecurity Investments | CyberBruhArmy | [Read More](https://medium.com/p/bf2e5ba2cbe5) |
+| Tue, 13 May 2025 14:13:51 GMT | Day 34: Subnetting Demystified — The Foundation of Scalable Networking | Agarwaldaksh | [Read More](https://medium.com/p/e9b0ca136a8a) |
+| Tue, 13 May 2025 14:10:34 GMT | Der Pentesting-Vertrag | january1073 | [Read More](https://medium.com/p/961e19c5860e) |
+| Tue, 13 May 2025 14:10:05 GMT | How PentestGPT Is Changing the Game for Ethical Hackers and CTF Players | Yamini Yadav | [Read More](https://medium.com/p/20d3f842a1be) |
+| Tue, 13 May 2025 14:09:54 GMT | How a Wellness Startup Lost $100K to a Hacker Hiding in the Office Air | Noel | [Read More](https://medium.com/p/74d1c28db8f3) |
+| Tue, 13 May 2025 14:04:24 GMT | Powerful CSPM Cloud Security Tricks That Will Change Your Life | CyberBruhArmy | [Read More](https://medium.com/p/50bedd6062aa) |
+| Tue, 13 May 2025 13:59:58 GMT | Cybersecurity & Digital Privacy in 2025: What You Need to Know (and Do) | Faiza Sohail | [Read More](https://medium.com/p/6284cd6367e8) |
+| Tue, 13 May 2025 13:59:12 GMT | Powerful Antivirus, EDR, and XDR Tricks That Will Change Your Life | CyberBruhArmy | [Read More](https://medium.com/p/46df4b0b5b1a) |
+| Tue, 13 May 2025 13:58:50 GMT | Cyber Briefing: 2025.05.13 | CyberMaterial | [Read More](https://medium.com/p/4d59ffa028d2) |
+| Tue, 13 May 2025 13:51:36 GMT | Powerful Data Loss Prevention Tricks That Will Change Your Life | CyberBruhArmy | [Read More](https://medium.com/p/4759233f8321) |
+| Tue, 13 May 2025 13:50:30 GMT | "Operation Bunyan Num Marsos: How Pakistan Outsmarted India in the 2025 War". | Allishba Akram | [Read More](https://medium.com/p/03c740a6e769) |
+| Tue, 13 May 2025 13:50:28 GMT | What Makes a Penetration Test “Audit-Grade” for Blockchain Businesses? | Decrypt0 | [Read More](https://medium.com/p/062835b7da90) |
+| Tue, 13 May 2025 13:46:38 GMT | Increase Your LunaFi $LFI Rewards in 2025 | LFI | [Read More](https://medium.com/p/a4e8dc81bbb5) |
+| Tue, 13 May 2025 13:39:18 GMT | Building a Fortress: Strategies for Securing Your Model Context Protocol (MCP) Deployments | Keith Foster | [Read More](https://medium.com/p/3bf334f3713f) |
+| Tue, 13 May 2025 13:32:51 GMT | macOS Security: Advanced Defense Mechanisms and Best Practices | Samyakgoel | [Read More](https://medium.com/p/d74125220f02) |
 | Tue, 13 May 2025 13:30:44 GMT | Analyzing Google’s Historic $1.375 Billion Settlement Over Privacy Violations | Nexsecura | [Read More](https://medium.com/p/2483af300943) |
 | Tue, 13 May 2025 13:27:25 GMT | Code Smell 300 — Package Hallucination | Maximiliano Contieri | [Read More](https://medium.com/p/9b2004a909d0) |
 | Tue, 13 May 2025 13:23:18 GMT | Web Uygulamalarında Görünmez Tehdit: CORS Yanlış Yapılandırmaları ve MisCORSion Deneyimi | Mustafa Öztürk | [Read More](https://medium.com/p/2300a88b87df) |
@@ -72,6 +89,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 10:32:16 GMT | Say Goodbye to Passwords: How Microsoft’s Passkeys Are Rewriting the Rules of Business Security | Elie Attieh | [Read More](https://medium.com/p/73beb4ca8d3f) |
 | Tue, 13 May 2025 10:31:46 GMT | Cyber Security Engineering Admission 2025 - Cyber Security Engineering College Greater Noida | deveshdhama | [Read More](https://medium.com/p/8a5e69f4061b) |
 | Tue, 13 May 2025 10:31:07 GMT | Inside the Mind of a Hacker: Social Engineering in Red Team Operations | Oshada Rashmika | [Read More](https://medium.com/p/09362103135f) |
+| Tue, 13 May 2025 10:31:01 GMT | Cybersecurity Improvements with Pen Testing - Mindcore | Matt Rosenthal | [Read More](https://medium.com/p/37ec6d10a6e2) |
 | Tue, 13 May 2025 10:29:52 GMT | How to Choose the Right Cybersecurity Service Provider for Your Business ? | Saurabh | [Read More](https://medium.com/p/1c0c2e6a0918) |
 | Tue, 13 May 2025 10:29:14 GMT | iClicker Hacked: Fake CAPTCHA Used to Trick Students into Running Malware | Infoziant | [Read More](https://medium.com/p/bc09de80f4ba) |
 | Tue, 13 May 2025 10:24:37 GMT | When Trust is Exploited: A Real-World EDR Bypass Story | Harsimrat Korey | [Read More](https://medium.com/p/7121e402a502) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 09:38:03 GMT | AI-Driven Defence: The Rise of Smart Cyber Security Consultancy | Qcom Ltd | [Read More](https://medium.com/p/e31d03407c30) |
 | Tue, 13 May 2025 09:37:06 GMT | ประจำวันอังคารที่ 13 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c268b8c25b38) |
 | Tue, 13 May 2025 09:34:20 GMT | SQLMAP (Tryhackme) | Amalpp | [Read More](https://medium.com/p/aa4cd9fb46fd) |
-| Tue, 13 May 2025 09:30:47 GMT | Israel, 2015 — When Hackers Watched the Watchers | om sonawane | [Read More](https://medium.com/p/f30da25b6eab) |
-| Tue, 13 May 2025 09:30:12 GMT | Practical Malware Analysis — Lab 9 | Sapir Twig | [Read More](https://medium.com/p/0a93ca59b796) |
-| Tue, 13 May 2025 09:26:45 GMT | Are Insects Animals? Understanding the Classification | Original bee | [Read More](https://medium.com/p/3ef53f77d048) |
-| Tue, 13 May 2025 09:26:26 GMT | HOW TO HAVE VISIBILITY AND SECURITY OF CICD ECOSYSTEM | Pramod Rana (@IAmVarchashva) | [Read More](https://medium.com/p/d8d13734107b) |
-| Tue, 13 May 2025 09:26:12 GMT | ️ How I Broke Active Directory with ESC1 in TryHackMe’s Ledger Room | MatSec | [Read More](https://medium.com/p/3c828e0debdd) |
-| Tue, 13 May 2025 09:25:00 GMT | SharpEye: Advanced Linux Intrusion Detection System | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/32c4c08544e8) |
-| Tue, 13 May 2025 09:24:19 GMT | Are You Looking for Free Training on AWS, Azure, Cisco, and Cybersecurity? Here You Go! | Babar Ali Jamali | [Read More](https://medium.com/p/7cad9fbd60ab) |
-| Tue, 13 May 2025 09:23:28 GMT | Cybersecurity Best Practices
-Cybersecurity is the practice of protecting computers, servers, mobile… | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/de6a6b868001) |
-| Tue, 13 May 2025 09:21:34 GMT | WHY YOU SHOULD CHOOSE CYBERSECURITY BEING AN | Arya Maheshwari | [Read More](https://medium.com/p/0d9cb00ed128) |
-| Tue, 13 May 2025 09:20:53 GMT | DIGITAL DATA COLLECTORS | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/0f6e502fc865) |
-| Tue, 13 May 2025 09:20:41 GMT | Your Boss is Spying on Your Work Laptop — Here’s What They Can See | Ahmad Javed | [Read More](https://medium.com/p/a0d6c15cc1cc) |
-| Tue, 13 May 2025 09:19:35 GMT | How Cloudflare Powers Secure and Fast Digital Experiences in 2025 | Levitation Infotech | [Read More](https://medium.com/p/ad36fea1cde2) |
-| Tue, 13 May 2025 09:15:56 GMT | So Google Lied. Again. And Texans Just Sent Them a $1.4 Billion Bill. | TechBrain | [Read More](https://medium.com/p/5e24fefeaf44) |
-| Tue, 13 May 2025 09:08:35 GMT | Tokenization | Anindito T | [Read More](https://medium.com/p/c9bbfd6c82a0) |
-| Tue, 13 May 2025 09:06:25 GMT | OpenShift Service Mesh 3 Embraces Istio Ambient: A Sidecar-Free Future for Secure, Observable… | Luca Berton | [Read More](https://medium.com/p/7aa1b7db6447) |
-| Tue, 13 May 2025 09:02:34 GMT | Title: DevSecOps and Building a Security Culture: Continuous Security | Esra Kayhan | [Read More](https://medium.com/p/23c67060759a) |
-| Tue, 13 May 2025 09:00:27 GMT | Oracle 19c Data Redaction (DDM) | Murat Culum | [Read More](https://medium.com/p/2e6b02376bed) |
-| Tue, 13 May 2025 08:47:09 GMT | Gift 4000 USDT Blockchain Trc20 ( Okx wallet -Safepal wallet) | Miya clark | [Read More](https://medium.com/p/9303a5de0cbe) |
