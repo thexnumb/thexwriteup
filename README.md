@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 05:41:47 GMT | How Hackers Bypass Login Pages with SQL, Logic Flaws, and Headers | Vipul Sonule | [Read More](https://medium.com/p/567a5649e701) |
+| Tue, 13 May 2025 05:40:04 GMT | Forget Me Not: How Broken Logout Functionality Let Me Ride Sessions Forever | Iski | [Read More](https://medium.com/p/3435e6d98845) |
+| Tue, 13 May 2025 05:38:18 GMT | Cyber Security Awareness | ABUBAKAR ADAMU | [Read More](https://medium.com/p/17c4492d8676) |
 | Tue, 13 May 2025 05:15:24 GMT | Agentic Security | Javier Calderon Jr | [Read More](https://medium.com/p/fc3287af6966) |
 | Tue, 13 May 2025 05:14:08 GMT | Detect, Defend & Mitigate Non-Human Threats | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b410884d57cd) |
 | Tue, 13 May 2025 05:09:32 GMT | Don’t Let Swap Crash Your Cluster: A Kubernetes Warning | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0af54d291444) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 19:36:57 GMT | Learning AI as a Cybersecurity Student: A Personal Journey — Day 1 | Arshathhaq | [Read More](https://medium.com/p/7e69d6785deb) |
 | Mon, 12 May 2025 19:33:19 GMT | Advanced Threat Hunting with EDR: Building Custom Detection Rules | ByteSectorX | [Read More](https://medium.com/p/f32dd9bc49f1) |
 | Mon, 12 May 2025 19:20:08 GMT | IAM and Cybersecurity in India: Challenges, Gaps, and the Road Ahead | Manoj Gulahe | [Read More](https://medium.com/p/fee438445a37) |
-| Mon, 12 May 2025 19:14:10 GMT | Cyber Threat Metrics & Global Impact Analysis (2015–2024). | Khairat Olaleye | [Read More](https://medium.com/p/2f47e322eeb2) |
-| Mon, 12 May 2025 19:13:45 GMT | NTFS Steganography: The Art of Data Hiding in File Systems | Dev Sharma | [Read More](https://medium.com/p/72dc161742a1) |
-| Mon, 12 May 2025 19:09:44 GMT | 9 Rewarding Cybersecurity Certifications That Pay Off | Techridge Solutions | [Read More](https://medium.com/p/11ea7f380dea) |
