@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 22:40:48 GMT | Ultra-Fast DevSecOps Scanners | AquilaX AI | [Read More](https://medium.com/p/b75b3720bdb0) |
+| Tue, 13 May 2025 22:40:25 GMT | How Is Technology Addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/05407a5c8c88) |
+| Tue, 13 May 2025 22:40:05 GMT | Fake AI Tools Used to Spread Noodlophile Malware — Over 62,000 Users Targeted via Facebook Lures | Cyber-AppSec | [Read More](https://medium.com/p/4c1c85b18597) |
+| Tue, 13 May 2025 22:36:23 GMT | What is online blackmail and what can I do to prevent it from happening? | Savvy Cyber Kids | [Read More](https://medium.com/p/4126a0f1f67d) |
+| Tue, 13 May 2025 22:34:05 GMT | “Your Account Has Been Disabled in the App Store and iTunes” — What It Means & How to Possibly Fix… | Zavier Chambers | [Read More](https://medium.com/p/8f46d2ecde41) |
+| Tue, 13 May 2025 22:33:12 GMT | Constructing a Safe Password | Savvy Cyber Kids | [Read More](https://medium.com/p/c1e296ee4639) |
+| Tue, 13 May 2025 22:31:21 GMT | My Journey Into Cybersecurity | PwnerJoe | [Read More](https://medium.com/p/010644c64ef6) |
+| Tue, 13 May 2025 22:23:17 GMT | Why I’m Taking on the #60DaysofGRC Challenge | Brittney Ginther | [Read More](https://medium.com/p/a5e6afdcb54c) |
+| Tue, 13 May 2025 22:16:28 GMT | Practical Steps to Prevent DNS Spoofing in Your Network | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d1d1f25c5cc) |
 | Tue, 13 May 2025 22:09:53 GMT | Basics of Patrolling and Surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/9e2fe31636b1) |
 | Tue, 13 May 2025 22:09:44 GMT | Secrets in the Cloud: How to Secure Your Configurations Before It’s Too Late! ☁️ | Pranav Teja Garikapati | [Read More](https://medium.com/p/d753f02386e1) |
 | Tue, 13 May 2025 22:09:08 GMT | The Fallacy of the Best Product | Mauricio Giraldo | [Read More](https://medium.com/p/516ca09c7937) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 17:23:20 GMT | Organizational Units & Groups | Dito _0xE7 | [Read More](https://medium.com/p/7661f3a5a468) |
 | Tue, 13 May 2025 17:21:41 GMT | Automatización y Pentesting: Usa la IA y herramientas Open-Source | Faraday Team | [Read More](https://medium.com/p/c62febab70b3) |
 | Tue, 13 May 2025 17:08:29 GMT | Log 01: Cyber… Security… Cybersecurity? | Apurva Cybersecurity | [Read More](https://medium.com/p/d562c0305508) |
-| Tue, 13 May 2025 17:07:57 GMT | Fake CAPTCHA Attack: How Trust Can Be Turned Against You | Nayan Raj Sah | [Read More](https://medium.com/p/a42b59f66e88) |
-| Tue, 13 May 2025 17:04:00 GMT | My Broken Heart Was My First Cybersecurity Portofolio and Experience : A Write-Up | NafyCat69 | [Read More](https://medium.com/p/6e0fd4260284) |
-| Tue, 13 May 2025 16:54:57 GMT | sorry I texted back immediately, I’m a grown up, the phone was in my hand and I genuinely like you | Novia Ageng | [Read More](https://medium.com/p/9f5107a89529) |
-| Tue, 13 May 2025 16:49:10 GMT | AI in Cybersecurity: The Future of Digital Defense in 2025 and Beyond | SACHIN  SHIVAJI RAUT | [Read More](https://medium.com/p/af62b4731e02) |
-| Tue, 13 May 2025 16:44:30 GMT | How I Bypassed Permissions in a Telehealth Platform | Whoami | [Read More](https://medium.com/p/f05b249b127c) |
-| Tue, 13 May 2025 16:41:55 GMT | WTB: Celestial (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/afd04e19e477) |
-| Tue, 13 May 2025 16:35:56 GMT | Finding My Path in Cybersecurity: My Experience with Purdue Northwest’s CWCT Program | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/c77e4ee5af03) |
-| Tue, 13 May 2025 16:34:38 GMT | $$$ bounty via unique username bypass | cryptoshant | [Read More](https://medium.com/p/26f2c76f5ee7) |
-| Tue, 13 May 2025 16:33:38 GMT | The Silent Flame: A Meditator’s Reflections on Humanity’s Wars | Dao Jiang | [Read More](https://medium.com/p/7281b1403515) |
