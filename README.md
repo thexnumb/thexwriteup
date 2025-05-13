@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 18:19:15 GMT | I Deployed My First Linux Machine! | Luispuello | [Read More](https://medium.com/p/f290bfd1cebe) |
+| Tue, 13 May 2025 18:14:02 GMT | This Blog Will Offend You — If You Still Think AI in Cybersecurity Is Optional | Shiven Grover | [Read More](https://medium.com/p/d7542b4a3f53) |
+| Tue, 13 May 2025 18:06:58 GMT | ⚔️ White Hat vs. Black Hat Hackers: What’s the Difference? | Codevirussec | [Read More](https://medium.com/p/22691e81c87b) |
+| Tue, 13 May 2025 18:05:20 GMT | 8 Measures to Protect Against Medical Billing Cyber Threats and Fraud | MailMyStatements | [Read More](https://medium.com/p/f1e7e9b16082) |
+| Tue, 13 May 2025 18:03:56 GMT | 12 Unstoppable Trends in SAP on Azure for 2025 | Techridge Solutions | [Read More](https://medium.com/p/3d01b5090ef8) |
+| Tue, 13 May 2025 17:58:17 GMT | Why Centralized Secret Storage Is a Must for DevOps Engineers | Asir Abdelhady | [Read More](https://medium.com/p/87ec491df304) |
+| Tue, 13 May 2025 17:57:28 GMT | Ruby on Rails Interview Questions with Answers (Experienced Level) | Vijay Kumar | [Read More](https://medium.com/p/6468f8ad8c7d) |
+| Tue, 13 May 2025 17:54:32 GMT | Cybersecurity Analyst Job Simulation TATA Group | Shaun | [Read More](https://medium.com/p/8ba3a83965d9) |
+| Tue, 13 May 2025 17:53:29 GMT | Group Policy Objects | Dito _0xE7 | [Read More](https://medium.com/p/e72dac0ca00d) |
+| Tue, 13 May 2025 17:52:22 GMT | The Universal Need for Encouragement and Purpose | Adeola Odubajo ~ THE World-Renowned Storyteller | [Read More](https://medium.com/p/e895d5881070) |
+| Tue, 13 May 2025 17:47:08 GMT | Setting up your Malware Analysis Lab | Jithukrishnan v | [Read More](https://medium.com/p/de6ebaadb8a7) |
+| Tue, 13 May 2025 17:46:08 GMT | When 5 Missing Entries Cost Intel $475 Million: The Pentium FDIV Bug Disaster | Kirubakaran | [Read More](https://medium.com/p/8c9e53a92c24) |
+| Tue, 13 May 2025 17:45:09 GMT | Safe and Responsible AI in Australia — The Government’s Interim Response | Privacy Research Team, Securiti | [Read More](https://medium.com/p/8af9b1065d35) |
+| Tue, 13 May 2025 17:40:11 GMT | CSRF Explained: The Quiet Threat Hiding Behind Logged-In Sessions | Akshay Chauhan | [Read More](https://medium.com/p/4ec359da6bba) |
+| Tue, 13 May 2025 17:38:28 GMT | Why Your Business Needs 2FA for Stronger Security | SafeAeon Inc. | [Read More](https://medium.com/p/e15d19362728) |
 | Tue, 13 May 2025 17:36:37 GMT | Why Continuous Penetration Testing Is a Must in 2025 | Mehak kamra | [Read More](https://medium.com/p/cc685c068a9c) |
 | Tue, 13 May 2025 17:34:58 GMT | The Security Gap JPMorgan Chase’s CISO Didn’t Mention — And Why It’s in Your Browser | Mary Yang | [Read More](https://medium.com/p/b85ed07a028a) |
 | Tue, 13 May 2025 17:32:28 GMT | 7 Cybersecurity Project Ideas You Can Actually Finish (And Learn From) | SoBatista | [Read More](https://medium.com/p/eb88ab6932b8) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 12:31:35 GMT | When You’re Not the Hero in Your Own Story | Aaron Pace | [Read More](https://medium.com/p/d4ddc639d148) |
 | Tue, 13 May 2025 12:28:17 GMT | North Korean Konni APT Targets Ukraine with Evolving Malware in Geopolitical Cyber Campaign | CyBlog | [Read More](https://medium.com/p/190f91eec1d3) |
 | Tue, 13 May 2025 12:27:43 GMT | The Cry of a Sheep | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/0e0969e8125e) |
-| Tue, 13 May 2025 12:26:49 GMT | How To Threat Model #1 | Maria Writes | [Read More](https://medium.com/p/1a5aa03e1eb8) |
-| Tue, 13 May 2025 12:26:00 GMT | MITRE Technique and Detection Opportunities — Chinese Group Exploiting SAP Vulnerability | MITRE Doggy | [Read More](https://medium.com/p/6607e709e389) |
-| Tue, 13 May 2025 12:20:52 GMT | Basic Pentesting: 1 Walkthrough (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/9ab453354a59) |
-| Tue, 13 May 2025 12:19:28 GMT | Your Email Was in a Data Breach ;( | Your's Nightmare | [Read More](https://medium.com/p/4a8e3fe4027c) |
-| Tue, 13 May 2025 12:18:45 GMT | ‘Big Four’ — A Cortina de Ferro Digital Parte I:  Rússia | 0x0d4y | [Read More](https://medium.com/p/3d167bd512ec) |
-| Tue, 13 May 2025 12:18:03 GMT | Bitlocker-1 - Writeup | Marvin | [Read More](https://medium.com/p/7c0e2cfa90d4) |
-| Tue, 13 May 2025 12:17:39 GMT | Rickdiculously — Step by Step CTF Walkthrough | Suryadi Putra | [Read More](https://medium.com/p/c47be72d3420) |
-| Tue, 13 May 2025 12:13:31 GMT | Fields in TCP Header | Cyber Timi | [Read More](https://medium.com/p/4408d1597408) |
-| Tue, 13 May 2025 12:09:44 GMT | From Monday Blues to Friday Bliss: The Tale of My Code’s Mood Swings | Medhansh | [Read More](https://medium.com/p/cff76444435b) |
-| Tue, 13 May 2025 12:08:13 GMT | The Rise of Deepfake and Synthetic Identity Attacks in Cybersecurity | Jackdavis Iap | [Read More](https://medium.com/p/39bc6d103fa3) |
-| Tue, 13 May 2025 12:06:53 GMT | Identity: The New Perimeter in Cybersecurity | Devops Trainer | [Read More](https://medium.com/p/1fcac1cf76b2) |
-| Tue, 13 May 2025 12:04:49 GMT | Mamie > cybersécurité : le plot twist que je n’avais pas vu venir | Manon.exe | [Read More](https://medium.com/p/92f148e9d256) |
-| Tue, 13 May 2025 12:00:14 GMT | The Complete Checklist for Migrating to Automated Reconciliation | Kosh AI | [Read More](https://medium.com/p/4b58b1091ac3) |
-| Tue, 13 May 2025 11:56:31 GMT | Why Australia is the Ideal Country for IT Jobs in 2025 | Ubicor Capital | [Read More](https://medium.com/p/15397d570307) |
-| Tue, 13 May 2025 11:39:17 GMT | Web Cache | saad eddine | [Read More](https://medium.com/p/6065a266ae95) |
