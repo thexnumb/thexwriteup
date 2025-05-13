@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 03:04:08 GMT | Inside the Shadows: Why HTTP Smuggling Still Breaks the Web | Isv | [Read More](https://medium.com/p/c81c69577fdd) |
+| Tue, 13 May 2025 03:02:35 GMT | Stop Blaming QA for Production Bugs — Start Building Stronger Teams | Test Tactix | [Read More](https://medium.com/p/f82d2d8506d3) |
+| Tue, 13 May 2025 02:58:18 GMT | Basic vulnerability exploit: Understanding vulnerability | Syakir Sulaiman | [Read More](https://medium.com/p/f6dbd5562af8) |
+| Tue, 13 May 2025 02:55:50 GMT | TShark | Shamar Isaac | [Read More](https://medium.com/p/50a97ff1f7bc) |
+| Tue, 13 May 2025 02:54:26 GMT | CVE Rewards: How to Get Started | CVE | [Read More](https://medium.com/p/0d6dd30bd3a2) |
+| Tue, 13 May 2025 02:41:29 GMT | Bypassing Content Moderation Filters: Techniques, Challenges, and Implications | Faruk Alpay | [Read More](https://medium.com/p/4d329f43a6c1) |
+| Tue, 13 May 2025 02:38:27 GMT | The Human Firewall: Why Your Employees Are Both Your Greatest Vulnerability and Asset | Paritosh | [Read More](https://medium.com/p/76a93b879bae) |
+| Tue, 13 May 2025 02:36:43 GMT | Cybercriminals Exploit Outdated Protocols to Breach Microsoft Entra ID | current.cybersecurity | [Read More](https://medium.com/p/50c9f03fa3e0) |
+| Tue, 13 May 2025 02:35:55 GMT | Quantum Computing: The Next Cyber Arms Race Has Already Begun | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/54b9381fdd88) |
+| Tue, 13 May 2025 02:19:24 GMT | TryHackMe — Neighbour Walkthrough / Write-up | Liam McIntosh | [Read More](https://medium.com/p/c85c4fd0431f) |
+| Tue, 13 May 2025 02:14:21 GMT | Ethical Android Penetration Testing with TheFatRat & Ngrok | Dhananjay Tupe | [Read More](https://medium.com/p/6f858afcdfd2) |
+| Tue, 13 May 2025 02:07:50 GMT | From Threat Cells to Threat Models | Lindsay Stought | [Read More](https://medium.com/p/5deeb861e947) |
+| Tue, 13 May 2025 02:00:42 GMT | mKingdom (Easy) — TryHackme Walkthrough | Alts | [Read More](https://medium.com/p/d336c85b2501) |
+| Tue, 13 May 2025 01:54:48 GMT | Basic Computer Architecture for Cybersecurity | Kyoungmin Roh | [Read More](https://medium.com/p/1559bd5bc42d) |
+| Tue, 13 May 2025 01:42:01 GMT | Why Passwords Aren’t Enough: A Simple Guide to Multi-Factor Authentication (MFA) | Ram Nikhil Meka | [Read More](https://medium.com/p/ab1533070fdb) |
 | Tue, 13 May 2025 01:33:12 GMT | LockBit Hacking Group Defaced and Compromised — May 2025 Incident Report | KN | [Read More](https://medium.com/p/15c4e4a7e1a8) |
 | Tue, 13 May 2025 01:28:19 GMT | Snyk plugin for JetBrains IDE’s | Michael Harms | [Read More](https://medium.com/p/4a982ab73eea) |
 | Tue, 13 May 2025 01:20:38 GMT | Boost Your Bug $BUG Strategy with These Expert Tips | BUG | [Read More](https://medium.com/p/6bc5f591b77d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 May 2025 17:53:47 GMT | How To Hacking Safe Exam Browser 3.4 for MacOS or 3.7 for Windows | Givenchy ampulembang | [Read More](https://medium.com/p/51d2608432e4) |
 | Mon, 12 May 2025 17:53:24 GMT | Why Rainbow Secure is perfect fit for businesses that want secure access control without heavy IT… | Dr. Shashi Karhail | [Read More](https://medium.com/p/816d95831c44) |
 | Mon, 12 May 2025 17:39:57 GMT | LetsDefend — SpiceRAT (Medium) | Mateo Pappa | [Read More](https://medium.com/p/881a474c0982) |
-| Mon, 12 May 2025 17:39:05 GMT | The Hidden Loneliness of Modern Men ‍♂️ | Abdul Sajith | [Read More](https://medium.com/p/fd5615b2caf1) |
-| Mon, 12 May 2025 17:38:09 GMT | Why Your Business Needs Data Loss Prevention Services Today | SafeAeon Inc. | [Read More](https://medium.com/p/fe7e8d5f99ad) |
-| Mon, 12 May 2025 17:37:59 GMT | CTF Write-up: YaraWizards (Certified Cyber Defenders | itsGir | [Read More](https://medium.com/p/6854d0fa4fa6) |
-| Mon, 12 May 2025 17:34:51 GMT | iHeartMedia Data Breach Exposes Sensitive Personal Information of Radio Listeners | LegalNewsbyDave | [Read More](https://medium.com/p/7f798377b9a0) |
-| Mon, 12 May 2025 17:30:17 GMT | How to Counter Email Phishing Attacks and Protect Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/7de4158bca33) |
-| Mon, 12 May 2025 17:27:30 GMT | Google’s $1.375 Billion Settlement: What It Means for Businesses. | Chetan Seripally | [Read More](https://medium.com/p/20e354e19f26) |
-| Mon, 12 May 2025 17:16:19 GMT | How I Found a Way to Submit LeetCode Premium Problems as a Free User | Shreyas Mahajan | [Read More](https://medium.com/p/cb30668b976c) |
-| Mon, 12 May 2025 17:13:14 GMT | Cybersecurity in America: Why Companies Are Investing More Than Ever | Kevinasutton | [Read More](https://medium.com/p/4deb0cde4d87) |
-| Mon, 12 May 2025 17:12:47 GMT | Fake AI Apps Are the New Trojan Horse — How cybercriminals are exploiting the AI boom | UpTech Solution | [Read More](https://medium.com/p/b9c516a356c8) |
-| Mon, 12 May 2025 17:12:34 GMT | Cybersecurity for Beginners: 5 Mistakes You’re Probably Making (and How to Avoid Them) | Javier García - Cibersecurity Engineering | [Read More](https://medium.com/p/9d2343509a62) |
-| Mon, 12 May 2025 17:09:39 GMT | OSINT Writeups — MIST Cyber Drill 2025 | Mr Grey | [Read More](https://medium.com/p/2d1e398a4672) |
-| Mon, 12 May 2025 17:08:08 GMT | The Security Paradox: Why Blockchain Users Shouldn’t Have to Choose Between Control and Protection | Liam Stein | [Read More](https://medium.com/p/5b86195bead7) |
-| Mon, 12 May 2025 17:07:31 GMT | What If the “Answer” Is the Problem? | Cheryl Abram | [Read More](https://medium.com/p/0bbdd118b8b9) |
-| Mon, 12 May 2025 17:04:49 GMT | Web Uygulama Güvenliği | Neriman Topçu | [Read More](https://medium.com/p/469bfc07d328) |
-| Mon, 12 May 2025 16:55:54 GMT | bWAPP HTML Injection CheatSheet — (WebApp Pentesting 1) | serkanbenol | [Read More](https://medium.com/p/f6ae6719617a) |
