@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 17:07:57 GMT | Fake CAPTCHA Attack: How Trust Can Be Turned Against You | Nayan Raj Sah | [Read More](https://medium.com/p/a42b59f66e88) |
+| Tue, 13 May 2025 17:04:00 GMT | My Broken Heart Was My First Cybersecurity Portofolio and Experience : A Write-Up | NafyCat69 | [Read More](https://medium.com/p/6e0fd4260284) |
+| Tue, 13 May 2025 16:54:57 GMT | sorry I texted back immediately, I’m a grown up, the phone was in my hand and I genuinely like you | Novia Ageng | [Read More](https://medium.com/p/9f5107a89529) |
 | Tue, 13 May 2025 16:49:10 GMT | AI in Cybersecurity: The Future of Digital Defense in 2025 and Beyond | SACHIN  SHIVAJI RAUT | [Read More](https://medium.com/p/af62b4731e02) |
 | Tue, 13 May 2025 16:44:30 GMT | How I Bypassed Permissions in a Telehealth Platform | Whoami | [Read More](https://medium.com/p/f05b249b127c) |
+| Tue, 13 May 2025 16:41:55 GMT | WTB: Celestial (Writeup) | Priscilla Abigail | [Read More](https://medium.com/p/afd04e19e477) |
 | Tue, 13 May 2025 16:35:56 GMT | Finding My Path in Cybersecurity: My Experience with Purdue Northwest’s CWCT Program | Dr. Alexis - Health - Tech - Business - Blog | [Read More](https://medium.com/p/c77e4ee5af03) |
 | Tue, 13 May 2025 16:34:38 GMT | $$$ bounty via unique username bypass | cryptoshant | [Read More](https://medium.com/p/26f2c76f5ee7) |
 | Tue, 13 May 2025 16:33:38 GMT | The Silent Flame: A Meditator’s Reflections on Humanity’s Wars | Dao Jiang | [Read More](https://medium.com/p/7281b1403515) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 11:18:08 GMT | Warning Signs Your Phone Might Be Hacked | Your's Nightmare | [Read More](https://medium.com/p/ae95f965a36b) |
 | Tue, 13 May 2025 11:15:40 GMT | Testing out some PowerShell commands for creating new sample aliases, opening the profile script to… | Tyrik Emptage | [Read More](https://medium.com/p/e4ac93f86c05) |
 | Tue, 13 May 2025 11:10:43 GMT | The Biggest Crisis of the Modern Era: Technological Disruption and Cybersecurity Threats | Kevin Shah | [Read More](https://medium.com/p/2ce4d1996461) |
-| Tue, 13 May 2025 11:10:30 GMT | DDoS Protection for Business: A Practical Overview | VSYS Host | [Read More](https://medium.com/p/129e52dec37b) |
-| Tue, 13 May 2025 11:07:26 GMT | Network Security Measures You Need in 2025 to Stop Cyber Threats | SecureSlate | [Read More](https://medium.com/p/acfeca6688e5) |
-| Tue, 13 May 2025 11:02:27 GMT | How to Know If Your Data Has Been Leaked — Without Accessing the Dark Web (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/e2ed1431c3bd) |
-| Tue, 13 May 2025 10:59:53 GMT | Cyber Kill Chain TryHackme Example : Walkthrough | Keran Elias | [Read More](https://medium.com/p/573c1cdf31c5) |
