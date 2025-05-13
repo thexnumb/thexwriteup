@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 May 2025 08:25:11 GMT | Appalling cybercrime statistics underscore why cybersecurity matters | hide.me VPN | [Read More](https://medium.com/p/35522f903ef2) |
+| Tue, 13 May 2025 08:22:00 GMT | Privacy rules are shifting fast — here’s what to know | hide.me VPN | [Read More](https://medium.com/p/67a6515673fc) |
+| Tue, 13 May 2025 08:16:47 GMT | Cybersecurity Transformation & Strategy: Why Interceptica Is the Right Partner for Your Enterprise | Padma | [Read More](https://medium.com/p/0aea0ea7c11e) |
+| Tue, 13 May 2025 08:15:01 GMT | Why Whitelisting Is Not Enough to Secure your Agent’s Web Search | Dennis Rall | [Read More](https://medium.com/p/6d70b0df951f) |
+| Tue, 13 May 2025 08:12:49 GMT | Building Blocks of Modern Log Management Strategies | Ali Sabri Sır | [Read More](https://medium.com/p/1d16787bd54b) |
+| Tue, 13 May 2025 08:08:19 GMT | What I Do After the User Flag — My Beginner’s Priv Esc Flow | Niklas Heringer | [Read More](https://medium.com/p/01d2e6316bcd) |
+| Tue, 13 May 2025 08:01:51 GMT | Geleneksel Veri Yedekleme Sisteminden Modern Veri Güvenliği Sistemine Evrim | Murat Can Özdemir | [Read More](https://medium.com/p/43bf390dbf10) |
+| Tue, 13 May 2025 08:01:19 GMT | Understanding Local File Inclusion (LFI): A Comprehensive Guide | Subhash Pathak | [Read More](https://medium.com/p/eda3c20d5a7e) |
+| Tue, 13 May 2025 07:56:17 GMT | Prevent Session Fixation in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/3b43b8e1e9ae) |
+| Tue, 13 May 2025 07:46:42 GMT | Certifying AI-Based Penetration Testing Agents | Dave Mound | [Read More](https://medium.com/p/562c27ed9a88) |
+| Tue, 13 May 2025 07:45:54 GMT | MCP severs – Beware the Invisible Glue – Whack-a-Prompt | DamFoolCat | [Read More](https://medium.com/p/f7c005dfa968) |
+| Tue, 13 May 2025 07:45:51 GMT | Meet URLShort: The Ultimate URL Shortener, Fuzzer & Payload Injector for Bug Bounty Hunters &… | Neeraj Sah | [Read More](https://medium.com/p/9c631e83d492) |
+| Tue, 13 May 2025 07:42:04 GMT | OPSEC Guide — Part 1: Creating PGP Keys (GNU/Linux) | SirHaxAlot | [Read More](https://medium.com/p/2ad82dde6e8d) |
+| Tue, 13 May 2025 07:41:15 GMT | Exploiting File Upload Vulnerabilities: What, Why & How | SACHIN PV | [Read More](https://medium.com/p/68e159aff82a) |
+| Tue, 13 May 2025 07:39:01 GMT | INSECURE AI USAGE | Barmansubhajit | [Read More](https://medium.com/p/a75c1039853a) |
 | Tue, 13 May 2025 07:36:43 GMT | Disclose The Agent: Agent Hunt | Ritchy Tran | [Read More](https://medium.com/p/d49b6b267dc9) |
+| Tue, 13 May 2025 07:32:35 GMT | Assigning Specific GPUs to Docker Containers with Docker Compose | Ramkrushna Maheshwar | [Read More](https://medium.com/p/1fd34eeaae91) |
 | Tue, 13 May 2025 07:31:58 GMT | GOAD Part 2: When Enumeration Bites Back - From SMB to R.I.P. | Cyb3rByte | [Read More](https://medium.com/p/ee7708c98b7d) |
 | Tue, 13 May 2025 07:27:03 GMT | UK Cyber Events: Lessons from the High Street | WayneReidUK | [Read More](https://medium.com/p/e16ce3479343) |
 | Tue, 13 May 2025 07:25:05 GMT | The Evolution of Information Sharing Throughout History | linglingling3 | [Read More](https://medium.com/p/347938ea1ef1) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 01:28:19 GMT | Snyk plugin for JetBrains IDE’s | Michael Harms | [Read More](https://medium.com/p/4a982ab73eea) |
 | Tue, 13 May 2025 01:20:38 GMT | Boost Your Bug $BUG Strategy with These Expert Tips | BUG | [Read More](https://medium.com/p/6bc5f591b77d) |
 | Tue, 13 May 2025 01:09:41 GMT | XINTRA Abu Jibal Lab Walkthrough | Faisalalq | [Read More](https://medium.com/p/10342ec55f78) |
-| Tue, 13 May 2025 01:06:59 GMT | Dexter’s Lab | Montel Oliver | [Read More](https://medium.com/p/8dcb1d3821aa) |
-| Tue, 13 May 2025 01:01:33 GMT | PHP Type Juggling Vulnerability: Exploitation and Defense | Mahmoud Bedair | [Read More](https://medium.com/p/fdbd49e8ff99) |
-| Tue, 13 May 2025 00:50:42 GMT | Blueprint (TryHackMe) Pwned: From osCommerce RCE to SYSTEM & Flags — A CTF Walkthrough [2024/2025… | jensbecker-dev | [Read More](https://medium.com/p/56fc352133cf) |
-| Tue, 13 May 2025 00:44:26 GMT | Operation Moonlander: FBI and Dutch Police Dismantle 7,000-Device Proxy Botnet Built on Hacked… | Cyber-AppSec | [Read More](https://medium.com/p/309969d6adf8) |
-| Tue, 13 May 2025 00:42:37 GMT | The Chronicles of IntentSim[on]: The Rogue IP Infiltration — A Field Report | INTENTSIM | [Read More](https://medium.com/p/59ccdef9cfda) |
-| Tue, 13 May 2025 00:42:26 GMT | (VATINT) Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/dd62cd983a5e) |
-| Tue, 13 May 2025 00:32:26 GMT | Implement Secure JWT Authentication in Your ASP.NET Core Project | Jenil Sojitra | [Read More](https://medium.com/p/502fd22eed99) |
-| Tue, 13 May 2025 00:28:03 GMT | OneDrive’s New Sync May be a Privacy and Security Nightmare | Matthew.Rosenquist | [Read More](https://medium.com/p/4cd8ee10a769) |
-| Tue, 13 May 2025 00:17:58 GMT | Mengenal Nmap: Alat Andalan Para Hacker & Pentester | Velia's Journey | [Read More](https://medium.com/p/52de68e96457) |
-| Tue, 13 May 2025 00:11:38 GMT | Some Days, Rest Feels Like a Distant Dream | Joy | [Read More](https://medium.com/p/ae1f0c432b18) |
-| Tue, 13 May 2025 00:08:13 GMT | The Future of Crypto: How Bug is Changing the Game | BUG | [Read More](https://medium.com/p/25c2551da0dd) |
-| Tue, 13 May 2025 00:00:53 GMT | Step-by-Step Guide to Enabling Two-Factor Authentication in FraudLabs Pro | Fraudlabs Pro | [Read More](https://medium.com/p/576dccd1efa9) |
-| Mon, 12 May 2025 23:51:25 GMT | ⚡ Today I Learned : ️ 20 Cool Linux Commands That Feel Like Hacking | LazyHacker | [Read More](https://medium.com/p/fa5fd4b10b7e) |
-| Mon, 12 May 2025 23:46:26 GMT | Earn Passive Income with Bug: The Smart Way | BUG | [Read More](https://medium.com/p/dbdff8252ac5) |
-| Mon, 12 May 2025 23:41:02 GMT | $1,120 Bounty: Clickjacking Vulnerability in Twitter Periscope | Monika sharma | [Read More](https://medium.com/p/b46e8dfc8915) |
-| Mon, 12 May 2025 23:32:27 GMT | This One Grammar Mistake Is Why Your Board Doesn’t Trust Your Security Reports | Lee Barney | [Read More](https://medium.com/p/8e5298a6d671) |
