@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 10:42:04 GMT | Secura security: Your Trusted Partner for Security and Housekeeping Services in Delhi NCR | securasecurty | [Read More](https://medium.com/p/7d283f85a124) |
+| Wed, 14 May 2025 10:39:29 GMT | What is Phishing-Resistant MFA? | InfosecTrain | [Read More](https://medium.com/p/b4c72941e74e) |
+| Wed, 14 May 2025 10:39:03 GMT | Can Wi-Fi Travel Through Walls? Let’s Get Real About It | TECH EMPIRE | [Read More](https://medium.com/p/956271a7ce29) |
+| Wed, 14 May 2025 10:37:29 GMT | Healthcare sector under attack by sophisticated ResolverRAT malware campaign | hide.me VPN | [Read More](https://medium.com/p/dd05e19dc5f9) |
+| Wed, 14 May 2025 10:35:45 GMT | Forging a safer digital frontier: The power of global cybersecurity cooperation | hide.me VPN | [Read More](https://medium.com/p/029de4ad5ec7) |
+| Wed, 14 May 2025 10:33:55 GMT | How Mobile Banking Trojans Target Your UPI & Banking Apps by Sai Pavan Vislavath (KIIS Intern) | KLEAP Institute of Information Security | [Read More](https://medium.com/p/4cac1c4e57db) |
+| Wed, 14 May 2025 10:27:55 GMT | COBALT: The Future of Cybersecurity Certification Starts Here | Aggelos Vogiatzis | [Read More](https://medium.com/p/15260cdfda6d) |
+| Wed, 14 May 2025 10:27:35 GMT | PKCE: Adding a Secret Handshake to Your Login Flow | Said Lfagrouche | [Read More](https://medium.com/p/c206ade9403b) |
+| Wed, 14 May 2025 10:18:06 GMT | Writing Pentest Reports - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/e01cb639583f) |
+| Wed, 14 May 2025 10:16:26 GMT | Best End-user Support Services in India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/476c5f022938) |
+| Wed, 14 May 2025 10:13:06 GMT | Top Cybersecurity Blogs to Follow in 2025 | CyberAly | [Read More](https://medium.com/p/611807097a4f) |
+| Wed, 14 May 2025 10:11:50 GMT | What are Attacksuit and Hashtab plugins? | Mert Kurtulmuş | [Read More](https://medium.com/p/f9d7b025470f) |
 | Wed, 14 May 2025 10:02:57 GMT | Must-Have DevOps Engineer Skills to Thrive in Today’s IT World | cyberwingITSolution | [Read More](https://medium.com/p/ca0dd133e14d) |
 | Wed, 14 May 2025 10:02:52 GMT | The Night Ukraine Went Dark: Inside the Most Devastating Cyber Attack in History | CyDhaal | [Read More](https://medium.com/p/e8e04302550e) |
 | Wed, 14 May 2025 10:02:40 GMT | RAT (Remote Access Trojan) Detection and Removal Methods | Esra Kayhan | [Read More](https://medium.com/p/3526684d25f4) |
@@ -101,15 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 05:01:23 GMT | My First Year in Bug Bounty $$$ | RivuDon | [Read More](https://medium.com/p/9c87e0b68ac4) |
 | Wed, 14 May 2025 04:59:12 GMT | Palo Alto Networks Strata Next-Gen Firewalls: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/43297b5c3d66) |
 | Wed, 14 May 2025 04:53:53 GMT | [CTF SERIES] — WEB EXPLOITATION: Lỗ hổng file upload | Andrich HA | [Read More](https://medium.com/p/50d73262a07b) |
-| Wed, 14 May 2025 04:53:09 GMT | Boz, Yap, İnşa Et: LinkedIn İş Teklifleri Neden Bir Güvenlik Krizi Haline Geldi? | Cevher Dogan | [Read More](https://medium.com/p/1d0d3fe292f8) |
-| Wed, 14 May 2025 04:41:31 GMT | Privilege Escalation via Invitation & Bypassed 2FA | Ahmed Mahmoud | [Read More](https://medium.com/p/98219664764f) |
-| Wed, 14 May 2025 04:35:31 GMT | JWT Exploitation: How I Forged Tokens and Took Over Accounts | Abhijeet Kumawat | [Read More](https://medium.com/p/2e7ab1cf4df8) |
-| Wed, 14 May 2025 04:32:35 GMT | Hack The Box — Cicada - WriteUp | pythonic01 | [Read More](https://medium.com/p/d7666832b13b) |
-| Wed, 14 May 2025 04:23:15 GMT | GraphQL Vulnerabilities: Sensitive Exposure & Role Bypass Admin Privileges | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/c9eb3646e7bd) |
-| Wed, 14 May 2025 04:21:43 GMT | When Regex Turns Against You: Understanding and Preventing ReDoS Attacks | Cyber T | [Read More](https://medium.com/p/c8241001e79f) |
-| Wed, 14 May 2025 04:15:43 GMT | Rethinking “Natural” Disasters: Lessons from Israel’s Recent Wildfires | Tadashi Nakasu, Ph.D. | [Read More](https://medium.com/p/9f29b186023b) |
-| Wed, 14 May 2025 04:05:26 GMT | Data Security — The Bedrock of Trustworthy AI | Vijayakumar G A | [Read More](https://medium.com/p/71ca8d3d2648) |
-| Wed, 14 May 2025 04:01:48 GMT | Google Starts Using AI To Protect Chrome Users From Scams | SafetyDetectives Research Team | [Read More](https://medium.com/p/537296e0b4c4) |
-| Wed, 14 May 2025 03:59:48 GMT | CISA, FBI: Hackers targeting Industrial Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/6b58dbc7a787) |
-| Wed, 14 May 2025 03:41:09 GMT | AI Agent Security: An Emerging Cybersecurity Challenge | whoami | [Read More](https://medium.com/p/c140b2266529) |
-| Wed, 14 May 2025 03:32:27 GMT | How Women Are Rewriting Cybersecurity’s Future | Ahmad Javed | [Read More](https://medium.com/p/98addc4bc514) |
