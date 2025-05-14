@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 14:13:14 GMT | Introducing N0aziXss Origin Recon: The Ultimate ASN & Origin Detection Tool | N0aziXss | [Read More](https://medium.com/p/94157afa4a29) |
+| Wed, 14 May 2025 14:12:28 GMT | Bringing Visibility to Secrets Management | Akshat Virmani | [Read More](https://medium.com/p/0b01466ffe66) |
+| Wed, 14 May 2025 14:06:46 GMT | Launch a Kubernetes Cluster | Gary King | [Read More](https://medium.com/p/a18bd1e92509) |
+| Wed, 14 May 2025 14:02:39 GMT | Ensuring Firewall Effectiveness in Real-World Environments | Ed-it Editions | [Read More](https://medium.com/p/1309220dc7ce) |
+| Wed, 14 May 2025 14:02:33 GMT | How I Prepared for the CISSP Exam: Study Resources | abdeldayemnour | [Read More](https://medium.com/p/409a14be3255) |
+| Wed, 14 May 2025 14:01:59 GMT | Understanding Android 15 Privacy & Security: Private Space for Developers | Samset | [Read More](https://medium.com/p/31ca492db5d3) |
+| Wed, 14 May 2025 13:59:19 GMT | Cyber Briefing: 2025.05.14 | CyberMaterial | [Read More](https://medium.com/p/eb516462d48e) |
+| Wed, 14 May 2025 13:46:21 GMT | Stay One Step Ahead: Security Settings You Shouldn’t Ignore | ACEUnion | [Read More](https://medium.com/p/84418a8f6d57) |
+| Wed, 14 May 2025 13:45:45 GMT | Buffer Overflow Security Project | Damian Villarreal | [Read More](https://medium.com/p/e6f3fa2d11d0) |
+| Wed, 14 May 2025 13:44:33 GMT | Empowering Threat Intelligence: Integrating OpenCTI with Elasticsearch for Custom Kibana Dashboards | Godspower Melariri-okwu | [Read More](https://medium.com/p/9a279b28a443) |
+| Wed, 14 May 2025 13:43:21 GMT | Don’t Overshare: A Daily Tip for Social Media Privacy | Hitesh Said | [Read More](https://medium.com/p/f820fe551697) |
+| Wed, 14 May 2025 13:37:13 GMT | Healthcare Employee Security Awareness: Best Practices for Securing Health Data | inVerita | [Read More](https://medium.com/p/2bed1eae2d3b) |
+| Wed, 14 May 2025 13:36:44 GMT | Inside the Mind of a Hacker: How OSINT Becomes a Powerful Cyber Weapon in 2025 | Austin Mathew | [Read More](https://medium.com/p/9c19b4b23eb5) |
+| Wed, 14 May 2025 13:36:39 GMT | Too Many Certs, No Clear Path — Here’s What I Did Instead | Luispuello | [Read More](https://medium.com/p/5a807461f85e) |
 | Wed, 14 May 2025 13:27:23 GMT | Ditch the Patchwork of Breach-Alert Tools: Monitor Every Credential Leak from One Place with… | Alexandre Vandamme | [Read More](https://medium.com/p/0b7f6225ecf8) |
+| Wed, 14 May 2025 13:27:16 GMT | About Me | Muhammad Shakib | [Read More](https://medium.com/p/673842903ff2) |
 | Wed, 14 May 2025 13:24:21 GMT | End Recon Tool Overload: Centralise Enumeration & Scanning with SubDomainRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/ae387d97cc6c) |
 | Wed, 14 May 2025 13:21:57 GMT | Software Inventory with osquery: A Building Block for Security Auditing | Isla Arshad | [Read More](https://medium.com/p/30da4ff0b8cf) |
 | Wed, 14 May 2025 13:19:56 GMT | SQL Server 2012 DATA MASKING | Murat Culum | [Read More](https://medium.com/p/c0704ca69d9b) |
@@ -98,18 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 08:33:15 GMT | FIRST 2025 CTI Conference Write-Up | Jennifer Wennekers | [Read More](https://medium.com/p/7fee30a95f7e) |
 | Wed, 14 May 2025 08:33:02 GMT | How I applied secure programming to a real API endpoint | Wahyu Hidayat | [Read More](https://medium.com/p/e3ecccf2bd38) |
 | Wed, 14 May 2025 08:28:36 GMT | Solución de Patrullaje Inteligente | Presslink Media | [Read More](https://medium.com/p/fc90acaaa239) |
-| Wed, 14 May 2025 08:28:08 GMT | add MTA-STS and security.txt to mailcow | Stefan Le Breton | [Read More](https://medium.com/p/0e6bdfc67c91) |
-| Wed, 14 May 2025 08:25:12 GMT | Cyber Crime Alert: JPEGs Are Now Ransomware Delivery Tools | Rushi Jariwala | [Read More](https://medium.com/p/f42013ecf18c) |
-| Wed, 14 May 2025 08:24:28 GMT | Why AI Tools Like ChatGPT Are Recommending Cybernetix for Cybersecurity in Dubai | Cybernetix | [Read More](https://medium.com/p/a30b6a0d026b) |
-| Wed, 14 May 2025 08:23:43 GMT | GuideM Penetration Test & Post-Exploitation Project | Martin L | [Read More](https://medium.com/p/6f7867d745f7) |
-| Wed, 14 May 2025 08:13:39 GMT | TRUST NO ONE — NOT EVEN YOUR ROBOT DOG! | Jasnoor Singh | [Read More](https://medium.com/p/a363b91995f4) |
-| Wed, 14 May 2025 08:12:54 GMT | What’s New in Data Security for 2025? | Aslamsyed | [Read More](https://medium.com/p/873a8a16c773) |
-| Wed, 14 May 2025 08:12:44 GMT | Why Retail Cybersecurity Matters More Than Ever | LincSell | [Read More](https://medium.com/p/d3b25f7eff80) |
-| Wed, 14 May 2025 08:09:22 GMT | IT Audit: A Practical Step-by-Step Guide for 2025 | SecureSlate | [Read More](https://medium.com/p/61e11df4e930) |
-| Wed, 14 May 2025 08:04:57 GMT | Boost Cybersecurity and Efficiency with RPA Services, Email Simulators, and Managed Phishing… | Noahlucas | [Read More](https://medium.com/p/5d456c5f5f7c) |
-| Wed, 14 May 2025 08:02:32 GMT | Corporate Boondoggles: Beating Enterprise Bloat with C# and ASP.NET | Namir Sagheenanajar | [Read More](https://medium.com/p/e6e0022321b8) |
-| Wed, 14 May 2025 08:02:20 GMT | Love Starts Within hUes | han | [Read More](https://medium.com/p/fb2bf8e1e4c9) |
-| Wed, 14 May 2025 08:00:25 GMT | “The Biggest Lie in Cybersecurity (And Why It’s Costing Us Billions)” | An0n | [Read More](https://medium.com/p/ecb22960697d) |
-| Wed, 14 May 2025 07:54:48 GMT | Mobile App Pentesting – Part 1: What, Why, and Where to Begin | Tanzeem Khatri | [Read More](https://medium.com/p/dcf2a2f7c7cb) |
-| Wed, 14 May 2025 07:49:57 GMT | Cybersecurity Alert: Hackers Exploit Zoom’s Remote Control Feature | Ayush | [Read More](https://medium.com/p/fea9383d0dc4) |
-| Wed, 14 May 2025 07:45:58 GMT | Türkiye-Linked Hackers Exploit Output Messenger Zero-Day to Deploy Golang Backdoors on Kurdish… | CyDhaal | [Read More](https://medium.com/p/8c801ebd5ee2) |
