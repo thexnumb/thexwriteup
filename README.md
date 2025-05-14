@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 17:03:32 GMT | India admits Pakistan’s cyber attacks targeting govt websites | Baba Adnan | [Read More](https://medium.com/p/a6be30f5e433) |
+| Wed, 14 May 2025 16:59:17 GMT | Minimizing Attack Surface in Container Images via Chrooted Runtime Composition | Christian Frank Johannsen | [Read More](https://medium.com/p/5bbf273673fb) |
+| Wed, 14 May 2025 16:58:33 GMT | Powerful Ways IoT is Enhancing Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/d1c1fca1fe22) |
+| Wed, 14 May 2025 16:51:30 GMT | Develop a High-Tech Solution to a Problem | Mr Success | [Read More](https://medium.com/p/f443b520ba80) |
 | Wed, 14 May 2025 16:46:38 GMT | ️ How I Created a Simple Web Server on My Own Computer | Wiley Insight | [Read More](https://medium.com/p/a1ba84b3b060) |
+| Wed, 14 May 2025 16:45:37 GMT | Development Quality Assurance: Secure Programming | Daffa Rafi | [Read More](https://medium.com/p/7135026ec322) |
 | Wed, 14 May 2025 16:41:47 GMT | For the longest time I have been thinking about my experiences in Data, AI, Technology and… | Kamal Distell | [Read More](https://medium.com/p/7738d6ce056a) |
 | Wed, 14 May 2025 16:41:15 GMT | HackerNote(Medium)TryHackMe Walkthrough | 3L4CKCYBR_ | [Read More](https://medium.com/p/41a7080c5046) |
 | Wed, 14 May 2025 16:40:05 GMT | Redesigning the workshop: AI-powered facilitation in Miro, FigJam, and Mural | UX.raspberry | [Read More](https://medium.com/p/84d8b3deab62) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 11:19:30 GMT | Breaking In Through the Backdoor: Password Reset Gone Wrong | Ehtesham Ul Haq | [Read More](https://medium.com/p/6e5243c16a19) |
 | Wed, 14 May 2025 11:13:32 GMT | Ethical Hacking: Network Sniffing | Leroyanand | [Read More](https://medium.com/p/e870afe2e722) |
 | Wed, 14 May 2025 11:06:45 GMT | AWS IAM Made Simple: Your Guide to Cloud Security | Anurag | [Read More](https://medium.com/p/1dc7bb87e3a0) |
-| Wed, 14 May 2025 11:03:39 GMT | How start a cybersecurity career in trivandrum :which is better? | abin p jpy | [Read More](https://medium.com/p/82fbabbdc665) |
-| Wed, 14 May 2025 11:02:19 GMT | The Hidden Power of Data Protection Services for Business Security | Allitpros | [Read More](https://medium.com/p/215a5c55590b) |
-| Wed, 14 May 2025 11:01:49 GMT | LetsDefend Introduction to System Security Course WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/62f0da714fd4) |
-| Wed, 14 May 2025 10:55:48 GMT | 7 Best VPN Apps For Android in 2025 | Ibrahim Mustapha | [Read More](https://medium.com/p/6cbc36f7f88a) |
-| Wed, 14 May 2025 10:52:23 GMT | Web Uygulama Güvenliğinin Temel Taşı — HTTP Güvenlik Başlıkları | Burak Akdogan | [Read More](https://medium.com/p/41e5c216b010) |
