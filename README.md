@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 05:25:34 GMT | Ethical Hacking Guide: Penetration Testing Apache Tomcat (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/01dc367f070c) |
+| Wed, 14 May 2025 05:25:00 GMT | API Gateway: Most useful features | Keyur Desai | [Read More](https://medium.com/p/0918eb502605) |
+| Wed, 14 May 2025 05:24:40 GMT | AI Powered Facial Recognition is revolutionizing security in across UAE | Tekhabeeb | [Read More](https://medium.com/p/eb2435bcae8c) |
+| Wed, 14 May 2025 05:16:21 GMT | Round-the-Clock Protection with Nexasoft Infinity’s 24/7 Cybersecurity & Cloud Consulting Services | Nexasoft Infinity | [Read More](https://medium.com/p/8f8563426811) |
 | Wed, 14 May 2025 05:05:37 GMT | Do Directory Listings Still Help SEO in 2025? | ONECITY TECHNOLOGIES | [Read More](https://medium.com/p/d5a6c9443661) |
 | Wed, 14 May 2025 05:04:07 GMT | HTB Zephyr Lab Explained: Real-World Red Team Operator Strategies for OSEP | Anezaneo | [Read More](https://medium.com/p/22e250df83a2) |
 | Wed, 14 May 2025 05:02:00 GMT | I Killed a Wasp Today | Emy Quinn | [Read More](https://medium.com/p/f45aa14dbe85) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 20:12:59 GMT | شماره صیغه برازجان 09011277694 | pijeri1444@umeifun.com | [Read More](https://medium.com/p/c41c4de99e67) |
 | Tue, 13 May 2025 20:11:48 GMT | Hack The Box “Planning” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/72317cf3d287) |
 | Tue, 13 May 2025 20:10:51 GMT | Quaoar: 1— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/adf9b899a73d) |
-| Tue, 13 May 2025 20:04:15 GMT | Vendor Lock-in Nedir? Riskleri ve Önleme Stratejileri | Mehmetturkkan | [Read More](https://medium.com/p/b299269d9de7) |
-| Tue, 13 May 2025 19:58:31 GMT | Cybercrime in the UK: Trends, Case Studies, and Legal Measures | Jyothika Vinoth | [Read More](https://medium.com/p/f275965a05f1) |
-| Tue, 13 May 2025 19:55:42 GMT | Breaking Bitcoin: Exploiting Signature Flaws, Wallet Weaknesses & Real-World Exploits and Defense… | CryptoDeepTools | [Read More](https://medium.com/p/a772e7fd680f) |
-| Tue, 13 May 2025 19:51:26 GMT | Upload Vulns | Julio | [Read More](https://medium.com/p/3c139f507b28) |
