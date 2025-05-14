@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 20:37:35 GMT | Unified Kill Chain TryHackMe Example: Walkthrough | Keran Elias | [Read More](https://medium.com/p/dac67c6809d4) |
+| Wed, 14 May 2025 20:35:54 GMT | Building a Microsoft Intune Home Lab: A Hands-On Guide to Endpoint Management and Administration | Tijan Hydara | [Read More](https://medium.com/p/86c3b0e5d079) |
+| Wed, 14 May 2025 20:33:44 GMT | Top Data Recovery Experts - SCANNER HACKER CRYPTO RECOVERY | Nellyfranklin | [Read More](https://medium.com/p/785a8ddc923e) |
+| Wed, 14 May 2025 20:29:36 GMT | Building a Secure Infrastructure with Docker, Endian Firewall, and Linux VMs from Scratch-Part4… | Firas Meddeb | [Read More](https://medium.com/p/0afca68ccdfe) |
+| Wed, 14 May 2025 20:27:42 GMT | Ukraine War: The Lesser-Known News 5/14/25 | Kevin Fitzgerald | [Read More](https://medium.com/p/159935fc4a3a) |
 | Wed, 14 May 2025 20:08:31 GMT | After the Fire: Tending the Embers Within | Firas Alragom | [Read More](https://medium.com/p/c4f9148f3276) |
 | Wed, 14 May 2025 20:01:46 GMT | China’s Army Of Hackers | Shubhransh Rai | [Read More](https://medium.com/p/0dea21e372d7) |
 | Wed, 14 May 2025 19:49:04 GMT | Tobiloba Aramide Ogundiyan Secrets to Tech Success Unveiled | Tobiloba Aramide Ogundiyan | [Read More](https://medium.com/p/3b8df517097b) |
 | Wed, 14 May 2025 19:46:32 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/2634bc820985) |
+| Wed, 14 May 2025 19:36:29 GMT | Architectural Interception of Drones: Spectrum Mimicry and Controlled Cognitive Collapse | Artem Leonov | [Read More](https://medium.com/p/b2042eba6623) |
 | Wed, 14 May 2025 19:35:05 GMT | XSS Attacks: What They Are and How to Protect Your Website | Akshay Chauhan | [Read More](https://medium.com/p/14b5dbd1888a) |
 | Wed, 14 May 2025 19:33:31 GMT | How I’m Building a Tech Hustle While Studying Cybersecurity in Nigeria | Russell - Gadget Hustler | [Read More](https://medium.com/p/bde611165a27) |
 | Wed, 14 May 2025 19:26:45 GMT | The Technical Debt Trap: A Strategic Framework for Enterprise IT Leaders | Azzeddine Amiar | [Read More](https://medium.com/p/6fca49078512) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 14:01:59 GMT | Understanding Android 15 Privacy & Security: Private Space for Developers | Samset | [Read More](https://medium.com/p/31ca492db5d3) |
 | Wed, 14 May 2025 13:59:19 GMT | Cyber Briefing: 2025.05.14 | CyberMaterial | [Read More](https://medium.com/p/eb516462d48e) |
 | Wed, 14 May 2025 13:46:21 GMT | Stay One Step Ahead: Security Settings You Shouldn’t Ignore | ACEUnion | [Read More](https://medium.com/p/84418a8f6d57) |
-| Wed, 14 May 2025 13:45:45 GMT | Buffer Overflow Security Project | Damian Villarreal | [Read More](https://medium.com/p/e6f3fa2d11d0) |
-| Wed, 14 May 2025 13:44:33 GMT | Empowering Threat Intelligence: Integrating OpenCTI with Elasticsearch for Custom Kibana Dashboards | Godspower Melariri-okwu | [Read More](https://medium.com/p/9a279b28a443) |
-| Wed, 14 May 2025 13:43:21 GMT | Don’t Overshare: A Daily Tip for Social Media Privacy | Hitesh Said | [Read More](https://medium.com/p/f820fe551697) |
-| Wed, 14 May 2025 13:37:13 GMT | Healthcare Employee Security Awareness: Best Practices for Securing Health Data | inVerita | [Read More](https://medium.com/p/2bed1eae2d3b) |
-| Wed, 14 May 2025 13:36:44 GMT | Inside the Mind of a Hacker: How OSINT Becomes a Powerful Cyber Weapon in 2025 | Austin Mathew | [Read More](https://medium.com/p/9c19b4b23eb5) |
-| Wed, 14 May 2025 13:36:39 GMT | Too Many Certs, No Clear Path — Here’s What I Did Instead | Luispuello | [Read More](https://medium.com/p/5a807461f85e) |
