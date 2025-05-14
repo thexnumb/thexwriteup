@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 06:21:23 GMT | PupkinStealer: The Silent Data Thief Exploiting Browser Credentials | Irem | [Read More](https://medium.com/p/fd6e5c7a48fb) |
+| Wed, 14 May 2025 06:20:35 GMT | Collaborating with IT Teams: 4 Communication Hacks | Ahmad Javed | [Read More](https://medium.com/p/ee1c0a00dc8c) |
+| Wed, 14 May 2025 06:20:29 GMT | FOFA Dorking - Part 3 | AbhirupKonwar | [Read More](https://medium.com/p/b27f69b6d086) |
+| Wed, 14 May 2025 06:17:11 GMT | Pentest Is Not Dead: The Genie with No Master | Potech | [Read More](https://medium.com/p/589aef74a48d) |
+| Wed, 14 May 2025 06:12:03 GMT | Title: Filter Failure: From HTML Injection to Full-Blown XSS via Rich Text Editors | Iski | [Read More](https://medium.com/p/af6809e248b4) |
+| Wed, 14 May 2025 06:08:38 GMT | Can I Withdraw My Money From Fintiwall? | Lorathy | [Read More](https://medium.com/p/dff1f1639f8a) |
+| Wed, 14 May 2025 06:01:54 GMT | Space Security: Why the Future Depends on How We Protect the Skies | Razz Pokhreal | [Read More](https://medium.com/p/a7c3ae179ac5) |
+| Wed, 14 May 2025 06:01:21 GMT | Cybersecurity in 2025: Are You Ready for the Next Wave of Attacks? | Gauravinsightss | [Read More](https://medium.com/p/8b0d240117c7) |
+| Wed, 14 May 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — May 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/625ef05b62eb) |
+| Wed, 14 May 2025 05:48:13 GMT | Hacking AI Easy as Pie | Udit | [Read More](https://medium.com/p/978729e5d77a) |
+| Wed, 14 May 2025 05:46:17 GMT | The Human Factor in Cyber Security: How Trust is Exploited by Social Engineering | Mubazzmuhammed | [Read More](https://medium.com/p/1d742402bf5f) |
+| Wed, 14 May 2025 05:40:24 GMT | What Does a Real Hacker Look Like? | Kaili Yang | [Read More](https://medium.com/p/16431c30cd71) |
 | Wed, 14 May 2025 05:25:34 GMT | Ethical Hacking Guide: Penetration Testing Apache Tomcat (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/01dc367f070c) |
 | Wed, 14 May 2025 05:25:00 GMT | API Gateway: Most useful features | Keyur Desai | [Read More](https://medium.com/p/0918eb502605) |
 | Wed, 14 May 2025 05:24:40 GMT | AI Powered Facial Recognition is revolutionizing security in across UAE | Tekhabeeb | [Read More](https://medium.com/p/eb2435bcae8c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 20:53:18 GMT | Colleagues, the “CISA: Certified Information Systems Auditor” program will equip you to pass the… | Franklin Rhodes | [Read More](https://medium.com/p/054740a5266d) |
 | Tue, 13 May 2025 20:51:58 GMT | Wenn Stille zu laut wird | Tami | [Read More](https://medium.com/p/9261ca6d8e45) |
 | Tue, 13 May 2025 20:40:45 GMT | Are QR codes safe? | Roberto Maggio | [Read More](https://medium.com/p/f87a41632678) |
-| Tue, 13 May 2025 20:37:59 GMT | Starting Cybersecurity: A Roadmap for the utterly Curious | HackWitHer | [Read More](https://medium.com/p/4f5f50ba6b9c) |
-| Tue, 13 May 2025 20:31:37 GMT | La certification cyber! | Florent M | [Read More](https://medium.com/p/fbceca851c66) |
-| Tue, 13 May 2025 20:30:45 GMT | Bridging the Talent Gap Through Smart Technology Partnerships | Vivek Rao | [Read More](https://medium.com/p/484d095c2a6f) |
-| Tue, 13 May 2025 20:28:29 GMT | Cyber Journey: Active Directory/OPNsense/Splunk Home Lab | Gabriel Walker-Zuniga | [Read More](https://medium.com/p/921be3942cdc) |
-| Tue, 13 May 2025 20:27:49 GMT | Ubuntu 2025 : How to solve ERROR: Could not find version that satisfies the requirement tensorflow… | Don De Dieu Bundjoko | [Read More](https://medium.com/p/3e4bb3dcf52c) |
-| Tue, 13 May 2025 20:21:28 GMT | Beyond Firewalls: Why Cybersecurity and Connectivity Are Business Essentials in 2025 | Defend My Business | [Read More](https://medium.com/p/c7d67726fc45) |
-| Tue, 13 May 2025 20:14:41 GMT | شماره صیغه اسلام شهر 09011277694 | pijeri1444@umeifun.com | [Read More](https://medium.com/p/a46a99e180d8) |
-| Tue, 13 May 2025 20:13:46 GMT | شماره صیغه کرج 09011277694 | pijeri1444@umeifun.com | [Read More](https://medium.com/p/8b5ab0e88c6e) |
-| Tue, 13 May 2025 20:13:46 GMT | Digital Infrastructure That Scales With You | Vivek Rao | [Read More](https://medium.com/p/dd923ff6016a) |
-| Tue, 13 May 2025 20:12:59 GMT | شماره صیغه برازجان 09011277694 | pijeri1444@umeifun.com | [Read More](https://medium.com/p/c41c4de99e67) |
-| Tue, 13 May 2025 20:11:48 GMT | Hack The Box “Planning” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/72317cf3d287) |
-| Tue, 13 May 2025 20:10:51 GMT | Quaoar: 1— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/adf9b899a73d) |
