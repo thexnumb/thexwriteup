@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 09:11:48 GMT | How to Analyze Ransomware with ANY.RUN & Ghidra | Motasem Hamdan | [Read More](https://medium.com/p/f8c4c7966d9e) |
+| Wed, 14 May 2025 09:11:21 GMT | Microsoft Warns: New AD CS Vulnerability Can Let Hackers Crash Systems Over Network | @TheCyberLens | [Read More](https://medium.com/p/7d59eaf097fb) |
+| Wed, 14 May 2025 09:02:22 GMT | Microsoft Fixes Global BSOD Error: Here’s What Happened and How Infoziant Helps You Avoid It | Infoziant | [Read More](https://medium.com/p/a5aa7150616e) |
+| Wed, 14 May 2025 08:59:40 GMT | Unwavering Foundations: Security and Reliability in an AI-Driven Society | Ryan Chung | [Read More](https://medium.com/p/a4a86cc81075) |
+| Wed, 14 May 2025 08:58:40 GMT | Vulnerability — The Courage to Be Real | Jane Phipps | [Read More](https://medium.com/p/976d12c80877) |
+| Wed, 14 May 2025 08:56:43 GMT | Hackers Are Weaponizing KeePass: What You Need to Know and How to Stay Safe | cybrNK | [Read More](https://medium.com/p/fecae7988e73) |
+| Wed, 14 May 2025 08:54:38 GMT | Network Defense Approaches | Victor Kipkemboi | [Read More](https://medium.com/p/64960326953c) |
+| Wed, 14 May 2025 08:53:08 GMT | How Can I Withdraw My Lost Investment From Mintos? | Milano | [Read More](https://medium.com/p/b54719fe2cb1) |
+| Wed, 14 May 2025 08:46:43 GMT | Shadows of tThe Starlit Rebellion | Tales of Nyx | [Read More](https://medium.com/p/ed51d7621896) |
 | Wed, 14 May 2025 08:38:25 GMT | Ghost Crowds: How Nation-States Fake Grassroots Movements Online | O. J. Okpabi | [Read More](https://medium.com/p/264cb9130877) |
 | Wed, 14 May 2025 08:36:08 GMT | To Complicate or Not to Complicate. — What is Fuzzy Hash? | Mert Kurtulmuş | [Read More](https://medium.com/p/c226d86d253e) |
 | Wed, 14 May 2025 08:35:34 GMT | Fortinet Urgently Patches Critical CVE-2025–32756 Zero-Day Exploited in FortiVoice Systems | CyDhaal | [Read More](https://medium.com/p/91dd3a9babd8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 01:43:38 GMT | PIPL: What You Need to Know About China’s Privacy Law | Vincent Delacourt | [Read More](https://medium.com/p/51ae526f7447) |
 | Wed, 14 May 2025 01:42:02 GMT | Incident Analysis: Malicious Activity on Host 12.183.1.55! | Jonathan M. | [Read More](https://medium.com/p/cb3bf0303ae9) |
 | Wed, 14 May 2025 01:38:22 GMT | Top 8 Best Vulnerability Scanning Tools (2025 Guide) | Pawan Jaiswal | [Read More](https://medium.com/p/df3d4484c238) |
-| Wed, 14 May 2025 01:31:19 GMT | Winnipeg Security Guard’s Actions Reignite Debate on Emergency Training | Scott Hill | [Read More](https://medium.com/p/6ef994b78405) |
-| Wed, 14 May 2025 01:17:21 GMT | MCP Security: Tr-tr-tr-tricky, tricky, tricky | Mary Becken | [Read More](https://medium.com/p/07731e14ef45) |
-| Wed, 14 May 2025 01:16:46 GMT | The Red Teaming: 30-Day Challenge[30] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c04ed617c8e1) |
-| Wed, 14 May 2025 01:13:40 GMT | Basic AWS IAM Enumeration Using Pacu | innervision | [Read More](https://medium.com/p/bec9d9d102b1) |
-| Wed, 14 May 2025 00:54:33 GMT | Advanced Threat Hunting with EDR: Building Custom Detection Rules | ByteSectorX | [Read More](https://medium.com/p/299e39de8a5b) |
-| Wed, 14 May 2025 00:42:26 GMT | Domain analysis tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/50528444699e) |
-| Wed, 14 May 2025 00:41:46 GMT | Strengthening Cloud Security with Azure Security Center | Jacky Yau | [Read More](https://medium.com/p/86795d0b6169) |
-| Wed, 14 May 2025 00:32:01 GMT | Recovery expert for hire in 2025 | Nellyfranklin | [Read More](https://medium.com/p/9a4ed41d6d6f) |
-| Wed, 14 May 2025 00:19:02 GMT | Scam Season Is All Year. Google Just Armed Your Phone to Fight Back. | NaveeeN Chendra | [Read More](https://medium.com/p/f10e412dc0f9) |
