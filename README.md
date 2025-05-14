@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 18:59:36 GMT | Three Things I Wish I’d Known as a Junior Engineer | Security Guy | [Read More](https://medium.com/p/019a5ac36377) |
+| Wed, 14 May 2025 18:58:41 GMT | Siber Tehditlere Karşı Proaktif Savunma: EDR Teknolojisi | Kerem | [Read More](https://medium.com/p/64a1a2fafaf2) |
 | Wed, 14 May 2025 18:30:00 GMT | SogoTrade Data Breach: What Affected Customers Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/3fc23d16e7f8) |
 | Wed, 14 May 2025 18:29:44 GMT | Browser Extensions: The Trojan Horses We Invite Ourselves | TheCyberSalad | [Read More](https://medium.com/p/816c11c13d72) |
 | Wed, 14 May 2025 18:29:12 GMT | Expose & Explore: Discover misconfigured service protocols and ports using Linux | K O M A L | [Read More](https://medium.com/p/72394ee09023) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 13:11:25 GMT | PRIVACY: Is it a Myth? or just Perspective? | Senjaputrasndr | [Read More](https://medium.com/p/be94e727ff28) |
 | Wed, 14 May 2025 13:09:39 GMT | The Coming Wave: Cybernetic Brain Implants | Dylan Rosario | [Read More](https://medium.com/p/6ac299849226) |
 | Wed, 14 May 2025 13:05:01 GMT | How do we stay safe on the internet? A brief guide. | Christopher Morris | [Read More](https://medium.com/p/6e6aa664f7d4) |
-| Wed, 14 May 2025 13:02:01 GMT | How VAPT Helps Meet HIPAA, PCI-DSS, and GDPR Requirements | West Advanced Technologies Inc | [Read More](https://medium.com/p/4b92336b4ead) |
-| Wed, 14 May 2025 13:01:42 GMT | Dissecting North Korea’s TA406 Campaign Against Ukraine: Strategic Cyber Espionage | Nexsecura | [Read More](https://medium.com/p/4185a9420b4c) |
