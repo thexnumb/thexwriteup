@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 08:24:28 GMT | Why AI Tools Like ChatGPT Are Recommending Cybernetix for Cybersecurity in Dubai | Cybernetix | [Read More](https://medium.com/p/a30b6a0d026b) |
+| Wed, 14 May 2025 08:23:43 GMT | GuideM Penetration Test & Post-Exploitation Project | Martin L | [Read More](https://medium.com/p/6f7867d745f7) |
+| Wed, 14 May 2025 08:13:39 GMT | TRUST NO ONE — NOT EVEN YOUR ROBOT DOG! | Jasnoor Singh | [Read More](https://medium.com/p/a363b91995f4) |
+| Wed, 14 May 2025 08:12:54 GMT | What’s New in Data Security for 2025? | Aslamsyed | [Read More](https://medium.com/p/873a8a16c773) |
+| Wed, 14 May 2025 08:12:44 GMT | Why Retail Cybersecurity Matters More Than Ever | LincSell | [Read More](https://medium.com/p/d3b25f7eff80) |
+| Wed, 14 May 2025 08:09:22 GMT | IT Audit: A Practical Step-by-Step Guide for 2025 | SecureSlate | [Read More](https://medium.com/p/61e11df4e930) |
+| Wed, 14 May 2025 08:04:57 GMT | Boost Cybersecurity and Efficiency with RPA Services, Email Simulators, and Managed Phishing… | Noahlucas | [Read More](https://medium.com/p/5d456c5f5f7c) |
+| Wed, 14 May 2025 08:02:32 GMT | Corporate Boondoggles: Beating Enterprise Bloat with C# and ASP.NET | Namir Sagheenanajar | [Read More](https://medium.com/p/e6e0022321b8) |
+| Wed, 14 May 2025 08:02:20 GMT | Love Starts Within hUes | han | [Read More](https://medium.com/p/fb2bf8e1e4c9) |
+| Wed, 14 May 2025 08:00:25 GMT | “The Biggest Lie in Cybersecurity (And Why It’s Costing Us Billions)” | An0n | [Read More](https://medium.com/p/ecb22960697d) |
+| Wed, 14 May 2025 07:54:48 GMT | Mobile App Pentesting – Part 1: What, Why, and Where to Begin | Tanzeem Khatri | [Read More](https://medium.com/p/dcf2a2f7c7cb) |
+| Wed, 14 May 2025 07:49:57 GMT | Cybersecurity Alert: Hackers Exploit Zoom’s Remote Control Feature | Ayush | [Read More](https://medium.com/p/fea9383d0dc4) |
+| Wed, 14 May 2025 07:45:58 GMT | Türkiye-Linked Hackers Exploit Output Messenger Zero-Day to Deploy Golang Backdoors on Kurdish… | CyDhaal | [Read More](https://medium.com/p/8c801ebd5ee2) |
+| Wed, 14 May 2025 07:36:40 GMT | Mastering Azure WAF: Real-world Lessons from Our Enterprise Implementation | Sridhar | [Read More](https://medium.com/p/b49071ec1601) |
 | Wed, 14 May 2025 07:31:10 GMT | [CTF SERIES] — WEB EXPLOITATION : Lỗ hổng Local File Inclusion | Andrich HA | [Read More](https://medium.com/p/b11e278f66c4) |
 | Wed, 14 May 2025 07:27:44 GMT | PicoCTF — Forensics RED Challenge | Naufal | [Read More](https://medium.com/p/4d7f96b48c94) |
 | Wed, 14 May 2025 07:24:50 GMT | Top 5 API Security Testing Companies in USA | OptiSol Business Solutions | [Read More](https://medium.com/p/ad833f0b7f3f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 23:03:20 GMT | Hack The Box - Devvortex | Luigi Carpio (0xBahalaNa) | [Read More](https://medium.com/p/d263c121cd7c) |
 | Tue, 13 May 2025 22:58:57 GMT | Australia needs a defence levy to survive an uncertain future | Jonathan Meddings | [Read More](https://medium.com/p/08bf155d595b) |
 | Tue, 13 May 2025 22:55:49 GMT | meerkat — a scuffed writeup + update | nubb | [Read More](https://medium.com/p/d91df036b8d3) |
-| Tue, 13 May 2025 22:49:47 GMT | Post India-Pakistan Conflict: India’s Digital Retaliation — Tariffs, Tech, and a Wake-Up Call for… | Everclear International | [Read More](https://medium.com/p/8f999373708f) |
-| Tue, 13 May 2025 22:49:01 GMT | He Thought His Building Site Was Secure — Until He Checked the Footage | B Painex | [Read More](https://medium.com/p/e8aa0b894561) |
-| Tue, 13 May 2025 22:40:48 GMT | Ultra-Fast DevSecOps Scanners | AquilaX AI | [Read More](https://medium.com/p/b75b3720bdb0) |
-| Tue, 13 May 2025 22:40:25 GMT | How Is Technology Addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/05407a5c8c88) |
-| Tue, 13 May 2025 22:40:05 GMT | Fake AI Tools Used to Spread Noodlophile Malware — Over 62,000 Users Targeted via Facebook Lures | Cyber-AppSec | [Read More](https://medium.com/p/4c1c85b18597) |
-| Tue, 13 May 2025 22:40:04 GMT | UnderPass (Write-Up) — Hack The Box | Ross Mitchell | [Read More](https://medium.com/p/98d5039af892) |
-| Tue, 13 May 2025 22:36:23 GMT | What is online blackmail and what can I do to prevent it from happening? | Savvy Cyber Kids | [Read More](https://medium.com/p/4126a0f1f67d) |
-| Tue, 13 May 2025 22:34:05 GMT | “Your Account Has Been Disabled in the App Store and iTunes” — What It Means & How to Possibly Fix… | Zavier Chambers | [Read More](https://medium.com/p/8f46d2ecde41) |
-| Tue, 13 May 2025 22:33:12 GMT | Constructing a Safe Password | Savvy Cyber Kids | [Read More](https://medium.com/p/c1e296ee4639) |
-| Tue, 13 May 2025 22:31:21 GMT | My Journey Into Cybersecurity | PwnerJoe | [Read More](https://medium.com/p/010644c64ef6) |
-| Tue, 13 May 2025 22:23:17 GMT | Why I’m Taking on the #60DaysofGRC Challenge | Brittney Ginther | [Read More](https://medium.com/p/a5e6afdcb54c) |
-| Tue, 13 May 2025 22:16:28 GMT | Practical Steps to Prevent DNS Spoofing in Your Network | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d1d1f25c5cc) |
-| Tue, 13 May 2025 22:09:53 GMT | Basics of Patrolling and Surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/9e2fe31636b1) |
-| Tue, 13 May 2025 22:09:44 GMT | Secrets in the Cloud: How to Secure Your Configurations Before It’s Too Late! ☁️ | Pranav Teja Garikapati | [Read More](https://medium.com/p/d753f02386e1) |
