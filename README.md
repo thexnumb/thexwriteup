@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 21:06:34 GMT | Breaking the Rules: Deleting Confirmed Organizations Through a Backend Flaw | cyberpro151 | [Read More](https://medium.com/p/525dc867841c) |
+| Wed, 14 May 2025 21:03:21 GMT | APT28 Inception Theory . TryHackMe Walkthrough — Red Team — Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/681b3db08072) |
+| Wed, 14 May 2025 21:03:04 GMT | Building a Cyber-Resilient Business: Key Measures to Take | Market Daily | [Read More](https://medium.com/p/bc24878d148e) |
+| Wed, 14 May 2025 20:58:42 GMT | HTB Labs — Tier 1 — “Appointment” Machine Walkthrough - By CyberAlp0 | Mohamed Maher | [Read More](https://medium.com/p/26762086fc87) |
+| Wed, 14 May 2025 20:45:49 GMT | WASM and Security | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8bfe14836c03) |
+| Wed, 14 May 2025 20:45:29 GMT | Fake Job Offer Scams: Exploiting the hiring process | Ramsey Consulting Services | [Read More](https://medium.com/p/f42892185d19) |
+| Wed, 14 May 2025 20:42:45 GMT | Building CySec-EmbedClassify: My Journey into Gen AI-Powered Cybersecurity Text Classification | Naebi Sede | [Read More](https://medium.com/p/6c6e169fcd1e) |
 | Wed, 14 May 2025 20:37:35 GMT | Unified Kill Chain TryHackMe Example: Walkthrough | Keran Elias | [Read More](https://medium.com/p/dac67c6809d4) |
 | Wed, 14 May 2025 20:35:54 GMT | Building a Microsoft Intune Home Lab: A Hands-On Guide to Endpoint Management and Administration | Tijan Hydara | [Read More](https://medium.com/p/86c3b0e5d079) |
 | Wed, 14 May 2025 20:33:44 GMT | Top Data Recovery Experts - SCANNER HACKER CRYPTO RECOVERY | Nellyfranklin | [Read More](https://medium.com/p/785a8ddc923e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 14:19:53 GMT | Nmap Scripting Engine (NSE): The Hidden Superpower of Nmap You Must Learn | Vijay Kumar Gupta | [Read More](https://medium.com/p/ca75b085de3d) |
 | Wed, 14 May 2025 14:15:43 GMT | 5 Ways to Protect Your Company from Ransomware in 2025 | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/34123995bef2) |
 | Wed, 14 May 2025 14:13:14 GMT | Introducing N0aziXss Origin Recon: The Ultimate ASN & Origin Detection Tool | N0aziXss | [Read More](https://medium.com/p/94157afa4a29) |
-| Wed, 14 May 2025 14:12:28 GMT | Bringing Visibility to Secrets Management | Akshat Virmani | [Read More](https://medium.com/p/0b01466ffe66) |
-| Wed, 14 May 2025 14:06:46 GMT | Launch a Kubernetes Cluster | Gary King | [Read More](https://medium.com/p/a18bd1e92509) |
-| Wed, 14 May 2025 14:02:39 GMT | Ensuring Firewall Effectiveness in Real-World Environments | Ed-it Editions | [Read More](https://medium.com/p/1309220dc7ce) |
-| Wed, 14 May 2025 14:02:33 GMT | How I Prepared for the CISSP Exam: Study Resources | abdeldayemnour | [Read More](https://medium.com/p/409a14be3255) |
-| Wed, 14 May 2025 14:01:59 GMT | Understanding Android 15 Privacy & Security: Private Space for Developers | Samset | [Read More](https://medium.com/p/31ca492db5d3) |
-| Wed, 14 May 2025 13:59:19 GMT | Cyber Briefing: 2025.05.14 | CyberMaterial | [Read More](https://medium.com/p/eb516462d48e) |
-| Wed, 14 May 2025 13:46:21 GMT | Stay One Step Ahead: Security Settings You Shouldn’t Ignore | ACEUnion | [Read More](https://medium.com/p/84418a8f6d57) |
