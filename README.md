@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 10:02:57 GMT | Must-Have DevOps Engineer Skills to Thrive in Today’s IT World | cyberwingITSolution | [Read More](https://medium.com/p/ca0dd133e14d) |
+| Wed, 14 May 2025 10:02:52 GMT | The Night Ukraine Went Dark: Inside the Most Devastating Cyber Attack in History | CyDhaal | [Read More](https://medium.com/p/e8e04302550e) |
+| Wed, 14 May 2025 10:02:40 GMT | RAT (Remote Access Trojan) Detection and Removal Methods | Esra Kayhan | [Read More](https://medium.com/p/3526684d25f4) |
+| Wed, 14 May 2025 10:02:33 GMT | The Vibe Shift in Security | Solo Recon | [Read More](https://medium.com/p/e993d74e4163) |
+| Wed, 14 May 2025 10:02:32 GMT | Software Updates and Security: The Importance of Automatic Update Systems | Esra Kayhan | [Read More](https://medium.com/p/10da1a369b0a) |
+| Wed, 14 May 2025 10:01:36 GMT | Network Security Series — Part 3 | M.Magdy | [Read More](https://medium.com/p/14927c45df93) |
+| Wed, 14 May 2025 09:50:53 GMT | CyberPod AI: Autonomous Data Intelligence in UAE | Tekhabeeb | [Read More](https://medium.com/p/711ba844b4b8) |
+| Wed, 14 May 2025 09:48:28 GMT | How Inconsistent Input Handling and Poor Email Validation Can Lead to Admin Access | Bash Overflow | [Read More](https://medium.com/p/b64b25413b82) |
+| Wed, 14 May 2025 09:44:52 GMT | Pilipinas, pinag-igting ang Regional Cyber Cooperation sa ASEAN Regional Forum | Andrei Avendaño | [Read More](https://medium.com/p/f6adf5dfbfcd) |
 | Wed, 14 May 2025 09:33:55 GMT | Inside the SOC: Fun, Fire Drills, and False Positives
 by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/bfca946553be) |
 | Wed, 14 May 2025 09:33:44 GMT | Training the Next Generation of Space Cybersecurity Experts: A Strategic Investment in Orbital… | CyBlog | [Read More](https://medium.com/p/5594593c3af2) |
@@ -104,12 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 03:59:48 GMT | CISA, FBI: Hackers targeting Industrial Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/6b58dbc7a787) |
 | Wed, 14 May 2025 03:41:09 GMT | AI Agent Security: An Emerging Cybersecurity Challenge | whoami | [Read More](https://medium.com/p/c140b2266529) |
 | Wed, 14 May 2025 03:32:27 GMT | How Women Are Rewriting Cybersecurity’s Future | Ahmad Javed | [Read More](https://medium.com/p/98addc4bc514) |
-| Wed, 14 May 2025 03:14:31 GMT | Cursor AI Security: Deep Dive into Risk, Policy, and Practice | John Munn | [Read More](https://medium.com/p/788159a9b042) |
-| Wed, 14 May 2025 02:49:01 GMT | When Data Speaks: How Digital Forensics Solves Cyber Crimes | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/2478d579fdb6) |
-| Wed, 14 May 2025 02:45:52 GMT | Incident Response: Essential KPIs for Cybersecurity Team | MITRE Doggy | [Read More](https://medium.com/p/719fdcc8472b) |
-| Wed, 14 May 2025 02:39:28 GMT | Autonomous Systems: The Machines Are Driving ThemselvesIntroduction: The Rise of Self-Operating… | Maruti | [Read More](https://medium.com/p/551cb4fc13c1) |
-| Wed, 14 May 2025 02:33:26 GMT | The ultimate in security, SECURET! | SAYCOIN | [Read More](https://medium.com/p/3b60578a2e47) |
-| Wed, 14 May 2025 02:08:03 GMT | Análise Técnica da CVE-2017–9805 — Exploração da Máquina VulnHub Struts S2–052 | Henrique Ribeiro | [Read More](https://medium.com/p/539a2b9d5f89) |
-| Wed, 14 May 2025 02:00:43 GMT | Usable Encryption. Two-word PUNCHLINE? | Senjaputrasndr | [Read More](https://medium.com/p/a9ccfb001c9a) |
-| Wed, 14 May 2025 01:57:12 GMT | Agentic AI in the Hands of Cybercriminals: A Growing Concern for Wall Street | Wale Adedeji | [Read More](https://medium.com/p/1e6c6239f1bd) |
-| Wed, 14 May 2025 01:51:44 GMT | A Red Team Operation is NOT ONLY what you learned in the training | Walter Cuestas | [Read More](https://medium.com/p/cd7165dbc157) |
