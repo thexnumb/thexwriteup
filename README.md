@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 09:33:55 GMT | Inside the SOC: Fun, Fire Drills, and False Positives
+by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/bfca946553be) |
+| Wed, 14 May 2025 09:33:44 GMT | Training the Next Generation of Space Cybersecurity Experts: A Strategic Investment in Orbital… | CyBlog | [Read More](https://medium.com/p/5594593c3af2) |
+| Wed, 14 May 2025 09:28:29 GMT | Best DevOps Training in Lahore for Quick Career Growth | cyberwingITSolution | [Read More](https://medium.com/p/faf3d60e9853) |
+| Wed, 14 May 2025 09:23:59 GMT | The KPIs That Reveal True Protection | SecOps | [Read More](https://medium.com/p/5bd7d64255cd) |
 | Wed, 14 May 2025 09:11:48 GMT | How to Analyze Ransomware with ANY.RUN & Ghidra | Motasem Hamdan | [Read More](https://medium.com/p/f8c4c7966d9e) |
 | Wed, 14 May 2025 09:11:21 GMT | Microsoft Warns: New AD CS Vulnerability Can Let Hackers Crash Systems Over Network | @TheCyberLens | [Read More](https://medium.com/p/7d59eaf097fb) |
 | Wed, 14 May 2025 09:02:22 GMT | Microsoft Fixes Global BSOD Error: Here’s What Happened and How Infoziant Helps You Avoid It | Infoziant | [Read More](https://medium.com/p/a5aa7150616e) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 02:00:43 GMT | Usable Encryption. Two-word PUNCHLINE? | Senjaputrasndr | [Read More](https://medium.com/p/a9ccfb001c9a) |
 | Wed, 14 May 2025 01:57:12 GMT | Agentic AI in the Hands of Cybercriminals: A Growing Concern for Wall Street | Wale Adedeji | [Read More](https://medium.com/p/1e6c6239f1bd) |
 | Wed, 14 May 2025 01:51:44 GMT | A Red Team Operation is NOT ONLY what you learned in the training | Walter Cuestas | [Read More](https://medium.com/p/cd7165dbc157) |
-| Wed, 14 May 2025 01:49:11 GMT | Serum | The YerpoMeepo | [Read More](https://medium.com/p/3db785c2baae) |
-| Wed, 14 May 2025 01:43:38 GMT | PIPL: What You Need to Know About China’s Privacy Law | Vincent Delacourt | [Read More](https://medium.com/p/51ae526f7447) |
-| Wed, 14 May 2025 01:42:02 GMT | Incident Analysis: Malicious Activity on Host 12.183.1.55! | Jonathan M. | [Read More](https://medium.com/p/cb3bf0303ae9) |
-| Wed, 14 May 2025 01:38:22 GMT | Top 8 Best Vulnerability Scanning Tools (2025 Guide) | Pawan Jaiswal | [Read More](https://medium.com/p/df3d4484c238) |
