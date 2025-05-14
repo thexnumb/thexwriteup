@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 17:34:35 GMT | How Disappointing My Mother Eventually Lead Me to Find Cybersecurity | Wellness in Cybersecurity | [Read More](https://medium.com/p/7ba512369bb1) |
+| Wed, 14 May 2025 17:30:39 GMT | Forex Market Overview – May 14, 2025 | TRADING NEWS | [Read More](https://medium.com/p/fc156b8d7cf9) |
+| Wed, 14 May 2025 17:19:12 GMT | ️ Navigating Linux Like a Hacker: Understanding Files, Folders, and the Terminal | Luispuello | [Read More](https://medium.com/p/c6b10e9b829d) |
+| Wed, 14 May 2025 17:16:28 GMT | Tackling Laravel’s Daily Headaches: Common Issues and Smart Fixes | Sadique Ali | [Read More](https://medium.com/p/0707f8d76190) |
+| Wed, 14 May 2025 17:12:55 GMT | ️ TRISIS: The Day Safety Systems Were Turned Into Weapons | om sonawane | [Read More](https://medium.com/p/65072a65bad8) |
+| Wed, 14 May 2025 17:12:46 GMT | Hacking the Hardware Brains of Computers is the Ultimate Cyberattack | Matthew.Rosenquist | [Read More](https://medium.com/p/03e8d735aac1) |
+| Wed, 14 May 2025 17:12:31 GMT | ️‍♂️ Advanced Methods for Threat Hunting in Cybersecurity | Esra Kayhan | [Read More](https://medium.com/p/cd958372cd21) |
+| Wed, 14 May 2025 17:06:01 GMT | CYER | Dainiknavajyoti | [Read More](https://medium.com/p/df9ba4094d27) |
 | Wed, 14 May 2025 17:03:32 GMT | India admits Pakistan’s cyber attacks targeting govt websites | Baba Adnan | [Read More](https://medium.com/p/a6be30f5e433) |
 | Wed, 14 May 2025 16:59:17 GMT | Minimizing Attack Surface in Container Images via Chrooted Runtime Composition | Christian Frank Johannsen | [Read More](https://medium.com/p/5bbf273673fb) |
 | Wed, 14 May 2025 16:58:33 GMT | Powerful Ways IoT is Enhancing Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/d1c1fca1fe22) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 11:46:32 GMT | Geopolitics tops cyber agenda as Rory Stewart and NCSC’s Paul Chichester headline Infosecurity… | Louise Rolfe | [Read More](https://medium.com/p/a00345aa02ce) |
 | Wed, 14 May 2025 11:45:40 GMT | Metaverse Cybersecurity: Safeguarding Your Virtual Environment Against Actual Threats | Itfeelsoemptywithoutm | [Read More](https://medium.com/p/6ded1a4ee687) |
 | Wed, 14 May 2025 11:45:36 GMT | Kiss the Hand That Could Crush You | Ava Sparks | [Read More](https://medium.com/p/89d8f54d1c7d) |
-| Wed, 14 May 2025 11:38:13 GMT | “We Are All Using the Dark Web Unknowingly” | Maria Charles | [Read More](https://medium.com/p/962e602e0d73) |
-| Wed, 14 May 2025 11:35:51 GMT | 開發階段資訊安全的重要性 | xDesign︱極致設計 | [Read More](https://medium.com/p/82b8d0c56938) |
-| Wed, 14 May 2025 11:27:07 GMT | Cyber Security Engineering Admission 2025 - Cyber Security Engineering College Greater Noida | deveshdhama | [Read More](https://medium.com/p/967f2febf2c0) |
-| Wed, 14 May 2025 11:20:55 GMT | Anthem (Easy) TryHackMe Walkthrough | 3L4CKCYBR_ | [Read More](https://medium.com/p/c4976a9a2b5d) |
-| Wed, 14 May 2025 11:20:37 GMT | Securing Your Node.js App from Command Injection | Ester Gracia | [Read More](https://medium.com/p/e44f0a6ccaf2) |
-| Wed, 14 May 2025 11:19:30 GMT | Breaking In Through the Backdoor: Password Reset Gone Wrong | Ehtesham Ul Haq | [Read More](https://medium.com/p/6e5243c16a19) |
-| Wed, 14 May 2025 11:13:32 GMT | Ethical Hacking: Network Sniffing | Leroyanand | [Read More](https://medium.com/p/e870afe2e722) |
-| Wed, 14 May 2025 11:06:45 GMT | AWS IAM Made Simple: Your Guide to Cloud Security | Anurag | [Read More](https://medium.com/p/1dc7bb87e3a0) |
