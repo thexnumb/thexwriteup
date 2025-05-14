@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 16:16:27 GMT | Secrets management is leveling up | Amber Britton | [Read More](https://medium.com/p/4006a2bb1fc4) |
+| Wed, 14 May 2025 16:08:40 GMT | The Crypto Wallet Vulnerability That Went Undetected for Over Six Years | John Sessford | [Read More](https://medium.com/p/36cd52cb600c) |
+| Wed, 14 May 2025 16:08:32 GMT | How a Firewall Controls Your Data Flow for Enhanced Network Security | Jazz Cyber Shield | [Read More](https://medium.com/p/1be554da14cc) |
+| Wed, 14 May 2025 16:06:40 GMT | TryHackMe - Writing Pentest Reports - WriteUp | Axoloth | [Read More](https://medium.com/p/bcf21d6ccdaf) |
+| Wed, 14 May 2025 16:05:49 GMT | macOS DYLIB Injection at Scale: Designing a Self-Sufficient Loader | antoineds | [Read More](https://medium.com/p/da8799a56ada) |
+| Wed, 14 May 2025 16:01:39 GMT | Part 3: Lateral Movement with Python & Impacket | Maxwell Cross | [Read More](https://medium.com/p/8c66fae6f8ae) |
+| Wed, 14 May 2025 15:59:32 GMT | What Is Expected from the Role of an Event Steward in the UK? | waeventservices.co.uk/ | [Read More](https://medium.com/p/49d3a9f99911) |
+| Wed, 14 May 2025 15:55:09 GMT | From Call Center to Data Consultant: My Journey Through Data, Leadership, and Self-Belief | Chris Gambill - Gambill Data | [Read More](https://medium.com/p/f6ceb1a2a9be) |
+| Wed, 14 May 2025 15:52:49 GMT | CTF Day(2) | Ahmed Narmer | [Read More](https://medium.com/p/f405f7d0449d) |
+| Wed, 14 May 2025 15:50:39 GMT | CTF Day(2) | Ahmed Narmer | [Read More](https://medium.com/p/e74e71823484) |
+| Wed, 14 May 2025 15:49:23 GMT | Publishing your story with allbyhunter | kerstan | [Read More](https://medium.com/p/a121696ff60d) |
+| Wed, 14 May 2025 15:48:42 GMT | Sitting Ducks : The Dangerous Illusion of DuckDuckGo & Browser Privacy | SudoChef | [Read More](https://medium.com/p/bf8af60e3095) |
+| Wed, 14 May 2025 15:46:56 GMT | Explosive Mobius Token Exploit: The Bug That Minted Quadrillions of MBU | Evgenii | [Read More](https://medium.com/p/a2993383fa68) |
+| Wed, 14 May 2025 15:38:54 GMT | How Can You Prevent Viruses and Malicious Code? A Practical Guide for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/fd21cf7a726e) |
 | Wed, 14 May 2025 15:17:46 GMT | Building a Real-Time API Token Leak Detection and Response System Using Python | Pranav Dixit | [Read More](https://medium.com/p/6d14b887294f) |
 | Wed, 14 May 2025 15:10:28 GMT | Advanced Container Supply Chain Security: Implementing Zero-Trust Architecture with AWS Services | Tolgahan Demirbaş | [Read More](https://medium.com/p/52a11e0f958c) |
 | Wed, 14 May 2025 15:08:54 GMT | Temel Güvenlik Duvarı (Firewall) Kavramı | FatihUYSAL | [Read More](https://medium.com/p/e3d049714534) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 10:27:35 GMT | PKCE: Adding a Secret Handshake to Your Login Flow | Said Lfagrouche | [Read More](https://medium.com/p/c206ade9403b) |
 | Wed, 14 May 2025 10:18:06 GMT | Writing Pentest Reports - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/e01cb639583f) |
 | Wed, 14 May 2025 10:16:26 GMT | Best End-user Support Services in India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/476c5f022938) |
-| Wed, 14 May 2025 10:13:06 GMT | Top Cybersecurity Blogs to Follow in 2025 | CyberAly | [Read More](https://medium.com/p/611807097a4f) |
-| Wed, 14 May 2025 10:11:50 GMT | What are Attacksuit and Hashtab plugins? | Mert Kurtulmuş | [Read More](https://medium.com/p/f9d7b025470f) |
-| Wed, 14 May 2025 10:02:57 GMT | Must-Have DevOps Engineer Skills to Thrive in Today’s IT World | cyberwingITSolution | [Read More](https://medium.com/p/ca0dd133e14d) |
-| Wed, 14 May 2025 10:02:52 GMT | The Night Ukraine Went Dark: Inside the Most Devastating Cyber Attack in History | CyDhaal | [Read More](https://medium.com/p/e8e04302550e) |
-| Wed, 14 May 2025 10:02:40 GMT | RAT (Remote Access Trojan) Detection and Removal Methods | Esra Kayhan | [Read More](https://medium.com/p/3526684d25f4) |
-| Wed, 14 May 2025 10:02:33 GMT | The Vibe Shift in Security | Solo Recon | [Read More](https://medium.com/p/e993d74e4163) |
-| Wed, 14 May 2025 10:02:32 GMT | Software Updates and Security: The Importance of Automatic Update Systems | Esra Kayhan | [Read More](https://medium.com/p/10da1a369b0a) |
-| Wed, 14 May 2025 10:01:36 GMT | Network Security Series — Part 3 | M.Magdy | [Read More](https://medium.com/p/14927c45df93) |
-| Wed, 14 May 2025 09:50:53 GMT | CyberPod AI: Autonomous Data Intelligence in UAE | Tekhabeeb | [Read More](https://medium.com/p/711ba844b4b8) |
-| Wed, 14 May 2025 09:48:28 GMT | How Inconsistent Input Handling and Poor Email Validation Can Lead to Admin Access | Bash Overflow | [Read More](https://medium.com/p/b64b25413b82) |
-| Wed, 14 May 2025 09:44:52 GMT | Pilipinas, pinag-igting ang Regional Cyber Cooperation sa ASEAN Regional Forum | Andrei Avendaño | [Read More](https://medium.com/p/f6adf5dfbfcd) |
-| Wed, 14 May 2025 09:33:55 GMT | Inside the SOC: Fun, Fire Drills, and False Positives
-by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/bfca946553be) |
-| Wed, 14 May 2025 09:33:44 GMT | Training the Next Generation of Space Cybersecurity Experts: A Strategic Investment in Orbital… | CyBlog | [Read More](https://medium.com/p/5594593c3af2) |
-| Wed, 14 May 2025 09:28:29 GMT | Best DevOps Training in Lahore for Quick Career Growth | cyberwingITSolution | [Read More](https://medium.com/p/faf3d60e9853) |
