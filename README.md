@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 15:10:28 GMT | Advanced Container Supply Chain Security: Implementing Zero-Trust Architecture with AWS Services | Tolgahan Demirbaş | [Read More](https://medium.com/p/52a11e0f958c) |
+| Wed, 14 May 2025 15:08:54 GMT | Temel Güvenlik Duvarı (Firewall) Kavramı | FatihUYSAL | [Read More](https://medium.com/p/e3d049714534) |
+| Wed, 14 May 2025 14:54:20 GMT | Have you Ever Being Scammed by a Friend Before? | Chy Writes | [Read More](https://medium.com/p/9c58540bfdf7) |
+| Wed, 14 May 2025 14:52:56 GMT | Day 35: Network Protocols and Ports : How the Internet Really Talks | Agarwaldaksh | [Read More](https://medium.com/p/fad9bf990c7d) |
+| Wed, 14 May 2025 14:47:23 GMT | Open-Source SOC Automation Lab | CyberRanger Labs | [Read More](https://medium.com/p/19300d41b1af) |
 | Wed, 14 May 2025 14:43:50 GMT | IDOR: When One Tiny Change Exposes Everything | SACHIN PV | [Read More](https://medium.com/p/c54b6750d2fd) |
+| Wed, 14 May 2025 14:42:27 GMT | Open-Source SOC Lab | CyberRanger Labs | [Read More](https://medium.com/p/80111506c83e) |
+| Wed, 14 May 2025 14:40:03 GMT | Siber Güvenlik Nedir? Temel Kavramlar ve Önlemler | FatihUYSAL | [Read More](https://medium.com/p/6e093006b6e7) |
+| Wed, 14 May 2025 14:32:32 GMT | Many hats of (digital) signatures: Past, Present, and KERI | Michal Pietrus | [Read More](https://medium.com/p/ad75ae8d16ca) |
 | Wed, 14 May 2025 14:30:07 GMT | Your Guide to AI Cybersecurity Trends in 2025: It’s a Wild Ride! | Keith Foster | [Read More](https://medium.com/p/a1741f59664d) |
 | Wed, 14 May 2025 14:29:52 GMT | Qradar All-In-One Mimari Kurulumu -1 | ibrahim KADIKIRAN | [Read More](https://medium.com/p/2ef19218966d) |
 | Wed, 14 May 2025 14:26:25 GMT | Plus Addressing in Microsoft 365: A Simple Trick That Boosts Email Security | Gregg Westgate | [Read More](https://medium.com/p/cafd57da4681) |
@@ -105,11 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 09:33:44 GMT | Training the Next Generation of Space Cybersecurity Experts: A Strategic Investment in Orbital… | CyBlog | [Read More](https://medium.com/p/5594593c3af2) |
 | Wed, 14 May 2025 09:28:29 GMT | Best DevOps Training in Lahore for Quick Career Growth | cyberwingITSolution | [Read More](https://medium.com/p/faf3d60e9853) |
 | Wed, 14 May 2025 09:23:59 GMT | The KPIs That Reveal True Protection | SecOps | [Read More](https://medium.com/p/5bd7d64255cd) |
-| Wed, 14 May 2025 09:11:48 GMT | How to Analyze Ransomware with ANY.RUN & Ghidra | Motasem Hamdan | [Read More](https://medium.com/p/f8c4c7966d9e) |
-| Wed, 14 May 2025 09:11:21 GMT | Microsoft Warns: New AD CS Vulnerability Can Let Hackers Crash Systems Over Network | @TheCyberLens | [Read More](https://medium.com/p/7d59eaf097fb) |
-| Wed, 14 May 2025 09:02:22 GMT | Microsoft Fixes Global BSOD Error: Here’s What Happened and How Infoziant Helps You Avoid It | Infoziant | [Read More](https://medium.com/p/a5aa7150616e) |
-| Wed, 14 May 2025 08:59:40 GMT | Unwavering Foundations: Security and Reliability in an AI-Driven Society | Ryan Chung | [Read More](https://medium.com/p/a4a86cc81075) |
-| Wed, 14 May 2025 08:58:40 GMT | Vulnerability — The Courage to Be Real | Jane Phipps | [Read More](https://medium.com/p/976d12c80877) |
-| Wed, 14 May 2025 08:56:43 GMT | Hackers Are Weaponizing KeePass: What You Need to Know and How to Stay Safe | cybrNK | [Read More](https://medium.com/p/fecae7988e73) |
-| Wed, 14 May 2025 08:54:38 GMT | Network Defense Approaches | Victor Kipkemboi | [Read More](https://medium.com/p/64960326953c) |
-| Wed, 14 May 2025 08:53:08 GMT | How Can I Withdraw My Lost Investment From Mintos? | Milano | [Read More](https://medium.com/p/b54719fe2cb1) |
