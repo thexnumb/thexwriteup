@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 13:27:23 GMT | Ditch the Patchwork of Breach-Alert Tools: Monitor Every Credential Leak from One Place with… | Alexandre Vandamme | [Read More](https://medium.com/p/0b7f6225ecf8) |
+| Wed, 14 May 2025 13:24:21 GMT | End Recon Tool Overload: Centralise Enumeration & Scanning with SubDomainRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/ae387d97cc6c) |
+| Wed, 14 May 2025 13:21:57 GMT | Software Inventory with osquery: A Building Block for Security Auditing | Isla Arshad | [Read More](https://medium.com/p/30da4ff0b8cf) |
+| Wed, 14 May 2025 13:19:56 GMT | SQL Server 2012 DATA MASKING | Murat Culum | [Read More](https://medium.com/p/c0704ca69d9b) |
+| Wed, 14 May 2025 13:18:13 GMT | Inside the Mind of an Ethical Hacker: Uncovering Database Vulnerabilities with Kali Linux. | eL Njas!™ | [Read More](https://medium.com/p/9be14997a762) |
+| Wed, 14 May 2025 13:15:19 GMT | Exploring Top Linux Careers and How to Get Started in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/1511404398c7) |
+| Wed, 14 May 2025 13:11:25 GMT | PRIVACY: Is it a Myth? or just Perspective? | Senjaputrasndr | [Read More](https://medium.com/p/be94e727ff28) |
+| Wed, 14 May 2025 13:09:39 GMT | The Coming Wave: Cybernetic Brain Implants | Dylan Rosario | [Read More](https://medium.com/p/6ac299849226) |
+| Wed, 14 May 2025 13:05:01 GMT | How do we stay safe on the internet? A brief guide. | Christopher Morris | [Read More](https://medium.com/p/6e6aa664f7d4) |
+| Wed, 14 May 2025 13:02:01 GMT | How VAPT Helps Meet HIPAA, PCI-DSS, and GDPR Requirements | West Advanced Technologies Inc | [Read More](https://medium.com/p/4b92336b4ead) |
+| Wed, 14 May 2025 13:01:42 GMT | Dissecting North Korea’s TA406 Campaign Against Ukraine: Strategic Cyber Espionage | Nexsecura | [Read More](https://medium.com/p/4185a9420b4c) |
+| Wed, 14 May 2025 13:01:38 GMT | CTI Without Context Is Just Noise — Meet Peris.ai Indra | Peris.ai Cybersecurity | [Read More](https://medium.com/p/075f5c8d55c0) |
+| Wed, 14 May 2025 13:00:03 GMT | MITRE Technique and Detection Opportunities — DarkCloud Stealer: Comprehensive Analysis of a New… | MITRE Doggy | [Read More](https://medium.com/p/8466103d8e52) |
+| Wed, 14 May 2025 12:57:45 GMT | The Link Between Cyber Security Awareness and Data Privacy | SecDesk | [Read More](https://medium.com/p/508f8b8db0cd) |
+| Wed, 14 May 2025 12:52:35 GMT | Why Hacking is the Future of War | Ferid Brković | [Read More](https://medium.com/p/c604fe0974d0) |
 | Wed, 14 May 2025 12:32:37 GMT | My APIsec University ASCP Exam Journey: A Detailed Review | Waris Damkham | [Read More](https://medium.com/p/7d17f26231ba) |
 | Wed, 14 May 2025 12:31:46 GMT | Top Fintech App Security Solutions to Prevent Fraud and Data Breaches | Hazel Watson | [Read More](https://medium.com/p/0c7a075be596) |
+| Wed, 14 May 2025 12:30:11 GMT | Automating AWS OpenSearch Snapshots with IAM Roles (No Access Keys!) | Mochamad Gufron | [Read More](https://medium.com/p/5679a9795c46) |
 | Wed, 14 May 2025 12:29:27 GMT | One-Time Tests Are Out: Why Continuous Penetration Testing Services Are the Future | Siemba | [Read More](https://medium.com/p/c7ea036ec745) |
 | Wed, 14 May 2025 12:26:08 GMT | Are we witnessing a change in the authorities policy all in related with cyber criminals and hack… | Martin Abramov | [Read More](https://medium.com/p/4f23cf085e7c) |
 | Wed, 14 May 2025 12:22:31 GMT | Why Sec+ is a good certification for beginner | Laiba Waseem | [Read More](https://medium.com/p/6ac1247887d1) |
@@ -97,19 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 07:54:48 GMT | Mobile App Pentesting – Part 1: What, Why, and Where to Begin | Tanzeem Khatri | [Read More](https://medium.com/p/dcf2a2f7c7cb) |
 | Wed, 14 May 2025 07:49:57 GMT | Cybersecurity Alert: Hackers Exploit Zoom’s Remote Control Feature | Ayush | [Read More](https://medium.com/p/fea9383d0dc4) |
 | Wed, 14 May 2025 07:45:58 GMT | Türkiye-Linked Hackers Exploit Output Messenger Zero-Day to Deploy Golang Backdoors on Kurdish… | CyDhaal | [Read More](https://medium.com/p/8c801ebd5ee2) |
-| Wed, 14 May 2025 07:36:40 GMT | Mastering Azure WAF: Real-world Lessons from Our Enterprise Implementation | Sridhar | [Read More](https://medium.com/p/b49071ec1601) |
-| Wed, 14 May 2025 07:31:10 GMT | [CTF SERIES] — WEB EXPLOITATION : Lỗ hổng Local File Inclusion | Andrich HA | [Read More](https://medium.com/p/b11e278f66c4) |
-| Wed, 14 May 2025 07:27:44 GMT | PicoCTF — Forensics RED Challenge | Naufal | [Read More](https://medium.com/p/4d7f96b48c94) |
-| Wed, 14 May 2025 07:24:50 GMT | Top 5 API Security Testing Companies in USA | OptiSol Business Solutions | [Read More](https://medium.com/p/ad833f0b7f3f) |
-| Wed, 14 May 2025 07:22:57 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/16a1a5de597a) |
-| Wed, 14 May 2025 07:19:58 GMT | ประจำวันพุธที่ 14 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/5c43095b0db0) |
-| Wed, 14 May 2025 07:19:17 GMT | Understanding SSL/TLS | TheCodeAlchemist | [Read More](https://medium.com/p/c54cb9cdb4c7) |
-| Wed, 14 May 2025 07:17:01 GMT | Why Secure Code Review Still Matters More Than Ever in 2025 | Aryansaha | [Read More](https://medium.com/p/c2be8d08bccf) |
-| Wed, 14 May 2025 07:14:51 GMT | What Does a SOC Analyst Do? Roles, Responsibilities, and Career Path | Ripunjay_Singh | [Read More](https://medium.com/p/2ecefaf4a6e5) |
-| Wed, 14 May 2025 07:14:50 GMT | The Role of Managed Security Services in Threat Mitigation | IPSpecialist | [Read More](https://medium.com/p/5d0088aaa970) |
-| Wed, 14 May 2025 07:06:53 GMT | Empowering Growth with SME Business Consulting Services in Australia | Olivia Smith | [Read More](https://medium.com/p/2439f2da044a) |
-| Wed, 14 May 2025 07:04:54 GMT | The Daily Tech Digest: 14 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/458c9abdb4f0) |
-| Wed, 14 May 2025 07:04:31 GMT | Top 5 Cybersecurity Courses After 12th | cyber security Updates | [Read More](https://medium.com/p/7dc9e0ef2a51) |
-| Wed, 14 May 2025 07:02:43 GMT | ️ How to Practice Ethical Hacking Legally (Without Going to Jail) | Ram Nikhil Meka | [Read More](https://medium.com/p/3f629a2c03d7) |
-| Wed, 14 May 2025 07:02:38 GMT | Locked Doors and Digital Keys: Navigating Cybersecurity Internal Controls Under Singapore’s CSA… | Rt Compliance | [Read More](https://medium.com/p/3d107835631f) |
-| Wed, 14 May 2025 07:00:43 GMT | NIS 2 Directive: Why Businesses Should Act Now and How to Implement It Effectively | Infralovers GmbH | [Read More](https://medium.com/p/1a819036b8b5) |
