@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 23:08:56 GMT | Wisprgram 2.0 is coming! | Joseph Goins | [Read More](https://medium.com/p/84f2be104309) |
+| Wed, 14 May 2025 23:04:40 GMT | Introduction to AWS Pentesting [Challenge Lab] | Jordan (Bird) | [Read More](https://medium.com/p/f5848fd51270) |
+| Wed, 14 May 2025 23:03:43 GMT | Outsourcing Cybersecurity with Managed IT Services: 5 Ways Your Business Stays Safer | Zeta Sky | [Read More](https://medium.com/p/de7194c5b363) |
+| Wed, 14 May 2025 23:03:16 GMT | Introduction | Jordan (Bird) | [Read More](https://medium.com/p/11511c8f1813) |
+| Wed, 14 May 2025 23:01:51 GMT | kita usahakan rumah itu (2019–2022) | heidi | [Read More](https://medium.com/p/53470dc626e8) |
+| Wed, 14 May 2025 22:44:27 GMT | Is the Children’s Online Privacy Protection Act effective? | Savvy Cyber Kids | [Read More](https://medium.com/p/01b7f0a9b219) |
+| Wed, 14 May 2025 22:38:09 GMT | How can cyberbullying affect me? | Savvy Cyber Kids | [Read More](https://medium.com/p/cc597630152d) |
+| Wed, 14 May 2025 22:34:02 GMT | How to Choose the Best Security Question Answers | Savvy Cyber Kids | [Read More](https://medium.com/p/203935627d6e) |
+| Wed, 14 May 2025 22:33:30 GMT | Network Security in Focus: Challenges, Solutions, and Best Practices | Ocean State Cyber | [Read More](https://medium.com/p/6f827b22d057) |
 | Wed, 14 May 2025 22:31:37 GMT | This One Grammar Mistake Is Why Your Board Doesn’t Trust Your Security Reports | Lee Barney | [Read More](https://medium.com/p/805bd01dda04) |
+| Wed, 14 May 2025 22:26:56 GMT | Teacher’s triple archetype problem | Niklas Saari | [Read More](https://medium.com/p/0c47415af152) |
 | Wed, 14 May 2025 22:21:03 GMT | Google is Using AI On Your Device to Catch Scams Before They Catch You | Cyber-AppSec | [Read More](https://medium.com/p/87ffe0963831) |
 | Wed, 14 May 2025 22:18:44 GMT | Underdressed and Trying My Best | Danielle O'Neill | [Read More](https://medium.com/p/ca20882aedc8) |
 | Wed, 14 May 2025 22:17:52 GMT | Jailbreak Detection Bypass using Shadow | RRespxwnss | [Read More](https://medium.com/p/64ccecb0d6be) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 16:38:49 GMT | Hack The Box — UnderPass (Linux, Easy) - Walkthrough | 9t0wl | [Read More](https://medium.com/p/4e2dfeb7321f) |
 | Wed, 14 May 2025 16:32:30 GMT | Privacidade e Ética em Algoritmos de Machine Learning: A Linha Tênue entre Personalização e… | Leonardo Serafim | [Read More](https://medium.com/p/1f66d29cc86c) |
 | Wed, 14 May 2025 16:27:33 GMT | Seni Menebak Password: Tutorial Brute Force dengan Burp Suite | Kelvinprayoga | [Read More](https://medium.com/p/37c04132ff68) |
-| Wed, 14 May 2025 16:20:03 GMT | The digital witness | Aliou Ba | [Read More](https://medium.com/p/4c827d69e721) |
-| Wed, 14 May 2025 16:17:56 GMT | How start a cybersecurity career in trivandrum :which is better? | abin p jpy | [Read More](https://medium.com/p/39cee8bf81b3) |
-| Wed, 14 May 2025 16:16:27 GMT | Secrets management is leveling up | Amber Britton | [Read More](https://medium.com/p/4006a2bb1fc4) |
-| Wed, 14 May 2025 16:08:40 GMT | The Crypto Wallet Vulnerability That Went Undetected for Over Six Years | John Sessford | [Read More](https://medium.com/p/36cd52cb600c) |
-| Wed, 14 May 2025 16:08:32 GMT | How a Firewall Controls Your Data Flow for Enhanced Network Security | Jazz Cyber Shield | [Read More](https://medium.com/p/1be554da14cc) |
-| Wed, 14 May 2025 16:06:40 GMT | TryHackMe - Writing Pentest Reports - WriteUp | Axoloth | [Read More](https://medium.com/p/bcf21d6ccdaf) |
-| Wed, 14 May 2025 16:05:49 GMT | macOS DYLIB Injection at Scale: Designing a Self-Sufficient Loader | antoineds | [Read More](https://medium.com/p/da8799a56ada) |
-| Wed, 14 May 2025 16:01:39 GMT | Part 3: Lateral Movement with Python & Impacket | Maxwell Cross | [Read More](https://medium.com/p/8c66fae6f8ae) |
-| Wed, 14 May 2025 15:59:32 GMT | What Is Expected from the Role of an Event Steward in the UK? | waeventservices.co.uk/ | [Read More](https://medium.com/p/49d3a9f99911) |
-| Wed, 14 May 2025 15:55:09 GMT | From Call Center to Data Consultant: My Journey Through Data, Leadership, and Self-Belief | Chris Gambill - Gambill Data | [Read More](https://medium.com/p/f6ceb1a2a9be) |
