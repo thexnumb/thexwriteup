@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 21:34:15 GMT | eJPT Zero to Hero: Enumeration CTF | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/cea9ed488b61) |
+| Wed, 14 May 2025 21:32:51 GMT | Ethical Hacking Learning Path | 0xBEN | [Read More](https://medium.com/p/5e3252f7c9de) |
+| Wed, 14 May 2025 21:20:57 GMT | New Cybersecurity Tool That Might Just Save You From the Next Scam | Alvar Laigna | [Read More](https://medium.com/p/b278e8b65348) |
+| Wed, 14 May 2025 21:11:38 GMT | Beginner’s Guide to Protecting Your Privacy Online in 2025 | Mike Padrick | [Read More](https://medium.com/p/f075b0879b1b) |
+| Wed, 14 May 2025 21:08:28 GMT | Announcement Letter And Untimely Welcoming | Courtny Roderick | [Read More](https://medium.com/p/537b9dd9420d) |
 | Wed, 14 May 2025 21:06:34 GMT | Breaking the Rules: Deleting Confirmed Organizations Through a Backend Flaw | cyberpro151 | [Read More](https://medium.com/p/525dc867841c) |
 | Wed, 14 May 2025 21:03:21 GMT | APT28 Inception Theory . TryHackMe Walkthrough — Red Team — Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/681b3db08072) |
 | Wed, 14 May 2025 21:03:04 GMT | Building a Cyber-Resilient Business: Key Measures to Take | Market Daily | [Read More](https://medium.com/p/bc24878d148e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 14:32:32 GMT | Many hats of (digital) signatures: Past, Present, and KERI | Michal Pietrus | [Read More](https://medium.com/p/ad75ae8d16ca) |
 | Wed, 14 May 2025 14:30:07 GMT | Your Guide to AI Cybersecurity Trends in 2025: It’s a Wild Ride! | Keith Foster | [Read More](https://medium.com/p/a1741f59664d) |
 | Wed, 14 May 2025 14:29:52 GMT | Qradar All-In-One Mimari Kurulumu -1 | ibrahim KADIKIRAN | [Read More](https://medium.com/p/2ef19218966d) |
-| Wed, 14 May 2025 14:26:25 GMT | Plus Addressing in Microsoft 365: A Simple Trick That Boosts Email Security | Gregg Westgate | [Read More](https://medium.com/p/cafd57da4681) |
-| Wed, 14 May 2025 14:20:36 GMT | Three Pillars of Threat Intelligence: Kill Chain, MITRE ATT&CK, and the Diamond Model | Ali Ardal | [Read More](https://medium.com/p/7505315bbec5) |
-| Wed, 14 May 2025 14:19:53 GMT | Nmap Scripting Engine (NSE): The Hidden Superpower of Nmap You Must Learn | Vijay Kumar Gupta | [Read More](https://medium.com/p/ca75b085de3d) |
-| Wed, 14 May 2025 14:15:43 GMT | 5 Ways to Protect Your Company from Ransomware in 2025 | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/34123995bef2) |
-| Wed, 14 May 2025 14:13:14 GMT | Introducing N0aziXss Origin Recon: The Ultimate ASN & Origin Detection Tool | N0aziXss | [Read More](https://medium.com/p/94157afa4a29) |
