@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 18:30:00 GMT | SogoTrade Data Breach: What Affected Customers Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/3fc23d16e7f8) |
+| Wed, 14 May 2025 18:29:44 GMT | Browser Extensions: The Trojan Horses We Invite Ourselves | TheCyberSalad | [Read More](https://medium.com/p/816c11c13d72) |
+| Wed, 14 May 2025 18:29:12 GMT | Expose & Explore: Discover misconfigured service protocols and ports using Linux | K O M A L | [Read More](https://medium.com/p/72394ee09023) |
 | Wed, 14 May 2025 18:25:55 GMT | Top 5 MUST HAVE Anker Accessories to BOOST your productivity in the office (2025) | Blake Patka | [Read More](https://medium.com/p/d9374e3e9b95) |
+| Wed, 14 May 2025 18:25:29 GMT | What’s the Difference Between Malware and Ransomware? | SafeAeon Inc. | [Read More](https://medium.com/p/ab0fb2983177) |
+| Wed, 14 May 2025 18:23:27 GMT | Mobil Uygulama Güvenliği 101: Mod APK’lar, Araçlar ve Teknik Detaylar | Güven Ada | [Read More](https://medium.com/p/41e2357026c6) |
 | Wed, 14 May 2025 18:13:31 GMT | AI Impersonators: The Strangest Cybersecurity Crisis of 2025 | Noel | [Read More](https://medium.com/p/9a72eb59588e) |
 | Wed, 14 May 2025 18:12:50 GMT | $800 Bounty — Web Cache Deception in Shopify | Monika sharma | [Read More](https://medium.com/p/c8507c2d99e5) |
 | Wed, 14 May 2025 18:12:01 GMT | Different Versions and Differences in Operating Systems ( A Cybersecurity Perspective) | Mazhar Imran | [Read More](https://medium.com/p/66ed272fbbca) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 13:05:01 GMT | How do we stay safe on the internet? A brief guide. | Christopher Morris | [Read More](https://medium.com/p/6e6aa664f7d4) |
 | Wed, 14 May 2025 13:02:01 GMT | How VAPT Helps Meet HIPAA, PCI-DSS, and GDPR Requirements | West Advanced Technologies Inc | [Read More](https://medium.com/p/4b92336b4ead) |
 | Wed, 14 May 2025 13:01:42 GMT | Dissecting North Korea’s TA406 Campaign Against Ukraine: Strategic Cyber Espionage | Nexsecura | [Read More](https://medium.com/p/4185a9420b4c) |
-| Wed, 14 May 2025 13:01:38 GMT | CTI Without Context Is Just Noise — Meet Peris.ai Indra | Peris.ai Cybersecurity | [Read More](https://medium.com/p/075f5c8d55c0) |
-| Wed, 14 May 2025 13:00:03 GMT | MITRE Technique and Detection Opportunities — DarkCloud Stealer: Comprehensive Analysis of a New… | MITRE Doggy | [Read More](https://medium.com/p/8466103d8e52) |
-| Wed, 14 May 2025 12:57:45 GMT | The Link Between Cyber Security Awareness and Data Privacy | SecDesk | [Read More](https://medium.com/p/508f8b8db0cd) |
-| Wed, 14 May 2025 12:52:35 GMT | Why Hacking is the Future of War | Ferid Brković | [Read More](https://medium.com/p/c604fe0974d0) |
-| Wed, 14 May 2025 12:32:37 GMT | My APIsec University ASCP Exam Journey: A Detailed Review | Waris Damkham | [Read More](https://medium.com/p/7d17f26231ba) |
