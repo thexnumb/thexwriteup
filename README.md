@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 20:08:31 GMT | After the Fire: Tending the Embers Within | Firas Alragom | [Read More](https://medium.com/p/c4f9148f3276) |
+| Wed, 14 May 2025 20:01:46 GMT | China’s Army Of Hackers | Shubhransh Rai | [Read More](https://medium.com/p/0dea21e372d7) |
+| Wed, 14 May 2025 19:49:04 GMT | Tobiloba Aramide Ogundiyan Secrets to Tech Success Unveiled | Tobiloba Aramide Ogundiyan | [Read More](https://medium.com/p/3b8df517097b) |
+| Wed, 14 May 2025 19:46:32 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/2634bc820985) |
 | Wed, 14 May 2025 19:35:05 GMT | XSS Attacks: What They Are and How to Protect Your Website | Akshay Chauhan | [Read More](https://medium.com/p/14b5dbd1888a) |
 | Wed, 14 May 2025 19:33:31 GMT | How I’m Building a Tech Hustle While Studying Cybersecurity in Nigeria | Russell - Gadget Hustler | [Read More](https://medium.com/p/bde611165a27) |
 | Wed, 14 May 2025 19:26:45 GMT | The Technical Debt Trap: A Strategic Framework for Enterprise IT Leaders | Azzeddine Amiar | [Read More](https://medium.com/p/6fca49078512) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 13:37:13 GMT | Healthcare Employee Security Awareness: Best Practices for Securing Health Data | inVerita | [Read More](https://medium.com/p/2bed1eae2d3b) |
 | Wed, 14 May 2025 13:36:44 GMT | Inside the Mind of a Hacker: How OSINT Becomes a Powerful Cyber Weapon in 2025 | Austin Mathew | [Read More](https://medium.com/p/9c19b4b23eb5) |
 | Wed, 14 May 2025 13:36:39 GMT | Too Many Certs, No Clear Path — Here’s What I Did Instead | Luispuello | [Read More](https://medium.com/p/5a807461f85e) |
-| Wed, 14 May 2025 13:27:23 GMT | Ditch the Patchwork of Breach-Alert Tools: Monitor Every Credential Leak from One Place with… | Alexandre Vandamme | [Read More](https://medium.com/p/0b7f6225ecf8) |
-| Wed, 14 May 2025 13:27:16 GMT | About Me | Muhammad Shakib | [Read More](https://medium.com/p/673842903ff2) |
-| Wed, 14 May 2025 13:24:21 GMT | End Recon Tool Overload: Centralise Enumeration & Scanning with SubDomainRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/ae387d97cc6c) |
-| Wed, 14 May 2025 13:21:57 GMT | Software Inventory with osquery: A Building Block for Security Auditing | Isla Arshad | [Read More](https://medium.com/p/30da4ff0b8cf) |
