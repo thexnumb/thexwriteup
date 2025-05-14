@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 18:25:55 GMT | Top 5 MUST HAVE Anker Accessories to BOOST your productivity in the office (2025) | Blake Patka | [Read More](https://medium.com/p/d9374e3e9b95) |
+| Wed, 14 May 2025 18:13:31 GMT | AI Impersonators: The Strangest Cybersecurity Crisis of 2025 | Noel | [Read More](https://medium.com/p/9a72eb59588e) |
+| Wed, 14 May 2025 18:12:50 GMT | $800 Bounty — Web Cache Deception in Shopify | Monika sharma | [Read More](https://medium.com/p/c8507c2d99e5) |
+| Wed, 14 May 2025 18:12:01 GMT | Different Versions and Differences in Operating Systems ( A Cybersecurity Perspective) | Mazhar Imran | [Read More](https://medium.com/p/66ed272fbbca) |
+| Wed, 14 May 2025 18:08:33 GMT | ✈️ Aviation Cybersecurity: The Hidden War Above the Clouds ️ | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/8d222e39a758) |
+| Wed, 14 May 2025 18:06:39 GMT | CJP: Adres IP. Czy warto sprawdzać? To zależy… | Jakub Kowalski Edu | [Read More](https://medium.com/p/f99bd7c9225d) |
+| Wed, 14 May 2025 17:57:53 GMT | HTB Cascade Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/b50e12eac9a9) |
+| Wed, 14 May 2025 17:57:49 GMT | TryHackMe SOC Simulator Case Investigation and Review | Bob Malin | [Read More](https://medium.com/p/a61cf081c6ac) |
+| Wed, 14 May 2025 17:56:44 GMT | How I Use Bash Scripts to Save Time and Earn More as a Linux Freelancer | Faruk Ahmed | [Read More](https://medium.com/p/959f5d31474e) |
+| Wed, 14 May 2025 17:54:51 GMT | Why 2iResourcing Is Canada’s Top IT Recruitment Company in 2025 | 2iResourcing | [Read More](https://medium.com/p/24e7e5001646) |
+| Wed, 14 May 2025 17:54:24 GMT | The Photo Can Reveal a Lot: TheySeeYourPhotos.com Is a Wake-Up Call We Didn’t Know We Needed | cybrNK | [Read More](https://medium.com/p/fe196d24750a) |
+| Wed, 14 May 2025 17:51:05 GMT | How to Mitigate Cybersecurity Threats and Strengthen Your Business Defense | SafeAeon Inc. | [Read More](https://medium.com/p/59eaeedc1ef5) |
+| Wed, 14 May 2025 17:44:39 GMT | Bug Bounty Tips: From Zero to First Payout | appsecwarrior | [Read More](https://medium.com/p/6bd8c9df0c48) |
+| Wed, 14 May 2025 17:42:06 GMT | Unmasking | Jonathan Mason | [Read More](https://medium.com/p/62802c787d2d) |
+| Wed, 14 May 2025 17:40:17 GMT | How to install and use B-Phish on Kali Linux. | Saviour Emmanuel | [Read More](https://medium.com/p/755f4f4f51cc) |
+| Wed, 14 May 2025 17:39:08 GMT | SOC130 — Event Log Cleared | Cyril Philipp Abajar | [Read More](https://medium.com/p/ea922e4b3cc8) |
 | Wed, 14 May 2025 17:34:35 GMT | How Disappointing My Mother Eventually Lead Me to Find Cybersecurity | Wellness in Cybersecurity | [Read More](https://medium.com/p/7ba512369bb1) |
 | Wed, 14 May 2025 17:30:39 GMT | Forex Market Overview – May 14, 2025 | TRADING NEWS | [Read More](https://medium.com/p/fc156b8d7cf9) |
 | Wed, 14 May 2025 17:19:12 GMT | ️ Navigating Linux Like a Hacker: Understanding Files, Folders, and the Terminal | Luispuello | [Read More](https://medium.com/p/c6b10e9b829d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 12:57:45 GMT | The Link Between Cyber Security Awareness and Data Privacy | SecDesk | [Read More](https://medium.com/p/508f8b8db0cd) |
 | Wed, 14 May 2025 12:52:35 GMT | Why Hacking is the Future of War | Ferid Brković | [Read More](https://medium.com/p/c604fe0974d0) |
 | Wed, 14 May 2025 12:32:37 GMT | My APIsec University ASCP Exam Journey: A Detailed Review | Waris Damkham | [Read More](https://medium.com/p/7d17f26231ba) |
-| Wed, 14 May 2025 12:31:46 GMT | Top Fintech App Security Solutions to Prevent Fraud and Data Breaches | Hazel Watson | [Read More](https://medium.com/p/0c7a075be596) |
-| Wed, 14 May 2025 12:30:11 GMT | Automating AWS OpenSearch Snapshots with IAM Roles (No Access Keys!) | Mochamad Gufron | [Read More](https://medium.com/p/5679a9795c46) |
-| Wed, 14 May 2025 12:29:27 GMT | One-Time Tests Are Out: Why Continuous Penetration Testing Services Are the Future | Siemba | [Read More](https://medium.com/p/c7ea036ec745) |
-| Wed, 14 May 2025 12:26:08 GMT | Are we witnessing a change in the authorities policy all in related with cyber criminals and hack… | Martin Abramov | [Read More](https://medium.com/p/4f23cf085e7c) |
-| Wed, 14 May 2025 12:22:31 GMT | Why Sec+ is a good certification for beginner | Laiba Waseem | [Read More](https://medium.com/p/6ac1247887d1) |
-| Wed, 14 May 2025 12:21:22 GMT | Why Ubuntu is the Secret Weapon for Cybersecurity Professionals and IT Support Teams | TireMakingBeats! | [Read More](https://medium.com/p/1b3223689646) |
-| Wed, 14 May 2025 12:10:38 GMT | Mastering Linux Containers: A Practical Intro for Ethical Hackers | Mainekdeveloper | [Read More](https://medium.com/p/0e66f8cb31fe) |
-| Wed, 14 May 2025 12:10:32 GMT | Getting Started with pwndbg (Without Getting Lost) | Tvrpism | [Read More](https://medium.com/p/a825245790af) |
-| Wed, 14 May 2025 12:00:04 GMT | LLM-Based Code Review: How We Built a System That Catches 95% of Critical Bugs | Abduldattijo | [Read More](https://medium.com/p/fda5b85b232f) |
-| Wed, 14 May 2025 11:54:56 GMT | GDPR Compliance for SaaS: What Every Founder Needs to Know | SecureSlate | [Read More](https://medium.com/p/5ee297075719) |
-| Wed, 14 May 2025 11:52:45 GMT | CTF Day(1) | Ahmed Narmer | [Read More](https://medium.com/p/c213568b8321) |
-| Wed, 14 May 2025 11:52:03 GMT | Level Up Your Cloud Security: My Playbook for DevSecOps Acceleration with AWS LZA | Pawan Sawalani | [Read More](https://medium.com/p/4da2aef619b2) |
-| Wed, 14 May 2025 11:50:13 GMT | 資訊安全對企業至關重要 | xDesign︱極致設計 | [Read More](https://medium.com/p/6c53b2c70203) |
-| Wed, 14 May 2025 11:46:32 GMT | Geopolitics tops cyber agenda as Rory Stewart and NCSC’s Paul Chichester headline Infosecurity… | Louise Rolfe | [Read More](https://medium.com/p/a00345aa02ce) |
-| Wed, 14 May 2025 11:45:40 GMT | Metaverse Cybersecurity: Safeguarding Your Virtual Environment Against Actual Threats | Itfeelsoemptywithoutm | [Read More](https://medium.com/p/6ded1a4ee687) |
-| Wed, 14 May 2025 11:45:36 GMT | Kiss the Hand That Could Crush You | Ava Sparks | [Read More](https://medium.com/p/89d8f54d1c7d) |
