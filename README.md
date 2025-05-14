@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 16:46:38 GMT | ️ How I Created a Simple Web Server on My Own Computer | Wiley Insight | [Read More](https://medium.com/p/a1ba84b3b060) |
+| Wed, 14 May 2025 16:41:47 GMT | For the longest time I have been thinking about my experiences in Data, AI, Technology and… | Kamal Distell | [Read More](https://medium.com/p/7738d6ce056a) |
+| Wed, 14 May 2025 16:41:15 GMT | HackerNote(Medium)TryHackMe Walkthrough | 3L4CKCYBR_ | [Read More](https://medium.com/p/41a7080c5046) |
+| Wed, 14 May 2025 16:40:05 GMT | Redesigning the workshop: AI-powered facilitation in Miro, FigJam, and Mural | UX.raspberry | [Read More](https://medium.com/p/84d8b3deab62) |
+| Wed, 14 May 2025 16:39:09 GMT | S-400 vs HQ-9 | Info Grind | [Read More](https://medium.com/p/2d52b698fbfa) |
+| Wed, 14 May 2025 16:38:49 GMT | Hack The Box — UnderPass (Linux, Easy) - Walkthrough | 9t0wl | [Read More](https://medium.com/p/4e2dfeb7321f) |
+| Wed, 14 May 2025 16:32:30 GMT | Privacidade e Ética em Algoritmos de Machine Learning: A Linha Tênue entre Personalização e… | Leonardo Serafim | [Read More](https://medium.com/p/1f66d29cc86c) |
+| Wed, 14 May 2025 16:27:33 GMT | Seni Menebak Password: Tutorial Brute Force dengan Burp Suite | Kelvinprayoga | [Read More](https://medium.com/p/37c04132ff68) |
+| Wed, 14 May 2025 16:20:03 GMT | The digital witness | Aliou Ba | [Read More](https://medium.com/p/4c827d69e721) |
+| Wed, 14 May 2025 16:17:56 GMT | How start a cybersecurity career in trivandrum :which is better? | abin p jpy | [Read More](https://medium.com/p/39cee8bf81b3) |
 | Wed, 14 May 2025 16:16:27 GMT | Secrets management is leveling up | Amber Britton | [Read More](https://medium.com/p/4006a2bb1fc4) |
 | Wed, 14 May 2025 16:08:40 GMT | The Crypto Wallet Vulnerability That Went Undetected for Over Six Years | John Sessford | [Read More](https://medium.com/p/36cd52cb600c) |
 | Wed, 14 May 2025 16:08:32 GMT | How a Firewall Controls Your Data Flow for Enhanced Network Security | Jazz Cyber Shield | [Read More](https://medium.com/p/1be554da14cc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 11:01:49 GMT | LetsDefend Introduction to System Security Course WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/62f0da714fd4) |
 | Wed, 14 May 2025 10:55:48 GMT | 7 Best VPN Apps For Android in 2025 | Ibrahim Mustapha | [Read More](https://medium.com/p/6cbc36f7f88a) |
 | Wed, 14 May 2025 10:52:23 GMT | Web Uygulama Güvenliğinin Temel Taşı — HTTP Güvenlik Başlıkları | Burak Akdogan | [Read More](https://medium.com/p/41e5c216b010) |
-| Wed, 14 May 2025 10:42:04 GMT | Secura security: Your Trusted Partner for Security and Housekeeping Services in Delhi NCR | securasecurty | [Read More](https://medium.com/p/7d283f85a124) |
-| Wed, 14 May 2025 10:39:29 GMT | What is Phishing-Resistant MFA? | InfosecTrain | [Read More](https://medium.com/p/b4c72941e74e) |
-| Wed, 14 May 2025 10:39:03 GMT | Can Wi-Fi Travel Through Walls? Let’s Get Real About It | TECH EMPIRE | [Read More](https://medium.com/p/956271a7ce29) |
-| Wed, 14 May 2025 10:37:29 GMT | Healthcare sector under attack by sophisticated ResolverRAT malware campaign | hide.me VPN | [Read More](https://medium.com/p/dd05e19dc5f9) |
-| Wed, 14 May 2025 10:35:45 GMT | Forging a safer digital frontier: The power of global cybersecurity cooperation | hide.me VPN | [Read More](https://medium.com/p/029de4ad5ec7) |
-| Wed, 14 May 2025 10:33:55 GMT | How Mobile Banking Trojans Target Your UPI & Banking Apps by Sai Pavan Vislavath (KIIS Intern) | KLEAP Institute of Information Security | [Read More](https://medium.com/p/4cac1c4e57db) |
-| Wed, 14 May 2025 10:27:55 GMT | COBALT: The Future of Cybersecurity Certification Starts Here | Aggelos Vogiatzis | [Read More](https://medium.com/p/15260cdfda6d) |
-| Wed, 14 May 2025 10:27:35 GMT | PKCE: Adding a Secret Handshake to Your Login Flow | Said Lfagrouche | [Read More](https://medium.com/p/c206ade9403b) |
-| Wed, 14 May 2025 10:18:06 GMT | Writing Pentest Reports - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/e01cb639583f) |
-| Wed, 14 May 2025 10:16:26 GMT | Best End-user Support Services in India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/476c5f022938) |
