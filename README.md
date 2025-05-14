@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 11:13:32 GMT | Ethical Hacking: Network Sniffing | Leroyanand | [Read More](https://medium.com/p/e870afe2e722) |
+| Wed, 14 May 2025 11:03:39 GMT | How start a cybersecurity career in trivandrum :which is better? | abin p jpy | [Read More](https://medium.com/p/82fbabbdc665) |
+| Wed, 14 May 2025 11:02:19 GMT | The Hidden Power of Data Protection Services for Business Security | Allitpros | [Read More](https://medium.com/p/215a5c55590b) |
+| Wed, 14 May 2025 11:01:49 GMT | LetsDefend Introduction to System Security Course WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/62f0da714fd4) |
+| Wed, 14 May 2025 10:55:48 GMT | 7 Best VPN Apps For Android in 2025 | Ibrahim Mustapha | [Read More](https://medium.com/p/6cbc36f7f88a) |
+| Wed, 14 May 2025 10:52:23 GMT | Web Uygulama Güvenliğinin Temel Taşı — HTTP Güvenlik Başlıkları | Burak Akdogan | [Read More](https://medium.com/p/41e5c216b010) |
 | Wed, 14 May 2025 10:42:04 GMT | Secura security: Your Trusted Partner for Security and Housekeeping Services in Delhi NCR | securasecurty | [Read More](https://medium.com/p/7d283f85a124) |
 | Wed, 14 May 2025 10:39:29 GMT | What is Phishing-Resistant MFA? | InfosecTrain | [Read More](https://medium.com/p/b4c72941e74e) |
 | Wed, 14 May 2025 10:39:03 GMT | Can Wi-Fi Travel Through Walls? Let’s Get Real About It | TECH EMPIRE | [Read More](https://medium.com/p/956271a7ce29) |
@@ -107,9 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 05:25:00 GMT | API Gateway: Most useful features | Keyur Desai | [Read More](https://medium.com/p/0918eb502605) |
 | Wed, 14 May 2025 05:24:40 GMT | AI Powered Facial Recognition is revolutionizing security in across UAE | Tekhabeeb | [Read More](https://medium.com/p/eb2435bcae8c) |
 | Wed, 14 May 2025 05:16:21 GMT | Round-the-Clock Protection with Nexasoft Infinity’s 24/7 Cybersecurity & Cloud Consulting Services | Nexasoft Infinity | [Read More](https://medium.com/p/8f8563426811) |
-| Wed, 14 May 2025 05:05:37 GMT | Do Directory Listings Still Help SEO in 2025? | ONECITY TECHNOLOGIES | [Read More](https://medium.com/p/d5a6c9443661) |
-| Wed, 14 May 2025 05:04:07 GMT | HTB Zephyr Lab Explained: Real-World Red Team Operator Strategies for OSEP | Anezaneo | [Read More](https://medium.com/p/22e250df83a2) |
-| Wed, 14 May 2025 05:02:00 GMT | I Killed a Wasp Today | Emy Quinn | [Read More](https://medium.com/p/f45aa14dbe85) |
-| Wed, 14 May 2025 05:01:23 GMT | My First Year in Bug Bounty $$$ | RivuDon | [Read More](https://medium.com/p/9c87e0b68ac4) |
-| Wed, 14 May 2025 04:59:12 GMT | Palo Alto Networks Strata Next-Gen Firewalls: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/43297b5c3d66) |
-| Wed, 14 May 2025 04:53:53 GMT | [CTF SERIES] — WEB EXPLOITATION: Lỗ hổng file upload | Andrich HA | [Read More](https://medium.com/p/50d73262a07b) |
