@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 04:35:31 GMT | JWT Exploitation: How I Forged Tokens and Took Over Accounts | Abhijeet Kumawat | [Read More](https://medium.com/p/2e7ab1cf4df8) |
+| Wed, 14 May 2025 04:32:35 GMT | Hack The Box — Cicada - WriteUp | pythonic01 | [Read More](https://medium.com/p/d7666832b13b) |
 | Wed, 14 May 2025 04:23:15 GMT | GraphQL Vulnerabilities: Sensitive Exposure & Role Bypass Admin Privileges | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/c9eb3646e7bd) |
 | Wed, 14 May 2025 04:21:43 GMT | When Regex Turns Against You: Understanding and Preventing ReDoS Attacks | Cyber T | [Read More](https://medium.com/p/c8241001e79f) |
 | Wed, 14 May 2025 04:15:43 GMT | Rethinking “Natural” Disasters: Lessons from Israel’s Recent Wildfires | Tadashi Nakasu, Ph.D. | [Read More](https://medium.com/p/9f29b186023b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 19:32:27 GMT | Securing the Distributed Workforce | RSUPPORT Blog | [Read More](https://medium.com/p/b1f3f06a9c37) |
 | Tue, 13 May 2025 19:27:35 GMT | Networking for Humans: IP Addresses, Subnets & Ports Explained Without Melting Your Brain (Part 1) | Malik Ahmad | [Read More](https://medium.com/p/7a82159022f9) |
 | Tue, 13 May 2025 19:22:39 GMT | Cringe But Lovely Enough | hernowoadin | [Read More](https://medium.com/p/c6227ab4c516) |
-| Tue, 13 May 2025 19:21:28 GMT | Passwords: Your First Line of Digital Defense | Cybersecure | [Read More](https://medium.com/p/e49117f6868b) |
-| Tue, 13 May 2025 19:16:31 GMT | Why You Should Totally Use AWS Cognito | Simple Stack | [Read More](https://medium.com/p/9a5a8976f380) |
