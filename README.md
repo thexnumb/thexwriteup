@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 23:20:26 GMT | 8 Ways IT Leaders Can Do More with Less | PhoenixDX | [Read More](https://medium.com/p/6118ee8979f7) |
+| Wed, 14 May 2025 23:11:51 GMT | Understanding Cryptography | Godwinodahak | [Read More](https://medium.com/p/6d3e60915567) |
 | Wed, 14 May 2025 23:08:56 GMT | Wisprgram 2.0 is coming! | Joseph Goins | [Read More](https://medium.com/p/84f2be104309) |
 | Wed, 14 May 2025 23:04:40 GMT | Introduction to AWS Pentesting [Challenge Lab] | Jordan (Bird) | [Read More](https://medium.com/p/f5848fd51270) |
 | Wed, 14 May 2025 23:03:43 GMT | Outsourcing Cybersecurity with Managed IT Services: 5 Ways Your Business Stays Safer | Zeta Sky | [Read More](https://medium.com/p/de7194c5b363) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 16:40:05 GMT | Redesigning the workshop: AI-powered facilitation in Miro, FigJam, and Mural | UX.raspberry | [Read More](https://medium.com/p/84d8b3deab62) |
 | Wed, 14 May 2025 16:39:09 GMT | S-400 vs HQ-9 | Info Grind | [Read More](https://medium.com/p/2d52b698fbfa) |
 | Wed, 14 May 2025 16:38:49 GMT | Hack The Box — UnderPass (Linux, Easy) - Walkthrough | 9t0wl | [Read More](https://medium.com/p/4e2dfeb7321f) |
-| Wed, 14 May 2025 16:32:30 GMT | Privacidade e Ética em Algoritmos de Machine Learning: A Linha Tênue entre Personalização e… | Leonardo Serafim | [Read More](https://medium.com/p/1f66d29cc86c) |
-| Wed, 14 May 2025 16:27:33 GMT | Seni Menebak Password: Tutorial Brute Force dengan Burp Suite | Kelvinprayoga | [Read More](https://medium.com/p/37c04132ff68) |
