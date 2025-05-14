@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 07:31:10 GMT | [CTF SERIES] — WEB EXPLOITATION : Lỗ hổng Local File Inclusion | Andrich HA | [Read More](https://medium.com/p/b11e278f66c4) |
+| Wed, 14 May 2025 07:27:44 GMT | PicoCTF — Forensics RED Challenge | Naufal | [Read More](https://medium.com/p/4d7f96b48c94) |
+| Wed, 14 May 2025 07:24:50 GMT | Top 5 API Security Testing Companies in USA | OptiSol Business Solutions | [Read More](https://medium.com/p/ad833f0b7f3f) |
+| Wed, 14 May 2025 07:22:57 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/16a1a5de597a) |
+| Wed, 14 May 2025 07:19:58 GMT | ประจำวันพุธที่ 14 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/5c43095b0db0) |
+| Wed, 14 May 2025 07:19:17 GMT | Understanding SSL/TLS | TheCodeAlchemist | [Read More](https://medium.com/p/c54cb9cdb4c7) |
 | Wed, 14 May 2025 07:17:01 GMT | Why Secure Code Review Still Matters More Than Ever in 2025 | Aryansaha | [Read More](https://medium.com/p/c2be8d08bccf) |
 | Wed, 14 May 2025 07:14:51 GMT | What Does a SOC Analyst Do? Roles, Responsibilities, and Career Path | Ripunjay_Singh | [Read More](https://medium.com/p/2ecefaf4a6e5) |
+| Wed, 14 May 2025 07:14:50 GMT | The Role of Managed Security Services in Threat Mitigation | IPSpecialist | [Read More](https://medium.com/p/5d0088aaa970) |
 | Wed, 14 May 2025 07:06:53 GMT | Empowering Growth with SME Business Consulting Services in Australia | Olivia Smith | [Read More](https://medium.com/p/2439f2da044a) |
 | Wed, 14 May 2025 07:04:54 GMT | The Daily Tech Digest: 14 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/458c9abdb4f0) |
 | Wed, 14 May 2025 07:04:31 GMT | Top 5 Cybersecurity Courses After 12th | cyber security Updates | [Read More](https://medium.com/p/7dc9e0ef2a51) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 22:16:28 GMT | Practical Steps to Prevent DNS Spoofing in Your Network | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d1d1f25c5cc) |
 | Tue, 13 May 2025 22:09:53 GMT | Basics of Patrolling and Surveillance | Visual Monitoring Solutions | [Read More](https://medium.com/p/9e2fe31636b1) |
 | Tue, 13 May 2025 22:09:44 GMT | Secrets in the Cloud: How to Secure Your Configurations Before It’s Too Late! ☁️ | Pranav Teja Garikapati | [Read More](https://medium.com/p/d753f02386e1) |
-| Tue, 13 May 2025 22:09:08 GMT | The Fallacy of the Best Product | Mauricio Giraldo | [Read More](https://medium.com/p/516ca09c7937) |
-| Tue, 13 May 2025 22:03:52 GMT | fnwn@hacking:$whoami | fnwn | [Read More](https://medium.com/p/7a8837442b2a) |
-| Tue, 13 May 2025 21:52:00 GMT | Why the Smartest People I Know Are Building Bunkers (And I Might Join Them) | E. Fatimah | [Read More](https://medium.com/p/795f9fb2ce9f) |
-| Tue, 13 May 2025 21:46:58 GMT | Introducing NetRecon: Your Advanced WHOIS & DNS Intelligence Tool | N0aziXss | [Read More](https://medium.com/p/1371b795fb71) |
-| Tue, 13 May 2025 21:46:40 GMT | CTF Dreaming - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/f3146503d5e0) |
-| Tue, 13 May 2025 21:43:13 GMT | OSWP Exam Review | Peter Sieb | [Read More](https://medium.com/p/f7965d6aab11) |
-| Tue, 13 May 2025 21:41:10 GMT | ASUS DriverHub Flaw: Hackers Could Execute Commands with Full Admin Rights | Hoplon Infosec | [Read More](https://medium.com/p/796acc140483) |
