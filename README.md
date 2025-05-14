@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 03:41:09 GMT | AI Agent Security: An Emerging Cybersecurity Challenge | whoami | [Read More](https://medium.com/p/c140b2266529) |
+| Wed, 14 May 2025 03:32:27 GMT | How Women Are Rewriting Cybersecurity’s Future | Ahmad Javed | [Read More](https://medium.com/p/98addc4bc514) |
+| Wed, 14 May 2025 03:14:31 GMT | Cursor AI Security: Deep Dive into Risk, Policy, and Practice | John Munn | [Read More](https://medium.com/p/788159a9b042) |
 | Wed, 14 May 2025 02:49:01 GMT | When Data Speaks: How Digital Forensics Solves Cyber Crimes | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/2478d579fdb6) |
 | Wed, 14 May 2025 02:45:52 GMT | Incident Response: Essential KPIs for Cybersecurity Team | MITRE Doggy | [Read More](https://medium.com/p/719fdcc8472b) |
 | Wed, 14 May 2025 02:39:28 GMT | Autonomous Systems: The Machines Are Driving ThemselvesIntroduction: The Rise of Self-Operating… | Maruti | [Read More](https://medium.com/p/551cb4fc13c1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 18:52:41 GMT | What Makes High Rise Buildings Security Different from Other Buildings? | Roger Lee | [Read More](https://medium.com/p/74ab345cc2e2) |
 | Tue, 13 May 2025 18:49:54 GMT | Laravel: Encryption with Eloquent Models (Secure Your Sensitive Data) | Alhassan Mohammed | [Read More](https://medium.com/p/eb8ad6beee99) |
 | Tue, 13 May 2025 18:45:09 GMT | Below The Surface: The Silicon-Deep Security of the Cloud | Saim Wajid | [Read More](https://medium.com/p/b6eb6f1ec5bf) |
-| Tue, 13 May 2025 18:40:51 GMT | ShadowWrite (CVE-2025–22247): The Pre-Ransomware Exploit Hiding in Your VMs | CoffeeCloud Series | [Read More](https://medium.com/p/2934a1094dff) |
-| Tue, 13 May 2025 18:36:52 GMT | Ascension Cyberattack: 435,000+ Patients Data Compromised | Hoplon Infosec | [Read More](https://medium.com/p/e4c3b6f27a68) |
-| Tue, 13 May 2025 18:35:59 GMT | Ekstensi Browser Bisa Lihat Password-mu? | Afifprasetya | [Read More](https://medium.com/p/8ab0d6d114cc) |
