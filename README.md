@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 15:17:46 GMT | Building a Real-Time API Token Leak Detection and Response System Using Python | Pranav Dixit | [Read More](https://medium.com/p/6d14b887294f) |
 | Wed, 14 May 2025 15:10:28 GMT | Advanced Container Supply Chain Security: Implementing Zero-Trust Architecture with AWS Services | Tolgahan Demirbaş | [Read More](https://medium.com/p/52a11e0f958c) |
 | Wed, 14 May 2025 15:08:54 GMT | Temel Güvenlik Duvarı (Firewall) Kavramı | FatihUYSAL | [Read More](https://medium.com/p/e3d049714534) |
 | Wed, 14 May 2025 14:54:20 GMT | Have you Ever Being Scammed by a Friend Before? | Chy Writes | [Read More](https://medium.com/p/9c58540bfdf7) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/bfca946553be) |
 | Wed, 14 May 2025 09:33:44 GMT | Training the Next Generation of Space Cybersecurity Experts: A Strategic Investment in Orbital… | CyBlog | [Read More](https://medium.com/p/5594593c3af2) |
 | Wed, 14 May 2025 09:28:29 GMT | Best DevOps Training in Lahore for Quick Career Growth | cyberwingITSolution | [Read More](https://medium.com/p/faf3d60e9853) |
-| Wed, 14 May 2025 09:23:59 GMT | The KPIs That Reveal True Protection | SecOps | [Read More](https://medium.com/p/5bd7d64255cd) |
