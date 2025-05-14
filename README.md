@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 22:31:37 GMT | This One Grammar Mistake Is Why Your Board Doesn’t Trust Your Security Reports | Lee Barney | [Read More](https://medium.com/p/805bd01dda04) |
+| Wed, 14 May 2025 22:21:03 GMT | Google is Using AI On Your Device to Catch Scams Before They Catch You | Cyber-AppSec | [Read More](https://medium.com/p/87ffe0963831) |
+| Wed, 14 May 2025 22:18:44 GMT | Underdressed and Trying My Best | Danielle O'Neill | [Read More](https://medium.com/p/ca20882aedc8) |
+| Wed, 14 May 2025 22:17:52 GMT | Jailbreak Detection Bypass using Shadow | RRespxwnss | [Read More](https://medium.com/p/64ccecb0d6be) |
+| Wed, 14 May 2025 22:16:46 GMT | 10 Essential Websites to Learn and Practice Reverse Engineering | Karthikeyan Nagaraj | [Read More](https://medium.com/p/f3d035e6301f) |
+| Wed, 14 May 2025 22:14:48 GMT | IS TORTURE THE WAY TO SECURITY? | Vanshika Kapadia | [Read More](https://medium.com/p/482365fc8840) |
 | Wed, 14 May 2025 22:03:26 GMT | Best Practices for Kubernetes Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/fb6b8783bbf7) |
 | Wed, 14 May 2025 22:01:37 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Alonso friedrich | [Read More](https://medium.com/p/ae7024c84a18) |
 | Wed, 14 May 2025 22:01:36 GMT | Post-Quantum Cryptography: Clouds on the Horizon | Postmodern Cybersecurity | [Read More](https://medium.com/p/f6c40d9e8885) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 16:01:39 GMT | Part 3: Lateral Movement with Python & Impacket | Maxwell Cross | [Read More](https://medium.com/p/8c66fae6f8ae) |
 | Wed, 14 May 2025 15:59:32 GMT | What Is Expected from the Role of an Event Steward in the UK? | waeventservices.co.uk/ | [Read More](https://medium.com/p/49d3a9f99911) |
 | Wed, 14 May 2025 15:55:09 GMT | From Call Center to Data Consultant: My Journey Through Data, Leadership, and Self-Belief | Chris Gambill - Gambill Data | [Read More](https://medium.com/p/f6ceb1a2a9be) |
-| Wed, 14 May 2025 15:52:49 GMT | CTF Day(2) | Ahmed Narmer | [Read More](https://medium.com/p/f405f7d0449d) |
-| Wed, 14 May 2025 15:50:39 GMT | CTF Day(2) | Ahmed Narmer | [Read More](https://medium.com/p/e74e71823484) |
-| Wed, 14 May 2025 15:49:23 GMT | Publishing your story with allbyhunter | kerstan | [Read More](https://medium.com/p/a121696ff60d) |
-| Wed, 14 May 2025 15:48:42 GMT | Sitting Ducks : The Dangerous Illusion of DuckDuckGo & Browser Privacy | SudoChef | [Read More](https://medium.com/p/bf8af60e3095) |
-| Wed, 14 May 2025 15:46:56 GMT | Explosive Mobius Token Exploit: The Bug That Minted Quadrillions of MBU | Evgenii | [Read More](https://medium.com/p/a2993383fa68) |
-| Wed, 14 May 2025 15:38:54 GMT | How Can You Prevent Viruses and Malicious Code? A Practical Guide for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/fd21cf7a726e) |
