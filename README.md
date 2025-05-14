@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 02:49:01 GMT | When Data Speaks: How Digital Forensics Solves Cyber Crimes | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/2478d579fdb6) |
+| Wed, 14 May 2025 02:45:52 GMT | Incident Response: Essential KPIs for Cybersecurity Team | MITRE Doggy | [Read More](https://medium.com/p/719fdcc8472b) |
+| Wed, 14 May 2025 02:39:28 GMT | Autonomous Systems: The Machines Are Driving ThemselvesIntroduction: The Rise of Self-Operating… | Maruti | [Read More](https://medium.com/p/551cb4fc13c1) |
+| Wed, 14 May 2025 02:33:26 GMT | The ultimate in security, SECURET! | SAYCOIN | [Read More](https://medium.com/p/3b60578a2e47) |
+| Wed, 14 May 2025 02:08:03 GMT | Análise Técnica da CVE-2017–9805 — Exploração da Máquina VulnHub Struts S2–052 | Henrique Ribeiro | [Read More](https://medium.com/p/539a2b9d5f89) |
+| Wed, 14 May 2025 02:00:43 GMT | Usable Encryption. Two-word PUNCHLINE? | Senjaputrasndr | [Read More](https://medium.com/p/a9ccfb001c9a) |
+| Wed, 14 May 2025 01:57:12 GMT | Agentic AI in the Hands of Cybercriminals: A Growing Concern for Wall Street | Wale Adedeji | [Read More](https://medium.com/p/1e6c6239f1bd) |
+| Wed, 14 May 2025 01:51:44 GMT | A Red Team Operation is NOT ONLY what you learned in the training | Walter Cuestas | [Read More](https://medium.com/p/cd7165dbc157) |
+| Wed, 14 May 2025 01:49:11 GMT | Serum | The YerpoMeepo | [Read More](https://medium.com/p/3db785c2baae) |
+| Wed, 14 May 2025 01:43:38 GMT | PIPL: What You Need to Know About China’s Privacy Law | Vincent Delacourt | [Read More](https://medium.com/p/51ae526f7447) |
+| Wed, 14 May 2025 01:42:02 GMT | Incident Analysis: Malicious Activity on Host 12.183.1.55! | Jonathan M. | [Read More](https://medium.com/p/cb3bf0303ae9) |
+| Wed, 14 May 2025 01:38:22 GMT | Top 8 Best Vulnerability Scanning Tools (2025 Guide) | Pawan Jaiswal | [Read More](https://medium.com/p/df3d4484c238) |
+| Wed, 14 May 2025 01:31:19 GMT | Winnipeg Security Guard’s Actions Reignite Debate on Emergency Training | Scott Hill | [Read More](https://medium.com/p/6ef994b78405) |
 | Wed, 14 May 2025 01:17:21 GMT | MCP Security: Tr-tr-tr-tricky, tricky, tricky | Mary Becken | [Read More](https://medium.com/p/07731e14ef45) |
 | Wed, 14 May 2025 01:16:46 GMT | The Red Teaming: 30-Day Challenge[30] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c04ed617c8e1) |
 | Wed, 14 May 2025 01:13:40 GMT | Basic AWS IAM Enumeration Using Pacu | innervision | [Read More](https://medium.com/p/bec9d9d102b1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 18:40:51 GMT | ShadowWrite (CVE-2025–22247): The Pre-Ransomware Exploit Hiding in Your VMs | CoffeeCloud Series | [Read More](https://medium.com/p/2934a1094dff) |
 | Tue, 13 May 2025 18:36:52 GMT | Ascension Cyberattack: 435,000+ Patients Data Compromised | Hoplon Infosec | [Read More](https://medium.com/p/e4c3b6f27a68) |
 | Tue, 13 May 2025 18:35:59 GMT | Ekstensi Browser Bisa Lihat Password-mu? | Afifprasetya | [Read More](https://medium.com/p/8ab0d6d114cc) |
-| Tue, 13 May 2025 18:35:47 GMT | Is Your Small Business Wearing Digital Pajamas in Public? | Eina Schroeder | [Read More](https://medium.com/p/fbaf362e60a7) |
-| Tue, 13 May 2025 18:34:38 GMT | Як захиститись від DDOS: практичний гайд для бекенд-розробника | Bohdan Pastukh | [Read More](https://medium.com/p/63268e92b798) |
-| Tue, 13 May 2025 18:33:23 GMT | How Insecurity Delayed My Career — But Didn’t Stop It | Luispuello | [Read More](https://medium.com/p/3f649deff9d9) |
-| Tue, 13 May 2025 18:32:27 GMT | How to Deal With Broken WordPress Sites After a Plugin Update | Shubradeb | [Read More](https://medium.com/p/fe1ca97d4e61) |
-| Tue, 13 May 2025 18:31:26 GMT | LetsDefend SOC Walkthrough - SOC 105 — Requested T.I. URL address | Tijan Hydara | [Read More](https://medium.com/p/d9901c170a5c) |
-| Tue, 13 May 2025 18:27:51 GMT | Soft on Purpose | Wavinya | [Read More](https://medium.com/p/ea788b928c47) |
-| Tue, 13 May 2025 18:26:21 GMT | CVE-2025–22247 — ShadowWrite | CoffeeCloud Series | [Read More](https://medium.com/p/4328867d6623) |
-| Tue, 13 May 2025 18:19:15 GMT | I Deployed My First Linux Machine! | Luispuello | [Read More](https://medium.com/p/f290bfd1cebe) |
-| Tue, 13 May 2025 18:17:18 GMT | The Flawless Illusion: What We Hide Behind Our Images | Riya Sharma | [Read More](https://medium.com/p/94d7292a32ee) |
-| Tue, 13 May 2025 18:14:02 GMT | This Blog Will Offend You — If You Still Think AI in Cybersecurity Is Optional | Shiven Grover | [Read More](https://medium.com/p/d7542b4a3f53) |
-| Tue, 13 May 2025 18:06:58 GMT | ⚔️ White Hat vs. Black Hat Hackers: What’s the Difference? | Codevirussec | [Read More](https://medium.com/p/22691e81c87b) |
-| Tue, 13 May 2025 18:05:20 GMT | 8 Measures to Protect Against Medical Billing Cyber Threats and Fraud | MailMyStatements | [Read More](https://medium.com/p/f1e7e9b16082) |
-| Tue, 13 May 2025 18:03:56 GMT | 12 Unstoppable Trends in SAP on Azure for 2025 | Techridge Solutions | [Read More](https://medium.com/p/3d01b5090ef8) |
