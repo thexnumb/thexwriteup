@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 14:43:50 GMT | IDOR: When One Tiny Change Exposes Everything | SACHIN PV | [Read More](https://medium.com/p/c54b6750d2fd) |
+| Wed, 14 May 2025 14:30:07 GMT | Your Guide to AI Cybersecurity Trends in 2025: It’s a Wild Ride! | Keith Foster | [Read More](https://medium.com/p/a1741f59664d) |
+| Wed, 14 May 2025 14:29:52 GMT | Qradar All-In-One Mimari Kurulumu -1 | ibrahim KADIKIRAN | [Read More](https://medium.com/p/2ef19218966d) |
+| Wed, 14 May 2025 14:26:25 GMT | Plus Addressing in Microsoft 365: A Simple Trick That Boosts Email Security | Gregg Westgate | [Read More](https://medium.com/p/cafd57da4681) |
+| Wed, 14 May 2025 14:20:36 GMT | Three Pillars of Threat Intelligence: Kill Chain, MITRE ATT&CK, and the Diamond Model | Ali Ardal | [Read More](https://medium.com/p/7505315bbec5) |
+| Wed, 14 May 2025 14:19:53 GMT | Nmap Scripting Engine (NSE): The Hidden Superpower of Nmap You Must Learn | Vijay Kumar Gupta | [Read More](https://medium.com/p/ca75b085de3d) |
+| Wed, 14 May 2025 14:15:43 GMT | 5 Ways to Protect Your Company from Ransomware in 2025 | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/34123995bef2) |
 | Wed, 14 May 2025 14:13:14 GMT | Introducing N0aziXss Origin Recon: The Ultimate ASN & Origin Detection Tool | N0aziXss | [Read More](https://medium.com/p/94157afa4a29) |
 | Wed, 14 May 2025 14:12:28 GMT | Bringing Visibility to Secrets Management | Akshat Virmani | [Read More](https://medium.com/p/0b01466ffe66) |
 | Wed, 14 May 2025 14:06:46 GMT | Launch a Kubernetes Cluster | Gary King | [Read More](https://medium.com/p/a18bd1e92509) |
@@ -106,10 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 08:56:43 GMT | Hackers Are Weaponizing KeePass: What You Need to Know and How to Stay Safe | cybrNK | [Read More](https://medium.com/p/fecae7988e73) |
 | Wed, 14 May 2025 08:54:38 GMT | Network Defense Approaches | Victor Kipkemboi | [Read More](https://medium.com/p/64960326953c) |
 | Wed, 14 May 2025 08:53:08 GMT | How Can I Withdraw My Lost Investment From Mintos? | Milano | [Read More](https://medium.com/p/b54719fe2cb1) |
-| Wed, 14 May 2025 08:46:43 GMT | Shadows of tThe Starlit Rebellion | Tales of Nyx | [Read More](https://medium.com/p/ed51d7621896) |
-| Wed, 14 May 2025 08:38:25 GMT | Ghost Crowds: How Nation-States Fake Grassroots Movements Online | O. J. Okpabi | [Read More](https://medium.com/p/264cb9130877) |
-| Wed, 14 May 2025 08:36:08 GMT | To Complicate or Not to Complicate. — What is Fuzzy Hash? | Mert Kurtulmuş | [Read More](https://medium.com/p/c226d86d253e) |
-| Wed, 14 May 2025 08:35:34 GMT | Fortinet Urgently Patches Critical CVE-2025–32756 Zero-Day Exploited in FortiVoice Systems | CyDhaal | [Read More](https://medium.com/p/91dd3a9babd8) |
-| Wed, 14 May 2025 08:33:15 GMT | FIRST 2025 CTI Conference Write-Up | Jennifer Wennekers | [Read More](https://medium.com/p/7fee30a95f7e) |
-| Wed, 14 May 2025 08:33:02 GMT | How I applied secure programming to a real API endpoint | Wahyu Hidayat | [Read More](https://medium.com/p/e3ecccf2bd38) |
-| Wed, 14 May 2025 08:28:36 GMT | Solución de Patrullaje Inteligente | Presslink Media | [Read More](https://medium.com/p/fc90acaaa239) |
