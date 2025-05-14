@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 19:35:05 GMT | XSS Attacks: What They Are and How to Protect Your Website | Akshay Chauhan | [Read More](https://medium.com/p/14b5dbd1888a) |
+| Wed, 14 May 2025 19:33:31 GMT | How I’m Building a Tech Hustle While Studying Cybersecurity in Nigeria | Russell - Gadget Hustler | [Read More](https://medium.com/p/bde611165a27) |
+| Wed, 14 May 2025 19:26:45 GMT | The Technical Debt Trap: A Strategic Framework for Enterprise IT Leaders | Azzeddine Amiar | [Read More](https://medium.com/p/6fca49078512) |
+| Wed, 14 May 2025 19:20:26 GMT | The Marks & Spencer Cyberattack | IT_Engineer | [Read More](https://medium.com/p/e293f755b471) |
+| Wed, 14 May 2025 19:15:20 GMT | Unassigned shards in Elasticsearch 7 and 8 | Bidhan Khatri | [Read More](https://medium.com/p/34bb78e394f1) |
+| Wed, 14 May 2025 19:10:37 GMT | Implementing Mutual TLS (mTLS) Authentication with OpenSSL: A Step-by-Step Guide | Bidhan Khatri | [Read More](https://medium.com/p/1d7f532c4e3c) |
 | Wed, 14 May 2025 18:59:36 GMT | Three Things I Wish I’d Known as a Junior Engineer | Security Guy | [Read More](https://medium.com/p/019a5ac36377) |
 | Wed, 14 May 2025 18:58:41 GMT | Siber Tehditlere Karşı Proaktif Savunma: EDR Teknolojisi | Kerem | [Read More](https://medium.com/p/64a1a2fafaf2) |
 | Wed, 14 May 2025 18:30:00 GMT | SogoTrade Data Breach: What Affected Customers Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/3fc23d16e7f8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 13:27:16 GMT | About Me | Muhammad Shakib | [Read More](https://medium.com/p/673842903ff2) |
 | Wed, 14 May 2025 13:24:21 GMT | End Recon Tool Overload: Centralise Enumeration & Scanning with SubDomainRadar.io | Alexandre Vandamme | [Read More](https://medium.com/p/ae387d97cc6c) |
 | Wed, 14 May 2025 13:21:57 GMT | Software Inventory with osquery: A Building Block for Security Auditing | Isla Arshad | [Read More](https://medium.com/p/30da4ff0b8cf) |
-| Wed, 14 May 2025 13:19:56 GMT | SQL Server 2012 DATA MASKING | Murat Culum | [Read More](https://medium.com/p/c0704ca69d9b) |
-| Wed, 14 May 2025 13:18:13 GMT | Inside the Mind of an Ethical Hacker: Uncovering Database Vulnerabilities with Kali Linux. | eL Njas!™ | [Read More](https://medium.com/p/9be14997a762) |
-| Wed, 14 May 2025 13:15:19 GMT | Exploring Top Linux Careers and How to Get Started in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/1511404398c7) |
-| Wed, 14 May 2025 13:11:25 GMT | PRIVACY: Is it a Myth? or just Perspective? | Senjaputrasndr | [Read More](https://medium.com/p/be94e727ff28) |
-| Wed, 14 May 2025 13:09:39 GMT | The Coming Wave: Cybernetic Brain Implants | Dylan Rosario | [Read More](https://medium.com/p/6ac299849226) |
-| Wed, 14 May 2025 13:05:01 GMT | How do we stay safe on the internet? A brief guide. | Christopher Morris | [Read More](https://medium.com/p/6e6aa664f7d4) |
