@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 05:05:37 GMT | Do Directory Listings Still Help SEO in 2025? | ONECITY TECHNOLOGIES | [Read More](https://medium.com/p/d5a6c9443661) |
+| Wed, 14 May 2025 05:04:07 GMT | HTB Zephyr Lab Explained: Real-World Red Team Operator Strategies for OSEP | Anezaneo | [Read More](https://medium.com/p/22e250df83a2) |
+| Wed, 14 May 2025 05:02:00 GMT | I Killed a Wasp Today | Emy Quinn | [Read More](https://medium.com/p/f45aa14dbe85) |
+| Wed, 14 May 2025 05:01:23 GMT | My First Year in Bug Bounty $$$ | RivuDon | [Read More](https://medium.com/p/9c87e0b68ac4) |
+| Wed, 14 May 2025 04:59:12 GMT | Palo Alto Networks Strata Next-Gen Firewalls: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/43297b5c3d66) |
+| Wed, 14 May 2025 04:53:53 GMT | [CTF SERIES] — WEB EXPLOITATION: Lỗ hổng file upload | Andrich HA | [Read More](https://medium.com/p/50d73262a07b) |
+| Wed, 14 May 2025 04:53:09 GMT | Boz, Yap, İnşa Et: LinkedIn İş Teklifleri Neden Bir Güvenlik Krizi Haline Geldi? | Cevher Dogan | [Read More](https://medium.com/p/1d0d3fe292f8) |
+| Wed, 14 May 2025 04:41:31 GMT | Privilege Escalation via Invitation & Bypassed 2FA | Ahmed Mahmoud | [Read More](https://medium.com/p/98219664764f) |
 | Wed, 14 May 2025 04:35:31 GMT | JWT Exploitation: How I Forged Tokens and Took Over Accounts | Abhijeet Kumawat | [Read More](https://medium.com/p/2e7ab1cf4df8) |
 | Wed, 14 May 2025 04:32:35 GMT | Hack The Box — Cicada - WriteUp | pythonic01 | [Read More](https://medium.com/p/d7666832b13b) |
 | Wed, 14 May 2025 04:23:15 GMT | GraphQL Vulnerabilities: Sensitive Exposure & Role Bypass Admin Privileges | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/c9eb3646e7bd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 19:58:31 GMT | Cybercrime in the UK: Trends, Case Studies, and Legal Measures | Jyothika Vinoth | [Read More](https://medium.com/p/f275965a05f1) |
 | Tue, 13 May 2025 19:55:42 GMT | Breaking Bitcoin: Exploiting Signature Flaws, Wallet Weaknesses & Real-World Exploits and Defense… | CryptoDeepTools | [Read More](https://medium.com/p/a772e7fd680f) |
 | Tue, 13 May 2025 19:51:26 GMT | Upload Vulns | Julio | [Read More](https://medium.com/p/3c139f507b28) |
-| Tue, 13 May 2025 19:48:53 GMT | Egg Hunting 101: A Practical Guide | 0x47M4D | [Read More](https://medium.com/p/93d3eb1ebe6c) |
-| Tue, 13 May 2025 19:45:51 GMT | REST API Design: 18 Proven Best Practices for Clean and Efficient Endpoints | Jens@Fivesec | [Read More](https://medium.com/p/a295ba46c514) |
-| Tue, 13 May 2025 19:42:03 GMT | Cyber Security Culture Goals That Drive Real Change: A Guide for Organisational Leaders | Dr Tai Durojaiye | [Read More](https://medium.com/p/7aa7055a5f23) |
-| Tue, 13 May 2025 19:37:15 GMT | Embracing the Future — What a Cyber-Resilient Organization Looks Like | Vivek Rao | [Read More](https://medium.com/p/3a4cbb9df6a4) |
-| Tue, 13 May 2025 19:37:14 GMT | Hands-on Lab: ARP Flood Attack Simulation and Mitigation | Warmann Onisowurun | [Read More](https://medium.com/p/07fcc82e6389) |
-| Tue, 13 May 2025 19:32:27 GMT | Securing the Distributed Workforce | RSUPPORT Blog | [Read More](https://medium.com/p/b1f3f06a9c37) |
-| Tue, 13 May 2025 19:27:35 GMT | Networking for Humans: IP Addresses, Subnets & Ports Explained Without Melting Your Brain (Part 1) | Malik Ahmad | [Read More](https://medium.com/p/7a82159022f9) |
-| Tue, 13 May 2025 19:22:39 GMT | Cringe But Lovely Enough | hernowoadin | [Read More](https://medium.com/p/c6227ab4c516) |
