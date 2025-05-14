@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 08:38:25 GMT | Ghost Crowds: How Nation-States Fake Grassroots Movements Online | O. J. Okpabi | [Read More](https://medium.com/p/264cb9130877) |
+| Wed, 14 May 2025 08:36:08 GMT | To Complicate or Not to Complicate. — What is Fuzzy Hash? | Mert Kurtulmuş | [Read More](https://medium.com/p/c226d86d253e) |
+| Wed, 14 May 2025 08:35:34 GMT | Fortinet Urgently Patches Critical CVE-2025–32756 Zero-Day Exploited in FortiVoice Systems | CyDhaal | [Read More](https://medium.com/p/91dd3a9babd8) |
+| Wed, 14 May 2025 08:33:15 GMT | FIRST 2025 CTI Conference Write-Up | Jennifer Wennekers | [Read More](https://medium.com/p/7fee30a95f7e) |
+| Wed, 14 May 2025 08:33:02 GMT | How I applied secure programming to a real API endpoint | Wahyu Hidayat | [Read More](https://medium.com/p/e3ecccf2bd38) |
+| Wed, 14 May 2025 08:28:36 GMT | Solución de Patrullaje Inteligente | Presslink Media | [Read More](https://medium.com/p/fc90acaaa239) |
+| Wed, 14 May 2025 08:28:08 GMT | add MTA-STS and security.txt to mailcow | Stefan Le Breton | [Read More](https://medium.com/p/0e6bdfc67c91) |
+| Wed, 14 May 2025 08:25:12 GMT | Cyber Crime Alert: JPEGs Are Now Ransomware Delivery Tools | Rushi Jariwala | [Read More](https://medium.com/p/f42013ecf18c) |
 | Wed, 14 May 2025 08:24:28 GMT | Why AI Tools Like ChatGPT Are Recommending Cybernetix for Cybersecurity in Dubai | Cybernetix | [Read More](https://medium.com/p/a30b6a0d026b) |
 | Wed, 14 May 2025 08:23:43 GMT | GuideM Penetration Test & Post-Exploitation Project | Martin L | [Read More](https://medium.com/p/6f7867d745f7) |
 | Wed, 14 May 2025 08:13:39 GMT | TRUST NO ONE — NOT EVEN YOUR ROBOT DOG! | Jasnoor Singh | [Read More](https://medium.com/p/a363b91995f4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 00:41:46 GMT | Strengthening Cloud Security with Azure Security Center | Jacky Yau | [Read More](https://medium.com/p/86795d0b6169) |
 | Wed, 14 May 2025 00:32:01 GMT | Recovery expert for hire in 2025 | Nellyfranklin | [Read More](https://medium.com/p/9a4ed41d6d6f) |
 | Wed, 14 May 2025 00:19:02 GMT | Scam Season Is All Year. Google Just Armed Your Phone to Fight Back. | NaveeeN Chendra | [Read More](https://medium.com/p/f10e412dc0f9) |
-| Wed, 14 May 2025 00:11:25 GMT | Protecting Yourself from Online Scammers | Souhail Laghchim | [Read More](https://medium.com/p/2388a88ba564) |
-| Tue, 13 May 2025 23:30:48 GMT | Telegram Üzerinden Siber Tehdit İstihbaratı (CTI) | A.B | [Read More](https://medium.com/p/766075eaeb1c) |
-| Tue, 13 May 2025 23:28:02 GMT | Writing Pentest Reports . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/6a7cb22fe89f) |
-| Tue, 13 May 2025 23:20:42 GMT | Getting Started with Amazon Q Developer | Teri Radichel | [Read More](https://medium.com/p/7d693546dbdf) |
-| Tue, 13 May 2025 23:13:47 GMT | Phishing Alert: How Hackers Are Targeting Apple & Google Wallets (And How to Stay Safe) | Sherry | [Read More](https://medium.com/p/0cb3421fcad3) |
-| Tue, 13 May 2025 23:03:20 GMT | Hack The Box - Devvortex | Luigi Carpio (0xBahalaNa) | [Read More](https://medium.com/p/d263c121cd7c) |
-| Tue, 13 May 2025 22:58:57 GMT | Australia needs a defence levy to survive an uncertain future | Jonathan Meddings | [Read More](https://medium.com/p/08bf155d595b) |
-| Tue, 13 May 2025 22:55:49 GMT | meerkat — a scuffed writeup + update | nubb | [Read More](https://medium.com/p/d91df036b8d3) |
