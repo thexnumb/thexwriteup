@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 11:38:13 GMT | “We Are All Using the Dark Web Unknowingly” | Maria Charles | [Read More](https://medium.com/p/962e602e0d73) |
+| Wed, 14 May 2025 11:27:07 GMT | Cyber Security Engineering Admission 2025 - Cyber Security Engineering College Greater Noida | deveshdhama | [Read More](https://medium.com/p/967f2febf2c0) |
+| Wed, 14 May 2025 11:20:37 GMT | Securing Your Node.js App from Command Injection | Ester Gracia | [Read More](https://medium.com/p/e44f0a6ccaf2) |
+| Wed, 14 May 2025 11:19:30 GMT | Breaking In Through the Backdoor: Password Reset Gone Wrong | Ehtesham Ul Haq | [Read More](https://medium.com/p/6e5243c16a19) |
 | Wed, 14 May 2025 11:13:32 GMT | Ethical Hacking: Network Sniffing | Leroyanand | [Read More](https://medium.com/p/e870afe2e722) |
+| Wed, 14 May 2025 11:06:45 GMT | AWS IAM Made Simple: Your Guide to Cloud Security | Anurag | [Read More](https://medium.com/p/1dc7bb87e3a0) |
 | Wed, 14 May 2025 11:03:39 GMT | How start a cybersecurity career in trivandrum :which is better? | abin p jpy | [Read More](https://medium.com/p/82fbabbdc665) |
 | Wed, 14 May 2025 11:02:19 GMT | The Hidden Power of Data Protection Services for Business Security | Allitpros | [Read More](https://medium.com/p/215a5c55590b) |
 | Wed, 14 May 2025 11:01:49 GMT | LetsDefend Introduction to System Security Course WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/62f0da714fd4) |
@@ -108,8 +113,3 @@ by A Slightly Sleep-Deprived Analyst | Bl@ckC!pH3r | [Read More](https://medium.
 | Wed, 14 May 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — May 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/625ef05b62eb) |
 | Wed, 14 May 2025 05:48:13 GMT | Hacking AI Easy as Pie | Udit | [Read More](https://medium.com/p/978729e5d77a) |
 | Wed, 14 May 2025 05:46:17 GMT | The Human Factor in Cyber Security: How Trust is Exploited by Social Engineering | Mubazzmuhammed | [Read More](https://medium.com/p/1d742402bf5f) |
-| Wed, 14 May 2025 05:40:24 GMT | What Does a Real Hacker Look Like? | Kaili Yang | [Read More](https://medium.com/p/16431c30cd71) |
-| Wed, 14 May 2025 05:25:34 GMT | Ethical Hacking Guide: Penetration Testing Apache Tomcat (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/01dc367f070c) |
-| Wed, 14 May 2025 05:25:00 GMT | API Gateway: Most useful features | Keyur Desai | [Read More](https://medium.com/p/0918eb502605) |
-| Wed, 14 May 2025 05:24:40 GMT | AI Powered Facial Recognition is revolutionizing security in across UAE | Tekhabeeb | [Read More](https://medium.com/p/eb2435bcae8c) |
-| Wed, 14 May 2025 05:16:21 GMT | Round-the-Clock Protection with Nexasoft Infinity’s 24/7 Cybersecurity & Cloud Consulting Services | Nexasoft Infinity | [Read More](https://medium.com/p/8f8563426811) |
