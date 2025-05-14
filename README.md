@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 22:03:26 GMT | Best Practices for Kubernetes Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/fb6b8783bbf7) |
+| Wed, 14 May 2025 22:01:37 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Alonso friedrich | [Read More](https://medium.com/p/ae7024c84a18) |
+| Wed, 14 May 2025 22:01:36 GMT | Post-Quantum Cryptography: Clouds on the Horizon | Postmodern Cybersecurity | [Read More](https://medium.com/p/f6c40d9e8885) |
+| Wed, 14 May 2025 22:01:06 GMT | HackTheBox: Bashed Writeup | CyberQuestor | [Read More](https://medium.com/p/d94b206121c0) |
+| Wed, 14 May 2025 21:57:44 GMT | Secure File Upload Implementation | Bishopbeecay | [Read More](https://medium.com/p/8d5c1340b744) |
+| Wed, 14 May 2025 21:56:35 GMT | Google Cybersecurity Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/5b5a999249f0) |
+| Wed, 14 May 2025 21:53:12 GMT | So You Wanna Be a Hacker? | Yua Mikanana | [Read More](https://medium.com/p/f029cbd36bd8) |
+| Wed, 14 May 2025 21:49:41 GMT | If You’re Still Using Windows 10, Here’s What You Need to Do NOW | Ian James | [Read More](https://medium.com/p/aa819653a9ed) |
+| Wed, 14 May 2025 21:42:31 GMT | Security Footage: TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/35864463cf31) |
+| Wed, 14 May 2025 21:38:22 GMT | Trump’s Abraham Accords Push — Cybersecurity Implications and the Future of the Middle East &… | Mind Scope | [Read More](https://medium.com/p/c042a1472e86) |
+| Wed, 14 May 2025 21:37:22 GMT | Introducing TryHackMe’s Jr Penetration Tester (PT1) Certification: A New Benchmark in Offensive… | Chris Huffstetler | [Read More](https://medium.com/p/4b398310bf10) |
 | Wed, 14 May 2025 21:34:15 GMT | eJPT Zero to Hero: Enumeration CTF | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/cea9ed488b61) |
 | Wed, 14 May 2025 21:32:51 GMT | Ethical Hacking Learning Path | 0xBEN | [Read More](https://medium.com/p/5e3252f7c9de) |
+| Wed, 14 May 2025 21:26:34 GMT | John the Ripper: The Basics — Tryhackme Walkthrough | Orgeismail | [Read More](https://medium.com/p/bbecb0a4e13f) |
 | Wed, 14 May 2025 21:20:57 GMT | New Cybersecurity Tool That Might Just Save You From the Next Scam | Alvar Laigna | [Read More](https://medium.com/p/b278e8b65348) |
 | Wed, 14 May 2025 21:11:38 GMT | Beginner’s Guide to Protecting Your Privacy Online in 2025 | Mike Padrick | [Read More](https://medium.com/p/f075b0879b1b) |
 | Wed, 14 May 2025 21:08:28 GMT | Announcement Letter And Untimely Welcoming | Courtny Roderick | [Read More](https://medium.com/p/537b9dd9420d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 15:48:42 GMT | Sitting Ducks : The Dangerous Illusion of DuckDuckGo & Browser Privacy | SudoChef | [Read More](https://medium.com/p/bf8af60e3095) |
 | Wed, 14 May 2025 15:46:56 GMT | Explosive Mobius Token Exploit: The Bug That Minted Quadrillions of MBU | Evgenii | [Read More](https://medium.com/p/a2993383fa68) |
 | Wed, 14 May 2025 15:38:54 GMT | How Can You Prevent Viruses and Malicious Code? A Practical Guide for Every Business | SafeAeon Inc. | [Read More](https://medium.com/p/fd21cf7a726e) |
-| Wed, 14 May 2025 15:17:46 GMT | Building a Real-Time API Token Leak Detection and Response System Using Python | Pranav Dixit | [Read More](https://medium.com/p/6d14b887294f) |
-| Wed, 14 May 2025 15:10:28 GMT | Advanced Container Supply Chain Security: Implementing Zero-Trust Architecture with AWS Services | Tolgahan Demirbaş | [Read More](https://medium.com/p/52a11e0f958c) |
-| Wed, 14 May 2025 15:08:54 GMT | Temel Güvenlik Duvarı (Firewall) Kavramı | FatihUYSAL | [Read More](https://medium.com/p/e3d049714534) |
-| Wed, 14 May 2025 14:54:20 GMT | Have you Ever Being Scammed by a Friend Before? | Chy Writes | [Read More](https://medium.com/p/9c58540bfdf7) |
-| Wed, 14 May 2025 14:52:56 GMT | Day 35: Network Protocols and Ports : How the Internet Really Talks | Agarwaldaksh | [Read More](https://medium.com/p/fad9bf990c7d) |
-| Wed, 14 May 2025 14:47:23 GMT | Open-Source SOC Automation Lab | CyberRanger Labs | [Read More](https://medium.com/p/19300d41b1af) |
-| Wed, 14 May 2025 14:43:50 GMT | IDOR: When One Tiny Change Exposes Everything | SACHIN PV | [Read More](https://medium.com/p/c54b6750d2fd) |
-| Wed, 14 May 2025 14:42:27 GMT | Open-Source SOC Lab | CyberRanger Labs | [Read More](https://medium.com/p/80111506c83e) |
-| Wed, 14 May 2025 14:40:03 GMT | Siber Güvenlik Nedir? Temel Kavramlar ve Önlemler | FatihUYSAL | [Read More](https://medium.com/p/6e093006b6e7) |
-| Wed, 14 May 2025 14:32:32 GMT | Many hats of (digital) signatures: Past, Present, and KERI | Michal Pietrus | [Read More](https://medium.com/p/ad75ae8d16ca) |
-| Wed, 14 May 2025 14:30:07 GMT | Your Guide to AI Cybersecurity Trends in 2025: It’s a Wild Ride! | Keith Foster | [Read More](https://medium.com/p/a1741f59664d) |
-| Wed, 14 May 2025 14:29:52 GMT | Qradar All-In-One Mimari Kurulumu -1 | ibrahim KADIKIRAN | [Read More](https://medium.com/p/2ef19218966d) |
