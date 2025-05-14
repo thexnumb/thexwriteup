@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 01:17:21 GMT | MCP Security: Tr-tr-tr-tricky, tricky, tricky | Mary Becken | [Read More](https://medium.com/p/07731e14ef45) |
+| Wed, 14 May 2025 01:16:46 GMT | The Red Teaming: 30-Day Challenge[30] | Bl@ckC!pH3r | [Read More](https://medium.com/p/c04ed617c8e1) |
+| Wed, 14 May 2025 01:13:40 GMT | Basic AWS IAM Enumeration Using Pacu | innervision | [Read More](https://medium.com/p/bec9d9d102b1) |
+| Wed, 14 May 2025 00:54:33 GMT | Advanced Threat Hunting with EDR: Building Custom Detection Rules | ByteSectorX | [Read More](https://medium.com/p/299e39de8a5b) |
+| Wed, 14 May 2025 00:42:26 GMT | Domain analysis tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/50528444699e) |
+| Wed, 14 May 2025 00:41:46 GMT | Strengthening Cloud Security with Azure Security Center | Jacky Yau | [Read More](https://medium.com/p/86795d0b6169) |
+| Wed, 14 May 2025 00:32:01 GMT | Recovery expert for hire in 2025 | Nellyfranklin | [Read More](https://medium.com/p/9a4ed41d6d6f) |
+| Wed, 14 May 2025 00:19:02 GMT | Scam Season Is All Year. Google Just Armed Your Phone to Fight Back. | NaveeeN Chendra | [Read More](https://medium.com/p/f10e412dc0f9) |
+| Wed, 14 May 2025 00:11:25 GMT | Protecting Yourself from Online Scammers | Souhail Laghchim | [Read More](https://medium.com/p/2388a88ba564) |
+| Tue, 13 May 2025 23:30:48 GMT | Telegram Üzerinden Siber Tehdit İstihbaratı (CTI) | A.B | [Read More](https://medium.com/p/766075eaeb1c) |
 | Tue, 13 May 2025 23:28:02 GMT | Writing Pentest Reports . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/6a7cb22fe89f) |
 | Tue, 13 May 2025 23:20:42 GMT | Getting Started with Amazon Q Developer | Teri Radichel | [Read More](https://medium.com/p/7d693546dbdf) |
 | Tue, 13 May 2025 23:13:47 GMT | Phishing Alert: How Hackers Are Targeting Apple & Google Wallets (And How to Stay Safe) | Sherry | [Read More](https://medium.com/p/0cb3421fcad3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 18:06:58 GMT | ⚔️ White Hat vs. Black Hat Hackers: What’s the Difference? | Codevirussec | [Read More](https://medium.com/p/22691e81c87b) |
 | Tue, 13 May 2025 18:05:20 GMT | 8 Measures to Protect Against Medical Billing Cyber Threats and Fraud | MailMyStatements | [Read More](https://medium.com/p/f1e7e9b16082) |
 | Tue, 13 May 2025 18:03:56 GMT | 12 Unstoppable Trends in SAP on Azure for 2025 | Techridge Solutions | [Read More](https://medium.com/p/3d01b5090ef8) |
-| Tue, 13 May 2025 17:58:17 GMT | Why Centralized Secret Storage Is a Must for DevOps Engineers | Asir Abdelhady | [Read More](https://medium.com/p/87ec491df304) |
-| Tue, 13 May 2025 17:57:28 GMT | Ruby on Rails Interview Questions with Answers (Experienced Level) | Vijay Kumar | [Read More](https://medium.com/p/6468f8ad8c7d) |
-| Tue, 13 May 2025 17:54:32 GMT | Cybersecurity Analyst Job Simulation TATA Group | Shaun | [Read More](https://medium.com/p/8ba3a83965d9) |
-| Tue, 13 May 2025 17:53:29 GMT | Group Policy Objects | Dito _0xE7 | [Read More](https://medium.com/p/e72dac0ca00d) |
-| Tue, 13 May 2025 17:52:22 GMT | The Universal Need for Encouragement and Purpose | Adeola Odubajo ~ THE World-Renowned Storyteller | [Read More](https://medium.com/p/e895d5881070) |
-| Tue, 13 May 2025 17:47:08 GMT | Setting up your Malware Analysis Lab | Jithukrishnan v | [Read More](https://medium.com/p/de6ebaadb8a7) |
-| Tue, 13 May 2025 17:46:08 GMT | When 5 Missing Entries Cost Intel $475 Million: The Pentium FDIV Bug Disaster | Kirubakaran | [Read More](https://medium.com/p/8c9e53a92c24) |
-| Tue, 13 May 2025 17:45:09 GMT | Safe and Responsible AI in Australia — The Government’s Interim Response | Privacy Research Team, Securiti | [Read More](https://medium.com/p/8af9b1065d35) |
-| Tue, 13 May 2025 17:40:11 GMT | CSRF Explained: The Quiet Threat Hiding Behind Logged-In Sessions | Akshay Chauhan | [Read More](https://medium.com/p/4ec359da6bba) |
-| Tue, 13 May 2025 17:38:28 GMT | Why Your Business Needs 2FA for Stronger Security | SafeAeon Inc. | [Read More](https://medium.com/p/e15d19362728) |
