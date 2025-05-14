@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 07:17:01 GMT | Why Secure Code Review Still Matters More Than Ever in 2025 | Aryansaha | [Read More](https://medium.com/p/c2be8d08bccf) |
+| Wed, 14 May 2025 07:14:51 GMT | What Does a SOC Analyst Do? Roles, Responsibilities, and Career Path | Ripunjay_Singh | [Read More](https://medium.com/p/2ecefaf4a6e5) |
+| Wed, 14 May 2025 07:06:53 GMT | Empowering Growth with SME Business Consulting Services in Australia | Olivia Smith | [Read More](https://medium.com/p/2439f2da044a) |
+| Wed, 14 May 2025 07:04:54 GMT | The Daily Tech Digest: 14 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/458c9abdb4f0) |
+| Wed, 14 May 2025 07:04:31 GMT | Top 5 Cybersecurity Courses After 12th | cyber security Updates | [Read More](https://medium.com/p/7dc9e0ef2a51) |
+| Wed, 14 May 2025 07:02:43 GMT | ️ How to Practice Ethical Hacking Legally (Without Going to Jail) | Ram Nikhil Meka | [Read More](https://medium.com/p/3f629a2c03d7) |
+| Wed, 14 May 2025 07:02:38 GMT | Locked Doors and Digital Keys: Navigating Cybersecurity Internal Controls Under Singapore’s CSA… | Rt Compliance | [Read More](https://medium.com/p/3d107835631f) |
+| Wed, 14 May 2025 07:00:43 GMT | NIS 2 Directive: Why Businesses Should Act Now and How to Implement It Effectively | Infralovers GmbH | [Read More](https://medium.com/p/1a819036b8b5) |
+| Wed, 14 May 2025 06:52:05 GMT | Top Basic Networking Classes in Delhi [2025] | Ankit_Cyber | [Read More](https://medium.com/p/f057cae82c77) |
+| Wed, 14 May 2025 06:45:52 GMT | How Okta + AWS IAM Identity Center Simplifies Admin and Adds CLI Support : Seamless AWS Access | Anurag | [Read More](https://medium.com/p/3c4ddfc5cdc5) |
 | Wed, 14 May 2025 06:38:58 GMT | Inside Singapore’s ISA: Safeguarding Security in a Changing World | Dan Marshall-Singh | [Read More](https://medium.com/p/7aaf04ec7824) |
 | Wed, 14 May 2025 06:37:01 GMT | Healthcare Data Center Security in Oman: Safeguarding Patient Information | Tekshoyabeelyas | [Read More](https://medium.com/p/483d0c8c5654) |
 | Wed, 14 May 2025 06:33:23 GMT | Unlocking the Power of Language Learning in the Digital Age | Liwacollege | [Read More](https://medium.com/p/fa2a729f8b19) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 21:46:40 GMT | CTF Dreaming - TryHackMe en Español | Binyamin | [Read More](https://medium.com/p/f3146503d5e0) |
 | Tue, 13 May 2025 21:43:13 GMT | OSWP Exam Review | Peter Sieb | [Read More](https://medium.com/p/f7965d6aab11) |
 | Tue, 13 May 2025 21:41:10 GMT | ASUS DriverHub Flaw: Hackers Could Execute Commands with Full Admin Rights | Hoplon Infosec | [Read More](https://medium.com/p/796acc140483) |
-| Tue, 13 May 2025 21:24:50 GMT | Port Scanning 101: What It Is and Why Hackers Love It | All in One security | [Read More](https://medium.com/p/6103e469c258) |
-| Tue, 13 May 2025 21:16:28 GMT | TryHackMe -TomGhost Walkthrough — Beginner-Friendly CTF | Yousraouahid | [Read More](https://medium.com/p/04b8cb0d4097) |
-| Tue, 13 May 2025 21:11:58 GMT | Introducing DomainRecon: Your Advanced WHOIS & DNS Intelligence Tool | N0aziXss | [Read More](https://medium.com/p/9e2dc63ae774) |
-| Tue, 13 May 2025 21:11:47 GMT | The Hardest Part of Life: Retirement Struggle for the 60s | Claire Moore | [Read More](https://medium.com/p/e97f3347de38) |
-| Tue, 13 May 2025 21:06:04 GMT | A Sneaky PyPI Package Tried to Steal Solana Devs’ Secrets | Ismail Tasdelen | [Read More](https://medium.com/p/1d273c70e81c) |
-| Tue, 13 May 2025 21:03:43 GMT | Red Team Fundamentals — TryHackMe Room Writeup | Taylor Wavra | [Read More](https://medium.com/p/f42212845873) |
-| Tue, 13 May 2025 21:02:43 GMT | North Korean Konni APT Targets Ukraine: A Cyber Espionage Tale ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/12da576504c9) |
-| Tue, 13 May 2025 21:02:31 GMT | Building and Testing an Effective Threat-Hunting Strategy | John Locke | [Read More](https://medium.com/p/767717c18a56) |
-| Tue, 13 May 2025 21:00:22 GMT | Why Smart Houses Needs Smarter Security — The Rise of Automated Home Protection | Mohsin | [Read More](https://medium.com/p/a2f2664f8467) |
-| Tue, 13 May 2025 20:59:54 GMT | Moldova Busts Ransomware Suspect in €4.5M Cyber Heist: A DoppelPaymer Takedown ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/e24131aaa5b8) |
