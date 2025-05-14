@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 06:38:58 GMT | Inside Singapore’s ISA: Safeguarding Security in a Changing World | Dan Marshall-Singh | [Read More](https://medium.com/p/7aaf04ec7824) |
+| Wed, 14 May 2025 06:37:01 GMT | Healthcare Data Center Security in Oman: Safeguarding Patient Information | Tekshoyabeelyas | [Read More](https://medium.com/p/483d0c8c5654) |
+| Wed, 14 May 2025 06:33:23 GMT | Unlocking the Power of Language Learning in the Digital Age | Liwacollege | [Read More](https://medium.com/p/fa2a729f8b19) |
+| Wed, 14 May 2025 06:27:14 GMT | Cybersecurity in 2025: Navigating the New Threat Landscape | Navigtech | [Read More](https://medium.com/p/2e5126129413) |
 | Wed, 14 May 2025 06:21:23 GMT | PupkinStealer: The Silent Data Thief Exploiting Browser Credentials | Irem | [Read More](https://medium.com/p/fd6e5c7a48fb) |
 | Wed, 14 May 2025 06:20:35 GMT | Collaborating with IT Teams: 4 Communication Hacks | Ahmad Javed | [Read More](https://medium.com/p/ee1c0a00dc8c) |
 | Wed, 14 May 2025 06:20:29 GMT | FOFA Dorking - Part 3 | AbhirupKonwar | [Read More](https://medium.com/p/b27f69b6d086) |
+| Wed, 14 May 2025 06:19:27 GMT | Beyond Developers: Why Mid-Market Brands Need Strategic Tech Partnerships | Elsner Technologies | [Read More](https://medium.com/p/4a6d45a166c9) |
 | Wed, 14 May 2025 06:17:11 GMT | Pentest Is Not Dead: The Genie with No Master | Potech | [Read More](https://medium.com/p/589aef74a48d) |
 | Wed, 14 May 2025 06:12:03 GMT | Title: Filter Failure: From HTML Injection to Full-Blown XSS via Rich Text Editors | Iski | [Read More](https://medium.com/p/af6809e248b4) |
 | Wed, 14 May 2025 06:08:38 GMT | Can I Withdraw My Money From Fintiwall? | Lorathy | [Read More](https://medium.com/p/dff1f1639f8a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 21:02:31 GMT | Building and Testing an Effective Threat-Hunting Strategy | John Locke | [Read More](https://medium.com/p/767717c18a56) |
 | Tue, 13 May 2025 21:00:22 GMT | Why Smart Houses Needs Smarter Security — The Rise of Automated Home Protection | Mohsin | [Read More](https://medium.com/p/a2f2664f8467) |
 | Tue, 13 May 2025 20:59:54 GMT | Moldova Busts Ransomware Suspect in €4.5M Cyber Heist: A DoppelPaymer Takedown ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/e24131aaa5b8) |
-| Tue, 13 May 2025 20:56:47 GMT | Security Footage THM Write up | Muzaffar Waadallh | [Read More](https://medium.com/p/e946f3948203) |
-| Tue, 13 May 2025 20:54:54 GMT | AWS VPC - Attack and Defense . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/991cd64b473c) |
-| Tue, 13 May 2025 20:53:18 GMT | Colleagues, the “CISA: Certified Information Systems Auditor” program will equip you to pass the… | Franklin Rhodes | [Read More](https://medium.com/p/054740a5266d) |
-| Tue, 13 May 2025 20:51:58 GMT | Wenn Stille zu laut wird | Tami | [Read More](https://medium.com/p/9261ca6d8e45) |
-| Tue, 13 May 2025 20:40:45 GMT | Are QR codes safe? | Roberto Maggio | [Read More](https://medium.com/p/f87a41632678) |
