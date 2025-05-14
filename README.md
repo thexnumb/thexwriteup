@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 May 2025 04:23:15 GMT | GraphQL Vulnerabilities: Sensitive Exposure & Role Bypass Admin Privileges | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/c9eb3646e7bd) |
+| Wed, 14 May 2025 04:21:43 GMT | When Regex Turns Against You: Understanding and Preventing ReDoS Attacks | Cyber T | [Read More](https://medium.com/p/c8241001e79f) |
+| Wed, 14 May 2025 04:15:43 GMT | Rethinking “Natural” Disasters: Lessons from Israel’s Recent Wildfires | Tadashi Nakasu, Ph.D. | [Read More](https://medium.com/p/9f29b186023b) |
+| Wed, 14 May 2025 04:05:26 GMT | Data Security — The Bedrock of Trustworthy AI | Vijayakumar G A | [Read More](https://medium.com/p/71ca8d3d2648) |
+| Wed, 14 May 2025 04:01:48 GMT | Google Starts Using AI To Protect Chrome Users From Scams | SafetyDetectives Research Team | [Read More](https://medium.com/p/537296e0b4c4) |
+| Wed, 14 May 2025 03:59:48 GMT | CISA, FBI: Hackers targeting Industrial Systems | SafetyDetectives Research Team | [Read More](https://medium.com/p/6b58dbc7a787) |
 | Wed, 14 May 2025 03:41:09 GMT | AI Agent Security: An Emerging Cybersecurity Challenge | whoami | [Read More](https://medium.com/p/c140b2266529) |
 | Wed, 14 May 2025 03:32:27 GMT | How Women Are Rewriting Cybersecurity’s Future | Ahmad Javed | [Read More](https://medium.com/p/98addc4bc514) |
 | Wed, 14 May 2025 03:14:31 GMT | Cursor AI Security: Deep Dive into Risk, Policy, and Practice | John Munn | [Read More](https://medium.com/p/788159a9b042) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 May 2025 19:22:39 GMT | Cringe But Lovely Enough | hernowoadin | [Read More](https://medium.com/p/c6227ab4c516) |
 | Tue, 13 May 2025 19:21:28 GMT | Passwords: Your First Line of Digital Defense | Cybersecure | [Read More](https://medium.com/p/e49117f6868b) |
 | Tue, 13 May 2025 19:16:31 GMT | Why You Should Totally Use AWS Cognito | Simple Stack | [Read More](https://medium.com/p/9a5a8976f380) |
-| Tue, 13 May 2025 19:11:28 GMT | How integrate vulnerability management into your existing IT processes? | IT_Engineer | [Read More](https://medium.com/p/52e111e3d8d0) |
-| Tue, 13 May 2025 19:02:46 GMT | ETH Zurich identifies ‘Branch Privilege Injection’ flaw in Intel CPUs | Re: News | [Read More](https://medium.com/p/419443fa0697) |
-| Tue, 13 May 2025 18:53:18 GMT | Cryptography Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/73239869cb64) |
-| Tue, 13 May 2025 18:52:41 GMT | What Makes High Rise Buildings Security Different from Other Buildings? | Roger Lee | [Read More](https://medium.com/p/74ab345cc2e2) |
-| Tue, 13 May 2025 18:49:54 GMT | Laravel: Encryption with Eloquent Models (Secure Your Sensitive Data) | Alhassan Mohammed | [Read More](https://medium.com/p/eb8ad6beee99) |
-| Tue, 13 May 2025 18:45:09 GMT | Below The Surface: The Silicon-Deep Security of the Cloud | Saim Wajid | [Read More](https://medium.com/p/b6eb6f1ec5bf) |
