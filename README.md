@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 07:38:17 GMT | When Streaming Turns Dangerous: How Millions of Apple Devices Are at Risk via Wi-Fi | Cybersecurity Umbrella | [Read More](https://medium.com/p/b4f5d19e14b9) |
+| Thu, 15 May 2025 07:32:10 GMT | Do You Really Need a VPN on Your Mac? Here’s the Truth | Aria Penelope Hart | [Read More](https://medium.com/p/7e4966c6c2a2) |
+| Thu, 15 May 2025 07:25:21 GMT | Fortifying the Future of DeFi: How DeriW Prioritizes Security at Every Layer | Deriw_Finance | [Read More](https://medium.com/p/8c52754b4bc9) |
+| Thu, 15 May 2025 07:25:07 GMT | You’re Not Supposed to Do That: Preventing Insecure Direct Object References (IDOR) | Jeslyn Theodora | [Read More](https://medium.com/p/75b120e2af0c) |
+| Thu, 15 May 2025 07:24:03 GMT | [CTF SERIES] WEB EXPLOITATION : Lỗ hổng Path Traversal + File upload | Andrich HA | [Read More](https://medium.com/p/06f32bd13e19) |
+| Thu, 15 May 2025 07:23:47 GMT | Critical Alert: Co-op Cyber-Attack Disrupts Stock — Recovery by Weekend Predicted | Technijian | [Read More](https://medium.com/p/61d61894b21f) |
+| Thu, 15 May 2025 07:23:42 GMT | Part 4: How to Be Safe Online (Even If You Don’t Know What Cybersecurity Is) | typingGurl | [Read More](https://medium.com/p/2d740dc83cfc) |
+| Thu, 15 May 2025 07:17:33 GMT | Information Assurance (IA) | Victor Kipkemboi | [Read More](https://medium.com/p/2bb40b078f51) |
 | Thu, 15 May 2025 07:02:45 GMT | Inside the AI x Security Arsenal I’ve Built | Thomas Roccia | [Read More](https://medium.com/p/0a77b6424918) |
 | Thu, 15 May 2025 07:01:47 GMT | The Silent Risk: Third-Party Applications in Endpoint Security | Easy2Patch | [Read More](https://medium.com/p/4972e28b3a45) |
 | Thu, 15 May 2025 07:01:41 GMT | Corporate Greed Chronicles: Microsoft’s Profit Parade Cuts 6,000 | Namir Sagheenanajar | [Read More](https://medium.com/p/e217f28a701a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 22:26:56 GMT | Teacher’s triple archetype problem | Niklas Saari | [Read More](https://medium.com/p/0c47415af152) |
 | Wed, 14 May 2025 22:21:03 GMT | Google is Using AI On Your Device to Catch Scams Before They Catch You | Cyber-AppSec | [Read More](https://medium.com/p/87ffe0963831) |
 | Wed, 14 May 2025 22:18:44 GMT | Underdressed and Trying My Best | Danielle O'Neill | [Read More](https://medium.com/p/ca20882aedc8) |
-| Wed, 14 May 2025 22:17:52 GMT | Jailbreak Detection Bypass using Shadow | RRespxwnss | [Read More](https://medium.com/p/64ccecb0d6be) |
-| Wed, 14 May 2025 22:16:46 GMT | 10 Essential Websites to Learn and Practice Reverse Engineering | Karthikeyan Nagaraj | [Read More](https://medium.com/p/f3d035e6301f) |
-| Wed, 14 May 2025 22:14:48 GMT | IS TORTURE THE WAY TO SECURITY? | Vanshika Kapadia | [Read More](https://medium.com/p/482365fc8840) |
-| Wed, 14 May 2025 22:03:26 GMT | Best Practices for Kubernetes Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/fb6b8783bbf7) |
-| Wed, 14 May 2025 22:01:37 GMT | HOW TO RECOVER STOLEN OR LOST BITCOIN/MALICE CYBER RECOVERY WILL SOLVE YOUR PROBLEMS | Alonso friedrich | [Read More](https://medium.com/p/ae7024c84a18) |
-| Wed, 14 May 2025 22:01:36 GMT | Post-Quantum Cryptography: Clouds on the Horizon | Postmodern Cybersecurity | [Read More](https://medium.com/p/f6c40d9e8885) |
-| Wed, 14 May 2025 22:01:06 GMT | HackTheBox: Bashed Writeup | CyberQuestor | [Read More](https://medium.com/p/d94b206121c0) |
-| Wed, 14 May 2025 21:57:44 GMT | Secure File Upload Implementation | Bishopbeecay | [Read More](https://medium.com/p/8d5c1340b744) |
