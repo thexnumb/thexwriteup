@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 06:22:48 GMT | Bypassing OTP Verification via Response Manipulation: A Silent Threat | Frostynxth | [Read More](https://medium.com/p/006dc2b6fa13) |
+| Thu, 15 May 2025 06:19:08 GMT | Steam Leak Rumors: Valve Speaks Up and Keeps Us Safe | Kossi TENGUE | [Read More](https://medium.com/p/5bae4c899054) |
+| Thu, 15 May 2025 06:11:05 GMT | Books So Good, Hackers Want Them Banned | Ahmad Javed | [Read More](https://medium.com/p/5c457352a1d7) |
+| Thu, 15 May 2025 06:10:35 GMT | Soul Rupture | Undeadpoetry | [Read More](https://medium.com/p/a56f821233a6) |
+| Thu, 15 May 2025 06:06:09 GMT | Getting Daily Slack Notifications for Running Instances Across All AWS Regions | Vikas Kumar | [Read More](https://medium.com/p/27ed8cebf52e) |
+| Thu, 15 May 2025 06:04:04 GMT | Is Your IT Network Infrastructure Scalable for Growth? | Emilyeliza | [Read More](https://medium.com/p/2af578118b4b) |
+| Thu, 15 May 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — May 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c24ade124145) |
+| Thu, 15 May 2025 05:58:44 GMT | DevSecOps Pipeline in Google Cloud Using Native and Partner Tools | Omkar Nadkarni | [Read More](https://medium.com/p/667655ee346c) |
+| Thu, 15 May 2025 05:55:15 GMT | 10 Exciting Tech Careers You Might Not Know About (But Should in 2025) | Prism HRC | [Read More](https://medium.com/p/36c5413e4cc7) |
+| Thu, 15 May 2025 05:42:26 GMT | FortiNAC by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/acb8eb49aeaf) |
 | Thu, 15 May 2025 05:41:36 GMT | CHAINING THE SCOPE | Sijo Johnson | [Read More](https://medium.com/p/0f6fcb9e7cf4) |
+| Thu, 15 May 2025 05:41:03 GMT | FTP/SSH Password Cracking | Subhendu Senapati | [Read More](https://medium.com/p/effb036290c6) |
+| Thu, 15 May 2025 05:37:48 GMT | Cybersecurity in 2025: Protecting Your Digital World | Pawan Giri | [Read More](https://medium.com/p/5d3dbe2bdaed) |
+| Thu, 15 May 2025 05:35:28 GMT | Incident Report: Unauthorized Access and Ongoing Recovery Efforts forBitDoctorai’s  X (Twitter)… | BitDoctor.ai | [Read More](https://medium.com/p/c19b010c1a9a) |
 | Thu, 15 May 2025 05:28:39 GMT | Not Just Coding: Filling the Cybersecurity Gap in Australian Schools | LogicBound | [Read More](https://medium.com/p/0a1d50c0001a) |
 | Thu, 15 May 2025 05:23:16 GMT | ️ Secure IoT in the Wild: How to Harden Your Devices | Preeti | [Read More](https://medium.com/p/0796b2009082) |
 | Thu, 15 May 2025 05:19:49 GMT | Comprehensive Cyber Security Audits & Information Security in London | Paladin Cyber Security London | [Read More](https://medium.com/p/2afa55e2b0aa) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 21:06:34 GMT | Breaking the Rules: Deleting Confirmed Organizations Through a Backend Flaw | cyberpro151 | [Read More](https://medium.com/p/525dc867841c) |
 | Wed, 14 May 2025 21:03:21 GMT | APT28 Inception Theory . TryHackMe Walkthrough — Red Team — Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/681b3db08072) |
 | Wed, 14 May 2025 21:03:04 GMT | Building a Cyber-Resilient Business: Key Measures to Take | Market Daily | [Read More](https://medium.com/p/bc24878d148e) |
-| Wed, 14 May 2025 20:58:42 GMT | HTB Labs — Tier 1 — “Appointment” Machine Walkthrough - By CyberAlp0 | Mohamed Maher | [Read More](https://medium.com/p/26762086fc87) |
-| Wed, 14 May 2025 20:45:49 GMT | WASM and Security | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8bfe14836c03) |
-| Wed, 14 May 2025 20:45:29 GMT | Fake Job Offer Scams: Exploiting the hiring process | Ramsey Consulting Services | [Read More](https://medium.com/p/f42892185d19) |
-| Wed, 14 May 2025 20:42:45 GMT | Building CySec-EmbedClassify: My Journey into Gen AI-Powered Cybersecurity Text Classification | Naebi Sede | [Read More](https://medium.com/p/6c6e169fcd1e) |
-| Wed, 14 May 2025 20:37:35 GMT | Unified Kill Chain TryHackMe Example: Walkthrough | Keran Elias | [Read More](https://medium.com/p/dac67c6809d4) |
-| Wed, 14 May 2025 20:35:54 GMT | Building a Microsoft Intune Home Lab: A Hands-On Guide to Endpoint Management and Administration | Tijan Hydara | [Read More](https://medium.com/p/86c3b0e5d079) |
-| Wed, 14 May 2025 20:33:44 GMT | Top Data Recovery Experts - SCANNER HACKER CRYPTO RECOVERY | Nellyfranklin | [Read More](https://medium.com/p/785a8ddc923e) |
-| Wed, 14 May 2025 20:29:36 GMT | Building a Secure Infrastructure with Docker, Endian Firewall, and Linux VMs from Scratch-Part4… | Firas Meddeb | [Read More](https://medium.com/p/0afca68ccdfe) |
-| Wed, 14 May 2025 20:27:42 GMT | Ukraine War: The Lesser-Known News 5/14/25 | Kevin Fitzgerald | [Read More](https://medium.com/p/159935fc4a3a) |
-| Wed, 14 May 2025 20:08:31 GMT | After the Fire: Tending the Embers Within | Firas Alragom | [Read More](https://medium.com/p/c4f9148f3276) |
-| Wed, 14 May 2025 20:01:46 GMT | China’s Army Of Hackers | Shubhransh Rai | [Read More](https://medium.com/p/0dea21e372d7) |
-| Wed, 14 May 2025 19:49:04 GMT | Tobiloba Aramide Ogundiyan Secrets to Tech Success Unveiled | Tobiloba Aramide Ogundiyan | [Read More](https://medium.com/p/3b8df517097b) |
-| Wed, 14 May 2025 19:46:32 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/2634bc820985) |
