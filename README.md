@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 15:26:43 GMT | TryHackMe - APT28 Inception Theory - WriteUp | Axoloth | [Read More](https://medium.com/p/1de3cdf0a29b) |
+| Thu, 15 May 2025 15:25:38 GMT | What Is Foundation? Understanding the Ground Beneath Cybersecurity | Zavier Chambers | [Read More](https://medium.com/p/d2bfe8b866b8) |
+| Thu, 15 May 2025 15:24:05 GMT | How Attackers Use Google Dorks to Discover Your Exposed Assets | Tejprakash | [Read More](https://medium.com/p/026f367c21e4) |
+| Thu, 15 May 2025 15:18:58 GMT | “AI & Relationships: Can You Fall in Love With a Machine?” | Pavan | [Read More](https://medium.com/p/aaf79a3fe9eb) |
 | Thu, 15 May 2025 15:11:37 GMT | ISMS & Data Security: A Practical Guide | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/228ffe611935) |
 | Thu, 15 May 2025 15:10:26 GMT | JavaScript Essentials -- Tryhackme-- Cybersecurity 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/fa45f63955c0) |
 | Thu, 15 May 2025 15:03:45 GMT | Firewall Bypass Techniques and Mitigation Strategies: Technical Deep-Dive | Okan Yıldız | [Read More](https://medium.com/p/81e6790f217d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 09:23:22 GMT | Carbanak: The Billion-Dollar Cybercrime Syndicate | Sairaj | [Read More](https://medium.com/p/9bbb9e15e2ee) |
 | Thu, 15 May 2025 09:20:24 GMT | What is a Security Operations Center (SOC)? | Saurabh | [Read More](https://medium.com/p/7b478f121d18) |
 | Thu, 15 May 2025 09:13:38 GMT | ️ Building a Full-Stack Website Vulnerability Scanner: A Deep Dive into My Security Projectd | Abdul Basit | [Read More](https://medium.com/p/93580f70325c) |
-| Thu, 15 May 2025 09:11:59 GMT | How Cloud Computing is Changing the Way Startups Scale | FACE Prep Campus | [Read More](https://medium.com/p/5b1c287e96e9) |
-| Thu, 15 May 2025 09:10:56 GMT | Race Condition in Signicat Dashboard: Creating Duplicate Accounts Like a Pro | FufuFafa | [Read More](https://medium.com/p/8632acde2dc1) |
-| Thu, 15 May 2025 09:10:47 GMT | How to Become an Influencer in 1 Day (The Unethical Way) | Oscar Green | [Read More](https://medium.com/p/32f6a493e684) |
-| Thu, 15 May 2025 09:09:52 GMT | EU Launches Centralized Vulnerability Database to Strengthen Cybersecurity Transparency | CyBlog | [Read More](https://medium.com/p/90b31ddcca89) |
