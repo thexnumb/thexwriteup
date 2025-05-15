@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 09:33:35 GMT | APT28 Inception Theory - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/d719e5362c7c) |
+| Thu, 15 May 2025 09:33:26 GMT | The Real Cost of a Data Breach in 2025: What Businesses Need to Know | Deuglo Infosystem Pvt Ltd | [Read More](https://medium.com/p/e8212848493b) |
+| Thu, 15 May 2025 09:27:54 GMT | CISSP Certification at Cybernous: Your Gateway to Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/a4508edb679f) |
+| Thu, 15 May 2025 09:23:22 GMT | Carbanak: The Billion-Dollar Cybercrime Syndicate | Sairaj | [Read More](https://medium.com/p/9bbb9e15e2ee) |
+| Thu, 15 May 2025 09:20:24 GMT | What is a Security Operations Center (SOC)? | Saurabh | [Read More](https://medium.com/p/7b478f121d18) |
 | Thu, 15 May 2025 09:13:38 GMT | ️ Building a Full-Stack Website Vulnerability Scanner: A Deep Dive into My Security Projectd | Abdul Basit | [Read More](https://medium.com/p/93580f70325c) |
 | Thu, 15 May 2025 09:11:59 GMT | How Cloud Computing is Changing the Way Startups Scale | FACE Prep Campus | [Read More](https://medium.com/p/5b1c287e96e9) |
 | Thu, 15 May 2025 09:10:56 GMT | Race Condition in Signicat Dashboard: Creating Duplicate Accounts Like a Pro | FufuFafa | [Read More](https://medium.com/p/8632acde2dc1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 02:01:34 GMT | The Evolving Role of Cybersecurity in DeFI: How to Enhance Safety in 2025? | Nagaya Technologies | [Read More](https://medium.com/p/3ffc9a333d74) |
 | Thu, 15 May 2025 01:54:40 GMT | The 2025 Tech Renaissance: Beyond the Buzzwords | Veridian Zenith Tech | [Read More](https://medium.com/p/5d2fcc1cfe65) |
 | Thu, 15 May 2025 01:46:28 GMT | Implementing Application Security and Dynamic Application Security Testing (DAST) | Athar Adista | [Read More](https://medium.com/p/d5a6a0faa983) |
-| Thu, 15 May 2025 01:45:39 GMT | How to Reverse Engineer Satellite Signals Without Losing Your Damn Mind! | Razz Pokhreal | [Read More](https://medium.com/p/babf1205b76e) |
-| Thu, 15 May 2025 01:31:33 GMT | Scam Gadgets: How Fake Tech Products Are Ripping Nigerians Off in 2025 | Russell - Gadget Hustler | [Read More](https://medium.com/p/f96a98b334cf) |
-| Thu, 15 May 2025 01:31:09 GMT | How to Design a Privacy Risk Framework for AI Systems | Danish | [Read More](https://medium.com/p/2059583659ac) |
-| Thu, 15 May 2025 01:19:30 GMT | The 2025 Tech Renaissance: AI, Messaging, and the Silent Battle for Digital Supremacy | Veridian Zenith Tech | [Read More](https://medium.com/p/e7d52a764bb0) |
-| Thu, 15 May 2025 01:15:55 GMT | Email Security: The Basics of Protecting Your Organization & Yourself | Ryan G. Cox | [Read More](https://medium.com/p/eba73ad3026e) |
