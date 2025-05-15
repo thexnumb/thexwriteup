@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 11:27:57 GMT | Cyber Intelligence: Your Secret Weapon Against Online Threats | Diehardmclane | [Read More](https://medium.com/p/e2a0fbf84089) |
 | Thu, 15 May 2025 11:09:12 GMT | OAuth Misconfiguration: Hijack User Accounts Without Abusing Redirects | thebee0x | [Read More](https://medium.com/p/e287680a15cb) |
 | Thu, 15 May 2025 11:09:11 GMT | Cybersecurity Career Path: Your Complete Guide to Success in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/5d3790d21137) |
 | Thu, 15 May 2025 11:07:58 GMT | AI’s Zero-Day Exploit | Anthony C Fox | [Read More](https://medium.com/p/0f7f90fa65c7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 05:41:36 GMT | CHAINING THE SCOPE | Sijo Johnson | [Read More](https://medium.com/p/0f6fcb9e7cf4) |
 | Thu, 15 May 2025 05:41:03 GMT | FTP/SSH Password Cracking | Subhendu Senapati | [Read More](https://medium.com/p/effb036290c6) |
 | Thu, 15 May 2025 05:37:48 GMT | Cybersecurity in 2025: Protecting Your Digital World | Pawan Giri | [Read More](https://medium.com/p/5d3dbe2bdaed) |
-| Thu, 15 May 2025 05:35:28 GMT | Incident Report: Unauthorized Access and Ongoing Recovery Efforts forBitDoctorai’s  X (Twitter)… | BitDoctor.ai | [Read More](https://medium.com/p/c19b010c1a9a) |
