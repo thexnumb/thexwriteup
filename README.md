@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 08:21:40 GMT | Walkthrough for the TryHackMe Room “Creative”: From User to Root Flag | jensbecker-dev | [Read More](https://medium.com/p/6121c9b045b7) |
+| Thu, 15 May 2025 08:13:49 GMT | Security Robots in Germany | Nerminekhouzamrubin | [Read More](https://medium.com/p/a4295586710f) |
+| Thu, 15 May 2025 08:07:41 GMT | Steam Leak or Scare? Breaking Down the May 2025 Security Controversy | Space Facts Guy | [Read More](https://medium.com/p/a6e9c8ac9670) |
+| Thu, 15 May 2025 08:06:51 GMT | ประจำวันพฤหัสบดีที่ 15 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/12f18af8e746) |
+| Thu, 15 May 2025 08:00:40 GMT | Social Media Account Hacker for Hire — Reclaim What’s Yours with Cybr Space | Jessi Rogers | [Read More](https://medium.com/p/0ba00376b6a1) |
+| Thu, 15 May 2025 08:00:23 GMT | Wrapping My Joy in Bubble Wrap | Adéla Valčíková | [Read More](https://medium.com/p/6d6abe6dec5f) |
+| Thu, 15 May 2025 07:59:24 GMT | Embracing the Art of Idleness: A 2025 Guide to Living Smarter, Not Harder | Chandravijay Agrawal | [Read More](https://medium.com/p/8dfed448abbf) |
+| Thu, 15 May 2025 07:49:24 GMT | TalkWav: Earning the Trust of IT Experts in Digital Communication | TalkWav | [Read More](https://medium.com/p/b91b26fc53bc) |
+| Thu, 15 May 2025 07:45:42 GMT | I was made to believe that I can lean when I needed to cry. | mistystar°✩ | [Read More](https://medium.com/p/a048a9a326f3) |
+| Thu, 15 May 2025 07:41:03 GMT | Securing API Integrations: Best Practices for Contact Form Data Transmission | ContactFormToAnyAPI | [Read More](https://medium.com/p/1b4726f26ccc) |
+| Thu, 15 May 2025 07:39:52 GMT | European Challenge: Pursuing Universal Values Through the Empty Middle | Bojan Radej | [Read More](https://medium.com/p/d138766348ee) |
 | Thu, 15 May 2025 07:38:17 GMT | When Streaming Turns Dangerous: How Millions of Apple Devices Are at Risk via Wi-Fi | Cybersecurity Umbrella | [Read More](https://medium.com/p/b4f5d19e14b9) |
 | Thu, 15 May 2025 07:32:10 GMT | Do You Really Need a VPN on Your Mac? Here’s the Truth | Aria Penelope Hart | [Read More](https://medium.com/p/7e4966c6c2a2) |
+| Thu, 15 May 2025 07:31:42 GMT | Tails Operating System Explained | Mwenda Kelvin | [Read More](https://medium.com/p/5f9c816fb655) |
+| Thu, 15 May 2025 07:31:38 GMT | Understanding What is an SSL/TLS Certificate? | TheCodeAlchemist | [Read More](https://medium.com/p/b8b0ed3a25db) |
 | Thu, 15 May 2025 07:25:21 GMT | Fortifying the Future of DeFi: How DeriW Prioritizes Security at Every Layer | Deriw_Finance | [Read More](https://medium.com/p/8c52754b4bc9) |
 | Thu, 15 May 2025 07:25:07 GMT | You’re Not Supposed to Do That: Preventing Insecure Direct Object References (IDOR) | Jeslyn Theodora | [Read More](https://medium.com/p/75b120e2af0c) |
 | Thu, 15 May 2025 07:24:03 GMT | [CTF SERIES] WEB EXPLOITATION : Lỗ hổng Path Traversal + File upload | Andrich HA | [Read More](https://medium.com/p/06f32bd13e19) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 23:40:54 GMT | How to Pitch at RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyberstars | Tal Eliyahu | [Read More](https://medium.com/p/f7d0a03ade91) |
 | Wed, 14 May 2025 23:20:26 GMT | 8 Ways IT Leaders Can Do More with Less | PhoenixDX | [Read More](https://medium.com/p/6118ee8979f7) |
 | Wed, 14 May 2025 23:11:51 GMT | Understanding Cryptography | Godwinodahak | [Read More](https://medium.com/p/6d3e60915567) |
-| Wed, 14 May 2025 23:08:56 GMT | Wisprgram 2.0 is coming! | Joseph Goins | [Read More](https://medium.com/p/84f2be104309) |
-| Wed, 14 May 2025 23:04:40 GMT | Introduction to AWS Pentesting [Challenge Lab] | Jordan (Bird) | [Read More](https://medium.com/p/f5848fd51270) |
-| Wed, 14 May 2025 23:03:43 GMT | Outsourcing Cybersecurity with Managed IT Services: 5 Ways Your Business Stays Safer | Zeta Sky | [Read More](https://medium.com/p/de7194c5b363) |
-| Wed, 14 May 2025 23:03:16 GMT | Introduction | Jordan (Bird) | [Read More](https://medium.com/p/11511c8f1813) |
-| Wed, 14 May 2025 23:01:51 GMT | kita usahakan rumah itu (2019–2022) | heidi | [Read More](https://medium.com/p/53470dc626e8) |
-| Wed, 14 May 2025 22:44:27 GMT | Is the Children’s Online Privacy Protection Act effective? | Savvy Cyber Kids | [Read More](https://medium.com/p/01b7f0a9b219) |
-| Wed, 14 May 2025 22:38:09 GMT | How can cyberbullying affect me? | Savvy Cyber Kids | [Read More](https://medium.com/p/cc597630152d) |
-| Wed, 14 May 2025 22:34:02 GMT | How to Choose the Best Security Question Answers | Savvy Cyber Kids | [Read More](https://medium.com/p/203935627d6e) |
-| Wed, 14 May 2025 22:33:30 GMT | Network Security in Focus: Challenges, Solutions, and Best Practices | Ocean State Cyber | [Read More](https://medium.com/p/6f827b22d057) |
-| Wed, 14 May 2025 22:31:37 GMT | This One Grammar Mistake Is Why Your Board Doesn’t Trust Your Security Reports | Lee Barney | [Read More](https://medium.com/p/805bd01dda04) |
-| Wed, 14 May 2025 22:26:56 GMT | Teacher’s triple archetype problem | Niklas Saari | [Read More](https://medium.com/p/0c47415af152) |
-| Wed, 14 May 2025 22:21:03 GMT | Google is Using AI On Your Device to Catch Scams Before They Catch You | Cyber-AppSec | [Read More](https://medium.com/p/87ffe0963831) |
-| Wed, 14 May 2025 22:18:44 GMT | Underdressed and Trying My Best | Danielle O'Neill | [Read More](https://medium.com/p/ca20882aedc8) |
