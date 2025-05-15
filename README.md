@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 19:44:20 GMT | Packet capture analysis of a SocGholish and AsyncRAT infection | Jamal Darbo | [Read More](https://medium.com/p/4c08af2028e7) |
+| Thu, 15 May 2025 19:43:27 GMT | Writing Pentest Reports— TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/b58fbf330ac7) |
+| Thu, 15 May 2025 19:41:52 GMT | Radicalized by the Algorithm | TJ Larson | [Read More](https://medium.com/p/82e7cd41e1ef) |
+| Thu, 15 May 2025 19:39:03 GMT | When Steel Meets Cyber Threats What the Nucor Incident Reveals About Industrial Cybersecurity | Siva Gunasekaran | [Read More](https://medium.com/p/e6e4332d77e0) |
 | Thu, 15 May 2025 19:36:03 GMT | The Hidden Books That Protect Your Digital Life | Ahmad Javed | [Read More](https://medium.com/p/a3cc5d96f320) |
 | Thu, 15 May 2025 19:25:12 GMT | What Really Happens to Your Breached Passwords? | Maria Orms | [Read More](https://medium.com/p/994321e066cb) |
 | Thu, 15 May 2025 19:21:09 GMT | Doppel: AI Social Engineering Defense | Justin Schulman | [Read More](https://medium.com/p/aa81b381ea90) |
@@ -21,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 18:55:58 GMT | Mobil Uygulama İzinleri:Python ve SQL ile Analiz Ve Kodlama | Berfin Özay | [Read More](https://medium.com/p/cfa7adcd1fbc) |
 | Thu, 15 May 2025 18:55:48 GMT | Honeywell’s Quantinuum and Qatar’s Al Rabban Capital Forge $1 Billion Quantum Computing Joint… | QuantumGenie | [Read More](https://medium.com/p/4bb916103e9f) |
 | Thu, 15 May 2025 18:43:21 GMT | “We Caught Something… Now What?” The Cost of Not Knowing Your Next Move in Cybersecurity | Andrea Alaniz | [Read More](https://medium.com/p/44f869a40c82) |
+| Thu, 15 May 2025 18:41:09 GMT | Cyberkrieg: Warum die Bedrohung größer ist, als wir denken — Erkenntnisse vom World Economic Forum… | Benjamin Rohé | [Read More](https://medium.com/p/b42858331d2f) |
 | Thu, 15 May 2025 18:39:50 GMT | DER “AUSSCHALTER”– EIN KNOPFDRUCK, DER EUROPA ZUM STILLSTAND BRINGEN KÖNNTE! | Benjamin Rohé | [Read More](https://medium.com/p/50094a90a8da) |
 | Thu, 15 May 2025 18:38:12 GMT | Navigieren in der hybriden Bedrohungslandschaft | Benjamin Rohé | [Read More](https://medium.com/p/3f88a55dae61) |
 | Thu, 15 May 2025 18:36:46 GMT | NoSQL Injection Detection — A hands-on Exploitation Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/03aaa19dab70) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 14:02:34 GMT | Fortinet Addresses CVE-2025–32756: A Critical Zero-Day RCE Flaw | Cybersectoworld | [Read More](https://medium.com/p/cdb183171f97) |
 | Thu, 15 May 2025 14:02:06 GMT | Day 3 of #60DaysofGRC — Who’s Responsible for GRC? (Hint: It’s Not Just One Person) | Brittney Ginther | [Read More](https://medium.com/p/d1d20f8f2cc4) |
 | Thu, 15 May 2025 13:52:28 GMT | Cybersecurity Training: Real-World Code Review Challenges on CodeVulnHunt | Mithun | [Read More](https://medium.com/p/70a0a36e50bf) |
-| Thu, 15 May 2025 13:43:08 GMT | What is VLAN ? | TWEEBIT | [Read More](https://medium.com/p/511ca8c2b0ef) |
-| Thu, 15 May 2025 13:35:48 GMT | Learning to Hack Isn’t Just for Hackers, It’s the Missing Link in Cybersecurity | TechBrain | [Read More](https://medium.com/p/5c7b1c125a37) |
-| Thu, 15 May 2025 13:31:50 GMT | From Code to Confidence: Why EDSPL’s QA and Software Testing Services Are Trusted by Industry… | saurabh cyberinfomines | [Read More](https://medium.com/p/710838958e60) |
-| Thu, 15 May 2025 13:31:30 GMT | Bir üniversite mobil API’sinde credential leakage: reverse engineering ile ortaya çıkan JWT açığı | Eren İşlek | [Read More](https://medium.com/p/b712de159695) |
-| Thu, 15 May 2025 13:16:20 GMT | Top 6 Practical Uses of Linux in Everyday Tech and IT Careers | cyberwingITSolution | [Read More](https://medium.com/p/d757ab12e0e0) |
