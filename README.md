@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 13:16:20 GMT | Top 6 Practical Uses of Linux in Everyday Tech and IT Careers | cyberwingITSolution | [Read More](https://medium.com/p/d757ab12e0e0) |
+| Thu, 15 May 2025 13:06:55 GMT | Top 70 Medium Tags in 2025 | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/b785232ef0db) |
+| Thu, 15 May 2025 13:06:27 GMT | The First Time I Felt Safe, I Fell Apart | Alifa Salsabila | [Read More](https://medium.com/p/7fdb5fbf3d8e) |
+| Thu, 15 May 2025 13:04:55 GMT | Angular Directive Security Fundamentals | Herbert Moroni Gois | [Read More](https://medium.com/p/dcedeae573b5) |
+| Thu, 15 May 2025 13:02:29 GMT | Rethink Your Passwords: Why Traditional Credential Security Is Failing Fast | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2d4ae3c04470) |
+| Thu, 15 May 2025 12:59:08 GMT | Who is a cybersecurity analyst? | Mfoniso Obonguko | [Read More](https://medium.com/p/0a06038e14e7) |
+| Thu, 15 May 2025 12:54:09 GMT | How to Access the Dark Web | Haris Ali | [Read More](https://medium.com/p/e72206539693) |
+| Thu, 15 May 2025 12:47:46 GMT | Wazuh | Shamar Isaac | [Read More](https://medium.com/p/89574e832432) |
+| Thu, 15 May 2025 12:34:03 GMT | NIST’s Latest Post-Quantum Cryptography Standards: Securing the Quantum Future | Pankaj Kumar Bind | [Read More](https://medium.com/p/8f8855323962) |
 | Thu, 15 May 2025 12:33:48 GMT | Coinbase Gets Hit with $20M Ransom Demand, Responds with a $20M Bounty Instead | CoinGen | [Read More](https://medium.com/p/e2d6ebfaeee8) |
+| Thu, 15 May 2025 12:33:27 GMT | Best Way to Remove Malware in WordPress in 2025: A Step-by-Step Guide | All in One security | [Read More](https://medium.com/p/ff5dc3ab740b) |
 | Thu, 15 May 2025 12:31:07 GMT | port-scanning for large scopes can lead to $$$$ | ABDELKARIM MOUCHQUELITA | [Read More](https://medium.com/p/fdc1b7b5af00) |
 | Thu, 15 May 2025 12:23:34 GMT | A Practical Guide to AWS IAM: Securing Access in the Cloud | Prashansa Agrrawal | [Read More](https://medium.com/p/ae725cd430a0) |
 | Thu, 15 May 2025 12:23:03 GMT | Information in the Internet Era: How Are We Handling Knowledge? | linglingling3 | [Read More](https://medium.com/p/8fd78a5e8216) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 07:01:47 GMT | The Silent Risk: Third-Party Applications in Endpoint Security | Easy2Patch | [Read More](https://medium.com/p/4972e28b3a45) |
 | Thu, 15 May 2025 07:01:41 GMT | Corporate Greed Chronicles: Microsoft’s Profit Parade Cuts 6,000 | Namir Sagheenanajar | [Read More](https://medium.com/p/e217f28a701a) |
 | Thu, 15 May 2025 06:59:33 GMT | Top Qualities to Look for in a Security Guard Company in Singapore | Jane Tang | [Read More](https://medium.com/p/51b69c3465db) |
-| Thu, 15 May 2025 06:59:14 GMT | Steam Leak Rumors: Valve Speaks Up and Keeps Us Safe | Kossi Mokpokpo Tengue | [Read More](https://medium.com/p/c9fcec5a8cd2) |
-| Thu, 15 May 2025 06:58:04 GMT | Telegram for Threat Intelligence | dhanush s | [Read More](https://medium.com/p/18e1138b3b1d) |
-| Thu, 15 May 2025 06:51:33 GMT | 從編譯器視角看 App 程式碼安全與防護 | Yeecy | [Read More](https://medium.com/p/8b8313ee5db1) |
-| Thu, 15 May 2025 06:49:57 GMT | From Zero to Cyber Hero: How Our Cyber Security Analyst Programme Prepares You for a Job-Ready… | Mamunul Islam | [Read More](https://medium.com/p/5699365e7140) |
-| Thu, 15 May 2025 06:49:38 GMT | CompTIA Security+ SY0–701 Acronyms You Can’t Afford to Miss | unica 02 | [Read More](https://medium.com/p/8713ce4b8087) |
-| Thu, 15 May 2025 06:36:43 GMT | Your Wi-Fi Is Probably Already Hacked — And You’d Never Know It (Here’s How It Happens) | Sajjad Hussain | [Read More](https://medium.com/p/ddf38c50cbe7) |
-| Thu, 15 May 2025 06:35:05 GMT | Why Investing in DDoS Mitigation Tools Is Critical for Business Continuity | Gargiben | [Read More](https://medium.com/p/37251578c310) |
-| Thu, 15 May 2025 06:33:45 GMT | THE PROPAGANDIST’S CULTURE: Manufacturing Contemporary Societal Narratives | Chantal Ryan | [Read More](https://medium.com/p/046643356a3c) |
-| Thu, 15 May 2025 06:29:38 GMT | What is Open Source Intelligence (OSINT) & Why It Matters in Cybersecurity | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/20d1f2f6e6b3) |
-| Thu, 15 May 2025 06:25:56 GMT | Understanding the Recent Steam Account Data Leak: What You Need to Know | Dineth Heshan | [Read More](https://medium.com/p/536d614219ab) |
