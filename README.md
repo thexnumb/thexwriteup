@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 22:59:33 GMT | A Wall, Some Birds, and The Internet Protocols We Aren’t Looking At. | Christopher Neitzert | [Read More](https://medium.com/p/0500922f3806) |
+| Thu, 15 May 2025 22:56:39 GMT | What is Confidentiality in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/9c14c04d2bbb) |
+| Thu, 15 May 2025 22:42:23 GMT | What can I do to prevent social media addiction? | Savvy Cyber Kids | [Read More](https://medium.com/p/37fbae6cc7fa) |
 | Thu, 15 May 2025 22:42:17 GMT | Dear Me, | Oluwadamilola Fabiyi | [Read More](https://medium.com/p/403a2385ee07) |
 | Thu, 15 May 2025 22:41:49 GMT | Smart Social Media Security Strategies for Business | Savvy Cyber Kids | [Read More](https://medium.com/p/a3cf6ca40d4f) |
 | Thu, 15 May 2025 22:32:28 GMT | CREATIVE WALKTHROUGH: TRYHACKME | rizzziom | [Read More](https://medium.com/p/6f6e54908a90) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 16:01:40 GMT | How to Safely Access Wi-Fi in Coffee Shops | Pranav Bhardwaj | [Read More](https://medium.com/p/54f7c9bccf0d) |
 | Thu, 15 May 2025 15:59:23 GMT | Top 5 Cyber Security Courses and Certifications for Beginners in 2025 | javinpaul | [Read More](https://medium.com/p/fa8386e0c467) |
 | Thu, 15 May 2025 15:56:45 GMT | Nematodes: What’s the deal? | Kind Seed Co - https://kindseed.com/ | [Read More](https://medium.com/p/c11f21ad2d3c) |
-| Thu, 15 May 2025 15:53:14 GMT | Who Holds the Key to the Houthi PC Small Group? | Alicia Asín Pérez | [Read More](https://medium.com/p/752a74d79b59) |
-| Thu, 15 May 2025 15:48:58 GMT | Human Hacking: How Cybercriminals Exploit Psychology | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/8030585f6f7a) |
-| Thu, 15 May 2025 15:26:43 GMT | TryHackMe - APT28 Inception Theory - WriteUp | Axoloth | [Read More](https://medium.com/p/1de3cdf0a29b) |
