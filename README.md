@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 21:08:50 GMT | Escalando Privilégios com a Determinação de um Shih Tzu | Sérgio Corrêa | [Read More](https://medium.com/p/9df40e8a482c) |
+| Thu, 15 May 2025 20:53:52 GMT | ✅ Why My Drone Server Works for Ethical Hacking | Benjaminmillerdev | [Read More](https://medium.com/p/778ffb2c35f0) |
+| Thu, 15 May 2025 20:51:32 GMT | The Great Steam “Hack” of 2025 | Simple Stack | [Read More](https://medium.com/p/f6912216ee6d) |
+| Thu, 15 May 2025 20:49:44 GMT | Catching Secrets Early: A Lightweight Build-Time Tripwire for Vite | John Munn | [Read More](https://medium.com/p/825f0998430c) |
 | Thu, 15 May 2025 20:37:17 GMT | How One Click Can Wreck Your System: A Deep Dive into the Horabot Malware Campaign | Cyber-AppSec | [Read More](https://medium.com/p/865b72255e0f) |
 | Thu, 15 May 2025 20:35:24 GMT | Zero Trust Security: Why It’s Now a Must-Have for Every Business | Donald Betancourt | [Read More](https://medium.com/p/12af55e1f638) |
 | Thu, 15 May 2025 20:30:15 GMT | Coinbase launches $20M bounty after rogue agents leak customer data | IC News | [Read More](https://medium.com/p/f7e45065235f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 14:38:08 GMT | PENGANCE | Benjaminmillerdev | [Read More](https://medium.com/p/58f116876ff8) |
 | Thu, 15 May 2025 14:31:57 GMT | What Is an MSP? A Simple Guide for Business Owners | Surge Solutions | [Read More](https://medium.com/p/1d156583c8a8) |
 | Thu, 15 May 2025 14:23:48 GMT | Vulnerability Dies in Gaza | Carol Smaldino | [Read More](https://medium.com/p/c31bcab3bf85) |
-| Thu, 15 May 2025 14:23:33 GMT | Master OSINT with Wtfis: Simple Domain & IP Lookup Guide | Pawan Jaiswal | [Read More](https://medium.com/p/7f4dd13a6afe) |
-| Thu, 15 May 2025 14:22:08 GMT | Did You Say Passwordless? Really? | Vincent Le Goff | [Read More](https://medium.com/p/dcd4c8ee0c59) |
-| Thu, 15 May 2025 14:20:12 GMT | How People From Medieval Times Fought Bugs Without Modern Tools? | Time Tales | [Read More](https://medium.com/p/a7bfb3f391bf) |
-| Thu, 15 May 2025 14:18:23 GMT | Your Data Got Stolen. Why No One Told You (Legally) | BillfordX | [Read More](https://medium.com/p/5d9dfef5104c) |
