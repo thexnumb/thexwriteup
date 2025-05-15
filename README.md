@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 21:55:22 GMT | Quantum Industry Leaders Urge Congress to Reauthorize and Expand National Quantum Initiative | QuantumGenie | [Read More](https://medium.com/p/acb6222c1fd3) |
+| Thu, 15 May 2025 21:53:31 GMT | ETW Interceptor | S12 - H4CK | [Read More](https://medium.com/p/749f993713e4) |
+| Thu, 15 May 2025 21:52:18 GMT | CVE-2025-4455: Local Privilege Escalation in Patch My PC Home Updater | Sneharghya Roy | [Read More](https://medium.com/p/58f2c2041b46) |
+| Thu, 15 May 2025 21:40:02 GMT | The $400M Crypto Crisis at Coinbase: A Cyber Wake-Up Call for the AI Era | NaveeeN Chendra | [Read More](https://medium.com/p/b4170e6bb795) |
 | Thu, 15 May 2025 21:35:05 GMT | 403 Bypass Techniques for Bug Bounty | SilverXCyber | [Read More](https://medium.com/p/dcd449733bec) |
 | Thu, 15 May 2025 21:28:45 GMT | Snort for Beginners: A Guide to Using and Writing Rules | Analyst Atlas | [Read More](https://medium.com/p/436330cfc82a) |
 | Thu, 15 May 2025 21:25:09 GMT | How to Protect Yourself from AI Voice Cloning Scams in 2025: Real Incidents and Safety Tips | Ramesh C | [Read More](https://medium.com/p/706cc99a3b16) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 15:10:26 GMT | JavaScript Essentials -- Tryhackme-- Cybersecurity 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/fa45f63955c0) |
 | Thu, 15 May 2025 15:03:45 GMT | Firewall Bypass Techniques and Mitigation Strategies: Technical Deep-Dive | Okan Yıldız | [Read More](https://medium.com/p/81e6790f217d) |
 | Thu, 15 May 2025 15:00:37 GMT | Malware Simulation | Shahzaib Khan | [Read More](https://medium.com/p/120c9fc1b43f) |
-| Thu, 15 May 2025 14:55:59 GMT | Analyzing Microsoft and Ivanti Vulnerabilities: A Deep Dive | Nexsecura | [Read More](https://medium.com/p/7816b17626ec) |
-| Thu, 15 May 2025 14:54:30 GMT | How to hack or change school Grade. | Private-hackers.com | [Read More](https://medium.com/p/45140b9668fd) |
-| Thu, 15 May 2025 14:48:17 GMT | ️ Day 36: MAC Addresses, ARP, ARP Spoofing, Netstat & Nmap Explained | Agarwaldaksh | [Read More](https://medium.com/p/1a983fac6257) |
-| Thu, 15 May 2025 14:48:08 GMT | ⚡ Nmap Simple Tricks — Beginner to Pro in 60 Seconds | LazyHacker | [Read More](https://medium.com/p/4197e0a4cb80) |
