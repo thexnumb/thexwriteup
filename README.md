@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 16:23:41 GMT | “To be wanted, not just alive” | Echo. S. Vale | [Read More](https://medium.com/p/5ebae34a7fa6) |
+| Thu, 15 May 2025 16:17:53 GMT | About Me — Steve Gubenia | Steve Gubenia | [Read More](https://medium.com/p/31fe8b25da54) |
+| Thu, 15 May 2025 16:14:13 GMT | My empty feeling carries weight | Smart | [Read More](https://medium.com/p/430ad4352a3a) |
+| Thu, 15 May 2025 16:13:45 GMT | The Growing Threat From Within The Country: The Internal Security Challenges | Justine Jacob | [Read More](https://medium.com/p/3682a09707f7) |
+| Thu, 15 May 2025 16:10:21 GMT | Targeted Cybersecurity Advice | Levko Kravchuk | [Read More](https://medium.com/p/eff880031f89) |
+| Thu, 15 May 2025 16:07:21 GMT | How One Workshop Taught Me the Meaning of Impact | Alyssa Williams-Sinn | [Read More](https://medium.com/p/deb6fd3fa5b6) |
+| Thu, 15 May 2025 16:03:17 GMT | Cybersecurity for Online Users: Taking Back Your Power by Understanding Cyberbullies | E. Ibrahimi | [Read More](https://medium.com/p/f90a525237b7) |
+| Thu, 15 May 2025 16:01:40 GMT | Outdated + Reliable = Freedom | Pentestiverse | [Read More](https://medium.com/p/1ba76c547cf2) |
+| Thu, 15 May 2025 16:01:40 GMT | How to Safely Access Wi-Fi in Coffee Shops | Pranav Bhardwaj | [Read More](https://medium.com/p/54f7c9bccf0d) |
+| Thu, 15 May 2025 15:59:23 GMT | Top 5 Cyber Security Courses and Certifications for Beginners in 2025 | javinpaul | [Read More](https://medium.com/p/fa8386e0c467) |
+| Thu, 15 May 2025 15:56:45 GMT | Nematodes: What’s the deal? | Kind Seed Co - https://kindseed.com/ | [Read More](https://medium.com/p/c11f21ad2d3c) |
+| Thu, 15 May 2025 15:53:14 GMT | Who Holds the Key to the Houthi PC Small Group? | Alicia Asín Pérez | [Read More](https://medium.com/p/752a74d79b59) |
+| Thu, 15 May 2025 15:48:58 GMT | Human Hacking: How Cybercriminals Exploit Psychology | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/8030585f6f7a) |
 | Thu, 15 May 2025 15:26:43 GMT | TryHackMe - APT28 Inception Theory - WriteUp | Axoloth | [Read More](https://medium.com/p/1de3cdf0a29b) |
 | Thu, 15 May 2025 15:25:38 GMT | What Is Foundation? Understanding the Ground Beneath Cybersecurity | Zavier Chambers | [Read More](https://medium.com/p/d2bfe8b866b8) |
 | Thu, 15 May 2025 15:24:05 GMT | How Attackers Use Google Dorks to Discover Your Exposed Assets | Tejprakash | [Read More](https://medium.com/p/026f367c21e4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 10:07:03 GMT | AWS: Securing EKS Applications using ALB Integration with AWS WAF | Rio Wiraldhani | [Read More](https://medium.com/p/669db7a86e8a) |
 | Thu, 15 May 2025 10:02:30 GMT | How Malware Analysis Training Powers Up SOC and MSSP Teams | ANY.RUN | [Read More](https://medium.com/p/6430a3fe240a) |
 | Thu, 15 May 2025 09:56:21 GMT | 10 Web App Vulnerabilities Often Caught During Penetration Testing | Sam Bishop | [Read More](https://medium.com/p/4a6dca1fbc62) |
-| Thu, 15 May 2025 09:56:18 GMT | SAP Zero-Day Vulnerabilities Under Active Exploitation — What You Need to Know | Infoziant | [Read More](https://medium.com/p/8667d63defa5) |
-| Thu, 15 May 2025 09:52:06 GMT | Blueprints for Trust: How Information Security Management Protects Modern Organizations | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/5ebc722c9604) |
-| Thu, 15 May 2025 09:48:13 GMT | What Every CISO Needs to Know About Modern Cyber Threats | West Advanced Technologies Inc | [Read More](https://medium.com/p/3133244e7b2a) |
-| Thu, 15 May 2025 09:47:06 GMT | CASE STUDY: A PENTEST MANAGEMENT PORTAL AS A MARKET DIFFERENTIATOR WITH CYVER CORE | Cyver Core | [Read More](https://medium.com/p/8f58b5ca5de5) |
-| Thu, 15 May 2025 09:44:45 GMT | Kembar Tak Seiras | Reski F | [Read More](https://medium.com/p/8dbf223c05d6) |
-| Thu, 15 May 2025 09:40:05 GMT | Why Overnight Security Guards Are Crucial for After-Hours Business Protection | ICORP Security | [Read More](https://medium.com/p/a15c1af96e49) |
-| Thu, 15 May 2025 09:38:01 GMT | GitHub Dorking Brought Us the Bounty | nocley | [Read More](https://medium.com/p/cd1c4675371e) |
-| Thu, 15 May 2025 09:33:35 GMT | APT28 Inception Theory - TryHackMe Writeup - By VALKYRIE | VALKYRIE | [Read More](https://medium.com/p/d719e5362c7c) |
-| Thu, 15 May 2025 09:33:26 GMT | The Real Cost of a Data Breach in 2025: What Businesses Need to Know | Deuglo Infosystem Pvt Ltd | [Read More](https://medium.com/p/e8212848493b) |
-| Thu, 15 May 2025 09:27:54 GMT | CISSP Certification at Cybernous: Your Gateway to Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/a4508edb679f) |
-| Thu, 15 May 2025 09:23:22 GMT | Carbanak: The Billion-Dollar Cybercrime Syndicate | Sairaj | [Read More](https://medium.com/p/9bbb9e15e2ee) |
-| Thu, 15 May 2025 09:20:24 GMT | What is a Security Operations Center (SOC)? | Saurabh | [Read More](https://medium.com/p/7b478f121d18) |
-| Thu, 15 May 2025 09:13:38 GMT | ️ Building a Full-Stack Website Vulnerability Scanner: A Deep Dive into My Security Projectd | Abdul Basit | [Read More](https://medium.com/p/93580f70325c) |
