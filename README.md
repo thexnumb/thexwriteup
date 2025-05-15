@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 21:35:05 GMT | 403 Bypass Techniques for Bug Bounty | SilverXCyber | [Read More](https://medium.com/p/dcd449733bec) |
+| Thu, 15 May 2025 21:28:45 GMT | Snort for Beginners: A Guide to Using and Writing Rules | Analyst Atlas | [Read More](https://medium.com/p/436330cfc82a) |
+| Thu, 15 May 2025 21:25:09 GMT | How to Protect Yourself from AI Voice Cloning Scams in 2025: Real Incidents and Safety Tips | Ramesh C | [Read More](https://medium.com/p/706cc99a3b16) |
+| Thu, 15 May 2025 21:23:25 GMT | Beyond the Blueprint: Understanding the 7 Critical Phases of Cyber Incident Response | Xaltius | [Read More](https://medium.com/p/7ce71d5bf4ea) |
+| Thu, 15 May 2025 21:22:09 GMT | A Bug That Grok Couldn’t Fix In Its Own Code | Teri Radichel | [Read More](https://medium.com/p/e77bc70c2cbd) |
+| Thu, 15 May 2025 21:20:59 GMT | What is a Cybersecurity Incident Response Plan & Why Do You Need It? | Xaltius | [Read More](https://medium.com/p/a3be1f272b8c) |
 | Thu, 15 May 2025 21:08:50 GMT | Escalando Privilégios com a Determinação de um Shih Tzu | Sérgio Corrêa | [Read More](https://medium.com/p/9df40e8a482c) |
 | Thu, 15 May 2025 20:53:52 GMT | ✅ Why My Drone Server Works for Ethical Hacking | Benjaminmillerdev | [Read More](https://medium.com/p/778ffb2c35f0) |
 | Thu, 15 May 2025 20:51:32 GMT | The Great Steam “Hack” of 2025 | Simple Stack | [Read More](https://medium.com/p/f6912216ee6d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 14:54:30 GMT | How to hack or change school Grade. | Private-hackers.com | [Read More](https://medium.com/p/45140b9668fd) |
 | Thu, 15 May 2025 14:48:17 GMT | ️ Day 36: MAC Addresses, ARP, ARP Spoofing, Netstat & Nmap Explained | Agarwaldaksh | [Read More](https://medium.com/p/1a983fac6257) |
 | Thu, 15 May 2025 14:48:08 GMT | ⚡ Nmap Simple Tricks — Beginner to Pro in 60 Seconds | LazyHacker | [Read More](https://medium.com/p/4197e0a4cb80) |
-| Thu, 15 May 2025 14:46:55 GMT | Quantum Computing: Should We Be Afraid or Excited? | Rosekivuvan | [Read More](https://medium.com/p/2ec55799db46) |
-| Thu, 15 May 2025 14:45:27 GMT | SQL Injection (SQLi) & SQL Login Bypass | Rajat Patel | [Read More](https://medium.com/p/8551b7fc56e3) |
-| Thu, 15 May 2025 14:39:46 GMT | GDB baby step 1 - Writeup | Marvin | [Read More](https://medium.com/p/62d07474abce) |
-| Thu, 15 May 2025 14:38:08 GMT | PENGANCE | Benjaminmillerdev | [Read More](https://medium.com/p/58f116876ff8) |
-| Thu, 15 May 2025 14:31:57 GMT | What Is an MSP? A Simple Guide for Business Owners | Surge Solutions | [Read More](https://medium.com/p/1d156583c8a8) |
-| Thu, 15 May 2025 14:23:48 GMT | Vulnerability Dies in Gaza | Carol Smaldino | [Read More](https://medium.com/p/c31bcab3bf85) |
