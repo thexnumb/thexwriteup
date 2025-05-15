@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 22:42:17 GMT | Dear Me, | Oluwadamilola Fabiyi | [Read More](https://medium.com/p/403a2385ee07) |
+| Thu, 15 May 2025 22:41:49 GMT | Smart Social Media Security Strategies for Business | Savvy Cyber Kids | [Read More](https://medium.com/p/a3cf6ca40d4f) |
+| Thu, 15 May 2025 22:32:28 GMT | CREATIVE WALKTHROUGH: TRYHACKME | rizzziom | [Read More](https://medium.com/p/6f6e54908a90) |
+| Thu, 15 May 2025 22:21:15 GMT | [Hack The Box CTF] Underpass Write Up | fnwn | [Read More](https://medium.com/p/1884856becc2) |
+| Thu, 15 May 2025 22:18:32 GMT | Unlocking the Mysteries of the Deep and Dark Web | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/c076bef35807) |
+| Thu, 15 May 2025 22:17:37 GMT | Top 10 Websites to Automate Cybersecurity: Supercharge Your Workflow | Karthikeyan Nagaraj | [Read More](https://medium.com/p/abf612d26fd9) |
 | Thu, 15 May 2025 21:55:22 GMT | Quantum Industry Leaders Urge Congress to Reauthorize and Expand National Quantum Initiative | QuantumGenie | [Read More](https://medium.com/p/acb6222c1fd3) |
 | Thu, 15 May 2025 21:53:31 GMT | ETW Interceptor | S12 - H4CK | [Read More](https://medium.com/p/749f993713e4) |
 | Thu, 15 May 2025 21:52:18 GMT | CVE-2025-4455: Local Privilege Escalation in Patch My PC Home Updater | Sneharghya Roy | [Read More](https://medium.com/p/58f2c2041b46) |
@@ -45,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 19:21:09 GMT | Doppel: AI Social Engineering Defense | Justin Schulman | [Read More](https://medium.com/p/aa81b381ea90) |
 | Thu, 15 May 2025 19:19:39 GMT | Your data is at risk. Here is why | Richard Ndung'u | [Read More](https://medium.com/p/61695734d1cc) |
 | Thu, 15 May 2025 19:09:36 GMT | Code — Hack The Box — Write Up | Shacrony | [Read More](https://medium.com/p/e2d9f6773eb8) |
+| Thu, 15 May 2025 18:59:38 GMT | Strangers in the Sky Club | Natalie Miller | [Read More](https://medium.com/p/d852132396fb) |
 | Thu, 15 May 2025 18:56:56 GMT | Sonrisas Dental Health Data Breach Exposes Personal Information of Nearly 16,000 Patients | LegalNewsbyDave | [Read More](https://medium.com/p/8efc488c3309) |
 | Thu, 15 May 2025 18:55:58 GMT | Mobil Uygulama İzinleri:Python ve SQL ile Analiz Ve Kodlama | Berfin Özay | [Read More](https://medium.com/p/cfa7adcd1fbc) |
 | Thu, 15 May 2025 18:55:48 GMT | Honeywell’s Quantinuum and Qatar’s Al Rabban Capital Forge $1 Billion Quantum Computing Joint… | QuantumGenie | [Read More](https://medium.com/p/4bb916103e9f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 15:53:14 GMT | Who Holds the Key to the Houthi PC Small Group? | Alicia Asín Pérez | [Read More](https://medium.com/p/752a74d79b59) |
 | Thu, 15 May 2025 15:48:58 GMT | Human Hacking: How Cybercriminals Exploit Psychology | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/8030585f6f7a) |
 | Thu, 15 May 2025 15:26:43 GMT | TryHackMe - APT28 Inception Theory - WriteUp | Axoloth | [Read More](https://medium.com/p/1de3cdf0a29b) |
-| Thu, 15 May 2025 15:25:38 GMT | What Is Foundation? Understanding the Ground Beneath Cybersecurity | Zavier Chambers | [Read More](https://medium.com/p/d2bfe8b866b8) |
-| Thu, 15 May 2025 15:24:05 GMT | How Attackers Use Google Dorks to Discover Your Exposed Assets | Tejprakash | [Read More](https://medium.com/p/026f367c21e4) |
-| Thu, 15 May 2025 15:18:58 GMT | “AI & Relationships: Can You Fall in Love With a Machine?” | Pavan | [Read More](https://medium.com/p/aaf79a3fe9eb) |
-| Thu, 15 May 2025 15:11:37 GMT | ISMS & Data Security: A Practical Guide | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/228ffe611935) |
-| Thu, 15 May 2025 15:10:26 GMT | JavaScript Essentials -- Tryhackme-- Cybersecurity 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/fa45f63955c0) |
-| Thu, 15 May 2025 15:03:45 GMT | Firewall Bypass Techniques and Mitigation Strategies: Technical Deep-Dive | Okan Yıldız | [Read More](https://medium.com/p/81e6790f217d) |
-| Thu, 15 May 2025 15:00:37 GMT | Malware Simulation | Shahzaib Khan | [Read More](https://medium.com/p/120c9fc1b43f) |
