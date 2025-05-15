@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 18:56:56 GMT | Sonrisas Dental Health Data Breach Exposes Personal Information of Nearly 16,000 Patients | LegalNewsbyDave | [Read More](https://medium.com/p/8efc488c3309) |
+| Thu, 15 May 2025 18:55:58 GMT | Mobil Uygulama İzinleri:Python ve SQL ile Analiz Ve Kodlama | Berfin Özay | [Read More](https://medium.com/p/cfa7adcd1fbc) |
+| Thu, 15 May 2025 18:55:48 GMT | Honeywell’s Quantinuum and Qatar’s Al Rabban Capital Forge $1 Billion Quantum Computing Joint… | QuantumGenie | [Read More](https://medium.com/p/4bb916103e9f) |
+| Thu, 15 May 2025 18:43:21 GMT | “We Caught Something… Now What?” The Cost of Not Knowing Your Next Move in Cybersecurity | Andrea Alaniz | [Read More](https://medium.com/p/44f869a40c82) |
+| Thu, 15 May 2025 18:39:50 GMT | DER “AUSSCHALTER”– EIN KNOPFDRUCK, DER EUROPA ZUM STILLSTAND BRINGEN KÖNNTE! | Benjamin Rohé | [Read More](https://medium.com/p/50094a90a8da) |
 | Thu, 15 May 2025 18:38:12 GMT | Navigieren in der hybriden Bedrohungslandschaft | Benjamin Rohé | [Read More](https://medium.com/p/3f88a55dae61) |
 | Thu, 15 May 2025 18:36:46 GMT | NoSQL Injection Detection — A hands-on Exploitation Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/03aaa19dab70) |
 | Thu, 15 May 2025 18:35:26 GMT | Beyond Firewalls: Why True IT Security Starts with Visibility and Lifecycle Control | LJ - Your tech guy | [Read More](https://medium.com/p/0f77e2538d61) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 13:04:55 GMT | Angular Directive Security Fundamentals | Herbert Moroni Gois | [Read More](https://medium.com/p/dcedeae573b5) |
 | Thu, 15 May 2025 13:02:29 GMT | Rethink Your Passwords: Why Traditional Credential Security Is Failing Fast | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2d4ae3c04470) |
 | Thu, 15 May 2025 12:59:08 GMT | Who is a cybersecurity analyst? | Mfoniso Obonguko | [Read More](https://medium.com/p/0a06038e14e7) |
-| Thu, 15 May 2025 12:54:09 GMT | How to Access the Dark Web | Haris Ali | [Read More](https://medium.com/p/e72206539693) |
-| Thu, 15 May 2025 12:47:46 GMT | Wazuh | Shamar Isaac | [Read More](https://medium.com/p/89574e832432) |
-| Thu, 15 May 2025 12:34:03 GMT | NIST’s Latest Post-Quantum Cryptography Standards: Securing the Quantum Future | Pankaj Kumar Bind | [Read More](https://medium.com/p/8f8855323962) |
-| Thu, 15 May 2025 12:33:48 GMT | Coinbase Gets Hit with $20M Ransom Demand, Responds with a $20M Bounty Instead | CoinGen | [Read More](https://medium.com/p/e2d6ebfaeee8) |
-| Thu, 15 May 2025 12:33:27 GMT | Best Way to Remove Malware in WordPress in 2025: A Step-by-Step Guide | All in One security | [Read More](https://medium.com/p/ff5dc3ab740b) |
