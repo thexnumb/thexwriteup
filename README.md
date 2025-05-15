@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 16:46:44 GMT | --- | Md Jisan | [Read More](https://medium.com/p/a181d6ace97b) |
+| Thu, 15 May 2025 16:44:59 GMT | A (not so) Unexpected Journey: Building My First Home Lab, Part 2 | Chris C. | [Read More](https://medium.com/p/ac2ba5dd657e) |
+| Thu, 15 May 2025 16:41:24 GMT | Kinkily speaking, I like being choked too… | hot flashes & hard truths | [Read More](https://medium.com/p/cd8bf1b5a098) |
+| Thu, 15 May 2025 16:36:02 GMT | Scattered Spider Strikes Again: U.S. Retailers on High Alert After M&S Cyber-Attack | Omar Alhendi | [Read More](https://medium.com/p/ceca668bc5a6) |
+| Thu, 15 May 2025 16:33:15 GMT | I Deployed a Cloud Honeypot for 30 Days and Captured Over 4 Million Cyberattacks | Chalitha Handapangoda | [Read More](https://medium.com/p/fb05a71dfee2) |
+| Thu, 15 May 2025 16:31:58 GMT | PORT 21 Exploitation [Network Hacking ] -> Series: 1 (article: 1 ) | Mr Horbio | [Read More](https://medium.com/p/779855001a99) |
+| Thu, 15 May 2025 16:28:24 GMT | The Brutal Truth About Why You Didn’t Get That First Cybersecurity Job | Taimur Ijlal | [Read More](https://medium.com/p/a25242af1c0e) |
+| Thu, 15 May 2025 16:27:09 GMT | What is Cloud Infrastructure Entitlement Management and Why Your Business Needs It | SafeAeon Inc. | [Read More](https://medium.com/p/e0c36a1cb525) |
 | Thu, 15 May 2025 16:23:41 GMT | “To be wanted, not just alive” | Echo. S. Vale | [Read More](https://medium.com/p/5ebae34a7fa6) |
+| Thu, 15 May 2025 16:22:42 GMT | Why Business Logic Vulnerabilities Are the Silent Killers of Modern Web Apps | Mehak kamra | [Read More](https://medium.com/p/2d260d8796ea) |
 | Thu, 15 May 2025 16:17:53 GMT | About Me — Steve Gubenia | Steve Gubenia | [Read More](https://medium.com/p/31fe8b25da54) |
 | Thu, 15 May 2025 16:14:13 GMT | My empty feeling carries weight | Smart | [Read More](https://medium.com/p/430ad4352a3a) |
 | Thu, 15 May 2025 16:13:45 GMT | The Growing Threat From Within The Country: The Internal Security Challenges | Justine Jacob | [Read More](https://medium.com/p/3682a09707f7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 10:25:11 GMT | I Passed the ISC2 CC Exam on My First Try! — Here’s How You Can Too | Joycelyn Somuah Boateng | [Read More](https://medium.com/p/c485b20899d9) |
 | Thu, 15 May 2025 10:23:44 GMT | How to Build a Domain-Specific Chatbot with Guardrails — A Practical Guide for Real-World… | Yash Tripathi | [Read More](https://medium.com/p/47de2f6fdbdf) |
 | Thu, 15 May 2025 10:23:38 GMT | Social Engineering: The Hidden Cyber Threat You’re Probably Falling For | Ziad Tamer | [Read More](https://medium.com/p/c4b184a7b780) |
-| Thu, 15 May 2025 10:22:38 GMT | I Lost $82,000 in a SIM Swap Scam and It All Started with a Text Message | Bricedakota | [Read More](https://medium.com/p/930d68e61b0f) |
-| Thu, 15 May 2025 10:19:49 GMT | Choosing the Right Cyber Security Degree: A Guide to Building a Future-Proof Career in Tech | Brainware University | [Read More](https://medium.com/p/06eab01cdc1c) |
-| Thu, 15 May 2025 10:16:55 GMT | Recovering from a Cyber Attack: 3 Key Steps for a Swift Comeback | Certera | [Read More](https://medium.com/p/9b522a50adbc) |
-| Thu, 15 May 2025 10:16:40 GMT | Why the $1.2B Helium Re Liquidator Market Is Poised for a Sustainable Revolution by 2033 | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/1db86ef21a59) |
-| Thu, 15 May 2025 10:11:15 GMT | Learn Cybersecurity in 2025: A Beginner’s Guide to Skills Courses and Career Paths | cyberwingITSolution | [Read More](https://medium.com/p/4c3bd10bf9c6) |
-| Thu, 15 May 2025 10:10:13 GMT | Ethical Hacking — Cryptography | Leroyanand | [Read More](https://medium.com/p/bfc533ae49cc) |
-| Thu, 15 May 2025 10:07:03 GMT | AWS: Securing EKS Applications using ALB Integration with AWS WAF | Rio Wiraldhani | [Read More](https://medium.com/p/669db7a86e8a) |
-| Thu, 15 May 2025 10:02:30 GMT | How Malware Analysis Training Powers Up SOC and MSSP Teams | ANY.RUN | [Read More](https://medium.com/p/6430a3fe240a) |
-| Thu, 15 May 2025 09:56:21 GMT | 10 Web App Vulnerabilities Often Caught During Penetration Testing | Sam Bishop | [Read More](https://medium.com/p/4a6dca1fbc62) |
