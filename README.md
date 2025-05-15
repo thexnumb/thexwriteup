@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 03:37:35 GMT | Top 10 Solutions for Large File Uploads in Node.js | Arunangshu Das | [Read More](https://medium.com/p/f8cae7871855) |
+| Thu, 15 May 2025 03:32:26 GMT | Feathers Ruffled: Navigating the Cyber Landscape After the Astral Foods Incident | Deven Chhajed | [Read More](https://medium.com/p/dd2b45641163) |
+| Thu, 15 May 2025 03:18:42 GMT | Advancing Quantum Machine Learning with Multi-Chip Ensemble Architectures | QuantumGenie | [Read More](https://medium.com/p/a0e16d42c346) |
 | Thu, 15 May 2025 02:47:22 GMT | Cybersecurity Debate: CISA Funding Cuts and National Security | CCD-IS | [Read More](https://medium.com/p/a16831bb4f01) |
 | Thu, 15 May 2025 02:30:06 GMT | If Life Gives You Lemonade, Linux is the Answer | Matyas Koszegi | [Read More](https://medium.com/p/c31750431332) |
 | Thu, 15 May 2025 02:20:55 GMT | Penerapan Secure Coding Pada Artikel | Muhammad Imam Chaidar | [Read More](https://medium.com/p/f5ed9c263e40) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 18:06:39 GMT | CJP: Adres IP. Czy warto sprawdzać? To zależy… | Jakub Kowalski Edu | [Read More](https://medium.com/p/f99bd7c9225d) |
 | Wed, 14 May 2025 17:57:53 GMT | HTB Cascade Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/b50e12eac9a9) |
 | Wed, 14 May 2025 17:57:49 GMT | TryHackMe SOC Simulator Case Investigation and Review | Bob Malin | [Read More](https://medium.com/p/a61cf081c6ac) |
-| Wed, 14 May 2025 17:56:44 GMT | How I Use Bash Scripts to Save Time and Earn More as a Linux Freelancer | Faruk Ahmed | [Read More](https://medium.com/p/959f5d31474e) |
-| Wed, 14 May 2025 17:54:51 GMT | Why 2iResourcing Is Canada’s Top IT Recruitment Company in 2025 | 2iResourcing | [Read More](https://medium.com/p/24e7e5001646) |
-| Wed, 14 May 2025 17:54:24 GMT | The Photo Can Reveal a Lot: TheySeeYourPhotos.com Is a Wake-Up Call We Didn’t Know We Needed | cybrNK | [Read More](https://medium.com/p/fe196d24750a) |
