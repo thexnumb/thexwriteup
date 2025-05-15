@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 23:30:10 GMT | ## Defense-Brief
+# Advanced Techniques for Safeguarding AI Systems Against Linguistic Manipulation | Silencegeneric | [Read More](https://medium.com/p/3beb796de1a7) |
+| Thu, 15 May 2025 23:27:07 GMT | Exploitation of vsFTPd 2.3.4 Vulnerability on Metasploitable | Emre ESER | [Read More](https://medium.com/p/e6a1d614d5e5) |
+| Thu, 15 May 2025 23:26:47 GMT | If You Ask Me How I’m Doing…. | Theresa Umoh | [Read More](https://medium.com/p/5c8205038bae) |
+| Thu, 15 May 2025 23:23:20 GMT | What crime did humans commit to attract the punishment of bedbugs! | Confidence | [Read More](https://medium.com/p/5e77ee08aa6c) |
 | Thu, 15 May 2025 22:59:33 GMT | A Wall, Some Birds, and The Internet Protocols We Aren’t Looking At. | Christopher Neitzert | [Read More](https://medium.com/p/0500922f3806) |
 | Thu, 15 May 2025 22:56:39 GMT | What is Confidentiality in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/9c14c04d2bbb) |
 | Thu, 15 May 2025 22:42:23 GMT | What can I do to prevent social media addiction? | Savvy Cyber Kids | [Read More](https://medium.com/p/37fbae6cc7fa) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 16:10:21 GMT | Targeted Cybersecurity Advice | Levko Kravchuk | [Read More](https://medium.com/p/eff880031f89) |
 | Thu, 15 May 2025 16:07:21 GMT | How One Workshop Taught Me the Meaning of Impact | Alyssa Williams-Sinn | [Read More](https://medium.com/p/deb6fd3fa5b6) |
 | Thu, 15 May 2025 16:03:17 GMT | Cybersecurity for Online Users: Taking Back Your Power by Understanding Cyberbullies | E. Ibrahimi | [Read More](https://medium.com/p/f90a525237b7) |
-| Thu, 15 May 2025 16:01:40 GMT | Outdated + Reliable = Freedom | Pentestiverse | [Read More](https://medium.com/p/1ba76c547cf2) |
-| Thu, 15 May 2025 16:01:40 GMT | How to Safely Access Wi-Fi in Coffee Shops | Pranav Bhardwaj | [Read More](https://medium.com/p/54f7c9bccf0d) |
-| Thu, 15 May 2025 15:59:23 GMT | Top 5 Cyber Security Courses and Certifications for Beginners in 2025 | javinpaul | [Read More](https://medium.com/p/fa8386e0c467) |
-| Thu, 15 May 2025 15:56:45 GMT | Nematodes: What’s the deal? | Kind Seed Co - https://kindseed.com/ | [Read More](https://medium.com/p/c11f21ad2d3c) |
