@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 01:19:30 GMT | The 2025 Tech Renaissance: AI, Messaging, and the Silent Battle for Digital Supremacy | Veridian Zenith Tech | [Read More](https://medium.com/p/e7d52a764bb0) |
+| Thu, 15 May 2025 01:15:55 GMT | Email Security: The Basics of Protecting Your Organization & Yourself | Ryan G. Cox | [Read More](https://medium.com/p/eba73ad3026e) |
+| Thu, 15 May 2025 01:12:15 GMT | Vlan Configuration: Access and Trunk Port | Ridwan Owolabi | [Read More](https://medium.com/p/edd1fbd6b055) |
+| Thu, 15 May 2025 01:04:12 GMT | Usable Encryption : Safety Can be Fun | Ngatz | [Read More](https://medium.com/p/de56e3588732) |
+| Thu, 15 May 2025 01:02:53 GMT | To Find Something to lose is beautiful | Mainak Ghosh | [Read More](https://medium.com/p/9012009c1b4a) |
+| Thu, 15 May 2025 00:56:55 GMT | Top 10 Common Cybersecurity Mistakes Developers Make | Mehedi Hasan | [Read More](https://medium.com/p/1a362fc34d7d) |
+| Thu, 15 May 2025 00:42:26 GMT | CCTV and Webcam Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/be43d35ed5ee) |
+| Thu, 15 May 2025 00:29:15 GMT | Reflection on Matthew McConaughey’s Speech and Self-Awareness in Leadership | Keyang Wang | [Read More](https://medium.com/p/8729f5679f2c) |
+| Thu, 15 May 2025 00:25:24 GMT | DC:1 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/87e35c74c60b) |
+| Wed, 14 May 2025 23:57:43 GMT | “AI Reviews for Cash?” Inside a Crypto Scam Disguised as an App Monetization Platform | Ivan | [Read More](https://medium.com/p/453ac9f80356) |
+| Wed, 14 May 2025 23:56:32 GMT | Why Clark, Pampanga Is Quietly Becoming a Goldmine for IT Careers | Jepperson Dela Cerna | [Read More](https://medium.com/p/3a821dc2fdf2) |
+| Wed, 14 May 2025 23:40:54 GMT | How to Pitch at RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyberstars | Tal Eliyahu | [Read More](https://medium.com/p/f7d0a03ade91) |
 | Wed, 14 May 2025 23:20:26 GMT | 8 Ways IT Leaders Can Do More with Less | PhoenixDX | [Read More](https://medium.com/p/6118ee8979f7) |
 | Wed, 14 May 2025 23:11:51 GMT | Understanding Cryptography | Godwinodahak | [Read More](https://medium.com/p/6d3e60915567) |
 | Wed, 14 May 2025 23:08:56 GMT | Wisprgram 2.0 is coming! | Joseph Goins | [Read More](https://medium.com/p/84f2be104309) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 17:12:55 GMT | ️ TRISIS: The Day Safety Systems Were Turned Into Weapons | om sonawane | [Read More](https://medium.com/p/65072a65bad8) |
 | Wed, 14 May 2025 17:12:46 GMT | Hacking the Hardware Brains of Computers is the Ultimate Cyberattack | Matthew.Rosenquist | [Read More](https://medium.com/p/03e8d735aac1) |
 | Wed, 14 May 2025 17:12:31 GMT | ️‍♂️ Advanced Methods for Threat Hunting in Cybersecurity | Esra Kayhan | [Read More](https://medium.com/p/cd958372cd21) |
-| Wed, 14 May 2025 17:06:01 GMT | CYER | Dainiknavajyoti | [Read More](https://medium.com/p/df9ba4094d27) |
-| Wed, 14 May 2025 17:03:32 GMT | India admits Pakistan’s cyber attacks targeting govt websites | Baba Adnan | [Read More](https://medium.com/p/a6be30f5e433) |
-| Wed, 14 May 2025 16:59:17 GMT | Minimizing Attack Surface in Container Images via Chrooted Runtime Composition | Christian Frank Johannsen | [Read More](https://medium.com/p/5bbf273673fb) |
-| Wed, 14 May 2025 16:58:33 GMT | Powerful Ways IoT is Enhancing Cybersecurity | Techridge Solutions | [Read More](https://medium.com/p/d1c1fca1fe22) |
-| Wed, 14 May 2025 16:51:30 GMT | Develop a High-Tech Solution to a Problem | Mr Success | [Read More](https://medium.com/p/f443b520ba80) |
-| Wed, 14 May 2025 16:46:38 GMT | ️ How I Created a Simple Web Server on My Own Computer | Wiley Insight | [Read More](https://medium.com/p/a1ba84b3b060) |
-| Wed, 14 May 2025 16:45:37 GMT | Development Quality Assurance: Secure Programming | Daffa Rafi | [Read More](https://medium.com/p/7135026ec322) |
-| Wed, 14 May 2025 16:41:47 GMT | For the longest time I have been thinking about my experiences in Data, AI, Technology and… | Kamal Distell | [Read More](https://medium.com/p/7738d6ce056a) |
-| Wed, 14 May 2025 16:41:15 GMT | HackerNote(Medium)TryHackMe Walkthrough | 3L4CKCYBR_ | [Read More](https://medium.com/p/41a7080c5046) |
-| Wed, 14 May 2025 16:40:05 GMT | Redesigning the workshop: AI-powered facilitation in Miro, FigJam, and Mural | UX.raspberry | [Read More](https://medium.com/p/84d8b3deab62) |
-| Wed, 14 May 2025 16:39:09 GMT | S-400 vs HQ-9 | Info Grind | [Read More](https://medium.com/p/2d52b698fbfa) |
-| Wed, 14 May 2025 16:38:49 GMT | Hack The Box — UnderPass (Linux, Easy) - Walkthrough | 9t0wl | [Read More](https://medium.com/p/4e2dfeb7321f) |
