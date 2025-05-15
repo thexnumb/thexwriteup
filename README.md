@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 05:41:36 GMT | CHAINING THE SCOPE | Sijo Johnson | [Read More](https://medium.com/p/0f6fcb9e7cf4) |
+| Thu, 15 May 2025 05:28:39 GMT | Not Just Coding: Filling the Cybersecurity Gap in Australian Schools | LogicBound | [Read More](https://medium.com/p/0a1d50c0001a) |
+| Thu, 15 May 2025 05:23:16 GMT | ️ Secure IoT in the Wild: How to Harden Your Devices | Preeti | [Read More](https://medium.com/p/0796b2009082) |
+| Thu, 15 May 2025 05:19:49 GMT | Comprehensive Cyber Security Audits & Information Security in London | Paladin Cyber Security London | [Read More](https://medium.com/p/2afa55e2b0aa) |
+| Thu, 15 May 2025 05:17:37 GMT | QA Mindset Shift: From Bug Hunters to User Whisperers | Ivan Boklach | [Read More](https://medium.com/p/7e9dccff0fc4) |
 | Thu, 15 May 2025 05:09:47 GMT | Computer Networks: The Backbone of the Internet | PanicAtTheKernel | [Read More](https://medium.com/p/62328f01b917) |
 | Thu, 15 May 2025 05:05:25 GMT | Nmap Commands You Need to Know for the CompTIA Security+ SY0–701 Exam | unica 02 | [Read More](https://medium.com/p/dc60091f424f) |
 | Thu, 15 May 2025 05:00:04 GMT | Day 6 : Creating Tables | Skills 4 Free Myanmar | [Read More](https://medium.com/p/db8d69663c65) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 20:01:46 GMT | China’s Army Of Hackers | Shubhransh Rai | [Read More](https://medium.com/p/0dea21e372d7) |
 | Wed, 14 May 2025 19:49:04 GMT | Tobiloba Aramide Ogundiyan Secrets to Tech Success Unveiled | Tobiloba Aramide Ogundiyan | [Read More](https://medium.com/p/3b8df517097b) |
 | Wed, 14 May 2025 19:46:32 GMT | How to Safely Migrate a WordPress Site Without Downtime | Shubradeb | [Read More](https://medium.com/p/2634bc820985) |
-| Wed, 14 May 2025 19:36:29 GMT | Architectural Interception of Drones: Spectrum Mimicry and Controlled Cognitive Collapse | Artem Leonov | [Read More](https://medium.com/p/b2042eba6623) |
-| Wed, 14 May 2025 19:35:05 GMT | XSS Attacks: What They Are and How to Protect Your Website | Akshay Chauhan | [Read More](https://medium.com/p/14b5dbd1888a) |
-| Wed, 14 May 2025 19:33:31 GMT | How I’m Building a Tech Hustle While Studying Cybersecurity in Nigeria | Russell - Gadget Hustler | [Read More](https://medium.com/p/bde611165a27) |
-| Wed, 14 May 2025 19:26:45 GMT | The Technical Debt Trap: A Strategic Framework for Enterprise IT Leaders | Azzeddine Amiar | [Read More](https://medium.com/p/6fca49078512) |
-| Wed, 14 May 2025 19:20:26 GMT | The Marks & Spencer Cyberattack | IT_Engineer | [Read More](https://medium.com/p/e293f755b471) |
