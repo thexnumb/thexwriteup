@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 04:13:34 GMT | Cybersecurity101 — Mitre Att&ck Series #1: Active Scanning —  What Security Analysts Need to Know | Ilham Firdiyanto | [Read More](https://medium.com/p/a01d98c09e42) |
+| Thu, 15 May 2025 03:53:40 GMT | Code PiPeLine #6 — Write Code That Defends Itself: A Beginner’s Guide to Secure Programming | Steven Faustin Orginata | [Read More](https://medium.com/p/540a81c6ddc0) |
+| Thu, 15 May 2025 03:47:20 GMT | ISO Certified Explained | abdur rashid firdaus | [Read More](https://medium.com/p/fa9b073eb1bf) |
 | Thu, 15 May 2025 03:37:35 GMT | Top 10 Solutions for Large File Uploads in Node.js | Arunangshu Das | [Read More](https://medium.com/p/f8cae7871855) |
 | Thu, 15 May 2025 03:32:26 GMT | Feathers Ruffled: Navigating the Cyber Landscape After the Astral Foods Incident | Deven Chhajed | [Read More](https://medium.com/p/dd2b45641163) |
 | Thu, 15 May 2025 03:18:42 GMT | Advancing Quantum Machine Learning with Multi-Chip Ensemble Architectures | QuantumGenie | [Read More](https://medium.com/p/a0e16d42c346) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 18:12:50 GMT | $800 Bounty — Web Cache Deception in Shopify | Monika sharma | [Read More](https://medium.com/p/c8507c2d99e5) |
 | Wed, 14 May 2025 18:12:01 GMT | Different Versions and Differences in Operating Systems ( A Cybersecurity Perspective) | Mazhar Imran | [Read More](https://medium.com/p/66ed272fbbca) |
 | Wed, 14 May 2025 18:08:33 GMT | ✈️ Aviation Cybersecurity: The Hidden War Above the Clouds ️ | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/8d222e39a758) |
-| Wed, 14 May 2025 18:06:39 GMT | CJP: Adres IP. Czy warto sprawdzać? To zależy… | Jakub Kowalski Edu | [Read More](https://medium.com/p/f99bd7c9225d) |
-| Wed, 14 May 2025 17:57:53 GMT | HTB Cascade Machine Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/b50e12eac9a9) |
-| Wed, 14 May 2025 17:57:49 GMT | TryHackMe SOC Simulator Case Investigation and Review | Bob Malin | [Read More](https://medium.com/p/a61cf081c6ac) |
