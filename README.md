@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 19:36:03 GMT | The Hidden Books That Protect Your Digital Life | Ahmad Javed | [Read More](https://medium.com/p/a3cc5d96f320) |
+| Thu, 15 May 2025 19:25:12 GMT | What Really Happens to Your Breached Passwords? | Maria Orms | [Read More](https://medium.com/p/994321e066cb) |
+| Thu, 15 May 2025 19:21:09 GMT | Doppel: AI Social Engineering Defense | Justin Schulman | [Read More](https://medium.com/p/aa81b381ea90) |
+| Thu, 15 May 2025 19:19:39 GMT | Your data is at risk. Here is why | Richard Ndung'u | [Read More](https://medium.com/p/61695734d1cc) |
+| Thu, 15 May 2025 19:09:36 GMT | Code — Hack The Box — Write Up | Shacrony | [Read More](https://medium.com/p/e2d9f6773eb8) |
 | Thu, 15 May 2025 18:56:56 GMT | Sonrisas Dental Health Data Breach Exposes Personal Information of Nearly 16,000 Patients | LegalNewsbyDave | [Read More](https://medium.com/p/8efc488c3309) |
 | Thu, 15 May 2025 18:55:58 GMT | Mobil Uygulama İzinleri:Python ve SQL ile Analiz Ve Kodlama | Berfin Özay | [Read More](https://medium.com/p/cfa7adcd1fbc) |
 | Thu, 15 May 2025 18:55:48 GMT | Honeywell’s Quantinuum and Qatar’s Al Rabban Capital Forge $1 Billion Quantum Computing Joint… | QuantumGenie | [Read More](https://medium.com/p/4bb916103e9f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 13:31:50 GMT | From Code to Confidence: Why EDSPL’s QA and Software Testing Services Are Trusted by Industry… | saurabh cyberinfomines | [Read More](https://medium.com/p/710838958e60) |
 | Thu, 15 May 2025 13:31:30 GMT | Bir üniversite mobil API’sinde credential leakage: reverse engineering ile ortaya çıkan JWT açığı | Eren İşlek | [Read More](https://medium.com/p/b712de159695) |
 | Thu, 15 May 2025 13:16:20 GMT | Top 6 Practical Uses of Linux in Everyday Tech and IT Careers | cyberwingITSolution | [Read More](https://medium.com/p/d757ab12e0e0) |
-| Thu, 15 May 2025 13:06:55 GMT | Top 70 Medium Tags in 2025 | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/b785232ef0db) |
-| Thu, 15 May 2025 13:06:27 GMT | The First Time I Felt Safe, I Fell Apart | Alifa Salsabila | [Read More](https://medium.com/p/7fdb5fbf3d8e) |
-| Thu, 15 May 2025 13:04:55 GMT | Angular Directive Security Fundamentals | Herbert Moroni Gois | [Read More](https://medium.com/p/dcedeae573b5) |
-| Thu, 15 May 2025 13:02:29 GMT | Rethink Your Passwords: Why Traditional Credential Security Is Failing Fast | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2d4ae3c04470) |
-| Thu, 15 May 2025 12:59:08 GMT | Who is a cybersecurity analyst? | Mfoniso Obonguko | [Read More](https://medium.com/p/0a06038e14e7) |
