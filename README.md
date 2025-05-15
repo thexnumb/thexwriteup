@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 15:11:37 GMT | ISMS & Data Security: A Practical Guide | Abdullah Azzam Asy Syarief | [Read More](https://medium.com/p/228ffe611935) |
+| Thu, 15 May 2025 15:10:26 GMT | JavaScript Essentials -- Tryhackme-- Cybersecurity 101 -- | Surbhi_choudhary | [Read More](https://medium.com/p/fa45f63955c0) |
+| Thu, 15 May 2025 15:03:45 GMT | Firewall Bypass Techniques and Mitigation Strategies: Technical Deep-Dive | Okan Yıldız | [Read More](https://medium.com/p/81e6790f217d) |
+| Thu, 15 May 2025 15:00:37 GMT | Malware Simulation | Shahzaib Khan | [Read More](https://medium.com/p/120c9fc1b43f) |
+| Thu, 15 May 2025 14:55:59 GMT | Analyzing Microsoft and Ivanti Vulnerabilities: A Deep Dive | Nexsecura | [Read More](https://medium.com/p/7816b17626ec) |
+| Thu, 15 May 2025 14:54:30 GMT | How to hack or change school Grade. | Private-hackers.com | [Read More](https://medium.com/p/45140b9668fd) |
+| Thu, 15 May 2025 14:48:17 GMT | ️ Day 36: MAC Addresses, ARP, ARP Spoofing, Netstat & Nmap Explained | Agarwaldaksh | [Read More](https://medium.com/p/1a983fac6257) |
+| Thu, 15 May 2025 14:48:08 GMT | ⚡ Nmap Simple Tricks — Beginner to Pro in 60 Seconds | LazyHacker | [Read More](https://medium.com/p/4197e0a4cb80) |
+| Thu, 15 May 2025 14:46:55 GMT | Quantum Computing: Should We Be Afraid or Excited? | Rosekivuvan | [Read More](https://medium.com/p/2ec55799db46) |
+| Thu, 15 May 2025 14:45:27 GMT | SQL Injection (SQLi) & SQL Login Bypass | Rajat Patel | [Read More](https://medium.com/p/8551b7fc56e3) |
+| Thu, 15 May 2025 14:39:46 GMT | GDB baby step 1 - Writeup | Marvin | [Read More](https://medium.com/p/62d07474abce) |
+| Thu, 15 May 2025 14:38:08 GMT | PENGANCE | Benjaminmillerdev | [Read More](https://medium.com/p/58f116876ff8) |
 | Thu, 15 May 2025 14:31:57 GMT | What Is an MSP? A Simple Guide for Business Owners | Surge Solutions | [Read More](https://medium.com/p/1d156583c8a8) |
 | Thu, 15 May 2025 14:23:48 GMT | Vulnerability Dies in Gaza | Carol Smaldino | [Read More](https://medium.com/p/c31bcab3bf85) |
 | Thu, 15 May 2025 14:23:33 GMT | Master OSINT with Wtfis: Simple Domain & IP Lookup Guide | Pawan Jaiswal | [Read More](https://medium.com/p/7f4dd13a6afe) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 09:10:56 GMT | Race Condition in Signicat Dashboard: Creating Duplicate Accounts Like a Pro | FufuFafa | [Read More](https://medium.com/p/8632acde2dc1) |
 | Thu, 15 May 2025 09:10:47 GMT | How to Become an Influencer in 1 Day (The Unethical Way) | Oscar Green | [Read More](https://medium.com/p/32f6a493e684) |
 | Thu, 15 May 2025 09:09:52 GMT | EU Launches Centralized Vulnerability Database to Strengthen Cybersecurity Transparency | CyBlog | [Read More](https://medium.com/p/90b31ddcca89) |
-| Thu, 15 May 2025 09:09:13 GMT | Defying Fear — A Manifesto for AI Freedom | Alejo Belles | [Read More](https://medium.com/p/6ea7ac539226) |
-| Thu, 15 May 2025 08:57:55 GMT | How Smart Companies Stay Ahead with Compliance Automation | SecureSlate | [Read More](https://medium.com/p/09b7c0eed265) |
-| Thu, 15 May 2025 08:47:36 GMT | LE MEDIUM VOYANT FETICHEUR DJEHOUETIN | DJEHOUETIN YETIN FETICHEUR | [Read More](https://medium.com/p/d10c549ffe12) |
-| Thu, 15 May 2025 08:46:31 GMT | Don’t let hackers crash your party | Godswillchinonso | [Read More](https://medium.com/p/78f3c65151e1) |
-| Thu, 15 May 2025 08:46:28 GMT | The Strangeness of Vulnerability | Estylily Johnson | [Read More](https://medium.com/p/09ffca7e70a4) |
-| Thu, 15 May 2025 08:40:10 GMT | Privacy for Sale: When Websites Know You Better Than You Know Yourself | Fadhil Pratama | [Read More](https://medium.com/p/b752e883d324) |
-| Thu, 15 May 2025 08:38:30 GMT | Every Breach is Human: Redefining Security | CoffeeCloud Series | [Read More](https://medium.com/p/2a1aaff8ea94) |
-| Thu, 15 May 2025 08:21:40 GMT | Walkthrough for the TryHackMe Room “Creative”: From User to Root Flag | jensbecker-dev | [Read More](https://medium.com/p/6121c9b045b7) |
-| Thu, 15 May 2025 08:13:49 GMT | Security Robots in Germany | Nerminekhouzamrubin | [Read More](https://medium.com/p/a4295586710f) |
-| Thu, 15 May 2025 08:07:41 GMT | Steam Leak or Scare? Breaking Down the May 2025 Security Controversy | Space Facts Guy | [Read More](https://medium.com/p/a6e9c8ac9670) |
-| Thu, 15 May 2025 08:06:51 GMT | ประจำวันพฤหัสบดีที่ 15 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/12f18af8e746) |
-| Thu, 15 May 2025 08:00:40 GMT | Social Media Account Hacker for Hire — Reclaim What’s Yours with Cybr Space | Jessi Rogers | [Read More](https://medium.com/p/0ba00376b6a1) |
