@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 05:09:47 GMT | Computer Networks: The Backbone of the Internet | PanicAtTheKernel | [Read More](https://medium.com/p/62328f01b917) |
+| Thu, 15 May 2025 05:05:25 GMT | Nmap Commands You Need to Know for the CompTIA Security+ SY0–701 Exam | unica 02 | [Read More](https://medium.com/p/dc60091f424f) |
+| Thu, 15 May 2025 05:00:04 GMT | Day 6 : Creating Tables | Skills 4 Free Myanmar | [Read More](https://medium.com/p/db8d69663c65) |
+| Thu, 15 May 2025 04:57:55 GMT | Prevent MitM Attacks in Symfony SecurelyPrevent MitM Attacks in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/ed0a376ec570) |
+| Thu, 15 May 2025 04:57:35 GMT | Securing the Future: IoT and Cybersecurity | Poddar Group of Institutions | [Read More](https://medium.com/p/4df636f90af2) |
+| Thu, 15 May 2025 04:55:56 GMT | Hacking With No Tools: How to Break Web Apps Using Just Your Browser ️‍♂️ | Vipul Sonule | [Read More](https://medium.com/p/255861d3f623) |
+| Thu, 15 May 2025 04:55:08 GMT | $3,000 Bounty: RCE in Burp Suite via Clickjacking | Monika sharma | [Read More](https://medium.com/p/3a3bac7cf431) |
+| Thu, 15 May 2025 04:43:39 GMT | Ethical Hacking Courses in India — Build a Career in Cyber Defense | Reshma Rajagopalan p | [Read More](https://medium.com/p/ee58f91fee12) |
+| Thu, 15 May 2025 04:39:45 GMT | Navigating the Maze: Ethical Crossroads in America’s 2025 AI Trajectory | Robert Ingram | [Read More](https://medium.com/p/806138ad0489) |
 | Thu, 15 May 2025 04:38:17 GMT | Blog Title: Not Your File: How Misconfigured MIME Types Let Me Upload Evil Scripts | Iski | [Read More](https://medium.com/p/889efb18a7ce) |
+| Thu, 15 May 2025 04:35:36 GMT | Solving PicoCTF WebExploitation Challenge | rainbow11 | [Read More](https://medium.com/p/deb2d401caf7) |
 | Thu, 15 May 2025 04:32:42 GMT | Clouded Dreams | Komaldash | [Read More](https://medium.com/p/55a444adb71f) |
 | Thu, 15 May 2025 04:26:07 GMT | The Linux Concept Journey — Linux Distribution | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2dfc68aaa4f4) |
 | Thu, 15 May 2025 04:25:45 GMT | Bbbbloat - Writeup | Marvin | [Read More](https://medium.com/p/909d55ceba47) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 19:33:31 GMT | How I’m Building a Tech Hustle While Studying Cybersecurity in Nigeria | Russell - Gadget Hustler | [Read More](https://medium.com/p/bde611165a27) |
 | Wed, 14 May 2025 19:26:45 GMT | The Technical Debt Trap: A Strategic Framework for Enterprise IT Leaders | Azzeddine Amiar | [Read More](https://medium.com/p/6fca49078512) |
 | Wed, 14 May 2025 19:20:26 GMT | The Marks & Spencer Cyberattack | IT_Engineer | [Read More](https://medium.com/p/e293f755b471) |
-| Wed, 14 May 2025 19:15:20 GMT | Unassigned shards in Elasticsearch 7 and 8 | Bidhan Khatri | [Read More](https://medium.com/p/34bb78e394f1) |
-| Wed, 14 May 2025 19:10:37 GMT | Implementing Mutual TLS (mTLS) Authentication with OpenSSL: A Step-by-Step Guide | Bidhan Khatri | [Read More](https://medium.com/p/1d7f532c4e3c) |
-| Wed, 14 May 2025 18:59:36 GMT | Three Things I Wish I’d Known as a Junior Engineer | Security Guy | [Read More](https://medium.com/p/019a5ac36377) |
-| Wed, 14 May 2025 18:58:41 GMT | Siber Tehditlere Karşı Proaktif Savunma: EDR Teknolojisi | Kerem | [Read More](https://medium.com/p/64a1a2fafaf2) |
-| Wed, 14 May 2025 18:30:00 GMT | SogoTrade Data Breach: What Affected Customers Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/3fc23d16e7f8) |
-| Wed, 14 May 2025 18:29:44 GMT | Browser Extensions: The Trojan Horses We Invite Ourselves | TheCyberSalad | [Read More](https://medium.com/p/816c11c13d72) |
-| Wed, 14 May 2025 18:29:12 GMT | Expose & Explore: Discover misconfigured service protocols and ports using Linux | K O M A L | [Read More](https://medium.com/p/72394ee09023) |
-| Wed, 14 May 2025 18:25:55 GMT | Top 5 MUST HAVE Anker Accessories to BOOST your productivity in the office (2025) | Blake Patka | [Read More](https://medium.com/p/d9374e3e9b95) |
-| Wed, 14 May 2025 18:25:29 GMT | What’s the Difference Between Malware and Ransomware? | SafeAeon Inc. | [Read More](https://medium.com/p/ab0fb2983177) |
-| Wed, 14 May 2025 18:23:27 GMT | Mobil Uygulama Güvenliği 101: Mod APK’lar, Araçlar ve Teknik Detaylar | Güven Ada | [Read More](https://medium.com/p/41e2357026c6) |
