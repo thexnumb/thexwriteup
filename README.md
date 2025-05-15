@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 04:38:17 GMT | Blog Title: Not Your File: How Misconfigured MIME Types Let Me Upload Evil Scripts | Iski | [Read More](https://medium.com/p/889efb18a7ce) |
+| Thu, 15 May 2025 04:32:42 GMT | Clouded Dreams | Komaldash | [Read More](https://medium.com/p/55a444adb71f) |
+| Thu, 15 May 2025 04:26:07 GMT | The Linux Concept Journey — Linux Distribution | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2dfc68aaa4f4) |
+| Thu, 15 May 2025 04:25:45 GMT | Bbbbloat - Writeup | Marvin | [Read More](https://medium.com/p/909d55ceba47) |
 | Thu, 15 May 2025 04:13:34 GMT | Cybersecurity101 — Mitre Att&ck Series #1: Active Scanning —  What Security Analysts Need to Know | Ilham Firdiyanto | [Read More](https://medium.com/p/a01d98c09e42) |
 | Thu, 15 May 2025 03:53:40 GMT | Code PiPeLine #6 — Write Code That Defends Itself: A Beginner’s Guide to Secure Programming | Steven Faustin Orginata | [Read More](https://medium.com/p/540a81c6ddc0) |
 | Thu, 15 May 2025 03:47:20 GMT | ISO Certified Explained | abdur rashid firdaus | [Read More](https://medium.com/p/fa9b073eb1bf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 18:25:55 GMT | Top 5 MUST HAVE Anker Accessories to BOOST your productivity in the office (2025) | Blake Patka | [Read More](https://medium.com/p/d9374e3e9b95) |
 | Wed, 14 May 2025 18:25:29 GMT | What’s the Difference Between Malware and Ransomware? | SafeAeon Inc. | [Read More](https://medium.com/p/ab0fb2983177) |
 | Wed, 14 May 2025 18:23:27 GMT | Mobil Uygulama Güvenliği 101: Mod APK’lar, Araçlar ve Teknik Detaylar | Güven Ada | [Read More](https://medium.com/p/41e2357026c6) |
-| Wed, 14 May 2025 18:13:31 GMT | AI Impersonators: The Strangest Cybersecurity Crisis of 2025 | Noel | [Read More](https://medium.com/p/9a72eb59588e) |
-| Wed, 14 May 2025 18:12:50 GMT | $800 Bounty — Web Cache Deception in Shopify | Monika sharma | [Read More](https://medium.com/p/c8507c2d99e5) |
-| Wed, 14 May 2025 18:12:01 GMT | Different Versions and Differences in Operating Systems ( A Cybersecurity Perspective) | Mazhar Imran | [Read More](https://medium.com/p/66ed272fbbca) |
-| Wed, 14 May 2025 18:08:33 GMT | ✈️ Aviation Cybersecurity: The Hidden War Above the Clouds ️ | Alla Krishna Vamsi Reddy | [Read More](https://medium.com/p/8d222e39a758) |
