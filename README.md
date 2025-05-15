@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 18:23:29 GMT | When Logs Become Lessons: Debugging My Way Through ELK and Life | Manish Rawat | [Read More](https://medium.com/p/f0cfb9e75249) |
+| Thu, 15 May 2025 18:22:19 GMT | Nucor Cyberattack: American Steel Giant | IT_Engineer | [Read More](https://medium.com/p/374c172b4af0) |
+| Thu, 15 May 2025 18:12:39 GMT | How I Accidentally Left a Port Open on My Linux Server (And How I Caught It) | Faruk Ahmed | [Read More](https://medium.com/p/bffd2c052514) |
+| Thu, 15 May 2025 18:01:34 GMT | Title: | Mansoor A | [Read More](https://medium.com/p/1ae078aaa7bd) |
+| Thu, 15 May 2025 17:52:17 GMT | The “Unlimited Leave” Hack I Found at My College | Swarnim Bandekar | [Read More](https://medium.com/p/4c772df5f8e4) |
+| Thu, 15 May 2025 17:51:46 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/907c8e4996ac) |
+| Thu, 15 May 2025 17:43:50 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/0308400caeb7) |
+| Thu, 15 May 2025 17:43:26 GMT | 5 Most Common Ways Websites Get Hacked — And How to Spot Them | Mayuresh Chaubal | [Read More](https://medium.com/p/a9d33b7eb807) |
+| Thu, 15 May 2025 17:42:26 GMT | Analysis of Cyber Attack Tactics Based on the MITRE ATT&CK Matrix | Esra Kayhan | [Read More](https://medium.com/p/de9b82732e42) |
+| Thu, 15 May 2025 17:42:24 GMT | ⚠️ Nova Scotia Power Data Breach⚠️ | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/465ce4504ac2) |
+| Thu, 15 May 2025 17:33:07 GMT | ResolvTI — Sistema de Chamados Técnicos | Lucas Gades | [Read More](https://medium.com/p/995456e941ac) |
+| Thu, 15 May 2025 17:30:18 GMT | Twilio, Steam e os códigos 2FA vazados | Julia Eileen Schäfer | [Read More](https://medium.com/p/f0e8d982a0f3) |
 | Thu, 15 May 2025 17:17:10 GMT | A Tap Away from Disaster: Inside the Unitronics PLC Attacks on U.S. Water Systems | om sonawane | [Read More](https://medium.com/p/c982d4371f67) |
 | Thu, 15 May 2025 17:16:45 GMT | Exploring GoBuster: A Powerful Tool For Directory and File Discovery | Natarajan C K | [Read More](https://medium.com/p/0009c500e158) |
 | Thu, 15 May 2025 17:15:53 GMT | How to scan a target for vulnerabilities with nmap: | Imnotasis | [Read More](https://medium.com/p/2b9245cbbb83) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 12:21:21 GMT | Debugging, Resilience, and the Sweet Victory of Code | Quadri Ade Nelson | [Read More](https://medium.com/p/ec938115a83a) |
 | Thu, 15 May 2025 12:12:44 GMT | The Day Our Customer Portal Got Hacked: My XSS Nightmare and How We Fixed It | Sanh Doan | [Read More](https://medium.com/p/4678ca0fd7be) |
 | Thu, 15 May 2025 12:12:30 GMT | Introducing SecureCrawl: The Intelligent Web Security Crawler | N0aziXss | [Read More](https://medium.com/p/d258ec05edb8) |
-| Thu, 15 May 2025 12:04:18 GMT | Corporate Warfare in the Gulf: Legal Gray Zones, Power Contracts, and Controlled Chaos | Akshay Sanil | [Read More](https://medium.com/p/4fa6517ba0cd) |
-| Thu, 15 May 2025 12:02:58 GMT | Kerberos: From the Greek Guardian of the Underworld to the Defender of Networks | Sina Hooshmand Pakdel | [Read More](https://medium.com/p/6cc43dd8b6d7) |
-| Thu, 15 May 2025 11:57:36 GMT | Introducing N0aziXss Port Scanner: The Intelligent Port Scanning Solution | N0aziXss | [Read More](https://medium.com/p/9e82c91e29eb) |
-| Thu, 15 May 2025 11:53:35 GMT | Kerberos Made Easy: A Step-by-Step Breakdown for Analysts | Abrar Hussain | [Read More](https://medium.com/p/21ab40c417d4) |
-| Thu, 15 May 2025 11:45:17 GMT | Phishing Attacks in Australia: What You Need to Know | Elevate | [Read More](https://medium.com/p/a0ac40d76f46) |
-| Thu, 15 May 2025 11:42:12 GMT | Google OSV-Scanner: Open Source Vulnerability Scanner | Muhammed Eren Demir | [Read More](https://medium.com/p/35dee7b00509) |
-| Thu, 15 May 2025 11:32:00 GMT | Hack Apple ID - Contact Top Hackers | BlackHat | [Read More](https://medium.com/p/48d06507aa00) |
-| Thu, 15 May 2025 11:27:57 GMT | Cyber Intelligence: Your Secret Weapon Against Online Threats | Diehardmclane | [Read More](https://medium.com/p/e2a0fbf84089) |
-| Thu, 15 May 2025 11:09:12 GMT | OAuth Misconfiguration: Hijack User Accounts Without Abusing Redirects | thebee0x | [Read More](https://medium.com/p/e287680a15cb) |
-| Thu, 15 May 2025 11:09:11 GMT | Cybersecurity Career Path: Your Complete Guide to Success in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/5d3790d21137) |
-| Thu, 15 May 2025 11:07:58 GMT | AI’s Zero-Day Exploit | Anthony C Fox | [Read More](https://medium.com/p/0f7f90fa65c7) |
-| Thu, 15 May 2025 10:59:39 GMT | RID Hijacking | Shahzaib Khan | [Read More](https://medium.com/p/a34793958c8b) |
