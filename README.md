@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 07:02:45 GMT | Inside the AI x Security Arsenal I’ve Built | Thomas Roccia | [Read More](https://medium.com/p/0a77b6424918) |
+| Thu, 15 May 2025 07:01:47 GMT | The Silent Risk: Third-Party Applications in Endpoint Security | Easy2Patch | [Read More](https://medium.com/p/4972e28b3a45) |
+| Thu, 15 May 2025 07:01:41 GMT | Corporate Greed Chronicles: Microsoft’s Profit Parade Cuts 6,000 | Namir Sagheenanajar | [Read More](https://medium.com/p/e217f28a701a) |
+| Thu, 15 May 2025 06:59:33 GMT | Top Qualities to Look for in a Security Guard Company in Singapore | Jane Tang | [Read More](https://medium.com/p/51b69c3465db) |
+| Thu, 15 May 2025 06:59:14 GMT | Steam Leak Rumors: Valve Speaks Up and Keeps Us Safe | Kossi Mokpokpo Tengue | [Read More](https://medium.com/p/c9fcec5a8cd2) |
+| Thu, 15 May 2025 06:58:04 GMT | Telegram for Threat Intelligence | dhanush s | [Read More](https://medium.com/p/18e1138b3b1d) |
+| Thu, 15 May 2025 06:51:33 GMT | 從編譯器視角看 App 程式碼安全與防護 | Yeecy | [Read More](https://medium.com/p/8b8313ee5db1) |
+| Thu, 15 May 2025 06:49:57 GMT | From Zero to Cyber Hero: How Our Cyber Security Analyst Programme Prepares You for a Job-Ready… | Mamunul Islam | [Read More](https://medium.com/p/5699365e7140) |
+| Thu, 15 May 2025 06:49:38 GMT | CompTIA Security+ SY0–701 Acronyms You Can’t Afford to Miss | unica 02 | [Read More](https://medium.com/p/8713ce4b8087) |
+| Thu, 15 May 2025 06:36:43 GMT | Your Wi-Fi Is Probably Already Hacked — And You’d Never Know It (Here’s How It Happens) | Sajjad Hussain | [Read More](https://medium.com/p/ddf38c50cbe7) |
+| Thu, 15 May 2025 06:35:05 GMT | Why Investing in DDoS Mitigation Tools Is Critical for Business Continuity | Gargiben | [Read More](https://medium.com/p/37251578c310) |
+| Thu, 15 May 2025 06:33:45 GMT | THE PROPAGANDIST’S CULTURE: Manufacturing Contemporary Societal Narratives | Chantal Ryan | [Read More](https://medium.com/p/046643356a3c) |
+| Thu, 15 May 2025 06:29:38 GMT | What is Open Source Intelligence (OSINT) & Why It Matters in Cybersecurity | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/20d1f2f6e6b3) |
+| Thu, 15 May 2025 06:25:56 GMT | Understanding the Recent Steam Account Data Leak: What You Need to Know | Dineth Heshan | [Read More](https://medium.com/p/536d614219ab) |
+| Thu, 15 May 2025 06:24:34 GMT | The Daily Tech Digest: 15 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b46e23bb31f4) |
 | Thu, 15 May 2025 06:22:48 GMT | Bypassing OTP Verification via Response Manipulation: A Silent Threat | Frostynxth | [Read More](https://medium.com/p/006dc2b6fa13) |
 | Thu, 15 May 2025 06:19:08 GMT | Steam Leak Rumors: Valve Speaks Up and Keeps Us Safe | Kossi TENGUE | [Read More](https://medium.com/p/5bae4c899054) |
 | Thu, 15 May 2025 06:11:05 GMT | Books So Good, Hackers Want Them Banned | Ahmad Javed | [Read More](https://medium.com/p/5c457352a1d7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 22:01:36 GMT | Post-Quantum Cryptography: Clouds on the Horizon | Postmodern Cybersecurity | [Read More](https://medium.com/p/f6c40d9e8885) |
 | Wed, 14 May 2025 22:01:06 GMT | HackTheBox: Bashed Writeup | CyberQuestor | [Read More](https://medium.com/p/d94b206121c0) |
 | Wed, 14 May 2025 21:57:44 GMT | Secure File Upload Implementation | Bishopbeecay | [Read More](https://medium.com/p/8d5c1340b744) |
-| Wed, 14 May 2025 21:56:35 GMT | Google Cybersecurity Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/5b5a999249f0) |
-| Wed, 14 May 2025 21:53:12 GMT | So You Wanna Be a Hacker? | Yua Mikanana | [Read More](https://medium.com/p/f029cbd36bd8) |
-| Wed, 14 May 2025 21:49:41 GMT | If You’re Still Using Windows 10, Here’s What You Need to Do NOW | Ian James | [Read More](https://medium.com/p/aa819653a9ed) |
-| Wed, 14 May 2025 21:42:31 GMT | Security Footage: TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/35864463cf31) |
-| Wed, 14 May 2025 21:38:22 GMT | Trump’s Abraham Accords Push — Cybersecurity Implications and the Future of the Middle East &… | Mind Scope | [Read More](https://medium.com/p/c042a1472e86) |
-| Wed, 14 May 2025 21:37:22 GMT | Introducing TryHackMe’s Jr Penetration Tester (PT1) Certification: A New Benchmark in Offensive… | Chris Huffstetler | [Read More](https://medium.com/p/4b398310bf10) |
-| Wed, 14 May 2025 21:34:15 GMT | eJPT Zero to Hero: Enumeration CTF | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/cea9ed488b61) |
-| Wed, 14 May 2025 21:32:51 GMT | Ethical Hacking Learning Path | 0xBEN | [Read More](https://medium.com/p/5e3252f7c9de) |
-| Wed, 14 May 2025 21:26:34 GMT | John the Ripper: The Basics — Tryhackme Walkthrough | Orgeismail | [Read More](https://medium.com/p/bbecb0a4e13f) |
-| Wed, 14 May 2025 21:20:57 GMT | New Cybersecurity Tool That Might Just Save You From the Next Scam | Alvar Laigna | [Read More](https://medium.com/p/b278e8b65348) |
-| Wed, 14 May 2025 21:11:38 GMT | Beginner’s Guide to Protecting Your Privacy Online in 2025 | Mike Padrick | [Read More](https://medium.com/p/f075b0879b1b) |
-| Wed, 14 May 2025 21:08:28 GMT | Announcement Letter And Untimely Welcoming | Courtny Roderick | [Read More](https://medium.com/p/537b9dd9420d) |
-| Wed, 14 May 2025 21:06:34 GMT | Breaking the Rules: Deleting Confirmed Organizations Through a Backend Flaw | cyberpro151 | [Read More](https://medium.com/p/525dc867841c) |
-| Wed, 14 May 2025 21:03:21 GMT | APT28 Inception Theory . TryHackMe Walkthrough — Red Team — Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/681b3db08072) |
-| Wed, 14 May 2025 21:03:04 GMT | Building a Cyber-Resilient Business: Key Measures to Take | Market Daily | [Read More](https://medium.com/p/bc24878d148e) |
