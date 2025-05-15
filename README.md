@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 12:33:48 GMT | Coinbase Gets Hit with $20M Ransom Demand, Responds with a $20M Bounty Instead | CoinGen | [Read More](https://medium.com/p/e2d6ebfaeee8) |
+| Thu, 15 May 2025 12:31:07 GMT | port-scanning for large scopes can lead to $$$$ | ABDELKARIM MOUCHQUELITA | [Read More](https://medium.com/p/fdc1b7b5af00) |
+| Thu, 15 May 2025 12:23:34 GMT | A Practical Guide to AWS IAM: Securing Access in the Cloud | Prashansa Agrrawal | [Read More](https://medium.com/p/ae725cd430a0) |
+| Thu, 15 May 2025 12:23:03 GMT | Information in the Internet Era: How Are We Handling Knowledge? | linglingling3 | [Read More](https://medium.com/p/8fd78a5e8216) |
+| Thu, 15 May 2025 12:21:21 GMT | Debugging, Resilience, and the Sweet Victory of Code | Quadri Ade Nelson | [Read More](https://medium.com/p/ec938115a83a) |
+| Thu, 15 May 2025 12:12:44 GMT | The Day Our Customer Portal Got Hacked: My XSS Nightmare and How We Fixed It | Sanh Doan | [Read More](https://medium.com/p/4678ca0fd7be) |
+| Thu, 15 May 2025 12:12:30 GMT | Introducing SecureCrawl: The Intelligent Web Security Crawler | N0aziXss | [Read More](https://medium.com/p/d258ec05edb8) |
+| Thu, 15 May 2025 12:04:18 GMT | Corporate Warfare in the Gulf: Legal Gray Zones, Power Contracts, and Controlled Chaos | Akshay Sanil | [Read More](https://medium.com/p/4fa6517ba0cd) |
+| Thu, 15 May 2025 12:02:58 GMT | Kerberos: From the Greek Guardian of the Underworld to the Defender of Networks | Sina Hooshmand Pakdel | [Read More](https://medium.com/p/6cc43dd8b6d7) |
+| Thu, 15 May 2025 11:57:36 GMT | Introducing N0aziXss Port Scanner: The Intelligent Port Scanning Solution | N0aziXss | [Read More](https://medium.com/p/9e82c91e29eb) |
+| Thu, 15 May 2025 11:53:35 GMT | Kerberos Made Easy: A Step-by-Step Breakdown for Analysts | Abrar Hussain | [Read More](https://medium.com/p/21ab40c417d4) |
+| Thu, 15 May 2025 11:45:17 GMT | Phishing Attacks in Australia: What You Need to Know | Elevate | [Read More](https://medium.com/p/a0ac40d76f46) |
+| Thu, 15 May 2025 11:42:12 GMT | Google OSV-Scanner: Open Source Vulnerability Scanner | Muhammed Eren Demir | [Read More](https://medium.com/p/35dee7b00509) |
+| Thu, 15 May 2025 11:32:00 GMT | Hack Apple ID - Contact Top Hackers | BlackHat | [Read More](https://medium.com/p/48d06507aa00) |
 | Thu, 15 May 2025 11:27:57 GMT | Cyber Intelligence: Your Secret Weapon Against Online Threats | Diehardmclane | [Read More](https://medium.com/p/e2a0fbf84089) |
 | Thu, 15 May 2025 11:09:12 GMT | OAuth Misconfiguration: Hijack User Accounts Without Abusing Redirects | thebee0x | [Read More](https://medium.com/p/e287680a15cb) |
 | Thu, 15 May 2025 11:09:11 GMT | Cybersecurity Career Path: Your Complete Guide to Success in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/5d3790d21137) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 06:33:45 GMT | THE PROPAGANDIST’S CULTURE: Manufacturing Contemporary Societal Narratives | Chantal Ryan | [Read More](https://medium.com/p/046643356a3c) |
 | Thu, 15 May 2025 06:29:38 GMT | What is Open Source Intelligence (OSINT) & Why It Matters in Cybersecurity | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/20d1f2f6e6b3) |
 | Thu, 15 May 2025 06:25:56 GMT | Understanding the Recent Steam Account Data Leak: What You Need to Know | Dineth Heshan | [Read More](https://medium.com/p/536d614219ab) |
-| Thu, 15 May 2025 06:24:34 GMT | The Daily Tech Digest: 15 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b46e23bb31f4) |
-| Thu, 15 May 2025 06:22:48 GMT | Bypassing OTP Verification via Response Manipulation: A Silent Threat | Frostynxth | [Read More](https://medium.com/p/006dc2b6fa13) |
-| Thu, 15 May 2025 06:19:08 GMT | Steam Leak Rumors: Valve Speaks Up and Keeps Us Safe | Kossi TENGUE | [Read More](https://medium.com/p/5bae4c899054) |
-| Thu, 15 May 2025 06:11:05 GMT | Books So Good, Hackers Want Them Banned | Ahmad Javed | [Read More](https://medium.com/p/5c457352a1d7) |
-| Thu, 15 May 2025 06:10:35 GMT | Soul Rupture | Undeadpoetry | [Read More](https://medium.com/p/a56f821233a6) |
-| Thu, 15 May 2025 06:06:09 GMT | Getting Daily Slack Notifications for Running Instances Across All AWS Regions | Vikas Kumar | [Read More](https://medium.com/p/27ed8cebf52e) |
-| Thu, 15 May 2025 06:04:04 GMT | Is Your IT Network Infrastructure Scalable for Growth? | Emilyeliza | [Read More](https://medium.com/p/2af578118b4b) |
-| Thu, 15 May 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — May 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/c24ade124145) |
-| Thu, 15 May 2025 05:58:44 GMT | DevSecOps Pipeline in Google Cloud Using Native and Partner Tools | Omkar Nadkarni | [Read More](https://medium.com/p/667655ee346c) |
-| Thu, 15 May 2025 05:55:15 GMT | 10 Exciting Tech Careers You Might Not Know About (But Should in 2025) | Prism HRC | [Read More](https://medium.com/p/36c5413e4cc7) |
-| Thu, 15 May 2025 05:42:26 GMT | FortiNAC by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/acb8eb49aeaf) |
-| Thu, 15 May 2025 05:41:36 GMT | CHAINING THE SCOPE | Sijo Johnson | [Read More](https://medium.com/p/0f6fcb9e7cf4) |
-| Thu, 15 May 2025 05:41:03 GMT | FTP/SSH Password Cracking | Subhendu Senapati | [Read More](https://medium.com/p/effb036290c6) |
-| Thu, 15 May 2025 05:37:48 GMT | Cybersecurity in 2025: Protecting Your Digital World | Pawan Giri | [Read More](https://medium.com/p/5d3dbe2bdaed) |
