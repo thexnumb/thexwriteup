@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 17:17:10 GMT | A Tap Away from Disaster: Inside the Unitronics PLC Attacks on U.S. Water Systems | om sonawane | [Read More](https://medium.com/p/c982d4371f67) |
 | Thu, 15 May 2025 17:16:45 GMT | Exploring GoBuster: A Powerful Tool For Directory and File Discovery | Natarajan C K | [Read More](https://medium.com/p/0009c500e158) |
+| Thu, 15 May 2025 17:15:53 GMT | How to scan a target for vulnerabilities with nmap: | Imnotasis | [Read More](https://medium.com/p/2b9245cbbb83) |
+| Thu, 15 May 2025 17:15:53 GMT | Understanding SMB Abuse: Hunting and Detecting Network Share Threats on Windows | Saujas Jadhav | [Read More](https://medium.com/p/905780101a44) |
 | Thu, 15 May 2025 17:14:47 GMT | Secure Snowflake JDBC and ODBC Connections Using Vault | Peter Horrigan | [Read More](https://medium.com/p/6095d23fe271) |
+| Thu, 15 May 2025 17:10:09 GMT | How to enum subdomains with subfinder: | Imnotasis | [Read More](https://medium.com/p/8970aef424f2) |
+| Thu, 15 May 2025 17:06:50 GMT | What a “Simple” CTF Box Taught Me About Getting Stuck, Looking Closer, and Leveling Up | Niklas Heringer | [Read More](https://medium.com/p/bd2b28a17597) |
 | Thu, 15 May 2025 17:02:55 GMT | How to scan websites for vulnerabilities with Nuclei: | Imnotasis | [Read More](https://medium.com/p/535cd41d88fc) |
 | Thu, 15 May 2025 16:59:58 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/b904e05c3254) |
 | Thu, 15 May 2025 16:53:38 GMT | Most Backend Devs Skip These 5 Security Basics — Don’t Be One of Them! | The Code Alchemist | [Read More](https://medium.com/p/1d562384ca94) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 11:09:11 GMT | Cybersecurity Career Path: Your Complete Guide to Success in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/5d3790d21137) |
 | Thu, 15 May 2025 11:07:58 GMT | AI’s Zero-Day Exploit | Anthony C Fox | [Read More](https://medium.com/p/0f7f90fa65c7) |
 | Thu, 15 May 2025 10:59:39 GMT | RID Hijacking | Shahzaib Khan | [Read More](https://medium.com/p/a34793958c8b) |
-| Thu, 15 May 2025 10:52:27 GMT | JWTs: Your Compact, Secure ID Badge (Code Included) | Said Lfagrouche | [Read More](https://medium.com/p/791abf3d5743) |
-| Thu, 15 May 2025 10:50:00 GMT | Aligning Security Metrics with Business Goals | SecOps | [Read More](https://medium.com/p/fe7a7a9c8ccc) |
-| Thu, 15 May 2025 10:49:22 GMT | Social Media and Cybersecurity: Remember to be Safe in the Digital Playground | Dbrooks | [Read More](https://medium.com/p/518eb584765a) |
-| Thu, 15 May 2025 10:47:47 GMT | Security Robots in Germany | Presslink Media | [Read More](https://medium.com/p/b8e4818404b3) |
-| Thu, 15 May 2025 10:38:35 GMT | Network Scanning Using Scapy | Shahzaib Khan | [Read More](https://medium.com/p/deea662f8550) |
