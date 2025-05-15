@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 17:16:45 GMT | Exploring GoBuster: A Powerful Tool For Directory and File Discovery | Natarajan C K | [Read More](https://medium.com/p/0009c500e158) |
+| Thu, 15 May 2025 17:14:47 GMT | Secure Snowflake JDBC and ODBC Connections Using Vault | Peter Horrigan | [Read More](https://medium.com/p/6095d23fe271) |
+| Thu, 15 May 2025 17:02:55 GMT | How to scan websites for vulnerabilities with Nuclei: | Imnotasis | [Read More](https://medium.com/p/535cd41d88fc) |
+| Thu, 15 May 2025 16:59:58 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/b904e05c3254) |
+| Thu, 15 May 2025 16:53:38 GMT | Most Backend Devs Skip These 5 Security Basics — Don’t Be One of Them! | The Code Alchemist | [Read More](https://medium.com/p/1d562384ca94) |
+| Thu, 15 May 2025 16:52:36 GMT | My Journey Into Cybersecurity and Why I Love It | shema turner | [Read More](https://medium.com/p/3bc0723efee1) |
+| Thu, 15 May 2025 16:52:36 GMT | Serialization & Deserialization Explained | Nishanthan | [Read More](https://medium.com/p/bc4284a23c90) |
 | Thu, 15 May 2025 16:46:44 GMT | --- | Md Jisan | [Read More](https://medium.com/p/a181d6ace97b) |
+| Thu, 15 May 2025 16:46:27 GMT | SQL Fundamentals-- Tryhackme-- Cybersecurity 101 -- WriteUp-- | Surbhi_choudhary | [Read More](https://medium.com/p/a0ffc0483280) |
 | Thu, 15 May 2025 16:44:59 GMT | A (not so) Unexpected Journey: Building My First Home Lab, Part 2 | Chris C. | [Read More](https://medium.com/p/ac2ba5dd657e) |
 | Thu, 15 May 2025 16:41:24 GMT | Kinkily speaking, I like being choked too… | hot flashes & hard truths | [Read More](https://medium.com/p/cd8bf1b5a098) |
 | Thu, 15 May 2025 16:36:02 GMT | Scattered Spider Strikes Again: U.S. Retailers on High Alert After M&S Cyber-Attack | Omar Alhendi | [Read More](https://medium.com/p/ceca668bc5a6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 10:49:22 GMT | Social Media and Cybersecurity: Remember to be Safe in the Digital Playground | Dbrooks | [Read More](https://medium.com/p/518eb584765a) |
 | Thu, 15 May 2025 10:47:47 GMT | Security Robots in Germany | Presslink Media | [Read More](https://medium.com/p/b8e4818404b3) |
 | Thu, 15 May 2025 10:38:35 GMT | Network Scanning Using Scapy | Shahzaib Khan | [Read More](https://medium.com/p/deea662f8550) |
-| Thu, 15 May 2025 10:32:31 GMT | Digital Forensics: Uncovering Digital Truths with CyberMate Forensics | Shubhrapandey Sgi | [Read More](https://medium.com/p/621abd11b04b) |
-| Thu, 15 May 2025 10:31:37 GMT | Top Tools That Helped Me Earn $500 in 30 Days | It4chis3c | [Read More](https://medium.com/p/00123f09cd7a) |
-| Thu, 15 May 2025 10:28:00 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/faf73a53acf1) |
-| Thu, 15 May 2025 10:26:45 GMT | this is how small Instagram pages for earning large per month | S Anuradha | [Read More](https://medium.com/p/61b71cdfe661) |
-| Thu, 15 May 2025 10:26:06 GMT | The Gray Code: When Hackers Wrestle With Their Shadows | Ahmad Javed | [Read More](https://medium.com/p/0a2cb5b66e21) |
-| Thu, 15 May 2025 10:25:11 GMT | I Passed the ISC2 CC Exam on My First Try! — Here’s How You Can Too | Joycelyn Somuah Boateng | [Read More](https://medium.com/p/c485b20899d9) |
-| Thu, 15 May 2025 10:23:44 GMT | How to Build a Domain-Specific Chatbot with Guardrails — A Practical Guide for Real-World… | Yash Tripathi | [Read More](https://medium.com/p/47de2f6fdbdf) |
-| Thu, 15 May 2025 10:23:38 GMT | Social Engineering: The Hidden Cyber Threat You’re Probably Falling For | Ziad Tamer | [Read More](https://medium.com/p/c4b184a7b780) |
