@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 20:37:17 GMT | How One Click Can Wreck Your System: A Deep Dive into the Horabot Malware Campaign | Cyber-AppSec | [Read More](https://medium.com/p/865b72255e0f) |
+| Thu, 15 May 2025 20:35:24 GMT | Zero Trust Security: Why It’s Now a Must-Have for Every Business | Donald Betancourt | [Read More](https://medium.com/p/12af55e1f638) |
+| Thu, 15 May 2025 20:30:15 GMT | Coinbase launches $20M bounty after rogue agents leak customer data | IC News | [Read More](https://medium.com/p/f7e45065235f) |
+| Thu, 15 May 2025 20:29:10 GMT | Tangled Tokens and Authorized Agents | Justin Richer | [Read More](https://medium.com/p/331e4db02fb4) |
+| Thu, 15 May 2025 20:28:54 GMT | siberX Canadian Women in Cybersecurity 2025 Virtual | Bailey Luu | [Read More](https://medium.com/p/c3afae621308) |
+| Thu, 15 May 2025 20:27:49 GMT | Journey to Cybersecurity Day 1 — Who’s in Control? | Cyber Muslim Girl | [Read More](https://medium.com/p/29cec66e168f) |
+| Thu, 15 May 2025 20:27:15 GMT | Exploring SSRF Vulnerabilities | musayyab sharif | [Read More](https://medium.com/p/daf39889e153) |
+| Thu, 15 May 2025 20:23:11 GMT | LLMs Are Under Attacks. I Built a Prototype Honeypot to Understand the Risks | Kyo | [Read More](https://medium.com/p/01c0f83d65cb) |
+| Thu, 15 May 2025 20:16:40 GMT | Cybersecurity in the Quantum AI Era | Artificial Intelligence + | [Read More](https://medium.com/p/5394e247e0f9) |
+| Thu, 15 May 2025 20:14:30 GMT | Emerging Cybersecurity Challenges in 2025: Navigating a Complex Digital Threat Landscape | Veridian Zenith Tech | [Read More](https://medium.com/p/58a3a89f1ae1) |
 | Thu, 15 May 2025 19:44:20 GMT | Packet capture analysis of a SocGholish and AsyncRAT infection | Jamal Darbo | [Read More](https://medium.com/p/4c08af2028e7) |
 | Thu, 15 May 2025 19:43:27 GMT | Writing Pentest Reports— TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/b58fbf330ac7) |
 | Thu, 15 May 2025 19:41:52 GMT | Radicalized by the Algorithm | TJ Larson | [Read More](https://medium.com/p/82e7cd41e1ef) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 14:22:08 GMT | Did You Say Passwordless? Really? | Vincent Le Goff | [Read More](https://medium.com/p/dcd4c8ee0c59) |
 | Thu, 15 May 2025 14:20:12 GMT | How People From Medieval Times Fought Bugs Without Modern Tools? | Time Tales | [Read More](https://medium.com/p/a7bfb3f391bf) |
 | Thu, 15 May 2025 14:18:23 GMT | Your Data Got Stolen. Why No One Told You (Legally) | BillfordX | [Read More](https://medium.com/p/5d9dfef5104c) |
-| Thu, 15 May 2025 14:18:02 GMT | How do we stay safe on the internet? A brief guide. Part 2 | Christopher Morris | [Read More](https://medium.com/p/1aeb6603865f) |
-| Thu, 15 May 2025 14:13:43 GMT | ❄️ “Comrade, click the CAPTCHA” | Wes Young | [Read More](https://medium.com/p/21f5aaadee6f) |
-| Thu, 15 May 2025 14:10:08 GMT | When We Trust Apps More Than Ourselves: The Price of Skipping Privacy Policies | Ngatz | [Read More](https://medium.com/p/d8742ca9216b) |
-| Thu, 15 May 2025 14:09:17 GMT | Accepting love is mahirap, no? | E-abab na Meta | [Read More](https://medium.com/p/0171fa962aad) |
-| Thu, 15 May 2025 14:04:48 GMT | Cyber Briefing: 2025.05.15 | CyberMaterial | [Read More](https://medium.com/p/920cce659514) |
-| Thu, 15 May 2025 14:04:45 GMT | NoSQL | Rhyan Lemos | [Read More](https://medium.com/p/6ed9d7d2575e) |
-| Thu, 15 May 2025 14:03:06 GMT | NoSQL | Rhyan Lemos | [Read More](https://medium.com/p/41742330e695) |
-| Thu, 15 May 2025 14:02:34 GMT | Fortinet Addresses CVE-2025–32756: A Critical Zero-Day RCE Flaw | Cybersectoworld | [Read More](https://medium.com/p/cdb183171f97) |
-| Thu, 15 May 2025 14:02:06 GMT | Day 3 of #60DaysofGRC — Who’s Responsible for GRC? (Hint: It’s Not Just One Person) | Brittney Ginther | [Read More](https://medium.com/p/d1d20f8f2cc4) |
-| Thu, 15 May 2025 13:52:28 GMT | Cybersecurity Training: Real-World Code Review Challenges on CodeVulnHunt | Mithun | [Read More](https://medium.com/p/70a0a36e50bf) |
