@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 09:13:38 GMT | ️ Building a Full-Stack Website Vulnerability Scanner: A Deep Dive into My Security Projectd | Abdul Basit | [Read More](https://medium.com/p/93580f70325c) |
+| Thu, 15 May 2025 09:11:59 GMT | How Cloud Computing is Changing the Way Startups Scale | FACE Prep Campus | [Read More](https://medium.com/p/5b1c287e96e9) |
+| Thu, 15 May 2025 09:10:56 GMT | Race Condition in Signicat Dashboard: Creating Duplicate Accounts Like a Pro | FufuFafa | [Read More](https://medium.com/p/8632acde2dc1) |
+| Thu, 15 May 2025 09:10:47 GMT | How to Become an Influencer in 1 Day (The Unethical Way) | Oscar Green | [Read More](https://medium.com/p/32f6a493e684) |
+| Thu, 15 May 2025 09:09:52 GMT | EU Launches Centralized Vulnerability Database to Strengthen Cybersecurity Transparency | CyBlog | [Read More](https://medium.com/p/90b31ddcca89) |
+| Thu, 15 May 2025 09:09:13 GMT | Defying Fear — A Manifesto for AI Freedom | Alejo Belles | [Read More](https://medium.com/p/6ea7ac539226) |
+| Thu, 15 May 2025 08:57:55 GMT | How Smart Companies Stay Ahead with Compliance Automation | SecureSlate | [Read More](https://medium.com/p/09b7c0eed265) |
+| Thu, 15 May 2025 08:47:36 GMT | LE MEDIUM VOYANT FETICHEUR DJEHOUETIN | DJEHOUETIN YETIN FETICHEUR | [Read More](https://medium.com/p/d10c549ffe12) |
+| Thu, 15 May 2025 08:46:31 GMT | Don’t let hackers crash your party | Godswillchinonso | [Read More](https://medium.com/p/78f3c65151e1) |
+| Thu, 15 May 2025 08:46:28 GMT | The Strangeness of Vulnerability | Estylily Johnson | [Read More](https://medium.com/p/09ffca7e70a4) |
 | Thu, 15 May 2025 08:40:10 GMT | Privacy for Sale: When Websites Know You Better Than You Know Yourself | Fadhil Pratama | [Read More](https://medium.com/p/b752e883d324) |
 | Thu, 15 May 2025 08:38:30 GMT | Every Breach is Human: Redefining Security | CoffeeCloud Series | [Read More](https://medium.com/p/2a1aaff8ea94) |
 | Thu, 15 May 2025 08:21:40 GMT | Walkthrough for the TryHackMe Room “Creative”: From User to Root Flag | jensbecker-dev | [Read More](https://medium.com/p/6121c9b045b7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 01:31:09 GMT | How to Design a Privacy Risk Framework for AI Systems | Danish | [Read More](https://medium.com/p/2059583659ac) |
 | Thu, 15 May 2025 01:19:30 GMT | The 2025 Tech Renaissance: AI, Messaging, and the Silent Battle for Digital Supremacy | Veridian Zenith Tech | [Read More](https://medium.com/p/e7d52a764bb0) |
 | Thu, 15 May 2025 01:15:55 GMT | Email Security: The Basics of Protecting Your Organization & Yourself | Ryan G. Cox | [Read More](https://medium.com/p/eba73ad3026e) |
-| Thu, 15 May 2025 01:12:15 GMT | Vlan Configuration: Access and Trunk Port | Ridwan Owolabi | [Read More](https://medium.com/p/edd1fbd6b055) |
-| Thu, 15 May 2025 01:04:12 GMT | Usable Encryption : Safety Can be Fun | Ngatz | [Read More](https://medium.com/p/de56e3588732) |
-| Thu, 15 May 2025 01:02:53 GMT | To Find Something to lose is beautiful | Mainak Ghosh | [Read More](https://medium.com/p/9012009c1b4a) |
-| Thu, 15 May 2025 00:56:55 GMT | Top 10 Common Cybersecurity Mistakes Developers Make | Mehedi Hasan | [Read More](https://medium.com/p/1a362fc34d7d) |
-| Thu, 15 May 2025 00:42:26 GMT | CCTV and Webcam Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/be43d35ed5ee) |
-| Thu, 15 May 2025 00:29:15 GMT | Reflection on Matthew McConaughey’s Speech and Self-Awareness in Leadership | Keyang Wang | [Read More](https://medium.com/p/8729f5679f2c) |
-| Thu, 15 May 2025 00:25:24 GMT | DC:1 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/87e35c74c60b) |
-| Wed, 14 May 2025 23:57:43 GMT | “AI Reviews for Cash?” Inside a Crypto Scam Disguised as an App Monetization Platform | Ivan | [Read More](https://medium.com/p/453ac9f80356) |
-| Wed, 14 May 2025 23:56:32 GMT | Why Clark, Pampanga Is Quietly Becoming a Goldmine for IT Careers | Jepperson Dela Cerna | [Read More](https://medium.com/p/3a821dc2fdf2) |
-| Wed, 14 May 2025 23:40:54 GMT | How to Pitch at RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyberstars | Tal Eliyahu | [Read More](https://medium.com/p/f7d0a03ade91) |
