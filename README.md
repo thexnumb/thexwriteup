@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 14:18:02 GMT | How do we stay safe on the internet? A brief guide. Part 2 | Christopher Morris | [Read More](https://medium.com/p/1aeb6603865f) |
+| Thu, 15 May 2025 14:13:43 GMT | ❄️ “Comrade, click the CAPTCHA” | Wes Young | [Read More](https://medium.com/p/21f5aaadee6f) |
+| Thu, 15 May 2025 14:10:08 GMT | When We Trust Apps More Than Ourselves: The Price of Skipping Privacy Policies | Ngatz | [Read More](https://medium.com/p/d8742ca9216b) |
+| Thu, 15 May 2025 14:09:17 GMT | Accepting love is mahirap, no? | E-abab na Meta | [Read More](https://medium.com/p/0171fa962aad) |
+| Thu, 15 May 2025 14:04:48 GMT | Cyber Briefing: 2025.05.15 | CyberMaterial | [Read More](https://medium.com/p/920cce659514) |
+| Thu, 15 May 2025 14:04:45 GMT | NoSQL | Rhyan Lemos | [Read More](https://medium.com/p/6ed9d7d2575e) |
+| Thu, 15 May 2025 14:03:06 GMT | NoSQL | Rhyan Lemos | [Read More](https://medium.com/p/41742330e695) |
+| Thu, 15 May 2025 14:02:34 GMT | Fortinet Addresses CVE-2025–32756: A Critical Zero-Day RCE Flaw | Cybersectoworld | [Read More](https://medium.com/p/cdb183171f97) |
+| Thu, 15 May 2025 14:02:06 GMT | Day 3 of #60DaysofGRC — Who’s Responsible for GRC? (Hint: It’s Not Just One Person) | Brittney Ginther | [Read More](https://medium.com/p/d1d20f8f2cc4) |
+| Thu, 15 May 2025 13:52:28 GMT | Cybersecurity Training: Real-World Code Review Challenges on CodeVulnHunt | Mithun | [Read More](https://medium.com/p/70a0a36e50bf) |
+| Thu, 15 May 2025 13:43:08 GMT | What is VLAN ? | TWEEBIT | [Read More](https://medium.com/p/511ca8c2b0ef) |
+| Thu, 15 May 2025 13:35:48 GMT | Learning to Hack Isn’t Just for Hackers, It’s the Missing Link in Cybersecurity | TechBrain | [Read More](https://medium.com/p/5c7b1c125a37) |
+| Thu, 15 May 2025 13:31:50 GMT | From Code to Confidence: Why EDSPL’s QA and Software Testing Services Are Trusted by Industry… | saurabh cyberinfomines | [Read More](https://medium.com/p/710838958e60) |
+| Thu, 15 May 2025 13:31:30 GMT | Bir üniversite mobil API’sinde credential leakage: reverse engineering ile ortaya çıkan JWT açığı | Eren İşlek | [Read More](https://medium.com/p/b712de159695) |
 | Thu, 15 May 2025 13:16:20 GMT | Top 6 Practical Uses of Linux in Everyday Tech and IT Careers | cyberwingITSolution | [Read More](https://medium.com/p/d757ab12e0e0) |
 | Thu, 15 May 2025 13:06:55 GMT | Top 70 Medium Tags in 2025 | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/b785232ef0db) |
 | Thu, 15 May 2025 13:06:27 GMT | The First Time I Felt Safe, I Fell Apart | Alifa Salsabila | [Read More](https://medium.com/p/7fdb5fbf3d8e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 07:45:42 GMT | I was made to believe that I can lean when I needed to cry. | mistystar°✩ | [Read More](https://medium.com/p/a048a9a326f3) |
 | Thu, 15 May 2025 07:41:03 GMT | Securing API Integrations: Best Practices for Contact Form Data Transmission | ContactFormToAnyAPI | [Read More](https://medium.com/p/1b4726f26ccc) |
 | Thu, 15 May 2025 07:39:52 GMT | European Challenge: Pursuing Universal Values Through the Empty Middle | Bojan Radej | [Read More](https://medium.com/p/d138766348ee) |
-| Thu, 15 May 2025 07:38:17 GMT | When Streaming Turns Dangerous: How Millions of Apple Devices Are at Risk via Wi-Fi | Cybersecurity Umbrella | [Read More](https://medium.com/p/b4f5d19e14b9) |
-| Thu, 15 May 2025 07:32:10 GMT | Do You Really Need a VPN on Your Mac? Here’s the Truth | Aria Penelope Hart | [Read More](https://medium.com/p/7e4966c6c2a2) |
-| Thu, 15 May 2025 07:31:42 GMT | Tails Operating System Explained | Mwenda Kelvin | [Read More](https://medium.com/p/5f9c816fb655) |
-| Thu, 15 May 2025 07:31:38 GMT | Understanding What is an SSL/TLS Certificate? | TheCodeAlchemist | [Read More](https://medium.com/p/b8b0ed3a25db) |
-| Thu, 15 May 2025 07:25:21 GMT | Fortifying the Future of DeFi: How DeriW Prioritizes Security at Every Layer | Deriw_Finance | [Read More](https://medium.com/p/8c52754b4bc9) |
-| Thu, 15 May 2025 07:25:07 GMT | You’re Not Supposed to Do That: Preventing Insecure Direct Object References (IDOR) | Jeslyn Theodora | [Read More](https://medium.com/p/75b120e2af0c) |
-| Thu, 15 May 2025 07:24:03 GMT | [CTF SERIES] WEB EXPLOITATION : Lỗ hổng Path Traversal + File upload | Andrich HA | [Read More](https://medium.com/p/06f32bd13e19) |
-| Thu, 15 May 2025 07:23:47 GMT | Critical Alert: Co-op Cyber-Attack Disrupts Stock — Recovery by Weekend Predicted | Technijian | [Read More](https://medium.com/p/61d61894b21f) |
-| Thu, 15 May 2025 07:23:42 GMT | Part 4: How to Be Safe Online (Even If You Don’t Know What Cybersecurity Is) | typingGurl | [Read More](https://medium.com/p/2d740dc83cfc) |
-| Thu, 15 May 2025 07:17:33 GMT | Information Assurance (IA) | Victor Kipkemboi | [Read More](https://medium.com/p/2bb40b078f51) |
-| Thu, 15 May 2025 07:02:45 GMT | Inside the AI x Security Arsenal I’ve Built | Thomas Roccia | [Read More](https://medium.com/p/0a77b6424918) |
-| Thu, 15 May 2025 07:01:47 GMT | The Silent Risk: Third-Party Applications in Endpoint Security | Easy2Patch | [Read More](https://medium.com/p/4972e28b3a45) |
-| Thu, 15 May 2025 07:01:41 GMT | Corporate Greed Chronicles: Microsoft’s Profit Parade Cuts 6,000 | Namir Sagheenanajar | [Read More](https://medium.com/p/e217f28a701a) |
-| Thu, 15 May 2025 06:59:33 GMT | Top Qualities to Look for in a Security Guard Company in Singapore | Jane Tang | [Read More](https://medium.com/p/51b69c3465db) |
