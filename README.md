@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 10:38:35 GMT | Network Scanning Using Scapy | Shahzaib Khan | [Read More](https://medium.com/p/deea662f8550) |
+| Thu, 15 May 2025 10:32:31 GMT | Digital Forensics: Uncovering Digital Truths with CyberMate Forensics | Shubhrapandey Sgi | [Read More](https://medium.com/p/621abd11b04b) |
+| Thu, 15 May 2025 10:31:37 GMT | Top Tools That Helped Me Earn $500 in 30 Days | It4chis3c | [Read More](https://medium.com/p/00123f09cd7a) |
+| Thu, 15 May 2025 10:28:00 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/faf73a53acf1) |
+| Thu, 15 May 2025 10:26:45 GMT | this is how small Instagram pages for earning large per month | S Anuradha | [Read More](https://medium.com/p/61b71cdfe661) |
+| Thu, 15 May 2025 10:26:06 GMT | The Gray Code: When Hackers Wrestle With Their Shadows | Ahmad Javed | [Read More](https://medium.com/p/0a2cb5b66e21) |
+| Thu, 15 May 2025 10:25:11 GMT | I Passed the ISC2 CC Exam on My First Try! — Here’s How You Can Too | Joycelyn Somuah Boateng | [Read More](https://medium.com/p/c485b20899d9) |
+| Thu, 15 May 2025 10:23:44 GMT | How to Build a Domain-Specific Chatbot with Guardrails — A Practical Guide for Real-World… | Yash Tripathi | [Read More](https://medium.com/p/47de2f6fdbdf) |
+| Thu, 15 May 2025 10:23:38 GMT | Social Engineering: The Hidden Cyber Threat You’re Probably Falling For | Ziad Tamer | [Read More](https://medium.com/p/c4b184a7b780) |
 | Thu, 15 May 2025 10:22:38 GMT | I Lost $82,000 in a SIM Swap Scam and It All Started with a Text Message | Bricedakota | [Read More](https://medium.com/p/930d68e61b0f) |
 | Thu, 15 May 2025 10:19:49 GMT | Choosing the Right Cyber Security Degree: A Guide to Building a Future-Proof Career in Tech | Brainware University | [Read More](https://medium.com/p/06eab01cdc1c) |
+| Thu, 15 May 2025 10:16:55 GMT | Recovering from a Cyber Attack: 3 Key Steps for a Swift Comeback | Certera | [Read More](https://medium.com/p/9b522a50adbc) |
+| Thu, 15 May 2025 10:16:40 GMT | Why the $1.2B Helium Re Liquidator Market Is Poised for a Sustainable Revolution by 2033 | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/1db86ef21a59) |
 | Thu, 15 May 2025 10:11:15 GMT | Learn Cybersecurity in 2025: A Beginner’s Guide to Skills Courses and Career Paths | cyberwingITSolution | [Read More](https://medium.com/p/4c3bd10bf9c6) |
 | Thu, 15 May 2025 10:10:13 GMT | Ethical Hacking — Cryptography | Leroyanand | [Read More](https://medium.com/p/bfc533ae49cc) |
 | Thu, 15 May 2025 10:07:03 GMT | AWS: Securing EKS Applications using ALB Integration with AWS WAF | Rio Wiraldhani | [Read More](https://medium.com/p/669db7a86e8a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 05:05:25 GMT | Nmap Commands You Need to Know for the CompTIA Security+ SY0–701 Exam | unica 02 | [Read More](https://medium.com/p/dc60091f424f) |
 | Thu, 15 May 2025 05:00:04 GMT | Day 6 : Creating Tables | Skills 4 Free Myanmar | [Read More](https://medium.com/p/db8d69663c65) |
 | Thu, 15 May 2025 04:57:55 GMT | Prevent MitM Attacks in Symfony SecurelyPrevent MitM Attacks in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/ed0a376ec570) |
-| Thu, 15 May 2025 04:57:35 GMT | Securing the Future: IoT and Cybersecurity | Poddar Group of Institutions | [Read More](https://medium.com/p/4df636f90af2) |
-| Thu, 15 May 2025 04:55:56 GMT | Hacking With No Tools: How to Break Web Apps Using Just Your Browser ️‍♂️ | Vipul Sonule | [Read More](https://medium.com/p/255861d3f623) |
-| Thu, 15 May 2025 04:55:08 GMT | $3,000 Bounty: RCE in Burp Suite via Clickjacking | Monika sharma | [Read More](https://medium.com/p/3a3bac7cf431) |
-| Thu, 15 May 2025 04:43:39 GMT | Ethical Hacking Courses in India — Build a Career in Cyber Defense | Reshma Rajagopalan p | [Read More](https://medium.com/p/ee58f91fee12) |
-| Thu, 15 May 2025 04:39:45 GMT | Navigating the Maze: Ethical Crossroads in America’s 2025 AI Trajectory | Robert Ingram | [Read More](https://medium.com/p/806138ad0489) |
-| Thu, 15 May 2025 04:38:17 GMT | Blog Title: Not Your File: How Misconfigured MIME Types Let Me Upload Evil Scripts | Iski | [Read More](https://medium.com/p/889efb18a7ce) |
-| Thu, 15 May 2025 04:35:36 GMT | Solving PicoCTF WebExploitation Challenge | rainbow11 | [Read More](https://medium.com/p/deb2d401caf7) |
-| Thu, 15 May 2025 04:32:42 GMT | Clouded Dreams | Komaldash | [Read More](https://medium.com/p/55a444adb71f) |
-| Thu, 15 May 2025 04:26:07 GMT | The Linux Concept Journey — Linux Distribution | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2dfc68aaa4f4) |
-| Thu, 15 May 2025 04:25:45 GMT | Bbbbloat - Writeup | Marvin | [Read More](https://medium.com/p/909d55ceba47) |
-| Thu, 15 May 2025 04:13:34 GMT | Cybersecurity101 — Mitre Att&ck Series #1: Active Scanning —  What Security Analysts Need to Know | Ilham Firdiyanto | [Read More](https://medium.com/p/a01d98c09e42) |
