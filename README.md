@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 18:38:12 GMT | Navigieren in der hybriden Bedrohungslandschaft | Benjamin Rohé | [Read More](https://medium.com/p/3f88a55dae61) |
+| Thu, 15 May 2025 18:36:46 GMT | NoSQL Injection Detection — A hands-on Exploitation Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/03aaa19dab70) |
+| Thu, 15 May 2025 18:35:26 GMT | Beyond Firewalls: Why True IT Security Starts with Visibility and Lifecycle Control | LJ - Your tech guy | [Read More](https://medium.com/p/0f77e2538d61) |
+| Thu, 15 May 2025 18:35:20 GMT | Cyber Protection: Why It Matters and How to Strengthen It in Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/fdc716656704) |
+| Thu, 15 May 2025 18:32:18 GMT | The Best Backup Strategies for WordPress in 2025 | Shubradeb | [Read More](https://medium.com/p/f327b55b715f) |
 | Thu, 15 May 2025 18:23:29 GMT | When Logs Become Lessons: Debugging My Way Through ELK and Life | Manish Rawat | [Read More](https://medium.com/p/f0cfb9e75249) |
+| Thu, 15 May 2025 18:23:04 GMT | Why Gen A.I. has become digital fentanyl: Emotional Disorientation — Part 4 | Jeff Carter | [Read More](https://medium.com/p/ea8f6e247e18) |
 | Thu, 15 May 2025 18:22:19 GMT | Nucor Cyberattack: American Steel Giant | IT_Engineer | [Read More](https://medium.com/p/374c172b4af0) |
 | Thu, 15 May 2025 18:12:39 GMT | How I Accidentally Left a Port Open on My Linux Server (And How I Caught It) | Faruk Ahmed | [Read More](https://medium.com/p/bffd2c052514) |
 | Thu, 15 May 2025 18:01:34 GMT | Title: | Mansoor A | [Read More](https://medium.com/p/1ae078aaa7bd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 12:34:03 GMT | NIST’s Latest Post-Quantum Cryptography Standards: Securing the Quantum Future | Pankaj Kumar Bind | [Read More](https://medium.com/p/8f8855323962) |
 | Thu, 15 May 2025 12:33:48 GMT | Coinbase Gets Hit with $20M Ransom Demand, Responds with a $20M Bounty Instead | CoinGen | [Read More](https://medium.com/p/e2d6ebfaeee8) |
 | Thu, 15 May 2025 12:33:27 GMT | Best Way to Remove Malware in WordPress in 2025: A Step-by-Step Guide | All in One security | [Read More](https://medium.com/p/ff5dc3ab740b) |
-| Thu, 15 May 2025 12:31:07 GMT | port-scanning for large scopes can lead to $$$$ | ABDELKARIM MOUCHQUELITA | [Read More](https://medium.com/p/fdc1b7b5af00) |
-| Thu, 15 May 2025 12:23:34 GMT | A Practical Guide to AWS IAM: Securing Access in the Cloud | Prashansa Agrrawal | [Read More](https://medium.com/p/ae725cd430a0) |
-| Thu, 15 May 2025 12:23:03 GMT | Information in the Internet Era: How Are We Handling Knowledge? | linglingling3 | [Read More](https://medium.com/p/8fd78a5e8216) |
-| Thu, 15 May 2025 12:21:21 GMT | Debugging, Resilience, and the Sweet Victory of Code | Quadri Ade Nelson | [Read More](https://medium.com/p/ec938115a83a) |
-| Thu, 15 May 2025 12:12:44 GMT | The Day Our Customer Portal Got Hacked: My XSS Nightmare and How We Fixed It | Sanh Doan | [Read More](https://medium.com/p/4678ca0fd7be) |
-| Thu, 15 May 2025 12:12:30 GMT | Introducing SecureCrawl: The Intelligent Web Security Crawler | N0aziXss | [Read More](https://medium.com/p/d258ec05edb8) |
