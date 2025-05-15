@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 11:09:12 GMT | OAuth Misconfiguration: Hijack User Accounts Without Abusing Redirects | thebee0x | [Read More](https://medium.com/p/e287680a15cb) |
+| Thu, 15 May 2025 11:09:11 GMT | Cybersecurity Career Path: Your Complete Guide to Success in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/5d3790d21137) |
+| Thu, 15 May 2025 11:07:58 GMT | AI’s Zero-Day Exploit | Anthony C Fox | [Read More](https://medium.com/p/0f7f90fa65c7) |
+| Thu, 15 May 2025 10:59:39 GMT | RID Hijacking | Shahzaib Khan | [Read More](https://medium.com/p/a34793958c8b) |
+| Thu, 15 May 2025 10:52:27 GMT | JWTs: Your Compact, Secure ID Badge (Code Included) | Said Lfagrouche | [Read More](https://medium.com/p/791abf3d5743) |
+| Thu, 15 May 2025 10:50:00 GMT | Aligning Security Metrics with Business Goals | SecOps | [Read More](https://medium.com/p/fe7a7a9c8ccc) |
+| Thu, 15 May 2025 10:49:22 GMT | Social Media and Cybersecurity: Remember to be Safe in the Digital Playground | Dbrooks | [Read More](https://medium.com/p/518eb584765a) |
+| Thu, 15 May 2025 10:47:47 GMT | Security Robots in Germany | Presslink Media | [Read More](https://medium.com/p/b8e4818404b3) |
 | Thu, 15 May 2025 10:38:35 GMT | Network Scanning Using Scapy | Shahzaib Khan | [Read More](https://medium.com/p/deea662f8550) |
 | Thu, 15 May 2025 10:32:31 GMT | Digital Forensics: Uncovering Digital Truths with CyberMate Forensics | Shubhrapandey Sgi | [Read More](https://medium.com/p/621abd11b04b) |
 | Thu, 15 May 2025 10:31:37 GMT | Top Tools That Helped Me Earn $500 in 30 Days | It4chis3c | [Read More](https://medium.com/p/00123f09cd7a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 05:41:03 GMT | FTP/SSH Password Cracking | Subhendu Senapati | [Read More](https://medium.com/p/effb036290c6) |
 | Thu, 15 May 2025 05:37:48 GMT | Cybersecurity in 2025: Protecting Your Digital World | Pawan Giri | [Read More](https://medium.com/p/5d3dbe2bdaed) |
 | Thu, 15 May 2025 05:35:28 GMT | Incident Report: Unauthorized Access and Ongoing Recovery Efforts forBitDoctorai’s  X (Twitter)… | BitDoctor.ai | [Read More](https://medium.com/p/c19b010c1a9a) |
-| Thu, 15 May 2025 05:28:39 GMT | Not Just Coding: Filling the Cybersecurity Gap in Australian Schools | LogicBound | [Read More](https://medium.com/p/0a1d50c0001a) |
-| Thu, 15 May 2025 05:23:16 GMT | ️ Secure IoT in the Wild: How to Harden Your Devices | Preeti | [Read More](https://medium.com/p/0796b2009082) |
-| Thu, 15 May 2025 05:19:49 GMT | Comprehensive Cyber Security Audits & Information Security in London | Paladin Cyber Security London | [Read More](https://medium.com/p/2afa55e2b0aa) |
-| Thu, 15 May 2025 05:17:37 GMT | QA Mindset Shift: From Bug Hunters to User Whisperers | Ivan Boklach | [Read More](https://medium.com/p/7e9dccff0fc4) |
-| Thu, 15 May 2025 05:09:47 GMT | Computer Networks: The Backbone of the Internet | PanicAtTheKernel | [Read More](https://medium.com/p/62328f01b917) |
-| Thu, 15 May 2025 05:05:25 GMT | Nmap Commands You Need to Know for the CompTIA Security+ SY0–701 Exam | unica 02 | [Read More](https://medium.com/p/dc60091f424f) |
-| Thu, 15 May 2025 05:00:04 GMT | Day 6 : Creating Tables | Skills 4 Free Myanmar | [Read More](https://medium.com/p/db8d69663c65) |
-| Thu, 15 May 2025 04:57:55 GMT | Prevent MitM Attacks in Symfony SecurelyPrevent MitM Attacks in Symfony Securely | Pentest_Testing_Corp | [Read More](https://medium.com/p/ed0a376ec570) |
