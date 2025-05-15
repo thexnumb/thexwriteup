@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 14:31:57 GMT | What Is an MSP? A Simple Guide for Business Owners | Surge Solutions | [Read More](https://medium.com/p/1d156583c8a8) |
+| Thu, 15 May 2025 14:23:48 GMT | Vulnerability Dies in Gaza | Carol Smaldino | [Read More](https://medium.com/p/c31bcab3bf85) |
+| Thu, 15 May 2025 14:23:33 GMT | Master OSINT with Wtfis: Simple Domain & IP Lookup Guide | Pawan Jaiswal | [Read More](https://medium.com/p/7f4dd13a6afe) |
+| Thu, 15 May 2025 14:22:08 GMT | Did You Say Passwordless? Really? | Vincent Le Goff | [Read More](https://medium.com/p/dcd4c8ee0c59) |
+| Thu, 15 May 2025 14:20:12 GMT | How People From Medieval Times Fought Bugs Without Modern Tools? | Time Tales | [Read More](https://medium.com/p/a7bfb3f391bf) |
+| Thu, 15 May 2025 14:18:23 GMT | Your Data Got Stolen. Why No One Told You (Legally) | BillfordX | [Read More](https://medium.com/p/5d9dfef5104c) |
 | Thu, 15 May 2025 14:18:02 GMT | How do we stay safe on the internet? A brief guide. Part 2 | Christopher Morris | [Read More](https://medium.com/p/1aeb6603865f) |
 | Thu, 15 May 2025 14:13:43 GMT | ❄️ “Comrade, click the CAPTCHA” | Wes Young | [Read More](https://medium.com/p/21f5aaadee6f) |
 | Thu, 15 May 2025 14:10:08 GMT | When We Trust Apps More Than Ourselves: The Price of Skipping Privacy Policies | Ngatz | [Read More](https://medium.com/p/d8742ca9216b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 08:07:41 GMT | Steam Leak or Scare? Breaking Down the May 2025 Security Controversy | Space Facts Guy | [Read More](https://medium.com/p/a6e9c8ac9670) |
 | Thu, 15 May 2025 08:06:51 GMT | ประจำวันพฤหัสบดีที่ 15 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/12f18af8e746) |
 | Thu, 15 May 2025 08:00:40 GMT | Social Media Account Hacker for Hire — Reclaim What’s Yours with Cybr Space | Jessi Rogers | [Read More](https://medium.com/p/0ba00376b6a1) |
-| Thu, 15 May 2025 08:00:23 GMT | Wrapping My Joy in Bubble Wrap | Adéla Valčíková | [Read More](https://medium.com/p/6d6abe6dec5f) |
-| Thu, 15 May 2025 07:59:24 GMT | Embracing the Art of Idleness: A 2025 Guide to Living Smarter, Not Harder | Chandravijay Agrawal | [Read More](https://medium.com/p/8dfed448abbf) |
-| Thu, 15 May 2025 07:49:24 GMT | TalkWav: Earning the Trust of IT Experts in Digital Communication | TalkWav | [Read More](https://medium.com/p/b91b26fc53bc) |
-| Thu, 15 May 2025 07:45:42 GMT | I was made to believe that I can lean when I needed to cry. | mistystar°✩ | [Read More](https://medium.com/p/a048a9a326f3) |
-| Thu, 15 May 2025 07:41:03 GMT | Securing API Integrations: Best Practices for Contact Form Data Transmission | ContactFormToAnyAPI | [Read More](https://medium.com/p/1b4726f26ccc) |
-| Thu, 15 May 2025 07:39:52 GMT | European Challenge: Pursuing Universal Values Through the Empty Middle | Bojan Radej | [Read More](https://medium.com/p/d138766348ee) |
