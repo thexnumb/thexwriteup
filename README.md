@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 02:47:22 GMT | Cybersecurity Debate: CISA Funding Cuts and National Security | CCD-IS | [Read More](https://medium.com/p/a16831bb4f01) |
+| Thu, 15 May 2025 02:30:06 GMT | If Life Gives You Lemonade, Linux is the Answer | Matyas Koszegi | [Read More](https://medium.com/p/c31750431332) |
+| Thu, 15 May 2025 02:20:55 GMT | Penerapan Secure Coding Pada Artikel | Muhammad Imam Chaidar | [Read More](https://medium.com/p/f5ed9c263e40) |
+| Thu, 15 May 2025 02:19:23 GMT | ☕Best Tool for Analyzing Java Files (90% of Hackers Don’t Know This) | Abhijeet Kumawat | [Read More](https://medium.com/p/07a57d1477f9) |
+| Thu, 15 May 2025 02:19:07 GMT | Practical OSINT Research Professional (PORP) review | Hugh brown | [Read More](https://medium.com/p/e5689e226d38) |
+| Thu, 15 May 2025 02:16:12 GMT | Enforcing the CISO’s Vision: Turning Security Governance into Policy-as-Code | Aly Ragab | [Read More](https://medium.com/p/39da57770350) |
+| Thu, 15 May 2025 02:01:34 GMT | The Evolving Role of Cybersecurity in DeFI: How to Enhance Safety in 2025? | Nagaya Technologies | [Read More](https://medium.com/p/3ffc9a333d74) |
+| Thu, 15 May 2025 01:54:40 GMT | The 2025 Tech Renaissance: Beyond the Buzzwords | Veridian Zenith Tech | [Read More](https://medium.com/p/5d2fcc1cfe65) |
+| Thu, 15 May 2025 01:46:28 GMT | Implementing Application Security and Dynamic Application Security Testing (DAST) | Athar Adista | [Read More](https://medium.com/p/d5a6a0faa983) |
+| Thu, 15 May 2025 01:45:39 GMT | How to Reverse Engineer Satellite Signals Without Losing Your Damn Mind! | Razz Pokhreal | [Read More](https://medium.com/p/babf1205b76e) |
+| Thu, 15 May 2025 01:31:33 GMT | Scam Gadgets: How Fake Tech Products Are Ripping Nigerians Off in 2025 | Russell - Gadget Hustler | [Read More](https://medium.com/p/f96a98b334cf) |
+| Thu, 15 May 2025 01:31:09 GMT | How to Design a Privacy Risk Framework for AI Systems | Danish | [Read More](https://medium.com/p/2059583659ac) |
 | Thu, 15 May 2025 01:19:30 GMT | The 2025 Tech Renaissance: AI, Messaging, and the Silent Battle for Digital Supremacy | Veridian Zenith Tech | [Read More](https://medium.com/p/e7d52a764bb0) |
 | Thu, 15 May 2025 01:15:55 GMT | Email Security: The Basics of Protecting Your Organization & Yourself | Ryan G. Cox | [Read More](https://medium.com/p/eba73ad3026e) |
 | Thu, 15 May 2025 01:12:15 GMT | Vlan Configuration: Access and Trunk Port | Ridwan Owolabi | [Read More](https://medium.com/p/edd1fbd6b055) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 17:56:44 GMT | How I Use Bash Scripts to Save Time and Earn More as a Linux Freelancer | Faruk Ahmed | [Read More](https://medium.com/p/959f5d31474e) |
 | Wed, 14 May 2025 17:54:51 GMT | Why 2iResourcing Is Canada’s Top IT Recruitment Company in 2025 | 2iResourcing | [Read More](https://medium.com/p/24e7e5001646) |
 | Wed, 14 May 2025 17:54:24 GMT | The Photo Can Reveal a Lot: TheySeeYourPhotos.com Is a Wake-Up Call We Didn’t Know We Needed | cybrNK | [Read More](https://medium.com/p/fe196d24750a) |
-| Wed, 14 May 2025 17:51:05 GMT | How to Mitigate Cybersecurity Threats and Strengthen Your Business Defense | SafeAeon Inc. | [Read More](https://medium.com/p/59eaeedc1ef5) |
-| Wed, 14 May 2025 17:44:39 GMT | Bug Bounty Tips: From Zero to First Payout | appsecwarrior | [Read More](https://medium.com/p/6bd8c9df0c48) |
-| Wed, 14 May 2025 17:42:06 GMT | Unmasking | Jonathan Mason | [Read More](https://medium.com/p/62802c787d2d) |
-| Wed, 14 May 2025 17:40:17 GMT | How to install and use B-Phish on Kali Linux. | Saviour Emmanuel | [Read More](https://medium.com/p/755f4f4f51cc) |
-| Wed, 14 May 2025 17:39:08 GMT | SOC130 — Event Log Cleared | Cyril Philipp Abajar | [Read More](https://medium.com/p/ea922e4b3cc8) |
-| Wed, 14 May 2025 17:34:35 GMT | How Disappointing My Mother Eventually Lead Me to Find Cybersecurity | Wellness in Cybersecurity | [Read More](https://medium.com/p/7ba512369bb1) |
-| Wed, 14 May 2025 17:30:39 GMT | Forex Market Overview – May 14, 2025 | TRADING NEWS | [Read More](https://medium.com/p/fc156b8d7cf9) |
-| Wed, 14 May 2025 17:19:12 GMT | ️ Navigating Linux Like a Hacker: Understanding Files, Folders, and the Terminal | Luispuello | [Read More](https://medium.com/p/c6b10e9b829d) |
-| Wed, 14 May 2025 17:16:28 GMT | Tackling Laravel’s Daily Headaches: Common Issues and Smart Fixes | Sadique Ali | [Read More](https://medium.com/p/0707f8d76190) |
-| Wed, 14 May 2025 17:12:55 GMT | ️ TRISIS: The Day Safety Systems Were Turned Into Weapons | om sonawane | [Read More](https://medium.com/p/65072a65bad8) |
-| Wed, 14 May 2025 17:12:46 GMT | Hacking the Hardware Brains of Computers is the Ultimate Cyberattack | Matthew.Rosenquist | [Read More](https://medium.com/p/03e8d735aac1) |
-| Wed, 14 May 2025 17:12:31 GMT | ️‍♂️ Advanced Methods for Threat Hunting in Cybersecurity | Esra Kayhan | [Read More](https://medium.com/p/cd958372cd21) |
