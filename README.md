@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 May 2025 08:40:10 GMT | Privacy for Sale: When Websites Know You Better Than You Know Yourself | Fadhil Pratama | [Read More](https://medium.com/p/b752e883d324) |
+| Thu, 15 May 2025 08:38:30 GMT | Every Breach is Human: Redefining Security | CoffeeCloud Series | [Read More](https://medium.com/p/2a1aaff8ea94) |
 | Thu, 15 May 2025 08:21:40 GMT | Walkthrough for the TryHackMe Room “Creative”: From User to Root Flag | jensbecker-dev | [Read More](https://medium.com/p/6121c9b045b7) |
 | Thu, 15 May 2025 08:13:49 GMT | Security Robots in Germany | Nerminekhouzamrubin | [Read More](https://medium.com/p/a4295586710f) |
 | Thu, 15 May 2025 08:07:41 GMT | Steam Leak or Scare? Breaking Down the May 2025 Security Controversy | Space Facts Guy | [Read More](https://medium.com/p/a6e9c8ac9670) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 May 2025 23:57:43 GMT | “AI Reviews for Cash?” Inside a Crypto Scam Disguised as an App Monetization Platform | Ivan | [Read More](https://medium.com/p/453ac9f80356) |
 | Wed, 14 May 2025 23:56:32 GMT | Why Clark, Pampanga Is Quietly Becoming a Goldmine for IT Careers | Jepperson Dela Cerna | [Read More](https://medium.com/p/3a821dc2fdf2) |
 | Wed, 14 May 2025 23:40:54 GMT | How to Pitch at RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyberstars | Tal Eliyahu | [Read More](https://medium.com/p/f7d0a03ade91) |
-| Wed, 14 May 2025 23:20:26 GMT | 8 Ways IT Leaders Can Do More with Less | PhoenixDX | [Read More](https://medium.com/p/6118ee8979f7) |
-| Wed, 14 May 2025 23:11:51 GMT | Understanding Cryptography | Godwinodahak | [Read More](https://medium.com/p/6d3e60915567) |
