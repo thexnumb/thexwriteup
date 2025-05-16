@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 19:07:57 GMT | Another cert knocked out on TryHackMe | 0b1d1 | [Read More](https://medium.com/p/690e38dde4e9) |
+| Fri, 16 May 2025 19:02:27 GMT | Slopsquatting: The Hidden Danger of Typographical Attacks in Software Supply Chains | Cyber Kavy | [Read More](https://medium.com/p/f271c0189046) |
+| Fri, 16 May 2025 19:01:18 GMT | Why No One Reads Security Policies | Azeezah | [Read More](https://medium.com/p/7a06789e6b17) |
+| Fri, 16 May 2025 18:59:37 GMT | Privilege Escalation via Response Manipulation | MR SHAN | [Read More](https://medium.com/p/efe66697bc98) |
+| Fri, 16 May 2025 18:56:32 GMT | When Thieves Get Deeds Instead of Diamonds | Eina Schroeder | [Read More](https://medium.com/p/81abe55c4693) |
+| Fri, 16 May 2025 18:55:47 GMT | Security Isn’t Just For Banks — It’s for Your App Too! | Laras Malahayati | [Read More](https://medium.com/p/35ab26bfa366) |
+| Fri, 16 May 2025 18:47:03 GMT | Why Backend Development Is About Security, Not Just Speed | NonCoderSuccess | [Read More](https://medium.com/p/188454b58593) |
+| Fri, 16 May 2025 18:44:34 GMT | Would anyone care if I died? | Icaria Zetis | [Read More](https://medium.com/p/ce7dbeb2b813) |
+| Fri, 16 May 2025 18:44:15 GMT | Cybersecurity Internships You Can Apply to Right Now — Don’t Miss These Opportunities | Babar Ali Jamali | [Read More](https://medium.com/p/0bf5e5d512b3) |
+| Fri, 16 May 2025 18:36:47 GMT | The 47-Day Clock: Will Your Medical Device Run Out of Time? | Medcrypt | [Read More](https://medium.com/p/1f29c407c072) |
 | Fri, 16 May 2025 18:34:37 GMT | Why Event Security Services in the UK Are More Important Than Ever | waeventservices.co.uk/ | [Read More](https://medium.com/p/eab8c29d38a1) |
 | Fri, 16 May 2025 18:34:04 GMT | APT28 Inception Theory - Tryhackme | Aaron | [Read More](https://medium.com/p/3bc9aaf172ea) |
 | Fri, 16 May 2025 18:32:08 GMT | Beating the 10 MB Wall: A Lean Guide to Large Uploads on AWS S3 | Yash Priyam | [Read More](https://medium.com/p/fe3dbf1f4d88) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 13:42:06 GMT | Quantum Computing Breakthroughs: Mapping the Future of Technology | typingGurl | [Read More](https://medium.com/p/fa5f3c57f282) |
 | Fri, 16 May 2025 13:34:16 GMT | The Good, The Hack, and The Ugly | Julian Leitloff | [Read More](https://medium.com/p/ddad62364044) |
 | Fri, 16 May 2025 13:32:30 GMT | UnitedHealth Group’s Criminal Probe: What the Headlines Miss About Solvency, Strategy, and Systemic… | Josh Luberisse | [Read More](https://medium.com/p/b9e05229ab4c) |
-| Fri, 16 May 2025 13:32:29 GMT | How SMEs Can Tackle Cybersecurity and Compliance Head-On | Cuemby | [Read More](https://medium.com/p/b5ba8ed5b8b1) |
-| Fri, 16 May 2025 13:19:09 GMT | Five Things I didn’t know about Tech Project Management | Harold Ntorinkansah Jnr | [Read More](https://medium.com/p/d3e0f88b4cde) |
-| Fri, 16 May 2025 13:18:33 GMT | Zen and the Art of Vibe Coding — Part 2 | gk_ | [Read More](https://medium.com/p/5880cd5b3cc1) |
-| Fri, 16 May 2025 13:18:07 GMT | Zen and the Art of Vibe Coding — Part 1 | gk_ | [Read More](https://medium.com/p/fb850a528b04) |
-| Fri, 16 May 2025 13:15:39 GMT | Emphasis on Supply Chain Security in 2025: Securing the Weakest Link | Jackdavis Iap | [Read More](https://medium.com/p/3fe793366c73) |
-| Fri, 16 May 2025 13:07:38 GMT | Managing Software Supply Chain Risks: 3 Metrics, 2 Questions and 1 Action For Every CEO and Board… | BillBurns | [Read More](https://medium.com/p/b40582ae8fd9) |
-| Fri, 16 May 2025 13:06:48 GMT | How io_uring Became a Stealth Weapon for Linux Rootkits | Aaron | [Read More](https://medium.com/p/4cec21242026) |
-| Fri, 16 May 2025 13:02:46 GMT | Your May 2025 Blueprint for Digital Safety: Outsmarting Today’s Cyber Threats | Jharro Blog | [Read More](https://medium.com/p/e84852ff8d3d) |
-| Fri, 16 May 2025 13:02:36 GMT | Can You Spot a Critical Vulnerability Before Attackers Do? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/8fc3fd1a51c9) |
-| Fri, 16 May 2025 13:02:34 GMT | Managing your Software Supply Chain Security Risk (Part 2 – CISO) | BillBurns | [Read More](https://medium.com/p/8c803aefc1ff) |
