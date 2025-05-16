@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 07:11:08 GMT | The Art of Persuasion in Cybersecurity Budget Talks | Ahmad Javed | [Read More](https://medium.com/p/4b4453e3fc3b) |
+| Fri, 16 May 2025 07:10:58 GMT | Dark Web 101: What It Is and Why It Matters in 2025 | Mahesh Ravaji | [Read More](https://medium.com/p/5fd692d18084) |
+| Fri, 16 May 2025 07:09:34 GMT | AI & IoT Security: Protecting Smart Devices from Cyber Attacks | Sanchitamishra | [Read More](https://medium.com/p/01ec29556427) |
+| Fri, 16 May 2025 07:09:21 GMT | Caching Trouble: The Public Cache That Leaked Private User Data | Iski | [Read More](https://medium.com/p/0d410af5cb4c) |
+| Fri, 16 May 2025 07:08:59 GMT | Stop Leaks Before They Happen: Master Your Key Management Today Using Talisman | sreekanthkurapati | [Read More](https://medium.com/p/50a766b0cd2f) |
+| Fri, 16 May 2025 07:08:14 GMT | Above the Clouds: Securing What You Don’t Physically Control | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/f5c78eb76b2f) |
+| Fri, 16 May 2025 07:03:29 GMT | Complete Construction Site Security Services in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/9dee9050118d) |
+| Fri, 16 May 2025 06:59:42 GMT | The Anatomy of Cybersecurity: How Cyber Defences Mimic the Human Body to Protect Digital Health | Madhavaraman | [Read More](https://medium.com/p/f6143f180f7a) |
+| Fri, 16 May 2025 06:58:40 GMT | What Kind of Ports Do Humans Use on a Daily Basis? | unica 02 | [Read More](https://medium.com/p/90e035dd0aea) |
+| Fri, 16 May 2025 06:55:13 GMT | Bug Bounty Burnout: When Serious Bugs Get Dismissed | Vivek PS | [Read More](https://medium.com/p/f22cf0f0f293) |
+| Fri, 16 May 2025 06:53:15 GMT | Trusted Construction Site Security Guards in Manchester — Marvellous Security | Marvelloussecurities | [Read More](https://medium.com/p/c0af76b9a975) |
+| Fri, 16 May 2025 06:53:14 GMT | The Daily Tech Digest: 16 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9f883053d9f3) |
+| Fri, 16 May 2025 06:52:31 GMT | 7 Key Benefits of Securiti-Databricks Collaboration for Enterprises | Privacy Research Team, Securiti | [Read More](https://medium.com/p/26cdf1bfd283) |
+| Fri, 16 May 2025 06:51:04 GMT | Port- 139,445 SMB Exploitation (Series:1/ [article:2]) | Mr Horbio | [Read More](https://medium.com/p/6769570eb0ef) |
+| Fri, 16 May 2025 06:50:54 GMT | The Kids Online Safety Act  Might Actually Make the Internet Worse for Everyone | TECH EMPIRE | [Read More](https://medium.com/p/e79cca013cb2) |
+| Fri, 16 May 2025 06:50:30 GMT | Inside the Hacker’s Playbook: How SQL Injection Works and How to Defend Against It | Babar Ali Jamali | [Read More](https://medium.com/p/6f31710b9687) |
+| Fri, 16 May 2025 06:47:24 GMT | Why Fixing NPM Vulnerabilities Quickly Is Critical: Lessons from the Real World | Thomas Ender | [Read More](https://medium.com/p/9dc0dcf76702) |
+| Fri, 16 May 2025 06:38:27 GMT | $750 Bounty: From X-Forwarded-Host to Stored DOM XSS | Monika sharma | [Read More](https://medium.com/p/de0785adfe05) |
+| Fri, 16 May 2025 06:38:05 GMT | 38 Billion Devices. One Weak Password. How Safe Are You Really? | Noel | [Read More](https://medium.com/p/add1c1603509) |
+| Fri, 16 May 2025 06:34:10 GMT | When Red Wins Every Time: The Silent Crisis of Blue Team Stagnation | Dinesh Dino | [Read More](https://medium.com/p/eb27e01b98f4) |
+| Fri, 16 May 2025 06:31:19 GMT | Reliable and Professional Security Agency in Delhi | Internal security and manpower services | [Read More](https://medium.com/p/77c3db0ddd53) |
 | Fri, 16 May 2025 06:30:30 GMT | ️‍♂️ From Recon to Report: How I Approach Every Bug Bounty Target | Vipul Sonule | [Read More](https://medium.com/p/2663163148d5) |
 | Fri, 16 May 2025 06:21:19 GMT | The Future of Digital Data Security: Collaboration of Artificial Intelligence (AI) and Humans | Sydeco Indonesia | [Read More](https://medium.com/p/16d3bca9d1de) |
 | Fri, 16 May 2025 06:18:52 GMT | What is Crypto Shredding? | InfosecTrain | [Read More](https://medium.com/p/e1eb0efe2509) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 21:52:18 GMT | CVE-2025-4455: Local Privilege Escalation in Patch My PC Home Updater | Sneharghya Roy | [Read More](https://medium.com/p/58f2c2041b46) |
 | Thu, 15 May 2025 21:40:02 GMT | The $400M Crypto Crisis at Coinbase: A Cyber Wake-Up Call for the AI Era | NaveeeN Chendra | [Read More](https://medium.com/p/b4170e6bb795) |
 | Thu, 15 May 2025 21:35:05 GMT | 403 Bypass Techniques for Bug Bounty | SilverXCyber | [Read More](https://medium.com/p/dcd449733bec) |
-| Thu, 15 May 2025 21:28:45 GMT | Snort for Beginners: A Guide to Using and Writing Rules | Analyst Atlas | [Read More](https://medium.com/p/436330cfc82a) |
-| Thu, 15 May 2025 21:25:09 GMT | How to Protect Yourself from AI Voice Cloning Scams in 2025: Real Incidents and Safety Tips | Ramesh C | [Read More](https://medium.com/p/706cc99a3b16) |
-| Thu, 15 May 2025 21:23:25 GMT | Beyond the Blueprint: Understanding the 7 Critical Phases of Cyber Incident Response | Xaltius | [Read More](https://medium.com/p/7ce71d5bf4ea) |
-| Thu, 15 May 2025 21:22:09 GMT | A Bug That Grok Couldn’t Fix In Its Own Code | Teri Radichel | [Read More](https://medium.com/p/e77bc70c2cbd) |
-| Thu, 15 May 2025 21:20:59 GMT | What is a Cybersecurity Incident Response Plan & Why Do You Need It? | Xaltius | [Read More](https://medium.com/p/a3be1f272b8c) |
-| Thu, 15 May 2025 21:08:50 GMT | Escalando Privilégios com a Determinação de um Shih Tzu | Sérgio Corrêa | [Read More](https://medium.com/p/9df40e8a482c) |
-| Thu, 15 May 2025 20:53:52 GMT | ✅ Why My Drone Server Works for Ethical Hacking | Benjaminmillerdev | [Read More](https://medium.com/p/778ffb2c35f0) |
-| Thu, 15 May 2025 20:51:32 GMT | The Great Steam “Hack” of 2025 | Simple Stack | [Read More](https://medium.com/p/f6912216ee6d) |
-| Thu, 15 May 2025 20:49:44 GMT | Catching Secrets Early: A Lightweight Build-Time Tripwire for Vite | John Munn | [Read More](https://medium.com/p/825f0998430c) |
-| Thu, 15 May 2025 20:37:17 GMT | How One Click Can Wreck Your System: A Deep Dive into the Horabot Malware Campaign | Cyber-AppSec | [Read More](https://medium.com/p/865b72255e0f) |
-| Thu, 15 May 2025 20:35:24 GMT | Zero Trust Security: Why It’s Now a Must-Have for Every Business | Donald Betancourt | [Read More](https://medium.com/p/12af55e1f638) |
-| Thu, 15 May 2025 20:30:15 GMT | Coinbase launches $20M bounty after rogue agents leak customer data | IC News | [Read More](https://medium.com/p/f7e45065235f) |
-| Thu, 15 May 2025 20:29:10 GMT | Tangled Tokens and Authorized Agents | Justin Richer | [Read More](https://medium.com/p/331e4db02fb4) |
-| Thu, 15 May 2025 20:28:54 GMT | siberX Canadian Women in Cybersecurity 2025 Virtual | Bailey Luu | [Read More](https://medium.com/p/c3afae621308) |
-| Thu, 15 May 2025 20:27:49 GMT | Journey to Cybersecurity Day 1 — Who’s in Control? | Cyber Muslim Girl | [Read More](https://medium.com/p/29cec66e168f) |
-| Thu, 15 May 2025 20:27:15 GMT | Exploring SSRF Vulnerabilities | musayyab sharif | [Read More](https://medium.com/p/daf39889e153) |
-| Thu, 15 May 2025 20:23:11 GMT | LLMs Are Under Attacks. I Built a Prototype Honeypot to Understand the Risks | Kyo | [Read More](https://medium.com/p/01c0f83d65cb) |
-| Thu, 15 May 2025 20:16:40 GMT | Cybersecurity in the Quantum AI Era | Artificial Intelligence + | [Read More](https://medium.com/p/5394e247e0f9) |
-| Thu, 15 May 2025 20:14:30 GMT | Emerging Cybersecurity Challenges in 2025: Navigating a Complex Digital Threat Landscape | Veridian Zenith Tech | [Read More](https://medium.com/p/58a3a89f1ae1) |
-| Thu, 15 May 2025 19:44:20 GMT | Packet capture analysis of a SocGholish and AsyncRAT infection | Jamal Darbo | [Read More](https://medium.com/p/4c08af2028e7) |
-| Thu, 15 May 2025 19:43:27 GMT | Writing Pentest Reports— TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/b58fbf330ac7) |
