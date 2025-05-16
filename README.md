@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 21:10:28 GMT | Open Redirect via Base64-Encoded state Parameter in OAuth Flow (returnTo field) | Hussein Elturkey | [Read More](https://medium.com/p/42a0319ef296) |
+| Fri, 16 May 2025 21:08:08 GMT | Cybersecurity Consulting Services: The Smart Defense for Modern Businesses | Defend My Business | [Read More](https://medium.com/p/4b601f9b6afb) |
+| Fri, 16 May 2025 21:04:12 GMT | Behavioral Analytics in Cybersecurity: The Power of Knowing What “Normal” Looks Like | Travis Ray Caverhill | [Read More](https://medium.com/p/05991d4d976a) |
+| Fri, 16 May 2025 21:03:37 GMT | Hacking…… | Jenny Kyle | [Read More](https://medium.com/p/60de57b02de7) |
+| Fri, 16 May 2025 21:02:29 GMT | The Human Factor in Cybersecurity | John Locke | [Read More](https://medium.com/p/a15e41a21b5f) |
+| Fri, 16 May 2025 21:01:12 GMT | Coinbase Hacked and Turns the Tables on the Cybercriminals! | Matthew.Rosenquist | [Read More](https://medium.com/p/7645a199f986) |
+| Fri, 16 May 2025 20:59:01 GMT | Cryptographic Realities for Medical Devices vs. Enterprise IT | Medcrypt | [Read More](https://medium.com/p/2958a58fb5c1) |
+| Fri, 16 May 2025 20:56:17 GMT | Quantum Computing’s New Frontier: How the $1.4 | QuantumGenie | [Read More](https://medium.com/p/6cec141c3d37) |
+| Fri, 16 May 2025 20:49:59 GMT | Cloud Pentesting or Just Scanning? Let’s Talk. | Sena Yakut | [Read More](https://medium.com/p/3bf951f40165) |
+| Fri, 16 May 2025 20:41:02 GMT | How to Protect Yourself from Facebook, Twitter, and Social Media Hacking | Tofail Ahammed | [Read More](https://medium.com/p/00f2180f9647) |
+| Fri, 16 May 2025 20:40:10 GMT | When AI Has a Mind of It’s Own | Teri Radichel | [Read More](https://medium.com/p/a0ce4b9d527c) |
 | Fri, 16 May 2025 20:21:31 GMT | How Defense in Depth Protects Your Organization from Evolving Threats | Ramsey Consulting Services | [Read More](https://medium.com/p/fb3e6571f7b1) |
 | Fri, 16 May 2025 20:06:14 GMT | Why “Models” Keep Messaging You (and Why They’re Probably Men) | Marcus Musick | [Read More](https://medium.com/p/fe956cc4572b) |
 | Fri, 16 May 2025 19:58:31 GMT | Sequoia’s Top Gun Hacked in Massive Coinbase Insider Leak, Crypto’s Darkest Chapter Yet? | CoinGen | [Read More](https://medium.com/p/65aef7209f52) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 15:09:54 GMT | The Impact of IT Management Services in Ontario on Transport and Logistics Innovation | Zeta Sky | [Read More](https://medium.com/p/a52e9f48d554) |
 | Fri, 16 May 2025 15:09:38 GMT | Building Secure Software: A Practical Guide to the Security Development Lifecycle (SDL) | Abhishek Kumar Gupta | [Read More](https://medium.com/p/6d2eace77dbc) |
 | Fri, 16 May 2025 15:07:30 GMT | TryHackMe - Training Impact on Teams | thecaesar | [Read More](https://medium.com/p/0e68bfc312dc) |
-| Fri, 16 May 2025 15:06:01 GMT | Future-Proofing Your IT Career: Staying Relevant in a Rapidly Changing Industry | Tasktech Recruiters | [Read More](https://medium.com/p/41b1025e4579) |
-| Fri, 16 May 2025 15:05:27 GMT | Day 37 — Behind the Scenes of the Internet: How DHCP and DNS Power Your Online Experience | Agarwaldaksh | [Read More](https://medium.com/p/23eeef0ecfed) |
-| Fri, 16 May 2025 14:56:55 GMT | Trusted Devices in Django — A Missing Layer of Security | Jakhongir Ganiev | [Read More](https://medium.com/p/762564414eb8) |
-| Fri, 16 May 2025 14:55:19 GMT | How SquareX Could Have Prevented the Coinbase Customer Support Attack | Mary Yang | [Read More](https://medium.com/p/bddc618f75a1) |
-| Fri, 16 May 2025 14:54:49 GMT | Data Archiving | Igor Berner | [Read More](https://medium.com/p/9367fe3470f2) |
-| Fri, 16 May 2025 14:45:24 GMT | Dorking Like a Pro: Find Your First Critical Bug Before Hackers Do! | ./r4gh4v | [Read More](https://medium.com/p/db578c54f4c1) |
-| Fri, 16 May 2025 14:44:00 GMT | HTML Injection: The Overlooked Web Exploit That Can Wreck Your Site | Yupalchaudhari | [Read More](https://medium.com/p/83c3f6933587) |
-| Fri, 16 May 2025 14:39:09 GMT | Change is Welcome in my Career — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/1a9851d10195) |
-| Fri, 16 May 2025 14:31:38 GMT | Living-off-the-COM: Type Coercion Abuse | Andrea Bocchetti | [Read More](https://medium.com/p/108f988bb00a) |
-| Fri, 16 May 2025 14:21:46 GMT | SecureComm: A Deep Dive into Dynamic Key Exchange, End-to-End Encryption, and ML-Powered Intrusion | Efipe | [Read More](https://medium.com/p/00815195e36a) |
-| Fri, 16 May 2025 14:21:24 GMT | What is a 3rd Party Audit? Types of Audits & Auditing Certification | Securis360 Inc. | [Read More](https://medium.com/p/1a450b996a48) |
