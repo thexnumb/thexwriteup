@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 09:10:44 GMT | Cybersecurity Vulnerability Types: A  Guide for .NET Developers | Adem KORKMAZ | [Read More](https://medium.com/p/74cb96c91383) |
+| Fri, 16 May 2025 09:09:25 GMT | Lab Report#9 — DCSync Attack | Samet Koca | [Read More](https://medium.com/p/6022b8800a41) |
+| Fri, 16 May 2025 09:06:02 GMT | Back to the Future: Intrapreneurial Regurgitated as Frontier Firm | Namir Sagheenanajar | [Read More](https://medium.com/p/b8a2c75b10d8) |
+| Fri, 16 May 2025 09:02:56 GMT | The risks of S3 Object Lock — why you should block it if you don’t need it | Avi Keinan | [Read More](https://medium.com/p/9dbf7b43ec5f) |
+| Fri, 16 May 2025 08:59:24 GMT | Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel | FufuFafa | [Read More](https://medium.com/p/44f1da33e4fb) |
+| Fri, 16 May 2025 08:58:48 GMT | Imposter Syndrome in Cybersecurity: The Unfiltered Truth They Don’t Tell You | Nancy Muriithi | [Read More](https://medium.com/p/ef971b15a0d8) |
+| Fri, 16 May 2025 08:58:36 GMT | What’s Poppin’ in Web App Security? A Friendly Guide to the OWASP Top 10 | Prakhar Mathur | [Read More](https://medium.com/p/5de34aa8a8f4) |
+| Fri, 16 May 2025 08:57:37 GMT | How OAuth 2.0 and JWT Secure Modern Web Applications? | Priyansh Shah | [Read More](https://medium.com/p/5729d42760f1) |
+| Fri, 16 May 2025 08:57:21 GMT | TryHackMe Walkthrough: Intro to Offensive Security | Cipher D Luffy | [Read More](https://medium.com/p/39f08ff65de0) |
+| Fri, 16 May 2025 08:56:17 GMT | Phishing Attack using JavaScript | Oscar404 | [Read More](https://medium.com/p/545dbbafb423) |
+| Fri, 16 May 2025 08:54:48 GMT | UK Government Bans TikTok on Ministers’ Phones Over Security Concerns | CyBlog | [Read More](https://medium.com/p/c4c1cbfa87ff) |
+| Fri, 16 May 2025 08:50:44 GMT | Unpacking Zero Trust: Why It’s the Future of Cybersecurity (And Not Just a Buzzword) | Digital Mindscape | [Read More](https://medium.com/p/62acb316f8eb) |
+| Fri, 16 May 2025 08:48:32 GMT | ประจำวันศุกร์ที่ 16 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/82e041a53ad6) |
+| Fri, 16 May 2025 08:48:05 GMT | Channel-Specific Fraud Detection: Why Behavioral AI and Networked Thinking Are Now Essential | RaptorX.ai | [Read More](https://medium.com/p/0c4685263f3d) |
+| Fri, 16 May 2025 08:44:51 GMT | From Messy to Masterful: How to Build Secure Node.js APIs Without Overthinking It | Ege Bilge | [Read More](https://medium.com/p/25be579c5fd3) |
 | Fri, 16 May 2025 08:39:52 GMT | How I Passed the Blue Team Level 1 (BTL1) Certification — Honest Review and Tips | Valentin Chéneau | [Read More](https://medium.com/p/617704a663d0) |
 | Fri, 16 May 2025 08:32:44 GMT | The Evolution of Linux Antivirus: From ClamAV to Smart, AI-Driven Defense | AVPSuite | [Read More](https://medium.com/p/e3c1ce092d13) |
 | Fri, 16 May 2025 08:31:51 GMT | Microsoft Sentinel Walkthrough | Maseera Fatima | [Read More](https://medium.com/p/27c2de16e27f) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 01:13:19 GMT | Authentication: If it’s easy, it can be taken over. If it’s hard, it frustrates us | Senjaputrasndr | [Read More](https://medium.com/p/b9ca51cd00cb) |
 | Fri, 16 May 2025 01:06:29 GMT | Linux Commands You Didn’t Know Were This Funny | Abhinav Pathak | [Read More](https://medium.com/p/620f124e4a61) |
 | Fri, 16 May 2025 00:58:06 GMT | He Said ‘I Like You.’ I Said ‘Are You Sure?’ — Brace Yourself for What Happened Next | Twenties Unfiltered | [Read More](https://medium.com/p/6b4255dd459c) |
-| Fri, 16 May 2025 00:49:30 GMT | HackTheBox — Administrator | Drew | [Read More](https://medium.com/p/d42c20bede77) |
-| Fri, 16 May 2025 00:48:32 GMT | Percona XtraDB Multi-Master Replication cluster setup between 3 nodes | Bidhan Khatri | [Read More](https://medium.com/p/5773a09188d1) |
-| Fri, 16 May 2025 00:40:04 GMT | Permission di Linux: Siapa Bisa Ngapain di Sistem? | FNConsole | [Read More](https://medium.com/p/b1a7cbcb74d6) |
-| Fri, 16 May 2025 00:36:01 GMT | [FININT]Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/9deb749b4002) |
-| Fri, 16 May 2025 00:34:41 GMT | Build Your Own AI SOC — Part 5 | Corey Jones | [Read More](https://medium.com/p/b262167274ce) |
-| Fri, 16 May 2025 00:26:29 GMT | The Healing Starts When You Speak Up | Amatullah H | [Read More](https://medium.com/p/f66dce6f9069) |
-| Thu, 15 May 2025 23:54:52 GMT | This Grocery Store Got Hacked by a Refrigerator — Yes, Really | Noel | [Read More](https://medium.com/p/84f27a2c384f) |
-| Thu, 15 May 2025 23:54:27 GMT | DC:2 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/ec476d34945f) |
-| Thu, 15 May 2025 23:52:51 GMT | What Is a Social Security Number and Why Is It So Important? | Akshay Chauhan | [Read More](https://medium.com/p/b1de26578017) |
-| Thu, 15 May 2025 23:52:51 GMT | Introdução rápida ao Git | Eduardo gomes | [Read More](https://medium.com/p/64d7a39fac9e) |
-| Thu, 15 May 2025 23:38:10 GMT | Beyond the Gridlock: Why Cyber Risk’s Nature Exposes Heat Maps’ Fatal Flaws | Juan Pablo Castro | [Read More](https://medium.com/p/7b0a9e5a92df) |
-| Thu, 15 May 2025 23:30:10 GMT | ## Defense-Brief
-# Advanced Techniques for Safeguarding AI Systems Against Linguistic Manipulation | Silencegeneric | [Read More](https://medium.com/p/3beb796de1a7) |
-| Thu, 15 May 2025 23:27:07 GMT | Exploitation of vsFTPd 2.3.4 Vulnerability on Metasploitable | Emre ESER | [Read More](https://medium.com/p/e6a1d614d5e5) |
-| Thu, 15 May 2025 23:26:47 GMT | If You Ask Me How I’m Doing…. | Theresa Umoh | [Read More](https://medium.com/p/5c8205038bae) |
-| Thu, 15 May 2025 23:23:20 GMT | What crime did humans commit to attract the punishment of bedbugs! | Confidence | [Read More](https://medium.com/p/5e77ee08aa6c) |
