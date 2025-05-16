@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 18:34:37 GMT | Why Event Security Services in the UK Are More Important Than Ever | waeventservices.co.uk/ | [Read More](https://medium.com/p/eab8c29d38a1) |
+| Fri, 16 May 2025 18:34:04 GMT | APT28 Inception Theory - Tryhackme | Aaron | [Read More](https://medium.com/p/3bc9aaf172ea) |
+| Fri, 16 May 2025 18:32:08 GMT | Beating the 10 MB Wall: A Lean Guide to Large Uploads on AWS S3 | Yash Priyam | [Read More](https://medium.com/p/fe3dbf1f4d88) |
+| Fri, 16 May 2025 18:26:34 GMT | Way To Cookie Poisoning: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/738a7c13730a) |
+| Fri, 16 May 2025 18:25:43 GMT | Raed Ahsan Named Cybersecurity Researcher of the Year at Cysec MENA 2025 -Bahrain | Raed Ahsan | [Read More](https://medium.com/p/549ae5c6175f) |
+| Fri, 16 May 2025 18:24:37 GMT | Badger (Easy) PwnTillDawn Walkthrough. | 3L4CKCYBR_ | [Read More](https://medium.com/p/50670472cc33) |
 | Fri, 16 May 2025 18:20:13 GMT | Cybersecurity News Review — Week 20 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/93ae68821c55) |
 | Fri, 16 May 2025 18:15:44 GMT | Quantum Computing Meets Cancer Research: A New Frontier in Drug Discovery | QuantumGenie | [Read More](https://medium.com/p/21209927d40d) |
 | Fri, 16 May 2025 18:15:24 GMT | Day 6 — When Remote Services Became a Weapon: Inside PIPEDREAM / INCONTROLLER ICS Malware | om sonawane | [Read More](https://medium.com/p/2cad3a2ebce2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 13:02:46 GMT | Your May 2025 Blueprint for Digital Safety: Outsmarting Today’s Cyber Threats | Jharro Blog | [Read More](https://medium.com/p/e84852ff8d3d) |
 | Fri, 16 May 2025 13:02:36 GMT | Can You Spot a Critical Vulnerability Before Attackers Do? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/8fc3fd1a51c9) |
 | Fri, 16 May 2025 13:02:34 GMT | Managing your Software Supply Chain Security Risk (Part 2 – CISO) | BillBurns | [Read More](https://medium.com/p/8c803aefc1ff) |
-| Fri, 16 May 2025 13:02:34 GMT | Managing your Software Supply Chain Security Risk: 3 Metrics, 2 Questions and 1 Action For Every… | BillBurns | [Read More](https://medium.com/p/c7c19b335af2) |
-| Fri, 16 May 2025 13:02:34 GMT | HackTheBox: Cypher Machine Insights | CyberQuestor | [Read More](https://medium.com/p/3fa5be4ee397) |
-| Fri, 16 May 2025 13:01:02 GMT | From Classrooms to Code: Why Tech Skills Are the New Core Curriculum in 2025 | Appcurators | [Read More](https://medium.com/p/70fc2d8d2884) |
-| Fri, 16 May 2025 13:00:35 GMT | ️Security Blue Team Network Traffic Analysis Course Capstone Project Write-Up. | Abednego Achim | [Read More](https://medium.com/p/21630ddef0f0) |
-| Fri, 16 May 2025 12:56:53 GMT | From Guest to Admin: Chaining Pre-Account Takeover with Privilege Escalation | MahmoudKroush | [Read More](https://medium.com/p/fe970e80cd25) |
-| Fri, 16 May 2025 12:56:43 GMT | Username Recon Is Powerful — That’s Why We Must Use It Responsibly | Sam Galope | [Read More](https://medium.com/p/068fad776140) |
