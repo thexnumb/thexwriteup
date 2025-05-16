@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 20:21:31 GMT | How Defense in Depth Protects Your Organization from Evolving Threats | Ramsey Consulting Services | [Read More](https://medium.com/p/fb3e6571f7b1) |
 | Fri, 16 May 2025 20:06:14 GMT | Why “Models” Keep Messaging You (and Why They’re Probably Men) | Marcus Musick | [Read More](https://medium.com/p/fe956cc4572b) |
 | Fri, 16 May 2025 19:58:31 GMT | Sequoia’s Top Gun Hacked in Massive Coinbase Insider Leak, Crypto’s Darkest Chapter Yet? | CoinGen | [Read More](https://medium.com/p/65aef7209f52) |
 | Fri, 16 May 2025 19:48:56 GMT | Insider Threats: Detecting the Risks Within | Travis Ray Caverhill | [Read More](https://medium.com/p/c78f936416d1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 14:31:38 GMT | Living-off-the-COM: Type Coercion Abuse | Andrea Bocchetti | [Read More](https://medium.com/p/108f988bb00a) |
 | Fri, 16 May 2025 14:21:46 GMT | SecureComm: A Deep Dive into Dynamic Key Exchange, End-to-End Encryption, and ML-Powered Intrusion | Efipe | [Read More](https://medium.com/p/00815195e36a) |
 | Fri, 16 May 2025 14:21:24 GMT | What is a 3rd Party Audit? Types of Audits & Auditing Certification | Securis360 Inc. | [Read More](https://medium.com/p/1a450b996a48) |
-| Fri, 16 May 2025 14:15:48 GMT | There’s no guarantees. | Brittani B | [Read More](https://medium.com/p/442bf85c8d23) |
