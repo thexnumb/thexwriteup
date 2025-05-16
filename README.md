@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 09:37:20 GMT | “Vibe Coding” & AI-Powered Development: The Future of Programming or a Risky Shortcut? | FinnQ | [Read More](https://medium.com/p/2d5691d46e19) |
+| Fri, 16 May 2025 09:37:20 GMT | If You Knew Why I Write | Samira Wyld | [Read More](https://medium.com/p/a29d176c3cdb) |
+| Fri, 16 May 2025 09:36:43 GMT | Breathing in The Abyss | Selene | [Read More](https://medium.com/p/5a89d027e04d) |
+| Fri, 16 May 2025 09:34:44 GMT | Kioptrix 3 — Red Team Style (Walkthroug) | Nano | [Read More](https://medium.com/p/cd524d8b7d80) |
+| Fri, 16 May 2025 09:24:26 GMT | GDPR Made Simple for Security Operators | Taipun | [Read More](https://medium.com/p/59a5c1386a9f) |
 | Fri, 16 May 2025 09:10:44 GMT | Cybersecurity Vulnerability Types: A  Guide for .NET Developers | Adem KORKMAZ | [Read More](https://medium.com/p/74cb96c91383) |
 | Fri, 16 May 2025 09:09:25 GMT | Lab Report#9 — DCSync Attack | Samet Koca | [Read More](https://medium.com/p/6022b8800a41) |
 | Fri, 16 May 2025 09:06:02 GMT | Back to the Future: Intrapreneurial Regurgitated as Frontier Firm | Namir Sagheenanajar | [Read More](https://medium.com/p/b8a2c75b10d8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 02:15:03 GMT | Inside the Mind of a Car Hacker: Top 3 Threats to Autonomous Vehicles | Ashish Suman | [Read More](https://medium.com/p/9e507baa0943) |
 | Fri, 16 May 2025 02:07:01 GMT | Securing Your Remote Team: 5 Cybersecurity Trends You Can’t Ignore | RSUPPORT Blog | [Read More](https://medium.com/p/03ea409952b3) |
 | Fri, 16 May 2025 01:41:12 GMT | AWS Community Builder Renovado | DevOps from Zero! | [Read More](https://medium.com/p/60221fa5fb0c) |
-| Fri, 16 May 2025 01:20:53 GMT | Offensive Extended Detection and Response (OXDR): The Next Frontier in Cyber Defense | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/f9970f033de8) |
-| Fri, 16 May 2025 01:20:37 GMT | 15 Laravel Security Best Practices You Should Follow in 2025 | Md.Saif Uddin | [Read More](https://medium.com/p/2656eeab1fb7) |
-| Fri, 16 May 2025 01:13:19 GMT | Authentication: If it’s easy, it can be taken over. If it’s hard, it frustrates us | Senjaputrasndr | [Read More](https://medium.com/p/b9ca51cd00cb) |
-| Fri, 16 May 2025 01:06:29 GMT | Linux Commands You Didn’t Know Were This Funny | Abhinav Pathak | [Read More](https://medium.com/p/620f124e4a61) |
-| Fri, 16 May 2025 00:58:06 GMT | He Said ‘I Like You.’ I Said ‘Are You Sure?’ — Brace Yourself for What Happened Next | Twenties Unfiltered | [Read More](https://medium.com/p/6b4255dd459c) |
