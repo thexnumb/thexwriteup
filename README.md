@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 01:20:53 GMT | Offensive Extended Detection and Response (OXDR): The Next Frontier in Cyber Defense | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/f9970f033de8) |
+| Fri, 16 May 2025 01:20:37 GMT | 15 Laravel Security Best Practices You Should Follow in 2025 | Md.Saif Uddin | [Read More](https://medium.com/p/2656eeab1fb7) |
+| Fri, 16 May 2025 01:13:19 GMT | Authentication: If it’s easy, it can be taken over. If it’s hard, it frustrates us | Senjaputrasndr | [Read More](https://medium.com/p/b9ca51cd00cb) |
+| Fri, 16 May 2025 01:06:29 GMT | Linux Commands You Didn’t Know Were This Funny | Abhinav Pathak | [Read More](https://medium.com/p/620f124e4a61) |
+| Fri, 16 May 2025 00:58:06 GMT | He Said ‘I Like You.’ I Said ‘Are You Sure?’ — Brace Yourself for What Happened Next | Twenties Unfiltered | [Read More](https://medium.com/p/6b4255dd459c) |
+| Fri, 16 May 2025 00:49:30 GMT | HackTheBox — Administrator | Drew | [Read More](https://medium.com/p/d42c20bede77) |
+| Fri, 16 May 2025 00:48:32 GMT | Percona XtraDB Multi-Master Replication cluster setup between 3 nodes | Bidhan Khatri | [Read More](https://medium.com/p/5773a09188d1) |
+| Fri, 16 May 2025 00:40:04 GMT | Permission di Linux: Siapa Bisa Ngapain di Sistem? | FNConsole | [Read More](https://medium.com/p/b1a7cbcb74d6) |
+| Fri, 16 May 2025 00:36:01 GMT | [FININT]Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/9deb749b4002) |
+| Fri, 16 May 2025 00:34:41 GMT | Build Your Own AI SOC — Part 5 | Corey Jones | [Read More](https://medium.com/p/b262167274ce) |
+| Fri, 16 May 2025 00:26:29 GMT | The Healing Starts When You Speak Up | Amatullah H | [Read More](https://medium.com/p/f66dce6f9069) |
+| Thu, 15 May 2025 23:54:52 GMT | This Grocery Store Got Hacked by a Refrigerator — Yes, Really | Noel | [Read More](https://medium.com/p/84f27a2c384f) |
+| Thu, 15 May 2025 23:54:27 GMT | DC:2 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/ec476d34945f) |
+| Thu, 15 May 2025 23:52:51 GMT | What Is a Social Security Number and Why Is It So Important? | Akshay Chauhan | [Read More](https://medium.com/p/b1de26578017) |
+| Thu, 15 May 2025 23:52:51 GMT | Introdução rápida ao Git | Eduardo gomes | [Read More](https://medium.com/p/64d7a39fac9e) |
+| Thu, 15 May 2025 23:38:10 GMT | Beyond the Gridlock: Why Cyber Risk’s Nature Exposes Heat Maps’ Fatal Flaws | Juan Pablo Castro | [Read More](https://medium.com/p/7b0a9e5a92df) |
 | Thu, 15 May 2025 23:30:10 GMT | ## Defense-Brief
 # Advanced Techniques for Safeguarding AI Systems Against Linguistic Manipulation | Silencegeneric | [Read More](https://medium.com/p/3beb796de1a7) |
 | Thu, 15 May 2025 23:27:07 GMT | Exploitation of vsFTPd 2.3.4 Vulnerability on Metasploitable | Emre ESER | [Read More](https://medium.com/p/e6a1d614d5e5) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 16:52:36 GMT | My Journey Into Cybersecurity and Why I Love It | shema turner | [Read More](https://medium.com/p/3bc0723efee1) |
 | Thu, 15 May 2025 16:52:36 GMT | Serialization & Deserialization Explained | Nishanthan | [Read More](https://medium.com/p/bc4284a23c90) |
 | Thu, 15 May 2025 16:46:44 GMT | --- | Md Jisan | [Read More](https://medium.com/p/a181d6ace97b) |
-| Thu, 15 May 2025 16:46:27 GMT | SQL Fundamentals-- Tryhackme-- Cybersecurity 101 -- WriteUp-- | Surbhi_choudhary | [Read More](https://medium.com/p/a0ffc0483280) |
-| Thu, 15 May 2025 16:44:59 GMT | A (not so) Unexpected Journey: Building My First Home Lab, Part 2 | Chris C. | [Read More](https://medium.com/p/ac2ba5dd657e) |
-| Thu, 15 May 2025 16:41:24 GMT | Kinkily speaking, I like being choked too… | hot flashes & hard truths | [Read More](https://medium.com/p/cd8bf1b5a098) |
-| Thu, 15 May 2025 16:36:02 GMT | Scattered Spider Strikes Again: U.S. Retailers on High Alert After M&S Cyber-Attack | Omar Alhendi | [Read More](https://medium.com/p/ceca668bc5a6) |
-| Thu, 15 May 2025 16:33:15 GMT | I Deployed a Cloud Honeypot for 30 Days and Captured Over 4 Million Cyberattacks | Chalitha Handapangoda | [Read More](https://medium.com/p/fb05a71dfee2) |
-| Thu, 15 May 2025 16:31:58 GMT | PORT 21 Exploitation [Network Hacking ] -> Series: 1 (article: 1 ) | Mr Horbio | [Read More](https://medium.com/p/779855001a99) |
-| Thu, 15 May 2025 16:28:24 GMT | The Brutal Truth About Why You Didn’t Get That First Cybersecurity Job | Taimur Ijlal | [Read More](https://medium.com/p/a25242af1c0e) |
-| Thu, 15 May 2025 16:27:09 GMT | What is Cloud Infrastructure Entitlement Management and Why Your Business Needs It | SafeAeon Inc. | [Read More](https://medium.com/p/e0c36a1cb525) |
-| Thu, 15 May 2025 16:23:41 GMT | “To be wanted, not just alive” | Echo. S. Vale | [Read More](https://medium.com/p/5ebae34a7fa6) |
-| Thu, 15 May 2025 16:22:42 GMT | Why Business Logic Vulnerabilities Are the Silent Killers of Modern Web Apps | Mehak kamra | [Read More](https://medium.com/p/2d260d8796ea) |
-| Thu, 15 May 2025 16:17:53 GMT | About Me — Steve Gubenia | Steve Gubenia | [Read More](https://medium.com/p/31fe8b25da54) |
-| Thu, 15 May 2025 16:14:13 GMT | My empty feeling carries weight | Smart | [Read More](https://medium.com/p/430ad4352a3a) |
-| Thu, 15 May 2025 16:13:45 GMT | The Growing Threat From Within The Country: The Internal Security Challenges | Justine Jacob | [Read More](https://medium.com/p/3682a09707f7) |
-| Thu, 15 May 2025 16:10:21 GMT | Targeted Cybersecurity Advice | Levko Kravchuk | [Read More](https://medium.com/p/eff880031f89) |
-| Thu, 15 May 2025 16:07:21 GMT | How One Workshop Taught Me the Meaning of Impact | Alyssa Williams-Sinn | [Read More](https://medium.com/p/deb6fd3fa5b6) |
-| Thu, 15 May 2025 16:03:17 GMT | Cybersecurity for Online Users: Taking Back Your Power by Understanding Cyberbullies | E. Ibrahimi | [Read More](https://medium.com/p/f90a525237b7) |
