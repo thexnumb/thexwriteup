@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 08:16:04 GMT | Password Policy Best Practices for 2025: Stay Secure and Compliant | SecureSlate | [Read More](https://medium.com/p/dfe518c6f75b) |
+| Fri, 16 May 2025 08:05:14 GMT | Top Cybersecurity Skills You Must Learn in 2025 (AI, Ethical Hacking & Red Teaming) | Recon Cyber Security | [Read More](https://medium.com/p/42880481baf8) |
+| Fri, 16 May 2025 08:02:34 GMT | Why Using a Random Password Generator Can Make Your Online Life Safe Today in 2025? | Tahashaikhseo | [Read More](https://medium.com/p/7ceef5f1305c) |
+| Fri, 16 May 2025 07:58:12 GMT | Critical Windows task scheduler vulnerabilities expose systems to elevated privilege exploits | hide.me VPN | [Read More](https://medium.com/p/da363ab6b8f0) |
+| Fri, 16 May 2025 07:56:29 GMT | The Tightrope Walk: Balancing Transparency and Anonymity in a Security-Conscious World | Mpandugalang | [Read More](https://medium.com/p/1feec4c9585e) |
+| Fri, 16 May 2025 07:56:05 GMT | Phishing attacks evolve with real-time email validation | hide.me VPN | [Read More](https://medium.com/p/87f2965c7b47) |
+| Fri, 16 May 2025 07:50:03 GMT | The Corix Partners Friday Reading List — May 16, 2025 | JC Gaillard | [Read More](https://medium.com/p/fdb73d3ca9b2) |
 | Fri, 16 May 2025 07:32:22 GMT | sometimes, the bravest thing to do is to be vulnerable. | sceia | [Read More](https://medium.com/p/8010f29d7461) |
 | Fri, 16 May 2025 07:21:48 GMT | Emergency Locksmith in Pittsburgh, PA — Quick & Affordable Assistance | LockandKeySolutions | [Read More](https://medium.com/p/9c0d228fba7a) |
 | Fri, 16 May 2025 07:11:08 GMT | The Art of Persuasion in Cybersecurity Budget Talks | Ahmad Javed | [Read More](https://medium.com/p/4b4453e3fc3b) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 22:42:23 GMT | What can I do to prevent social media addiction? | Savvy Cyber Kids | [Read More](https://medium.com/p/37fbae6cc7fa) |
 | Thu, 15 May 2025 22:42:17 GMT | Dear Me, | Oluwadamilola Fabiyi | [Read More](https://medium.com/p/403a2385ee07) |
 | Thu, 15 May 2025 22:41:49 GMT | Smart Social Media Security Strategies for Business | Savvy Cyber Kids | [Read More](https://medium.com/p/a3cf6ca40d4f) |
-| Thu, 15 May 2025 22:32:28 GMT | CREATIVE WALKTHROUGH: TRYHACKME | rizzziom | [Read More](https://medium.com/p/6f6e54908a90) |
-| Thu, 15 May 2025 22:21:15 GMT | [Hack The Box CTF] Underpass Write Up | fnwn | [Read More](https://medium.com/p/1884856becc2) |
-| Thu, 15 May 2025 22:18:32 GMT | Unlocking the Mysteries of the Deep and Dark Web | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/c076bef35807) |
-| Thu, 15 May 2025 22:17:37 GMT | Top 10 Websites to Automate Cybersecurity: Supercharge Your Workflow | Karthikeyan Nagaraj | [Read More](https://medium.com/p/abf612d26fd9) |
-| Thu, 15 May 2025 21:55:22 GMT | Quantum Industry Leaders Urge Congress to Reauthorize and Expand National Quantum Initiative | QuantumGenie | [Read More](https://medium.com/p/acb6222c1fd3) |
-| Thu, 15 May 2025 21:53:31 GMT | ETW Interceptor | S12 - H4CK | [Read More](https://medium.com/p/749f993713e4) |
-| Thu, 15 May 2025 21:52:18 GMT | CVE-2025-4455: Local Privilege Escalation in Patch My PC Home Updater | Sneharghya Roy | [Read More](https://medium.com/p/58f2c2041b46) |
