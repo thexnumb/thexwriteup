@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 08:39:52 GMT | How I Passed the Blue Team Level 1 (BTL1) Certification — Honest Review and Tips | Valentin Chéneau | [Read More](https://medium.com/p/617704a663d0) |
+| Fri, 16 May 2025 08:32:44 GMT | The Evolution of Linux Antivirus: From ClamAV to Smart, AI-Driven Defense | AVPSuite | [Read More](https://medium.com/p/e3c1ce092d13) |
+| Fri, 16 May 2025 08:31:51 GMT | Microsoft Sentinel Walkthrough | Maseera Fatima | [Read More](https://medium.com/p/27c2de16e27f) |
+| Fri, 16 May 2025 08:24:32 GMT | Cryptography 101 | Pranieth Chandrasekara | [Read More](https://medium.com/p/83b0ebce302f) |
 | Fri, 16 May 2025 08:16:04 GMT | Password Policy Best Practices for 2025: Stay Secure and Compliant | SecureSlate | [Read More](https://medium.com/p/dfe518c6f75b) |
 | Fri, 16 May 2025 08:05:14 GMT | Top Cybersecurity Skills You Must Learn in 2025 (AI, Ethical Hacking & Red Teaming) | Recon Cyber Security | [Read More](https://medium.com/p/42880481baf8) |
 | Fri, 16 May 2025 08:02:34 GMT | Why Using a Random Password Generator Can Make Your Online Life Safe Today in 2025? | Tahashaikhseo | [Read More](https://medium.com/p/7ceef5f1305c) |
+| Fri, 16 May 2025 08:00:01 GMT | Siber Güvenlik Türkiye’de Neden Hâlâ Ciddiye Alınmıyor? | Burakinceoglu | [Read More](https://medium.com/p/17137e8aabc7) |
 | Fri, 16 May 2025 07:58:12 GMT | Critical Windows task scheduler vulnerabilities expose systems to elevated privilege exploits | hide.me VPN | [Read More](https://medium.com/p/da363ab6b8f0) |
 | Fri, 16 May 2025 07:56:29 GMT | The Tightrope Walk: Balancing Transparency and Anonymity in a Security-Conscious World | Mpandugalang | [Read More](https://medium.com/p/1feec4c9585e) |
 | Fri, 16 May 2025 07:56:05 GMT | Phishing attacks evolve with real-time email validation | hide.me VPN | [Read More](https://medium.com/p/87f2965c7b47) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 23:27:07 GMT | Exploitation of vsFTPd 2.3.4 Vulnerability on Metasploitable | Emre ESER | [Read More](https://medium.com/p/e6a1d614d5e5) |
 | Thu, 15 May 2025 23:26:47 GMT | If You Ask Me How I’m Doing…. | Theresa Umoh | [Read More](https://medium.com/p/5c8205038bae) |
 | Thu, 15 May 2025 23:23:20 GMT | What crime did humans commit to attract the punishment of bedbugs! | Confidence | [Read More](https://medium.com/p/5e77ee08aa6c) |
-| Thu, 15 May 2025 22:59:33 GMT | A Wall, Some Birds, and The Internet Protocols We Aren’t Looking At. | Christopher Neitzert | [Read More](https://medium.com/p/0500922f3806) |
-| Thu, 15 May 2025 22:56:39 GMT | What is Confidentiality in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/9c14c04d2bbb) |
-| Thu, 15 May 2025 22:42:23 GMT | What can I do to prevent social media addiction? | Savvy Cyber Kids | [Read More](https://medium.com/p/37fbae6cc7fa) |
-| Thu, 15 May 2025 22:42:17 GMT | Dear Me, | Oluwadamilola Fabiyi | [Read More](https://medium.com/p/403a2385ee07) |
-| Thu, 15 May 2025 22:41:49 GMT | Smart Social Media Security Strategies for Business | Savvy Cyber Kids | [Read More](https://medium.com/p/a3cf6ca40d4f) |
