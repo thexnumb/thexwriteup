@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 03:53:45 GMT | How HttpOnly and Secure Flags Help Prevent Session Hijacking and Session Fixation | Anandhu K | [Read More](https://medium.com/p/5d1222beeef2) |
+| Fri, 16 May 2025 03:31:47 GMT | XSS Part — 16 : Reflected XSS in canonical link tag | Ahmad Sopyan | [Read More](https://medium.com/p/599bf449af2f) |
+| Fri, 16 May 2025 03:23:19 GMT | Understanding Dependency Cycles in JavaScript Projects — And How to Catch Them with ESLint | Sajid Ali | [Read More](https://medium.com/p/1a4e9bc8d51a) |
+| Fri, 16 May 2025 03:20:48 GMT | OWASP Top 10 Vulnerabilities — Detailed Guide with Examples & Fixes | Kamalmeet Singh | [Read More](https://medium.com/p/0b737ef5bb38) |
+| Fri, 16 May 2025 03:16:39 GMT | ⚡ Nmap Simple Tricks — Beginner to Pro in 60 Seconds | LazyHacker | [Read More](https://medium.com/p/8d75e9e3a35f) |
+| Fri, 16 May 2025 03:08:27 GMT | MITRE Technique and Detection Opportunities — Operation ToyBox Story | MITRE Doggy | [Read More](https://medium.com/p/c309d6d2e70a) |
 | Fri, 16 May 2025 03:02:12 GMT | ThinkByte: Questions that keep me restless by day, sleepless by night… | Yogesh Parte, PhD | [Read More](https://medium.com/p/ab996809f5bb) |
 | Fri, 16 May 2025 02:58:47 GMT | Will AI Replace You? The Future of Cybersecurity Jobs! | MITRE Doggy | [Read More](https://medium.com/p/f9d557dd757e) |
 | Fri, 16 May 2025 02:45:31 GMT | 3 Storytelling Tactics for JAwareness | Ahmad Javed | [Read More](https://medium.com/p/54a3d82cb989) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 17:52:17 GMT | The “Unlimited Leave” Hack I Found at My College | Swarnim Bandekar | [Read More](https://medium.com/p/4c772df5f8e4) |
 | Thu, 15 May 2025 17:51:46 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/907c8e4996ac) |
 | Thu, 15 May 2025 17:43:50 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/0308400caeb7) |
-| Thu, 15 May 2025 17:43:26 GMT | 5 Most Common Ways Websites Get Hacked — And How to Spot Them | Mayuresh Chaubal | [Read More](https://medium.com/p/a9d33b7eb807) |
-| Thu, 15 May 2025 17:42:26 GMT | Analysis of Cyber Attack Tactics Based on the MITRE ATT&CK Matrix | Esra Kayhan | [Read More](https://medium.com/p/de9b82732e42) |
-| Thu, 15 May 2025 17:42:24 GMT | ⚠️ Nova Scotia Power Data Breach⚠️ | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/465ce4504ac2) |
-| Thu, 15 May 2025 17:33:07 GMT | ResolvTI — Sistema de Chamados Técnicos | Lucas Gades | [Read More](https://medium.com/p/995456e941ac) |
-| Thu, 15 May 2025 17:30:18 GMT | Twilio, Steam e os códigos 2FA vazados | Julia Eileen Schäfer | [Read More](https://medium.com/p/f0e8d982a0f3) |
-| Thu, 15 May 2025 17:17:10 GMT | A Tap Away from Disaster: Inside the Unitronics PLC Attacks on U.S. Water Systems | om sonawane | [Read More](https://medium.com/p/c982d4371f67) |
