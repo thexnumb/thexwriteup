@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 15:16:38 GMT | CTF - Brute Force Login Cuma Modal Terminal Gak Perlu UI! | InREXnA | [Read More](https://medium.com/p/ddd455c4bf66) |
+| Fri, 16 May 2025 15:16:38 GMT | Master the Effective Learning capabilities: 7 Principles for Focused Learning and Growth | Huzaifa Malik | [Read More](https://medium.com/p/7e31a45b823d) |
+| Fri, 16 May 2025 15:12:15 GMT | How I almost made $1000 from XSS bypass attribute | kunx90 | [Read More](https://medium.com/p/77d68f0bc33c) |
+| Fri, 16 May 2025 15:11:45 GMT | Disaster Recovery vs. Business Continuity: What IT Managed Services in Ontario Can Do for You | Zeta Sky | [Read More](https://medium.com/p/b225813a90c1) |
+| Fri, 16 May 2025 15:09:54 GMT | The Impact of IT Management Services in Ontario on Transport and Logistics Innovation | Zeta Sky | [Read More](https://medium.com/p/a52e9f48d554) |
+| Fri, 16 May 2025 15:07:30 GMT | TryHackMe - Training Impact on Teams | thecaesar | [Read More](https://medium.com/p/0e68bfc312dc) |
+| Fri, 16 May 2025 15:06:01 GMT | Future-Proofing Your IT Career: Staying Relevant in a Rapidly Changing Industry | Tasktech Recruiters | [Read More](https://medium.com/p/41b1025e4579) |
+| Fri, 16 May 2025 15:05:27 GMT | Day 37 — Behind the Scenes of the Internet: How DHCP and DNS Power Your Online Experience | Agarwaldaksh | [Read More](https://medium.com/p/23eeef0ecfed) |
+| Fri, 16 May 2025 14:56:55 GMT | Trusted Devices in Django — A Missing Layer of Security | Jakhongir Ganiev | [Read More](https://medium.com/p/762564414eb8) |
+| Fri, 16 May 2025 14:55:19 GMT | How SquareX Could Have Prevented the Coinbase Customer Support Attack | Mary Yang | [Read More](https://medium.com/p/bddc618f75a1) |
+| Fri, 16 May 2025 14:54:49 GMT | Data Archiving | Igor Berner | [Read More](https://medium.com/p/9367fe3470f2) |
+| Fri, 16 May 2025 14:45:24 GMT | Dorking Like a Pro: Find Your First Critical Bug Before Hackers Do! | ./r4gh4v | [Read More](https://medium.com/p/db578c54f4c1) |
+| Fri, 16 May 2025 14:44:00 GMT | HTML Injection: The Overlooked Web Exploit That Can Wreck Your Site | Yupalchaudhari | [Read More](https://medium.com/p/83c3f6933587) |
+| Fri, 16 May 2025 14:39:09 GMT | Change is Welcome in my Career — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/1a9851d10195) |
 | Fri, 16 May 2025 14:31:38 GMT | Living-off-the-COM: Type Coercion Abuse | Andrea Bocchetti | [Read More](https://medium.com/p/108f988bb00a) |
 | Fri, 16 May 2025 14:21:46 GMT | SecureComm: A Deep Dive into Dynamic Key Exchange, End-to-End Encryption, and ML-Powered Intrusion | Efipe | [Read More](https://medium.com/p/00815195e36a) |
 | Fri, 16 May 2025 14:21:24 GMT | What is a 3rd Party Audit? Types of Audits & Auditing Certification | Securis360 Inc. | [Read More](https://medium.com/p/1a450b996a48) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 10:02:44 GMT | Designing Security That Doesn’t Feel Like Security | Solo Recon | [Read More](https://medium.com/p/8ed783f1903f) |
 | Fri, 16 May 2025 10:00:38 GMT | Top 10 IT Audit Firms in Dubai (2025) | Ameesh Abraham | [Read More](https://medium.com/p/30507c0a6b6e) |
 | Fri, 16 May 2025 09:53:06 GMT | Exposure-as-a-Vulnerability | Alexandra Tsamitrou | [Read More](https://medium.com/p/33ef53a19930) |
-| Fri, 16 May 2025 09:46:49 GMT | Perfectly Broken | Kakoli | [Read More](https://medium.com/p/e5bca2f755de) |
-| Fri, 16 May 2025 09:42:54 GMT | Dashboards, Data, and Decision-Making: How to Build a Security Metrics System That Works | SecOps | [Read More](https://medium.com/p/82a276055d6f) |
-| Fri, 16 May 2025 09:37:20 GMT | “Vibe Coding” & AI-Powered Development: The Future of Programming or a Risky Shortcut? | FinnQ | [Read More](https://medium.com/p/2d5691d46e19) |
-| Fri, 16 May 2025 09:37:20 GMT | If You Knew Why I Write | Samira Wyld | [Read More](https://medium.com/p/a29d176c3cdb) |
-| Fri, 16 May 2025 09:36:43 GMT | Breathing in The Abyss | Selene | [Read More](https://medium.com/p/5a89d027e04d) |
-| Fri, 16 May 2025 09:34:48 GMT | Understanding the Role of the Data Protection Officer (DPO) | Taipun | [Read More](https://medium.com/p/8fcc12562723) |
-| Fri, 16 May 2025 09:34:44 GMT | Kioptrix 3 — Red Team Style (Walkthroug) | Nano | [Read More](https://medium.com/p/cd524d8b7d80) |
-| Fri, 16 May 2025 09:24:26 GMT | GDPR Made Simple for Security Operators | Taipun | [Read More](https://medium.com/p/59a5c1386a9f) |
-| Fri, 16 May 2025 09:10:44 GMT | Cybersecurity Vulnerability Types: A  Guide for .NET Developers | Adem KORKMAZ | [Read More](https://medium.com/p/74cb96c91383) |
-| Fri, 16 May 2025 09:09:25 GMT | Lab Report#9 — DCSync Attack | Samet Koca | [Read More](https://medium.com/p/6022b8800a41) |
-| Fri, 16 May 2025 09:06:02 GMT | Back to the Future: Intrapreneurial Regurgitated as Frontier Firm | Namir Sagheenanajar | [Read More](https://medium.com/p/b8a2c75b10d8) |
-| Fri, 16 May 2025 09:02:56 GMT | The risks of S3 Object Lock — why you should block it if you don’t need it | Avi Keinan | [Read More](https://medium.com/p/9dbf7b43ec5f) |
-| Fri, 16 May 2025 08:59:24 GMT | Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel | FufuFafa | [Read More](https://medium.com/p/44f1da33e4fb) |
-| Fri, 16 May 2025 08:58:48 GMT | Imposter Syndrome in Cybersecurity: The Unfiltered Truth They Don’t Tell You | Nancy Muriithi | [Read More](https://medium.com/p/ef971b15a0d8) |
