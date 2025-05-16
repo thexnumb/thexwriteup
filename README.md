@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 22:08:45 GMT | “$1 Billion AI System Prompts” Just Got Leaked. | Nikolay Gul | [Read More](https://medium.com/p/60ae9f9b71fe) |
+| Fri, 16 May 2025 22:01:21 GMT | PacketMaze: The Art of Packet Hunting | Omar Hesham | [Read More](https://medium.com/p/61b1a73328bd) |
+| Fri, 16 May 2025 21:54:42 GMT | AI Crypto Trading Bots: The Hidden Risks Every Trader Should Know | Tom Croll | [Read More](https://medium.com/p/ab0a81eac967) |
+| Fri, 16 May 2025 21:53:17 GMT | How to Get Into Cybersecurity | Damien Le | [Read More](https://medium.com/p/67e519e2baad) |
 | Fri, 16 May 2025 21:22:34 GMT | Privacy-Aware Machine Learning: Homomorphic Encryption and Federated Learning | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7437156c019) |
 | Fri, 16 May 2025 21:15:42 GMT | X-Ray Vehicle Scanner systems | ropot | [Read More](https://medium.com/p/fd977263c0fe) |
 | Fri, 16 May 2025 21:10:28 GMT | Open Redirect via Base64-Encoded state Parameter in OAuth Flow (returnTo field) | Hussein Elturkey | [Read More](https://medium.com/p/42a0319ef296) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 15:25:01 GMT | CompTIA A+ - What and How? | Omar El Saadawy | [Read More](https://medium.com/p/45a2aff0405b) |
 | Fri, 16 May 2025 15:17:35 GMT | PII Leak via Email | Hossam Hamada | [Read More](https://medium.com/p/3ff4eb5199d9) |
 | Fri, 16 May 2025 15:16:38 GMT | CTF - Brute Force Login Cuma Modal Terminal Gak Perlu UI! | InREXnA | [Read More](https://medium.com/p/ddd455c4bf66) |
-| Fri, 16 May 2025 15:16:38 GMT | Master the Effective Learning capabilities: 7 Principles for Focused Learning and Growth | Huzaifa Malik | [Read More](https://medium.com/p/7e31a45b823d) |
-| Fri, 16 May 2025 15:12:33 GMT | Matter and Infineon Redefine Smart Home Security Standards | Mark Vena | [Read More](https://medium.com/p/c3f81940bea3) |
-| Fri, 16 May 2025 15:12:15 GMT | How I almost made $1000 from XSS bypass attribute | kunx90 | [Read More](https://medium.com/p/77d68f0bc33c) |
-| Fri, 16 May 2025 15:11:45 GMT | Disaster Recovery vs. Business Continuity: What IT Managed Services in Ontario Can Do for You | Zeta Sky | [Read More](https://medium.com/p/b225813a90c1) |
