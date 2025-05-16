@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 18:20:13 GMT | Cybersecurity News Review — Week 20 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/93ae68821c55) |
+| Fri, 16 May 2025 18:15:44 GMT | Quantum Computing Meets Cancer Research: A New Frontier in Drug Discovery | QuantumGenie | [Read More](https://medium.com/p/21209927d40d) |
+| Fri, 16 May 2025 18:15:24 GMT | Day 6 — When Remote Services Became a Weapon: Inside PIPEDREAM / INCONTROLLER ICS Malware | om sonawane | [Read More](https://medium.com/p/2cad3a2ebce2) |
+| Fri, 16 May 2025 18:13:31 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/26908d381a9e) |
+| Fri, 16 May 2025 18:11:54 GMT | How Reddit Narrowly Escaped a Major Security Breach | Abdur Mowlana | [Read More](https://medium.com/p/bcb744dc069b) |
+| Fri, 16 May 2025 18:00:17 GMT | Canadian Utility Breach: Nova Scotia Power | IT_Engineer | [Read More](https://medium.com/p/c79a2afdc3e4) |
+| Fri, 16 May 2025 17:56:54 GMT | Mobil Uygulama Güvenliği Nedir? Neden Önemlidir? | Emir KILIÇ | [Read More](https://medium.com/p/62206814e1a0) |
+| Fri, 16 May 2025 17:45:45 GMT | CRTP- Certified Red Team Professional Review. | Mohammed Fadag | [Read More](https://medium.com/p/fd2fb4d3320c) |
+| Fri, 16 May 2025 17:42:47 GMT | My Experiences and Tips for Passing BTL1 Exam | Ata Seren | [Read More](https://medium.com/p/170d25a79000) |
+| Fri, 16 May 2025 17:36:16 GMT | GitHub SSO for CloudBeaver using oauth2-proxy and Helm on Kubernetes | Rudhra Rai | [Read More](https://medium.com/p/753ef9ca757d) |
 | Fri, 16 May 2025 17:35:43 GMT | TryHackMe CTF Series- Walkthrough MR Robot CTF | HacksonAloysis | [Read More](https://medium.com/p/5de56a5bd3a1) |
 | Fri, 16 May 2025 17:34:59 GMT | The future of Cybersecurity with AI: Where Are We Headed? | Saumajit Malakar | [Read More](https://medium.com/p/3c2636711aa8) |
 | Fri, 16 May 2025 17:25:06 GMT | Light - TryHackMe Easy Box | Error | [Read More](https://medium.com/p/4bcf07b602ba) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 13:00:35 GMT | ️Security Blue Team Network Traffic Analysis Course Capstone Project Write-Up. | Abednego Achim | [Read More](https://medium.com/p/21630ddef0f0) |
 | Fri, 16 May 2025 12:56:53 GMT | From Guest to Admin: Chaining Pre-Account Takeover with Privilege Escalation | MahmoudKroush | [Read More](https://medium.com/p/fe970e80cd25) |
 | Fri, 16 May 2025 12:56:43 GMT | Username Recon Is Powerful — That’s Why We Must Use It Responsibly | Sam Galope | [Read More](https://medium.com/p/068fad776140) |
-| Fri, 16 May 2025 12:56:05 GMT | Your Personal Data Makes You a Perfect Target for AI Scams | Karl Buhl | [Read More](https://medium.com/p/8603042eec06) |
-| Fri, 16 May 2025 12:52:36 GMT | WordPress Roles & Capabilities: A Practical Guide | Farhan Ali | [Read More](https://medium.com/p/0b86fe70d621) |
-| Fri, 16 May 2025 12:51:24 GMT | Why Good Readers Make Great Performers in Tech (Especially if You Switch Jobs Often) | Kavita Jadhav | [Read More](https://medium.com/p/50337776ad69) |
-| Fri, 16 May 2025 12:47:35 GMT | The Role of AI in Cybersecurity with examples | Akhand Pratap Singh | [Read More](https://medium.com/p/43c260844cb4) |
-| Fri, 16 May 2025 12:39:26 GMT | Proof of Stake vs. Proof of Agreement: How Stellar Redefines Blockchain Security | Scopuly | [Read More](https://medium.com/p/735a74624459) |
-| Fri, 16 May 2025 12:25:14 GMT | Penetration Testing Needs to Go Beyond Compliance | Cybersectoworld | [Read More](https://medium.com/p/286d7bd8b945) |
-| Fri, 16 May 2025 12:22:33 GMT | Running AI Models Locally: My Journey with Deepseek, Ollama, Gradio and Google Colab | Mariem Jabloun | [Read More](https://medium.com/p/3d72aca77d83) |
-| Fri, 16 May 2025 12:17:37 GMT | How to Launch an Etsy Store Using AI in a Weekend (No, You Don’t Need to Be a Pro) | Bl@ckC!pH3r | [Read More](https://medium.com/p/32e0c159370d) |
-| Fri, 16 May 2025 12:16:25 GMT | Json Web Token(JWT) nedir? | alperen ordukaya | [Read More](https://medium.com/p/2a4187368c4d) |
-| Fri, 16 May 2025 12:12:00 GMT | Complete AWS Online Training Course: Master Cloud Skills from AnywhereComplete AWS Online Training… | cyberwingITSolution | [Read More](https://medium.com/p/4363b8fe6253) |
