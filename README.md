@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 16:17:07 GMT | SOC112 — Traffic to Blacklisted IP | Cyril Philipp Abajar | [Read More](https://medium.com/p/f3554a2639fb) |
+| Fri, 16 May 2025 16:14:45 GMT | Stop Memorizing Interview Answers. Learn the Work Instead. | A D | [Read More](https://medium.com/p/7379304e1888) |
+| Fri, 16 May 2025 16:12:16 GMT | Node.js api OWASP | Chirag Kamat | [Read More](https://medium.com/p/e0ba29ace2b2) |
+| Fri, 16 May 2025 16:06:52 GMT | Hack The Box: TwoMillion Writeup | MO R SY | [Read More](https://medium.com/p/044b7f7c4ac8) |
+| Fri, 16 May 2025 15:58:06 GMT | What The New PCI AI Guidelines Reveal About The Future of Governance, Risk and Compliance (GRC) | Taimur Ijlal | [Read More](https://medium.com/p/ef8993b21fc8) |
+| Fri, 16 May 2025 15:56:38 GMT | Cyber-Physical Systems in Agriculture: Smarter Farming with AI Cybersecurity at Its Core | Data Defendere | [Read More](https://medium.com/p/e597a0df6a6d) |
+| Fri, 16 May 2025 15:51:14 GMT | Brute-Force Attack - Hire Hacker | GhostWriter | [Read More](https://medium.com/p/34ca6a5d1034) |
+| Fri, 16 May 2025 15:47:20 GMT | Given an inch, take a mile. | Security Consulting Blogspot | [Read More](https://medium.com/p/e0c9e3023ef9) |
+| Fri, 16 May 2025 15:46:47 GMT | Major Data Breach at Coinbase $400M Lost, 1M Users Affected, Exposes Customer Information &… | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/a69a60c55212) |
+| Fri, 16 May 2025 15:46:03 GMT | TryHackMe Walkthrough 02— Ice | Nicholas Abundis | [Read More](https://medium.com/p/9fa50f501860) |
+| Fri, 16 May 2025 15:43:45 GMT | How to Handle File Uploads with S3: My Approach vs. Common Practices | Pedro Igor Oliveira Silva | [Read More](https://medium.com/p/81432656c006) |
+| Fri, 16 May 2025 15:37:08 GMT | Why Reviewing Previous Audits Can Be So Stressful – And How to Fix It. | Gwen | [Read More](https://medium.com/p/e3fe94227be2) |
 | Fri, 16 May 2025 15:28:41 GMT | Getting Practical with eBPF: Supply Chain Threat Detection from Rootconf 25 | Suvvari Venkatasai | [Read More](https://medium.com/p/e15b4899ecbf) |
 | Fri, 16 May 2025 15:26:23 GMT | TRYHACKME: Pickle Rick | Prachiverma | [Read More](https://medium.com/p/620b4cfc2e9e) |
 | Fri, 16 May 2025 15:25:18 GMT | Threat Modeling & Security Design Review in SDL: Securing Software from the Start | Abhishek Kumar Gupta | [Read More](https://medium.com/p/f76ac480ef3d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 11:02:49 GMT | Security Robots in Austria | Presslink Media | [Read More](https://medium.com/p/9e1121b68070) |
 | Fri, 16 May 2025 11:02:33 GMT | Shadows of the Leaked Secrets | Tales of Nyx | [Read More](https://medium.com/p/29998df62817) |
 | Fri, 16 May 2025 10:58:27 GMT | Data Remenence and Destruction Methods | Igor Berner | [Read More](https://medium.com/p/d66aadd99334) |
-| Fri, 16 May 2025 10:57:24 GMT | LetsDefend Malware Analysis Challenge — Soru Cevaplı Analiz | Selim Oguz Şahin | [Read More](https://medium.com/p/b10023271d8a) |
-| Fri, 16 May 2025 10:56:46 GMT | Nuki 3.0 and Nuki 3.0 Pro Smart Locks | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/9bc05bd200b6) |
-| Fri, 16 May 2025 10:53:25 GMT | The Rise of Tech Jobs in Sustainable Energy: A Bright Green Future. | Reapool | [Read More](https://medium.com/p/5bfb26892312) |
-| Fri, 16 May 2025 10:49:15 GMT | How Access Control Systems Are Transforming Security in 2025 | Joven A Rodrigues | [Read More](https://medium.com/p/c06980281846) |
-| Fri, 16 May 2025 10:48:41 GMT | HTB — Pandora Write-up | Nikita Astashenko | [Read More](https://medium.com/p/96b1de318380) |
-| Fri, 16 May 2025 10:47:34 GMT | Secure Your Node.js API Like a Bank Vault | Owali Ullah Shawon | [Read More](https://medium.com/p/287c4fa299bf) |
-| Fri, 16 May 2025 10:33:15 GMT | SQL Injection — OWASP Juiceshop #9 | DebianHat | [Read More](https://medium.com/p/990ba0f7bbf2) |
-| Fri, 16 May 2025 10:29:51 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/c1b74e7ca12b) |
-| Fri, 16 May 2025 10:23:29 GMT | INE — Exploiting Linux Vulnerabilities: Samba Recon: Dictionary Attack | Babatunde Ojo | [Read More](https://medium.com/p/2961d7470b48) |
-| Fri, 16 May 2025 10:22:32 GMT | Smile because the world has no idea you are coming for it!!! | The Step Witch | [Read More](https://medium.com/p/754253309c86) |
-| Fri, 16 May 2025 10:15:22 GMT | Compliance vs Security — Why Combining Both Is Essential in 2025 | StrongBox IT | [Read More](https://medium.com/p/9d2252a8b04a) |
-| Fri, 16 May 2025 10:14:03 GMT | How to secure your app metrics from public access | Natalia Maltseva | [Read More](https://medium.com/p/3f499bdb0220) |
