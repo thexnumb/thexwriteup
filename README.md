@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 13:19:09 GMT | Five Things I didn’t know about Tech Project Management | Harold Ntorinkansah Jnr | [Read More](https://medium.com/p/d3e0f88b4cde) |
+| Fri, 16 May 2025 13:18:33 GMT | Zen and the Art of Vibe Coding — Part 2 | gk_ | [Read More](https://medium.com/p/5880cd5b3cc1) |
+| Fri, 16 May 2025 13:18:07 GMT | Zen and the Art of Vibe Coding — Part 1 | gk_ | [Read More](https://medium.com/p/fb850a528b04) |
+| Fri, 16 May 2025 13:15:39 GMT | Emphasis on Supply Chain Security in 2025: Securing the Weakest Link | Jackdavis Iap | [Read More](https://medium.com/p/3fe793366c73) |
+| Fri, 16 May 2025 13:07:38 GMT | Managing Software Supply Chain Risks: 3 Metrics, 2 Questions and 1 Action For Every CEO and Board… | BillBurns | [Read More](https://medium.com/p/b40582ae8fd9) |
+| Fri, 16 May 2025 13:06:48 GMT | How io_uring Became a Stealth Weapon for Linux Rootkits | Aaron | [Read More](https://medium.com/p/4cec21242026) |
+| Fri, 16 May 2025 13:02:46 GMT | Your May 2025 Blueprint for Digital Safety: Outsmarting Today’s Cyber Threats | Jharro Blog | [Read More](https://medium.com/p/e84852ff8d3d) |
+| Fri, 16 May 2025 13:02:36 GMT | Can You Spot a Critical Vulnerability Before Attackers Do? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/8fc3fd1a51c9) |
+| Fri, 16 May 2025 13:02:34 GMT | Managing your Software Supply Chain Security Risk (Part 2 – CISO) | BillBurns | [Read More](https://medium.com/p/8c803aefc1ff) |
+| Fri, 16 May 2025 13:02:34 GMT | Managing your Software Supply Chain Security Risk: 3 Metrics, 2 Questions and 1 Action For Every… | BillBurns | [Read More](https://medium.com/p/c7c19b335af2) |
+| Fri, 16 May 2025 13:02:34 GMT | HackTheBox: Cypher Machine Insights | CyberQuestor | [Read More](https://medium.com/p/3fa5be4ee397) |
+| Fri, 16 May 2025 13:01:02 GMT | From Classrooms to Code: Why Tech Skills Are the New Core Curriculum in 2025 | Appcurators | [Read More](https://medium.com/p/70fc2d8d2884) |
+| Fri, 16 May 2025 13:00:35 GMT | ️Security Blue Team Network Traffic Analysis Course Capstone Project Write-Up. | Abednego Achim | [Read More](https://medium.com/p/21630ddef0f0) |
+| Fri, 16 May 2025 12:56:53 GMT | From Guest to Admin: Chaining Pre-Account Takeover with Privilege Escalation | MahmoudKroush | [Read More](https://medium.com/p/fe970e80cd25) |
+| Fri, 16 May 2025 12:56:43 GMT | Username Recon Is Powerful — That’s Why We Must Use It Responsibly | Sam Galope | [Read More](https://medium.com/p/068fad776140) |
+| Fri, 16 May 2025 12:56:05 GMT | Your Personal Data Makes You a Perfect Target for AI Scams | Karl Buhl | [Read More](https://medium.com/p/8603042eec06) |
+| Fri, 16 May 2025 12:52:36 GMT | WordPress Roles & Capabilities: A Practical Guide | Farhan Ali | [Read More](https://medium.com/p/0b86fe70d621) |
+| Fri, 16 May 2025 12:51:24 GMT | Why Good Readers Make Great Performers in Tech (Especially if You Switch Jobs Often) | Kavita Jadhav | [Read More](https://medium.com/p/50337776ad69) |
+| Fri, 16 May 2025 12:47:35 GMT | The Role of AI in Cybersecurity with examples | Akhand Pratap Singh | [Read More](https://medium.com/p/43c260844cb4) |
 | Fri, 16 May 2025 12:39:26 GMT | Proof of Stake vs. Proof of Agreement: How Stellar Redefines Blockchain Security | Scopuly | [Read More](https://medium.com/p/735a74624459) |
 | Fri, 16 May 2025 12:25:14 GMT | Penetration Testing Needs to Go Beyond Compliance | Cybersectoworld | [Read More](https://medium.com/p/286d7bd8b945) |
 | Fri, 16 May 2025 12:22:33 GMT | Running AI Models Locally: My Journey with Deepseek, Ollama, Gradio and Google Colab | Mariem Jabloun | [Read More](https://medium.com/p/3d72aca77d83) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 07:56:05 GMT | Phishing attacks evolve with real-time email validation | hide.me VPN | [Read More](https://medium.com/p/87f2965c7b47) |
 | Fri, 16 May 2025 07:50:03 GMT | The Corix Partners Friday Reading List — May 16, 2025 | JC Gaillard | [Read More](https://medium.com/p/fdb73d3ca9b2) |
 | Fri, 16 May 2025 07:32:22 GMT | sometimes, the bravest thing to do is to be vulnerable. | sceia | [Read More](https://medium.com/p/8010f29d7461) |
-| Fri, 16 May 2025 07:21:48 GMT | Emergency Locksmith in Pittsburgh, PA — Quick & Affordable Assistance | LockandKeySolutions | [Read More](https://medium.com/p/9c0d228fba7a) |
-| Fri, 16 May 2025 07:11:08 GMT | The Art of Persuasion in Cybersecurity Budget Talks | Ahmad Javed | [Read More](https://medium.com/p/4b4453e3fc3b) |
-| Fri, 16 May 2025 07:10:58 GMT | Dark Web 101: What It Is and Why It Matters in 2025 | Mahesh Ravaji | [Read More](https://medium.com/p/5fd692d18084) |
-| Fri, 16 May 2025 07:09:34 GMT | AI & IoT Security: Protecting Smart Devices from Cyber Attacks | Sanchitamishra | [Read More](https://medium.com/p/01ec29556427) |
-| Fri, 16 May 2025 07:09:21 GMT | Caching Trouble: The Public Cache That Leaked Private User Data | Iski | [Read More](https://medium.com/p/0d410af5cb4c) |
-| Fri, 16 May 2025 07:08:59 GMT | Stop Leaks Before They Happen: Master Your Key Management Today Using Talisman | sreekanthkurapati | [Read More](https://medium.com/p/50a766b0cd2f) |
-| Fri, 16 May 2025 07:08:14 GMT | Above the Clouds: Securing What You Don’t Physically Control | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/f5c78eb76b2f) |
-| Fri, 16 May 2025 07:03:29 GMT | Complete Construction Site Security Services in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/9dee9050118d) |
-| Fri, 16 May 2025 06:59:42 GMT | The Anatomy of Cybersecurity: How Cyber Defences Mimic the Human Body to Protect Digital Health | Madhavaraman | [Read More](https://medium.com/p/f6143f180f7a) |
-| Fri, 16 May 2025 06:58:40 GMT | What Kind of Ports Do Humans Use on a Daily Basis? | unica 02 | [Read More](https://medium.com/p/90e035dd0aea) |
-| Fri, 16 May 2025 06:55:13 GMT | Bug Bounty Burnout: When Serious Bugs Get Dismissed | Vivek PS | [Read More](https://medium.com/p/f22cf0f0f293) |
-| Fri, 16 May 2025 06:53:15 GMT | Trusted Construction Site Security Guards in Manchester — Marvellous Security | Marvelloussecurities | [Read More](https://medium.com/p/c0af76b9a975) |
-| Fri, 16 May 2025 06:53:14 GMT | The Daily Tech Digest: 16 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9f883053d9f3) |
-| Fri, 16 May 2025 06:52:31 GMT | 7 Key Benefits of Securiti-Databricks Collaboration for Enterprises | Privacy Research Team, Securiti | [Read More](https://medium.com/p/26cdf1bfd283) |
-| Fri, 16 May 2025 06:51:04 GMT | Port- 139,445 SMB Exploitation (Series:1/ [article:2]) | Mr Horbio | [Read More](https://medium.com/p/6769570eb0ef) |
-| Fri, 16 May 2025 06:50:54 GMT | The Kids Online Safety Act  Might Actually Make the Internet Worse for Everyone | TECH EMPIRE | [Read More](https://medium.com/p/e79cca013cb2) |
-| Fri, 16 May 2025 06:50:30 GMT | Inside the Hacker’s Playbook: How SQL Injection Works and How to Defend Against It | Babar Ali Jamali | [Read More](https://medium.com/p/6f31710b9687) |
-| Fri, 16 May 2025 06:47:24 GMT | Why Fixing NPM Vulnerabilities Quickly Is Critical: Lessons from the Real World | Thomas Ender | [Read More](https://medium.com/p/9dc0dcf76702) |
-| Fri, 16 May 2025 06:38:27 GMT | $750 Bounty: From X-Forwarded-Host to Stored DOM XSS | Monika sharma | [Read More](https://medium.com/p/de0785adfe05) |
