@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 23:09:24 GMT | “I love you in different languages.” | Prabhu Perumal | [Read More](https://medium.com/p/8881d115e73b) |
+| Fri, 16 May 2025 23:02:17 GMT | Public Key Cryptography Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/2ca42016ea52) |
 | Fri, 16 May 2025 22:39:58 GMT | Why Cybersecurity Frameworks Matter for Small Businesses | Optimati | [Read More](https://medium.com/p/88208f7c5445) |
 | Fri, 16 May 2025 22:20:09 GMT | Kioptrix Level 3 | areej | [Read More](https://medium.com/p/b7e2a3a3a4b1) |
 | Fri, 16 May 2025 22:16:28 GMT | Automate Your Boring Stuff with Python: A Practical Guide for Everyday Cybersecurity Tasks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b78a266a98a7) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 15:46:03 GMT | TryHackMe Walkthrough 02— Ice | Nicholas Abundis | [Read More](https://medium.com/p/9fa50f501860) |
 | Fri, 16 May 2025 15:43:45 GMT | How to Handle File Uploads with S3: My Approach vs. Common Practices | Pedro Igor Oliveira Silva | [Read More](https://medium.com/p/81432656c006) |
 | Fri, 16 May 2025 15:37:08 GMT | Why Reviewing Previous Audits Can Be So Stressful – And How to Fix It. | Gwen | [Read More](https://medium.com/p/e3fe94227be2) |
-| Fri, 16 May 2025 15:36:31 GMT | I sit behind these glassy walls, Where silence sings and teardrop falls, My shadow dances in… | Boluwatife Lash | [Read More](https://medium.com/p/7f55911f0e30) |
-| Fri, 16 May 2025 15:28:41 GMT | Getting Practical with eBPF: Supply Chain Threat Detection from Rootconf 25 | Suvvari Venkatasai | [Read More](https://medium.com/p/e15b4899ecbf) |
