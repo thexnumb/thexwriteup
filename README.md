@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 07:32:22 GMT | sometimes, the bravest thing to do is to be vulnerable. | sceia | [Read More](https://medium.com/p/8010f29d7461) |
+| Fri, 16 May 2025 07:21:48 GMT | Emergency Locksmith in Pittsburgh, PA — Quick & Affordable Assistance | LockandKeySolutions | [Read More](https://medium.com/p/9c0d228fba7a) |
 | Fri, 16 May 2025 07:11:08 GMT | The Art of Persuasion in Cybersecurity Budget Talks | Ahmad Javed | [Read More](https://medium.com/p/4b4453e3fc3b) |
 | Fri, 16 May 2025 07:10:58 GMT | Dark Web 101: What It Is and Why It Matters in 2025 | Mahesh Ravaji | [Read More](https://medium.com/p/5fd692d18084) |
 | Fri, 16 May 2025 07:09:34 GMT | AI & IoT Security: Protecting Smart Devices from Cyber Attacks | Sanchitamishra | [Read More](https://medium.com/p/01ec29556427) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 21:55:22 GMT | Quantum Industry Leaders Urge Congress to Reauthorize and Expand National Quantum Initiative | QuantumGenie | [Read More](https://medium.com/p/acb6222c1fd3) |
 | Thu, 15 May 2025 21:53:31 GMT | ETW Interceptor | S12 - H4CK | [Read More](https://medium.com/p/749f993713e4) |
 | Thu, 15 May 2025 21:52:18 GMT | CVE-2025-4455: Local Privilege Escalation in Patch My PC Home Updater | Sneharghya Roy | [Read More](https://medium.com/p/58f2c2041b46) |
-| Thu, 15 May 2025 21:40:02 GMT | The $400M Crypto Crisis at Coinbase: A Cyber Wake-Up Call for the AI Era | NaveeeN Chendra | [Read More](https://medium.com/p/b4170e6bb795) |
-| Thu, 15 May 2025 21:35:05 GMT | 403 Bypass Techniques for Bug Bounty | SilverXCyber | [Read More](https://medium.com/p/dcd449733bec) |
