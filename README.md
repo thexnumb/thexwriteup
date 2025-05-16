@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 20:06:14 GMT | Why “Models” Keep Messaging You (and Why They’re Probably Men) | Marcus Musick | [Read More](https://medium.com/p/fe956cc4572b) |
+| Fri, 16 May 2025 19:58:31 GMT | Sequoia’s Top Gun Hacked in Massive Coinbase Insider Leak, Crypto’s Darkest Chapter Yet? | CoinGen | [Read More](https://medium.com/p/65aef7209f52) |
+| Fri, 16 May 2025 19:48:56 GMT | Insider Threats: Detecting the Risks Within | Travis Ray Caverhill | [Read More](https://medium.com/p/c78f936416d1) |
+| Fri, 16 May 2025 19:47:49 GMT | Jr Security Analyst Intro - TryHackMe - Write-Up by FarrosFR | Mochammad Farros F. R. | [Read More](https://medium.com/p/c55915db9fe1) |
+| Fri, 16 May 2025 19:44:56 GMT | 2fa, OTP bypass checklists 2025 | mohaned alkhlot | [Read More](https://medium.com/p/4d45f92dbdaa) |
+| Fri, 16 May 2025 19:43:13 GMT | Pivoting (Chisel) | S4ntiHack | [Read More](https://medium.com/p/fa6dfc0ec029) |
+| Fri, 16 May 2025 19:41:16 GMT | Journey to Cybersecurity Day 2 — More Controls! | Cyber Muslim Girl | [Read More](https://medium.com/p/f85a7cf658b3) |
+| Fri, 16 May 2025 19:37:47 GMT | Confessions of a Home Lab Junkie: Adventures in DIY Tech, Part 2 | Justin Crawford | [Read More](https://medium.com/p/0d3c2e1dd521) |
+| Fri, 16 May 2025 19:32:45 GMT | .hack//Roots: Sanal Dünyada Yalnızlığın Anatomisi | Talha Özcan | [Read More](https://medium.com/p/f2e7b3deef89) |
 | Fri, 16 May 2025 19:31:28 GMT | Demonized Caching | Nnamdi Michael Okpala | [Read More](https://medium.com/p/070331d21750) |
+| Fri, 16 May 2025 19:27:00 GMT | Learning to slow down before I disappear | Fragmented.__.Thoughts | [Read More](https://medium.com/p/d14a0e636966) |
 | Fri, 16 May 2025 19:21:50 GMT | Is Your Vibe Coding Pain Caused By Hidden Error Messages? | Teri Radichel | [Read More](https://medium.com/p/1f1b7857b837) |
 | Fri, 16 May 2025 19:16:54 GMT | Automated Recon with Python: Scanning IP Ranges for Reverse DNS and Directory Listings | Irem Ozyurt | [Read More](https://medium.com/p/29b81ef1eb05) |
 | Fri, 16 May 2025 19:16:41 GMT | “Think You Don’t Need a VPN? Hackers Are Betting on That.” | Vexpoltech | [Read More](https://medium.com/p/414473950a0d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 14:21:46 GMT | SecureComm: A Deep Dive into Dynamic Key Exchange, End-to-End Encryption, and ML-Powered Intrusion | Efipe | [Read More](https://medium.com/p/00815195e36a) |
 | Fri, 16 May 2025 14:21:24 GMT | What is a 3rd Party Audit? Types of Audits & Auditing Certification | Securis360 Inc. | [Read More](https://medium.com/p/1a450b996a48) |
 | Fri, 16 May 2025 14:15:48 GMT | There’s no guarantees. | Brittani B | [Read More](https://medium.com/p/442bf85c8d23) |
-| Fri, 16 May 2025 14:13:18 GMT | The Risk of Shadow SaaS: Tools Employees Use Without Telling IT | Bl@ckC!pH3r | [Read More](https://medium.com/p/2123076ccca0) |
-| Fri, 16 May 2025 14:13:18 GMT | The Hidden Shield: Security Features in Modern ERP Systems That Most Companies Ignore | Grade ERP | [Read More](https://medium.com/p/cd33e45e9e6c) |
-| Fri, 16 May 2025 14:11:13 GMT | ️‍♂️ Your Secrets Are NOT Safe — Unless You Speak Fluent Cryptography | Ravindu Hirimuthugoda | [Read More](https://medium.com/p/2fb23d770c5c) |
-| Fri, 16 May 2025 14:09:32 GMT | Fake Wi-Fi Networks: Still the Easiest Way to Steal Corporate Credentials | Bl@ckC!pH3r | [Read More](https://medium.com/p/faf8ff5aff9f) |
-| Fri, 16 May 2025 14:08:49 GMT | Cyber Briefing: 2025.05.16 | CyberMaterial | [Read More](https://medium.com/p/a108898aef60) |
-| Fri, 16 May 2025 14:06:23 GMT | The Hidden Risk of Shared Admin Emails in Small Teams | Bl@ckC!pH3r | [Read More](https://medium.com/p/01bfc370b5e1) |
-| Fri, 16 May 2025 14:01:44 GMT | How Law Enforcement Spy's on Your Phone | D.Haddad | [Read More](https://medium.com/p/ce4b826e5ef1) |
-| Fri, 16 May 2025 13:57:11 GMT | AI Applications in Cybersecurity | Jyothika Vinoth | [Read More](https://medium.com/p/a664edbf2773) |
-| Fri, 16 May 2025 13:56:55 GMT | ️ The Silent Security Threat No One’s Talking About: Employee Trust | Colleen Garrett | [Read More](https://medium.com/p/a39b99b36e3a) |
-| Fri, 16 May 2025 13:52:38 GMT | Into Linux Kernel Fuzzing: A Researcher’s Diary (Part 1) | Kerkroups | [Read More](https://medium.com/p/4ebf2b669195) |
