@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 05:38:31 GMT | Understanding SSRF: Real-World Exploitation of Server-Side Request Forgery | Shah kaif | [Read More](https://medium.com/p/792fadb3350f) |
+| Fri, 16 May 2025 05:23:18 GMT | Hackers roubam dados bancários de 30 mil australianos | Rodolfo A. Rodrigues | [Read More](https://medium.com/p/9c7cdc042a57) |
+| Fri, 16 May 2025 05:23:18 GMT | Microsoft Outlook Remote Code Execution Vulnerability (CVE-2025–32705): What You Need to Know and… | Infoziant | [Read More](https://medium.com/p/160163c08efd) |
 | Fri, 16 May 2025 05:16:42 GMT | Implementing Zero Trust across Hybrid IT Environments | Cloud4C Services | [Read More](https://medium.com/p/d31479e63c49) |
+| Fri, 16 May 2025 05:14:35 GMT | Cybersecurity for Little Companies: | Shanzy | [Read More](https://medium.com/p/bafa1e32c941) |
+| Fri, 16 May 2025 05:10:22 GMT | Famous Cyber Attacks and the Unavoidable Role of Logs in Their Resolution | Ertugrul Akbas | [Read More](https://medium.com/p/f0a74642e8fe) |
 | Fri, 16 May 2025 05:10:08 GMT | Don’t Scan That! QR Code Scams Are Spreading Fast | Suyash Jain | [Read More](https://medium.com/p/c15651d33480) |
 | Fri, 16 May 2025 05:07:14 GMT | FortiAuthenticator by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5bde1143c062) |
 | Fri, 16 May 2025 05:06:46 GMT | Site-to-Site VPN between Mikrotik router and Ubuntu 22.04 through strongSwan using IPsec IKEv2 | Bidhan Khatri | [Read More](https://medium.com/p/9d1a06257f89) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 19:21:09 GMT | Doppel: AI Social Engineering Defense | Justin Schulman | [Read More](https://medium.com/p/aa81b381ea90) |
 | Thu, 15 May 2025 19:19:39 GMT | Your data is at risk. Here is why | Richard Ndung'u | [Read More](https://medium.com/p/61695734d1cc) |
 | Thu, 15 May 2025 19:09:36 GMT | Code — Hack The Box — Write Up | Shacrony | [Read More](https://medium.com/p/e2d9f6773eb8) |
-| Thu, 15 May 2025 18:59:38 GMT | Strangers in the Sky Club | Natalie Miller | [Read More](https://medium.com/p/d852132396fb) |
-| Thu, 15 May 2025 18:56:56 GMT | Sonrisas Dental Health Data Breach Exposes Personal Information of Nearly 16,000 Patients | LegalNewsbyDave | [Read More](https://medium.com/p/8efc488c3309) |
-| Thu, 15 May 2025 18:55:58 GMT | Mobil Uygulama İzinleri:Python ve SQL ile Analiz Ve Kodlama | Berfin Özay | [Read More](https://medium.com/p/cfa7adcd1fbc) |
-| Thu, 15 May 2025 18:55:48 GMT | Honeywell’s Quantinuum and Qatar’s Al Rabban Capital Forge $1 Billion Quantum Computing Joint… | QuantumGenie | [Read More](https://medium.com/p/4bb916103e9f) |
-| Thu, 15 May 2025 18:43:21 GMT | “We Caught Something… Now What?” The Cost of Not Knowing Your Next Move in Cybersecurity | Andrea Alaniz | [Read More](https://medium.com/p/44f869a40c82) |
