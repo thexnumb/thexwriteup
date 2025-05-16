@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 14:13:18 GMT | The Risk of Shadow SaaS: Tools Employees Use Without Telling IT | Bl@ckC!pH3r | [Read More](https://medium.com/p/2123076ccca0) |
+| Fri, 16 May 2025 14:13:18 GMT | The Hidden Shield: Security Features in Modern ERP Systems That Most Companies Ignore | Grade ERP | [Read More](https://medium.com/p/cd33e45e9e6c) |
+| Fri, 16 May 2025 14:11:13 GMT | ️‍♂️ Your Secrets Are NOT Safe — Unless You Speak Fluent Cryptography | Ravindu Hirimuthugoda | [Read More](https://medium.com/p/2fb23d770c5c) |
+| Fri, 16 May 2025 14:09:32 GMT | Fake Wi-Fi Networks: Still the Easiest Way to Steal Corporate Credentials | Bl@ckC!pH3r | [Read More](https://medium.com/p/faf8ff5aff9f) |
+| Fri, 16 May 2025 14:08:49 GMT | Cyber Briefing: 2025.05.16 | CyberMaterial | [Read More](https://medium.com/p/a108898aef60) |
+| Fri, 16 May 2025 14:06:23 GMT | The Hidden Risk of Shared Admin Emails in Small Teams | Bl@ckC!pH3r | [Read More](https://medium.com/p/01bfc370b5e1) |
+| Fri, 16 May 2025 14:01:44 GMT | How Law Enforcement Spy's on Your Phone | D.Haddad | [Read More](https://medium.com/p/ce4b826e5ef1) |
+| Fri, 16 May 2025 13:57:11 GMT | AI Applications in Cybersecurity | Jyothika Vinoth | [Read More](https://medium.com/p/a664edbf2773) |
+| Fri, 16 May 2025 13:56:55 GMT | ️ The Silent Security Threat No One’s Talking About: Employee Trust | Colleen Garrett | [Read More](https://medium.com/p/a39b99b36e3a) |
+| Fri, 16 May 2025 13:52:38 GMT | Into Linux Kernel Fuzzing: A Researcher’s Diary (Part 1) | Kerkroups | [Read More](https://medium.com/p/4ebf2b669195) |
+| Fri, 16 May 2025 13:51:34 GMT | Gossip securely with Gosi Aura | Nnamdi Michael Okpala | [Read More](https://medium.com/p/e03aa3cbb033) |
+| Fri, 16 May 2025 13:49:25 GMT | There’s Light on the Dark Web | Poul Lorca Dev | [Read More](https://medium.com/p/f273ad263da2) |
+| Fri, 16 May 2025 13:46:35 GMT | Custom Software, Real Impact: How EDSPL Builds Scalable Solutions for Modern Enterprises | saurabh cyberinfomines | [Read More](https://medium.com/p/8136371519d6) |
+| Fri, 16 May 2025 13:46:29 GMT | Demystifying SSRF (Server-Side Request Forgery): A Real-World Cloud Exploit Walkthrough | AkashSharma | [Read More](https://medium.com/p/20ee10de4fd0) |
+| Fri, 16 May 2025 13:42:06 GMT | Quantum Computing Breakthroughs: Mapping the Future of Technology | typingGurl | [Read More](https://medium.com/p/fa5f3c57f282) |
+| Fri, 16 May 2025 13:34:16 GMT | The Good, The Hack, and The Ugly | Julian Leitloff | [Read More](https://medium.com/p/ddad62364044) |
+| Fri, 16 May 2025 13:32:30 GMT | UnitedHealth Group’s Criminal Probe: What the Headlines Miss About Solvency, Strategy, and Systemic… | Josh Luberisse | [Read More](https://medium.com/p/b9e05229ab4c) |
+| Fri, 16 May 2025 13:32:29 GMT | How SMEs Can Tackle Cybersecurity and Compliance Head-On | Cuemby | [Read More](https://medium.com/p/b5ba8ed5b8b1) |
 | Fri, 16 May 2025 13:19:09 GMT | Five Things I didn’t know about Tech Project Management | Harold Ntorinkansah Jnr | [Read More](https://medium.com/p/d3e0f88b4cde) |
 | Fri, 16 May 2025 13:18:33 GMT | Zen and the Art of Vibe Coding — Part 2 | gk_ | [Read More](https://medium.com/p/5880cd5b3cc1) |
 | Fri, 16 May 2025 13:18:07 GMT | Zen and the Art of Vibe Coding — Part 1 | gk_ | [Read More](https://medium.com/p/fb850a528b04) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 08:57:37 GMT | How OAuth 2.0 and JWT Secure Modern Web Applications? | Priyansh Shah | [Read More](https://medium.com/p/5729d42760f1) |
 | Fri, 16 May 2025 08:57:21 GMT | TryHackMe Walkthrough: Intro to Offensive Security | Cipher D Luffy | [Read More](https://medium.com/p/39f08ff65de0) |
 | Fri, 16 May 2025 08:56:17 GMT | Phishing Attack using JavaScript | Oscar404 | [Read More](https://medium.com/p/545dbbafb423) |
-| Fri, 16 May 2025 08:54:48 GMT | UK Government Bans TikTok on Ministers’ Phones Over Security Concerns | CyBlog | [Read More](https://medium.com/p/c4c1cbfa87ff) |
-| Fri, 16 May 2025 08:50:44 GMT | Unpacking Zero Trust: Why It’s the Future of Cybersecurity (And Not Just a Buzzword) | Digital Mindscape | [Read More](https://medium.com/p/62acb316f8eb) |
-| Fri, 16 May 2025 08:48:32 GMT | ประจำวันศุกร์ที่ 16 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/82e041a53ad6) |
-| Fri, 16 May 2025 08:48:05 GMT | Channel-Specific Fraud Detection: Why Behavioral AI and Networked Thinking Are Now Essential | RaptorX.ai | [Read More](https://medium.com/p/0c4685263f3d) |
-| Fri, 16 May 2025 08:44:51 GMT | From Messy to Masterful: How to Build Secure Node.js APIs Without Overthinking It | Ege Bilge | [Read More](https://medium.com/p/25be579c5fd3) |
-| Fri, 16 May 2025 08:39:52 GMT | How I Passed the Blue Team Level 1 (BTL1) Certification — Honest Review and Tips | Valentin Chéneau | [Read More](https://medium.com/p/617704a663d0) |
-| Fri, 16 May 2025 08:32:44 GMT | The Evolution of Linux Antivirus: From ClamAV to Smart, AI-Driven Defense | AVPSuite | [Read More](https://medium.com/p/e3c1ce092d13) |
-| Fri, 16 May 2025 08:31:51 GMT | Microsoft Sentinel Walkthrough | Maseera Fatima | [Read More](https://medium.com/p/27c2de16e27f) |
-| Fri, 16 May 2025 08:24:32 GMT | Cryptography 101 | Pranieth Chandrasekara | [Read More](https://medium.com/p/83b0ebce302f) |
-| Fri, 16 May 2025 08:16:04 GMT | Password Policy Best Practices for 2025: Stay Secure and Compliant | SecureSlate | [Read More](https://medium.com/p/dfe518c6f75b) |
-| Fri, 16 May 2025 08:05:14 GMT | Top Cybersecurity Skills You Must Learn in 2025 (AI, Ethical Hacking & Red Teaming) | Recon Cyber Security | [Read More](https://medium.com/p/42880481baf8) |
-| Fri, 16 May 2025 08:02:34 GMT | Why Using a Random Password Generator Can Make Your Online Life Safe Today in 2025? | Tahashaikhseo | [Read More](https://medium.com/p/7ceef5f1305c) |
-| Fri, 16 May 2025 08:00:01 GMT | Siber Güvenlik Türkiye’de Neden Hâlâ Ciddiye Alınmıyor? | Burakinceoglu | [Read More](https://medium.com/p/17137e8aabc7) |
-| Fri, 16 May 2025 07:58:12 GMT | Critical Windows task scheduler vulnerabilities expose systems to elevated privilege exploits | hide.me VPN | [Read More](https://medium.com/p/da363ab6b8f0) |
-| Fri, 16 May 2025 07:56:29 GMT | The Tightrope Walk: Balancing Transparency and Anonymity in a Security-Conscious World | Mpandugalang | [Read More](https://medium.com/p/1feec4c9585e) |
-| Fri, 16 May 2025 07:56:05 GMT | Phishing attacks evolve with real-time email validation | hide.me VPN | [Read More](https://medium.com/p/87f2965c7b47) |
-| Fri, 16 May 2025 07:50:03 GMT | The Corix Partners Friday Reading List — May 16, 2025 | JC Gaillard | [Read More](https://medium.com/p/fdb73d3ca9b2) |
-| Fri, 16 May 2025 07:32:22 GMT | sometimes, the bravest thing to do is to be vulnerable. | sceia | [Read More](https://medium.com/p/8010f29d7461) |
