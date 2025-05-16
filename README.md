@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 19:31:28 GMT | Demonized Caching | Nnamdi Michael Okpala | [Read More](https://medium.com/p/070331d21750) |
+| Fri, 16 May 2025 19:21:50 GMT | Is Your Vibe Coding Pain Caused By Hidden Error Messages? | Teri Radichel | [Read More](https://medium.com/p/1f1b7857b837) |
+| Fri, 16 May 2025 19:16:54 GMT | Automated Recon with Python: Scanning IP Ranges for Reverse DNS and Directory Listings | Irem Ozyurt | [Read More](https://medium.com/p/29b81ef1eb05) |
+| Fri, 16 May 2025 19:16:41 GMT | “Think You Don’t Need a VPN? Hackers Are Betting on That.” | Vexpoltech | [Read More](https://medium.com/p/414473950a0d) |
+| Fri, 16 May 2025 19:16:33 GMT | The ZIP Bomb Trap | Ansari | [Read More](https://medium.com/p/84a60c8520f2) |
+| Fri, 16 May 2025 19:15:30 GMT | ⚠️ Open-Source AI + Rising Threats = The Urgent Call for Quantum-Resistant Encryption | NaveeeN Chendra | [Read More](https://medium.com/p/63df95f3586b) |
+| Fri, 16 May 2025 19:14:54 GMT | TCM Security : Blue Machine Writeup | Firas Meddeb | [Read More](https://medium.com/p/a6892fbe5088) |
 | Fri, 16 May 2025 19:07:57 GMT | Another cert knocked out on TryHackMe | 0b1d1 | [Read More](https://medium.com/p/690e38dde4e9) |
 | Fri, 16 May 2025 19:02:27 GMT | Slopsquatting: The Hidden Danger of Typographical Attacks in Software Supply Chains | Cyber Kavy | [Read More](https://medium.com/p/f271c0189046) |
 | Fri, 16 May 2025 19:01:18 GMT | Why No One Reads Security Policies | Azeezah | [Read More](https://medium.com/p/7a06789e6b17) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 13:57:11 GMT | AI Applications in Cybersecurity | Jyothika Vinoth | [Read More](https://medium.com/p/a664edbf2773) |
 | Fri, 16 May 2025 13:56:55 GMT | ️ The Silent Security Threat No One’s Talking About: Employee Trust | Colleen Garrett | [Read More](https://medium.com/p/a39b99b36e3a) |
 | Fri, 16 May 2025 13:52:38 GMT | Into Linux Kernel Fuzzing: A Researcher’s Diary (Part 1) | Kerkroups | [Read More](https://medium.com/p/4ebf2b669195) |
-| Fri, 16 May 2025 13:51:34 GMT | Gossip securely with Gosi Aura | Nnamdi Michael Okpala | [Read More](https://medium.com/p/e03aa3cbb033) |
-| Fri, 16 May 2025 13:49:25 GMT | There’s Light on the Dark Web | Poul Lorca Dev | [Read More](https://medium.com/p/f273ad263da2) |
-| Fri, 16 May 2025 13:46:35 GMT | Custom Software, Real Impact: How EDSPL Builds Scalable Solutions for Modern Enterprises | saurabh cyberinfomines | [Read More](https://medium.com/p/8136371519d6) |
-| Fri, 16 May 2025 13:46:29 GMT | Demystifying SSRF (Server-Side Request Forgery): A Real-World Cloud Exploit Walkthrough | AkashSharma | [Read More](https://medium.com/p/20ee10de4fd0) |
-| Fri, 16 May 2025 13:42:06 GMT | Quantum Computing Breakthroughs: Mapping the Future of Technology | typingGurl | [Read More](https://medium.com/p/fa5f3c57f282) |
-| Fri, 16 May 2025 13:34:16 GMT | The Good, The Hack, and The Ugly | Julian Leitloff | [Read More](https://medium.com/p/ddad62364044) |
-| Fri, 16 May 2025 13:32:30 GMT | UnitedHealth Group’s Criminal Probe: What the Headlines Miss About Solvency, Strategy, and Systemic… | Josh Luberisse | [Read More](https://medium.com/p/b9e05229ab4c) |
