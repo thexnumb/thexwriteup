@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 23:17:00 GMT | How to stop hackers from reading your private messages: Encrypt them with MakeItPrivate.org | Deepak Puri | [Read More](https://medium.com/p/1d65bd7beed4) |
+| Fri, 16 May 2025 23:15:02 GMT | Data Privacy and Your Mobile Phone | Savvy Cyber Kids | [Read More](https://medium.com/p/c4ae3c59de7b) |
+| Fri, 16 May 2025 23:14:22 GMT | THM — Retracted Room Writeup (Ransomware) | Shamar Isaac | [Read More](https://medium.com/p/ed5cb80344d1) |
+| Fri, 16 May 2025 23:13:41 GMT | How Are Women Treated Differently Online? | Savvy Cyber Kids | [Read More](https://medium.com/p/b80d6ccf96b5) |
 | Fri, 16 May 2025 23:09:24 GMT | “I love you in different languages.” | Prabhu Perumal | [Read More](https://medium.com/p/8881d115e73b) |
 | Fri, 16 May 2025 23:02:17 GMT | Public Key Cryptography Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/2ca42016ea52) |
 | Fri, 16 May 2025 22:39:58 GMT | Why Cybersecurity Frameworks Matter for Small Businesses | Optimati | [Read More](https://medium.com/p/88208f7c5445) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 15:56:38 GMT | Cyber-Physical Systems in Agriculture: Smarter Farming with AI Cybersecurity at Its Core | Data Defendere | [Read More](https://medium.com/p/e597a0df6a6d) |
 | Fri, 16 May 2025 15:51:14 GMT | Brute-Force Attack - Hire Hacker | GhostWriter | [Read More](https://medium.com/p/34ca6a5d1034) |
 | Fri, 16 May 2025 15:47:20 GMT | Given an inch, take a mile. | Security Consulting Blogspot | [Read More](https://medium.com/p/e0c9e3023ef9) |
-| Fri, 16 May 2025 15:46:47 GMT | Major Data Breach at Coinbase $400M Lost, 1M Users Affected, Exposes Customer Information &… | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/a69a60c55212) |
-| Fri, 16 May 2025 15:46:03 GMT | TryHackMe Walkthrough 02— Ice | Nicholas Abundis | [Read More](https://medium.com/p/9fa50f501860) |
-| Fri, 16 May 2025 15:43:45 GMT | How to Handle File Uploads with S3: My Approach vs. Common Practices | Pedro Igor Oliveira Silva | [Read More](https://medium.com/p/81432656c006) |
-| Fri, 16 May 2025 15:37:08 GMT | Why Reviewing Previous Audits Can Be So Stressful – And How to Fix It. | Gwen | [Read More](https://medium.com/p/e3fe94227be2) |
