@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 10:11:49 GMT | Bitcoin Key Management: Cryptographic Architecture, Signature Schemes, and Threat Mitigation | Michael P. Di Fulvio | [Read More](https://medium.com/p/bc5f1301d837) |
+| Fri, 16 May 2025 10:07:54 GMT | Lab Report#10 — Golden Ticket Attack | Samet Koca | [Read More](https://medium.com/p/6aaf96649e9c) |
+| Fri, 16 May 2025 10:03:28 GMT | Best Field Force Management Software in India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/c2aac9d81092) |
+| Fri, 16 May 2025 10:02:44 GMT | Designing Security That Doesn’t Feel Like Security | Solo Recon | [Read More](https://medium.com/p/8ed783f1903f) |
+| Fri, 16 May 2025 10:00:38 GMT | Top 10 IT Audit Firms in Dubai (2025) | Ameesh Abraham | [Read More](https://medium.com/p/30507c0a6b6e) |
+| Fri, 16 May 2025 09:53:06 GMT | Exposure-as-a-Vulnerability | Alexandra Tsamitrou | [Read More](https://medium.com/p/33ef53a19930) |
+| Fri, 16 May 2025 09:46:49 GMT | Perfectly Broken | Kakoli | [Read More](https://medium.com/p/e5bca2f755de) |
+| Fri, 16 May 2025 09:42:54 GMT | Dashboards, Data, and Decision-Making: How to Build a Security Metrics System That Works | SecOps | [Read More](https://medium.com/p/82a276055d6f) |
 | Fri, 16 May 2025 09:37:20 GMT | “Vibe Coding” & AI-Powered Development: The Future of Programming or a Risky Shortcut? | FinnQ | [Read More](https://medium.com/p/2d5691d46e19) |
 | Fri, 16 May 2025 09:37:20 GMT | If You Knew Why I Write | Samira Wyld | [Read More](https://medium.com/p/a29d176c3cdb) |
 | Fri, 16 May 2025 09:36:43 GMT | Breathing in The Abyss | Selene | [Read More](https://medium.com/p/5a89d027e04d) |
+| Fri, 16 May 2025 09:34:48 GMT | Understanding the Role of the Data Protection Officer (DPO) | Taipun | [Read More](https://medium.com/p/8fcc12562723) |
 | Fri, 16 May 2025 09:34:44 GMT | Kioptrix 3 — Red Team Style (Walkthroug) | Nano | [Read More](https://medium.com/p/cd524d8b7d80) |
 | Fri, 16 May 2025 09:24:26 GMT | GDPR Made Simple for Security Operators | Taipun | [Read More](https://medium.com/p/59a5c1386a9f) |
 | Fri, 16 May 2025 09:10:44 GMT | Cybersecurity Vulnerability Types: A  Guide for .NET Developers | Adem KORKMAZ | [Read More](https://medium.com/p/74cb96c91383) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 03:02:12 GMT | ThinkByte: Questions that keep me restless by day, sleepless by night… | Yogesh Parte, PhD | [Read More](https://medium.com/p/ab996809f5bb) |
 | Fri, 16 May 2025 02:58:47 GMT | Will AI Replace You? The Future of Cybersecurity Jobs! | MITRE Doggy | [Read More](https://medium.com/p/f9d557dd757e) |
 | Fri, 16 May 2025 02:45:31 GMT | 3 Storytelling Tactics for JAwareness | Ahmad Javed | [Read More](https://medium.com/p/54a3d82cb989) |
-| Fri, 16 May 2025 02:45:27 GMT | Which Websites are Safe to Visit? Security & Privacy | Senjaputrasndr | [Read More](https://medium.com/p/0fa88ca765f0) |
-| Fri, 16 May 2025 02:33:34 GMT | AI Meets Cybersecurity: Why the Future Requires Both | Shreya Patel | [Read More](https://medium.com/p/a07419e621be) |
-| Fri, 16 May 2025 02:30:33 GMT | SECURITY & PRIVACY on Mobile Device and IoT. Boring, but why are you always trapped? | Senjaputrasndr | [Read More](https://medium.com/p/898e9c916042) |
-| Fri, 16 May 2025 02:28:01 GMT | Ever heard of Car-Jacking? | Tina Ginn | [Read More](https://medium.com/p/5fbdf4fb611c) |
-| Fri, 16 May 2025 02:26:48 GMT | “I Thought I Made It in Tech. Then I Got Uncomfortable.” | James Robertson | [Read More](https://medium.com/p/f478b4f4fb93) |
-| Fri, 16 May 2025 02:22:40 GMT | Yet Another Probation Sentence After Assault on Security Guard: Is B.C. Sending the Wrong Message? | Scott Hill | [Read More](https://medium.com/p/74765602e3b7) |
-| Fri, 16 May 2025 02:15:03 GMT | Inside the Mind of a Car Hacker: Top 3 Threats to Autonomous Vehicles | Ashish Suman | [Read More](https://medium.com/p/9e507baa0943) |
-| Fri, 16 May 2025 02:07:01 GMT | Securing Your Remote Team: 5 Cybersecurity Trends You Can’t Ignore | RSUPPORT Blog | [Read More](https://medium.com/p/03ea409952b3) |
-| Fri, 16 May 2025 01:41:12 GMT | AWS Community Builder Renovado | DevOps from Zero! | [Read More](https://medium.com/p/60221fa5fb0c) |
