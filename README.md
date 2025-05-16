@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 03:02:12 GMT | ThinkByte: Questions that keep me restless by day, sleepless by night… | Yogesh Parte, PhD | [Read More](https://medium.com/p/ab996809f5bb) |
+| Fri, 16 May 2025 02:58:47 GMT | Will AI Replace You? The Future of Cybersecurity Jobs! | MITRE Doggy | [Read More](https://medium.com/p/f9d557dd757e) |
+| Fri, 16 May 2025 02:45:31 GMT | 3 Storytelling Tactics for JAwareness | Ahmad Javed | [Read More](https://medium.com/p/54a3d82cb989) |
+| Fri, 16 May 2025 02:45:27 GMT | Which Websites are Safe to Visit? Security & Privacy | Senjaputrasndr | [Read More](https://medium.com/p/0fa88ca765f0) |
+| Fri, 16 May 2025 02:33:34 GMT | AI Meets Cybersecurity: Why the Future Requires Both | Shreya Patel | [Read More](https://medium.com/p/a07419e621be) |
+| Fri, 16 May 2025 02:30:33 GMT | SECURITY & PRIVACY on Mobile Device and IoT. Boring, but why are you always trapped? | Senjaputrasndr | [Read More](https://medium.com/p/898e9c916042) |
+| Fri, 16 May 2025 02:28:01 GMT | Ever heard of Car-Jacking? | Tina Ginn | [Read More](https://medium.com/p/5fbdf4fb611c) |
+| Fri, 16 May 2025 02:26:48 GMT | “I Thought I Made It in Tech. Then I Got Uncomfortable.” | James Robertson | [Read More](https://medium.com/p/f478b4f4fb93) |
+| Fri, 16 May 2025 02:22:40 GMT | Yet Another Probation Sentence After Assault on Security Guard: Is B.C. Sending the Wrong Message? | Scott Hill | [Read More](https://medium.com/p/74765602e3b7) |
+| Fri, 16 May 2025 02:15:03 GMT | Inside the Mind of a Car Hacker: Top 3 Threats to Autonomous Vehicles | Ashish Suman | [Read More](https://medium.com/p/9e507baa0943) |
+| Fri, 16 May 2025 02:07:01 GMT | Securing Your Remote Team: 5 Cybersecurity Trends You Can’t Ignore | RSUPPORT Blog | [Read More](https://medium.com/p/03ea409952b3) |
+| Fri, 16 May 2025 01:41:12 GMT | AWS Community Builder Renovado | DevOps from Zero! | [Read More](https://medium.com/p/60221fa5fb0c) |
 | Fri, 16 May 2025 01:20:53 GMT | Offensive Extended Detection and Response (OXDR): The Next Frontier in Cyber Defense | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/f9970f033de8) |
 | Fri, 16 May 2025 01:20:37 GMT | 15 Laravel Security Best Practices You Should Follow in 2025 | Md.Saif Uddin | [Read More](https://medium.com/p/2656eeab1fb7) |
 | Fri, 16 May 2025 01:13:19 GMT | Authentication: If it’s easy, it can be taken over. If it’s hard, it frustrates us | Senjaputrasndr | [Read More](https://medium.com/p/b9ca51cd00cb) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 17:33:07 GMT | ResolvTI — Sistema de Chamados Técnicos | Lucas Gades | [Read More](https://medium.com/p/995456e941ac) |
 | Thu, 15 May 2025 17:30:18 GMT | Twilio, Steam e os códigos 2FA vazados | Julia Eileen Schäfer | [Read More](https://medium.com/p/f0e8d982a0f3) |
 | Thu, 15 May 2025 17:17:10 GMT | A Tap Away from Disaster: Inside the Unitronics PLC Attacks on U.S. Water Systems | om sonawane | [Read More](https://medium.com/p/c982d4371f67) |
-| Thu, 15 May 2025 17:16:45 GMT | Exploring GoBuster: A Powerful Tool For Directory and File Discovery | Natarajan C K | [Read More](https://medium.com/p/0009c500e158) |
-| Thu, 15 May 2025 17:15:53 GMT | How to scan a target for vulnerabilities with nmap: | Imnotasis | [Read More](https://medium.com/p/2b9245cbbb83) |
-| Thu, 15 May 2025 17:15:53 GMT | Understanding SMB Abuse: Hunting and Detecting Network Share Threats on Windows | Saujas Jadhav | [Read More](https://medium.com/p/905780101a44) |
-| Thu, 15 May 2025 17:14:47 GMT | Secure Snowflake JDBC and ODBC Connections Using Vault | Peter Horrigan | [Read More](https://medium.com/p/6095d23fe271) |
-| Thu, 15 May 2025 17:10:09 GMT | How to enum subdomains with subfinder: | Imnotasis | [Read More](https://medium.com/p/8970aef424f2) |
-| Thu, 15 May 2025 17:06:50 GMT | What a “Simple” CTF Box Taught Me About Getting Stuck, Looking Closer, and Leveling Up | Niklas Heringer | [Read More](https://medium.com/p/bd2b28a17597) |
-| Thu, 15 May 2025 17:02:55 GMT | How to scan websites for vulnerabilities with Nuclei: | Imnotasis | [Read More](https://medium.com/p/535cd41d88fc) |
-| Thu, 15 May 2025 16:59:58 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/b904e05c3254) |
-| Thu, 15 May 2025 16:53:38 GMT | Most Backend Devs Skip These 5 Security Basics — Don’t Be One of Them! | The Code Alchemist | [Read More](https://medium.com/p/1d562384ca94) |
-| Thu, 15 May 2025 16:52:36 GMT | My Journey Into Cybersecurity and Why I Love It | shema turner | [Read More](https://medium.com/p/3bc0723efee1) |
-| Thu, 15 May 2025 16:52:36 GMT | Serialization & Deserialization Explained | Nishanthan | [Read More](https://medium.com/p/bc4284a23c90) |
-| Thu, 15 May 2025 16:46:44 GMT | --- | Md Jisan | [Read More](https://medium.com/p/a181d6ace97b) |
