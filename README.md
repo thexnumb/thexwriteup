@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 22:39:58 GMT | Why Cybersecurity Frameworks Matter for Small Businesses | Optimati | [Read More](https://medium.com/p/88208f7c5445) |
+| Fri, 16 May 2025 22:20:09 GMT | Kioptrix Level 3 | areej | [Read More](https://medium.com/p/b7e2a3a3a4b1) |
+| Fri, 16 May 2025 22:16:28 GMT | Automate Your Boring Stuff with Python: A Practical Guide for Everyday Cybersecurity Tasks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b78a266a98a7) |
+| Fri, 16 May 2025 22:13:05 GMT | Chrome’s CVE-2025–4664: How a Single Header Could Leak Sensitive Data | Cyber-AppSec | [Read More](https://medium.com/p/11449d0345c8) |
 | Fri, 16 May 2025 22:08:45 GMT | “$1 Billion AI System Prompts” Just Got Leaked. | Nikolay Gul | [Read More](https://medium.com/p/60ae9f9b71fe) |
 | Fri, 16 May 2025 22:01:21 GMT | PacketMaze: The Art of Packet Hunting | Omar Hesham | [Read More](https://medium.com/p/61b1a73328bd) |
 | Fri, 16 May 2025 21:54:42 GMT | AI Crypto Trading Bots: The Hidden Risks Every Trader Should Know | Tom Croll | [Read More](https://medium.com/p/ab0a81eac967) |
 | Fri, 16 May 2025 21:53:17 GMT | How to Get Into Cybersecurity | Damien Le | [Read More](https://medium.com/p/67e519e2baad) |
+| Fri, 16 May 2025 21:46:34 GMT | 09336049669 | 3 | [Read More](https://medium.com/p/b26ddf053884) |
 | Fri, 16 May 2025 21:22:34 GMT | Privacy-Aware Machine Learning: Homomorphic Encryption and Federated Learning | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7437156c019) |
 | Fri, 16 May 2025 21:15:42 GMT | X-Ray Vehicle Scanner systems | ropot | [Read More](https://medium.com/p/fd977263c0fe) |
 | Fri, 16 May 2025 21:10:28 GMT | Open Redirect via Base64-Encoded state Parameter in OAuth Flow (returnTo field) | Hussein Elturkey | [Read More](https://medium.com/p/42a0319ef296) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 15:37:08 GMT | Why Reviewing Previous Audits Can Be So Stressful – And How to Fix It. | Gwen | [Read More](https://medium.com/p/e3fe94227be2) |
 | Fri, 16 May 2025 15:36:31 GMT | I sit behind these glassy walls, Where silence sings and teardrop falls, My shadow dances in… | Boluwatife Lash | [Read More](https://medium.com/p/7f55911f0e30) |
 | Fri, 16 May 2025 15:28:41 GMT | Getting Practical with eBPF: Supply Chain Threat Detection from Rootconf 25 | Suvvari Venkatasai | [Read More](https://medium.com/p/e15b4899ecbf) |
-| Fri, 16 May 2025 15:26:23 GMT | TRYHACKME: Pickle Rick | Prachiverma | [Read More](https://medium.com/p/620b4cfc2e9e) |
-| Fri, 16 May 2025 15:25:18 GMT | Threat Modeling & Security Design Review in SDL: Securing Software from the Start | Abhishek Kumar Gupta | [Read More](https://medium.com/p/f76ac480ef3d) |
-| Fri, 16 May 2025 15:25:01 GMT | CompTIA A+ - What and How? | Omar El Saadawy | [Read More](https://medium.com/p/45a2aff0405b) |
-| Fri, 16 May 2025 15:17:35 GMT | PII Leak via Email | Hossam Hamada | [Read More](https://medium.com/p/3ff4eb5199d9) |
-| Fri, 16 May 2025 15:16:38 GMT | CTF - Brute Force Login Cuma Modal Terminal Gak Perlu UI! | InREXnA | [Read More](https://medium.com/p/ddd455c4bf66) |
