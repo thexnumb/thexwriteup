@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 10:33:15 GMT | SQL Injection — OWASP Juiceshop #9 | DebianHat | [Read More](https://medium.com/p/990ba0f7bbf2) |
+| Fri, 16 May 2025 10:29:51 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/c1b74e7ca12b) |
+| Fri, 16 May 2025 10:23:29 GMT | INE — Exploiting Linux Vulnerabilities: Samba Recon: Dictionary Attack | Babatunde Ojo | [Read More](https://medium.com/p/2961d7470b48) |
+| Fri, 16 May 2025 10:22:32 GMT | Smile because the world has no idea you are coming for it!!! | The Step Witch | [Read More](https://medium.com/p/754253309c86) |
+| Fri, 16 May 2025 10:15:22 GMT | Compliance vs Security — Why Combining Both Is Essential in 2025 | StrongBox IT | [Read More](https://medium.com/p/9d2252a8b04a) |
+| Fri, 16 May 2025 10:14:03 GMT | How to secure your app metrics from public access | Natalia Maltseva | [Read More](https://medium.com/p/3f499bdb0220) |
 | Fri, 16 May 2025 10:11:49 GMT | Bitcoin Key Management: Cryptographic Architecture, Signature Schemes, and Threat Mitigation | Michael P. Di Fulvio | [Read More](https://medium.com/p/bc5f1301d837) |
+| Fri, 16 May 2025 10:08:32 GMT | Coinbase Confronts Extortion Attempt, Commits to $400M in User Reimbursements After Insider Data… | Hunter Freeman | [Read More](https://medium.com/p/ea070b414605) |
 | Fri, 16 May 2025 10:07:54 GMT | Lab Report#10 — Golden Ticket Attack | Samet Koca | [Read More](https://medium.com/p/6aaf96649e9c) |
 | Fri, 16 May 2025 10:03:28 GMT | Best Field Force Management Software in India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/c2aac9d81092) |
 | Fri, 16 May 2025 10:02:44 GMT | Designing Security That Doesn’t Feel Like Security | Solo Recon | [Read More](https://medium.com/p/8ed783f1903f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 03:53:45 GMT | How HttpOnly and Secure Flags Help Prevent Session Hijacking and Session Fixation | Anandhu K | [Read More](https://medium.com/p/5d1222beeef2) |
 | Fri, 16 May 2025 03:31:47 GMT | XSS Part — 16 : Reflected XSS in canonical link tag | Ahmad Sopyan | [Read More](https://medium.com/p/599bf449af2f) |
 | Fri, 16 May 2025 03:23:19 GMT | Understanding Dependency Cycles in JavaScript Projects — And How to Catch Them with ESLint | Sajid Ali | [Read More](https://medium.com/p/1a4e9bc8d51a) |
-| Fri, 16 May 2025 03:20:48 GMT | OWASP Top 10 Vulnerabilities — Detailed Guide with Examples & Fixes | Kamalmeet Singh | [Read More](https://medium.com/p/0b737ef5bb38) |
-| Fri, 16 May 2025 03:16:39 GMT | ⚡ Nmap Simple Tricks — Beginner to Pro in 60 Seconds | LazyHacker | [Read More](https://medium.com/p/8d75e9e3a35f) |
-| Fri, 16 May 2025 03:09:25 GMT | La era de los deepfakes: ¿Cómo protegernos de una mentira perfecta? | Jorge Alejandro Duarte del Castillo | [Read More](https://medium.com/p/99962b653862) |
-| Fri, 16 May 2025 03:08:27 GMT | MITRE Technique and Detection Opportunities — Operation ToyBox Story | MITRE Doggy | [Read More](https://medium.com/p/c309d6d2e70a) |
-| Fri, 16 May 2025 03:02:12 GMT | ThinkByte: Questions that keep me restless by day, sleepless by night… | Yogesh Parte, PhD | [Read More](https://medium.com/p/ab996809f5bb) |
-| Fri, 16 May 2025 02:58:47 GMT | Will AI Replace You? The Future of Cybersecurity Jobs! | MITRE Doggy | [Read More](https://medium.com/p/f9d557dd757e) |
-| Fri, 16 May 2025 02:45:31 GMT | 3 Storytelling Tactics for JAwareness | Ahmad Javed | [Read More](https://medium.com/p/54a3d82cb989) |
