@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 06:30:30 GMT | ️‍♂️ From Recon to Report: How I Approach Every Bug Bounty Target | Vipul Sonule | [Read More](https://medium.com/p/2663163148d5) |
+| Fri, 16 May 2025 06:21:19 GMT | The Future of Digital Data Security: Collaboration of Artificial Intelligence (AI) and Humans | Sydeco Indonesia | [Read More](https://medium.com/p/16d3bca9d1de) |
+| Fri, 16 May 2025 06:18:52 GMT | What is Crypto Shredding? | InfosecTrain | [Read More](https://medium.com/p/e1eb0efe2509) |
+| Fri, 16 May 2025 06:10:12 GMT | How to escalate a SQL injection if there is a strict WAF? | Deepak | [Read More](https://medium.com/p/2a7798bb769e) |
+| Fri, 16 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/66e4fd8b02c6) |
+| Fri, 16 May 2025 05:58:01 GMT | Understanding the Psychology Behind Social Engineering Attacks | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/11eb7daa8dbb) |
+| Fri, 16 May 2025 05:49:25 GMT | Understanding DORA Regulations in Switzerland: What Businesses Need to Know | Vytautas Nemunaitis | [Read More](https://medium.com/p/3482634fdbf7) |
 | Fri, 16 May 2025 05:38:31 GMT | Understanding SSRF: Real-World Exploitation of Server-Side Request Forgery | Shah kaif | [Read More](https://medium.com/p/792fadb3350f) |
 | Fri, 16 May 2025 05:23:18 GMT | Hackers roubam dados bancários de 30 mil australianos | Rodolfo A. Rodrigues | [Read More](https://medium.com/p/9c7cdc042a57) |
 | Fri, 16 May 2025 05:23:18 GMT | Microsoft Outlook Remote Code Execution Vulnerability (CVE-2025–32705): What You Need to Know and… | Infoziant | [Read More](https://medium.com/p/160163c08efd) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 20:14:30 GMT | Emerging Cybersecurity Challenges in 2025: Navigating a Complex Digital Threat Landscape | Veridian Zenith Tech | [Read More](https://medium.com/p/58a3a89f1ae1) |
 | Thu, 15 May 2025 19:44:20 GMT | Packet capture analysis of a SocGholish and AsyncRAT infection | Jamal Darbo | [Read More](https://medium.com/p/4c08af2028e7) |
 | Thu, 15 May 2025 19:43:27 GMT | Writing Pentest Reports— TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/b58fbf330ac7) |
-| Thu, 15 May 2025 19:41:52 GMT | Radicalized by the Algorithm | TJ Larson | [Read More](https://medium.com/p/82e7cd41e1ef) |
-| Thu, 15 May 2025 19:39:03 GMT | When Steel Meets Cyber Threats What the Nucor Incident Reveals About Industrial Cybersecurity | Siva Gunasekaran | [Read More](https://medium.com/p/e6e4332d77e0) |
-| Thu, 15 May 2025 19:36:03 GMT | The Hidden Books That Protect Your Digital Life | Ahmad Javed | [Read More](https://medium.com/p/a3cc5d96f320) |
-| Thu, 15 May 2025 19:25:12 GMT | What Really Happens to Your Breached Passwords? | Maria Orms | [Read More](https://medium.com/p/994321e066cb) |
-| Thu, 15 May 2025 19:21:09 GMT | Doppel: AI Social Engineering Defense | Justin Schulman | [Read More](https://medium.com/p/aa81b381ea90) |
-| Thu, 15 May 2025 19:19:39 GMT | Your data is at risk. Here is why | Richard Ndung'u | [Read More](https://medium.com/p/61695734d1cc) |
-| Thu, 15 May 2025 19:09:36 GMT | Code — Hack The Box — Write Up | Shacrony | [Read More](https://medium.com/p/e2d9f6773eb8) |
