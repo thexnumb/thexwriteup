@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 11:29:52 GMT | Simulating LLMNR poisoning attack in My Home AD Lab using Responder. | Mohammad Suleiman | [Read More](https://medium.com/p/bc7aa809abe3) |
+| Fri, 16 May 2025 11:26:40 GMT | Top 10 Open-Source Kubernetes Security Tools Every DevOps Engineer Needs in 2025 | Baivab Mukhopadhyay | [Read More](https://medium.com/p/b51e5fc6ad27) |
+| Fri, 16 May 2025 11:23:54 GMT | HTB Certified Active Directory Pentesting Expert (HTB CAPE) Study Notes & Guide | Motasem Hamdan | [Read More](https://medium.com/p/767458d77f77) |
+| Fri, 16 May 2025 11:23:29 GMT | Hackers Don’t Need to Be Smart — Just One Step Ahead of You | An0n | [Read More](https://medium.com/p/65cf321eaae9) |
+| Fri, 16 May 2025 11:18:20 GMT | Ultimate Guide to Becoming an AWS Cloud Practitioner in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/5a138d4bb2b4) |
+| Fri, 16 May 2025 11:16:57 GMT | Let Boys Be Boys! | Harbie's diary | [Read More](https://medium.com/p/42fef8aff6d4) |
 | Fri, 16 May 2025 11:02:49 GMT | Security Robots in Austria | Presslink Media | [Read More](https://medium.com/p/9e1121b68070) |
 | Fri, 16 May 2025 11:02:33 GMT | Shadows of the Leaked Secrets | Tales of Nyx | [Read More](https://medium.com/p/29998df62817) |
 | Fri, 16 May 2025 10:58:27 GMT | Data Remenence and Destruction Methods | Igor Berner | [Read More](https://medium.com/p/d66aadd99334) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 05:14:35 GMT | Cybersecurity for Little Companies: | Shanzy | [Read More](https://medium.com/p/bafa1e32c941) |
 | Fri, 16 May 2025 05:10:22 GMT | Famous Cyber Attacks and the Unavoidable Role of Logs in Their Resolution | Ertugrul Akbas | [Read More](https://medium.com/p/f0a74642e8fe) |
 | Fri, 16 May 2025 05:10:08 GMT | Don’t Scan That! QR Code Scams Are Spreading Fast | Suyash Jain | [Read More](https://medium.com/p/c15651d33480) |
-| Fri, 16 May 2025 05:07:14 GMT | FortiAuthenticator by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5bde1143c062) |
-| Fri, 16 May 2025 05:06:46 GMT | Site-to-Site VPN between Mikrotik router and Ubuntu 22.04 through strongSwan using IPsec IKEv2 | Bidhan Khatri | [Read More](https://medium.com/p/9d1a06257f89) |
-| Fri, 16 May 2025 05:03:57 GMT | AI Security Report: Deepfake and Data Poisoning Threats in Hong Kong | Breezy Business Channel | [Read More](https://medium.com/p/18dfb7d78bc9) |
-| Fri, 16 May 2025 05:02:36 GMT | $500 Bounty: Race Condition in Hacker101 CTF Group Join | Monika sharma | [Read More](https://medium.com/p/d7e84651bc5f) |
-| Fri, 16 May 2025 04:59:05 GMT | How a Simple Logic Flaw Led to a $3,250 Bounty | Monika sharma | [Read More](https://medium.com/p/476d747bf57a) |
-| Fri, 16 May 2025 04:58:05 GMT | From 0 to $$$: Finding Rate Limit Bypasses Like a Pro | BugBounty University | [Read More](https://medium.com/p/6baf92b6acad) |
