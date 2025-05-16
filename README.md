@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 21:22:34 GMT | Privacy-Aware Machine Learning: Homomorphic Encryption and Federated Learning | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7437156c019) |
+| Fri, 16 May 2025 21:15:42 GMT | X-Ray Vehicle Scanner systems | ropot | [Read More](https://medium.com/p/fd977263c0fe) |
 | Fri, 16 May 2025 21:10:28 GMT | Open Redirect via Base64-Encoded state Parameter in OAuth Flow (returnTo field) | Hussein Elturkey | [Read More](https://medium.com/p/42a0319ef296) |
+| Fri, 16 May 2025 21:10:23 GMT | Data for Dollars: How the Government Buys Your Data and Sidesteps the Fourth Amendment | mePrism Privacy | [Read More](https://medium.com/p/f2f2f9528414) |
 | Fri, 16 May 2025 21:08:08 GMT | Cybersecurity Consulting Services: The Smart Defense for Modern Businesses | Defend My Business | [Read More](https://medium.com/p/4b601f9b6afb) |
 | Fri, 16 May 2025 21:04:12 GMT | Behavioral Analytics in Cybersecurity: The Power of Knowing What “Normal” Looks Like | Travis Ray Caverhill | [Read More](https://medium.com/p/05991d4d976a) |
 | Fri, 16 May 2025 21:03:37 GMT | Hacking…… | Jenny Kyle | [Read More](https://medium.com/p/60de57b02de7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 15:12:33 GMT | Matter and Infineon Redefine Smart Home Security Standards | Mark Vena | [Read More](https://medium.com/p/c3f81940bea3) |
 | Fri, 16 May 2025 15:12:15 GMT | How I almost made $1000 from XSS bypass attribute | kunx90 | [Read More](https://medium.com/p/77d68f0bc33c) |
 | Fri, 16 May 2025 15:11:45 GMT | Disaster Recovery vs. Business Continuity: What IT Managed Services in Ontario Can Do for You | Zeta Sky | [Read More](https://medium.com/p/b225813a90c1) |
-| Fri, 16 May 2025 15:09:54 GMT | The Impact of IT Management Services in Ontario on Transport and Logistics Innovation | Zeta Sky | [Read More](https://medium.com/p/a52e9f48d554) |
-| Fri, 16 May 2025 15:09:38 GMT | Building Secure Software: A Practical Guide to the Security Development Lifecycle (SDL) | Abhishek Kumar Gupta | [Read More](https://medium.com/p/6d2eace77dbc) |
-| Fri, 16 May 2025 15:07:30 GMT | TryHackMe - Training Impact on Teams | thecaesar | [Read More](https://medium.com/p/0e68bfc312dc) |
