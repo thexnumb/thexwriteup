@@ -12,11 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 15:28:41 GMT | Getting Practical with eBPF: Supply Chain Threat Detection from Rootconf 25 | Suvvari Venkatasai | [Read More](https://medium.com/p/e15b4899ecbf) |
+| Fri, 16 May 2025 15:26:23 GMT | TRYHACKME: Pickle Rick | Prachiverma | [Read More](https://medium.com/p/620b4cfc2e9e) |
+| Fri, 16 May 2025 15:25:18 GMT | Threat Modeling & Security Design Review in SDL: Securing Software from the Start | Abhishek Kumar Gupta | [Read More](https://medium.com/p/f76ac480ef3d) |
+| Fri, 16 May 2025 15:25:01 GMT | CompTIA A+ - What and How? | Omar El Saadawy | [Read More](https://medium.com/p/45a2aff0405b) |
+| Fri, 16 May 2025 15:17:35 GMT | PII Leak via Email | Hossam Hamada | [Read More](https://medium.com/p/3ff4eb5199d9) |
 | Fri, 16 May 2025 15:16:38 GMT | CTF - Brute Force Login Cuma Modal Terminal Gak Perlu UI! | InREXnA | [Read More](https://medium.com/p/ddd455c4bf66) |
 | Fri, 16 May 2025 15:16:38 GMT | Master the Effective Learning capabilities: 7 Principles for Focused Learning and Growth | Huzaifa Malik | [Read More](https://medium.com/p/7e31a45b823d) |
+| Fri, 16 May 2025 15:12:33 GMT | Matter and Infineon Redefine Smart Home Security Standards | Mark Vena | [Read More](https://medium.com/p/c3f81940bea3) |
 | Fri, 16 May 2025 15:12:15 GMT | How I almost made $1000 from XSS bypass attribute | kunx90 | [Read More](https://medium.com/p/77d68f0bc33c) |
 | Fri, 16 May 2025 15:11:45 GMT | Disaster Recovery vs. Business Continuity: What IT Managed Services in Ontario Can Do for You | Zeta Sky | [Read More](https://medium.com/p/b225813a90c1) |
 | Fri, 16 May 2025 15:09:54 GMT | The Impact of IT Management Services in Ontario on Transport and Logistics Innovation | Zeta Sky | [Read More](https://medium.com/p/a52e9f48d554) |
+| Fri, 16 May 2025 15:09:38 GMT | Building Secure Software: A Practical Guide to the Security Development Lifecycle (SDL) | Abhishek Kumar Gupta | [Read More](https://medium.com/p/6d2eace77dbc) |
 | Fri, 16 May 2025 15:07:30 GMT | TryHackMe - Training Impact on Teams | thecaesar | [Read More](https://medium.com/p/0e68bfc312dc) |
 | Fri, 16 May 2025 15:06:01 GMT | Future-Proofing Your IT Career: Staying Relevant in a Rapidly Changing Industry | Tasktech Recruiters | [Read More](https://medium.com/p/41b1025e4579) |
 | Fri, 16 May 2025 15:05:27 GMT | Day 37 — Behind the Scenes of the Internet: How DHCP and DNS Power Your Online Experience | Agarwaldaksh | [Read More](https://medium.com/p/23eeef0ecfed) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 10:22:32 GMT | Smile because the world has no idea you are coming for it!!! | The Step Witch | [Read More](https://medium.com/p/754253309c86) |
 | Fri, 16 May 2025 10:15:22 GMT | Compliance vs Security — Why Combining Both Is Essential in 2025 | StrongBox IT | [Read More](https://medium.com/p/9d2252a8b04a) |
 | Fri, 16 May 2025 10:14:03 GMT | How to secure your app metrics from public access | Natalia Maltseva | [Read More](https://medium.com/p/3f499bdb0220) |
-| Fri, 16 May 2025 10:11:49 GMT | Bitcoin Key Management: Cryptographic Architecture, Signature Schemes, and Threat Mitigation | Michael P. Di Fulvio | [Read More](https://medium.com/p/bc5f1301d837) |
-| Fri, 16 May 2025 10:08:32 GMT | Coinbase Confronts Extortion Attempt, Commits to $400M in User Reimbursements After Insider Data… | Hunter Freeman | [Read More](https://medium.com/p/ea070b414605) |
-| Fri, 16 May 2025 10:07:54 GMT | Lab Report#10 — Golden Ticket Attack | Samet Koca | [Read More](https://medium.com/p/6aaf96649e9c) |
-| Fri, 16 May 2025 10:03:28 GMT | Best Field Force Management Software in India - Net Access India Limited | Anbarasans | [Read More](https://medium.com/p/c2aac9d81092) |
-| Fri, 16 May 2025 10:02:44 GMT | Designing Security That Doesn’t Feel Like Security | Solo Recon | [Read More](https://medium.com/p/8ed783f1903f) |
-| Fri, 16 May 2025 10:00:38 GMT | Top 10 IT Audit Firms in Dubai (2025) | Ameesh Abraham | [Read More](https://medium.com/p/30507c0a6b6e) |
-| Fri, 16 May 2025 09:53:06 GMT | Exposure-as-a-Vulnerability | Alexandra Tsamitrou | [Read More](https://medium.com/p/33ef53a19930) |
