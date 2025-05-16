@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 14:31:38 GMT | Living-off-the-COM: Type Coercion Abuse | Andrea Bocchetti | [Read More](https://medium.com/p/108f988bb00a) |
+| Fri, 16 May 2025 14:21:46 GMT | SecureComm: A Deep Dive into Dynamic Key Exchange, End-to-End Encryption, and ML-Powered Intrusion | Efipe | [Read More](https://medium.com/p/00815195e36a) |
+| Fri, 16 May 2025 14:21:24 GMT | What is a 3rd Party Audit? Types of Audits & Auditing Certification | Securis360 Inc. | [Read More](https://medium.com/p/1a450b996a48) |
+| Fri, 16 May 2025 14:15:48 GMT | There’s no guarantees. | Brittani B | [Read More](https://medium.com/p/442bf85c8d23) |
 | Fri, 16 May 2025 14:13:18 GMT | The Risk of Shadow SaaS: Tools Employees Use Without Telling IT | Bl@ckC!pH3r | [Read More](https://medium.com/p/2123076ccca0) |
 | Fri, 16 May 2025 14:13:18 GMT | The Hidden Shield: Security Features in Modern ERP Systems That Most Companies Ignore | Grade ERP | [Read More](https://medium.com/p/cd33e45e9e6c) |
 | Fri, 16 May 2025 14:11:13 GMT | ️‍♂️ Your Secrets Are NOT Safe — Unless You Speak Fluent Cryptography | Ravindu Hirimuthugoda | [Read More](https://medium.com/p/2fb23d770c5c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 09:02:56 GMT | The risks of S3 Object Lock — why you should block it if you don’t need it | Avi Keinan | [Read More](https://medium.com/p/9dbf7b43ec5f) |
 | Fri, 16 May 2025 08:59:24 GMT | Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel | FufuFafa | [Read More](https://medium.com/p/44f1da33e4fb) |
 | Fri, 16 May 2025 08:58:48 GMT | Imposter Syndrome in Cybersecurity: The Unfiltered Truth They Don’t Tell You | Nancy Muriithi | [Read More](https://medium.com/p/ef971b15a0d8) |
-| Fri, 16 May 2025 08:58:36 GMT | What’s Poppin’ in Web App Security? A Friendly Guide to the OWASP Top 10 | Prakhar Mathur | [Read More](https://medium.com/p/5de34aa8a8f4) |
-| Fri, 16 May 2025 08:57:37 GMT | How OAuth 2.0 and JWT Secure Modern Web Applications? | Priyansh Shah | [Read More](https://medium.com/p/5729d42760f1) |
-| Fri, 16 May 2025 08:57:21 GMT | TryHackMe Walkthrough: Intro to Offensive Security | Cipher D Luffy | [Read More](https://medium.com/p/39f08ff65de0) |
-| Fri, 16 May 2025 08:56:17 GMT | Phishing Attack using JavaScript | Oscar404 | [Read More](https://medium.com/p/545dbbafb423) |
