@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 17:05:40 GMT | Securing Your Mobile App: Key Habits for Building Trust and Protecting Data | Akshay Chauhan | [Read More](https://medium.com/p/ec20007b4e02) |
+| Fri, 16 May 2025 17:03:19 GMT | “I’m Still Spinning: A Mirrorball’s Story of Survival” | Amy Lloyd | [Read More](https://medium.com/p/804a9d112914) |
+| Fri, 16 May 2025 17:02:31 GMT | Offensive Security Training: Why Learning to Hack is Your Best Defense | C. Oscar Lawshea | [Read More](https://medium.com/p/984ab81872aa) |
+| Fri, 16 May 2025 17:02:29 GMT | AI Agents vs. Agentic AI | Tal Eliyahu | [Read More](https://medium.com/p/ecfc5d8f41b6) |
+| Fri, 16 May 2025 16:59:00 GMT | Preventing Crypto Scams: Key Strategies and Measures | ECOS | [Read More](https://medium.com/p/eaf492b4e9d4) |
+| Fri, 16 May 2025 16:54:26 GMT | What Is Cloud Computing? A Complete Guide for 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/9fb908ff9025) |
+| Fri, 16 May 2025 16:53:57 GMT | HTB Writeup: Dancing — SMB Enumeration & Exploitation | Mohamed Hamdi (Offensiv3) | [Read More](https://medium.com/p/7eb2f2cd2387) |
+| Fri, 16 May 2025 16:47:02 GMT | Customer’s Demanded That I Sign Their Agreement: Now We Go Beyond! | Michael Green | [Read More](https://medium.com/p/c49ab431d71d) |
+| Fri, 16 May 2025 16:43:48 GMT | What Is Network Security as a Service and Why Your Business Needs It | SafeAeon Inc. | [Read More](https://medium.com/p/be08f9cd6d28) |
 | Fri, 16 May 2025 16:29:22 GMT | 7 Advantages of Coding Brushup’s Cybersecurity Course | Coding Brushup | [Read More](https://medium.com/p/9e84249a3f50) |
 | Fri, 16 May 2025 16:26:39 GMT | What Is Cybersecurity? A Complete Guide to Digital Protection in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/3e86b23d8b1a) |
 | Fri, 16 May 2025 16:24:47 GMT | Protecting Data at Rest and in Transit: End-to-end, Link & Onion Encryption | Igor Berner | [Read More](https://medium.com/p/4800a7cf3eb5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 12:04:37 GMT | Tryhackme - OWASP Top Ten — 2017 - Day — 7 Cross-site Scripting - walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/94867fba9394) |
 | Fri, 16 May 2025 12:02:37 GMT | The AI Imperative: | Seb AGUELE | [Read More](https://medium.com/p/161f54efd9f5) |
 | Fri, 16 May 2025 12:02:30 GMT | The J-Curve of Self-Expression: How to Push Through the Dip and Find Your Flip | Sanjana Shukla | [Read More](https://medium.com/p/ab8f43c65b39) |
-| Fri, 16 May 2025 12:01:40 GMT | Privilege Escalation using (AlwaysInstallElevated) Feature in Windows | Ammar Ahmed | [Read More](https://medium.com/p/32f61babda49) |
-| Fri, 16 May 2025 11:45:43 GMT | Complete Guide to Setting Up OpenVPN for Hack The Box | Paqsmithgun | [Read More](https://medium.com/p/572ca9811ff3) |
-| Fri, 16 May 2025 11:44:12 GMT | Zero-Day Exploitation Accelerates Across Core Enterprise Infrastructure | Loginsoft | [Read More](https://medium.com/p/867b88513e3c) |
-| Fri, 16 May 2025 11:34:47 GMT | THM -> NMAP ROOM WALKTHROUGH [TASK1–7] | Chirag | [Read More](https://medium.com/p/1e790ecc4b83) |
-| Fri, 16 May 2025 11:33:06 GMT | Wireshark for beginners | Gopu Nair | [Read More](https://medium.com/p/9257d3cfcd72) |
-| Fri, 16 May 2025 11:32:52 GMT | Using AWS Transfer Family with GuardDuty for additional Malware Protection | Rachana Gupta | [Read More](https://medium.com/p/7594d5f45d89) |
-| Fri, 16 May 2025 11:32:08 GMT | Logs, Leaks, and Lessons: My Path into the World of Cybersecurity | RootedByAlwin | [Read More](https://medium.com/p/098b0ded568b) |
-| Fri, 16 May 2025 11:29:52 GMT | Simulating LLMNR poisoning attack in My Home AD Lab using Responder. | Mohammad Suleiman | [Read More](https://medium.com/p/bc7aa809abe3) |
-| Fri, 16 May 2025 11:26:40 GMT | Top 10 Open-Source Kubernetes Security Tools Every DevOps Engineer Needs in 2025 | Baivab Mukhopadhyay | [Read More](https://medium.com/p/b51e5fc6ad27) |
