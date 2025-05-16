@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 17:35:43 GMT | TryHackMe CTF Series- Walkthrough MR Robot CTF | HacksonAloysis | [Read More](https://medium.com/p/5de56a5bd3a1) |
+| Fri, 16 May 2025 17:34:59 GMT | The future of Cybersecurity with AI: Where Are We Headed? | Saumajit Malakar | [Read More](https://medium.com/p/3c2636711aa8) |
+| Fri, 16 May 2025 17:25:06 GMT | Light - TryHackMe Easy Box | Error | [Read More](https://medium.com/p/4bcf07b602ba) |
+| Fri, 16 May 2025 17:20:30 GMT | How To Undo Intune AppLocker CSPs | Miguel A. Calles | [Read More](https://medium.com/p/fd2e8b3dab14) |
 | Fri, 16 May 2025 17:05:40 GMT | Securing Your Mobile App: Key Habits for Building Trust and Protecting Data | Akshay Chauhan | [Read More](https://medium.com/p/ec20007b4e02) |
 | Fri, 16 May 2025 17:03:19 GMT | “I’m Still Spinning: A Mirrorball’s Story of Survival” | Amy Lloyd | [Read More](https://medium.com/p/804a9d112914) |
 | Fri, 16 May 2025 17:02:31 GMT | Offensive Security Training: Why Learning to Hack is Your Best Defense | C. Oscar Lawshea | [Read More](https://medium.com/p/984ab81872aa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 12:17:37 GMT | How to Launch an Etsy Store Using AI in a Weekend (No, You Don’t Need to Be a Pro) | Bl@ckC!pH3r | [Read More](https://medium.com/p/32e0c159370d) |
 | Fri, 16 May 2025 12:16:25 GMT | Json Web Token(JWT) nedir? | alperen ordukaya | [Read More](https://medium.com/p/2a4187368c4d) |
 | Fri, 16 May 2025 12:12:00 GMT | Complete AWS Online Training Course: Master Cloud Skills from AnywhereComplete AWS Online Training… | cyberwingITSolution | [Read More](https://medium.com/p/4363b8fe6253) |
-| Fri, 16 May 2025 12:10:56 GMT | Tryhackme - SSRF - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/88ee54c6b4aa) |
-| Fri, 16 May 2025 12:04:37 GMT | Tryhackme - OWASP Top Ten — 2017 - Day — 7 Cross-site Scripting - walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/94867fba9394) |
-| Fri, 16 May 2025 12:02:37 GMT | The AI Imperative: | Seb AGUELE | [Read More](https://medium.com/p/161f54efd9f5) |
-| Fri, 16 May 2025 12:02:30 GMT | The J-Curve of Self-Expression: How to Push Through the Dip and Find Your Flip | Sanjana Shukla | [Read More](https://medium.com/p/ab8f43c65b39) |
