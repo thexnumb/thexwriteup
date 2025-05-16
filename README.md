@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 11:02:49 GMT | Security Robots in Austria | Presslink Media | [Read More](https://medium.com/p/9e1121b68070) |
+| Fri, 16 May 2025 11:02:33 GMT | Shadows of the Leaked Secrets | Tales of Nyx | [Read More](https://medium.com/p/29998df62817) |
+| Fri, 16 May 2025 10:58:27 GMT | Data Remenence and Destruction Methods | Igor Berner | [Read More](https://medium.com/p/d66aadd99334) |
+| Fri, 16 May 2025 10:57:24 GMT | LetsDefend Malware Analysis Challenge — Soru Cevaplı Analiz | Selim Oguz Şahin | [Read More](https://medium.com/p/b10023271d8a) |
+| Fri, 16 May 2025 10:56:46 GMT | Nuki 3.0 and Nuki 3.0 Pro Smart Locks | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/9bc05bd200b6) |
+| Fri, 16 May 2025 10:53:25 GMT | The Rise of Tech Jobs in Sustainable Energy: A Bright Green Future. | Reapool | [Read More](https://medium.com/p/5bfb26892312) |
+| Fri, 16 May 2025 10:49:15 GMT | How Access Control Systems Are Transforming Security in 2025 | Joven A Rodrigues | [Read More](https://medium.com/p/c06980281846) |
+| Fri, 16 May 2025 10:48:41 GMT | HTB — Pandora Write-up | Nikita Astashenko | [Read More](https://medium.com/p/96b1de318380) |
+| Fri, 16 May 2025 10:47:34 GMT | Secure Your Node.js API Like a Bank Vault | Owali Ullah Shawon | [Read More](https://medium.com/p/287c4fa299bf) |
 | Fri, 16 May 2025 10:33:15 GMT | SQL Injection — OWASP Juiceshop #9 | DebianHat | [Read More](https://medium.com/p/990ba0f7bbf2) |
 | Fri, 16 May 2025 10:29:51 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/c1b74e7ca12b) |
 | Fri, 16 May 2025 10:23:29 GMT | INE — Exploiting Linux Vulnerabilities: Samba Recon: Dictionary Attack | Babatunde Ojo | [Read More](https://medium.com/p/2961d7470b48) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 05:02:36 GMT | $500 Bounty: Race Condition in Hacker101 CTF Group Join | Monika sharma | [Read More](https://medium.com/p/d7e84651bc5f) |
 | Fri, 16 May 2025 04:59:05 GMT | How a Simple Logic Flaw Led to a $3,250 Bounty | Monika sharma | [Read More](https://medium.com/p/476d747bf57a) |
 | Fri, 16 May 2025 04:58:05 GMT | From 0 to $$$: Finding Rate Limit Bypasses Like a Pro | BugBounty University | [Read More](https://medium.com/p/6baf92b6acad) |
-| Fri, 16 May 2025 04:57:37 GMT | Part-2️‍♂️Bug Bounty Secrets They Don’t Tell You: Tricks From 100+ Reported Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/46429520beb3) |
-| Fri, 16 May 2025 04:33:49 GMT | To Be Honest; Am I Creepy? If I am Vulnerable | Anjana Salame | [Read More](https://medium.com/p/9ae0d5104f6b) |
-| Fri, 16 May 2025 04:23:55 GMT | Login Page Testing Checklist: 11 Test Cases Every QA Should Know | Asher Hartwell | [Read More](https://medium.com/p/fd76d098bd2a) |
-| Fri, 16 May 2025 04:20:37 GMT | Day 4 of #60DaysofGRC — GRC & the Business Mission: It’s Bigger Than Compliance | Brittney Ginther | [Read More](https://medium.com/p/ec5a5aa754ce) |
-| Fri, 16 May 2025 04:09:17 GMT | never mine, nonetheless | minji | [Read More](https://medium.com/p/65e01e120a19) |
-| Fri, 16 May 2025 03:59:26 GMT | Secure Configuration Markers for Networking Devices | M. John | [Read More](https://medium.com/p/eb5adafcdb63) |
-| Fri, 16 May 2025 03:53:45 GMT | How HttpOnly and Secure Flags Help Prevent Session Hijacking and Session Fixation | Anandhu K | [Read More](https://medium.com/p/5d1222beeef2) |
-| Fri, 16 May 2025 03:31:47 GMT | XSS Part — 16 : Reflected XSS in canonical link tag | Ahmad Sopyan | [Read More](https://medium.com/p/599bf449af2f) |
-| Fri, 16 May 2025 03:23:19 GMT | Understanding Dependency Cycles in JavaScript Projects — And How to Catch Them with ESLint | Sajid Ali | [Read More](https://medium.com/p/1a4e9bc8d51a) |
