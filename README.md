@@ -12,11 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 04:20:37 GMT | Day 4 of #60DaysofGRC — GRC & the Business Mission: It’s Bigger Than Compliance | Brittney Ginther | [Read More](https://medium.com/p/ec5a5aa754ce) |
+| Fri, 16 May 2025 04:09:17 GMT | never mine, nonetheless | minji | [Read More](https://medium.com/p/65e01e120a19) |
+| Fri, 16 May 2025 03:59:26 GMT | Secure Configuration Markers for Networking Devices | M. John | [Read More](https://medium.com/p/eb5adafcdb63) |
 | Fri, 16 May 2025 03:53:45 GMT | How HttpOnly and Secure Flags Help Prevent Session Hijacking and Session Fixation | Anandhu K | [Read More](https://medium.com/p/5d1222beeef2) |
 | Fri, 16 May 2025 03:31:47 GMT | XSS Part — 16 : Reflected XSS in canonical link tag | Ahmad Sopyan | [Read More](https://medium.com/p/599bf449af2f) |
 | Fri, 16 May 2025 03:23:19 GMT | Understanding Dependency Cycles in JavaScript Projects — And How to Catch Them with ESLint | Sajid Ali | [Read More](https://medium.com/p/1a4e9bc8d51a) |
 | Fri, 16 May 2025 03:20:48 GMT | OWASP Top 10 Vulnerabilities — Detailed Guide with Examples & Fixes | Kamalmeet Singh | [Read More](https://medium.com/p/0b737ef5bb38) |
 | Fri, 16 May 2025 03:16:39 GMT | ⚡ Nmap Simple Tricks — Beginner to Pro in 60 Seconds | LazyHacker | [Read More](https://medium.com/p/8d75e9e3a35f) |
+| Fri, 16 May 2025 03:09:25 GMT | La era de los deepfakes: ¿Cómo protegernos de una mentira perfecta? | Jorge Alejandro Duarte del Castillo | [Read More](https://medium.com/p/99962b653862) |
 | Fri, 16 May 2025 03:08:27 GMT | MITRE Technique and Detection Opportunities — Operation ToyBox Story | MITRE Doggy | [Read More](https://medium.com/p/c309d6d2e70a) |
 | Fri, 16 May 2025 03:02:12 GMT | ThinkByte: Questions that keep me restless by day, sleepless by night… | Yogesh Parte, PhD | [Read More](https://medium.com/p/ab996809f5bb) |
 | Fri, 16 May 2025 02:58:47 GMT | Will AI Replace You? The Future of Cybersecurity Jobs! | MITRE Doggy | [Read More](https://medium.com/p/f9d557dd757e) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 18:23:04 GMT | Why Gen A.I. has become digital fentanyl: Emotional Disorientation — Part 4 | Jeff Carter | [Read More](https://medium.com/p/ea8f6e247e18) |
 | Thu, 15 May 2025 18:22:19 GMT | Nucor Cyberattack: American Steel Giant | IT_Engineer | [Read More](https://medium.com/p/374c172b4af0) |
 | Thu, 15 May 2025 18:12:39 GMT | How I Accidentally Left a Port Open on My Linux Server (And How I Caught It) | Faruk Ahmed | [Read More](https://medium.com/p/bffd2c052514) |
-| Thu, 15 May 2025 18:01:34 GMT | Title: | Mansoor A | [Read More](https://medium.com/p/1ae078aaa7bd) |
-| Thu, 15 May 2025 17:52:17 GMT | The “Unlimited Leave” Hack I Found at My College | Swarnim Bandekar | [Read More](https://medium.com/p/4c772df5f8e4) |
-| Thu, 15 May 2025 17:51:46 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/907c8e4996ac) |
-| Thu, 15 May 2025 17:43:50 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/0308400caeb7) |
