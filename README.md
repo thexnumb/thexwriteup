@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 12:39:26 GMT | Proof of Stake vs. Proof of Agreement: How Stellar Redefines Blockchain Security | Scopuly | [Read More](https://medium.com/p/735a74624459) |
+| Fri, 16 May 2025 12:25:14 GMT | Penetration Testing Needs to Go Beyond Compliance | Cybersectoworld | [Read More](https://medium.com/p/286d7bd8b945) |
+| Fri, 16 May 2025 12:22:33 GMT | Running AI Models Locally: My Journey with Deepseek, Ollama, Gradio and Google Colab | Mariem Jabloun | [Read More](https://medium.com/p/3d72aca77d83) |
+| Fri, 16 May 2025 12:17:37 GMT | How to Launch an Etsy Store Using AI in a Weekend (No, You Don’t Need to Be a Pro) | Bl@ckC!pH3r | [Read More](https://medium.com/p/32e0c159370d) |
+| Fri, 16 May 2025 12:16:25 GMT | Json Web Token(JWT) nedir? | alperen ordukaya | [Read More](https://medium.com/p/2a4187368c4d) |
+| Fri, 16 May 2025 12:12:00 GMT | Complete AWS Online Training Course: Master Cloud Skills from AnywhereComplete AWS Online Training… | cyberwingITSolution | [Read More](https://medium.com/p/4363b8fe6253) |
+| Fri, 16 May 2025 12:10:56 GMT | Tryhackme - SSRF - Walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/88ee54c6b4aa) |
+| Fri, 16 May 2025 12:04:37 GMT | Tryhackme - OWASP Top Ten — 2017 - Day — 7 Cross-site Scripting - walkthrough | Sudarshan Patel | [Read More](https://medium.com/p/94867fba9394) |
+| Fri, 16 May 2025 12:02:37 GMT | The AI Imperative: | Seb AGUELE | [Read More](https://medium.com/p/161f54efd9f5) |
+| Fri, 16 May 2025 12:02:30 GMT | The J-Curve of Self-Expression: How to Push Through the Dip and Find Your Flip | Sanjana Shukla | [Read More](https://medium.com/p/ab8f43c65b39) |
+| Fri, 16 May 2025 12:01:40 GMT | Privilege Escalation using (AlwaysInstallElevated) Feature in Windows | Ammar Ahmed | [Read More](https://medium.com/p/32f61babda49) |
+| Fri, 16 May 2025 11:45:43 GMT | Complete Guide to Setting Up OpenVPN for Hack The Box | Paqsmithgun | [Read More](https://medium.com/p/572ca9811ff3) |
+| Fri, 16 May 2025 11:44:12 GMT | Zero-Day Exploitation Accelerates Across Core Enterprise Infrastructure | Loginsoft | [Read More](https://medium.com/p/867b88513e3c) |
+| Fri, 16 May 2025 11:34:47 GMT | THM -> NMAP ROOM WALKTHROUGH [TASK1–7] | Chirag | [Read More](https://medium.com/p/1e790ecc4b83) |
+| Fri, 16 May 2025 11:33:06 GMT | Wireshark for beginners | Gopu Nair | [Read More](https://medium.com/p/9257d3cfcd72) |
+| Fri, 16 May 2025 11:32:52 GMT | Using AWS Transfer Family with GuardDuty for additional Malware Protection | Rachana Gupta | [Read More](https://medium.com/p/7594d5f45d89) |
+| Fri, 16 May 2025 11:32:08 GMT | Logs, Leaks, and Lessons: My Path into the World of Cybersecurity | RootedByAlwin | [Read More](https://medium.com/p/098b0ded568b) |
 | Fri, 16 May 2025 11:29:52 GMT | Simulating LLMNR poisoning attack in My Home AD Lab using Responder. | Mohammad Suleiman | [Read More](https://medium.com/p/bc7aa809abe3) |
 | Fri, 16 May 2025 11:26:40 GMT | Top 10 Open-Source Kubernetes Security Tools Every DevOps Engineer Needs in 2025 | Baivab Mukhopadhyay | [Read More](https://medium.com/p/b51e5fc6ad27) |
 | Fri, 16 May 2025 11:23:54 GMT | HTB Certified Active Directory Pentesting Expert (HTB CAPE) Study Notes & Guide | Motasem Hamdan | [Read More](https://medium.com/p/767458d77f77) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 06:50:30 GMT | Inside the Hacker’s Playbook: How SQL Injection Works and How to Defend Against It | Babar Ali Jamali | [Read More](https://medium.com/p/6f31710b9687) |
 | Fri, 16 May 2025 06:47:24 GMT | Why Fixing NPM Vulnerabilities Quickly Is Critical: Lessons from the Real World | Thomas Ender | [Read More](https://medium.com/p/9dc0dcf76702) |
 | Fri, 16 May 2025 06:38:27 GMT | $750 Bounty: From X-Forwarded-Host to Stored DOM XSS | Monika sharma | [Read More](https://medium.com/p/de0785adfe05) |
-| Fri, 16 May 2025 06:38:05 GMT | 38 Billion Devices. One Weak Password. How Safe Are You Really? | Noel | [Read More](https://medium.com/p/add1c1603509) |
-| Fri, 16 May 2025 06:34:10 GMT | When Red Wins Every Time: The Silent Crisis of Blue Team Stagnation | Dinesh Dino | [Read More](https://medium.com/p/eb27e01b98f4) |
-| Fri, 16 May 2025 06:31:19 GMT | Reliable and Professional Security Agency in Delhi | Internal security and manpower services | [Read More](https://medium.com/p/77c3db0ddd53) |
-| Fri, 16 May 2025 06:30:30 GMT | ️‍♂️ From Recon to Report: How I Approach Every Bug Bounty Target | Vipul Sonule | [Read More](https://medium.com/p/2663163148d5) |
-| Fri, 16 May 2025 06:21:19 GMT | The Future of Digital Data Security: Collaboration of Artificial Intelligence (AI) and Humans | Sydeco Indonesia | [Read More](https://medium.com/p/16d3bca9d1de) |
-| Fri, 16 May 2025 06:18:52 GMT | What is Crypto Shredding? | InfosecTrain | [Read More](https://medium.com/p/e1eb0efe2509) |
-| Fri, 16 May 2025 06:10:12 GMT | How to escalate a SQL injection if there is a strict WAF? | Deepak | [Read More](https://medium.com/p/2a7798bb769e) |
-| Fri, 16 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/66e4fd8b02c6) |
-| Fri, 16 May 2025 05:58:01 GMT | Understanding the Psychology Behind Social Engineering Attacks | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/11eb7daa8dbb) |
-| Fri, 16 May 2025 05:49:25 GMT | Understanding DORA Regulations in Switzerland: What Businesses Need to Know | Vytautas Nemunaitis | [Read More](https://medium.com/p/3482634fdbf7) |
-| Fri, 16 May 2025 05:38:31 GMT | Understanding SSRF: Real-World Exploitation of Server-Side Request Forgery | Shah kaif | [Read More](https://medium.com/p/792fadb3350f) |
-| Fri, 16 May 2025 05:23:18 GMT | Hackers roubam dados bancários de 30 mil australianos | Rodolfo A. Rodrigues | [Read More](https://medium.com/p/9c7cdc042a57) |
-| Fri, 16 May 2025 05:23:18 GMT | Microsoft Outlook Remote Code Execution Vulnerability (CVE-2025–32705): What You Need to Know and… | Infoziant | [Read More](https://medium.com/p/160163c08efd) |
-| Fri, 16 May 2025 05:16:42 GMT | Implementing Zero Trust across Hybrid IT Environments | Cloud4C Services | [Read More](https://medium.com/p/d31479e63c49) |
-| Fri, 16 May 2025 05:14:35 GMT | Cybersecurity for Little Companies: | Shanzy | [Read More](https://medium.com/p/bafa1e32c941) |
-| Fri, 16 May 2025 05:10:22 GMT | Famous Cyber Attacks and the Unavoidable Role of Logs in Their Resolution | Ertugrul Akbas | [Read More](https://medium.com/p/f0a74642e8fe) |
-| Fri, 16 May 2025 05:10:08 GMT | Don’t Scan That! QR Code Scams Are Spreading Fast | Suyash Jain | [Read More](https://medium.com/p/c15651d33480) |
