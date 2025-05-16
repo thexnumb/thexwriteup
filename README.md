@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 16:29:22 GMT | 7 Advantages of Coding Brushup’s Cybersecurity Course | Coding Brushup | [Read More](https://medium.com/p/9e84249a3f50) |
+| Fri, 16 May 2025 16:26:39 GMT | What Is Cybersecurity? A Complete Guide to Digital Protection in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/3e86b23d8b1a) |
+| Fri, 16 May 2025 16:24:47 GMT | Protecting Data at Rest and in Transit: End-to-end, Link & Onion Encryption | Igor Berner | [Read More](https://medium.com/p/4800a7cf3eb5) |
+| Fri, 16 May 2025 16:24:09 GMT | Internet Tarayici Güvenliği — 1 | Ataberk Cem Yücedağ | [Read More](https://medium.com/p/d56c455cc702) |
+| Fri, 16 May 2025 16:18:20 GMT | Pwn2Own Berlin 2025: Windows 11, Red Hat Linux, and VirtualBox Compromised on Day One. | eL Njas!™ | [Read More](https://medium.com/p/8b275672432b) |
+| Fri, 16 May 2025 16:17:26 GMT | Ink-sistent | Praise Ejiro | [Read More](https://medium.com/p/b7ce32b1d437) |
 | Fri, 16 May 2025 16:17:07 GMT | SOC112 — Traffic to Blacklisted IP | Cyril Philipp Abajar | [Read More](https://medium.com/p/f3554a2639fb) |
 | Fri, 16 May 2025 16:14:45 GMT | Stop Memorizing Interview Answers. Learn the Work Instead. | A D | [Read More](https://medium.com/p/7379304e1888) |
 | Fri, 16 May 2025 16:12:16 GMT | Node.js api OWASP | Chirag Kamat | [Read More](https://medium.com/p/e0ba29ace2b2) |
@@ -24,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 15:46:03 GMT | TryHackMe Walkthrough 02— Ice | Nicholas Abundis | [Read More](https://medium.com/p/9fa50f501860) |
 | Fri, 16 May 2025 15:43:45 GMT | How to Handle File Uploads with S3: My Approach vs. Common Practices | Pedro Igor Oliveira Silva | [Read More](https://medium.com/p/81432656c006) |
 | Fri, 16 May 2025 15:37:08 GMT | Why Reviewing Previous Audits Can Be So Stressful – And How to Fix It. | Gwen | [Read More](https://medium.com/p/e3fe94227be2) |
+| Fri, 16 May 2025 15:36:31 GMT | I sit behind these glassy walls, Where silence sings and teardrop falls, My shadow dances in… | Boluwatife Lash | [Read More](https://medium.com/p/7f55911f0e30) |
 | Fri, 16 May 2025 15:28:41 GMT | Getting Practical with eBPF: Supply Chain Threat Detection from Rootconf 25 | Suvvari Venkatasai | [Read More](https://medium.com/p/e15b4899ecbf) |
 | Fri, 16 May 2025 15:26:23 GMT | TRYHACKME: Pickle Rick | Prachiverma | [Read More](https://medium.com/p/620b4cfc2e9e) |
 | Fri, 16 May 2025 15:25:18 GMT | Threat Modeling & Security Design Review in SDL: Securing Software from the Start | Abhishek Kumar Gupta | [Read More](https://medium.com/p/f76ac480ef3d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 11:32:08 GMT | Logs, Leaks, and Lessons: My Path into the World of Cybersecurity | RootedByAlwin | [Read More](https://medium.com/p/098b0ded568b) |
 | Fri, 16 May 2025 11:29:52 GMT | Simulating LLMNR poisoning attack in My Home AD Lab using Responder. | Mohammad Suleiman | [Read More](https://medium.com/p/bc7aa809abe3) |
 | Fri, 16 May 2025 11:26:40 GMT | Top 10 Open-Source Kubernetes Security Tools Every DevOps Engineer Needs in 2025 | Baivab Mukhopadhyay | [Read More](https://medium.com/p/b51e5fc6ad27) |
-| Fri, 16 May 2025 11:23:54 GMT | HTB Certified Active Directory Pentesting Expert (HTB CAPE) Study Notes & Guide | Motasem Hamdan | [Read More](https://medium.com/p/767458d77f77) |
-| Fri, 16 May 2025 11:23:29 GMT | Hackers Don’t Need to Be Smart — Just One Step Ahead of You | An0n | [Read More](https://medium.com/p/65cf321eaae9) |
-| Fri, 16 May 2025 11:18:20 GMT | Ultimate Guide to Becoming an AWS Cloud Practitioner in 2025 | cyberwingITSolution | [Read More](https://medium.com/p/5a138d4bb2b4) |
-| Fri, 16 May 2025 11:16:57 GMT | Let Boys Be Boys! | Harbie's diary | [Read More](https://medium.com/p/42fef8aff6d4) |
-| Fri, 16 May 2025 11:02:49 GMT | Security Robots in Austria | Presslink Media | [Read More](https://medium.com/p/9e1121b68070) |
-| Fri, 16 May 2025 11:02:33 GMT | Shadows of the Leaked Secrets | Tales of Nyx | [Read More](https://medium.com/p/29998df62817) |
-| Fri, 16 May 2025 10:58:27 GMT | Data Remenence and Destruction Methods | Igor Berner | [Read More](https://medium.com/p/d66aadd99334) |
