@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 05:16:42 GMT | Implementing Zero Trust across Hybrid IT Environments | Cloud4C Services | [Read More](https://medium.com/p/d31479e63c49) |
+| Fri, 16 May 2025 05:10:08 GMT | Don’t Scan That! QR Code Scams Are Spreading Fast | Suyash Jain | [Read More](https://medium.com/p/c15651d33480) |
+| Fri, 16 May 2025 05:07:14 GMT | FortiAuthenticator by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5bde1143c062) |
+| Fri, 16 May 2025 05:06:46 GMT | Site-to-Site VPN between Mikrotik router and Ubuntu 22.04 through strongSwan using IPsec IKEv2 | Bidhan Khatri | [Read More](https://medium.com/p/9d1a06257f89) |
+| Fri, 16 May 2025 05:03:57 GMT | AI Security Report: Deepfake and Data Poisoning Threats in Hong Kong | Breezy Business Channel | [Read More](https://medium.com/p/18dfb7d78bc9) |
+| Fri, 16 May 2025 05:02:36 GMT | $500 Bounty: Race Condition in Hacker101 CTF Group Join | Monika sharma | [Read More](https://medium.com/p/d7e84651bc5f) |
+| Fri, 16 May 2025 04:59:05 GMT | How a Simple Logic Flaw Led to a $3,250 Bounty | Monika sharma | [Read More](https://medium.com/p/476d747bf57a) |
+| Fri, 16 May 2025 04:58:05 GMT | From 0 to $$$: Finding Rate Limit Bypasses Like a Pro | BugBounty University | [Read More](https://medium.com/p/6baf92b6acad) |
+| Fri, 16 May 2025 04:57:37 GMT | Part-2️‍♂️Bug Bounty Secrets They Don’t Tell You: Tricks From 100+ Reported Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/46429520beb3) |
 | Fri, 16 May 2025 04:33:49 GMT | To Be Honest; Am I Creepy? If I am Vulnerable | Anjana Salame | [Read More](https://medium.com/p/9ae0d5104f6b) |
 | Fri, 16 May 2025 04:23:55 GMT | Login Page Testing Checklist: 11 Test Cases Every QA Should Know | Asher Hartwell | [Read More](https://medium.com/p/fd76d098bd2a) |
 | Fri, 16 May 2025 04:20:37 GMT | Day 4 of #60DaysofGRC — GRC & the Business Mission: It’s Bigger Than Compliance | Brittney Ginther | [Read More](https://medium.com/p/ec5a5aa754ce) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 18:55:58 GMT | Mobil Uygulama İzinleri:Python ve SQL ile Analiz Ve Kodlama | Berfin Özay | [Read More](https://medium.com/p/cfa7adcd1fbc) |
 | Thu, 15 May 2025 18:55:48 GMT | Honeywell’s Quantinuum and Qatar’s Al Rabban Capital Forge $1 Billion Quantum Computing Joint… | QuantumGenie | [Read More](https://medium.com/p/4bb916103e9f) |
 | Thu, 15 May 2025 18:43:21 GMT | “We Caught Something… Now What?” The Cost of Not Knowing Your Next Move in Cybersecurity | Andrea Alaniz | [Read More](https://medium.com/p/44f869a40c82) |
-| Thu, 15 May 2025 18:41:09 GMT | Cyberkrieg: Warum die Bedrohung größer ist, als wir denken — Erkenntnisse vom World Economic Forum… | Benjamin Rohé | [Read More](https://medium.com/p/b42858331d2f) |
-| Thu, 15 May 2025 18:39:50 GMT | DER “AUSSCHALTER”– EIN KNOPFDRUCK, DER EUROPA ZUM STILLSTAND BRINGEN KÖNNTE! | Benjamin Rohé | [Read More](https://medium.com/p/50094a90a8da) |
-| Thu, 15 May 2025 18:38:12 GMT | Navigieren in der hybriden Bedrohungslandschaft | Benjamin Rohé | [Read More](https://medium.com/p/3f88a55dae61) |
-| Thu, 15 May 2025 18:36:46 GMT | NoSQL Injection Detection — A hands-on Exploitation Walkthrough | Aditya Bhatt | [Read More](https://medium.com/p/03aaa19dab70) |
-| Thu, 15 May 2025 18:35:26 GMT | Beyond Firewalls: Why True IT Security Starts with Visibility and Lifecycle Control | LJ - Your tech guy | [Read More](https://medium.com/p/0f77e2538d61) |
-| Thu, 15 May 2025 18:35:20 GMT | Cyber Protection: Why It Matters and How to Strengthen It in Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/fdc716656704) |
-| Thu, 15 May 2025 18:32:18 GMT | The Best Backup Strategies for WordPress in 2025 | Shubradeb | [Read More](https://medium.com/p/f327b55b715f) |
-| Thu, 15 May 2025 18:23:29 GMT | When Logs Become Lessons: Debugging My Way Through ELK and Life | Manish Rawat | [Read More](https://medium.com/p/f0cfb9e75249) |
-| Thu, 15 May 2025 18:23:04 GMT | Why Gen A.I. has become digital fentanyl: Emotional Disorientation — Part 4 | Jeff Carter | [Read More](https://medium.com/p/ea8f6e247e18) |
