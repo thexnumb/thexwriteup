@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 May 2025 04:33:49 GMT | To Be Honest; Am I Creepy? If I am Vulnerable | Anjana Salame | [Read More](https://medium.com/p/9ae0d5104f6b) |
+| Fri, 16 May 2025 04:23:55 GMT | Login Page Testing Checklist: 11 Test Cases Every QA Should Know | Asher Hartwell | [Read More](https://medium.com/p/fd76d098bd2a) |
 | Fri, 16 May 2025 04:20:37 GMT | Day 4 of #60DaysofGRC — GRC & the Business Mission: It’s Bigger Than Compliance | Brittney Ginther | [Read More](https://medium.com/p/ec5a5aa754ce) |
 | Fri, 16 May 2025 04:09:17 GMT | never mine, nonetheless | minji | [Read More](https://medium.com/p/65e01e120a19) |
 | Fri, 16 May 2025 03:59:26 GMT | Secure Configuration Markers for Networking Devices | M. John | [Read More](https://medium.com/p/eb5adafcdb63) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 May 2025 18:32:18 GMT | The Best Backup Strategies for WordPress in 2025 | Shubradeb | [Read More](https://medium.com/p/f327b55b715f) |
 | Thu, 15 May 2025 18:23:29 GMT | When Logs Become Lessons: Debugging My Way Through ELK and Life | Manish Rawat | [Read More](https://medium.com/p/f0cfb9e75249) |
 | Thu, 15 May 2025 18:23:04 GMT | Why Gen A.I. has become digital fentanyl: Emotional Disorientation — Part 4 | Jeff Carter | [Read More](https://medium.com/p/ea8f6e247e18) |
-| Thu, 15 May 2025 18:22:19 GMT | Nucor Cyberattack: American Steel Giant | IT_Engineer | [Read More](https://medium.com/p/374c172b4af0) |
-| Thu, 15 May 2025 18:12:39 GMT | How I Accidentally Left a Port Open on My Linux Server (And How I Caught It) | Faruk Ahmed | [Read More](https://medium.com/p/bffd2c052514) |
