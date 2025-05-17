@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 20:37:10 GMT | Unlocking Maltego: Your First Steps in Open Source Intelligence | Tirth Gohil | [Read More](https://medium.com/p/414b93bebe8f) |
+| Sat, 17 May 2025 20:27:57 GMT | I Turned ChatGPT Into A Hacker! | Tomer Wetzler | [Read More](https://medium.com/p/135529403d0e) |
+| Sat, 17 May 2025 20:26:47 GMT | Magma HN Milenage | Shubham Kumar | [Read More](https://medium.com/p/ac09516d1bf6) |
+| Sat, 17 May 2025 20:26:47 GMT | SSRF and SQL Injection | musayyab sharif | [Read More](https://medium.com/p/351416e27ce6) |
+| Sat, 17 May 2025 20:26:12 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/2ff47164f7b4) |
 | Sat, 17 May 2025 20:14:47 GMT | Gift - HackmyVM | Marcos Carmona | [Read More](https://medium.com/p/9828965da371) |
 | Sat, 17 May 2025 20:01:07 GMT | Reverse Engineering on Crackmes.one part 2 | Nuray | [Read More](https://medium.com/p/7c81f5546e61) |
 | Sat, 17 May 2025 19:58:34 GMT | Vulnerability. | healing reflections | [Read More](https://medium.com/p/f5e8f1a17811) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 12:57:53 GMT | Writing Pentest Reports - TryHackMe Walkthrough | CyferNest Sec | [Read More](https://medium.com/p/e9d001c49a0d) |
 | Sat, 17 May 2025 12:48:04 GMT | Lab Report#12 — Print Spooler NTLM Relaying | Samet Koca | [Read More](https://medium.com/p/8058bb2c18b1) |
 | Sat, 17 May 2025 12:47:32 GMT | From Silicon Valley to Courtroom Valley | Mike Broadly, DHSc | [Read More](https://medium.com/p/5160d3ecbf6b) |
-| Sat, 17 May 2025 12:43:02 GMT | Corporate Buck Breaking — The Professional Lynching of Black Men | Richardeinsteindavis | [Read More](https://medium.com/p/4ed93e6108ce) |
-| Sat, 17 May 2025 12:32:57 GMT | Cybersecurity Threats in 2025 | The United Indian | [Read More](https://medium.com/p/5e31fe678e4b) |
-| Sat, 17 May 2025 12:32:50 GMT | SWE-1: The First Family of Software Engineering Models | Taha Ex | [Read More](https://medium.com/p/6839423b753a) |
-| Sat, 17 May 2025 12:23:43 GMT | No SQL Injection — OWASP JuiceShop #10 | DebianHat | [Read More](https://medium.com/p/7e372701e673) |
-| Sat, 17 May 2025 12:20:52 GMT | Why Cybersecurity Support Services Are Critical for Australian Businesses in 2025 | william smith | [Read More](https://medium.com/p/2f569b5a326d) |
