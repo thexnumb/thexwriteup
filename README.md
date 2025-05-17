@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 23:32:27 GMT | Exploring the Core Domains of Cybersecurity | Ziad Tamer | [Read More](https://medium.com/p/ea5977e5d5f7) |
+| Sat, 17 May 2025 23:29:35 GMT | Why Digital Forensics Needs a New Playbook: Navigating Legal, Ethical, and Privacy Challenges | Talahkhan | [Read More](https://medium.com/p/3ce4bbc48cf1) |
+| Sat, 17 May 2025 23:06:10 GMT | Automating SOC Workflows: Integrating Wazuh Alerts with Express.js and AI | mas-mas 1/2 Jawa | [Read More](https://medium.com/p/52fe3792e972) |
 | Sat, 17 May 2025 22:45:47 GMT | Volt Typhoon: TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/6976ce06b7ae) |
 | Sat, 17 May 2025 22:28:43 GMT | A Path Down Linux Lane | Ace | [Read More](https://medium.com/p/3ba490cd93ef) |
 | Sat, 17 May 2025 22:28:21 GMT | SentryPC: The Ultimate Digital Monitoring & Control Solution for Families and Businesses | Brand Marketer | [Read More](https://medium.com/p/fbe4ddf2dfb9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 14:36:46 GMT | From Innovators to Consumers: A Concerning Shift | Atheel Haddad | [Read More](https://medium.com/p/cacbbef71d2e) |
 | Sat, 17 May 2025 14:23:58 GMT | The Gundremmingen Nuclear Plant Malware Incident: A Case Study on MITRE ATT&CK T0847 | om sonawane | [Read More](https://medium.com/p/21c488edb953) |
 | Sat, 17 May 2025 14:21:29 GMT | $10,500 Bounty: A Grammarly Account Takeover Vector | Monika sharma | [Read More](https://medium.com/p/974ef90fb00a) |
-| Sat, 17 May 2025 14:21:12 GMT | Top 17 Web Vulnerabilities You Must Know in 2025 | Vijay Kumar Gupta | [Read More](https://medium.com/p/3939f0bf0ea2) |
-| Sat, 17 May 2025 14:14:49 GMT | Writing Penetration Testing Reports: Turning Technical Findings into Business Action | Babar Ali Jamali | [Read More](https://medium.com/p/dcb1eb64449c) |
-| Sat, 17 May 2025 14:07:53 GMT | I need a hacker to recover my stolen bitcoin/usdt/eth with a crypto recovery expert -Crypto… | Robertjoness | [Read More](https://medium.com/p/3e76bdf7309f) |
