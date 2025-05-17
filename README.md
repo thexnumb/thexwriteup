@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 04:19:49 GMT | Introduction to Cyber Security Landscapes | Skills 4 Free Myanmar | [Read More](https://medium.com/p/1af21a56f9b4) |
+| Sat, 17 May 2025 04:19:39 GMT | How a Simple Host Header Injection Took Down the Forgot Password Page | ASC Lages | [Read More](https://medium.com/p/c4f7dd434532) |
+| Sat, 17 May 2025 04:01:40 GMT | Why Cybersecurity Needs to Think Like Agile: Embracing a Probabilistic Approach to Threat… | Felicien F. | [Read More](https://medium.com/p/b77b6becdec0) |
+| Sat, 17 May 2025 03:55:50 GMT | Java Overview: The Basics You Need to Know (Part 1) | Hari | [Read More](https://medium.com/p/2c600312389d) |
 | Sat, 17 May 2025 03:33:31 GMT | How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit… | Vikrant Ravindra Dete | [Read More](https://medium.com/p/4898e5033c31) |
 | Sat, 17 May 2025 03:32:33 GMT | Zero-Day Fallout: How a Hidden Flaw Exposed Thousands at Western Alliance Bank | Deven Chhajed | [Read More](https://medium.com/p/32de4d3ced38) |
 | Sat, 17 May 2025 02:57:10 GMT | 7 Key Cybersecurity Startup Competitions | Tal Eliyahu | [Read More](https://medium.com/p/77aa8d7b53f8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 17:34:59 GMT | The future of Cybersecurity with AI: Where Are We Headed? | Saumajit Malakar | [Read More](https://medium.com/p/3c2636711aa8) |
 | Fri, 16 May 2025 17:25:06 GMT | Light - TryHackMe Easy Box | Error | [Read More](https://medium.com/p/4bcf07b602ba) |
 | Fri, 16 May 2025 17:20:30 GMT | How To Undo Intune AppLocker CSPs | Miguel A. Calles | [Read More](https://medium.com/p/fd2e8b3dab14) |
-| Fri, 16 May 2025 17:05:40 GMT | Securing Your Mobile App: Key Habits for Building Trust and Protecting Data | Akshay Chauhan | [Read More](https://medium.com/p/ec20007b4e02) |
-| Fri, 16 May 2025 17:03:19 GMT | “I’m Still Spinning: A Mirrorball’s Story of Survival” | Amy Lloyd | [Read More](https://medium.com/p/804a9d112914) |
-| Fri, 16 May 2025 17:02:31 GMT | Offensive Security Training: Why Learning to Hack is Your Best Defense | C. Oscar Lawshea | [Read More](https://medium.com/p/984ab81872aa) |
-| Fri, 16 May 2025 17:02:29 GMT | AI Agents vs. Agentic AI | Tal Eliyahu | [Read More](https://medium.com/p/ecfc5d8f41b6) |
