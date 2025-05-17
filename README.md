@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 06:19:50 GMT | Residential vs. Commercial Security in Mumbai | United Guard Force India | [Read More](https://medium.com/p/9cde05bc9278) |
+| Sat, 17 May 2025 06:10:52 GMT | Quantum Computing: A New Era of Computation | Abdullah | [Read More](https://medium.com/p/a0fe3ce931f2) |
+| Sat, 17 May 2025 06:10:37 GMT | A Day in the Life of a Pentester…. Working With Gaming Companies or Applications!! | Gokuleswaran B | [Read More](https://medium.com/p/81e4c578f446) |
+| Sat, 17 May 2025 06:06:11 GMT | OWASP Pentest Series (1/12) | TheZeeshanKhan | [Read More](https://medium.com/p/9e43326c6304) |
+| Sat, 17 May 2025 06:05:19 GMT | Best Career Options After BCA or BSc IT in 2025 | Prism HRC | [Read More](https://medium.com/p/78f6aef38731) |
+| Sat, 17 May 2025 06:00:26 GMT | Today’s Top Cyber Intelligence Highlights — May 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/350b01958dd1) |
+| Sat, 17 May 2025 05:52:30 GMT | Reverse Engineering for Beginner | Rishav anand | [Read More](https://medium.com/p/0bf9b20542f7) |
+| Sat, 17 May 2025 05:51:38 GMT | The Hidden Attack Surface: Why Off-Chain Vulnerabilities Are Web3’s Unacknowledged Crisis | Abubakar zubair | [Read More](https://medium.com/p/492f5d546271) |
+| Sat, 17 May 2025 05:50:36 GMT | Master the Art: How Ethical Hackers Crack WiFi Networks (And How to Secure Yours) | Techyinsider | [Read More](https://medium.com/p/af296b4c8314) |
+| Sat, 17 May 2025 05:44:46 GMT | XSS Part — 17 : Reflected XSS into a JavaScript string with single quote and backslash escaped | Ahmad Sopyan | [Read More](https://medium.com/p/53a637ad28a9) |
+| Sat, 17 May 2025 05:44:44 GMT | How Secure Is My Password in 2025? Let’s Find Out Together! | Tahashaikhseo | [Read More](https://medium.com/p/3f17564617f4) |
+| Sat, 17 May 2025 05:42:28 GMT | The Linux Process Journey — psimon (Pressure Stall Information Monitoring) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a62bb563235b) |
+| Sat, 17 May 2025 05:35:17 GMT | I Discovered These Things After Hacking My Own Node.js App | Cloud Guru | [Read More](https://medium.com/p/cf693da33432) |
 | Sat, 17 May 2025 05:11:17 GMT | How to protect your online accounts from hacking? | Charleskerren | [Read More](https://medium.com/p/4b55332c7f0f) |
 | Sat, 17 May 2025 05:05:56 GMT | Why the Board Needs to Learn Cyber Too: Rethinking the CISO Conversation | JC Gaillard | [Read More](https://medium.com/p/3099f3c0463b) |
 | Sat, 17 May 2025 05:03:57 GMT | FortiSandbox by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77f7f3d30ff1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 18:55:47 GMT | Security Isn’t Just For Banks — It’s for Your App Too! | Laras Malahayati | [Read More](https://medium.com/p/35ab26bfa366) |
 | Fri, 16 May 2025 18:47:03 GMT | Why Backend Development Is About Security, Not Just Speed | NonCoderSuccess | [Read More](https://medium.com/p/188454b58593) |
 | Fri, 16 May 2025 18:44:34 GMT | Would anyone care if I died? | Icaria Zetis | [Read More](https://medium.com/p/ce7dbeb2b813) |
-| Fri, 16 May 2025 18:44:15 GMT | Cybersecurity Internships You Can Apply to Right Now — Don’t Miss These Opportunities | Babar Ali Jamali | [Read More](https://medium.com/p/0bf5e5d512b3) |
-| Fri, 16 May 2025 18:36:47 GMT | The 47-Day Clock: Will Your Medical Device Run Out of Time? | Medcrypt | [Read More](https://medium.com/p/1f29c407c072) |
-| Fri, 16 May 2025 18:34:37 GMT | Why Event Security Services in the UK Are More Important Than Ever | waeventservices.co.uk/ | [Read More](https://medium.com/p/eab8c29d38a1) |
-| Fri, 16 May 2025 18:34:04 GMT | APT28 Inception Theory - Tryhackme | Aaron | [Read More](https://medium.com/p/3bc9aaf172ea) |
-| Fri, 16 May 2025 18:32:08 GMT | Beating the 10 MB Wall: A Lean Guide to Large Uploads on AWS S3 | Yash Priyam | [Read More](https://medium.com/p/fe3dbf1f4d88) |
-| Fri, 16 May 2025 18:26:34 GMT | Way To Cookie Poisoning: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/738a7c13730a) |
-| Fri, 16 May 2025 18:25:43 GMT | Raed Ahsan Named Cybersecurity Researcher of the Year at Cysec MENA 2025 -Bahrain | Raed Ahsan | [Read More](https://medium.com/p/549ae5c6175f) |
-| Fri, 16 May 2025 18:24:37 GMT | Badger (Easy) PwnTillDawn Walkthrough. | 3L4CKCYBR_ | [Read More](https://medium.com/p/50670472cc33) |
-| Fri, 16 May 2025 18:20:13 GMT | Cybersecurity News Review — Week 20 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/93ae68821c55) |
-| Fri, 16 May 2025 18:15:44 GMT | Quantum Computing Meets Cancer Research: A New Frontier in Drug Discovery | QuantumGenie | [Read More](https://medium.com/p/21209927d40d) |
-| Fri, 16 May 2025 18:15:24 GMT | Day 6 — When Remote Services Became a Weapon: Inside PIPEDREAM / INCONTROLLER ICS Malware | om sonawane | [Read More](https://medium.com/p/2cad3a2ebce2) |
-| Fri, 16 May 2025 18:13:31 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/26908d381a9e) |
-| Fri, 16 May 2025 18:11:54 GMT | How Reddit Narrowly Escaped a Major Security Breach | Abdur Mowlana | [Read More](https://medium.com/p/bcb744dc069b) |
