@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 11:10:00 GMT | How I Found Stored HTML Injection in the Invite User Feature and Earned $300 | Whitehat | [Read More](https://medium.com/p/3f0d106a7960) |
+| Sat, 17 May 2025 11:07:03 GMT | The Hotel Was Booked — On the Moon. Thanks, Coordinate Bug. | pushedbynishtha | [Read More](https://medium.com/p/3071525ba01d) |
+| Sat, 17 May 2025 11:03:59 GMT | Fileless Malware is Back: How Remcos RAT Uses PowerShell, MSHTA, and LNK Files to Stay Hidden | CyDhaal | [Read More](https://medium.com/p/7fd479fb741a) |
+| Sat, 17 May 2025 10:55:22 GMT | PDTM(Project Discovery Tool Manager) | icybnd | [Read More](https://medium.com/p/770802ad0ce2) |
+| Sat, 17 May 2025 10:45:27 GMT | Tax Season Scams: How to Spot Fake IRS Emails (Before You Get Audited) | Ahmad Javed | [Read More](https://medium.com/p/7e72fa8c0af0) |
 | Sat, 17 May 2025 10:30:31 GMT | How I Crushed the eJPTv2 Exam - By Talha Khatib | Talha Khatib | [Read More](https://medium.com/p/9a492be19046) |
+| Sat, 17 May 2025 10:30:01 GMT | List of terms used in the field of hacking. | Yashthakkar | [Read More](https://medium.com/p/8271a548bd96) |
+| Sat, 17 May 2025 10:29:29 GMT | Comprehensive Guide to Android Security for Fintech Applications | Ahmed Ally | [Read More](https://medium.com/p/597a130c8dd8) |
 | Sat, 17 May 2025 10:22:58 GMT | How I Found the Most Weird Bug in the Bug Bounty Field — Is It Really Worth It… | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/d4b60c0352a8) |
 | Sat, 17 May 2025 10:20:09 GMT | Sun’iy Intellekt Chatbotlari: Ular nima va ish joyida qanday foydalanish mumkin? | Sarvar Nishonboyev | [Read More](https://medium.com/p/ae7cbb2c214c) |
 | Sat, 17 May 2025 10:18:10 GMT | INE — ePJT: Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Babatunde Ojo | [Read More](https://medium.com/p/509728beba57) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 02:32:29 GMT | ️ Zero Trust Security: Why Trust is No Longer a Default in Cybersecurity | Parth Patel | [Read More](https://medium.com/p/7be3cbc73d00) |
 | Sat, 17 May 2025 02:17:31 GMT | UNCLAIMED | kharrisonbooks | [Read More](https://medium.com/p/8ea6ac0b1faf) |
 | Sat, 17 May 2025 01:58:06 GMT | Threat Intel Diaries #0 — Starting the Hunt: Core Concepts Every Analyst Should Know | Karim Walid | [Read More](https://medium.com/p/839c5c2e9e08) |
-| Sat, 17 May 2025 01:57:49 GMT | 0 to First Bug: What I’d Do Differently If I Started Bug Bounty Today | Abhijeet Kumawat | [Read More](https://medium.com/p/126494ba7e52) |
-| Sat, 17 May 2025 01:30:36 GMT | Sovereign Digital Infrastructure: Bukan Sekadar Pusat Data Lokal | Ghozie Afiansyah | [Read More](https://medium.com/p/b1b0bcffb69e) |
-| Sat, 17 May 2025 01:29:03 GMT | The Role of AI in Next-Gen Vulnerability Management | Paritosh | [Read More](https://medium.com/p/f2988ace3de5) |
-| Sat, 17 May 2025 01:15:36 GMT | HackTheBox — Introduction to Windows Command Line Skill Assessment Walkthrough | Javier | [Read More](https://medium.com/p/daa57d6e716d) |
-| Sat, 17 May 2025 01:14:34 GMT | Breaking Down the Coinbase Insider Threat with MITRE ATT&CK: A GRC Perspective | Brittney Ginther | [Read More](https://medium.com/p/890d3568388c) |
-| Sat, 17 May 2025 01:00:19 GMT | Self-Compassion | Vesper Twilight | [Read More](https://medium.com/p/1f276131594a) |
-| Sat, 17 May 2025 00:44:28 GMT | How to Recover Stolen Crypto: Contact Scanner Hacker Crypto Recovery | Sophiamargret | [Read More](https://medium.com/p/685476bade45) |
