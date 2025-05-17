@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 08:33:45 GMT | From Curiosity to Exploits: My Cybersecurity Journey Begins | Nanditha H Bhat | [Read More](https://medium.com/p/edb811607092) |
+| Sat, 17 May 2025 08:28:30 GMT | Racing Against Time: Time Zone Truths and Automation Challenges in Power Platform | Man Of Truth | [Read More](https://medium.com/p/00086afde64f) |
+| Sat, 17 May 2025 08:26:07 GMT | Apple Security Unveiled: Why Apple’s Ecosystem Is One of the Safest | Serkan Kara | [Read More](https://medium.com/p/de11878d7062) |
+| Sat, 17 May 2025 08:16:56 GMT | TryHackMe Light: Full Walkthrough & SQL Injection Exploit | Aawart | [Read More](https://medium.com/p/1e25db316905) |
 | Sat, 17 May 2025 08:12:54 GMT | VAPT vs Bug Bounty: The Security Showdown Your Organization Needs to Know About | Atharva Deshmukh | [Read More](https://medium.com/p/fb555be0083f) |
 | Sat, 17 May 2025 08:10:11 GMT | NVIDIA vs AMD: Why This Tech War Is So Fun to Watch | Shahzaib Khan | [Read More](https://medium.com/p/a62493902a9d) |
 | Sat, 17 May 2025 08:10:07 GMT | Why Coinbase Faces Ongoing Security Challenges: A Detailed Look with ZachXBT’s Investigations | Cyberwithzik | [Read More](https://medium.com/p/ab199aa6de68) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 21:10:23 GMT | Data for Dollars: How the Government Buys Your Data and Sidesteps the Fourth Amendment | mePrism Privacy | [Read More](https://medium.com/p/f2f2f9528414) |
 | Fri, 16 May 2025 21:08:08 GMT | Cybersecurity Consulting Services: The Smart Defense for Modern Businesses | Defend My Business | [Read More](https://medium.com/p/4b601f9b6afb) |
 | Fri, 16 May 2025 21:04:12 GMT | Behavioral Analytics in Cybersecurity: The Power of Knowing What “Normal” Looks Like | Travis Ray Caverhill | [Read More](https://medium.com/p/05991d4d976a) |
-| Fri, 16 May 2025 21:03:37 GMT | Hacking…… | Jenny Kyle | [Read More](https://medium.com/p/60de57b02de7) |
-| Fri, 16 May 2025 21:02:29 GMT | The Human Factor in Cybersecurity | John Locke | [Read More](https://medium.com/p/a15e41a21b5f) |
-| Fri, 16 May 2025 21:01:12 GMT | Coinbase Hacked and Turns the Tables on the Cybercriminals! | Matthew.Rosenquist | [Read More](https://medium.com/p/7645a199f986) |
-| Fri, 16 May 2025 20:59:01 GMT | Cryptographic Realities for Medical Devices vs. Enterprise IT | Medcrypt | [Read More](https://medium.com/p/2958a58fb5c1) |
