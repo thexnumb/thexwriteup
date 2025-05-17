@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 17:25:40 GMT | Sharpening Command Injections to get Full RCE | Mostafa Alrefai | [Read More](https://medium.com/p/e4cf257d2c66) |
+| Sat, 17 May 2025 17:23:04 GMT | How Wiener’s Attack Breaks RSA When You Pick a Weak Private Key | M7 | [Read More](https://medium.com/p/7113fda6d969) |
+| Sat, 17 May 2025 17:16:45 GMT | APT35 Masquerades as European Modeling Agency in Targeted Espionage Operation | Jon C | [Read More](https://medium.com/p/596e89e27e79) |
+| Sat, 17 May 2025 17:12:18 GMT | I Might Have Just Found A Huge IOS App Exploit | HarryHTML | [Read More](https://medium.com/p/f615156cbe38) |
 | Sat, 17 May 2025 17:02:48 GMT | What Is IPTables In Linux | Mainekdeveloper | [Read More](https://medium.com/p/73f393c9dd7d) |
 | Sat, 17 May 2025 17:02:28 GMT | CyberTalents Certified Active Directory Penetration Tester (Writeup) | Amr Eid | [Read More](https://medium.com/p/c0df0e2f8579) |
 | Sat, 17 May 2025 17:02:05 GMT | Increase Your Earnings with ChainBounty $BOUNTY Staking Strategies | BOUNTY | [Read More](https://medium.com/p/a20ced5b7632) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 10:00:00 GMT | The Way To Recover Your Money from Mirrox | Mohammad Hunter | [Read More](https://medium.com/p/f0763ae30435) |
 | Sat, 17 May 2025 09:59:20 GMT | IPinfo Free Geolocation API: Tools, Setup & Use Cases | Pawan Jaiswal | [Read More](https://medium.com/p/f066e321448a) |
 | Sat, 17 May 2025 09:56:24 GMT | Mirrox Review 2025 - Reclaim what’s Yours Now. | Mohammad Hunter | [Read More](https://medium.com/p/efa023117690) |
-| Sat, 17 May 2025 09:51:18 GMT | The Text Message That Saved Us: A Lesson in Emotional Timing | J.S Writes ✨ | [Read More](https://medium.com/p/c0b5fa28246a) |
-| Sat, 17 May 2025 09:48:06 GMT | Configure DNS Firewall at VPC Level for Outbound DNS Filtering in AWS | S Karthik | [Read More](https://medium.com/p/ff8161dedafe) |
-| Sat, 17 May 2025 09:44:11 GMT | Introduction to Security Operations & Forensic Investigation Process | Igor Berner | [Read More](https://medium.com/p/0fd7ce542829) |
-| Sat, 17 May 2025 09:42:01 GMT | They’re proud because they can’t do it | Kakoli | [Read More](https://medium.com/p/eb69658c7360) |
