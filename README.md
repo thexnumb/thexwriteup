@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 09:11:13 GMT | TryHackMe CTFs series Walkthoroughs | HacksonAloysis | [Read More](https://medium.com/p/ce3f37c324f7) |
+| Sat, 17 May 2025 09:09:30 GMT | Massive Steam Leak: 89 Million Accounts’ Data Circulating on Dark Web — Change Your Password Today | Karthick Ganapathy | [Read More](https://medium.com/p/18eaa9913a6f) |
+| Sat, 17 May 2025 08:50:12 GMT | This One Tool Changed My Hacking Workflow: Meet Proxify | Chintala Taraka Ram | [Read More](https://medium.com/p/e42d2f3ba0ca) |
+| Sat, 17 May 2025 08:44:28 GMT | From IDOR to Admin Door: The Bug That Opened Everything | Dinesh Narasimhan | [Read More](https://medium.com/p/9479b4185c05) |
 | Sat, 17 May 2025 08:33:45 GMT | From Curiosity to Exploits: My Cybersecurity Journey Begins | Nanditha H Bhat | [Read More](https://medium.com/p/edb811607092) |
 | Sat, 17 May 2025 08:28:30 GMT | Racing Against Time: Time Zone Truths and Automation Challenges in Power Platform | Man Of Truth | [Read More](https://medium.com/p/00086afde64f) |
 | Sat, 17 May 2025 08:26:07 GMT | Apple Security Unveiled: Why Apple’s Ecosystem Is One of the Safest | Serkan Kara | [Read More](https://medium.com/p/de11878d7062) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 21:46:34 GMT | 09336049669 | 3 | [Read More](https://medium.com/p/b26ddf053884) |
 | Fri, 16 May 2025 21:22:34 GMT | Privacy-Aware Machine Learning: Homomorphic Encryption and Federated Learning | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7437156c019) |
 | Fri, 16 May 2025 21:15:42 GMT | X-Ray Vehicle Scanner systems | ropot | [Read More](https://medium.com/p/fd977263c0fe) |
-| Fri, 16 May 2025 21:10:28 GMT | Open Redirect via Base64-Encoded state Parameter in OAuth Flow (returnTo field) | Hussein Elturkey | [Read More](https://medium.com/p/42a0319ef296) |
-| Fri, 16 May 2025 21:10:23 GMT | Data for Dollars: How the Government Buys Your Data and Sidesteps the Fourth Amendment | mePrism Privacy | [Read More](https://medium.com/p/f2f2f9528414) |
-| Fri, 16 May 2025 21:08:08 GMT | Cybersecurity Consulting Services: The Smart Defense for Modern Businesses | Defend My Business | [Read More](https://medium.com/p/4b601f9b6afb) |
-| Fri, 16 May 2025 21:04:12 GMT | Behavioral Analytics in Cybersecurity: The Power of Knowing What “Normal” Looks Like | Travis Ray Caverhill | [Read More](https://medium.com/p/05991d4d976a) |
