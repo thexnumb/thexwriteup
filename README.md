@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 07:30:42 GMT | How to Serialize and Deserialize Any Cookie in .NET | Richard Nwonah | [Read More](https://medium.com/p/827e696f72f6) |
+| Sat, 17 May 2025 07:29:11 GMT | Mutillidae Uncovered: Exploiting XSS for Beginners (Metasploitable 2 Lab) | Jai Bhattachhary | [Read More](https://medium.com/p/a5cb66890b89) |
+| Sat, 17 May 2025 07:22:11 GMT | Lights, Camera, Security! Protecting Your Film’s Digital Assets | Joseph Desmond Cruel | [Read More](https://medium.com/p/c8197309cf28) |
+| Sat, 17 May 2025 07:17:35 GMT | How Cyber Security Consulting Services Can Save You from Costly Data Breaches | Noblehackers                   The Noble Hackers | [Read More](https://medium.com/p/884f36993c4c) |
 | Sat, 17 May 2025 07:14:35 GMT | My First Bug Bounty: How I Earned $1,000 | Kailasv | [Read More](https://medium.com/p/4ae2bf36039d) |
 | Sat, 17 May 2025 07:05:12 GMT | Cybersecurity in the Workplace: How to Protect Sensitive Employee Data | Our Business Ladder | [Read More](https://medium.com/p/35215e4bf139) |
 | Sat, 17 May 2025 07:04:26 GMT | How a Small Clue Stopped a Biggest Cyber-attack | Ankit Cloudiops | [Read More](https://medium.com/p/03958692234a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 19:43:13 GMT | Pivoting (Chisel) | S4ntiHack | [Read More](https://medium.com/p/fa6dfc0ec029) |
 | Fri, 16 May 2025 19:41:16 GMT | Journey to Cybersecurity Day 2 — More Controls! | Cyber Muslim Girl | [Read More](https://medium.com/p/f85a7cf658b3) |
 | Fri, 16 May 2025 19:37:47 GMT | Confessions of a Home Lab Junkie: Adventures in DIY Tech, Part 2 | Justin Crawford | [Read More](https://medium.com/p/0d3c2e1dd521) |
-| Fri, 16 May 2025 19:32:45 GMT | .hack//Roots: Sanal Dünyada Yalnızlığın Anatomisi | Talha Özcan | [Read More](https://medium.com/p/f2e7b3deef89) |
-| Fri, 16 May 2025 19:31:28 GMT | Demonized Caching | Nnamdi Michael Okpala | [Read More](https://medium.com/p/070331d21750) |
-| Fri, 16 May 2025 19:27:00 GMT | Learning to slow down before I disappear | Fragmented.__.Thoughts | [Read More](https://medium.com/p/d14a0e636966) |
-| Fri, 16 May 2025 19:21:50 GMT | Is Your Vibe Coding Pain Caused By Hidden Error Messages? | Teri Radichel | [Read More](https://medium.com/p/1f1b7857b837) |
