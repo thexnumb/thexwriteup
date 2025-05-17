@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 02:57:10 GMT | 7 Key Cybersecurity Startup Competitions | Tal Eliyahu | [Read More](https://medium.com/p/77aa8d7b53f8) |
+| Sat, 17 May 2025 02:44:24 GMT | Cybercriminals Masquerade Malware as Microsoft Edge to Gain Remote Access | current.cybersecurity | [Read More](https://medium.com/p/0cd0e960ae3f) |
+| Sat, 17 May 2025 02:32:29 GMT | ️ Zero Trust Security: Why Trust is No Longer a Default in Cybersecurity | Parth Patel | [Read More](https://medium.com/p/7be3cbc73d00) |
+| Sat, 17 May 2025 02:17:31 GMT | UNCLAIMED | kharrisonbooks | [Read More](https://medium.com/p/8ea6ac0b1faf) |
+| Sat, 17 May 2025 01:58:06 GMT | Threat Intel Diaries #0 — Starting the Hunt: Core Concepts Every Analyst Should Know | Karim Walid | [Read More](https://medium.com/p/839c5c2e9e08) |
+| Sat, 17 May 2025 01:57:49 GMT | 0 to First Bug: What I’d Do Differently If I Started Bug Bounty Today | Abhijeet Kumawat | [Read More](https://medium.com/p/126494ba7e52) |
 | Sat, 17 May 2025 01:30:36 GMT | Sovereign Digital Infrastructure: Bukan Sekadar Pusat Data Lokal | Ghozie Afiansyah | [Read More](https://medium.com/p/b1b0bcffb69e) |
 | Sat, 17 May 2025 01:29:03 GMT | The Role of AI in Next-Gen Vulnerability Management | Paritosh | [Read More](https://medium.com/p/f2988ace3de5) |
 | Sat, 17 May 2025 01:15:36 GMT | HackTheBox — Introduction to Windows Command Line Skill Assessment Walkthrough | Javier | [Read More](https://medium.com/p/daa57d6e716d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 17:02:29 GMT | AI Agents vs. Agentic AI | Tal Eliyahu | [Read More](https://medium.com/p/ecfc5d8f41b6) |
 | Fri, 16 May 2025 16:59:00 GMT | Preventing Crypto Scams: Key Strategies and Measures | ECOS | [Read More](https://medium.com/p/eaf492b4e9d4) |
 | Fri, 16 May 2025 16:54:26 GMT | What Is Cloud Computing? A Complete Guide for 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/9fb908ff9025) |
-| Fri, 16 May 2025 16:53:57 GMT | HTB Writeup: Dancing — SMB Enumeration & Exploitation | Mohamed Hamdi (Offensiv3) | [Read More](https://medium.com/p/7eb2f2cd2387) |
-| Fri, 16 May 2025 16:47:02 GMT | Customer’s Demanded That I Sign Their Agreement: Now We Go Beyond! | Michael Green | [Read More](https://medium.com/p/c49ab431d71d) |
-| Fri, 16 May 2025 16:43:48 GMT | What Is Network Security as a Service and Why Your Business Needs It | SafeAeon Inc. | [Read More](https://medium.com/p/be08f9cd6d28) |
-| Fri, 16 May 2025 16:29:22 GMT | 7 Advantages of Coding Brushup’s Cybersecurity Course | Coding Brushup | [Read More](https://medium.com/p/9e84249a3f50) |
-| Fri, 16 May 2025 16:26:39 GMT | What Is Cybersecurity? A Complete Guide to Digital Protection in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/3e86b23d8b1a) |
-| Fri, 16 May 2025 16:24:47 GMT | Protecting Data at Rest and in Transit: End-to-end, Link & Onion Encryption | Igor Berner | [Read More](https://medium.com/p/4800a7cf3eb5) |
