@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 16:39:32 GMT | Hack The Box Sherlocks “Trojan” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/1a568b9caac9) |
+| Sat, 17 May 2025 16:35:56 GMT | Soft Doesn’t Mean Weak | Hajara Farwin | [Read More](https://medium.com/p/149d9f4b2b36) |
+| Sat, 17 May 2025 16:34:16 GMT | Ubuntu Server Hardening Guide (Automated with Ansible + AWS Cloud Formation) | Parthraj Gohil | [Read More](https://medium.com/p/c0f7570998e7) |
+| Sat, 17 May 2025 16:18:08 GMT | Beginner’s Guide to Cybersecurity in 2025 | Naem Azam Chowdhury | [Read More](https://medium.com/p/58eab132cb8b) |
 | Sat, 17 May 2025 16:12:55 GMT | How I Took Admin Account via JWT Bypass | Dharanis | [Read More](https://medium.com/p/5bed37a8e7ac) |
 | Sat, 17 May 2025 16:09:05 GMT | What are the opportunities brought and ethical issues that arise from the growing use of digital… | Sara Garcia | [Read More](https://medium.com/p/39da46944716) |
 | Sat, 17 May 2025 16:08:19 GMT | How t Resolve “Installing the Base System” Errors in Kali Linux | khalid Hussain | [Read More](https://medium.com/p/f601a0396c22) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 08:44:28 GMT | From IDOR to Admin Door: The Bug That Opened Everything | Dinesh Narasimhan | [Read More](https://medium.com/p/9479b4185c05) |
 | Sat, 17 May 2025 08:33:45 GMT | From Curiosity to Exploits: My Cybersecurity Journey Begins | Nanditha H Bhat | [Read More](https://medium.com/p/edb811607092) |
 | Sat, 17 May 2025 08:28:30 GMT | Racing Against Time: Time Zone Truths and Automation Challenges in Power Platform | Man Of Truth | [Read More](https://medium.com/p/00086afde64f) |
-| Sat, 17 May 2025 08:26:07 GMT | Apple Security Unveiled: Why Apple’s Ecosystem Is One of the Safest | Serkan Kara | [Read More](https://medium.com/p/de11878d7062) |
-| Sat, 17 May 2025 08:16:56 GMT | TryHackMe Light: Full Walkthrough & SQL Injection Exploit | Aawart | [Read More](https://medium.com/p/1e25db316905) |
-| Sat, 17 May 2025 08:12:54 GMT | VAPT vs Bug Bounty: The Security Showdown Your Organization Needs to Know About | Atharva Deshmukh | [Read More](https://medium.com/p/fb555be0083f) |
-| Sat, 17 May 2025 08:10:11 GMT | NVIDIA vs AMD: Why This Tech War Is So Fun to Watch | Shahzaib Khan | [Read More](https://medium.com/p/a62493902a9d) |
