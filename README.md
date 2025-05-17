@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 19:06:57 GMT | Bug Bounty desde Cero: De la Curiosidad al Primer Hallazgo | Cami Bertolani | [Read More](https://medium.com/p/6642e3944764) |
+| Sat, 17 May 2025 18:55:39 GMT | IBM Cybersecurity Analyst Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/6c7bae82bee7) |
+| Sat, 17 May 2025 18:54:55 GMT | Splunk Looked Unbeatable — Until I Made It Kneel | Manish Rawat | [Read More](https://medium.com/p/c313798d24f1) |
+| Sat, 17 May 2025 18:53:57 GMT | US Charges 12 Suspects in $230M Crypto Theft | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/440be1a1119d) |
+| Sat, 17 May 2025 18:53:53 GMT | Pen Testing My Own LLM API — Mischief Managed! | Kyo | [Read More](https://medium.com/p/7b148ee3fd93) |
+| Sat, 17 May 2025 18:44:02 GMT | CVE-2023–22515 affects certain versions of Atlassian Confluence Data Center and Server, enabling… | Harshprajapati | [Read More](https://medium.com/p/867c8f39aed6) |
 | Sat, 17 May 2025 18:40:30 GMT | پلاتفۆرمی پەروەردەیی بەغداد هـــ*ـاک کرا لەلایەن تیمی ئایکورد بلیتز، کە سەکۆیەکی پەروەردەیی… | Hacker News | [Read More](https://medium.com/p/f8a8a6b7b46a) |
 | Sat, 17 May 2025 18:32:55 GMT | “Wait… You’re Using .env Files in Flutter for Secrets?” Let’s Talk Before It’s Too Late | Md. Al-Amin | [Read More](https://medium.com/p/0b622ee28db6) |
 | Sat, 17 May 2025 18:25:14 GMT | Ultimate Guide to Implementing NIST CSF 2.0: Compliance and Tools | Oleh Dubetcky | [Read More](https://medium.com/p/564b55bed4fd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 11:16:46 GMT | Breaking and Securing Rate Limits: A Professional’s Guide | AkashSharma | [Read More](https://medium.com/p/188fb394260b) |
 | Sat, 17 May 2025 11:13:36 GMT | How to Set Up GDB for Debugging Android Apps | Sandeep Wawdane | [Read More](https://medium.com/p/0f9f94ec337e) |
 | Sat, 17 May 2025 11:10:00 GMT | How I Found Stored HTML Injection in the Invite User Feature and Earned $300 | Whitehat | [Read More](https://medium.com/p/3f0d106a7960) |
-| Sat, 17 May 2025 11:07:23 GMT | HTB - Linux foundations — Filter Contents writeup | Shubham Khanna | [Read More](https://medium.com/p/8c4379464a9f) |
-| Sat, 17 May 2025 11:07:03 GMT | The Hotel Was Booked — On the Moon. Thanks, Coordinate Bug. | pushedbynishtha | [Read More](https://medium.com/p/3071525ba01d) |
-| Sat, 17 May 2025 11:06:05 GMT | for me. maybe for you too. | bits of dia | [Read More](https://medium.com/p/9ce4f991d050) |
-| Sat, 17 May 2025 11:03:59 GMT | Fileless Malware is Back: How Remcos RAT Uses PowerShell, MSHTA, and LNK Files to Stay Hidden | CyDhaal | [Read More](https://medium.com/p/7fd479fb741a) |
-| Sat, 17 May 2025 10:55:22 GMT | PDTM(Project Discovery Tool Manager) | icybnd | [Read More](https://medium.com/p/770802ad0ce2) |
-| Sat, 17 May 2025 10:45:27 GMT | Tax Season Scams: How to Spot Fake IRS Emails (Before You Get Audited) | Ahmad Javed | [Read More](https://medium.com/p/7e72fa8c0af0) |
