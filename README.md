@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 17:02:48 GMT | What Is IPTables In Linux | Mainekdeveloper | [Read More](https://medium.com/p/73f393c9dd7d) |
+| Sat, 17 May 2025 17:02:28 GMT | CyberTalents Certified Active Directory Penetration Tester (Writeup) | Amr Eid | [Read More](https://medium.com/p/c0df0e2f8579) |
+| Sat, 17 May 2025 17:02:05 GMT | Increase Your Earnings with ChainBounty $BOUNTY Staking Strategies | BOUNTY | [Read More](https://medium.com/p/a20ced5b7632) |
+| Sat, 17 May 2025 16:57:01 GMT | Comprehensive Guide to MDM, MAM, and XDR Using Microsoft Intune: Part 1 | ThamizhElango Natarajan | [Read More](https://medium.com/p/6e1ff9f4de83) |
+| Sat, 17 May 2025 16:56:19 GMT | Where AI Meets Cybersecurity Risk Assessment | Kino | [Read More](https://medium.com/p/db10912cbd94) |
+| Sat, 17 May 2025 16:55:58 GMT | Comprehensive Guide to MDM, MAM, and XDR Using Microsoft Intune: Part 2 | ThamizhElango Natarajan | [Read More](https://medium.com/p/5cf0debaf6b6) |
+| Sat, 17 May 2025 16:55:21 GMT | Smart Style: How Wearable Tech Is Redefining Fashion and Privacy | Jayden Lyons | [Read More](https://medium.com/p/3d00d4fb2614) |
+| Sat, 17 May 2025 16:54:52 GMT | Digital Anonymity vs. Digital Forensics: The Eternal Battle in Cyberspace | Barry Sahya | [Read More](https://medium.com/p/0a02d991883e) |
+| Sat, 17 May 2025 16:45:10 GMT | Cyber! Take your dadgum Medicine! | Evan Powell | [Read More](https://medium.com/p/c55f5c3856c1) |
+| Sat, 17 May 2025 16:42:50 GMT | Reverse Engineering on Crackmes.one | Nuray | [Read More](https://medium.com/p/80ea4db5074e) |
+| Sat, 17 May 2025 16:40:50 GMT | The Role of GitHub Advanced Security in Conjunction with GitHub Copilot | Bhavannarayan | [Read More](https://medium.com/p/5ca152b3f093) |
 | Sat, 17 May 2025 16:39:32 GMT | Hack The Box Sherlocks “Trojan” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/1a568b9caac9) |
 | Sat, 17 May 2025 16:35:56 GMT | Soft Doesn’t Mean Weak | Hajara Farwin | [Read More](https://medium.com/p/149d9f4b2b36) |
 | Sat, 17 May 2025 16:34:16 GMT | Ubuntu Server Hardening Guide (Automated with Ansible + AWS Cloud Formation) | Parthraj Gohil | [Read More](https://medium.com/p/c0f7570998e7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 09:48:06 GMT | Configure DNS Firewall at VPC Level for Outbound DNS Filtering in AWS | S Karthik | [Read More](https://medium.com/p/ff8161dedafe) |
 | Sat, 17 May 2025 09:44:11 GMT | Introduction to Security Operations & Forensic Investigation Process | Igor Berner | [Read More](https://medium.com/p/0fd7ce542829) |
 | Sat, 17 May 2025 09:42:01 GMT | They’re proud because they can’t do it | Kakoli | [Read More](https://medium.com/p/eb69658c7360) |
-| Sat, 17 May 2025 09:39:31 GMT | Metasploitable2: The Complete Annihilation Guide [Part 1: Introduction] | Armaan Mulla | [Read More](https://medium.com/p/f1c9b0544a30) |
-| Sat, 17 May 2025 09:36:03 GMT | It Was Supposed to Be SSTI.. But CSTI Had Other Plans | Rahul M S | [Read More](https://medium.com/p/9368bbd8375c) |
-| Sat, 17 May 2025 09:32:04 GMT | To the Friend Who Never Came — a Heartfelt Letter | Sherene Jensen | [Read More](https://medium.com/p/164823c8e1b9) |
-| Sat, 17 May 2025 09:24:56 GMT | 5 Guiding Principles for Trustworthy Tech Leadership in 2025 and Beyond | Les Ottolenghi | [Read More](https://medium.com/p/cd266a319f64) |
-| Sat, 17 May 2025 09:22:13 GMT | The Scroll That Stole Childhood | tanishka singh | [Read More](https://medium.com/p/3c80574919f8) |
-| Sat, 17 May 2025 09:11:13 GMT | TryHackMe CTFs series Walkthoroughs | HacksonAloysis | [Read More](https://medium.com/p/ce3f37c324f7) |
-| Sat, 17 May 2025 09:09:30 GMT | Massive Steam Leak: 89 Million Accounts’ Data Circulating on Dark Web — Change Your Password Today | Karthick Ganapathy | [Read More](https://medium.com/p/18eaa9913a6f) |
-| Sat, 17 May 2025 08:50:12 GMT | This One Tool Changed My Hacking Workflow: Meet Proxify | Chintala Taraka Ram | [Read More](https://medium.com/p/e42d2f3ba0ca) |
-| Sat, 17 May 2025 08:44:28 GMT | From IDOR to Admin Door: The Bug That Opened Everything | Dinesh Narasimhan | [Read More](https://medium.com/p/9479b4185c05) |
-| Sat, 17 May 2025 08:33:45 GMT | From Curiosity to Exploits: My Cybersecurity Journey Begins | Nanditha H Bhat | [Read More](https://medium.com/p/edb811607092) |
-| Sat, 17 May 2025 08:28:30 GMT | Racing Against Time: Time Zone Truths and Automation Challenges in Power Platform | Man Of Truth | [Read More](https://medium.com/p/00086afde64f) |
