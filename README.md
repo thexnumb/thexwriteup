@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 21:30:55 GMT | Dissecting an Obfuscated PowerShell Dropper: Evasion Techniques & Detection Tactics | Yasser Magdy | [Read More](https://medium.com/p/6f712fc50580) |
+| Sat, 17 May 2025 21:20:06 GMT | Earn Passive Income with Recon Solana $RECON Staking | RECON | [Read More](https://medium.com/p/bfa3ce00e87d) |
 | Sat, 17 May 2025 21:13:58 GMT | APT28 Inception Theory — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/31f5ea6a61fb) |
 | Sat, 17 May 2025 21:10:24 GMT | The Silent Risk: Why Cybersecurity Must Be a Strategic Priority in the UAE’s Financial Sector | Mohamed MOUSSOUS | [Read More](https://medium.com/p/e5b04d89b927) |
 | Sat, 17 May 2025 21:08:30 GMT | Docker Networking Explained: Bridge, Host, and Custom Networks with Real Examples | Het Patel | [Read More](https://medium.com/p/45c54fd7791e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 13:22:28 GMT | Assessing Your Organization’s Security Needs | Ed-it Editions | [Read More](https://medium.com/p/678e59e1cf01) |
 | Sat, 17 May 2025 13:22:01 GMT | It’s 2025 and Your Company Will Be Hacked Sooner or Later. Be Prepared. | CyberMassive | [Read More](https://medium.com/p/ce4c7fb9635b) |
 | Sat, 17 May 2025 13:18:59 GMT | Debug Android Project like a PRO applying breakpoints♦️ | Vikas Soni | [Read More](https://medium.com/p/903c0032688e) |
-| Sat, 17 May 2025 13:18:43 GMT | Understanding Network Fundamentals: A Crucial Step into the World of IT | Mohammad Hossein Moghadasi | [Read More](https://medium.com/p/c3f826e82e36) |
-| Sat, 17 May 2025 13:13:52 GMT | Ondas en mi estanque | Diego Savoia | [Read More](https://medium.com/p/4d2065f412a4) |
