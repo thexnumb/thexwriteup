@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 14:07:53 GMT | I need a hacker to recover my stolen bitcoin/usdt/eth with a crypto recovery expert -Crypto… | Robertjoness | [Read More](https://medium.com/p/3e76bdf7309f) |
+| Sat, 17 May 2025 14:06:59 GMT | $500 Bounty: A Referer Leak in Brave’s Private Tor Window | Monika sharma | [Read More](https://medium.com/p/ee0c846203b5) |
+| Sat, 17 May 2025 13:59:02 GMT | Cracking the Code: How Vending Machines Can Be Hacked | Babar Ali Jamali | [Read More](https://medium.com/p/f483266ed5c3) |
+| Sat, 17 May 2025 13:47:04 GMT | Denizlerin Üstündeki Siber: AIS | DÜSİBER | [Read More](https://medium.com/p/c2baf8679b50) |
+| Sat, 17 May 2025 13:45:08 GMT | The Missing Metric in Cybersecurity Leadership – RAVP | Fintont | [Read More](https://medium.com/p/8f5d52728168) |
+| Sat, 17 May 2025 13:41:09 GMT | Keep Your Warehouse Secure — Every Second, Every Day. | Visual Monitoring Solutions | [Read More](https://medium.com/p/15b9592949ac) |
 | Sat, 17 May 2025 13:34:50 GMT | USB Proxy: First Steps with Cynthion | HackerHub | [Read More](https://medium.com/p/8eb87cd8d913) |
 | Sat, 17 May 2025 13:32:14 GMT | Beyond Social: Why LinkedIn Is a Growing Enterprise Vulnerability | Senelo Mogane | [Read More](https://medium.com/p/f64bb3f03afc) |
 | Sat, 17 May 2025 13:32:00 GMT | Bugfix Review: Resolving Identifier Collisions | gajnithehero | [Read More](https://medium.com/p/9c136cecb1f4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 07:17:35 GMT | How Cyber Security Consulting Services Can Save You from Costly Data Breaches | Noblehackers                   The Noble Hackers | [Read More](https://medium.com/p/884f36993c4c) |
 | Sat, 17 May 2025 07:14:35 GMT | My First Bug Bounty: How I Earned $1,000 | Kailasv | [Read More](https://medium.com/p/4ae2bf36039d) |
 | Sat, 17 May 2025 07:05:12 GMT | Cybersecurity in the Workplace: How to Protect Sensitive Employee Data | Our Business Ladder | [Read More](https://medium.com/p/35215e4bf139) |
-| Sat, 17 May 2025 07:04:26 GMT | How a Small Clue Stopped a Biggest Cyber-attack | Ankit Cloudiops | [Read More](https://medium.com/p/03958692234a) |
-| Sat, 17 May 2025 07:02:29 GMT | Log Var Ama Insight Yok! | Tarik Zeybek | [Read More](https://medium.com/p/b5fba80ce775) |
-| Sat, 17 May 2025 07:00:19 GMT | Safer MCP Servers: Do’s and Taboo’s | Ken Adler | [Read More](https://medium.com/p/f68bd42180e1) |
-| Sat, 17 May 2025 06:56:50 GMT | Global Malware Analysis Market Size, Share, Industry Analysis, Growth, Trends Development And… | Patriciastuckey | [Read More](https://medium.com/p/7854a09c6d1b) |
-| Sat, 17 May 2025 06:55:38 GMT | Why Asking “Would You Still Love Me If I Were a Bug?” Is a Philosophical Question | Rianasaurus | [Read More](https://medium.com/p/db799914909c) |
-| Sat, 17 May 2025 06:54:20 GMT | ️ Coinbase Breach: $400M Fallout and a Masterclass in Social Engineering | Oleksandr Dobosh | [Read More](https://medium.com/p/b095c82de9bd) |
