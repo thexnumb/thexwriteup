@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 18:40:30 GMT | پلاتفۆرمی پەروەردەیی بەغداد هـــ*ـاک کرا لەلایەن تیمی ئایکورد بلیتز، کە سەکۆیەکی پەروەردەیی… | Hacker News | [Read More](https://medium.com/p/f8a8a6b7b46a) |
+| Sat, 17 May 2025 18:32:55 GMT | “Wait… You’re Using .env Files in Flutter for Secrets?” Let’s Talk Before It’s Too Late | Md. Al-Amin | [Read More](https://medium.com/p/0b622ee28db6) |
+| Sat, 17 May 2025 18:25:14 GMT | Ultimate Guide to Implementing NIST CSF 2.0: Compliance and Tools | Oleh Dubetcky | [Read More](https://medium.com/p/564b55bed4fd) |
+| Sat, 17 May 2025 18:23:04 GMT | Start Earning with ChainBounty $BOUNTY on StakingRewards | BOUNTY | [Read More](https://medium.com/p/71b7e293bdfa) |
 | Sat, 17 May 2025 18:21:47 GMT | “How a Company Got Hacked Without a Single Line of Code” | An0n | [Read More](https://medium.com/p/254066397f69) |
+| Sat, 17 May 2025 18:21:41 GMT | How to prevent XSS in PHP applications | Roman Huliak | [Read More](https://medium.com/p/40c5d5def7f4) |
 | Sat, 17 May 2025 18:13:39 GMT | Web Cache Deception | Natarajan C K | [Read More](https://medium.com/p/2e34a7aa7303) |
 | Sat, 17 May 2025 18:06:15 GMT | How I Discovered Critical Secrets in Docker Images by Scanning Every Tag and Architecture | Ahmed Ghazy | [Read More](https://medium.com/p/3edbc10db0c1) |
 | Sat, 17 May 2025 18:05:01 GMT | CTF Journey — OhSINT | Al Mahady | [Read More](https://medium.com/p/03e06457c364) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 11:03:59 GMT | Fileless Malware is Back: How Remcos RAT Uses PowerShell, MSHTA, and LNK Files to Stay Hidden | CyDhaal | [Read More](https://medium.com/p/7fd479fb741a) |
 | Sat, 17 May 2025 10:55:22 GMT | PDTM(Project Discovery Tool Manager) | icybnd | [Read More](https://medium.com/p/770802ad0ce2) |
 | Sat, 17 May 2025 10:45:27 GMT | Tax Season Scams: How to Spot Fake IRS Emails (Before You Get Audited) | Ahmad Javed | [Read More](https://medium.com/p/7e72fa8c0af0) |
-| Sat, 17 May 2025 10:30:31 GMT | How I Crushed the eJPTv2 Exam - By Talha Khatib | Talha Khatib | [Read More](https://medium.com/p/9a492be19046) |
-| Sat, 17 May 2025 10:30:01 GMT | List of terms used in the field of hacking. | Yashthakkar | [Read More](https://medium.com/p/8271a548bd96) |
-| Sat, 17 May 2025 10:29:29 GMT | Comprehensive Guide to Android Security for Fintech Applications | Ahmed Ally | [Read More](https://medium.com/p/597a130c8dd8) |
-| Sat, 17 May 2025 10:22:58 GMT | How I Found the Most Weird Bug in the Bug Bounty Field — Is It Really Worth It… | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/d4b60c0352a8) |
-| Sat, 17 May 2025 10:20:09 GMT | Sun’iy Intellekt Chatbotlari: Ular nima va ish joyida qanday foydalanish mumkin? | Sarvar Nishonboyev | [Read More](https://medium.com/p/ae7cbb2c214c) |
