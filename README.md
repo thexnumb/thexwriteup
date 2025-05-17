@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 06:30:29 GMT | Why Manual QA Fails in Sales Teams — and What to Do Instead | Komplya | [Read More](https://medium.com/p/83fdcdc8a3ac) |
+| Sat, 17 May 2025 06:25:13 GMT | Hacking My Car, and probably yours— Security Flaws in Volkswagen’s App | LoopSec | [Read More](https://medium.com/p/24b34c47ba89) |
+| Sat, 17 May 2025 06:20:44 GMT | Types of Malware | MITRE Doggy | [Read More](https://medium.com/p/4e1b45788604) |
 | Sat, 17 May 2025 06:19:50 GMT | Residential vs. Commercial Security in Mumbai | United Guard Force India | [Read More](https://medium.com/p/9cde05bc9278) |
 | Sat, 17 May 2025 06:10:52 GMT | Quantum Computing: A New Era of Computation | Abdullah | [Read More](https://medium.com/p/a0fe3ce931f2) |
 | Sat, 17 May 2025 06:10:37 GMT | A Day in the Life of a Pentester…. Working With Gaming Companies or Applications!! | Gokuleswaran B | [Read More](https://medium.com/p/81e4c578f446) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 19:01:18 GMT | Why No One Reads Security Policies | Azeezah | [Read More](https://medium.com/p/7a06789e6b17) |
 | Fri, 16 May 2025 18:59:37 GMT | Privilege Escalation via Response Manipulation | MR SHAN | [Read More](https://medium.com/p/efe66697bc98) |
 | Fri, 16 May 2025 18:56:32 GMT | When Thieves Get Deeds Instead of Diamonds | Eina Schroeder | [Read More](https://medium.com/p/81abe55c4693) |
-| Fri, 16 May 2025 18:55:47 GMT | Security Isn’t Just For Banks — It’s for Your App Too! | Laras Malahayati | [Read More](https://medium.com/p/35ab26bfa366) |
-| Fri, 16 May 2025 18:47:03 GMT | Why Backend Development Is About Security, Not Just Speed | NonCoderSuccess | [Read More](https://medium.com/p/188454b58593) |
-| Fri, 16 May 2025 18:44:34 GMT | Would anyone care if I died? | Icaria Zetis | [Read More](https://medium.com/p/ce7dbeb2b813) |
