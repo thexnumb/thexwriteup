@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 11:20:11 GMT | GDB baby step 2 - Writeup | Marvin | [Read More](https://medium.com/p/92f54f3345eb) |
+| Sat, 17 May 2025 11:16:46 GMT | Breaking and Securing Rate Limits: A Professional’s Guide | AkashSharma | [Read More](https://medium.com/p/188fb394260b) |
+| Sat, 17 May 2025 11:13:36 GMT | How to Set Up GDB for Debugging Android Apps | Sandeep Wawdane | [Read More](https://medium.com/p/0f9f94ec337e) |
 | Sat, 17 May 2025 11:10:00 GMT | How I Found Stored HTML Injection in the Invite User Feature and Earned $300 | Whitehat | [Read More](https://medium.com/p/3f0d106a7960) |
+| Sat, 17 May 2025 11:07:23 GMT | HTB - Linux foundations — Filter Contents writeup | Shubham Khanna | [Read More](https://medium.com/p/8c4379464a9f) |
 | Sat, 17 May 2025 11:07:03 GMT | The Hotel Was Booked — On the Moon. Thanks, Coordinate Bug. | pushedbynishtha | [Read More](https://medium.com/p/3071525ba01d) |
+| Sat, 17 May 2025 11:06:05 GMT | for me. maybe for you too. | bits of dia | [Read More](https://medium.com/p/9ce4f991d050) |
 | Sat, 17 May 2025 11:03:59 GMT | Fileless Malware is Back: How Remcos RAT Uses PowerShell, MSHTA, and LNK Files to Stay Hidden | CyDhaal | [Read More](https://medium.com/p/7fd479fb741a) |
 | Sat, 17 May 2025 10:55:22 GMT | PDTM(Project Discovery Tool Manager) | icybnd | [Read More](https://medium.com/p/770802ad0ce2) |
 | Sat, 17 May 2025 10:45:27 GMT | Tax Season Scams: How to Spot Fake IRS Emails (Before You Get Audited) | Ahmad Javed | [Read More](https://medium.com/p/7e72fa8c0af0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 03:55:50 GMT | Java Overview: The Basics You Need to Know (Part 1) | Hari | [Read More](https://medium.com/p/2c600312389d) |
 | Sat, 17 May 2025 03:33:31 GMT | How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit… | Vikrant Ravindra Dete | [Read More](https://medium.com/p/4898e5033c31) |
 | Sat, 17 May 2025 03:32:33 GMT | Zero-Day Fallout: How a Hidden Flaw Exposed Thousands at Western Alliance Bank | Deven Chhajed | [Read More](https://medium.com/p/32de4d3ced38) |
-| Sat, 17 May 2025 02:57:10 GMT | 7 Key Cybersecurity Startup Competitions | Tal Eliyahu | [Read More](https://medium.com/p/77aa8d7b53f8) |
-| Sat, 17 May 2025 02:44:24 GMT | Cybercriminals Masquerade Malware as Microsoft Edge to Gain Remote Access | current.cybersecurity | [Read More](https://medium.com/p/0cd0e960ae3f) |
-| Sat, 17 May 2025 02:32:29 GMT | ️ Zero Trust Security: Why Trust is No Longer a Default in Cybersecurity | Parth Patel | [Read More](https://medium.com/p/7be3cbc73d00) |
-| Sat, 17 May 2025 02:17:31 GMT | UNCLAIMED | kharrisonbooks | [Read More](https://medium.com/p/8ea6ac0b1faf) |
-| Sat, 17 May 2025 01:58:06 GMT | Threat Intel Diaries #0 — Starting the Hunt: Core Concepts Every Analyst Should Know | Karim Walid | [Read More](https://medium.com/p/839c5c2e9e08) |
