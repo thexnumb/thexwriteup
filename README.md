@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 03:33:31 GMT | How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit… | Vikrant Ravindra Dete | [Read More](https://medium.com/p/4898e5033c31) |
+| Sat, 17 May 2025 03:32:33 GMT | Zero-Day Fallout: How a Hidden Flaw Exposed Thousands at Western Alliance Bank | Deven Chhajed | [Read More](https://medium.com/p/32de4d3ced38) |
 | Sat, 17 May 2025 02:57:10 GMT | 7 Key Cybersecurity Startup Competitions | Tal Eliyahu | [Read More](https://medium.com/p/77aa8d7b53f8) |
 | Sat, 17 May 2025 02:44:24 GMT | Cybercriminals Masquerade Malware as Microsoft Edge to Gain Remote Access | current.cybersecurity | [Read More](https://medium.com/p/0cd0e960ae3f) |
 | Sat, 17 May 2025 02:32:29 GMT | ️ Zero Trust Security: Why Trust is No Longer a Default in Cybersecurity | Parth Patel | [Read More](https://medium.com/p/7be3cbc73d00) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 17:03:19 GMT | “I’m Still Spinning: A Mirrorball’s Story of Survival” | Amy Lloyd | [Read More](https://medium.com/p/804a9d112914) |
 | Fri, 16 May 2025 17:02:31 GMT | Offensive Security Training: Why Learning to Hack is Your Best Defense | C. Oscar Lawshea | [Read More](https://medium.com/p/984ab81872aa) |
 | Fri, 16 May 2025 17:02:29 GMT | AI Agents vs. Agentic AI | Tal Eliyahu | [Read More](https://medium.com/p/ecfc5d8f41b6) |
-| Fri, 16 May 2025 16:59:00 GMT | Preventing Crypto Scams: Key Strategies and Measures | ECOS | [Read More](https://medium.com/p/eaf492b4e9d4) |
-| Fri, 16 May 2025 16:54:26 GMT | What Is Cloud Computing? A Complete Guide for 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/9fb908ff9025) |
