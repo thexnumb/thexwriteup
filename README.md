@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 21:13:58 GMT | APT28 Inception Theory — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/31f5ea6a61fb) |
+| Sat, 17 May 2025 21:10:24 GMT | The Silent Risk: Why Cybersecurity Must Be a Strategic Priority in the UAE’s Financial Sector | Mohamed MOUSSOUS | [Read More](https://medium.com/p/e5b04d89b927) |
+| Sat, 17 May 2025 21:08:30 GMT | Docker Networking Explained: Bridge, Host, and Custom Networks with Real Examples | Het Patel | [Read More](https://medium.com/p/45c54fd7791e) |
+| Sat, 17 May 2025 20:59:28 GMT | CyberChef-CLI (Cyber Culinary Tools in the Terminal) | MS | [Read More](https://medium.com/p/d6af39229735) |
+| Sat, 17 May 2025 20:46:17 GMT | Starting Where I Am : My Cybersecurity Journey | Abel caleb | [Read More](https://medium.com/p/94ad3bec2756) |
+| Sat, 17 May 2025 20:39:35 GMT | Heal HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/675e2c94cbc4) |
 | Sat, 17 May 2025 20:37:10 GMT | Unlocking Maltego: Your First Steps in Open Source Intelligence | Tirth Gohil | [Read More](https://medium.com/p/414b93bebe8f) |
+| Sat, 17 May 2025 20:31:51 GMT | I turned ChatGPT Into A Hacker! | Tomer Wetzler | [Read More](https://medium.com/p/9a6ae6631e0b) |
 | Sat, 17 May 2025 20:27:57 GMT | I Turned ChatGPT Into A Hacker! | Tomer Wetzler | [Read More](https://medium.com/p/135529403d0e) |
 | Sat, 17 May 2025 20:26:47 GMT | Magma HN Milenage | Shubham Kumar | [Read More](https://medium.com/p/ac09516d1bf6) |
 | Sat, 17 May 2025 20:26:47 GMT | SSRF and SQL Injection | musayyab sharif | [Read More](https://medium.com/p/351416e27ce6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 13:18:59 GMT | Debug Android Project like a PRO applying breakpoints♦️ | Vikas Soni | [Read More](https://medium.com/p/903c0032688e) |
 | Sat, 17 May 2025 13:18:43 GMT | Understanding Network Fundamentals: A Crucial Step into the World of IT | Mohammad Hossein Moghadasi | [Read More](https://medium.com/p/c3f826e82e36) |
 | Sat, 17 May 2025 13:13:52 GMT | Ondas en mi estanque | Diego Savoia | [Read More](https://medium.com/p/4d2065f412a4) |
-| Sat, 17 May 2025 13:12:05 GMT | Breaking In: My Journey Through FreeCodeCamp’s Information Security Certification | Sibusiso Mnyandeni | [Read More](https://medium.com/p/1617b7627d3a) |
-| Sat, 17 May 2025 13:07:37 GMT | Power BI in Healthcare Analytics | Edubridge Academy | [Read More](https://medium.com/p/d4ede5f83554) |
-| Sat, 17 May 2025 13:03:48 GMT | MimeMaster: The .NET Library That Made MIME Detection Fun Again | Tobias tjamma | [Read More](https://medium.com/p/0ab7fee44a10) |
-| Sat, 17 May 2025 13:02:47 GMT | Fake AI Tools Are Spreading Malware — And Small Businesses Are the Target | Peris.ai Cybersecurity | [Read More](https://medium.com/p/82d602385fc8) |
-| Sat, 17 May 2025 12:57:53 GMT | Writing Pentest Reports - TryHackMe Walkthrough | CyferNest Sec | [Read More](https://medium.com/p/e9d001c49a0d) |
-| Sat, 17 May 2025 12:48:04 GMT | Lab Report#12 — Print Spooler NTLM Relaying | Samet Koca | [Read More](https://medium.com/p/8058bb2c18b1) |
-| Sat, 17 May 2025 12:47:32 GMT | From Silicon Valley to Courtroom Valley | Mike Broadly, DHSc | [Read More](https://medium.com/p/5160d3ecbf6b) |
