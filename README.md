@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 16:12:55 GMT | How I Took Admin Account via JWT Bypass | Dharanis | [Read More](https://medium.com/p/5bed37a8e7ac) |
+| Sat, 17 May 2025 16:09:05 GMT | What are the opportunities brought and ethical issues that arise from the growing use of digital… | Sara Garcia | [Read More](https://medium.com/p/39da46944716) |
+| Sat, 17 May 2025 16:08:19 GMT | How t Resolve “Installing the Base System” Errors in Kali Linux | khalid Hussain | [Read More](https://medium.com/p/f601a0396c22) |
+| Sat, 17 May 2025 16:02:47 GMT | CFC | LonomiaO | [Read More](https://medium.com/p/aef3616c6e5c) |
+| Sat, 17 May 2025 15:57:01 GMT | Token of Misfortune: How a Refresh Token Leak Let Me Regenerate Unlimited Sessions | Iski | [Read More](https://medium.com/p/bb6693751c85) |
+| Sat, 17 May 2025 15:51:38 GMT | UAE’s New Drone Cybersecurity Guidelines — A Quietly Powerful Move | NaveeeN Chendra | [Read More](https://medium.com/p/0430b924503f) |
+| Sat, 17 May 2025 15:28:07 GMT | Part 4: Python COM Tasks, WMI Events & Cleanup | Maxwell Cross | [Read More](https://medium.com/p/996f5bf9da0a) |
 | Sat, 17 May 2025 15:06:44 GMT | What The Tech?! Laptop Computers | Investigator515 | [Read More](https://medium.com/p/e041301eca2d) |
 | Sat, 17 May 2025 15:02:30 GMT | How to Recover Deleted Files with Python | Muhammad Abdullahi | [Read More](https://medium.com/p/68792ece7d9f) |
 | Sat, 17 May 2025 14:59:56 GMT | Wide Recon | R T Hunter | [Read More](https://medium.com/p/15ead790196f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 08:16:56 GMT | TryHackMe Light: Full Walkthrough & SQL Injection Exploit | Aawart | [Read More](https://medium.com/p/1e25db316905) |
 | Sat, 17 May 2025 08:12:54 GMT | VAPT vs Bug Bounty: The Security Showdown Your Organization Needs to Know About | Atharva Deshmukh | [Read More](https://medium.com/p/fb555be0083f) |
 | Sat, 17 May 2025 08:10:11 GMT | NVIDIA vs AMD: Why This Tech War Is So Fun to Watch | Shahzaib Khan | [Read More](https://medium.com/p/a62493902a9d) |
-| Sat, 17 May 2025 08:10:07 GMT | Why Coinbase Faces Ongoing Security Challenges: A Detailed Look with ZachXBT’s Investigations | Cyberwithzik | [Read More](https://medium.com/p/ab199aa6de68) |
-| Sat, 17 May 2025 08:08:21 GMT | TryHackMe - Volt Typhoon - WriteUp | Axoloth | [Read More](https://medium.com/p/111502be27a7) |
-| Sat, 17 May 2025 08:07:41 GMT | Smart Contract Audits: Why “Only Code Review” Isn’t Enough | Decrypt0 | [Read More](https://medium.com/p/dc6db63b6220) |
-| Sat, 17 May 2025 08:04:49 GMT | Here’s How I Recover My Money From IronFX | Alina DeRose | [Read More](https://medium.com/p/5fce4cf1d53f) |
-| Sat, 17 May 2025 08:02:29 GMT | CyberTalents Certified Digital Forensics Examiner Specialist (Writeup) | Amr Eid | [Read More](https://medium.com/p/ba4759407a34) |
-| Sat, 17 May 2025 08:01:19 GMT | Slowly Changing Dimensions (SCD) in PySpark | Sankalpmohate | [Read More](https://medium.com/p/418bf16000bb) |
-| Sat, 17 May 2025 07:55:57 GMT | The Beginner’s Roadmap to SOC (Security Operations Center) Level 1 Alert Triage | R1punjay_Singh | [Read More](https://medium.com/p/a6b875bfd509) |
