@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 20:14:47 GMT | Gift - HackmyVM | Marcos Carmona | [Read More](https://medium.com/p/9828965da371) |
+| Sat, 17 May 2025 20:01:07 GMT | Reverse Engineering on Crackmes.one part 2 | Nuray | [Read More](https://medium.com/p/7c81f5546e61) |
+| Sat, 17 May 2025 19:58:34 GMT | Vulnerability. | healing reflections | [Read More](https://medium.com/p/f5e8f1a17811) |
+| Sat, 17 May 2025 19:56:46 GMT | How to Fix SSLHTTPS Issues on Your WordPress Website | Shubradeb | [Read More](https://medium.com/p/5fb2d3139e09) |
+| Sat, 17 May 2025 19:55:30 GMT | Global CSI Agency Officially Validates VASTAV AI as Revolutionary Indian AI Innovation | CSI | [Read More](https://medium.com/p/32d20822f267) |
+| Sat, 17 May 2025 19:51:37 GMT | THM vs HTB — Why I decided to stop using TryHackMe? | Hajiaga Sadikhov | [Read More](https://medium.com/p/fe027dc2d335) |
+| Sat, 17 May 2025 19:47:48 GMT | Privacy Primer: Your Guide to Demystifying Privacy | Daksh Sharma | [Read More](https://medium.com/p/318d981c28ed) |
+| Sat, 17 May 2025 19:47:03 GMT | unarmored hours. | a•w•d•y ☆ | [Read More](https://medium.com/p/b2a7a99e9508) |
 | Sat, 17 May 2025 19:34:52 GMT | IA No-Code, Low-Code et Agents IA : Un Aperçu Futuriste | Emmanuel Siam's | [Read More](https://medium.com/p/eafdb839ecb7) |
+| Sat, 17 May 2025 19:26:19 GMT | Men, Unmasked Part 1 | Hazal İ. - Real Life in Real Words | [Read More](https://medium.com/p/8aacf2ff2034) |
 | Sat, 17 May 2025 19:24:10 GMT | From Breaches to Crackdowns: Why Cybersecurity Can’t Be Optional Anymore | Siva Gunasekaran | [Read More](https://medium.com/p/f407cf8c9728) |
 | Sat, 17 May 2025 19:20:36 GMT | Overthewire | Muhammed Enes Gürkan | [Read More](https://medium.com/p/18db705495e5) |
 | Sat, 17 May 2025 19:06:57 GMT | Bug Bounty desde Cero: De la Curiosidad al Primer Hallazgo | Cami Bertolani | [Read More](https://medium.com/p/6642e3944764) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 12:32:50 GMT | SWE-1: The First Family of Software Engineering Models | Taha Ex | [Read More](https://medium.com/p/6839423b753a) |
 | Sat, 17 May 2025 12:23:43 GMT | No SQL Injection — OWASP JuiceShop #10 | DebianHat | [Read More](https://medium.com/p/7e372701e673) |
 | Sat, 17 May 2025 12:20:52 GMT | Why Cybersecurity Support Services Are Critical for Australian Businesses in 2025 | william smith | [Read More](https://medium.com/p/2f569b5a326d) |
-| Sat, 17 May 2025 12:17:37 GMT | Mixed Economic Signals: Manufacturing Challenges and Financial Market Movements Highlight Economic… | sinan aydin | [Read More](https://medium.com/p/419272e61a8e) |
-| Sat, 17 May 2025 12:06:39 GMT | How do hackers bypass multi-factor authentication (MFA)? | 0trust0day | [Read More](https://medium.com/p/0382409392fe) |
-| Sat, 17 May 2025 12:06:26 GMT | INE —  eJPT: Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Babatunde Ojo | [Read More](https://medium.com/p/04163bd89b30) |
-| Sat, 17 May 2025 12:05:38 GMT | Digital Anonymity: A Shield of Privacy or an Illusion of Security? | Fadhil Pratama | [Read More](https://medium.com/p/1fbfe8da5272) |
-| Sat, 17 May 2025 11:57:32 GMT | When the hunters get hacked: LockBit ransomware gang’s empire crumbles | The 404 truth | [Read More](https://medium.com/p/4914b16ab643) |
-| Sat, 17 May 2025 11:56:52 GMT | Security Teams That Do More Than Watch — They Manage | Group 24/7 Security Services | [Read More](https://medium.com/p/2d8f194d2e21) |
-| Sat, 17 May 2025 11:52:17 GMT | Lab Report#11 —  Kerberos Constrained Delegation (KCD) | Samet Koca | [Read More](https://medium.com/p/cb7be53b10bc) |
-| Sat, 17 May 2025 11:49:46 GMT | The dangers of using“WebClient” in csharp | Jeroen Verhaeghe | [Read More](https://medium.com/p/fd236f8e6ba2) |
-| Sat, 17 May 2025 11:20:11 GMT | GDB baby step 2 - Writeup | Marvin | [Read More](https://medium.com/p/92f54f3345eb) |
