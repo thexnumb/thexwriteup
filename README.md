@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 07:14:35 GMT | My First Bug Bounty: How I Earned $1,000 | Kailasv | [Read More](https://medium.com/p/4ae2bf36039d) |
+| Sat, 17 May 2025 07:05:12 GMT | Cybersecurity in the Workplace: How to Protect Sensitive Employee Data | Our Business Ladder | [Read More](https://medium.com/p/35215e4bf139) |
+| Sat, 17 May 2025 07:04:26 GMT | How a Small Clue Stopped a Biggest Cyber-attack | Ankit Cloudiops | [Read More](https://medium.com/p/03958692234a) |
+| Sat, 17 May 2025 07:02:29 GMT | Log Var Ama Insight Yok! | Tarik Zeybek | [Read More](https://medium.com/p/b5fba80ce775) |
+| Sat, 17 May 2025 07:00:19 GMT | Safer MCP Servers: Do’s and Taboo’s | Ken Adler | [Read More](https://medium.com/p/f68bd42180e1) |
+| Sat, 17 May 2025 06:56:50 GMT | Global Malware Analysis Market Size, Share, Industry Analysis, Growth, Trends Development And… | Patriciastuckey | [Read More](https://medium.com/p/7854a09c6d1b) |
+| Sat, 17 May 2025 06:55:38 GMT | Why Asking “Would You Still Love Me If I Were a Bug?” Is a Philosophical Question | Rianasaurus | [Read More](https://medium.com/p/db799914909c) |
+| Sat, 17 May 2025 06:54:20 GMT | ️ Coinbase Breach: $400M Fallout and a Masterclass in Social Engineering | Oleksandr Dobosh | [Read More](https://medium.com/p/b095c82de9bd) |
+| Sat, 17 May 2025 06:49:59 GMT | Which is the Best Certified Ethical Hacker Course in 2025? | cyber security Updates | [Read More](https://medium.com/p/1e2d56b5f052) |
+| Sat, 17 May 2025 06:43:00 GMT | Voices of the scar | Boluwatife Lash | [Read More](https://medium.com/p/91b037ee32b7) |
 | Sat, 17 May 2025 06:30:29 GMT | Why Manual QA Fails in Sales Teams — and What to Do Instead | Komplya | [Read More](https://medium.com/p/83fdcdc8a3ac) |
 | Sat, 17 May 2025 06:25:13 GMT | Hacking My Car, and probably yours— Security Flaws in Volkswagen’s App | LoopSec | [Read More](https://medium.com/p/24b34c47ba89) |
 | Sat, 17 May 2025 06:20:44 GMT | Types of Malware | MITRE Doggy | [Read More](https://medium.com/p/4e1b45788604) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 19:31:28 GMT | Demonized Caching | Nnamdi Michael Okpala | [Read More](https://medium.com/p/070331d21750) |
 | Fri, 16 May 2025 19:27:00 GMT | Learning to slow down before I disappear | Fragmented.__.Thoughts | [Read More](https://medium.com/p/d14a0e636966) |
 | Fri, 16 May 2025 19:21:50 GMT | Is Your Vibe Coding Pain Caused By Hidden Error Messages? | Teri Radichel | [Read More](https://medium.com/p/1f1b7857b837) |
-| Fri, 16 May 2025 19:16:54 GMT | Automated Recon with Python: Scanning IP Ranges for Reverse DNS and Directory Listings | Irem Ozyurt | [Read More](https://medium.com/p/29b81ef1eb05) |
-| Fri, 16 May 2025 19:16:41 GMT | “Think You Don’t Need a VPN? Hackers Are Betting on That.” | Vexpoltech | [Read More](https://medium.com/p/414473950a0d) |
-| Fri, 16 May 2025 19:16:33 GMT | The ZIP Bomb Trap | Ansari | [Read More](https://medium.com/p/84a60c8520f2) |
-| Fri, 16 May 2025 19:15:30 GMT | ⚠️ Open-Source AI + Rising Threats = The Urgent Call for Quantum-Resistant Encryption | NaveeeN Chendra | [Read More](https://medium.com/p/63df95f3586b) |
-| Fri, 16 May 2025 19:14:54 GMT | TCM Security : Blue Machine Writeup | Firas Meddeb | [Read More](https://medium.com/p/a6892fbe5088) |
-| Fri, 16 May 2025 19:07:57 GMT | Another cert knocked out on TryHackMe | 0b1d1 | [Read More](https://medium.com/p/690e38dde4e9) |
-| Fri, 16 May 2025 19:02:27 GMT | Slopsquatting: The Hidden Danger of Typographical Attacks in Software Supply Chains | Cyber Kavy | [Read More](https://medium.com/p/f271c0189046) |
-| Fri, 16 May 2025 19:01:18 GMT | Why No One Reads Security Policies | Azeezah | [Read More](https://medium.com/p/7a06789e6b17) |
-| Fri, 16 May 2025 18:59:37 GMT | Privilege Escalation via Response Manipulation | MR SHAN | [Read More](https://medium.com/p/efe66697bc98) |
-| Fri, 16 May 2025 18:56:32 GMT | When Thieves Get Deeds Instead of Diamonds | Eina Schroeder | [Read More](https://medium.com/p/81abe55c4693) |
