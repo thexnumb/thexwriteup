@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 05:11:17 GMT | How to protect your online accounts from hacking? | Charleskerren | [Read More](https://medium.com/p/4b55332c7f0f) |
+| Sat, 17 May 2025 05:03:57 GMT | FortiSandbox by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77f7f3d30ff1) |
+| Sat, 17 May 2025 05:00:10 GMT | Threat Intel Diaries #1 — How To Write Your First Cyber Threat Profile | Karim Walid | [Read More](https://medium.com/p/abc5484c02fd) |
+| Sat, 17 May 2025 04:58:22 GMT | Address space layout randomization | Merved | [Read More](https://medium.com/p/fe2db08c3d6b) |
+| Sat, 17 May 2025 04:46:27 GMT | Kerentanan Time-Based SQL Injection pada Form Login Aplikasi Web | Zakyzaa | [Read More](https://medium.com/p/ca40deb60fb0) |
 | Sat, 17 May 2025 04:32:31 GMT | ️ Zero Trust Architecture Explained for Beginners: Why Trust Is No Longer Enough | Dhruvish Rathod | [Read More](https://medium.com/p/2b5206c44094) |
 | Sat, 17 May 2025 04:27:08 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/76c2ead78232) |
 | Sat, 17 May 2025 04:19:49 GMT | Introduction to Cyber Security Landscapes | Skills 4 Free Myanmar | [Read More](https://medium.com/p/1af21a56f9b4) |
@@ -41,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 23:15:02 GMT | Data Privacy and Your Mobile Phone | Savvy Cyber Kids | [Read More](https://medium.com/p/c4ae3c59de7b) |
 | Fri, 16 May 2025 23:14:22 GMT | THM — Retracted Room Writeup (Ransomware) | Shamar Isaac | [Read More](https://medium.com/p/ed5cb80344d1) |
 | Fri, 16 May 2025 23:13:41 GMT | How Are Women Treated Differently Online? | Savvy Cyber Kids | [Read More](https://medium.com/p/b80d6ccf96b5) |
+| Fri, 16 May 2025 23:12:37 GMT | Reflexiones sobre la creación de comunidades: El caso Bug Bounty Argentina y su réplica | KRAQEN | [Read More](https://medium.com/p/f7a6cf3c9cf1) |
 | Fri, 16 May 2025 23:09:24 GMT | “I love you in different languages.” | Prabhu Perumal | [Read More](https://medium.com/p/8881d115e73b) |
 | Fri, 16 May 2025 23:02:17 GMT | Public Key Cryptography Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/2ca42016ea52) |
 | Fri, 16 May 2025 22:39:58 GMT | Why Cybersecurity Frameworks Matter for Small Businesses | Optimati | [Read More](https://medium.com/p/88208f7c5445) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 18:13:31 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/26908d381a9e) |
 | Fri, 16 May 2025 18:11:54 GMT | How Reddit Narrowly Escaped a Major Security Breach | Abdur Mowlana | [Read More](https://medium.com/p/bcb744dc069b) |
 | Fri, 16 May 2025 18:00:17 GMT | Canadian Utility Breach: Nova Scotia Power | IT_Engineer | [Read More](https://medium.com/p/c79a2afdc3e4) |
-| Fri, 16 May 2025 17:56:54 GMT | Mobil Uygulama Güvenliği Nedir? Neden Önemlidir? | Emir KILIÇ | [Read More](https://medium.com/p/62206814e1a0) |
-| Fri, 16 May 2025 17:45:45 GMT | CRTP- Certified Red Team Professional Review. | Mohammed Fadag | [Read More](https://medium.com/p/fd2fb4d3320c) |
-| Fri, 16 May 2025 17:42:47 GMT | My Experiences and Tips for Passing BTL1 Exam | Ata Seren | [Read More](https://medium.com/p/170d25a79000) |
-| Fri, 16 May 2025 17:36:16 GMT | GitHub SSO for CloudBeaver using oauth2-proxy and Helm on Kubernetes | Rudhra Rai | [Read More](https://medium.com/p/753ef9ca757d) |
-| Fri, 16 May 2025 17:35:43 GMT | TryHackMe CTF Series- Walkthrough MR Robot CTF | HacksonAloysis | [Read More](https://medium.com/p/5de56a5bd3a1) |
-| Fri, 16 May 2025 17:34:59 GMT | The future of Cybersecurity with AI: Where Are We Headed? | Saumajit Malakar | [Read More](https://medium.com/p/3c2636711aa8) |
