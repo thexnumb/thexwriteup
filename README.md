@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 09:36:03 GMT | It Was Supposed to Be SSTI.. But CSTI Had Other Plans | Rahul M S | [Read More](https://medium.com/p/9368bbd8375c) |
+| Sat, 17 May 2025 09:24:56 GMT | 5 Guiding Principles for Trustworthy Tech Leadership in 2025 and Beyond | Les Ottolenghi | [Read More](https://medium.com/p/cd266a319f64) |
+| Sat, 17 May 2025 09:22:13 GMT | The Scroll That Stole Childhood | tanishka singh | [Read More](https://medium.com/p/3c80574919f8) |
 | Sat, 17 May 2025 09:11:13 GMT | TryHackMe CTFs series Walkthoroughs | HacksonAloysis | [Read More](https://medium.com/p/ce3f37c324f7) |
 | Sat, 17 May 2025 09:09:30 GMT | Massive Steam Leak: 89 Million Accounts’ Data Circulating on Dark Web — Change Your Password Today | Karthick Ganapathy | [Read More](https://medium.com/p/18eaa9913a6f) |
 | Sat, 17 May 2025 08:50:12 GMT | This One Tool Changed My Hacking Workflow: Meet Proxify | Chintala Taraka Ram | [Read More](https://medium.com/p/e42d2f3ba0ca) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 22:01:21 GMT | PacketMaze: The Art of Packet Hunting | Omar Hesham | [Read More](https://medium.com/p/61b1a73328bd) |
 | Fri, 16 May 2025 21:54:42 GMT | AI Crypto Trading Bots: The Hidden Risks Every Trader Should Know | Tom Croll | [Read More](https://medium.com/p/ab0a81eac967) |
 | Fri, 16 May 2025 21:53:17 GMT | How to Get Into Cybersecurity | Damien Le | [Read More](https://medium.com/p/67e519e2baad) |
-| Fri, 16 May 2025 21:46:34 GMT | 09336049669 | 3 | [Read More](https://medium.com/p/b26ddf053884) |
-| Fri, 16 May 2025 21:22:34 GMT | Privacy-Aware Machine Learning: Homomorphic Encryption and Federated Learning | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/d7437156c019) |
-| Fri, 16 May 2025 21:15:42 GMT | X-Ray Vehicle Scanner systems | ropot | [Read More](https://medium.com/p/fd977263c0fe) |
