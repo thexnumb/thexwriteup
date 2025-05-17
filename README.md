@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 18:21:47 GMT | “How a Company Got Hacked Without a Single Line of Code” | An0n | [Read More](https://medium.com/p/254066397f69) |
+| Sat, 17 May 2025 18:13:39 GMT | Web Cache Deception | Natarajan C K | [Read More](https://medium.com/p/2e34a7aa7303) |
+| Sat, 17 May 2025 18:06:15 GMT | How I Discovered Critical Secrets in Docker Images by Scanning Every Tag and Architecture | Ahmed Ghazy | [Read More](https://medium.com/p/3edbc10db0c1) |
+| Sat, 17 May 2025 18:05:01 GMT | CTF Journey — OhSINT | Al Mahady | [Read More](https://medium.com/p/03e06457c364) |
+| Sat, 17 May 2025 18:02:14 GMT | ️ Ultimate Guide to Securing the Kubernetes API Server | Mahernaija | [Read More](https://medium.com/p/6fb4dce3df44) |
+| Sat, 17 May 2025 18:02:13 GMT | CTF Journey — Bounty Hacker | Al Mahady | [Read More](https://medium.com/p/833e0dd93c77) |
+| Sat, 17 May 2025 18:01:39 GMT | Mastering C2 Servers: Architecture, Redirection Layers, and Covert Techniques | Moataz Osama | [Read More](https://medium.com/p/64d0e3dd35ee) |
+| Sat, 17 May 2025 17:55:50 GMT | Best guide to pass CompTIA Security+ SYO-701 - Here’s what you really need | Yousuf Khan | [Read More](https://medium.com/p/66d1e164ed6b) |
+| Sat, 17 May 2025 17:52:02 GMT | Easy Bug That Falls Between P5 and P3: Find Broken Access Control & IDOR Using AutoReisze in Burp… | Ahmed Ashraf Shora | [Read More](https://medium.com/p/6f427852a788) |
+| Sat, 17 May 2025 17:42:13 GMT | Why Are So Many UK Homes Still Using Outdated Security? | Mohsin | [Read More](https://medium.com/p/a3493148db8f) |
+| Sat, 17 May 2025 17:31:10 GMT | Random ID Generation: Everything You Need to Know | Thilina Ashen Gamage | [Read More](https://medium.com/p/b2040ff35441) |
 | Sat, 17 May 2025 17:25:40 GMT | Sharpening Command Injections to get Full RCE | Mostafa Alrefai | [Read More](https://medium.com/p/e4cf257d2c66) |
 | Sat, 17 May 2025 17:23:04 GMT | How Wiener’s Attack Breaks RSA When You Pick a Weak Private Key | M7 | [Read More](https://medium.com/p/7113fda6d969) |
 | Sat, 17 May 2025 17:16:45 GMT | APT35 Masquerades as European Modeling Agency in Targeted Espionage Operation | Jon C | [Read More](https://medium.com/p/596e89e27e79) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 10:29:29 GMT | Comprehensive Guide to Android Security for Fintech Applications | Ahmed Ally | [Read More](https://medium.com/p/597a130c8dd8) |
 | Sat, 17 May 2025 10:22:58 GMT | How I Found the Most Weird Bug in the Bug Bounty Field — Is It Really Worth It… | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/d4b60c0352a8) |
 | Sat, 17 May 2025 10:20:09 GMT | Sun’iy Intellekt Chatbotlari: Ular nima va ish joyida qanday foydalanish mumkin? | Sarvar Nishonboyev | [Read More](https://medium.com/p/ae7cbb2c214c) |
-| Sat, 17 May 2025 10:18:10 GMT | INE — ePJT: Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Babatunde Ojo | [Read More](https://medium.com/p/509728beba57) |
-| Sat, 17 May 2025 10:10:46 GMT | How I Hacked the Vending Machine in My Hostel | Jalaj Gupta | [Read More](https://medium.com/p/43deae317693) |
-| Sat, 17 May 2025 10:10:06 GMT | Cyber Security Course in Bangalore Learn from Experts at Eduleem | Ravi Raj | [Read More](https://medium.com/p/4ebadf259bb2) |
-| Sat, 17 May 2025 10:05:13 GMT | Why I Switched to a Fireproof Faraday Bag for Everyday Digital Security | Kerem BAŞBUĞ | [Read More](https://medium.com/p/162033e9939b) |
-| Sat, 17 May 2025 10:02:53 GMT | Block Microsoft 365 Sign-ins from Unapproved Countries with Conditional Access | Oludolamu Onimole | [Read More](https://medium.com/p/e92933f2c6c0) |
-| Sat, 17 May 2025 10:02:02 GMT | This Google Email Scam Almost Got Me — Here’s How It Works | Abdur Mowlana | [Read More](https://medium.com/p/a0f19e8371b3) |
-| Sat, 17 May 2025 10:00:57 GMT | Is AI Watching You Inside the Bank? Discover How It Protects Your Money and Tracks Your Every Move | Maha Althobaiti | [Read More](https://medium.com/p/0ac8cbc948e4) |
-| Sat, 17 May 2025 10:00:31 GMT | NMAP Scripting Engine Part 2 | Red | [Read More](https://medium.com/p/09f45299ad1e) |
-| Sat, 17 May 2025 10:00:00 GMT | The Way To Recover Your Money from Mirrox | Mohammad Hunter | [Read More](https://medium.com/p/f0763ae30435) |
-| Sat, 17 May 2025 09:59:20 GMT | IPinfo Free Geolocation API: Tools, Setup & Use Cases | Pawan Jaiswal | [Read More](https://medium.com/p/f066e321448a) |
-| Sat, 17 May 2025 09:56:24 GMT | Mirrox Review 2025 - Reclaim what’s Yours Now. | Mohammad Hunter | [Read More](https://medium.com/p/efa023117690) |
