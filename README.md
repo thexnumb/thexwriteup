@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 08:12:54 GMT | VAPT vs Bug Bounty: The Security Showdown Your Organization Needs to Know About | Atharva Deshmukh | [Read More](https://medium.com/p/fb555be0083f) |
+| Sat, 17 May 2025 08:10:11 GMT | NVIDIA vs AMD: Why This Tech War Is So Fun to Watch | Shahzaib Khan | [Read More](https://medium.com/p/a62493902a9d) |
+| Sat, 17 May 2025 08:10:07 GMT | Why Coinbase Faces Ongoing Security Challenges: A Detailed Look with ZachXBT’s Investigations | Cyberwithzik | [Read More](https://medium.com/p/ab199aa6de68) |
+| Sat, 17 May 2025 08:08:21 GMT | TryHackMe - Volt Typhoon - WriteUp | Axoloth | [Read More](https://medium.com/p/111502be27a7) |
+| Sat, 17 May 2025 08:07:41 GMT | Smart Contract Audits: Why “Only Code Review” Isn’t Enough | Decrypt0 | [Read More](https://medium.com/p/dc6db63b6220) |
+| Sat, 17 May 2025 08:04:49 GMT | Here’s How I Recover My Money From IronFX | Alina DeRose | [Read More](https://medium.com/p/5fce4cf1d53f) |
+| Sat, 17 May 2025 08:02:29 GMT | CyberTalents Certified Digital Forensics Examiner Specialist (Writeup) | Amr Eid | [Read More](https://medium.com/p/ba4759407a34) |
+| Sat, 17 May 2025 08:01:19 GMT | Slowly Changing Dimensions (SCD) in PySpark | Sankalpmohate | [Read More](https://medium.com/p/418bf16000bb) |
+| Sat, 17 May 2025 07:55:57 GMT | The Beginner’s Roadmap to SOC (Security Operations Center) Level 1 Alert Triage | R1punjay_Singh | [Read More](https://medium.com/p/a6b875bfd509) |
+| Sat, 17 May 2025 07:47:51 GMT | Threat Intel Diaries #2 — Profiling Sandworm Team (APT44) | Karim Walid | [Read More](https://medium.com/p/f79f02da95ae) |
+| Sat, 17 May 2025 07:46:13 GMT | The Access Flow — What Happens When a User Logs In To ARCON PAM | Amrit Sinha | [Read More](https://medium.com/p/d51e3a3d806e) |
+| Sat, 17 May 2025 07:39:49 GMT | Prompts and Prejudices | Kunter Ilalan | [Read More](https://medium.com/p/c1a289893084) |
+| Sat, 17 May 2025 07:33:06 GMT | You Can Lose Everything in Crypto — Without Getting Hacked or Scammed | Sajjad Hussain | [Read More](https://medium.com/p/fc3b29602153) |
 | Sat, 17 May 2025 07:30:42 GMT | How to Serialize and Deserialize Any Cookie in .NET | Richard Nwonah | [Read More](https://medium.com/p/827e696f72f6) |
 | Sat, 17 May 2025 07:29:11 GMT | Mutillidae Uncovered: Exploiting XSS for Beginners (Metasploitable 2 Lab) | Jai Bhattachhary | [Read More](https://medium.com/p/a5cb66890b89) |
 | Sat, 17 May 2025 07:22:11 GMT | Lights, Camera, Security! Protecting Your Film’s Digital Assets | Joseph Desmond Cruel | [Read More](https://medium.com/p/c8197309cf28) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 21:02:29 GMT | The Human Factor in Cybersecurity | John Locke | [Read More](https://medium.com/p/a15e41a21b5f) |
 | Fri, 16 May 2025 21:01:12 GMT | Coinbase Hacked and Turns the Tables on the Cybercriminals! | Matthew.Rosenquist | [Read More](https://medium.com/p/7645a199f986) |
 | Fri, 16 May 2025 20:59:01 GMT | Cryptographic Realities for Medical Devices vs. Enterprise IT | Medcrypt | [Read More](https://medium.com/p/2958a58fb5c1) |
-| Fri, 16 May 2025 20:56:17 GMT | Quantum Computing’s New Frontier: How the $1.4 | QuantumGenie | [Read More](https://medium.com/p/6cec141c3d37) |
-| Fri, 16 May 2025 20:49:59 GMT | Cloud Pentesting or Just Scanning? Let’s Talk. | Sena Yakut | [Read More](https://medium.com/p/3bf951f40165) |
-| Fri, 16 May 2025 20:41:02 GMT | How to Protect Yourself from Facebook, Twitter, and Social Media Hacking | Tofail Ahammed | [Read More](https://medium.com/p/00f2180f9647) |
-| Fri, 16 May 2025 20:40:10 GMT | When AI Has a Mind of It’s Own | Teri Radichel | [Read More](https://medium.com/p/a0ce4b9d527c) |
-| Fri, 16 May 2025 20:21:31 GMT | How Defense in Depth Protects Your Organization from Evolving Threats | Ramsey Consulting Services | [Read More](https://medium.com/p/fb3e6571f7b1) |
-| Fri, 16 May 2025 20:06:14 GMT | Why “Models” Keep Messaging You (and Why They’re Probably Men) | Marcus Musick | [Read More](https://medium.com/p/fe956cc4572b) |
-| Fri, 16 May 2025 19:58:31 GMT | Sequoia’s Top Gun Hacked in Massive Coinbase Insider Leak, Crypto’s Darkest Chapter Yet? | CoinGen | [Read More](https://medium.com/p/65aef7209f52) |
-| Fri, 16 May 2025 19:48:56 GMT | Insider Threats: Detecting the Risks Within | Travis Ray Caverhill | [Read More](https://medium.com/p/c78f936416d1) |
-| Fri, 16 May 2025 19:47:49 GMT | Jr Security Analyst Intro - TryHackMe - Write-Up by FarrosFR | Mochammad Farros F. R. | [Read More](https://medium.com/p/c55915db9fe1) |
-| Fri, 16 May 2025 19:44:56 GMT | 2fa, OTP bypass checklists 2025 | mohaned alkhlot | [Read More](https://medium.com/p/4d45f92dbdaa) |
-| Fri, 16 May 2025 19:43:13 GMT | Pivoting (Chisel) | S4ntiHack | [Read More](https://medium.com/p/fa6dfc0ec029) |
-| Fri, 16 May 2025 19:41:16 GMT | Journey to Cybersecurity Day 2 — More Controls! | Cyber Muslim Girl | [Read More](https://medium.com/p/f85a7cf658b3) |
-| Fri, 16 May 2025 19:37:47 GMT | Confessions of a Home Lab Junkie: Adventures in DIY Tech, Part 2 | Justin Crawford | [Read More](https://medium.com/p/0d3c2e1dd521) |
