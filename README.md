@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 13:22:58 GMT | Typosquatting: The HiddenThreat Lurking in Misspelled URLs | Janith Sandamal | [Read More](https://medium.com/p/0c474695f091) |
+| Sat, 17 May 2025 13:22:28 GMT | Assessing Your Organization’s Security Needs | Ed-it Editions | [Read More](https://medium.com/p/678e59e1cf01) |
+| Sat, 17 May 2025 13:22:01 GMT | It’s 2025 and Your Company Will Be Hacked Sooner or Later. Be Prepared. | CyberMassive | [Read More](https://medium.com/p/ce4c7fb9635b) |
+| Sat, 17 May 2025 13:18:59 GMT | Debug Android Project like a PRO applying breakpoints♦️ | Vikas Soni | [Read More](https://medium.com/p/903c0032688e) |
+| Sat, 17 May 2025 13:18:43 GMT | Understanding Network Fundamentals: A Crucial Step into the World of IT | Mohammad Hossein Moghadasi | [Read More](https://medium.com/p/c3f826e82e36) |
+| Sat, 17 May 2025 13:13:52 GMT | Ondas en mi estanque | Diego Savoia | [Read More](https://medium.com/p/4d2065f412a4) |
+| Sat, 17 May 2025 13:12:05 GMT | Breaking In: My Journey Through FreeCodeCamp’s Information Security Certification | Sibusiso Mnyandeni | [Read More](https://medium.com/p/1617b7627d3a) |
+| Sat, 17 May 2025 13:07:37 GMT | Power BI in Healthcare Analytics | Edubridge Academy | [Read More](https://medium.com/p/d4ede5f83554) |
+| Sat, 17 May 2025 13:03:48 GMT | MimeMaster: The .NET Library That Made MIME Detection Fun Again | Tobias tjamma | [Read More](https://medium.com/p/0ab7fee44a10) |
+| Sat, 17 May 2025 13:02:47 GMT | Fake AI Tools Are Spreading Malware — And Small Businesses Are the Target | Peris.ai Cybersecurity | [Read More](https://medium.com/p/82d602385fc8) |
+| Sat, 17 May 2025 12:57:53 GMT | Writing Pentest Reports - TryHackMe Walkthrough | CyferNest Sec | [Read More](https://medium.com/p/e9d001c49a0d) |
+| Sat, 17 May 2025 12:48:04 GMT | Lab Report#12 — Print Spooler NTLM Relaying | Samet Koca | [Read More](https://medium.com/p/8058bb2c18b1) |
+| Sat, 17 May 2025 12:47:32 GMT | From Silicon Valley to Courtroom Valley | Mike Broadly, DHSc | [Read More](https://medium.com/p/5160d3ecbf6b) |
+| Sat, 17 May 2025 12:43:02 GMT | Corporate Buck Breaking — The Professional Lynching of Black Men | Richardeinsteindavis | [Read More](https://medium.com/p/4ed93e6108ce) |
+| Sat, 17 May 2025 12:32:57 GMT | Cybersecurity Threats in 2025 | The United Indian | [Read More](https://medium.com/p/5e31fe678e4b) |
+| Sat, 17 May 2025 12:32:50 GMT | SWE-1: The First Family of Software Engineering Models | Taha Ex | [Read More](https://medium.com/p/6839423b753a) |
 | Sat, 17 May 2025 12:23:43 GMT | No SQL Injection — OWASP JuiceShop #10 | DebianHat | [Read More](https://medium.com/p/7e372701e673) |
 | Sat, 17 May 2025 12:20:52 GMT | Why Cybersecurity Support Services Are Critical for Australian Businesses in 2025 | william smith | [Read More](https://medium.com/p/2f569b5a326d) |
 | Sat, 17 May 2025 12:17:37 GMT | Mixed Economic Signals: Manufacturing Challenges and Financial Market Movements Highlight Economic… | sinan aydin | [Read More](https://medium.com/p/419272e61a8e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 06:25:13 GMT | Hacking My Car, and probably yours— Security Flaws in Volkswagen’s App | LoopSec | [Read More](https://medium.com/p/24b34c47ba89) |
 | Sat, 17 May 2025 06:20:44 GMT | Types of Malware | MITRE Doggy | [Read More](https://medium.com/p/4e1b45788604) |
 | Sat, 17 May 2025 06:19:50 GMT | Residential vs. Commercial Security in Mumbai | United Guard Force India | [Read More](https://medium.com/p/9cde05bc9278) |
-| Sat, 17 May 2025 06:10:52 GMT | Quantum Computing: A New Era of Computation | Abdullah | [Read More](https://medium.com/p/a0fe3ce931f2) |
-| Sat, 17 May 2025 06:10:37 GMT | A Day in the Life of a Pentester…. Working With Gaming Companies or Applications!! | Gokuleswaran B | [Read More](https://medium.com/p/81e4c578f446) |
-| Sat, 17 May 2025 06:06:11 GMT | OWASP Pentest Series (1/12) | TheZeeshanKhan | [Read More](https://medium.com/p/9e43326c6304) |
-| Sat, 17 May 2025 06:05:19 GMT | Best Career Options After BCA or BSc IT in 2025 | Prism HRC | [Read More](https://medium.com/p/78f6aef38731) |
-| Sat, 17 May 2025 06:00:26 GMT | Today’s Top Cyber Intelligence Highlights — May 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/350b01958dd1) |
-| Sat, 17 May 2025 05:52:30 GMT | Reverse Engineering for Beginner | Rishav anand | [Read More](https://medium.com/p/0bf9b20542f7) |
-| Sat, 17 May 2025 05:51:38 GMT | The Hidden Attack Surface: Why Off-Chain Vulnerabilities Are Web3’s Unacknowledged Crisis | Abubakar zubair | [Read More](https://medium.com/p/492f5d546271) |
-| Sat, 17 May 2025 05:50:36 GMT | Master the Art: How Ethical Hackers Crack WiFi Networks (And How to Secure Yours) | Techyinsider | [Read More](https://medium.com/p/af296b4c8314) |
-| Sat, 17 May 2025 05:44:46 GMT | XSS Part — 17 : Reflected XSS into a JavaScript string with single quote and backslash escaped | Ahmad Sopyan | [Read More](https://medium.com/p/53a637ad28a9) |
-| Sat, 17 May 2025 05:44:44 GMT | How Secure Is My Password in 2025? Let’s Find Out Together! | Tahashaikhseo | [Read More](https://medium.com/p/3f17564617f4) |
-| Sat, 17 May 2025 05:42:28 GMT | The Linux Process Journey — psimon (Pressure Stall Information Monitoring) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a62bb563235b) |
-| Sat, 17 May 2025 05:35:17 GMT | I Discovered These Things After Hacking My Own Node.js App | Cloud Guru | [Read More](https://medium.com/p/cf693da33432) |
-| Sat, 17 May 2025 05:11:17 GMT | How to protect your online accounts from hacking? | Charleskerren | [Read More](https://medium.com/p/4b55332c7f0f) |
-| Sat, 17 May 2025 05:05:56 GMT | Why the Board Needs to Learn Cyber Too: Rethinking the CISO Conversation | JC Gaillard | [Read More](https://medium.com/p/3099f3c0463b) |
-| Sat, 17 May 2025 05:03:57 GMT | FortiSandbox by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77f7f3d30ff1) |
-| Sat, 17 May 2025 05:00:10 GMT | Threat Intel Diaries #1 — How To Write Your First Cyber Threat Profile | Karim Walid | [Read More](https://medium.com/p/abc5484c02fd) |
