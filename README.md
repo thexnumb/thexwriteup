@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 22:16:43 GMT | Automate Your Boring Stuff with Python — Part 2 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7951cfd7183e) |
+| Sat, 17 May 2025 22:08:56 GMT | (Analysis)Security of AI Agents | Ajay Kumar | [Read More](https://medium.com/p/eed70c44c3e0) |
+| Sat, 17 May 2025 22:06:46 GMT | SPF, DKIM & DMARC: The Triple Shield of Email Authentication Protocol | Ayyappan Subramanian | [Read More](https://medium.com/p/6d5440aedc47) |
+| Sat, 17 May 2025 21:56:49 GMT | Best In Recovery…. | Jenny Kyle | [Read More](https://medium.com/p/a15f8b677d56) |
+| Sat, 17 May 2025 21:51:27 GMT | Day 16: Blind SQL injection with out-of-band interaction— Zero to Hero out-of-band — Portswigger | RayofHope | [Read More](https://medium.com/p/80cca693aa03) |
+| Sat, 17 May 2025 21:46:26 GMT | The Origin and Evolution of the Android Operating System | Souhail Laghchim | [Read More](https://medium.com/p/b11795cc2fda) |
+| Sat, 17 May 2025 21:42:44 GMT | Start Earning with LunaFi $LFI on StakingRewards | LFI | [Read More](https://medium.com/p/9d2ec017ffcc) |
+| Sat, 17 May 2025 21:42:35 GMT | Linux: A Powerful Open-Source Operating System | Souhail Laghchim | [Read More](https://medium.com/p/9acb48cdf12a) |
+| Sat, 17 May 2025 21:36:40 GMT | Hacking TP-LINK WA850RE Wi-Fi Extender: RCE Leads To Root-Level Reverse Shell | Mehmet Akif VARDAR | [Read More](https://medium.com/p/255bd0443dda) |
+| Sat, 17 May 2025 21:33:41 GMT | Stateful Connection With Spoofed Source IP — NetImpostor | pepperoni | [Read More](https://medium.com/p/ece8b950a981) |
+| Sat, 17 May 2025 21:31:58 GMT | CTF Write-up GoldenSpray (Certified Cyber Defenders) | Mohlaliragab | [Read More](https://medium.com/p/923c77f525a3) |
 | Sat, 17 May 2025 21:30:55 GMT | Dissecting an Obfuscated PowerShell Dropper: Evasion Techniques & Detection Tactics | Yasser Magdy | [Read More](https://medium.com/p/6f712fc50580) |
 | Sat, 17 May 2025 21:20:06 GMT | Earn Passive Income with Recon Solana $RECON Staking | RECON | [Read More](https://medium.com/p/bfa3ce00e87d) |
 | Sat, 17 May 2025 21:13:58 GMT | APT28 Inception Theory — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/31f5ea6a61fb) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 13:59:02 GMT | Cracking the Code: How Vending Machines Can Be Hacked | Babar Ali Jamali | [Read More](https://medium.com/p/f483266ed5c3) |
 | Sat, 17 May 2025 13:47:04 GMT | Denizlerin Üstündeki Siber: AIS | DÜSİBER | [Read More](https://medium.com/p/c2baf8679b50) |
 | Sat, 17 May 2025 13:45:08 GMT | The Missing Metric in Cybersecurity Leadership – RAVP | Fintont | [Read More](https://medium.com/p/8f5d52728168) |
-| Sat, 17 May 2025 13:41:09 GMT | Keep Your Warehouse Secure — Every Second, Every Day. | Visual Monitoring Solutions | [Read More](https://medium.com/p/15b9592949ac) |
-| Sat, 17 May 2025 13:34:50 GMT | USB Proxy: First Steps with Cynthion | HackerHub | [Read More](https://medium.com/p/8eb87cd8d913) |
-| Sat, 17 May 2025 13:32:14 GMT | Beyond Social: Why LinkedIn Is a Growing Enterprise Vulnerability | Senelo Mogane | [Read More](https://medium.com/p/f64bb3f03afc) |
-| Sat, 17 May 2025 13:32:00 GMT | Bugfix Review: Resolving Identifier Collisions | gajnithehero | [Read More](https://medium.com/p/9c136cecb1f4) |
-| Sat, 17 May 2025 13:27:54 GMT | “Apa Itu Cloud Security? Yuk Kenali Keamanan di Balik Teknologi Cloud” | Muhammad Rafi Athallah | [Read More](https://medium.com/p/e59640a2f629) |
-| Sat, 17 May 2025 13:27:46 GMT | Mastering Microservices: The Ultimate Guide | Zoningxtr | [Read More](https://medium.com/p/2537811bb9d3) |
-| Sat, 17 May 2025 13:25:00 GMT | Android Security 2025: Kotlin Guide | Halil Özel | [Read More](https://medium.com/p/e554c2ca8ff3) |
-| Sat, 17 May 2025 13:22:58 GMT | Typosquatting: The HiddenThreat Lurking in Misspelled URLs | Janith Sandamal | [Read More](https://medium.com/p/0c474695f091) |
-| Sat, 17 May 2025 13:22:28 GMT | Assessing Your Organization’s Security Needs | Ed-it Editions | [Read More](https://medium.com/p/678e59e1cf01) |
-| Sat, 17 May 2025 13:22:01 GMT | It’s 2025 and Your Company Will Be Hacked Sooner or Later. Be Prepared. | CyberMassive | [Read More](https://medium.com/p/ce4c7fb9635b) |
-| Sat, 17 May 2025 13:18:59 GMT | Debug Android Project like a PRO applying breakpoints♦️ | Vikas Soni | [Read More](https://medium.com/p/903c0032688e) |
