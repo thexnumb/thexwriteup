@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 10:30:31 GMT | How I Crushed the eJPTv2 Exam - By Talha Khatib | Talha Khatib | [Read More](https://medium.com/p/9a492be19046) |
+| Sat, 17 May 2025 10:22:58 GMT | How I Found the Most Weird Bug in the Bug Bounty Field — Is It Really Worth It… | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/d4b60c0352a8) |
+| Sat, 17 May 2025 10:20:09 GMT | Sun’iy Intellekt Chatbotlari: Ular nima va ish joyida qanday foydalanish mumkin? | Sarvar Nishonboyev | [Read More](https://medium.com/p/ae7cbb2c214c) |
+| Sat, 17 May 2025 10:18:10 GMT | INE — ePJT: Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Babatunde Ojo | [Read More](https://medium.com/p/509728beba57) |
 | Sat, 17 May 2025 10:10:46 GMT | How I Hacked the Vending Machine in My Hostel | Jalaj Gupta | [Read More](https://medium.com/p/43deae317693) |
+| Sat, 17 May 2025 10:10:06 GMT | Cyber Security Course in Bangalore Learn from Experts at Eduleem | Ravi Raj | [Read More](https://medium.com/p/4ebadf259bb2) |
 | Sat, 17 May 2025 10:05:13 GMT | Why I Switched to a Fireproof Faraday Bag for Everyday Digital Security | Kerem BAŞBUĞ | [Read More](https://medium.com/p/162033e9939b) |
 | Sat, 17 May 2025 10:02:53 GMT | Block Microsoft 365 Sign-ins from Unapproved Countries with Conditional Access | Oludolamu Onimole | [Read More](https://medium.com/p/e92933f2c6c0) |
 | Sat, 17 May 2025 10:02:02 GMT | This Google Email Scam Almost Got Me — Here’s How It Works | Abdur Mowlana | [Read More](https://medium.com/p/a0f19e8371b3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 01:14:34 GMT | Breaking Down the Coinbase Insider Threat with MITRE ATT&CK: A GRC Perspective | Brittney Ginther | [Read More](https://medium.com/p/890d3568388c) |
 | Sat, 17 May 2025 01:00:19 GMT | Self-Compassion | Vesper Twilight | [Read More](https://medium.com/p/1f276131594a) |
 | Sat, 17 May 2025 00:44:28 GMT | How to Recover Stolen Crypto: Contact Scanner Hacker Crypto Recovery | Sophiamargret | [Read More](https://medium.com/p/685476bade45) |
-| Sat, 17 May 2025 00:42:29 GMT | Cryptocurrency analysis tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7f484c4c4d0a) |
-| Sat, 17 May 2025 00:05:14 GMT | stranzananza wifi sul windoze cablato | octospacc | [Read More](https://medium.com/p/c12b0c3301a6) |
-| Fri, 16 May 2025 23:56:26 GMT | Notes: Penetration Testing Active Directory Course (Udemy) | Mike Anthony | [Read More](https://medium.com/p/c51f9cc27769) |
-| Fri, 16 May 2025 23:50:41 GMT | CyberBakery Chronicles (16 May 2025) | Gurvinder Pal Singh, The CyberChef | [Read More](https://medium.com/p/1845c084ad62) |
-| Fri, 16 May 2025 23:47:27 GMT | Large Language Command & Control | Tomer Wetzler | [Read More](https://medium.com/p/8552154fa167) |
