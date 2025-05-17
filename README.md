@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 13:34:50 GMT | USB Proxy: First Steps with Cynthion | HackerHub | [Read More](https://medium.com/p/8eb87cd8d913) |
+| Sat, 17 May 2025 13:32:14 GMT | Beyond Social: Why LinkedIn Is a Growing Enterprise Vulnerability | Senelo Mogane | [Read More](https://medium.com/p/f64bb3f03afc) |
+| Sat, 17 May 2025 13:32:00 GMT | Bugfix Review: Resolving Identifier Collisions | gajnithehero | [Read More](https://medium.com/p/9c136cecb1f4) |
+| Sat, 17 May 2025 13:27:54 GMT | “Apa Itu Cloud Security? Yuk Kenali Keamanan di Balik Teknologi Cloud” | Muhammad Rafi Athallah | [Read More](https://medium.com/p/e59640a2f629) |
+| Sat, 17 May 2025 13:27:46 GMT | Mastering Microservices: The Ultimate Guide | Zoningxtr | [Read More](https://medium.com/p/2537811bb9d3) |
+| Sat, 17 May 2025 13:25:00 GMT | Android Security 2025: Kotlin Guide | Halil Özel | [Read More](https://medium.com/p/e554c2ca8ff3) |
 | Sat, 17 May 2025 13:22:58 GMT | Typosquatting: The HiddenThreat Lurking in Misspelled URLs | Janith Sandamal | [Read More](https://medium.com/p/0c474695f091) |
 | Sat, 17 May 2025 13:22:28 GMT | Assessing Your Organization’s Security Needs | Ed-it Editions | [Read More](https://medium.com/p/678e59e1cf01) |
 | Sat, 17 May 2025 13:22:01 GMT | It’s 2025 and Your Company Will Be Hacked Sooner or Later. Be Prepared. | CyberMassive | [Read More](https://medium.com/p/ce4c7fb9635b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 06:56:50 GMT | Global Malware Analysis Market Size, Share, Industry Analysis, Growth, Trends Development And… | Patriciastuckey | [Read More](https://medium.com/p/7854a09c6d1b) |
 | Sat, 17 May 2025 06:55:38 GMT | Why Asking “Would You Still Love Me If I Were a Bug?” Is a Philosophical Question | Rianasaurus | [Read More](https://medium.com/p/db799914909c) |
 | Sat, 17 May 2025 06:54:20 GMT | ️ Coinbase Breach: $400M Fallout and a Masterclass in Social Engineering | Oleksandr Dobosh | [Read More](https://medium.com/p/b095c82de9bd) |
-| Sat, 17 May 2025 06:49:59 GMT | Which is the Best Certified Ethical Hacker Course in 2025? | cyber security Updates | [Read More](https://medium.com/p/1e2d56b5f052) |
-| Sat, 17 May 2025 06:43:00 GMT | Voices of the scar | Boluwatife Lash | [Read More](https://medium.com/p/91b037ee32b7) |
-| Sat, 17 May 2025 06:30:29 GMT | Why Manual QA Fails in Sales Teams — and What to Do Instead | Komplya | [Read More](https://medium.com/p/83fdcdc8a3ac) |
-| Sat, 17 May 2025 06:25:13 GMT | Hacking My Car, and probably yours— Security Flaws in Volkswagen’s App | LoopSec | [Read More](https://medium.com/p/24b34c47ba89) |
-| Sat, 17 May 2025 06:20:44 GMT | Types of Malware | MITRE Doggy | [Read More](https://medium.com/p/4e1b45788604) |
-| Sat, 17 May 2025 06:19:50 GMT | Residential vs. Commercial Security in Mumbai | United Guard Force India | [Read More](https://medium.com/p/9cde05bc9278) |
