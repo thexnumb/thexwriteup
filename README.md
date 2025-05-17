@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 15:06:44 GMT | What The Tech?! Laptop Computers | Investigator515 | [Read More](https://medium.com/p/e041301eca2d) |
+| Sat, 17 May 2025 15:02:30 GMT | How to Recover Deleted Files with Python | Muhammad Abdullahi | [Read More](https://medium.com/p/68792ece7d9f) |
+| Sat, 17 May 2025 14:59:56 GMT | Wide Recon | R T Hunter | [Read More](https://medium.com/p/15ead790196f) |
+| Sat, 17 May 2025 14:57:40 GMT | The Real Cost of Ransomware Attacks (And How to Avoid Them) | All in One security | [Read More](https://medium.com/p/eefa2d09fa96) |
+| Sat, 17 May 2025 14:52:21 GMT | Day 38: Understanding Networking Devices: Hub, Switch, and Router | Agarwaldaksh | [Read More](https://medium.com/p/8ed1afde820b) |
+| Sat, 17 May 2025 14:36:46 GMT | From Innovators to Consumers: A Concerning Shift | Atheel Haddad | [Read More](https://medium.com/p/cacbbef71d2e) |
 | Sat, 17 May 2025 14:23:58 GMT | The Gundremmingen Nuclear Plant Malware Incident: A Case Study on MITRE ATT&CK T0847 | om sonawane | [Read More](https://medium.com/p/21c488edb953) |
 | Sat, 17 May 2025 14:21:29 GMT | $10,500 Bounty: A Grammarly Account Takeover Vector | Monika sharma | [Read More](https://medium.com/p/974ef90fb00a) |
 | Sat, 17 May 2025 14:21:12 GMT | Top 17 Web Vulnerabilities You Must Know in 2025 | Vijay Kumar Gupta | [Read More](https://medium.com/p/3939f0bf0ea2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 08:02:29 GMT | CyberTalents Certified Digital Forensics Examiner Specialist (Writeup) | Amr Eid | [Read More](https://medium.com/p/ba4759407a34) |
 | Sat, 17 May 2025 08:01:19 GMT | Slowly Changing Dimensions (SCD) in PySpark | Sankalpmohate | [Read More](https://medium.com/p/418bf16000bb) |
 | Sat, 17 May 2025 07:55:57 GMT | The Beginner’s Roadmap to SOC (Security Operations Center) Level 1 Alert Triage | R1punjay_Singh | [Read More](https://medium.com/p/a6b875bfd509) |
-| Sat, 17 May 2025 07:47:51 GMT | Threat Intel Diaries #2 — Profiling Sandworm Team (APT44) | Karim Walid | [Read More](https://medium.com/p/f79f02da95ae) |
-| Sat, 17 May 2025 07:46:13 GMT | The Access Flow — What Happens When a User Logs In To ARCON PAM | Amrit Sinha | [Read More](https://medium.com/p/d51e3a3d806e) |
-| Sat, 17 May 2025 07:39:49 GMT | Prompts and Prejudices | Kunter Ilalan | [Read More](https://medium.com/p/c1a289893084) |
-| Sat, 17 May 2025 07:33:06 GMT | You Can Lose Everything in Crypto — Without Getting Hacked or Scammed | Sajjad Hussain | [Read More](https://medium.com/p/fc3b29602153) |
-| Sat, 17 May 2025 07:30:42 GMT | How to Serialize and Deserialize Any Cookie in .NET | Richard Nwonah | [Read More](https://medium.com/p/827e696f72f6) |
-| Sat, 17 May 2025 07:29:11 GMT | Mutillidae Uncovered: Exploiting XSS for Beginners (Metasploitable 2 Lab) | Jai Bhattachhary | [Read More](https://medium.com/p/a5cb66890b89) |
