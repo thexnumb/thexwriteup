@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 10:10:46 GMT | How I Hacked the Vending Machine in My Hostel | Jalaj Gupta | [Read More](https://medium.com/p/43deae317693) |
+| Sat, 17 May 2025 10:05:13 GMT | Why I Switched to a Fireproof Faraday Bag for Everyday Digital Security | Kerem BAŞBUĞ | [Read More](https://medium.com/p/162033e9939b) |
+| Sat, 17 May 2025 10:02:53 GMT | Block Microsoft 365 Sign-ins from Unapproved Countries with Conditional Access | Oludolamu Onimole | [Read More](https://medium.com/p/e92933f2c6c0) |
+| Sat, 17 May 2025 10:02:02 GMT | This Google Email Scam Almost Got Me — Here’s How It Works | Abdur Mowlana | [Read More](https://medium.com/p/a0f19e8371b3) |
+| Sat, 17 May 2025 10:00:57 GMT | Is AI Watching You Inside the Bank? Discover How It Protects Your Money and Tracks Your Every Move | Maha Althobaiti | [Read More](https://medium.com/p/0ac8cbc948e4) |
+| Sat, 17 May 2025 10:00:31 GMT | NMAP Scripting Engine Part 2 | Red | [Read More](https://medium.com/p/09f45299ad1e) |
+| Sat, 17 May 2025 10:00:00 GMT | The Way To Recover Your Money from Mirrox | Mohammad Hunter | [Read More](https://medium.com/p/f0763ae30435) |
+| Sat, 17 May 2025 09:59:20 GMT | IPinfo Free Geolocation API: Tools, Setup & Use Cases | Pawan Jaiswal | [Read More](https://medium.com/p/f066e321448a) |
+| Sat, 17 May 2025 09:56:24 GMT | Mirrox Review 2025 - Reclaim what’s Yours Now. | Mohammad Hunter | [Read More](https://medium.com/p/efa023117690) |
+| Sat, 17 May 2025 09:51:18 GMT | The Text Message That Saved Us: A Lesson in Emotional Timing | J.S Writes ✨ | [Read More](https://medium.com/p/c0b5fa28246a) |
+| Sat, 17 May 2025 09:48:06 GMT | Configure DNS Firewall at VPC Level for Outbound DNS Filtering in AWS | S Karthik | [Read More](https://medium.com/p/ff8161dedafe) |
+| Sat, 17 May 2025 09:44:11 GMT | Introduction to Security Operations & Forensic Investigation Process | Igor Berner | [Read More](https://medium.com/p/0fd7ce542829) |
+| Sat, 17 May 2025 09:42:01 GMT | They’re proud because they can’t do it | Kakoli | [Read More](https://medium.com/p/eb69658c7360) |
+| Sat, 17 May 2025 09:39:31 GMT | Metasploitable2: The Complete Annihilation Guide [Part 1: Introduction] | Armaan Mulla | [Read More](https://medium.com/p/f1c9b0544a30) |
 | Sat, 17 May 2025 09:36:03 GMT | It Was Supposed to Be SSTI.. But CSTI Had Other Plans | Rahul M S | [Read More](https://medium.com/p/9368bbd8375c) |
+| Sat, 17 May 2025 09:32:04 GMT | To the Friend Who Never Came — a Heartfelt Letter | Sherene Jensen | [Read More](https://medium.com/p/164823c8e1b9) |
 | Sat, 17 May 2025 09:24:56 GMT | 5 Guiding Principles for Trustworthy Tech Leadership in 2025 and Beyond | Les Ottolenghi | [Read More](https://medium.com/p/cd266a319f64) |
 | Sat, 17 May 2025 09:22:13 GMT | The Scroll That Stole Childhood | tanishka singh | [Read More](https://medium.com/p/3c80574919f8) |
 | Sat, 17 May 2025 09:11:13 GMT | TryHackMe CTFs series Walkthoroughs | HacksonAloysis | [Read More](https://medium.com/p/ce3f37c324f7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 23:56:26 GMT | Notes: Penetration Testing Active Directory Course (Udemy) | Mike Anthony | [Read More](https://medium.com/p/c51f9cc27769) |
 | Fri, 16 May 2025 23:50:41 GMT | CyberBakery Chronicles (16 May 2025) | Gurvinder Pal Singh, The CyberChef | [Read More](https://medium.com/p/1845c084ad62) |
 | Fri, 16 May 2025 23:47:27 GMT | Large Language Command & Control | Tomer Wetzler | [Read More](https://medium.com/p/8552154fa167) |
-| Fri, 16 May 2025 23:17:00 GMT | How to stop hackers from reading your private messages: Encrypt them with MakeItPrivate.org | Deepak Puri | [Read More](https://medium.com/p/1d65bd7beed4) |
-| Fri, 16 May 2025 23:15:02 GMT | Data Privacy and Your Mobile Phone | Savvy Cyber Kids | [Read More](https://medium.com/p/c4ae3c59de7b) |
-| Fri, 16 May 2025 23:14:22 GMT | THM — Retracted Room Writeup (Ransomware) | Shamar Isaac | [Read More](https://medium.com/p/ed5cb80344d1) |
-| Fri, 16 May 2025 23:13:41 GMT | How Are Women Treated Differently Online? | Savvy Cyber Kids | [Read More](https://medium.com/p/b80d6ccf96b5) |
-| Fri, 16 May 2025 23:12:37 GMT | Reflexiones sobre la creación de comunidades: El caso Bug Bounty Argentina y su réplica | KRAQEN | [Read More](https://medium.com/p/f7a6cf3c9cf1) |
-| Fri, 16 May 2025 23:09:24 GMT | “I love you in different languages.” | Prabhu Perumal | [Read More](https://medium.com/p/8881d115e73b) |
-| Fri, 16 May 2025 23:02:17 GMT | Public Key Cryptography Basics - THM | Isiah Johnstone | [Read More](https://medium.com/p/2ca42016ea52) |
-| Fri, 16 May 2025 22:39:58 GMT | Why Cybersecurity Frameworks Matter for Small Businesses | Optimati | [Read More](https://medium.com/p/88208f7c5445) |
-| Fri, 16 May 2025 22:20:09 GMT | Kioptrix Level 3 | areej | [Read More](https://medium.com/p/b7e2a3a3a4b1) |
-| Fri, 16 May 2025 22:16:28 GMT | Automate Your Boring Stuff with Python: A Practical Guide for Everyday Cybersecurity Tasks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b78a266a98a7) |
-| Fri, 16 May 2025 22:13:05 GMT | Chrome’s CVE-2025–4664: How a Single Header Could Leak Sensitive Data | Cyber-AppSec | [Read More](https://medium.com/p/11449d0345c8) |
-| Fri, 16 May 2025 22:08:45 GMT | “$1 Billion AI System Prompts” Just Got Leaked. | Nikolay Gul | [Read More](https://medium.com/p/60ae9f9b71fe) |
-| Fri, 16 May 2025 22:01:21 GMT | PacketMaze: The Art of Packet Hunting | Omar Hesham | [Read More](https://medium.com/p/61b1a73328bd) |
-| Fri, 16 May 2025 21:54:42 GMT | AI Crypto Trading Bots: The Hidden Risks Every Trader Should Know | Tom Croll | [Read More](https://medium.com/p/ab0a81eac967) |
-| Fri, 16 May 2025 21:53:17 GMT | How to Get Into Cybersecurity | Damien Le | [Read More](https://medium.com/p/67e519e2baad) |
