@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 12:23:43 GMT | No SQL Injection — OWASP JuiceShop #10 | DebianHat | [Read More](https://medium.com/p/7e372701e673) |
+| Sat, 17 May 2025 12:20:52 GMT | Why Cybersecurity Support Services Are Critical for Australian Businesses in 2025 | william smith | [Read More](https://medium.com/p/2f569b5a326d) |
+| Sat, 17 May 2025 12:17:37 GMT | Mixed Economic Signals: Manufacturing Challenges and Financial Market Movements Highlight Economic… | sinan aydin | [Read More](https://medium.com/p/419272e61a8e) |
+| Sat, 17 May 2025 12:06:39 GMT | How do hackers bypass multi-factor authentication (MFA)? | 0trust0day | [Read More](https://medium.com/p/0382409392fe) |
+| Sat, 17 May 2025 12:06:26 GMT | INE —  eJPT: Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Babatunde Ojo | [Read More](https://medium.com/p/04163bd89b30) |
+| Sat, 17 May 2025 12:05:38 GMT | Digital Anonymity: A Shield of Privacy or an Illusion of Security? | Fadhil Pratama | [Read More](https://medium.com/p/1fbfe8da5272) |
+| Sat, 17 May 2025 11:57:32 GMT | When the hunters get hacked: LockBit ransomware gang’s empire crumbles | The 404 truth | [Read More](https://medium.com/p/4914b16ab643) |
+| Sat, 17 May 2025 11:56:52 GMT | Security Teams That Do More Than Watch — They Manage | Group 24/7 Security Services | [Read More](https://medium.com/p/2d8f194d2e21) |
+| Sat, 17 May 2025 11:52:17 GMT | Lab Report#11 —  Kerberos Constrained Delegation (KCD) | Samet Koca | [Read More](https://medium.com/p/cb7be53b10bc) |
+| Sat, 17 May 2025 11:49:46 GMT | The dangers of using“WebClient” in csharp | Jeroen Verhaeghe | [Read More](https://medium.com/p/fd236f8e6ba2) |
 | Sat, 17 May 2025 11:20:11 GMT | GDB baby step 2 - Writeup | Marvin | [Read More](https://medium.com/p/92f54f3345eb) |
 | Sat, 17 May 2025 11:16:46 GMT | Breaking and Securing Rate Limits: A Professional’s Guide | AkashSharma | [Read More](https://medium.com/p/188fb394260b) |
 | Sat, 17 May 2025 11:13:36 GMT | How to Set Up GDB for Debugging Android Apps | Sandeep Wawdane | [Read More](https://medium.com/p/0f9f94ec337e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 05:05:56 GMT | Why the Board Needs to Learn Cyber Too: Rethinking the CISO Conversation | JC Gaillard | [Read More](https://medium.com/p/3099f3c0463b) |
 | Sat, 17 May 2025 05:03:57 GMT | FortiSandbox by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77f7f3d30ff1) |
 | Sat, 17 May 2025 05:00:10 GMT | Threat Intel Diaries #1 — How To Write Your First Cyber Threat Profile | Karim Walid | [Read More](https://medium.com/p/abc5484c02fd) |
-| Sat, 17 May 2025 04:58:22 GMT | Address space layout randomization | Merved | [Read More](https://medium.com/p/fe2db08c3d6b) |
-| Sat, 17 May 2025 04:46:27 GMT | Kerentanan Time-Based SQL Injection pada Form Login Aplikasi Web | Zakyzaa | [Read More](https://medium.com/p/ca40deb60fb0) |
-| Sat, 17 May 2025 04:32:31 GMT | ️ Zero Trust Architecture Explained for Beginners: Why Trust Is No Longer Enough | Dhruvish Rathod | [Read More](https://medium.com/p/2b5206c44094) |
-| Sat, 17 May 2025 04:27:08 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/76c2ead78232) |
-| Sat, 17 May 2025 04:19:49 GMT | Introduction to Cyber Security Landscapes | Skills 4 Free Myanmar | [Read More](https://medium.com/p/1af21a56f9b4) |
-| Sat, 17 May 2025 04:19:39 GMT | How a Simple Host Header Injection Took Down the Forgot Password Page | ASC Lages | [Read More](https://medium.com/p/c4f7dd434532) |
-| Sat, 17 May 2025 04:01:40 GMT | Why Cybersecurity Needs to Think Like Agile: Embracing a Probabilistic Approach to Threat… | Felicien F. | [Read More](https://medium.com/p/b77b6becdec0) |
-| Sat, 17 May 2025 03:55:50 GMT | Java Overview: The Basics You Need to Know (Part 1) | Hari | [Read More](https://medium.com/p/2c600312389d) |
-| Sat, 17 May 2025 03:33:31 GMT | How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit… | Vikrant Ravindra Dete | [Read More](https://medium.com/p/4898e5033c31) |
-| Sat, 17 May 2025 03:32:33 GMT | Zero-Day Fallout: How a Hidden Flaw Exposed Thousands at Western Alliance Bank | Deven Chhajed | [Read More](https://medium.com/p/32de4d3ced38) |
