@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 04:32:31 GMT | ️ Zero Trust Architecture Explained for Beginners: Why Trust Is No Longer Enough | Dhruvish Rathod | [Read More](https://medium.com/p/2b5206c44094) |
+| Sat, 17 May 2025 04:27:08 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/76c2ead78232) |
 | Sat, 17 May 2025 04:19:49 GMT | Introduction to Cyber Security Landscapes | Skills 4 Free Myanmar | [Read More](https://medium.com/p/1af21a56f9b4) |
 | Sat, 17 May 2025 04:19:39 GMT | How a Simple Host Header Injection Took Down the Forgot Password Page | ASC Lages | [Read More](https://medium.com/p/c4f7dd434532) |
 | Sat, 17 May 2025 04:01:40 GMT | Why Cybersecurity Needs to Think Like Agile: Embracing a Probabilistic Approach to Threat… | Felicien F. | [Read More](https://medium.com/p/b77b6becdec0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 17:36:16 GMT | GitHub SSO for CloudBeaver using oauth2-proxy and Helm on Kubernetes | Rudhra Rai | [Read More](https://medium.com/p/753ef9ca757d) |
 | Fri, 16 May 2025 17:35:43 GMT | TryHackMe CTF Series- Walkthrough MR Robot CTF | HacksonAloysis | [Read More](https://medium.com/p/5de56a5bd3a1) |
 | Fri, 16 May 2025 17:34:59 GMT | The future of Cybersecurity with AI: Where Are We Headed? | Saumajit Malakar | [Read More](https://medium.com/p/3c2636711aa8) |
-| Fri, 16 May 2025 17:25:06 GMT | Light - TryHackMe Easy Box | Error | [Read More](https://medium.com/p/4bcf07b602ba) |
-| Fri, 16 May 2025 17:20:30 GMT | How To Undo Intune AppLocker CSPs | Miguel A. Calles | [Read More](https://medium.com/p/fd2e8b3dab14) |
