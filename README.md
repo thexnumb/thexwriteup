@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 14:23:58 GMT | The Gundremmingen Nuclear Plant Malware Incident: A Case Study on MITRE ATT&CK T0847 | om sonawane | [Read More](https://medium.com/p/21c488edb953) |
+| Sat, 17 May 2025 14:21:29 GMT | $10,500 Bounty: A Grammarly Account Takeover Vector | Monika sharma | [Read More](https://medium.com/p/974ef90fb00a) |
+| Sat, 17 May 2025 14:21:12 GMT | Top 17 Web Vulnerabilities You Must Know in 2025 | Vijay Kumar Gupta | [Read More](https://medium.com/p/3939f0bf0ea2) |
+| Sat, 17 May 2025 14:14:49 GMT | Writing Penetration Testing Reports: Turning Technical Findings into Business Action | Babar Ali Jamali | [Read More](https://medium.com/p/dcb1eb64449c) |
 | Sat, 17 May 2025 14:07:53 GMT | I need a hacker to recover my stolen bitcoin/usdt/eth with a crypto recovery expert -Crypto… | Robertjoness | [Read More](https://medium.com/p/3e76bdf7309f) |
 | Sat, 17 May 2025 14:06:59 GMT | $500 Bounty: A Referer Leak in Brave’s Private Tor Window | Monika sharma | [Read More](https://medium.com/p/ee0c846203b5) |
 | Sat, 17 May 2025 13:59:02 GMT | Cracking the Code: How Vending Machines Can Be Hacked | Babar Ali Jamali | [Read More](https://medium.com/p/f483266ed5c3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 07:33:06 GMT | You Can Lose Everything in Crypto — Without Getting Hacked or Scammed | Sajjad Hussain | [Read More](https://medium.com/p/fc3b29602153) |
 | Sat, 17 May 2025 07:30:42 GMT | How to Serialize and Deserialize Any Cookie in .NET | Richard Nwonah | [Read More](https://medium.com/p/827e696f72f6) |
 | Sat, 17 May 2025 07:29:11 GMT | Mutillidae Uncovered: Exploiting XSS for Beginners (Metasploitable 2 Lab) | Jai Bhattachhary | [Read More](https://medium.com/p/a5cb66890b89) |
-| Sat, 17 May 2025 07:22:11 GMT | Lights, Camera, Security! Protecting Your Film’s Digital Assets | Joseph Desmond Cruel | [Read More](https://medium.com/p/c8197309cf28) |
-| Sat, 17 May 2025 07:17:35 GMT | How Cyber Security Consulting Services Can Save You from Costly Data Breaches | Noblehackers                   The Noble Hackers | [Read More](https://medium.com/p/884f36993c4c) |
-| Sat, 17 May 2025 07:14:35 GMT | My First Bug Bounty: How I Earned $1,000 | Kailasv | [Read More](https://medium.com/p/4ae2bf36039d) |
-| Sat, 17 May 2025 07:05:12 GMT | Cybersecurity in the Workplace: How to Protect Sensitive Employee Data | Our Business Ladder | [Read More](https://medium.com/p/35215e4bf139) |
