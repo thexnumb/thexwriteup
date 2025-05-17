@@ -13,6 +13,7 @@ A list of the latest fetched articles from RSS feeds.
 | Date | Title | Author | Link |
 |------|-------|--------|------|
 | Sat, 17 May 2025 05:11:17 GMT | How to protect your online accounts from hacking? | Charleskerren | [Read More](https://medium.com/p/4b55332c7f0f) |
+| Sat, 17 May 2025 05:05:56 GMT | Why the Board Needs to Learn Cyber Too: Rethinking the CISO Conversation | JC Gaillard | [Read More](https://medium.com/p/3099f3c0463b) |
 | Sat, 17 May 2025 05:03:57 GMT | FortiSandbox by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/77f7f3d30ff1) |
 | Sat, 17 May 2025 05:00:10 GMT | Threat Intel Diaries #1 — How To Write Your First Cyber Threat Profile | Karim Walid | [Read More](https://medium.com/p/abc5484c02fd) |
 | Sat, 17 May 2025 04:58:22 GMT | Address space layout randomization | Merved | [Read More](https://medium.com/p/fe2db08c3d6b) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 18:15:24 GMT | Day 6 — When Remote Services Became a Weapon: Inside PIPEDREAM / INCONTROLLER ICS Malware | om sonawane | [Read More](https://medium.com/p/2cad3a2ebce2) |
 | Fri, 16 May 2025 18:13:31 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/26908d381a9e) |
 | Fri, 16 May 2025 18:11:54 GMT | How Reddit Narrowly Escaped a Major Security Breach | Abdur Mowlana | [Read More](https://medium.com/p/bcb744dc069b) |
-| Fri, 16 May 2025 18:00:17 GMT | Canadian Utility Breach: Nova Scotia Power | IT_Engineer | [Read More](https://medium.com/p/c79a2afdc3e4) |
