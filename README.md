@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 22:28:43 GMT | A Path Down Linux Lane | Ace | [Read More](https://medium.com/p/3ba490cd93ef) |
+| Sat, 17 May 2025 22:28:21 GMT | SentryPC: The Ultimate Digital Monitoring & Control Solution for Families and Businesses | Brand Marketer | [Read More](https://medium.com/p/fbe4ddf2dfb9) |
+| Sat, 17 May 2025 22:26:41 GMT | A Path Down Linux Lane | Ace | [Read More](https://medium.com/p/96155cd1206a) |
 | Sat, 17 May 2025 22:16:43 GMT | Automate Your Boring Stuff with Python — Part 2 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7951cfd7183e) |
 | Sat, 17 May 2025 22:08:56 GMT | (Analysis)Security of AI Agents | Ajay Kumar | [Read More](https://medium.com/p/eed70c44c3e0) |
 | Sat, 17 May 2025 22:06:46 GMT | SPF, DKIM & DMARC: The Triple Shield of Email Authentication Protocol | Ayyappan Subramanian | [Read More](https://medium.com/p/6d5440aedc47) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 14:14:49 GMT | Writing Penetration Testing Reports: Turning Technical Findings into Business Action | Babar Ali Jamali | [Read More](https://medium.com/p/dcb1eb64449c) |
 | Sat, 17 May 2025 14:07:53 GMT | I need a hacker to recover my stolen bitcoin/usdt/eth with a crypto recovery expert -Crypto… | Robertjoness | [Read More](https://medium.com/p/3e76bdf7309f) |
 | Sat, 17 May 2025 14:06:59 GMT | $500 Bounty: A Referer Leak in Brave’s Private Tor Window | Monika sharma | [Read More](https://medium.com/p/ee0c846203b5) |
-| Sat, 17 May 2025 13:59:02 GMT | Cracking the Code: How Vending Machines Can Be Hacked | Babar Ali Jamali | [Read More](https://medium.com/p/f483266ed5c3) |
-| Sat, 17 May 2025 13:47:04 GMT | Denizlerin Üstündeki Siber: AIS | DÜSİBER | [Read More](https://medium.com/p/c2baf8679b50) |
-| Sat, 17 May 2025 13:45:08 GMT | The Missing Metric in Cybersecurity Leadership – RAVP | Fintont | [Read More](https://medium.com/p/8f5d52728168) |
