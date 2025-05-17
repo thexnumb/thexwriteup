@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 01:30:36 GMT | Sovereign Digital Infrastructure: Bukan Sekadar Pusat Data Lokal | Ghozie Afiansyah | [Read More](https://medium.com/p/b1b0bcffb69e) |
+| Sat, 17 May 2025 01:29:03 GMT | The Role of AI in Next-Gen Vulnerability Management | Paritosh | [Read More](https://medium.com/p/f2988ace3de5) |
+| Sat, 17 May 2025 01:15:36 GMT | HackTheBox — Introduction to Windows Command Line Skill Assessment Walkthrough | Javier | [Read More](https://medium.com/p/daa57d6e716d) |
+| Sat, 17 May 2025 01:14:34 GMT | Breaking Down the Coinbase Insider Threat with MITRE ATT&CK: A GRC Perspective | Brittney Ginther | [Read More](https://medium.com/p/890d3568388c) |
+| Sat, 17 May 2025 01:00:19 GMT | Self-Compassion | Vesper Twilight | [Read More](https://medium.com/p/1f276131594a) |
+| Sat, 17 May 2025 00:44:28 GMT | How to Recover Stolen Crypto: Contact Scanner Hacker Crypto Recovery | Sophiamargret | [Read More](https://medium.com/p/685476bade45) |
+| Sat, 17 May 2025 00:42:29 GMT | Cryptocurrency analysis tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7f484c4c4d0a) |
+| Sat, 17 May 2025 00:05:14 GMT | stranzananza wifi sul windoze cablato | octospacc | [Read More](https://medium.com/p/c12b0c3301a6) |
+| Fri, 16 May 2025 23:56:26 GMT | Notes: Penetration Testing Active Directory Course (Udemy) | Mike Anthony | [Read More](https://medium.com/p/c51f9cc27769) |
+| Fri, 16 May 2025 23:50:41 GMT | CyberBakery Chronicles (16 May 2025) | Gurvinder Pal Singh, The CyberChef | [Read More](https://medium.com/p/1845c084ad62) |
+| Fri, 16 May 2025 23:47:27 GMT | Large Language Command & Control | Tomer Wetzler | [Read More](https://medium.com/p/8552154fa167) |
 | Fri, 16 May 2025 23:17:00 GMT | How to stop hackers from reading your private messages: Encrypt them with MakeItPrivate.org | Deepak Puri | [Read More](https://medium.com/p/1d65bd7beed4) |
 | Fri, 16 May 2025 23:15:02 GMT | Data Privacy and Your Mobile Phone | Savvy Cyber Kids | [Read More](https://medium.com/p/c4ae3c59de7b) |
 | Fri, 16 May 2025 23:14:22 GMT | THM — Retracted Room Writeup (Ransomware) | Shamar Isaac | [Read More](https://medium.com/p/ed5cb80344d1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 May 2025 16:29:22 GMT | 7 Advantages of Coding Brushup’s Cybersecurity Course | Coding Brushup | [Read More](https://medium.com/p/9e84249a3f50) |
 | Fri, 16 May 2025 16:26:39 GMT | What Is Cybersecurity? A Complete Guide to Digital Protection in 2025 | SafeAeon Inc. | [Read More](https://medium.com/p/3e86b23d8b1a) |
 | Fri, 16 May 2025 16:24:47 GMT | Protecting Data at Rest and in Transit: End-to-end, Link & Onion Encryption | Igor Berner | [Read More](https://medium.com/p/4800a7cf3eb5) |
-| Fri, 16 May 2025 16:24:09 GMT | Internet Tarayici Güvenliği — 1 | Ataberk Cem Yücedağ | [Read More](https://medium.com/p/d56c455cc702) |
-| Fri, 16 May 2025 16:18:20 GMT | Pwn2Own Berlin 2025: Windows 11, Red Hat Linux, and VirtualBox Compromised on Day One. | eL Njas!™ | [Read More](https://medium.com/p/8b275672432b) |
-| Fri, 16 May 2025 16:17:26 GMT | Ink-sistent | Praise Ejiro | [Read More](https://medium.com/p/b7ce32b1d437) |
-| Fri, 16 May 2025 16:17:07 GMT | SOC112 — Traffic to Blacklisted IP | Cyril Philipp Abajar | [Read More](https://medium.com/p/f3554a2639fb) |
-| Fri, 16 May 2025 16:14:45 GMT | Stop Memorizing Interview Answers. Learn the Work Instead. | A D | [Read More](https://medium.com/p/7379304e1888) |
-| Fri, 16 May 2025 16:12:16 GMT | Node.js api OWASP | Chirag Kamat | [Read More](https://medium.com/p/e0ba29ace2b2) |
-| Fri, 16 May 2025 16:06:52 GMT | Hack The Box: TwoMillion Writeup | MO R SY | [Read More](https://medium.com/p/044b7f7c4ac8) |
-| Fri, 16 May 2025 15:58:06 GMT | What The New PCI AI Guidelines Reveal About The Future of Governance, Risk and Compliance (GRC) | Taimur Ijlal | [Read More](https://medium.com/p/ef8993b21fc8) |
-| Fri, 16 May 2025 15:56:38 GMT | Cyber-Physical Systems in Agriculture: Smarter Farming with AI Cybersecurity at Its Core | Data Defendere | [Read More](https://medium.com/p/e597a0df6a6d) |
-| Fri, 16 May 2025 15:51:14 GMT | Brute-Force Attack - Hire Hacker | GhostWriter | [Read More](https://medium.com/p/34ca6a5d1034) |
-| Fri, 16 May 2025 15:47:20 GMT | Given an inch, take a mile. | Security Consulting Blogspot | [Read More](https://medium.com/p/e0c9e3023ef9) |
