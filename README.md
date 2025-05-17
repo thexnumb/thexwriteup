@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 May 2025 19:34:52 GMT | IA No-Code, Low-Code et Agents IA : Un Aperçu Futuriste | Emmanuel Siam's | [Read More](https://medium.com/p/eafdb839ecb7) |
+| Sat, 17 May 2025 19:24:10 GMT | From Breaches to Crackdowns: Why Cybersecurity Can’t Be Optional Anymore | Siva Gunasekaran | [Read More](https://medium.com/p/f407cf8c9728) |
+| Sat, 17 May 2025 19:20:36 GMT | Overthewire | Muhammed Enes Gürkan | [Read More](https://medium.com/p/18db705495e5) |
 | Sat, 17 May 2025 19:06:57 GMT | Bug Bounty desde Cero: De la Curiosidad al Primer Hallazgo | Cami Bertolani | [Read More](https://medium.com/p/6642e3944764) |
 | Sat, 17 May 2025 18:55:39 GMT | IBM Cybersecurity Analyst Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/6c7bae82bee7) |
 | Sat, 17 May 2025 18:54:55 GMT | Splunk Looked Unbeatable — Until I Made It Kneel | Manish Rawat | [Read More](https://medium.com/p/c313798d24f1) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 11:52:17 GMT | Lab Report#11 —  Kerberos Constrained Delegation (KCD) | Samet Koca | [Read More](https://medium.com/p/cb7be53b10bc) |
 | Sat, 17 May 2025 11:49:46 GMT | The dangers of using“WebClient” in csharp | Jeroen Verhaeghe | [Read More](https://medium.com/p/fd236f8e6ba2) |
 | Sat, 17 May 2025 11:20:11 GMT | GDB baby step 2 - Writeup | Marvin | [Read More](https://medium.com/p/92f54f3345eb) |
-| Sat, 17 May 2025 11:16:46 GMT | Breaking and Securing Rate Limits: A Professional’s Guide | AkashSharma | [Read More](https://medium.com/p/188fb394260b) |
-| Sat, 17 May 2025 11:13:36 GMT | How to Set Up GDB for Debugging Android Apps | Sandeep Wawdane | [Read More](https://medium.com/p/0f9f94ec337e) |
-| Sat, 17 May 2025 11:10:00 GMT | How I Found Stored HTML Injection in the Invite User Feature and Earned $300 | Whitehat | [Read More](https://medium.com/p/3f0d106a7960) |
