@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 16:38:22 GMT | DriftingBlues6 Walkthrough | Ancava | [Read More](https://medium.com/p/b011b37e7ac8) |
+| Sun, 18 May 2025 16:31:30 GMT | 0x00 初探香港 Cybersecurity 行業隨筆 | cousin007 | [Read More](https://medium.com/p/c5df08e45d13) |
+| Sun, 18 May 2025 16:30:44 GMT | TryHackMe — Volt Typhoon Challenge — Walkthrough | Whitelligence | [Read More](https://medium.com/p/f72a8567a6f5) |
+| Sun, 18 May 2025 16:30:03 GMT | Why has the Central Asian Countries’ stance on Taliban been changed now? | Firdavs Azimqulov | [Read More](https://medium.com/p/ac4285b48f9d) |
+| Sun, 18 May 2025 16:28:27 GMT | IS AI A GOOD TUTOR? | Intellectual-youth | [Read More](https://medium.com/p/08393dd41895) |
+| Sun, 18 May 2025 16:20:11 GMT | CERTIFICATIONS THAT ARE REQUIRED IN CYBERSECURITY | Articalgeek | [Read More](https://medium.com/p/ac987d3eed70) |
 | Sun, 18 May 2025 16:08:49 GMT | Beyond Firewalls: What True End-to-End Cybersecurity Looks Like Today | NetObjex | [Read More](https://medium.com/p/0a0281a63b09) |
 | Sun, 18 May 2025 16:08:01 GMT | ️ Top 20 Interview Questions Every Cybersecurity & Pentesting Candidate Must Prepare (2025… | Vipul Sonule | [Read More](https://medium.com/p/8cf626249a56) |
 | Sun, 18 May 2025 16:06:15 GMT | Top 5 Signs of a Cryptocurrency or Investment Scam — And How to Recover Your Money | Geniusrestore | [Read More](https://medium.com/p/04ab83d5f05c) |
@@ -107,9 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 10:25:21 GMT | TryHakMe: Supply Chain Attack: Lottie- | Pavneet_Singh_ | [Read More](https://medium.com/p/ae9ffce45cf6) |
 | Sun, 18 May 2025 10:21:51 GMT | I Don’t Think I’m Hard to Love. I Think I’m Just Hard to Reach. | Lilliesinherwake | [Read More](https://medium.com/p/8ab1cbaeef66) |
 | Sun, 18 May 2025 10:14:39 GMT | How To Use ChatGPT for Cybersecurity | Bernard Builds | [Read More](https://medium.com/p/e04ea7efc618) |
-| Sun, 18 May 2025 10:12:24 GMT | Build Your Own AI SOC — Part 6 Daily AI-Powered Threat Briefings With n8n + GPT | Corey Jones | [Read More](https://medium.com/p/17bd8d5b9b11) |
-| Sun, 18 May 2025 10:11:59 GMT | How the Europeans and Israelis relate to religion | Nancy Anderson | [Read More](https://medium.com/p/9a49e4e0b49b) |
-| Sun, 18 May 2025 10:11:00 GMT | I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters | Ravindrajatav | [Read More](https://medium.com/p/7bc95b8ea860) |
-| Sun, 18 May 2025 10:07:38 GMT | macOS Forensics: The Basics — TryHackMe Walkthrough | Pavneet_Singh_ | [Read More](https://medium.com/p/42c735000d40) |
-| Sun, 18 May 2025 10:04:38 GMT | ️ How Hackers Hide Code in Everyday Files — Complete Breakdown With Commands & Tools | NIkhil Kumar | [Read More](https://medium.com/p/be242c3e5ee0) |
-| Sun, 18 May 2025 09:57:18 GMT | Why Windows XP is Safer Than Windows 11 | Arch-Villager | [Read More](https://medium.com/p/a8b79a57fb0f) |
