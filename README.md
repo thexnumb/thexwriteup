@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 10:11:59 GMT | How the Europeans and Israelis relate to religion | Nancy Anderson | [Read More](https://medium.com/p/9a49e4e0b49b) |
+| Sun, 18 May 2025 10:11:00 GMT | I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters | Ravindrajatav | [Read More](https://medium.com/p/7bc95b8ea860) |
+| Sun, 18 May 2025 10:07:38 GMT | macOS Forensics: The Basics — TryHackMe Walkthrough | Pavneet_Singh_ | [Read More](https://medium.com/p/42c735000d40) |
+| Sun, 18 May 2025 10:04:38 GMT | ️ How Hackers Hide Code in Everyday Files — Complete Breakdown With Commands & Tools | NIkhil Kumar | [Read More](https://medium.com/p/be242c3e5ee0) |
+| Sun, 18 May 2025 09:57:18 GMT | Why Windows XP is Safer Than Windows 11 | Arch-Villager | [Read More](https://medium.com/p/a8b79a57fb0f) |
+| Sun, 18 May 2025 09:55:31 GMT | Try Hack Me: Simple CTF Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/9c6f7c5e5c11) |
+| Sun, 18 May 2025 09:52:39 GMT | My eJPT Journey: Notes, andTips, That Helped Me Pass | Toheeb Kayode Adisa | [Read More](https://medium.com/p/1e64fe2c3355) |
+| Sun, 18 May 2025 09:51:10 GMT | Free TryHackMe Rooms to Help You Pass Your eJPT Exam | Toheeb Kayode Adisa | [Read More](https://medium.com/p/075a30e97041) |
+| Sun, 18 May 2025 09:50:07 GMT | ZBX Review- Is It Possible To Recover My Money Back? | Ryan Edward | [Read More](https://medium.com/p/94de28f474bc) |
+| Sun, 18 May 2025 09:46:17 GMT | Here Is How I Recover My Money From ZBX | Ryan Edward | [Read More](https://medium.com/p/6e5b405401b4) |
+| Sun, 18 May 2025 09:40:22 GMT | Samsung Slams the Door on Mirai: Patching CVE-2025–4632 in MagicINFO 9 to Stop Botnet Chaos ️ | Ismail Tasdelen | [Read More](https://medium.com/p/53bbd6c36f1a) |
 | Sun, 18 May 2025 09:36:58 GMT | BianLian and RansomExx Unleash Chaos: SAP NetWeaver Flaw Fuels PipeMagic Trojan Attacks ️ | Ismail Tasdelen | [Read More](https://medium.com/p/49742b1986e8) |
 | Sun, 18 May 2025 09:33:47 GMT | Xinbi Guarantee: The $8.4B Telegram Black Market Fueling Crypto Crime and Romance Scams ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c9fde95612d8) |
 | Sun, 18 May 2025 09:29:13 GMT | The Custom Instruction Backdoor: Uncovering Emergent Prompt Injection Risks in ChatGPT | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/5fd57f775693) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 02:57:35 GMT | The Dangers of Screenshot Sharing in Remote Teams | Bl@ckC!pH3r | [Read More](https://medium.com/p/8d8a8329a952) |
 | Sun, 18 May 2025 02:47:40 GMT | TryHackMe Phishing Challenge: The Greenholt Phish | Eidelweiiss | [Read More](https://medium.com/p/d7356efafbc0) |
 | Sun, 18 May 2025 02:35:22 GMT | SIM Swapping Attack: The Silent Digital Heist You Must Be Aware Of | Ddm atiq | [Read More](https://medium.com/p/f9d5bfdd7de0) |
-| Sun, 18 May 2025 02:32:33 GMT | Same Username, Different Letters? Account Creation with Lookalike Usernames | StrangeRwhite | [Read More](https://medium.com/p/e370b2a7d5e3) |
-| Sun, 18 May 2025 02:32:33 GMT | Auto-Recovery for Django and Frappe: Instant Backups, One-Click Restore, and Smart Alerts | Pranav Dixit | [Read More](https://medium.com/p/275b7c2ad238) |
-| Sun, 18 May 2025 02:07:00 GMT | Precision Over Power: How HTTPBot Is Rewriting the Rules of DDoS Attacks | Cyber-AppSec | [Read More](https://medium.com/p/c955ec9d5b3d) |
-| Sun, 18 May 2025 02:05:37 GMT | Python for Cybersecurity: Tools and Techniques | The Code Journals | [Read More](https://medium.com/p/d9ad47f7189f) |
-| Sun, 18 May 2025 01:55:26 GMT | ️ From Code to Cloud to SOC: A Smarter Way to Defend Modern Applications. | Ddm atiq | [Read More](https://medium.com/p/2a6a8c61a536) |
-| Sun, 18 May 2025 01:42:29 GMT | Unveiling Agentic AI: The Foundations of Autonomous Intelligence | Mridul Paul, PhD. | [Read More](https://medium.com/p/4dd7d29a60e7) |
-| Sun, 18 May 2025 01:34:16 GMT | How to Earn Big by Staking $CVE on StakingRewards | CVE | [Read More](https://medium.com/p/c1b8c98aa39e) |
-| Sun, 18 May 2025 01:07:07 GMT | When $2M Vanishes Overnight and Web3 Shrugs: The Mobius Hack That Minted 9 Quadrillion Reasons to… | The Streets to Entrepreneurs | [Read More](https://medium.com/p/488333b440ee) |
-| Sun, 18 May 2025 00:47:49 GMT | Welcome to SDA’s BDDB Blog | Silicon Dream Artists' BDDB | [Read More](https://medium.com/p/ed1e7c09e648) |
-| Sun, 18 May 2025 00:41:39 GMT | Internet of Things(IoT) search engines for cybersecurity researchers | loyalonlytoday | [Read More](https://medium.com/p/47de8faac6bc) |
-| Sun, 18 May 2025 00:25:56 GMT | How to Boost Your Passive Income with Recon Solana $RECON | RECON | [Read More](https://medium.com/p/bdadce48153d) |
