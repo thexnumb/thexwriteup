@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 01:34:16 GMT | How to Earn Big by Staking $CVE on StakingRewards | CVE | [Read More](https://medium.com/p/c1b8c98aa39e) |
+| Sun, 18 May 2025 01:07:07 GMT | When $2M Vanishes Overnight and Web3 Shrugs: The Mobius Hack That Minted 9 Quadrillion Reasons to… | The Streets to Entrepreneurs | [Read More](https://medium.com/p/488333b440ee) |
+| Sun, 18 May 2025 00:47:49 GMT | Welcome to SDA’s BDDB Blog | Silicon Dream Artists' BDDB | [Read More](https://medium.com/p/ed1e7c09e648) |
+| Sun, 18 May 2025 00:41:39 GMT | Internet of Things(IoT) search engines for cybersecurity researchers | loyalonlytoday | [Read More](https://medium.com/p/47de8faac6bc) |
+| Sun, 18 May 2025 00:25:56 GMT | How to Boost Your Passive Income with Recon Solana $RECON | RECON | [Read More](https://medium.com/p/bdadce48153d) |
+| Sun, 18 May 2025 00:24:13 GMT | [picoCTF 2025] n0s4n1ty 1 — File Upload to RCE | Taufik Pragusga | [Read More](https://medium.com/p/82f458e7706a) |
+| Sun, 18 May 2025 00:18:09 GMT | DC:3.2 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/226d021fc5a7) |
+| Sun, 18 May 2025 00:17:55 GMT | How to start your cybersecurity career? | seunglee | [Read More](https://medium.com/p/e4229827de16) |
+| Sun, 18 May 2025 00:02:50 GMT | Cybersecurity Resumes That Work: Lessons From 20+ Tailored Applications | Frank Cabrel | [Read More](https://medium.com/p/e2d238318a92) |
+| Sat, 17 May 2025 23:51:19 GMT | Maquina Nocturnal HTB | Jesus Bermudez | [Read More](https://medium.com/p/5062779694db) |
+| Sat, 17 May 2025 23:49:08 GMT | Rethinking Alert Severity: A Formula for Consistent Scoring | Silas Potter | [Read More](https://medium.com/p/abbcb60e42ac) |
+| Sat, 17 May 2025 23:42:42 GMT | Journey to Cybersecurity Day 3 — The CIA Triad | Cyber Muslim Girl | [Read More](https://medium.com/p/6b4839c6ac8d) |
 | Sat, 17 May 2025 23:32:27 GMT | Exploring the Core Domains of Cybersecurity | Ziad Tamer | [Read More](https://medium.com/p/ea5977e5d5f7) |
 | Sat, 17 May 2025 23:29:35 GMT | Why Digital Forensics Needs a New Playbook: Navigating Legal, Ethical, and Privacy Challenges | Talahkhan | [Read More](https://medium.com/p/3ce4bbc48cf1) |
 | Sat, 17 May 2025 23:06:10 GMT | Automating SOC Workflows: Integrating Wazuh Alerts with Express.js and AI | mas-mas 1/2 Jawa | [Read More](https://medium.com/p/52fe3792e972) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 16:12:55 GMT | How I Took Admin Account via JWT Bypass | Dharanis | [Read More](https://medium.com/p/5bed37a8e7ac) |
 | Sat, 17 May 2025 16:09:05 GMT | What are the opportunities brought and ethical issues that arise from the growing use of digital… | Sara Garcia | [Read More](https://medium.com/p/39da46944716) |
 | Sat, 17 May 2025 16:08:19 GMT | How t Resolve “Installing the Base System” Errors in Kali Linux | khalid Hussain | [Read More](https://medium.com/p/f601a0396c22) |
-| Sat, 17 May 2025 16:02:47 GMT | CFC | LonomiaO | [Read More](https://medium.com/p/aef3616c6e5c) |
-| Sat, 17 May 2025 15:57:01 GMT | Token of Misfortune: How a Refresh Token Leak Let Me Regenerate Unlimited Sessions | Iski | [Read More](https://medium.com/p/bb6693751c85) |
-| Sat, 17 May 2025 15:51:38 GMT | UAE’s New Drone Cybersecurity Guidelines — A Quietly Powerful Move | NaveeeN Chendra | [Read More](https://medium.com/p/0430b924503f) |
-| Sat, 17 May 2025 15:28:07 GMT | Part 4: Python COM Tasks, WMI Events & Cleanup | Maxwell Cross | [Read More](https://medium.com/p/996f5bf9da0a) |
-| Sat, 17 May 2025 15:06:44 GMT | What The Tech?! Laptop Computers | Investigator515 | [Read More](https://medium.com/p/e041301eca2d) |
-| Sat, 17 May 2025 15:02:30 GMT | How to Recover Deleted Files with Python | Muhammad Abdullahi | [Read More](https://medium.com/p/68792ece7d9f) |
-| Sat, 17 May 2025 14:59:56 GMT | Wide Recon | R T Hunter | [Read More](https://medium.com/p/15ead790196f) |
-| Sat, 17 May 2025 14:57:40 GMT | The Real Cost of Ransomware Attacks (And How to Avoid Them) | All in One security | [Read More](https://medium.com/p/eefa2d09fa96) |
-| Sat, 17 May 2025 14:52:21 GMT | Day 38: Understanding Networking Devices: Hub, Switch, and Router | Agarwaldaksh | [Read More](https://medium.com/p/8ed1afde820b) |
-| Sat, 17 May 2025 14:36:46 GMT | From Innovators to Consumers: A Concerning Shift | Atheel Haddad | [Read More](https://medium.com/p/cacbbef71d2e) |
-| Sat, 17 May 2025 14:23:58 GMT | The Gundremmingen Nuclear Plant Malware Incident: A Case Study on MITRE ATT&CK T0847 | om sonawane | [Read More](https://medium.com/p/21c488edb953) |
-| Sat, 17 May 2025 14:21:29 GMT | $10,500 Bounty: A Grammarly Account Takeover Vector | Monika sharma | [Read More](https://medium.com/p/974ef90fb00a) |
