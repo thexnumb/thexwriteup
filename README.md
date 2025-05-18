@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 09:13:08 GMT | Fortinet Tackles CVE-2025–32756: A Zero-Day RCE Flaw Hitting FortiVoice Systems | Ismail Tasdelen | [Read More](https://medium.com/p/d7248d7f6836) |
+| Sun, 18 May 2025 09:13:04 GMT | Advanced Threat Analysis of the Model Context Protocol (MCP): | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/ec8edcef812c) |
+| Sun, 18 May 2025 09:09:43 GMT | Ivanti Patches EPMM Zero-Days: A Tale of Authentication Bypasses and Remote Code Execution ️ | Ismail Tasdelen | [Read More](https://medium.com/p/72a936365697) |
+| Sun, 18 May 2025 09:08:13 GMT | Think Security, think left | Agarwalsachin | [Read More](https://medium.com/p/f3f197b0f5db) |
+| Sun, 18 May 2025 09:07:00 GMT | China-Linked APTs Exploit SAP CVE-2025–31324: A Deep Dive into the Breach of 581 Critical Systems… | Ismail Tasdelen | [Read More](https://medium.com/p/e49d72657abc) |
+| Sun, 18 May 2025 09:00:51 GMT | The Insecure Internet of Things: Securing the Smart Devices That Surround Us | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/2ac41f00f920) |
+| Sun, 18 May 2025 08:49:35 GMT | Your Password Manager Is a Liar | KHibberd | [Read More](https://medium.com/p/d1eead3bdaee) |
+| Sun, 18 May 2025 08:47:34 GMT | Honeypots: Catch Malware Like a Cybersecurity Ninja | Bl@ckC!pH3r | [Read More](https://medium.com/p/487b20fbe27d) |
 | Sun, 18 May 2025 08:33:12 GMT | Cyber Self-Defense: Daily Device Locking is More Powerful Than You Think | Hitesh Said | [Read More](https://medium.com/p/e2f085c7b6e6) |
 | Sun, 18 May 2025 08:33:06 GMT | Aktif Bilgi Toplama: Doğrudan Etkileşim | Taha Özcan | [Read More](https://medium.com/p/55f1122cc6a9) |
 | Sun, 18 May 2025 08:27:21 GMT | Dorking Cloud Storage Buckets | AbhirupKonwar | [Read More](https://medium.com/p/d63d81c115ea) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 23:29:35 GMT | Why Digital Forensics Needs a New Playbook: Navigating Legal, Ethical, and Privacy Challenges | Talahkhan | [Read More](https://medium.com/p/3ce4bbc48cf1) |
 | Sat, 17 May 2025 23:06:10 GMT | Automating SOC Workflows: Integrating Wazuh Alerts with Express.js and AI | mas-mas 1/2 Jawa | [Read More](https://medium.com/p/52fe3792e972) |
 | Sat, 17 May 2025 22:45:47 GMT | Volt Typhoon: TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/6976ce06b7ae) |
-| Sat, 17 May 2025 22:28:43 GMT | A Path Down Linux Lane | Ace | [Read More](https://medium.com/p/3ba490cd93ef) |
-| Sat, 17 May 2025 22:28:21 GMT | SentryPC: The Ultimate Digital Monitoring & Control Solution for Families and Businesses | Brand Marketer | [Read More](https://medium.com/p/fbe4ddf2dfb9) |
-| Sat, 17 May 2025 22:26:41 GMT | A Path Down Linux Lane | Ace | [Read More](https://medium.com/p/96155cd1206a) |
-| Sat, 17 May 2025 22:16:43 GMT | Automate Your Boring Stuff with Python — Part 2 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7951cfd7183e) |
-| Sat, 17 May 2025 22:08:56 GMT | (Analysis)Security of AI Agents | Ajay Kumar | [Read More](https://medium.com/p/eed70c44c3e0) |
-| Sat, 17 May 2025 22:06:46 GMT | SPF, DKIM & DMARC: The Triple Shield of Email Authentication Protocol | Ayyappan Subramanian | [Read More](https://medium.com/p/6d5440aedc47) |
-| Sat, 17 May 2025 21:56:49 GMT | Best In Recovery…. | Jenny Kyle | [Read More](https://medium.com/p/a15f8b677d56) |
-| Sat, 17 May 2025 21:51:27 GMT | Day 16: Blind SQL injection with out-of-band interaction— Zero to Hero out-of-band — Portswigger | RayofHope | [Read More](https://medium.com/p/80cca693aa03) |
