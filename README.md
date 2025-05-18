@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 15:31:14 GMT | How I Bypassed the Login Authentication on a Government-Owned Website | Ahmad Suhendra | [Read More](https://medium.com/p/966a02c600f5) |
+| Sun, 18 May 2025 15:23:51 GMT | How to Set Up cert-manager in Kubernetes: Understanding DNS-01 and HTTP-01 Challenges | Engineer Palsu | [Read More](https://medium.com/p/70c7ccf3f39a) |
 | Sun, 18 May 2025 15:07:15 GMT | VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts | Kshahabaj | [Read More](https://medium.com/p/7f5ddf1d349c) |
 | Sun, 18 May 2025 15:02:33 GMT | 5 Easy Ways to Spot a Phishing Email — Even If You’re Not a Cybersecurity Expert ️ | heyrm | [Read More](https://medium.com/p/248c2eae604f) |
 | Sun, 18 May 2025 15:01:50 GMT | What Comes After Login? Identity Drift in the Age of Agents | David Canellos | [Read More](https://medium.com/p/62e21606d4da) |
@@ -111,5 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 09:13:08 GMT | Fortinet Tackles CVE-2025–32756: A Zero-Day RCE Flaw Hitting FortiVoice Systems | Ismail Tasdelen | [Read More](https://medium.com/p/d7248d7f6836) |
 | Sun, 18 May 2025 09:13:04 GMT | Advanced Threat Analysis of the Model Context Protocol (MCP): | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/ec8edcef812c) |
 | Sun, 18 May 2025 09:09:43 GMT | Ivanti Patches EPMM Zero-Days: A Tale of Authentication Bypasses and Remote Code Execution ️ | Ismail Tasdelen | [Read More](https://medium.com/p/72a936365697) |
-| Sun, 18 May 2025 09:08:13 GMT | Think Security, think left | Agarwalsachin | [Read More](https://medium.com/p/f3f197b0f5db) |
-| Sun, 18 May 2025 09:07:00 GMT | China-Linked APTs Exploit SAP CVE-2025–31324: A Deep Dive into the Breach of 581 Critical Systems… | Ismail Tasdelen | [Read More](https://medium.com/p/e49d72657abc) |
