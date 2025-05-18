@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 14:13:41 GMT | OWASP Pentest Series (2/12) | TheZeeshanKhan | [Read More](https://medium.com/p/cbbcb32f23ab) |
+| Sun, 18 May 2025 14:03:41 GMT | Boost Your Staking Rewards with $DORK on StakingRewards | DORK | [Read More](https://medium.com/p/98bf0da24710) |
+| Sun, 18 May 2025 14:02:28 GMT | my love, these cold feet are willing to try | rein | [Read More](https://medium.com/p/e8577be59e9c) |
+| Sun, 18 May 2025 14:01:36 GMT | CiberIA — Comprehensive System for Self-Perception and Autonomous Security in AIs | Jordi Garcia Castillon | [Read More](https://medium.com/p/b557e1925eb1) |
+| Sun, 18 May 2025 13:57:50 GMT | Pasif Bilgi Toplama | Ali Karaoglan | [Read More](https://medium.com/p/fae1d4daf51d) |
+| Sun, 18 May 2025 13:56:12 GMT | DOM XSS Exploitation via postMessage in an iframe | Bash Overflow | [Read More](https://medium.com/p/d50df8feac5b) |
+| Sun, 18 May 2025 13:55:37 GMT | METASPLOIT ILE SISTEME SIZMA CTF:BLUE | Ali Karaoglan | [Read More](https://medium.com/p/c00bd417320b) |
+| Sun, 18 May 2025 13:53:52 GMT | NetraBharat — Part 2 | Jay Nagrecha | [Read More](https://medium.com/p/b9564602ded2) |
+| Sun, 18 May 2025 13:53:06 GMT | Complexity over Complexity: Zero Trust in Multi-Cloud for Non Human Identities (NHIs) | Tanzil Rehman | [Read More](https://medium.com/p/fe23a3adc944) |
+| Sun, 18 May 2025 13:52:35 GMT | With Employee AI Use Rising, So Does Risk of Business Data Theft | Nauman khan | [Read More](https://medium.com/p/b8e5f8b0e833) |
+| Sun, 18 May 2025 13:48:53 GMT | From Vulnerable Code to Vigilant AI: Teaching LLMs the Art of Secure Software Development | ArXiv In-depth Analysis | [Read More](https://medium.com/p/cf972528b344) |
+| Sun, 18 May 2025 13:48:52 GMT | One month in: what I’ve learned (so far) as a Product Designer in cybersecurity | Prema Doraisamy | [Read More](https://medium.com/p/8c54729ee452) |
 | Sun, 18 May 2025 13:36:54 GMT | Tr0ll 1 Writeup (Vulnhub Beginner Machine) | Ivan Daňo | [Read More](https://medium.com/p/877f118310f7) |
 | Sun, 18 May 2025 13:28:11 GMT | Introduction to Red Teaming | Benlehzilyosr | [Read More](https://medium.com/p/78b78e95b361) |
 | Sun, 18 May 2025 13:23:10 GMT | Buffer Overflow Demystified — Teil 1 | Luzzzy | [Read More](https://medium.com/p/682c6ff65b74) |
@@ -101,15 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 08:20:48 GMT | Hack the way back into your linux | Amritgiri | [Read More](https://medium.com/p/76f1352d9fdf) |
 | Sun, 18 May 2025 08:06:58 GMT | How I Found a P1 Vulnerability That Allowed Full Account Takeover | hacker_space11 | [Read More](https://medium.com/p/e959fce8d882) |
 | Sun, 18 May 2025 08:02:31 GMT | LockBit hackeado: caída del ransomware más temido | Manuel Jesús Gallardo Martín | [Read More](https://medium.com/p/d0bc7041df67) |
-| Sun, 18 May 2025 07:56:35 GMT | XSS Part — 18 : Reflected XSS into a JavaScript string with angle brackets and double quotes… | Ahmad Sopyan | [Read More](https://medium.com/p/0aa0a1e06d1b) |
-| Sun, 18 May 2025 07:56:12 GMT | ️‍♂️Recon For New Bug bounty Hunters — Short Story | Sudarshan Patel | [Read More](https://medium.com/p/4f862a333e6d) |
-| Sun, 18 May 2025 07:54:21 GMT | ⚠️Tryhackme - Secure GitOps - Writeup | Sudarshan Patel | [Read More](https://medium.com/p/24f256f877b1) |
-| Sun, 18 May 2025 07:52:32 GMT | Tryhackme - OAuth Vulnerabilities - Writeup‍ | Sudarshan Patel | [Read More](https://medium.com/p/ad92038b01a3) |
-| Sun, 18 May 2025 07:52:28 GMT | 4 Insider Threats That Hurt Companies & How to Stop Them | Pawan Jaiswal | [Read More](https://medium.com/p/c56584db59d9) |
-| Sun, 18 May 2025 07:51:33 GMT | Here Is How I Recover My Money From SabioTrade | Sam Fraser | [Read More](https://medium.com/p/1f84b94d0305) |
-| Sun, 18 May 2025 07:51:31 GMT | Quantifying Cyber Risk: Moving Beyond Heat Maps to Dollar Values | Paritosh | [Read More](https://medium.com/p/b4ec44d92b1c) |
-| Sun, 18 May 2025 07:44:24 GMT | Redirect Roulette: How Poor OAuth Redirect Handling Gave Me Account Takeover | Iski | [Read More](https://medium.com/p/8c21ca809e3a) |
-| Sun, 18 May 2025 07:41:02 GMT | Wonderland | Ajay Chhillar | [Read More](https://medium.com/p/659642dc4725) |
-| Sun, 18 May 2025 07:30:28 GMT | What If the Digital Euro Was Hacked? A Scenario Europe Can’t Afford to Ignore | Mohamed MOUSSOUS | [Read More](https://medium.com/p/97f28257be89) |
-| Sun, 18 May 2025 07:22:03 GMT | Journey Towards Ethical | RNinjaC | [Read More](https://medium.com/p/201a8b33b880) |
-| Sun, 18 May 2025 07:20:33 GMT | Agentic AI vs. Generative AI: Understanding the Key Differences and Future Impact | Sanjay Kumar | [Read More](https://medium.com/p/aee406051416) |
