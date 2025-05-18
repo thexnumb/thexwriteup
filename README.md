@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 18:36:08 GMT | The RAVP Model: Rethinking ROI in Cybersecurity Leadership | Fintont | [Read More](https://medium.com/p/84990b86fc5a) |
+| Sun, 18 May 2025 18:32:22 GMT | The Boy and the Bugs | Cogito Ergo Scribo | [Read More](https://medium.com/p/939dc6f18241) |
+| Sun, 18 May 2025 18:26:04 GMT | Why You Need a Professional Security Concierge Officer in Vancouver! | Aalan | [Read More](https://medium.com/p/e3946bcc2614) |
 | Sun, 18 May 2025 18:24:34 GMT | Cooking the Proxy — What the heck is a Proxy Server | Javier | [Read More](https://medium.com/p/e180078ba183) |
+| Sun, 18 May 2025 18:21:19 GMT | Why That ‘Free Charging Station’ at the Airport Could Cost You Everything | Ahmad Javed | [Read More](https://medium.com/p/becaca5070d9) |
 | Sun, 18 May 2025 18:19:58 GMT | Open Redirect Vulnerability in OAuth Flow on Lichess4545.com | Regan Temudo | [Read More](https://medium.com/p/0e78c2d97397) |
 | Sun, 18 May 2025 18:14:26 GMT | Use-After-Free: The silent killer takes over the memory of Operating System | Dulip Ravindra | [Read More](https://medium.com/p/ecb0271e1a3a) |
 | Sun, 18 May 2025 18:11:56 GMT | Crypto Failures - TryHackMe Medium | Error | [Read More](https://medium.com/p/d60d55b849d6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 12:16:29 GMT | Vibe Coding: Can You Feel It? | Mohammed Brückner | [Read More](https://medium.com/p/76d5d2246666) |
 | Sun, 18 May 2025 12:09:24 GMT | I Was Hacked. Then I Was Erased. | Mansoor A | [Read More](https://medium.com/p/dc99b1ab2a97) |
 | Sun, 18 May 2025 12:02:31 GMT | FortiDDoS by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/a5af5e2eee0c) |
-| Sun, 18 May 2025 12:02:31 GMT | How I Learnt to Invite Support in MEN1 | Lizzie Dunn | [Read More](https://medium.com/p/fefb64006430) |
-| Sun, 18 May 2025 12:02:31 GMT | Experts, Trust, and the Human Condition | Just Here for the Lulz | [Read More](https://medium.com/p/3a1bb3686bbb) |
-| Sun, 18 May 2025 11:47:33 GMT | Cyber security dirty secret of 2025: Data-Flow Blindness | Tal Berin | [Read More](https://medium.com/p/a5e36d03f3bd) |
-| Sun, 18 May 2025 11:38:19 GMT | GDB baby step 3 - Writeup | Marvin | [Read More](https://medium.com/p/801fc590f9a9) |
