@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 05:17:07 GMT | Maximize Staking Rewards with LunaFi $LFI | LFI | [Read More](https://medium.com/p/b0071e8e289b) |
+| Sun, 18 May 2025 05:14:30 GMT | How to Choose the Best Information Security Auditor | SecureSlate | [Read More](https://medium.com/p/574e095be748) |
+| Sun, 18 May 2025 05:10:05 GMT | Meta BBP — Stored XSS at Meta Careers | Muntadhar M. Ahmed | [Read More](https://medium.com/p/c0bf074bddfa) |
+| Sun, 18 May 2025 05:06:15 GMT | TryHackMe Phishing Challenge: Snapped Phish-ing Line | Eidelweiiss | [Read More](https://medium.com/p/fb8c6eac60c3) |
+| Sun, 18 May 2025 05:04:44 GMT | Artificial Intelligence Continues to Put People Out of Work | Ethic Who | [Read More](https://medium.com/p/b7e482d8f2f0) |
+| Sun, 18 May 2025 05:02:33 GMT | Bandit Level 24 → Level 26: Brute-Force Logic and Shell Escapes in Action | scissor_seven | [Read More](https://medium.com/p/0ec1bef38353) |
+| Sun, 18 May 2025 04:58:28 GMT | HND unit: 4 — Databases ( for those who are studying Pearson computing HND) | Talal Tanveer | [Read More](https://medium.com/p/ec804a616b7c) |
+| Sun, 18 May 2025 04:57:14 GMT | Build a Cyber Reconnaissance Web App with Flask and JavaScript | Adeeb Farhan | [Read More](https://medium.com/p/a926537f8118) |
+| Sun, 18 May 2025 04:49:57 GMT | Denial of Wallet (DoW) in AWS: The Cloud Attack You Can’t Afford to Ignore | Thomas Joseph | [Read More](https://medium.com/p/21a80eb413de) |
+| Sun, 18 May 2025 04:39:18 GMT | Phishing and Smishing | Skills 4 Free Myanmar | [Read More](https://medium.com/p/872c3702268d) |
+| Sun, 18 May 2025 04:38:30 GMT | Creating a Security Plan for Your Business: A Complete Guide by Diligent Security Services | Diligent Security Services | [Read More](https://medium.com/p/319438e277a1) |
+| Sun, 18 May 2025 04:28:34 GMT | Lifetime No More: How VPNSecure Pulled the Plug on Thousands of Subscriptions—And Sparked Outrage | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/fe1edb0fda66) |
 | Sun, 18 May 2025 04:26:30 GMT | Vulnerability Is a Superpower | Darlene López | [Read More](https://medium.com/p/a6a1a27062ce) |
 | Sun, 18 May 2025 04:21:10 GMT | My CodePath Cybersecurity Journey: Projects, Lessons, and the Log4Shell Deep Dive | Mateo Flores | [Read More](https://medium.com/p/65cbafa8152e) |
 | Sun, 18 May 2025 04:16:07 GMT | So You Want to Be a Cyber Superhero? | Bl@ckC!pH3r | [Read More](https://medium.com/p/3bd43299e1fc) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 18:25:14 GMT | Ultimate Guide to Implementing NIST CSF 2.0: Compliance and Tools | Oleh Dubetcky | [Read More](https://medium.com/p/564b55bed4fd) |
 | Sat, 17 May 2025 18:23:04 GMT | Start Earning with ChainBounty $BOUNTY on StakingRewards | BOUNTY | [Read More](https://medium.com/p/71b7e293bdfa) |
 | Sat, 17 May 2025 18:21:47 GMT | “How a Company Got Hacked Without a Single Line of Code” | An0n | [Read More](https://medium.com/p/254066397f69) |
-| Sat, 17 May 2025 18:21:41 GMT | How to prevent XSS in PHP applications | Roman Huliak | [Read More](https://medium.com/p/40c5d5def7f4) |
-| Sat, 17 May 2025 18:13:39 GMT | Web Cache Deception | Natarajan C K | [Read More](https://medium.com/p/2e34a7aa7303) |
-| Sat, 17 May 2025 18:06:15 GMT | How I Discovered Critical Secrets in Docker Images by Scanning Every Tag and Architecture | Ahmed Ghazy | [Read More](https://medium.com/p/3edbc10db0c1) |
-| Sat, 17 May 2025 18:05:01 GMT | CTF Journey — OhSINT | Al Mahady | [Read More](https://medium.com/p/03e06457c364) |
-| Sat, 17 May 2025 18:02:14 GMT | ️ Ultimate Guide to Securing the Kubernetes API Server | Mahernaija | [Read More](https://medium.com/p/6fb4dce3df44) |
-| Sat, 17 May 2025 18:02:13 GMT | CTF Journey — Bounty Hacker | Al Mahady | [Read More](https://medium.com/p/833e0dd93c77) |
-| Sat, 17 May 2025 18:01:39 GMT | Mastering C2 Servers: Architecture, Redirection Layers, and Covert Techniques | Moataz Osama | [Read More](https://medium.com/p/64d0e3dd35ee) |
-| Sat, 17 May 2025 17:55:50 GMT | Best guide to pass CompTIA Security+ SYO-701 - Here’s what you really need | Yousuf Khan | [Read More](https://medium.com/p/66d1e164ed6b) |
-| Sat, 17 May 2025 17:52:02 GMT | Easy Bug That Falls Between P5 and P3: Find Broken Access Control & IDOR Using AutoReisze in Burp… | Ahmed Ashraf Shora | [Read More](https://medium.com/p/6f427852a788) |
-| Sat, 17 May 2025 17:42:13 GMT | Why Are So Many UK Homes Still Using Outdated Security? | Mohsin | [Read More](https://medium.com/p/a3493148db8f) |
-| Sat, 17 May 2025 17:31:10 GMT | Random ID Generation: Everything You Need to Know | Thilina Ashen Gamage | [Read More](https://medium.com/p/b2040ff35441) |
-| Sat, 17 May 2025 17:25:40 GMT | Sharpening Command Injections to get Full RCE | Mostafa Alrefai | [Read More](https://medium.com/p/e4cf257d2c66) |
