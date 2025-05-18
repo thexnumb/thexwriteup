@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 11:27:14 GMT | Silent Invasion: How STASI Gangstalking Fuels Germany’s Migration and Drug Crisis | SIMKRA | [Read More](https://medium.com/p/bd325043546d) |
+| Sun, 18 May 2025 11:26:24 GMT | Top PHP libraries for sanitizing user input (and why you need them) | Roman Huliak | [Read More](https://medium.com/p/3ff47f1c8db8) |
+| Sun, 18 May 2025 11:23:14 GMT | API Application Testing: Basics to Advanced — A Hacker’s Starter Guide | Anmol Shah | [Read More](https://medium.com/p/b5f25ee5fe9b) |
+| Sun, 18 May 2025 11:20:49 GMT | Payload Nedir ? | Ali Karaoglan | [Read More](https://medium.com/p/9de3c3e2b659) |
+| Sun, 18 May 2025 11:19:54 GMT | My Security Journey | Ali Karaoglan | [Read More](https://medium.com/p/d7d981aa0fe5) |
+| Sun, 18 May 2025 11:17:49 GMT | What if every CISO had a map to lead with clarity – from day one to boardroom influence? | Fintont | [Read More](https://medium.com/p/3cbd811abeaa) |
 | Sun, 18 May 2025 11:06:12 GMT | Why Azure AI Content Safety is a Game-Changer for Content Moderation | Rehan Khan | [Read More](https://medium.com/p/9cd55de784be) |
 | Sun, 18 May 2025 11:01:37 GMT | What Happens in a Smart Home When You’re Away? | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/ee10a47e6e28) |
 | Sun, 18 May 2025 10:58:13 GMT | AlphaFold — more than just on the Go! | Mohammed Brückner | [Read More](https://medium.com/p/70c092b79713) |
@@ -107,9 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 05:06:15 GMT | TryHackMe Phishing Challenge: Snapped Phish-ing Line | Eidelweiiss | [Read More](https://medium.com/p/fb8c6eac60c3) |
 | Sun, 18 May 2025 05:04:44 GMT | Artificial Intelligence Continues to Put People Out of Work | Ethic Who | [Read More](https://medium.com/p/b7e482d8f2f0) |
 | Sun, 18 May 2025 05:02:33 GMT | Bandit Level 24 → Level 26: Brute-Force Logic and Shell Escapes in Action | scissor_seven | [Read More](https://medium.com/p/0ec1bef38353) |
-| Sun, 18 May 2025 04:58:28 GMT | HND unit: 4 — Databases ( for those who are studying Pearson computing HND) | Talal Tanveer | [Read More](https://medium.com/p/ec804a616b7c) |
-| Sun, 18 May 2025 04:57:14 GMT | Build a Cyber Reconnaissance Web App with Flask and JavaScript | Adeeb Farhan | [Read More](https://medium.com/p/a926537f8118) |
-| Sun, 18 May 2025 04:49:57 GMT | Denial of Wallet (DoW) in AWS: The Cloud Attack You Can’t Afford to Ignore | Thomas Joseph | [Read More](https://medium.com/p/21a80eb413de) |
-| Sun, 18 May 2025 04:39:18 GMT | Phishing and Smishing | Skills 4 Free Myanmar | [Read More](https://medium.com/p/872c3702268d) |
-| Sun, 18 May 2025 04:38:30 GMT | Creating a Security Plan for Your Business: A Complete Guide by Diligent Security Services | Diligent Security Services | [Read More](https://medium.com/p/319438e277a1) |
-| Sun, 18 May 2025 04:28:34 GMT | Lifetime No More: How VPNSecure Pulled the Plug on Thousands of Subscriptions—And Sparked Outrage | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/fe1edb0fda66) |
