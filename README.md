@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 06:37:12 GMT | Discover Hidden Website Threats in Seconds with Ai1 Site Security Scanner | Leetsec Sarwar | [Read More](https://medium.com/p/1d5c19d761cb) |
+| Sun, 18 May 2025 06:33:11 GMT | Best Endpoint Security Course with AI in Delhi | cyber security Updates | [Read More](https://medium.com/p/d5f605a2f0d9) |
+| Sun, 18 May 2025 06:32:00 GMT | Securing Operational Technology: A Critical Priority in the Age of Cyber-Physical Systems | Fawaz Fahmi Aljalal | [Read More](https://medium.com/p/127d17243c55) |
+| Sun, 18 May 2025 06:30:20 GMT | ARIES OMAN : PIONEERS IN INTEGRATED DESIGN AND SECURITY SOLUTIONS | Alayanaglobosoft | [Read More](https://medium.com/p/6eed04a30aec) |
 | Sun, 18 May 2025 06:24:00 GMT | Cybersecurity Facts | Ravindra Dagale | [Read More](https://medium.com/p/66abfe14babb) |
 | Sun, 18 May 2025 06:23:46 GMT | ️ Rogue Masters in Industrial Control Systems: How Attackers Can Hijack Command Authority | om sonawane | [Read More](https://medium.com/p/67128d63e950) |
 | Sun, 18 May 2025 06:21:11 GMT | Open Redirect Vulnerability in Symfony Explained | Pentest_Testing_Corp | [Read More](https://medium.com/p/e343dd95034d) |
+| Sun, 18 May 2025 06:19:32 GMT | FBI vs Hackers: A Take on Cybercrime Evolution | The Tea Guy | [Read More](https://medium.com/p/42a12f1d96ea) |
+| Sun, 18 May 2025 06:15:45 GMT | E-mail Analysis | JERRY | [Read More](https://medium.com/p/5f4148996caf) |
 | Sun, 18 May 2025 06:00:21 GMT | Today’s Top Cyber Intelligence Highlights — May 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/465fb2954ee2) |
 | Sun, 18 May 2025 05:59:27 GMT | Hacking Archetype: A Beginner-Friendly Hack The Box Guide | BotsiCat | [Read More](https://medium.com/p/193a70692e33) |
 | Sun, 18 May 2025 05:55:43 GMT | Threat Actors: Who’s Trying to Hack You (and Why)? | Bl@ckC!pH3r | [Read More](https://medium.com/p/6104c8a8878c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 19:58:34 GMT | Vulnerability. | healing reflections | [Read More](https://medium.com/p/f5e8f1a17811) |
 | Sat, 17 May 2025 19:56:46 GMT | How to Fix SSLHTTPS Issues on Your WordPress Website | Shubradeb | [Read More](https://medium.com/p/5fb2d3139e09) |
 | Sat, 17 May 2025 19:55:30 GMT | Global CSI Agency Officially Validates VASTAV AI as Revolutionary Indian AI Innovation | CSI | [Read More](https://medium.com/p/32d20822f267) |
-| Sat, 17 May 2025 19:51:37 GMT | THM vs HTB — Why I decided to stop using TryHackMe? | Hajiaga Sadikhov | [Read More](https://medium.com/p/fe027dc2d335) |
-| Sat, 17 May 2025 19:47:48 GMT | Privacy Primer: Your Guide to Demystifying Privacy | Daksh Sharma | [Read More](https://medium.com/p/318d981c28ed) |
-| Sat, 17 May 2025 19:47:03 GMT | unarmored hours. | a•w•d•y ☆ | [Read More](https://medium.com/p/b2a7a99e9508) |
-| Sat, 17 May 2025 19:34:52 GMT | IA No-Code, Low-Code et Agents IA : Un Aperçu Futuriste | Emmanuel Siam's | [Read More](https://medium.com/p/eafdb839ecb7) |
-| Sat, 17 May 2025 19:26:19 GMT | Men, Unmasked Part 1 | Hazal İ. - Real Life in Real Words | [Read More](https://medium.com/p/8aacf2ff2034) |
-| Sat, 17 May 2025 19:24:10 GMT | From Breaches to Crackdowns: Why Cybersecurity Can’t Be Optional Anymore | Siva Gunasekaran | [Read More](https://medium.com/p/f407cf8c9728) |
