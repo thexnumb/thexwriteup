@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 17:31:16 GMT | 0x01 — Building Malware in C++: Memory Execution, Shellcode, and AV Evasion Basics | Itz.sanskarr | [Read More](https://medium.com/p/2044552ec6db) |
+| Sun, 18 May 2025 17:13:20 GMT | Vulnerable and Outdated Components | Ali Karaoglan | [Read More](https://medium.com/p/17b1a0c86b79) |
+| Sun, 18 May 2025 17:06:35 GMT | Security Misconfiguration | Ali Karaoglan | [Read More](https://medium.com/p/1368e415db14) |
+| Sun, 18 May 2025 17:05:26 GMT | Insecure Design | Ali Karaoglan | [Read More](https://medium.com/p/e6c6609a86fc) |
 | Sun, 18 May 2025 16:56:23 GMT | Detecting Web Attacks (XSS) | Fatimahasan | [Read More](https://medium.com/p/4bc6039ef635) |
 | Sun, 18 May 2025 16:50:29 GMT | Protect Your Identity | Mehran Khan | [Read More](https://medium.com/p/76ee7eb1c94e) |
 | Sun, 18 May 2025 16:48:12 GMT | Injection | Ali Karaoglan | [Read More](https://medium.com/p/a88d554177ae) |
@@ -108,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 11:01:37 GMT | What Happens in a Smart Home When You’re Away? | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/ee10a47e6e28) |
 | Sun, 18 May 2025 10:58:13 GMT | AlphaFold — more than just on the Go! | Mohammed Brückner | [Read More](https://medium.com/p/70c092b79713) |
 | Sun, 18 May 2025 10:53:41 GMT | The Modern CISO: From Technical Authority to Strategic Influencer | Fintont | [Read More](https://medium.com/p/62b71a9026c7) |
-| Sun, 18 May 2025 10:53:27 GMT | HTB — Blackfield Write-up | Nikita Astashenko | [Read More](https://medium.com/p/40876791720e) |
-| Sun, 18 May 2025 10:50:44 GMT | $200 Bounty: Sensitive information disclosure | Monika sharma | [Read More](https://medium.com/p/791799adb57b) |
-| Sun, 18 May 2025 10:48:35 GMT | The Four-Day War: How India Changed the Rules of Modern Warfare
-When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/0617d4a12548) |
-| Sun, 18 May 2025 10:46:59 GMT | On-Set Security: A Guide for Cast & Crew | Joseph Desmond Cruel | [Read More](https://medium.com/p/cfc19f3b012f) |
