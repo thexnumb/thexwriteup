@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 13:23:10 GMT | Buffer Overflow Demystified — Teil 1 | Luzzzy | [Read More](https://medium.com/p/682c6ff65b74) |
+| Sun, 18 May 2025 13:22:30 GMT | Selecting the Right Firewall Vendor | Ed-it Editions | [Read More](https://medium.com/p/8bef440f5cab) |
+| Sun, 18 May 2025 13:22:20 GMT | How Hackers Use Passwords You Reuse Every Day | NexS | [Read More](https://medium.com/p/e1350d0dec2e) |
+| Sun, 18 May 2025 13:13:43 GMT | NetraBharat — Part 1 | Jay Nagrecha | [Read More](https://medium.com/p/916b3a934ead) |
+| Sun, 18 May 2025 13:12:36 GMT | Gangstalking Networks Have Mutated into Transnational Threats — Irregular Warfare Is the Only… | SIMKRA | [Read More](https://medium.com/p/fcf241e9bf80) |
+| Sun, 18 May 2025 13:09:55 GMT | Java Overview — The basics you need to know(Part 3) | Hari | [Read More](https://medium.com/p/d59d7147137c) |
+| Sun, 18 May 2025 13:08:13 GMT | PRIVACY : NOTICE AND CHOICE. EXACTLY, YOU CAN CHOICE! | Senjaputrasndr | [Read More](https://medium.com/p/094f7001cf61) |
+| Sun, 18 May 2025 13:05:53 GMT | APT28’s Sneaky Email Heist: How Russia-Linked Hackers Used an MDaemon Zero-Day to Raid Government… | Ismail Tasdelen | [Read More](https://medium.com/p/9a6df598d1fe) |
+| Sun, 18 May 2025 13:05:30 GMT | Beyond The Clouds: Securing Your Cloud Storage | Eidelweiiss | [Read More](https://medium.com/p/b309a2ffb013) |
+| Sun, 18 May 2025 13:02:36 GMT | Blind Spots Are Breach Points: Expose Them with Peris.ai BimaRed | Peris.ai Cybersecurity | [Read More](https://medium.com/p/b9440427b051) |
+| Sun, 18 May 2025 13:02:29 GMT | Sneaky npm Package Hides Malware with Unicode Tricks and Google Calendar Shenanigans | Ismail Tasdelen | [Read More](https://medium.com/p/5e7a21623458) |
+| Sun, 18 May 2025 13:00:50 GMT | AWS EC2 PrivEsc — From RCE to Root | John Mathew | [Read More](https://medium.com/p/42bd6d879a68) |
+| Sun, 18 May 2025 12:59:28 GMT | wake up to what awaits you | Khushi Kankaria | [Read More](https://medium.com/p/d637fb23c163) |
+| Sun, 18 May 2025 12:50:18 GMT | Meterpreter | Ali Karaoglan | [Read More](https://medium.com/p/a9301633a172) |
+| Sun, 18 May 2025 12:45:49 GMT | Finding Heap Overflows with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/18e85d571c0f) |
+| Sun, 18 May 2025 12:42:11 GMT | Google Like a Hacker: Secrets Lurking in Plain Search. | Inside Garuda | [Read More](https://medium.com/p/0b16fd882c61) |
 | Sun, 18 May 2025 12:30:49 GMT | How I Discovered Sensitive Data & Directory Exposure on an Indian Government Medical Institute… | Adithya Raj | [Read More](https://medium.com/p/0d2fbbc5042e) |
 | Sun, 18 May 2025 12:23:23 GMT | The Hacker Who Took Down North Korea | Abdur Mowlana | [Read More](https://medium.com/p/93e18cca372e) |
 | Sun, 18 May 2025 12:18:11 GMT | Why Narcissists Struggle in Bed | Elena Byron | [Read More](https://medium.com/p/deddce819794) |
@@ -97,19 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 07:20:33 GMT | Agentic AI vs. Generative AI: Understanding the Key Differences and Future Impact | Sanjay Kumar | [Read More](https://medium.com/p/aee406051416) |
 | Sun, 18 May 2025 07:19:58 GMT | I Found Exposed Data Online — Here’s What I Did About It | MrBug | [Read More](https://medium.com/p/4252236fc7cb) |
 | Sun, 18 May 2025 07:19:34 GMT | Notebook and Spark Job definition execution with service principal | Lackshu Balasubramaniam | [Read More](https://medium.com/p/6c990b8db136) |
-| Sun, 18 May 2025 07:16:58 GMT | Mastering proguard-rules.pro: How to Shrink, Secure, and Optimize Your Android App | Arun | [Read More](https://medium.com/p/8ec6a6f955b9) |
-| Sun, 18 May 2025 07:01:42 GMT | TryHackMe - Light - Walkthrough | Regan Temudo | [Read More](https://medium.com/p/fd1f3c65432d) |
-| Sun, 18 May 2025 07:01:24 GMT | How TERE Makes Confidential Computing Accessible for a Private Digital Age | Tenzro | [Read More](https://medium.com/p/0ab1b555a05d) |
-| Sun, 18 May 2025 06:37:12 GMT | Discover Hidden Website Threats in Seconds with Ai1 Site Security Scanner | Leetsec Sarwar | [Read More](https://medium.com/p/1d5c19d761cb) |
-| Sun, 18 May 2025 06:33:11 GMT | Best Endpoint Security Course with AI in Delhi | cyber security Updates | [Read More](https://medium.com/p/d5f605a2f0d9) |
-| Sun, 18 May 2025 06:32:00 GMT | Securing Operational Technology: A Critical Priority in the Age of Cyber-Physical Systems | Fawaz Fahmi Aljalal | [Read More](https://medium.com/p/127d17243c55) |
-| Sun, 18 May 2025 06:30:20 GMT | ARIES OMAN : PIONEERS IN INTEGRATED DESIGN AND SECURITY SOLUTIONS | Alayanaglobosoft | [Read More](https://medium.com/p/6eed04a30aec) |
-| Sun, 18 May 2025 06:24:00 GMT | Cybersecurity Facts | Ravindra Dagale | [Read More](https://medium.com/p/66abfe14babb) |
-| Sun, 18 May 2025 06:23:46 GMT | ️ Rogue Masters in Industrial Control Systems: How Attackers Can Hijack Command Authority | om sonawane | [Read More](https://medium.com/p/67128d63e950) |
-| Sun, 18 May 2025 06:21:11 GMT | Open Redirect Vulnerability in Symfony Explained | Pentest_Testing_Corp | [Read More](https://medium.com/p/e343dd95034d) |
-| Sun, 18 May 2025 06:19:32 GMT | FBI vs Hackers: A Take on Cybercrime Evolution | The Tea Guy | [Read More](https://medium.com/p/42a12f1d96ea) |
-| Sun, 18 May 2025 06:15:45 GMT | E-mail Analysis | JERRY | [Read More](https://medium.com/p/5f4148996caf) |
-| Sun, 18 May 2025 06:00:21 GMT | Today’s Top Cyber Intelligence Highlights — May 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/465fb2954ee2) |
-| Sun, 18 May 2025 05:59:27 GMT | Hacking Archetype: A Beginner-Friendly Hack The Box Guide | BotsiCat | [Read More](https://medium.com/p/193a70692e33) |
-| Sun, 18 May 2025 05:55:43 GMT | Threat Actors: Who’s Trying to Hack You (and Why)? | Bl@ckC!pH3r | [Read More](https://medium.com/p/6104c8a8878c) |
-| Sun, 18 May 2025 05:46:30 GMT | Remote Home Lab: A Journey into Secure, Smart Networking | Varun Kumar Singh | [Read More](https://medium.com/p/79843632f9ce) |
