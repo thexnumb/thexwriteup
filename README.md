@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 11:06:12 GMT | Why Azure AI Content Safety is a Game-Changer for Content Moderation | Rehan Khan | [Read More](https://medium.com/p/9cd55de784be) |
+| Sun, 18 May 2025 11:01:37 GMT | What Happens in a Smart Home When You’re Away? | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/ee10a47e6e28) |
+| Sun, 18 May 2025 10:58:13 GMT | AlphaFold — more than just on the Go! | Mohammed Brückner | [Read More](https://medium.com/p/70c092b79713) |
+| Sun, 18 May 2025 10:53:41 GMT | The Modern CISO: From Technical Authority to Strategic Influencer | Fintont | [Read More](https://medium.com/p/62b71a9026c7) |
+| Sun, 18 May 2025 10:53:27 GMT | HTB — Blackfield Write-up | Nikita Astashenko | [Read More](https://medium.com/p/40876791720e) |
+| Sun, 18 May 2025 10:50:44 GMT | $200 Bounty: Sensitive information disclosure | Monika sharma | [Read More](https://medium.com/p/791799adb57b) |
+| Sun, 18 May 2025 10:48:35 GMT | The Four-Day War: How India Changed the Rules of Modern Warfare
+When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/0617d4a12548) |
+| Sun, 18 May 2025 10:46:59 GMT | On-Set Security: A Guide for Cast & Crew | Joseph Desmond Cruel | [Read More](https://medium.com/p/cfc19f3b012f) |
+| Sun, 18 May 2025 10:44:26 GMT | Creative - TryHackMe - Walkthrough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/ea499c771b71) |
 | Sun, 18 May 2025 10:33:30 GMT | Phishing Attacks Are Smarter Than Ever — Here’s What to Watch For | Lelieveld Dictionary | [Read More](https://medium.com/p/48848a7bfc35) |
 | Sun, 18 May 2025 10:32:14 GMT | How to Claim ChainBounty $BOUNTY Staking Rewards Efficiently | BOUNTY | [Read More](https://medium.com/p/6b82ec001517) |
+| Sun, 18 May 2025 10:29:44 GMT | Part 2: Protecting Routes and Role-Based Authorization Using JWT | Berk Polat | [Read More](https://medium.com/p/9932a85b8bdb) |
 | Sun, 18 May 2025 10:25:21 GMT | TryHakMe: Supply Chain Attack: Lottie- | Pavneet_Singh_ | [Read More](https://medium.com/p/ae9ffce45cf6) |
 | Sun, 18 May 2025 10:21:51 GMT | I Don’t Think I’m Hard to Love. I Think I’m Just Hard to Reach. | Lilliesinherwake | [Read More](https://medium.com/p/8ab1cbaeef66) |
 | Sun, 18 May 2025 10:14:39 GMT | How To Use ChatGPT for Cybersecurity | Bernard Builds | [Read More](https://medium.com/p/e04ea7efc618) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 04:39:18 GMT | Phishing and Smishing | Skills 4 Free Myanmar | [Read More](https://medium.com/p/872c3702268d) |
 | Sun, 18 May 2025 04:38:30 GMT | Creating a Security Plan for Your Business: A Complete Guide by Diligent Security Services | Diligent Security Services | [Read More](https://medium.com/p/319438e277a1) |
 | Sun, 18 May 2025 04:28:34 GMT | Lifetime No More: How VPNSecure Pulled the Plug on Thousands of Subscriptions—And Sparked Outrage | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/fe1edb0fda66) |
-| Sun, 18 May 2025 04:26:30 GMT | Vulnerability Is a Superpower | Darlene López | [Read More](https://medium.com/p/a6a1a27062ce) |
-| Sun, 18 May 2025 04:21:10 GMT | My CodePath Cybersecurity Journey: Projects, Lessons, and the Log4Shell Deep Dive | Mateo Flores | [Read More](https://medium.com/p/65cbafa8152e) |
-| Sun, 18 May 2025 04:16:49 GMT | Lines of Electronic Control: South Asia’s Unseen War | Purnapragya | [Read More](https://medium.com/p/5f768c731acf) |
-| Sun, 18 May 2025 04:16:07 GMT | So You Want to Be a Cyber Superhero? | Bl@ckC!pH3r | [Read More](https://medium.com/p/3bd43299e1fc) |
-| Sun, 18 May 2025 04:09:21 GMT | Cross-Site Scripting (XSS) | Anandhu K | [Read More](https://medium.com/p/5d34fba5c568) |
-| Sun, 18 May 2025 03:50:32 GMT | How Hackers Use Default Admin Shares | Bl@ckC!pH3r | [Read More](https://medium.com/p/3ff4331b306d) |
-| Sun, 18 May 2025 03:42:29 GMT | KENOBI-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/5d0cab2ae768) |
-| Sun, 18 May 2025 03:32:30 GMT | Unmasking Atlantis AIO: The Credential Stuffing Powerhouse Threatening Digital Security | Deven Chhajed | [Read More](https://medium.com/p/a9bad0e3874e) |
-| Sun, 18 May 2025 03:24:10 GMT | HackTheBox-Heal(WriteUp) | Aniket Das | [Read More](https://medium.com/p/9ebfdcd85adf) |
-| Sun, 18 May 2025 03:22:57 GMT | Engulfing Candlestick: | Joseph classic | [Read More](https://medium.com/p/6d90ebc0fede) |
