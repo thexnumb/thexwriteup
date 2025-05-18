@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 16:56:23 GMT | Detecting Web Attacks (XSS) | Fatimahasan | [Read More](https://medium.com/p/4bc6039ef635) |
+| Sun, 18 May 2025 16:50:29 GMT | Protect Your Identity | Mehran Khan | [Read More](https://medium.com/p/76ee7eb1c94e) |
+| Sun, 18 May 2025 16:48:12 GMT | Injection | Ali Karaoglan | [Read More](https://medium.com/p/a88d554177ae) |
+| Sun, 18 May 2025 16:42:41 GMT | Interoperability in CPS: Bridging the Digital and Physical Worlds with AI Cybersecurity | Data Defendere | [Read More](https://medium.com/p/1f49696dbbae) |
+| Sun, 18 May 2025 16:42:31 GMT | Broken Access Control | Ali Karaoglan | [Read More](https://medium.com/p/d3fddc4f7c99) |
+| Sun, 18 May 2025 16:41:45 GMT | Don’t make fun of cyber extortion crimes | A.MohamedWassim | [Read More](https://medium.com/p/458976e022ee) |
+| Sun, 18 May 2025 16:40:29 GMT | HackTheBox - Backdoor | jniket | [Read More](https://medium.com/p/5149236dbd95) |
 | Sun, 18 May 2025 16:38:22 GMT | DriftingBlues6 Walkthrough | Ancava | [Read More](https://medium.com/p/b011b37e7ac8) |
 | Sun, 18 May 2025 16:31:30 GMT | 0x00 初探香港 Cybersecurity 行業隨筆 | cousin007 | [Read More](https://medium.com/p/c5df08e45d13) |
 | Sun, 18 May 2025 16:30:44 GMT | TryHackMe — Volt Typhoon Challenge — Walkthrough | Whitelligence | [Read More](https://medium.com/p/f72a8567a6f5) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 10:48:35 GMT | The Four-Day War: How India Changed the Rules of Modern Warfare
 When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/0617d4a12548) |
 | Sun, 18 May 2025 10:46:59 GMT | On-Set Security: A Guide for Cast & Crew | Joseph Desmond Cruel | [Read More](https://medium.com/p/cfc19f3b012f) |
-| Sun, 18 May 2025 10:44:26 GMT | Creative - TryHackMe - Walkthrough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/ea499c771b71) |
-| Sun, 18 May 2025 10:33:30 GMT | Phishing Attacks Are Smarter Than Ever — Here’s What to Watch For | Lelieveld Dictionary | [Read More](https://medium.com/p/48848a7bfc35) |
-| Sun, 18 May 2025 10:32:14 GMT | How to Claim ChainBounty $BOUNTY Staking Rewards Efficiently | BOUNTY | [Read More](https://medium.com/p/6b82ec001517) |
-| Sun, 18 May 2025 10:29:44 GMT | Part 2: Protecting Routes and Role-Based Authorization Using JWT | Berk Polat | [Read More](https://medium.com/p/9932a85b8bdb) |
-| Sun, 18 May 2025 10:25:21 GMT | TryHakMe: Supply Chain Attack: Lottie- | Pavneet_Singh_ | [Read More](https://medium.com/p/ae9ffce45cf6) |
-| Sun, 18 May 2025 10:21:51 GMT | I Don’t Think I’m Hard to Love. I Think I’m Just Hard to Reach. | Lilliesinherwake | [Read More](https://medium.com/p/8ab1cbaeef66) |
-| Sun, 18 May 2025 10:14:39 GMT | How To Use ChatGPT for Cybersecurity | Bernard Builds | [Read More](https://medium.com/p/e04ea7efc618) |
