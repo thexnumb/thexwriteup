@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 23:22:29 GMT | windows crashatico e rompimento di maremme | octospacc | [Read More](https://medium.com/p/eba80d3aeb65) |
+| Sun, 18 May 2025 23:14:41 GMT | “Who am I?” | Fran | [Read More](https://medium.com/p/fc183a254171) |
+| Sun, 18 May 2025 23:12:01 GMT | I Wasn’t Burnt Out. I Was Just Done Pretending. | AllWays Written | [Read More](https://medium.com/p/4578c91e7527) |
 | Sun, 18 May 2025 22:40:28 GMT | Unit:19 — Data Structure and Algorithms HND( for those studying Pearson HND Computing) | Talal Tanveer | [Read More](https://medium.com/p/30cfca313bdf) |
 | Sun, 18 May 2025 22:32:20 GMT | BILLING WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/4a1acedcbf1e) |
 | Sun, 18 May 2025 22:09:19 GMT | Basit Linux komutlari sistem bilgilerini kontol etmek icin | Ipek U | [Read More](https://medium.com/p/397ec57d2990) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 15:42:22 GMT | I Thought It Was Just Me | Ilana Estelle Author | [Read More](https://medium.com/p/2add7e7fe0cf) |
 | Sun, 18 May 2025 15:31:14 GMT | How I Bypassed the Login Authentication on a Government-Owned Website | Ahmad Suhendra | [Read More](https://medium.com/p/966a02c600f5) |
 | Sun, 18 May 2025 15:25:37 GMT | Requirements of Public Key Cryptography | Miraj Malam | [Read More](https://medium.com/p/bccd64404a2b) |
-| Sun, 18 May 2025 15:23:51 GMT | How to Set Up cert-manager in Kubernetes: Understanding DNS-01 and HTTP-01 Challenges | Engineer Palsu | [Read More](https://medium.com/p/70c7ccf3f39a) |
-| Sun, 18 May 2025 15:07:15 GMT | VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts | Kshahabaj | [Read More](https://medium.com/p/7f5ddf1d349c) |
-| Sun, 18 May 2025 15:02:33 GMT | 5 Easy Ways to Spot a Phishing Email — Even If You’re Not a Cybersecurity Expert ️ | heyrm | [Read More](https://medium.com/p/248c2eae604f) |
