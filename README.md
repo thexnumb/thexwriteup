@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 06:24:00 GMT | Cybersecurity Facts | Ravindra Dagale | [Read More](https://medium.com/p/66abfe14babb) |
+| Sun, 18 May 2025 06:23:46 GMT | ️ Rogue Masters in Industrial Control Systems: How Attackers Can Hijack Command Authority | om sonawane | [Read More](https://medium.com/p/67128d63e950) |
+| Sun, 18 May 2025 06:21:11 GMT | Open Redirect Vulnerability in Symfony Explained | Pentest_Testing_Corp | [Read More](https://medium.com/p/e343dd95034d) |
+| Sun, 18 May 2025 06:00:21 GMT | Today’s Top Cyber Intelligence Highlights — May 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/465fb2954ee2) |
+| Sun, 18 May 2025 05:59:27 GMT | Hacking Archetype: A Beginner-Friendly Hack The Box Guide | BotsiCat | [Read More](https://medium.com/p/193a70692e33) |
+| Sun, 18 May 2025 05:55:43 GMT | Threat Actors: Who’s Trying to Hack You (and Why)? | Bl@ckC!pH3r | [Read More](https://medium.com/p/6104c8a8878c) |
+| Sun, 18 May 2025 05:46:30 GMT | Remote Home Lab: A Journey into Secure, Smart Networking | Varun Kumar Singh | [Read More](https://medium.com/p/79843632f9ce) |
+| Sun, 18 May 2025 05:45:44 GMT | The CIA Triad (No, Not Those Guys in Suits) | Bl@ckC!pH3r | [Read More](https://medium.com/p/627eff16bf14) |
+| Sun, 18 May 2025 05:42:56 GMT | Understanding Phishing Attacks: Building an Educational Tool for Cybersecurity Awareness | Adeeb Farhan | [Read More](https://medium.com/p/5a7ec1a0a45d) |
+| Sun, 18 May 2025 05:41:34 GMT | 3 Ways to Exploiting Deep Link | dotHatab | [Read More](https://medium.com/p/208b825aecb0) |
 | Sun, 18 May 2025 05:29:43 GMT | Behind The Smile | Niabi Travel | [Read More](https://medium.com/p/dccfe40442f7) |
 | Sun, 18 May 2025 05:17:07 GMT | Maximize Staking Rewards with LunaFi $LFI | LFI | [Read More](https://medium.com/p/b0071e8e289b) |
 | Sun, 18 May 2025 05:14:30 GMT | How to Choose the Best Information Security Auditor | SecureSlate | [Read More](https://medium.com/p/574e095be748) |
@@ -27,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 04:28:34 GMT | Lifetime No More: How VPNSecure Pulled the Plug on Thousands of Subscriptions—And Sparked Outrage | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/fe1edb0fda66) |
 | Sun, 18 May 2025 04:26:30 GMT | Vulnerability Is a Superpower | Darlene López | [Read More](https://medium.com/p/a6a1a27062ce) |
 | Sun, 18 May 2025 04:21:10 GMT | My CodePath Cybersecurity Journey: Projects, Lessons, and the Log4Shell Deep Dive | Mateo Flores | [Read More](https://medium.com/p/65cbafa8152e) |
+| Sun, 18 May 2025 04:16:49 GMT | Lines of Electronic Control: South Asia’s Unseen War | Purnapragya | [Read More](https://medium.com/p/5f768c731acf) |
 | Sun, 18 May 2025 04:16:07 GMT | So You Want to Be a Cyber Superhero? | Bl@ckC!pH3r | [Read More](https://medium.com/p/3bd43299e1fc) |
 | Sun, 18 May 2025 04:09:21 GMT | Cross-Site Scripting (XSS) | Anandhu K | [Read More](https://medium.com/p/5d34fba5c568) |
 | Sun, 18 May 2025 03:50:32 GMT | How Hackers Use Default Admin Shares | Bl@ckC!pH3r | [Read More](https://medium.com/p/3ff4331b306d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 19:34:52 GMT | IA No-Code, Low-Code et Agents IA : Un Aperçu Futuriste | Emmanuel Siam's | [Read More](https://medium.com/p/eafdb839ecb7) |
 | Sat, 17 May 2025 19:26:19 GMT | Men, Unmasked Part 1 | Hazal İ. - Real Life in Real Words | [Read More](https://medium.com/p/8aacf2ff2034) |
 | Sat, 17 May 2025 19:24:10 GMT | From Breaches to Crackdowns: Why Cybersecurity Can’t Be Optional Anymore | Siva Gunasekaran | [Read More](https://medium.com/p/f407cf8c9728) |
-| Sat, 17 May 2025 19:20:36 GMT | Overthewire | Muhammed Enes Gürkan | [Read More](https://medium.com/p/18db705495e5) |
-| Sat, 17 May 2025 19:06:57 GMT | Bug Bounty desde Cero: De la Curiosidad al Primer Hallazgo | Cami Bertolani | [Read More](https://medium.com/p/6642e3944764) |
-| Sat, 17 May 2025 18:55:39 GMT | IBM Cybersecurity Analyst Professional Certificate | Franklin Rhodes | [Read More](https://medium.com/p/6c7bae82bee7) |
-| Sat, 17 May 2025 18:54:55 GMT | Splunk Looked Unbeatable — Until I Made It Kneel | Manish Rawat | [Read More](https://medium.com/p/c313798d24f1) |
-| Sat, 17 May 2025 18:53:57 GMT | US Charges 12 Suspects in $230M Crypto Theft | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/440be1a1119d) |
-| Sat, 17 May 2025 18:53:53 GMT | Pen Testing My Own LLM API — Mischief Managed! | Kyo | [Read More](https://medium.com/p/7b148ee3fd93) |
-| Sat, 17 May 2025 18:44:02 GMT | CVE-2023–22515 affects certain versions of Atlassian Confluence Data Center and Server, enabling… | Harshprajapati | [Read More](https://medium.com/p/867c8f39aed6) |
-| Sat, 17 May 2025 18:40:30 GMT | پلاتفۆرمی پەروەردەیی بەغداد هـــ*ـاک کرا لەلایەن تیمی ئایکورد بلیتز، کە سەکۆیەکی پەروەردەیی… | Hacker News | [Read More](https://medium.com/p/f8a8a6b7b46a) |
-| Sat, 17 May 2025 18:32:55 GMT | “Wait… You’re Using .env Files in Flutter for Secrets?” Let’s Talk Before It’s Too Late | Md. Al-Amin | [Read More](https://medium.com/p/0b622ee28db6) |
-| Sat, 17 May 2025 18:25:14 GMT | Ultimate Guide to Implementing NIST CSF 2.0: Compliance and Tools | Oleh Dubetcky | [Read More](https://medium.com/p/564b55bed4fd) |
-| Sat, 17 May 2025 18:23:04 GMT | Start Earning with ChainBounty $BOUNTY on StakingRewards | BOUNTY | [Read More](https://medium.com/p/71b7e293bdfa) |
