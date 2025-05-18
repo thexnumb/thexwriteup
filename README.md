@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 03:03:27 GMT | How Attackers Use LinkedIn to Map Entire Corporate Structures | Bl@ckC!pH3r | [Read More](https://medium.com/p/35efb1b45f0d) |
+| Sun, 18 May 2025 02:57:35 GMT | The Dangers of Screenshot Sharing in Remote Teams | Bl@ckC!pH3r | [Read More](https://medium.com/p/8d8a8329a952) |
+| Sun, 18 May 2025 02:47:40 GMT | TryHackMe Phishing Challenge: The Greenholt Phish | Eidelweiiss | [Read More](https://medium.com/p/d7356efafbc0) |
+| Sun, 18 May 2025 02:35:22 GMT | SIM Swapping Attack: The Silent Digital Heist You Must Be Aware Of | Ddm atiq | [Read More](https://medium.com/p/f9d5bfdd7de0) |
+| Sun, 18 May 2025 02:32:33 GMT | Same Username, Different Letters? Account Creation with Lookalike Usernames | StrangeRwhite | [Read More](https://medium.com/p/e370b2a7d5e3) |
+| Sun, 18 May 2025 02:32:33 GMT | Auto-Recovery for Django and Frappe: Instant Backups, One-Click Restore, and Smart Alerts | Pranav Dixit | [Read More](https://medium.com/p/275b7c2ad238) |
+| Sun, 18 May 2025 02:07:00 GMT | Precision Over Power: How HTTPBot Is Rewriting the Rules of DDoS Attacks | Cyber-AppSec | [Read More](https://medium.com/p/c955ec9d5b3d) |
+| Sun, 18 May 2025 02:05:37 GMT | Python for Cybersecurity: Tools and Techniques | The Code Journals | [Read More](https://medium.com/p/d9ad47f7189f) |
+| Sun, 18 May 2025 01:55:26 GMT | ️ From Code to Cloud to SOC: A Smarter Way to Defend Modern Applications. | Ddm atiq | [Read More](https://medium.com/p/2a6a8c61a536) |
+| Sun, 18 May 2025 01:42:29 GMT | Unveiling Agentic AI: The Foundations of Autonomous Intelligence | Mridul Paul, PhD. | [Read More](https://medium.com/p/4dd7d29a60e7) |
 | Sun, 18 May 2025 01:34:16 GMT | How to Earn Big by Staking $CVE on StakingRewards | CVE | [Read More](https://medium.com/p/c1b8c98aa39e) |
 | Sun, 18 May 2025 01:07:07 GMT | When $2M Vanishes Overnight and Web3 Shrugs: The Mobius Hack That Minted 9 Quadrillion Reasons to… | The Streets to Entrepreneurs | [Read More](https://medium.com/p/488333b440ee) |
 | Sun, 18 May 2025 00:47:49 GMT | Welcome to SDA’s BDDB Blog | Silicon Dream Artists' BDDB | [Read More](https://medium.com/p/ed1e7c09e648) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 16:55:58 GMT | Comprehensive Guide to MDM, MAM, and XDR Using Microsoft Intune: Part 2 | ThamizhElango Natarajan | [Read More](https://medium.com/p/5cf0debaf6b6) |
 | Sat, 17 May 2025 16:55:21 GMT | Smart Style: How Wearable Tech Is Redefining Fashion and Privacy | Jayden Lyons | [Read More](https://medium.com/p/3d00d4fb2614) |
 | Sat, 17 May 2025 16:54:52 GMT | Digital Anonymity vs. Digital Forensics: The Eternal Battle in Cyberspace | Barry Sahya | [Read More](https://medium.com/p/0a02d991883e) |
-| Sat, 17 May 2025 16:45:10 GMT | Cyber! Take your dadgum Medicine! | Evan Powell | [Read More](https://medium.com/p/c55f5c3856c1) |
-| Sat, 17 May 2025 16:42:50 GMT | Reverse Engineering on Crackmes.one | Nuray | [Read More](https://medium.com/p/80ea4db5074e) |
-| Sat, 17 May 2025 16:40:50 GMT | The Role of GitHub Advanced Security in Conjunction with GitHub Copilot | Bhavannarayan | [Read More](https://medium.com/p/5ca152b3f093) |
-| Sat, 17 May 2025 16:39:32 GMT | Hack The Box Sherlocks “Trojan” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/1a568b9caac9) |
-| Sat, 17 May 2025 16:35:56 GMT | Soft Doesn’t Mean Weak | Hajara Farwin | [Read More](https://medium.com/p/149d9f4b2b36) |
-| Sat, 17 May 2025 16:34:16 GMT | Ubuntu Server Hardening Guide (Automated with Ansible + AWS Cloud Formation) | Parthraj Gohil | [Read More](https://medium.com/p/c0f7570998e7) |
-| Sat, 17 May 2025 16:18:08 GMT | Beginner’s Guide to Cybersecurity in 2025 | Naem Azam Chowdhury | [Read More](https://medium.com/p/58eab132cb8b) |
-| Sat, 17 May 2025 16:12:55 GMT | How I Took Admin Account via JWT Bypass | Dharanis | [Read More](https://medium.com/p/5bed37a8e7ac) |
-| Sat, 17 May 2025 16:09:05 GMT | What are the opportunities brought and ethical issues that arise from the growing use of digital… | Sara Garcia | [Read More](https://medium.com/p/39da46944716) |
-| Sat, 17 May 2025 16:08:19 GMT | How t Resolve “Installing the Base System” Errors in Kali Linux | khalid Hussain | [Read More](https://medium.com/p/f601a0396c22) |
