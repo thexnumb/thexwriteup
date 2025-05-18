@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 09:36:58 GMT | BianLian and RansomExx Unleash Chaos: SAP NetWeaver Flaw Fuels PipeMagic Trojan Attacks ️ | Ismail Tasdelen | [Read More](https://medium.com/p/49742b1986e8) |
+| Sun, 18 May 2025 09:33:47 GMT | Xinbi Guarantee: The $8.4B Telegram Black Market Fueling Crypto Crime and Romance Scams ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c9fde95612d8) |
+| Sun, 18 May 2025 09:29:13 GMT | The Custom Instruction Backdoor: Uncovering Emergent Prompt Injection Risks in ChatGPT | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/5fd57f775693) |
+| Sun, 18 May 2025 09:28:30 GMT | How I Tracked Down the Metasploitable VM’s IP Address in Seconds with Netdiscover | Syedmohathashimali | [Read More](https://medium.com/p/8184842fbc8e) |
+| Sun, 18 May 2025 09:25:33 GMT | Earth Ammit’s Cyber Sting: How VENOM and TIDRONE Campaigns Hacked Drone Supply Chains ️ | Ismail Tasdelen | [Read More](https://medium.com/p/8509a1f0ccbc) |
+| Sun, 18 May 2025 09:21:14 GMT | Horabot Malware Hits Latin America: A Phishing Campaign Packed with Invoices and Sneaky Tricks | Ismail Tasdelen | [Read More](https://medium.com/p/9efc6f0ee0a2) |
+| Sun, 18 May 2025 09:18:33 GMT | Navigating the Maze: How Enterprise Systems Handle Internet Requests Securely | TechWealthBuzz | [Read More](https://medium.com/p/6e2087faadc6) |
+| Sun, 18 May 2025 09:18:25 GMT | Active Directory Kimlik Doğrulama Protokolleri: LM, NTLMv1, NTLMv2 ve Kerberos Derinlemesine… | Tuğrul Kılıç | [Read More](https://medium.com/p/bd7573c5cf1d) |
+| Sun, 18 May 2025 09:17:53 GMT | Microsoft’s May 2025 Patch Tuesday: 78 Flaws, 5 Zero-Days, and a CVSS 10 Nightmare in Azure DevOps… | Ismail Tasdelen | [Read More](https://medium.com/p/68f0ff23af0e) |
+| Sun, 18 May 2025 09:14:28 GMT | Ransomware Explained: How It Works and How to Stop It | Lelieveld Dictionary | [Read More](https://medium.com/p/df142d5bd876) |
+| Sun, 18 May 2025 09:13:47 GMT | Heal HackTheBox Writeup | trit0nesub | [Read More](https://medium.com/p/267348c0cb82) |
 | Sun, 18 May 2025 09:13:08 GMT | Fortinet Tackles CVE-2025–32756: A Zero-Day RCE Flaw Hitting FortiVoice Systems | Ismail Tasdelen | [Read More](https://medium.com/p/d7248d7f6836) |
 | Sun, 18 May 2025 09:13:04 GMT | Advanced Threat Analysis of the Model Context Protocol (MCP): | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/ec8edcef812c) |
 | Sun, 18 May 2025 09:09:43 GMT | Ivanti Patches EPMM Zero-Days: A Tale of Authentication Bypasses and Remote Code Execution ️ | Ismail Tasdelen | [Read More](https://medium.com/p/72a936365697) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 00:47:49 GMT | Welcome to SDA’s BDDB Blog | Silicon Dream Artists' BDDB | [Read More](https://medium.com/p/ed1e7c09e648) |
 | Sun, 18 May 2025 00:41:39 GMT | Internet of Things(IoT) search engines for cybersecurity researchers | loyalonlytoday | [Read More](https://medium.com/p/47de8faac6bc) |
 | Sun, 18 May 2025 00:25:56 GMT | How to Boost Your Passive Income with Recon Solana $RECON | RECON | [Read More](https://medium.com/p/bdadce48153d) |
-| Sun, 18 May 2025 00:24:13 GMT | [picoCTF 2025] n0s4n1ty 1 — File Upload to RCE | Taufik Pragusga | [Read More](https://medium.com/p/82f458e7706a) |
-| Sun, 18 May 2025 00:18:09 GMT | DC:3.2 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/226d021fc5a7) |
-| Sun, 18 May 2025 00:17:55 GMT | How to start your cybersecurity career? | seunglee | [Read More](https://medium.com/p/e4229827de16) |
-| Sun, 18 May 2025 00:02:50 GMT | Cybersecurity Resumes That Work: Lessons From 20+ Tailored Applications | Frank Cabrel | [Read More](https://medium.com/p/e2d238318a92) |
-| Sat, 17 May 2025 23:51:19 GMT | Maquina Nocturnal HTB | Jesus Bermudez | [Read More](https://medium.com/p/5062779694db) |
-| Sat, 17 May 2025 23:49:08 GMT | Rethinking Alert Severity: A Formula for Consistent Scoring | Silas Potter | [Read More](https://medium.com/p/abbcb60e42ac) |
-| Sat, 17 May 2025 23:42:42 GMT | Journey to Cybersecurity Day 3 — The CIA Triad | Cyber Muslim Girl | [Read More](https://medium.com/p/6b4839c6ac8d) |
-| Sat, 17 May 2025 23:32:27 GMT | Exploring the Core Domains of Cybersecurity | Ziad Tamer | [Read More](https://medium.com/p/ea5977e5d5f7) |
-| Sat, 17 May 2025 23:29:35 GMT | Why Digital Forensics Needs a New Playbook: Navigating Legal, Ethical, and Privacy Challenges | Talahkhan | [Read More](https://medium.com/p/3ce4bbc48cf1) |
-| Sat, 17 May 2025 23:06:10 GMT | Automating SOC Workflows: Integrating Wazuh Alerts with Express.js and AI | mas-mas 1/2 Jawa | [Read More](https://medium.com/p/52fe3792e972) |
-| Sat, 17 May 2025 22:45:47 GMT | Volt Typhoon: TryHackMe Writeup | Ansul Kotadia | [Read More](https://medium.com/p/6976ce06b7ae) |
