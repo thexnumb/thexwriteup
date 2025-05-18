@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 04:26:30 GMT | Vulnerability Is a Superpower | Darlene López | [Read More](https://medium.com/p/a6a1a27062ce) |
+| Sun, 18 May 2025 04:21:10 GMT | My CodePath Cybersecurity Journey: Projects, Lessons, and the Log4Shell Deep Dive | Mateo Flores | [Read More](https://medium.com/p/65cbafa8152e) |
+| Sun, 18 May 2025 04:16:07 GMT | So You Want to Be a Cyber Superhero? | Bl@ckC!pH3r | [Read More](https://medium.com/p/3bd43299e1fc) |
+| Sun, 18 May 2025 04:09:21 GMT | Cross-Site Scripting (XSS) | Anandhu K | [Read More](https://medium.com/p/5d34fba5c568) |
 | Sun, 18 May 2025 03:50:32 GMT | How Hackers Use Default Admin Shares | Bl@ckC!pH3r | [Read More](https://medium.com/p/3ff4331b306d) |
 | Sun, 18 May 2025 03:42:29 GMT | KENOBI-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/5d0cab2ae768) |
 | Sun, 18 May 2025 03:32:30 GMT | Unmasking Atlantis AIO: The Credential Stuffing Powerhouse Threatening Digital Security | Deven Chhajed | [Read More](https://medium.com/p/a9bad0e3874e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 17:42:13 GMT | Why Are So Many UK Homes Still Using Outdated Security? | Mohsin | [Read More](https://medium.com/p/a3493148db8f) |
 | Sat, 17 May 2025 17:31:10 GMT | Random ID Generation: Everything You Need to Know | Thilina Ashen Gamage | [Read More](https://medium.com/p/b2040ff35441) |
 | Sat, 17 May 2025 17:25:40 GMT | Sharpening Command Injections to get Full RCE | Mostafa Alrefai | [Read More](https://medium.com/p/e4cf257d2c66) |
-| Sat, 17 May 2025 17:23:04 GMT | How Wiener’s Attack Breaks RSA When You Pick a Weak Private Key | M7 | [Read More](https://medium.com/p/7113fda6d969) |
-| Sat, 17 May 2025 17:16:45 GMT | APT35 Masquerades as European Modeling Agency in Targeted Espionage Operation | Jon C | [Read More](https://medium.com/p/596e89e27e79) |
-| Sat, 17 May 2025 17:12:18 GMT | I Might Have Just Found A Huge IOS App Exploit | HarryHTML | [Read More](https://medium.com/p/f615156cbe38) |
-| Sat, 17 May 2025 17:02:48 GMT | What Is IPTables In Linux | Mainekdeveloper | [Read More](https://medium.com/p/73f393c9dd7d) |
