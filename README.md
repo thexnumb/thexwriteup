@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 07:16:58 GMT | Mastering proguard-rules.pro: How to Shrink, Secure, and Optimize Your Android App | Arun | [Read More](https://medium.com/p/8ec6a6f955b9) |
+| Sun, 18 May 2025 07:01:42 GMT | TryHackMe - Light - Walkthrough | Regan Temudo | [Read More](https://medium.com/p/fd1f3c65432d) |
+| Sun, 18 May 2025 07:01:24 GMT | How TERE Makes Confidential Computing Accessible for a Private Digital Age | Tenzro | [Read More](https://medium.com/p/0ab1b555a05d) |
 | Sun, 18 May 2025 06:37:12 GMT | Discover Hidden Website Threats in Seconds with Ai1 Site Security Scanner | Leetsec Sarwar | [Read More](https://medium.com/p/1d5c19d761cb) |
 | Sun, 18 May 2025 06:33:11 GMT | Best Endpoint Security Course with AI in Delhi | cyber security Updates | [Read More](https://medium.com/p/d5f605a2f0d9) |
 | Sun, 18 May 2025 06:32:00 GMT | Securing Operational Technology: A Critical Priority in the Age of Cyber-Physical Systems | Fawaz Fahmi Aljalal | [Read More](https://medium.com/p/127d17243c55) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 20:26:12 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/2ff47164f7b4) |
 | Sat, 17 May 2025 20:14:47 GMT | Gift - HackmyVM | Marcos Carmona | [Read More](https://medium.com/p/9828965da371) |
 | Sat, 17 May 2025 20:01:07 GMT | Reverse Engineering on Crackmes.one part 2 | Nuray | [Read More](https://medium.com/p/7c81f5546e61) |
-| Sat, 17 May 2025 19:58:34 GMT | Vulnerability. | healing reflections | [Read More](https://medium.com/p/f5e8f1a17811) |
-| Sat, 17 May 2025 19:56:46 GMT | How to Fix SSLHTTPS Issues on Your WordPress Website | Shubradeb | [Read More](https://medium.com/p/5fb2d3139e09) |
-| Sat, 17 May 2025 19:55:30 GMT | Global CSI Agency Officially Validates VASTAV AI as Revolutionary Indian AI Innovation | CSI | [Read More](https://medium.com/p/32d20822f267) |
