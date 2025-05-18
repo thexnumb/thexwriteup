@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 16:08:49 GMT | Beyond Firewalls: What True End-to-End Cybersecurity Looks Like Today | NetObjex | [Read More](https://medium.com/p/0a0281a63b09) |
+| Sun, 18 May 2025 16:08:01 GMT | ️ Top 20 Interview Questions Every Cybersecurity & Pentesting Candidate Must Prepare (2025… | Vipul Sonule | [Read More](https://medium.com/p/8cf626249a56) |
+| Sun, 18 May 2025 16:06:15 GMT | Top 5 Signs of a Cryptocurrency or Investment Scam — And How to Recover Your Money | Geniusrestore | [Read More](https://medium.com/p/04ab83d5f05c) |
+| Sun, 18 May 2025 16:05:29 GMT | The Five Tech Careers Dominating 2025: Insights From 30 Years in the Trenches | Ibrahim Sajid Malick | [Read More](https://medium.com/p/1ca7f47f4932) |
+| Sun, 18 May 2025 16:04:19 GMT | Bandits with Badges: The Silent Crime That Tried to Break Me | Sally Lebron | [Read More](https://medium.com/p/2ffc4c30339c) |
+| Sun, 18 May 2025 16:01:07 GMT | Lab: Exploiting a mass assignment vulnerability | Mukilan Baskaran | [Read More](https://medium.com/p/c7c68b9f7f1b) |
+| Sun, 18 May 2025 15:59:51 GMT | $750 Bounty: for HTTP Request Smuggling on Data.gov | Monika sharma | [Read More](https://medium.com/p/36b9186d9b98) |
+| Sun, 18 May 2025 15:59:26 GMT | How to Stand Strong Against Cyberbullying | Your's Nightmare | [Read More](https://medium.com/p/b4694b299275) |
+| Sun, 18 May 2025 15:58:06 GMT | The Rising Threat of OTP Scams and How to Stay Safe | Your's Nightmare | [Read More](https://medium.com/p/8b7d8d39bad0) |
+| Sun, 18 May 2025 15:58:05 GMT | TryHackMe - Firewalls - WriteUp | Axoloth | [Read More](https://medium.com/p/64662bb23178) |
+| Sun, 18 May 2025 15:56:51 GMT | How I Logged in as Another User via Broken OAuth Identity Binding | Digvijay Gholase | [Read More](https://medium.com/p/9a5265d84046) |
+| Sun, 18 May 2025 15:55:45 GMT | Incognito Mode Is a Lie Here’s Who Still Sees You | Your's Nightmare | [Read More](https://medium.com/p/e9981f9bdfd2) |
+| Sun, 18 May 2025 15:55:30 GMT | Hack The Box — “CAP” | Satyam Pathania | [Read More](https://medium.com/p/d80ccf48ec2a) |
+| Sun, 18 May 2025 15:53:51 GMT | Part 2: How to Become a Pentester in 2025: The Best Youtube Channels | Anezaneo | [Read More](https://medium.com/p/f759367e78f3) |
+| Sun, 18 May 2025 15:52:19 GMT | Scoreing #1 on LeetCode is super easy (crazy loop holes) | AI With Lil Bro | [Read More](https://medium.com/p/a6726ea12a71) |
+| Sun, 18 May 2025 15:51:00 GMT | OWASP top 10 for LLM Applications | ASAcrew Blog | [Read More](https://medium.com/p/d9f1bf441eaf) |
+| Sun, 18 May 2025 15:46:16 GMT | Bypassing Login via NoSQL Operator Injection: A MongoDB Authentication Hack | Aditya Bhatt | [Read More](https://medium.com/p/b895211f60e0) |
+| Sun, 18 May 2025 15:43:09 GMT | Why Company Culture is the Heartbeat of GRC | Brittney Ginther | [Read More](https://medium.com/p/664aeae55a0c) |
+| Sun, 18 May 2025 15:42:22 GMT | I Thought It Was Just Me | Ilana Estelle Author | [Read More](https://medium.com/p/2add7e7fe0cf) |
 | Sun, 18 May 2025 15:31:14 GMT | How I Bypassed the Login Authentication on a Government-Owned Website | Ahmad Suhendra | [Read More](https://medium.com/p/966a02c600f5) |
+| Sun, 18 May 2025 15:25:37 GMT | Requirements of Public Key Cryptography | Miraj Malam | [Read More](https://medium.com/p/bccd64404a2b) |
 | Sun, 18 May 2025 15:23:51 GMT | How to Set Up cert-manager in Kubernetes: Understanding DNS-01 and HTTP-01 Challenges | Engineer Palsu | [Read More](https://medium.com/p/70c7ccf3f39a) |
 | Sun, 18 May 2025 15:07:15 GMT | VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts | Kshahabaj | [Read More](https://medium.com/p/7f5ddf1d349c) |
 | Sun, 18 May 2025 15:02:33 GMT | 5 Easy Ways to Spot a Phishing Email — Even If You’re Not a Cybersecurity Expert ️ | heyrm | [Read More](https://medium.com/p/248c2eae604f) |
@@ -93,23 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 10:07:38 GMT | macOS Forensics: The Basics — TryHackMe Walkthrough | Pavneet_Singh_ | [Read More](https://medium.com/p/42c735000d40) |
 | Sun, 18 May 2025 10:04:38 GMT | ️ How Hackers Hide Code in Everyday Files — Complete Breakdown With Commands & Tools | NIkhil Kumar | [Read More](https://medium.com/p/be242c3e5ee0) |
 | Sun, 18 May 2025 09:57:18 GMT | Why Windows XP is Safer Than Windows 11 | Arch-Villager | [Read More](https://medium.com/p/a8b79a57fb0f) |
-| Sun, 18 May 2025 09:55:31 GMT | Try Hack Me: Simple CTF Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/9c6f7c5e5c11) |
-| Sun, 18 May 2025 09:52:39 GMT | My eJPT Journey: Notes, andTips, That Helped Me Pass | Toheeb Kayode Adisa | [Read More](https://medium.com/p/1e64fe2c3355) |
-| Sun, 18 May 2025 09:51:10 GMT | Free TryHackMe Rooms to Help You Pass Your eJPT Exam | Toheeb Kayode Adisa | [Read More](https://medium.com/p/075a30e97041) |
-| Sun, 18 May 2025 09:50:07 GMT | ZBX Review- Is It Possible To Recover My Money Back? | Ryan Edward | [Read More](https://medium.com/p/94de28f474bc) |
-| Sun, 18 May 2025 09:46:17 GMT | Here Is How I Recover My Money From ZBX | Ryan Edward | [Read More](https://medium.com/p/6e5b405401b4) |
-| Sun, 18 May 2025 09:40:22 GMT | Samsung Slams the Door on Mirai: Patching CVE-2025–4632 in MagicINFO 9 to Stop Botnet Chaos ️ | Ismail Tasdelen | [Read More](https://medium.com/p/53bbd6c36f1a) |
-| Sun, 18 May 2025 09:36:58 GMT | BianLian and RansomExx Unleash Chaos: SAP NetWeaver Flaw Fuels PipeMagic Trojan Attacks ️ | Ismail Tasdelen | [Read More](https://medium.com/p/49742b1986e8) |
-| Sun, 18 May 2025 09:33:47 GMT | Xinbi Guarantee: The $8.4B Telegram Black Market Fueling Crypto Crime and Romance Scams ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/c9fde95612d8) |
-| Sun, 18 May 2025 09:29:13 GMT | The Custom Instruction Backdoor: Uncovering Emergent Prompt Injection Risks in ChatGPT | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/5fd57f775693) |
-| Sun, 18 May 2025 09:28:30 GMT | How I Tracked Down the Metasploitable VM’s IP Address in Seconds with Netdiscover | Syedmohathashimali | [Read More](https://medium.com/p/8184842fbc8e) |
-| Sun, 18 May 2025 09:25:33 GMT | Earth Ammit’s Cyber Sting: How VENOM and TIDRONE Campaigns Hacked Drone Supply Chains ️ | Ismail Tasdelen | [Read More](https://medium.com/p/8509a1f0ccbc) |
-| Sun, 18 May 2025 09:21:14 GMT | Horabot Malware Hits Latin America: A Phishing Campaign Packed with Invoices and Sneaky Tricks | Ismail Tasdelen | [Read More](https://medium.com/p/9efc6f0ee0a2) |
-| Sun, 18 May 2025 09:18:33 GMT | Navigating the Maze: How Enterprise Systems Handle Internet Requests Securely | TechWealthBuzz | [Read More](https://medium.com/p/6e2087faadc6) |
-| Sun, 18 May 2025 09:18:25 GMT | Active Directory Kimlik Doğrulama Protokolleri: LM, NTLMv1, NTLMv2 ve Kerberos Derinlemesine… | Tuğrul Kılıç | [Read More](https://medium.com/p/bd7573c5cf1d) |
-| Sun, 18 May 2025 09:17:53 GMT | Microsoft’s May 2025 Patch Tuesday: 78 Flaws, 5 Zero-Days, and a CVSS 10 Nightmare in Azure DevOps… | Ismail Tasdelen | [Read More](https://medium.com/p/68f0ff23af0e) |
-| Sun, 18 May 2025 09:14:28 GMT | Ransomware Explained: How It Works and How to Stop It | Lelieveld Dictionary | [Read More](https://medium.com/p/df142d5bd876) |
-| Sun, 18 May 2025 09:13:47 GMT | Heal HackTheBox Writeup | trit0nesub | [Read More](https://medium.com/p/267348c0cb82) |
-| Sun, 18 May 2025 09:13:08 GMT | Fortinet Tackles CVE-2025–32756: A Zero-Day RCE Flaw Hitting FortiVoice Systems | Ismail Tasdelen | [Read More](https://medium.com/p/d7248d7f6836) |
-| Sun, 18 May 2025 09:13:04 GMT | Advanced Threat Analysis of the Model Context Protocol (MCP): | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/ec8edcef812c) |
-| Sun, 18 May 2025 09:09:43 GMT | Ivanti Patches EPMM Zero-Days: A Tale of Authentication Bypasses and Remote Code Execution ️ | Ismail Tasdelen | [Read More](https://medium.com/p/72a936365697) |
