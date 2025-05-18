@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 14:24:28 GMT | Building Ransomware Resilience: Why Product Strategies Must Prioritise Comprehensive Recovery Plans | Shashank | [Read More](https://medium.com/p/8d2c41173f2c) |
+| Sun, 18 May 2025 14:17:23 GMT | Cryptographic Failures | Ali Karaoglan | [Read More](https://medium.com/p/a89080352e70) |
 | Sun, 18 May 2025 14:13:41 GMT | OWASP Pentest Series (2/12) | TheZeeshanKhan | [Read More](https://medium.com/p/cbbcb32f23ab) |
 | Sun, 18 May 2025 14:03:41 GMT | Boost Your Staking Rewards with $DORK on StakingRewards | DORK | [Read More](https://medium.com/p/98bf0da24710) |
 | Sun, 18 May 2025 14:02:28 GMT | my love, these cold feet are willing to try | rein | [Read More](https://medium.com/p/e8577be59e9c) |
@@ -111,5 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 08:26:56 GMT | Walk-through of the Kioptrix1.2 Vulnhub Machine | Sanjeev Rathore | [Read More](https://medium.com/p/25a753364369) |
 | Sun, 18 May 2025 08:25:35 GMT | Top 10 Reasons Why Tower Bolts Are Essential for Home Security and Internal Doors | Flybird Hardware Limited | [Read More](https://medium.com/p/de28d23012d2) |
 | Sun, 18 May 2025 08:20:48 GMT | Hack the way back into your linux | Amritgiri | [Read More](https://medium.com/p/76f1352d9fdf) |
-| Sun, 18 May 2025 08:06:58 GMT | How I Found a P1 Vulnerability That Allowed Full Account Takeover | hacker_space11 | [Read More](https://medium.com/p/e959fce8d882) |
-| Sun, 18 May 2025 08:02:31 GMT | LockBit hackeado: caída del ransomware más temido | Manuel Jesús Gallardo Martín | [Read More](https://medium.com/p/d0bc7041df67) |
