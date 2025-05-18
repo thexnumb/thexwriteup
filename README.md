@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 19:04:31 GMT | AskTater™ Goes to NCCDC | David Campbell | [Read More](https://medium.com/p/35e040d70f1e) |
+| Sun, 18 May 2025 19:02:31 GMT | This One Secret Everyone Ignores Will Change How You Approach Love Forever | Amir Taufiq | [Read More](https://medium.com/p/f7a1d462fe46) |
+| Sun, 18 May 2025 18:53:36 GMT | Think You’re Safe? Think Again: Cybersecurity Myths | Erkan Kavas | [Read More](https://medium.com/p/69090b7e7afa) |
+| Sun, 18 May 2025 18:49:05 GMT | Malware Found in Procolored Printer Drivers | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/fb8e9a10b841) |
+| Sun, 18 May 2025 18:40:14 GMT | Why Do I Need a Firewall? | Jazz Cyber Shield | [Read More](https://medium.com/p/a8cf620c709d) |
 | Sun, 18 May 2025 18:36:08 GMT | The RAVP Model: Rethinking ROI in Cybersecurity Leadership | Fintont | [Read More](https://medium.com/p/84990b86fc5a) |
 | Sun, 18 May 2025 18:32:22 GMT | The Boy and the Bugs | Cogito Ergo Scribo | [Read More](https://medium.com/p/939dc6f18241) |
 | Sun, 18 May 2025 18:26:04 GMT | Why You Need a Professional Security Concierge Officer in Vancouver! | Aalan | [Read More](https://medium.com/p/e3946bcc2614) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 12:45:49 GMT | Finding Heap Overflows with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/18e85d571c0f) |
 | Sun, 18 May 2025 12:42:11 GMT | Google Like a Hacker: Secrets Lurking in Plain Search. | Inside Garuda | [Read More](https://medium.com/p/0b16fd882c61) |
 | Sun, 18 May 2025 12:30:49 GMT | How I Discovered Sensitive Data & Directory Exposure on an Indian Government Medical Institute… | Adithya Raj | [Read More](https://medium.com/p/0d2fbbc5042e) |
-| Sun, 18 May 2025 12:23:23 GMT | The Hacker Who Took Down North Korea | Abdur Mowlana | [Read More](https://medium.com/p/93e18cca372e) |
-| Sun, 18 May 2025 12:18:11 GMT | Why Narcissists Struggle in Bed | Elena Byron | [Read More](https://medium.com/p/deddce819794) |
-| Sun, 18 May 2025 12:16:29 GMT | Vibe Coding: Can You Feel It? | Mohammed Brückner | [Read More](https://medium.com/p/76d5d2246666) |
-| Sun, 18 May 2025 12:09:24 GMT | I Was Hacked. Then I Was Erased. | Mansoor A | [Read More](https://medium.com/p/dc99b1ab2a97) |
-| Sun, 18 May 2025 12:02:31 GMT | FortiDDoS by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/a5af5e2eee0c) |
