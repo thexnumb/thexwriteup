@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 18:24:34 GMT | Cooking the Proxy — What the heck is a Proxy Server | Javier | [Read More](https://medium.com/p/e180078ba183) |
+| Sun, 18 May 2025 18:19:58 GMT | Open Redirect Vulnerability in OAuth Flow on Lichess4545.com | Regan Temudo | [Read More](https://medium.com/p/0e78c2d97397) |
+| Sun, 18 May 2025 18:14:26 GMT | Use-After-Free: The silent killer takes over the memory of Operating System | Dulip Ravindra | [Read More](https://medium.com/p/ecb0271e1a3a) |
+| Sun, 18 May 2025 18:11:56 GMT | Crypto Failures - TryHackMe Medium | Error | [Read More](https://medium.com/p/d60d55b849d6) |
+| Sun, 18 May 2025 18:08:00 GMT | Digital Network Interconnected System | Mohammad Hossein Moghadasi | [Read More](https://medium.com/p/c5101ae91a93) |
+| Sun, 18 May 2025 18:00:38 GMT | Unlocking Information: An Introduction to Open Source Intelligence (OSINT) | Lincoln Mcloud | [Read More](https://medium.com/p/4d07018e791a) |
+| Sun, 18 May 2025 17:59:24 GMT | Old School Analogies for Modern Risk Management | Dominick Caponi | [Read More](https://medium.com/p/38e4bfe495a0) |
+| Sun, 18 May 2025 17:49:53 GMT | CSAY 1.0 CTF 2025 Writeup | Kishan Jai Soorya N | [Read More](https://medium.com/p/d75d15b29c96) |
+| Sun, 18 May 2025 17:46:16 GMT | AI-Powered Secure & Scalable Trading on Monad by Butter-Fi | Jill Chang | [Read More](https://medium.com/p/7c47f02fe08b) |
+| Sun, 18 May 2025 17:38:24 GMT | STOP SCANNING, START HACKING: HOW TO GRAB EASY (BUT REAL) BOUNTIES MANUALLY | MadaraCracker | [Read More](https://medium.com/p/3a4ca0607139) |
 | Sun, 18 May 2025 17:31:16 GMT | 0x01 — Building Malware in C++: Memory Execution, Shellcode, and AV Evasion Basics | Itz.sanskarr | [Read More](https://medium.com/p/2044552ec6db) |
 | Sun, 18 May 2025 17:13:20 GMT | Vulnerable and Outdated Components | Ali Karaoglan | [Read More](https://medium.com/p/17b1a0c86b79) |
 | Sun, 18 May 2025 17:06:35 GMT | Security Misconfiguration | Ali Karaoglan | [Read More](https://medium.com/p/1368e415db14) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 12:02:31 GMT | Experts, Trust, and the Human Condition | Just Here for the Lulz | [Read More](https://medium.com/p/3a1bb3686bbb) |
 | Sun, 18 May 2025 11:47:33 GMT | Cyber security dirty secret of 2025: Data-Flow Blindness | Tal Berin | [Read More](https://medium.com/p/a5e36d03f3bd) |
 | Sun, 18 May 2025 11:38:19 GMT | GDB baby step 3 - Writeup | Marvin | [Read More](https://medium.com/p/801fc590f9a9) |
-| Sun, 18 May 2025 11:27:14 GMT | Silent Invasion: How STASI Gangstalking Fuels Germany’s Migration and Drug Crisis | SIMKRA | [Read More](https://medium.com/p/bd325043546d) |
-| Sun, 18 May 2025 11:26:24 GMT | Top PHP libraries for sanitizing user input (and why you need them) | Roman Huliak | [Read More](https://medium.com/p/3ff47f1c8db8) |
-| Sun, 18 May 2025 11:23:14 GMT | API Application Testing: Basics to Advanced — A Hacker’s Starter Guide | Anmol Shah | [Read More](https://medium.com/p/b5f25ee5fe9b) |
-| Sun, 18 May 2025 11:20:49 GMT | Payload Nedir ? | Ali Karaoglan | [Read More](https://medium.com/p/9de3c3e2b659) |
-| Sun, 18 May 2025 11:19:54 GMT | My Security Journey | Ali Karaoglan | [Read More](https://medium.com/p/d7d981aa0fe5) |
-| Sun, 18 May 2025 11:17:49 GMT | What if every CISO had a map to lead with clarity – from day one to boardroom influence? | Fintont | [Read More](https://medium.com/p/3cbd811abeaa) |
-| Sun, 18 May 2025 11:06:12 GMT | Why Azure AI Content Safety is a Game-Changer for Content Moderation | Rehan Khan | [Read More](https://medium.com/p/9cd55de784be) |
-| Sun, 18 May 2025 11:01:37 GMT | What Happens in a Smart Home When You’re Away? | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/ee10a47e6e28) |
-| Sun, 18 May 2025 10:58:13 GMT | AlphaFold — more than just on the Go! | Mohammed Brückner | [Read More](https://medium.com/p/70c092b79713) |
-| Sun, 18 May 2025 10:53:41 GMT | The Modern CISO: From Technical Authority to Strategic Influencer | Fintont | [Read More](https://medium.com/p/62b71a9026c7) |
