@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 05:29:43 GMT | Behind The Smile | Niabi Travel | [Read More](https://medium.com/p/dccfe40442f7) |
 | Sun, 18 May 2025 05:17:07 GMT | Maximize Staking Rewards with LunaFi $LFI | LFI | [Read More](https://medium.com/p/b0071e8e289b) |
 | Sun, 18 May 2025 05:14:30 GMT | How to Choose the Best Information Security Auditor | SecureSlate | [Read More](https://medium.com/p/574e095be748) |
 | Sun, 18 May 2025 05:10:05 GMT | Meta BBP — Stored XSS at Meta Careers | Muntadhar M. Ahmed | [Read More](https://medium.com/p/c0bf074bddfa) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 18:32:55 GMT | “Wait… You’re Using .env Files in Flutter for Secrets?” Let’s Talk Before It’s Too Late | Md. Al-Amin | [Read More](https://medium.com/p/0b622ee28db6) |
 | Sat, 17 May 2025 18:25:14 GMT | Ultimate Guide to Implementing NIST CSF 2.0: Compliance and Tools | Oleh Dubetcky | [Read More](https://medium.com/p/564b55bed4fd) |
 | Sat, 17 May 2025 18:23:04 GMT | Start Earning with ChainBounty $BOUNTY on StakingRewards | BOUNTY | [Read More](https://medium.com/p/71b7e293bdfa) |
-| Sat, 17 May 2025 18:21:47 GMT | “How a Company Got Hacked Without a Single Line of Code” | An0n | [Read More](https://medium.com/p/254066397f69) |
