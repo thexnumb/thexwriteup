@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 07:30:28 GMT | What If the Digital Euro Was Hacked? A Scenario Europe Can’t Afford to Ignore | Mohamed MOUSSOUS | [Read More](https://medium.com/p/97f28257be89) |
+| Sun, 18 May 2025 07:22:03 GMT | Journey Towards Ethical | RNinjaC | [Read More](https://medium.com/p/201a8b33b880) |
+| Sun, 18 May 2025 07:20:33 GMT | Agentic AI vs. Generative AI: Understanding the Key Differences and Future Impact | Sanjay Kumar | [Read More](https://medium.com/p/aee406051416) |
+| Sun, 18 May 2025 07:19:58 GMT | I Found Exposed Data Online — Here’s What I Did About It | MrBug | [Read More](https://medium.com/p/4252236fc7cb) |
+| Sun, 18 May 2025 07:19:34 GMT | Notebook and Spark Job definition execution with service principal | Lackshu Balasubramaniam | [Read More](https://medium.com/p/6c990b8db136) |
 | Sun, 18 May 2025 07:16:58 GMT | Mastering proguard-rules.pro: How to Shrink, Secure, and Optimize Your Android App | Arun | [Read More](https://medium.com/p/8ec6a6f955b9) |
 | Sun, 18 May 2025 07:01:42 GMT | TryHackMe - Light - Walkthrough | Regan Temudo | [Read More](https://medium.com/p/fd1f3c65432d) |
 | Sun, 18 May 2025 07:01:24 GMT | How TERE Makes Confidential Computing Accessible for a Private Digital Age | Tenzro | [Read More](https://medium.com/p/0ab1b555a05d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 20:37:10 GMT | Unlocking Maltego: Your First Steps in Open Source Intelligence | Tirth Gohil | [Read More](https://medium.com/p/414b93bebe8f) |
 | Sat, 17 May 2025 20:31:51 GMT | I turned ChatGPT Into A Hacker! | Tomer Wetzler | [Read More](https://medium.com/p/9a6ae6631e0b) |
 | Sat, 17 May 2025 20:27:57 GMT | I Turned ChatGPT Into A Hacker! | Tomer Wetzler | [Read More](https://medium.com/p/135529403d0e) |
-| Sat, 17 May 2025 20:26:47 GMT | Magma HN Milenage | Shubham Kumar | [Read More](https://medium.com/p/ac09516d1bf6) |
-| Sat, 17 May 2025 20:26:47 GMT | SSRF and SQL Injection | musayyab sharif | [Read More](https://medium.com/p/351416e27ce6) |
-| Sat, 17 May 2025 20:26:12 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/2ff47164f7b4) |
-| Sat, 17 May 2025 20:14:47 GMT | Gift - HackmyVM | Marcos Carmona | [Read More](https://medium.com/p/9828965da371) |
-| Sat, 17 May 2025 20:01:07 GMT | Reverse Engineering on Crackmes.one part 2 | Nuray | [Read More](https://medium.com/p/7c81f5546e61) |
