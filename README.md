@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 21:20:21 GMT | Hacking APIs : Nuclei for REST/API Penetration Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/0b11bbd2eed5) |
+| Sun, 18 May 2025 21:19:14 GMT | Why Your Password Security Probably Sucks | Sara Garcia | [Read More](https://medium.com/p/7a276858720c) |
+| Sun, 18 May 2025 21:17:15 GMT | AI Driven WAFs | Rye Overly | [Read More](https://medium.com/p/daf5138ccc34) |
 | Sun, 18 May 2025 21:06:36 GMT | ️Web3 Security Weekly — May 12–18, 2025 | Null Return | [Read More](https://medium.com/p/f67c7ba7370c) |
 | Sun, 18 May 2025 21:04:57 GMT | ️ Web Scraping 2025: Extracting Data Without Extracting Trouble | AIAlchemist_Ab1r | [Read More](https://medium.com/p/e1886d4c11b6) |
 | Sun, 18 May 2025 21:01:37 GMT | The Great Hack: How Your Data Was Stolen and What to Do About It | TechTopia | [Read More](https://medium.com/p/5aebba94d191) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 14:01:36 GMT | CiberIA — Comprehensive System for Self-Perception and Autonomous Security in AIs | Jordi Garcia Castillon | [Read More](https://medium.com/p/b557e1925eb1) |
 | Sun, 18 May 2025 13:57:50 GMT | Pasif Bilgi Toplama | Ali Karaoglan | [Read More](https://medium.com/p/fae1d4daf51d) |
 | Sun, 18 May 2025 13:56:12 GMT | DOM XSS Exploitation via postMessage in an iframe | Bash Overflow | [Read More](https://medium.com/p/d50df8feac5b) |
-| Sun, 18 May 2025 13:55:37 GMT | METASPLOIT ILE SISTEME SIZMA CTF:BLUE | Ali Karaoglan | [Read More](https://medium.com/p/c00bd417320b) |
-| Sun, 18 May 2025 13:53:52 GMT | NetraBharat — Part 2 | Jay Nagrecha | [Read More](https://medium.com/p/b9564602ded2) |
-| Sun, 18 May 2025 13:53:06 GMT | Complexity over Complexity: Zero Trust in Multi-Cloud for Non Human Identities (NHIs) | Tanzil Rehman | [Read More](https://medium.com/p/fe23a3adc944) |
