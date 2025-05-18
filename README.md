@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 10:33:30 GMT | Phishing Attacks Are Smarter Than Ever — Here’s What to Watch For | Lelieveld Dictionary | [Read More](https://medium.com/p/48848a7bfc35) |
+| Sun, 18 May 2025 10:32:14 GMT | How to Claim ChainBounty $BOUNTY Staking Rewards Efficiently | BOUNTY | [Read More](https://medium.com/p/6b82ec001517) |
+| Sun, 18 May 2025 10:25:21 GMT | TryHakMe: Supply Chain Attack: Lottie- | Pavneet_Singh_ | [Read More](https://medium.com/p/ae9ffce45cf6) |
+| Sun, 18 May 2025 10:21:51 GMT | I Don’t Think I’m Hard to Love. I Think I’m Just Hard to Reach. | Lilliesinherwake | [Read More](https://medium.com/p/8ab1cbaeef66) |
+| Sun, 18 May 2025 10:14:39 GMT | How To Use ChatGPT for Cybersecurity | Bernard Builds | [Read More](https://medium.com/p/e04ea7efc618) |
+| Sun, 18 May 2025 10:12:24 GMT | Build Your Own AI SOC — Part 6 Daily AI-Powered Threat Briefings With n8n + GPT | Corey Jones | [Read More](https://medium.com/p/17bd8d5b9b11) |
 | Sun, 18 May 2025 10:11:59 GMT | How the Europeans and Israelis relate to religion | Nancy Anderson | [Read More](https://medium.com/p/9a49e4e0b49b) |
 | Sun, 18 May 2025 10:11:00 GMT | I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters | Ravindrajatav | [Read More](https://medium.com/p/7bc95b8ea860) |
 | Sun, 18 May 2025 10:07:38 GMT | macOS Forensics: The Basics — TryHackMe Walkthrough | Pavneet_Singh_ | [Read More](https://medium.com/p/42c735000d40) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 03:32:30 GMT | Unmasking Atlantis AIO: The Credential Stuffing Powerhouse Threatening Digital Security | Deven Chhajed | [Read More](https://medium.com/p/a9bad0e3874e) |
 | Sun, 18 May 2025 03:24:10 GMT | HackTheBox-Heal(WriteUp) | Aniket Das | [Read More](https://medium.com/p/9ebfdcd85adf) |
 | Sun, 18 May 2025 03:22:57 GMT | Engulfing Candlestick: | Joseph classic | [Read More](https://medium.com/p/6d90ebc0fede) |
-| Sun, 18 May 2025 03:15:49 GMT | The Most Dangerous Bug I’ve Ever Found (And No One Was Looking) | Abhijeet Kumawat | [Read More](https://medium.com/p/2e96e5079a01) |
-| Sun, 18 May 2025 03:11:31 GMT | Shadow Protocol: The Hacker’s Redemption | Priyantbanerjee | [Read More](https://medium.com/p/0468f71b87e6) |
-| Sun, 18 May 2025 03:03:27 GMT | How Attackers Use LinkedIn to Map Entire Corporate Structures | Bl@ckC!pH3r | [Read More](https://medium.com/p/35efb1b45f0d) |
-| Sun, 18 May 2025 02:57:35 GMT | The Dangers of Screenshot Sharing in Remote Teams | Bl@ckC!pH3r | [Read More](https://medium.com/p/8d8a8329a952) |
-| Sun, 18 May 2025 02:47:40 GMT | TryHackMe Phishing Challenge: The Greenholt Phish | Eidelweiiss | [Read More](https://medium.com/p/d7356efafbc0) |
-| Sun, 18 May 2025 02:35:22 GMT | SIM Swapping Attack: The Silent Digital Heist You Must Be Aware Of | Ddm atiq | [Read More](https://medium.com/p/f9d5bfdd7de0) |
