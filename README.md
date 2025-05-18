@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 22:32:20 GMT | BILLING WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/4a1acedcbf1e) |
+| Sun, 18 May 2025 22:09:19 GMT | Basit Linux komutlari sistem bilgilerini kontol etmek icin | Ipek U | [Read More](https://medium.com/p/397ec57d2990) |
 | Sun, 18 May 2025 22:07:56 GMT | Normalize Vulnerability | JoAnna Magby | [Read More](https://medium.com/p/a62d25c1fbbe) |
 | Sun, 18 May 2025 22:06:51 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | CyberSicko | [Read More](https://medium.com/p/1ddc06b7ac08) |
 | Sun, 18 May 2025 22:04:59 GMT | How to replace a Tile Slim battery | Francesco Mantovani | [Read More](https://medium.com/p/db8aa45f9603) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 15:07:15 GMT | VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts | Kshahabaj | [Read More](https://medium.com/p/7f5ddf1d349c) |
 | Sun, 18 May 2025 15:02:33 GMT | 5 Easy Ways to Spot a Phishing Email — Even If You’re Not a Cybersecurity Expert ️ | heyrm | [Read More](https://medium.com/p/248c2eae604f) |
 | Sun, 18 May 2025 15:01:50 GMT | What Comes After Login? Identity Drift in the Age of Agents | David Canellos | [Read More](https://medium.com/p/62e21606d4da) |
-| Sun, 18 May 2025 14:57:51 GMT | The Hurt No One Talks About | AFRITH | [Read More](https://medium.com/p/f7e7156c2e0a) |
-| Sun, 18 May 2025 14:53:28 GMT | $265 Million Vanished: Kiwi Man Busted in Massive Global Crypto Scam with FBI Ties | CoinGen | [Read More](https://medium.com/p/684c9a527619) |
