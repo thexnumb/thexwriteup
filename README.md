@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 19:51:56 GMT | Machine-to-Machine Trust at Scale: The Role of New Blockchain Security Standards in Agentic AI | Valdez Ladd | [Read More](https://medium.com/p/2d23838ad022) |
+| Sun, 18 May 2025 19:51:33 GMT | Day 17 Blind SQL injection with out-of-band data exfiltration — Zero to Hero out-of-band —… | RayofHope | [Read More](https://medium.com/p/a7f770ab30a0) |
+| Sun, 18 May 2025 19:45:21 GMT | How to Simulate a Phishing Attack (Safely & Legally): A Beginner’s Guide into Ethical Hacking | Oshada Rashmika | [Read More](https://medium.com/p/1ccc3fbf1a2c) |
+| Sun, 18 May 2025 19:41:10 GMT | The Life of an Emotional Outsider | Mike O'Toole | [Read More](https://medium.com/p/28559362de34) |
+| Sun, 18 May 2025 19:40:57 GMT | Neuro Input session 001 — Not a test…. (Probably) | Neuro & Halli | [Read More](https://medium.com/p/2ee071b3a8d5) |
+| Sun, 18 May 2025 19:38:11 GMT | Cyber Psychology: The Human Factor and Social Engineering | Talha Memiş | [Read More](https://medium.com/p/7ccecd8ca913) |
 | Sun, 18 May 2025 19:16:45 GMT | The Birthday Surprise: Why Hash Collisions Are More Common Than You Think (And Why It Matters for… | Lh Mohammed | [Read More](https://medium.com/p/85d2da7aafba) |
 | Sun, 18 May 2025 19:15:07 GMT | Whose Risk Is It Anyway? | Jenny Feneley | [Read More](https://medium.com/p/1789216d727a) |
 | Sun, 18 May 2025 19:04:31 GMT | AskTater™ Goes to NCCDC | David Campbell | [Read More](https://medium.com/p/35e040d70f1e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 13:08:13 GMT | PRIVACY : NOTICE AND CHOICE. EXACTLY, YOU CAN CHOICE! | Senjaputrasndr | [Read More](https://medium.com/p/094f7001cf61) |
 | Sun, 18 May 2025 13:05:53 GMT | APT28’s Sneaky Email Heist: How Russia-Linked Hackers Used an MDaemon Zero-Day to Raid Government… | Ismail Tasdelen | [Read More](https://medium.com/p/9a6df598d1fe) |
 | Sun, 18 May 2025 13:05:30 GMT | Beyond The Clouds: Securing Your Cloud Storage | Eidelweiiss | [Read More](https://medium.com/p/b309a2ffb013) |
-| Sun, 18 May 2025 13:02:36 GMT | Blind Spots Are Breach Points: Expose Them with Peris.ai BimaRed | Peris.ai Cybersecurity | [Read More](https://medium.com/p/b9440427b051) |
-| Sun, 18 May 2025 13:02:29 GMT | Sneaky npm Package Hides Malware with Unicode Tricks and Google Calendar Shenanigans | Ismail Tasdelen | [Read More](https://medium.com/p/5e7a21623458) |
-| Sun, 18 May 2025 13:00:50 GMT | AWS EC2 PrivEsc — From RCE to Root | John Mathew | [Read More](https://medium.com/p/42bd6d879a68) |
-| Sun, 18 May 2025 12:59:28 GMT | wake up to what awaits you | Khushi Kankaria | [Read More](https://medium.com/p/d637fb23c163) |
-| Sun, 18 May 2025 12:50:18 GMT | Meterpreter | Ali Karaoglan | [Read More](https://medium.com/p/a9301633a172) |
-| Sun, 18 May 2025 12:45:49 GMT | Finding Heap Overflows with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/18e85d571c0f) |
