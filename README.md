@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 03:50:32 GMT | How Hackers Use Default Admin Shares | Bl@ckC!pH3r | [Read More](https://medium.com/p/3ff4331b306d) |
+| Sun, 18 May 2025 03:42:29 GMT | KENOBI-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/5d0cab2ae768) |
+| Sun, 18 May 2025 03:32:30 GMT | Unmasking Atlantis AIO: The Credential Stuffing Powerhouse Threatening Digital Security | Deven Chhajed | [Read More](https://medium.com/p/a9bad0e3874e) |
+| Sun, 18 May 2025 03:24:10 GMT | HackTheBox-Heal(WriteUp) | Aniket Das | [Read More](https://medium.com/p/9ebfdcd85adf) |
+| Sun, 18 May 2025 03:22:57 GMT | Engulfing Candlestick: | Joseph classic | [Read More](https://medium.com/p/6d90ebc0fede) |
+| Sun, 18 May 2025 03:15:49 GMT | The Most Dangerous Bug I’ve Ever Found (And No One Was Looking) | Abhijeet Kumawat | [Read More](https://medium.com/p/2e96e5079a01) |
+| Sun, 18 May 2025 03:11:31 GMT | Shadow Protocol: The Hacker’s Redemption | Priyantbanerjee | [Read More](https://medium.com/p/0468f71b87e6) |
 | Sun, 18 May 2025 03:03:27 GMT | How Attackers Use LinkedIn to Map Entire Corporate Structures | Bl@ckC!pH3r | [Read More](https://medium.com/p/35efb1b45f0d) |
 | Sun, 18 May 2025 02:57:35 GMT | The Dangers of Screenshot Sharing in Remote Teams | Bl@ckC!pH3r | [Read More](https://medium.com/p/8d8a8329a952) |
 | Sun, 18 May 2025 02:47:40 GMT | TryHackMe Phishing Challenge: The Greenholt Phish | Eidelweiiss | [Read More](https://medium.com/p/d7356efafbc0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 17:16:45 GMT | APT35 Masquerades as European Modeling Agency in Targeted Espionage Operation | Jon C | [Read More](https://medium.com/p/596e89e27e79) |
 | Sat, 17 May 2025 17:12:18 GMT | I Might Have Just Found A Huge IOS App Exploit | HarryHTML | [Read More](https://medium.com/p/f615156cbe38) |
 | Sat, 17 May 2025 17:02:48 GMT | What Is IPTables In Linux | Mainekdeveloper | [Read More](https://medium.com/p/73f393c9dd7d) |
-| Sat, 17 May 2025 17:02:28 GMT | CyberTalents Certified Active Directory Penetration Tester (Writeup) | Amr Eid | [Read More](https://medium.com/p/c0df0e2f8579) |
-| Sat, 17 May 2025 17:02:05 GMT | Increase Your Earnings with ChainBounty $BOUNTY Staking Strategies | BOUNTY | [Read More](https://medium.com/p/a20ced5b7632) |
-| Sat, 17 May 2025 16:57:01 GMT | Comprehensive Guide to MDM, MAM, and XDR Using Microsoft Intune: Part 1 | ThamizhElango Natarajan | [Read More](https://medium.com/p/6e1ff9f4de83) |
-| Sat, 17 May 2025 16:56:19 GMT | Where AI Meets Cybersecurity Risk Assessment | Kino | [Read More](https://medium.com/p/db10912cbd94) |
-| Sat, 17 May 2025 16:55:58 GMT | Comprehensive Guide to MDM, MAM, and XDR Using Microsoft Intune: Part 2 | ThamizhElango Natarajan | [Read More](https://medium.com/p/5cf0debaf6b6) |
-| Sat, 17 May 2025 16:55:21 GMT | Smart Style: How Wearable Tech Is Redefining Fashion and Privacy | Jayden Lyons | [Read More](https://medium.com/p/3d00d4fb2614) |
-| Sat, 17 May 2025 16:54:52 GMT | Digital Anonymity vs. Digital Forensics: The Eternal Battle in Cyberspace | Barry Sahya | [Read More](https://medium.com/p/0a02d991883e) |
