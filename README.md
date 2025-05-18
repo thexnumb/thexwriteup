@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 08:33:12 GMT | Cyber Self-Defense: Daily Device Locking is More Powerful Than You Think | Hitesh Said | [Read More](https://medium.com/p/e2f085c7b6e6) |
+| Sun, 18 May 2025 08:33:06 GMT | Aktif Bilgi Toplama: Doğrudan Etkileşim | Taha Özcan | [Read More](https://medium.com/p/55f1122cc6a9) |
+| Sun, 18 May 2025 08:27:21 GMT | Dorking Cloud Storage Buckets | AbhirupKonwar | [Read More](https://medium.com/p/d63d81c115ea) |
+| Sun, 18 May 2025 08:26:56 GMT | Walk-through of the Kioptrix1.2 Vulnhub Machine | Sanjeev Rathore | [Read More](https://medium.com/p/25a753364369) |
+| Sun, 18 May 2025 08:25:35 GMT | Top 10 Reasons Why Tower Bolts Are Essential for Home Security and Internal Doors | Flybird Hardware Limited | [Read More](https://medium.com/p/de28d23012d2) |
+| Sun, 18 May 2025 08:20:48 GMT | Hack the way back into your linux | Amritgiri | [Read More](https://medium.com/p/76f1352d9fdf) |
 | Sun, 18 May 2025 08:06:58 GMT | How I Found a P1 Vulnerability That Allowed Full Account Takeover | hacker_space11 | [Read More](https://medium.com/p/e959fce8d882) |
 | Sun, 18 May 2025 08:02:31 GMT | LockBit hackeado: caída del ransomware más temido | Manuel Jesús Gallardo Martín | [Read More](https://medium.com/p/d0bc7041df67) |
 | Sun, 18 May 2025 07:56:35 GMT | XSS Part — 18 : Reflected XSS into a JavaScript string with angle brackets and double quotes… | Ahmad Sopyan | [Read More](https://medium.com/p/0aa0a1e06d1b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 22:06:46 GMT | SPF, DKIM & DMARC: The Triple Shield of Email Authentication Protocol | Ayyappan Subramanian | [Read More](https://medium.com/p/6d5440aedc47) |
 | Sat, 17 May 2025 21:56:49 GMT | Best In Recovery…. | Jenny Kyle | [Read More](https://medium.com/p/a15f8b677d56) |
 | Sat, 17 May 2025 21:51:27 GMT | Day 16: Blind SQL injection with out-of-band interaction— Zero to Hero out-of-band — Portswigger | RayofHope | [Read More](https://medium.com/p/80cca693aa03) |
-| Sat, 17 May 2025 21:46:26 GMT | The Origin and Evolution of the Android Operating System | Souhail Laghchim | [Read More](https://medium.com/p/b11795cc2fda) |
-| Sat, 17 May 2025 21:42:44 GMT | Start Earning with LunaFi $LFI on StakingRewards | LFI | [Read More](https://medium.com/p/9d2ec017ffcc) |
-| Sat, 17 May 2025 21:42:35 GMT | Linux: A Powerful Open-Source Operating System | Souhail Laghchim | [Read More](https://medium.com/p/9acb48cdf12a) |
-| Sat, 17 May 2025 21:36:40 GMT | Hacking TP-LINK WA850RE Wi-Fi Extender: RCE Leads To Root-Level Reverse Shell | Mehmet Akif VARDAR | [Read More](https://medium.com/p/255bd0443dda) |
-| Sat, 17 May 2025 21:33:41 GMT | Stateful Connection With Spoofed Source IP — NetImpostor | pepperoni | [Read More](https://medium.com/p/ece8b950a981) |
-| Sat, 17 May 2025 21:31:58 GMT | CTF Write-up GoldenSpray (Certified Cyber Defenders) | Mohlaliragab | [Read More](https://medium.com/p/923c77f525a3) |
