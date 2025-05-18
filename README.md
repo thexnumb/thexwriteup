@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 22:07:56 GMT | Normalize Vulnerability | JoAnna Magby | [Read More](https://medium.com/p/a62d25c1fbbe) |
+| Sun, 18 May 2025 22:06:51 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | CyberSicko | [Read More](https://medium.com/p/1ddc06b7ac08) |
+| Sun, 18 May 2025 22:04:59 GMT | How to replace a Tile Slim battery | Francesco Mantovani | [Read More](https://medium.com/p/db8aa45f9603) |
+| Sun, 18 May 2025 22:02:53 GMT | HND Computing: Emerging Technologies (for those who are studying HND) | Talal Tanveer | [Read More](https://medium.com/p/62dd8c988bb6) |
+| Sun, 18 May 2025 21:56:32 GMT | Siber güvenlik dünyasında, açık kaynak istihbaratı (OSINT) | Ipek U | [Read More](https://medium.com/p/a7f7bddb1348) |
+| Sun, 18 May 2025 21:51:31 GMT | The 10 Most Common Cybersecurity Mistakes I Keep Seeing in Audits (and How to Fix Them) | Octavian Mihail Romanescu | [Read More](https://medium.com/p/49fc2e52f3ef) |
+| Sun, 18 May 2025 21:44:54 GMT | Cybersecurity Is Foreign Policy — The Government Just Hasn’t Noticed | Brad Tenenholtz | [Read More](https://medium.com/p/c65efb0cf286) |
+| Sun, 18 May 2025 21:44:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/b1026c0bf63c) |
+| Sun, 18 May 2025 21:44:01 GMT | Active Directory / The Backbone of User Management | Omar El Saadawy | [Read More](https://medium.com/p/7695a3df7d3f) |
+| Sun, 18 May 2025 21:43:51 GMT | Ignore Previous Instructions: CackalackyCon Recap | David Campbell | [Read More](https://medium.com/p/02403433a70e) |
+| Sun, 18 May 2025 21:38:10 GMT | We’re just trying to keep our privacy, not trying to be cool! | Senjaputrasndr | [Read More](https://medium.com/p/47fcc8f838ba) |
+| Sun, 18 May 2025 21:30:25 GMT | Terraform + Huawei Cloud: A Practical Guide to Multi-VPC and Secure ECS Configuration | Şule Parlat | [Read More](https://medium.com/p/072541125aa1) |
 | Sun, 18 May 2025 21:20:21 GMT | Hacking APIs : Nuclei for REST/API Penetration Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/0b11bbd2eed5) |
 | Sun, 18 May 2025 21:19:14 GMT | Why Your Password Security Probably Sucks | Sara Garcia | [Read More](https://medium.com/p/7a276858720c) |
 | Sun, 18 May 2025 21:17:15 GMT | AI Driven WAFs | Rye Overly | [Read More](https://medium.com/p/daf5138ccc34) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 15:01:50 GMT | What Comes After Login? Identity Drift in the Age of Agents | David Canellos | [Read More](https://medium.com/p/62e21606d4da) |
 | Sun, 18 May 2025 14:57:51 GMT | The Hurt No One Talks About | AFRITH | [Read More](https://medium.com/p/f7e7156c2e0a) |
 | Sun, 18 May 2025 14:53:28 GMT | $265 Million Vanished: Kiwi Man Busted in Massive Global Crypto Scam with FBI Ties | CoinGen | [Read More](https://medium.com/p/684c9a527619) |
-| Sun, 18 May 2025 14:49:40 GMT | How I Uncovered Hidden Secrets in Deleted GitHub Files (and Why Bug Bounty Hunters Should Care) | Ibtissam hammadi | [Read More](https://medium.com/p/d2dda89d2cee) |
-| Sun, 18 May 2025 14:49:23 GMT | 8 Security Best Practices to Fortify Your React App (That Most Devs Overlook) | Prasenjit Dasgupta | [Read More](https://medium.com/p/e6874fb18ba7) |
-| Sun, 18 May 2025 14:47:50 GMT | Why Every Government Institution Needs a Digital Forensics Team | Fadhil Pratama | [Read More](https://medium.com/p/40ad16d671d1) |
-| Sun, 18 May 2025 14:32:12 GMT | Day 39: Routing, Switching & the Invisible Highways of the Internet | Agarwaldaksh | [Read More](https://medium.com/p/eb137d6330a0) |
-| Sun, 18 May 2025 14:24:28 GMT | Building Ransomware Resilience: Why Product Strategies Must Prioritise Comprehensive Recovery Plans | Shashank | [Read More](https://medium.com/p/8d2c41173f2c) |
-| Sun, 18 May 2025 14:17:23 GMT | Cryptographic Failures | Ali Karaoglan | [Read More](https://medium.com/p/a89080352e70) |
-| Sun, 18 May 2025 14:13:41 GMT | OWASP Pentest Series (2/12) | TheZeeshanKhan | [Read More](https://medium.com/p/cbbcb32f23ab) |
-| Sun, 18 May 2025 14:03:41 GMT | Boost Your Staking Rewards with $DORK on StakingRewards | DORK | [Read More](https://medium.com/p/98bf0da24710) |
-| Sun, 18 May 2025 14:02:28 GMT | my love, these cold feet are willing to try | rein | [Read More](https://medium.com/p/e8577be59e9c) |
-| Sun, 18 May 2025 14:01:36 GMT | CiberIA — Comprehensive System for Self-Perception and Autonomous Security in AIs | Jordi Garcia Castillon | [Read More](https://medium.com/p/b557e1925eb1) |
-| Sun, 18 May 2025 13:57:50 GMT | Pasif Bilgi Toplama | Ali Karaoglan | [Read More](https://medium.com/p/fae1d4daf51d) |
-| Sun, 18 May 2025 13:56:12 GMT | DOM XSS Exploitation via postMessage in an iframe | Bash Overflow | [Read More](https://medium.com/p/d50df8feac5b) |
