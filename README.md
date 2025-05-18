@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 19:16:45 GMT | The Birthday Surprise: Why Hash Collisions Are More Common Than You Think (And Why It Matters for… | Lh Mohammed | [Read More](https://medium.com/p/85d2da7aafba) |
+| Sun, 18 May 2025 19:15:07 GMT | Whose Risk Is It Anyway? | Jenny Feneley | [Read More](https://medium.com/p/1789216d727a) |
 | Sun, 18 May 2025 19:04:31 GMT | AskTater™ Goes to NCCDC | David Campbell | [Read More](https://medium.com/p/35e040d70f1e) |
 | Sun, 18 May 2025 19:02:31 GMT | This One Secret Everyone Ignores Will Change How You Approach Love Forever | Amir Taufiq | [Read More](https://medium.com/p/f7a1d462fe46) |
 | Sun, 18 May 2025 18:53:36 GMT | Think You’re Safe? Think Again: Cybersecurity Myths | Erkan Kavas | [Read More](https://medium.com/p/69090b7e7afa) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 12:59:28 GMT | wake up to what awaits you | Khushi Kankaria | [Read More](https://medium.com/p/d637fb23c163) |
 | Sun, 18 May 2025 12:50:18 GMT | Meterpreter | Ali Karaoglan | [Read More](https://medium.com/p/a9301633a172) |
 | Sun, 18 May 2025 12:45:49 GMT | Finding Heap Overflows with AFL++ Unicorn Mode | Craig Young | [Read More](https://medium.com/p/18e85d571c0f) |
-| Sun, 18 May 2025 12:42:11 GMT | Google Like a Hacker: Secrets Lurking in Plain Search. | Inside Garuda | [Read More](https://medium.com/p/0b16fd882c61) |
-| Sun, 18 May 2025 12:30:49 GMT | How I Discovered Sensitive Data & Directory Exposure on an Indian Government Medical Institute… | Adithya Raj | [Read More](https://medium.com/p/0d2fbbc5042e) |
