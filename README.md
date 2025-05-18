@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 15:07:15 GMT | VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts | Kshahabaj | [Read More](https://medium.com/p/7f5ddf1d349c) |
+| Sun, 18 May 2025 15:02:33 GMT | 5 Easy Ways to Spot a Phishing Email — Even If You’re Not a Cybersecurity Expert ️ | heyrm | [Read More](https://medium.com/p/248c2eae604f) |
+| Sun, 18 May 2025 15:01:50 GMT | What Comes After Login? Identity Drift in the Age of Agents | David Canellos | [Read More](https://medium.com/p/62e21606d4da) |
+| Sun, 18 May 2025 14:57:51 GMT | The Hurt No One Talks About | AFRITH | [Read More](https://medium.com/p/f7e7156c2e0a) |
+| Sun, 18 May 2025 14:53:28 GMT | $265 Million Vanished: Kiwi Man Busted in Massive Global Crypto Scam with FBI Ties | CoinGen | [Read More](https://medium.com/p/684c9a527619) |
+| Sun, 18 May 2025 14:49:40 GMT | How I Uncovered Hidden Secrets in Deleted GitHub Files (and Why Bug Bounty Hunters Should Care) | Ibtissam hammadi | [Read More](https://medium.com/p/d2dda89d2cee) |
+| Sun, 18 May 2025 14:49:23 GMT | 8 Security Best Practices to Fortify Your React App (That Most Devs Overlook) | Prasenjit Dasgupta | [Read More](https://medium.com/p/e6874fb18ba7) |
+| Sun, 18 May 2025 14:47:50 GMT | Why Every Government Institution Needs a Digital Forensics Team | Fadhil Pratama | [Read More](https://medium.com/p/40ad16d671d1) |
+| Sun, 18 May 2025 14:32:12 GMT | Day 39: Routing, Switching & the Invisible Highways of the Internet | Agarwaldaksh | [Read More](https://medium.com/p/eb137d6330a0) |
 | Sun, 18 May 2025 14:24:28 GMT | Building Ransomware Resilience: Why Product Strategies Must Prioritise Comprehensive Recovery Plans | Shashank | [Read More](https://medium.com/p/8d2c41173f2c) |
 | Sun, 18 May 2025 14:17:23 GMT | Cryptographic Failures | Ali Karaoglan | [Read More](https://medium.com/p/a89080352e70) |
 | Sun, 18 May 2025 14:13:41 GMT | OWASP Pentest Series (2/12) | TheZeeshanKhan | [Read More](https://medium.com/p/cbbcb32f23ab) |
@@ -104,12 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 09:09:43 GMT | Ivanti Patches EPMM Zero-Days: A Tale of Authentication Bypasses and Remote Code Execution ️ | Ismail Tasdelen | [Read More](https://medium.com/p/72a936365697) |
 | Sun, 18 May 2025 09:08:13 GMT | Think Security, think left | Agarwalsachin | [Read More](https://medium.com/p/f3f197b0f5db) |
 | Sun, 18 May 2025 09:07:00 GMT | China-Linked APTs Exploit SAP CVE-2025–31324: A Deep Dive into the Breach of 581 Critical Systems… | Ismail Tasdelen | [Read More](https://medium.com/p/e49d72657abc) |
-| Sun, 18 May 2025 09:00:51 GMT | The Insecure Internet of Things: Securing the Smart Devices That Surround Us | Dietmar H.S - Cyber Security Enthusiast | [Read More](https://medium.com/p/2ac41f00f920) |
-| Sun, 18 May 2025 08:49:35 GMT | Your Password Manager Is a Liar | KHibberd | [Read More](https://medium.com/p/d1eead3bdaee) |
-| Sun, 18 May 2025 08:47:34 GMT | Honeypots: Catch Malware Like a Cybersecurity Ninja | Bl@ckC!pH3r | [Read More](https://medium.com/p/487b20fbe27d) |
-| Sun, 18 May 2025 08:33:12 GMT | Cyber Self-Defense: Daily Device Locking is More Powerful Than You Think | Hitesh Said | [Read More](https://medium.com/p/e2f085c7b6e6) |
-| Sun, 18 May 2025 08:33:06 GMT | Aktif Bilgi Toplama: Doğrudan Etkileşim | Taha Özcan | [Read More](https://medium.com/p/55f1122cc6a9) |
-| Sun, 18 May 2025 08:27:21 GMT | Dorking Cloud Storage Buckets | AbhirupKonwar | [Read More](https://medium.com/p/d63d81c115ea) |
-| Sun, 18 May 2025 08:26:56 GMT | Walk-through of the Kioptrix1.2 Vulnhub Machine | Sanjeev Rathore | [Read More](https://medium.com/p/25a753364369) |
-| Sun, 18 May 2025 08:25:35 GMT | Top 10 Reasons Why Tower Bolts Are Essential for Home Security and Internal Doors | Flybird Hardware Limited | [Read More](https://medium.com/p/de28d23012d2) |
-| Sun, 18 May 2025 08:20:48 GMT | Hack the way back into your linux | Amritgiri | [Read More](https://medium.com/p/76f1352d9fdf) |
