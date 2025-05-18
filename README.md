@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 08:06:58 GMT | How I Found a P1 Vulnerability That Allowed Full Account Takeover | hacker_space11 | [Read More](https://medium.com/p/e959fce8d882) |
+| Sun, 18 May 2025 08:02:31 GMT | LockBit hackeado: caída del ransomware más temido | Manuel Jesús Gallardo Martín | [Read More](https://medium.com/p/d0bc7041df67) |
+| Sun, 18 May 2025 07:56:35 GMT | XSS Part — 18 : Reflected XSS into a JavaScript string with angle brackets and double quotes… | Ahmad Sopyan | [Read More](https://medium.com/p/0aa0a1e06d1b) |
+| Sun, 18 May 2025 07:56:12 GMT | ️‍♂️Recon For New Bug bounty Hunters — Short Story | Sudarshan Patel | [Read More](https://medium.com/p/4f862a333e6d) |
+| Sun, 18 May 2025 07:54:21 GMT | ⚠️Tryhackme - Secure GitOps - Writeup | Sudarshan Patel | [Read More](https://medium.com/p/24f256f877b1) |
+| Sun, 18 May 2025 07:52:32 GMT | Tryhackme - OAuth Vulnerabilities - Writeup‍ | Sudarshan Patel | [Read More](https://medium.com/p/ad92038b01a3) |
+| Sun, 18 May 2025 07:52:28 GMT | 4 Insider Threats That Hurt Companies & How to Stop Them | Pawan Jaiswal | [Read More](https://medium.com/p/c56584db59d9) |
+| Sun, 18 May 2025 07:51:33 GMT | Here Is How I Recover My Money From SabioTrade | Sam Fraser | [Read More](https://medium.com/p/1f84b94d0305) |
+| Sun, 18 May 2025 07:51:31 GMT | Quantifying Cyber Risk: Moving Beyond Heat Maps to Dollar Values | Paritosh | [Read More](https://medium.com/p/b4ec44d92b1c) |
+| Sun, 18 May 2025 07:44:24 GMT | Redirect Roulette: How Poor OAuth Redirect Handling Gave Me Account Takeover | Iski | [Read More](https://medium.com/p/8c21ca809e3a) |
+| Sun, 18 May 2025 07:41:02 GMT | Wonderland | Ajay Chhillar | [Read More](https://medium.com/p/659642dc4725) |
 | Sun, 18 May 2025 07:30:28 GMT | What If the Digital Euro Was Hacked? A Scenario Europe Can’t Afford to Ignore | Mohamed MOUSSOUS | [Read More](https://medium.com/p/97f28257be89) |
 | Sun, 18 May 2025 07:22:03 GMT | Journey Towards Ethical | RNinjaC | [Read More](https://medium.com/p/201a8b33b880) |
 | Sun, 18 May 2025 07:20:33 GMT | Agentic AI vs. Generative AI: Understanding the Key Differences and Future Impact | Sanjay Kumar | [Read More](https://medium.com/p/aee406051416) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 May 2025 21:36:40 GMT | Hacking TP-LINK WA850RE Wi-Fi Extender: RCE Leads To Root-Level Reverse Shell | Mehmet Akif VARDAR | [Read More](https://medium.com/p/255bd0443dda) |
 | Sat, 17 May 2025 21:33:41 GMT | Stateful Connection With Spoofed Source IP — NetImpostor | pepperoni | [Read More](https://medium.com/p/ece8b950a981) |
 | Sat, 17 May 2025 21:31:58 GMT | CTF Write-up GoldenSpray (Certified Cyber Defenders) | Mohlaliragab | [Read More](https://medium.com/p/923c77f525a3) |
-| Sat, 17 May 2025 21:30:55 GMT | Dissecting an Obfuscated PowerShell Dropper: Evasion Techniques & Detection Tactics | Yasser Magdy | [Read More](https://medium.com/p/6f712fc50580) |
-| Sat, 17 May 2025 21:20:06 GMT | Earn Passive Income with Recon Solana $RECON Staking | RECON | [Read More](https://medium.com/p/bfa3ce00e87d) |
-| Sat, 17 May 2025 21:13:58 GMT | APT28 Inception Theory — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/31f5ea6a61fb) |
-| Sat, 17 May 2025 21:10:24 GMT | The Silent Risk: Why Cybersecurity Must Be a Strategic Priority in the UAE’s Financial Sector | Mohamed MOUSSOUS | [Read More](https://medium.com/p/e5b04d89b927) |
-| Sat, 17 May 2025 21:08:30 GMT | Docker Networking Explained: Bridge, Host, and Custom Networks with Real Examples | Het Patel | [Read More](https://medium.com/p/45c54fd7791e) |
-| Sat, 17 May 2025 20:59:28 GMT | CyberChef-CLI (Cyber Culinary Tools in the Terminal) | MS | [Read More](https://medium.com/p/d6af39229735) |
-| Sat, 17 May 2025 20:46:17 GMT | Starting Where I Am : My Cybersecurity Journey | Abel caleb | [Read More](https://medium.com/p/94ad3bec2756) |
-| Sat, 17 May 2025 20:39:35 GMT | Heal HTB Write-up | Pr3ach3r | [Read More](https://medium.com/p/675e2c94cbc4) |
-| Sat, 17 May 2025 20:37:10 GMT | Unlocking Maltego: Your First Steps in Open Source Intelligence | Tirth Gohil | [Read More](https://medium.com/p/414b93bebe8f) |
-| Sat, 17 May 2025 20:31:51 GMT | I turned ChatGPT Into A Hacker! | Tomer Wetzler | [Read More](https://medium.com/p/9a6ae6631e0b) |
-| Sat, 17 May 2025 20:27:57 GMT | I Turned ChatGPT Into A Hacker! | Tomer Wetzler | [Read More](https://medium.com/p/135529403d0e) |
