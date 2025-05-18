@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 12:30:49 GMT | How I Discovered Sensitive Data & Directory Exposure on an Indian Government Medical Institute… | Adithya Raj | [Read More](https://medium.com/p/0d2fbbc5042e) |
+| Sun, 18 May 2025 12:23:23 GMT | The Hacker Who Took Down North Korea | Abdur Mowlana | [Read More](https://medium.com/p/93e18cca372e) |
+| Sun, 18 May 2025 12:18:11 GMT | Why Narcissists Struggle in Bed | Elena Byron | [Read More](https://medium.com/p/deddce819794) |
+| Sun, 18 May 2025 12:16:29 GMT | Vibe Coding: Can You Feel It? | Mohammed Brückner | [Read More](https://medium.com/p/76d5d2246666) |
+| Sun, 18 May 2025 12:09:24 GMT | I Was Hacked. Then I Was Erased. | Mansoor A | [Read More](https://medium.com/p/dc99b1ab2a97) |
+| Sun, 18 May 2025 12:02:31 GMT | FortiDDoS by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/a5af5e2eee0c) |
+| Sun, 18 May 2025 12:02:31 GMT | How I Learnt to Invite Support in MEN1 | Lizzie Dunn | [Read More](https://medium.com/p/fefb64006430) |
+| Sun, 18 May 2025 12:02:31 GMT | Experts, Trust, and the Human Condition | Just Here for the Lulz | [Read More](https://medium.com/p/3a1bb3686bbb) |
+| Sun, 18 May 2025 11:47:33 GMT | Cyber security dirty secret of 2025: Data-Flow Blindness | Tal Berin | [Read More](https://medium.com/p/a5e36d03f3bd) |
+| Sun, 18 May 2025 11:38:19 GMT | GDB baby step 3 - Writeup | Marvin | [Read More](https://medium.com/p/801fc590f9a9) |
 | Sun, 18 May 2025 11:27:14 GMT | Silent Invasion: How STASI Gangstalking Fuels Germany’s Migration and Drug Crisis | SIMKRA | [Read More](https://medium.com/p/bd325043546d) |
 | Sun, 18 May 2025 11:26:24 GMT | Top PHP libraries for sanitizing user input (and why you need them) | Roman Huliak | [Read More](https://medium.com/p/3ff47f1c8db8) |
 | Sun, 18 May 2025 11:23:14 GMT | API Application Testing: Basics to Advanced — A Hacker’s Starter Guide | Anmol Shah | [Read More](https://medium.com/p/b5f25ee5fe9b) |
@@ -103,13 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 05:59:27 GMT | Hacking Archetype: A Beginner-Friendly Hack The Box Guide | BotsiCat | [Read More](https://medium.com/p/193a70692e33) |
 | Sun, 18 May 2025 05:55:43 GMT | Threat Actors: Who’s Trying to Hack You (and Why)? | Bl@ckC!pH3r | [Read More](https://medium.com/p/6104c8a8878c) |
 | Sun, 18 May 2025 05:46:30 GMT | Remote Home Lab: A Journey into Secure, Smart Networking | Varun Kumar Singh | [Read More](https://medium.com/p/79843632f9ce) |
-| Sun, 18 May 2025 05:45:44 GMT | The CIA Triad (No, Not Those Guys in Suits) | Bl@ckC!pH3r | [Read More](https://medium.com/p/627eff16bf14) |
-| Sun, 18 May 2025 05:42:56 GMT | Understanding Phishing Attacks: Building an Educational Tool for Cybersecurity Awareness | Adeeb Farhan | [Read More](https://medium.com/p/5a7ec1a0a45d) |
-| Sun, 18 May 2025 05:41:34 GMT | 3 Ways to Exploiting Deep Link | dotHatab | [Read More](https://medium.com/p/208b825aecb0) |
-| Sun, 18 May 2025 05:29:43 GMT | Behind The Smile | Niabi Travel | [Read More](https://medium.com/p/dccfe40442f7) |
-| Sun, 18 May 2025 05:17:07 GMT | Maximize Staking Rewards with LunaFi $LFI | LFI | [Read More](https://medium.com/p/b0071e8e289b) |
-| Sun, 18 May 2025 05:14:30 GMT | How to Choose the Best Information Security Auditor | SecureSlate | [Read More](https://medium.com/p/574e095be748) |
-| Sun, 18 May 2025 05:10:05 GMT | Meta BBP — Stored XSS at Meta Careers | Muntadhar M. Ahmed | [Read More](https://medium.com/p/c0bf074bddfa) |
-| Sun, 18 May 2025 05:06:15 GMT | TryHackMe Phishing Challenge: Snapped Phish-ing Line | Eidelweiiss | [Read More](https://medium.com/p/fb8c6eac60c3) |
-| Sun, 18 May 2025 05:04:44 GMT | Artificial Intelligence Continues to Put People Out of Work | Ethic Who | [Read More](https://medium.com/p/b7e482d8f2f0) |
-| Sun, 18 May 2025 05:02:33 GMT | Bandit Level 24 → Level 26: Brute-Force Logic and Shell Escapes in Action | scissor_seven | [Read More](https://medium.com/p/0ec1bef38353) |
