@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 20:35:24 GMT | The Secure One | MP | [Read More](https://medium.com/p/2623b954c030) |
+| Sun, 18 May 2025 20:32:32 GMT | Cybersecurity and economic intelligence : The art of war applied to knowledge protection | Larbi OUIYZME | [Read More](https://medium.com/p/df19581a0966) |
+| Sun, 18 May 2025 20:32:22 GMT | Thinking of turning an unused Windows machine into a Kubernetes playground? | Oladele | [Read More](https://medium.com/p/a937d59554db) |
+| Sun, 18 May 2025 20:28:50 GMT | How To Implement Column Masking in Databricks To Protect Sensitive Data | Lorena Gongang | [Read More](https://medium.com/p/9ed00c26dc6d) |
+| Sun, 18 May 2025 20:25:32 GMT | A&E: Where fear collides with Resilience. | Faith Kamau | [Read More](https://medium.com/p/cfebd668ebb9) |
+| Sun, 18 May 2025 20:20:11 GMT | Installation Process of Oracle VirtualBox in 2025 | James Rawlings | [Read More](https://medium.com/p/f111857cc433) |
+| Sun, 18 May 2025 20:15:49 GMT | TryHackMe Walkthrough — Blue | Nicholas Abundis | [Read More](https://medium.com/p/11e360b2ca25) |
+| Sun, 18 May 2025 20:13:34 GMT | You’re Missing the Point: Debunking the Obsession Over AI-Generated Code | Brad Tenenholtz | [Read More](https://medium.com/p/1f0fee3bd009) |
 | Sun, 18 May 2025 19:51:56 GMT | Machine-to-Machine Trust at Scale: The Role of New Blockchain Security Standards in Agentic AI | Valdez Ladd | [Read More](https://medium.com/p/2d23838ad022) |
 | Sun, 18 May 2025 19:51:33 GMT | Day 17 Blind SQL injection with out-of-band data exfiltration — Zero to Hero out-of-band —… | RayofHope | [Read More](https://medium.com/p/a7f770ab30a0) |
 | Sun, 18 May 2025 19:45:21 GMT | How to Simulate a Phishing Attack (Safely & Legally): A Beginner’s Guide into Ethical Hacking | Oshada Rashmika | [Read More](https://medium.com/p/1ccc3fbf1a2c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 13:36:54 GMT | Tr0ll 1 Writeup (Vulnhub Beginner Machine) | Ivan Daňo | [Read More](https://medium.com/p/877f118310f7) |
 | Sun, 18 May 2025 13:28:11 GMT | Introduction to Red Teaming | Benlehzilyosr | [Read More](https://medium.com/p/78b78e95b361) |
 | Sun, 18 May 2025 13:23:10 GMT | Buffer Overflow Demystified — Teil 1 | Luzzzy | [Read More](https://medium.com/p/682c6ff65b74) |
-| Sun, 18 May 2025 13:22:30 GMT | Selecting the Right Firewall Vendor | Ed-it Editions | [Read More](https://medium.com/p/8bef440f5cab) |
-| Sun, 18 May 2025 13:22:20 GMT | How Hackers Use Passwords You Reuse Every Day | NexS | [Read More](https://medium.com/p/e1350d0dec2e) |
-| Sun, 18 May 2025 13:13:43 GMT | NetraBharat — Part 1 | Jay Nagrecha | [Read More](https://medium.com/p/916b3a934ead) |
-| Sun, 18 May 2025 13:12:36 GMT | Gangstalking Networks Have Mutated into Transnational Threats — Irregular Warfare Is the Only… | SIMKRA | [Read More](https://medium.com/p/fcf241e9bf80) |
-| Sun, 18 May 2025 13:09:55 GMT | Java Overview — The basics you need to know(Part 3) | Hari | [Read More](https://medium.com/p/d59d7147137c) |
-| Sun, 18 May 2025 13:08:13 GMT | PRIVACY : NOTICE AND CHOICE. EXACTLY, YOU CAN CHOICE! | Senjaputrasndr | [Read More](https://medium.com/p/094f7001cf61) |
-| Sun, 18 May 2025 13:05:53 GMT | APT28’s Sneaky Email Heist: How Russia-Linked Hackers Used an MDaemon Zero-Day to Raid Government… | Ismail Tasdelen | [Read More](https://medium.com/p/9a6df598d1fe) |
-| Sun, 18 May 2025 13:05:30 GMT | Beyond The Clouds: Securing Your Cloud Storage | Eidelweiiss | [Read More](https://medium.com/p/b309a2ffb013) |
