@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 13:36:54 GMT | Tr0ll 1 Writeup (Vulnhub Beginner Machine) | Ivan Daňo | [Read More](https://medium.com/p/877f118310f7) |
+| Sun, 18 May 2025 13:28:11 GMT | Introduction to Red Teaming | Benlehzilyosr | [Read More](https://medium.com/p/78b78e95b361) |
 | Sun, 18 May 2025 13:23:10 GMT | Buffer Overflow Demystified — Teil 1 | Luzzzy | [Read More](https://medium.com/p/682c6ff65b74) |
 | Sun, 18 May 2025 13:22:30 GMT | Selecting the Right Firewall Vendor | Ed-it Editions | [Read More](https://medium.com/p/8bef440f5cab) |
 | Sun, 18 May 2025 13:22:20 GMT | How Hackers Use Passwords You Reuse Every Day | NexS | [Read More](https://medium.com/p/e1350d0dec2e) |
@@ -111,5 +113,3 @@ When history remembers the… | Namrata Jain | [Read More](https://medium.com/p/
 | Sun, 18 May 2025 07:30:28 GMT | What If the Digital Euro Was Hacked? A Scenario Europe Can’t Afford to Ignore | Mohamed MOUSSOUS | [Read More](https://medium.com/p/97f28257be89) |
 | Sun, 18 May 2025 07:22:03 GMT | Journey Towards Ethical | RNinjaC | [Read More](https://medium.com/p/201a8b33b880) |
 | Sun, 18 May 2025 07:20:33 GMT | Agentic AI vs. Generative AI: Understanding the Key Differences and Future Impact | Sanjay Kumar | [Read More](https://medium.com/p/aee406051416) |
-| Sun, 18 May 2025 07:19:58 GMT | I Found Exposed Data Online — Here’s What I Did About It | MrBug | [Read More](https://medium.com/p/4252236fc7cb) |
-| Sun, 18 May 2025 07:19:34 GMT | Notebook and Spark Job definition execution with service principal | Lackshu Balasubramaniam | [Read More](https://medium.com/p/6c990b8db136) |
