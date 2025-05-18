@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 22:40:28 GMT | Unit:19 — Data Structure and Algorithms HND( for those studying Pearson HND Computing) | Talal Tanveer | [Read More](https://medium.com/p/30cfca313bdf) |
 | Sun, 18 May 2025 22:32:20 GMT | BILLING WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/4a1acedcbf1e) |
 | Sun, 18 May 2025 22:09:19 GMT | Basit Linux komutlari sistem bilgilerini kontol etmek icin | Ipek U | [Read More](https://medium.com/p/397ec57d2990) |
 | Sun, 18 May 2025 22:07:56 GMT | Normalize Vulnerability | JoAnna Magby | [Read More](https://medium.com/p/a62d25c1fbbe) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 15:23:51 GMT | How to Set Up cert-manager in Kubernetes: Understanding DNS-01 and HTTP-01 Challenges | Engineer Palsu | [Read More](https://medium.com/p/70c7ccf3f39a) |
 | Sun, 18 May 2025 15:07:15 GMT | VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts | Kshahabaj | [Read More](https://medium.com/p/7f5ddf1d349c) |
 | Sun, 18 May 2025 15:02:33 GMT | 5 Easy Ways to Spot a Phishing Email — Even If You’re Not a Cybersecurity Expert ️ | heyrm | [Read More](https://medium.com/p/248c2eae604f) |
-| Sun, 18 May 2025 15:01:50 GMT | What Comes After Login? Identity Drift in the Age of Agents | David Canellos | [Read More](https://medium.com/p/62e21606d4da) |
