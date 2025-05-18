@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 May 2025 21:06:36 GMT | ️Web3 Security Weekly — May 12–18, 2025 | Null Return | [Read More](https://medium.com/p/f67c7ba7370c) |
+| Sun, 18 May 2025 21:04:57 GMT | ️ Web Scraping 2025: Extracting Data Without Extracting Trouble | AIAlchemist_Ab1r | [Read More](https://medium.com/p/e1886d4c11b6) |
+| Sun, 18 May 2025 21:01:37 GMT | The Great Hack: How Your Data Was Stolen and What to Do About It | TechTopia | [Read More](https://medium.com/p/5aebba94d191) |
+| Sun, 18 May 2025 20:56:49 GMT | 5G AKA Procedure | Shubham Kumar | [Read More](https://medium.com/p/4d470c9c3cca) |
+| Sun, 18 May 2025 20:53:27 GMT | CSWSH (Cross-Site WebSocket Hijacking) Nedir ? | mel4mi | [Read More](https://medium.com/p/ca30c7e6ca4a) |
+| Sun, 18 May 2025 20:41:55 GMT | Protection That Works Because It’s Been Tested | Zika Rakita | [Read More](https://medium.com/p/6b485a0cb15f) |
 | Sun, 18 May 2025 20:35:24 GMT | The Secure One | MP | [Read More](https://medium.com/p/2623b954c030) |
 | Sun, 18 May 2025 20:32:32 GMT | Cybersecurity and economic intelligence : The art of war applied to knowledge protection | Larbi OUIYZME | [Read More](https://medium.com/p/df19581a0966) |
 | Sun, 18 May 2025 20:32:22 GMT | Thinking of turning an unused Windows machine into a Kubernetes playground? | Oladele | [Read More](https://medium.com/p/a937d59554db) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 13:55:37 GMT | METASPLOIT ILE SISTEME SIZMA CTF:BLUE | Ali Karaoglan | [Read More](https://medium.com/p/c00bd417320b) |
 | Sun, 18 May 2025 13:53:52 GMT | NetraBharat — Part 2 | Jay Nagrecha | [Read More](https://medium.com/p/b9564602ded2) |
 | Sun, 18 May 2025 13:53:06 GMT | Complexity over Complexity: Zero Trust in Multi-Cloud for Non Human Identities (NHIs) | Tanzil Rehman | [Read More](https://medium.com/p/fe23a3adc944) |
-| Sun, 18 May 2025 13:52:35 GMT | With Employee AI Use Rising, So Does Risk of Business Data Theft | Nauman khan | [Read More](https://medium.com/p/b8e5f8b0e833) |
-| Sun, 18 May 2025 13:48:53 GMT | From Vulnerable Code to Vigilant AI: Teaching LLMs the Art of Secure Software Development | ArXiv In-depth Analysis | [Read More](https://medium.com/p/cf972528b344) |
-| Sun, 18 May 2025 13:48:52 GMT | One month in: what I’ve learned (so far) as a Product Designer in cybersecurity | Prema Doraisamy | [Read More](https://medium.com/p/8c54729ee452) |
-| Sun, 18 May 2025 13:36:54 GMT | Tr0ll 1 Writeup (Vulnhub Beginner Machine) | Ivan Daňo | [Read More](https://medium.com/p/877f118310f7) |
-| Sun, 18 May 2025 13:28:11 GMT | Introduction to Red Teaming | Benlehzilyosr | [Read More](https://medium.com/p/78b78e95b361) |
-| Sun, 18 May 2025 13:23:10 GMT | Buffer Overflow Demystified — Teil 1 | Luzzzy | [Read More](https://medium.com/p/682c6ff65b74) |
