@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 22:17:49 GMT | Database Penetration. | Private-hackers.com | [Read More](https://medium.com/p/dd3f10164436) |
+| Mon, 19 May 2025 21:59:26 GMT | Don’t Make the Mistakes I Made Early in My Career: Why Buy-In Matters More Than the Tech | Luispuello | [Read More](https://medium.com/p/58d452aea823) |
+| Mon, 19 May 2025 21:49:00 GMT | NVIDIA Expands Quantum and AI Ecosystem in Taiwan Through Strategic Partnerships and Supercomputing… | QuantumGenie | [Read More](https://medium.com/p/7f2572c3c71e) |
 | Mon, 19 May 2025 21:33:05 GMT | Top 10 AI Security Video — May | Tal Eliyahu | [Read More](https://medium.com/p/24ff3c6dadd9) |
 | Mon, 19 May 2025 21:30:53 GMT | Can You Spot a Malicious URL? A Machine Learning Approach to Cyber Threat Detection | ab | [Read More](https://medium.com/p/9bd1cf590f02) |
 | Mon, 19 May 2025 21:28:16 GMT | Scaling Cybersecurity: How Small Businesses Can Build Resilient and Secure IT Systems on a Budget | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/9ecc9e1c8597) |
+| Mon, 19 May 2025 21:26:48 GMT | The Things I Wish I Said But Smiled Through Instead. | Alicia Alex | [Read More](https://medium.com/p/bb34b3b9a692) |
 | Mon, 19 May 2025 21:20:06 GMT | Exploring Linux Kernel Capabilities | Progsky | [Read More](https://medium.com/p/691d1eec45e0) |
 | Mon, 19 May 2025 21:15:21 GMT | XSS (Cross-Site-Scripting) Nedir? | ozanturancakir | [Read More](https://medium.com/p/87a9bee41ae2) |
 | Mon, 19 May 2025 21:13:54 GMT | HTML Smuggling | S12 - H4CK | [Read More](https://medium.com/p/1c6b7fb51071) |
@@ -109,7 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 16:03:31 GMT | Risks Overlooked in the Rush to Implement AI | Bruno Agostinho | [Read More](https://medium.com/p/465fe8851f7c) |
 | Mon, 19 May 2025 16:03:08 GMT | Coding Secure Banking Apps with Java | Vaibhav Pasrija | [Read More](https://medium.com/p/8730cbe59e4f) |
 | Mon, 19 May 2025 15:55:23 GMT | Why DevOps Needs Security: Embracing the DevSecOps Mindset | Ruwin Ratnayake | [Read More](https://medium.com/p/f0f6cef82f21) |
-| Mon, 19 May 2025 15:54:59 GMT | Cyber Attack Hits UK Legal Aid Agency, Personal Data Stolen | Cybercrime | [Read More](https://medium.com/p/b717ccc5bef0) |
-| Mon, 19 May 2025 15:49:51 GMT | Phishing Simulation Project: Full Breakdown of My Ethical Awareness Website | Amir Taque Ahmad | [Read More](https://medium.com/p/202b54140c3a) |
-| Mon, 19 May 2025 15:36:29 GMT | What They Know About Me? | chnvy | [Read More](https://medium.com/p/82d94fb5b6b2) |
-| Mon, 19 May 2025 15:27:26 GMT | What Your Employees are Doing That Can Harm Your Company’s Reputation | Savvy Cyber Kids | [Read More](https://medium.com/p/3d06e9479f3c) |
