@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 12:44:07 GMT | How to Build and Use Sniper-Style XSS Payloads Like a Pro | Asif Ebrahim | [Read More](https://medium.com/p/abaf24ff2fd2) |
+| Mon, 19 May 2025 12:37:44 GMT | Here’s How I Recover My Money Back From Osson Trust Group | Charles  Olvera | [Read More](https://medium.com/p/d4d75aa778fa) |
+| Mon, 19 May 2025 12:32:31 GMT | Secure Telegram Messaging with n8n — Implementing ChatID Access Control for LLM Workflows | Zafer KAHRAMAN | [Read More](https://medium.com/p/dcabdd28208b) |
+| Mon, 19 May 2025 12:30:29 GMT | Osson Trust Group Reviews | Charles  Olvera | [Read More](https://medium.com/p/a6295e5ee7a4) |
+| Mon, 19 May 2025 12:29:37 GMT | ️‍♂️ SecureCorp — Forensics - CyberSpark CTF 2025 | Jhin Sami | [Read More](https://medium.com/p/2985c8968c51) |
+| Mon, 19 May 2025 12:19:32 GMT | Turning Ubuntu into a Powerful Cybersecurity Pentesting Tool | LABRATCYBER | [Read More](https://medium.com/p/3f3e7cbd1603) |
+| Mon, 19 May 2025 12:18:36 GMT | Why You Should Take Up Cybersecurity Online Training at Evision Technoserve? | Evision Technoserve | [Read More](https://medium.com/p/9c160b7f703f) |
+| Mon, 19 May 2025 12:16:52 GMT | DevOps Services Streamline Your Software Delivery with Automation and Efficiency | cyberwingITSolution | [Read More](https://medium.com/p/0dbc6a78f7fe) |
+| Mon, 19 May 2025 12:16:17 GMT | Profiler: Your Digital Detective Platform | Aayush anand | [Read More](https://medium.com/p/70c7383fab50) |
+| Mon, 19 May 2025 12:13:22 GMT | The Dark Web in 2025: What’s Being Sold and How Hackers Operate | Taiyab Lokhandwala | [Read More](https://medium.com/p/73b10a666623) |
+| Mon, 19 May 2025 12:11:39 GMT | Bludgeoned Buzzwords: Fast-Follow | Namir Sagheenanajar | [Read More](https://medium.com/p/052a0c9413c0) |
+| Mon, 19 May 2025 12:05:45 GMT | Breaking MFA: Exploring Man-in-the-Middle Phishing with Evilginx | Hariharan | [Read More](https://medium.com/p/b3b6010e7492) |
+| Mon, 19 May 2025 12:05:27 GMT | How I Bypassed a Basic Security Control in “Forgot Password” and Got a Bounty | Kailasv | [Read More](https://medium.com/p/e51ff1aaef47) |
+| Mon, 19 May 2025 12:00:49 GMT | Defence in Depth: A Layered Cybersecurity Strategy for Modern Threats | Madhavaraman | [Read More](https://medium.com/p/1fc411975e52) |
+| Mon, 19 May 2025 11:53:46 GMT | Port Knocking: A Stealthy Way to Secure Network Access | Anandhu K | [Read More](https://medium.com/p/074f45afbc83) |
+| Mon, 19 May 2025 11:41:12 GMT | HTML Injection Unleashed: Cracking the Door Open to Full Account Compromise | Hamza Ahmed Youssef | [Read More](https://medium.com/p/564b785cea9a) |
+| Mon, 19 May 2025 11:39:39 GMT | Harmonizing Security Frameworks: Practical Guide to Integrating NIST, ISO 27001, and CIS Controls… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/236d2ffb5cb1) |
+| Mon, 19 May 2025 11:39:06 GMT | Why AI Tools Are Failing at Basic Security: A Deep Dive into Langflow’s RCE Bug | Aaron | [Read More](https://medium.com/p/ab5e0609a63a) |
+| Mon, 19 May 2025 11:34:37 GMT | AI-Powered Cyberattacks: How Hackers Are Using AI & How to Defend Against Them. | Sennovate | [Read More](https://medium.com/p/595cf1e97d88) |
 | Mon, 19 May 2025 11:20:11 GMT | MCP servers and security risks — what you need to know | Ben Ratcliffe | [Read More](https://medium.com/p/c5b17ad9f609) |
 | Mon, 19 May 2025 11:20:01 GMT | How to Evaluate a Cybersecurity Candidate Beyond the Resume? | CyberTalents | [Read More](https://medium.com/p/ef256e92dae9) |
 | Mon, 19 May 2025 11:11:42 GMT | Getting Started with Fuzzing: What It Is and Why It Matters | Natarajan C K | [Read More](https://medium.com/p/5dc4a5fc88ee) |
@@ -95,22 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 07:10:24 GMT | What is Endpoint Detection and Response? | InfosecTrain | [Read More](https://medium.com/p/5da698c70c32) |
 | Mon, 19 May 2025 07:10:20 GMT | emotional intelligence is the new sixpack | Katia | [Read More](https://medium.com/p/9dce75aca308) |
 | Mon, 19 May 2025 07:03:56 GMT | SIEM EPS Explained: What It Means and Why You Should Care | Bl@ckC!pH3r | [Read More](https://medium.com/p/f5b4970cce3f) |
-| Mon, 19 May 2025 07:02:28 GMT | Understanding Kerberos and Kerberoasting. With a sheet cheat | Mohammad Suleiman | [Read More](https://medium.com/p/32d1e5ad4e6b) |
-| Mon, 19 May 2025 06:58:08 GMT | Vulnerability Analysis using Nikto(0 | Rishav anand | [Read More](https://medium.com/p/4cb6745f8932) |
-| Mon, 19 May 2025 06:51:02 GMT | How to Choose the Right ISO 27001 Implementation Partner? | Ahad me | [Read More](https://medium.com/p/68ce6010aad6) |
-| Mon, 19 May 2025 06:45:07 GMT | Top 5 Cyber ​​Security Career You can continue after completing a cyber security course in Kochi | Yadhukrishnaej | [Read More](https://medium.com/p/5092beaf608e) |
-| Mon, 19 May 2025 06:42:52 GMT | Cybernous: Empowering the Next Generation of Cybersecurity Leaders | Cybernous Infosec consulting | [Read More](https://medium.com/p/9c00f50fdd1c) |
-| Mon, 19 May 2025 06:38:36 GMT | Unleash Python for Deeper Web App Recon: Automating Sublist3r & AltDNS Like a Pro | jensbecker-dev | [Read More](https://medium.com/p/93509a0a4dc3) |
-| Mon, 19 May 2025 06:17:32 GMT | Pakistan’s Nuclear Doctrine | Hafsa Shaikh | [Read More](https://medium.com/p/4663d9e5f421) |
-| Mon, 19 May 2025 06:13:38 GMT | SQL Injection 101: How a Simple Mistake Can Open the Door to Your Database | bithowl | [Read More](https://medium.com/p/b5dda9eeb5ec) |
-| Mon, 19 May 2025 06:13:31 GMT | Optimizing Cost Management: Leveraging Resource Tagging and Mondoo Policies | Infralovers GmbH | [Read More](https://medium.com/p/875fb5df01f5) |
-| Mon, 19 May 2025 06:09:48 GMT | From Web3 Developer to Smart-Contract Auditor: My Journey and a Taxonomy of Vulnerabilities | Evgenii | [Read More](https://medium.com/p/54f43b5e95c9) |
-| Mon, 19 May 2025 06:08:14 GMT | Cybersecurity For Critical Infrastructure In The Middle East: Why A Proactive, AI-Driven Approach… | Seceon Cyber Security Company | [Read More](https://medium.com/p/4a1c95a38332) |
-| Mon, 19 May 2025 06:05:50 GMT | To be seen the way I see others | love | [Read More](https://medium.com/p/632fe1327c67) |
-| Mon, 19 May 2025 06:04:28 GMT | Cyber Insurance: Can It Really Cover the Risks You’re Facing? | Paritosh | [Read More](https://medium.com/p/94891fb6451c) |
-| Mon, 19 May 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — May 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/25d4a39499f0) |
-| Mon, 19 May 2025 05:59:10 GMT | Setup openvas on Virtualbox | zal ef | [Read More](https://medium.com/p/dadaa261d92a) |
-| Mon, 19 May 2025 05:58:59 GMT | RST TI Report Digest: 19 May 2025 | RST Cloud | [Read More](https://medium.com/p/a4abc5336180) |
-| Mon, 19 May 2025 05:56:29 GMT | Traditional Concept of Security and Non-Traditional Concept of Security: Its Significance and… | Hafsa Shaikh | [Read More](https://medium.com/p/3038a21f3b92) |
-| Mon, 19 May 2025 05:51:43 GMT | Mobile App Pentesting — Part 2: Setting Up Your Pentest Lab | Tanzeem Khatri | [Read More](https://medium.com/p/7a2dfeb2c2a0) |
-| Mon, 19 May 2025 05:45:02 GMT | Handling Image Uploads in Node.js: How I Combined Multer and Cloudinary for Efficient File Uploads | Ujjwol Shrestha | [Read More](https://medium.com/p/c6b559a95a6c) |
