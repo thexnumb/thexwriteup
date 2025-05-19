@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 05:13:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/bf1f92e76741) |
+| Mon, 19 May 2025 05:07:10 GMT | BotBuster: Bot Detection in the Browser Without CAPTCHAs | Jorge Olaf Erlandsen | [Read More](https://medium.com/p/44999757614e) |
+| Mon, 19 May 2025 05:02:01 GMT | I Broke Rate Limits and Accessed 1000+ User Records — Responsibly | Abhijeet Kumawat | [Read More](https://medium.com/p/8c45f20729ba) |
+| Mon, 19 May 2025 05:01:37 GMT | Evolving MCP: The Need for a User Layer in Distributed Agentic Systems | Jason Ross | [Read More](https://medium.com/p/5b6ab7e0c82b) |
+| Mon, 19 May 2025 04:58:08 GMT | The Complete Guide to Cybersecurity & Cybersecurity Analytics: What You Need to Know in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/e6bbcfcfbed3) |
 | Mon, 19 May 2025 04:39:07 GMT | Strange Solutions for a Serious Problem |  | [Read More](https://medium.com/p/10c7e1a6fc37) |
+| Mon, 19 May 2025 04:36:51 GMT | Building Smarter Security with AI: Our Drone-Based Image Detection & Crowd Behavior System | Rakesh patel | [Read More](https://medium.com/p/5522e454b663) |
+| Mon, 19 May 2025 04:35:15 GMT | The Linux Process Journey — snapd (Snap Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2173f15fd6ed) |
+| Mon, 19 May 2025 04:34:45 GMT | Effortless Token Refresh in React Using Axios Interceptors | Justin J Daniel | [Read More](https://medium.com/p/2132701391f4) |
 | Mon, 19 May 2025 04:32:32 GMT | The AI Agent Security Crisis: LLM Agents Can Be Hacked — Fix? | Simranjeet Singh | [Read More](https://medium.com/p/fc4f1127bd5a) |
 | Mon, 19 May 2025 04:31:21 GMT | Basic Authentication Bypassed via Simple Misconfiguration | M7moudx22 | [Read More](https://medium.com/p/6a19002aef4f) |
 | Mon, 19 May 2025 04:26:44 GMT | The Day the Firewall Died: Productivity Crashed, Security Was Punished, and Chaos Won the War | pushedbynishtha | [Read More](https://medium.com/p/af4e1313f707) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 19:04:31 GMT | AskTater™ Goes to NCCDC | David Campbell | [Read More](https://medium.com/p/35e040d70f1e) |
 | Sun, 18 May 2025 19:02:31 GMT | This One Secret Everyone Ignores Will Change How You Approach Love Forever | Amir Taufiq | [Read More](https://medium.com/p/f7a1d462fe46) |
 | Sun, 18 May 2025 18:53:36 GMT | Think You’re Safe? Think Again: Cybersecurity Myths | Erkan Kavas | [Read More](https://medium.com/p/69090b7e7afa) |
-| Sun, 18 May 2025 18:49:05 GMT | Malware Found in Procolored Printer Drivers | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/fb8e9a10b841) |
-| Sun, 18 May 2025 18:40:14 GMT | Why Do I Need a Firewall? | Jazz Cyber Shield | [Read More](https://medium.com/p/a8cf620c709d) |
-| Sun, 18 May 2025 18:36:08 GMT | The RAVP Model: Rethinking ROI in Cybersecurity Leadership | Fintont | [Read More](https://medium.com/p/84990b86fc5a) |
-| Sun, 18 May 2025 18:32:22 GMT | The Boy and the Bugs | Cogito Ergo Scribo | [Read More](https://medium.com/p/939dc6f18241) |
-| Sun, 18 May 2025 18:26:04 GMT | Why You Need a Professional Security Concierge Officer in Vancouver! | Aalan | [Read More](https://medium.com/p/e3946bcc2614) |
-| Sun, 18 May 2025 18:24:34 GMT | Cooking the Proxy — What the heck is a Proxy Server | Javier | [Read More](https://medium.com/p/e180078ba183) |
-| Sun, 18 May 2025 18:21:19 GMT | Why That ‘Free Charging Station’ at the Airport Could Cost You Everything | Ahmad Javed | [Read More](https://medium.com/p/becaca5070d9) |
-| Sun, 18 May 2025 18:19:58 GMT | Open Redirect Vulnerability in OAuth Flow on Lichess4545.com | Regan Temudo | [Read More](https://medium.com/p/0e78c2d97397) |
