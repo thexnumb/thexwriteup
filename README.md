@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 23:07:53 GMT | AI-Powered CCTV Monitoring — Smarter Surveillance, Safer Spaces | Visual Monitoring Solutions | [Read More](https://medium.com/p/1374f31c23b3) |
+| Mon, 19 May 2025 22:45:44 GMT | Ctrl+Alt+Del My Will to Live | Darkmode Studios | [Read More](https://medium.com/p/930ba64ff9b7) |
+| Mon, 19 May 2025 22:39:35 GMT | My First Incident Response: Rookie Mistakes, Trojan Panic, and One Stomach-Dropping Afternoon | Luispuello | [Read More](https://medium.com/p/f3ae2866d4dd) |
+| Mon, 19 May 2025 22:37:33 GMT | The Trouble with Feeling Everything | maple syrup fox | [Read More](https://medium.com/p/698f6d7d2f82) |
 | Mon, 19 May 2025 22:37:24 GMT | Rabbit Store - TryHackMe Medium | Error | [Read More](https://medium.com/p/f9f5069fbb50) |
 | Mon, 19 May 2025 22:28:18 GMT | What Software Invariants Are and Why They Matter | sudo | [Read More](https://medium.com/p/12afe0549b95) |
 | Mon, 19 May 2025 22:25:58 GMT | When Your Friend Thinks You’re a Real Hacker: Navigating Misconceptions and Promoting Digital… | Giovanne | [Read More](https://medium.com/p/2dc6e5329836) |
@@ -109,7 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 16:14:42 GMT | Confidential Computing: What It Is and Why It Matters in 2025 | Aaron Mathis | [Read More](https://medium.com/p/0a0567e2bcea) |
 | Mon, 19 May 2025 16:13:32 GMT | Why Harvard’s CS50x is Hands Down The Best Computer Science Course | Ali Sahad | [Read More](https://medium.com/p/7e27e78c9132) |
 | Mon, 19 May 2025 16:12:15 GMT | Zero Trust Tops Cybersecurity Investments in 2025, Why Every Smart Business Is Moving to Zero… | TechDemocracy | [Read More](https://medium.com/p/5234fc9bed8c) |
-| Mon, 19 May 2025 16:09:11 GMT | Inside the Infrastructure of the Internet: How the Web Really Works | Sharjeel AC | [Read More](https://medium.com/p/353f1ee1ea41) |
-| Mon, 19 May 2025 16:08:56 GMT | Reading DPAPI Protected Blobs | Tom O'Neill | [Read More](https://medium.com/p/1ed9b4832cf6) |
-| Mon, 19 May 2025 16:06:29 GMT | Cracking HF2019: From Scan to Root | Bhanu Chaitanya Vallipalli | [Read More](https://medium.com/p/6993f9c0541b) |
-| Mon, 19 May 2025 16:05:45 GMT | What Did Viking Kids Use to Entertain Themselves? | Savvy Cyber Kids | [Read More](https://medium.com/p/3a0e8a034822) |
