@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 14:35:56 GMT | Is It Possible To Recover My Money From Traderoom24? | Mark.A.Simpson | [Read More](https://medium.com/p/eb75428df167) |
+| Mon, 19 May 2025 14:34:47 GMT | SIEM’de Log Normalizasyonu: Her Log, Her Şey Değildir | Tarik Zeybek | [Read More](https://medium.com/p/f003d72a0a6c) |
+| Mon, 19 May 2025 14:34:11 GMT | ACUTE HEPATITIS | Itx 01 | [Read More](https://medium.com/p/47c0348ecce2) |
+| Mon, 19 May 2025 14:26:57 GMT | Critical Security Flaws in Firefox Identified: CVE-2025–4918 and CVE-2025–4919 | Cybersectoworld | [Read More](https://medium.com/p/e942efe89fe2) |
+| Mon, 19 May 2025 14:23:30 GMT | What Are the Different Types of Firewalls? | Jazz Cyber Shield | [Read More](https://medium.com/p/e33628cccd86) |
+| Mon, 19 May 2025 14:21:01 GMT | Extropy Security Bytes: w19 2025 | Extropy.IO | [Read More](https://medium.com/p/fb407370a62f) |
+| Mon, 19 May 2025 14:19:01 GMT | Information Technology Sector Trends Analysis | Veridian Zenith Tech News | [Read More](https://medium.com/p/bd5af82c9181) |
 | Mon, 19 May 2025 14:13:51 GMT | XSS Part — 19 : Stored XSS into onclick event with angle brackets and double quotes HTML-encoded… | Ahmad Sopyan | [Read More](https://medium.com/p/1ef0a242c9a8) |
+| Mon, 19 May 2025 14:12:06 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL’s Innovative Solutions | Dgfhgfdsfdgs | [Read More](https://medium.com/p/60a700e44cca) |
 | Mon, 19 May 2025 14:12:00 GMT | Fuckyouwaf | AptXXhunter | [Read More](https://medium.com/p/0e7be8fb1ef0) |
+| Mon, 19 May 2025 14:11:01 GMT | Why HR and Security Need Each Other Now More Than Ever | SecOps | [Read More](https://medium.com/p/59d67a32ef25) |
 | Mon, 19 May 2025 14:08:42 GMT | The mandela effect might be a glitch and cern could be the hacker | The 404 truth | [Read More](https://medium.com/p/691628493815) |
 | Mon, 19 May 2025 14:03:41 GMT | “Secure Transfer Required” + NFS on Azure? | Arun Prakash | [Read More](https://medium.com/p/4f865b0ac81e) |
 | Mon, 19 May 2025 14:01:42 GMT | API Authentication Methods: From Basic Auth to OAuth and JWT | StatusCode | [Read More](https://medium.com/p/e48448bc1e44) |
@@ -105,12 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 09:09:22 GMT | The Salesperson and the Firewall: Why Soft Skills Are the Hardest Layer of Cybersecurity | Rejoy Radhakrishnan | [Read More](https://medium.com/p/68d24711c131) |
 | Mon, 19 May 2025 09:09:03 GMT | $20,000 Bounty: How a Leaked Session Cookie Led to Account Takeover on HackerOne | Monika sharma | [Read More](https://medium.com/p/4a805cb892f9) |
 | Mon, 19 May 2025 09:08:29 GMT | Strengthening Web service security with Apache2: Best practices for 2025 | Roman Huliak | [Read More](https://medium.com/p/32cb57eb7fd2) |
-| Mon, 19 May 2025 09:06:05 GMT | GuideM Ethical Hacking: Vulnerability Asessment & Penetration Testing Course | Martin L | [Read More](https://medium.com/p/4258bc4b70c4) |
-| Mon, 19 May 2025 09:06:01 GMT | Introducing Profiler: The Best and Most Affordable OSINT Platform | Dheeraj Yadav | [Read More](https://medium.com/p/d265e19d7fad) |
-| Mon, 19 May 2025 08:55:09 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/e6c6d50c90f1) |
-| Mon, 19 May 2025 08:53:01 GMT | SSRF:— The Sneaky Server Trick You Need to Know | SACHIN PV | [Read More](https://medium.com/p/9a9f36c53819) |
-| Mon, 19 May 2025 08:51:09 GMT | I became a victim on the Dark Web at 13… | Padrino Oraèmorto | [Read More](https://medium.com/p/00f13d37f46c) |
-| Mon, 19 May 2025 08:47:01 GMT | Hackers just hit Binance & Kraken with the same phishing playbook that cost Coinbase users $48M in… | CoinGen | [Read More](https://medium.com/p/c7a300c6bff3) |
-| Mon, 19 May 2025 08:42:53 GMT | FUTURE ARTIFICIAL INTELLIGENCE BASED AUTONOMOUS WAR …(PART 3)… | Akhelesh Bhargava | [Read More](https://medium.com/p/89ea3ef2d44c) |
-| Mon, 19 May 2025 08:42:26 GMT | Linux ve Windows Temelleri | Muhammed Kaya | [Read More](https://medium.com/p/2a632b72e1c8) |
-| Mon, 19 May 2025 08:40:11 GMT | Why I Quit Chasing The Cyber Security Dream | Motasem Hamdan | [Read More](https://medium.com/p/c7f05672b28b) |
