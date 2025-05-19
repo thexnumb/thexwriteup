@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 18:51:12 GMT | My Secret Of rxploiting Htmli To Be Critical Severity $$$$ | Hamzadzworm | [Read More](https://medium.com/p/017da0a12985) |
+| Mon, 19 May 2025 18:42:26 GMT | Shadows Whispering in the Cosmos | Tales of Nyx | [Read More](https://medium.com/p/9cf2f3c1b2fc) |
+| Mon, 19 May 2025 18:40:35 GMT | Upgrade with a Managed IT Service Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/5cb12cc0aadb) |
+| Mon, 19 May 2025 18:39:55 GMT | Nutriscore | Accor Labsec | [Read More](https://medium.com/p/73ad1a9af455) |
+| Mon, 19 May 2025 18:39:18 GMT | Python ilə MD5 hash necə qırılır? | Yaqubnasibov | [Read More](https://medium.com/p/c841bd79148b) |
+| Mon, 19 May 2025 18:35:22 GMT | The Hacker’s OS: Why Linux Is the All-Time Favorite of Cybersec Pros and Ethical Hackers (Part… | Inside Garuda | [Read More](https://medium.com/p/ca63a46701a4) |
+| Mon, 19 May 2025 18:33:39 GMT | Metodologi Pentesting untuk Aplikasi NestJS | Bimantoro Widyadana | [Read More](https://medium.com/p/a656dc21e343) |
+| Mon, 19 May 2025 18:32:40 GMT | Why More Firms Are Choosing IT Consulting Companies in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/1112c8bf61b1) |
+| Mon, 19 May 2025 18:30:09 GMT | IT Strategy Insights from an IT Consultant in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/49636a4195cd) |
+| Mon, 19 May 2025 18:29:19 GMT | Becoming a Network Engineer | Olaoye Itunuola | [Read More](https://medium.com/p/16c071995639) |
 | Mon, 19 May 2025 18:26:55 GMT | 100 Followers Special: How I Hacked Netflix? - Bug Bounty Tour #2 (Reupload) | NnFace | [Read More](https://medium.com/p/caa59cf41af1) |
+| Mon, 19 May 2025 18:26:15 GMT | Artificial Intelligence | Teri Radichel | [Read More](https://medium.com/p/2e97415216c0) |
 | Mon, 19 May 2025 18:23:32 GMT | Hall of Fame in University of Nebraska | AbhirupKonwar | [Read More](https://medium.com/p/cd6bd8f634e2) |
 | Mon, 19 May 2025 18:18:46 GMT | How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover | Ahmed Ashraf Shora | [Read More](https://medium.com/p/d84f6cf8c169) |
 | Mon, 19 May 2025 18:13:20 GMT | When AIs Break the Script: How Prompt Tampering Reveals a Governance Vacuum | Njabulo Brighton Chitsiko | [Read More](https://medium.com/p/c4e830ffe83f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 14:03:41 GMT | “Secure Transfer Required” + NFS on Azure? | Arun Prakash | [Read More](https://medium.com/p/4f865b0ac81e) |
 | Mon, 19 May 2025 14:01:42 GMT | API Authentication Methods: From Basic Auth to OAuth and JWT | StatusCode | [Read More](https://medium.com/p/e48448bc1e44) |
 | Mon, 19 May 2025 14:00:54 GMT | Cyber Briefing: 2025.05.19 | CyberMaterial | [Read More](https://medium.com/p/d4cce73a6264) |
-| Mon, 19 May 2025 13:59:55 GMT | HPC + Security + AI + Serverless + Cloud is the Future | Richard Ogundele | [Read More](https://medium.com/p/1380a2d0eea7) |
-| Mon, 19 May 2025 13:53:06 GMT | 23andMe: From Decoding Your DNA to Declaring Chapter 11 | Simple Stack | [Read More](https://medium.com/p/46ce7a3f401f) |
-| Mon, 19 May 2025 13:52:22 GMT | How I Run My Entire Digital Life on a Raspberry Pi: The Ultimate Self-Hosting Series PI | Levente Csikor | [Read More](https://medium.com/p/3746f3c159ab) |
-| Mon, 19 May 2025 13:43:13 GMT | CTF Write-up: BRabbit (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/0be7f2bb3dc6) |
-| Mon, 19 May 2025 13:37:55 GMT | Yapay Zeka Destekli Saldırılar: Tehlikenin Yeni Yüzü | Onur Civan | [Read More](https://medium.com/p/33db6b3f4093) |
-| Mon, 19 May 2025 13:37:40 GMT | How a Tiny Bug in the Payment Flow Killed BPG for Thousands of Users | pushedbynishtha | [Read More](https://medium.com/p/6e378f480a6d) |
-| Mon, 19 May 2025 13:31:40 GMT | Don’t Have Time to Read The Pentester’s Blueprint? Here’s Everything You Need to Know | XoX | [Read More](https://medium.com/p/e5522047b276) |
-| Mon, 19 May 2025 13:20:41 GMT | Risk-Adjusted Value Protection (RAVP) | Fintont | [Read More](https://medium.com/p/5928f50bc465) |
-| Mon, 19 May 2025 13:16:15 GMT | CyberDefender: “The Crime Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/7ce25eee95f7) |
-| Mon, 19 May 2025 13:10:50 GMT | What Every CEO Needs to Know About Cybersecurity (But Most Don’t) | CyberGain | [Read More](https://medium.com/p/2efb7a7ff693) |
-| Mon, 19 May 2025 13:10:32 GMT | Lab Report#13 — Abusing ADCS via NTLM Relaying (ESC8) | Samet Koca | [Read More](https://medium.com/p/336b09a6d24d) |
