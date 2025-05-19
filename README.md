@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 09:28:45 GMT | Adorasoft: Building Digital Tools as Unique as Your Business | Adorasoft | [Read More](https://medium.com/p/f2ab179995da) |
+| Mon, 19 May 2025 09:26:53 GMT | Cyber attacck of Crypto companies CEO | Business corner media - exclusive insights | [Read More](https://medium.com/p/a47d1c469909) |
 | Mon, 19 May 2025 09:22:29 GMT | When “Special” Hurt More Than It Healed | Ayesha Gohar | [Read More](https://medium.com/p/55fba7b62346) |
 | Mon, 19 May 2025 09:16:51 GMT | Sécuriser une application web avec AWS Cognito pour l’authentification | Merdi Lukongo | [Read More](https://medium.com/p/57c397e15586) |
 | Mon, 19 May 2025 09:16:18 GMT | Future of War - AI Warfare: Navigating the Ethical and Strategic Frontier | Digital_Solution | [Read More](https://medium.com/p/7d851a8ea5f5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 03:00:21 GMT | DISCO 1 — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/49357abf41ae) |
 | Mon, 19 May 2025 03:00:11 GMT | I do not keep friends that close. | Harrisonstacey | [Read More](https://medium.com/p/2a0e1600b8ee) |
 | Mon, 19 May 2025 02:54:37 GMT | How to Prevent and Respond to Website Hacks: Tips for Keeping Your Site Safe | Adams Hong Kong | [Read More](https://medium.com/p/25c8f89a6f14) |
-| Mon, 19 May 2025 02:52:41 GMT | Risk and Compliance Management: Navigating the Complex Landscape of Business Operations | Karthikeyan Nagaraj | [Read More](https://medium.com/p/748a0b512ebc) |
-| Mon, 19 May 2025 02:50:35 GMT | LAMIS: A Cybersecurity System Developed by Indonesian Youth Prepared to Tackle Digital Threats | Achmad Aris Setiawan | [Read More](https://medium.com/p/957fb518a0ce) |
