@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 13:20:41 GMT | Risk-Adjusted Value Protection (RAVP) | Fintont | [Read More](https://medium.com/p/5928f50bc465) |
+| Mon, 19 May 2025 13:16:15 GMT | CyberDefender: “The Crime Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/7ce25eee95f7) |
+| Mon, 19 May 2025 13:10:50 GMT | What Every CEO Needs to Know About Cybersecurity (But Most Don’t) | CyberGain | [Read More](https://medium.com/p/2efb7a7ff693) |
+| Mon, 19 May 2025 13:10:32 GMT | Lab Report#13 — Abusing ADCS via NTLM Relaying (ESC8) | Samet Koca | [Read More](https://medium.com/p/336b09a6d24d) |
+| Mon, 19 May 2025 13:07:46 GMT | Top Tech Events & Hackathons for Students in 2025: A Guide for Indian Tech Enthusiasts | Aashi | [Read More](https://medium.com/p/71b231a7e673) |
+| Mon, 19 May 2025 13:06:47 GMT | How Hackers Crack Passwords (And How You Can Outsmart Them Like a Boss) | Vamsi Krishna | [Read More](https://medium.com/p/2feedf9017aa) |
+| Mon, 19 May 2025 13:06:10 GMT | Active Directory Project | Mohammed Walid | [Read More](https://medium.com/p/930bfb2cb062) |
+| Mon, 19 May 2025 13:02:58 GMT | Wireshark doo dooo do doo - Writeup | Marvin | [Read More](https://medium.com/p/694cd440d2ab) |
+| Mon, 19 May 2025 13:01:48 GMT | 2025’s Biggest Cyber Lie: “We’re Safe from Ransomware” | Peris.ai Cybersecurity | [Read More](https://medium.com/p/df68b21c2e75) |
+| Mon, 19 May 2025 13:01:41 GMT | How One Simple Router Trick Made This Home Network Safer and Faster | Mohamad MERHI | [Read More](https://medium.com/p/a894c65f6fe1) |
+| Mon, 19 May 2025 13:01:25 GMT | I will write a 24hour grc analyst, data analyst, cybersecurity, IT, and sales role | Rm | [Read More](https://medium.com/p/3eccff0be4b3) |
+| Mon, 19 May 2025 12:47:07 GMT | How I Discovered an Open Redirect | Ehtesham Ul Haq | [Read More](https://medium.com/p/3b01879b6ebc) |
 | Mon, 19 May 2025 12:44:07 GMT | How to Build and Use Sniper-Style XSS Payloads Like a Pro | Asif Ebrahim | [Read More](https://medium.com/p/abaf24ff2fd2) |
+| Mon, 19 May 2025 12:43:38 GMT | WebSocket Security Pitfalls in Action | zilbon | [Read More](https://medium.com/p/a85706d4d00e) |
 | Mon, 19 May 2025 12:37:44 GMT | Here’s How I Recover My Money Back From Osson Trust Group | Charles  Olvera | [Read More](https://medium.com/p/d4d75aa778fa) |
 | Mon, 19 May 2025 12:32:31 GMT | Secure Telegram Messaging with n8n — Implementing ChatID Access Control for LLM Workflows | Zafer KAHRAMAN | [Read More](https://medium.com/p/dcabdd28208b) |
 | Mon, 19 May 2025 12:30:29 GMT | Osson Trust Group Reviews | Charles  Olvera | [Read More](https://medium.com/p/a6295e5ee7a4) |
@@ -101,16 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 07:44:07 GMT | ️‍♂️ CyberTalents Writeup — “Catch Me If You Can” | Mahmoud Bedair | [Read More](https://medium.com/p/7374819a8948) |
 | Mon, 19 May 2025 07:40:40 GMT | Obfuscation Deep Dive: Enhancing R8 and ProGuard for Robust Android Code Protection | Kirill Rozov | [Read More](https://medium.com/p/b4541a898eb8) |
 | Mon, 19 May 2025 07:38:44 GMT | John the Ripper: Password cracking tool | Krishdograa | [Read More](https://medium.com/p/a85c2920da30) |
-| Mon, 19 May 2025 07:37:50 GMT | Complete Guide to DNS and DHCP Penetration Testing | Very Lazy Tech | [Read More](https://medium.com/p/fb4597e5d880) |
-| Mon, 19 May 2025 07:30:52 GMT | TryHackMe: SOC Fundamentals | Pavneet_Singh_ | [Read More](https://medium.com/p/fd228c9a9803) |
-| Mon, 19 May 2025 07:30:31 GMT | Cyberbiosecurity: The Overlooked Frontier in Digital Defense | A-STAR7_DOCTOR | [Read More](https://medium.com/p/529036305ba8) |
-| Mon, 19 May 2025 07:26:48 GMT | “The #1 Privacy Tool Most People Aren’t Using (But Should Be)” | Vexpoltech | [Read More](https://medium.com/p/bbd780951250) |
-| Mon, 19 May 2025 07:24:23 GMT | AI in Threat Detection and Incident Response: A Double-Edged Sword. | Sanjay K Mohindroo | [Read More](https://medium.com/p/fec8b7a9f2c2) |
-| Mon, 19 May 2025 07:24:17 GMT | To Be Loved Without Shrinking | Freya | [Read More](https://medium.com/p/a5a43d4105ed) |
-| Mon, 19 May 2025 07:19:34 GMT | What is SOC 2 Compliance? | Dhanush N | [Read More](https://medium.com/p/0187b02a714c) |
-| Mon, 19 May 2025 07:19:23 GMT | Google phases out cookie prompt in chrome and adds IP protection to incognito mode | hide.me VPN | [Read More](https://medium.com/p/280f1e5c5d05) |
-| Mon, 19 May 2025 07:17:02 GMT | Google’s AI-driven ad safety measures lead to record enforcement actions in 2024. | hide.me VPN | [Read More](https://medium.com/p/ea5231d87189) |
-| Mon, 19 May 2025 07:10:31 GMT | 5 BCDR Essentials to Outsmart Ransomware in 2025 ️ | Ismail Tasdelen | [Read More](https://medium.com/p/dcea5077203e) |
-| Mon, 19 May 2025 07:10:24 GMT | What is Endpoint Detection and Response? | InfosecTrain | [Read More](https://medium.com/p/5da698c70c32) |
-| Mon, 19 May 2025 07:10:20 GMT | emotional intelligence is the new sixpack | Katia | [Read More](https://medium.com/p/9dce75aca308) |
-| Mon, 19 May 2025 07:03:56 GMT | SIEM EPS Explained: What It Means and Why You Should Care | Bl@ckC!pH3r | [Read More](https://medium.com/p/f5b4970cce3f) |
