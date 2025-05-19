@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 08:25:28 GMT | ️ Public Document, But Not Meant for You: Info Leak at blm.gov | FufuFafa | [Read More](https://medium.com/p/2a482417be3c) |
+| Mon, 19 May 2025 08:22:41 GMT | Hiranandani Group | VSOCBOX.COM | [Read More](https://medium.com/p/f5f1b7ef72fb) |
+| Mon, 19 May 2025 08:10:30 GMT | Top Mobile Security Threats To Watch For In Late 2025 | Shoaib Ahmed | [Read More](https://medium.com/p/3d16a737f9ea) |
+| Mon, 19 May 2025 08:03:30 GMT | Did You Know… Aphids Are Born Pregnant! | Prajakta | [Read More](https://medium.com/p/e6c69205e4d6) |
+| Mon, 19 May 2025 08:02:38 GMT | Understanding OWASP SQL Injection in PHP (and how to prevent it) | Roman Huliak | [Read More](https://medium.com/p/9b933199977f) |
+| Mon, 19 May 2025 08:02:34 GMT | Don’t Let Your AI Applications Get Hacked: From the OWASP Top 10 for LLMs 2025 | Shakthi Warnakualsuriya | [Read More](https://medium.com/p/36df00d4578c) |
+| Mon, 19 May 2025 07:59:44 GMT | Geopolitical Cyber Threat  Intelligence — Live Workshop | Robindimyan | [Read More](https://medium.com/p/909ea5a14530) |
+| Mon, 19 May 2025 07:56:28 GMT | Teids Login: A Simple Guide to Secure Access | ameliabreack | [Read More](https://medium.com/p/5759d87cb503) |
+| Mon, 19 May 2025 07:52:50 GMT | A Practical Playbook for Testing GenAI-Enabled Applications | trendig | [Read More](https://medium.com/p/5628d71d73bc) |
+| Mon, 19 May 2025 07:44:07 GMT | ️‍♂️ CyberTalents Writeup — “Catch Me If You Can” | Mahmoud Bedair | [Read More](https://medium.com/p/7374819a8948) |
+| Mon, 19 May 2025 07:40:40 GMT | Obfuscation Deep Dive: Enhancing R8 and ProGuard for Robust Android Code Protection | Kirill Rozov | [Read More](https://medium.com/p/b4541a898eb8) |
+| Mon, 19 May 2025 07:38:44 GMT | John the Ripper: Password cracking tool | Krishdograa | [Read More](https://medium.com/p/a85c2920da30) |
+| Mon, 19 May 2025 07:37:50 GMT | Complete Guide to DNS and DHCP Penetration Testing | Very Lazy Tech | [Read More](https://medium.com/p/fb4597e5d880) |
 | Mon, 19 May 2025 07:30:52 GMT | TryHackMe: SOC Fundamentals | Pavneet_Singh_ | [Read More](https://medium.com/p/fd228c9a9803) |
+| Mon, 19 May 2025 07:30:31 GMT | Cyberbiosecurity: The Overlooked Frontier in Digital Defense | A-STAR7_DOCTOR | [Read More](https://medium.com/p/529036305ba8) |
 | Mon, 19 May 2025 07:26:48 GMT | “The #1 Privacy Tool Most People Aren’t Using (But Should Be)” | Vexpoltech | [Read More](https://medium.com/p/bbd780951250) |
 | Mon, 19 May 2025 07:24:23 GMT | AI in Threat Detection and Incident Response: A Double-Edged Sword. | Sanjay K Mohindroo | [Read More](https://medium.com/p/fec8b7a9f2c2) |
 | Mon, 19 May 2025 07:24:17 GMT | To Be Loved Without Shrinking | Freya | [Read More](https://medium.com/p/a5a43d4105ed) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 00:40:38 GMT | Building a Secure and Scalable WordPress Infrastructure on AWS (With Terraform) Part One… | Elliott | [Read More](https://medium.com/p/5b442a737af5) |
 | Mon, 19 May 2025 00:26:47 GMT | The Agentic AI Revolution in Cybersecurity: What IT Leaders Need to Know | Ian Loe | [Read More](https://medium.com/p/91de4cbb26db) |
 | Mon, 19 May 2025 00:09:15 GMT | What Hacking Taught Me About Building Ethical Startups | Ronit Yadav | [Read More](https://medium.com/p/b8683c5637af) |
-| Mon, 19 May 2025 00:02:29 GMT | Domina los Google Dorks: Técnicas de Búsqueda para Ciberseguridad y OSINT | JPablo13 | [Read More](https://medium.com/p/3206fe84f956) |
-| Sun, 18 May 2025 23:57:12 GMT | Sharing Account: Dilema Antara Kenyamanan dan Keamanan | Sugeng Romadhoni | [Read More](https://medium.com/p/98ae07dedf64) |
-| Sun, 18 May 2025 23:56:36 GMT | Active AI is the true AI | Simon Lee | [Read More](https://medium.com/p/492c36833a55) |
-| Sun, 18 May 2025 23:22:29 GMT | windows crashatico e rompimento di maremme | octospacc | [Read More](https://medium.com/p/eba80d3aeb65) |
-| Sun, 18 May 2025 23:14:41 GMT | “Who am I?” | Fran | [Read More](https://medium.com/p/fc183a254171) |
-| Sun, 18 May 2025 23:12:01 GMT | I Wasn’t Burnt Out. I Was Just Done Pretending. | AllWays Written | [Read More](https://medium.com/p/4578c91e7527) |
-| Sun, 18 May 2025 22:40:28 GMT | Unit:19 — Data Structure and Algorithms HND( for those studying Pearson HND Computing) | Talal Tanveer | [Read More](https://medium.com/p/30cfca313bdf) |
-| Sun, 18 May 2025 22:32:20 GMT | BILLING WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/4a1acedcbf1e) |
-| Sun, 18 May 2025 22:09:19 GMT | Basit Linux komutlari sistem bilgilerini kontol etmek icin | Ipek U | [Read More](https://medium.com/p/397ec57d2990) |
-| Sun, 18 May 2025 22:07:56 GMT | Normalize Vulnerability | JoAnna Magby | [Read More](https://medium.com/p/a62d25c1fbbe) |
-| Sun, 18 May 2025 22:06:51 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | CyberSicko | [Read More](https://medium.com/p/1ddc06b7ac08) |
-| Sun, 18 May 2025 22:04:59 GMT | How to replace a Tile Slim battery | Francesco Mantovani | [Read More](https://medium.com/p/db8aa45f9603) |
-| Sun, 18 May 2025 22:02:53 GMT | HND Computing: Emerging Technologies (for those who are studying HND) | Talal Tanveer | [Read More](https://medium.com/p/62dd8c988bb6) |
-| Sun, 18 May 2025 21:56:32 GMT | Siber güvenlik dünyasında, açık kaynak istihbaratı (OSINT) | Ipek U | [Read More](https://medium.com/p/a7f7bddb1348) |
