@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 14:13:51 GMT | XSS Part — 19 : Stored XSS into onclick event with angle brackets and double quotes HTML-encoded… | Ahmad Sopyan | [Read More](https://medium.com/p/1ef0a242c9a8) |
+| Mon, 19 May 2025 14:12:00 GMT | Fuckyouwaf | AptXXhunter | [Read More](https://medium.com/p/0e7be8fb1ef0) |
+| Mon, 19 May 2025 14:08:42 GMT | The mandela effect might be a glitch and cern could be the hacker | The 404 truth | [Read More](https://medium.com/p/691628493815) |
+| Mon, 19 May 2025 14:03:41 GMT | “Secure Transfer Required” + NFS on Azure? | Arun Prakash | [Read More](https://medium.com/p/4f865b0ac81e) |
+| Mon, 19 May 2025 14:01:42 GMT | API Authentication Methods: From Basic Auth to OAuth and JWT | StatusCode | [Read More](https://medium.com/p/e48448bc1e44) |
+| Mon, 19 May 2025 14:00:54 GMT | Cyber Briefing: 2025.05.19 | CyberMaterial | [Read More](https://medium.com/p/d4cce73a6264) |
+| Mon, 19 May 2025 13:59:55 GMT | HPC + Security + AI + Serverless + Cloud is the Future | Richard Ogundele | [Read More](https://medium.com/p/1380a2d0eea7) |
+| Mon, 19 May 2025 13:53:06 GMT | 23andMe: From Decoding Your DNA to Declaring Chapter 11 | Simple Stack | [Read More](https://medium.com/p/46ce7a3f401f) |
+| Mon, 19 May 2025 13:52:22 GMT | How I Run My Entire Digital Life on a Raspberry Pi: The Ultimate Self-Hosting Series PI | Levente Csikor | [Read More](https://medium.com/p/3746f3c159ab) |
+| Mon, 19 May 2025 13:43:13 GMT | CTF Write-up: BRabbit (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/0be7f2bb3dc6) |
+| Mon, 19 May 2025 13:37:55 GMT | Yapay Zeka Destekli Saldırılar: Tehlikenin Yeni Yüzü | Onur Civan | [Read More](https://medium.com/p/33db6b3f4093) |
+| Mon, 19 May 2025 13:37:40 GMT | How a Tiny Bug in the Payment Flow Killed BPG for Thousands of Users | pushedbynishtha | [Read More](https://medium.com/p/6e378f480a6d) |
+| Mon, 19 May 2025 13:31:40 GMT | Don’t Have Time to Read The Pentester’s Blueprint? Here’s Everything You Need to Know | XoX | [Read More](https://medium.com/p/e5522047b276) |
 | Mon, 19 May 2025 13:20:41 GMT | Risk-Adjusted Value Protection (RAVP) | Fintont | [Read More](https://medium.com/p/5928f50bc465) |
 | Mon, 19 May 2025 13:16:15 GMT | CyberDefender: “The Crime Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/7ce25eee95f7) |
 | Mon, 19 May 2025 13:10:50 GMT | What Every CEO Needs to Know About Cybersecurity (But Most Don’t) | CyberGain | [Read More](https://medium.com/p/2efb7a7ff693) |
@@ -101,16 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 08:42:53 GMT | FUTURE ARTIFICIAL INTELLIGENCE BASED AUTONOMOUS WAR …(PART 3)… | Akhelesh Bhargava | [Read More](https://medium.com/p/89ea3ef2d44c) |
 | Mon, 19 May 2025 08:42:26 GMT | Linux ve Windows Temelleri | Muhammed Kaya | [Read More](https://medium.com/p/2a632b72e1c8) |
 | Mon, 19 May 2025 08:40:11 GMT | Why I Quit Chasing The Cyber Security Dream | Motasem Hamdan | [Read More](https://medium.com/p/c7f05672b28b) |
-| Mon, 19 May 2025 08:36:29 GMT | AI Got Regulated: ISO 42001 — Future of AI Compliance & Risk Management | CFE CERTIFICATION | [Read More](https://medium.com/p/89e31b813428) |
-| Mon, 19 May 2025 08:25:28 GMT | ️ Public Document, But Not Meant for You: Info Leak at blm.gov | FufuFafa | [Read More](https://medium.com/p/2a482417be3c) |
-| Mon, 19 May 2025 08:22:41 GMT | Hiranandani Group | VSOCBOX.COM | [Read More](https://medium.com/p/f5f1b7ef72fb) |
-| Mon, 19 May 2025 08:10:30 GMT | Top Mobile Security Threats To Watch For In Late 2025 | Shoaib Ahmed | [Read More](https://medium.com/p/3d16a737f9ea) |
-| Mon, 19 May 2025 08:03:30 GMT | Did You Know… Aphids Are Born Pregnant! | Prajakta | [Read More](https://medium.com/p/e6c69205e4d6) |
-| Mon, 19 May 2025 08:02:38 GMT | Understanding OWASP SQL Injection in PHP (and how to prevent it) | Roman Huliak | [Read More](https://medium.com/p/9b933199977f) |
-| Mon, 19 May 2025 08:02:34 GMT | Don’t Let Your AI Applications Get Hacked: From the OWASP Top 10 for LLMs 2025 | Shakthi Warnakualsuriya | [Read More](https://medium.com/p/36df00d4578c) |
-| Mon, 19 May 2025 07:59:44 GMT | Geopolitical Cyber Threat  Intelligence — Live Workshop | Robindimyan | [Read More](https://medium.com/p/909ea5a14530) |
-| Mon, 19 May 2025 07:56:28 GMT | Teids Login: A Simple Guide to Secure Access | ameliabreack | [Read More](https://medium.com/p/5759d87cb503) |
-| Mon, 19 May 2025 07:52:50 GMT | A Practical Playbook for Testing GenAI-Enabled Applications | trendig | [Read More](https://medium.com/p/5628d71d73bc) |
-| Mon, 19 May 2025 07:44:07 GMT | ️‍♂️ CyberTalents Writeup — “Catch Me If You Can” | Mahmoud Bedair | [Read More](https://medium.com/p/7374819a8948) |
-| Mon, 19 May 2025 07:40:40 GMT | Obfuscation Deep Dive: Enhancing R8 and ProGuard for Robust Android Code Protection | Kirill Rozov | [Read More](https://medium.com/p/b4541a898eb8) |
-| Mon, 19 May 2025 07:38:44 GMT | John the Ripper: Password cracking tool | Krishdograa | [Read More](https://medium.com/p/a85c2920da30) |
