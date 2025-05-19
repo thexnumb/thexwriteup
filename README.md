@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 17:32:59 GMT | How Canaries Stop Prompt Injection Attacks | Tomer Wetzler | [Read More](https://medium.com/p/fdf1a6b00c27) |
+| Mon, 19 May 2025 17:31:44 GMT | ️ SpiderFoot: The OSINT Powerhouse Every Ethical Hacker Should Master | Chintala Taraka Ram | [Read More](https://medium.com/p/5ef417ffb5bc) |
+| Mon, 19 May 2025 17:27:07 GMT | NotPetya: The Cyberweapon That Shook the World | Ahmad Javed | [Read More](https://medium.com/p/4cdf41ff0bf3) |
+| Mon, 19 May 2025 17:23:25 GMT | I Tried to Use AI to Write A Single Script | Teri Radichel | [Read More](https://medium.com/p/138ca4a6be52) |
 | Mon, 19 May 2025 17:13:53 GMT | Popular Spy Apps Cocospy, Spyic, and Spyzie Shut Down After Major Data Breach | Cybercrime | [Read More](https://medium.com/p/4b3fbdc0245b) |
 | Mon, 19 May 2025 17:12:51 GMT | Rate limit + Improper Deletion Orphaned data vulnerability  gave me $$ | praveenarsh0xx0 | [Read More](https://medium.com/p/91c0e3fc2b90) |
+| Mon, 19 May 2025 17:12:35 GMT | Creating a Safe Space: The Leader’s Role in Fostering Open Communication | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/70f89b3d90c3) |
 | Mon, 19 May 2025 17:11:51 GMT | Mobile Application Security: Why Your Favorite App Might Be a Hacker’s Backdoor | SafeAeon Inc. | [Read More](https://medium.com/p/7b874422d343) |
 | Mon, 19 May 2025 17:10:23 GMT | What Is Cyberbullying? | Savvy Cyber Kids | [Read More](https://medium.com/p/be31a3d0dab4) |
 | Mon, 19 May 2025 17:10:01 GMT | Manifesto: Why Identity is the New Center of Gravity in Enterprise Security | David Canellos | [Read More](https://medium.com/p/3d921d38faac) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 12:29:37 GMT | ️‍♂️ SecureCorp — Forensics - CyberSpark CTF 2025 | Jhin Sami | [Read More](https://medium.com/p/2985c8968c51) |
 | Mon, 19 May 2025 12:19:32 GMT | Turning Ubuntu into a Powerful Cybersecurity Pentesting Tool | LABRATCYBER | [Read More](https://medium.com/p/3f3e7cbd1603) |
 | Mon, 19 May 2025 12:18:36 GMT | Why You Should Take Up Cybersecurity Online Training at Evision Technoserve? | Evision Technoserve | [Read More](https://medium.com/p/9c160b7f703f) |
-| Mon, 19 May 2025 12:16:52 GMT | DevOps Services Streamline Your Software Delivery with Automation and Efficiency | cyberwingITSolution | [Read More](https://medium.com/p/0dbc6a78f7fe) |
-| Mon, 19 May 2025 12:16:17 GMT | Profiler: Your Digital Detective Platform | Aayush anand | [Read More](https://medium.com/p/70c7383fab50) |
-| Mon, 19 May 2025 12:13:22 GMT | The Dark Web in 2025: What’s Being Sold and How Hackers Operate | Taiyab Lokhandwala | [Read More](https://medium.com/p/73b10a666623) |
-| Mon, 19 May 2025 12:11:39 GMT | Bludgeoned Buzzwords: Fast-Follow | Namir Sagheenanajar | [Read More](https://medium.com/p/052a0c9413c0) |
-| Mon, 19 May 2025 12:05:45 GMT | Breaking MFA: Exploring Man-in-the-Middle Phishing with Evilginx | Hariharan | [Read More](https://medium.com/p/b3b6010e7492) |
