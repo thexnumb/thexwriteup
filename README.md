@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 20:13:22 GMT | From Breaking Systems to Building Them: Why I Created InLuna | Ronit Yadav | [Read More](https://medium.com/p/429ea213f5f4) |
+| Mon, 19 May 2025 19:58:58 GMT | Do Red Rooms Really Exist? Unpacking the Dark‑Web Rumor | Your's Nightmare | [Read More](https://medium.com/p/562c42def85b) |
+| Mon, 19 May 2025 19:57:45 GMT | How to Start a Career in Cybersecurity (Even If You're a Complete Beginner) | Bot Hacks | [Read More](https://medium.com/p/396062b7270e) |
+| Mon, 19 May 2025 19:53:13 GMT | Vulnerability forms deep meaningful relationships. | Ifrah | [Read More](https://medium.com/p/560c5bc1c816) |
+| Mon, 19 May 2025 19:49:23 GMT | Reverse Shell: Estudo prático para Entusiastas e Profissionais de Segurança | Sérgio Corrêa | [Read More](https://medium.com/p/cd83585f103d) |
+| Mon, 19 May 2025 19:47:11 GMT | Another security patch. Another missed opportunity. | Tide Foundation | [Read More](https://medium.com/p/ba381a4e434c) |
+| Mon, 19 May 2025 19:38:00 GMT | ️ Writing your first Cartography intel module | jychp | [Read More](https://medium.com/p/1b017c5425a6) |
 | Mon, 19 May 2025 19:32:39 GMT | Weiser Memorial Hospital Data Breach: 34,249 Patients Affected by Unauthorized Network Access | LegalNewsbyDave | [Read More](https://medium.com/p/f4158f8d09c2) |
 | Mon, 19 May 2025 19:30:18 GMT | The Diverse Threat of Malware | Abhay Parashar | [Read More](https://medium.com/p/f02dcea5ad8d) |
 | Mon, 19 May 2025 19:22:23 GMT | LetsDefend 
@@ -106,10 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 14:51:53 GMT | The Internet Is Western (And What the Internet Can Learn from Westerns) | Brad Tenenholtz | [Read More](https://medium.com/p/46c6fc7f06d8) |
 | Mon, 19 May 2025 14:45:21 GMT | Beware of this dangerous bug I found in Golang (filtering characters) | Wacław The Developer | [Read More](https://medium.com/p/68a9a871953e) |
 | Mon, 19 May 2025 14:42:57 GMT | Strengthen Your Security Posture with the OpenCanary Honeypot | Peta Pavan | [Read More](https://medium.com/p/d8f2a2146964) |
-| Mon, 19 May 2025 14:35:56 GMT | Is It Possible To Recover My Money From Traderoom24? | Mark.A.Simpson | [Read More](https://medium.com/p/eb75428df167) |
-| Mon, 19 May 2025 14:34:47 GMT | SIEM’de Log Normalizasyonu: Her Log, Her Şey Değildir | Tarik Zeybek | [Read More](https://medium.com/p/f003d72a0a6c) |
-| Mon, 19 May 2025 14:34:11 GMT | ACUTE HEPATITIS | Itx 01 | [Read More](https://medium.com/p/47c0348ecce2) |
-| Mon, 19 May 2025 14:26:57 GMT | Critical Security Flaws in Firefox Identified: CVE-2025–4918 and CVE-2025–4919 | Cybersectoworld | [Read More](https://medium.com/p/e942efe89fe2) |
-| Mon, 19 May 2025 14:23:30 GMT | What Are the Different Types of Firewalls? | Jazz Cyber Shield | [Read More](https://medium.com/p/e33628cccd86) |
-| Mon, 19 May 2025 14:21:01 GMT | Extropy Security Bytes: w19 2025 | Extropy.IO | [Read More](https://medium.com/p/fb407370a62f) |
-| Mon, 19 May 2025 14:19:01 GMT | Information Technology Sector Trends Analysis | Veridian Zenith Tech News | [Read More](https://medium.com/p/bd5af82c9181) |
