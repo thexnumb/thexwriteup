@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 19:32:39 GMT | Weiser Memorial Hospital Data Breach: 34,249 Patients Affected by Unauthorized Network Access | LegalNewsbyDave | [Read More](https://medium.com/p/f4158f8d09c2) |
+| Mon, 19 May 2025 19:30:18 GMT | The Diverse Threat of Malware | Abhay Parashar | [Read More](https://medium.com/p/f02dcea5ad8d) |
+| Mon, 19 May 2025 19:22:23 GMT | LetsDefend 
+SOC252 — Unauthorized user created a new user | Dh | [Read More](https://medium.com/p/e05fd82634c7) |
 | Mon, 19 May 2025 19:14:58 GMT | Human Error | Kaviarasan Asokan | [Read More](https://medium.com/p/7e91a29da335) |
+| Mon, 19 May 2025 19:10:59 GMT | Chapter 2 — The OSI Model Explained Like It’s a Road Trip (With a Browser and a Dream) — (Part 2) | Malik Ahmad | [Read More](https://medium.com/p/89cadc008828) |
 | Mon, 19 May 2025 19:10:39 GMT | Transformative Guide: Creating an Efficient Virtual Assistant Workflow for Better Business Results | riyaaz baig | [Read More](https://medium.com/p/066ae85f0783) |
 | Mon, 19 May 2025 18:54:22 GMT | Build Your Own AI SOC — Part 7 Build a Security Knowledge Assistant With RAG + GPT | Corey Jones | [Read More](https://medium.com/p/833f5e8eadaf) |
 | Mon, 19 May 2025 18:51:12 GMT | My Secret Of rxploiting Htmli To Be Critical Severity $$$$ | Hamzadzworm | [Read More](https://medium.com/p/017da0a12985) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 14:23:30 GMT | What Are the Different Types of Firewalls? | Jazz Cyber Shield | [Read More](https://medium.com/p/e33628cccd86) |
 | Mon, 19 May 2025 14:21:01 GMT | Extropy Security Bytes: w19 2025 | Extropy.IO | [Read More](https://medium.com/p/fb407370a62f) |
 | Mon, 19 May 2025 14:19:01 GMT | Information Technology Sector Trends Analysis | Veridian Zenith Tech News | [Read More](https://medium.com/p/bd5af82c9181) |
-| Mon, 19 May 2025 14:13:51 GMT | XSS Part — 19 : Stored XSS into onclick event with angle brackets and double quotes HTML-encoded… | Ahmad Sopyan | [Read More](https://medium.com/p/1ef0a242c9a8) |
-| Mon, 19 May 2025 14:12:06 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL’s Innovative Solutions | Dgfhgfdsfdgs | [Read More](https://medium.com/p/60a700e44cca) |
-| Mon, 19 May 2025 14:12:00 GMT | Fuckyouwaf | AptXXhunter | [Read More](https://medium.com/p/0e7be8fb1ef0) |
-| Mon, 19 May 2025 14:11:01 GMT | Why HR and Security Need Each Other Now More Than Ever | SecOps | [Read More](https://medium.com/p/59d67a32ef25) |
