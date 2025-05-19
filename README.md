@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 15:14:48 GMT | 2FA Simple Bypass Lab Report | Meni Tasa | [Read More](https://medium.com/p/4264440bbc82) |
+| Mon, 19 May 2025 15:12:39 GMT | Top 200 Sweden local citations for swedish local seo | Tiyana tabassum | [Read More](https://medium.com/p/6f8b356b2f0a) |
+| Mon, 19 May 2025 15:10:29 GMT | The Human Cost of Automation: Jobs Lost vs. Lives Improved | Pavan | [Read More](https://medium.com/p/7a448f8f0b40) |
+| Mon, 19 May 2025 15:09:37 GMT | Day 40: Navigating the Network Address Maze: Understanding NAT and PAT | Agarwaldaksh | [Read More](https://medium.com/p/82a3cb5c93b3) |
+| Mon, 19 May 2025 15:07:55 GMT | What is a Checksum? A Complete Guide for Developers | Minno Sahu | [Read More](https://medium.com/p/e33145de9bb6) |
+| Mon, 19 May 2025 14:58:26 GMT | GRC Is Not a Cost Center, It’s a Growth Engine | Brittney Ginther | [Read More](https://medium.com/p/eceac00799de) |
+| Mon, 19 May 2025 14:58:08 GMT | How a Fake Calendar Invite Can Breach an Entire Org (Yes, Seriously) | Bl@ckC!pH3r | [Read More](https://medium.com/p/b96cf492d1cc) |
+| Mon, 19 May 2025 14:56:10 GMT | Deep Recon Leads to Unauthenticated Upload & IDOR — Rewarded with Bounty $$$ | 0xAsad-Eldin | [Read More](https://medium.com/p/bfa58a03397f) |
+| Mon, 19 May 2025 14:55:09 GMT | Detecting Web Attacks (Command Injection) | Fatimahasan | [Read More](https://medium.com/p/62c1fe3c9382) |
+| Mon, 19 May 2025 14:54:53 GMT | Inside the Fortresses: Cybersecurity Practices Used by Top IT Companies | Hannah Valescu | [Read More](https://medium.com/p/266cc04b0be6) |
+| Mon, 19 May 2025 14:53:15 GMT | Some experiments with the Policy Puppetry Prompt Injection Technique | Federico Ricciuti | [Read More](https://medium.com/p/fd5625aa73f9) |
+| Mon, 19 May 2025 14:51:53 GMT | The Internet Is Western (And What the Internet Can Learn from Westerns) | Brad Tenenholtz | [Read More](https://medium.com/p/46c6fc7f06d8) |
+| Mon, 19 May 2025 14:45:21 GMT | Beware of this dangerous bug I found in Golang (filtering characters) | Wacław The Developer | [Read More](https://medium.com/p/68a9a871953e) |
+| Mon, 19 May 2025 14:42:57 GMT | Strengthen Your Security Posture with the OpenCanary Honeypot | Peta Pavan | [Read More](https://medium.com/p/d8f2a2146964) |
 | Mon, 19 May 2025 14:35:56 GMT | Is It Possible To Recover My Money From Traderoom24? | Mark.A.Simpson | [Read More](https://medium.com/p/eb75428df167) |
 | Mon, 19 May 2025 14:34:47 GMT | SIEM’de Log Normalizasyonu: Her Log, Her Şey Değildir | Tarik Zeybek | [Read More](https://medium.com/p/f003d72a0a6c) |
 | Mon, 19 May 2025 14:34:11 GMT | ACUTE HEPATITIS | Itx 01 | [Read More](https://medium.com/p/47c0348ecce2) |
@@ -100,17 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 10:01:04 GMT | Beyond Passwords: Fortifying Your Defenses with Next-Gen Multi-Factor Authentication (MFA) | Omex Oleksandr | [Read More](https://medium.com/p/d0fe4c903f8a) |
 | Mon, 19 May 2025 09:57:10 GMT | THE FIVE V’s OF PERSONAL DATA PROTECTION | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/8e53c8dff3f3) |
 | Mon, 19 May 2025 09:51:30 GMT | My Beginner Journey Into Reconnaissance Tools in Cybersecurity | Thamanna A | [Read More](https://medium.com/p/90e6a4bf63fd) |
-| Mon, 19 May 2025 09:49:29 GMT | will i ever make my lemonade sweeter? | letters from j | [Read More](https://medium.com/p/3ad9de015eb5) |
-| Mon, 19 May 2025 09:39:57 GMT | Cracked Passwords? These Books Fix That | Ahmad Javed | [Read More](https://medium.com/p/df94ef85f6ca) |
-| Mon, 19 May 2025 09:28:45 GMT | Adorasoft: Building Digital Tools as Unique as Your Business | Adorasoft | [Read More](https://medium.com/p/f2ab179995da) |
-| Mon, 19 May 2025 09:26:53 GMT | Cyber attacck of Crypto companies CEO | Business corner media - exclusive insights | [Read More](https://medium.com/p/a47d1c469909) |
-| Mon, 19 May 2025 09:22:29 GMT | When “Special” Hurt More Than It Healed | Ayesha Gohar | [Read More](https://medium.com/p/55fba7b62346) |
-| Mon, 19 May 2025 09:16:51 GMT | Sécuriser une application web avec AWS Cognito pour l’authentification | Merdi Lukongo | [Read More](https://medium.com/p/57c397e15586) |
-| Mon, 19 May 2025 09:16:18 GMT | Future of War - AI Warfare: Navigating the Ethical and Strategic Frontier | Digital_Solution | [Read More](https://medium.com/p/7d851a8ea5f5) |
-| Mon, 19 May 2025 09:16:11 GMT | Template Trouble: How I Exploited a Logic Bug in a Templating Engine for RCE | Iski | [Read More](https://medium.com/p/0f691b9f7102) |
-| Mon, 19 May 2025 09:15:29 GMT | EUVD : l’Europe lance sa base de vulnérabilités pour renforcer sa cybersécurité | Marc Barbezat | [Read More](https://medium.com/p/905a4eac4f99) |
-| Mon, 19 May 2025 09:13:08 GMT | How Microsoft 365 Copilot Processes Prompts Securely and Intelligently | Lisandro de Cuba | [Read More](https://medium.com/p/6eec6525b10d) |
-| Mon, 19 May 2025 09:11:17 GMT | $4,500 Bounty: SQL Injection in WordPress Plugin Leads to PII Exposure at Grab | Monika sharma | [Read More](https://medium.com/p/7c26aa7beff6) |
-| Mon, 19 May 2025 09:09:22 GMT | The Salesperson and the Firewall: Why Soft Skills Are the Hardest Layer of Cybersecurity | Rejoy Radhakrishnan | [Read More](https://medium.com/p/68d24711c131) |
-| Mon, 19 May 2025 09:09:03 GMT | $20,000 Bounty: How a Leaked Session Cookie Led to Account Takeover on HackerOne | Monika sharma | [Read More](https://medium.com/p/4a805cb892f9) |
-| Mon, 19 May 2025 09:08:29 GMT | Strengthening Web service security with Apache2: Best practices for 2025 | Roman Huliak | [Read More](https://medium.com/p/32cb57eb7fd2) |
