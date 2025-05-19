@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 19:14:58 GMT | Human Error | Kaviarasan Asokan | [Read More](https://medium.com/p/7e91a29da335) |
+| Mon, 19 May 2025 19:10:39 GMT | Transformative Guide: Creating an Efficient Virtual Assistant Workflow for Better Business Results | riyaaz baig | [Read More](https://medium.com/p/066ae85f0783) |
+| Mon, 19 May 2025 18:54:22 GMT | Build Your Own AI SOC — Part 7 Build a Security Knowledge Assistant With RAG + GPT | Corey Jones | [Read More](https://medium.com/p/833f5e8eadaf) |
 | Mon, 19 May 2025 18:51:12 GMT | My Secret Of rxploiting Htmli To Be Critical Severity $$$$ | Hamzadzworm | [Read More](https://medium.com/p/017da0a12985) |
+| Mon, 19 May 2025 18:49:46 GMT | Cyberattack Disrupts Arla Foods Production in Germany | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/c2981e4898d2) |
 | Mon, 19 May 2025 18:42:26 GMT | Shadows Whispering in the Cosmos | Tales of Nyx | [Read More](https://medium.com/p/9cf2f3c1b2fc) |
 | Mon, 19 May 2025 18:40:35 GMT | Upgrade with a Managed IT Service Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/5cb12cc0aadb) |
 | Mon, 19 May 2025 18:39:55 GMT | Nutriscore | Accor Labsec | [Read More](https://medium.com/p/73ad1a9af455) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 14:12:06 GMT | Exploring the Best Cold Storage Wallet: ELLIPAL’s Innovative Solutions | Dgfhgfdsfdgs | [Read More](https://medium.com/p/60a700e44cca) |
 | Mon, 19 May 2025 14:12:00 GMT | Fuckyouwaf | AptXXhunter | [Read More](https://medium.com/p/0e7be8fb1ef0) |
 | Mon, 19 May 2025 14:11:01 GMT | Why HR and Security Need Each Other Now More Than Ever | SecOps | [Read More](https://medium.com/p/59d67a32ef25) |
-| Mon, 19 May 2025 14:08:42 GMT | The mandela effect might be a glitch and cern could be the hacker | The 404 truth | [Read More](https://medium.com/p/691628493815) |
-| Mon, 19 May 2025 14:03:41 GMT | “Secure Transfer Required” + NFS on Azure? | Arun Prakash | [Read More](https://medium.com/p/4f865b0ac81e) |
-| Mon, 19 May 2025 14:01:42 GMT | API Authentication Methods: From Basic Auth to OAuth and JWT | StatusCode | [Read More](https://medium.com/p/e48448bc1e44) |
-| Mon, 19 May 2025 14:00:54 GMT | Cyber Briefing: 2025.05.19 | CyberMaterial | [Read More](https://medium.com/p/d4cce73a6264) |
