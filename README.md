@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 03:32:32 GMT | Behind the Claim: Did Clop Ransomware Really Breach Sam’s Club? | Deven Chhajed | [Read More](https://medium.com/p/aa69ebac3ed7) |
 | Mon, 19 May 2025 03:14:09 GMT | How to make good money with Bug Bounty: A beginner’s guide | Roman Huliak | [Read More](https://medium.com/p/0c91e9198f2b) |
 | Mon, 19 May 2025 03:14:06 GMT | $2,480 Bounty: How a Race Condition in curl’s fopen() Led to Cookie Theft and File Overwrites | Monika sharma | [Read More](https://medium.com/p/1bdaab1a584c) |
+| Mon, 19 May 2025 03:12:40 GMT | If You’re Broke, You Can’t Hide It. You Can Tell Right Away. | Lilyana | [Read More](https://medium.com/p/638db42ad753) |
 | Mon, 19 May 2025 03:10:33 GMT | How a 14-Person Business Got Hijacked by a Smiling AI Assistant | Noel | [Read More](https://medium.com/p/ff2f631b71f9) |
 | Mon, 19 May 2025 03:03:51 GMT | Log analysis: A strategic guide to cyber defense | Daouda Diallo | [Read More](https://medium.com/p/933fad5de679) |
 | Mon, 19 May 2025 03:00:21 GMT | DISCO 1 — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/49357abf41ae) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 17:13:20 GMT | Vulnerable and Outdated Components | Ali Karaoglan | [Read More](https://medium.com/p/17b1a0c86b79) |
 | Sun, 18 May 2025 17:06:35 GMT | Security Misconfiguration | Ali Karaoglan | [Read More](https://medium.com/p/1368e415db14) |
 | Sun, 18 May 2025 17:05:26 GMT | Insecure Design | Ali Karaoglan | [Read More](https://medium.com/p/e6c6609a86fc) |
-| Sun, 18 May 2025 16:56:23 GMT | Detecting Web Attacks (XSS) | Fatimahasan | [Read More](https://medium.com/p/4bc6039ef635) |
-| Sun, 18 May 2025 16:50:29 GMT | Protect Your Identity | Mehran Khan | [Read More](https://medium.com/p/76ee7eb1c94e) |
