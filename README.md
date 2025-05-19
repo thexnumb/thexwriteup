@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 15:36:29 GMT | What They Know About Me? | chnvy | [Read More](https://medium.com/p/82d94fb5b6b2) |
+| Mon, 19 May 2025 15:27:26 GMT | What Your Employees are Doing That Can Harm Your Company’s Reputation | Savvy Cyber Kids | [Read More](https://medium.com/p/3d06e9479f3c) |
+| Mon, 19 May 2025 15:22:49 GMT | Can You Get Hacked from a QR Code? Here’s the Truth — Tripuramallu Gnaneswar(KIIS I | KLEAP Institute of Information Security | [Read More](https://medium.com/p/e3886db62bec) |
+| Mon, 19 May 2025 15:18:23 GMT | The Chase: What Comes After Hitting Rock Bottom? (One Year Later) | Cybergin | [Read More](https://medium.com/p/5177983d3159) |
 | Mon, 19 May 2025 15:14:48 GMT | 2FA Simple Bypass Lab Report | Meni Tasa | [Read More](https://medium.com/p/4264440bbc82) |
 | Mon, 19 May 2025 15:12:39 GMT | Top 200 Sweden local citations for swedish local seo | Tiyana tabassum | [Read More](https://medium.com/p/6f8b356b2f0a) |
 | Mon, 19 May 2025 15:10:29 GMT | The Human Cost of Automation: Jobs Lost vs. Lives Improved | Pavan | [Read More](https://medium.com/p/7a448f8f0b40) |
@@ -110,7 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 10:03:58 GMT | Install istio in your Kubernetes cluster | Think, Write, Repeat | [Read More](https://medium.com/p/3fba1f249213) |
 | Mon, 19 May 2025 10:02:44 GMT | How AI and Automation Are Transforming VAPT Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/03b4f860b226) |
 | Mon, 19 May 2025 10:02:39 GMT | You’re Already a Target (Even If You Don’t Think You | Solo Recon | [Read More](https://medium.com/p/2b22092a6f9a) |
-| Mon, 19 May 2025 10:01:30 GMT | Cyber Manifesto — For a new, systemic future security | Matthias | [Read More](https://medium.com/p/9488150f0a81) |
-| Mon, 19 May 2025 10:01:04 GMT | Beyond Passwords: Fortifying Your Defenses with Next-Gen Multi-Factor Authentication (MFA) | Omex Oleksandr | [Read More](https://medium.com/p/d0fe4c903f8a) |
-| Mon, 19 May 2025 09:57:10 GMT | THE FIVE V’s OF PERSONAL DATA PROTECTION | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/8e53c8dff3f3) |
-| Mon, 19 May 2025 09:51:30 GMT | My Beginner Journey Into Reconnaissance Tools in Cybersecurity | Thamanna A | [Read More](https://medium.com/p/90e6a4bf63fd) |
