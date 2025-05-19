@@ -12,11 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 20:26:31 GMT | SQL Injection in Various Databases | musayyab sharif | [Read More](https://medium.com/p/91e1519fe07d) |
 | Mon, 19 May 2025 20:13:22 GMT | From Breaking Systems to Building Them: Why I Created InLuna | Ronit Yadav | [Read More](https://medium.com/p/429ea213f5f4) |
 | Mon, 19 May 2025 19:58:58 GMT | Do Red Rooms Really Exist? Unpacking the Dark‑Web Rumor | Your's Nightmare | [Read More](https://medium.com/p/562c42def85b) |
 | Mon, 19 May 2025 19:57:45 GMT | How to Start a Career in Cybersecurity (Even If You're a Complete Beginner) | Bot Hacks | [Read More](https://medium.com/p/396062b7270e) |
 | Mon, 19 May 2025 19:53:13 GMT | Vulnerability forms deep meaningful relationships. | Ifrah | [Read More](https://medium.com/p/560c5bc1c816) |
 | Mon, 19 May 2025 19:49:23 GMT | Reverse Shell: Estudo prático para Entusiastas e Profissionais de Segurança | Sérgio Corrêa | [Read More](https://medium.com/p/cd83585f103d) |
+| Mon, 19 May 2025 19:47:42 GMT | “Before injection, understanding” — What every hacker needs to master before exploiting a NoSQL… | phoenixcatalan | [Read More](https://medium.com/p/1c16d31cc24f) |
 | Mon, 19 May 2025 19:47:11 GMT | Another security patch. Another missed opportunity. | Tide Foundation | [Read More](https://medium.com/p/ba381a4e434c) |
 | Mon, 19 May 2025 19:38:00 GMT | ️ Writing your first Cartography intel module | jychp | [Read More](https://medium.com/p/1b017c5425a6) |
 | Mon, 19 May 2025 19:32:39 GMT | Weiser Memorial Hospital Data Breach: 34,249 Patients Affected by Unauthorized Network Access | LegalNewsbyDave | [Read More](https://medium.com/p/f4158f8d09c2) |
@@ -111,5 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 14:54:53 GMT | Inside the Fortresses: Cybersecurity Practices Used by Top IT Companies | Hannah Valescu | [Read More](https://medium.com/p/266cc04b0be6) |
 | Mon, 19 May 2025 14:53:15 GMT | Some experiments with the Policy Puppetry Prompt Injection Technique | Federico Ricciuti | [Read More](https://medium.com/p/fd5625aa73f9) |
 | Mon, 19 May 2025 14:51:53 GMT | The Internet Is Western (And What the Internet Can Learn from Westerns) | Brad Tenenholtz | [Read More](https://medium.com/p/46c6fc7f06d8) |
-| Mon, 19 May 2025 14:45:21 GMT | Beware of this dangerous bug I found in Golang (filtering characters) | Wacław The Developer | [Read More](https://medium.com/p/68a9a871953e) |
-| Mon, 19 May 2025 14:42:57 GMT | Strengthen Your Security Posture with the OpenCanary Honeypot | Peta Pavan | [Read More](https://medium.com/p/d8f2a2146964) |
