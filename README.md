@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 21:33:05 GMT | Top 10 AI Security Video — May | Tal Eliyahu | [Read More](https://medium.com/p/24ff3c6dadd9) |
+| Mon, 19 May 2025 21:30:53 GMT | Can You Spot a Malicious URL? A Machine Learning Approach to Cyber Threat Detection | ab | [Read More](https://medium.com/p/9bd1cf590f02) |
+| Mon, 19 May 2025 21:28:16 GMT | Scaling Cybersecurity: How Small Businesses Can Build Resilient and Secure IT Systems on a Budget | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/9ecc9e1c8597) |
+| Mon, 19 May 2025 21:20:06 GMT | Exploring Linux Kernel Capabilities | Progsky | [Read More](https://medium.com/p/691d1eec45e0) |
 | Mon, 19 May 2025 21:15:21 GMT | XSS (Cross-Site-Scripting) Nedir? | ozanturancakir | [Read More](https://medium.com/p/87a9bee41ae2) |
 | Mon, 19 May 2025 21:13:54 GMT | HTML Smuggling | S12 - H4CK | [Read More](https://medium.com/p/1c6b7fb51071) |
+| Mon, 19 May 2025 21:09:50 GMT | Start Your Cybersecurity Career with the ISC2 Certified in Cybersecurity (CC) Exam! | lady_like_lydia | [Read More](https://medium.com/p/17a5586e7540) |
 | Mon, 19 May 2025 21:08:55 GMT | This Tiny Predator Uses Tools to Capture Its Prey | Cassie Welander, PhD | [Read More](https://medium.com/p/0b641a3e8d51) |
+| Mon, 19 May 2025 21:07:22 GMT | How Hackers Steal Your Passwords Without Hacking You | Stealseek | [Read More](https://medium.com/p/92608e87d85f) |
 | Mon, 19 May 2025 21:03:26 GMT | Chapter : The Sparkling Night | Diksha Srivastava | [Read More](https://medium.com/p/bf66cde462e3) |
 | Mon, 19 May 2025 20:53:16 GMT | From Alerts to Armistice: Why Cybersecurity Without Geopolitics Is a Losing Game | SIMKRA | [Read More](https://medium.com/p/6b32bcc113e9) |
 | Mon, 19 May 2025 20:51:15 GMT | The Hacker Myth: What They Don’t Tell You About Pirated Software, Inside Jobs, and Industry Silence | The Univah Film Engine | [Read More](https://medium.com/p/44cc7a446dd6) |
@@ -107,9 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 15:49:51 GMT | Phishing Simulation Project: Full Breakdown of My Ethical Awareness Website | Amir Taque Ahmad | [Read More](https://medium.com/p/202b54140c3a) |
 | Mon, 19 May 2025 15:36:29 GMT | What They Know About Me? | chnvy | [Read More](https://medium.com/p/82d94fb5b6b2) |
 | Mon, 19 May 2025 15:27:26 GMT | What Your Employees are Doing That Can Harm Your Company’s Reputation | Savvy Cyber Kids | [Read More](https://medium.com/p/3d06e9479f3c) |
-| Mon, 19 May 2025 15:22:49 GMT | Can You Get Hacked from a QR Code? Here’s the Truth — Tripuramallu Gnaneswar(KIIS I | KLEAP Institute of Information Security | [Read More](https://medium.com/p/e3886db62bec) |
-| Mon, 19 May 2025 15:18:23 GMT | The Chase: What Comes After Hitting Rock Bottom? (One Year Later) | Cybergin | [Read More](https://medium.com/p/5177983d3159) |
-| Mon, 19 May 2025 15:14:48 GMT | 2FA Simple Bypass Lab Report | Meni Tasa | [Read More](https://medium.com/p/4264440bbc82) |
-| Mon, 19 May 2025 15:12:39 GMT | Top 200 Sweden local citations for swedish local seo | Tiyana tabassum | [Read More](https://medium.com/p/6f8b356b2f0a) |
-| Mon, 19 May 2025 15:10:29 GMT | The Human Cost of Automation: Jobs Lost vs. Lives Improved | Pavan | [Read More](https://medium.com/p/7a448f8f0b40) |
-| Mon, 19 May 2025 15:09:37 GMT | Day 40: Navigating the Network Address Maze: Understanding NAT and PAT | Agarwaldaksh | [Read More](https://medium.com/p/82a3cb5c93b3) |
