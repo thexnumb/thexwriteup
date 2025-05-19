@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 16:47:07 GMT | Part 3: Refresh Tokens in JWT | Berk Polat | [Read More](https://medium.com/p/b36ed41b0330) |
+| Mon, 19 May 2025 16:43:42 GMT | Zero-Day Vulnerabilities: The Hidden Threat You Never See Coming | SafeAeon Inc. | [Read More](https://medium.com/p/7ce5e48c21cb) |
+| Mon, 19 May 2025 16:37:11 GMT | Why IoT Security Risks Are a Growing Concern for Everyone | SafeAeon Inc. | [Read More](https://medium.com/p/68f98d5413dc) |
+| Mon, 19 May 2025 16:35:57 GMT | How can a site bring the world to its knees؟ | Mohamad | [Read More](https://medium.com/p/747eac98193a) |
+| Mon, 19 May 2025 16:28:45 GMT | How To Hack Your Mind In 3 Simple Ways | DR Aiza | [Read More](https://medium.com/p/2a4d3601af0b) |
+| Mon, 19 May 2025 16:20:33 GMT | * CAPIE - Certified API Hacking Expert - Lesson material [WITH CERT OF COMPLETION] Course 115… | San Thomas | [Read More](https://medium.com/p/1c932687ac2a) |
 | Mon, 19 May 2025 16:17:42 GMT | Risk Is not the Enemy — Misalignment Is | Ricardo Newman | [Read More](https://medium.com/p/28ce0eb31fba) |
 | Mon, 19 May 2025 16:17:36 GMT | 10 Mistakes You Don’t Want to Make While Vibe Coding (But Probably Will) | Sandhya | [Read More](https://medium.com/p/6f547cafe546) |
 | Mon, 19 May 2025 16:15:49 GMT | How to Build a Step-by-Step DORA Compliance Plan | Adam REHAIEM | [Read More](https://medium.com/p/03af6e043a6b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 11:10:03 GMT | Understanding Server-Side Request Forgery, Real-World Exploits, and How to Secure Your Web… | Nishanthan | [Read More](https://medium.com/p/2f2590380db5) |
 | Mon, 19 May 2025 10:56:30 GMT | Hijacking Sessions with postMessage: The Silent DOM XSS Threat | Dipesh Paul | [Read More](https://medium.com/p/41a8a59dd9b4) |
 | Mon, 19 May 2025 10:45:35 GMT | The Quiet Rooms | Akeredolu Esther Oyindamola | [Read More](https://medium.com/p/95dbd3420fc9) |
-| Mon, 19 May 2025 10:43:22 GMT | Bulls and Wolves: Inside the Coinbase Breach That Shook Crypto Mid-Rally | Brunobega | [Read More](https://medium.com/p/afe505c7c813) |
-| Mon, 19 May 2025 10:43:10 GMT | Exploiting CVE-2025–29927 in Next.js Middleware | Vikram | [Read More](https://medium.com/p/23d6676ca619) |
-| Mon, 19 May 2025 10:43:08 GMT | When He Loses His Erection Inside You: What It Really Means for Your Relationship | Megan Zesi | [Read More](https://medium.com/p/5b26657a9624) |
-| Mon, 19 May 2025 10:36:45 GMT | HITRUST vs. HIPAA? Choosing the Right Compliance Framework for Your Organization | Ampcus Cyber | [Read More](https://medium.com/p/24dbdc12d640) |
-| Mon, 19 May 2025 10:36:14 GMT | THE EMERGING TRENDS AND PATTERNS OF TERRORIST THREATS IN INDONESIA | Lathif | [Read More](https://medium.com/p/16fa1bc1ec53) |
-| Mon, 19 May 2025 10:35:59 GMT | What is SD-WAN? | InfosecTrain | [Read More](https://medium.com/p/1bc20b8a53fe) |
