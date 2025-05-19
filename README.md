@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 04:39:07 GMT | Strange Solutions for a Serious Problem |  | [Read More](https://medium.com/p/10c7e1a6fc37) |
+| Mon, 19 May 2025 04:32:32 GMT | The AI Agent Security Crisis: LLM Agents Can Be Hacked — Fix? | Simranjeet Singh | [Read More](https://medium.com/p/fc4f1127bd5a) |
+| Mon, 19 May 2025 04:31:21 GMT | Basic Authentication Bypassed via Simple Misconfiguration | M7moudx22 | [Read More](https://medium.com/p/6a19002aef4f) |
+| Mon, 19 May 2025 04:26:44 GMT | The Day the Firewall Died: Productivity Crashed, Security Was Punished, and Chaos Won the War | pushedbynishtha | [Read More](https://medium.com/p/af4e1313f707) |
+| Mon, 19 May 2025 04:25:30 GMT | Inside the World of APT28 (Fancy Bear) | Sidhantchaurasiya | [Read More](https://medium.com/p/95f9366f62ef) |
+| Mon, 19 May 2025 04:19:08 GMT | How blockchain changes the creation of mobile apps: | Shanzy | [Read More](https://medium.com/p/0f4162cc44e1) |
+| Mon, 19 May 2025 04:19:04 GMT | Protecting Corporate Secrets from Profiteers Is a Strategic Necessity | Revathimsr | [Read More](https://medium.com/p/57f10c22c8bc) |
+| Mon, 19 May 2025 04:14:33 GMT | Protecting Patient Data: Managed IT Services in Brisbane for Healthcare Sector | Vandros | [Read More](https://medium.com/p/faf23721ea28) |
+| Mon, 19 May 2025 04:12:11 GMT | Vendor Management: Ultimate Guide To Secure The Best Bargain | HostNOC | [Read More](https://medium.com/p/7db2c212f530) |
+| Mon, 19 May 2025 03:59:54 GMT | cyber security video | Muhammad Rafi Athallah | [Read More](https://medium.com/p/7cdaa415c506) |
+| Mon, 19 May 2025 03:58:21 GMT | Cybersecurity101: Introduction to Penetration Testing for Beginners. | Kheyraldhs | [Read More](https://medium.com/p/1f33910825d4) |
+| Mon, 19 May 2025 03:53:34 GMT | How to Legally and Discreetly Investigate a Cheating Partner in the Digital Age. | Private-hackers.com | [Read More](https://medium.com/p/12cf5a35a823) |
 | Mon, 19 May 2025 03:32:32 GMT | Behind the Claim: Did Clop Ransomware Really Breach Sam’s Club? | Deven Chhajed | [Read More](https://medium.com/p/aa69ebac3ed7) |
 | Mon, 19 May 2025 03:14:09 GMT | How to make good money with Bug Bounty: A beginner’s guide | Roman Huliak | [Read More](https://medium.com/p/0c91e9198f2b) |
 | Mon, 19 May 2025 03:14:06 GMT | $2,480 Bounty: How a Race Condition in curl’s fopen() Led to Cookie Theft and File Overwrites | Monika sharma | [Read More](https://medium.com/p/1bdaab1a584c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 18:24:34 GMT | Cooking the Proxy — What the heck is a Proxy Server | Javier | [Read More](https://medium.com/p/e180078ba183) |
 | Sun, 18 May 2025 18:21:19 GMT | Why That ‘Free Charging Station’ at the Airport Could Cost You Everything | Ahmad Javed | [Read More](https://medium.com/p/becaca5070d9) |
 | Sun, 18 May 2025 18:19:58 GMT | Open Redirect Vulnerability in OAuth Flow on Lichess4545.com | Regan Temudo | [Read More](https://medium.com/p/0e78c2d97397) |
-| Sun, 18 May 2025 18:14:26 GMT | Use-After-Free: The silent killer takes over the memory of Operating System | Dulip Ravindra | [Read More](https://medium.com/p/ecb0271e1a3a) |
-| Sun, 18 May 2025 18:11:56 GMT | Crypto Failures - TryHackMe Medium | Error | [Read More](https://medium.com/p/d60d55b849d6) |
-| Sun, 18 May 2025 18:08:00 GMT | Digital Network Interconnected System | Mohammad Hossein Moghadasi | [Read More](https://medium.com/p/c5101ae91a93) |
-| Sun, 18 May 2025 18:00:38 GMT | Unlocking Information: An Introduction to Open Source Intelligence (OSINT) | Lincoln Mcloud | [Read More](https://medium.com/p/4d07018e791a) |
-| Sun, 18 May 2025 17:59:24 GMT | Old School Analogies for Modern Risk Management | Dominick Caponi | [Read More](https://medium.com/p/38e4bfe495a0) |
-| Sun, 18 May 2025 17:49:53 GMT | CSAY 1.0 CTF 2025 Writeup | Kishan Jai Soorya N | [Read More](https://medium.com/p/d75d15b29c96) |
-| Sun, 18 May 2025 17:46:16 GMT | AI-Powered Secure & Scalable Trading on Monad by Butter-Fi | Jill Chang | [Read More](https://medium.com/p/7c47f02fe08b) |
-| Sun, 18 May 2025 17:38:24 GMT | STOP SCANNING, START HACKING: HOW TO GRAB EASY (BUT REAL) BOUNTIES MANUALLY | MadaraCracker | [Read More](https://medium.com/p/3a4ca0607139) |
-| Sun, 18 May 2025 17:31:16 GMT | 0x01 — Building Malware in C++: Memory Execution, Shellcode, and AV Evasion Basics | Itz.sanskarr | [Read More](https://medium.com/p/2044552ec6db) |
-| Sun, 18 May 2025 17:13:20 GMT | Vulnerable and Outdated Components | Ali Karaoglan | [Read More](https://medium.com/p/17b1a0c86b79) |
-| Sun, 18 May 2025 17:06:35 GMT | Security Misconfiguration | Ali Karaoglan | [Read More](https://medium.com/p/1368e415db14) |
-| Sun, 18 May 2025 17:05:26 GMT | Insecure Design | Ali Karaoglan | [Read More](https://medium.com/p/e6c6609a86fc) |
