@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 06:17:32 GMT | Pakistan’s Nuclear Doctrine | Hafsa Shaikh | [Read More](https://medium.com/p/4663d9e5f421) |
+| Mon, 19 May 2025 06:13:38 GMT | SQL Injection 101: How a Simple Mistake Can Open the Door to Your Database | bithowl | [Read More](https://medium.com/p/b5dda9eeb5ec) |
+| Mon, 19 May 2025 06:13:31 GMT | Optimizing Cost Management: Leveraging Resource Tagging and Mondoo Policies | Infralovers GmbH | [Read More](https://medium.com/p/875fb5df01f5) |
+| Mon, 19 May 2025 06:09:48 GMT | From Web3 Developer to Smart-Contract Auditor: My Journey and a Taxonomy of Vulnerabilities | Evgenii | [Read More](https://medium.com/p/54f43b5e95c9) |
+| Mon, 19 May 2025 06:08:14 GMT | Cybersecurity For Critical Infrastructure In The Middle East: Why A Proactive, AI-Driven Approach… | Seceon Cyber Security Company | [Read More](https://medium.com/p/4a1c95a38332) |
+| Mon, 19 May 2025 06:05:50 GMT | To be seen the way I see others | love | [Read More](https://medium.com/p/632fe1327c67) |
+| Mon, 19 May 2025 06:04:28 GMT | Cyber Insurance: Can It Really Cover the Risks You’re Facing? | Paritosh | [Read More](https://medium.com/p/94891fb6451c) |
+| Mon, 19 May 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — May 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/25d4a39499f0) |
+| Mon, 19 May 2025 05:59:10 GMT | Setup openvas on Virtualbox | zal ef | [Read More](https://medium.com/p/dadaa261d92a) |
+| Mon, 19 May 2025 05:58:59 GMT | RST TI Report Digest: 19 May 2025 | RST Cloud | [Read More](https://medium.com/p/a4abc5336180) |
+| Mon, 19 May 2025 05:56:29 GMT | Traditional Concept of Security and Non-Traditional Concept of Security: Its Significance and… | Hafsa Shaikh | [Read More](https://medium.com/p/3038a21f3b92) |
+| Mon, 19 May 2025 05:51:43 GMT | Mobile App Pentesting — Part 2: Setting Up Your Pentest Lab | Tanzeem Khatri | [Read More](https://medium.com/p/7a2dfeb2c2a0) |
+| Mon, 19 May 2025 05:45:02 GMT | Handling Image Uploads in Node.js: How I Combined Multer and Cloudinary for Efficient File Uploads | Ujjwol Shrestha | [Read More](https://medium.com/p/c6b559a95a6c) |
+| Mon, 19 May 2025 05:36:28 GMT | The Daily Tech Digest: 19 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/21d72a9e619b) |
 | Mon, 19 May 2025 05:30:58 GMT | Next-Gen Cybersecurity Solutions for a Changing World | Gauravinsightss | [Read More](https://medium.com/p/f80557e3cbc2) |
 | Mon, 19 May 2025 05:29:45 GMT | Mastering Cybersecurity in 2025: The Ultimate Guide to Digital Protection | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/7ac2e7fef13f) |
 | Mon, 19 May 2025 05:22:36 GMT | Top 6 Cybersecurity Companies Leading the Charge in 2025 | Kashif Imran | [Read More](https://medium.com/p/ff991b14f6ce) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 20:53:27 GMT | CSWSH (Cross-Site WebSocket Hijacking) Nedir ? | mel4mi | [Read More](https://medium.com/p/ca30c7e6ca4a) |
 | Sun, 18 May 2025 20:41:55 GMT | Protection That Works Because It’s Been Tested | Zika Rakita | [Read More](https://medium.com/p/6b485a0cb15f) |
 | Sun, 18 May 2025 20:35:24 GMT | The Secure One | MP | [Read More](https://medium.com/p/2623b954c030) |
-| Sun, 18 May 2025 20:32:32 GMT | Cybersecurity and economic intelligence : The art of war applied to knowledge protection | Larbi OUIYZME | [Read More](https://medium.com/p/df19581a0966) |
-| Sun, 18 May 2025 20:32:22 GMT | Thinking of turning an unused Windows machine into a Kubernetes playground? | Oladele | [Read More](https://medium.com/p/a937d59554db) |
-| Sun, 18 May 2025 20:28:50 GMT | How To Implement Column Masking in Databricks To Protect Sensitive Data | Lorena Gongang | [Read More](https://medium.com/p/9ed00c26dc6d) |
-| Sun, 18 May 2025 20:25:32 GMT | A&E: Where fear collides with Resilience. | Faith Kamau | [Read More](https://medium.com/p/cfebd668ebb9) |
-| Sun, 18 May 2025 20:20:11 GMT | Installation Process of Oracle VirtualBox in 2025 | James Rawlings | [Read More](https://medium.com/p/f111857cc433) |
-| Sun, 18 May 2025 20:15:49 GMT | TryHackMe Walkthrough — Blue | Nicholas Abundis | [Read More](https://medium.com/p/11e360b2ca25) |
-| Sun, 18 May 2025 20:13:34 GMT | You’re Missing the Point: Debunking the Obsession Over AI-Generated Code | Brad Tenenholtz | [Read More](https://medium.com/p/1f0fee3bd009) |
-| Sun, 18 May 2025 19:51:56 GMT | Machine-to-Machine Trust at Scale: The Role of New Blockchain Security Standards in Agentic AI | Valdez Ladd | [Read More](https://medium.com/p/2d23838ad022) |
-| Sun, 18 May 2025 19:51:33 GMT | Day 17 Blind SQL injection with out-of-band data exfiltration — Zero to Hero out-of-band —… | RayofHope | [Read More](https://medium.com/p/a7f770ab30a0) |
-| Sun, 18 May 2025 19:45:21 GMT | How to Simulate a Phishing Attack (Safely & Legally): A Beginner’s Guide into Ethical Hacking | Oshada Rashmika | [Read More](https://medium.com/p/1ccc3fbf1a2c) |
-| Sun, 18 May 2025 19:41:10 GMT | The Life of an Emotional Outsider | Mike O'Toole | [Read More](https://medium.com/p/28559362de34) |
-| Sun, 18 May 2025 19:40:57 GMT | Neuro Input session 001 — Not a test…. (Probably) | Neuro & Halli | [Read More](https://medium.com/p/2ee071b3a8d5) |
-| Sun, 18 May 2025 19:38:11 GMT | Cyber Psychology: The Human Factor and Social Engineering | Talha Memiş | [Read More](https://medium.com/p/7ccecd8ca913) |
-| Sun, 18 May 2025 19:16:45 GMT | The Birthday Surprise: Why Hash Collisions Are More Common Than You Think (And Why It Matters for… | Lh Mohammed | [Read More](https://medium.com/p/85d2da7aafba) |
