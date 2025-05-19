@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 10:43:10 GMT | Exploiting CVE-2025–29927 in Next.js Middleware | Vikram | [Read More](https://medium.com/p/23d6676ca619) |
+| Mon, 19 May 2025 10:43:08 GMT | When He Loses His Erection Inside You: What It Really Means for Your Relationship | Megan Zesi | [Read More](https://medium.com/p/5b26657a9624) |
+| Mon, 19 May 2025 10:36:45 GMT | HITRUST vs. HIPAA? Choosing the Right Compliance Framework for Your Organization | Ampcus Cyber | [Read More](https://medium.com/p/24dbdc12d640) |
+| Mon, 19 May 2025 10:36:14 GMT | THE EMERGING TRENDS AND PATTERNS OF TERRORIST THREATS IN INDONESIA | Lathif | [Read More](https://medium.com/p/16fa1bc1ec53) |
+| Mon, 19 May 2025 10:35:59 GMT | What is SD-WAN? | InfosecTrain | [Read More](https://medium.com/p/1bc20b8a53fe) |
+| Mon, 19 May 2025 10:35:09 GMT | Zero-Day Phishing in Microsoft 365: How Attackers Bypass Defender & Safe Links in 2025 | Tanishq gautam | [Read More](https://medium.com/p/1160925c1df4) |
+| Mon, 19 May 2025 10:31:39 GMT | AWS DevOps The Complete Guide to Building a Career in Cloud and Automation | cyberwingITSolution | [Read More](https://medium.com/p/8f8d93836541) |
+| Mon, 19 May 2025 10:30:03 GMT | The Truth About My Bug Bounty Burnout (And the Fix That’s Working) | Vivek PS | [Read More](https://medium.com/p/0f89ef5ec35e) |
+| Mon, 19 May 2025 10:28:25 GMT | “With You”
+Your eyes speak to me — they laugh and smile,
+and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.com/p/5cde98ed1aef) |
+| Mon, 19 May 2025 10:27:36 GMT | The Scam Epidemic Meta Doesn’t Want You to Know About | Karl Buhl | [Read More](https://medium.com/p/5406bf46edfd) |
+| Mon, 19 May 2025 10:27:11 GMT | Chained Chaos: Discovering 6 XSS in a Single Target | Ahmedsamy | [Read More](https://medium.com/p/2e03a0c530ef) |
+| Mon, 19 May 2025 10:26:24 GMT | OSCP vs CEH: Which Ethical Hacking Certification is More Useful and Why? | Vasundhra sharma | [Read More](https://medium.com/p/1fc4d6b12352) |
+| Mon, 19 May 2025 10:23:35 GMT | Legal Aid Agency Hack — A Wake-Up Call for Cybersecurity in Public Institutions | Technijian | [Read More](https://medium.com/p/0a978c2ba7d8) |
 | Mon, 19 May 2025 10:21:42 GMT | The #1 Reason Your Company Keeps Getting Hacked | The New World - Stefan Queda | [Read More](https://medium.com/p/94f53840a8ef) |
 | Mon, 19 May 2025 10:21:33 GMT | We’re an AI-driven mobile and web development company that helps transform ideas from napkin sketch | Businessmeeting | [Read More](https://medium.com/p/6fd795df81be) |
 | Mon, 19 May 2025 10:15:41 GMT | Cyber Security Course in India with Certification: What Do Recruiters Want | Reshma Rajagopalan p | [Read More](https://medium.com/p/a3959c0c3812) |
@@ -99,16 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 05:21:28 GMT | Fortinet FortiAnalyzer: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e7fae6c1fdbf) |
 | Mon, 19 May 2025 05:13:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/bf1f92e76741) |
 | Mon, 19 May 2025 05:07:10 GMT | BotBuster: Bot Detection in the Browser Without CAPTCHAs | Jorge Olaf Erlandsen | [Read More](https://medium.com/p/44999757614e) |
-| Mon, 19 May 2025 05:02:01 GMT | I Broke Rate Limits and Accessed 1000+ User Records — Responsibly | Abhijeet Kumawat | [Read More](https://medium.com/p/8c45f20729ba) |
-| Mon, 19 May 2025 05:01:37 GMT | Evolving MCP: The Need for a User Layer in Distributed Agentic Systems | Jason Ross | [Read More](https://medium.com/p/5b6ab7e0c82b) |
-| Mon, 19 May 2025 04:58:08 GMT | The Complete Guide to Cybersecurity & Cybersecurity Analytics: What You Need to Know in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/e6bbcfcfbed3) |
-| Mon, 19 May 2025 04:39:07 GMT | Strange Solutions for a Serious Problem |  | [Read More](https://medium.com/p/10c7e1a6fc37) |
-| Mon, 19 May 2025 04:36:51 GMT | Building Smarter Security with AI: Our Drone-Based Image Detection & Crowd Behavior System | Rakesh patel | [Read More](https://medium.com/p/5522e454b663) |
-| Mon, 19 May 2025 04:35:15 GMT | The Linux Process Journey — snapd (Snap Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/2173f15fd6ed) |
-| Mon, 19 May 2025 04:34:45 GMT | Effortless Token Refresh in React Using Axios Interceptors | Justin J Daniel | [Read More](https://medium.com/p/2132701391f4) |
-| Mon, 19 May 2025 04:32:32 GMT | The AI Agent Security Crisis: LLM Agents Can Be Hacked — Fix? | Simranjeet Singh | [Read More](https://medium.com/p/fc4f1127bd5a) |
-| Mon, 19 May 2025 04:31:21 GMT | Basic Authentication Bypassed via Simple Misconfiguration | M7moudx22 | [Read More](https://medium.com/p/6a19002aef4f) |
-| Mon, 19 May 2025 04:26:44 GMT | The Day the Firewall Died: Productivity Crashed, Security Was Punished, and Chaos Won the War | pushedbynishtha | [Read More](https://medium.com/p/af4e1313f707) |
-| Mon, 19 May 2025 04:25:30 GMT | Inside the World of APT28 (Fancy Bear) | Sidhantchaurasiya | [Read More](https://medium.com/p/95f9366f62ef) |
-| Mon, 19 May 2025 04:19:08 GMT | How blockchain changes the creation of mobile apps: | Shanzy | [Read More](https://medium.com/p/0f4162cc44e1) |
-| Mon, 19 May 2025 04:19:04 GMT | Protecting Corporate Secrets from Profiteers Is a Strategic Necessity | Revathimsr | [Read More](https://medium.com/p/57f10c22c8bc) |
