@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 21:15:21 GMT | XSS (Cross-Site-Scripting) Nedir? | ozanturancakir | [Read More](https://medium.com/p/87a9bee41ae2) |
+| Mon, 19 May 2025 21:13:54 GMT | HTML Smuggling | S12 - H4CK | [Read More](https://medium.com/p/1c6b7fb51071) |
+| Mon, 19 May 2025 21:08:55 GMT | This Tiny Predator Uses Tools to Capture Its Prey | Cassie Welander, PhD | [Read More](https://medium.com/p/0b641a3e8d51) |
+| Mon, 19 May 2025 21:03:26 GMT | Chapter : The Sparkling Night | Diksha Srivastava | [Read More](https://medium.com/p/bf66cde462e3) |
+| Mon, 19 May 2025 20:53:16 GMT | From Alerts to Armistice: Why Cybersecurity Without Geopolitics Is a Losing Game | SIMKRA | [Read More](https://medium.com/p/6b32bcc113e9) |
+| Mon, 19 May 2025 20:51:15 GMT | The Hacker Myth: What They Don’t Tell You About Pirated Software, Inside Jobs, and Industry Silence | The Univah Film Engine | [Read More](https://medium.com/p/44cc7a446dd6) |
+| Mon, 19 May 2025 20:44:34 GMT | HTB — Broker Write-up | Nikita Astashenko | [Read More](https://medium.com/p/bdaa90afaef1) |
+| Mon, 19 May 2025 20:43:51 GMT | How CoinCollectExperts Helped Me Recover My Lost BTC and Ethereum | Robertdreher | [Read More](https://medium.com/p/fb11f38bc41a) |
 | Mon, 19 May 2025 20:26:31 GMT | SQL Injection in Various Databases | musayyab sharif | [Read More](https://medium.com/p/91e1519fe07d) |
 | Mon, 19 May 2025 20:13:22 GMT | From Breaking Systems to Building Them: Why I Created InLuna | Ronit Yadav | [Read More](https://medium.com/p/429ea213f5f4) |
 | Mon, 19 May 2025 19:58:58 GMT | Do Red Rooms Really Exist? Unpacking the Dark‑Web Rumor | Your's Nightmare | [Read More](https://medium.com/p/562c42def85b) |
@@ -105,11 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 15:12:39 GMT | Top 200 Sweden local citations for swedish local seo | Tiyana tabassum | [Read More](https://medium.com/p/6f8b356b2f0a) |
 | Mon, 19 May 2025 15:10:29 GMT | The Human Cost of Automation: Jobs Lost vs. Lives Improved | Pavan | [Read More](https://medium.com/p/7a448f8f0b40) |
 | Mon, 19 May 2025 15:09:37 GMT | Day 40: Navigating the Network Address Maze: Understanding NAT and PAT | Agarwaldaksh | [Read More](https://medium.com/p/82a3cb5c93b3) |
-| Mon, 19 May 2025 15:07:55 GMT | What is a Checksum? A Complete Guide for Developers | Minno Sahu | [Read More](https://medium.com/p/e33145de9bb6) |
-| Mon, 19 May 2025 14:58:26 GMT | GRC Is Not a Cost Center, It’s a Growth Engine | Brittney Ginther | [Read More](https://medium.com/p/eceac00799de) |
-| Mon, 19 May 2025 14:58:08 GMT | How a Fake Calendar Invite Can Breach an Entire Org (Yes, Seriously) | Bl@ckC!pH3r | [Read More](https://medium.com/p/b96cf492d1cc) |
-| Mon, 19 May 2025 14:56:10 GMT | Deep Recon Leads to Unauthenticated Upload & IDOR — Rewarded with Bounty $$$ | 0xAsad-Eldin | [Read More](https://medium.com/p/bfa58a03397f) |
-| Mon, 19 May 2025 14:55:09 GMT | Detecting Web Attacks (Command Injection) | Fatimahasan | [Read More](https://medium.com/p/62c1fe3c9382) |
-| Mon, 19 May 2025 14:54:53 GMT | Inside the Fortresses: Cybersecurity Practices Used by Top IT Companies | Hannah Valescu | [Read More](https://medium.com/p/266cc04b0be6) |
-| Mon, 19 May 2025 14:53:15 GMT | Some experiments with the Policy Puppetry Prompt Injection Technique | Federico Ricciuti | [Read More](https://medium.com/p/fd5625aa73f9) |
-| Mon, 19 May 2025 14:51:53 GMT | The Internet Is Western (And What the Internet Can Learn from Westerns) | Brad Tenenholtz | [Read More](https://medium.com/p/46c6fc7f06d8) |
