@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 03:14:09 GMT | How to make good money with Bug Bounty: A beginner’s guide | Roman Huliak | [Read More](https://medium.com/p/0c91e9198f2b) |
+| Mon, 19 May 2025 03:14:06 GMT | $2,480 Bounty: How a Race Condition in curl’s fopen() Led to Cookie Theft and File Overwrites | Monika sharma | [Read More](https://medium.com/p/1bdaab1a584c) |
+| Mon, 19 May 2025 03:10:33 GMT | How a 14-Person Business Got Hijacked by a Smiling AI Assistant | Noel | [Read More](https://medium.com/p/ff2f631b71f9) |
+| Mon, 19 May 2025 03:03:51 GMT | Log analysis: A strategic guide to cyber defense | Daouda Diallo | [Read More](https://medium.com/p/933fad5de679) |
+| Mon, 19 May 2025 03:00:21 GMT | DISCO 1 — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/49357abf41ae) |
+| Mon, 19 May 2025 03:00:11 GMT | I do not keep friends that close. | Harrisonstacey | [Read More](https://medium.com/p/2a0e1600b8ee) |
+| Mon, 19 May 2025 02:54:37 GMT | How to Prevent and Respond to Website Hacks: Tips for Keeping Your Site Safe | Adams Hong Kong | [Read More](https://medium.com/p/25c8f89a6f14) |
+| Mon, 19 May 2025 02:52:41 GMT | Risk and Compliance Management: Navigating the Complex Landscape of Business Operations | Karthikeyan Nagaraj | [Read More](https://medium.com/p/748a0b512ebc) |
+| Mon, 19 May 2025 02:50:35 GMT | LAMIS: A Cybersecurity System Developed by Indonesian Youth Prepared to Tackle Digital Threats | Achmad Aris Setiawan | [Read More](https://medium.com/p/957fb518a0ce) |
+| Mon, 19 May 2025 02:45:48 GMT | Linux Security Playbook 2025: disk Group Dangers Exposed | Aleksei Aleinikov | [Read More](https://medium.com/p/068a764f4771) |
+| Mon, 19 May 2025 02:44:37 GMT | Refactoring 028 — Replace Consecutive IDs with Dark Keys | Maximiliano Contieri | [Read More](https://medium.com/p/be4c0857ec71) |
+| Mon, 19 May 2025 02:27:36 GMT | (TRADINT) Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/b810e5ca304e) |
+| Mon, 19 May 2025 02:20:33 GMT | OT Budgets + AI Threats + Expanding Attack Surface = A Cybersecurity Crossroads | NaveeeN Chendra | [Read More](https://medium.com/p/0f647f95efcf) |
+| Mon, 19 May 2025 02:12:12 GMT | Building My First Web Recon Tool in kali linux | Amina Akai | [Read More](https://medium.com/p/e22f6a91858a) |
+| Mon, 19 May 2025 02:06:03 GMT | Securing AI with Zero-Knowledge Proofs: How ExpandZK Enables Trustless Data Authentication | Andiee | [Read More](https://medium.com/p/6844203511db) |
+| Mon, 19 May 2025 01:53:59 GMT | SOC210 — Possible Brute Force Detected on VPN | Harshprajapati | [Read More](https://medium.com/p/38d9f3e3edf2) |
 | Mon, 19 May 2025 01:31:28 GMT | Footprinting a Target using OSRFramework | Maleesha Rathnayaka | [Read More](https://medium.com/p/0e59eff8d373) |
 | Mon, 19 May 2025 01:29:36 GMT | The Gig Economy’s Hidden Exploit: Identity Rental in Delivery Apps | Internet Exposed | [Read More](https://medium.com/p/fba96b31a2d3) |
 | Mon, 19 May 2025 01:22:24 GMT | Dynamic Malware Analysis Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/4b22e2cad8c4) |
@@ -26,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 00:26:47 GMT | The Agentic AI Revolution in Cybersecurity: What IT Leaders Need to Know | Ian Loe | [Read More](https://medium.com/p/91de4cbb26db) |
 | Mon, 19 May 2025 00:09:15 GMT | What Hacking Taught Me About Building Ethical Startups | Ronit Yadav | [Read More](https://medium.com/p/b8683c5637af) |
 | Mon, 19 May 2025 00:02:29 GMT | Domina los Google Dorks: Técnicas de Búsqueda para Ciberseguridad y OSINT | JPablo13 | [Read More](https://medium.com/p/3206fe84f956) |
+| Sun, 18 May 2025 23:57:12 GMT | Sharing Account: Dilema Antara Kenyamanan dan Keamanan | Sugeng Romadhoni | [Read More](https://medium.com/p/98ae07dedf64) |
 | Sun, 18 May 2025 23:56:36 GMT | Active AI is the true AI | Simon Lee | [Read More](https://medium.com/p/492c36833a55) |
 | Sun, 18 May 2025 23:22:29 GMT | windows crashatico e rompimento di maremme | octospacc | [Read More](https://medium.com/p/eba80d3aeb65) |
 | Sun, 18 May 2025 23:14:41 GMT | “Who am I?” | Fran | [Read More](https://medium.com/p/fc183a254171) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 17:05:26 GMT | Insecure Design | Ali Karaoglan | [Read More](https://medium.com/p/e6c6609a86fc) |
 | Sun, 18 May 2025 16:56:23 GMT | Detecting Web Attacks (XSS) | Fatimahasan | [Read More](https://medium.com/p/4bc6039ef635) |
 | Sun, 18 May 2025 16:50:29 GMT | Protect Your Identity | Mehran Khan | [Read More](https://medium.com/p/76ee7eb1c94e) |
-| Sun, 18 May 2025 16:48:12 GMT | Injection | Ali Karaoglan | [Read More](https://medium.com/p/a88d554177ae) |
-| Sun, 18 May 2025 16:42:41 GMT | Interoperability in CPS: Bridging the Digital and Physical Worlds with AI Cybersecurity | Data Defendere | [Read More](https://medium.com/p/1f49696dbbae) |
-| Sun, 18 May 2025 16:42:31 GMT | Broken Access Control | Ali Karaoglan | [Read More](https://medium.com/p/d3fddc4f7c99) |
-| Sun, 18 May 2025 16:41:45 GMT | Don’t make fun of cyber extortion crimes | A.MohamedWassim | [Read More](https://medium.com/p/458976e022ee) |
-| Sun, 18 May 2025 16:40:29 GMT | HackTheBox - Backdoor | jniket | [Read More](https://medium.com/p/5149236dbd95) |
-| Sun, 18 May 2025 16:38:22 GMT | DriftingBlues6 Walkthrough | Ancava | [Read More](https://medium.com/p/b011b37e7ac8) |
-| Sun, 18 May 2025 16:31:30 GMT | 0x00 初探香港 Cybersecurity 行業隨筆 | cousin007 | [Read More](https://medium.com/p/c5df08e45d13) |
-| Sun, 18 May 2025 16:30:44 GMT | TryHackMe — Volt Typhoon Challenge — Walkthrough | Whitelligence | [Read More](https://medium.com/p/f72a8567a6f5) |
-| Sun, 18 May 2025 16:30:03 GMT | Why has the Central Asian Countries’ stance on Taliban been changed now? | Firdavs Azimqulov | [Read More](https://medium.com/p/ac4285b48f9d) |
-| Sun, 18 May 2025 16:28:27 GMT | IS AI A GOOD TUTOR? | Intellectual-youth | [Read More](https://medium.com/p/08393dd41895) |
-| Sun, 18 May 2025 16:20:11 GMT | CERTIFICATIONS THAT ARE REQUIRED IN CYBERSECURITY | Articalgeek | [Read More](https://medium.com/p/ac987d3eed70) |
-| Sun, 18 May 2025 16:08:49 GMT | Beyond Firewalls: What True End-to-End Cybersecurity Looks Like Today | NetObjex | [Read More](https://medium.com/p/0a0281a63b09) |
-| Sun, 18 May 2025 16:08:01 GMT | ️ Top 20 Interview Questions Every Cybersecurity & Pentesting Candidate Must Prepare (2025… | Vipul Sonule | [Read More](https://medium.com/p/8cf626249a56) |
-| Sun, 18 May 2025 16:06:15 GMT | Top 5 Signs of a Cryptocurrency or Investment Scam — And How to Recover Your Money | Geniusrestore | [Read More](https://medium.com/p/04ab83d5f05c) |
-| Sun, 18 May 2025 16:05:29 GMT | The Five Tech Careers Dominating 2025: Insights From 30 Years in the Trenches | Ibrahim Sajid Malick | [Read More](https://medium.com/p/1ca7f47f4932) |
-| Sun, 18 May 2025 16:04:19 GMT | Bandits with Badges: The Silent Crime That Tried to Break Me | Sally Lebron | [Read More](https://medium.com/p/2ffc4c30339c) |
-| Sun, 18 May 2025 16:01:07 GMT | Lab: Exploiting a mass assignment vulnerability | Mukilan Baskaran | [Read More](https://medium.com/p/c7c68b9f7f1b) |
