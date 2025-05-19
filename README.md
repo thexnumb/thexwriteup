@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 09:22:29 GMT | When “Special” Hurt More Than It Healed | Ayesha Gohar | [Read More](https://medium.com/p/55fba7b62346) |
+| Mon, 19 May 2025 09:16:51 GMT | Sécuriser une application web avec AWS Cognito pour l’authentification | Merdi Lukongo | [Read More](https://medium.com/p/57c397e15586) |
+| Mon, 19 May 2025 09:16:18 GMT | Future of War - AI Warfare: Navigating the Ethical and Strategic Frontier | Digital_Solution | [Read More](https://medium.com/p/7d851a8ea5f5) |
+| Mon, 19 May 2025 09:16:11 GMT | Template Trouble: How I Exploited a Logic Bug in a Templating Engine for RCE | Iski | [Read More](https://medium.com/p/0f691b9f7102) |
+| Mon, 19 May 2025 09:15:29 GMT | EUVD : l’Europe lance sa base de vulnérabilités pour renforcer sa cybersécurité | Marc Barbezat | [Read More](https://medium.com/p/905a4eac4f99) |
+| Mon, 19 May 2025 09:13:08 GMT | How Microsoft 365 Copilot Processes Prompts Securely and Intelligently | Lisandro de Cuba | [Read More](https://medium.com/p/6eec6525b10d) |
+| Mon, 19 May 2025 09:11:17 GMT | $4,500 Bounty: SQL Injection in WordPress Plugin Leads to PII Exposure at Grab | Monika sharma | [Read More](https://medium.com/p/7c26aa7beff6) |
+| Mon, 19 May 2025 09:09:22 GMT | The Salesperson and the Firewall: Why Soft Skills Are the Hardest Layer of Cybersecurity | Rejoy Radhakrishnan | [Read More](https://medium.com/p/68d24711c131) |
+| Mon, 19 May 2025 09:09:03 GMT | $20,000 Bounty: How a Leaked Session Cookie Led to Account Takeover on HackerOne | Monika sharma | [Read More](https://medium.com/p/4a805cb892f9) |
+| Mon, 19 May 2025 09:08:29 GMT | Strengthening Web service security with Apache2: Best practices for 2025 | Roman Huliak | [Read More](https://medium.com/p/32cb57eb7fd2) |
+| Mon, 19 May 2025 09:06:05 GMT | GuideM Ethical Hacking: Vulnerability Asessment & Penetration Testing Course | Martin L | [Read More](https://medium.com/p/4258bc4b70c4) |
+| Mon, 19 May 2025 09:06:01 GMT | Introducing Profiler: The Best and Most Affordable OSINT Platform | Dheeraj Yadav | [Read More](https://medium.com/p/d265e19d7fad) |
+| Mon, 19 May 2025 08:55:09 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/e6c6d50c90f1) |
+| Mon, 19 May 2025 08:53:01 GMT | SSRF:— The Sneaky Server Trick You Need to Know | SACHIN PV | [Read More](https://medium.com/p/9a9f36c53819) |
+| Mon, 19 May 2025 08:51:09 GMT | I became a victim on the Dark Web at 13… | Padrino Oraèmorto | [Read More](https://medium.com/p/00f13d37f46c) |
+| Mon, 19 May 2025 08:47:01 GMT | Hackers just hit Binance & Kraken with the same phishing playbook that cost Coinbase users $48M in… | CoinGen | [Read More](https://medium.com/p/c7a300c6bff3) |
+| Mon, 19 May 2025 08:42:53 GMT | FUTURE ARTIFICIAL INTELLIGENCE BASED AUTONOMOUS WAR …(PART 3)… | Akhelesh Bhargava | [Read More](https://medium.com/p/89ea3ef2d44c) |
+| Mon, 19 May 2025 08:42:26 GMT | Linux ve Windows Temelleri | Muhammed Kaya | [Read More](https://medium.com/p/2a632b72e1c8) |
+| Mon, 19 May 2025 08:40:11 GMT | Why I Quit Chasing The Cyber Security Dream | Motasem Hamdan | [Read More](https://medium.com/p/c7f05672b28b) |
+| Mon, 19 May 2025 08:36:29 GMT | AI Got Regulated: ISO 42001 — Future of AI Compliance & Risk Management | CFE CERTIFICATION | [Read More](https://medium.com/p/89e31b813428) |
 | Mon, 19 May 2025 08:25:28 GMT | ️ Public Document, But Not Meant for You: Info Leak at blm.gov | FufuFafa | [Read More](https://medium.com/p/2a482417be3c) |
 | Mon, 19 May 2025 08:22:41 GMT | Hiranandani Group | VSOCBOX.COM | [Read More](https://medium.com/p/f5f1b7ef72fb) |
 | Mon, 19 May 2025 08:10:30 GMT | Top Mobile Security Threats To Watch For In Late 2025 | Shoaib Ahmed | [Read More](https://medium.com/p/3d16a737f9ea) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 02:54:37 GMT | How to Prevent and Respond to Website Hacks: Tips for Keeping Your Site Safe | Adams Hong Kong | [Read More](https://medium.com/p/25c8f89a6f14) |
 | Mon, 19 May 2025 02:52:41 GMT | Risk and Compliance Management: Navigating the Complex Landscape of Business Operations | Karthikeyan Nagaraj | [Read More](https://medium.com/p/748a0b512ebc) |
 | Mon, 19 May 2025 02:50:35 GMT | LAMIS: A Cybersecurity System Developed by Indonesian Youth Prepared to Tackle Digital Threats | Achmad Aris Setiawan | [Read More](https://medium.com/p/957fb518a0ce) |
-| Mon, 19 May 2025 02:45:48 GMT | Linux Security Playbook 2025: disk Group Dangers Exposed | Aleksei Aleinikov | [Read More](https://medium.com/p/068a764f4771) |
-| Mon, 19 May 2025 02:44:37 GMT | Refactoring 028 — Replace Consecutive IDs with Dark Keys | Maximiliano Contieri | [Read More](https://medium.com/p/be4c0857ec71) |
-| Mon, 19 May 2025 02:27:36 GMT | (TRADINT) Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/b810e5ca304e) |
-| Mon, 19 May 2025 02:20:33 GMT | OT Budgets + AI Threats + Expanding Attack Surface = A Cybersecurity Crossroads | NaveeeN Chendra | [Read More](https://medium.com/p/0f647f95efcf) |
-| Mon, 19 May 2025 02:12:12 GMT | Building My First Web Recon Tool in kali linux | Amina Akai | [Read More](https://medium.com/p/e22f6a91858a) |
-| Mon, 19 May 2025 02:06:03 GMT | Securing AI with Zero-Knowledge Proofs: How ExpandZK Enables Trustless Data Authentication | Andiee | [Read More](https://medium.com/p/6844203511db) |
-| Mon, 19 May 2025 01:53:59 GMT | SOC210 — Possible Brute Force Detected on VPN | Harshprajapati | [Read More](https://medium.com/p/38d9f3e3edf2) |
-| Mon, 19 May 2025 01:31:28 GMT | Footprinting a Target using OSRFramework | Maleesha Rathnayaka | [Read More](https://medium.com/p/0e59eff8d373) |
-| Mon, 19 May 2025 01:29:36 GMT | The Gig Economy’s Hidden Exploit: Identity Rental in Delivery Apps | Internet Exposed | [Read More](https://medium.com/p/fba96b31a2d3) |
-| Mon, 19 May 2025 01:22:24 GMT | Dynamic Malware Analysis Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/4b22e2cad8c4) |
-| Mon, 19 May 2025 01:17:22 GMT | Cyberworld Series: OWASP Overview | Cyberworld | [Read More](https://medium.com/p/31cc4acc0739) |
-| Mon, 19 May 2025 01:01:16 GMT | Privasi pada Mobile Devices and Internet of Things (IoT) | Hendarwan Suryandaru | [Read More](https://medium.com/p/fda8514809fa) |
-| Mon, 19 May 2025 01:00:50 GMT | Linux Primer | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/0d145ce71486) |
-| Mon, 19 May 2025 00:58:58 GMT | TryHackMe Walkthrough — Blaster | Nicholas Abundis | [Read More](https://medium.com/p/d0d200cc128d) |
-| Mon, 19 May 2025 00:58:32 GMT | One Year Working in Cybersecurity, Here Are My Experiences And Advices. | José Reyes (@Architekt) | [Read More](https://medium.com/p/c33415143d65) |
-| Mon, 19 May 2025 00:58:05 GMT | Cyber Security Exploration In BATAM | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/1016412d4266) |
-| Mon, 19 May 2025 00:47:19 GMT | Personal Initiatives in a Modern Economy | Corinna | [Read More](https://medium.com/p/1cac35ece0d3) |
-| Mon, 19 May 2025 00:40:38 GMT | Building a Secure and Scalable WordPress Infrastructure on AWS (With Terraform) Part One… | Elliott | [Read More](https://medium.com/p/5b442a737af5) |
-| Mon, 19 May 2025 00:26:47 GMT | The Agentic AI Revolution in Cybersecurity: What IT Leaders Need to Know | Ian Loe | [Read More](https://medium.com/p/91de4cbb26db) |
-| Mon, 19 May 2025 00:09:15 GMT | What Hacking Taught Me About Building Ethical Startups | Ronit Yadav | [Read More](https://medium.com/p/b8683c5637af) |
