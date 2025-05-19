@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 11:20:11 GMT | MCP servers and security risks — what you need to know | Ben Ratcliffe | [Read More](https://medium.com/p/c5b17ad9f609) |
+| Mon, 19 May 2025 11:20:01 GMT | How to Evaluate a Cybersecurity Candidate Beyond the Resume? | CyberTalents | [Read More](https://medium.com/p/ef256e92dae9) |
 | Mon, 19 May 2025 11:11:42 GMT | Getting Started with Fuzzing: What It Is and Why It Matters | Natarajan C K | [Read More](https://medium.com/p/5dc4a5fc88ee) |
 | Mon, 19 May 2025 11:10:03 GMT | Understanding Server-Side Request Forgery, Real-World Exploits, and How to Secure Your Web… | Nishanthan | [Read More](https://medium.com/p/2f2590380db5) |
 | Mon, 19 May 2025 10:56:30 GMT | Hijacking Sessions with postMessage: The Silent DOM XSS Threat | Dipesh Paul | [Read More](https://medium.com/p/41a8a59dd9b4) |
@@ -112,5 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 05:56:29 GMT | Traditional Concept of Security and Non-Traditional Concept of Security: Its Significance and… | Hafsa Shaikh | [Read More](https://medium.com/p/3038a21f3b92) |
 | Mon, 19 May 2025 05:51:43 GMT | Mobile App Pentesting — Part 2: Setting Up Your Pentest Lab | Tanzeem Khatri | [Read More](https://medium.com/p/7a2dfeb2c2a0) |
 | Mon, 19 May 2025 05:45:02 GMT | Handling Image Uploads in Node.js: How I Combined Multer and Cloudinary for Efficient File Uploads | Ujjwol Shrestha | [Read More](https://medium.com/p/c6b559a95a6c) |
-| Mon, 19 May 2025 05:36:28 GMT | The Daily Tech Digest: 19 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/21d72a9e619b) |
-| Mon, 19 May 2025 05:30:58 GMT | Next-Gen Cybersecurity Solutions for a Changing World | Gauravinsightss | [Read More](https://medium.com/p/f80557e3cbc2) |
