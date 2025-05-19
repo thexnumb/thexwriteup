@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 07:19:34 GMT | What is SOC 2 Compliance? | Dhanush N | [Read More](https://medium.com/p/0187b02a714c) |
+| Mon, 19 May 2025 07:19:23 GMT | Google phases out cookie prompt in chrome and adds IP protection to incognito mode | hide.me VPN | [Read More](https://medium.com/p/280f1e5c5d05) |
+| Mon, 19 May 2025 07:17:02 GMT | Google’s AI-driven ad safety measures lead to record enforcement actions in 2024. | hide.me VPN | [Read More](https://medium.com/p/ea5231d87189) |
+| Mon, 19 May 2025 07:10:31 GMT | 5 BCDR Essentials to Outsmart Ransomware in 2025 ️ | Ismail Tasdelen | [Read More](https://medium.com/p/dcea5077203e) |
+| Mon, 19 May 2025 07:10:24 GMT | What is Endpoint Detection and Response? | InfosecTrain | [Read More](https://medium.com/p/5da698c70c32) |
+| Mon, 19 May 2025 07:10:20 GMT | emotional intelligence is the new sixpack | Katia | [Read More](https://medium.com/p/9dce75aca308) |
+| Mon, 19 May 2025 07:03:56 GMT | SIEM EPS Explained: What It Means and Why You Should Care | Bl@ckC!pH3r | [Read More](https://medium.com/p/f5b4970cce3f) |
+| Mon, 19 May 2025 07:02:28 GMT | Understanding Kerberos and Kerberoasting. With a sheet cheat | Mohammad Suleiman | [Read More](https://medium.com/p/32d1e5ad4e6b) |
+| Mon, 19 May 2025 06:58:08 GMT | Vulnerability Analysis using Nikto(0 | Rishav anand | [Read More](https://medium.com/p/4cb6745f8932) |
+| Mon, 19 May 2025 06:51:02 GMT | How to Choose the Right ISO 27001 Implementation Partner? | Ahad me | [Read More](https://medium.com/p/68ce6010aad6) |
+| Mon, 19 May 2025 06:45:07 GMT | Top 5 Cyber ​​Security Career You can continue after completing a cyber security course in Kochi | Yadhukrishnaej | [Read More](https://medium.com/p/5092beaf608e) |
+| Mon, 19 May 2025 06:42:52 GMT | Cybernous: Empowering the Next Generation of Cybersecurity Leaders | Cybernous Infosec consulting | [Read More](https://medium.com/p/9c00f50fdd1c) |
+| Mon, 19 May 2025 06:38:36 GMT | Unleash Python for Deeper Web App Recon: Automating Sublist3r & AltDNS Like a Pro | jensbecker-dev | [Read More](https://medium.com/p/93509a0a4dc3) |
 | Mon, 19 May 2025 06:17:32 GMT | Pakistan’s Nuclear Doctrine | Hafsa Shaikh | [Read More](https://medium.com/p/4663d9e5f421) |
 | Mon, 19 May 2025 06:13:38 GMT | SQL Injection 101: How a Simple Mistake Can Open the Door to Your Database | bithowl | [Read More](https://medium.com/p/b5dda9eeb5ec) |
 | Mon, 19 May 2025 06:13:31 GMT | Optimizing Cost Management: Leveraging Resource Tagging and Mondoo Policies | Infralovers GmbH | [Read More](https://medium.com/p/875fb5df01f5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 21:44:54 GMT | Cybersecurity Is Foreign Policy — The Government Just Hasn’t Noticed | Brad Tenenholtz | [Read More](https://medium.com/p/c65efb0cf286) |
 | Sun, 18 May 2025 21:44:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/b1026c0bf63c) |
 | Sun, 18 May 2025 21:44:01 GMT | Active Directory / The Backbone of User Management | Omar El Saadawy | [Read More](https://medium.com/p/7695a3df7d3f) |
-| Sun, 18 May 2025 21:43:51 GMT | Ignore Previous Instructions: CackalackyCon Recap | David Campbell | [Read More](https://medium.com/p/02403433a70e) |
-| Sun, 18 May 2025 21:38:10 GMT | We’re just trying to keep our privacy, not trying to be cool! | Senjaputrasndr | [Read More](https://medium.com/p/47fcc8f838ba) |
-| Sun, 18 May 2025 21:30:25 GMT | Terraform + Huawei Cloud: A Practical Guide to Multi-VPC and Secure ECS Configuration | Şule Parlat | [Read More](https://medium.com/p/072541125aa1) |
-| Sun, 18 May 2025 21:20:21 GMT | Hacking APIs : Nuclei for REST/API Penetration Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/0b11bbd2eed5) |
-| Sun, 18 May 2025 21:19:14 GMT | Why Your Password Security Probably Sucks | Sara Garcia | [Read More](https://medium.com/p/7a276858720c) |
-| Sun, 18 May 2025 21:17:15 GMT | AI Driven WAFs | Rye Overly | [Read More](https://medium.com/p/daf5138ccc34) |
-| Sun, 18 May 2025 21:06:36 GMT | ️Web3 Security Weekly — May 12–18, 2025 | Null Return | [Read More](https://medium.com/p/f67c7ba7370c) |
-| Sun, 18 May 2025 21:04:57 GMT | ️ Web Scraping 2025: Extracting Data Without Extracting Trouble | AIAlchemist_Ab1r | [Read More](https://medium.com/p/e1886d4c11b6) |
-| Sun, 18 May 2025 21:01:37 GMT | The Great Hack: How Your Data Was Stolen and What to Do About It | TechTopia | [Read More](https://medium.com/p/5aebba94d191) |
-| Sun, 18 May 2025 20:56:49 GMT | 5G AKA Procedure | Shubham Kumar | [Read More](https://medium.com/p/4d470c9c3cca) |
-| Sun, 18 May 2025 20:53:27 GMT | CSWSH (Cross-Site WebSocket Hijacking) Nedir ? | mel4mi | [Read More](https://medium.com/p/ca30c7e6ca4a) |
-| Sun, 18 May 2025 20:41:55 GMT | Protection That Works Because It’s Been Tested | Zika Rakita | [Read More](https://medium.com/p/6b485a0cb15f) |
-| Sun, 18 May 2025 20:35:24 GMT | The Secure One | MP | [Read More](https://medium.com/p/2623b954c030) |
