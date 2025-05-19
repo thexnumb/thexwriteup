@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 10:21:42 GMT | The #1 Reason Your Company Keeps Getting Hacked | The New World - Stefan Queda | [Read More](https://medium.com/p/94f53840a8ef) |
+| Mon, 19 May 2025 10:21:33 GMT | We’re an AI-driven mobile and web development company that helps transform ideas from napkin sketch | Businessmeeting | [Read More](https://medium.com/p/6fd795df81be) |
+| Mon, 19 May 2025 10:15:41 GMT | Cyber Security Course in India with Certification: What Do Recruiters Want | Reshma Rajagopalan p | [Read More](https://medium.com/p/a3959c0c3812) |
+| Mon, 19 May 2025 10:08:02 GMT | Command Injection: Filter Evasion | Onur Bilici | [Read More](https://medium.com/p/69facd990fda) |
+| Mon, 19 May 2025 10:08:00 GMT | Moldovan Police Arrest Suspect in $45M Cryptocurrency Laundering Case Tied to Darknet Markets | CyBlog | [Read More](https://medium.com/p/fb63d508fd95) |
+| Mon, 19 May 2025 10:03:58 GMT | Install istio in your Kubernetes cluster | Think, Write, Repeat | [Read More](https://medium.com/p/3fba1f249213) |
+| Mon, 19 May 2025 10:02:44 GMT | How AI and Automation Are Transforming VAPT Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/03b4f860b226) |
+| Mon, 19 May 2025 10:02:39 GMT | You’re Already a Target (Even If You Don’t Think You | Solo Recon | [Read More](https://medium.com/p/2b22092a6f9a) |
+| Mon, 19 May 2025 10:01:30 GMT | Cyber Manifesto — For a new, systemic future security | Matthias | [Read More](https://medium.com/p/9488150f0a81) |
+| Mon, 19 May 2025 10:01:04 GMT | Beyond Passwords: Fortifying Your Defenses with Next-Gen Multi-Factor Authentication (MFA) | Omex Oleksandr | [Read More](https://medium.com/p/d0fe4c903f8a) |
+| Mon, 19 May 2025 09:57:10 GMT | THE FIVE V’s OF PERSONAL DATA PROTECTION | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/8e53c8dff3f3) |
+| Mon, 19 May 2025 09:51:30 GMT | My Beginner Journey Into Reconnaissance Tools in Cybersecurity | Thamanna A | [Read More](https://medium.com/p/90e6a4bf63fd) |
+| Mon, 19 May 2025 09:49:29 GMT | will i ever make my lemonade sweeter? | letters from j | [Read More](https://medium.com/p/3ad9de015eb5) |
+| Mon, 19 May 2025 09:39:57 GMT | Cracked Passwords? These Books Fix That | Ahmad Javed | [Read More](https://medium.com/p/df94ef85f6ca) |
 | Mon, 19 May 2025 09:28:45 GMT | Adorasoft: Building Digital Tools as Unique as Your Business | Adorasoft | [Read More](https://medium.com/p/f2ab179995da) |
 | Mon, 19 May 2025 09:26:53 GMT | Cyber attacck of Crypto companies CEO | Business corner media - exclusive insights | [Read More](https://medium.com/p/a47d1c469909) |
 | Mon, 19 May 2025 09:22:29 GMT | When “Special” Hurt More Than It Healed | Ayesha Gohar | [Read More](https://medium.com/p/55fba7b62346) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 04:25:30 GMT | Inside the World of APT28 (Fancy Bear) | Sidhantchaurasiya | [Read More](https://medium.com/p/95f9366f62ef) |
 | Mon, 19 May 2025 04:19:08 GMT | How blockchain changes the creation of mobile apps: | Shanzy | [Read More](https://medium.com/p/0f4162cc44e1) |
 | Mon, 19 May 2025 04:19:04 GMT | Protecting Corporate Secrets from Profiteers Is a Strategic Necessity | Revathimsr | [Read More](https://medium.com/p/57f10c22c8bc) |
-| Mon, 19 May 2025 04:14:33 GMT | Protecting Patient Data: Managed IT Services in Brisbane for Healthcare Sector | Vandros | [Read More](https://medium.com/p/faf23721ea28) |
-| Mon, 19 May 2025 04:12:11 GMT | Vendor Management: Ultimate Guide To Secure The Best Bargain | HostNOC | [Read More](https://medium.com/p/7db2c212f530) |
-| Mon, 19 May 2025 03:59:54 GMT | cyber security video | Muhammad Rafi Athallah | [Read More](https://medium.com/p/7cdaa415c506) |
-| Mon, 19 May 2025 03:58:21 GMT | Cybersecurity101: Introduction to Penetration Testing for Beginners. | Kheyraldhs | [Read More](https://medium.com/p/1f33910825d4) |
-| Mon, 19 May 2025 03:53:34 GMT | How to Legally and Discreetly Investigate a Cheating Partner in the Digital Age. | Private-hackers.com | [Read More](https://medium.com/p/12cf5a35a823) |
-| Mon, 19 May 2025 03:32:32 GMT | Behind the Claim: Did Clop Ransomware Really Breach Sam’s Club? | Deven Chhajed | [Read More](https://medium.com/p/aa69ebac3ed7) |
-| Mon, 19 May 2025 03:14:09 GMT | How to make good money with Bug Bounty: A beginner’s guide | Roman Huliak | [Read More](https://medium.com/p/0c91e9198f2b) |
-| Mon, 19 May 2025 03:14:06 GMT | $2,480 Bounty: How a Race Condition in curl’s fopen() Led to Cookie Theft and File Overwrites | Monika sharma | [Read More](https://medium.com/p/1bdaab1a584c) |
-| Mon, 19 May 2025 03:12:40 GMT | If You’re Broke, You Can’t Hide It. You Can Tell Right Away. | Lilyana | [Read More](https://medium.com/p/638db42ad753) |
-| Mon, 19 May 2025 03:10:33 GMT | How a 14-Person Business Got Hijacked by a Smiling AI Assistant | Noel | [Read More](https://medium.com/p/ff2f631b71f9) |
-| Mon, 19 May 2025 03:03:51 GMT | Log analysis: A strategic guide to cyber defense | Daouda Diallo | [Read More](https://medium.com/p/933fad5de679) |
-| Mon, 19 May 2025 03:00:21 GMT | DISCO 1 — PicoCTF WriteUp | Musthofa Kamaluddin | [Read More](https://medium.com/p/49357abf41ae) |
-| Mon, 19 May 2025 03:00:11 GMT | I do not keep friends that close. | Harrisonstacey | [Read More](https://medium.com/p/2a0e1600b8ee) |
-| Mon, 19 May 2025 02:54:37 GMT | How to Prevent and Respond to Website Hacks: Tips for Keeping Your Site Safe | Adams Hong Kong | [Read More](https://medium.com/p/25c8f89a6f14) |
