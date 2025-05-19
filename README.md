@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 11:11:42 GMT | Getting Started with Fuzzing: What It Is and Why It Matters | Natarajan C K | [Read More](https://medium.com/p/5dc4a5fc88ee) |
+| Mon, 19 May 2025 11:10:03 GMT | Understanding Server-Side Request Forgery, Real-World Exploits, and How to Secure Your Web… | Nishanthan | [Read More](https://medium.com/p/2f2590380db5) |
+| Mon, 19 May 2025 10:56:30 GMT | Hijacking Sessions with postMessage: The Silent DOM XSS Threat | Dipesh Paul | [Read More](https://medium.com/p/41a8a59dd9b4) |
+| Mon, 19 May 2025 10:45:35 GMT | The Quiet Rooms | Akeredolu Esther Oyindamola | [Read More](https://medium.com/p/95dbd3420fc9) |
+| Mon, 19 May 2025 10:43:22 GMT | Bulls and Wolves: Inside the Coinbase Breach That Shook Crypto Mid-Rally | Brunobega | [Read More](https://medium.com/p/afe505c7c813) |
 | Mon, 19 May 2025 10:43:10 GMT | Exploiting CVE-2025–29927 in Next.js Middleware | Vikram | [Read More](https://medium.com/p/23d6676ca619) |
 | Mon, 19 May 2025 10:43:08 GMT | When He Loses His Erection Inside You: What It Really Means for Your Relationship | Megan Zesi | [Read More](https://medium.com/p/5b26657a9624) |
 | Mon, 19 May 2025 10:36:45 GMT | HITRUST vs. HIPAA? Choosing the Right Compliance Framework for Your Organization | Ampcus Cyber | [Read More](https://medium.com/p/24dbdc12d640) |
@@ -109,8 +114,3 @@ and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.c
 | Mon, 19 May 2025 05:45:02 GMT | Handling Image Uploads in Node.js: How I Combined Multer and Cloudinary for Efficient File Uploads | Ujjwol Shrestha | [Read More](https://medium.com/p/c6b559a95a6c) |
 | Mon, 19 May 2025 05:36:28 GMT | The Daily Tech Digest: 19 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/21d72a9e619b) |
 | Mon, 19 May 2025 05:30:58 GMT | Next-Gen Cybersecurity Solutions for a Changing World | Gauravinsightss | [Read More](https://medium.com/p/f80557e3cbc2) |
-| Mon, 19 May 2025 05:29:45 GMT | Mastering Cybersecurity in 2025: The Ultimate Guide to Digital Protection | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/7ac2e7fef13f) |
-| Mon, 19 May 2025 05:22:36 GMT | Top 6 Cybersecurity Companies Leading the Charge in 2025 | Kashif Imran | [Read More](https://medium.com/p/ff991b14f6ce) |
-| Mon, 19 May 2025 05:21:28 GMT | Fortinet FortiAnalyzer: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e7fae6c1fdbf) |
-| Mon, 19 May 2025 05:13:35 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/bf1f92e76741) |
-| Mon, 19 May 2025 05:07:10 GMT | BotBuster: Bot Detection in the Browser Without CAPTCHAs | Jorge Olaf Erlandsen | [Read More](https://medium.com/p/44999757614e) |
