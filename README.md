@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 22:37:24 GMT | Rabbit Store - TryHackMe Medium | Error | [Read More](https://medium.com/p/f9f5069fbb50) |
+| Mon, 19 May 2025 22:28:18 GMT | What Software Invariants Are and Why They Matter | sudo | [Read More](https://medium.com/p/12afe0549b95) |
+| Mon, 19 May 2025 22:25:58 GMT | When Your Friend Thinks You’re a Real Hacker: Navigating Misconceptions and Promoting Digital… | Giovanne | [Read More](https://medium.com/p/2dc6e5329836) |
 | Mon, 19 May 2025 22:17:49 GMT | Database Penetration. | Private-hackers.com | [Read More](https://medium.com/p/dd3f10164436) |
+| Mon, 19 May 2025 22:16:35 GMT | Understanding Network Architecture: The Backbone of Modern Communication | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e4fac2078187) |
 | Mon, 19 May 2025 21:59:26 GMT | Don’t Make the Mistakes I Made Early in My Career: Why Buy-In Matters More Than the Tech | Luispuello | [Read More](https://medium.com/p/58d452aea823) |
 | Mon, 19 May 2025 21:49:00 GMT | NVIDIA Expands Quantum and AI Ecosystem in Taiwan Through Strategic Partnerships and Supercomputing… | QuantumGenie | [Read More](https://medium.com/p/7f2572c3c71e) |
 | Mon, 19 May 2025 21:33:05 GMT | Top 10 AI Security Video — May | Tal Eliyahu | [Read More](https://medium.com/p/24ff3c6dadd9) |
@@ -109,7 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 16:08:56 GMT | Reading DPAPI Protected Blobs | Tom O'Neill | [Read More](https://medium.com/p/1ed9b4832cf6) |
 | Mon, 19 May 2025 16:06:29 GMT | Cracking HF2019: From Scan to Root | Bhanu Chaitanya Vallipalli | [Read More](https://medium.com/p/6993f9c0541b) |
 | Mon, 19 May 2025 16:05:45 GMT | What Did Viking Kids Use to Entertain Themselves? | Savvy Cyber Kids | [Read More](https://medium.com/p/3a0e8a034822) |
-| Mon, 19 May 2025 16:05:45 GMT | Here’s how i recover my money from bullmarkets review | Pamela Wells | [Read More](https://medium.com/p/db47d871aee6) |
-| Mon, 19 May 2025 16:03:31 GMT | Risks Overlooked in the Rush to Implement AI | Bruno Agostinho | [Read More](https://medium.com/p/465fe8851f7c) |
-| Mon, 19 May 2025 16:03:08 GMT | Coding Secure Banking Apps with Java | Vaibhav Pasrija | [Read More](https://medium.com/p/8730cbe59e4f) |
-| Mon, 19 May 2025 15:55:23 GMT | Why DevOps Needs Security: Embracing the DevSecOps Mindset | Ruwin Ratnayake | [Read More](https://medium.com/p/f0f6cef82f21) |
