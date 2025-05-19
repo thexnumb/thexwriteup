@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 18:26:55 GMT | 100 Followers Special: How I Hacked Netflix? - Bug Bounty Tour #2 (Reupload) | NnFace | [Read More](https://medium.com/p/caa59cf41af1) |
+| Mon, 19 May 2025 18:23:32 GMT | Hall of Fame in University of Nebraska | AbhirupKonwar | [Read More](https://medium.com/p/cd6bd8f634e2) |
+| Mon, 19 May 2025 18:18:46 GMT | How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover | Ahmed Ashraf Shora | [Read More](https://medium.com/p/d84f6cf8c169) |
+| Mon, 19 May 2025 18:13:20 GMT | When AIs Break the Script: How Prompt Tampering Reveals a Governance Vacuum | Njabulo Brighton Chitsiko | [Read More](https://medium.com/p/c4e830ffe83f) |
+| Mon, 19 May 2025 18:11:53 GMT | The Future of Software Isn’t Automation, It’s Discovery | Arpan Agarwal | [Read More](https://medium.com/p/56da73a8284a) |
+| Mon, 19 May 2025 18:11:32 GMT | Debugging My Mind: Ek Programmer ki Kahani | Jaya Vishwakarma | [Read More](https://medium.com/p/c168004b4d5e) |
+| Mon, 19 May 2025 18:04:44 GMT | ️ Climbing the Wazuh Mountain: Building My Own SIEM Lab from Scratch | Manish Rawat | [Read More](https://medium.com/p/34ee9beeb3b0) |
+| Mon, 19 May 2025 18:04:13 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 45 | Cyber Strategy Institute | [Read More](https://medium.com/p/cabaf1f4bfc7) |
+| Mon, 19 May 2025 18:03:45 GMT | DeepSeek Cyber Attack: Timeline, Impact, and Lessons Learned | Xaltius | [Read More](https://medium.com/p/16451806b438) |
+| Mon, 19 May 2025 18:02:59 GMT | Exciting Cybersecurity Careers That Don’t Require Coding | Dhanush N | [Read More](https://medium.com/p/9e22ac87cc5f) |
+| Mon, 19 May 2025 18:02:37 GMT | To Love Without a Parachute | ‘oranma | [Read More](https://medium.com/p/18c90d4b78e7) |
+| Mon, 19 May 2025 18:00:48 GMT | The Most In-Demand Cybersecurity Skills Students Should Learn | Xaltius | [Read More](https://medium.com/p/c9d6ef5ab1b3) |
+| Mon, 19 May 2025 17:57:04 GMT | Secure Email Gateway: Essential Protection for Business Communications | Xaltius | [Read More](https://medium.com/p/06861898c0de) |
+| Mon, 19 May 2025 17:55:07 GMT | Project Discovery, Tomnomnom Tools and Go Programming all in one script auto installer for Bug… | Babar Ali Jamali | [Read More](https://medium.com/p/871befe3df2e) |
+| Mon, 19 May 2025 17:51:39 GMT | New to LFI? Here’s How to Get It | LFI | [Read More](https://medium.com/p/8b5070ddde24) |
+| Mon, 19 May 2025 17:51:05 GMT | Why Your Instagram ‘Password Reset’ Email Might Be a Trap | Ahmad Javed | [Read More](https://medium.com/p/e6ec45d1ef39) |
 | Mon, 19 May 2025 17:32:59 GMT | How Canaries Stop Prompt Injection Attacks | Tomer Wetzler | [Read More](https://medium.com/p/fdf1a6b00c27) |
 | Mon, 19 May 2025 17:31:44 GMT | ️ SpiderFoot: The OSINT Powerhouse Every Ethical Hacker Should Master | Chintala Taraka Ram | [Read More](https://medium.com/p/5ef417ffb5bc) |
 | Mon, 19 May 2025 17:27:07 GMT | NotPetya: The Cyberweapon That Shook the World | Ahmad Javed | [Read More](https://medium.com/p/4cdf41ff0bf3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 13:16:15 GMT | CyberDefender: “The Crime Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/7ce25eee95f7) |
 | Mon, 19 May 2025 13:10:50 GMT | What Every CEO Needs to Know About Cybersecurity (But Most Don’t) | CyberGain | [Read More](https://medium.com/p/2efb7a7ff693) |
 | Mon, 19 May 2025 13:10:32 GMT | Lab Report#13 — Abusing ADCS via NTLM Relaying (ESC8) | Samet Koca | [Read More](https://medium.com/p/336b09a6d24d) |
-| Mon, 19 May 2025 13:07:46 GMT | Top Tech Events & Hackathons for Students in 2025: A Guide for Indian Tech Enthusiasts | Aashi | [Read More](https://medium.com/p/71b231a7e673) |
-| Mon, 19 May 2025 13:06:47 GMT | How Hackers Crack Passwords (And How You Can Outsmart Them Like a Boss) | Vamsi Krishna | [Read More](https://medium.com/p/2feedf9017aa) |
-| Mon, 19 May 2025 13:06:10 GMT | Active Directory Project | Mohammed Walid | [Read More](https://medium.com/p/930bfb2cb062) |
-| Mon, 19 May 2025 13:02:58 GMT | Wireshark doo dooo do doo - Writeup | Marvin | [Read More](https://medium.com/p/694cd440d2ab) |
-| Mon, 19 May 2025 13:01:48 GMT | 2025’s Biggest Cyber Lie: “We’re Safe from Ransomware” | Peris.ai Cybersecurity | [Read More](https://medium.com/p/df68b21c2e75) |
-| Mon, 19 May 2025 13:01:41 GMT | How One Simple Router Trick Made This Home Network Safer and Faster | Mohamad MERHI | [Read More](https://medium.com/p/a894c65f6fe1) |
-| Mon, 19 May 2025 13:01:25 GMT | I will write a 24hour grc analyst, data analyst, cybersecurity, IT, and sales role | Rm | [Read More](https://medium.com/p/3eccff0be4b3) |
-| Mon, 19 May 2025 12:47:07 GMT | How I Discovered an Open Redirect | Ehtesham Ul Haq | [Read More](https://medium.com/p/3b01879b6ebc) |
-| Mon, 19 May 2025 12:44:07 GMT | How to Build and Use Sniper-Style XSS Payloads Like a Pro | Asif Ebrahim | [Read More](https://medium.com/p/abaf24ff2fd2) |
-| Mon, 19 May 2025 12:43:38 GMT | WebSocket Security Pitfalls in Action | zilbon | [Read More](https://medium.com/p/a85706d4d00e) |
-| Mon, 19 May 2025 12:37:44 GMT | Here’s How I Recover My Money Back From Osson Trust Group | Charles  Olvera | [Read More](https://medium.com/p/d4d75aa778fa) |
-| Mon, 19 May 2025 12:32:31 GMT | Secure Telegram Messaging with n8n — Implementing ChatID Access Control for LLM Workflows | Zafer KAHRAMAN | [Read More](https://medium.com/p/dcabdd28208b) |
-| Mon, 19 May 2025 12:30:29 GMT | Osson Trust Group Reviews | Charles  Olvera | [Read More](https://medium.com/p/a6295e5ee7a4) |
-| Mon, 19 May 2025 12:29:37 GMT | ️‍♂️ SecureCorp — Forensics - CyberSpark CTF 2025 | Jhin Sami | [Read More](https://medium.com/p/2985c8968c51) |
-| Mon, 19 May 2025 12:19:32 GMT | Turning Ubuntu into a Powerful Cybersecurity Pentesting Tool | LABRATCYBER | [Read More](https://medium.com/p/3f3e7cbd1603) |
-| Mon, 19 May 2025 12:18:36 GMT | Why You Should Take Up Cybersecurity Online Training at Evision Technoserve? | Evision Technoserve | [Read More](https://medium.com/p/9c160b7f703f) |
