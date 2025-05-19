@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 07:30:52 GMT | TryHackMe: SOC Fundamentals | Pavneet_Singh_ | [Read More](https://medium.com/p/fd228c9a9803) |
+| Mon, 19 May 2025 07:26:48 GMT | “The #1 Privacy Tool Most People Aren’t Using (But Should Be)” | Vexpoltech | [Read More](https://medium.com/p/bbd780951250) |
+| Mon, 19 May 2025 07:24:23 GMT | AI in Threat Detection and Incident Response: A Double-Edged Sword. | Sanjay K Mohindroo | [Read More](https://medium.com/p/fec8b7a9f2c2) |
+| Mon, 19 May 2025 07:24:17 GMT | To Be Loved Without Shrinking | Freya | [Read More](https://medium.com/p/a5a43d4105ed) |
 | Mon, 19 May 2025 07:19:34 GMT | What is SOC 2 Compliance? | Dhanush N | [Read More](https://medium.com/p/0187b02a714c) |
 | Mon, 19 May 2025 07:19:23 GMT | Google phases out cookie prompt in chrome and adds IP protection to incognito mode | hide.me VPN | [Read More](https://medium.com/p/280f1e5c5d05) |
 | Mon, 19 May 2025 07:17:02 GMT | Google’s AI-driven ad safety measures lead to record enforcement actions in 2024. | hide.me VPN | [Read More](https://medium.com/p/ea5231d87189) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 22:04:59 GMT | How to replace a Tile Slim battery | Francesco Mantovani | [Read More](https://medium.com/p/db8aa45f9603) |
 | Sun, 18 May 2025 22:02:53 GMT | HND Computing: Emerging Technologies (for those who are studying HND) | Talal Tanveer | [Read More](https://medium.com/p/62dd8c988bb6) |
 | Sun, 18 May 2025 21:56:32 GMT | Siber güvenlik dünyasında, açık kaynak istihbaratı (OSINT) | Ipek U | [Read More](https://medium.com/p/a7f7bddb1348) |
-| Sun, 18 May 2025 21:51:31 GMT | The 10 Most Common Cybersecurity Mistakes I Keep Seeing in Audits (and How to Fix Them) | Octavian Mihail Romanescu | [Read More](https://medium.com/p/49fc2e52f3ef) |
-| Sun, 18 May 2025 21:44:54 GMT | Cybersecurity Is Foreign Policy — The Government Just Hasn’t Noticed | Brad Tenenholtz | [Read More](https://medium.com/p/c65efb0cf286) |
-| Sun, 18 May 2025 21:44:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/b1026c0bf63c) |
-| Sun, 18 May 2025 21:44:01 GMT | Active Directory / The Backbone of User Management | Omar El Saadawy | [Read More](https://medium.com/p/7695a3df7d3f) |
