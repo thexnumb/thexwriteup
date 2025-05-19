@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 16:17:42 GMT | Risk Is not the Enemy — Misalignment Is | Ricardo Newman | [Read More](https://medium.com/p/28ce0eb31fba) |
+| Mon, 19 May 2025 16:17:36 GMT | 10 Mistakes You Don’t Want to Make While Vibe Coding (But Probably Will) | Sandhya | [Read More](https://medium.com/p/6f547cafe546) |
+| Mon, 19 May 2025 16:15:49 GMT | How to Build a Step-by-Step DORA Compliance Plan | Adam REHAIEM | [Read More](https://medium.com/p/03af6e043a6b) |
+| Mon, 19 May 2025 16:14:42 GMT | Confidential Computing: What It Is and Why It Matters in 2025 | Aaron Mathis | [Read More](https://medium.com/p/0a0567e2bcea) |
+| Mon, 19 May 2025 16:13:32 GMT | Why Harvard’s CS50x is Hands Down The Best Computer Science Course | Ali Sahad | [Read More](https://medium.com/p/7e27e78c9132) |
+| Mon, 19 May 2025 16:12:15 GMT | Zero Trust Tops Cybersecurity Investments in 2025, Why Every Smart Business Is Moving to Zero… | TechDemocracy | [Read More](https://medium.com/p/5234fc9bed8c) |
+| Mon, 19 May 2025 16:09:11 GMT | Inside the Infrastructure of the Internet: How the Web Really Works | Sharjeel AC | [Read More](https://medium.com/p/353f1ee1ea41) |
+| Mon, 19 May 2025 16:08:56 GMT | Reading DPAPI Protected Blobs | Tom O'Neill | [Read More](https://medium.com/p/1ed9b4832cf6) |
+| Mon, 19 May 2025 16:06:29 GMT | Cracking HF2019: From Scan to Root | Bhanu Chaitanya Vallipalli | [Read More](https://medium.com/p/6993f9c0541b) |
+| Mon, 19 May 2025 16:05:45 GMT | What Did Viking Kids Use to Entertain Themselves? | Savvy Cyber Kids | [Read More](https://medium.com/p/3a0e8a034822) |
+| Mon, 19 May 2025 16:05:45 GMT | Here’s how i recover my money from bullmarkets review | Pamela Wells | [Read More](https://medium.com/p/db47d871aee6) |
+| Mon, 19 May 2025 16:03:31 GMT | Risks Overlooked in the Rush to Implement AI | Bruno Agostinho | [Read More](https://medium.com/p/465fe8851f7c) |
+| Mon, 19 May 2025 16:03:08 GMT | Coding Secure Banking Apps with Java | Vaibhav Pasrija | [Read More](https://medium.com/p/8730cbe59e4f) |
+| Mon, 19 May 2025 15:55:23 GMT | Why DevOps Needs Security: Embracing the DevSecOps Mindset | Ruwin Ratnayake | [Read More](https://medium.com/p/f0f6cef82f21) |
+| Mon, 19 May 2025 15:54:59 GMT | Cyber Attack Hits UK Legal Aid Agency, Personal Data Stolen | Cybercrime | [Read More](https://medium.com/p/b717ccc5bef0) |
+| Mon, 19 May 2025 15:49:51 GMT | Phishing Simulation Project: Full Breakdown of My Ethical Awareness Website | Amir Taque Ahmad | [Read More](https://medium.com/p/202b54140c3a) |
 | Mon, 19 May 2025 15:36:29 GMT | What They Know About Me? | chnvy | [Read More](https://medium.com/p/82d94fb5b6b2) |
 | Mon, 19 May 2025 15:27:26 GMT | What Your Employees are Doing That Can Harm Your Company’s Reputation | Savvy Cyber Kids | [Read More](https://medium.com/p/3d06e9479f3c) |
 | Mon, 19 May 2025 15:22:49 GMT | Can You Get Hacked from a QR Code? Here’s the Truth — Tripuramallu Gnaneswar(KIIS I | KLEAP Institute of Information Security | [Read More](https://medium.com/p/e3886db62bec) |
@@ -96,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 10:36:45 GMT | HITRUST vs. HIPAA? Choosing the Right Compliance Framework for Your Organization | Ampcus Cyber | [Read More](https://medium.com/p/24dbdc12d640) |
 | Mon, 19 May 2025 10:36:14 GMT | THE EMERGING TRENDS AND PATTERNS OF TERRORIST THREATS IN INDONESIA | Lathif | [Read More](https://medium.com/p/16fa1bc1ec53) |
 | Mon, 19 May 2025 10:35:59 GMT | What is SD-WAN? | InfosecTrain | [Read More](https://medium.com/p/1bc20b8a53fe) |
-| Mon, 19 May 2025 10:35:09 GMT | Zero-Day Phishing in Microsoft 365: How Attackers Bypass Defender & Safe Links in 2025 | Tanishq gautam | [Read More](https://medium.com/p/1160925c1df4) |
-| Mon, 19 May 2025 10:31:39 GMT | AWS DevOps The Complete Guide to Building a Career in Cloud and Automation | cyberwingITSolution | [Read More](https://medium.com/p/8f8d93836541) |
-| Mon, 19 May 2025 10:30:03 GMT | The Truth About My Bug Bounty Burnout (And the Fix That’s Working) | Vivek PS | [Read More](https://medium.com/p/0f89ef5ec35e) |
-| Mon, 19 May 2025 10:28:25 GMT | “With You”
-Your eyes speak to me — they laugh and smile,
-and yes, they say it all, out loud. | Sylvia Wren | [Read More](https://medium.com/p/5cde98ed1aef) |
-| Mon, 19 May 2025 10:27:36 GMT | The Scam Epidemic Meta Doesn’t Want You to Know About | Karl Buhl | [Read More](https://medium.com/p/5406bf46edfd) |
-| Mon, 19 May 2025 10:27:11 GMT | Chained Chaos: Discovering 6 XSS in a Single Target | Ahmedsamy | [Read More](https://medium.com/p/2e03a0c530ef) |
-| Mon, 19 May 2025 10:26:24 GMT | OSCP vs CEH: Which Ethical Hacking Certification is More Useful and Why? | Vasundhra sharma | [Read More](https://medium.com/p/1fc4d6b12352) |
-| Mon, 19 May 2025 10:23:35 GMT | Legal Aid Agency Hack — A Wake-Up Call for Cybersecurity in Public Institutions | Technijian | [Read More](https://medium.com/p/0a978c2ba7d8) |
-| Mon, 19 May 2025 10:21:42 GMT | The #1 Reason Your Company Keeps Getting Hacked | The New World - Stefan Queda | [Read More](https://medium.com/p/94f53840a8ef) |
-| Mon, 19 May 2025 10:21:33 GMT | We’re an AI-driven mobile and web development company that helps transform ideas from napkin sketch | Businessmeeting | [Read More](https://medium.com/p/6fd795df81be) |
-| Mon, 19 May 2025 10:15:41 GMT | Cyber Security Course in India with Certification: What Do Recruiters Want | Reshma Rajagopalan p | [Read More](https://medium.com/p/a3959c0c3812) |
-| Mon, 19 May 2025 10:08:02 GMT | Command Injection: Filter Evasion | Onur Bilici | [Read More](https://medium.com/p/69facd990fda) |
-| Mon, 19 May 2025 10:08:00 GMT | Moldovan Police Arrest Suspect in $45M Cryptocurrency Laundering Case Tied to Darknet Markets | CyBlog | [Read More](https://medium.com/p/fb63d508fd95) |
-| Mon, 19 May 2025 10:03:58 GMT | Install istio in your Kubernetes cluster | Think, Write, Repeat | [Read More](https://medium.com/p/3fba1f249213) |
-| Mon, 19 May 2025 10:02:44 GMT | How AI and Automation Are Transforming VAPT Services | West Advanced Technologies Inc | [Read More](https://medium.com/p/03b4f860b226) |
-| Mon, 19 May 2025 10:02:39 GMT | You’re Already a Target (Even If You Don’t Think You | Solo Recon | [Read More](https://medium.com/p/2b22092a6f9a) |
