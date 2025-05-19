@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 17:13:53 GMT | Popular Spy Apps Cocospy, Spyic, and Spyzie Shut Down After Major Data Breach | Cybercrime | [Read More](https://medium.com/p/4b3fbdc0245b) |
+| Mon, 19 May 2025 17:12:51 GMT | Rate limit + Improper Deletion Orphaned data vulnerability  gave me $$ | praveenarsh0xx0 | [Read More](https://medium.com/p/91c0e3fc2b90) |
+| Mon, 19 May 2025 17:11:51 GMT | Mobile Application Security: Why Your Favorite App Might Be a Hacker’s Backdoor | SafeAeon Inc. | [Read More](https://medium.com/p/7b874422d343) |
+| Mon, 19 May 2025 17:10:23 GMT | What Is Cyberbullying? | Savvy Cyber Kids | [Read More](https://medium.com/p/be31a3d0dab4) |
+| Mon, 19 May 2025 17:10:01 GMT | Manifesto: Why Identity is the New Center of Gravity in Enterprise Security | David Canellos | [Read More](https://medium.com/p/3d921d38faac) |
+| Mon, 19 May 2025 17:06:03 GMT | The Benefits of Managed Security Services for Small Businesses | Akshay Chauhan | [Read More](https://medium.com/p/465c28f3a043) |
+| Mon, 19 May 2025 17:03:57 GMT | 5 Cybersecurity Red Flags Your Business is Ignoring | Dr. Shashi Karhail | [Read More](https://medium.com/p/e3415e40fccd) |
+| Mon, 19 May 2025 17:02:36 GMT | Analysis - Headway and Headwinds: How the United States is Building Up Its Critical Minerals… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/690a5e0297c7) |
+| Mon, 19 May 2025 17:02:36 GMT | Why Every Modern Business Needs ITIL’s Service Value System (SVS) | Haluan Mohammad Irsad | [Read More](https://medium.com/p/db05e90ee0d5) |
+| Mon, 19 May 2025 17:00:39 GMT | BehindTheScreens: Ransomware Fallout, AI Risks, and Public Sector Breaches | Sam - Behind The Screens | [Read More](https://medium.com/p/05916c03c292) |
+| Mon, 19 May 2025 16:58:33 GMT | All About API Hacking | ghostvirus | [Read More](https://medium.com/p/15f3d3ae4ada) |
+| Mon, 19 May 2025 16:55:50 GMT | Cyber Resilience Act: When will requirements finally get more specific? | Sarah Fluchs | [Read More](https://medium.com/p/a990cc1dab24) |
+| Mon, 19 May 2025 16:54:30 GMT | DC: 4 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/1d06f2a34b4c) |
 | Mon, 19 May 2025 16:47:07 GMT | Part 3: Refresh Tokens in JWT | Berk Polat | [Read More](https://medium.com/p/b36ed41b0330) |
 | Mon, 19 May 2025 16:43:42 GMT | Zero-Day Vulnerabilities: The Hidden Threat You Never See Coming | SafeAeon Inc. | [Read More](https://medium.com/p/7ce5e48c21cb) |
 | Mon, 19 May 2025 16:37:11 GMT | Why IoT Security Risks Are a Growing Concern for Everyone | SafeAeon Inc. | [Read More](https://medium.com/p/68f98d5413dc) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 12:13:22 GMT | The Dark Web in 2025: What’s Being Sold and How Hackers Operate | Taiyab Lokhandwala | [Read More](https://medium.com/p/73b10a666623) |
 | Mon, 19 May 2025 12:11:39 GMT | Bludgeoned Buzzwords: Fast-Follow | Namir Sagheenanajar | [Read More](https://medium.com/p/052a0c9413c0) |
 | Mon, 19 May 2025 12:05:45 GMT | Breaking MFA: Exploring Man-in-the-Middle Phishing with Evilginx | Hariharan | [Read More](https://medium.com/p/b3b6010e7492) |
-| Mon, 19 May 2025 12:05:27 GMT | How I Bypassed a Basic Security Control in “Forgot Password” and Got a Bounty | Kailasv | [Read More](https://medium.com/p/e51ff1aaef47) |
-| Mon, 19 May 2025 12:00:49 GMT | Defence in Depth: A Layered Cybersecurity Strategy for Modern Threats | Madhavaraman | [Read More](https://medium.com/p/1fc411975e52) |
-| Mon, 19 May 2025 11:53:46 GMT | Port Knocking: A Stealthy Way to Secure Network Access | Anandhu K | [Read More](https://medium.com/p/074f45afbc83) |
-| Mon, 19 May 2025 11:41:12 GMT | HTML Injection Unleashed: Cracking the Door Open to Full Account Compromise | Hamza Ahmed Youssef | [Read More](https://medium.com/p/564b785cea9a) |
-| Mon, 19 May 2025 11:39:39 GMT | Harmonizing Security Frameworks: Practical Guide to Integrating NIST, ISO 27001, and CIS Controls… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/236d2ffb5cb1) |
-| Mon, 19 May 2025 11:39:06 GMT | Why AI Tools Are Failing at Basic Security: A Deep Dive into Langflow’s RCE Bug | Aaron | [Read More](https://medium.com/p/ab5e0609a63a) |
-| Mon, 19 May 2025 11:34:37 GMT | AI-Powered Cyberattacks: How Hackers Are Using AI & How to Defend Against Them. | Sennovate | [Read More](https://medium.com/p/595cf1e97d88) |
-| Mon, 19 May 2025 11:20:11 GMT | MCP servers and security risks — what you need to know | Ben Ratcliffe | [Read More](https://medium.com/p/c5b17ad9f609) |
-| Mon, 19 May 2025 11:20:01 GMT | How to Evaluate a Cybersecurity Candidate Beyond the Resume? | CyberTalents | [Read More](https://medium.com/p/ef256e92dae9) |
-| Mon, 19 May 2025 11:11:42 GMT | Getting Started with Fuzzing: What It Is and Why It Matters | Natarajan C K | [Read More](https://medium.com/p/5dc4a5fc88ee) |
-| Mon, 19 May 2025 11:10:03 GMT | Understanding Server-Side Request Forgery, Real-World Exploits, and How to Secure Your Web… | Nishanthan | [Read More](https://medium.com/p/2f2590380db5) |
-| Mon, 19 May 2025 10:56:30 GMT | Hijacking Sessions with postMessage: The Silent DOM XSS Threat | Dipesh Paul | [Read More](https://medium.com/p/41a8a59dd9b4) |
-| Mon, 19 May 2025 10:45:35 GMT | The Quiet Rooms | Akeredolu Esther Oyindamola | [Read More](https://medium.com/p/95dbd3420fc9) |
