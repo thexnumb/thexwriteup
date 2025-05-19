@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 May 2025 01:31:28 GMT | Footprinting a Target using OSRFramework | Maleesha Rathnayaka | [Read More](https://medium.com/p/0e59eff8d373) |
+| Mon, 19 May 2025 01:29:36 GMT | The Gig Economy’s Hidden Exploit: Identity Rental in Delivery Apps | Internet Exposed | [Read More](https://medium.com/p/fba96b31a2d3) |
+| Mon, 19 May 2025 01:22:24 GMT | Dynamic Malware Analysis Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/4b22e2cad8c4) |
+| Mon, 19 May 2025 01:17:22 GMT | Cyberworld Series: OWASP Overview | Cyberworld | [Read More](https://medium.com/p/31cc4acc0739) |
+| Mon, 19 May 2025 01:01:16 GMT | Privasi pada Mobile Devices and Internet of Things (IoT) | Hendarwan Suryandaru | [Read More](https://medium.com/p/fda8514809fa) |
+| Mon, 19 May 2025 01:00:50 GMT | Linux Primer | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/0d145ce71486) |
+| Mon, 19 May 2025 00:58:58 GMT | TryHackMe Walkthrough — Blaster | Nicholas Abundis | [Read More](https://medium.com/p/d0d200cc128d) |
+| Mon, 19 May 2025 00:58:32 GMT | One Year Working in Cybersecurity, Here Are My Experiences And Advices. | José Reyes (@Architekt) | [Read More](https://medium.com/p/c33415143d65) |
+| Mon, 19 May 2025 00:58:05 GMT | Cyber Security Exploration In BATAM | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/1016412d4266) |
+| Mon, 19 May 2025 00:47:19 GMT | Personal Initiatives in a Modern Economy | Corinna | [Read More](https://medium.com/p/1cac35ece0d3) |
+| Mon, 19 May 2025 00:40:38 GMT | Building a Secure and Scalable WordPress Infrastructure on AWS (With Terraform) Part One… | Elliott | [Read More](https://medium.com/p/5b442a737af5) |
+| Mon, 19 May 2025 00:26:47 GMT | The Agentic AI Revolution in Cybersecurity: What IT Leaders Need to Know | Ian Loe | [Read More](https://medium.com/p/91de4cbb26db) |
+| Mon, 19 May 2025 00:09:15 GMT | What Hacking Taught Me About Building Ethical Startups | Ronit Yadav | [Read More](https://medium.com/p/b8683c5637af) |
+| Mon, 19 May 2025 00:02:29 GMT | Domina los Google Dorks: Técnicas de Búsqueda para Ciberseguridad y OSINT | JPablo13 | [Read More](https://medium.com/p/3206fe84f956) |
+| Sun, 18 May 2025 23:56:36 GMT | Active AI is the true AI | Simon Lee | [Read More](https://medium.com/p/492c36833a55) |
 | Sun, 18 May 2025 23:22:29 GMT | windows crashatico e rompimento di maremme | octospacc | [Read More](https://medium.com/p/eba80d3aeb65) |
 | Sun, 18 May 2025 23:14:41 GMT | “Who am I?” | Fran | [Read More](https://medium.com/p/fc183a254171) |
 | Sun, 18 May 2025 23:12:01 GMT | I Wasn’t Burnt Out. I Was Just Done Pretending. | AllWays Written | [Read More](https://medium.com/p/4578c91e7527) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 May 2025 16:05:29 GMT | The Five Tech Careers Dominating 2025: Insights From 30 Years in the Trenches | Ibrahim Sajid Malick | [Read More](https://medium.com/p/1ca7f47f4932) |
 | Sun, 18 May 2025 16:04:19 GMT | Bandits with Badges: The Silent Crime That Tried to Break Me | Sally Lebron | [Read More](https://medium.com/p/2ffc4c30339c) |
 | Sun, 18 May 2025 16:01:07 GMT | Lab: Exploiting a mass assignment vulnerability | Mukilan Baskaran | [Read More](https://medium.com/p/c7c68b9f7f1b) |
-| Sun, 18 May 2025 15:59:51 GMT | $750 Bounty: for HTTP Request Smuggling on Data.gov | Monika sharma | [Read More](https://medium.com/p/36b9186d9b98) |
-| Sun, 18 May 2025 15:59:26 GMT | How to Stand Strong Against Cyberbullying | Your's Nightmare | [Read More](https://medium.com/p/b4694b299275) |
-| Sun, 18 May 2025 15:58:06 GMT | The Rising Threat of OTP Scams and How to Stay Safe | Your's Nightmare | [Read More](https://medium.com/p/8b7d8d39bad0) |
-| Sun, 18 May 2025 15:58:05 GMT | TryHackMe - Firewalls - WriteUp | Axoloth | [Read More](https://medium.com/p/64662bb23178) |
-| Sun, 18 May 2025 15:56:51 GMT | How I Logged in as Another User via Broken OAuth Identity Binding | Digvijay Gholase | [Read More](https://medium.com/p/9a5265d84046) |
-| Sun, 18 May 2025 15:55:45 GMT | Incognito Mode Is a Lie Here’s Who Still Sees You | Your's Nightmare | [Read More](https://medium.com/p/e9981f9bdfd2) |
-| Sun, 18 May 2025 15:55:30 GMT | Hack The Box — “CAP” | Satyam Pathania | [Read More](https://medium.com/p/d80ccf48ec2a) |
-| Sun, 18 May 2025 15:53:51 GMT | Part 2: How to Become a Pentester in 2025: The Best Youtube Channels | Anezaneo | [Read More](https://medium.com/p/f759367e78f3) |
-| Sun, 18 May 2025 15:52:19 GMT | Scoreing #1 on LeetCode is super easy (crazy loop holes) | AI With Lil Bro | [Read More](https://medium.com/p/a6726ea12a71) |
-| Sun, 18 May 2025 15:51:00 GMT | OWASP top 10 for LLM Applications | ASAcrew Blog | [Read More](https://medium.com/p/d9f1bf441eaf) |
-| Sun, 18 May 2025 15:46:16 GMT | Bypassing Login via NoSQL Operator Injection: A MongoDB Authentication Hack | Aditya Bhatt | [Read More](https://medium.com/p/b895211f60e0) |
-| Sun, 18 May 2025 15:43:09 GMT | Why Company Culture is the Heartbeat of GRC | Brittney Ginther | [Read More](https://medium.com/p/664aeae55a0c) |
-| Sun, 18 May 2025 15:42:22 GMT | I Thought It Was Just Me | Ilana Estelle Author | [Read More](https://medium.com/p/2add7e7fe0cf) |
-| Sun, 18 May 2025 15:31:14 GMT | How I Bypassed the Login Authentication on a Government-Owned Website | Ahmad Suhendra | [Read More](https://medium.com/p/966a02c600f5) |
-| Sun, 18 May 2025 15:25:37 GMT | Requirements of Public Key Cryptography | Miraj Malam | [Read More](https://medium.com/p/bccd64404a2b) |
