@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 23:21:15 GMT | Attack Chain Breakdown: Malicious PyPI Package Targeting Solana Devs | Cyber-AppSec | [Read More](https://medium.com/p/f605cc70319d) |
 | Tue, 20 May 2025 23:05:16 GMT | Strength That Speaks — Introducing the Full-Length Hybrid Security Gate | LDSystems — Unlock The Power Of Advanced Solutions | [Read More](https://medium.com/p/4f3a0651dc42) |
 | Tue, 20 May 2025 23:04:27 GMT | Earn More with DORK $DORK Passive Income Strategies | DORK | [Read More](https://medium.com/p/759d635e0e7d) |
 | Tue, 20 May 2025 23:01:21 GMT | 24/7 Eyes, Zero Compromise. | Visual Monitoring Solutions | [Read More](https://medium.com/p/255530ee3986) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 16:27:00 GMT | For security, Android phones will now auto-reboot after three days | George Maciver | [Read More](https://medium.com/p/3377556860d0) |
 | Tue, 20 May 2025 16:25:04 GMT | Why I Treat Every New Linux Server as Already Compromised | Faruk Ahmed | [Read More](https://medium.com/p/3e740871ce06) |
 | Tue, 20 May 2025 16:14:50 GMT | Malware: The Invisible Enemy Inside Your Inbox | Niti Singh | [Read More](https://medium.com/p/10a7ce21097e) |
-| Tue, 20 May 2025 16:05:30 GMT | Membongkar Cara Nmap Mengetahui Sebuah IP “Hidup” | Velia's Journey | [Read More](https://medium.com/p/49db66b1a4f0) |
