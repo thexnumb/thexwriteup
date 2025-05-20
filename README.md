@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 22:04:27 GMT | Part 2 — Designing & Driving an Impactful Awareness Program (Proofpoint Strategy) | Khalil Z. | [Read More](https://medium.com/p/92b790d43954) |
+| Tue, 20 May 2025 22:02:58 GMT | Living Off the Land: How Attackers Weaponize Trusted Binaries with LOLBins | Zero Day Thirty | [Read More](https://medium.com/p/80b7e6643d51) |
+| Tue, 20 May 2025 22:01:13 GMT | This is a formal personal account of repeated privacy violations and emotional manipulation… | A. Lu | [Read More](https://medium.com/p/d62a7b55bed5) |
+| Tue, 20 May 2025 21:56:48 GMT | ZTNA vs VPN: What’s Better for Your Business? | Yann Barba | [Read More](https://medium.com/p/93327a7f7379) |
+| Tue, 20 May 2025 21:49:42 GMT | i want to be taken care of but i don’t know how to ask | maple syrup fox | [Read More](https://medium.com/p/01725e77c0fa) |
+| Tue, 20 May 2025 21:48:28 GMT | How to Bypass MDM Management on MacBook Pro (macOS Ventura) | Mukhul Manicka Sivakumar | [Read More](https://medium.com/p/f708dacdeca9) |
+| Tue, 20 May 2025 21:41:38 GMT | Advanced XSS Exploitation: Bypassing Modern Filters and WAFs | Asif Ebrahim | [Read More](https://medium.com/p/3da167aba515) |
 | Tue, 20 May 2025 21:35:50 GMT | Brainfuck — Hack The Box Walkthrough | Amanuel | [Read More](https://medium.com/p/ac9cfd1b2cce) |
 | Tue, 20 May 2025 21:30:26 GMT | My First CVE: Privilege Escalation & Possible Account Takeover in Froxlor (CVE-2025–29773) | Salaheddine KALADA | [Read More](https://medium.com/p/c111469d74b0) |
 | Tue, 20 May 2025 21:25:19 GMT | SOC Analysis of Event 314: SOC336 — Windows OLE Zero-Click RCE Exploitation Detected… | Ray Maiden | [Read More](https://medium.com/p/36954ec69c83) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 15:30:37 GMT | Is It You or Healing? | isa ☁️ | [Read More](https://medium.com/p/76375742e454) |
 | Tue, 20 May 2025 15:28:14 GMT | CTF TryHackMe - Corridor Let’s Get Out of Here! | InREXnA | [Read More](https://medium.com/p/83b7e786417d) |
 | Tue, 20 May 2025 15:21:22 GMT | Cloudflare Bug Bounty: First Old Password Does Not Expire After Password Change | Buvaneshvaran | [Read More](https://medium.com/p/b767a050d231) |
-| Tue, 20 May 2025 15:20:55 GMT | Infrastructure as Code (IaC) Security: Best Practices for Secure Implementation | Haim Cohen | [Read More](https://medium.com/p/f9725c08d054) |
-| Tue, 20 May 2025 15:20:28 GMT | The Weight He Carries, No One Sees | Hajara Farwin | [Read More](https://medium.com/p/d4baa4545040) |
-| Tue, 20 May 2025 15:20:18 GMT | Why ASPM Is the Future of Scalable Application Security | Ajay Monga | [Read More](https://medium.com/p/43aa795407ec) |
-| Tue, 20 May 2025 15:19:59 GMT | ChatGPT & Pentesting: Hype or Game-Changer? | Patricio Burattini | [Read More](https://medium.com/p/13ce2faf29e6) |
-| Tue, 20 May 2025 15:16:00 GMT | GÜVENLİK VE RİSK YÖNETİMİ | Abdurrahman Karabacak | [Read More](https://medium.com/p/a584bce86ee5) |
-| Tue, 20 May 2025 15:14:20 GMT | Code That Teaches: Software as a Medium of Understanding | Landin McSorley | [Read More](https://medium.com/p/561b2b1cbf71) |
-| Tue, 20 May 2025 15:13:13 GMT | Passkeys in Practice: Simplify Logins and Eliminate Phishing Risk | Gregg Westgate | [Read More](https://medium.com/p/3e20cbce649b) |
