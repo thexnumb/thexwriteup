@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 03:42:29 GMT | STARTUP-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/9229cbdbde43) |
+| Tue, 20 May 2025 03:35:46 GMT | Earlier this year, I fell victim to an elaborate phishing scam. | Robertdreher | [Read More](https://medium.com/p/e0a7ca59d43a) |
+| Tue, 20 May 2025 03:32:12 GMT | Crocodilus: The Silent Android Predator Draining Crypto Wallets | Deven Chhajed | [Read More](https://medium.com/p/26df41b78974) |
+| Tue, 20 May 2025 03:21:39 GMT | The Digital Cold War Nobody’s Talking About: Why EU-India Cybersecurity Cooperation Is a… | Shaumik | [Read More](https://medium.com/p/0cf32e50c8f1) |
+| Tue, 20 May 2025 03:19:41 GMT | STLC & Bug Lifecycle: Mastering Software Testing from Strategy to Closure | Mohamed Said Ibrahim | [Read More](https://medium.com/p/b3c7b2fe3496) |
+| Tue, 20 May 2025 03:10:48 GMT | Consent Revoked | Vanya Yani | [Read More](https://medium.com/p/af3db546f985) |
 | Tue, 20 May 2025 03:02:53 GMT | Five Ways Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Manish Shivanandhan | [Read More](https://medium.com/p/8fc74d0aefc9) |
 | Tue, 20 May 2025 02:54:43 GMT | Reimagining Web Directory Enumeration with AI | Atul Raman | [Read More](https://medium.com/p/1af1262c934f) |
 | Tue, 20 May 2025 02:38:28 GMT | Authorization — What You’re Allowed to Do (No, You Can’t Just Touch Every Button) | Bl@ckC!pH3r | [Read More](https://medium.com/p/9c2ac361cd14) |
@@ -107,9 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 18:00:48 GMT | The Most In-Demand Cybersecurity Skills Students Should Learn | Xaltius | [Read More](https://medium.com/p/c9d6ef5ab1b3) |
 | Mon, 19 May 2025 17:57:04 GMT | Secure Email Gateway: Essential Protection for Business Communications | Xaltius | [Read More](https://medium.com/p/06861898c0de) |
 | Mon, 19 May 2025 17:55:07 GMT | Project Discovery, Tomnomnom Tools and Go Programming all in one script auto installer for Bug… | Babar Ali Jamali | [Read More](https://medium.com/p/871befe3df2e) |
-| Mon, 19 May 2025 17:51:39 GMT | New to LFI? Here’s How to Get It | LFI | [Read More](https://medium.com/p/8b5070ddde24) |
-| Mon, 19 May 2025 17:51:05 GMT | Why Your Instagram ‘Password Reset’ Email Might Be a Trap | Ahmad Javed | [Read More](https://medium.com/p/e6ec45d1ef39) |
-| Mon, 19 May 2025 17:32:59 GMT | How Canaries Stop Prompt Injection Attacks | Tomer Wetzler | [Read More](https://medium.com/p/fdf1a6b00c27) |
-| Mon, 19 May 2025 17:31:44 GMT | ️ SpiderFoot: The OSINT Powerhouse Every Ethical Hacker Should Master | Chintala Taraka Ram | [Read More](https://medium.com/p/5ef417ffb5bc) |
-| Mon, 19 May 2025 17:27:07 GMT | NotPetya: The Cyberweapon That Shook the World | Ahmad Javed | [Read More](https://medium.com/p/4cdf41ff0bf3) |
-| Mon, 19 May 2025 17:23:25 GMT | I Tried to Use AI to Write A Single Script | Teri Radichel | [Read More](https://medium.com/p/138ca4a6be52) |
