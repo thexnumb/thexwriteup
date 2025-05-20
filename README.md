@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 19:03:20 GMT | SK Telecom Data Breach 27 Million Customers Affected Over 3-Year | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/8ae08ed54ce4) |
+| Tue, 20 May 2025 19:01:32 GMT | A Security Review of Wireless CarPlay Devices | 0x32-dev | [Read More](https://medium.com/p/7c365daf30ba) |
+| Tue, 20 May 2025 18:58:15 GMT | Tried to book a meal, instead I found a RAT | 0x32-dev | [Read More](https://medium.com/p/acaa8e612fd6) |
+| Tue, 20 May 2025 18:55:42 GMT | CCNA Cisco Port Security Configuration with IP Spoofing Test (Step-by-Step Guide) | "CyberGuard: Malware and Vulnerabilities Analysis" | [Read More](https://medium.com/p/bddf5d5d857a) |
+| Tue, 20 May 2025 18:54:04 GMT | Uploaded, Decoded, Exploited! | Tomer Wetzler | [Read More](https://medium.com/p/a02f9c803d4b) |
+| Tue, 20 May 2025 18:50:46 GMT | Top 3 Benefits of Cyber Incident Response Training | IT_Engineer | [Read More](https://medium.com/p/63442718c2eb) |
+| Tue, 20 May 2025 18:47:11 GMT | Why Small Businesses are Now Prime Targets for Hackers | All in One security | [Read More](https://medium.com/p/a8581a225e24) |
+| Tue, 20 May 2025 18:46:09 GMT | Where do clouds come from !? | Jree Jrom | [Read More](https://medium.com/p/278127460a91) |
+| Tue, 20 May 2025 18:45:24 GMT | Part 1 — Building a Cybersecurity Awareness Program: Using the Proofpoint Approach as Your Guide | Khalil Z. | [Read More](https://medium.com/p/947bf2ad7ab4) |
+| Tue, 20 May 2025 18:39:25 GMT | 100 days of Learning Penetration testing -Day 1 | Samin Basnet | [Read More](https://medium.com/p/d55696fae190) |
+| Tue, 20 May 2025 18:38:53 GMT | Arctic Wolf’s 2025 Report is Insightful- But Here’s What I add further | NaveeeN Chendra | [Read More](https://medium.com/p/7a0032073455) |
+| Tue, 20 May 2025 18:35:24 GMT | Windows Server 2016 ile Active Directory Güvenliği ve Wazuh Ajanının GPO ile Otomatik Kurulumu | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/5ff805517642) |
+| Tue, 20 May 2025 18:34:44 GMT | Understanding the OSI Model | Mazhar Imran | [Read More](https://medium.com/p/3968fda86d57) |
+| Tue, 20 May 2025 18:33:07 GMT | Is Your Website Under Attack? | Marilyn Jenkins | [Read More](https://medium.com/p/0885707c5302) |
+| Tue, 20 May 2025 18:32:50 GMT | TryHackMe PT1 Certification Review | Motasem Hamdan | [Read More](https://medium.com/p/37edb20fc63e) |
+| Tue, 20 May 2025 18:30:18 GMT | Top Event Production Services in UK: A Complete Guide for In-Person & Hybrid Events in 2025 | waeventservices.co.uk/ | [Read More](https://medium.com/p/01e0803b5ccc) |
+| Tue, 20 May 2025 18:27:10 GMT | Is Digital Transformation Possible Without Writing Code? | Man Of Truth | [Read More](https://medium.com/p/af15a756ec74) |
 | Tue, 20 May 2025 18:21:58 GMT | Common Types of Cybersecurity Vulnerabilities with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/d1b441090051) |
 | Tue, 20 May 2025 18:16:15 GMT | Artificial intelligence | Steven Chris | [Read More](https://medium.com/p/50314344acaa) |
 | Tue, 20 May 2025 18:11:38 GMT | Firmware Reverse Engineering: Security at the Hardware Layer | Esra Kayhan | [Read More](https://medium.com/p/90a824333cb7) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 13:51:24 GMT | Top 10 Cybersecurity Threats in 2025 and How to Protect Yourself | Xcyber Squad | [Read More](https://medium.com/p/3fc653628fbd) |
 | Tue, 20 May 2025 13:48:43 GMT | ICTF 2025 Tic Tac Toe Writeup | MaanVader | [Read More](https://medium.com/p/482705d9a882) |
 | Tue, 20 May 2025 13:44:18 GMT | Gotcha Moments Don’t Build Trust — They Undermine Real Security | Scott Hill | [Read More](https://medium.com/p/c0521e32d5aa) |
-| Tue, 20 May 2025 13:40:40 GMT | Accor unveils Labsec | Accor Labsec | [Read More](https://medium.com/p/955eb7a5393e) |
-| Tue, 20 May 2025 13:38:20 GMT | The impact of legacy on the hotel’s attack surface | Accor Labsec | [Read More](https://medium.com/p/66a4c2fe438e) |
-| Tue, 20 May 2025 13:34:44 GMT | Day 7 of #60DaysofGRC: The Metrics That Drive GRC Success | Brittney Ginther | [Read More](https://medium.com/p/7f73057d1dec) |
-| Tue, 20 May 2025 13:32:33 GMT | The AI Hack That Turned My Views Into Real Revenue | Najib Ghatte | [Read More](https://medium.com/p/b1ac47c1e103) |
-| Tue, 20 May 2025 13:28:37 GMT | Die Entwicklung von Sicherheitsrobotik | Presslink Media | [Read More](https://medium.com/p/2d13e451a721) |
-| Tue, 20 May 2025 13:24:30 GMT | XY : firewall audit | Accor Labsec | [Read More](https://medium.com/p/a2adf8069236) |
-| Tue, 20 May 2025 13:14:38 GMT | Comparativo DCPT vs eJPT | CabraRoot | [Read More](https://medium.com/p/b533caf32234) |
-| Tue, 20 May 2025 13:12:31 GMT | Tuesday Morning Threat Report: May 20, 2025 | Mark Maguire | [Read More](https://medium.com/p/bb51c7cbd8df) |
-| Tue, 20 May 2025 13:01:46 GMT | When Employees Are Your Weakest Link: Blue Team Services Explained | Peris.ai Cybersecurity | [Read More](https://medium.com/p/b7138af73121) |
-| Tue, 20 May 2025 13:01:33 GMT | BEST CRYPTO RECOVERY EXPERT FOR CRYPTO TRACING AND RECOVERY 2025/ TRUST GEEKS HACK EXPERT | Jacquelinewarnock | [Read More](https://medium.com/p/d242df932d98) |
-| Tue, 20 May 2025 13:00:51 GMT | Deepfakes and Synthetic Reality: Emerging Cybersecurity Threats in 2025 | Bharat Parida | [Read More](https://medium.com/p/b9279ae57a59) |
-| Tue, 20 May 2025 12:57:40 GMT | Here’s How I Recover My Money From Ageeon | Charisse C. Brown | [Read More](https://medium.com/p/f59cf9408ae6) |
-| Tue, 20 May 2025 12:54:01 GMT | Introduction to MQTT and Setting Up a Lab for MQTT Pentesting on MacOS | Vaishali Nagori | [Read More](https://medium.com/p/f6018183c2b7) |
-| Tue, 20 May 2025 12:51:40 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 46 | Cyber Strategy Institute | [Read More](https://medium.com/p/9c4558b9ef02) |
-| Tue, 20 May 2025 12:44:33 GMT | Red Nexus CTF v1.0, and how we made it to first place! | shxsu1 | [Read More](https://medium.com/p/ca9f85502ead) |
-| Tue, 20 May 2025 12:36:40 GMT | Best Ethical Hacking Training Institute in Delhi (2025)Best Ethical Hacking Training Institute in… | Manisha Chaudhary | [Read More](https://medium.com/p/49cb382405d7) |
-| Tue, 20 May 2025 12:35:06 GMT | Bluetooth Hacking - Device Hacking | BlackHat | [Read More](https://medium.com/p/72338a22928d) |
