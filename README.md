@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 09:20:04 GMT | “GPT Profile Jail” | obelyra | [Read More](https://medium.com/p/f3e2d0ae3a91) |
+| Tue, 20 May 2025 09:19:52 GMT | Proof of Reserve Nedir? KVHS’ler İçin Neden Kritik Öneme Sahip? | BeosinTR | [Read More](https://medium.com/p/35cc3ec76099) |
+| Tue, 20 May 2025 09:03:31 GMT | How a Hacker Hacked TU Eindhoven of Technology University Using Just VPN Credentials | Motasem Hamdan | [Read More](https://medium.com/p/21bc30a6856e) |
+| Tue, 20 May 2025 08:59:57 GMT | Crafting the Ideal Website: What Inspite Technologies Brings to the Digital Table | Swethainspite | [Read More](https://medium.com/p/92783d647cbe) |
+| Tue, 20 May 2025 08:57:55 GMT | From Zero to SOC Homelab: My Journey to Defense-in-Depth and Full Security Automation | Nakkouch Tarek | [Read More](https://medium.com/p/cc07373b8b6d) |
+| Tue, 20 May 2025 08:55:59 GMT | How I Wasted A Scammer’s Time On Instagram | Smart Jeffery | [Read More](https://medium.com/p/85330c87cf1f) |
+| Tue, 20 May 2025 08:50:02 GMT | Ransomware on the Rise: KSA Data Centers Brace for Attacks | Tekhabeeb | [Read More](https://medium.com/p/9e3aabca7972) |
 | Tue, 20 May 2025 08:44:13 GMT | Why Great Web Design & Development Matters More Than Ever in 2025 | Swethainspite | [Read More](https://medium.com/p/8d2498787374) |
 | Tue, 20 May 2025 08:43:46 GMT | Second-Order Takeover: Scoring High Rewards! | nocley | [Read More](https://medium.com/p/926ff658b76b) |
 | Tue, 20 May 2025 08:42:01 GMT | Top Cybersecurity Threats | The United Indian | [Read More](https://medium.com/p/7ae88ffc19c3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 01:17:46 GMT | How to Build a Risk Register That Actually Helps Decision-Making | Paritosh | [Read More](https://medium.com/p/240dc62d5d45) |
 | Tue, 20 May 2025 01:06:59 GMT | 5 Cybersecurity Habits That Make You Instantly More Valuable on Any Team | Kyle Barbre | [Read More](https://medium.com/p/0b4346883873) |
 | Tue, 20 May 2025 00:45:43 GMT | Why Didn’t Anyone Warn Me That Wallet Backups Can Be Hacked Too? | Pamela Talks | [Read More](https://medium.com/p/74384363be8b) |
-| Tue, 20 May 2025 00:44:50 GMT | Third Parties and Machine Credentials: The Silent Drivers Behind 2025’s Worst Data Breaches | Cyber-AppSec | [Read More](https://medium.com/p/60a41fd82c8d) |
-| Tue, 20 May 2025 00:36:06 GMT | Mastering OT Cybersecurity: A Deep-Dive Implementation Blueprint with ATT&CK Reference Architecture | Prabhu Perumal | [Read More](https://medium.com/p/20852ff0170b) |
-| Tue, 20 May 2025 00:27:35 GMT | Supercharge Your Bugs Bunny $BUGS Earnings in 2025 | BUGS | [Read More](https://medium.com/p/9bd56a7a859d) |
-| Tue, 20 May 2025 00:19:33 GMT | Hacking Oauth:A bug bounty hunter guide | Canonminibeast | [Read More](https://medium.com/p/31a7b1a0cf88) |
-| Tue, 20 May 2025 00:17:36 GMT | AI-Era Security Architecture: Bridging Technology and Human Dynamics | Shittu | [Read More](https://medium.com/p/b3df588f8590) |
-| Tue, 20 May 2025 00:13:58 GMT | The Weight of Just Right | Ryan Beach | [Read More](https://medium.com/p/f35c9592ea32) |
-| Tue, 20 May 2025 00:05:16 GMT | How to Leverage DORK $DORK for Extra Rewards | DORK | [Read More](https://medium.com/p/7699fb2ecb87) |
