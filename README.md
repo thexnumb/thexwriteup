@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 17:25:42 GMT | PART 1 : The journey of making mining devices or injecting payloads on hardware devices | An0n | [Read More](https://medium.com/p/93e462bb0dc6) |
+| Tue, 20 May 2025 17:24:35 GMT | Post Graduation Write-up and plan | fae ruho | [Read More](https://medium.com/p/9339300527c1) |
+| Tue, 20 May 2025 17:22:10 GMT | Full-Blown SSRF to Gain Access to Millions of Users’ Records and Multiple Internal Panels | Skyer | [Read More](https://medium.com/p/3719d9b802e9) |
+| Tue, 20 May 2025 17:18:31 GMT | Cybersecurity in the Insurance Industry: A Critical Imperative | Prismberrytechnologies | [Read More](https://medium.com/p/8afc4178b899) |
 | Tue, 20 May 2025 17:15:21 GMT | SQL Injection in 2025: Still a Threat & How to Defend Against It | Grvbaplawat | [Read More](https://medium.com/p/15a18bf78662) |
 | Tue, 20 May 2025 17:09:08 GMT | [API Pentest] —  Track 01: Mapping the Shadows — Uncovering Endpoints | AjiPangesstu | [Read More](https://medium.com/p/c8de9511fd1e) |
 | Tue, 20 May 2025 17:02:47 GMT | PicoCTF Writeup — Nice netcat… | SoBatista | [Read More](https://medium.com/p/2d97351299a9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 12:00:06 GMT | Insecure Direct Object Reference (IDOR) Zafiyeti nedir? | Alirıza Aslan | [Read More](https://medium.com/p/646262ce331e) |
 | Tue, 20 May 2025 11:59:52 GMT | Why Cybersecurity and Digital Marketing Skills Are in Demand — and How NSF Delivers Them | Vrish | [Read More](https://medium.com/p/107c72ddaab4) |
 | Tue, 20 May 2025 11:50:23 GMT | How Hackers Steal Your Passwords (And How You Can Stop Them) | Kuldeepkumawat | [Read More](https://medium.com/p/7ae33d9d5074) |
-| Tue, 20 May 2025 11:49:40 GMT | ISO 27001:2013 vs 2022 — What Business Owners Need to Know Before Transitioning | Harsimrat Korey | [Read More](https://medium.com/p/0d2fac25d232) |
-| Tue, 20 May 2025 11:44:09 GMT | The Origins of XSS (Cross-Site Scripting) | Thexssrat | [Read More](https://medium.com/p/628dde3ac4b6) |
-| Tue, 20 May 2025 11:39:57 GMT | How Information Security Management Services in Eastern India Strengthen Your Business | Khatore IT Solutions | [Read More](https://medium.com/p/a58c9a041786) |
-| Tue, 20 May 2025 11:39:30 GMT | Enhance Driving Safety with GPS-Enabled Dash Cams in the UAE | Tekhabeeb | [Read More](https://medium.com/p/b8bbf251c5b9) |
