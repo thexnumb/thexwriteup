@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 18:21:58 GMT | Common Types of Cybersecurity Vulnerabilities with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/d1b441090051) |
+| Tue, 20 May 2025 18:16:15 GMT | Artificial intelligence | Steven Chris | [Read More](https://medium.com/p/50314344acaa) |
+| Tue, 20 May 2025 18:11:38 GMT | Firmware Reverse Engineering: Security at the Hardware Layer | Esra Kayhan | [Read More](https://medium.com/p/90a824333cb7) |
+| Tue, 20 May 2025 18:10:07 GMT | Introducción al Protocolo de Autenticación Kerberos | Security Layer | [Read More](https://medium.com/p/3f7edbd6e874) |
+| Tue, 20 May 2025 18:09:08 GMT | Breaking Into a Bank’s Database (Ethically!) — My Wild Cybersecurity Ride | xabit • hacks | [Read More](https://medium.com/p/b90c91b0b09b) |
+| Tue, 20 May 2025 18:01:58 GMT | ⚡ CACHING vs  COOKIES | Chhavi Rohilla | [Read More](https://medium.com/p/10ad45c2afde) |
+| Tue, 20 May 2025 18:00:12 GMT | Windows Temelleri | Hiranur Gemalmaz | [Read More](https://medium.com/p/15e19a2f0ac9) |
+| Tue, 20 May 2025 17:53:47 GMT | Android NDK Security: Protecting Sensitive Data with Native Code | Chirag Vasani | [Read More](https://medium.com/p/39ba402bd954) |
+| Tue, 20 May 2025 17:52:57 GMT | Why Perimeter Security Is Dead: Embracing Zero Trust Architecture for Backend Systems | Kanha | [Read More](https://medium.com/p/789a733d94e2) |
+| Tue, 20 May 2025 17:47:27 GMT | Port Swigger: Username enumeration via different responses | fae ruho | [Read More](https://medium.com/p/23a6878922f0) |
+| Tue, 20 May 2025 17:46:39 GMT | Understanding Guardrails in Generative AI | Bhaumik Pandit | [Read More](https://medium.com/p/6219ec778f93) |
+| Tue, 20 May 2025 17:45:21 GMT | From Panpsychism to Artificial Self-Awareness: Can an AI know how secure it is? | Jordi Garcia Castillon | [Read More](https://medium.com/p/8cd174471146) |
+| Tue, 20 May 2025 17:44:19 GMT | Bulutta Kilitlenme Riski: Vendor Lock-in Kavramı ve Kurtulma Yolları | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/18d8e1d84be5) |
+| Tue, 20 May 2025 17:38:23 GMT | Protect Your Business: Top Cyber Security Services in Tacoma | PC Technologies | [Read More](https://medium.com/p/2b86f882758b) |
+| Tue, 20 May 2025 17:35:21 GMT | Learn Linux: My first Arch Linux (IV) | Alfonso Izquierdo | [Read More](https://medium.com/p/b595c6284515) |
+| Tue, 20 May 2025 17:33:02 GMT | Mastering Local MITM: ARP Spoofing & HSTS Hijack with Bettercap | Syedmohathashimali | [Read More](https://medium.com/p/8ade550a2666) |
+| Tue, 20 May 2025 17:28:41 GMT | Mindfulness Isn’t Always Peaceful — And That’s the Point | Jerry Nelson | [Read More](https://medium.com/p/d465289d05b1) |
 | Tue, 20 May 2025 17:25:42 GMT | PART 1 : The journey of making mining devices or injecting payloads on hardware devices | An0n | [Read More](https://medium.com/p/93e462bb0dc6) |
 | Tue, 20 May 2025 17:24:35 GMT | Post Graduation Write-up and plan | fae ruho | [Read More](https://medium.com/p/9339300527c1) |
 | Tue, 20 May 2025 17:22:10 GMT | Full-Blown SSRF to Gain Access to Millions of Users’ Records and Multiple Internal Panels | Skyer | [Read More](https://medium.com/p/3719d9b802e9) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 12:44:33 GMT | Red Nexus CTF v1.0, and how we made it to first place! | shxsu1 | [Read More](https://medium.com/p/ca9f85502ead) |
 | Tue, 20 May 2025 12:36:40 GMT | Best Ethical Hacking Training Institute in Delhi (2025)Best Ethical Hacking Training Institute in… | Manisha Chaudhary | [Read More](https://medium.com/p/49cb382405d7) |
 | Tue, 20 May 2025 12:35:06 GMT | Bluetooth Hacking - Device Hacking | BlackHat | [Read More](https://medium.com/p/72338a22928d) |
-| Tue, 20 May 2025 12:31:57 GMT | Why Do Bugs Slip Past Your Tests? | Anna | [Read More](https://medium.com/p/bfd6b5da00c3) |
-| Tue, 20 May 2025 12:24:06 GMT | X-Transfer Attacks | mike | [Read More](https://medium.com/p/dfd35abb3544) |
-| Tue, 20 May 2025 12:21:21 GMT | What Happens When You Start Saying ‘I Don’t Know’ to Everything? | datageekrj | [Read More](https://medium.com/p/6344a250b76b) |
-| Tue, 20 May 2025 12:20:57 GMT | Log 02: DISSECTION- Hardware Made Simple | Apurva Cybersecurity | [Read More](https://medium.com/p/c04f7729b1a2) |
-| Tue, 20 May 2025 12:20:28 GMT | Top Antivirus Picks for 2025: A Deep Dive into the Best Security Solutions | Top2Antivirus | [Read More](https://medium.com/p/e490877c1c17) |
-| Tue, 20 May 2025 12:14:12 GMT | Vulnerability Is a Superpower: From Pressure to Purpose | José Andrés Olivera Amato | [Read More](https://medium.com/p/71895f576258) |
-| Tue, 20 May 2025 12:13:42 GMT | Why Gen 3 Night Vision is the Gold Standard for Low-Light Operations | Night Vision 4 Less | [Read More](https://medium.com/p/dbf99ec2f6b4) |
-| Tue, 20 May 2025 12:12:30 GMT | ️ Is Rust the Unsung Hero of Software Security? | Ashish Sharda | [Read More](https://medium.com/p/80e0fa981769) |
-| Tue, 20 May 2025 12:11:49 GMT | Securing APIs: A Developer’s Guide to Protecting Your Applications | Joyal Saji | [Read More](https://medium.com/p/84e764183728) |
-| Tue, 20 May 2025 12:06:41 GMT | The Last Mile of Zero Trust: Securing Where Work Really Happens — The Browser | Mary Yang | [Read More](https://medium.com/p/e1a8e1cf7047) |
-| Tue, 20 May 2025 12:06:34 GMT | Standardisez votre documentation Swagger avec GroupedOpenApi (Spring Boot + OpenAPI) | Abdou Aziz Kane | [Read More](https://medium.com/p/0f6d9667c68c) |
-| Tue, 20 May 2025 12:05:39 GMT | Mini Security Lab: Building Blocks of My Learning Environment | Elijah Garcia | [Read More](https://medium.com/p/8249f44f0d18) |
-| Tue, 20 May 2025 12:04:38 GMT | The Security Illusion: How Apple, Google, and Global Vendors Built a System That’s Easy to Abuse | Jamweba | [Read More](https://medium.com/p/92210d4887c8) |
-| Tue, 20 May 2025 12:00:57 GMT | Ethernet Frame | Cyber Timi | [Read More](https://medium.com/p/b8069a6b4eb1) |
-| Tue, 20 May 2025 12:00:06 GMT | Insecure Direct Object Reference (IDOR) Zafiyeti nedir? | Alirıza Aslan | [Read More](https://medium.com/p/646262ce331e) |
-| Tue, 20 May 2025 11:59:52 GMT | Why Cybersecurity and Digital Marketing Skills Are in Demand — and How NSF Delivers Them | Vrish | [Read More](https://medium.com/p/107c72ddaab4) |
-| Tue, 20 May 2025 11:50:23 GMT | How Hackers Steal Your Passwords (And How You Can Stop Them) | Kuldeepkumawat | [Read More](https://medium.com/p/7ae33d9d5074) |
