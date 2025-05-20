@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 20:32:30 GMT | Lessons from the Field: Working with Cribl in a Modern Security Stack | Kyle Barbre | [Read More](https://medium.com/p/03cbdd495962) |
+| Tue, 20 May 2025 20:31:29 GMT | Cybersecurity Leadership Coaching | Matthew.Rosenquist | [Read More](https://medium.com/p/b44f5705c759) |
+| Tue, 20 May 2025 20:21:24 GMT | Day 1 of my AWS Pentesting journey — IAM Enumeration with Pacu | mauzware | [Read More](https://medium.com/p/3b106bc92aae) |
 | Tue, 20 May 2025 20:16:32 GMT | “CNA Operational Rules Version 4.1.0” Now in Effect | CVE Program Blog | [Read More](https://medium.com/p/2f929f4e52da) |
 | Tue, 20 May 2025 20:07:16 GMT | BreachLog: A Real-World Cybersecurity Breakdown Series | Ved Trivedi | [Read More](https://medium.com/p/0ddaf2208d5f) |
 | Tue, 20 May 2025 20:06:16 GMT | RedisRaider Unmasked: A New Breed of Cryptojacking Worm Targeting Misconfigured Redis Servers | Siva Gunasekaran | [Read More](https://medium.com/p/39cd09a80f17) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 14:30:17 GMT | How i hijacked an account without knowing the password and earned $2500 from redirect parameter | 0xRedFox29 | [Read More](https://medium.com/p/7a46ffcff879) |
 | Tue, 20 May 2025 14:29:10 GMT | Suivre le fil : maîtriser la gestion d’incident SaaS en respectant les RTO | Rebecca Cottignies | [Read More](https://medium.com/p/bcdb35110c55) |
 | Tue, 20 May 2025 14:28:07 GMT | Building Effective KPIs for Cybersecurity Projects and Team Performance - بناء مؤشرات أداء فعّالة… | Emad  Mamdouh Abdelhamid | [Read More](https://medium.com/p/b459c1d6b4a7) |
-| Tue, 20 May 2025 14:27:01 GMT | Introduction to HTTP | Anandhu K | [Read More](https://medium.com/p/563123375a98) |
-| Tue, 20 May 2025 14:24:48 GMT | How to Actually Become NIS2 Compliant | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/a68b22d85ae9) |
-| Tue, 20 May 2025 14:23:50 GMT | The AssessFirst Chronicles — On the Road to ISO 27001: Implementing Security Controls (Episode 5) | Rebecca Cottignies | [Read More](https://medium.com/p/7205f5219bc9) |
