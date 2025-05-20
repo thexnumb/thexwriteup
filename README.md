@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 15:35:13 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/7dd4d64a63d5) |
+| Tue, 20 May 2025 15:30:37 GMT | Is It You or Healing? | isa ☁️ | [Read More](https://medium.com/p/76375742e454) |
+| Tue, 20 May 2025 15:28:14 GMT | CTF TryHackMe - Corridor Let’s Get Out of Here! | InREXnA | [Read More](https://medium.com/p/83b7e786417d) |
 | Tue, 20 May 2025 15:21:22 GMT | Cloudflare Bug Bounty: First Old Password Does Not Expire After Password Change | Buvaneshvaran | [Read More](https://medium.com/p/b767a050d231) |
+| Tue, 20 May 2025 15:20:55 GMT | Infrastructure as Code (IaC) Security: Best Practices for Secure Implementation | Haim Cohen | [Read More](https://medium.com/p/f9725c08d054) |
+| Tue, 20 May 2025 15:20:28 GMT | The Weight He Carries, No One Sees | Hajara Farwin | [Read More](https://medium.com/p/d4baa4545040) |
+| Tue, 20 May 2025 15:20:18 GMT | Why ASPM Is the Future of Scalable Application Security | Ajay Monga | [Read More](https://medium.com/p/43aa795407ec) |
+| Tue, 20 May 2025 15:19:59 GMT | ChatGPT & Pentesting: Hype or Game-Changer? | Patricio Burattini | [Read More](https://medium.com/p/13ce2faf29e6) |
 | Tue, 20 May 2025 15:16:00 GMT | GÜVENLİK VE RİSK YÖNETİMİ | Abdurrahman Karabacak | [Read More](https://medium.com/p/a584bce86ee5) |
 | Tue, 20 May 2025 15:14:20 GMT | Code That Teaches: Software as a Medium of Understanding | Landin McSorley | [Read More](https://medium.com/p/561b2b1cbf71) |
 | Tue, 20 May 2025 15:13:13 GMT | Passkeys in Practice: Simplify Logins and Eliminate Phishing Risk | Gregg Westgate | [Read More](https://medium.com/p/3e20cbce649b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 10:22:08 GMT | Custom Website Development: Build Your Business the Smart Way | Jahanainspite | [Read More](https://medium.com/p/68a1ad01909c) |
 | Tue, 20 May 2025 10:21:37 GMT | Bug Bounty Hunters in Web3: How to Start and How Much You Can Make | Johnny Time | [Read More](https://medium.com/p/e311fc0d5cb7) |
 | Tue, 20 May 2025 10:14:45 GMT | How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Younes Sellimi | [Read More](https://medium.com/p/bb38034e77e3) |
-| Tue, 20 May 2025 10:11:23 GMT | Are you a Fortune 500 company? Not so fortune. | Martin Abramov | [Read More](https://medium.com/p/5e92e23dd20f) |
-| Tue, 20 May 2025 09:58:36 GMT | Basic Web Enumeration. | Ravindra Manjhi | [Read More](https://medium.com/p/13ab72eaf8b2) |
-| Tue, 20 May 2025 09:57:24 GMT | Translation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/a6df5c4a68f8) |
-| Tue, 20 May 2025 09:56:42 GMT | Rule Number One | Kome | [Read More](https://medium.com/p/0f7b65b174be) |
-| Tue, 20 May 2025 09:56:31 GMT | The Foundation of Signal — Why End-to-End Encryption Matters | Apex HKR | [Read More](https://medium.com/p/c5bfd97f74a9) |
-| Tue, 20 May 2025 09:53:57 GMT | From Risk to Resilience: How Cybersecurity Experts Protect Your Brand | SmartCLOUD Australia | [Read More](https://medium.com/p/6b81867f8dce) |
-| Tue, 20 May 2025 09:53:13 GMT | My Cybersecurity Journey: Learning, Sharing, and Growing Together | Muhammad Jeleel | [Read More](https://medium.com/p/9eada17264a8) |
