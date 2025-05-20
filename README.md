@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 06:15:11 GMT | DeFi Summer: The Golden Days of Liquidation | 6ixty | [Read More](https://medium.com/p/e32cbc110dcd) |
+| Tue, 20 May 2025 06:07:58 GMT | XSS Part — 20 : Reflected XSS into a template literal with angle brackets, single, double quotes… | Ahmad Sopyan | [Read More](https://medium.com/p/067b36fdb376) |
+| Tue, 20 May 2025 06:07:22 GMT | Secure Your Business with the Top 5 Privileged Access Management Tools | Gauri Kale | [Read More](https://medium.com/p/62a3188921cf) |
+| Tue, 20 May 2025 06:06:33 GMT | The 10 Most Common Cybersecurity Mistakes Small Businesses Make and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/1096a560b0ec) |
+| Tue, 20 May 2025 06:01:41 GMT | How Did I Get Scammed If My Wallet Had a ‘Private Key’? Aren’t Those Supposed to Be Secure? | Pamela Talks | [Read More](https://medium.com/p/304284506fd5) |
+| Tue, 20 May 2025 06:01:03 GMT | Beyond Alerts: Building Cybersecurity Around Risk, Not Noise | Andre Fernandes | [Read More](https://medium.com/p/504eaafd8180) |
+| Tue, 20 May 2025 06:00:38 GMT | How to Avoid Common Pitfalls in Data Classification. | CyRAACS | [Read More](https://medium.com/p/3f3295c8229b) |
+| Tue, 20 May 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — May 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/502281ce793d) |
+| Tue, 20 May 2025 05:58:26 GMT | OWASP Pentest Series (3/12) | TheZeeshanKhan | [Read More](https://medium.com/p/2f8a8d44ca71) |
+| Tue, 20 May 2025 05:56:16 GMT | Emotional Availability: The Open Door to Deeper Love | Mike Sansone | [Read More](https://medium.com/p/08393abb8e0e) |
+| Tue, 20 May 2025 05:56:14 GMT | Top 5 AI Certifications That Are Actually Worth It in 2025 | Prism HRC | [Read More](https://medium.com/p/ad6786d67a30) |
+| Tue, 20 May 2025 05:48:48 GMT | 5 Years of Startup Life — 60 Months, 4 Roles, 1 Journey | Syed Hadi | [Read More](https://medium.com/p/d2089a3b6644) |
+| Tue, 20 May 2025 05:47:42 GMT | FortiWeb by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/6a8aa30c5868) |
+| Tue, 20 May 2025 05:42:42 GMT | Boost Your Earnings with DORK $DORK Yield Strategies | DORK | [Read More](https://medium.com/p/845b789fa9f0) |
+| Tue, 20 May 2025 05:41:39 GMT | Reclaiming the Web: How Community-Driven Networks Are Building an Independent Internet | Cristian | [Read More](https://medium.com/p/ff551a17bb73) |
+| Tue, 20 May 2025 05:37:08 GMT | Day 10 of 15: The Havex Supply Chain Breach — When Trusted Software Became the Trojan Horse | om sonawane | [Read More](https://medium.com/p/c9085e0af7fe) |
+| Tue, 20 May 2025 05:36:49 GMT | The Daily Tech Digest: 20 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d72b71ec3bef) |
 | Tue, 20 May 2025 05:36:34 GMT | From Rate Limiting to Account Takeover: The Bug That Escalated Quickly | lurooo | [Read More](https://medium.com/p/87f14bdd6f63) |
 | Tue, 20 May 2025 05:26:14 GMT | The CyberDiplomat’s Bi-weekly Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/052b9348c20a) |
 | Tue, 20 May 2025 05:22:45 GMT | How to Implement MITRE ATT&CK in Microsoft Sentinel (from Scratch, for Windows Endpoints) | ALOYSIUS IYKE | [Read More](https://medium.com/p/41d748356aa2) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 20:43:51 GMT | How CoinCollectExperts Helped Me Recover My Lost BTC and Ethereum | Robertdreher | [Read More](https://medium.com/p/fb11f38bc41a) |
 | Mon, 19 May 2025 20:26:31 GMT | SQL Injection in Various Databases | musayyab sharif | [Read More](https://medium.com/p/91e1519fe07d) |
 | Mon, 19 May 2025 20:13:22 GMT | From Breaking Systems to Building Them: Why I Created InLuna | Ronit Yadav | [Read More](https://medium.com/p/429ea213f5f4) |
-| Mon, 19 May 2025 19:58:58 GMT | Do Red Rooms Really Exist? Unpacking the Dark‑Web Rumor | Your's Nightmare | [Read More](https://medium.com/p/562c42def85b) |
-| Mon, 19 May 2025 19:57:45 GMT | How to Start a Career in Cybersecurity (Even If You're a Complete Beginner) | Bot Hacks | [Read More](https://medium.com/p/396062b7270e) |
-| Mon, 19 May 2025 19:53:13 GMT | Vulnerability forms deep meaningful relationships. | Ifrah | [Read More](https://medium.com/p/560c5bc1c816) |
-| Mon, 19 May 2025 19:49:23 GMT | Reverse Shell: Estudo prático para Entusiastas e Profissionais de Segurança | Sérgio Corrêa | [Read More](https://medium.com/p/cd83585f103d) |
-| Mon, 19 May 2025 19:47:42 GMT | “Before injection, understanding” — What every hacker needs to master before exploiting a NoSQL… | phoenixcatalan | [Read More](https://medium.com/p/1c16d31cc24f) |
-| Mon, 19 May 2025 19:47:11 GMT | Another security patch. Another missed opportunity. | Tide Foundation | [Read More](https://medium.com/p/ba381a4e434c) |
-| Mon, 19 May 2025 19:38:00 GMT | ️ Writing your first Cartography intel module | jychp | [Read More](https://medium.com/p/1b017c5425a6) |
-| Mon, 19 May 2025 19:32:39 GMT | Weiser Memorial Hospital Data Breach: 34,249 Patients Affected by Unauthorized Network Access | LegalNewsbyDave | [Read More](https://medium.com/p/f4158f8d09c2) |
-| Mon, 19 May 2025 19:30:18 GMT | The Diverse Threat of Malware | Abhay Parashar | [Read More](https://medium.com/p/f02dcea5ad8d) |
-| Mon, 19 May 2025 19:22:23 GMT | LetsDefend 
-SOC252 — Unauthorized user created a new user | Dh | [Read More](https://medium.com/p/e05fd82634c7) |
-| Mon, 19 May 2025 19:14:58 GMT | Human Error | Kaviarasan Asokan | [Read More](https://medium.com/p/7e91a29da335) |
-| Mon, 19 May 2025 19:10:59 GMT | Chapter 2 — The OSI Model Explained Like It’s a Road Trip (With a Browser and a Dream) — (Part 2) | Malik Ahmad | [Read More](https://medium.com/p/89cadc008828) |
-| Mon, 19 May 2025 19:10:39 GMT | Transformative Guide: Creating an Efficient Virtual Assistant Workflow for Better Business Results | riyaaz baig | [Read More](https://medium.com/p/066ae85f0783) |
-| Mon, 19 May 2025 18:54:22 GMT | Build Your Own AI SOC — Part 7 Build a Security Knowledge Assistant With RAG + GPT | Corey Jones | [Read More](https://medium.com/p/833f5e8eadaf) |
-| Mon, 19 May 2025 18:51:12 GMT | My Secret Of rxploiting Htmli To Be Critical Severity $$$$ | Hamzadzworm | [Read More](https://medium.com/p/017da0a12985) |
-| Mon, 19 May 2025 18:49:46 GMT | Cyberattack Disrupts Arla Foods Production in Germany | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/c2981e4898d2) |
-| Mon, 19 May 2025 18:42:26 GMT | Shadows Whispering in the Cosmos | Tales of Nyx | [Read More](https://medium.com/p/9cf2f3c1b2fc) |
