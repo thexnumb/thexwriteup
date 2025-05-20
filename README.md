@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 09:32:17 GMT | Protect your jobsite before it’s too late | Ivis Constructionsurveillance | [Read More](https://medium.com/p/8d431168f376) |
+| Tue, 20 May 2025 09:31:38 GMT | CyberUK 2025: Securing the Future by Building Resilience Today | Apto Solutions | [Read More](https://medium.com/p/9956e83cade0) |
+| Tue, 20 May 2025 09:30:29 GMT | Part 2: Deploy DeepSeek Using Llama.cpp, Unsloth, and a Custom Python Script | Wahidur Rahman | [Read More](https://medium.com/p/ae6fbcf3a9de) |
+| Tue, 20 May 2025 09:28:18 GMT | API Security 101: Protecting Your Data in a Connected World | Sathyanarayanan Dhanuskodi | [Read More](https://medium.com/p/a5233ae3297c) |
+| Tue, 20 May 2025 09:27:46 GMT | Cyber Law, AI Misuse & India’s Digital Future I Raj Sheoran x Dr. Pavan Duggal | Raj Sheoran | [Read More](https://medium.com/p/bab4080f93dc) |
+| Tue, 20 May 2025 09:26:49 GMT | What is Integrity in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/3f7192a503a5) |
+| Tue, 20 May 2025 09:25:24 GMT | SETTING UP A SMALL ORGANIZATION NETWORK AND DNS SERVER USING CISCO PACKET TRACER | Muhammad Jeleel | [Read More](https://medium.com/p/8de0f516eea4) |
+| Tue, 20 May 2025 09:23:43 GMT | Top Rated DevOps Course in Lahore for Career-Ready IT Professionals | cyberwingITSolution | [Read More](https://medium.com/p/52f76e44d451) |
 | Tue, 20 May 2025 09:20:04 GMT | “GPT Profile Jail” | obelyra | [Read More](https://medium.com/p/f3e2d0ae3a91) |
 | Tue, 20 May 2025 09:19:52 GMT | Proof of Reserve Nedir? KVHS’ler İçin Neden Kritik Öneme Sahip? | BeosinTR | [Read More](https://medium.com/p/35cc3ec76099) |
 | Tue, 20 May 2025 09:03:31 GMT | How a Hacker Hacked TU Eindhoven of Technology University Using Just VPN Credentials | Motasem Hamdan | [Read More](https://medium.com/p/21bc30a6856e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 02:27:03 GMT | Authentication — Proving You’re Really You (Without Sending a Selfie) | Bl@ckC!pH3r | [Read More](https://medium.com/p/b30c03867f69) |
 | Tue, 20 May 2025 02:25:46 GMT | Psalms — an invitation to relationship | LC | [Read More](https://medium.com/p/40d5f9caf1c1) |
 | Tue, 20 May 2025 02:14:41 GMT | Defense in Depth — Because One Lock Is Never Enough | Bl@ckC!pH3r | [Read More](https://medium.com/p/609740773221) |
-| Tue, 20 May 2025 02:14:30 GMT | Cybersecurity101: What Is Malware and How to Analyze it. | Kheyraldhs | [Read More](https://medium.com/p/cc5bf8602994) |
-| Tue, 20 May 2025 02:13:50 GMT | Top 10 Ethical Hacking Techniques You Should Know in 2025 | ByteFrame | [Read More](https://medium.com/p/03a6746d680b) |
-| Tue, 20 May 2025 02:07:35 GMT | Graph dalam Python | fijrisalwa | [Read More](https://medium.com/p/d54080fd7ebb) |
-| Tue, 20 May 2025 01:48:17 GMT | The ChatGPT Craze Is Ending — Google’s AI Takeover Begins | Shasri | [Read More](https://medium.com/p/03f0b23afa10) |
-| Tue, 20 May 2025 01:27:33 GMT | Digital Detectives: The Unsung Heroes behind Cyber Investigations | Fun with logs - Stories behind the evidence | [Read More](https://medium.com/p/ee4800bb1c85) |
-| Tue, 20 May 2025 01:17:46 GMT | How to Build a Risk Register That Actually Helps Decision-Making | Paritosh | [Read More](https://medium.com/p/240dc62d5d45) |
-| Tue, 20 May 2025 01:06:59 GMT | 5 Cybersecurity Habits That Make You Instantly More Valuable on Any Team | Kyle Barbre | [Read More](https://medium.com/p/0b4346883873) |
-| Tue, 20 May 2025 00:45:43 GMT | Why Didn’t Anyone Warn Me That Wallet Backups Can Be Hacked Too? | Pamela Talks | [Read More](https://medium.com/p/74384363be8b) |
