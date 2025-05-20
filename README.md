@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 05:36:34 GMT | From Rate Limiting to Account Takeover: The Bug That Escalated Quickly | lurooo | [Read More](https://medium.com/p/87f14bdd6f63) |
+| Tue, 20 May 2025 05:26:14 GMT | The CyberDiplomat’s Bi-weekly Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/052b9348c20a) |
+| Tue, 20 May 2025 05:22:45 GMT | How to Implement MITRE ATT&CK in Microsoft Sentinel (from Scratch, for Windows Endpoints) | ALOYSIUS IYKE | [Read More](https://medium.com/p/41d748356aa2) |
+| Tue, 20 May 2025 05:21:38 GMT | Cybersecurity Trends CTOs Should Know | Wakeyo Tolera | [Read More](https://medium.com/p/825d499364da) |
 | Tue, 20 May 2025 05:11:40 GMT | ⚔️ The Brutal Truth About Bug Bounty That Nobody Tells Beginners | Abhijeet Kumawat | [Read More](https://medium.com/p/10e419514165) |
 | Tue, 20 May 2025 05:10:07 GMT | Reconnaissance in PenTesting: A Beginner’s Guide | Pawan Jaiswal | [Read More](https://medium.com/p/4a38760831cb) |
 | Tue, 20 May 2025 05:06:31 GMT | AI SOC is Transforming Security Operations Centers (SOCs) | Simbian Ai | [Read More](https://medium.com/p/c99e3b2a750b) |
@@ -109,7 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 18:51:12 GMT | My Secret Of rxploiting Htmli To Be Critical Severity $$$$ | Hamzadzworm | [Read More](https://medium.com/p/017da0a12985) |
 | Mon, 19 May 2025 18:49:46 GMT | Cyberattack Disrupts Arla Foods Production in Germany | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/c2981e4898d2) |
 | Mon, 19 May 2025 18:42:26 GMT | Shadows Whispering in the Cosmos | Tales of Nyx | [Read More](https://medium.com/p/9cf2f3c1b2fc) |
-| Mon, 19 May 2025 18:40:35 GMT | Upgrade with a Managed IT Service Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/5cb12cc0aadb) |
-| Mon, 19 May 2025 18:39:55 GMT | Nutriscore | Accor Labsec | [Read More](https://medium.com/p/73ad1a9af455) |
-| Mon, 19 May 2025 18:39:18 GMT | Python ilə MD5 hash necə qırılır? | Yaqubnasibov | [Read More](https://medium.com/p/c841bd79148b) |
-| Mon, 19 May 2025 18:35:22 GMT | The Hacker’s OS: Why Linux Is the All-Time Favorite of Cybersec Pros and Ethical Hackers (Part… | Inside Garuda | [Read More](https://medium.com/p/ca63a46701a4) |
