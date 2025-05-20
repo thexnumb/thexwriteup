@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 08:44:13 GMT | Why Great Web Design & Development Matters More Than Ever in 2025 | Swethainspite | [Read More](https://medium.com/p/8d2498787374) |
+| Tue, 20 May 2025 08:43:46 GMT | Second-Order Takeover: Scoring High Rewards! | nocley | [Read More](https://medium.com/p/926ff658b76b) |
+| Tue, 20 May 2025 08:42:01 GMT | Top Cybersecurity Threats | The United Indian | [Read More](https://medium.com/p/7ae88ffc19c3) |
+| Tue, 20 May 2025 08:39:44 GMT | Rethinking Endpoint Security: Simpler, Smarter, and Truly Zero Trust | Man Of Truth | [Read More](https://medium.com/p/dddd843e9ecf) |
+| Tue, 20 May 2025 08:27:40 GMT | Ransomware: Comprehensive Analysis and Defense Strategies | Okan Yıldız | [Read More](https://medium.com/p/1aebfff3c3a6) |
+| Tue, 20 May 2025 08:27:13 GMT | Quantum Computers Threat to Bitcoin | Przemek Chojecki | [Read More](https://medium.com/p/e1b57b0da2aa) |
 | Tue, 20 May 2025 08:23:57 GMT | CORS Misconfiguration: The Silent Gateway to Cross-Origin Attacks— Writeup | Shah kaif | [Read More](https://medium.com/p/1e8418d2cf21) |
 | Tue, 20 May 2025 07:58:54 GMT | Lee Enterprises Reports $2M in Recovery Costs After Major Ransomware Incident | SafetyDetectives Research Team | [Read More](https://medium.com/p/d9e9f2b815ba) |
 | Tue, 20 May 2025 07:46:24 GMT | PostgreSQL Security Hardening: Protecting Your Production Database | Rizqi Mulki | [Read More](https://medium.com/p/efb9a195fb1d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 00:17:36 GMT | AI-Era Security Architecture: Bridging Technology and Human Dynamics | Shittu | [Read More](https://medium.com/p/b3df588f8590) |
 | Tue, 20 May 2025 00:13:58 GMT | The Weight of Just Right | Ryan Beach | [Read More](https://medium.com/p/f35c9592ea32) |
 | Tue, 20 May 2025 00:05:16 GMT | How to Leverage DORK $DORK for Extra Rewards | DORK | [Read More](https://medium.com/p/7699fb2ecb87) |
-| Tue, 20 May 2025 00:01:41 GMT | Master Google Dorks — Search Techniques for Cybersecurity and OSINT | JPablo13 | [Read More](https://medium.com/p/7ced756d02ca) |
-| Mon, 19 May 2025 23:50:00 GMT | This One Tool Turns Your Non-Rooted Termux into a Website Scanner | Alex Grande | [Read More](https://medium.com/p/d75525c71491) |
-| Mon, 19 May 2025 23:44:42 GMT | Deep-Dive Risk Assessment Beyond CVSS: Quantitative Risk Modeling with FAIR, Bayesian Networks, and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/989ca5977d9d) |
-| Mon, 19 May 2025 23:11:49 GMT | How to Install GoPhish in Your Environment - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/aa8b18fa9fb6) |
-| Mon, 19 May 2025 23:07:53 GMT | AI-Powered CCTV Monitoring — Smarter Surveillance, Safer Spaces | Visual Monitoring Solutions | [Read More](https://medium.com/p/1374f31c23b3) |
-| Mon, 19 May 2025 22:49:28 GMT | The Plea Of The Lord’s Beloved | ikeThewriter | [Read More](https://medium.com/p/df44a830ad3a) |
