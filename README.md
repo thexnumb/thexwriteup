@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 11:10:57 GMT | Top 10 Mobile Security Threats You Need to Know in 2025 | Adhvaidh | [Read More](https://medium.com/p/b5eabef3da5a) |
+| Tue, 20 May 2025 10:56:09 GMT | The Power of Ethical Hacking Certification: Your Gateway to a Cybersecurity Career | Certocean | [Read More](https://medium.com/p/cf32d00a5e29) |
+| Tue, 20 May 2025 10:51:54 GMT | Indonesia Cybersecurity Market Gaps and Resilience Strategy (2024–28) | Ken Research: Business Intelligence Firm | [Read More](https://medium.com/p/1d0da83dc0c8) |
+| Tue, 20 May 2025 10:46:27 GMT | Portswigger Web Security Academy - Path Traversal Lab #1 | BooRuleDie | [Read More](https://medium.com/p/87e15fb5557b) |
+| Tue, 20 May 2025 10:42:44 GMT | Understanding Security Roles in Oracle Cloud HCM -For beginners | Asif Adib | [Read More](https://medium.com/p/8c6a6f4632f1) |
 | Tue, 20 May 2025 10:36:53 GMT | Why Cybersecurity Needs More Builders, Not Just Theorists | Richard Dosumu | [Read More](https://medium.com/p/45442b2a466d) |
 | Tue, 20 May 2025 10:31:37 GMT | Navigating the World of Third-Party Cookies: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/714353750647) |
 | Tue, 20 May 2025 10:26:42 GMT | Here’s How I Recover My Money From Aura Funded | Jan Brandt | [Read More](https://medium.com/p/3d5e415551ca) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 05:05:27 GMT | 0-Click Account Takeover Earned Me €900 Bounty | Sahaj Gautam | [Read More](https://medium.com/p/f5b3b6dbb606) |
 | Tue, 20 May 2025 05:01:43 GMT | The Curious World of Adversarial Attacks: Understanding Their Mechanics and Real-World Impact | Marcus Gallego | [Read More](https://medium.com/p/fa06d305429d) |
 | Tue, 20 May 2025 04:50:51 GMT | It’s Okay Not to Be Okay. | chnvy | [Read More](https://medium.com/p/3f6c9eac5edc) |
-| Tue, 20 May 2025 04:46:33 GMT | Cybersecurity — What Even Is It? | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/cf939511b31c) |
-| Tue, 20 May 2025 04:46:11 GMT | Mastering SQL Injection Recon: Step-by-Step Guide for Bug Bounty Hunters | coffinxp | [Read More](https://medium.com/p/9f493fb058dd) |
-| Tue, 20 May 2025 04:44:59 GMT | What AI Agents Will Actually Do for Engineers in 2025 | Akshay Mittal | [Read More](https://medium.com/p/61f0d5c64a99) |
-| Tue, 20 May 2025 04:39:53 GMT | Writing Pentest Reports - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/35fd16cabb4d) |
-| Tue, 20 May 2025 04:37:46 GMT | Easy Account Takeover via OTP in Response — A Developer’s Oops Moment | Hack-Bat | [Read More](https://medium.com/p/91130d5e5686) |
