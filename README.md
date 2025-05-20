@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 07:07:51 GMT | ⚠️ How Hackers Use Social Engineering — With Real-World Examples You Need to Know | Naem Azam Chowdhury | [Read More](https://medium.com/p/08c8b3810dd7) |
+| Tue, 20 May 2025 07:05:37 GMT | What is XDR? Extended Detection & Response | Saurabh | [Read More](https://medium.com/p/bc0c5e004af7) |
+| Tue, 20 May 2025 07:04:26 GMT | Beyond Auth0: Navigating the Authentication Landscape in 2025 | Deepak Gupta | [Read More](https://medium.com/p/fd38be3f9562) |
+| Tue, 20 May 2025 07:02:52 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/a96d00f3f378) |
+| Tue, 20 May 2025 07:02:52 GMT | The Architecture of Quiet Collapse: How Systems Fail in the Age of Intelligence | Attila Dr. Nuray | [Read More](https://medium.com/p/2690df38df6c) |
+| Tue, 20 May 2025 07:01:33 GMT | Empowering Cybersecurity Careers: The Leading Ethical Hacking Academy in Kochi and Beyond | RedTeamsaniga Suresh | [Read More](https://medium.com/p/19a7c5738955) |
+| Tue, 20 May 2025 06:57:09 GMT | AI and cyber attack centre will be ‘leading force’ at Wolverhampton University | Babar Ali Jamali | [Read More](https://medium.com/p/1d8c77301181) |
+| Tue, 20 May 2025 06:48:54 GMT | SAPRouter — Port 3299 — How to expliot? | Very Lazy Tech | [Read More](https://medium.com/p/c3da21064ab3) |
+| Tue, 20 May 2025 06:33:50 GMT | What is NVR and DVR? NVR vs DVR Security Systems Explained | Manish | [Read More](https://medium.com/p/e10ba54f7f18) |
+| Tue, 20 May 2025 06:32:09 GMT | From Web3 Developer to Smart-Contract Auditor: Developer Slip-Ups in Math, Arrays, Calldata &… | Evgenii | [Read More](https://medium.com/p/f587d320ed54) |
+| Tue, 20 May 2025 06:31:41 GMT | Hackthebox — Cypher | HackerNasr | [Read More](https://medium.com/p/6fa30a702ae9) |
+| Tue, 20 May 2025 06:29:24 GMT | EvilWorker: a new AiTM attack framework based on leveraging service workers | Antoine Hazebrouck | [Read More](https://medium.com/p/da94ae171249) |
+| Tue, 20 May 2025 06:27:37 GMT | Why Cybersecurity is a Business Enabler, Not a Roadblock? | Harry Ko | [Read More](https://medium.com/p/224d309aff5b) |
+| Tue, 20 May 2025 06:25:04 GMT | Parmak İziyle Güvenli ve Esnek Depolama | Tufan Uyaroğlu | [Read More](https://medium.com/p/72ba86b53634) |
 | Tue, 20 May 2025 06:15:11 GMT | DeFi Summer: The Golden Days of Liquidation | 6ixty | [Read More](https://medium.com/p/e32cbc110dcd) |
 | Tue, 20 May 2025 06:07:58 GMT | XSS Part — 20 : Reflected XSS into a template literal with angle brackets, single, double quotes… | Ahmad Sopyan | [Read More](https://medium.com/p/067b36fdb376) |
 | Tue, 20 May 2025 06:07:22 GMT | Secure Your Business with the Top 5 Privileged Access Management Tools | Gauri Kale | [Read More](https://medium.com/p/62a3188921cf) |
@@ -85,6 +99,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 23:44:42 GMT | Deep-Dive Risk Assessment Beyond CVSS: Quantitative Risk Modeling with FAIR, Bayesian Networks, and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/989ca5977d9d) |
 | Mon, 19 May 2025 23:11:49 GMT | How to Install GoPhish in Your Environment - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/aa8b18fa9fb6) |
 | Mon, 19 May 2025 23:07:53 GMT | AI-Powered CCTV Monitoring — Smarter Surveillance, Safer Spaces | Visual Monitoring Solutions | [Read More](https://medium.com/p/1374f31c23b3) |
+| Mon, 19 May 2025 22:49:28 GMT | The Plea Of The Lord’s Beloved | ikeThewriter | [Read More](https://medium.com/p/df44a830ad3a) |
 | Mon, 19 May 2025 22:45:44 GMT | Ctrl+Alt+Del My Will to Live | Darkmode Studios | [Read More](https://medium.com/p/930ba64ff9b7) |
 | Mon, 19 May 2025 22:39:35 GMT | My First Incident Response: Rookie Mistakes, Trojan Panic, and One Stomach-Dropping Afternoon | Luispuello | [Read More](https://medium.com/p/f3ae2866d4dd) |
 | Mon, 19 May 2025 22:37:33 GMT | The Trouble with Feeling Everything | maple syrup fox | [Read More](https://medium.com/p/698f6d7d2f82) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 21:49:00 GMT | NVIDIA Expands Quantum and AI Ecosystem in Taiwan Through Strategic Partnerships and Supercomputing… | QuantumGenie | [Read More](https://medium.com/p/7f2572c3c71e) |
 | Mon, 19 May 2025 21:33:05 GMT | Top 10 AI Security Video — May | Tal Eliyahu | [Read More](https://medium.com/p/24ff3c6dadd9) |
 | Mon, 19 May 2025 21:30:53 GMT | Can You Spot a Malicious URL? A Machine Learning Approach to Cyber Threat Detection | ab | [Read More](https://medium.com/p/9bd1cf590f02) |
-| Mon, 19 May 2025 21:28:16 GMT | Scaling Cybersecurity: How Small Businesses Can Build Resilient and Secure IT Systems on a Budget | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/9ecc9e1c8597) |
-| Mon, 19 May 2025 21:26:48 GMT | The Things I Wish I Said But Smiled Through Instead. | Alicia Alex | [Read More](https://medium.com/p/bb34b3b9a692) |
-| Mon, 19 May 2025 21:20:06 GMT | Exploring Linux Kernel Capabilities | Progsky | [Read More](https://medium.com/p/691d1eec45e0) |
-| Mon, 19 May 2025 21:15:21 GMT | XSS (Cross-Site-Scripting) Nedir? | ozanturancakir | [Read More](https://medium.com/p/87a9bee41ae2) |
-| Mon, 19 May 2025 21:13:54 GMT | HTML Smuggling | S12 - H4CK | [Read More](https://medium.com/p/1c6b7fb51071) |
-| Mon, 19 May 2025 21:09:50 GMT | Start Your Cybersecurity Career with the ISC2 Certified in Cybersecurity (CC) Exam! | lady_like_lydia | [Read More](https://medium.com/p/17a5586e7540) |
-| Mon, 19 May 2025 21:08:55 GMT | This Tiny Predator Uses Tools to Capture Its Prey | Cassie Welander, PhD | [Read More](https://medium.com/p/0b641a3e8d51) |
-| Mon, 19 May 2025 21:07:22 GMT | How Hackers Steal Your Passwords Without Hacking You | Stealseek | [Read More](https://medium.com/p/92608e87d85f) |
-| Mon, 19 May 2025 21:03:26 GMT | Chapter : The Sparkling Night | Diksha Srivastava | [Read More](https://medium.com/p/bf66cde462e3) |
-| Mon, 19 May 2025 20:53:16 GMT | From Alerts to Armistice: Why Cybersecurity Without Geopolitics Is a Losing Game | SIMKRA | [Read More](https://medium.com/p/6b32bcc113e9) |
-| Mon, 19 May 2025 20:51:15 GMT | The Hacker Myth: What They Don’t Tell You About Pirated Software, Inside Jobs, and Industry Silence | The Univah Film Engine | [Read More](https://medium.com/p/44cc7a446dd6) |
-| Mon, 19 May 2025 20:44:34 GMT | HTB — Broker Write-up | Nikita Astashenko | [Read More](https://medium.com/p/bdaa90afaef1) |
-| Mon, 19 May 2025 20:43:51 GMT | How CoinCollectExperts Helped Me Recover My Lost BTC and Ethereum | Robertdreher | [Read More](https://medium.com/p/fb11f38bc41a) |
-| Mon, 19 May 2025 20:26:31 GMT | SQL Injection in Various Databases | musayyab sharif | [Read More](https://medium.com/p/91e1519fe07d) |
-| Mon, 19 May 2025 20:13:22 GMT | From Breaking Systems to Building Them: Why I Created InLuna | Ronit Yadav | [Read More](https://medium.com/p/429ea213f5f4) |
