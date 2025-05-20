@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 04:01:39 GMT | Mastering the Art of Ethical Hacking with CEH v13: Your Gateway to a Cybersecurity Career | LazyHacker | [Read More](https://medium.com/p/15eb5cacdfb8) |
+| Tue, 20 May 2025 03:48:04 GMT | Trivial Flag Transfer Protocol - Writeup | Marvin | [Read More](https://medium.com/p/a62835ddaddf) |
 | Tue, 20 May 2025 03:42:29 GMT | STARTUP-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/9229cbdbde43) |
 | Tue, 20 May 2025 03:35:46 GMT | Earlier this year, I fell victim to an elaborate phishing scam. | Robertdreher | [Read More](https://medium.com/p/e0a7ca59d43a) |
 | Tue, 20 May 2025 03:32:12 GMT | Crocodilus: The Silent Android Predator Draining Crypto Wallets | Deven Chhajed | [Read More](https://medium.com/p/26df41b78974) |
@@ -20,6 +22,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 03:10:48 GMT | Consent Revoked | Vanya Yani | [Read More](https://medium.com/p/af3db546f985) |
 | Tue, 20 May 2025 03:02:53 GMT | Five Ways Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Manish Shivanandhan | [Read More](https://medium.com/p/8fc74d0aefc9) |
 | Tue, 20 May 2025 02:54:43 GMT | Reimagining Web Directory Enumeration with AI | Atul Raman | [Read More](https://medium.com/p/1af1262c934f) |
+| Tue, 20 May 2025 02:42:07 GMT | I’m Not Anti-Social, I Just Prefer People in Low Resolution | Finding Wonderland | [Read More](https://medium.com/p/0e751fa516d4) |
 | Tue, 20 May 2025 02:38:28 GMT | Authorization — What You’re Allowed to Do (No, You Can’t Just Touch Every Button) | Bl@ckC!pH3r | [Read More](https://medium.com/p/9c2ac361cd14) |
 | Tue, 20 May 2025 02:27:59 GMT | Volt Typhoon THM - Writeup | Domon | [Read More](https://medium.com/p/b998300de4fa) |
 | Tue, 20 May 2025 02:27:03 GMT | Authentication — Proving You’re Really You (Without Sending a Selfie) | Bl@ckC!pH3r | [Read More](https://medium.com/p/b30c03867f69) |
@@ -110,6 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 18:03:45 GMT | DeepSeek Cyber Attack: Timeline, Impact, and Lessons Learned | Xaltius | [Read More](https://medium.com/p/16451806b438) |
 | Mon, 19 May 2025 18:02:59 GMT | Exciting Cybersecurity Careers That Don’t Require Coding | Dhanush N | [Read More](https://medium.com/p/9e22ac87cc5f) |
 | Mon, 19 May 2025 18:02:37 GMT | To Love Without a Parachute | ‘oranma | [Read More](https://medium.com/p/18c90d4b78e7) |
-| Mon, 19 May 2025 18:00:48 GMT | The Most In-Demand Cybersecurity Skills Students Should Learn | Xaltius | [Read More](https://medium.com/p/c9d6ef5ab1b3) |
-| Mon, 19 May 2025 17:57:04 GMT | Secure Email Gateway: Essential Protection for Business Communications | Xaltius | [Read More](https://medium.com/p/06861898c0de) |
-| Mon, 19 May 2025 17:55:07 GMT | Project Discovery, Tomnomnom Tools and Go Programming all in one script auto installer for Bug… | Babar Ali Jamali | [Read More](https://medium.com/p/871befe3df2e) |
