@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 11:37:19 GMT | Cloud Penetration Testing Services: Essential Strategies for Securing Cloud Environments | StrongBox IT | [Read More](https://medium.com/p/92cbae21bc19) |
+| Tue, 20 May 2025 11:35:18 GMT | Cyber Risk Management Services in Arizona: Why Local Businesses Can’t Afford to Ignore Them | Fountain Hills Technologies | [Read More](https://medium.com/p/a8efe9323fe0) |
+| Tue, 20 May 2025 11:35:15 GMT | Linux | Hiranur Gemalmaz | [Read More](https://medium.com/p/b6410b8cfede) |
+| Tue, 20 May 2025 11:26:41 GMT | Top 5 Benefits of Investing in Expert Vulnerability Scanning Services for Your Arizona Business | Fountain Hills Technologies | [Read More](https://medium.com/p/f829bcd71e55) |
+| Tue, 20 May 2025 11:24:16 GMT | The Emerging Demand for Cybersecurity Professionals in Kerala | RedTeamsaniga Suresh | [Read More](https://medium.com/p/7ba0fbc09728) |
+| Tue, 20 May 2025 11:22:11 GMT | Study IT Online in Australia: Best Courses for 2025 | Educ4te | [Read More](https://medium.com/p/e972ff89ff51) |
+| Tue, 20 May 2025 11:20:13 GMT | Introduction to Threat Hunting | Prakash Karekar | [Read More](https://medium.com/p/bbc22fe8aaf5) |
+| Tue, 20 May 2025 11:19:32 GMT | ️ Learn Pentesting in the Cloud Using Google Cloud Shell, Docker & ChatGPT — A Prompt-Driven… | VidyaRao | [Read More](https://medium.com/p/2cf62dbb6cb5) |
+| Tue, 20 May 2025 11:17:57 GMT | Web Investigation Lab — CyberDefenders | Jesús García Rubias | [Read More](https://medium.com/p/c87393995505) |
 | Tue, 20 May 2025 11:10:57 GMT | Top 10 Mobile Security Threats You Need to Know in 2025 | Adhvaidh | [Read More](https://medium.com/p/b5eabef3da5a) |
 | Tue, 20 May 2025 10:56:09 GMT | The Power of Ethical Hacking Certification: Your Gateway to a Cybersecurity Career | Certocean | [Read More](https://medium.com/p/cf32d00a5e29) |
 | Tue, 20 May 2025 10:51:54 GMT | Indonesia Cybersecurity Market Gaps and Resilience Strategy (2024–28) | Ken Research: Business Intelligence Firm | [Read More](https://medium.com/p/1d0da83dc0c8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 05:37:08 GMT | Day 10 of 15: The Havex Supply Chain Breach — When Trusted Software Became the Trojan Horse | om sonawane | [Read More](https://medium.com/p/c9085e0af7fe) |
 | Tue, 20 May 2025 05:36:49 GMT | The Daily Tech Digest: 20 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d72b71ec3bef) |
 | Tue, 20 May 2025 05:36:34 GMT | From Rate Limiting to Account Takeover: The Bug That Escalated Quickly | lurooo | [Read More](https://medium.com/p/87f14bdd6f63) |
-| Tue, 20 May 2025 05:26:14 GMT | The CyberDiplomat’s Bi-weekly Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/052b9348c20a) |
-| Tue, 20 May 2025 05:22:45 GMT | How to Implement MITRE ATT&CK in Microsoft Sentinel (from Scratch, for Windows Endpoints) | ALOYSIUS IYKE | [Read More](https://medium.com/p/41d748356aa2) |
-| Tue, 20 May 2025 05:21:38 GMT | Cybersecurity Trends CTOs Should Know | Wakeyo Tolera | [Read More](https://medium.com/p/825d499364da) |
-| Tue, 20 May 2025 05:11:40 GMT | ⚔️ The Brutal Truth About Bug Bounty That Nobody Tells Beginners | Abhijeet Kumawat | [Read More](https://medium.com/p/10e419514165) |
-| Tue, 20 May 2025 05:10:07 GMT | Reconnaissance in PenTesting: A Beginner’s Guide | Pawan Jaiswal | [Read More](https://medium.com/p/4a38760831cb) |
-| Tue, 20 May 2025 05:06:31 GMT | AI SOC is Transforming Security Operations Centers (SOCs) | Simbian Ai | [Read More](https://medium.com/p/c99e3b2a750b) |
-| Tue, 20 May 2025 05:05:27 GMT | 0-Click Account Takeover Earned Me €900 Bounty | Sahaj Gautam | [Read More](https://medium.com/p/f5b3b6dbb606) |
-| Tue, 20 May 2025 05:01:43 GMT | The Curious World of Adversarial Attacks: Understanding Their Mechanics and Real-World Impact | Marcus Gallego | [Read More](https://medium.com/p/fa06d305429d) |
-| Tue, 20 May 2025 04:50:51 GMT | It’s Okay Not to Be Okay. | chnvy | [Read More](https://medium.com/p/3f6c9eac5edc) |
