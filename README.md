@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 23:05:16 GMT | Strength That Speaks — Introducing the Full-Length Hybrid Security Gate | LDSystems — Unlock The Power Of Advanced Solutions | [Read More](https://medium.com/p/4f3a0651dc42) |
+| Tue, 20 May 2025 23:04:27 GMT | Earn More with DORK $DORK Passive Income Strategies | DORK | [Read More](https://medium.com/p/759d635e0e7d) |
+| Tue, 20 May 2025 23:01:21 GMT | 24/7 Eyes, Zero Compromise. | Visual Monitoring Solutions | [Read More](https://medium.com/p/255530ee3986) |
+| Tue, 20 May 2025 22:48:56 GMT | VeraCrypt Encryption Guide: Secure Your USB with Hidden Volumes | Eduard Jacobs | [Read More](https://medium.com/p/71a7ba96f954) |
+| Tue, 20 May 2025 22:47:46 GMT | The Importance of Securing Your DNS Against Cyber Threats | Akshay Chauhan | [Read More](https://medium.com/p/e97e04957696) |
+| Tue, 20 May 2025 22:43:26 GMT | I Got Phished by an Apple Scam — Here’s What Happened and What I Learned | Mercy Baliach | [Read More](https://medium.com/p/583f497a0279) |
 | Tue, 20 May 2025 22:28:45 GMT | HackTheBox Legacy Walkthrough: Exploiting a Windows XP Vulnerability | Amanuel | [Read More](https://medium.com/p/6f93ba701ea5) |
 | Tue, 20 May 2025 22:17:33 GMT | What Happens When You Type a URL into a Web Browser? | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e984944fe2d4) |
 | Tue, 20 May 2025 22:04:27 GMT | Part 2 — Designing & Driving an Impactful Awareness Program (Proofpoint Strategy) | Khalil Z. | [Read More](https://medium.com/p/92b790d43954) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 16:25:04 GMT | Why I Treat Every New Linux Server as Already Compromised | Faruk Ahmed | [Read More](https://medium.com/p/3e740871ce06) |
 | Tue, 20 May 2025 16:14:50 GMT | Malware: The Invisible Enemy Inside Your Inbox | Niti Singh | [Read More](https://medium.com/p/10a7ce21097e) |
 | Tue, 20 May 2025 16:05:30 GMT | Membongkar Cara Nmap Mengetahui Sebuah IP “Hidup” | Velia's Journey | [Read More](https://medium.com/p/49db66b1a4f0) |
-| Tue, 20 May 2025 15:59:59 GMT | ️ How I Found FTP Credentials in a Python Script on a NASA Subdomain | Unknown Soldier | [Read More](https://medium.com/p/dc7f4676444c) |
-| Tue, 20 May 2025 15:49:08 GMT | From Recon to Root: A MongoDB NoSQL Injection Bug Bounty Journey | Aditya Bhatt | [Read More](https://medium.com/p/18e9cb309cac) |
-| Tue, 20 May 2025 15:47:17 GMT | The Old Time Heroes | John Thorn | [Read More](https://medium.com/p/c6be3f162d17) |
-| Tue, 20 May 2025 15:44:51 GMT | On some level, you know. | R S | [Read More](https://medium.com/p/c2457bcb8aab) |
-| Tue, 20 May 2025 15:35:13 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/7dd4d64a63d5) |
-| Tue, 20 May 2025 15:30:37 GMT | Is It You or Healing? | isa ☁️ | [Read More](https://medium.com/p/76375742e454) |
