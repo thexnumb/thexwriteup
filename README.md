@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 04:39:53 GMT | Writing Pentest Reports - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/35fd16cabb4d) |
+| Tue, 20 May 2025 04:37:46 GMT | Easy Account Takeover via OTP in Response — A Developer’s Oops Moment | Hack-Bat | [Read More](https://medium.com/p/91130d5e5686) |
+| Tue, 20 May 2025 04:37:30 GMT | ️ How Hackers Bypass Web Application Firewalls (WAFs) in 2025 | Vipul Sonule | [Read More](https://medium.com/p/c2a5052044c9) |
+| Tue, 20 May 2025 04:31:42 GMT | Side-Channel Attacks: When Hackers Read Your Chips, Not Your Code | Nanda Siddhardha | [Read More](https://medium.com/p/5604f6b8b511) |
+| Tue, 20 May 2025 04:28:08 GMT | How to Maximize Your Rewards with Bugs Bunny $BUGS in 2025 | BUGS | [Read More](https://medium.com/p/eb782c3427ce) |
+| Tue, 20 May 2025 04:26:20 GMT | Graph-QL Vulnerability can help you make $$$$ | Rishav anand | [Read More](https://medium.com/p/cfc79270e79d) |
 | Tue, 20 May 2025 04:01:39 GMT | Mastering the Art of Ethical Hacking with CEH v13: Your Gateway to a Cybersecurity Career | LazyHacker | [Read More](https://medium.com/p/15eb5cacdfb8) |
 | Tue, 20 May 2025 03:48:04 GMT | Trivial Flag Transfer Protocol - Writeup | Marvin | [Read More](https://medium.com/p/a62835ddaddf) |
 | Tue, 20 May 2025 03:42:29 GMT | STARTUP-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/9229cbdbde43) |
@@ -107,9 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 18:18:46 GMT | How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover | Ahmed Ashraf Shora | [Read More](https://medium.com/p/d84f6cf8c169) |
 | Mon, 19 May 2025 18:13:20 GMT | When AIs Break the Script: How Prompt Tampering Reveals a Governance Vacuum | Njabulo Brighton Chitsiko | [Read More](https://medium.com/p/c4e830ffe83f) |
 | Mon, 19 May 2025 18:11:53 GMT | The Future of Software Isn’t Automation, It’s Discovery | Arpan Agarwal | [Read More](https://medium.com/p/56da73a8284a) |
-| Mon, 19 May 2025 18:11:32 GMT | Debugging My Mind: Ek Programmer ki Kahani | Jaya Vishwakarma | [Read More](https://medium.com/p/c168004b4d5e) |
-| Mon, 19 May 2025 18:04:44 GMT | ️ Climbing the Wazuh Mountain: Building My Own SIEM Lab from Scratch | Manish Rawat | [Read More](https://medium.com/p/34ee9beeb3b0) |
-| Mon, 19 May 2025 18:04:13 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 45 | Cyber Strategy Institute | [Read More](https://medium.com/p/cabaf1f4bfc7) |
-| Mon, 19 May 2025 18:03:45 GMT | DeepSeek Cyber Attack: Timeline, Impact, and Lessons Learned | Xaltius | [Read More](https://medium.com/p/16451806b438) |
-| Mon, 19 May 2025 18:02:59 GMT | Exciting Cybersecurity Careers That Don’t Require Coding | Dhanush N | [Read More](https://medium.com/p/9e22ac87cc5f) |
-| Mon, 19 May 2025 18:02:37 GMT | To Love Without a Parachute | ‘oranma | [Read More](https://medium.com/p/18c90d4b78e7) |
