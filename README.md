@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 16:38:50 GMT | Creating a Seamless Client-Freelancer Connection with Virtual Assistant Platforms | riyaaz baig | [Read More](https://medium.com/p/c5277eb9ba53) |
+| Tue, 20 May 2025 16:37:57 GMT | You Are Under Attack. You Are at War with Automation | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b369b0fa5f44) |
+| Tue, 20 May 2025 16:33:54 GMT | Windows ve Linux İşletim Sistemlerinde Yetki Yükseltme Teknikleri | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/c011904b22e6) |
+| Tue, 20 May 2025 16:33:23 GMT | XSS DOM DVWA | Sotong | [Read More](https://medium.com/p/151d68b8c543) |
+| Tue, 20 May 2025 16:32:08 GMT | Why do we Need Cybersecurity? | Samridhi | [Read More](https://medium.com/p/a8d1c9257913) |
+| Tue, 20 May 2025 16:29:22 GMT | Structuring Unstructured Information: Demonstrating AI Capabilities in Systems Engineering and… | Dwayne Phillips | [Read More](https://medium.com/p/b2a7fbc56191) |
+| Tue, 20 May 2025 16:27:00 GMT | For security, Android phones will now auto-reboot after three days | George Maciver | [Read More](https://medium.com/p/3377556860d0) |
+| Tue, 20 May 2025 16:25:04 GMT | Why I Treat Every New Linux Server as Already Compromised | Faruk Ahmed | [Read More](https://medium.com/p/3e740871ce06) |
 | Tue, 20 May 2025 16:14:50 GMT | Malware: The Invisible Enemy Inside Your Inbox | Niti Singh | [Read More](https://medium.com/p/10a7ce21097e) |
+| Tue, 20 May 2025 16:05:30 GMT | Membongkar Cara Nmap Mengetahui Sebuah IP “Hidup” | Velia's Journey | [Read More](https://medium.com/p/49db66b1a4f0) |
 | Tue, 20 May 2025 15:59:59 GMT | ️ How I Found FTP Credentials in a Python Script on a NASA Subdomain | Unknown Soldier | [Read More](https://medium.com/p/dc7f4676444c) |
 | Tue, 20 May 2025 15:49:08 GMT | From Recon to Root: A MongoDB NoSQL Injection Bug Bounty Journey | Aditya Bhatt | [Read More](https://medium.com/p/18e9cb309cac) |
 | Tue, 20 May 2025 15:47:17 GMT | The Old Time Heroes | John Thorn | [Read More](https://medium.com/p/c6be3f162d17) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 11:24:16 GMT | The Emerging Demand for Cybersecurity Professionals in Kerala | RedTeamsaniga Suresh | [Read More](https://medium.com/p/7ba0fbc09728) |
 | Tue, 20 May 2025 11:22:11 GMT | Study IT Online in Australia: Best Courses for 2025 | Educ4te | [Read More](https://medium.com/p/e972ff89ff51) |
 | Tue, 20 May 2025 11:20:13 GMT | Introduction to Threat Hunting | Prakash Karekar | [Read More](https://medium.com/p/bbc22fe8aaf5) |
-| Tue, 20 May 2025 11:19:32 GMT | ️ Learn Pentesting in the Cloud Using Google Cloud Shell, Docker & ChatGPT — A Prompt-Driven… | VidyaRao | [Read More](https://medium.com/p/2cf62dbb6cb5) |
-| Tue, 20 May 2025 11:17:57 GMT | Web Investigation Lab — CyberDefenders | Jesús García Rubias | [Read More](https://medium.com/p/c87393995505) |
-| Tue, 20 May 2025 11:10:57 GMT | Top 10 Mobile Security Threats You Need to Know in 2025 | Adhvaidh | [Read More](https://medium.com/p/b5eabef3da5a) |
-| Tue, 20 May 2025 10:56:09 GMT | The Power of Ethical Hacking Certification: Your Gateway to a Cybersecurity Career | Certocean | [Read More](https://medium.com/p/cf32d00a5e29) |
-| Tue, 20 May 2025 10:51:54 GMT | Indonesia Cybersecurity Market Gaps and Resilience Strategy (2024–28) | Ken Research: Business Intelligence Firm | [Read More](https://medium.com/p/1d0da83dc0c8) |
-| Tue, 20 May 2025 10:46:27 GMT | Portswigger Web Security Academy - Path Traversal Lab #1 | BooRuleDie | [Read More](https://medium.com/p/87e15fb5557b) |
-| Tue, 20 May 2025 10:42:44 GMT | Understanding Security Roles in Oracle Cloud HCM -For beginners | Asif Adib | [Read More](https://medium.com/p/8c6a6f4632f1) |
-| Tue, 20 May 2025 10:36:53 GMT | Why Cybersecurity Needs More Builders, Not Just Theorists | Richard Dosumu | [Read More](https://medium.com/p/45442b2a466d) |
-| Tue, 20 May 2025 10:31:37 GMT | Navigating the World of Third-Party Cookies: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/714353750647) |
