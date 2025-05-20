@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 19:32:30 GMT | The One Way Trip | Typical Angel | [Read More](https://medium.com/p/0e2b373899d5) |
+| Tue, 20 May 2025 19:26:41 GMT | I Found a Hidden Camera in a Wi-Fi Network Using My Phone | Sam Galope | [Read More](https://medium.com/p/cb00fe958138) |
+| Tue, 20 May 2025 19:14:46 GMT | ️ Scattered Spider Is Back — And This Time, They’re Coming for U.S. Retailers | Sakya Somnath Das | [Read More](https://medium.com/p/47b8e1d4ac1a) |
+| Tue, 20 May 2025 19:12:05 GMT | A brief history and evolution of locks | Locksmith of Brevard | [Read More](https://medium.com/p/d46ffa846ed3) |
+| Tue, 20 May 2025 19:10:51 GMT | Cheyanne Mallas PA: Orchestrating Security in a Digital World | Cheyannemallaspa | [Read More](https://medium.com/p/9a3aeb09f9f3) |
 | Tue, 20 May 2025 19:03:20 GMT | SK Telecom Data Breach 27 Million Customers Affected Over 3-Year | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/8ae08ed54ce4) |
 | Tue, 20 May 2025 19:01:32 GMT | A Security Review of Wireless CarPlay Devices | 0x32-dev | [Read More](https://medium.com/p/7c365daf30ba) |
 | Tue, 20 May 2025 18:58:15 GMT | Tried to book a meal, instead I found a RAT | 0x32-dev | [Read More](https://medium.com/p/acaa8e612fd6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 14:02:38 GMT | My eCIR exam review 2025 (usefull resources, free labs and etc.) | John Barnett | [Read More](https://medium.com/p/1212950e4e4d) |
 | Tue, 20 May 2025 14:02:14 GMT | Here’s How I Recover My Money From Tradelax | Nadine Moeller | [Read More](https://medium.com/p/93f366dd9a3c) |
 | Tue, 20 May 2025 13:59:29 GMT | Cyber Briefing: 2025.05.20 | CyberMaterial | [Read More](https://medium.com/p/3a5e8f436127) |
-| Tue, 20 May 2025 13:57:59 GMT | Securing Your Next.js App: XSS Protection | Mohamadhassan | [Read More](https://medium.com/p/ce655e55590d) |
-| Tue, 20 May 2025 13:56:36 GMT | Claude 3.7 Sonnet: CODE HACKED — 46 Pages of System Prompt Revealed! #anthropic #hack #chatgpt | ParlonsIA | [Read More](https://medium.com/p/034edba72b34) |
-| Tue, 20 May 2025 13:51:24 GMT | Top 10 Cybersecurity Threats in 2025 and How to Protect Yourself | Xcyber Squad | [Read More](https://medium.com/p/3fc653628fbd) |
-| Tue, 20 May 2025 13:48:43 GMT | ICTF 2025 Tic Tac Toe Writeup | MaanVader | [Read More](https://medium.com/p/482705d9a882) |
-| Tue, 20 May 2025 13:44:18 GMT | Gotcha Moments Don’t Build Trust — They Undermine Real Security | Scott Hill | [Read More](https://medium.com/p/c0521e32d5aa) |
