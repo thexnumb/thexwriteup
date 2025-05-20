@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 10:36:53 GMT | Why Cybersecurity Needs More Builders, Not Just Theorists | Richard Dosumu | [Read More](https://medium.com/p/45442b2a466d) |
+| Tue, 20 May 2025 10:31:37 GMT | Navigating the World of Third-Party Cookies: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/714353750647) |
+| Tue, 20 May 2025 10:26:42 GMT | Here’s How I Recover My Money From Aura Funded | Jan Brandt | [Read More](https://medium.com/p/3d5e415551ca) |
+| Tue, 20 May 2025 10:23:10 GMT | Did AI Kill Stack Overflow?— I Hope It Survives | Elye - A One Eye Dev By His Grace | [Read More](https://medium.com/p/798f66d9a6da) |
+| Tue, 20 May 2025 10:22:08 GMT | Custom Website Development: Build Your Business the Smart Way | Jahanainspite | [Read More](https://medium.com/p/68a1ad01909c) |
+| Tue, 20 May 2025 10:21:37 GMT | Bug Bounty Hunters in Web3: How to Start and How Much You Can Make | Johnny Time | [Read More](https://medium.com/p/e311fc0d5cb7) |
 | Tue, 20 May 2025 10:14:45 GMT | How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Younes Sellimi | [Read More](https://medium.com/p/bb38034e77e3) |
 | Tue, 20 May 2025 10:11:23 GMT | Are you a Fortune 500 company? Not so fortune. | Martin Abramov | [Read More](https://medium.com/p/5e92e23dd20f) |
 | Tue, 20 May 2025 09:58:36 GMT | Basic Web Enumeration. | Ravindra Manjhi | [Read More](https://medium.com/p/13ab72eaf8b2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 04:44:59 GMT | What AI Agents Will Actually Do for Engineers in 2025 | Akshay Mittal | [Read More](https://medium.com/p/61f0d5c64a99) |
 | Tue, 20 May 2025 04:39:53 GMT | Writing Pentest Reports - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/35fd16cabb4d) |
 | Tue, 20 May 2025 04:37:46 GMT | Easy Account Takeover via OTP in Response — A Developer’s Oops Moment | Hack-Bat | [Read More](https://medium.com/p/91130d5e5686) |
-| Tue, 20 May 2025 04:37:30 GMT | ️ How Hackers Bypass Web Application Firewalls (WAFs) in 2025 | Vipul Sonule | [Read More](https://medium.com/p/c2a5052044c9) |
-| Tue, 20 May 2025 04:35:01 GMT | The Linux Process Journey — fallocate (Preallocate\Deallocate Space for a File) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5954958b6c5b) |
-| Tue, 20 May 2025 04:31:42 GMT | Side-Channel Attacks: When Hackers Read Your Chips, Not Your Code | Nanda Siddhardha | [Read More](https://medium.com/p/5604f6b8b511) |
-| Tue, 20 May 2025 04:28:08 GMT | How to Maximize Your Rewards with Bugs Bunny $BUGS in 2025 | BUGS | [Read More](https://medium.com/p/eb782c3427ce) |
-| Tue, 20 May 2025 04:26:20 GMT | Graph-QL Vulnerability can help you make $$$$ | Rishav anand | [Read More](https://medium.com/p/cfc79270e79d) |
-| Tue, 20 May 2025 04:01:39 GMT | Mastering the Art of Ethical Hacking with CEH v13: Your Gateway to a Cybersecurity Career | LazyHacker | [Read More](https://medium.com/p/15eb5cacdfb8) |
