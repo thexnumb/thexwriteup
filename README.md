@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 15:21:22 GMT | Cloudflare Bug Bounty: First Old Password Does Not Expire After Password Change | Buvaneshvaran | [Read More](https://medium.com/p/b767a050d231) |
+| Tue, 20 May 2025 15:16:00 GMT | GÜVENLİK VE RİSK YÖNETİMİ | Abdurrahman Karabacak | [Read More](https://medium.com/p/a584bce86ee5) |
+| Tue, 20 May 2025 15:14:20 GMT | Code That Teaches: Software as a Medium of Understanding | Landin McSorley | [Read More](https://medium.com/p/561b2b1cbf71) |
+| Tue, 20 May 2025 15:13:13 GMT | Passkeys in Practice: Simplify Logins and Eliminate Phishing Risk | Gregg Westgate | [Read More](https://medium.com/p/3e20cbce649b) |
+| Tue, 20 May 2025 15:11:12 GMT | How CISOs Can Defend Against the “Harvest Now, Decrypt Later” Threat | QuantumGenie | [Read More](https://medium.com/p/cfb139602ae2) |
+| Tue, 20 May 2025 15:06:34 GMT | Day 41: The Evolution and Security Landscape of Wi-Fi Technology | Agarwaldaksh | [Read More](https://medium.com/p/0f7ba9c53626) |
+| Tue, 20 May 2025 15:05:04 GMT | AI Risks: The New World of AI Insurance | Ahmed Fessi | [Read More](https://medium.com/p/971c6717eecb) |
+| Tue, 20 May 2025 15:03:37 GMT | Why Your Passwords Aren’t Safe: 7 Urgent Security Steps You Need Today | Kuldeepkumawat | [Read More](https://medium.com/p/b075bab250cd) |
+| Tue, 20 May 2025 15:01:56 GMT | A Future Hidden in Plain Sight | Enobong Frank Itaeyo | [Read More](https://medium.com/p/02946981f020) |
+| Tue, 20 May 2025 14:59:52 GMT | Why HIPAA Compliance Alone Won’t Protect Your Digital Health Startup During M&A | Aaron T. Maguregui | [Read More](https://medium.com/p/14fdad0a225b) |
+| Tue, 20 May 2025 14:53:09 GMT | From Powerless to Powerful: How a Dead Laptop Taught Us More Than a Lecture Ever Could | Afshan Noorin | [Read More](https://medium.com/p/5f5776db8573) |
+| Tue, 20 May 2025 14:48:30 GMT | Fake KeePass Password Manager Used to Launch VMware ESXi Ransomware Attacks. | eL Njas!™ | [Read More](https://medium.com/p/a51d4356b798) |
+| Tue, 20 May 2025 14:44:27 GMT | Same Mission, Different Languages — Why HR & Security Don’t Naturally Align. | SecOps | [Read More](https://medium.com/p/c6e586c7c2bd) |
 | Tue, 20 May 2025 14:36:12 GMT | Virtualization is Like Magic (But Nerdier) | PanicAtTheKernel | [Read More](https://medium.com/p/d70c3bf8694a) |
 | Tue, 20 May 2025 14:30:17 GMT | How i hijacked an account without knowing the password and earned $2500 from redirect parameter | 0xRedFox29 | [Read More](https://medium.com/p/7a46ffcff879) |
 | Tue, 20 May 2025 14:29:10 GMT | Suivre le fil : maîtriser la gestion d’incident SaaS en respectant les RTO | Rebecca Cottignies | [Read More](https://medium.com/p/bcdb35110c55) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 09:56:31 GMT | The Foundation of Signal — Why End-to-End Encryption Matters | Apex HKR | [Read More](https://medium.com/p/c5bfd97f74a9) |
 | Tue, 20 May 2025 09:53:57 GMT | From Risk to Resilience: How Cybersecurity Experts Protect Your Brand | SmartCLOUD Australia | [Read More](https://medium.com/p/6b81867f8dce) |
 | Tue, 20 May 2025 09:53:13 GMT | My Cybersecurity Journey: Learning, Sharing, and Growing Together | Muhammad Jeleel | [Read More](https://medium.com/p/9eada17264a8) |
-| Tue, 20 May 2025 09:51:02 GMT | Building Future-Ready Solutions: How EDSPL Combines Agile Development and Rigorous Testing | saurabh cyberinfomines | [Read More](https://medium.com/p/0ec6d38a0a9c) |
-| Tue, 20 May 2025 09:49:45 GMT | When a trusted tool becomes a weapon : The case of the malicious KeePass clone | Larbi OUIYZME | [Read More](https://medium.com/p/d73b9db40c94) |
-| Tue, 20 May 2025 09:47:12 GMT | Quand un outil de confiance devient une arme : le cas du clone malveillant de KeePass | Larbi OUIYZME | [Read More](https://medium.com/p/65542481bfd5) |
-| Tue, 20 May 2025 09:46:44 GMT | Attract More Visitors with a Creative Website — The InSpite Way | Jahanainspite | [Read More](https://medium.com/p/a94ccf76d44b) |
-| Tue, 20 May 2025 09:43:51 GMT | What Is Cryptojacking? Working, Types & How To Prevent It | Cryptoreach | [Read More](https://medium.com/p/52d3e089eac7) |
-| Tue, 20 May 2025 09:43:29 GMT | The 2018 Marriott–Starwood Data Breach | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/a5c14e86b371) |
-| Tue, 20 May 2025 09:43:20 GMT | Path Manipulation in Symfony: A Real-World Exploit | Pentest_Testing_Corp | [Read More](https://medium.com/p/dd7598618db2) |
-| Tue, 20 May 2025 09:32:17 GMT | Protect your jobsite before it’s too late | Ivis Constructionsurveillance | [Read More](https://medium.com/p/8d431168f376) |
-| Tue, 20 May 2025 09:31:38 GMT | CyberUK 2025: Securing the Future by Building Resilience Today | Apto Solutions | [Read More](https://medium.com/p/9956e83cade0) |
-| Tue, 20 May 2025 09:30:29 GMT | Part 2: Deploy DeepSeek Using Llama.cpp, Unsloth, and a Custom Python Script | Wahidur Rahman | [Read More](https://medium.com/p/ae6fbcf3a9de) |
-| Tue, 20 May 2025 09:28:18 GMT | API Security 101: Protecting Your Data in a Connected World | Sathyanarayanan Dhanuskodi | [Read More](https://medium.com/p/a5233ae3297c) |
-| Tue, 20 May 2025 09:27:46 GMT | Cyber Law, AI Misuse & India’s Digital Future I Raj Sheoran x Dr. Pavan Duggal | Raj Sheoran | [Read More](https://medium.com/p/bab4080f93dc) |
-| Tue, 20 May 2025 09:26:49 GMT | What is Integrity in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/3f7192a503a5) |
