@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 22:28:45 GMT | HackTheBox Legacy Walkthrough: Exploiting a Windows XP Vulnerability | Amanuel | [Read More](https://medium.com/p/6f93ba701ea5) |
+| Tue, 20 May 2025 22:17:33 GMT | What Happens When You Type a URL into a Web Browser? | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e984944fe2d4) |
 | Tue, 20 May 2025 22:04:27 GMT | Part 2 — Designing & Driving an Impactful Awareness Program (Proofpoint Strategy) | Khalil Z. | [Read More](https://medium.com/p/92b790d43954) |
 | Tue, 20 May 2025 22:02:58 GMT | Living Off the Land: How Attackers Weaponize Trusted Binaries with LOLBins | Zero Day Thirty | [Read More](https://medium.com/p/80b7e6643d51) |
 | Tue, 20 May 2025 22:01:13 GMT | This is a formal personal account of repeated privacy violations and emotional manipulation… | A. Lu | [Read More](https://medium.com/p/d62a7b55bed5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 15:44:51 GMT | On some level, you know. | R S | [Read More](https://medium.com/p/c2457bcb8aab) |
 | Tue, 20 May 2025 15:35:13 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/7dd4d64a63d5) |
 | Tue, 20 May 2025 15:30:37 GMT | Is It You or Healing? | isa ☁️ | [Read More](https://medium.com/p/76375742e454) |
-| Tue, 20 May 2025 15:28:14 GMT | CTF TryHackMe - Corridor Let’s Get Out of Here! | InREXnA | [Read More](https://medium.com/p/83b7e786417d) |
-| Tue, 20 May 2025 15:21:22 GMT | Cloudflare Bug Bounty: First Old Password Does Not Expire After Password Change | Buvaneshvaran | [Read More](https://medium.com/p/b767a050d231) |
