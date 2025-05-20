@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 08:23:57 GMT | CORS Misconfiguration: The Silent Gateway to Cross-Origin Attacks— Writeup | Shah kaif | [Read More](https://medium.com/p/1e8418d2cf21) |
+| Tue, 20 May 2025 07:58:54 GMT | Lee Enterprises Reports $2M in Recovery Costs After Major Ransomware Incident | SafetyDetectives Research Team | [Read More](https://medium.com/p/d9e9f2b815ba) |
+| Tue, 20 May 2025 07:46:24 GMT | PostgreSQL Security Hardening: Protecting Your Production Database | Rizqi Mulki | [Read More](https://medium.com/p/efb9a195fb1d) |
 | Tue, 20 May 2025 07:36:21 GMT | CHATGPT: A Potential Phishing Vector via HTML Injection | zer0dac | [Read More](https://medium.com/p/bf703c79590a) |
 | Tue, 20 May 2025 07:36:06 GMT | Kerala’s Latest cyber breaches shook the world, Targeting hospitals | Bivek raj | [Read More](https://medium.com/p/30c8a6b07284) |
+| Tue, 20 May 2025 07:33:13 GMT | Şirketinizi Siber Tehditlere Karşı Nasıl Korursunuz? | Buteksoft | [Read More](https://medium.com/p/15a1cd93f536) |
 | Tue, 20 May 2025 07:32:06 GMT | shark on wire 1 - Writeup | Marvin | [Read More](https://medium.com/p/1693cf76b880) |
 | Tue, 20 May 2025 07:31:22 GMT | Get Recon Solana (RECON) Rewards and Maximize APY | RECON | [Read More](https://medium.com/p/aca2af8fb14e) |
 | Tue, 20 May 2025 07:30:07 GMT | 404 to Root: How a Forgotten Subdomain Led to Server Takeover ‍☠️ | Iski | [Read More](https://medium.com/p/d60e65fdbc18) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 23:11:49 GMT | How to Install GoPhish in Your Environment - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/aa8b18fa9fb6) |
 | Mon, 19 May 2025 23:07:53 GMT | AI-Powered CCTV Monitoring — Smarter Surveillance, Safer Spaces | Visual Monitoring Solutions | [Read More](https://medium.com/p/1374f31c23b3) |
 | Mon, 19 May 2025 22:49:28 GMT | The Plea Of The Lord’s Beloved | ikeThewriter | [Read More](https://medium.com/p/df44a830ad3a) |
-| Mon, 19 May 2025 22:45:44 GMT | Ctrl+Alt+Del My Will to Live | Darkmode Studios | [Read More](https://medium.com/p/930ba64ff9b7) |
-| Mon, 19 May 2025 22:39:35 GMT | My First Incident Response: Rookie Mistakes, Trojan Panic, and One Stomach-Dropping Afternoon | Luispuello | [Read More](https://medium.com/p/f3ae2866d4dd) |
-| Mon, 19 May 2025 22:37:33 GMT | The Trouble with Feeling Everything | maple syrup fox | [Read More](https://medium.com/p/698f6d7d2f82) |
-| Mon, 19 May 2025 22:37:24 GMT | Rabbit Store - TryHackMe Medium | Error | [Read More](https://medium.com/p/f9f5069fbb50) |
