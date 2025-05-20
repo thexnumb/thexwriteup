@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 21:05:05 GMT | Your Car’s Software is Outdated — Why That’s Riskier Than a Flat Tire | Ahmad Javed | [Read More](https://medium.com/p/b69373fbb528) |
+| Tue, 20 May 2025 21:02:29 GMT | Hiring for Healthcare Cybersecurity Roles? Target These Skills | J. Appleton | [Read More](https://medium.com/p/4df60f6adf75) |
+| Tue, 20 May 2025 20:59:58 GMT | Smoke and Mirrors | Victor Thasen | [Read More](https://medium.com/p/e120f67f711b) |
+| Tue, 20 May 2025 20:57:50 GMT | Beginners Guide To Cybersecurity For Small Businesses (Free tools inside!) | Bree | [Read More](https://medium.com/p/8156a37e7911) |
+| Tue, 20 May 2025 20:56:51 GMT | Social Media Addiction: Can We Overcome It? | Savvy Cyber Kids | [Read More](https://medium.com/p/f12725667450) |
+| Tue, 20 May 2025 20:50:23 GMT | Becoming a Digital Designer: Lessons From Starting With Nothing | Iverson Anchundia Parrales | [Read More](https://medium.com/p/2ad765aa14c3) |
 | Tue, 20 May 2025 20:32:30 GMT | Lessons from the Field: Working with Cribl in a Modern Security Stack | Kyle Barbre | [Read More](https://medium.com/p/03cbdd495962) |
 | Tue, 20 May 2025 20:31:29 GMT | Cybersecurity Leadership Coaching | Matthew.Rosenquist | [Read More](https://medium.com/p/b44f5705c759) |
 | Tue, 20 May 2025 20:21:24 GMT | Day 1 of my AWS Pentesting journey — IAM Enumeration with Pacu | mauzware | [Read More](https://medium.com/p/3b106bc92aae) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 15:01:56 GMT | A Future Hidden in Plain Sight | Enobong Frank Itaeyo | [Read More](https://medium.com/p/02946981f020) |
 | Tue, 20 May 2025 14:59:52 GMT | Why HIPAA Compliance Alone Won’t Protect Your Digital Health Startup During M&A | Aaron T. Maguregui | [Read More](https://medium.com/p/14fdad0a225b) |
 | Tue, 20 May 2025 14:53:09 GMT | From Powerless to Powerful: How a Dead Laptop Taught Us More Than a Lecture Ever Could | Afshan Noorin | [Read More](https://medium.com/p/5f5776db8573) |
-| Tue, 20 May 2025 14:48:30 GMT | Fake KeePass Password Manager Used to Launch VMware ESXi Ransomware Attacks. | eL Njas!™ | [Read More](https://medium.com/p/a51d4356b798) |
-| Tue, 20 May 2025 14:44:27 GMT | Same Mission, Different Languages — Why HR & Security Don’t Naturally Align. | SecOps | [Read More](https://medium.com/p/c6e586c7c2bd) |
-| Tue, 20 May 2025 14:36:12 GMT | Virtualization is Like Magic (But Nerdier) | PanicAtTheKernel | [Read More](https://medium.com/p/d70c3bf8694a) |
-| Tue, 20 May 2025 14:30:17 GMT | How i hijacked an account without knowing the password and earned $2500 from redirect parameter | 0xRedFox29 | [Read More](https://medium.com/p/7a46ffcff879) |
-| Tue, 20 May 2025 14:29:10 GMT | Suivre le fil : maîtriser la gestion d’incident SaaS en respectant les RTO | Rebecca Cottignies | [Read More](https://medium.com/p/bcdb35110c55) |
-| Tue, 20 May 2025 14:28:07 GMT | Building Effective KPIs for Cybersecurity Projects and Team Performance - بناء مؤشرات أداء فعّالة… | Emad  Mamdouh Abdelhamid | [Read More](https://medium.com/p/b459c1d6b4a7) |
