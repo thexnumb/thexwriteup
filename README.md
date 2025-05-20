@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 03:02:53 GMT | Five Ways Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Manish Shivanandhan | [Read More](https://medium.com/p/8fc74d0aefc9) |
+| Tue, 20 May 2025 02:54:43 GMT | Reimagining Web Directory Enumeration with AI | Atul Raman | [Read More](https://medium.com/p/1af1262c934f) |
+| Tue, 20 May 2025 02:38:28 GMT | Authorization — What You’re Allowed to Do (No, You Can’t Just Touch Every Button) | Bl@ckC!pH3r | [Read More](https://medium.com/p/9c2ac361cd14) |
+| Tue, 20 May 2025 02:27:59 GMT | Volt Typhoon THM - Writeup | Domon | [Read More](https://medium.com/p/b998300de4fa) |
+| Tue, 20 May 2025 02:27:03 GMT | Authentication — Proving You’re Really You (Without Sending a Selfie) | Bl@ckC!pH3r | [Read More](https://medium.com/p/b30c03867f69) |
+| Tue, 20 May 2025 02:25:46 GMT | Psalms — an invitation to relationship | LC | [Read More](https://medium.com/p/40d5f9caf1c1) |
+| Tue, 20 May 2025 02:14:41 GMT | Defense in Depth — Because One Lock Is Never Enough | Bl@ckC!pH3r | [Read More](https://medium.com/p/609740773221) |
+| Tue, 20 May 2025 02:14:30 GMT | Cybersecurity101: What Is Malware and How to Analyze it. | Kheyraldhs | [Read More](https://medium.com/p/cc5bf8602994) |
+| Tue, 20 May 2025 02:13:50 GMT | Top 10 Ethical Hacking Techniques You Should Know in 2025 | ByteFrame | [Read More](https://medium.com/p/03a6746d680b) |
+| Tue, 20 May 2025 02:07:35 GMT | Graph dalam Python | fijrisalwa | [Read More](https://medium.com/p/d54080fd7ebb) |
+| Tue, 20 May 2025 01:48:17 GMT | The ChatGPT Craze Is Ending — Google’s AI Takeover Begins | Shasri | [Read More](https://medium.com/p/03f0b23afa10) |
 | Tue, 20 May 2025 01:27:33 GMT | Digital Detectives: The Unsung Heroes behind Cyber Investigations | Fun with logs - Stories behind the evidence | [Read More](https://medium.com/p/ee4800bb1c85) |
 | Tue, 20 May 2025 01:17:46 GMT | How to Build a Risk Register That Actually Helps Decision-Making | Paritosh | [Read More](https://medium.com/p/240dc62d5d45) |
 | Tue, 20 May 2025 01:06:59 GMT | 5 Cybersecurity Habits That Make You Instantly More Valuable on Any Team | Kyle Barbre | [Read More](https://medium.com/p/0b4346883873) |
@@ -102,14 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 17:31:44 GMT | ️ SpiderFoot: The OSINT Powerhouse Every Ethical Hacker Should Master | Chintala Taraka Ram | [Read More](https://medium.com/p/5ef417ffb5bc) |
 | Mon, 19 May 2025 17:27:07 GMT | NotPetya: The Cyberweapon That Shook the World | Ahmad Javed | [Read More](https://medium.com/p/4cdf41ff0bf3) |
 | Mon, 19 May 2025 17:23:25 GMT | I Tried to Use AI to Write A Single Script | Teri Radichel | [Read More](https://medium.com/p/138ca4a6be52) |
-| Mon, 19 May 2025 17:13:53 GMT | Popular Spy Apps Cocospy, Spyic, and Spyzie Shut Down After Major Data Breach | Cybercrime | [Read More](https://medium.com/p/4b3fbdc0245b) |
-| Mon, 19 May 2025 17:12:51 GMT | Rate limit + Improper Deletion Orphaned data vulnerability  gave me $$ | praveenarsh0xx0 | [Read More](https://medium.com/p/91c0e3fc2b90) |
-| Mon, 19 May 2025 17:12:35 GMT | Creating a Safe Space: The Leader’s Role in Fostering Open Communication | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/70f89b3d90c3) |
-| Mon, 19 May 2025 17:11:51 GMT | Mobile Application Security: Why Your Favorite App Might Be a Hacker’s Backdoor | SafeAeon Inc. | [Read More](https://medium.com/p/7b874422d343) |
-| Mon, 19 May 2025 17:10:23 GMT | What Is Cyberbullying? | Savvy Cyber Kids | [Read More](https://medium.com/p/be31a3d0dab4) |
-| Mon, 19 May 2025 17:10:01 GMT | Manifesto: Why Identity is the New Center of Gravity in Enterprise Security | David Canellos | [Read More](https://medium.com/p/3d921d38faac) |
-| Mon, 19 May 2025 17:06:03 GMT | The Benefits of Managed Security Services for Small Businesses | Akshay Chauhan | [Read More](https://medium.com/p/465c28f3a043) |
-| Mon, 19 May 2025 17:03:57 GMT | 5 Cybersecurity Red Flags Your Business is Ignoring | Dr. Shashi Karhail | [Read More](https://medium.com/p/e3415e40fccd) |
-| Mon, 19 May 2025 17:02:36 GMT | Analysis - Headway and Headwinds: How the United States is Building Up Its Critical Minerals… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/690a5e0297c7) |
-| Mon, 19 May 2025 17:02:36 GMT | Why Every Modern Business Needs ITIL’s Service Value System (SVS) | Haluan Mohammad Irsad | [Read More](https://medium.com/p/db05e90ee0d5) |
-| Mon, 19 May 2025 17:00:39 GMT | BehindTheScreens: Ransomware Fallout, AI Risks, and Public Sector Breaches | Sam - Behind The Screens | [Read More](https://medium.com/p/05916c03c292) |
