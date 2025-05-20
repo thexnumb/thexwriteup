@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 10:14:45 GMT | How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Younes Sellimi | [Read More](https://medium.com/p/bb38034e77e3) |
+| Tue, 20 May 2025 10:11:23 GMT | Are you a Fortune 500 company? Not so fortune. | Martin Abramov | [Read More](https://medium.com/p/5e92e23dd20f) |
+| Tue, 20 May 2025 09:58:36 GMT | Basic Web Enumeration. | Ravindra Manjhi | [Read More](https://medium.com/p/13ab72eaf8b2) |
+| Tue, 20 May 2025 09:57:24 GMT | Translation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/a6df5c4a68f8) |
+| Tue, 20 May 2025 09:56:42 GMT | Rule Number One | Kome | [Read More](https://medium.com/p/0f7b65b174be) |
+| Tue, 20 May 2025 09:56:31 GMT | The Foundation of Signal — Why End-to-End Encryption Matters | Apex HKR | [Read More](https://medium.com/p/c5bfd97f74a9) |
+| Tue, 20 May 2025 09:53:57 GMT | From Risk to Resilience: How Cybersecurity Experts Protect Your Brand | SmartCLOUD Australia | [Read More](https://medium.com/p/6b81867f8dce) |
+| Tue, 20 May 2025 09:53:13 GMT | My Cybersecurity Journey: Learning, Sharing, and Growing Together | Muhammad Jeleel | [Read More](https://medium.com/p/9eada17264a8) |
+| Tue, 20 May 2025 09:51:02 GMT | Building Future-Ready Solutions: How EDSPL Combines Agile Development and Rigorous Testing | saurabh cyberinfomines | [Read More](https://medium.com/p/0ec6d38a0a9c) |
+| Tue, 20 May 2025 09:49:45 GMT | When a trusted tool becomes a weapon : The case of the malicious KeePass clone | Larbi OUIYZME | [Read More](https://medium.com/p/d73b9db40c94) |
+| Tue, 20 May 2025 09:47:12 GMT | Quand un outil de confiance devient une arme : le cas du clone malveillant de KeePass | Larbi OUIYZME | [Read More](https://medium.com/p/65542481bfd5) |
+| Tue, 20 May 2025 09:46:44 GMT | Attract More Visitors with a Creative Website — The InSpite Way | Jahanainspite | [Read More](https://medium.com/p/a94ccf76d44b) |
+| Tue, 20 May 2025 09:43:51 GMT | What Is Cryptojacking? Working, Types & How To Prevent It | Cryptoreach | [Read More](https://medium.com/p/52d3e089eac7) |
+| Tue, 20 May 2025 09:43:29 GMT | The 2018 Marriott–Starwood Data Breach | ParadigmIT Cybersecurity | [Read More](https://medium.com/p/a5c14e86b371) |
+| Tue, 20 May 2025 09:43:20 GMT | Path Manipulation in Symfony: A Real-World Exploit | Pentest_Testing_Corp | [Read More](https://medium.com/p/dd7598618db2) |
 | Tue, 20 May 2025 09:32:17 GMT | Protect your jobsite before it’s too late | Ivis Constructionsurveillance | [Read More](https://medium.com/p/8d431168f376) |
 | Tue, 20 May 2025 09:31:38 GMT | CyberUK 2025: Securing the Future by Building Resilience Today | Apto Solutions | [Read More](https://medium.com/p/9956e83cade0) |
 | Tue, 20 May 2025 09:30:29 GMT | Part 2: Deploy DeepSeek Using Llama.cpp, Unsloth, and a Custom Python Script | Wahidur Rahman | [Read More](https://medium.com/p/ae6fbcf3a9de) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 04:28:08 GMT | How to Maximize Your Rewards with Bugs Bunny $BUGS in 2025 | BUGS | [Read More](https://medium.com/p/eb782c3427ce) |
 | Tue, 20 May 2025 04:26:20 GMT | Graph-QL Vulnerability can help you make $$$$ | Rishav anand | [Read More](https://medium.com/p/cfc79270e79d) |
 | Tue, 20 May 2025 04:01:39 GMT | Mastering the Art of Ethical Hacking with CEH v13: Your Gateway to a Cybersecurity Career | LazyHacker | [Read More](https://medium.com/p/15eb5cacdfb8) |
-| Tue, 20 May 2025 03:48:04 GMT | Trivial Flag Transfer Protocol - Writeup | Marvin | [Read More](https://medium.com/p/a62835ddaddf) |
-| Tue, 20 May 2025 03:42:29 GMT | STARTUP-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/9229cbdbde43) |
-| Tue, 20 May 2025 03:35:46 GMT | Earlier this year, I fell victim to an elaborate phishing scam. | Robertdreher | [Read More](https://medium.com/p/e0a7ca59d43a) |
-| Tue, 20 May 2025 03:32:12 GMT | Crocodilus: The Silent Android Predator Draining Crypto Wallets | Deven Chhajed | [Read More](https://medium.com/p/26df41b78974) |
-| Tue, 20 May 2025 03:21:39 GMT | The Digital Cold War Nobody’s Talking About: Why EU-India Cybersecurity Cooperation Is a… | Shaumik | [Read More](https://medium.com/p/0cf32e50c8f1) |
-| Tue, 20 May 2025 03:19:41 GMT | STLC & Bug Lifecycle: Mastering Software Testing from Strategy to Closure | Mohamed Said Ibrahim | [Read More](https://medium.com/p/b3c7b2fe3496) |
-| Tue, 20 May 2025 03:10:48 GMT | Consent Revoked | Vanya Yani | [Read More](https://medium.com/p/af3db546f985) |
-| Tue, 20 May 2025 03:02:53 GMT | Five Ways Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Manish Shivanandhan | [Read More](https://medium.com/p/8fc74d0aefc9) |
-| Tue, 20 May 2025 02:54:43 GMT | Reimagining Web Directory Enumeration with AI | Atul Raman | [Read More](https://medium.com/p/1af1262c934f) |
-| Tue, 20 May 2025 02:42:07 GMT | I’m Not Anti-Social, I Just Prefer People in Low Resolution | Finding Wonderland | [Read More](https://medium.com/p/0e751fa516d4) |
-| Tue, 20 May 2025 02:38:28 GMT | Authorization — What You’re Allowed to Do (No, You Can’t Just Touch Every Button) | Bl@ckC!pH3r | [Read More](https://medium.com/p/9c2ac361cd14) |
-| Tue, 20 May 2025 02:27:59 GMT | Volt Typhoon THM - Writeup | Domon | [Read More](https://medium.com/p/b998300de4fa) |
-| Tue, 20 May 2025 02:27:03 GMT | Authentication — Proving You’re Really You (Without Sending a Selfie) | Bl@ckC!pH3r | [Read More](https://medium.com/p/b30c03867f69) |
-| Tue, 20 May 2025 02:25:46 GMT | Psalms — an invitation to relationship | LC | [Read More](https://medium.com/p/40d5f9caf1c1) |
-| Tue, 20 May 2025 02:14:41 GMT | Defense in Depth — Because One Lock Is Never Enough | Bl@ckC!pH3r | [Read More](https://medium.com/p/609740773221) |
