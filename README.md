@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 01:27:33 GMT | Digital Detectives: The Unsung Heroes behind Cyber Investigations | Fun with logs - Stories behind the evidence | [Read More](https://medium.com/p/ee4800bb1c85) |
+| Tue, 20 May 2025 01:17:46 GMT | How to Build a Risk Register That Actually Helps Decision-Making | Paritosh | [Read More](https://medium.com/p/240dc62d5d45) |
+| Tue, 20 May 2025 01:06:59 GMT | 5 Cybersecurity Habits That Make You Instantly More Valuable on Any Team | Kyle Barbre | [Read More](https://medium.com/p/0b4346883873) |
+| Tue, 20 May 2025 00:45:43 GMT | Why Didn’t Anyone Warn Me That Wallet Backups Can Be Hacked Too? | Pamela Talks | [Read More](https://medium.com/p/74384363be8b) |
+| Tue, 20 May 2025 00:44:50 GMT | Third Parties and Machine Credentials: The Silent Drivers Behind 2025’s Worst Data Breaches | Cyber-AppSec | [Read More](https://medium.com/p/60a41fd82c8d) |
+| Tue, 20 May 2025 00:36:06 GMT | Mastering OT Cybersecurity: A Deep-Dive Implementation Blueprint with ATT&CK Reference Architecture | Prabhu Perumal | [Read More](https://medium.com/p/20852ff0170b) |
+| Tue, 20 May 2025 00:27:35 GMT | Supercharge Your Bugs Bunny $BUGS Earnings in 2025 | BUGS | [Read More](https://medium.com/p/9bd56a7a859d) |
+| Tue, 20 May 2025 00:19:33 GMT | Hacking Oauth:A bug bounty hunter guide | Canonminibeast | [Read More](https://medium.com/p/31a7b1a0cf88) |
+| Tue, 20 May 2025 00:17:36 GMT | AI-Era Security Architecture: Bridging Technology and Human Dynamics | Shittu | [Read More](https://medium.com/p/b3df588f8590) |
+| Tue, 20 May 2025 00:13:58 GMT | The Weight of Just Right | Ryan Beach | [Read More](https://medium.com/p/f35c9592ea32) |
+| Tue, 20 May 2025 00:05:16 GMT | How to Leverage DORK $DORK for Extra Rewards | DORK | [Read More](https://medium.com/p/7699fb2ecb87) |
+| Tue, 20 May 2025 00:01:41 GMT | Master Google Dorks — Search Techniques for Cybersecurity and OSINT | JPablo13 | [Read More](https://medium.com/p/7ced756d02ca) |
+| Mon, 19 May 2025 23:50:00 GMT | This One Tool Turns Your Non-Rooted Termux into a Website Scanner | Alex Grande | [Read More](https://medium.com/p/d75525c71491) |
+| Mon, 19 May 2025 23:44:42 GMT | Deep-Dive Risk Assessment Beyond CVSS: Quantitative Risk Modeling with FAIR, Bayesian Networks, and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/989ca5977d9d) |
 | Mon, 19 May 2025 23:11:49 GMT | How to Install GoPhish in Your Environment - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/aa8b18fa9fb6) |
 | Mon, 19 May 2025 23:07:53 GMT | AI-Powered CCTV Monitoring — Smarter Surveillance, Safer Spaces | Visual Monitoring Solutions | [Read More](https://medium.com/p/1374f31c23b3) |
 | Mon, 19 May 2025 22:45:44 GMT | Ctrl+Alt+Del My Will to Live | Darkmode Studios | [Read More](https://medium.com/p/930ba64ff9b7) |
@@ -99,17 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 17:02:36 GMT | Analysis - Headway and Headwinds: How the United States is Building Up Its Critical Minerals… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/690a5e0297c7) |
 | Mon, 19 May 2025 17:02:36 GMT | Why Every Modern Business Needs ITIL’s Service Value System (SVS) | Haluan Mohammad Irsad | [Read More](https://medium.com/p/db05e90ee0d5) |
 | Mon, 19 May 2025 17:00:39 GMT | BehindTheScreens: Ransomware Fallout, AI Risks, and Public Sector Breaches | Sam - Behind The Screens | [Read More](https://medium.com/p/05916c03c292) |
-| Mon, 19 May 2025 16:58:33 GMT | All About API Hacking | ghostvirus | [Read More](https://medium.com/p/15f3d3ae4ada) |
-| Mon, 19 May 2025 16:55:50 GMT | Cyber Resilience Act: When will requirements finally get more specific? | Sarah Fluchs | [Read More](https://medium.com/p/a990cc1dab24) |
-| Mon, 19 May 2025 16:54:30 GMT | DC: 4 — VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/1d06f2a34b4c) |
-| Mon, 19 May 2025 16:47:07 GMT | Part 3: Refresh Tokens in JWT | Berk Polat | [Read More](https://medium.com/p/b36ed41b0330) |
-| Mon, 19 May 2025 16:43:42 GMT | Zero-Day Vulnerabilities: The Hidden Threat You Never See Coming | SafeAeon Inc. | [Read More](https://medium.com/p/7ce5e48c21cb) |
-| Mon, 19 May 2025 16:37:11 GMT | Why IoT Security Risks Are a Growing Concern for Everyone | SafeAeon Inc. | [Read More](https://medium.com/p/68f98d5413dc) |
-| Mon, 19 May 2025 16:35:57 GMT | How can a site bring the world to its knees؟ | Mohamad | [Read More](https://medium.com/p/747eac98193a) |
-| Mon, 19 May 2025 16:28:45 GMT | How To Hack Your Mind In 3 Simple Ways | DR Aiza | [Read More](https://medium.com/p/2a4d3601af0b) |
-| Mon, 19 May 2025 16:20:33 GMT | * CAPIE - Certified API Hacking Expert - Lesson material [WITH CERT OF COMPLETION] Course 115… | San Thomas | [Read More](https://medium.com/p/1c932687ac2a) |
-| Mon, 19 May 2025 16:17:42 GMT | Risk Is not the Enemy — Misalignment Is | Ricardo Newman | [Read More](https://medium.com/p/28ce0eb31fba) |
-| Mon, 19 May 2025 16:17:36 GMT | 10 Mistakes You Don’t Want to Make While Vibe Coding (But Probably Will) | Sandhya | [Read More](https://medium.com/p/6f547cafe546) |
-| Mon, 19 May 2025 16:15:49 GMT | How to Build a Step-by-Step DORA Compliance Plan | Adam REHAIEM | [Read More](https://medium.com/p/03af6e043a6b) |
-| Mon, 19 May 2025 16:14:42 GMT | Confidential Computing: What It Is and Why It Matters in 2025 | Aaron Mathis | [Read More](https://medium.com/p/0a0567e2bcea) |
-| Mon, 19 May 2025 16:13:32 GMT | Why Harvard’s CS50x is Hands Down The Best Computer Science Course | Ali Sahad | [Read More](https://medium.com/p/7e27e78c9132) |
