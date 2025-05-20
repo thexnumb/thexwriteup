@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 12:24:06 GMT | X-Transfer Attacks | mike | [Read More](https://medium.com/p/dfd35abb3544) |
+| Tue, 20 May 2025 12:21:21 GMT | What Happens When You Start Saying ‘I Don’t Know’ to Everything? | datageekrj | [Read More](https://medium.com/p/6344a250b76b) |
+| Tue, 20 May 2025 12:20:57 GMT | Log 02: DISSECTION- Hardware Made Simple | Apurva Cybersecurity | [Read More](https://medium.com/p/c04f7729b1a2) |
+| Tue, 20 May 2025 12:20:28 GMT | Top Antivirus Picks for 2025: A Deep Dive into the Best Security Solutions | Top2Antivirus | [Read More](https://medium.com/p/e490877c1c17) |
+| Tue, 20 May 2025 12:14:12 GMT | Vulnerability Is a Superpower: From Pressure to Purpose | José Andrés Olivera Amato | [Read More](https://medium.com/p/71895f576258) |
+| Tue, 20 May 2025 12:13:42 GMT | Why Gen 3 Night Vision is the Gold Standard for Low-Light Operations | Night Vision 4 Less | [Read More](https://medium.com/p/dbf99ec2f6b4) |
+| Tue, 20 May 2025 12:12:30 GMT | ️ Is Rust the Unsung Hero of Software Security? | Ashish Sharda | [Read More](https://medium.com/p/80e0fa981769) |
+| Tue, 20 May 2025 12:11:49 GMT | Securing APIs: A Developer’s Guide to Protecting Your Applications | Joyal Saji | [Read More](https://medium.com/p/84e764183728) |
+| Tue, 20 May 2025 12:06:41 GMT | The Last Mile of Zero Trust: Securing Where Work Really Happens — The Browser | Mary Yang | [Read More](https://medium.com/p/e1a8e1cf7047) |
+| Tue, 20 May 2025 12:06:34 GMT | Standardisez votre documentation Swagger avec GroupedOpenApi (Spring Boot + OpenAPI) | Abdou Aziz Kane | [Read More](https://medium.com/p/0f6d9667c68c) |
+| Tue, 20 May 2025 12:05:39 GMT | Mini Security Lab: Building Blocks of My Learning Environment | Elijah Garcia | [Read More](https://medium.com/p/8249f44f0d18) |
+| Tue, 20 May 2025 12:04:38 GMT | The Security Illusion: How Apple, Google, and Global Vendors Built a System That’s Easy to Abuse | Jamweba | [Read More](https://medium.com/p/92210d4887c8) |
+| Tue, 20 May 2025 12:00:57 GMT | Ethernet Frame | Cyber Timi | [Read More](https://medium.com/p/b8069a6b4eb1) |
+| Tue, 20 May 2025 12:00:06 GMT | Insecure Direct Object Reference (IDOR) Zafiyeti nedir? | Alirıza Aslan | [Read More](https://medium.com/p/646262ce331e) |
+| Tue, 20 May 2025 11:59:52 GMT | Why Cybersecurity and Digital Marketing Skills Are in Demand — and How NSF Delivers Them | Vrish | [Read More](https://medium.com/p/107c72ddaab4) |
+| Tue, 20 May 2025 11:50:23 GMT | How Hackers Steal Your Passwords (And How You Can Stop Them) | Kuldeepkumawat | [Read More](https://medium.com/p/7ae33d9d5074) |
+| Tue, 20 May 2025 11:49:40 GMT | ISO 27001:2013 vs 2022 — What Business Owners Need to Know Before Transitioning | Harsimrat Korey | [Read More](https://medium.com/p/0d2fac25d232) |
+| Tue, 20 May 2025 11:44:09 GMT | The Origins of XSS (Cross-Site Scripting) | Thexssrat | [Read More](https://medium.com/p/628dde3ac4b6) |
+| Tue, 20 May 2025 11:39:57 GMT | How Information Security Management Services in Eastern India Strengthen Your Business | Khatore IT Solutions | [Read More](https://medium.com/p/a58c9a041786) |
+| Tue, 20 May 2025 11:39:30 GMT | Enhance Driving Safety with GPS-Enabled Dash Cams in the UAE | Tekhabeeb | [Read More](https://medium.com/p/b8bbf251c5b9) |
 | Tue, 20 May 2025 11:37:19 GMT | Cloud Penetration Testing Services: Essential Strategies for Securing Cloud Environments | StrongBox IT | [Read More](https://medium.com/p/92cbae21bc19) |
+| Tue, 20 May 2025 11:36:10 GMT | The Risks We Share: Climate, Conflict, and Continuity in the Hindu Kush Himalayas | Dark Matter Labs | [Read More](https://medium.com/p/39ef553658c4) |
 | Tue, 20 May 2025 11:35:18 GMT | Cyber Risk Management Services in Arizona: Why Local Businesses Can’t Afford to Ignore Them | Fountain Hills Technologies | [Read More](https://medium.com/p/a8efe9323fe0) |
 | Tue, 20 May 2025 11:35:15 GMT | Linux | Hiranur Gemalmaz | [Read More](https://medium.com/p/b6410b8cfede) |
 | Tue, 20 May 2025 11:26:41 GMT | Top 5 Benefits of Investing in Expert Vulnerability Scanning Services for Your Arizona Business | Fountain Hills Technologies | [Read More](https://medium.com/p/f829bcd71e55) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 06:33:50 GMT | What is NVR and DVR? NVR vs DVR Security Systems Explained | Manish | [Read More](https://medium.com/p/e10ba54f7f18) |
 | Tue, 20 May 2025 06:32:09 GMT | From Web3 Developer to Smart-Contract Auditor: Developer Slip-Ups in Math, Arrays, Calldata &… | Evgenii | [Read More](https://medium.com/p/f587d320ed54) |
 | Tue, 20 May 2025 06:31:41 GMT | Hackthebox — Cypher | HackerNasr | [Read More](https://medium.com/p/6fa30a702ae9) |
-| Tue, 20 May 2025 06:29:24 GMT | EvilWorker: a new AiTM attack framework based on leveraging service workers | Antoine Hazebrouck | [Read More](https://medium.com/p/da94ae171249) |
-| Tue, 20 May 2025 06:27:37 GMT | Why Cybersecurity is a Business Enabler, Not a Roadblock? | Harry Ko | [Read More](https://medium.com/p/224d309aff5b) |
-| Tue, 20 May 2025 06:25:04 GMT | Parmak İziyle Güvenli ve Esnek Depolama | Tufan Uyaroğlu | [Read More](https://medium.com/p/72ba86b53634) |
-| Tue, 20 May 2025 06:15:11 GMT | DeFi Summer: The Golden Days of Liquidation | 6ixty | [Read More](https://medium.com/p/e32cbc110dcd) |
-| Tue, 20 May 2025 06:07:58 GMT | XSS Part — 20 : Reflected XSS into a template literal with angle brackets, single, double quotes… | Ahmad Sopyan | [Read More](https://medium.com/p/067b36fdb376) |
-| Tue, 20 May 2025 06:07:22 GMT | Secure Your Business with the Top 5 Privileged Access Management Tools | Gauri Kale | [Read More](https://medium.com/p/62a3188921cf) |
-| Tue, 20 May 2025 06:06:33 GMT | The 10 Most Common Cybersecurity Mistakes Small Businesses Make and How to Avoid Them | Teleglobal International | [Read More](https://medium.com/p/1096a560b0ec) |
-| Tue, 20 May 2025 06:01:41 GMT | How Did I Get Scammed If My Wallet Had a ‘Private Key’? Aren’t Those Supposed to Be Secure? | Pamela Talks | [Read More](https://medium.com/p/304284506fd5) |
-| Tue, 20 May 2025 06:01:03 GMT | Beyond Alerts: Building Cybersecurity Around Risk, Not Noise | Andre Fernandes | [Read More](https://medium.com/p/504eaafd8180) |
-| Tue, 20 May 2025 06:00:38 GMT | How to Avoid Common Pitfalls in Data Classification. | CyRAACS | [Read More](https://medium.com/p/3f3295c8229b) |
-| Tue, 20 May 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — May 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/502281ce793d) |
-| Tue, 20 May 2025 05:58:26 GMT | OWASP Pentest Series (3/12) | TheZeeshanKhan | [Read More](https://medium.com/p/2f8a8d44ca71) |
-| Tue, 20 May 2025 05:56:16 GMT | Emotional Availability: The Open Door to Deeper Love | Mike Sansone | [Read More](https://medium.com/p/08393abb8e0e) |
-| Tue, 20 May 2025 05:56:14 GMT | Top 5 AI Certifications That Are Actually Worth It in 2025 | Prism HRC | [Read More](https://medium.com/p/ad6786d67a30) |
-| Tue, 20 May 2025 05:48:48 GMT | 5 Years of Startup Life — 60 Months, 4 Roles, 1 Journey | Syed Hadi | [Read More](https://medium.com/p/d2089a3b6644) |
-| Tue, 20 May 2025 05:47:42 GMT | FortiWeb by Fortinet: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/6a8aa30c5868) |
-| Tue, 20 May 2025 05:42:42 GMT | Boost Your Earnings with DORK $DORK Yield Strategies | DORK | [Read More](https://medium.com/p/845b789fa9f0) |
-| Tue, 20 May 2025 05:41:39 GMT | Reclaiming the Web: How Community-Driven Networks Are Building an Independent Internet | Cristian | [Read More](https://medium.com/p/ff551a17bb73) |
-| Tue, 20 May 2025 05:37:08 GMT | Day 10 of 15: The Havex Supply Chain Breach — When Trusted Software Became the Trojan Horse | om sonawane | [Read More](https://medium.com/p/c9085e0af7fe) |
-| Tue, 20 May 2025 05:36:49 GMT | The Daily Tech Digest: 20 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d72b71ec3bef) |
-| Tue, 20 May 2025 05:36:34 GMT | From Rate Limiting to Account Takeover: The Bug That Escalated Quickly | lurooo | [Read More](https://medium.com/p/87f14bdd6f63) |
