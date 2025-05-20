@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 07:36:21 GMT | CHATGPT: A Potential Phishing Vector via HTML Injection | zer0dac | [Read More](https://medium.com/p/bf703c79590a) |
+| Tue, 20 May 2025 07:36:06 GMT | Kerala’s Latest cyber breaches shook the world, Targeting hospitals | Bivek raj | [Read More](https://medium.com/p/30c8a6b07284) |
+| Tue, 20 May 2025 07:32:06 GMT | shark on wire 1 - Writeup | Marvin | [Read More](https://medium.com/p/1693cf76b880) |
+| Tue, 20 May 2025 07:31:22 GMT | Get Recon Solana (RECON) Rewards and Maximize APY | RECON | [Read More](https://medium.com/p/aca2af8fb14e) |
+| Tue, 20 May 2025 07:30:07 GMT | 404 to Root: How a Forgotten Subdomain Led to Server Takeover ‍☠️ | Iski | [Read More](https://medium.com/p/d60e65fdbc18) |
+| Tue, 20 May 2025 07:25:42 GMT | A Beginner's Guide To Getting Rewards On LunaFi ($LFI) | LFI | [Read More](https://medium.com/p/2085aa46a9f0) |
+| Tue, 20 May 2025 07:20:31 GMT | Zero-Days in VMware ESXi and Microsoft SharePoint Exploited at Pwn2Own Berlin 2025: What You… | Infoziant | [Read More](https://medium.com/p/fbc781b21630) |
+| Tue, 20 May 2025 07:20:02 GMT | Defining the Scope of the AI Management System (Clause 4.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/d38ca2041d0f) |
 | Tue, 20 May 2025 07:07:51 GMT | ⚠️ How Hackers Use Social Engineering — With Real-World Examples You Need to Know | Naem Azam Chowdhury | [Read More](https://medium.com/p/08c8b3810dd7) |
 | Tue, 20 May 2025 07:05:37 GMT | What is XDR? Extended Detection & Response | Saurabh | [Read More](https://medium.com/p/bc0c5e004af7) |
 | Tue, 20 May 2025 07:04:26 GMT | Beyond Auth0: Navigating the Authentication Landscape in 2025 | Deepak Gupta | [Read More](https://medium.com/p/fd38be3f9562) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 May 2025 22:39:35 GMT | My First Incident Response: Rookie Mistakes, Trojan Panic, and One Stomach-Dropping Afternoon | Luispuello | [Read More](https://medium.com/p/f3ae2866d4dd) |
 | Mon, 19 May 2025 22:37:33 GMT | The Trouble with Feeling Everything | maple syrup fox | [Read More](https://medium.com/p/698f6d7d2f82) |
 | Mon, 19 May 2025 22:37:24 GMT | Rabbit Store - TryHackMe Medium | Error | [Read More](https://medium.com/p/f9f5069fbb50) |
-| Mon, 19 May 2025 22:28:18 GMT | What Software Invariants Are and Why They Matter | sudo | [Read More](https://medium.com/p/12afe0549b95) |
-| Mon, 19 May 2025 22:25:58 GMT | When Your Friend Thinks You’re a Real Hacker: Navigating Misconceptions and Promoting Digital… | Giovanne | [Read More](https://medium.com/p/2dc6e5329836) |
-| Mon, 19 May 2025 22:17:49 GMT | Database Penetration. | Private-hackers.com | [Read More](https://medium.com/p/dd3f10164436) |
-| Mon, 19 May 2025 22:16:35 GMT | Understanding Network Architecture: The Backbone of Modern Communication | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e4fac2078187) |
-| Mon, 19 May 2025 21:59:26 GMT | Don’t Make the Mistakes I Made Early in My Career: Why Buy-In Matters More Than the Tech | Luispuello | [Read More](https://medium.com/p/58d452aea823) |
-| Mon, 19 May 2025 21:49:00 GMT | NVIDIA Expands Quantum and AI Ecosystem in Taiwan Through Strategic Partnerships and Supercomputing… | QuantumGenie | [Read More](https://medium.com/p/7f2572c3c71e) |
-| Mon, 19 May 2025 21:33:05 GMT | Top 10 AI Security Video — May | Tal Eliyahu | [Read More](https://medium.com/p/24ff3c6dadd9) |
-| Mon, 19 May 2025 21:30:53 GMT | Can You Spot a Malicious URL? A Machine Learning Approach to Cyber Threat Detection | ab | [Read More](https://medium.com/p/9bd1cf590f02) |
