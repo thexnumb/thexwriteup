@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 13:24:30 GMT | XY : firewall audit | Accor Labsec | [Read More](https://medium.com/p/a2adf8069236) |
+| Tue, 20 May 2025 13:14:38 GMT | Comparativo DCPT vs eJPT | CabraRoot | [Read More](https://medium.com/p/b533caf32234) |
+| Tue, 20 May 2025 13:12:31 GMT | Tuesday Morning Threat Report: May 20, 2025 | Mark Maguire | [Read More](https://medium.com/p/bb51c7cbd8df) |
+| Tue, 20 May 2025 13:01:46 GMT | When Employees Are Your Weakest Link: Blue Team Services Explained | Peris.ai Cybersecurity | [Read More](https://medium.com/p/b7138af73121) |
+| Tue, 20 May 2025 13:01:33 GMT | BEST CRYPTO RECOVERY EXPERT FOR CRYPTO TRACING AND RECOVERY 2025/ TRUST GEEKS HACK EXPERT | Jacquelinewarnock | [Read More](https://medium.com/p/d242df932d98) |
+| Tue, 20 May 2025 13:00:51 GMT | Deepfakes and Synthetic Reality: Emerging Cybersecurity Threats in 2025 | Bharat Parida | [Read More](https://medium.com/p/b9279ae57a59) |
+| Tue, 20 May 2025 12:57:40 GMT | Here’s How I Recover My Money From Ageeon | Charisse C. Brown | [Read More](https://medium.com/p/f59cf9408ae6) |
+| Tue, 20 May 2025 12:54:01 GMT | Introduction to MQTT and Setting Up a Lab for MQTT Pentesting on MacOS | Vaishali Nagori | [Read More](https://medium.com/p/f6018183c2b7) |
+| Tue, 20 May 2025 12:51:40 GMT | The Crypto War Zone — Weekly “Crypto Security Truths”: Issue 46 | Cyber Strategy Institute | [Read More](https://medium.com/p/9c4558b9ef02) |
+| Tue, 20 May 2025 12:44:33 GMT | Red Nexus CTF v1.0, and how we made it to first place! | shxsu1 | [Read More](https://medium.com/p/ca9f85502ead) |
+| Tue, 20 May 2025 12:36:40 GMT | Best Ethical Hacking Training Institute in Delhi (2025)Best Ethical Hacking Training Institute in… | Manisha Chaudhary | [Read More](https://medium.com/p/49cb382405d7) |
+| Tue, 20 May 2025 12:35:06 GMT | Bluetooth Hacking - Device Hacking | BlackHat | [Read More](https://medium.com/p/72338a22928d) |
+| Tue, 20 May 2025 12:31:57 GMT | Why Do Bugs Slip Past Your Tests? | Anna | [Read More](https://medium.com/p/bfd6b5da00c3) |
 | Tue, 20 May 2025 12:24:06 GMT | X-Transfer Attacks | mike | [Read More](https://medium.com/p/dfd35abb3544) |
 | Tue, 20 May 2025 12:21:21 GMT | What Happens When You Start Saying ‘I Don’t Know’ to Everything? | datageekrj | [Read More](https://medium.com/p/6344a250b76b) |
 | Tue, 20 May 2025 12:20:57 GMT | Log 02: DISSECTION- Hardware Made Simple | Apurva Cybersecurity | [Read More](https://medium.com/p/c04f7729b1a2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 07:31:22 GMT | Get Recon Solana (RECON) Rewards and Maximize APY | RECON | [Read More](https://medium.com/p/aca2af8fb14e) |
 | Tue, 20 May 2025 07:30:07 GMT | 404 to Root: How a Forgotten Subdomain Led to Server Takeover ‍☠️ | Iski | [Read More](https://medium.com/p/d60e65fdbc18) |
 | Tue, 20 May 2025 07:25:42 GMT | A Beginner's Guide To Getting Rewards On LunaFi ($LFI) | LFI | [Read More](https://medium.com/p/2085aa46a9f0) |
-| Tue, 20 May 2025 07:20:31 GMT | Zero-Days in VMware ESXi and Microsoft SharePoint Exploited at Pwn2Own Berlin 2025: What You… | Infoziant | [Read More](https://medium.com/p/fbc781b21630) |
-| Tue, 20 May 2025 07:20:02 GMT | Defining the Scope of the AI Management System (Clause 4.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/d38ca2041d0f) |
-| Tue, 20 May 2025 07:07:51 GMT | ⚠️ How Hackers Use Social Engineering — With Real-World Examples You Need to Know | Naem Azam Chowdhury | [Read More](https://medium.com/p/08c8b3810dd7) |
-| Tue, 20 May 2025 07:05:37 GMT | What is XDR? Extended Detection & Response | Saurabh | [Read More](https://medium.com/p/bc0c5e004af7) |
-| Tue, 20 May 2025 07:04:26 GMT | Beyond Auth0: Navigating the Authentication Landscape in 2025 | Deepak Gupta | [Read More](https://medium.com/p/fd38be3f9562) |
-| Tue, 20 May 2025 07:02:52 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/a96d00f3f378) |
-| Tue, 20 May 2025 07:02:52 GMT | The Architecture of Quiet Collapse: How Systems Fail in the Age of Intelligence | Attila Dr. Nuray | [Read More](https://medium.com/p/2690df38df6c) |
-| Tue, 20 May 2025 07:01:33 GMT | Empowering Cybersecurity Careers: The Leading Ethical Hacking Academy in Kochi and Beyond | RedTeamsaniga Suresh | [Read More](https://medium.com/p/19a7c5738955) |
-| Tue, 20 May 2025 06:57:09 GMT | AI and cyber attack centre will be ‘leading force’ at Wolverhampton University | Babar Ali Jamali | [Read More](https://medium.com/p/1d8c77301181) |
-| Tue, 20 May 2025 06:48:54 GMT | SAPRouter — Port 3299 — How to expliot? | Very Lazy Tech | [Read More](https://medium.com/p/c3da21064ab3) |
-| Tue, 20 May 2025 06:33:50 GMT | What is NVR and DVR? NVR vs DVR Security Systems Explained | Manish | [Read More](https://medium.com/p/e10ba54f7f18) |
-| Tue, 20 May 2025 06:32:09 GMT | From Web3 Developer to Smart-Contract Auditor: Developer Slip-Ups in Math, Arrays, Calldata &… | Evgenii | [Read More](https://medium.com/p/f587d320ed54) |
-| Tue, 20 May 2025 06:31:41 GMT | Hackthebox — Cypher | HackerNasr | [Read More](https://medium.com/p/6fa30a702ae9) |
