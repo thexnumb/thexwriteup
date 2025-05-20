@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 05:11:40 GMT | ⚔️ The Brutal Truth About Bug Bounty That Nobody Tells Beginners | Abhijeet Kumawat | [Read More](https://medium.com/p/10e419514165) |
+| Tue, 20 May 2025 05:10:07 GMT | Reconnaissance in PenTesting: A Beginner’s Guide | Pawan Jaiswal | [Read More](https://medium.com/p/4a38760831cb) |
+| Tue, 20 May 2025 05:06:31 GMT | AI SOC is Transforming Security Operations Centers (SOCs) | Simbian Ai | [Read More](https://medium.com/p/c99e3b2a750b) |
+| Tue, 20 May 2025 05:05:27 GMT | 0-Click Account Takeover Earned Me €900 Bounty | Sahaj Gautam | [Read More](https://medium.com/p/f5b3b6dbb606) |
+| Tue, 20 May 2025 05:01:43 GMT | The Curious World of Adversarial Attacks: Understanding Their Mechanics and Real-World Impact | Marcus Gallego | [Read More](https://medium.com/p/fa06d305429d) |
+| Tue, 20 May 2025 04:50:51 GMT | It’s Okay Not to Be Okay. | chnvy | [Read More](https://medium.com/p/3f6c9eac5edc) |
+| Tue, 20 May 2025 04:46:33 GMT | Cybersecurity — What Even Is It? | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/cf939511b31c) |
+| Tue, 20 May 2025 04:46:11 GMT | Mastering SQL Injection Recon: Step-by-Step Guide for Bug Bounty Hunters | coffinxp | [Read More](https://medium.com/p/9f493fb058dd) |
+| Tue, 20 May 2025 04:44:59 GMT | What AI Agents Will Actually Do for Engineers in 2025 | Akshay Mittal | [Read More](https://medium.com/p/61f0d5c64a99) |
 | Tue, 20 May 2025 04:39:53 GMT | Writing Pentest Reports - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/35fd16cabb4d) |
 | Tue, 20 May 2025 04:37:46 GMT | Easy Account Takeover via OTP in Response — A Developer’s Oops Moment | Hack-Bat | [Read More](https://medium.com/p/91130d5e5686) |
 | Tue, 20 May 2025 04:37:30 GMT | ️ How Hackers Bypass Web Application Firewalls (WAFs) in 2025 | Vipul Sonule | [Read More](https://medium.com/p/c2a5052044c9) |
+| Tue, 20 May 2025 04:35:01 GMT | The Linux Process Journey — fallocate (Preallocate\Deallocate Space for a File) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5954958b6c5b) |
 | Tue, 20 May 2025 04:31:42 GMT | Side-Channel Attacks: When Hackers Read Your Chips, Not Your Code | Nanda Siddhardha | [Read More](https://medium.com/p/5604f6b8b511) |
 | Tue, 20 May 2025 04:28:08 GMT | How to Maximize Your Rewards with Bugs Bunny $BUGS in 2025 | BUGS | [Read More](https://medium.com/p/eb782c3427ce) |
 | Tue, 20 May 2025 04:26:20 GMT | Graph-QL Vulnerability can help you make $$$$ | Rishav anand | [Read More](https://medium.com/p/cfc79270e79d) |
@@ -103,13 +113,3 @@ SOC252 — Unauthorized user created a new user | Dh | [Read More](https://m
 | Mon, 19 May 2025 18:39:55 GMT | Nutriscore | Accor Labsec | [Read More](https://medium.com/p/73ad1a9af455) |
 | Mon, 19 May 2025 18:39:18 GMT | Python ilə MD5 hash necə qırılır? | Yaqubnasibov | [Read More](https://medium.com/p/c841bd79148b) |
 | Mon, 19 May 2025 18:35:22 GMT | The Hacker’s OS: Why Linux Is the All-Time Favorite of Cybersec Pros and Ethical Hackers (Part… | Inside Garuda | [Read More](https://medium.com/p/ca63a46701a4) |
-| Mon, 19 May 2025 18:33:39 GMT | Metodologi Pentesting untuk Aplikasi NestJS | Bimantoro Widyadana | [Read More](https://medium.com/p/a656dc21e343) |
-| Mon, 19 May 2025 18:32:40 GMT | Why More Firms Are Choosing IT Consulting Companies in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/1112c8bf61b1) |
-| Mon, 19 May 2025 18:30:09 GMT | IT Strategy Insights from an IT Consultant in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/49636a4195cd) |
-| Mon, 19 May 2025 18:29:19 GMT | Becoming a Network Engineer | Olaoye Itunuola | [Read More](https://medium.com/p/16c071995639) |
-| Mon, 19 May 2025 18:26:55 GMT | 100 Followers Special: How I Hacked Netflix? - Bug Bounty Tour #2 (Reupload) | NnFace | [Read More](https://medium.com/p/caa59cf41af1) |
-| Mon, 19 May 2025 18:26:15 GMT | Artificial Intelligence | Teri Radichel | [Read More](https://medium.com/p/2e97415216c0) |
-| Mon, 19 May 2025 18:23:32 GMT | Hall of Fame in University of Nebraska | AbhirupKonwar | [Read More](https://medium.com/p/cd6bd8f634e2) |
-| Mon, 19 May 2025 18:18:46 GMT | How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover | Ahmed Ashraf Shora | [Read More](https://medium.com/p/d84f6cf8c169) |
-| Mon, 19 May 2025 18:13:20 GMT | When AIs Break the Script: How Prompt Tampering Reveals a Governance Vacuum | Njabulo Brighton Chitsiko | [Read More](https://medium.com/p/c4e830ffe83f) |
-| Mon, 19 May 2025 18:11:53 GMT | The Future of Software Isn’t Automation, It’s Discovery | Arpan Agarwal | [Read More](https://medium.com/p/56da73a8284a) |
