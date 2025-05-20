@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 16:14:50 GMT | Malware: The Invisible Enemy Inside Your Inbox | Niti Singh | [Read More](https://medium.com/p/10a7ce21097e) |
+| Tue, 20 May 2025 15:59:59 GMT | ️ How I Found FTP Credentials in a Python Script on a NASA Subdomain | Unknown Soldier | [Read More](https://medium.com/p/dc7f4676444c) |
+| Tue, 20 May 2025 15:49:08 GMT | From Recon to Root: A MongoDB NoSQL Injection Bug Bounty Journey | Aditya Bhatt | [Read More](https://medium.com/p/18e9cb309cac) |
+| Tue, 20 May 2025 15:47:17 GMT | The Old Time Heroes | John Thorn | [Read More](https://medium.com/p/c6be3f162d17) |
+| Tue, 20 May 2025 15:44:51 GMT | On some level, you know. | R S | [Read More](https://medium.com/p/c2457bcb8aab) |
 | Tue, 20 May 2025 15:35:13 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/7dd4d64a63d5) |
 | Tue, 20 May 2025 15:30:37 GMT | Is It You or Healing? | isa ☁️ | [Read More](https://medium.com/p/76375742e454) |
 | Tue, 20 May 2025 15:28:14 GMT | CTF TryHackMe - Corridor Let’s Get Out of Here! | InREXnA | [Read More](https://medium.com/p/83b7e786417d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 10:42:44 GMT | Understanding Security Roles in Oracle Cloud HCM -For beginners | Asif Adib | [Read More](https://medium.com/p/8c6a6f4632f1) |
 | Tue, 20 May 2025 10:36:53 GMT | Why Cybersecurity Needs More Builders, Not Just Theorists | Richard Dosumu | [Read More](https://medium.com/p/45442b2a466d) |
 | Tue, 20 May 2025 10:31:37 GMT | Navigating the World of Third-Party Cookies: A Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/714353750647) |
-| Tue, 20 May 2025 10:26:42 GMT | Here’s How I Recover My Money From Aura Funded | Jan Brandt | [Read More](https://medium.com/p/3d5e415551ca) |
-| Tue, 20 May 2025 10:23:10 GMT | Did AI Kill Stack Overflow?— I Hope It Survives | Elye - A One Eye Dev By His Grace | [Read More](https://medium.com/p/798f66d9a6da) |
-| Tue, 20 May 2025 10:22:08 GMT | Custom Website Development: Build Your Business the Smart Way | Jahanainspite | [Read More](https://medium.com/p/68a1ad01909c) |
-| Tue, 20 May 2025 10:21:37 GMT | Bug Bounty Hunters in Web3: How to Start and How Much You Can Make | Johnny Time | [Read More](https://medium.com/p/e311fc0d5cb7) |
-| Tue, 20 May 2025 10:14:45 GMT | How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead) | Younes Sellimi | [Read More](https://medium.com/p/bb38034e77e3) |
