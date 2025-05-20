@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 14:36:12 GMT | Virtualization is Like Magic (But Nerdier) | PanicAtTheKernel | [Read More](https://medium.com/p/d70c3bf8694a) |
+| Tue, 20 May 2025 14:30:17 GMT | How i hijacked an account without knowing the password and earned $2500 from redirect parameter | 0xRedFox29 | [Read More](https://medium.com/p/7a46ffcff879) |
+| Tue, 20 May 2025 14:29:10 GMT | Suivre le fil : maîtriser la gestion d’incident SaaS en respectant les RTO | Rebecca Cottignies | [Read More](https://medium.com/p/bcdb35110c55) |
+| Tue, 20 May 2025 14:28:07 GMT | Building Effective KPIs for Cybersecurity Projects and Team Performance - بناء مؤشرات أداء فعّالة… | Emad  Mamdouh Abdelhamid | [Read More](https://medium.com/p/b459c1d6b4a7) |
+| Tue, 20 May 2025 14:27:01 GMT | Introduction to HTTP | Anandhu K | [Read More](https://medium.com/p/563123375a98) |
+| Tue, 20 May 2025 14:24:48 GMT | How to Actually Become NIS2 Compliant | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/a68b22d85ae9) |
+| Tue, 20 May 2025 14:23:50 GMT | The AssessFirst Chronicles — On the Road to ISO 27001: Implementing Security Controls (Episode 5) | Rebecca Cottignies | [Read More](https://medium.com/p/7205f5219bc9) |
+| Tue, 20 May 2025 14:17:45 GMT | INE — eJPT: SMB/NetBIOS Hacking | Babatunde Ojo | [Read More](https://medium.com/p/545545913789) |
+| Tue, 20 May 2025 14:13:02 GMT | Feeling lucky? DragonForce is handing out driver-level chaos — BYOVD style | Wes Young | [Read More](https://medium.com/p/06c9971545b4) |
 | Tue, 20 May 2025 14:10:48 GMT | BianLian and RansomEXX Exploit SAP Systems in Sophisticated Enterprise Ransomware Attacks | CyBlog | [Read More](https://medium.com/p/68f8367f8257) |
 | Tue, 20 May 2025 14:06:32 GMT | Mastering the Art of Ethical Hacking with CEH v13: Your Gateway to a Cybersecurity Career | LazyHacker | [Read More](https://medium.com/p/049d6e96b2ac) |
 | Tue, 20 May 2025 14:05:22 GMT | Malicious PyPI Packages Exploiting Instagram and TikTok APIs | Cybersectoworld | [Read More](https://medium.com/p/e50e08a1f5f1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 09:28:18 GMT | API Security 101: Protecting Your Data in a Connected World | Sathyanarayanan Dhanuskodi | [Read More](https://medium.com/p/a5233ae3297c) |
 | Tue, 20 May 2025 09:27:46 GMT | Cyber Law, AI Misuse & India’s Digital Future I Raj Sheoran x Dr. Pavan Duggal | Raj Sheoran | [Read More](https://medium.com/p/bab4080f93dc) |
 | Tue, 20 May 2025 09:26:49 GMT | What is Integrity in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/3f7192a503a5) |
-| Tue, 20 May 2025 09:25:24 GMT | SETTING UP A SMALL ORGANIZATION NETWORK AND DNS SERVER USING CISCO PACKET TRACER | Muhammad Jeleel | [Read More](https://medium.com/p/8de0f516eea4) |
-| Tue, 20 May 2025 09:23:43 GMT | Top Rated DevOps Course in Lahore for Career-Ready IT Professionals | cyberwingITSolution | [Read More](https://medium.com/p/52f76e44d451) |
-| Tue, 20 May 2025 09:20:04 GMT | “GPT Profile Jail” | obelyra | [Read More](https://medium.com/p/f3e2d0ae3a91) |
-| Tue, 20 May 2025 09:19:52 GMT | Proof of Reserve Nedir? KVHS’ler İçin Neden Kritik Öneme Sahip? | BeosinTR | [Read More](https://medium.com/p/35cc3ec76099) |
-| Tue, 20 May 2025 09:03:31 GMT | How a Hacker Hacked TU Eindhoven of Technology University Using Just VPN Credentials | Motasem Hamdan | [Read More](https://medium.com/p/21bc30a6856e) |
-| Tue, 20 May 2025 08:59:57 GMT | Crafting the Ideal Website: What Inspite Technologies Brings to the Digital Table | Swethainspite | [Read More](https://medium.com/p/92783d647cbe) |
-| Tue, 20 May 2025 08:57:55 GMT | From Zero to SOC Homelab: My Journey to Defense-in-Depth and Full Security Automation | Nakkouch Tarek | [Read More](https://medium.com/p/cc07373b8b6d) |
-| Tue, 20 May 2025 08:55:59 GMT | How I Wasted A Scammer’s Time On Instagram | Smart Jeffery | [Read More](https://medium.com/p/85330c87cf1f) |
-| Tue, 20 May 2025 08:50:02 GMT | Ransomware on the Rise: KSA Data Centers Brace for Attacks | Tekhabeeb | [Read More](https://medium.com/p/9e3aabca7972) |
