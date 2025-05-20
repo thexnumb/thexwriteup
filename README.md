@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 21:35:50 GMT | Brainfuck — Hack The Box Walkthrough | Amanuel | [Read More](https://medium.com/p/ac9cfd1b2cce) |
+| Tue, 20 May 2025 21:30:26 GMT | My First CVE: Privilege Escalation & Possible Account Takeover in Froxlor (CVE-2025–29773) | Salaheddine KALADA | [Read More](https://medium.com/p/c111469d74b0) |
+| Tue, 20 May 2025 21:25:19 GMT | SOC Analysis of Event 314: SOC336 — Windows OLE Zero-Click RCE Exploitation Detected… | Ray Maiden | [Read More](https://medium.com/p/36954ec69c83) |
+| Tue, 20 May 2025 21:20:51 GMT | HANYA DI HEROSLOT77: Cukup Lihat Polanya, Scatter Hitam Mahjong Ways Bisa Muncul Otomatis | ozasativa | [Read More](https://medium.com/p/52f33c91f7a5) |
+| Tue, 20 May 2025 21:13:14 GMT | My First AI Hackathon: Lessons from Finposium 2025 | Syed Ali Turab | [Read More](https://medium.com/p/ea844559dcff) |
+| Tue, 20 May 2025 21:11:23 GMT | How Social Media Can Be A Learning Tool | Savvy Cyber Kids | [Read More](https://medium.com/p/633eaef6093b) |
+| Tue, 20 May 2025 21:09:52 GMT | Why Should You NOT Share Your Password With Others? | Savvy Cyber Kids | [Read More](https://medium.com/p/41c4f4004b0a) |
 | Tue, 20 May 2025 21:05:05 GMT | Your Car’s Software is Outdated — Why That’s Riskier Than a Flat Tire | Ahmad Javed | [Read More](https://medium.com/p/b69373fbb528) |
 | Tue, 20 May 2025 21:02:29 GMT | Hiring for Healthcare Cybersecurity Roles? Target These Skills | J. Appleton | [Read More](https://medium.com/p/4df60f6adf75) |
 | Tue, 20 May 2025 20:59:58 GMT | Smoke and Mirrors | Victor Thasen | [Read More](https://medium.com/p/e120f67f711b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 15:16:00 GMT | GÜVENLİK VE RİSK YÖNETİMİ | Abdurrahman Karabacak | [Read More](https://medium.com/p/a584bce86ee5) |
 | Tue, 20 May 2025 15:14:20 GMT | Code That Teaches: Software as a Medium of Understanding | Landin McSorley | [Read More](https://medium.com/p/561b2b1cbf71) |
 | Tue, 20 May 2025 15:13:13 GMT | Passkeys in Practice: Simplify Logins and Eliminate Phishing Risk | Gregg Westgate | [Read More](https://medium.com/p/3e20cbce649b) |
-| Tue, 20 May 2025 15:11:12 GMT | How CISOs Can Defend Against the “Harvest Now, Decrypt Later” Threat | QuantumGenie | [Read More](https://medium.com/p/cfb139602ae2) |
-| Tue, 20 May 2025 15:06:34 GMT | Day 41: The Evolution and Security Landscape of Wi-Fi Technology | Agarwaldaksh | [Read More](https://medium.com/p/0f7ba9c53626) |
-| Tue, 20 May 2025 15:05:04 GMT | AI Risks: The New World of AI Insurance | Ahmed Fessi | [Read More](https://medium.com/p/971c6717eecb) |
-| Tue, 20 May 2025 15:03:37 GMT | Why Your Passwords Aren’t Safe: 7 Urgent Security Steps You Need Today | Kuldeepkumawat | [Read More](https://medium.com/p/b075bab250cd) |
-| Tue, 20 May 2025 15:01:56 GMT | A Future Hidden in Plain Sight | Enobong Frank Itaeyo | [Read More](https://medium.com/p/02946981f020) |
-| Tue, 20 May 2025 14:59:52 GMT | Why HIPAA Compliance Alone Won’t Protect Your Digital Health Startup During M&A | Aaron T. Maguregui | [Read More](https://medium.com/p/14fdad0a225b) |
-| Tue, 20 May 2025 14:53:09 GMT | From Powerless to Powerful: How a Dead Laptop Taught Us More Than a Lecture Ever Could | Afshan Noorin | [Read More](https://medium.com/p/5f5776db8573) |
