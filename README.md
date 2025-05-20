@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 20:16:32 GMT | “CNA Operational Rules Version 4.1.0” Now in Effect | CVE Program Blog | [Read More](https://medium.com/p/2f929f4e52da) |
+| Tue, 20 May 2025 20:07:16 GMT | BreachLog: A Real-World Cybersecurity Breakdown Series | Ved Trivedi | [Read More](https://medium.com/p/0ddaf2208d5f) |
+| Tue, 20 May 2025 20:06:16 GMT | RedisRaider Unmasked: A New Breed of Cryptojacking Worm Targeting Misconfigured Redis Servers | Siva Gunasekaran | [Read More](https://medium.com/p/39cd09a80f17) |
+| Tue, 20 May 2025 19:58:12 GMT | Securing the AI-Powered Enterprise: Microsoft’s Best Practices for Safe AI Adoption | Tom Croll | [Read More](https://medium.com/p/27dfe3d331fd) |
+| Tue, 20 May 2025 19:47:29 GMT | Why a Growth Mindset Is One of the Most Underrated Skills in Cybersecurity | Brittney Ginther | [Read More](https://medium.com/p/26569a8cb963) |
+| Tue, 20 May 2025 19:46:57 GMT | AWS Cognito: User Authentication Without Losing Your Mind | Jotham Arinze | [Read More](https://medium.com/p/610c36eaccac) |
+| Tue, 20 May 2025 19:42:48 GMT | Cybersecurity in Locksmithing | Locksmith of Brevard | [Read More](https://medium.com/p/f812f9934071) |
+| Tue, 20 May 2025 19:41:38 GMT | Chinese Hackers Deploy MarsSnake Malware to Breach U.S. Infrastructure | Chetan Seripally | [Read More](https://medium.com/p/d5e5732f5946) |
 | Tue, 20 May 2025 19:32:30 GMT | The One Way Trip | Typical Angel | [Read More](https://medium.com/p/0e2b373899d5) |
 | Tue, 20 May 2025 19:26:41 GMT | I Found a Hidden Camera in a Wi-Fi Network Using My Phone | Sam Galope | [Read More](https://medium.com/p/cb00fe958138) |
 | Tue, 20 May 2025 19:14:46 GMT | ️ Scattered Spider Is Back — And This Time, They’re Coming for U.S. Retailers | Sakya Somnath Das | [Read More](https://medium.com/p/47b8e1d4ac1a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 14:27:01 GMT | Introduction to HTTP | Anandhu K | [Read More](https://medium.com/p/563123375a98) |
 | Tue, 20 May 2025 14:24:48 GMT | How to Actually Become NIS2 Compliant | Michiel Schuermans (CCWB) | [Read More](https://medium.com/p/a68b22d85ae9) |
 | Tue, 20 May 2025 14:23:50 GMT | The AssessFirst Chronicles — On the Road to ISO 27001: Implementing Security Controls (Episode 5) | Rebecca Cottignies | [Read More](https://medium.com/p/7205f5219bc9) |
-| Tue, 20 May 2025 14:17:45 GMT | INE — eJPT: SMB/NetBIOS Hacking | Babatunde Ojo | [Read More](https://medium.com/p/545545913789) |
-| Tue, 20 May 2025 14:13:02 GMT | Feeling lucky? DragonForce is handing out driver-level chaos — BYOVD style | Wes Young | [Read More](https://medium.com/p/06c9971545b4) |
-| Tue, 20 May 2025 14:10:48 GMT | BianLian and RansomEXX Exploit SAP Systems in Sophisticated Enterprise Ransomware Attacks | CyBlog | [Read More](https://medium.com/p/68f8367f8257) |
-| Tue, 20 May 2025 14:06:32 GMT | Mastering the Art of Ethical Hacking with CEH v13: Your Gateway to a Cybersecurity Career | LazyHacker | [Read More](https://medium.com/p/049d6e96b2ac) |
-| Tue, 20 May 2025 14:05:22 GMT | Malicious PyPI Packages Exploiting Instagram and TikTok APIs | Cybersectoworld | [Read More](https://medium.com/p/e50e08a1f5f1) |
-| Tue, 20 May 2025 14:02:38 GMT | My eCIR exam review 2025 (usefull resources, free labs and etc.) | John Barnett | [Read More](https://medium.com/p/1212950e4e4d) |
-| Tue, 20 May 2025 14:02:14 GMT | Here’s How I Recover My Money From Tradelax | Nadine Moeller | [Read More](https://medium.com/p/93f366dd9a3c) |
-| Tue, 20 May 2025 13:59:29 GMT | Cyber Briefing: 2025.05.20 | CyberMaterial | [Read More](https://medium.com/p/3a5e8f436127) |
