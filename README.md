@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 17:15:21 GMT | SQL Injection in 2025: Still a Threat & How to Defend Against It | Grvbaplawat | [Read More](https://medium.com/p/15a18bf78662) |
+| Tue, 20 May 2025 17:09:08 GMT | [API Pentest] —  Track 01: Mapping the Shadows — Uncovering Endpoints | AjiPangesstu | [Read More](https://medium.com/p/c8de9511fd1e) |
+| Tue, 20 May 2025 17:02:47 GMT | PicoCTF Writeup — Nice netcat… | SoBatista | [Read More](https://medium.com/p/2d97351299a9) |
+| Tue, 20 May 2025 17:01:31 GMT | Cybersecurity Toolkit: A Practical Guide to Nmap, Metasploit, Hydra, Mimikatz, and Netcat | Arun Kumar | [Read More](https://medium.com/p/ff879649a261) |
+| Tue, 20 May 2025 17:00:53 GMT | Data Exfiltration via ICMP Protocol | Shinigami81 | [Read More](https://medium.com/p/b5c9e8f5cf6f) |
+| Tue, 20 May 2025 16:56:08 GMT | Q-Day | Muhammad Omar Tarrab | [Read More](https://medium.com/p/efa323dd36dc) |
+| Tue, 20 May 2025 16:55:06 GMT | How to Get LunaFi (LFI) Rewards: Quick Beginner's Guide | LFI | [Read More](https://medium.com/p/f50e556df90f) |
+| Tue, 20 May 2025 16:53:46 GMT | The 5 Most Common Cybersecurity Threats in 2025 — And How to Stay Safe (Updated: May 20, 2025) | Rishabh Raj Singh | [Read More](https://medium.com/p/b8a303cae6cf) |
 | Tue, 20 May 2025 16:38:50 GMT | Creating a Seamless Client-Freelancer Connection with Virtual Assistant Platforms | riyaaz baig | [Read More](https://medium.com/p/c5277eb9ba53) |
 | Tue, 20 May 2025 16:37:57 GMT | You Are Under Attack. You Are at War with Automation | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b369b0fa5f44) |
 | Tue, 20 May 2025 16:33:54 GMT | Windows ve Linux İşletim Sistemlerinde Yetki Yükseltme Teknikleri | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/c011904b22e6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 11:44:09 GMT | The Origins of XSS (Cross-Site Scripting) | Thexssrat | [Read More](https://medium.com/p/628dde3ac4b6) |
 | Tue, 20 May 2025 11:39:57 GMT | How Information Security Management Services in Eastern India Strengthen Your Business | Khatore IT Solutions | [Read More](https://medium.com/p/a58c9a041786) |
 | Tue, 20 May 2025 11:39:30 GMT | Enhance Driving Safety with GPS-Enabled Dash Cams in the UAE | Tekhabeeb | [Read More](https://medium.com/p/b8bbf251c5b9) |
-| Tue, 20 May 2025 11:37:19 GMT | Cloud Penetration Testing Services: Essential Strategies for Securing Cloud Environments | StrongBox IT | [Read More](https://medium.com/p/92cbae21bc19) |
-| Tue, 20 May 2025 11:36:10 GMT | The Risks We Share: Climate, Conflict, and Continuity in the Hindu Kush Himalayas | Dark Matter Labs | [Read More](https://medium.com/p/39ef553658c4) |
-| Tue, 20 May 2025 11:35:18 GMT | Cyber Risk Management Services in Arizona: Why Local Businesses Can’t Afford to Ignore Them | Fountain Hills Technologies | [Read More](https://medium.com/p/a8efe9323fe0) |
-| Tue, 20 May 2025 11:35:15 GMT | Linux | Hiranur Gemalmaz | [Read More](https://medium.com/p/b6410b8cfede) |
-| Tue, 20 May 2025 11:26:41 GMT | Top 5 Benefits of Investing in Expert Vulnerability Scanning Services for Your Arizona Business | Fountain Hills Technologies | [Read More](https://medium.com/p/f829bcd71e55) |
-| Tue, 20 May 2025 11:24:16 GMT | The Emerging Demand for Cybersecurity Professionals in Kerala | RedTeamsaniga Suresh | [Read More](https://medium.com/p/7ba0fbc09728) |
-| Tue, 20 May 2025 11:22:11 GMT | Study IT Online in Australia: Best Courses for 2025 | Educ4te | [Read More](https://medium.com/p/e972ff89ff51) |
-| Tue, 20 May 2025 11:20:13 GMT | Introduction to Threat Hunting | Prakash Karekar | [Read More](https://medium.com/p/bbc22fe8aaf5) |
