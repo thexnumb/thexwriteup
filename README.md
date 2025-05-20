@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 May 2025 14:10:48 GMT | BianLian and RansomEXX Exploit SAP Systems in Sophisticated Enterprise Ransomware Attacks | CyBlog | [Read More](https://medium.com/p/68f8367f8257) |
+| Tue, 20 May 2025 14:06:32 GMT | Mastering the Art of Ethical Hacking with CEH v13: Your Gateway to a Cybersecurity Career | LazyHacker | [Read More](https://medium.com/p/049d6e96b2ac) |
+| Tue, 20 May 2025 14:05:22 GMT | Malicious PyPI Packages Exploiting Instagram and TikTok APIs | Cybersectoworld | [Read More](https://medium.com/p/e50e08a1f5f1) |
+| Tue, 20 May 2025 14:02:38 GMT | My eCIR exam review 2025 (usefull resources, free labs and etc.) | John Barnett | [Read More](https://medium.com/p/1212950e4e4d) |
+| Tue, 20 May 2025 14:02:14 GMT | Here’s How I Recover My Money From Tradelax | Nadine Moeller | [Read More](https://medium.com/p/93f366dd9a3c) |
+| Tue, 20 May 2025 13:59:29 GMT | Cyber Briefing: 2025.05.20 | CyberMaterial | [Read More](https://medium.com/p/3a5e8f436127) |
+| Tue, 20 May 2025 13:57:59 GMT | Securing Your Next.js App: XSS Protection | Mohamadhassan | [Read More](https://medium.com/p/ce655e55590d) |
+| Tue, 20 May 2025 13:56:36 GMT | Claude 3.7 Sonnet: CODE HACKED — 46 Pages of System Prompt Revealed! #anthropic #hack #chatgpt | ParlonsIA | [Read More](https://medium.com/p/034edba72b34) |
+| Tue, 20 May 2025 13:51:24 GMT | Top 10 Cybersecurity Threats in 2025 and How to Protect Yourself | Xcyber Squad | [Read More](https://medium.com/p/3fc653628fbd) |
+| Tue, 20 May 2025 13:48:43 GMT | ICTF 2025 Tic Tac Toe Writeup | MaanVader | [Read More](https://medium.com/p/482705d9a882) |
+| Tue, 20 May 2025 13:44:18 GMT | Gotcha Moments Don’t Build Trust — They Undermine Real Security | Scott Hill | [Read More](https://medium.com/p/c0521e32d5aa) |
+| Tue, 20 May 2025 13:40:40 GMT | Accor unveils Labsec | Accor Labsec | [Read More](https://medium.com/p/955eb7a5393e) |
+| Tue, 20 May 2025 13:38:20 GMT | The impact of legacy on the hotel’s attack surface | Accor Labsec | [Read More](https://medium.com/p/66a4c2fe438e) |
+| Tue, 20 May 2025 13:34:44 GMT | Day 7 of #60DaysofGRC: The Metrics That Drive GRC Success | Brittney Ginther | [Read More](https://medium.com/p/7f73057d1dec) |
+| Tue, 20 May 2025 13:32:33 GMT | The AI Hack That Turned My Views Into Real Revenue | Najib Ghatte | [Read More](https://medium.com/p/b1ac47c1e103) |
+| Tue, 20 May 2025 13:28:37 GMT | Die Entwicklung von Sicherheitsrobotik | Presslink Media | [Read More](https://medium.com/p/2d13e451a721) |
 | Tue, 20 May 2025 13:24:30 GMT | XY : firewall audit | Accor Labsec | [Read More](https://medium.com/p/a2adf8069236) |
 | Tue, 20 May 2025 13:14:38 GMT | Comparativo DCPT vs eJPT | CabraRoot | [Read More](https://medium.com/p/b533caf32234) |
 | Tue, 20 May 2025 13:12:31 GMT | Tuesday Morning Threat Report: May 20, 2025 | Mark Maguire | [Read More](https://medium.com/p/bb51c7cbd8df) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 08:57:55 GMT | From Zero to SOC Homelab: My Journey to Defense-in-Depth and Full Security Automation | Nakkouch Tarek | [Read More](https://medium.com/p/cc07373b8b6d) |
 | Tue, 20 May 2025 08:55:59 GMT | How I Wasted A Scammer’s Time On Instagram | Smart Jeffery | [Read More](https://medium.com/p/85330c87cf1f) |
 | Tue, 20 May 2025 08:50:02 GMT | Ransomware on the Rise: KSA Data Centers Brace for Attacks | Tekhabeeb | [Read More](https://medium.com/p/9e3aabca7972) |
-| Tue, 20 May 2025 08:44:13 GMT | Why Great Web Design & Development Matters More Than Ever in 2025 | Swethainspite | [Read More](https://medium.com/p/8d2498787374) |
-| Tue, 20 May 2025 08:43:46 GMT | Second-Order Takeover: Scoring High Rewards! | nocley | [Read More](https://medium.com/p/926ff658b76b) |
-| Tue, 20 May 2025 08:42:01 GMT | Top Cybersecurity Threats | The United Indian | [Read More](https://medium.com/p/7ae88ffc19c3) |
-| Tue, 20 May 2025 08:39:44 GMT | Rethinking Endpoint Security: Simpler, Smarter, and Truly Zero Trust | Man Of Truth | [Read More](https://medium.com/p/dddd843e9ecf) |
-| Tue, 20 May 2025 08:27:40 GMT | Ransomware: Comprehensive Analysis and Defense Strategies | Okan Yıldız | [Read More](https://medium.com/p/1aebfff3c3a6) |
-| Tue, 20 May 2025 08:27:13 GMT | Quantum Computers Threat to Bitcoin | Przemek Chojecki | [Read More](https://medium.com/p/e1b57b0da2aa) |
-| Tue, 20 May 2025 08:23:57 GMT | CORS Misconfiguration: The Silent Gateway to Cross-Origin Attacks— Writeup | Shah kaif | [Read More](https://medium.com/p/1e8418d2cf21) |
-| Tue, 20 May 2025 07:58:54 GMT | Lee Enterprises Reports $2M in Recovery Costs After Major Ransomware Incident | SafetyDetectives Research Team | [Read More](https://medium.com/p/d9e9f2b815ba) |
-| Tue, 20 May 2025 07:46:24 GMT | PostgreSQL Security Hardening: Protecting Your Production Database | Rizqi Mulki | [Read More](https://medium.com/p/efb9a195fb1d) |
-| Tue, 20 May 2025 07:36:21 GMT | CHATGPT: A Potential Phishing Vector via HTML Injection | zer0dac | [Read More](https://medium.com/p/bf703c79590a) |
-| Tue, 20 May 2025 07:36:06 GMT | Kerala’s Latest cyber breaches shook the world, Targeting hospitals | Bivek raj | [Read More](https://medium.com/p/30c8a6b07284) |
-| Tue, 20 May 2025 07:33:13 GMT | Şirketinizi Siber Tehditlere Karşı Nasıl Korursunuz? | Buteksoft | [Read More](https://medium.com/p/15a1cd93f536) |
-| Tue, 20 May 2025 07:32:06 GMT | shark on wire 1 - Writeup | Marvin | [Read More](https://medium.com/p/1693cf76b880) |
-| Tue, 20 May 2025 07:31:22 GMT | Get Recon Solana (RECON) Rewards and Maximize APY | RECON | [Read More](https://medium.com/p/aca2af8fb14e) |
-| Tue, 20 May 2025 07:30:07 GMT | 404 to Root: How a Forgotten Subdomain Led to Server Takeover ‍☠️ | Iski | [Read More](https://medium.com/p/d60e65fdbc18) |
-| Tue, 20 May 2025 07:25:42 GMT | A Beginner's Guide To Getting Rewards On LunaFi ($LFI) | LFI | [Read More](https://medium.com/p/2085aa46a9f0) |
