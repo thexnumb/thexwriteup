@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 09:36:58 GMT | ️ Mozilla Patches Critical Firefox Zero-Days Exploited at Pwn2Own Berlin 2025 | Infoziant | [Read More](https://medium.com/p/0016649d2e11) |
+| Wed, 21 May 2025 09:20:37 GMT | Why Password Hygiene Is the Cybersecurity Skill No One Can Afford to Ignore | Kingsley Asuamah | [Read More](https://medium.com/p/513a3c8ae698) |
 | Wed, 21 May 2025 09:19:17 GMT | The New Cybersecurity Playbook: What Companies Can Learn from Coinbase’s Breach Response | Alok Prabhat | [Read More](https://medium.com/p/6b132c829895) |
+| Wed, 21 May 2025 09:16:30 GMT | Manus AI Agent: Free Access, Free Daily Credits & Next-Gen Image Creation (Exclusive Tests and… | ParlonsIA | [Read More](https://medium.com/p/4644aec81152) |
 | Wed, 21 May 2025 09:12:57 GMT | Feroxbuster: The Rust-Powered Recon Weapon You’ve Been Missing | Chintala Taraka Ram | [Read More](https://medium.com/p/3abed642c0ae) |
 | Wed, 21 May 2025 09:08:15 GMT | How to Secure More ChainBounty $BOUNTY Rewards in 2025 | BOUNTY | [Read More](https://medium.com/p/c3d4685b747b) |
 | Wed, 21 May 2025 09:03:15 GMT | Blurayinvest Review - Is It legit Or Fake | Georgia Kirke | [Read More](https://medium.com/p/3f6b0844ba00) |
@@ -111,6 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 03:00:21 GMT | Preventing Data Breaches: How Sydney IT Support Providers Keep You Secure | Total Computer Technology | [Read More](https://medium.com/p/5c8b19b0efff) |
 | Wed, 21 May 2025 02:45:57 GMT | Slow Systems and Security Risks? IT Services in Melbourne Can Help | Steadfastsolutions | [Read More](https://medium.com/p/f2e137d531f0) |
 | Wed, 21 May 2025 02:44:28 GMT | Sherlock: Digital Footprint Hunting Tool | Lincoln Mcloud | [Read More](https://medium.com/p/1b08fdcbb93a) |
-| Wed, 21 May 2025 02:42:09 GMT | Microsoft 365 under threat: New phishing technique tricks users and security systems | current.cybersecurity | [Read More](https://medium.com/p/bd27447e0f1b) |
-| Wed, 21 May 2025 02:36:07 GMT | How Hackers Discover Hidden Admin Panels and Secret Files ️‍♂️ | Vipul Sonule | [Read More](https://medium.com/p/c2b12ab0b841) |
-| Wed, 21 May 2025 02:35:58 GMT | Hackers Used Emojis to Cripple a Business. Here’s How to Make Sure You’re Not Next. | Noel | [Read More](https://medium.com/p/c75941341f9b) |
