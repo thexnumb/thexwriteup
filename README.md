@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 17:25:22 GMT | IoT Vulnerabilities and Security Models | Advika | [Read More](https://medium.com/p/426e2475edee) |
+| Wed, 21 May 2025 17:24:03 GMT | Modern-Day Dating and the Absence of Love | Kome | [Read More](https://medium.com/p/7ed5a37e2a8d) |
+| Wed, 21 May 2025 17:23:45 GMT | Branch Privilege Injection: A New Threat to Spectre v2 Mitigations | Manju B | [Read More](https://medium.com/p/9e266bb68413) |
+| Wed, 21 May 2025 17:19:31 GMT | The Power of IT Specialists and Managed Services | Noorvia | [Read More](https://medium.com/p/b561171015fc) |
+| Wed, 21 May 2025 17:17:12 GMT | From Paper Mountains to Actionable Insights: The Real-World Impact of AI-Powered Document… | Hussein Abdelwahab | [Read More](https://medium.com/p/a38bfadd9c6d) |
+| Wed, 21 May 2025 17:12:07 GMT | If You’re Trying and Still Hearing “Do Better,” This Might Help. | Goldie | [Read More](https://medium.com/p/ab708f05a667) |
 | Wed, 21 May 2025 17:10:50 GMT | Why CSPM(Cloud Security Posture Management) Is the Future of Scalable Cloud Security | Ajay Monga | [Read More](https://medium.com/p/2dfcaf638c4b) |
 | Wed, 21 May 2025 17:06:46 GMT | “FLOODLIGHTING” IN EARLY DATING STAGES ! COMFORT OR TOXICITY? | Kriti Dubey | [Read More](https://medium.com/p/2bec62d17953) |
 | Wed, 21 May 2025 17:03:59 GMT | Decentralization as a Key Architecture of Web3 Security Features: The Risk of Improper Application… | Samir Muhammad | [Read More](https://medium.com/p/84b63d21e43a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 12:36:53 GMT | $5,000 - Authorization Bypass via Parameter Parsing Mismatch (Django — Flask) | priyanshu shakya | [Read More](https://medium.com/p/6f0f748db6be) |
 | Wed, 21 May 2025 12:29:11 GMT | Meet Gemini Nano: Google Chrome’s New Defensive AI | O. J. Okpabi | [Read More](https://medium.com/p/0644b95f93a3) |
 | Wed, 21 May 2025 12:27:15 GMT | Drowning in the Inbox: Real Lessons from a Threat Hunter on Email Bombing Attacks | Surya Teja | [Read More](https://medium.com/p/2ab32a3ea6b3) |
-| Wed, 21 May 2025 12:26:01 GMT | What Is Cyber Threat Intelligence? A Beginner-Friendly Guide | Kambetastephano | [Read More](https://medium.com/p/351c73bc7ca1) |
-| Wed, 21 May 2025 12:23:03 GMT | NESA Software Pvt Ltd: A Pioneer Offshore Software Development Company for U.S. Companies | Basilnesasoftware | [Read More](https://medium.com/p/c7bfda0ac625) |
-| Wed, 21 May 2025 12:21:39 GMT | Zerolend: Problems and Risks of a DeFi Protocol on Alert. | DarkSlither | [Read More](https://medium.com/p/8a4dc7fd2757) |
-| Wed, 21 May 2025 12:19:59 GMT | When Marketers and Governments Act Like God | Shimon Rothschild CISSP | [Read More](https://medium.com/p/c025eb89571f) |
-| Wed, 21 May 2025 12:19:32 GMT | Surfshark Antivirus 2025: A Comprehensive Cybersecurity Solution for the Modern User | Top2Antivirus | [Read More](https://medium.com/p/69f1e6f2ff21) |
-| Wed, 21 May 2025 12:13:45 GMT | How I Bypassed My University’s OTP System and Got Admin-Level Access (Ethical Hack) | Kamlesh Bharad | [Read More](https://medium.com/p/b2a75e54069e) |
