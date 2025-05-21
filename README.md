@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 18:57:52 GMT | ️ How Antivirus Software Works: Detection Techniques, Heuristics, and Quarantine Explained | Murathanklc | [Read More](https://medium.com/p/f13ca68c5bdb) |
+| Wed, 21 May 2025 18:53:16 GMT | 3AM Ransomware Uses Spoofed IT Calls & Email Bombing | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/5fc519db1c4a) |
+| Wed, 21 May 2025 18:49:08 GMT | How Python Shell Came Handy During A Production Bug ? | alphaBEE | [Read More](https://medium.com/p/aa24abe5b40c) |
 | Wed, 21 May 2025 18:32:33 GMT | How to Secure Your WordPress wp-config.php File the Right Way | Shubradeb | [Read More](https://medium.com/p/cad3d1cb4fb7) |
 | Wed, 21 May 2025 18:32:26 GMT | Threat Intelligence Advisory and Feasibility Report | Robert Schryvers ChT | [Read More](https://medium.com/p/c744dc287830) |
 | Wed, 21 May 2025 18:29:07 GMT | Security Information and Event Management (SIEM) | Igor Berner | [Read More](https://medium.com/p/f5aa849821a9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 13:35:47 GMT | TryHackMe — AgentSudo Walkthrough | CyberQuestor | [Read More](https://medium.com/p/64a2101732c2) |
 | Wed, 21 May 2025 13:30:18 GMT | Countering Cognitive Warfare: The Need for a Defense Ontology Matrix | SIMKRA | [Read More](https://medium.com/p/0c467488a788) |
 | Wed, 21 May 2025 13:27:19 GMT | Cybersecurity 2025: A Central European perspective on safeguarding your business in the digital… | Jan Sedlacik | [Read More](https://medium.com/p/4e9d60e246e2) |
-| Wed, 21 May 2025 13:23:47 GMT | Here’s How I Recover My Money From Cxdai | Abby Sinclair-Maclagan | [Read More](https://medium.com/p/30eafd00d995) |
-| Wed, 21 May 2025 13:23:27 GMT | Top 10 Summer Scams of 2025: Stay Safe with These Tips | Gene King | [Read More](https://medium.com/p/9f4c001ff2db) |
-| Wed, 21 May 2025 13:20:04 GMT | Latest Trends in Cyber Security: AI, Cloud, and IoT Threats | vamsi krishna | [Read More](https://medium.com/p/5e8f1149b94f) |
