@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 19:30:51 GMT | Spring Boot Actuator in Spring Boot 3.x | Jaouadirabeb | [Read More](https://medium.com/p/a49d30e20245) |
+| Wed, 21 May 2025 19:24:58 GMT | The Silent Exposure: 150,000 ICS Devices Vulnerable to the Public Internet | Siva Gunasekaran | [Read More](https://medium.com/p/c5f6a6eea252) |
+| Wed, 21 May 2025 19:21:53 GMT | Cybersecurity Advisory: Hackers Exploit CAPTCHA Trick on Webflow to Deliver Phishing Attacks | Xaltius | [Read More](https://medium.com/p/a1917bd058fd) |
+| Wed, 21 May 2025 19:20:45 GMT | The Day I Bombed (at) the FBI | Andrew Hessel | [Read More](https://medium.com/p/691b6ce38225) |
+| Wed, 21 May 2025 19:19:02 GMT | Top 3 Microsoft Office Exploits Hackers Are Using in 2025 & How to Stop Them | Xaltius | [Read More](https://medium.com/p/ac856e11a5d7) |
+| Wed, 21 May 2025 19:17:09 GMT | Cybersecurity Advisory: Hackers Exploit Zoom’s Remote Control Feature | Xaltius | [Read More](https://medium.com/p/2d16cd926faf) |
+| Wed, 21 May 2025 19:11:26 GMT | Why a VPN on Your iPhone Is No Longer Optional in 2025 | VPN ForceField | [Read More](https://medium.com/p/2c586146fab2) |
+| Wed, 21 May 2025 19:09:03 GMT | Decoding the Layers: An Introduction to the VaultLayer™ Map System | VaultFam™ | [Read More](https://medium.com/p/7a9d1bac70c5) |
 | Wed, 21 May 2025 18:57:52 GMT | ️ How Antivirus Software Works: Detection Techniques, Heuristics, and Quarantine Explained | Murathanklc | [Read More](https://medium.com/p/f13ca68c5bdb) |
 | Wed, 21 May 2025 18:53:16 GMT | 3AM Ransomware Uses Spoofed IT Calls & Email Bombing | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/5fc519db1c4a) |
 | Wed, 21 May 2025 18:49:08 GMT | How Python Shell Came Handy During A Production Bug ? | alphaBEE | [Read More](https://medium.com/p/aa24abe5b40c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 13:58:05 GMT | THM — Investigating with Splunk PT.2 | Shamar Isaac | [Read More](https://medium.com/p/6ce89168a82a) |
 | Wed, 21 May 2025 13:53:27 GMT | Understanding Cloud Computing | Kaan Kartal Kuyucu | [Read More](https://medium.com/p/e8696321788a) |
 | Wed, 21 May 2025 13:49:29 GMT | NOT SO SECRET-EH? | Pages and perspectives | [Read More](https://medium.com/p/32876a077ae2) |
-| Wed, 21 May 2025 13:49:15 GMT | OSINT in Cybersecurity: From Data to Intelligence | Benlehzilyosr | [Read More](https://medium.com/p/d5bab6f18a39) |
-| Wed, 21 May 2025 13:48:21 GMT | Bug Bounty | Navtesh Sharma | [Read More](https://medium.com/p/30cba1c7a2b0) |
-| Wed, 21 May 2025 13:40:05 GMT | The Future of AI-Driven Cybersecurity :  A Case Study on FohnAI | Bola Banjo | [Read More](https://medium.com/p/ab3b631318d0) |
-| Wed, 21 May 2025 13:39:46 GMT | Cxdai Review - This Is How I Recover My Money Back. | Abby Sinclair-Maclagan | [Read More](https://medium.com/p/a5852d1e337f) |
-| Wed, 21 May 2025 13:37:29 GMT | ️ OWASP Top 10 in 2025: The Non-Negotiable Standard for Application Security | Omex Oleksandr | [Read More](https://medium.com/p/402afa3f4b3a) |
-| Wed, 21 May 2025 13:35:47 GMT | TryHackMe — AgentSudo Walkthrough | CyberQuestor | [Read More](https://medium.com/p/64a2101732c2) |
-| Wed, 21 May 2025 13:30:18 GMT | Countering Cognitive Warfare: The Need for a Defense Ontology Matrix | SIMKRA | [Read More](https://medium.com/p/0c467488a788) |
-| Wed, 21 May 2025 13:27:19 GMT | Cybersecurity 2025: A Central European perspective on safeguarding your business in the digital… | Jan Sedlacik | [Read More](https://medium.com/p/4e9d60e246e2) |
