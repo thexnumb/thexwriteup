@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 16:15:57 GMT | Extraviado - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/87430e45078e) |
+| Wed, 21 May 2025 16:12:03 GMT | How To Spot Data Exfiltration Using AWS Cost Anomaly Detection | Teri Radichel | [Read More](https://medium.com/p/e3635f1c3aa2) |
+| Wed, 21 May 2025 16:11:06 GMT | The Needless Pain of Silent Sufferers | Mukundarajan V N | [Read More](https://medium.com/p/a6f2b86a96aa) |
+| Wed, 21 May 2025 16:09:21 GMT | ️ Cybersecurity Roadmap with Certifications (Beginner → Advanced) | Cyber Coder | [Read More](https://medium.com/p/34c3f15fb0ad) |
+| Wed, 21 May 2025 16:08:44 GMT | Best Tips to Protect from Internet Malicious Threats | SafeAeon Inc. | [Read More](https://medium.com/p/660b0ddc8185) |
+| Wed, 21 May 2025 16:06:27 GMT | I Am Addicted to Envy | Charleston Li | [Read More](https://medium.com/p/d73fd4b1dfe2) |
+| Wed, 21 May 2025 16:06:11 GMT | Water & Oil | Lord Telema Westwood | [Read More](https://medium.com/p/7f6a1df21041) |
+| Wed, 21 May 2025 16:01:20 GMT | Automated Penetration Testing: A Smarter Way to Stay One Step Ahead of Hackers | SafeAeon Inc. | [Read More](https://medium.com/p/c87e8c1ac17c) |
+| Wed, 21 May 2025 15:59:03 GMT | Investing in the Future of Work: Why Scalable, Agnostic Digital Transformation Platforms Like… | Hussein Abdelwahab | [Read More](https://medium.com/p/cfb01462b142) |
+| Wed, 21 May 2025 15:55:10 GMT | 100+ Fake Chrome Extensions Found Hacking Their Users | Cybersectoworld | [Read More](https://medium.com/p/1be37b479b10) |
+| Wed, 21 May 2025 15:50:28 GMT | Securing Your Laravel Application: Best Practices to Keep Hackers at Bay | Alhassan Mohammed | [Read More](https://medium.com/p/cfc40bf84138) |
+| Wed, 21 May 2025 15:49:45 GMT | Digital Forensics & The Rules of Evidence | Igor Berner | [Read More](https://medium.com/p/49e1f0ab3362) |
+| Wed, 21 May 2025 15:46:00 GMT | What Is an IT Roadmap? And Why Every SMB Needs One | Surge Solutions | [Read More](https://medium.com/p/1c3a12bb5659) |
+| Wed, 21 May 2025 15:45:50 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/39db0f37d143) |
+| Wed, 21 May 2025 15:42:01 GMT | XSS REFLECTED (MEDIUM) | zukhruf gustdika | [Read More](https://medium.com/p/ac5327733c86) |
 | Wed, 21 May 2025 15:35:28 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/bacca1075936) |
 | Wed, 21 May 2025 15:32:41 GMT | Why Microsoft Purview Might Be the Most Overlooked Security Tool in Your Microsoft 365 Stack | Algonym | [Read More](https://medium.com/p/2c90afc98b80) |
+| Wed, 21 May 2025 15:31:01 GMT | Stealth Shellcode Injection in Linux | LordShen | [Read More](https://medium.com/p/1f5fb797b278) |
 | Wed, 21 May 2025 15:30:18 GMT | TryHackMe: Cryptography Basics | Pavneet_Singh_ | [Read More](https://medium.com/p/f4508fc9e246) |
 | Wed, 21 May 2025 15:24:04 GMT | Guarding Intelligence | Rithik Reddy Varla | [Read More](https://medium.com/p/7af74b05e15b) |
 | Wed, 21 May 2025 15:20:21 GMT | Teknik Optimasi Query dalam Basis Data SQL | fijrisalwa | [Read More](https://medium.com/p/f316dff5896a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 11:01:44 GMT | Protecting Against Brand Impersonation Attacks with Browser Detection and Response | Engineering @ SquareX | [Read More](https://medium.com/p/ba65ab8661a3) |
 | Wed, 21 May 2025 11:01:41 GMT | How Cellcom Turned a Cyberattack Into a Case Study in Resilience | TheReviewHive | [Read More](https://medium.com/p/cf7b83c9ce8d) |
 | Wed, 21 May 2025 11:01:40 GMT | Third-Party Updates: The Overlooked Cybersecurity Shield | Easy2Patch | [Read More](https://medium.com/p/e3092eec8ac7) |
-| Wed, 21 May 2025 11:01:39 GMT | It Will Always Be You….The One That Got Away | Melissa Tersa | [Read More](https://medium.com/p/48601f59c7c8) |
-| Wed, 21 May 2025 11:01:19 GMT | Admissions Open at Avanteia — Apply Before 2nd June! | Avanteia Private Limited | [Read More](https://medium.com/p/8841dd27d7f8) |
-| Wed, 21 May 2025 10:59:53 GMT | Ascension Healthcare Data Breach Exposes 430,000 Patient Records — A Wake-Up Call for the… | Technijian | [Read More](https://medium.com/p/f84a1bb4f48e) |
-| Wed, 21 May 2025 10:56:43 GMT | Tired of Ads, Tracking, and Slow Internet? Embrace the Power of Private DNS | Tharun Thejus | [Read More](https://medium.com/p/678bd9ae8f6c) |
-| Wed, 21 May 2025 10:54:19 GMT | HTB Solution: IPMI | Nabin Saru | [Read More](https://medium.com/p/2f9e09c4a325) |
-| Wed, 21 May 2025 10:51:02 GMT | Addressing Malware Threats: Strategies for Robust Digital Security | Adhvaidh | [Read More](https://medium.com/p/47884f4f987a) |
-| Wed, 21 May 2025 10:48:20 GMT | How the Term ‘404 Error’ Was Born — And What It Really Means | Hafizbilaltariq | [Read More](https://medium.com/p/a7fbcf16d0bc) |
-| Wed, 21 May 2025 10:46:44 GMT | Start Your IT Career with the Best Cybersecurity Course in Lahore | cyberwingITSolution | [Read More](https://medium.com/p/0a8ceac0774f) |
-| Wed, 21 May 2025 10:42:41 GMT | How I Hid a Secret Message Inside an Image (And You Can Too) | Kuldeepkumawat | [Read More](https://medium.com/p/d730f61efce2) |
-| Wed, 21 May 2025 10:35:13 GMT | AWS Default IAM Roles Are a Hidden Threat: How Over-Permissioned Services Enable Cloud Account… | CyDhaal | [Read More](https://medium.com/p/dc57735154ac) |
-| Wed, 21 May 2025 10:28:25 GMT | Understanding Server Side Request Forgery (SSRF) with a Simple Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/a14650bd5317) |
-| Wed, 21 May 2025 10:27:28 GMT | From Prompt Injection ➕ Jailbroken LLMs = GenAI Gone Rogue | NaveeeN Chendra | [Read More](https://medium.com/p/72ec32ecda94) |
-| Wed, 21 May 2025 10:24:16 GMT | Rooted! My PJPT Experience from Start to Finish! | TomRiddle | [Read More](https://medium.com/p/07d35ed9e1a0) |
-| Wed, 21 May 2025 10:24:09 GMT | 12 Bash Scripts to Tighten Cloud Security Fast | Devops Trainer | [Read More](https://medium.com/p/9dced60ea4d8) |
-| Wed, 21 May 2025 10:23:31 GMT | Here’s How I Recover My Money From Nxcai | George Sawers | [Read More](https://medium.com/p/28527f6bd389) |
-| Wed, 21 May 2025 10:22:46 GMT | Why UMBC Could Be the Ultimate Launchpad for Your Computer-Science Journey | Gagandeeppctebcaa | [Read More](https://medium.com/p/15824e7ce45a) |
