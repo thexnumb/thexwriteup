@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 20:32:28 GMT | My eWPT Certification Experience: From Developer to Web App Hacker | Omarksm | [Read More](https://medium.com/p/e9c71689836b) |
+| Wed, 21 May 2025 20:29:25 GMT | What Finally Got Me Writing (Hint: It Wasn’t Confidence) | Andrew Brown | [Read More](https://medium.com/p/27195311cd33) |
+| Wed, 21 May 2025 20:26:52 GMT | What Are Cyber Threats and the Rise of AI Defenders | Shreya Patel | [Read More](https://medium.com/p/d7a6a1500763) |
+| Wed, 21 May 2025 20:25:57 GMT | 100 days of Learning Penetration testing -Day 2 | Samin Basnet | [Read More](https://medium.com/p/69245c7a9bd4) |
+| Wed, 21 May 2025 20:22:31 GMT | If I Were to Write | Oluwatofunmi Idowu | [Read More](https://medium.com/p/3977ab66c905) |
+| Wed, 21 May 2025 20:22:06 GMT | BURNOUT DESTROYED MY DIGESTIVE SYSTEM FOR 2+ YEARS — THIS IS EVERYTHING I ATE TO SURVIVE | Alana Stasz | [Read More](https://medium.com/p/291598c97832) |
 | Wed, 21 May 2025 20:19:57 GMT | Reflected Chaos: How One XSS Vector Spawned Three CVEs | BongHaxor | [Read More](https://medium.com/p/f20e2df3275f) |
 | Wed, 21 May 2025 20:17:36 GMT | Security and Compliance for Long-Term Business Success | Capicua | [Read More](https://medium.com/p/0afa0084c342) |
 | Wed, 21 May 2025 20:15:12 GMT | It’s Not Crime. It’s Strategy. | Brad Tenenholtz | [Read More](https://medium.com/p/849928b4f349) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 14:34:01 GMT | Lost Your Mobile? Do This to Get It ASAP | Riya Sundar | [Read More](https://medium.com/p/d5ceda982b95) |
 | Wed, 21 May 2025 14:32:18 GMT | Merhabalar, bu yazımda sizlere SSTI(Server Side Template Injection) ve CSTI(Client Side Template… | Arif Tansel | [Read More](https://medium.com/p/a98d4944ab25) |
 | Wed, 21 May 2025 14:28:59 GMT | MarsSnake Malware: UnsolicitedBooker’s Multi-Year Cyber Espionage Campaign Against Saudi Arabia | TheReviewHive | [Read More](https://medium.com/p/3293105ddb9d) |
-| Wed, 21 May 2025 14:27:55 GMT | How Clickstream Analytics is Quietly Powering the Future of Smarter, Safer Business Growth | RBM Software | [Read More](https://medium.com/p/82d3bb1a3d5f) |
-| Wed, 21 May 2025 14:19:32 GMT | Home Security System: The Ultimate Guide to Protecting Your Home in 2025 | Doctor | [Read More](https://medium.com/p/69d8602f0e81) |
-| Wed, 21 May 2025 14:18:59 GMT | 403 Forbidden Bypass Techniques — The Ultimate Guide | Shady Farouk | [Read More](https://medium.com/p/0072457facba) |
-| Wed, 21 May 2025 14:14:03 GMT | Long-Term Consequences of Digital Privacy Erosion | Lydiah Muigwa | [Read More](https://medium.com/p/3d9c1ea7d9e0) |
-| Wed, 21 May 2025 14:07:32 GMT | The Reliable Workhorse of Modern DevSecOps Pipelines — Your Hand-on Guide - | Saha Merlin | [Read More](https://medium.com/p/49a93f5fbfe0) |
-| Wed, 21 May 2025 14:06:04 GMT | The Rogue Laptop That Poisoned a City’s Water: A Deep Dive into the Maroochy Water Breach | om sonawane | [Read More](https://medium.com/p/2ca85e208b1e) |
