@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 09:19:17 GMT | The New Cybersecurity Playbook: What Companies Can Learn from Coinbase’s Breach Response | Alok Prabhat | [Read More](https://medium.com/p/6b132c829895) |
+| Wed, 21 May 2025 09:12:57 GMT | Feroxbuster: The Rust-Powered Recon Weapon You’ve Been Missing | Chintala Taraka Ram | [Read More](https://medium.com/p/3abed642c0ae) |
+| Wed, 21 May 2025 09:08:15 GMT | How to Secure More ChainBounty $BOUNTY Rewards in 2025 | BOUNTY | [Read More](https://medium.com/p/c3d4685b747b) |
+| Wed, 21 May 2025 09:03:15 GMT | Blurayinvest Review - Is It legit Or Fake | Georgia Kirke | [Read More](https://medium.com/p/3f6b0844ba00) |
+| Wed, 21 May 2025 09:02:10 GMT | From Pandemic Hero to Cybersecurity Zero: The Troubled Journey of Indonesia’s PeduliLindungi | MITRE Doggy | [Read More](https://medium.com/p/f25db9255227) |
+| Wed, 21 May 2025 09:01:12 GMT | VAPT vs. Ransomware: How Penetration Testing Can Prevent the Next Attack | West Advanced Technologies Inc | [Read More](https://medium.com/p/4f57804583ca) |
+| Wed, 21 May 2025 08:58:29 GMT | SIM-less Tomorrow: How eSIMs, iSIMs & Satellites Are Re-Writing Mobile Identity | Syam Kumar Ravindran | [Read More](https://medium.com/p/794d69ce2fe8) |
+| Wed, 21 May 2025 08:57:06 GMT | How to Build a Robust Cybersecurity Strategy for Your Business | IPSpecialist | [Read More](https://medium.com/p/286e525e6057) |
+| Wed, 21 May 2025 08:56:30 GMT | Outsmarting the Software Sales Pitch: Maintain Your Leverage, Avoid the Trap | Namir Sagheenanajar | [Read More](https://medium.com/p/61d9e896c850) |
+| Wed, 21 May 2025 08:51:10 GMT | Are Phone (And Laptop) Repair Shops Spying on us? Here’s What I Found After Testing It Myself | Subigya Ghimire | [Read More](https://medium.com/p/0d61496b629c) |
+| Wed, 21 May 2025 08:50:49 GMT | Bizlogexchain Review | Lauren Marmion | [Read More](https://medium.com/p/a6b7817eedda) |
+| Wed, 21 May 2025 08:49:55 GMT | Abandoned Domains, Hijacked Trust: How “Hazy Hawk” Is Turning Forgotten Cloud Resources into… | CyDhaal | [Read More](https://medium.com/p/a688c87c119a) |
 | Wed, 21 May 2025 08:48:50 GMT | Metrics that Matter: Security KPIs and ROI for Clients | A-STAR7_DOCTOR | [Read More](https://medium.com/p/7d3b05b9aa38) |
 | Wed, 21 May 2025 08:47:44 GMT | The Invisible Insider: How Your Cloud Provider Became the Threat | Induz Data Solutions | [Read More](https://medium.com/p/f0c8740bdebc) |
 | Wed, 21 May 2025 08:36:10 GMT | Something is changing. And that’s on me. | Cynthia Ibrahim (CybercynthicWriter) | [Read More](https://medium.com/p/72c912d0cd9e) |
@@ -102,15 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 02:42:09 GMT | Microsoft 365 under threat: New phishing technique tricks users and security systems | current.cybersecurity | [Read More](https://medium.com/p/bd27447e0f1b) |
 | Wed, 21 May 2025 02:36:07 GMT | How Hackers Discover Hidden Admin Panels and Secret Files ️‍♂️ | Vipul Sonule | [Read More](https://medium.com/p/c2b12ab0b841) |
 | Wed, 21 May 2025 02:35:58 GMT | Hackers Used Emojis to Cripple a Business. Here’s How to Make Sure You’re Not Next. | Noel | [Read More](https://medium.com/p/c75941341f9b) |
-| Wed, 21 May 2025 02:35:54 GMT | The $99 Office Scanner That Hacked an Entire Business: You Won’t Believe How | Noel | [Read More](https://medium.com/p/0c13ae55e971) |
-| Wed, 21 May 2025 02:27:04 GMT | $3,500 Bounty: Stored XSS in GitLab’s RDoc Wiki via Malicious Image Links | Monika sharma | [Read More](https://medium.com/p/c394d4730d2a) |
-| Wed, 21 May 2025 02:26:19 GMT | Anatomy of a PowerShell Shellcode: Dissecting a Reverse HTTPS Connection | Jonathan M. | [Read More](https://medium.com/p/6caa3909943a) |
-| Wed, 21 May 2025 02:17:55 GMT | AI is Quietly Changing Everything. Are you Keeping Up? | Abhisom | [Read More](https://medium.com/p/9711c0a2f38d) |
-| Wed, 21 May 2025 02:14:44 GMT | Take Me Like You Mean It | Para | [Read More](https://medium.com/p/6bfeec58ab9b) |
-| Wed, 21 May 2025 02:13:09 GMT | Securing the Future: How Zero Trust is Evolving for the Agentic Workforce | Jacky Yau | [Read More](https://medium.com/p/b43a5042d2b6) |
-| Wed, 21 May 2025 02:12:05 GMT | Anatomia de um Shellcode PowerShell: Dissecando uma Conexão Reversa HTTPS | Jonathan M. | [Read More](https://medium.com/p/119859a02baf) |
-| Wed, 21 May 2025 01:46:09 GMT | Java in the Enterprise | Hari | [Read More](https://medium.com/p/2da3078de702) |
-| Wed, 21 May 2025 01:36:11 GMT | Maximize LunaFi for Passive Income Success | LFI | [Read More](https://medium.com/p/801c4f557e55) |
-| Wed, 21 May 2025 01:31:32 GMT | HTB Solution: SMTP | Nabin Saru | [Read More](https://medium.com/p/7972e318dd0f) |
-| Wed, 21 May 2025 01:29:26 GMT | How I Earned my Second Bounty of €2000 by Discovering an Authorization Bypass Vulnerability in a… | Risky | [Read More](https://medium.com/p/8b20570004d8) |
-| Wed, 21 May 2025 01:25:03 GMT | THM — Incident Handing with Splunk | Shamar Isaac | [Read More](https://medium.com/p/cda32a8b17a9) |
