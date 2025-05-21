@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 23:11:42 GMT | Zero Tust: When “Never Trust, Always Verify” Breaks Down | Postmodern Cybersecurity | [Read More](https://medium.com/p/d789d86c4b6b) |
 | Wed, 21 May 2025 23:11:26 GMT | Hijacking ssh client to get passwords of other server | gerald amasi | [Read More](https://medium.com/p/78cbdaffa27d) |
 | Wed, 21 May 2025 22:51:20 GMT | ️ Home SOC Lab — Project-Z v1.0 | 0xZetss | [Read More](https://medium.com/p/9fa4c0f91f11) |
 | Wed, 21 May 2025 22:43:18 GMT | Looking for 24/7 remote CCTV monitoring to protect your home, business, or facility? | Visual Monitoring Solutions | [Read More](https://medium.com/p/ed230445a6ef) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 16:17:15 GMT | The True Cost: Understanding Losses from Malicious Threats | SafeAeon Inc. | [Read More](https://medium.com/p/9b73de8fdb3f) |
 | Wed, 21 May 2025 16:15:57 GMT | Extraviado - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/87430e45078e) |
 | Wed, 21 May 2025 16:12:03 GMT | How To Spot Data Exfiltration Using AWS Cost Anomaly Detection | Teri Radichel | [Read More](https://medium.com/p/e3635f1c3aa2) |
-| Wed, 21 May 2025 16:11:06 GMT | The Needless Pain of Silent Sufferers | Mukundarajan V N | [Read More](https://medium.com/p/a6f2b86a96aa) |
