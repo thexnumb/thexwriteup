@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 12:36:53 GMT | $5,000 - Authorization Bypass via Parameter Parsing Mismatch (Django — Flask) | priyanshu shakya | [Read More](https://medium.com/p/6f0f748db6be) |
+| Wed, 21 May 2025 12:29:11 GMT | Meet Gemini Nano: Google Chrome’s New Defensive AI | O. J. Okpabi | [Read More](https://medium.com/p/0644b95f93a3) |
+| Wed, 21 May 2025 12:27:15 GMT | Drowning in the Inbox: Real Lessons from a Threat Hunter on Email Bombing Attacks | Surya Teja | [Read More](https://medium.com/p/2ab32a3ea6b3) |
+| Wed, 21 May 2025 12:26:01 GMT | What Is Cyber Threat Intelligence? A Beginner-Friendly Guide | Kambetastephano | [Read More](https://medium.com/p/351c73bc7ca1) |
+| Wed, 21 May 2025 12:23:03 GMT | NESA Software Pvt Ltd: A Pioneer Offshore Software Development Company for U.S. Companies | Basilnesasoftware | [Read More](https://medium.com/p/c7bfda0ac625) |
+| Wed, 21 May 2025 12:19:59 GMT | When Marketers and Governments Act Like God | Shimon Rothschild CISSP | [Read More](https://medium.com/p/c025eb89571f) |
+| Wed, 21 May 2025 12:19:32 GMT | Surfshark Antivirus 2025: A Comprehensive Cybersecurity Solution for the Modern User | Top2Antivirus | [Read More](https://medium.com/p/69f1e6f2ff21) |
+| Wed, 21 May 2025 12:13:45 GMT | How I Bypassed My University’s OTP System and Got Admin-Level Access (Ethical Hack) | Kamlesh Bharad | [Read More](https://medium.com/p/b2a75e54069e) |
+| Wed, 21 May 2025 12:11:49 GMT | HTTP Strict Transport Security (HSTS): A Must-Have for Web Security | Gaurav | [Read More](https://medium.com/p/75a2a5a62e38) |
+| Wed, 21 May 2025 12:07:27 GMT | Top Information Technology Colleges in Bangalore | Kirti Arjun | [Read More](https://medium.com/p/388ee6d49451) |
+| Wed, 21 May 2025 12:03:51 GMT | OWASP Top 10 For Flutter — M6: Inadequate Privacy Controls in Flutter & Dart | Talsec | [Read More](https://medium.com/p/b11df113dcef) |
+| Wed, 21 May 2025 11:55:48 GMT | Pen Testing for Compliance Only? It’s Time to Rethink Your Strategy | CyBlog | [Read More](https://medium.com/p/b3b5d829b6b1) |
+| Wed, 21 May 2025 11:53:27 GMT | Zerolend: Technical Analysis of the Risks and Failures Undermining Its DeFi Protocol | DarkSlither | [Read More](https://medium.com/p/6ee439cf0556) |
+| Wed, 21 May 2025 11:52:25 GMT | Cybersecurity Explained: Threats, Defenses, and the Future | Zeeshan Ali | [Read More](https://medium.com/p/f924e23a8b66) |
+| Wed, 21 May 2025 11:50:44 GMT | Penetration Testing Roadmap for Beginners (2025 Edition) | @grvbap | [Read More](https://medium.com/p/8f45bebc1004) |
+| Wed, 21 May 2025 11:42:34 GMT | How to Get Recon Solana (RECON) Rewards: Quick Beginner's Guide | RECON | [Read More](https://medium.com/p/67d55e770761) |
 | Wed, 21 May 2025 11:27:16 GMT | Security Keys: The Unbreakable Defense Against Phishing | Karl Buhl | [Read More](https://medium.com/p/c090d01c85fa) |
 | Wed, 21 May 2025 11:25:10 GMT | Optimizing Websites, Exploring BigCommerce & Git Tools | Ketan Patel | [Read More](https://medium.com/p/0be25832cf59) |
 | Wed, 21 May 2025 11:24:30 GMT | Why You Should Never Reuse Passwords — and What to Do Instead | Ewyatt | [Read More](https://medium.com/p/887e19eaf5c5) |
@@ -96,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 07:29:51 GMT | Step-by-Step Guide: SQLmap API Server Setup and Burp Suite Integration (Windows) | Nareshkumar | [Read More](https://medium.com/p/3c5e6103eec3) |
 | Wed, 21 May 2025 07:29:14 GMT | Unlocking Active Directory: A Step-by-Step Guide Through TryHackMe’s Basic AD Enumeration | jensbecker-dev | [Read More](https://medium.com/p/a7c227350db4) |
 | Wed, 21 May 2025 07:27:50 GMT | Cyber Security Online Course in Kochi — Learn with Techmindz | Surya Suresh | [Read More](https://medium.com/p/c9658df0dff9) |
-| Wed, 21 May 2025 07:22:27 GMT | Why We Hide Our Healing — and What Happens When We Stop Pretending | Mr Cool | [Read More](https://medium.com/p/1550bb950f7a) |
-| Wed, 21 May 2025 07:21:46 GMT | The Internet | Sai Manideep Kumar P | [Read More](https://medium.com/p/f49f5491fa8d) |
-| Wed, 21 May 2025 07:21:31 GMT | Major data breach at Yale New Haven Health exposes 5.5 million patients’ information | hide.me VPN | [Read More](https://medium.com/p/61e872271bbc) |
-| Wed, 21 May 2025 07:16:30 GMT | Reveal Lab | Jesús García Rubias | [Read More](https://medium.com/p/c841f723b101) |
-| Wed, 21 May 2025 07:12:30 GMT | If You Blog, Run a Server, or Own a Router — This Post Is for You | Sam Galope | [Read More](https://medium.com/p/345a786162a6) |
-| Wed, 21 May 2025 07:11:45 GMT | Increase in Supply Chain Attacks :
-Supply chain attacks continue to grow in sophistication. | Defeu James | [Read More](https://medium.com/p/277500994e3a) |
-| Wed, 21 May 2025 07:11:01 GMT | Techmindz — Your Go-To Cyber Security Training Institute Near You | Sandra m | [Read More](https://medium.com/p/de44625ab0ac) |
-| Wed, 21 May 2025 07:09:37 GMT | Vulnerabilities in Tech Giants' Cloud Infrastructure :
-Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https://medium.com/p/b240b868650d) |
-| Wed, 21 May 2025 07:07:50 GMT | Moving to the “Left” is the “Right” Way in SDLC! | Munjal Patel | [Read More](https://medium.com/p/e03c4dac473d) |
-| Wed, 21 May 2025 07:07:32 GMT | Shadows of the Digital Resistance | Tales of Nyx | [Read More](https://medium.com/p/f925a8f35248) |
-| Wed, 21 May 2025 07:02:52 GMT | Enhancing Cybersecurity with Multi-Factor Authentication (MFA) and Web Application Vulnerability… | Ziad Tamer | [Read More](https://medium.com/p/107fefb7fd7a) |
-| Wed, 21 May 2025 06:59:26 GMT | WayBackLister : Innovative Directory Bruteforcing Technique | AbhirupKonwar | [Read More](https://medium.com/p/43535da40bc4) |
-| Wed, 21 May 2025 06:56:53 GMT | How to Install SQLmap, Run sqlmapapi, and Integrate with Burp Suite on Windows | Nareshkumar | [Read More](https://medium.com/p/4298400ba822) |
-| Wed, 21 May 2025 06:51:36 GMT | AirTag Stalking: How Apple’s Tracker Became a Tool for Creeps | Ahmad Javed | [Read More](https://medium.com/p/a6b48a5b8d81) |
-| Wed, 21 May 2025 06:51:10 GMT | How to Stay Secure Online During Your Education Journey | Ayush | [Read More](https://medium.com/p/aa555c17b9a9) |
-| Wed, 21 May 2025 06:50:05 GMT | Demystifying Cookies: The Complete Guide for Bug Bounty Hunters | phoenixcatalan | [Read More](https://medium.com/p/7ac5827b8173) |
