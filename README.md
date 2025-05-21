@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 06:26:06 GMT | How AI-Powered Threat Intelligence Enhances National Security | Phanish Lakkarasu | [Read More](https://medium.com/p/f2e17cc55e4b) |
+| Wed, 21 May 2025 06:24:52 GMT | Passed OSCP+ as a blue teamer, what it took? | Chicken0248 | [Read More](https://medium.com/p/c8520e79f734) |
+| Wed, 21 May 2025 06:22:38 GMT | Blob URL Blocked by Content Security Policy (CSP)? Here’s What Frontend Devs Can Do | Rutuja Pandule | [Read More](https://medium.com/p/788392c41b9b) |
+| Wed, 21 May 2025 06:13:33 GMT | Artificial Intelligence-Powered Facial Recognition is revolutionizing security in the UAE | Tekhabeeb | [Read More](https://medium.com/p/991aae32abcd) |
+| Wed, 21 May 2025 06:09:42 GMT | Automating Patching and Reporting on RHEL & CentOS with Ansible ⚙️ | Darius Powell - Security & Resilience Engineer | [Read More](https://medium.com/p/5fad0902555f) |
+| Wed, 21 May 2025 06:09:11 GMT | New Chrome Vulnerability CVE-2025–4664: A Sneaky Cross-Origin Data Leak ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/cdf6fe52bbd6) |
+| Wed, 21 May 2025 06:06:18 GMT | How a SOC Service Helps You Detect Insider Threats Before They Damage Your Business? | Microscan Communications | [Read More](https://medium.com/p/3f5b736f23b1) |
+| Wed, 21 May 2025 06:02:38 GMT | Quantum Programlama ile Anomali Tespiti: Geleceğin Siber Güvenlik Algoritmaları (Anomaly Detection… | Buğra Enhar Elbir | [Read More](https://medium.com/p/b56209ab5679) |
+| Wed, 21 May 2025 06:00:56 GMT | AI โดนหลอกได้? ด้วย AutoDAN! | Pituphong Yavirach, ISC2 CC | [Read More](https://medium.com/p/5510e8050c9c) |
+| Wed, 21 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d8ef19d23309) |
+| Wed, 21 May 2025 05:55:36 GMT | Former FBI Director James Comey was interviewed by the U.S. Secret Service. | Daily News UP | [Read More](https://medium.com/p/435e7f18c550) |
+| Wed, 21 May 2025 05:53:20 GMT | Bearer token VS Access Token | Turingvang | [Read More](https://medium.com/p/bcdaf8b19f0b) |
+| Wed, 21 May 2025 05:45:48 GMT | From DevOps to DevSecOps: A Guide to Secure Development Workflows | Sachin K S | [Read More](https://medium.com/p/30c9c2371051) |
+| Wed, 21 May 2025 05:44:20 GMT | FUNBOX | farsana77 | [Read More](https://medium.com/p/548022db017a) |
 | Wed, 21 May 2025 05:40:49 GMT | They Missed This One Tiny Parameter — I Made $500 Instantly | Abhijeet Kumawat | [Read More](https://medium.com/p/f2f7d1c1c1d9) |
+| Wed, 21 May 2025 05:39:54 GMT | QFX5240 Switch By Juniper Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c587080f48c6) |
+| Wed, 21 May 2025 05:34:53 GMT | The Role of DHCP in Modern Enterprise Networks | Khubra | [Read More](https://medium.com/p/cf37cdd87e36) |
 | Wed, 21 May 2025 05:31:01 GMT | What are managed security services? | James Damon | [Read More](https://medium.com/p/a7e84c237cc4) |
 | Wed, 21 May 2025 05:30:51 GMT | Building a Risk-Aware Culture: From Compliance to Ownership | Paritosh | [Read More](https://medium.com/p/ace2e09a2c21) |
 | Wed, 21 May 2025 05:28:19 GMT | Global Firewall as a Service Market Size, Share, Industry Insights, Trends, Outlook, Opportunity… | Kazuko | [Read More](https://medium.com/p/473b1fc2b80d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 20:32:30 GMT | Lessons from the Field: Working with Cribl in a Modern Security Stack | Kyle Barbre | [Read More](https://medium.com/p/03cbdd495962) |
 | Tue, 20 May 2025 20:31:29 GMT | Cybersecurity Leadership Coaching | Matthew.Rosenquist | [Read More](https://medium.com/p/b44f5705c759) |
 | Tue, 20 May 2025 20:21:24 GMT | Day 1 of my AWS Pentesting journey — IAM Enumeration with Pacu | mauzware | [Read More](https://medium.com/p/3b106bc92aae) |
-| Tue, 20 May 2025 20:16:32 GMT | “CNA Operational Rules Version 4.1.0” Now in Effect | CVE Program Blog | [Read More](https://medium.com/p/2f929f4e52da) |
-| Tue, 20 May 2025 20:07:16 GMT | BreachLog: A Real-World Cybersecurity Breakdown Series | Ved Trivedi | [Read More](https://medium.com/p/0ddaf2208d5f) |
-| Tue, 20 May 2025 20:06:16 GMT | RedisRaider Unmasked: A New Breed of Cryptojacking Worm Targeting Misconfigured Redis Servers | Siva Gunasekaran | [Read More](https://medium.com/p/39cd09a80f17) |
-| Tue, 20 May 2025 19:58:12 GMT | Securing the AI-Powered Enterprise: Microsoft’s Best Practices for Safe AI Adoption | Tom Croll | [Read More](https://medium.com/p/27dfe3d331fd) |
-| Tue, 20 May 2025 19:47:29 GMT | Why a Growth Mindset Is One of the Most Underrated Skills in Cybersecurity | Brittney Ginther | [Read More](https://medium.com/p/26569a8cb963) |
-| Tue, 20 May 2025 19:46:57 GMT | AWS Cognito: User Authentication Without Losing Your Mind | Jotham Arinze | [Read More](https://medium.com/p/610c36eaccac) |
-| Tue, 20 May 2025 19:42:48 GMT | Cybersecurity in Locksmithing | Locksmith of Brevard | [Read More](https://medium.com/p/f812f9934071) |
-| Tue, 20 May 2025 19:41:38 GMT | Chinese Hackers Deploy MarsSnake Malware to Breach U.S. Infrastructure | Chetan Seripally | [Read More](https://medium.com/p/d5e5732f5946) |
-| Tue, 20 May 2025 19:32:30 GMT | The One Way Trip | Typical Angel | [Read More](https://medium.com/p/0e2b373899d5) |
-| Tue, 20 May 2025 19:26:41 GMT | I Found a Hidden Camera in a Wi-Fi Network Using My Phone | Sam Galope | [Read More](https://medium.com/p/cb00fe958138) |
-| Tue, 20 May 2025 19:14:46 GMT | ️ Scattered Spider Is Back — And This Time, They’re Coming for U.S. Retailers | Sakya Somnath Das | [Read More](https://medium.com/p/47b8e1d4ac1a) |
-| Tue, 20 May 2025 19:12:05 GMT | A brief history and evolution of locks | Locksmith of Brevard | [Read More](https://medium.com/p/d46ffa846ed3) |
-| Tue, 20 May 2025 19:10:51 GMT | Cheyanne Mallas PA: Orchestrating Security in a Digital World | Cheyannemallaspa | [Read More](https://medium.com/p/9a3aeb09f9f3) |
-| Tue, 20 May 2025 19:03:20 GMT | SK Telecom Data Breach 27 Million Customers Affected Over 3-Year | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/8ae08ed54ce4) |
-| Tue, 20 May 2025 19:01:32 GMT | A Security Review of Wireless CarPlay Devices | 0x32-dev | [Read More](https://medium.com/p/7c365daf30ba) |
-| Tue, 20 May 2025 18:58:15 GMT | Tried to book a meal, instead I found a RAT | 0x32-dev | [Read More](https://medium.com/p/acaa8e612fd6) |
