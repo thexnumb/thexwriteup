@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 21:13:46 GMT | CMMI: The Maturity level of software product | Rahul Kumar | [Read More](https://medium.com/p/843f9842ceae) |
+| Wed, 21 May 2025 21:10:16 GMT | Is It Really Possible to Get Hacked Just by Downloading an Image on WhatsApp? | CyberLucifer | [Read More](https://medium.com/p/b57de1bd9702) |
+| Wed, 21 May 2025 21:07:09 GMT | LazyOwn: CRIMEN — A Comprehensive and Advanced Red Team Framework | Lazyown Redteam | [Read More](https://medium.com/p/827b72be75fe) |
+| Wed, 21 May 2025 21:03:13 GMT | #I Used AI to Create a Fake Self-Help Guru (That People Believed) | Zane Cross | [Read More](https://medium.com/p/c6d8be9e57b6) |
+| Wed, 21 May 2025 20:53:15 GMT | SCA-Security: The Hidden Shield in Your Software Stack | Akshay Chauhan | [Read More](https://medium.com/p/634aef906677) |
+| Wed, 21 May 2025 20:50:29 GMT | Spotlight Off-Center | The Decryptionist | [Read More](https://medium.com/p/7ff661c7315f) |
+| Wed, 21 May 2025 20:48:39 GMT | Branch Privilege Injection: Exploiting Branch Predictor Race Conditions | ASAcrew Blog | [Read More](https://medium.com/p/f2c1887b8a3e) |
 | Wed, 21 May 2025 20:32:28 GMT | My eWPT Certification Experience: From Developer to Web App Hacker | Omarksm | [Read More](https://medium.com/p/e9c71689836b) |
 | Wed, 21 May 2025 20:29:25 GMT | What Finally Got Me Writing (Hint: It Wasn’t Confidence) | Andrew Brown | [Read More](https://medium.com/p/27195311cd33) |
 | Wed, 21 May 2025 20:26:52 GMT | What Are Cyber Threats and the Rise of AI Defenders | Shreya Patel | [Read More](https://medium.com/p/d7a6a1500763) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 15:03:52 GMT | ️ 10 Security Scans You Can Automate with Shell Scripts | Devops Trainer | [Read More](https://medium.com/p/48e1dd5c7df4) |
 | Wed, 21 May 2025 15:03:31 GMT | Day 8: Building the Backbone: Policies, Standards, Procedures, Guidelines & Baselines | Brittney Ginther | [Read More](https://medium.com/p/694dc54949c6) |
 | Wed, 21 May 2025 14:49:03 GMT | The Cybersecurity Paradox: Why We’re Falling Behind While Standing Still | Eric Zietlow | [Read More](https://medium.com/p/707838a51c35) |
-| Wed, 21 May 2025 14:47:04 GMT | When I Broke Open | Lamis Ismail | [Read More](https://medium.com/p/8737a0de1db5) |
-| Wed, 21 May 2025 14:45:12 GMT | Reparenting Myself in My 20s Is the Hardest, Best Thing I’ve Done | Adam Craig | [Read More](https://medium.com/p/c02c3de6de26) |
-| Wed, 21 May 2025 14:45:06 GMT | Symphony of the Depths: How Artificial Intelligence Can Monitor the Security of Oceanic Optical… | Kirill - AI Solutions for High-Tech | [Read More](https://medium.com/p/a23bee521d22) |
-| Wed, 21 May 2025 14:43:43 GMT | Nessus Essentials Scan Types: A Newbie’s Guide to Smarter Vulnerability Assessment | Md. Shefayer Ahmed | [Read More](https://medium.com/p/5dae11d28974) |
-| Wed, 21 May 2025 14:34:01 GMT | Lost Your Mobile? Do This to Get It ASAP | Riya Sundar | [Read More](https://medium.com/p/d5ceda982b95) |
-| Wed, 21 May 2025 14:32:18 GMT | Merhabalar, bu yazımda sizlere SSTI(Server Side Template Injection) ve CSTI(Client Side Template… | Arif Tansel | [Read More](https://medium.com/p/a98d4944ab25) |
-| Wed, 21 May 2025 14:28:59 GMT | MarsSnake Malware: UnsolicitedBooker’s Multi-Year Cyber Espionage Campaign Against Saudi Arabia | TheReviewHive | [Read More](https://medium.com/p/3293105ddb9d) |
