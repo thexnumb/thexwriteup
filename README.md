@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 20:19:57 GMT | Reflected Chaos: How One XSS Vector Spawned Three CVEs | BongHaxor | [Read More](https://medium.com/p/f20e2df3275f) |
+| Wed, 21 May 2025 20:17:36 GMT | Security and Compliance for Long-Term Business Success | Capicua | [Read More](https://medium.com/p/0afa0084c342) |
+| Wed, 21 May 2025 20:15:12 GMT | It’s Not Crime. It’s Strategy. | Brad Tenenholtz | [Read More](https://medium.com/p/849928b4f349) |
+| Wed, 21 May 2025 20:04:56 GMT | Silently Install MacOS Chrome Extensions — Part 2 | Gordon Long, aka AsaurusRex | [Read More](https://medium.com/p/c9deab4216cd) |
+| Wed, 21 May 2025 19:47:25 GMT | عنوان: روندهای نوین در امنیت سایبری: حفاظت در عصر دیجیتال امروزه که زندگی‌مان بیش از هر زمان دیگری… | AmirSharifi | [Read More](https://medium.com/p/a74bc7bf61be) |
+| Wed, 21 May 2025 19:43:05 GMT | Your First Cybersecurity Job Won’t Be Perfect — And That’s Totally Fine | Taimur Ijlal | [Read More](https://medium.com/p/64a764443e04) |
 | Wed, 21 May 2025 19:30:51 GMT | Spring Boot Actuator in Spring Boot 3.x | Jaouadirabeb | [Read More](https://medium.com/p/a49d30e20245) |
 | Wed, 21 May 2025 19:24:58 GMT | The Silent Exposure: 150,000 ICS Devices Vulnerable to the Public Internet | Siva Gunasekaran | [Read More](https://medium.com/p/c5f6a6eea252) |
 | Wed, 21 May 2025 19:21:53 GMT | Cybersecurity Advisory: Hackers Exploit CAPTCHA Trick on Webflow to Deliver Phishing Attacks | Xaltius | [Read More](https://medium.com/p/a1917bd058fd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 14:14:03 GMT | Long-Term Consequences of Digital Privacy Erosion | Lydiah Muigwa | [Read More](https://medium.com/p/3d9c1ea7d9e0) |
 | Wed, 21 May 2025 14:07:32 GMT | The Reliable Workhorse of Modern DevSecOps Pipelines — Your Hand-on Guide - | Saha Merlin | [Read More](https://medium.com/p/49a93f5fbfe0) |
 | Wed, 21 May 2025 14:06:04 GMT | The Rogue Laptop That Poisoned a City’s Water: A Deep Dive into the Maroochy Water Breach | om sonawane | [Read More](https://medium.com/p/2ca85e208b1e) |
-| Wed, 21 May 2025 14:02:57 GMT | Cyber Briefing: 2025.05.21 | CyberMaterial | [Read More](https://medium.com/p/14d0f1adc664) |
-| Wed, 21 May 2025 14:01:52 GMT | How I Prepared for the CISSP Exam: Exam Day Strategy | abdeldayemnour | [Read More](https://medium.com/p/eafaf93199c9) |
-| Wed, 21 May 2025 14:00:15 GMT | Here’s how I recover my money from Xiomex | Elizabeth Martins | [Read More](https://medium.com/p/e12638d190f8) |
-| Wed, 21 May 2025 13:58:05 GMT | THM — Investigating with Splunk PT.2 | Shamar Isaac | [Read More](https://medium.com/p/6ce89168a82a) |
-| Wed, 21 May 2025 13:53:27 GMT | Understanding Cloud Computing | Kaan Kartal Kuyucu | [Read More](https://medium.com/p/e8696321788a) |
-| Wed, 21 May 2025 13:49:29 GMT | NOT SO SECRET-EH? | Pages and perspectives | [Read More](https://medium.com/p/32876a077ae2) |
