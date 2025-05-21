@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 11:27:16 GMT | Security Keys: The Unbreakable Defense Against Phishing | Karl Buhl | [Read More](https://medium.com/p/c090d01c85fa) |
+| Wed, 21 May 2025 11:25:10 GMT | Optimizing Websites, Exploring BigCommerce & Git Tools | Ketan Patel | [Read More](https://medium.com/p/0be25832cf59) |
+| Wed, 21 May 2025 11:24:30 GMT | Why You Should Never Reuse Passwords — and What to Do Instead | Ewyatt | [Read More](https://medium.com/p/887e19eaf5c5) |
+| Wed, 21 May 2025 11:21:40 GMT | Get Started with the Best Linux Course for Beginners in Lahore | cyberwingITSolution | [Read More](https://medium.com/p/af9c382b8768) |
+| Wed, 21 May 2025 11:16:28 GMT | Locking Down Security Info Changes: How Conditional Access Keeps Attackers Out | Oludolamu Onimole | [Read More](https://medium.com/p/fa169577186d) |
 | Wed, 21 May 2025 11:14:03 GMT | AI Penetration Testing Course in Delhi | Crawsec | [Read More](https://medium.com/p/3f145bb680a0) |
 | Wed, 21 May 2025 11:07:26 GMT | Name What They Fear. Set Them Free. | Andrew Campbell | [Read More](https://medium.com/p/e98f2fc952a1) |
 | Wed, 21 May 2025 11:02:26 GMT | Zero Trust Architecture: The Future of BFSI Cybersecurity | Techpartner Alliance | [Read More](https://medium.com/p/fa84c5d2c95e) |
@@ -109,8 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 06:51:36 GMT | AirTag Stalking: How Apple’s Tracker Became a Tool for Creeps | Ahmad Javed | [Read More](https://medium.com/p/a6b48a5b8d81) |
 | Wed, 21 May 2025 06:51:10 GMT | How to Stay Secure Online During Your Education Journey | Ayush | [Read More](https://medium.com/p/aa555c17b9a9) |
 | Wed, 21 May 2025 06:50:05 GMT | Demystifying Cookies: The Complete Guide for Bug Bounty Hunters | phoenixcatalan | [Read More](https://medium.com/p/7ac5827b8173) |
-| Wed, 21 May 2025 06:49:35 GMT | $2,500 Bounty: DOM-Based XSS via postMessage on Upserve’s Login Page | Monika sharma | [Read More](https://medium.com/p/dc899778ed31) |
-| Wed, 21 May 2025 06:47:25 GMT | Top 10 Darknet Market Directories in 2025 — Best Platforms to Find Trusted TOR Marketplaces | TorDotWatch | [Read More](https://medium.com/p/3f3e2122a45f) |
-| Wed, 21 May 2025 06:42:18 GMT | Understanding Linux: The Power Behind the Modern Digital World | Nareshitpraveen | [Read More](https://medium.com/p/2b6f9b002a8b) |
-| Wed, 21 May 2025 06:39:15 GMT | Jira for SecOps: three easy ideas to get started | Blog on Security | [Read More](https://medium.com/p/0e2e59ad6b0f) |
-| Wed, 21 May 2025 06:37:14 GMT | Dawn Linux Box from Proving Grounds Play | Cyb0rgBytes | [Read More](https://medium.com/p/d17df141e10f) |
