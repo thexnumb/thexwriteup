@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 10:42:41 GMT | How I Hid a Secret Message Inside an Image (And You Can Too) | Kuldeepkumawat | [Read More](https://medium.com/p/d730f61efce2) |
+| Wed, 21 May 2025 10:35:13 GMT | AWS Default IAM Roles Are a Hidden Threat: How Over-Permissioned Services Enable Cloud Account… | CyDhaal | [Read More](https://medium.com/p/dc57735154ac) |
+| Wed, 21 May 2025 10:28:25 GMT | Understanding Server Side Request Forgery (SSRF) with a Simple Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/a14650bd5317) |
+| Wed, 21 May 2025 10:27:28 GMT | From Prompt Injection ➕ Jailbroken LLMs = GenAI Gone Rogue | NaveeeN Chendra | [Read More](https://medium.com/p/72ec32ecda94) |
+| Wed, 21 May 2025 10:24:16 GMT | Rooted! My PJPT Experience from Start to Finish! | TomRiddle | [Read More](https://medium.com/p/07d35ed9e1a0) |
+| Wed, 21 May 2025 10:24:09 GMT | 12 Bash Scripts to Tighten Cloud Security Fast | Devops Trainer | [Read More](https://medium.com/p/9dced60ea4d8) |
+| Wed, 21 May 2025 10:23:31 GMT | Here’s How I Recover My Money From Nxcai | George Sawers | [Read More](https://medium.com/p/28527f6bd389) |
+| Wed, 21 May 2025 10:22:46 GMT | Why UMBC Could Be the Ultimate Launchpad for Your Computer-Science Journey | Gagandeeppctebcaa | [Read More](https://medium.com/p/15824e7ce45a) |
+| Wed, 21 May 2025 10:21:57 GMT | The 2025 Iberian Blackout: Rethinking Security for Critical Infrastructures | Odyssec | [Read More](https://medium.com/p/2b8fa2927507) |
+| Wed, 21 May 2025 10:19:03 GMT | 9 Free Tools to Scan Your WordPress Site for Vulnerabilities | Kate Bennett | [Read More](https://medium.com/p/2a10ab789ec2) |
 | Wed, 21 May 2025 10:09:50 GMT | Welcome to Complex-ish | Kristin Dahl | [Read More](https://medium.com/p/5984ace7892f) |
 | Wed, 21 May 2025 10:08:44 GMT | Big Tech Is Lying to You About Data Privacy | Tech In Focus | [Read More](https://medium.com/p/cab980579ac4) |
 | Wed, 21 May 2025 10:07:39 GMT | What Happens When You Mix Art and Cybersecurity? | Iverson Anchundia Parrales | [Read More](https://medium.com/p/5d5c26ec5ee7) |
@@ -104,13 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 05:55:36 GMT | Former FBI Director James Comey was interviewed by the U.S. Secret Service. | Daily News UP | [Read More](https://medium.com/p/435e7f18c550) |
 | Wed, 21 May 2025 05:53:20 GMT | Bearer token VS Access Token | Turingvang | [Read More](https://medium.com/p/bcdaf8b19f0b) |
 | Wed, 21 May 2025 05:45:48 GMT | From DevOps to DevSecOps: A Guide to Secure Development Workflows | Sachin K S | [Read More](https://medium.com/p/30c9c2371051) |
-| Wed, 21 May 2025 05:44:20 GMT | FUNBOX | farsana77 | [Read More](https://medium.com/p/548022db017a) |
-| Wed, 21 May 2025 05:40:49 GMT | They Missed This One Tiny Parameter — I Made $500 Instantly | Abhijeet Kumawat | [Read More](https://medium.com/p/f2f7d1c1c1d9) |
-| Wed, 21 May 2025 05:39:54 GMT | QFX5240 Switch By Juniper Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/c587080f48c6) |
-| Wed, 21 May 2025 05:34:53 GMT | The Role of DHCP in Modern Enterprise Networks | Khubra | [Read More](https://medium.com/p/cf37cdd87e36) |
-| Wed, 21 May 2025 05:31:01 GMT | What are managed security services? | James Damon | [Read More](https://medium.com/p/a7e84c237cc4) |
-| Wed, 21 May 2025 05:30:51 GMT | Building a Risk-Aware Culture: From Compliance to Ownership | Paritosh | [Read More](https://medium.com/p/ace2e09a2c21) |
-| Wed, 21 May 2025 05:28:19 GMT | Global Firewall as a Service Market Size, Share, Industry Insights, Trends, Outlook, Opportunity… | Kazuko | [Read More](https://medium.com/p/473b1fc2b80d) |
-| Wed, 21 May 2025 05:27:43 GMT | Access Control Systems and Security in Gated Communities across UAE | Tekhabeeb | [Read More](https://medium.com/p/df5037abf52b) |
-| Wed, 21 May 2025 05:19:55 GMT | Securing Kafka in Enterprise Systems | Muhammad Furqan | [Read More](https://medium.com/p/e4036b3a0f53) |
-| Wed, 21 May 2025 04:58:01 GMT | Smart Security: How AI Helps Businesses Stay Ahead of Cyber Threats | Benjaminanderson | [Read More](https://medium.com/p/13a211157fea) |
