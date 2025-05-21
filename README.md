@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 07:16:30 GMT | Reveal Lab | Jesús García Rubias | [Read More](https://medium.com/p/c841f723b101) |
+| Wed, 21 May 2025 07:12:30 GMT | If You Blog, Run a Server, or Own a Router — This Post Is for You | Sam Galope | [Read More](https://medium.com/p/345a786162a6) |
+| Wed, 21 May 2025 07:11:45 GMT | Increase in Supply Chain Attacks :
+Supply chain attacks continue to grow in sophistication. | Defeu James | [Read More](https://medium.com/p/277500994e3a) |
+| Wed, 21 May 2025 07:11:01 GMT | Techmindz — Your Go-To Cyber Security Training Institute Near You | Sandra m | [Read More](https://medium.com/p/de44625ab0ac) |
+| Wed, 21 May 2025 07:09:37 GMT | Vulnerabilities in Tech Giants' Cloud Infrastructure :
+Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https://medium.com/p/b240b868650d) |
+| Wed, 21 May 2025 07:07:50 GMT | Moving to the “Left” is the “Right” Way in SDLC! | Munjal Patel | [Read More](https://medium.com/p/e03c4dac473d) |
+| Wed, 21 May 2025 07:07:32 GMT | Shadows of the Digital Resistance | Tales of Nyx | [Read More](https://medium.com/p/f925a8f35248) |
+| Wed, 21 May 2025 07:02:52 GMT | Enhancing Cybersecurity with Multi-Factor Authentication (MFA) and Web Application Vulnerability… | Ziad Tamer | [Read More](https://medium.com/p/107fefb7fd7a) |
+| Wed, 21 May 2025 06:59:26 GMT | WayBackLister : Innovative Directory Bruteforcing Technique | AbhirupKonwar | [Read More](https://medium.com/p/43535da40bc4) |
+| Wed, 21 May 2025 06:56:53 GMT | How to Install SQLmap, Run sqlmapapi, and Integrate with Burp Suite on Windows | Nareshkumar | [Read More](https://medium.com/p/4298400ba822) |
+| Wed, 21 May 2025 06:51:36 GMT | AirTag Stalking: How Apple’s Tracker Became a Tool for Creeps | Ahmad Javed | [Read More](https://medium.com/p/a6b48a5b8d81) |
+| Wed, 21 May 2025 06:51:10 GMT | How to Stay Secure Online During Your Education Journey | Ayush | [Read More](https://medium.com/p/aa555c17b9a9) |
+| Wed, 21 May 2025 06:50:05 GMT | Demystifying Cookies: The Complete Guide for Bug Bounty Hunters | phoenixcatalan | [Read More](https://medium.com/p/7ac5827b8173) |
+| Wed, 21 May 2025 06:49:35 GMT | $2,500 Bounty: DOM-Based XSS via postMessage on Upserve’s Login Page | Monika sharma | [Read More](https://medium.com/p/dc899778ed31) |
+| Wed, 21 May 2025 06:47:25 GMT | Top 10 Darknet Market Directories in 2025 — Best Platforms to Find Trusted TOR Marketplaces | TorDotWatch | [Read More](https://medium.com/p/3f3e2122a45f) |
+| Wed, 21 May 2025 06:42:18 GMT | Understanding Linux: The Power Behind the Modern Digital World | Nareshitpraveen | [Read More](https://medium.com/p/2b6f9b002a8b) |
+| Wed, 21 May 2025 06:39:15 GMT | Jira for SecOps: three easy ideas to get started | Blog on Security | [Read More](https://medium.com/p/0e2e59ad6b0f) |
+| Wed, 21 May 2025 06:37:14 GMT | Dawn Linux Box from Proving Grounds Play | Cyb0rgBytes | [Read More](https://medium.com/p/d17df141e10f) |
+| Wed, 21 May 2025 06:34:17 GMT | Centralized Vulnerability Assessment Platform | Priyanka | [Read More](https://medium.com/p/c42837e5c7ac) |
 | Wed, 21 May 2025 06:26:06 GMT | How AI-Powered Threat Intelligence Enhances National Security | Phanish Lakkarasu | [Read More](https://medium.com/p/f2e17cc55e4b) |
 | Wed, 21 May 2025 06:24:52 GMT | Passed OSCP+ as a blue teamer, what it took? | Chicken0248 | [Read More](https://medium.com/p/c8520e79f734) |
 | Wed, 21 May 2025 06:22:38 GMT | Blob URL Blocked by Content Security Policy (CSP)? Here’s What Frontend Devs Can Do | Rutuja Pandule | [Read More](https://medium.com/p/788392c41b9b) |
@@ -93,22 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 22:02:58 GMT | Living Off the Land: How Attackers Weaponize Trusted Binaries with LOLBins | Zero Day Thirty | [Read More](https://medium.com/p/80b7e6643d51) |
 | Tue, 20 May 2025 22:01:13 GMT | This is a formal personal account of repeated privacy violations and emotional manipulation… | A. Lu | [Read More](https://medium.com/p/d62a7b55bed5) |
 | Tue, 20 May 2025 21:56:48 GMT | ZTNA vs VPN: What’s Better for Your Business? | Yann Barba | [Read More](https://medium.com/p/93327a7f7379) |
-| Tue, 20 May 2025 21:49:42 GMT | i want to be taken care of but i don’t know how to ask | maple syrup fox | [Read More](https://medium.com/p/01725e77c0fa) |
-| Tue, 20 May 2025 21:48:28 GMT | How to Bypass MDM Management on MacBook Pro (macOS Ventura) | Mukhul Manicka Sivakumar | [Read More](https://medium.com/p/f708dacdeca9) |
-| Tue, 20 May 2025 21:41:38 GMT | Advanced XSS Exploitation: Bypassing Modern Filters and WAFs | Asif Ebrahim | [Read More](https://medium.com/p/3da167aba515) |
-| Tue, 20 May 2025 21:35:50 GMT | Brainfuck — Hack The Box Walkthrough | Amanuel | [Read More](https://medium.com/p/ac9cfd1b2cce) |
-| Tue, 20 May 2025 21:30:26 GMT | My First CVE: Privilege Escalation & Possible Account Takeover in Froxlor (CVE-2025–29773) | Salaheddine KALADA | [Read More](https://medium.com/p/c111469d74b0) |
-| Tue, 20 May 2025 21:25:19 GMT | SOC Analysis of Event 314: SOC336 — Windows OLE Zero-Click RCE Exploitation Detected… | Ray Maiden | [Read More](https://medium.com/p/36954ec69c83) |
-| Tue, 20 May 2025 21:20:51 GMT | HANYA DI HEROSLOT77: Cukup Lihat Polanya, Scatter Hitam Mahjong Ways Bisa Muncul Otomatis | ozasativa | [Read More](https://medium.com/p/52f33c91f7a5) |
-| Tue, 20 May 2025 21:13:14 GMT | My First AI Hackathon: Lessons from Finposium 2025 | Syed Ali Turab | [Read More](https://medium.com/p/ea844559dcff) |
-| Tue, 20 May 2025 21:11:23 GMT | How Social Media Can Be A Learning Tool | Savvy Cyber Kids | [Read More](https://medium.com/p/633eaef6093b) |
-| Tue, 20 May 2025 21:09:52 GMT | Why Should You NOT Share Your Password With Others? | Savvy Cyber Kids | [Read More](https://medium.com/p/41c4f4004b0a) |
-| Tue, 20 May 2025 21:05:05 GMT | Your Car’s Software is Outdated — Why That’s Riskier Than a Flat Tire | Ahmad Javed | [Read More](https://medium.com/p/b69373fbb528) |
-| Tue, 20 May 2025 21:02:29 GMT | Hiring for Healthcare Cybersecurity Roles? Target These Skills | J. Appleton | [Read More](https://medium.com/p/4df60f6adf75) |
-| Tue, 20 May 2025 20:59:58 GMT | Smoke and Mirrors | Victor Thasen | [Read More](https://medium.com/p/e120f67f711b) |
-| Tue, 20 May 2025 20:57:50 GMT | Beginners Guide To Cybersecurity For Small Businesses (Free tools inside!) | Bree | [Read More](https://medium.com/p/8156a37e7911) |
-| Tue, 20 May 2025 20:56:51 GMT | Social Media Addiction: Can We Overcome It? | Savvy Cyber Kids | [Read More](https://medium.com/p/f12725667450) |
-| Tue, 20 May 2025 20:50:23 GMT | Becoming a Digital Designer: Lessons From Starting With Nothing | Iverson Anchundia Parrales | [Read More](https://medium.com/p/2ad765aa14c3) |
-| Tue, 20 May 2025 20:32:30 GMT | Lessons from the Field: Working with Cribl in a Modern Security Stack | Kyle Barbre | [Read More](https://medium.com/p/03cbdd495962) |
-| Tue, 20 May 2025 20:31:29 GMT | Cybersecurity Leadership Coaching | Matthew.Rosenquist | [Read More](https://medium.com/p/b44f5705c759) |
-| Tue, 20 May 2025 20:21:24 GMT | Day 1 of my AWS Pentesting journey — IAM Enumeration with Pacu | mauzware | [Read More](https://medium.com/p/3b106bc92aae) |
