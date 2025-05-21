@@ -12,11 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 13:27:19 GMT | Cybersecurity 2025: A Central European perspective on safeguarding your business in the digital… | Jan Sedlacik | [Read More](https://medium.com/p/4e9d60e246e2) |
+| Wed, 21 May 2025 13:23:47 GMT | Here’s How I Recover My Money From Cxdai | Abby Sinclair-Maclagan | [Read More](https://medium.com/p/30eafd00d995) |
+| Wed, 21 May 2025 13:23:27 GMT | Top 10 Summer Scams of 2025: Stay Safe with These Tips | Gene King | [Read More](https://medium.com/p/9f4c001ff2db) |
+| Wed, 21 May 2025 13:20:04 GMT | Latest Trends in Cyber Security: AI, Cloud, and IoT Threats | vamsi krishna | [Read More](https://medium.com/p/5e8f1149b94f) |
+| Wed, 21 May 2025 13:19:29 GMT | “Genius” Developer Discovers Revolutionary Way to Ensure Job Security | Simple Stack | [Read More](https://medium.com/p/28901fb97140) |
+| Wed, 21 May 2025 13:17:28 GMT | ‘So What?’ reporting | Charles Seaton | [Read More](https://medium.com/p/b1f0fad5a4d6) |
+| Wed, 21 May 2025 13:17:04 GMT | How to scale IT support for a growing business | Zenzero | [Read More](https://medium.com/p/71ccecf5a932) |
+| Wed, 21 May 2025 13:15:46 GMT | The Rise Of AI-Powered Scams: A New Threat In The Digital Age | Smart Jeffery | [Read More](https://medium.com/p/a3392e23b357) |
+| Wed, 21 May 2025 13:12:40 GMT | Secure Process Automation at Scale with Camunda and HashiCorp Vault | Stefan Schultz | [Read More](https://medium.com/p/d70a3a149869) |
+| Wed, 21 May 2025 13:11:58 GMT | Slice Your Apple | Kshirsagar Hrushikesh | [Read More](https://medium.com/p/7f4f2102d850) |
+| Wed, 21 May 2025 13:11:54 GMT | Securing Mobile Apps with Approov: A Complete Integration Guide | Nouman Sakhawat | [Read More](https://medium.com/p/f14cedb781d2) |
+| Wed, 21 May 2025 13:04:40 GMT | Nxcai Review | George Sawers | [Read More](https://medium.com/p/b978d01e756e) |
+| Wed, 21 May 2025 13:01:44 GMT | SOC Analysts Are Burning Out — Let Peris.ai AI Playbooks Take Over | Peris.ai Cybersecurity | [Read More](https://medium.com/p/07a800d251e5) |
+| Wed, 21 May 2025 12:52:49 GMT | Security considerations in GraphQL Federation | Akshat Virmani | [Read More](https://medium.com/p/7a9d3cfa4a85) |
+| Wed, 21 May 2025 12:50:43 GMT | From Homemaker to Penetration Tester: How Digived Helped Me Reclaim My Career | Anjali Mehta | [Read More](https://medium.com/p/50b665914202) |
+| Wed, 21 May 2025 12:37:43 GMT | Top 10 Web Directory Submission Sites to Boost SEO and Increase Website Traffic in 2025 | Top SaaS Directories | [Read More](https://medium.com/p/a55cc8728da5) |
 | Wed, 21 May 2025 12:36:53 GMT | $5,000 - Authorization Bypass via Parameter Parsing Mismatch (Django — Flask) | priyanshu shakya | [Read More](https://medium.com/p/6f0f748db6be) |
 | Wed, 21 May 2025 12:29:11 GMT | Meet Gemini Nano: Google Chrome’s New Defensive AI | O. J. Okpabi | [Read More](https://medium.com/p/0644b95f93a3) |
 | Wed, 21 May 2025 12:27:15 GMT | Drowning in the Inbox: Real Lessons from a Threat Hunter on Email Bombing Attacks | Surya Teja | [Read More](https://medium.com/p/2ab32a3ea6b3) |
 | Wed, 21 May 2025 12:26:01 GMT | What Is Cyber Threat Intelligence? A Beginner-Friendly Guide | Kambetastephano | [Read More](https://medium.com/p/351c73bc7ca1) |
 | Wed, 21 May 2025 12:23:03 GMT | NESA Software Pvt Ltd: A Pioneer Offshore Software Development Company for U.S. Companies | Basilnesasoftware | [Read More](https://medium.com/p/c7bfda0ac625) |
+| Wed, 21 May 2025 12:21:39 GMT | Zerolend: Problems and Risks of a DeFi Protocol on Alert. | DarkSlither | [Read More](https://medium.com/p/8a4dc7fd2757) |
 | Wed, 21 May 2025 12:19:59 GMT | When Marketers and Governments Act Like God | Shimon Rothschild CISSP | [Read More](https://medium.com/p/c025eb89571f) |
 | Wed, 21 May 2025 12:19:32 GMT | Surfshark Antivirus 2025: A Comprehensive Cybersecurity Solution for the Modern User | Top2Antivirus | [Read More](https://medium.com/p/69f1e6f2ff21) |
 | Wed, 21 May 2025 12:13:45 GMT | How I Bypassed My University’s OTP System and Got Admin-Level Access (Ethical Hack) | Kamlesh Bharad | [Read More](https://medium.com/p/b2a75e54069e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 08:19:05 GMT | The Misconfigured Magnet: How Public Buckets Exposed Millions of User Files | Iski | [Read More](https://medium.com/p/62d3ca759aa0) |
 | Wed, 21 May 2025 08:18:53 GMT | The SOC Team: Who Does What and How They Work Together | SecureSlate | [Read More](https://medium.com/p/dc08ac9d8da9) |
 | Wed, 21 May 2025 08:17:57 GMT | Automating GitHub configuration using Terraform | Infralovers GmbH | [Read More](https://medium.com/p/7896cb9f2999) |
-| Wed, 21 May 2025 08:17:11 GMT | Enhancing GitHub Security: Leveraging Mondoo for Vulnerability Detection in GitHub | Infralovers GmbH | [Read More](https://medium.com/p/054d868bd547) |
-| Wed, 21 May 2025 08:13:12 GMT | Fact-Checking Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/f84f39090cfc) |
-| Wed, 21 May 2025 08:01:06 GMT | After Night Watch: The Untold Reality of After Hours Security Services | Lionza Security | [Read More](https://medium.com/p/1a7b82cf688d) |
-| Wed, 21 May 2025 08:00:30 GMT | DevSecOps Essentials 2025: From IDE to Cloud in One Security Loop | Aleksei Aleinikov | [Read More](https://medium.com/p/14d9708c7c3e) |
-| Wed, 21 May 2025 07:56:24 GMT | ประจำวันพุธที่ 21 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/8058c976689e) |
-| Wed, 21 May 2025 07:55:35 GMT | HEAT Attacks: The stealthy threat bypassing traditional cyber defenses | Pavlović Goran | [Read More](https://medium.com/p/d33f916a8d13) |
-| Wed, 21 May 2025 07:53:59 GMT | DC 1 Machine Walkthrough | Eleanor | [Read More](https://medium.com/p/6a81364a8910) |
-| Wed, 21 May 2025 07:52:54 GMT | Quantum Computers Threat to Ethereum | Przemek Chojecki | [Read More](https://medium.com/p/3598580b69f5) |
-| Wed, 21 May 2025 07:49:16 GMT | Top 5 Cloud Security Testing Companies in USA | OptiSol Business Solutions | [Read More](https://medium.com/p/a3ff52c13b12) |
-| Wed, 21 May 2025 07:45:29 GMT | The CyberDiplomat’s weekly Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/380de8ad5a14) |
-| Wed, 21 May 2025 07:42:30 GMT | How I Found and Reproduced a Race Condition in AWS API Key Creation | ganji | [Read More](https://medium.com/p/95dbc5f37c90) |
-| Wed, 21 May 2025 07:38:49 GMT | The Daily Tech Digest: 21 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/41e0ee6a270a) |
-| Wed, 21 May 2025 07:38:14 GMT | Exploiting MCP: Emerging Security Threats in Large Language Models (LLMs) | AIM Intelligence | [Read More](https://medium.com/p/ba9da5a1b3b1) |
-| Wed, 21 May 2025 07:37:08 GMT | How I Almost Lost a Kidney to the Prince of Nigeria | Anannya Paliwal | [Read More](https://medium.com/p/1e571c4e01df) |
-| Wed, 21 May 2025 07:29:51 GMT | Step-by-Step Guide: SQLmap API Server Setup and Burp Suite Integration (Windows) | Nareshkumar | [Read More](https://medium.com/p/3c5e6103eec3) |
-| Wed, 21 May 2025 07:29:14 GMT | Unlocking Active Directory: A Step-by-Step Guide Through TryHackMe’s Basic AD Enumeration | jensbecker-dev | [Read More](https://medium.com/p/a7c227350db4) |
-| Wed, 21 May 2025 07:27:50 GMT | Cyber Security Online Course in Kochi — Learn with Techmindz | Surya Suresh | [Read More](https://medium.com/p/c9658df0dff9) |
