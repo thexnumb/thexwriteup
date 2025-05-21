@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 23:11:26 GMT | Hijacking ssh client to get passwords of other server | gerald amasi | [Read More](https://medium.com/p/78cbdaffa27d) |
+| Wed, 21 May 2025 22:51:20 GMT | ️ Home SOC Lab — Project-Z v1.0 | 0xZetss | [Read More](https://medium.com/p/9fa4c0f91f11) |
+| Wed, 21 May 2025 22:43:18 GMT | Looking for 24/7 remote CCTV monitoring to protect your home, business, or facility? | Visual Monitoring Solutions | [Read More](https://medium.com/p/ed230445a6ef) |
 | Wed, 21 May 2025 22:40:36 GMT | Ripple’s xrpl.js npm Package Was Backdoored: Here’s How Private Keys Were Stolen | Cyber-AppSec | [Read More](https://medium.com/p/83208afca1f8) |
+| Wed, 21 May 2025 22:39:07 GMT | Free VPNs : When “Free” comes at a hidden cost | Larbi OUIYZME | [Read More](https://medium.com/p/8509100ff35f) |
+| Wed, 21 May 2025 22:37:05 GMT | Curbing Nigeria’s Kidnapping Epidemic: Tracing the Roots and Charting a Way Forward | Oluwatimileyin Adepitan | [Read More](https://medium.com/p/71668f5a2d50) |
 | Wed, 21 May 2025 22:36:44 GMT | Cyber Chat: Page Glave | Ryan G. Cox | [Read More](https://medium.com/p/b3891c209dc0) |
 | Wed, 21 May 2025 22:36:20 GMT | Cybersecurity Graduate Speaker Reiterates the Need for Cyber Leaders | Berkeley I School | [Read More](https://medium.com/p/566c964ff7e7) |
 | Wed, 21 May 2025 22:31:32 GMT | What I Check First When a Linux Server Starts Acting Suspicious | Faruk Ahmed | [Read More](https://medium.com/p/5bce6b46f0c9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 16:15:57 GMT | Extraviado - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/87430e45078e) |
 | Wed, 21 May 2025 16:12:03 GMT | How To Spot Data Exfiltration Using AWS Cost Anomaly Detection | Teri Radichel | [Read More](https://medium.com/p/e3635f1c3aa2) |
 | Wed, 21 May 2025 16:11:06 GMT | The Needless Pain of Silent Sufferers | Mukundarajan V N | [Read More](https://medium.com/p/a6f2b86a96aa) |
-| Wed, 21 May 2025 16:09:21 GMT | ️ Cybersecurity Roadmap with Certifications (Beginner → Advanced) | Cyber Coder | [Read More](https://medium.com/p/34c3f15fb0ad) |
-| Wed, 21 May 2025 16:08:44 GMT | Best Tips to Protect from Internet Malicious Threats | SafeAeon Inc. | [Read More](https://medium.com/p/660b0ddc8185) |
-| Wed, 21 May 2025 16:06:27 GMT | I Am Addicted to Envy | Charleston Li | [Read More](https://medium.com/p/d73fd4b1dfe2) |
-| Wed, 21 May 2025 16:06:11 GMT | Water & Oil | Lord Telema Westwood | [Read More](https://medium.com/p/7f6a1df21041) |
-| Wed, 21 May 2025 16:01:20 GMT | Automated Penetration Testing: A Smarter Way to Stay One Step Ahead of Hackers | SafeAeon Inc. | [Read More](https://medium.com/p/c87e8c1ac17c) |
