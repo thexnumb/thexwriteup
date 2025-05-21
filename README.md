@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 11:14:03 GMT | AI Penetration Testing Course in Delhi | Crawsec | [Read More](https://medium.com/p/3f145bb680a0) |
+| Wed, 21 May 2025 11:07:26 GMT | Name What They Fear. Set Them Free. | Andrew Campbell | [Read More](https://medium.com/p/e98f2fc952a1) |
+| Wed, 21 May 2025 11:02:26 GMT | Zero Trust Architecture: The Future of BFSI Cybersecurity | Techpartner Alliance | [Read More](https://medium.com/p/fa84c5d2c95e) |
+| Wed, 21 May 2025 11:01:44 GMT | Protecting Against Brand Impersonation Attacks with Browser Detection and Response | Engineering @ SquareX | [Read More](https://medium.com/p/ba65ab8661a3) |
+| Wed, 21 May 2025 11:01:41 GMT | How Cellcom Turned a Cyberattack Into a Case Study in Resilience | TheReviewHive | [Read More](https://medium.com/p/cf7b83c9ce8d) |
+| Wed, 21 May 2025 11:01:40 GMT | Third-Party Updates: The Overlooked Cybersecurity Shield | Easy2Patch | [Read More](https://medium.com/p/e3092eec8ac7) |
+| Wed, 21 May 2025 11:01:39 GMT | It Will Always Be You….The One That Got Away | Melissa Tersa | [Read More](https://medium.com/p/48601f59c7c8) |
+| Wed, 21 May 2025 11:01:19 GMT | Admissions Open at Avanteia — Apply Before 2nd June! | Avanteia Private Limited | [Read More](https://medium.com/p/8841dd27d7f8) |
+| Wed, 21 May 2025 10:59:53 GMT | Ascension Healthcare Data Breach Exposes 430,000 Patient Records — A Wake-Up Call for the… | Technijian | [Read More](https://medium.com/p/f84a1bb4f48e) |
+| Wed, 21 May 2025 10:56:43 GMT | Tired of Ads, Tracking, and Slow Internet? Embrace the Power of Private DNS | Tharun Thejus | [Read More](https://medium.com/p/678bd9ae8f6c) |
+| Wed, 21 May 2025 10:54:19 GMT | HTB Solution: IPMI | Nabin Saru | [Read More](https://medium.com/p/2f9e09c4a325) |
+| Wed, 21 May 2025 10:51:02 GMT | Addressing Malware Threats: Strategies for Robust Digital Security | Adhvaidh | [Read More](https://medium.com/p/47884f4f987a) |
+| Wed, 21 May 2025 10:48:20 GMT | How the Term ‘404 Error’ Was Born — And What It Really Means | Hafizbilaltariq | [Read More](https://medium.com/p/a7fbcf16d0bc) |
+| Wed, 21 May 2025 10:46:44 GMT | Start Your IT Career with the Best Cybersecurity Course in Lahore | cyberwingITSolution | [Read More](https://medium.com/p/0a8ceac0774f) |
 | Wed, 21 May 2025 10:42:41 GMT | How I Hid a Secret Message Inside an Image (And You Can Too) | Kuldeepkumawat | [Read More](https://medium.com/p/d730f61efce2) |
 | Wed, 21 May 2025 10:35:13 GMT | AWS Default IAM Roles Are a Hidden Threat: How Over-Permissioned Services Enable Cloud Account… | CyDhaal | [Read More](https://medium.com/p/dc57735154ac) |
 | Wed, 21 May 2025 10:28:25 GMT | Understanding Server Side Request Forgery (SSRF) with a Simple Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/a14650bd5317) |
@@ -100,17 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 06:42:18 GMT | Understanding Linux: The Power Behind the Modern Digital World | Nareshitpraveen | [Read More](https://medium.com/p/2b6f9b002a8b) |
 | Wed, 21 May 2025 06:39:15 GMT | Jira for SecOps: three easy ideas to get started | Blog on Security | [Read More](https://medium.com/p/0e2e59ad6b0f) |
 | Wed, 21 May 2025 06:37:14 GMT | Dawn Linux Box from Proving Grounds Play | Cyb0rgBytes | [Read More](https://medium.com/p/d17df141e10f) |
-| Wed, 21 May 2025 06:34:17 GMT | Centralized Vulnerability Assessment Platform | Priyanka | [Read More](https://medium.com/p/c42837e5c7ac) |
-| Wed, 21 May 2025 06:26:06 GMT | How AI-Powered Threat Intelligence Enhances National Security | Phanish Lakkarasu | [Read More](https://medium.com/p/f2e17cc55e4b) |
-| Wed, 21 May 2025 06:24:52 GMT | Passed OSCP+ as a blue teamer, what it took? | Chicken0248 | [Read More](https://medium.com/p/c8520e79f734) |
-| Wed, 21 May 2025 06:22:38 GMT | Blob URL Blocked by Content Security Policy (CSP)? Here’s What Frontend Devs Can Do | Rutuja Pandule | [Read More](https://medium.com/p/788392c41b9b) |
-| Wed, 21 May 2025 06:13:33 GMT | Artificial Intelligence-Powered Facial Recognition is revolutionizing security in the UAE | Tekhabeeb | [Read More](https://medium.com/p/991aae32abcd) |
-| Wed, 21 May 2025 06:09:42 GMT | Automating Patching and Reporting on RHEL & CentOS with Ansible ⚙️ | Darius Powell - Security & Resilience Engineer | [Read More](https://medium.com/p/5fad0902555f) |
-| Wed, 21 May 2025 06:09:11 GMT | New Chrome Vulnerability CVE-2025–4664: A Sneaky Cross-Origin Data Leak ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/cdf6fe52bbd6) |
-| Wed, 21 May 2025 06:06:18 GMT | How a SOC Service Helps You Detect Insider Threats Before They Damage Your Business? | Microscan Communications | [Read More](https://medium.com/p/3f5b736f23b1) |
-| Wed, 21 May 2025 06:02:38 GMT | Quantum Programlama ile Anomali Tespiti: Geleceğin Siber Güvenlik Algoritmaları (Anomaly Detection… | Buğra Enhar Elbir | [Read More](https://medium.com/p/b56209ab5679) |
-| Wed, 21 May 2025 06:00:56 GMT | AI โดนหลอกได้? ด้วย AutoDAN! | Pituphong Yavirach, ISC2 CC | [Read More](https://medium.com/p/5510e8050c9c) |
-| Wed, 21 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d8ef19d23309) |
-| Wed, 21 May 2025 05:55:36 GMT | Former FBI Director James Comey was interviewed by the U.S. Secret Service. | Daily News UP | [Read More](https://medium.com/p/435e7f18c550) |
-| Wed, 21 May 2025 05:53:20 GMT | Bearer token VS Access Token | Turingvang | [Read More](https://medium.com/p/bcdaf8b19f0b) |
-| Wed, 21 May 2025 05:45:48 GMT | From DevOps to DevSecOps: A Guide to Secure Development Workflows | Sachin K S | [Read More](https://medium.com/p/30c9c2371051) |
