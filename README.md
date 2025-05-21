@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 07:37:08 GMT | How I Almost Lost a Kidney to the Prince of Nigeria | Anannya Paliwal | [Read More](https://medium.com/p/1e571c4e01df) |
+| Wed, 21 May 2025 07:29:51 GMT | Step-by-Step Guide: SQLmap API Server Setup and Burp Suite Integration (Windows) | Nareshkumar | [Read More](https://medium.com/p/3c5e6103eec3) |
+| Wed, 21 May 2025 07:29:14 GMT | Unlocking Active Directory: A Step-by-Step Guide Through TryHackMe’s Basic AD Enumeration | jensbecker-dev | [Read More](https://medium.com/p/a7c227350db4) |
+| Wed, 21 May 2025 07:27:50 GMT | Cyber Security Online Course in Kochi — Learn with Techmindz | Surya Suresh | [Read More](https://medium.com/p/c9658df0dff9) |
+| Wed, 21 May 2025 07:22:27 GMT | Why We Hide Our Healing — and What Happens When We Stop Pretending | Mr Cool | [Read More](https://medium.com/p/1550bb950f7a) |
+| Wed, 21 May 2025 07:21:46 GMT | The Internet | Sai Manideep Kumar P | [Read More](https://medium.com/p/f49f5491fa8d) |
+| Wed, 21 May 2025 07:21:31 GMT | Major data breach at Yale New Haven Health exposes 5.5 million patients’ information | hide.me VPN | [Read More](https://medium.com/p/61e872271bbc) |
 | Wed, 21 May 2025 07:16:30 GMT | Reveal Lab | Jesús García Rubias | [Read More](https://medium.com/p/c841f723b101) |
 | Wed, 21 May 2025 07:12:30 GMT | If You Blog, Run a Server, or Own a Router — This Post Is for You | Sam Galope | [Read More](https://medium.com/p/345a786162a6) |
 | Wed, 21 May 2025 07:11:45 GMT | Increase in Supply Chain Attacks :
@@ -107,10 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Tue, 20 May 2025 23:01:21 GMT | 24/7 Eyes, Zero Compromise. | Visual Monitoring Solutions | [Read More](https://medium.com/p/255530ee3986) |
 | Tue, 20 May 2025 22:48:56 GMT | VeraCrypt Encryption Guide: Secure Your USB with Hidden Volumes | Eduard Jacobs | [Read More](https://medium.com/p/71a7ba96f954) |
 | Tue, 20 May 2025 22:47:46 GMT | The Importance of Securing Your DNS Against Cyber Threats | Akshay Chauhan | [Read More](https://medium.com/p/e97e04957696) |
-| Tue, 20 May 2025 22:43:26 GMT | I Got Phished by an Apple Scam — Here’s What Happened and What I Learned | Mercy Baliach | [Read More](https://medium.com/p/583f497a0279) |
-| Tue, 20 May 2025 22:28:45 GMT | HackTheBox Legacy Walkthrough: Exploiting a Windows XP Vulnerability | Amanuel | [Read More](https://medium.com/p/6f93ba701ea5) |
-| Tue, 20 May 2025 22:17:33 GMT | What Happens When You Type a URL into a Web Browser? | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e984944fe2d4) |
-| Tue, 20 May 2025 22:04:27 GMT | Part 2 — Designing & Driving an Impactful Awareness Program (Proofpoint Strategy) | Khalil Z. | [Read More](https://medium.com/p/92b790d43954) |
-| Tue, 20 May 2025 22:02:58 GMT | Living Off the Land: How Attackers Weaponize Trusted Binaries with LOLBins | Zero Day Thirty | [Read More](https://medium.com/p/80b7e6643d51) |
-| Tue, 20 May 2025 22:01:13 GMT | This is a formal personal account of repeated privacy violations and emotional manipulation… | A. Lu | [Read More](https://medium.com/p/d62a7b55bed5) |
-| Tue, 20 May 2025 21:56:48 GMT | ZTNA vs VPN: What’s Better for Your Business? | Yann Barba | [Read More](https://medium.com/p/93327a7f7379) |
