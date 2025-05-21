@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 22:07:58 GMT | The new priority of “security patch”: Inside the new metric created by CISA and NIST — ‘Likely… | ISHII (石井) | [Read More](https://medium.com/p/0544bdc9cf4a) |
+| Wed, 21 May 2025 21:52:31 GMT | 5 Signs You’re Already Under Attack and Don’t Know It Yet | Bits Kingdom | [Read More](https://medium.com/p/7ff691f779bb) |
+| Wed, 21 May 2025 21:48:32 GMT | noise drum | Nidhi Shah | [Read More](https://medium.com/p/65db77eb48d4) |
+| Wed, 21 May 2025 21:46:50 GMT | AD: Basic Enumeration TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/8344b77524b4) |
+| Wed, 21 May 2025 21:46:48 GMT | Serviceaide Data Breach is Part of a Larger Healthcare Trend | Matthew.Rosenquist | [Read More](https://medium.com/p/30ccef8dc762) |
 | Wed, 21 May 2025 21:33:21 GMT | Building the Quantum Supercomputers of Tomorrow — Scientists Connect Quantum Processors via Fiber… | QuantumGenie | [Read More](https://medium.com/p/8e2272d92e06) |
 | Wed, 21 May 2025 21:19:21 GMT | Fully visible traceroute with stalkroute | suicidal_teddy | [Read More](https://medium.com/p/5a75e3cfe8f5) |
 | Wed, 21 May 2025 21:16:21 GMT | Is your child gaming with strangers? Are they safe? | Savvy Cyber Kids | [Read More](https://medium.com/p/80a5fea47015) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 15:42:01 GMT | XSS REFLECTED (MEDIUM) | zukhruf gustdika | [Read More](https://medium.com/p/ac5327733c86) |
 | Wed, 21 May 2025 15:35:28 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/bacca1075936) |
 | Wed, 21 May 2025 15:32:41 GMT | Why Microsoft Purview Might Be the Most Overlooked Security Tool in Your Microsoft 365 Stack | Algonym | [Read More](https://medium.com/p/2c90afc98b80) |
-| Wed, 21 May 2025 15:31:01 GMT | Stealth Shellcode Injection in Linux | LordShen | [Read More](https://medium.com/p/1f5fb797b278) |
-| Wed, 21 May 2025 15:30:18 GMT | TryHackMe: Cryptography Basics | Pavneet_Singh_ | [Read More](https://medium.com/p/f4508fc9e246) |
-| Wed, 21 May 2025 15:24:04 GMT | Guarding Intelligence | Rithik Reddy Varla | [Read More](https://medium.com/p/7af74b05e15b) |
-| Wed, 21 May 2025 15:20:21 GMT | Teknik Optimasi Query dalam Basis Data SQL | fijrisalwa | [Read More](https://medium.com/p/f316dff5896a) |
-| Wed, 21 May 2025 15:16:47 GMT | How Data Science is Changing the IT Landscape | Tasktech Recruiters | [Read More](https://medium.com/p/eac51d7cddb2) |
