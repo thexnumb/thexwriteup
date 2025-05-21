@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 04:40:04 GMT | Hack The Box “SwagShop” Walkthrough | WireHawk Security | [Read More](https://medium.com/p/cdf845aeb348) |
+| Wed, 21 May 2025 04:35:25 GMT | Incident Response Fundamentals--Tryhackme -- Cybersecurity-- WriteUp-- | Surbhi_choudhary | [Read More](https://medium.com/p/4080620455bc) |
+| Wed, 21 May 2025 04:35:13 GMT | Get Your Mobile App Developed with the Latest Trends & Technologies | Swethainspite | [Read More](https://medium.com/p/f1a5a57f9eea) |
+| Wed, 21 May 2025 04:26:23 GMT | This Small Business Was Hacked by Its Own Coffee Machine — Here’s How It Happened | Noel | [Read More](https://medium.com/p/fce51bb8eab3) |
+| Wed, 21 May 2025 04:26:19 GMT | What Free Online Tools Can Help You Investigate? | Aayush anand | [Read More](https://medium.com/p/9f3271fa99f1) |
+| Wed, 21 May 2025 04:26:12 GMT | $500 Bounty: DOM-Based XSS in HackerOne’s Careers Page | Monika sharma | [Read More](https://medium.com/p/019f78c5e213) |
+| Wed, 21 May 2025 04:21:50 GMT | Securing Agentic AI Systems: New Challenges in Autonomous Decision-Making | Rushabh Papinwar | [Read More](https://medium.com/p/e66c13d36a99) |
 | Wed, 21 May 2025 03:43:17 GMT | Beyond the Buzzwords: Real Digital Transformation with Maxbit LLC’s Origami™ | Hussein Abdelwahab | [Read More](https://medium.com/p/b331bbe52cfa) |
 | Wed, 21 May 2025 03:32:32 GMT | Turbulence in the Cloud: Unpacking the Cyberattack That Disrupted Kuala Lumpur Airport | Deven Chhajed | [Read More](https://medium.com/p/c83ed91afe0e) |
 | Wed, 21 May 2025 03:22:29 GMT | Unmasking Cyber Threats with Precision: How TechniqueRAG’s AI is Revolutionizing MITRE ATT&CK… | ArXiv In-depth Analysis | [Read More](https://medium.com/p/7cbbcea0481a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 18:39:25 GMT | 100 days of Learning Penetration testing -Day 1 | Samin Basnet | [Read More](https://medium.com/p/d55696fae190) |
 | Tue, 20 May 2025 18:38:53 GMT | Arctic Wolf’s 2025 Report is Insightful- But Here’s What I add further | NaveeeN Chendra | [Read More](https://medium.com/p/7a0032073455) |
 | Tue, 20 May 2025 18:35:24 GMT | Windows Server 2016 ile Active Directory Güvenliği ve Wazuh Ajanının GPO ile Otomatik Kurulumu | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/5ff805517642) |
-| Tue, 20 May 2025 18:34:44 GMT | Understanding the OSI Model | Mazhar Imran | [Read More](https://medium.com/p/3968fda86d57) |
-| Tue, 20 May 2025 18:33:07 GMT | Is Your Website Under Attack? | Marilyn Jenkins | [Read More](https://medium.com/p/0885707c5302) |
-| Tue, 20 May 2025 18:32:50 GMT | TryHackMe PT1 Certification Review | Motasem Hamdan | [Read More](https://medium.com/p/37edb20fc63e) |
-| Tue, 20 May 2025 18:30:18 GMT | Top Event Production Services in UK: A Complete Guide for In-Person & Hybrid Events in 2025 | waeventservices.co.uk/ | [Read More](https://medium.com/p/01e0803b5ccc) |
-| Tue, 20 May 2025 18:27:10 GMT | Is Digital Transformation Possible Without Writing Code? | Man Of Truth | [Read More](https://medium.com/p/af15a756ec74) |
-| Tue, 20 May 2025 18:21:58 GMT | Common Types of Cybersecurity Vulnerabilities with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/d1b441090051) |
-| Tue, 20 May 2025 18:16:15 GMT | Artificial intelligence | Steven Chris | [Read More](https://medium.com/p/50314344acaa) |
