@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 18:23:18 GMT | Day 2 of my AWS Pentesting journey — S3 Buckets Enumeration | mauzware | [Read More](https://medium.com/p/d89dc14ec926) |
+| Wed, 21 May 2025 18:10:48 GMT | 9 Secrets Rotation Scripts for DevOps on a Deadline | Devops Trainer | [Read More](https://medium.com/p/624463cfe21e) |
+| Wed, 21 May 2025 18:07:06 GMT | When Online Abuse Turns Violent | CyberMaterial | [Read More](https://medium.com/p/1906e63836bf) |
+| Wed, 21 May 2025 18:02:17 GMT | The Event Horizon of Trust: How Black Holes Inspire Cybersecurity | Nagachinmay KN | [Read More](https://medium.com/p/269644cd56cb) |
+| Wed, 21 May 2025 17:53:25 GMT | My Conversation with AI: Talking about Vulnerable Firewalls… | Travis Ray Caverhill | [Read More](https://medium.com/p/c4f95ae8bd2a) |
+| Wed, 21 May 2025 17:52:42 GMT | How Agentic AI is Revolutionizing Security Operations (And What It Means for Your SOC) | Simbian Ai | [Read More](https://medium.com/p/ad3d7c75d904) |
+| Wed, 21 May 2025 17:49:34 GMT | How to Set Up OpenVPN on Linux (Step-by-Step Guide) | Himanshu Gautam | [Read More](https://medium.com/p/9406d2cdd78f) |
+| Wed, 21 May 2025 17:46:49 GMT | In-Depth Cybersecurity Threat Landscape: May 2025 Analysis | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/8b2208f8d433) |
+| Wed, 21 May 2025 17:44:21 GMT | Identify Users Using Browser Fingerprinting | Parminder Singh | [Read More](https://medium.com/p/807345c31cab) |
+| Wed, 21 May 2025 17:39:46 GMT | Wipro Partners with Hachette UK for Major SAP-Driven IT Overhaul | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/bece43186028) |
+| Wed, 21 May 2025 17:36:22 GMT | Hack The Box “SecNotes” Write-Up | Burak | [Read More](https://medium.com/p/fb21b42f183d) |
 | Wed, 21 May 2025 17:25:22 GMT | IoT Vulnerabilities and Security Models | Advika | [Read More](https://medium.com/p/426e2475edee) |
 | Wed, 21 May 2025 17:24:03 GMT | Modern-Day Dating and the Absence of Love | Kome | [Read More](https://medium.com/p/7ed5a37e2a8d) |
 | Wed, 21 May 2025 17:23:45 GMT | Branch Privilege Injection: A New Threat to Spectre v2 Mitigations | Manju B | [Read More](https://medium.com/p/9e266bb68413) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 13:17:04 GMT | How to scale IT support for a growing business | Zenzero | [Read More](https://medium.com/p/71ccecf5a932) |
 | Wed, 21 May 2025 13:16:30 GMT | Blazingly Fast Footgun: Rust Gotchas | Iker | [Read More](https://medium.com/p/ffcce754cf92) |
 | Wed, 21 May 2025 13:15:46 GMT | The Rise Of AI-Powered Scams: A New Threat In The Digital Age | Smart Jeffery | [Read More](https://medium.com/p/a3392e23b357) |
-| Wed, 21 May 2025 13:12:40 GMT | Secure Process Automation at Scale with Camunda and HashiCorp Vault | Stefan Schultz | [Read More](https://medium.com/p/d70a3a149869) |
-| Wed, 21 May 2025 13:11:58 GMT | Slice Your Apple | Kshirsagar Hrushikesh | [Read More](https://medium.com/p/7f4f2102d850) |
-| Wed, 21 May 2025 13:11:54 GMT | Securing Mobile Apps with Approov: A Complete Integration Guide | Nouman Sakhawat | [Read More](https://medium.com/p/f14cedb781d2) |
-| Wed, 21 May 2025 13:04:40 GMT | Nxcai Review | George Sawers | [Read More](https://medium.com/p/b978d01e756e) |
-| Wed, 21 May 2025 13:01:44 GMT | SOC Analysts Are Burning Out — Let Peris.ai AI Playbooks Take Over | Peris.ai Cybersecurity | [Read More](https://medium.com/p/07a800d251e5) |
-| Wed, 21 May 2025 12:52:49 GMT | Security considerations in GraphQL Federation | Akshat Virmani | [Read More](https://medium.com/p/7a9d3cfa4a85) |
-| Wed, 21 May 2025 12:50:43 GMT | From Homemaker to Penetration Tester: How Digived Helped Me Reclaim My Career | Anjali Mehta | [Read More](https://medium.com/p/50b665914202) |
-| Wed, 21 May 2025 12:37:43 GMT | Top 10 Web Directory Submission Sites to Boost SEO and Increase Website Traffic in 2025 | Top SaaS Directories | [Read More](https://medium.com/p/a55cc8728da5) |
-| Wed, 21 May 2025 12:36:53 GMT | $5,000 - Authorization Bypass via Parameter Parsing Mismatch (Django — Flask) | priyanshu shakya | [Read More](https://medium.com/p/6f0f748db6be) |
-| Wed, 21 May 2025 12:29:11 GMT | Meet Gemini Nano: Google Chrome’s New Defensive AI | O. J. Okpabi | [Read More](https://medium.com/p/0644b95f93a3) |
-| Wed, 21 May 2025 12:27:15 GMT | Drowning in the Inbox: Real Lessons from a Threat Hunter on Email Bombing Attacks | Surya Teja | [Read More](https://medium.com/p/2ab32a3ea6b3) |
