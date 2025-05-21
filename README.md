@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 02:45:57 GMT | Slow Systems and Security Risks? IT Services in Melbourne Can Help | Steadfastsolutions | [Read More](https://medium.com/p/f2e137d531f0) |
+| Wed, 21 May 2025 02:44:28 GMT | Sherlock: Digital Footprint Hunting Tool | Lincoln Mcloud | [Read More](https://medium.com/p/1b08fdcbb93a) |
+| Wed, 21 May 2025 02:42:09 GMT | Microsoft 365 under threat: New phishing technique tricks users and security systems | current.cybersecurity | [Read More](https://medium.com/p/bd27447e0f1b) |
+| Wed, 21 May 2025 02:36:07 GMT | How Hackers Discover Hidden Admin Panels and Secret Files ️‍♂️ | Vipul Sonule | [Read More](https://medium.com/p/c2b12ab0b841) |
+| Wed, 21 May 2025 02:35:58 GMT | Hackers Used Emojis to Cripple a Business. Here’s How to Make Sure You’re Not Next. | Noel | [Read More](https://medium.com/p/c75941341f9b) |
+| Wed, 21 May 2025 02:35:54 GMT | The $99 Office Scanner That Hacked an Entire Business: You Won’t Believe How | Noel | [Read More](https://medium.com/p/0c13ae55e971) |
+| Wed, 21 May 2025 02:27:04 GMT | $3,500 Bounty: Stored XSS in GitLab’s RDoc Wiki via Malicious Image Links | Monika sharma | [Read More](https://medium.com/p/c394d4730d2a) |
+| Wed, 21 May 2025 02:26:19 GMT | Anatomy of a PowerShell Shellcode: Dissecting a Reverse HTTPS Connection | Jonathan M. | [Read More](https://medium.com/p/6caa3909943a) |
+| Wed, 21 May 2025 02:17:55 GMT | AI is Quietly Changing Everything. Are you Keeping Up? | Abhisom | [Read More](https://medium.com/p/9711c0a2f38d) |
+| Wed, 21 May 2025 02:14:44 GMT | Take Me Like You Mean It | Para | [Read More](https://medium.com/p/6bfeec58ab9b) |
+| Wed, 21 May 2025 02:13:09 GMT | Securing the Future: How Zero Trust is Evolving for the Agentic Workforce | Jacky Yau | [Read More](https://medium.com/p/b43a5042d2b6) |
+| Wed, 21 May 2025 02:12:05 GMT | Anatomia de um Shellcode PowerShell: Dissecando uma Conexão Reversa HTTPS | Jonathan M. | [Read More](https://medium.com/p/119859a02baf) |
+| Wed, 21 May 2025 01:46:09 GMT | Java in the Enterprise | Hari | [Read More](https://medium.com/p/2da3078de702) |
 | Wed, 21 May 2025 01:36:11 GMT | Maximize LunaFi for Passive Income Success | LFI | [Read More](https://medium.com/p/801c4f557e55) |
 | Wed, 21 May 2025 01:31:32 GMT | HTB Solution: SMTP | Nabin Saru | [Read More](https://medium.com/p/7972e318dd0f) |
 | Wed, 21 May 2025 01:29:26 GMT | How I Earned my Second Bounty of €2000 by Discovering an Authorization Bypass Vulnerability in a… | Risky | [Read More](https://medium.com/p/8b20570004d8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 18:01:58 GMT | ⚡ CACHING vs  COOKIES | Chhavi Rohilla | [Read More](https://medium.com/p/10ad45c2afde) |
 | Tue, 20 May 2025 18:00:12 GMT | Windows Temelleri | Hiranur Gemalmaz | [Read More](https://medium.com/p/15e19a2f0ac9) |
 | Tue, 20 May 2025 17:53:47 GMT | Android NDK Security: Protecting Sensitive Data with Native Code | Chirag Vasani | [Read More](https://medium.com/p/39ba402bd954) |
-| Tue, 20 May 2025 17:52:57 GMT | Why Perimeter Security Is Dead: Embracing Zero Trust Architecture for Backend Systems | Kanha | [Read More](https://medium.com/p/789a733d94e2) |
-| Tue, 20 May 2025 17:47:27 GMT | Port Swigger: Username enumeration via different responses | fae ruho | [Read More](https://medium.com/p/23a6878922f0) |
-| Tue, 20 May 2025 17:46:39 GMT | Understanding Guardrails in Generative AI | Bhaumik Pandit | [Read More](https://medium.com/p/6219ec778f93) |
-| Tue, 20 May 2025 17:45:21 GMT | From Panpsychism to Artificial Self-Awareness: Can an AI know how secure it is? | Jordi Garcia Castillon | [Read More](https://medium.com/p/8cd174471146) |
-| Tue, 20 May 2025 17:44:19 GMT | Bulutta Kilitlenme Riski: Vendor Lock-in Kavramı ve Kurtulma Yolları | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/18d8e1d84be5) |
-| Tue, 20 May 2025 17:38:23 GMT | Protect Your Business: Top Cyber Security Services in Tacoma | PC Technologies | [Read More](https://medium.com/p/2b86f882758b) |
-| Tue, 20 May 2025 17:35:21 GMT | Learn Linux: My first Arch Linux (IV) | Alfonso Izquierdo | [Read More](https://medium.com/p/b595c6284515) |
-| Tue, 20 May 2025 17:33:02 GMT | Mastering Local MITM: ARP Spoofing & HSTS Hijack with Bettercap | Syedmohathashimali | [Read More](https://medium.com/p/8ade550a2666) |
-| Tue, 20 May 2025 17:28:41 GMT | Mindfulness Isn’t Always Peaceful — And That’s the Point | Jerry Nelson | [Read More](https://medium.com/p/d465289d05b1) |
-| Tue, 20 May 2025 17:25:42 GMT | PART 1 : The journey of making mining devices or injecting payloads on hardware devices | An0n | [Read More](https://medium.com/p/93e462bb0dc6) |
-| Tue, 20 May 2025 17:24:35 GMT | Post Graduation Write-up and plan | fae ruho | [Read More](https://medium.com/p/9339300527c1) |
-| Tue, 20 May 2025 17:22:10 GMT | Full-Blown SSRF to Gain Access to Millions of Users’ Records and Multiple Internal Panels | Skyer | [Read More](https://medium.com/p/3719d9b802e9) |
-| Tue, 20 May 2025 17:18:31 GMT | Cybersecurity in the Insurance Industry: A Critical Imperative | Prismberrytechnologies | [Read More](https://medium.com/p/8afc4178b899) |
