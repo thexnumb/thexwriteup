@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 18:32:33 GMT | How to Secure Your WordPress wp-config.php File the Right Way | Shubradeb | [Read More](https://medium.com/p/cad3d1cb4fb7) |
+| Wed, 21 May 2025 18:32:26 GMT | Threat Intelligence Advisory and Feasibility Report | Robert Schryvers ChT | [Read More](https://medium.com/p/c744dc287830) |
+| Wed, 21 May 2025 18:29:07 GMT | Security Information and Event Management (SIEM) | Igor Berner | [Read More](https://medium.com/p/f5aa849821a9) |
+| Wed, 21 May 2025 18:28:07 GMT | ️ Log Manipulation and Trace Detection in Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/170dca7e714b) |
+| Wed, 21 May 2025 18:25:38 GMT | Always 200 OK: A Pen Tester’s Deep Dive into HTTP Method Misconfiguration | AkashSharma | [Read More](https://medium.com/p/39c74e691943) |
 | Wed, 21 May 2025 18:23:18 GMT | Day 2 of my AWS Pentesting journey — S3 Buckets Enumeration | mauzware | [Read More](https://medium.com/p/d89dc14ec926) |
 | Wed, 21 May 2025 18:10:48 GMT | 9 Secrets Rotation Scripts for DevOps on a Deadline | Devops Trainer | [Read More](https://medium.com/p/624463cfe21e) |
 | Wed, 21 May 2025 18:07:06 GMT | When Online Abuse Turns Violent | CyberMaterial | [Read More](https://medium.com/p/1906e63836bf) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 13:23:47 GMT | Here’s How I Recover My Money From Cxdai | Abby Sinclair-Maclagan | [Read More](https://medium.com/p/30eafd00d995) |
 | Wed, 21 May 2025 13:23:27 GMT | Top 10 Summer Scams of 2025: Stay Safe with These Tips | Gene King | [Read More](https://medium.com/p/9f4c001ff2db) |
 | Wed, 21 May 2025 13:20:04 GMT | Latest Trends in Cyber Security: AI, Cloud, and IoT Threats | vamsi krishna | [Read More](https://medium.com/p/5e8f1149b94f) |
-| Wed, 21 May 2025 13:19:29 GMT | “Genius” Developer Discovers Revolutionary Way to Ensure Job Security | Simple Stack | [Read More](https://medium.com/p/28901fb97140) |
-| Wed, 21 May 2025 13:17:28 GMT | ‘So What?’ reporting | Charles Seaton | [Read More](https://medium.com/p/b1f0fad5a4d6) |
-| Wed, 21 May 2025 13:17:04 GMT | How to scale IT support for a growing business | Zenzero | [Read More](https://medium.com/p/71ccecf5a932) |
-| Wed, 21 May 2025 13:16:30 GMT | Blazingly Fast Footgun: Rust Gotchas | Iker | [Read More](https://medium.com/p/ffcce754cf92) |
-| Wed, 21 May 2025 13:15:46 GMT | The Rise Of AI-Powered Scams: A New Threat In The Digital Age | Smart Jeffery | [Read More](https://medium.com/p/a3392e23b357) |
