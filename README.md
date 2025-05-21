@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 21:33:21 GMT | Building the Quantum Supercomputers of Tomorrow — Scientists Connect Quantum Processors via Fiber… | QuantumGenie | [Read More](https://medium.com/p/8e2272d92e06) |
+| Wed, 21 May 2025 21:19:21 GMT | Fully visible traceroute with stalkroute | suicidal_teddy | [Read More](https://medium.com/p/5a75e3cfe8f5) |
+| Wed, 21 May 2025 21:16:21 GMT | Is your child gaming with strangers? Are they safe? | Savvy Cyber Kids | [Read More](https://medium.com/p/80a5fea47015) |
+| Wed, 21 May 2025 21:14:57 GMT | Topic: How does my social media know what I am interested in? | Savvy Cyber Kids | [Read More](https://medium.com/p/2ca8d12cb0e1) |
+| Wed, 21 May 2025 21:14:24 GMT | Unlocking Nostalgia: How Curiosity Led Me to Reverse Engineer a Unity Game | Barengsinau | [Read More](https://medium.com/p/40a8f5d2b17b) |
 | Wed, 21 May 2025 21:13:46 GMT | CMMI: The Maturity level of software product | Rahul Kumar | [Read More](https://medium.com/p/843f9842ceae) |
+| Wed, 21 May 2025 21:13:03 GMT | The Problem with Privacy and Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/902a69ce0047) |
+| Wed, 21 May 2025 21:10:44 GMT | LetsDefend Remote Working Challenge Walkthrough | El Mahjoub AIT MEDDAH | [Read More](https://medium.com/p/937029406add) |
 | Wed, 21 May 2025 21:10:16 GMT | Is It Really Possible to Get Hacked Just by Downloading an Image on WhatsApp? | CyberLucifer | [Read More](https://medium.com/p/b57de1bd9702) |
 | Wed, 21 May 2025 21:07:09 GMT | LazyOwn: CRIMEN — A Comprehensive and Advanced Red Team Framework | Lazyown Redteam | [Read More](https://medium.com/p/827b72be75fe) |
 | Wed, 21 May 2025 21:03:13 GMT | #I Used AI to Create a Fake Self-Help Guru (That People Believed) | Zane Cross | [Read More](https://medium.com/p/c6d8be9e57b6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 15:24:04 GMT | Guarding Intelligence | Rithik Reddy Varla | [Read More](https://medium.com/p/7af74b05e15b) |
 | Wed, 21 May 2025 15:20:21 GMT | Teknik Optimasi Query dalam Basis Data SQL | fijrisalwa | [Read More](https://medium.com/p/f316dff5896a) |
 | Wed, 21 May 2025 15:16:47 GMT | How Data Science is Changing the IT Landscape | Tasktech Recruiters | [Read More](https://medium.com/p/eac51d7cddb2) |
-| Wed, 21 May 2025 15:10:08 GMT | TryHackMe - AD: Basic Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/bd77492c0217) |
-| Wed, 21 May 2025 15:08:57 GMT | Zeek Exercises(THM) | Wajidmir | [Read More](https://medium.com/p/d956a637dc57) |
-| Wed, 21 May 2025 15:08:06 GMT | I’ll Eliminate 73% of Your Cyber Risk in One Post. | Gregg Westgate | [Read More](https://medium.com/p/327cf944eae7) |
-| Wed, 21 May 2025 15:05:10 GMT | Day 42: Network Topologies and DMZs: Building Smarter, Safer, and More Scalable Networks | Agarwaldaksh | [Read More](https://medium.com/p/80c8bea3e483) |
-| Wed, 21 May 2025 15:03:52 GMT | ️ 10 Security Scans You Can Automate with Shell Scripts | Devops Trainer | [Read More](https://medium.com/p/48e1dd5c7df4) |
-| Wed, 21 May 2025 15:03:31 GMT | Day 8: Building the Backbone: Policies, Standards, Procedures, Guidelines & Baselines | Brittney Ginther | [Read More](https://medium.com/p/694dc54949c6) |
-| Wed, 21 May 2025 14:49:03 GMT | The Cybersecurity Paradox: Why We’re Falling Behind While Standing Still | Eric Zietlow | [Read More](https://medium.com/p/707838a51c35) |
