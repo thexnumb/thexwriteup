@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 10:09:50 GMT | Welcome to Complex-ish | Kristin Dahl | [Read More](https://medium.com/p/5984ace7892f) |
+| Wed, 21 May 2025 10:08:44 GMT | Big Tech Is Lying to You About Data Privacy | Tech In Focus | [Read More](https://medium.com/p/cab980579ac4) |
+| Wed, 21 May 2025 10:07:39 GMT | What Happens When You Mix Art and Cybersecurity? | Iverson Anchundia Parrales | [Read More](https://medium.com/p/5d5c26ec5ee7) |
+| Wed, 21 May 2025 10:06:33 GMT | Best Online Ethical Hacking Course in India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/bb9d5c6f1ef2) |
+| Wed, 21 May 2025 10:04:13 GMT | Honeypots in Web Forms: Smart Spam Protection Without Compromising UX | Kartheek Desineedi | [Read More](https://medium.com/p/2f62cf0f6f41) |
+| Wed, 21 May 2025 10:03:21 GMT | India’s Maritime Doctrine: More Than Just Waves, It’s a Tsunami of Responsibility | Aishik Dutta | [Read More](https://medium.com/p/59e50cdee990) |
+| Wed, 21 May 2025 10:02:35 GMT | Why Startups Still Get Hacked | Solo Recon | [Read More](https://medium.com/p/47c71a5ecd12) |
+| Wed, 21 May 2025 10:01:26 GMT | The Hidden Hero of Software Success: Inside EDSPL’s Unmatched Testing & QA Framework | saurabh cyberinfomines | [Read More](https://medium.com/p/58c37e9bd351) |
+| Wed, 21 May 2025 09:53:53 GMT | BÖLÜM 5 BÖCEK | Bugra Dönmez | [Read More](https://medium.com/p/a0ae42372673) |
+| Wed, 21 May 2025 09:52:38 GMT | Sysinternals Process Araçları: Derinlemesine İnceleme | Tuğrul Kılıç | [Read More](https://medium.com/p/bb4bfc53678a) |
+| Wed, 21 May 2025 09:51:26 GMT | Hunting for Web Cache Deception Vulnerabilities with a Custom Bash Script | cyberjson | [Read More](https://medium.com/p/a52d2f8fd722) |
+| Wed, 21 May 2025 09:48:27 GMT | Unveiling the Next Wave of Cyber Threats: New Attack Techniques in the Picus Red Report 2025 | Yasin Kalli | [Read More](https://medium.com/p/a427b22e032e) |
+| Wed, 21 May 2025 09:45:40 GMT | Defending Against Prompt Injections | Udit | [Read More](https://medium.com/p/e778a306e398) |
+| Wed, 21 May 2025 09:44:55 GMT | How Secure are Solana Smart Contracts? | Cyberscope | [Read More](https://medium.com/p/cbbc12be5aad) |
+| Wed, 21 May 2025 09:43:43 GMT | Cyber Security Course in India | Sayoojforwork | [Read More](https://medium.com/p/769706375d7d) |
+| Wed, 21 May 2025 09:42:50 GMT | Is Your Qlik Sense Site Secure? A Practical Guide to Boosting Web Security | Elakkian | [Read More](https://medium.com/p/65745ed1d71b) |
+| Wed, 21 May 2025 09:38:04 GMT | Re-Opening 2.0: Consumer Discretionary, Industrials & Real-Estate Step Into the Spotlight | CMS Financial | [Read More](https://medium.com/p/afe14e6742e3) |
 | Wed, 21 May 2025 09:36:58 GMT | ️ Mozilla Patches Critical Firefox Zero-Days Exploited at Pwn2Own Berlin 2025 | Infoziant | [Read More](https://medium.com/p/0016649d2e11) |
 | Wed, 21 May 2025 09:20:37 GMT | Why Password Hygiene Is the Cybersecurity Skill No One Can Afford to Ignore | Kingsley Asuamah | [Read More](https://medium.com/p/513a3c8ae698) |
 | Wed, 21 May 2025 09:19:17 GMT | The New Cybersecurity Playbook: What Companies Can Learn from Coinbase’s Breach Response | Alok Prabhat | [Read More](https://medium.com/p/6b132c829895) |
@@ -97,20 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 05:27:43 GMT | Access Control Systems and Security in Gated Communities across UAE | Tekhabeeb | [Read More](https://medium.com/p/df5037abf52b) |
 | Wed, 21 May 2025 05:19:55 GMT | Securing Kafka in Enterprise Systems | Muhammad Furqan | [Read More](https://medium.com/p/e4036b3a0f53) |
 | Wed, 21 May 2025 04:58:01 GMT | Smart Security: How AI Helps Businesses Stay Ahead of Cyber Threats | Benjaminanderson | [Read More](https://medium.com/p/13a211157fea) |
-| Wed, 21 May 2025 04:53:00 GMT | When pixels lie: how Deepfakes are haunting teen life | Eatsleepprompt | [Read More](https://medium.com/p/10be0e896a31) |
-| Wed, 21 May 2025 04:42:23 GMT | BTEC Level 2 Information Technology Systems Assignment Help | Hndassignmenthelp | [Read More](https://medium.com/p/f486c2ae27a6) |
-| Wed, 21 May 2025 04:40:04 GMT | Hack The Box “SwagShop” Walkthrough | WireHawk Security | [Read More](https://medium.com/p/cdf845aeb348) |
-| Wed, 21 May 2025 04:35:25 GMT | Incident Response Fundamentals--Tryhackme -- Cybersecurity-- WriteUp-- | Surbhi_choudhary | [Read More](https://medium.com/p/4080620455bc) |
-| Wed, 21 May 2025 04:35:13 GMT | Get Your Mobile App Developed with the Latest Trends & Technologies | Swethainspite | [Read More](https://medium.com/p/f1a5a57f9eea) |
-| Wed, 21 May 2025 04:26:23 GMT | This Small Business Was Hacked by Its Own Coffee Machine — Here’s How It Happened | Noel | [Read More](https://medium.com/p/fce51bb8eab3) |
-| Wed, 21 May 2025 04:26:19 GMT | What Free Online Tools Can Help You Investigate? | Aayush anand | [Read More](https://medium.com/p/9f3271fa99f1) |
-| Wed, 21 May 2025 04:26:12 GMT | $500 Bounty: DOM-Based XSS in HackerOne’s Careers Page | Monika sharma | [Read More](https://medium.com/p/019f78c5e213) |
-| Wed, 21 May 2025 04:21:50 GMT | Securing Agentic AI Systems: New Challenges in Autonomous Decision-Making | Rushabh Papinwar | [Read More](https://medium.com/p/e66c13d36a99) |
-| Wed, 21 May 2025 03:43:17 GMT | Beyond the Buzzwords: Real Digital Transformation with Maxbit LLC’s Origami™ | Hussein Abdelwahab | [Read More](https://medium.com/p/b331bbe52cfa) |
-| Wed, 21 May 2025 03:32:32 GMT | Turbulence in the Cloud: Unpacking the Cyberattack That Disrupted Kuala Lumpur Airport | Deven Chhajed | [Read More](https://medium.com/p/c83ed91afe0e) |
-| Wed, 21 May 2025 03:22:29 GMT | Unmasking Cyber Threats with Precision: How TechniqueRAG’s AI is Revolutionizing MITRE ATT&CK… | ArXiv In-depth Analysis | [Read More](https://medium.com/p/7cbbcea0481a) |
-| Wed, 21 May 2025 03:21:25 GMT | Tryhackme-Lab-Links | Cyber Coder | [Read More](https://medium.com/p/ee5e7d19c89d) |
-| Wed, 21 May 2025 03:08:52 GMT | Online Oversharing: Risks & Ethics You Need to Know | Pawan Jaiswal | [Read More](https://medium.com/p/415b392f8f0b) |
-| Wed, 21 May 2025 03:00:21 GMT | Preventing Data Breaches: How Sydney IT Support Providers Keep You Secure | Total Computer Technology | [Read More](https://medium.com/p/5c8b19b0efff) |
-| Wed, 21 May 2025 02:45:57 GMT | Slow Systems and Security Risks? IT Services in Melbourne Can Help | Steadfastsolutions | [Read More](https://medium.com/p/f2e137d531f0) |
-| Wed, 21 May 2025 02:44:28 GMT | Sherlock: Digital Footprint Hunting Tool | Lincoln Mcloud | [Read More](https://medium.com/p/1b08fdcbb93a) |
