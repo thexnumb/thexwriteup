@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 17:10:50 GMT | Why CSPM(Cloud Security Posture Management) Is the Future of Scalable Cloud Security | Ajay Monga | [Read More](https://medium.com/p/2dfcaf638c4b) |
+| Wed, 21 May 2025 17:06:46 GMT | “FLOODLIGHTING” IN EARLY DATING STAGES ! COMFORT OR TOXICITY? | Kriti Dubey | [Read More](https://medium.com/p/2bec62d17953) |
+| Wed, 21 May 2025 17:03:59 GMT | Decentralization as a Key Architecture of Web3 Security Features: The Risk of Improper Application… | Samir Muhammad | [Read More](https://medium.com/p/84b63d21e43a) |
+| Wed, 21 May 2025 17:03:37 GMT | What’s the Difference Between a Hardware and Software Firewall? | Jazz Cyber Shield | [Read More](https://medium.com/p/94f669280843) |
+| Wed, 21 May 2025 17:02:59 GMT | Tools of the Trade: Bypassing Physical Security Controls (Without Breaking a Sweat) | Mark Puckett | [Read More](https://medium.com/p/d532db24da62) |
+| Wed, 21 May 2025 17:02:24 GMT | Protecting Our Ports | Abdelaziz moustakim | [Read More](https://medium.com/p/90d142c73c48) |
+| Wed, 21 May 2025 16:59:36 GMT | Eloquent Has Many Through: Laravel’s Hidden Gem for Complex Relationships | Alhassan Mohammed | [Read More](https://medium.com/p/a6a7359c855a) |
+| Wed, 21 May 2025 16:57:25 GMT | Assessment Methodologies: Information Gathering CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/6828fd9406a6) |
+| Wed, 21 May 2025 16:57:24 GMT | Standards and Methodologies for Incident Management in Critical Infrastructures | Odyssec | [Read More](https://medium.com/p/e88940d57cda) |
+| Wed, 21 May 2025 16:53:36 GMT | In-Depth Analysis of a Sophisticated WhatsApp Phishing Scam Leveraging Brand Impersonation | Odyssec | [Read More](https://medium.com/p/dbd5f4514699) |
 | Wed, 21 May 2025 16:49:38 GMT | Enterprise-ready LLM Gateway with Apache APISIX (Part 2) | Lucasberlang | [Read More](https://medium.com/p/bd796db06340) |
 | Wed, 21 May 2025 16:47:33 GMT | ️ Simulating Ransomware Attacks to Strengthen Cyber Defense | Sebastian Kandler | [Read More](https://medium.com/p/0bbec24c32b9) |
+| Wed, 21 May 2025 16:47:13 GMT | 09961292038 | #شماره‌خاله#شماره‌خاله اصفهان #شماره‌خاله | [Read More](https://medium.com/p/9b714e379dd3) |
 | Wed, 21 May 2025 16:38:52 GMT | 7 Key Challenges in Modern SOC Teams (+ AI Automation Solutions) | Simbian Ai | [Read More](https://medium.com/p/8c3eb72062de) |
 | Wed, 21 May 2025 16:31:09 GMT | Insider Threat — Quantifying Human Risk for Data Security with Polymer | Zack Pediay | [Read More](https://medium.com/p/47b22b8e287a) |
 | Wed, 21 May 2025 16:27:25 GMT | Types of Investigations | Igor Berner | [Read More](https://medium.com/p/59ad264fde05) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 12:19:59 GMT | When Marketers and Governments Act Like God | Shimon Rothschild CISSP | [Read More](https://medium.com/p/c025eb89571f) |
 | Wed, 21 May 2025 12:19:32 GMT | Surfshark Antivirus 2025: A Comprehensive Cybersecurity Solution for the Modern User | Top2Antivirus | [Read More](https://medium.com/p/69f1e6f2ff21) |
 | Wed, 21 May 2025 12:13:45 GMT | How I Bypassed My University’s OTP System and Got Admin-Level Access (Ethical Hack) | Kamlesh Bharad | [Read More](https://medium.com/p/b2a75e54069e) |
-| Wed, 21 May 2025 12:11:49 GMT | HTTP Strict Transport Security (HSTS): A Must-Have for Web Security | Gaurav | [Read More](https://medium.com/p/75a2a5a62e38) |
-| Wed, 21 May 2025 12:07:27 GMT | Top Information Technology Colleges in Bangalore | Kirti Arjun | [Read More](https://medium.com/p/388ee6d49451) |
-| Wed, 21 May 2025 12:03:51 GMT | OWASP Top 10 For Flutter — M6: Inadequate Privacy Controls in Flutter & Dart | Talsec | [Read More](https://medium.com/p/b11df113dcef) |
-| Wed, 21 May 2025 11:55:48 GMT | Pen Testing for Compliance Only? It’s Time to Rethink Your Strategy | CyBlog | [Read More](https://medium.com/p/b3b5d829b6b1) |
-| Wed, 21 May 2025 11:53:27 GMT | Zerolend: Technical Analysis of the Risks and Failures Undermining Its DeFi Protocol | DarkSlither | [Read More](https://medium.com/p/6ee439cf0556) |
-| Wed, 21 May 2025 11:52:25 GMT | Cybersecurity Explained: Threats, Defenses, and the Future | Zeeshan Ali | [Read More](https://medium.com/p/f924e23a8b66) |
-| Wed, 21 May 2025 11:50:44 GMT | Penetration Testing Roadmap for Beginners (2025 Edition) | @grvbap | [Read More](https://medium.com/p/8f45bebc1004) |
-| Wed, 21 May 2025 11:42:34 GMT | How to Get Recon Solana (RECON) Rewards: Quick Beginner's Guide | RECON | [Read More](https://medium.com/p/67d55e770761) |
-| Wed, 21 May 2025 11:27:16 GMT | Security Keys: The Unbreakable Defense Against Phishing | Karl Buhl | [Read More](https://medium.com/p/c090d01c85fa) |
-| Wed, 21 May 2025 11:25:10 GMT | Optimizing Websites, Exploring BigCommerce & Git Tools | Ketan Patel | [Read More](https://medium.com/p/0be25832cf59) |
-| Wed, 21 May 2025 11:24:30 GMT | Why You Should Never Reuse Passwords — and What to Do Instead | Ewyatt | [Read More](https://medium.com/p/887e19eaf5c5) |
