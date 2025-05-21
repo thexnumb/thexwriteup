@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 03:43:17 GMT | Beyond the Buzzwords: Real Digital Transformation with Maxbit LLC’s Origami™ | Hussein Abdelwahab | [Read More](https://medium.com/p/b331bbe52cfa) |
+| Wed, 21 May 2025 03:32:32 GMT | Turbulence in the Cloud: Unpacking the Cyberattack That Disrupted Kuala Lumpur Airport | Deven Chhajed | [Read More](https://medium.com/p/c83ed91afe0e) |
+| Wed, 21 May 2025 03:22:29 GMT | Unmasking Cyber Threats with Precision: How TechniqueRAG’s AI is Revolutionizing MITRE ATT&CK… | ArXiv In-depth Analysis | [Read More](https://medium.com/p/7cbbcea0481a) |
+| Wed, 21 May 2025 03:21:25 GMT | Tryhackme-Lab-Links | Cyber Coder | [Read More](https://medium.com/p/ee5e7d19c89d) |
+| Wed, 21 May 2025 03:08:52 GMT | Online Oversharing: Risks & Ethics You Need to Know | Pawan Jaiswal | [Read More](https://medium.com/p/415b392f8f0b) |
+| Wed, 21 May 2025 03:00:21 GMT | Preventing Data Breaches: How Sydney IT Support Providers Keep You Secure | Total Computer Technology | [Read More](https://medium.com/p/5c8b19b0efff) |
 | Wed, 21 May 2025 02:45:57 GMT | Slow Systems and Security Risks? IT Services in Melbourne Can Help | Steadfastsolutions | [Read More](https://medium.com/p/f2e137d531f0) |
 | Wed, 21 May 2025 02:44:28 GMT | Sherlock: Digital Footprint Hunting Tool | Lincoln Mcloud | [Read More](https://medium.com/p/1b08fdcbb93a) |
 | Wed, 21 May 2025 02:42:09 GMT | Microsoft 365 under threat: New phishing technique tricks users and security systems | current.cybersecurity | [Read More](https://medium.com/p/bd27447e0f1b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 18:27:10 GMT | Is Digital Transformation Possible Without Writing Code? | Man Of Truth | [Read More](https://medium.com/p/af15a756ec74) |
 | Tue, 20 May 2025 18:21:58 GMT | Common Types of Cybersecurity Vulnerabilities with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/d1b441090051) |
 | Tue, 20 May 2025 18:16:15 GMT | Artificial intelligence | Steven Chris | [Read More](https://medium.com/p/50314344acaa) |
-| Tue, 20 May 2025 18:11:38 GMT | Firmware Reverse Engineering: Security at the Hardware Layer | Esra Kayhan | [Read More](https://medium.com/p/90a824333cb7) |
-| Tue, 20 May 2025 18:10:07 GMT | Introducción al Protocolo de Autenticación Kerberos | Security Layer | [Read More](https://medium.com/p/3f7edbd6e874) |
-| Tue, 20 May 2025 18:09:08 GMT | Breaking Into a Bank’s Database (Ethically!) — My Wild Cybersecurity Ride | xabit • hacks | [Read More](https://medium.com/p/b90c91b0b09b) |
-| Tue, 20 May 2025 18:01:58 GMT | ⚡ CACHING vs  COOKIES | Chhavi Rohilla | [Read More](https://medium.com/p/10ad45c2afde) |
-| Tue, 20 May 2025 18:00:12 GMT | Windows Temelleri | Hiranur Gemalmaz | [Read More](https://medium.com/p/15e19a2f0ac9) |
-| Tue, 20 May 2025 17:53:47 GMT | Android NDK Security: Protecting Sensitive Data with Native Code | Chirag Vasani | [Read More](https://medium.com/p/39ba402bd954) |
