@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 08:19:05 GMT | The Misconfigured Magnet: How Public Buckets Exposed Millions of User Files | Iski | [Read More](https://medium.com/p/62d3ca759aa0) |
+| Wed, 21 May 2025 08:18:53 GMT | The SOC Team: Who Does What and How They Work Together | SecureSlate | [Read More](https://medium.com/p/dc08ac9d8da9) |
+| Wed, 21 May 2025 08:17:57 GMT | Automating GitHub configuration using Terraform | Infralovers GmbH | [Read More](https://medium.com/p/7896cb9f2999) |
+| Wed, 21 May 2025 08:17:11 GMT | Enhancing GitHub Security: Leveraging Mondoo for Vulnerability Detection in GitHub | Infralovers GmbH | [Read More](https://medium.com/p/054d868bd547) |
+| Wed, 21 May 2025 08:13:12 GMT | Fact-Checking Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/f84f39090cfc) |
+| Wed, 21 May 2025 08:01:06 GMT | After Night Watch: The Untold Reality of After Hours Security Services | Lionza Security | [Read More](https://medium.com/p/1a7b82cf688d) |
+| Wed, 21 May 2025 08:00:30 GMT | DevSecOps Essentials 2025: From IDE to Cloud in One Security Loop | Aleksei Aleinikov | [Read More](https://medium.com/p/14d9708c7c3e) |
+| Wed, 21 May 2025 07:56:24 GMT | ประจำวันพุธที่ 21 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/8058c976689e) |
+| Wed, 21 May 2025 07:55:35 GMT | HEAT Attacks: The stealthy threat bypassing traditional cyber defenses | Pavlović Goran | [Read More](https://medium.com/p/d33f916a8d13) |
+| Wed, 21 May 2025 07:53:59 GMT | DC 1 Machine Walkthrough | Eleanor | [Read More](https://medium.com/p/6a81364a8910) |
+| Wed, 21 May 2025 07:52:54 GMT | Quantum Computers Threat to Ethereum | Przemek Chojecki | [Read More](https://medium.com/p/3598580b69f5) |
+| Wed, 21 May 2025 07:49:16 GMT | Top 5 Cloud Security Testing Companies in USA | OptiSol Business Solutions | [Read More](https://medium.com/p/a3ff52c13b12) |
+| Wed, 21 May 2025 07:45:29 GMT | The CyberDiplomat’s weekly Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/380de8ad5a14) |
+| Wed, 21 May 2025 07:42:30 GMT | How I Found and Reproduced a Race Condition in AWS API Key Creation | ganji | [Read More](https://medium.com/p/95dbc5f37c90) |
+| Wed, 21 May 2025 07:38:49 GMT | The Daily Tech Digest: 21 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/41e0ee6a270a) |
+| Wed, 21 May 2025 07:38:14 GMT | Exploiting MCP: Emerging Security Threats in Large Language Models (LLMs) | AIM Intelligence | [Read More](https://medium.com/p/ba9da5a1b3b1) |
 | Wed, 21 May 2025 07:37:08 GMT | How I Almost Lost a Kidney to the Prince of Nigeria | Anannya Paliwal | [Read More](https://medium.com/p/1e571c4e01df) |
 | Wed, 21 May 2025 07:29:51 GMT | Step-by-Step Guide: SQLmap API Server Setup and Burp Suite Integration (Windows) | Nareshkumar | [Read More](https://medium.com/p/3c5e6103eec3) |
 | Wed, 21 May 2025 07:29:14 GMT | Unlocking Active Directory: A Step-by-Step Guide Through TryHackMe’s Basic AD Enumeration | jensbecker-dev | [Read More](https://medium.com/p/a7c227350db4) |
@@ -98,19 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 01:23:39 GMT | $2,400 in 60 Minutes: Hacking a Management Backend by Tweaking a Single Response Packet | Invik | [Read More](https://medium.com/p/368daffa75f7) |
 | Wed, 21 May 2025 01:20:18 GMT | Catatan Tentang Linux | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/a116f7abb4d9) |
 | Wed, 21 May 2025 01:00:33 GMT | Active Directory Penetration Testing : Initial Access Part 1 | Pepetsej#Gv@rd10l | [Read More](https://medium.com/p/827689e9bd89) |
-| Wed, 21 May 2025 00:58:57 GMT | CR4SH3R — Fast WordPress Plugin Vulnerability Scanner | Roman Madaev | [Read More](https://medium.com/p/54668ad28f19) |
-| Wed, 21 May 2025 00:58:34 GMT | Advanced Steganography & Anti-Forensic Techniques: Hiding Secrets in Plain Sight | A-STAR7_DOCTOR | [Read More](https://medium.com/p/6614edbd35c2) |
-| Wed, 21 May 2025 00:58:17 GMT | Navigating Cybersecurity in M&A: The Silent Dealbreaker | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b9d8e0a9f11a) |
-| Wed, 21 May 2025 00:57:13 GMT | The Hidden Vulnerability: Why Overlooking Security Control Configurations Undermines Your Cyber… | Juan Pablo Castro | [Read More](https://medium.com/p/6ad6c7b6ac9c) |
-| Wed, 21 May 2025 00:54:11 GMT | I Slipped an Item Into a Stranger’s Cart(Well, Almost) | Nizar Kadiri | [Read More](https://medium.com/p/4f1f5397a64b) |
-| Wed, 21 May 2025 00:44:18 GMT | How Whonix OS Works and How to Install It | Padrino Oraèmorto | [Read More](https://medium.com/p/1c806c6671bc) |
-| Wed, 21 May 2025 00:40:03 GMT | Getting Started with Internal Active Directory Testing (No Initial Access) | codesterzz | [Read More](https://medium.com/p/431131ea1bd5) |
-| Wed, 21 May 2025 00:34:18 GMT | My Experience with Ethical Hacking: A Journey into Cybersecurity | Yadwinder Kooner | [Read More](https://medium.com/p/909d098c07bf) |
-| Wed, 21 May 2025 00:32:32 GMT | Cybersecurity Understanding and Network Triage (CUNT) Certification | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/17b9a514153e) |
-| Wed, 21 May 2025 00:09:50 GMT | Finish Strong Lolos Seleksi Bootcamp ID-Networkers Cyber Security Engineers | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/ec56a25ab39c) |
-| Tue, 20 May 2025 23:21:15 GMT | Attack Chain Breakdown: Malicious PyPI Package Targeting Solana Devs | Cyber-AppSec | [Read More](https://medium.com/p/f605cc70319d) |
-| Tue, 20 May 2025 23:05:16 GMT | Strength That Speaks — Introducing the Full-Length Hybrid Security Gate | LDSystems — Unlock The Power Of Advanced Solutions | [Read More](https://medium.com/p/4f3a0651dc42) |
-| Tue, 20 May 2025 23:04:27 GMT | Earn More with DORK $DORK Passive Income Strategies | DORK | [Read More](https://medium.com/p/759d635e0e7d) |
-| Tue, 20 May 2025 23:01:21 GMT | 24/7 Eyes, Zero Compromise. | Visual Monitoring Solutions | [Read More](https://medium.com/p/255530ee3986) |
-| Tue, 20 May 2025 22:48:56 GMT | VeraCrypt Encryption Guide: Secure Your USB with Hidden Volumes | Eduard Jacobs | [Read More](https://medium.com/p/71a7ba96f954) |
-| Tue, 20 May 2025 22:47:46 GMT | The Importance of Securing Your DNS Against Cyber Threats | Akshay Chauhan | [Read More](https://medium.com/p/e97e04957696) |
