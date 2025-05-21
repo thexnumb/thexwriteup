@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 14:34:01 GMT | Lost Your Mobile? Do This to Get It ASAP | Riya Sundar | [Read More](https://medium.com/p/d5ceda982b95) |
+| Wed, 21 May 2025 14:32:18 GMT | Merhabalar, bu yazımda sizlere SSTI(Server Side Template Injection) ve CSTI(Client Side Template… | Arif Tansel | [Read More](https://medium.com/p/a98d4944ab25) |
+| Wed, 21 May 2025 14:28:59 GMT | MarsSnake Malware: UnsolicitedBooker’s Multi-Year Cyber Espionage Campaign Against Saudi Arabia | TheReviewHive | [Read More](https://medium.com/p/3293105ddb9d) |
+| Wed, 21 May 2025 14:27:55 GMT | How Clickstream Analytics is Quietly Powering the Future of Smarter, Safer Business Growth | RBM Software | [Read More](https://medium.com/p/82d3bb1a3d5f) |
+| Wed, 21 May 2025 14:19:32 GMT | Home Security System: The Ultimate Guide to Protecting Your Home in 2025 | Doctor | [Read More](https://medium.com/p/69d8602f0e81) |
+| Wed, 21 May 2025 14:18:59 GMT | 403 Forbidden Bypass Techniques — The Ultimate Guide | Shady Farouk | [Read More](https://medium.com/p/0072457facba) |
+| Wed, 21 May 2025 14:14:03 GMT | Long-Term Consequences of Digital Privacy Erosion | Lydiah Muigwa | [Read More](https://medium.com/p/3d9c1ea7d9e0) |
 | Wed, 21 May 2025 14:07:32 GMT | The Reliable Workhorse of Modern DevSecOps Pipelines — Your Hand-on Guide - | Saha Merlin | [Read More](https://medium.com/p/49a93f5fbfe0) |
 | Wed, 21 May 2025 14:06:04 GMT | The Rogue Laptop That Poisoned a City’s Water: A Deep Dive into the Maroochy Water Breach | om sonawane | [Read More](https://medium.com/p/2ca85e208b1e) |
 | Wed, 21 May 2025 14:02:57 GMT | Cyber Briefing: 2025.05.21 | CyberMaterial | [Read More](https://medium.com/p/14d0f1adc664) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 09:45:40 GMT | Defending Against Prompt Injections | Udit | [Read More](https://medium.com/p/e778a306e398) |
 | Wed, 21 May 2025 09:44:55 GMT | How Secure are Solana Smart Contracts? | Cyberscope | [Read More](https://medium.com/p/cbbc12be5aad) |
 | Wed, 21 May 2025 09:43:43 GMT | Cyber Security Course in India | Sayoojforwork | [Read More](https://medium.com/p/769706375d7d) |
-| Wed, 21 May 2025 09:42:50 GMT | Is Your Qlik Sense Site Secure? A Practical Guide to Boosting Web Security | Elakkian | [Read More](https://medium.com/p/65745ed1d71b) |
-| Wed, 21 May 2025 09:38:04 GMT | Re-Opening 2.0: Consumer Discretionary, Industrials & Real-Estate Step Into the Spotlight | CMS Financial | [Read More](https://medium.com/p/afe14e6742e3) |
-| Wed, 21 May 2025 09:36:58 GMT | ️ Mozilla Patches Critical Firefox Zero-Days Exploited at Pwn2Own Berlin 2025 | Infoziant | [Read More](https://medium.com/p/0016649d2e11) |
-| Wed, 21 May 2025 09:20:37 GMT | Why Password Hygiene Is the Cybersecurity Skill No One Can Afford to Ignore | Kingsley Asuamah | [Read More](https://medium.com/p/513a3c8ae698) |
-| Wed, 21 May 2025 09:19:17 GMT | The New Cybersecurity Playbook: What Companies Can Learn from Coinbase’s Breach Response | Alok Prabhat | [Read More](https://medium.com/p/6b132c829895) |
-| Wed, 21 May 2025 09:16:30 GMT | Manus AI Agent: Free Access, Free Daily Credits & Next-Gen Image Creation (Exclusive Tests and… | ParlonsIA | [Read More](https://medium.com/p/4644aec81152) |
-| Wed, 21 May 2025 09:12:57 GMT | Feroxbuster: The Rust-Powered Recon Weapon You’ve Been Missing | Chintala Taraka Ram | [Read More](https://medium.com/p/3abed642c0ae) |
