@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 04:58:01 GMT | Smart Security: How AI Helps Businesses Stay Ahead of Cyber Threats | Benjaminanderson | [Read More](https://medium.com/p/13a211157fea) |
+| Wed, 21 May 2025 04:53:00 GMT | When pixels lie: how Deepfakes are haunting teen life | Eatsleepprompt | [Read More](https://medium.com/p/10be0e896a31) |
+| Wed, 21 May 2025 04:42:23 GMT | BTEC Level 2 Information Technology Systems Assignment Help | Hndassignmenthelp | [Read More](https://medium.com/p/f486c2ae27a6) |
 | Wed, 21 May 2025 04:40:04 GMT | Hack The Box “SwagShop” Walkthrough | WireHawk Security | [Read More](https://medium.com/p/cdf845aeb348) |
 | Wed, 21 May 2025 04:35:25 GMT | Incident Response Fundamentals--Tryhackme -- Cybersecurity-- WriteUp-- | Surbhi_choudhary | [Read More](https://medium.com/p/4080620455bc) |
 | Wed, 21 May 2025 04:35:13 GMT | Get Your Mobile App Developed with the Latest Trends & Technologies | Swethainspite | [Read More](https://medium.com/p/f1a5a57f9eea) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 18:47:11 GMT | Why Small Businesses are Now Prime Targets for Hackers | All in One security | [Read More](https://medium.com/p/a8581a225e24) |
 | Tue, 20 May 2025 18:46:09 GMT | Where do clouds come from !? | Jree Jrom | [Read More](https://medium.com/p/278127460a91) |
 | Tue, 20 May 2025 18:45:24 GMT | Part 1 — Building a Cybersecurity Awareness Program: Using the Proofpoint Approach as Your Guide | Khalil Z. | [Read More](https://medium.com/p/947bf2ad7ab4) |
-| Tue, 20 May 2025 18:39:25 GMT | 100 days of Learning Penetration testing -Day 1 | Samin Basnet | [Read More](https://medium.com/p/d55696fae190) |
-| Tue, 20 May 2025 18:38:53 GMT | Arctic Wolf’s 2025 Report is Insightful- But Here’s What I add further | NaveeeN Chendra | [Read More](https://medium.com/p/7a0032073455) |
-| Tue, 20 May 2025 18:35:24 GMT | Windows Server 2016 ile Active Directory Güvenliği ve Wazuh Ajanının GPO ile Otomatik Kurulumu | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/5ff805517642) |
