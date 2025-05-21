@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 01:36:11 GMT | Maximize LunaFi for Passive Income Success | LFI | [Read More](https://medium.com/p/801c4f557e55) |
+| Wed, 21 May 2025 01:31:32 GMT | HTB Solution: SMTP | Nabin Saru | [Read More](https://medium.com/p/7972e318dd0f) |
+| Wed, 21 May 2025 01:29:26 GMT | How I Earned my Second Bounty of €2000 by Discovering an Authorization Bypass Vulnerability in a… | Risky | [Read More](https://medium.com/p/8b20570004d8) |
+| Wed, 21 May 2025 01:25:03 GMT | THM — Incident Handing with Splunk | Shamar Isaac | [Read More](https://medium.com/p/cda32a8b17a9) |
+| Wed, 21 May 2025 01:23:39 GMT | $2,400 in 60 Minutes: Hacking a Management Backend by Tweaking a Single Response Packet | Invik | [Read More](https://medium.com/p/368daffa75f7) |
+| Wed, 21 May 2025 01:20:18 GMT | Catatan Tentang Linux | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/a116f7abb4d9) |
+| Wed, 21 May 2025 01:00:33 GMT | Active Directory Penetration Testing : Initial Access Part 1 | Pepetsej#Gv@rd10l | [Read More](https://medium.com/p/827689e9bd89) |
+| Wed, 21 May 2025 00:58:57 GMT | CR4SH3R — Fast WordPress Plugin Vulnerability Scanner | Roman Madaev | [Read More](https://medium.com/p/54668ad28f19) |
+| Wed, 21 May 2025 00:58:34 GMT | Advanced Steganography & Anti-Forensic Techniques: Hiding Secrets in Plain Sight | A-STAR7_DOCTOR | [Read More](https://medium.com/p/6614edbd35c2) |
+| Wed, 21 May 2025 00:58:17 GMT | Navigating Cybersecurity in M&A: The Silent Dealbreaker | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b9d8e0a9f11a) |
+| Wed, 21 May 2025 00:57:13 GMT | The Hidden Vulnerability: Why Overlooking Security Control Configurations Undermines Your Cyber… | Juan Pablo Castro | [Read More](https://medium.com/p/6ad6c7b6ac9c) |
+| Wed, 21 May 2025 00:54:11 GMT | I Slipped an Item Into a Stranger’s Cart(Well, Almost) | Nizar Kadiri | [Read More](https://medium.com/p/4f1f5397a64b) |
+| Wed, 21 May 2025 00:44:18 GMT | How Whonix OS Works and How to Install It | Padrino Oraèmorto | [Read More](https://medium.com/p/1c806c6671bc) |
+| Wed, 21 May 2025 00:40:03 GMT | Getting Started with Internal Active Directory Testing (No Initial Access) | codesterzz | [Read More](https://medium.com/p/431131ea1bd5) |
+| Wed, 21 May 2025 00:34:18 GMT | My Experience with Ethical Hacking: A Journey into Cybersecurity | Yadwinder Kooner | [Read More](https://medium.com/p/909d098c07bf) |
+| Wed, 21 May 2025 00:32:32 GMT | Cybersecurity Understanding and Network Triage (CUNT) Certification | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/17b9a514153e) |
+| Wed, 21 May 2025 00:09:50 GMT | Finish Strong Lolos Seleksi Bootcamp ID-Networkers Cyber Security Engineers | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/ec56a25ab39c) |
 | Tue, 20 May 2025 23:21:15 GMT | Attack Chain Breakdown: Malicious PyPI Package Targeting Solana Devs | Cyber-AppSec | [Read More](https://medium.com/p/f605cc70319d) |
 | Tue, 20 May 2025 23:05:16 GMT | Strength That Speaks — Introducing the Full-Length Hybrid Security Gate | LDSystems — Unlock The Power Of Advanced Solutions | [Read More](https://medium.com/p/4f3a0651dc42) |
 | Tue, 20 May 2025 23:04:27 GMT | Earn More with DORK $DORK Passive Income Strategies | DORK | [Read More](https://medium.com/p/759d635e0e7d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 17:24:35 GMT | Post Graduation Write-up and plan | fae ruho | [Read More](https://medium.com/p/9339300527c1) |
 | Tue, 20 May 2025 17:22:10 GMT | Full-Blown SSRF to Gain Access to Millions of Users’ Records and Multiple Internal Panels | Skyer | [Read More](https://medium.com/p/3719d9b802e9) |
 | Tue, 20 May 2025 17:18:31 GMT | Cybersecurity in the Insurance Industry: A Critical Imperative | Prismberrytechnologies | [Read More](https://medium.com/p/8afc4178b899) |
-| Tue, 20 May 2025 17:15:21 GMT | SQL Injection in 2025: Still a Threat & How to Defend Against It | Grvbaplawat | [Read More](https://medium.com/p/15a18bf78662) |
-| Tue, 20 May 2025 17:09:08 GMT | [API Pentest] —  Track 01: Mapping the Shadows — Uncovering Endpoints | AjiPangesstu | [Read More](https://medium.com/p/c8de9511fd1e) |
-| Tue, 20 May 2025 17:02:47 GMT | PicoCTF Writeup — Nice netcat… | SoBatista | [Read More](https://medium.com/p/2d97351299a9) |
-| Tue, 20 May 2025 17:01:31 GMT | Cybersecurity Toolkit: A Practical Guide to Nmap, Metasploit, Hydra, Mimikatz, and Netcat | Arun Kumar | [Read More](https://medium.com/p/ff879649a261) |
-| Tue, 20 May 2025 17:00:53 GMT | Data Exfiltration via ICMP Protocol | Shinigami81 | [Read More](https://medium.com/p/b5c9e8f5cf6f) |
-| Tue, 20 May 2025 16:56:08 GMT | Q-Day | Muhammad Omar Tarrab | [Read More](https://medium.com/p/efa323dd36dc) |
-| Tue, 20 May 2025 16:55:06 GMT | How to Get LunaFi (LFI) Rewards: Quick Beginner's Guide | LFI | [Read More](https://medium.com/p/f50e556df90f) |
-| Tue, 20 May 2025 16:53:46 GMT | The 5 Most Common Cybersecurity Threats in 2025 — And How to Stay Safe (Updated: May 20, 2025) | Rishabh Raj Singh | [Read More](https://medium.com/p/b8a303cae6cf) |
-| Tue, 20 May 2025 16:38:50 GMT | Creating a Seamless Client-Freelancer Connection with Virtual Assistant Platforms | riyaaz baig | [Read More](https://medium.com/p/c5277eb9ba53) |
-| Tue, 20 May 2025 16:37:57 GMT | You Are Under Attack. You Are at War with Automation | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/b369b0fa5f44) |
-| Tue, 20 May 2025 16:33:54 GMT | Windows ve Linux İşletim Sistemlerinde Yetki Yükseltme Teknikleri | Arda Furkan İspartalıoğlu | [Read More](https://medium.com/p/c011904b22e6) |
-| Tue, 20 May 2025 16:33:23 GMT | XSS DOM DVWA | Sotong | [Read More](https://medium.com/p/151d68b8c543) |
-| Tue, 20 May 2025 16:32:08 GMT | Why do we Need Cybersecurity? | Samridhi | [Read More](https://medium.com/p/a8d1c9257913) |
-| Tue, 20 May 2025 16:29:22 GMT | Structuring Unstructured Information: Demonstrating AI Capabilities in Systems Engineering and… | Dwayne Phillips | [Read More](https://medium.com/p/b2a7fbc56191) |
-| Tue, 20 May 2025 16:27:00 GMT | For security, Android phones will now auto-reboot after three days | George Maciver | [Read More](https://medium.com/p/3377556860d0) |
-| Tue, 20 May 2025 16:25:04 GMT | Why I Treat Every New Linux Server as Already Compromised | Faruk Ahmed | [Read More](https://medium.com/p/3e740871ce06) |
-| Tue, 20 May 2025 16:14:50 GMT | Malware: The Invisible Enemy Inside Your Inbox | Niti Singh | [Read More](https://medium.com/p/10a7ce21097e) |
