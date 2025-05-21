@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 15:35:28 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/bacca1075936) |
+| Wed, 21 May 2025 15:32:41 GMT | Why Microsoft Purview Might Be the Most Overlooked Security Tool in Your Microsoft 365 Stack | Algonym | [Read More](https://medium.com/p/2c90afc98b80) |
+| Wed, 21 May 2025 15:30:18 GMT | TryHackMe: Cryptography Basics | Pavneet_Singh_ | [Read More](https://medium.com/p/f4508fc9e246) |
+| Wed, 21 May 2025 15:24:04 GMT | Guarding Intelligence | Rithik Reddy Varla | [Read More](https://medium.com/p/7af74b05e15b) |
 | Wed, 21 May 2025 15:20:21 GMT | Teknik Optimasi Query dalam Basis Data SQL | fijrisalwa | [Read More](https://medium.com/p/f316dff5896a) |
 | Wed, 21 May 2025 15:16:47 GMT | How Data Science is Changing the IT Landscape | Tasktech Recruiters | [Read More](https://medium.com/p/eac51d7cddb2) |
 | Wed, 21 May 2025 15:10:08 GMT | TryHackMe - AD: Basic Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/bd77492c0217) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 10:24:09 GMT | 12 Bash Scripts to Tighten Cloud Security Fast | Devops Trainer | [Read More](https://medium.com/p/9dced60ea4d8) |
 | Wed, 21 May 2025 10:23:31 GMT | Here’s How I Recover My Money From Nxcai | George Sawers | [Read More](https://medium.com/p/28527f6bd389) |
 | Wed, 21 May 2025 10:22:46 GMT | Why UMBC Could Be the Ultimate Launchpad for Your Computer-Science Journey | Gagandeeppctebcaa | [Read More](https://medium.com/p/15824e7ce45a) |
-| Wed, 21 May 2025 10:21:57 GMT | The 2025 Iberian Blackout: Rethinking Security for Critical Infrastructures | Odyssec | [Read More](https://medium.com/p/2b8fa2927507) |
-| Wed, 21 May 2025 10:19:03 GMT | 9 Free Tools to Scan Your WordPress Site for Vulnerabilities | Kate Bennett | [Read More](https://medium.com/p/2a10ab789ec2) |
-| Wed, 21 May 2025 10:09:50 GMT | Welcome to Complex-ish | Kristin Dahl | [Read More](https://medium.com/p/5984ace7892f) |
-| Wed, 21 May 2025 10:08:44 GMT | Big Tech Is Lying to You About Data Privacy | Tech In Focus | [Read More](https://medium.com/p/cab980579ac4) |
