@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 08:48:50 GMT | Metrics that Matter: Security KPIs and ROI for Clients | A-STAR7_DOCTOR | [Read More](https://medium.com/p/7d3b05b9aa38) |
+| Wed, 21 May 2025 08:47:44 GMT | The Invisible Insider: How Your Cloud Provider Became the Threat | Induz Data Solutions | [Read More](https://medium.com/p/f0c8740bdebc) |
+| Wed, 21 May 2025 08:36:10 GMT | Something is changing. And that’s on me. | Cynthia Ibrahim (CybercynthicWriter) | [Read More](https://medium.com/p/72c912d0cd9e) |
 | Wed, 21 May 2025 08:19:05 GMT | The Misconfigured Magnet: How Public Buckets Exposed Millions of User Files | Iski | [Read More](https://medium.com/p/62d3ca759aa0) |
 | Wed, 21 May 2025 08:18:53 GMT | The SOC Team: Who Does What and How They Work Together | SecureSlate | [Read More](https://medium.com/p/dc08ac9d8da9) |
 | Wed, 21 May 2025 08:17:57 GMT | Automating GitHub configuration using Terraform | Infralovers GmbH | [Read More](https://medium.com/p/7896cb9f2999) |
@@ -111,6 +114,3 @@ Recent zero-day vulnerabilities have been… | Defeu James | [Read More](https:/
 | Wed, 21 May 2025 01:31:32 GMT | HTB Solution: SMTP | Nabin Saru | [Read More](https://medium.com/p/7972e318dd0f) |
 | Wed, 21 May 2025 01:29:26 GMT | How I Earned my Second Bounty of €2000 by Discovering an Authorization Bypass Vulnerability in a… | Risky | [Read More](https://medium.com/p/8b20570004d8) |
 | Wed, 21 May 2025 01:25:03 GMT | THM — Incident Handing with Splunk | Shamar Isaac | [Read More](https://medium.com/p/cda32a8b17a9) |
-| Wed, 21 May 2025 01:23:39 GMT | $2,400 in 60 Minutes: Hacking a Management Backend by Tweaking a Single Response Packet | Invik | [Read More](https://medium.com/p/368daffa75f7) |
-| Wed, 21 May 2025 01:20:18 GMT | Catatan Tentang Linux | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/a116f7abb4d9) |
-| Wed, 21 May 2025 01:00:33 GMT | Active Directory Penetration Testing : Initial Access Part 1 | Pepetsej#Gv@rd10l | [Read More](https://medium.com/p/827689e9bd89) |
