@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 15:20:21 GMT | Teknik Optimasi Query dalam Basis Data SQL | fijrisalwa | [Read More](https://medium.com/p/f316dff5896a) |
+| Wed, 21 May 2025 15:16:47 GMT | How Data Science is Changing the IT Landscape | Tasktech Recruiters | [Read More](https://medium.com/p/eac51d7cddb2) |
+| Wed, 21 May 2025 15:10:08 GMT | TryHackMe - AD: Basic Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/bd77492c0217) |
+| Wed, 21 May 2025 15:08:57 GMT | Zeek Exercises(THM) | Wajidmir | [Read More](https://medium.com/p/d956a637dc57) |
+| Wed, 21 May 2025 15:08:06 GMT | I’ll Eliminate 73% of Your Cyber Risk in One Post. | Gregg Westgate | [Read More](https://medium.com/p/327cf944eae7) |
+| Wed, 21 May 2025 15:05:10 GMT | Day 42: Network Topologies and DMZs: Building Smarter, Safer, and More Scalable Networks | Agarwaldaksh | [Read More](https://medium.com/p/80c8bea3e483) |
+| Wed, 21 May 2025 15:03:52 GMT | ️ 10 Security Scans You Can Automate with Shell Scripts | Devops Trainer | [Read More](https://medium.com/p/48e1dd5c7df4) |
+| Wed, 21 May 2025 15:03:31 GMT | Day 8: Building the Backbone: Policies, Standards, Procedures, Guidelines & Baselines | Brittney Ginther | [Read More](https://medium.com/p/694dc54949c6) |
+| Wed, 21 May 2025 14:49:03 GMT | The Cybersecurity Paradox: Why We’re Falling Behind While Standing Still | Eric Zietlow | [Read More](https://medium.com/p/707838a51c35) |
+| Wed, 21 May 2025 14:47:04 GMT | When I Broke Open | Lamis Ismail | [Read More](https://medium.com/p/8737a0de1db5) |
+| Wed, 21 May 2025 14:45:12 GMT | Reparenting Myself in My 20s Is the Hardest, Best Thing I’ve Done | Adam Craig | [Read More](https://medium.com/p/c02c3de6de26) |
+| Wed, 21 May 2025 14:45:06 GMT | Symphony of the Depths: How Artificial Intelligence Can Monitor the Security of Oceanic Optical… | Kirill - AI Solutions for High-Tech | [Read More](https://medium.com/p/a23bee521d22) |
+| Wed, 21 May 2025 14:43:43 GMT | Nessus Essentials Scan Types: A Newbie’s Guide to Smarter Vulnerability Assessment | Md. Shefayer Ahmed | [Read More](https://medium.com/p/5dae11d28974) |
 | Wed, 21 May 2025 14:34:01 GMT | Lost Your Mobile? Do This to Get It ASAP | Riya Sundar | [Read More](https://medium.com/p/d5ceda982b95) |
 | Wed, 21 May 2025 14:32:18 GMT | Merhabalar, bu yazımda sizlere SSTI(Server Side Template Injection) ve CSTI(Client Side Template… | Arif Tansel | [Read More](https://medium.com/p/a98d4944ab25) |
 | Wed, 21 May 2025 14:28:59 GMT | MarsSnake Malware: UnsolicitedBooker’s Multi-Year Cyber Espionage Campaign Against Saudi Arabia | TheReviewHive | [Read More](https://medium.com/p/3293105ddb9d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 10:19:03 GMT | 9 Free Tools to Scan Your WordPress Site for Vulnerabilities | Kate Bennett | [Read More](https://medium.com/p/2a10ab789ec2) |
 | Wed, 21 May 2025 10:09:50 GMT | Welcome to Complex-ish | Kristin Dahl | [Read More](https://medium.com/p/5984ace7892f) |
 | Wed, 21 May 2025 10:08:44 GMT | Big Tech Is Lying to You About Data Privacy | Tech In Focus | [Read More](https://medium.com/p/cab980579ac4) |
-| Wed, 21 May 2025 10:07:39 GMT | What Happens When You Mix Art and Cybersecurity? | Iverson Anchundia Parrales | [Read More](https://medium.com/p/5d5c26ec5ee7) |
-| Wed, 21 May 2025 10:06:33 GMT | Best Online Ethical Hacking Course in India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/bb9d5c6f1ef2) |
-| Wed, 21 May 2025 10:04:13 GMT | Honeypots in Web Forms: Smart Spam Protection Without Compromising UX | Kartheek Desineedi | [Read More](https://medium.com/p/2f62cf0f6f41) |
-| Wed, 21 May 2025 10:03:21 GMT | India’s Maritime Doctrine: More Than Just Waves, It’s a Tsunami of Responsibility | Aishik Dutta | [Read More](https://medium.com/p/59e50cdee990) |
-| Wed, 21 May 2025 10:02:35 GMT | Why Startups Still Get Hacked | Solo Recon | [Read More](https://medium.com/p/47c71a5ecd12) |
-| Wed, 21 May 2025 10:01:26 GMT | The Hidden Hero of Software Success: Inside EDSPL’s Unmatched Testing & QA Framework | saurabh cyberinfomines | [Read More](https://medium.com/p/58c37e9bd351) |
-| Wed, 21 May 2025 09:53:53 GMT | BÖLÜM 5 BÖCEK | Bugra Dönmez | [Read More](https://medium.com/p/a0ae42372673) |
-| Wed, 21 May 2025 09:52:38 GMT | Sysinternals Process Araçları: Derinlemesine İnceleme | Tuğrul Kılıç | [Read More](https://medium.com/p/bb4bfc53678a) |
-| Wed, 21 May 2025 09:51:26 GMT | Hunting for Web Cache Deception Vulnerabilities with a Custom Bash Script | cyberjson | [Read More](https://medium.com/p/a52d2f8fd722) |
-| Wed, 21 May 2025 09:48:27 GMT | Unveiling the Next Wave of Cyber Threats: New Attack Techniques in the Picus Red Report 2025 | Yasin Kalli | [Read More](https://medium.com/p/a427b22e032e) |
-| Wed, 21 May 2025 09:45:40 GMT | Defending Against Prompt Injections | Udit | [Read More](https://medium.com/p/e778a306e398) |
-| Wed, 21 May 2025 09:44:55 GMT | How Secure are Solana Smart Contracts? | Cyberscope | [Read More](https://medium.com/p/cbbc12be5aad) |
-| Wed, 21 May 2025 09:43:43 GMT | Cyber Security Course in India | Sayoojforwork | [Read More](https://medium.com/p/769706375d7d) |
