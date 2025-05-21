@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 16:49:38 GMT | Enterprise-ready LLM Gateway with Apache APISIX (Part 2) | Lucasberlang | [Read More](https://medium.com/p/bd796db06340) |
+| Wed, 21 May 2025 16:47:33 GMT | ️ Simulating Ransomware Attacks to Strengthen Cyber Defense | Sebastian Kandler | [Read More](https://medium.com/p/0bbec24c32b9) |
+| Wed, 21 May 2025 16:38:52 GMT | 7 Key Challenges in Modern SOC Teams (+ AI Automation Solutions) | Simbian Ai | [Read More](https://medium.com/p/8c3eb72062de) |
+| Wed, 21 May 2025 16:31:09 GMT | Insider Threat — Quantifying Human Risk for Data Security with Polymer | Zack Pediay | [Read More](https://medium.com/p/47b22b8e287a) |
+| Wed, 21 May 2025 16:27:25 GMT | Types of Investigations | Igor Berner | [Read More](https://medium.com/p/59ad264fde05) |
+| Wed, 21 May 2025 16:27:15 GMT | Quantum Computing and Encryption Breakthroughs in 2025: A New Era of Innovation | QuantumGenie | [Read More](https://medium.com/p/fc5c3ede27f6) |
+| Wed, 21 May 2025 16:25:38 GMT | Why Smart Internet and Cybersecurity Solutions Are Essential for Small Business Success | Defend My Business | [Read More](https://medium.com/p/d7dcc324675b) |
+| Wed, 21 May 2025 16:17:15 GMT | The True Cost: Understanding Losses from Malicious Threats | SafeAeon Inc. | [Read More](https://medium.com/p/9b73de8fdb3f) |
 | Wed, 21 May 2025 16:15:57 GMT | Extraviado - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/87430e45078e) |
 | Wed, 21 May 2025 16:12:03 GMT | How To Spot Data Exfiltration Using AWS Cost Anomaly Detection | Teri Radichel | [Read More](https://medium.com/p/e3635f1c3aa2) |
 | Wed, 21 May 2025 16:11:06 GMT | The Needless Pain of Silent Sufferers | Mukundarajan V N | [Read More](https://medium.com/p/a6f2b86a96aa) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 11:27:16 GMT | Security Keys: The Unbreakable Defense Against Phishing | Karl Buhl | [Read More](https://medium.com/p/c090d01c85fa) |
 | Wed, 21 May 2025 11:25:10 GMT | Optimizing Websites, Exploring BigCommerce & Git Tools | Ketan Patel | [Read More](https://medium.com/p/0be25832cf59) |
 | Wed, 21 May 2025 11:24:30 GMT | Why You Should Never Reuse Passwords — and What to Do Instead | Ewyatt | [Read More](https://medium.com/p/887e19eaf5c5) |
-| Wed, 21 May 2025 11:21:40 GMT | Get Started with the Best Linux Course for Beginners in Lahore | cyberwingITSolution | [Read More](https://medium.com/p/af9c382b8768) |
-| Wed, 21 May 2025 11:16:28 GMT | Locking Down Security Info Changes: How Conditional Access Keeps Attackers Out | Oludolamu Onimole | [Read More](https://medium.com/p/fa169577186d) |
-| Wed, 21 May 2025 11:14:03 GMT | AI Penetration Testing Course in Delhi | Crawsec | [Read More](https://medium.com/p/3f145bb680a0) |
-| Wed, 21 May 2025 11:07:26 GMT | Name What They Fear. Set Them Free. | Andrew Campbell | [Read More](https://medium.com/p/e98f2fc952a1) |
-| Wed, 21 May 2025 11:02:26 GMT | Zero Trust Architecture: The Future of BFSI Cybersecurity | Techpartner Alliance | [Read More](https://medium.com/p/fa84c5d2c95e) |
-| Wed, 21 May 2025 11:01:44 GMT | Protecting Against Brand Impersonation Attacks with Browser Detection and Response | Engineering @ SquareX | [Read More](https://medium.com/p/ba65ab8661a3) |
-| Wed, 21 May 2025 11:01:41 GMT | How Cellcom Turned a Cyberattack Into a Case Study in Resilience | TheReviewHive | [Read More](https://medium.com/p/cf7b83c9ce8d) |
-| Wed, 21 May 2025 11:01:40 GMT | Third-Party Updates: The Overlooked Cybersecurity Shield | Easy2Patch | [Read More](https://medium.com/p/e3092eec8ac7) |
