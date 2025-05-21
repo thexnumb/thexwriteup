@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 05:40:49 GMT | They Missed This One Tiny Parameter — I Made $500 Instantly | Abhijeet Kumawat | [Read More](https://medium.com/p/f2f7d1c1c1d9) |
+| Wed, 21 May 2025 05:31:01 GMT | What are managed security services? | James Damon | [Read More](https://medium.com/p/a7e84c237cc4) |
+| Wed, 21 May 2025 05:30:51 GMT | Building a Risk-Aware Culture: From Compliance to Ownership | Paritosh | [Read More](https://medium.com/p/ace2e09a2c21) |
+| Wed, 21 May 2025 05:28:19 GMT | Global Firewall as a Service Market Size, Share, Industry Insights, Trends, Outlook, Opportunity… | Kazuko | [Read More](https://medium.com/p/473b1fc2b80d) |
+| Wed, 21 May 2025 05:27:43 GMT | Access Control Systems and Security in Gated Communities across UAE | Tekhabeeb | [Read More](https://medium.com/p/df5037abf52b) |
+| Wed, 21 May 2025 05:19:55 GMT | Securing Kafka in Enterprise Systems | Muhammad Furqan | [Read More](https://medium.com/p/e4036b3a0f53) |
 | Wed, 21 May 2025 04:58:01 GMT | Smart Security: How AI Helps Businesses Stay Ahead of Cyber Threats | Benjaminanderson | [Read More](https://medium.com/p/13a211157fea) |
 | Wed, 21 May 2025 04:53:00 GMT | When pixels lie: how Deepfakes are haunting teen life | Eatsleepprompt | [Read More](https://medium.com/p/10be0e896a31) |
 | Wed, 21 May 2025 04:42:23 GMT | BTEC Level 2 Information Technology Systems Assignment Help | Hndassignmenthelp | [Read More](https://medium.com/p/f486c2ae27a6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 May 2025 19:03:20 GMT | SK Telecom Data Breach 27 Million Customers Affected Over 3-Year | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/8ae08ed54ce4) |
 | Tue, 20 May 2025 19:01:32 GMT | A Security Review of Wireless CarPlay Devices | 0x32-dev | [Read More](https://medium.com/p/7c365daf30ba) |
 | Tue, 20 May 2025 18:58:15 GMT | Tried to book a meal, instead I found a RAT | 0x32-dev | [Read More](https://medium.com/p/acaa8e612fd6) |
-| Tue, 20 May 2025 18:55:42 GMT | CCNA Cisco Port Security Configuration with IP Spoofing Test (Step-by-Step Guide) | "CyberGuard: Malware and Vulnerabilities Analysis" | [Read More](https://medium.com/p/bddf5d5d857a) |
-| Tue, 20 May 2025 18:54:04 GMT | Uploaded, Decoded, Exploited! | Tomer Wetzler | [Read More](https://medium.com/p/a02f9c803d4b) |
-| Tue, 20 May 2025 18:50:46 GMT | Top 3 Benefits of Cyber Incident Response Training | IT_Engineer | [Read More](https://medium.com/p/63442718c2eb) |
-| Tue, 20 May 2025 18:47:11 GMT | Why Small Businesses are Now Prime Targets for Hackers | All in One security | [Read More](https://medium.com/p/a8581a225e24) |
-| Tue, 20 May 2025 18:46:09 GMT | Where do clouds come from !? | Jree Jrom | [Read More](https://medium.com/p/278127460a91) |
-| Tue, 20 May 2025 18:45:24 GMT | Part 1 — Building a Cybersecurity Awareness Program: Using the Proofpoint Approach as Your Guide | Khalil Z. | [Read More](https://medium.com/p/947bf2ad7ab4) |
