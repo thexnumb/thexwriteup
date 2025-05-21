@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 May 2025 22:40:36 GMT | Ripple’s xrpl.js npm Package Was Backdoored: Here’s How Private Keys Were Stolen | Cyber-AppSec | [Read More](https://medium.com/p/83208afca1f8) |
+| Wed, 21 May 2025 22:36:44 GMT | Cyber Chat: Page Glave | Ryan G. Cox | [Read More](https://medium.com/p/b3891c209dc0) |
+| Wed, 21 May 2025 22:36:20 GMT | Cybersecurity Graduate Speaker Reiterates the Need for Cyber Leaders | Berkeley I School | [Read More](https://medium.com/p/566c964ff7e7) |
+| Wed, 21 May 2025 22:31:32 GMT | What I Check First When a Linux Server Starts Acting Suspicious | Faruk Ahmed | [Read More](https://medium.com/p/5bce6b46f0c9) |
+| Wed, 21 May 2025 22:31:23 GMT | Yes — For the First Two Minutes of Every Incident, I Panic | Lee Barney | [Read More](https://medium.com/p/7bec10053cbb) |
+| Wed, 21 May 2025 22:27:28 GMT | VPN gratuits : Quand la gratuité cache un prix inacceptable | Larbi OUIYZME | [Read More](https://medium.com/p/5c7c81f6de77) |
+| Wed, 21 May 2025 22:16:32 GMT | Essential Networking Terminologies: A Beginner’s Guide to Understanding Network Fundamentals | Karthikeyan Nagaraj | [Read More](https://medium.com/p/20014aa38d6e) |
 | Wed, 21 May 2025 22:07:58 GMT | The new priority of “security patch”: Inside the new metric created by CISA and NIST — ‘Likely… | ISHII (石井) | [Read More](https://medium.com/p/0544bdc9cf4a) |
+| Wed, 21 May 2025 22:07:23 GMT | Stop the Insanity: Rethinking Medical Device Product Cybersecurity Before Your Teams Burn Out | Stacey | [Read More](https://medium.com/p/20fd2fb7d747) |
+| Wed, 21 May 2025 22:07:20 GMT | Silgan Containers Data Breach: Potential Claims in California | LegalNewsbyDave | [Read More](https://medium.com/p/b8f4f852f75c) |
 | Wed, 21 May 2025 21:52:31 GMT | 5 Signs You’re Already Under Attack and Don’t Know It Yet | Bits Kingdom | [Read More](https://medium.com/p/7ff691f779bb) |
 | Wed, 21 May 2025 21:48:32 GMT | noise drum | Nidhi Shah | [Read More](https://medium.com/p/65db77eb48d4) |
 | Wed, 21 May 2025 21:46:50 GMT | AD: Basic Enumeration TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/8344b77524b4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 16:06:27 GMT | I Am Addicted to Envy | Charleston Li | [Read More](https://medium.com/p/d73fd4b1dfe2) |
 | Wed, 21 May 2025 16:06:11 GMT | Water & Oil | Lord Telema Westwood | [Read More](https://medium.com/p/7f6a1df21041) |
 | Wed, 21 May 2025 16:01:20 GMT | Automated Penetration Testing: A Smarter Way to Stay One Step Ahead of Hackers | SafeAeon Inc. | [Read More](https://medium.com/p/c87e8c1ac17c) |
-| Wed, 21 May 2025 15:59:03 GMT | Investing in the Future of Work: Why Scalable, Agnostic Digital Transformation Platforms Like… | Hussein Abdelwahab | [Read More](https://medium.com/p/cfb01462b142) |
-| Wed, 21 May 2025 15:55:10 GMT | 100+ Fake Chrome Extensions Found Hacking Their Users | Cybersectoworld | [Read More](https://medium.com/p/1be37b479b10) |
-| Wed, 21 May 2025 15:50:28 GMT | Securing Your Laravel Application: Best Practices to Keep Hackers at Bay | Alhassan Mohammed | [Read More](https://medium.com/p/cfc40bf84138) |
-| Wed, 21 May 2025 15:49:45 GMT | Digital Forensics & The Rules of Evidence | Igor Berner | [Read More](https://medium.com/p/49e1f0ab3362) |
-| Wed, 21 May 2025 15:46:00 GMT | What Is an IT Roadmap? And Why Every SMB Needs One | Surge Solutions | [Read More](https://medium.com/p/1c3a12bb5659) |
-| Wed, 21 May 2025 15:45:50 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/39db0f37d143) |
-| Wed, 21 May 2025 15:42:01 GMT | XSS REFLECTED (MEDIUM) | zukhruf gustdika | [Read More](https://medium.com/p/ac5327733c86) |
-| Wed, 21 May 2025 15:35:28 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/bacca1075936) |
-| Wed, 21 May 2025 15:32:41 GMT | Why Microsoft Purview Might Be the Most Overlooked Security Tool in Your Microsoft 365 Stack | Algonym | [Read More](https://medium.com/p/2c90afc98b80) |
