@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 09:17:50 GMT | The Hidden Costs of GRC Silos — And Why It’s Time to Break Them Down | COMPASS | [Read More](https://medium.com/p/7e835271b671) |
+| Thu, 22 May 2025 09:17:13 GMT | Choosing the Right Security and Compliance Structure for GRC | Consulting4sec | [Read More](https://medium.com/p/0a4d9444fa12) |
+| Thu, 22 May 2025 09:12:35 GMT | Do you agree that Ukraine’s city of Kyiv is relatively well protected from missile strikes with air… | Kit Wren | [Read More](https://medium.com/p/d263e5c88131) |
+| Thu, 22 May 2025 09:09:44 GMT | Command and Control & Tunnelling via ICMP | Gopu Nair | [Read More](https://medium.com/p/ad15f8afd233) |
+| Thu, 22 May 2025 09:08:38 GMT | Field Enumeration to Full Account Takeover with NoSQL Injection | Aditya Bhatt | [Read More](https://medium.com/p/3de639d42f42) |
+| Thu, 22 May 2025 09:06:01 GMT | Cybersecurity Vulnerabilities in PDF Files: Exploitation Techniques and Defenses | Victor Kushnir | [Read More](https://medium.com/p/9e5603ea2767) |
+| Thu, 22 May 2025 09:02:41 GMT | How to Share Safely on Notion: A Practical Guide | Bricec | [Read More](https://medium.com/p/fd160d8386af) |
+| Thu, 22 May 2025 09:02:09 GMT | The Indictment That Cannot Be: Cryptographic Aesthetics and the Logic of Preemption | Alex Li | [Read More](https://medium.com/p/0b56ad3178dc) |
+| Thu, 22 May 2025 08:58:40 GMT | The Scam That Changed Her Life: Cybersecurity Lessons the Hard Way | Onyinyechi Norman-Roberts | [Read More](https://medium.com/p/53c6dba72811) |
+| Thu, 22 May 2025 08:57:58 GMT | Kashyap Divyansh – The 19-Year-Old Cybersecurity Visionary Behind GDG VAPT, | Divyansh Kashyap | [Read More](https://medium.com/p/75606dafe5fe) |
+| Thu, 22 May 2025 08:46:26 GMT | What we can learn from CIA about HUMINT, cyber and tech innovation? | Martin Abramov | [Read More](https://medium.com/p/8602d8955ed3) |
 | Thu, 22 May 2025 08:39:30 GMT | WordPress Security & Optimization | Adnan | [Read More](https://medium.com/p/9199e3e457f9) |
 | Thu, 22 May 2025 08:38:53 GMT | Grafana CVE-2025–4123: Full Read SSRF & Account Takeover | Alvaro Balada | [Read More](https://medium.com/p/d12abd13cd53) |
 | Thu, 22 May 2025 08:35:14 GMT | Why Implement NFC for Security: From Access Control to Authenticity Verification | ShirleyLiu_RFIDTag | [Read More](https://medium.com/p/7df8d55aa615) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 01:48:21 GMT | The Impact of Family Neglect on Homeless Youth and Their Vulnerability to Abuse | Abuse Refuge Org | [Read More](https://medium.com/p/4eb4e5e74f61) |
 | Thu, 22 May 2025 01:43:31 GMT | The Fear of Being Seen Makes Some Men Master Pretenders | LSD | [Read More](https://medium.com/p/b4e3eb0206fd) |
 | Thu, 22 May 2025 01:39:48 GMT | CRA（Cyber Resilience Act）対応は、日本の製造業の新たな経営課題である | Shige Tanimoto | [Read More](https://medium.com/p/776fbfc665d9) |
-| Thu, 22 May 2025 01:32:25 GMT | Weighing Our Chances | Nature's Wild Berry | [Read More](https://medium.com/p/2420b08e5eed) |
-| Thu, 22 May 2025 01:22:41 GMT | Invaders Didn’t Just Steal My Possessions — They Stole My Sense of Security | Wild Wombat | [Read More](https://medium.com/p/6af95b5c2c14) |
-| Thu, 22 May 2025 01:12:43 GMT | Enterprise Attack Surface Management for Consultants: A Modern Blueprint for Digital Risk Discovery | A-STAR7_DOCTOR | [Read More](https://medium.com/p/6ac7901aea94) |
-| Thu, 22 May 2025 01:04:02 GMT | Cybersecurity Due Diligence in Tech Investment: The Silent Risk That Can Sink a Billion-Dollar Deal | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ced9ff360004) |
-| Thu, 22 May 2025 00:46:26 GMT | Getting Locked Out of My House Was the Best Hacking Lesson of My Life | Alex Grande | [Read More](https://medium.com/p/9df4e4098094) |
-| Thu, 22 May 2025 00:43:21 GMT | The Role of Smart Contracts in CryptoXpress Services | Devbradon | [Read More](https://medium.com/p/bf26a1e1dbbc) |
-| Thu, 22 May 2025 00:41:14 GMT | Balancing a Master’s, ERP Chaos, and a Career…and Coming Out Stronger | Ashley Brantner | [Read More](https://medium.com/p/b8af005ccb4a) |
-| Thu, 22 May 2025 00:26:17 GMT | Steering Your Generative AI: A Guide to Amazon Bedrock Guardrails | James Wynne | [Read More](https://medium.com/p/afd0e125dd88) |
-| Thu, 22 May 2025 00:24:16 GMT | El verdadero costo de olvidar las contraseñas | Tiziano Mass | [Read More](https://medium.com/p/faeaf3433421) |
-| Wed, 21 May 2025 23:54:08 GMT | Current Cybersecurity Trends in 2025: What Businesses Must Know | Cullensam | [Read More](https://medium.com/p/2749b1642644) |
-| Wed, 21 May 2025 23:53:24 GMT | Choose the Best Cybersecurity Services in Noida to Protect Your Company’s Digital Assets and… | Aman Wish geeks techserve | [Read More](https://medium.com/p/835c22650a1c) |
