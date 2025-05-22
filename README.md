@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 21:24:08 GMT | AI-assisted hacking with JetBrains Junie: Reconnaissance & Subdomain enumeration | Dmitry Protsenko | [Read More](https://medium.com/p/80a02bbe9f01) |
+| Thu, 22 May 2025 21:22:01 GMT | Rethinking the Architecture of Trust | Danu Vino | [Read More](https://medium.com/p/65e857d1d5dc) |
+| Thu, 22 May 2025 21:21:00 GMT | How to Stop Cyberbullying Before it Happens | Savvy Cyber Kids | [Read More](https://medium.com/p/dcdd8e21622b) |
+| Thu, 22 May 2025 21:16:40 GMT | Can I stop/block strangers speaking to my child and just allow friends on online games? | Savvy Cyber Kids | [Read More](https://medium.com/p/b8b10444a6a0) |
+| Thu, 22 May 2025 21:15:09 GMT | Unlocking Hidden Web Paths: How Ethical Hackers Use xnLinkFinder to Discover Easy Bugs | Chintala Taraka Ram | [Read More](https://medium.com/p/aae02c8716b9) |
+| Thu, 22 May 2025 21:14:58 GMT | The Pros and Cons of Sharing Your Online Passwords | Savvy Cyber Kids | [Read More](https://medium.com/p/485cd5f14519) |
+| Thu, 22 May 2025 21:14:35 GMT | Cookies Aren’t Just Snacks! | Your's Nightmare | [Read More](https://medium.com/p/d1ef1b851314) |
+| Thu, 22 May 2025 21:13:04 GMT | Downloaded a Fake App? Your Data’s Already Gone! | Your's Nightmare | [Read More](https://medium.com/p/e101a47d297b) |
+| Thu, 22 May 2025 21:12:50 GMT | AI in the Wrong Hands And We’re Not Prepared! | Your's Nightmare | [Read More](https://medium.com/p/b3498c8b6c9b) |
 | Thu, 22 May 2025 21:06:25 GMT | Don’t Be an Easy Target: 10 Home Security Mistakes I Realized We’re All Probably Making (Even in… | B Painex | [Read More](https://medium.com/p/2c6b3bf6f4ef) |
 | Thu, 22 May 2025 20:54:48 GMT | How to train employees on cybersecurity _ even if they are not tech savvy | fatima shahbaz | [Read More](https://medium.com/p/9d44579fa6d3) |
 | Thu, 22 May 2025 20:51:13 GMT | ETW Event Injection via Guard Pages | S12 - H4CK | [Read More](https://medium.com/p/1345f3e5b271) |
@@ -28,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 19:54:14 GMT | From AI-net to AI-threats: The Hidden Dangers Behind the Tools We Trust | Visoot Soisang | [Read More](https://medium.com/p/ccc1bda057da) |
 | Thu, 22 May 2025 19:32:45 GMT | What Is Brand Protection? How It Powers Enterprise Digital Risk Protection | ThreatWatch360 | [Read More](https://medium.com/p/4c228325b0f5) |
 | Thu, 22 May 2025 19:32:34 GMT | Serenity in a loud World: A tribute to the Quiet ones | Khadija Ben Farhat | [Read More](https://medium.com/p/797a72802aa2) |
+| Thu, 22 May 2025 19:15:30 GMT | I’m not complaining… I’m just sharing | Angëlo | [Read More](https://medium.com/p/e27b649732f4) |
 | Thu, 22 May 2025 18:59:07 GMT | Security Company in London: Trusted Security Services for Your Safety | Renceromen | [Read More](https://medium.com/p/14da1fba77b1) |
 | Thu, 22 May 2025 18:54:18 GMT | Data Sovereignty vs. Data Residency: Why the Distinction Matters More Than Ever | Juan Pablo Castro | [Read More](https://medium.com/p/ed7c18cc5e9e) |
 | Thu, 22 May 2025 18:53:42 GMT | Understanding the Scam Tactic Chain: How Scammers Think — and Why It Works | BlueBirdIntel | [Read More](https://medium.com/p/eaad08b2f620) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 15:28:54 GMT | Earn More with ChainBounty $BOUNTY by following this step-by-step guide. | BOUNTY | [Read More](https://medium.com/p/1534dba1d29d) |
 | Thu, 22 May 2025 15:26:58 GMT | What is the Best Firewall for Home Use in the USA? | Jazz Cyber Shield | [Read More](https://medium.com/p/8717fea5612c) |
 | Thu, 22 May 2025 15:26:14 GMT | Chinese Hackers Breach U.S. Local Governments via Trimble Cityworks Zero-Day Exploit | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/e47a9b1e98bc) |
-| Thu, 22 May 2025 15:19:09 GMT | Why the CIA Triad is the Ultimate Cybersecurity Power Trio (And How It Saves Your Data) | Pavithraa Deenadayalan | [Read More](https://medium.com/p/f20c50af115b) |
-| Thu, 22 May 2025 15:16:58 GMT | Top 5 Mistakes When Trying to Geo-Locate a Photo (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/8bb47f14f6a2) |
-| Thu, 22 May 2025 15:16:55 GMT | Hacking 2025: A Pen Tester’s Take on Today’s Cybersecurity Chaos | hackerguy | [Read More](https://medium.com/p/58cfd9afe8fa) |
-| Thu, 22 May 2025 15:13:50 GMT | ️ How I Passed the eJPT Certification — Struggles, Strategy & Real Talk | S3N5E | [Read More](https://medium.com/p/390c71bee8bc) |
-| Thu, 22 May 2025 15:11:16 GMT | What is Java program? | Hari | [Read More](https://medium.com/p/e46c3e91313b) |
-| Thu, 22 May 2025 15:05:37 GMT | Investment and Security Analysis Report on Avalanche DeFi Platforms | martin yeung | [Read More](https://medium.com/p/5bc09472d693) |
-| Thu, 22 May 2025 15:03:19 GMT | Agilus Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/fc527ecda03b) |
-| Thu, 22 May 2025 15:02:34 GMT | Crianças em Perigo nas Redes Sociais | PovCast | [Read More](https://medium.com/p/1bd8c20fc80e) |
-| Thu, 22 May 2025 15:00:10 GMT | Defensive Cybersecurity as Told by Viagra | JimbosLab | [Read More](https://medium.com/p/4b5e1f1cb17e) |
-| Thu, 22 May 2025 14:56:16 GMT | No Password, No Problem: Account Takeover via Cleverly Placed XSS — Here’s How I Earned $$$ | THE_DARK_KNIGHT | [Read More](https://medium.com/p/33ac75c72cb4) |
