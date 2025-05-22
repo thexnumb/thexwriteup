@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 10:33:38 GMT | Ultimate Guide to Palo Alto Networks XDR Engineer Exam Preparation (2025) | Skillcertexams | [Read More](https://medium.com/p/1b6e994dc429) |
+| Thu, 22 May 2025 10:31:33 GMT | Increase Your ChainBounty $BOUNTY Rewards in 2025 | BOUNTY | [Read More](https://medium.com/p/ee716575f62a) |
+| Thu, 22 May 2025 10:28:37 GMT | Rise of AI in Security Operations Centers (SOC) | InfosecTrain | [Read More](https://medium.com/p/ece90fcc6d42) |
 | Thu, 22 May 2025 10:20:56 GMT | Alterx Subdomain Wordlist Generator | AbhirupKonwar | [Read More](https://medium.com/p/2050f4407beb) |
 | Thu, 22 May 2025 10:20:05 GMT | Development to Deployment: The EDSPL Way of Delivering End-to-End Technology Services | saurabh cyberinfomines | [Read More](https://medium.com/p/303a077ccca3) |
 | Thu, 22 May 2025 10:19:20 GMT | ADB Commands for Android Pentester | Rishav anand | [Read More](https://medium.com/p/3cfde8c39d8b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 04:35:57 GMT | Transforming Concepts into High-Quality Mobile Apps with Inspite Technologies | Swethainspite | [Read More](https://medium.com/p/423d08b36b1f) |
 | Thu, 22 May 2025 04:34:58 GMT | How RPA Can Cut Your Workflow Time in Half | Radium Ai | [Read More](https://medium.com/p/e5a7fcc213ec) |
 | Thu, 22 May 2025 04:29:01 GMT | Customized Mobile App Development Services That Transform Your Vision into Reality | Swethainspite | [Read More](https://medium.com/p/2b85e538b71b) |
-| Thu, 22 May 2025 04:24:30 GMT | Incident Response Planning for Media and Entertainment: A Step-by-Step Guide for Filipino… | Joseph Desmond Cruel | [Read More](https://medium.com/p/e2514e7e9863) |
-| Thu, 22 May 2025 04:20:19 GMT | What is Automated Incident Response? | Priyansha Madhwal | [Read More](https://medium.com/p/7a3aa0059330) |
-| Thu, 22 May 2025 04:18:37 GMT | Detected Suspicious Xls File - Letsdefined | Arshad Hossain | [Read More](https://medium.com/p/14b0fea38499) |
