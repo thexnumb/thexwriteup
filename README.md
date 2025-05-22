@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 18:43:25 GMT | Your Antivirus Won’t Save You From This 2025 Malware | Noel | [Read More](https://medium.com/p/db88e541b9ea) |
+| Thu, 22 May 2025 18:43:08 GMT | $7,500 Bounty — XSS → RCE in Steam’s React Chat Client | Monika sharma | [Read More](https://medium.com/p/1394aaecaec4) |
+| Thu, 22 May 2025 18:39:46 GMT | Why Your Business Needs Expert Cisco Support in 2025 | IT_Engineer | [Read More](https://medium.com/p/d5a87c103cdc) |
+| Thu, 22 May 2025 18:39:24 GMT | Case Study #01: How Combining XSS and Misconfigured Cookies Led to Session Hijacking | Jakub Święs | [Read More](https://medium.com/p/b031d7426e2f) |
+| Thu, 22 May 2025 18:32:33 GMT | “Free VPNs Are Free for a Reason — Here’s What You’re Actually Giving Up” | Vexpoltech | [Read More](https://medium.com/p/8e12d00082d4) |
+| Thu, 22 May 2025 18:32:33 GMT | Common WordPress Permissions Mistakes That Hackers Exploit | Shubradeb | [Read More](https://medium.com/p/16665e92b153) |
+| Thu, 22 May 2025 18:30:54 GMT | Proving Grounds Play: Dawn Walkthrough | Ancava | [Read More](https://medium.com/p/df8a54b803fb) |
+| Thu, 22 May 2025 18:25:12 GMT | Cheyanne Mallas: Building the Future of Secure Digital Transformation | Cheyannemallaspa | [Read More](https://medium.com/p/f9208d3203ce) |
+| Thu, 22 May 2025 18:24:40 GMT | EvilUSB PIN Brute-Force Tool Using Digispark | Im0nk3yar0und | [Read More](https://medium.com/p/d33be808ab28) |
+| Thu, 22 May 2025 18:23:42 GMT | Apple is definitely gearing up for an iPhone Ultra | Osama Khan | [Read More](https://medium.com/p/67cd9ca31e5a) |
+| Thu, 22 May 2025 18:16:52 GMT | Splunk 3, Task 5 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/b9e088df36f0) |
 | Thu, 22 May 2025 18:12:53 GMT | The 6 Best Private Proxy Services of 2025 | Oneplusafrica | [Read More](https://medium.com/p/16889943e3b3) |
 | Thu, 22 May 2025 18:11:12 GMT | What the Insurance Industry Just Learned from SimpleFix.AI | Quantum Squint Research Dept. | [Read More](https://medium.com/p/c5347ce717dd) |
 | Thu, 22 May 2025 18:05:07 GMT | Why reporting an #issue or #bug should be (as similar as possible) like going to the Doctor | Isabel Portella | [Read More](https://medium.com/p/8868fa939a50) |
@@ -102,14 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 14:17:04 GMT | Using Threat Intelligence to Implement Proactive Cyber Defense | Cloud4C Services | [Read More](https://medium.com/p/8b6589792b3f) |
 | Thu, 22 May 2025 14:09:40 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/e43f76dc0c60) |
 | Thu, 22 May 2025 14:05:48 GMT | QIC Tech Meetup → Yerevan on June 4 | QIC digital hub | [Read More](https://medium.com/p/6a930f69b435) |
-| Thu, 22 May 2025 14:03:12 GMT | Get Expert Help in Cybersecurity and IT Assignments | Electrical Engineering Dissertation Writing | [Read More](https://medium.com/p/ec82446e51f4) |
-| Thu, 22 May 2025 14:00:28 GMT | Cyber Briefing: 2025.05.22 | CyberMaterial | [Read More](https://medium.com/p/63a6875b724f) |
-| Thu, 22 May 2025 13:55:45 GMT | Sicherheitslösungen der nächsten Generation | Presslink Media | [Read More](https://medium.com/p/e452bff74692) |
-| Thu, 22 May 2025 13:52:01 GMT | ️My Top 7 Mistakes as a New Bug Hunter (And How to Avoid Them) | Abhijeet Kumawat | [Read More](https://medium.com/p/e5c31292980b) |
-| Thu, 22 May 2025 13:48:57 GMT | Lumma Stealer: The Sneaky Malware That Can Hack Your Computer in Seconds, Warns Microsoft | AKS | [Read More](https://medium.com/p/67d824ef656b) |
-| Thu, 22 May 2025 13:48:54 GMT | Here’s How I Recover My Money From Optimal Traders | Jesse Honey | [Read More](https://medium.com/p/3d0cac48dcce) |
-| Thu, 22 May 2025 13:47:15 GMT | My Bug Bounty Checklists 2025 | 40sp3l | [Read More](https://medium.com/p/e8b5c82f9442) |
-| Thu, 22 May 2025 13:46:59 GMT | Geopolitics Review Extra — 22nd May 2025 | Geopolitics Explained | [Read More](https://medium.com/p/b1d1ceafaee3) |
-| Thu, 22 May 2025 13:46:17 GMT | Optimal Traders Review 2025 | Jesse Honey | [Read More](https://medium.com/p/0a1875e21d1e) |
-| Thu, 22 May 2025 13:42:31 GMT | Assessment Methodologies: Footprinting and Scanning CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/91ea94108273) |
-| Thu, 22 May 2025 13:39:44 GMT | SQL Injection Unfolded: Extracting Table and Column Data from DVWA. | eL Njas!™ | [Read More](https://medium.com/p/f3a0ab7db52a) |
