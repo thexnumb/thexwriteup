@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 23:14:05 GMT | Life as an ISSO in Federal Contracting: Emails, Acronyms, and Eternal ATOs | Richiewilder | [Read More](https://medium.com/p/a5ab9e734dab) |
 | Thu, 22 May 2025 22:43:30 GMT | Cluster Kubernetes com Zero Trust e controle de tráfego com Calico. | Albuquerquealdry | [Read More](https://medium.com/p/97e47f15331c) |
 | Thu, 22 May 2025 22:41:51 GMT | picoCTF Writeup — Pie Time | 40Days | [Read More](https://medium.com/p/d34365b95cf0) |
 | Thu, 22 May 2025 22:35:24 GMT | The Facebook Ad That Hacked Users: How Reactive Cybersecurity Is Failing Us | Hunter Freeman | [Read More](https://medium.com/p/1592b79b1764) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 16:21:00 GMT | How TryHackMe’s Pre-Security Path Helped Me Kickstart My Cybersecurity Journey | Cyber Coder | [Read More](https://medium.com/p/a99d3b9fb4fb) |
 | Thu, 22 May 2025 16:14:04 GMT | AI Security Unlocked: A Business Leader’s Guide to Training Safe AI with Guardrails | Keith Foster | [Read More](https://medium.com/p/62a4cdc4ea3e) |
 | Thu, 22 May 2025 16:09:10 GMT | Scammers or Skimmers? Neighbors or Nigeria? | Eina Schroeder | [Read More](https://medium.com/p/34638d960099) |
-| Thu, 22 May 2025 16:06:46 GMT | ️‍♂️ “I’m Not a Robot” — The Real-World Horror of Lumma Stealer | Surya Teja | [Read More](https://medium.com/p/3cb05a2f8d1c) |
