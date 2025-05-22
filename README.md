@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 08:39:30 GMT | WordPress Security & Optimization | Adnan | [Read More](https://medium.com/p/9199e3e457f9) |
+| Thu, 22 May 2025 08:38:53 GMT | Grafana CVE-2025–4123: Full Read SSRF & Account Takeover | Alvaro Balada | [Read More](https://medium.com/p/d12abd13cd53) |
+| Thu, 22 May 2025 08:35:14 GMT | Why Implement NFC for Security: From Access Control to Authenticity Verification | ShirleyLiu_RFIDTag | [Read More](https://medium.com/p/7df8d55aa615) |
 | Thu, 22 May 2025 08:25:58 GMT | Cloudgoat Beanstalk_secrets Walkthrough (Manual) | innervision | [Read More](https://medium.com/p/facef048d357) |
 | Thu, 22 May 2025 08:23:26 GMT | I Internet midang i hman tir loh chhan tur te | Lalhming chhuanga | [Read More](https://medium.com/p/01689bab546b) |
 | Thu, 22 May 2025 08:14:11 GMT | Understanding IPMI: The Key to Remote Server Management and Its Hidden Risks | Jamal Mohamed MR | [Read More](https://medium.com/p/f27dddf34fd7) |
@@ -21,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 08:09:17 GMT | CSRF — và Double Submit Cookie Bypass | Muffinnn | [Read More](https://medium.com/p/d7e7396d0151) |
 | Thu, 22 May 2025 08:05:33 GMT | A Great Tool For Bug Hunters | loyalonlytoday | [Read More](https://medium.com/p/415ae68702e7) |
 | Thu, 22 May 2025 07:58:41 GMT | Weak Password Policy in Symfony: Risks, Code Fixes & Free Vulnerability Check | Pentest_Testing_Corp | [Read More](https://medium.com/p/a533b28e3508) |
+| Thu, 22 May 2025 07:52:33 GMT | Sertifika Sahteciliği | Taha Sarikaya | [Read More](https://medium.com/p/c5f8258424d2) |
 | Thu, 22 May 2025 07:52:24 GMT | V1 IDOR | The Cyber Ghost | [Read More](https://medium.com/p/0f7fc3f2dc0a) |
 | Thu, 22 May 2025 07:49:47 GMT | Cloud Services in Australia: Why Now Is the Time to Move Your Business to the Cloud | william smith | [Read More](https://medium.com/p/9c5fe6a275fb) |
 | Thu, 22 May 2025 07:44:34 GMT | ️ The Param That Played Me: How HTTP Parameter Pollution Unlocked Admin Secrets ️ | Iski | [Read More](https://medium.com/p/dc82626081e5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 00:24:16 GMT | El verdadero costo de olvidar las contraseñas | Tiziano Mass | [Read More](https://medium.com/p/faeaf3433421) |
 | Wed, 21 May 2025 23:54:08 GMT | Current Cybersecurity Trends in 2025: What Businesses Must Know | Cullensam | [Read More](https://medium.com/p/2749b1642644) |
 | Wed, 21 May 2025 23:53:24 GMT | Choose the Best Cybersecurity Services in Noida to Protect Your Company’s Digital Assets and… | Aman Wish geeks techserve | [Read More](https://medium.com/p/835c22650a1c) |
-| Wed, 21 May 2025 23:50:54 GMT | SQL INJECTION LEADING TO DDOS ATTACK IN PRIVATE CONQUER SERVER WEBSITE | Alkaptonurea | [Read More](https://medium.com/p/841f1cbc3958) |
-| Wed, 21 May 2025 23:11:42 GMT | Zero Tust: When “Never Trust, Always Verify” Breaks Down | Postmodern Cybersecurity | [Read More](https://medium.com/p/d789d86c4b6b) |
-| Wed, 21 May 2025 23:11:26 GMT | Hijacking ssh client to get passwords of other server | gerald amasi | [Read More](https://medium.com/p/78cbdaffa27d) |
-| Wed, 21 May 2025 22:51:20 GMT | ️ Home SOC Lab — Project-Z v1.0 | 0xZetss | [Read More](https://medium.com/p/9fa4c0f91f11) |
