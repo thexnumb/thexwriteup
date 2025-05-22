@@ -12,9 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 13:26:40 GMT | Who Can Do an Ethical Hacking Course? | The Drop Organization | [Read More](https://medium.com/p/f04831be5f5f) |
+| Thu, 22 May 2025 13:24:37 GMT | Angular Services and Dependency Injection Security Fundamentals | Herbert Moroni Gois | [Read More](https://medium.com/p/abd048461157) |
+| Thu, 22 May 2025 13:21:47 GMT | The Dangers of Weak Passwords: Real-World Breaches You Can Avoid | Ewyatt | [Read More](https://medium.com/p/1a66a03fc67d) |
+| Thu, 22 May 2025 13:19:41 GMT | Cómo Logré Recuperar Mi Dinero de InovaFunding.com | Joshua Dalgety | [Read More](https://medium.com/p/19dbe93d4bde) |
+| Thu, 22 May 2025 13:17:59 GMT | PPID Spoofing | LordShen | [Read More](https://medium.com/p/65aacc5dd28e) |
+| Thu, 22 May 2025 13:17:18 GMT | Reseña de InovaFunding.com 2025 | Joshua Dalgety | [Read More](https://medium.com/p/15a6c1d9e5ec) |
+| Thu, 22 May 2025 13:12:20 GMT | The Daily Tech Digest: 22 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4fd91e17c02c) |
+| Thu, 22 May 2025 13:05:55 GMT | Cybersecurity for Startups: Build It Safe from Day One | Cybersecurity Umbrella | [Read More](https://medium.com/p/fdc04afcfe75) |
+| Thu, 22 May 2025 13:05:09 GMT | Why Cybersecurity is Critical for Financial Institutions | Adil | [Read More](https://medium.com/p/c9639824e5fa) |
+| Thu, 22 May 2025 13:04:24 GMT | Injecting Malicious Code into PDF Files and Creating a PDF Dropper | Harze_ | [Read More](https://medium.com/p/f665a9b4cef8) |
+| Thu, 22 May 2025 13:02:18 GMT | Reseña de Finsmart 2025 | Sergio Reguilion | [Read More](https://medium.com/p/7d4e7dea07bb) |
+| Thu, 22 May 2025 13:01:31 GMT | APAC Under Siege: Key Cybersecurity Lessons from the 2025 X-Force Threat Intelligence Report | Peris.ai Cybersecurity | [Read More](https://medium.com/p/926238e1b5bd) |
+| Thu, 22 May 2025 12:59:51 GMT | Blog Post #1 — OSI Model for Beginners | KK - NetSec Simplified | [Read More](https://medium.com/p/293bfc4e633d) |
+| Thu, 22 May 2025 12:56:51 GMT | Deconstructing the Digital Heist: Understanding the Cyber Kill Chain | Hassan Bazzoun | [Read More](https://medium.com/p/363db94c7d75) |
+| Thu, 22 May 2025 12:56:21 GMT | How to Prevent SQL Injections: A Practical Guide for Developers | Lahiru Senarathna | [Read More](https://medium.com/p/4efde6bc5aa8) |
+| Thu, 22 May 2025 12:51:38 GMT | What Makes a Navi Mumbai Security Agency Stand Out | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/a7f190fc11ee) |
+| Thu, 22 May 2025 12:46:25 GMT | WHAT IS CYBER SECURITY ? | Babatunde Seun | [Read More](https://medium.com/p/b39eda86b893) |
 | Thu, 22 May 2025 12:43:02 GMT | Wireless Weapons: Turning Skycut Plotters into Physical Dangers | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/9f29e0cd357a) |
+| Thu, 22 May 2025 12:40:38 GMT | Zero-Day | Meltem Nur Gündoğdu | [Read More](https://medium.com/p/1aa361cf76c4) |
 | Thu, 22 May 2025 12:38:47 GMT | I Clicked the Link: Phishing Explained and What You Can Do About It | Shubham Pingle | [Read More](https://medium.com/p/d86d6153267e) |
 | Thu, 22 May 2025 12:38:17 GMT | Top Cybersecurity Concerns for CISOs in Q2 2025 | Yasin Kalli | [Read More](https://medium.com/p/b1a8cd64a51d) |
+| Thu, 22 May 2025 12:35:44 GMT | The Power of Ethical Hacking: Defending the Digital Frontier | Tushar Gupta | [Read More](https://medium.com/p/049f0a505245) |
 | Thu, 22 May 2025 12:31:51 GMT | 7 Cybersecurity Tips to Protect Your Data | MindHack Daily | [Read More](https://medium.com/p/582af39ec3bc) |
 | Thu, 22 May 2025 12:29:30 GMT | Op. Sindoor: Assessment and Questions | Zorawar Gill | [Read More](https://medium.com/p/0907a64750e2) |
 | Thu, 22 May 2025 12:29:16 GMT | ️ eWPTX Certification Review: Brutal, Brilliant, and Worth It | @grvbap | [Read More](https://medium.com/p/bd3ccfc6fe40) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 08:39:30 GMT | WordPress Security & Optimization | Adnan | [Read More](https://medium.com/p/9199e3e457f9) |
 | Thu, 22 May 2025 08:38:53 GMT | Grafana CVE-2025–4123: Full Read SSRF & Account Takeover | Alvaro Balada | [Read More](https://medium.com/p/d12abd13cd53) |
 | Thu, 22 May 2025 08:35:14 GMT | Why Implement NFC for Security: From Access Control to Authenticity Verification | ShirleyLiu_RFIDTag | [Read More](https://medium.com/p/7df8d55aa615) |
-| Thu, 22 May 2025 08:25:58 GMT | Cloudgoat Beanstalk_secrets Walkthrough (Manual) | innervision | [Read More](https://medium.com/p/facef048d357) |
-| Thu, 22 May 2025 08:23:26 GMT | I Internet midang i hman tir loh chhan tur te | Lalhming chhuanga | [Read More](https://medium.com/p/01689bab546b) |
-| Thu, 22 May 2025 08:14:11 GMT | Understanding IPMI: The Key to Remote Server Management and Its Hidden Risks | Jamal Mohamed MR | [Read More](https://medium.com/p/f27dddf34fd7) |
-| Thu, 22 May 2025 08:13:21 GMT | Chamundi Hill Palace Ayurvedic Resort Wins TripAdvisor Travellers’ Choice Award 2025 | Swethainspite | [Read More](https://medium.com/p/b00a9379e261) |
-| Thu, 22 May 2025 08:11:42 GMT | Scaling Application Security | Andy Pannell | [Read More](https://medium.com/p/e464165a0cbe) |
-| Thu, 22 May 2025 08:10:44 GMT | Devstral: The Open-Source AI Revolutionizing Software Development and Empowering Africa’s Tech… | Kondwani Nyirenda | [Read More](https://medium.com/p/80776fe7a00f) |
-| Thu, 22 May 2025 08:09:17 GMT | CSRF — và Double Submit Cookie Bypass | Muffinnn | [Read More](https://medium.com/p/d7e7396d0151) |
-| Thu, 22 May 2025 08:05:33 GMT | A Great Tool For Bug Hunters | loyalonlytoday | [Read More](https://medium.com/p/415ae68702e7) |
-| Thu, 22 May 2025 07:58:41 GMT | Weak Password Policy in Symfony: Risks, Code Fixes & Free Vulnerability Check | Pentest_Testing_Corp | [Read More](https://medium.com/p/a533b28e3508) |
-| Thu, 22 May 2025 07:52:33 GMT | Sertifika Sahteciliği | Taha Sarikaya | [Read More](https://medium.com/p/c5f8258424d2) |
-| Thu, 22 May 2025 07:52:24 GMT | V1 IDOR | The Cyber Ghost | [Read More](https://medium.com/p/0f7fc3f2dc0a) |
-| Thu, 22 May 2025 07:49:47 GMT | Cloud Services in Australia: Why Now Is the Time to Move Your Business to the Cloud | william smith | [Read More](https://medium.com/p/9c5fe6a275fb) |
-| Thu, 22 May 2025 07:44:34 GMT | ️ The Param That Played Me: How HTTP Parameter Pollution Unlocked Admin Secrets ️ | Iski | [Read More](https://medium.com/p/dc82626081e5) |
-| Thu, 22 May 2025 07:36:49 GMT | Title: OAuth and the Illusion of Permission: You Logged In, but You’re Not Inside | CoreDissonant | [Read More](https://medium.com/p/2345eb6aaccd) |
-| Thu, 22 May 2025 07:22:51 GMT | My Wake-Up Call with Model Context Protocol: Why I’m Not Sleeping Well Anymore | Barış Abacı | [Read More](https://medium.com/p/8f35038ecc5a) |
-| Thu, 22 May 2025 07:16:58 GMT | Kuantum Çağında Alışılagelmiş Kriptografik Metotlar Ne Kadar Güvenli? | Cyberwise | [Read More](https://medium.com/p/593a18221a2b) |
-| Thu, 22 May 2025 07:16:51 GMT | How Your App Becomes a Backdoor: The Risk of Forgotten Endpoints and Unsecured APIs | The Hackers Meetup | [Read More](https://medium.com/p/2c824fed4679) |
-| Thu, 22 May 2025 07:02:29 GMT | Cybersecurity Careers for Beginners: Where Should You Start? | Muhammad Schees | [Read More](https://medium.com/p/c68323870ee3) |
-| Thu, 22 May 2025 06:58:31 GMT | How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance | Very Lazy Tech | [Read More](https://medium.com/p/602c23093fce) |
