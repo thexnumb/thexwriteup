@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 16:43:19 GMT | I Hacked My Way to the Top in the Indian Army CTF — Here’s How I Did It | Rolextital | [Read More](https://medium.com/p/c5a3a9118fb6) |
+| Thu, 22 May 2025 16:42:47 GMT | External Link Bypass Vulnerability inPrivate Program | Zeta | [Read More](https://medium.com/p/b42a5dd10504) |
+| Thu, 22 May 2025 16:40:41 GMT | Unveiling HTTP Parameter Pollution (HPP): A Simple Explanation with a Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/422dfcac7895) |
+| Thu, 22 May 2025 16:37:09 GMT | Gmail’s End-to-End Encryption… Maybe Not So End-to-End | Pablo F. Iglesias | [Read More](https://medium.com/p/fb58bb4af77b) |
+| Thu, 22 May 2025 16:35:19 GMT | The Silent Storm: Why Cybercrime’s Quiet Phase Should Scare You More Than Ever | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/ff2811fc7834) |
+| Thu, 22 May 2025 16:32:37 GMT | The Ultimate Browser Toolkit: Chrome Extensions for Hackers! | XoX | [Read More](https://medium.com/p/0b7239cb451c) |
+| Thu, 22 May 2025 16:31:37 GMT | Title: TAAM’s Cybersecurity Innovations and the Future of Infrared Self-Driving Technology | TAAMCrypto.com | [Read More](https://medium.com/p/2fbddaa6ff4b) |
+| Thu, 22 May 2025 16:29:41 GMT | FBI Takes Down LummaC2: Disrupting the Cybercriminal Ecosystem with Global Collaboration | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/188952536616) |
+| Thu, 22 May 2025 16:28:41 GMT | Android Analysis : TryHackMe | Jai Bhattachhary | [Read More](https://medium.com/p/a840db8c9ff6) |
+| Thu, 22 May 2025 16:26:12 GMT | MQTT Pentesting Guide with Hands-On Real-World Attacks in a Local Lab | Vaishali Nagori | [Read More](https://medium.com/p/1e19639fed3b) |
+| Thu, 22 May 2025 16:25:59 GMT | India’s Mobility Transition in 2025 | Sumit Chouhan | [Read More](https://medium.com/p/bb323a6dbbd5) |
 | Thu, 22 May 2025 16:21:17 GMT | Devil’s Breath, Passport Bros, and the Deadly Cost of Swiping in Medellín | Franky Arriola | [Read More](https://medium.com/p/fb65bc4017e2) |
+| Thu, 22 May 2025 16:21:00 GMT | How TryHackMe’s Pre-Security Path Helped Me Kickstart My Cybersecurity Journey | Cyber Coder | [Read More](https://medium.com/p/a99d3b9fb4fb) |
 | Thu, 22 May 2025 16:14:04 GMT | AI Security Unlocked: A Business Leader’s Guide to Training Safe AI with Guardrails | Keith Foster | [Read More](https://medium.com/p/62a4cdc4ea3e) |
 | Thu, 22 May 2025 16:09:10 GMT | Scammers or Skimmers? Neighbors or Nigeria? | Eina Schroeder | [Read More](https://medium.com/p/34638d960099) |
 | Thu, 22 May 2025 16:06:46 GMT | ️‍♂️ “I’m Not a Robot” — The Real-World Horror of Lumma Stealer | Surya Teja | [Read More](https://medium.com/p/3cb05a2f8d1c) |
@@ -101,15 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 12:29:30 GMT | Op. Sindoor: Assessment and Questions | Zorawar Gill | [Read More](https://medium.com/p/0907a64750e2) |
 | Thu, 22 May 2025 12:29:16 GMT | ️ eWPTX Certification Review: Brutal, Brilliant, and Worth It | @grvbap | [Read More](https://medium.com/p/bd3ccfc6fe40) |
 | Thu, 22 May 2025 12:28:55 GMT | Cybershakti 2025 CTF writeup! | blackth0rns | [Read More](https://medium.com/p/520ef11c0bce) |
-| Thu, 22 May 2025 12:21:53 GMT | Secure Application Development: Concepts That You Must Know At the Era of AI | Alperenkabadayi | [Read More](https://medium.com/p/ecf19fbc39be) |
-| Thu, 22 May 2025 12:21:26 GMT | The Definitive Auth Guide for Backend Developers | Yashaswi Kumar Mishra | [Read More](https://medium.com/p/3bcef14dbf67) |
-| Thu, 22 May 2025 12:12:49 GMT | Android OWASP TOP 10 | Rishav anand | [Read More](https://medium.com/p/45a4eed1f58f) |
-| Thu, 22 May 2025 12:12:24 GMT | AI-Powered Cybersecurity: The Future of Digital Defense | Thathsara Mudalige | [Read More](https://medium.com/p/70daca72af61) |
-| Thu, 22 May 2025 12:09:20 GMT | A General Approach for Analysing Problems and Their Root Causes Anywhere | Shashi Sastry | [Read More](https://medium.com/p/1bd0b190d151) |
-| Thu, 22 May 2025 12:04:36 GMT | Where even the quietest voices are heard: Inside TalTech’s Language Technology Lab | Dariia Cherep | [Read More](https://medium.com/p/f1f4ac3c588b) |
-| Thu, 22 May 2025 12:02:23 GMT | Exploit Development: Techniques for Weaponizing Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/e76cbe4c97bb) |
-| Thu, 22 May 2025 11:57:28 GMT | Top Security Agencies in Thane Compared | united guard | [Read More](https://medium.com/p/0803fc839589) |
-| Thu, 22 May 2025 11:55:33 GMT | How to train employees on cybersecurity _ even if they are not tech savvy As the world becomes more… | fatima shahbaz | [Read More](https://medium.com/p/ccf65be84cb0) |
-| Thu, 22 May 2025 11:43:09 GMT | Title: CSI Investigation Report: Vrinda AI Proven Authentic, Allegations Against Navneet Singh… | CSI | [Read More](https://medium.com/p/b15976c4899b) |
-| Thu, 22 May 2025 11:40:36 GMT | Wonderland TryHackMe CTF | Cyan | [Read More](https://medium.com/p/c3a6be430d85) |
-| Thu, 22 May 2025 11:39:42 GMT | Senate Urges Immediate Military Base in Adamawa Amid Boko Haram Resurgence | Verilynews | [Read More](https://medium.com/p/7fb2ccf0b0c5) |
