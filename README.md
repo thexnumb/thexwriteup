@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 15:32:28 GMT | Splunk 3, Task 3 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/39bdb4fa0c4c) |
+| Thu, 22 May 2025 15:28:54 GMT | Earn More with ChainBounty $BOUNTY by following this step-by-step guide. | BOUNTY | [Read More](https://medium.com/p/1534dba1d29d) |
+| Thu, 22 May 2025 15:26:58 GMT | What is the Best Firewall for Home Use in the USA? | Jazz Cyber Shield | [Read More](https://medium.com/p/8717fea5612c) |
+| Thu, 22 May 2025 15:26:14 GMT | Chinese Hackers Breach U.S. Local Governments via Trimble Cityworks Zero-Day Exploit | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/e47a9b1e98bc) |
 | Thu, 22 May 2025 15:19:09 GMT | Why the CIA Triad is the Ultimate Cybersecurity Power Trio (And How It Saves Your Data) | Pavithraa Deenadayalan | [Read More](https://medium.com/p/f20c50af115b) |
+| Thu, 22 May 2025 15:16:58 GMT | Top 5 Mistakes When Trying to Geo-Locate a Photo (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/8bb47f14f6a2) |
+| Thu, 22 May 2025 15:16:55 GMT | Hacking 2025: A Pen Tester’s Take on Today’s Cybersecurity Chaos | hackerguy | [Read More](https://medium.com/p/58cfd9afe8fa) |
+| Thu, 22 May 2025 15:13:50 GMT | ️ How I Passed the eJPT Certification — Struggles, Strategy & Real Talk | S3N5E | [Read More](https://medium.com/p/390c71bee8bc) |
 | Thu, 22 May 2025 15:11:16 GMT | What is Java program? | Hari | [Read More](https://medium.com/p/e46c3e91313b) |
 | Thu, 22 May 2025 15:05:37 GMT | Investment and Security Analysis Report on Avalanche DeFi Platforms | martin yeung | [Read More](https://medium.com/p/5bc09472d693) |
 | Thu, 22 May 2025 15:03:19 GMT | Agilus Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/fc527ecda03b) |
@@ -106,10 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 11:02:55 GMT | Unlocking the Power of VAPT Security Testing Services: Why Your Business Needs It | Sureshnextwebi | [Read More](https://medium.com/p/dceea00d0046) |
 | Thu, 22 May 2025 10:56:37 GMT | Top-Tier Security Services in Pune: What to Expect | United Guard Force India | [Read More](https://medium.com/p/c3a9d32937b0) |
 | Thu, 22 May 2025 10:56:21 GMT | Professional Data Recovery Services in India - Cybermate Forensics | Jitendrachavan | [Read More](https://medium.com/p/8dcb382949e6) |
-| Thu, 22 May 2025 10:52:21 GMT | Humans Are The Weakest Link, Are We Making Them Weaker By Saying That? | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/0493361cae7a) |
-| Thu, 22 May 2025 10:52:00 GMT | Social Engineering — Why Humans Are the Weakest Link (Yes, Even You, Karen) | Bl@ckC!pH3r | [Read More](https://medium.com/p/330923844003) |
-| Thu, 22 May 2025 10:46:46 GMT | My Journey from Student to Ethical Hacking Expert: What I Wish I Knew Earlier | Ayoub | [Read More](https://medium.com/p/c5c8ea211702) |
-| Thu, 22 May 2025 10:46:04 GMT | Unpatched 0-Day in Versa Concerto Exposes Enterprises to Full System Takeover via Authentication… | CyDhaal | [Read More](https://medium.com/p/29e531e4df4b) |
-| Thu, 22 May 2025 10:42:09 GMT | Top 14 Secrets Management Tools Ranked (for DevOps in 2025) | Devops Trainer | [Read More](https://medium.com/p/f971ce1102fe) |
-| Thu, 22 May 2025 10:33:38 GMT | Ultimate Guide to Palo Alto Networks XDR Engineer Exam Preparation (2025) | Skillcertexams | [Read More](https://medium.com/p/1b6e994dc429) |
-| Thu, 22 May 2025 10:31:33 GMT | Increase Your ChainBounty $BOUNTY Rewards in 2025 | BOUNTY | [Read More](https://medium.com/p/ee716575f62a) |
