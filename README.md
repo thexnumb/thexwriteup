@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 07:22:51 GMT | My Wake-Up Call with Model Context Protocol: Why I’m Not Sleeping Well Anymore | Barış Abacı | [Read More](https://medium.com/p/8f35038ecc5a) |
 | Thu, 22 May 2025 07:16:51 GMT | How Your App Becomes a Backdoor: The Risk of Forgotten Endpoints and Unsecured APIs | The Hackers Meetup | [Read More](https://medium.com/p/2c824fed4679) |
 | Thu, 22 May 2025 07:02:29 GMT | Cybersecurity Careers for Beginners: Where Should You Start? | Muhammad Schees | [Read More](https://medium.com/p/c68323870ee3) |
 | Thu, 22 May 2025 06:58:31 GMT | How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance | Very Lazy Tech | [Read More](https://medium.com/p/602c23093fce) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 22:07:23 GMT | Stop the Insanity: Rethinking Medical Device Product Cybersecurity Before Your Teams Burn Out | Stacey | [Read More](https://medium.com/p/20fd2fb7d747) |
 | Wed, 21 May 2025 22:07:20 GMT | Silgan Containers Data Breach: Potential Claims in California | LegalNewsbyDave | [Read More](https://medium.com/p/b8f4f852f75c) |
 | Wed, 21 May 2025 21:52:31 GMT | 5 Signs You’re Already Under Attack and Don’t Know It Yet | Bits Kingdom | [Read More](https://medium.com/p/7ff691f779bb) |
-| Wed, 21 May 2025 21:48:32 GMT | noise drum | Nidhi Shah | [Read More](https://medium.com/p/65db77eb48d4) |
