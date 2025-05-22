@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 18:12:53 GMT | The 6 Best Private Proxy Services of 2025 | Oneplusafrica | [Read More](https://medium.com/p/16889943e3b3) |
+| Thu, 22 May 2025 18:11:12 GMT | What the Insurance Industry Just Learned from SimpleFix.AI | Quantum Squint Research Dept. | [Read More](https://medium.com/p/c5347ce717dd) |
+| Thu, 22 May 2025 18:05:07 GMT | Why reporting an #issue or #bug should be (as similar as possible) like going to the Doctor | Isabel Portella | [Read More](https://medium.com/p/8868fa939a50) |
+| Thu, 22 May 2025 18:04:34 GMT | ACLight: Finding Hidden Admin Accounts in Active Directory for Security Testing | Tharindu Damith | [Read More](https://medium.com/p/b99d577a8df0) |
+| Thu, 22 May 2025 17:56:16 GMT | 100 days of Learning Penetration testing -Day 3 | Samin Basnet | [Read More](https://medium.com/p/ba905ba2afad) |
+| Thu, 22 May 2025 17:54:50 GMT | Emojis: Your Digital Smile Isn’t Always Friendly | Aastha Thakker | [Read More](https://medium.com/p/77c0c78854cb) |
+| Thu, 22 May 2025 17:54:43 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/66b3a98132e4) |
+| Thu, 22 May 2025 17:51:36 GMT | SIEM’de Zafiyet Skoru: CVSS Nedir ve Neden Önemlidir? | Tarik Zeybek | [Read More](https://medium.com/p/ad576a30e435) |
+| Thu, 22 May 2025 17:47:49 GMT | allowPrivilegeEscalation: false: The Kubernetes Security Flag With a Hidden Catch | Harsha Koushik | [Read More](https://medium.com/p/e81292a0f43c) |
+| Thu, 22 May 2025 17:46:20 GMT | DC: 5— VulnHub (CTF Həlli) | Rac Adilov | [Read More](https://medium.com/p/723bda80b5f7) |
+| Thu, 22 May 2025 17:42:25 GMT | The Logic of Dating | Rose | [Read More](https://medium.com/p/6aff53b12338) |
+| Thu, 22 May 2025 17:35:51 GMT | Is Your Email Safe or Sorry? Let’s Find Out. | Vaseharan T | [Read More](https://medium.com/p/c662ebd7228b) |
+| Thu, 22 May 2025 17:33:15 GMT | Building Compliant FinTech Infrastructure in 2025 Without Killing Developer Experience | Nicholas Thoni | [Read More](https://medium.com/p/9f679d925523) |
 | Thu, 22 May 2025 17:32:24 GMT | Why I Decided to Become a Drone Pilot | Ain Stærlingsson — forestbathers unit | [Read More](https://medium.com/p/999a31fd46ba) |
 | Thu, 22 May 2025 17:32:24 GMT | Malicious Chrome Extension Hijacks Facebook Pages | CyberMaterial | [Read More](https://medium.com/p/54b316c036cb) |
+| Thu, 22 May 2025 17:32:24 GMT | Tracking with Hound and Facad1ng: Exploring the Mechanics and Ethics of Location-Based… | Syedmohathashimali | [Read More](https://medium.com/p/d5c2b14d4721) |
 | Thu, 22 May 2025 17:29:39 GMT | Emerging cybersecurity trends for 2025 | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/5b95d86739c3) |
 | Thu, 22 May 2025 17:28:20 GMT | Googled Myself. Found My Address. Here’s What I Did. | Aardvark Online Removals | [Read More](https://medium.com/p/83c103c882d4) |
 | Thu, 22 May 2025 17:28:17 GMT | Proguard vs R8: What’s the Difference and What Should You Use? | Jaykishan Sewak | [Read More](https://medium.com/p/fc5199741f2f) |
@@ -99,17 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 13:46:17 GMT | Optimal Traders Review 2025 | Jesse Honey | [Read More](https://medium.com/p/0a1875e21d1e) |
 | Thu, 22 May 2025 13:42:31 GMT | Assessment Methodologies: Footprinting and Scanning CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/91ea94108273) |
 | Thu, 22 May 2025 13:39:44 GMT | SQL Injection Unfolded: Extracting Table and Column Data from DVWA. | eL Njas!™ | [Read More](https://medium.com/p/f3a0ab7db52a) |
-| Thu, 22 May 2025 13:38:50 GMT | TH-200 - Offensive Threat Hunter (OSTH) Review: My First Medium Post | Prof.Naz | [Read More](https://medium.com/p/bb81ca774784) |
-| Thu, 22 May 2025 13:37:04 GMT | EU Startups: Investment Pitch Competition Winner Revealed | BOLD Awards | [Read More](https://medium.com/p/2263414a84bf) |
-| Thu, 22 May 2025 13:34:30 GMT | Unauthorized Image Retrieval After Deletion in Meta AI | ali jaafer | [Read More](https://medium.com/p/c85701af8356) |
-| Thu, 22 May 2025 13:26:40 GMT | Who Can Do an Ethical Hacking Course? | The Drop Organization | [Read More](https://medium.com/p/f04831be5f5f) |
-| Thu, 22 May 2025 13:24:37 GMT | Angular Services and Dependency Injection Security Fundamentals | Herbert Moroni Gois | [Read More](https://medium.com/p/abd048461157) |
-| Thu, 22 May 2025 13:21:47 GMT | The Dangers of Weak Passwords: Real-World Breaches You Can Avoid | Ewyatt | [Read More](https://medium.com/p/1a66a03fc67d) |
-| Thu, 22 May 2025 13:19:41 GMT | Cómo Logré Recuperar Mi Dinero de InovaFunding.com | Joshua Dalgety | [Read More](https://medium.com/p/19dbe93d4bde) |
-| Thu, 22 May 2025 13:17:59 GMT | PPID Spoofing | LordShen | [Read More](https://medium.com/p/65aacc5dd28e) |
-| Thu, 22 May 2025 13:17:18 GMT | Reseña de InovaFunding.com 2025 | Joshua Dalgety | [Read More](https://medium.com/p/15a6c1d9e5ec) |
-| Thu, 22 May 2025 13:12:20 GMT | The Daily Tech Digest: 22 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/4fd91e17c02c) |
-| Thu, 22 May 2025 13:05:55 GMT | Cybersecurity for Startups: Build It Safe from Day One | Cybersecurity Umbrella | [Read More](https://medium.com/p/fdc04afcfe75) |
-| Thu, 22 May 2025 13:05:09 GMT | Why Cybersecurity is Critical for Financial Institutions | Adil | [Read More](https://medium.com/p/c9639824e5fa) |
-| Thu, 22 May 2025 13:04:24 GMT | Injecting Malicious Code into PDF Files and Creating a PDF Dropper | Harze_ | [Read More](https://medium.com/p/f665a9b4cef8) |
-| Thu, 22 May 2025 13:02:18 GMT | Reseña de Finsmart 2025 | Sergio Reguilion | [Read More](https://medium.com/p/7d4e7dea07bb) |
