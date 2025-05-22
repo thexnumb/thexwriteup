@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 22:43:30 GMT | Cluster Kubernetes com Zero Trust e controle de tráfego com Calico. | Albuquerquealdry | [Read More](https://medium.com/p/97e47f15331c) |
+| Thu, 22 May 2025 22:41:51 GMT | picoCTF Writeup — Pie Time | 40Days | [Read More](https://medium.com/p/d34365b95cf0) |
+| Thu, 22 May 2025 22:35:24 GMT | The Facebook Ad That Hacked Users: How Reactive Cybersecurity Is Failing Us | Hunter Freeman | [Read More](https://medium.com/p/1592b79b1764) |
+| Thu, 22 May 2025 22:32:22 GMT | ENTERPRISE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/9dad0f3bd998) |
 | Thu, 22 May 2025 22:24:42 GMT | Web Cache Poisoning lead to DoS Attack | HiPFiRE | [Read More](https://medium.com/p/bde188e3511d) |
 | Thu, 22 May 2025 22:24:06 GMT | Hashing Basics - THM | Isiah | [Read More](https://medium.com/p/14eeb33ece6a) |
 | Thu, 22 May 2025 22:21:32 GMT | From Paper to Practice: How to Build Policies That Actually Work | Brittney Ginther | [Read More](https://medium.com/p/773178739aff) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 16:14:04 GMT | AI Security Unlocked: A Business Leader’s Guide to Training Safe AI with Guardrails | Keith Foster | [Read More](https://medium.com/p/62a4cdc4ea3e) |
 | Thu, 22 May 2025 16:09:10 GMT | Scammers or Skimmers? Neighbors or Nigeria? | Eina Schroeder | [Read More](https://medium.com/p/34638d960099) |
 | Thu, 22 May 2025 16:06:46 GMT | ️‍♂️ “I’m Not a Robot” — The Real-World Horror of Lumma Stealer | Surya Teja | [Read More](https://medium.com/p/3cb05a2f8d1c) |
-| Thu, 22 May 2025 16:06:30 GMT | Managed Network Security: Why It’s Essential for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/3db6954f9d81) |
-| Thu, 22 May 2025 16:05:26 GMT | Water Crisis and the Survival of Endangered Fauna in the Zagros Mountains: A Conservation… | Koroshgushkamazan | [Read More](https://medium.com/p/726fc111048b) |
-| Thu, 22 May 2025 16:04:34 GMT | The Sickle of Silence | Sam Khosravifard | [Read More](https://medium.com/p/fd619482351a) |
-| Thu, 22 May 2025 16:02:35 GMT | GoDaddy’s FTC Settlement: When “Oops” Is Apparently Enough | CyberAdvisor | [Read More](https://medium.com/p/94535ce1776f) |
