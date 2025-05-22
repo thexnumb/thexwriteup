@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 09:38:00 GMT | You don’t want to be a Bug-Hunter. You want to be a Pentester. | Krank Kevin | [Read More](https://medium.com/p/9e9a64ea1fa6) |
+| Thu, 22 May 2025 09:34:23 GMT | CyberDefender: “PsExec Hunt Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/1cdbdfd74b1e) |
+| Thu, 22 May 2025 09:33:56 GMT | SOAR IS DEAD! | Steve Pye | [Read More](https://medium.com/p/8c9db4e78326) |
+| Thu, 22 May 2025 09:27:18 GMT | Coinbase Warns of Up to $400M Loss Following Cyber Attack: What It Means for Crypto Security | CyBlog | [Read More](https://medium.com/p/d35f6feb68d1) |
+| Thu, 22 May 2025 09:25:31 GMT | PHISHING EMAIL ANALYSIS: LETSDEFEND WALKTHROUGH | Dorathy Christopher | [Read More](https://medium.com/p/a3e32c80a67c) |
+| Thu, 22 May 2025 09:23:51 GMT | I don't ask for help, I just disappear | Yellowbee°•° | [Read More](https://medium.com/p/913ac90ab77b) |
 | Thu, 22 May 2025 09:17:50 GMT | The Hidden Costs of GRC Silos — And Why It’s Time to Break Them Down | COMPASS | [Read More](https://medium.com/p/7e835271b671) |
 | Thu, 22 May 2025 09:17:13 GMT | Choosing the Right Security and Compliance Structure for GRC | Consulting4sec | [Read More](https://medium.com/p/0a4d9444fa12) |
+| Thu, 22 May 2025 09:16:28 GMT | Lab Chronicles: Locking Down Azure with NSGs and ASGs (a.k.a. Azure’s Bouncers) | ChirchirMeshack | [Read More](https://medium.com/p/b245b4bade1a) |
 | Thu, 22 May 2025 09:12:35 GMT | Do you agree that Ukraine’s city of Kyiv is relatively well protected from missile strikes with air… | Kit Wren | [Read More](https://medium.com/p/d263e5c88131) |
 | Thu, 22 May 2025 09:09:44 GMT | Command and Control & Tunnelling via ICMP | Gopu Nair | [Read More](https://medium.com/p/ad15f8afd233) |
 | Thu, 22 May 2025 09:08:38 GMT | Field Enumeration to Full Account Takeover with NoSQL Injection | Aditya Bhatt | [Read More](https://medium.com/p/3de639d42f42) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 02:25:35 GMT | From Pods to Protection: Falco Securing Your VKS Cluster | Navneet Verma | [Read More](https://medium.com/p/2e8a34c8148a) |
 | Thu, 22 May 2025 02:25:24 GMT | Android Analysis - Tryhackme | Aaron | [Read More](https://medium.com/p/a6cb298a4a59) |
 | Thu, 22 May 2025 02:20:24 GMT | Meet the Teen ‘Cyberterrorist’ Who Waged a Digital War on India During Operation Sindoor | Abrar Alee | [Read More](https://medium.com/p/0604673de259) |
-| Thu, 22 May 2025 02:16:36 GMT | How I Passed the Blue Team Level 1 Exam (And You Can Too!) | Stefan Bargan | [Read More](https://medium.com/p/0811a3d48096) |
-| Thu, 22 May 2025 02:16:06 GMT | To Ride a Bike in Gaza | Gary Simons | [Read More](https://medium.com/p/b59ca24120bf) |
-| Thu, 22 May 2025 02:06:59 GMT | Forage Job Simulation — Cybersecurity Consultant | Shamar Isaac | [Read More](https://medium.com/p/ec9479dc0d30) |
-| Thu, 22 May 2025 01:49:18 GMT | Can I Recover My Money From Ubitex? | Evelyn | [Read More](https://medium.com/p/74f320144d9b) |
-| Thu, 22 May 2025 01:48:21 GMT | The Impact of Family Neglect on Homeless Youth and Their Vulnerability to Abuse | Abuse Refuge Org | [Read More](https://medium.com/p/4eb4e5e74f61) |
-| Thu, 22 May 2025 01:43:31 GMT | The Fear of Being Seen Makes Some Men Master Pretenders | LSD | [Read More](https://medium.com/p/b4e3eb0206fd) |
-| Thu, 22 May 2025 01:39:48 GMT | CRA（Cyber Resilience Act）対応は、日本の製造業の新たな経営課題である | Shige Tanimoto | [Read More](https://medium.com/p/776fbfc665d9) |
