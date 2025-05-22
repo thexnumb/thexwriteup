@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 18:59:07 GMT | Security Company in London: Trusted Security Services for Your Safety | Renceromen | [Read More](https://medium.com/p/14da1fba77b1) |
+| Thu, 22 May 2025 18:54:18 GMT | Data Sovereignty vs. Data Residency: Why the Distinction Matters More Than Ever | Juan Pablo Castro | [Read More](https://medium.com/p/ed7c18cc5e9e) |
+| Thu, 22 May 2025 18:53:42 GMT | Understanding the Scam Tactic Chain: How Scammers Think — and Why It Works | BlueBirdIntel | [Read More](https://medium.com/p/eaad08b2f620) |
+| Thu, 22 May 2025 18:48:35 GMT | The Credentials Nobody Owns | David Canellos | [Read More](https://medium.com/p/7bde90a12d6d) |
 | Thu, 22 May 2025 18:43:25 GMT | Your Antivirus Won’t Save You From This 2025 Malware | Noel | [Read More](https://medium.com/p/db88e541b9ea) |
 | Thu, 22 May 2025 18:43:08 GMT | $7,500 Bounty — XSS → RCE in Steam’s React Chat Client | Monika sharma | [Read More](https://medium.com/p/1394aaecaec4) |
+| Thu, 22 May 2025 18:41:13 GMT | Big Security: The False Promise Of Safety | Family Forever Solutions | [Read More](https://medium.com/p/14ed3e55fd7e) |
 | Thu, 22 May 2025 18:39:46 GMT | Why Your Business Needs Expert Cisco Support in 2025 | IT_Engineer | [Read More](https://medium.com/p/d5a87c103cdc) |
 | Thu, 22 May 2025 18:39:24 GMT | Case Study #01: How Combining XSS and Misconfigured Cookies Led to Session Hijacking | Jakub Święs | [Read More](https://medium.com/p/b031d7426e2f) |
 | Thu, 22 May 2025 18:32:33 GMT | “Free VPNs Are Free for a Reason — Here’s What You’re Actually Giving Up” | Vexpoltech | [Read More](https://medium.com/p/8e12d00082d4) |
@@ -108,8 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 14:27:56 GMT | APEX Feature Spotlights: Fortify Your Apps with Rock-Solid Authentication & Authorization! | Rohit Mittel | [Read More](https://medium.com/p/a14896cac0eb) |
 | Thu, 22 May 2025 14:27:07 GMT | THM — Benign Writeup | Shamar Isaac | [Read More](https://medium.com/p/d28ebf9ab7b9) |
 | Thu, 22 May 2025 14:20:32 GMT | Still trusting that totally legit RVTools installer you grabbed from page-3 of Google while racing… | Wes Young | [Read More](https://medium.com/p/41b16854e2b9) |
-| Thu, 22 May 2025 14:19:34 GMT | Apriti sesamo - Writeup | Marvin | [Read More](https://medium.com/p/423426e816fd) |
-| Thu, 22 May 2025 14:19:25 GMT | Professional Event Security & Crowd Management in Coventry, UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/46f0bac85cca) |
-| Thu, 22 May 2025 14:17:04 GMT | Using Threat Intelligence to Implement Proactive Cyber Defense | Cloud4C Services | [Read More](https://medium.com/p/8b6589792b3f) |
-| Thu, 22 May 2025 14:09:40 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/e43f76dc0c60) |
-| Thu, 22 May 2025 14:05:48 GMT | QIC Tech Meetup → Yerevan on June 4 | QIC digital hub | [Read More](https://medium.com/p/6a930f69b435) |
