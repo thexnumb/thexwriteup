@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 11:33:50 GMT | Web Application Security Certification Guide - IIFIS | seenivasan V | [Read More](https://medium.com/p/434b86f892be) |
+| Thu, 22 May 2025 11:29:15 GMT | Cracking CSRF: How I Found a Hidden Flaw as a Bug Bounty Beginner | 127.0.0.1 | [Read More](https://medium.com/p/a602460c5480) |
+| Thu, 22 May 2025 11:24:14 GMT | Bridging the Gap Between Offense and Defense with Purple Team Testing | SmartCLOUD Australia | [Read More](https://medium.com/p/b481828e4343) |
+| Thu, 22 May 2025 11:20:12 GMT | Loneliness and AI: A Perfect Storm for Romance Scams | Taiyab Lokhandwala | [Read More](https://medium.com/p/b29ce652f65f) |
+| Thu, 22 May 2025 11:19:47 GMT | Shared Goals, Shared Value — Where HR and Security Naturally Overlap | SecOps | [Read More](https://medium.com/p/366f58ce43da) |
+| Thu, 22 May 2025 11:19:00 GMT | Found a Race Condition That Led to Privilege =>$750 | Ehtesham Ul Haq | [Read More](https://medium.com/p/4ba1a3983b17) |
+| Thu, 22 May 2025 11:15:51 GMT | OpenWire Lab | Jesús García Rubias | [Read More](https://medium.com/p/bed92e88fb56) |
 | Thu, 22 May 2025 11:08:32 GMT | I Typed Just One Command — And My PC Told Me All Its WiFi Secrets | Kuldeepkumawat | [Read More](https://medium.com/p/e2c715ab187a) |
 | Thu, 22 May 2025 11:04:00 GMT | Phishing Explained: How Cybercriminals Trick You and How to Stay Safe | CyDhaal | [Read More](https://medium.com/p/5e57a1f2d696) |
 | Thu, 22 May 2025 11:03:40 GMT | CrowdSec: The Open-Source IPS That Fights Back Against Real-World Attacks | Muhammed Dhulkifli k | [Read More](https://medium.com/p/704b7992fcc1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 05:58:58 GMT | Vacant Property Inspections & Security Manchester — Marvellous Team | Marvelloussecurities | [Read More](https://medium.com/p/57f89dac86cc) |
 | Thu, 22 May 2025 05:57:48 GMT | Cybersecurity in Fintech: Protecting Retail Transactions from Digital Threats | Abhishek Dodda | [Read More](https://medium.com/p/e3a100336625) |
 | Thu, 22 May 2025 05:57:14 GMT | Terrorism Threat Levels in Singapore: What the Government Watches For | Dan Marshall-Singh | [Read More](https://medium.com/p/3d17249d9903) |
-| Thu, 22 May 2025 05:56:47 GMT | cyber security course in trivandrum | Surya Dotin | [Read More](https://medium.com/p/b9199a395147) |
-| Thu, 22 May 2025 05:56:18 GMT | Fileless Remcos RAT: The Sneaky Malware Hiding in Plain Sight | Ismail Tasdelen | [Read More](https://medium.com/p/cb0eff19f4af) |
-| Thu, 22 May 2025 05:55:14 GMT | DC 2 Machine Walkthrough -PART 2/3 | Eleanor | [Read More](https://medium.com/p/deff16acf102) |
-| Thu, 22 May 2025 05:54:17 GMT | Secure API Key Authentication with CloudKit and Golang: A Modern Approach for iOS Apps | grandfelix | [Read More](https://medium.com/p/3a3ddb46ecf6) |
-| Thu, 22 May 2025 05:53:38 GMT | Exploit PORT : 5900 , 59001 - VNC Port exploit (Series:1/ [article:3]) | Mr Horbio | [Read More](https://medium.com/p/c07d09ebdf5b) |
-| Thu, 22 May 2025 05:52:10 GMT | Coinbase’s $20M Extortion Drama: A Tale of Bribery and Betrayal | Ismail Tasdelen | [Read More](https://medium.com/p/caee8bca63e2) |
-| Thu, 22 May 2025 05:47:53 GMT | Mobile App Pentesting — Part 3: Static Analysis of Android Apps | Tanzeem Khatri | [Read More](https://medium.com/p/ef6f12a37625) |
