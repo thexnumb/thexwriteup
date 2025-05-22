@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 14:17:04 GMT | Using Threat Intelligence to Implement Proactive Cyber Defense | Cloud4C Services | [Read More](https://medium.com/p/8b6589792b3f) |
+| Thu, 22 May 2025 14:09:40 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/e43f76dc0c60) |
+| Thu, 22 May 2025 14:05:48 GMT | QIC Tech Meetup → Yerevan on June 4 | QIC digital hub | [Read More](https://medium.com/p/6a930f69b435) |
+| Thu, 22 May 2025 14:03:12 GMT | Get Expert Help in Cybersecurity and IT Assignments | Electrical Engineering Dissertation Writing | [Read More](https://medium.com/p/ec82446e51f4) |
+| Thu, 22 May 2025 14:00:28 GMT | Cyber Briefing: 2025.05.22 | CyberMaterial | [Read More](https://medium.com/p/63a6875b724f) |
+| Thu, 22 May 2025 13:55:45 GMT | Sicherheitslösungen der nächsten Generation | Presslink Media | [Read More](https://medium.com/p/e452bff74692) |
+| Thu, 22 May 2025 13:52:01 GMT | ️My Top 7 Mistakes as a New Bug Hunter (And How to Avoid Them) | Abhijeet Kumawat | [Read More](https://medium.com/p/e5c31292980b) |
+| Thu, 22 May 2025 13:48:57 GMT | Lumma Stealer: The Sneaky Malware That Can Hack Your Computer in Seconds, Warns Microsoft | AKS | [Read More](https://medium.com/p/67d824ef656b) |
+| Thu, 22 May 2025 13:48:54 GMT | Here’s How I Recover My Money From Optimal Traders | Jesse Honey | [Read More](https://medium.com/p/3d0cac48dcce) |
+| Thu, 22 May 2025 13:47:15 GMT | My Bug Bounty Checklists 2025 | 40sp3l | [Read More](https://medium.com/p/e8b5c82f9442) |
+| Thu, 22 May 2025 13:46:59 GMT | Geopolitics Review Extra — 22nd May 2025 | Geopolitics Explained | [Read More](https://medium.com/p/b1d1ceafaee3) |
+| Thu, 22 May 2025 13:46:17 GMT | Optimal Traders Review 2025 | Jesse Honey | [Read More](https://medium.com/p/0a1875e21d1e) |
+| Thu, 22 May 2025 13:42:31 GMT | Assessment Methodologies: Footprinting and Scanning CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/91ea94108273) |
+| Thu, 22 May 2025 13:39:44 GMT | SQL Injection Unfolded: Extracting Table and Column Data from DVWA. | eL Njas!™ | [Read More](https://medium.com/p/f3a0ab7db52a) |
+| Thu, 22 May 2025 13:38:50 GMT | TH-200 - Offensive Threat Hunter (OSTH) Review: My First Medium Post | Prof.Naz | [Read More](https://medium.com/p/bb81ca774784) |
+| Thu, 22 May 2025 13:37:04 GMT | EU Startups: Investment Pitch Competition Winner Revealed | BOLD Awards | [Read More](https://medium.com/p/2263414a84bf) |
+| Thu, 22 May 2025 13:34:30 GMT | Unauthorized Image Retrieval After Deletion in Meta AI | ali jaafer | [Read More](https://medium.com/p/c85701af8356) |
 | Thu, 22 May 2025 13:26:40 GMT | Who Can Do an Ethical Hacking Course? | The Drop Organization | [Read More](https://medium.com/p/f04831be5f5f) |
 | Thu, 22 May 2025 13:24:37 GMT | Angular Services and Dependency Injection Security Fundamentals | Herbert Moroni Gois | [Read More](https://medium.com/p/abd048461157) |
 | Thu, 22 May 2025 13:21:47 GMT | The Dangers of Weak Passwords: Real-World Breaches You Can Avoid | Ewyatt | [Read More](https://medium.com/p/1a66a03fc67d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 09:34:23 GMT | CyberDefender: “PsExec Hunt Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/1cdbdfd74b1e) |
 | Thu, 22 May 2025 09:33:56 GMT | SOAR IS DEAD! | Steve Pye | [Read More](https://medium.com/p/8c9db4e78326) |
 | Thu, 22 May 2025 09:27:18 GMT | Coinbase Warns of Up to $400M Loss Following Cyber Attack: What It Means for Crypto Security | CyBlog | [Read More](https://medium.com/p/d35f6feb68d1) |
-| Thu, 22 May 2025 09:25:31 GMT | PHISHING EMAIL ANALYSIS: LETSDEFEND WALKTHROUGH | Dorathy Christopher | [Read More](https://medium.com/p/a3e32c80a67c) |
-| Thu, 22 May 2025 09:23:51 GMT | I don't ask for help, I just disappear | Yellowbee°•° | [Read More](https://medium.com/p/913ac90ab77b) |
-| Thu, 22 May 2025 09:17:50 GMT | The Hidden Costs of GRC Silos — And Why It’s Time to Break Them Down | COMPASS | [Read More](https://medium.com/p/7e835271b671) |
-| Thu, 22 May 2025 09:17:13 GMT | Choosing the Right Security and Compliance Structure for GRC | Consulting4sec | [Read More](https://medium.com/p/0a4d9444fa12) |
-| Thu, 22 May 2025 09:16:28 GMT | Lab Chronicles: Locking Down Azure with NSGs and ASGs (a.k.a. Azure’s Bouncers) | ChirchirMeshack | [Read More](https://medium.com/p/b245b4bade1a) |
-| Thu, 22 May 2025 09:12:35 GMT | Do you agree that Ukraine’s city of Kyiv is relatively well protected from missile strikes with air… | Kit Wren | [Read More](https://medium.com/p/d263e5c88131) |
-| Thu, 22 May 2025 09:09:44 GMT | Command and Control & Tunnelling via ICMP | Gopu Nair | [Read More](https://medium.com/p/ad15f8afd233) |
-| Thu, 22 May 2025 09:08:38 GMT | Field Enumeration to Full Account Takeover with NoSQL Injection | Aditya Bhatt | [Read More](https://medium.com/p/3de639d42f42) |
-| Thu, 22 May 2025 09:06:01 GMT | Cybersecurity Vulnerabilities in PDF Files: Exploitation Techniques and Defenses | Victor Kushnir | [Read More](https://medium.com/p/9e5603ea2767) |
-| Thu, 22 May 2025 09:02:41 GMT | How to Share Safely on Notion: A Practical Guide | Bricec | [Read More](https://medium.com/p/fd160d8386af) |
-| Thu, 22 May 2025 09:02:09 GMT | The Indictment That Cannot Be: Cryptographic Aesthetics and the Logic of Preemption | Alex Li | [Read More](https://medium.com/p/0b56ad3178dc) |
-| Thu, 22 May 2025 08:58:40 GMT | The Scam That Changed Her Life: Cybersecurity Lessons the Hard Way | Onyinyechi Norman-Roberts | [Read More](https://medium.com/p/53c6dba72811) |
-| Thu, 22 May 2025 08:57:58 GMT | Kashyap Divyansh – The 19-Year-Old Cybersecurity Visionary Behind GDG VAPT, | Divyansh Kashyap | [Read More](https://medium.com/p/75606dafe5fe) |
-| Thu, 22 May 2025 08:46:26 GMT | What we can learn from CIA about HUMINT, cyber and tech innovation? | Martin Abramov | [Read More](https://medium.com/p/8602d8955ed3) |
-| Thu, 22 May 2025 08:39:30 GMT | WordPress Security & Optimization | Adnan | [Read More](https://medium.com/p/9199e3e457f9) |
-| Thu, 22 May 2025 08:38:53 GMT | Grafana CVE-2025–4123: Full Read SSRF & Account Takeover | Alvaro Balada | [Read More](https://medium.com/p/d12abd13cd53) |
-| Thu, 22 May 2025 08:35:14 GMT | Why Implement NFC for Security: From Access Control to Authenticity Verification | ShirleyLiu_RFIDTag | [Read More](https://medium.com/p/7df8d55aa615) |
