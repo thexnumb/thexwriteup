@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 17:32:24 GMT | Why I Decided to Become a Drone Pilot | Ain Stærlingsson — forestbathers unit | [Read More](https://medium.com/p/999a31fd46ba) |
+| Thu, 22 May 2025 17:32:24 GMT | Malicious Chrome Extension Hijacks Facebook Pages | CyberMaterial | [Read More](https://medium.com/p/54b316c036cb) |
+| Thu, 22 May 2025 17:29:39 GMT | Emerging cybersecurity trends for 2025 | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/5b95d86739c3) |
+| Thu, 22 May 2025 17:28:20 GMT | Googled Myself. Found My Address. Here’s What I Did. | Aardvark Online Removals | [Read More](https://medium.com/p/83c103c882d4) |
+| Thu, 22 May 2025 17:28:17 GMT | Proguard vs R8: What’s the Difference and What Should You Use? | Jaykishan Sewak | [Read More](https://medium.com/p/fc5199741f2f) |
+| Thu, 22 May 2025 17:23:09 GMT | The Beginning of AI: Nothing is Gonna Stop Now | The Lore Files | [Read More](https://medium.com/p/b2c8bc865644) |
+| Thu, 22 May 2025 17:18:01 GMT | The 6 Best Private Proxy Services of 2025 | Jayfloriam | [Read More](https://medium.com/p/ed0013c33285) |
+| Thu, 22 May 2025 17:17:54 GMT | How to get Bug (BUG) Rewards and Maximize APY | BUG | [Read More](https://medium.com/p/668851a382c9) |
 | Thu, 22 May 2025 17:17:23 GMT | DOM-Based XSS in Single Page Applications (SPAs): A Complete Guide for Beginners & Bug Bounty… | Asif Ebrahim | [Read More](https://medium.com/p/56d4e496a0a0) |
 | Thu, 22 May 2025 17:13:51 GMT | TryHackMe - Android Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/21ff8f7c1d8a) |
 | Thu, 22 May 2025 17:09:05 GMT | API 01:2023 — Broken Object Level Authorization (BOLA) | Suhel Kathi | [Read More](https://medium.com/p/d4c8a892c723) |
@@ -105,11 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 13:05:09 GMT | Why Cybersecurity is Critical for Financial Institutions | Adil | [Read More](https://medium.com/p/c9639824e5fa) |
 | Thu, 22 May 2025 13:04:24 GMT | Injecting Malicious Code into PDF Files and Creating a PDF Dropper | Harze_ | [Read More](https://medium.com/p/f665a9b4cef8) |
 | Thu, 22 May 2025 13:02:18 GMT | Reseña de Finsmart 2025 | Sergio Reguilion | [Read More](https://medium.com/p/7d4e7dea07bb) |
-| Thu, 22 May 2025 13:01:31 GMT | APAC Under Siege: Key Cybersecurity Lessons from the 2025 X-Force Threat Intelligence Report | Peris.ai Cybersecurity | [Read More](https://medium.com/p/926238e1b5bd) |
-| Thu, 22 May 2025 12:59:51 GMT | Blog Post #1 — OSI Model for Beginners | KK - NetSec Simplified | [Read More](https://medium.com/p/293bfc4e633d) |
-| Thu, 22 May 2025 12:56:51 GMT | Deconstructing the Digital Heist: Understanding the Cyber Kill Chain | Hassan Bazzoun | [Read More](https://medium.com/p/363db94c7d75) |
-| Thu, 22 May 2025 12:56:21 GMT | How to Prevent SQL Injections: A Practical Guide for Developers | Lahiru Senarathna | [Read More](https://medium.com/p/4efde6bc5aa8) |
-| Thu, 22 May 2025 12:51:38 GMT | What Makes a Navi Mumbai Security Agency Stand Out | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/a7f190fc11ee) |
-| Thu, 22 May 2025 12:46:25 GMT | WHAT IS CYBER SECURITY ? | Babatunde Seun | [Read More](https://medium.com/p/b39eda86b893) |
-| Thu, 22 May 2025 12:43:02 GMT | Wireless Weapons: Turning Skycut Plotters into Physical Dangers | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/9f29e0cd357a) |
-| Thu, 22 May 2025 12:40:38 GMT | Zero-Day | Meltem Nur Gündoğdu | [Read More](https://medium.com/p/1aa361cf76c4) |
