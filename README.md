@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 08:25:58 GMT | Cloudgoat Beanstalk_secrets Walkthrough (Manual) | innervision | [Read More](https://medium.com/p/facef048d357) |
+| Thu, 22 May 2025 08:23:26 GMT | I Internet midang i hman tir loh chhan tur te | Lalhming chhuanga | [Read More](https://medium.com/p/01689bab546b) |
+| Thu, 22 May 2025 08:14:11 GMT | Understanding IPMI: The Key to Remote Server Management and Its Hidden Risks | Jamal Mohamed MR | [Read More](https://medium.com/p/f27dddf34fd7) |
+| Thu, 22 May 2025 08:13:21 GMT | Chamundi Hill Palace Ayurvedic Resort Wins TripAdvisor Travellers’ Choice Award 2025 | Swethainspite | [Read More](https://medium.com/p/b00a9379e261) |
+| Thu, 22 May 2025 08:11:42 GMT | Scaling Application Security | Andy Pannell | [Read More](https://medium.com/p/e464165a0cbe) |
+| Thu, 22 May 2025 08:10:44 GMT | Devstral: The Open-Source AI Revolutionizing Software Development and Empowering Africa’s Tech… | Kondwani Nyirenda | [Read More](https://medium.com/p/80776fe7a00f) |
+| Thu, 22 May 2025 08:09:17 GMT | CSRF — và Double Submit Cookie Bypass | Muffinnn | [Read More](https://medium.com/p/d7e7396d0151) |
+| Thu, 22 May 2025 08:05:33 GMT | A Great Tool For Bug Hunters | loyalonlytoday | [Read More](https://medium.com/p/415ae68702e7) |
+| Thu, 22 May 2025 07:58:41 GMT | Weak Password Policy in Symfony: Risks, Code Fixes & Free Vulnerability Check | Pentest_Testing_Corp | [Read More](https://medium.com/p/a533b28e3508) |
+| Thu, 22 May 2025 07:52:24 GMT | V1 IDOR | The Cyber Ghost | [Read More](https://medium.com/p/0f7fc3f2dc0a) |
+| Thu, 22 May 2025 07:49:47 GMT | Cloud Services in Australia: Why Now Is the Time to Move Your Business to the Cloud | william smith | [Read More](https://medium.com/p/9c5fe6a275fb) |
+| Thu, 22 May 2025 07:44:34 GMT | ️ The Param That Played Me: How HTTP Parameter Pollution Unlocked Admin Secrets ️ | Iski | [Read More](https://medium.com/p/dc82626081e5) |
+| Thu, 22 May 2025 07:36:49 GMT | Title: OAuth and the Illusion of Permission: You Logged In, but You’re Not Inside | CoreDissonant | [Read More](https://medium.com/p/2345eb6aaccd) |
 | Thu, 22 May 2025 07:22:51 GMT | My Wake-Up Call with Model Context Protocol: Why I’m Not Sleeping Well Anymore | Barış Abacı | [Read More](https://medium.com/p/8f35038ecc5a) |
+| Thu, 22 May 2025 07:16:58 GMT | Kuantum Çağında Alışılagelmiş Kriptografik Metotlar Ne Kadar Güvenli? | Cyberwise | [Read More](https://medium.com/p/593a18221a2b) |
 | Thu, 22 May 2025 07:16:51 GMT | How Your App Becomes a Backdoor: The Risk of Forgotten Endpoints and Unsecured APIs | The Hackers Meetup | [Read More](https://medium.com/p/2c824fed4679) |
 | Thu, 22 May 2025 07:02:29 GMT | Cybersecurity Careers for Beginners: Where Should You Start? | Muhammad Schees | [Read More](https://medium.com/p/c68323870ee3) |
 | Thu, 22 May 2025 06:58:31 GMT | How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance | Very Lazy Tech | [Read More](https://medium.com/p/602c23093fce) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 23:11:42 GMT | Zero Tust: When “Never Trust, Always Verify” Breaks Down | Postmodern Cybersecurity | [Read More](https://medium.com/p/d789d86c4b6b) |
 | Wed, 21 May 2025 23:11:26 GMT | Hijacking ssh client to get passwords of other server | gerald amasi | [Read More](https://medium.com/p/78cbdaffa27d) |
 | Wed, 21 May 2025 22:51:20 GMT | ️ Home SOC Lab — Project-Z v1.0 | 0xZetss | [Read More](https://medium.com/p/9fa4c0f91f11) |
-| Wed, 21 May 2025 22:43:18 GMT | Looking for 24/7 remote CCTV monitoring to protect your home, business, or facility? | Visual Monitoring Solutions | [Read More](https://medium.com/p/ed230445a6ef) |
-| Wed, 21 May 2025 22:40:36 GMT | Ripple’s xrpl.js npm Package Was Backdoored: Here’s How Private Keys Were Stolen | Cyber-AppSec | [Read More](https://medium.com/p/83208afca1f8) |
-| Wed, 21 May 2025 22:39:07 GMT | Free VPNs : When “Free” comes at a hidden cost | Larbi OUIYZME | [Read More](https://medium.com/p/8509100ff35f) |
-| Wed, 21 May 2025 22:37:05 GMT | Curbing Nigeria’s Kidnapping Epidemic: Tracing the Roots and Charting a Way Forward | Oluwatimileyin Adepitan | [Read More](https://medium.com/p/71668f5a2d50) |
-| Wed, 21 May 2025 22:36:44 GMT | Cyber Chat: Page Glave | Ryan G. Cox | [Read More](https://medium.com/p/b3891c209dc0) |
-| Wed, 21 May 2025 22:36:20 GMT | Cybersecurity Graduate Speaker Reiterates the Need for Cyber Leaders | Berkeley I School | [Read More](https://medium.com/p/566c964ff7e7) |
-| Wed, 21 May 2025 22:31:32 GMT | What I Check First When a Linux Server Starts Acting Suspicious | Faruk Ahmed | [Read More](https://medium.com/p/5bce6b46f0c9) |
-| Wed, 21 May 2025 22:31:23 GMT | Yes — For the First Two Minutes of Every Incident, I Panic | Lee Barney | [Read More](https://medium.com/p/7bec10053cbb) |
-| Wed, 21 May 2025 22:27:28 GMT | VPN gratuits : Quand la gratuité cache un prix inacceptable | Larbi OUIYZME | [Read More](https://medium.com/p/5c7c81f6de77) |
-| Wed, 21 May 2025 22:16:32 GMT | Essential Networking Terminologies: A Beginner’s Guide to Understanding Network Fundamentals | Karthikeyan Nagaraj | [Read More](https://medium.com/p/20014aa38d6e) |
-| Wed, 21 May 2025 22:07:58 GMT | The new priority of “security patch”: Inside the new metric created by CISA and NIST — ‘Likely… | ISHII (石井) | [Read More](https://medium.com/p/0544bdc9cf4a) |
-| Wed, 21 May 2025 22:07:23 GMT | Stop the Insanity: Rethinking Medical Device Product Cybersecurity Before Your Teams Burn Out | Stacey | [Read More](https://medium.com/p/20fd2fb7d747) |
-| Wed, 21 May 2025 22:07:20 GMT | Silgan Containers Data Breach: Potential Claims in California | LegalNewsbyDave | [Read More](https://medium.com/p/b8f4f852f75c) |
-| Wed, 21 May 2025 21:52:31 GMT | 5 Signs You’re Already Under Attack and Don’t Know It Yet | Bits Kingdom | [Read More](https://medium.com/p/7ff691f779bb) |
