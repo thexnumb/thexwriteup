@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 05:14:15 GMT | Marvis Minis By Juniper Networks: The Future of AI-Powered Network Simulation | Juara IT Solutions | [Read More](https://medium.com/p/7700f3a0a6ee) |
+| Thu, 22 May 2025 05:09:39 GMT | ️How I Bypassed OTP Verification Without Any Code Injection | Abhijeet Kumawat | [Read More](https://medium.com/p/1fb28a705cd4) |
+| Thu, 22 May 2025 05:05:45 GMT | Build a Secure Authentication System in Next.js with Mongoose and Cookies | Vihanga Mallawaarachchi | [Read More](https://medium.com/p/81f8c885b2dd) |
+| Thu, 22 May 2025 05:02:35 GMT | Securing AI Workloads on NVIDIA GPUs | Nazeer | [Read More](https://medium.com/p/2c50ecb55c6f) |
+| Thu, 22 May 2025 04:48:19 GMT | Surrendering to Vulnerability | Kaye705 | [Read More](https://medium.com/p/e77439d894c3) |
 | Thu, 22 May 2025 04:43:41 GMT | Cybersecurity vs Ethical Hacking: Key Differences to Know Before Choosing Your 2025 Career Path | Arya College | [Read More](https://medium.com/p/d881ac4a865a) |
 | Thu, 22 May 2025 04:35:57 GMT | Transforming Concepts into High-Quality Mobile Apps with Inspite Technologies | Swethainspite | [Read More](https://medium.com/p/423d08b36b1f) |
 | Thu, 22 May 2025 04:34:58 GMT | How RPA Can Cut Your Workflow Time in Half | Radium Ai | [Read More](https://medium.com/p/e5a7fcc213ec) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 19:30:51 GMT | Spring Boot Actuator in Spring Boot 3.x | Jaouadirabeb | [Read More](https://medium.com/p/a49d30e20245) |
 | Wed, 21 May 2025 19:24:58 GMT | The Silent Exposure: 150,000 ICS Devices Vulnerable to the Public Internet | Siva Gunasekaran | [Read More](https://medium.com/p/c5f6a6eea252) |
 | Wed, 21 May 2025 19:21:53 GMT | Cybersecurity Advisory: Hackers Exploit CAPTCHA Trick on Webflow to Deliver Phishing Attacks | Xaltius | [Read More](https://medium.com/p/a1917bd058fd) |
-| Wed, 21 May 2025 19:20:45 GMT | The Day I Bombed (at) the FBI | Andrew Hessel | [Read More](https://medium.com/p/691b6ce38225) |
-| Wed, 21 May 2025 19:19:02 GMT | Top 3 Microsoft Office Exploits Hackers Are Using in 2025 & How to Stop Them | Xaltius | [Read More](https://medium.com/p/ac856e11a5d7) |
-| Wed, 21 May 2025 19:17:09 GMT | Cybersecurity Advisory: Hackers Exploit Zoom’s Remote Control Feature | Xaltius | [Read More](https://medium.com/p/2d16cd926faf) |
-| Wed, 21 May 2025 19:11:26 GMT | Why a VPN on Your iPhone Is No Longer Optional in 2025 | VPN ForceField | [Read More](https://medium.com/p/2c586146fab2) |
-| Wed, 21 May 2025 19:09:03 GMT | Decoding the Layers: An Introduction to the VaultLayer™ Map System | VaultFam™ | [Read More](https://medium.com/p/7a9d1bac70c5) |
