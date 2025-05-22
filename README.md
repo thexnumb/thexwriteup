@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 04:24:30 GMT | Incident Response Planning for Media and Entertainment: A Step-by-Step Guide for Filipino… | Joseph Desmond Cruel | [Read More](https://medium.com/p/e2514e7e9863) |
+| Thu, 22 May 2025 04:08:59 GMT | When I Thought Edge Could Replace Chrome | Sam Galope | [Read More](https://medium.com/p/a6fb73769509) |
+| Thu, 22 May 2025 04:01:16 GMT | Data Security Breaches Lead To An Erosion Of Trust In Crypto Exchanges | VTECH | [Read More](https://medium.com/p/1c0e3ff8ce58) |
+| Thu, 22 May 2025 03:59:19 GMT | Incident Response Planning for Media and Entertainment: A Step-by-Step Guide for Filmmakers | Joseph Desmond Cruel | [Read More](https://medium.com/p/84d17453f9e2) |
+| Thu, 22 May 2025 03:58:48 GMT | The $2,000 SQLi Story: Hours, Payloads, and Pure Stubbornness | Erkan Kavas | [Read More](https://medium.com/p/05eab4c7b968) |
+| Thu, 22 May 2025 03:57:44 GMT | Security Tools on Windows Part 2 | Red | [Read More](https://medium.com/p/7c8f796cae2a) |
+| Thu, 22 May 2025 03:50:17 GMT | Is AI Protecting You Without You Noticing? | Maha Althobaiti | [Read More](https://medium.com/p/7a93e3a32db8) |
 | Thu, 22 May 2025 03:48:44 GMT | How i can bypassing strong WAF in XSS with simple payload | 0xRedFox29 | [Read More](https://medium.com/p/7ef5d22ca626) |
+| Thu, 22 May 2025 03:47:14 GMT | $13,950 Bounty: Stored XSS in GitLab Notes with a Clever CSP Bypass via <base> | Monika sharma | [Read More](https://medium.com/p/9ca1f49994e3) |
+| Thu, 22 May 2025 03:47:08 GMT | Nmap for Beginners: Learn Network Scanning the Easy Way | Satyam Pathania | [Read More](https://medium.com/p/1228e3117100) |
+| Thu, 22 May 2025 03:47:04 GMT | “You Found a USB Stick? Don’t Plug It In, It’s Not a Juice Box!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/e1ace9aae02a) |
+| Thu, 22 May 2025 03:45:31 GMT | 9 Ways AI Is Changing the DevOps Job (And How You can Stay Ahead) | Yajur | [Read More](https://medium.com/p/dc2ea80df549) |
 | Thu, 22 May 2025 03:32:24 GMT | Inside the Booking.com Phishing Scam Targeting Hotels | Deven Chhajed | [Read More](https://medium.com/p/5a99d866a362) |
 | Thu, 22 May 2025 03:12:30 GMT | Mirror on the Wall | Sincerely, Teneyah T. | [Read More](https://medium.com/p/0c0af725f33e) |
 | Thu, 22 May 2025 02:57:54 GMT | a letter to my 13-year-old self | Abitha Kodeeswaran | [Read More](https://medium.com/p/1acdc4261a25) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 18:32:33 GMT | How to Secure Your WordPress wp-config.php File the Right Way | Shubradeb | [Read More](https://medium.com/p/cad3d1cb4fb7) |
 | Wed, 21 May 2025 18:32:26 GMT | Threat Intelligence Advisory and Feasibility Report | Robert Schryvers ChT | [Read More](https://medium.com/p/c744dc287830) |
 | Wed, 21 May 2025 18:29:07 GMT | Security Information and Event Management (SIEM) | Igor Berner | [Read More](https://medium.com/p/f5aa849821a9) |
-| Wed, 21 May 2025 18:28:07 GMT | ️ Log Manipulation and Trace Detection in Linux Systems | Esra Kayhan | [Read More](https://medium.com/p/170dca7e714b) |
-| Wed, 21 May 2025 18:25:38 GMT | Always 200 OK: A Pen Tester’s Deep Dive into HTTP Method Misconfiguration | AkashSharma | [Read More](https://medium.com/p/39c74e691943) |
-| Wed, 21 May 2025 18:23:18 GMT | Day 2 of my AWS Pentesting journey — S3 Buckets Enumeration | mauzware | [Read More](https://medium.com/p/d89dc14ec926) |
-| Wed, 21 May 2025 18:10:48 GMT | 9 Secrets Rotation Scripts for DevOps on a Deadline | Devops Trainer | [Read More](https://medium.com/p/624463cfe21e) |
-| Wed, 21 May 2025 18:07:06 GMT | When Online Abuse Turns Violent | CyberMaterial | [Read More](https://medium.com/p/1906e63836bf) |
-| Wed, 21 May 2025 18:02:17 GMT | The Event Horizon of Trust: How Black Holes Inspire Cybersecurity | Nagachinmay KN | [Read More](https://medium.com/p/269644cd56cb) |
-| Wed, 21 May 2025 17:53:25 GMT | My Conversation with AI: Talking about Vulnerable Firewalls… | Travis Ray Caverhill | [Read More](https://medium.com/p/c4f95ae8bd2a) |
-| Wed, 21 May 2025 17:52:42 GMT | How Agentic AI is Revolutionizing Security Operations (And What It Means for Your SOC) | Simbian Ai | [Read More](https://medium.com/p/ad3d7c75d904) |
-| Wed, 21 May 2025 17:49:34 GMT | How to Set Up OpenVPN on Linux (Step-by-Step Guide) | Himanshu Gautam | [Read More](https://medium.com/p/9406d2cdd78f) |
-| Wed, 21 May 2025 17:46:49 GMT | In-Depth Cybersecurity Threat Landscape: May 2025 Analysis | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/8b2208f8d433) |
-| Wed, 21 May 2025 17:44:21 GMT | Identify Users Using Browser Fingerprinting | Parminder Singh | [Read More](https://medium.com/p/807345c31cab) |
