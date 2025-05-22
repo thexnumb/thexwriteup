@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 02:57:54 GMT | a letter to my 13-year-old self | Abitha Kodeeswaran | [Read More](https://medium.com/p/1acdc4261a25) |
+| Thu, 22 May 2025 02:45:40 GMT | This is how I got 16 CVEs in 2 months | Rayhan Hanaputra | [Read More](https://medium.com/p/491be07793b0) |
+| Thu, 22 May 2025 02:33:45 GMT | Five Ways Hackers Target Tourists (and How to Defend Yourself) | Manish Shivanandhan | [Read More](https://medium.com/p/060390fea82e) |
+| Thu, 22 May 2025 02:26:30 GMT | Advanced Node.js | Original bee | [Read More](https://medium.com/p/46eaa3e99b01) |
+| Thu, 22 May 2025 02:25:35 GMT | From Pods to Protection: Falco Securing Your VKS Cluster | Navneet Verma | [Read More](https://medium.com/p/2e8a34c8148a) |
+| Thu, 22 May 2025 02:25:24 GMT | Android Analysis - Tryhackme | Aaron | [Read More](https://medium.com/p/a6cb298a4a59) |
+| Thu, 22 May 2025 02:20:24 GMT | Meet the Teen ‘Cyberterrorist’ Who Waged a Digital War on India During Operation Sindoor | Abrar Alee | [Read More](https://medium.com/p/0604673de259) |
+| Thu, 22 May 2025 02:16:36 GMT | How I Passed the Blue Team Level 1 Exam (And You Can Too!) | Stefan Bargan | [Read More](https://medium.com/p/0811a3d48096) |
+| Thu, 22 May 2025 02:16:06 GMT | To Ride a Bike in Gaza | Gary Simons | [Read More](https://medium.com/p/b59ca24120bf) |
+| Thu, 22 May 2025 02:06:59 GMT | Forage Job Simulation — Cybersecurity Consultant | Shamar Isaac | [Read More](https://medium.com/p/ec9479dc0d30) |
+| Thu, 22 May 2025 01:49:18 GMT | Can I Recover My Money From Ubitex? | Evelyn | [Read More](https://medium.com/p/74f320144d9b) |
+| Thu, 22 May 2025 01:48:21 GMT | The Impact of Family Neglect on Homeless Youth and Their Vulnerability to Abuse | Abuse Refuge Org | [Read More](https://medium.com/p/4eb4e5e74f61) |
+| Thu, 22 May 2025 01:43:31 GMT | The Fear of Being Seen Makes Some Men Master Pretenders | LSD | [Read More](https://medium.com/p/b4e3eb0206fd) |
 | Thu, 22 May 2025 01:39:48 GMT | CRA（Cyber Resilience Act）対応は、日本の製造業の新たな経営課題である | Shige Tanimoto | [Read More](https://medium.com/p/776fbfc665d9) |
 | Thu, 22 May 2025 01:32:25 GMT | Weighing Our Chances | Nature's Wild Berry | [Read More](https://medium.com/p/2420b08e5eed) |
 | Thu, 22 May 2025 01:22:41 GMT | Invaders Didn’t Just Steal My Possessions — They Stole My Sense of Security | Wild Wombat | [Read More](https://medium.com/p/6af95b5c2c14) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 17:39:46 GMT | Wipro Partners with Hachette UK for Major SAP-Driven IT Overhaul | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/bece43186028) |
 | Wed, 21 May 2025 17:36:22 GMT | Hack The Box “SecNotes” Write-Up | Burak | [Read More](https://medium.com/p/fb21b42f183d) |
 | Wed, 21 May 2025 17:25:22 GMT | IoT Vulnerabilities and Security Models | Advika | [Read More](https://medium.com/p/426e2475edee) |
-| Wed, 21 May 2025 17:24:03 GMT | Modern-Day Dating and the Absence of Love | Kome | [Read More](https://medium.com/p/7ed5a37e2a8d) |
-| Wed, 21 May 2025 17:23:45 GMT | Branch Privilege Injection: A New Threat to Spectre v2 Mitigations | Manju B | [Read More](https://medium.com/p/9e266bb68413) |
-| Wed, 21 May 2025 17:19:31 GMT | The Power of IT Specialists and Managed Services | Noorvia | [Read More](https://medium.com/p/b561171015fc) |
-| Wed, 21 May 2025 17:17:12 GMT | From Paper Mountains to Actionable Insights: The Real-World Impact of AI-Powered Document… | Hussein Abdelwahab | [Read More](https://medium.com/p/a38bfadd9c6d) |
-| Wed, 21 May 2025 17:12:07 GMT | If You’re Trying and Still Hearing “Do Better,” This Might Help. | Goldie | [Read More](https://medium.com/p/ab708f05a667) |
-| Wed, 21 May 2025 17:10:50 GMT | Why CSPM(Cloud Security Posture Management) Is the Future of Scalable Cloud Security | Ajay Monga | [Read More](https://medium.com/p/2dfcaf638c4b) |
-| Wed, 21 May 2025 17:06:46 GMT | “FLOODLIGHTING” IN EARLY DATING STAGES ! COMFORT OR TOXICITY? | Kriti Dubey | [Read More](https://medium.com/p/2bec62d17953) |
-| Wed, 21 May 2025 17:03:59 GMT | Decentralization as a Key Architecture of Web3 Security Features: The Risk of Improper Application… | Samir Muhammad | [Read More](https://medium.com/p/84b63d21e43a) |
-| Wed, 21 May 2025 17:03:37 GMT | What’s the Difference Between a Hardware and Software Firewall? | Jazz Cyber Shield | [Read More](https://medium.com/p/94f669280843) |
-| Wed, 21 May 2025 17:02:59 GMT | Tools of the Trade: Bypassing Physical Security Controls (Without Breaking a Sweat) | Mark Puckett | [Read More](https://medium.com/p/d532db24da62) |
-| Wed, 21 May 2025 17:02:24 GMT | Protecting Our Ports | Abdelaziz moustakim | [Read More](https://medium.com/p/90d142c73c48) |
-| Wed, 21 May 2025 16:59:36 GMT | Eloquent Has Many Through: Laravel’s Hidden Gem for Complex Relationships | Alhassan Mohammed | [Read More](https://medium.com/p/a6a7359c855a) |
-| Wed, 21 May 2025 16:57:25 GMT | Assessment Methodologies: Information Gathering CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/6828fd9406a6) |
