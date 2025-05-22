@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 22:06:05 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/38c391cab46e) |
+| Thu, 22 May 2025 22:02:55 GMT | How to Create a Data Loss Prevention Incident Response Plan | Akshay Chauhan | [Read More](https://medium.com/p/11d55f9f88b1) |
+| Thu, 22 May 2025 21:38:07 GMT | Behind the Veil: Chinese Threat Actor UAT-6382 Breaches U.S. | Siva Gunasekaran | [Read More](https://medium.com/p/28fa69ef584b) |
 | Thu, 22 May 2025 21:24:08 GMT | AI-assisted hacking with JetBrains Junie: Reconnaissance & Subdomain enumeration | Dmitry Protsenko | [Read More](https://medium.com/p/80a02bbe9f01) |
 | Thu, 22 May 2025 21:22:01 GMT | Rethinking the Architecture of Trust | Danu Vino | [Read More](https://medium.com/p/65e857d1d5dc) |
 | Thu, 22 May 2025 21:21:00 GMT | How to Stop Cyberbullying Before it Happens | Savvy Cyber Kids | [Read More](https://medium.com/p/dcdd8e21622b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 15:46:02 GMT | امنیت سایبری: سپر نامرئی زندگی دیجیتال ما | AmirSharifi | [Read More](https://medium.com/p/d296d0e7064f) |
 | Thu, 22 May 2025 15:39:17 GMT | How I used the riskiest method to Migrate from Auto-Incrementing IDs to UUIDs in Django/DRF | Lawal Tajudeen | [Read More](https://medium.com/p/e5aefc211a47) |
 | Thu, 22 May 2025 15:32:28 GMT | Splunk 3, Task 3 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/39bdb4fa0c4c) |
-| Thu, 22 May 2025 15:28:54 GMT | Earn More with ChainBounty $BOUNTY by following this step-by-step guide. | BOUNTY | [Read More](https://medium.com/p/1534dba1d29d) |
-| Thu, 22 May 2025 15:26:58 GMT | What is the Best Firewall for Home Use in the USA? | Jazz Cyber Shield | [Read More](https://medium.com/p/8717fea5612c) |
-| Thu, 22 May 2025 15:26:14 GMT | Chinese Hackers Breach U.S. Local Governments via Trimble Cityworks Zero-Day Exploit | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/e47a9b1e98bc) |
