@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 10:20:56 GMT | Alterx Subdomain Wordlist Generator | AbhirupKonwar | [Read More](https://medium.com/p/2050f4407beb) |
+| Thu, 22 May 2025 10:20:05 GMT | Development to Deployment: The EDSPL Way of Delivering End-to-End Technology Services | saurabh cyberinfomines | [Read More](https://medium.com/p/303a077ccca3) |
+| Thu, 22 May 2025 10:19:20 GMT | ADB Commands for Android Pentester | Rishav anand | [Read More](https://medium.com/p/3cfde8c39d8b) |
+| Thu, 22 May 2025 10:17:57 GMT | Inside the $330M Crypto Heist: Trust as an Attack Vector | Malcolm Oliveira Neto | [Read More](https://medium.com/p/714e0d96d87d) |
+| Thu, 22 May 2025 10:15:45 GMT | Major Coca-Cola Data Breach: Everest Hacking Group Exfiltrates 23 Million Records | Technijian | [Read More](https://medium.com/p/3fb2097ee439) |
+| Thu, 22 May 2025 10:15:32 GMT | What Quantum Computing Means for Cybersecurity | Ali Qureshi | [Read More](https://medium.com/p/fa08b172f6ca) |
+| Thu, 22 May 2025 10:13:06 GMT | Metasploitable2: The FTP Massacre [Part 2: vsftpd 2.3.4 Backdoor & Anonymous Access] | Armaan Mulla | [Read More](https://medium.com/p/f9eb3e052a15) |
+| Thu, 22 May 2025 10:08:43 GMT | The True Cost of a Cyber Attack: What Most Businesses Overlook | Fountain Hills Technologies | [Read More](https://medium.com/p/cc21488b7a18) |
+| Thu, 22 May 2025 10:08:23 GMT | Consigue una elegante skin WhiteBIT Nova para celebrar el Día de Bitcoin Pizza | WhiteBIT | [Read More](https://medium.com/p/0bb85d513a48) |
+| Thu, 22 May 2025 10:01:25 GMT | What Every CISO Needs to Know About Modern Cyber Threats | West Advanced Technologies Inc | [Read More](https://medium.com/p/7a43f36f415e) |
+| Thu, 22 May 2025 09:59:04 GMT | How to Build and Lead a Cybersecurity Transformation Program in Large Enterprises | A-STAR7_DOCTOR | [Read More](https://medium.com/p/811f9669b26b) |
+| Thu, 22 May 2025 09:58:29 GMT | Please Don’t Look At Me! | DR Aiza | [Read More](https://medium.com/p/d47eaa6259c5) |
+| Thu, 22 May 2025 09:56:06 GMT | DevOps vs. DevSecOps: Not a Battle — A Transformation | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/6d9a4c3c88b8) |
+| Thu, 22 May 2025 09:55:27 GMT | MISCONFIGURED  PORTS  & OUTDATED SOFTWARE— A Hacker’s Playground | Abdulkadir Ibrahim | [Read More](https://medium.com/p/181098b85405) |
+| Thu, 22 May 2025 09:50:32 GMT | FortifyDigit: The Cybersecurity Company in Kerala That Protects Businesses 24/7 | Shahid Afreedi | [Read More](https://medium.com/p/dc2a1a3f89b8) |
+| Thu, 22 May 2025 09:48:16 GMT | The M&S Cyberattack: A Wake-Up Call for Retail Cybersecurity | Zak Rashid | [Read More](https://medium.com/p/e0a35ca8965a) |
+| Thu, 22 May 2025 09:43:17 GMT | Cybersecurity Myths That Put Your Business at Risk | Fountain Hills Technologies | [Read More](https://medium.com/p/86ec730d643d) |
+| Thu, 22 May 2025 09:39:04 GMT | Critical ChatGPT Vulnerability Allows Embedding of Malicious SVGs & Images in Shared… | Infoziant | [Read More](https://medium.com/p/6289004564cf) |
+| Thu, 22 May 2025 09:38:55 GMT | Inside Scattered Spider: Unmasking One of the Most Dangerous Cybercrime Groups of Our Time | Azutech | [Read More](https://medium.com/p/b52d08c782ad) |
 | Thu, 22 May 2025 09:38:00 GMT | You don’t want to be a Bug-Hunter. You want to be a Pentester. | Krank Kevin | [Read More](https://medium.com/p/9e9a64ea1fa6) |
+| Thu, 22 May 2025 09:35:23 GMT | Docker Introduces Hardened Images: What It Means for Secure Container Development | Ozimede | [Read More](https://medium.com/p/aebb88502c32) |
 | Thu, 22 May 2025 09:34:23 GMT | CyberDefender: “PsExec Hunt Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/1cdbdfd74b1e) |
 | Thu, 22 May 2025 09:33:56 GMT | SOAR IS DEAD! | Steve Pye | [Read More](https://medium.com/p/8c9db4e78326) |
 | Thu, 22 May 2025 09:27:18 GMT | Coinbase Warns of Up to $400M Loss Following Cyber Attack: What It Means for Crypto Security | CyBlog | [Read More](https://medium.com/p/d35f6feb68d1) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 04:24:30 GMT | Incident Response Planning for Media and Entertainment: A Step-by-Step Guide for Filipino… | Joseph Desmond Cruel | [Read More](https://medium.com/p/e2514e7e9863) |
 | Thu, 22 May 2025 04:20:19 GMT | What is Automated Incident Response? | Priyansha Madhwal | [Read More](https://medium.com/p/7a3aa0059330) |
 | Thu, 22 May 2025 04:18:37 GMT | Detected Suspicious Xls File - Letsdefined | Arshad Hossain | [Read More](https://medium.com/p/14b0fea38499) |
-| Thu, 22 May 2025 04:08:59 GMT | When I Thought Edge Could Replace Chrome | Sam Galope | [Read More](https://medium.com/p/a6fb73769509) |
-| Thu, 22 May 2025 04:01:16 GMT | Data Security Breaches Lead To An Erosion Of Trust In Crypto Exchanges | VTECH | [Read More](https://medium.com/p/1c0e3ff8ce58) |
-| Thu, 22 May 2025 03:59:19 GMT | Incident Response Planning for Media and Entertainment: A Step-by-Step Guide for Filmmakers | Joseph Desmond Cruel | [Read More](https://medium.com/p/84d17453f9e2) |
-| Thu, 22 May 2025 03:58:48 GMT | The $2,000 SQLi Story: Hours, Payloads, and Pure Stubbornness | Erkan Kavas | [Read More](https://medium.com/p/05eab4c7b968) |
-| Thu, 22 May 2025 03:57:44 GMT | Security Tools on Windows Part 2 | Red | [Read More](https://medium.com/p/7c8f796cae2a) |
-| Thu, 22 May 2025 03:50:17 GMT | Is AI Protecting You Without You Noticing? | Maha Althobaiti | [Read More](https://medium.com/p/7a93e3a32db8) |
-| Thu, 22 May 2025 03:48:44 GMT | How i can bypassing strong WAF in XSS with simple payload | 0xRedFox29 | [Read More](https://medium.com/p/7ef5d22ca626) |
-| Thu, 22 May 2025 03:47:14 GMT | $13,950 Bounty: Stored XSS in GitLab Notes with a Clever CSP Bypass via <base> | Monika sharma | [Read More](https://medium.com/p/9ca1f49994e3) |
-| Thu, 22 May 2025 03:47:08 GMT | Nmap for Beginners: Learn Network Scanning the Easy Way | Satyam Pathania | [Read More](https://medium.com/p/1228e3117100) |
-| Thu, 22 May 2025 03:47:04 GMT | “You Found a USB Stick? Don’t Plug It In, It’s Not a Juice Box!” | Bl@ckC!pH3r | [Read More](https://medium.com/p/e1ace9aae02a) |
-| Thu, 22 May 2025 03:45:31 GMT | 9 Ways AI Is Changing the DevOps Job (And How You can Stay Ahead) | Yajur | [Read More](https://medium.com/p/dc2ea80df549) |
-| Thu, 22 May 2025 03:32:24 GMT | Inside the Booking.com Phishing Scam Targeting Hotels | Deven Chhajed | [Read More](https://medium.com/p/5a99d866a362) |
-| Thu, 22 May 2025 03:12:30 GMT | Mirror on the Wall | Sincerely, Teneyah T. | [Read More](https://medium.com/p/0c0af725f33e) |
-| Thu, 22 May 2025 02:57:54 GMT | a letter to my 13-year-old self | Abitha Kodeeswaran | [Read More](https://medium.com/p/1acdc4261a25) |
-| Thu, 22 May 2025 02:45:40 GMT | This is how I got 16 CVEs in 2 months | Rayhan Hanaputra | [Read More](https://medium.com/p/491be07793b0) |
-| Thu, 22 May 2025 02:33:45 GMT | Five Ways Hackers Target Tourists (and How to Defend Yourself) | Manish Shivanandhan | [Read More](https://medium.com/p/060390fea82e) |
-| Thu, 22 May 2025 02:26:30 GMT | Advanced Node.js | Original bee | [Read More](https://medium.com/p/46eaa3e99b01) |
-| Thu, 22 May 2025 02:25:35 GMT | From Pods to Protection: Falco Securing Your VKS Cluster | Navneet Verma | [Read More](https://medium.com/p/2e8a34c8148a) |
-| Thu, 22 May 2025 02:25:24 GMT | Android Analysis - Tryhackme | Aaron | [Read More](https://medium.com/p/a6cb298a4a59) |
-| Thu, 22 May 2025 02:20:24 GMT | Meet the Teen ‘Cyberterrorist’ Who Waged a Digital War on India During Operation Sindoor | Abrar Alee | [Read More](https://medium.com/p/0604673de259) |
