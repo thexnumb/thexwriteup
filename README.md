@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 11:08:32 GMT | I Typed Just One Command — And My PC Told Me All Its WiFi Secrets | Kuldeepkumawat | [Read More](https://medium.com/p/e2c715ab187a) |
+| Thu, 22 May 2025 11:04:00 GMT | Phishing Explained: How Cybercriminals Trick You and How to Stay Safe | CyDhaal | [Read More](https://medium.com/p/5e57a1f2d696) |
+| Thu, 22 May 2025 11:03:40 GMT | CrowdSec: The Open-Source IPS That Fights Back Against Real-World Attacks | Muhammed Dhulkifli k | [Read More](https://medium.com/p/704b7992fcc1) |
+| Thu, 22 May 2025 11:02:55 GMT | Unlocking the Power of VAPT Security Testing Services: Why Your Business Needs It | Sureshnextwebi | [Read More](https://medium.com/p/dceea00d0046) |
+| Thu, 22 May 2025 10:56:37 GMT | Top-Tier Security Services in Pune: What to Expect | United Guard Force India | [Read More](https://medium.com/p/c3a9d32937b0) |
+| Thu, 22 May 2025 10:56:21 GMT | Professional Data Recovery Services in India - Cybermate Forensics | Jitendrachavan | [Read More](https://medium.com/p/8dcb382949e6) |
+| Thu, 22 May 2025 10:52:21 GMT | Humans Are The Weakest Link, Are We Making Them Weaker By Saying That? | Marisa Tranchitella Foltz | [Read More](https://medium.com/p/0493361cae7a) |
+| Thu, 22 May 2025 10:52:00 GMT | Social Engineering — Why Humans Are the Weakest Link (Yes, Even You, Karen) | Bl@ckC!pH3r | [Read More](https://medium.com/p/330923844003) |
+| Thu, 22 May 2025 10:46:46 GMT | My Journey from Student to Ethical Hacking Expert: What I Wish I Knew Earlier | Ayoub | [Read More](https://medium.com/p/c5c8ea211702) |
+| Thu, 22 May 2025 10:46:04 GMT | Unpatched 0-Day in Versa Concerto Exposes Enterprises to Full System Takeover via Authentication… | CyDhaal | [Read More](https://medium.com/p/29e531e4df4b) |
+| Thu, 22 May 2025 10:42:09 GMT | Top 14 Secrets Management Tools Ranked (for DevOps in 2025) | Devops Trainer | [Read More](https://medium.com/p/f971ce1102fe) |
 | Thu, 22 May 2025 10:33:38 GMT | Ultimate Guide to Palo Alto Networks XDR Engineer Exam Preparation (2025) | Skillcertexams | [Read More](https://medium.com/p/1b6e994dc429) |
 | Thu, 22 May 2025 10:31:33 GMT | Increase Your ChainBounty $BOUNTY Rewards in 2025 | BOUNTY | [Read More](https://medium.com/p/ee716575f62a) |
 | Thu, 22 May 2025 10:28:37 GMT | Rise of AI in Security Operations Centers (SOC) | InfosecTrain | [Read More](https://medium.com/p/ece90fcc6d42) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 05:53:38 GMT | Exploit PORT : 5900 , 59001 - VNC Port exploit (Series:1/ [article:3]) | Mr Horbio | [Read More](https://medium.com/p/c07d09ebdf5b) |
 | Thu, 22 May 2025 05:52:10 GMT | Coinbase’s $20M Extortion Drama: A Tale of Bribery and Betrayal | Ismail Tasdelen | [Read More](https://medium.com/p/caee8bca63e2) |
 | Thu, 22 May 2025 05:47:53 GMT | Mobile App Pentesting — Part 3: Static Analysis of Android Apps | Tanzeem Khatri | [Read More](https://medium.com/p/ef6f12a37625) |
-| Thu, 22 May 2025 05:22:55 GMT | As someone working in security, I’ve seen how quickly new technologies open up new vulnerabilities… | Rushabh Papinwar | [Read More](https://medium.com/p/1305cebf298b) |
-| Thu, 22 May 2025 05:19:57 GMT | “Governments Be Like: ‘Secure the Borders!’ | Muthi'ah Afifah Husna | [Read More](https://medium.com/p/4778362e7d1f) |
-| Thu, 22 May 2025 05:14:15 GMT | Marvis Minis By Juniper Networks: The Future of AI-Powered Network Simulation | Juara IT Solutions | [Read More](https://medium.com/p/7700f3a0a6ee) |
-| Thu, 22 May 2025 05:09:39 GMT | ️How I Bypassed OTP Verification Without Any Code Injection | Abhijeet Kumawat | [Read More](https://medium.com/p/1fb28a705cd4) |
-| Thu, 22 May 2025 05:05:45 GMT | Build a Secure Authentication System in Next.js with Mongoose and Cookies | Vihanga Mallawaarachchi | [Read More](https://medium.com/p/81f8c885b2dd) |
-| Thu, 22 May 2025 05:02:35 GMT | Securing AI Workloads on NVIDIA GPUs | Nazeer | [Read More](https://medium.com/p/2c50ecb55c6f) |
-| Thu, 22 May 2025 04:48:19 GMT | Surrendering to Vulnerability | Kaye705 | [Read More](https://medium.com/p/e77439d894c3) |
-| Thu, 22 May 2025 04:43:41 GMT | Cybersecurity vs Ethical Hacking: Key Differences to Know Before Choosing Your 2025 Career Path | Arya College | [Read More](https://medium.com/p/d881ac4a865a) |
-| Thu, 22 May 2025 04:35:57 GMT | Transforming Concepts into High-Quality Mobile Apps with Inspite Technologies | Swethainspite | [Read More](https://medium.com/p/423d08b36b1f) |
-| Thu, 22 May 2025 04:34:58 GMT | How RPA Can Cut Your Workflow Time in Half | Radium Ai | [Read More](https://medium.com/p/e5a7fcc213ec) |
-| Thu, 22 May 2025 04:29:01 GMT | Customized Mobile App Development Services That Transform Your Vision into Reality | Swethainspite | [Read More](https://medium.com/p/2b85e538b71b) |
