@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 21:06:25 GMT | Don’t Be an Easy Target: 10 Home Security Mistakes I Realized We’re All Probably Making (Even in… | B Painex | [Read More](https://medium.com/p/2c6b3bf6f4ef) |
+| Thu, 22 May 2025 20:54:48 GMT | How to train employees on cybersecurity _ even if they are not tech savvy | fatima shahbaz | [Read More](https://medium.com/p/9d44579fa6d3) |
+| Thu, 22 May 2025 20:51:13 GMT | ETW Event Injection via Guard Pages | S12 - H4CK | [Read More](https://medium.com/p/1345f3e5b271) |
+| Thu, 22 May 2025 20:42:03 GMT | Open Source Communications Security: Balancing Accessibility and Protection | Justin Downes | [Read More](https://medium.com/p/9c5abea88d44) |
+| Thu, 22 May 2025 20:41:54 GMT | 10 Underrated Linux System Administration Tips & Tricks Every New Admin Should Know | Tech Trends Today | [Read More](https://medium.com/p/bb3c6c399821) |
+| Thu, 22 May 2025 20:40:23 GMT | Is Online Security Getting Worse? | Kathryn Wifvat | [Read More](https://medium.com/p/6ebad9d4a922) |
+| Thu, 22 May 2025 20:39:03 GMT | AI Cyber Wars: The Machines Fighting Back Against Hackers | Asimsultan (Head of AI) | [Read More](https://medium.com/p/25fd4e5fe8e0) |
 | Thu, 22 May 2025 20:30:33 GMT | Splunk 3, Task 6 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/4ab8b4afa7f4) |
 | Thu, 22 May 2025 20:19:34 GMT | Why You Should Own a Personal Bitcoin Wallet – Especially for Tax Efficiency | Ashley 사랑 | [Read More](https://medium.com/p/f4f91bb51b8b) |
 | Thu, 22 May 2025 20:18:36 GMT | The Gentle Giant | McKenzie Beden | [Read More](https://medium.com/p/92bfc21ae302) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 15:02:34 GMT | Crianças em Perigo nas Redes Sociais | PovCast | [Read More](https://medium.com/p/1bd8c20fc80e) |
 | Thu, 22 May 2025 15:00:10 GMT | Defensive Cybersecurity as Told by Viagra | JimbosLab | [Read More](https://medium.com/p/4b5e1f1cb17e) |
 | Thu, 22 May 2025 14:56:16 GMT | No Password, No Problem: Account Takeover via Cleverly Placed XSS — Here’s How I Earned $$$ | THE_DARK_KNIGHT | [Read More](https://medium.com/p/33ac75c72cb4) |
-| Thu, 22 May 2025 14:55:08 GMT | CSRF Testing Methodology: From Detection to Exploitation | Shah kaif | [Read More](https://medium.com/p/4235423af02e) |
-| Thu, 22 May 2025 14:49:19 GMT | ️Day 43: Fortifying Networks: A Complete Guide to Firewalls, IDS/IPS, and Practical Linux… | Agarwaldaksh | [Read More](https://medium.com/p/17ed679ad1a9) |
-| Thu, 22 May 2025 14:46:44 GMT | Cybersecurity Awareness 2025: How SMBs Can Stay Ahead of Evolving Threats | RITC Cybersecurity | [Read More](https://medium.com/p/1380215cdffd) |
-| Thu, 22 May 2025 14:46:31 GMT | Why CompTIA’s New SecOT+ Certification Matters, and Why It’s on My Radar | Brittney Ginther | [Read More](https://medium.com/p/a20e5689a53b) |
-| Thu, 22 May 2025 14:46:29 GMT | Elevate Your Earnings with Curvance $CVE | CVE | [Read More](https://medium.com/p/71a1757eeba5) |
-| Thu, 22 May 2025 14:43:27 GMT | Gameplan for Article and Training -aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/fd3c706360e8) |
-| Thu, 22 May 2025 14:38:18 GMT | Privacy-Preserving AI Development on Your Mac: Leveraging ServBay’s Secure Local Environment for… | James Miller | [Read More](https://medium.com/p/2e9120a6ba73) |
