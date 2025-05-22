@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 05:22:55 GMT | As someone working in security, I’ve seen how quickly new technologies open up new vulnerabilities… | Rushabh Papinwar | [Read More](https://medium.com/p/1305cebf298b) |
+| Thu, 22 May 2025 05:19:57 GMT | “Governments Be Like: ‘Secure the Borders!’ | Muthi'ah Afifah Husna | [Read More](https://medium.com/p/4778362e7d1f) |
 | Thu, 22 May 2025 05:14:15 GMT | Marvis Minis By Juniper Networks: The Future of AI-Powered Network Simulation | Juara IT Solutions | [Read More](https://medium.com/p/7700f3a0a6ee) |
 | Thu, 22 May 2025 05:09:39 GMT | ️How I Bypassed OTP Verification Without Any Code Injection | Abhijeet Kumawat | [Read More](https://medium.com/p/1fb28a705cd4) |
 | Thu, 22 May 2025 05:05:45 GMT | Build a Secure Authentication System in Next.js with Mongoose and Cookies | Vihanga Mallawaarachchi | [Read More](https://medium.com/p/81f8c885b2dd) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 19:47:25 GMT | عنوان: روندهای نوین در امنیت سایبری: حفاظت در عصر دیجیتال امروزه که زندگی‌مان بیش از هر زمان دیگری… | AmirSharifi | [Read More](https://medium.com/p/a74bc7bf61be) |
 | Wed, 21 May 2025 19:43:05 GMT | Your First Cybersecurity Job Won’t Be Perfect — And That’s Totally Fine | Taimur Ijlal | [Read More](https://medium.com/p/64a764443e04) |
 | Wed, 21 May 2025 19:30:51 GMT | Spring Boot Actuator in Spring Boot 3.x | Jaouadirabeb | [Read More](https://medium.com/p/a49d30e20245) |
-| Wed, 21 May 2025 19:24:58 GMT | The Silent Exposure: 150,000 ICS Devices Vulnerable to the Public Internet | Siva Gunasekaran | [Read More](https://medium.com/p/c5f6a6eea252) |
-| Wed, 21 May 2025 19:21:53 GMT | Cybersecurity Advisory: Hackers Exploit CAPTCHA Trick on Webflow to Deliver Phishing Attacks | Xaltius | [Read More](https://medium.com/p/a1917bd058fd) |
