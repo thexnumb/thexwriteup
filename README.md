@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 07:16:51 GMT | How Your App Becomes a Backdoor: The Risk of Forgotten Endpoints and Unsecured APIs | The Hackers Meetup | [Read More](https://medium.com/p/2c824fed4679) |
+| Thu, 22 May 2025 07:02:29 GMT | Cybersecurity Careers for Beginners: Where Should You Start? | Muhammad Schees | [Read More](https://medium.com/p/c68323870ee3) |
+| Thu, 22 May 2025 06:58:31 GMT | How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance | Very Lazy Tech | [Read More](https://medium.com/p/602c23093fce) |
+| Thu, 22 May 2025 06:51:48 GMT | PWA Scams Are the New Cyber Trap: How Hackers Are Targeting Mobile Users with Malicious JavaScript | CyDhaal | [Read More](https://medium.com/p/42349cccfe53) |
+| Thu, 22 May 2025 06:49:23 GMT | Asia’s eCommerce Fraud Prevention Market: Growth Drivers and Forecast Through 2028 | Gargiben | [Read More](https://medium.com/p/54a8bfb57610) |
+| Thu, 22 May 2025 06:38:17 GMT | How to Keep Critical Operations Alive with Rugged Dual 5G — NEXCOM ISA 141 Knows the Answer | NEXCOM 新漢 | [Read More](https://medium.com/p/2492583c2ac8) |
+| Thu, 22 May 2025 06:33:31 GMT | 05 Different Types of Web Security And How to Protect Against Them | Hamza Hanif | [Read More](https://medium.com/p/3d2bdfac2a4b) |
+| Thu, 22 May 2025 06:33:30 GMT | Hacked and Tracked: How Criminals Buy and Sell Your Digital Life! | Tanujsinha | [Read More](https://medium.com/p/b37dd347c589) |
+| Thu, 22 May 2025 06:33:14 GMT | Risk Appetite vs. Risk Tolerance: What’s the Difference and Why It Matters | Paritosh | [Read More](https://medium.com/p/7a52aabbf7d9) |
+| Thu, 22 May 2025 06:30:24 GMT | I Ran LaZagne on My PC — And It Found Passwords I Thought Were Gone Forever | Kuldeepkumawat | [Read More](https://medium.com/p/817c5115c07a) |
+| Thu, 22 May 2025 06:27:19 GMT | Building a Snort IDS on a VPS and Testing Attacks from Kali Linux | Tegarfatwanugroho | [Read More](https://medium.com/p/220af8eea2b8) |
 | Thu, 22 May 2025 06:10:43 GMT | Best IT Companies for Freshers to Start Their Career in 2025 (India Edition) | Prism HRC | [Read More](https://medium.com/p/fdec127da45c) |
 | Thu, 22 May 2025 06:10:09 GMT | Trusted Manchester Retail Park Security Services — Marvellous Security | Marvelloussecurities | [Read More](https://medium.com/p/cef58eda2aa4) |
 | Thu, 22 May 2025 06:09:56 GMT | Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/4b00cb2643d0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 22:07:20 GMT | Silgan Containers Data Breach: Potential Claims in California | LegalNewsbyDave | [Read More](https://medium.com/p/b8f4f852f75c) |
 | Wed, 21 May 2025 21:52:31 GMT | 5 Signs You’re Already Under Attack and Don’t Know It Yet | Bits Kingdom | [Read More](https://medium.com/p/7ff691f779bb) |
 | Wed, 21 May 2025 21:48:32 GMT | noise drum | Nidhi Shah | [Read More](https://medium.com/p/65db77eb48d4) |
-| Wed, 21 May 2025 21:46:50 GMT | AD: Basic Enumeration TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/8344b77524b4) |
-| Wed, 21 May 2025 21:46:48 GMT | Serviceaide Data Breach is Part of a Larger Healthcare Trend | Matthew.Rosenquist | [Read More](https://medium.com/p/30ccef8dc762) |
-| Wed, 21 May 2025 21:33:21 GMT | Building the Quantum Supercomputers of Tomorrow — Scientists Connect Quantum Processors via Fiber… | QuantumGenie | [Read More](https://medium.com/p/8e2272d92e06) |
-| Wed, 21 May 2025 21:19:21 GMT | Fully visible traceroute with stalkroute | suicidal_teddy | [Read More](https://medium.com/p/5a75e3cfe8f5) |
-| Wed, 21 May 2025 21:16:21 GMT | Is your child gaming with strangers? Are they safe? | Savvy Cyber Kids | [Read More](https://medium.com/p/80a5fea47015) |
-| Wed, 21 May 2025 21:14:57 GMT | Topic: How does my social media know what I am interested in? | Savvy Cyber Kids | [Read More](https://medium.com/p/2ca8d12cb0e1) |
-| Wed, 21 May 2025 21:14:24 GMT | Unlocking Nostalgia: How Curiosity Led Me to Reverse Engineer a Unity Game | Barengsinau | [Read More](https://medium.com/p/40a8f5d2b17b) |
-| Wed, 21 May 2025 21:13:46 GMT | CMMI: The Maturity level of software product | Rahul Kumar | [Read More](https://medium.com/p/843f9842ceae) |
-| Wed, 21 May 2025 21:13:03 GMT | The Problem with Privacy and Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/902a69ce0047) |
-| Wed, 21 May 2025 21:10:44 GMT | LetsDefend Remote Working Challenge Walkthrough | El Mahjoub AIT MEDDAH | [Read More](https://medium.com/p/937029406add) |
-| Wed, 21 May 2025 21:10:16 GMT | Is It Really Possible to Get Hacked Just by Downloading an Image on WhatsApp? | CyberLucifer | [Read More](https://medium.com/p/b57de1bd9702) |
