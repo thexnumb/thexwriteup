@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 03:48:44 GMT | How i can bypassing strong WAF in XSS with simple payload | 0xRedFox29 | [Read More](https://medium.com/p/7ef5d22ca626) |
+| Thu, 22 May 2025 03:32:24 GMT | Inside the Booking.com Phishing Scam Targeting Hotels | Deven Chhajed | [Read More](https://medium.com/p/5a99d866a362) |
+| Thu, 22 May 2025 03:12:30 GMT | Mirror on the Wall | Sincerely, Teneyah T. | [Read More](https://medium.com/p/0c0af725f33e) |
 | Thu, 22 May 2025 02:57:54 GMT | a letter to my 13-year-old self | Abitha Kodeeswaran | [Read More](https://medium.com/p/1acdc4261a25) |
 | Thu, 22 May 2025 02:45:40 GMT | This is how I got 16 CVEs in 2 months | Rayhan Hanaputra | [Read More](https://medium.com/p/491be07793b0) |
 | Thu, 22 May 2025 02:33:45 GMT | Five Ways Hackers Target Tourists (and How to Defend Yourself) | Manish Shivanandhan | [Read More](https://medium.com/p/060390fea82e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 17:49:34 GMT | How to Set Up OpenVPN on Linux (Step-by-Step Guide) | Himanshu Gautam | [Read More](https://medium.com/p/9406d2cdd78f) |
 | Wed, 21 May 2025 17:46:49 GMT | In-Depth Cybersecurity Threat Landscape: May 2025 Analysis | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/8b2208f8d433) |
 | Wed, 21 May 2025 17:44:21 GMT | Identify Users Using Browser Fingerprinting | Parminder Singh | [Read More](https://medium.com/p/807345c31cab) |
-| Wed, 21 May 2025 17:39:46 GMT | Wipro Partners with Hachette UK for Major SAP-Driven IT Overhaul | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/bece43186028) |
-| Wed, 21 May 2025 17:36:22 GMT | Hack The Box “SecNotes” Write-Up | Burak | [Read More](https://medium.com/p/fb21b42f183d) |
-| Wed, 21 May 2025 17:25:22 GMT | IoT Vulnerabilities and Security Models | Advika | [Read More](https://medium.com/p/426e2475edee) |
