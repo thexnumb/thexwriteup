@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 22:24:42 GMT | Web Cache Poisoning lead to DoS Attack | HiPFiRE | [Read More](https://medium.com/p/bde188e3511d) |
+| Thu, 22 May 2025 22:24:06 GMT | Hashing Basics - THM | Isiah | [Read More](https://medium.com/p/14eeb33ece6a) |
+| Thu, 22 May 2025 22:21:32 GMT | From Paper to Practice: How to Build Policies That Actually Work | Brittney Ginther | [Read More](https://medium.com/p/773178739aff) |
+| Thu, 22 May 2025 22:17:38 GMT | Hands-On SOC Lab: Active Directory with Splunk, Shuffle, & Slack | Ray Maiden | [Read More](https://medium.com/p/8ba595b52772) |
+| Thu, 22 May 2025 22:16:46 GMT | Networking Terminologies — Part 2: Advanced Concepts for Cybersecurity and Pentesting | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b7f3b3f80181) |
+| Thu, 22 May 2025 22:07:33 GMT | Why Zero-Trust Security is Non-Negotiable for Small Businesses in 2025 | Adam Gross | [Read More](https://medium.com/p/788d8161f99a) |
 | Thu, 22 May 2025 22:06:05 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/38c391cab46e) |
 | Thu, 22 May 2025 22:02:55 GMT | How to Create a Data Loss Prevention Incident Response Plan | Akshay Chauhan | [Read More](https://medium.com/p/11d55f9f88b1) |
 | Thu, 22 May 2025 21:38:07 GMT | Behind the Veil: Chinese Threat Actor UAT-6382 Breaches U.S. | Siva Gunasekaran | [Read More](https://medium.com/p/28fa69ef584b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 16:05:26 GMT | Water Crisis and the Survival of Endangered Fauna in the Zagros Mountains: A Conservation… | Koroshgushkamazan | [Read More](https://medium.com/p/726fc111048b) |
 | Thu, 22 May 2025 16:04:34 GMT | The Sickle of Silence | Sam Khosravifard | [Read More](https://medium.com/p/fd619482351a) |
 | Thu, 22 May 2025 16:02:35 GMT | GoDaddy’s FTC Settlement: When “Oops” Is Apparently Enough | CyberAdvisor | [Read More](https://medium.com/p/94535ce1776f) |
-| Thu, 22 May 2025 15:52:38 GMT | Why an identity-centric approach to Tools Rationalization is the place to start | anthony k | [Read More](https://medium.com/p/6b788bc2153b) |
-| Thu, 22 May 2025 15:50:06 GMT | How Insurance Helps You Build Financial Security | INSURANCE INSIGHTS HUB | [Read More](https://medium.com/p/d61c1b15a71f) |
-| Thu, 22 May 2025 15:47:57 GMT | Cybersicherheit: Der unsichtbare Schutzschild unseres digitalen Lebens | AmirSharifi | [Read More](https://medium.com/p/b9422ffa6635) |
-| Thu, 22 May 2025 15:46:02 GMT | امنیت سایبری: سپر نامرئی زندگی دیجیتال ما | AmirSharifi | [Read More](https://medium.com/p/d296d0e7064f) |
-| Thu, 22 May 2025 15:39:17 GMT | How I used the riskiest method to Migrate from Auto-Incrementing IDs to UUIDs in Django/DRF | Lawal Tajudeen | [Read More](https://medium.com/p/e5aefc211a47) |
-| Thu, 22 May 2025 15:32:28 GMT | Splunk 3, Task 3 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/39bdb4fa0c4c) |
