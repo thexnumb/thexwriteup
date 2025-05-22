@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 06:10:43 GMT | Best IT Companies for Freshers to Start Their Career in 2025 (India Edition) | Prism HRC | [Read More](https://medium.com/p/fdec127da45c) |
+| Thu, 22 May 2025 06:10:09 GMT | Trusted Manchester Retail Park Security Services — Marvellous Security | Marvelloussecurities | [Read More](https://medium.com/p/cef58eda2aa4) |
+| Thu, 22 May 2025 06:09:56 GMT | Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/4b00cb2643d0) |
+| Thu, 22 May 2025 06:06:41 GMT | Reclaiming yourself in a world that won’t shut the fuck up | Boluwatife Lash | [Read More](https://medium.com/p/6afaf5e49910) |
+| Thu, 22 May 2025 06:04:04 GMT | How to check root and emulator in Android? | Ipek Birinci | [Read More](https://medium.com/p/f16c18611b0c) |
+| Thu, 22 May 2025 06:03:34 GMT | Top Ethical Hacking Courses in Bangalore: Learn from the Experts | RedTeamsaniga Suresh | [Read More](https://medium.com/p/bd51b5b30c2e) |
+| Thu, 22 May 2025 06:01:59 GMT | AI in Cybersecurity: Boon or Bane? | Sivakamikd | [Read More](https://medium.com/p/0a3ce21072b3) |
+| Thu, 22 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/25b7f960c374) |
+| Thu, 22 May 2025 05:58:58 GMT | Vacant Property Inspections & Security Manchester — Marvellous Team | Marvelloussecurities | [Read More](https://medium.com/p/57f89dac86cc) |
+| Thu, 22 May 2025 05:57:48 GMT | Cybersecurity in Fintech: Protecting Retail Transactions from Digital Threats | Abhishek Dodda | [Read More](https://medium.com/p/e3a100336625) |
+| Thu, 22 May 2025 05:57:14 GMT | Terrorism Threat Levels in Singapore: What the Government Watches For | Dan Marshall-Singh | [Read More](https://medium.com/p/3d17249d9903) |
+| Thu, 22 May 2025 05:56:47 GMT | cyber security course in trivandrum | Surya Dotin | [Read More](https://medium.com/p/b9199a395147) |
+| Thu, 22 May 2025 05:56:18 GMT | Fileless Remcos RAT: The Sneaky Malware Hiding in Plain Sight | Ismail Tasdelen | [Read More](https://medium.com/p/cb0eff19f4af) |
+| Thu, 22 May 2025 05:55:14 GMT | DC 2 Machine Walkthrough -PART 2/3 | Eleanor | [Read More](https://medium.com/p/deff16acf102) |
+| Thu, 22 May 2025 05:54:17 GMT | Secure API Key Authentication with CloudKit and Golang: A Modern Approach for iOS Apps | grandfelix | [Read More](https://medium.com/p/3a3ddb46ecf6) |
+| Thu, 22 May 2025 05:53:38 GMT | Exploit PORT : 5900 , 59001 - VNC Port exploit (Series:1/ [article:3]) | Mr Horbio | [Read More](https://medium.com/p/c07d09ebdf5b) |
+| Thu, 22 May 2025 05:52:10 GMT | Coinbase’s $20M Extortion Drama: A Tale of Bribery and Betrayal | Ismail Tasdelen | [Read More](https://medium.com/p/caee8bca63e2) |
+| Thu, 22 May 2025 05:47:53 GMT | Mobile App Pentesting — Part 3: Static Analysis of Android Apps | Tanzeem Khatri | [Read More](https://medium.com/p/ef6f12a37625) |
 | Thu, 22 May 2025 05:22:55 GMT | As someone working in security, I’ve seen how quickly new technologies open up new vulnerabilities… | Rushabh Papinwar | [Read More](https://medium.com/p/1305cebf298b) |
 | Thu, 22 May 2025 05:19:57 GMT | “Governments Be Like: ‘Secure the Borders!’ | Muthi'ah Afifah Husna | [Read More](https://medium.com/p/4778362e7d1f) |
 | Thu, 22 May 2025 05:14:15 GMT | Marvis Minis By Juniper Networks: The Future of AI-Powered Network Simulation | Juara IT Solutions | [Read More](https://medium.com/p/7700f3a0a6ee) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 21:13:03 GMT | The Problem with Privacy and Social Media | Savvy Cyber Kids | [Read More](https://medium.com/p/902a69ce0047) |
 | Wed, 21 May 2025 21:10:44 GMT | LetsDefend Remote Working Challenge Walkthrough | El Mahjoub AIT MEDDAH | [Read More](https://medium.com/p/937029406add) |
 | Wed, 21 May 2025 21:10:16 GMT | Is It Really Possible to Get Hacked Just by Downloading an Image on WhatsApp? | CyberLucifer | [Read More](https://medium.com/p/b57de1bd9702) |
-| Wed, 21 May 2025 21:07:09 GMT | LazyOwn: CRIMEN — A Comprehensive and Advanced Red Team Framework | Lazyown Redteam | [Read More](https://medium.com/p/827b72be75fe) |
-| Wed, 21 May 2025 21:03:13 GMT | #I Used AI to Create a Fake Self-Help Guru (That People Believed) | Zane Cross | [Read More](https://medium.com/p/c6d8be9e57b6) |
-| Wed, 21 May 2025 20:53:15 GMT | SCA-Security: The Hidden Shield in Your Software Stack | Akshay Chauhan | [Read More](https://medium.com/p/634aef906677) |
-| Wed, 21 May 2025 20:50:29 GMT | Spotlight Off-Center | The Decryptionist | [Read More](https://medium.com/p/7ff661c7315f) |
-| Wed, 21 May 2025 20:48:39 GMT | Branch Privilege Injection: Exploiting Branch Predictor Race Conditions | ASAcrew Blog | [Read More](https://medium.com/p/f2c1887b8a3e) |
-| Wed, 21 May 2025 20:32:28 GMT | My eWPT Certification Experience: From Developer to Web App Hacker | Omarksm | [Read More](https://medium.com/p/e9c71689836b) |
-| Wed, 21 May 2025 20:29:25 GMT | What Finally Got Me Writing (Hint: It Wasn’t Confidence) | Andrew Brown | [Read More](https://medium.com/p/27195311cd33) |
-| Wed, 21 May 2025 20:26:52 GMT | What Are Cyber Threats and the Rise of AI Defenders | Shreya Patel | [Read More](https://medium.com/p/d7a6a1500763) |
-| Wed, 21 May 2025 20:25:57 GMT | 100 days of Learning Penetration testing -Day 2 | Samin Basnet | [Read More](https://medium.com/p/69245c7a9bd4) |
-| Wed, 21 May 2025 20:22:31 GMT | If I Were to Write | Oluwatofunmi Idowu | [Read More](https://medium.com/p/3977ab66c905) |
-| Wed, 21 May 2025 20:22:06 GMT | BURNOUT DESTROYED MY DIGESTIVE SYSTEM FOR 2+ YEARS — THIS IS EVERYTHING I ATE TO SURVIVE | Alana Stasz | [Read More](https://medium.com/p/291598c97832) |
-| Wed, 21 May 2025 20:19:57 GMT | Reflected Chaos: How One XSS Vector Spawned Three CVEs | BongHaxor | [Read More](https://medium.com/p/f20e2df3275f) |
-| Wed, 21 May 2025 20:17:36 GMT | Security and Compliance for Long-Term Business Success | Capicua | [Read More](https://medium.com/p/0afa0084c342) |
-| Wed, 21 May 2025 20:15:12 GMT | It’s Not Crime. It’s Strategy. | Brad Tenenholtz | [Read More](https://medium.com/p/849928b4f349) |
-| Wed, 21 May 2025 20:04:56 GMT | Silently Install MacOS Chrome Extensions — Part 2 | Gordon Long, aka AsaurusRex | [Read More](https://medium.com/p/c9deab4216cd) |
-| Wed, 21 May 2025 19:47:25 GMT | عنوان: روندهای نوین در امنیت سایبری: حفاظت در عصر دیجیتال امروزه که زندگی‌مان بیش از هر زمان دیگری… | AmirSharifi | [Read More](https://medium.com/p/a74bc7bf61be) |
-| Wed, 21 May 2025 19:43:05 GMT | Your First Cybersecurity Job Won’t Be Perfect — And That’s Totally Fine | Taimur Ijlal | [Read More](https://medium.com/p/64a764443e04) |
-| Wed, 21 May 2025 19:30:51 GMT | Spring Boot Actuator in Spring Boot 3.x | Jaouadirabeb | [Read More](https://medium.com/p/a49d30e20245) |
