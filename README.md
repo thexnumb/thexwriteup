@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 15:19:09 GMT | Why the CIA Triad is the Ultimate Cybersecurity Power Trio (And How It Saves Your Data) | Pavithraa Deenadayalan | [Read More](https://medium.com/p/f20c50af115b) |
+| Thu, 22 May 2025 15:11:16 GMT | What is Java program? | Hari | [Read More](https://medium.com/p/e46c3e91313b) |
+| Thu, 22 May 2025 15:05:37 GMT | Investment and Security Analysis Report on Avalanche DeFi Platforms | martin yeung | [Read More](https://medium.com/p/5bc09472d693) |
+| Thu, 22 May 2025 15:03:19 GMT | Agilus Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/fc527ecda03b) |
+| Thu, 22 May 2025 15:02:34 GMT | Crianças em Perigo nas Redes Sociais | PovCast | [Read More](https://medium.com/p/1bd8c20fc80e) |
+| Thu, 22 May 2025 15:00:10 GMT | Defensive Cybersecurity as Told by Viagra | JimbosLab | [Read More](https://medium.com/p/4b5e1f1cb17e) |
+| Thu, 22 May 2025 14:56:16 GMT | No Password, No Problem: Account Takeover via Cleverly Placed XSS — Here’s How I Earned $$$ | THE_DARK_KNIGHT | [Read More](https://medium.com/p/33ac75c72cb4) |
+| Thu, 22 May 2025 14:55:08 GMT | CSRF Testing Methodology: From Detection to Exploitation | Shah kaif | [Read More](https://medium.com/p/4235423af02e) |
+| Thu, 22 May 2025 14:49:19 GMT | ️Day 43: Fortifying Networks: A Complete Guide to Firewalls, IDS/IPS, and Practical Linux… | Agarwaldaksh | [Read More](https://medium.com/p/17ed679ad1a9) |
+| Thu, 22 May 2025 14:46:44 GMT | Cybersecurity Awareness 2025: How SMBs Can Stay Ahead of Evolving Threats | RITC Cybersecurity | [Read More](https://medium.com/p/1380215cdffd) |
+| Thu, 22 May 2025 14:46:31 GMT | Why CompTIA’s New SecOT+ Certification Matters, and Why It’s on My Radar | Brittney Ginther | [Read More](https://medium.com/p/a20e5689a53b) |
+| Thu, 22 May 2025 14:46:29 GMT | Elevate Your Earnings with Curvance $CVE | CVE | [Read More](https://medium.com/p/71a1757eeba5) |
+| Thu, 22 May 2025 14:43:27 GMT | Gameplan for Article and Training -aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/fd3c706360e8) |
+| Thu, 22 May 2025 14:38:18 GMT | Privacy-Preserving AI Development on Your Mac: Leveraging ServBay’s Secure Local Environment for… | James Miller | [Read More](https://medium.com/p/2e9120a6ba73) |
 | Thu, 22 May 2025 14:36:49 GMT | Why “1GB of Data” Means Nothing in a Privacy Risk Assessment | A D | [Read More](https://medium.com/p/9b188bde0c50) |
 | Thu, 22 May 2025 14:36:09 GMT | DC 3 Machine Walkthrough 3/3 | Eleanor | [Read More](https://medium.com/p/4ebc225b0a3b) |
+| Thu, 22 May 2025 14:35:44 GMT | Power Up Spring Boot Security with Audit Logs | Aayush Tiwari | [Read More](https://medium.com/p/d559e4accd0f) |
 | Thu, 22 May 2025 14:33:32 GMT | Talking to Siri Shouldn’t Be This Hard | Anthony C Fox | [Read More](https://medium.com/p/850b3bb25c9b) |
 | Thu, 22 May 2025 14:32:08 GMT | Cybersecurity
 Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p/b6fb39cf6b76) |
@@ -98,18 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 10:42:09 GMT | Top 14 Secrets Management Tools Ranked (for DevOps in 2025) | Devops Trainer | [Read More](https://medium.com/p/f971ce1102fe) |
 | Thu, 22 May 2025 10:33:38 GMT | Ultimate Guide to Palo Alto Networks XDR Engineer Exam Preparation (2025) | Skillcertexams | [Read More](https://medium.com/p/1b6e994dc429) |
 | Thu, 22 May 2025 10:31:33 GMT | Increase Your ChainBounty $BOUNTY Rewards in 2025 | BOUNTY | [Read More](https://medium.com/p/ee716575f62a) |
-| Thu, 22 May 2025 10:28:37 GMT | Rise of AI in Security Operations Centers (SOC) | InfosecTrain | [Read More](https://medium.com/p/ece90fcc6d42) |
-| Thu, 22 May 2025 10:20:56 GMT | Alterx Subdomain Wordlist Generator | AbhirupKonwar | [Read More](https://medium.com/p/2050f4407beb) |
-| Thu, 22 May 2025 10:20:05 GMT | Development to Deployment: The EDSPL Way of Delivering End-to-End Technology Services | saurabh cyberinfomines | [Read More](https://medium.com/p/303a077ccca3) |
-| Thu, 22 May 2025 10:19:20 GMT | ADB Commands for Android Pentester | Rishav anand | [Read More](https://medium.com/p/3cfde8c39d8b) |
-| Thu, 22 May 2025 10:17:57 GMT | Inside the $330M Crypto Heist: Trust as an Attack Vector | Malcolm Oliveira Neto | [Read More](https://medium.com/p/714e0d96d87d) |
-| Thu, 22 May 2025 10:15:45 GMT | Major Coca-Cola Data Breach: Everest Hacking Group Exfiltrates 23 Million Records | Technijian | [Read More](https://medium.com/p/3fb2097ee439) |
-| Thu, 22 May 2025 10:15:32 GMT | What Quantum Computing Means for Cybersecurity | Ali Qureshi | [Read More](https://medium.com/p/fa08b172f6ca) |
-| Thu, 22 May 2025 10:13:06 GMT | Metasploitable2: The FTP Massacre [Part 2: vsftpd 2.3.4 Backdoor & Anonymous Access] | Armaan Mulla | [Read More](https://medium.com/p/f9eb3e052a15) |
-| Thu, 22 May 2025 10:08:43 GMT | The True Cost of a Cyber Attack: What Most Businesses Overlook | Fountain Hills Technologies | [Read More](https://medium.com/p/cc21488b7a18) |
-| Thu, 22 May 2025 10:08:23 GMT | Consigue una elegante skin WhiteBIT Nova para celebrar el Día de Bitcoin Pizza | WhiteBIT | [Read More](https://medium.com/p/0bb85d513a48) |
-| Thu, 22 May 2025 10:01:25 GMT | What Every CISO Needs to Know About Modern Cyber Threats | West Advanced Technologies Inc | [Read More](https://medium.com/p/7a43f36f415e) |
-| Thu, 22 May 2025 09:59:04 GMT | How to Build and Lead a Cybersecurity Transformation Program in Large Enterprises | A-STAR7_DOCTOR | [Read More](https://medium.com/p/811f9669b26b) |
-| Thu, 22 May 2025 09:58:29 GMT | Please Don’t Look At Me! | DR Aiza | [Read More](https://medium.com/p/d47eaa6259c5) |
-| Thu, 22 May 2025 09:56:06 GMT | DevOps vs. DevSecOps: Not a Battle — A Transformation | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/6d9a4c3c88b8) |
-| Thu, 22 May 2025 09:55:27 GMT | MISCONFIGURED  PORTS  & OUTDATED SOFTWARE— A Hacker’s Playground | Abdulkadir Ibrahim | [Read More](https://medium.com/p/181098b85405) |
