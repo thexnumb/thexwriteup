@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 12:43:02 GMT | Wireless Weapons: Turning Skycut Plotters into Physical Dangers | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/9f29e0cd357a) |
+| Thu, 22 May 2025 12:38:47 GMT | I Clicked the Link: Phishing Explained and What You Can Do About It | Shubham Pingle | [Read More](https://medium.com/p/d86d6153267e) |
+| Thu, 22 May 2025 12:38:17 GMT | Top Cybersecurity Concerns for CISOs in Q2 2025 | Yasin Kalli | [Read More](https://medium.com/p/b1a8cd64a51d) |
+| Thu, 22 May 2025 12:31:51 GMT | 7 Cybersecurity Tips to Protect Your Data | MindHack Daily | [Read More](https://medium.com/p/582af39ec3bc) |
+| Thu, 22 May 2025 12:29:30 GMT | Op. Sindoor: Assessment and Questions | Zorawar Gill | [Read More](https://medium.com/p/0907a64750e2) |
+| Thu, 22 May 2025 12:29:16 GMT | ️ eWPTX Certification Review: Brutal, Brilliant, and Worth It | @grvbap | [Read More](https://medium.com/p/bd3ccfc6fe40) |
+| Thu, 22 May 2025 12:28:55 GMT | Cybershakti 2025 CTF writeup! | blackth0rns | [Read More](https://medium.com/p/520ef11c0bce) |
+| Thu, 22 May 2025 12:21:53 GMT | Secure Application Development: Concepts That You Must Know At the Era of AI | Alperenkabadayi | [Read More](https://medium.com/p/ecf19fbc39be) |
+| Thu, 22 May 2025 12:21:26 GMT | The Definitive Auth Guide for Backend Developers | Yashaswi Kumar Mishra | [Read More](https://medium.com/p/3bcef14dbf67) |
+| Thu, 22 May 2025 12:12:49 GMT | Android OWASP TOP 10 | Rishav anand | [Read More](https://medium.com/p/45a4eed1f58f) |
+| Thu, 22 May 2025 12:12:24 GMT | AI-Powered Cybersecurity: The Future of Digital Defense | Thathsara Mudalige | [Read More](https://medium.com/p/70daca72af61) |
+| Thu, 22 May 2025 12:09:20 GMT | A General Approach for Analysing Problems and Their Root Causes Anywhere | Shashi Sastry | [Read More](https://medium.com/p/1bd0b190d151) |
+| Thu, 22 May 2025 12:04:36 GMT | Where even the quietest voices are heard: Inside TalTech’s Language Technology Lab | Dariia Cherep | [Read More](https://medium.com/p/f1f4ac3c588b) |
+| Thu, 22 May 2025 12:02:23 GMT | Exploit Development: Techniques for Weaponizing Vulnerabilities | Esra Kayhan | [Read More](https://medium.com/p/e76cbe4c97bb) |
+| Thu, 22 May 2025 11:57:28 GMT | Top Security Agencies in Thane Compared | united guard | [Read More](https://medium.com/p/0803fc839589) |
+| Thu, 22 May 2025 11:55:33 GMT | How to train employees on cybersecurity _ even if they are not tech savvy As the world becomes more… | fatima shahbaz | [Read More](https://medium.com/p/ccf65be84cb0) |
+| Thu, 22 May 2025 11:43:09 GMT | Title: CSI Investigation Report: Vrinda AI Proven Authentic, Allegations Against Navneet Singh… | CSI | [Read More](https://medium.com/p/b15976c4899b) |
+| Thu, 22 May 2025 11:40:36 GMT | Wonderland TryHackMe CTF | Cyan | [Read More](https://medium.com/p/c3a6be430d85) |
+| Thu, 22 May 2025 11:39:42 GMT | Senate Urges Immediate Military Base in Adamawa Amid Boko Haram Resurgence | Verilynews | [Read More](https://medium.com/p/7fb2ccf0b0c5) |
 | Thu, 22 May 2025 11:33:50 GMT | Web Application Security Certification Guide - IIFIS | seenivasan V | [Read More](https://medium.com/p/434b86f892be) |
 | Thu, 22 May 2025 11:29:15 GMT | Cracking CSRF: How I Found a Hidden Flaw as a Bug Bounty Beginner | 127.0.0.1 | [Read More](https://medium.com/p/a602460c5480) |
 | Thu, 22 May 2025 11:24:14 GMT | Bridging the Gap Between Offense and Defense with Purple Team Testing | SmartCLOUD Australia | [Read More](https://medium.com/p/b481828e4343) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 07:16:51 GMT | How Your App Becomes a Backdoor: The Risk of Forgotten Endpoints and Unsecured APIs | The Hackers Meetup | [Read More](https://medium.com/p/2c824fed4679) |
 | Thu, 22 May 2025 07:02:29 GMT | Cybersecurity Careers for Beginners: Where Should You Start? | Muhammad Schees | [Read More](https://medium.com/p/c68323870ee3) |
 | Thu, 22 May 2025 06:58:31 GMT | How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance | Very Lazy Tech | [Read More](https://medium.com/p/602c23093fce) |
-| Thu, 22 May 2025 06:51:48 GMT | PWA Scams Are the New Cyber Trap: How Hackers Are Targeting Mobile Users with Malicious JavaScript | CyDhaal | [Read More](https://medium.com/p/42349cccfe53) |
-| Thu, 22 May 2025 06:49:23 GMT | Asia’s eCommerce Fraud Prevention Market: Growth Drivers and Forecast Through 2028 | Gargiben | [Read More](https://medium.com/p/54a8bfb57610) |
-| Thu, 22 May 2025 06:38:17 GMT | How to Keep Critical Operations Alive with Rugged Dual 5G — NEXCOM ISA 141 Knows the Answer | NEXCOM 新漢 | [Read More](https://medium.com/p/2492583c2ac8) |
-| Thu, 22 May 2025 06:33:31 GMT | 05 Different Types of Web Security And How to Protect Against Them | Hamza Hanif | [Read More](https://medium.com/p/3d2bdfac2a4b) |
-| Thu, 22 May 2025 06:33:30 GMT | Hacked and Tracked: How Criminals Buy and Sell Your Digital Life! | Tanujsinha | [Read More](https://medium.com/p/b37dd347c589) |
-| Thu, 22 May 2025 06:33:14 GMT | Risk Appetite vs. Risk Tolerance: What’s the Difference and Why It Matters | Paritosh | [Read More](https://medium.com/p/7a52aabbf7d9) |
-| Thu, 22 May 2025 06:30:24 GMT | I Ran LaZagne on My PC — And It Found Passwords I Thought Were Gone Forever | Kuldeepkumawat | [Read More](https://medium.com/p/817c5115c07a) |
-| Thu, 22 May 2025 06:27:19 GMT | Building a Snort IDS on a VPS and Testing Attacks from Kali Linux | Tegarfatwanugroho | [Read More](https://medium.com/p/220af8eea2b8) |
-| Thu, 22 May 2025 06:10:43 GMT | Best IT Companies for Freshers to Start Their Career in 2025 (India Edition) | Prism HRC | [Read More](https://medium.com/p/fdec127da45c) |
-| Thu, 22 May 2025 06:10:09 GMT | Trusted Manchester Retail Park Security Services — Marvellous Security | Marvelloussecurities | [Read More](https://medium.com/p/cef58eda2aa4) |
-| Thu, 22 May 2025 06:09:56 GMT | Security Robots | Marcus Koehnlein | [Read More](https://medium.com/p/4b00cb2643d0) |
-| Thu, 22 May 2025 06:06:41 GMT | Reclaiming yourself in a world that won’t shut the fuck up | Boluwatife Lash | [Read More](https://medium.com/p/6afaf5e49910) |
-| Thu, 22 May 2025 06:04:04 GMT | How to check root and emulator in Android? | Ipek Birinci | [Read More](https://medium.com/p/f16c18611b0c) |
-| Thu, 22 May 2025 06:03:34 GMT | Top Ethical Hacking Courses in Bangalore: Learn from the Experts | RedTeamsaniga Suresh | [Read More](https://medium.com/p/bd51b5b30c2e) |
-| Thu, 22 May 2025 06:01:59 GMT | AI in Cybersecurity: Boon or Bane? | Sivakamikd | [Read More](https://medium.com/p/0a3ce21072b3) |
-| Thu, 22 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/25b7f960c374) |
-| Thu, 22 May 2025 05:58:58 GMT | Vacant Property Inspections & Security Manchester — Marvellous Team | Marvelloussecurities | [Read More](https://medium.com/p/57f89dac86cc) |
-| Thu, 22 May 2025 05:57:48 GMT | Cybersecurity in Fintech: Protecting Retail Transactions from Digital Threats | Abhishek Dodda | [Read More](https://medium.com/p/e3a100336625) |
-| Thu, 22 May 2025 05:57:14 GMT | Terrorism Threat Levels in Singapore: What the Government Watches For | Dan Marshall-Singh | [Read More](https://medium.com/p/3d17249d9903) |
