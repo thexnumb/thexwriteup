@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 01:39:48 GMT | CRA（Cyber Resilience Act）対応は、日本の製造業の新たな経営課題である | Shige Tanimoto | [Read More](https://medium.com/p/776fbfc665d9) |
+| Thu, 22 May 2025 01:32:25 GMT | Weighing Our Chances | Nature's Wild Berry | [Read More](https://medium.com/p/2420b08e5eed) |
+| Thu, 22 May 2025 01:22:41 GMT | Invaders Didn’t Just Steal My Possessions — They Stole My Sense of Security | Wild Wombat | [Read More](https://medium.com/p/6af95b5c2c14) |
+| Thu, 22 May 2025 01:12:43 GMT | Enterprise Attack Surface Management for Consultants: A Modern Blueprint for Digital Risk Discovery | A-STAR7_DOCTOR | [Read More](https://medium.com/p/6ac7901aea94) |
+| Thu, 22 May 2025 01:04:02 GMT | Cybersecurity Due Diligence in Tech Investment: The Silent Risk That Can Sink a Billion-Dollar Deal | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ced9ff360004) |
+| Thu, 22 May 2025 00:46:26 GMT | Getting Locked Out of My House Was the Best Hacking Lesson of My Life | Alex Grande | [Read More](https://medium.com/p/9df4e4098094) |
+| Thu, 22 May 2025 00:43:21 GMT | The Role of Smart Contracts in CryptoXpress Services | Devbradon | [Read More](https://medium.com/p/bf26a1e1dbbc) |
+| Thu, 22 May 2025 00:41:14 GMT | Balancing a Master’s, ERP Chaos, and a Career…and Coming Out Stronger | Ashley Brantner | [Read More](https://medium.com/p/b8af005ccb4a) |
+| Thu, 22 May 2025 00:26:17 GMT | Steering Your Generative AI: A Guide to Amazon Bedrock Guardrails | James Wynne | [Read More](https://medium.com/p/afd0e125dd88) |
+| Thu, 22 May 2025 00:24:16 GMT | El verdadero costo de olvidar las contraseñas | Tiziano Mass | [Read More](https://medium.com/p/faeaf3433421) |
+| Wed, 21 May 2025 23:54:08 GMT | Current Cybersecurity Trends in 2025: What Businesses Must Know | Cullensam | [Read More](https://medium.com/p/2749b1642644) |
+| Wed, 21 May 2025 23:53:24 GMT | Choose the Best Cybersecurity Services in Noida to Protect Your Company’s Digital Assets and… | Aman Wish geeks techserve | [Read More](https://medium.com/p/835c22650a1c) |
+| Wed, 21 May 2025 23:50:54 GMT | SQL INJECTION LEADING TO DDOS ATTACK IN PRIVATE CONQUER SERVER WEBSITE | Alkaptonurea | [Read More](https://medium.com/p/841f1cbc3958) |
 | Wed, 21 May 2025 23:11:42 GMT | Zero Tust: When “Never Trust, Always Verify” Breaks Down | Postmodern Cybersecurity | [Read More](https://medium.com/p/d789d86c4b6b) |
 | Wed, 21 May 2025 23:11:26 GMT | Hijacking ssh client to get passwords of other server | gerald amasi | [Read More](https://medium.com/p/78cbdaffa27d) |
 | Wed, 21 May 2025 22:51:20 GMT | ️ Home SOC Lab — Project-Z v1.0 | 0xZetss | [Read More](https://medium.com/p/9fa4c0f91f11) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 17:02:24 GMT | Protecting Our Ports | Abdelaziz moustakim | [Read More](https://medium.com/p/90d142c73c48) |
 | Wed, 21 May 2025 16:59:36 GMT | Eloquent Has Many Through: Laravel’s Hidden Gem for Complex Relationships | Alhassan Mohammed | [Read More](https://medium.com/p/a6a7359c855a) |
 | Wed, 21 May 2025 16:57:25 GMT | Assessment Methodologies: Information Gathering CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/6828fd9406a6) |
-| Wed, 21 May 2025 16:57:24 GMT | Standards and Methodologies for Incident Management in Critical Infrastructures | Odyssec | [Read More](https://medium.com/p/e88940d57cda) |
-| Wed, 21 May 2025 16:53:36 GMT | In-Depth Analysis of a Sophisticated WhatsApp Phishing Scam Leveraging Brand Impersonation | Odyssec | [Read More](https://medium.com/p/dbd5f4514699) |
-| Wed, 21 May 2025 16:49:38 GMT | Enterprise-ready LLM Gateway with Apache APISIX (Part 2) | Lucasberlang | [Read More](https://medium.com/p/bd796db06340) |
-| Wed, 21 May 2025 16:47:33 GMT | ️ Simulating Ransomware Attacks to Strengthen Cyber Defense | Sebastian Kandler | [Read More](https://medium.com/p/0bbec24c32b9) |
-| Wed, 21 May 2025 16:47:13 GMT | 09961292038 | #شماره‌خاله#شماره‌خاله اصفهان #شماره‌خاله | [Read More](https://medium.com/p/9b714e379dd3) |
-| Wed, 21 May 2025 16:38:52 GMT | 7 Key Challenges in Modern SOC Teams (+ AI Automation Solutions) | Simbian Ai | [Read More](https://medium.com/p/8c3eb72062de) |
-| Wed, 21 May 2025 16:31:09 GMT | Insider Threat — Quantifying Human Risk for Data Security with Polymer | Zack Pediay | [Read More](https://medium.com/p/47b22b8e287a) |
-| Wed, 21 May 2025 16:27:25 GMT | Types of Investigations | Igor Berner | [Read More](https://medium.com/p/59ad264fde05) |
-| Wed, 21 May 2025 16:27:15 GMT | Quantum Computing and Encryption Breakthroughs in 2025: A New Era of Innovation | QuantumGenie | [Read More](https://medium.com/p/fc5c3ede27f6) |
-| Wed, 21 May 2025 16:25:38 GMT | Why Smart Internet and Cybersecurity Solutions Are Essential for Small Business Success | Defend My Business | [Read More](https://medium.com/p/d7dcc324675b) |
-| Wed, 21 May 2025 16:17:15 GMT | The True Cost: Understanding Losses from Malicious Threats | SafeAeon Inc. | [Read More](https://medium.com/p/9b73de8fdb3f) |
-| Wed, 21 May 2025 16:15:57 GMT | Extraviado - Dockerlabs | Marcos Carmona | [Read More](https://medium.com/p/87430e45078e) |
-| Wed, 21 May 2025 16:12:03 GMT | How To Spot Data Exfiltration Using AWS Cost Anomaly Detection | Teri Radichel | [Read More](https://medium.com/p/e3635f1c3aa2) |
