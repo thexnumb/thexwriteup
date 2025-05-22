@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 16:21:17 GMT | Devil’s Breath, Passport Bros, and the Deadly Cost of Swiping in Medellín | Franky Arriola | [Read More](https://medium.com/p/fb65bc4017e2) |
+| Thu, 22 May 2025 16:14:04 GMT | AI Security Unlocked: A Business Leader’s Guide to Training Safe AI with Guardrails | Keith Foster | [Read More](https://medium.com/p/62a4cdc4ea3e) |
+| Thu, 22 May 2025 16:09:10 GMT | Scammers or Skimmers? Neighbors or Nigeria? | Eina Schroeder | [Read More](https://medium.com/p/34638d960099) |
+| Thu, 22 May 2025 16:06:46 GMT | ️‍♂️ “I’m Not a Robot” — The Real-World Horror of Lumma Stealer | Surya Teja | [Read More](https://medium.com/p/3cb05a2f8d1c) |
+| Thu, 22 May 2025 16:06:30 GMT | Managed Network Security: Why It’s Essential for Modern Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/3db6954f9d81) |
+| Thu, 22 May 2025 16:05:26 GMT | Water Crisis and the Survival of Endangered Fauna in the Zagros Mountains: A Conservation… | Koroshgushkamazan | [Read More](https://medium.com/p/726fc111048b) |
+| Thu, 22 May 2025 16:04:34 GMT | The Sickle of Silence | Sam Khosravifard | [Read More](https://medium.com/p/fd619482351a) |
+| Thu, 22 May 2025 16:02:35 GMT | GoDaddy’s FTC Settlement: When “Oops” Is Apparently Enough | CyberAdvisor | [Read More](https://medium.com/p/94535ce1776f) |
+| Thu, 22 May 2025 15:52:38 GMT | Why an identity-centric approach to Tools Rationalization is the place to start | anthony k | [Read More](https://medium.com/p/6b788bc2153b) |
+| Thu, 22 May 2025 15:50:06 GMT | How Insurance Helps You Build Financial Security | INSURANCE INSIGHTS HUB | [Read More](https://medium.com/p/d61c1b15a71f) |
+| Thu, 22 May 2025 15:47:57 GMT | Cybersicherheit: Der unsichtbare Schutzschild unseres digitalen Lebens | AmirSharifi | [Read More](https://medium.com/p/b9422ffa6635) |
+| Thu, 22 May 2025 15:46:02 GMT | امنیت سایبری: سپر نامرئی زندگی دیجیتال ما | AmirSharifi | [Read More](https://medium.com/p/d296d0e7064f) |
+| Thu, 22 May 2025 15:39:17 GMT | How I used the riskiest method to Migrate from Auto-Incrementing IDs to UUIDs in Django/DRF | Lawal Tajudeen | [Read More](https://medium.com/p/e5aefc211a47) |
 | Thu, 22 May 2025 15:32:28 GMT | Splunk 3, Task 3 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/39bdb4fa0c4c) |
 | Thu, 22 May 2025 15:28:54 GMT | Earn More with ChainBounty $BOUNTY by following this step-by-step guide. | BOUNTY | [Read More](https://medium.com/p/1534dba1d29d) |
 | Thu, 22 May 2025 15:26:58 GMT | What is the Best Firewall for Home Use in the USA? | Jazz Cyber Shield | [Read More](https://medium.com/p/8717fea5612c) |
@@ -100,16 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 11:43:09 GMT | Title: CSI Investigation Report: Vrinda AI Proven Authentic, Allegations Against Navneet Singh… | CSI | [Read More](https://medium.com/p/b15976c4899b) |
 | Thu, 22 May 2025 11:40:36 GMT | Wonderland TryHackMe CTF | Cyan | [Read More](https://medium.com/p/c3a6be430d85) |
 | Thu, 22 May 2025 11:39:42 GMT | Senate Urges Immediate Military Base in Adamawa Amid Boko Haram Resurgence | Verilynews | [Read More](https://medium.com/p/7fb2ccf0b0c5) |
-| Thu, 22 May 2025 11:33:50 GMT | Web Application Security Certification Guide - IIFIS | seenivasan V | [Read More](https://medium.com/p/434b86f892be) |
-| Thu, 22 May 2025 11:29:15 GMT | Cracking CSRF: How I Found a Hidden Flaw as a Bug Bounty Beginner | 127.0.0.1 | [Read More](https://medium.com/p/a602460c5480) |
-| Thu, 22 May 2025 11:24:14 GMT | Bridging the Gap Between Offense and Defense with Purple Team Testing | SmartCLOUD Australia | [Read More](https://medium.com/p/b481828e4343) |
-| Thu, 22 May 2025 11:20:12 GMT | Loneliness and AI: A Perfect Storm for Romance Scams | Taiyab Lokhandwala | [Read More](https://medium.com/p/b29ce652f65f) |
-| Thu, 22 May 2025 11:19:47 GMT | Shared Goals, Shared Value — Where HR and Security Naturally Overlap | SecOps | [Read More](https://medium.com/p/366f58ce43da) |
-| Thu, 22 May 2025 11:19:00 GMT | Found a Race Condition That Led to Privilege =>$750 | Ehtesham Ul Haq | [Read More](https://medium.com/p/4ba1a3983b17) |
-| Thu, 22 May 2025 11:15:51 GMT | OpenWire Lab | Jesús García Rubias | [Read More](https://medium.com/p/bed92e88fb56) |
-| Thu, 22 May 2025 11:08:32 GMT | I Typed Just One Command — And My PC Told Me All Its WiFi Secrets | Kuldeepkumawat | [Read More](https://medium.com/p/e2c715ab187a) |
-| Thu, 22 May 2025 11:04:00 GMT | Phishing Explained: How Cybercriminals Trick You and How to Stay Safe | CyDhaal | [Read More](https://medium.com/p/5e57a1f2d696) |
-| Thu, 22 May 2025 11:03:40 GMT | CrowdSec: The Open-Source IPS That Fights Back Against Real-World Attacks | Muhammed Dhulkifli k | [Read More](https://medium.com/p/704b7992fcc1) |
-| Thu, 22 May 2025 11:02:55 GMT | Unlocking the Power of VAPT Security Testing Services: Why Your Business Needs It | Sureshnextwebi | [Read More](https://medium.com/p/dceea00d0046) |
-| Thu, 22 May 2025 10:56:37 GMT | Top-Tier Security Services in Pune: What to Expect | United Guard Force India | [Read More](https://medium.com/p/c3a9d32937b0) |
-| Thu, 22 May 2025 10:56:21 GMT | Professional Data Recovery Services in India - Cybermate Forensics | Jitendrachavan | [Read More](https://medium.com/p/8dcb382949e6) |
