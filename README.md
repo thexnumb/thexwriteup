@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 17:17:23 GMT | DOM-Based XSS in Single Page Applications (SPAs): A Complete Guide for Beginners & Bug Bounty… | Asif Ebrahim | [Read More](https://medium.com/p/56d4e496a0a0) |
+| Thu, 22 May 2025 17:13:51 GMT | TryHackMe - Android Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/21ff8f7c1d8a) |
+| Thu, 22 May 2025 17:09:05 GMT | API 01:2023 — Broken Object Level Authorization (BOLA) | Suhel Kathi | [Read More](https://medium.com/p/d4c8a892c723) |
+| Thu, 22 May 2025 17:08:50 GMT | Unlocking the Future with #GenAIExchange: What I’ve Learned So Far | Tanish Singh | [Read More](https://medium.com/p/2c9c576c5809) |
+| Thu, 22 May 2025 16:53:41 GMT | What Is Endpoint Security Management and Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/c7ef4d8b415b) |
+| Thu, 22 May 2025 16:52:58 GMT | Splunk 3, Task 4 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/25188f76d221) |
+| Thu, 22 May 2025 16:45:18 GMT | How to Report Phishing in Outlook: A Quick Step-by-Step Guide | SafeAeon Inc. | [Read More](https://medium.com/p/a7f59a84e748) |
 | Thu, 22 May 2025 16:43:19 GMT | I Hacked My Way to the Top in the Indian Army CTF — Here’s How I Did It | Rolextital | [Read More](https://medium.com/p/c5a3a9118fb6) |
 | Thu, 22 May 2025 16:42:47 GMT | External Link Bypass Vulnerability inPrivate Program | Zeta | [Read More](https://medium.com/p/b42a5dd10504) |
 | Thu, 22 May 2025 16:40:41 GMT | Unveiling HTTP Parameter Pollution (HPP): A Simple Explanation with a Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/422dfcac7895) |
@@ -106,10 +113,3 @@ Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p
 | Thu, 22 May 2025 12:46:25 GMT | WHAT IS CYBER SECURITY ? | Babatunde Seun | [Read More](https://medium.com/p/b39eda86b893) |
 | Thu, 22 May 2025 12:43:02 GMT | Wireless Weapons: Turning Skycut Plotters into Physical Dangers | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/9f29e0cd357a) |
 | Thu, 22 May 2025 12:40:38 GMT | Zero-Day | Meltem Nur Gündoğdu | [Read More](https://medium.com/p/1aa361cf76c4) |
-| Thu, 22 May 2025 12:38:47 GMT | I Clicked the Link: Phishing Explained and What You Can Do About It | Shubham Pingle | [Read More](https://medium.com/p/d86d6153267e) |
-| Thu, 22 May 2025 12:38:17 GMT | Top Cybersecurity Concerns for CISOs in Q2 2025 | Yasin Kalli | [Read More](https://medium.com/p/b1a8cd64a51d) |
-| Thu, 22 May 2025 12:35:44 GMT | The Power of Ethical Hacking: Defending the Digital Frontier | Tushar Gupta | [Read More](https://medium.com/p/049f0a505245) |
-| Thu, 22 May 2025 12:31:51 GMT | 7 Cybersecurity Tips to Protect Your Data | MindHack Daily | [Read More](https://medium.com/p/582af39ec3bc) |
-| Thu, 22 May 2025 12:29:30 GMT | Op. Sindoor: Assessment and Questions | Zorawar Gill | [Read More](https://medium.com/p/0907a64750e2) |
-| Thu, 22 May 2025 12:29:16 GMT | ️ eWPTX Certification Review: Brutal, Brilliant, and Worth It | @grvbap | [Read More](https://medium.com/p/bd3ccfc6fe40) |
-| Thu, 22 May 2025 12:28:55 GMT | Cybershakti 2025 CTF writeup! | blackth0rns | [Read More](https://medium.com/p/520ef11c0bce) |
