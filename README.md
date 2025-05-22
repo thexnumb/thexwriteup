@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 20:30:33 GMT | Splunk 3, Task 6 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/4ab8b4afa7f4) |
+| Thu, 22 May 2025 20:19:34 GMT | Why You Should Own a Personal Bitcoin Wallet – Especially for Tax Efficiency | Ashley 사랑 | [Read More](https://medium.com/p/f4f91bb51b8b) |
+| Thu, 22 May 2025 20:18:36 GMT | The Gentle Giant | McKenzie Beden | [Read More](https://medium.com/p/92bfc21ae302) |
+| Thu, 22 May 2025 20:18:02 GMT | Proving Grounds Practice — Cockpit Walkthrough | Batu Ada Tutkun | [Read More](https://medium.com/p/af23c1b8624c) |
 | Thu, 22 May 2025 20:10:29 GMT | Detecting device code phishing in Google Security Operations | Bastradamus | [Read More](https://medium.com/p/9bf1c282cff0) |
 | Thu, 22 May 2025 20:04:05 GMT | Day 3 of my AWS Pentesting journey — Lambda Function Enumeration | mauzware | [Read More](https://medium.com/p/e9bf3ace9b8d) |
 | Thu, 22 May 2025 19:54:14 GMT | From AI-net to AI-threats: The Hidden Dangers Behind the Tools We Trust | Visoot Soisang | [Read More](https://medium.com/p/ccc1bda057da) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 14:46:29 GMT | Elevate Your Earnings with Curvance $CVE | CVE | [Read More](https://medium.com/p/71a1757eeba5) |
 | Thu, 22 May 2025 14:43:27 GMT | Gameplan for Article and Training -aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/fd3c706360e8) |
 | Thu, 22 May 2025 14:38:18 GMT | Privacy-Preserving AI Development on Your Mac: Leveraging ServBay’s Secure Local Environment for… | James Miller | [Read More](https://medium.com/p/2e9120a6ba73) |
-| Thu, 22 May 2025 14:36:49 GMT | Why “1GB of Data” Means Nothing in a Privacy Risk Assessment | A D | [Read More](https://medium.com/p/9b188bde0c50) |
-| Thu, 22 May 2025 14:36:09 GMT | DC 3 Machine Walkthrough 3/3 | Eleanor | [Read More](https://medium.com/p/4ebc225b0a3b) |
-| Thu, 22 May 2025 14:35:44 GMT | Power Up Spring Boot Security with Audit Logs | Aayush Tiwari | [Read More](https://medium.com/p/d559e4accd0f) |
-| Thu, 22 May 2025 14:33:32 GMT | Talking to Siri Shouldn’t Be This Hard | Anthony C Fox | [Read More](https://medium.com/p/850b3bb25c9b) |
