@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 20:10:29 GMT | Detecting device code phishing in Google Security Operations | Bastradamus | [Read More](https://medium.com/p/9bf1c282cff0) |
+| Thu, 22 May 2025 20:04:05 GMT | Day 3 of my AWS Pentesting journey — Lambda Function Enumeration | mauzware | [Read More](https://medium.com/p/e9bf3ace9b8d) |
+| Thu, 22 May 2025 19:54:14 GMT | From AI-net to AI-threats: The Hidden Dangers Behind the Tools We Trust | Visoot Soisang | [Read More](https://medium.com/p/ccc1bda057da) |
+| Thu, 22 May 2025 19:32:45 GMT | What Is Brand Protection? How It Powers Enterprise Digital Risk Protection | ThreatWatch360 | [Read More](https://medium.com/p/4c228325b0f5) |
 | Thu, 22 May 2025 19:32:34 GMT | Serenity in a loud World: A tribute to the Quiet ones | Khadija Ben Farhat | [Read More](https://medium.com/p/797a72802aa2) |
 | Thu, 22 May 2025 18:59:07 GMT | Security Company in London: Trusted Security Services for Your Safety | Renceromen | [Read More](https://medium.com/p/14da1fba77b1) |
 | Thu, 22 May 2025 18:54:18 GMT | Data Sovereignty vs. Data Residency: Why the Distinction Matters More Than Ever | Juan Pablo Castro | [Read More](https://medium.com/p/ed7c18cc5e9e) |
@@ -108,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 14:36:09 GMT | DC 3 Machine Walkthrough 3/3 | Eleanor | [Read More](https://medium.com/p/4ebc225b0a3b) |
 | Thu, 22 May 2025 14:35:44 GMT | Power Up Spring Boot Security with Audit Logs | Aayush Tiwari | [Read More](https://medium.com/p/d559e4accd0f) |
 | Thu, 22 May 2025 14:33:32 GMT | Talking to Siri Shouldn’t Be This Hard | Anthony C Fox | [Read More](https://medium.com/p/850b3bb25c9b) |
-| Thu, 22 May 2025 14:32:08 GMT | Cybersecurity
-Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p/b6fb39cf6b76) |
-| Thu, 22 May 2025 14:31:26 GMT | How a Simple Terminal Stand Can Boost Efficiency at the Point of Sale | Judy Reynolds | [Read More](https://medium.com/p/f35ac84be21a) |
-| Thu, 22 May 2025 14:27:56 GMT | APEX Feature Spotlights: Fortify Your Apps with Rock-Solid Authentication & Authorization! | Rohit Mittel | [Read More](https://medium.com/p/a14896cac0eb) |
-| Thu, 22 May 2025 14:27:07 GMT | THM — Benign Writeup | Shamar Isaac | [Read More](https://medium.com/p/d28ebf9ab7b9) |
