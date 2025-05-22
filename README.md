@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 04:43:41 GMT | Cybersecurity vs Ethical Hacking: Key Differences to Know Before Choosing Your 2025 Career Path | Arya College | [Read More](https://medium.com/p/d881ac4a865a) |
+| Thu, 22 May 2025 04:35:57 GMT | Transforming Concepts into High-Quality Mobile Apps with Inspite Technologies | Swethainspite | [Read More](https://medium.com/p/423d08b36b1f) |
+| Thu, 22 May 2025 04:34:58 GMT | How RPA Can Cut Your Workflow Time in Half | Radium Ai | [Read More](https://medium.com/p/e5a7fcc213ec) |
+| Thu, 22 May 2025 04:29:01 GMT | Customized Mobile App Development Services That Transform Your Vision into Reality | Swethainspite | [Read More](https://medium.com/p/2b85e538b71b) |
 | Thu, 22 May 2025 04:24:30 GMT | Incident Response Planning for Media and Entertainment: A Step-by-Step Guide for Filipino… | Joseph Desmond Cruel | [Read More](https://medium.com/p/e2514e7e9863) |
+| Thu, 22 May 2025 04:20:19 GMT | What is Automated Incident Response? | Priyansha Madhwal | [Read More](https://medium.com/p/7a3aa0059330) |
+| Thu, 22 May 2025 04:18:37 GMT | Detected Suspicious Xls File - Letsdefined | Arshad Hossain | [Read More](https://medium.com/p/14b0fea38499) |
 | Thu, 22 May 2025 04:08:59 GMT | When I Thought Edge Could Replace Chrome | Sam Galope | [Read More](https://medium.com/p/a6fb73769509) |
 | Thu, 22 May 2025 04:01:16 GMT | Data Security Breaches Lead To An Erosion Of Trust In Crypto Exchanges | VTECH | [Read More](https://medium.com/p/1c0e3ff8ce58) |
 | Thu, 22 May 2025 03:59:19 GMT | Incident Response Planning for Media and Entertainment: A Step-by-Step Guide for Filmmakers | Joseph Desmond Cruel | [Read More](https://medium.com/p/84d17453f9e2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 May 2025 19:17:09 GMT | Cybersecurity Advisory: Hackers Exploit Zoom’s Remote Control Feature | Xaltius | [Read More](https://medium.com/p/2d16cd926faf) |
 | Wed, 21 May 2025 19:11:26 GMT | Why a VPN on Your iPhone Is No Longer Optional in 2025 | VPN ForceField | [Read More](https://medium.com/p/2c586146fab2) |
 | Wed, 21 May 2025 19:09:03 GMT | Decoding the Layers: An Introduction to the VaultLayer™ Map System | VaultFam™ | [Read More](https://medium.com/p/7a9d1bac70c5) |
-| Wed, 21 May 2025 18:57:52 GMT | ️ How Antivirus Software Works: Detection Techniques, Heuristics, and Quarantine Explained | Murathanklc | [Read More](https://medium.com/p/f13ca68c5bdb) |
-| Wed, 21 May 2025 18:53:16 GMT | 3AM Ransomware Uses Spoofed IT Calls & Email Bombing | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/5fc519db1c4a) |
-| Wed, 21 May 2025 18:49:08 GMT | How Python Shell Came Handy During A Production Bug ? | alphaBEE | [Read More](https://medium.com/p/aa24abe5b40c) |
-| Wed, 21 May 2025 18:32:33 GMT | How to Secure Your WordPress wp-config.php File the Right Way | Shubradeb | [Read More](https://medium.com/p/cad3d1cb4fb7) |
-| Wed, 21 May 2025 18:32:26 GMT | Threat Intelligence Advisory and Feasibility Report | Robert Schryvers ChT | [Read More](https://medium.com/p/c744dc287830) |
-| Wed, 21 May 2025 18:29:07 GMT | Security Information and Event Management (SIEM) | Igor Berner | [Read More](https://medium.com/p/f5aa849821a9) |
