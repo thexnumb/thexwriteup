@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 May 2025 14:36:49 GMT | Why “1GB of Data” Means Nothing in a Privacy Risk Assessment | A D | [Read More](https://medium.com/p/9b188bde0c50) |
+| Thu, 22 May 2025 14:36:09 GMT | DC 3 Machine Walkthrough 3/3 | Eleanor | [Read More](https://medium.com/p/4ebc225b0a3b) |
+| Thu, 22 May 2025 14:33:32 GMT | Talking to Siri Shouldn’t Be This Hard | Anthony C Fox | [Read More](https://medium.com/p/850b3bb25c9b) |
+| Thu, 22 May 2025 14:32:08 GMT | Cybersecurity
+Written by: Rojal Chaudhary | Rojal chaudhary | [Read More](https://medium.com/p/b6fb39cf6b76) |
+| Thu, 22 May 2025 14:31:26 GMT | How a Simple Terminal Stand Can Boost Efficiency at the Point of Sale | Judy Reynolds | [Read More](https://medium.com/p/f35ac84be21a) |
+| Thu, 22 May 2025 14:27:56 GMT | APEX Feature Spotlights: Fortify Your Apps with Rock-Solid Authentication & Authorization! | Rohit Mittel | [Read More](https://medium.com/p/a14896cac0eb) |
+| Thu, 22 May 2025 14:27:07 GMT | THM — Benign Writeup | Shamar Isaac | [Read More](https://medium.com/p/d28ebf9ab7b9) |
+| Thu, 22 May 2025 14:20:32 GMT | Still trusting that totally legit RVTools installer you grabbed from page-3 of Google while racing… | Wes Young | [Read More](https://medium.com/p/41b16854e2b9) |
+| Thu, 22 May 2025 14:19:34 GMT | Apriti sesamo - Writeup | Marvin | [Read More](https://medium.com/p/423426e816fd) |
+| Thu, 22 May 2025 14:19:25 GMT | Professional Event Security & Crowd Management in Coventry, UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/46f0bac85cca) |
 | Thu, 22 May 2025 14:17:04 GMT | Using Threat Intelligence to Implement Proactive Cyber Defense | Cloud4C Services | [Read More](https://medium.com/p/8b6589792b3f) |
 | Thu, 22 May 2025 14:09:40 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/e43f76dc0c60) |
 | Thu, 22 May 2025 14:05:48 GMT | QIC Tech Meetup → Yerevan on June 4 | QIC digital hub | [Read More](https://medium.com/p/6a930f69b435) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 09:58:29 GMT | Please Don’t Look At Me! | DR Aiza | [Read More](https://medium.com/p/d47eaa6259c5) |
 | Thu, 22 May 2025 09:56:06 GMT | DevOps vs. DevSecOps: Not a Battle — A Transformation | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/6d9a4c3c88b8) |
 | Thu, 22 May 2025 09:55:27 GMT | MISCONFIGURED  PORTS  & OUTDATED SOFTWARE— A Hacker’s Playground | Abdulkadir Ibrahim | [Read More](https://medium.com/p/181098b85405) |
-| Thu, 22 May 2025 09:50:32 GMT | FortifyDigit: The Cybersecurity Company in Kerala That Protects Businesses 24/7 | Shahid Afreedi | [Read More](https://medium.com/p/dc2a1a3f89b8) |
-| Thu, 22 May 2025 09:48:16 GMT | The M&S Cyberattack: A Wake-Up Call for Retail Cybersecurity | Zak Rashid | [Read More](https://medium.com/p/e0a35ca8965a) |
-| Thu, 22 May 2025 09:43:17 GMT | Cybersecurity Myths That Put Your Business at Risk | Fountain Hills Technologies | [Read More](https://medium.com/p/86ec730d643d) |
-| Thu, 22 May 2025 09:39:04 GMT | Critical ChatGPT Vulnerability Allows Embedding of Malicious SVGs & Images in Shared… | Infoziant | [Read More](https://medium.com/p/6289004564cf) |
-| Thu, 22 May 2025 09:38:55 GMT | Inside Scattered Spider: Unmasking One of the Most Dangerous Cybercrime Groups of Our Time | Azutech | [Read More](https://medium.com/p/b52d08c782ad) |
-| Thu, 22 May 2025 09:38:00 GMT | You don’t want to be a Bug-Hunter. You want to be a Pentester. | Krank Kevin | [Read More](https://medium.com/p/9e9a64ea1fa6) |
-| Thu, 22 May 2025 09:35:23 GMT | Docker Introduces Hardened Images: What It Means for Secure Container Development | Ozimede | [Read More](https://medium.com/p/aebb88502c32) |
-| Thu, 22 May 2025 09:34:23 GMT | CyberDefender: “PsExec Hunt Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/1cdbdfd74b1e) |
-| Thu, 22 May 2025 09:33:56 GMT | SOAR IS DEAD! | Steve Pye | [Read More](https://medium.com/p/8c9db4e78326) |
-| Thu, 22 May 2025 09:27:18 GMT | Coinbase Warns of Up to $400M Loss Following Cyber Attack: What It Means for Crypto Security | CyBlog | [Read More](https://medium.com/p/d35f6feb68d1) |
