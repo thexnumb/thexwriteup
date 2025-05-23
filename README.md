@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 11:25:26 GMT | Digital Forensics: Your First Line of Defense Against Cyber Threats | Shubhrapandey Sgi | [Read More](https://medium.com/p/7df9147ff978) |
+| Fri, 23 May 2025 11:18:31 GMT | FaaS: Behind the scenes of serverless and its Security | Saurav Dawadi | [Read More](https://medium.com/p/1d1914e9bd00) |
 | Fri, 23 May 2025 11:10:19 GMT | Why Security Audits Matter for Bahrain Businesses | centresystemsgroup | [Read More](https://medium.com/p/3f85c8fb3451) |
 | Fri, 23 May 2025 11:05:45 GMT | Cybersecurity Solutions Dubai | Oadtechdubai | [Read More](https://medium.com/p/4cccbd728ed8) |
 | Fri, 23 May 2025 11:02:27 GMT | You're not cautious enough. | Mujidat Dada | [Read More](https://medium.com/p/2bb2f5edd5e9) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 04:55:55 GMT | From Nothing to 1 Crore: My Tech Hustle Story | Manoj Shrestha | [Read More](https://medium.com/p/3bcf7677281b) |
 | Fri, 23 May 2025 04:51:39 GMT | Building a Culture of Cyber Risk Management | Shivam | [Read More](https://medium.com/p/c2e188a7b32e) |
 | Fri, 23 May 2025 04:35:38 GMT | The Reason Men Don’t Open Up — And What Happens When One Woman Doesn’t Shut It Down | John Linnane | [Read More](https://medium.com/p/cfb702b0f9ec) |
-| Fri, 23 May 2025 04:27:46 GMT | What Is a VPN and How It Works and 7 Powers Tips for Security in 2025 | Furqan Haider | [Read More](https://medium.com/p/220af6f50e78) |
-| Fri, 23 May 2025 04:14:23 GMT | Escaping Reality: My Struggle With Video Game Addiction | QhcyberhQ | [Read More](https://medium.com/p/cfe981ec1607) |
