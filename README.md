@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 16:24:28 GMT | Velvet Chollima APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/89c5159e7fc1) |
+| Fri, 23 May 2025 16:20:19 GMT | Hacking NASA : The Journey to My First Hall of Fame | B4LOGI | [Read More](https://medium.com/p/3d6a978b3d17) |
+| Fri, 23 May 2025 16:18:42 GMT | Intune Patch Management: Keeping Your Devices Secure and Up to Date | SafeAeon Inc. | [Read More](https://medium.com/p/632b2abec38c) |
+| Fri, 23 May 2025 16:12:11 GMT | SOC108 — Malicious Remote Access Software Detected: Event ID 38 | Cyril Philipp Abajar | [Read More](https://medium.com/p/eb3d67f7ca0d) |
+| Fri, 23 May 2025 16:10:28 GMT | FBI Warns of Luna Moth Extortion Attacks Targeting U.S. Law Firms | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/0bc6494efc73) |
+| Fri, 23 May 2025 16:05:51 GMT | How I Use LLMs to Supercharge My Bug Bounty Recon | Spectat0rguy | [Read More](https://medium.com/p/3f9892c6b5a0) |
+| Fri, 23 May 2025 16:04:10 GMT | MDR as a Service: A Powerful Defense Against Modern Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/03707f77135a) |
+| Fri, 23 May 2025 16:02:26 GMT | What is Secure File Transfer Protocol (SFTP) — TechWithTwin | TechWithTwin | [Read More](https://medium.com/p/63174cc97d85) |
+| Fri, 23 May 2025 16:02:26 GMT | The Invisible Theater: When AI Simulates Emotional Connection | Donalda | [Read More](https://medium.com/p/71d9d5208f8a) |
+| Fri, 23 May 2025 16:00:09 GMT | The 3 Books Every Cyber Defender Swears By | Ahmad Javed | [Read More](https://medium.com/p/92897ea1fbd0) |
+| Fri, 23 May 2025 15:52:35 GMT | Why Authoritarianism Fails Delivering Safety? | alfonso españa | [Read More](https://medium.com/p/3bf55db43fa8) |
+| Fri, 23 May 2025 15:52:27 GMT | Integrating Data Governance, Cybersecurity, and AI Governance: A Holistic Framework for… | Patrick Oh | [Read More](https://medium.com/p/b1898862bf46) |
+| Fri, 23 May 2025 15:42:50 GMT | The ROI of No-Code Integration: How Origami™ is Helping Businesses Connect Systems and Unleash… | Hussein Abdelwahab | [Read More](https://medium.com/p/d2faf6f08808) |
+| Fri, 23 May 2025 15:42:45 GMT | Tryhackme’s PublisherCTF MSF. | lukewago | [Read More](https://medium.com/p/e9ebaf724c24) |
 | Fri, 23 May 2025 15:36:19 GMT | Reverse Engineering Başlanğıcı: Easy Keygen Analizi (IDA Pro və x32dbg ilə) | Elmin Farzaliyev | [Read More](https://medium.com/p/37315ccedcc3) |
 | Fri, 23 May 2025 15:35:04 GMT | Is WhatsApp Safe in 2025? The Real Privacy Breakdown | Atomic Mail | [Read More](https://medium.com/p/17c2becb8c91) |
 | Fri, 23 May 2025 15:33:01 GMT | Securing Your Containers: Best Practices for Docker Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/ed14e1c4a8af) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 10:48:27 GMT | Process Injection | Vüsal Gülməmmədov | [Read More](https://medium.com/p/7566e797c6a3) |
 | Fri, 23 May 2025 10:44:32 GMT | What Is the Role of AI in Modern Cyber Defense Solutions in the UAE? | Ahad me | [Read More](https://medium.com/p/7680a0d0eeee) |
 | Fri, 23 May 2025 10:42:35 GMT | What Powers Modern Banking in India? | Chandrachud Sahi | [Read More](https://medium.com/p/28f7265e451b) |
-| Fri, 23 May 2025 10:36:43 GMT | How to Build a Real-Time Event Announcement System using AWS SNS, Lambda, and API Gateway | Akuphe Dieudonne | [Read More](https://medium.com/p/5a7a3563a74e) |
-| Fri, 23 May 2025 10:35:45 GMT | 10 K8s Secret Management Mistakes You’re Probably Making | Devops Trainer | [Read More](https://medium.com/p/d702c478fb9c) |
-| Fri, 23 May 2025 10:34:54 GMT | Third-Party Risk Management at Scale: Designing TPRM Programs for Global Supply Chains | A-STAR7_DOCTOR | [Read More](https://medium.com/p/932b09d336f8) |
-| Fri, 23 May 2025 10:26:33 GMT | “I’m Fine” - The World’s Most Common Lie | Cat Milton | [Read More](https://medium.com/p/3b957c08134e) |
-| Fri, 23 May 2025 10:24:13 GMT | Toobit’s Low-Fee Advantage: Find Out Why Traders Are Switching in 2025 | Toobit | [Read More](https://medium.com/p/b0273e6490f7) |
-| Fri, 23 May 2025 10:12:34 GMT | E2E-Chat: Secure Peer-to-Peer Messaging with WebRTC | Sidharth | [Read More](https://medium.com/p/d48e86515571) |
-| Fri, 23 May 2025 10:10:32 GMT | Password Hashing and Cracking: The Digital Locks We Rely On | Kuldeepkumawat | [Read More](https://medium.com/p/bea05ced5a38) |
-| Fri, 23 May 2025 10:08:32 GMT | Current Cyber Threats: Why Cybersecurity Courses Are Essential for 2025! | Adhvaidh | [Read More](https://medium.com/p/1a000412fa2c) |
-| Fri, 23 May 2025 10:08:24 GMT | APPRAISAL OF THE CHIPS SECURITY BILL(ACT) | Majoyeogbe Boluwatife | [Read More](https://medium.com/p/2df79745daaf) |
-| Fri, 23 May 2025 10:03:23 GMT | Inside the WiFi Pineapple: Ethical Hacking and Wireless Surveillance | Nanda Siddhardha | [Read More](https://medium.com/p/a924889223aa) |
-| Fri, 23 May 2025 10:02:36 GMT | Energy Footprint of PQC Key Generation | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/92a3d733d76f) |
-| Fri, 23 May 2025 10:02:28 GMT | Legacy Code, Future Problems: Why We Still Need to Understand Outdated Tech | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e77ce81d3d32) |
-| Fri, 23 May 2025 10:02:05 GMT | Code. Test. Evolve. How EDSPL Empowers Businesses Through Full-Spectrum Software Solutions | saurabh cyberinfomines | [Read More](https://medium.com/p/d36d3f09c3a6) |
-| Fri, 23 May 2025 09:59:39 GMT | The Titan Platform: Engineering 3D Malware Visualization at Jamf | Nicholas Benyo | [Read More](https://medium.com/p/b80ac4358b1a) |
