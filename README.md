@@ -12,9 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 09:20:48 GMT | The Truth About AI in Cybersecurity | E. Ibrahimi | [Read More](https://medium.com/p/ad3bc2dee255) |
+| Fri, 23 May 2025 09:18:43 GMT | Securing the AI Agent Development Lifecycle: A CISO’s Perspective for Business Leaders, AI… | Ajay Kumar | [Read More](https://medium.com/p/462d480a100f) |
 | Fri, 23 May 2025 09:18:02 GMT | Hackers Breach Scottish Ambulance Service: Ransomware Attack Under Investigation | CyBlog | [Read More](https://medium.com/p/d38196319256) |
 | Fri, 23 May 2025 09:16:03 GMT | Iran’s Missile Arsenal: Reach, Power, and the Global Concerns It Raises | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/388bb1b0067f) |
 | Fri, 23 May 2025 09:10:48 GMT | Here’s How I Recover My Money From Traydai | Max Knight | [Read More](https://medium.com/p/e0e860f26033) |
+| Fri, 23 May 2025 09:09:58 GMT | Web App Penetration Testing: Your First Line of Defense Against Cyber Attacks | SmartCLOUD Australia | [Read More](https://medium.com/p/5b30517a8822) |
 | Fri, 23 May 2025 09:06:29 GMT | Traydai Review: Is It Legit Or Fake. | Max Knight | [Read More](https://medium.com/p/6e9580725927) |
 | Fri, 23 May 2025 09:04:10 GMT | Shadows on the Edge of Data | Tales of Nyx | [Read More](https://medium.com/p/6b09020b8da1) |
 | Fri, 23 May 2025 08:55:58 GMT | Security analysis of Besder 6024PB-XMA501 IP camera | Kostas Ereksonas | [Read More](https://medium.com/p/afe57acf1733) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 01:32:12 GMT | REVIEWS ON I NEED A HACKER TO RECOVER MY STOLEN USDT <CRYPTO RECOVERY OPTION | Robertjoness | [Read More](https://medium.com/p/bd9cfbb4ca0e) |
 | Fri, 23 May 2025 01:14:18 GMT | Blind SQL Injection: / Temel Kavramlar — 1 | Aras Güner | [Read More](https://medium.com/p/998589c025a9) |
 | Fri, 23 May 2025 01:13:04 GMT | The Windows Security Journey — NewCredentials | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4c947e6d3cdd) |
-| Fri, 23 May 2025 01:08:28 GMT | I will write a cybersecurity resume data science security architecture soc analyst tech | Victorfut | [Read More](https://medium.com/p/57d5fa0827f6) |
-| Fri, 23 May 2025 01:04:43 GMT | Designing and Implementing a Global Zero Trust Strategy Across Multinational Infrastructures | A-STAR7_DOCTOR | [Read More](https://medium.com/p/454d87e8324a) |
-| Fri, 23 May 2025 00:47:25 GMT | Find your bug bounty target hidden directories | loyalonlytoday | [Read More](https://medium.com/p/f132f70bafe1) |
