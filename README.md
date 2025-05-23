@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 20:04:39 GMT | $24M in Crypto Seized,  DOJ Strikes Back at Alleged Qakbot Malware Kingpin | CoinGen | [Read More](https://medium.com/p/4b7f4d426e52) |
+| Fri, 23 May 2025 19:54:19 GMT | Airplane Walkthrough (Tryhackme) | Hunyejohn | [Read More](https://medium.com/p/ce5482f8aabf) |
+| Fri, 23 May 2025 19:49:14 GMT | HackTheBox -Fawn | Fabian Kolb | [Read More](https://medium.com/p/318780f52362) |
+| Fri, 23 May 2025 19:47:29 GMT | How an IP Survives the AWS Jungle (VPC, Security Groups & NACLs Explained) — Part 3 | Malik Ahmad | [Read More](https://medium.com/p/77e4737f0264) |
+| Fri, 23 May 2025 19:46:11 GMT | How to Audit a Linux or Ubuntu Server Like a Security Consultant | Faruk Ahmed | [Read More](https://medium.com/p/39029092a96a) |
+| Fri, 23 May 2025 19:40:02 GMT | Are We All Really Secure ? | Man Of Truth | [Read More](https://medium.com/p/8095fc1d3edb) |
 | Fri, 23 May 2025 19:22:16 GMT | Facebook’s 1.2 Billion-Record Data Leak Raises Alarms | One Minute Data | [Read More](https://medium.com/p/8d0633dca08f) |
 | Fri, 23 May 2025 19:02:24 GMT | Grounded: How Legacy Tech and a Lack of Cybersecurity Sent Newark Air Travel Spiraling | Cyber Kavy | [Read More](https://medium.com/p/38a551f988ea) |
 | Fri, 23 May 2025 18:59:47 GMT | APT28 in the Snare : TryHackMe Walkthrough - Blue Team - Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/ca5b1eafcb29) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 13:27:42 GMT | APT28 in the Snare - Tryhackme | Aaron | [Read More](https://medium.com/p/2cb8a0361eea) |
 | Fri, 23 May 2025 13:27:31 GMT | Building a soc Lab at Home (PART 1) | Linusobura | [Read More](https://medium.com/p/a638dec56f26) |
 | Fri, 23 May 2025 13:26:47 GMT | Securing Tenant Isolation in a Multi-Tenant Application | SW-Muriu | [Read More](https://medium.com/p/766f90a112dd) |
-| Fri, 23 May 2025 13:26:47 GMT | What You Need to Know About Cybersecurity | Ed-it Editions | [Read More](https://medium.com/p/e88546e256ab) |
-| Fri, 23 May 2025 13:17:20 GMT | Does the EU AI Act Apply to “Old” AI Systems? | Danish | [Read More](https://medium.com/p/a1e4e6995af1) |
-| Fri, 23 May 2025 13:16:33 GMT | The tiny GRC gap that nearly cost one company their entire audit | A D | [Read More](https://medium.com/p/871a685508d9) |
-| Fri, 23 May 2025 13:14:55 GMT | How Security Companies in Thane Adapt to Modern Threats | united guard | [Read More](https://medium.com/p/a9bf0c823e87) |
-| Fri, 23 May 2025 13:13:39 GMT | The Human Cost of a Broken System: Why Cybersecurity’s Best Are Walking Away | Eric Zietlow | [Read More](https://medium.com/p/3da9fcd1003a) |
-| Fri, 23 May 2025 13:12:50 GMT | Before You Launch That SQL Injection Test, Read This | Sam Galope | [Read More](https://medium.com/p/3294ed733a12) |
