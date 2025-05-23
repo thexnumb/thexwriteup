@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 05:40:04 GMT | SmartMeta: The Best Technology Website of 2025 | Smartmeta | [Read More](https://medium.com/p/7e01ced1b40a) |
+| Fri, 23 May 2025 05:35:07 GMT | What Is Cybersecurity and Why Is It the Hottest Career in 2025? | Hyperlaunch | [Read More](https://medium.com/p/99b003e85dee) |
+| Fri, 23 May 2025 05:29:42 GMT | What are the Best Practices in Cyber Security for Online Banking. | The USA Finance Hub | [Read More](https://medium.com/p/c87c691a7ed5) |
+| Fri, 23 May 2025 05:27:44 GMT | 10 Ways Cloud Computing Is Changing the IT World | Ryan Mktg | [Read More](https://medium.com/p/4b3481458de1) |
+| Fri, 23 May 2025 05:27:33 GMT | Cetus Protocol $260 Million Exploit on Sui Chain: Hack Analysis | Safe Edges | [Read More](https://medium.com/p/db402b056317) |
+| Fri, 23 May 2025 05:25:05 GMT | Robot Security Guards | Marcus Koehnlein | [Read More](https://medium.com/p/2e72f5948060) |
 | Fri, 23 May 2025 05:02:47 GMT | CYBER SECURITY COURSE | Vigneshj | [Read More](https://medium.com/p/e11ec873f842) |
 | Fri, 23 May 2025 04:55:55 GMT | From Nothing to 1 Crore: My Tech Hustle Story | Manoj Shrestha | [Read More](https://medium.com/p/3bcf7677281b) |
 | Fri, 23 May 2025 04:51:39 GMT | Building a Culture of Cyber Risk Management | Shivam | [Read More](https://medium.com/p/c2e188a7b32e) |
@@ -19,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 04:27:46 GMT | What Is a VPN and How It Works and 7 Powers Tips for Security in 2025 | Furqan Haider | [Read More](https://medium.com/p/220af6f50e78) |
 | Fri, 23 May 2025 04:14:23 GMT | Escaping Reality: My Struggle With Video Game Addiction | QhcyberhQ | [Read More](https://medium.com/p/cfe981ec1607) |
 | Fri, 23 May 2025 03:57:25 GMT | RAID: Teknologi Penyimpanan Cerdas untuk Data Lebih Aman dan Cepat | Abduljabbar | [Read More](https://medium.com/p/c6bb5a01e37d) |
+| Fri, 23 May 2025 03:33:11 GMT | Mengenal RAID: Teknologi Penyimpanan Data yang Andal dan Efisien | Hanifaufa | [Read More](https://medium.com/p/5dd730961d4e) |
 | Fri, 23 May 2025 03:32:02 GMT | e-Zero FIR: India’s Digital Leap in Combating High-Value Cybercrime | Deven Chhajed | [Read More](https://medium.com/p/cec6b50572ed) |
 | Fri, 23 May 2025 03:31:54 GMT | From Tool to Threat: Is AI Quietly Fueling the Rise of Economic Crime? | Biswajeet Poddar | [Read More](https://medium.com/p/00ce373fcc7d) |
 | Fri, 23 May 2025 03:31:25 GMT | Cybersecurity Program Management: Building a Strong Defense in the Digital Age | Securis360 Inc. | [Read More](https://medium.com/p/055c939782e3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 18:24:40 GMT | EvilUSB PIN Brute-Force Tool Using Digispark | Im0nk3yar0und | [Read More](https://medium.com/p/d33be808ab28) |
 | Thu, 22 May 2025 18:23:42 GMT | Apple is definitely gearing up for an iPhone Ultra | Osama Khan | [Read More](https://medium.com/p/67cd9ca31e5a) |
 | Thu, 22 May 2025 18:16:52 GMT | Splunk 3, Task 5 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/b9e088df36f0) |
-| Thu, 22 May 2025 18:12:53 GMT | The 6 Best Private Proxy Services of 2025 | Oneplusafrica | [Read More](https://medium.com/p/16889943e3b3) |
-| Thu, 22 May 2025 18:11:12 GMT | What the Insurance Industry Just Learned from SimpleFix.AI | Quantum Squint Research Dept. | [Read More](https://medium.com/p/c5347ce717dd) |
-| Thu, 22 May 2025 18:05:07 GMT | Why reporting an #issue or #bug should be (as similar as possible) like going to the Doctor | Isabel Portella | [Read More](https://medium.com/p/8868fa939a50) |
-| Thu, 22 May 2025 18:04:34 GMT | ACLight: Finding Hidden Admin Accounts in Active Directory for Security Testing | Tharindu Damith | [Read More](https://medium.com/p/b99d577a8df0) |
-| Thu, 22 May 2025 17:56:16 GMT | 100 days of Learning Penetration testing -Day 3 | Samin Basnet | [Read More](https://medium.com/p/ba905ba2afad) |
-| Thu, 22 May 2025 17:54:50 GMT | Emojis: Your Digital Smile Isn’t Always Friendly | Aastha Thakker | [Read More](https://medium.com/p/77c0c78854cb) |
-| Thu, 22 May 2025 17:54:43 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/66b3a98132e4) |
