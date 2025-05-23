@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 23:32:23 GMT | 100 Series Cellular Bridge By HPE Aruba Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/8117806bab8f) |
+| Fri, 23 May 2025 23:16:35 GMT | They Fall for the Silhouette | Alexandra Engen | [Read More](https://medium.com/p/a9e798a84e44) |
 | Fri, 23 May 2025 23:09:05 GMT | 100+ Fake Chrome Extensions Are Hijacking Sessions and Stealing Credentials | Cyber-AppSec | [Read More](https://medium.com/p/bba2f8b408b0) |
 | Fri, 23 May 2025 23:00:04 GMT | Always Encrypted in SQL Server: Protecting Sensitive Columns End-to-End | Sabyasachi Choudhury | [Read More](https://medium.com/p/4954f9211ba7) |
 | Fri, 23 May 2025 22:40:21 GMT | 5 Essential Pillars to Block CI/CD Supply Chain Attacks | Dibeesh KS | [Read More](https://medium.com/p/118fd329f028) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 15:36:19 GMT | Reverse Engineering Başlanğıcı: Easy Keygen Analizi (IDA Pro və x32dbg ilə) | Elmin Farzaliyev | [Read More](https://medium.com/p/37315ccedcc3) |
 | Fri, 23 May 2025 15:35:04 GMT | Is WhatsApp Safe in 2025? The Real Privacy Breakdown | Atomic Mail | [Read More](https://medium.com/p/17c2becb8c91) |
 | Fri, 23 May 2025 15:33:01 GMT | Securing Your Containers: Best Practices for Docker Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/ed14e1c4a8af) |
-| Fri, 23 May 2025 15:30:34 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/3a06953adc36) |
-| Fri, 23 May 2025 15:26:26 GMT | Ransomware Lab Walkthrough: #Maze Edition! | Bl@ckC!pH3r | [Read More](https://medium.com/p/c07de95647ff) |
