@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 04:27:46 GMT | What Is a VPN and How It Works and 7 Powers Tips for Security in 2025 | Furqan Haider | [Read More](https://medium.com/p/220af6f50e78) |
+| Fri, 23 May 2025 04:14:23 GMT | Escaping Reality: My Struggle With Video Game Addiction | QhcyberhQ | [Read More](https://medium.com/p/cfe981ec1607) |
 | Fri, 23 May 2025 03:57:25 GMT | RAID: Teknologi Penyimpanan Cerdas untuk Data Lebih Aman dan Cepat | Abduljabbar | [Read More](https://medium.com/p/c6bb5a01e37d) |
 | Fri, 23 May 2025 03:32:02 GMT | e-Zero FIR: India’s Digital Leap in Combating High-Value Cybercrime | Deven Chhajed | [Read More](https://medium.com/p/cec6b50572ed) |
 | Fri, 23 May 2025 03:31:54 GMT | From Tool to Threat: Is AI Quietly Fueling the Rise of Economic Crime? | Biswajeet Poddar | [Read More](https://medium.com/p/00ce373fcc7d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 17:47:49 GMT | allowPrivilegeEscalation: false: The Kubernetes Security Flag With a Hidden Catch | Harsha Koushik | [Read More](https://medium.com/p/e81292a0f43c) |
 | Thu, 22 May 2025 17:46:20 GMT | DC: 5— VulnHub (CTF Həlli) | Rac Adilov | [Read More](https://medium.com/p/723bda80b5f7) |
 | Thu, 22 May 2025 17:42:25 GMT | The Logic of Dating | Rose | [Read More](https://medium.com/p/6aff53b12338) |
-| Thu, 22 May 2025 17:35:51 GMT | Is Your Email Safe or Sorry? Let’s Find Out. | Vaseharan T | [Read More](https://medium.com/p/c662ebd7228b) |
-| Thu, 22 May 2025 17:33:15 GMT | Building Compliant FinTech Infrastructure in 2025 Without Killing Developer Experience | Nicholas Thoni | [Read More](https://medium.com/p/9f679d925523) |
