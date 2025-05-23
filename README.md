@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 17:37:22 GMT | How to Build AI-Powered Cybersecurity Applications | Xaltius | [Read More](https://medium.com/p/38078276d53a) |
+| Fri, 23 May 2025 17:36:24 GMT | One of Ubisoft's Best Games - Watch_Dogs 2 Review | Brando Calrissian | [Read More](https://medium.com/p/2ced7f1afd29) |
+| Fri, 23 May 2025 17:33:41 GMT | Building a Generative AI-Powered Cybersecurity Workforce | Xaltius | [Read More](https://medium.com/p/7ee8c75edc40) |
+| Fri, 23 May 2025 17:29:24 GMT | Automating Security Control Mapping with AI: How Laziness Led to Innovation | M1k0 | [Read More](https://medium.com/p/84737529aacf) |
+| Fri, 23 May 2025 17:27:47 GMT | HTB Write-up: UnderPass (Easy) | Ivanahm | [Read More](https://medium.com/p/01e42a5aeb1a) |
+| Fri, 23 May 2025 17:24:37 GMT | Lockheed Martin and IBM Pioneer Quantum-Classical Hybrid Computing for Complex Molecular… | QuantumGenie | [Read More](https://medium.com/p/a6ae35dcc968) |
+| Fri, 23 May 2025 17:22:03 GMT | How to Spot a Phishing Link: Tips to Keep You Safe | Xaltius | [Read More](https://medium.com/p/68ddb5043a56) |
+| Fri, 23 May 2025 17:21:37 GMT | How I Installed Burp Suite Professional on Kali Linux Step-by-Step Guide(Free Method) | Mr Vivek keshri | [Read More](https://medium.com/p/f426cbd1c08d) |
+| Fri, 23 May 2025 17:18:18 GMT | Hashing dalam Python | fijrisalwa | [Read More](https://medium.com/p/b9963175f38c) |
+| Fri, 23 May 2025 17:18:17 GMT | Microsoft Patched It, But Hackers Didn’t Care — Inside CVE-2025–24054 | Hantz Jermain | [Read More](https://medium.com/p/23db9cba5cac) |
+| Fri, 23 May 2025 17:17:20 GMT | HackTheBox - Meow | Fabian Kolb | [Read More](https://medium.com/p/c0193ae8e1ab) |
+| Fri, 23 May 2025 17:11:12 GMT | How to Ruin a Web App in 3 Clicks | Derick Johnson | [Read More](https://medium.com/p/98d5b01b5543) |
 | Fri, 23 May 2025 17:08:55 GMT | Cyber Crisis Masters: How CISOs Command Respect and Inspire Action | Paul van der Hagen | [Read More](https://medium.com/p/1e55d4f4a847) |
 | Fri, 23 May 2025 17:07:51 GMT | Operationalizing the BadSuccessor: Abusing dMSA for Domain Privilege Escalation | Arun Nair | [Read More](https://medium.com/p/429cefc36187) |
 | Fri, 23 May 2025 17:07:46 GMT | From The Boardroom to The Frontline: How CISOs Can Communicate with Impact | Paul van der Hagen | [Read More](https://medium.com/p/a37f8d9f61b9) |
@@ -67,6 +79,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 14:19:36 GMT | Introduction to SIEM — TryHackMe Walkthrough | Dhruvish Rathod | [Read More](https://medium.com/p/57687383a5ea) |
 | Fri, 23 May 2025 14:10:44 GMT | Update on the Training — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/f40a5dd9e825) |
 | Fri, 23 May 2025 14:10:37 GMT | Why I Chose Sabaragamuwa University of Sri Lanka for My IT Studies | Dilshaavp | [Read More](https://medium.com/p/8f577a69cbab) |
+| Fri, 23 May 2025 14:07:59 GMT | Bybit Hack’lenmesi: Bulut Bilişim Güvenliğinde Bir Uyarı Çanı | Mehmetturkkan | [Read More](https://medium.com/p/03c94001e1b6) |
 | Fri, 23 May 2025 14:05:14 GMT | Automated Risk Response | Presslink Media | [Read More](https://medium.com/p/1b19f85606b7) |
 | Fri, 23 May 2025 14:00:35 GMT | Cyber Briefing: 2025.05.23 | CyberMaterial | [Read More](https://medium.com/p/71eda6480c85) |
 | Fri, 23 May 2025 13:52:34 GMT | DanaBot Dismantled: How a Russian Malware Empire Crashed and Burned | Shaheer Yasir | [Read More](https://medium.com/p/f658c578cb05) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 12:32:24 GMT | Exploit PORT : 53 - DNS Port exploit (Series:1/ [article:4]) | Mr Horbio | [Read More](https://medium.com/p/1e2cd4e7832e) |
 | Fri, 23 May 2025 12:32:24 GMT | Best Bank Reconciliation Software for Error-Free Financial Management | Kosh AI | [Read More](https://medium.com/p/8a5684676605) |
 | Fri, 23 May 2025 12:32:04 GMT | Hire a Hacker for Facebook Recovery: Role of Ethical Hackers | Hackers World | [Read More](https://medium.com/p/8df700c2b9b7) |
-| Fri, 23 May 2025 12:24:58 GMT | HTTP vs HTTPS: The 5-Letter Mistake That’s Inviting Hackers In | Diligentic Infotech Pvt. Ltd. | [Read More](https://medium.com/p/6e4fd9590c38) |
-| Fri, 23 May 2025 12:23:23 GMT | Credential Stuffing: The Hidden Threat Exploiting Your Password Habits | Karl Buhl | [Read More](https://medium.com/p/99e4dda87a86) |
-| Fri, 23 May 2025 12:22:33 GMT | From CSP to OMG: How a Tiny Misconfigured Header Let Me Run JS Anywhere | Iski | [Read More](https://medium.com/p/054e30090230) |
-| Fri, 23 May 2025 12:20:22 GMT | 9 Free Software for Cybersecurity Enthusiasts | Madhavaraman | [Read More](https://medium.com/p/ab3c1a54f151) |
-| Fri, 23 May 2025 12:17:49 GMT | The Weekly Threat Round-up 19/05/2025 — 23/05/2025 | RileyHv | [Read More](https://medium.com/p/3562cc71332b) |
-| Fri, 23 May 2025 12:12:46 GMT | How API Developers Can Prevent Most Critical Vulnerabilities (Part 2) | Mohit Rathore | [Read More](https://medium.com/p/11f916e0f0d2) |
-| Fri, 23 May 2025 12:09:01 GMT | Cheyanne Mallas: Navigating the Digital Frontier with Cybersecurity Project Leadership | Cheyannemallaspa | [Read More](https://medium.com/p/6a6149dc3f8b) |
-| Fri, 23 May 2025 12:04:52 GMT | How to Secure Vending Machines from Cyber Threats | POND IoT | [Read More](https://medium.com/p/51aea7d8b7d3) |
-| Fri, 23 May 2025 12:01:54 GMT | What is Business Continuity Planning and Disaster Recovery? | Saurabh | [Read More](https://medium.com/p/e435e78fd303) |
-| Fri, 23 May 2025 11:57:56 GMT | Operational technology (OT) is now a vital part of our industrial world. | StrongBox IT | [Read More](https://medium.com/p/cf42397aff94) |
-| Fri, 23 May 2025 11:43:46 GMT | Learn How to Hack Unity Applications Using dnSpy | Kyrillos nady | [Read More](https://medium.com/p/6a2cfdfcb236) |
-| Fri, 23 May 2025 11:43:23 GMT | Why Most Spring Boot CI/CD Pipelines Are Insecure — And How DevSecOps Fixes It | Himanshu | [Read More](https://medium.com/p/0fe084119a28) |
-| Fri, 23 May 2025 11:37:41 GMT | Can Schools Put Cameras in Classrooms? Legal Reality and the Ethical Debate | 4.0 Schools | [Read More](https://medium.com/p/c5ff8871fd16) |
