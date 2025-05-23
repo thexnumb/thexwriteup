@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 23:09:05 GMT | 100+ Fake Chrome Extensions Are Hijacking Sessions and Stealing Credentials | Cyber-AppSec | [Read More](https://medium.com/p/bba2f8b408b0) |
+| Fri, 23 May 2025 23:00:04 GMT | Always Encrypted in SQL Server: Protecting Sensitive Columns End-to-End | Sabyasachi Choudhury | [Read More](https://medium.com/p/4954f9211ba7) |
+| Fri, 23 May 2025 22:40:21 GMT | 5 Essential Pillars to Block CI/CD Supply Chain Attacks | Dibeesh KS | [Read More](https://medium.com/p/118fd329f028) |
+| Fri, 23 May 2025 22:37:58 GMT | ¿Es posible recuperar mi dinero de Fintok? | Marina Williams | [Read More](https://medium.com/p/9fe292d66a3a) |
+| Fri, 23 May 2025 22:36:24 GMT | A Man’s Real Fear of Losing You | Laura Miller | [Read More](https://medium.com/p/76e16a5d4164) |
 | Fri, 23 May 2025 22:36:23 GMT | AI-Powered Code Review: Detecting Zero-Day Vulnerabilities in Real-Time | Rizqi Mulki | [Read More](https://medium.com/p/a67ba69769a6) |
 | Fri, 23 May 2025 22:29:05 GMT | Secure Cross-Account VPC Communication in AWS Using Peering Connections | Dyavanapellisujal | [Read More](https://medium.com/p/2b3a28829fde) |
 | Fri, 23 May 2025 22:27:00 GMT | What is Availability in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/8cc03a511c4a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 15:33:01 GMT | Securing Your Containers: Best Practices for Docker Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/ed14e1c4a8af) |
 | Fri, 23 May 2025 15:30:34 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/3a06953adc36) |
 | Fri, 23 May 2025 15:26:26 GMT | Ransomware Lab Walkthrough: #Maze Edition! | Bl@ckC!pH3r | [Read More](https://medium.com/p/c07de95647ff) |
-| Fri, 23 May 2025 15:24:12 GMT | Securycor Ltd: Trusted Professionals in Security Services | Travel time | [Read More](https://medium.com/p/309d179d113a) |
-| Fri, 23 May 2025 15:19:21 GMT | The Hidden Universal Language of AI: How Vec2vec Changes Everything | Jackson Bennett | [Read More](https://medium.com/p/51b53cf62755) |
-| Fri, 23 May 2025 15:18:55 GMT | TryHackMe - APT28 in the Snare - WriteUp | Axoloth | [Read More](https://medium.com/p/8b43ac6cea0e) |
-| Fri, 23 May 2025 15:11:21 GMT | Demystifying the Basics of Subnetting ( Why It Matters in Modern Networking) | Mazhar Imran | [Read More](https://medium.com/p/614884103c25) |
-| Fri, 23 May 2025 15:08:33 GMT | New Substack Blog is Now Up and Running! | Ben Zweibelson, PhD | [Read More](https://medium.com/p/63fe9c0647f0) |
