@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 20:33:46 GMT | # Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/279d7b15ebff) |
+| Fri, 23 May 2025 20:29:02 GMT | Simple CTF - Try Hack Me_Complete Walkthrough | Avrodip Joy | [Read More](https://medium.com/p/1b7882537e91) |
+| Fri, 23 May 2025 20:21:35 GMT | Day 4 of my AWS Pentesting journey — EC2 Enumeration & SSRF Exploitation | mauzware | [Read More](https://medium.com/p/a690bfb71d6f) |
 | Fri, 23 May 2025 20:04:39 GMT | $24M in Crypto Seized,  DOJ Strikes Back at Alleged Qakbot Malware Kingpin | CoinGen | [Read More](https://medium.com/p/4b7f4d426e52) |
 | Fri, 23 May 2025 19:54:19 GMT | Airplane Walkthrough (Tryhackme) | Hunyejohn | [Read More](https://medium.com/p/ce5482f8aabf) |
 | Fri, 23 May 2025 19:49:14 GMT | HackTheBox -Fawn | Fabian Kolb | [Read More](https://medium.com/p/318780f52362) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 13:52:33 GMT | Normes de consentements, ISO 27560 et ISO 29184 | Patrick Boucher | [Read More](https://medium.com/p/28d4955a0c51) |
 | Fri, 23 May 2025 13:48:18 GMT | Is Your Business Ready for the Next Wave of Cyber Threats? | Century Solutions Group | [Read More](https://medium.com/p/a299524b7f1f) |
 | Fri, 23 May 2025 13:36:41 GMT | The Screenshot Trap: Protecting Sensitive Info Daily | Hitesh Said | [Read More](https://medium.com/p/1ec367b06505) |
-| Fri, 23 May 2025 13:27:42 GMT | APT28 in the Snare - Tryhackme | Aaron | [Read More](https://medium.com/p/2cb8a0361eea) |
-| Fri, 23 May 2025 13:27:31 GMT | Building a soc Lab at Home (PART 1) | Linusobura | [Read More](https://medium.com/p/a638dec56f26) |
-| Fri, 23 May 2025 13:26:47 GMT | Securing Tenant Isolation in a Multi-Tenant Application | SW-Muriu | [Read More](https://medium.com/p/766f90a112dd) |
