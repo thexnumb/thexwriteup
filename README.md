@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 08:34:15 GMT | Understanding the Basics: Inkjet vs. Laser Printers | Cost To Cost | [Read More](https://medium.com/p/de15295ab089) |
+| Fri, 23 May 2025 08:29:52 GMT | What is Penetration Testing? | Manisha Chaudhary | [Read More](https://medium.com/p/c7b33305dad1) |
+| Fri, 23 May 2025 08:29:19 GMT | The Bounty Hunter’s Dilemma: Why You’re Not Finding Bugs (And How to Change Your Game) | Vivek PS | [Read More](https://medium.com/p/879af36a3e1d) |
+| Fri, 23 May 2025 08:23:48 GMT | Integrated Biological Defense System: Maximum Protection for Laboratories and Personnel. | "Book of Ideas" | [Read More](https://medium.com/p/0f3a2e3b87bf) |
+| Fri, 23 May 2025 08:20:09 GMT | ️ L1, L2, L3 Support vs. L1, L2, L3 Development: What’s the Difference? | Tushar Jain | [Read More](https://medium.com/p/f35afa0ca67f) |
+| Fri, 23 May 2025 08:19:40 GMT | TryHackMe — MS Sentinel: Introduction Walkthrough | eRRoR | [Read More](https://medium.com/p/f16805bc76ce) |
+| Fri, 23 May 2025 08:19:32 GMT | API Integration Product Owner: Roles and Responsibilities | Shaheer Akhlaq | [Read More](https://medium.com/p/c638e5ef1e78) |
+| Fri, 23 May 2025 08:18:47 GMT | Stop Copy-Pasting from Stack Overflow and Pretending You Understand It | Jamshidbek Boynazarov | [Read More](https://medium.com/p/f80a5895dd33) |
+| Fri, 23 May 2025 08:18:24 GMT | Geopolitical Conflicts and Security Concerns: A World on Edge. | Business Promotion Strategy. | [Read More](https://medium.com/p/4460247e424a) |
 | Fri, 23 May 2025 08:05:52 GMT | SOC Level 1 — Unified Kill Chain (UKC) Frameworks | Alif Abhipraya | [Read More](https://medium.com/p/16c143cb30fe) |
 | Fri, 23 May 2025 08:03:43 GMT | Achieving ISO 27001 Certification: Steps and Best Practices for Information Security | ISO Management Consultant Ltd. | [Read More](https://medium.com/p/7a2a049ee09b) |
 | Fri, 23 May 2025 07:48:42 GMT | FotoForensics: A Simple Tool to Check If an Image Is Fake or Edited | Maira Jabeen | [Read More](https://medium.com/p/a6f3316016d9) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 22:43:30 GMT | Cluster Kubernetes com Zero Trust e controle de tráfego com Calico. | Albuquerquealdry | [Read More](https://medium.com/p/97e47f15331c) |
 | Thu, 22 May 2025 22:41:51 GMT | picoCTF Writeup — Pie Time | 40Days | [Read More](https://medium.com/p/d34365b95cf0) |
 | Thu, 22 May 2025 22:35:24 GMT | The Facebook Ad That Hacked Users: How Reactive Cybersecurity Is Failing Us | Hunter Freeman | [Read More](https://medium.com/p/1592b79b1764) |
-| Thu, 22 May 2025 22:32:22 GMT | ENTERPRISE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/9dad0f3bd998) |
-| Thu, 22 May 2025 22:24:42 GMT | Web Cache Poisoning lead to DoS Attack | HiPFiRE | [Read More](https://medium.com/p/bde188e3511d) |
-| Thu, 22 May 2025 22:24:06 GMT | Hashing Basics - THM | Isiah | [Read More](https://medium.com/p/14eeb33ece6a) |
-| Thu, 22 May 2025 22:21:32 GMT | From Paper to Practice: How to Build Policies That Actually Work | Brittney Ginther | [Read More](https://medium.com/p/773178739aff) |
-| Thu, 22 May 2025 22:17:38 GMT | Hands-On SOC Lab: Active Directory with Splunk, Shuffle, & Slack | Ray Maiden | [Read More](https://medium.com/p/8ba595b52772) |
-| Thu, 22 May 2025 22:16:46 GMT | Networking Terminologies — Part 2: Advanced Concepts for Cybersecurity and Pentesting | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b7f3b3f80181) |
-| Thu, 22 May 2025 22:07:33 GMT | Why Zero-Trust Security is Non-Negotiable for Small Businesses in 2025 | Adam Gross | [Read More](https://medium.com/p/788d8161f99a) |
-| Thu, 22 May 2025 22:06:05 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/38c391cab46e) |
-| Thu, 22 May 2025 22:02:55 GMT | How to Create a Data Loss Prevention Incident Response Plan | Akshay Chauhan | [Read More](https://medium.com/p/11d55f9f88b1) |
