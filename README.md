@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 07:07:38 GMT | “He wasn’t rich. | Avani | [Read More](https://medium.com/p/5fd690cea502) |
+| Fri, 23 May 2025 07:05:12 GMT | Master Red Teaming with Hackersprey Cybersecurity course in Chandigarh | HackersPrey | [Read More](https://medium.com/p/cd506f521611) |
+| Fri, 23 May 2025 07:01:27 GMT | YARA Rule Writing and Real-Time Malware Hunting | Esra Kayhan | [Read More](https://medium.com/p/e668585cced8) |
+| Fri, 23 May 2025 07:01:24 GMT | Introduction To 6 Weeks Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/d59831f01814) |
+| Fri, 23 May 2025 06:58:34 GMT | How writers and robots collaborate to produce great stories | Trendlooms | [Read More](https://medium.com/p/4b780a8e916b) |
+| Fri, 23 May 2025 06:56:23 GMT | Laravel Security Guide: 10 Essential Tips to Secure Your Laravel Application | TechAI | [Read More](https://medium.com/p/b0b2a81b14a0) |
+| Fri, 23 May 2025 06:54:44 GMT | ประจำวันศุกร์ที่ 23 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/31e14dc5edcf) |
+| Fri, 23 May 2025 06:52:51 GMT | Unlock the Power of AI: Get Certified in Generative AI for Cybersecurity | John  Carter | [Read More](https://medium.com/p/e5fdaa0f5c59) |
+| Fri, 23 May 2025 06:50:22 GMT | LUMMA STEALER STILL ACTIVE? AFTER FBI CRACKDOWN! | Rakesh Krishnan | [Read More](https://medium.com/p/07f2e9bfd266) |
 | Fri, 23 May 2025 06:42:15 GMT | The Future of Pentesting: Will AI Replace Ethical Hackers? | Md Faiyaz Khan | [Read More](https://medium.com/p/d4a57cfe834b) |
 | Fri, 23 May 2025 06:41:25 GMT | Why Power Automate Gets the Silent Treatment in Design Discussions | Namir Sagheenanajar | [Read More](https://medium.com/p/35446d06d582) |
+| Fri, 23 May 2025 06:40:41 GMT | 8 Tips for Staying Safe Online | VPSBG.eu | [Read More](https://medium.com/p/71b3c4e0cc11) |
 | Fri, 23 May 2025 06:35:42 GMT | Five New Technologies with Big Impact in 2025 | Abdullah | [Read More](https://medium.com/p/161da0b5b370) |
 | Fri, 23 May 2025 06:33:20 GMT | What are the Five Types of Cybersecurity? | cyber security Updates | [Read More](https://medium.com/p/3f9997ad577e) |
 | Fri, 23 May 2025 06:33:18 GMT | CyberChef: The Basics | Maseera Fatima | [Read More](https://medium.com/p/246d8518a095) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 21:12:50 GMT | AI in the Wrong Hands And We’re Not Prepared! | Your's Nightmare | [Read More](https://medium.com/p/b3498c8b6c9b) |
 | Thu, 22 May 2025 21:06:25 GMT | Don’t Be an Easy Target: 10 Home Security Mistakes I Realized We’re All Probably Making (Even in… | B Painex | [Read More](https://medium.com/p/2c6b3bf6f4ef) |
 | Thu, 22 May 2025 20:54:48 GMT | How to train employees on cybersecurity _ even if they are not tech savvy | fatima shahbaz | [Read More](https://medium.com/p/9d44579fa6d3) |
-| Thu, 22 May 2025 20:51:13 GMT | ETW Event Injection via Guard Pages | S12 - H4CK | [Read More](https://medium.com/p/1345f3e5b271) |
-| Thu, 22 May 2025 20:42:03 GMT | Open Source Communications Security: Balancing Accessibility and Protection | Justin Downes | [Read More](https://medium.com/p/9c5abea88d44) |
-| Thu, 22 May 2025 20:41:54 GMT | 10 Underrated Linux System Administration Tips & Tricks Every New Admin Should Know | Tech Trends Today | [Read More](https://medium.com/p/bb3c6c399821) |
-| Thu, 22 May 2025 20:40:23 GMT | Is Online Security Getting Worse? | Kathryn Wifvat | [Read More](https://medium.com/p/6ebad9d4a922) |
-| Thu, 22 May 2025 20:39:03 GMT | AI Cyber Wars: The Machines Fighting Back Against Hackers | Asimsultan (Head of AI) | [Read More](https://medium.com/p/25fd4e5fe8e0) |
-| Thu, 22 May 2025 20:30:33 GMT | Splunk 3, Task 6 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/4ab8b4afa7f4) |
-| Thu, 22 May 2025 20:19:34 GMT | Why You Should Own a Personal Bitcoin Wallet – Especially for Tax Efficiency | Ashley 사랑 | [Read More](https://medium.com/p/f4f91bb51b8b) |
-| Thu, 22 May 2025 20:18:36 GMT | The Gentle Giant | McKenzie Beden | [Read More](https://medium.com/p/92bfc21ae302) |
-| Thu, 22 May 2025 20:18:02 GMT | Proving Grounds Practice — Cockpit Walkthrough | Batu Ada Tutkun | [Read More](https://medium.com/p/af23c1b8624c) |
-| Thu, 22 May 2025 20:10:29 GMT | Detecting device code phishing in Google Security Operations | Bastradamus | [Read More](https://medium.com/p/9bf1c282cff0) |
