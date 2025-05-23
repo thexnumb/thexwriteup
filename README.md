@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 14:36:13 GMT | Adversarial AI Digest — 20 May, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/438916d6df73) |
+| Fri, 23 May 2025 14:34:13 GMT | MSPs in 2025: Navigating the Cybersecurity Compliance Minefield | Donald Betancourt | [Read More](https://medium.com/p/4efa03c9b007) |
+| Fri, 23 May 2025 14:33:10 GMT | Top GRC Tools You Should Know in 2025 (And Why Socurely Stands Out) | Brittney Ginther | [Read More](https://medium.com/p/98c199376355) |
+| Fri, 23 May 2025 14:32:25 GMT | The Beauty of Being Real: Why Authenticity Hits Harder Than Perfection | EdwinValdez | [Read More](https://medium.com/p/4131ae1f4de1) |
+| Fri, 23 May 2025 14:26:05 GMT | LiteFunds Review - Is It Legit or Fake? | Leo Farrelly | [Read More](https://medium.com/p/22ea22c51a85) |
+| Fri, 23 May 2025 14:25:15 GMT | Beyond the First $1,000: What Resilience Really Means in Bug Bounty Hunting | Kailasv | [Read More](https://medium.com/p/92c54a9f8f04) |
+| Fri, 23 May 2025 14:24:13 GMT | Computer Science Writer | Geoffrey Louis Nicoletti | [Read More](https://medium.com/p/4a4de4833a12) |
+| Fri, 23 May 2025 14:22:03 GMT | TLS-RPT: Welcome in Postfix 3.10+ | The Silent Engineer | [Read More](https://medium.com/p/3df1722e914e) |
+| Fri, 23 May 2025 14:21:26 GMT | Phishing-Resistant MFA: Enterprise-Grade Security for SMBs | Ramsey Consulting Services | [Read More](https://medium.com/p/c982c22f9885) |
+| Fri, 23 May 2025 14:21:04 GMT | Day 44: Packet Analysis: Understanding the Network’s X-Ray Machine | Agarwaldaksh | [Read More](https://medium.com/p/8c4935efdadb) |
+| Fri, 23 May 2025 14:20:55 GMT | DeepTempo Wins Global InfoSec Award for Advanced Threat Identification | Evan Powell | [Read More](https://medium.com/p/1112b01a4c7d) |
+| Fri, 23 May 2025 14:20:44 GMT | Here’s How I Recovered My Funds from LiteFunds | Leo Farrelly | [Read More](https://medium.com/p/946b65691532) |
+| Fri, 23 May 2025 14:19:36 GMT | Introduction to SIEM — TryHackMe Walkthrough | Dhruvish Rathod | [Read More](https://medium.com/p/57687383a5ea) |
+| Fri, 23 May 2025 14:10:44 GMT | Update on the Training — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/f40a5dd9e825) |
 | Fri, 23 May 2025 14:10:37 GMT | Why I Chose Sabaragamuwa University of Sri Lanka for My IT Studies | Dilshaavp | [Read More](https://medium.com/p/8f577a69cbab) |
 | Fri, 23 May 2025 14:05:14 GMT | Automated Risk Response | Presslink Media | [Read More](https://medium.com/p/1b19f85606b7) |
 | Fri, 23 May 2025 14:00:35 GMT | Cyber Briefing: 2025.05.23 | CyberMaterial | [Read More](https://medium.com/p/71eda6480c85) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 08:49:58 GMT | The Tech Trends That Will Dominate the Next 5 Years | John Edwin | [Read More](https://medium.com/p/290c24043cc0) |
 | Fri, 23 May 2025 08:34:15 GMT | Understanding the Basics: Inkjet vs. Laser Printers | Cost To Cost | [Read More](https://medium.com/p/de15295ab089) |
 | Fri, 23 May 2025 08:29:52 GMT | What is Penetration Testing? | Manisha Chaudhary | [Read More](https://medium.com/p/c7b33305dad1) |
-| Fri, 23 May 2025 08:29:19 GMT | The Bounty Hunter’s Dilemma: Why You’re Not Finding Bugs (And How to Change Your Game) | Vivek PS | [Read More](https://medium.com/p/879af36a3e1d) |
-| Fri, 23 May 2025 08:23:48 GMT | Integrated Biological Defense System: Maximum Protection for Laboratories and Personnel. | "Book of Ideas" | [Read More](https://medium.com/p/0f3a2e3b87bf) |
-| Fri, 23 May 2025 08:20:09 GMT | ️ L1, L2, L3 Support vs. L1, L2, L3 Development: What’s the Difference? | Tushar Jain | [Read More](https://medium.com/p/f35afa0ca67f) |
-| Fri, 23 May 2025 08:19:40 GMT | TryHackMe — MS Sentinel: Introduction Walkthrough | eRRoR | [Read More](https://medium.com/p/f16805bc76ce) |
-| Fri, 23 May 2025 08:19:32 GMT | API Integration Product Owner: Roles and Responsibilities | Shaheer Akhlaq | [Read More](https://medium.com/p/c638e5ef1e78) |
-| Fri, 23 May 2025 08:18:47 GMT | Stop Copy-Pasting from Stack Overflow and Pretending You Understand It | Jamshidbek Boynazarov | [Read More](https://medium.com/p/f80a5895dd33) |
-| Fri, 23 May 2025 08:18:24 GMT | Geopolitical Conflicts and Security Concerns: A World on Edge. | Business Promotion Strategy. | [Read More](https://medium.com/p/4460247e424a) |
-| Fri, 23 May 2025 08:15:28 GMT | Investigasi APK Undangan Pernikahan untuk Sadap SMS & WA | Jeffry Gunawan | [Read More](https://medium.com/p/5c2434532384) |
-| Fri, 23 May 2025 08:05:52 GMT | SOC Level 1 — Unified Kill Chain (UKC) Frameworks | Alif Abhipraya | [Read More](https://medium.com/p/16c143cb30fe) |
-| Fri, 23 May 2025 08:03:43 GMT | Achieving ISO 27001 Certification: Steps and Best Practices for Information Security | ISO Management Consultant Ltd. | [Read More](https://medium.com/p/7a2a049ee09b) |
-| Fri, 23 May 2025 07:48:42 GMT | FotoForensics: A Simple Tool to Check If an Image Is Fake or Edited | Maira Jabeen | [Read More](https://medium.com/p/a6f3316016d9) |
-| Fri, 23 May 2025 07:42:34 GMT | MITRE Technique and Detection Opportunities — NSIS Abuse and sRDI Shellcode: Anatomy of the Winos 4. | MITRE Doggy | [Read More](https://medium.com/p/36da16d904b5) |
-| Fri, 23 May 2025 07:38:29 GMT | You’ve Already Lost the AI War — You Just Haven’t Noticed Yet | Ronnie Huss | [Read More](https://medium.com/p/8699d78deae7) |
-| Fri, 23 May 2025 07:37:54 GMT | “In Defence Of A Cigarette: What Smoking Taught Me About Human Connection | gingerale | [Read More](https://medium.com/p/78e0bd5c0eef) |
