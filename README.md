@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 13:17:20 GMT | Does the EU AI Act Apply to “Old” AI Systems? | Danish | [Read More](https://medium.com/p/a1e4e6995af1) |
+| Fri, 23 May 2025 13:16:33 GMT | The tiny GRC gap that nearly cost one company their entire audit | A D | [Read More](https://medium.com/p/871a685508d9) |
+| Fri, 23 May 2025 13:14:55 GMT | How Security Companies in Thane Adapt to Modern Threats | united guard | [Read More](https://medium.com/p/a9bf0c823e87) |
+| Fri, 23 May 2025 13:13:39 GMT | The Human Cost of a Broken System: Why Cybersecurity’s Best Are Walking Away | Eric Zietlow | [Read More](https://medium.com/p/3da9fcd1003a) |
+| Fri, 23 May 2025 13:12:50 GMT | Before You Launch That SQL Injection Test, Read This | Sam Galope | [Read More](https://medium.com/p/3294ed733a12) |
+| Fri, 23 May 2025 13:05:25 GMT | Amass Subdomain Enumeration : A Bug Hunter’s Guide | Shaheer Yasir | [Read More](https://medium.com/p/3271ab5bf597) |
+| Fri, 23 May 2025 13:02:53 GMT | Next-Gen Fraud Fighters: AI, ML & GenAI Explained? | RC Adhikari | [Read More](https://medium.com/p/a662b9dd4b4b) |
+| Fri, 23 May 2025 13:01:02 GMT | ️‍♂️ How to Hunt a Perfect 10.0 CVSS Bug Bounty Score (And You Can Too!) | nocley | [Read More](https://medium.com/p/4555cf03c399) |
+| Fri, 23 May 2025 13:01:02 GMT | How Peris.ai Cuts Mean Time to Detect (MTTD) with Agentic AI | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d74243f60932) |
+| Fri, 23 May 2025 12:59:06 GMT | How I Became a Lecturer by Changing a 2 to a 1 — A Silly, Sneaky TryHackMe Walkthrough | Kloveslemnyuy | [Read More](https://medium.com/p/0fc310426bf3) |
+| Fri, 23 May 2025 12:55:51 GMT | Shelter: Simple Way to Securely Share Your Assets After You’re Gone | Shelter | [Read More](https://medium.com/p/1e9dd8ed8a6a) |
+| Fri, 23 May 2025 12:55:01 GMT | THE ART OF DISMANTLING A COMPUTER | Jesse Ebong | [Read More](https://medium.com/p/541d8fc14250) |
+| Fri, 23 May 2025 12:50:59 GMT | Think Before You Share: The Hidden Dangers of Oversharing on LinkedIn | Brandon Dewater | [Read More](https://medium.com/p/e66a5cf2fedd) |
+| Fri, 23 May 2025 12:47:15 GMT | Hire a Hacker for Instagram Recovery: Disabled or Suspended Accounts | Hackers World | [Read More](https://medium.com/p/b00ed037d261) |
+| Fri, 23 May 2025 12:46:18 GMT | Top 5 Antivirus Picks for Gamers in 2025: Maximize Security Without Sacrificing Speed | Top2Antivirus | [Read More](https://medium.com/p/d6dbaef9e2b5) |
+| Fri, 23 May 2025 12:46:14 GMT | What attack surface means to me after staring at 10 websites | CosmicByte | [Read More](https://medium.com/p/25e137c636ab) |
+| Fri, 23 May 2025 12:43:32 GMT | Automate OSINT Like a Pro on Kali Linux: Reconnaissance Made Effortless | Elie Attieh | [Read More](https://medium.com/p/d648a010400f) |
+| Fri, 23 May 2025 12:41:28 GMT | PG Diploma in Information Technology: Eligibility, Colleges, Syllabus & Career Scope in 2025 | Khushi Dubey | [Read More](https://medium.com/p/bbc8474f578e) |
+| Fri, 23 May 2025 12:37:45 GMT | Smart Surveillance by Pune Security Firms | United Guard Force India | [Read More](https://medium.com/p/101f22553008) |
 | Fri, 23 May 2025 12:32:24 GMT | Exploit PORT : 53 - DNS Port exploit (Series:1/ [article:4]) | Mr Horbio | [Read More](https://medium.com/p/1e2cd4e7832e) |
 | Fri, 23 May 2025 12:32:24 GMT | Best Bank Reconciliation Software for Error-Free Financial Management | Kosh AI | [Read More](https://medium.com/p/8a5684676605) |
 | Fri, 23 May 2025 12:32:04 GMT | Hire a Hacker for Facebook Recovery: Role of Ethical Hackers | Hackers World | [Read More](https://medium.com/p/8df700c2b9b7) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 07:01:27 GMT | YARA Rule Writing and Real-Time Malware Hunting | Esra Kayhan | [Read More](https://medium.com/p/e668585cced8) |
 | Fri, 23 May 2025 07:01:24 GMT | Introduction To 6 Weeks Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/d59831f01814) |
 | Fri, 23 May 2025 06:58:34 GMT | How writers and robots collaborate to produce great stories | Trendlooms | [Read More](https://medium.com/p/4b780a8e916b) |
-| Fri, 23 May 2025 06:56:23 GMT | Laravel Security Guide: 10 Essential Tips to Secure Your Laravel Application | TechAI | [Read More](https://medium.com/p/b0b2a81b14a0) |
-| Fri, 23 May 2025 06:54:44 GMT | ประจำวันศุกร์ที่ 23 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/31e14dc5edcf) |
-| Fri, 23 May 2025 06:52:51 GMT | Unlock the Power of AI: Get Certified in Generative AI for Cybersecurity | John  Carter | [Read More](https://medium.com/p/e5fdaa0f5c59) |
-| Fri, 23 May 2025 06:50:22 GMT | LUMMA STEALER STILL ACTIVE? AFTER FBI CRACKDOWN! | Rakesh Krishnan | [Read More](https://medium.com/p/07f2e9bfd266) |
-| Fri, 23 May 2025 06:42:15 GMT | The Future of Pentesting: Will AI Replace Ethical Hackers? | Md Faiyaz Khan | [Read More](https://medium.com/p/d4a57cfe834b) |
-| Fri, 23 May 2025 06:41:25 GMT | Why Power Automate Gets the Silent Treatment in Design Discussions | Namir Sagheenanajar | [Read More](https://medium.com/p/35446d06d582) |
-| Fri, 23 May 2025 06:40:41 GMT | 8 Tips for Staying Safe Online | VPSBG.eu | [Read More](https://medium.com/p/71b3c4e0cc11) |
-| Fri, 23 May 2025 06:35:42 GMT | Five New Technologies with Big Impact in 2025 | Abdullah | [Read More](https://medium.com/p/161da0b5b370) |
-| Fri, 23 May 2025 06:33:20 GMT | What are the Five Types of Cybersecurity? | cyber security Updates | [Read More](https://medium.com/p/3f9997ad577e) |
-| Fri, 23 May 2025 06:33:18 GMT | CyberChef: The Basics | Maseera Fatima | [Read More](https://medium.com/p/246d8518a095) |
-| Fri, 23 May 2025 06:28:26 GMT | Is unins000.exe a Threat or Legitimate File? Here’s How to Remove It | SignMyCode | [Read More](https://medium.com/p/f3754fa63612) |
-| Fri, 23 May 2025 06:11:59 GMT | Assets And Wallet Recovery Services since 2017 - KeycheinX | KeycheinX Cryptocurrency Recovery | [Read More](https://medium.com/p/2fb9b4c1cb32) |
-| Fri, 23 May 2025 06:11:23 GMT | The Daily Tech Digest: 23 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/bc3bb45214ae) |
-| Fri, 23 May 2025 06:02:53 GMT | Search Skills | Maseera Fatima | [Read More](https://medium.com/p/1e56069bb201) |
-| Fri, 23 May 2025 06:00:43 GMT | Today’s Top Cyber Intelligence Highlights — May 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ad8fcaadd5cd) |
-| Fri, 23 May 2025 05:58:34 GMT | I Gave Myself 60 Minutes to Find a Bug — This Is What Happened | Abhijeet Kumawat | [Read More](https://medium.com/p/e5fa76563a33) |
-| Fri, 23 May 2025 05:54:45 GMT | What We Learned from Auditing $500M+ in Digital Assets | Decrypt0 | [Read More](https://medium.com/p/386ebf038ac8) |
-| Fri, 23 May 2025 05:54:28 GMT | ️‍♂️ ShadowPrompt: Unveiling the Hidden Vulnerabilities in LLMs | Talex Maxim (Taimax) | [Read More](https://medium.com/p/02899a94bb70) |
-| Fri, 23 May 2025 05:53:07 GMT | AI: Cybersecurity’s Greatest Weapon—And Biggest Threat | Faizan Ahmad | [Read More](https://medium.com/p/a37e8d50d1b3) |
