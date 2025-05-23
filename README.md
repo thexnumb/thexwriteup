@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 19:02:24 GMT | Grounded: How Legacy Tech and a Lack of Cybersecurity Sent Newark Air Travel Spiraling | Cyber Kavy | [Read More](https://medium.com/p/38a551f988ea) |
+| Fri, 23 May 2025 18:59:47 GMT | APT28 in the Snare : TryHackMe Walkthrough - Blue Team - Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/ca5b1eafcb29) |
+| Fri, 23 May 2025 18:50:37 GMT | Life, Balance, and the Mess In Between | Ivy Nguyen | [Read More](https://medium.com/p/f2740dd5a67d) |
+| Fri, 23 May 2025 18:47:33 GMT | How Middleware Solves DORA’s Risk Mandate | Liam | [Read More](https://medium.com/p/208ca67cb30c) |
+| Fri, 23 May 2025 18:44:28 GMT | E2E-Chat: Secure Peer-to-Peer Messaging and File Sharing with WebRTC | Sidharth | [Read More](https://medium.com/p/ca86192b7187) |
 | Fri, 23 May 2025 18:43:03 GMT | # ️ Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/928074df8007) |
 | Fri, 23 May 2025 18:38:02 GMT | SkyArk: Hunting Cloud Shadow Admins in AWS and Azure | Tharindu Damith | [Read More](https://medium.com/p/d25ad2a0aff4) |
 | Fri, 23 May 2025 18:32:24 GMT | Advanced Caching Techniques for Blazing Fast WordPress Sites | Shubradeb | [Read More](https://medium.com/p/a16b2112f91a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 13:13:39 GMT | The Human Cost of a Broken System: Why Cybersecurity’s Best Are Walking Away | Eric Zietlow | [Read More](https://medium.com/p/3da9fcd1003a) |
 | Fri, 23 May 2025 13:12:50 GMT | Before You Launch That SQL Injection Test, Read This | Sam Galope | [Read More](https://medium.com/p/3294ed733a12) |
 | Fri, 23 May 2025 13:05:25 GMT | Amass Subdomain Enumeration : A Bug Hunter’s Guide | Shaheer Yasir | [Read More](https://medium.com/p/3271ab5bf597) |
-| Fri, 23 May 2025 13:02:53 GMT | Next-Gen Fraud Fighters: AI, ML & GenAI Explained? | RC Adhikari | [Read More](https://medium.com/p/a662b9dd4b4b) |
-| Fri, 23 May 2025 13:01:02 GMT | ️‍♂️ How to Hunt a Perfect 10.0 CVSS Bug Bounty Score (And You Can Too!) | nocley | [Read More](https://medium.com/p/4555cf03c399) |
-| Fri, 23 May 2025 13:01:02 GMT | How Peris.ai Cuts Mean Time to Detect (MTTD) with Agentic AI | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d74243f60932) |
-| Fri, 23 May 2025 12:59:06 GMT | How I Became a Lecturer by Changing a 2 to a 1 — A Silly, Sneaky TryHackMe Walkthrough | Kloveslemnyuy | [Read More](https://medium.com/p/0fc310426bf3) |
-| Fri, 23 May 2025 12:55:51 GMT | Shelter: Simple Way to Securely Share Your Assets After You’re Gone | Shelter | [Read More](https://medium.com/p/1e9dd8ed8a6a) |
