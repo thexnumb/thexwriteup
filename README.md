@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 18:18:12 GMT | My first experience with Cloudflare | Mohammed Faruq | [Read More](https://medium.com/p/de8912b4475a) |
+| Fri, 23 May 2025 18:14:24 GMT | AI-Powered Security: How Artificial Intelligence is Revolutionizing Digital Asset Protection | Chronos Vault | [Read More](https://medium.com/p/e3d8031e6a8e) |
+| Fri, 23 May 2025 18:06:28 GMT | The Future of Cybersecurity Is AI-Augmented, Not AI-Replaced A human + machine strategy for the… | Corey Jones | [Read More](https://medium.com/p/f00fde69e295) |
+| Fri, 23 May 2025 17:52:15 GMT | Cybersecurity News Review — Week 21 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/1f2cc2d0bcb0) |
+| Fri, 23 May 2025 17:51:12 GMT | Navigation Guards in Web Applications | Natarajan C K | [Read More](https://medium.com/p/c42e6b234a52) |
+| Fri, 23 May 2025 17:42:53 GMT | Deep Dive: Analyzing a Weaponized SVG-Based Phishing Attack | Shefali Kumari | [Read More](https://medium.com/p/1a0a520548e7) |
 | Fri, 23 May 2025 17:37:22 GMT | How to Build AI-Powered Cybersecurity Applications | Xaltius | [Read More](https://medium.com/p/38078276d53a) |
 | Fri, 23 May 2025 17:36:24 GMT | One of Ubisoft's Best Games - Watch_Dogs 2 Review | Brando Calrissian | [Read More](https://medium.com/p/2ced7f1afd29) |
+| Fri, 23 May 2025 17:35:33 GMT | Fast and Easy Money Is Usually a Sign the Job Offer Is a Scam | Tom Handy | [Read More](https://medium.com/p/b35d588f6a9b) |
 | Fri, 23 May 2025 17:33:41 GMT | Building a Generative AI-Powered Cybersecurity Workforce | Xaltius | [Read More](https://medium.com/p/7ee8c75edc40) |
 | Fri, 23 May 2025 17:29:24 GMT | Automating Security Control Mapping with AI: How Laziness Led to Innovation | M1k0 | [Read More](https://medium.com/p/84737529aacf) |
 | Fri, 23 May 2025 17:27:47 GMT | HTB Write-up: UnderPass (Easy) | Ivanahm | [Read More](https://medium.com/p/01e42a5aeb1a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 12:50:59 GMT | Think Before You Share: The Hidden Dangers of Oversharing on LinkedIn | Brandon Dewater | [Read More](https://medium.com/p/e66a5cf2fedd) |
 | Fri, 23 May 2025 12:47:15 GMT | Hire a Hacker for Instagram Recovery: Disabled or Suspended Accounts | Hackers World | [Read More](https://medium.com/p/b00ed037d261) |
 | Fri, 23 May 2025 12:46:18 GMT | Top 5 Antivirus Picks for Gamers in 2025: Maximize Security Without Sacrificing Speed | Top2Antivirus | [Read More](https://medium.com/p/d6dbaef9e2b5) |
-| Fri, 23 May 2025 12:46:14 GMT | What attack surface means to me after staring at 10 websites | CosmicByte | [Read More](https://medium.com/p/25e137c636ab) |
-| Fri, 23 May 2025 12:43:32 GMT | Automate OSINT Like a Pro on Kali Linux: Reconnaissance Made Effortless | Elie Attieh | [Read More](https://medium.com/p/d648a010400f) |
-| Fri, 23 May 2025 12:41:28 GMT | PG Diploma in Information Technology: Eligibility, Colleges, Syllabus & Career Scope in 2025 | Khushi Dubey | [Read More](https://medium.com/p/bbc8474f578e) |
-| Fri, 23 May 2025 12:37:45 GMT | Smart Surveillance by Pune Security Firms | United Guard Force India | [Read More](https://medium.com/p/101f22553008) |
-| Fri, 23 May 2025 12:32:24 GMT | Exploit PORT : 53 - DNS Port exploit (Series:1/ [article:4]) | Mr Horbio | [Read More](https://medium.com/p/1e2cd4e7832e) |
-| Fri, 23 May 2025 12:32:24 GMT | Best Bank Reconciliation Software for Error-Free Financial Management | Kosh AI | [Read More](https://medium.com/p/8a5684676605) |
-| Fri, 23 May 2025 12:32:04 GMT | Hire a Hacker for Facebook Recovery: Role of Ethical Hackers | Hackers World | [Read More](https://medium.com/p/8df700c2b9b7) |
