@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 03:01:37 GMT | Assessment Methodologies: Enumeration CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/d33595c3d91a) |
+| Fri, 23 May 2025 02:50:42 GMT | ️ Análise de PDF Malicioso — Parte 1 | Jonathan M. | [Read More](https://medium.com/p/3098f5fb6688) |
+| Fri, 23 May 2025 02:50:11 GMT | Why Your Phone Number Is the New Social Security Number (And Why That’s Risky) | Abijita Foundation | [Read More](https://medium.com/p/fb0f51834f1d) |
+| Fri, 23 May 2025 02:45:44 GMT | Security and Privacy Analysis Report: Remote for Windows Application | chokri hammedi | [Read More](https://medium.com/p/9ca75751d966) |
+| Fri, 23 May 2025 02:31:03 GMT | Artificial Intelligence in India: State of the Art, Opportunities, and Challenges (2025) | Rajesh Mondal | [Read More](https://medium.com/p/57919b834806) |
+| Fri, 23 May 2025 02:29:58 GMT | Top Legitimate Crypto Recovery Companies You Can Trust With Your Lost Coins | Robertjoness | [Read More](https://medium.com/p/4584c833e618) |
+| Fri, 23 May 2025 02:24:07 GMT | JAuth - Writeup | Marvin | [Read More](https://medium.com/p/816e9d706089) |
+| Fri, 23 May 2025 02:15:42 GMT | Cybersecurity Is Broken in Business Schools. I Spent 6 Months Fixing It | Siddhant Nitin | [Read More](https://medium.com/p/1ce7f54d0882) |
+| Fri, 23 May 2025 02:09:43 GMT | Cross-Site Scripting [XSS] STORED (MEDIUM DVWA) | zukhruf gustdika | [Read More](https://medium.com/p/fba3401996a3) |
+| Fri, 23 May 2025 01:56:53 GMT | How can i get back my money from crypto scam_Cryptorecoveryoption | Robertjoness | [Read More](https://medium.com/p/8f9c6653ff29) |
+| Fri, 23 May 2025 01:52:52 GMT | Boost Your Splunk IP Intelligence with the Criminal IP Search Application | Criminal IP | [Read More](https://medium.com/p/3fc598a2eaf4) |
+| Fri, 23 May 2025 01:51:50 GMT | The Tech Ecosystem: A Living Network | Ibrahim Aliyu S Kamina | [Read More](https://medium.com/p/b356f21dcbde) |
+| Fri, 23 May 2025 01:51:04 GMT | Google Chrome Can Now Auto-Change Your Compromised Passwords | Cyber-AppSec | [Read More](https://medium.com/p/5f524b94b329) |
 | Fri, 23 May 2025 01:32:12 GMT | REVIEWS ON I NEED A HACKER TO RECOVER MY STOLEN USDT <CRYPTO RECOVERY OPTION | Robertjoness | [Read More](https://medium.com/p/bd9cfbb4ca0e) |
 | Fri, 23 May 2025 01:14:18 GMT | Blind SQL Injection: / Temel Kavramlar — 1 | Aras Güner | [Read More](https://medium.com/p/998589c025a9) |
 | Fri, 23 May 2025 01:13:04 GMT | The Windows Security Journey — NewCredentials | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4c947e6d3cdd) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 17:28:17 GMT | Proguard vs R8: What’s the Difference and What Should You Use? | Jaykishan Sewak | [Read More](https://medium.com/p/fc5199741f2f) |
 | Thu, 22 May 2025 17:23:09 GMT | The Beginning of AI: Nothing is Gonna Stop Now | The Lore Files | [Read More](https://medium.com/p/b2c8bc865644) |
 | Thu, 22 May 2025 17:18:01 GMT | The 6 Best Private Proxy Services of 2025 | Jayfloriam | [Read More](https://medium.com/p/ed0013c33285) |
-| Thu, 22 May 2025 17:17:54 GMT | How to get Bug (BUG) Rewards and Maximize APY | BUG | [Read More](https://medium.com/p/668851a382c9) |
-| Thu, 22 May 2025 17:17:23 GMT | DOM-Based XSS in Single Page Applications (SPAs): A Complete Guide for Beginners & Bug Bounty… | Asif Ebrahim | [Read More](https://medium.com/p/56d4e496a0a0) |
-| Thu, 22 May 2025 17:13:51 GMT | TryHackMe - Android Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/21ff8f7c1d8a) |
-| Thu, 22 May 2025 17:09:05 GMT | API 01:2023 — Broken Object Level Authorization (BOLA) | Suhel Kathi | [Read More](https://medium.com/p/d4c8a892c723) |
-| Thu, 22 May 2025 17:08:50 GMT | Unlocking the Future with #GenAIExchange: What I’ve Learned So Far | Tanish Singh | [Read More](https://medium.com/p/2c9c576c5809) |
-| Thu, 22 May 2025 16:53:41 GMT | What Is Endpoint Security Management and Why It Matters | SafeAeon Inc. | [Read More](https://medium.com/p/c7ef4d8b415b) |
-| Thu, 22 May 2025 16:52:58 GMT | Splunk 3, Task 4 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/25188f76d221) |
-| Thu, 22 May 2025 16:45:18 GMT | How to Report Phishing in Outlook: A Quick Step-by-Step Guide | SafeAeon Inc. | [Read More](https://medium.com/p/a7f59a84e748) |
-| Thu, 22 May 2025 16:43:19 GMT | I Hacked My Way to the Top in the Indian Army CTF — Here’s How I Did It | Rolextital | [Read More](https://medium.com/p/c5a3a9118fb6) |
-| Thu, 22 May 2025 16:42:47 GMT | External Link Bypass Vulnerability inPrivate Program | Zeta | [Read More](https://medium.com/p/b42a5dd10504) |
-| Thu, 22 May 2025 16:40:41 GMT | Unveiling HTTP Parameter Pollution (HPP): A Simple Explanation with a Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/422dfcac7895) |
-| Thu, 22 May 2025 16:37:09 GMT | Gmail’s End-to-End Encryption… Maybe Not So End-to-End | Pablo F. Iglesias | [Read More](https://medium.com/p/fb58bb4af77b) |
-| Thu, 22 May 2025 16:35:19 GMT | The Silent Storm: Why Cybercrime’s Quiet Phase Should Scare You More Than Ever | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/ff2811fc7834) |
