@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 21:05:49 GMT | AI in Business Intelligence: Enhancing Data Analysis for Smarter Decision-Making | IT_Engineer | [Read More](https://medium.com/p/56fe7ad4f009) |
+| Fri, 23 May 2025 21:03:51 GMT | Everyday Life Insurance and the Evolving Model of Financial Responsibility in America | John Philip Blogs | [Read More](https://medium.com/p/13172ecf6e50) |
+| Fri, 23 May 2025 21:00:42 GMT | Jennifer Tang & Kyle Hiebert: The Promises and Perils of Predictive Policing | Centre for International Governance Innovation | [Read More](https://medium.com/p/94e8e056c9ad) |
+| Fri, 23 May 2025 21:00:30 GMT | Boston Businesses: Do You Really Need a Cybersecurity Audit in 2025? | Rutter-Net | [Read More](https://medium.com/p/2bea76fcf102) |
+| Fri, 23 May 2025 20:58:09 GMT | Crypto Drainers are Targeting Cryptocurrency Users | Matthew.Rosenquist | [Read More](https://medium.com/p/929687f51e0e) |
+| Fri, 23 May 2025 20:49:53 GMT | Security Patrol Robot | Marcus Koehnlein | [Read More](https://medium.com/p/37b92a60d610) |
+| Fri, 23 May 2025 20:45:18 GMT | Migrating from Promtail to Grafana Alloy in Kubernetes | Vincenthartmann | [Read More](https://medium.com/p/53ce4c5b7556) |
+| Fri, 23 May 2025 20:44:34 GMT | EG-CERT CTF 2025 Web Challenges Writeup | gem0x00 | [Read More](https://medium.com/p/28647607c094) |
+| Fri, 23 May 2025 20:38:14 GMT | Better Business Bureau (BBB) Data Breach: Potential Claims in California | LegalNewsbyDave | [Read More](https://medium.com/p/a8a2b5064106) |
 | Fri, 23 May 2025 20:33:46 GMT | # Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/279d7b15ebff) |
+| Fri, 23 May 2025 20:29:32 GMT | Two Security Guards Assaulted in Random Attacks Near Winnipeg’s Central Park | Scott Hill | [Read More](https://medium.com/p/f697ae90ce11) |
 | Fri, 23 May 2025 20:29:02 GMT | Simple CTF - Try Hack Me_Complete Walkthrough | Avrodip Joy | [Read More](https://medium.com/p/1b7882537e91) |
 | Fri, 23 May 2025 20:21:35 GMT | Day 4 of my AWS Pentesting journey — EC2 Enumeration & SSRF Exploitation | mauzware | [Read More](https://medium.com/p/a690bfb71d6f) |
 | Fri, 23 May 2025 20:04:39 GMT | $24M in Crypto Seized,  DOJ Strikes Back at Alleged Qakbot Malware Kingpin | CoinGen | [Read More](https://medium.com/p/4b7f4d426e52) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 14:21:04 GMT | Day 44: Packet Analysis: Understanding the Network’s X-Ray Machine | Agarwaldaksh | [Read More](https://medium.com/p/8c4935efdadb) |
 | Fri, 23 May 2025 14:20:55 GMT | DeepTempo Wins Global InfoSec Award for Advanced Threat Identification | Evan Powell | [Read More](https://medium.com/p/1112b01a4c7d) |
 | Fri, 23 May 2025 14:20:44 GMT | Here’s How I Recovered My Funds from LiteFunds | Leo Farrelly | [Read More](https://medium.com/p/946b65691532) |
-| Fri, 23 May 2025 14:19:36 GMT | Introduction to SIEM — TryHackMe Walkthrough | Dhruvish Rathod | [Read More](https://medium.com/p/57687383a5ea) |
-| Fri, 23 May 2025 14:10:44 GMT | Update on the Training — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/f40a5dd9e825) |
-| Fri, 23 May 2025 14:10:37 GMT | Why I Chose Sabaragamuwa University of Sri Lanka for My IT Studies | Dilshaavp | [Read More](https://medium.com/p/8f577a69cbab) |
-| Fri, 23 May 2025 14:07:59 GMT | Bybit Hack’lenmesi: Bulut Bilişim Güvenliğinde Bir Uyarı Çanı | Mehmetturkkan | [Read More](https://medium.com/p/03c94001e1b6) |
-| Fri, 23 May 2025 14:05:14 GMT | Automated Risk Response | Presslink Media | [Read More](https://medium.com/p/1b19f85606b7) |
-| Fri, 23 May 2025 14:00:35 GMT | Cyber Briefing: 2025.05.23 | CyberMaterial | [Read More](https://medium.com/p/71eda6480c85) |
-| Fri, 23 May 2025 13:52:34 GMT | DanaBot Dismantled: How a Russian Malware Empire Crashed and Burned | Shaheer Yasir | [Read More](https://medium.com/p/f658c578cb05) |
-| Fri, 23 May 2025 13:52:33 GMT | Normes de consentements, ISO 27560 et ISO 29184 | Patrick Boucher | [Read More](https://medium.com/p/28d4955a0c51) |
-| Fri, 23 May 2025 13:48:18 GMT | Is Your Business Ready for the Next Wave of Cyber Threats? | Century Solutions Group | [Read More](https://medium.com/p/a299524b7f1f) |
-| Fri, 23 May 2025 13:36:41 GMT | The Screenshot Trap: Protecting Sensitive Info Daily | Hitesh Said | [Read More](https://medium.com/p/1ec367b06505) |
