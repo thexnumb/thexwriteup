@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 15:36:19 GMT | Reverse Engineering Başlanğıcı: Easy Keygen Analizi (IDA Pro və x32dbg ilə) | Elmin Farzaliyev | [Read More](https://medium.com/p/37315ccedcc3) |
+| Fri, 23 May 2025 15:35:04 GMT | Is WhatsApp Safe in 2025? The Real Privacy Breakdown | Atomic Mail | [Read More](https://medium.com/p/17c2becb8c91) |
+| Fri, 23 May 2025 15:33:01 GMT | Securing Your Containers: Best Practices for Docker Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/ed14e1c4a8af) |
+| Fri, 23 May 2025 15:30:34 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/3a06953adc36) |
+| Fri, 23 May 2025 15:26:26 GMT | Ransomware Lab Walkthrough: #Maze Edition! | Bl@ckC!pH3r | [Read More](https://medium.com/p/c07de95647ff) |
+| Fri, 23 May 2025 15:24:12 GMT | Securycor Ltd: Trusted Professionals in Security Services | Travel time | [Read More](https://medium.com/p/309d179d113a) |
 | Fri, 23 May 2025 15:19:21 GMT | The Hidden Universal Language of AI: How Vec2vec Changes Everything | Jackson Bennett | [Read More](https://medium.com/p/51b53cf62755) |
 | Fri, 23 May 2025 15:18:55 GMT | TryHackMe - APT28 in the Snare - WriteUp | Axoloth | [Read More](https://medium.com/p/8b43ac6cea0e) |
+| Fri, 23 May 2025 15:11:21 GMT | Demystifying the Basics of Subnetting ( Why It Matters in Modern Networking) | Mazhar Imran | [Read More](https://medium.com/p/614884103c25) |
 | Fri, 23 May 2025 15:08:33 GMT | New Substack Blog is Now Up and Running! | Ben Zweibelson, PhD | [Read More](https://medium.com/p/63fe9c0647f0) |
 | Fri, 23 May 2025 15:01:21 GMT | ️ The Ultimate Bug Bounty Checklist for Beginners | Badal kathayat | [Read More](https://medium.com/p/3fafc9ea5fc5) |
 | Fri, 23 May 2025 14:57:34 GMT | Glass girl | Aashritha Writes | [Read More](https://medium.com/p/b979be3bbd97) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 10:02:28 GMT | Legacy Code, Future Problems: Why We Still Need to Understand Outdated Tech | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e77ce81d3d32) |
 | Fri, 23 May 2025 10:02:05 GMT | Code. Test. Evolve. How EDSPL Empowers Businesses Through Full-Spectrum Software Solutions | saurabh cyberinfomines | [Read More](https://medium.com/p/d36d3f09c3a6) |
 | Fri, 23 May 2025 09:59:39 GMT | The Titan Platform: Engineering 3D Malware Visualization at Jamf | Nicholas Benyo | [Read More](https://medium.com/p/b80ac4358b1a) |
-| Fri, 23 May 2025 09:57:24 GMT | ELcazad0r-XSS: The Feature-Packed XSS Scanner with a Sleek GUI | EL_Cazad0r | [Read More](https://medium.com/p/c4db9630d26b) |
-| Fri, 23 May 2025 09:47:49 GMT | Outsmarting the Scam with A Deep Dive Into Social Engineering and How to Defend Yourself | Ahmed Deghiedy | [Read More](https://medium.com/p/05cbb457e6ce) |
-| Fri, 23 May 2025 09:20:48 GMT | The Truth About AI in Cybersecurity | E. Ibrahimi | [Read More](https://medium.com/p/ad3bc2dee255) |
-| Fri, 23 May 2025 09:18:43 GMT | Securing the AI Agent Development Lifecycle: A CISO’s Perspective for Business Leaders, AI… | Ajay Kumar | [Read More](https://medium.com/p/462d480a100f) |
-| Fri, 23 May 2025 09:18:02 GMT | Hackers Breach Scottish Ambulance Service: Ransomware Attack Under Investigation | CyBlog | [Read More](https://medium.com/p/d38196319256) |
-| Fri, 23 May 2025 09:16:03 GMT | Iran’s Missile Arsenal: Reach, Power, and the Global Concerns It Raises | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/388bb1b0067f) |
-| Fri, 23 May 2025 09:10:48 GMT | Here’s How I Recover My Money From Traydai | Max Knight | [Read More](https://medium.com/p/e0e860f26033) |
