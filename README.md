@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 08:05:52 GMT | SOC Level 1 — Unified Kill Chain (UKC) Frameworks | Alif Abhipraya | [Read More](https://medium.com/p/16c143cb30fe) |
+| Fri, 23 May 2025 08:03:43 GMT | Achieving ISO 27001 Certification: Steps and Best Practices for Information Security | ISO Management Consultant Ltd. | [Read More](https://medium.com/p/7a2a049ee09b) |
+| Fri, 23 May 2025 07:48:42 GMT | FotoForensics: A Simple Tool to Check If an Image Is Fake or Edited | Maira Jabeen | [Read More](https://medium.com/p/a6f3316016d9) |
+| Fri, 23 May 2025 07:42:34 GMT | MITRE Technique and Detection Opportunities — NSIS Abuse and sRDI Shellcode: Anatomy of the Winos 4. | MITRE Doggy | [Read More](https://medium.com/p/36da16d904b5) |
+| Fri, 23 May 2025 07:38:29 GMT | You’ve Already Lost the AI War — You Just Haven’t Noticed Yet | Ronnie Huss | [Read More](https://medium.com/p/8699d78deae7) |
 | Fri, 23 May 2025 07:37:54 GMT | “In Defence Of A Cigarette: What Smoking Taught Me About Human Connection | gingerale | [Read More](https://medium.com/p/78e0bd5c0eef) |
+| Fri, 23 May 2025 07:36:55 GMT | OWASP Pentest Series (4/12) | TheZeeshanKhan | [Read More](https://medium.com/p/8ef2c38d4872) |
 | Fri, 23 May 2025 07:30:19 GMT | Cloudgoat Sns_Secrets Walkthrough (Manual) | innervision | [Read More](https://medium.com/p/a52115f85e8b) |
+| Fri, 23 May 2025 07:30:09 GMT | CVE-2024–0133 — Reflected XSS in Palo Alto Global Protect VPN: What You Need to Know | Infoziant | [Read More](https://medium.com/p/ae8948c25e4c) |
 | Fri, 23 May 2025 07:28:00 GMT | Securing Kubernetes cluster with Mondoo Operator | Infralovers GmbH | [Read More](https://medium.com/p/1340fc0f43a3) |
 | Fri, 23 May 2025 07:18:35 GMT | Is Indian Tech Following NASDAQ Too Closely? | Jaideep Banerjee | [Read More](https://medium.com/p/8f7be085ece8) |
 | Fri, 23 May 2025 07:14:03 GMT | ✍Global Multifactor Authentication Market Size, Share, Industry Insights, Trends, Outlook… | Pennypackerjasminek | [Read More](https://medium.com/p/5f91cc28ba6e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 22:07:33 GMT | Why Zero-Trust Security is Non-Negotiable for Small Businesses in 2025 | Adam Gross | [Read More](https://medium.com/p/788d8161f99a) |
 | Thu, 22 May 2025 22:06:05 GMT | Cybersecurity — Discover the Top 3 Career & Earnings Growth Strategies | Franklin Rhodes | [Read More](https://medium.com/p/38c391cab46e) |
 | Thu, 22 May 2025 22:02:55 GMT | How to Create a Data Loss Prevention Incident Response Plan | Akshay Chauhan | [Read More](https://medium.com/p/11d55f9f88b1) |
-| Thu, 22 May 2025 21:38:07 GMT | Behind the Veil: Chinese Threat Actor UAT-6382 Breaches U.S. | Siva Gunasekaran | [Read More](https://medium.com/p/28fa69ef584b) |
-| Thu, 22 May 2025 21:24:08 GMT | AI-assisted hacking with JetBrains Junie: Reconnaissance & Subdomain enumeration | Dmitry Protsenko | [Read More](https://medium.com/p/80a02bbe9f01) |
-| Thu, 22 May 2025 21:22:01 GMT | Rethinking the Architecture of Trust | Danu Vino | [Read More](https://medium.com/p/65e857d1d5dc) |
-| Thu, 22 May 2025 21:21:00 GMT | How to Stop Cyberbullying Before it Happens | Savvy Cyber Kids | [Read More](https://medium.com/p/dcdd8e21622b) |
-| Thu, 22 May 2025 21:16:40 GMT | Can I stop/block strangers speaking to my child and just allow friends on online games? | Savvy Cyber Kids | [Read More](https://medium.com/p/b8b10444a6a0) |
-| Thu, 22 May 2025 21:15:09 GMT | Unlocking Hidden Web Paths: How Ethical Hackers Use xnLinkFinder to Discover Easy Bugs | Chintala Taraka Ram | [Read More](https://medium.com/p/aae02c8716b9) |
-| Thu, 22 May 2025 21:14:58 GMT | The Pros and Cons of Sharing Your Online Passwords | Savvy Cyber Kids | [Read More](https://medium.com/p/485cd5f14519) |
