@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 05:02:47 GMT | CYBER SECURITY COURSE | Vigneshj | [Read More](https://medium.com/p/e11ec873f842) |
+| Fri, 23 May 2025 04:55:55 GMT | From Nothing to 1 Crore: My Tech Hustle Story | Manoj Shrestha | [Read More](https://medium.com/p/3bcf7677281b) |
+| Fri, 23 May 2025 04:51:39 GMT | Building a Culture of Cyber Risk Management | Shivam | [Read More](https://medium.com/p/c2e188a7b32e) |
+| Fri, 23 May 2025 04:35:38 GMT | The Reason Men Don’t Open Up — And What Happens When One Woman Doesn’t Shut It Down | John Linnane | [Read More](https://medium.com/p/cfb702b0f9ec) |
 | Fri, 23 May 2025 04:27:46 GMT | What Is a VPN and How It Works and 7 Powers Tips for Security in 2025 | Furqan Haider | [Read More](https://medium.com/p/220af6f50e78) |
 | Fri, 23 May 2025 04:14:23 GMT | Escaping Reality: My Struggle With Video Game Addiction | QhcyberhQ | [Read More](https://medium.com/p/cfe981ec1607) |
 | Fri, 23 May 2025 03:57:25 GMT | RAID: Teknologi Penyimpanan Cerdas untuk Data Lebih Aman dan Cepat | Abduljabbar | [Read More](https://medium.com/p/c6bb5a01e37d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 17:56:16 GMT | 100 days of Learning Penetration testing -Day 3 | Samin Basnet | [Read More](https://medium.com/p/ba905ba2afad) |
 | Thu, 22 May 2025 17:54:50 GMT | Emojis: Your Digital Smile Isn’t Always Friendly | Aastha Thakker | [Read More](https://medium.com/p/77c0c78854cb) |
 | Thu, 22 May 2025 17:54:43 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/66b3a98132e4) |
-| Thu, 22 May 2025 17:51:36 GMT | SIEM’de Zafiyet Skoru: CVSS Nedir ve Neden Önemlidir? | Tarik Zeybek | [Read More](https://medium.com/p/ad576a30e435) |
-| Thu, 22 May 2025 17:47:49 GMT | allowPrivilegeEscalation: false: The Kubernetes Security Flag With a Hidden Catch | Harsha Koushik | [Read More](https://medium.com/p/e81292a0f43c) |
-| Thu, 22 May 2025 17:46:20 GMT | DC: 5— VulnHub (CTF Həlli) | Rac Adilov | [Read More](https://medium.com/p/723bda80b5f7) |
-| Thu, 22 May 2025 17:42:25 GMT | The Logic of Dating | Rose | [Read More](https://medium.com/p/6aff53b12338) |
