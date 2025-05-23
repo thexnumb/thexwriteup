@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 15:19:21 GMT | The Hidden Universal Language of AI: How Vec2vec Changes Everything | Jackson Bennett | [Read More](https://medium.com/p/51b53cf62755) |
+| Fri, 23 May 2025 15:18:55 GMT | TryHackMe - APT28 in the Snare - WriteUp | Axoloth | [Read More](https://medium.com/p/8b43ac6cea0e) |
+| Fri, 23 May 2025 15:08:33 GMT | New Substack Blog is Now Up and Running! | Ben Zweibelson, PhD | [Read More](https://medium.com/p/63fe9c0647f0) |
+| Fri, 23 May 2025 15:01:21 GMT | ️ The Ultimate Bug Bounty Checklist for Beginners | Badal kathayat | [Read More](https://medium.com/p/3fafc9ea5fc5) |
+| Fri, 23 May 2025 14:57:34 GMT | Glass girl | Aashritha Writes | [Read More](https://medium.com/p/b979be3bbd97) |
+| Fri, 23 May 2025 14:52:20 GMT | The Most In-Demand Digital Skills for 2025 | Rejoiceorjiene | [Read More](https://medium.com/p/d0404e991ebc) |
+| Fri, 23 May 2025 14:48:18 GMT | Beware of Fake Downloads and Dangerous TikTok Videos | Ian Schisel | [Read More](https://medium.com/p/dcba0c1c5242) |
+| Fri, 23 May 2025 14:47:32 GMT | Stop Learning for the Sake of Learning: Build as You Learn | Vijay Kumar Gupta | [Read More](https://medium.com/p/7792f8e9a2f8) |
 | Fri, 23 May 2025 14:36:13 GMT | Adversarial AI Digest — 20 May, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/438916d6df73) |
 | Fri, 23 May 2025 14:34:13 GMT | MSPs in 2025: Navigating the Cybersecurity Compliance Minefield | Donald Betancourt | [Read More](https://medium.com/p/4efa03c9b007) |
 | Fri, 23 May 2025 14:33:10 GMT | Top GRC Tools You Should Know in 2025 (And Why Socurely Stands Out) | Brittney Ginther | [Read More](https://medium.com/p/98c199376355) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 09:18:02 GMT | Hackers Breach Scottish Ambulance Service: Ransomware Attack Under Investigation | CyBlog | [Read More](https://medium.com/p/d38196319256) |
 | Fri, 23 May 2025 09:16:03 GMT | Iran’s Missile Arsenal: Reach, Power, and the Global Concerns It Raises | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/388bb1b0067f) |
 | Fri, 23 May 2025 09:10:48 GMT | Here’s How I Recover My Money From Traydai | Max Knight | [Read More](https://medium.com/p/e0e860f26033) |
-| Fri, 23 May 2025 09:09:58 GMT | Web App Penetration Testing: Your First Line of Defense Against Cyber Attacks | SmartCLOUD Australia | [Read More](https://medium.com/p/5b30517a8822) |
-| Fri, 23 May 2025 09:06:29 GMT | Traydai Review: Is It Legit Or Fake. | Max Knight | [Read More](https://medium.com/p/6e9580725927) |
-| Fri, 23 May 2025 09:04:10 GMT | Shadows on the Edge of Data | Tales of Nyx | [Read More](https://medium.com/p/6b09020b8da1) |
-| Fri, 23 May 2025 08:55:58 GMT | Security analysis of Besder 6024PB-XMA501 IP camera | Kostas Ereksonas | [Read More](https://medium.com/p/afe57acf1733) |
-| Fri, 23 May 2025 08:55:02 GMT | The Rising Tide of Online Content Restrictions Worldwide | Vitaliy Podolskiy | [Read More](https://medium.com/p/33b29e3eb3a2) |
-| Fri, 23 May 2025 08:49:58 GMT | The Tech Trends That Will Dominate the Next 5 Years | John Edwin | [Read More](https://medium.com/p/290c24043cc0) |
-| Fri, 23 May 2025 08:34:15 GMT | Understanding the Basics: Inkjet vs. Laser Printers | Cost To Cost | [Read More](https://medium.com/p/de15295ab089) |
-| Fri, 23 May 2025 08:29:52 GMT | What is Penetration Testing? | Manisha Chaudhary | [Read More](https://medium.com/p/c7b33305dad1) |
