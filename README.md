@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 12:32:24 GMT | Exploit PORT : 53 - DNS Port exploit (Series:1/ [article:4]) | Mr Horbio | [Read More](https://medium.com/p/1e2cd4e7832e) |
+| Fri, 23 May 2025 12:32:24 GMT | Best Bank Reconciliation Software for Error-Free Financial Management | Kosh AI | [Read More](https://medium.com/p/8a5684676605) |
+| Fri, 23 May 2025 12:32:04 GMT | Hire a Hacker for Facebook Recovery: Role of Ethical Hackers | Hackers World | [Read More](https://medium.com/p/8df700c2b9b7) |
+| Fri, 23 May 2025 12:24:58 GMT | HTTP vs HTTPS: The 5-Letter Mistake That’s Inviting Hackers In | Diligentic Infotech Pvt. Ltd. | [Read More](https://medium.com/p/6e4fd9590c38) |
+| Fri, 23 May 2025 12:23:23 GMT | Credential Stuffing: The Hidden Threat Exploiting Your Password Habits | Karl Buhl | [Read More](https://medium.com/p/99e4dda87a86) |
+| Fri, 23 May 2025 12:22:33 GMT | From CSP to OMG: How a Tiny Misconfigured Header Let Me Run JS Anywhere | Iski | [Read More](https://medium.com/p/054e30090230) |
+| Fri, 23 May 2025 12:20:22 GMT | 9 Free Software for Cybersecurity Enthusiasts | Madhavaraman | [Read More](https://medium.com/p/ab3c1a54f151) |
+| Fri, 23 May 2025 12:17:49 GMT | The Weekly Threat Round-up 19/05/2025 — 23/05/2025 | RileyHv | [Read More](https://medium.com/p/3562cc71332b) |
+| Fri, 23 May 2025 12:12:46 GMT | How API Developers Can Prevent Most Critical Vulnerabilities (Part 2) | Mohit Rathore | [Read More](https://medium.com/p/11f916e0f0d2) |
+| Fri, 23 May 2025 12:09:01 GMT | Cheyanne Mallas: Navigating the Digital Frontier with Cybersecurity Project Leadership | Cheyannemallaspa | [Read More](https://medium.com/p/6a6149dc3f8b) |
+| Fri, 23 May 2025 12:04:52 GMT | How to Secure Vending Machines from Cyber Threats | POND IoT | [Read More](https://medium.com/p/51aea7d8b7d3) |
+| Fri, 23 May 2025 12:01:54 GMT | What is Business Continuity Planning and Disaster Recovery? | Saurabh | [Read More](https://medium.com/p/e435e78fd303) |
+| Fri, 23 May 2025 11:57:56 GMT | Operational technology (OT) is now a vital part of our industrial world. | StrongBox IT | [Read More](https://medium.com/p/cf42397aff94) |
+| Fri, 23 May 2025 11:43:46 GMT | Learn How to Hack Unity Applications Using dnSpy | Kyrillos nady | [Read More](https://medium.com/p/6a2cfdfcb236) |
+| Fri, 23 May 2025 11:43:23 GMT | Why Most Spring Boot CI/CD Pipelines Are Insecure — And How DevSecOps Fixes It | Himanshu | [Read More](https://medium.com/p/0fe084119a28) |
+| Fri, 23 May 2025 11:37:41 GMT | Can Schools Put Cameras in Classrooms? Legal Reality and the Ethical Debate | 4.0 Schools | [Read More](https://medium.com/p/c5ff8871fd16) |
+| Fri, 23 May 2025 11:34:52 GMT | Process Hollowing | LordShen | [Read More](https://medium.com/p/8381fad3e7c2) |
 | Fri, 23 May 2025 11:25:26 GMT | Digital Forensics: Your First Line of Defense Against Cyber Threats | Shubhrapandey Sgi | [Read More](https://medium.com/p/7df9147ff978) |
 | Fri, 23 May 2025 11:18:31 GMT | FaaS: Behind the scenes of serverless and its Security | Saurav Dawadi | [Read More](https://medium.com/p/1d1914e9bd00) |
 | Fri, 23 May 2025 11:10:19 GMT | Why Security Audits Matter for Bahrain Businesses | centresystemsgroup | [Read More](https://medium.com/p/3f85c8fb3451) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 05:54:45 GMT | What We Learned from Auditing $500M+ in Digital Assets | Decrypt0 | [Read More](https://medium.com/p/386ebf038ac8) |
 | Fri, 23 May 2025 05:54:28 GMT | ️‍♂️ ShadowPrompt: Unveiling the Hidden Vulnerabilities in LLMs | Talex Maxim (Taimax) | [Read More](https://medium.com/p/02899a94bb70) |
 | Fri, 23 May 2025 05:53:07 GMT | AI: Cybersecurity’s Greatest Weapon—And Biggest Threat | Faizan Ahmad | [Read More](https://medium.com/p/a37e8d50d1b3) |
-| Fri, 23 May 2025 05:51:41 GMT | What is Phishing-Resistant MFA? | Priyansha Madhwal | [Read More](https://medium.com/p/6c562f1e953e) |
-| Fri, 23 May 2025 05:51:10 GMT | The Corix Partners Friday Reading List — May 23, 2025 | JC Gaillard | [Read More](https://medium.com/p/03d89f352324) |
-| Fri, 23 May 2025 05:50:36 GMT | Microsoft Disrupts Lumma Malware Network That Infected Over 394,000 Windows PCs | Digi Web Story | [Read More](https://medium.com/p/3242ae3a8a45) |
-| Fri, 23 May 2025 05:48:46 GMT | About Me — Rayuth David Phan | Rayuth David Phan | [Read More](https://medium.com/p/e687682908bd) |
-| Fri, 23 May 2025 05:47:25 GMT | Meet Bluepill: Your Web3 Security BFF (Best Friend Forever) ✨ | Achie Patricia | [Read More](https://medium.com/p/01d4293d61f4) |
-| Fri, 23 May 2025 05:44:51 GMT | Bug Bounty VS Pentester | Nishanthan | [Read More](https://medium.com/p/4e471e126319) |
-| Fri, 23 May 2025 05:42:55 GMT | HPE Aruba Networking Central: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/78dd45de8af7) |
-| Fri, 23 May 2025 05:40:04 GMT | SmartMeta: The Best Technology Website of 2025 | Smartmeta | [Read More](https://medium.com/p/7e01ced1b40a) |
-| Fri, 23 May 2025 05:35:07 GMT | What Is Cybersecurity and Why Is It the Hottest Career in 2025? | Hyperlaunch | [Read More](https://medium.com/p/99b003e85dee) |
-| Fri, 23 May 2025 05:29:42 GMT | What are the Best Practices in Cyber Security for Online Banking. | The USA Finance Hub | [Read More](https://medium.com/p/c87c691a7ed5) |
-| Fri, 23 May 2025 05:27:44 GMT | 10 Ways Cloud Computing Is Changing the IT World | Ryan Mktg | [Read More](https://medium.com/p/4b3481458de1) |
-| Fri, 23 May 2025 05:27:33 GMT | Cetus Protocol $260 Million Exploit on Sui Chain: Hack Analysis | Safe Edges | [Read More](https://medium.com/p/db402b056317) |
-| Fri, 23 May 2025 05:25:05 GMT | Robot Security Guards | Marcus Koehnlein | [Read More](https://medium.com/p/2e72f5948060) |
-| Fri, 23 May 2025 05:02:47 GMT | CYBER SECURITY COURSE | Vigneshj | [Read More](https://medium.com/p/e11ec873f842) |
-| Fri, 23 May 2025 04:55:55 GMT | From Nothing to 1 Crore: My Tech Hustle Story | Manoj Shrestha | [Read More](https://medium.com/p/3bcf7677281b) |
-| Fri, 23 May 2025 04:51:39 GMT | Building a Culture of Cyber Risk Management | Shivam | [Read More](https://medium.com/p/c2e188a7b32e) |
-| Fri, 23 May 2025 04:35:38 GMT | The Reason Men Don’t Open Up — And What Happens When One Woman Doesn’t Shut It Down | John Linnane | [Read More](https://medium.com/p/cfb702b0f9ec) |
