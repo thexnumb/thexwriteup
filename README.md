@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 22:36:23 GMT | AI-Powered Code Review: Detecting Zero-Day Vulnerabilities in Real-Time | Rizqi Mulki | [Read More](https://medium.com/p/a67ba69769a6) |
+| Fri, 23 May 2025 22:29:05 GMT | Secure Cross-Account VPC Communication in AWS Using Peering Connections | Dyavanapellisujal | [Read More](https://medium.com/p/2b3a28829fde) |
+| Fri, 23 May 2025 22:27:00 GMT | What is Availability in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/8cc03a511c4a) |
+| Fri, 23 May 2025 22:26:30 GMT | How to tell if your child is being trafficked on Instagram | Savvy Cyber Kids | [Read More](https://medium.com/p/57a194eac44d) |
+| Fri, 23 May 2025 22:25:11 GMT | Why Can’t I Stop Playing Video Games? | Savvy Cyber Kids | [Read More](https://medium.com/p/80ac31e125d8) |
+| Fri, 23 May 2025 22:24:09 GMT | How Can I Avoid Scams on the Internet? | Savvy Cyber Kids | [Read More](https://medium.com/p/1a7c2f6827b9) |
+| Fri, 23 May 2025 22:21:33 GMT | Hacking APIs: Exploiting Business Logic Flaws | Israel Aráoz Severiche | [Read More](https://medium.com/p/c40872ce5600) |
+| Fri, 23 May 2025 22:19:01 GMT | ¿Qué puedo hacer para recuperar mi dinero de CryptoPocket? | Camila | [Read More](https://medium.com/p/46b3b773e146) |
+| Fri, 23 May 2025 22:17:27 GMT | Understanding the TCP/IP Model: The Foundation of the Internet | Karthikeyan Nagaraj | [Read More](https://medium.com/p/3af2fa095423) |
 | Fri, 23 May 2025 21:56:11 GMT | The Great Tariff Caper | Eina Schroeder | [Read More](https://medium.com/p/8a13f1001e85) |
 | Fri, 23 May 2025 21:46:17 GMT | Corporate Greed Chronicles: Booz Allen’s Layoff Gambit Amid Glittering Financials | Namir Sagheenanajar | [Read More](https://medium.com/p/5ca81ba86d49) |
 | Fri, 23 May 2025 21:31:19 GMT | Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/f539671d722f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 15:18:55 GMT | TryHackMe - APT28 in the Snare - WriteUp | Axoloth | [Read More](https://medium.com/p/8b43ac6cea0e) |
 | Fri, 23 May 2025 15:11:21 GMT | Demystifying the Basics of Subnetting ( Why It Matters in Modern Networking) | Mazhar Imran | [Read More](https://medium.com/p/614884103c25) |
 | Fri, 23 May 2025 15:08:33 GMT | New Substack Blog is Now Up and Running! | Ben Zweibelson, PhD | [Read More](https://medium.com/p/63fe9c0647f0) |
-| Fri, 23 May 2025 15:01:21 GMT | ️ The Ultimate Bug Bounty Checklist for Beginners | Badal kathayat | [Read More](https://medium.com/p/3fafc9ea5fc5) |
-| Fri, 23 May 2025 14:57:34 GMT | Glass girl | Aashritha Writes | [Read More](https://medium.com/p/b979be3bbd97) |
-| Fri, 23 May 2025 14:52:20 GMT | The Most In-Demand Digital Skills for 2025 | Rejoiceorjiene | [Read More](https://medium.com/p/d0404e991ebc) |
-| Fri, 23 May 2025 14:48:18 GMT | Beware of Fake Downloads and Dangerous TikTok Videos | Ian Schisel | [Read More](https://medium.com/p/dcba0c1c5242) |
-| Fri, 23 May 2025 14:47:32 GMT | Stop Learning for the Sake of Learning: Build as You Learn | Vijay Kumar Gupta | [Read More](https://medium.com/p/7792f8e9a2f8) |
-| Fri, 23 May 2025 14:36:13 GMT | Adversarial AI Digest — 20 May, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/438916d6df73) |
-| Fri, 23 May 2025 14:34:13 GMT | MSPs in 2025: Navigating the Cybersecurity Compliance Minefield | Donald Betancourt | [Read More](https://medium.com/p/4efa03c9b007) |
-| Fri, 23 May 2025 14:33:10 GMT | Top GRC Tools You Should Know in 2025 (And Why Socurely Stands Out) | Brittney Ginther | [Read More](https://medium.com/p/98c199376355) |
-| Fri, 23 May 2025 14:32:25 GMT | The Beauty of Being Real: Why Authenticity Hits Harder Than Perfection | EdwinValdez | [Read More](https://medium.com/p/4131ae1f4de1) |
