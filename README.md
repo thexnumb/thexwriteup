@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 21:31:19 GMT | Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/f539671d722f) |
+| Fri, 23 May 2025 21:23:37 GMT | THM — Snapped Phishing Line Writeup | Shamar Isaac | [Read More](https://medium.com/p/c852b4fa24ea) |
+| Fri, 23 May 2025 21:21:26 GMT | Secure Coding Part 3 : Input Validation | Siddiquimohammad | [Read More](https://medium.com/p/cf9d11ee3deb) |
+| Fri, 23 May 2025 21:19:50 GMT | Picking The Modulus For Homomorphic Encryption | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8b2eced7590f) |
+| Fri, 23 May 2025 21:18:32 GMT | To shine or to be plucked | Chuckinette | [Read More](https://medium.com/p/955c048c8f1c) |
+| Fri, 23 May 2025 21:17:58 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e9edf600266d) |
 | Fri, 23 May 2025 21:05:49 GMT | AI in Business Intelligence: Enhancing Data Analysis for Smarter Decision-Making | IT_Engineer | [Read More](https://medium.com/p/56fe7ad4f009) |
 | Fri, 23 May 2025 21:03:51 GMT | Everyday Life Insurance and the Evolving Model of Financial Responsibility in America | John Philip Blogs | [Read More](https://medium.com/p/13172ecf6e50) |
 | Fri, 23 May 2025 21:00:42 GMT | Jennifer Tang & Kyle Hiebert: The Promises and Perils of Predictive Policing | Centre for International Governance Innovation | [Read More](https://medium.com/p/94e8e056c9ad) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 14:32:25 GMT | The Beauty of Being Real: Why Authenticity Hits Harder Than Perfection | EdwinValdez | [Read More](https://medium.com/p/4131ae1f4de1) |
 | Fri, 23 May 2025 14:26:05 GMT | LiteFunds Review - Is It Legit or Fake? | Leo Farrelly | [Read More](https://medium.com/p/22ea22c51a85) |
 | Fri, 23 May 2025 14:25:15 GMT | Beyond the First $1,000: What Resilience Really Means in Bug Bounty Hunting | Kailasv | [Read More](https://medium.com/p/92c54a9f8f04) |
-| Fri, 23 May 2025 14:24:13 GMT | Computer Science Writer | Geoffrey Louis Nicoletti | [Read More](https://medium.com/p/4a4de4833a12) |
-| Fri, 23 May 2025 14:22:03 GMT | TLS-RPT: Welcome in Postfix 3.10+ | The Silent Engineer | [Read More](https://medium.com/p/3df1722e914e) |
-| Fri, 23 May 2025 14:21:26 GMT | Phishing-Resistant MFA: Enterprise-Grade Security for SMBs | Ramsey Consulting Services | [Read More](https://medium.com/p/c982c22f9885) |
-| Fri, 23 May 2025 14:21:04 GMT | Day 44: Packet Analysis: Understanding the Network’s X-Ray Machine | Agarwaldaksh | [Read More](https://medium.com/p/8c4935efdadb) |
-| Fri, 23 May 2025 14:20:55 GMT | DeepTempo Wins Global InfoSec Award for Advanced Threat Identification | Evan Powell | [Read More](https://medium.com/p/1112b01a4c7d) |
-| Fri, 23 May 2025 14:20:44 GMT | Here’s How I Recovered My Funds from LiteFunds | Leo Farrelly | [Read More](https://medium.com/p/946b65691532) |
