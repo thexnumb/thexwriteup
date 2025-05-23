@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 03:32:02 GMT | e-Zero FIR: India’s Digital Leap in Combating High-Value Cybercrime | Deven Chhajed | [Read More](https://medium.com/p/cec6b50572ed) |
+| Fri, 23 May 2025 03:31:54 GMT | From Tool to Threat: Is AI Quietly Fueling the Rise of Economic Crime? | Biswajeet Poddar | [Read More](https://medium.com/p/00ce373fcc7d) |
+| Fri, 23 May 2025 03:31:25 GMT | Cybersecurity Program Management: Building a Strong Defense in the Digital Age | Securis360 Inc. | [Read More](https://medium.com/p/055c939782e3) |
+| Fri, 23 May 2025 03:30:52 GMT | DORA, Explained: Europe’s Playbook for Surviving the Next Financial Cyberstorm | Monika Pratiwi | [Read More](https://medium.com/p/c5ef2f9eb515) |
+| Fri, 23 May 2025 03:30:31 GMT | How to Build a Secure Password Manager in Python | Pawan Jaiswal | [Read More](https://medium.com/p/fbc9b3fbc335) |
+| Fri, 23 May 2025 03:29:27 GMT | The Forgotten FirewallA Somali-American’s Call to Secure Somalia’s Digital Future | MOHAMUD ALI | [Read More](https://medium.com/p/3b6aa08549a8) |
+| Fri, 23 May 2025 03:22:21 GMT | “I logged into a random account… and ended up accessing the entire database!”. [SQL injection] | Altayeb Salim | [Read More](https://medium.com/p/5fce034ea456) |
 | Fri, 23 May 2025 03:01:37 GMT | Assessment Methodologies: Enumeration CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/d33595c3d91a) |
 | Fri, 23 May 2025 02:50:42 GMT | ️ Análise de PDF Malicioso — Parte 1 | Jonathan M. | [Read More](https://medium.com/p/3098f5fb6688) |
 | Fri, 23 May 2025 02:50:11 GMT | Why Your Phone Number Is the New Social Security Number (And Why That’s Risky) | Abijita Foundation | [Read More](https://medium.com/p/fb0f51834f1d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 17:35:51 GMT | Is Your Email Safe or Sorry? Let’s Find Out. | Vaseharan T | [Read More](https://medium.com/p/c662ebd7228b) |
 | Thu, 22 May 2025 17:33:15 GMT | Building Compliant FinTech Infrastructure in 2025 Without Killing Developer Experience | Nicholas Thoni | [Read More](https://medium.com/p/9f679d925523) |
 | Thu, 22 May 2025 17:32:24 GMT | Why I Decided to Become a Drone Pilot | Ain Stærlingsson — forestbathers unit | [Read More](https://medium.com/p/999a31fd46ba) |
-| Thu, 22 May 2025 17:32:24 GMT | Malicious Chrome Extension Hijacks Facebook Pages | CyberMaterial | [Read More](https://medium.com/p/54b316c036cb) |
-| Thu, 22 May 2025 17:32:24 GMT | Tracking with Hound and Facad1ng: Exploring the Mechanics and Ethics of Location-Based… | Syedmohathashimali | [Read More](https://medium.com/p/d5c2b14d4721) |
-| Thu, 22 May 2025 17:29:39 GMT | Emerging cybersecurity trends for 2025 | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/5b95d86739c3) |
-| Thu, 22 May 2025 17:28:20 GMT | Googled Myself. Found My Address. Here’s What I Did. | Aardvark Online Removals | [Read More](https://medium.com/p/83c103c882d4) |
-| Thu, 22 May 2025 17:28:17 GMT | Proguard vs R8: What’s the Difference and What Should You Use? | Jaykishan Sewak | [Read More](https://medium.com/p/fc5199741f2f) |
-| Thu, 22 May 2025 17:23:09 GMT | The Beginning of AI: Nothing is Gonna Stop Now | The Lore Files | [Read More](https://medium.com/p/b2c8bc865644) |
-| Thu, 22 May 2025 17:18:01 GMT | The 6 Best Private Proxy Services of 2025 | Jayfloriam | [Read More](https://medium.com/p/ed0013c33285) |
