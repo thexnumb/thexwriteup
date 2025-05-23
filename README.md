@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 21:56:11 GMT | The Great Tariff Caper | Eina Schroeder | [Read More](https://medium.com/p/8a13f1001e85) |
+| Fri, 23 May 2025 21:46:17 GMT | Corporate Greed Chronicles: Booz Allen’s Layoff Gambit Amid Glittering Financials | Namir Sagheenanajar | [Read More](https://medium.com/p/5ca81ba86d49) |
 | Fri, 23 May 2025 21:31:19 GMT | Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/f539671d722f) |
 | Fri, 23 May 2025 21:23:37 GMT | THM — Snapped Phishing Line Writeup | Shamar Isaac | [Read More](https://medium.com/p/c852b4fa24ea) |
 | Fri, 23 May 2025 21:21:26 GMT | Secure Coding Part 3 : Input Validation | Siddiquimohammad | [Read More](https://medium.com/p/cf9d11ee3deb) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 14:34:13 GMT | MSPs in 2025: Navigating the Cybersecurity Compliance Minefield | Donald Betancourt | [Read More](https://medium.com/p/4efa03c9b007) |
 | Fri, 23 May 2025 14:33:10 GMT | Top GRC Tools You Should Know in 2025 (And Why Socurely Stands Out) | Brittney Ginther | [Read More](https://medium.com/p/98c199376355) |
 | Fri, 23 May 2025 14:32:25 GMT | The Beauty of Being Real: Why Authenticity Hits Harder Than Perfection | EdwinValdez | [Read More](https://medium.com/p/4131ae1f4de1) |
-| Fri, 23 May 2025 14:26:05 GMT | LiteFunds Review - Is It Legit or Fake? | Leo Farrelly | [Read More](https://medium.com/p/22ea22c51a85) |
-| Fri, 23 May 2025 14:25:15 GMT | Beyond the First $1,000: What Resilience Really Means in Bug Bounty Hunting | Kailasv | [Read More](https://medium.com/p/92c54a9f8f04) |
