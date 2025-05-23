@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 19:22:16 GMT | Facebook’s 1.2 Billion-Record Data Leak Raises Alarms | One Minute Data | [Read More](https://medium.com/p/8d0633dca08f) |
 | Fri, 23 May 2025 19:02:24 GMT | Grounded: How Legacy Tech and a Lack of Cybersecurity Sent Newark Air Travel Spiraling | Cyber Kavy | [Read More](https://medium.com/p/38a551f988ea) |
 | Fri, 23 May 2025 18:59:47 GMT | APT28 in the Snare : TryHackMe Walkthrough - Blue Team - Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/ca5b1eafcb29) |
 | Fri, 23 May 2025 18:50:37 GMT | Life, Balance, and the Mess In Between | Ivy Nguyen | [Read More](https://medium.com/p/f2740dd5a67d) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 13:14:55 GMT | How Security Companies in Thane Adapt to Modern Threats | united guard | [Read More](https://medium.com/p/a9bf0c823e87) |
 | Fri, 23 May 2025 13:13:39 GMT | The Human Cost of a Broken System: Why Cybersecurity’s Best Are Walking Away | Eric Zietlow | [Read More](https://medium.com/p/3da9fcd1003a) |
 | Fri, 23 May 2025 13:12:50 GMT | Before You Launch That SQL Injection Test, Read This | Sam Galope | [Read More](https://medium.com/p/3294ed733a12) |
-| Fri, 23 May 2025 13:05:25 GMT | Amass Subdomain Enumeration : A Bug Hunter’s Guide | Shaheer Yasir | [Read More](https://medium.com/p/3271ab5bf597) |
