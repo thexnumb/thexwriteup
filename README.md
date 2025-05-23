@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 11:10:19 GMT | Why Security Audits Matter for Bahrain Businesses | centresystemsgroup | [Read More](https://medium.com/p/3f85c8fb3451) |
+| Fri, 23 May 2025 11:05:45 GMT | Cybersecurity Solutions Dubai | Oadtechdubai | [Read More](https://medium.com/p/4cccbd728ed8) |
+| Fri, 23 May 2025 11:02:27 GMT | You're not cautious enough. | Mujidat Dada | [Read More](https://medium.com/p/2bb2f5edd5e9) |
+| Fri, 23 May 2025 10:56:02 GMT | EU Confirms Iranian Cyberattack on Pro-Democracy Politician | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/cf7b594909b1) |
+| Fri, 23 May 2025 10:50:18 GMT | New Office IT Setup: An Essential Step-by-Step Checklist | Liberty Computer System | [Read More](https://medium.com/p/3a79ee0612e5) |
+| Fri, 23 May 2025 10:48:27 GMT | Process Injection | Vüsal Gülməmmədov | [Read More](https://medium.com/p/7566e797c6a3) |
+| Fri, 23 May 2025 10:44:32 GMT | What Is the Role of AI in Modern Cyber Defense Solutions in the UAE? | Ahad me | [Read More](https://medium.com/p/7680a0d0eeee) |
+| Fri, 23 May 2025 10:42:35 GMT | What Powers Modern Banking in India? | Chandrachud Sahi | [Read More](https://medium.com/p/28f7265e451b) |
 | Fri, 23 May 2025 10:36:43 GMT | How to Build a Real-Time Event Announcement System using AWS SNS, Lambda, and API Gateway | Akuphe Dieudonne | [Read More](https://medium.com/p/5a7a3563a74e) |
 | Fri, 23 May 2025 10:35:45 GMT | 10 K8s Secret Management Mistakes You’re Probably Making | Devops Trainer | [Read More](https://medium.com/p/d702c478fb9c) |
+| Fri, 23 May 2025 10:34:54 GMT | Third-Party Risk Management at Scale: Designing TPRM Programs for Global Supply Chains | A-STAR7_DOCTOR | [Read More](https://medium.com/p/932b09d336f8) |
 | Fri, 23 May 2025 10:26:33 GMT | “I’m Fine” - The World’s Most Common Lie | Cat Milton | [Read More](https://medium.com/p/3b957c08134e) |
 | Fri, 23 May 2025 10:24:13 GMT | Toobit’s Low-Fee Advantage: Find Out Why Traders Are Switching in 2025 | Toobit | [Read More](https://medium.com/p/b0273e6490f7) |
 | Fri, 23 May 2025 10:12:34 GMT | E2E-Chat: Secure Peer-to-Peer Messaging with WebRTC | Sidharth | [Read More](https://medium.com/p/d48e86515571) |
@@ -47,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 08:19:32 GMT | API Integration Product Owner: Roles and Responsibilities | Shaheer Akhlaq | [Read More](https://medium.com/p/c638e5ef1e78) |
 | Fri, 23 May 2025 08:18:47 GMT | Stop Copy-Pasting from Stack Overflow and Pretending You Understand It | Jamshidbek Boynazarov | [Read More](https://medium.com/p/f80a5895dd33) |
 | Fri, 23 May 2025 08:18:24 GMT | Geopolitical Conflicts and Security Concerns: A World on Edge. | Business Promotion Strategy. | [Read More](https://medium.com/p/4460247e424a) |
+| Fri, 23 May 2025 08:15:28 GMT | Investigasi APK Undangan Pernikahan untuk Sadap SMS & WA | Jeffry Gunawan | [Read More](https://medium.com/p/5c2434532384) |
 | Fri, 23 May 2025 08:05:52 GMT | SOC Level 1 — Unified Kill Chain (UKC) Frameworks | Alif Abhipraya | [Read More](https://medium.com/p/16c143cb30fe) |
 | Fri, 23 May 2025 08:03:43 GMT | Achieving ISO 27001 Certification: Steps and Best Practices for Information Security | ISO Management Consultant Ltd. | [Read More](https://medium.com/p/7a2a049ee09b) |
 | Fri, 23 May 2025 07:48:42 GMT | FotoForensics: A Simple Tool to Check If an Image Is Fake or Edited | Maira Jabeen | [Read More](https://medium.com/p/a6f3316016d9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 04:35:38 GMT | The Reason Men Don’t Open Up — And What Happens When One Woman Doesn’t Shut It Down | John Linnane | [Read More](https://medium.com/p/cfb702b0f9ec) |
 | Fri, 23 May 2025 04:27:46 GMT | What Is a VPN and How It Works and 7 Powers Tips for Security in 2025 | Furqan Haider | [Read More](https://medium.com/p/220af6f50e78) |
 | Fri, 23 May 2025 04:14:23 GMT | Escaping Reality: My Struggle With Video Game Addiction | QhcyberhQ | [Read More](https://medium.com/p/cfe981ec1607) |
-| Fri, 23 May 2025 03:57:25 GMT | RAID: Teknologi Penyimpanan Cerdas untuk Data Lebih Aman dan Cepat | Abduljabbar | [Read More](https://medium.com/p/c6bb5a01e37d) |
-| Fri, 23 May 2025 03:33:11 GMT | Mengenal RAID: Teknologi Penyimpanan Data yang Andal dan Efisien | Hanifaufa | [Read More](https://medium.com/p/5dd730961d4e) |
-| Fri, 23 May 2025 03:32:02 GMT | e-Zero FIR: India’s Digital Leap in Combating High-Value Cybercrime | Deven Chhajed | [Read More](https://medium.com/p/cec6b50572ed) |
-| Fri, 23 May 2025 03:31:54 GMT | From Tool to Threat: Is AI Quietly Fueling the Rise of Economic Crime? | Biswajeet Poddar | [Read More](https://medium.com/p/00ce373fcc7d) |
-| Fri, 23 May 2025 03:31:25 GMT | Cybersecurity Program Management: Building a Strong Defense in the Digital Age | Securis360 Inc. | [Read More](https://medium.com/p/055c939782e3) |
-| Fri, 23 May 2025 03:30:52 GMT | DORA, Explained: Europe’s Playbook for Surviving the Next Financial Cyberstorm | Monika Pratiwi | [Read More](https://medium.com/p/c5ef2f9eb515) |
-| Fri, 23 May 2025 03:30:31 GMT | How to Build a Secure Password Manager in Python | Pawan Jaiswal | [Read More](https://medium.com/p/fbc9b3fbc335) |
-| Fri, 23 May 2025 03:29:27 GMT | The Forgotten FirewallA Somali-American’s Call to Secure Somalia’s Digital Future | MOHAMUD ALI | [Read More](https://medium.com/p/3b6aa08549a8) |
-| Fri, 23 May 2025 03:22:21 GMT | “I logged into a random account… and ended up accessing the entire database!”. [SQL injection] | Altayeb Salim | [Read More](https://medium.com/p/5fce034ea456) |
-| Fri, 23 May 2025 03:01:37 GMT | Assessment Methodologies: Enumeration CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/d33595c3d91a) |
