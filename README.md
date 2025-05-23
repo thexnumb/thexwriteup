@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 06:42:15 GMT | The Future of Pentesting: Will AI Replace Ethical Hackers? | Md Faiyaz Khan | [Read More](https://medium.com/p/d4a57cfe834b) |
+| Fri, 23 May 2025 06:41:25 GMT | Why Power Automate Gets the Silent Treatment in Design Discussions | Namir Sagheenanajar | [Read More](https://medium.com/p/35446d06d582) |
+| Fri, 23 May 2025 06:35:42 GMT | Five New Technologies with Big Impact in 2025 | Abdullah | [Read More](https://medium.com/p/161da0b5b370) |
+| Fri, 23 May 2025 06:33:20 GMT | What are the Five Types of Cybersecurity? | cyber security Updates | [Read More](https://medium.com/p/3f9997ad577e) |
+| Fri, 23 May 2025 06:33:18 GMT | CyberChef: The Basics | Maseera Fatima | [Read More](https://medium.com/p/246d8518a095) |
+| Fri, 23 May 2025 06:28:26 GMT | Is unins000.exe a Threat or Legitimate File? Here’s How to Remove It | SignMyCode | [Read More](https://medium.com/p/f3754fa63612) |
 | Fri, 23 May 2025 06:11:59 GMT | Assets And Wallet Recovery Services since 2017 - KeycheinX | KeycheinX Cryptocurrency Recovery | [Read More](https://medium.com/p/2fb9b4c1cb32) |
 | Fri, 23 May 2025 06:11:23 GMT | The Daily Tech Digest: 23 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/bc3bb45214ae) |
 | Fri, 23 May 2025 06:02:53 GMT | Search Skills | Maseera Fatima | [Read More](https://medium.com/p/1e56069bb201) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 20:18:36 GMT | The Gentle Giant | McKenzie Beden | [Read More](https://medium.com/p/92bfc21ae302) |
 | Thu, 22 May 2025 20:18:02 GMT | Proving Grounds Practice — Cockpit Walkthrough | Batu Ada Tutkun | [Read More](https://medium.com/p/af23c1b8624c) |
 | Thu, 22 May 2025 20:10:29 GMT | Detecting device code phishing in Google Security Operations | Bastradamus | [Read More](https://medium.com/p/9bf1c282cff0) |
-| Thu, 22 May 2025 20:04:05 GMT | Day 3 of my AWS Pentesting journey — Lambda Function Enumeration | mauzware | [Read More](https://medium.com/p/e9bf3ace9b8d) |
-| Thu, 22 May 2025 19:54:14 GMT | From AI-net to AI-threats: The Hidden Dangers Behind the Tools We Trust | Visoot Soisang | [Read More](https://medium.com/p/ccc1bda057da) |
-| Thu, 22 May 2025 19:32:45 GMT | What Is Brand Protection? How It Powers Enterprise Digital Risk Protection | ThreatWatch360 | [Read More](https://medium.com/p/4c228325b0f5) |
-| Thu, 22 May 2025 19:32:34 GMT | Serenity in a loud World: A tribute to the Quiet ones | Khadija Ben Farhat | [Read More](https://medium.com/p/797a72802aa2) |
-| Thu, 22 May 2025 19:15:30 GMT | I’m not complaining… I’m just sharing | Angëlo | [Read More](https://medium.com/p/e27b649732f4) |
-| Thu, 22 May 2025 18:59:07 GMT | Security Company in London: Trusted Security Services for Your Safety | Renceromen | [Read More](https://medium.com/p/14da1fba77b1) |
