@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 17:08:55 GMT | Cyber Crisis Masters: How CISOs Command Respect and Inspire Action | Paul van der Hagen | [Read More](https://medium.com/p/1e55d4f4a847) |
+| Fri, 23 May 2025 17:07:51 GMT | Operationalizing the BadSuccessor: Abusing dMSA for Domain Privilege Escalation | Arun Nair | [Read More](https://medium.com/p/429cefc36187) |
+| Fri, 23 May 2025 17:07:46 GMT | From The Boardroom to The Frontline: How CISOs Can Communicate with Impact | Paul van der Hagen | [Read More](https://medium.com/p/a37f8d9f61b9) |
+| Fri, 23 May 2025 17:03:03 GMT | أيوب بن زكور: خبير في استرجاع الحسابات الرقمية وحماية الهوية الإلكترونية | Benzekkourayoub | [Read More](https://medium.com/p/69059cc40d78) |
+| Fri, 23 May 2025 16:46:51 GMT | How to Win a Middle-Aged Woman’s Heart: Essential Strategies | ZaraTaylor | [Read More](https://medium.com/p/3046864ddd1a) |
+| Fri, 23 May 2025 16:46:21 GMT | Want to install AI on your Laptop/Computer … Here’s How | Ammar Ahmed | [Read More](https://medium.com/p/cbe6045e4287) |
 | Fri, 23 May 2025 16:43:39 GMT | Why We Should Eliminate Unnecessary Middleware from Critical Systems | Jose Maria Costa Teixeira | [Read More](https://medium.com/p/28c7feee6d61) |
+| Fri, 23 May 2025 16:41:33 GMT | B is for Botnet: The Hidden Army You Never See Coming | Niti Singh | [Read More](https://medium.com/p/3d56c273176f) |
 | Fri, 23 May 2025 16:35:52 GMT | A is for Authentication: The First Line of Defense in Cybersecurity | Niti Singh | [Read More](https://medium.com/p/06aa1011d07c) |
 | Fri, 23 May 2025 16:28:04 GMT | What Can Scammers Do with Your Phone Number? More Than You Think | SafeAeon Inc. | [Read More](https://medium.com/p/e5dcc121381e) |
 | Fri, 23 May 2025 16:26:38 GMT | From threats to attack surfaces: a natural progression | Security Consulting Blogspot | [Read More](https://medium.com/p/f8d4e090e991) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 11:43:46 GMT | Learn How to Hack Unity Applications Using dnSpy | Kyrillos nady | [Read More](https://medium.com/p/6a2cfdfcb236) |
 | Fri, 23 May 2025 11:43:23 GMT | Why Most Spring Boot CI/CD Pipelines Are Insecure — And How DevSecOps Fixes It | Himanshu | [Read More](https://medium.com/p/0fe084119a28) |
 | Fri, 23 May 2025 11:37:41 GMT | Can Schools Put Cameras in Classrooms? Legal Reality and the Ethical Debate | 4.0 Schools | [Read More](https://medium.com/p/c5ff8871fd16) |
-| Fri, 23 May 2025 11:34:52 GMT | Process Hollowing | LordShen | [Read More](https://medium.com/p/8381fad3e7c2) |
-| Fri, 23 May 2025 11:25:26 GMT | Digital Forensics: Your First Line of Defense Against Cyber Threats | Shubhrapandey Sgi | [Read More](https://medium.com/p/7df9147ff978) |
-| Fri, 23 May 2025 11:18:31 GMT | FaaS: Behind the scenes of serverless and its Security | Saurav Dawadi | [Read More](https://medium.com/p/1d1914e9bd00) |
-| Fri, 23 May 2025 11:10:19 GMT | Why Security Audits Matter for Bahrain Businesses | centresystemsgroup | [Read More](https://medium.com/p/3f85c8fb3451) |
-| Fri, 23 May 2025 11:05:45 GMT | Cybersecurity Solutions Dubai | Oadtechdubai | [Read More](https://medium.com/p/4cccbd728ed8) |
-| Fri, 23 May 2025 11:02:27 GMT | You're not cautious enough. | Mujidat Dada | [Read More](https://medium.com/p/2bb2f5edd5e9) |
-| Fri, 23 May 2025 10:56:02 GMT | EU Confirms Iranian Cyberattack on Pro-Democracy Politician | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/cf7b594909b1) |
