@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 18:43:03 GMT | # ️ Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/928074df8007) |
+| Fri, 23 May 2025 18:38:02 GMT | SkyArk: Hunting Cloud Shadow Admins in AWS and Azure | Tharindu Damith | [Read More](https://medium.com/p/d25ad2a0aff4) |
+| Fri, 23 May 2025 18:32:24 GMT | Advanced Caching Techniques for Blazing Fast WordPress Sites | Shubradeb | [Read More](https://medium.com/p/a16b2112f91a) |
+| Fri, 23 May 2025 18:28:44 GMT | Human and User | Aleksej Sokolov | [Read More](https://medium.com/p/1eb3def476bb) |
 | Fri, 23 May 2025 18:18:12 GMT | My first experience with Cloudflare | Mohammed Faruq | [Read More](https://medium.com/p/de8912b4475a) |
 | Fri, 23 May 2025 18:14:24 GMT | AI-Powered Security: How Artificial Intelligence is Revolutionizing Digital Asset Protection | Chronos Vault | [Read More](https://medium.com/p/e3d8031e6a8e) |
 | Fri, 23 May 2025 18:06:28 GMT | The Future of Cybersecurity Is AI-Augmented, Not AI-Replaced A human + machine strategy for the… | Corey Jones | [Read More](https://medium.com/p/f00fde69e295) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 13:01:02 GMT | How Peris.ai Cuts Mean Time to Detect (MTTD) with Agentic AI | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d74243f60932) |
 | Fri, 23 May 2025 12:59:06 GMT | How I Became a Lecturer by Changing a 2 to a 1 — A Silly, Sneaky TryHackMe Walkthrough | Kloveslemnyuy | [Read More](https://medium.com/p/0fc310426bf3) |
 | Fri, 23 May 2025 12:55:51 GMT | Shelter: Simple Way to Securely Share Your Assets After You’re Gone | Shelter | [Read More](https://medium.com/p/1e9dd8ed8a6a) |
-| Fri, 23 May 2025 12:55:01 GMT | THE ART OF DISMANTLING A COMPUTER | Jesse Ebong | [Read More](https://medium.com/p/541d8fc14250) |
-| Fri, 23 May 2025 12:50:59 GMT | Think Before You Share: The Hidden Dangers of Oversharing on LinkedIn | Brandon Dewater | [Read More](https://medium.com/p/e66a5cf2fedd) |
-| Fri, 23 May 2025 12:47:15 GMT | Hire a Hacker for Instagram Recovery: Disabled or Suspended Accounts | Hackers World | [Read More](https://medium.com/p/b00ed037d261) |
-| Fri, 23 May 2025 12:46:18 GMT | Top 5 Antivirus Picks for Gamers in 2025: Maximize Security Without Sacrificing Speed | Top2Antivirus | [Read More](https://medium.com/p/d6dbaef9e2b5) |
