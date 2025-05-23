@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 03:57:25 GMT | RAID: Teknologi Penyimpanan Cerdas untuk Data Lebih Aman dan Cepat | Abduljabbar | [Read More](https://medium.com/p/c6bb5a01e37d) |
 | Fri, 23 May 2025 03:32:02 GMT | e-Zero FIR: India’s Digital Leap in Combating High-Value Cybercrime | Deven Chhajed | [Read More](https://medium.com/p/cec6b50572ed) |
 | Fri, 23 May 2025 03:31:54 GMT | From Tool to Threat: Is AI Quietly Fueling the Rise of Economic Crime? | Biswajeet Poddar | [Read More](https://medium.com/p/00ce373fcc7d) |
 | Fri, 23 May 2025 03:31:25 GMT | Cybersecurity Program Management: Building a Strong Defense in the Digital Age | Securis360 Inc. | [Read More](https://medium.com/p/055c939782e3) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 17:42:25 GMT | The Logic of Dating | Rose | [Read More](https://medium.com/p/6aff53b12338) |
 | Thu, 22 May 2025 17:35:51 GMT | Is Your Email Safe or Sorry? Let’s Find Out. | Vaseharan T | [Read More](https://medium.com/p/c662ebd7228b) |
 | Thu, 22 May 2025 17:33:15 GMT | Building Compliant FinTech Infrastructure in 2025 Without Killing Developer Experience | Nicholas Thoni | [Read More](https://medium.com/p/9f679d925523) |
-| Thu, 22 May 2025 17:32:24 GMT | Why I Decided to Become a Drone Pilot | Ain Stærlingsson — forestbathers unit | [Read More](https://medium.com/p/999a31fd46ba) |
