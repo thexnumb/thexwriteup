@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 16:43:39 GMT | Why We Should Eliminate Unnecessary Middleware from Critical Systems | Jose Maria Costa Teixeira | [Read More](https://medium.com/p/28c7feee6d61) |
+| Fri, 23 May 2025 16:35:52 GMT | A is for Authentication: The First Line of Defense in Cybersecurity | Niti Singh | [Read More](https://medium.com/p/06aa1011d07c) |
+| Fri, 23 May 2025 16:28:04 GMT | What Can Scammers Do with Your Phone Number? More Than You Think | SafeAeon Inc. | [Read More](https://medium.com/p/e5dcc121381e) |
+| Fri, 23 May 2025 16:26:38 GMT | From threats to attack surfaces: a natural progression | Security Consulting Blogspot | [Read More](https://medium.com/p/f8d4e090e991) |
 | Fri, 23 May 2025 16:24:28 GMT | Velvet Chollima APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/89c5159e7fc1) |
 | Fri, 23 May 2025 16:20:19 GMT | Hacking NASA : The Journey to My First Hall of Fame | B4LOGI | [Read More](https://medium.com/p/3d6a978b3d17) |
 | Fri, 23 May 2025 16:18:42 GMT | Intune Patch Management: Keeping Your Devices Secure and Up to Date | SafeAeon Inc. | [Read More](https://medium.com/p/632b2abec38c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 11:05:45 GMT | Cybersecurity Solutions Dubai | Oadtechdubai | [Read More](https://medium.com/p/4cccbd728ed8) |
 | Fri, 23 May 2025 11:02:27 GMT | You're not cautious enough. | Mujidat Dada | [Read More](https://medium.com/p/2bb2f5edd5e9) |
 | Fri, 23 May 2025 10:56:02 GMT | EU Confirms Iranian Cyberattack on Pro-Democracy Politician | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/cf7b594909b1) |
-| Fri, 23 May 2025 10:50:18 GMT | New Office IT Setup: An Essential Step-by-Step Checklist | Liberty Computer System | [Read More](https://medium.com/p/3a79ee0612e5) |
-| Fri, 23 May 2025 10:48:27 GMT | Process Injection | Vüsal Gülməmmədov | [Read More](https://medium.com/p/7566e797c6a3) |
-| Fri, 23 May 2025 10:44:32 GMT | What Is the Role of AI in Modern Cyber Defense Solutions in the UAE? | Ahad me | [Read More](https://medium.com/p/7680a0d0eeee) |
-| Fri, 23 May 2025 10:42:35 GMT | What Powers Modern Banking in India? | Chandrachud Sahi | [Read More](https://medium.com/p/28f7265e451b) |
