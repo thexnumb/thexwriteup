@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 10:10:32 GMT | Password Hashing and Cracking: The Digital Locks We Rely On | Kuldeepkumawat | [Read More](https://medium.com/p/bea05ced5a38) |
+| Fri, 23 May 2025 10:08:32 GMT | Current Cyber Threats: Why Cybersecurity Courses Are Essential for 2025! | Adhvaidh | [Read More](https://medium.com/p/1a000412fa2c) |
+| Fri, 23 May 2025 10:03:23 GMT | Inside the WiFi Pineapple: Ethical Hacking and Wireless Surveillance | Nanda Siddhardha | [Read More](https://medium.com/p/a924889223aa) |
+| Fri, 23 May 2025 10:02:36 GMT | Energy Footprint of PQC Key Generation | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/92a3d733d76f) |
+| Fri, 23 May 2025 10:02:28 GMT | Legacy Code, Future Problems: Why We Still Need to Understand Outdated Tech | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e77ce81d3d32) |
+| Fri, 23 May 2025 10:02:05 GMT | Code. Test. Evolve. How EDSPL Empowers Businesses Through Full-Spectrum Software Solutions | saurabh cyberinfomines | [Read More](https://medium.com/p/d36d3f09c3a6) |
+| Fri, 23 May 2025 09:59:39 GMT | The Titan Platform: Engineering 3D Malware Visualization at Jamf | Nicholas Benyo | [Read More](https://medium.com/p/b80ac4358b1a) |
+| Fri, 23 May 2025 09:57:24 GMT | ELcazad0r-XSS: The Feature-Packed XSS Scanner with a Sleek GUI | EL_Cazad0r | [Read More](https://medium.com/p/c4db9630d26b) |
+| Fri, 23 May 2025 09:47:49 GMT | Outsmarting the Scam with A Deep Dive Into Social Engineering and How to Defend Yourself | Ahmed Deghiedy | [Read More](https://medium.com/p/05cbb457e6ce) |
 | Fri, 23 May 2025 09:20:48 GMT | The Truth About AI in Cybersecurity | E. Ibrahimi | [Read More](https://medium.com/p/ad3bc2dee255) |
 | Fri, 23 May 2025 09:18:43 GMT | Securing the AI Agent Development Lifecycle: A CISO’s Perspective for Business Leaders, AI… | Ajay Kumar | [Read More](https://medium.com/p/462d480a100f) |
 | Fri, 23 May 2025 09:18:02 GMT | Hackers Breach Scottish Ambulance Service: Ransomware Attack Under Investigation | CyBlog | [Read More](https://medium.com/p/d38196319256) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 02:31:03 GMT | Artificial Intelligence in India: State of the Art, Opportunities, and Challenges (2025) | Rajesh Mondal | [Read More](https://medium.com/p/57919b834806) |
 | Fri, 23 May 2025 02:29:58 GMT | Top Legitimate Crypto Recovery Companies You Can Trust With Your Lost Coins | Robertjoness | [Read More](https://medium.com/p/4584c833e618) |
 | Fri, 23 May 2025 02:24:07 GMT | JAuth - Writeup | Marvin | [Read More](https://medium.com/p/816e9d706089) |
-| Fri, 23 May 2025 02:15:42 GMT | Cybersecurity Is Broken in Business Schools. I Spent 6 Months Fixing It | Siddhant Nitin | [Read More](https://medium.com/p/1ce7f54d0882) |
-| Fri, 23 May 2025 02:09:43 GMT | Cross-Site Scripting [XSS] STORED (MEDIUM DVWA) | zukhruf gustdika | [Read More](https://medium.com/p/fba3401996a3) |
-| Fri, 23 May 2025 01:56:53 GMT | How can i get back my money from crypto scam_Cryptorecoveryoption | Robertjoness | [Read More](https://medium.com/p/8f9c6653ff29) |
-| Fri, 23 May 2025 01:52:52 GMT | Boost Your Splunk IP Intelligence with the Criminal IP Search Application | Criminal IP | [Read More](https://medium.com/p/3fc598a2eaf4) |
-| Fri, 23 May 2025 01:51:50 GMT | The Tech Ecosystem: A Living Network | Ibrahim Aliyu S Kamina | [Read More](https://medium.com/p/b356f21dcbde) |
-| Fri, 23 May 2025 01:51:04 GMT | Google Chrome Can Now Auto-Change Your Compromised Passwords | Cyber-AppSec | [Read More](https://medium.com/p/5f524b94b329) |
-| Fri, 23 May 2025 01:32:12 GMT | REVIEWS ON I NEED A HACKER TO RECOVER MY STOLEN USDT <CRYPTO RECOVERY OPTION | Robertjoness | [Read More](https://medium.com/p/bd9cfbb4ca0e) |
-| Fri, 23 May 2025 01:14:18 GMT | Blind SQL Injection: / Temel Kavramlar — 1 | Aras Güner | [Read More](https://medium.com/p/998589c025a9) |
-| Fri, 23 May 2025 01:13:04 GMT | The Windows Security Journey — NewCredentials | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4c947e6d3cdd) |
