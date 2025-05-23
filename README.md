@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 01:32:12 GMT | REVIEWS ON I NEED A HACKER TO RECOVER MY STOLEN USDT <CRYPTO RECOVERY OPTION | Robertjoness | [Read More](https://medium.com/p/bd9cfbb4ca0e) |
+| Fri, 23 May 2025 01:14:18 GMT | Blind SQL Injection: / Temel Kavramlar — 1 | Aras Güner | [Read More](https://medium.com/p/998589c025a9) |
+| Fri, 23 May 2025 01:13:04 GMT | The Windows Security Journey — NewCredentials | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4c947e6d3cdd) |
+| Fri, 23 May 2025 01:08:28 GMT | I will write a cybersecurity resume data science security architecture soc analyst tech | Victorfut | [Read More](https://medium.com/p/57d5fa0827f6) |
+| Fri, 23 May 2025 01:04:43 GMT | Designing and Implementing a Global Zero Trust Strategy Across Multinational Infrastructures | A-STAR7_DOCTOR | [Read More](https://medium.com/p/454d87e8324a) |
+| Fri, 23 May 2025 00:47:25 GMT | Find your bug bounty target hidden directories | loyalonlytoday | [Read More](https://medium.com/p/f132f70bafe1) |
+| Fri, 23 May 2025 00:38:57 GMT | GarnGIT: Instantly Scan Solidity Contracts for Vulnerabilities and Bug Bounty Targets | Np nate | [Read More](https://medium.com/p/9076374b70d1) |
+| Thu, 22 May 2025 23:53:22 GMT | Preserving America’s Cyber Sovereignty | Gavin M. Wax | [Read More](https://medium.com/p/7c6b28a4258a) |
+| Thu, 22 May 2025 23:50:00 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/2d1c72b82951) |
+| Thu, 22 May 2025 23:35:51 GMT | Mastering Kubernetes Deployments with YAML: A Practical Guide | Alan Lopez | [Read More](https://medium.com/p/1d84cb7e6c83) |
 | Thu, 22 May 2025 23:14:05 GMT | Life as an ISSO in Federal Contracting: Emails, Acronyms, and Eternal ATOs | Richiewilder | [Read More](https://medium.com/p/a5ab9e734dab) |
 | Thu, 22 May 2025 22:43:30 GMT | Cluster Kubernetes com Zero Trust e controle de tráfego com Calico. | Albuquerquealdry | [Read More](https://medium.com/p/97e47f15331c) |
 | Thu, 22 May 2025 22:41:51 GMT | picoCTF Writeup — Pie Time | 40Days | [Read More](https://medium.com/p/d34365b95cf0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 16:40:41 GMT | Unveiling HTTP Parameter Pollution (HPP): A Simple Explanation with a Real-Life Example | Natarajan C K | [Read More](https://medium.com/p/422dfcac7895) |
 | Thu, 22 May 2025 16:37:09 GMT | Gmail’s End-to-End Encryption… Maybe Not So End-to-End | Pablo F. Iglesias | [Read More](https://medium.com/p/fb58bb4af77b) |
 | Thu, 22 May 2025 16:35:19 GMT | The Silent Storm: Why Cybercrime’s Quiet Phase Should Scare You More Than Ever | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/ff2811fc7834) |
-| Thu, 22 May 2025 16:32:37 GMT | The Ultimate Browser Toolkit: Chrome Extensions for Hackers! | XoX | [Read More](https://medium.com/p/0b7239cb451c) |
-| Thu, 22 May 2025 16:31:37 GMT | Title: TAAM’s Cybersecurity Innovations and the Future of Infrared Self-Driving Technology | TAAMCrypto.com | [Read More](https://medium.com/p/2fbddaa6ff4b) |
-| Thu, 22 May 2025 16:29:41 GMT | FBI Takes Down LummaC2: Disrupting the Cybercriminal Ecosystem with Global Collaboration | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/188952536616) |
-| Thu, 22 May 2025 16:28:41 GMT | Android Analysis : TryHackMe | Jai Bhattachhary | [Read More](https://medium.com/p/a840db8c9ff6) |
-| Thu, 22 May 2025 16:26:12 GMT | MQTT Pentesting Guide with Hands-On Real-World Attacks in a Local Lab | Vaishali Nagori | [Read More](https://medium.com/p/1e19639fed3b) |
-| Thu, 22 May 2025 16:25:59 GMT | India’s Mobility Transition in 2025 | Sumit Chouhan | [Read More](https://medium.com/p/bb323a6dbbd5) |
-| Thu, 22 May 2025 16:21:17 GMT | Devil’s Breath, Passport Bros, and the Deadly Cost of Swiping in Medellín | Franky Arriola | [Read More](https://medium.com/p/fb65bc4017e2) |
-| Thu, 22 May 2025 16:21:00 GMT | How TryHackMe’s Pre-Security Path Helped Me Kickstart My Cybersecurity Journey | Cyber Coder | [Read More](https://medium.com/p/a99d3b9fb4fb) |
-| Thu, 22 May 2025 16:14:04 GMT | AI Security Unlocked: A Business Leader’s Guide to Training Safe AI with Guardrails | Keith Foster | [Read More](https://medium.com/p/62a4cdc4ea3e) |
-| Thu, 22 May 2025 16:09:10 GMT | Scammers or Skimmers? Neighbors or Nigeria? | Eina Schroeder | [Read More](https://medium.com/p/34638d960099) |
