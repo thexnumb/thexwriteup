@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 06:11:59 GMT | Assets And Wallet Recovery Services since 2017 - KeycheinX | KeycheinX Cryptocurrency Recovery | [Read More](https://medium.com/p/2fb9b4c1cb32) |
+| Fri, 23 May 2025 06:11:23 GMT | The Daily Tech Digest: 23 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/bc3bb45214ae) |
+| Fri, 23 May 2025 06:02:53 GMT | Search Skills | Maseera Fatima | [Read More](https://medium.com/p/1e56069bb201) |
+| Fri, 23 May 2025 06:00:43 GMT | Today’s Top Cyber Intelligence Highlights — May 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ad8fcaadd5cd) |
+| Fri, 23 May 2025 05:58:34 GMT | I Gave Myself 60 Minutes to Find a Bug — This Is What Happened | Abhijeet Kumawat | [Read More](https://medium.com/p/e5fa76563a33) |
+| Fri, 23 May 2025 05:54:45 GMT | What We Learned from Auditing $500M+ in Digital Assets | Decrypt0 | [Read More](https://medium.com/p/386ebf038ac8) |
+| Fri, 23 May 2025 05:54:28 GMT | ️‍♂️ ShadowPrompt: Unveiling the Hidden Vulnerabilities in LLMs | Talex Maxim (Taimax) | [Read More](https://medium.com/p/02899a94bb70) |
+| Fri, 23 May 2025 05:53:07 GMT | AI: Cybersecurity’s Greatest Weapon—And Biggest Threat | Faizan Ahmad | [Read More](https://medium.com/p/a37e8d50d1b3) |
+| Fri, 23 May 2025 05:51:41 GMT | What is Phishing-Resistant MFA? | Priyansha Madhwal | [Read More](https://medium.com/p/6c562f1e953e) |
+| Fri, 23 May 2025 05:51:10 GMT | The Corix Partners Friday Reading List — May 23, 2025 | JC Gaillard | [Read More](https://medium.com/p/03d89f352324) |
+| Fri, 23 May 2025 05:50:36 GMT | Microsoft Disrupts Lumma Malware Network That Infected Over 394,000 Windows PCs | Digi Web Story | [Read More](https://medium.com/p/3242ae3a8a45) |
+| Fri, 23 May 2025 05:48:46 GMT | About Me — Rayuth David Phan | Rayuth David Phan | [Read More](https://medium.com/p/e687682908bd) |
+| Fri, 23 May 2025 05:47:25 GMT | Meet Bluepill: Your Web3 Security BFF (Best Friend Forever) ✨ | Achie Patricia | [Read More](https://medium.com/p/01d4293d61f4) |
+| Fri, 23 May 2025 05:44:51 GMT | Bug Bounty VS Pentester | Nishanthan | [Read More](https://medium.com/p/4e471e126319) |
+| Fri, 23 May 2025 05:42:55 GMT | HPE Aruba Networking Central: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/78dd45de8af7) |
 | Fri, 23 May 2025 05:40:04 GMT | SmartMeta: The Best Technology Website of 2025 | Smartmeta | [Read More](https://medium.com/p/7e01ced1b40a) |
 | Fri, 23 May 2025 05:35:07 GMT | What Is Cybersecurity and Why Is It the Hottest Career in 2025? | Hyperlaunch | [Read More](https://medium.com/p/99b003e85dee) |
 | Fri, 23 May 2025 05:29:42 GMT | What are the Best Practices in Cyber Security for Online Banking. | The USA Finance Hub | [Read More](https://medium.com/p/c87c691a7ed5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 19:32:34 GMT | Serenity in a loud World: A tribute to the Quiet ones | Khadija Ben Farhat | [Read More](https://medium.com/p/797a72802aa2) |
 | Thu, 22 May 2025 19:15:30 GMT | I’m not complaining… I’m just sharing | Angëlo | [Read More](https://medium.com/p/e27b649732f4) |
 | Thu, 22 May 2025 18:59:07 GMT | Security Company in London: Trusted Security Services for Your Safety | Renceromen | [Read More](https://medium.com/p/14da1fba77b1) |
-| Thu, 22 May 2025 18:54:18 GMT | Data Sovereignty vs. Data Residency: Why the Distinction Matters More Than Ever | Juan Pablo Castro | [Read More](https://medium.com/p/ed7c18cc5e9e) |
-| Thu, 22 May 2025 18:53:42 GMT | Understanding the Scam Tactic Chain: How Scammers Think — and Why It Works | BlueBirdIntel | [Read More](https://medium.com/p/eaad08b2f620) |
-| Thu, 22 May 2025 18:48:35 GMT | The Credentials Nobody Owns | David Canellos | [Read More](https://medium.com/p/7bde90a12d6d) |
-| Thu, 22 May 2025 18:43:25 GMT | Your Antivirus Won’t Save You From This 2025 Malware | Noel | [Read More](https://medium.com/p/db88e541b9ea) |
-| Thu, 22 May 2025 18:43:08 GMT | $7,500 Bounty — XSS → RCE in Steam’s React Chat Client | Monika sharma | [Read More](https://medium.com/p/1394aaecaec4) |
-| Thu, 22 May 2025 18:41:13 GMT | Big Security: The False Promise Of Safety | Family Forever Solutions | [Read More](https://medium.com/p/14ed3e55fd7e) |
-| Thu, 22 May 2025 18:39:46 GMT | Why Your Business Needs Expert Cisco Support in 2025 | IT_Engineer | [Read More](https://medium.com/p/d5a87c103cdc) |
-| Thu, 22 May 2025 18:39:24 GMT | Case Study #01: How Combining XSS and Misconfigured Cookies Led to Session Hijacking | Jakub Święs | [Read More](https://medium.com/p/b031d7426e2f) |
-| Thu, 22 May 2025 18:32:33 GMT | “Free VPNs Are Free for a Reason — Here’s What You’re Actually Giving Up” | Vexpoltech | [Read More](https://medium.com/p/8e12d00082d4) |
-| Thu, 22 May 2025 18:32:33 GMT | Common WordPress Permissions Mistakes That Hackers Exploit | Shubradeb | [Read More](https://medium.com/p/16665e92b153) |
-| Thu, 22 May 2025 18:30:54 GMT | Proving Grounds Play: Dawn Walkthrough | Ancava | [Read More](https://medium.com/p/df8a54b803fb) |
-| Thu, 22 May 2025 18:25:12 GMT | Cheyanne Mallas: Building the Future of Secure Digital Transformation | Cheyannemallaspa | [Read More](https://medium.com/p/f9208d3203ce) |
-| Thu, 22 May 2025 18:24:40 GMT | EvilUSB PIN Brute-Force Tool Using Digispark | Im0nk3yar0und | [Read More](https://medium.com/p/d33be808ab28) |
-| Thu, 22 May 2025 18:23:42 GMT | Apple is definitely gearing up for an iPhone Ultra | Osama Khan | [Read More](https://medium.com/p/67cd9ca31e5a) |
-| Thu, 22 May 2025 18:16:52 GMT | Splunk 3, Task 5 : TryHackMe Walkthrough - Security Operations, AWS Incident Response with Splunk | RosanaFSS | [Read More](https://medium.com/p/b9e088df36f0) |
