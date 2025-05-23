@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 07:37:54 GMT | “In Defence Of A Cigarette: What Smoking Taught Me About Human Connection | gingerale | [Read More](https://medium.com/p/78e0bd5c0eef) |
+| Fri, 23 May 2025 07:30:19 GMT | Cloudgoat Sns_Secrets Walkthrough (Manual) | innervision | [Read More](https://medium.com/p/a52115f85e8b) |
+| Fri, 23 May 2025 07:28:00 GMT | Securing Kubernetes cluster with Mondoo Operator | Infralovers GmbH | [Read More](https://medium.com/p/1340fc0f43a3) |
+| Fri, 23 May 2025 07:18:35 GMT | Is Indian Tech Following NASDAQ Too Closely? | Jaideep Banerjee | [Read More](https://medium.com/p/8f7be085ece8) |
+| Fri, 23 May 2025 07:14:03 GMT | ✍Global Multifactor Authentication Market Size, Share, Industry Insights, Trends, Outlook… | Pennypackerjasminek | [Read More](https://medium.com/p/5f91cc28ba6e) |
 | Fri, 23 May 2025 07:07:38 GMT | “He wasn’t rich. | Avani | [Read More](https://medium.com/p/5fd690cea502) |
 | Fri, 23 May 2025 07:05:12 GMT | Master Red Teaming with Hackersprey Cybersecurity course in Chandigarh | HackersPrey | [Read More](https://medium.com/p/cd506f521611) |
 | Fri, 23 May 2025 07:01:27 GMT | YARA Rule Writing and Real-Time Malware Hunting | Esra Kayhan | [Read More](https://medium.com/p/e668585cced8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 May 2025 21:16:40 GMT | Can I stop/block strangers speaking to my child and just allow friends on online games? | Savvy Cyber Kids | [Read More](https://medium.com/p/b8b10444a6a0) |
 | Thu, 22 May 2025 21:15:09 GMT | Unlocking Hidden Web Paths: How Ethical Hackers Use xnLinkFinder to Discover Easy Bugs | Chintala Taraka Ram | [Read More](https://medium.com/p/aae02c8716b9) |
 | Thu, 22 May 2025 21:14:58 GMT | The Pros and Cons of Sharing Your Online Passwords | Savvy Cyber Kids | [Read More](https://medium.com/p/485cd5f14519) |
-| Thu, 22 May 2025 21:14:35 GMT | Cookies Aren’t Just Snacks! | Your's Nightmare | [Read More](https://medium.com/p/d1ef1b851314) |
-| Thu, 22 May 2025 21:13:04 GMT | Downloaded a Fake App? Your Data’s Already Gone! | Your's Nightmare | [Read More](https://medium.com/p/e101a47d297b) |
-| Thu, 22 May 2025 21:12:50 GMT | AI in the Wrong Hands And We’re Not Prepared! | Your's Nightmare | [Read More](https://medium.com/p/b3498c8b6c9b) |
-| Thu, 22 May 2025 21:06:25 GMT | Don’t Be an Easy Target: 10 Home Security Mistakes I Realized We’re All Probably Making (Even in… | B Painex | [Read More](https://medium.com/p/2c6b3bf6f4ef) |
-| Thu, 22 May 2025 20:54:48 GMT | How to train employees on cybersecurity _ even if they are not tech savvy | fatima shahbaz | [Read More](https://medium.com/p/9d44579fa6d3) |
