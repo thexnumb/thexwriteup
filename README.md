@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 14:10:37 GMT | Why I Chose Sabaragamuwa University of Sri Lanka for My IT Studies | Dilshaavp | [Read More](https://medium.com/p/8f577a69cbab) |
+| Fri, 23 May 2025 14:05:14 GMT | Automated Risk Response | Presslink Media | [Read More](https://medium.com/p/1b19f85606b7) |
+| Fri, 23 May 2025 14:00:35 GMT | Cyber Briefing: 2025.05.23 | CyberMaterial | [Read More](https://medium.com/p/71eda6480c85) |
+| Fri, 23 May 2025 13:52:34 GMT | DanaBot Dismantled: How a Russian Malware Empire Crashed and Burned | Shaheer Yasir | [Read More](https://medium.com/p/f658c578cb05) |
+| Fri, 23 May 2025 13:52:33 GMT | Normes de consentements, ISO 27560 et ISO 29184 | Patrick Boucher | [Read More](https://medium.com/p/28d4955a0c51) |
+| Fri, 23 May 2025 13:48:18 GMT | Is Your Business Ready for the Next Wave of Cyber Threats? | Century Solutions Group | [Read More](https://medium.com/p/a299524b7f1f) |
+| Fri, 23 May 2025 13:36:41 GMT | The Screenshot Trap: Protecting Sensitive Info Daily | Hitesh Said | [Read More](https://medium.com/p/1ec367b06505) |
+| Fri, 23 May 2025 13:27:42 GMT | APT28 in the Snare - Tryhackme | Aaron | [Read More](https://medium.com/p/2cb8a0361eea) |
+| Fri, 23 May 2025 13:27:31 GMT | Building a soc Lab at Home (PART 1) | Linusobura | [Read More](https://medium.com/p/a638dec56f26) |
+| Fri, 23 May 2025 13:26:47 GMT | Securing Tenant Isolation in a Multi-Tenant Application | SW-Muriu | [Read More](https://medium.com/p/766f90a112dd) |
+| Fri, 23 May 2025 13:26:47 GMT | What You Need to Know About Cybersecurity | Ed-it Editions | [Read More](https://medium.com/p/e88546e256ab) |
 | Fri, 23 May 2025 13:17:20 GMT | Does the EU AI Act Apply to “Old” AI Systems? | Danish | [Read More](https://medium.com/p/a1e4e6995af1) |
 | Fri, 23 May 2025 13:16:33 GMT | The tiny GRC gap that nearly cost one company their entire audit | A D | [Read More](https://medium.com/p/871a685508d9) |
 | Fri, 23 May 2025 13:14:55 GMT | How Security Companies in Thane Adapt to Modern Threats | united guard | [Read More](https://medium.com/p/a9bf0c823e87) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 07:42:34 GMT | MITRE Technique and Detection Opportunities — NSIS Abuse and sRDI Shellcode: Anatomy of the Winos 4. | MITRE Doggy | [Read More](https://medium.com/p/36da16d904b5) |
 | Fri, 23 May 2025 07:38:29 GMT | You’ve Already Lost the AI War — You Just Haven’t Noticed Yet | Ronnie Huss | [Read More](https://medium.com/p/8699d78deae7) |
 | Fri, 23 May 2025 07:37:54 GMT | “In Defence Of A Cigarette: What Smoking Taught Me About Human Connection | gingerale | [Read More](https://medium.com/p/78e0bd5c0eef) |
-| Fri, 23 May 2025 07:36:55 GMT | OWASP Pentest Series (4/12) | TheZeeshanKhan | [Read More](https://medium.com/p/8ef2c38d4872) |
-| Fri, 23 May 2025 07:30:19 GMT | Cloudgoat Sns_Secrets Walkthrough (Manual) | innervision | [Read More](https://medium.com/p/a52115f85e8b) |
-| Fri, 23 May 2025 07:30:09 GMT | CVE-2024–0133 — Reflected XSS in Palo Alto Global Protect VPN: What You Need to Know | Infoziant | [Read More](https://medium.com/p/ae8948c25e4c) |
-| Fri, 23 May 2025 07:28:00 GMT | Securing Kubernetes cluster with Mondoo Operator | Infralovers GmbH | [Read More](https://medium.com/p/1340fc0f43a3) |
-| Fri, 23 May 2025 07:18:35 GMT | Is Indian Tech Following NASDAQ Too Closely? | Jaideep Banerjee | [Read More](https://medium.com/p/8f7be085ece8) |
-| Fri, 23 May 2025 07:14:03 GMT | ✍Global Multifactor Authentication Market Size, Share, Industry Insights, Trends, Outlook… | Pennypackerjasminek | [Read More](https://medium.com/p/5f91cc28ba6e) |
-| Fri, 23 May 2025 07:07:38 GMT | “He wasn’t rich. | Avani | [Read More](https://medium.com/p/5fd690cea502) |
-| Fri, 23 May 2025 07:05:12 GMT | Master Red Teaming with Hackersprey Cybersecurity course in Chandigarh | HackersPrey | [Read More](https://medium.com/p/cd506f521611) |
-| Fri, 23 May 2025 07:01:27 GMT | YARA Rule Writing and Real-Time Malware Hunting | Esra Kayhan | [Read More](https://medium.com/p/e668585cced8) |
-| Fri, 23 May 2025 07:01:24 GMT | Introduction To 6 Weeks Cybersecurity Industrial Training in Chandigarh | HackersPrey | [Read More](https://medium.com/p/d59831f01814) |
-| Fri, 23 May 2025 06:58:34 GMT | How writers and robots collaborate to produce great stories | Trendlooms | [Read More](https://medium.com/p/4b780a8e916b) |
