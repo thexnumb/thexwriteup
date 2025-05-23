@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 May 2025 10:36:43 GMT | How to Build a Real-Time Event Announcement System using AWS SNS, Lambda, and API Gateway | Akuphe Dieudonne | [Read More](https://medium.com/p/5a7a3563a74e) |
+| Fri, 23 May 2025 10:35:45 GMT | 10 K8s Secret Management Mistakes You’re Probably Making | Devops Trainer | [Read More](https://medium.com/p/d702c478fb9c) |
+| Fri, 23 May 2025 10:26:33 GMT | “I’m Fine” - The World’s Most Common Lie | Cat Milton | [Read More](https://medium.com/p/3b957c08134e) |
+| Fri, 23 May 2025 10:24:13 GMT | Toobit’s Low-Fee Advantage: Find Out Why Traders Are Switching in 2025 | Toobit | [Read More](https://medium.com/p/b0273e6490f7) |
+| Fri, 23 May 2025 10:12:34 GMT | E2E-Chat: Secure Peer-to-Peer Messaging with WebRTC | Sidharth | [Read More](https://medium.com/p/d48e86515571) |
 | Fri, 23 May 2025 10:10:32 GMT | Password Hashing and Cracking: The Digital Locks We Rely On | Kuldeepkumawat | [Read More](https://medium.com/p/bea05ced5a38) |
 | Fri, 23 May 2025 10:08:32 GMT | Current Cyber Threats: Why Cybersecurity Courses Are Essential for 2025! | Adhvaidh | [Read More](https://medium.com/p/1a000412fa2c) |
+| Fri, 23 May 2025 10:08:24 GMT | APPRAISAL OF THE CHIPS SECURITY BILL(ACT) | Majoyeogbe Boluwatife | [Read More](https://medium.com/p/2df79745daaf) |
 | Fri, 23 May 2025 10:03:23 GMT | Inside the WiFi Pineapple: Ethical Hacking and Wireless Surveillance | Nanda Siddhardha | [Read More](https://medium.com/p/a924889223aa) |
 | Fri, 23 May 2025 10:02:36 GMT | Energy Footprint of PQC Key Generation | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/92a3d733d76f) |
 | Fri, 23 May 2025 10:02:28 GMT | Legacy Code, Future Problems: Why We Still Need to Understand Outdated Tech | Franziska "Ziska" Fink | [Read More](https://medium.com/p/e77ce81d3d32) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 03:29:27 GMT | The Forgotten FirewallA Somali-American’s Call to Secure Somalia’s Digital Future | MOHAMUD ALI | [Read More](https://medium.com/p/3b6aa08549a8) |
 | Fri, 23 May 2025 03:22:21 GMT | “I logged into a random account… and ended up accessing the entire database!”. [SQL injection] | Altayeb Salim | [Read More](https://medium.com/p/5fce034ea456) |
 | Fri, 23 May 2025 03:01:37 GMT | Assessment Methodologies: Enumeration CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/d33595c3d91a) |
-| Fri, 23 May 2025 02:50:42 GMT | ️ Análise de PDF Malicioso — Parte 1 | Jonathan M. | [Read More](https://medium.com/p/3098f5fb6688) |
-| Fri, 23 May 2025 02:50:11 GMT | Why Your Phone Number Is the New Social Security Number (And Why That’s Risky) | Abijita Foundation | [Read More](https://medium.com/p/fb0f51834f1d) |
-| Fri, 23 May 2025 02:45:44 GMT | Security and Privacy Analysis Report: Remote for Windows Application | chokri hammedi | [Read More](https://medium.com/p/9ca75751d966) |
-| Fri, 23 May 2025 02:31:03 GMT | Artificial Intelligence in India: State of the Art, Opportunities, and Challenges (2025) | Rajesh Mondal | [Read More](https://medium.com/p/57919b834806) |
-| Fri, 23 May 2025 02:29:58 GMT | Top Legitimate Crypto Recovery Companies You Can Trust With Your Lost Coins | Robertjoness | [Read More](https://medium.com/p/4584c833e618) |
-| Fri, 23 May 2025 02:24:07 GMT | JAuth - Writeup | Marvin | [Read More](https://medium.com/p/816e9d706089) |
