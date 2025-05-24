@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 07:13:08 GMT | How Bug Bounties & VAPT Coexist for Web3 Projects | Decrypt0 | [Read More](https://medium.com/p/5e22cf7ad209) |
+| Sat, 24 May 2025 07:12:07 GMT | Is It possible To Recover My Money From Easycrypto4u.com? | Eva Tearle | [Read More](https://medium.com/p/67e4172a1596) |
+| Sat, 24 May 2025 07:11:27 GMT | The Future of Cyber Security in 2025: A Looming Threat | Eleanor Watson | [Read More](https://medium.com/p/3c3b41deef53) |
+| Sat, 24 May 2025 07:08:24 GMT | The Role of Continuous Training and Development in Cybersecurity Sales Success by Sales… | John Almond | [Read More](https://medium.com/p/8df4f74aad1f) |
+| Sat, 24 May 2025 07:08:17 GMT | Here’s How I Recover My Money From Easycrypto4u.com | Eva Tearle | [Read More](https://medium.com/p/5cc37ceed34a) |
+| Sat, 24 May 2025 06:58:20 GMT | Understanding Operating Systems and Their Role in Modern Banking | Chandrachud Sahi | [Read More](https://medium.com/p/7f896d5e5d99) |
+| Sat, 24 May 2025 06:52:40 GMT | I’m Not a Daddy’s Girl. I’m My Husband’s Problem. | Govindaraju Ramya | [Read More](https://medium.com/p/24d5725378a8) |
+| Sat, 24 May 2025 06:52:33 GMT | I Unlocked Gemini Advanced Till 2025 Using a Temporary .EDU | Aditya sunny | [Read More](https://medium.com/p/16c98e4cfabb) |
+| Sat, 24 May 2025 06:42:32 GMT | Manus AI HACK: Broken Code Reveals the Explosive Truth Behind “Autonomous” AI! | ParlonsIA | [Read More](https://medium.com/p/31c284144cf3) |
 | Sat, 24 May 2025 06:35:47 GMT | Day 5: Safe, Even If He Leaves | The Stillness Between Notes | [Read More](https://medium.com/p/44980a470df0) |
 | Sat, 24 May 2025 06:20:21 GMT | Revolutionizing Security: The Power of Biometric Access Control Systems in UAE | Tekhabeeb | [Read More](https://medium.com/p/443e81614f0b) |
 | Sat, 24 May 2025 06:12:28 GMT | Agent T TryHackMe Walkthrough | Regan Temudo | [Read More](https://medium.com/p/0bdb54e5ae9f) |
@@ -104,12 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 19:54:19 GMT | Airplane Walkthrough (Tryhackme) | Hunyejohn | [Read More](https://medium.com/p/ce5482f8aabf) |
 | Fri, 23 May 2025 19:49:14 GMT | HackTheBox -Fawn | Fabian Kolb | [Read More](https://medium.com/p/318780f52362) |
 | Fri, 23 May 2025 19:47:29 GMT | How an IP Survives the AWS Jungle (VPC, Security Groups & NACLs Explained) — Part 3 | Malik Ahmad | [Read More](https://medium.com/p/77e4737f0264) |
-| Fri, 23 May 2025 19:46:11 GMT | How to Audit a Linux or Ubuntu Server Like a Security Consultant | Faruk Ahmed | [Read More](https://medium.com/p/39029092a96a) |
-| Fri, 23 May 2025 19:40:02 GMT | Are We All Really Secure ? | Man Of Truth | [Read More](https://medium.com/p/8095fc1d3edb) |
-| Fri, 23 May 2025 19:22:16 GMT | Facebook’s 1.2 Billion-Record Data Leak Raises Alarms | One Minute Data | [Read More](https://medium.com/p/8d0633dca08f) |
-| Fri, 23 May 2025 19:02:24 GMT | Grounded: How Legacy Tech and a Lack of Cybersecurity Sent Newark Air Travel Spiraling | Cyber Kavy | [Read More](https://medium.com/p/38a551f988ea) |
-| Fri, 23 May 2025 18:59:47 GMT | APT28 in the Snare : TryHackMe Walkthrough - Blue Team - Advanced Persistent Threats, APTs | RosanaFSS | [Read More](https://medium.com/p/ca5b1eafcb29) |
-| Fri, 23 May 2025 18:50:37 GMT | Life, Balance, and the Mess In Between | Ivy Nguyen | [Read More](https://medium.com/p/f2740dd5a67d) |
-| Fri, 23 May 2025 18:47:33 GMT | How Middleware Solves DORA’s Risk Mandate | Liam | [Read More](https://medium.com/p/208ca67cb30c) |
-| Fri, 23 May 2025 18:44:28 GMT | E2E-Chat: Secure Peer-to-Peer Messaging and File Sharing with WebRTC | Sidharth | [Read More](https://medium.com/p/ca86192b7187) |
-| Fri, 23 May 2025 18:43:03 GMT | # ️ Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/928074df8007) |
