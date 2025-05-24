@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 04:32:27 GMT | Stop Scrolling: Pahami Tentang Cybersecurity Untuk Lindungi Data Pribadi | Flori Lestari | [Read More](https://medium.com/p/5c00ddc08678) |
+| Sat, 24 May 2025 04:16:52 GMT | Cybersecurity on Screen: Top TV Series That Expose the Digital Underworld | MITRE Doggy | [Read More](https://medium.com/p/784dd490183a) |
 | Sat, 24 May 2025 04:02:12 GMT | Variables in Java♨ | Hari | [Read More](https://medium.com/p/53effdff8ef6) |
 | Sat, 24 May 2025 03:44:50 GMT | I Found Me Where Love Waits | Kehinde Margret Makinde | [Read More](https://medium.com/p/3bfaa73b5ef4) |
 | Sat, 24 May 2025 03:43:07 GMT | Secure and Streamline Snowflake Automation with Personal Access Tokens (PAT) | Kamesh Sampath | [Read More](https://medium.com/p/efa695183621) |
@@ -111,5 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 17:21:37 GMT | How I Installed Burp Suite Professional on Kali Linux Step-by-Step Guide(Free Method) | Mr Vivek keshri | [Read More](https://medium.com/p/f426cbd1c08d) |
 | Fri, 23 May 2025 17:18:18 GMT | Hashing dalam Python | fijrisalwa | [Read More](https://medium.com/p/b9963175f38c) |
 | Fri, 23 May 2025 17:18:17 GMT | Microsoft Patched It, But Hackers Didn’t Care — Inside CVE-2025–24054 | Hantz Jermain | [Read More](https://medium.com/p/23db9cba5cac) |
-| Fri, 23 May 2025 17:17:20 GMT | HackTheBox - Meow | Fabian Kolb | [Read More](https://medium.com/p/c0193ae8e1ab) |
-| Fri, 23 May 2025 17:11:12 GMT | How to Ruin a Web App in 3 Clicks | Derick Johnson | [Read More](https://medium.com/p/98d5b01b5543) |
