@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 13:20:03 GMT | Cyber Safety in the Digital Age: Stay One Step Ahead of Online Threats | GDG on Campus MET | [Read More](https://medium.com/p/274aa7488483) |
+| Sat, 24 May 2025 13:07:49 GMT | Next.js 15.3 Authentication & Authorization: Mastering Middleware for Secure Access Control | Samad Saiyed | [Read More](https://medium.com/p/e8ac149a8682) |
+| Sat, 24 May 2025 13:02:29 GMT | The Silent Thief: How to Defend Against the Infostealer Surge in 2024–2025 | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d7b83ec69673) |
+| Sat, 24 May 2025 13:00:33 GMT | The Future of Enterprise Security: Why Zero Trust Architecture Is No Longer Optional | saurabh cyberinfomines | [Read More](https://medium.com/p/908efca66e03) |
+| Sat, 24 May 2025 12:51:44 GMT | TryHackMe: Brains — Walkthrough | CyberQuestor | [Read More](https://medium.com/p/416e0452b451) |
+| Sat, 24 May 2025 12:45:44 GMT | How to Secure Firebase Services (eg: Remote Config) from Unauthorized Access in Android Apps | Mostafasarwar | [Read More](https://medium.com/p/c1a5929585ed) |
+| Sat, 24 May 2025 12:40:37 GMT | MALWARE | Igor Berner | [Read More](https://medium.com/p/ad836ac339b0) |
+| Sat, 24 May 2025 12:39:15 GMT | n0s4n1ty Pico-CTF | Piyawut Buncharoen | [Read More](https://medium.com/p/f7b3ba6b357c) |
+| Sat, 24 May 2025 12:34:07 GMT | Short stories from work: Libby | Loose Junk | [Read More](https://medium.com/p/b49134ef223a) |
 | Sat, 24 May 2025 12:32:25 GMT | Why do we use Level 4 Load Balancers? | Madhu Kiran Ravula | [Read More](https://medium.com/p/0232d4d07892) |
+| Sat, 24 May 2025 12:29:56 GMT | Part 6— How I Run My Entire Digital Life on a Raspberry Pi: Breaking Free from Big Cloud and… | Levente Csikor | [Read More](https://medium.com/p/471764a074bb) |
 | Sat, 24 May 2025 12:29:42 GMT | LetsDefend — ProcDump Challenge | Nicolas Tan | [Read More](https://medium.com/p/5f06b797a08a) |
 | Sat, 24 May 2025 12:29:32 GMT | How Hard-Coded Credentials in a Publicly Accessible Config File Led to a $350 HackerOne Payout | Samirul Haque | [Read More](https://medium.com/p/c825274cd332) |
 | Sat, 24 May 2025 12:27:38 GMT | “Phantom’s Labyrinth” Web Challenge in EGCTF2025 Qualifications By EGCERT | Muhammad Saady | [Read More](https://medium.com/p/8f6379318aef) |
@@ -103,13 +113,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 06:20:21 GMT | Revolutionizing Security: The Power of Biometric Access Control Systems in UAE | Tekhabeeb | [Read More](https://medium.com/p/443e81614f0b) |
 | Sat, 24 May 2025 06:12:28 GMT | Agent T TryHackMe Walkthrough | Regan Temudo | [Read More](https://medium.com/p/0bdb54e5ae9f) |
 | Sat, 24 May 2025 06:07:50 GMT | The Rise of Nation-State Hackers: GRU’s Unit 26165 in the Spotlight | Md Samiul Islam | [Read More](https://medium.com/p/8ef96fde933a) |
-| Sat, 24 May 2025 06:04:19 GMT | Top 5 Game-Changing IT Tools for 2025 | Hari Babu Dornala | [Read More](https://medium.com/p/f4090997d58f) |
-| Sat, 24 May 2025 06:01:51 GMT | Playfair Cipher — A Beginner’s Guide | Devansh  Kushwaha | [Read More](https://medium.com/p/53baf0ddc0f1) |
-| Sat, 24 May 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — May 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/30fc6c343f5f) |
-| Sat, 24 May 2025 05:52:47 GMT | The value and the meaning | riotaro okada | [Read More](https://medium.com/p/c2c53d1cae28) |
-| Sat, 24 May 2025 05:50:36 GMT | CIA — Wait What?! | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/aa12edfc966c) |
-| Sat, 24 May 2025 05:45:17 GMT | Escalating impact: Full Account Takeover via Stored XSS | Raj Ukani | [Read More](https://medium.com/p/24e5aee209f6) |
-| Sat, 24 May 2025 05:41:17 GMT | The Perfect Weapon — David Sanger | seantywork | [Read More](https://medium.com/p/e061780c2c12) |
-| Sat, 24 May 2025 05:40:34 GMT | FOFA Dorking - Part4 | AbhirupKonwar | [Read More](https://medium.com/p/7d0a09995407) |
-| Sat, 24 May 2025 05:22:43 GMT | Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way | Kailasv | [Read More](https://medium.com/p/614aba550f7b) |
-| Sat, 24 May 2025 05:21:44 GMT | He found me tired and unsure and somehow he stayed. | li⋆ ۪ | [Read More](https://medium.com/p/03445532cd43) |
