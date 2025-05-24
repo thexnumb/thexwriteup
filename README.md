@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 05:06:07 GMT | The $260M Cetus Protocol Hack: Anatomy of a DeFi Disaster | Tushar Sengar | [Read More](https://medium.com/p/d29ee0596ddb) |
+| Sat, 24 May 2025 04:52:28 GMT | API Key Setup for OpenAI, Groq, and Langsmith in Your Projects | Vamshi Krishna Ginna | [Read More](https://medium.com/p/edf745e9507c) |
+| Sat, 24 May 2025 04:47:24 GMT | Tool Fatigue: Cybersecurity’s Dirty Secret | JC Gaillard | [Read More](https://medium.com/p/780f32770e1c) |
 | Sat, 24 May 2025 04:32:27 GMT | Stop Scrolling: Pahami Tentang Cybersecurity Untuk Lindungi Data Pribadi | Flori Lestari | [Read More](https://medium.com/p/5c00ddc08678) |
 | Sat, 24 May 2025 04:16:52 GMT | Cybersecurity on Screen: Top TV Series That Expose the Digital Underworld | MITRE Doggy | [Read More](https://medium.com/p/784dd490183a) |
 | Sat, 24 May 2025 04:02:12 GMT | Variables in Java♨ | Hari | [Read More](https://medium.com/p/53effdff8ef6) |
@@ -110,6 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 17:27:47 GMT | HTB Write-up: UnderPass (Easy) | Ivanahm | [Read More](https://medium.com/p/01e42a5aeb1a) |
 | Fri, 23 May 2025 17:24:37 GMT | Lockheed Martin and IBM Pioneer Quantum-Classical Hybrid Computing for Complex Molecular… | QuantumGenie | [Read More](https://medium.com/p/a6ae35dcc968) |
 | Fri, 23 May 2025 17:22:03 GMT | How to Spot a Phishing Link: Tips to Keep You Safe | Xaltius | [Read More](https://medium.com/p/68ddb5043a56) |
-| Fri, 23 May 2025 17:21:37 GMT | How I Installed Burp Suite Professional on Kali Linux Step-by-Step Guide(Free Method) | Mr Vivek keshri | [Read More](https://medium.com/p/f426cbd1c08d) |
-| Fri, 23 May 2025 17:18:18 GMT | Hashing dalam Python | fijrisalwa | [Read More](https://medium.com/p/b9963175f38c) |
-| Fri, 23 May 2025 17:18:17 GMT | Microsoft Patched It, But Hackers Didn’t Care — Inside CVE-2025–24054 | Hantz Jermain | [Read More](https://medium.com/p/23db9cba5cac) |
