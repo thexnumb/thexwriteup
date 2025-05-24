@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 06:35:47 GMT | Day 5: Safe, Even If He Leaves | The Stillness Between Notes | [Read More](https://medium.com/p/44980a470df0) |
 | Sat, 24 May 2025 06:20:21 GMT | Revolutionizing Security: The Power of Biometric Access Control Systems in UAE | Tekhabeeb | [Read More](https://medium.com/p/443e81614f0b) |
 | Sat, 24 May 2025 06:12:28 GMT | Agent T TryHackMe Walkthrough | Regan Temudo | [Read More](https://medium.com/p/0bdb54e5ae9f) |
 | Sat, 24 May 2025 06:07:50 GMT | The Rise of Nation-State Hackers: GRU’s Unit 26165 in the Spotlight | Md Samiul Islam | [Read More](https://medium.com/p/8ef96fde933a) |
@@ -112,4 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 18:47:33 GMT | How Middleware Solves DORA’s Risk Mandate | Liam | [Read More](https://medium.com/p/208ca67cb30c) |
 | Fri, 23 May 2025 18:44:28 GMT | E2E-Chat: Secure Peer-to-Peer Messaging and File Sharing with WebRTC | Sidharth | [Read More](https://medium.com/p/ca86192b7187) |
 | Fri, 23 May 2025 18:43:03 GMT | # ️ Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/928074df8007) |
-| Fri, 23 May 2025 18:38:02 GMT | SkyArk: Hunting Cloud Shadow Admins in AWS and Azure | Tharindu Damith | [Read More](https://medium.com/p/d25ad2a0aff4) |
