@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 12:32:25 GMT | Why do we use Level 4 Load Balancers? | Madhu Kiran Ravula | [Read More](https://medium.com/p/0232d4d07892) |
+| Sat, 24 May 2025 12:29:42 GMT | LetsDefend — ProcDump Challenge | Nicolas Tan | [Read More](https://medium.com/p/5f06b797a08a) |
+| Sat, 24 May 2025 12:29:32 GMT | How Hard-Coded Credentials in a Publicly Accessible Config File Led to a $350 HackerOne Payout | Samirul Haque | [Read More](https://medium.com/p/c825274cd332) |
+| Sat, 24 May 2025 12:27:38 GMT | “Phantom’s Labyrinth” Web Challenge in EGCTF2025 Qualifications By EGCERT | Muhammad Saady | [Read More](https://medium.com/p/8f6379318aef) |
+| Sat, 24 May 2025 12:20:18 GMT | Security by Design: Moving Beyond Patches to Proactive Protection | Vivian Aranha | [Read More](https://medium.com/p/e64192ecec92) |
+| Sat, 24 May 2025 12:12:20 GMT | How to Perform Dynamic Testing for Basic SSRF Vulnerabilities Using Burp Suite — Step-by-Step… | Zoningxtr | [Read More](https://medium.com/p/22bee524cd21) |
+| Sat, 24 May 2025 12:10:10 GMT | Beyond the Hacker Stereotype: Exploring Different Jobs in Cybersecurity | Ait Laaguidi Yassine | [Read More](https://medium.com/p/db060e0ba2cb) |
+| Sat, 24 May 2025 12:04:34 GMT | Understanding Basic SSRF: How Visible Server Responses Can Leak Your Internal Secrets | Zoningxtr | [Read More](https://medium.com/p/444326d8c870) |
+| Sat, 24 May 2025 12:00:47 GMT | Why Security Guard Services Matter in Digital Age | United Guard Force India | [Read More](https://medium.com/p/6b207890d8c0) |
+| Sat, 24 May 2025 11:53:20 GMT | Hire a Hacker to Recover an Account | Hackers World | [Read More](https://medium.com/p/8667c6ab1384) |
+| Sat, 24 May 2025 11:46:21 GMT | Designing the Future of Cybersecurity: The Rise of AI-Driven Threat Intelligence Fusion Centers | A-STAR7_DOCTOR | [Read More](https://medium.com/p/f43fae5d51b0) |
+| Sat, 24 May 2025 11:42:10 GMT | DNS Footprinting: Essential Reconnaissance for Proactive Cybersecurity | Adhvaidh | [Read More](https://medium.com/p/32ad6c728d6c) |
+| Sat, 24 May 2025 11:40:22 GMT | Secrets in Docker: What You’re Doing Wrong | Devops Trainer | [Read More](https://medium.com/p/4db5514dbcdc) |
+| Sat, 24 May 2025 11:38:59 GMT | Title: How I Got My First NASA Hall of Fame Acknowledgment as a Bug Hunter | Bitex aka Karan Vaniya | [Read More](https://medium.com/p/1adb048abc6c) |
 | Sat, 24 May 2025 11:33:20 GMT | $1,500 Bounty for Critical Token Leak Leading to RCE in Mozilla’s Netlify Account | Monika sharma | [Read More](https://medium.com/p/1d32ca5938a8) |
 | Sat, 24 May 2025 11:29:53 GMT | Implementasi DevSecOps untuk Peningkatan Keamanan Container Image di Harbor menggunakan Distroless… | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/97d8f1c3473f) |
 | Sat, 24 May 2025 11:28:23 GMT | 5 Easy Ways to Make Money from Home Using Artificial Intelligence:
@@ -99,17 +113,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 05:40:34 GMT | FOFA Dorking - Part4 | AbhirupKonwar | [Read More](https://medium.com/p/7d0a09995407) |
 | Sat, 24 May 2025 05:22:43 GMT | Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way | Kailasv | [Read More](https://medium.com/p/614aba550f7b) |
 | Sat, 24 May 2025 05:21:44 GMT | He found me tired and unsure and somehow he stayed. | li⋆ ۪ | [Read More](https://medium.com/p/03445532cd43) |
-| Sat, 24 May 2025 05:18:50 GMT | How to Build a Tech Portfolio That Actually Gets You Hired in 2025 | Prism HRC | [Read More](https://medium.com/p/2a4e4ee3d7aa) |
-| Sat, 24 May 2025 05:15:57 GMT | Top 10 CVEs of May 2025: Score, Proof of Concept Availability, and Recommended Actions | Rajesh Mondal | [Read More](https://medium.com/p/7c7eadb82ff5) |
-| Sat, 24 May 2025 05:09:44 GMT | I Want to Research the Future of Data Transfer Speeds—Here’s Why It’s More Important Than Ever | Avani Bhoot | [Read More](https://medium.com/p/802c49b6ab3d) |
-| Sat, 24 May 2025 05:06:07 GMT | The $260M Cetus Protocol Hack: Anatomy of a DeFi Disaster | Tushar Sengar | [Read More](https://medium.com/p/d29ee0596ddb) |
-| Sat, 24 May 2025 04:52:28 GMT | API Key Setup for OpenAI, Groq, and Langsmith in Your Projects | Vamshi Krishna Ginna | [Read More](https://medium.com/p/edf745e9507c) |
-| Sat, 24 May 2025 04:47:24 GMT | Tool Fatigue: Cybersecurity’s Dirty Secret | JC Gaillard | [Read More](https://medium.com/p/780f32770e1c) |
-| Sat, 24 May 2025 04:32:27 GMT | Stop Scrolling: Pahami Tentang Cybersecurity Untuk Lindungi Data Pribadi | Flori Lestari | [Read More](https://medium.com/p/5c00ddc08678) |
-| Sat, 24 May 2025 04:16:52 GMT | Cybersecurity on Screen: Top TV Series That Expose the Digital Underworld | MITRE Doggy | [Read More](https://medium.com/p/784dd490183a) |
-| Sat, 24 May 2025 04:02:12 GMT | Variables in Java♨ | Hari | [Read More](https://medium.com/p/53effdff8ef6) |
-| Sat, 24 May 2025 03:44:50 GMT | I Found Me Where Love Waits | Kehinde Margret Makinde | [Read More](https://medium.com/p/3bfaa73b5ef4) |
-| Sat, 24 May 2025 03:43:07 GMT | Secure and Streamline Snowflake Automation with Personal Access Tokens (PAT) | Kamesh Sampath | [Read More](https://medium.com/p/efa695183621) |
-| Sat, 24 May 2025 03:33:35 GMT | Voices of Deception: | Quentin Wallace | [Read More](https://medium.com/p/5fe8dec0254f) |
-| Sat, 24 May 2025 03:31:27 GMT | ClickFix Captcha: The Ingenious Social Engineering Tactic Exploiting User Trust | Deven Chhajed | [Read More](https://medium.com/p/279e70152845) |
-| Sat, 24 May 2025 03:26:29 GMT | Welcome to My Medium: Your Gateway to the Latest on Tech, AI, and Cybersecurity | Dez Blanchfield | [Read More](https://medium.com/p/eecb9c5bd3de) |
