@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 17:05:50 GMT | Race Conditions: The Silent Exploit That Can Break Systems (and Earn Bounties) | 127.0.0.1 | [Read More](https://medium.com/p/a35e7677c96a) |
+| Sat, 24 May 2025 17:03:36 GMT | Meet Olarewaju Peter Mobuyifunjesu - Cryptocurrency Trader -Investor -Cybersecurity Enthusiast… | Olarewaju Peter Mobuyifunjesu | [Read More](https://medium.com/p/0f22536f2656) |
+| Sat, 24 May 2025 16:58:24 GMT | CORS (cross-origin resource sharing) | 0xbug | [Read More](https://medium.com/p/226551329253) |
+| Sat, 24 May 2025 16:47:08 GMT | AI Today and Tomorrow: | Sair E Malak | [Read More](https://medium.com/p/23c275ca6a29) |
+| Sat, 24 May 2025 16:45:58 GMT | How Google Attracts More Bug Bounty Hunters | Teri Radichel | [Read More](https://medium.com/p/5dca91957032) |
+| Sat, 24 May 2025 16:44:10 GMT | Keeping Your AI in Check: A Simple Guide to Guardrails for AI Agents | Algo Insights | [Read More](https://medium.com/p/2d4d74162356) |
+| Sat, 24 May 2025 16:41:41 GMT | How India’s Defence Policy Has Changed Over the Decades | Prafull Shroti | [Read More](https://medium.com/p/2b5414f17072) |
 | Sat, 24 May 2025 16:20:31 GMT | .hack//SIGN: Sessiz Bir Devrim ve Kaybolmuşluk Hissi | Talha Özcan | [Read More](https://medium.com/p/94c068fb68f5) |
 | Sat, 24 May 2025 16:06:24 GMT | Foundations of Cyber Defense: Your First Line of Digital Defense | Vivian Aranha | [Read More](https://medium.com/p/4317c1c716bb) |
 | Sat, 24 May 2025 16:02:24 GMT | Can You Outsmart the Alert? An Interactive Cybersecurity Challenge With AI in Your Corner | Corey Jones | [Read More](https://medium.com/p/d9f28648a992) |
@@ -108,10 +115,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 09:05:59 GMT | Mobile Radio: The HackRF One Portapack (1) | Investigator515 | [Read More](https://medium.com/p/8dd4709dc02d) |
 | Sat, 24 May 2025 09:05:33 GMT | The Silent Heist: How Formjacking Malware Is Robbing E-Commerce Sites Blind | Chetan Seripally | [Read More](https://medium.com/p/5656b140beb3) |
 | Sat, 24 May 2025 09:03:53 GMT | I Almost Fell for a WhatsApp Scam: What It Taught Me About Online Trust | O. J. Okpabi | [Read More](https://medium.com/p/d7868522242e) |
-| Sat, 24 May 2025 09:03:47 GMT | The Silent Trap: A Global Honeypot Network Breach Unfolds | Siva Gunasekaran | [Read More](https://medium.com/p/2518d7b4cc6e) |
-| Sat, 24 May 2025 08:50:30 GMT | EXMO.com Review - You Can Recover Your Money Back | Aiden Dodgshun | [Read More](https://medium.com/p/da6524a8a77f) |
-| Sat, 24 May 2025 08:45:13 GMT | Unmasking the Web: Understanding Website Identity and Security in 2025 | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/6cdaf2c1066c) |
-| Sat, 24 May 2025 08:26:32 GMT | Why AI is Powerless Without Cybersecurity — Real World Examples | Babar Ali Jamali | [Read More](https://medium.com/p/ab460cbe8e61) |
-| Sat, 24 May 2025 08:25:55 GMT | “Congratulations! You’ve won…” — or have you? | The Cyber Hacker's Diary | [Read More](https://medium.com/p/c7556e0a18f9) |
-| Sat, 24 May 2025 08:23:55 GMT | Safety Is a Human Right | Marcus Koehnlein | [Read More](https://medium.com/p/9f41ca77da8e) |
-| Sat, 24 May 2025 08:22:29 GMT | Spaghetti Legacy and the AI Offensive: A Digital Arms Race We’re Losing | Krzyś | [Read More](https://medium.com/p/7efb713030fe) |
