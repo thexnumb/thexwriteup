@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 19:35:31 GMT | How Bug Bounty Platforms May Be Stifling New Researchers | Teri Radichel | [Read More](https://medium.com/p/cf21be1277da) |
+| Sat, 24 May 2025 19:34:52 GMT | From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on… | ͏ ͏Dukrov | [Read More](https://medium.com/p/651902f7238c) |
+| Sat, 24 May 2025 19:26:34 GMT | The CyberDiplomat’s Daily Report
+ 24th May 2025 - Saturday | The CyberDiplomat LLC | [Read More](https://medium.com/p/588a06be3a24) |
+| Sat, 24 May 2025 19:22:44 GMT | The Invisible Threat: How Hidden Prompts in AI Assistants Breached GitLab Duo | Siva Gunasekaran | [Read More](https://medium.com/p/90ce9f68dc52) |
+| Sat, 24 May 2025 19:21:06 GMT | Security Is Everyone’s Job, But No One Told Brenda (Until She Clicked the Link) | Donna French | [Read More](https://medium.com/p/fa9a30d1d849) |
+| Sat, 24 May 2025 19:20:47 GMT | Light Mode for HackTheBox | january1073 | [Read More](https://medium.com/p/bff9ed4c8922) |
+| Sat, 24 May 2025 19:19:13 GMT | IA | LonomiaO | [Read More](https://medium.com/p/7d519b18c4ce) |
 | Sat, 24 May 2025 19:08:28 GMT | TryHackMe Walkthrough — EDR Defensive — Monday Monitor | Nicholas Abundis | [Read More](https://medium.com/p/d89d19b572e1) |
 | Sat, 24 May 2025 19:02:25 GMT | Shameful Saturdays: The Taboo Crush Edition | Katarina Snow | [Read More](https://medium.com/p/40cd82352352) |
 | Sat, 24 May 2025 19:00:21 GMT | Active Directory Certificate Services — Part 2 | Cybersensus | [Read More](https://medium.com/p/5e4506bc92dc) |
@@ -108,10 +116,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 11:13:22 GMT | Day 2: Stored XSS into HTML context with nothing encoded: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/5bf4fbe2366d) |
 | Sat, 24 May 2025 11:13:14 GMT | Hackers Exploit TikTok Videos to Spread Malware via Fake Software Links | CyBlog | [Read More](https://medium.com/p/068f4c195e41) |
 | Sat, 24 May 2025 11:12:49 GMT | The Silent Cost of Excellence | Paul W.M. Fedak, MD | [Read More](https://medium.com/p/9633165ef7a7) |
-| Sat, 24 May 2025 11:05:37 GMT | Best Security Services in Navi Mumbai: Tradition Meets Tech | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/58b2dfd7a017) |
-| Sat, 24 May 2025 11:02:37 GMT | What can I do to recover my money from Enviodinero ? | Erica | [Read More](https://medium.com/p/6249af08685b) |
-| Sat, 24 May 2025 10:59:42 GMT | The role of MCA professionals in ensuring cybersecurity and data privacy | Poddar Group of Institutions | [Read More](https://medium.com/p/63060a2fe264) |
-| Sat, 24 May 2025 10:56:14 GMT | TryHackMe - Sandbox Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/bf717fbce02e) |
-| Sat, 24 May 2025 10:55:34 GMT | Instant SMS Verification — SMSCodeVerify USA | Alessia Hazel | [Read More](https://medium.com/p/df30fdd02cb1) |
-| Sat, 24 May 2025 10:52:21 GMT | Out of Scope, In the Money: How SSRF in a PDF Export Got Me Deep Access | Iski | [Read More](https://medium.com/p/03c1303c84d9) |
-| Sat, 24 May 2025 10:48:49 GMT | Security Companies in Thane: Shielding Local Businesses | united guard | [Read More](https://medium.com/p/88433f9864eb) |
