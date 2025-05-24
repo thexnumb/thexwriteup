@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 19:08:28 GMT | TryHackMe Walkthrough — EDR Defensive — Monday Monitor | Nicholas Abundis | [Read More](https://medium.com/p/d89d19b572e1) |
+| Sat, 24 May 2025 19:02:25 GMT | Shameful Saturdays: The Taboo Crush Edition | Katarina Snow | [Read More](https://medium.com/p/40cd82352352) |
+| Sat, 24 May 2025 19:00:21 GMT | Active Directory Certificate Services — Part 2 | Cybersensus | [Read More](https://medium.com/p/5e4506bc92dc) |
+| Sat, 24 May 2025 18:59:34 GMT | Do you know what Yescrypt is ? | manjunath Kotabagi | [Read More](https://medium.com/p/89090e92c3af) |
+| Sat, 24 May 2025 18:57:03 GMT | Understanding Printers: A Beginner's Guide to Operation and Troubleshooting | Derrick Mugenyi | [Read More](https://medium.com/p/f1fc72003f6c) |
+| Sat, 24 May 2025 18:56:31 GMT | Network Forensics: Anomaly Detection at the Packet Level | Esra Kayhan | [Read More](https://medium.com/p/7e6eee75fe31) |
 | Sat, 24 May 2025 18:42:25 GMT | The Security You Never See | Beyond Merit | [Read More](https://medium.com/p/41b4a0a3d52e) |
 | Sat, 24 May 2025 18:35:40 GMT | The Life of an Emotional Outsider | Emotional Manscape | [Read More](https://medium.com/p/fd4d8bc989da) |
 | Sat, 24 May 2025 18:31:38 GMT | Hack The Box Season 8 “Puppy” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/07b2ec1b30c1) |
@@ -109,9 +115,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 10:55:34 GMT | Instant SMS Verification — SMSCodeVerify USA | Alessia Hazel | [Read More](https://medium.com/p/df30fdd02cb1) |
 | Sat, 24 May 2025 10:52:21 GMT | Out of Scope, In the Money: How SSRF in a PDF Export Got Me Deep Access | Iski | [Read More](https://medium.com/p/03c1303c84d9) |
 | Sat, 24 May 2025 10:48:49 GMT | Security Companies in Thane: Shielding Local Businesses | united guard | [Read More](https://medium.com/p/88433f9864eb) |
-| Sat, 24 May 2025 10:47:06 GMT | Using Google Identity-Aware Proxy (IAP) with Cloud Run — Without a Load Balancer! | Dazbo (Darren Lester) | [Read More](https://medium.com/p/27db89b9ed49) |
-| Sat, 24 May 2025 10:37:40 GMT | Cybersecurity Awareness: Protect Yourself and Your Organization in the Digital Age | cyberwingITSolution | [Read More](https://medium.com/p/5fcc8fc7341a) |
-| Sat, 24 May 2025 10:35:44 GMT | Pakistan-China Report: Modi Wrong, Pakistan Gains Superiority | Jaavaid Usman | [Read More](https://medium.com/p/1e37d3c8bfbd) |
-| Sat, 24 May 2025 10:32:41 GMT | Phone Number Investigation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/52571c4d82bc) |
-| Sat, 24 May 2025 10:29:57 GMT | Design a Network Security Monitoring Tool | Ankit Kumar Srivastava | [Read More](https://medium.com/p/2a719f797c6e) |
-| Sat, 24 May 2025 10:29:11 GMT | Part 5— How I Run My Entire Digital Life on a Raspberry Pi: Password management with Bitwarden | Levente Csikor | [Read More](https://medium.com/p/f8b5bcb8f137) |
