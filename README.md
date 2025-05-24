@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 11:13:22 GMT | Day 2: Stored XSS into HTML context with nothing encoded: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/5bf4fbe2366d) |
+| Sat, 24 May 2025 11:05:37 GMT | Best Security Services in Navi Mumbai: Tradition Meets Tech | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/58b2dfd7a017) |
+| Sat, 24 May 2025 11:02:37 GMT | What can I do to recover my money from Enviodinero ? | Erica | [Read More](https://medium.com/p/6249af08685b) |
+| Sat, 24 May 2025 10:59:42 GMT | The role of MCA professionals in ensuring cybersecurity and data privacy | Poddar Group of Institutions | [Read More](https://medium.com/p/63060a2fe264) |
+| Sat, 24 May 2025 10:56:14 GMT | TryHackMe - Sandbox Evasion - WriteUp | Axoloth | [Read More](https://medium.com/p/bf717fbce02e) |
+| Sat, 24 May 2025 10:55:34 GMT | Instant SMS Verification — SMSCodeVerify USA | Alessia Hazel | [Read More](https://medium.com/p/df30fdd02cb1) |
+| Sat, 24 May 2025 10:52:21 GMT | Out of Scope, In the Money: How SSRF in a PDF Export Got Me Deep Access | Iski | [Read More](https://medium.com/p/03c1303c84d9) |
+| Sat, 24 May 2025 10:48:49 GMT | Security Companies in Thane: Shielding Local Businesses | united guard | [Read More](https://medium.com/p/88433f9864eb) |
+| Sat, 24 May 2025 10:47:06 GMT | Using Google Identity-Aware Proxy (IAP) with Cloud Run — Without a Load Balancer! | Dazbo (Darren Lester) | [Read More](https://medium.com/p/27db89b9ed49) |
+| Sat, 24 May 2025 10:37:40 GMT | Cybersecurity Awareness: Protect Yourself and Your Organization in the Digital Age | cyberwingITSolution | [Read More](https://medium.com/p/5fcc8fc7341a) |
 | Sat, 24 May 2025 10:35:44 GMT | Pakistan-China Report: Modi Wrong, Pakistan Gains Superiority | Jaavaid Usman | [Read More](https://medium.com/p/1e37d3c8bfbd) |
 | Sat, 24 May 2025 10:32:41 GMT | Phone Number Investigation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/52571c4d82bc) |
 | Sat, 24 May 2025 10:29:57 GMT | Design a Network Security Monitoring Tool | Ankit Kumar Srivastava | [Read More](https://medium.com/p/2a719f797c6e) |
@@ -103,13 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Sat, 24 May 2025 03:05:55 GMT | Marriage & InfoSec: A Lifetime Certification Process | Pratimaprakash | [Read More](https://medium.com/p/2810544303ca) |
 | Sat, 24 May 2025 03:02:25 GMT | Assessment Methodologies Vulnerability Assessment CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/38be35d2e8af) |
 | Sat, 24 May 2025 02:32:32 GMT | “Where is the TCP/IP Model Around Me?” — A Fun Guide for Curious Brains | Madhu Kiran Ravula | [Read More](https://medium.com/p/5d6fc4afc12b) |
-| Sat, 24 May 2025 02:27:01 GMT | Businesses Should Assess SOC Performance w/Red Teams, Not Mean Time to [lame] | Drew Foerster | [Read More](https://medium.com/p/2d72cb685310) |
-| Sat, 24 May 2025 02:09:40 GMT | The Reddit Poem That Unlocked Free Access to AI Chatbot for My Website! | CodeXpert | [Read More](https://medium.com/p/b4869723587e) |
-| Sat, 24 May 2025 01:53:55 GMT | Full-Lifecycle Security Architecture for Critical Infrastructure | A-STAR7_DOCTOR | [Read More](https://medium.com/p/797421f35881) |
-| Sat, 24 May 2025 01:40:07 GMT | Cross-Domain Cybersecurity Integration: Bridging the Divide Between Air-Gapped, SCADA, IoT, and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/e061f08ba1f4) |
-| Sat, 24 May 2025 01:31:24 GMT | Git Worktree: The Swiss Army Knife You Didn’t Know You Needed | Akhshy Ganesh | [Read More](https://medium.com/p/a017a305ff85) |
-| Sat, 24 May 2025 01:17:25 GMT | SINCON SG 2025: CTF Walkthrough of Dragon Badge by hackerware.io | Astik Rawat | [Read More](https://medium.com/p/1efb31322f10) |
-| Sat, 24 May 2025 01:13:32 GMT | Directory Listing Vulnerability Leading to Information Disclosure and Full Database Access on an… | Waleed Osama | [Read More](https://medium.com/p/904dc4271a9d) |
-| Sat, 24 May 2025 01:10:26 GMT | Londra,Anı,Trajikomik Geçmişten Geleceğe Hepsi Bir Arada. | Mahmut Boz | [Read More](https://medium.com/p/65a810269e8a) |
-| Sat, 24 May 2025 01:06:31 GMT | “I Fell in Love and Lost Everything”: Some Traps Even Smart People Can’t Avoid | Lilyana | [Read More](https://medium.com/p/b3ee412701d4) |
-| Sat, 24 May 2025 01:00:58 GMT | From the Frying Pan Into the Fire: How Crypto Scam Victims Are Targeted Twice | Natasha Fuller | [Read More](https://medium.com/p/9c937d88c5d0) |
