@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 09:14:27 GMT | When Trust Becomes a Target: SaaS Breaches and the Hidden Dangers in the Cloud | Chetan Seripally | [Read More](https://medium.com/p/4aba748974ef) |
+| Sat, 24 May 2025 09:10:36 GMT | Shadow AI ve Shadow IT: Patronlardan Habersiz Yapay Zeka mı? | ECG | [Read More](https://medium.com/p/cb979681504a) |
+| Sat, 24 May 2025 09:08:39 GMT | How a Simple URL Exposed Thousands of Users | Guru Prasad Pattanaik | [Read More](https://medium.com/p/d048cfa20aed) |
+| Sat, 24 May 2025 09:07:44 GMT | Here's How I Recovered My Money Back From Palaris.io | Molly Fullagar | [Read More](https://medium.com/p/4b3176cd3284) |
+| Sat, 24 May 2025 09:05:59 GMT | Mobile Radio: The HackRF One Portapack (1) | Investigator515 | [Read More](https://medium.com/p/8dd4709dc02d) |
+| Sat, 24 May 2025 09:05:33 GMT | The Silent Heist: How Formjacking Malware Is Robbing E-Commerce Sites Blind | Chetan Seripally | [Read More](https://medium.com/p/5656b140beb3) |
+| Sat, 24 May 2025 09:03:53 GMT | I Almost Fell for a WhatsApp Scam: What It Taught Me About Online Trust | O. J. Okpabi | [Read More](https://medium.com/p/d7868522242e) |
+| Sat, 24 May 2025 09:03:47 GMT | The Silent Trap: A Global Honeypot Network Breach Unfolds | Siva Gunasekaran | [Read More](https://medium.com/p/2518d7b4cc6e) |
+| Sat, 24 May 2025 08:50:30 GMT | EXMO.com Review - You Can Recover Your Money Back | Aiden Dodgshun | [Read More](https://medium.com/p/da6524a8a77f) |
+| Sat, 24 May 2025 08:45:13 GMT | Unmasking the Web: Understanding Website Identity and Security in 2025 | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/6cdaf2c1066c) |
 | Sat, 24 May 2025 08:26:32 GMT | Why AI is Powerless Without Cybersecurity — Real World Examples | Babar Ali Jamali | [Read More](https://medium.com/p/ab460cbe8e61) |
 | Sat, 24 May 2025 08:25:55 GMT | “Congratulations! You’ve won…” — or have you? | The Cyber Hacker's Diary | [Read More](https://medium.com/p/c7556e0a18f9) |
 | Sat, 24 May 2025 08:23:55 GMT | Safety Is a Human Right | Marcus Koehnlein | [Read More](https://medium.com/p/9f41ca77da8e) |
@@ -103,13 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 22:36:24 GMT | A Man’s Real Fear of Losing You | Laura Miller | [Read More](https://medium.com/p/76e16a5d4164) |
 | Fri, 23 May 2025 22:36:23 GMT | AI-Powered Code Review: Detecting Zero-Day Vulnerabilities in Real-Time | Rizqi Mulki | [Read More](https://medium.com/p/a67ba69769a6) |
 | Fri, 23 May 2025 22:29:05 GMT | Secure Cross-Account VPC Communication in AWS Using Peering Connections | Dyavanapellisujal | [Read More](https://medium.com/p/2b3a28829fde) |
-| Fri, 23 May 2025 22:27:00 GMT | What is Availability in Cybersecurity? (CIA Triad) series | Gertrude Abagale | [Read More](https://medium.com/p/8cc03a511c4a) |
-| Fri, 23 May 2025 22:26:30 GMT | How to tell if your child is being trafficked on Instagram | Savvy Cyber Kids | [Read More](https://medium.com/p/57a194eac44d) |
-| Fri, 23 May 2025 22:25:11 GMT | Why Can’t I Stop Playing Video Games? | Savvy Cyber Kids | [Read More](https://medium.com/p/80ac31e125d8) |
-| Fri, 23 May 2025 22:24:09 GMT | How Can I Avoid Scams on the Internet? | Savvy Cyber Kids | [Read More](https://medium.com/p/1a7c2f6827b9) |
-| Fri, 23 May 2025 22:21:33 GMT | Hacking APIs: Exploiting Business Logic Flaws | Israel Aráoz Severiche | [Read More](https://medium.com/p/c40872ce5600) |
-| Fri, 23 May 2025 22:19:01 GMT | ¿Qué puedo hacer para recuperar mi dinero de CryptoPocket? | Camila | [Read More](https://medium.com/p/46b3b773e146) |
-| Fri, 23 May 2025 22:17:27 GMT | Understanding the TCP/IP Model: The Foundation of the Internet | Karthikeyan Nagaraj | [Read More](https://medium.com/p/3af2fa095423) |
-| Fri, 23 May 2025 21:56:11 GMT | The Great Tariff Caper | Eina Schroeder | [Read More](https://medium.com/p/8a13f1001e85) |
-| Fri, 23 May 2025 21:46:17 GMT | Corporate Greed Chronicles: Booz Allen’s Layoff Gambit Amid Glittering Financials | Namir Sagheenanajar | [Read More](https://medium.com/p/5ca81ba86d49) |
-| Fri, 23 May 2025 21:31:19 GMT | Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/f539671d722f) |
