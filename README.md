@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 13:41:11 GMT | Bugs Word Search Puzzle Book: 50+ Fun & Easy-to-Read Puzzles Featuring Insects, Creepy Crawlies… | Jenna Puzzla | [Read More](https://medium.com/p/cd08eb091a75) |
+| Sat, 24 May 2025 13:36:08 GMT | The Unexpected Guest | d_Sreyashree | [Read More](https://medium.com/p/89fe7a5ce1cd) |
+| Sat, 24 May 2025 13:32:24 GMT | My CEH Lab Setup | CyberNinja | [Read More](https://medium.com/p/c7cc04a46792) |
+| Sat, 24 May 2025 13:30:44 GMT | Beyond the GenAI Hype: Why Cybersecurity Needs Real AI | Koshy | [Read More](https://medium.com/p/b32f91133fd3) |
+| Sat, 24 May 2025 13:30:04 GMT | Attachment: things should be smooth for ‘my’ team | Paarul Shah | [Read More](https://medium.com/p/31a30ee057c1) |
+| Sat, 24 May 2025 13:26:51 GMT | Why Get Scanned Regularly | Ed-it Editions | [Read More](https://medium.com/p/ca2a4c528e76) |
 | Sat, 24 May 2025 13:20:03 GMT | Cyber Safety in the Digital Age: Stay One Step Ahead of Online Threats | GDG on Campus MET | [Read More](https://medium.com/p/274aa7488483) |
 | Sat, 24 May 2025 13:07:49 GMT | Next.js 15.3 Authentication & Authorization: Mastering Middleware for Secure Access Control | Samad Saiyed | [Read More](https://medium.com/p/e8ac149a8682) |
 | Sat, 24 May 2025 13:02:29 GMT | The Silent Thief: How to Defend Against the Infostealer Surge in 2024–2025 | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d7b83ec69673) |
@@ -107,9 +113,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 07:08:17 GMT | Here’s How I Recover My Money From Easycrypto4u.com | Eva Tearle | [Read More](https://medium.com/p/5cc37ceed34a) |
 | Sat, 24 May 2025 06:58:20 GMT | Understanding Operating Systems and Their Role in Modern Banking | Chandrachud Sahi | [Read More](https://medium.com/p/7f896d5e5d99) |
 | Sat, 24 May 2025 06:52:40 GMT | I’m Not a Daddy’s Girl. I’m My Husband’s Problem. | Govindaraju Ramya | [Read More](https://medium.com/p/24d5725378a8) |
-| Sat, 24 May 2025 06:52:33 GMT | I Unlocked Gemini Advanced Till 2025 Using a Temporary .EDU | Aditya sunny | [Read More](https://medium.com/p/16c98e4cfabb) |
-| Sat, 24 May 2025 06:42:32 GMT | Manus AI HACK: Broken Code Reveals the Explosive Truth Behind “Autonomous” AI! | ParlonsIA | [Read More](https://medium.com/p/31c284144cf3) |
-| Sat, 24 May 2025 06:35:47 GMT | Day 5: Safe, Even If He Leaves | The Stillness Between Notes | [Read More](https://medium.com/p/44980a470df0) |
-| Sat, 24 May 2025 06:20:21 GMT | Revolutionizing Security: The Power of Biometric Access Control Systems in UAE | Tekhabeeb | [Read More](https://medium.com/p/443e81614f0b) |
-| Sat, 24 May 2025 06:12:28 GMT | Agent T TryHackMe Walkthrough | Regan Temudo | [Read More](https://medium.com/p/0bdb54e5ae9f) |
-| Sat, 24 May 2025 06:07:50 GMT | The Rise of Nation-State Hackers: GRU’s Unit 26165 in the Spotlight | Md Samiul Islam | [Read More](https://medium.com/p/8ef96fde933a) |
