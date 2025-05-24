@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 04:02:12 GMT | Variables in Java♨ | Hari | [Read More](https://medium.com/p/53effdff8ef6) |
 | Sat, 24 May 2025 03:44:50 GMT | I Found Me Where Love Waits | Kehinde Margret Makinde | [Read More](https://medium.com/p/3bfaa73b5ef4) |
+| Sat, 24 May 2025 03:43:07 GMT | Secure and Streamline Snowflake Automation with Personal Access Tokens (PAT) | Kamesh Sampath | [Read More](https://medium.com/p/efa695183621) |
 | Sat, 24 May 2025 03:33:35 GMT | Voices of Deception: | Quentin Wallace | [Read More](https://medium.com/p/5fe8dec0254f) |
 | Sat, 24 May 2025 03:31:27 GMT | ClickFix Captcha: The Ingenious Social Engineering Tactic Exploiting User Trust | Deven Chhajed | [Read More](https://medium.com/p/279e70152845) |
 | Sat, 24 May 2025 03:26:29 GMT | Welcome to My Medium: Your Gateway to the Latest on Tech, AI, and Cybersecurity | Dez Blanchfield | [Read More](https://medium.com/p/eecb9c5bd3de) |
@@ -111,5 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 17:18:17 GMT | Microsoft Patched It, But Hackers Didn’t Care — Inside CVE-2025–24054 | Hantz Jermain | [Read More](https://medium.com/p/23db9cba5cac) |
 | Fri, 23 May 2025 17:17:20 GMT | HackTheBox - Meow | Fabian Kolb | [Read More](https://medium.com/p/c0193ae8e1ab) |
 | Fri, 23 May 2025 17:11:12 GMT | How to Ruin a Web App in 3 Clicks | Derick Johnson | [Read More](https://medium.com/p/98d5b01b5543) |
-| Fri, 23 May 2025 17:08:55 GMT | Cyber Crisis Masters: How CISOs Command Respect and Inspire Action | Paul van der Hagen | [Read More](https://medium.com/p/1e55d4f4a847) |
-| Fri, 23 May 2025 17:07:51 GMT | Operationalizing the BadSuccessor: Abusing dMSA for Domain Privilege Escalation | Arun Nair | [Read More](https://medium.com/p/429cefc36187) |
