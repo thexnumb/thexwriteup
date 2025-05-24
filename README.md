@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 08:26:32 GMT | Why AI is Powerless Without Cybersecurity — Real World Examples | Babar Ali Jamali | [Read More](https://medium.com/p/ab460cbe8e61) |
+| Sat, 24 May 2025 08:25:55 GMT | “Congratulations! You’ve won…” — or have you? | The Cyber Hacker's Diary | [Read More](https://medium.com/p/c7556e0a18f9) |
+| Sat, 24 May 2025 08:23:55 GMT | Safety Is a Human Right | Marcus Koehnlein | [Read More](https://medium.com/p/9f41ca77da8e) |
+| Sat, 24 May 2025 08:22:29 GMT | Spaghetti Legacy and the AI Offensive: A Digital Arms Race We’re Losing | Krzyś | [Read More](https://medium.com/p/7efb713030fe) |
+| Sat, 24 May 2025 08:21:29 GMT | The OAuth 2.1 Spec in Plain English (Part 1) | MC | [Read More](https://medium.com/p/657780f2ec3d) |
+| Sat, 24 May 2025 08:16:55 GMT | Secure Your Valuables with MySafe India: Trusted Safety Deposit Lockers Near You | Mysafe India - Safe Deposit Box Service​ | [Read More](https://medium.com/p/cf5982519f00) |
 | Sat, 24 May 2025 08:12:35 GMT | Understanding Malware | Cyber T | [Read More](https://medium.com/p/dbe61cc9c30c) |
 | Sat, 24 May 2025 08:11:13 GMT | From Innovation to Exposure: Navigating Security Risks of Agentic AI | Ajay Kumar | [Read More](https://medium.com/p/ba0b83c7d42d) |
 | Sat, 24 May 2025 08:09:53 GMT | Hire a Hacker to Recover an Account: Ethical Comprehensive Guide | Hire A Hacker Online | [Read More](https://medium.com/p/5cbc647eb008) |
@@ -107,9 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 21:56:11 GMT | The Great Tariff Caper | Eina Schroeder | [Read More](https://medium.com/p/8a13f1001e85) |
 | Fri, 23 May 2025 21:46:17 GMT | Corporate Greed Chronicles: Booz Allen’s Layoff Gambit Amid Glittering Financials | Namir Sagheenanajar | [Read More](https://medium.com/p/5ca81ba86d49) |
 | Fri, 23 May 2025 21:31:19 GMT | Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/f539671d722f) |
-| Fri, 23 May 2025 21:23:37 GMT | THM — Snapped Phishing Line Writeup | Shamar Isaac | [Read More](https://medium.com/p/c852b4fa24ea) |
-| Fri, 23 May 2025 21:21:26 GMT | Secure Coding Part 3 : Input Validation | Siddiquimohammad | [Read More](https://medium.com/p/cf9d11ee3deb) |
-| Fri, 23 May 2025 21:19:50 GMT | Picking The Modulus For Homomorphic Encryption | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8b2eced7590f) |
-| Fri, 23 May 2025 21:18:32 GMT | To shine or to be plucked | Chuckinette | [Read More](https://medium.com/p/955c048c8f1c) |
-| Fri, 23 May 2025 21:17:58 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e9edf600266d) |
-| Fri, 23 May 2025 21:05:49 GMT | AI in Business Intelligence: Enhancing Data Analysis for Smarter Decision-Making | IT_Engineer | [Read More](https://medium.com/p/56fe7ad4f009) |
