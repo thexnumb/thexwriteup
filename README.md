@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 18:09:47 GMT | When Trusted Downloads Turn Toxic: How SEO Poisoning Is Fueling the Spread of Bumblebee Malware and… | Chetan Seripally | [Read More](https://medium.com/p/e8d53388136b) |
+| Sat, 24 May 2025 18:07:50 GMT | Pipeline Automation: DevOps Meets Security | Regan Temudo | [Read More](https://medium.com/p/bac143eb7ac8) |
+| Sat, 24 May 2025 18:07:40 GMT | How to Set Up Your Own Cybersecurity HomeLab: Install VirtualBox, Kali Linux, and Metasploitable… | Suriya | [Read More](https://medium.com/p/aecc90ca0cde) |
+| Sat, 24 May 2025 17:56:49 GMT | Cybersecurity for Everyone: Not Just Hackers or Techies | MdKMRohan | [Read More](https://medium.com/p/eb3f745afa9c) |
+| Sat, 24 May 2025 17:51:44 GMT | How to Earn Exclusive $BUGS Rewards on StakingRewards | BUGS | [Read More](https://medium.com/p/cff9273d5ba7) |
+| Sat, 24 May 2025 17:50:27 GMT | Ransomware Attacks Surge in Retail: Scattered Spider and DragonForce | Varshil Desai | [Read More](https://medium.com/p/487907a5d4dd) |
+| Sat, 24 May 2025 17:48:40 GMT | Unraveling the Scattered Spider Cyber Attacks on UK Retailers | Amanuel | [Read More](https://medium.com/p/1e161aa25fbf) |
+| Sat, 24 May 2025 17:45:31 GMT | Agent, I’d Like a Second Opinion | Tomer Wetzler | [Read More](https://medium.com/p/00adc5f599c0) |
+| Sat, 24 May 2025 17:41:25 GMT | Securing the Legal Front Door: A Product Perspective on Verification and Trust | Palak Porwal | [Read More](https://medium.com/p/ac3127d4176e) |
+| Sat, 24 May 2025 17:26:57 GMT | How to Get Certified in Cybersecurity: A Step-by-Step Guide | Patricia I. Edward | [Read More](https://medium.com/p/aa441b3f2e3d) |
 | Sat, 24 May 2025 17:24:30 GMT | When Experience Isn’t Expertise: How Indian IT Service Culture Holds Back Real Growth | Nidhi Sharma | [Read More](https://medium.com/p/57d80d709ebb) |
 | Sat, 24 May 2025 17:05:50 GMT | Race Conditions: The Silent Exploit That Can Break Systems (and Earn Bounties) | 127.0.0.1 | [Read More](https://medium.com/p/a35e7677c96a) |
 | Sat, 24 May 2025 17:03:36 GMT | Meet Olarewaju Peter Mobuyifunjesu - Cryptocurrency Trader -Investor -Cybersecurity Enthusiast… | Olarewaju Peter Mobuyifunjesu | [Read More](https://medium.com/p/0f22536f2656) |
@@ -105,13 +115,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 10:06:54 GMT | $1,000 Bounty: ReaderMode XSS in Brave via %READER-TITLE-NONCE% | Monika sharma | [Read More](https://medium.com/p/4204606dfe20) |
 | Sat, 24 May 2025 09:59:43 GMT | Off Karke On Kar Do: Why “Turning It Off and On Again” Actually Fixes Things | Rishabh Sharma | [Read More](https://medium.com/p/dcde92f6aa2e) |
 | Sat, 24 May 2025 09:54:47 GMT | Forensic Analysis of SQLite Databases | Dean | [Read More](https://medium.com/p/ba9490e74b14) |
-| Sat, 24 May 2025 09:54:18 GMT | My Experience Pen testing an E-Learning Platform | Boluwaji Akinsefunmi | [Read More](https://medium.com/p/d63a64adc8ab) |
-| Sat, 24 May 2025 09:48:01 GMT | Mastering DevOps Pipelines: A Complete Guide for Beginners and Professionals | cyberwingITSolution | [Read More](https://medium.com/p/35d8e4c4e2cb) |
-| Sat, 24 May 2025 09:40:44 GMT | Cain and Abel for Password Recovery | Krishdograa | [Read More](https://medium.com/p/07b26bfbd392) |
-| Sat, 24 May 2025 09:33:03 GMT | SSRF Vulnerability Explained: Server-Side Request Forgery Attack Types, Real-World Examples &… | Zoningxtr | [Read More](https://medium.com/p/c55a3bf8540c) |
-| Sat, 24 May 2025 09:14:27 GMT | When Trust Becomes a Target: SaaS Breaches and the Hidden Dangers in the Cloud | Chetan Seripally | [Read More](https://medium.com/p/4aba748974ef) |
-| Sat, 24 May 2025 09:10:36 GMT | Shadow AI ve Shadow IT: Patronlardan Habersiz Yapay Zeka mı? | ECG | [Read More](https://medium.com/p/cb979681504a) |
-| Sat, 24 May 2025 09:08:39 GMT | How a Simple URL Exposed Thousands of Users | Guru Prasad Pattanaik | [Read More](https://medium.com/p/d048cfa20aed) |
-| Sat, 24 May 2025 09:07:44 GMT | Here's How I Recovered My Money Back From Palaris.io | Molly Fullagar | [Read More](https://medium.com/p/4b3176cd3284) |
-| Sat, 24 May 2025 09:05:59 GMT | Mobile Radio: The HackRF One Portapack (1) | Investigator515 | [Read More](https://medium.com/p/8dd4709dc02d) |
-| Sat, 24 May 2025 09:05:33 GMT | The Silent Heist: How Formjacking Malware Is Robbing E-Commerce Sites Blind | Chetan Seripally | [Read More](https://medium.com/p/5656b140beb3) |
