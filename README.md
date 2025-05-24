@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 20:07:53 GMT | Why Protecting Proprietary Data? | Raviteja Mureboina | [Read More](https://medium.com/p/4e271c6af2bf) |
+| Sat, 24 May 2025 19:59:50 GMT | How to Safely Store Your Cryptocurrencies: A Complete Guide to Securing Your Digital Bag | Uboho Dominic | [Read More](https://medium.com/p/7ee58e049086) |
+| Sat, 24 May 2025 19:52:25 GMT | CISA: Certified Information Systems Auditor (cert exam prep) | Franklin Rhodes | [Read More](https://medium.com/p/5078463d7c03) |
+| Sat, 24 May 2025 19:51:58 GMT | More than a move | Boluwatife Lash | [Read More](https://medium.com/p/183e53cf5f0b) |
+| Sat, 24 May 2025 19:49:41 GMT | People Don’t Fall in Love with the Joker | Aditya Singh | [Read More](https://medium.com/p/ec1b81ed5d14) |
 | Sat, 24 May 2025 19:35:31 GMT | How Bug Bounty Platforms May Be Stifling New Researchers | Teri Radichel | [Read More](https://medium.com/p/cf21be1277da) |
 | Sat, 24 May 2025 19:34:52 GMT | From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on… | ͏ ͏Dukrov | [Read More](https://medium.com/p/651902f7238c) |
 | Sat, 24 May 2025 19:26:34 GMT | The CyberDiplomat’s Daily Report
@@ -110,9 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 11:40:22 GMT | Secrets in Docker: What You’re Doing Wrong | Devops Trainer | [Read More](https://medium.com/p/4db5514dbcdc) |
 | Sat, 24 May 2025 11:38:59 GMT | Title: How I Got My First NASA Hall of Fame Acknowledgment as a Bug Hunter | Bitex aka Karan Vaniya | [Read More](https://medium.com/p/1adb048abc6c) |
 | Sat, 24 May 2025 11:33:20 GMT | $1,500 Bounty for Critical Token Leak Leading to RCE in Mozilla’s Netlify Account | Monika sharma | [Read More](https://medium.com/p/1d32ca5938a8) |
-| Sat, 24 May 2025 11:29:53 GMT | Implementasi DevSecOps untuk Peningkatan Keamanan Container Image di Harbor menggunakan Distroless… | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/97d8f1c3473f) |
-| Sat, 24 May 2025 11:28:23 GMT | 5 Easy Ways to Make Money from Home Using Artificial Intelligence:
-In today’s fast-paced digital… | Those Who Concern the World | [Read More](https://medium.com/p/6b5b228ad022) |
-| Sat, 24 May 2025 11:13:22 GMT | Day 2: Stored XSS into HTML context with nothing encoded: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/5bf4fbe2366d) |
-| Sat, 24 May 2025 11:13:14 GMT | Hackers Exploit TikTok Videos to Spread Malware via Fake Software Links | CyBlog | [Read More](https://medium.com/p/068f4c195e41) |
-| Sat, 24 May 2025 11:12:49 GMT | The Silent Cost of Excellence | Paul W.M. Fedak, MD | [Read More](https://medium.com/p/9633165ef7a7) |
