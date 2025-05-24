@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 17:24:30 GMT | When Experience Isn’t Expertise: How Indian IT Service Culture Holds Back Real Growth | Nidhi Sharma | [Read More](https://medium.com/p/57d80d709ebb) |
 | Sat, 24 May 2025 17:05:50 GMT | Race Conditions: The Silent Exploit That Can Break Systems (and Earn Bounties) | 127.0.0.1 | [Read More](https://medium.com/p/a35e7677c96a) |
 | Sat, 24 May 2025 17:03:36 GMT | Meet Olarewaju Peter Mobuyifunjesu - Cryptocurrency Trader -Investor -Cybersecurity Enthusiast… | Olarewaju Peter Mobuyifunjesu | [Read More](https://medium.com/p/0f22536f2656) |
 | Sat, 24 May 2025 16:58:24 GMT | CORS (cross-origin resource sharing) | 0xbug | [Read More](https://medium.com/p/226551329253) |
@@ -114,4 +115,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 09:07:44 GMT | Here's How I Recovered My Money Back From Palaris.io | Molly Fullagar | [Read More](https://medium.com/p/4b3176cd3284) |
 | Sat, 24 May 2025 09:05:59 GMT | Mobile Radio: The HackRF One Portapack (1) | Investigator515 | [Read More](https://medium.com/p/8dd4709dc02d) |
 | Sat, 24 May 2025 09:05:33 GMT | The Silent Heist: How Formjacking Malware Is Robbing E-Commerce Sites Blind | Chetan Seripally | [Read More](https://medium.com/p/5656b140beb3) |
-| Sat, 24 May 2025 09:03:53 GMT | I Almost Fell for a WhatsApp Scam: What It Taught Me About Online Trust | O. J. Okpabi | [Read More](https://medium.com/p/d7868522242e) |
