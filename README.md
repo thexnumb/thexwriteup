@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 21:06:39 GMT | The Dark Side of AI: Anthropic’s Claude 4 Opus and the Dangers of Misleading Intelligence | Javad Ta | [Read More](https://medium.com/p/36c3d7ffc188) |
+| Sat, 24 May 2025 21:01:50 GMT | Google Veo, Veo3 and the Next Security Frontier: What CISOs Need to Know About AI-Powered Video… | Ronit Yadav | [Read More](https://medium.com/p/8ff5ecf28197) |
+| Sat, 24 May 2025 21:01:17 GMT | Data Classification and Its Role in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/59f1450bb2e0) |
+| Sat, 24 May 2025 20:56:59 GMT | How Behavioral Insights Helped Reduce Phishing Clicks by 40% | Ipek U | [Read More](https://medium.com/p/ba19ad63ad67) |
+| Sat, 24 May 2025 20:49:28 GMT | How CAPTCHAS Defend the Internet: A Look at Human Verification | totaltinkognito | [Read More](https://medium.com/p/a46bf88f1bc4) |
+| Sat, 24 May 2025 20:47:42 GMT | Why Human Behavior Is the Last Mile of Cybersecurity | Ipek U | [Read More](https://medium.com/p/8aec1fb41cc6) |
+| Sat, 24 May 2025 20:46:25 GMT | What I’d Do Differently If I Were a CISO in 2025 | Ronit Yadav | [Read More](https://medium.com/p/a045d71e43f7) |
+| Sat, 24 May 2025 20:43:40 GMT | Before You Browse, Someone Assigns You an Identity — Here’s Who | Aliou Ba | [Read More](https://medium.com/p/69651cbe3dec) |
+| Sat, 24 May 2025 20:32:05 GMT | Chinese Cyber Operations and the U.S. Policy Response to the Cityworks Attack | CCD-IS | [Read More](https://medium.com/p/8bca20c9805b) |
 | Sat, 24 May 2025 20:30:16 GMT | False Flags in Cyberspace: Strategic Manipulation and the Risk of Real-World Conflict | CCD-IS | [Read More](https://medium.com/p/a2759f4a2b9c) |
 | Sat, 24 May 2025 20:21:08 GMT | LetsDefend — Suspicious Browser Extension | Raphael Nicolich | [Read More](https://medium.com/p/8bdac6363806) |
 | Sat, 24 May 2025 20:19:29 GMT | TryHackMe Walkthrough — EDR Defensive — Retracted | Nicholas Abundis | [Read More](https://medium.com/p/233becb3ba47) |
@@ -106,12 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 12:29:56 GMT | Part 6— How I Run My Entire Digital Life on a Raspberry Pi: Breaking Free from Big Cloud and… | Levente Csikor | [Read More](https://medium.com/p/471764a074bb) |
 | Sat, 24 May 2025 12:29:42 GMT | LetsDefend — ProcDump Challenge | Nicolas Tan | [Read More](https://medium.com/p/5f06b797a08a) |
 | Sat, 24 May 2025 12:29:32 GMT | How Hard-Coded Credentials in a Publicly Accessible Config File Led to a $350 HackerOne Payout | Samirul Haque | [Read More](https://medium.com/p/c825274cd332) |
-| Sat, 24 May 2025 12:27:38 GMT | “Phantom’s Labyrinth” Web Challenge in EGCTF2025 Qualifications By EGCERT | Muhammad Saady | [Read More](https://medium.com/p/8f6379318aef) |
-| Sat, 24 May 2025 12:20:18 GMT | Security by Design: Moving Beyond Patches to Proactive Protection | Vivian Aranha | [Read More](https://medium.com/p/e64192ecec92) |
-| Sat, 24 May 2025 12:12:20 GMT | How to Perform Dynamic Testing for Basic SSRF Vulnerabilities Using Burp Suite — Step-by-Step… | Zoningxtr | [Read More](https://medium.com/p/22bee524cd21) |
-| Sat, 24 May 2025 12:10:10 GMT | Beyond the Hacker Stereotype: Exploring Different Jobs in Cybersecurity | Ait Laaguidi Yassine | [Read More](https://medium.com/p/db060e0ba2cb) |
-| Sat, 24 May 2025 12:04:34 GMT | Understanding Basic SSRF: How Visible Server Responses Can Leak Your Internal Secrets | Zoningxtr | [Read More](https://medium.com/p/444326d8c870) |
-| Sat, 24 May 2025 12:00:47 GMT | Why Security Guard Services Matter in Digital Age | United Guard Force India | [Read More](https://medium.com/p/6b207890d8c0) |
-| Sat, 24 May 2025 11:53:20 GMT | Hire a Hacker to Recover an Account | Hackers World | [Read More](https://medium.com/p/8667c6ab1384) |
-| Sat, 24 May 2025 11:46:21 GMT | Designing the Future of Cybersecurity: The Rise of AI-Driven Threat Intelligence Fusion Centers | A-STAR7_DOCTOR | [Read More](https://medium.com/p/f43fae5d51b0) |
-| Sat, 24 May 2025 11:42:10 GMT | DNS Footprinting: Essential Reconnaissance for Proactive Cybersecurity | Adhvaidh | [Read More](https://medium.com/p/32ad6c728d6c) |
