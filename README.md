@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 10:35:44 GMT | Pakistan-China Report: Modi Wrong, Pakistan Gains Superiority | Jaavaid Usman | [Read More](https://medium.com/p/1e37d3c8bfbd) |
+| Sat, 24 May 2025 10:32:41 GMT | Phone Number Investigation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/52571c4d82bc) |
+| Sat, 24 May 2025 10:29:57 GMT | Design a Network Security Monitoring Tool | Ankit Kumar Srivastava | [Read More](https://medium.com/p/2a719f797c6e) |
+| Sat, 24 May 2025 10:29:11 GMT | Part 5— How I Run My Entire Digital Life on a Raspberry Pi: Password management with Bitwarden | Levente Csikor | [Read More](https://medium.com/p/f8b5bcb8f137) |
+| Sat, 24 May 2025 10:29:04 GMT | Online vs. Offline Ethical Hacking Training | Crawsec | [Read More](https://medium.com/p/a87e25eaf7d1) |
+| Sat, 24 May 2025 10:25:54 GMT | Why Residential Societies Need Security in 2025 | United Guard Force India | [Read More](https://medium.com/p/3588e90819fb) |
+| Sat, 24 May 2025 10:22:16 GMT | Day 1: Reflected XSS into HTML context with nothing encoded: Zero to Hero Series— Portswigger | RayofHope | [Read More](https://medium.com/p/8cb15403ba29) |
 | Sat, 24 May 2025 10:16:29 GMT | Why CISSP Certification is Essential for Cybersecurity Professionals | Cybernous Infosec consulting | [Read More](https://medium.com/p/24e3e4a6785f) |
 | Sat, 24 May 2025 10:16:19 GMT | The Ultimate Guide to Learn Linux Online: Start Your Journey Today | cyberwingITSolution | [Read More](https://medium.com/p/58d5ea4c3026) |
 | Sat, 24 May 2025 10:06:54 GMT | $1,000 Bounty: ReaderMode XSS in Brave via %READER-TITLE-NONCE% | Monika sharma | [Read More](https://medium.com/p/4204606dfe20) |
@@ -106,10 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Sat, 24 May 2025 01:10:26 GMT | Londra,Anı,Trajikomik Geçmişten Geleceğe Hepsi Bir Arada. | Mahmut Boz | [Read More](https://medium.com/p/65a810269e8a) |
 | Sat, 24 May 2025 01:06:31 GMT | “I Fell in Love and Lost Everything”: Some Traps Even Smart People Can’t Avoid | Lilyana | [Read More](https://medium.com/p/b3ee412701d4) |
 | Sat, 24 May 2025 01:00:58 GMT | From the Frying Pan Into the Fire: How Crypto Scam Victims Are Targeted Twice | Natasha Fuller | [Read More](https://medium.com/p/9c937d88c5d0) |
-| Sat, 24 May 2025 00:53:23 GMT | ️‍♂️ How Attackers Disguise Malware as Harmless PDF Files — And How You Can Spot It | Yua Mikanana | [Read More](https://medium.com/p/2dffe663c5ec) |
-| Sat, 24 May 2025 00:42:14 GMT | I Recently Completed a Cybersecurity Course – Here’s What I Learned | Faiza Islam Nahin | [Read More](https://medium.com/p/e1e2b231ffc6) |
-| Sat, 24 May 2025 00:20:17 GMT | Stronger, Sharper, Focused: The Bubsy AI Comeback | Bubsy | [Read More](https://medium.com/p/32f830106348) |
-| Sat, 24 May 2025 00:10:29 GMT | Write-up PicoCTF (Capture The Flag) — Decifrando Pacotes de Rede no Wireshark | Sérgio Corrêa | [Read More](https://medium.com/p/e1ac1ed9c619) |
-| Sat, 24 May 2025 00:08:06 GMT | Finance 2025: The Rise of AI-Powered Scams and How to Protect Yourself | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/d3955741a374) |
-| Fri, 23 May 2025 23:47:35 GMT | The Windows Commands is a tragedy-comedy with many acts. | The Security Alchemist | [Read More](https://medium.com/p/f0286943d739) |
-| Fri, 23 May 2025 23:45:08 GMT | Why Your Next IoT Device Needs ‘DNA’: Inside the Secret ‘Skin’ of PUFs That Makes Devices… | SrijitPaul, CSE Grad | [Read More](https://medium.com/p/3b8b788b5221) |
