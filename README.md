@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 07:30:24 GMT | Is It Possible To Recover My Money From Wirbit? | Luca Crampton | [Read More](https://medium.com/p/bd166c7a9e4b) |
+| Sat, 24 May 2025 07:25:10 GMT | a i n mission leading in cyber security | S Anuradha | [Read More](https://medium.com/p/6847dc92e346) |
+| Sat, 24 May 2025 07:24:38 GMT | Earn $$$$ by Finding CSRF Vulnerabilities! | Abhijeet Kumawat | [Read More](https://medium.com/p/91f193a9b511) |
+| Sat, 24 May 2025 07:23:48 GMT | How I Found My First SQLi Vulnerability (€3500 Bounty) | Dewanand Vishal | [Read More](https://medium.com/p/7c441007bcf9) |
 | Sat, 24 May 2025 07:13:08 GMT | How Bug Bounties & VAPT Coexist for Web3 Projects | Decrypt0 | [Read More](https://medium.com/p/5e22cf7ad209) |
 | Sat, 24 May 2025 07:12:07 GMT | Is It possible To Recover My Money From Easycrypto4u.com? | Eva Tearle | [Read More](https://medium.com/p/67e4172a1596) |
 | Sat, 24 May 2025 07:11:27 GMT | The Future of Cyber Security in 2025: A Looming Threat | Eleanor Watson | [Read More](https://medium.com/p/3c3b41deef53) |
@@ -109,7 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 20:29:32 GMT | Two Security Guards Assaulted in Random Attacks Near Winnipeg’s Central Park | Scott Hill | [Read More](https://medium.com/p/f697ae90ce11) |
 | Fri, 23 May 2025 20:29:02 GMT | Simple CTF - Try Hack Me_Complete Walkthrough | Avrodip Joy | [Read More](https://medium.com/p/1b7882537e91) |
 | Fri, 23 May 2025 20:21:35 GMT | Day 4 of my AWS Pentesting journey — EC2 Enumeration & SSRF Exploitation | mauzware | [Read More](https://medium.com/p/a690bfb71d6f) |
-| Fri, 23 May 2025 20:04:39 GMT | $24M in Crypto Seized,  DOJ Strikes Back at Alleged Qakbot Malware Kingpin | CoinGen | [Read More](https://medium.com/p/4b7f4d426e52) |
-| Fri, 23 May 2025 19:54:19 GMT | Airplane Walkthrough (Tryhackme) | Hunyejohn | [Read More](https://medium.com/p/ce5482f8aabf) |
-| Fri, 23 May 2025 19:49:14 GMT | HackTheBox -Fawn | Fabian Kolb | [Read More](https://medium.com/p/318780f52362) |
-| Fri, 23 May 2025 19:47:29 GMT | How an IP Survives the AWS Jungle (VPC, Security Groups & NACLs Explained) — Part 3 | Malik Ahmad | [Read More](https://medium.com/p/77e4737f0264) |
