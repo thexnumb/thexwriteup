@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 21:26:13 GMT | I Was Up at 2AM Worrying About Bills—Then This Happened... | The Masked Muse | [Read More](https://medium.com/p/859de479b4d1) |
 | Sat, 24 May 2025 21:06:39 GMT | The Dark Side of AI: Anthropic’s Claude 4 Opus and the Dangers of Misleading Intelligence | Javad Ta | [Read More](https://medium.com/p/36c3d7ffc188) |
 | Sat, 24 May 2025 21:01:50 GMT | Google Veo, Veo3 and the Next Security Frontier: What CISOs Need to Know About AI-Powered Video… | Ronit Yadav | [Read More](https://medium.com/p/8ff5ecf28197) |
 | Sat, 24 May 2025 21:01:17 GMT | Data Classification and Its Role in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/59f1450bb2e0) |
@@ -114,4 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 12:32:25 GMT | Why do we use Level 4 Load Balancers? | Madhu Kiran Ravula | [Read More](https://medium.com/p/0232d4d07892) |
 | Sat, 24 May 2025 12:29:56 GMT | Part 6— How I Run My Entire Digital Life on a Raspberry Pi: Breaking Free from Big Cloud and… | Levente Csikor | [Read More](https://medium.com/p/471764a074bb) |
 | Sat, 24 May 2025 12:29:42 GMT | LetsDefend — ProcDump Challenge | Nicolas Tan | [Read More](https://medium.com/p/5f06b797a08a) |
-| Sat, 24 May 2025 12:29:32 GMT | How Hard-Coded Credentials in a Publicly Accessible Config File Led to a $350 HackerOne Payout | Samirul Haque | [Read More](https://medium.com/p/c825274cd332) |
