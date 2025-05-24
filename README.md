@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 20:30:16 GMT | False Flags in Cyberspace: Strategic Manipulation and the Risk of Real-World Conflict | CCD-IS | [Read More](https://medium.com/p/a2759f4a2b9c) |
+| Sat, 24 May 2025 20:21:08 GMT | LetsDefend — Suspicious Browser Extension | Raphael Nicolich | [Read More](https://medium.com/p/8bdac6363806) |
+| Sat, 24 May 2025 20:19:29 GMT | TryHackMe Walkthrough — EDR Defensive — Retracted | Nicholas Abundis | [Read More](https://medium.com/p/233becb3ba47) |
 | Sat, 24 May 2025 20:07:53 GMT | Why Protecting Proprietary Data? | Raviteja Mureboina | [Read More](https://medium.com/p/4e271c6af2bf) |
 | Sat, 24 May 2025 19:59:50 GMT | How to Safely Store Your Cryptocurrencies: A Complete Guide to Securing Your Digital Bag | Uboho Dominic | [Read More](https://medium.com/p/7ee58e049086) |
 | Sat, 24 May 2025 19:52:25 GMT | CISA: Certified Information Systems Auditor (cert exam prep) | Franklin Rhodes | [Read More](https://medium.com/p/5078463d7c03) |
@@ -112,6 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 11:53:20 GMT | Hire a Hacker to Recover an Account | Hackers World | [Read More](https://medium.com/p/8667c6ab1384) |
 | Sat, 24 May 2025 11:46:21 GMT | Designing the Future of Cybersecurity: The Rise of AI-Driven Threat Intelligence Fusion Centers | A-STAR7_DOCTOR | [Read More](https://medium.com/p/f43fae5d51b0) |
 | Sat, 24 May 2025 11:42:10 GMT | DNS Footprinting: Essential Reconnaissance for Proactive Cybersecurity | Adhvaidh | [Read More](https://medium.com/p/32ad6c728d6c) |
-| Sat, 24 May 2025 11:40:22 GMT | Secrets in Docker: What You’re Doing Wrong | Devops Trainer | [Read More](https://medium.com/p/4db5514dbcdc) |
-| Sat, 24 May 2025 11:38:59 GMT | Title: How I Got My First NASA Hall of Fame Acknowledgment as a Bug Hunter | Bitex aka Karan Vaniya | [Read More](https://medium.com/p/1adb048abc6c) |
-| Sat, 24 May 2025 11:33:20 GMT | $1,500 Bounty for Critical Token Leak Leading to RCE in Mozilla’s Netlify Account | Monika sharma | [Read More](https://medium.com/p/1d32ca5938a8) |
