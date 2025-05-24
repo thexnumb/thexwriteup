@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 16:20:31 GMT | .hack//SIGN: Sessiz Bir Devrim ve Kaybolmuşluk Hissi | Talha Özcan | [Read More](https://medium.com/p/94c068fb68f5) |
+| Sat, 24 May 2025 16:06:24 GMT | Foundations of Cyber Defense: Your First Line of Digital Defense | Vivian Aranha | [Read More](https://medium.com/p/4317c1c716bb) |
+| Sat, 24 May 2025 16:02:24 GMT | Can You Outsmart the Alert? An Interactive Cybersecurity Challenge With AI in Your Corner | Corey Jones | [Read More](https://medium.com/p/d9f28648a992) |
+| Sat, 24 May 2025 16:00:03 GMT | El ataque del Gatito Ninja: Entendiendo XSS sin morir de aburrimiento | Cami Bertolani | [Read More](https://medium.com/p/06f827d84489) |
+| Sat, 24 May 2025 15:59:55 GMT | Increase Your Earnings with Bugs Bunny $BUGS Staking Strategies | Ava
+ Chandler | [Read More](https://medium.com/p/6303411a51a7) |
+| Sat, 24 May 2025 15:48:20 GMT | A2A and MCP : Integrating RBAC Security into agents (Live Demo) | Vishal Mysore | [Read More](https://medium.com/p/d5ee867ec459) |
+| Sat, 24 May 2025 15:45:50 GMT | Day 5 of my AWS Pentesting journey — Privilege Escalation | mauzware | [Read More](https://medium.com/p/cfc60ffb3b9a) |
 | Sat, 24 May 2025 15:30:50 GMT | Staking ChainBounty $BOUNTY: A Step-by-Step Process | BOUNTY | [Read More](https://medium.com/p/2c3cd7b0a30f) |
 | Sat, 24 May 2025 15:24:36 GMT | Time to Hack Password via Brute Force | Vijay Kumar Gupta | [Read More](https://medium.com/p/10a3139cdfa4) |
 | Sat, 24 May 2025 15:22:27 GMT | The Windows Security Journey — Virtual User Accounts (Virtual User) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/96d018528462) |
@@ -107,10 +115,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 08:25:55 GMT | “Congratulations! You’ve won…” — or have you? | The Cyber Hacker's Diary | [Read More](https://medium.com/p/c7556e0a18f9) |
 | Sat, 24 May 2025 08:23:55 GMT | Safety Is a Human Right | Marcus Koehnlein | [Read More](https://medium.com/p/9f41ca77da8e) |
 | Sat, 24 May 2025 08:22:29 GMT | Spaghetti Legacy and the AI Offensive: A Digital Arms Race We’re Losing | Krzyś | [Read More](https://medium.com/p/7efb713030fe) |
-| Sat, 24 May 2025 08:21:29 GMT | The OAuth 2.1 Spec in Plain English (Part 1) | MC | [Read More](https://medium.com/p/657780f2ec3d) |
-| Sat, 24 May 2025 08:16:55 GMT | Secure Your Valuables with MySafe India: Trusted Safety Deposit Lockers Near You | Mysafe India - Safe Deposit Box Service​ | [Read More](https://medium.com/p/cf5982519f00) |
-| Sat, 24 May 2025 08:12:35 GMT | Understanding Malware | Cyber T | [Read More](https://medium.com/p/dbe61cc9c30c) |
-| Sat, 24 May 2025 08:11:13 GMT | From Innovation to Exposure: Navigating Security Risks of Agentic AI | Ajay Kumar | [Read More](https://medium.com/p/ba0b83c7d42d) |
-| Sat, 24 May 2025 08:09:53 GMT | Hire a Hacker to Recover an Account: Ethical Comprehensive Guide | Hire A Hacker Online | [Read More](https://medium.com/p/5cbc647eb008) |
-| Sat, 24 May 2025 07:58:08 GMT | Top Industrial Security Guard Services in Bangalore: Trusted Protection for Your Business | Southwallsecuritiesservice | [Read More](https://medium.com/p/0b07adfbff74) |
-| Sat, 24 May 2025 07:56:04 GMT | Here's How I Recovered My Money From Blockdag | Isabel Pilpel | [Read More](https://medium.com/p/1304734daeab) |
