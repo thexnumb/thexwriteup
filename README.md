@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 03:44:50 GMT | I Found Me Where Love Waits | Kehinde Margret Makinde | [Read More](https://medium.com/p/3bfaa73b5ef4) |
+| Sat, 24 May 2025 03:33:35 GMT | Voices of Deception: | Quentin Wallace | [Read More](https://medium.com/p/5fe8dec0254f) |
+| Sat, 24 May 2025 03:31:27 GMT | ClickFix Captcha: The Ingenious Social Engineering Tactic Exploiting User Trust | Deven Chhajed | [Read More](https://medium.com/p/279e70152845) |
+| Sat, 24 May 2025 03:26:29 GMT | Welcome to My Medium: Your Gateway to the Latest on Tech, AI, and Cybersecurity | Dez Blanchfield | [Read More](https://medium.com/p/eecb9c5bd3de) |
+| Sat, 24 May 2025 03:22:04 GMT | Don’t Let Your Android Be a Target: A Guide to Spotting and Dodging Scams
+In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc81f6d8) |
+| Sat, 24 May 2025 03:06:20 GMT | i used to think that vulnerability was a sin | vale | [Read More](https://medium.com/p/2f64380444fe) |
+| Sat, 24 May 2025 03:05:55 GMT | Marriage & InfoSec: A Lifetime Certification Process | Pratimaprakash | [Read More](https://medium.com/p/2810544303ca) |
+| Sat, 24 May 2025 03:02:25 GMT | Assessment Methodologies Vulnerability Assessment CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/38be35d2e8af) |
 | Sat, 24 May 2025 02:32:32 GMT | “Where is the TCP/IP Model Around Me?” — A Fun Guide for Curious Brains | Madhu Kiran Ravula | [Read More](https://medium.com/p/5d6fc4afc12b) |
 | Sat, 24 May 2025 02:27:01 GMT | Businesses Should Assess SOC Performance w/Red Teams, Not Mean Time to [lame] | Drew Foerster | [Read More](https://medium.com/p/2d72cb685310) |
 | Sat, 24 May 2025 02:09:40 GMT | The Reddit Poem That Unlocked Free Access to AI Chatbot for My Website! | CodeXpert | [Read More](https://medium.com/p/b4869723587e) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 17:11:12 GMT | How to Ruin a Web App in 3 Clicks | Derick Johnson | [Read More](https://medium.com/p/98d5b01b5543) |
 | Fri, 23 May 2025 17:08:55 GMT | Cyber Crisis Masters: How CISOs Command Respect and Inspire Action | Paul van der Hagen | [Read More](https://medium.com/p/1e55d4f4a847) |
 | Fri, 23 May 2025 17:07:51 GMT | Operationalizing the BadSuccessor: Abusing dMSA for Domain Privilege Escalation | Arun Nair | [Read More](https://medium.com/p/429cefc36187) |
-| Fri, 23 May 2025 17:07:46 GMT | From The Boardroom to The Frontline: How CISOs Can Communicate with Impact | Paul van der Hagen | [Read More](https://medium.com/p/a37f8d9f61b9) |
-| Fri, 23 May 2025 17:03:03 GMT | أيوب بن زكور: خبير في استرجاع الحسابات الرقمية وحماية الهوية الإلكترونية | Benzekkourayoub | [Read More](https://medium.com/p/69059cc40d78) |
-| Fri, 23 May 2025 16:46:51 GMT | How to Win a Middle-Aged Woman’s Heart: Essential Strategies | ZaraTaylor | [Read More](https://medium.com/p/3046864ddd1a) |
-| Fri, 23 May 2025 16:46:21 GMT | Want to install AI on your Laptop/Computer … Here’s How | Ammar Ahmed | [Read More](https://medium.com/p/cbe6045e4287) |
-| Fri, 23 May 2025 16:43:39 GMT | Why We Should Eliminate Unnecessary Middleware from Critical Systems | Jose Maria Costa Teixeira | [Read More](https://medium.com/p/28c7feee6d61) |
-| Fri, 23 May 2025 16:41:33 GMT | B is for Botnet: The Hidden Army You Never See Coming | Niti Singh | [Read More](https://medium.com/p/3d56c273176f) |
-| Fri, 23 May 2025 16:35:52 GMT | A is for Authentication: The First Line of Defense in Cybersecurity | Niti Singh | [Read More](https://medium.com/p/06aa1011d07c) |
-| Fri, 23 May 2025 16:28:04 GMT | What Can Scammers Do with Your Phone Number? More Than You Think | SafeAeon Inc. | [Read More](https://medium.com/p/e5dcc121381e) |
