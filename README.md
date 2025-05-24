@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 23:15:14 GMT | What Cyber Security Taught Me About Learning | Anthony Mukwaya | [Read More](https://medium.com/p/bdb91b497b73) |
+| Sat, 24 May 2025 23:10:55 GMT | Hacked by iKurdBlitz Team | iKurdBlitz Team | [Read More](https://medium.com/p/2e59a22aa1a4) |
+| Sat, 24 May 2025 22:58:53 GMT | Global Operation Strikes Blow to Lumma Stealer’s Cybercrime Infrastructure | Jon C | [Read More](https://medium.com/p/cc1aa019b2a5) |
 | Sat, 24 May 2025 22:26:08 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/fea55f760329) |
 | Sat, 24 May 2025 22:25:59 GMT | How a Business Logic Error Earned me my First 100$ in a Bug Bounty Private Program | Charles Rostain | [Read More](https://medium.com/p/7a13af06f7d1) |
 | Sat, 24 May 2025 22:16:31 GMT | What is DNS and How It Works: The Phonebook of the Internet | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5ef76bc4a625) |
@@ -112,6 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 13:30:04 GMT | Attachment: things should be smooth for ‘my’ team | Paarul Shah | [Read More](https://medium.com/p/31a30ee057c1) |
 | Sat, 24 May 2025 13:26:51 GMT | Why Get Scanned Regularly | Ed-it Editions | [Read More](https://medium.com/p/ca2a4c528e76) |
 | Sat, 24 May 2025 13:20:03 GMT | Cyber Safety in the Digital Age: Stay One Step Ahead of Online Threats | GDG on Campus MET | [Read More](https://medium.com/p/274aa7488483) |
-| Sat, 24 May 2025 13:07:49 GMT | Next.js 15.3 Authentication & Authorization: Mastering Middleware for Secure Access Control | Samad Saiyed | [Read More](https://medium.com/p/e8ac149a8682) |
-| Sat, 24 May 2025 13:02:29 GMT | The Silent Thief: How to Defend Against the Infostealer Surge in 2024–2025 | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d7b83ec69673) |
-| Sat, 24 May 2025 13:00:33 GMT | The Future of Enterprise Security: Why Zero Trust Architecture Is No Longer Optional | saurabh cyberinfomines | [Read More](https://medium.com/p/908efca66e03) |
