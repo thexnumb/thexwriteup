@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 05:22:43 GMT | Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way | Kailasv | [Read More](https://medium.com/p/614aba550f7b) |
+| Sat, 24 May 2025 05:21:44 GMT | He found me tired and unsure and somehow he stayed. | li⋆ ۪ | [Read More](https://medium.com/p/03445532cd43) |
+| Sat, 24 May 2025 05:18:50 GMT | How to Build a Tech Portfolio That Actually Gets You Hired in 2025 | Prism HRC | [Read More](https://medium.com/p/2a4e4ee3d7aa) |
+| Sat, 24 May 2025 05:15:57 GMT | Top 10 CVEs of May 2025: Score, Proof of Concept Availability, and Recommended Actions | Rajesh Mondal | [Read More](https://medium.com/p/7c7eadb82ff5) |
+| Sat, 24 May 2025 05:09:44 GMT | I Want to Research the Future of Data Transfer Speeds—Here’s Why It’s More Important Than Ever | Avani Bhoot | [Read More](https://medium.com/p/802c49b6ab3d) |
 | Sat, 24 May 2025 05:06:07 GMT | The $260M Cetus Protocol Hack: Anatomy of a DeFi Disaster | Tushar Sengar | [Read More](https://medium.com/p/d29ee0596ddb) |
 | Sat, 24 May 2025 04:52:28 GMT | API Key Setup for OpenAI, Groq, and Langsmith in Your Projects | Vamshi Krishna Ginna | [Read More](https://medium.com/p/edf745e9507c) |
 | Sat, 24 May 2025 04:47:24 GMT | Tool Fatigue: Cybersecurity’s Dirty Secret | JC Gaillard | [Read More](https://medium.com/p/780f32770e1c) |
@@ -108,8 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 17:37:22 GMT | How to Build AI-Powered Cybersecurity Applications | Xaltius | [Read More](https://medium.com/p/38078276d53a) |
 | Fri, 23 May 2025 17:36:24 GMT | One of Ubisoft's Best Games - Watch_Dogs 2 Review | Brando Calrissian | [Read More](https://medium.com/p/2ced7f1afd29) |
 | Fri, 23 May 2025 17:35:33 GMT | Fast and Easy Money Is Usually a Sign the Job Offer Is a Scam | Tom Handy | [Read More](https://medium.com/p/b35d588f6a9b) |
-| Fri, 23 May 2025 17:33:41 GMT | Building a Generative AI-Powered Cybersecurity Workforce | Xaltius | [Read More](https://medium.com/p/7ee8c75edc40) |
-| Fri, 23 May 2025 17:29:24 GMT | Automating Security Control Mapping with AI: How Laziness Led to Innovation | M1k0 | [Read More](https://medium.com/p/84737529aacf) |
-| Fri, 23 May 2025 17:27:47 GMT | HTB Write-up: UnderPass (Easy) | Ivanahm | [Read More](https://medium.com/p/01e42a5aeb1a) |
-| Fri, 23 May 2025 17:24:37 GMT | Lockheed Martin and IBM Pioneer Quantum-Classical Hybrid Computing for Complex Molecular… | QuantumGenie | [Read More](https://medium.com/p/a6ae35dcc968) |
-| Fri, 23 May 2025 17:22:03 GMT | How to Spot a Phishing Link: Tips to Keep You Safe | Xaltius | [Read More](https://medium.com/p/68ddb5043a56) |
