@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 01:31:24 GMT | Git Worktree: The Swiss Army Knife You Didn’t Know You Needed | Akhshy Ganesh | [Read More](https://medium.com/p/a017a305ff85) |
+| Sat, 24 May 2025 01:17:25 GMT | SINCON SG 2025: CTF Walkthrough of Dragon Badge by hackerware.io | Astik Rawat | [Read More](https://medium.com/p/1efb31322f10) |
+| Sat, 24 May 2025 01:13:32 GMT | Directory Listing Vulnerability Leading to Information Disclosure and Full Database Access on an… | Waleed Osama | [Read More](https://medium.com/p/904dc4271a9d) |
+| Sat, 24 May 2025 01:10:26 GMT | Londra,Anı,Trajikomik Geçmişten Geleceğe Hepsi Bir Arada. | Mahmut Boz | [Read More](https://medium.com/p/65a810269e8a) |
+| Sat, 24 May 2025 01:06:31 GMT | “I Fell in Love and Lost Everything”: Some Traps Even Smart People Can’t Avoid | Lilyana | [Read More](https://medium.com/p/b3ee412701d4) |
+| Sat, 24 May 2025 01:00:58 GMT | From the Frying Pan Into the Fire: How Crypto Scam Victims Are Targeted Twice | Natasha Fuller | [Read More](https://medium.com/p/9c937d88c5d0) |
+| Sat, 24 May 2025 00:53:23 GMT | ️‍♂️ How Attackers Disguise Malware as Harmless PDF Files — And How You Can Spot It | Yua Mikanana | [Read More](https://medium.com/p/2dffe663c5ec) |
+| Sat, 24 May 2025 00:42:14 GMT | I Recently Completed a Cybersecurity Course – Here’s What I Learned | Faiza Islam Nahin | [Read More](https://medium.com/p/e1e2b231ffc6) |
+| Sat, 24 May 2025 00:20:17 GMT | Stronger, Sharper, Focused: The Bubsy AI Comeback | Bubsy | [Read More](https://medium.com/p/32f830106348) |
+| Sat, 24 May 2025 00:10:29 GMT | Write-up PicoCTF (Capture The Flag) — Decifrando Pacotes de Rede no Wireshark | Sérgio Corrêa | [Read More](https://medium.com/p/e1ac1ed9c619) |
+| Sat, 24 May 2025 00:08:06 GMT | Finance 2025: The Rise of AI-Powered Scams and How to Protect Yourself | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/d3955741a374) |
+| Fri, 23 May 2025 23:47:35 GMT | The Windows Commands is a tragedy-comedy with many acts. | The Security Alchemist | [Read More](https://medium.com/p/f0286943d739) |
+| Fri, 23 May 2025 23:45:08 GMT | Why Your Next IoT Device Needs ‘DNA’: Inside the Secret ‘Skin’ of PUFs That Makes Devices… | SrijitPaul, CSE Grad | [Read More](https://medium.com/p/3b8b788b5221) |
 | Fri, 23 May 2025 23:32:23 GMT | 100 Series Cellular Bridge By HPE Aruba Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/8117806bab8f) |
 | Fri, 23 May 2025 23:16:35 GMT | They Fall for the Silhouette | Alexandra Engen | [Read More](https://medium.com/p/a9e798a84e44) |
 | Fri, 23 May 2025 23:09:05 GMT | 100+ Fake Chrome Extensions Are Hijacking Sessions and Stealing Credentials | Cyber-AppSec | [Read More](https://medium.com/p/bba2f8b408b0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 16:20:19 GMT | Hacking NASA : The Journey to My First Hall of Fame | B4LOGI | [Read More](https://medium.com/p/3d6a978b3d17) |
 | Fri, 23 May 2025 16:18:42 GMT | Intune Patch Management: Keeping Your Devices Secure and Up to Date | SafeAeon Inc. | [Read More](https://medium.com/p/632b2abec38c) |
 | Fri, 23 May 2025 16:12:11 GMT | SOC108 — Malicious Remote Access Software Detected: Event ID 38 | Cyril Philipp Abajar | [Read More](https://medium.com/p/eb3d67f7ca0d) |
-| Fri, 23 May 2025 16:10:28 GMT | FBI Warns of Luna Moth Extortion Attacks Targeting U.S. Law Firms | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/0bc6494efc73) |
-| Fri, 23 May 2025 16:05:51 GMT | How I Use LLMs to Supercharge My Bug Bounty Recon | Spectat0rguy | [Read More](https://medium.com/p/3f9892c6b5a0) |
-| Fri, 23 May 2025 16:04:10 GMT | MDR as a Service: A Powerful Defense Against Modern Cyber Threats | SafeAeon Inc. | [Read More](https://medium.com/p/03707f77135a) |
-| Fri, 23 May 2025 16:02:26 GMT | What is Secure File Transfer Protocol (SFTP) — TechWithTwin | TechWithTwin | [Read More](https://medium.com/p/63174cc97d85) |
-| Fri, 23 May 2025 16:02:26 GMT | The Invisible Theater: When AI Simulates Emotional Connection | Donalda | [Read More](https://medium.com/p/71d9d5208f8a) |
-| Fri, 23 May 2025 16:00:09 GMT | The 3 Books Every Cyber Defender Swears By | Ahmad Javed | [Read More](https://medium.com/p/92897ea1fbd0) |
-| Fri, 23 May 2025 15:52:35 GMT | Why Authoritarianism Fails Delivering Safety? | alfonso españa | [Read More](https://medium.com/p/3bf55db43fa8) |
-| Fri, 23 May 2025 15:52:27 GMT | Integrating Data Governance, Cybersecurity, and AI Governance: A Holistic Framework for… | Patrick Oh | [Read More](https://medium.com/p/b1898862bf46) |
-| Fri, 23 May 2025 15:42:50 GMT | The ROI of No-Code Integration: How Origami™ is Helping Businesses Connect Systems and Unleash… | Hussein Abdelwahab | [Read More](https://medium.com/p/d2faf6f08808) |
-| Fri, 23 May 2025 15:42:45 GMT | Tryhackme’s PublisherCTF MSF. | lukewago | [Read More](https://medium.com/p/e9ebaf724c24) |
-| Fri, 23 May 2025 15:36:19 GMT | Reverse Engineering Başlanğıcı: Easy Keygen Analizi (IDA Pro və x32dbg ilə) | Elmin Farzaliyev | [Read More](https://medium.com/p/37315ccedcc3) |
-| Fri, 23 May 2025 15:35:04 GMT | Is WhatsApp Safe in 2025? The Real Privacy Breakdown | Atomic Mail | [Read More](https://medium.com/p/17c2becb8c91) |
-| Fri, 23 May 2025 15:33:01 GMT | Securing Your Containers: Best Practices for Docker Security | AbdulRahman Mostafa | [Read More](https://medium.com/p/ed14e1c4a8af) |
