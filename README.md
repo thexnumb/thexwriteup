@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 11:33:20 GMT | $1,500 Bounty for Critical Token Leak Leading to RCE in Mozilla’s Netlify Account | Monika sharma | [Read More](https://medium.com/p/1d32ca5938a8) |
+| Sat, 24 May 2025 11:29:53 GMT | Implementasi DevSecOps untuk Peningkatan Keamanan Container Image di Harbor menggunakan Distroless… | Krisna Wahyu Andriawan | [Read More](https://medium.com/p/97d8f1c3473f) |
+| Sat, 24 May 2025 11:28:23 GMT | 5 Easy Ways to Make Money from Home Using Artificial Intelligence:
+In today’s fast-paced digital… | Those Who Concern the World | [Read More](https://medium.com/p/6b5b228ad022) |
 | Sat, 24 May 2025 11:13:22 GMT | Day 2: Stored XSS into HTML context with nothing encoded: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/5bf4fbe2366d) |
+| Sat, 24 May 2025 11:13:14 GMT | Hackers Exploit TikTok Videos to Spread Malware via Fake Software Links | CyBlog | [Read More](https://medium.com/p/068f4c195e41) |
+| Sat, 24 May 2025 11:12:49 GMT | The Silent Cost of Excellence | Paul W.M. Fedak, MD | [Read More](https://medium.com/p/9633165ef7a7) |
 | Sat, 24 May 2025 11:05:37 GMT | Best Security Services in Navi Mumbai: Tradition Meets Tech | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/58b2dfd7a017) |
 | Sat, 24 May 2025 11:02:37 GMT | What can I do to recover my money from Enviodinero ? | Erica | [Read More](https://medium.com/p/6249af08685b) |
 | Sat, 24 May 2025 10:59:42 GMT | The role of MCA professionals in ensuring cybersecurity and data privacy | Poddar Group of Institutions | [Read More](https://medium.com/p/63060a2fe264) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 03:33:35 GMT | Voices of Deception: | Quentin Wallace | [Read More](https://medium.com/p/5fe8dec0254f) |
 | Sat, 24 May 2025 03:31:27 GMT | ClickFix Captcha: The Ingenious Social Engineering Tactic Exploiting User Trust | Deven Chhajed | [Read More](https://medium.com/p/279e70152845) |
 | Sat, 24 May 2025 03:26:29 GMT | Welcome to My Medium: Your Gateway to the Latest on Tech, AI, and Cybersecurity | Dez Blanchfield | [Read More](https://medium.com/p/eecb9c5bd3de) |
-| Sat, 24 May 2025 03:22:04 GMT | Don’t Let Your Android Be a Target: A Guide to Spotting and Dodging Scams
-In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc81f6d8) |
-| Sat, 24 May 2025 03:06:20 GMT | i used to think that vulnerability was a sin | vale | [Read More](https://medium.com/p/2f64380444fe) |
-| Sat, 24 May 2025 03:05:55 GMT | Marriage & InfoSec: A Lifetime Certification Process | Pratimaprakash | [Read More](https://medium.com/p/2810544303ca) |
-| Sat, 24 May 2025 03:02:25 GMT | Assessment Methodologies Vulnerability Assessment CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/38be35d2e8af) |
-| Sat, 24 May 2025 02:32:32 GMT | “Where is the TCP/IP Model Around Me?” — A Fun Guide for Curious Brains | Madhu Kiran Ravula | [Read More](https://medium.com/p/5d6fc4afc12b) |
