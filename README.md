@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 02:32:32 GMT | “Where is the TCP/IP Model Around Me?” — A Fun Guide for Curious Brains | Madhu Kiran Ravula | [Read More](https://medium.com/p/5d6fc4afc12b) |
+| Sat, 24 May 2025 02:27:01 GMT | Businesses Should Assess SOC Performance w/Red Teams, Not Mean Time to [lame] | Drew Foerster | [Read More](https://medium.com/p/2d72cb685310) |
+| Sat, 24 May 2025 02:09:40 GMT | The Reddit Poem That Unlocked Free Access to AI Chatbot for My Website! | CodeXpert | [Read More](https://medium.com/p/b4869723587e) |
+| Sat, 24 May 2025 01:53:55 GMT | Full-Lifecycle Security Architecture for Critical Infrastructure | A-STAR7_DOCTOR | [Read More](https://medium.com/p/797421f35881) |
+| Sat, 24 May 2025 01:40:07 GMT | Cross-Domain Cybersecurity Integration: Bridging the Divide Between Air-Gapped, SCADA, IoT, and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/e061f08ba1f4) |
 | Sat, 24 May 2025 01:31:24 GMT | Git Worktree: The Swiss Army Knife You Didn’t Know You Needed | Akhshy Ganesh | [Read More](https://medium.com/p/a017a305ff85) |
 | Sat, 24 May 2025 01:17:25 GMT | SINCON SG 2025: CTF Walkthrough of Dragon Badge by hackerware.io | Astik Rawat | [Read More](https://medium.com/p/1efb31322f10) |
 | Sat, 24 May 2025 01:13:32 GMT | Directory Listing Vulnerability Leading to Information Disclosure and Full Database Access on an… | Waleed Osama | [Read More](https://medium.com/p/904dc4271a9d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 May 2025 16:41:33 GMT | B is for Botnet: The Hidden Army You Never See Coming | Niti Singh | [Read More](https://medium.com/p/3d56c273176f) |
 | Fri, 23 May 2025 16:35:52 GMT | A is for Authentication: The First Line of Defense in Cybersecurity | Niti Singh | [Read More](https://medium.com/p/06aa1011d07c) |
 | Fri, 23 May 2025 16:28:04 GMT | What Can Scammers Do with Your Phone Number? More Than You Think | SafeAeon Inc. | [Read More](https://medium.com/p/e5dcc121381e) |
-| Fri, 23 May 2025 16:26:38 GMT | From threats to attack surfaces: a natural progression | Security Consulting Blogspot | [Read More](https://medium.com/p/f8d4e090e991) |
-| Fri, 23 May 2025 16:24:28 GMT | Velvet Chollima APT Adversary Simulation | Abdulrehman Ali | [Read More](https://medium.com/p/89c5159e7fc1) |
-| Fri, 23 May 2025 16:20:19 GMT | Hacking NASA : The Journey to My First Hall of Fame | B4LOGI | [Read More](https://medium.com/p/3d6a978b3d17) |
-| Fri, 23 May 2025 16:18:42 GMT | Intune Patch Management: Keeping Your Devices Secure and Up to Date | SafeAeon Inc. | [Read More](https://medium.com/p/632b2abec38c) |
-| Fri, 23 May 2025 16:12:11 GMT | SOC108 — Malicious Remote Access Software Detected: Event ID 38 | Cyril Philipp Abajar | [Read More](https://medium.com/p/eb3d67f7ca0d) |
