@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 15:30:50 GMT | Staking ChainBounty $BOUNTY: A Step-by-Step Process | BOUNTY | [Read More](https://medium.com/p/2c3cd7b0a30f) |
+| Sat, 24 May 2025 15:24:36 GMT | Time to Hack Password via Brute Force | Vijay Kumar Gupta | [Read More](https://medium.com/p/10a3139cdfa4) |
+| Sat, 24 May 2025 15:22:27 GMT | The Windows Security Journey — Virtual User Accounts (Virtual User) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/96d018528462) |
+| Sat, 24 May 2025 15:20:59 GMT | Warp.dev In A Bad Position 2025 | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/9c5201245ce5) |
+| Sat, 24 May 2025 15:19:16 GMT | Secure Your Codebase with SAST, DAST & SCA | Torsa Naidu | [Read More](https://medium.com/p/6c936d4cce5c) |
+| Sat, 24 May 2025 15:13:04 GMT | The Most Immutable Telegram Channel | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/a3c123cb7007) |
 | Sat, 24 May 2025 15:12:28 GMT | ️ Beyond Uniforms: Building India’s Security Leaders at RRU | Rathinavel M.S | [Read More](https://medium.com/p/07269ea905c1) |
 | Sat, 24 May 2025 15:06:02 GMT | Business Logic Vulnerability in Dell’s Payment API — Reported via Bugcrowd | Aditya sunny | [Read More](https://medium.com/p/f2dc2192227c) |
 | Sat, 24 May 2025 15:03:39 GMT | LetsDefend: Easy Walkthrough for Malware Alert (Event ID: 77, SOC138) | El Mahjoub AIT MEDDAH | [Read More](https://medium.com/p/ba45cb6d55d0) |
@@ -108,9 +114,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 08:09:53 GMT | Hire a Hacker to Recover an Account: Ethical Comprehensive Guide | Hire A Hacker Online | [Read More](https://medium.com/p/5cbc647eb008) |
 | Sat, 24 May 2025 07:58:08 GMT | Top Industrial Security Guard Services in Bangalore: Trusted Protection for Your Business | Southwallsecuritiesservice | [Read More](https://medium.com/p/0b07adfbff74) |
 | Sat, 24 May 2025 07:56:04 GMT | Here's How I Recovered My Money From Blockdag | Isabel Pilpel | [Read More](https://medium.com/p/1304734daeab) |
-| Sat, 24 May 2025 07:51:47 GMT | AI Coding Assistants: Productivity Gains and Security Pitfalls | Pan Xinghan | [Read More](https://medium.com/p/46132db7d69d) |
-| Sat, 24 May 2025 07:47:05 GMT | Blockdex Review - Is It Legit or a Scam? | Will Couvreur | [Read More](https://medium.com/p/f4f39ca0087f) |
-| Sat, 24 May 2025 07:46:58 GMT | Don’t Be Afraid to Be Human | The Sturg (Gerald Sturgill) | [Read More](https://medium.com/p/59556d46e8b2) |
-| Sat, 24 May 2025 07:45:33 GMT | Indonesia’s Digital Ministry Fumbles Cybersecurity Basics: A Warning Sign for Citizens | MITRE Doggy | [Read More](https://medium.com/p/3736ad6e83ae) |
-| Sat, 24 May 2025 07:44:44 GMT | Here’s How I Recover My Money From Blockdex | Will Couvreur | [Read More](https://medium.com/p/695ed1dc89ec) |
-| Sat, 24 May 2025 07:41:51 GMT | Docker Image Vulnerabilities with Trivy | Daniel Makhoba Emmanuel | [Read More](https://medium.com/p/e721228661db) |
