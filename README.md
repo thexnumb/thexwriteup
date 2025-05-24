@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 10:16:29 GMT | Why CISSP Certification is Essential for Cybersecurity Professionals | Cybernous Infosec consulting | [Read More](https://medium.com/p/24e3e4a6785f) |
+| Sat, 24 May 2025 10:16:19 GMT | The Ultimate Guide to Learn Linux Online: Start Your Journey Today | cyberwingITSolution | [Read More](https://medium.com/p/58d5ea4c3026) |
+| Sat, 24 May 2025 10:06:54 GMT | $1,000 Bounty: ReaderMode XSS in Brave via %READER-TITLE-NONCE% | Monika sharma | [Read More](https://medium.com/p/4204606dfe20) |
+| Sat, 24 May 2025 09:59:43 GMT | Off Karke On Kar Do: Why “Turning It Off and On Again” Actually Fixes Things | Rishabh Sharma | [Read More](https://medium.com/p/dcde92f6aa2e) |
+| Sat, 24 May 2025 09:54:47 GMT | Forensic Analysis of SQLite Databases | Dean | [Read More](https://medium.com/p/ba9490e74b14) |
+| Sat, 24 May 2025 09:54:18 GMT | My Experience Pen testing an E-Learning Platform | Boluwaji Akinsefunmi | [Read More](https://medium.com/p/d63a64adc8ab) |
+| Sat, 24 May 2025 09:48:01 GMT | Mastering DevOps Pipelines: A Complete Guide for Beginners and Professionals | cyberwingITSolution | [Read More](https://medium.com/p/35d8e4c4e2cb) |
+| Sat, 24 May 2025 09:40:44 GMT | Cain and Abel for Password Recovery | Krishdograa | [Read More](https://medium.com/p/07b26bfbd392) |
 | Sat, 24 May 2025 09:33:03 GMT | SSRF Vulnerability Explained: Server-Side Request Forgery Attack Types, Real-World Examples &… | Zoningxtr | [Read More](https://medium.com/p/c55a3bf8540c) |
 | Sat, 24 May 2025 09:14:27 GMT | When Trust Becomes a Target: SaaS Breaches and the Hidden Dangers in the Cloud | Chetan Seripally | [Read More](https://medium.com/p/4aba748974ef) |
 | Sat, 24 May 2025 09:10:36 GMT | Shadow AI ve Shadow IT: Patronlardan Habersiz Yapay Zeka mı? | ECG | [Read More](https://medium.com/p/cb979681504a) |
@@ -105,11 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Sat, 24 May 2025 00:08:06 GMT | Finance 2025: The Rise of AI-Powered Scams and How to Protect Yourself | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/d3955741a374) |
 | Fri, 23 May 2025 23:47:35 GMT | The Windows Commands is a tragedy-comedy with many acts. | The Security Alchemist | [Read More](https://medium.com/p/f0286943d739) |
 | Fri, 23 May 2025 23:45:08 GMT | Why Your Next IoT Device Needs ‘DNA’: Inside the Secret ‘Skin’ of PUFs That Makes Devices… | SrijitPaul, CSE Grad | [Read More](https://medium.com/p/3b8b788b5221) |
-| Fri, 23 May 2025 23:32:23 GMT | 100 Series Cellular Bridge By HPE Aruba Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/8117806bab8f) |
-| Fri, 23 May 2025 23:16:35 GMT | They Fall for the Silhouette | Alexandra Engen | [Read More](https://medium.com/p/a9e798a84e44) |
-| Fri, 23 May 2025 23:09:05 GMT | 100+ Fake Chrome Extensions Are Hijacking Sessions and Stealing Credentials | Cyber-AppSec | [Read More](https://medium.com/p/bba2f8b408b0) |
-| Fri, 23 May 2025 23:00:04 GMT | Always Encrypted in SQL Server: Protecting Sensitive Columns End-to-End | Sabyasachi Choudhury | [Read More](https://medium.com/p/4954f9211ba7) |
-| Fri, 23 May 2025 22:40:21 GMT | 5 Essential Pillars to Block CI/CD Supply Chain Attacks | Dibeesh KS | [Read More](https://medium.com/p/118fd329f028) |
-| Fri, 23 May 2025 22:37:58 GMT | ¿Es posible recuperar mi dinero de Fintok? | Marina Williams | [Read More](https://medium.com/p/9fe292d66a3a) |
-| Fri, 23 May 2025 22:36:24 GMT | A Man’s Real Fear of Losing You | Laura Miller | [Read More](https://medium.com/p/76e16a5d4164) |
-| Fri, 23 May 2025 22:36:23 GMT | AI-Powered Code Review: Detecting Zero-Day Vulnerabilities in Real-Time | Rizqi Mulki | [Read More](https://medium.com/p/a67ba69769a6) |
