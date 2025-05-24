@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 22:26:08 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/fea55f760329) |
+| Sat, 24 May 2025 22:25:59 GMT | How a Business Logic Error Earned me my First 100$ in a Bug Bounty Private Program | Charles Rostain | [Read More](https://medium.com/p/7a13af06f7d1) |
 | Sat, 24 May 2025 22:16:31 GMT | What is DNS and How It Works: The Phonebook of the Internet | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5ef76bc4a625) |
 | Sat, 24 May 2025 22:12:56 GMT | Rugged, Drained & Rekt: The Most Common Crypto Scams (and How to Spot Them) | PEPESEC AI | [Read More](https://medium.com/p/4313422bd80b) |
 | Sat, 24 May 2025 21:55:38 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/998cf45192b3) |
@@ -113,5 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 13:07:49 GMT | Next.js 15.3 Authentication & Authorization: Mastering Middleware for Secure Access Control | Samad Saiyed | [Read More](https://medium.com/p/e8ac149a8682) |
 | Sat, 24 May 2025 13:02:29 GMT | The Silent Thief: How to Defend Against the Infostealer Surge in 2024–2025 | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d7b83ec69673) |
 | Sat, 24 May 2025 13:00:33 GMT | The Future of Enterprise Security: Why Zero Trust Architecture Is No Longer Optional | saurabh cyberinfomines | [Read More](https://medium.com/p/908efca66e03) |
-| Sat, 24 May 2025 12:51:44 GMT | TryHackMe: Brains — Walkthrough | CyberQuestor | [Read More](https://medium.com/p/416e0452b451) |
-| Sat, 24 May 2025 12:45:44 GMT | How to Secure Firebase Services (eg: Remote Config) from Unauthorized Access in Android Apps | Mostafasarwar | [Read More](https://medium.com/p/c1a5929585ed) |
