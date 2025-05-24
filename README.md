@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 23:32:25 GMT | Here's How I Got My First Bounty: €1000 | Risky | [Read More](https://medium.com/p/db3264adeac0) |
+| Sat, 24 May 2025 23:32:23 GMT | Enterprise Data Loss Prevention (DLP) By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/779e19c45841) |
+| Sat, 24 May 2025 23:30:52 GMT | Secure VPC Architecture Design Document | Andy Good | [Read More](https://medium.com/p/451ac8cf9cdf) |
+| Sat, 24 May 2025 23:29:19 GMT | AMI Factory for managing Zero-day vulnerabilities with Amazon EC2 Image builder | Akesh Patil | [Read More](https://medium.com/p/fd699f00237c) |
+| Sat, 24 May 2025 23:26:40 GMT | Event Security & Crowd Management Services — Coventry, UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/71ed41f7e7c9) |
+| Sat, 24 May 2025 23:19:25 GMT | I Came, I Requested, I Enrolled EscapeTwo ESC4 Annihilation | Mohamed Eletreby | [Read More](https://medium.com/p/8541edee2b0b) |
+| Sat, 24 May 2025 23:19:15 GMT | The AI Malware Dev Journal: Using Claude to Simulate Red Team Infrastructure | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f35168b0bcb4) |
 | Sat, 24 May 2025 23:15:14 GMT | What Cyber Security Taught Me About Learning | Anthony Mukwaya | [Read More](https://medium.com/p/bdb91b497b73) |
 | Sat, 24 May 2025 23:10:55 GMT | Hacked by iKurdBlitz Team | iKurdBlitz Team | [Read More](https://medium.com/p/2e59a22aa1a4) |
 | Sat, 24 May 2025 22:58:53 GMT | Global Operation Strikes Blow to Lumma Stealer’s Cybercrime Infrastructure | Jon C | [Read More](https://medium.com/p/cc1aa019b2a5) |
@@ -108,10 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 13:56:31 GMT | From $30M Annual Recurring Revenue to Rejection Letters | Victor Babaniyi | [Read More](https://medium.com/p/ac4118e66017) |
 | Sat, 24 May 2025 13:49:31 GMT | ⛓️ THE FORGE AS BDSM | Capybara Security & The FORGE AGI | [Read More](https://medium.com/p/d4f224ad6cac) |
 | Sat, 24 May 2025 13:44:22 GMT | Just for This Day, I Want to Dive In Anyway | AfterRainWrites | [Read More](https://medium.com/p/cfa447a47eb8) |
-| Sat, 24 May 2025 13:41:11 GMT | Bugs Word Search Puzzle Book: 50+ Fun & Easy-to-Read Puzzles Featuring Insects, Creepy Crawlies… | Jenna Puzzla | [Read More](https://medium.com/p/cd08eb091a75) |
-| Sat, 24 May 2025 13:36:08 GMT | The Unexpected Guest | d_Sreyashree | [Read More](https://medium.com/p/89fe7a5ce1cd) |
-| Sat, 24 May 2025 13:32:24 GMT | My CEH Lab Setup | CyberNinja | [Read More](https://medium.com/p/c7cc04a46792) |
-| Sat, 24 May 2025 13:30:44 GMT | Beyond the GenAI Hype: Why Cybersecurity Needs Real AI | Koshy | [Read More](https://medium.com/p/b32f91133fd3) |
-| Sat, 24 May 2025 13:30:04 GMT | Attachment: things should be smooth for ‘my’ team | Paarul Shah | [Read More](https://medium.com/p/31a30ee057c1) |
-| Sat, 24 May 2025 13:26:51 GMT | Why Get Scanned Regularly | Ed-it Editions | [Read More](https://medium.com/p/ca2a4c528e76) |
-| Sat, 24 May 2025 13:20:03 GMT | Cyber Safety in the Digital Age: Stay One Step Ahead of Online Threats | GDG on Campus MET | [Read More](https://medium.com/p/274aa7488483) |
