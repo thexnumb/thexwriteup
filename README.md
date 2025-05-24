@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 06:20:21 GMT | Revolutionizing Security: The Power of Biometric Access Control Systems in UAE | Tekhabeeb | [Read More](https://medium.com/p/443e81614f0b) |
+| Sat, 24 May 2025 06:12:28 GMT | Agent T TryHackMe Walkthrough | Regan Temudo | [Read More](https://medium.com/p/0bdb54e5ae9f) |
+| Sat, 24 May 2025 06:07:50 GMT | The Rise of Nation-State Hackers: GRU’s Unit 26165 in the Spotlight | Md Samiul Islam | [Read More](https://medium.com/p/8ef96fde933a) |
+| Sat, 24 May 2025 06:04:19 GMT | Top 5 Game-Changing IT Tools for 2025 | Hari Babu Dornala | [Read More](https://medium.com/p/f4090997d58f) |
+| Sat, 24 May 2025 06:01:51 GMT | Playfair Cipher — A Beginner’s Guide | Devansh  Kushwaha | [Read More](https://medium.com/p/53baf0ddc0f1) |
+| Sat, 24 May 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — May 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/30fc6c343f5f) |
+| Sat, 24 May 2025 05:52:47 GMT | The value and the meaning | riotaro okada | [Read More](https://medium.com/p/c2c53d1cae28) |
+| Sat, 24 May 2025 05:50:36 GMT | CIA — Wait What?! | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/aa12edfc966c) |
+| Sat, 24 May 2025 05:45:17 GMT | Escalating impact: Full Account Takeover via Stored XSS | Raj Ukani | [Read More](https://medium.com/p/24e5aee209f6) |
+| Sat, 24 May 2025 05:41:17 GMT | The Perfect Weapon — David Sanger | seantywork | [Read More](https://medium.com/p/e061780c2c12) |
+| Sat, 24 May 2025 05:40:34 GMT | FOFA Dorking - Part4 | AbhirupKonwar | [Read More](https://medium.com/p/7d0a09995407) |
 | Sat, 24 May 2025 05:22:43 GMT | Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way | Kailasv | [Read More](https://medium.com/p/614aba550f7b) |
 | Sat, 24 May 2025 05:21:44 GMT | He found me tired and unsure and somehow he stayed. | li⋆ ۪ | [Read More](https://medium.com/p/03445532cd43) |
 | Sat, 24 May 2025 05:18:50 GMT | How to Build a Tech Portfolio That Actually Gets You Hired in 2025 | Prism HRC | [Read More](https://medium.com/p/2a4e4ee3d7aa) |
@@ -102,14 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 18:44:28 GMT | E2E-Chat: Secure Peer-to-Peer Messaging and File Sharing with WebRTC | Sidharth | [Read More](https://medium.com/p/ca86192b7187) |
 | Fri, 23 May 2025 18:43:03 GMT | # ️ Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/928074df8007) |
 | Fri, 23 May 2025 18:38:02 GMT | SkyArk: Hunting Cloud Shadow Admins in AWS and Azure | Tharindu Damith | [Read More](https://medium.com/p/d25ad2a0aff4) |
-| Fri, 23 May 2025 18:32:24 GMT | Advanced Caching Techniques for Blazing Fast WordPress Sites | Shubradeb | [Read More](https://medium.com/p/a16b2112f91a) |
-| Fri, 23 May 2025 18:28:44 GMT | Human and User | Aleksej Sokolov | [Read More](https://medium.com/p/1eb3def476bb) |
-| Fri, 23 May 2025 18:18:12 GMT | My first experience with Cloudflare | Mohammed Faruq | [Read More](https://medium.com/p/de8912b4475a) |
-| Fri, 23 May 2025 18:14:24 GMT | AI-Powered Security: How Artificial Intelligence is Revolutionizing Digital Asset Protection | Chronos Vault | [Read More](https://medium.com/p/e3d8031e6a8e) |
-| Fri, 23 May 2025 18:06:28 GMT | The Future of Cybersecurity Is AI-Augmented, Not AI-Replaced A human + machine strategy for the… | Corey Jones | [Read More](https://medium.com/p/f00fde69e295) |
-| Fri, 23 May 2025 17:52:15 GMT | Cybersecurity News Review — Week 21 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/1f2cc2d0bcb0) |
-| Fri, 23 May 2025 17:51:12 GMT | Navigation Guards in Web Applications | Natarajan C K | [Read More](https://medium.com/p/c42e6b234a52) |
-| Fri, 23 May 2025 17:42:53 GMT | Deep Dive: Analyzing a Weaponized SVG-Based Phishing Attack | Shefali Kumari | [Read More](https://medium.com/p/1a0a520548e7) |
-| Fri, 23 May 2025 17:37:22 GMT | How to Build AI-Powered Cybersecurity Applications | Xaltius | [Read More](https://medium.com/p/38078276d53a) |
-| Fri, 23 May 2025 17:36:24 GMT | One of Ubisoft's Best Games - Watch_Dogs 2 Review | Brando Calrissian | [Read More](https://medium.com/p/2ced7f1afd29) |
-| Fri, 23 May 2025 17:35:33 GMT | Fast and Easy Money Is Usually a Sign the Job Offer Is a Scam | Tom Handy | [Read More](https://medium.com/p/b35d588f6a9b) |
