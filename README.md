@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 18:42:25 GMT | The Security You Never See | Beyond Merit | [Read More](https://medium.com/p/41b4a0a3d52e) |
+| Sat, 24 May 2025 18:35:40 GMT | The Life of an Emotional Outsider | Emotional Manscape | [Read More](https://medium.com/p/fd4d8bc989da) |
+| Sat, 24 May 2025 18:31:38 GMT | Hack The Box Season 8 “Puppy” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/07b2ec1b30c1) |
+| Sat, 24 May 2025 18:30:26 GMT | The Cybersecurity Frontier of 2025: AI, Privacy, and the New Digital Defense | Veridian Zenith Tech News | [Read More](https://medium.com/p/53de817b210e) |
+| Sat, 24 May 2025 18:28:26 GMT | How I Found Dom Xss on School Website. | Debug 0xa | [Read More](https://medium.com/p/defcaa2a4455) |
+| Sat, 24 May 2025 18:23:43 GMT | Beyond the Noise: A Rare Look into Today’s Tech Shifts That Actually Matter | Veridian Zenith Tech News | [Read More](https://medium.com/p/3fe2965dd980) |
+| Sat, 24 May 2025 18:22:05 GMT | Bumblebee Malware Uses SEO Poisoning to Target Pentesters & IT Pros | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/fc37a3c81032) |
+| Sat, 24 May 2025 18:14:01 GMT | 10 Agentic AI Patterns That Are Reshaping Intelligent Systems | Rushabh Papinwar | [Read More](https://medium.com/p/fd921f154b00) |
 | Sat, 24 May 2025 18:09:47 GMT | When Trusted Downloads Turn Toxic: How SEO Poisoning Is Fueling the Spread of Bumblebee Malware and… | Chetan Seripally | [Read More](https://medium.com/p/e8d53388136b) |
 | Sat, 24 May 2025 18:07:50 GMT | Pipeline Automation: DevOps Meets Security | Regan Temudo | [Read More](https://medium.com/p/bac143eb7ac8) |
 | Sat, 24 May 2025 18:07:40 GMT | How to Set Up Your Own Cybersecurity HomeLab: Install VirtualBox, Kali Linux, and Metasploitable… | Suriya | [Read More](https://medium.com/p/aecc90ca0cde) |
@@ -107,11 +115,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 10:32:41 GMT | Phone Number Investigation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/52571c4d82bc) |
 | Sat, 24 May 2025 10:29:57 GMT | Design a Network Security Monitoring Tool | Ankit Kumar Srivastava | [Read More](https://medium.com/p/2a719f797c6e) |
 | Sat, 24 May 2025 10:29:11 GMT | Part 5— How I Run My Entire Digital Life on a Raspberry Pi: Password management with Bitwarden | Levente Csikor | [Read More](https://medium.com/p/f8b5bcb8f137) |
-| Sat, 24 May 2025 10:29:04 GMT | Online vs. Offline Ethical Hacking Training | Crawsec | [Read More](https://medium.com/p/a87e25eaf7d1) |
-| Sat, 24 May 2025 10:25:54 GMT | Why Residential Societies Need Security in 2025 | United Guard Force India | [Read More](https://medium.com/p/3588e90819fb) |
-| Sat, 24 May 2025 10:22:16 GMT | Day 1: Reflected XSS into HTML context with nothing encoded: Zero to Hero Series— Portswigger | RayofHope | [Read More](https://medium.com/p/8cb15403ba29) |
-| Sat, 24 May 2025 10:16:29 GMT | Why CISSP Certification is Essential for Cybersecurity Professionals | Cybernous Infosec consulting | [Read More](https://medium.com/p/24e3e4a6785f) |
-| Sat, 24 May 2025 10:16:19 GMT | The Ultimate Guide to Learn Linux Online: Start Your Journey Today | cyberwingITSolution | [Read More](https://medium.com/p/58d5ea4c3026) |
-| Sat, 24 May 2025 10:06:54 GMT | $1,000 Bounty: ReaderMode XSS in Brave via %READER-TITLE-NONCE% | Monika sharma | [Read More](https://medium.com/p/4204606dfe20) |
-| Sat, 24 May 2025 09:59:43 GMT | Off Karke On Kar Do: Why “Turning It Off and On Again” Actually Fixes Things | Rishabh Sharma | [Read More](https://medium.com/p/dcde92f6aa2e) |
-| Sat, 24 May 2025 09:54:47 GMT | Forensic Analysis of SQLite Databases | Dean | [Read More](https://medium.com/p/ba9490e74b14) |
