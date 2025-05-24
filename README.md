@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 09:33:03 GMT | SSRF Vulnerability Explained: Server-Side Request Forgery Attack Types, Real-World Examples &… | Zoningxtr | [Read More](https://medium.com/p/c55a3bf8540c) |
 | Sat, 24 May 2025 09:14:27 GMT | When Trust Becomes a Target: SaaS Breaches and the Hidden Dangers in the Cloud | Chetan Seripally | [Read More](https://medium.com/p/4aba748974ef) |
 | Sat, 24 May 2025 09:10:36 GMT | Shadow AI ve Shadow IT: Patronlardan Habersiz Yapay Zeka mı? | ECG | [Read More](https://medium.com/p/cb979681504a) |
 | Sat, 24 May 2025 09:08:39 GMT | How a Simple URL Exposed Thousands of Users | Guru Prasad Pattanaik | [Read More](https://medium.com/p/d048cfa20aed) |
@@ -112,4 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 22:37:58 GMT | ¿Es posible recuperar mi dinero de Fintok? | Marina Williams | [Read More](https://medium.com/p/9fe292d66a3a) |
 | Fri, 23 May 2025 22:36:24 GMT | A Man’s Real Fear of Losing You | Laura Miller | [Read More](https://medium.com/p/76e16a5d4164) |
 | Fri, 23 May 2025 22:36:23 GMT | AI-Powered Code Review: Detecting Zero-Day Vulnerabilities in Real-Time | Rizqi Mulki | [Read More](https://medium.com/p/a67ba69769a6) |
-| Fri, 23 May 2025 22:29:05 GMT | Secure Cross-Account VPC Communication in AWS Using Peering Connections | Dyavanapellisujal | [Read More](https://medium.com/p/2b3a28829fde) |
