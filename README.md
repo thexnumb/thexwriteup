@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 08:12:35 GMT | Understanding Malware | Cyber T | [Read More](https://medium.com/p/dbe61cc9c30c) |
+| Sat, 24 May 2025 08:11:13 GMT | From Innovation to Exposure: Navigating Security Risks of Agentic AI | Ajay Kumar | [Read More](https://medium.com/p/ba0b83c7d42d) |
+| Sat, 24 May 2025 08:09:53 GMT | Hire a Hacker to Recover an Account: Ethical Comprehensive Guide | Hire A Hacker Online | [Read More](https://medium.com/p/5cbc647eb008) |
+| Sat, 24 May 2025 07:58:08 GMT | Top Industrial Security Guard Services in Bangalore: Trusted Protection for Your Business | Southwallsecuritiesservice | [Read More](https://medium.com/p/0b07adfbff74) |
+| Sat, 24 May 2025 07:56:04 GMT | Here's How I Recovered My Money From Blockdag | Isabel Pilpel | [Read More](https://medium.com/p/1304734daeab) |
+| Sat, 24 May 2025 07:51:47 GMT | AI Coding Assistants: Productivity Gains and Security Pitfalls | Pan Xinghan | [Read More](https://medium.com/p/46132db7d69d) |
+| Sat, 24 May 2025 07:47:05 GMT | Blockdex Review - Is It Legit or a Scam? | Will Couvreur | [Read More](https://medium.com/p/f4f39ca0087f) |
+| Sat, 24 May 2025 07:46:58 GMT | Don’t Be Afraid to Be Human | The Sturg (Gerald Sturgill) | [Read More](https://medium.com/p/59556d46e8b2) |
+| Sat, 24 May 2025 07:45:33 GMT | Indonesia’s Digital Ministry Fumbles Cybersecurity Basics: A Warning Sign for Citizens | MITRE Doggy | [Read More](https://medium.com/p/3736ad6e83ae) |
+| Sat, 24 May 2025 07:44:44 GMT | Here’s How I Recover My Money From Blockdex | Will Couvreur | [Read More](https://medium.com/p/695ed1dc89ec) |
+| Sat, 24 May 2025 07:41:51 GMT | Docker Image Vulnerabilities with Trivy | Daniel Makhoba Emmanuel | [Read More](https://medium.com/p/e721228661db) |
+| Sat, 24 May 2025 07:36:30 GMT | Floodlighting | Rendanup | [Read More](https://medium.com/p/3d85da4fe957) |
 | Sat, 24 May 2025 07:30:24 GMT | Is It Possible To Recover My Money From Wirbit? | Luca Crampton | [Read More](https://medium.com/p/bd166c7a9e4b) |
 | Sat, 24 May 2025 07:25:10 GMT | a i n mission leading in cyber security | S Anuradha | [Read More](https://medium.com/p/6847dc92e346) |
 | Sat, 24 May 2025 07:24:38 GMT | Earn $$$$ by Finding CSRF Vulnerabilities! | Abhijeet Kumawat | [Read More](https://medium.com/p/91f193a9b511) |
@@ -101,15 +113,3 @@ In our increasingly… | Hack With Spy | [Read More](https://medium.com/p/f938cc
 | Fri, 23 May 2025 21:18:32 GMT | To shine or to be plucked | Chuckinette | [Read More](https://medium.com/p/955c048c8f1c) |
 | Fri, 23 May 2025 21:17:58 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e9edf600266d) |
 | Fri, 23 May 2025 21:05:49 GMT | AI in Business Intelligence: Enhancing Data Analysis for Smarter Decision-Making | IT_Engineer | [Read More](https://medium.com/p/56fe7ad4f009) |
-| Fri, 23 May 2025 21:03:51 GMT | Everyday Life Insurance and the Evolving Model of Financial Responsibility in America | John Philip Blogs | [Read More](https://medium.com/p/13172ecf6e50) |
-| Fri, 23 May 2025 21:00:42 GMT | Jennifer Tang & Kyle Hiebert: The Promises and Perils of Predictive Policing | Centre for International Governance Innovation | [Read More](https://medium.com/p/94e8e056c9ad) |
-| Fri, 23 May 2025 21:00:30 GMT | Boston Businesses: Do You Really Need a Cybersecurity Audit in 2025? | Rutter-Net | [Read More](https://medium.com/p/2bea76fcf102) |
-| Fri, 23 May 2025 20:58:09 GMT | Crypto Drainers are Targeting Cryptocurrency Users | Matthew.Rosenquist | [Read More](https://medium.com/p/929687f51e0e) |
-| Fri, 23 May 2025 20:49:53 GMT | Security Patrol Robot | Marcus Koehnlein | [Read More](https://medium.com/p/37b92a60d610) |
-| Fri, 23 May 2025 20:45:18 GMT | Migrating from Promtail to Grafana Alloy in Kubernetes | Vincenthartmann | [Read More](https://medium.com/p/53ce4c5b7556) |
-| Fri, 23 May 2025 20:44:34 GMT | EG-CERT CTF 2025 Web Challenges Writeup | gem0x00 | [Read More](https://medium.com/p/28647607c094) |
-| Fri, 23 May 2025 20:38:14 GMT | Better Business Bureau (BBB) Data Breach: Potential Claims in California | LegalNewsbyDave | [Read More](https://medium.com/p/a8a2b5064106) |
-| Fri, 23 May 2025 20:33:46 GMT | # Securing the Digital Frontier: Welcome to My Cybersecurity Blog | Maosaherbert | [Read More](https://medium.com/p/279d7b15ebff) |
-| Fri, 23 May 2025 20:29:32 GMT | Two Security Guards Assaulted in Random Attacks Near Winnipeg’s Central Park | Scott Hill | [Read More](https://medium.com/p/f697ae90ce11) |
-| Fri, 23 May 2025 20:29:02 GMT | Simple CTF - Try Hack Me_Complete Walkthrough | Avrodip Joy | [Read More](https://medium.com/p/1b7882537e91) |
-| Fri, 23 May 2025 20:21:35 GMT | Day 4 of my AWS Pentesting journey — EC2 Enumeration & SSRF Exploitation | mauzware | [Read More](https://medium.com/p/a690bfb71d6f) |
