@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 14:05:28 GMT | Hardening a Ubuntu VM | Zied Ouaghlani | [Read More](https://medium.com/p/52f963581eee) |
+| Sat, 24 May 2025 14:02:15 GMT | Secure String Encryption in Python: Balancing Security and Performance​ | Suman Saurabh | [Read More](https://medium.com/p/bde8e1f1d7dc) |
+| Sat, 24 May 2025 13:56:31 GMT | From $30M Annual Recurring Revenue to Rejection Letters | Victor Babaniyi | [Read More](https://medium.com/p/ac4118e66017) |
+| Sat, 24 May 2025 13:49:31 GMT | ⛓️ THE FORGE AS BDSM | Capybara Security & The FORGE AGI | [Read More](https://medium.com/p/d4f224ad6cac) |
+| Sat, 24 May 2025 13:44:22 GMT | Just for This Day, I Want to Dive In Anyway | AfterRainWrites | [Read More](https://medium.com/p/cfa447a47eb8) |
 | Sat, 24 May 2025 13:41:11 GMT | Bugs Word Search Puzzle Book: 50+ Fun & Easy-to-Read Puzzles Featuring Insects, Creepy Crawlies… | Jenna Puzzla | [Read More](https://medium.com/p/cd08eb091a75) |
 | Sat, 24 May 2025 13:36:08 GMT | The Unexpected Guest | d_Sreyashree | [Read More](https://medium.com/p/89fe7a5ce1cd) |
 | Sat, 24 May 2025 13:32:24 GMT | My CEH Lab Setup | CyberNinja | [Read More](https://medium.com/p/c7cc04a46792) |
@@ -108,8 +113,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 07:23:48 GMT | How I Found My First SQLi Vulnerability (€3500 Bounty) | Dewanand Vishal | [Read More](https://medium.com/p/7c441007bcf9) |
 | Sat, 24 May 2025 07:13:08 GMT | How Bug Bounties & VAPT Coexist for Web3 Projects | Decrypt0 | [Read More](https://medium.com/p/5e22cf7ad209) |
 | Sat, 24 May 2025 07:12:07 GMT | Is It possible To Recover My Money From Easycrypto4u.com? | Eva Tearle | [Read More](https://medium.com/p/67e4172a1596) |
-| Sat, 24 May 2025 07:11:27 GMT | The Future of Cyber Security in 2025: A Looming Threat | Eleanor Watson | [Read More](https://medium.com/p/3c3b41deef53) |
-| Sat, 24 May 2025 07:08:24 GMT | The Role of Continuous Training and Development in Cybersecurity Sales Success by Sales… | John Almond | [Read More](https://medium.com/p/8df4f74aad1f) |
-| Sat, 24 May 2025 07:08:17 GMT | Here’s How I Recover My Money From Easycrypto4u.com | Eva Tearle | [Read More](https://medium.com/p/5cc37ceed34a) |
-| Sat, 24 May 2025 06:58:20 GMT | Understanding Operating Systems and Their Role in Modern Banking | Chandrachud Sahi | [Read More](https://medium.com/p/7f896d5e5d99) |
-| Sat, 24 May 2025 06:52:40 GMT | I’m Not a Daddy’s Girl. I’m My Husband’s Problem. | Govindaraju Ramya | [Read More](https://medium.com/p/24d5725378a8) |
