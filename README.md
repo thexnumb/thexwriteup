@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 22:16:31 GMT | What is DNS and How It Works: The Phonebook of the Internet | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5ef76bc4a625) |
+| Sat, 24 May 2025 22:12:56 GMT | Rugged, Drained & Rekt: The Most Common Crypto Scams (and How to Spot Them) | PEPESEC AI | [Read More](https://medium.com/p/4313422bd80b) |
+| Sat, 24 May 2025 21:55:38 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/998cf45192b3) |
+| Sat, 24 May 2025 21:50:24 GMT | Zero-Trust Microservices: Fortify Your Cloud-Native Security with Envoy and Istio | JiokeCloudSec | [Read More](https://medium.com/p/da9386d3228d) |
+| Sat, 24 May 2025 21:43:15 GMT | Run a LLM Locally as a REST API: Gain Full Control and Enhanced Security | Chris Chin | [Read More](https://medium.com/p/44a1c47870fa) |
+| Sat, 24 May 2025 21:42:54 GMT | Android Analysis — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/9363af4ced95) |
 | Sat, 24 May 2025 21:26:13 GMT | I Was Up at 2AM Worrying About Bills—Then This Happened... | The Masked Muse | [Read More](https://medium.com/p/859de479b4d1) |
 | Sat, 24 May 2025 21:06:39 GMT | The Dark Side of AI: Anthropic’s Claude 4 Opus and the Dangers of Misleading Intelligence | Javad Ta | [Read More](https://medium.com/p/36c3d7ffc188) |
 | Sat, 24 May 2025 21:01:50 GMT | Google Veo, Veo3 and the Next Security Frontier: What CISOs Need to Know About AI-Powered Video… | Ronit Yadav | [Read More](https://medium.com/p/8ff5ecf28197) |
@@ -109,9 +115,3 @@ inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/2319
 | Sat, 24 May 2025 13:00:33 GMT | The Future of Enterprise Security: Why Zero Trust Architecture Is No Longer Optional | saurabh cyberinfomines | [Read More](https://medium.com/p/908efca66e03) |
 | Sat, 24 May 2025 12:51:44 GMT | TryHackMe: Brains — Walkthrough | CyberQuestor | [Read More](https://medium.com/p/416e0452b451) |
 | Sat, 24 May 2025 12:45:44 GMT | How to Secure Firebase Services (eg: Remote Config) from Unauthorized Access in Android Apps | Mostafasarwar | [Read More](https://medium.com/p/c1a5929585ed) |
-| Sat, 24 May 2025 12:40:37 GMT | MALWARE | Igor Berner | [Read More](https://medium.com/p/ad836ac339b0) |
-| Sat, 24 May 2025 12:39:15 GMT | n0s4n1ty Pico-CTF | Piyawut Buncharoen | [Read More](https://medium.com/p/f7b3ba6b357c) |
-| Sat, 24 May 2025 12:34:07 GMT | Short stories from work: Libby | Loose Junk | [Read More](https://medium.com/p/b49134ef223a) |
-| Sat, 24 May 2025 12:32:25 GMT | Why do we use Level 4 Load Balancers? | Madhu Kiran Ravula | [Read More](https://medium.com/p/0232d4d07892) |
-| Sat, 24 May 2025 12:29:56 GMT | Part 6— How I Run My Entire Digital Life on a Raspberry Pi: Breaking Free from Big Cloud and… | Levente Csikor | [Read More](https://medium.com/p/471764a074bb) |
-| Sat, 24 May 2025 12:29:42 GMT | LetsDefend — ProcDump Challenge | Nicolas Tan | [Read More](https://medium.com/p/5f06b797a08a) |
