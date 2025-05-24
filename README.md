@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 May 2025 15:12:28 GMT | ️ Beyond Uniforms: Building India’s Security Leaders at RRU | Rathinavel M.S | [Read More](https://medium.com/p/07269ea905c1) |
+| Sat, 24 May 2025 15:06:02 GMT | Business Logic Vulnerability in Dell’s Payment API — Reported via Bugcrowd | Aditya sunny | [Read More](https://medium.com/p/f2dc2192227c) |
+| Sat, 24 May 2025 15:03:39 GMT | LetsDefend: Easy Walkthrough for Malware Alert (Event ID: 77, SOC138) | El Mahjoub AIT MEDDAH | [Read More](https://medium.com/p/ba45cb6d55d0) |
+| Sat, 24 May 2025 15:02:57 GMT | Your Digital Footprint Is Basically a Tattoo But Way Creepier (And How to Clean It Up Before It… | Geet Malviya | [Read More](https://medium.com/p/b3939a8d0cc0) |
+| Sat, 24 May 2025 14:50:32 GMT | How to Prepare for OSCP exam if you’re broke | Ojas | [Read More](https://medium.com/p/585d3aa8615b) |
+| Sat, 24 May 2025 14:44:11 GMT | Day 45:  How TCP Made the Internet Reliable — And Why Nmap Depends on It | Agarwaldaksh | [Read More](https://medium.com/p/c2889d11057d) |
 | Sat, 24 May 2025 14:32:23 GMT | 50 claps to give —
 inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/231946caab43) |
 | Sat, 24 May 2025 14:05:28 GMT | Hardening a Ubuntu VM | Zied Ouaghlani | [Read More](https://medium.com/p/52f963581eee) |
@@ -108,9 +114,3 @@ In today’s fast-paced digital… | Those Who Concern the World | [Read More](h
 | Sat, 24 May 2025 07:45:33 GMT | Indonesia’s Digital Ministry Fumbles Cybersecurity Basics: A Warning Sign for Citizens | MITRE Doggy | [Read More](https://medium.com/p/3736ad6e83ae) |
 | Sat, 24 May 2025 07:44:44 GMT | Here’s How I Recover My Money From Blockdex | Will Couvreur | [Read More](https://medium.com/p/695ed1dc89ec) |
 | Sat, 24 May 2025 07:41:51 GMT | Docker Image Vulnerabilities with Trivy | Daniel Makhoba Emmanuel | [Read More](https://medium.com/p/e721228661db) |
-| Sat, 24 May 2025 07:36:30 GMT | Floodlighting | Rendanup | [Read More](https://medium.com/p/3d85da4fe957) |
-| Sat, 24 May 2025 07:30:24 GMT | Is It Possible To Recover My Money From Wirbit? | Luca Crampton | [Read More](https://medium.com/p/bd166c7a9e4b) |
-| Sat, 24 May 2025 07:25:10 GMT | a i n mission leading in cyber security | S Anuradha | [Read More](https://medium.com/p/6847dc92e346) |
-| Sat, 24 May 2025 07:24:38 GMT | Earn $$$$ by Finding CSRF Vulnerabilities! | Abhijeet Kumawat | [Read More](https://medium.com/p/91f193a9b511) |
-| Sat, 24 May 2025 07:23:48 GMT | How I Found My First SQLi Vulnerability (€3500 Bounty) | Dewanand Vishal | [Read More](https://medium.com/p/7c441007bcf9) |
-| Sat, 24 May 2025 07:13:08 GMT | How Bug Bounties & VAPT Coexist for Web3 Projects | Decrypt0 | [Read More](https://medium.com/p/5e22cf7ad209) |
