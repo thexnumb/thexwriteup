@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 19:02:29 GMT | 8 Blockchain Security Patterns That Keep Showing Up in Audits | Nautiyal | [Read More](https://medium.com/p/559815931348) |
+| Sun, 25 May 2025 18:51:59 GMT | Crypto Crimes Escalate: Investor Charged with Kidnapping and Torture for Bitcoin Password | Travis Murphy | [Read More](https://medium.com/p/6d36a0377bb9) |
+| Sun, 25 May 2025 18:49:07 GMT | Building a Malware Analysis Lab Playground with FlareVM & Remnux | Keerten | [Read More](https://medium.com/p/63585e57443f) |
 | Sun, 25 May 2025 18:34:58 GMT | Nmap 101: Mapping Your Target’s Attack Surface | january1073 | [Read More](https://medium.com/p/5bae9735c60d) |
 | Sun, 25 May 2025 18:24:23 GMT | Mail Shield: The Weekend Project That Became My Ultimate Spam Firewall | Tara Prasad Routray | [Read More](https://medium.com/p/dc07b93c9641) |
 | Sun, 25 May 2025 18:23:06 GMT | Securing Your MERN App with AES Encryption: A Beginner-Friendly Guide | Mouhamed Ridha Harhira | [Read More](https://medium.com/p/96130c079b5b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 12:02:27 GMT | A Tale of Authentication and Authorization | Lin Maung | [Read More](https://medium.com/p/199e05b05968) |
 | Sun, 25 May 2025 11:49:38 GMT | IPv4 and IPv6 Coexistence | Umar Ahamed | [Read More](https://medium.com/p/638c1fa1aaec) |
 | Sun, 25 May 2025 11:43:08 GMT | Comprehensive Guide to OSI and TCP/IP Models: Understanding Network Communication and Protocols | Umar Ahamed | [Read More](https://medium.com/p/8720fc81194d) |
-| Sun, 25 May 2025 11:36:36 GMT | Beginner’s Guide to Bash Scripting: Learn the Basics Easily! | Satyam Pathania | [Read More](https://medium.com/p/490a2e65a59e) |
-| Sun, 25 May 2025 11:24:56 GMT | Operation Endgame: Europol Dismantles Major Botnet Infrastructure, Seizes $35M and 300+ Servers | CyBlog | [Read More](https://medium.com/p/596c64585663) |
-| Sun, 25 May 2025 11:17:54 GMT | ️ BGP Hijacking: The Silent Killer of the Internet | Pouya aftabi | [Read More](https://medium.com/p/da78dea80b07) |
