@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 10:35:15 GMT | 讓 AI Agent當我的私人管理顧問？如何精準地下Prompt 提示工程 | Melody Hsiao蕭詠甄 | [Read More](https://medium.com/p/c63f07d44346) |
 | Sun, 25 May 2025 10:12:46 GMT | CISA Sounds the Alarm: SaaS Attacks Exploit App Secrets and Cloud Misconfigs | Ismail Tasdelen | [Read More](https://medium.com/p/a0aa0406c4b2) |
 | Sun, 25 May 2025 10:10:06 GMT | TryHackMe - AD: Basic Enumeration -Walkthrough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/434992d2ed0c) |
 | Sun, 25 May 2025 09:56:53 GMT | Deep Dive into Zeek: A Powerful Network Security Monitoring Tool | Thakur Ashutosh | [Read More](https://medium.com/p/f52ff3485035) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 23:19:15 GMT | The AI Malware Dev Journal: Using Claude to Simulate Red Team Infrastructure | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f35168b0bcb4) |
 | Sat, 24 May 2025 23:15:14 GMT | What Cyber Security Taught Me About Learning | Anthony Mukwaya | [Read More](https://medium.com/p/bdb91b497b73) |
 | Sat, 24 May 2025 23:10:55 GMT | Hacked by iKurdBlitz Team | iKurdBlitz Team | [Read More](https://medium.com/p/2e59a22aa1a4) |
-| Sat, 24 May 2025 22:58:53 GMT | Global Operation Strikes Blow to Lumma Stealer’s Cybercrime Infrastructure | Jon C | [Read More](https://medium.com/p/cc1aa019b2a5) |
