@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 16:41:36 GMT | Cyber Security in AI Era | Amt | [Read More](https://medium.com/p/8f4166cbb195) |
+| Sun, 25 May 2025 16:41:08 GMT | How I Passed the ISTQB Foundation Exam with 98%: My Experience and Tips | Marta Lenartovich | [Read More](https://medium.com/p/eca85a46436c) |
+| Sun, 25 May 2025 16:31:43 GMT | How Vulnerability Powers Effective Feedback | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/6ccb6b3b6924) |
+| Sun, 25 May 2025 16:28:16 GMT | How to Recover Stolen Ethereum (ETH): A 500-Word Guide | Claire Barnett | [Read More](https://medium.com/p/926bf389af6a) |
+| Sun, 25 May 2025 16:18:34 GMT | Who Do I Contact If I Lost Cryptocurrency to a Scam? | Claire Barnett | [Read More](https://medium.com/p/38d603749c55) |
 | Sun, 25 May 2025 16:09:38 GMT | Day 46: Simulating MITM Attacks Using Ettercap and MITMf on Kali Linux | Agarwaldaksh | [Read More](https://medium.com/p/a20e4cf5457d) |
 | Sun, 25 May 2025 16:09:38 GMT | What Are the Steps to Recover Stolen Cryptocurrency Assets? | Claire Barnett | [Read More](https://medium.com/p/9787bf03dde1) |
 | Sun, 25 May 2025 16:02:49 GMT | From Zero to Adversary: An Advanced Red Teaming Road-map for Beginners | Shaheer Yasir | [Read More](https://medium.com/p/c3d2e52a1f9f) |
@@ -21,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 15:55:01 GMT | How Fuzzing Uncovered an Exposed Magento Setup and a Live Kafka Dashboard | Vijay Kumar Lohani | [Read More](https://medium.com/p/fd18cc517324) |
 | Sun, 25 May 2025 15:52:27 GMT | Discovering an Open Redirect Flaw Using URL Encoding | Ahmad Suhendra | [Read More](https://medium.com/p/001b843ec9f3) |
 | Sun, 25 May 2025 15:52:18 GMT | Aplikasi Input Nama - Android Studio | Zifa Tea Azzahra | [Read More](https://medium.com/p/3be3b8d1b9e9) |
+| Sun, 25 May 2025 15:52:01 GMT | 8 Must-Have Features for Vulnerability Scanning Tool | Nitin Kumar | [Read More](https://medium.com/p/4dd642809323) |
 | Sun, 25 May 2025 15:44:00 GMT | Between the Lines of Code: A Mentor’s Voice, a Breach’s Lessons, and a Team That Made It All Matter | Hitesh Said | [Read More](https://medium.com/p/e7d222ba8da1) |
 | Sun, 25 May 2025 15:38:14 GMT | Shift Left with Confidence: A Practical Guide to DevSecOps Using GitHub Actions for Python Projects | Cyril Baah | [Read More](https://medium.com/p/4f22246514ed) |
 | Sun, 25 May 2025 15:34:33 GMT | Twitch Bait and Switch: How I Uncovered a Steam Phishing Operation | Yali Achitov | [Read More](https://medium.com/p/b4c2ff68119c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 08:52:14 GMT | Top Social Engineering Techniques Used by Cybercriminals: The Human Hacking Playbook | Rageeth | [Read More](https://medium.com/p/0188871fa2c3) |
 | Sun, 25 May 2025 08:50:23 GMT | Triple-Chain Security: How Chronos Vault Revolutionizes Digital Asset Protection | Chronos Vault | [Read More](https://medium.com/p/1447cbb72a95) |
 | Sun, 25 May 2025 08:47:17 GMT | Data Breach Exposes Millions of Apple Accounts | Ghani Mengal | [Read More](https://medium.com/p/9d9190cb77a8) |
-| Sun, 25 May 2025 08:33:24 GMT | Cyber Compliance Watch: Updates on Latest Publications | Bruce | [Read More](https://medium.com/p/1e776b1bc77c) |
-| Sun, 25 May 2025 08:31:01 GMT | 7 Harsh Truths About Growth (Nobody Tells You This) | Godwin Newton | [Read More](https://medium.com/p/120b001c55af) |
-| Sun, 25 May 2025 08:29:25 GMT | Unlocking Business Survival: The Critical Role of Security Testing and VidiSec’s Edge | Constantinos Vidiniotis | [Read More](https://medium.com/p/00ca35f68011) |
-| Sun, 25 May 2025 08:20:59 GMT | The State of LLM & AI Security: Threats, Challenges, and Defenses | Kamran Rafiq CISM®, CRISC®, ISC² CC℠ | [Read More](https://medium.com/p/9018e0369af4) |
-| Sun, 25 May 2025 08:18:14 GMT | Sandcastles | Rich Crawford | [Read More](https://medium.com/p/37de6eacd5cf) |
-| Sun, 25 May 2025 08:04:58 GMT | The Psychology of Entry | Rageeth | [Read More](https://medium.com/p/98370a1a4425) |
