@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 19:32:16 GMT | SSRF via External Service Interaction (HTTP & DNS) | Zoningxtr | [Read More](https://medium.com/p/f11ef614d6a3) |
+| Sun, 25 May 2025 19:31:46 GMT | ️‍♂️ Blind SSRF (Server-Side Request Forgery)  Explained: The Invisible Cyber Spy You Didn’t… | Zoningxtr | [Read More](https://medium.com/p/cfef0aca468e) |
+| Sun, 25 May 2025 19:31:17 GMT | How to Perform Static Testing for SSRF Vulnerabilities — Detecting Insecure Code with Semgrep &… | Zoningxtr | [Read More](https://medium.com/p/27aa1c0d01a7) |
+| Sun, 25 May 2025 19:22:18 GMT | Is   Helping or Hurting Humanity? | Hafizbilaltariq | [Read More](https://medium.com/p/af19bf9f3581) |
+| Sun, 25 May 2025 19:21:19 GMT | How a National TPA Cut Regulatory Workload by 70% with NexusReg | Ali Kazmi | [Read More](https://medium.com/p/841d7c108217) |
+| Sun, 25 May 2025 19:19:55 GMT | PROGRAMMING UNIT: 3—For those who are HND Computing | Talal Tanveer | [Read More](https://medium.com/p/b5fb54070a67) |
+| Sun, 25 May 2025 19:18:12 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
+صیغه کرج… | حاجی طباطبای | [Read More](https://medium.com/p/9ed61e50d2fc) |
+| Sun, 25 May 2025 19:17:53 GMT | Is CEH Worth It in 2025? Here’s What Most Cybersecurity Pros Won’t Tell You | VulnKraft | [Read More](https://medium.com/p/ebff4d9f3a2d) |
+| Sun, 25 May 2025 19:16:01 GMT | The Silent Tech Layoff Wave: Why So Many Are Losing Jobs in 2024 | Hafizbilaltariq | [Read More](https://medium.com/p/8565ebb3a8d5) |
 | Sun, 25 May 2025 19:02:29 GMT | 8 Blockchain Security Patterns That Keep Showing Up in Audits | Nautiyal | [Read More](https://medium.com/p/559815931348) |
 | Sun, 25 May 2025 18:51:59 GMT | Crypto Crimes Escalate: Investor Charged with Kidnapping and Torture for Bitcoin Password | Travis Murphy | [Read More](https://medium.com/p/6d36a0377bb9) |
 | Sun, 25 May 2025 18:49:07 GMT | Building a Malware Analysis Lab Playground with FlareVM & Remnux | Keerten | [Read More](https://medium.com/p/63585e57443f) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 12:36:35 GMT | Rewiring the Backbone: Architecting Blockchain-Based Resilience for Critical National… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/771db0e56240) |
 | Sun, 25 May 2025 12:32:34 GMT | Ethical Hacking Training Course in Delhi with Certificate | Manisha Chaudhary | [Read More](https://medium.com/p/ade30edfdd97) |
 | Sun, 25 May 2025 12:32:25 GMT | Why You Should Care About Blockchain (Even If You’re Not a Tech Bro) | Neeraj Nautiyal | [Read More](https://medium.com/p/4c00b9ff6b80) |
-| Sun, 25 May 2025 12:32:19 GMT | Store Encrypted Data in Your Database Using .NET — Secure and Efficient | Adrian Bailador | [Read More](https://medium.com/p/09dfd1314052) |
-| Sun, 25 May 2025 12:31:09 GMT | How to hide the JavaScript source code from browser viewing? | Kuldeepkumawat | [Read More](https://medium.com/p/297a2b47abe7) |
-| Sun, 25 May 2025 12:27:49 GMT | CTF WRITEUP | SAI PUNEETH SOPPA | [Read More](https://medium.com/p/76af80d48981) |
-| Sun, 25 May 2025 12:27:19 GMT | Emergency Savings and Interest Rate Cycles: Navigating Financial Security in a Variable Economy | St Zh | [Read More](https://medium.com/p/df3abc1b65fa) |
-| Sun, 25 May 2025 12:22:36 GMT | White Hat in Computer Security How Ethical Hackers Like Wire Tor Keep Your Business Safe | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/1a5fb2332d34) |
-| Sun, 25 May 2025 12:19:18 GMT | Oh no! Something has gone wrong — Gnome Error In Linux… | Cybotechacks | [Read More](https://medium.com/p/38dd3552d868) |
-| Sun, 25 May 2025 12:02:27 GMT | A Tale of Authentication and Authorization | Lin Maung | [Read More](https://medium.com/p/199e05b05968) |
-| Sun, 25 May 2025 11:49:38 GMT | IPv4 and IPv6 Coexistence | Umar Ahamed | [Read More](https://medium.com/p/638c1fa1aaec) |
-| Sun, 25 May 2025 11:43:08 GMT | Comprehensive Guide to OSI and TCP/IP Models: Understanding Network Communication and Protocols | Umar Ahamed | [Read More](https://medium.com/p/8720fc81194d) |
