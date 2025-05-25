@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 20:11:58 GMT | AD CS ESC16: Misconfiguration and Exploitation | Munib Nawaz | [Read More](https://medium.com/p/9264e022a8c6) |
+| Sun, 25 May 2025 20:11:48 GMT | NahamconCTF2025 — The Accidental Screenshot and the Encrypted Flag | Not4a6f7365 | [Read More](https://medium.com/p/d838cf6cc5d0) |
+| Sun, 25 May 2025 20:11:21 GMT | Architecting Beyond Good Intentions: Making Security Mechanisms Work | Shittu | [Read More](https://medium.com/p/aaa1bf5bb7d7) |
+| Sun, 25 May 2025 20:10:49 GMT | What Is a Digital Immune System — And Why It Matters More Than You Think | TECH EMPIRE | [Read More](https://medium.com/p/3a914979bf45) |
+| Sun, 25 May 2025 20:00:43 GMT | My Experience Solving “Username Enumeration via Different Responses” on PortSwigger | Harisrangrez | [Read More](https://medium.com/p/8e7a916f80ec) |
+| Sun, 25 May 2025 19:59:55 GMT | 09374389086 | شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شم | [Read More](https://medium.com/p/f8ff930268c9) |
+| Sun, 25 May 2025 19:55:10 GMT | SOCx: The OSINT Tool I Created to Simplify (and Speed Up) IOC Investigations | Jagkter | [Read More](https://medium.com/p/daa714f3ae30) |
+| Sun, 25 May 2025 19:49:23 GMT | The Complete Guide to Securing Kubernetes: From Zero to Production-Ready | Salwan Mohamed | [Read More](https://medium.com/p/6b448849c875) |
+| Sun, 25 May 2025 19:45:29 GMT | Fortinet Under Fire: Critical Vulnerabilities and Stealthy Backdoor Threats Compromise Thousands… | DISHA GUPTA | [Read More](https://medium.com/p/13a6c6f865a4) |
 | Sun, 25 May 2025 19:32:16 GMT | SSRF via External Service Interaction (HTTP & DNS) | Zoningxtr | [Read More](https://medium.com/p/f11ef614d6a3) |
 | Sun, 25 May 2025 19:31:46 GMT | ️‍♂️ Blind SSRF (Server-Side Request Forgery)  Explained: The Invisible Cyber Spy You Didn’t… | Zoningxtr | [Read More](https://medium.com/p/cfef0aca468e) |
 | Sun, 25 May 2025 19:31:17 GMT | How to Perform Static Testing for SSRF Vulnerabilities — Detecting Insecure Code with Semgrep &… | Zoningxtr | [Read More](https://medium.com/p/27aa1c0d01a7) |
@@ -104,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 13:08:27 GMT | The Rise of Zero-Knowledge Proofs: Securing the Future of Web3 and Blockchain | Nautiyal | [Read More](https://medium.com/p/4bcea9bfd996) |
 | Sun, 25 May 2025 13:07:06 GMT | Microsoft Entra ID: Redefining Enterprise Identity for the Zero Trust Era | Abhijith Soman | [Read More](https://medium.com/p/855b86cdd548) |
 | Sun, 25 May 2025 13:05:11 GMT | DevOps vs DevSecOps | Cem Gülümser | [Read More](https://medium.com/p/9d6bc45c4565) |
-| Sun, 25 May 2025 13:02:26 GMT | How Endpoint Visibility Gaps Are Exposing Your Business | Peris.ai Cybersecurity | [Read More](https://medium.com/p/5d0438caf376) |
-| Sun, 25 May 2025 13:02:01 GMT | Mr Robot CTF-TryHackme Walkthrough | CyberLabyrinthX | [Read More](https://medium.com/p/9f896cbe0986) |
-| Sun, 25 May 2025 12:55:07 GMT | How to Block Up to 95% of Attacks Using AWS WAF | Prateek Jain | [Read More](https://medium.com/p/e2223efc1f55) |
-| Sun, 25 May 2025 12:47:13 GMT | Metasploit Framework | Yusuf Eren Koçak | [Read More](https://medium.com/p/757b9110ff78) |
-| Sun, 25 May 2025 12:46:29 GMT | FXIFY Online Investing Reviews 2025 | liam smith | [Read More](https://medium.com/p/0ede1fe9f74a) |
-| Sun, 25 May 2025 12:42:24 GMT | OAuth 2.0 Authorization in 5G Core Networks: Architecture, Workflows, and Security Challenges | Shubham Kumar | [Read More](https://medium.com/p/c3418edc4d41) |
-| Sun, 25 May 2025 12:36:35 GMT | Rewiring the Backbone: Architecting Blockchain-Based Resilience for Critical National… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/771db0e56240) |
-| Sun, 25 May 2025 12:32:34 GMT | Ethical Hacking Training Course in Delhi with Certificate | Manisha Chaudhary | [Read More](https://medium.com/p/ade30edfdd97) |
-| Sun, 25 May 2025 12:32:25 GMT | Why You Should Care About Blockchain (Even If You’re Not a Tech Bro) | Neeraj Nautiyal | [Read More](https://medium.com/p/4c00b9ff6b80) |
