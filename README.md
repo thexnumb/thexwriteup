@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 03:45:41 GMT | The Cybersecurity Library Your Boss Won’t Share | Ahmad Javed | [Read More](https://medium.com/p/ee4d0ac8c2d6) |
+| Sun, 25 May 2025 03:42:27 GMT | Trusting the Wrong Device — A Hands-On Cybersecurity Breakdown | 5kullk3r | [Read More](https://medium.com/p/a986f0d8ce44) |
+| Sun, 25 May 2025 03:37:33 GMT | AI-Powered Authorization: Leading Secure Fintech Systems for the Future | Sachin Malav | [Read More](https://medium.com/p/754172524f91) |
+| Sun, 25 May 2025 03:32:27 GMT | Inside the Union County Cyberattack: The Anatomy of a Ransomware Breach | Deven Chhajed | [Read More](https://medium.com/p/d8caa0f044ac) |
+| Sun, 25 May 2025 03:29:12 GMT | The Arrival She Never Admits She’s Waiting For | RJ Menon | [Read More](https://medium.com/p/04eb952fffe8) |
 | Sun, 25 May 2025 03:07:31 GMT | Subdomain Takeover of fr1.vpn.zomans.com — $350 Bounty | Monika sharma | [Read More](https://medium.com/p/638d959e11dc) |
 | Sun, 25 May 2025 03:07:24 GMT | Behind the padlock: How your browser talks to web servers with different SSL certificates | Roman Huliak | [Read More](https://medium.com/p/2b05954cef3b) |
 | Sun, 25 May 2025 03:07:18 GMT | RTO vs RPO | Cyber T | [Read More](https://medium.com/p/6a8ae409dfe8) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 17:05:50 GMT | Race Conditions: The Silent Exploit That Can Break Systems (and Earn Bounties) | 127.0.0.1 | [Read More](https://medium.com/p/a35e7677c96a) |
 | Sat, 24 May 2025 17:03:36 GMT | Meet Olarewaju Peter Mobuyifunjesu - Cryptocurrency Trader -Investor -Cybersecurity Enthusiast… | Olarewaju Peter Mobuyifunjesu | [Read More](https://medium.com/p/0f22536f2656) |
 | Sat, 24 May 2025 16:58:24 GMT | CORS (cross-origin resource sharing) | 0xbug | [Read More](https://medium.com/p/226551329253) |
-| Sat, 24 May 2025 16:47:08 GMT | AI Today and Tomorrow: | Sair E Malak | [Read More](https://medium.com/p/23c275ca6a29) |
-| Sat, 24 May 2025 16:45:58 GMT | How Google Attracts More Bug Bounty Hunters | Teri Radichel | [Read More](https://medium.com/p/5dca91957032) |
-| Sat, 24 May 2025 16:44:10 GMT | Keeping Your AI in Check: A Simple Guide to Guardrails for AI Agents | Algo Insights | [Read More](https://medium.com/p/2d4d74162356) |
-| Sat, 24 May 2025 16:41:41 GMT | How India’s Defence Policy Has Changed Over the Decades | Prafull Shroti | [Read More](https://medium.com/p/2b5414f17072) |
-| Sat, 24 May 2025 16:20:31 GMT | .hack//SIGN: Sessiz Bir Devrim ve Kaybolmuşluk Hissi | Talha Özcan | [Read More](https://medium.com/p/94c068fb68f5) |
