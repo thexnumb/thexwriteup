@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 08:33:24 GMT | Cyber Compliance Watch: Updates on Latest Publications | Bruce | [Read More](https://medium.com/p/1e776b1bc77c) |
+| Sun, 25 May 2025 08:31:01 GMT | 7 Harsh Truths About Growth (Nobody Tells You This) | Godwin Newton | [Read More](https://medium.com/p/120b001c55af) |
+| Sun, 25 May 2025 08:29:25 GMT | Unlocking Business Survival: The Critical Role of Security Testing and VidiSec’s Edge | Constantinos Vidiniotis | [Read More](https://medium.com/p/00ca35f68011) |
+| Sun, 25 May 2025 08:20:59 GMT | The State of LLM & AI Security: Threats, Challenges, and Defenses | Kamran Rafiq CISM®, CRISC®, ISC² CC℠ | [Read More](https://medium.com/p/9018e0369af4) |
 | Sun, 25 May 2025 08:18:14 GMT | Sandcastles | Rich Crawford | [Read More](https://medium.com/p/37de6eacd5cf) |
 | Sun, 25 May 2025 08:04:58 GMT | The Psychology of Entry | Rageeth | [Read More](https://medium.com/p/98370a1a4425) |
 | Sun, 25 May 2025 07:55:16 GMT | From JVM and Flash to WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/7d34a5e12129) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 20:47:42 GMT | Why Human Behavior Is the Last Mile of Cybersecurity | Ipek U | [Read More](https://medium.com/p/8aec1fb41cc6) |
 | Sat, 24 May 2025 20:46:25 GMT | What I’d Do Differently If I Were a CISO in 2025 | Ronit Yadav | [Read More](https://medium.com/p/a045d71e43f7) |
 | Sat, 24 May 2025 20:43:40 GMT | Before You Browse, Someone Assigns You an Identity — Here’s Who | Aliou Ba | [Read More](https://medium.com/p/69651cbe3dec) |
-| Sat, 24 May 2025 20:32:05 GMT | Chinese Cyber Operations and the U.S. Policy Response to the Cityworks Attack | CCD-IS | [Read More](https://medium.com/p/8bca20c9805b) |
-| Sat, 24 May 2025 20:30:16 GMT | False Flags in Cyberspace: Strategic Manipulation and the Risk of Real-World Conflict | CCD-IS | [Read More](https://medium.com/p/a2759f4a2b9c) |
-| Sat, 24 May 2025 20:21:08 GMT | LetsDefend — Suspicious Browser Extension | Raphael Nicolich | [Read More](https://medium.com/p/8bdac6363806) |
-| Sat, 24 May 2025 20:19:29 GMT | TryHackMe Walkthrough — EDR Defensive — Retracted | Nicholas Abundis | [Read More](https://medium.com/p/233becb3ba47) |
