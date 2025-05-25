@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 14:34:15 GMT | Supply Chain Attacks Through NPM Packages: Prevention Strategies for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ed6463877e35) |
+| Sun, 25 May 2025 14:22:18 GMT | HackTheBox Sherlock - Noxious | Enes Önen | [Read More](https://medium.com/p/c6b5c5924ae4) |
+| Sun, 25 May 2025 14:20:19 GMT | Here’s How I Recovered My Money from FXRoad | Maurice V.Bohn | [Read More](https://medium.com/p/9d625b7b42b7) |
+| Sun, 25 May 2025 14:18:24 GMT | FXRoad Review – Stay Away, It’s a Scam | Maurice V.Bohn | [Read More](https://medium.com/p/a9549f736ac1) |
 | Sun, 25 May 2025 14:02:30 GMT | How to Apply for Cybersecurity Jobs the Smart Way: A Guide for Analysts Who Want to Stand Out | Frank Cabrel | [Read More](https://medium.com/p/959b57e5d146) |
 | Sun, 25 May 2025 14:01:37 GMT | U.S. charged 16 individuals tied to DanaBot — DanaBot Developers Infected Their Own Systems — A… | Ekene Joseph | [Read More](https://medium.com/p/b42bbb30c8bd) |
 | Sun, 25 May 2025 14:00:18 GMT | Here’s How I Recovered My Money from 70Trades | Amelia Goward | [Read More](https://medium.com/p/b2716bced8ed) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 06:08:34 GMT | Secure, Comply, Protect: AI-powered Cybersecurity | Kanika Saxena | [Read More](https://medium.com/p/98f550b7c148) |
 | Sun, 25 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3d068da13723) |
 | Sun, 25 May 2025 06:00:29 GMT | How AI Prioritises Alerts and Reduces Fatigue | Seb AGUELE | [Read More](https://medium.com/p/b0382b6338a6) |
-| Sun, 25 May 2025 05:47:57 GMT | EscapeTwo-HTB-Walkthrough-By-Reju-Kole | Reju Kole | [Read More](https://medium.com/p/2516525f3720) |
-| Sun, 25 May 2025 05:46:32 GMT | Improve Symfony Logging with DevSecOps Practices | Pentest_Testing_Corp | [Read More](https://medium.com/p/139912b41b6f) |
-| Sun, 25 May 2025 05:43:45 GMT | RXSS Vulnerability Manual Approach | AbhirupKonwar | [Read More](https://medium.com/p/4f587c004dae) |
-| Sun, 25 May 2025 05:41:26 GMT | AN EASY 2FA BYPASS | Sijo Johnson | [Read More](https://medium.com/p/261261ca2eab) |
