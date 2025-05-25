@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 10:12:46 GMT | CISA Sounds the Alarm: SaaS Attacks Exploit App Secrets and Cloud Misconfigs | Ismail Tasdelen | [Read More](https://medium.com/p/a0aa0406c4b2) |
+| Sun, 25 May 2025 10:10:06 GMT | TryHackMe - AD: Basic Enumeration -Walkthrough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/434992d2ed0c) |
+| Sun, 25 May 2025 09:56:53 GMT | Deep Dive into Zeek: A Powerful Network Security Monitoring Tool | Thakur Ashutosh | [Read More](https://medium.com/p/f52ff3485035) |
+| Sun, 25 May 2025 09:55:07 GMT | ViciousTrap’s Global Honeypot: How 5,300 Cisco Devices Became Cyber Spies ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/709809c57b8b) |
+| Sun, 25 May 2025 09:52:08 GMT | Europol’s Operation Endgame: 300 Servers Down and €3.5M Seized in Global Ransomware Crackdown | Ismail Tasdelen | [Read More](https://medium.com/p/bc52c72c12e5) |
+| Sun, 25 May 2025 09:48:39 GMT | Hackers Are Sneaking Winos 4.0 Malware Through Fake VPN and Browser Installers | Ismail Tasdelen | [Read More](https://medium.com/p/e83584ef5ea3) |
+| Sun, 25 May 2025 09:48:03 GMT | Redline Stealer: Malware Analysis and String Deobfuscation | Emiliano | [Read More](https://medium.com/p/f858e3f37b7e) |
+| Sun, 25 May 2025 09:46:32 GMT | Zero-Click NTLMv2 Hash Disclosure via Auto-Executed COM Objects in Windows | Andrea | [Read More](https://medium.com/p/5f85776f8796) |
+| Sun, 25 May 2025 09:45:48 GMT | Hacking tools — Art of my creation(Part 2) | Zatikyan Sevada | [Read More](https://medium.com/p/fa3045c05b28) |
+| Sun, 25 May 2025 09:44:11 GMT | Best Ethical Hacking Course in Delhi (2025) | cyber security Updates | [Read More](https://medium.com/p/73650cc149fa) |
 | Sun, 25 May 2025 09:31:50 GMT | How to Root Your Android Emulator & Hack Yourself With Burp Suite (Manually, Like a Legend) | Saumadip Mandal | [Read More](https://medium.com/p/ef4fbe28ceab) |
 | Sun, 25 May 2025 09:27:46 GMT | The Rise of Deepfake Technology: Security Concerns for Businesses | Professor Mack Jackson Jr | [Read More](https://medium.com/p/af20e153e2a0) |
 | Sun, 25 May 2025 09:09:50 GMT | Earn More Passive Income with $LFI on StakingRewards | LFI | [Read More](https://medium.com/p/f00c066354d0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 23:15:14 GMT | What Cyber Security Taught Me About Learning | Anthony Mukwaya | [Read More](https://medium.com/p/bdb91b497b73) |
 | Sat, 24 May 2025 23:10:55 GMT | Hacked by iKurdBlitz Team | iKurdBlitz Team | [Read More](https://medium.com/p/2e59a22aa1a4) |
 | Sat, 24 May 2025 22:58:53 GMT | Global Operation Strikes Blow to Lumma Stealer’s Cybercrime Infrastructure | Jon C | [Read More](https://medium.com/p/cc1aa019b2a5) |
-| Sat, 24 May 2025 22:26:08 GMT | I will craft data analyst, cybersecurity, grc analyst, sap, lead, data science resume | Hennessy Dianna | [Read More](https://medium.com/p/fea55f760329) |
-| Sat, 24 May 2025 22:25:59 GMT | How a Business Logic Error Earned me my First 100$ in a Bug Bounty Private Program | Charles Rostain | [Read More](https://medium.com/p/7a13af06f7d1) |
-| Sat, 24 May 2025 22:16:31 GMT | What is DNS and How It Works: The Phonebook of the Internet | Karthikeyan Nagaraj | [Read More](https://medium.com/p/5ef76bc4a625) |
-| Sat, 24 May 2025 22:12:56 GMT | Rugged, Drained & Rekt: The Most Common Crypto Scams (and How to Spot Them) | PEPESEC AI | [Read More](https://medium.com/p/4313422bd80b) |
-| Sat, 24 May 2025 21:55:38 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/998cf45192b3) |
-| Sat, 24 May 2025 21:50:24 GMT | Zero-Trust Microservices: Fortify Your Cloud-Native Security with Envoy and Istio | JiokeCloudSec | [Read More](https://medium.com/p/da9386d3228d) |
-| Sat, 24 May 2025 21:43:15 GMT | Run a LLM Locally as a REST API: Gain Full Control and Enhanced Security | Chris Chin | [Read More](https://medium.com/p/44a1c47870fa) |
-| Sat, 24 May 2025 21:42:54 GMT | Android Analysis — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/9363af4ced95) |
-| Sat, 24 May 2025 21:26:13 GMT | I Was Up at 2AM Worrying About Bills—Then This Happened... | The Masked Muse | [Read More](https://medium.com/p/859de479b4d1) |
-| Sat, 24 May 2025 21:06:39 GMT | The Dark Side of AI: Anthropic’s Claude 4 Opus and the Dangers of Misleading Intelligence | Javad Ta | [Read More](https://medium.com/p/36c3d7ffc188) |
