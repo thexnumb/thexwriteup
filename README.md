@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 03:07:31 GMT | Subdomain Takeover of fr1.vpn.zomans.com — $350 Bounty | Monika sharma | [Read More](https://medium.com/p/638d959e11dc) |
+| Sun, 25 May 2025 03:07:24 GMT | Behind the padlock: How your browser talks to web servers with different SSL certificates | Roman Huliak | [Read More](https://medium.com/p/2b05954cef3b) |
+| Sun, 25 May 2025 03:07:18 GMT | RTO vs RPO | Cyber T | [Read More](https://medium.com/p/6a8ae409dfe8) |
+| Sun, 25 May 2025 03:07:09 GMT | A CEO’s Email Was Hacked — and the Entire Company Went Dark in 6 Hours | Noel | [Read More](https://medium.com/p/b1b5b29c4671) |
+| Sun, 25 May 2025 03:07:03 GMT | A Small Business Got Hacked by Its Own Retired AI — Here’s How It Happened | Noel | [Read More](https://medium.com/p/f8a42fd5ff6f) |
+| Sun, 25 May 2025 03:06:58 GMT | Youtube Channel OSINT | AbhirupKonwar | [Read More](https://medium.com/p/2a056468e5cf) |
+| Sun, 25 May 2025 03:06:21 GMT | The $2 QR Code That Almost Destroyed a Thriving Small Business | Noel | [Read More](https://medium.com/p/b8415d3d27d4) |
+| Sun, 25 May 2025 03:02:59 GMT | LetsDefend — Brute Force Attack Walkthrough | Javier | [Read More](https://medium.com/p/1ba13a40b116) |
+| Sun, 25 May 2025 03:02:29 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/fb2d045ccf01) |
+| Sun, 25 May 2025 03:02:13 GMT | My Race Against the Clock: Securing My Cloud Development Future From First GitHub Commit to a FREE… | Rashard A. | [Read More](https://medium.com/p/1eb3739a2e9d) |
+| Sun, 25 May 2025 02:52:58 GMT | 攝影機暴露的不只是畫面，而是整個生活 | Anon Hack | [Read More](https://medium.com/p/55ef71b93cb2) |
+| Sun, 25 May 2025 02:37:45 GMT | Getting Started with HashiCorp Vault: Secure Secrets Management for DevOps and Beyond | Atul Garg | [Read More](https://medium.com/p/3cfcb81795ee) |
+| Sun, 25 May 2025 02:11:22 GMT | Bypassing SSL Validation in a Java Application via Truststore | Sandeep Wawdane | [Read More](https://medium.com/p/f1b9ea42accd) |
+| Sun, 25 May 2025 02:05:54 GMT | OverTheWire — Bandit Walkthrough Level 0 -> Level 4 | Hassen Hannachi | [Read More](https://medium.com/p/c804a42131f1) |
 | Sun, 25 May 2025 01:38:36 GMT | Capturing NTL MHashes in 2025 | Paulo Bazzo | [Read More](https://medium.com/p/59bfda584da6) |
 | Sun, 25 May 2025 01:32:25 GMT | A Zero-Trust Cybersecurity Cybersecurity for Future Lunar and Martian Communication Networks | Epicbytecraft | [Read More](https://medium.com/p/c39c5651afcb) |
 | Sun, 25 May 2025 00:58:25 GMT | Elderly care and the case for humanoids in healthcare. A personal perspective | Chinyere / Living in the Gray | [Read More](https://medium.com/p/1bdbe64d8b21) |
@@ -99,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 16:44:10 GMT | Keeping Your AI in Check: A Simple Guide to Guardrails for AI Agents | Algo Insights | [Read More](https://medium.com/p/2d4d74162356) |
 | Sat, 24 May 2025 16:41:41 GMT | How India’s Defence Policy Has Changed Over the Decades | Prafull Shroti | [Read More](https://medium.com/p/2b5414f17072) |
 | Sat, 24 May 2025 16:20:31 GMT | .hack//SIGN: Sessiz Bir Devrim ve Kaybolmuşluk Hissi | Talha Özcan | [Read More](https://medium.com/p/94c068fb68f5) |
-| Sat, 24 May 2025 16:06:24 GMT | Foundations of Cyber Defense: Your First Line of Digital Defense | Vivian Aranha | [Read More](https://medium.com/p/4317c1c716bb) |
-| Sat, 24 May 2025 16:02:24 GMT | Can You Outsmart the Alert? An Interactive Cybersecurity Challenge With AI in Your Corner | Corey Jones | [Read More](https://medium.com/p/d9f28648a992) |
-| Sat, 24 May 2025 16:00:03 GMT | El ataque del Gatito Ninja: Entendiendo XSS sin morir de aburrimiento | Cami Bertolani | [Read More](https://medium.com/p/06f827d84489) |
-| Sat, 24 May 2025 15:59:55 GMT | Increase Your Earnings with Bugs Bunny $BUGS Staking Strategies | Ava
- Chandler | [Read More](https://medium.com/p/6303411a51a7) |
-| Sat, 24 May 2025 15:48:20 GMT | A2A and MCP : Integrating RBAC Security into agents (Live Demo) | Vishal Mysore | [Read More](https://medium.com/p/d5ee867ec459) |
-| Sat, 24 May 2025 15:45:50 GMT | Day 5 of my AWS Pentesting journey — Privilege Escalation | mauzware | [Read More](https://medium.com/p/cfc60ffb3b9a) |
-| Sat, 24 May 2025 15:30:50 GMT | Staking ChainBounty $BOUNTY: A Step-by-Step Process | BOUNTY | [Read More](https://medium.com/p/2c3cd7b0a30f) |
-| Sat, 24 May 2025 15:24:36 GMT | Time to Hack Password via Brute Force | Vijay Kumar Gupta | [Read More](https://medium.com/p/10a3139cdfa4) |
-| Sat, 24 May 2025 15:22:27 GMT | The Windows Security Journey — Virtual User Accounts (Virtual User) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/96d018528462) |
-| Sat, 24 May 2025 15:20:59 GMT | Warp.dev In A Bad Position 2025 | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/9c5201245ce5) |
-| Sat, 24 May 2025 15:19:16 GMT | Secure Your Codebase with SAST, DAST & SCA | Torsa Naidu | [Read More](https://medium.com/p/6c936d4cce5c) |
-| Sat, 24 May 2025 15:13:04 GMT | The Most Immutable Telegram Channel | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/a3c123cb7007) |
-| Sat, 24 May 2025 15:12:28 GMT | ️ Beyond Uniforms: Building India’s Security Leaders at RRU | Rathinavel M.S | [Read More](https://medium.com/p/07269ea905c1) |
-| Sat, 24 May 2025 15:06:02 GMT | Business Logic Vulnerability in Dell’s Payment API — Reported via Bugcrowd | Aditya sunny | [Read More](https://medium.com/p/f2dc2192227c) |
