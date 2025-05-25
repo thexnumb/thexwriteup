@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 09:31:50 GMT | How to Root Your Android Emulator & Hack Yourself With Burp Suite (Manually, Like a Legend) | Saumadip Mandal | [Read More](https://medium.com/p/ef4fbe28ceab) |
+| Sun, 25 May 2025 09:27:46 GMT | The Rise of Deepfake Technology: Security Concerns for Businesses | Professor Mack Jackson Jr | [Read More](https://medium.com/p/af20e153e2a0) |
+| Sun, 25 May 2025 09:09:50 GMT | Earn More Passive Income with $LFI on StakingRewards | LFI | [Read More](https://medium.com/p/f00c066354d0) |
 | Sun, 25 May 2025 08:59:04 GMT | ️ 10 PodSecurityContext Settings You Shouldn’t Skip | Devops Trainer | [Read More](https://medium.com/p/f7be2b2b34fb) |
 | Sun, 25 May 2025 08:52:14 GMT | Top Social Engineering Techniques Used by Cybercriminals: The Human Hacking Playbook | Rageeth | [Read More](https://medium.com/p/0188871fa2c3) |
 | Sun, 25 May 2025 08:50:23 GMT | Triple-Chain Security: How Chronos Vault Revolutionizes Digital Asset Protection | Chronos Vault | [Read More](https://medium.com/p/1447cbb72a95) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 21:42:54 GMT | Android Analysis — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/9363af4ced95) |
 | Sat, 24 May 2025 21:26:13 GMT | I Was Up at 2AM Worrying About Bills—Then This Happened... | The Masked Muse | [Read More](https://medium.com/p/859de479b4d1) |
 | Sat, 24 May 2025 21:06:39 GMT | The Dark Side of AI: Anthropic’s Claude 4 Opus and the Dangers of Misleading Intelligence | Javad Ta | [Read More](https://medium.com/p/36c3d7ffc188) |
-| Sat, 24 May 2025 21:01:50 GMT | Google Veo, Veo3 and the Next Security Frontier: What CISOs Need to Know About AI-Powered Video… | Ronit Yadav | [Read More](https://medium.com/p/8ff5ecf28197) |
-| Sat, 24 May 2025 21:01:17 GMT | Data Classification and Its Role in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/59f1450bb2e0) |
-| Sat, 24 May 2025 20:56:59 GMT | How Behavioral Insights Helped Reduce Phishing Clicks by 40% | Ipek U | [Read More](https://medium.com/p/ba19ad63ad67) |
