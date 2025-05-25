@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 06:47:37 GMT | Day 4/30 — Git Bisect Explained: Find the Commit That Broke Your Code | Ruqaiya Beguwala | [Read More](https://medium.com/p/2ac4245e3967) |
+| Sun, 25 May 2025 06:31:26 GMT | “What If Everything You Knew About Online Privacy Was Wrong?” | Vexpoltech | [Read More](https://medium.com/p/e43669363bcb) |
+| Sun, 25 May 2025 06:28:11 GMT | Saving the Results | Velia's Journey | [Read More](https://medium.com/p/2928bf39ccd3) |
 | Sun, 25 May 2025 06:20:11 GMT | Brute-force password attacks on an outlook account | Kahhow | [Read More](https://medium.com/p/05606eb0904d) |
 | Sun, 25 May 2025 06:13:05 GMT | Unlimited XSS - This is the Dumbest Way to Find XSS Bug | Abhijeet Kumawat | [Read More](https://medium.com/p/2202b3621c6d) |
 | Sun, 25 May 2025 06:08:34 GMT | Secure, Comply, Protect: AI-powered Cybersecurity | Kanika Saxena | [Read More](https://medium.com/p/98f550b7c148) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 18:59:34 GMT | Do you know what Yescrypt is ? | manjunath Kotabagi | [Read More](https://medium.com/p/89090e92c3af) |
 | Sat, 24 May 2025 18:57:03 GMT | Understanding Printers: A Beginner's Guide to Operation and Troubleshooting | Derrick Mugenyi | [Read More](https://medium.com/p/f1fc72003f6c) |
 | Sat, 24 May 2025 18:56:31 GMT | Network Forensics: Anomaly Detection at the Packet Level | Esra Kayhan | [Read More](https://medium.com/p/7e6eee75fe31) |
-| Sat, 24 May 2025 18:42:25 GMT | The Security You Never See | Beyond Merit | [Read More](https://medium.com/p/41b4a0a3d52e) |
-| Sat, 24 May 2025 18:35:40 GMT | The Life of an Emotional Outsider | Emotional Manscape | [Read More](https://medium.com/p/fd4d8bc989da) |
-| Sat, 24 May 2025 18:31:38 GMT | Hack The Box Season 8 “Puppy” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/07b2ec1b30c1) |
