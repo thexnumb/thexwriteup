@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 23:34:41 GMT | Setting Up a Secure Malware Analysis Lab: A Beginner’s Guide using VirtualBox, FLARE VM, and REMnux | Nouman Rehman | [Read More](https://medium.com/p/58cc4bdea1a7) |
+| Sun, 25 May 2025 23:32:26 GMT | DNS Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d6fc142b5f10) |
+| Sun, 25 May 2025 23:16:27 GMT | 5 Tools That Changed How I Code-Forever | StackSoul | [Read More](https://medium.com/p/ef1deea24ea1) |
 | Sun, 25 May 2025 23:02:28 GMT | HackTheBox— BFT Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/62148e3c0678) |
 | Sun, 25 May 2025 22:58:15 GMT | Cognitive Load: The Overlooked Vulnerability in Enterprise Cybersecurity | Jeffrey Nickle | [Read More](https://medium.com/p/47fee4595f91) |
 | Sun, 25 May 2025 22:58:02 GMT | From Alerts To Action: Leveraging Workflow Actions In Splunk | Tijan Hydara | [Read More](https://medium.com/p/dac573b3d2df) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 15:14:23 GMT | Are Certifications Killing Curiosity in Cybersecurity? | Abdul | [Read More](https://medium.com/p/d6576b57052a) |
 | Sun, 25 May 2025 15:09:36 GMT | How I Built a Mini USB Intrusion Detector Using Python (Just Like SecOps Teams Do in Real Life) | Praful Kalal | [Read More](https://medium.com/p/0e7b97497c57) |
 | Sun, 25 May 2025 15:03:41 GMT | 7 Things You Should Never Search on Google | MindHack Daily | [Read More](https://medium.com/p/48c9987b156d) |
-| Sun, 25 May 2025 15:02:47 GMT | What is the Secure SDLC? | MOHD ABDUL JAMEEL | [Read More](https://medium.com/p/f2d43972c9cb) |
-| Sun, 25 May 2025 15:02:18 GMT | LLMs Struggle with Performance, Cisco Launches Security AI, WSL Goes Open Source, and Microsoft ❤️… | Rajesh Kanade | [Read More](https://medium.com/p/9ffaa72970c6) |
-| Sun, 25 May 2025 14:46:19 GMT | News Writing: Types of News Body | Aimiella Calayag | [Read More](https://medium.com/p/cb81a3aa3540) |
