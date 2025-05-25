@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 21:02:55 GMT | When TikTok Becomes a Trojan Horse: The Rise of Social Media Malware Distribution | Ismail Tasdelen | [Read More](https://medium.com/p/5b172cfec576) |
+| Sun, 25 May 2025 21:02:04 GMT | Bug Bounty Journey — Valid Report Part 6 | 0xF3r4t | [Read More](https://medium.com/p/a51a9360ac3a) |
+| Sun, 25 May 2025 21:01:08 GMT | That Grumpy BSD Guy: A Short Reading List | Peter Hansteen | [Read More](https://medium.com/p/9016dddc3d9a) |
+| Sun, 25 May 2025 21:01:06 GMT | Google Gemini, the Pascaline of the Third Millennium: When AI Is Afraid to Decide | Francesco Cilibrasi | [Read More](https://medium.com/p/612dce4babf4) |
+| Sun, 25 May 2025 20:52:02 GMT | Securing AI in the Cloud | Samriddhi | [Read More](https://medium.com/p/236348de1b7c) |
+| Sun, 25 May 2025 20:44:46 GMT | Top Strategies for LunaFi $LFI Crypto Profit Success | LFI | [Read More](https://medium.com/p/353abb03b545) |
+| Sun, 25 May 2025 20:41:16 GMT | CTF Write-Up: Breaking Cryptoclock — A Predictable PRNG and the Ticking Time Bomb Seed | Not4a6f7365 | [Read More](https://medium.com/p/631ce555ad2b) |
 | Sun, 25 May 2025 20:24:28 GMT | Unleash Your Hacking Power: 3 Python Script Types Every Pentester MUST Know | jensbecker-dev | [Read More](https://medium.com/p/95a8023b49f3) |
 | Sun, 25 May 2025 20:11:58 GMT | AD CS ESC16: Misconfiguration and Exploitation | Munib Nawaz | [Read More](https://medium.com/p/9264e022a8c6) |
 | Sun, 25 May 2025 20:11:48 GMT | NahamconCTF2025 — The Accidental Screenshot and the Encrypted Flag | Not4a6f7365 | [Read More](https://medium.com/p/d838cf6cc5d0) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 13:27:50 GMT | Managing Credentials for Cybersecurity | Ed-it Editions | [Read More](https://medium.com/p/b6e5d6de7ad1) |
 | Sun, 25 May 2025 13:25:21 GMT | How I’m Preparing to Investigate My First SOC Alert: A Cybersecurity Student’s Step-by-Step Guide | Hemavarna Sundar | [Read More](https://medium.com/p/cc7a3f9b01f4) |
 | Sun, 25 May 2025 13:25:18 GMT | Cloud Security: Building a Fortified Digital Ecosystem in the Modern Age | MITRE Doggy | [Read More](https://medium.com/p/af6f18010765) |
-| Sun, 25 May 2025 13:23:20 GMT | TryHackMe PT1 vs HackTheBox CPTS vs OSCP - Review | Motasem Hamdan | [Read More](https://medium.com/p/b6344f07d354) |
-| Sun, 25 May 2025 13:21:05 GMT | API Security: Protecting the Digital Connectors of the Modern Web | MITRE Doggy | [Read More](https://medium.com/p/69e5651912c2) |
-| Sun, 25 May 2025 13:19:14 GMT | Você já imaginou ser ameaçado(a) por um agente de inteligência artificial ? | Luciano Alves de Oliveira | [Read More](https://medium.com/p/df40640ad7fd) |
-| Sun, 25 May 2025 13:18:33 GMT | iPad Kiosk Mode: A Comprehensive Guide for Optimized Functionality | Vantage MDM | [Read More](https://medium.com/p/66bb6bc8bcbf) |
-| Sun, 25 May 2025 13:12:40 GMT | Exploiting Unsecured IoTs: Outsourced Scamming and How a YouTuber hijacked an organized crime in… | van gone | [Read More](https://medium.com/p/abfe5de0aeb5) |
-| Sun, 25 May 2025 13:08:27 GMT | The Rise of Zero-Knowledge Proofs: Securing the Future of Web3 and Blockchain | Nautiyal | [Read More](https://medium.com/p/4bcea9bfd996) |
-| Sun, 25 May 2025 13:07:06 GMT | Microsoft Entra ID: Redefining Enterprise Identity for the Zero Trust Era | Abhijith Soman | [Read More](https://medium.com/p/855b86cdd548) |
