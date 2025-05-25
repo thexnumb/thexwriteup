@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 13:21:05 GMT | API Security: Protecting the Digital Connectors of the Modern Web | MITRE Doggy | [Read More](https://medium.com/p/69e5651912c2) |
+| Sun, 25 May 2025 13:19:14 GMT | Você já imaginou ser ameaçado(a) por um agente de inteligência artificial ? | Luciano Alves de Oliveira | [Read More](https://medium.com/p/df40640ad7fd) |
+| Sun, 25 May 2025 13:18:33 GMT | iPad Kiosk Mode: A Comprehensive Guide for Optimized Functionality | Vantage MDM | [Read More](https://medium.com/p/66bb6bc8bcbf) |
+| Sun, 25 May 2025 13:12:40 GMT | Exploiting Unsecured IoTs: Outsourced Scamming and How a YouTuber hijacked an organized crime in… | van gone | [Read More](https://medium.com/p/abfe5de0aeb5) |
+| Sun, 25 May 2025 13:08:27 GMT | The Rise of Zero-Knowledge Proofs: Securing the Future of Web3 and Blockchain | Nautiyal | [Read More](https://medium.com/p/4bcea9bfd996) |
+| Sun, 25 May 2025 13:07:06 GMT | Microsoft Entra ID: Redefining Enterprise Identity for the Zero Trust Era | Abhijith Soman | [Read More](https://medium.com/p/855b86cdd548) |
+| Sun, 25 May 2025 13:05:11 GMT | DevOps vs DevSecOps | Cem Gülümser | [Read More](https://medium.com/p/9d6bc45c4565) |
+| Sun, 25 May 2025 13:02:26 GMT | How Endpoint Visibility Gaps Are Exposing Your Business | Peris.ai Cybersecurity | [Read More](https://medium.com/p/5d0438caf376) |
+| Sun, 25 May 2025 13:02:01 GMT | Mr Robot CTF-TryHackme Walkthrough | CyberLabyrinthX | [Read More](https://medium.com/p/9f896cbe0986) |
+| Sun, 25 May 2025 12:55:07 GMT | How to Block Up to 95% of Attacks Using AWS WAF | Prateek Jain | [Read More](https://medium.com/p/e2223efc1f55) |
+| Sun, 25 May 2025 12:47:13 GMT | Metasploit Framework | Yusuf Eren Koçak | [Read More](https://medium.com/p/757b9110ff78) |
+| Sun, 25 May 2025 12:46:29 GMT | FXIFY Online Investing Reviews 2025 | liam smith | [Read More](https://medium.com/p/0ede1fe9f74a) |
+| Sun, 25 May 2025 12:42:24 GMT | OAuth 2.0 Authorization in 5G Core Networks: Architecture, Workflows, and Security Challenges | Shubham Kumar | [Read More](https://medium.com/p/c3418edc4d41) |
+| Sun, 25 May 2025 12:36:35 GMT | Rewiring the Backbone: Architecting Blockchain-Based Resilience for Critical National… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/771db0e56240) |
 | Sun, 25 May 2025 12:32:34 GMT | Ethical Hacking Training Course in Delhi with Certificate | Manisha Chaudhary | [Read More](https://medium.com/p/ade30edfdd97) |
 | Sun, 25 May 2025 12:32:25 GMT | Why You Should Care About Blockchain (Even If You’re Not a Tech Bro) | Neeraj Nautiyal | [Read More](https://medium.com/p/4c00b9ff6b80) |
 | Sun, 25 May 2025 12:32:19 GMT | Store Encrypted Data in Your Database Using .NET — Secure and Efficient | Adrian Bailador | [Read More](https://medium.com/p/09dfd1314052) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 03:37:33 GMT | AI-Powered Authorization: Leading Secure Fintech Systems for the Future | Sachin Malav | [Read More](https://medium.com/p/754172524f91) |
 | Sun, 25 May 2025 03:32:27 GMT | Inside the Union County Cyberattack: The Anatomy of a Ransomware Breach | Deven Chhajed | [Read More](https://medium.com/p/d8caa0f044ac) |
 | Sun, 25 May 2025 03:29:12 GMT | The Arrival She Never Admits She’s Waiting For | RJ Menon | [Read More](https://medium.com/p/04eb952fffe8) |
-| Sun, 25 May 2025 03:07:31 GMT | Subdomain Takeover of fr1.vpn.zomans.com — $350 Bounty | Monika sharma | [Read More](https://medium.com/p/638d959e11dc) |
-| Sun, 25 May 2025 03:07:24 GMT | Behind the padlock: How your browser talks to web servers with different SSL certificates | Roman Huliak | [Read More](https://medium.com/p/2b05954cef3b) |
-| Sun, 25 May 2025 03:07:18 GMT | RTO vs RPO | Cyber T | [Read More](https://medium.com/p/6a8ae409dfe8) |
-| Sun, 25 May 2025 03:07:09 GMT | A CEO’s Email Was Hacked — and the Entire Company Went Dark in 6 Hours | Noel | [Read More](https://medium.com/p/b1b5b29c4671) |
-| Sun, 25 May 2025 03:07:03 GMT | A Small Business Got Hacked by Its Own Retired AI — Here’s How It Happened | Noel | [Read More](https://medium.com/p/f8a42fd5ff6f) |
-| Sun, 25 May 2025 03:06:58 GMT | Youtube Channel OSINT | AbhirupKonwar | [Read More](https://medium.com/p/2a056468e5cf) |
-| Sun, 25 May 2025 03:06:21 GMT | The $2 QR Code That Almost Destroyed a Thriving Small Business | Noel | [Read More](https://medium.com/p/b8415d3d27d4) |
-| Sun, 25 May 2025 03:02:59 GMT | LetsDefend — Brute Force Attack Walkthrough | Javier | [Read More](https://medium.com/p/1ba13a40b116) |
-| Sun, 25 May 2025 03:02:29 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/fb2d045ccf01) |
-| Sun, 25 May 2025 03:02:13 GMT | My Race Against the Clock: Securing My Cloud Development Future From First GitHub Commit to a FREE… | Rashard A. | [Read More](https://medium.com/p/1eb3739a2e9d) |
-| Sun, 25 May 2025 02:52:58 GMT | 攝影機暴露的不只是畫面，而是整個生活 | Anon Hack | [Read More](https://medium.com/p/55ef71b93cb2) |
-| Sun, 25 May 2025 02:37:45 GMT | Getting Started with HashiCorp Vault: Secure Secrets Management for DevOps and Beyond | Atul Garg | [Read More](https://medium.com/p/3cfcb81795ee) |
-| Sun, 25 May 2025 02:11:22 GMT | Bypassing SSL Validation in a Java Application via Truststore | Sandeep Wawdane | [Read More](https://medium.com/p/f1b9ea42accd) |
-| Sun, 25 May 2025 02:05:54 GMT | OverTheWire — Bandit Walkthrough Level 0 -> Level 4 | Hassen Hannachi | [Read More](https://medium.com/p/c804a42131f1) |
