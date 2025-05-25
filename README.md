@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 17:28:28 GMT | Smart Contract Bugs Caused by Unexpected State Changes | Nautiyal | [Read More](https://medium.com/p/54c1ba136f21) |
+| Sun, 25 May 2025 17:21:44 GMT | Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/68da63caf005) |
 | Sun, 25 May 2025 17:04:43 GMT | Building a SOC Analyst Home Lab | Harsh Sharma | [Read More](https://medium.com/p/a172154d34de) |
 | Sun, 25 May 2025 16:57:30 GMT | Try Hack Me: Mayhem | Sanidhya Mall | [Read More](https://medium.com/p/0927a5953bb0) |
 | Sun, 25 May 2025 16:50:37 GMT | The Most Powerful Botnet in the world : Mantis Botnet | Sairaj | [Read More](https://medium.com/p/b651b3aa5f76) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 09:46:32 GMT | Zero-Click NTLMv2 Hash Disclosure via Auto-Executed COM Objects in Windows | Andrea | [Read More](https://medium.com/p/5f85776f8796) |
 | Sun, 25 May 2025 09:45:48 GMT | Hacking tools — Art of my creation(Part 2) | Zatikyan Sevada | [Read More](https://medium.com/p/fa3045c05b28) |
 | Sun, 25 May 2025 09:44:11 GMT | Best Ethical Hacking Course in Delhi (2025) | cyber security Updates | [Read More](https://medium.com/p/73650cc149fa) |
-| Sun, 25 May 2025 09:31:50 GMT | How to Root Your Android Emulator & Hack Yourself With Burp Suite (Manually, Like a Legend) | Saumadip Mandal | [Read More](https://medium.com/p/ef4fbe28ceab) |
-| Sun, 25 May 2025 09:27:46 GMT | The Rise of Deepfake Technology: Security Concerns for Businesses | Professor Mack Jackson Jr | [Read More](https://medium.com/p/af20e153e2a0) |
