@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 13:34:20 GMT | CVE-2017–0199 Analizi: XLS → HTA → VBS → Steganografi Zinciriyle Gelişmiş Saldırı | Umid Mammadov | [Read More](https://medium.com/p/5944e15a8bc3) |
+| Sun, 25 May 2025 13:31:15 GMT | The LOOBins project meets KQL | Sonja Pinzl | [Read More](https://medium.com/p/a438e7c6b37b) |
+| Sun, 25 May 2025 13:30:40 GMT | Exploiting Security Misconfiguration to Gain Full Account Takeover | Vashu Vats | [Read More](https://medium.com/p/eb7a3da01f14) |
+| Sun, 25 May 2025 13:27:50 GMT | Managing Credentials for Cybersecurity | Ed-it Editions | [Read More](https://medium.com/p/b6e5d6de7ad1) |
+| Sun, 25 May 2025 13:25:21 GMT | How I’m Preparing to Investigate My First SOC Alert: A Cybersecurity Student’s Step-by-Step Guide | Hemavarna Sundar | [Read More](https://medium.com/p/cc7a3f9b01f4) |
+| Sun, 25 May 2025 13:25:18 GMT | Cloud Security: Building a Fortified Digital Ecosystem in the Modern Age | MITRE Doggy | [Read More](https://medium.com/p/af6f18010765) |
+| Sun, 25 May 2025 13:23:20 GMT | TryHackMe PT1 vs HackTheBox CPTS vs OSCP - Review | Motasem Hamdan | [Read More](https://medium.com/p/b6344f07d354) |
 | Sun, 25 May 2025 13:21:05 GMT | API Security: Protecting the Digital Connectors of the Modern Web | MITRE Doggy | [Read More](https://medium.com/p/69e5651912c2) |
 | Sun, 25 May 2025 13:19:14 GMT | Você já imaginou ser ameaçado(a) por um agente de inteligência artificial ? | Luciano Alves de Oliveira | [Read More](https://medium.com/p/df40640ad7fd) |
 | Sun, 25 May 2025 13:18:33 GMT | iPad Kiosk Mode: A Comprehensive Guide for Optimized Functionality | Vantage MDM | [Read More](https://medium.com/p/66bb6bc8bcbf) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 04:33:32 GMT | Setting Up a Safe Malware Analysis Environment with FlareVM and Remnux on VirtualBox | Manmeet Singh | [Read More](https://medium.com/p/27d90348e06b) |
 | Sun, 25 May 2025 04:28:27 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/724d3bfc4423) |
 | Sun, 25 May 2025 04:26:40 GMT | API 02:2023 — Broken Authentication | Suhel Kathi | [Read More](https://medium.com/p/daa3ce331818) |
-| Sun, 25 May 2025 04:20:02 GMT | Types of Hackers and Their Duties — Not All Wear Hoodies in the Dark | Howl | [Read More](https://medium.com/p/96011f26b043) |
-| Sun, 25 May 2025 04:05:37 GMT | The Windows Security Journey — Managed Service Accounts (MSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/68211ac103f1) |
-| Sun, 25 May 2025 03:45:41 GMT | The Cybersecurity Library Your Boss Won’t Share | Ahmad Javed | [Read More](https://medium.com/p/ee4d0ac8c2d6) |
-| Sun, 25 May 2025 03:42:27 GMT | Trusting the Wrong Device — A Hands-On Cybersecurity Breakdown | 5kullk3r | [Read More](https://medium.com/p/a986f0d8ce44) |
-| Sun, 25 May 2025 03:37:33 GMT | AI-Powered Authorization: Leading Secure Fintech Systems for the Future | Sachin Malav | [Read More](https://medium.com/p/754172524f91) |
-| Sun, 25 May 2025 03:32:27 GMT | Inside the Union County Cyberattack: The Anatomy of a Ransomware Breach | Deven Chhajed | [Read More](https://medium.com/p/d8caa0f044ac) |
-| Sun, 25 May 2025 03:29:12 GMT | The Arrival She Never Admits She’s Waiting For | RJ Menon | [Read More](https://medium.com/p/04eb952fffe8) |
