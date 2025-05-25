@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 23:02:28 GMT | HackTheBox— BFT Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/62148e3c0678) |
+| Sun, 25 May 2025 22:58:15 GMT | Cognitive Load: The Overlooked Vulnerability in Enterprise Cybersecurity | Jeffrey Nickle | [Read More](https://medium.com/p/47fee4595f91) |
+| Sun, 25 May 2025 22:58:02 GMT | From Alerts To Action: Leveraging Workflow Actions In Splunk | Tijan Hydara | [Read More](https://medium.com/p/dac573b3d2df) |
+| Sun, 25 May 2025 22:55:55 GMT | Beyond the CIA Triad: Why the AAAA Model Is the Future of Cybersecurity | Jeffrey Nickle | [Read More](https://medium.com/p/0d4ceedadf86) |
+| Sun, 25 May 2025 22:32:25 GMT | VULNET ACTIVE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/bf9ea329d3e1) |
 | Sun, 25 May 2025 22:28:05 GMT | Deepfakes and AI in Social Engineering: Welcome to the Matrix of Madness ️ | Rageeth | [Read More](https://medium.com/p/b0a26c1f93ae) |
 | Sun, 25 May 2025 22:26:51 GMT | HTB ‘CAPE’ Review | 0xs4m | [Read More](https://medium.com/p/9e333dc4740e) |
 | Sun, 25 May 2025 22:21:46 GMT | Mullvad VPN’de Kritik Güvenlik Açığı CVE-2024–55884 | Ibrahimsql | [Read More](https://medium.com/p/cc7b74556e56) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 15:02:47 GMT | What is the Secure SDLC? | MOHD ABDUL JAMEEL | [Read More](https://medium.com/p/f2d43972c9cb) |
 | Sun, 25 May 2025 15:02:18 GMT | LLMs Struggle with Performance, Cisco Launches Security AI, WSL Goes Open Source, and Microsoft ❤️… | Rajesh Kanade | [Read More](https://medium.com/p/9ffaa72970c6) |
 | Sun, 25 May 2025 14:46:19 GMT | News Writing: Types of News Body | Aimiella Calayag | [Read More](https://medium.com/p/cb81a3aa3540) |
-| Sun, 25 May 2025 14:41:56 GMT | Snyk Attack! Integrating Snyk CLI Into GitHub CI/CD Pipeline | Ernest Gibbs III | [Read More](https://medium.com/p/c44b4a37fac6) |
-| Sun, 25 May 2025 14:38:21 GMT | What is DNS Rebinding ? | Sarath Devireddy | [Read More](https://medium.com/p/e56c8e636fab) |
-| Sun, 25 May 2025 14:34:15 GMT | Supply Chain Attacks Through NPM Packages: Prevention Strategies for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ed6463877e35) |
-| Sun, 25 May 2025 14:22:18 GMT | HackTheBox Sherlock - Noxious | Enes Önen | [Read More](https://medium.com/p/c6b5c5924ae4) |
-| Sun, 25 May 2025 14:20:19 GMT | Here’s How I Recovered My Money from FXRoad | Maurice V.Bohn | [Read More](https://medium.com/p/9d625b7b42b7) |
