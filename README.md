@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 08:18:14 GMT | Sandcastles | Rich Crawford | [Read More](https://medium.com/p/37de6eacd5cf) |
+| Sun, 25 May 2025 08:04:58 GMT | The Psychology of Entry | Rageeth | [Read More](https://medium.com/p/98370a1a4425) |
+| Sun, 25 May 2025 07:55:16 GMT | From JVM and Flash to WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/7d34a5e12129) |
+| Sun, 25 May 2025 07:52:42 GMT | HashiCorp Vault Integration with Terraform: Managing Sensitive Information | @Harsh | [Read More](https://medium.com/p/326d9ebc4e33) |
+| Sun, 25 May 2025 07:52:05 GMT | How I Scored 94% in eJPTv2 With Just 1 Week of Preparation? | Vaibhav Kubade | [Read More](https://medium.com/p/6e9d01d2d391) |
+| Sun, 25 May 2025 07:48:42 GMT | NmapWebUI: The Modern Web Frontend for Nmap | Firman Gautama | [Read More](https://medium.com/p/c80c385d9a99) |
 | Sun, 25 May 2025 07:25:29 GMT | The “Trusted Notification” Exploit — When Your App Betrays Itself | Michael Younsi | [Read More](https://medium.com/p/a1b54776fa47) |
 | Sun, 25 May 2025 07:19:18 GMT | Understanding RAID and Its Types with Real-World Manga Studio Scenarios | unica 02 | [Read More](https://medium.com/p/35872b3703b1) |
 | Sun, 25 May 2025 07:18:03 GMT | The Silent Crisis in Cybersecurity | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/eeddc09486ce) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 20:30:16 GMT | False Flags in Cyberspace: Strategic Manipulation and the Risk of Real-World Conflict | CCD-IS | [Read More](https://medium.com/p/a2759f4a2b9c) |
 | Sat, 24 May 2025 20:21:08 GMT | LetsDefend — Suspicious Browser Extension | Raphael Nicolich | [Read More](https://medium.com/p/8bdac6363806) |
 | Sat, 24 May 2025 20:19:29 GMT | TryHackMe Walkthrough — EDR Defensive — Retracted | Nicholas Abundis | [Read More](https://medium.com/p/233becb3ba47) |
-| Sat, 24 May 2025 20:07:53 GMT | Why Protecting Proprietary Data? | Raviteja Mureboina | [Read More](https://medium.com/p/4e271c6af2bf) |
-| Sat, 24 May 2025 19:59:50 GMT | How to Safely Store Your Cryptocurrencies: A Complete Guide to Securing Your Digital Bag | Uboho Dominic | [Read More](https://medium.com/p/7ee58e049086) |
-| Sat, 24 May 2025 19:52:25 GMT | CISA: Certified Information Systems Auditor (cert exam prep) | Franklin Rhodes | [Read More](https://medium.com/p/5078463d7c03) |
-| Sat, 24 May 2025 19:51:58 GMT | More than a move | Boluwatife Lash | [Read More](https://medium.com/p/183e53cf5f0b) |
-| Sat, 24 May 2025 19:49:41 GMT | People Don’t Fall in Love with the Joker | Aditya Singh | [Read More](https://medium.com/p/ec1b81ed5d14) |
-| Sat, 24 May 2025 19:35:31 GMT | How Bug Bounty Platforms May Be Stifling New Researchers | Teri Radichel | [Read More](https://medium.com/p/cf21be1277da) |
