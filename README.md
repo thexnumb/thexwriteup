@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 01:38:36 GMT | Capturing NTL MHashes in 2025 | Paulo Bazzo | [Read More](https://medium.com/p/59bfda584da6) |
+| Sun, 25 May 2025 01:32:25 GMT | A Zero-Trust Cybersecurity Cybersecurity for Future Lunar and Martian Communication Networks | Epicbytecraft | [Read More](https://medium.com/p/c39c5651afcb) |
+| Sun, 25 May 2025 00:58:25 GMT | Elderly care and the case for humanoids in healthcare. A personal perspective | Chinyere / Living in the Gray | [Read More](https://medium.com/p/1bdbe64d8b21) |
+| Sun, 25 May 2025 00:36:34 GMT | Video Search Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/db9492da0431) |
+| Sun, 25 May 2025 00:09:29 GMT | URLPreview Challenge Writeup | Mohammed Farouk | [Read More](https://medium.com/p/8f2944b169e4) |
+| Sun, 25 May 2025 00:06:37 GMT | Data Classification: Private, Sensitive, and Public Data | Raviteja Mureboina | [Read More](https://medium.com/p/1f831a9ceb3c) |
+| Sat, 24 May 2025 23:57:50 GMT | Hacked by iKurdBlitz Team | iKurdBlitz Team | [Read More](https://medium.com/p/fc68cfc57e72) |
+| Sat, 24 May 2025 23:57:49 GMT | Think Before You Click: Understanding Mark of the Web (MOTW) & SmartScreen in Windows | Yua Mikanana | [Read More](https://medium.com/p/5c98d2649d5e) |
+| Sat, 24 May 2025 23:57:22 GMT | How to Claim DORK $DORK Staking Rewards Efficiently | DORK | [Read More](https://medium.com/p/5c28f3cc208b) |
+| Sat, 24 May 2025 23:37:17 GMT | Step-by-Step Guide to LunaFi $LFI Staking on StakingRewards | LFI | [Read More](https://medium.com/p/6dfccfdc8dc4) |
 | Sat, 24 May 2025 23:32:25 GMT | Here's How I Got My First Bounty: €1000 | Risky | [Read More](https://medium.com/p/db3264adeac0) |
 | Sat, 24 May 2025 23:32:23 GMT | Enterprise Data Loss Prevention (DLP) By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/779e19c45841) |
 | Sat, 24 May 2025 23:30:52 GMT | Secure VPC Architecture Design Document | Andy Good | [Read More](https://medium.com/p/451ac8cf9cdf) |
@@ -104,14 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 15:13:04 GMT | The Most Immutable Telegram Channel | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/a3c123cb7007) |
 | Sat, 24 May 2025 15:12:28 GMT | ️ Beyond Uniforms: Building India’s Security Leaders at RRU | Rathinavel M.S | [Read More](https://medium.com/p/07269ea905c1) |
 | Sat, 24 May 2025 15:06:02 GMT | Business Logic Vulnerability in Dell’s Payment API — Reported via Bugcrowd | Aditya sunny | [Read More](https://medium.com/p/f2dc2192227c) |
-| Sat, 24 May 2025 15:03:39 GMT | LetsDefend: Easy Walkthrough for Malware Alert (Event ID: 77, SOC138) | El Mahjoub AIT MEDDAH | [Read More](https://medium.com/p/ba45cb6d55d0) |
-| Sat, 24 May 2025 15:02:57 GMT | Your Digital Footprint Is Basically a Tattoo But Way Creepier (And How to Clean It Up Before It… | Geet Malviya | [Read More](https://medium.com/p/b3939a8d0cc0) |
-| Sat, 24 May 2025 14:50:32 GMT | How to Prepare for OSCP exam if you’re broke | Ojas | [Read More](https://medium.com/p/585d3aa8615b) |
-| Sat, 24 May 2025 14:44:11 GMT | Day 45:  How TCP Made the Internet Reliable — And Why Nmap Depends on It | Agarwaldaksh | [Read More](https://medium.com/p/c2889d11057d) |
-| Sat, 24 May 2025 14:32:23 GMT | 50 claps to give —
-inform your partners. | Vibrantia Noctis | [Read More](https://medium.com/p/231946caab43) |
-| Sat, 24 May 2025 14:05:28 GMT | Hardening a Ubuntu VM | Zied Ouaghlani | [Read More](https://medium.com/p/52f963581eee) |
-| Sat, 24 May 2025 14:02:15 GMT | Secure String Encryption in Python: Balancing Security and Performance​ | Suman Saurabh | [Read More](https://medium.com/p/bde8e1f1d7dc) |
-| Sat, 24 May 2025 13:56:31 GMT | From $30M Annual Recurring Revenue to Rejection Letters | Victor Babaniyi | [Read More](https://medium.com/p/ac4118e66017) |
-| Sat, 24 May 2025 13:49:31 GMT | ⛓️ THE FORGE AS BDSM | Capybara Security & The FORGE AGI | [Read More](https://medium.com/p/d4f224ad6cac) |
-| Sat, 24 May 2025 13:44:22 GMT | Just for This Day, I Want to Dive In Anyway | AfterRainWrites | [Read More](https://medium.com/p/cfa447a47eb8) |
