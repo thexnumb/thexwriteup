@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 21:21:49 GMT | My Therapist Said Tiny Problems Don’t Matter. These Vulnerability Chains Proved Me Wrong. | Remmy | [Read More](https://medium.com/p/6a963c77217d) |
+| Sun, 25 May 2025 21:20:34 GMT | Windows Forensics | Shamar Isaac | [Read More](https://medium.com/p/b0625837a228) |
+| Sun, 25 May 2025 21:06:56 GMT | SIEM’de Derinlik: UID Analizi ile Kullanıcı Davranışlarını Anlamak | Tarik Zeybek | [Read More](https://medium.com/p/c89240513f98) |
 | Sun, 25 May 2025 21:02:55 GMT | When TikTok Becomes a Trojan Horse: The Rise of Social Media Malware Distribution | Ismail Tasdelen | [Read More](https://medium.com/p/5b172cfec576) |
 | Sun, 25 May 2025 21:02:04 GMT | Bug Bounty Journey — Valid Report Part 6 | 0xF3r4t | [Read More](https://medium.com/p/a51a9360ac3a) |
 | Sun, 25 May 2025 21:01:08 GMT | That Grumpy BSD Guy: A Short Reading List | Peter Hansteen | [Read More](https://medium.com/p/9016dddc3d9a) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 13:34:20 GMT | CVE-2017–0199 Analizi: XLS → HTA → VBS → Steganografi Zinciriyle Gelişmiş Saldırı | Umid Mammadov | [Read More](https://medium.com/p/5944e15a8bc3) |
 | Sun, 25 May 2025 13:31:15 GMT | The LOOBins project meets KQL | Sonja Pinzl | [Read More](https://medium.com/p/a438e7c6b37b) |
 | Sun, 25 May 2025 13:30:40 GMT | Exploiting Security Misconfiguration to Gain Full Account Takeover | Vashu Vats | [Read More](https://medium.com/p/eb7a3da01f14) |
-| Sun, 25 May 2025 13:27:50 GMT | Managing Credentials for Cybersecurity | Ed-it Editions | [Read More](https://medium.com/p/b6e5d6de7ad1) |
-| Sun, 25 May 2025 13:25:21 GMT | How I’m Preparing to Investigate My First SOC Alert: A Cybersecurity Student’s Step-by-Step Guide | Hemavarna Sundar | [Read More](https://medium.com/p/cc7a3f9b01f4) |
-| Sun, 25 May 2025 13:25:18 GMT | Cloud Security: Building a Fortified Digital Ecosystem in the Modern Age | MITRE Doggy | [Read More](https://medium.com/p/af6f18010765) |
