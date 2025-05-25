@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 12:32:34 GMT | Ethical Hacking Training Course in Delhi with Certificate | Manisha Chaudhary | [Read More](https://medium.com/p/ade30edfdd97) |
+| Sun, 25 May 2025 12:32:25 GMT | Why You Should Care About Blockchain (Even If You’re Not a Tech Bro) | Neeraj Nautiyal | [Read More](https://medium.com/p/4c00b9ff6b80) |
+| Sun, 25 May 2025 12:32:19 GMT | Store Encrypted Data in Your Database Using .NET — Secure and Efficient | Adrian Bailador | [Read More](https://medium.com/p/09dfd1314052) |
+| Sun, 25 May 2025 12:31:09 GMT | How to hide the JavaScript source code from browser viewing? | Kuldeepkumawat | [Read More](https://medium.com/p/297a2b47abe7) |
+| Sun, 25 May 2025 12:27:49 GMT | CTF WRITEUP | SAI PUNEETH SOPPA | [Read More](https://medium.com/p/76af80d48981) |
+| Sun, 25 May 2025 12:27:19 GMT | Emergency Savings and Interest Rate Cycles: Navigating Financial Security in a Variable Economy | St Zh | [Read More](https://medium.com/p/df3abc1b65fa) |
+| Sun, 25 May 2025 12:22:36 GMT | White Hat in Computer Security How Ethical Hackers Like Wire Tor Keep Your Business Safe | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/1a5fb2332d34) |
+| Sun, 25 May 2025 12:19:18 GMT | Oh no! Something has gone wrong — Gnome Error In Linux… | Cybotechacks | [Read More](https://medium.com/p/38dd3552d868) |
+| Sun, 25 May 2025 12:02:27 GMT | A Tale of Authentication and Authorization | Lin Maung | [Read More](https://medium.com/p/199e05b05968) |
+| Sun, 25 May 2025 11:49:38 GMT | IPv4 and IPv6 Coexistence | Umar Ahamed | [Read More](https://medium.com/p/638c1fa1aaec) |
+| Sun, 25 May 2025 11:43:08 GMT | Comprehensive Guide to OSI and TCP/IP Models: Understanding Network Communication and Protocols | Umar Ahamed | [Read More](https://medium.com/p/8720fc81194d) |
+| Sun, 25 May 2025 11:36:36 GMT | Beginner’s Guide to Bash Scripting: Learn the Basics Easily! | Satyam Pathania | [Read More](https://medium.com/p/490a2e65a59e) |
 | Sun, 25 May 2025 11:24:56 GMT | Operation Endgame: Europol Dismantles Major Botnet Infrastructure, Seizes $35M and 300+ Servers | CyBlog | [Read More](https://medium.com/p/596c64585663) |
 | Sun, 25 May 2025 11:17:54 GMT | ️ BGP Hijacking: The Silent Killer of the Internet | Pouya aftabi | [Read More](https://medium.com/p/da78dea80b07) |
 | Sun, 25 May 2025 11:13:47 GMT | Silent but Deadly: How Blind XSS in Email Notifications Gave Me Root Alerts | Iski | [Read More](https://medium.com/p/e7d21972cdfc) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 02:37:45 GMT | Getting Started with HashiCorp Vault: Secure Secrets Management for DevOps and Beyond | Atul Garg | [Read More](https://medium.com/p/3cfcb81795ee) |
 | Sun, 25 May 2025 02:11:22 GMT | Bypassing SSL Validation in a Java Application via Truststore | Sandeep Wawdane | [Read More](https://medium.com/p/f1b9ea42accd) |
 | Sun, 25 May 2025 02:05:54 GMT | OverTheWire — Bandit Walkthrough Level 0 -> Level 4 | Hassen Hannachi | [Read More](https://medium.com/p/c804a42131f1) |
-| Sun, 25 May 2025 01:38:36 GMT | Capturing NTL MHashes in 2025 | Paulo Bazzo | [Read More](https://medium.com/p/59bfda584da6) |
-| Sun, 25 May 2025 01:32:25 GMT | A Zero-Trust Cybersecurity Cybersecurity for Future Lunar and Martian Communication Networks | Epicbytecraft | [Read More](https://medium.com/p/c39c5651afcb) |
-| Sun, 25 May 2025 00:58:25 GMT | Elderly care and the case for humanoids in healthcare. A personal perspective | Chinyere / Living in the Gray | [Read More](https://medium.com/p/1bdbe64d8b21) |
-| Sun, 25 May 2025 00:36:34 GMT | Video Search Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/db9492da0431) |
-| Sun, 25 May 2025 00:09:29 GMT | URLPreview Challenge Writeup | Mohammed Farouk | [Read More](https://medium.com/p/8f2944b169e4) |
-| Sun, 25 May 2025 00:06:37 GMT | Data Classification: Private, Sensitive, and Public Data | Raviteja Mureboina | [Read More](https://medium.com/p/1f831a9ceb3c) |
-| Sat, 24 May 2025 23:57:50 GMT | Hacked by iKurdBlitz Team | iKurdBlitz Team | [Read More](https://medium.com/p/fc68cfc57e72) |
-| Sat, 24 May 2025 23:57:49 GMT | Think Before You Click: Understanding Mark of the Web (MOTW) & SmartScreen in Windows | Yua Mikanana | [Read More](https://medium.com/p/5c98d2649d5e) |
-| Sat, 24 May 2025 23:57:22 GMT | How to Claim DORK $DORK Staking Rewards Efficiently | DORK | [Read More](https://medium.com/p/5c28f3cc208b) |
-| Sat, 24 May 2025 23:37:17 GMT | Step-by-Step Guide to LunaFi $LFI Staking on StakingRewards | LFI | [Read More](https://medium.com/p/6dfccfdc8dc4) |
-| Sat, 24 May 2025 23:32:25 GMT | Here's How I Got My First Bounty: €1000 | Risky | [Read More](https://medium.com/p/db3264adeac0) |
-| Sat, 24 May 2025 23:32:23 GMT | Enterprise Data Loss Prevention (DLP) By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/779e19c45841) |
