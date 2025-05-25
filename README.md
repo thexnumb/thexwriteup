@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 04:41:11 GMT | Uncovering a Parameter Tampering Vulnerability: A Journey in Ethical Hacking An ethical… | Samfrancissam | [Read More](https://medium.com/p/d7b06703e27a) |
+| Sun, 25 May 2025 04:33:32 GMT | Setting Up a Safe Malware Analysis Environment with FlareVM and Remnux on VirtualBox | Manmeet Singh | [Read More](https://medium.com/p/27d90348e06b) |
+| Sun, 25 May 2025 04:28:27 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/724d3bfc4423) |
+| Sun, 25 May 2025 04:26:40 GMT | API 02:2023 — Broken Authentication | Suhel Kathi | [Read More](https://medium.com/p/daa3ce331818) |
+| Sun, 25 May 2025 04:20:02 GMT | Types of Hackers and Their Duties — Not All Wear Hoodies in the Dark | Howl | [Read More](https://medium.com/p/96011f26b043) |
+| Sun, 25 May 2025 04:05:37 GMT | The Windows Security Journey — Managed Service Accounts (MSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/68211ac103f1) |
 | Sun, 25 May 2025 03:45:41 GMT | The Cybersecurity Library Your Boss Won’t Share | Ahmad Javed | [Read More](https://medium.com/p/ee4d0ac8c2d6) |
 | Sun, 25 May 2025 03:42:27 GMT | Trusting the Wrong Device — A Hands-On Cybersecurity Breakdown | 5kullk3r | [Read More](https://medium.com/p/a986f0d8ce44) |
 | Sun, 25 May 2025 03:37:33 GMT | AI-Powered Authorization: Leading Secure Fintech Systems for the Future | Sachin Malav | [Read More](https://medium.com/p/754172524f91) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 17:50:27 GMT | Ransomware Attacks Surge in Retail: Scattered Spider and DragonForce | Varshil Desai | [Read More](https://medium.com/p/487907a5d4dd) |
 | Sat, 24 May 2025 17:48:40 GMT | Unraveling the Scattered Spider Cyber Attacks on UK Retailers | Amanuel | [Read More](https://medium.com/p/1e161aa25fbf) |
 | Sat, 24 May 2025 17:45:31 GMT | Agent, I’d Like a Second Opinion | Tomer Wetzler | [Read More](https://medium.com/p/00adc5f599c0) |
-| Sat, 24 May 2025 17:41:25 GMT | Securing the Legal Front Door: A Product Perspective on Verification and Trust | Palak Porwal | [Read More](https://medium.com/p/ac3127d4176e) |
-| Sat, 24 May 2025 17:26:57 GMT | How to Get Certified in Cybersecurity: A Step-by-Step Guide | Patricia I. Edward | [Read More](https://medium.com/p/aa441b3f2e3d) |
-| Sat, 24 May 2025 17:24:30 GMT | When Experience Isn’t Expertise: How Indian IT Service Culture Holds Back Real Growth | Nidhi Sharma | [Read More](https://medium.com/p/57d80d709ebb) |
-| Sat, 24 May 2025 17:05:50 GMT | Race Conditions: The Silent Exploit That Can Break Systems (and Earn Bounties) | 127.0.0.1 | [Read More](https://medium.com/p/a35e7677c96a) |
-| Sat, 24 May 2025 17:03:36 GMT | Meet Olarewaju Peter Mobuyifunjesu - Cryptocurrency Trader -Investor -Cybersecurity Enthusiast… | Olarewaju Peter Mobuyifunjesu | [Read More](https://medium.com/p/0f22536f2656) |
-| Sat, 24 May 2025 16:58:24 GMT | CORS (cross-origin resource sharing) | 0xbug | [Read More](https://medium.com/p/226551329253) |
