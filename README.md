@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 05:02:45 GMT | ️ Jailbreak Detection on iOS: Still Relevant in 2025? | Deepak Singh | [Read More](https://medium.com/p/44183b540895) |
+| Sun, 25 May 2025 04:54:33 GMT | The Hidden Dangers of Your Mobile Apps: Are You at Risk? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/442fc748280c) |
 | Sun, 25 May 2025 04:41:11 GMT | Uncovering a Parameter Tampering Vulnerability: A Journey in Ethical Hacking An ethical… | Samfrancissam | [Read More](https://medium.com/p/d7b06703e27a) |
 | Sun, 25 May 2025 04:33:32 GMT | Setting Up a Safe Malware Analysis Environment with FlareVM and Remnux on VirtualBox | Manmeet Singh | [Read More](https://medium.com/p/27d90348e06b) |
 | Sun, 25 May 2025 04:28:27 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/724d3bfc4423) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 17:56:49 GMT | Cybersecurity for Everyone: Not Just Hackers or Techies | MdKMRohan | [Read More](https://medium.com/p/eb3f745afa9c) |
 | Sat, 24 May 2025 17:51:44 GMT | How to Earn Exclusive $BUGS Rewards on StakingRewards | BUGS | [Read More](https://medium.com/p/cff9273d5ba7) |
 | Sat, 24 May 2025 17:50:27 GMT | Ransomware Attacks Surge in Retail: Scattered Spider and DragonForce | Varshil Desai | [Read More](https://medium.com/p/487907a5d4dd) |
-| Sat, 24 May 2025 17:48:40 GMT | Unraveling the Scattered Spider Cyber Attacks on UK Retailers | Amanuel | [Read More](https://medium.com/p/1e161aa25fbf) |
-| Sat, 24 May 2025 17:45:31 GMT | Agent, I’d Like a Second Opinion | Tomer Wetzler | [Read More](https://medium.com/p/00adc5f599c0) |
