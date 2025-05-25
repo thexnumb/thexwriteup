@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 06:20:11 GMT | Brute-force password attacks on an outlook account | Kahhow | [Read More](https://medium.com/p/05606eb0904d) |
+| Sun, 25 May 2025 06:13:05 GMT | Unlimited XSS - This is the Dumbest Way to Find XSS Bug | Abhijeet Kumawat | [Read More](https://medium.com/p/2202b3621c6d) |
+| Sun, 25 May 2025 06:08:34 GMT | Secure, Comply, Protect: AI-powered Cybersecurity | Kanika Saxena | [Read More](https://medium.com/p/98f550b7c148) |
+| Sun, 25 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3d068da13723) |
+| Sun, 25 May 2025 06:00:29 GMT | How AI Prioritises Alerts and Reduces Fatigue | Seb AGUELE | [Read More](https://medium.com/p/b0382b6338a6) |
+| Sun, 25 May 2025 05:47:57 GMT | EscapeTwo-HTB-Walkthrough-By-Reju-Kole | Reju Kole | [Read More](https://medium.com/p/2516525f3720) |
+| Sun, 25 May 2025 05:46:32 GMT | Improve Symfony Logging with DevSecOps Practices | Pentest_Testing_Corp | [Read More](https://medium.com/p/139912b41b6f) |
+| Sun, 25 May 2025 05:43:45 GMT | RXSS Vulnerability Manual Approach | AbhirupKonwar | [Read More](https://medium.com/p/4f587c004dae) |
+| Sun, 25 May 2025 05:41:26 GMT | AN EASY 2FA BYPASS | Sijo Johnson | [Read More](https://medium.com/p/261261ca2eab) |
 | Sun, 25 May 2025 05:27:48 GMT | Link Poisoning via Host Header — How I Redirected Victim Verification Email to My Domain | ASC Lages | [Read More](https://medium.com/p/0896606b02cd) |
 | Sun, 25 May 2025 05:14:54 GMT | BadUSB Attack Explained: From Principles to Practice and Defense | InsBug | [Read More](https://medium.com/p/3bfe88ec2eeb) |
 | Sun, 25 May 2025 05:02:45 GMT | ️ Jailbreak Detection on iOS: Still Relevant in 2025? | Deepak Singh | [Read More](https://medium.com/p/44183b540895) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 18:42:25 GMT | The Security You Never See | Beyond Merit | [Read More](https://medium.com/p/41b4a0a3d52e) |
 | Sat, 24 May 2025 18:35:40 GMT | The Life of an Emotional Outsider | Emotional Manscape | [Read More](https://medium.com/p/fd4d8bc989da) |
 | Sat, 24 May 2025 18:31:38 GMT | Hack The Box Season 8 “Puppy” Walkthrough | Serdar Gumus | [Read More](https://medium.com/p/07b2ec1b30c1) |
-| Sat, 24 May 2025 18:30:26 GMT | The Cybersecurity Frontier of 2025: AI, Privacy, and the New Digital Defense | Veridian Zenith Tech News | [Read More](https://medium.com/p/53de817b210e) |
-| Sat, 24 May 2025 18:28:26 GMT | How I Found Dom Xss on School Website. | Debug 0xa | [Read More](https://medium.com/p/defcaa2a4455) |
-| Sat, 24 May 2025 18:23:43 GMT | Beyond the Noise: A Rare Look into Today’s Tech Shifts That Actually Matter | Veridian Zenith Tech News | [Read More](https://medium.com/p/3fe2965dd980) |
-| Sat, 24 May 2025 18:22:05 GMT | Bumblebee Malware Uses SEO Poisoning to Target Pentesters & IT Pros | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/fc37a3c81032) |
-| Sat, 24 May 2025 18:14:01 GMT | 10 Agentic AI Patterns That Are Reshaping Intelligent Systems | Rushabh Papinwar | [Read More](https://medium.com/p/fd921f154b00) |
-| Sat, 24 May 2025 18:09:47 GMT | When Trusted Downloads Turn Toxic: How SEO Poisoning Is Fueling the Spread of Bumblebee Malware and… | Chetan Seripally | [Read More](https://medium.com/p/e8d53388136b) |
-| Sat, 24 May 2025 18:07:50 GMT | Pipeline Automation: DevOps Meets Security | Regan Temudo | [Read More](https://medium.com/p/bac143eb7ac8) |
-| Sat, 24 May 2025 18:07:40 GMT | How to Set Up Your Own Cybersecurity HomeLab: Install VirtualBox, Kali Linux, and Metasploitable… | Suriya | [Read More](https://medium.com/p/aecc90ca0cde) |
-| Sat, 24 May 2025 17:56:49 GMT | Cybersecurity for Everyone: Not Just Hackers or Techies | MdKMRohan | [Read More](https://medium.com/p/eb3f745afa9c) |
