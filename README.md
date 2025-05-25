@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 05:27:48 GMT | Link Poisoning via Host Header — How I Redirected Victim Verification Email to My Domain | ASC Lages | [Read More](https://medium.com/p/0896606b02cd) |
+| Sun, 25 May 2025 05:14:54 GMT | BadUSB Attack Explained: From Principles to Practice and Defense | InsBug | [Read More](https://medium.com/p/3bfe88ec2eeb) |
 | Sun, 25 May 2025 05:02:45 GMT | ️ Jailbreak Detection on iOS: Still Relevant in 2025? | Deepak Singh | [Read More](https://medium.com/p/44183b540895) |
 | Sun, 25 May 2025 04:54:33 GMT | The Hidden Dangers of Your Mobile Apps: Are You at Risk? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/442fc748280c) |
 | Sun, 25 May 2025 04:41:11 GMT | Uncovering a Parameter Tampering Vulnerability: A Journey in Ethical Hacking An ethical… | Samfrancissam | [Read More](https://medium.com/p/d7b06703e27a) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 18:07:50 GMT | Pipeline Automation: DevOps Meets Security | Regan Temudo | [Read More](https://medium.com/p/bac143eb7ac8) |
 | Sat, 24 May 2025 18:07:40 GMT | How to Set Up Your Own Cybersecurity HomeLab: Install VirtualBox, Kali Linux, and Metasploitable… | Suriya | [Read More](https://medium.com/p/aecc90ca0cde) |
 | Sat, 24 May 2025 17:56:49 GMT | Cybersecurity for Everyone: Not Just Hackers or Techies | MdKMRohan | [Read More](https://medium.com/p/eb3f745afa9c) |
-| Sat, 24 May 2025 17:51:44 GMT | How to Earn Exclusive $BUGS Rewards on StakingRewards | BUGS | [Read More](https://medium.com/p/cff9273d5ba7) |
-| Sat, 24 May 2025 17:50:27 GMT | Ransomware Attacks Surge in Retail: Scattered Spider and DragonForce | Varshil Desai | [Read More](https://medium.com/p/487907a5d4dd) |
