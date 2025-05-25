@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 11:02:38 GMT | Post-Exploitation Techniques and Persistence Mechanisms | Esra Kayhan | [Read More](https://medium.com/p/e6da8cf7fb78) |
+| Sun, 25 May 2025 10:53:47 GMT | شماره صیغه یزد09015398913 شماره صیغه ميبد09015398913 شماره صیغه اردکان09015398913 شماره صیغه… | معرف ازدواج موقت | [Read More](https://medium.com/p/6af5de615ea1) |
+| Sun, 25 May 2025 10:53:09 GMT | Mastering Databases and SQL for Data Science with Python | Dishen Mulani | [Read More](https://medium.com/p/54ab327f370a) |
+| Sun, 25 May 2025 10:51:50 GMT | The Phantom Redirect: How I Fooled a Web Server for $100 | Muthu | [Read More](https://medium.com/p/b13e177f02f2) |
 | Sun, 25 May 2025 10:35:15 GMT | 讓 AI Agent當我的私人管理顧問？如何精準地下Prompt 提示工程 | Melody Hsiao蕭詠甄 | [Read More](https://medium.com/p/c63f07d44346) |
 | Sun, 25 May 2025 10:12:46 GMT | CISA Sounds the Alarm: SaaS Attacks Exploit App Secrets and Cloud Misconfigs | Ismail Tasdelen | [Read More](https://medium.com/p/a0aa0406c4b2) |
 | Sun, 25 May 2025 10:10:06 GMT | TryHackMe - AD: Basic Enumeration -Walkthrough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/434992d2ed0c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 23:30:52 GMT | Secure VPC Architecture Design Document | Andy Good | [Read More](https://medium.com/p/451ac8cf9cdf) |
 | Sat, 24 May 2025 23:29:19 GMT | AMI Factory for managing Zero-day vulnerabilities with Amazon EC2 Image builder | Akesh Patil | [Read More](https://medium.com/p/fd699f00237c) |
 | Sat, 24 May 2025 23:26:40 GMT | Event Security & Crowd Management Services — Coventry, UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/71ed41f7e7c9) |
-| Sat, 24 May 2025 23:19:25 GMT | I Came, I Requested, I Enrolled EscapeTwo ESC4 Annihilation | Mohamed Eletreby | [Read More](https://medium.com/p/8541edee2b0b) |
-| Sat, 24 May 2025 23:19:15 GMT | The AI Malware Dev Journal: Using Claude to Simulate Red Team Infrastructure | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f35168b0bcb4) |
-| Sat, 24 May 2025 23:15:14 GMT | What Cyber Security Taught Me About Learning | Anthony Mukwaya | [Read More](https://medium.com/p/bdb91b497b73) |
-| Sat, 24 May 2025 23:10:55 GMT | Hacked by iKurdBlitz Team | iKurdBlitz Team | [Read More](https://medium.com/p/2e59a22aa1a4) |
