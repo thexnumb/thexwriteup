@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 22:28:05 GMT | Deepfakes and AI in Social Engineering: Welcome to the Matrix of Madness ️ | Rageeth | [Read More](https://medium.com/p/b0a26c1f93ae) |
+| Sun, 25 May 2025 22:26:51 GMT | HTB ‘CAPE’ Review | 0xs4m | [Read More](https://medium.com/p/9e333dc4740e) |
+| Sun, 25 May 2025 22:21:46 GMT | Mullvad VPN’de Kritik Güvenlik Açığı CVE-2024–55884 | Ibrahimsql | [Read More](https://medium.com/p/cc7b74556e56) |
 | Sun, 25 May 2025 22:16:25 GMT | What is the OSI Model? — A Beginner’s Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b07be16893a2) |
+| Sun, 25 May 2025 22:15:48 GMT | Next-js CVE-2025–29927 güvenlik açığı | Ibrahimsql | [Read More](https://medium.com/p/79b45ed91d31) |
 | Sun, 25 May 2025 22:14:02 GMT | Inside a Supply Chain Breach: Mapping the IPany VPN Attack with MITRE ATT&CK | Samriddhi | [Read More](https://medium.com/p/6f5457edec04) |
 | Sun, 25 May 2025 22:11:31 GMT | Hacking Headless on Hack The Box: OSCP Prep | enigma_ | [Read More](https://medium.com/p/2409ee387e13) |
 | Sun, 25 May 2025 22:02:51 GMT | Six Shades of Multi Tenant Mayhem: The Invisible Vulnerabilities Hiding in Plain Sight | Borabastab | [Read More](https://medium.com/p/182e9ad538b5) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 14:34:15 GMT | Supply Chain Attacks Through NPM Packages: Prevention Strategies for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ed6463877e35) |
 | Sun, 25 May 2025 14:22:18 GMT | HackTheBox Sherlock - Noxious | Enes Önen | [Read More](https://medium.com/p/c6b5c5924ae4) |
 | Sun, 25 May 2025 14:20:19 GMT | Here’s How I Recovered My Money from FXRoad | Maurice V.Bohn | [Read More](https://medium.com/p/9d625b7b42b7) |
-| Sun, 25 May 2025 14:18:24 GMT | FXRoad Review – Stay Away, It’s a Scam | Maurice V.Bohn | [Read More](https://medium.com/p/a9549f736ac1) |
-| Sun, 25 May 2025 14:02:30 GMT | How to Apply for Cybersecurity Jobs the Smart Way: A Guide for Analysts Who Want to Stand Out | Frank Cabrel | [Read More](https://medium.com/p/959b57e5d146) |
-| Sun, 25 May 2025 14:01:37 GMT | U.S. charged 16 individuals tied to DanaBot — DanaBot Developers Infected Their Own Systems — A… | Ekene Joseph | [Read More](https://medium.com/p/b42bbb30c8bd) |
-| Sun, 25 May 2025 14:00:18 GMT | Here’s How I Recovered My Money from 70Trades | Amelia Goward | [Read More](https://medium.com/p/b2716bced8ed) |
