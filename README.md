@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 08:59:04 GMT | ️ 10 PodSecurityContext Settings You Shouldn’t Skip | Devops Trainer | [Read More](https://medium.com/p/f7be2b2b34fb) |
+| Sun, 25 May 2025 08:52:14 GMT | Top Social Engineering Techniques Used by Cybercriminals: The Human Hacking Playbook | Rageeth | [Read More](https://medium.com/p/0188871fa2c3) |
+| Sun, 25 May 2025 08:50:23 GMT | Triple-Chain Security: How Chronos Vault Revolutionizes Digital Asset Protection | Chronos Vault | [Read More](https://medium.com/p/1447cbb72a95) |
+| Sun, 25 May 2025 08:47:17 GMT | Data Breach Exposes Millions of Apple Accounts | Ghani Mengal | [Read More](https://medium.com/p/9d9190cb77a8) |
 | Sun, 25 May 2025 08:33:24 GMT | Cyber Compliance Watch: Updates on Latest Publications | Bruce | [Read More](https://medium.com/p/1e776b1bc77c) |
 | Sun, 25 May 2025 08:31:01 GMT | 7 Harsh Truths About Growth (Nobody Tells You This) | Godwin Newton | [Read More](https://medium.com/p/120b001c55af) |
 | Sun, 25 May 2025 08:29:25 GMT | Unlocking Business Survival: The Critical Role of Security Testing and VidiSec’s Edge | Constantinos Vidiniotis | [Read More](https://medium.com/p/00ca35f68011) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 21:01:50 GMT | Google Veo, Veo3 and the Next Security Frontier: What CISOs Need to Know About AI-Powered Video… | Ronit Yadav | [Read More](https://medium.com/p/8ff5ecf28197) |
 | Sat, 24 May 2025 21:01:17 GMT | Data Classification and Its Role in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/59f1450bb2e0) |
 | Sat, 24 May 2025 20:56:59 GMT | How Behavioral Insights Helped Reduce Phishing Clicks by 40% | Ipek U | [Read More](https://medium.com/p/ba19ad63ad67) |
-| Sat, 24 May 2025 20:49:28 GMT | How CAPTCHAS Defend the Internet: A Look at Human Verification | totaltinkognito | [Read More](https://medium.com/p/a46bf88f1bc4) |
-| Sat, 24 May 2025 20:47:42 GMT | Why Human Behavior Is the Last Mile of Cybersecurity | Ipek U | [Read More](https://medium.com/p/8aec1fb41cc6) |
-| Sat, 24 May 2025 20:46:25 GMT | What I’d Do Differently If I Were a CISO in 2025 | Ronit Yadav | [Read More](https://medium.com/p/a045d71e43f7) |
-| Sat, 24 May 2025 20:43:40 GMT | Before You Browse, Someone Assigns You an Identity — Here’s Who | Aliou Ba | [Read More](https://medium.com/p/69651cbe3dec) |
