@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 17:04:43 GMT | Building a SOC Analyst Home Lab | Harsh Sharma | [Read More](https://medium.com/p/a172154d34de) |
+| Sun, 25 May 2025 16:57:30 GMT | Try Hack Me: Mayhem | Sanidhya Mall | [Read More](https://medium.com/p/0927a5953bb0) |
+| Sun, 25 May 2025 16:50:37 GMT | The Most Powerful Botnet in the world : Mantis Botnet | Sairaj | [Read More](https://medium.com/p/b651b3aa5f76) |
+| Sun, 25 May 2025 16:50:14 GMT | AI in Public Health: Revolution, Risk and Opportunity | Christopher Nial | [Read More](https://medium.com/p/7010da9c4010) |
+| Sun, 25 May 2025 16:46:55 GMT | THE REAL MURDERERS | Boluwatife Lash | [Read More](https://medium.com/p/f4308317e0cc) |
 | Sun, 25 May 2025 16:41:36 GMT | Cyber Security in AI Era | Amt | [Read More](https://medium.com/p/8f4166cbb195) |
 | Sun, 25 May 2025 16:41:08 GMT | How I Passed the ISTQB Foundation Exam with 98%: My Experience and Tips | Marta Lenartovich | [Read More](https://medium.com/p/eca85a46436c) |
 | Sun, 25 May 2025 16:31:43 GMT | How Vulnerability Powers Effective Feedback | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/6ccb6b3b6924) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 09:44:11 GMT | Best Ethical Hacking Course in Delhi (2025) | cyber security Updates | [Read More](https://medium.com/p/73650cc149fa) |
 | Sun, 25 May 2025 09:31:50 GMT | How to Root Your Android Emulator & Hack Yourself With Burp Suite (Manually, Like a Legend) | Saumadip Mandal | [Read More](https://medium.com/p/ef4fbe28ceab) |
 | Sun, 25 May 2025 09:27:46 GMT | The Rise of Deepfake Technology: Security Concerns for Businesses | Professor Mack Jackson Jr | [Read More](https://medium.com/p/af20e153e2a0) |
-| Sun, 25 May 2025 09:09:50 GMT | Earn More Passive Income with $LFI on StakingRewards | LFI | [Read More](https://medium.com/p/f00c066354d0) |
-| Sun, 25 May 2025 08:59:04 GMT | ️ 10 PodSecurityContext Settings You Shouldn’t Skip | Devops Trainer | [Read More](https://medium.com/p/f7be2b2b34fb) |
-| Sun, 25 May 2025 08:52:14 GMT | Top Social Engineering Techniques Used by Cybercriminals: The Human Hacking Playbook | Rageeth | [Read More](https://medium.com/p/0188871fa2c3) |
-| Sun, 25 May 2025 08:50:23 GMT | Triple-Chain Security: How Chronos Vault Revolutionizes Digital Asset Protection | Chronos Vault | [Read More](https://medium.com/p/1447cbb72a95) |
-| Sun, 25 May 2025 08:47:17 GMT | Data Breach Exposes Millions of Apple Accounts | Ghani Mengal | [Read More](https://medium.com/p/9d9190cb77a8) |
