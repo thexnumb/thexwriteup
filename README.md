@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 11:24:56 GMT | Operation Endgame: Europol Dismantles Major Botnet Infrastructure, Seizes $35M and 300+ Servers | CyBlog | [Read More](https://medium.com/p/596c64585663) |
+| Sun, 25 May 2025 11:17:54 GMT | ️ BGP Hijacking: The Silent Killer of the Internet | Pouya aftabi | [Read More](https://medium.com/p/da78dea80b07) |
+| Sun, 25 May 2025 11:13:47 GMT | Silent but Deadly: How Blind XSS in Email Notifications Gave Me Root Alerts | Iski | [Read More](https://medium.com/p/e7d21972cdfc) |
 | Sun, 25 May 2025 11:02:38 GMT | Post-Exploitation Techniques and Persistence Mechanisms | Esra Kayhan | [Read More](https://medium.com/p/e6da8cf7fb78) |
 | Sun, 25 May 2025 10:53:47 GMT | شماره صیغه یزد09015398913 شماره صیغه ميبد09015398913 شماره صیغه اردکان09015398913 شماره صیغه… | معرف ازدواج موقت | [Read More](https://medium.com/p/6af5de615ea1) |
 | Sun, 25 May 2025 10:53:09 GMT | Mastering Databases and SQL for Data Science with Python | Dishen Mulani | [Read More](https://medium.com/p/54ab327f370a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 23:37:17 GMT | Step-by-Step Guide to LunaFi $LFI Staking on StakingRewards | LFI | [Read More](https://medium.com/p/6dfccfdc8dc4) |
 | Sat, 24 May 2025 23:32:25 GMT | Here's How I Got My First Bounty: €1000 | Risky | [Read More](https://medium.com/p/db3264adeac0) |
 | Sat, 24 May 2025 23:32:23 GMT | Enterprise Data Loss Prevention (DLP) By Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/779e19c45841) |
-| Sat, 24 May 2025 23:30:52 GMT | Secure VPC Architecture Design Document | Andy Good | [Read More](https://medium.com/p/451ac8cf9cdf) |
-| Sat, 24 May 2025 23:29:19 GMT | AMI Factory for managing Zero-day vulnerabilities with Amazon EC2 Image builder | Akesh Patil | [Read More](https://medium.com/p/fd699f00237c) |
-| Sat, 24 May 2025 23:26:40 GMT | Event Security & Crowd Management Services — Coventry, UK | waeventservices.co.uk/ | [Read More](https://medium.com/p/71ed41f7e7c9) |
