@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 20:24:28 GMT | Unleash Your Hacking Power: 3 Python Script Types Every Pentester MUST Know | jensbecker-dev | [Read More](https://medium.com/p/95a8023b49f3) |
 | Sun, 25 May 2025 20:11:58 GMT | AD CS ESC16: Misconfiguration and Exploitation | Munib Nawaz | [Read More](https://medium.com/p/9264e022a8c6) |
 | Sun, 25 May 2025 20:11:48 GMT | NahamconCTF2025 — The Accidental Screenshot and the Encrypted Flag | Not4a6f7365 | [Read More](https://medium.com/p/d838cf6cc5d0) |
 | Sun, 25 May 2025 20:11:21 GMT | Architecting Beyond Good Intentions: Making Security Mechanisms Work | Shittu | [Read More](https://medium.com/p/aaa1bf5bb7d7) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 13:12:40 GMT | Exploiting Unsecured IoTs: Outsourced Scamming and How a YouTuber hijacked an organized crime in… | van gone | [Read More](https://medium.com/p/abfe5de0aeb5) |
 | Sun, 25 May 2025 13:08:27 GMT | The Rise of Zero-Knowledge Proofs: Securing the Future of Web3 and Blockchain | Nautiyal | [Read More](https://medium.com/p/4bcea9bfd996) |
 | Sun, 25 May 2025 13:07:06 GMT | Microsoft Entra ID: Redefining Enterprise Identity for the Zero Trust Era | Abhijith Soman | [Read More](https://medium.com/p/855b86cdd548) |
-| Sun, 25 May 2025 13:05:11 GMT | DevOps vs DevSecOps | Cem Gülümser | [Read More](https://medium.com/p/9d6bc45c4565) |
