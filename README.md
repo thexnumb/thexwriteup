@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 15:14:23 GMT | Are Certifications Killing Curiosity in Cybersecurity? | Abdul | [Read More](https://medium.com/p/d6576b57052a) |
+| Sun, 25 May 2025 15:09:36 GMT | How I Built a Mini USB Intrusion Detector Using Python (Just Like SecOps Teams Do in Real Life) | Praful Kalal | [Read More](https://medium.com/p/0e7b97497c57) |
+| Sun, 25 May 2025 15:03:41 GMT | 7 Things You Should Never Search on Google | MindHack Daily | [Read More](https://medium.com/p/48c9987b156d) |
+| Sun, 25 May 2025 15:02:47 GMT | What is the Secure SDLC? | MOHD ABDUL JAMEEL | [Read More](https://medium.com/p/f2d43972c9cb) |
+| Sun, 25 May 2025 15:02:18 GMT | LLMs Struggle with Performance, Cisco Launches Security AI, WSL Goes Open Source, and Microsoft ❤️… | Rajesh Kanade | [Read More](https://medium.com/p/9ffaa72970c6) |
+| Sun, 25 May 2025 14:46:19 GMT | News Writing: Types of News Body | Aimiella Calayag | [Read More](https://medium.com/p/cb81a3aa3540) |
+| Sun, 25 May 2025 14:41:56 GMT | Snyk Attack! Integrating Snyk CLI Into GitHub CI/CD Pipeline | Ernest Gibbs III | [Read More](https://medium.com/p/c44b4a37fac6) |
+| Sun, 25 May 2025 14:38:21 GMT | What is DNS Rebinding ? | Sarath Devireddy | [Read More](https://medium.com/p/e56c8e636fab) |
 | Sun, 25 May 2025 14:34:15 GMT | Supply Chain Attacks Through NPM Packages: Prevention Strategies for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/ed6463877e35) |
 | Sun, 25 May 2025 14:22:18 GMT | HackTheBox Sherlock - Noxious | Enes Önen | [Read More](https://medium.com/p/c6b5c5924ae4) |
 | Sun, 25 May 2025 14:20:19 GMT | Here’s How I Recovered My Money from FXRoad | Maurice V.Bohn | [Read More](https://medium.com/p/9d625b7b42b7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 06:50:08 GMT | Cybersecurity Programs for Ultra High-Net-Worth Individuals and Digital Royalty: A New Paradigm in… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/eb1613b1939a) |
 | Sun, 25 May 2025 06:47:37 GMT | Day 4/30 — Git Bisect Explained: Find the Commit That Broke Your Code | Ruqaiya Beguwala | [Read More](https://medium.com/p/2ac4245e3967) |
 | Sun, 25 May 2025 06:44:57 GMT | FRONTLINE SHADOWS: THE UNYIELDING SPIRIT OF DR. NAINA | DR NINA APRA AUTHOR, HEALER, TED X SPEAKER BLOGGER | [Read More](https://medium.com/p/ae8d7b98b6c3) |
-| Sun, 25 May 2025 06:43:24 GMT | Exploring the Different Parts of a Phone | Typical News Channel | [Read More](https://medium.com/p/5b2e0ad1d357) |
-| Sun, 25 May 2025 06:31:26 GMT | “What If Everything You Knew About Online Privacy Was Wrong?” | Vexpoltech | [Read More](https://medium.com/p/e43669363bcb) |
-| Sun, 25 May 2025 06:28:11 GMT | Saving the Results | Velia's Journey | [Read More](https://medium.com/p/2928bf39ccd3) |
-| Sun, 25 May 2025 06:20:11 GMT | Brute-force password attacks on an outlook account | Kahhow | [Read More](https://medium.com/p/05606eb0904d) |
-| Sun, 25 May 2025 06:13:05 GMT | Unlimited XSS - This is the Dumbest Way to Find XSS Bug | Abhijeet Kumawat | [Read More](https://medium.com/p/2202b3621c6d) |
-| Sun, 25 May 2025 06:08:34 GMT | Secure, Comply, Protect: AI-powered Cybersecurity | Kanika Saxena | [Read More](https://medium.com/p/98f550b7c148) |
-| Sun, 25 May 2025 06:00:36 GMT | Today’s Top Cyber Intelligence Highlights — May 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/3d068da13723) |
-| Sun, 25 May 2025 06:00:29 GMT | How AI Prioritises Alerts and Reduces Fatigue | Seb AGUELE | [Read More](https://medium.com/p/b0382b6338a6) |
