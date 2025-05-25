@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 18:34:58 GMT | Nmap 101: Mapping Your Target’s Attack Surface | january1073 | [Read More](https://medium.com/p/5bae9735c60d) |
+| Sun, 25 May 2025 18:24:23 GMT | Mail Shield: The Weekend Project That Became My Ultimate Spam Firewall | Tara Prasad Routray | [Read More](https://medium.com/p/dc07b93c9641) |
+| Sun, 25 May 2025 18:23:06 GMT | Securing Your MERN App with AES Encryption: A Beginner-Friendly Guide | Mouhamed Ridha Harhira | [Read More](https://medium.com/p/96130c079b5b) |
+| Sun, 25 May 2025 18:20:43 GMT | Zero Trust: A Simple Explanation | Natarajan C K | [Read More](https://medium.com/p/716f650b074c) |
+| Sun, 25 May 2025 18:19:20 GMT | SwarmID-How I Turned a Complex Cybersecurity Idea into Reality in 4 Hours Using AI | Adnane Arharbi, Eng | [Read More](https://medium.com/p/8f5c8e2d688d) |
+| Sun, 25 May 2025 18:14:39 GMT | Fortifying Your Cloud Perimeter: Zero Trust Security with AWS IAM | AWS Cloud Architect | [Read More](https://medium.com/p/c0cc18833cc7) |
 | Sun, 25 May 2025 18:14:21 GMT | The Man Who Owns the Most Internet Domains — And Why He Did It | Hafizbilaltariq | [Read More](https://medium.com/p/5cd9bacd7b93) |
 | Sun, 25 May 2025 18:14:20 GMT | Speed Up WordPress on Shared Hosting: Proven Methods | Shubradeb | [Read More](https://medium.com/p/501980e276c6) |
 | Sun, 25 May 2025 18:11:30 GMT | AWS WAF: The Intelligent Shield for Your Web Applications | MWANZA LUMAMBA ELIAB | [Read More](https://medium.com/p/6aeb204436c4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 11:36:36 GMT | Beginner’s Guide to Bash Scripting: Learn the Basics Easily! | Satyam Pathania | [Read More](https://medium.com/p/490a2e65a59e) |
 | Sun, 25 May 2025 11:24:56 GMT | Operation Endgame: Europol Dismantles Major Botnet Infrastructure, Seizes $35M and 300+ Servers | CyBlog | [Read More](https://medium.com/p/596c64585663) |
 | Sun, 25 May 2025 11:17:54 GMT | ️ BGP Hijacking: The Silent Killer of the Internet | Pouya aftabi | [Read More](https://medium.com/p/da78dea80b07) |
-| Sun, 25 May 2025 11:13:47 GMT | Silent but Deadly: How Blind XSS in Email Notifications Gave Me Root Alerts | Iski | [Read More](https://medium.com/p/e7d21972cdfc) |
-| Sun, 25 May 2025 11:02:38 GMT | Post-Exploitation Techniques and Persistence Mechanisms | Esra Kayhan | [Read More](https://medium.com/p/e6da8cf7fb78) |
-| Sun, 25 May 2025 10:53:47 GMT | شماره صیغه یزد09015398913 شماره صیغه ميبد09015398913 شماره صیغه اردکان09015398913 شماره صیغه… | معرف ازدواج موقت | [Read More](https://medium.com/p/6af5de615ea1) |
-| Sun, 25 May 2025 10:53:09 GMT | Mastering Databases and SQL for Data Science with Python | Dishen Mulani | [Read More](https://medium.com/p/54ab327f370a) |
-| Sun, 25 May 2025 10:51:50 GMT | The Phantom Redirect: How I Fooled a Web Server for $100 | Muthu | [Read More](https://medium.com/p/b13e177f02f2) |
-| Sun, 25 May 2025 10:35:15 GMT | 讓 AI Agent當我的私人管理顧問？如何精準地下Prompt 提示工程 | Melody Hsiao蕭詠甄 | [Read More](https://medium.com/p/c63f07d44346) |
