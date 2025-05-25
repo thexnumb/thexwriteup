@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 15:33:31 GMT | ColddBox: Easy — VulnHub Walkthrough | Lalitha Kandhasamy | [Read More](https://medium.com/p/095ce5255342) |
+| Sun, 25 May 2025 15:19:35 GMT | $500 Bounty: How One Forum DM Unleashed Stored XSS on SideFX | Monika sharma | [Read More](https://medium.com/p/546ee9cab12d) |
+| Sun, 25 May 2025 15:15:34 GMT | The Illusion of Intelligence — How Superficial Analysts Undermine Cybersecurity | SIMKRA | [Read More](https://medium.com/p/d135bc5fce5d) |
 | Sun, 25 May 2025 15:14:23 GMT | Are Certifications Killing Curiosity in Cybersecurity? | Abdul | [Read More](https://medium.com/p/d6576b57052a) |
 | Sun, 25 May 2025 15:09:36 GMT | How I Built a Mini USB Intrusion Detector Using Python (Just Like SecOps Teams Do in Real Life) | Praful Kalal | [Read More](https://medium.com/p/0e7b97497c57) |
 | Sun, 25 May 2025 15:03:41 GMT | 7 Things You Should Never Search on Google | MindHack Daily | [Read More](https://medium.com/p/48c9987b156d) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 07:01:46 GMT | Why does showing vulnerability so hard? | ☻ | [Read More](https://medium.com/p/ea9a43721eaa) |
 | Sun, 25 May 2025 06:57:09 GMT | The Critical Role of CPS in Achieving Smart Manufacturing Goals | Data Defendere | [Read More](https://medium.com/p/c90ec8ab2368) |
 | Sun, 25 May 2025 06:52:02 GMT | pentest notes | Ashutoshmunde | [Read More](https://medium.com/p/691292d1adb5) |
-| Sun, 25 May 2025 06:50:08 GMT | Cybersecurity Programs for Ultra High-Net-Worth Individuals and Digital Royalty: A New Paradigm in… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/eb1613b1939a) |
-| Sun, 25 May 2025 06:47:37 GMT | Day 4/30 — Git Bisect Explained: Find the Commit That Broke Your Code | Ruqaiya Beguwala | [Read More](https://medium.com/p/2ac4245e3967) |
-| Sun, 25 May 2025 06:44:57 GMT | FRONTLINE SHADOWS: THE UNYIELDING SPIRIT OF DR. NAINA | DR NINA APRA AUTHOR, HEALER, TED X SPEAKER BLOGGER | [Read More](https://medium.com/p/ae8d7b98b6c3) |
