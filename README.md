@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 07:25:29 GMT | The “Trusted Notification” Exploit — When Your App Betrays Itself | Michael Younsi | [Read More](https://medium.com/p/a1b54776fa47) |
+| Sun, 25 May 2025 07:19:18 GMT | Understanding RAID and Its Types with Real-World Manga Studio Scenarios | unica 02 | [Read More](https://medium.com/p/35872b3703b1) |
+| Sun, 25 May 2025 07:18:03 GMT | The Silent Crisis in Cybersecurity | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/eeddc09486ce) |
 | Sun, 25 May 2025 07:09:24 GMT | When Trusted Access Turns Risky: Explainable AI for Insider Threat Detection in Healthcare Systems | Jerry Yonga | [Read More](https://medium.com/p/4ea1c2b2881c) |
 | Sun, 25 May 2025 07:06:02 GMT | How to Get Into Ethical Hacking (Legally and Professionally) | Muhammad Schees | [Read More](https://medium.com/p/3521c4a85d26) |
 | Sun, 25 May 2025 07:05:53 GMT | Blockchain Forensics & Anti-Money Laundering Strategy for High-Risk Jurisdictions | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4ae9aec0678c) |
@@ -109,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 19:51:58 GMT | More than a move | Boluwatife Lash | [Read More](https://medium.com/p/183e53cf5f0b) |
 | Sat, 24 May 2025 19:49:41 GMT | People Don’t Fall in Love with the Joker | Aditya Singh | [Read More](https://medium.com/p/ec1b81ed5d14) |
 | Sat, 24 May 2025 19:35:31 GMT | How Bug Bounty Platforms May Be Stifling New Researchers | Teri Radichel | [Read More](https://medium.com/p/cf21be1277da) |
-| Sat, 24 May 2025 19:34:52 GMT | From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on… | ͏ ͏Dukrov | [Read More](https://medium.com/p/651902f7238c) |
-| Sat, 24 May 2025 19:26:34 GMT | The CyberDiplomat’s Daily Report
- 24th May 2025 - Saturday | The CyberDiplomat LLC | [Read More](https://medium.com/p/588a06be3a24) |
-| Sat, 24 May 2025 19:22:44 GMT | The Invisible Threat: How Hidden Prompts in AI Assistants Breached GitLab Duo | Siva Gunasekaran | [Read More](https://medium.com/p/90ce9f68dc52) |
