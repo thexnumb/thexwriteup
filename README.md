@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 22:16:25 GMT | What is the OSI Model? — A Beginner’s Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b07be16893a2) |
+| Sun, 25 May 2025 22:14:02 GMT | Inside a Supply Chain Breach: Mapping the IPany VPN Attack with MITRE ATT&CK | Samriddhi | [Read More](https://medium.com/p/6f5457edec04) |
+| Sun, 25 May 2025 22:11:31 GMT | Hacking Headless on Hack The Box: OSCP Prep | enigma_ | [Read More](https://medium.com/p/2409ee387e13) |
+| Sun, 25 May 2025 22:02:51 GMT | Six Shades of Multi Tenant Mayhem: The Invisible Vulnerabilities Hiding in Plain Sight | Borabastab | [Read More](https://medium.com/p/182e9ad538b5) |
+| Sun, 25 May 2025 22:02:00 GMT | How Telegram Channels Fuel the Dark Web Leak Economy | Stealseek | [Read More](https://medium.com/p/4d308b5388ab) |
+| Sun, 25 May 2025 21:43:40 GMT | Flagged for Review: Using Stealth Tokens to Audit LLMs | Tomer Wetzler | [Read More](https://medium.com/p/4109355e1ea4) |
+| Sun, 25 May 2025 21:41:30 GMT | Is Switzerland Still the Digital Safe of Europe? | Francesco Cilibrasi | [Read More](https://medium.com/p/d8cf9f735d6b) |
+| Sun, 25 May 2025 21:40:47 GMT | Npm Security Best Practices | Recep Taylanhan | [Read More](https://medium.com/p/d1172d64b00e) |
 | Sun, 25 May 2025 21:21:49 GMT | My Therapist Said Tiny Problems Don’t Matter. These Vulnerability Chains Proved Me Wrong. | Remmy | [Read More](https://medium.com/p/6a963c77217d) |
 | Sun, 25 May 2025 21:20:34 GMT | Windows Forensics | Shamar Isaac | [Read More](https://medium.com/p/b0625837a228) |
 | Sun, 25 May 2025 21:06:56 GMT | SIEM’de Derinlik: UID Analizi ile Kullanıcı Davranışlarını Anlamak | Tarik Zeybek | [Read More](https://medium.com/p/c89240513f98) |
@@ -106,11 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 14:02:30 GMT | How to Apply for Cybersecurity Jobs the Smart Way: A Guide for Analysts Who Want to Stand Out | Frank Cabrel | [Read More](https://medium.com/p/959b57e5d146) |
 | Sun, 25 May 2025 14:01:37 GMT | U.S. charged 16 individuals tied to DanaBot — DanaBot Developers Infected Their Own Systems — A… | Ekene Joseph | [Read More](https://medium.com/p/b42bbb30c8bd) |
 | Sun, 25 May 2025 14:00:18 GMT | Here’s How I Recovered My Money from 70Trades | Amelia Goward | [Read More](https://medium.com/p/b2716bced8ed) |
-| Sun, 25 May 2025 13:57:05 GMT | 70Trades Review – How I Recovered My Stolen Funds | Amelia Goward | [Read More](https://medium.com/p/73b6093973b4) |
-| Sun, 25 May 2025 13:55:55 GMT | Medusa Brute Force: Full Guide for Ethical Hackers & Bounty Hunters | Kshahabaj | [Read More](https://medium.com/p/c73492419140) |
-| Sun, 25 May 2025 13:55:08 GMT | Blind SQL Injection with Conditional Responses | Marduk I Am | [Read More](https://medium.com/p/46ee90b5f2c0) |
-| Sun, 25 May 2025 13:53:00 GMT | Handling Traffic Spikes: Load Testing & Performance Tuning | Rajat Gupta | [Read More](https://medium.com/p/96df765578f7) |
-| Sun, 25 May 2025 13:47:34 GMT | EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge | Loay Salah | [Read More](https://medium.com/p/1ee952e9f69b) |
-| Sun, 25 May 2025 13:34:20 GMT | CVE-2017–0199 Analizi: XLS → HTA → VBS → Steganografi Zinciriyle Gelişmiş Saldırı | Umid Mammadov | [Read More](https://medium.com/p/5944e15a8bc3) |
-| Sun, 25 May 2025 13:31:15 GMT | The LOOBins project meets KQL | Sonja Pinzl | [Read More](https://medium.com/p/a438e7c6b37b) |
-| Sun, 25 May 2025 13:30:40 GMT | Exploiting Security Misconfiguration to Gain Full Account Takeover | Vashu Vats | [Read More](https://medium.com/p/eb7a3da01f14) |
