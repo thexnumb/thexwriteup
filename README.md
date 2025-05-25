@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 14:02:30 GMT | How to Apply for Cybersecurity Jobs the Smart Way: A Guide for Analysts Who Want to Stand Out | Frank Cabrel | [Read More](https://medium.com/p/959b57e5d146) |
+| Sun, 25 May 2025 14:01:37 GMT | U.S. charged 16 individuals tied to DanaBot — DanaBot Developers Infected Their Own Systems — A… | Ekene Joseph | [Read More](https://medium.com/p/b42bbb30c8bd) |
+| Sun, 25 May 2025 14:00:18 GMT | Here’s How I Recovered My Money from 70Trades | Amelia Goward | [Read More](https://medium.com/p/b2716bced8ed) |
+| Sun, 25 May 2025 13:57:05 GMT | 70Trades Review – How I Recovered My Stolen Funds | Amelia Goward | [Read More](https://medium.com/p/73b6093973b4) |
+| Sun, 25 May 2025 13:55:55 GMT | Medusa Brute Force: Full Guide for Ethical Hackers & Bounty Hunters | Kshahabaj | [Read More](https://medium.com/p/c73492419140) |
+| Sun, 25 May 2025 13:55:08 GMT | Blind SQL Injection with Conditional Responses | Marduk I Am | [Read More](https://medium.com/p/46ee90b5f2c0) |
+| Sun, 25 May 2025 13:53:00 GMT | Handling Traffic Spikes: Load Testing & Performance Tuning | Rajat Gupta | [Read More](https://medium.com/p/96df765578f7) |
+| Sun, 25 May 2025 13:47:34 GMT | EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge | Loay Salah | [Read More](https://medium.com/p/1ee952e9f69b) |
 | Sun, 25 May 2025 13:34:20 GMT | CVE-2017–0199 Analizi: XLS → HTA → VBS → Steganografi Zinciriyle Gelişmiş Saldırı | Umid Mammadov | [Read More](https://medium.com/p/5944e15a8bc3) |
 | Sun, 25 May 2025 13:31:15 GMT | The LOOBins project meets KQL | Sonja Pinzl | [Read More](https://medium.com/p/a438e7c6b37b) |
 | Sun, 25 May 2025 13:30:40 GMT | Exploiting Security Misconfiguration to Gain Full Account Takeover | Vashu Vats | [Read More](https://medium.com/p/eb7a3da01f14) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 05:46:32 GMT | Improve Symfony Logging with DevSecOps Practices | Pentest_Testing_Corp | [Read More](https://medium.com/p/139912b41b6f) |
 | Sun, 25 May 2025 05:43:45 GMT | RXSS Vulnerability Manual Approach | AbhirupKonwar | [Read More](https://medium.com/p/4f587c004dae) |
 | Sun, 25 May 2025 05:41:26 GMT | AN EASY 2FA BYPASS | Sijo Johnson | [Read More](https://medium.com/p/261261ca2eab) |
-| Sun, 25 May 2025 05:27:48 GMT | Link Poisoning via Host Header — How I Redirected Victim Verification Email to My Domain | ASC Lages | [Read More](https://medium.com/p/0896606b02cd) |
-| Sun, 25 May 2025 05:14:54 GMT | BadUSB Attack Explained: From Principles to Practice and Defense | InsBug | [Read More](https://medium.com/p/3bfe88ec2eeb) |
-| Sun, 25 May 2025 05:02:45 GMT | ️ Jailbreak Detection on iOS: Still Relevant in 2025? | Deepak Singh | [Read More](https://medium.com/p/44183b540895) |
-| Sun, 25 May 2025 04:54:33 GMT | The Hidden Dangers of Your Mobile Apps: Are You at Risk? | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/442fc748280c) |
-| Sun, 25 May 2025 04:41:11 GMT | Uncovering a Parameter Tampering Vulnerability: A Journey in Ethical Hacking An ethical… | Samfrancissam | [Read More](https://medium.com/p/d7b06703e27a) |
-| Sun, 25 May 2025 04:33:32 GMT | Setting Up a Safe Malware Analysis Environment with FlareVM and Remnux on VirtualBox | Manmeet Singh | [Read More](https://medium.com/p/27d90348e06b) |
-| Sun, 25 May 2025 04:28:27 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/724d3bfc4423) |
-| Sun, 25 May 2025 04:26:40 GMT | API 02:2023 — Broken Authentication | Suhel Kathi | [Read More](https://medium.com/p/daa3ce331818) |
