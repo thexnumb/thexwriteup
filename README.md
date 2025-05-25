@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 07:09:24 GMT | When Trusted Access Turns Risky: Explainable AI for Insider Threat Detection in Healthcare Systems | Jerry Yonga | [Read More](https://medium.com/p/4ea1c2b2881c) |
+| Sun, 25 May 2025 07:06:02 GMT | How to Get Into Ethical Hacking (Legally and Professionally) | Muhammad Schees | [Read More](https://medium.com/p/3521c4a85d26) |
+| Sun, 25 May 2025 07:05:53 GMT | Blockchain Forensics & Anti-Money Laundering Strategy for High-Risk Jurisdictions | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4ae9aec0678c) |
+| Sun, 25 May 2025 07:01:46 GMT | Why does showing vulnerability so hard? | ☻ | [Read More](https://medium.com/p/ea9a43721eaa) |
+| Sun, 25 May 2025 06:57:09 GMT | The Critical Role of CPS in Achieving Smart Manufacturing Goals | Data Defendere | [Read More](https://medium.com/p/c90ec8ab2368) |
+| Sun, 25 May 2025 06:52:02 GMT | pentest notes | Ashutoshmunde | [Read More](https://medium.com/p/691292d1adb5) |
+| Sun, 25 May 2025 06:50:08 GMT | Cybersecurity Programs for Ultra High-Net-Worth Individuals and Digital Royalty: A New Paradigm in… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/eb1613b1939a) |
 | Sun, 25 May 2025 06:47:37 GMT | Day 4/30 — Git Bisect Explained: Find the Commit That Broke Your Code | Ruqaiya Beguwala | [Read More](https://medium.com/p/2ac4245e3967) |
+| Sun, 25 May 2025 06:44:57 GMT | FRONTLINE SHADOWS: THE UNYIELDING SPIRIT OF DR. NAINA | DR NINA APRA AUTHOR, HEALER, TED X SPEAKER BLOGGER | [Read More](https://medium.com/p/ae8d7b98b6c3) |
+| Sun, 25 May 2025 06:43:24 GMT | Exploring the Different Parts of a Phone | Typical News Channel | [Read More](https://medium.com/p/5b2e0ad1d357) |
 | Sun, 25 May 2025 06:31:26 GMT | “What If Everything You Knew About Online Privacy Was Wrong?” | Vexpoltech | [Read More](https://medium.com/p/e43669363bcb) |
 | Sun, 25 May 2025 06:28:11 GMT | Saving the Results | Velia's Journey | [Read More](https://medium.com/p/2928bf39ccd3) |
 | Sun, 25 May 2025 06:20:11 GMT | Brute-force password attacks on an outlook account | Kahhow | [Read More](https://medium.com/p/05606eb0904d) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 May 2025 19:26:34 GMT | The CyberDiplomat’s Daily Report
  24th May 2025 - Saturday | The CyberDiplomat LLC | [Read More](https://medium.com/p/588a06be3a24) |
 | Sat, 24 May 2025 19:22:44 GMT | The Invisible Threat: How Hidden Prompts in AI Assistants Breached GitLab Duo | Siva Gunasekaran | [Read More](https://medium.com/p/90ce9f68dc52) |
-| Sat, 24 May 2025 19:21:06 GMT | Security Is Everyone’s Job, But No One Told Brenda (Until She Clicked the Link) | Donna French | [Read More](https://medium.com/p/fa9a30d1d849) |
-| Sat, 24 May 2025 19:20:47 GMT | Light Mode for HackTheBox | january1073 | [Read More](https://medium.com/p/bff9ed4c8922) |
-| Sat, 24 May 2025 19:19:13 GMT | IA | LonomiaO | [Read More](https://medium.com/p/7d519b18c4ce) |
-| Sat, 24 May 2025 19:08:28 GMT | TryHackMe Walkthrough — EDR Defensive — Monday Monitor | Nicholas Abundis | [Read More](https://medium.com/p/d89d19b572e1) |
-| Sat, 24 May 2025 19:02:25 GMT | Shameful Saturdays: The Taboo Crush Edition | Katarina Snow | [Read More](https://medium.com/p/40cd82352352) |
-| Sat, 24 May 2025 19:00:21 GMT | Active Directory Certificate Services — Part 2 | Cybersensus | [Read More](https://medium.com/p/5e4506bc92dc) |
-| Sat, 24 May 2025 18:59:34 GMT | Do you know what Yescrypt is ? | manjunath Kotabagi | [Read More](https://medium.com/p/89090e92c3af) |
-| Sat, 24 May 2025 18:57:03 GMT | Understanding Printers: A Beginner's Guide to Operation and Troubleshooting | Derrick Mugenyi | [Read More](https://medium.com/p/f1fc72003f6c) |
-| Sat, 24 May 2025 18:56:31 GMT | Network Forensics: Anomaly Detection at the Packet Level | Esra Kayhan | [Read More](https://medium.com/p/7e6eee75fe31) |
