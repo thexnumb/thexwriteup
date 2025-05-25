@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 18:14:21 GMT | The Man Who Owns the Most Internet Domains — And Why He Did It | Hafizbilaltariq | [Read More](https://medium.com/p/5cd9bacd7b93) |
+| Sun, 25 May 2025 18:14:20 GMT | Speed Up WordPress on Shared Hosting: Proven Methods | Shubradeb | [Read More](https://medium.com/p/501980e276c6) |
+| Sun, 25 May 2025 18:11:30 GMT | AWS WAF: The Intelligent Shield for Your Web Applications | MWANZA LUMAMBA ELIAB | [Read More](https://medium.com/p/6aeb204436c4) |
+| Sun, 25 May 2025 18:08:16 GMT | If they say “payment” or “invoice” or “account,” run away! | SafeNetting | [Read More](https://medium.com/p/7fe72fa2089c) |
+| Sun, 25 May 2025 17:58:05 GMT | En acceptant les conditions sans les lire, vous avez peut-être autorisé Meta à scanner vos messages… | Oscar Flanagan | [Read More](https://medium.com/p/d0c1c873b77b) |
+| Sun, 25 May 2025 17:54:48 GMT | Everyone wants into your account | Fred Showker | [Read More](https://medium.com/p/5ac811207c81) |
+| Sun, 25 May 2025 17:52:01 GMT | Is SSL Dead? Understanding the Evolution of Web Security | Jobin J | [Read More](https://medium.com/p/8a2648a0a55b) |
+| Sun, 25 May 2025 17:40:55 GMT | Lessons from Breaking Production (So You Don’t Have to) | Abhinav | [Read More](https://medium.com/p/a377b4c660b7) |
+| Sun, 25 May 2025 17:36:47 GMT | The dangerous game — Phishing | M Dilip Kumar Reddy | [Read More](https://medium.com/p/03d86af8fad8) |
+| Sun, 25 May 2025 17:35:45 GMT | 0x00 Welcome to my new blog | Synchr0niz3d | [Read More](https://medium.com/p/111d030fcfdd) |
 | Sun, 25 May 2025 17:28:28 GMT | Smart Contract Bugs Caused by Unexpected State Changes | Nautiyal | [Read More](https://medium.com/p/54c1ba136f21) |
 | Sun, 25 May 2025 17:21:44 GMT | Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/68da63caf005) |
 | Sun, 25 May 2025 17:04:43 GMT | Building a SOC Analyst Home Lab | Harsh Sharma | [Read More](https://medium.com/p/a172154d34de) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 10:53:09 GMT | Mastering Databases and SQL for Data Science with Python | Dishen Mulani | [Read More](https://medium.com/p/54ab327f370a) |
 | Sun, 25 May 2025 10:51:50 GMT | The Phantom Redirect: How I Fooled a Web Server for $100 | Muthu | [Read More](https://medium.com/p/b13e177f02f2) |
 | Sun, 25 May 2025 10:35:15 GMT | 讓 AI Agent當我的私人管理顧問？如何精準地下Prompt 提示工程 | Melody Hsiao蕭詠甄 | [Read More](https://medium.com/p/c63f07d44346) |
-| Sun, 25 May 2025 10:12:46 GMT | CISA Sounds the Alarm: SaaS Attacks Exploit App Secrets and Cloud Misconfigs | Ismail Tasdelen | [Read More](https://medium.com/p/a0aa0406c4b2) |
-| Sun, 25 May 2025 10:10:06 GMT | TryHackMe - AD: Basic Enumeration -Walkthrough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/434992d2ed0c) |
-| Sun, 25 May 2025 09:56:53 GMT | Deep Dive into Zeek: A Powerful Network Security Monitoring Tool | Thakur Ashutosh | [Read More](https://medium.com/p/f52ff3485035) |
-| Sun, 25 May 2025 09:55:07 GMT | ViciousTrap’s Global Honeypot: How 5,300 Cisco Devices Became Cyber Spies ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/709809c57b8b) |
-| Sun, 25 May 2025 09:52:08 GMT | Europol’s Operation Endgame: 300 Servers Down and €3.5M Seized in Global Ransomware Crackdown | Ismail Tasdelen | [Read More](https://medium.com/p/bc52c72c12e5) |
-| Sun, 25 May 2025 09:48:39 GMT | Hackers Are Sneaking Winos 4.0 Malware Through Fake VPN and Browser Installers | Ismail Tasdelen | [Read More](https://medium.com/p/e83584ef5ea3) |
-| Sun, 25 May 2025 09:48:03 GMT | Redline Stealer: Malware Analysis and String Deobfuscation | Emiliano | [Read More](https://medium.com/p/f858e3f37b7e) |
-| Sun, 25 May 2025 09:46:32 GMT | Zero-Click NTLMv2 Hash Disclosure via Auto-Executed COM Objects in Windows | Andrea | [Read More](https://medium.com/p/5f85776f8796) |
-| Sun, 25 May 2025 09:45:48 GMT | Hacking tools — Art of my creation(Part 2) | Zatikyan Sevada | [Read More](https://medium.com/p/fa3045c05b28) |
-| Sun, 25 May 2025 09:44:11 GMT | Best Ethical Hacking Course in Delhi (2025) | cyber security Updates | [Read More](https://medium.com/p/73650cc149fa) |
