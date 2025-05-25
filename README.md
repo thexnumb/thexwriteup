@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 May 2025 16:09:38 GMT | Day 46: Simulating MITM Attacks Using Ettercap and MITMf on Kali Linux | Agarwaldaksh | [Read More](https://medium.com/p/a20e4cf5457d) |
+| Sun, 25 May 2025 16:09:38 GMT | What Are the Steps to Recover Stolen Cryptocurrency Assets? | Claire Barnett | [Read More](https://medium.com/p/9787bf03dde1) |
+| Sun, 25 May 2025 16:02:49 GMT | From Zero to Adversary: An Advanced Red Teaming Road-map for Beginners | Shaheer Yasir | [Read More](https://medium.com/p/c3d2e52a1f9f) |
+| Sun, 25 May 2025 16:00:52 GMT | TRYHACKME : Lo-Fi - Challenge Walkthrough | 4A696E | [Read More](https://medium.com/p/b6b104ffc7b8) |
+| Sun, 25 May 2025 15:57:02 GMT | Day 6 of my AWS Pentesting journey — Exploring Elastic Beanstalk | mauzware | [Read More](https://medium.com/p/adc28ea74f0d) |
+| Sun, 25 May 2025 15:56:44 GMT | Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team | Ahmed Shah Ziaul Alam | [Read More](https://medium.com/p/e3c2cc451501) |
+| Sun, 25 May 2025 15:55:01 GMT | How Fuzzing Uncovered an Exposed Magento Setup and a Live Kafka Dashboard | Vijay Kumar Lohani | [Read More](https://medium.com/p/fd18cc517324) |
+| Sun, 25 May 2025 15:52:27 GMT | Discovering an Open Redirect Flaw Using URL Encoding | Ahmad Suhendra | [Read More](https://medium.com/p/001b843ec9f3) |
+| Sun, 25 May 2025 15:52:18 GMT | Aplikasi Input Nama - Android Studio | Zifa Tea Azzahra | [Read More](https://medium.com/p/3be3b8d1b9e9) |
+| Sun, 25 May 2025 15:44:00 GMT | Between the Lines of Code: A Mentor’s Voice, a Breach’s Lessons, and a Team That Made It All Matter | Hitesh Said | [Read More](https://medium.com/p/e7d222ba8da1) |
+| Sun, 25 May 2025 15:38:14 GMT | Shift Left with Confidence: A Practical Guide to DevSecOps Using GitHub Actions for Python Projects | Cyril Baah | [Read More](https://medium.com/p/4f22246514ed) |
+| Sun, 25 May 2025 15:34:33 GMT | Twitch Bait and Switch: How I Uncovered a Steam Phishing Operation | Yali Achitov | [Read More](https://medium.com/p/b4c2ff68119c) |
 | Sun, 25 May 2025 15:33:31 GMT | ColddBox: Easy — VulnHub Walkthrough | Lalitha Kandhasamy | [Read More](https://medium.com/p/095ce5255342) |
+| Sun, 25 May 2025 15:31:48 GMT | GZR Observer Daily — May 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/0325f6ce4636) |
 | Sun, 25 May 2025 15:19:35 GMT | $500 Bounty: How One Forum DM Unleashed Stored XSS on SideFX | Monika sharma | [Read More](https://medium.com/p/546ee9cab12d) |
 | Sun, 25 May 2025 15:15:34 GMT | The Illusion of Intelligence — How Superficial Analysts Undermine Cybersecurity | SIMKRA | [Read More](https://medium.com/p/d135bc5fce5d) |
 | Sun, 25 May 2025 15:14:23 GMT | Are Certifications Killing Curiosity in Cybersecurity? | Abdul | [Read More](https://medium.com/p/d6576b57052a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 08:20:59 GMT | The State of LLM & AI Security: Threats, Challenges, and Defenses | Kamran Rafiq CISM®, CRISC®, ISC² CC℠ | [Read More](https://medium.com/p/9018e0369af4) |
 | Sun, 25 May 2025 08:18:14 GMT | Sandcastles | Rich Crawford | [Read More](https://medium.com/p/37de6eacd5cf) |
 | Sun, 25 May 2025 08:04:58 GMT | The Psychology of Entry | Rageeth | [Read More](https://medium.com/p/98370a1a4425) |
-| Sun, 25 May 2025 07:55:16 GMT | From JVM and Flash to WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/7d34a5e12129) |
-| Sun, 25 May 2025 07:52:42 GMT | HashiCorp Vault Integration with Terraform: Managing Sensitive Information | @Harsh | [Read More](https://medium.com/p/326d9ebc4e33) |
-| Sun, 25 May 2025 07:52:05 GMT | How I Scored 94% in eJPTv2 With Just 1 Week of Preparation? | Vaibhav Kubade | [Read More](https://medium.com/p/6e9d01d2d391) |
-| Sun, 25 May 2025 07:48:42 GMT | NmapWebUI: The Modern Web Frontend for Nmap | Firman Gautama | [Read More](https://medium.com/p/c80c385d9a99) |
-| Sun, 25 May 2025 07:25:29 GMT | The “Trusted Notification” Exploit — When Your App Betrays Itself | Michael Younsi | [Read More](https://medium.com/p/a1b54776fa47) |
-| Sun, 25 May 2025 07:19:18 GMT | Understanding RAID and Its Types with Real-World Manga Studio Scenarios | unica 02 | [Read More](https://medium.com/p/35872b3703b1) |
-| Sun, 25 May 2025 07:18:03 GMT | The Silent Crisis in Cybersecurity | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/eeddc09486ce) |
-| Sun, 25 May 2025 07:09:24 GMT | When Trusted Access Turns Risky: Explainable AI for Insider Threat Detection in Healthcare Systems | Jerry Yonga | [Read More](https://medium.com/p/4ea1c2b2881c) |
-| Sun, 25 May 2025 07:06:02 GMT | How to Get Into Ethical Hacking (Legally and Professionally) | Muhammad Schees | [Read More](https://medium.com/p/3521c4a85d26) |
-| Sun, 25 May 2025 07:05:53 GMT | Blockchain Forensics & Anti-Money Laundering Strategy for High-Risk Jurisdictions | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4ae9aec0678c) |
-| Sun, 25 May 2025 07:01:46 GMT | Why does showing vulnerability so hard? | ☻ | [Read More](https://medium.com/p/ea9a43721eaa) |
-| Sun, 25 May 2025 06:57:09 GMT | The Critical Role of CPS in Achieving Smart Manufacturing Goals | Data Defendere | [Read More](https://medium.com/p/c90ec8ab2368) |
-| Sun, 25 May 2025 06:52:02 GMT | pentest notes | Ashutoshmunde | [Read More](https://medium.com/p/691292d1adb5) |
