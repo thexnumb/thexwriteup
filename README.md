@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 03:08:14 GMT | Reliable Security Guard Services in California by M4 Security Guard | Yousaf Khan | [Read More](https://medium.com/p/4bf8321a37ae) |
+| Mon, 26 May 2025 03:05:17 GMT | What Is Ticket Scalping and How Can You Do It Securely | GeeLark | [Read More](https://medium.com/p/b86c7c750455) |
+| Mon, 26 May 2025 03:02:38 GMT | Host & Network Penetration Testing System-Host Based Attacks CTF 2 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/b44521fae3e4) |
+| Mon, 26 May 2025 02:55:23 GMT | Inside the Mind of a Machine: The Red Teaming War to Jailbreak AI | Swapnil | [Read More](https://medium.com/p/e9165116e575) |
+| Mon, 26 May 2025 02:40:41 GMT | Who could ever leave me, darling? But who could stay? | suraya | [Read More](https://medium.com/p/62aa9921f9c7) |
+| Mon, 26 May 2025 02:30:19 GMT | Building a lab | Sam Singh | [Read More](https://medium.com/p/3f3cd5067ef7) |
+| Mon, 26 May 2025 02:09:01 GMT | Set up domain leak alerts in 3 minutes with LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/ba576125aa71) |
 | Mon, 26 May 2025 01:37:38 GMT | Parental Controls 101: How to Keep Your Kids Safe Online Without Being the ‘Bad Guy’ | Samir Karim | [Read More](https://medium.com/p/38c3d74a5ef2) |
 | Mon, 26 May 2025 01:30:54 GMT | Cyberbullies Almost Broke My Child, Here’s How We Fought Back | Samir Karim | [Read More](https://medium.com/p/75b6bbcb9aec) |
 | Mon, 26 May 2025 01:27:52 GMT | Apple Patches Two Actively Exploited Vulnerabilities — Just Playing Audio Could Compromise Your… | Hazko-stack | [Read More](https://medium.com/p/8a630cfb0287) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 16:41:36 GMT | Cyber Security in AI Era | Amt | [Read More](https://medium.com/p/8f4166cbb195) |
 | Sun, 25 May 2025 16:41:08 GMT | How I Passed the ISTQB Foundation Exam with 98%: My Experience and Tips | Marta Lenartovich | [Read More](https://medium.com/p/eca85a46436c) |
 | Sun, 25 May 2025 16:31:43 GMT | How Vulnerability Powers Effective Feedback | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/6ccb6b3b6924) |
-| Sun, 25 May 2025 16:28:16 GMT | How to Recover Stolen Ethereum (ETH): A 500-Word Guide | Claire Barnett | [Read More](https://medium.com/p/926bf389af6a) |
-| Sun, 25 May 2025 16:18:34 GMT | Who Do I Contact If I Lost Cryptocurrency to a Scam? | Claire Barnett | [Read More](https://medium.com/p/38d603749c55) |
-| Sun, 25 May 2025 16:09:38 GMT | Day 46: Simulating MITM Attacks Using Ettercap and MITMf on Kali Linux | Agarwaldaksh | [Read More](https://medium.com/p/a20e4cf5457d) |
-| Sun, 25 May 2025 16:09:38 GMT | What Are the Steps to Recover Stolen Cryptocurrency Assets? | Claire Barnett | [Read More](https://medium.com/p/9787bf03dde1) |
-| Sun, 25 May 2025 16:02:49 GMT | From Zero to Adversary: An Advanced Red Teaming Road-map for Beginners | Shaheer Yasir | [Read More](https://medium.com/p/c3d2e52a1f9f) |
-| Sun, 25 May 2025 16:00:52 GMT | TRYHACKME : Lo-Fi - Challenge Walkthrough | 4A696E | [Read More](https://medium.com/p/b6b104ffc7b8) |
-| Sun, 25 May 2025 15:57:02 GMT | Day 6 of my AWS Pentesting journey — Exploring Elastic Beanstalk | mauzware | [Read More](https://medium.com/p/adc28ea74f0d) |
