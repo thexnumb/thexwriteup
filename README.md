@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 11:32:39 GMT | What is Content Security Policy (CSP)? A Simple Guide with Examples | Priyanshu Kuldeep | [Read More](https://medium.com/p/9a856638a09e) |
+| Mon, 26 May 2025 11:31:23 GMT | A Comprehensive Guide to Application Security: Types, Benefits, Tools and Techniques | Adhvaidh | [Read More](https://medium.com/p/9fbee60db5c9) |
+| Mon, 26 May 2025 11:31:07 GMT | #8 On TryHackMe Diamond  League | 0b1d1 | [Read More](https://medium.com/p/256e56677337) |
+| Mon, 26 May 2025 11:29:08 GMT | The Secret Weapon Behind Scalable Growth? An Information Technology Business Partner | Green Cloud Hosting | [Read More](https://medium.com/p/dc933c69cabb) |
+| Mon, 26 May 2025 11:28:50 GMT | TakeOver:-TryHackMe CTF Room | Gourav(spidergk) | [Read More](https://medium.com/p/4d361bbeac6e) |
+| Mon, 26 May 2025 11:24:59 GMT | How to Do Linux Installation Without Any Errors | cyberwingITSolution | [Read More](https://medium.com/p/78733abe25f7) |
+| Mon, 26 May 2025 11:24:34 GMT | “Overthinking Is Killing Your Happiness — Here’s How to Stop” | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/90ba98bd4007) |
+| Mon, 26 May 2025 11:23:40 GMT | IT Project Management Simplified | Chandrachud Sahi | [Read More](https://medium.com/p/9b8e7ffd2087) |
+| Mon, 26 May 2025 11:23:39 GMT | From Dev to Defend: How BSides Dublin 2025 Sparked My Shift to Cybersecurity | Pranav | [Read More](https://medium.com/p/49fb7df59db7) |
 | Mon, 26 May 2025 11:08:14 GMT | Best Network Security Services Provider in India - Teleglobal | Teleglobal International | [Read More](https://medium.com/p/7ee4c3eaa38c) |
 | Mon, 26 May 2025 11:04:50 GMT | Webhooks 101: How to Automate and Streamline Your Workflow | Natarajan C K | [Read More](https://medium.com/p/fd1067c46d3a) |
 | Mon, 26 May 2025 11:03:24 GMT | How I Passed the CISSP!! | Anil Mandla | [Read More](https://medium.com/p/921fcda9a797) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 05:24:15 GMT | TryHackMe: Billing — CTF Walkthrough | 4A696E | [Read More](https://medium.com/p/b52fb61039db) |
 | Mon, 26 May 2025 05:19:11 GMT | A Recon Tool That Uses AI to Predict Subdomains | Abhijeet Kumawat | [Read More](https://medium.com/p/0d65975e6a7b) |
 | Mon, 26 May 2025 05:05:28 GMT | RST TI Report Digest: 26 May 2025 | RST Cloud | [Read More](https://medium.com/p/b3d3a1b63aa9) |
-| Mon, 26 May 2025 05:02:27 GMT | Marriage Isn’t for Everyone — And I’m Learning to Be Okay With That | Her Out-of-Office Feelings | [Read More](https://medium.com/p/a5044811dc8f) |
-| Mon, 26 May 2025 04:58:23 GMT | Fake DigiYatra Website Was Targeting Indian Flyers With Lookalike Portal | ThreatWatch360 | [Read More](https://medium.com/p/2d81326d1e15) |
-| Mon, 26 May 2025 04:57:46 GMT | CEH Course Designed for Network Professionals and Cybersecurity Careers | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/6bb28fb6c802) |
-| Mon, 26 May 2025 04:56:03 GMT | Flashback Fuzzing: How I Found JWT Tokens in the Past & Got Paid for It | Harsh kothari | [Read More](https://medium.com/p/8da88d6daf09) |
-| Mon, 26 May 2025 04:42:25 GMT | Cyber-Physical Systems: Seamless Integration of Cyberspace & Physical World | Data Defendere | [Read More](https://medium.com/p/6af783c310e7) |
-| Mon, 26 May 2025 04:40:35 GMT | Don’t Be the Next Target: A Proactive Strategy to Outsmart Evolving Cyber Attacks | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/84f1ac8fdee0) |
-| Mon, 26 May 2025 04:22:25 GMT | Reentrancy Bugs: Why They Still Break Smart Contracts | Nautiyal | [Read More](https://medium.com/p/a83fac409a53) |
-| Mon, 26 May 2025 04:11:31 GMT | Building a Personal Malware-Analysis Lab | Dhruv Saikia | [Read More](https://medium.com/p/67c30acdae97) |
-| Mon, 26 May 2025 04:06:08 GMT | Is Your Smart Fridge Helping Hackers While You Shop for Pajama Pants? | Tina Ginn | [Read More](https://medium.com/p/1b6fa814525a) |
