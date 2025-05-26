@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 18:26:05 GMT | YouMade | Muhammad Tarek | [Read More](https://medium.com/p/c25e3ea337e3) |
+| Mon, 26 May 2025 18:22:27 GMT | Android 15 : Important changes for developers | Prakash Sharma | [Read More](https://medium.com/p/43a404d589c2) |
+| Mon, 26 May 2025 18:18:22 GMT | Love Never Goes to Waste: The Law of Return in Nature and Spirit | Groovy Spirit Realm | [Read More](https://medium.com/p/5cb709233b43) |
+| Mon, 26 May 2025 18:17:31 GMT | How Security Camera Installation Restores Protection After a Camera Malfunctions | Today’s Networking Solutions | [Read More](https://medium.com/p/66d858c16cad) |
+| Mon, 26 May 2025 18:17:11 GMT | Spring Boot + LDAP Integration: The Security Nightmare Nobody Talks About | CaffeinatedCoder | [Read More](https://medium.com/p/95bf19e35b9f) |
+| Mon, 26 May 2025 18:09:12 GMT | From Web3 Developer to Smart-Contract Auditor: When Known Standards Betray You | Evgenii | [Read More](https://medium.com/p/525245c45848) |
+| Mon, 26 May 2025 18:05:19 GMT | $12 Billion in Lessons: What DeFi Hacks Taught Us About True Security | Chronos Vault | [Read More](https://medium.com/p/6ddac97cc4ab) |
+| Mon, 26 May 2025 17:54:34 GMT | Curvance $CVE Growth Strategy: The Ultimate Reward System | CVE | [Read More](https://medium.com/p/2f6cac316b1e) |
 | Mon, 26 May 2025 17:37:09 GMT | When Personal Accounts Become Corporate Security Risks | Karl Buhl | [Read More](https://medium.com/p/9313e692adca) |
 | Mon, 26 May 2025 17:32:40 GMT | Here is how I secure my SaaS applications | Shivanshu Gupta | [Read More](https://medium.com/p/6db2cdbd3a02) |
 | Mon, 26 May 2025 17:21:05 GMT | Governance: The “G” in GRC and the Unsung Hero of Cybersecurity | Brittney Ginther | [Read More](https://medium.com/p/461f48ca34ca) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 12:45:02 GMT | How I safely Promoted the UUID to Primary Key in my SDMS Django Project: with Complex ForeignKey… | Lawal Tajudeen | [Read More](https://medium.com/p/ee0eeeb9d1e5) |
 | Mon, 26 May 2025 12:39:37 GMT | Software Devs Are Panicking About AI ..  Here’s Why Cybersecurity Is a Smart Escape Route | Taimur Ijlal | [Read More](https://medium.com/p/07bc9c1553c8) |
 | Mon, 26 May 2025 12:34:38 GMT | Organization Takeover via Privilege Escalation (IDOR) | Ehtesham Ul Haq | [Read More](https://medium.com/p/14786a2fa174) |
-| Mon, 26 May 2025 12:33:20 GMT | Keamanan Basis Data | davidnazal | [Read More](https://medium.com/p/6ed2ce6c9c52) |
-| Mon, 26 May 2025 12:31:14 GMT | Top 10 Security Tips to Keep Your Crypto Safe in 2025 | Travis B. Romero | [Read More](https://medium.com/p/6648e2e2f1ab) |
-| Mon, 26 May 2025 12:31:07 GMT | The Hidden Threat: Dark Patterns in Software Testing | kamalshelley | [Read More](https://medium.com/p/b8aa4c986e02) |
-| Mon, 26 May 2025 12:25:21 GMT | Germany Security Innovation | Presslink Media | [Read More](https://medium.com/p/1afa0f06b8cb) |
-| Mon, 26 May 2025 12:23:22 GMT | Rival Besar Asia Selatan: Perbandingan Antara India dan Pakistan | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/b87ce0852d9f) |
-| Mon, 26 May 2025 12:23:22 GMT | Top 5 Cybersecurity Projects for Beginners — Build Your Career the Hands-On Way! | Navigtech | [Read More](https://medium.com/p/8dc0ee19dc47) |
-| Mon, 26 May 2025 12:21:38 GMT | API5:2023 — Broken Function Level Authorization — PT-BR | Tamy Angel | [Read More](https://medium.com/p/32f47a8e3134) |
-| Mon, 26 May 2025 12:17:53 GMT | Kamera, Tilang, dan Ketertiban | Davira Yulia | [Read More](https://medium.com/p/89411a585dd9) |
