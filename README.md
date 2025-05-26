@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 05:25:51 GMT | OutCast WriteUp — NahamCon 2025 CTF | gobbledy | [Read More](https://medium.com/p/95b1e8ddaf12) |
+| Mon, 26 May 2025 05:24:15 GMT | TryHackMe: Billing — CTF Walkthrough | 4A696E | [Read More](https://medium.com/p/b52fb61039db) |
+| Mon, 26 May 2025 05:19:11 GMT | A Recon Tool That Uses AI to Predict Subdomains | Abhijeet Kumawat | [Read More](https://medium.com/p/0d65975e6a7b) |
 | Mon, 26 May 2025 05:05:28 GMT | RST TI Report Digest: 26 May 2025 | RST Cloud | [Read More](https://medium.com/p/b3d3a1b63aa9) |
 | Mon, 26 May 2025 05:02:27 GMT | Marriage Isn’t for Everyone — And I’m Learning to Be Okay With That | Her Out-of-Office Feelings | [Read More](https://medium.com/p/a5044811dc8f) |
 | Mon, 26 May 2025 04:58:23 GMT | Fake DigiYatra Website Was Targeting Indian Flyers With Lookalike Portal | ThreatWatch360 | [Read More](https://medium.com/p/2d81326d1e15) |
@@ -111,6 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 18:24:23 GMT | Mail Shield: The Weekend Project That Became My Ultimate Spam Firewall | Tara Prasad Routray | [Read More](https://medium.com/p/dc07b93c9641) |
 | Sun, 25 May 2025 18:23:06 GMT | Securing Your MERN App with AES Encryption: A Beginner-Friendly Guide | Mouhamed Ridha Harhira | [Read More](https://medium.com/p/96130c079b5b) |
 | Sun, 25 May 2025 18:20:43 GMT | Zero Trust: A Simple Explanation | Natarajan C K | [Read More](https://medium.com/p/716f650b074c) |
-| Sun, 25 May 2025 18:19:20 GMT | SwarmID-How I Turned a Complex Cybersecurity Idea into Reality in 4 Hours Using AI | Adnane Arharbi, Eng | [Read More](https://medium.com/p/8f5c8e2d688d) |
-| Sun, 25 May 2025 18:14:39 GMT | Fortifying Your Cloud Perimeter: Zero Trust Security with AWS IAM | AWS Cloud Architect | [Read More](https://medium.com/p/c0cc18833cc7) |
-| Sun, 25 May 2025 18:14:21 GMT | The Man Who Owns the Most Internet Domains — And Why He Did It | Hafizbilaltariq | [Read More](https://medium.com/p/5cd9bacd7b93) |
