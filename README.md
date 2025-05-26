@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 17:03:10 GMT | Hi, I’m new here and just shared a post about a cybersecurity tool I’ve been learning to use as a… | Bilal Nachat | [Read More](https://medium.com/p/258b81035aba) |
+| Mon, 26 May 2025 17:00:16 GMT | How to Protect Your Business from Cyber Threats | RISKCOVERED | [Read More](https://medium.com/p/dbb99a48eb82) |
+| Mon, 26 May 2025 16:59:26 GMT | What can I do to recover my money from Luxequant ? | Jonas Martins | [Read More](https://medium.com/p/eb8722362e4d) |
+| Mon, 26 May 2025 16:53:05 GMT | OHSINT — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/418b468f0a45) |
+| Mon, 26 May 2025 16:52:37 GMT | An In-Depth Look at Claude’s System Prompt | Bachr Chi | [Read More](https://medium.com/p/2cad66d5d642) |
+| Mon, 26 May 2025 16:51:01 GMT | The Deepfake Dilemma: Navigating the Age of AI-Fueled Misinformation | Leslie | [Read More](https://medium.com/p/5c567caf383f) |
+| Mon, 26 May 2025 16:49:42 GMT | How to Earn Exclusive $CVE Rewards on StakingRewards | Anthony
+ Wood | [Read More](https://medium.com/p/212a6f09ff8c) |
 | Mon, 26 May 2025 16:38:14 GMT | Aplikasi Mobile Whimsy & Order: Tasky dengan Android Studio | Zifa Tea Azzahra | [Read More](https://medium.com/p/f6497d6c4c62) |
+| Mon, 26 May 2025 16:37:14 GMT | Secure Your AWS Environment: IAM Best Practices for Multi-Account Setups | Kushagra Agrawal | [Read More](https://medium.com/p/d62a9bedfd3b) |
 | Mon, 26 May 2025 16:32:28 GMT | Endpoint Protection: Defending the Digital Frontlines | Vivian Aranha | [Read More](https://medium.com/p/3abbf8e3427e) |
 | Mon, 26 May 2025 16:32:03 GMT | Top 10 Python Hacks Used by Hackers and Bug Hunters | Vipul Sonule | [Read More](https://medium.com/p/57f0122ef5d1) |
 | Mon, 26 May 2025 16:30:10 GMT | Welcome to My Blog! | Venkatalakshmi Undamatla | [Read More](https://medium.com/p/662f95904967) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 12:02:26 GMT | How Big Tech Lets Scammers Thrive — And Victims Suffer in Silence | Natasha Fuller | [Read More](https://medium.com/p/cacef71dd823) |
 | Mon, 26 May 2025 11:59:01 GMT | Learnings from 20 years in IT industry | VV | [Read More](https://medium.com/p/df487e2a6c9d) |
 | Mon, 26 May 2025 11:57:54 GMT | write up talk tuah | phisher305 | [Read More](https://medium.com/p/2e4dbf3eb803) |
-| Mon, 26 May 2025 11:54:49 GMT | Combating Financial Cybercrime: Data Center Security for Indian Banks | Zitaniumtechnology | [Read More](https://medium.com/p/6503ddf0f81a) |
-| Mon, 26 May 2025 11:54:35 GMT | BreachForums Boss Ordered to Pay $700K in Healthcare Data Breach Settlement: What It Means for… | Ekene Joseph | [Read More](https://medium.com/p/d831f112b6b2) |
-| Mon, 26 May 2025 11:52:42 GMT | Bug Bounty Report: Deanonymizing YouTube Channels Through Studio Access (Closed As Not-Applicable) | Vivek PS | [Read More](https://medium.com/p/850f762d4040) |
-| Mon, 26 May 2025 11:52:30 GMT | The Future of Cybersecurity: Trends to Watch This Decade | Techridge Solutions | [Read More](https://medium.com/p/b897bee0456b) |
-| Mon, 26 May 2025 11:49:40 GMT | Dockerizing React Apps with Dynamic Environment Variables | Nur Mohamod Rafi | [Read More](https://medium.com/p/8e365e73cb8a) |
-| Mon, 26 May 2025 11:41:38 GMT | Planning an Event? Security Should Be Step One | Group 24/7 Security Services | [Read More](https://medium.com/p/5cc83381aa20) |
-| Mon, 26 May 2025 11:32:39 GMT | What is Content Security Policy (CSP)? A Simple Guide with Examples | Priyanshu Kuldeep | [Read More](https://medium.com/p/9a856638a09e) |
-| Mon, 26 May 2025 11:31:23 GMT | A Comprehensive Guide to Application Security: Types, Benefits, Tools and Techniques | Adhvaidh | [Read More](https://medium.com/p/9fbee60db5c9) |
