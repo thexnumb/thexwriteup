@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 12:31:14 GMT | Top 10 Security Tips to Keep Your Crypto Safe in 2025 | Travis B. Romero | [Read More](https://medium.com/p/6648e2e2f1ab) |
+| Mon, 26 May 2025 12:25:21 GMT | Germany Security Innovation | Presslink Media | [Read More](https://medium.com/p/1afa0f06b8cb) |
+| Mon, 26 May 2025 12:23:22 GMT | Rival Besar Asia Selatan: Perbandingan Antara India dan Pakistan | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/b87ce0852d9f) |
+| Mon, 26 May 2025 12:23:22 GMT | Top 5 Cybersecurity Projects for Beginners — Build Your Career the Hands-On Way! | Navigtech | [Read More](https://medium.com/p/8dc0ee19dc47) |
+| Mon, 26 May 2025 12:21:38 GMT | API5:2023 — Broken Function Level Authorization — PT-BR | Tamy Angel | [Read More](https://medium.com/p/32f47a8e3134) |
+| Mon, 26 May 2025 12:17:53 GMT | Kamera, Tilang, dan Ketertiban | Davira Yulia | [Read More](https://medium.com/p/89411a585dd9) |
+| Mon, 26 May 2025 12:16:49 GMT | The 2025 Crypto Landscape — Growth Meets Danger | QuppyAMLBOT | [Read More](https://medium.com/p/325eb4ef8a6f) |
+| Mon, 26 May 2025 12:12:07 GMT | ISO 27001 for Blockchain Startups: Why It’s More Than a Badge | Decrypt0 | [Read More](https://medium.com/p/732e7b784884) |
+| Mon, 26 May 2025 12:09:55 GMT | How Hackers Use Legitimate SQL Tools Like DBeaver and Navicat to Steal Your Data | Onur Okan | [Read More](https://medium.com/p/bd888056b0b5) |
+| Mon, 26 May 2025 12:03:01 GMT | SafeLine WAF: New Open-Source Web Application Firewall Aims to Democratize Web Security | CyBlog | [Read More](https://medium.com/p/ef2b62dac946) |
+| Mon, 26 May 2025 12:02:32 GMT | Ten Lessons from Bamboo | Be | [Read More](https://medium.com/p/c0519e02b3bb) |
+| Mon, 26 May 2025 12:02:26 GMT | How Big Tech Lets Scammers Thrive — And Victims Suffer in Silence | Natasha Fuller | [Read More](https://medium.com/p/cacef71dd823) |
+| Mon, 26 May 2025 11:59:01 GMT | Learnings from 20 years in IT industry | VV | [Read More](https://medium.com/p/df487e2a6c9d) |
+| Mon, 26 May 2025 11:57:54 GMT | write up talk tuah | phisher305 | [Read More](https://medium.com/p/2e4dbf3eb803) |
+| Mon, 26 May 2025 11:54:49 GMT | Combating Financial Cybercrime: Data Center Security for Indian Banks | Zitaniumtechnology | [Read More](https://medium.com/p/6503ddf0f81a) |
+| Mon, 26 May 2025 11:54:35 GMT | BreachForums Boss Ordered to Pay $700K in Healthcare Data Breach Settlement: What It Means for… | Ekene Joseph | [Read More](https://medium.com/p/d831f112b6b2) |
+| Mon, 26 May 2025 11:52:42 GMT | Bug Bounty Report: Deanonymizing YouTube Channels Through Studio Access (Closed As Not-Applicable) | Vivek PS | [Read More](https://medium.com/p/850f762d4040) |
+| Mon, 26 May 2025 11:52:30 GMT | The Future of Cybersecurity: Trends to Watch This Decade | Techridge Solutions | [Read More](https://medium.com/p/b897bee0456b) |
+| Mon, 26 May 2025 11:49:40 GMT | Dockerizing React Apps with Dynamic Environment Variables | Nur Mohamod Rafi | [Read More](https://medium.com/p/8e365e73cb8a) |
+| Mon, 26 May 2025 11:41:38 GMT | Planning an Event? Security Should Be Step One | Group 24/7 Security Services | [Read More](https://medium.com/p/5cc83381aa20) |
 | Mon, 26 May 2025 11:32:39 GMT | What is Content Security Policy (CSP)? A Simple Guide with Examples | Priyanshu Kuldeep | [Read More](https://medium.com/p/9a856638a09e) |
 | Mon, 26 May 2025 11:31:23 GMT | A Comprehensive Guide to Application Security: Types, Benefits, Tools and Techniques | Adhvaidh | [Read More](https://medium.com/p/9fbee60db5c9) |
 | Mon, 26 May 2025 11:31:07 GMT | #8 On TryHackMe Diamond  League | 0b1d1 | [Read More](https://medium.com/p/256e56677337) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 06:39:35 GMT | Visualization tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/5f489e219315) |
 | Mon, 26 May 2025 06:37:06 GMT | OWASP Pentest Series (5/12) | TheZeeshanKhan | [Read More](https://medium.com/p/89c942caff11) |
 | Mon, 26 May 2025 06:28:45 GMT | A Google Cloud Misconfiguration Exposed Critical Internet Exchange Infrastructure | Tiger Huang | [Read More](https://medium.com/p/72c4912570b0) |
-| Mon, 26 May 2025 06:21:39 GMT | ️ TryHackMe: Silver Platter - Full Walkthrough by RootSeeker | RootSeeker | [Read More](https://medium.com/p/b73c58e0790f) |
-| Mon, 26 May 2025 06:21:10 GMT | The Thankless Job of Reporting Security Vulnerabilities: A Cautionary Tale for Companies | Omarksm | [Read More](https://medium.com/p/2df091f0a3fc) |
-| Mon, 26 May 2025 06:19:34 GMT | Cybersecurity in 2025: Less about predictions, more about preparation | Peter Granlund | [Read More](https://medium.com/p/89844c0981d5) |
-| Mon, 26 May 2025 06:19:11 GMT | Signal Blocks Microsoft’s Recall Feature to Protect User Privacy | HealerLogs | [Read More](https://medium.com/p/ab735355c96a) |
-| Mon, 26 May 2025 06:14:34 GMT | How Fake Apps on Play Store Are Hacking Your Data. | KLEAP Institute of Information Security | [Read More](https://medium.com/p/03d1f3ca4787) |
-| Mon, 26 May 2025 06:10:03 GMT | Is Your Website Really Secure? Discover the Truth with AI1 Site Security Scanner | All in One security | [Read More](https://medium.com/p/a99025ead1c8) |
-| Mon, 26 May 2025 06:09:16 GMT | Top 10 Cybersecurity Blogs and YouTube Channels I Follow Religiously (Red Team, Blue Team, and… | HealerLogs | [Read More](https://medium.com/p/3252ba21b7f9) |
-| Mon, 26 May 2025 06:06:26 GMT | Corporate Absurdities: A Tale of Malicious Compliance | Namir Sagheenanajar | [Read More](https://medium.com/p/269ae4093773) |
-| Mon, 26 May 2025 06:02:26 GMT | The United Kingdom vs. Israel: A Silent Power Struggle Over the American Deep State | Erinc Bulca | [Read More](https://medium.com/p/177fc0f6879d) |
-| Mon, 26 May 2025 06:02:19 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/96c1c4a9d528) |
-| Mon, 26 May 2025 06:01:57 GMT | “Why High Performers Secretly Self-Sabotage” | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/c04e9a5dfcd9) |
-| Mon, 26 May 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — May 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/09bef8d641c6) |
-| Mon, 26 May 2025 05:54:53 GMT | Spoof Tokens, Real Losses: How iExec TEEs Could Have Stopped the SUI Blockchain Exploit | Moses Israel A. | [Read More](https://medium.com/p/7cd45ea3e3ed) |
-| Mon, 26 May 2025 05:54:49 GMT | Deep Dive into Bluefin Spot DEX: Architecture, Security Analysis, and Lessons from the Cetus Hack | Tushar Sengar | [Read More](https://medium.com/p/df51c93e2a0c) |
-| Mon, 26 May 2025 05:51:49 GMT | App Security Basic for Azure AD/Intra ID | Manmohan J Mundhra, Bangalore, India | [Read More](https://medium.com/p/318c979fad3a) |
-| Mon, 26 May 2025 05:46:21 GMT | How to Detect Wi-Fi  Deauth DoS Attacks | MR Jamal Mohamed | [Read More](https://medium.com/p/e6b3276b2974) |
-| Mon, 26 May 2025 05:25:51 GMT | OutCast WriteUp — NahamCon 2025 CTF | gobbledy | [Read More](https://medium.com/p/95b1e8ddaf12) |
-| Mon, 26 May 2025 05:24:15 GMT | TryHackMe: Billing — CTF Walkthrough | 4A696E | [Read More](https://medium.com/p/b52fb61039db) |
-| Mon, 26 May 2025 05:19:11 GMT | A Recon Tool That Uses AI to Predict Subdomains | Abhijeet Kumawat | [Read More](https://medium.com/p/0d65975e6a7b) |
-| Mon, 26 May 2025 05:05:28 GMT | RST TI Report Digest: 26 May 2025 | RST Cloud | [Read More](https://medium.com/p/b3d3a1b63aa9) |
