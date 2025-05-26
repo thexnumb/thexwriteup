@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 03:53:42 GMT | How I Use Fail2Ban on Ubuntu and Linux to Block Attackers Before They Get In | Faruk Ahmed | [Read More](https://medium.com/p/fdb848ce9c6c) |
+| Mon, 26 May 2025 03:48:08 GMT | Facing the DDoS Threat: Cybersecurity, Network, and Protection Solutions | Mohammad Ferdiansah Rahmadani | [Read More](https://medium.com/p/f031a48274c1) |
+| Mon, 26 May 2025 03:33:31 GMT | Building Your Own Malware Analysis Lab: A Complete Setup Guide with FlareVM and REMnux | Mohammed | [Read More](https://medium.com/p/699486578d1b) |
+| Mon, 26 May 2025 03:23:36 GMT | Top 10 Cybersecurity Myths You Should Stop Believing | Ivo Pereira | [Read More](https://medium.com/p/c69feb2ded20) |
+| Mon, 26 May 2025 03:23:15 GMT | Building a Safe Virtual Malware Lab with FlareVM and REMnux | Chirag Ghotikar | [Read More](https://medium.com/p/8bb16490a1be) |
+| Mon, 26 May 2025 03:19:57 GMT | How I Put a Production App into Maintenance Mode via a Leaked Azure App Configuration Key | Rhenzo Verdad | [Read More](https://medium.com/p/3d3246557d63) |
 | Mon, 26 May 2025 03:08:14 GMT | Reliable Security Guard Services in California by M4 Security Guard | Yousaf Khan | [Read More](https://medium.com/p/4bf8321a37ae) |
 | Mon, 26 May 2025 03:05:17 GMT | What Is Ticket Scalping and How Can You Do It Securely | GeeLark | [Read More](https://medium.com/p/b86c7c750455) |
 | Mon, 26 May 2025 03:02:38 GMT | Host & Network Penetration Testing System-Host Based Attacks CTF 2 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/b44521fae3e4) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 17:21:44 GMT | Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/68da63caf005) |
 | Sun, 25 May 2025 17:04:43 GMT | Building a SOC Analyst Home Lab | Harsh Sharma | [Read More](https://medium.com/p/a172154d34de) |
 | Sun, 25 May 2025 16:57:30 GMT | Try Hack Me: Mayhem | Sanidhya Mall | [Read More](https://medium.com/p/0927a5953bb0) |
-| Sun, 25 May 2025 16:50:37 GMT | The Most Powerful Botnet in the world : Mantis Botnet | Sairaj | [Read More](https://medium.com/p/b651b3aa5f76) |
-| Sun, 25 May 2025 16:50:14 GMT | AI in Public Health: Revolution, Risk and Opportunity | Christopher Nial | [Read More](https://medium.com/p/7010da9c4010) |
-| Sun, 25 May 2025 16:46:55 GMT | THE REAL MURDERERS | Boluwatife Lash | [Read More](https://medium.com/p/f4308317e0cc) |
-| Sun, 25 May 2025 16:41:36 GMT | Cyber Security in AI Era | Amt | [Read More](https://medium.com/p/8f4166cbb195) |
-| Sun, 25 May 2025 16:41:08 GMT | How I Passed the ISTQB Foundation Exam with 98%: My Experience and Tips | Marta Lenartovich | [Read More](https://medium.com/p/eca85a46436c) |
-| Sun, 25 May 2025 16:31:43 GMT | How Vulnerability Powers Effective Feedback | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/6ccb6b3b6924) |
