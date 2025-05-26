@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 23:07:57 GMT | The Pentesting Trifecta CPTS-OSCP-PNPT | MalwareBro | [Read More](https://medium.com/p/a67900aab176) |
+| Mon, 26 May 2025 23:05:39 GMT | The Fake Crypto App That Cost Me My Business: How I Lost Everything Trying to ‘Modernize’ My Store” | true crime | [Read More](https://medium.com/p/9c844cbcd48d) |
+| Mon, 26 May 2025 22:53:32 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / MALICE CYBER RECOVERY WILL HELP | woodruff700 | [Read More](https://medium.com/p/acea38d77b49) |
+| Mon, 26 May 2025 22:44:54 GMT | HackingHub “VulnLawyers” Walkthrough | WireHawk Security | [Read More](https://medium.com/p/567c8709f1b8) |
 | Mon, 26 May 2025 22:38:41 GMT | Build Your Own AI SOC — Final Post: What You’ve Built and Where to Go Next | Corey Jones | [Read More](https://medium.com/p/5526183318ac) |
 | Mon, 26 May 2025 22:36:45 GMT | Level Up Your Smart Contract Audits with 90 Real Vulnerability Reports | Np nate | [Read More](https://medium.com/p/12fb2eb934d3) |
 | Mon, 26 May 2025 22:25:52 GMT | Windows File System | Shamar Isaac | [Read More](https://medium.com/p/07eb005a9df5) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 16:25:14 GMT | TryHackMe - AD: Authenticated Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/920f232047f5) |
 | Mon, 26 May 2025 16:21:18 GMT | From Crypto to Credential: The Untold Story of FIDO2 for Enterprise at Scale | David Canellos | [Read More](https://medium.com/p/b426a4a67fae) |
 | Mon, 26 May 2025 16:20:00 GMT | I will write sales, finance, banking, marketing, accounting, realtor, ecommerce resume | Oyefunkeegbeleke | [Read More](https://medium.com/p/90baf68ae454) |
-| Mon, 26 May 2025 16:17:43 GMT | OSINT for beginners — OPSEC | OSINT News | [Read More](https://medium.com/p/e17cd38f447e) |
-| Mon, 26 May 2025 16:10:30 GMT | How AI is Powering a New Wave of Cyber Attacks: Real-World Cases | Anezaneo | [Read More](https://medium.com/p/f5cdfadaf912) |
-| Mon, 26 May 2025 16:03:05 GMT | Chaining of Information Disclosure leading to account takeover, Privilege Escalation due to… | Sulabh Jain | [Read More](https://medium.com/p/c85d7e61a00d) |
-| Mon, 26 May 2025 15:52:38 GMT | Why Every Growing Business Should Consider Managed IT Services for Comprehensive Cyber Security | Mobile Computer Repair | [Read More](https://medium.com/p/7918535c8c25) |
