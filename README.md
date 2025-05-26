@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 06:21:39 GMT | ️ TryHackMe: Silver Platter - Full Walkthrough by RootSeeker | RootSeeker | [Read More](https://medium.com/p/b73c58e0790f) |
+| Mon, 26 May 2025 06:21:10 GMT | The Thankless Job of Reporting Security Vulnerabilities: A Cautionary Tale for Companies | Omarksm | [Read More](https://medium.com/p/2df091f0a3fc) |
+| Mon, 26 May 2025 06:19:34 GMT | Cybersecurity in 2025: Less about predictions, more about preparation | Peter Granlund | [Read More](https://medium.com/p/89844c0981d5) |
+| Mon, 26 May 2025 06:19:11 GMT | Signal Blocks Microsoft’s Recall Feature to Protect User Privacy | HealerLogs | [Read More](https://medium.com/p/ab735355c96a) |
+| Mon, 26 May 2025 06:14:34 GMT | How Fake Apps on Play Store Are Hacking Your Data. | KLEAP Institute of Information Security | [Read More](https://medium.com/p/03d1f3ca4787) |
+| Mon, 26 May 2025 06:10:03 GMT | Is Your Website Really Secure? Discover the Truth with AI1 Site Security Scanner | All in One security | [Read More](https://medium.com/p/a99025ead1c8) |
+| Mon, 26 May 2025 06:09:16 GMT | Top 10 Cybersecurity Blogs and YouTube Channels I Follow Religiously (Red Team, Blue Team, and… | HealerLogs | [Read More](https://medium.com/p/3252ba21b7f9) |
+| Mon, 26 May 2025 06:06:26 GMT | Corporate Absurdities: A Tale of Malicious Compliance | Namir Sagheenanajar | [Read More](https://medium.com/p/269ae4093773) |
+| Mon, 26 May 2025 06:02:26 GMT | The United Kingdom vs. Israel: A Silent Power Struggle Over the American Deep State | Erinc Bulca | [Read More](https://medium.com/p/177fc0f6879d) |
+| Mon, 26 May 2025 06:02:19 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/96c1c4a9d528) |
+| Mon, 26 May 2025 06:01:57 GMT | “Why High Performers Secretly Self-Sabotage” | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/c04e9a5dfcd9) |
+| Mon, 26 May 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — May 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/09bef8d641c6) |
+| Mon, 26 May 2025 05:54:53 GMT | Spoof Tokens, Real Losses: How iExec TEEs Could Have Stopped the SUI Blockchain Exploit | Moses Israel A. | [Read More](https://medium.com/p/7cd45ea3e3ed) |
+| Mon, 26 May 2025 05:54:49 GMT | Deep Dive into Bluefin Spot DEX: Architecture, Security Analysis, and Lessons from the Cetus Hack | Tushar Sengar | [Read More](https://medium.com/p/df51c93e2a0c) |
+| Mon, 26 May 2025 05:51:49 GMT | App Security Basic for Azure AD/Intra ID | Manmohan J Mundhra, Bangalore, India | [Read More](https://medium.com/p/318c979fad3a) |
+| Mon, 26 May 2025 05:46:21 GMT | How to Detect Wi-Fi  Deauth DoS Attacks | MR Jamal Mohamed | [Read More](https://medium.com/p/e6b3276b2974) |
 | Mon, 26 May 2025 05:25:51 GMT | OutCast WriteUp — NahamCon 2025 CTF | gobbledy | [Read More](https://medium.com/p/95b1e8ddaf12) |
 | Mon, 26 May 2025 05:24:15 GMT | TryHackMe: Billing — CTF Walkthrough | 4A696E | [Read More](https://medium.com/p/b52fb61039db) |
 | Mon, 26 May 2025 05:19:11 GMT | A Recon Tool That Uses AI to Predict Subdomains | Abhijeet Kumawat | [Read More](https://medium.com/p/0d65975e6a7b) |
@@ -97,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 19:55:10 GMT | SOCx: The OSINT Tool I Created to Simplify (and Speed Up) IOC Investigations | Jagkter | [Read More](https://medium.com/p/daa714f3ae30) |
 | Sun, 25 May 2025 19:49:23 GMT | The Complete Guide to Securing Kubernetes: From Zero to Production-Ready | Salwan Mohamed | [Read More](https://medium.com/p/6b448849c875) |
 | Sun, 25 May 2025 19:45:29 GMT | Fortinet Under Fire: Critical Vulnerabilities and Stealthy Backdoor Threats Compromise Thousands… | DISHA GUPTA | [Read More](https://medium.com/p/13a6c6f865a4) |
-| Sun, 25 May 2025 19:32:16 GMT | SSRF via External Service Interaction (HTTP & DNS) | Zoningxtr | [Read More](https://medium.com/p/f11ef614d6a3) |
-| Sun, 25 May 2025 19:31:46 GMT | ️‍♂️ Blind SSRF (Server-Side Request Forgery)  Explained: The Invisible Cyber Spy You Didn’t… | Zoningxtr | [Read More](https://medium.com/p/cfef0aca468e) |
-| Sun, 25 May 2025 19:31:17 GMT | How to Perform Static Testing for SSRF Vulnerabilities — Detecting Insecure Code with Semgrep &… | Zoningxtr | [Read More](https://medium.com/p/27aa1c0d01a7) |
-| Sun, 25 May 2025 19:22:18 GMT | Is   Helping or Hurting Humanity? | Hafizbilaltariq | [Read More](https://medium.com/p/af19bf9f3581) |
-| Sun, 25 May 2025 19:21:19 GMT | How a National TPA Cut Regulatory Workload by 70% with NexusReg | Ali Kazmi | [Read More](https://medium.com/p/841d7c108217) |
-| Sun, 25 May 2025 19:19:55 GMT | PROGRAMMING UNIT: 3—For those who are HND Computing | Talal Tanveer | [Read More](https://medium.com/p/b5fb54070a67) |
-| Sun, 25 May 2025 19:18:12 GMT | جهت هماهنگی تلگرام یا واتساپ 09915528413پیام بدهید،ویا باشماره(09364608280)تماس بگیرید
-صیغه کرج… | حاجی طباطبای | [Read More](https://medium.com/p/9ed61e50d2fc) |
-| Sun, 25 May 2025 19:17:53 GMT | Is CEH Worth It in 2025? Here’s What Most Cybersecurity Pros Won’t Tell You | VulnKraft | [Read More](https://medium.com/p/ebff4d9f3a2d) |
-| Sun, 25 May 2025 19:16:01 GMT | The Silent Tech Layoff Wave: Why So Many Are Losing Jobs in 2024 | Hafizbilaltariq | [Read More](https://medium.com/p/8565ebb3a8d5) |
-| Sun, 25 May 2025 19:02:29 GMT | 8 Blockchain Security Patterns That Keep Showing Up in Audits | Nautiyal | [Read More](https://medium.com/p/559815931348) |
-| Sun, 25 May 2025 18:51:59 GMT | Crypto Crimes Escalate: Investor Charged with Kidnapping and Torture for Bitcoin Password | Travis Murphy | [Read More](https://medium.com/p/6d36a0377bb9) |
-| Sun, 25 May 2025 18:49:07 GMT | Building a Malware Analysis Lab Playground with FlareVM & Remnux | Keerten | [Read More](https://medium.com/p/63585e57443f) |
-| Sun, 25 May 2025 18:34:58 GMT | Nmap 101: Mapping Your Target’s Attack Surface | january1073 | [Read More](https://medium.com/p/5bae9735c60d) |
-| Sun, 25 May 2025 18:24:23 GMT | Mail Shield: The Weekend Project That Became My Ultimate Spam Firewall | Tara Prasad Routray | [Read More](https://medium.com/p/dc07b93c9641) |
-| Sun, 25 May 2025 18:23:06 GMT | Securing Your MERN App with AES Encryption: A Beginner-Friendly Guide | Mouhamed Ridha Harhira | [Read More](https://medium.com/p/96130c079b5b) |
-| Sun, 25 May 2025 18:20:43 GMT | Zero Trust: A Simple Explanation | Natarajan C K | [Read More](https://medium.com/p/716f650b074c) |
