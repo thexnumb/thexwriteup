@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 10:48:42 GMT | How Reconciliation Software Can Save Your Business Time and Money | Kosh AI | [Read More](https://medium.com/p/8c283bac52b1) |
+| Mon, 26 May 2025 10:38:31 GMT | Chaining Unauthorized User Registration, Broken Access Control, and Insecure CSRF Token Exposure to… | Sulabh Jain | [Read More](https://medium.com/p/4c2897e261ad) |
+| Mon, 26 May 2025 10:35:32 GMT | Olxton Group Review – Total Scam | Kevin P. hamilton | [Read More](https://medium.com/p/11fcf14e5a5e) |
+| Mon, 26 May 2025 10:33:08 GMT | The Hidden Risks in Plain Sight: Third-Party Breaches and the Growing Web of Cyber Threats | Siva Gunasekaran | [Read More](https://medium.com/p/5f778232778e) |
+| Mon, 26 May 2025 10:29:04 GMT | Lumichart Review – How I Recovered My Funds After Being Scammed | Isreal C. Garner | [Read More](https://medium.com/p/52b02177c5e6) |
+| Mon, 26 May 2025 10:28:09 GMT | Why Is Zero Trust Architecture Key to Network Security in 2025? | Generative AI Blog | [Read More](https://medium.com/p/eb5568b8c913) |
+| Mon, 26 May 2025 10:27:11 GMT | Here’s How I Recovered My Money From Lumichart | Isreal C. Garner | [Read More](https://medium.com/p/af07e75c462f) |
+| Mon, 26 May 2025 10:24:37 GMT | Precision at the Core: The Rise of Thin Film Platinum Resistance Temperature Sensors (2025–2033) | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/af8afa7e6e5e) |
+| Mon, 26 May 2025 10:21:39 GMT | Web Application Security Testing Services: Latest Trends & What Businesses Need to Know in 2025 | Sureshnextwebi | [Read More](https://medium.com/p/096ad286187f) |
+| Mon, 26 May 2025 10:20:56 GMT | Balancing Acts in System Design: Real-World Trade-Offs That Shaped Tech Giants | Preeti Singh | [Read More](https://medium.com/p/f7910d74d5bd) |
+| Mon, 26 May 2025 10:20:07 GMT | La révolution industrielle | Florent M | [Read More](https://medium.com/p/b79cd8f5e255) |
+| Mon, 26 May 2025 10:15:54 GMT | Bug Bounty — Mail Injection | Zatikyan Sevada | [Read More](https://medium.com/p/6ec9ffefc24b) |
+| Mon, 26 May 2025 10:15:54 GMT | Understand the MITRE ATT&CK Framework in 2 Minutes — A Simple Guide for Cybersecurity Beginners | Surya Teja | [Read More](https://medium.com/p/124743f4fc59) |
+| Mon, 26 May 2025 10:15:48 GMT | Have a Personal Website? Your Data May Be on These Dark Web Pages! | Yildiz Culcu | [Read More](https://medium.com/p/fe5fa928e004) |
+| Mon, 26 May 2025 10:14:30 GMT | Threat of TCC Bypasses on macOS | Karol Mazurek | [Read More](https://medium.com/p/45948bc89a9a) |
+| Mon, 26 May 2025 10:09:33 GMT | Securing WordPress in Docker with CrowdSec and Traefik | Elox Tech | [Read More](https://medium.com/p/13cd82105364) |
 | Mon, 26 May 2025 10:02:25 GMT | Troubleshooting IAM Roles Anywhere: aws_signing_helper on ARM-based Systems | Hilda Machando | [Read More](https://medium.com/p/3e9d347c7a3f) |
 | Mon, 26 May 2025 10:00:58 GMT | AWS EC2 Security: Best Practices and Challenges | Ali | [Read More](https://medium.com/p/5a190c571240) |
 | Mon, 26 May 2025 09:58:11 GMT | Secrets Management in DevOps: Vault, AWS Secrets Manager & More | Mahesh Ravaji | [Read More](https://medium.com/p/2ab8fe61bb07) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 03:23:15 GMT | Building a Safe Virtual Malware Lab with FlareVM and REMnux | Chirag Ghotikar | [Read More](https://medium.com/p/8bb16490a1be) |
 | Mon, 26 May 2025 03:19:57 GMT | How I Put a Production App into Maintenance Mode via a Leaked Azure App Configuration Key | Rhenzo Verdad | [Read More](https://medium.com/p/3d3246557d63) |
 | Mon, 26 May 2025 03:08:14 GMT | Reliable Security Guard Services in California by M4 Security Guard | Yousaf Khan | [Read More](https://medium.com/p/4bf8321a37ae) |
-| Mon, 26 May 2025 03:05:17 GMT | What Is Ticket Scalping and How Can You Do It Securely | GeeLark | [Read More](https://medium.com/p/b86c7c750455) |
-| Mon, 26 May 2025 03:02:38 GMT | Host & Network Penetration Testing System-Host Based Attacks CTF 2 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/b44521fae3e4) |
-| Mon, 26 May 2025 02:55:23 GMT | Inside the Mind of a Machine: The Red Teaming War to Jailbreak AI | Swapnil | [Read More](https://medium.com/p/e9165116e575) |
-| Mon, 26 May 2025 02:40:41 GMT | Who could ever leave me, darling? But who could stay? | suraya | [Read More](https://medium.com/p/62aa9921f9c7) |
-| Mon, 26 May 2025 02:30:19 GMT | Building a lab | Sam Singh | [Read More](https://medium.com/p/3f3cd5067ef7) |
-| Mon, 26 May 2025 02:09:01 GMT | Set up domain leak alerts in 3 minutes with LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/ba576125aa71) |
-| Mon, 26 May 2025 01:37:38 GMT | Parental Controls 101: How to Keep Your Kids Safe Online Without Being the ‘Bad Guy’ | Samir Karim | [Read More](https://medium.com/p/38c3d74a5ef2) |
-| Mon, 26 May 2025 01:30:54 GMT | Cyberbullies Almost Broke My Child, Here’s How We Fought Back | Samir Karim | [Read More](https://medium.com/p/75b6bbcb9aec) |
-| Mon, 26 May 2025 01:27:52 GMT | Apple Patches Two Actively Exploited Vulnerabilities — Just Playing Audio Could Compromise Your… | Hazko-stack | [Read More](https://medium.com/p/8a630cfb0287) |
-| Mon, 26 May 2025 01:26:05 GMT | 184 Million Passwords Found in Huge Breach — Check If You’re Affected | Sareena | [Read More](https://medium.com/p/7f41ff68622b) |
-| Mon, 26 May 2025 01:15:34 GMT | My Token, Your Token, Whose Token? Understanding CSRF through Portswigger’s Web Security Academy | Rhythm Babu Kafle | [Read More](https://medium.com/p/eab11dabfa71) |
-| Mon, 26 May 2025 01:01:59 GMT | สรุปก่อนสอบ Certified in Cybersecurity | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/fe2dd4fc847d) |
-| Mon, 26 May 2025 00:52:40 GMT | EternalBlue: Rise and Fall of a Cyber Weapon | Patricio Burattini | [Read More](https://medium.com/p/f01f6da9fdd9) |
-| Mon, 26 May 2025 00:52:10 GMT | Wave Hands Like Clouds: Episode 4 — Secure and Efficient Infrastructure Management | Jason McKenzie | [Read More](https://medium.com/p/316e1339b1bc) |
-| Mon, 26 May 2025 00:36:50 GMT | OTP bypassed by using luck infused logical thinking bug report | Muthu | [Read More](https://medium.com/p/fd836120d028) |
-| Mon, 26 May 2025 00:22:58 GMT | Splunk: Exploring SPL Tryhackme Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/7970923ecdea) |
