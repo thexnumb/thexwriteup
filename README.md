@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 19:34:17 GMT | Securing AI Systems in Federal Agencies: Challenges and Best Practices | Dr. Joseph J. Burt-Miller Jr. | [Read More](https://medium.com/p/75bec67fda1a) |
+| Mon, 26 May 2025 19:28:50 GMT | Semgrep for SaaS Companies in the Era of AI: A Practical Guide to Boost Your Security | Deepak Garg | [Read More](https://medium.com/p/7281dc885d42) |
+| Mon, 26 May 2025 19:21:30 GMT | CTF Write-up: DanaBot(Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/51037164e3ce) |
+| Mon, 26 May 2025 19:16:40 GMT | Threat Detection via Windows Registry | Esra Kayhan | [Read More](https://medium.com/p/57abbb83eb46) |
+| Mon, 26 May 2025 19:13:04 GMT | Context Cancellation Chains: The Bug That Took Down Our Payment System | CaffeinatedCoder | [Read More](https://medium.com/p/1b48525edaa9) |
 | Mon, 26 May 2025 19:12:15 GMT | Defensive System Prompt: a Short Study | Tomer Wetzler | [Read More](https://medium.com/p/5637cb2d5700) |
 | Mon, 26 May 2025 19:11:26 GMT | Why XSS Can Help You Get Your First Bug Bounty: A Beginner’s Deep-Dive | Asif Ebrahim | [Read More](https://medium.com/p/706226a04d09) |
 | Mon, 26 May 2025 19:08:16 GMT | Beware of Brushing Scams: A Hidden Threat to Shoppers | Xaltius | [Read More](https://medium.com/p/fe2f7aac0c71) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 13:48:42 GMT | Crypto Regulations in Nigeria: What You Need to Know | Roqqu Pay | [Read More](https://medium.com/p/19ef113b90de) |
 | Mon, 26 May 2025 13:42:39 GMT | Here’s how I got my withdrawal from AlgoForexFunds | Daniel Martins | [Read More](https://medium.com/p/e89e8522c23a) |
 | Mon, 26 May 2025 13:39:16 GMT | What should I do to recover my money from Optimal Traders ? | Daniel Martins | [Read More](https://medium.com/p/3a8ec98e1bc7) |
-| Mon, 26 May 2025 13:39:16 GMT | Dark Partners: The crypto heist adventure of Poseidon Stealer and Payday Loader | g0njxa | [Read More](https://medium.com/p/c91382fac5c8) |
-| Mon, 26 May 2025 13:37:12 GMT | How One Password Crashed a Pipeline — and How Cisco Meraki MX Could Have Stopped It? | Inexa Technology | [Read More](https://medium.com/p/8f604ba67957) |
-| Mon, 26 May 2025 13:37:06 GMT | Cyber Briefing: 2025–05–26 | CyberMaterial | [Read More](https://medium.com/p/71f203d416a9) |
-| Mon, 26 May 2025 13:28:15 GMT | Introduction to Hashcat: Your Complete Guide to Password Cracking | Krishdograa | [Read More](https://medium.com/p/9772021eae6f) |
-| Mon, 26 May 2025 13:24:57 GMT | Fileless Injection with memfd_create | LordShen | [Read More](https://medium.com/p/8410d429c0e0) |
