@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 15:34:13 GMT | Is it possible to get my money back from Mirrox ? | Martins Harry | [Read More](https://medium.com/p/ef232943d7e3) |
+| Mon, 26 May 2025 15:25:23 GMT | Ready to swap cyber-confusion for laugh-out-loud “Aha!” | Rmz Elshimy | [Read More](https://medium.com/p/b1d7115da0e8) |
+| Mon, 26 May 2025 15:25:10 GMT | This is The Easiest Bug You Can Find✨ | Abhijeet Kumawat | [Read More](https://medium.com/p/e50e0b68c641) |
 | Mon, 26 May 2025 15:19:33 GMT | Leaking NetNTLM Hashes via SSRF Using UNC Paths (Windows) | Shubham Sonani | [Read More](https://medium.com/p/9c37e17b5041) |
 | Mon, 26 May 2025 15:15:55 GMT | What can I do to recover my money from IfexCapital ? | James Williams | [Read More](https://medium.com/p/8f8f001898f7) |
 | Mon, 26 May 2025 15:15:47 GMT | Why Fuzzing Matters: Real Incidents That Prove the Power of Smart Endpoint Discovery | Vijay Kumar Lohani | [Read More](https://medium.com/p/60cdc8a7b1ff) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 10:42:07 GMT | Everything You Should Know About STON.fi’s $500K Bug Bounty Program | BlaqBobby | [Read More](https://medium.com/p/d8007c9d618b) |
 | Mon, 26 May 2025 10:38:31 GMT | Chaining Unauthorized User Registration, Broken Access Control, and Insecure CSRF Token Exposure to… | Sulabh Jain | [Read More](https://medium.com/p/4c2897e261ad) |
 | Mon, 26 May 2025 10:35:32 GMT | Olxton Group Review – Total Scam | Kevin P. hamilton | [Read More](https://medium.com/p/11fcf14e5a5e) |
-| Mon, 26 May 2025 10:33:08 GMT | The Hidden Risks in Plain Sight: Third-Party Breaches and the Growing Web of Cyber Threats | Siva Gunasekaran | [Read More](https://medium.com/p/5f778232778e) |
-| Mon, 26 May 2025 10:29:04 GMT | Lumichart Review – How I Recovered My Funds After Being Scammed | Isreal C. Garner | [Read More](https://medium.com/p/52b02177c5e6) |
-| Mon, 26 May 2025 10:28:09 GMT | Why Is Zero Trust Architecture Key to Network Security in 2025? | Generative AI Blog | [Read More](https://medium.com/p/eb5568b8c913) |
