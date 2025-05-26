@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 04:22:25 GMT | Reentrancy Bugs: Why They Still Break Smart Contracts | Nautiyal | [Read More](https://medium.com/p/a83fac409a53) |
+| Mon, 26 May 2025 04:11:31 GMT | Building a Personal Malware-Analysis Lab | Dhruv Saikia | [Read More](https://medium.com/p/67c30acdae97) |
+| Mon, 26 May 2025 04:06:08 GMT | Is Your Smart Fridge Helping Hackers While You Shop for Pajama Pants? | Tina Ginn | [Read More](https://medium.com/p/1b6fa814525a) |
+| Mon, 26 May 2025 04:02:37 GMT | A Practical Guide to Administering Microsoft Security Center | Jacky Yau | [Read More](https://medium.com/p/a70471110ae0) |
+| Mon, 26 May 2025 03:57:45 GMT | ️ How to Set Up REMnux for Malware Analysis (Step-by-Step for Beginners) | Ravi Kiran Kambhampati | [Read More](https://medium.com/p/1b6d7c5e7690) |
 | Mon, 26 May 2025 03:53:42 GMT | How I Use Fail2Ban on Ubuntu and Linux to Block Attackers Before They Get In | Faruk Ahmed | [Read More](https://medium.com/p/fdb848ce9c6c) |
 | Mon, 26 May 2025 03:48:08 GMT | Facing the DDoS Threat: Cybersecurity, Network, and Protection Solutions | Mohammad Ferdiansah Rahmadani | [Read More](https://medium.com/p/f031a48274c1) |
+| Mon, 26 May 2025 03:46:51 GMT | 7 Best Practices for Sanitizing Input in Node.js | Arunangshu Das | [Read More](https://medium.com/p/e61638440096) |
 | Mon, 26 May 2025 03:33:31 GMT | Building Your Own Malware Analysis Lab: A Complete Setup Guide with FlareVM and REMnux | Mohammed | [Read More](https://medium.com/p/699486578d1b) |
 | Mon, 26 May 2025 03:23:36 GMT | Top 10 Cybersecurity Myths You Should Stop Believing | Ivo Pereira | [Read More](https://medium.com/p/c69feb2ded20) |
 | Mon, 26 May 2025 03:23:15 GMT | Building a Safe Virtual Malware Lab with FlareVM and REMnux | Chirag Ghotikar | [Read More](https://medium.com/p/8bb16490a1be) |
@@ -108,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 17:54:48 GMT | Everyone wants into your account | Fred Showker | [Read More](https://medium.com/p/5ac811207c81) |
 | Sun, 25 May 2025 17:52:01 GMT | Is SSL Dead? Understanding the Evolution of Web Security | Jobin J | [Read More](https://medium.com/p/8a2648a0a55b) |
 | Sun, 25 May 2025 17:40:55 GMT | Lessons from Breaking Production (So You Don’t Have to) | Abhinav | [Read More](https://medium.com/p/a377b4c660b7) |
-| Sun, 25 May 2025 17:36:47 GMT | The dangerous game — Phishing | M Dilip Kumar Reddy | [Read More](https://medium.com/p/03d86af8fad8) |
-| Sun, 25 May 2025 17:35:45 GMT | 0x00 Welcome to my new blog | Synchr0niz3d | [Read More](https://medium.com/p/111d030fcfdd) |
-| Sun, 25 May 2025 17:28:28 GMT | Smart Contract Bugs Caused by Unexpected State Changes | Nautiyal | [Read More](https://medium.com/p/54c1ba136f21) |
-| Sun, 25 May 2025 17:21:44 GMT | Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint | Aditya Bhatt | [Read More](https://medium.com/p/68da63caf005) |
-| Sun, 25 May 2025 17:04:43 GMT | Building a SOC Analyst Home Lab | Harsh Sharma | [Read More](https://medium.com/p/a172154d34de) |
-| Sun, 25 May 2025 16:57:30 GMT | Try Hack Me: Mayhem | Sanidhya Mall | [Read More](https://medium.com/p/0927a5953bb0) |
