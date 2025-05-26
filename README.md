@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 15:19:33 GMT | Leaking NetNTLM Hashes via SSRF Using UNC Paths (Windows) | Shubham Sonani | [Read More](https://medium.com/p/9c37e17b5041) |
+| Mon, 26 May 2025 15:15:55 GMT | What can I do to recover my money from IfexCapital ? | James Williams | [Read More](https://medium.com/p/8f8f001898f7) |
+| Mon, 26 May 2025 15:15:47 GMT | Why Fuzzing Matters: Real Incidents That Prove the Power of Smart Endpoint Discovery | Vijay Kumar Lohani | [Read More](https://medium.com/p/60cdc8a7b1ff) |
+| Mon, 26 May 2025 15:12:48 GMT | Staying Ahead of the Storm: Why Proactive Security Is a Business Imperative | Mark Vena | [Read More](https://medium.com/p/0c34e1cf19f1) |
+| Mon, 26 May 2025 15:09:55 GMT | ThreatHunter Chronicles | ThreatHunter Chronicles | [Read More](https://medium.com/p/b468d7edc4a5) |
+| Mon, 26 May 2025 15:01:38 GMT | Day 47: Network Attacks: SYN Flood, Smurf, and DoS | Agarwaldaksh | [Read More](https://medium.com/p/b6871b0a895e) |
+| Mon, 26 May 2025 14:56:56 GMT | The $10 Billion Problem Nobody’s Talking About: Employee Access Management | Dr. Shashi Karhail | [Read More](https://medium.com/p/7e8850335e8c) |
+| Mon, 26 May 2025 14:55:25 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Arepally Sri Sowkya | [Read More](https://medium.com/p/9b5db9e48b90) |
+| Mon, 26 May 2025 14:53:01 GMT | Beginner's Guide to $CVE Yield Generation on StakingRewards | CVE | [Read More](https://medium.com/p/1b3bb2f3282c) |
+| Mon, 26 May 2025 14:46:49 GMT | Social Media Widgets and Privacy | Alvaro Montoro | [Read More](https://medium.com/p/9c01cef736d4) |
+| Mon, 26 May 2025 14:45:47 GMT | Trust. Code. A Tiny Backdoor. | Cfir Aguston | [Read More](https://medium.com/p/bee4d51e505f) |
+| Mon, 26 May 2025 14:44:13 GMT | Why Attack Surface Management (ASM) Is the First Step Toward Proactive Cybersecurity | Punit Kumar | [Read More](https://medium.com/p/63179567d0e9) |
+| Mon, 26 May 2025 14:38:50 GMT | Why Continuous Threat Exposure Management (CTEM) Is the Future of Pentesting: A Look into Modern… | Punit Kumar | [Read More](https://medium.com/p/1cc21875300b) |
+| Mon, 26 May 2025 14:38:25 GMT | Here’s how i recover my money from Tradeeuglobal | Kelvin | [Read More](https://medium.com/p/7b735b06f889) |
 | Mon, 26 May 2025 14:37:52 GMT | Day 7 of my AWS Pentesting Journey — Secrets in SNS | mauzware | [Read More](https://medium.com/p/a8fb510a307d) |
+| Mon, 26 May 2025 14:36:54 GMT | Nmap and its excellence | Manan Chadha | [Read More](https://medium.com/p/185a9feeb80c) |
 | Mon, 26 May 2025 14:36:27 GMT | The Cybersecurity Transformation: Building Security from First Principles with Foundation Models | Eric Zietlow | [Read More](https://medium.com/p/d66a1d07ba57) |
 | Mon, 26 May 2025 14:32:24 GMT | Lab: Exploiting server-side parameter pollution in a query string | Mukilan Baskaran | [Read More](https://medium.com/p/e07a341c44d5) |
 | Mon, 26 May 2025 14:26:50 GMT | Smuggling in the Web World: Understanding HTTP Request Smuggling with examples | Ud4y | [Read More](https://medium.com/p/9094ac400d16) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 10:33:08 GMT | The Hidden Risks in Plain Sight: Third-Party Breaches and the Growing Web of Cyber Threats | Siva Gunasekaran | [Read More](https://medium.com/p/5f778232778e) |
 | Mon, 26 May 2025 10:29:04 GMT | Lumichart Review – How I Recovered My Funds After Being Scammed | Isreal C. Garner | [Read More](https://medium.com/p/52b02177c5e6) |
 | Mon, 26 May 2025 10:28:09 GMT | Why Is Zero Trust Architecture Key to Network Security in 2025? | Generative AI Blog | [Read More](https://medium.com/p/eb5568b8c913) |
-| Mon, 26 May 2025 10:27:11 GMT | Here’s How I Recovered My Money From Lumichart | Isreal C. Garner | [Read More](https://medium.com/p/af07e75c462f) |
-| Mon, 26 May 2025 10:24:37 GMT | Precision at the Core: The Rise of Thin Film Platinum Resistance Temperature Sensors (2025–2033) | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/af8afa7e6e5e) |
-| Mon, 26 May 2025 10:21:39 GMT | Web Application Security Testing Services: Latest Trends & What Businesses Need to Know in 2025 | Sureshnextwebi | [Read More](https://medium.com/p/096ad286187f) |
-| Mon, 26 May 2025 10:20:56 GMT | Balancing Acts in System Design: Real-World Trade-Offs That Shaped Tech Giants | Preeti Singh | [Read More](https://medium.com/p/f7910d74d5bd) |
-| Mon, 26 May 2025 10:20:07 GMT | La révolution industrielle | Florent M | [Read More](https://medium.com/p/b79cd8f5e255) |
-| Mon, 26 May 2025 10:15:54 GMT | Bug Bounty — Mail Injection | Zatikyan Sevada | [Read More](https://medium.com/p/6ec9ffefc24b) |
-| Mon, 26 May 2025 10:15:54 GMT | Understand the MITRE ATT&CK Framework in 2 Minutes — A Simple Guide for Cybersecurity Beginners | Surya Teja | [Read More](https://medium.com/p/124743f4fc59) |
-| Mon, 26 May 2025 10:15:48 GMT | Have a Personal Website? Your Data May Be on These Dark Web Pages! | Yildiz Culcu | [Read More](https://medium.com/p/fe5fa928e004) |
-| Mon, 26 May 2025 10:14:30 GMT | Threat of TCC Bypasses on macOS | Karol Mazurek | [Read More](https://medium.com/p/45948bc89a9a) |
-| Mon, 26 May 2025 10:09:33 GMT | Securing WordPress in Docker with CrowdSec and Traefik | Elox Tech | [Read More](https://medium.com/p/13cd82105364) |
-| Mon, 26 May 2025 10:02:25 GMT | Troubleshooting IAM Roles Anywhere: aws_signing_helper on ARM-based Systems | Hilda Machando | [Read More](https://medium.com/p/3e9d347c7a3f) |
-| Mon, 26 May 2025 10:00:58 GMT | AWS EC2 Security: Best Practices and Challenges | Ali | [Read More](https://medium.com/p/5a190c571240) |
-| Mon, 26 May 2025 09:58:11 GMT | Secrets Management in DevOps: Vault, AWS Secrets Manager & More | Mahesh Ravaji | [Read More](https://medium.com/p/2ab8fe61bb07) |
-| Mon, 26 May 2025 09:56:33 GMT | بهترین ماشین‌ اصلاح - 6 نکته طلایی + راهنمای خرید کامل | Sina Sarkhosh | [Read More](https://medium.com/p/f304210c69c8) |
-| Mon, 26 May 2025 09:55:02 GMT | Scammed by TikMining? Here's How I Got My Money Back | Cynthia.P.penton | [Read More](https://medium.com/p/31c7e9f28fcd) |
