@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 14:16:53 GMT | Fighting the Fog: Chinese and Pakistani Disinformation Against India — And How We Can Counter It | Sitinoldae | [Read More](https://medium.com/p/1ac0e91dc4fa) |
+| Mon, 26 May 2025 14:14:06 GMT | How CoinCollectExperts Helped Me Recover My BTC After a Fake Hack Online | Jurgenhans | [Read More](https://medium.com/p/1c11c8ca6783) |
+| Mon, 26 May 2025 14:11:40 GMT | BFLA(Broken Function Level Authorization) em ONT’s Huawei EG8141A5, EG8145V5, EG8145V5-V2 | João Cavalcante | [Read More](https://medium.com/p/d228ac36c4ee) |
+| Mon, 26 May 2025 14:09:12 GMT | Linking Network and Endpoint Telemetry with Community ID | Kaviarasan Asokan | [Read More](https://medium.com/p/c5ba72cf10f6) |
+| Mon, 26 May 2025 14:02:34 GMT | What to Expect From This Cybersecurity Page Going Forward | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/4dad9e49eeb3) |
+| Mon, 26 May 2025 14:02:32 GMT | What I’ve Learned After 10 Days of #60DaysofGRC | Brittney Ginther | [Read More](https://medium.com/p/d0ae306f7299) |
+| Mon, 26 May 2025 13:55:54 GMT | GRecon: A Professional Network Reconnaissance & Vulnerability Assessment Tool | Mohamed Gebril | [Read More](https://medium.com/p/3962165304bc) |
+| Mon, 26 May 2025 13:54:29 GMT | Cybersecurity in Education: Protecting Student Data in a Digital World | Cybersecurity Umbrella | [Read More](https://medium.com/p/b7967535d4cb) |
+| Mon, 26 May 2025 13:52:27 GMT | SOC Lab: Tracking 75K+ Real-World Brute-Force Attacks Using Microsoft Sentinel | Abdulkadir Ibrahim | [Read More](https://medium.com/p/f9b7eff34df5) |
+| Mon, 26 May 2025 13:48:42 GMT | Crypto Regulations in Nigeria: What You Need to Know | Roqqu Pay | [Read More](https://medium.com/p/19ef113b90de) |
+| Mon, 26 May 2025 13:42:39 GMT | Here’s how I got my withdrawal from AlgoForexFunds | Daniel Martins | [Read More](https://medium.com/p/e89e8522c23a) |
+| Mon, 26 May 2025 13:39:16 GMT | What should I do to recover my money from Optimal Traders ? | Daniel Martins | [Read More](https://medium.com/p/3a8ec98e1bc7) |
+| Mon, 26 May 2025 13:39:16 GMT | Dark Partners: The crypto heist adventure of Poseidon Stealer and Payday Loader | g0njxa | [Read More](https://medium.com/p/c91382fac5c8) |
+| Mon, 26 May 2025 13:37:12 GMT | How One Password Crashed a Pipeline — and How Cisco Meraki MX Could Have Stopped It? | Inexa Technology | [Read More](https://medium.com/p/8f604ba67957) |
+| Mon, 26 May 2025 13:37:06 GMT | Cyber Briefing: 2025–05–26 | CyberMaterial | [Read More](https://medium.com/p/71f203d416a9) |
+| Mon, 26 May 2025 13:28:15 GMT | Introduction to Hashcat: Your Complete Guide to Password Cracking | Krishdograa | [Read More](https://medium.com/p/9772021eae6f) |
 | Mon, 26 May 2025 13:24:57 GMT | Fileless Injection with memfd_create | LordShen | [Read More](https://medium.com/p/8410d429c0e0) |
 | Mon, 26 May 2025 13:22:55 GMT | Cyber Security SEO Tips 2025 | Grandahsan | [Read More](https://medium.com/p/d6fca97a3e46) |
 | Mon, 26 May 2025 13:20:41 GMT | Day 3: DOM XSS in innerHTML sink using source location.search: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/3795cf43eab7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 09:50:26 GMT | Why eCommerce Cloud Security Is Your Business’s Silent Superpower (And How to Get It Right) | RBM Software | [Read More](https://medium.com/p/e9c4ed83f260) |
 | Mon, 26 May 2025 09:49:33 GMT | Exploiting Server-Side Parameter Pollution in Query Strings — An API Hacking Tale | Aditya Bhatt | [Read More](https://medium.com/p/db68094f971f) |
 | Mon, 26 May 2025 09:47:39 GMT | Silent Intrusion: TA-ShadowCricket’s Decade-Long Espionage in Asia-Pacific | Avnishyam | [Read More](https://medium.com/p/dbb73adcb1de) |
-| Mon, 26 May 2025 09:47:27 GMT | Hacking Chess.com: How I Unlocked Unlimited Lessons in Chess.com | Faheem Anis | [Read More](https://medium.com/p/65572b613d28) |
-| Mon, 26 May 2025 09:38:57 GMT | Top 10 Worst Cyber Crimes Analysed | Crawsec | [Read More](https://medium.com/p/67785a50301f) |
-| Mon, 26 May 2025 09:29:04 GMT | GOAD Part 3: The Art of Extraction - Roasting and Poisoning for Domain Dominance | Cyb3rByte | [Read More](https://medium.com/p/240aa6490dd1) |
-| Mon, 26 May 2025 09:25:27 GMT | Legacy System | Century Solutions Group | [Read More](https://medium.com/p/f8694d3352b4) |
-| Mon, 26 May 2025 09:11:41 GMT | Comprehensive Recon Guide | Meravytes | [Read More](https://medium.com/p/6c8978537945) |
-| Mon, 26 May 2025 09:09:53 GMT | ️ 9 Security Hardening CronJobs for Kubernetes | Devops Trainer | [Read More](https://medium.com/p/6efba87cbfa3) |
-| Mon, 26 May 2025 09:06:32 GMT | Anything but IT | Yaara | [Read More](https://medium.com/p/c459f47f791a) |
-| Mon, 26 May 2025 08:47:27 GMT | Bonus Harvesting and Severance Surfing: The Gig Economy of Enterprise IT | Namir Sagheenanajar | [Read More](https://medium.com/p/1bda9ae0cc4e) |
-| Mon, 26 May 2025 08:43:13 GMT | DC: 6— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/859bf8525cf1) |
-| Mon, 26 May 2025 08:41:12 GMT | Debug methodology guide written by Tamarisk — OffsecExam | OffsecExam - Tamarisk | [Read More](https://medium.com/p/589a76e789a3) |
-| Mon, 26 May 2025 08:40:51 GMT | How Hack The Hackers Help Prevent DataBreach. | Amaira dutta | [Read More](https://medium.com/p/26622133c50c) |
-| Mon, 26 May 2025 08:33:39 GMT | Strong Enough For You Yet? | Mark | [Read More](https://medium.com/p/d369ece1c5fa) |
-| Mon, 26 May 2025 08:30:48 GMT | The Clipboard Agent Leak | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/272bdb241cce) |
-| Mon, 26 May 2025 08:27:48 GMT | Walkthrough THM Surfer | Telynor | [Read More](https://medium.com/p/bb83c464c2bd) |
-| Mon, 26 May 2025 08:20:06 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Mohammed Ali Mistry | [Read More](https://medium.com/p/8a0accdf9964) |
-| Mon, 26 May 2025 08:12:48 GMT | Ping Of Death Attack - DOS Attack | Alibinazam | [Read More](https://medium.com/p/167fa78f8b2f) |
