@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 18:47:02 GMT | Explain SQL Injection Types and Sub-type | Altayeb Salim | [Read More](https://medium.com/p/0a6197e2c27e) |
 | Mon, 26 May 2025 18:26:05 GMT | YouMade | Muhammad Tarek | [Read More](https://medium.com/p/c25e3ea337e3) |
 | Mon, 26 May 2025 18:22:27 GMT | Android 15 : Important changes for developers | Prakash Sharma | [Read More](https://medium.com/p/43a404d589c2) |
 | Mon, 26 May 2025 18:18:22 GMT | Love Never Goes to Waste: The Law of Return in Nature and Spirit | Groovy Spirit Realm | [Read More](https://medium.com/p/5cb709233b43) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 12:56:44 GMT | The Best Free VPNs in 2025: Which One Actually Deserves Your Trust? | Yousuff Mustapha | [Read More](https://medium.com/p/284c3012c773) |
 | Mon, 26 May 2025 12:45:02 GMT | How I safely Promoted the UUID to Primary Key in my SDMS Django Project: with Complex ForeignKey… | Lawal Tajudeen | [Read More](https://medium.com/p/ee0eeeb9d1e5) |
 | Mon, 26 May 2025 12:39:37 GMT | Software Devs Are Panicking About AI ..  Here’s Why Cybersecurity Is a Smart Escape Route | Taimur Ijlal | [Read More](https://medium.com/p/07bc9c1553c8) |
-| Mon, 26 May 2025 12:34:38 GMT | Organization Takeover via Privilege Escalation (IDOR) | Ehtesham Ul Haq | [Read More](https://medium.com/p/14786a2fa174) |
