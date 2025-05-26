@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 19:12:15 GMT | Defensive System Prompt: a Short Study | Tomer Wetzler | [Read More](https://medium.com/p/5637cb2d5700) |
+| Mon, 26 May 2025 19:11:26 GMT | Why XSS Can Help You Get Your First Bug Bounty: A Beginner’s Deep-Dive | Asif Ebrahim | [Read More](https://medium.com/p/706226a04d09) |
+| Mon, 26 May 2025 19:08:16 GMT | Beware of Brushing Scams: A Hidden Threat to Shoppers | Xaltius | [Read More](https://medium.com/p/fe2f7aac0c71) |
+| Mon, 26 May 2025 19:07:30 GMT | CryptoXpress: Simplifying the Web3 Journey Through Smart Integration | Aubreyjay | [Read More](https://medium.com/p/577b12cd272f) |
+| Mon, 26 May 2025 19:07:02 GMT | Stop Letting AI Steal the Show | Cheryl Abram | [Read More](https://medium.com/p/a7721edeb1da) |
+| Mon, 26 May 2025 19:04:21 GMT | Prevention Techniques for Top 10 Common Cyber Attacks | Xaltius | [Read More](https://medium.com/p/2f4939be7545) |
+| Mon, 26 May 2025 19:01:58 GMT | SOC117 — EventID 50 — Suspicious .reg File |  | [Read More](https://medium.com/p/621f2e7ef339) |
+| Mon, 26 May 2025 19:01:49 GMT | The Passwordless and Keyless Future of Authentication | Xaltius | [Read More](https://medium.com/p/0d4434febe44) |
+| Mon, 26 May 2025 18:55:04 GMT | The Security Laws Every IT Professional in Kenya Should Know (And Why They Matter) | Brian Murunga | [Read More](https://medium.com/p/0ef071f2b623) |
+| Mon, 26 May 2025 18:53:17 GMT | How to Get the Most Out of Your $LFI Yield Farming on StakingRewards | LFI | [Read More](https://medium.com/p/0ce50977e0e2) |
+| Mon, 26 May 2025 18:52:07 GMT | How to Safely Meet People From Online In Person | Savvy Cyber Kids | [Read More](https://medium.com/p/b45cec6f6d33) |
+| Mon, 26 May 2025 18:48:15 GMT | Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto | Ekene Joseph | [Read More](https://medium.com/p/c9053ead81f5) |
+| Mon, 26 May 2025 18:47:11 GMT | How are the feeds of Facebook, YouTube, and Instagram tailored to the user? | Savvy Cyber Kids | [Read More](https://medium.com/p/0ce27c10622a) |
 | Mon, 26 May 2025 18:47:02 GMT | Explain SQL Injection Types and Sub-type | Altayeb Salim | [Read More](https://medium.com/p/0a6197e2c27e) |
+| Mon, 26 May 2025 18:42:43 GMT | Understanding JSON Web Tokens: JWT Attacks and Prevention | Kshitiz Sharma | [Read More](https://medium.com/p/21307f456d16) |
+| Mon, 26 May 2025 18:40:09 GMT | Certified Red Team Professional (CRTP) Study Notes & Guide | Motasem Hamdan | [Read More](https://medium.com/p/e1ec46c02afe) |
 | Mon, 26 May 2025 18:26:05 GMT | YouMade | Muhammad Tarek | [Read More](https://medium.com/p/c25e3ea337e3) |
 | Mon, 26 May 2025 18:22:27 GMT | Android 15 : Important changes for developers | Prakash Sharma | [Read More](https://medium.com/p/43a404d589c2) |
 | Mon, 26 May 2025 18:18:22 GMT | Love Never Goes to Waste: The Law of Return in Nature and Spirit | Groovy Spirit Realm | [Read More](https://medium.com/p/5cb709233b43) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 13:37:06 GMT | Cyber Briefing: 2025–05–26 | CyberMaterial | [Read More](https://medium.com/p/71f203d416a9) |
 | Mon, 26 May 2025 13:28:15 GMT | Introduction to Hashcat: Your Complete Guide to Password Cracking | Krishdograa | [Read More](https://medium.com/p/9772021eae6f) |
 | Mon, 26 May 2025 13:24:57 GMT | Fileless Injection with memfd_create | LordShen | [Read More](https://medium.com/p/8410d429c0e0) |
-| Mon, 26 May 2025 13:22:55 GMT | Cyber Security SEO Tips 2025 | Grandahsan | [Read More](https://medium.com/p/d6fca97a3e46) |
-| Mon, 26 May 2025 13:20:41 GMT | Day 3: DOM XSS in innerHTML sink using source location.search: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/3795cf43eab7) |
-| Mon, 26 May 2025 13:18:20 GMT | Here’s how I recover r my money from 365BitcoinMiner | Wilson Benjamin | [Read More](https://medium.com/p/376a26af169d) |
-| Mon, 26 May 2025 13:17:35 GMT | Enhancing Safety with Car Park Security and CCTV Monitoring | Qadir Riaz | [Read More](https://medium.com/p/0bf28f846f7c) |
-| Mon, 26 May 2025 13:17:24 GMT | WHY ENCRYPTION IS A MUST ON WEBSITE (especially login pages ) | Abdulkadir Ibrahim | [Read More](https://medium.com/p/7b0af0a2ee16) |
-| Mon, 26 May 2025 13:10:05 GMT | All Cybersecurity Is Local When The Balloon Goes Up | Helen Patton | [Read More](https://medium.com/p/8722600f92d5) |
-| Mon, 26 May 2025 13:06:51 GMT | Is it possible to recover my money from Hexminer ? | Fred Martins | [Read More](https://medium.com/p/36f69ebf40d9) |
-| Mon, 26 May 2025 13:06:01 GMT | 某摄像头管理员密码修改0day | xiaoshi | [Read More](https://medium.com/p/c98f9b97ff9e) |
-| Mon, 26 May 2025 13:02:37 GMT | The Dark Side of Memes: When Humor Becomes a Cyber Threat | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2bf5d60cb949) |
-| Mon, 26 May 2025 13:02:18 GMT | xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs: A Wake-Up Call for AI Security | Ekene Joseph | [Read More](https://medium.com/p/2ec813a698d1) |
-| Mon, 26 May 2025 13:01:43 GMT | 10 Smart Steps to Choose the Right Security System for Your Commercial Property (And Avoid Costly… | Jessica Louise | [Read More](https://medium.com/p/f62bc45e9702) |
-| Mon, 26 May 2025 13:00:23 GMT | Comprehensive Security Testing Services: Safeguard Your Software from Cyber Threats | vaisak | [Read More](https://medium.com/p/ec027be4a59e) |
-| Mon, 26 May 2025 12:56:44 GMT | The Best Free VPNs in 2025: Which One Actually Deserves Your Trust? | Yousuff Mustapha | [Read More](https://medium.com/p/284c3012c773) |
-| Mon, 26 May 2025 12:45:02 GMT | How I safely Promoted the UUID to Primary Key in my SDMS Django Project: with Complex ForeignKey… | Lawal Tajudeen | [Read More](https://medium.com/p/ee0eeeb9d1e5) |
-| Mon, 26 May 2025 12:39:37 GMT | Software Devs Are Panicking About AI ..  Here’s Why Cybersecurity Is a Smart Escape Route | Taimur Ijlal | [Read More](https://medium.com/p/07bc9c1553c8) |
