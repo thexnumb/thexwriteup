@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 20:58:10 GMT | The Power of Complexity | Ed-it Editions | [Read More](https://medium.com/p/4d7c6ce64ae7) |
+| Mon, 26 May 2025 20:53:00 GMT | Application & Product Security 101: A Beginner’s Guide | Pratik Gaikwad | [Read More](https://medium.com/p/69cfc9f365ca) |
+| Mon, 26 May 2025 20:52:44 GMT | Threat Modeling: Hack-Proof Your Apps with Case Studies-Part1 | DrSecurityGuru | [Read More](https://medium.com/p/f2278a1fbcb7) |
+| Mon, 26 May 2025 20:50:10 GMT | Misconfigured OAuth = Instant Account Takeover (Even Before Signup!) | Ashok kumar pareek | [Read More](https://medium.com/p/62ae709c9f7e) |
+| Mon, 26 May 2025 20:45:52 GMT | Integrated Cyber Defense Implementation: Building a Unified Security Posture | Vivian Aranha | [Read More](https://medium.com/p/ae41e50654bc) |
+| Mon, 26 May 2025 20:45:26 GMT | Everything You Need to Know About JWT (JSON Web Tokens) for Secure Auth | Koushik | [Read More](https://medium.com/p/2f77b85e539e) |
+| Mon, 26 May 2025 20:38:30 GMT | Qasim Ali aka Kashif Boota Is a Scam Artist Exploiting IT Examination Dumps Students for Profit | aarav-sharma | [Read More](https://medium.com/p/43a6456cb6fd) |
 | Mon, 26 May 2025 20:35:17 GMT | Ghostly Hollowing | S12 - H4CK | [Read More](https://medium.com/p/3de4831c7a83) |
+| Mon, 26 May 2025 20:30:50 GMT | SQL MAP | Ali Karaoglan | [Read More](https://medium.com/p/2655bb190cb9) |
+| Mon, 26 May 2025 20:29:44 GMT | La direction comercialLE | Florent M | [Read More](https://medium.com/p/ea1cea18165b) |
 | Mon, 26 May 2025 20:27:16 GMT | TACACS+ ve RADIUS Arasındaki Farklar: Ağ Güvenliğinin Sessiz Kahramanları ️✨ | Emre Koç | [Read More](https://medium.com/p/91f31b038b3f) |
 | Mon, 26 May 2025 20:27:11 GMT | Understanding OWASP API Security: Safeguarding the Digital Backbone | Tanuj Shrivastava | [Read More](https://medium.com/p/79ddf75086d7) |
 | Mon, 26 May 2025 20:21:03 GMT | GAU — Get All URL’s | Snooptsz | [Read More](https://medium.com/p/45bd63ea678b) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 15:25:23 GMT | Ready to swap cyber-confusion for laugh-out-loud “Aha!” | Rmz Elshimy | [Read More](https://medium.com/p/b1d7115da0e8) |
 | Mon, 26 May 2025 15:25:10 GMT | This is The Easiest Bug You Can Find✨ | Abhijeet Kumawat | [Read More](https://medium.com/p/e50e0b68c641) |
 | Mon, 26 May 2025 15:19:33 GMT | Leaking NetNTLM Hashes via SSRF Using UNC Paths (Windows) | Shubham Sonani | [Read More](https://medium.com/p/9c37e17b5041) |
-| Mon, 26 May 2025 15:15:55 GMT | What can I do to recover my money from IfexCapital ? | James Williams | [Read More](https://medium.com/p/8f8f001898f7) |
-| Mon, 26 May 2025 15:15:47 GMT | Why Fuzzing Matters: Real Incidents That Prove the Power of Smart Endpoint Discovery | Vijay Kumar Lohani | [Read More](https://medium.com/p/60cdc8a7b1ff) |
-| Mon, 26 May 2025 15:12:48 GMT | Staying Ahead of the Storm: Why Proactive Security Is a Business Imperative | Mark Vena | [Read More](https://medium.com/p/0c34e1cf19f1) |
-| Mon, 26 May 2025 15:09:55 GMT | ThreatHunter Chronicles | ThreatHunter Chronicles | [Read More](https://medium.com/p/b468d7edc4a5) |
-| Mon, 26 May 2025 15:01:38 GMT | Day 47: Network Attacks: SYN Flood, Smurf, and DoS | Agarwaldaksh | [Read More](https://medium.com/p/b6871b0a895e) |
-| Mon, 26 May 2025 14:56:56 GMT | The $10 Billion Problem Nobody’s Talking About: Employee Access Management | Dr. Shashi Karhail | [Read More](https://medium.com/p/7e8850335e8c) |
-| Mon, 26 May 2025 14:55:25 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Arepally Sri Sowkya | [Read More](https://medium.com/p/9b5db9e48b90) |
-| Mon, 26 May 2025 14:53:01 GMT | Beginner's Guide to $CVE Yield Generation on StakingRewards | CVE | [Read More](https://medium.com/p/1b3bb2f3282c) |
-| Mon, 26 May 2025 14:46:49 GMT | Social Media Widgets and Privacy | Alvaro Montoro | [Read More](https://medium.com/p/9c01cef736d4) |
