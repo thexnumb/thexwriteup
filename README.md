@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 22:38:41 GMT | Build Your Own AI SOC — Final Post: What You’ve Built and Where to Go Next | Corey Jones | [Read More](https://medium.com/p/5526183318ac) |
+| Mon, 26 May 2025 22:36:45 GMT | Level Up Your Smart Contract Audits with 90 Real Vulnerability Reports | Np nate | [Read More](https://medium.com/p/12fb2eb934d3) |
+| Mon, 26 May 2025 22:25:52 GMT | Windows File System | Shamar Isaac | [Read More](https://medium.com/p/07eb005a9df5) |
+| Mon, 26 May 2025 22:22:28 GMT | Jira // Organised Choas | Omar El Saadawy | [Read More](https://medium.com/p/4effbe1af793) |
+| Mon, 26 May 2025 22:16:50 GMT | Network Protocols Explained | Karthikeyan Nagaraj | [Read More](https://medium.com/p/bdb04dd2c625) |
+| Mon, 26 May 2025 22:16:17 GMT | Can Orchid (OXT) VPN Enhance Privacy Against Quantum Threats in Cryptocurrency Networks? | Nick Gardner | [Read More](https://medium.com/p/d3b972625ac1) |
 | Mon, 26 May 2025 22:11:04 GMT | Virtual Honeypot System: My Research Project Outcome Evaluation | Pempho Chioza | [Read More](https://medium.com/p/0df6f38fbcbc) |
 | Mon, 26 May 2025 22:02:29 GMT | Menyelami Dunia Cyber Security: Memahami Dunia Cyber Security untuk Pemula | Rangga Ananda S | [Read More](https://medium.com/p/b7bb86a887ef) |
 | Mon, 26 May 2025 21:42:15 GMT | How to Choose the Right Cybersecurity Course in Saudi Arabia | Bradley Curtis | [Read More](https://medium.com/p/5c36948fa021) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 16:10:30 GMT | How AI is Powering a New Wave of Cyber Attacks: Real-World Cases | Anezaneo | [Read More](https://medium.com/p/f5cdfadaf912) |
 | Mon, 26 May 2025 16:03:05 GMT | Chaining of Information Disclosure leading to account takeover, Privilege Escalation due to… | Sulabh Jain | [Read More](https://medium.com/p/c85d7e61a00d) |
 | Mon, 26 May 2025 15:52:38 GMT | Why Every Growing Business Should Consider Managed IT Services for Comprehensive Cyber Security | Mobile Computer Repair | [Read More](https://medium.com/p/7918535c8c25) |
-| Mon, 26 May 2025 15:48:26 GMT | Unsafe File Inclusion and Weak Filtering: Write Up Overthewire Natas25 | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/f5d964a55885) |
-| Mon, 26 May 2025 15:44:50 GMT | Cryptography 101 | Bolaji Johnson | [Read More](https://medium.com/p/805c7b4fc5b4) |
-| Mon, 26 May 2025 15:44:42 GMT | File Upload Vulnerabilities | Chimiriki | [Read More](https://medium.com/p/adc033241993) |
-| Mon, 26 May 2025 15:44:19 GMT | How Can a Freelance Cybersecurity Blogger Revolutionize the IT Market in 2025? | Turtle Words | [Read More](https://medium.com/p/97c101ea68dc) |
-| Mon, 26 May 2025 15:41:59 GMT | Here’s how i recover my money from Aura Funded ? | Martins Harry | [Read More](https://medium.com/p/9e64db5241f4) |
-| Mon, 26 May 2025 15:34:13 GMT | Is it possible to get my money back from Mirrox ? | Martins Harry | [Read More](https://medium.com/p/ef232943d7e3) |
