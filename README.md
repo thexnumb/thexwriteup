@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 14:37:52 GMT | Day 7 of my AWS Pentesting Journey — Secrets in SNS | mauzware | [Read More](https://medium.com/p/a8fb510a307d) |
+| Mon, 26 May 2025 14:36:27 GMT | The Cybersecurity Transformation: Building Security from First Principles with Foundation Models | Eric Zietlow | [Read More](https://medium.com/p/d66a1d07ba57) |
+| Mon, 26 May 2025 14:32:24 GMT | Lab: Exploiting server-side parameter pollution in a query string | Mukilan Baskaran | [Read More](https://medium.com/p/e07a341c44d5) |
+| Mon, 26 May 2025 14:26:50 GMT | Smuggling in the Web World: Understanding HTTP Request Smuggling with examples | Ud4y | [Read More](https://medium.com/p/9094ac400d16) |
+| Mon, 26 May 2025 14:17:46 GMT | Spring Security Demystified: Everything You Need to Know (But No One Explained Clearly) | CodeTalks | [Read More](https://medium.com/p/ab81fe159f81) |
 | Mon, 26 May 2025 14:16:53 GMT | Fighting the Fog: Chinese and Pakistani Disinformation Against India — And How We Can Counter It | Sitinoldae | [Read More](https://medium.com/p/1ac0e91dc4fa) |
 | Mon, 26 May 2025 14:14:06 GMT | How CoinCollectExperts Helped Me Recover My BTC After a Fake Hack Online | Jurgenhans | [Read More](https://medium.com/p/1c11c8ca6783) |
 | Mon, 26 May 2025 14:11:40 GMT | BFLA(Broken Function Level Authorization) em ONT’s Huawei EG8141A5, EG8145V5, EG8145V5-V2 | João Cavalcante | [Read More](https://medium.com/p/d228ac36c4ee) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 09:58:11 GMT | Secrets Management in DevOps: Vault, AWS Secrets Manager & More | Mahesh Ravaji | [Read More](https://medium.com/p/2ab8fe61bb07) |
 | Mon, 26 May 2025 09:56:33 GMT | بهترین ماشین‌ اصلاح - 6 نکته طلایی + راهنمای خرید کامل | Sina Sarkhosh | [Read More](https://medium.com/p/f304210c69c8) |
 | Mon, 26 May 2025 09:55:02 GMT | Scammed by TikMining? Here's How I Got My Money Back | Cynthia.P.penton | [Read More](https://medium.com/p/31c7e9f28fcd) |
-| Mon, 26 May 2025 09:51:58 GMT | 7 Harsh Truths About Growth (Nobody Tells You This) | Godwin Newton | [Read More](https://medium.com/p/84f97ee8f7d5) |
-| Mon, 26 May 2025 09:51:36 GMT | From Inbox to Intrusion: How a Phishing Email Becomes a Breach | Brandon Dewater | [Read More](https://medium.com/p/c188cc0d8866) |
-| Mon, 26 May 2025 09:50:26 GMT | Why eCommerce Cloud Security Is Your Business’s Silent Superpower (And How to Get It Right) | RBM Software | [Read More](https://medium.com/p/e9c4ed83f260) |
-| Mon, 26 May 2025 09:49:33 GMT | Exploiting Server-Side Parameter Pollution in Query Strings — An API Hacking Tale | Aditya Bhatt | [Read More](https://medium.com/p/db68094f971f) |
-| Mon, 26 May 2025 09:47:39 GMT | Silent Intrusion: TA-ShadowCricket’s Decade-Long Espionage in Asia-Pacific | Avnishyam | [Read More](https://medium.com/p/dbb73adcb1de) |
