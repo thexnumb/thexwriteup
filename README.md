@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 20:35:17 GMT | Ghostly Hollowing | S12 - H4CK | [Read More](https://medium.com/p/3de4831c7a83) |
+| Mon, 26 May 2025 20:27:16 GMT | TACACS+ ve RADIUS Arasındaki Farklar: Ağ Güvenliğinin Sessiz Kahramanları ️✨ | Emre Koç | [Read More](https://medium.com/p/91f31b038b3f) |
+| Mon, 26 May 2025 20:27:11 GMT | Understanding OWASP API Security: Safeguarding the Digital Backbone | Tanuj Shrivastava | [Read More](https://medium.com/p/79ddf75086d7) |
+| Mon, 26 May 2025 20:21:03 GMT | GAU — Get All URL’s | Snooptsz | [Read More](https://medium.com/p/45bd63ea678b) |
 | Mon, 26 May 2025 20:14:15 GMT | SOC202 — FakeGPT Malicious Chrome Extension | Harshprajapati | [Read More](https://medium.com/p/2f1b8b665184) |
+| Mon, 26 May 2025 20:13:34 GMT | Directory Traversal | Ali Karaoglan | [Read More](https://medium.com/p/cc9d7864e896) |
+| Mon, 26 May 2025 20:09:35 GMT | Quick and Secure : Fedora on an External SSD for Great Privacy | H-H Kolberg | [Read More](https://medium.com/p/b57d828bf3cf) |
 | Mon, 26 May 2025 20:09:24 GMT | Who are IT Experts | IT Experts | [Read More](https://medium.com/p/2926430fc895) |
 | Mon, 26 May 2025 20:07:04 GMT | دعانویس یهودی تضمینی 09058824042 | استاد.یهودا ۰۹۰۵۸۸۲۴۰۴۲ | [Read More](https://medium.com/p/19cabec6fb65) |
 | Mon, 26 May 2025 20:04:56 GMT | What is Computer Security: Compete Guide | Zeeshan Ali | [Read More](https://medium.com/p/a38624c3a5c6) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 14:55:25 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Arepally Sri Sowkya | [Read More](https://medium.com/p/9b5db9e48b90) |
 | Mon, 26 May 2025 14:53:01 GMT | Beginner's Guide to $CVE Yield Generation on StakingRewards | CVE | [Read More](https://medium.com/p/1b3bb2f3282c) |
 | Mon, 26 May 2025 14:46:49 GMT | Social Media Widgets and Privacy | Alvaro Montoro | [Read More](https://medium.com/p/9c01cef736d4) |
-| Mon, 26 May 2025 14:45:47 GMT | Trust. Code. A Tiny Backdoor. | Cfir Aguston | [Read More](https://medium.com/p/bee4d51e505f) |
-| Mon, 26 May 2025 14:44:13 GMT | Why Attack Surface Management (ASM) Is the First Step Toward Proactive Cybersecurity | Punit Kumar | [Read More](https://medium.com/p/63179567d0e9) |
-| Mon, 26 May 2025 14:38:50 GMT | Why Continuous Threat Exposure Management (CTEM) Is the Future of Pentesting: A Look into Modern… | Punit Kumar | [Read More](https://medium.com/p/1cc21875300b) |
-| Mon, 26 May 2025 14:38:25 GMT | Here’s how i recover my money from Tradeeuglobal | Kelvin | [Read More](https://medium.com/p/7b735b06f889) |
-| Mon, 26 May 2025 14:37:52 GMT | Day 7 of my AWS Pentesting Journey — Secrets in SNS | mauzware | [Read More](https://medium.com/p/a8fb510a307d) |
-| Mon, 26 May 2025 14:36:54 GMT | Nmap and its excellence | Manan Chadha | [Read More](https://medium.com/p/185a9feeb80c) |
