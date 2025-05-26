@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 10:02:25 GMT | Troubleshooting IAM Roles Anywhere: aws_signing_helper on ARM-based Systems | Hilda Machando | [Read More](https://medium.com/p/3e9d347c7a3f) |
+| Mon, 26 May 2025 10:00:58 GMT | AWS EC2 Security: Best Practices and Challenges | Ali | [Read More](https://medium.com/p/5a190c571240) |
+| Mon, 26 May 2025 09:58:11 GMT | Secrets Management in DevOps: Vault, AWS Secrets Manager & More | Mahesh Ravaji | [Read More](https://medium.com/p/2ab8fe61bb07) |
+| Mon, 26 May 2025 09:56:33 GMT | بهترین ماشین‌ اصلاح - 6 نکته طلایی + راهنمای خرید کامل | Sina Sarkhosh | [Read More](https://medium.com/p/f304210c69c8) |
+| Mon, 26 May 2025 09:55:02 GMT | Scammed by TikMining? Here's How I Got My Money Back | Cynthia.P.penton | [Read More](https://medium.com/p/31c7e9f28fcd) |
+| Mon, 26 May 2025 09:51:58 GMT | 7 Harsh Truths About Growth (Nobody Tells You This) | Godwin Newton | [Read More](https://medium.com/p/84f97ee8f7d5) |
+| Mon, 26 May 2025 09:51:36 GMT | From Inbox to Intrusion: How a Phishing Email Becomes a Breach | Brandon Dewater | [Read More](https://medium.com/p/c188cc0d8866) |
+| Mon, 26 May 2025 09:50:26 GMT | Why eCommerce Cloud Security Is Your Business’s Silent Superpower (And How to Get It Right) | RBM Software | [Read More](https://medium.com/p/e9c4ed83f260) |
+| Mon, 26 May 2025 09:49:33 GMT | Exploiting Server-Side Parameter Pollution in Query Strings — An API Hacking Tale | Aditya Bhatt | [Read More](https://medium.com/p/db68094f971f) |
+| Mon, 26 May 2025 09:47:39 GMT | Silent Intrusion: TA-ShadowCricket’s Decade-Long Espionage in Asia-Pacific | Avnishyam | [Read More](https://medium.com/p/dbb73adcb1de) |
+| Mon, 26 May 2025 09:47:27 GMT | Hacking Chess.com: How I Unlocked Unlimited Lessons in Chess.com | Faheem Anis | [Read More](https://medium.com/p/65572b613d28) |
+| Mon, 26 May 2025 09:38:57 GMT | Top 10 Worst Cyber Crimes Analysed | Crawsec | [Read More](https://medium.com/p/67785a50301f) |
+| Mon, 26 May 2025 09:29:04 GMT | GOAD Part 3: The Art of Extraction - Roasting and Poisoning for Domain Dominance | Cyb3rByte | [Read More](https://medium.com/p/240aa6490dd1) |
+| Mon, 26 May 2025 09:25:27 GMT | Legacy System | Century Solutions Group | [Read More](https://medium.com/p/f8694d3352b4) |
+| Mon, 26 May 2025 09:11:41 GMT | Comprehensive Recon Guide | Meravytes | [Read More](https://medium.com/p/6c8978537945) |
+| Mon, 26 May 2025 09:09:53 GMT | ️ 9 Security Hardening CronJobs for Kubernetes | Devops Trainer | [Read More](https://medium.com/p/6efba87cbfa3) |
+| Mon, 26 May 2025 09:06:32 GMT | Anything but IT | Yaara | [Read More](https://medium.com/p/c459f47f791a) |
+| Mon, 26 May 2025 08:47:27 GMT | Bonus Harvesting and Severance Surfing: The Gig Economy of Enterprise IT | Namir Sagheenanajar | [Read More](https://medium.com/p/1bda9ae0cc4e) |
 | Mon, 26 May 2025 08:43:13 GMT | DC: 6— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/859bf8525cf1) |
+| Mon, 26 May 2025 08:41:12 GMT | Debug methodology guide written by Tamarisk — OffsecExam | OffsecExam - Tamarisk | [Read More](https://medium.com/p/589a76e789a3) |
 | Mon, 26 May 2025 08:40:51 GMT | How Hack The Hackers Help Prevent DataBreach. | Amaira dutta | [Read More](https://medium.com/p/26622133c50c) |
 | Mon, 26 May 2025 08:33:39 GMT | Strong Enough For You Yet? | Mark | [Read More](https://medium.com/p/d369ece1c5fa) |
 | Mon, 26 May 2025 08:30:48 GMT | The Clipboard Agent Leak | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/272bdb241cce) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 00:52:10 GMT | Wave Hands Like Clouds: Episode 4 — Secure and Efficient Infrastructure Management | Jason McKenzie | [Read More](https://medium.com/p/316e1339b1bc) |
 | Mon, 26 May 2025 00:36:50 GMT | OTP bypassed by using luck infused logical thinking bug report | Muthu | [Read More](https://medium.com/p/fd836120d028) |
 | Mon, 26 May 2025 00:22:58 GMT | Splunk: Exploring SPL Tryhackme Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/7970923ecdea) |
-| Mon, 26 May 2025 00:18:03 GMT | Brute Forcing KeePass Database Passwords | Tom O'Neill | [Read More](https://medium.com/p/cbe2433b7beb) |
-| Mon, 26 May 2025 00:05:30 GMT | Investigating Web Attacks: Why Secure Web Development Matters ️ | Md kamruzzaman sagor | [Read More](https://medium.com/p/af49aa366b28) |
-| Mon, 26 May 2025 00:01:29 GMT | Introducción a Splunk | JPablo13 | [Read More](https://medium.com/p/2b9dac5d3351) |
-| Sun, 25 May 2025 23:37:15 GMT | Basic Web Browsing Privacy and OpSec Technique | Victor O. Alvarez | [Read More](https://medium.com/p/cf788dc83d1a) |
-| Sun, 25 May 2025 23:34:41 GMT | Setting Up a Secure Malware Analysis Lab: A Beginner’s Guide using VirtualBox, FLARE VM, and REMnux | Nouman Rehman | [Read More](https://medium.com/p/58cc4bdea1a7) |
-| Sun, 25 May 2025 23:32:26 GMT | DNS Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d6fc142b5f10) |
-| Sun, 25 May 2025 23:19:20 GMT | Prototype Pollution Vulnerability Testing — Full Step-by-Step Guide (with Examples) | d1lv3rdn4 | [Read More](https://medium.com/p/e80206661497) |
-| Sun, 25 May 2025 23:16:27 GMT | 5 Tools That Changed How I Code-Forever | StackSoul | [Read More](https://medium.com/p/ef1deea24ea1) |
-| Sun, 25 May 2025 23:02:28 GMT | HackTheBox— BFT Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/62148e3c0678) |
-| Sun, 25 May 2025 22:58:15 GMT | Cognitive Load: The Overlooked Vulnerability in Enterprise Cybersecurity | Jeffrey Nickle | [Read More](https://medium.com/p/47fee4595f91) |
-| Sun, 25 May 2025 22:58:02 GMT | From Alerts To Action: Leveraging Workflow Actions In Splunk | Tijan Hydara | [Read More](https://medium.com/p/dac573b3d2df) |
-| Sun, 25 May 2025 22:55:55 GMT | Beyond the CIA Triad: Why the AAAA Model Is the Future of Cybersecurity | Jeffrey Nickle | [Read More](https://medium.com/p/0d4ceedadf86) |
-| Sun, 25 May 2025 22:32:25 GMT | VULNET ACTIVE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/bf9ea329d3e1) |
-| Sun, 25 May 2025 22:28:05 GMT | Deepfakes and AI in Social Engineering: Welcome to the Matrix of Madness ️ | Rageeth | [Read More](https://medium.com/p/b0a26c1f93ae) |
-| Sun, 25 May 2025 22:26:51 GMT | HTB ‘CAPE’ Review | 0xs4m | [Read More](https://medium.com/p/9e333dc4740e) |
-| Sun, 25 May 2025 22:21:46 GMT | Mullvad VPN’de Kritik Güvenlik Açığı CVE-2024–55884 | Ibrahimsql | [Read More](https://medium.com/p/cc7b74556e56) |
-| Sun, 25 May 2025 22:16:25 GMT | What is the OSI Model? — A Beginner’s Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b07be16893a2) |
-| Sun, 25 May 2025 22:15:48 GMT | Next-js CVE-2025–29927 güvenlik açığı | Ibrahimsql | [Read More](https://medium.com/p/79b45ed91d31) |
-| Sun, 25 May 2025 22:14:02 GMT | Inside a Supply Chain Breach: Mapping the IPany VPN Attack with MITRE ATT&CK | Samriddhi | [Read More](https://medium.com/p/6f5457edec04) |
