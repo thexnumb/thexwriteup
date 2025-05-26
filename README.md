@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 20:14:15 GMT | SOC202 — FakeGPT Malicious Chrome Extension | Harshprajapati | [Read More](https://medium.com/p/2f1b8b665184) |
+| Mon, 26 May 2025 20:09:24 GMT | Who are IT Experts | IT Experts | [Read More](https://medium.com/p/2926430fc895) |
+| Mon, 26 May 2025 20:07:04 GMT | دعانویس یهودی تضمینی 09058824042 | استاد.یهودا ۰۹۰۵۸۸۲۴۰۴۲ | [Read More](https://medium.com/p/19cabec6fb65) |
+| Mon, 26 May 2025 20:04:56 GMT | What is Computer Security: Compete Guide | Zeeshan Ali | [Read More](https://medium.com/p/a38624c3a5c6) |
+| Mon, 26 May 2025 20:03:53 GMT | Ways Asset Identification Builds Your Cybersecurity Fortress | IT_Engineer | [Read More](https://medium.com/p/ec7f45ab55be) |
+| Mon, 26 May 2025 19:56:52 GMT | Server-Side Request Forgery (SSRF) | Ali Karaoglan | [Read More](https://medium.com/p/8d3d79fbd8a9) |
+| Mon, 26 May 2025 19:54:39 GMT | Top Cybersecurity Case Studies and Success Stories in Healthcare (2025) | Abel Assefa | [Read More](https://medium.com/p/c471f5c0a7bd) |
+| Mon, 26 May 2025 19:52:31 GMT | The Great Developer Deception: How 70+ Malicious npm Packages and VS Code Extensions Almost Fooled… | Ismail Tasdelen | [Read More](https://medium.com/p/3d164e62922c) |
+| Mon, 26 May 2025 19:45:04 GMT | What Not to Do While Learning Cybersecurity? | Satyam Pathania | [Read More](https://medium.com/p/d4a8f36cfef8) |
+| Mon, 26 May 2025 19:44:59 GMT | Deployment of Blue-Jupyter with VirusTotal Integration on Kali Linux reference to TCM academy. | Muhammad Huzaifa | [Read More](https://medium.com/p/5448abe51139) |
+| Mon, 26 May 2025 19:44:57 GMT | Bypassing Garbage Collection: The Case-Sensitive Endpoint Exploit That Slipped Through | Monika sharma | [Read More](https://medium.com/p/d0eba8603234) |
+| Mon, 26 May 2025 19:44:52 GMT | $12,000 Bounty: Git Flag Injection to Remote Code Execution in GitLab | Monika sharma | [Read More](https://medium.com/p/0a442b58c40a) |
+| Mon, 26 May 2025 19:42:21 GMT | The Beginner’s Guide to Spring Boot Security (Without the Confusing Docs) | Tech Burner | [Read More](https://medium.com/p/22c0dac37986) |
+| Mon, 26 May 2025 19:41:20 GMT | How a Forgotten Link Parser Led to a $5000 XSS on Reddit | Monika sharma | [Read More](https://medium.com/p/b247cac099ff) |
+| Mon, 26 May 2025 19:41:09 GMT | Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket | Monika sharma | [Read More](https://medium.com/p/4894187f0414) |
 | Mon, 26 May 2025 19:34:17 GMT | Securing AI Systems in Federal Agencies: Challenges and Best Practices | Dr. Joseph J. Burt-Miller Jr. | [Read More](https://medium.com/p/75bec67fda1a) |
+| Mon, 26 May 2025 19:33:41 GMT | Malware Analysis: Zeus Trojan | Batu Ada Tutkun | [Read More](https://medium.com/p/497a83116a05) |
 | Mon, 26 May 2025 19:28:50 GMT | Semgrep for SaaS Companies in the Era of AI: A Practical Guide to Boost Your Security | Deepak Garg | [Read More](https://medium.com/p/7281dc885d42) |
 | Mon, 26 May 2025 19:21:30 GMT | CTF Write-up: DanaBot(Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/51037164e3ce) |
 | Mon, 26 May 2025 19:16:40 GMT | Threat Detection via Windows Registry | Esra Kayhan | [Read More](https://medium.com/p/57abbb83eb46) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 14:38:25 GMT | Here’s how i recover my money from Tradeeuglobal | Kelvin | [Read More](https://medium.com/p/7b735b06f889) |
 | Mon, 26 May 2025 14:37:52 GMT | Day 7 of my AWS Pentesting Journey — Secrets in SNS | mauzware | [Read More](https://medium.com/p/a8fb510a307d) |
 | Mon, 26 May 2025 14:36:54 GMT | Nmap and its excellence | Manan Chadha | [Read More](https://medium.com/p/185a9feeb80c) |
-| Mon, 26 May 2025 14:36:27 GMT | The Cybersecurity Transformation: Building Security from First Principles with Foundation Models | Eric Zietlow | [Read More](https://medium.com/p/d66a1d07ba57) |
-| Mon, 26 May 2025 14:32:24 GMT | Lab: Exploiting server-side parameter pollution in a query string | Mukilan Baskaran | [Read More](https://medium.com/p/e07a341c44d5) |
-| Mon, 26 May 2025 14:26:50 GMT | Smuggling in the Web World: Understanding HTTP Request Smuggling with examples | Ud4y | [Read More](https://medium.com/p/9094ac400d16) |
-| Mon, 26 May 2025 14:17:46 GMT | Spring Security Demystified: Everything You Need to Know (But No One Explained Clearly) | CodeTalks | [Read More](https://medium.com/p/ab81fe159f81) |
-| Mon, 26 May 2025 14:16:53 GMT | Fighting the Fog: Chinese and Pakistani Disinformation Against India — And How We Can Counter It | Sitinoldae | [Read More](https://medium.com/p/1ac0e91dc4fa) |
-| Mon, 26 May 2025 14:14:06 GMT | How CoinCollectExperts Helped Me Recover My BTC After a Fake Hack Online | Jurgenhans | [Read More](https://medium.com/p/1c11c8ca6783) |
-| Mon, 26 May 2025 14:11:40 GMT | BFLA(Broken Function Level Authorization) em ONT’s Huawei EG8141A5, EG8145V5, EG8145V5-V2 | João Cavalcante | [Read More](https://medium.com/p/d228ac36c4ee) |
-| Mon, 26 May 2025 14:09:12 GMT | Linking Network and Endpoint Telemetry with Community ID | Kaviarasan Asokan | [Read More](https://medium.com/p/c5ba72cf10f6) |
-| Mon, 26 May 2025 14:02:34 GMT | What to Expect From This Cybersecurity Page Going Forward | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/4dad9e49eeb3) |
-| Mon, 26 May 2025 14:02:32 GMT | What I’ve Learned After 10 Days of #60DaysofGRC | Brittney Ginther | [Read More](https://medium.com/p/d0ae306f7299) |
-| Mon, 26 May 2025 13:55:54 GMT | GRecon: A Professional Network Reconnaissance & Vulnerability Assessment Tool | Mohamed Gebril | [Read More](https://medium.com/p/3962165304bc) |
-| Mon, 26 May 2025 13:54:29 GMT | Cybersecurity in Education: Protecting Student Data in a Digital World | Cybersecurity Umbrella | [Read More](https://medium.com/p/b7967535d4cb) |
-| Mon, 26 May 2025 13:52:27 GMT | SOC Lab: Tracking 75K+ Real-World Brute-Force Attacks Using Microsoft Sentinel | Abdulkadir Ibrahim | [Read More](https://medium.com/p/f9b7eff34df5) |
-| Mon, 26 May 2025 13:48:42 GMT | Crypto Regulations in Nigeria: What You Need to Know | Roqqu Pay | [Read More](https://medium.com/p/19ef113b90de) |
-| Mon, 26 May 2025 13:42:39 GMT | Here’s how I got my withdrawal from AlgoForexFunds | Daniel Martins | [Read More](https://medium.com/p/e89e8522c23a) |
-| Mon, 26 May 2025 13:39:16 GMT | What should I do to recover my money from Optimal Traders ? | Daniel Martins | [Read More](https://medium.com/p/3a8ec98e1bc7) |
