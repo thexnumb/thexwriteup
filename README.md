@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 01:37:38 GMT | Parental Controls 101: How to Keep Your Kids Safe Online Without Being the ‘Bad Guy’ | Samir Karim | [Read More](https://medium.com/p/38c3d74a5ef2) |
+| Mon, 26 May 2025 01:30:54 GMT | Cyberbullies Almost Broke My Child, Here’s How We Fought Back | Samir Karim | [Read More](https://medium.com/p/75b6bbcb9aec) |
+| Mon, 26 May 2025 01:27:52 GMT | Apple Patches Two Actively Exploited Vulnerabilities — Just Playing Audio Could Compromise Your… | Hazko-stack | [Read More](https://medium.com/p/8a630cfb0287) |
+| Mon, 26 May 2025 01:26:05 GMT | 184 Million Passwords Found in Huge Breach — Check If You’re Affected | Sareena | [Read More](https://medium.com/p/7f41ff68622b) |
+| Mon, 26 May 2025 01:15:34 GMT | My Token, Your Token, Whose Token? Understanding CSRF through Portswigger’s Web Security Academy | Rhythm Babu Kafle | [Read More](https://medium.com/p/eab11dabfa71) |
+| Mon, 26 May 2025 01:01:59 GMT | สรุปก่อนสอบ Certified in Cybersecurity | Nakorn Rientrakrunchai | [Read More](https://medium.com/p/fe2dd4fc847d) |
+| Mon, 26 May 2025 00:52:40 GMT | EternalBlue: Rise and Fall of a Cyber Weapon | Patricio Burattini | [Read More](https://medium.com/p/f01f6da9fdd9) |
+| Mon, 26 May 2025 00:52:10 GMT | Wave Hands Like Clouds: Episode 4 — Secure and Efficient Infrastructure Management | Jason McKenzie | [Read More](https://medium.com/p/316e1339b1bc) |
+| Mon, 26 May 2025 00:36:50 GMT | OTP bypassed by using luck infused logical thinking bug report | Muthu | [Read More](https://medium.com/p/fd836120d028) |
+| Mon, 26 May 2025 00:22:58 GMT | Splunk: Exploring SPL Tryhackme Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/7970923ecdea) |
+| Mon, 26 May 2025 00:18:03 GMT | Brute Forcing KeePass Database Passwords | Tom O'Neill | [Read More](https://medium.com/p/cbe2433b7beb) |
+| Mon, 26 May 2025 00:05:30 GMT | Investigating Web Attacks: Why Secure Web Development Matters ️ | Md kamruzzaman sagor | [Read More](https://medium.com/p/af49aa366b28) |
+| Mon, 26 May 2025 00:01:29 GMT | Introducción a Splunk | JPablo13 | [Read More](https://medium.com/p/2b9dac5d3351) |
+| Sun, 25 May 2025 23:37:15 GMT | Basic Web Browsing Privacy and OpSec Technique | Victor O. Alvarez | [Read More](https://medium.com/p/cf788dc83d1a) |
 | Sun, 25 May 2025 23:34:41 GMT | Setting Up a Secure Malware Analysis Lab: A Beginner’s Guide using VirtualBox, FLARE VM, and REMnux | Nouman Rehman | [Read More](https://medium.com/p/58cc4bdea1a7) |
 | Sun, 25 May 2025 23:32:26 GMT | DNS Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/d6fc142b5f10) |
+| Sun, 25 May 2025 23:19:20 GMT | Prototype Pollution Vulnerability Testing — Full Step-by-Step Guide (with Examples) | d1lv3rdn4 | [Read More](https://medium.com/p/e80206661497) |
 | Sun, 25 May 2025 23:16:27 GMT | 5 Tools That Changed How I Code-Forever | StackSoul | [Read More](https://medium.com/p/ef1deea24ea1) |
 | Sun, 25 May 2025 23:02:28 GMT | HackTheBox— BFT Sherlock Walkthrough | Drew Arpino | [Read More](https://medium.com/p/62148e3c0678) |
 | Sun, 25 May 2025 22:58:15 GMT | Cognitive Load: The Overlooked Vulnerability in Enterprise Cybersecurity | Jeffrey Nickle | [Read More](https://medium.com/p/47fee4595f91) |
@@ -99,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 16:02:49 GMT | From Zero to Adversary: An Advanced Red Teaming Road-map for Beginners | Shaheer Yasir | [Read More](https://medium.com/p/c3d2e52a1f9f) |
 | Sun, 25 May 2025 16:00:52 GMT | TRYHACKME : Lo-Fi - Challenge Walkthrough | 4A696E | [Read More](https://medium.com/p/b6b104ffc7b8) |
 | Sun, 25 May 2025 15:57:02 GMT | Day 6 of my AWS Pentesting journey — Exploring Elastic Beanstalk | mauzware | [Read More](https://medium.com/p/adc28ea74f0d) |
-| Sun, 25 May 2025 15:56:44 GMT | Learning How to Hack: Why Offensive Security Training Benefits Your Entire Security Team | Ahmed Shah Ziaul Alam | [Read More](https://medium.com/p/e3c2cc451501) |
-| Sun, 25 May 2025 15:55:01 GMT | How Fuzzing Uncovered an Exposed Magento Setup and a Live Kafka Dashboard | Vijay Kumar Lohani | [Read More](https://medium.com/p/fd18cc517324) |
-| Sun, 25 May 2025 15:52:27 GMT | Discovering an Open Redirect Flaw Using URL Encoding | Ahmad Suhendra | [Read More](https://medium.com/p/001b843ec9f3) |
-| Sun, 25 May 2025 15:52:18 GMT | Aplikasi Input Nama - Android Studio | Zifa Tea Azzahra | [Read More](https://medium.com/p/3be3b8d1b9e9) |
-| Sun, 25 May 2025 15:52:01 GMT | 8 Must-Have Features for Vulnerability Scanning Tool | Nitin Kumar | [Read More](https://medium.com/p/4dd642809323) |
-| Sun, 25 May 2025 15:44:00 GMT | Between the Lines of Code: A Mentor’s Voice, a Breach’s Lessons, and a Team That Made It All Matter | Hitesh Said | [Read More](https://medium.com/p/e7d222ba8da1) |
-| Sun, 25 May 2025 15:38:14 GMT | Shift Left with Confidence: A Practical Guide to DevSecOps Using GitHub Actions for Python Projects | Cyril Baah | [Read More](https://medium.com/p/4f22246514ed) |
-| Sun, 25 May 2025 15:34:33 GMT | Twitch Bait and Switch: How I Uncovered a Steam Phishing Operation | Yali Achitov | [Read More](https://medium.com/p/b4c2ff68119c) |
-| Sun, 25 May 2025 15:33:31 GMT | ColddBox: Easy — VulnHub Walkthrough | Lalitha Kandhasamy | [Read More](https://medium.com/p/095ce5255342) |
-| Sun, 25 May 2025 15:31:48 GMT | GZR Observer Daily — May 25, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/0325f6ce4636) |
-| Sun, 25 May 2025 15:19:35 GMT | $500 Bounty: How One Forum DM Unleashed Stored XSS on SideFX | Monika sharma | [Read More](https://medium.com/p/546ee9cab12d) |
-| Sun, 25 May 2025 15:15:34 GMT | The Illusion of Intelligence — How Superficial Analysts Undermine Cybersecurity | SIMKRA | [Read More](https://medium.com/p/d135bc5fce5d) |
-| Sun, 25 May 2025 15:14:23 GMT | Are Certifications Killing Curiosity in Cybersecurity? | Abdul | [Read More](https://medium.com/p/d6576b57052a) |
-| Sun, 25 May 2025 15:09:36 GMT | How I Built a Mini USB Intrusion Detector Using Python (Just Like SecOps Teams Do in Real Life) | Praful Kalal | [Read More](https://medium.com/p/0e7b97497c57) |
-| Sun, 25 May 2025 15:03:41 GMT | 7 Things You Should Never Search on Google | MindHack Daily | [Read More](https://medium.com/p/48c9987b156d) |
