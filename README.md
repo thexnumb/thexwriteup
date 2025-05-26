@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 17:37:09 GMT | When Personal Accounts Become Corporate Security Risks | Karl Buhl | [Read More](https://medium.com/p/9313e692adca) |
+| Mon, 26 May 2025 17:32:40 GMT | Here is how I secure my SaaS applications | Shivanshu Gupta | [Read More](https://medium.com/p/6db2cdbd3a02) |
+| Mon, 26 May 2025 17:21:05 GMT | Governance: The “G” in GRC and the Unsung Hero of Cybersecurity | Brittney Ginther | [Read More](https://medium.com/p/461f48ca34ca) |
+| Mon, 26 May 2025 17:15:36 GMT | While learning cybersecurity, I’ve been testing some free tools. | Bilal Nachat | [Read More](https://medium.com/p/e78b3c255764) |
+| Mon, 26 May 2025 17:14:18 GMT | Nova Scotia Power Hit by Ransomware, 280K Customers Affected | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/b7151eae545d) |
+| Mon, 26 May 2025 17:11:54 GMT | Why Your Brain Is Your Worst Money Enemy: 7 Sneaky Mind Games That Keep You Broke | Write By Mehak | [Read More](https://medium.com/p/1caf802b96ce) |
+| Mon, 26 May 2025 17:11:31 GMT | Smol - TryHackMe Medium CTF | Error | [Read More](https://medium.com/p/24acda06c8d7) |
+| Mon, 26 May 2025 17:08:02 GMT | From Removed Admin to Full Takeover | callgh0st | [Read More](https://medium.com/p/9ce131dd3716) |
 | Mon, 26 May 2025 17:03:10 GMT | Hi, I’m new here and just shared a post about a cybersecurity tool I’ve been learning to use as a… | Bilal Nachat | [Read More](https://medium.com/p/258b81035aba) |
 | Mon, 26 May 2025 17:00:16 GMT | How to Protect Your Business from Cyber Threats | RISKCOVERED | [Read More](https://medium.com/p/dbb99a48eb82) |
 | Mon, 26 May 2025 16:59:26 GMT | What can I do to recover my money from Luxequant ? | Jonas Martins | [Read More](https://medium.com/p/eb8722362e4d) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 12:23:22 GMT | Top 5 Cybersecurity Projects for Beginners — Build Your Career the Hands-On Way! | Navigtech | [Read More](https://medium.com/p/8dc0ee19dc47) |
 | Mon, 26 May 2025 12:21:38 GMT | API5:2023 — Broken Function Level Authorization — PT-BR | Tamy Angel | [Read More](https://medium.com/p/32f47a8e3134) |
 | Mon, 26 May 2025 12:17:53 GMT | Kamera, Tilang, dan Ketertiban | Davira Yulia | [Read More](https://medium.com/p/89411a585dd9) |
-| Mon, 26 May 2025 12:16:49 GMT | The 2025 Crypto Landscape — Growth Meets Danger | QuppyAMLBOT | [Read More](https://medium.com/p/325eb4ef8a6f) |
-| Mon, 26 May 2025 12:12:07 GMT | ISO 27001 for Blockchain Startups: Why It’s More Than a Badge | Decrypt0 | [Read More](https://medium.com/p/732e7b784884) |
-| Mon, 26 May 2025 12:09:55 GMT | How Hackers Use Legitimate SQL Tools Like DBeaver and Navicat to Steal Your Data | Onur Okan | [Read More](https://medium.com/p/bd888056b0b5) |
-| Mon, 26 May 2025 12:03:01 GMT | SafeLine WAF: New Open-Source Web Application Firewall Aims to Democratize Web Security | CyBlog | [Read More](https://medium.com/p/ef2b62dac946) |
-| Mon, 26 May 2025 12:02:32 GMT | Ten Lessons from Bamboo | Be | [Read More](https://medium.com/p/c0519e02b3bb) |
-| Mon, 26 May 2025 12:02:26 GMT | How Big Tech Lets Scammers Thrive — And Victims Suffer in Silence | Natasha Fuller | [Read More](https://medium.com/p/cacef71dd823) |
-| Mon, 26 May 2025 11:59:01 GMT | Learnings from 20 years in IT industry | VV | [Read More](https://medium.com/p/df487e2a6c9d) |
-| Mon, 26 May 2025 11:57:54 GMT | write up talk tuah | phisher305 | [Read More](https://medium.com/p/2e4dbf3eb803) |
