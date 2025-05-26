@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 05:05:28 GMT | RST TI Report Digest: 26 May 2025 | RST Cloud | [Read More](https://medium.com/p/b3d3a1b63aa9) |
+| Mon, 26 May 2025 05:02:27 GMT | Marriage Isn’t for Everyone — And I’m Learning to Be Okay With That | Her Out-of-Office Feelings | [Read More](https://medium.com/p/a5044811dc8f) |
+| Mon, 26 May 2025 04:58:23 GMT | Fake DigiYatra Website Was Targeting Indian Flyers With Lookalike Portal | ThreatWatch360 | [Read More](https://medium.com/p/2d81326d1e15) |
+| Mon, 26 May 2025 04:57:46 GMT | CEH Course Designed for Network Professionals and Cybersecurity Careers | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/6bb28fb6c802) |
+| Mon, 26 May 2025 04:56:03 GMT | Flashback Fuzzing: How I Found JWT Tokens in the Past & Got Paid for It | Harsh kothari | [Read More](https://medium.com/p/8da88d6daf09) |
+| Mon, 26 May 2025 04:42:25 GMT | Cyber-Physical Systems: Seamless Integration of Cyberspace & Physical World | Data Defendere | [Read More](https://medium.com/p/6af783c310e7) |
+| Mon, 26 May 2025 04:40:35 GMT | Don’t Be the Next Target: A Proactive Strategy to Outsmart Evolving Cyber Attacks | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/84f1ac8fdee0) |
 | Mon, 26 May 2025 04:22:25 GMT | Reentrancy Bugs: Why They Still Break Smart Contracts | Nautiyal | [Read More](https://medium.com/p/a83fac409a53) |
 | Mon, 26 May 2025 04:11:31 GMT | Building a Personal Malware-Analysis Lab | Dhruv Saikia | [Read More](https://medium.com/p/67c30acdae97) |
 | Mon, 26 May 2025 04:06:08 GMT | Is Your Smart Fridge Helping Hackers While You Shop for Pajama Pants? | Tina Ginn | [Read More](https://medium.com/p/1b6fa814525a) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 18:19:20 GMT | SwarmID-How I Turned a Complex Cybersecurity Idea into Reality in 4 Hours Using AI | Adnane Arharbi, Eng | [Read More](https://medium.com/p/8f5c8e2d688d) |
 | Sun, 25 May 2025 18:14:39 GMT | Fortifying Your Cloud Perimeter: Zero Trust Security with AWS IAM | AWS Cloud Architect | [Read More](https://medium.com/p/c0cc18833cc7) |
 | Sun, 25 May 2025 18:14:21 GMT | The Man Who Owns the Most Internet Domains — And Why He Did It | Hafizbilaltariq | [Read More](https://medium.com/p/5cd9bacd7b93) |
-| Sun, 25 May 2025 18:14:20 GMT | Speed Up WordPress on Shared Hosting: Proven Methods | Shubradeb | [Read More](https://medium.com/p/501980e276c6) |
-| Sun, 25 May 2025 18:11:30 GMT | AWS WAF: The Intelligent Shield for Your Web Applications | MWANZA LUMAMBA ELIAB | [Read More](https://medium.com/p/6aeb204436c4) |
-| Sun, 25 May 2025 18:08:16 GMT | If they say “payment” or “invoice” or “account,” run away! | SafeNetting | [Read More](https://medium.com/p/7fe72fa2089c) |
-| Sun, 25 May 2025 17:58:05 GMT | En acceptant les conditions sans les lire, vous avez peut-être autorisé Meta à scanner vos messages… | Oscar Flanagan | [Read More](https://medium.com/p/d0c1c873b77b) |
-| Sun, 25 May 2025 17:54:48 GMT | Everyone wants into your account | Fred Showker | [Read More](https://medium.com/p/5ac811207c81) |
-| Sun, 25 May 2025 17:52:01 GMT | Is SSL Dead? Understanding the Evolution of Web Security | Jobin J | [Read More](https://medium.com/p/8a2648a0a55b) |
-| Sun, 25 May 2025 17:40:55 GMT | Lessons from Breaking Production (So You Don’t Have to) | Abhinav | [Read More](https://medium.com/p/a377b4c660b7) |
