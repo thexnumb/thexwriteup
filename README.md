@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 08:43:13 GMT | DC: 6— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/859bf8525cf1) |
+| Mon, 26 May 2025 08:40:51 GMT | How Hack The Hackers Help Prevent DataBreach. | Amaira dutta | [Read More](https://medium.com/p/26622133c50c) |
+| Mon, 26 May 2025 08:33:39 GMT | Strong Enough For You Yet? | Mark | [Read More](https://medium.com/p/d369ece1c5fa) |
+| Mon, 26 May 2025 08:30:48 GMT | The Clipboard Agent Leak | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/272bdb241cce) |
+| Mon, 26 May 2025 08:27:48 GMT | Walkthrough THM Surfer | Telynor | [Read More](https://medium.com/p/bb83c464c2bd) |
+| Mon, 26 May 2025 08:20:06 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Mohammed Ali Mistry | [Read More](https://medium.com/p/8a0accdf9964) |
+| Mon, 26 May 2025 08:12:48 GMT | Ping Of Death Attack - DOS Attack | Alibinazam | [Read More](https://medium.com/p/167fa78f8b2f) |
+| Mon, 26 May 2025 07:52:26 GMT | No, the iPad Isn’t Dead — And No, Tech’s Not Slowing Down | NickyCammarata | [Read More](https://medium.com/p/e91e401e9f93) |
+| Mon, 26 May 2025 07:52:25 GMT | Cybersecurity for SMEs: Trends and Best Practices for 2025 | Andrei Ivan | [Read More](https://medium.com/p/57a06ba40890) |
 | Mon, 26 May 2025 07:48:36 GMT | KYC, KYB ve KYT: AML Uyumunun Üç Temel Ayağı | BeosinTR | [Read More](https://medium.com/p/0dba382d9bae) |
+| Mon, 26 May 2025 07:48:23 GMT | Stop Using localStorage for Auth Tokens (Here’s What to Do Instead) | jude otine | [Read More](https://medium.com/p/966ad1eea8f9) |
 | Mon, 26 May 2025 07:35:40 GMT | One Endpoint to Rule Them All: How I Chained 3 Bugs into Full Account Takeover | Iski | [Read More](https://medium.com/p/2d04a2f5dbc6) |
 | Mon, 26 May 2025 07:35:25 GMT | The “Sadece Online Özel” Trap: A Large-Scale Phishing Campaign Targeting Turkish Brands | Aminemarmara | [Read More](https://medium.com/p/c427eafdfd9d) |
 | Mon, 26 May 2025 07:20:59 GMT | International Cyber Conflict Analysis and Attribution Modeling: The Hidden Science of Digital… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c99ce019fc64) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 22:16:25 GMT | What is the OSI Model? — A Beginner’s Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b07be16893a2) |
 | Sun, 25 May 2025 22:15:48 GMT | Next-js CVE-2025–29927 güvenlik açığı | Ibrahimsql | [Read More](https://medium.com/p/79b45ed91d31) |
 | Sun, 25 May 2025 22:14:02 GMT | Inside a Supply Chain Breach: Mapping the IPany VPN Attack with MITRE ATT&CK | Samriddhi | [Read More](https://medium.com/p/6f5457edec04) |
-| Sun, 25 May 2025 22:11:31 GMT | Hacking Headless on Hack The Box: OSCP Prep | enigma_ | [Read More](https://medium.com/p/2409ee387e13) |
-| Sun, 25 May 2025 22:02:51 GMT | Six Shades of Multi Tenant Mayhem: The Invisible Vulnerabilities Hiding in Plain Sight | Borabastab | [Read More](https://medium.com/p/182e9ad538b5) |
-| Sun, 25 May 2025 22:02:00 GMT | How Telegram Channels Fuel the Dark Web Leak Economy | Stealseek | [Read More](https://medium.com/p/4d308b5388ab) |
-| Sun, 25 May 2025 21:43:40 GMT | Flagged for Review: Using Stealth Tokens to Audit LLMs | Tomer Wetzler | [Read More](https://medium.com/p/4109355e1ea4) |
-| Sun, 25 May 2025 21:41:30 GMT | Is Switzerland Still the Digital Safe of Europe? | Francesco Cilibrasi | [Read More](https://medium.com/p/d8cf9f735d6b) |
-| Sun, 25 May 2025 21:40:47 GMT | Npm Security Best Practices | Recep Taylanhan | [Read More](https://medium.com/p/d1172d64b00e) |
-| Sun, 25 May 2025 21:21:49 GMT | My Therapist Said Tiny Problems Don’t Matter. These Vulnerability Chains Proved Me Wrong. | Remmy | [Read More](https://medium.com/p/6a963c77217d) |
-| Sun, 25 May 2025 21:20:34 GMT | Windows Forensics | Shamar Isaac | [Read More](https://medium.com/p/b0625837a228) |
-| Sun, 25 May 2025 21:06:56 GMT | SIEM’de Derinlik: UID Analizi ile Kullanıcı Davranışlarını Anlamak | Tarik Zeybek | [Read More](https://medium.com/p/c89240513f98) |
-| Sun, 25 May 2025 21:02:55 GMT | When TikTok Becomes a Trojan Horse: The Rise of Social Media Malware Distribution | Ismail Tasdelen | [Read More](https://medium.com/p/5b172cfec576) |
