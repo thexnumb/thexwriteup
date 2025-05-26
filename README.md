@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 16:21:18 GMT | From Crypto to Credential: The Untold Story of FIDO2 for Enterprise at Scale | David Canellos | [Read More](https://medium.com/p/b426a4a67fae) |
+| Mon, 26 May 2025 16:20:00 GMT | I will write sales, finance, banking, marketing, accounting, realtor, ecommerce resume | Oyefunkeegbeleke | [Read More](https://medium.com/p/90baf68ae454) |
+| Mon, 26 May 2025 16:17:43 GMT | OSINT for beginners — OPSEC | OSINT News | [Read More](https://medium.com/p/e17cd38f447e) |
+| Mon, 26 May 2025 16:10:30 GMT | How AI is Powering a New Wave of Cyber Attacks: Real-World Cases | Anezaneo | [Read More](https://medium.com/p/f5cdfadaf912) |
+| Mon, 26 May 2025 16:03:05 GMT | Chaining of Information Disclosure leading to account takeover, Privilege Escalation due to… | Sulabh Jain | [Read More](https://medium.com/p/c85d7e61a00d) |
+| Mon, 26 May 2025 15:52:38 GMT | Why Every Growing Business Should Consider Managed IT Services for Comprehensive Cyber Security | Mobile Computer Repair | [Read More](https://medium.com/p/7918535c8c25) |
+| Mon, 26 May 2025 15:48:26 GMT | Unsafe File Inclusion and Weak Filtering: Write Up Overthewire Natas25 | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/f5d964a55885) |
+| Mon, 26 May 2025 15:44:50 GMT | Cryptography 101 | Bolaji Johnson | [Read More](https://medium.com/p/805c7b4fc5b4) |
+| Mon, 26 May 2025 15:44:42 GMT | File Upload Vulnerabilities | Chimiriki | [Read More](https://medium.com/p/adc033241993) |
+| Mon, 26 May 2025 15:44:19 GMT | How Can a Freelance Cybersecurity Blogger Revolutionize the IT Market in 2025? | Turtle Words | [Read More](https://medium.com/p/97c101ea68dc) |
+| Mon, 26 May 2025 15:41:59 GMT | Here’s how i recover my money from Aura Funded ? | Martins Harry | [Read More](https://medium.com/p/9e64db5241f4) |
 | Mon, 26 May 2025 15:34:13 GMT | Is it possible to get my money back from Mirrox ? | Martins Harry | [Read More](https://medium.com/p/ef232943d7e3) |
+| Mon, 26 May 2025 15:32:07 GMT | The Dark Side of AI: How Hackers Use AI & Deepfakes — A Human-Centered Review | Ipek.sec | [Read More](https://medium.com/p/af6146c7e613) |
+| Mon, 26 May 2025 15:29:59 GMT | From Frustration to Adoption: How Behavioral Nudges Drove MFA Compliance Across a Stubborn… | Ipek.sec | [Read More](https://medium.com/p/149d2422ab65) |
 | Mon, 26 May 2025 15:25:23 GMT | Ready to swap cyber-confusion for laugh-out-loud “Aha!” | Rmz Elshimy | [Read More](https://medium.com/p/b1d7115da0e8) |
 | Mon, 26 May 2025 15:25:10 GMT | This is The Easiest Bug You Can Find✨ | Abhijeet Kumawat | [Read More](https://medium.com/p/e50e0b68c641) |
 | Mon, 26 May 2025 15:19:33 GMT | Leaking NetNTLM Hashes via SSRF Using UNC Paths (Windows) | Shubham Sonani | [Read More](https://medium.com/p/9c37e17b5041) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 11:24:34 GMT | “Overthinking Is Killing Your Happiness — Here’s How to Stop” | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/90ba98bd4007) |
 | Mon, 26 May 2025 11:23:40 GMT | IT Project Management Simplified | Chandrachud Sahi | [Read More](https://medium.com/p/9b8e7ffd2087) |
 | Mon, 26 May 2025 11:23:39 GMT | From Dev to Defend: How BSides Dublin 2025 Sparked My Shift to Cybersecurity | Pranav | [Read More](https://medium.com/p/49fb7df59db7) |
-| Mon, 26 May 2025 11:08:14 GMT | Best Network Security Services Provider in India - Teleglobal | Teleglobal International | [Read More](https://medium.com/p/7ee4c3eaa38c) |
-| Mon, 26 May 2025 11:04:50 GMT | Webhooks 101: How to Automate and Streamline Your Workflow | Natarajan C K | [Read More](https://medium.com/p/fd1067c46d3a) |
-| Mon, 26 May 2025 11:03:24 GMT | How I Passed the CISSP!! | Anil Mandla | [Read More](https://medium.com/p/921fcda9a797) |
-| Mon, 26 May 2025 11:03:10 GMT | AI vs. AI: How Smart Bots Are Battling Each Other in the New Age of Cybersecurity and Cybercrime | TECH EMPIRE | [Read More](https://medium.com/p/120657421cfa) |
-| Mon, 26 May 2025 11:02:23 GMT | What is Crypto Shredding? | Priyansha Madhwal | [Read More](https://medium.com/p/3431e3a95567) |
-| Mon, 26 May 2025 11:01:01 GMT | Think Your PHP App Is Safe? Here’s How to Actually Secure It — Explained Simply | Sayaka Singh | [Read More](https://medium.com/p/1b0bc1ca1806) |
-| Mon, 26 May 2025 10:51:34 GMT | What Is DevOps Lifecycle? Learn It the with Easy Way | cyberwingITSolution | [Read More](https://medium.com/p/7f0bd9efc541) |
-| Mon, 26 May 2025 10:48:44 GMT | StartwayPro.com Review – How I Recovered My Money After Being Scammed | Ernest Conley | [Read More](https://medium.com/p/066e75f542dc) |
-| Mon, 26 May 2025 10:48:42 GMT | How Reconciliation Software Can Save Your Business Time and Money | Kosh AI | [Read More](https://medium.com/p/8c283bac52b1) |
-| Mon, 26 May 2025 10:46:55 GMT | Here’s How I Recovered My Money From Startwaypro.com | Ernest Conley | [Read More](https://medium.com/p/4eff66b7f836) |
-| Mon, 26 May 2025 10:42:07 GMT | Everything You Should Know About STON.fi’s $500K Bug Bounty Program | BlaqBobby | [Read More](https://medium.com/p/d8007c9d618b) |
-| Mon, 26 May 2025 10:38:31 GMT | Chaining Unauthorized User Registration, Broken Access Control, and Insecure CSRF Token Exposure to… | Sulabh Jain | [Read More](https://medium.com/p/4c2897e261ad) |
-| Mon, 26 May 2025 10:35:32 GMT | Olxton Group Review – Total Scam | Kevin P. hamilton | [Read More](https://medium.com/p/11fcf14e5a5e) |
