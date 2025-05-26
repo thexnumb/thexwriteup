@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 22:11:04 GMT | Virtual Honeypot System: My Research Project Outcome Evaluation | Pempho Chioza | [Read More](https://medium.com/p/0df6f38fbcbc) |
+| Mon, 26 May 2025 22:02:29 GMT | Menyelami Dunia Cyber Security: Memahami Dunia Cyber Security untuk Pemula | Rangga Ananda S | [Read More](https://medium.com/p/b7bb86a887ef) |
+| Mon, 26 May 2025 21:42:15 GMT | How to Choose the Right Cybersecurity Course in Saudi Arabia | Bradley Curtis | [Read More](https://medium.com/p/5c36948fa021) |
+| Mon, 26 May 2025 21:36:27 GMT | Tasman Sea Chessboard : Tiongkok’s Power Projection and Regional Security Dilemma | T Rahayuningtyas | [Read More](https://medium.com/p/52f7977e37ba) |
+| Mon, 26 May 2025 21:34:31 GMT | Solving the Ethernaut Fallout Challenge with Foundry | Martin Pál | [Read More](https://medium.com/p/325c30fae664) |
 | Mon, 26 May 2025 20:58:10 GMT | The Power of Complexity | Ed-it Editions | [Read More](https://medium.com/p/4d7c6ce64ae7) |
 | Mon, 26 May 2025 20:53:00 GMT | Application & Product Security 101: A Beginner’s Guide | Pratik Gaikwad | [Read More](https://medium.com/p/69cfc9f365ca) |
 | Mon, 26 May 2025 20:52:44 GMT | Threat Modeling: Hack-Proof Your Apps with Case Studies-Part1 | DrSecurityGuru | [Read More](https://medium.com/p/f2278a1fbcb7) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 15:44:19 GMT | How Can a Freelance Cybersecurity Blogger Revolutionize the IT Market in 2025? | Turtle Words | [Read More](https://medium.com/p/97c101ea68dc) |
 | Mon, 26 May 2025 15:41:59 GMT | Here’s how i recover my money from Aura Funded ? | Martins Harry | [Read More](https://medium.com/p/9e64db5241f4) |
 | Mon, 26 May 2025 15:34:13 GMT | Is it possible to get my money back from Mirrox ? | Martins Harry | [Read More](https://medium.com/p/ef232943d7e3) |
-| Mon, 26 May 2025 15:32:07 GMT | The Dark Side of AI: How Hackers Use AI & Deepfakes — A Human-Centered Review | Ipek.sec | [Read More](https://medium.com/p/af6146c7e613) |
-| Mon, 26 May 2025 15:29:59 GMT | From Frustration to Adoption: How Behavioral Nudges Drove MFA Compliance Across a Stubborn… | Ipek.sec | [Read More](https://medium.com/p/149d2422ab65) |
-| Mon, 26 May 2025 15:25:23 GMT | Ready to swap cyber-confusion for laugh-out-loud “Aha!” | Rmz Elshimy | [Read More](https://medium.com/p/b1d7115da0e8) |
-| Mon, 26 May 2025 15:25:10 GMT | This is The Easiest Bug You Can Find✨ | Abhijeet Kumawat | [Read More](https://medium.com/p/e50e0b68c641) |
-| Mon, 26 May 2025 15:19:33 GMT | Leaking NetNTLM Hashes via SSRF Using UNC Paths (Windows) | Shubham Sonani | [Read More](https://medium.com/p/9c37e17b5041) |
