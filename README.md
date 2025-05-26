@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 07:48:36 GMT | KYC, KYB ve KYT: AML Uyumunun Üç Temel Ayağı | BeosinTR | [Read More](https://medium.com/p/0dba382d9bae) |
+| Mon, 26 May 2025 07:35:40 GMT | One Endpoint to Rule Them All: How I Chained 3 Bugs into Full Account Takeover | Iski | [Read More](https://medium.com/p/2d04a2f5dbc6) |
+| Mon, 26 May 2025 07:35:25 GMT | The “Sadece Online Özel” Trap: A Large-Scale Phishing Campaign Targeting Turkish Brands | Aminemarmara | [Read More](https://medium.com/p/c427eafdfd9d) |
 | Mon, 26 May 2025 07:20:59 GMT | International Cyber Conflict Analysis and Attribution Modeling: The Hidden Science of Digital… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c99ce019fc64) |
 | Mon, 26 May 2025 07:18:14 GMT | Master Wireshark tool Like a Pro: — The Ultimate Packet Analysis Guide for Real-World Analysts | Dean | [Read More](https://medium.com/p/981fb9024e7d) |
 | Mon, 26 May 2025 07:10:03 GMT | SOC Lab Phase 2 Summary: Azure Firewall Integration | Prajwal Timsina | [Read More](https://medium.com/p/6030072fc6c9) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 21:20:34 GMT | Windows Forensics | Shamar Isaac | [Read More](https://medium.com/p/b0625837a228) |
 | Sun, 25 May 2025 21:06:56 GMT | SIEM’de Derinlik: UID Analizi ile Kullanıcı Davranışlarını Anlamak | Tarik Zeybek | [Read More](https://medium.com/p/c89240513f98) |
 | Sun, 25 May 2025 21:02:55 GMT | When TikTok Becomes a Trojan Horse: The Rise of Social Media Malware Distribution | Ismail Tasdelen | [Read More](https://medium.com/p/5b172cfec576) |
-| Sun, 25 May 2025 21:02:04 GMT | Bug Bounty Journey — Valid Report Part 6 | 0xF3r4t | [Read More](https://medium.com/p/a51a9360ac3a) |
-| Sun, 25 May 2025 21:01:08 GMT | That Grumpy BSD Guy: A Short Reading List | Peter Hansteen | [Read More](https://medium.com/p/9016dddc3d9a) |
-| Sun, 25 May 2025 21:01:06 GMT | Google Gemini, the Pascaline of the Third Millennium: When AI Is Afraid to Decide | Francesco Cilibrasi | [Read More](https://medium.com/p/612dce4babf4) |
