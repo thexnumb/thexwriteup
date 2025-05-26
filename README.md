@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 16:38:14 GMT | Aplikasi Mobile Whimsy & Order: Tasky dengan Android Studio | Zifa Tea Azzahra | [Read More](https://medium.com/p/f6497d6c4c62) |
+| Mon, 26 May 2025 16:32:28 GMT | Endpoint Protection: Defending the Digital Frontlines | Vivian Aranha | [Read More](https://medium.com/p/3abbf8e3427e) |
+| Mon, 26 May 2025 16:32:03 GMT | Top 10 Python Hacks Used by Hackers and Bug Hunters | Vipul Sonule | [Read More](https://medium.com/p/57f0122ef5d1) |
+| Mon, 26 May 2025 16:30:10 GMT | Welcome to My Blog! | Venkatalakshmi Undamatla | [Read More](https://medium.com/p/662f95904967) |
+| Mon, 26 May 2025 16:27:41 GMT | Affordable Cybersecurity Solutions for Startups in Boston | Rutter-Net | [Read More](https://medium.com/p/60e7b753b19e) |
+| Mon, 26 May 2025 16:26:19 GMT | Beyond Compliance: How EU Regulation 2023/1230 and Emerging Norms Are Reshaping Industrial Strategy | martino.agostini | [Read More](https://medium.com/p/2e7e363b90a5) |
+| Mon, 26 May 2025 16:25:14 GMT | TryHackMe - AD: Authenticated Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/920f232047f5) |
 | Mon, 26 May 2025 16:21:18 GMT | From Crypto to Credential: The Untold Story of FIDO2 for Enterprise at Scale | David Canellos | [Read More](https://medium.com/p/b426a4a67fae) |
 | Mon, 26 May 2025 16:20:00 GMT | I will write sales, finance, banking, marketing, accounting, realtor, ecommerce resume | Oyefunkeegbeleke | [Read More](https://medium.com/p/90baf68ae454) |
 | Mon, 26 May 2025 16:17:43 GMT | OSINT for beginners — OPSEC | OSINT News | [Read More](https://medium.com/p/e17cd38f447e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 11:41:38 GMT | Planning an Event? Security Should Be Step One | Group 24/7 Security Services | [Read More](https://medium.com/p/5cc83381aa20) |
 | Mon, 26 May 2025 11:32:39 GMT | What is Content Security Policy (CSP)? A Simple Guide with Examples | Priyanshu Kuldeep | [Read More](https://medium.com/p/9a856638a09e) |
 | Mon, 26 May 2025 11:31:23 GMT | A Comprehensive Guide to Application Security: Types, Benefits, Tools and Techniques | Adhvaidh | [Read More](https://medium.com/p/9fbee60db5c9) |
-| Mon, 26 May 2025 11:31:07 GMT | #8 On TryHackMe Diamond  League | 0b1d1 | [Read More](https://medium.com/p/256e56677337) |
-| Mon, 26 May 2025 11:29:08 GMT | The Secret Weapon Behind Scalable Growth? An Information Technology Business Partner | Green Cloud Hosting | [Read More](https://medium.com/p/dc933c69cabb) |
-| Mon, 26 May 2025 11:28:50 GMT | TakeOver:-TryHackMe CTF Room | Gourav(spidergk) | [Read More](https://medium.com/p/4d361bbeac6e) |
-| Mon, 26 May 2025 11:24:59 GMT | How to Do Linux Installation Without Any Errors | cyberwingITSolution | [Read More](https://medium.com/p/78733abe25f7) |
-| Mon, 26 May 2025 11:24:34 GMT | “Overthinking Is Killing Your Happiness — Here’s How to Stop” | Kumari Priyanka , Senior Content writer | [Read More](https://medium.com/p/90ba98bd4007) |
-| Mon, 26 May 2025 11:23:40 GMT | IT Project Management Simplified | Chandrachud Sahi | [Read More](https://medium.com/p/9b8e7ffd2087) |
-| Mon, 26 May 2025 11:23:39 GMT | From Dev to Defend: How BSides Dublin 2025 Sparked My Shift to Cybersecurity | Pranav | [Read More](https://medium.com/p/49fb7df59db7) |
