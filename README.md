@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 07:20:59 GMT | International Cyber Conflict Analysis and Attribution Modeling: The Hidden Science of Digital… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c99ce019fc64) |
+| Mon, 26 May 2025 07:18:14 GMT | Master Wireshark tool Like a Pro: — The Ultimate Packet Analysis Guide for Real-World Analysts | Dean | [Read More](https://medium.com/p/981fb9024e7d) |
+| Mon, 26 May 2025 07:10:03 GMT | SOC Lab Phase 2 Summary: Azure Firewall Integration | Prajwal Timsina | [Read More](https://medium.com/p/6030072fc6c9) |
+| Mon, 26 May 2025 07:06:06 GMT | The Daily Tech Digest: 26 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c8231b17f29f) |
+| Mon, 26 May 2025 07:06:01 GMT | We don’t talk anymore-We just perform for each other | Kiara Elenor | [Read More](https://medium.com/p/748a34ce0153) |
+| Mon, 26 May 2025 07:03:33 GMT | Shadows of Defiance | Tales of Nyx | [Read More](https://medium.com/p/e65103d3ab94) |
+| Mon, 26 May 2025 07:01:55 GMT | Portswigger Cross-site scripting all apprentice labs | Nihad Alizada | [Read More](https://medium.com/p/6351ce0fd8ec) |
+| Mon, 26 May 2025 06:55:19 GMT | The Top 5 Data Breach Vectors Targeting Businesses Today (And How to Block Them) | West Advanced Technologies Inc | [Read More](https://medium.com/p/c9ebf1026954) |
+| Mon, 26 May 2025 06:51:06 GMT | Blueprint for a National-Scale Cybersecurity Strategy: Sovereignty, Deterrence, and Intelligence in… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/132f4aaebc6d) |
+| Mon, 26 May 2025 06:46:25 GMT | Establishing the AI Management System (Clause 4.4 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/33a600ae12b2) |
+| Mon, 26 May 2025 06:39:35 GMT | Visualization tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/5f489e219315) |
+| Mon, 26 May 2025 06:37:06 GMT | OWASP Pentest Series (5/12) | TheZeeshanKhan | [Read More](https://medium.com/p/89c942caff11) |
+| Mon, 26 May 2025 06:28:45 GMT | A Google Cloud Misconfiguration Exposed Critical Internet Exchange Infrastructure | Tiger Huang | [Read More](https://medium.com/p/72c4912570b0) |
 | Mon, 26 May 2025 06:21:39 GMT | ️ TryHackMe: Silver Platter - Full Walkthrough by RootSeeker | RootSeeker | [Read More](https://medium.com/p/b73c58e0790f) |
 | Mon, 26 May 2025 06:21:10 GMT | The Thankless Job of Reporting Security Vulnerabilities: A Cautionary Tale for Companies | Omarksm | [Read More](https://medium.com/p/2df091f0a3fc) |
 | Mon, 26 May 2025 06:19:34 GMT | Cybersecurity in 2025: Less about predictions, more about preparation | Peter Granlund | [Read More](https://medium.com/p/89844c0981d5) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 May 2025 21:02:04 GMT | Bug Bounty Journey — Valid Report Part 6 | 0xF3r4t | [Read More](https://medium.com/p/a51a9360ac3a) |
 | Sun, 25 May 2025 21:01:08 GMT | That Grumpy BSD Guy: A Short Reading List | Peter Hansteen | [Read More](https://medium.com/p/9016dddc3d9a) |
 | Sun, 25 May 2025 21:01:06 GMT | Google Gemini, the Pascaline of the Third Millennium: When AI Is Afraid to Decide | Francesco Cilibrasi | [Read More](https://medium.com/p/612dce4babf4) |
-| Sun, 25 May 2025 20:52:02 GMT | Securing AI in the Cloud | Samriddhi | [Read More](https://medium.com/p/236348de1b7c) |
-| Sun, 25 May 2025 20:44:46 GMT | Top Strategies for LunaFi $LFI Crypto Profit Success | LFI | [Read More](https://medium.com/p/353abb03b545) |
-| Sun, 25 May 2025 20:41:16 GMT | CTF Write-Up: Breaking Cryptoclock — A Predictable PRNG and the Ticking Time Bomb Seed | Not4a6f7365 | [Read More](https://medium.com/p/631ce555ad2b) |
-| Sun, 25 May 2025 20:24:28 GMT | Unleash Your Hacking Power: 3 Python Script Types Every Pentester MUST Know | jensbecker-dev | [Read More](https://medium.com/p/95a8023b49f3) |
-| Sun, 25 May 2025 20:11:58 GMT | AD CS ESC16: Misconfiguration and Exploitation | Munib Nawaz | [Read More](https://medium.com/p/9264e022a8c6) |
-| Sun, 25 May 2025 20:11:48 GMT | NahamconCTF2025 — The Accidental Screenshot and the Encrypted Flag | Not4a6f7365 | [Read More](https://medium.com/p/d838cf6cc5d0) |
-| Sun, 25 May 2025 20:11:21 GMT | Architecting Beyond Good Intentions: Making Security Mechanisms Work | Shittu | [Read More](https://medium.com/p/aaa1bf5bb7d7) |
-| Sun, 25 May 2025 20:10:49 GMT | What Is a Digital Immune System — And Why It Matters More Than You Think | TECH EMPIRE | [Read More](https://medium.com/p/3a914979bf45) |
-| Sun, 25 May 2025 20:00:43 GMT | My Experience Solving “Username Enumeration via Different Responses” on PortSwigger | Harisrangrez | [Read More](https://medium.com/p/8e7a916f80ec) |
-| Sun, 25 May 2025 19:59:55 GMT | 09374389086 | شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شم | [Read More](https://medium.com/p/f8ff930268c9) |
-| Sun, 25 May 2025 19:55:10 GMT | SOCx: The OSINT Tool I Created to Simplify (and Speed Up) IOC Investigations | Jagkter | [Read More](https://medium.com/p/daa714f3ae30) |
-| Sun, 25 May 2025 19:49:23 GMT | The Complete Guide to Securing Kubernetes: From Zero to Production-Ready | Salwan Mohamed | [Read More](https://medium.com/p/6b448849c875) |
-| Sun, 25 May 2025 19:45:29 GMT | Fortinet Under Fire: Critical Vulnerabilities and Stealthy Backdoor Threats Compromise Thousands… | DISHA GUPTA | [Read More](https://medium.com/p/13a6c6f865a4) |
