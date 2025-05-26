@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 May 2025 13:24:57 GMT | Fileless Injection with memfd_create | LordShen | [Read More](https://medium.com/p/8410d429c0e0) |
+| Mon, 26 May 2025 13:22:55 GMT | Cyber Security SEO Tips 2025 | Grandahsan | [Read More](https://medium.com/p/d6fca97a3e46) |
+| Mon, 26 May 2025 13:20:41 GMT | Day 3: DOM XSS in innerHTML sink using source location.search: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/3795cf43eab7) |
+| Mon, 26 May 2025 13:18:20 GMT | Here’s how I recover r my money from 365BitcoinMiner | Wilson Benjamin | [Read More](https://medium.com/p/376a26af169d) |
+| Mon, 26 May 2025 13:17:35 GMT | Enhancing Safety with Car Park Security and CCTV Monitoring | Qadir Riaz | [Read More](https://medium.com/p/0bf28f846f7c) |
+| Mon, 26 May 2025 13:17:24 GMT | WHY ENCRYPTION IS A MUST ON WEBSITE (especially login pages ) | Abdulkadir Ibrahim | [Read More](https://medium.com/p/7b0af0a2ee16) |
+| Mon, 26 May 2025 13:10:05 GMT | All Cybersecurity Is Local When The Balloon Goes Up | Helen Patton | [Read More](https://medium.com/p/8722600f92d5) |
+| Mon, 26 May 2025 13:06:51 GMT | Is it possible to recover my money from Hexminer ? | Fred Martins | [Read More](https://medium.com/p/36f69ebf40d9) |
+| Mon, 26 May 2025 13:06:01 GMT | 某摄像头管理员密码修改0day | xiaoshi | [Read More](https://medium.com/p/c98f9b97ff9e) |
+| Mon, 26 May 2025 13:02:37 GMT | The Dark Side of Memes: When Humor Becomes a Cyber Threat | Peris.ai Cybersecurity | [Read More](https://medium.com/p/2bf5d60cb949) |
+| Mon, 26 May 2025 13:02:18 GMT | xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs: A Wake-Up Call for AI Security | Ekene Joseph | [Read More](https://medium.com/p/2ec813a698d1) |
+| Mon, 26 May 2025 13:01:43 GMT | 10 Smart Steps to Choose the Right Security System for Your Commercial Property (And Avoid Costly… | Jessica Louise | [Read More](https://medium.com/p/f62bc45e9702) |
+| Mon, 26 May 2025 13:00:23 GMT | Comprehensive Security Testing Services: Safeguard Your Software from Cyber Threats | vaisak | [Read More](https://medium.com/p/ec027be4a59e) |
+| Mon, 26 May 2025 12:56:44 GMT | The Best Free VPNs in 2025: Which One Actually Deserves Your Trust? | Yousuff Mustapha | [Read More](https://medium.com/p/284c3012c773) |
+| Mon, 26 May 2025 12:45:02 GMT | How I safely Promoted the UUID to Primary Key in my SDMS Django Project: with Complex ForeignKey… | Lawal Tajudeen | [Read More](https://medium.com/p/ee0eeeb9d1e5) |
+| Mon, 26 May 2025 12:39:37 GMT | Software Devs Are Panicking About AI ..  Here’s Why Cybersecurity Is a Smart Escape Route | Taimur Ijlal | [Read More](https://medium.com/p/07bc9c1553c8) |
+| Mon, 26 May 2025 12:34:38 GMT | Organization Takeover via Privilege Escalation (IDOR) | Ehtesham Ul Haq | [Read More](https://medium.com/p/14786a2fa174) |
+| Mon, 26 May 2025 12:33:20 GMT | Keamanan Basis Data | davidnazal | [Read More](https://medium.com/p/6ed2ce6c9c52) |
 | Mon, 26 May 2025 12:31:14 GMT | Top 10 Security Tips to Keep Your Crypto Safe in 2025 | Travis B. Romero | [Read More](https://medium.com/p/6648e2e2f1ab) |
+| Mon, 26 May 2025 12:31:07 GMT | The Hidden Threat: Dark Patterns in Software Testing | kamalshelley | [Read More](https://medium.com/p/b8aa4c986e02) |
 | Mon, 26 May 2025 12:25:21 GMT | Germany Security Innovation | Presslink Media | [Read More](https://medium.com/p/1afa0f06b8cb) |
 | Mon, 26 May 2025 12:23:22 GMT | Rival Besar Asia Selatan: Perbandingan Antara India dan Pakistan | Kajima HIMA HI UNPAD | [Read More](https://medium.com/p/b87ce0852d9f) |
 | Mon, 26 May 2025 12:23:22 GMT | Top 5 Cybersecurity Projects for Beginners — Build Your Career the Hands-On Way! | Navigtech | [Read More](https://medium.com/p/8dc0ee19dc47) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 08:27:48 GMT | Walkthrough THM Surfer | Telynor | [Read More](https://medium.com/p/bb83c464c2bd) |
 | Mon, 26 May 2025 08:20:06 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | Mohammed Ali Mistry | [Read More](https://medium.com/p/8a0accdf9964) |
 | Mon, 26 May 2025 08:12:48 GMT | Ping Of Death Attack - DOS Attack | Alibinazam | [Read More](https://medium.com/p/167fa78f8b2f) |
-| Mon, 26 May 2025 07:52:26 GMT | No, the iPad Isn’t Dead — And No, Tech’s Not Slowing Down | NickyCammarata | [Read More](https://medium.com/p/e91e401e9f93) |
-| Mon, 26 May 2025 07:52:25 GMT | Cybersecurity for SMEs: Trends and Best Practices for 2025 | Andrei Ivan | [Read More](https://medium.com/p/57a06ba40890) |
-| Mon, 26 May 2025 07:48:36 GMT | KYC, KYB ve KYT: AML Uyumunun Üç Temel Ayağı | BeosinTR | [Read More](https://medium.com/p/0dba382d9bae) |
-| Mon, 26 May 2025 07:48:23 GMT | Stop Using localStorage for Auth Tokens (Here’s What to Do Instead) | jude otine | [Read More](https://medium.com/p/966ad1eea8f9) |
-| Mon, 26 May 2025 07:35:40 GMT | One Endpoint to Rule Them All: How I Chained 3 Bugs into Full Account Takeover | Iski | [Read More](https://medium.com/p/2d04a2f5dbc6) |
-| Mon, 26 May 2025 07:35:25 GMT | The “Sadece Online Özel” Trap: A Large-Scale Phishing Campaign Targeting Turkish Brands | Aminemarmara | [Read More](https://medium.com/p/c427eafdfd9d) |
-| Mon, 26 May 2025 07:20:59 GMT | International Cyber Conflict Analysis and Attribution Modeling: The Hidden Science of Digital… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c99ce019fc64) |
-| Mon, 26 May 2025 07:18:14 GMT | Master Wireshark tool Like a Pro: — The Ultimate Packet Analysis Guide for Real-World Analysts | Dean | [Read More](https://medium.com/p/981fb9024e7d) |
-| Mon, 26 May 2025 07:10:03 GMT | SOC Lab Phase 2 Summary: Azure Firewall Integration | Prajwal Timsina | [Read More](https://medium.com/p/6030072fc6c9) |
-| Mon, 26 May 2025 07:06:06 GMT | The Daily Tech Digest: 26 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c8231b17f29f) |
-| Mon, 26 May 2025 07:06:01 GMT | We don’t talk anymore-We just perform for each other | Kiara Elenor | [Read More](https://medium.com/p/748a34ce0153) |
-| Mon, 26 May 2025 07:03:33 GMT | Shadows of Defiance | Tales of Nyx | [Read More](https://medium.com/p/e65103d3ab94) |
-| Mon, 26 May 2025 07:01:55 GMT | Portswigger Cross-site scripting all apprentice labs | Nihad Alizada | [Read More](https://medium.com/p/6351ce0fd8ec) |
-| Mon, 26 May 2025 06:55:19 GMT | The Top 5 Data Breach Vectors Targeting Businesses Today (And How to Block Them) | West Advanced Technologies Inc | [Read More](https://medium.com/p/c9ebf1026954) |
-| Mon, 26 May 2025 06:51:06 GMT | Blueprint for a National-Scale Cybersecurity Strategy: Sovereignty, Deterrence, and Intelligence in… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/132f4aaebc6d) |
-| Mon, 26 May 2025 06:46:25 GMT | Establishing the AI Management System (Clause 4.4 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/33a600ae12b2) |
-| Mon, 26 May 2025 06:39:35 GMT | Visualization tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/5f489e219315) |
-| Mon, 26 May 2025 06:37:06 GMT | OWASP Pentest Series (5/12) | TheZeeshanKhan | [Read More](https://medium.com/p/89c942caff11) |
-| Mon, 26 May 2025 06:28:45 GMT | A Google Cloud Misconfiguration Exposed Critical Internet Exchange Infrastructure | Tiger Huang | [Read More](https://medium.com/p/72c4912570b0) |
