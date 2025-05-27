@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 07:19:27 GMT | 30 Days of Cyber Security — Day 1 : Apa sih Cyber Security itu? | Indra Rahmat Maulidi | [Read More](https://medium.com/p/7e6bf74f0d8e) |
+| Tue, 27 May 2025 07:09:06 GMT | The Wires That Bind: Kicking Off Networking Week with Hands-On Foundations
+It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb506) |
+| Tue, 27 May 2025 07:06:05 GMT | Beyond best practices: Using OWASP ASVS to bake security into your delivery pipeline for 2025 | Roman Huliak | [Read More](https://medium.com/p/36ff24c06960) |
+| Tue, 27 May 2025 07:05:38 GMT | Decoding the Global Cybersecurity Risk Index: A New Era of Strategic Digital Defense | A-STAR7_DOCTOR | [Read More](https://medium.com/p/e1b45b3568d6) |
+| Tue, 27 May 2025 07:04:16 GMT | Top 10 In-Demand Technology Careers to Watch in 2025 | Nithya | [Read More](https://medium.com/p/522175d3ef15) |
+| Tue, 27 May 2025 07:02:40 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/ff957937e200) |
+| Tue, 27 May 2025 07:02:38 GMT | Aprender Web Bug Bounty | Babyf4c3 | [Read More](https://medium.com/p/4d75cce5df9c) |
+| Tue, 27 May 2025 07:01:59 GMT | Day 4: DOM XSS in innerHTML sink using source location.search: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/32c993b86584) |
+| Tue, 27 May 2025 07:01:46 GMT | How Improper Regex Usage Can Open Your System to Vulnerabilities | ZVitoX | [Read More](https://medium.com/p/c7c5b1541c52) |
+| Tue, 27 May 2025 07:01:37 GMT | Cyber Security Summer Internship vs. Ethical Hacking Training: Which One Is Right for You? | Maya Dhavale | [Read More](https://medium.com/p/a301ed63aa16) |
+| Tue, 27 May 2025 07:00:16 GMT | The Image That Spoke JavaScript | Monika sharma | [Read More](https://medium.com/p/bdbd368921e4) |
+| Tue, 27 May 2025 07:00:06 GMT | Breaking Twitter’s VPN: $20,160 Bounty for a Pre-Auth RCE via Pulse Secure Chain | Monika sharma | [Read More](https://medium.com/p/ab0ad708e988) |
+| Tue, 27 May 2025 06:59:07 GMT | I Hacked Indian Government Websites and became Admin Ethically. | RivuDon | [Read More](https://medium.com/p/af6f68c06de3) |
+| Tue, 27 May 2025 06:52:15 GMT | Best Online Certified Ethical Hacker Training | cyber security Updates | [Read More](https://medium.com/p/70b64d9eec52) |
+| Tue, 27 May 2025 06:48:19 GMT | BBS+ — The Short And Anonymised Group Signature using WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0cb631d32c16) |
+| Tue, 27 May 2025 06:43:13 GMT | Demystifying Cookies : The Complete Guide for Bug Bounty Hunters — Part 1 | phoenixcatalan | [Read More](https://medium.com/p/c24d2670413a) |
+| Tue, 27 May 2025 06:40:54 GMT | How to Securely Update Password in Laravel: A Best Practice Guide | Mubashirxp | [Read More](https://medium.com/p/43ffed492792) |
+| Tue, 27 May 2025 06:39:58 GMT | DFIR: An Introduction - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/b512cf297c48) |
+| Tue, 27 May 2025 06:32:45 GMT | I Am Not My Faults — Reclaiming Myself from Misunderstood Vulnerability | Sheillah Kandagor | [Read More](https://medium.com/p/d3d111e8aed0) |
+| Tue, 27 May 2025 06:26:40 GMT | Fundamentals of Engineering (FE) Exam: A Pathway to Engineering in Japan Without a Degree | Irving Duran | [Read More](https://medium.com/p/b3a57efbcc86) |
 | Tue, 27 May 2025 06:24:11 GMT | Discovery of Hacking Tools : Netscan Pro | GNINGHAYE GUEMANDEU Malcolmx Hassler | [Read More](https://medium.com/p/aa593fd91ba4) |
 | Tue, 27 May 2025 06:21:13 GMT | Rise in Daily Online Scams | Harshalijain | [Read More](https://medium.com/p/2b3bf1a43eb1) |
 | Tue, 27 May 2025 06:19:51 GMT | Indonesia’s Dilemma: Defense Spending or Domestic Welfare? | Hafizh Ainul Haq | [Read More](https://medium.com/p/7ba072198e8f) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 22:36:45 GMT | Level Up Your Smart Contract Audits with 90 Real Vulnerability Reports | Np nate | [Read More](https://medium.com/p/12fb2eb934d3) |
 | Mon, 26 May 2025 22:25:52 GMT | Windows File System | Shamar Isaac | [Read More](https://medium.com/p/07eb005a9df5) |
 | Mon, 26 May 2025 22:22:28 GMT | Jira // Organised Choas | Omar El Saadawy | [Read More](https://medium.com/p/4effbe1af793) |
-| Mon, 26 May 2025 22:16:50 GMT | Network Protocols Explained | Karthikeyan Nagaraj | [Read More](https://medium.com/p/bdb04dd2c625) |
-| Mon, 26 May 2025 22:16:17 GMT | Can Orchid (OXT) VPN Enhance Privacy Against Quantum Threats in Cryptocurrency Networks? | Nick Gardner | [Read More](https://medium.com/p/d3b972625ac1) |
-| Mon, 26 May 2025 22:11:04 GMT | Virtual Honeypot System: My Research Project Outcome Evaluation | Pempho Chioza | [Read More](https://medium.com/p/0df6f38fbcbc) |
-| Mon, 26 May 2025 22:02:29 GMT | Menyelami Dunia Cyber Security: Memahami Dunia Cyber Security untuk Pemula | Rangga Ananda S | [Read More](https://medium.com/p/b7bb86a887ef) |
-| Mon, 26 May 2025 21:42:15 GMT | How to Choose the Right Cybersecurity Course in Saudi Arabia | Bradley Curtis | [Read More](https://medium.com/p/5c36948fa021) |
-| Mon, 26 May 2025 21:36:27 GMT | Tasman Sea Chessboard : Tiongkok’s Power Projection and Regional Security Dilemma | T Rahayuningtyas | [Read More](https://medium.com/p/52f7977e37ba) |
-| Mon, 26 May 2025 21:34:31 GMT | Solving the Ethernaut Fallout Challenge with Foundry | Martin Pál | [Read More](https://medium.com/p/325c30fae664) |
-| Mon, 26 May 2025 20:58:10 GMT | The Power of Complexity | Ed-it Editions | [Read More](https://medium.com/p/4d7c6ce64ae7) |
-| Mon, 26 May 2025 20:53:00 GMT | Application & Product Security 101: A Beginner’s Guide | Pratik Gaikwad | [Read More](https://medium.com/p/69cfc9f365ca) |
-| Mon, 26 May 2025 20:52:44 GMT | Threat Modeling: Hack-Proof Your Apps with Case Studies-Part1 | DrSecurityGuru | [Read More](https://medium.com/p/f2278a1fbcb7) |
-| Mon, 26 May 2025 20:50:10 GMT | Misconfigured OAuth = Instant Account Takeover (Even Before Signup!) | Ashok kumar pareek | [Read More](https://medium.com/p/62ae709c9f7e) |
-| Mon, 26 May 2025 20:45:52 GMT | Integrated Cyber Defense Implementation: Building a Unified Security Posture | Vivian Aranha | [Read More](https://medium.com/p/ae41e50654bc) |
-| Mon, 26 May 2025 20:45:26 GMT | Everything You Need to Know About JWT (JSON Web Tokens) for Secure Auth | Koushik | [Read More](https://medium.com/p/2f77b85e539e) |
-| Mon, 26 May 2025 20:38:30 GMT | Qasim Ali aka Kashif Boota Is a Scam Artist Exploiting IT Examination Dumps Students for Profit | aarav-sharma | [Read More](https://medium.com/p/43a6456cb6fd) |
-| Mon, 26 May 2025 20:35:17 GMT | Ghostly Hollowing | S12 - H4CK | [Read More](https://medium.com/p/3de4831c7a83) |
-| Mon, 26 May 2025 20:30:50 GMT | SQL MAP | Ali Karaoglan | [Read More](https://medium.com/p/2655bb190cb9) |
-| Mon, 26 May 2025 20:29:44 GMT | La direction comercialLE | Florent M | [Read More](https://medium.com/p/ea1cea18165b) |
-| Mon, 26 May 2025 20:27:16 GMT | TACACS+ ve RADIUS Arasındaki Farklar: Ağ Güvenliğinin Sessiz Kahramanları ️✨ | Emre Koç | [Read More](https://medium.com/p/91f31b038b3f) |
-| Mon, 26 May 2025 20:27:11 GMT | Understanding OWASP API Security: Safeguarding the Digital Backbone | Tanuj Shrivastava | [Read More](https://medium.com/p/79ddf75086d7) |
-| Mon, 26 May 2025 20:21:03 GMT | GAU — Get All URL’s | Snooptsz | [Read More](https://medium.com/p/45bd63ea678b) |
