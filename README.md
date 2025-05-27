@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 08:34:07 GMT | SOC111 — Traffic to Malware Domain - Event ID: 46 | Cyril Philipp Abajar | [Read More](https://medium.com/p/1e7daa52730b) |
+| Tue, 27 May 2025 08:30:01 GMT | They Called It a Support Group. It Was a crypto Trap | true crime | [Read More](https://medium.com/p/474f6ddbc5b7) |
+| Tue, 27 May 2025 08:27:52 GMT | Exploiting Web Cache Poisoning with X-Host Header Using Param Miner | Bash Overflow | [Read More](https://medium.com/p/f1b7b06bf5b8) |
+| Tue, 27 May 2025 08:27:11 GMT | Configure Entra ID Authentication for Azure Web Apps | Brian Veldman | [Read More](https://medium.com/p/9a80cf8aa296) |
 | Tue, 27 May 2025 08:26:27 GMT | My Private Roadmap Goto be Pentester & Bug Hunter. EN | Pip-x-h | [Read More](https://medium.com/p/3896202f1f55) |
 | Tue, 27 May 2025 08:22:34 GMT | Windealagency Review | Heather Schwartz | [Read More](https://medium.com/p/c3d309698306) |
+| Tue, 27 May 2025 08:22:00 GMT | IoT Connect: A Deep Dive into Mobile Application Penetration Testing | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/1d49b7bc9b05) |
 | Tue, 27 May 2025 08:21:03 GMT | Here’s How I Recover My Money From Windealagency | Heather Schwartz | [Read More](https://medium.com/p/c3149e1f3e5b) |
 | Tue, 27 May 2025 08:19:50 GMT | (My) Cyber Security Roadmap as Penetration Tester in 5 years Time Span | Muhammad Zidan | [Read More](https://medium.com/p/579f2a9379be) |
 | Tue, 27 May 2025 08:19:50 GMT | Into Linux Kernel Fuzzing: A Researcher’s Diary (Part 2) | Kerkroups | [Read More](https://medium.com/p/171b55c63697) |
@@ -26,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 07:58:42 GMT | The Yin and Yang of Addiction: Honoring Truth, Experience, and the Power of Discernment | Real-Talk | [Read More](https://medium.com/p/6c2a89c0ebf4) |
 | Tue, 27 May 2025 07:52:45 GMT | Timeline tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/68de350f87f4) |
 | Tue, 27 May 2025 07:49:07 GMT | B.Tech CSE (Specialization in Cyber Security) — Secure Your Future with NIILM University | jashleen | [Read More](https://medium.com/p/a560e765c862) |
+| Tue, 27 May 2025 07:42:02 GMT | Bagaimana dunia Security kedepannya? | Defri Wanda | [Read More](https://medium.com/p/fb56e528ccf2) |
 | Tue, 27 May 2025 07:37:14 GMT | Header Injection to Hero: How I Hijacked Emails and Made the Server Sing | Iski | [Read More](https://medium.com/p/7b8817e3736c) |
 | Tue, 27 May 2025 07:29:15 GMT | AWS Well Architect (Security Pillar) with Prowler | Fiardika Rizki | [Read More](https://medium.com/p/e90e9c361662) |
 | Tue, 27 May 2025 07:29:13 GMT | AWS Well Architect (Security Pillar) dengan Prowler | Fiardika Rizki | [Read More](https://medium.com/p/4dea4a701030) |
@@ -107,9 +113,3 @@ It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb5
 | Tue, 27 May 2025 02:26:40 GMT | HTB Bug Bounty Hunter Certification’s skill assessments: File Upload Attacks Walkthrough | ZeroByte | [Read More](https://medium.com/p/2c2895bba6df) |
 | Tue, 27 May 2025 02:19:53 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/be6f1e2d5b44) |
 | Tue, 27 May 2025 02:16:54 GMT | The Idealist’s Architecture Decision:Cross-Tenant Access — Part 2 | Jenny 秋 | [Read More](https://medium.com/p/5235d478a36e) |
-| Tue, 27 May 2025 02:13:38 GMT | Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication | Kailasv | [Read More](https://medium.com/p/5e062396923f) |
-| Tue, 27 May 2025 02:08:51 GMT | Z Speaks Truth, Again. | TheTamiloreJenrola | [Read More](https://medium.com/p/b7e7b63df3ee) |
-| Tue, 27 May 2025 02:08:46 GMT | The Threat You Can’t Scan For: Why I Built Veriduct | Christopher Aziz | [Read More](https://medium.com/p/602a8f2afc4e) |
-| Tue, 27 May 2025 02:00:32 GMT | CrowdStrike: The Cloud Security Leader Set to Surpass $500 | Felix Prehn | [Read More](https://medium.com/p/1e3dfea2c2e3) |
-| Tue, 27 May 2025 01:51:02 GMT | Understanding the Commvault Metallic Incident | Saransh Mahajan | [Read More](https://medium.com/p/83b5d9f0e064) |
-| Tue, 27 May 2025 01:43:19 GMT | Chalant in a Nonchalant World: Choosing Vulnerability Over Vanity | AJM | [Read More](https://medium.com/p/11b4712991de) |
