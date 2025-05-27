@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 21:09:41 GMT | Stopping attacks dead on their tracks | Adil Faiyaz | [Read More](https://medium.com/p/515f42bfa4d6) |
+| Tue, 27 May 2025 21:08:15 GMT | HTB Hacking Oopsie: A Beginner-Friendly Hack The Box Guide | BotsiCat | [Read More](https://medium.com/p/9a64b00b9276) |
+| Tue, 27 May 2025 21:05:02 GMT | How QA Became Cybersecurity’s Secret Weapon | Abhishek Sahu | [Read More](https://medium.com/p/8f79017761dc) |
+| Tue, 27 May 2025 21:01:33 GMT | 5 Steps to Improve Your Incident Response Time | John Locke | [Read More](https://medium.com/p/73a030ceaa60) |
+| Tue, 27 May 2025 21:00:29 GMT | Cybersecurity Bulletin | Cyberwise | [Read More](https://medium.com/p/d4621f3840b3) |
+| Tue, 27 May 2025 20:55:13 GMT | The Evolution of The IT Industry Since 1970. | Vishal Patel | [Read More](https://medium.com/p/bb862a98bf14) |
+| Tue, 27 May 2025 20:46:01 GMT | You’ve Got Mail | Priyadharsini Selvarajan | [Read More](https://medium.com/p/b90f84e58a49) |
 | Tue, 27 May 2025 20:40:50 GMT | EGCTF25 Digital Forensics Writeup | Ahmed Elessaway | [Read More](https://medium.com/p/8310a76912ac) |
 | Tue, 27 May 2025 20:39:41 GMT | The FACT Act: Strengthening National Security and Protecting American Consumers | National Security Institute | [Read More](https://medium.com/p/9b536771a4aa) |
 | Tue, 27 May 2025 20:39:21 GMT | A Midnight Blizzard Special: Simulating an RDP Phishing Campaign — PT 1 | Natebair | [Read More](https://medium.com/p/490cb59c0dc8) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 15:25:33 GMT | 5-Year Roadmap to Mastering Penetration Testing: From Zero to Elite Red Teamer | Deva | [Read More](https://medium.com/p/8536d09da44d) |
 | Tue, 27 May 2025 15:10:16 GMT | Effective Cyber Threat Triage with Osquery: Strategies for Enhanced Security Monitoring | Seb AGUELE | [Read More](https://medium.com/p/8ad79241aec7) |
 | Tue, 27 May 2025 15:09:54 GMT | Critical Exploit in Craft CMS: What It Means for Your Organization’s Web Security | Chetan Seripally | [Read More](https://medium.com/p/047c338bf773) |
-| Tue, 27 May 2025 15:02:40 GMT | How to Authenticate a React & .NET App with Microsoft Entra ID | James Austin Jr | [Read More](https://medium.com/p/f8b35f75e1bf) |
-| Tue, 27 May 2025 15:02:37 GMT | AI Fraud Detection: Why Your Bank’s Fraud Detection Just Got a $4 Billion Upgrade | Atharv | [Read More](https://medium.com/p/b524614cafa9) |
-| Tue, 27 May 2025 15:00:28 GMT | I Gave Away a GTM Playbook for Free — Then This Happened | QuietConversion | [Read More](https://medium.com/p/d9d2d50ccf25) |
-| Tue, 27 May 2025 14:59:27 GMT | How to stalk your crush without getting noticed (Reversing Instagram’s Web API) | Pablo Ajo | [Read More](https://medium.com/p/b8da3e8b4fbb) |
-| Tue, 27 May 2025 14:58:45 GMT | How a LinkedIn Post Shifted My Cybersecurity Learning Mindset | Galihabraa | [Read More](https://medium.com/p/77201e6f77fd) |
-| Tue, 27 May 2025 14:56:41 GMT | Born Again Vimmer ! | lukewago | [Read More](https://medium.com/p/c99f744b01a8) |
-| Tue, 27 May 2025 14:52:27 GMT | Full Credit Card Data in SessionStorage: A Real-World Web Security Breakdown | Patryk Kieszek | [Read More](https://medium.com/p/c1ac4e8169e2) |
