@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 12:43:50 GMT | Cybersecurity Isn’t a Checklist — It’s a Mindset | Niharika dalal | [Read More](https://medium.com/p/0703db38b15a) |
+| Tue, 27 May 2025 12:38:53 GMT | Cyber Threats to Financial Data: How to Protect Your Money in the Digital Age | Diehardmclane | [Read More](https://medium.com/p/6bbaba9cdfc8) |
+| Tue, 27 May 2025 12:37:40 GMT | Recap: 7 Days of AWS Pentesting | mauzware | [Read More](https://medium.com/p/82abd22ed4a1) |
+| Tue, 27 May 2025 12:36:20 GMT | Track the Hacks: Apa Itu Digital Forensics? | byuda | [Read More](https://medium.com/p/20fa6b95b347) |
+| Tue, 27 May 2025 12:33:54 GMT | How to Pass the CCNA Exam (200–301) — Complete Study Guide & Resources | Criptobox | [Read More](https://medium.com/p/f0c8c19b364b) |
+| Tue, 27 May 2025 12:32:25 GMT | CEH Module 1 (Lab 1): Performing Footprinting Through Search Engines | CyberNinja | [Read More](https://medium.com/p/d2e79362fe9e) |
+| Tue, 27 May 2025 12:31:49 GMT | Cyber Incident Response Training: Your Ultimate Defense Against Digital Disasters | Diehardmclane | [Read More](https://medium.com/p/9429035e7fc4) |
+| Tue, 27 May 2025 12:29:16 GMT | Solving the ‘Nobody Reads the Docs’ Problem with LLMs | Ankit Saini(@d3afh3av3n) | [Read More](https://medium.com/p/e382ef679b79) |
+| Tue, 27 May 2025 12:25:31 GMT | The Future of DevOps in India: A Technological Revolution in Progress | Vasundhra sharma | [Read More](https://medium.com/p/5171cd8d2002) |
+| Tue, 27 May 2025 12:21:52 GMT | How to Learn Ethical Hacking Step-by-Step | Charleskerren | [Read More](https://medium.com/p/65d73eac46af) |
+| Tue, 27 May 2025 12:20:31 GMT | The Hydra’s New Heads | E.D. Gibson | [Read More](https://medium.com/p/5694e753157f) |
+| Tue, 27 May 2025 12:18:37 GMT | Web Cache Deception (WCD) | Youssef Gadallah | [Read More](https://medium.com/p/7d15646b855c) |
+| Tue, 27 May 2025 12:17:58 GMT | The Coinbase Breach: A Wake-Up Call for Crypto Safety (And How to Stay Protected) | Dbrooks | [Read More](https://medium.com/p/002bf3192021) |
+| Tue, 27 May 2025 12:15:53 GMT | Neat and pretty words | Lineaurorawrites | [Read More](https://medium.com/p/f670639b9248) |
+| Tue, 27 May 2025 12:11:50 GMT | Anatomy of a Hacker Attack: An Open Call to X (Twitter) | Syrenka | [Read More](https://medium.com/p/251485374cdb) |
+| Tue, 27 May 2025 12:09:35 GMT | SaaS Startups: The Ultimate Guide to Building, Scaling, and Winning in 2025 | Dbrooks | [Read More](https://medium.com/p/410bafd3f57a) |
+| Tue, 27 May 2025 12:02:26 GMT | Beyond Internal Testing: What Claude’s Bug Bounty Program Reveals About the Strategic Role of Crowd… | Sarat Ramineni | [Read More](https://medium.com/p/cefa028382c3) |
+| Tue, 27 May 2025 12:02:14 GMT | Firewall Breaking: How to Protect Your Digital Castle | Dbrooks | [Read More](https://medium.com/p/18fdd6b1416f) |
+| Tue, 27 May 2025 11:57:09 GMT | Role of Security Agencies in Navi Mumbai - United Guard Force India | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/2f1a85b04a9e) |
+| Tue, 27 May 2025 11:53:48 GMT | I Passed Security+ — But Please Don’t Fall for the “30 Days to Cert” Hype | Luispuello | [Read More](https://medium.com/p/ed06f48a866b) |
+| Tue, 27 May 2025 11:51:56 GMT | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Rachael Muga | [Read More](https://medium.com/p/300e863864d8) |
+| Tue, 27 May 2025 11:49:34 GMT | Someone Loves Everything You Hate About Yourself | Amanur | [Read More](https://medium.com/p/19ba65856e9e) |
+| Tue, 27 May 2025 11:49:32 GMT | Spain Investigates Cybersecurity Weakness After Major Blackout | SafetyDetectives Research Team | [Read More](https://medium.com/p/bffd932928e7) |
+| Tue, 27 May 2025 11:42:25 GMT | From Robocop to the IT Industry | Loose Junk | [Read More](https://medium.com/p/13712f4304f5) |
+| Tue, 27 May 2025 11:39:22 GMT | Direct Syscall Injection in Windows | LordShen | [Read More](https://medium.com/p/933208529c4c) |
+| Tue, 27 May 2025 11:33:27 GMT | Hire a Hacker to Change your University Grades | Hackers World | [Read More](https://medium.com/p/a7576381d0ad) |
 | Tue, 27 May 2025 11:31:11 GMT | How I Used Malware to Create Malware | Rick Kanters | [Read More](https://medium.com/p/1d72be9e263b) |
 | Tue, 27 May 2025 11:29:53 GMT | The Rise of Smart Security Companies in Thane | united guard | [Read More](https://medium.com/p/bee86282c093) |
 | Tue, 27 May 2025 11:28:45 GMT | 5 Signs Your Wi-Fi Router Has Been Hacked — And How to Take Back Control | Alex Hughes | [Read More](https://medium.com/p/bdda912c22a6) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 09:06:50 GMT | Understanding XDR: The Future of Unified Cybersecurity | Ahmed Selmi | [Read More](https://medium.com/p/bc0d2fd4d012) |
 | Tue, 27 May 2025 08:55:28 GMT | Failing to Push Myself — Or Choosing Not To? | Joctan | [Read More](https://medium.com/p/d9ef632d96f6) |
 | Tue, 27 May 2025 08:54:21 GMT | A Bucket of Phish - TryHackme Writeup | Alireza Ghorbani | [Read More](https://medium.com/p/8496f9885f85) |
-| Tue, 27 May 2025 08:54:07 GMT | How I Withdraw My Money From Fxpro ? | Michael | [Read More](https://medium.com/p/4f6f20f7859d) |
-| Tue, 27 May 2025 08:46:37 GMT | Trying to get Google out of my Life | Leonardo Del Toro | [Read More](https://medium.com/p/7b1389c146cb) |
-| Tue, 27 May 2025 08:45:41 GMT | AI: The Greatest Threat and Defense in Cybersecurity Today | Infinity Technologies | [Read More](https://medium.com/p/a02d8a7f6b7f) |
-| Tue, 27 May 2025 08:34:07 GMT | SOC111 — Traffic to Malware Domain - Event ID: 46 | Cyril Philipp Abajar | [Read More](https://medium.com/p/1e7daa52730b) |
-| Tue, 27 May 2025 08:30:01 GMT | They Called It a Support Group. It Was a crypto Trap | true crime | [Read More](https://medium.com/p/474f6ddbc5b7) |
-| Tue, 27 May 2025 08:27:52 GMT | Exploiting Web Cache Poisoning with X-Host Header Using Param Miner | Bash Overflow | [Read More](https://medium.com/p/f1b7b06bf5b8) |
-| Tue, 27 May 2025 08:27:11 GMT | Configure Entra ID Authentication for Azure Web Apps | Brian Veldman | [Read More](https://medium.com/p/9a80cf8aa296) |
-| Tue, 27 May 2025 08:26:27 GMT | My Private Roadmap Goto be Pentester & Bug Hunter. EN | Pip-x-h | [Read More](https://medium.com/p/3896202f1f55) |
-| Tue, 27 May 2025 08:22:34 GMT | Windealagency Review | Heather Schwartz | [Read More](https://medium.com/p/c3d309698306) |
-| Tue, 27 May 2025 08:22:00 GMT | IoT Connect: A Deep Dive into Mobile Application Penetration Testing | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/1d49b7bc9b05) |
-| Tue, 27 May 2025 08:21:03 GMT | Here’s How I Recover My Money From Windealagency | Heather Schwartz | [Read More](https://medium.com/p/c3149e1f3e5b) |
-| Tue, 27 May 2025 08:19:50 GMT | (My) Cyber Security Roadmap as Penetration Tester in 5 years Time Span | Muhammad Zidan | [Read More](https://medium.com/p/579f2a9379be) |
-| Tue, 27 May 2025 08:19:50 GMT | Into Linux Kernel Fuzzing: A Researcher’s Diary (Part 2) | Kerkroups | [Read More](https://medium.com/p/171b55c63697) |
-| Tue, 27 May 2025 08:19:34 GMT | Wordpress Vulnerability Research | AbhirupKonwar | [Read More](https://medium.com/p/a2b3043f801d) |
-| Tue, 27 May 2025 08:17:49 GMT | Cyber Security Course with Placement in India | Manisha Chaudhary | [Read More](https://medium.com/p/23e662e03803) |
-| Tue, 27 May 2025 08:17:05 GMT | Tech Be Wild Now, From Pixels to Parasocials | Ais Farhan | [Read More](https://medium.com/p/712270a1999d) |
-| Tue, 27 May 2025 08:16:51 GMT | DLL Sideloading & SEO Poisoning Tactics: A Bumblebee Adventure | bfake | [Read More](https://medium.com/p/a09ccf2e6d18) |
-| Tue, 27 May 2025 08:05:28 GMT | The Truth About Antivirus: What Everyone Should Know | R1punjay_Singh | [Read More](https://medium.com/p/65765c9e7e17) |
-| Tue, 27 May 2025 08:04:34 GMT | Sui Network Pledges $10 Million for Security Overhaul After Cetus Hack Fallout | Tokenize Xchange | [Read More](https://medium.com/p/cdbfec353217) |
-| Tue, 27 May 2025 07:58:42 GMT | The Yin and Yang of Addiction: Honoring Truth, Experience, and the Power of Discernment | Real-Talk | [Read More](https://medium.com/p/6c2a89c0ebf4) |
-| Tue, 27 May 2025 07:52:45 GMT | Timeline tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/68de350f87f4) |
-| Tue, 27 May 2025 07:49:07 GMT | B.Tech CSE (Specialization in Cyber Security) — Secure Your Future with NIILM University | jashleen | [Read More](https://medium.com/p/a560e765c862) |
-| Tue, 27 May 2025 07:42:02 GMT | Bagaimana dunia Security kedepannya? | Defri Wanda | [Read More](https://medium.com/p/fb56e528ccf2) |
-| Tue, 27 May 2025 07:37:14 GMT | Header Injection to Hero: How I Hijacked Emails and Made the Server Sing | Iski | [Read More](https://medium.com/p/7b8817e3736c) |
-| Tue, 27 May 2025 07:29:15 GMT | AWS Well Architect (Security Pillar) with Prowler | Fiardika Rizki | [Read More](https://medium.com/p/e90e9c361662) |
-| Tue, 27 May 2025 07:29:13 GMT | AWS Well Architect (Security Pillar) dengan Prowler | Fiardika Rizki | [Read More](https://medium.com/p/4dea4a701030) |
