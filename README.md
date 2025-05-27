@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 20:40:50 GMT | EGCTF25 Digital Forensics Writeup | Ahmed Elessaway | [Read More](https://medium.com/p/8310a76912ac) |
+| Tue, 27 May 2025 20:39:41 GMT | The FACT Act: Strengthening National Security and Protecting American Consumers | National Security Institute | [Read More](https://medium.com/p/9b536771a4aa) |
+| Tue, 27 May 2025 20:39:21 GMT | A Midnight Blizzard Special: Simulating an RDP Phishing Campaign — PT 1 | Natebair | [Read More](https://medium.com/p/490cb59c0dc8) |
+| Tue, 27 May 2025 20:39:13 GMT | Mice Proving ground Walk through | Mariam | [Read More](https://medium.com/p/9f12f938920a) |
+| Tue, 27 May 2025 20:35:44 GMT | Why I Think GPT Will Be the Firewall of the Future | Corey Jones | [Read More](https://medium.com/p/113a1dadbe21) |
+| Tue, 27 May 2025 20:34:23 GMT | Which Ring Camera Is Right for You? Let’s Compare These 3 Popular Picks! | Elkangbang | [Read More](https://medium.com/p/545fa1cecacd) |
+| Tue, 27 May 2025 20:32:15 GMT | The Treaty That Bans Nuclear Weapons — and Why the World Needs It Now | Kenneth Chiu | [Read More](https://medium.com/p/f7307e9b262d) |
+| Tue, 27 May 2025 20:31:51 GMT | Accumulators With WASM: Crypto Pairing in the Browser | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8909b716dfb8) |
+| Tue, 27 May 2025 20:29:31 GMT | These Facebook Posts Always Make Me Want to Look Away in Disgust. | Daniel Andrew Boyd | [Read More](https://medium.com/p/b2b05267c511) |
+| Tue, 27 May 2025 20:26:51 GMT | $BOUNTY Yield Generation for Maximum Returns on StakingRewards | BOUNTY | [Read More](https://medium.com/p/49f1099c34f7) |
+| Tue, 27 May 2025 20:26:32 GMT | Command Injection Exploits and Defenses | musayyab sharif | [Read More](https://medium.com/p/d7fd0dc1ca36) |
+| Tue, 27 May 2025 20:23:05 GMT | What can you do to help prevent an addiction to social media? | Savvy Cyber Kids | [Read More](https://medium.com/p/4713d1592678) |
+| Tue, 27 May 2025 20:22:20 GMT | What are Some Educational YouTube Channels? | Savvy Cyber Kids | [Read More](https://medium.com/p/495f8070b1a7) |
+| Tue, 27 May 2025 20:21:45 GMT | Do’s and Don’ts of Posting Online | Savvy Cyber Kids | [Read More](https://medium.com/p/f61a8cf9620d) |
 | Tue, 27 May 2025 20:10:41 GMT | My Six-Month Internship with Flipkart’s Infosec Team (Jan-Jul’24) | Juhie Chandra | [Read More](https://medium.com/p/cdf70413be76) |
 | Tue, 27 May 2025 20:06:20 GMT | RootMe Room Walkthrough: A Step-by-Step Guide | JustSouichi | [Read More](https://medium.com/p/330deca83980) |
 | Tue, 27 May 2025 19:40:52 GMT | BehindTheScreens: AI Deception, Global Breaches, and the Expanding Cyber Threat Landscape | Sam - Behind The Screens | [Read More](https://medium.com/p/68a77a90568b) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 14:58:45 GMT | How a LinkedIn Post Shifted My Cybersecurity Learning Mindset | Galihabraa | [Read More](https://medium.com/p/77201e6f77fd) |
 | Tue, 27 May 2025 14:56:41 GMT | Born Again Vimmer ! | lukewago | [Read More](https://medium.com/p/c99f744b01a8) |
 | Tue, 27 May 2025 14:52:27 GMT | Full Credit Card Data in SessionStorage: A Real-World Web Security Breakdown | Patryk Kieszek | [Read More](https://medium.com/p/c1ac4e8169e2) |
-| Tue, 27 May 2025 14:52:17 GMT | SSRF to Local File Disclosure | Zoningxtr | [Read More](https://medium.com/p/b0af96993af8) |
-| Tue, 27 May 2025 14:50:03 GMT | How to Navigate AI Security: A Guide to LlamaFirewall, Garak, and ART ️ | Keith Foster | [Read More](https://medium.com/p/748a292a3608) |
-| Tue, 27 May 2025 14:49:55 GMT | Top Wholesale Directories for Access Control Systems & Security Products | Surabi | [Read More](https://medium.com/p/d8ee2944942b) |
-| Tue, 27 May 2025 14:49:40 GMT | ARC Stealer Hiding in the Ether | Jason Reaves | [Read More](https://medium.com/p/9231b3ac7318) |
-| Tue, 27 May 2025 14:49:21 GMT | Why Penetration Testing is Critical for Your Business Today | Smdefencerabbit | [Read More](https://medium.com/p/d0e8d569ad86) |
-| Tue, 27 May 2025 14:46:19 GMT | Cryptography:Cara menyelesaikan Challange CTF tipe RSA | mie ayam | [Read More](https://medium.com/p/93ef6d132909) |
-| Tue, 27 May 2025 14:42:25 GMT | Most Smart Contract Exploits Start Here: External Calls | Web3 Nautiyal | [Read More](https://medium.com/p/38c2850940e1) |
-| Tue, 27 May 2025 14:37:10 GMT | DevSecOps with GitLab: Shifting Security Left Without Breaking Your Pipeline | Ilkem Erol | [Read More](https://medium.com/p/8b04a2dcb429) |
-| Tue, 27 May 2025 14:28:31 GMT | From Zero to Hero: Panduan Lengkap Memulai Karir di Dunia Cybersecurity Part 1 | DhiasCode | [Read More](https://medium.com/p/310d67ebbf4f) |
-| Tue, 27 May 2025 14:28:16 GMT | Roadmap 5 Tahun Membangun Karir di Dunia Cyber Security | Arlian Tech | [Read More](https://medium.com/p/9276fddecb24) |
-| Tue, 27 May 2025 14:27:57 GMT | Introduction to Cyber Security: dari CIA Triad hingga Red vs Blue Team | leosycthe (not a typo—just a style choice) | [Read More](https://medium.com/p/f44808f82d7d) |
-| Tue, 27 May 2025 14:25:56 GMT | “The Human Mind: The Ultimate Vulnerability in Cybersecurity” | Rayuth David Phan | [Read More](https://medium.com/p/95a04e7ad401) |
-| Tue, 27 May 2025 14:25:43 GMT | LGDroid Lab | Jesús García Rubias | [Read More](https://medium.com/p/c7cc893f1e68) |
-| Tue, 27 May 2025 14:23:31 GMT | Mastering Logic Bugs: The Ultimate Checklist Update (Edition ) | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/0b8926f4b644) |
