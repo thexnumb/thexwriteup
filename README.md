@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 01:31:51 GMT | AI Hacking Village @ BSides TLV 2025 | Tal Eliyahu | [Read More](https://medium.com/p/8d24fd973fea) |
+| Tue, 27 May 2025 01:13:28 GMT | API Pentesting- Web API Fundamentals | Will Giles | [Read More](https://medium.com/p/ef55d38bfde2) |
+| Tue, 27 May 2025 01:11:41 GMT | How the World’s #1 Hacker Broke Systems Without Writing a Single Line of Code… | Alex Grande | [Read More](https://medium.com/p/6e936517c67c) |
+| Tue, 27 May 2025 00:50:00 GMT | 0x03 New Blog Again and Updated Site | Synchr0niz3d | [Read More](https://medium.com/p/dbb939debaee) |
+| Tue, 27 May 2025 00:48:37 GMT | A Bug Bounty Beginner's Setback - And a Request for Support | 127.0.0.1 | [Read More](https://medium.com/p/509ea402b1f8) |
+| Tue, 27 May 2025 00:47:07 GMT | Unmasking DRDoS: The Amplified Threat Behind Modern DDoS Attacks | MD AFTABUL ISLAM | [Read More](https://medium.com/p/ef370bb69528) |
+| Tue, 27 May 2025 00:42:35 GMT | Quora Trans/Gay Organized Crime Gang | Chris Burgess | [Read More](https://medium.com/p/1adbd1c9dafc) |
+| Tue, 27 May 2025 00:39:45 GMT | Beyond Training Data: How Anthropic’s Web Search API Powers Threat Hunting | Michael Rico | [Read More](https://medium.com/p/14fbece708ce) |
+| Tue, 27 May 2025 00:20:05 GMT | A conversation with Lieutenant General Michelle McGuinness CSC | Sasenka Abeysooriya | [Read More](https://medium.com/p/7b96759772e8) |
+| Tue, 27 May 2025 00:19:55 GMT | Command Injection: Evasion Tools & Prevention | Onur Bilici | [Read More](https://medium.com/p/99bd344723e0) |
+| Tue, 27 May 2025 00:10:22 GMT | Cybersecurity 101: Passive Reconnaissance with Nmap | Sevgi Nur Öksüz | [Read More](https://medium.com/p/502233ed1e6e) |
+| Tue, 27 May 2025 00:03:50 GMT | Am I Allowed To Break Down? | Jennifer Atsunyo | [Read More](https://medium.com/p/b9cdf3908517) |
+| Tue, 27 May 2025 00:02:34 GMT | Introduction to Splunk | JPablo13 | [Read More](https://medium.com/p/cdf13637de2f) |
+| Mon, 26 May 2025 23:51:44 GMT | Bug bounty:How i access hidden signup pages | Canonminibeast | [Read More](https://medium.com/p/11a42b4aabae) |
 | Mon, 26 May 2025 23:07:57 GMT | The Pentesting Trifecta CPTS-OSCP-PNPT | MalwareBro | [Read More](https://medium.com/p/a67900aab176) |
 | Mon, 26 May 2025 23:05:39 GMT | The Fake Crypto App That Cost Me My Business: How I Lost Everything Trying to ‘Modernize’ My Store” | true crime | [Read More](https://medium.com/p/9c844cbcd48d) |
 | Mon, 26 May 2025 22:53:32 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / MALICE CYBER RECOVERY WILL HELP | woodruff700 | [Read More](https://medium.com/p/acea38d77b49) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 17:03:10 GMT | Hi, I’m new here and just shared a post about a cybersecurity tool I’ve been learning to use as a… | Bilal Nachat | [Read More](https://medium.com/p/258b81035aba) |
 | Mon, 26 May 2025 17:00:16 GMT | How to Protect Your Business from Cyber Threats | RISKCOVERED | [Read More](https://medium.com/p/dbb99a48eb82) |
 | Mon, 26 May 2025 16:59:26 GMT | What can I do to recover my money from Luxequant ? | Jonas Martins | [Read More](https://medium.com/p/eb8722362e4d) |
-| Mon, 26 May 2025 16:53:05 GMT | OHSINT — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/418b468f0a45) |
-| Mon, 26 May 2025 16:52:37 GMT | An In-Depth Look at Claude’s System Prompt | Bachr Chi | [Read More](https://medium.com/p/2cad66d5d642) |
-| Mon, 26 May 2025 16:51:01 GMT | The Deepfake Dilemma: Navigating the Age of AI-Fueled Misinformation | Leslie | [Read More](https://medium.com/p/5c567caf383f) |
-| Mon, 26 May 2025 16:49:42 GMT | How to Earn Exclusive $CVE Rewards on StakingRewards | Anthony
- Wood | [Read More](https://medium.com/p/212a6f09ff8c) |
-| Mon, 26 May 2025 16:38:14 GMT | Aplikasi Mobile Whimsy & Order: Tasky dengan Android Studio | Zifa Tea Azzahra | [Read More](https://medium.com/p/f6497d6c4c62) |
-| Mon, 26 May 2025 16:37:14 GMT | Secure Your AWS Environment: IAM Best Practices for Multi-Account Setups | Kushagra Agrawal | [Read More](https://medium.com/p/d62a9bedfd3b) |
-| Mon, 26 May 2025 16:32:28 GMT | Endpoint Protection: Defending the Digital Frontlines | Vivian Aranha | [Read More](https://medium.com/p/3abbf8e3427e) |
-| Mon, 26 May 2025 16:32:03 GMT | Top 10 Python Hacks Used by Hackers and Bug Hunters | Vipul Sonule | [Read More](https://medium.com/p/57f0122ef5d1) |
-| Mon, 26 May 2025 16:30:10 GMT | Welcome to My Blog! | Venkatalakshmi Undamatla | [Read More](https://medium.com/p/662f95904967) |
-| Mon, 26 May 2025 16:27:41 GMT | Affordable Cybersecurity Solutions for Startups in Boston | Rutter-Net | [Read More](https://medium.com/p/60e7b753b19e) |
-| Mon, 26 May 2025 16:26:19 GMT | Beyond Compliance: How EU Regulation 2023/1230 and Emerging Norms Are Reshaping Industrial Strategy | martino.agostini | [Read More](https://medium.com/p/2e7e363b90a5) |
-| Mon, 26 May 2025 16:25:14 GMT | TryHackMe - AD: Authenticated Enumeration - WriteUp | Axoloth | [Read More](https://medium.com/p/920f232047f5) |
-| Mon, 26 May 2025 16:21:18 GMT | From Crypto to Credential: The Untold Story of FIDO2 for Enterprise at Scale | David Canellos | [Read More](https://medium.com/p/b426a4a67fae) |
-| Mon, 26 May 2025 16:20:00 GMT | I will write sales, finance, banking, marketing, accounting, realtor, ecommerce resume | Oyefunkeegbeleke | [Read More](https://medium.com/p/90baf68ae454) |
