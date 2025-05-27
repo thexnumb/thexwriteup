@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 13:27:43 GMT | C++ Arrays Mastery Note | AjayKrish | [Read More](https://medium.com/p/a4b390b985d8) |
+| Tue, 27 May 2025 13:23:48 GMT | Becoming a Threat Intelligence Researcher: A Professional Roadmap for Beginners in Cybersecurity | Azutech | [Read More](https://medium.com/p/227c584aac4d) |
+| Tue, 27 May 2025 13:23:39 GMT | THM- A Bucket of Phish | Francesco Pastore | [Read More](https://medium.com/p/4d98b1d497e4) |
+| Tue, 27 May 2025 13:23:36 GMT | DevSecOps in 2025: 11 Must-Have Tools to Build Fast and Stay Secure | Sam Bishop | [Read More](https://medium.com/p/1e5652f7bb8a) |
+| Tue, 27 May 2025 13:22:42 GMT | THM - PassCode | Francesco Pastore | [Read More](https://medium.com/p/9832fd7debce) |
+| Tue, 27 May 2025 13:20:17 GMT | Navigating the Unwritten Rules of Relationships | Bright Flow | [Read More](https://medium.com/p/51e5afbb1003) |
+| Tue, 27 May 2025 13:16:34 GMT | Keep your application alive on internet. | Florent Montel | [Read More](https://medium.com/p/984c877ee382) |
+| Tue, 27 May 2025 13:16:20 GMT | The One Log Entry That Made Me Realize My Linux Server Was Being Scanned | Faruk Ahmed | [Read More](https://medium.com/p/03775774cc5d) |
+| Tue, 27 May 2025 13:08:07 GMT | NahamCon CTF 2025 “The Mission” | Vikram | [Read More](https://medium.com/p/b16d4f3279e4) |
+| Tue, 27 May 2025 13:02:30 GMT | Network Blindspots? Peris.ai IRP Delivers 360° Monitoring | Peris.ai Cybersecurity | [Read More](https://medium.com/p/6ed119017e01) |
+| Tue, 27 May 2025 12:58:42 GMT | Unauthorized Device Access - Blackhat Hackers | BlackHat | [Read More](https://medium.com/p/47c077da4f42) |
+| Tue, 27 May 2025 12:57:23 GMT | The Role of Security Agencies in Mumbai’s Safety Landscape | United Guard Force India | [Read More](https://medium.com/p/b16dca8bb146) |
+| Tue, 27 May 2025 12:50:33 GMT | Cybersecurity Isn’t a Checklist — It’s a Mindset | Niharika Dalal | [Read More](https://medium.com/p/11e090cfde84) |
+| Tue, 27 May 2025 12:50:07 GMT | Global Cybersecurity in Crisis: Tech Giants Breached, AI Impersonation Surges, and Regulation… | Zyntrio Tech Report | [Read More](https://medium.com/p/ad849e3f59ae) |
+| Tue, 27 May 2025 12:49:13 GMT | Take care of your AI prompt privacy | iExec | [Read More](https://medium.com/p/27755bec78e9) |
+| Tue, 27 May 2025 12:45:53 GMT | Designing a Cyber Fusion Center for Multi-National Threat Intelligence Sharing | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0435d5f43809) |
+| Tue, 27 May 2025 12:45:16 GMT | Log 03: From Input to Output- How the Hardware Really Works | Apurva Cybersecurity | [Read More](https://medium.com/p/c6eabe468fbd) |
 | Tue, 27 May 2025 12:43:50 GMT | Cybersecurity Isn’t a Checklist — It’s a Mindset | Niharika dalal | [Read More](https://medium.com/p/0703db38b15a) |
+| Tue, 27 May 2025 12:39:48 GMT | Cara Jago Bikin Aplikasi Aman: Kenali OWASP dan Testingnya! | Daffa Mohamad Fathoni | [Read More](https://medium.com/p/1fcb4c552854) |
 | Tue, 27 May 2025 12:38:53 GMT | Cyber Threats to Financial Data: How to Protect Your Money in the Digital Age | Diehardmclane | [Read More](https://medium.com/p/6bbaba9cdfc8) |
 | Tue, 27 May 2025 12:37:40 GMT | Recap: 7 Days of AWS Pentesting | mauzware | [Read More](https://medium.com/p/82abd22ed4a1) |
 | Tue, 27 May 2025 12:36:20 GMT | Track the Hacks: Apa Itu Digital Forensics? | byuda | [Read More](https://medium.com/p/20fa6b95b347) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 09:42:14 GMT | HackTheBox[31]: Forge-Writeup | Onur Can İnalkaç | [Read More](https://medium.com/p/d1119ac7315f) |
 | Tue, 27 May 2025 09:39:34 GMT | Kidnapping, Torture, and Crypto: The Dark Reality of Rising Violent Crime | Jeremy Rush CEO Jonny Blockchain | [Read More](https://medium.com/p/151ce7a10a7f) |
 | Tue, 27 May 2025 09:39:13 GMT | U.S. Justice Department Dismantles DanaBot Malware Network in Major Cybercrime Crackdown | CyBlog | [Read More](https://medium.com/p/912c8f20e081) |
-| Tue, 27 May 2025 09:36:48 GMT | Hack The Box - Web - Spookifier - Writeup | Regan Temudo | [Read More](https://medium.com/p/222868302441) |
-| Tue, 27 May 2025 09:36:21 GMT | Netlas vs Shodan: Platforms Comparison | Netlas.io | [Read More](https://medium.com/p/f15ed19201b3) |
-| Tue, 27 May 2025 09:33:28 GMT | Common API Vulnerabilities in Symfony Explained | Pentest_Testing_Corp | [Read More](https://medium.com/p/6705723caace) |
-| Tue, 27 May 2025 09:28:20 GMT | Cybersecurity Part-1 | Amt | [Read More](https://medium.com/p/1ccedb180f04) |
-| Tue, 27 May 2025 09:28:07 GMT | Secure SDLC (SSDLC): How to Build Security into the Development Lifecycle | Pratik Gaikwad | [Read More](https://medium.com/p/0528762007bc) |
-| Tue, 27 May 2025 09:27:49 GMT | How AI Is Changing Password Security | Ewyatt | [Read More](https://medium.com/p/d2c5e6577852) |
-| Tue, 27 May 2025 09:26:22 GMT | How Can I Recover My Money From Coinfola? | Douglas | [Read More](https://medium.com/p/ee712e5e9c6d) |
-| Tue, 27 May 2025 09:24:05 GMT | Local File Inclusion (LFI) Due to Untrusted User Input | Sulabh Jain | [Read More](https://medium.com/p/1a1f1468a2db) |
-| Tue, 27 May 2025 09:20:58 GMT | 24/7 Smart Security for Your Construction Site | Ivis Constructionsurveillance | [Read More](https://medium.com/p/3a6b5395375a) |
-| Tue, 27 May 2025 09:18:36 GMT | Roadmap For Cyber Security In The Red Team | Daarin | [Read More](https://medium.com/p/9b50ce09e4c3) |
-| Tue, 27 May 2025 09:18:14 GMT | Is Toobit Legit or a Scam? My Experience Says It’s a Scam | Scott.K.brewer | [Read More](https://medium.com/p/444e2e96aeec) |
-| Tue, 27 May 2025 09:15:17 GMT | Toobit Review - is It Possible To Recover My Money? | Scott.K.brewer | [Read More](https://medium.com/p/77e93b57c3d4) |
-| Tue, 27 May 2025 09:15:09 GMT | Laravel from a Hacker’s View: How Attackers Exploit Your PHP Apps (And How to Stop Them) | Alhassan Mohammed | [Read More](https://medium.com/p/d2a8f5d54c17) |
-| Tue, 27 May 2025 09:11:23 GMT | Malware or LLM? Silent Werewolf employs new loaders to attack Russian and Moldovan organizations | BI.ZONE | [Read More](https://medium.com/p/c4135e2ec17c) |
-| Tue, 27 May 2025 09:07:23 GMT | Critical NETGEAR Router Vulnerability (CVE-2025–4978) Grants Full Admin Access Without… | Infoziant | [Read More](https://medium.com/p/19ba174d26e6) |
-| Tue, 27 May 2025 09:06:50 GMT | Understanding XDR: The Future of Unified Cybersecurity | Ahmed Selmi | [Read More](https://medium.com/p/bc0d2fd4d012) |
-| Tue, 27 May 2025 08:55:28 GMT | Failing to Push Myself — Or Choosing Not To? | Joctan | [Read More](https://medium.com/p/d9ef632d96f6) |
-| Tue, 27 May 2025 08:54:21 GMT | A Bucket of Phish - TryHackme Writeup | Alireza Ghorbani | [Read More](https://medium.com/p/8496f9885f85) |
