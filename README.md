@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 19:09:26 GMT | Hacking Certifications — A Conversation With An IT Cert Fraudster | Isaac Privett | [Read More](https://medium.com/p/34930bfba793) |
+| Tue, 27 May 2025 19:02:26 GMT | Say It To My Face | Symon Braun Freck | [Read More](https://medium.com/p/bbcef0ad237f) |
+| Tue, 27 May 2025 19:02:26 GMT | The Intelligence Technology and Big Eye Secrets: Navigating the Complex World of Cybersecurity and… | Karwan Mustafa Kareem | [Read More](https://medium.com/p/5ad40c3ce763) |
+| Tue, 27 May 2025 18:51:47 GMT | Web Uygulama Güvenliği-Dizin Tarama | ömer Kaan kurt | [Read More](https://medium.com/p/230fe729a303) |
+| Tue, 27 May 2025 18:42:58 GMT | Cyber Espionage: The Silent Threat Stealing Secrets in the Shadows | SafeAeon Inc. | [Read More](https://medium.com/p/e9028850034e) |
+| Tue, 27 May 2025 18:42:15 GMT | The Cyber Eye: Inside the Network Wars and Secrets of the Five Eyes Alliance | Karwan Mustafa Kareem | [Read More](https://medium.com/p/f5ff99c1c390) |
 | Tue, 27 May 2025 18:42:11 GMT | There is a group that uses Quora as a jump off point for their cyber crime and stalking and abuse. | Chris Burgess | [Read More](https://medium.com/p/750fbc9ff805) |
 | Tue, 27 May 2025 18:35:21 GMT | Boost Your Earnings with Curvance $CVE Profit Tips | CVE | [Read More](https://medium.com/p/3bca49226461) |
 | Tue, 27 May 2025 18:33:15 GMT | Unlocking the Gates: Essential REST API Authentication Methods Every Developer Must Master | Deepak Gupta | [Read More](https://medium.com/p/6accdae0e173) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 13:38:42 GMT | 11 años de ciberseguridad: Kali y Faraday. Crecer en comunidad, crecer en ciberseguridad | Faraday Team | [Read More](https://medium.com/p/154632301868) |
 | Tue, 27 May 2025 13:38:35 GMT | POV: 1st John 4:1, but it’s Scam related. | Obaoluwaseun | [Read More](https://medium.com/p/d759768b6b32) |
 | Tue, 27 May 2025 13:37:25 GMT | The AI Arms Race: How We’re Building Tomorrow’s Threats While Fighting Yesterday’s Wars | Eric Zietlow | [Read More](https://medium.com/p/e1026813f0f1) |
-| Tue, 27 May 2025 13:36:06 GMT | Letting Go of Perfection and Writing Anyway | Merxie Ezeh | [Read More](https://medium.com/p/f047a7f9ff48) |
-| Tue, 27 May 2025 13:27:43 GMT | C++ Arrays Mastery Note | AjayKrish | [Read More](https://medium.com/p/a4b390b985d8) |
-| Tue, 27 May 2025 13:23:48 GMT | Becoming a Threat Intelligence Researcher: A Professional Roadmap for Beginners in Cybersecurity | Azutech | [Read More](https://medium.com/p/227c584aac4d) |
-| Tue, 27 May 2025 13:23:39 GMT | THM- A Bucket of Phish | Francesco Pastore | [Read More](https://medium.com/p/4d98b1d497e4) |
-| Tue, 27 May 2025 13:23:36 GMT | DevSecOps in 2025: 11 Must-Have Tools to Build Fast and Stay Secure | Sam Bishop | [Read More](https://medium.com/p/1e5652f7bb8a) |
-| Tue, 27 May 2025 13:22:42 GMT | THM - PassCode | Francesco Pastore | [Read More](https://medium.com/p/9832fd7debce) |
