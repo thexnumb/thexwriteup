@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 05:32:28 GMT | Construction Data Security: Protecting Intellectual Property in Cloud-Based AEC Tools | AlterSquare | [Read More](https://medium.com/p/a605e34add2a) |
+| Tue, 27 May 2025 05:30:33 GMT | Two Sentences. That’s All It Takes to Ruin — or Save — Everything. | Para | [Read More](https://medium.com/p/0b6431b5b74f) |
+| Tue, 27 May 2025 05:30:03 GMT | What is Security Researcher? | NitishRawat | [Read More](https://medium.com/p/083e12aa8fe0) |
+| Tue, 27 May 2025 05:29:46 GMT | 금융사기 문자, 클릭하면 실제로 어떻게 되는 걸까? (2025년 기준 정리) | Smart Money Guide | [Read More](https://medium.com/p/d8ce941022c8) |
+| Tue, 27 May 2025 05:26:16 GMT | Find Secrets in Hidden Directories Using Fuzzing ️ | Abhijeet Kumawat | [Read More](https://medium.com/p/1666d6f34fd8) |
+| Tue, 27 May 2025 05:14:46 GMT | The Cost of Winning | McCauley | [Read More](https://medium.com/p/290c37cf45a4) |
 | Tue, 27 May 2025 05:14:04 GMT | ️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide | Asif Ebrahim | [Read More](https://medium.com/p/a46a916ea1f3) |
 | Tue, 27 May 2025 05:12:39 GMT | Mastering Debugging in Coding: Essential Tips to Identify and Fix Bugs Effectively | Yh Hh | [Read More](https://medium.com/p/253c6126794d) |
 | Tue, 27 May 2025 04:55:05 GMT | Secrets in the Backend: AWS Secrets Manager for Devs | Devops Trainer | [Read More](https://medium.com/p/738d976052c5) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 19:45:04 GMT | What Not to Do While Learning Cybersecurity? | Satyam Pathania | [Read More](https://medium.com/p/d4a8f36cfef8) |
 | Mon, 26 May 2025 19:44:59 GMT | Deployment of Blue-Jupyter with VirusTotal Integration on Kali Linux reference to TCM academy. | Muhammad Huzaifa | [Read More](https://medium.com/p/5448abe51139) |
 | Mon, 26 May 2025 19:44:57 GMT | Bypassing Garbage Collection: The Case-Sensitive Endpoint Exploit That Slipped Through | Monika sharma | [Read More](https://medium.com/p/d0eba8603234) |
-| Mon, 26 May 2025 19:44:52 GMT | $12,000 Bounty: Git Flag Injection to Remote Code Execution in GitLab | Monika sharma | [Read More](https://medium.com/p/0a442b58c40a) |
-| Mon, 26 May 2025 19:42:21 GMT | The Beginner’s Guide to Spring Boot Security (Without the Confusing Docs) | Tech Burner | [Read More](https://medium.com/p/22c0dac37986) |
-| Mon, 26 May 2025 19:41:20 GMT | How a Forgotten Link Parser Led to a $5000 XSS on Reddit | Monika sharma | [Read More](https://medium.com/p/b247cac099ff) |
-| Mon, 26 May 2025 19:41:09 GMT | Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket | Monika sharma | [Read More](https://medium.com/p/4894187f0414) |
-| Mon, 26 May 2025 19:34:17 GMT | Securing AI Systems in Federal Agencies: Challenges and Best Practices | Dr. Joseph J. Burt-Miller Jr. | [Read More](https://medium.com/p/75bec67fda1a) |
-| Mon, 26 May 2025 19:33:41 GMT | Malware Analysis: Zeus Trojan | Batu Ada Tutkun | [Read More](https://medium.com/p/497a83116a05) |
