@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 06:24:11 GMT | Discovery of Hacking Tools : Netscan Pro | GNINGHAYE GUEMANDEU Malcolmx Hassler | [Read More](https://medium.com/p/aa593fd91ba4) |
+| Tue, 27 May 2025 06:21:13 GMT | Rise in Daily Online Scams | Harshalijain | [Read More](https://medium.com/p/2b3bf1a43eb1) |
+| Tue, 27 May 2025 06:19:51 GMT | Indonesia’s Dilemma: Defense Spending or Domestic Welfare? | Hafizh Ainul Haq | [Read More](https://medium.com/p/7ba072198e8f) |
+| Tue, 27 May 2025 06:19:04 GMT | Working Remote on a Budget: How to Set Up a Home Office Without Breaking the Bank. | Reapool | [Read More](https://medium.com/p/86a730dd4d6f) |
+| Tue, 27 May 2025 06:17:54 GMT | Vulnerability | NitishRawat | [Read More](https://medium.com/p/c69d4c761991) |
+| Tue, 27 May 2025 06:16:28 GMT | Tools and techniques for effective error detection | NIKITA SINGH | [Read More](https://medium.com/p/057ac3f9bd18) |
+| Tue, 27 May 2025 06:15:26 GMT | Step by Step Complete Beginners guide of iOS penetration testing | Sandeep Vishwakarma | [Read More](https://medium.com/p/17092c0e0dc7) |
+| Tue, 27 May 2025 06:06:17 GMT | About Google is a leading | NIKITA SINGH | [Read More](https://medium.com/p/8b0e6e195a97) |
+| Tue, 27 May 2025 06:02:46 GMT | When GPS Meets Espionage: How Chinese Hackers Turned Trimble Into a Digital Highway ️ | Ismail Tasdelen | [Read More](https://medium.com/p/395ac48542e2) |
+| Tue, 27 May 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — May 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a6009c345128) |
+| Tue, 27 May 2025 06:00:16 GMT | ️ Django Security Essentials — Defending Against CSRF, XSS, SQL Injection & Rate Limiting | Priyanshu Rajput | [Read More](https://medium.com/p/ce693569b810) |
+| Tue, 27 May 2025 05:56:30 GMT | Beside Him, I Became | Pratibha Singh | [Read More](https://medium.com/p/9f1f88c6ec17) |
+| Tue, 27 May 2025 05:41:32 GMT | Race Condition Vulnerability | Rishav anand | [Read More](https://medium.com/p/db1a936f17aa) |
 | Tue, 27 May 2025 05:32:28 GMT | Construction Data Security: Protecting Intellectual Property in Cloud-Based AEC Tools | AlterSquare | [Read More](https://medium.com/p/a605e34add2a) |
 | Tue, 27 May 2025 05:30:33 GMT | Two Sentences. That’s All It Takes to Ruin — or Save — Everything. | Para | [Read More](https://medium.com/p/0b6431b5b74f) |
 | Tue, 27 May 2025 05:30:03 GMT | What is Security Researcher? | NitishRawat | [Read More](https://medium.com/p/083e12aa8fe0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 20:27:16 GMT | TACACS+ ve RADIUS Arasındaki Farklar: Ağ Güvenliğinin Sessiz Kahramanları ️✨ | Emre Koç | [Read More](https://medium.com/p/91f31b038b3f) |
 | Mon, 26 May 2025 20:27:11 GMT | Understanding OWASP API Security: Safeguarding the Digital Backbone | Tanuj Shrivastava | [Read More](https://medium.com/p/79ddf75086d7) |
 | Mon, 26 May 2025 20:21:03 GMT | GAU — Get All URL’s | Snooptsz | [Read More](https://medium.com/p/45bd63ea678b) |
-| Mon, 26 May 2025 20:14:15 GMT | SOC202 — FakeGPT Malicious Chrome Extension | Harshprajapati | [Read More](https://medium.com/p/2f1b8b665184) |
-| Mon, 26 May 2025 20:13:34 GMT | Directory Traversal | Ali Karaoglan | [Read More](https://medium.com/p/cc9d7864e896) |
-| Mon, 26 May 2025 20:09:35 GMT | Quick and Secure : Fedora on an External SSD for Great Privacy | H-H Kolberg | [Read More](https://medium.com/p/b57d828bf3cf) |
-| Mon, 26 May 2025 20:09:24 GMT | Who are IT Experts | IT Experts | [Read More](https://medium.com/p/2926430fc895) |
-| Mon, 26 May 2025 20:07:04 GMT | دعانویس یهودی تضمینی 09058824042 | استاد.یهودا ۰۹۰۵۸۸۲۴۰۴۲ | [Read More](https://medium.com/p/19cabec6fb65) |
-| Mon, 26 May 2025 20:04:56 GMT | What is Computer Security: Compete Guide | Zeeshan Ali | [Read More](https://medium.com/p/a38624c3a5c6) |
-| Mon, 26 May 2025 20:03:53 GMT | Ways Asset Identification Builds Your Cybersecurity Fortress | IT_Engineer | [Read More](https://medium.com/p/ec7f45ab55be) |
-| Mon, 26 May 2025 19:56:52 GMT | Server-Side Request Forgery (SSRF) | Ali Karaoglan | [Read More](https://medium.com/p/8d3d79fbd8a9) |
-| Mon, 26 May 2025 19:54:39 GMT | Top Cybersecurity Case Studies and Success Stories in Healthcare (2025) | Abel Assefa | [Read More](https://medium.com/p/c471f5c0a7bd) |
-| Mon, 26 May 2025 19:52:31 GMT | The Great Developer Deception: How 70+ Malicious npm Packages and VS Code Extensions Almost Fooled… | Ismail Tasdelen | [Read More](https://medium.com/p/3d164e62922c) |
-| Mon, 26 May 2025 19:45:04 GMT | What Not to Do While Learning Cybersecurity? | Satyam Pathania | [Read More](https://medium.com/p/d4a8f36cfef8) |
-| Mon, 26 May 2025 19:44:59 GMT | Deployment of Blue-Jupyter with VirusTotal Integration on Kali Linux reference to TCM academy. | Muhammad Huzaifa | [Read More](https://medium.com/p/5448abe51139) |
-| Mon, 26 May 2025 19:44:57 GMT | Bypassing Garbage Collection: The Case-Sensitive Endpoint Exploit That Slipped Through | Monika sharma | [Read More](https://medium.com/p/d0eba8603234) |
