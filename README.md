@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 14:42:25 GMT | Most Smart Contract Exploits Start Here: External Calls | Web3 Nautiyal | [Read More](https://medium.com/p/38c2850940e1) |
+| Tue, 27 May 2025 14:37:10 GMT | DevSecOps with GitLab: Shifting Security Left Without Breaking Your Pipeline | Ilkem Erol | [Read More](https://medium.com/p/8b04a2dcb429) |
+| Tue, 27 May 2025 14:28:31 GMT | From Zero to Hero: Panduan Lengkap Memulai Karir di Dunia Cybersecurity Part 1 | DhiasCode | [Read More](https://medium.com/p/310d67ebbf4f) |
+| Tue, 27 May 2025 14:28:16 GMT | Roadmap 5 Tahun Membangun Karir di Dunia Cyber Security | Arlian Tech | [Read More](https://medium.com/p/9276fddecb24) |
+| Tue, 27 May 2025 14:27:57 GMT | Introduction to Cyber Security: dari CIA Triad hingga Red vs Blue Team | leosycthe (not a typo—just a style choice) | [Read More](https://medium.com/p/f44808f82d7d) |
+| Tue, 27 May 2025 14:25:56 GMT | “The Human Mind: The Ultimate Vulnerability in Cybersecurity” | Rayuth David Phan | [Read More](https://medium.com/p/95a04e7ad401) |
+| Tue, 27 May 2025 14:25:43 GMT | LGDroid Lab | Jesús García Rubias | [Read More](https://medium.com/p/c7cc893f1e68) |
+| Tue, 27 May 2025 14:23:31 GMT | Mastering Logic Bugs: The Ultimate Checklist Update (Edition ) | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/0b8926f4b644) |
 | Tue, 27 May 2025 14:19:47 GMT | Sticky Hacker Challenge (Forensics)— EG-CTF 2025— Write-up | Omar Elmohr | [Read More](https://medium.com/p/dd401a3683ca) |
 | Tue, 27 May 2025 14:08:54 GMT | Cryptocurrency Security: Protecting Your Digital Assets | Optix Forensics | [Read More](https://medium.com/p/601db13a3c2f) |
 | Tue, 27 May 2025 14:03:21 GMT | Day 48: VPN & Tunneling: A Deep Dive into the Backbone of Secure Communication | Agarwaldaksh | [Read More](https://medium.com/p/dbd03ec0ee6e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 10:29:59 GMT | Lame — HackTheBox Writeup | AP3X | [Read More](https://medium.com/p/a47e3ab91912) |
 | Tue, 27 May 2025 10:29:28 GMT | Prompt engineering and cyber attacks | Martin Abramov | [Read More](https://medium.com/p/4f598e8ec15f) |
 | Tue, 27 May 2025 10:26:36 GMT | The Security Benefits of Using Bitcoin in Banking Systems | Imali | [Read More](https://medium.com/p/ff4693344ed5) |
-| Tue, 27 May 2025 10:25:12 GMT | From Classroom to HackTheBox: My Journey Through Cybersecurity Degree, Certifications, and the… | 0xN1gh7xW1z4rd | [Read More](https://medium.com/p/9891a3eeeb80) |
-| Tue, 27 May 2025 10:21:59 GMT | Behind the Color-Coded Teams of CyberSecurity | Jasmehr Kaur | [Read More](https://medium.com/p/210942a92bcb) |
-| Tue, 27 May 2025 10:21:27 GMT | Ransomware Scammers Main Target | Kevin | [Read More](https://medium.com/p/1f7ad0d08137) |
-| Tue, 27 May 2025 10:14:20 GMT | The IDOR That Played Hide-and-Seek in the URL Path | Shubham Tiwari | [Read More](https://medium.com/p/540ab1e207fb) |
-| Tue, 27 May 2025 10:13:34 GMT | CYBERSECURITY LAB SETUP | Betsy Rose Wabuke | [Read More](https://medium.com/p/53c604dd08b8) |
-| Tue, 27 May 2025 10:12:50 GMT | SOC + SIEM=A game-changer for your IT security | Century Solutions Group | [Read More](https://medium.com/p/88add4c03237) |
-| Tue, 27 May 2025 10:09:13 GMT | Business Intelligence Solutions | Purple Box | [Read More](https://medium.com/p/e5e4bdf2937b) |
-| Tue, 27 May 2025 10:06:06 GMT | Your vulnerability is safest with God — not with people. | Basma ILyas Raees | [Read More](https://medium.com/p/3f0a4a5715c7) |
