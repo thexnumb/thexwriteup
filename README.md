@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 05:14:04 GMT | ️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide | Asif Ebrahim | [Read More](https://medium.com/p/a46a916ea1f3) |
+| Tue, 27 May 2025 05:12:39 GMT | Mastering Debugging in Coding: Essential Tips to Identify and Fix Bugs Effectively | Yh Hh | [Read More](https://medium.com/p/253c6126794d) |
+| Tue, 27 May 2025 04:55:05 GMT | Secrets in the Backend: AWS Secrets Manager for Devs | Devops Trainer | [Read More](https://medium.com/p/738d976052c5) |
+| Tue, 27 May 2025 04:52:00 GMT | Gemini API call from Vertex AI guide | Terry Cho | [Read More](https://medium.com/p/c549aed8d352) |
+| Tue, 27 May 2025 04:44:05 GMT | Security Robot Checklist | Marcus Koehnlein | [Read More](https://medium.com/p/27f5a9075015) |
+| Tue, 27 May 2025 04:42:30 GMT | Understanding Scalability in Cyber-Physical Systems | Data Defendere | [Read More](https://medium.com/p/ba51a1a70be6) |
+| Tue, 27 May 2025 04:32:52 GMT | Planning ARCON PAM Deployment — Infrastructure Checklist & Prerequisites | Amrit Sinha | [Read More](https://medium.com/p/6e2c62aa8f88) |
+| Tue, 27 May 2025 04:25:36 GMT | Why Does Every Business Need a Cyber Security Strategy? | Webtrills | [Read More](https://medium.com/p/ef34c8e9e2b9) |
 | Tue, 27 May 2025 04:20:18 GMT | 6 Cyber Attacks You Must Know Before It Is Too Late | Dibeesh KS | [Read More](https://medium.com/p/743ca28c3102) |
 | Tue, 27 May 2025 04:19:58 GMT | ประจำวันอังคารที่ 27 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/363d48114ee6) |
 | Tue, 27 May 2025 04:14:44 GMT | If Your PHP Code Can’t Self-Patch, You’re Already a Security Liability | Asian Digital Hub | [Read More](https://medium.com/p/37a32568f92f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 19:41:09 GMT | Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket | Monika sharma | [Read More](https://medium.com/p/4894187f0414) |
 | Mon, 26 May 2025 19:34:17 GMT | Securing AI Systems in Federal Agencies: Challenges and Best Practices | Dr. Joseph J. Burt-Miller Jr. | [Read More](https://medium.com/p/75bec67fda1a) |
 | Mon, 26 May 2025 19:33:41 GMT | Malware Analysis: Zeus Trojan | Batu Ada Tutkun | [Read More](https://medium.com/p/497a83116a05) |
-| Mon, 26 May 2025 19:28:50 GMT | Semgrep for SaaS Companies in the Era of AI: A Practical Guide to Boost Your Security | Deepak Garg | [Read More](https://medium.com/p/7281dc885d42) |
-| Mon, 26 May 2025 19:21:30 GMT | CTF Write-up: DanaBot(Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/51037164e3ce) |
-| Mon, 26 May 2025 19:16:40 GMT | Threat Detection via Windows Registry | Esra Kayhan | [Read More](https://medium.com/p/57abbb83eb46) |
-| Mon, 26 May 2025 19:13:04 GMT | Context Cancellation Chains: The Bug That Took Down Our Payment System | CaffeinatedCoder | [Read More](https://medium.com/p/1b48525edaa9) |
-| Mon, 26 May 2025 19:12:15 GMT | Defensive System Prompt: a Short Study | Tomer Wetzler | [Read More](https://medium.com/p/5637cb2d5700) |
-| Mon, 26 May 2025 19:11:26 GMT | Why XSS Can Help You Get Your First Bug Bounty: A Beginner’s Deep-Dive | Asif Ebrahim | [Read More](https://medium.com/p/706226a04d09) |
-| Mon, 26 May 2025 19:08:16 GMT | Beware of Brushing Scams: A Hidden Threat to Shoppers | Xaltius | [Read More](https://medium.com/p/fe2f7aac0c71) |
-| Mon, 26 May 2025 19:07:30 GMT | CryptoXpress: Simplifying the Web3 Journey Through Smart Integration | Aubreyjay | [Read More](https://medium.com/p/577b12cd272f) |
