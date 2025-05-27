@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 14:19:47 GMT | Sticky Hacker Challenge (Forensics)— EG-CTF 2025— Write-up | Omar Elmohr | [Read More](https://medium.com/p/dd401a3683ca) |
+| Tue, 27 May 2025 14:08:54 GMT | Cryptocurrency Security: Protecting Your Digital Assets | Optix Forensics | [Read More](https://medium.com/p/601db13a3c2f) |
+| Tue, 27 May 2025 14:03:21 GMT | Day 48: VPN & Tunneling: A Deep Dive into the Backbone of Secure Communication | Agarwaldaksh | [Read More](https://medium.com/p/dbd03ec0ee6e) |
+| Tue, 27 May 2025 14:01:24 GMT | Cyber Briefing: 2025.05.27 | CyberMaterial | [Read More](https://medium.com/p/22ccd6c40dd6) |
+| Tue, 27 May 2025 13:56:43 GMT | Inside the UK’s Cyber Ambition: What 2025 and Beyond Means for You | WayneReidUK | [Read More](https://medium.com/p/5891da123430) |
+| Tue, 27 May 2025 13:56:20 GMT | From OTP to ATO: A $10K Mobile Bug in State Validation | Damian Gambacorta | [Read More](https://medium.com/p/616aebbb7208) |
+| Tue, 27 May 2025 13:51:56 GMT | Cyber threats evolve, and 2025 has delivered yet another example… | Hantz Jermain | [Read More](https://medium.com/p/d1b01e30da67) |
+| Tue, 27 May 2025 13:49:01 GMT | Steps Towards AI Governance — The Benefits of a Privacy-First Approach | Tudor Borlea | [Read More](https://medium.com/p/484ade3fdad8) |
+| Tue, 27 May 2025 13:42:49 GMT | “Time won’t fly, it’s like I’m paralyzed by it” | Manasvi Gupta | [Read More](https://medium.com/p/0172b8ba727e) |
+| Tue, 27 May 2025 13:39:29 GMT | Autonome Wachsysteme | Presslink Media | [Read More](https://medium.com/p/2ab4e8e4bdb6) |
+| Tue, 27 May 2025 13:38:42 GMT | 11 años de ciberseguridad: Kali y Faraday. Crecer en comunidad, crecer en ciberseguridad | Faraday Team | [Read More](https://medium.com/p/154632301868) |
+| Tue, 27 May 2025 13:38:35 GMT | POV: 1st John 4:1, but it’s Scam related. | Obaoluwaseun | [Read More](https://medium.com/p/d759768b6b32) |
+| Tue, 27 May 2025 13:37:25 GMT | The AI Arms Race: How We’re Building Tomorrow’s Threats While Fighting Yesterday’s Wars | Eric Zietlow | [Read More](https://medium.com/p/e1026813f0f1) |
+| Tue, 27 May 2025 13:36:06 GMT | Letting Go of Perfection and Writing Anyway | Merxie Ezeh | [Read More](https://medium.com/p/f047a7f9ff48) |
 | Tue, 27 May 2025 13:27:43 GMT | C++ Arrays Mastery Note | AjayKrish | [Read More](https://medium.com/p/a4b390b985d8) |
 | Tue, 27 May 2025 13:23:48 GMT | Becoming a Threat Intelligence Researcher: A Professional Roadmap for Beginners in Cybersecurity | Azutech | [Read More](https://medium.com/p/227c584aac4d) |
 | Tue, 27 May 2025 13:23:39 GMT | THM- A Bucket of Phish | Francesco Pastore | [Read More](https://medium.com/p/4d98b1d497e4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 10:12:50 GMT | SOC + SIEM=A game-changer for your IT security | Century Solutions Group | [Read More](https://medium.com/p/88add4c03237) |
 | Tue, 27 May 2025 10:09:13 GMT | Business Intelligence Solutions | Purple Box | [Read More](https://medium.com/p/e5e4bdf2937b) |
 | Tue, 27 May 2025 10:06:06 GMT | Your vulnerability is safest with God — not with people. | Basma ILyas Raees | [Read More](https://medium.com/p/3f0a4a5715c7) |
-| Tue, 27 May 2025 10:05:53 GMT | CISM Certification and CISSP Certification: Which One Should You Choose? | Cybernous Infosec consulting | [Read More](https://medium.com/p/c20a87a697f4) |
-| Tue, 27 May 2025 09:58:34 GMT | Myths About Ethical Hacking | Crawsec | [Read More](https://medium.com/p/05c8f1f53060) |
-| Tue, 27 May 2025 09:55:33 GMT | OlympTrade Review 2025 | James J.love | [Read More](https://medium.com/p/04aa896e9bc8) |
-| Tue, 27 May 2025 09:55:13 GMT | ESP32-S3Rogue: Building Advance Rogue Wi-Fi AP for Security Research and Demonstration. | Lyxt | [Read More](https://medium.com/p/5a5764ceda74) |
-| Tue, 27 May 2025 09:53:48 GMT | Here’s How I Recovered My Money from OlympTrade | James J.love | [Read More](https://medium.com/p/5b0b5da8d235) |
-| Tue, 27 May 2025 09:49:02 GMT | How I Earned $$$ in a CORS Exploit Misconfigured | Buvaneshvaran K | [Read More](https://medium.com/p/1ff736e75314) |
-| Tue, 27 May 2025 09:47:06 GMT | Windows and PowerShell Commands: Essential Guide for Cybersecurity Professionals | Okan Yıldız | [Read More](https://medium.com/p/6366877cfb3f) |
-| Tue, 27 May 2025 09:46:01 GMT | 6 ways to protect your accounts from scammers in the crypto world | SubWallet | [Read More](https://medium.com/p/a00cab2eb89d) |
-| Tue, 27 May 2025 09:43:25 GMT | Heartbleed: The Bug That Bled the Internet | Ravi Patil | [Read More](https://medium.com/p/37b783a120f0) |
-| Tue, 27 May 2025 09:43:09 GMT | The Hackathon: A Fast Track to Innovation and Impact | Princesamuel | [Read More](https://medium.com/p/b282802e30bd) |
-| Tue, 27 May 2025 09:42:39 GMT | DevSecOps in Action: Automating Security Without Slowing Down | Pratik Gaikwad | [Read More](https://medium.com/p/a65f5f6aa316) |
-| Tue, 27 May 2025 09:42:14 GMT | HackTheBox[31]: Forge-Writeup | Onur Can İnalkaç | [Read More](https://medium.com/p/d1119ac7315f) |
-| Tue, 27 May 2025 09:39:34 GMT | Kidnapping, Torture, and Crypto: The Dark Reality of Rising Violent Crime | Jeremy Rush CEO Jonny Blockchain | [Read More](https://medium.com/p/151ce7a10a7f) |
-| Tue, 27 May 2025 09:39:13 GMT | U.S. Justice Department Dismantles DanaBot Malware Network in Major Cybercrime Crackdown | CyBlog | [Read More](https://medium.com/p/912c8f20e081) |
