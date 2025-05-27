@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 09:39:13 GMT | U.S. Justice Department Dismantles DanaBot Malware Network in Major Cybercrime Crackdown | CyBlog | [Read More](https://medium.com/p/912c8f20e081) |
+| Tue, 27 May 2025 09:36:48 GMT | Hack The Box - Web - Spookifier - Writeup | Regan Temudo | [Read More](https://medium.com/p/222868302441) |
+| Tue, 27 May 2025 09:36:21 GMT | Netlas vs Shodan: Platforms Comparison | Netlas.io | [Read More](https://medium.com/p/f15ed19201b3) |
+| Tue, 27 May 2025 09:33:28 GMT | Common API Vulnerabilities in Symfony Explained | Pentest_Testing_Corp | [Read More](https://medium.com/p/6705723caace) |
+| Tue, 27 May 2025 09:28:20 GMT | Cybersecurity Part-1 | Amt | [Read More](https://medium.com/p/1ccedb180f04) |
+| Tue, 27 May 2025 09:28:07 GMT | Secure SDLC (SSDLC): How to Build Security into the Development Lifecycle | Pratik Gaikwad | [Read More](https://medium.com/p/0528762007bc) |
+| Tue, 27 May 2025 09:27:49 GMT | How AI Is Changing Password Security | Ewyatt | [Read More](https://medium.com/p/d2c5e6577852) |
+| Tue, 27 May 2025 09:26:22 GMT | How Can I Recover My Money From Coinfola? | Douglas | [Read More](https://medium.com/p/ee712e5e9c6d) |
+| Tue, 27 May 2025 09:24:05 GMT | Local File Inclusion (LFI) Due to Untrusted User Input | Sulabh Jain | [Read More](https://medium.com/p/1a1f1468a2db) |
+| Tue, 27 May 2025 09:20:58 GMT | 24/7 Smart Security for Your Construction Site | Ivis Constructionsurveillance | [Read More](https://medium.com/p/3a6b5395375a) |
+| Tue, 27 May 2025 09:18:36 GMT | Roadmap For Cyber Security In The Red Team | Daarin | [Read More](https://medium.com/p/9b50ce09e4c3) |
+| Tue, 27 May 2025 09:18:14 GMT | Is Toobit Legit or a Scam? My Experience Says It’s a Scam | Scott.K.brewer | [Read More](https://medium.com/p/444e2e96aeec) |
+| Tue, 27 May 2025 09:15:17 GMT | Toobit Review - is It Possible To Recover My Money? | Scott.K.brewer | [Read More](https://medium.com/p/77e93b57c3d4) |
 | Tue, 27 May 2025 09:15:09 GMT | Laravel from a Hacker’s View: How Attackers Exploit Your PHP Apps (And How to Stop Them) | Alhassan Mohammed | [Read More](https://medium.com/p/d2a8f5d54c17) |
 | Tue, 27 May 2025 09:11:23 GMT | Malware or LLM? Silent Werewolf employs new loaders to attack Russian and Moldovan organizations | BI.ZONE | [Read More](https://medium.com/p/c4135e2ec17c) |
 | Tue, 27 May 2025 09:07:23 GMT | Critical NETGEAR Router Vulnerability (CVE-2025–4978) Grants Full Admin Access Without… | Infoziant | [Read More](https://medium.com/p/19ba174d26e6) |
@@ -100,16 +113,3 @@ It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb5
 | Tue, 27 May 2025 04:20:18 GMT | 6 Cyber Attacks You Must Know Before It Is Too Late | Dibeesh KS | [Read More](https://medium.com/p/743ca28c3102) |
 | Tue, 27 May 2025 04:19:58 GMT | ประจำวันอังคารที่ 27 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/363d48114ee6) |
 | Tue, 27 May 2025 04:14:44 GMT | If Your PHP Code Can’t Self-Patch, You’re Already a Security Liability | Asian Digital Hub | [Read More](https://medium.com/p/37a32568f92f) |
-| Tue, 27 May 2025 04:07:56 GMT | File inclusion vulnerabilities in common programming languages with examples | CY033 | [Read More](https://medium.com/p/ea70ce6cd2ce) |
-| Tue, 27 May 2025 04:06:15 GMT | He Lost Everything After Connecting to Public Wi-Fi | Sam Galope | [Read More](https://medium.com/p/49480740e21b) |
-| Tue, 27 May 2025 04:04:18 GMT | “Not Left Behind” | Nguyentrang | [Read More](https://medium.com/p/58ddfecd7163) |
-| Tue, 27 May 2025 03:47:44 GMT | Here are five reasons why Google AI makes learning cyber security easy | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/7c43ea97d9db) |
-| Tue, 27 May 2025 03:42:28 GMT | Introduction to Basics of Bad USB | 5kullk3r | [Read More](https://medium.com/p/167f4347ee16) |
-| Tue, 27 May 2025 03:36:00 GMT | Rust to the Rescue: Tackling 2025’s Biggest Cybersecurity Threats | Sreeved Vp | [Read More](https://medium.com/p/c87560d0cab2) |
-| Tue, 27 May 2025 03:32:28 GMT | Triada Malware: The Hidden Threat Lurking in Counterfeit Android Devices | Deven Chhajed | [Read More](https://medium.com/p/0405f165f112) |
-| Tue, 27 May 2025 03:30:32 GMT | Vulnerability Analysis | CY033 | [Read More](https://medium.com/p/be556679dc3f) |
-| Tue, 27 May 2025 03:30:13 GMT | Securing Web Applications with Rust: Building a Safe Authentication System ️ | Sreeved Vp | [Read More](https://medium.com/p/2063e327b2a7) |
-| Tue, 27 May 2025 03:07:58 GMT | Account Takeover Attacks on Social Media: Emerging Threats and Defences for Creators | Biswajeet Poddar | [Read More](https://medium.com/p/fb2846c16c75) |
-| Tue, 27 May 2025 03:05:34 GMT | Finding Anomalies in Your Server Traffic | Parminder Singh | [Read More](https://medium.com/p/f0f7d48d4d7d) |
-| Tue, 27 May 2025 03:02:30 GMT | From Clueless to Clued-In: How YARA Helps You Hunt Malware Like a Pro | Manish Rawat | [Read More](https://medium.com/p/d8076c681fe1) |
-| Tue, 27 May 2025 03:02:30 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/0cae18b3e2f2) |
