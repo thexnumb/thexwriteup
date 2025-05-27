@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 09:15:09 GMT | Laravel from a Hacker’s View: How Attackers Exploit Your PHP Apps (And How to Stop Them) | Alhassan Mohammed | [Read More](https://medium.com/p/d2a8f5d54c17) |
+| Tue, 27 May 2025 09:11:23 GMT | Malware or LLM? Silent Werewolf employs new loaders to attack Russian and Moldovan organizations | BI.ZONE | [Read More](https://medium.com/p/c4135e2ec17c) |
+| Tue, 27 May 2025 09:07:23 GMT | Critical NETGEAR Router Vulnerability (CVE-2025–4978) Grants Full Admin Access Without… | Infoziant | [Read More](https://medium.com/p/19ba174d26e6) |
+| Tue, 27 May 2025 09:06:50 GMT | Understanding XDR: The Future of Unified Cybersecurity | Ahmed Selmi | [Read More](https://medium.com/p/bc0d2fd4d012) |
+| Tue, 27 May 2025 08:55:28 GMT | Failing to Push Myself — Or Choosing Not To? | Joctan | [Read More](https://medium.com/p/d9ef632d96f6) |
+| Tue, 27 May 2025 08:54:21 GMT | A Bucket of Phish - TryHackme Writeup | Alireza Ghorbani | [Read More](https://medium.com/p/8496f9885f85) |
+| Tue, 27 May 2025 08:54:07 GMT | How I Withdraw My Money From Fxpro ? | Michael | [Read More](https://medium.com/p/4f6f20f7859d) |
+| Tue, 27 May 2025 08:46:37 GMT | Trying to get Google out of my Life | Leonardo Del Toro | [Read More](https://medium.com/p/7b1389c146cb) |
+| Tue, 27 May 2025 08:45:41 GMT | AI: The Greatest Threat and Defense in Cybersecurity Today | Infinity Technologies | [Read More](https://medium.com/p/a02d8a7f6b7f) |
 | Tue, 27 May 2025 08:34:07 GMT | SOC111 — Traffic to Malware Domain - Event ID: 46 | Cyril Philipp Abajar | [Read More](https://medium.com/p/1e7daa52730b) |
 | Tue, 27 May 2025 08:30:01 GMT | They Called It a Support Group. It Was a crypto Trap | true crime | [Read More](https://medium.com/p/474f6ddbc5b7) |
 | Tue, 27 May 2025 08:27:52 GMT | Exploiting Web Cache Poisoning with X-Host Header Using Param Miner | Bash Overflow | [Read More](https://medium.com/p/f1b7b06bf5b8) |
@@ -104,12 +113,3 @@ It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb5
 | Tue, 27 May 2025 03:05:34 GMT | Finding Anomalies in Your Server Traffic | Parminder Singh | [Read More](https://medium.com/p/f0f7d48d4d7d) |
 | Tue, 27 May 2025 03:02:30 GMT | From Clueless to Clued-In: How YARA Helps You Hunt Malware Like a Pro | Manish Rawat | [Read More](https://medium.com/p/d8076c681fe1) |
 | Tue, 27 May 2025 03:02:30 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/0cae18b3e2f2) |
-| Tue, 27 May 2025 03:01:40 GMT | 5 Lessons I’ve Learned as a Software Engineer with a Cybersecurity Background | Temiloluwa Gboyega | [Read More](https://medium.com/p/263f74d62e4c) |
-| Tue, 27 May 2025 03:01:40 GMT | Kenalan Sama Hacker White Hat dan Perannya di Dunia Cyber | IndoHajk | [Read More](https://medium.com/p/2827765ffbfc) |
-| Tue, 27 May 2025 02:52:37 GMT | I Thought I Was Cyber Smart — Until My WhatsApp Got Hacked Y’day | Jai Advani | [Read More](https://medium.com/p/e4d12911bad0) |
-| Tue, 27 May 2025 02:45:06 GMT | Small Business Owners: If You Offer Guest WiFi, Read This Before It’s Too Late | Noel | [Read More](https://medium.com/p/7f1ccfab0b83) |
-| Tue, 27 May 2025 02:35:06 GMT | Shield or Sword? North Korea’s Warning and the Growing Space Security Dilemma in East Asia | Akhmad Hanan | [Read More](https://medium.com/p/12222ab5fc81) |
-| Tue, 27 May 2025 02:31:04 GMT | Keamanan Basis Data (Data Security) | fijrisalwa | [Read More](https://medium.com/p/6e94c9ad41ed) |
-| Tue, 27 May 2025 02:26:40 GMT | HTB Bug Bounty Hunter Certification’s skill assessments: File Upload Attacks Walkthrough | ZeroByte | [Read More](https://medium.com/p/2c2895bba6df) |
-| Tue, 27 May 2025 02:19:53 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/be6f1e2d5b44) |
-| Tue, 27 May 2025 02:16:54 GMT | The Idealist’s Architecture Decision:Cross-Tenant Access — Part 2 | Jenny 秋 | [Read More](https://medium.com/p/5235d478a36e) |
