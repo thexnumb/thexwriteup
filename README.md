@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 03:02:30 GMT | From Clueless to Clued-In: How YARA Helps You Hunt Malware Like a Pro | Manish Rawat | [Read More](https://medium.com/p/d8076c681fe1) |
+| Tue, 27 May 2025 03:02:30 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/0cae18b3e2f2) |
+| Tue, 27 May 2025 03:01:40 GMT | 5 Lessons I’ve Learned as a Software Engineer with a Cybersecurity Background | Temiloluwa Gboyega | [Read More](https://medium.com/p/263f74d62e4c) |
+| Tue, 27 May 2025 02:52:37 GMT | I Thought I Was Cyber Smart — Until My WhatsApp Got Hacked Y’day | Jai Advani | [Read More](https://medium.com/p/e4d12911bad0) |
+| Tue, 27 May 2025 02:45:06 GMT | Small Business Owners: If You Offer Guest WiFi, Read This Before It’s Too Late | Noel | [Read More](https://medium.com/p/7f1ccfab0b83) |
+| Tue, 27 May 2025 02:35:06 GMT | Shield or Sword? North Korea’s Warning and the Growing Space Security Dilemma in East Asia | Akhmad Hanan | [Read More](https://medium.com/p/12222ab5fc81) |
+| Tue, 27 May 2025 02:31:04 GMT | Keamanan Basis Data (Data Security) | fijrisalwa | [Read More](https://medium.com/p/6e94c9ad41ed) |
+| Tue, 27 May 2025 02:26:40 GMT | HTB Bug Bounty Hunter Certification’s skill assessments: File Upload Attacks Walkthrough | ZeroByte | [Read More](https://medium.com/p/2c2895bba6df) |
+| Tue, 27 May 2025 02:19:53 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/be6f1e2d5b44) |
+| Tue, 27 May 2025 02:16:54 GMT | The Idealist’s Architecture Decision:Cross-Tenant Access — Part 2 | Jenny 秋 | [Read More](https://medium.com/p/5235d478a36e) |
+| Tue, 27 May 2025 02:13:38 GMT | Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication | Kailasv | [Read More](https://medium.com/p/5e062396923f) |
+| Tue, 27 May 2025 02:08:51 GMT | Z Speaks Truth, Again. | TheTamiloreJenrola | [Read More](https://medium.com/p/b7e7b63df3ee) |
+| Tue, 27 May 2025 02:08:46 GMT | The Threat You Can’t Scan For: Why I Built Veriduct | Christopher Aziz | [Read More](https://medium.com/p/602a8f2afc4e) |
+| Tue, 27 May 2025 02:00:32 GMT | CrowdStrike: The Cloud Security Leader Set to Surpass $500 | Felix Prehn | [Read More](https://medium.com/p/1e3dfea2c2e3) |
+| Tue, 27 May 2025 01:51:02 GMT | Understanding the Commvault Metallic Incident | Saransh Mahajan | [Read More](https://medium.com/p/83b5d9f0e064) |
+| Tue, 27 May 2025 01:43:19 GMT | Chalant in a Nonchalant World: Choosing Vulnerability Over Vanity | AJM | [Read More](https://medium.com/p/11b4712991de) |
 | Tue, 27 May 2025 01:31:51 GMT | AI Hacking Village @ BSides TLV 2025 | Tal Eliyahu | [Read More](https://medium.com/p/8d24fd973fea) |
 | Tue, 27 May 2025 01:13:28 GMT | API Pentesting- Web API Fundamentals | Will Giles | [Read More](https://medium.com/p/ef55d38bfde2) |
 | Tue, 27 May 2025 01:11:41 GMT | How the World’s #1 Hacker Broke Systems Without Writing a Single Line of Code… | Alex Grande | [Read More](https://medium.com/p/6e936517c67c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 18:26:05 GMT | YouMade | Muhammad Tarek | [Read More](https://medium.com/p/c25e3ea337e3) |
 | Mon, 26 May 2025 18:22:27 GMT | Android 15 : Important changes for developers | Prakash Sharma | [Read More](https://medium.com/p/43a404d589c2) |
 | Mon, 26 May 2025 18:18:22 GMT | Love Never Goes to Waste: The Law of Return in Nature and Spirit | Groovy Spirit Realm | [Read More](https://medium.com/p/5cb709233b43) |
-| Mon, 26 May 2025 18:17:31 GMT | How Security Camera Installation Restores Protection After a Camera Malfunctions | Today’s Networking Solutions | [Read More](https://medium.com/p/66d858c16cad) |
-| Mon, 26 May 2025 18:17:11 GMT | Spring Boot + LDAP Integration: The Security Nightmare Nobody Talks About | CaffeinatedCoder | [Read More](https://medium.com/p/95bf19e35b9f) |
-| Mon, 26 May 2025 18:09:12 GMT | From Web3 Developer to Smart-Contract Auditor: When Known Standards Betray You | Evgenii | [Read More](https://medium.com/p/525245c45848) |
-| Mon, 26 May 2025 18:05:19 GMT | $12 Billion in Lessons: What DeFi Hacks Taught Us About True Security | Chronos Vault | [Read More](https://medium.com/p/6ddac97cc4ab) |
-| Mon, 26 May 2025 17:54:34 GMT | Curvance $CVE Growth Strategy: The Ultimate Reward System | CVE | [Read More](https://medium.com/p/2f6cac316b1e) |
-| Mon, 26 May 2025 17:37:09 GMT | When Personal Accounts Become Corporate Security Risks | Karl Buhl | [Read More](https://medium.com/p/9313e692adca) |
-| Mon, 26 May 2025 17:32:40 GMT | Here is how I secure my SaaS applications | Shivanshu Gupta | [Read More](https://medium.com/p/6db2cdbd3a02) |
-| Mon, 26 May 2025 17:21:05 GMT | Governance: The “G” in GRC and the Unsung Hero of Cybersecurity | Brittney Ginther | [Read More](https://medium.com/p/461f48ca34ca) |
-| Mon, 26 May 2025 17:15:36 GMT | While learning cybersecurity, I’ve been testing some free tools. | Bilal Nachat | [Read More](https://medium.com/p/e78b3c255764) |
-| Mon, 26 May 2025 17:14:18 GMT | Nova Scotia Power Hit by Ransomware, 280K Customers Affected | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/b7151eae545d) |
-| Mon, 26 May 2025 17:11:54 GMT | Why Your Brain Is Your Worst Money Enemy: 7 Sneaky Mind Games That Keep You Broke | Write By Mehak | [Read More](https://medium.com/p/1caf802b96ce) |
-| Mon, 26 May 2025 17:11:31 GMT | Smol - TryHackMe Medium CTF | Error | [Read More](https://medium.com/p/24acda06c8d7) |
-| Mon, 26 May 2025 17:08:02 GMT | From Removed Admin to Full Takeover | callgh0st | [Read More](https://medium.com/p/9ce131dd3716) |
-| Mon, 26 May 2025 17:03:10 GMT | Hi, I’m new here and just shared a post about a cybersecurity tool I’ve been learning to use as a… | Bilal Nachat | [Read More](https://medium.com/p/258b81035aba) |
-| Mon, 26 May 2025 17:00:16 GMT | How to Protect Your Business from Cyber Threats | RISKCOVERED | [Read More](https://medium.com/p/dbb99a48eb82) |
-| Mon, 26 May 2025 16:59:26 GMT | What can I do to recover my money from Luxequant ? | Jonas Martins | [Read More](https://medium.com/p/eb8722362e4d) |
