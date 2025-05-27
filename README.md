@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 20:10:41 GMT | My Six-Month Internship with Flipkart’s Infosec Team (Jan-Jul’24) | Juhie Chandra | [Read More](https://medium.com/p/cdf70413be76) |
+| Tue, 27 May 2025 20:06:20 GMT | RootMe Room Walkthrough: A Step-by-Step Guide | JustSouichi | [Read More](https://medium.com/p/330deca83980) |
+| Tue, 27 May 2025 19:40:52 GMT | BehindTheScreens: AI Deception, Global Breaches, and the Expanding Cyber Threat Landscape | Sam - Behind The Screens | [Read More](https://medium.com/p/68a77a90568b) |
+| Tue, 27 May 2025 19:37:47 GMT | The Most Convincing Scam I’ve Seen | Sarayu Pacca | [Read More](https://medium.com/p/05b1c5062567) |
+| Tue, 27 May 2025 19:37:08 GMT | Roadmap 5 Tahun Menuju Karier Blue Team & Defensive Security Specialist | Muhammad Syahril Rizky Fauzan | [Read More](https://medium.com/p/d75a77d92d7e) |
 | Tue, 27 May 2025 19:36:42 GMT | Security Guards in Boston Medical and Research Facilities: Protecting Critical Healthcare… | Jeff Dodge | [Read More](https://medium.com/p/5a2a635d1ee8) |
+| Tue, 27 May 2025 19:35:16 GMT | Solana Exec Doxxed in Migos Instagram Hack, 40 BTC Ransom Sparks Crypto Chaos | CoinGen | [Read More](https://medium.com/p/b60a0aa54bdd) |
+| Tue, 27 May 2025 19:32:39 GMT | OSINT IP Lookup Script: A Comprehensive Tool for Cybersecurity Analysts | Lyxt | [Read More](https://medium.com/p/61616e3d90c7) |
+| Tue, 27 May 2025 19:27:10 GMT | OverTheWire — Bandit Walkthrough Level 4 -> Level 10 | Hassen Hannachi | [Read More](https://medium.com/p/9aabdced1246) |
 | Tue, 27 May 2025 19:25:19 GMT | When AI Can Attack, Only AI Can Defend | Ankur Shinde | [Read More](https://medium.com/p/5c80ffdb184e) |
 | Tue, 27 May 2025 19:17:46 GMT | Artificial Intelligence in Cyber Defense: Opportunities and Challenges | ITBizTeK | [Read More](https://medium.com/p/d43e4c4108db) |
 | Tue, 27 May 2025 19:11:21 GMT | Ransomware Payments Are Tax-Deductible — We Are All Bankrolling Crime | Isaac Privett | [Read More](https://medium.com/p/2451252b498a) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 14:25:56 GMT | “The Human Mind: The Ultimate Vulnerability in Cybersecurity” | Rayuth David Phan | [Read More](https://medium.com/p/95a04e7ad401) |
 | Tue, 27 May 2025 14:25:43 GMT | LGDroid Lab | Jesús García Rubias | [Read More](https://medium.com/p/c7cc893f1e68) |
 | Tue, 27 May 2025 14:23:31 GMT | Mastering Logic Bugs: The Ultimate Checklist Update (Edition ) | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/0b8926f4b644) |
-| Tue, 27 May 2025 14:19:47 GMT | Sticky Hacker Challenge (Forensics)— EG-CTF 2025— Write-up | Omar Elmohr | [Read More](https://medium.com/p/dd401a3683ca) |
-| Tue, 27 May 2025 14:08:54 GMT | Cryptocurrency Security: Protecting Your Digital Assets | Optix Forensics | [Read More](https://medium.com/p/601db13a3c2f) |
-| Tue, 27 May 2025 14:03:21 GMT | Day 48: VPN & Tunneling: A Deep Dive into the Backbone of Secure Communication | Agarwaldaksh | [Read More](https://medium.com/p/dbd03ec0ee6e) |
-| Tue, 27 May 2025 14:01:24 GMT | Cyber Briefing: 2025.05.27 | CyberMaterial | [Read More](https://medium.com/p/22ccd6c40dd6) |
-| Tue, 27 May 2025 13:56:43 GMT | Inside the UK’s Cyber Ambition: What 2025 and Beyond Means for You | WayneReidUK | [Read More](https://medium.com/p/5891da123430) |
-| Tue, 27 May 2025 13:56:20 GMT | From OTP to ATO: A $10K Mobile Bug in State Validation | Damian Gambacorta | [Read More](https://medium.com/p/616aebbb7208) |
-| Tue, 27 May 2025 13:51:56 GMT | Cyber threats evolve, and 2025 has delivered yet another example… | Hantz Jermain | [Read More](https://medium.com/p/d1b01e30da67) |
-| Tue, 27 May 2025 13:49:01 GMT | Steps Towards AI Governance — The Benefits of a Privacy-First Approach | Tudor Borlea | [Read More](https://medium.com/p/484ade3fdad8) |
