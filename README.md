@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 17:04:45 GMT | How to Earn Big by $DORK Yield Generation on StakingRewards | Sydney
+ Harper | [Read More](https://medium.com/p/581f73c5e79f) |
+| Tue, 27 May 2025 16:58:08 GMT | Mastering Network Basics with Cisco Packet Tracer: A Hands-On Tutorial for Beginners | Bumi Arya Dirangga | [Read More](https://medium.com/p/cf4cd4824b2f) |
+| Tue, 27 May 2025 16:57:30 GMT | A Cryptographic Journey Through Middle-earth | Fahri | [Read More](https://medium.com/p/bb5ca7536b3c) |
+| Tue, 27 May 2025 16:55:11 GMT | Google Dorking: The Hacker’s Search Engine Trick That Exposes More Than You Think | SafeAeon Inc. | [Read More](https://medium.com/p/bd98eea7cda6) |
+| Tue, 27 May 2025 16:49:18 GMT | Cybersecurity Case Study — How a Small Vulnerability Almost Took Down a Growing E-Commerce Business | All in One security | [Read More](https://medium.com/p/60bfff36f4da) |
 | Tue, 27 May 2025 16:48:42 GMT | The Pentesting Paradox: Why Security Tools Alone Aren’t Saving Businesses. | eL Njas!™ | [Read More](https://medium.com/p/d4cbaa7a4fc4) |
+| Tue, 27 May 2025 16:47:45 GMT | Hacking Has Evolved — And It’s Smarter Than You Think | All in One security | [Read More](https://medium.com/p/f0684d9a75f8) |
 | Tue, 27 May 2025 16:34:06 GMT | Code, Hack, Defend: Roadmap to Purple Web Security Mastery | Irfan Syarifudin | [Read More](https://medium.com/p/c20a7d7a59cd) |
 | Tue, 27 May 2025 16:30:45 GMT | The Power of Data Classification in GRC | Brittney Ginther | [Read More](https://medium.com/p/dc39074fe345) |
 | Tue, 27 May 2025 16:24:30 GMT | Self-Assessment Penetration Testing Guidance According to PCI DSS Standards | Ashiqul Hoque Abir | [Read More](https://medium.com/p/dec32981a746) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 12:18:37 GMT | Web Cache Deception (WCD) | Youssef Gadallah | [Read More](https://medium.com/p/7d15646b855c) |
 | Tue, 27 May 2025 12:17:58 GMT | The Coinbase Breach: A Wake-Up Call for Crypto Safety (And How to Stay Protected) | Dbrooks | [Read More](https://medium.com/p/002bf3192021) |
 | Tue, 27 May 2025 12:15:53 GMT | Neat and pretty words | Lineaurorawrites | [Read More](https://medium.com/p/f670639b9248) |
-| Tue, 27 May 2025 12:11:50 GMT | Anatomy of a Hacker Attack: An Open Call to X (Twitter) | Syrenka | [Read More](https://medium.com/p/251485374cdb) |
-| Tue, 27 May 2025 12:09:35 GMT | SaaS Startups: The Ultimate Guide to Building, Scaling, and Winning in 2025 | Dbrooks | [Read More](https://medium.com/p/410bafd3f57a) |
-| Tue, 27 May 2025 12:02:26 GMT | Beyond Internal Testing: What Claude’s Bug Bounty Program Reveals About the Strategic Role of Crowd… | Sarat Ramineni | [Read More](https://medium.com/p/cefa028382c3) |
-| Tue, 27 May 2025 12:02:14 GMT | Firewall Breaking: How to Protect Your Digital Castle | Dbrooks | [Read More](https://medium.com/p/18fdd6b1416f) |
-| Tue, 27 May 2025 11:57:09 GMT | Role of Security Agencies in Navi Mumbai - United Guard Force India | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/2f1a85b04a9e) |
-| Tue, 27 May 2025 11:53:48 GMT | I Passed Security+ — But Please Don’t Fall for the “30 Days to Cert” Hype | Luispuello | [Read More](https://medium.com/p/ed06f48a866b) |
