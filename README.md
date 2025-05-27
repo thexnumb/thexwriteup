@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 16:48:42 GMT | The Pentesting Paradox: Why Security Tools Alone Aren’t Saving Businesses. | eL Njas!™ | [Read More](https://medium.com/p/d4cbaa7a4fc4) |
+| Tue, 27 May 2025 16:34:06 GMT | Code, Hack, Defend: Roadmap to Purple Web Security Mastery | Irfan Syarifudin | [Read More](https://medium.com/p/c20a7d7a59cd) |
+| Tue, 27 May 2025 16:30:45 GMT | The Power of Data Classification in GRC | Brittney Ginther | [Read More](https://medium.com/p/dc39074fe345) |
+| Tue, 27 May 2025 16:24:30 GMT | Self-Assessment Penetration Testing Guidance According to PCI DSS Standards | Ashiqul Hoque Abir | [Read More](https://medium.com/p/dec32981a746) |
+| Tue, 27 May 2025 16:22:46 GMT | CIA Triad (Confidentiality, Integrity dan Availability) | Mukti Badriyan | [Read More](https://medium.com/p/5a75f4cfecd5) |
+| Tue, 27 May 2025 16:22:14 GMT | CYBERSECURITY ROADMAP DESIGNED FOR A NETWORK/INFRASTRUCTURE ENGINEER AND A DEVELOPER. | Toni Mendrofa | [Read More](https://medium.com/p/c7773b817efa) |
+| Tue, 27 May 2025 16:22:09 GMT | Twitter Bitcoin Scam: Inside the 2020 Account Takeover | Ahmad Javed | [Read More](https://medium.com/p/dbb3906c25a9) |
 | Tue, 27 May 2025 16:19:53 GMT | ChainBounty $BOUNTY Growth Strategy for Beginners: Your Step-by-Step Guide | BOUNTY | [Read More](https://medium.com/p/4eb10a1e3fcc) |
 | Tue, 27 May 2025 16:10:42 GMT | Understanding Android Architecture Through Pentesting with DIVA APK | Anandhu K | [Read More](https://medium.com/p/28376d69ce0a) |
 | Tue, 27 May 2025 16:09:00 GMT | What is Networking? — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/d6ca5627868c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 12:02:14 GMT | Firewall Breaking: How to Protect Your Digital Castle | Dbrooks | [Read More](https://medium.com/p/18fdd6b1416f) |
 | Tue, 27 May 2025 11:57:09 GMT | Role of Security Agencies in Navi Mumbai - United Guard Force India | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/2f1a85b04a9e) |
 | Tue, 27 May 2025 11:53:48 GMT | I Passed Security+ — But Please Don’t Fall for the “30 Days to Cert” Hype | Luispuello | [Read More](https://medium.com/p/ed06f48a866b) |
-| Tue, 27 May 2025 11:51:56 GMT | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Rachael Muga | [Read More](https://medium.com/p/300e863864d8) |
-| Tue, 27 May 2025 11:49:34 GMT | Someone Loves Everything You Hate About Yourself | Amanur | [Read More](https://medium.com/p/19ba65856e9e) |
-| Tue, 27 May 2025 11:49:32 GMT | Spain Investigates Cybersecurity Weakness After Major Blackout | SafetyDetectives Research Team | [Read More](https://medium.com/p/bffd932928e7) |
-| Tue, 27 May 2025 11:42:25 GMT | From Robocop to the IT Industry | Loose Junk | [Read More](https://medium.com/p/13712f4304f5) |
-| Tue, 27 May 2025 11:39:22 GMT | Direct Syscall Injection in Windows | LordShen | [Read More](https://medium.com/p/933208529c4c) |
-| Tue, 27 May 2025 11:33:27 GMT | Hire a Hacker to Change your University Grades | Hackers World | [Read More](https://medium.com/p/a7576381d0ad) |
-| Tue, 27 May 2025 11:31:11 GMT | How I Used Malware to Create Malware | Rick Kanters | [Read More](https://medium.com/p/1d72be9e263b) |
