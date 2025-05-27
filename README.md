@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 18:17:22 GMT | Why Online Compliance Training Isn’t Just for Big Corporations (and Why Your Small Business Needs… | PrivacyHound | [Read More](https://medium.com/p/a5df0b156d62) |
+| Tue, 27 May 2025 18:15:21 GMT | Malicious npm Package Impersonating Popular Express Cookie Parser | Abhisek Datta | [Read More](https://medium.com/p/19b4d8c2b154) |
+| Tue, 27 May 2025 18:14:40 GMT | From Code to Ownership: My journey as a builder with a bigger vision. | Tolulope Akinlabi | [Read More](https://medium.com/p/d72fb7b9bc1e) |
+| Tue, 27 May 2025 18:09:43 GMT | What It Really Takes to Define the Right Problem | Sanjna Subramanian | [Read More](https://medium.com/p/c6ebc332da82) |
+| Tue, 27 May 2025 18:09:29 GMT | The Best Ways to Earn $BUG with StakingRewards | BUG | [Read More](https://medium.com/p/0e2bc3024eff) |
+| Tue, 27 May 2025 18:06:27 GMT | Quantum Threats and Bitcoin: Why BlackRock’s Warning Matters for the Future of Crypto Security | QuantumGenie | [Read More](https://medium.com/p/28f0e818d8d5) |
+| Tue, 27 May 2025 18:03:25 GMT | Top 5 Secure Messaging Apps in 2025 to Protect Your Privacy Online | John Okwuose | [Read More](https://medium.com/p/5e646bcc5fd9) |
+| Tue, 27 May 2025 18:02:47 GMT | The most dangerous secret is the one you forgot about | Amber Britton | [Read More](https://medium.com/p/ada7debdfdfa) |
+| Tue, 27 May 2025 18:02:38 GMT | domainsniffer: A Bash-Powered Subdomain Extraction Tool for OSINT and Bug Bounty Recon | Ashishkrishnanvs | [Read More](https://medium.com/p/ac8026449d2f) |
+| Tue, 27 May 2025 17:58:38 GMT | The SOC Ecosystem: Lessons from “Le Grand Gambit” | Chris Perkins | [Read More](https://medium.com/p/6c0796d933e4) |
+| Tue, 27 May 2025 17:56:06 GMT | ~ Understanding Software Licenses ~ | Lochithya Hettiarachchi | [Read More](https://medium.com/p/bee3274688cf) |
+| Tue, 27 May 2025 17:52:28 GMT | The Future Is Conductive: Why Low Temperature Conductive Pastes Are Powering the Next Wave of… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/5d62f8028b44) |
 | Tue, 27 May 2025 17:35:59 GMT | Enumeration & Brute Force - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/7e8f0f8cbf63) |
 | Tue, 27 May 2025 17:32:30 GMT | Breaking Boundaries: Vertical Privilege Escalation to Admin via Insecure Direct Request | Asad Ullah Evan | [Read More](https://medium.com/p/f4897877649f) |
 | Tue, 27 May 2025 17:29:57 GMT | [API-Pentest] —  Track 02: Bleeding Secrets — The Danger of Excessive Data Exposure | AjiPangesstu | [Read More](https://medium.com/p/78c1084dc110) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 12:57:23 GMT | The Role of Security Agencies in Mumbai’s Safety Landscape | United Guard Force India | [Read More](https://medium.com/p/b16dca8bb146) |
 | Tue, 27 May 2025 12:50:33 GMT | Cybersecurity Isn’t a Checklist — It’s a Mindset | Niharika Dalal | [Read More](https://medium.com/p/11e090cfde84) |
 | Tue, 27 May 2025 12:50:07 GMT | Global Cybersecurity in Crisis: Tech Giants Breached, AI Impersonation Surges, and Regulation… | Zyntrio Tech Report | [Read More](https://medium.com/p/ad849e3f59ae) |
-| Tue, 27 May 2025 12:49:13 GMT | Take care of your AI prompt privacy | iExec | [Read More](https://medium.com/p/27755bec78e9) |
-| Tue, 27 May 2025 12:45:53 GMT | Designing a Cyber Fusion Center for Multi-National Threat Intelligence Sharing | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0435d5f43809) |
-| Tue, 27 May 2025 12:45:16 GMT | Log 03: From Input to Output- How the Hardware Really Works | Apurva Cybersecurity | [Read More](https://medium.com/p/c6eabe468fbd) |
-| Tue, 27 May 2025 12:43:50 GMT | Cybersecurity Isn’t a Checklist — It’s a Mindset | Niharika dalal | [Read More](https://medium.com/p/0703db38b15a) |
-| Tue, 27 May 2025 12:39:48 GMT | Cara Jago Bikin Aplikasi Aman: Kenali OWASP dan Testingnya! | Daffa Mohamad Fathoni | [Read More](https://medium.com/p/1fcb4c552854) |
-| Tue, 27 May 2025 12:38:53 GMT | Cyber Threats to Financial Data: How to Protect Your Money in the Digital Age | Diehardmclane | [Read More](https://medium.com/p/6bbaba9cdfc8) |
-| Tue, 27 May 2025 12:37:40 GMT | Recap: 7 Days of AWS Pentesting | mauzware | [Read More](https://medium.com/p/82abd22ed4a1) |
-| Tue, 27 May 2025 12:36:20 GMT | Track the Hacks: Apa Itu Digital Forensics? | byuda | [Read More](https://medium.com/p/20fa6b95b347) |
-| Tue, 27 May 2025 12:33:54 GMT | How to Pass the CCNA Exam (200–301) — Complete Study Guide & Resources | Criptobox | [Read More](https://medium.com/p/f0c8c19b364b) |
-| Tue, 27 May 2025 12:32:25 GMT | CEH Module 1 (Lab 1): Performing Footprinting Through Search Engines | CyberNinja | [Read More](https://medium.com/p/d2e79362fe9e) |
-| Tue, 27 May 2025 12:31:49 GMT | Cyber Incident Response Training: Your Ultimate Defense Against Digital Disasters | Diehardmclane | [Read More](https://medium.com/p/9429035e7fc4) |
-| Tue, 27 May 2025 12:29:16 GMT | Solving the ‘Nobody Reads the Docs’ Problem with LLMs | Ankit Saini(@d3afh3av3n) | [Read More](https://medium.com/p/e382ef679b79) |
