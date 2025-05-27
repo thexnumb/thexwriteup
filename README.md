@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 07:37:14 GMT | Header Injection to Hero: How I Hijacked Emails and Made the Server Sing | Iski | [Read More](https://medium.com/p/7b8817e3736c) |
+| Tue, 27 May 2025 07:25:31 GMT | Cyber Security di Era Digital: Fondasi Keamanan Masa Depan | DeadlyCodex_ | [Read More](https://medium.com/p/16b08581a172) |
+| Tue, 27 May 2025 07:23:13 GMT | Global Cyber Deterrence Strategy & Norms of Responsible State Behavior | A-STAR7_DOCTOR | [Read More](https://medium.com/p/02191fc1e8b7) |
+| Tue, 27 May 2025 07:23:10 GMT | A Pen Tester’s Dive into 2025’s Cybersecurity Threats | hackerguy | [Read More](https://medium.com/p/0c6032f4f780) |
+| Tue, 27 May 2025 07:21:09 GMT | The Daily Tech Digest: 27 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b21e0601dca1) |
 | Tue, 27 May 2025 07:19:27 GMT | 30 Days of Cyber Security — Day 1 : Apa sih Cyber Security itu? | Indra Rahmat Maulidi | [Read More](https://medium.com/p/7e6bf74f0d8e) |
+| Tue, 27 May 2025 07:15:32 GMT | Transitioning Into Cybersecurity: My Week 5 Activities at Tech Studio Academy | Yusuf Bayonle Abeeb | [Read More](https://medium.com/p/cf8758e74aa9) |
 | Tue, 27 May 2025 07:09:06 GMT | The Wires That Bind: Kicking Off Networking Week with Hands-On Foundations
 It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb506) |
 | Tue, 27 May 2025 07:06:05 GMT | Beyond best practices: Using OWASP ASVS to bake security into your delivery pipeline for 2025 | Roman Huliak | [Read More](https://medium.com/p/36ff24c06960) |
@@ -107,9 +113,3 @@ It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb5
 | Mon, 26 May 2025 23:51:44 GMT | Bug bounty:How i access hidden signup pages | Canonminibeast | [Read More](https://medium.com/p/11a42b4aabae) |
 | Mon, 26 May 2025 23:07:57 GMT | The Pentesting Trifecta CPTS-OSCP-PNPT | MalwareBro | [Read More](https://medium.com/p/a67900aab176) |
 | Mon, 26 May 2025 23:05:39 GMT | The Fake Crypto App That Cost Me My Business: How I Lost Everything Trying to ‘Modernize’ My Store” | true crime | [Read More](https://medium.com/p/9c844cbcd48d) |
-| Mon, 26 May 2025 22:53:32 GMT | HOW TO RECOVER STOLEN CRYPTOCURRENCY / MALICE CYBER RECOVERY WILL HELP | woodruff700 | [Read More](https://medium.com/p/acea38d77b49) |
-| Mon, 26 May 2025 22:44:54 GMT | HackingHub “VulnLawyers” Walkthrough | WireHawk Security | [Read More](https://medium.com/p/567c8709f1b8) |
-| Mon, 26 May 2025 22:38:41 GMT | Build Your Own AI SOC — Final Post: What You’ve Built and Where to Go Next | Corey Jones | [Read More](https://medium.com/p/5526183318ac) |
-| Mon, 26 May 2025 22:36:45 GMT | Level Up Your Smart Contract Audits with 90 Real Vulnerability Reports | Np nate | [Read More](https://medium.com/p/12fb2eb934d3) |
-| Mon, 26 May 2025 22:25:52 GMT | Windows File System | Shamar Isaac | [Read More](https://medium.com/p/07eb005a9df5) |
-| Mon, 26 May 2025 22:22:28 GMT | Jira // Organised Choas | Omar El Saadawy | [Read More](https://medium.com/p/4effbe1af793) |
