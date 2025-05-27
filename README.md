@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 03:47:44 GMT | Here are five reasons why Google AI makes learning cyber security easy | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/7c43ea97d9db) |
+| Tue, 27 May 2025 03:42:28 GMT | Introduction to Basics of Bad USB | 5kullk3r | [Read More](https://medium.com/p/167f4347ee16) |
+| Tue, 27 May 2025 03:36:00 GMT | Rust to the Rescue: Tackling 2025’s Biggest Cybersecurity Threats | Sreeved Vp | [Read More](https://medium.com/p/c87560d0cab2) |
+| Tue, 27 May 2025 03:32:28 GMT | Triada Malware: The Hidden Threat Lurking in Counterfeit Android Devices | Deven Chhajed | [Read More](https://medium.com/p/0405f165f112) |
+| Tue, 27 May 2025 03:30:32 GMT | Vulnerability Analysis | CY033 | [Read More](https://medium.com/p/be556679dc3f) |
+| Tue, 27 May 2025 03:30:13 GMT | Securing Web Applications with Rust: Building a Safe Authentication System ️ | Sreeved Vp | [Read More](https://medium.com/p/2063e327b2a7) |
+| Tue, 27 May 2025 03:07:58 GMT | Account Takeover Attacks on Social Media: Emerging Threats and Defences for Creators | Biswajeet Poddar | [Read More](https://medium.com/p/fb2846c16c75) |
+| Tue, 27 May 2025 03:05:34 GMT | Finding Anomalies in Your Server Traffic | Parminder Singh | [Read More](https://medium.com/p/f0f7d48d4d7d) |
 | Tue, 27 May 2025 03:02:30 GMT | From Clueless to Clued-In: How YARA Helps You Hunt Malware Like a Pro | Manish Rawat | [Read More](https://medium.com/p/d8076c681fe1) |
 | Tue, 27 May 2025 03:02:30 GMT | Host & Network Penetration Testing: Network-Based Attacks CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/0cae18b3e2f2) |
 | Tue, 27 May 2025 03:01:40 GMT | 5 Lessons I’ve Learned as a Software Engineer with a Cybersecurity Background | Temiloluwa Gboyega | [Read More](https://medium.com/p/263f74d62e4c) |
+| Tue, 27 May 2025 03:01:40 GMT | Kenalan Sama Hacker White Hat dan Perannya di Dunia Cyber | IndoHajk | [Read More](https://medium.com/p/2827765ffbfc) |
 | Tue, 27 May 2025 02:52:37 GMT | I Thought I Was Cyber Smart — Until My WhatsApp Got Hacked Y’day | Jai Advani | [Read More](https://medium.com/p/e4d12911bad0) |
 | Tue, 27 May 2025 02:45:06 GMT | Small Business Owners: If You Offer Guest WiFi, Read This Before It’s Too Late | Noel | [Read More](https://medium.com/p/7f1ccfab0b83) |
 | Tue, 27 May 2025 02:35:06 GMT | Shield or Sword? North Korea’s Warning and the Growing Space Security Dilemma in East Asia | Akhmad Hanan | [Read More](https://medium.com/p/12222ab5fc81) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 19:01:49 GMT | The Passwordless and Keyless Future of Authentication | Xaltius | [Read More](https://medium.com/p/0d4434febe44) |
 | Mon, 26 May 2025 18:55:04 GMT | The Security Laws Every IT Professional in Kenya Should Know (And Why They Matter) | Brian Murunga | [Read More](https://medium.com/p/0ef071f2b623) |
 | Mon, 26 May 2025 18:53:17 GMT | How to Get the Most Out of Your $LFI Yield Farming on StakingRewards | LFI | [Read More](https://medium.com/p/0ce50977e0e2) |
-| Mon, 26 May 2025 18:52:07 GMT | How to Safely Meet People From Online In Person | Savvy Cyber Kids | [Read More](https://medium.com/p/b45cec6f6d33) |
-| Mon, 26 May 2025 18:48:15 GMT | Over 70 Malicious npm and VS Code Packages Found Stealing Data and Crypto | Ekene Joseph | [Read More](https://medium.com/p/c9053ead81f5) |
-| Mon, 26 May 2025 18:47:11 GMT | How are the feeds of Facebook, YouTube, and Instagram tailored to the user? | Savvy Cyber Kids | [Read More](https://medium.com/p/0ce27c10622a) |
-| Mon, 26 May 2025 18:47:02 GMT | Explain SQL Injection Types and Sub-type | Altayeb Salim | [Read More](https://medium.com/p/0a6197e2c27e) |
-| Mon, 26 May 2025 18:42:43 GMT | Understanding JSON Web Tokens: JWT Attacks and Prevention | Kshitiz Sharma | [Read More](https://medium.com/p/21307f456d16) |
-| Mon, 26 May 2025 18:40:09 GMT | Certified Red Team Professional (CRTP) Study Notes & Guide | Motasem Hamdan | [Read More](https://medium.com/p/e1ec46c02afe) |
-| Mon, 26 May 2025 18:26:05 GMT | YouMade | Muhammad Tarek | [Read More](https://medium.com/p/c25e3ea337e3) |
-| Mon, 26 May 2025 18:22:27 GMT | Android 15 : Important changes for developers | Prakash Sharma | [Read More](https://medium.com/p/43a404d589c2) |
-| Mon, 26 May 2025 18:18:22 GMT | Love Never Goes to Waste: The Law of Return in Nature and Spirit | Groovy Spirit Realm | [Read More](https://medium.com/p/5cb709233b43) |
