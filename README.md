@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 18:42:11 GMT | There is a group that uses Quora as a jump off point for their cyber crime and stalking and abuse. | Chris Burgess | [Read More](https://medium.com/p/750fbc9ff805) |
+| Tue, 27 May 2025 18:35:21 GMT | Boost Your Earnings with Curvance $CVE Profit Tips | CVE | [Read More](https://medium.com/p/3bca49226461) |
+| Tue, 27 May 2025 18:33:15 GMT | Unlocking the Gates: Essential REST API Authentication Methods Every Developer Must Master | Deepak Gupta | [Read More](https://medium.com/p/6accdae0e173) |
+| Tue, 27 May 2025 18:32:44 GMT | DeFi must learn from crypto hacks | 1inch | [Read More](https://medium.com/p/31c0c04dd0d5) |
+| Tue, 27 May 2025 18:29:49 GMT | SQL Injection: What It Is and How to Stop It | SafeAeon Inc. | [Read More](https://medium.com/p/73646b811119) |
+| Tue, 27 May 2025 18:26:47 GMT | MATLAB Ransomware Attack Behind Major Service Outage | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/a77d7d774a93) |
+| Tue, 27 May 2025 18:25:22 GMT | Spring Boot Secrets Management Is Broken Without This — Vault vs AWS Secrets Manager | Kanha | [Read More](https://medium.com/p/c08f81502bfe) |
+| Tue, 27 May 2025 18:21:06 GMT | Malicious npm Package Impersonating Popular Express Cookie Parser | Abhisek Datta | [Read More](https://medium.com/p/2eb4043bc6a4) |
 | Tue, 27 May 2025 18:17:22 GMT | Why Online Compliance Training Isn’t Just for Big Corporations (and Why Your Small Business Needs… | PrivacyHound | [Read More](https://medium.com/p/a5df0b156d62) |
 | Tue, 27 May 2025 18:15:21 GMT | Malicious npm Package Impersonating Popular Express Cookie Parser | Abhisek Datta | [Read More](https://medium.com/p/19b4d8c2b154) |
 | Tue, 27 May 2025 18:14:40 GMT | From Code to Ownership: My journey as a builder with a bigger vision. | Tolulope Akinlabi | [Read More](https://medium.com/p/d72fb7b9bc1e) |
+| Tue, 27 May 2025 18:14:13 GMT | How To Bleed On The Page (And Why AI Can’t) | Nick Quick | [Read More](https://medium.com/p/939f400ad415) |
 | Tue, 27 May 2025 18:09:43 GMT | What It Really Takes to Define the Right Problem | Sanjna Subramanian | [Read More](https://medium.com/p/c6ebc332da82) |
 | Tue, 27 May 2025 18:09:29 GMT | The Best Ways to Earn $BUG with StakingRewards | BUG | [Read More](https://medium.com/p/0e2bc3024eff) |
 | Tue, 27 May 2025 18:06:27 GMT | Quantum Threats and Bitcoin: Why BlackRock’s Warning Matters for the Future of Crypto Security | QuantumGenie | [Read More](https://medium.com/p/28f0e818d8d5) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 13:23:39 GMT | THM- A Bucket of Phish | Francesco Pastore | [Read More](https://medium.com/p/4d98b1d497e4) |
 | Tue, 27 May 2025 13:23:36 GMT | DevSecOps in 2025: 11 Must-Have Tools to Build Fast and Stay Secure | Sam Bishop | [Read More](https://medium.com/p/1e5652f7bb8a) |
 | Tue, 27 May 2025 13:22:42 GMT | THM - PassCode | Francesco Pastore | [Read More](https://medium.com/p/9832fd7debce) |
-| Tue, 27 May 2025 13:20:17 GMT | Navigating the Unwritten Rules of Relationships | Bright Flow | [Read More](https://medium.com/p/51e5afbb1003) |
-| Tue, 27 May 2025 13:16:34 GMT | Keep your application alive on internet. | Florent Montel | [Read More](https://medium.com/p/984c877ee382) |
-| Tue, 27 May 2025 13:16:20 GMT | The One Log Entry That Made Me Realize My Linux Server Was Being Scanned | Faruk Ahmed | [Read More](https://medium.com/p/03775774cc5d) |
-| Tue, 27 May 2025 13:08:07 GMT | NahamCon CTF 2025 “The Mission” | Vikram | [Read More](https://medium.com/p/b16d4f3279e4) |
-| Tue, 27 May 2025 13:02:30 GMT | Network Blindspots? Peris.ai IRP Delivers 360° Monitoring | Peris.ai Cybersecurity | [Read More](https://medium.com/p/6ed119017e01) |
-| Tue, 27 May 2025 12:58:42 GMT | Unauthorized Device Access - Blackhat Hackers | BlackHat | [Read More](https://medium.com/p/47c077da4f42) |
-| Tue, 27 May 2025 12:57:23 GMT | The Role of Security Agencies in Mumbai’s Safety Landscape | United Guard Force India | [Read More](https://medium.com/p/b16dca8bb146) |
-| Tue, 27 May 2025 12:50:33 GMT | Cybersecurity Isn’t a Checklist — It’s a Mindset | Niharika Dalal | [Read More](https://medium.com/p/11e090cfde84) |
-| Tue, 27 May 2025 12:50:07 GMT | Global Cybersecurity in Crisis: Tech Giants Breached, AI Impersonation Surges, and Regulation… | Zyntrio Tech Report | [Read More](https://medium.com/p/ad849e3f59ae) |
