@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 23:20:52 GMT | When the World Applauds Pain | TheGracefulWriter_ | [Read More](https://medium.com/p/ab07c7a4b315) |
 | Tue, 27 May 2025 23:14:40 GMT | Why the OPPO A3 Is the Best Budget Smartphone You Can Buy Right Now (And Where to Get It for Less) | Nipapan Sinpaisansakul | [Read More](https://medium.com/p/6bac6ea4a09d) |
 | Tue, 27 May 2025 23:12:35 GMT | From Chaos to Confidence: What We’re Learning About Securing Open Source Supply Chains | Cyber-AppSec | [Read More](https://medium.com/p/c8f26e26c079) |
 | Tue, 27 May 2025 22:57:40 GMT | SQL Injection: What It Is and How to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/91169f7df74f) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 16:09:00 GMT | What is Networking? — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/d6ca5627868c) |
 | Tue, 27 May 2025 16:08:37 GMT | How I’m Using AI to Stop Cybercrimes Before They Happen (Yes, It’s Possible) | Lokeshwar Goud | [Read More](https://medium.com/p/2140efcb8d40) |
 | Tue, 27 May 2025 16:01:51 GMT | Is it possible to withdraw my money from Minepulse ? | Diego santos | [Read More](https://medium.com/p/7ab6e0f5b93a) |
-| Tue, 27 May 2025 15:59:13 GMT | What should I do to recover my money back from Minepulse ? | Diego santos | [Read More](https://medium.com/p/76ad3237a925) |
