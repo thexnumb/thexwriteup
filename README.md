@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 19:36:42 GMT | Security Guards in Boston Medical and Research Facilities: Protecting Critical Healthcare… | Jeff Dodge | [Read More](https://medium.com/p/5a2a635d1ee8) |
+| Tue, 27 May 2025 19:25:19 GMT | When AI Can Attack, Only AI Can Defend | Ankur Shinde | [Read More](https://medium.com/p/5c80ffdb184e) |
+| Tue, 27 May 2025 19:17:46 GMT | Artificial Intelligence in Cyber Defense: Opportunities and Challenges | ITBizTeK | [Read More](https://medium.com/p/d43e4c4108db) |
+| Tue, 27 May 2025 19:11:21 GMT | Ransomware Payments Are Tax-Deductible — We Are All Bankrolling Crime | Isaac Privett | [Read More](https://medium.com/p/2451252b498a) |
+| Tue, 27 May 2025 19:10:59 GMT | Here’s What I Loved, and What I Didn’t of OSCP | DuckWrites | [Read More](https://medium.com/p/a396b96b0850) |
 | Tue, 27 May 2025 19:09:26 GMT | Hacking Certifications — A Conversation With An IT Cert Fraudster | Isaac Privett | [Read More](https://medium.com/p/34930bfba793) |
 | Tue, 27 May 2025 19:02:26 GMT | Say It To My Face | Symon Braun Freck | [Read More](https://medium.com/p/bbcef0ad237f) |
 | Tue, 27 May 2025 19:02:26 GMT | The Intelligence Technology and Big Eye Secrets: Navigating the Complex World of Cybersecurity and… | Karwan Mustafa Kareem | [Read More](https://medium.com/p/5ad40c3ce763) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 13:56:20 GMT | From OTP to ATO: A $10K Mobile Bug in State Validation | Damian Gambacorta | [Read More](https://medium.com/p/616aebbb7208) |
 | Tue, 27 May 2025 13:51:56 GMT | Cyber threats evolve, and 2025 has delivered yet another example… | Hantz Jermain | [Read More](https://medium.com/p/d1b01e30da67) |
 | Tue, 27 May 2025 13:49:01 GMT | Steps Towards AI Governance — The Benefits of a Privacy-First Approach | Tudor Borlea | [Read More](https://medium.com/p/484ade3fdad8) |
-| Tue, 27 May 2025 13:42:49 GMT | “Time won’t fly, it’s like I’m paralyzed by it” | Manasvi Gupta | [Read More](https://medium.com/p/0172b8ba727e) |
-| Tue, 27 May 2025 13:39:29 GMT | Autonome Wachsysteme | Presslink Media | [Read More](https://medium.com/p/2ab4e8e4bdb6) |
-| Tue, 27 May 2025 13:38:42 GMT | 11 años de ciberseguridad: Kali y Faraday. Crecer en comunidad, crecer en ciberseguridad | Faraday Team | [Read More](https://medium.com/p/154632301868) |
-| Tue, 27 May 2025 13:38:35 GMT | POV: 1st John 4:1, but it’s Scam related. | Obaoluwaseun | [Read More](https://medium.com/p/d759768b6b32) |
-| Tue, 27 May 2025 13:37:25 GMT | The AI Arms Race: How We’re Building Tomorrow’s Threats While Fighting Yesterday’s Wars | Eric Zietlow | [Read More](https://medium.com/p/e1026813f0f1) |
