@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 22:17:30 GMT | Automating Information Gathering Using Top 20 Tools | Karthikeyan Nagaraj | [Read More](https://medium.com/p/997588b24d61) |
 | Tue, 27 May 2025 21:58:44 GMT | De-Anonymize, Identify & fingerprint Back-End Infrastructure Using Favicon and Header Hashing: A… | Amir Seyedian | [Read More](https://medium.com/p/c08b09b9011d) |
 | Tue, 27 May 2025 21:52:56 GMT | ARP + DNS Spoofing: Why This MITM Combo Is Dead in 2025 | Yua Mikanana | [Read More](https://medium.com/p/c6c19726be61) |
 | Tue, 27 May 2025 21:52:39 GMT | PoC EXPLOITCVE-2025–1661: Critical Vulnerability in HUSKY WooCommerce Filter Plugin | exploit_machine | [Read More](https://medium.com/p/4502600761a4) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 15:56:55 GMT | Part 3 — Simulating an APT attack against a University | Cesaire Njietche Fangang | [Read More](https://medium.com/p/3e47fef7e14c) |
 | Tue, 27 May 2025 15:54:47 GMT | SOC116 — EventID 49 —  DNS Hijacking Detected |  | [Read More](https://medium.com/p/a9eae9f0f21e) |
 | Tue, 27 May 2025 15:50:49 GMT | Roadmap Cyber Security dengan fokus Network Security Specialist selama 5 tahun kedepan | nikyfadyla | [Read More](https://medium.com/p/411c5cefd895) |
-| Tue, 27 May 2025 15:49:32 GMT | eJPT Zero to Hero: Vulnerability Assessment CTF | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/82b38ec02958) |
