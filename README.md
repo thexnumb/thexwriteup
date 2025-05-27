@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 11:31:11 GMT | How I Used Malware to Create Malware | Rick Kanters | [Read More](https://medium.com/p/1d72be9e263b) |
+| Tue, 27 May 2025 11:29:53 GMT | The Rise of Smart Security Companies in Thane | united guard | [Read More](https://medium.com/p/bee86282c093) |
+| Tue, 27 May 2025 11:28:45 GMT | 5 Signs Your Wi-Fi Router Has Been Hacked — And How to Take Back Control | Alex Hughes | [Read More](https://medium.com/p/bdda912c22a6) |
+| Tue, 27 May 2025 11:28:35 GMT | Security Vulnerabilities | Cyber Timi | [Read More](https://medium.com/p/edad9963bb25) |
+| Tue, 27 May 2025 11:28:20 GMT | CSRF in Profile Update Endpoint | Isha Sangpal | [Read More](https://medium.com/p/ddaf0295c217) |
+| Tue, 27 May 2025 11:24:14 GMT | 6 Warning Signs Your Website Has Been Hacked — And How to Fix It | Alex Hughes | [Read More](https://medium.com/p/8b42bda8eaa6) |
+| Tue, 27 May 2025 11:16:48 GMT | Most people believe that once a transaction is marked as “final”, it’s forever recorded in the… | Huseyin | [Read More](https://medium.com/p/385902006b23) |
 | Tue, 27 May 2025 11:14:22 GMT | WHAT ARE THE STEPS TAKEN TO RECOVER STOLEN CRYPTO ASSETS | Claire Barnett | [Read More](https://medium.com/p/7b623ed9f8ba) |
 | Tue, 27 May 2025 11:13:08 GMT | PicoCTF Write-Up — Flag Hunters WalkThrough | Aliza Ibrahim | [Read More](https://medium.com/p/e94c4a34b460) |
 | Tue, 27 May 2025 11:13:00 GMT | Network Analysis -Web Shell(Blueteam labs) | Amalpp | [Read More](https://medium.com/p/798d53294082) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 07:37:14 GMT | Header Injection to Hero: How I Hijacked Emails and Made the Server Sing | Iski | [Read More](https://medium.com/p/7b8817e3736c) |
 | Tue, 27 May 2025 07:29:15 GMT | AWS Well Architect (Security Pillar) with Prowler | Fiardika Rizki | [Read More](https://medium.com/p/e90e9c361662) |
 | Tue, 27 May 2025 07:29:13 GMT | AWS Well Architect (Security Pillar) dengan Prowler | Fiardika Rizki | [Read More](https://medium.com/p/4dea4a701030) |
-| Tue, 27 May 2025 07:25:31 GMT | Cyber Security di Era Digital: Fondasi Keamanan Masa Depan | DeadlyCodex_ | [Read More](https://medium.com/p/16b08581a172) |
-| Tue, 27 May 2025 07:23:13 GMT | Global Cyber Deterrence Strategy & Norms of Responsible State Behavior | A-STAR7_DOCTOR | [Read More](https://medium.com/p/02191fc1e8b7) |
-| Tue, 27 May 2025 07:23:10 GMT | A Pen Tester’s Dive into 2025’s Cybersecurity Threats | hackerguy | [Read More](https://medium.com/p/0c6032f4f780) |
-| Tue, 27 May 2025 07:21:09 GMT | The Daily Tech Digest: 27 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/b21e0601dca1) |
-| Tue, 27 May 2025 07:19:27 GMT | 30 Days of Cyber Security — Day 1 : Apa sih Cyber Security itu? | Indra Rahmat Maulidi | [Read More](https://medium.com/p/7e6bf74f0d8e) |
-| Tue, 27 May 2025 07:15:32 GMT | Transitioning Into Cybersecurity: My Week 5 Activities at Tech Studio Academy | Yusuf Bayonle Abeeb | [Read More](https://medium.com/p/cf8758e74aa9) |
-| Tue, 27 May 2025 07:09:06 GMT | The Wires That Bind: Kicking Off Networking Week with Hands-On Foundations
-It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb506) |
