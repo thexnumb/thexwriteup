@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 17:35:59 GMT | Enumeration & Brute Force - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/7e8f0f8cbf63) |
+| Tue, 27 May 2025 17:32:30 GMT | Breaking Boundaries: Vertical Privilege Escalation to Admin via Insecure Direct Request | Asad Ullah Evan | [Read More](https://medium.com/p/f4897877649f) |
+| Tue, 27 May 2025 17:29:57 GMT | [API-Pentest] —  Track 02: Bleeding Secrets — The Danger of Excessive Data Exposure | AjiPangesstu | [Read More](https://medium.com/p/78c1084dc110) |
+| Tue, 27 May 2025 17:24:11 GMT | Apa Saja Roadmap Karier dan Keahlian Cyber Security Selama 5 Tahun Kedepan? | Catatan Tepi Kalen | [Read More](https://medium.com/p/721373f07f36) |
+| Tue, 27 May 2025 17:21:03 GMT | TryHackMe - Mobile Acquisition - WriteUp | Axoloth | [Read More](https://medium.com/p/3cece4beee0b) |
+| Tue, 27 May 2025 17:13:05 GMT | The Internet Is Now Run by Bots And You’re Still Solving CAPTCHAs | FLACKO | [Read More](https://medium.com/p/2f0aa247cb0a) |
 | Tue, 27 May 2025 17:04:45 GMT | How to Earn Big by $DORK Yield Generation on StakingRewards | Sydney
  Harper | [Read More](https://medium.com/p/581f73c5e79f) |
 | Tue, 27 May 2025 16:58:08 GMT | Mastering Network Basics with Cisco Packet Tracer: A Hands-On Tutorial for Beginners | Bumi Arya Dirangga | [Read More](https://medium.com/p/cf4cd4824b2f) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 12:32:25 GMT | CEH Module 1 (Lab 1): Performing Footprinting Through Search Engines | CyberNinja | [Read More](https://medium.com/p/d2e79362fe9e) |
 | Tue, 27 May 2025 12:31:49 GMT | Cyber Incident Response Training: Your Ultimate Defense Against Digital Disasters | Diehardmclane | [Read More](https://medium.com/p/9429035e7fc4) |
 | Tue, 27 May 2025 12:29:16 GMT | Solving the ‘Nobody Reads the Docs’ Problem with LLMs | Ankit Saini(@d3afh3av3n) | [Read More](https://medium.com/p/e382ef679b79) |
-| Tue, 27 May 2025 12:25:31 GMT | The Future of DevOps in India: A Technological Revolution in Progress | Vasundhra sharma | [Read More](https://medium.com/p/5171cd8d2002) |
-| Tue, 27 May 2025 12:21:52 GMT | How to Learn Ethical Hacking Step-by-Step | Charleskerren | [Read More](https://medium.com/p/65d73eac46af) |
-| Tue, 27 May 2025 12:20:31 GMT | The Hydra’s New Heads | E.D. Gibson | [Read More](https://medium.com/p/5694e753157f) |
-| Tue, 27 May 2025 12:18:37 GMT | Web Cache Deception (WCD) | Youssef Gadallah | [Read More](https://medium.com/p/7d15646b855c) |
-| Tue, 27 May 2025 12:17:58 GMT | The Coinbase Breach: A Wake-Up Call for Crypto Safety (And How to Stay Protected) | Dbrooks | [Read More](https://medium.com/p/002bf3192021) |
-| Tue, 27 May 2025 12:15:53 GMT | Neat and pretty words | Lineaurorawrites | [Read More](https://medium.com/p/f670639b9248) |
