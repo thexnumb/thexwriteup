@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 15:10:16 GMT | Effective Cyber Threat Triage with Osquery: Strategies for Enhanced Security Monitoring | Seb AGUELE | [Read More](https://medium.com/p/8ad79241aec7) |
+| Tue, 27 May 2025 15:09:54 GMT | Critical Exploit in Craft CMS: What It Means for Your Organization’s Web Security | Chetan Seripally | [Read More](https://medium.com/p/047c338bf773) |
+| Tue, 27 May 2025 15:02:40 GMT | How to Authenticate a React & .NET App with Microsoft Entra ID | James Austin Jr | [Read More](https://medium.com/p/f8b35f75e1bf) |
+| Tue, 27 May 2025 15:02:37 GMT | AI Fraud Detection: Why Your Bank’s Fraud Detection Just Got a $4 Billion Upgrade | Atharv | [Read More](https://medium.com/p/b524614cafa9) |
+| Tue, 27 May 2025 15:00:28 GMT | I Gave Away a GTM Playbook for Free — Then This Happened | QuietConversion | [Read More](https://medium.com/p/d9d2d50ccf25) |
+| Tue, 27 May 2025 14:59:27 GMT | How to stalk your crush without getting noticed (Reversing Instagram’s Web API) | Pablo Ajo | [Read More](https://medium.com/p/b8da3e8b4fbb) |
+| Tue, 27 May 2025 14:58:45 GMT | How a LinkedIn Post Shifted My Cybersecurity Learning Mindset | Galihabraa | [Read More](https://medium.com/p/77201e6f77fd) |
+| Tue, 27 May 2025 14:56:41 GMT | Born Again Vimmer ! | lukewago | [Read More](https://medium.com/p/c99f744b01a8) |
+| Tue, 27 May 2025 14:52:27 GMT | Full Credit Card Data in SessionStorage: A Real-World Web Security Breakdown | Patryk Kieszek | [Read More](https://medium.com/p/c1ac4e8169e2) |
+| Tue, 27 May 2025 14:52:17 GMT | SSRF to Local File Disclosure | Zoningxtr | [Read More](https://medium.com/p/b0af96993af8) |
+| Tue, 27 May 2025 14:50:03 GMT | How to Navigate AI Security: A Guide to LlamaFirewall, Garak, and ART ️ | Keith Foster | [Read More](https://medium.com/p/748a292a3608) |
+| Tue, 27 May 2025 14:49:55 GMT | Top Wholesale Directories for Access Control Systems & Security Products | Surabi | [Read More](https://medium.com/p/d8ee2944942b) |
+| Tue, 27 May 2025 14:49:40 GMT | ARC Stealer Hiding in the Ether | Jason Reaves | [Read More](https://medium.com/p/9231b3ac7318) |
+| Tue, 27 May 2025 14:49:21 GMT | Why Penetration Testing is Critical for Your Business Today | Smdefencerabbit | [Read More](https://medium.com/p/d0e8d569ad86) |
+| Tue, 27 May 2025 14:46:19 GMT | Cryptography:Cara menyelesaikan Challange CTF tipe RSA | mie ayam | [Read More](https://medium.com/p/93ef6d132909) |
 | Tue, 27 May 2025 14:42:25 GMT | Most Smart Contract Exploits Start Here: External Calls | Web3 Nautiyal | [Read More](https://medium.com/p/38c2850940e1) |
 | Tue, 27 May 2025 14:37:10 GMT | DevSecOps with GitLab: Shifting Security Left Without Breaking Your Pipeline | Ilkem Erol | [Read More](https://medium.com/p/8b04a2dcb429) |
 | Tue, 27 May 2025 14:28:31 GMT | From Zero to Hero: Panduan Lengkap Memulai Karir di Dunia Cybersecurity Part 1 | DhiasCode | [Read More](https://medium.com/p/310d67ebbf4f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 11:02:29 GMT | Blood, Bitcoin, and a Chainsaw in SoHo | Brunobega | [Read More](https://medium.com/p/5e885105cea1) |
 | Tue, 27 May 2025 10:58:19 GMT | Red Teaming As A Service: The $3.5 Billion Strategy to Stay Ahead of Cyber Threats | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/b45ca576821d) |
 | Tue, 27 May 2025 10:58:10 GMT | Stronger Security, Bigger Profits: The Revenue-Boosting Power of Cybersecurity | Harry Ko | [Read More](https://medium.com/p/02a974287da4) |
-| Tue, 27 May 2025 10:53:09 GMT | Why AI Can’t Fully Replace Human Analysts… (Yet) | Tanujsinha | [Read More](https://medium.com/p/b9651b36331d) |
-| Tue, 27 May 2025 10:48:10 GMT | White Hat Hacker: Roles and Responsibilities | Adhvaidh | [Read More](https://medium.com/p/fca58ad82fc5) |
-| Tue, 27 May 2025 10:47:03 GMT | Victoria Dimmick, CEO Of Titania On Offense vs. Defense: AI’s Cybersecurity Paradox | Smithwilsontd | [Read More](https://medium.com/p/e950176c08dc) |
-| Tue, 27 May 2025 10:46:56 GMT | From Alerts to Assurance: My Journey as a SOC Analyst in the Cybersecurity World ‍ | vyshnaviallam | [Read More](https://medium.com/p/a867d78a2fa4) |
-| Tue, 27 May 2025 10:41:19 GMT | Walkthrough THM — Expose | Telynor | [Read More](https://medium.com/p/92691ef88850) |
-| Tue, 27 May 2025 10:40:22 GMT | Captcha Malware Analysis- Verification | professor | [Read More](https://medium.com/p/02d5fc2e1473) |
-| Tue, 27 May 2025 10:39:45 GMT | PicoCTF WritUp — Flag HuntersWak | Aliza Ibrahim | [Read More](https://medium.com/p/31437aa96391) |
-| Tue, 27 May 2025 10:39:30 GMT | TryHackMe-Data Exfiltration | Mohamed Ashraf | [Read More](https://medium.com/p/0e31828d806b) |
-| Tue, 27 May 2025 10:38:51 GMT | My Cybersecurity Journey: From India to Ransomware Defense Using SSd | RahulAchukatla | [Read More](https://medium.com/p/4b51aa2cbd64) |
-| Tue, 27 May 2025 10:37:28 GMT | Why Pune Companies Choose Professional Guards | United Guard Force India | [Read More](https://medium.com/p/033d2ee2e64c) |
-| Tue, 27 May 2025 10:35:40 GMT | 0-Day in My Chest: A 5-Year Roadmap Forged in Grief | NafyCat69 | [Read More](https://medium.com/p/dffeb561a683) |
-| Tue, 27 May 2025 10:31:42 GMT | List of Common XSS Payloads | Ikhlasul | [Read More](https://medium.com/p/487dfbd3e0dd) |
-| Tue, 27 May 2025 10:29:59 GMT | Lame — HackTheBox Writeup | AP3X | [Read More](https://medium.com/p/a47e3ab91912) |
-| Tue, 27 May 2025 10:29:28 GMT | Prompt engineering and cyber attacks | Martin Abramov | [Read More](https://medium.com/p/4f598e8ec15f) |
-| Tue, 27 May 2025 10:26:36 GMT | The Security Benefits of Using Bitcoin in Banking Systems | Imali | [Read More](https://medium.com/p/ff4693344ed5) |
