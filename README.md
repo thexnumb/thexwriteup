@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 15:26:54 GMT | ☁️ Why & How AWS Still Leads the Cloud War in 2025 | LazyHacker | [Read More](https://medium.com/p/96c4608bceee) |
+| Tue, 27 May 2025 15:25:33 GMT | 5-Year Roadmap to Mastering Penetration Testing: From Zero to Elite Red Teamer | Deva | [Read More](https://medium.com/p/8536d09da44d) |
 | Tue, 27 May 2025 15:10:16 GMT | Effective Cyber Threat Triage with Osquery: Strategies for Enhanced Security Monitoring | Seb AGUELE | [Read More](https://medium.com/p/8ad79241aec7) |
 | Tue, 27 May 2025 15:09:54 GMT | Critical Exploit in Craft CMS: What It Means for Your Organization’s Web Security | Chetan Seripally | [Read More](https://medium.com/p/047c338bf773) |
 | Tue, 27 May 2025 15:02:40 GMT | How to Authenticate a React & .NET App with Microsoft Entra ID | James Austin Jr | [Read More](https://medium.com/p/f8b35f75e1bf) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 11:02:33 GMT | Malware Sandbox Bypass Techniques and Countermeasures | Esra Kayhan | [Read More](https://medium.com/p/a78da4568736) |
 | Tue, 27 May 2025 11:02:30 GMT | Solving a Cloud IAM Challenge : The Big IAM Challenge | Arnav Tripathy | [Read More](https://medium.com/p/6feaf9de051c) |
 | Tue, 27 May 2025 11:02:29 GMT | Blood, Bitcoin, and a Chainsaw in SoHo | Brunobega | [Read More](https://medium.com/p/5e885105cea1) |
-| Tue, 27 May 2025 10:58:19 GMT | Red Teaming As A Service: The $3.5 Billion Strategy to Stay Ahead of Cyber Threats | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/b45ca576821d) |
-| Tue, 27 May 2025 10:58:10 GMT | Stronger Security, Bigger Profits: The Revenue-Boosting Power of Cybersecurity | Harry Ko | [Read More](https://medium.com/p/02a974287da4) |
