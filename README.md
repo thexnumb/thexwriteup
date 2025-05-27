@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 04:20:18 GMT | 6 Cyber Attacks You Must Know Before It Is Too Late | Dibeesh KS | [Read More](https://medium.com/p/743ca28c3102) |
+| Tue, 27 May 2025 04:19:58 GMT | ประจำวันอังคารที่ 27 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/363d48114ee6) |
+| Tue, 27 May 2025 04:14:44 GMT | If Your PHP Code Can’t Self-Patch, You’re Already a Security Liability | Asian Digital Hub | [Read More](https://medium.com/p/37a32568f92f) |
+| Tue, 27 May 2025 04:07:56 GMT | File inclusion vulnerabilities in common programming languages with examples | CY033 | [Read More](https://medium.com/p/ea70ce6cd2ce) |
+| Tue, 27 May 2025 04:06:15 GMT | He Lost Everything After Connecting to Public Wi-Fi | Sam Galope | [Read More](https://medium.com/p/49480740e21b) |
+| Tue, 27 May 2025 04:04:18 GMT | “Not Left Behind” | Nguyentrang | [Read More](https://medium.com/p/58ddfecd7163) |
 | Tue, 27 May 2025 03:47:44 GMT | Here are five reasons why Google AI makes learning cyber security easy | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/7c43ea97d9db) |
 | Tue, 27 May 2025 03:42:28 GMT | Introduction to Basics of Bad USB | 5kullk3r | [Read More](https://medium.com/p/167f4347ee16) |
 | Tue, 27 May 2025 03:36:00 GMT | Rust to the Rescue: Tackling 2025’s Biggest Cybersecurity Threats | Sreeved Vp | [Read More](https://medium.com/p/c87560d0cab2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 May 2025 19:11:26 GMT | Why XSS Can Help You Get Your First Bug Bounty: A Beginner’s Deep-Dive | Asif Ebrahim | [Read More](https://medium.com/p/706226a04d09) |
 | Mon, 26 May 2025 19:08:16 GMT | Beware of Brushing Scams: A Hidden Threat to Shoppers | Xaltius | [Read More](https://medium.com/p/fe2f7aac0c71) |
 | Mon, 26 May 2025 19:07:30 GMT | CryptoXpress: Simplifying the Web3 Journey Through Smart Integration | Aubreyjay | [Read More](https://medium.com/p/577b12cd272f) |
-| Mon, 26 May 2025 19:07:02 GMT | Stop Letting AI Steal the Show | Cheryl Abram | [Read More](https://medium.com/p/a7721edeb1da) |
-| Mon, 26 May 2025 19:04:21 GMT | Prevention Techniques for Top 10 Common Cyber Attacks | Xaltius | [Read More](https://medium.com/p/2f4939be7545) |
-| Mon, 26 May 2025 19:01:58 GMT | SOC117 — EventID 50 — Suspicious .reg File |  | [Read More](https://medium.com/p/621f2e7ef339) |
-| Mon, 26 May 2025 19:01:49 GMT | The Passwordless and Keyless Future of Authentication | Xaltius | [Read More](https://medium.com/p/0d4434febe44) |
-| Mon, 26 May 2025 18:55:04 GMT | The Security Laws Every IT Professional in Kenya Should Know (And Why They Matter) | Brian Murunga | [Read More](https://medium.com/p/0ef071f2b623) |
-| Mon, 26 May 2025 18:53:17 GMT | How to Get the Most Out of Your $LFI Yield Farming on StakingRewards | LFI | [Read More](https://medium.com/p/0ce50977e0e2) |
