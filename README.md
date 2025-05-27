@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 10:21:27 GMT | Ransomware Scammers Main Target | Kevin | [Read More](https://medium.com/p/1f7ad0d08137) |
+| Tue, 27 May 2025 10:14:20 GMT | The IDOR That Played Hide-and-Seek in the URL Path | Shubham Tiwari | [Read More](https://medium.com/p/540ab1e207fb) |
+| Tue, 27 May 2025 10:13:34 GMT | CYBERSECURITY LAB SETUP | Betsy Rose Wabuke | [Read More](https://medium.com/p/53c604dd08b8) |
+| Tue, 27 May 2025 10:12:50 GMT | SOC + SIEM=A game-changer for your IT security | Century Solutions Group | [Read More](https://medium.com/p/88add4c03237) |
+| Tue, 27 May 2025 10:09:13 GMT | Business Intelligence Solutions | Purple Box | [Read More](https://medium.com/p/e5e4bdf2937b) |
+| Tue, 27 May 2025 10:06:06 GMT | Your vulnerability is safest with God — not with people. | Basma ILyas Raees | [Read More](https://medium.com/p/3f0a4a5715c7) |
+| Tue, 27 May 2025 10:05:53 GMT | CISM Certification and CISSP Certification: Which One Should You Choose? | Cybernous Infosec consulting | [Read More](https://medium.com/p/c20a87a697f4) |
+| Tue, 27 May 2025 09:58:34 GMT | Myths About Ethical Hacking | Crawsec | [Read More](https://medium.com/p/05c8f1f53060) |
+| Tue, 27 May 2025 09:55:33 GMT | OlympTrade Review 2025 | James J.love | [Read More](https://medium.com/p/04aa896e9bc8) |
+| Tue, 27 May 2025 09:55:13 GMT | ESP32-S3Rogue: Building Advance Rogue Wi-Fi AP for Security Research and Demonstration. | Lyxt | [Read More](https://medium.com/p/5a5764ceda74) |
+| Tue, 27 May 2025 09:53:48 GMT | Here’s How I Recovered My Money from OlympTrade | James J.love | [Read More](https://medium.com/p/5b0b5da8d235) |
+| Tue, 27 May 2025 09:49:02 GMT | How I Earned $$$ in a CORS Exploit Misconfigured | Buvaneshvaran K | [Read More](https://medium.com/p/1ff736e75314) |
+| Tue, 27 May 2025 09:47:06 GMT | Windows and PowerShell Commands: Essential Guide for Cybersecurity Professionals | Okan Yıldız | [Read More](https://medium.com/p/6366877cfb3f) |
+| Tue, 27 May 2025 09:46:01 GMT | 6 ways to protect your accounts from scammers in the crypto world | SubWallet | [Read More](https://medium.com/p/a00cab2eb89d) |
+| Tue, 27 May 2025 09:43:25 GMT | Heartbleed: The Bug That Bled the Internet | Ravi Patil | [Read More](https://medium.com/p/37b783a120f0) |
+| Tue, 27 May 2025 09:43:09 GMT | The Hackathon: A Fast Track to Innovation and Impact | Princesamuel | [Read More](https://medium.com/p/b282802e30bd) |
+| Tue, 27 May 2025 09:42:39 GMT | DevSecOps in Action: Automating Security Without Slowing Down | Pratik Gaikwad | [Read More](https://medium.com/p/a65f5f6aa316) |
+| Tue, 27 May 2025 09:42:14 GMT | HackTheBox[31]: Forge-Writeup | Onur Can İnalkaç | [Read More](https://medium.com/p/d1119ac7315f) |
+| Tue, 27 May 2025 09:39:34 GMT | Kidnapping, Torture, and Crypto: The Dark Reality of Rising Violent Crime | Jeremy Rush CEO Jonny Blockchain | [Read More](https://medium.com/p/151ce7a10a7f) |
 | Tue, 27 May 2025 09:39:13 GMT | U.S. Justice Department Dismantles DanaBot Malware Network in Major Cybercrime Crackdown | CyBlog | [Read More](https://medium.com/p/912c8f20e081) |
 | Tue, 27 May 2025 09:36:48 GMT | Hack The Box - Web - Spookifier - Writeup | Regan Temudo | [Read More](https://medium.com/p/222868302441) |
 | Tue, 27 May 2025 09:36:21 GMT | Netlas vs Shodan: Platforms Comparison | Netlas.io | [Read More](https://medium.com/p/f15ed19201b3) |
@@ -94,22 +113,3 @@ It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb5
 | Tue, 27 May 2025 06:02:46 GMT | When GPS Meets Espionage: How Chinese Hackers Turned Trimble Into a Digital Highway ️ | Ismail Tasdelen | [Read More](https://medium.com/p/395ac48542e2) |
 | Tue, 27 May 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — May 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a6009c345128) |
 | Tue, 27 May 2025 06:00:16 GMT | ️ Django Security Essentials — Defending Against CSRF, XSS, SQL Injection & Rate Limiting | Priyanshu Rajput | [Read More](https://medium.com/p/ce693569b810) |
-| Tue, 27 May 2025 05:56:30 GMT | Beside Him, I Became | Pratibha Singh | [Read More](https://medium.com/p/9f1f88c6ec17) |
-| Tue, 27 May 2025 05:41:32 GMT | Race Condition Vulnerability | Rishav anand | [Read More](https://medium.com/p/db1a936f17aa) |
-| Tue, 27 May 2025 05:32:28 GMT | Construction Data Security: Protecting Intellectual Property in Cloud-Based AEC Tools | AlterSquare | [Read More](https://medium.com/p/a605e34add2a) |
-| Tue, 27 May 2025 05:30:33 GMT | Two Sentences. That’s All It Takes to Ruin — or Save — Everything. | Para | [Read More](https://medium.com/p/0b6431b5b74f) |
-| Tue, 27 May 2025 05:30:03 GMT | What is Security Researcher? | NitishRawat | [Read More](https://medium.com/p/083e12aa8fe0) |
-| Tue, 27 May 2025 05:29:46 GMT | 금융사기 문자, 클릭하면 실제로 어떻게 되는 걸까? (2025년 기준 정리) | Smart Money Guide | [Read More](https://medium.com/p/d8ce941022c8) |
-| Tue, 27 May 2025 05:26:16 GMT | Find Secrets in Hidden Directories Using Fuzzing ️ | Abhijeet Kumawat | [Read More](https://medium.com/p/1666d6f34fd8) |
-| Tue, 27 May 2025 05:14:46 GMT | The Cost of Winning | McCauley | [Read More](https://medium.com/p/290c37cf45a4) |
-| Tue, 27 May 2025 05:14:04 GMT | ️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide | Asif Ebrahim | [Read More](https://medium.com/p/a46a916ea1f3) |
-| Tue, 27 May 2025 05:12:39 GMT | Mastering Debugging in Coding: Essential Tips to Identify and Fix Bugs Effectively | Yh Hh | [Read More](https://medium.com/p/253c6126794d) |
-| Tue, 27 May 2025 04:55:05 GMT | Secrets in the Backend: AWS Secrets Manager for Devs | Devops Trainer | [Read More](https://medium.com/p/738d976052c5) |
-| Tue, 27 May 2025 04:52:00 GMT | Gemini API call from Vertex AI guide | Terry Cho | [Read More](https://medium.com/p/c549aed8d352) |
-| Tue, 27 May 2025 04:44:05 GMT | Security Robot Checklist | Marcus Koehnlein | [Read More](https://medium.com/p/27f5a9075015) |
-| Tue, 27 May 2025 04:42:30 GMT | Understanding Scalability in Cyber-Physical Systems | Data Defendere | [Read More](https://medium.com/p/ba51a1a70be6) |
-| Tue, 27 May 2025 04:32:52 GMT | Planning ARCON PAM Deployment — Infrastructure Checklist & Prerequisites | Amrit Sinha | [Read More](https://medium.com/p/6e2c62aa8f88) |
-| Tue, 27 May 2025 04:25:36 GMT | Why Does Every Business Need a Cyber Security Strategy? | Webtrills | [Read More](https://medium.com/p/ef34c8e9e2b9) |
-| Tue, 27 May 2025 04:20:18 GMT | 6 Cyber Attacks You Must Know Before It Is Too Late | Dibeesh KS | [Read More](https://medium.com/p/743ca28c3102) |
-| Tue, 27 May 2025 04:19:58 GMT | ประจำวันอังคารที่ 27 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/363d48114ee6) |
-| Tue, 27 May 2025 04:14:44 GMT | If Your PHP Code Can’t Self-Patch, You’re Already a Security Liability | Asian Digital Hub | [Read More](https://medium.com/p/37a32568f92f) |
