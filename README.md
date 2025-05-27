@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 08:26:27 GMT | My Private Roadmap Goto be Pentester & Bug Hunter. EN | Pip-x-h | [Read More](https://medium.com/p/3896202f1f55) |
+| Tue, 27 May 2025 08:22:34 GMT | Windealagency Review | Heather Schwartz | [Read More](https://medium.com/p/c3d309698306) |
+| Tue, 27 May 2025 08:21:03 GMT | Here’s How I Recover My Money From Windealagency | Heather Schwartz | [Read More](https://medium.com/p/c3149e1f3e5b) |
+| Tue, 27 May 2025 08:19:50 GMT | (My) Cyber Security Roadmap as Penetration Tester in 5 years Time Span | Muhammad Zidan | [Read More](https://medium.com/p/579f2a9379be) |
+| Tue, 27 May 2025 08:19:50 GMT | Into Linux Kernel Fuzzing: A Researcher’s Diary (Part 2) | Kerkroups | [Read More](https://medium.com/p/171b55c63697) |
+| Tue, 27 May 2025 08:19:34 GMT | Wordpress Vulnerability Research | AbhirupKonwar | [Read More](https://medium.com/p/a2b3043f801d) |
+| Tue, 27 May 2025 08:17:49 GMT | Cyber Security Course with Placement in India | Manisha Chaudhary | [Read More](https://medium.com/p/23e662e03803) |
+| Tue, 27 May 2025 08:17:05 GMT | Tech Be Wild Now, From Pixels to Parasocials | Ais Farhan | [Read More](https://medium.com/p/712270a1999d) |
+| Tue, 27 May 2025 08:16:51 GMT | DLL Sideloading & SEO Poisoning Tactics: A Bumblebee Adventure | bfake | [Read More](https://medium.com/p/a09ccf2e6d18) |
+| Tue, 27 May 2025 08:05:28 GMT | The Truth About Antivirus: What Everyone Should Know | R1punjay_Singh | [Read More](https://medium.com/p/65765c9e7e17) |
+| Tue, 27 May 2025 08:04:34 GMT | Sui Network Pledges $10 Million for Security Overhaul After Cetus Hack Fallout | Tokenize Xchange | [Read More](https://medium.com/p/cdbfec353217) |
+| Tue, 27 May 2025 07:58:42 GMT | The Yin and Yang of Addiction: Honoring Truth, Experience, and the Power of Discernment | Real-Talk | [Read More](https://medium.com/p/6c2a89c0ebf4) |
+| Tue, 27 May 2025 07:52:45 GMT | Timeline tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/68de350f87f4) |
+| Tue, 27 May 2025 07:49:07 GMT | B.Tech CSE (Specialization in Cyber Security) — Secure Your Future with NIILM University | jashleen | [Read More](https://medium.com/p/a560e765c862) |
 | Tue, 27 May 2025 07:37:14 GMT | Header Injection to Hero: How I Hijacked Emails and Made the Server Sing | Iski | [Read More](https://medium.com/p/7b8817e3736c) |
+| Tue, 27 May 2025 07:29:15 GMT | AWS Well Architect (Security Pillar) with Prowler | Fiardika Rizki | [Read More](https://medium.com/p/e90e9c361662) |
+| Tue, 27 May 2025 07:29:13 GMT | AWS Well Architect (Security Pillar) dengan Prowler | Fiardika Rizki | [Read More](https://medium.com/p/4dea4a701030) |
 | Tue, 27 May 2025 07:25:31 GMT | Cyber Security di Era Digital: Fondasi Keamanan Masa Depan | DeadlyCodex_ | [Read More](https://medium.com/p/16b08581a172) |
 | Tue, 27 May 2025 07:23:13 GMT | Global Cyber Deterrence Strategy & Norms of Responsible State Behavior | A-STAR7_DOCTOR | [Read More](https://medium.com/p/02191fc1e8b7) |
 | Tue, 27 May 2025 07:23:10 GMT | A Pen Tester’s Dive into 2025’s Cybersecurity Threats | hackerguy | [Read More](https://medium.com/p/0c6032f4f780) |
@@ -97,19 +113,3 @@ It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb5
 | Tue, 27 May 2025 02:00:32 GMT | CrowdStrike: The Cloud Security Leader Set to Surpass $500 | Felix Prehn | [Read More](https://medium.com/p/1e3dfea2c2e3) |
 | Tue, 27 May 2025 01:51:02 GMT | Understanding the Commvault Metallic Incident | Saransh Mahajan | [Read More](https://medium.com/p/83b5d9f0e064) |
 | Tue, 27 May 2025 01:43:19 GMT | Chalant in a Nonchalant World: Choosing Vulnerability Over Vanity | AJM | [Read More](https://medium.com/p/11b4712991de) |
-| Tue, 27 May 2025 01:31:51 GMT | AI Hacking Village @ BSides TLV 2025 | Tal Eliyahu | [Read More](https://medium.com/p/8d24fd973fea) |
-| Tue, 27 May 2025 01:13:28 GMT | API Pentesting- Web API Fundamentals | Will Giles | [Read More](https://medium.com/p/ef55d38bfde2) |
-| Tue, 27 May 2025 01:11:41 GMT | How the World’s #1 Hacker Broke Systems Without Writing a Single Line of Code… | Alex Grande | [Read More](https://medium.com/p/6e936517c67c) |
-| Tue, 27 May 2025 00:50:00 GMT | 0x03 New Blog Again and Updated Site | Synchr0niz3d | [Read More](https://medium.com/p/dbb939debaee) |
-| Tue, 27 May 2025 00:48:37 GMT | A Bug Bounty Beginner's Setback - And a Request for Support | 127.0.0.1 | [Read More](https://medium.com/p/509ea402b1f8) |
-| Tue, 27 May 2025 00:47:07 GMT | Unmasking DRDoS: The Amplified Threat Behind Modern DDoS Attacks | MD AFTABUL ISLAM | [Read More](https://medium.com/p/ef370bb69528) |
-| Tue, 27 May 2025 00:42:35 GMT | Quora Trans/Gay Organized Crime Gang | Chris Burgess | [Read More](https://medium.com/p/1adbd1c9dafc) |
-| Tue, 27 May 2025 00:39:45 GMT | Beyond Training Data: How Anthropic’s Web Search API Powers Threat Hunting | Michael Rico | [Read More](https://medium.com/p/14fbece708ce) |
-| Tue, 27 May 2025 00:20:05 GMT | A conversation with Lieutenant General Michelle McGuinness CSC | Sasenka Abeysooriya | [Read More](https://medium.com/p/7b96759772e8) |
-| Tue, 27 May 2025 00:19:55 GMT | Command Injection: Evasion Tools & Prevention | Onur Bilici | [Read More](https://medium.com/p/99bd344723e0) |
-| Tue, 27 May 2025 00:10:22 GMT | Cybersecurity 101: Passive Reconnaissance with Nmap | Sevgi Nur Öksüz | [Read More](https://medium.com/p/502233ed1e6e) |
-| Tue, 27 May 2025 00:03:50 GMT | Am I Allowed To Break Down? | Jennifer Atsunyo | [Read More](https://medium.com/p/b9cdf3908517) |
-| Tue, 27 May 2025 00:02:34 GMT | Introduction to Splunk | JPablo13 | [Read More](https://medium.com/p/cdf13637de2f) |
-| Mon, 26 May 2025 23:51:44 GMT | Bug bounty:How i access hidden signup pages | Canonminibeast | [Read More](https://medium.com/p/11a42b4aabae) |
-| Mon, 26 May 2025 23:07:57 GMT | The Pentesting Trifecta CPTS-OSCP-PNPT | MalwareBro | [Read More](https://medium.com/p/a67900aab176) |
-| Mon, 26 May 2025 23:05:39 GMT | The Fake Crypto App That Cost Me My Business: How I Lost Everything Trying to ‘Modernize’ My Store” | true crime | [Read More](https://medium.com/p/9c844cbcd48d) |
