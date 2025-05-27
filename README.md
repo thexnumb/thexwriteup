@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 10:40:22 GMT | Captcha Malware Analysis- Verification | professor | [Read More](https://medium.com/p/02d5fc2e1473) |
+| Tue, 27 May 2025 10:39:45 GMT | PicoCTF WritUp — Flag HuntersWak | Aliza Ibrahim | [Read More](https://medium.com/p/31437aa96391) |
+| Tue, 27 May 2025 10:39:30 GMT | TryHackMe-Data Exfiltration | Mohamed Ashraf | [Read More](https://medium.com/p/0e31828d806b) |
+| Tue, 27 May 2025 10:38:51 GMT | My Cybersecurity Journey: From India to Ransomware Defense Using SSd | RahulAchukatla | [Read More](https://medium.com/p/4b51aa2cbd64) |
+| Tue, 27 May 2025 10:37:28 GMT | Why Pune Companies Choose Professional Guards | United Guard Force India | [Read More](https://medium.com/p/033d2ee2e64c) |
+| Tue, 27 May 2025 10:35:40 GMT | 0-Day in My Chest: A 5-Year Roadmap Forged in Grief | NafyCat69 | [Read More](https://medium.com/p/dffeb561a683) |
+| Tue, 27 May 2025 10:31:42 GMT | List of Common XSS Payloads | Ikhlasul | [Read More](https://medium.com/p/487dfbd3e0dd) |
+| Tue, 27 May 2025 10:29:59 GMT | Lame — HackTheBox Writeup | AP3X | [Read More](https://medium.com/p/a47e3ab91912) |
+| Tue, 27 May 2025 10:29:28 GMT | Prompt engineering and cyber attacks | Martin Abramov | [Read More](https://medium.com/p/4f598e8ec15f) |
+| Tue, 27 May 2025 10:26:36 GMT | The Security Benefits of Using Bitcoin in Banking Systems | Imali | [Read More](https://medium.com/p/ff4693344ed5) |
+| Tue, 27 May 2025 10:25:12 GMT | From Classroom to HackTheBox: My Journey Through Cybersecurity Degree, Certifications, and the… | 0xN1gh7xW1z4rd | [Read More](https://medium.com/p/9891a3eeeb80) |
+| Tue, 27 May 2025 10:21:59 GMT | Behind the Color-Coded Teams of CyberSecurity | Jasmehr Kaur | [Read More](https://medium.com/p/210942a92bcb) |
 | Tue, 27 May 2025 10:21:27 GMT | Ransomware Scammers Main Target | Kevin | [Read More](https://medium.com/p/1f7ad0d08137) |
 | Tue, 27 May 2025 10:14:20 GMT | The IDOR That Played Hide-and-Seek in the URL Path | Shubham Tiwari | [Read More](https://medium.com/p/540ab1e207fb) |
 | Tue, 27 May 2025 10:13:34 GMT | CYBERSECURITY LAB SETUP | Betsy Rose Wabuke | [Read More](https://medium.com/p/53c604dd08b8) |
@@ -101,15 +113,3 @@ It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb5
 | Tue, 27 May 2025 06:40:54 GMT | How to Securely Update Password in Laravel: A Best Practice Guide | Mubashirxp | [Read More](https://medium.com/p/43ffed492792) |
 | Tue, 27 May 2025 06:39:58 GMT | DFIR: An Introduction - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/b512cf297c48) |
 | Tue, 27 May 2025 06:32:45 GMT | I Am Not My Faults — Reclaiming Myself from Misunderstood Vulnerability | Sheillah Kandagor | [Read More](https://medium.com/p/d3d111e8aed0) |
-| Tue, 27 May 2025 06:26:40 GMT | Fundamentals of Engineering (FE) Exam: A Pathway to Engineering in Japan Without a Degree | Irving Duran | [Read More](https://medium.com/p/b3a57efbcc86) |
-| Tue, 27 May 2025 06:24:11 GMT | Discovery of Hacking Tools : Netscan Pro | GNINGHAYE GUEMANDEU Malcolmx Hassler | [Read More](https://medium.com/p/aa593fd91ba4) |
-| Tue, 27 May 2025 06:21:13 GMT | Rise in Daily Online Scams | Harshalijain | [Read More](https://medium.com/p/2b3bf1a43eb1) |
-| Tue, 27 May 2025 06:19:51 GMT | Indonesia’s Dilemma: Defense Spending or Domestic Welfare? | Hafizh Ainul Haq | [Read More](https://medium.com/p/7ba072198e8f) |
-| Tue, 27 May 2025 06:19:04 GMT | Working Remote on a Budget: How to Set Up a Home Office Without Breaking the Bank. | Reapool | [Read More](https://medium.com/p/86a730dd4d6f) |
-| Tue, 27 May 2025 06:17:54 GMT | Vulnerability | NitishRawat | [Read More](https://medium.com/p/c69d4c761991) |
-| Tue, 27 May 2025 06:16:28 GMT | Tools and techniques for effective error detection | NIKITA SINGH | [Read More](https://medium.com/p/057ac3f9bd18) |
-| Tue, 27 May 2025 06:15:26 GMT | Step by Step Complete Beginners guide of iOS penetration testing | Sandeep Vishwakarma | [Read More](https://medium.com/p/17092c0e0dc7) |
-| Tue, 27 May 2025 06:06:17 GMT | About Google is a leading | NIKITA SINGH | [Read More](https://medium.com/p/8b0e6e195a97) |
-| Tue, 27 May 2025 06:02:46 GMT | When GPS Meets Espionage: How Chinese Hackers Turned Trimble Into a Digital Highway ️ | Ismail Tasdelen | [Read More](https://medium.com/p/395ac48542e2) |
-| Tue, 27 May 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — May 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a6009c345128) |
-| Tue, 27 May 2025 06:00:16 GMT | ️ Django Security Essentials — Defending Against CSRF, XSS, SQL Injection & Rate Limiting | Priyanshu Rajput | [Read More](https://medium.com/p/ce693569b810) |
