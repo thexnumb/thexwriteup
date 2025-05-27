@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 21:58:44 GMT | De-Anonymize, Identify & fingerprint Back-End Infrastructure Using Favicon and Header Hashing: A… | Amir Seyedian | [Read More](https://medium.com/p/c08b09b9011d) |
+| Tue, 27 May 2025 21:52:56 GMT | ARP + DNS Spoofing: Why This MITM Combo Is Dead in 2025 | Yua Mikanana | [Read More](https://medium.com/p/c6c19726be61) |
+| Tue, 27 May 2025 21:52:39 GMT | PoC EXPLOITCVE-2025–1661: Critical Vulnerability in HUSKY WooCommerce Filter Plugin | exploit_machine | [Read More](https://medium.com/p/4502600761a4) |
+| Tue, 27 May 2025 21:36:43 GMT | Trust isn’t a guardrail — it’s a UX pattern | Arielle Caron | [Read More](https://medium.com/p/205775a6ffe8) |
+| Tue, 27 May 2025 21:35:00 GMT | Real Estate Scams to Watch Out For: Stay Safe in Your Property Search | Denise Wittmer | [Read More](https://medium.com/p/dbc70dbef3f8) |
 | Tue, 27 May 2025 21:30:57 GMT | Infrastructure and Automated tests for validation and optimization of security and regression | Adil Faiyaz | [Read More](https://medium.com/p/e9cbfcbfa5ef) |
 | Tue, 27 May 2025 21:13:22 GMT | Securely Manage User Context in Agentforce Using Pre-Chat Variables | Justus van den Berg | [Read More](https://medium.com/p/a35eb039b6e0) |
 | Tue, 27 May 2025 21:09:41 GMT | Stopping attacks dead on their tracks | Adil Faiyaz | [Read More](https://medium.com/p/515f42bfa4d6) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 15:54:47 GMT | SOC116 — EventID 49 —  DNS Hijacking Detected |  | [Read More](https://medium.com/p/a9eae9f0f21e) |
 | Tue, 27 May 2025 15:50:49 GMT | Roadmap Cyber Security dengan fokus Network Security Specialist selama 5 tahun kedepan | nikyfadyla | [Read More](https://medium.com/p/411c5cefd895) |
 | Tue, 27 May 2025 15:49:32 GMT | eJPT Zero to Hero: Vulnerability Assessment CTF | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/82b38ec02958) |
-| Tue, 27 May 2025 15:48:58 GMT | “Do You Really Own the Photos You Post Online? What Every Young Creator Needs to Know” | Apurvjulaniya | [Read More](https://medium.com/p/df4d3ba156a4) |
-| Tue, 27 May 2025 15:48:08 GMT | DNS Spoofing and Its Dangers: What You Need to Know | Bhushan | [Read More](https://medium.com/p/368e4cba7f39) |
-| Tue, 27 May 2025 15:30:22 GMT | How to Secure Your Django Application: Best Practices for 2025 | Shiladitya Majumder | [Read More](https://medium.com/p/e9234cf71ab7) |
-| Tue, 27 May 2025 15:26:54 GMT | ☁️ Why & How AWS Still Leads the Cloud War in 2025 | LazyHacker | [Read More](https://medium.com/p/96c4608bceee) |
-| Tue, 27 May 2025 15:25:33 GMT | 5-Year Roadmap to Mastering Penetration Testing: From Zero to Elite Red Teamer | Deva | [Read More](https://medium.com/p/8536d09da44d) |
