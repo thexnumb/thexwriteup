@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 11:14:22 GMT | WHAT ARE THE STEPS TAKEN TO RECOVER STOLEN CRYPTO ASSETS | Claire Barnett | [Read More](https://medium.com/p/7b623ed9f8ba) |
+| Tue, 27 May 2025 11:13:08 GMT | PicoCTF Write-Up — Flag Hunters WalkThrough | Aliza Ibrahim | [Read More](https://medium.com/p/e94c4a34b460) |
+| Tue, 27 May 2025 11:13:00 GMT | Network Analysis -Web Shell(Blueteam labs) | Amalpp | [Read More](https://medium.com/p/798d53294082) |
+| Tue, 27 May 2025 11:12:07 GMT | Securing credentials in Azure-hosted applications using managed identities and Azure Key Vault | Nicolas DESCARTES | [Read More](https://medium.com/p/e616293e1801) |
+| Tue, 27 May 2025 11:11:34 GMT | INTMAX Launches $30,000 Bug Bounty Program on Immunefi | INTMAX | [Read More](https://medium.com/p/a39e6513b0ec) |
+| Tue, 27 May 2025 11:06:30 GMT | SQL Injection 102: Testing for SQL Injection | bithowl | [Read More](https://medium.com/p/682a01dc2c3e) |
+| Tue, 27 May 2025 11:04:42 GMT | “Still Here, Still Healing: Why Survivors of Cancer Need Your Understanding, Not Your Expectations” | Leon S Dixon Jr | [Read More](https://medium.com/p/34609f22031d) |
+| Tue, 27 May 2025 11:02:33 GMT | Malware Sandbox Bypass Techniques and Countermeasures | Esra Kayhan | [Read More](https://medium.com/p/a78da4568736) |
+| Tue, 27 May 2025 11:02:30 GMT | Solving a Cloud IAM Challenge : The Big IAM Challenge | Arnav Tripathy | [Read More](https://medium.com/p/6feaf9de051c) |
+| Tue, 27 May 2025 11:02:29 GMT | Blood, Bitcoin, and a Chainsaw in SoHo | Brunobega | [Read More](https://medium.com/p/5e885105cea1) |
+| Tue, 27 May 2025 10:58:19 GMT | Red Teaming As A Service: The $3.5 Billion Strategy to Stay Ahead of Cyber Threats | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/b45ca576821d) |
+| Tue, 27 May 2025 10:58:10 GMT | Stronger Security, Bigger Profits: The Revenue-Boosting Power of Cybersecurity | Harry Ko | [Read More](https://medium.com/p/02a974287da4) |
+| Tue, 27 May 2025 10:53:09 GMT | Why AI Can’t Fully Replace Human Analysts… (Yet) | Tanujsinha | [Read More](https://medium.com/p/b9651b36331d) |
+| Tue, 27 May 2025 10:48:10 GMT | White Hat Hacker: Roles and Responsibilities | Adhvaidh | [Read More](https://medium.com/p/fca58ad82fc5) |
+| Tue, 27 May 2025 10:47:03 GMT | Victoria Dimmick, CEO Of Titania On Offense vs. Defense: AI’s Cybersecurity Paradox | Smithwilsontd | [Read More](https://medium.com/p/e950176c08dc) |
+| Tue, 27 May 2025 10:46:56 GMT | From Alerts to Assurance: My Journey as a SOC Analyst in the Cybersecurity World ‍ | vyshnaviallam | [Read More](https://medium.com/p/a867d78a2fa4) |
+| Tue, 27 May 2025 10:41:19 GMT | Walkthrough THM — Expose | Telynor | [Read More](https://medium.com/p/92691ef88850) |
 | Tue, 27 May 2025 10:40:22 GMT | Captcha Malware Analysis- Verification | professor | [Read More](https://medium.com/p/02d5fc2e1473) |
 | Tue, 27 May 2025 10:39:45 GMT | PicoCTF WritUp — Flag HuntersWak | Aliza Ibrahim | [Read More](https://medium.com/p/31437aa96391) |
 | Tue, 27 May 2025 10:39:30 GMT | TryHackMe-Data Exfiltration | Mohamed Ashraf | [Read More](https://medium.com/p/0e31828d806b) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 07:15:32 GMT | Transitioning Into Cybersecurity: My Week 5 Activities at Tech Studio Academy | Yusuf Bayonle Abeeb | [Read More](https://medium.com/p/cf8758e74aa9) |
 | Tue, 27 May 2025 07:09:06 GMT | The Wires That Bind: Kicking Off Networking Week with Hands-On Foundations
 It’s Monday, and the… | Daniel | [Read More](https://medium.com/p/f593b18fb506) |
-| Tue, 27 May 2025 07:06:05 GMT | Beyond best practices: Using OWASP ASVS to bake security into your delivery pipeline for 2025 | Roman Huliak | [Read More](https://medium.com/p/36ff24c06960) |
-| Tue, 27 May 2025 07:05:38 GMT | Decoding the Global Cybersecurity Risk Index: A New Era of Strategic Digital Defense | A-STAR7_DOCTOR | [Read More](https://medium.com/p/e1b45b3568d6) |
-| Tue, 27 May 2025 07:04:16 GMT | Top 10 In-Demand Technology Careers to Watch in 2025 | Nithya | [Read More](https://medium.com/p/522175d3ef15) |
-| Tue, 27 May 2025 07:02:40 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/ff957937e200) |
-| Tue, 27 May 2025 07:02:38 GMT | Aprender Web Bug Bounty | Babyf4c3 | [Read More](https://medium.com/p/4d75cce5df9c) |
-| Tue, 27 May 2025 07:01:59 GMT | Day 4: DOM XSS in innerHTML sink using source location.search: Zero to Hero Series — Portswigger | RayofHope | [Read More](https://medium.com/p/32c993b86584) |
-| Tue, 27 May 2025 07:01:46 GMT | How Improper Regex Usage Can Open Your System to Vulnerabilities | ZVitoX | [Read More](https://medium.com/p/c7c5b1541c52) |
-| Tue, 27 May 2025 07:01:37 GMT | Cyber Security Summer Internship vs. Ethical Hacking Training: Which One Is Right for You? | Maya Dhavale | [Read More](https://medium.com/p/a301ed63aa16) |
-| Tue, 27 May 2025 07:00:16 GMT | The Image That Spoke JavaScript | Monika sharma | [Read More](https://medium.com/p/bdbd368921e4) |
-| Tue, 27 May 2025 07:00:06 GMT | Breaking Twitter’s VPN: $20,160 Bounty for a Pre-Auth RCE via Pulse Secure Chain | Monika sharma | [Read More](https://medium.com/p/ab0ad708e988) |
-| Tue, 27 May 2025 06:59:07 GMT | I Hacked Indian Government Websites and became Admin Ethically. | RivuDon | [Read More](https://medium.com/p/af6f68c06de3) |
-| Tue, 27 May 2025 06:52:15 GMT | Best Online Certified Ethical Hacker Training | cyber security Updates | [Read More](https://medium.com/p/70b64d9eec52) |
-| Tue, 27 May 2025 06:48:19 GMT | BBS+ — The Short And Anonymised Group Signature using WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0cb631d32c16) |
-| Tue, 27 May 2025 06:43:13 GMT | Demystifying Cookies : The Complete Guide for Bug Bounty Hunters — Part 1 | phoenixcatalan | [Read More](https://medium.com/p/c24d2670413a) |
-| Tue, 27 May 2025 06:40:54 GMT | How to Securely Update Password in Laravel: A Best Practice Guide | Mubashirxp | [Read More](https://medium.com/p/43ffed492792) |
-| Tue, 27 May 2025 06:39:58 GMT | DFIR: An Introduction - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/b512cf297c48) |
-| Tue, 27 May 2025 06:32:45 GMT | I Am Not My Faults — Reclaiming Myself from Misunderstood Vulnerability | Sheillah Kandagor | [Read More](https://medium.com/p/d3d111e8aed0) |
