@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 23:14:40 GMT | Why the OPPO A3 Is the Best Budget Smartphone You Can Buy Right Now (And Where to Get It for Less) | Nipapan Sinpaisansakul | [Read More](https://medium.com/p/6bac6ea4a09d) |
+| Tue, 27 May 2025 23:12:35 GMT | From Chaos to Confidence: What We’re Learning About Securing Open Source Supply Chains | Cyber-AppSec | [Read More](https://medium.com/p/c8f26e26c079) |
+| Tue, 27 May 2025 22:57:40 GMT | SQL Injection: What It Is and How to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/91169f7df74f) |
+| Tue, 27 May 2025 22:52:21 GMT | # ️ Automatiza tu vida digital y protege tus datos como un profesional — sin ser un hacker | Nulltrace | [Read More](https://medium.com/p/0ee641cde59d) |
+| Tue, 27 May 2025 22:43:57 GMT | EG-CTF Finals: WEB-FlagFinder | 0xStrawHat | [Read More](https://medium.com/p/1ffb92a81889) |
+| Tue, 27 May 2025 22:40:09 GMT | BUGCODE_NDIS_DRIVER nel momento in cui click click | octospacc | [Read More](https://medium.com/p/fba39b4ea7ca) |
 | Tue, 27 May 2025 22:17:30 GMT | Automating Information Gathering Using Top 20 Tools | Karthikeyan Nagaraj | [Read More](https://medium.com/p/997588b24d61) |
 | Tue, 27 May 2025 21:58:44 GMT | De-Anonymize, Identify & fingerprint Back-End Infrastructure Using Favicon and Header Hashing: A… | Amir Seyedian | [Read More](https://medium.com/p/c08b09b9011d) |
 | Tue, 27 May 2025 21:52:56 GMT | ARP + DNS Spoofing: Why This MITM Combo Is Dead in 2025 | Yua Mikanana | [Read More](https://medium.com/p/c6c19726be61) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 16:08:37 GMT | How I’m Using AI to Stop Cybercrimes Before They Happen (Yes, It’s Possible) | Lokeshwar Goud | [Read More](https://medium.com/p/2140efcb8d40) |
 | Tue, 27 May 2025 16:01:51 GMT | Is it possible to withdraw my money from Minepulse ? | Diego santos | [Read More](https://medium.com/p/7ab6e0f5b93a) |
 | Tue, 27 May 2025 15:59:13 GMT | What should I do to recover my money back from Minepulse ? | Diego santos | [Read More](https://medium.com/p/76ad3237a925) |
-| Tue, 27 May 2025 15:59:12 GMT | Building Your Digital Fortress: A 5-Year Cybersecurity Roadmap | Bumi Arya Dirangga | [Read More](https://medium.com/p/d2ba42cd19c0) |
-| Tue, 27 May 2025 15:58:53 GMT | How safe is this Chrome extension? Find out in seconds with AI | AI Rabbit | [Read More](https://medium.com/p/404fac8ffb5c) |
-| Tue, 27 May 2025 15:58:16 GMT | Bitcoin vs. Quantum: Why Google’s Breakthrough Could Change Crypto Forever | Travis Murphy | [Read More](https://medium.com/p/056bffe87da1) |
-| Tue, 27 May 2025 15:56:55 GMT | Part 3 — Simulating an APT attack against a University | Cesaire Njietche Fangang | [Read More](https://medium.com/p/3e47fef7e14c) |
-| Tue, 27 May 2025 15:54:47 GMT | SOC116 — EventID 49 —  DNS Hijacking Detected |  | [Read More](https://medium.com/p/a9eae9f0f21e) |
-| Tue, 27 May 2025 15:50:49 GMT | Roadmap Cyber Security dengan fokus Network Security Specialist selama 5 tahun kedepan | nikyfadyla | [Read More](https://medium.com/p/411c5cefd895) |
