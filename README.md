@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 21:30:57 GMT | Infrastructure and Automated tests for validation and optimization of security and regression | Adil Faiyaz | [Read More](https://medium.com/p/e9cbfcbfa5ef) |
+| Tue, 27 May 2025 21:13:22 GMT | Securely Manage User Context in Agentforce Using Pre-Chat Variables | Justus van den Berg | [Read More](https://medium.com/p/a35eb039b6e0) |
 | Tue, 27 May 2025 21:09:41 GMT | Stopping attacks dead on their tracks | Adil Faiyaz | [Read More](https://medium.com/p/515f42bfa4d6) |
 | Tue, 27 May 2025 21:08:15 GMT | HTB Hacking Oopsie: A Beginner-Friendly Hack The Box Guide | BotsiCat | [Read More](https://medium.com/p/9a64b00b9276) |
 | Tue, 27 May 2025 21:05:02 GMT | How QA Became Cybersecurity’s Secret Weapon | Abhishek Sahu | [Read More](https://medium.com/p/8f79017761dc) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 15:30:22 GMT | How to Secure Your Django Application: Best Practices for 2025 | Shiladitya Majumder | [Read More](https://medium.com/p/e9234cf71ab7) |
 | Tue, 27 May 2025 15:26:54 GMT | ☁️ Why & How AWS Still Leads the Cloud War in 2025 | LazyHacker | [Read More](https://medium.com/p/96c4608bceee) |
 | Tue, 27 May 2025 15:25:33 GMT | 5-Year Roadmap to Mastering Penetration Testing: From Zero to Elite Red Teamer | Deva | [Read More](https://medium.com/p/8536d09da44d) |
-| Tue, 27 May 2025 15:10:16 GMT | Effective Cyber Threat Triage with Osquery: Strategies for Enhanced Security Monitoring | Seb AGUELE | [Read More](https://medium.com/p/8ad79241aec7) |
-| Tue, 27 May 2025 15:09:54 GMT | Critical Exploit in Craft CMS: What It Means for Your Organization’s Web Security | Chetan Seripally | [Read More](https://medium.com/p/047c338bf773) |
