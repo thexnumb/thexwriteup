@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 May 2025 16:19:53 GMT | ChainBounty $BOUNTY Growth Strategy for Beginners: Your Step-by-Step Guide | BOUNTY | [Read More](https://medium.com/p/4eb10a1e3fcc) |
+| Tue, 27 May 2025 16:10:42 GMT | Understanding Android Architecture Through Pentesting with DIVA APK | Anandhu K | [Read More](https://medium.com/p/28376d69ce0a) |
+| Tue, 27 May 2025 16:09:00 GMT | What is Networking? — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/d6ca5627868c) |
+| Tue, 27 May 2025 16:08:37 GMT | How I’m Using AI to Stop Cybercrimes Before They Happen (Yes, It’s Possible) | Lokeshwar Goud | [Read More](https://medium.com/p/2140efcb8d40) |
+| Tue, 27 May 2025 16:01:51 GMT | Is it possible to withdraw my money from Minepulse ? | Diego santos | [Read More](https://medium.com/p/7ab6e0f5b93a) |
+| Tue, 27 May 2025 15:59:13 GMT | What should I do to recover my money back from Minepulse ? | Diego santos | [Read More](https://medium.com/p/76ad3237a925) |
+| Tue, 27 May 2025 15:59:12 GMT | Building Your Digital Fortress: A 5-Year Cybersecurity Roadmap | Bumi Arya Dirangga | [Read More](https://medium.com/p/d2ba42cd19c0) |
+| Tue, 27 May 2025 15:58:53 GMT | How safe is this Chrome extension? Find out in seconds with AI | AI Rabbit | [Read More](https://medium.com/p/404fac8ffb5c) |
+| Tue, 27 May 2025 15:58:16 GMT | Bitcoin vs. Quantum: Why Google’s Breakthrough Could Change Crypto Forever | Travis Murphy | [Read More](https://medium.com/p/056bffe87da1) |
+| Tue, 27 May 2025 15:56:55 GMT | Part 3 — Simulating an APT attack against a University | Cesaire Njietche Fangang | [Read More](https://medium.com/p/3e47fef7e14c) |
+| Tue, 27 May 2025 15:54:47 GMT | SOC116 — EventID 49 —  DNS Hijacking Detected |  | [Read More](https://medium.com/p/a9eae9f0f21e) |
+| Tue, 27 May 2025 15:50:49 GMT | Roadmap Cyber Security dengan fokus Network Security Specialist selama 5 tahun kedepan | nikyfadyla | [Read More](https://medium.com/p/411c5cefd895) |
+| Tue, 27 May 2025 15:49:32 GMT | eJPT Zero to Hero: Vulnerability Assessment CTF | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/82b38ec02958) |
+| Tue, 27 May 2025 15:48:58 GMT | “Do You Really Own the Photos You Post Online? What Every Young Creator Needs to Know” | Apurvjulaniya | [Read More](https://medium.com/p/df4d3ba156a4) |
+| Tue, 27 May 2025 15:48:08 GMT | DNS Spoofing and Its Dangers: What You Need to Know | Bhushan | [Read More](https://medium.com/p/368e4cba7f39) |
+| Tue, 27 May 2025 15:30:22 GMT | How to Secure Your Django Application: Best Practices for 2025 | Shiladitya Majumder | [Read More](https://medium.com/p/e9234cf71ab7) |
 | Tue, 27 May 2025 15:26:54 GMT | ☁️ Why & How AWS Still Leads the Cloud War in 2025 | LazyHacker | [Read More](https://medium.com/p/96c4608bceee) |
 | Tue, 27 May 2025 15:25:33 GMT | 5-Year Roadmap to Mastering Penetration Testing: From Zero to Elite Red Teamer | Deva | [Read More](https://medium.com/p/8536d09da44d) |
 | Tue, 27 May 2025 15:10:16 GMT | Effective Cyber Threat Triage with Osquery: Strategies for Enhanced Security Monitoring | Seb AGUELE | [Read More](https://medium.com/p/8ad79241aec7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 11:39:22 GMT | Direct Syscall Injection in Windows | LordShen | [Read More](https://medium.com/p/933208529c4c) |
 | Tue, 27 May 2025 11:33:27 GMT | Hire a Hacker to Change your University Grades | Hackers World | [Read More](https://medium.com/p/a7576381d0ad) |
 | Tue, 27 May 2025 11:31:11 GMT | How I Used Malware to Create Malware | Rick Kanters | [Read More](https://medium.com/p/1d72be9e263b) |
-| Tue, 27 May 2025 11:29:53 GMT | The Rise of Smart Security Companies in Thane | united guard | [Read More](https://medium.com/p/bee86282c093) |
-| Tue, 27 May 2025 11:28:45 GMT | 5 Signs Your Wi-Fi Router Has Been Hacked — And How to Take Back Control | Alex Hughes | [Read More](https://medium.com/p/bdda912c22a6) |
-| Tue, 27 May 2025 11:28:35 GMT | Security Vulnerabilities | Cyber Timi | [Read More](https://medium.com/p/edad9963bb25) |
-| Tue, 27 May 2025 11:28:20 GMT | CSRF in Profile Update Endpoint | Isha Sangpal | [Read More](https://medium.com/p/ddaf0295c217) |
-| Tue, 27 May 2025 11:24:14 GMT | 6 Warning Signs Your Website Has Been Hacked — And How to Fix It | Alex Hughes | [Read More](https://medium.com/p/8b42bda8eaa6) |
-| Tue, 27 May 2025 11:16:48 GMT | Most people believe that once a transaction is marked as “final”, it’s forever recorded in the… | Huseyin | [Read More](https://medium.com/p/385902006b23) |
-| Tue, 27 May 2025 11:14:22 GMT | WHAT ARE THE STEPS TAKEN TO RECOVER STOLEN CRYPTO ASSETS | Claire Barnett | [Read More](https://medium.com/p/7b623ed9f8ba) |
-| Tue, 27 May 2025 11:13:08 GMT | PicoCTF Write-Up — Flag Hunters WalkThrough | Aliza Ibrahim | [Read More](https://medium.com/p/e94c4a34b460) |
-| Tue, 27 May 2025 11:13:00 GMT | Network Analysis -Web Shell(Blueteam labs) | Amalpp | [Read More](https://medium.com/p/798d53294082) |
-| Tue, 27 May 2025 11:12:07 GMT | Securing credentials in Azure-hosted applications using managed identities and Azure Key Vault | Nicolas DESCARTES | [Read More](https://medium.com/p/e616293e1801) |
-| Tue, 27 May 2025 11:11:34 GMT | INTMAX Launches $30,000 Bug Bounty Program on Immunefi | INTMAX | [Read More](https://medium.com/p/a39e6513b0ec) |
-| Tue, 27 May 2025 11:06:30 GMT | SQL Injection 102: Testing for SQL Injection | bithowl | [Read More](https://medium.com/p/682a01dc2c3e) |
-| Tue, 27 May 2025 11:04:42 GMT | “Still Here, Still Healing: Why Survivors of Cancer Need Your Understanding, Not Your Expectations” | Leon S Dixon Jr | [Read More](https://medium.com/p/34609f22031d) |
-| Tue, 27 May 2025 11:02:33 GMT | Malware Sandbox Bypass Techniques and Countermeasures | Esra Kayhan | [Read More](https://medium.com/p/a78da4568736) |
-| Tue, 27 May 2025 11:02:30 GMT | Solving a Cloud IAM Challenge : The Big IAM Challenge | Arnav Tripathy | [Read More](https://medium.com/p/6feaf9de051c) |
-| Tue, 27 May 2025 11:02:29 GMT | Blood, Bitcoin, and a Chainsaw in SoHo | Brunobega | [Read More](https://medium.com/p/5e885105cea1) |
