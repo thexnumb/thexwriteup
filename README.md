@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 18:41:29 GMT | I want to run | Tolulope Akinlabi | [Read More](https://medium.com/p/62d9cd83118e) |
+| Wed, 28 May 2025 18:36:34 GMT | “3 Simple Reasons You’ll Wish You Got a VPN Sooner” | Vexpoltech | [Read More](https://medium.com/p/241fe781d54f) |
+| Wed, 28 May 2025 18:27:55 GMT | Lucky Bhaskar – The Boy Who Made the Impossible Possible | Nizam | [Read More](https://medium.com/p/ec9757fc7f38) |
 | Wed, 28 May 2025 18:25:42 GMT | BlackByte Saldırı Analizi | Fırat Yağmur | [Read More](https://medium.com/p/c9bc28fb7efe) |
 | Wed, 28 May 2025 18:22:18 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Harshprajapati | [Read More](https://medium.com/p/087d2dfd3799) |
 | Wed, 28 May 2025 18:19:53 GMT | Section 66A: The Shreya Singhal Case | Vibhor Singh | [Read More](https://medium.com/p/2d6ac29b2818) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 13:42:53 GMT | Writing Pentest Reports - TryHackMe | mahita kodela | [Read More](https://medium.com/p/72a58fc02f58) |
 | Wed, 28 May 2025 13:42:00 GMT | Osquery ve Örnek Kullanım Senaryoları | Ceyhun CAMLI | [Read More](https://medium.com/p/350c49e2c882) |
 | Wed, 28 May 2025 13:36:08 GMT | Securycor: Your Trusted Partner in Car Park Security and Industrial Security | Professional UK Services | [Read More](https://medium.com/p/7b5e61cff673) |
-| Wed, 28 May 2025 13:35:08 GMT | Top 5 Penetration Testing Companies to Watch in 2025 | Harinder Rastogi | [Read More](https://medium.com/p/b1574c950eb5) |
-| Wed, 28 May 2025 13:34:41 GMT | How a Simple Payment Exploit Could Take Down a Prop Firm — And No One Cared | Nimashahbazi | [Read More](https://medium.com/p/026509b54002) |
-| Wed, 28 May 2025 13:32:37 GMT | Training Data Poisoning in LLMs: How Bad Data Breeds Dangerous Models — OWASP LLM Top 10 | Akanksha Amarendra | [Read More](https://medium.com/p/51cff027ca27) |
