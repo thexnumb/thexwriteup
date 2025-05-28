@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 08:18:56 GMT | Security Why After Hours Security Services Are Essential for Every Business | Lionza Security | [Read More](https://medium.com/p/76f7b94d265f) |
+| Wed, 28 May 2025 08:17:31 GMT | POC — CVE-2025–2539 File Away <= 3.9.9.0.1 | Very Lazy Tech | [Read More](https://medium.com/p/ee5c84e42a92) |
+| Wed, 28 May 2025 08:15:28 GMT | Track the Hacks: Mengenal Cabang-Cabang Digital Forensic | byuda | [Read More](https://medium.com/p/abe31829e581) |
+| Wed, 28 May 2025 08:15:13 GMT | Creating a Managed Service Account (MSA) for SQL Server on Windows involves several steps. | Tharindu Damith | [Read More](https://medium.com/p/5eee70c1d037) |
+| Wed, 28 May 2025 08:14:42 GMT | Walkthrough THM Billing | Telynor | [Read More](https://medium.com/p/37c396b55cdd) |
+| Wed, 28 May 2025 08:12:20 GMT | HTB reversing challenge — Impossible Password | Tvrpism | [Read More](https://medium.com/p/a12c9c2d422d) |
+| Wed, 28 May 2025 08:06:01 GMT | No Code Without a Cause: How Top Developers Interview the Interviewer | Namir Sagheenanajar | [Read More](https://medium.com/p/a02c047c3029) |
+| Wed, 28 May 2025 08:04:09 GMT | Confessions of a Burp Suite Beginner | CosmicByte | [Read More](https://medium.com/p/03aae8944284) |
+| Wed, 28 May 2025 08:00:40 GMT | Roadmap 5 Tahun Menjadi Penetration Tester Andal (2025–2030) | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/9e8c9b7e4157) |
+| Wed, 28 May 2025 07:56:52 GMT | New to Bug Bounties? These Are the PoC to Earn Your First $$$! | WAN AHMAD QAIS | [Read More](https://medium.com/p/cf48af82b2f2) |
+| Wed, 28 May 2025 07:50:14 GMT | Essential Cybersecurity Best Practices for Safeguarding Digital Assets | Bluechip Advanced Technologies | [Read More](https://medium.com/p/013d74480633) |
+| Wed, 28 May 2025 07:49:13 GMT | The Future of Cyber Defense: Global Threat Intelligence Collaboration Frameworks | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b4584db25aa1) |
+| Wed, 28 May 2025 07:46:37 GMT | Indonesia Government Site Hacked! Raise Your Cybersecurity Awareness In The Digital Era | Sydeco Indonesia | [Read More](https://medium.com/p/5da0e48e71dc) |
+| Wed, 28 May 2025 07:46:23 GMT | Transition to ISO 27001:2022. Key Changes, Benefits, and Tips | Viktor Ivanov | [Read More](https://medium.com/p/82fc11d335ef) |
+| Wed, 28 May 2025 07:45:02 GMT | How to Protect Your Business from Ransomware in 2025: Staying Ahead of Evolving Threats | West Advanced Technologies Inc | [Read More](https://medium.com/p/73930ae40213) |
+| Wed, 28 May 2025 07:41:45 GMT | The Daily Tech Digest: 28 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/86621fd792c7) |
 | Wed, 28 May 2025 07:30:49 GMT | I am not Good Enough. | Golam Rob | [Read More](https://medium.com/p/b26a88fc346b) |
 | Wed, 28 May 2025 07:29:17 GMT | Cybersecurity Trends 2024–2025: Ransomware, Scams, and Anti-Piracy Wins in Africa | Engr. Gbola Isama MS. | [Read More](https://medium.com/p/0850523d58c9) |
 | Wed, 28 May 2025 07:28:57 GMT | Unsafe Redirects = Unlimited Ride: How Open Redirect Led Me to Internal Dashboards | Iski | [Read More](https://medium.com/p/c371e1aa9fbc) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 03:00:09 GMT | Write-up PicoCTF (Capture The Flag) — Desafio Secrets | Sérgio Corrêa | [Read More](https://medium.com/p/146ac1a737f0) |
 | Wed, 28 May 2025 02:54:17 GMT | Roadmap Essential untuk Calon AppSec Engineer | Jovita | [Read More](https://medium.com/p/d20a3d6ac0c2) |
 | Wed, 28 May 2025 02:49:09 GMT | Growth Through Struggle vs. AI Acceleration | Allen Westley | [Read More](https://medium.com/p/bc6eed570f53) |
-| Wed, 28 May 2025 02:35:23 GMT | Exploiting the Menu: Breaking Restaurant Delivery Systems | Davi Moura | [Read More](https://medium.com/p/37c473849ac8) |
-| Wed, 28 May 2025 02:31:08 GMT | What is commando rice and training? | Science Technology | [Read More](https://medium.com/p/fb00e390f019) |
-| Wed, 28 May 2025 02:28:07 GMT | PEAK: threat hunting framework | Salmajhrx | [Read More](https://medium.com/p/b8b1fb9277c1) |
-| Wed, 28 May 2025 02:22:16 GMT | Cybersecurity as a Filtered View of Business Risk | Chris Brown | [Read More](https://medium.com/p/5a4fd761c9ff) |
-| Wed, 28 May 2025 02:21:02 GMT | Unlocking Digital Forensics with P-per: A Detailed Exploration : | Zaid Bin Ahmad | [Read More](https://medium.com/p/59fce8c6822b) |
-| Wed, 28 May 2025 02:00:00 GMT | Guardius Implementation of Port Scanning with Nmap - the Network Mapper | Guardius | [Read More](https://medium.com/p/37afafb09486) |
-| Wed, 28 May 2025 01:49:20 GMT | Are You Leaking Secrets with Terraform? | Zachary King | [Read More](https://medium.com/p/a2c7c01a1e15) |
-| Wed, 28 May 2025 01:38:19 GMT | Understanding Inheritance in Java | Hari | [Read More](https://medium.com/p/4bcc97e586e4) |
-| Wed, 28 May 2025 01:25:56 GMT | Roadmap Cyber ​​Security, in the next 5 years: My version as a digital forensic investigator. | Irfanbayu | [Read More](https://medium.com/p/1e75a667d1e6) |
-| Wed, 28 May 2025 01:23:05 GMT | Reflected XSS and Blind OS Command Injection | Monika sharma | [Read More](https://medium.com/p/a056c75f99be) |
-| Wed, 28 May 2025 01:22:56 GMT | Protecting Multitenancy Files: Why Leaking tenant-config.json Can Be a Disaster | Cyber T | [Read More](https://medium.com/p/857d6457f629) |
-| Wed, 28 May 2025 01:22:42 GMT | Why Small Businesses Are the #1 Cyber Target in 2025 | Noel | [Read More](https://medium.com/p/42671a99fa3b) |
-| Wed, 28 May 2025 00:52:26 GMT | ️ Kubernetes Attack Tree: Visualizing Container Security Threats | Michel Alan López | [Read More](https://medium.com/p/3e2f760cefce) |
-| Wed, 28 May 2025 00:51:13 GMT | What should we do if Ransomware already face the | Salmajhrx | [Read More](https://medium.com/p/c5452bab4c73) |
-| Wed, 28 May 2025 00:42:27 GMT | How a Simple SQL Injection Took Down an NGO Website | Sam Galope | [Read More](https://medium.com/p/59a1430cf39b) |
-| Wed, 28 May 2025 00:38:29 GMT | Filmes e livros sobre hackers e segurança cibernética | Moprius | [Read More](https://medium.com/p/ae124daa6585) |
