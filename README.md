@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 22:17:40 GMT | GhostSpy: The Android Malware That Grants Hackers Full Control Over Your Device | Cyber-AppSec | [Read More](https://medium.com/p/c44fe186fdd8) |
+| Wed, 28 May 2025 22:17:28 GMT | Enumerating and Exploiting Network Services | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e4063cd42c54) |
+| Wed, 28 May 2025 22:14:45 GMT | Cybersecurity for UN Peacekeeping and Global Humanitarian Operations | A-STAR7_DOCTOR | [Read More](https://medium.com/p/bb5c85e2f98c) |
 | Wed, 28 May 2025 22:10:01 GMT | When You’re Always the Strong One: The Silent Burden | Anuchauka Faith | [Read More](https://medium.com/p/dc766ddf058c) |
+| Wed, 28 May 2025 22:06:18 GMT | What is IDS and IPS? | JM | [Read More](https://medium.com/p/0ee487bc0a2d) |
 | Wed, 28 May 2025 21:47:42 GMT | How to Set Up Your Own Virtual Machine and Install Kali Linux on MacOS Apple Silicon Using UTM | The Nerd Developer | [Read More](https://medium.com/p/49e8b430e229) |
 | Wed, 28 May 2025 21:41:22 GMT | First Time Password Cracking | Sarah Zhou | [Read More](https://medium.com/p/1b9d815bc84b) |
 | Wed, 28 May 2025 21:38:40 GMT | Top 3 Mistakes New Cyber Learners Make (and I Made Them All) | CyberSamantha | [Read More](https://medium.com/p/2206d51b5f36) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 15:55:47 GMT | They Said ChatGPT Was Safe… They Lied | Wassam Rehman | [Read More](https://medium.com/p/39e42d11a3c8) |
 | Wed, 28 May 2025 15:55:32 GMT | Exploiting Windows 7 | Karthik | [Read More](https://medium.com/p/89115cb0b10c) |
 | Wed, 28 May 2025 15:54:33 GMT | The House Next Door: Why the World Can No Longer Ignore Pakistan’s Terror Dilemma | Aman Kumar | [Read More](https://medium.com/p/5feb7ab89c6e) |
-| Wed, 28 May 2025 15:53:29 GMT | Tracing the Threat: How Cyberattacks Unfold and What You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/40be717a57d7) |
-| Wed, 28 May 2025 15:53:16 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/99d6c21d78c9) |
-| Wed, 28 May 2025 15:48:58 GMT | How Malware Infects Your Devices: Common Entry Points You Ignore | Akshay Chauhan | [Read More](https://medium.com/p/82d31e8280ec) |
-| Wed, 28 May 2025 15:47:29 GMT | A Eureka Moment Gold Rush | Chixtig_MetaForce | [Read More](https://medium.com/p/e37216c65c27) |
