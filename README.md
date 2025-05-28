@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 04:35:21 GMT | Oman’s Future Secure: Comprehensive Access Control Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/ce1da457e4bf) |
+| Wed, 28 May 2025 04:34:36 GMT | Understanding Encryption: Data Privacy & Security | Aditya Bhuyan | [Read More](https://medium.com/p/005c665650af) |
+| Wed, 28 May 2025 04:31:38 GMT | Quantum Arms Race: U.S. Defense Intelligence Flags Rivals’ Growing Military Use of Quantum Tech | QuantumGenie | [Read More](https://medium.com/p/b8fb7b234311) |
+| Wed, 28 May 2025 04:31:13 GMT | Critical Windows RD Gateway Vulnerability Exposes Systems to Remote Code Execution | Mohit Kumar | [Read More](https://medium.com/p/3393876105dc) |
+| Wed, 28 May 2025 04:29:26 GMT | Security issues of MCP | Maxi | [Read More](https://medium.com/p/d4abd439b856) |
+| Wed, 28 May 2025 04:23:32 GMT | Understanding Proxies: Forward Proxy vs Reverse Proxy | Varun | [Read More](https://medium.com/p/964e9c9da23d) |
 | Wed, 28 May 2025 04:22:44 GMT | Deobfuscating, Decrypting and Detecting Xenomorph Malware | cano32 | [Read More](https://medium.com/p/5b1e63c59416) |
 | Wed, 28 May 2025 04:11:34 GMT | My eMAPT Certification Journey — Honest Review & Experience (May 2025) | Delta Rahmat Fajar Delviansyah | [Read More](https://medium.com/p/0efef97116a4) |
 | Wed, 28 May 2025 04:00:05 GMT | Inside Window | Carmen Aerise | [Read More](https://medium.com/p/058e77f529e1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 19:02:26 GMT | The Intelligence Technology and Big Eye Secrets: Navigating the Complex World of Cybersecurity and… | Karwan Mustafa Kareem | [Read More](https://medium.com/p/5ad40c3ce763) |
 | Tue, 27 May 2025 18:51:47 GMT | Web Uygulama Güvenliği-Dizin Tarama | ömer Kaan kurt | [Read More](https://medium.com/p/230fe729a303) |
 | Tue, 27 May 2025 18:42:58 GMT | Cyber Espionage: The Silent Threat Stealing Secrets in the Shadows | SafeAeon Inc. | [Read More](https://medium.com/p/e9028850034e) |
-| Tue, 27 May 2025 18:42:15 GMT | The Cyber Eye: Inside the Network Wars and Secrets of the Five Eyes Alliance | Karwan Mustafa Kareem | [Read More](https://medium.com/p/f5ff99c1c390) |
-| Tue, 27 May 2025 18:42:11 GMT | There is a group that uses Quora as a jump off point for their cyber crime and stalking and abuse. | Chris Burgess | [Read More](https://medium.com/p/750fbc9ff805) |
-| Tue, 27 May 2025 18:35:21 GMT | Boost Your Earnings with Curvance $CVE Profit Tips | CVE | [Read More](https://medium.com/p/3bca49226461) |
-| Tue, 27 May 2025 18:33:15 GMT | Unlocking the Gates: Essential REST API Authentication Methods Every Developer Must Master | Deepak Gupta | [Read More](https://medium.com/p/6accdae0e173) |
-| Tue, 27 May 2025 18:32:44 GMT | DeFi must learn from crypto hacks | 1inch | [Read More](https://medium.com/p/31c0c04dd0d5) |
-| Tue, 27 May 2025 18:29:49 GMT | SQL Injection: What It Is and How to Stop It | SafeAeon Inc. | [Read More](https://medium.com/p/73646b811119) |
