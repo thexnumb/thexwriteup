@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 18:25:42 GMT | BlackByte Saldırı Analizi | Fırat Yağmur | [Read More](https://medium.com/p/c9bc28fb7efe) |
+| Wed, 28 May 2025 18:22:18 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Harshprajapati | [Read More](https://medium.com/p/087d2dfd3799) |
+| Wed, 28 May 2025 18:19:53 GMT | Section 66A: The Shreya Singhal Case | Vibhor Singh | [Read More](https://medium.com/p/2d6ac29b2818) |
+| Wed, 28 May 2025 18:15:29 GMT | My name is Sam . | Sam Grey | [Read More](https://medium.com/p/33d8df086bec) |
+| Wed, 28 May 2025 18:08:21 GMT | [Capstone Challenge] Beanstalk Secrets | WireHawk Security | [Read More](https://medium.com/p/ca9216192389) |
+| Wed, 28 May 2025 18:07:51 GMT | Do You Really Know About Incognito Mode? | FinZebra | [Read More](https://medium.com/p/3262ca982b9d) |
+| Wed, 28 May 2025 18:05:35 GMT | ️ Recently, I Did a Phishing Analysis on a Suspicious Email — Here’s What I Found | Bot Hacks | [Read More](https://medium.com/p/0ed6785ffc8d) |
+| Wed, 28 May 2025 18:05:23 GMT | SOC111 — EventID 46 —Traffic to Malware Domain |  | [Read More](https://medium.com/p/7580057e3425) |
+| Wed, 28 May 2025 18:05:10 GMT | Is Your Child Really Safe Online? The Hidden Dangers Every Parent Must Know | Viktorya M. | [Read More](https://medium.com/p/3459e3d53a86) |
+| Wed, 28 May 2025 18:00:25 GMT | ️ Cybersecurity: A Comprehensive Guid | Md. Rumon Munshi | [Read More](https://medium.com/p/bd456d2eaaff) |
+| Wed, 28 May 2025 17:58:28 GMT | Mastering PHP Wrappers: Concepts, Use Cases, and Security Risks | Zoningxtr | [Read More](https://medium.com/p/380bb59cb6c1) |
+| Wed, 28 May 2025 17:56:54 GMT | Arli’s 5-Year Cyber Security Roadmap — From IoT to Infrastructure Security | arli_ | [Read More](https://medium.com/p/d55d9cbe5073) |
+| Wed, 28 May 2025 17:54:42 GMT | ️ What Is Hacking? Who Is a Hacker? - A Complete Guide to the World of Cyber Intrusion | Md. Rumon Munshi | [Read More](https://medium.com/p/8441de0d1e3a) |
+| Wed, 28 May 2025 17:40:52 GMT | ☁️ Why AWS Still Leads the Cloud War in 2025 | LazyHacker | [Read More](https://medium.com/p/5f41cd6d8782) |
+| Wed, 28 May 2025 17:32:22 GMT | The Words That Don’t Land Aren’t the Problem. It’s the Ones You Never Let Out. | SuccessBlueprints.Org | [Read More](https://medium.com/p/f9ed00b53d54) |
 | Wed, 28 May 2025 17:23:47 GMT | How Convolutional Neural Networks (CNNs) are Advancing Security Systems in Finance | Hammad Qazi | [Read More](https://medium.com/p/f473d3615989) |
 | Wed, 28 May 2025 17:17:44 GMT | Build What Most Won’t | Ali Sahad | [Read More](https://medium.com/p/7841b9eb4f8c) |
 | Wed, 28 May 2025 17:16:34 GMT | PCI DSS in Canada: 5 Common Mistakes Businesses Make | Feroot Security | [Read More](https://medium.com/p/32e6148afed0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 13:35:08 GMT | Top 5 Penetration Testing Companies to Watch in 2025 | Harinder Rastogi | [Read More](https://medium.com/p/b1574c950eb5) |
 | Wed, 28 May 2025 13:34:41 GMT | How a Simple Payment Exploit Could Take Down a Prop Firm — And No One Cared | Nimashahbazi | [Read More](https://medium.com/p/026509b54002) |
 | Wed, 28 May 2025 13:32:37 GMT | Training Data Poisoning in LLMs: How Bad Data Breeds Dangerous Models — OWASP LLM Top 10 | Akanksha Amarendra | [Read More](https://medium.com/p/51cff027ca27) |
-| Wed, 28 May 2025 13:32:17 GMT | Title: Your Ultimate Guide to the Best Security and Housekeeping Services in Delhi NCR — Powered… | securasecurty | [Read More](https://medium.com/p/0058e294d525) |
-| Wed, 28 May 2025 13:28:49 GMT | Latest IT Trends Every Manager Should Keep an Eye on in 2025 | Paritosh Shrivastava | [Read More](https://medium.com/p/a471e756d3b1) |
-| Wed, 28 May 2025 13:20:55 GMT | The Day GuardDuty Caught What the Firewall Missed | AWS Cloud Architect | [Read More](https://medium.com/p/5194ae9eb8c9) |
-| Wed, 28 May 2025 13:20:50 GMT | How to Become a Penetration Tester in 5 Years — A Complete Roadmap | Firhansanad | [Read More](https://medium.com/p/e2e56cc9cf77) |
-| Wed, 28 May 2025 13:19:19 GMT | How to Start a Cybersecurity Career: Bootcamp, Certs, or Degree? | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/e24fadd70e17) |
-| Wed, 28 May 2025 13:19:14 GMT | 2025 OT Cybersecurity Trends: Safeguarding Industrial Systems in a Connected World | Shieldworkz | [Read More](https://medium.com/p/044f1f432ecb) |
-| Wed, 28 May 2025 13:18:04 GMT | HIPAA Risk Remediation and Compliance Monitoring Initiative | Opeyemi Adebowale | [Read More](https://medium.com/p/12e4e6c6c73b) |
-| Wed, 28 May 2025 13:17:13 GMT | tdac.in.th, eta.in.th, dtv.in.th, asq.in.th phishing network | LeonidGR | [Read More](https://medium.com/p/dbcabac66e8b) |
-| Wed, 28 May 2025 13:14:20 GMT | Roadmap Cyber Security 5 Years | Arifkaguai | [Read More](https://medium.com/p/7591df0abb2f) |
-| Wed, 28 May 2025 13:13:43 GMT | Weekly Cybersecurity Digest: Critical Vulnerabilities, Exploits, and Threat Updates | Fatimah X | [Read More](https://medium.com/p/6dbe7423db8c) |
-| Wed, 28 May 2025 13:02:35 GMT | Why Traditional SIEM Isn’t Enough — Peris.ai Brings Real Intelligence | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0589b5af1ecb) |
-| Wed, 28 May 2025 12:58:50 GMT | Leveraging Regex Error For Successful Boolean-Based Blind Command Injection: Write Up Overthewire… | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/77e814ecadf3) |
-| Wed, 28 May 2025 12:57:17 GMT | Top 10 Summer Scams of 2025: Stay Safe with These Tips | marketing.forfend | [Read More](https://medium.com/p/0bf94d055e08) |
-| Wed, 28 May 2025 12:54:35 GMT | Internet Par Safe Kaise Rahein? - 1Password Manager | FogoChainIndia | [Read More](https://medium.com/p/62d7f4acc29a) |
-| Wed, 28 May 2025 12:53:42 GMT | Data-Driven Collaboration Using Metrics to Build Common Ground. | SecOps | [Read More](https://medium.com/p/e5b1def7506d) |
