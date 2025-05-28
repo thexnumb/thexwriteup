@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 07:30:49 GMT | I am not Good Enough. | Golam Rob | [Read More](https://medium.com/p/b26a88fc346b) |
+| Wed, 28 May 2025 07:29:17 GMT | Cybersecurity Trends 2024–2025: Ransomware, Scams, and Anti-Piracy Wins in Africa | Engr. Gbola Isama MS. | [Read More](https://medium.com/p/0850523d58c9) |
+| Wed, 28 May 2025 07:28:57 GMT | Unsafe Redirects = Unlimited Ride: How Open Redirect Led Me to Internal Dashboards | Iski | [Read More](https://medium.com/p/c371e1aa9fbc) |
+| Wed, 28 May 2025 07:28:42 GMT | Best Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/2e73db8e21d8) |
+| Wed, 28 May 2025 07:23:23 GMT | Cyber Diplomacy & International Law in the Age of Offensive Cyber Operations | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c7af659a7656) |
+| Wed, 28 May 2025 07:23:05 GMT | Why I Wish Someone Told Me This About Computer Science Before I Started My Degree | Sharjeel AC | [Read More](https://medium.com/p/15a556b142d5) |
 | Wed, 28 May 2025 07:13:58 GMT | The Hidden GPS Tracking Tricks and Server Upgrade That Will Skyrocket Your Fleet Efficiency | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/abf5845bdc46) |
 | Wed, 28 May 2025 07:07:39 GMT | AI Pentesting: Revolutionizing Cybersecurity Solutions | Siemba | [Read More](https://medium.com/p/aa2f286a1eaf) |
 | Wed, 28 May 2025 07:05:51 GMT | OneSpan Race Condition — Duplicate Group Names? Ez Game | FufuFafa | [Read More](https://medium.com/p/e6bfd734850b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 00:51:13 GMT | What should we do if Ransomware already face the | Salmajhrx | [Read More](https://medium.com/p/c5452bab4c73) |
 | Wed, 28 May 2025 00:42:27 GMT | How a Simple SQL Injection Took Down an NGO Website | Sam Galope | [Read More](https://medium.com/p/59a1430cf39b) |
 | Wed, 28 May 2025 00:38:29 GMT | Filmes e livros sobre hackers e segurança cibernética | Moprius | [Read More](https://medium.com/p/ae124daa6585) |
-| Wed, 28 May 2025 00:38:13 GMT | Ciphered Chaos: Bit-Flipping in the Wild | Ahmed A. Sherif (Batee5a) | [Read More](https://medium.com/p/345cda16c19e) |
-| Wed, 28 May 2025 00:14:36 GMT | Cybersecurity in the Age of AI: Even If You Don’t Use It, You Still Need to Defend Yourself Against… | Piotrmak Marko | [Read More](https://medium.com/p/7b20e206176e) |
-| Wed, 28 May 2025 00:11:40 GMT | Stack Canaries: The Tiny Guardians of Your Stack | xwxrtxn | [Read More](https://medium.com/p/4bf917eaf3f7) |
-| Tue, 27 May 2025 23:37:24 GMT | Dear Money, | Autumnmaybeaudoin | [Read More](https://medium.com/p/582f180f8724) |
-| Tue, 27 May 2025 23:20:52 GMT | When the World Applauds Pain | TheGracefulWriter_ | [Read More](https://medium.com/p/ab07c7a4b315) |
-| Tue, 27 May 2025 23:14:40 GMT | Why the OPPO A3 Is the Best Budget Smartphone You Can Buy Right Now (And Where to Get It for Less) | Nipapan Sinpaisansakul | [Read More](https://medium.com/p/6bac6ea4a09d) |
