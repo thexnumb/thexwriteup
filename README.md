@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 11:29:33 GMT | Armed vs. Unarmed Security: Choosing the Right Private Security Services for Your Property | Sentrysofficers | [Read More](https://medium.com/p/98b440928189) |
+| Wed, 28 May 2025 11:26:18 GMT | Ready to Become a Cybersecurity Expert? | SoftApp Technologies | [Read More](https://medium.com/p/c655d1c51456) |
+| Wed, 28 May 2025 11:24:22 GMT | The Power of Vulnerability: Sharing Stories, Shaping Connections | Coley B. | [Read More](https://medium.com/p/96cc1ae18ef8) |
+| Wed, 28 May 2025 11:23:40 GMT | Choosing the Right Managed IT Services Provider | Uplevel Systems | [Read More](https://medium.com/p/e2ec954599e0) |
+| Wed, 28 May 2025 11:22:34 GMT | The Critical Security Risks Hiding in Your Software Stack Today | Centric Consulting | [Read More](https://medium.com/p/989a07481ebf) |
+| Wed, 28 May 2025 11:06:49 GMT | Why Multi-Factor Authentication Matters: A Guide I Wrote After Getting Hacked. | Rabia Riaz | [Read More](https://medium.com/p/9dc20c632cba) |
 | Wed, 28 May 2025 11:00:56 GMT | Phishing Email Content with Personalized Context Data Generation | Kami | [Read More](https://medium.com/p/f17c6b4cd819) |
 | Wed, 28 May 2025 10:56:47 GMT | SQL injection vulnerability allowing login bypass | Rachael Muga | [Read More](https://medium.com/p/8a33b9c3d4cd) |
 | Wed, 28 May 2025 10:49:39 GMT | Over 70 Malicious npm and VS Code Packages Uncovered: A Wake-Up Call for Developer Supply Chain… | Mithra Consulting | [Read More](https://medium.com/p/521fe3172b89) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 05:23:09 GMT | Cyber Security Fundamental | Princex. | [Read More](https://medium.com/p/cb93b2006de8) |
 | Wed, 28 May 2025 05:20:50 GMT | https://youtu.be/3d0Sg1wcCtg?si=M33IZ6WgRWyagIOR | Dyoutube | [Read More](https://medium.com/p/f280b23039b9) |
 | Wed, 28 May 2025 05:13:29 GMT | <iframe width=”300" height=”220" src=”https://www.youtube.com/embed/HGAog3zhC40?si=DiuXmnv7kiM30obA" | Dyoutube | [Read More](https://medium.com/p/83329f4374ef) |
-| Wed, 28 May 2025 05:11:18 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/5dca3a5642eb) |
-| Wed, 28 May 2025 05:02:54 GMT | I Tried 10 Recon Tools for 7 Days — Here’s What Actually Found Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/9013b4cd2396) |
-| Wed, 28 May 2025 05:02:29 GMT | ROADSEC 2025, Roadmap Cyber Security untuk 5 Tahun kedepan. | Ryan Shaldan Husnan | [Read More](https://medium.com/p/aaa1c3ef00a5) |
-| Wed, 28 May 2025 05:00:44 GMT | Hackers Flocking to Simple X | SinVictus | [Read More](https://medium.com/p/bdd05f40c24b) |
-| Wed, 28 May 2025 05:00:33 GMT | How to Bypass UAC Using RunAsInvoker | Arch-Villager | [Read More](https://medium.com/p/ffe42246d283) |
-| Wed, 28 May 2025 04:58:20 GMT | Hacking a Smart Home: Step-by-Step Demo (Ethically!) | Ahmad Javed | [Read More](https://medium.com/p/0bd8986d6962) |
