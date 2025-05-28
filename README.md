@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 21:31:04 GMT | Case Study: Think Before You Click | O. J. Okpabi | [Read More](https://medium.com/p/9c58f412c68d) |
+| Wed, 28 May 2025 21:24:27 GMT | What’s new in TI Mindmap - May 2025 | Antonio Formato | [Read More](https://medium.com/p/83c5616c6a8c) |
+| Wed, 28 May 2025 21:23:12 GMT | Bypassing Origin Checks Using Trailing Dot Trick | soltanali0 | [Read More](https://medium.com/p/a65007041d3a) |
+| Wed, 28 May 2025 21:15:19 GMT | Android Pentesting Setup Up Burpsuite Intercept | Muhammadhuzaifa | [Read More](https://medium.com/p/53b37ea9762c) |
 | Wed, 28 May 2025 21:09:04 GMT | Active Directoy Lab Seupt, MS Server 2022 (Domain Controler): | Muhammadhuzaifa | [Read More](https://medium.com/p/a1bbe546fc76) |
 | Wed, 28 May 2025 21:00:08 GMT | Ethical Hackers’ Secret Weapons: 7 Free OSINT Tools Even Pros Overlook | Andrei Ivan | [Read More](https://medium.com/p/584367d78fdd) |
 | Wed, 28 May 2025 20:54:54 GMT | How to Avoid Clickbait | Savvy Cyber Kids | [Read More](https://medium.com/p/b0bc5bfd80ab) |
@@ -36,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 19:24:32 GMT | How I was able to Delete Any User Post On Tumbler via Chaining vulnerability(0-Click) | 0xshehab | [Read More](https://medium.com/p/2edf63d0c900) |
 | Wed, 28 May 2025 19:23:45 GMT | Everyone’s Scrambling to Learn Tools. You Should Be Studying Frameworks. | A D | [Read More](https://medium.com/p/79690350e525) |
 | Wed, 28 May 2025 19:23:33 GMT | Roadmap belajar CyberSecurity 5 tahun kedepan | nairawr | [Read More](https://medium.com/p/aa6f2b09f9f3) |
+| Wed, 28 May 2025 19:23:16 GMT | O Impacto da Inteligência Artificial no Mercado de Trabalho | Leonardo Owergoor | [Read More](https://medium.com/p/335cc08aa43b) |
 | Wed, 28 May 2025 19:21:12 GMT | Comprehensive Analysis: Timing-Based Attacks on Large Language Models | Tomer Wetzler | [Read More](https://medium.com/p/93e1539092b5) |
 | Wed, 28 May 2025 19:19:16 GMT | How to achieve the obstacle | Abdimulatu | [Read More](https://medium.com/p/b73699360466) |
 | Wed, 28 May 2025 19:19:00 GMT | Interlock Ransomware Gang Deploys NodeSnake RAT on Universities | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/ae82c40ce37a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 15:30:33 GMT | Uncovering Hidden Signup Pages for Bug Bounty Hunting | Dharanis | [Read More](https://medium.com/p/14aca3f9d297) |
 | Wed, 28 May 2025 15:28:17 GMT | How Web Cache Poisoning via Unkeyed Query Strings Can Lead to Reflected XSS | Bash Overflow | [Read More](https://medium.com/p/0c0ce45cb5d9) |
 | Wed, 28 May 2025 15:25:42 GMT | Spidering in Security | Natarajan C K | [Read More](https://medium.com/p/104900f56836) |
-| Wed, 28 May 2025 15:07:14 GMT | The Ultimate 5-Year Cybersecurity Roadmap From Absolute Beginner | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/5d504d6781cb) |
-| Wed, 28 May 2025 15:05:44 GMT | The Ultimate XRP Hardware Wallet Guide(Cold Storage) | Jelmer Steenhuis | [Read More](https://medium.com/p/1672a95f0ed6) |
-| Wed, 28 May 2025 15:05:25 GMT | “awk” ile Log Analizi, Scriptlerle Gerçek Dünya Örnekleri | Tarik Zeybek | [Read More](https://medium.com/p/82b0821f1178) |
-| Wed, 28 May 2025 15:04:09 GMT | You’re Not Paranoid, Just Unprotected: How Everyday Apps Are Tracking You | Rachel The Storyteller | [Read More](https://medium.com/p/85b3f4b0f150) |
-| Wed, 28 May 2025 15:02:29 GMT | Secure Protocols: HTTPS, TLS, SSH vs. Telnet, and Capturing SSL/TLS Handshakes | Agarwaldaksh | [Read More](https://medium.com/p/86928757d731) |
