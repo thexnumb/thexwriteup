@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 22:10:01 GMT | When You’re Always the Strong One: The Silent Burden | Anuchauka Faith | [Read More](https://medium.com/p/dc766ddf058c) |
+| Wed, 28 May 2025 21:47:42 GMT | How to Set Up Your Own Virtual Machine and Install Kali Linux on MacOS Apple Silicon Using UTM | The Nerd Developer | [Read More](https://medium.com/p/49e8b430e229) |
+| Wed, 28 May 2025 21:41:22 GMT | First Time Password Cracking | Sarah Zhou | [Read More](https://medium.com/p/1b9d815bc84b) |
+| Wed, 28 May 2025 21:38:40 GMT | Top 3 Mistakes New Cyber Learners Make (and I Made Them All) | CyberSamantha | [Read More](https://medium.com/p/2206d51b5f36) |
+| Wed, 28 May 2025 21:36:12 GMT | ️ Identifying Risks Before the Hack: A Cyber Risk Assessment Walkthrough for Small Businesses | O. J. Okpabi | [Read More](https://medium.com/p/0bb62e515195) |
 | Wed, 28 May 2025 21:31:04 GMT | Case Study: Think Before You Click | O. J. Okpabi | [Read More](https://medium.com/p/9c58f412c68d) |
 | Wed, 28 May 2025 21:24:27 GMT | What’s new in TI Mindmap - May 2025 | Antonio Formato | [Read More](https://medium.com/p/83c5616c6a8c) |
 | Wed, 28 May 2025 21:23:12 GMT | Bypassing Origin Checks Using Trailing Dot Trick | soltanali0 | [Read More](https://medium.com/p/a65007041d3a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 15:53:16 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/99d6c21d78c9) |
 | Wed, 28 May 2025 15:48:58 GMT | How Malware Infects Your Devices: Common Entry Points You Ignore | Akshay Chauhan | [Read More](https://medium.com/p/82d31e8280ec) |
 | Wed, 28 May 2025 15:47:29 GMT | A Eureka Moment Gold Rush | Chixtig_MetaForce | [Read More](https://medium.com/p/e37216c65c27) |
-| Wed, 28 May 2025 15:41:20 GMT | A Pen Tester’s Dive into May 2025’s Hottest Cyber Threats | hackerguy | [Read More](https://medium.com/p/01f1747f9359) |
-| Wed, 28 May 2025 15:39:54 GMT | Understanding “Shall”, “Should”, “May”, and “Can” in ISO Standards | Ramazan Bolat | [Read More](https://medium.com/p/9bb650f7bfcc) |
-| Wed, 28 May 2025 15:30:33 GMT | Uncovering Hidden Signup Pages for Bug Bounty Hunting | Dharanis | [Read More](https://medium.com/p/14aca3f9d297) |
-| Wed, 28 May 2025 15:28:17 GMT | How Web Cache Poisoning via Unkeyed Query Strings Can Lead to Reflected XSS | Bash Overflow | [Read More](https://medium.com/p/0c0ce45cb5d9) |
-| Wed, 28 May 2025 15:25:42 GMT | Spidering in Security | Natarajan C K | [Read More](https://medium.com/p/104900f56836) |
