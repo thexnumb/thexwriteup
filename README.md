@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 01:38:19 GMT | Understanding Inheritance in Java | Hari | [Read More](https://medium.com/p/4bcc97e586e4) |
+| Wed, 28 May 2025 01:25:56 GMT | Roadmap Cyber ​​Security, in the next 5 years: My version as a digital forensic investigator. | Irfanbayu | [Read More](https://medium.com/p/1e75a667d1e6) |
+| Wed, 28 May 2025 01:23:05 GMT | Reflected XSS and Blind OS Command Injection | Monika sharma | [Read More](https://medium.com/p/a056c75f99be) |
+| Wed, 28 May 2025 01:22:56 GMT | Protecting Multitenancy Files: Why Leaking tenant-config.json Can Be a Disaster | Cyber T | [Read More](https://medium.com/p/857d6457f629) |
+| Wed, 28 May 2025 01:22:42 GMT | Why Small Businesses Are the #1 Cyber Target in 2025 | Noel | [Read More](https://medium.com/p/42671a99fa3b) |
+| Wed, 28 May 2025 00:52:26 GMT | ️ Kubernetes Attack Tree: Visualizing Container Security Threats | Michel Alan López | [Read More](https://medium.com/p/3e2f760cefce) |
+| Wed, 28 May 2025 00:51:13 GMT | What should we do if Ransomware already face the | Salmajhrx | [Read More](https://medium.com/p/c5452bab4c73) |
+| Wed, 28 May 2025 00:42:27 GMT | How a Simple SQL Injection Took Down an NGO Website | Sam Galope | [Read More](https://medium.com/p/59a1430cf39b) |
+| Wed, 28 May 2025 00:38:29 GMT | Filmes e livros sobre hackers e segurança cibernética | Moprius | [Read More](https://medium.com/p/ae124daa6585) |
+| Wed, 28 May 2025 00:38:13 GMT | Ciphered Chaos: Bit-Flipping in the Wild | Ahmed A. Sherif (Batee5a) | [Read More](https://medium.com/p/345cda16c19e) |
+| Wed, 28 May 2025 00:14:36 GMT | Cybersecurity in the Age of AI: Even If You Don’t Use It, You Still Need to Defend Yourself Against… | Piotrmak Marko | [Read More](https://medium.com/p/7b20e206176e) |
+| Wed, 28 May 2025 00:11:40 GMT | Stack Canaries: The Tiny Guardians of Your Stack | xwxrtxn | [Read More](https://medium.com/p/4bf917eaf3f7) |
+| Tue, 27 May 2025 23:37:24 GMT | Dear Money, | Autumnmaybeaudoin | [Read More](https://medium.com/p/582f180f8724) |
 | Tue, 27 May 2025 23:20:52 GMT | When the World Applauds Pain | TheGracefulWriter_ | [Read More](https://medium.com/p/ab07c7a4b315) |
 | Tue, 27 May 2025 23:14:40 GMT | Why the OPPO A3 Is the Best Budget Smartphone You Can Buy Right Now (And Where to Get It for Less) | Nipapan Sinpaisansakul | [Read More](https://medium.com/p/6bac6ea4a09d) |
 | Tue, 27 May 2025 23:12:35 GMT | From Chaos to Confidence: What We’re Learning About Securing Open Source Supply Chains | Cyber-AppSec | [Read More](https://medium.com/p/c8f26e26c079) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 16:57:30 GMT | A Cryptographic Journey Through Middle-earth | Fahri | [Read More](https://medium.com/p/bb5ca7536b3c) |
 | Tue, 27 May 2025 16:55:11 GMT | Google Dorking: The Hacker’s Search Engine Trick That Exposes More Than You Think | SafeAeon Inc. | [Read More](https://medium.com/p/bd98eea7cda6) |
 | Tue, 27 May 2025 16:49:18 GMT | Cybersecurity Case Study — How a Small Vulnerability Almost Took Down a Growing E-Commerce Business | All in One security | [Read More](https://medium.com/p/60bfff36f4da) |
-| Tue, 27 May 2025 16:48:42 GMT | The Pentesting Paradox: Why Security Tools Alone Aren’t Saving Businesses. | eL Njas!™ | [Read More](https://medium.com/p/d4cbaa7a4fc4) |
-| Tue, 27 May 2025 16:47:45 GMT | Hacking Has Evolved — And It’s Smarter Than You Think | All in One security | [Read More](https://medium.com/p/f0684d9a75f8) |
-| Tue, 27 May 2025 16:34:06 GMT | Code, Hack, Defend: Roadmap to Purple Web Security Mastery | Irfan Syarifudin | [Read More](https://medium.com/p/c20a7d7a59cd) |
-| Tue, 27 May 2025 16:30:45 GMT | The Power of Data Classification in GRC | Brittney Ginther | [Read More](https://medium.com/p/dc39074fe345) |
-| Tue, 27 May 2025 16:24:30 GMT | Self-Assessment Penetration Testing Guidance According to PCI DSS Standards | Ashiqul Hoque Abir | [Read More](https://medium.com/p/dec32981a746) |
-| Tue, 27 May 2025 16:22:46 GMT | CIA Triad (Confidentiality, Integrity dan Availability) | Mukti Badriyan | [Read More](https://medium.com/p/5a75f4cfecd5) |
-| Tue, 27 May 2025 16:22:14 GMT | CYBERSECURITY ROADMAP DESIGNED FOR A NETWORK/INFRASTRUCTURE ENGINEER AND A DEVELOPER. | Toni Mendrofa | [Read More](https://medium.com/p/c7773b817efa) |
-| Tue, 27 May 2025 16:22:09 GMT | Twitter Bitcoin Scam: Inside the 2020 Account Takeover | Ahmad Javed | [Read More](https://medium.com/p/dbb3906c25a9) |
-| Tue, 27 May 2025 16:19:53 GMT | ChainBounty $BOUNTY Growth Strategy for Beginners: Your Step-by-Step Guide | BOUNTY | [Read More](https://medium.com/p/4eb10a1e3fcc) |
-| Tue, 27 May 2025 16:10:42 GMT | Understanding Android Architecture Through Pentesting with DIVA APK | Anandhu K | [Read More](https://medium.com/p/28376d69ce0a) |
-| Tue, 27 May 2025 16:09:00 GMT | What is Networking? — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/d6ca5627868c) |
-| Tue, 27 May 2025 16:08:37 GMT | How I’m Using AI to Stop Cybercrimes Before They Happen (Yes, It’s Possible) | Lokeshwar Goud | [Read More](https://medium.com/p/2140efcb8d40) |
-| Tue, 27 May 2025 16:01:51 GMT | Is it possible to withdraw my money from Minepulse ? | Diego santos | [Read More](https://medium.com/p/7ab6e0f5b93a) |
