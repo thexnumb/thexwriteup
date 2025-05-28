@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 03:52:08 GMT | The Secret of Modern Encryption | SJ Senthil | [Read More](https://medium.com/p/1cad01610b55) |
+| Wed, 28 May 2025 03:51:27 GMT | What is the best programming language for cybersecurity? | Varmora_kush | [Read More](https://medium.com/p/fc81325bf295) |
+| Wed, 28 May 2025 03:47:01 GMT | Sigma Rules to Splunk: From Detection Logic to Real-Time Alerts | Enes Cayvarlı | [Read More](https://medium.com/p/c1c8900ca660) |
+| Wed, 28 May 2025 03:46:44 GMT | War & Cyber: 3 Years of Struggle and Lessons for Global Security | Matthew.Rosenquist | [Read More](https://medium.com/p/17fcadc38a87) |
+| Wed, 28 May 2025 03:42:39 GMT | Confessions of a SOC Analyst: A Day in the Cyber War Room | Cyber Shahrukh | [Read More](https://medium.com/p/0d2cba0473f9) |
+| Wed, 28 May 2025 03:39:27 GMT | Finding Broken Access Control in DoD | Azrael | [Read More](https://medium.com/p/c569305f9099) |
+| Wed, 28 May 2025 03:31:28 GMT | Kissing someone who’s asleep, does that even count? | Sahaj Bains | [Read More](https://medium.com/p/50a66eebd456) |
+| Wed, 28 May 2025 03:31:28 GMT | Inside the Royal Mail Data Breach | Deven Chhajed | [Read More](https://medium.com/p/eab0abe3c005) |
+| Wed, 28 May 2025 03:25:55 GMT | ️ A Practical Guide to Securing Kubernetes: Pods, Network Policies, and Beyond. | Sudheerkumar | [Read More](https://medium.com/p/faf0acf4e922) |
+| Wed, 28 May 2025 03:16:17 GMT | Take Control of Your Online Privacy | Cassandra | [Read More](https://medium.com/p/f5b23eee63f2) |
+| Wed, 28 May 2025 03:14:16 GMT | Hardening guides vs secure by design software | @boblord | [Read More](https://medium.com/p/4616cdd81b8d) |
+| Wed, 28 May 2025 03:10:23 GMT | Roadmap Cybersecurity Menuju Pentester Profesional (2025–2030) | Riski Ardiansyah | [Read More](https://medium.com/p/8fec44f6ff23) |
 | Wed, 28 May 2025 03:01:29 GMT | Host & Network Penetration Testing The Metasploit Framework CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/f8a5661d770f) |
 | Wed, 28 May 2025 03:01:18 GMT | Rust Security Improvement Tips and Tricks: Fortify Your Code ️ | Sreeved Vp | [Read More](https://medium.com/p/2db7cd2ac8a5) |
 | Wed, 28 May 2025 03:00:09 GMT | Write-up PicoCTF (Capture The Flag) — Desafio Secrets | Sérgio Corrêa | [Read More](https://medium.com/p/146ac1a737f0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 18:26:47 GMT | MATLAB Ransomware Attack Behind Major Service Outage | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/a77d7d774a93) |
 | Tue, 27 May 2025 18:25:22 GMT | Spring Boot Secrets Management Is Broken Without This — Vault vs AWS Secrets Manager | Kanha | [Read More](https://medium.com/p/c08f81502bfe) |
 | Tue, 27 May 2025 18:21:06 GMT | Malicious npm Package Impersonating Popular Express Cookie Parser | Abhisek Datta | [Read More](https://medium.com/p/2eb4043bc6a4) |
-| Tue, 27 May 2025 18:17:22 GMT | Why Online Compliance Training Isn’t Just for Big Corporations (and Why Your Small Business Needs… | PrivacyHound | [Read More](https://medium.com/p/a5df0b156d62) |
-| Tue, 27 May 2025 18:15:21 GMT | Malicious npm Package Impersonating Popular Express Cookie Parser | Abhisek Datta | [Read More](https://medium.com/p/19b4d8c2b154) |
-| Tue, 27 May 2025 18:14:40 GMT | From Code to Ownership: My journey as a builder with a bigger vision. | Tolulope Akinlabi | [Read More](https://medium.com/p/d72fb7b9bc1e) |
-| Tue, 27 May 2025 18:14:13 GMT | How To Bleed On The Page (And Why AI Can’t) | Nick Quick | [Read More](https://medium.com/p/939f400ad415) |
-| Tue, 27 May 2025 18:09:43 GMT | What It Really Takes to Define the Right Problem | Sanjna Subramanian | [Read More](https://medium.com/p/c6ebc332da82) |
-| Tue, 27 May 2025 18:09:29 GMT | The Best Ways to Earn $BUG with StakingRewards | BUG | [Read More](https://medium.com/p/0e2bc3024eff) |
-| Tue, 27 May 2025 18:06:27 GMT | Quantum Threats and Bitcoin: Why BlackRock’s Warning Matters for the Future of Crypto Security | QuantumGenie | [Read More](https://medium.com/p/28f0e818d8d5) |
-| Tue, 27 May 2025 18:03:25 GMT | Top 5 Secure Messaging Apps in 2025 to Protect Your Privacy Online | John Okwuose | [Read More](https://medium.com/p/5e646bcc5fd9) |
-| Tue, 27 May 2025 18:02:47 GMT | The most dangerous secret is the one you forgot about | Amber Britton | [Read More](https://medium.com/p/ada7debdfdfa) |
-| Tue, 27 May 2025 18:02:38 GMT | domainsniffer: A Bash-Powered Subdomain Extraction Tool for OSINT and Bug Bounty Recon | Ashishkrishnanvs | [Read More](https://medium.com/p/ac8026449d2f) |
-| Tue, 27 May 2025 17:58:38 GMT | The SOC Ecosystem: Lessons from “Le Grand Gambit” | Chris Perkins | [Read More](https://medium.com/p/6c0796d933e4) |
-| Tue, 27 May 2025 17:56:06 GMT | ~ Understanding Software Licenses ~ | Lochithya Hettiarachchi | [Read More](https://medium.com/p/bee3274688cf) |
