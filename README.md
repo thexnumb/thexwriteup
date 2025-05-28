@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 09:09:52 GMT | Selamat Datang di Dunia Cyber, Apa Itu Keamanan Siber? | Mukti Badriyan | [Read More](https://medium.com/p/81bcdfc8f38d) |
+| Wed, 28 May 2025 09:08:24 GMT | Looking for Cybersecurity Companies in Delhi? Here’s What to Expect | Kameshwar Prasad | [Read More](https://medium.com/p/14c3f8896779) |
+| Wed, 28 May 2025 09:02:17 GMT | ViciousTrap Botnet Exploits Cisco Flaw to Expand IoT Attack Arsenal | CyBlog | [Read More](https://medium.com/p/539be987ddc3) |
+| Wed, 28 May 2025 09:01:35 GMT | Cyber Security Courses In UK | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/18f0c49633ee) |
+| Wed, 28 May 2025 09:00:32 GMT | Why CCTV is Essential for Security: Top Benefits for Homes and Businesses | Nestrondigitalhub | [Read More](https://medium.com/p/ec0fdab7bea9) |
 | Wed, 28 May 2025 08:45:12 GMT | Stop Fake Signups Before They Happen: Why It Matters More Than You Think | OnSefy | [Read More](https://medium.com/p/d5325fae6908) |
 | Wed, 28 May 2025 08:41:22 GMT | Congress sets SocMed rules | Aimiella Calayag | [Read More](https://medium.com/p/8685ca2fe55f) |
 | Wed, 28 May 2025 08:39:13 GMT | L’inondation, l’usine en danger ? | Florent M | [Read More](https://medium.com/p/7565c3c7419b) |
@@ -40,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 07:23:05 GMT | Why I Wish Someone Told Me This About Computer Science Before I Started My Degree | Sharjeel AC | [Read More](https://medium.com/p/15a556b142d5) |
 | Wed, 28 May 2025 07:13:58 GMT | The Hidden GPS Tracking Tricks and Server Upgrade That Will Skyrocket Your Fleet Efficiency | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/abf5845bdc46) |
 | Wed, 28 May 2025 07:07:39 GMT | AI Pentesting: Revolutionizing Cybersecurity Solutions | Siemba | [Read More](https://medium.com/p/aa2f286a1eaf) |
+| Wed, 28 May 2025 07:06:10 GMT | Security Awareness: Yakin Emailnya dari Bos Kamu? | Farizal Hamami | [Read More](https://medium.com/p/d5b4a6394c1b) |
 | Wed, 28 May 2025 07:05:51 GMT | OneSpan Race Condition — Duplicate Group Names? Ez Game | FufuFafa | [Read More](https://medium.com/p/e6bfd734850b) |
 | Wed, 28 May 2025 07:00:57 GMT | Beyond Buzzwords: A Realistic 5-Year Cybersecurity Journey by Technical Domains | Fauzan Putra Ramadhan | [Read More](https://medium.com/p/17ecd7048803) |
 | Wed, 28 May 2025 06:59:40 GMT | Mobile Acquisition: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/dc95dbdeead9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 03:42:39 GMT | Confessions of a SOC Analyst: A Day in the Cyber War Room | Cyber Shahrukh | [Read More](https://medium.com/p/0d2cba0473f9) |
 | Wed, 28 May 2025 03:39:27 GMT | Finding Broken Access Control in DoD | Azrael | [Read More](https://medium.com/p/c569305f9099) |
 | Wed, 28 May 2025 03:31:28 GMT | Kissing someone who’s asleep, does that even count? | Sahaj Bains | [Read More](https://medium.com/p/50a66eebd456) |
-| Wed, 28 May 2025 03:31:28 GMT | Inside the Royal Mail Data Breach | Deven Chhajed | [Read More](https://medium.com/p/eab0abe3c005) |
-| Wed, 28 May 2025 03:25:55 GMT | ️ A Practical Guide to Securing Kubernetes: Pods, Network Policies, and Beyond. | Sudheerkumar | [Read More](https://medium.com/p/faf0acf4e922) |
-| Wed, 28 May 2025 03:16:17 GMT | Take Control of Your Online Privacy | Cassandra | [Read More](https://medium.com/p/f5b23eee63f2) |
-| Wed, 28 May 2025 03:14:16 GMT | Hardening guides vs secure by design software | @boblord | [Read More](https://medium.com/p/4616cdd81b8d) |
-| Wed, 28 May 2025 03:10:23 GMT | Roadmap Cybersecurity Menuju Pentester Profesional (2025–2030) | Riski Ardiansyah | [Read More](https://medium.com/p/8fec44f6ff23) |
-| Wed, 28 May 2025 03:01:29 GMT | Host & Network Penetration Testing The Metasploit Framework CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/f8a5661d770f) |
