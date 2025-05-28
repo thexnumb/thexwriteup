@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 03:01:29 GMT | Host & Network Penetration Testing The Metasploit Framework CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/f8a5661d770f) |
+| Wed, 28 May 2025 03:01:18 GMT | Rust Security Improvement Tips and Tricks: Fortify Your Code ️ | Sreeved Vp | [Read More](https://medium.com/p/2db7cd2ac8a5) |
+| Wed, 28 May 2025 03:00:09 GMT | Write-up PicoCTF (Capture The Flag) — Desafio Secrets | Sérgio Corrêa | [Read More](https://medium.com/p/146ac1a737f0) |
+| Wed, 28 May 2025 02:54:17 GMT | Roadmap Essential untuk Calon AppSec Engineer | Jovita | [Read More](https://medium.com/p/d20a3d6ac0c2) |
+| Wed, 28 May 2025 02:49:09 GMT | Growth Through Struggle vs. AI Acceleration | Allen Westley | [Read More](https://medium.com/p/bc6eed570f53) |
+| Wed, 28 May 2025 02:35:23 GMT | Exploiting the Menu: Breaking Restaurant Delivery Systems | Davi Moura | [Read More](https://medium.com/p/37c473849ac8) |
+| Wed, 28 May 2025 02:31:08 GMT | What is commando rice and training? | Science Technology | [Read More](https://medium.com/p/fb00e390f019) |
+| Wed, 28 May 2025 02:28:07 GMT | PEAK: threat hunting framework | Salmajhrx | [Read More](https://medium.com/p/b8b1fb9277c1) |
+| Wed, 28 May 2025 02:22:16 GMT | Cybersecurity as a Filtered View of Business Risk | Chris Brown | [Read More](https://medium.com/p/5a4fd761c9ff) |
+| Wed, 28 May 2025 02:21:02 GMT | Unlocking Digital Forensics with P-per: A Detailed Exploration : | Zaid Bin Ahmad | [Read More](https://medium.com/p/59fce8c6822b) |
+| Wed, 28 May 2025 02:00:00 GMT | Guardius Implementation of Port Scanning with Nmap - the Network Mapper | Guardius | [Read More](https://medium.com/p/37afafb09486) |
+| Wed, 28 May 2025 01:49:20 GMT | Are You Leaking Secrets with Terraform? | Zachary King | [Read More](https://medium.com/p/a2c7c01a1e15) |
 | Wed, 28 May 2025 01:38:19 GMT | Understanding Inheritance in Java | Hari | [Read More](https://medium.com/p/4bcc97e586e4) |
 | Wed, 28 May 2025 01:25:56 GMT | Roadmap Cyber ​​Security, in the next 5 years: My version as a digital forensic investigator. | Irfanbayu | [Read More](https://medium.com/p/1e75a667d1e6) |
 | Wed, 28 May 2025 01:23:05 GMT | Reflected XSS and Blind OS Command Injection | Monika sharma | [Read More](https://medium.com/p/a056c75f99be) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 18:02:38 GMT | domainsniffer: A Bash-Powered Subdomain Extraction Tool for OSINT and Bug Bounty Recon | Ashishkrishnanvs | [Read More](https://medium.com/p/ac8026449d2f) |
 | Tue, 27 May 2025 17:58:38 GMT | The SOC Ecosystem: Lessons from “Le Grand Gambit” | Chris Perkins | [Read More](https://medium.com/p/6c0796d933e4) |
 | Tue, 27 May 2025 17:56:06 GMT | ~ Understanding Software Licenses ~ | Lochithya Hettiarachchi | [Read More](https://medium.com/p/bee3274688cf) |
-| Tue, 27 May 2025 17:52:28 GMT | The Future Is Conductive: Why Low Temperature Conductive Pastes Are Powering the Next Wave of… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/5d62f8028b44) |
-| Tue, 27 May 2025 17:35:59 GMT | Enumeration & Brute Force - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/7e8f0f8cbf63) |
-| Tue, 27 May 2025 17:32:30 GMT | Breaking Boundaries: Vertical Privilege Escalation to Admin via Insecure Direct Request | Asad Ullah Evan | [Read More](https://medium.com/p/f4897877649f) |
-| Tue, 27 May 2025 17:29:57 GMT | [API-Pentest] —  Track 02: Bleeding Secrets — The Danger of Excessive Data Exposure | AjiPangesstu | [Read More](https://medium.com/p/78c1084dc110) |
-| Tue, 27 May 2025 17:24:11 GMT | Apa Saja Roadmap Karier dan Keahlian Cyber Security Selama 5 Tahun Kedepan? | Catatan Tepi Kalen | [Read More](https://medium.com/p/721373f07f36) |
-| Tue, 27 May 2025 17:21:03 GMT | TryHackMe - Mobile Acquisition - WriteUp | Axoloth | [Read More](https://medium.com/p/3cece4beee0b) |
-| Tue, 27 May 2025 17:13:05 GMT | The Internet Is Now Run by Bots And You’re Still Solving CAPTCHAs | FLACKO | [Read More](https://medium.com/p/2f0aa247cb0a) |
-| Tue, 27 May 2025 17:04:45 GMT | How to Earn Big by $DORK Yield Generation on StakingRewards | Sydney
- Harper | [Read More](https://medium.com/p/581f73c5e79f) |
-| Tue, 27 May 2025 16:58:08 GMT | Mastering Network Basics with Cisco Packet Tracer: A Hands-On Tutorial for Beginners | Bumi Arya Dirangga | [Read More](https://medium.com/p/cf4cd4824b2f) |
-| Tue, 27 May 2025 16:57:30 GMT | A Cryptographic Journey Through Middle-earth | Fahri | [Read More](https://medium.com/p/bb5ca7536b3c) |
-| Tue, 27 May 2025 16:55:11 GMT | Google Dorking: The Hacker’s Search Engine Trick That Exposes More Than You Think | SafeAeon Inc. | [Read More](https://medium.com/p/bd98eea7cda6) |
-| Tue, 27 May 2025 16:49:18 GMT | Cybersecurity Case Study — How a Small Vulnerability Almost Took Down a Growing E-Commerce Business | All in One security | [Read More](https://medium.com/p/60bfff36f4da) |
