@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 21:09:04 GMT | Active Directoy Lab Seupt, MS Server 2022 (Domain Controler): | Muhammadhuzaifa | [Read More](https://medium.com/p/a1bbe546fc76) |
+| Wed, 28 May 2025 21:00:08 GMT | Ethical Hackers’ Secret Weapons: 7 Free OSINT Tools Even Pros Overlook | Andrei Ivan | [Read More](https://medium.com/p/584367d78fdd) |
+| Wed, 28 May 2025 20:54:54 GMT | How to Avoid Clickbait | Savvy Cyber Kids | [Read More](https://medium.com/p/b0bc5bfd80ab) |
+| Wed, 28 May 2025 20:54:25 GMT | Why is technology so addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/89166e710b84) |
+| Wed, 28 May 2025 20:52:39 GMT | What are some types of online harassment? | Savvy Cyber Kids | [Read More](https://medium.com/p/b0b24fe1e111) |
+| Wed, 28 May 2025 20:45:43 GMT | Log Analysis (CLI) | Shamar Isaac | [Read More](https://medium.com/p/f7da044e8473) |
+| Wed, 28 May 2025 20:33:28 GMT | The Shadow Brokers Group | Orgeismail | [Read More](https://medium.com/p/2e7d0b999be7) |
 | Wed, 28 May 2025 20:30:54 GMT | Building an AI-Powered Threat Defense: A Step-by-Step Guide to Open Source SOAR Integration | Andrei Ivan | [Read More](https://medium.com/p/0b76211ec025) |
 | Wed, 28 May 2025 20:23:37 GMT | The Windows Concept Journey — System Restore | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6c6a817018b0) |
 | Wed, 28 May 2025 20:21:38 GMT | John the Ripper: The Basics - THM | Isiah | [Read More](https://medium.com/p/abbd8722c952) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 15:05:25 GMT | “awk” ile Log Analizi, Scriptlerle Gerçek Dünya Örnekleri | Tarik Zeybek | [Read More](https://medium.com/p/82b0821f1178) |
 | Wed, 28 May 2025 15:04:09 GMT | You’re Not Paranoid, Just Unprotected: How Everyday Apps Are Tracking You | Rachel The Storyteller | [Read More](https://medium.com/p/85b3f4b0f150) |
 | Wed, 28 May 2025 15:02:29 GMT | Secure Protocols: HTTPS, TLS, SSH vs. Telnet, and Capturing SSL/TLS Handshakes | Agarwaldaksh | [Read More](https://medium.com/p/86928757d731) |
-| Wed, 28 May 2025 14:58:57 GMT | Cisco: Pioneering the Future of Networking, Security, and AI Innovation | ciscoofficial | [Read More](https://medium.com/p/325ebcaa9244) |
-| Wed, 28 May 2025 14:57:32 GMT | Welcome to BountyGame17.online — Your Next Gaming Obsession Starts Here! | Bounty Game | [Read More](https://medium.com/p/549edadd13cb) |
-| Wed, 28 May 2025 14:52:24 GMT | Day 13 of #60DaysofGRC: How to Build Cybersecurity Awareness That Actually Works | Brittney Ginther | [Read More](https://medium.com/p/c05fb24ff7d3) |
-| Wed, 28 May 2025 14:46:27 GMT | Why Cryptography Is the Unsung Hero of Cybersecurity | Amelia Miller | [Read More](https://medium.com/p/66765d694df2) |
-| Wed, 28 May 2025 14:44:10 GMT | From National Guide to Global Compliance Architecture; Holistic Approach to Information Security… | Kubra Dalga | [Read More](https://medium.com/p/64263adf900d) |
-| Wed, 28 May 2025 14:42:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/68df475259a1) |
-| Wed, 28 May 2025 14:41:14 GMT | ☕️ Le Cyberistretto du 28 mai ☕️ | Tom Bay | [Read More](https://medium.com/p/5d98266225cf) |
