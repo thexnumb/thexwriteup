@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 19:12:41 GMT | 184 Million Logins Leaked? — What You Need to Know (and Do) | Jim Walker | [Read More](https://medium.com/p/28b4384e942c) |
+| Wed, 28 May 2025 19:07:26 GMT | What Is a Cybersecurity Audit? A Complete Beginner’s Guide | Rutter-Net | [Read More](https://medium.com/p/a31dc94cee09) |
+| Wed, 28 May 2025 19:07:12 GMT | Book Review — Cybersecurity Tabletop Exercises: From Planning to Execution by Robert Lelewski and… | Michael Lortz | [Read More](https://medium.com/p/6c1a250cd385) |
+| Wed, 28 May 2025 19:05:57 GMT | HackingHub Lab: Scam Artists — API Hacking & Reverse Proxy Basics.NahamSec | Rohit Pawar | [Read More](https://medium.com/p/b9b6ffd9cf90) |
+| Wed, 28 May 2025 19:02:06 GMT | My AndroGoat Journey: Deep Dive into Unprotected Android Components | Damara Brian | [Read More](https://medium.com/p/f3ba7c4bbb22) |
 | Wed, 28 May 2025 18:41:29 GMT | I want to run | Tolulope Akinlabi | [Read More](https://medium.com/p/62d9cd83118e) |
 | Wed, 28 May 2025 18:36:34 GMT | “3 Simple Reasons You’ll Wish You Got a VPN Sooner” | Vexpoltech | [Read More](https://medium.com/p/241fe781d54f) |
 | Wed, 28 May 2025 18:27:55 GMT | Lucky Bhaskar – The Boy Who Made the Impossible Possible | Nizam | [Read More](https://medium.com/p/ec9757fc7f38) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 13:55:03 GMT | Niyə Qadınlar Kibertəhlükəsizlik Sahəsində Daha Azdır? | alizadasec | [Read More](https://medium.com/p/2633b3b84a29) |
 | Wed, 28 May 2025 13:51:39 GMT | The Library of Alexandria: Ancient Knowledge Management Gone Wrong | Petra Ivanigova | [Read More](https://medium.com/p/35fcf34412bf) |
 | Wed, 28 May 2025 13:46:45 GMT | The Real Reason Your EC2 Auto Scaling Crashes with KMS Encrypted AMIs | Wassim Suilah | [Read More](https://medium.com/p/7eaf8b274c70) |
-| Wed, 28 May 2025 13:45:07 GMT | DevSecOps in Action: Automating Vulnerability Scans with Jenkins, Semgrep, Gitleaks, NJSSCAN, and… | Daniel Azeez | [Read More](https://medium.com/p/8c5d1d1d3d88) |
-| Wed, 28 May 2025 13:43:56 GMT | Is Your Internet Slowing Down Your Business? Here’s the Fix | Defend My Business | [Read More](https://medium.com/p/612236905aa7) |
-| Wed, 28 May 2025 13:42:53 GMT | Writing Pentest Reports - TryHackMe | mahita kodela | [Read More](https://medium.com/p/72a58fc02f58) |
-| Wed, 28 May 2025 13:42:00 GMT | Osquery ve Örnek Kullanım Senaryoları | Ceyhun CAMLI | [Read More](https://medium.com/p/350c49e2c882) |
-| Wed, 28 May 2025 13:36:08 GMT | Securycor: Your Trusted Partner in Car Park Security and Industrial Security | Professional UK Services | [Read More](https://medium.com/p/7b5e61cff673) |
