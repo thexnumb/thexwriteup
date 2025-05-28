@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 12:42:27 GMT | Advanced Attacks with Process Injection and Hollowing Techniques | Esra Kayhan | [Read More](https://medium.com/p/397fd4311a3b) |
+| Wed, 28 May 2025 12:33:47 GMT | Pentesting Fundamentals - TryHackME | mahita kodela | [Read More](https://medium.com/p/8bd36323ca80) |
+| Wed, 28 May 2025 12:27:24 GMT | 30 Days of Cyber Security — Day 2: CIA Triad, Pilar dari Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/99d51106fe3d) |
+| Wed, 28 May 2025 12:25:13 GMT | I Got Scammed on Binance,Can I Recover My Crypto? | Claire Barnett | [Read More](https://medium.com/p/cedbb452a23e) |
+| Wed, 28 May 2025 12:17:22 GMT | CVE-2025–5024: Critical GNOME Remote Desktop Vulnerability Enables Denial-of-Service Attacks | Infoziant | [Read More](https://medium.com/p/6483f140f5d8) |
+| Wed, 28 May 2025 12:17:15 GMT | What to Do If Your BNB Was Stolen: A Complete Recovery Guide | Claire Barnett | [Read More](https://medium.com/p/b7818f987c55) |
+| Wed, 28 May 2025 12:16:44 GMT | How to Choose the Right Roving Patrol Service Provider | Sentrysofficers | [Read More](https://medium.com/p/b4b811f4dbf1) |
+| Wed, 28 May 2025 12:16:42 GMT | Types of Cyber Threats You’ll Learn to Prevent in Cyber Security Training | vamsi krishna | [Read More](https://medium.com/p/b2819417c472) |
+| Wed, 28 May 2025 12:15:01 GMT | Secure AI-Powered GitHub Navigation with WindSurf + GitHub MCP Server | Majid Mohammed | [Read More](https://medium.com/p/c72bd6759237) |
+| Wed, 28 May 2025 12:12:37 GMT | Deploying Secure Databricks Workspaces on Azure: A Deep Dive into Managed VNet Deployment and… | Vishwajeet Pol | [Read More](https://medium.com/p/aeaaf83958e6) |
+| Wed, 28 May 2025 12:12:25 GMT | Soft Armor: The Fight to Stay Strong When All You Want Is to Fall Apart | AJM | [Read More](https://medium.com/p/72280d3dc7d4) |
+| Wed, 28 May 2025 12:11:45 GMT | Deploying Secure Databricks Workspaces on Azure: A Deep Dive into Managed VNet Deployment and… | Vishwajeet Pol | [Read More](https://medium.com/p/f791297c5796) |
+| Wed, 28 May 2025 12:11:09 GMT | Lost Account? Cyber Hackers to the Rescue | Labib Yasir | [Read More](https://medium.com/p/5fea3cda9504) |
+| Wed, 28 May 2025 12:10:40 GMT | Leadership and Commitment (Clause 5.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/5baad145d21a) |
+| Wed, 28 May 2025 12:09:38 GMT | How CISOs Can Align Privacy and Security Posture in 2025 | GoTrust Tech | [Read More](https://medium.com/p/653edd8295e6) |
+| Wed, 28 May 2025 12:03:45 GMT | OT security services — StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/571e5781f569) |
+| Wed, 28 May 2025 12:01:38 GMT | How Hackers Infiltrate Social Media in 2025 | Labib Yasir | [Read More](https://medium.com/p/b8c205f381f2) |
+| Wed, 28 May 2025 11:59:54 GMT | How Smart Glasses Can Help the Working Class: A Project to Ease Human Labor | Mr. RoMe0 | [Read More](https://medium.com/p/2229ee657a10) |
+| Wed, 28 May 2025 11:58:42 GMT | Storage Isolation in Kubernetes Using NFS: subPathExpr vs. StatefulSets | Ramkrushna Maheshwar | [Read More](https://medium.com/p/daf5efecc5f2) |
+| Wed, 28 May 2025 11:57:04 GMT | The Rise of Freelance Hackers in 2025 | Labib Yasir | [Read More](https://medium.com/p/0cffb59daf43) |
+| Wed, 28 May 2025 11:55:39 GMT | Maximizing Web Security with Cypress - Updated for 2025 | Sourojit Das | [Read More](https://medium.com/p/2d8e745ac18e) |
+| Wed, 28 May 2025 11:51:07 GMT | AI-Enhanced Phishing Emails: The New Frontier in Cybersecurity Threats | Taufiq Sediqi | [Read More](https://medium.com/p/d15f2099b1e3) |
+| Wed, 28 May 2025 11:50:04 GMT | Why So Many Tech Giants Are Laying Off Employees in 2025 — What’s Really Going On? | Hafizbilaltariq | [Read More](https://medium.com/p/1e40a4b82eb3) |
 | Wed, 28 May 2025 11:29:33 GMT | Armed vs. Unarmed Security: Choosing the Right Private Security Services for Your Property | Sentrysofficers | [Read More](https://medium.com/p/98b440928189) |
 | Wed, 28 May 2025 11:26:18 GMT | Ready to Become a Cybersecurity Expert? | SoftApp Technologies | [Read More](https://medium.com/p/c655d1c51456) |
 | Wed, 28 May 2025 11:24:22 GMT | The Power of Vulnerability: Sharing Stories, Shaping Connections | Coley B. | [Read More](https://medium.com/p/96cc1ae18ef8) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 06:41:48 GMT | How Data Privacy Laws Impact FinTech Compliance: A Deep Dive | CyRAACS | [Read More](https://medium.com/p/01876ebcabf0) |
 | Wed, 28 May 2025 06:32:36 GMT | TST Technology: How 3 Grads Bootstrapped an Rs. 1,800 Dream Into a Multi-Crore IT Powerhouse | Harsh Savaliya | [Read More](https://medium.com/p/2152048c32f1) |
 | Wed, 28 May 2025 06:30:43 GMT | They Say Love is a Journey, But Why Does Mine Feel Like a War? | Ananya Pandey | [Read More](https://medium.com/p/2800f97d4bb7) |
-| Wed, 28 May 2025 06:27:17 GMT | CyberSecurity Roadmap for the next 5 years. | Farrel Aditya | [Read More](https://medium.com/p/2edb730a1044) |
-| Wed, 28 May 2025 06:21:59 GMT | UiPath API Workflows: Engineering a Scalable & Secure System-to-System Automation Engine | Arghya Chakrabarty | [Read More](https://medium.com/p/6934a59760b3) |
-| Wed, 28 May 2025 06:15:28 GMT | FIREWALL FUNDAMENTALS -- CYBER SECURITY 101 -- TRYHACKME-- | Surbhi_choudhary | [Read More](https://medium.com/p/1b9052c81236) |
-| Wed, 28 May 2025 06:13:16 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1c30f9112b6a) |
-| Wed, 28 May 2025 06:12:34 GMT | What is Cyber Incident Response? | Ayush | [Read More](https://medium.com/p/9335f68287a6) |
-| Wed, 28 May 2025 06:05:31 GMT | Web archive tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/2c65c7b7ffe3) |
-| Wed, 28 May 2025 06:03:10 GMT | How Intelligent Technology Is Enhancing Cybersecurity Threat Detection? | Laxita | [Read More](https://medium.com/p/590497e7cad2) |
-| Wed, 28 May 2025 06:02:48 GMT | Unlock Super-Productivity: 15 Essential Linux Commands You Need to Know | Nitesh Thakur | [Read More](https://medium.com/p/93514f1ba674) |
-| Wed, 28 May 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — May 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5654f5d43d9a) |
-| Wed, 28 May 2025 06:00:34 GMT | ️ 184 Million Login Credentials Leaked: Instagram, Facebook, and Roblox Users at Risk | Insight Tech Talk | [Read More](https://medium.com/p/0a2cbda6cdd0) |
-| Wed, 28 May 2025 05:58:01 GMT | Pionex Review; | Lucy | [Read More](https://medium.com/p/f1ccd879f7d5) |
-| Wed, 28 May 2025 05:56:01 GMT | Top Tech Skills Every Gen Z Should Learn in 2025 (No Degree Required). | Reapool | [Read More](https://medium.com/p/8d84df6d6e33) |
-| Wed, 28 May 2025 05:55:33 GMT | Global Secure Web Gateway Market Size, Share, Strategies, Key Manufacturers, Trends and SWOT… | Kazuko | [Read More](https://medium.com/p/579651213a2d) |
-| Wed, 28 May 2025 05:50:58 GMT | Escaping with My Alchemist | Camilla J.A. | [Read More](https://medium.com/p/23d94b70cb74) |
-| Wed, 28 May 2025 05:44:50 GMT | Broken Access Control: The Quiet Killer in Web Applications | 127.0.0.1 | [Read More](https://medium.com/p/79cb85f72cd8) |
-| Wed, 28 May 2025 05:43:38 GMT | From Curious Kid to Cybersecurity Trainee: How I’m Working Toward Becoming a SOC Analyst | Axel Delgado | [Read More](https://medium.com/p/58c7c4a37122) |
-| Wed, 28 May 2025 05:39:00 GMT | Introduction to SIEM -- Tryhackme -- Cybersecurity 101 -- Write Up -- | Surbhi_choudhary | [Read More](https://medium.com/p/09803c0f79f3) |
-| Wed, 28 May 2025 05:31:30 GMT | .env, .sql, .log — Why These Files Should Never Be Indexed (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/49de36160cfb) |
-| Wed, 28 May 2025 05:31:30 GMT | Exploring the Future: Introducing the Cybersecurity STEAM Program for Schools | Matthew Gillard | [Read More](https://medium.com/p/a42cb3ed1e77) |
-| Wed, 28 May 2025 05:27:08 GMT | Bridging the Gaps: A Story About Compliance, Collaboration, and Common Sense | Venkat Subramaniyan | [Read More](https://medium.com/p/c92a29e6c1a2) |
-| Wed, 28 May 2025 05:23:09 GMT | Cyber Security Fundamental | Princex. | [Read More](https://medium.com/p/cb93b2006de8) |
-| Wed, 28 May 2025 05:20:50 GMT | https://youtu.be/3d0Sg1wcCtg?si=M33IZ6WgRWyagIOR | Dyoutube | [Read More](https://medium.com/p/f280b23039b9) |
-| Wed, 28 May 2025 05:13:29 GMT | <iframe width=”300" height=”220" src=”https://www.youtube.com/embed/HGAog3zhC40?si=DiuXmnv7kiM30obA" | Dyoutube | [Read More](https://medium.com/p/83329f4374ef) |
