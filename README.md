@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 15:30:33 GMT | Uncovering Hidden Signup Pages for Bug Bounty Hunting | Dharanis | [Read More](https://medium.com/p/14aca3f9d297) |
+| Wed, 28 May 2025 15:28:17 GMT | How Web Cache Poisoning via Unkeyed Query Strings Can Lead to Reflected XSS | Bash Overflow | [Read More](https://medium.com/p/0c0ce45cb5d9) |
+| Wed, 28 May 2025 15:25:42 GMT | Spidering in Security | Natarajan C K | [Read More](https://medium.com/p/104900f56836) |
 | Wed, 28 May 2025 15:07:14 GMT | The Ultimate 5-Year Cybersecurity Roadmap From Absolute Beginner | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/5d504d6781cb) |
 | Wed, 28 May 2025 15:05:44 GMT | The Ultimate XRP Hardware Wallet Guide(Cold Storage) | Jelmer Steenhuis | [Read More](https://medium.com/p/1672a95f0ed6) |
 | Wed, 28 May 2025 15:05:25 GMT | “awk” ile Log Analizi, Scriptlerle Gerçek Dünya Örnekleri | Tarik Zeybek | [Read More](https://medium.com/p/82b0821f1178) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 10:19:47 GMT | Choosing the Right Secure Web Browser for Azure Deployments | Lingala kondareddy | [Read More](https://medium.com/p/76575a75cd4c) |
 | Wed, 28 May 2025 10:11:01 GMT | Q-RAN: Quantum Safe O-RAN | Aditya Koranga | [Read More](https://medium.com/p/6f0e99289ca7) |
 | Wed, 28 May 2025 10:07:26 GMT | Why We Ignore Cyber Security Warnings: Learn How to Break Your Bad Habit Loop | Karl Buhl | [Read More](https://medium.com/p/ce8e0cdcc65b) |
-| Wed, 28 May 2025 10:06:16 GMT | Supporting Brampton Community Events with Security: Why It Matters | Diligent Security Services | [Read More](https://medium.com/p/602f00702be0) |
-| Wed, 28 May 2025 10:04:51 GMT | From Tamper Risks to Zero Trust: Securing Mercury’s Edge-Based Access Control Solutions | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/eb73a06f8ce4) |
-| Wed, 28 May 2025 10:03:52 GMT | Secure your assets with cryptoxpress | WissyWeb | [Read More](https://medium.com/p/bf4384417c97) |
