@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 10:38:12 GMT | I Could Explain Every Emotion I Had — But I Couldn’t Feel Any of Them | Namrata Singh | [Read More](https://medium.com/p/53889b2b9a7d) |
+| Wed, 28 May 2025 10:31:00 GMT | Not Links. Not OTPs. Just a WhatsApp Image — and Boom, You’re Hacked! | Navigtech | [Read More](https://medium.com/p/fac485034403) |
+| Wed, 28 May 2025 10:28:45 GMT | SSTI (Server-Side Template Injection): Gerçek Hayattan Bir Lab Ortamı ile Zafiyetten RCE’ye | Onur Civan | [Read More](https://medium.com/p/6c60b4ed9226) |
+| Wed, 28 May 2025 10:28:15 GMT | A Scandal in Valdoria - KC7 Walkthrough | PhishMonger | [Read More](https://medium.com/p/a81037255928) |
+| Wed, 28 May 2025 10:21:14 GMT | Kubernetes + NFS: Scalable and Shared Storage | Ramkrushna Maheshwar | [Read More](https://medium.com/p/273cacc247c7) |
+| Wed, 28 May 2025 10:19:47 GMT | Choosing the Right Secure Web Browser for Azure Deployments | Lingala kondareddy | [Read More](https://medium.com/p/76575a75cd4c) |
 | Wed, 28 May 2025 10:11:01 GMT | Q-RAN: Quantum Safe O-RAN | Aditya Koranga | [Read More](https://medium.com/p/6f0e99289ca7) |
 | Wed, 28 May 2025 10:07:26 GMT | Why We Ignore Cyber Security Warnings: Learn How to Break Your Bad Habit Loop | Karl Buhl | [Read More](https://medium.com/p/ce8e0cdcc65b) |
 | Wed, 28 May 2025 10:06:16 GMT | Supporting Brampton Community Events with Security: Why It Matters | Diligent Security Services | [Read More](https://medium.com/p/602f00702be0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 04:57:46 GMT | The Future of IT and Tech in 2025: Emerging Skills, Startups, and Tools to Watch | Aadibhai | [Read More](https://medium.com/p/3a0fbc9bf467) |
 | Wed, 28 May 2025 04:57:24 GMT | My Take on a New Identity Framework for AI Agents | Omar Santos | [Read More](https://medium.com/p/71d718942091) |
 | Wed, 28 May 2025 04:55:38 GMT | $500 Bounty: Shopify Referrer Leak: Hijacking Storefront Access with a Single Token | Monika sharma | [Read More](https://medium.com/p/4edc0de09cff) |
-| Wed, 28 May 2025 04:54:45 GMT | Extracting saved passwords in Chrome using python | Aleksa Zatezalo | [Read More](https://medium.com/p/554c789ab00d) |
-| Wed, 28 May 2025 04:53:54 GMT | Hacking Insights: Gaining Access to University of Hyderabad Ganglia Dashboard | ARoy | [Read More](https://medium.com/p/bdc15f3a82fe) |
-| Wed, 28 May 2025 04:53:18 GMT | Part 3: How to Become a Pentester in 2025: Programming & Scripting Foundations for pentester | Anezaneo | [Read More](https://medium.com/p/c57334e7a8fe) |
-| Wed, 28 May 2025 04:51:27 GMT | $750 Bounty: for HTTP Reset Password Link in Mattermost | Monika sharma | [Read More](https://medium.com/p/3cc3acdb0f85) |
-| Wed, 28 May 2025 04:51:12 GMT | Day 5: DOM XSS in jQuery anchor href attribute sink using location.search | RayofHope | [Read More](https://medium.com/p/afc598397e24) |
-| Wed, 28 May 2025 04:46:32 GMT | Cybersecurity Best Practices for IT Companies in India: Legal Must-Knows for 2025 | Akhil Mishra | [Read More](https://medium.com/p/f6f017be3f5c) |
