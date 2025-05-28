@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 23:30:10 GMT | Breaches Happen — But Data Theft Shouldn’t | Patrick Walsh | [Read More](https://medium.com/p/7e62deca3690) |
+| Wed, 28 May 2025 23:26:20 GMT | Observe and Report (and Prevent) — keeping an eye on your AI with CloudWatch and CloudTrail. | Mary Becken | [Read More](https://medium.com/p/d6eed47fa11a) |
+| Wed, 28 May 2025 23:25:32 GMT | Bem vindos! | Gunther | [Read More](https://medium.com/p/4a05c2924b5b) |
 | Wed, 28 May 2025 22:51:21 GMT | Exploring Wazuh on TryHackMe: A Hands-On Look at Endpoint Security | LobaMegaTON | [Read More](https://medium.com/p/08ddca84b1c8) |
 | Wed, 28 May 2025 22:39:52 GMT | Autopsy | Shamar Isaac | [Read More](https://medium.com/p/786c118cb7ad) |
 | Wed, 28 May 2025 22:17:40 GMT | GhostSpy: The Android Malware That Grants Hackers Full Control Over Your Device | Cyber-AppSec | [Read More](https://medium.com/p/c44fe186fdd8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 16:08:55 GMT | Data leaked? How to check it! | Alesei Narkevitch | [Read More](https://medium.com/p/f999d91a5dee) |
 | Wed, 28 May 2025 16:06:12 GMT | Roadmap For Cyber Security In The Blue Team | Daarin | [Read More](https://medium.com/p/ae9b25721ac2) |
 | Wed, 28 May 2025 16:03:31 GMT | Analysis - Securing the Future: Recommendations for U.S. Policy on Critical Minerals | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/cbf5b2e8f08a) |
-| Wed, 28 May 2025 16:02:35 GMT | Why DMZs Don’t Always Cut It Anymore | Bobby Johns | [Read More](https://medium.com/p/252f7da333dd) |
-| Wed, 28 May 2025 16:01:09 GMT | Malicious Document Analysis Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/3a0e71a620b2) |
-| Wed, 28 May 2025 16:00:52 GMT | How I Bypassed a Famous Regional Newspaper’s Subscription Plan By Http Response Manipulation | Vivek PS | [Read More](https://medium.com/p/ac5bd9d2eaea) |
