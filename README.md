@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 13:28:49 GMT | Latest IT Trends Every Manager Should Keep an Eye on in 2025 | Paritosh Shrivastava | [Read More](https://medium.com/p/a471e756d3b1) |
+| Wed, 28 May 2025 13:20:55 GMT | The Day GuardDuty Caught What the Firewall Missed | AWS Cloud Architect | [Read More](https://medium.com/p/5194ae9eb8c9) |
+| Wed, 28 May 2025 13:20:50 GMT | How to Become a Penetration Tester in 5 Years — A Complete Roadmap | Firhansanad | [Read More](https://medium.com/p/e2e56cc9cf77) |
+| Wed, 28 May 2025 13:19:19 GMT | How to Start a Cybersecurity Career: Bootcamp, Certs, or Degree? | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/e24fadd70e17) |
+| Wed, 28 May 2025 13:19:14 GMT | 2025 OT Cybersecurity Trends: Safeguarding Industrial Systems in a Connected World | Shieldworkz | [Read More](https://medium.com/p/044f1f432ecb) |
+| Wed, 28 May 2025 13:18:04 GMT | HIPAA Risk Remediation and Compliance Monitoring Initiative | Opeyemi Adebowale | [Read More](https://medium.com/p/12e4e6c6c73b) |
+| Wed, 28 May 2025 13:17:13 GMT | tdac.in.th, eta.in.th, dtv.in.th, asq.in.th phishing network | LeonidGR | [Read More](https://medium.com/p/dbcabac66e8b) |
+| Wed, 28 May 2025 13:14:20 GMT | Roadmap Cyber Security 5 Years | Arifkaguai | [Read More](https://medium.com/p/7591df0abb2f) |
+| Wed, 28 May 2025 13:13:43 GMT | Weekly Cybersecurity Digest: Critical Vulnerabilities, Exploits, and Threat Updates | Fatimah X | [Read More](https://medium.com/p/6dbe7423db8c) |
+| Wed, 28 May 2025 13:02:35 GMT | Why Traditional SIEM Isn’t Enough — Peris.ai Brings Real Intelligence | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0589b5af1ecb) |
+| Wed, 28 May 2025 12:58:50 GMT | Leveraging Regex Error For Successful Boolean-Based Blind Command Injection: Write Up Overthewire… | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/77e814ecadf3) |
+| Wed, 28 May 2025 12:57:17 GMT | Top 10 Summer Scams of 2025: Stay Safe with These Tips | marketing.forfend | [Read More](https://medium.com/p/0bf94d055e08) |
+| Wed, 28 May 2025 12:54:35 GMT | Internet Par Safe Kaise Rahein? - 1Password Manager | FogoChainIndia | [Read More](https://medium.com/p/62d7f4acc29a) |
+| Wed, 28 May 2025 12:53:42 GMT | Data-Driven Collaboration Using Metrics to Build Common Ground. | SecOps | [Read More](https://medium.com/p/e5b1def7506d) |
 | Wed, 28 May 2025 12:42:27 GMT | Advanced Attacks with Process Injection and Hollowing Techniques | Esra Kayhan | [Read More](https://medium.com/p/397fd4311a3b) |
 | Wed, 28 May 2025 12:33:47 GMT | Pentesting Fundamentals - TryHackME | mahita kodela | [Read More](https://medium.com/p/8bd36323ca80) |
+| Wed, 28 May 2025 12:28:50 GMT | Topi Koboi di Dunia Siber: Siapa Kamu di Balik Keyboard? | Febrian | [Read More](https://medium.com/p/5a317d0109a7) |
 | Wed, 28 May 2025 12:27:24 GMT | 30 Days of Cyber Security — Day 2: CIA Triad, Pilar dari Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/99d51106fe3d) |
 | Wed, 28 May 2025 12:25:13 GMT | I Got Scammed on Binance,Can I Recover My Crypto? | Claire Barnett | [Read More](https://medium.com/p/cedbb452a23e) |
 | Wed, 28 May 2025 12:17:22 GMT | CVE-2025–5024: Critical GNOME Remote Desktop Vulnerability Enables Denial-of-Service Attacks | Infoziant | [Read More](https://medium.com/p/6483f140f5d8) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 07:28:57 GMT | Unsafe Redirects = Unlimited Ride: How Open Redirect Led Me to Internal Dashboards | Iski | [Read More](https://medium.com/p/c371e1aa9fbc) |
 | Wed, 28 May 2025 07:28:42 GMT | Best Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/2e73db8e21d8) |
 | Wed, 28 May 2025 07:23:23 GMT | Cyber Diplomacy & International Law in the Age of Offensive Cyber Operations | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c7af659a7656) |
-| Wed, 28 May 2025 07:23:05 GMT | Why I Wish Someone Told Me This About Computer Science Before I Started My Degree | Sharjeel AC | [Read More](https://medium.com/p/15a556b142d5) |
-| Wed, 28 May 2025 07:13:58 GMT | The Hidden GPS Tracking Tricks and Server Upgrade That Will Skyrocket Your Fleet Efficiency | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/abf5845bdc46) |
-| Wed, 28 May 2025 07:07:39 GMT | AI Pentesting: Revolutionizing Cybersecurity Solutions | Siemba | [Read More](https://medium.com/p/aa2f286a1eaf) |
-| Wed, 28 May 2025 07:06:10 GMT | Security Awareness: Yakin Emailnya dari Bos Kamu? | Farizal Hamami | [Read More](https://medium.com/p/d5b4a6394c1b) |
-| Wed, 28 May 2025 07:05:51 GMT | OneSpan Race Condition — Duplicate Group Names? Ez Game | FufuFafa | [Read More](https://medium.com/p/e6bfd734850b) |
-| Wed, 28 May 2025 07:00:57 GMT | Beyond Buzzwords: A Realistic 5-Year Cybersecurity Journey by Technical Domains | Fauzan Putra Ramadhan | [Read More](https://medium.com/p/17ecd7048803) |
-| Wed, 28 May 2025 06:59:40 GMT | Mobile Acquisition: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/dc95dbdeead9) |
-| Wed, 28 May 2025 06:55:03 GMT | VPNs, Proxies and Secure Tunnels | Udit | [Read More](https://medium.com/p/016fbcfb20c3) |
-| Wed, 28 May 2025 06:52:33 GMT | Protecting Your Business with Expert Cyber Security Consulting Services | Olivia Smith | [Read More](https://medium.com/p/5c701c612da9) |
-| Wed, 28 May 2025 06:48:12 GMT | Agent Smith: The Autonomous AI That Protects Web3 — And Powers One of the Hottest Tokens Right Now | Daniel Noto | [Read More](https://medium.com/p/52ed161ced3d) |
-| Wed, 28 May 2025 06:44:45 GMT | U.S. Executive Orders Shaping Cybersecurity | Ricardo Newman | [Read More](https://medium.com/p/8bca5c3eb474) |
-| Wed, 28 May 2025 06:43:48 GMT | Africahackon: My First Steps Into the Technical World | Cybersecure | [Read More](https://medium.com/p/8e5c6a0d110d) |
-| Wed, 28 May 2025 06:41:48 GMT | How Data Privacy Laws Impact FinTech Compliance: A Deep Dive | CyRAACS | [Read More](https://medium.com/p/01876ebcabf0) |
-| Wed, 28 May 2025 06:32:36 GMT | TST Technology: How 3 Grads Bootstrapped an Rs. 1,800 Dream Into a Multi-Crore IT Powerhouse | Harsh Savaliya | [Read More](https://medium.com/p/2152048c32f1) |
-| Wed, 28 May 2025 06:30:43 GMT | They Say Love is a Journey, But Why Does Mine Feel Like a War? | Ananya Pandey | [Read More](https://medium.com/p/2800f97d4bb7) |
