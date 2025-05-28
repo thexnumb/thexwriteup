@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 16:42:27 GMT | Securing the Digital Frontier | Adem KORKMAZ | [Read More](https://medium.com/p/ce88689716c6) |
+| Wed, 28 May 2025 16:40:59 GMT | My Private Roadmap to be a good pentester | leosycthe (not a typo—just a style choice) | [Read More](https://medium.com/p/038eba9f095b) |
+| Wed, 28 May 2025 16:40:58 GMT | Enterprise-Grade Security for Small Businesses: The Network Security as a Service Advantage | SafeAeon Inc. | [Read More](https://medium.com/p/8dc09053de4f) |
+| Wed, 28 May 2025 16:40:29 GMT | Code Like It Matters: A Guide to Secure Coding (from someone who broke it before fixing it) | PanicAtTheKernel | [Read More](https://medium.com/p/f228ad92337a) |
+| Wed, 28 May 2025 16:37:44 GMT | ️ Beginner’s Guide to Becoming a Pentester: From Zero to First Hack | Midhun Thomas | [Read More](https://medium.com/p/75ba8c8e831d) |
+| Wed, 28 May 2025 16:32:50 GMT | You’ll find my thought processes, challenges I faced, and what I learned along the way — whether… | rnnull | [Read More](https://medium.com/p/6dd5c9f4ad83) |
+| Wed, 28 May 2025 16:27:23 GMT | Roadmap 5 Tahun Cyber Security — RED Team and Pentester dari Seorang Siswa | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/02f02199ebdc) |
 | Wed, 28 May 2025 16:24:32 GMT | I’m the Lone Man who Thinks I can make Difference Epi 05 | LoneSoldier1375 | [Read More](https://medium.com/p/672243ef64a9) |
 | Wed, 28 May 2025 16:22:22 GMT | Recovery | Norman Meg | [Read More](https://medium.com/p/c4c31b7efeda) |
 | Wed, 28 May 2025 16:21:03 GMT | Secrets of the Digital Underground: Ethical Hacking in the Age of AI & Quantum Computing | Shaheer Yasir | [Read More](https://medium.com/p/7e3ba1774722) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 12:12:37 GMT | Deploying Secure Databricks Workspaces on Azure: A Deep Dive into Managed VNet Deployment and… | Vishwajeet Pol | [Read More](https://medium.com/p/aeaaf83958e6) |
 | Wed, 28 May 2025 12:12:25 GMT | Soft Armor: The Fight to Stay Strong When All You Want Is to Fall Apart | AJM | [Read More](https://medium.com/p/72280d3dc7d4) |
 | Wed, 28 May 2025 12:11:45 GMT | Deploying Secure Databricks Workspaces on Azure: A Deep Dive into Managed VNet Deployment and… | Vishwajeet Pol | [Read More](https://medium.com/p/f791297c5796) |
-| Wed, 28 May 2025 12:11:09 GMT | Lost Account? Cyber Hackers to the Rescue | Labib Yasir | [Read More](https://medium.com/p/5fea3cda9504) |
-| Wed, 28 May 2025 12:10:40 GMT | Leadership and Commitment (Clause 5.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/5baad145d21a) |
-| Wed, 28 May 2025 12:09:38 GMT | How CISOs Can Align Privacy and Security Posture in 2025 | GoTrust Tech | [Read More](https://medium.com/p/653edd8295e6) |
-| Wed, 28 May 2025 12:03:45 GMT | OT security services — StrongBox IT | StrongBox IT | [Read More](https://medium.com/p/571e5781f569) |
-| Wed, 28 May 2025 12:01:38 GMT | How Hackers Infiltrate Social Media in 2025 | Labib Yasir | [Read More](https://medium.com/p/b8c205f381f2) |
-| Wed, 28 May 2025 11:59:54 GMT | How Smart Glasses Can Help the Working Class: A Project to Ease Human Labor | Mr. RoMe0 | [Read More](https://medium.com/p/2229ee657a10) |
-| Wed, 28 May 2025 11:58:42 GMT | Storage Isolation in Kubernetes Using NFS: subPathExpr vs. StatefulSets | Ramkrushna Maheshwar | [Read More](https://medium.com/p/daf5efecc5f2) |
