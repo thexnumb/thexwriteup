@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 09:33:14 GMT | Cyber Security Salary: Top Roles & Career Prospects | Mindgroom Career Counselling | [Read More](https://medium.com/p/b8d19871b450) |
+| Wed, 28 May 2025 09:32:59 GMT | Relationships Are an Extension of the Self — and That Truth Matters More Than We Admit | Real-Talk | [Read More](https://medium.com/p/ff416c6e6f88) |
 | Wed, 28 May 2025 09:09:52 GMT | Selamat Datang di Dunia Cyber, Apa Itu Keamanan Siber? | Mukti Badriyan | [Read More](https://medium.com/p/81bcdfc8f38d) |
 | Wed, 28 May 2025 09:08:24 GMT | Looking for Cybersecurity Companies in Delhi? Here’s What to Expect | Kameshwar Prasad | [Read More](https://medium.com/p/14c3f8896779) |
 | Wed, 28 May 2025 09:02:17 GMT | ViciousTrap Botnet Exploits Cisco Flaw to Expand IoT Attack Arsenal | CyBlog | [Read More](https://medium.com/p/539be987ddc3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 03:47:01 GMT | Sigma Rules to Splunk: From Detection Logic to Real-Time Alerts | Enes Cayvarlı | [Read More](https://medium.com/p/c1c8900ca660) |
 | Wed, 28 May 2025 03:46:44 GMT | War & Cyber: 3 Years of Struggle and Lessons for Global Security | Matthew.Rosenquist | [Read More](https://medium.com/p/17fcadc38a87) |
 | Wed, 28 May 2025 03:42:39 GMT | Confessions of a SOC Analyst: A Day in the Cyber War Room | Cyber Shahrukh | [Read More](https://medium.com/p/0d2cba0473f9) |
-| Wed, 28 May 2025 03:39:27 GMT | Finding Broken Access Control in DoD | Azrael | [Read More](https://medium.com/p/c569305f9099) |
-| Wed, 28 May 2025 03:31:28 GMT | Kissing someone who’s asleep, does that even count? | Sahaj Bains | [Read More](https://medium.com/p/50a66eebd456) |
