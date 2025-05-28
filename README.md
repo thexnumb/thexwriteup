@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 17:11:30 GMT | Mastering XSS for Beginners: From Alert Boxes to Session Hijacking | Rabbiyatabassum | [Read More](https://medium.com/p/4bb0a419840a) |
+| Wed, 28 May 2025 17:04:10 GMT | My AndroGoat Journey: Deep Dive into Network Intercepting | Damara Brian | [Read More](https://medium.com/p/f19fa5ec239d) |
+| Wed, 28 May 2025 17:03:16 GMT | SC 900 is just an Appetizer: Why SC 900 Isn’t Enough without Sec+ and Hands-On training. | CyberHarv : Down the Rabbit Hole Chronicles | [Read More](https://medium.com/p/a5fd53b1bd21) |
+| Wed, 28 May 2025 16:57:21 GMT | Uncle Sam’s AI Power Move: What H.R.1 Means for Investors | Monk | [Read More](https://medium.com/p/44add5e0d954) |
+| Wed, 28 May 2025 16:55:03 GMT | How to Launch a Secure DeFi App (Checklist for Founders) | Decrypt0 | [Read More](https://medium.com/p/1c2130cfea3c) |
+| Wed, 28 May 2025 16:52:53 GMT | Think Like an Attacker: Practical Threat Modeling for Real-World Teams | Pratik Gaikwad | [Read More](https://medium.com/p/f773a2601bba) |
+| Wed, 28 May 2025 16:51:42 GMT | “I Use End-to-End Encryption, They Can’t See My Messages” | Nurlan Isazade | [Read More](https://medium.com/p/c0511e27e932) |
+| Wed, 28 May 2025 16:46:28 GMT | Adidas Cyber Attack Exposes Customer Data: What You Need to Know | Technijian | [Read More](https://medium.com/p/26aea20fed07) |
+| Wed, 28 May 2025 16:43:06 GMT | I will deliver perfect cybersecurity data science technical tech it, grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/008bacbe637b) |
 | Wed, 28 May 2025 16:42:27 GMT | Securing the Digital Frontier | Adem KORKMAZ | [Read More](https://medium.com/p/ce88689716c6) |
 | Wed, 28 May 2025 16:40:59 GMT | My Private Roadmap to be a good pentester | leosycthe (not a typo—just a style choice) | [Read More](https://medium.com/p/038eba9f095b) |
 | Wed, 28 May 2025 16:40:58 GMT | Enterprise-Grade Security for Small Businesses: The Network Security as a Service Advantage | SafeAeon Inc. | [Read More](https://medium.com/p/8dc09053de4f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 12:33:47 GMT | Pentesting Fundamentals - TryHackME | mahita kodela | [Read More](https://medium.com/p/8bd36323ca80) |
 | Wed, 28 May 2025 12:28:50 GMT | Topi Koboi di Dunia Siber: Siapa Kamu di Balik Keyboard? | Febrian | [Read More](https://medium.com/p/5a317d0109a7) |
 | Wed, 28 May 2025 12:27:24 GMT | 30 Days of Cyber Security — Day 2: CIA Triad, Pilar dari Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/99d51106fe3d) |
-| Wed, 28 May 2025 12:25:13 GMT | I Got Scammed on Binance,Can I Recover My Crypto? | Claire Barnett | [Read More](https://medium.com/p/cedbb452a23e) |
-| Wed, 28 May 2025 12:17:22 GMT | CVE-2025–5024: Critical GNOME Remote Desktop Vulnerability Enables Denial-of-Service Attacks | Infoziant | [Read More](https://medium.com/p/6483f140f5d8) |
-| Wed, 28 May 2025 12:17:15 GMT | What to Do If Your BNB Was Stolen: A Complete Recovery Guide | Claire Barnett | [Read More](https://medium.com/p/b7818f987c55) |
-| Wed, 28 May 2025 12:16:44 GMT | How to Choose the Right Roving Patrol Service Provider | Sentrysofficers | [Read More](https://medium.com/p/b4b811f4dbf1) |
-| Wed, 28 May 2025 12:16:42 GMT | Types of Cyber Threats You’ll Learn to Prevent in Cyber Security Training | vamsi krishna | [Read More](https://medium.com/p/b2819417c472) |
-| Wed, 28 May 2025 12:15:01 GMT | Secure AI-Powered GitHub Navigation with WindSurf + GitHub MCP Server | Majid Mohammed | [Read More](https://medium.com/p/c72bd6759237) |
-| Wed, 28 May 2025 12:12:37 GMT | Deploying Secure Databricks Workspaces on Azure: A Deep Dive into Managed VNet Deployment and… | Vishwajeet Pol | [Read More](https://medium.com/p/aeaaf83958e6) |
-| Wed, 28 May 2025 12:12:25 GMT | Soft Armor: The Fight to Stay Strong When All You Want Is to Fall Apart | AJM | [Read More](https://medium.com/p/72280d3dc7d4) |
-| Wed, 28 May 2025 12:11:45 GMT | Deploying Secure Databricks Workspaces on Azure: A Deep Dive into Managed VNet Deployment and… | Vishwajeet Pol | [Read More](https://medium.com/p/f791297c5796) |
