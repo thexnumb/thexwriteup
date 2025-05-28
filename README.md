@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 08:45:12 GMT | Stop Fake Signups Before They Happen: Why It Matters More Than You Think | OnSefy | [Read More](https://medium.com/p/d5325fae6908) |
+| Wed, 28 May 2025 08:41:22 GMT | Congress sets SocMed rules | Aimiella Calayag | [Read More](https://medium.com/p/8685ca2fe55f) |
+| Wed, 28 May 2025 08:39:13 GMT | L’inondation, l’usine en danger ? | Florent M | [Read More](https://medium.com/p/7565c3c7419b) |
+| Wed, 28 May 2025 08:32:11 GMT | Mitigating IPv6 Spoofing and Disabling NetBIOS/mDNS/LLMNR Attacks | Osama Ahmed Khan | [Read More](https://medium.com/p/488152fb0869) |
 | Wed, 28 May 2025 08:18:56 GMT | Security Why After Hours Security Services Are Essential for Every Business | Lionza Security | [Read More](https://medium.com/p/76f7b94d265f) |
 | Wed, 28 May 2025 08:17:31 GMT | POC — CVE-2025–2539 File Away <= 3.9.9.0.1 | Very Lazy Tech | [Read More](https://medium.com/p/ee5c84e42a92) |
 | Wed, 28 May 2025 08:15:28 GMT | Track the Hacks: Mengenal Cabang-Cabang Digital Forensic | byuda | [Read More](https://medium.com/p/abe31829e581) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 03:14:16 GMT | Hardening guides vs secure by design software | @boblord | [Read More](https://medium.com/p/4616cdd81b8d) |
 | Wed, 28 May 2025 03:10:23 GMT | Roadmap Cybersecurity Menuju Pentester Profesional (2025–2030) | Riski Ardiansyah | [Read More](https://medium.com/p/8fec44f6ff23) |
 | Wed, 28 May 2025 03:01:29 GMT | Host & Network Penetration Testing The Metasploit Framework CTF 1 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/f8a5661d770f) |
-| Wed, 28 May 2025 03:01:18 GMT | Rust Security Improvement Tips and Tricks: Fortify Your Code ️ | Sreeved Vp | [Read More](https://medium.com/p/2db7cd2ac8a5) |
-| Wed, 28 May 2025 03:00:09 GMT | Write-up PicoCTF (Capture The Flag) — Desafio Secrets | Sérgio Corrêa | [Read More](https://medium.com/p/146ac1a737f0) |
-| Wed, 28 May 2025 02:54:17 GMT | Roadmap Essential untuk Calon AppSec Engineer | Jovita | [Read More](https://medium.com/p/d20a3d6ac0c2) |
-| Wed, 28 May 2025 02:49:09 GMT | Growth Through Struggle vs. AI Acceleration | Allen Westley | [Read More](https://medium.com/p/bc6eed570f53) |
