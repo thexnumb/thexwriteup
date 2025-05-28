@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 05:31:30 GMT | .env, .sql, .log — Why These Files Should Never Be Indexed (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/49de36160cfb) |
+| Wed, 28 May 2025 05:31:30 GMT | Exploring the Future: Introducing the Cybersecurity STEAM Program for Schools | Matthew Gillard | [Read More](https://medium.com/p/a42cb3ed1e77) |
+| Wed, 28 May 2025 05:27:08 GMT | Bridging the Gaps: A Story About Compliance, Collaboration, and Common Sense | Venkat Subramaniyan | [Read More](https://medium.com/p/c92a29e6c1a2) |
+| Wed, 28 May 2025 05:23:09 GMT | Cyber Security Fundamental | Princex. | [Read More](https://medium.com/p/cb93b2006de8) |
+| Wed, 28 May 2025 05:20:50 GMT | https://youtu.be/3d0Sg1wcCtg?si=M33IZ6WgRWyagIOR | Dyoutube | [Read More](https://medium.com/p/f280b23039b9) |
 | Wed, 28 May 2025 05:13:29 GMT | <iframe width=”300" height=”220" src=”https://www.youtube.com/embed/HGAog3zhC40?si=DiuXmnv7kiM30obA" | Dyoutube | [Read More](https://medium.com/p/83329f4374ef) |
 | Wed, 28 May 2025 05:11:18 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/5dca3a5642eb) |
 | Wed, 28 May 2025 05:02:54 GMT | I Tried 10 Recon Tools for 7 Days — Here’s What Actually Found Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/9013b4cd2396) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 20:31:51 GMT | Accumulators With WASM: Crypto Pairing in the Browser | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8909b716dfb8) |
 | Tue, 27 May 2025 20:29:31 GMT | These Facebook Posts Always Make Me Want to Look Away in Disgust. | Daniel Andrew Boyd | [Read More](https://medium.com/p/b2b05267c511) |
 | Tue, 27 May 2025 20:26:51 GMT | $BOUNTY Yield Generation for Maximum Returns on StakingRewards | BOUNTY | [Read More](https://medium.com/p/49f1099c34f7) |
-| Tue, 27 May 2025 20:26:32 GMT | Command Injection Exploits and Defenses | musayyab sharif | [Read More](https://medium.com/p/d7fd0dc1ca36) |
-| Tue, 27 May 2025 20:23:05 GMT | What can you do to help prevent an addiction to social media? | Savvy Cyber Kids | [Read More](https://medium.com/p/4713d1592678) |
-| Tue, 27 May 2025 20:22:20 GMT | What are Some Educational YouTube Channels? | Savvy Cyber Kids | [Read More](https://medium.com/p/495f8070b1a7) |
-| Tue, 27 May 2025 20:21:45 GMT | Do’s and Don’ts of Posting Online | Savvy Cyber Kids | [Read More](https://medium.com/p/f61a8cf9620d) |
-| Tue, 27 May 2025 20:10:41 GMT | My Six-Month Internship with Flipkart’s Infosec Team (Jan-Jul’24) | Juhie Chandra | [Read More](https://medium.com/p/cdf70413be76) |
