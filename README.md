@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 06:27:17 GMT | CyberSecurity Roadmap for the next 5 years. | Farrel Aditya | [Read More](https://medium.com/p/2edb730a1044) |
+| Wed, 28 May 2025 06:21:59 GMT | UiPath API Workflows: Engineering a Scalable & Secure System-to-System Automation Engine | Arghya Chakrabarty | [Read More](https://medium.com/p/6934a59760b3) |
+| Wed, 28 May 2025 06:15:28 GMT | FIREWALL FUNDAMENTALS -- CYBER SECURITY 101 -- TRYHACKME-- | Surbhi_choudhary | [Read More](https://medium.com/p/1b9052c81236) |
+| Wed, 28 May 2025 06:13:16 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/1c30f9112b6a) |
+| Wed, 28 May 2025 06:12:34 GMT | What is Cyber Incident Response? | Ayush | [Read More](https://medium.com/p/9335f68287a6) |
+| Wed, 28 May 2025 06:05:31 GMT | Web archive tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/2c65c7b7ffe3) |
+| Wed, 28 May 2025 06:03:10 GMT | How Intelligent Technology Is Enhancing Cybersecurity Threat Detection? | Laxita | [Read More](https://medium.com/p/590497e7cad2) |
+| Wed, 28 May 2025 06:02:48 GMT | Unlock Super-Productivity: 15 Essential Linux Commands You Need to Know | Nitesh Thakur | [Read More](https://medium.com/p/93514f1ba674) |
+| Wed, 28 May 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — May 28, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5654f5d43d9a) |
+| Wed, 28 May 2025 06:00:34 GMT | ️ 184 Million Login Credentials Leaked: Instagram, Facebook, and Roblox Users at Risk | Insight Tech Talk | [Read More](https://medium.com/p/0a2cbda6cdd0) |
+| Wed, 28 May 2025 05:58:01 GMT | Pionex Review; | Lucy | [Read More](https://medium.com/p/f1ccd879f7d5) |
+| Wed, 28 May 2025 05:56:01 GMT | Top Tech Skills Every Gen Z Should Learn in 2025 (No Degree Required). | Reapool | [Read More](https://medium.com/p/8d84df6d6e33) |
+| Wed, 28 May 2025 05:55:33 GMT | Global Secure Web Gateway Market Size, Share, Strategies, Key Manufacturers, Trends and SWOT… | Kazuko | [Read More](https://medium.com/p/579651213a2d) |
+| Wed, 28 May 2025 05:50:58 GMT | Escaping with My Alchemist | Camilla J.A. | [Read More](https://medium.com/p/23d94b70cb74) |
+| Wed, 28 May 2025 05:44:50 GMT | Broken Access Control: The Quiet Killer in Web Applications | 127.0.0.1 | [Read More](https://medium.com/p/79cb85f72cd8) |
+| Wed, 28 May 2025 05:43:38 GMT | From Curious Kid to Cybersecurity Trainee: How I’m Working Toward Becoming a SOC Analyst | Axel Delgado | [Read More](https://medium.com/p/58c7c4a37122) |
+| Wed, 28 May 2025 05:39:00 GMT | Introduction to SIEM -- Tryhackme -- Cybersecurity 101 -- Write Up -- | Surbhi_choudhary | [Read More](https://medium.com/p/09803c0f79f3) |
 | Wed, 28 May 2025 05:31:30 GMT | .env, .sql, .log — Why These Files Should Never Be Indexed (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/49de36160cfb) |
 | Wed, 28 May 2025 05:31:30 GMT | Exploring the Future: Introducing the Cybersecurity STEAM Program for Schools | Matthew Gillard | [Read More](https://medium.com/p/a42cb3ed1e77) |
 | Wed, 28 May 2025 05:27:08 GMT | Bridging the Gaps: A Story About Compliance, Collaboration, and Common Sense | Venkat Subramaniyan | [Read More](https://medium.com/p/c92a29e6c1a2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 21:35:00 GMT | Real Estate Scams to Watch Out For: Stay Safe in Your Property Search | Denise Wittmer | [Read More](https://medium.com/p/dbc70dbef3f8) |
 | Tue, 27 May 2025 21:30:57 GMT | Infrastructure and Automated tests for validation and optimization of security and regression | Adil Faiyaz | [Read More](https://medium.com/p/e9cbfcbfa5ef) |
 | Tue, 27 May 2025 21:13:22 GMT | Securely Manage User Context in Agentforce Using Pre-Chat Variables | Justus van den Berg | [Read More](https://medium.com/p/a35eb039b6e0) |
-| Tue, 27 May 2025 21:09:41 GMT | Stopping attacks dead on their tracks | Adil Faiyaz | [Read More](https://medium.com/p/515f42bfa4d6) |
-| Tue, 27 May 2025 21:08:15 GMT | HTB Hacking Oopsie: A Beginner-Friendly Hack The Box Guide | BotsiCat | [Read More](https://medium.com/p/9a64b00b9276) |
-| Tue, 27 May 2025 21:05:02 GMT | How QA Became Cybersecurity’s Secret Weapon | Abhishek Sahu | [Read More](https://medium.com/p/8f79017761dc) |
-| Tue, 27 May 2025 21:01:33 GMT | 5 Steps to Improve Your Incident Response Time | John Locke | [Read More](https://medium.com/p/73a030ceaa60) |
-| Tue, 27 May 2025 21:00:29 GMT | Cybersecurity Bulletin | Cyberwise | [Read More](https://medium.com/p/d4621f3840b3) |
-| Tue, 27 May 2025 20:55:13 GMT | The Evolution of The IT Industry Since 1970. | Vishal Patel | [Read More](https://medium.com/p/bb862a98bf14) |
-| Tue, 27 May 2025 20:46:01 GMT | You’ve Got Mail | Priyadharsini Selvarajan | [Read More](https://medium.com/p/b90f84e58a49) |
-| Tue, 27 May 2025 20:40:50 GMT | EGCTF25 Digital Forensics Writeup | Ahmed Elessaway | [Read More](https://medium.com/p/8310a76912ac) |
-| Tue, 27 May 2025 20:39:41 GMT | The FACT Act: Strengthening National Security and Protecting American Consumers | National Security Institute | [Read More](https://medium.com/p/9b536771a4aa) |
-| Tue, 27 May 2025 20:39:21 GMT | A Midnight Blizzard Special: Simulating an RDP Phishing Campaign — PT 1 | Natebair | [Read More](https://medium.com/p/490cb59c0dc8) |
-| Tue, 27 May 2025 20:39:13 GMT | Mice Proving ground Walk through | Mariam | [Read More](https://medium.com/p/9f12f938920a) |
-| Tue, 27 May 2025 20:35:44 GMT | Why I Think GPT Will Be the Firewall of the Future | Corey Jones | [Read More](https://medium.com/p/113a1dadbe21) |
-| Tue, 27 May 2025 20:34:23 GMT | Which Ring Camera Is Right for You? Let’s Compare These 3 Popular Picks! | Elkangbang | [Read More](https://medium.com/p/545fa1cecacd) |
-| Tue, 27 May 2025 20:32:15 GMT | The Treaty That Bans Nuclear Weapons — and Why the World Needs It Now | Kenneth Chiu | [Read More](https://medium.com/p/f7307e9b262d) |
-| Tue, 27 May 2025 20:31:51 GMT | Accumulators With WASM: Crypto Pairing in the Browser | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/8909b716dfb8) |
-| Tue, 27 May 2025 20:29:31 GMT | These Facebook Posts Always Make Me Want to Look Away in Disgust. | Daniel Andrew Boyd | [Read More](https://medium.com/p/b2b05267c511) |
-| Tue, 27 May 2025 20:26:51 GMT | $BOUNTY Yield Generation for Maximum Returns on StakingRewards | BOUNTY | [Read More](https://medium.com/p/49f1099c34f7) |
