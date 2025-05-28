@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 05:13:29 GMT | <iframe width=”300" height=”220" src=”https://www.youtube.com/embed/HGAog3zhC40?si=DiuXmnv7kiM30obA" | Dyoutube | [Read More](https://medium.com/p/83329f4374ef) |
+| Wed, 28 May 2025 05:11:18 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/5dca3a5642eb) |
+| Wed, 28 May 2025 05:02:54 GMT | I Tried 10 Recon Tools for 7 Days — Here’s What Actually Found Bugs | Abhijeet Kumawat | [Read More](https://medium.com/p/9013b4cd2396) |
+| Wed, 28 May 2025 05:02:29 GMT | ROADSEC 2025, Roadmap Cyber Security untuk 5 Tahun kedepan. | Ryan Shaldan Husnan | [Read More](https://medium.com/p/aaa1c3ef00a5) |
+| Wed, 28 May 2025 05:00:44 GMT | Hackers Flocking to Simple X | SinVictus | [Read More](https://medium.com/p/bdd05f40c24b) |
+| Wed, 28 May 2025 05:00:33 GMT | How to Bypass UAC Using RunAsInvoker | Arch-Villager | [Read More](https://medium.com/p/ffe42246d283) |
+| Wed, 28 May 2025 04:58:20 GMT | Hacking a Smart Home: Step-by-Step Demo (Ethically!) | Ahmad Javed | [Read More](https://medium.com/p/0bd8986d6962) |
+| Wed, 28 May 2025 04:57:46 GMT | The Future of IT and Tech in 2025: Emerging Skills, Startups, and Tools to Watch | Aadibhai | [Read More](https://medium.com/p/3a0fbc9bf467) |
+| Wed, 28 May 2025 04:57:24 GMT | My Take on a New Identity Framework for AI Agents | Omar Santos | [Read More](https://medium.com/p/71d718942091) |
+| Wed, 28 May 2025 04:55:38 GMT | $500 Bounty: Shopify Referrer Leak: Hijacking Storefront Access with a Single Token | Monika sharma | [Read More](https://medium.com/p/4edc0de09cff) |
+| Wed, 28 May 2025 04:54:45 GMT | Extracting saved passwords in Chrome using python | Aleksa Zatezalo | [Read More](https://medium.com/p/554c789ab00d) |
+| Wed, 28 May 2025 04:53:54 GMT | Hacking Insights: Gaining Access to University of Hyderabad Ganglia Dashboard | ARoy | [Read More](https://medium.com/p/bdc15f3a82fe) |
+| Wed, 28 May 2025 04:53:18 GMT | Part 3: How to Become a Pentester in 2025: Programming & Scripting Foundations for pentester | Anezaneo | [Read More](https://medium.com/p/c57334e7a8fe) |
+| Wed, 28 May 2025 04:51:27 GMT | $750 Bounty: for HTTP Reset Password Link in Mattermost | Monika sharma | [Read More](https://medium.com/p/3cc3acdb0f85) |
+| Wed, 28 May 2025 04:51:12 GMT | Day 5: DOM XSS in jQuery anchor href attribute sink using location.search | RayofHope | [Read More](https://medium.com/p/afc598397e24) |
+| Wed, 28 May 2025 04:46:32 GMT | Cybersecurity Best Practices for IT Companies in India: Legal Must-Knows for 2025 | Akhil Mishra | [Read More](https://medium.com/p/f6f017be3f5c) |
+| Wed, 28 May 2025 04:42:17 GMT | ประจำวันพุธที่ 28 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/969c41cd0e79) |
 | Wed, 28 May 2025 04:35:21 GMT | Oman’s Future Secure: Comprehensive Access Control Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/ce1da457e4bf) |
 | Wed, 28 May 2025 04:34:36 GMT | Understanding Encryption: Data Privacy & Security | Aditya Bhuyan | [Read More](https://medium.com/p/005c665650af) |
 | Wed, 28 May 2025 04:31:38 GMT | Quantum Arms Race: U.S. Defense Intelligence Flags Rivals’ Growing Military Use of Quantum Tech | QuantumGenie | [Read More](https://medium.com/p/b8fb7b234311) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 20:22:20 GMT | What are Some Educational YouTube Channels? | Savvy Cyber Kids | [Read More](https://medium.com/p/495f8070b1a7) |
 | Tue, 27 May 2025 20:21:45 GMT | Do’s and Don’ts of Posting Online | Savvy Cyber Kids | [Read More](https://medium.com/p/f61a8cf9620d) |
 | Tue, 27 May 2025 20:10:41 GMT | My Six-Month Internship with Flipkart’s Infosec Team (Jan-Jul’24) | Juhie Chandra | [Read More](https://medium.com/p/cdf70413be76) |
-| Tue, 27 May 2025 20:06:20 GMT | RootMe Room Walkthrough: A Step-by-Step Guide | JustSouichi | [Read More](https://medium.com/p/330deca83980) |
-| Tue, 27 May 2025 19:40:52 GMT | BehindTheScreens: AI Deception, Global Breaches, and the Expanding Cyber Threat Landscape | Sam - Behind The Screens | [Read More](https://medium.com/p/68a77a90568b) |
-| Tue, 27 May 2025 19:37:47 GMT | The Most Convincing Scam I’ve Seen | Sarayu Pacca | [Read More](https://medium.com/p/05b1c5062567) |
-| Tue, 27 May 2025 19:37:08 GMT | Roadmap 5 Tahun Menuju Karier Blue Team & Defensive Security Specialist | Muhammad Syahril Rizky Fauzan | [Read More](https://medium.com/p/d75a77d92d7e) |
-| Tue, 27 May 2025 19:36:42 GMT | Security Guards in Boston Medical and Research Facilities: Protecting Critical Healthcare… | Jeff Dodge | [Read More](https://medium.com/p/5a2a635d1ee8) |
-| Tue, 27 May 2025 19:35:16 GMT | Solana Exec Doxxed in Migos Instagram Hack, 40 BTC Ransom Sparks Crypto Chaos | CoinGen | [Read More](https://medium.com/p/b60a0aa54bdd) |
-| Tue, 27 May 2025 19:32:39 GMT | OSINT IP Lookup Script: A Comprehensive Tool for Cybersecurity Analysts | Lyxt | [Read More](https://medium.com/p/61616e3d90c7) |
-| Tue, 27 May 2025 19:27:10 GMT | OverTheWire — Bandit Walkthrough Level 4 -> Level 10 | Hassen Hannachi | [Read More](https://medium.com/p/9aabdced1246) |
-| Tue, 27 May 2025 19:25:19 GMT | When AI Can Attack, Only AI Can Defend | Ankur Shinde | [Read More](https://medium.com/p/5c80ffdb184e) |
-| Tue, 27 May 2025 19:17:46 GMT | Artificial Intelligence in Cyber Defense: Opportunities and Challenges | ITBizTeK | [Read More](https://medium.com/p/d43e4c4108db) |
-| Tue, 27 May 2025 19:11:21 GMT | Ransomware Payments Are Tax-Deductible — We Are All Bankrolling Crime | Isaac Privett | [Read More](https://medium.com/p/2451252b498a) |
-| Tue, 27 May 2025 19:10:59 GMT | Here’s What I Loved, and What I Didn’t of OSCP | DuckWrites | [Read More](https://medium.com/p/a396b96b0850) |
-| Tue, 27 May 2025 19:09:26 GMT | Hacking Certifications — A Conversation With An IT Cert Fraudster | Isaac Privett | [Read More](https://medium.com/p/34930bfba793) |
-| Tue, 27 May 2025 19:02:26 GMT | Say It To My Face | Symon Braun Freck | [Read More](https://medium.com/p/bbcef0ad237f) |
-| Tue, 27 May 2025 19:02:26 GMT | The Intelligence Technology and Big Eye Secrets: Navigating the Complex World of Cybersecurity and… | Karwan Mustafa Kareem | [Read More](https://medium.com/p/5ad40c3ce763) |
-| Tue, 27 May 2025 18:51:47 GMT | Web Uygulama Güvenliği-Dizin Tarama | ömer Kaan kurt | [Read More](https://medium.com/p/230fe729a303) |
-| Tue, 27 May 2025 18:42:58 GMT | Cyber Espionage: The Silent Threat Stealing Secrets in the Shadows | SafeAeon Inc. | [Read More](https://medium.com/p/e9028850034e) |
