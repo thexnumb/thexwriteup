@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 11:00:56 GMT | Phishing Email Content with Personalized Context Data Generation | Kami | [Read More](https://medium.com/p/f17c6b4cd819) |
+| Wed, 28 May 2025 10:56:47 GMT | SQL injection vulnerability allowing login bypass | Rachael Muga | [Read More](https://medium.com/p/8a33b9c3d4cd) |
+| Wed, 28 May 2025 10:49:39 GMT | Over 70 Malicious npm and VS Code Packages Uncovered: A Wake-Up Call for Developer Supply Chain… | Mithra Consulting | [Read More](https://medium.com/p/521fe3172b89) |
 | Wed, 28 May 2025 10:38:12 GMT | I Could Explain Every Emotion I Had — But I Couldn’t Feel Any of Them | Namrata Singh | [Read More](https://medium.com/p/53889b2b9a7d) |
 | Wed, 28 May 2025 10:31:00 GMT | Not Links. Not OTPs. Just a WhatsApp Image — and Boom, You’re Hacked! | Navigtech | [Read More](https://medium.com/p/fac485034403) |
 | Wed, 28 May 2025 10:28:45 GMT | SSTI (Server-Side Template Injection): Gerçek Hayattan Bir Lab Ortamı ile Zafiyetten RCE’ye | Onur Civan | [Read More](https://medium.com/p/6c60b4ed9226) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 05:00:44 GMT | Hackers Flocking to Simple X | SinVictus | [Read More](https://medium.com/p/bdd05f40c24b) |
 | Wed, 28 May 2025 05:00:33 GMT | How to Bypass UAC Using RunAsInvoker | Arch-Villager | [Read More](https://medium.com/p/ffe42246d283) |
 | Wed, 28 May 2025 04:58:20 GMT | Hacking a Smart Home: Step-by-Step Demo (Ethically!) | Ahmad Javed | [Read More](https://medium.com/p/0bd8986d6962) |
-| Wed, 28 May 2025 04:57:46 GMT | The Future of IT and Tech in 2025: Emerging Skills, Startups, and Tools to Watch | Aadibhai | [Read More](https://medium.com/p/3a0fbc9bf467) |
-| Wed, 28 May 2025 04:57:24 GMT | My Take on a New Identity Framework for AI Agents | Omar Santos | [Read More](https://medium.com/p/71d718942091) |
-| Wed, 28 May 2025 04:55:38 GMT | $500 Bounty: Shopify Referrer Leak: Hijacking Storefront Access with a Single Token | Monika sharma | [Read More](https://medium.com/p/4edc0de09cff) |
