@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 20:16:12 GMT | Cracking RSA with Fewer Qubits: What Google’s New Quantum Factoring Estimate Means for… | QuantumGenie | [Read More](https://medium.com/p/df26452610ef) |
+| Wed, 28 May 2025 20:07:37 GMT | Cracking Passwords with Hashcat: Wordlist, Mask Attack, and Hybrid Attack Techniques | Esra Kayhan | [Read More](https://medium.com/p/2f16f8913e0e) |
+| Wed, 28 May 2025 20:05:04 GMT | Rumble in the Regulation Jungle — Beyond NIS2 and CRA | Security Consulting Blogspot | [Read More](https://medium.com/p/21a00f1071d5) |
+| Wed, 28 May 2025 20:01:11 GMT | Stuxnet Nasıl Çalıştı? SCADA Sistemlerini Vuran Karmaşık Zararlı Yazılımın Analizi | asliulusoy | [Read More](https://medium.com/p/cf69f2831f26) |
+| Wed, 28 May 2025 19:58:03 GMT | Turn Your Car Into a Comfort Zone | Mitty anego | [Read More](https://medium.com/p/a69ce3d1f40c) |
+| Wed, 28 May 2025 19:39:32 GMT | WannaCry Analizi: Bir Ransomware Saldırısının Anatomisi | asliulusoy | [Read More](https://medium.com/p/1e8ac5d579da) |
+| Wed, 28 May 2025 19:38:51 GMT | SSTI Vulnerability Exploit | Firas Meddeb | [Read More](https://medium.com/p/aca548960dd2) |
+| Wed, 28 May 2025 19:37:26 GMT | Advanced Alert Scenarios with Wazuh: A Proactive Approach to Security | Esra Kayhan | [Read More](https://medium.com/p/741e44f8345d) |
+| Wed, 28 May 2025 19:33:25 GMT | LOT (Latency of Thought) Experiment Analysis | Tomer Wetzler | [Read More](https://medium.com/p/c3b8233551d4) |
+| Wed, 28 May 2025 19:28:29 GMT | Slow Language Model: Timing Rejection to Improve Malicious Prompting | Tomer Wetzler | [Read More](https://medium.com/p/f6533fb2f949) |
 | Wed, 28 May 2025 19:24:32 GMT | How I was able to Delete Any User Post On Tumbler via Chaining vulnerability(0-Click) | 0xshehab | [Read More](https://medium.com/p/2edf63d0c900) |
 | Wed, 28 May 2025 19:23:45 GMT | Everyone’s Scrambling to Learn Tools. You Should Be Studying Frameworks. | A D | [Read More](https://medium.com/p/79690350e525) |
 | Wed, 28 May 2025 19:23:33 GMT | Roadmap belajar CyberSecurity 5 tahun kedepan | nairawr | [Read More](https://medium.com/p/aa6f2b09f9f3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 14:32:26 GMT | CEH Module 1(Lab 2): Performing Footprinting Through Research Services | CyberNinja | [Read More](https://medium.com/p/110102a918be) |
 | Wed, 28 May 2025 14:32:07 GMT | Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages | Ph Eee | [Read More](https://medium.com/p/4c0876afbe35) |
 | Wed, 28 May 2025 14:31:15 GMT | BEC Starts Here: Tracing the First Entry Technique | Kijo Ninja | [Read More](https://medium.com/p/79422217c75c) |
-| Wed, 28 May 2025 14:28:16 GMT | Belajar Jaringan dari Nol: Routing & IP Dasar Pakai Cisco Packet Tracer | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/7e15efc94fa4) |
-| Wed, 28 May 2025 14:26:06 GMT | Bypassing SSL Pinning in Android (with Real APK) | Anandhu K | [Read More](https://medium.com/p/6c2e10c5e639) |
-| Wed, 28 May 2025 14:24:52 GMT | ️ Roadmap Cybersecurity Fast-Track 2025–2030: Menjadi Pakar Cybersecurity & Calon CISO… | Fakihabdulwahab | [Read More](https://medium.com/p/708137b2c577) |
-| Wed, 28 May 2025 14:23:15 GMT | Cybersecurity in 2025: What the World is Facing and How to Stay Ready | TechDemocracy | [Read More](https://medium.com/p/212c4a2aabf9) |
-| Wed, 28 May 2025 14:19:40 GMT | Data Lifecycle Management in Connected Cars: Who Owns What, For How Long — and Why It Matters | Goismo AB | [Read More](https://medium.com/p/5be49e8c55c1) |
-| Wed, 28 May 2025 14:13:35 GMT | Roadmap Saya Dalam Belajar Cyber Security Periode (2025–2030): Beginer -> Intermediate ->… | LuminousVL | [Read More](https://medium.com/p/1f80ab25e8e5) |
-| Wed, 28 May 2025 14:08:31 GMT | ROADMAP 5 TAHUN JADI PENTESTER - From Zero to Cyber Hero ️ | Dixtroiza | [Read More](https://medium.com/p/d8f4cb890b3b) |
-| Wed, 28 May 2025 14:06:25 GMT | Usage of Python in Cybersecurity 1 — Google Cybersecurity Certificate: Create Another Algorithm… | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/5cd500e5a644) |
-| Wed, 28 May 2025 14:04:03 GMT | Why Clicking a Link Could Compromise Your Bank Account — A Guide to CSRF | Odogwu! | [Read More](https://medium.com/p/465e1e5cb896) |
-| Wed, 28 May 2025 14:02:33 GMT | Why I Decided to Pursue a Cybersecurity Master’s Degree | abdeldayemnour | [Read More](https://medium.com/p/08bf35be9b77) |
