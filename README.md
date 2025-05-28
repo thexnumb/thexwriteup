@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 20:30:54 GMT | Building an AI-Powered Threat Defense: A Step-by-Step Guide to Open Source SOAR Integration | Andrei Ivan | [Read More](https://medium.com/p/0b76211ec025) |
+| Wed, 28 May 2025 20:23:37 GMT | The Windows Concept Journey — System Restore | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6c6a817018b0) |
+| Wed, 28 May 2025 20:21:38 GMT | John the Ripper: The Basics - THM | Isiah | [Read More](https://medium.com/p/abbd8722c952) |
+| Wed, 28 May 2025 20:16:37 GMT | BEWARE OF FALLING OBJECTS | E. Mbai | [Read More](https://medium.com/p/17b715b68e29) |
 | Wed, 28 May 2025 20:16:12 GMT | Cracking RSA with Fewer Qubits: What Google’s New Quantum Factoring Estimate Means for… | QuantumGenie | [Read More](https://medium.com/p/df26452610ef) |
 | Wed, 28 May 2025 20:07:37 GMT | Cracking Passwords with Hashcat: Wordlist, Mask Attack, and Hybrid Attack Techniques | Esra Kayhan | [Read More](https://medium.com/p/2f16f8913e0e) |
 | Wed, 28 May 2025 20:05:04 GMT | Rumble in the Regulation Jungle — Beyond NIS2 and CRA | Security Consulting Blogspot | [Read More](https://medium.com/p/21a00f1071d5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 14:44:10 GMT | From National Guide to Global Compliance Architecture; Holistic Approach to Information Security… | Kubra Dalga | [Read More](https://medium.com/p/64263adf900d) |
 | Wed, 28 May 2025 14:42:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/68df475259a1) |
 | Wed, 28 May 2025 14:41:14 GMT | ☕️ Le Cyberistretto du 28 mai ☕️ | Tom Bay | [Read More](https://medium.com/p/5d98266225cf) |
-| Wed, 28 May 2025 14:33:44 GMT | Day 2 — Type of Cyber Attack | Nadeakzzz | [Read More](https://medium.com/p/4524f45787e8) |
-| Wed, 28 May 2025 14:32:26 GMT | CEH Module 1(Lab 2): Performing Footprinting Through Research Services | CyberNinja | [Read More](https://medium.com/p/110102a918be) |
-| Wed, 28 May 2025 14:32:07 GMT | Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages | Ph Eee | [Read More](https://medium.com/p/4c0876afbe35) |
-| Wed, 28 May 2025 14:31:15 GMT | BEC Starts Here: Tracing the First Entry Technique | Kijo Ninja | [Read More](https://medium.com/p/79422217c75c) |
