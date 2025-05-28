@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 10:11:01 GMT | Q-RAN: Quantum Safe O-RAN | Aditya Koranga | [Read More](https://medium.com/p/6f0e99289ca7) |
+| Wed, 28 May 2025 10:07:26 GMT | Why We Ignore Cyber Security Warnings: Learn How to Break Your Bad Habit Loop | Karl Buhl | [Read More](https://medium.com/p/ce8e0cdcc65b) |
+| Wed, 28 May 2025 10:06:16 GMT | Supporting Brampton Community Events with Security: Why It Matters | Diligent Security Services | [Read More](https://medium.com/p/602f00702be0) |
+| Wed, 28 May 2025 10:04:51 GMT | From Tamper Risks to Zero Trust: Securing Mercury’s Edge-Based Access Control Solutions | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/eb73a06f8ce4) |
+| Wed, 28 May 2025 10:03:52 GMT | Secure your assets with cryptoxpress | WissyWeb | [Read More](https://medium.com/p/bf4384417c97) |
+| Wed, 28 May 2025 10:02:32 GMT | Vivatox Review – How I Recovered My Money | Brittney Geist | [Read More](https://medium.com/p/56033bedec0a) |
+| Wed, 28 May 2025 10:01:39 GMT | A Security Tool Without the Fear | Solo Recon | [Read More](https://medium.com/p/ba5b4893177a) |
+| Wed, 28 May 2025 10:01:35 GMT | The Strategy Behind Smarter IT | Reliasourcing Inc. | [Read More](https://medium.com/p/60ef4476b247) |
+| Wed, 28 May 2025 10:00:12 GMT | Here’s How I Recover My Money From Vivatox | Brittney Geist | [Read More](https://medium.com/p/647fc2e910ac) |
+| Wed, 28 May 2025 09:56:27 GMT | Five-Year Roadmap to a Career in Digital Forensics | Kaffahrizal | [Read More](https://medium.com/p/52c24f4a254f) |
+| Wed, 28 May 2025 09:52:00 GMT | Truvecta Review - This Is How you can Recover Your Money. | Amanda.S.mena | [Read More](https://medium.com/p/7220f5ed830e) |
+| Wed, 28 May 2025 09:50:00 GMT | AWS CloudTrail | Arijit Naskar | [Read More](https://medium.com/p/44656ba8d5a8) |
+| Wed, 28 May 2025 09:48:31 GMT | How I Recovered My Money from Truvecta | Amanda.S.mena | [Read More](https://medium.com/p/fcd7ad6381c4) |
+| Wed, 28 May 2025 09:38:54 GMT | 7 Harsh Facts Regarding the Internet That Will Have You Reconsidering Your Screen Time | Asmaabasharat | [Read More](https://medium.com/p/b6c364dd1859) |
+| Wed, 28 May 2025 09:37:50 GMT | Roadmap to become Professional on CyberSec | rahmadalhafidz | [Read More](https://medium.com/p/6ba5475bd08c) |
 | Wed, 28 May 2025 09:33:14 GMT | Cyber Security Salary: Top Roles & Career Prospects | Mindgroom Career Counselling | [Read More](https://medium.com/p/b8d19871b450) |
 | Wed, 28 May 2025 09:32:59 GMT | Relationships Are an Extension of the Self — and That Truth Matters More Than We Admit | Real-Talk | [Read More](https://medium.com/p/ff416c6e6f88) |
 | Wed, 28 May 2025 09:09:52 GMT | Selamat Datang di Dunia Cyber, Apa Itu Keamanan Siber? | Mukti Badriyan | [Read More](https://medium.com/p/81bcdfc8f38d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 04:51:27 GMT | $750 Bounty: for HTTP Reset Password Link in Mattermost | Monika sharma | [Read More](https://medium.com/p/3cc3acdb0f85) |
 | Wed, 28 May 2025 04:51:12 GMT | Day 5: DOM XSS in jQuery anchor href attribute sink using location.search | RayofHope | [Read More](https://medium.com/p/afc598397e24) |
 | Wed, 28 May 2025 04:46:32 GMT | Cybersecurity Best Practices for IT Companies in India: Legal Must-Knows for 2025 | Akhil Mishra | [Read More](https://medium.com/p/f6f017be3f5c) |
-| Wed, 28 May 2025 04:42:17 GMT | ประจำวันพุธที่ 28 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/969c41cd0e79) |
-| Wed, 28 May 2025 04:35:21 GMT | Oman’s Future Secure: Comprehensive Access Control Solutions | Tekshoyabeelyas | [Read More](https://medium.com/p/ce1da457e4bf) |
-| Wed, 28 May 2025 04:34:36 GMT | Understanding Encryption: Data Privacy & Security | Aditya Bhuyan | [Read More](https://medium.com/p/005c665650af) |
-| Wed, 28 May 2025 04:31:38 GMT | Quantum Arms Race: U.S. Defense Intelligence Flags Rivals’ Growing Military Use of Quantum Tech | QuantumGenie | [Read More](https://medium.com/p/b8fb7b234311) |
-| Wed, 28 May 2025 04:31:13 GMT | Critical Windows RD Gateway Vulnerability Exposes Systems to Remote Code Execution | Mohit Kumar | [Read More](https://medium.com/p/3393876105dc) |
-| Wed, 28 May 2025 04:29:26 GMT | Security issues of MCP | Maxi | [Read More](https://medium.com/p/d4abd439b856) |
-| Wed, 28 May 2025 04:23:32 GMT | Understanding Proxies: Forward Proxy vs Reverse Proxy | Varun | [Read More](https://medium.com/p/964e9c9da23d) |
-| Wed, 28 May 2025 04:22:44 GMT | Deobfuscating, Decrypting and Detecting Xenomorph Malware | cano32 | [Read More](https://medium.com/p/5b1e63c59416) |
-| Wed, 28 May 2025 04:11:34 GMT | My eMAPT Certification Journey — Honest Review & Experience (May 2025) | Delta Rahmat Fajar Delviansyah | [Read More](https://medium.com/p/0efef97116a4) |
-| Wed, 28 May 2025 04:00:05 GMT | Inside Window | Carmen Aerise | [Read More](https://medium.com/p/058e77f529e1) |
-| Wed, 28 May 2025 03:52:08 GMT | The Secret of Modern Encryption | SJ Senthil | [Read More](https://medium.com/p/1cad01610b55) |
-| Wed, 28 May 2025 03:51:27 GMT | What is the best programming language for cybersecurity? | Varmora_kush | [Read More](https://medium.com/p/fc81325bf295) |
-| Wed, 28 May 2025 03:47:01 GMT | Sigma Rules to Splunk: From Detection Logic to Real-Time Alerts | Enes Cayvarlı | [Read More](https://medium.com/p/c1c8900ca660) |
-| Wed, 28 May 2025 03:46:44 GMT | War & Cyber: 3 Years of Struggle and Lessons for Global Security | Matthew.Rosenquist | [Read More](https://medium.com/p/17fcadc38a87) |
-| Wed, 28 May 2025 03:42:39 GMT | Confessions of a SOC Analyst: A Day in the Cyber War Room | Cyber Shahrukh | [Read More](https://medium.com/p/0d2cba0473f9) |
