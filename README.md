@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 07:13:58 GMT | The Hidden GPS Tracking Tricks and Server Upgrade That Will Skyrocket Your Fleet Efficiency | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/abf5845bdc46) |
+| Wed, 28 May 2025 07:07:39 GMT | AI Pentesting: Revolutionizing Cybersecurity Solutions | Siemba | [Read More](https://medium.com/p/aa2f286a1eaf) |
+| Wed, 28 May 2025 07:05:51 GMT | OneSpan Race Condition — Duplicate Group Names? Ez Game | FufuFafa | [Read More](https://medium.com/p/e6bfd734850b) |
+| Wed, 28 May 2025 07:00:57 GMT | Beyond Buzzwords: A Realistic 5-Year Cybersecurity Journey by Technical Domains | Fauzan Putra Ramadhan | [Read More](https://medium.com/p/17ecd7048803) |
+| Wed, 28 May 2025 06:59:40 GMT | Mobile Acquisition: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/dc95dbdeead9) |
+| Wed, 28 May 2025 06:55:03 GMT | VPNs, Proxies and Secure Tunnels | Udit | [Read More](https://medium.com/p/016fbcfb20c3) |
+| Wed, 28 May 2025 06:52:33 GMT | Protecting Your Business with Expert Cyber Security Consulting Services | Olivia Smith | [Read More](https://medium.com/p/5c701c612da9) |
+| Wed, 28 May 2025 06:48:12 GMT | Agent Smith: The Autonomous AI That Protects Web3 — And Powers One of the Hottest Tokens Right Now | Daniel Noto | [Read More](https://medium.com/p/52ed161ced3d) |
+| Wed, 28 May 2025 06:44:45 GMT | U.S. Executive Orders Shaping Cybersecurity | Ricardo Newman | [Read More](https://medium.com/p/8bca5c3eb474) |
+| Wed, 28 May 2025 06:43:48 GMT | Africahackon: My First Steps Into the Technical World | Cybersecure | [Read More](https://medium.com/p/8e5c6a0d110d) |
+| Wed, 28 May 2025 06:41:48 GMT | How Data Privacy Laws Impact FinTech Compliance: A Deep Dive | CyRAACS | [Read More](https://medium.com/p/01876ebcabf0) |
+| Wed, 28 May 2025 06:32:36 GMT | TST Technology: How 3 Grads Bootstrapped an Rs. 1,800 Dream Into a Multi-Crore IT Powerhouse | Harsh Savaliya | [Read More](https://medium.com/p/2152048c32f1) |
+| Wed, 28 May 2025 06:30:43 GMT | They Say Love is a Journey, But Why Does Mine Feel Like a War? | Ananya Pandey | [Read More](https://medium.com/p/2800f97d4bb7) |
 | Wed, 28 May 2025 06:27:17 GMT | CyberSecurity Roadmap for the next 5 years. | Farrel Aditya | [Read More](https://medium.com/p/2edb730a1044) |
 | Wed, 28 May 2025 06:21:59 GMT | UiPath API Workflows: Engineering a Scalable & Secure System-to-System Automation Engine | Arghya Chakrabarty | [Read More](https://medium.com/p/6934a59760b3) |
 | Wed, 28 May 2025 06:15:28 GMT | FIREWALL FUNDAMENTALS -- CYBER SECURITY 101 -- TRYHACKME-- | Surbhi_choudhary | [Read More](https://medium.com/p/1b9052c81236) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 23:37:24 GMT | Dear Money, | Autumnmaybeaudoin | [Read More](https://medium.com/p/582f180f8724) |
 | Tue, 27 May 2025 23:20:52 GMT | When the World Applauds Pain | TheGracefulWriter_ | [Read More](https://medium.com/p/ab07c7a4b315) |
 | Tue, 27 May 2025 23:14:40 GMT | Why the OPPO A3 Is the Best Budget Smartphone You Can Buy Right Now (And Where to Get It for Less) | Nipapan Sinpaisansakul | [Read More](https://medium.com/p/6bac6ea4a09d) |
-| Tue, 27 May 2025 23:12:35 GMT | From Chaos to Confidence: What We’re Learning About Securing Open Source Supply Chains | Cyber-AppSec | [Read More](https://medium.com/p/c8f26e26c079) |
-| Tue, 27 May 2025 22:57:40 GMT | SQL Injection: What It Is and How to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/91169f7df74f) |
-| Tue, 27 May 2025 22:52:21 GMT | # ️ Automatiza tu vida digital y protege tus datos como un profesional — sin ser un hacker | Nulltrace | [Read More](https://medium.com/p/0ee641cde59d) |
-| Tue, 27 May 2025 22:43:57 GMT | EG-CTF Finals: WEB-FlagFinder | 0xStrawHat | [Read More](https://medium.com/p/1ffb92a81889) |
-| Tue, 27 May 2025 22:40:09 GMT | BUGCODE_NDIS_DRIVER nel momento in cui click click | octospacc | [Read More](https://medium.com/p/fba39b4ea7ca) |
-| Tue, 27 May 2025 22:17:30 GMT | Automating Information Gathering Using Top 20 Tools | Karthikeyan Nagaraj | [Read More](https://medium.com/p/997588b24d61) |
-| Tue, 27 May 2025 21:58:44 GMT | De-Anonymize, Identify & fingerprint Back-End Infrastructure Using Favicon and Header Hashing: A… | Amir Seyedian | [Read More](https://medium.com/p/c08b09b9011d) |
-| Tue, 27 May 2025 21:52:56 GMT | ARP + DNS Spoofing: Why This MITM Combo Is Dead in 2025 | Yua Mikanana | [Read More](https://medium.com/p/c6c19726be61) |
-| Tue, 27 May 2025 21:52:39 GMT | PoC EXPLOITCVE-2025–1661: Critical Vulnerability in HUSKY WooCommerce Filter Plugin | exploit_machine | [Read More](https://medium.com/p/4502600761a4) |
-| Tue, 27 May 2025 21:36:43 GMT | Trust isn’t a guardrail — it’s a UX pattern | Arielle Caron | [Read More](https://medium.com/p/205775a6ffe8) |
-| Tue, 27 May 2025 21:35:00 GMT | Real Estate Scams to Watch Out For: Stay Safe in Your Property Search | Denise Wittmer | [Read More](https://medium.com/p/dbc70dbef3f8) |
-| Tue, 27 May 2025 21:30:57 GMT | Infrastructure and Automated tests for validation and optimization of security and regression | Adil Faiyaz | [Read More](https://medium.com/p/e9cbfcbfa5ef) |
-| Tue, 27 May 2025 21:13:22 GMT | Securely Manage User Context in Agentforce Using Pre-Chat Variables | Justus van den Berg | [Read More](https://medium.com/p/a35eb039b6e0) |
