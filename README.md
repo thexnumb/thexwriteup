@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 16:24:32 GMT | I’m the Lone Man who Thinks I can make Difference Epi 05 | LoneSoldier1375 | [Read More](https://medium.com/p/672243ef64a9) |
+| Wed, 28 May 2025 16:22:22 GMT | Recovery | Norman Meg | [Read More](https://medium.com/p/c4c31b7efeda) |
+| Wed, 28 May 2025 16:21:03 GMT | Secrets of the Digital Underground: Ethical Hacking in the Age of AI & Quantum Computing | Shaheer Yasir | [Read More](https://medium.com/p/7e3ba1774722) |
+| Wed, 28 May 2025 16:20:58 GMT | Zero Trust Doesn’t Have to Break the Bank: Affordable Solutions for Small and Medium Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/ddc3dcd895c9) |
+| Wed, 28 May 2025 16:15:13 GMT | Network Topologies | Mazhar Imran | [Read More](https://medium.com/p/7b88245fd93f) |
+| Wed, 28 May 2025 16:11:30 GMT | CyberSecurity Roadmap: My Version | Fachri | [Read More](https://medium.com/p/e75048c7577f) |
+| Wed, 28 May 2025 16:08:55 GMT | Data leaked? How to check it! | Alesei Narkevitch | [Read More](https://medium.com/p/f999d91a5dee) |
+| Wed, 28 May 2025 16:06:12 GMT | Roadmap For Cyber Security In The Blue Team | Daarin | [Read More](https://medium.com/p/ae9b25721ac2) |
+| Wed, 28 May 2025 16:03:31 GMT | Analysis - Securing the Future: Recommendations for U.S. Policy on Critical Minerals | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/cbf5b2e8f08a) |
+| Wed, 28 May 2025 16:02:35 GMT | Why DMZs Don’t Always Cut It Anymore | Bobby Johns | [Read More](https://medium.com/p/252f7da333dd) |
+| Wed, 28 May 2025 16:01:09 GMT | Malicious Document Analysis Walkthrough — LetsDefend | md_ashmar | [Read More](https://medium.com/p/3a0e71a620b2) |
+| Wed, 28 May 2025 16:00:52 GMT | How I Bypassed a Famous Regional Newspaper’s Subscription Plan By Http Response Manipulation | Vivek PS | [Read More](https://medium.com/p/ac5bd9d2eaea) |
+| Wed, 28 May 2025 15:55:47 GMT | They Said ChatGPT Was Safe… They Lied | Wassam Rehman | [Read More](https://medium.com/p/39e42d11a3c8) |
+| Wed, 28 May 2025 15:55:32 GMT | Exploiting Windows 7 | Karthik | [Read More](https://medium.com/p/89115cb0b10c) |
+| Wed, 28 May 2025 15:54:33 GMT | The House Next Door: Why the World Can No Longer Ignore Pakistan’s Terror Dilemma | Aman Kumar | [Read More](https://medium.com/p/5feb7ab89c6e) |
+| Wed, 28 May 2025 15:53:29 GMT | Tracing the Threat: How Cyberattacks Unfold and What You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/40be717a57d7) |
+| Wed, 28 May 2025 15:53:16 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/99d6c21d78c9) |
+| Wed, 28 May 2025 15:48:58 GMT | How Malware Infects Your Devices: Common Entry Points You Ignore | Akshay Chauhan | [Read More](https://medium.com/p/82d31e8280ec) |
+| Wed, 28 May 2025 15:47:29 GMT | A Eureka Moment Gold Rush | Chixtig_MetaForce | [Read More](https://medium.com/p/e37216c65c27) |
+| Wed, 28 May 2025 15:41:20 GMT | A Pen Tester’s Dive into May 2025’s Hottest Cyber Threats | hackerguy | [Read More](https://medium.com/p/01f1747f9359) |
+| Wed, 28 May 2025 15:39:54 GMT | Understanding “Shall”, “Should”, “May”, and “Can” in ISO Standards | Ramazan Bolat | [Read More](https://medium.com/p/9bb650f7bfcc) |
 | Wed, 28 May 2025 15:30:33 GMT | Uncovering Hidden Signup Pages for Bug Bounty Hunting | Dharanis | [Read More](https://medium.com/p/14aca3f9d297) |
 | Wed, 28 May 2025 15:28:17 GMT | How Web Cache Poisoning via Unkeyed Query Strings Can Lead to Reflected XSS | Bash Overflow | [Read More](https://medium.com/p/0c0ce45cb5d9) |
 | Wed, 28 May 2025 15:25:42 GMT | Spidering in Security | Natarajan C K | [Read More](https://medium.com/p/104900f56836) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 12:01:38 GMT | How Hackers Infiltrate Social Media in 2025 | Labib Yasir | [Read More](https://medium.com/p/b8c205f381f2) |
 | Wed, 28 May 2025 11:59:54 GMT | How Smart Glasses Can Help the Working Class: A Project to Ease Human Labor | Mr. RoMe0 | [Read More](https://medium.com/p/2229ee657a10) |
 | Wed, 28 May 2025 11:58:42 GMT | Storage Isolation in Kubernetes Using NFS: subPathExpr vs. StatefulSets | Ramkrushna Maheshwar | [Read More](https://medium.com/p/daf5efecc5f2) |
-| Wed, 28 May 2025 11:57:04 GMT | The Rise of Freelance Hackers in 2025 | Labib Yasir | [Read More](https://medium.com/p/0cffb59daf43) |
-| Wed, 28 May 2025 11:55:39 GMT | Maximizing Web Security with Cypress - Updated for 2025 | Sourojit Das | [Read More](https://medium.com/p/2d8e745ac18e) |
-| Wed, 28 May 2025 11:51:07 GMT | AI-Enhanced Phishing Emails: The New Frontier in Cybersecurity Threats | Taufiq Sediqi | [Read More](https://medium.com/p/d15f2099b1e3) |
-| Wed, 28 May 2025 11:50:04 GMT | Why So Many Tech Giants Are Laying Off Employees in 2025 — What’s Really Going On? | Hafizbilaltariq | [Read More](https://medium.com/p/1e40a4b82eb3) |
-| Wed, 28 May 2025 11:29:33 GMT | Armed vs. Unarmed Security: Choosing the Right Private Security Services for Your Property | Sentrysofficers | [Read More](https://medium.com/p/98b440928189) |
-| Wed, 28 May 2025 11:26:18 GMT | Ready to Become a Cybersecurity Expert? | SoftApp Technologies | [Read More](https://medium.com/p/c655d1c51456) |
-| Wed, 28 May 2025 11:24:22 GMT | The Power of Vulnerability: Sharing Stories, Shaping Connections | Coley B. | [Read More](https://medium.com/p/96cc1ae18ef8) |
-| Wed, 28 May 2025 11:23:40 GMT | Choosing the Right Managed IT Services Provider | Uplevel Systems | [Read More](https://medium.com/p/e2ec954599e0) |
-| Wed, 28 May 2025 11:22:34 GMT | The Critical Security Risks Hiding in Your Software Stack Today | Centric Consulting | [Read More](https://medium.com/p/989a07481ebf) |
-| Wed, 28 May 2025 11:06:49 GMT | Why Multi-Factor Authentication Matters: A Guide I Wrote After Getting Hacked. | Rabia Riaz | [Read More](https://medium.com/p/9dc20c632cba) |
-| Wed, 28 May 2025 11:00:56 GMT | Phishing Email Content with Personalized Context Data Generation | Kami | [Read More](https://medium.com/p/f17c6b4cd819) |
-| Wed, 28 May 2025 10:56:47 GMT | SQL injection vulnerability allowing login bypass | Rachael Muga | [Read More](https://medium.com/p/8a33b9c3d4cd) |
-| Wed, 28 May 2025 10:49:39 GMT | Over 70 Malicious npm and VS Code Packages Uncovered: A Wake-Up Call for Developer Supply Chain… | Mithra Consulting | [Read More](https://medium.com/p/521fe3172b89) |
-| Wed, 28 May 2025 10:38:12 GMT | I Could Explain Every Emotion I Had — But I Couldn’t Feel Any of Them | Namrata Singh | [Read More](https://medium.com/p/53889b2b9a7d) |
-| Wed, 28 May 2025 10:31:00 GMT | Not Links. Not OTPs. Just a WhatsApp Image — and Boom, You’re Hacked! | Navigtech | [Read More](https://medium.com/p/fac485034403) |
-| Wed, 28 May 2025 10:28:45 GMT | SSTI (Server-Side Template Injection): Gerçek Hayattan Bir Lab Ortamı ile Zafiyetten RCE’ye | Onur Civan | [Read More](https://medium.com/p/6c60b4ed9226) |
-| Wed, 28 May 2025 10:28:15 GMT | A Scandal in Valdoria - KC7 Walkthrough | PhishMonger | [Read More](https://medium.com/p/a81037255928) |
-| Wed, 28 May 2025 10:21:14 GMT | Kubernetes + NFS: Scalable and Shared Storage | Ramkrushna Maheshwar | [Read More](https://medium.com/p/273cacc247c7) |
-| Wed, 28 May 2025 10:19:47 GMT | Choosing the Right Secure Web Browser for Azure Deployments | Lingala kondareddy | [Read More](https://medium.com/p/76575a75cd4c) |
-| Wed, 28 May 2025 10:11:01 GMT | Q-RAN: Quantum Safe O-RAN | Aditya Koranga | [Read More](https://medium.com/p/6f0e99289ca7) |
-| Wed, 28 May 2025 10:07:26 GMT | Why We Ignore Cyber Security Warnings: Learn How to Break Your Bad Habit Loop | Karl Buhl | [Read More](https://medium.com/p/ce8e0cdcc65b) |
