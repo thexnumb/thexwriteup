@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 19:24:32 GMT | How I was able to Delete Any User Post On Tumbler via Chaining vulnerability(0-Click) | 0xshehab | [Read More](https://medium.com/p/2edf63d0c900) |
+| Wed, 28 May 2025 19:23:45 GMT | Everyone’s Scrambling to Learn Tools. You Should Be Studying Frameworks. | A D | [Read More](https://medium.com/p/79690350e525) |
+| Wed, 28 May 2025 19:23:33 GMT | Roadmap belajar CyberSecurity 5 tahun kedepan | nairawr | [Read More](https://medium.com/p/aa6f2b09f9f3) |
+| Wed, 28 May 2025 19:21:12 GMT | Comprehensive Analysis: Timing-Based Attacks on Large Language Models | Tomer Wetzler | [Read More](https://medium.com/p/93e1539092b5) |
+| Wed, 28 May 2025 19:19:16 GMT | How to achieve the obstacle | Abdimulatu | [Read More](https://medium.com/p/b73699360466) |
+| Wed, 28 May 2025 19:19:00 GMT | Interlock Ransomware Gang Deploys NodeSnake RAT on Universities | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/ae82c40ce37a) |
 | Wed, 28 May 2025 19:12:41 GMT | 184 Million Logins Leaked? — What You Need to Know (and Do) | Jim Walker | [Read More](https://medium.com/p/28b4384e942c) |
+| Wed, 28 May 2025 19:08:22 GMT | War Rooms: When Production Breaks and So Do We | Stargazer | [Read More](https://medium.com/p/f546266d67c6) |
 | Wed, 28 May 2025 19:07:26 GMT | What Is a Cybersecurity Audit? A Complete Beginner’s Guide | Rutter-Net | [Read More](https://medium.com/p/a31dc94cee09) |
 | Wed, 28 May 2025 19:07:12 GMT | Book Review — Cybersecurity Tabletop Exercises: From Planning to Execution by Robert Lelewski and… | Michael Lortz | [Read More](https://medium.com/p/6c1a250cd385) |
 | Wed, 28 May 2025 19:05:57 GMT | HackingHub Lab: Scam Artists — API Hacking & Reverse Proxy Basics.NahamSec | Rohit Pawar | [Read More](https://medium.com/p/b9b6ffd9cf90) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 14:06:25 GMT | Usage of Python in Cybersecurity 1 — Google Cybersecurity Certificate: Create Another Algorithm… | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/5cd500e5a644) |
 | Wed, 28 May 2025 14:04:03 GMT | Why Clicking a Link Could Compromise Your Bank Account — A Guide to CSRF | Odogwu! | [Read More](https://medium.com/p/465e1e5cb896) |
 | Wed, 28 May 2025 14:02:33 GMT | Why I Decided to Pursue a Cybersecurity Master’s Degree | abdeldayemnour | [Read More](https://medium.com/p/08bf35be9b77) |
-| Wed, 28 May 2025 13:59:59 GMT | How I discovered Reflected XSS in GoldAcademy. | Lime | [Read More](https://medium.com/p/257b69a14be8) |
-| Wed, 28 May 2025 13:59:59 GMT | Cyber Briefing: 2025.05.28 | CyberMaterial | [Read More](https://medium.com/p/9b901b3ae945) |
-| Wed, 28 May 2025 13:58:43 GMT | The Informatica Azure Power Behind Big Data | Sadaqat Hayat | [Read More](https://medium.com/p/52ea80d25286) |
-| Wed, 28 May 2025 13:55:28 GMT | From Ordinary Student to IIT Speaker | Satyam Pathania | [Read More](https://medium.com/p/7893c31d7d7f) |
-| Wed, 28 May 2025 13:55:03 GMT | Niyə Qadınlar Kibertəhlükəsizlik Sahəsində Daha Azdır? | alizadasec | [Read More](https://medium.com/p/2633b3b84a29) |
-| Wed, 28 May 2025 13:51:39 GMT | The Library of Alexandria: Ancient Knowledge Management Gone Wrong | Petra Ivanigova | [Read More](https://medium.com/p/35fcf34412bf) |
-| Wed, 28 May 2025 13:46:45 GMT | The Real Reason Your EC2 Auto Scaling Crashes with KMS Encrypted AMIs | Wassim Suilah | [Read More](https://medium.com/p/7eaf8b274c70) |
