@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 04:22:44 GMT | Deobfuscating, Decrypting and Detecting Xenomorph Malware | cano32 | [Read More](https://medium.com/p/5b1e63c59416) |
+| Wed, 28 May 2025 04:11:34 GMT | My eMAPT Certification Journey — Honest Review & Experience (May 2025) | Delta Rahmat Fajar Delviansyah | [Read More](https://medium.com/p/0efef97116a4) |
+| Wed, 28 May 2025 04:00:05 GMT | Inside Window | Carmen Aerise | [Read More](https://medium.com/p/058e77f529e1) |
 | Wed, 28 May 2025 03:52:08 GMT | The Secret of Modern Encryption | SJ Senthil | [Read More](https://medium.com/p/1cad01610b55) |
 | Wed, 28 May 2025 03:51:27 GMT | What is the best programming language for cybersecurity? | Varmora_kush | [Read More](https://medium.com/p/fc81325bf295) |
 | Wed, 28 May 2025 03:47:01 GMT | Sigma Rules to Splunk: From Detection Logic to Real-Time Alerts | Enes Cayvarlı | [Read More](https://medium.com/p/c1c8900ca660) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 May 2025 18:33:15 GMT | Unlocking the Gates: Essential REST API Authentication Methods Every Developer Must Master | Deepak Gupta | [Read More](https://medium.com/p/6accdae0e173) |
 | Tue, 27 May 2025 18:32:44 GMT | DeFi must learn from crypto hacks | 1inch | [Read More](https://medium.com/p/31c0c04dd0d5) |
 | Tue, 27 May 2025 18:29:49 GMT | SQL Injection: What It Is and How to Stop It | SafeAeon Inc. | [Read More](https://medium.com/p/73646b811119) |
-| Tue, 27 May 2025 18:26:47 GMT | MATLAB Ransomware Attack Behind Major Service Outage | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/a77d7d774a93) |
-| Tue, 27 May 2025 18:25:22 GMT | Spring Boot Secrets Management Is Broken Without This — Vault vs AWS Secrets Manager | Kanha | [Read More](https://medium.com/p/c08f81502bfe) |
-| Tue, 27 May 2025 18:21:06 GMT | Malicious npm Package Impersonating Popular Express Cookie Parser | Abhisek Datta | [Read More](https://medium.com/p/2eb4043bc6a4) |
