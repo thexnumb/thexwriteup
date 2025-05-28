@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 17:23:47 GMT | How Convolutional Neural Networks (CNNs) are Advancing Security Systems in Finance | Hammad Qazi | [Read More](https://medium.com/p/f473d3615989) |
+| Wed, 28 May 2025 17:17:44 GMT | Build What Most Won’t | Ali Sahad | [Read More](https://medium.com/p/7841b9eb4f8c) |
+| Wed, 28 May 2025 17:16:34 GMT | PCI DSS in Canada: 5 Common Mistakes Businesses Make | Feroot Security | [Read More](https://medium.com/p/32e6148afed0) |
+| Wed, 28 May 2025 17:13:33 GMT | Welcome to my personal space! | rnnull | [Read More](https://medium.com/p/ff930acd42a8) |
 | Wed, 28 May 2025 17:11:30 GMT | Mastering XSS for Beginners: From Alert Boxes to Session Hijacking | Rabbiyatabassum | [Read More](https://medium.com/p/4bb0a419840a) |
 | Wed, 28 May 2025 17:04:10 GMT | My AndroGoat Journey: Deep Dive into Network Intercepting | Damara Brian | [Read More](https://medium.com/p/f19fa5ec239d) |
 | Wed, 28 May 2025 17:03:16 GMT | SC 900 is just an Appetizer: Why SC 900 Isn’t Enough without Sec+ and Hands-On training. | CyberHarv : Down the Rabbit Hole Chronicles | [Read More](https://medium.com/p/a5fd53b1bd21) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 12:57:17 GMT | Top 10 Summer Scams of 2025: Stay Safe with These Tips | marketing.forfend | [Read More](https://medium.com/p/0bf94d055e08) |
 | Wed, 28 May 2025 12:54:35 GMT | Internet Par Safe Kaise Rahein? - 1Password Manager | FogoChainIndia | [Read More](https://medium.com/p/62d7f4acc29a) |
 | Wed, 28 May 2025 12:53:42 GMT | Data-Driven Collaboration Using Metrics to Build Common Ground. | SecOps | [Read More](https://medium.com/p/e5b1def7506d) |
-| Wed, 28 May 2025 12:42:27 GMT | Advanced Attacks with Process Injection and Hollowing Techniques | Esra Kayhan | [Read More](https://medium.com/p/397fd4311a3b) |
-| Wed, 28 May 2025 12:33:47 GMT | Pentesting Fundamentals - TryHackME | mahita kodela | [Read More](https://medium.com/p/8bd36323ca80) |
-| Wed, 28 May 2025 12:28:50 GMT | Topi Koboi di Dunia Siber: Siapa Kamu di Balik Keyboard? | Febrian | [Read More](https://medium.com/p/5a317d0109a7) |
-| Wed, 28 May 2025 12:27:24 GMT | 30 Days of Cyber Security — Day 2: CIA Triad, Pilar dari Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/99d51106fe3d) |
