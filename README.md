@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 15:07:14 GMT | The Ultimate 5-Year Cybersecurity Roadmap From Absolute Beginner | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/5d504d6781cb) |
+| Wed, 28 May 2025 15:05:44 GMT | The Ultimate XRP Hardware Wallet Guide(Cold Storage) | Jelmer Steenhuis | [Read More](https://medium.com/p/1672a95f0ed6) |
+| Wed, 28 May 2025 15:05:25 GMT | “awk” ile Log Analizi, Scriptlerle Gerçek Dünya Örnekleri | Tarik Zeybek | [Read More](https://medium.com/p/82b0821f1178) |
+| Wed, 28 May 2025 15:04:09 GMT | You’re Not Paranoid, Just Unprotected: How Everyday Apps Are Tracking You | Rachel The Storyteller | [Read More](https://medium.com/p/85b3f4b0f150) |
+| Wed, 28 May 2025 15:02:29 GMT | Secure Protocols: HTTPS, TLS, SSH vs. Telnet, and Capturing SSL/TLS Handshakes | Agarwaldaksh | [Read More](https://medium.com/p/86928757d731) |
+| Wed, 28 May 2025 14:58:57 GMT | Cisco: Pioneering the Future of Networking, Security, and AI Innovation | ciscoofficial | [Read More](https://medium.com/p/325ebcaa9244) |
+| Wed, 28 May 2025 14:57:32 GMT | Welcome to BountyGame17.online — Your Next Gaming Obsession Starts Here! | Bounty Game | [Read More](https://medium.com/p/549edadd13cb) |
+| Wed, 28 May 2025 14:52:24 GMT | Day 13 of #60DaysofGRC: How to Build Cybersecurity Awareness That Actually Works | Brittney Ginther | [Read More](https://medium.com/p/c05fb24ff7d3) |
+| Wed, 28 May 2025 14:46:27 GMT | Why Cryptography Is the Unsung Hero of Cybersecurity | Amelia Miller | [Read More](https://medium.com/p/66765d694df2) |
+| Wed, 28 May 2025 14:44:10 GMT | From National Guide to Global Compliance Architecture; Holistic Approach to Information Security… | Kubra Dalga | [Read More](https://medium.com/p/64263adf900d) |
+| Wed, 28 May 2025 14:42:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/68df475259a1) |
+| Wed, 28 May 2025 14:41:14 GMT | ☕️ Le Cyberistretto du 28 mai ☕️ | Tom Bay | [Read More](https://medium.com/p/5d98266225cf) |
 | Wed, 28 May 2025 14:33:44 GMT | Day 2 — Type of Cyber Attack | Nadeakzzz | [Read More](https://medium.com/p/4524f45787e8) |
 | Wed, 28 May 2025 14:32:26 GMT | CEH Module 1(Lab 2): Performing Footprinting Through Research Services | CyberNinja | [Read More](https://medium.com/p/110102a918be) |
 | Wed, 28 May 2025 14:32:07 GMT | Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages | Ph Eee | [Read More](https://medium.com/p/4c0876afbe35) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 10:06:16 GMT | Supporting Brampton Community Events with Security: Why It Matters | Diligent Security Services | [Read More](https://medium.com/p/602f00702be0) |
 | Wed, 28 May 2025 10:04:51 GMT | From Tamper Risks to Zero Trust: Securing Mercury’s Edge-Based Access Control Solutions | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/eb73a06f8ce4) |
 | Wed, 28 May 2025 10:03:52 GMT | Secure your assets with cryptoxpress | WissyWeb | [Read More](https://medium.com/p/bf4384417c97) |
-| Wed, 28 May 2025 10:02:32 GMT | Vivatox Review – How I Recovered My Money | Brittney Geist | [Read More](https://medium.com/p/56033bedec0a) |
-| Wed, 28 May 2025 10:01:39 GMT | A Security Tool Without the Fear | Solo Recon | [Read More](https://medium.com/p/ba5b4893177a) |
-| Wed, 28 May 2025 10:01:35 GMT | The Strategy Behind Smarter IT | Reliasourcing Inc. | [Read More](https://medium.com/p/60ef4476b247) |
-| Wed, 28 May 2025 10:00:12 GMT | Here’s How I Recover My Money From Vivatox | Brittney Geist | [Read More](https://medium.com/p/647fc2e910ac) |
-| Wed, 28 May 2025 09:56:27 GMT | Five-Year Roadmap to a Career in Digital Forensics | Kaffahrizal | [Read More](https://medium.com/p/52c24f4a254f) |
-| Wed, 28 May 2025 09:52:00 GMT | Truvecta Review - This Is How you can Recover Your Money. | Amanda.S.mena | [Read More](https://medium.com/p/7220f5ed830e) |
-| Wed, 28 May 2025 09:50:00 GMT | AWS CloudTrail | Arijit Naskar | [Read More](https://medium.com/p/44656ba8d5a8) |
-| Wed, 28 May 2025 09:48:31 GMT | How I Recovered My Money from Truvecta | Amanda.S.mena | [Read More](https://medium.com/p/fcd7ad6381c4) |
-| Wed, 28 May 2025 09:38:54 GMT | 7 Harsh Facts Regarding the Internet That Will Have You Reconsidering Your Screen Time | Asmaabasharat | [Read More](https://medium.com/p/b6c364dd1859) |
-| Wed, 28 May 2025 09:37:50 GMT | Roadmap to become Professional on CyberSec | rahmadalhafidz | [Read More](https://medium.com/p/6ba5475bd08c) |
-| Wed, 28 May 2025 09:33:14 GMT | Cyber Security Salary: Top Roles & Career Prospects | Mindgroom Career Counselling | [Read More](https://medium.com/p/b8d19871b450) |
-| Wed, 28 May 2025 09:32:59 GMT | Relationships Are an Extension of the Self — and That Truth Matters More Than We Admit | Real-Talk | [Read More](https://medium.com/p/ff416c6e6f88) |
