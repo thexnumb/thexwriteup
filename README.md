@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 May 2025 14:33:44 GMT | Day 2 — Type of Cyber Attack | Nadeakzzz | [Read More](https://medium.com/p/4524f45787e8) |
+| Wed, 28 May 2025 14:32:26 GMT | CEH Module 1(Lab 2): Performing Footprinting Through Research Services | CyberNinja | [Read More](https://medium.com/p/110102a918be) |
+| Wed, 28 May 2025 14:32:07 GMT | Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages | Ph Eee | [Read More](https://medium.com/p/4c0876afbe35) |
+| Wed, 28 May 2025 14:31:15 GMT | BEC Starts Here: Tracing the First Entry Technique | Kijo Ninja | [Read More](https://medium.com/p/79422217c75c) |
+| Wed, 28 May 2025 14:28:16 GMT | Belajar Jaringan dari Nol: Routing & IP Dasar Pakai Cisco Packet Tracer | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/7e15efc94fa4) |
+| Wed, 28 May 2025 14:26:06 GMT | Bypassing SSL Pinning in Android (with Real APK) | Anandhu K | [Read More](https://medium.com/p/6c2e10c5e639) |
+| Wed, 28 May 2025 14:24:52 GMT | ️ Roadmap Cybersecurity Fast-Track 2025–2030: Menjadi Pakar Cybersecurity & Calon CISO… | Fakihabdulwahab | [Read More](https://medium.com/p/708137b2c577) |
+| Wed, 28 May 2025 14:23:15 GMT | Cybersecurity in 2025: What the World is Facing and How to Stay Ready | TechDemocracy | [Read More](https://medium.com/p/212c4a2aabf9) |
+| Wed, 28 May 2025 14:19:40 GMT | Data Lifecycle Management in Connected Cars: Who Owns What, For How Long — and Why It Matters | Goismo AB | [Read More](https://medium.com/p/5be49e8c55c1) |
+| Wed, 28 May 2025 14:13:35 GMT | Roadmap Saya Dalam Belajar Cyber Security Periode (2025–2030): Beginer -> Intermediate ->… | LuminousVL | [Read More](https://medium.com/p/1f80ab25e8e5) |
 | Wed, 28 May 2025 14:08:31 GMT | ROADMAP 5 TAHUN JADI PENTESTER - From Zero to Cyber Hero ️ | Dixtroiza | [Read More](https://medium.com/p/d8f4cb890b3b) |
 | Wed, 28 May 2025 14:06:25 GMT | Usage of Python in Cybersecurity 1 — Google Cybersecurity Certificate: Create Another Algorithm… | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/5cd500e5a644) |
 | Wed, 28 May 2025 14:04:03 GMT | Why Clicking a Link Could Compromise Your Bank Account — A Guide to CSRF | Odogwu! | [Read More](https://medium.com/p/465e1e5cb896) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 09:37:50 GMT | Roadmap to become Professional on CyberSec | rahmadalhafidz | [Read More](https://medium.com/p/6ba5475bd08c) |
 | Wed, 28 May 2025 09:33:14 GMT | Cyber Security Salary: Top Roles & Career Prospects | Mindgroom Career Counselling | [Read More](https://medium.com/p/b8d19871b450) |
 | Wed, 28 May 2025 09:32:59 GMT | Relationships Are an Extension of the Self — and That Truth Matters More Than We Admit | Real-Talk | [Read More](https://medium.com/p/ff416c6e6f88) |
-| Wed, 28 May 2025 09:09:52 GMT | Selamat Datang di Dunia Cyber, Apa Itu Keamanan Siber? | Mukti Badriyan | [Read More](https://medium.com/p/81bcdfc8f38d) |
-| Wed, 28 May 2025 09:08:24 GMT | Looking for Cybersecurity Companies in Delhi? Here’s What to Expect | Kameshwar Prasad | [Read More](https://medium.com/p/14c3f8896779) |
-| Wed, 28 May 2025 09:02:17 GMT | ViciousTrap Botnet Exploits Cisco Flaw to Expand IoT Attack Arsenal | CyBlog | [Read More](https://medium.com/p/539be987ddc3) |
-| Wed, 28 May 2025 09:01:35 GMT | Cyber Security Courses In UK | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/18f0c49633ee) |
-| Wed, 28 May 2025 09:00:32 GMT | Why CCTV is Essential for Security: Top Benefits for Homes and Businesses | Nestrondigitalhub | [Read More](https://medium.com/p/ec0fdab7bea9) |
-| Wed, 28 May 2025 08:45:12 GMT | Stop Fake Signups Before They Happen: Why It Matters More Than You Think | OnSefy | [Read More](https://medium.com/p/d5325fae6908) |
-| Wed, 28 May 2025 08:41:22 GMT | Congress sets SocMed rules | Aimiella Calayag | [Read More](https://medium.com/p/8685ca2fe55f) |
-| Wed, 28 May 2025 08:39:13 GMT | L’inondation, l’usine en danger ? | Florent M | [Read More](https://medium.com/p/7565c3c7419b) |
-| Wed, 28 May 2025 08:32:11 GMT | Mitigating IPv6 Spoofing and Disabling NetBIOS/mDNS/LLMNR Attacks | Osama Ahmed Khan | [Read More](https://medium.com/p/488152fb0869) |
-| Wed, 28 May 2025 08:18:56 GMT | Security Why After Hours Security Services Are Essential for Every Business | Lionza Security | [Read More](https://medium.com/p/76f7b94d265f) |
