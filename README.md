@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 22:56:52 GMT | Write-up PicoCTF (Capture The Flag) — Roboto Sans | Sérgio Corrêa | [Read More](https://medium.com/p/8992c3f756d0) |
+| Thu, 29 May 2025 22:52:16 GMT | Triangular Distribution, Monte Carlo Simulations, and CDF: The Foundations of Cyber Risk… | Mehdi | [Read More](https://medium.com/p/fc7ba9838944) |
 | Thu, 29 May 2025 22:32:27 GMT | LOFI WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/c09070d2d824) |
 | Thu, 29 May 2025 22:31:59 GMT | Siber Tehdit İstihbaratı Nedir? | EmreYİĞİT | [Read More](https://medium.com/p/03b5557559a3) |
 | Thu, 29 May 2025 22:24:34 GMT | STUXNet: Dijital Dünyanın İlk Siber Silahı | Hasan Çavdar | [Read More](https://medium.com/p/3476e23900bd) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 16:20:27 GMT | Vulnérabilités et ragots | Florent M | [Read More](https://medium.com/p/07ff93ab7ccc) |
 | Thu, 29 May 2025 16:18:09 GMT | 99% of Cyberattacks Succeed Because of You — Here’s How to Stop Being the Weakest Link | Kaif Tarasgar | [Read More](https://medium.com/p/683ffc23a9b2) |
 | Thu, 29 May 2025 16:17:17 GMT | Roadmap Cybersecurity 5 Tahun: Menjadi Profesional Keamanan Siber di Era Industri 4.0 | AjiPangesstu | [Read More](https://medium.com/p/f1e5e783154a) |
-| Thu, 29 May 2025 16:13:12 GMT | 30 Days of Cyber Security — Day 3: Roles in Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/c2f31239c100) |
-| Thu, 29 May 2025 16:13:08 GMT | The Storm Before the Storm | Imane Errayes | [Read More](https://medium.com/p/b96bbc007e52) |
