@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 05:10:50 GMT | CVE-2025–4687 ( Pre-Account takeover through invite on Teletonika RMS website ) | jowin922 | [Read More](https://medium.com/p/972335378829) |
+| Thu, 29 May 2025 05:10:31 GMT | The Role of Artificial Intelligence in Enhancing Cybersecurity Defense Mechanisms | Pallav Kumar Kaulwar | [Read More](https://medium.com/p/b8f3f28c6534) |
+| Thu, 29 May 2025 05:07:34 GMT | Puppy Writeup - Seasons 8 - HackTheBox | محمد بن إبراهيم | [Read More](https://medium.com/p/a16fbd265607) |
+| Thu, 29 May 2025 04:59:29 GMT | What is Web Browser Forensics? | InfosecTrain | [Read More](https://medium.com/p/ed027c141a66) |
+| Thu, 29 May 2025 04:57:18 GMT | EG-CERT CTF25 Flog: Nowadays Arch Issues | Sayed Abdelhafiz | [Read More](https://medium.com/p/acd6afa46b63) |
+| Thu, 29 May 2025 04:46:08 GMT | Wireguard client as a Kubernetes pod sidecar | Arkadii Emelianov | [Read More](https://medium.com/p/2f35ff15163c) |
+| Thu, 29 May 2025 04:40:15 GMT | Github Hacking NCSA mooc | piyawut buncharoen | [Read More](https://medium.com/p/1f78f6f4de91) |
+| Thu, 29 May 2025 04:38:00 GMT | MS Sentinel: Investigate - Azure Defense - TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/bbd18804967a) |
+| Thu, 29 May 2025 04:27:32 GMT | How GPT-4o Found a Linux Kernel Zero-Day — and What It Means for AI in Security | Aaron | [Read More](https://medium.com/p/869a662e0e04) |
 | Thu, 29 May 2025 04:19:40 GMT | Should Post-Quantum Cryptography Start Now? The Clock Is Ticking | QuantumGenie | [Read More](https://medium.com/p/a6d9a2959168) |
+| Thu, 29 May 2025 04:07:18 GMT | Roadmap Cyber Security 5 Tahun ke Depan — “Dari Pemula Jadi Profesional yang Ditakuti Hacker” | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/07cd0eceb10b) |
 | Thu, 29 May 2025 04:04:28 GMT | ️ Cyber Council: Empowering Digital Safety and Legal Awareness in India | Francis Samuvel | [Read More](https://medium.com/p/9121ec312300) |
 | Thu, 29 May 2025 03:54:54 GMT | Cybersecurity Chronicles - CISSP domains through lens of Heroes! | CyberGRC Simplified | [Read More](https://medium.com/p/72ea2d5a2c06) |
 | Thu, 29 May 2025 03:54:45 GMT | A $2M Phishing Scam: How One Email Crushed a Company | Ahmad Javed | [Read More](https://medium.com/p/90b92449b70e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 19:19:16 GMT | How to achieve the obstacle | Abdimulatu | [Read More](https://medium.com/p/b73699360466) |
 | Wed, 28 May 2025 19:19:00 GMT | Interlock Ransomware Gang Deploys NodeSnake RAT on Universities | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/ae82c40ce37a) |
 | Wed, 28 May 2025 19:12:41 GMT | 184 Million Logins Leaked? — What You Need to Know (and Do) | Jim Walker | [Read More](https://medium.com/p/28b4384e942c) |
-| Wed, 28 May 2025 19:08:22 GMT | War Rooms: When Production Breaks and So Do We | Stargazer | [Read More](https://medium.com/p/f546266d67c6) |
-| Wed, 28 May 2025 19:07:26 GMT | What Is a Cybersecurity Audit? A Complete Beginner’s Guide | Rutter-Net | [Read More](https://medium.com/p/a31dc94cee09) |
-| Wed, 28 May 2025 19:07:12 GMT | Book Review — Cybersecurity Tabletop Exercises: From Planning to Execution by Robert Lelewski and… | Michael Lortz | [Read More](https://medium.com/p/6c1a250cd385) |
-| Wed, 28 May 2025 19:05:57 GMT | HackingHub Lab: Scam Artists — API Hacking & Reverse Proxy Basics.NahamSec | Rohit Pawar | [Read More](https://medium.com/p/b9b6ffd9cf90) |
-| Wed, 28 May 2025 19:02:06 GMT | My AndroGoat Journey: Deep Dive into Unprotected Android Components | Damara Brian | [Read More](https://medium.com/p/f3ba7c4bbb22) |
-| Wed, 28 May 2025 18:41:29 GMT | I want to run | Tolulope Akinlabi | [Read More](https://medium.com/p/62d9cd83118e) |
-| Wed, 28 May 2025 18:36:34 GMT | “3 Simple Reasons You’ll Wish You Got a VPN Sooner” | Vexpoltech | [Read More](https://medium.com/p/241fe781d54f) |
-| Wed, 28 May 2025 18:27:55 GMT | Lucky Bhaskar – The Boy Who Made the Impossible Possible | Nizam | [Read More](https://medium.com/p/ec9757fc7f38) |
-| Wed, 28 May 2025 18:25:42 GMT | BlackByte Saldırı Analizi | Fırat Yağmur | [Read More](https://medium.com/p/c9bc28fb7efe) |
-| Wed, 28 May 2025 18:22:18 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Harshprajapati | [Read More](https://medium.com/p/087d2dfd3799) |
