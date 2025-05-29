@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 18:26:29 GMT | Understanding the Referer in Network Header | Natarajan C K | [Read More](https://medium.com/p/c1a675406014) |
+| Thu, 29 May 2025 18:14:40 GMT | Neuroweapons in Cognitive Warfare | SIMKRA | [Read More](https://medium.com/p/21c5f54fb20a) |
+| Thu, 29 May 2025 18:13:55 GMT | Complex Data Breach Laws Require Smarter Security | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/593b07058b6f) |
+| Thu, 29 May 2025 18:12:58 GMT | Catch Me If You Can | ‘oranma | [Read More](https://medium.com/p/ffa80cfc6006) |
+| Thu, 29 May 2025 17:53:39 GMT | My CyberSecurity Roadmap in the next 5 years | Salhanchynt | [Read More](https://medium.com/p/6f11d77b0715) |
+| Thu, 29 May 2025 17:52:39 GMT | From Web3 Developer to Smart-Contract Auditor: How Common DeFi Vulnerabilities Drive NFT Exploits | Evgenii | [Read More](https://medium.com/p/f6214226d3a0) |
+| Thu, 29 May 2025 17:51:16 GMT | Cheyanne Mallas PA: Driving Innovation and Risk Management in Cybersecurity Project Leadership | Cheyannemallaspa | [Read More](https://medium.com/p/fac29ea9b371) |
+| Thu, 29 May 2025 17:50:26 GMT | How to Create a Secure Encrypted USB Drive with LUKS: A Step-by-Step Guide for the… | Squxlch | [Read More](https://medium.com/p/15e280fc2a96) |
+| Thu, 29 May 2025 17:50:14 GMT | SOC107 — EventID 48 — Privilege Escalation Detected |  | [Read More](https://medium.com/p/853665b14e73) |
+| Thu, 29 May 2025 17:50:04 GMT | DSI — Cybersécurité, menaces et contre-mesures | Christophe Vriet | [Read More](https://medium.com/p/39fac8bea41d) |
 | Thu, 29 May 2025 17:37:28 GMT | Active Directory Lab Setup Guide | Ojas | [Read More](https://medium.com/p/848a31541643) |
 | Thu, 29 May 2025 17:36:28 GMT | Cybersecurity in 2025: The Biggest Threats to Watch | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/060c17865016) |
 | Thu, 29 May 2025 17:32:22 GMT | Full Transcript: GDG Cloud Southlake #43: Tommy Todd: The Quantum Apocalypse: A Looming Threat &… | Jim Anderson | [Read More](https://medium.com/p/a70a147d9fad) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 12:52:32 GMT | The Weight of “Why”: Growing Up Different in a Loud World | Nimas Muslimah | [Read More](https://medium.com/p/b26a3b4858f2) |
 | Thu, 29 May 2025 12:46:33 GMT | Model Denial of Service (DoS) Attacks — OWASP LLM Top 10 | Akanksha Amarendra | [Read More](https://medium.com/p/af98e54300be) |
 | Thu, 29 May 2025 12:45:58 GMT | LetsDefend Vulnerability Management Course WriteUp (-EN-DRAFT-) | Adnan Kutay Yüksel | [Read More](https://medium.com/p/a998ea7736d4) |
-| Thu, 29 May 2025 12:45:57 GMT | LetsDefend Vulnerability Management WriteUp Rehberi | Adnan Kutay Yüksel | [Read More](https://medium.com/p/b958327c7f03) |
-| Thu, 29 May 2025 12:44:04 GMT | Were Your Passwords Leaked in the 184M Credential Breach? Here's How to Check — And What to Do Next | Zyntrio Tech Report | [Read More](https://medium.com/p/4f7035a5c06f) |
-| Thu, 29 May 2025 12:43:34 GMT | The Big IAM Challenge | Abhishek Gupta | [Read More](https://medium.com/p/040ab906a609) |
-| Thu, 29 May 2025 12:41:49 GMT | HackTheBox — Sunday Walkthrough | 0xh3x | [Read More](https://medium.com/p/e9682ac33760) |
-| Thu, 29 May 2025 12:41:14 GMT | Track the Hacks: Pengantar Log Analysis dalam Forensik Digital | byuda | [Read More](https://medium.com/p/c17c8e63d5d0) |
-| Thu, 29 May 2025 12:35:38 GMT | Massive Password Breach Exposes 184 Million Accounts — Here’s How to Protect Yourself Now | Zyntrio Tech Report | [Read More](https://medium.com/p/3603e5420740) |
-| Thu, 29 May 2025 12:33:32 GMT | The Cyber Kill Chain: Understanding How Hackers Actually Pull Off Their Attacks | Shubhamitaliya | [Read More](https://medium.com/p/4debde9e9a28) |
-| Thu, 29 May 2025 12:32:30 GMT | Week 5 in Cybersecurity — Speed, Stability & Closing Month One Strong | Fabián Muñoz | [Read More](https://medium.com/p/b5ec550f3808) |
-| Thu, 29 May 2025 12:32:30 GMT | ATC NewsBites - Substack + Medium | Angie | [Read More](https://medium.com/p/c7654163c9a8) |
-| Thu, 29 May 2025 12:30:55 GMT | CTF Day(3) | Ahmed Narmer | [Read More](https://medium.com/p/e0fe59463340) |
