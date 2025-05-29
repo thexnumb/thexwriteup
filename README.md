@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 01:29:49 GMT | Footprinting: Your First Step Towards Hacking | Manoj Shrestha | [Read More](https://medium.com/p/0558f5bc1237) |
+| Thu, 29 May 2025 01:23:38 GMT | Zero Trust vs. Trust But Verify: A Cybersecurity Superhero Analogy | Varnith | [Read More](https://medium.com/p/df89835c9d3b) |
+| Thu, 29 May 2025 01:08:31 GMT | Tie-Break or Die: Why AI Doesn’t Need a Gut — Just a Decisive Line of Code & Accountability | Karla Ortiz-Flores | [Read More](https://medium.com/p/f3e217ecbaef) |
+| Thu, 29 May 2025 00:53:36 GMT | What is a network? | Big Uncle In Lagos | [Read More](https://medium.com/p/f954d6e303bd) |
+| Thu, 29 May 2025 00:41:48 GMT | ️ Sensitive Data Exposure via WP-JSON in WordPress | Noorsaper | [Read More](https://medium.com/p/d1dee7318d3b) |
+| Thu, 29 May 2025 00:41:30 GMT | A list of tools for criminal and illegal trade investigations | loyalonlytoday | [Read More](https://medium.com/p/310daab5b676) |
+| Thu, 29 May 2025 00:35:17 GMT | Tech Governance Forum 2025… Notes from the Floor | Tim Prosser | [Read More](https://medium.com/p/d232b2553d1d) |
+| Thu, 29 May 2025 00:27:51 GMT | CORS Misconfiguration – Leaking Sensitive User Data Cross-Domain | Noorsaper | [Read More](https://medium.com/p/2045b4405862) |
+| Thu, 29 May 2025 00:18:45 GMT | ️ CVE-2018-15473 — Username Enumeration in OpenSSH | Noorsaper | [Read More](https://medium.com/p/5d066f1c11af) |
+| Thu, 29 May 2025 00:01:45 GMT | How Secure Coding Protects Your App from the Inside Out | Shaun Fulton | [Read More](https://medium.com/p/11f42c9d5641) |
 | Wed, 28 May 2025 23:30:10 GMT | Breaches Happen — But Data Theft Shouldn’t | Patrick Walsh | [Read More](https://medium.com/p/7e62deca3690) |
 | Wed, 28 May 2025 23:26:20 GMT | Observe and Report (and Prevent) — keeping an eye on your AI with CloudWatch and CloudTrail. | Mary Becken | [Read More](https://medium.com/p/d6eed47fa11a) |
 | Wed, 28 May 2025 23:25:32 GMT | Bem vindos! | Gunther | [Read More](https://medium.com/p/4a05c2924b5b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 16:40:29 GMT | Code Like It Matters: A Guide to Secure Coding (from someone who broke it before fixing it) | PanicAtTheKernel | [Read More](https://medium.com/p/f228ad92337a) |
 | Wed, 28 May 2025 16:37:44 GMT | ️ Beginner’s Guide to Becoming a Pentester: From Zero to First Hack | Midhun Thomas | [Read More](https://medium.com/p/75ba8c8e831d) |
 | Wed, 28 May 2025 16:32:50 GMT | You’ll find my thought processes, challenges I faced, and what I learned along the way — whether… | rnnull | [Read More](https://medium.com/p/6dd5c9f4ad83) |
-| Wed, 28 May 2025 16:27:23 GMT | Roadmap 5 Tahun Cyber Security — RED Team and Pentester dari Seorang Siswa | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/02f02199ebdc) |
-| Wed, 28 May 2025 16:24:32 GMT | I’m the Lone Man who Thinks I can make Difference Epi 05 | LoneSoldier1375 | [Read More](https://medium.com/p/672243ef64a9) |
-| Wed, 28 May 2025 16:22:22 GMT | Recovery | Norman Meg | [Read More](https://medium.com/p/c4c31b7efeda) |
-| Wed, 28 May 2025 16:21:03 GMT | Secrets of the Digital Underground: Ethical Hacking in the Age of AI & Quantum Computing | Shaheer Yasir | [Read More](https://medium.com/p/7e3ba1774722) |
-| Wed, 28 May 2025 16:20:58 GMT | Zero Trust Doesn’t Have to Break the Bank: Affordable Solutions for Small and Medium Businesses | SafeAeon Inc. | [Read More](https://medium.com/p/ddc3dcd895c9) |
-| Wed, 28 May 2025 16:15:13 GMT | Network Topologies | Mazhar Imran | [Read More](https://medium.com/p/7b88245fd93f) |
-| Wed, 28 May 2025 16:11:30 GMT | CyberSecurity Roadmap: My Version | Fachri | [Read More](https://medium.com/p/e75048c7577f) |
-| Wed, 28 May 2025 16:08:55 GMT | Data leaked? How to check it! | Alesei Narkevitch | [Read More](https://medium.com/p/f999d91a5dee) |
-| Wed, 28 May 2025 16:06:12 GMT | Roadmap For Cyber Security In The Blue Team | Daarin | [Read More](https://medium.com/p/ae9b25721ac2) |
-| Wed, 28 May 2025 16:03:31 GMT | Analysis - Securing the Future: Recommendations for U.S. Policy on Critical Minerals | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/cbf5b2e8f08a) |
