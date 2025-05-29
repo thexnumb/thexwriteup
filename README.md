@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 19:26:33 GMT | Dennou Coil: Siber Uzayın Eşiğinde Bir Masal | Talha Özcan | [Read More](https://medium.com/p/5b53e11a27ec) |
+| Thu, 29 May 2025 19:25:44 GMT | The Weird Kid in Kindergarten | Meli | [Read More](https://medium.com/p/c884b08f2ea1) |
+| Thu, 29 May 2025 19:21:43 GMT | Phantom Network: The Silent Botnet Haunting ASUS Routers | Siva Gunasekaran | [Read More](https://medium.com/p/8ebdd036c0af) |
+| Thu, 29 May 2025 19:18:45 GMT | Soulbound NFTs and Student Attendance — A Blockchain Weekend at KU | Charan Yadav Chintalacheri | [Read More](https://medium.com/p/11e7e8215b8f) |
+| Thu, 29 May 2025 19:18:30 GMT | SQL Injection for Beginners: How I Found a Vulnerability in a Test Website. | Esom Eze | [Read More](https://medium.com/p/a98c99fa5b37) |
 | Thu, 29 May 2025 19:11:31 GMT | How I Earned My First $50 Bug Bounty with a Google Dork and a Test Key | CyberTechAjju | [Read More](https://medium.com/p/a3e6290db694) |
 | Thu, 29 May 2025 19:10:37 GMT | AI Security: Our New Superpower… And Our New Achilles’ Heel? | Wale Adedeji | [Read More](https://medium.com/p/624774500f8d) |
 | Thu, 29 May 2025 19:01:17 GMT | 10 reasons why cyber security is important? | Chandanjana | [Read More](https://medium.com/p/e67ffb6d3c61) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 13:31:30 GMT | Protecting Against Identity Theft | Connor Fergus | [Read More](https://medium.com/p/b70cd8234471) |
 | Thu, 29 May 2025 13:31:30 GMT | Week 4 in Cybersecurity — Cheat Sheets, Inventory Hunts & Quiet Progress | Fabián Muñoz | [Read More](https://medium.com/p/33ae739ccd26) |
 | Thu, 29 May 2025 13:24:32 GMT | Detecting Koi Stealer Malware Through Traffic Analysis: A Case Study | Bumi Arya Dirangga | [Read More](https://medium.com/p/47a47f2d2f05) |
-| Thu, 29 May 2025 13:22:10 GMT | The Importance of sharing Information between groups and companies in fighting cybercrime | Martin Abramov | [Read More](https://medium.com/p/e1c87f9d2c8d) |
-| Thu, 29 May 2025 13:20:14 GMT | Void Blizzard: Russian State-Backed Cloud Espionage, AitM Phishing, and LOTL Tactics Targeting NATO… | Wes Young | [Read More](https://medium.com/p/50eb0dc88f50) |
-| Thu, 29 May 2025 13:18:19 GMT | Venom Spider’s Polymorphic More_eggs: Advanced HR-Targeted Intrusions and Evasion Tactics | Wes Young | [Read More](https://medium.com/p/83ea67b9478a) |
-| Thu, 29 May 2025 13:12:08 GMT | OAuth2 Demystified: How Secure Authentication Powers Modern Web and Microservices | Lets Learn Now | [Read More](https://medium.com/p/5eca13df0e8b) |
-| Thu, 29 May 2025 13:06:18 GMT | Data as a Service revolutioniert 2025: Der ultimative Roadmap für nachhaltigen Unternehmenserfolg | Philip Hansen | [Read More](https://medium.com/p/27f7624f6049) |
