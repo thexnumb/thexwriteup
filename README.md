@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 07:35:06 GMT | Should You Use a Polygraph Test When Hiring? | Mariiatata | [Read More](https://medium.com/p/fb7d88a63c12) |
+| Thu, 29 May 2025 07:31:20 GMT | This Time Last Year, I Was Living a Lie in Tinsel Wrapping | Para | [Read More](https://medium.com/p/55695ab6634e) |
+| Thu, 29 May 2025 07:19:24 GMT | Security in the Age of AI: Tools, Risks and What’s Next | Andre Fernandes | [Read More](https://medium.com/p/5802b6ab6d52) |
+| Thu, 29 May 2025 07:17:21 GMT | 12 essential features of advanced endpoint security tools | StackSoul | [Read More](https://medium.com/p/263c33aa46ba) |
 | Thu, 29 May 2025 07:15:41 GMT | Public Code, Private Keys: How I Was Rewarded $$$ for Uncovering PII Leaks (Part I) | Md Saikat | [Read More](https://medium.com/p/344b237d237a) |
+| Thu, 29 May 2025 07:14:00 GMT | Insider Risk Management: Strategies to Protect Your Organization from Within | Gargiben | [Read More](https://medium.com/p/5ba8769009c3) |
 | Thu, 29 May 2025 07:13:55 GMT | ประจำวันพฤหัสบดีที่ 29 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/80f89c0f8dca) |
 | Thu, 29 May 2025 07:08:00 GMT | Certificates For Cyber Security In The Red Team | Daarin | [Read More](https://medium.com/p/c6de152fc135) |
 | Thu, 29 May 2025 07:07:14 GMT | Russian Cyberattacks Target NGOs with Sophisticated Phishing | Virtual Cyber Labs | [Read More](https://medium.com/p/b6188c3497ef) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 00:18:45 GMT | ️ CVE-2018-15473 — Username Enumeration in OpenSSH | Noorsaper | [Read More](https://medium.com/p/5d066f1c11af) |
 | Thu, 29 May 2025 00:01:45 GMT | How Secure Coding Protects Your App from the Inside Out | Shaun Fulton | [Read More](https://medium.com/p/11f42c9d5641) |
 | Wed, 28 May 2025 23:30:10 GMT | Breaches Happen — But Data Theft Shouldn’t | Patrick Walsh | [Read More](https://medium.com/p/7e62deca3690) |
-| Wed, 28 May 2025 23:26:20 GMT | Observe and Report (and Prevent) — keeping an eye on your AI with CloudWatch and CloudTrail. | Mary Becken | [Read More](https://medium.com/p/d6eed47fa11a) |
-| Wed, 28 May 2025 23:25:32 GMT | Bem vindos! | Gunther | [Read More](https://medium.com/p/4a05c2924b5b) |
-| Wed, 28 May 2025 22:51:21 GMT | Exploring Wazuh on TryHackMe: A Hands-On Look at Endpoint Security | LobaMegaTON | [Read More](https://medium.com/p/08ddca84b1c8) |
-| Wed, 28 May 2025 22:39:52 GMT | Autopsy | Shamar Isaac | [Read More](https://medium.com/p/786c118cb7ad) |
-| Wed, 28 May 2025 22:17:40 GMT | GhostSpy: The Android Malware That Grants Hackers Full Control Over Your Device | Cyber-AppSec | [Read More](https://medium.com/p/c44fe186fdd8) |
