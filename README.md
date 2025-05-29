@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 05:33:34 GMT | Cybersecurity Advancements in 2025: Combating Evolving Threats | Red9SysTech | [Read More](https://medium.com/p/1faa0adb5dfe) |
+| Thu, 29 May 2025 05:30:31 GMT | Uncovering Amazon S3 Bucket Vulnerabilities: A Comprehensive Guide for Ethical Hackers | Abhijeet Kumawat | [Read More](https://medium.com/p/0fc903ac21d0) |
+| Thu, 29 May 2025 05:24:32 GMT | CryptoXpress’s Role in Bridging Web2 and Web3: A Seamless Transition for Users | Devbradon | [Read More](https://medium.com/p/61b1c8e856a9) |
+| Thu, 29 May 2025 05:15:22 GMT | Cyber Security Internship with Placement Support | Maya Dhavale | [Read More](https://medium.com/p/04e167c677d7) |
+| Thu, 29 May 2025 05:14:50 GMT | Walkthrough: Solving Lab BNE0x03 — Simple | Muhammad Alfian Ramadhani | [Read More](https://medium.com/p/f307351e7df0) |
+| Thu, 29 May 2025 05:13:27 GMT | Kubernetes Environment Management: Injecting and Updating .env Files via ConfigMaps and Secrets | Ramkrushna Maheshwar | [Read More](https://medium.com/p/67776e4b6aa5) |
 | Thu, 29 May 2025 05:10:50 GMT | CVE-2025–4687 ( Pre-Account takeover through invite on Teletonika RMS website ) | jowin922 | [Read More](https://medium.com/p/972335378829) |
 | Thu, 29 May 2025 05:10:31 GMT | The Role of Artificial Intelligence in Enhancing Cybersecurity Defense Mechanisms | Pallav Kumar Kaulwar | [Read More](https://medium.com/p/b8f3f28c6534) |
+| Thu, 29 May 2025 05:10:30 GMT | Port 443 Demystified: A Complete Guide to HTTPS Traffic | Certera | [Read More](https://medium.com/p/bc4e91e41c0a) |
 | Thu, 29 May 2025 05:07:34 GMT | Puppy Writeup - Seasons 8 - HackTheBox | محمد بن إبراهيم | [Read More](https://medium.com/p/a16fbd265607) |
 | Thu, 29 May 2025 04:59:29 GMT | What is Web Browser Forensics? | InfosecTrain | [Read More](https://medium.com/p/ed027c141a66) |
 | Thu, 29 May 2025 04:57:18 GMT | EG-CERT CTF25 Flog: Nowadays Arch Issues | Sayed Abdelhafiz | [Read More](https://medium.com/p/acd6afa46b63) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 19:33:25 GMT | LOT (Latency of Thought) Experiment Analysis | Tomer Wetzler | [Read More](https://medium.com/p/c3b8233551d4) |
 | Wed, 28 May 2025 19:28:29 GMT | Slow Language Model: Timing Rejection to Improve Malicious Prompting | Tomer Wetzler | [Read More](https://medium.com/p/f6533fb2f949) |
 | Wed, 28 May 2025 19:24:32 GMT | How I was able to Delete Any User Post On Tumbler via Chaining vulnerability(0-Click) | 0xshehab | [Read More](https://medium.com/p/2edf63d0c900) |
-| Wed, 28 May 2025 19:23:45 GMT | Everyone’s Scrambling to Learn Tools. You Should Be Studying Frameworks. | A D | [Read More](https://medium.com/p/79690350e525) |
-| Wed, 28 May 2025 19:23:33 GMT | Roadmap belajar CyberSecurity 5 tahun kedepan | nairawr | [Read More](https://medium.com/p/aa6f2b09f9f3) |
-| Wed, 28 May 2025 19:23:16 GMT | O Impacto da Inteligência Artificial no Mercado de Trabalho | Leonardo Owergoor | [Read More](https://medium.com/p/335cc08aa43b) |
-| Wed, 28 May 2025 19:21:12 GMT | Comprehensive Analysis: Timing-Based Attacks on Large Language Models | Tomer Wetzler | [Read More](https://medium.com/p/93e1539092b5) |
-| Wed, 28 May 2025 19:19:16 GMT | How to achieve the obstacle | Abdimulatu | [Read More](https://medium.com/p/b73699360466) |
-| Wed, 28 May 2025 19:19:00 GMT | Interlock Ransomware Gang Deploys NodeSnake RAT on Universities | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/ae82c40ce37a) |
-| Wed, 28 May 2025 19:12:41 GMT | 184 Million Logins Leaked? — What You Need to Know (and Do) | Jim Walker | [Read More](https://medium.com/p/28b4384e942c) |
