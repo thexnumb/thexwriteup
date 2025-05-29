@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 21:22:56 GMT | VICAR: Bridging the gap between threat modeling and remediation | ETTIC | [Read More](https://medium.com/p/8538ab851c1e) |
 | Thu, 29 May 2025 21:13:24 GMT | Introduction to Ghost Files | S12 - H4CK | [Read More](https://medium.com/p/12cd3657eb26) |
 | Thu, 29 May 2025 21:08:26 GMT | Cyber Security Mastery Roadmap (5+ Years of Real Growth) | Muhammad Abiyan Hafidz | [Read More](https://medium.com/p/e3ef5b7cd143) |
 | Thu, 29 May 2025 21:08:24 GMT | Technical Summary: Distinctions Between Contagious Interview and Wagemole Campaign | Heiner | [Read More](https://medium.com/p/3a278a723825) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 15:20:07 GMT | When Data Becomes a Liability: Navigating AI Compliance in Regulated Industries | DevKit | [Read More](https://medium.com/p/1de5ae6b5152) |
 | Thu, 29 May 2025 15:20:00 GMT | ROADMAP 5 TAHUN MENJADI PRO-CYBER SECURITY | My Ego | [Read More](https://medium.com/p/4d5b95f6c538) |
 | Thu, 29 May 2025 15:19:30 GMT | Bug Bounty and Penetration Testing Explained: What’s the Difference | Pratik Dabhi | [Read More](https://medium.com/p/41384e187c9a) |
-| Thu, 29 May 2025 15:11:07 GMT | IELTS-CERTIFIKAT TILL SALU//Telegram….(+237672351658) | Omochuka | [Read More](https://medium.com/p/2f909abf1eb1) |
