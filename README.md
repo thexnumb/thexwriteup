@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 08:42:47 GMT | Building a Compliant Security Operations Center: A Step-by-Step Guide Integrating CISSP, ISO 27001… | Oleh Dubetcky | [Read More](https://medium.com/p/0d1add1e6a1b) |
+| Thu, 29 May 2025 08:39:22 GMT | Understanding the SOCI Act in IT: What Australian Businesses Need to Know | cyber ethos | [Read More](https://medium.com/p/f0b5846e1a04) |
+| Thu, 29 May 2025 08:36:49 GMT | Blockchain and Cybersecurity: Enhancing Data Security — An In-Depth Guide | Nikson Kejeh | [Read More](https://medium.com/p/7cf13605dc59) |
+| Thu, 29 May 2025 08:36:22 GMT | Warp.dev still ducking The Forge AGI | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/af2640b9ae39) |
+| Thu, 29 May 2025 08:35:16 GMT | Five-Year Roadmap to Becoming a Penetration Tester | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/cde455da9b36) |
+| Thu, 29 May 2025 08:34:45 GMT | Backup X | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/ea1ba347c540) |
+| Thu, 29 May 2025 08:16:02 GMT | How Hackers Drain Smart Contracts: The Reentrancy Attack That Stole $60M | Ancilar Technologies | [Read More](https://medium.com/p/360ae43e88d1) |
 | Thu, 29 May 2025 08:14:08 GMT | ROAD TO RED TEAM (Pentest Roadmap 5 Tahun — Dari Skiddie Jadi Pro Pentest) | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/9c4dada9356e) |
 | Thu, 29 May 2025 08:13:59 GMT | How File Upload for WooCommerce Engages Customers and Increases Sales | Nabeehaali | [Read More](https://medium.com/p/8592e53161b0) |
 | Thu, 29 May 2025 08:11:29 GMT | AWS Lambda . AWS Attack and Defense . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/aeaf57f237b8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 03:02:57 GMT | Principals of Information Security | Ashiqul Hoque Abir | [Read More](https://medium.com/p/f2d6c0dcbeaf) |
 | Thu, 29 May 2025 02:51:08 GMT | Mapping My Cybersecurity Journey: 5-Year Plan From Scratch | El Profesor | [Read More](https://medium.com/p/c37fb6c48a64) |
 | Thu, 29 May 2025 02:50:14 GMT | From Streets to Success: My Raw Journey of Homelessness, Resilience, and Building a Future in Tech | Zyntrio Tech Report | [Read More](https://medium.com/p/4c9b18a85f33) |
-| Thu, 29 May 2025 02:47:32 GMT | What Happens When Data Stops at the Border? (The Internet’s Quiet Redesign) | Uzay Yildirim | [Read More](https://medium.com/p/db00d3d7e4a5) |
-| Thu, 29 May 2025 02:33:43 GMT | ️My Cybersecurity Roadmap for The Next 5 Years | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/62208a2bb91f) |
-| Thu, 29 May 2025 02:32:12 GMT | Day 0: Enter The Maze | Nocten's Chronicles | [Read More](https://medium.com/p/27ae96bbb235) |
-| Thu, 29 May 2025 02:28:44 GMT | Beginner’s Guide to Creating a TVRA Excel Template | Pawan Koirala | [Read More](https://medium.com/p/1d45dbd09b95) |
-| Thu, 29 May 2025 02:21:17 GMT | Inside Rogue: Building and Understanding a Modular C2 Botnet Framework | Ekoms Savior | [Read More](https://medium.com/p/bfcb0e0c8aa3) |
-| Thu, 29 May 2025 02:15:43 GMT | The Idealist’s Architecture Decision: Cross-Tenant Access — Part 3 | Jenny 秋 | [Read More](https://medium.com/p/fbd21150f03f) |
-| Thu, 29 May 2025 02:12:36 GMT | CyberSecurity Mission : 5 Years From Zero To Hero | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/e28b495d5ba8) |
