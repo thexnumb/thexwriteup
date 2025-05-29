@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 16:24:01 GMT | The Overnight Superpower? India’s Unraveling Illusion in South Asia. | Asmat Ullah Raja | [Read More](https://medium.com/p/76b18e324721) |
+| Thu, 29 May 2025 16:20:27 GMT | Vulnérabilités et ragots | Florent M | [Read More](https://medium.com/p/07ff93ab7ccc) |
+| Thu, 29 May 2025 16:18:09 GMT | 99% of Cyberattacks Succeed Because of You — Here’s How to Stop Being the Weakest Link | Kaif Tarasgar | [Read More](https://medium.com/p/683ffc23a9b2) |
+| Thu, 29 May 2025 16:13:12 GMT | 30 Days of Cyber Security — Day 3: Roles in Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/c2f31239c100) |
+| Thu, 29 May 2025 16:13:08 GMT | The Storm Before the Storm | Imane Errayes | [Read More](https://medium.com/p/b96bbc007e52) |
+| Thu, 29 May 2025 16:10:16 GMT | Microsoft’s Quantum Leap: Inside the Majorana Chip That Could Revolutionize Computing | QuantumGenie | [Read More](https://medium.com/p/4e52d14916c4) |
+| Thu, 29 May 2025 16:08:58 GMT | How to Integrating National Development with Defense and Security. | Pandita Ramabai | [Read More](https://medium.com/p/54462f245d11) |
+| Thu, 29 May 2025 16:00:06 GMT | Day 14: What is Compliance & Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/66fbef0a8ca2) |
+| Thu, 29 May 2025 15:54:40 GMT | Unlocking the Rail Fence Cipher in Python: Encrypt and Decrypt Like a Pro! | Devansh  Kushwaha | [Read More](https://medium.com/p/4a94e3a8a9f2) |
+| Thu, 29 May 2025 15:41:10 GMT | From 0 to Exploitable in 600 Seconds My California Bug Story | Karthikeyan | [Read More](https://medium.com/p/d10f4b29f306) |
 | Thu, 29 May 2025 15:39:26 GMT | How To Fix The “{“message”:”Internal Server Error”}” Error in AWS | Emmanuel Muturia™ | [Read More](https://medium.com/p/9e8716c6972a) |
 | Thu, 29 May 2025 15:38:30 GMT | How Snowflake Was Hacked: Inside the Attack That Shook the Cloud | Stealseek | [Read More](https://medium.com/p/0099aaa4b5f4) |
 | Thu, 29 May 2025 15:32:17 GMT | OWASP Juice Shop walkthrough | Kausikdey | [Read More](https://medium.com/p/744a56a5dc13) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 10:50:27 GMT | Tech Is Not A Palliative: A Call For Realistic Expectations In Tech — Joshua Oyeniyi | Joshua Oyeniyi | [Read More](https://medium.com/p/75796460c9f8) |
 | Thu, 29 May 2025 10:45:39 GMT | Choosing the Right Security Agency in Pune | United Guard Force India | [Read More](https://medium.com/p/946ea25d1bfb) |
 | Thu, 29 May 2025 10:45:03 GMT | Is Your Business Prepared for Cyber Attacks During National Crises? | Matin Shaikh | [Read More](https://medium.com/p/22f329e4e249) |
-| Thu, 29 May 2025 10:41:05 GMT | Phishing Awareness: What Is Zphisher and How to Detect Suspicious Links (Part1) | InvasiveMind | [Read More](https://medium.com/p/ca004d238b93) |
-| Thu, 29 May 2025 10:36:01 GMT | Styling A Custom File Upload Area | Beey | [Read More](https://medium.com/p/9a87b70ddaed) |
-| Thu, 29 May 2025 10:30:05 GMT | Investigative Intelligence Between Prevention and Security: A Theoretical and Methodological… | Chris | [Read More](https://medium.com/p/8d8e6f2d03b2) |
-| Thu, 29 May 2025 10:28:26 GMT | Access Denied to Hall-of-Fame | SIDDHANT SHUKLA | [Read More](https://medium.com/p/6275483870a0) |
-| Thu, 29 May 2025 10:28:15 GMT | From Frustration to Impact: How a Weekend Hunt Turned into a Critical CSRF+Phishing Discovery | Sarvesh Mishra | [Read More](https://medium.com/p/c6f4bfba11cc) |
-| Thu, 29 May 2025 10:27:45 GMT | Cyber Arena: A Pen Tester’s Battle Through 2025’s Latest Threats | hackerguy7 | [Read More](https://medium.com/p/68713155a96a) |
-| Thu, 29 May 2025 10:21:39 GMT | AWS Scope After Certification: Unlocking Career Growth and Opportunities in Pakistan | cyberwingITSolution | [Read More](https://medium.com/p/b2e32389462e) |
-| Thu, 29 May 2025 10:19:37 GMT | Comprehensive Guide to Linux System Administrator Career: Skills, Jobs, and Training in Pakistan | cyberwingITSolution | [Read More](https://medium.com/p/f32489d49ef8) |
-| Thu, 29 May 2025 10:16:03 GMT | Cyber Attacks — Cybersecurity part -2 | Amt | [Read More](https://medium.com/p/0fc4cb3eec3a) |
-| Thu, 29 May 2025 10:15:52 GMT | Complete Guide to DevOps Training in Pakistan: Courses, Institutes, and Career Path | cyberwingITSolution | [Read More](https://medium.com/p/96dda441cd65) |
