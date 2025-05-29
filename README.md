@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 19:11:31 GMT | How I Earned My First $50 Bug Bounty with a Google Dork and a Test Key | CyberTechAjju | [Read More](https://medium.com/p/a3e6290db694) |
+| Thu, 29 May 2025 19:10:37 GMT | AI Security: Our New Superpower… And Our New Achilles’ Heel? | Wale Adedeji | [Read More](https://medium.com/p/624774500f8d) |
+| Thu, 29 May 2025 19:01:17 GMT | 10 reasons why cyber security is important? | Chandanjana | [Read More](https://medium.com/p/e67ffb6d3c61) |
+| Thu, 29 May 2025 18:57:45 GMT | ️‍♂️ Visual Guide: How to Spot a Suspicious File (Even If It Looks Safe) | Rushi Jariwala | [Read More](https://medium.com/p/245622c5c81e) |
+| Thu, 29 May 2025 18:52:36 GMT | How to set different output formats in TShark! | Safiullah Khan | [Read More](https://medium.com/p/1a90e069c2c4) |
+| Thu, 29 May 2025 18:49:33 GMT | Autonomous Rethinking as War Crime & Public Warfare | SIMKRA | [Read More](https://medium.com/p/4010a461ecc0) |
+| Thu, 29 May 2025 18:47:11 GMT | Azure Cloud Security Part 1 : Understanding the Shared Responsibility in the Cloud | Siddiquimohammad | [Read More](https://medium.com/p/890f82661db5) |
+| Thu, 29 May 2025 18:47:06 GMT | SNS Secrets [Capstone Challenge] | WireHawk Security | [Read More](https://medium.com/p/a18ec98965cc) |
 | Thu, 29 May 2025 18:39:01 GMT | How to Protect API Keys with CloudFlare Worker | Shadai Scott | [Read More](https://medium.com/p/0da68edabd84) |
 | Thu, 29 May 2025 18:36:11 GMT | Top 10 Cybersecurity Trends and Strategies in 2025 | Xaltius | [Read More](https://medium.com/p/efd742d4bf54) |
 | Thu, 29 May 2025 18:26:29 GMT | Understanding the Referer in Network Header | Natarajan C K | [Read More](https://medium.com/p/c1a675406014) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 13:18:19 GMT | Venom Spider’s Polymorphic More_eggs: Advanced HR-Targeted Intrusions and Evasion Tactics | Wes Young | [Read More](https://medium.com/p/83ea67b9478a) |
 | Thu, 29 May 2025 13:12:08 GMT | OAuth2 Demystified: How Secure Authentication Powers Modern Web and Microservices | Lets Learn Now | [Read More](https://medium.com/p/5eca13df0e8b) |
 | Thu, 29 May 2025 13:06:18 GMT | Data as a Service revolutioniert 2025: Der ultimative Roadmap für nachhaltigen Unternehmenserfolg | Philip Hansen | [Read More](https://medium.com/p/27f7624f6049) |
-| Thu, 29 May 2025 13:05:24 GMT | The Cybersecurity Reality Check: Facts Every Business Must Know | Cybersecurity Umbrella | [Read More](https://medium.com/p/0dbf4e0c5381) |
-| Thu, 29 May 2025 13:01:21 GMT | Zero Trust Architecture (ZTA) | Hassan | [Read More](https://medium.com/p/92936a3cb134) |
-| Thu, 29 May 2025 13:00:01 GMT | Synthetic Identity Fraud: Understanding the Growing Threat | Sagar Kumar Padhy | [Read More](https://medium.com/p/732b30dbd55e) |
-| Thu, 29 May 2025 12:58:26 GMT | SSRF in Action: Metadata Exploitation in Cloud via a Vulnerable PHP Backend | Zoningxtr | [Read More](https://medium.com/p/0cfb215b4054) |
-| Thu, 29 May 2025 12:56:35 GMT | ️‍♂️ OSINT with Kali Linux: Leveraging Open Source Intelligence Tools | Esra Kayhan | [Read More](https://medium.com/p/3f7abacdada2) |
-| Thu, 29 May 2025 12:54:08 GMT | Secure Your Infrastructure with the Best Security Services in Bangalore | Southwallsecuritiesservice | [Read More](https://medium.com/p/b520d69bd184) |
-| Thu, 29 May 2025 12:53:43 GMT | 09961606295 | #شماره خاله قم #شماره خاله تهران#شماره خاله کرمان | [Read More](https://medium.com/p/612bb2e4c56c) |
-| Thu, 29 May 2025 12:52:32 GMT | The Weight of “Why”: Growing Up Different in a Loud World | Nimas Muslimah | [Read More](https://medium.com/p/b26a3b4858f2) |
