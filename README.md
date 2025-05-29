@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 22:16:42 GMT | Exploring More Network Services and Exploitation Techniques | Karthikeyan Nagaraj | [Read More](https://medium.com/p/2f4f4f74f604) |
+| Thu, 29 May 2025 22:16:03 GMT | The Gray Space: Reconnaissance and Social Engineering at the Intersection of Intelligence… | Alayna Ferdarko | [Read More](https://medium.com/p/d7aea3f12b13) |
+| Thu, 29 May 2025 22:06:37 GMT | Safe Online: Navigating the World of Cybersecurity | Enna | [Read More](https://medium.com/p/293a28816066) |
+| Thu, 29 May 2025 22:02:36 GMT | Understanding Simple Network Topology: A Case Study of a Small Office Network | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/4de0d6158115) |
+| Thu, 29 May 2025 22:02:35 GMT | Snowflake Architecture Series: A Foundational Checklist | Augusto Kiniama Rosa | [Read More](https://medium.com/p/fcb6c1db7f19) |
+| Thu, 29 May 2025 21:54:36 GMT | How many kids give away information to strangers? | Savvy Cyber Kids | [Read More](https://medium.com/p/aaa75ec2c428) |
+| Thu, 29 May 2025 21:54:12 GMT | Am I Addicted to My Phone? | Savvy Cyber Kids | [Read More](https://medium.com/p/fc83db418cee) |
+| Thu, 29 May 2025 21:53:45 GMT | What To Do If You Become a Victim of Cyberbullying | Savvy Cyber Kids | [Read More](https://medium.com/p/8ceb6a64a616) |
+| Thu, 29 May 2025 21:47:59 GMT | “This Person Is Engaged in Fraud”: When Instagram Comments Reveal the Truth | Natasha Fuller | [Read More](https://medium.com/p/93a5f9d7e082) |
+| Thu, 29 May 2025 21:46:53 GMT | Cyber Security Fundamental: Mengenal Dasar-Dasar Keamanan Siber untuk Era Digital | Muhammad Abiyan Hafidz | [Read More](https://medium.com/p/e5a7595ba695) |
+| Thu, 29 May 2025 21:36:33 GMT | Your True Community Expands Your Heart | Gulhis Sarap | [Read More](https://medium.com/p/331443b9e93a) |
 | Thu, 29 May 2025 21:22:56 GMT | VICAR: Bridging the gap between threat modeling and remediation | ETTIC | [Read More](https://medium.com/p/8538ab851c1e) |
 | Thu, 29 May 2025 21:13:24 GMT | Introduction to Ghost Files | S12 - H4CK | [Read More](https://medium.com/p/12cd3657eb26) |
 | Thu, 29 May 2025 21:08:26 GMT | Cyber Security Mastery Roadmap (5+ Years of Real Growth) | Muhammad Abiyan Hafidz | [Read More](https://medium.com/p/e3ef5b7cd143) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 16:00:06 GMT | Day 14: What is Compliance & Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/66fbef0a8ca2) |
 | Thu, 29 May 2025 15:54:40 GMT | Unlocking the Rail Fence Cipher in Python: Encrypt and Decrypt Like a Pro! | Devansh  Kushwaha | [Read More](https://medium.com/p/4a94e3a8a9f2) |
 | Thu, 29 May 2025 15:41:10 GMT | From 0 to Exploitable in 600 Seconds My California Bug Story | Karthikeyan | [Read More](https://medium.com/p/d10f4b29f306) |
-| Thu, 29 May 2025 15:39:26 GMT | How To Fix The “{“message”:”Internal Server Error”}” Error in AWS | Emmanuel Muturia™ | [Read More](https://medium.com/p/9e8716c6972a) |
-| Thu, 29 May 2025 15:38:30 GMT | How Snowflake Was Hacked: Inside the Attack That Shook the Cloud | Stealseek | [Read More](https://medium.com/p/0099aaa4b5f4) |
-| Thu, 29 May 2025 15:32:17 GMT | OWASP Juice Shop walkthrough | Kausikdey | [Read More](https://medium.com/p/744a56a5dc13) |
-| Thu, 29 May 2025 15:31:45 GMT | GZR Observer Daily — May 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/3b514497d11c) |
-| Thu, 29 May 2025 15:26:52 GMT | Cybersecurity is Not Just IT’s Job | Dr. Rajesh Gunakala | [Read More](https://medium.com/p/46e2a4b8a28b) |
-| Thu, 29 May 2025 15:24:25 GMT | Why iOS for Visitor Management? | Michael Green | [Read More](https://medium.com/p/a31055215ee1) |
-| Thu, 29 May 2025 15:24:06 GMT | Day 50: Inside the Mind of an Attacker: The Cyber Kill Chain & Modern Attack Methodologies | Agarwaldaksh | [Read More](https://medium.com/p/c4de0cdadb4a) |
-| Thu, 29 May 2025 15:20:27 GMT | My Introduction into Cybersecurity | Jeffrey Dowdye-Joseph | [Read More](https://medium.com/p/42aa9bc5f893) |
-| Thu, 29 May 2025 15:20:07 GMT | When Data Becomes a Liability: Navigating AI Compliance in Regulated Industries | DevKit | [Read More](https://medium.com/p/1de5ae6b5152) |
-| Thu, 29 May 2025 15:20:00 GMT | ROADMAP 5 TAHUN MENJADI PRO-CYBER SECURITY | My Ego | [Read More](https://medium.com/p/4d5b95f6c538) |
-| Thu, 29 May 2025 15:19:30 GMT | Bug Bounty and Penetration Testing Explained: What’s the Difference | Pratik Dabhi | [Read More](https://medium.com/p/41384e187c9a) |
