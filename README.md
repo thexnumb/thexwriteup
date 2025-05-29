@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 21:13:24 GMT | Introduction to Ghost Files | S12 - H4CK | [Read More](https://medium.com/p/12cd3657eb26) |
+| Thu, 29 May 2025 21:08:26 GMT | Cyber Security Mastery Roadmap (5+ Years of Real Growth) | Muhammad Abiyan Hafidz | [Read More](https://medium.com/p/e3ef5b7cd143) |
+| Thu, 29 May 2025 21:08:24 GMT | Technical Summary: Distinctions Between Contagious Interview and Wagemole Campaign | Heiner | [Read More](https://medium.com/p/3a278a723825) |
+| Thu, 29 May 2025 21:07:50 GMT | CAPTCHA as Dorks for Black Hat Hackers for their CSRF Uploads: A Real-World Lesson in Web… | El Professor Qais | [Read More](https://medium.com/p/da9000b5cb67) |
+| Thu, 29 May 2025 21:02:27 GMT | The Importance of Post-Incident Reviews | John Locke | [Read More](https://medium.com/p/fb3d0651d0d0) |
+| Thu, 29 May 2025 21:02:25 GMT | 5-Year Cybersecurity Career Roadmap | Afridho Tavadhu | [Read More](https://medium.com/p/6dbe21dda58e) |
+| Thu, 29 May 2025 20:54:18 GMT | Difference Between a Cybersecurity Audit and a Risk Assessment | Rutter-Net | [Read More](https://medium.com/p/23deced90963) |
+| Thu, 29 May 2025 20:54:02 GMT | Throwback Thursday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/28a1fa01c98d) |
+| Thu, 29 May 2025 20:51:19 GMT | DevSecOps maturity model level 1 | Mikhail Koptelov | [Read More](https://medium.com/p/4cc186b46e65) |
+| Thu, 29 May 2025 20:42:49 GMT | QR Code Scams on the Rise: How to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/2b78ccd6ce4b) |
+| Thu, 29 May 2025 20:39:43 GMT | Gzip vs Bzip2 vs XZ | Amr Elharery | [Read More](https://medium.com/p/d6e2600f5137) |
+| Thu, 29 May 2025 20:38:45 GMT | The Cybersecurity Job Landscape Is About to Be Transformed. Are You Ready? | Taimur Ijlal | [Read More](https://medium.com/p/242cb6871d5d) |
 | Thu, 29 May 2025 20:35:38 GMT | Behind the Blackout: The Mechanisms, Monitoring, and Impact of Internet Shutdowns | The Censored State | [Read More](https://medium.com/p/34761fb21a60) |
 | Thu, 29 May 2025 20:32:22 GMT | What is Cyber Hygiene and Why It Matters Today | Akshay Chauhan | [Read More](https://medium.com/p/bf148e6524f1) |
 | Thu, 29 May 2025 20:27:46 GMT | Interlock Ransomware Strikes with NodeStealer RAT: A Growing Threat to Financial and Healthcare… | Chetan Seripally | [Read More](https://medium.com/p/e8829a2888be) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 15:20:00 GMT | ROADMAP 5 TAHUN MENJADI PRO-CYBER SECURITY | My Ego | [Read More](https://medium.com/p/4d5b95f6c538) |
 | Thu, 29 May 2025 15:19:30 GMT | Bug Bounty and Penetration Testing Explained: What’s the Difference | Pratik Dabhi | [Read More](https://medium.com/p/41384e187c9a) |
 | Thu, 29 May 2025 15:11:07 GMT | IELTS-CERTIFIKAT TILL SALU//Telegram….(+237672351658) | Omochuka | [Read More](https://medium.com/p/2f909abf1eb1) |
-| Thu, 29 May 2025 15:06:11 GMT | Part One — A Practical Guide to Automate Threat Analysis: Accounts & Configs | Jade Hill | [Read More](https://medium.com/p/456952400819) |
-| Thu, 29 May 2025 15:03:24 GMT | La transformation de la fonction commerciale | Florent M | [Read More](https://medium.com/p/b377fa4733db) |
-| Thu, 29 May 2025 15:02:54 GMT | Enabling Remote Desktop and SSH access to Kali | Md Zishan Firoz | [Read More](https://medium.com/p/eddc14260071) |
-| Thu, 29 May 2025 15:02:33 GMT | Data Leak vs. Account Hack - What’s the Real Difference for You? (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/c4f5f817471a) |
-| Thu, 29 May 2025 15:00:51 GMT | Advanced Angular Directive Security for Enterprise Applications | Herbert Moroni Gois | [Read More](https://medium.com/p/25fbaf601461) |
-| Thu, 29 May 2025 14:59:49 GMT | Awas Ada Hacker! Eh, Tenang Dulu… Kenalin Penetration Tester, Sang Ethical Hacker dari Red Team! | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/7604a70e340c) |
-| Thu, 29 May 2025 14:55:53 GMT | My First Cyber Homelab: Fire in the Wires | Alfonso Izquierdo | [Read More](https://medium.com/p/8cfbb112c7aa) |
-| Thu, 29 May 2025 14:49:31 GMT | Struktur Data : Hashing | Yasa Wijaya | [Read More](https://medium.com/p/53f6b9033bf7) |
-| Thu, 29 May 2025 14:47:01 GMT | Cybersecurity Laws and Regulations in England & Wales: What to Know in 2025 | Arlingsworth | [Read More](https://medium.com/p/f9589f5bec2b) |
-| Thu, 29 May 2025 14:39:49 GMT | Deface XSS | Rafli Setyawan | [Read More](https://medium.com/p/913702f0e47b) |
-| Thu, 29 May 2025 14:31:54 GMT | Cyberwarfare and the Quiet Death of Certainty | Liya Kruisen | [Read More](https://medium.com/p/4c12e33cf6d5) |
-| Thu, 29 May 2025 14:31:03 GMT | How China Is Rewiring Global Telecom to Undermine the West | National Security Institute | [Read More](https://medium.com/p/35bd562e51a4) |
