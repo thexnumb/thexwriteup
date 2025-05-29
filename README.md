@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 15:06:11 GMT | Part One — A Practical Guide to Automate Threat Analysis: Accounts & Configs | Jade Hill | [Read More](https://medium.com/p/456952400819) |
+| Thu, 29 May 2025 15:03:24 GMT | La transformation de la fonction commerciale | Florent M | [Read More](https://medium.com/p/b377fa4733db) |
+| Thu, 29 May 2025 15:02:54 GMT | Enabling Remote Desktop and SSH access to Kali | Md Zishan Firoz | [Read More](https://medium.com/p/eddc14260071) |
+| Thu, 29 May 2025 15:02:33 GMT | Data Leak vs. Account Hack - What’s the Real Difference for You? (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/c4f5f817471a) |
+| Thu, 29 May 2025 15:00:51 GMT | Advanced Angular Directive Security for Enterprise Applications | Herbert Moroni Gois | [Read More](https://medium.com/p/25fbaf601461) |
+| Thu, 29 May 2025 14:59:49 GMT | Awas Ada Hacker! Eh, Tenang Dulu… Kenalin Penetration Tester, Sang Ethical Hacker dari Red Team! | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/7604a70e340c) |
+| Thu, 29 May 2025 14:55:53 GMT | My First Cyber Homelab: Fire in the Wires | Alfonso Izquierdo | [Read More](https://medium.com/p/8cfbb112c7aa) |
+| Thu, 29 May 2025 14:49:31 GMT | Struktur Data : Hashing | Yasa Wijaya | [Read More](https://medium.com/p/53f6b9033bf7) |
+| Thu, 29 May 2025 14:47:01 GMT | Cybersecurity Laws and Regulations in England & Wales: What to Know in 2025 | Arlingsworth | [Read More](https://medium.com/p/f9589f5bec2b) |
 | Thu, 29 May 2025 14:39:49 GMT | Deface XSS | Rafli Setyawan | [Read More](https://medium.com/p/913702f0e47b) |
 | Thu, 29 May 2025 14:31:54 GMT | Cyberwarfare and the Quiet Death of Certainty | Liya Kruisen | [Read More](https://medium.com/p/4c12e33cf6d5) |
 | Thu, 29 May 2025 14:31:03 GMT | How China Is Rewiring Global Telecom to Undermine the West | National Security Institute | [Read More](https://medium.com/p/35bd562e51a4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 09:31:30 GMT | Inside O.MG Cable: The Hacker’s USB Wire That Does More Than Charge | Nanda Siddhardha | [Read More](https://medium.com/p/32e752c40967) |
 | Thu, 29 May 2025 09:31:17 GMT | Security Logs Made Simple: The Foundation of Cybersecurity Monitoring | Muraleekrishnan Unnithan R | [Read More](https://medium.com/p/6d44ac388c47) |
 | Thu, 29 May 2025 09:28:59 GMT | AT&T Data Leak 2025: 31 Million Records Exposed — How Businesses Can Stay Secure | Technijian | [Read More](https://medium.com/p/07170e00d3cd) |
-| Thu, 29 May 2025 09:23:35 GMT | Roadmap Cyber Security 2025–2030 | Agil Jibrin | [Read More](https://medium.com/p/915503c2ec56) |
-| Thu, 29 May 2025 09:23:14 GMT | You Can’t Always Trust People With Your Pain | Sylvie | [Read More](https://medium.com/p/fa4818a38f15) |
-| Thu, 29 May 2025 09:16:33 GMT | Building a Cloud-Based Home SOC Lab with Microsoft Sentinel | Shounak Das | [Read More](https://medium.com/p/0e592785509d) |
-| Thu, 29 May 2025 09:10:09 GMT | Injecting Secrets into Terraform Without Hardcoding Anything | Devops Trainer | [Read More](https://medium.com/p/09c511a7bb56) |
-| Thu, 29 May 2025 09:06:06 GMT | What Is Identity Theft? Warning Signs and How to Prevent Them | Tech on road | [Read More](https://medium.com/p/c2d8facb3f27) |
-| Thu, 29 May 2025 09:04:12 GMT | The Daily Tech Digest: 29 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/00fd03666a71) |
-| Thu, 29 May 2025 09:04:09 GMT | SQL injection UNION attack, finding a column containing text | Rachael Muga | [Read More](https://medium.com/p/f47c3014063c) |
-| Thu, 29 May 2025 09:03:22 GMT | GitHub Recon: The Underrated Technique to Discover High-Impact Leaks in Bug Bounty | coffinxp | [Read More](https://medium.com/p/c4069894389a) |
-| Thu, 29 May 2025 08:54:58 GMT | I Hacked the Secret to Making Money Online (It Wasn’t What I Expected) | Nahom Tamru | [Read More](https://medium.com/p/94cecba6d274) |
