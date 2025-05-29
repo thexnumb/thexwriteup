@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 04:19:40 GMT | Should Post-Quantum Cryptography Start Now? The Clock Is Ticking | QuantumGenie | [Read More](https://medium.com/p/a6d9a2959168) |
+| Thu, 29 May 2025 04:04:28 GMT | ️ Cyber Council: Empowering Digital Safety and Legal Awareness in India | Francis Samuvel | [Read More](https://medium.com/p/9121ec312300) |
 | Thu, 29 May 2025 03:54:54 GMT | Cybersecurity Chronicles - CISSP domains through lens of Heroes! | CyberGRC Simplified | [Read More](https://medium.com/p/72ea2d5a2c06) |
 | Thu, 29 May 2025 03:54:45 GMT | A $2M Phishing Scam: How One Email Crushed a Company | Ahmad Javed | [Read More](https://medium.com/p/90b92449b70e) |
 | Thu, 29 May 2025 03:49:56 GMT | Cyber Security Course in Kerala: Empower Your Future with Techmindz | Surya Suresh | [Read More](https://medium.com/p/168e6ad8872c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 18:27:55 GMT | Lucky Bhaskar – The Boy Who Made the Impossible Possible | Nizam | [Read More](https://medium.com/p/ec9757fc7f38) |
 | Wed, 28 May 2025 18:25:42 GMT | BlackByte Saldırı Analizi | Fırat Yağmur | [Read More](https://medium.com/p/c9bc28fb7efe) |
 | Wed, 28 May 2025 18:22:18 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Harshprajapati | [Read More](https://medium.com/p/087d2dfd3799) |
-| Wed, 28 May 2025 18:19:53 GMT | Section 66A: The Shreya Singhal Case | Vibhor Singh | [Read More](https://medium.com/p/2d6ac29b2818) |
-| Wed, 28 May 2025 18:15:29 GMT | My name is Sam . | Sam Grey | [Read More](https://medium.com/p/33d8df086bec) |
