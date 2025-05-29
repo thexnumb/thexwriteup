@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 23:31:29 GMT | Mobile Acquisition - THM | Isiah | [Read More](https://medium.com/p/b42122062c5a) |
+| Thu, 29 May 2025 23:29:53 GMT | Cybersecurity for Autonomous Systems & Military Drones: Building an Autonomous Zero Trust… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b3bd61c66436) |
+| Thu, 29 May 2025 23:26:45 GMT | ZDI-25–310: Remote NULL Deref in Linux KSMBD | Path Cybersec [Slava Moskvin] | [Read More](https://medium.com/p/8f3770ab0bb2) |
 | Thu, 29 May 2025 22:56:52 GMT | Write-up PicoCTF (Capture The Flag) — Roboto Sans | Sérgio Corrêa | [Read More](https://medium.com/p/8992c3f756d0) |
 | Thu, 29 May 2025 22:52:16 GMT | Triangular Distribution, Monte Carlo Simulations, and CDF: The Foundations of Cyber Risk… | Mehdi | [Read More](https://medium.com/p/fc7ba9838944) |
 | Thu, 29 May 2025 22:32:27 GMT | LOFI WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/c09070d2d824) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 16:25:54 GMT | What It Actually Means to Find “Home” in Love | Kousik M | [Read More](https://medium.com/p/eb2aaf49393a) |
 | Thu, 29 May 2025 16:24:01 GMT | The Overnight Superpower? India’s Unraveling Illusion in South Asia. | Asmat Ullah Raja | [Read More](https://medium.com/p/76b18e324721) |
 | Thu, 29 May 2025 16:21:09 GMT | PicoCTF: SSTI2 Write-up 2025 | Aryamhsa | [Read More](https://medium.com/p/4688e4b340fb) |
-| Thu, 29 May 2025 16:20:27 GMT | Vulnérabilités et ragots | Florent M | [Read More](https://medium.com/p/07ff93ab7ccc) |
-| Thu, 29 May 2025 16:18:09 GMT | 99% of Cyberattacks Succeed Because of You — Here’s How to Stop Being the Weakest Link | Kaif Tarasgar | [Read More](https://medium.com/p/683ffc23a9b2) |
-| Thu, 29 May 2025 16:17:17 GMT | Roadmap Cybersecurity 5 Tahun: Menjadi Profesional Keamanan Siber di Era Industri 4.0 | AjiPangesstu | [Read More](https://medium.com/p/f1e5e783154a) |
