@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 13:22:10 GMT | The Importance of sharing Information between groups and companies in fighting cybercrime | Martin Abramov | [Read More](https://medium.com/p/e1c87f9d2c8d) |
+| Thu, 29 May 2025 13:20:14 GMT | Void Blizzard: Russian State-Backed Cloud Espionage, AitM Phishing, and LOTL Tactics Targeting NATO… | Wes Young | [Read More](https://medium.com/p/50eb0dc88f50) |
+| Thu, 29 May 2025 13:18:19 GMT | Venom Spider’s Polymorphic More_eggs: Advanced HR-Targeted Intrusions and Evasion Tactics | Wes Young | [Read More](https://medium.com/p/83ea67b9478a) |
+| Thu, 29 May 2025 13:12:08 GMT | OAuth2 Demystified: How Secure Authentication Powers Modern Web and Microservices | Lets Learn Now | [Read More](https://medium.com/p/5eca13df0e8b) |
+| Thu, 29 May 2025 13:06:18 GMT | Data as a Service revolutioniert 2025: Der ultimative Roadmap für nachhaltigen Unternehmenserfolg | Philip Hansen | [Read More](https://medium.com/p/27f7624f6049) |
+| Thu, 29 May 2025 13:05:24 GMT | The Cybersecurity Reality Check: Facts Every Business Must Know | Cybersecurity Umbrella | [Read More](https://medium.com/p/0dbf4e0c5381) |
+| Thu, 29 May 2025 13:01:21 GMT | Zero Trust Architecture (ZTA) | Hassan | [Read More](https://medium.com/p/92936a3cb134) |
+| Thu, 29 May 2025 13:00:01 GMT | Synthetic Identity Fraud: Understanding the Growing Threat | Sagar Kumar Padhy | [Read More](https://medium.com/p/732b30dbd55e) |
+| Thu, 29 May 2025 12:58:26 GMT | SSRF in Action: Metadata Exploitation in Cloud via a Vulnerable PHP Backend | Zoningxtr | [Read More](https://medium.com/p/0cfb215b4054) |
+| Thu, 29 May 2025 12:56:35 GMT | ️‍♂️ OSINT with Kali Linux: Leveraging Open Source Intelligence Tools | Esra Kayhan | [Read More](https://medium.com/p/3f7abacdada2) |
+| Thu, 29 May 2025 12:54:08 GMT | Secure Your Infrastructure with the Best Security Services in Bangalore | Southwallsecuritiesservice | [Read More](https://medium.com/p/b520d69bd184) |
+| Thu, 29 May 2025 12:53:43 GMT | 09961606295 | #شماره خاله قم #شماره خاله تهران#شماره خاله کرمان | [Read More](https://medium.com/p/612bb2e4c56c) |
+| Thu, 29 May 2025 12:52:32 GMT | The Weight of “Why”: Growing Up Different in a Loud World | Nimas Muslimah | [Read More](https://medium.com/p/b26a3b4858f2) |
+| Thu, 29 May 2025 12:46:33 GMT | Model Denial of Service (DoS) Attacks — OWASP LLM Top 10 | Akanksha Amarendra | [Read More](https://medium.com/p/af98e54300be) |
+| Thu, 29 May 2025 12:45:58 GMT | LetsDefend Vulnerability Management Course WriteUp (-EN-DRAFT-) | Adnan Kutay Yüksel | [Read More](https://medium.com/p/a998ea7736d4) |
+| Thu, 29 May 2025 12:45:57 GMT | LetsDefend Vulnerability Management WriteUp Rehberi | Adnan Kutay Yüksel | [Read More](https://medium.com/p/b958327c7f03) |
+| Thu, 29 May 2025 12:44:04 GMT | Were Your Passwords Leaked in the 184M Credential Breach? Here's How to Check — And What to Do Next | Zyntrio Tech Report | [Read More](https://medium.com/p/4f7035a5c06f) |
+| Thu, 29 May 2025 12:43:34 GMT | The Big IAM Challenge | Abhishek Gupta | [Read More](https://medium.com/p/040ab906a609) |
+| Thu, 29 May 2025 12:41:49 GMT | HackTheBox — Sunday Walkthrough | 0xh3x | [Read More](https://medium.com/p/e9682ac33760) |
+| Thu, 29 May 2025 12:41:14 GMT | Track the Hacks: Pengantar Log Analysis dalam Forensik Digital | byuda | [Read More](https://medium.com/p/c17c8e63d5d0) |
 | Thu, 29 May 2025 12:35:38 GMT | Massive Password Breach Exposes 184 Million Accounts — Here’s How to Protect Yourself Now | Zyntrio Tech Report | [Read More](https://medium.com/p/3603e5420740) |
 | Thu, 29 May 2025 12:33:32 GMT | The Cyber Kill Chain: Understanding How Hackers Actually Pull Off Their Attacks | Shubhamitaliya | [Read More](https://medium.com/p/4debde9e9a28) |
 | Thu, 29 May 2025 12:32:30 GMT | Week 5 in Cybersecurity — Speed, Stability & Closing Month One Strong | Fabián Muñoz | [Read More](https://medium.com/p/b5ec550f3808) |
@@ -95,23 +115,3 @@ a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
 | Thu, 29 May 2025 08:02:08 GMT | JALAN NINJA CYBER SECURITY: ROADMAP 5 TAHUN UNTUK TAKLUKKAN DUNIA SIBER | Elsandro Rivalito | [Read More](https://medium.com/p/6b8f09a789fc) |
 | Thu, 29 May 2025 08:01:54 GMT | Whether you’re just starting out in networking or diving into your CCNA prep, understanding TCP and… | Jiwan khatri | [Read More](https://medium.com/p/5014126de7df) |
 | Thu, 29 May 2025 08:01:32 GMT | Logwatcher’s Zenit #01: VS Code for Analysts, part 1 | ThreatHunter Chronicles | [Read More](https://medium.com/p/b7ead9123ed9) |
-| Thu, 29 May 2025 08:00:49 GMT | Securing Satellite Networks and Space Infrastructure: The Next Frontier in Cybersecurity | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b2b26d427d32) |
-| Thu, 29 May 2025 08:00:10 GMT | Ziny Proxy - Unlimited and Undetected IPs Built for Any Use Case | Ziny Proxy | [Read More](https://medium.com/p/c226ea84a8f0) |
-| Thu, 29 May 2025 07:57:20 GMT | Breaking Borders: How Reapool is Redefining Remote Tech Recruitment for a Borderless Workforce. | Reapool | [Read More](https://medium.com/p/2b729ef262b5) |
-| Thu, 29 May 2025 07:52:10 GMT | How my first bug got accepted in VDP program after two rejections | Meowsint | [Read More](https://medium.com/p/ce3890af6793) |
-| Thu, 29 May 2025 07:51:24 GMT | How Pakistanis Can Apply For a Kuwait Visa in 2025 : A Complete Guide | Abdul Rehman | [Read More](https://medium.com/p/b83c0bd0cc67) |
-| Thu, 29 May 2025 07:48:19 GMT | AWS Lambda - Data Exfiltration . Attack and Defense .  TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/d91e7b831966) |
-| Thu, 29 May 2025 07:47:25 GMT | 84Million Passwords Exposed: Why Cybersecurity Can’t Be Optional Anymore | Dhanusha N | [Read More](https://medium.com/p/675222495523) |
-| Thu, 29 May 2025 07:35:06 GMT | Should You Use a Polygraph Test When Hiring? | Mariiatata | [Read More](https://medium.com/p/fb7d88a63c12) |
-| Thu, 29 May 2025 07:31:20 GMT | This Time Last Year, I Was Living a Lie in Tinsel Wrapping | Para | [Read More](https://medium.com/p/55695ab6634e) |
-| Thu, 29 May 2025 07:19:24 GMT | Security in the Age of AI: Tools, Risks and What’s Next | Andre Fernandes | [Read More](https://medium.com/p/5802b6ab6d52) |
-| Thu, 29 May 2025 07:17:21 GMT | 12 essential features of advanced endpoint security tools | StackSoul | [Read More](https://medium.com/p/263c33aa46ba) |
-| Thu, 29 May 2025 07:15:41 GMT | Public Code, Private Keys: How I Was Rewarded $$$ for Uncovering PII Leaks (Part I) | Md Saikat | [Read More](https://medium.com/p/344b237d237a) |
-| Thu, 29 May 2025 07:14:00 GMT | Insider Risk Management: Strategies to Protect Your Organization from Within | Gargiben | [Read More](https://medium.com/p/5ba8769009c3) |
-| Thu, 29 May 2025 07:13:55 GMT | ประจำวันพฤหัสบดีที่ 29 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/80f89c0f8dca) |
-| Thu, 29 May 2025 07:08:00 GMT | Certificates For Cyber Security In The Red Team | Daarin | [Read More](https://medium.com/p/c6de152fc135) |
-| Thu, 29 May 2025 07:07:14 GMT | Russian Cyberattacks Target NGOs with Sophisticated Phishing | Virtual Cyber Labs | [Read More](https://medium.com/p/b6188c3497ef) |
-| Thu, 29 May 2025 07:03:25 GMT | Best Networking Course with Certification | cyber security Updates | [Read More](https://medium.com/p/ad90fd62fc01) |
-| Thu, 29 May 2025 07:02:01 GMT | The Road to Joshua Tree and the Voice Fear Tried to Silence | Michael Schneider | [Read More](https://medium.com/p/310bffb33ab7) |
-| Thu, 29 May 2025 07:01:33 GMT | The Hidden Dangers of Outdated Third-Party Software: Lessons from Recent Breaches | Easy2Patch | [Read More](https://medium.com/p/cc6ca956ffc1) |
-| Thu, 29 May 2025 07:01:31 GMT | Securing FTTx Deployments: From OLT to ONT — Threats, Protocols, and Defense Strategies | Imaneakhamal | [Read More](https://medium.com/p/3814a77c5846) |
