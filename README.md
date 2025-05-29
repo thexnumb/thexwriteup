@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 17:11:05 GMT | Passkeys: The Waterproof Defense Against Phishing Attacks | Ajay Kumar | [Read More](https://medium.com/p/b8b77ff825f2) |
+| Thu, 29 May 2025 17:11:04 GMT | Projeto de GRC na Prática | Mariana Coutinho | [Read More](https://medium.com/p/1fcd88e63d3c) |
+| Thu, 29 May 2025 17:08:05 GMT | everything’s in place — so why do I still feel alone? | dilay | [Read More](https://medium.com/p/6fff9037023e) |
+| Thu, 29 May 2025 17:06:37 GMT | how to get improve claps views and reads in medium | S Anuradha | [Read More](https://medium.com/p/0e057c527688) |
+| Thu, 29 May 2025 17:05:19 GMT | Intro to Cybersecurity : | Ritikkumar | [Read More](https://medium.com/p/105273a07ca5) |
+| Thu, 29 May 2025 17:03:29 GMT | Data Mesh Architektur: Der ultimative Strategieleitfaden für dezentrale Datenhoheit — Mit… | Philip Hansen | [Read More](https://medium.com/p/8b3608d81bef) |
+| Thu, 29 May 2025 17:00:11 GMT | Top 50 Cybersecurity Project Ideas with GitHub Links | Vijay Kumar Gupta | [Read More](https://medium.com/p/aea46b09f47c) |
+| Thu, 29 May 2025 16:56:00 GMT | Maximizing Security with 24/7 SOC Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/655feaebc37b) |
+| Thu, 29 May 2025 16:52:10 GMT | Apple Safari Bug Enables Fullscreen BitM Phishing Attacks | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/c72e54c09d32) |
+| Thu, 29 May 2025 16:52:02 GMT | One Click, Multiple Requests — Race Conditions: A Hidden Threat in Business Logic | Nishanthan | [Read More](https://medium.com/p/08186ab4037c) |
 | Thu, 29 May 2025 16:41:18 GMT | How to Prevent Malicious Code and Cyber Attacks | SafeAeon Inc. | [Read More](https://medium.com/p/a45fbdd7d72e) |
 | Thu, 29 May 2025 16:39:28 GMT | Dexodus Finance Exploit: How a Stale Chainlink Report Enabled a ~$291K Price Manipulation Attack | Evgenii | [Read More](https://medium.com/p/39dcee1efff0) |
 | Thu, 29 May 2025 16:31:52 GMT | AI-Driven Security: The Future of Protection in Business and Everyday Life | Miguel Vicente | [Read More](https://medium.com/p/584982384068) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 12:25:27 GMT | Easy Ways To Recover Your Stolen Phone | Muhammad Alameen | [Read More](https://medium.com/p/433d52324e4c) |
 | Thu, 29 May 2025 12:14:31 GMT | How I Rebuild a Linux Server After a Suspected Compromise (Step by Step) | Faruk Ahmed | [Read More](https://medium.com/p/68f79e4a9e52) |
 | Thu, 29 May 2025 12:13:06 GMT | Paradigm’s Trusted Security Guard and Housekeeping Services in Hyderabad | Paradigm Integrated Facility Management Services | [Read More](https://medium.com/p/3cecfe62c572) |
-| Thu, 29 May 2025 12:12:07 GMT | Implementing a CBC Bit-Flipping Attack to Bypass Access Control | yuehan | [Read More](https://medium.com/p/9317c2076e5b) |
-| Thu, 29 May 2025 12:12:02 GMT | Cyber Security Roadmap | Rizky Ramdhan Nugraha | [Read More](https://medium.com/p/d046ce89d34d) |
-| Thu, 29 May 2025 12:10:16 GMT | Cyberbiosecurity at the Digital DNA Frontier: Fortifying the Global Bioeconomy in the Age of AI… | Pinetreepoetry | [Read More](https://medium.com/p/51af063764aa) |
-| Thu, 29 May 2025 11:48:52 GMT | WHY I PUSH AWAY THE PEOPLE WHO CARE ABOUT ME | Bismahfarhan | [Read More](https://medium.com/p/52bebec2e399) |
-| Thu, 29 May 2025 11:39:40 GMT | WORK OF ART | Boluwatife Lash | [Read More](https://medium.com/p/389f0e1be9f4) |
-| Thu, 29 May 2025 11:31:12 GMT | Navi Mumbai Security: From Patrols to Surveillance | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/a4a9fd098d21) |
-| Thu, 29 May 2025 11:29:13 GMT | Terse - Tus for Android | Zekibiyikli | [Read More](https://medium.com/p/26411d4f9162) |
-| Thu, 29 May 2025 11:26:50 GMT | A Hidden Backdoor: Bypassing reCAPTCHA on the Sign-up Page | Ehtesham Ul Haq | [Read More](https://medium.com/p/2b5b3c18257f) |
-| Thu, 29 May 2025 11:24:11 GMT | Global Cyber Command Simulation Platform | A-STAR7_DOCTOR | [Read More](https://medium.com/p/343311130ff7) |
-| Thu, 29 May 2025 11:22:29 GMT | ☁️ Understanding Cloud Metadata & SSRF: Exposure, Danger & Exploitation | Zoningxtr | [Read More](https://medium.com/p/8ac0db7eb030) |
