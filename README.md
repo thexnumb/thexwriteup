@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 06:27:16 GMT | What is Network Security and What Are Its Main Components? | Saurabh | [Read More](https://medium.com/p/3f167bc0436d) |
+| Thu, 29 May 2025 06:16:32 GMT | Introducing cr3di: A Lightweight CLI Tool for Secure Credential Management on Kali Linux | ShutterOverFoe | [Read More](https://medium.com/p/64cf41a46e97) |
+| Thu, 29 May 2025 06:14:27 GMT | Advanced URL Filtering by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3758d1e5ed67) |
+| Thu, 29 May 2025 06:10:41 GMT | ️Encounter with Tapjacking in Flutter: Understanding and Preventing Tapjacking | Punith S Uppar | [Read More](https://medium.com/p/8650b3bea24d) |
+| Thu, 29 May 2025 06:06:02 GMT | World War III: How It Could Begin, What It Might Look Like, and the Future That Follows | Nadeem | [Read More](https://medium.com/p/541b6d2028ab) |
+| Thu, 29 May 2025 06:02:31 GMT | Security Boost: New Easy2Patch Catalog Updates Now Available | Easy2Patch | [Read More](https://medium.com/p/a258d4961306) |
+| Thu, 29 May 2025 06:00:54 GMT | Cybersecurity in the Cloud: Protecting Your Digital Assets in 2025 | Red9SysTech | [Read More](https://medium.com/p/82c5e1267115) |
+| Thu, 29 May 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — May 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5eabd2aa1bcb) |
+| Thu, 29 May 2025 05:59:59 GMT | Github Hacking NCSA mooc | Piyawut Buncharoen | [Read More](https://medium.com/p/54b07b9dadd4) |
+| Thu, 29 May 2025 05:58:46 GMT | DarkCorp Insane HackTheBox Room writeup | Vaishnavb | [Read More](https://medium.com/p/fa32ab93ac5c) |
+| Thu, 29 May 2025 05:57:24 GMT | My AndroGoat Journey: Deep Dive into Insecure Data Storage | Damara Brian | [Read More](https://medium.com/p/2887c1a524a8) |
+| Thu, 29 May 2025 05:45:01 GMT | The Dumbest Way I Broke Slack (Sort of): HTTP Request Smuggling FTW $6,500 REWARDS | Aditya sunny | [Read More](https://medium.com/p/ccf2e22e76bd) |
+| Thu, 29 May 2025 05:36:06 GMT | the silent spaces between us | Willowell M. | [Read More](https://medium.com/p/365dfceaddb8) |
 | Thu, 29 May 2025 05:33:34 GMT | Cybersecurity Advancements in 2025: Combating Evolving Threats | Red9SysTech | [Read More](https://medium.com/p/1faa0adb5dfe) |
 | Thu, 29 May 2025 05:30:31 GMT | Uncovering Amazon S3 Bucket Vulnerabilities: A Comprehensive Guide for Ethical Hackers | Abhijeet Kumawat | [Read More](https://medium.com/p/0fc903ac21d0) |
 | Thu, 29 May 2025 05:24:32 GMT | CryptoXpress’s Role in Bridging Web2 and Web3: A Seamless Transition for Users | Devbradon | [Read More](https://medium.com/p/61b1c8e856a9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 20:33:28 GMT | The Shadow Brokers Group | Orgeismail | [Read More](https://medium.com/p/2e7d0b999be7) |
 | Wed, 28 May 2025 20:30:54 GMT | Building an AI-Powered Threat Defense: A Step-by-Step Guide to Open Source SOAR Integration | Andrei Ivan | [Read More](https://medium.com/p/0b76211ec025) |
 | Wed, 28 May 2025 20:23:37 GMT | The Windows Concept Journey — System Restore | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6c6a817018b0) |
-| Wed, 28 May 2025 20:21:38 GMT | John the Ripper: The Basics - THM | Isiah | [Read More](https://medium.com/p/abbd8722c952) |
-| Wed, 28 May 2025 20:16:37 GMT | BEWARE OF FALLING OBJECTS | E. Mbai | [Read More](https://medium.com/p/17b715b68e29) |
-| Wed, 28 May 2025 20:16:12 GMT | Cracking RSA with Fewer Qubits: What Google’s New Quantum Factoring Estimate Means for… | QuantumGenie | [Read More](https://medium.com/p/df26452610ef) |
-| Wed, 28 May 2025 20:07:37 GMT | Cracking Passwords with Hashcat: Wordlist, Mask Attack, and Hybrid Attack Techniques | Esra Kayhan | [Read More](https://medium.com/p/2f16f8913e0e) |
-| Wed, 28 May 2025 20:05:04 GMT | Rumble in the Regulation Jungle — Beyond NIS2 and CRA | Security Consulting Blogspot | [Read More](https://medium.com/p/21a00f1071d5) |
-| Wed, 28 May 2025 20:01:11 GMT | Stuxnet Nasıl Çalıştı? SCADA Sistemlerini Vuran Karmaşık Zararlı Yazılımın Analizi | asliulusoy | [Read More](https://medium.com/p/cf69f2831f26) |
-| Wed, 28 May 2025 19:58:03 GMT | Turn Your Car Into a Comfort Zone | Mitty anego | [Read More](https://medium.com/p/a69ce3d1f40c) |
-| Wed, 28 May 2025 19:39:32 GMT | WannaCry Analizi: Bir Ransomware Saldırısının Anatomisi | asliulusoy | [Read More](https://medium.com/p/1e8ac5d579da) |
-| Wed, 28 May 2025 19:38:51 GMT | SSTI Vulnerability Exploit | Firas Meddeb | [Read More](https://medium.com/p/aca548960dd2) |
-| Wed, 28 May 2025 19:37:26 GMT | Advanced Alert Scenarios with Wazuh: A Proactive Approach to Security | Esra Kayhan | [Read More](https://medium.com/p/741e44f8345d) |
-| Wed, 28 May 2025 19:33:25 GMT | LOT (Latency of Thought) Experiment Analysis | Tomer Wetzler | [Read More](https://medium.com/p/c3b8233551d4) |
-| Wed, 28 May 2025 19:28:29 GMT | Slow Language Model: Timing Rejection to Improve Malicious Prompting | Tomer Wetzler | [Read More](https://medium.com/p/f6533fb2f949) |
-| Wed, 28 May 2025 19:24:32 GMT | How I was able to Delete Any User Post On Tumbler via Chaining vulnerability(0-Click) | 0xshehab | [Read More](https://medium.com/p/2edf63d0c900) |
