@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 16:41:18 GMT | How to Prevent Malicious Code and Cyber Attacks | SafeAeon Inc. | [Read More](https://medium.com/p/a45fbdd7d72e) |
+| Thu, 29 May 2025 16:39:28 GMT | Dexodus Finance Exploit: How a Stale Chainlink Report Enabled a ~$291K Price Manipulation Attack | Evgenii | [Read More](https://medium.com/p/39dcee1efff0) |
+| Thu, 29 May 2025 16:31:52 GMT | AI-Driven Security: The Future of Protection in Business and Everyday Life | Miguel Vicente | [Read More](https://medium.com/p/584982384068) |
+| Thu, 29 May 2025 16:29:59 GMT | Introduction | Maximum Bob | [Read More](https://medium.com/p/bf33eea740ed) |
+| Thu, 29 May 2025 16:29:12 GMT | Types of Networks: WAN, LAN, MAN, WLAN | Mazhar Imran | [Read More](https://medium.com/p/67725ddc0584) |
+| Thu, 29 May 2025 16:28:29 GMT | My Intro to Cybersecurity: Course 1 | Jeffrey Dowdye-Joseph | [Read More](https://medium.com/p/680b2905355a) |
+| Thu, 29 May 2025 16:26:50 GMT | Dark Web Monitoring Services: Protect Your Business from Hidden Threats | SafeAeon Inc. | [Read More](https://medium.com/p/a760d4c1e1f2) |
+| Thu, 29 May 2025 16:25:54 GMT | What It Actually Means to Find “Home” in Love | Kousik M | [Read More](https://medium.com/p/eb2aaf49393a) |
 | Thu, 29 May 2025 16:24:01 GMT | The Overnight Superpower? India’s Unraveling Illusion in South Asia. | Asmat Ullah Raja | [Read More](https://medium.com/p/76b18e324721) |
+| Thu, 29 May 2025 16:21:09 GMT | PicoCTF: SSTI2 Write-up 2025 | Aryamhsa | [Read More](https://medium.com/p/4688e4b340fb) |
 | Thu, 29 May 2025 16:20:27 GMT | Vulnérabilités et ragots | Florent M | [Read More](https://medium.com/p/07ff93ab7ccc) |
 | Thu, 29 May 2025 16:18:09 GMT | 99% of Cyberattacks Succeed Because of You — Here’s How to Stop Being the Weakest Link | Kaif Tarasgar | [Read More](https://medium.com/p/683ffc23a9b2) |
+| Thu, 29 May 2025 16:17:17 GMT | Roadmap Cybersecurity 5 Tahun: Menjadi Profesional Keamanan Siber di Era Industri 4.0 | AjiPangesstu | [Read More](https://medium.com/p/f1e5e783154a) |
 | Thu, 29 May 2025 16:13:12 GMT | 30 Days of Cyber Security — Day 3: Roles in Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/c2f31239c100) |
 | Thu, 29 May 2025 16:13:08 GMT | The Storm Before the Storm | Imane Errayes | [Read More](https://medium.com/p/b96bbc007e52) |
 | Thu, 29 May 2025 16:10:16 GMT | Microsoft’s Quantum Leap: Inside the Majorana Chip That Could Revolutionize Computing | QuantumGenie | [Read More](https://medium.com/p/4e52d14916c4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 11:26:50 GMT | A Hidden Backdoor: Bypassing reCAPTCHA on the Sign-up Page | Ehtesham Ul Haq | [Read More](https://medium.com/p/2b5b3c18257f) |
 | Thu, 29 May 2025 11:24:11 GMT | Global Cyber Command Simulation Platform | A-STAR7_DOCTOR | [Read More](https://medium.com/p/343311130ff7) |
 | Thu, 29 May 2025 11:22:29 GMT | ☁️ Understanding Cloud Metadata & SSRF: Exposure, Danger & Exploitation | Zoningxtr | [Read More](https://medium.com/p/8ac0db7eb030) |
-| Thu, 29 May 2025 11:22:17 GMT | How AI is Reshaping Software Development: The Future of Intelligent Automation | Lingala kondareddy | [Read More](https://medium.com/p/570766401e2e) |
-| Thu, 29 May 2025 11:20:45 GMT | Why a No-Log VPN is Your Ultimate Digital Armor: A Deep Dive into Online Privacy (Inspired by Our… | zainal Abidin | [Read More](https://medium.com/p/52f441796647) |
-| Thu, 29 May 2025 11:17:26 GMT | Studying IT in a Rural Village: My Journey from Belihuloya | Mariyeta Rodrigo | [Read More](https://medium.com/p/3aef22a1d8f0) |
-| Thu, 29 May 2025 11:17:10 GMT | HashiCorp Vault Cluster Setup with Raft Backend(NGINX Reverse Proxy with Keepalived) | Hasancan Gümüş | [Read More](https://medium.com/p/9e5f4de47d39) |
-| Thu, 29 May 2025 11:12:27 GMT | The Importance of Futuristic Courses in Employment | MERAQUI | [Read More](https://medium.com/p/f85d1ee6f5be) |
-| Thu, 29 May 2025 11:03:39 GMT | What to Look for When Choosing Security Agencies in Thane | united guard | [Read More](https://medium.com/p/70d672d0f1c3) |
-| Thu, 29 May 2025 10:59:36 GMT | Why CCTV Installation Is No Longer Optional in 2024 — Here’s What You Need to Know | Nestrondigitalhub | [Read More](https://medium.com/p/2fc61857a00d) |
-| Thu, 29 May 2025 10:50:27 GMT | Tech Is Not A Palliative: A Call For Realistic Expectations In Tech — Joshua Oyeniyi | Joshua Oyeniyi | [Read More](https://medium.com/p/75796460c9f8) |
-| Thu, 29 May 2025 10:45:39 GMT | Choosing the Right Security Agency in Pune | United Guard Force India | [Read More](https://medium.com/p/946ea25d1bfb) |
-| Thu, 29 May 2025 10:45:03 GMT | Is Your Business Prepared for Cyber Attacks During National Crises? | Matin Shaikh | [Read More](https://medium.com/p/22f329e4e249) |
