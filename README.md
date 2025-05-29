@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 03:05:23 GMT | Building a CICD in Jenkins | Pankaj Kumar Singh | [Read More](https://medium.com/p/81a592639c8c) |
+| Thu, 29 May 2025 02:51:08 GMT | Mapping My Cybersecurity Journey: 5-Year Plan From Scratch | El Profesor | [Read More](https://medium.com/p/c37fb6c48a64) |
+| Thu, 29 May 2025 02:50:14 GMT | From Streets to Success: My Raw Journey of Homelessness, Resilience, and Building a Future in Tech | Zyntrio Tech Report | [Read More](https://medium.com/p/4c9b18a85f33) |
+| Thu, 29 May 2025 02:47:32 GMT | What Happens When Data Stops at the Border? (The Internet’s Quiet Redesign) | Uzay Yildirim | [Read More](https://medium.com/p/db00d3d7e4a5) |
+| Thu, 29 May 2025 02:33:43 GMT | ️My Cybersecurity Roadmap for The Next 5 Years | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/62208a2bb91f) |
+| Thu, 29 May 2025 02:32:12 GMT | Day 0: Enter The Maze | Nocten's Chronicles | [Read More](https://medium.com/p/27ae96bbb235) |
+| Thu, 29 May 2025 02:28:44 GMT | Beginner’s Guide to Creating a TVRA Excel Template | Pawan Koirala | [Read More](https://medium.com/p/1d45dbd09b95) |
+| Thu, 29 May 2025 02:21:17 GMT | Inside Rogue: Building and Understanding a Modular C2 Botnet Framework | Ekoms Savior | [Read More](https://medium.com/p/bfcb0e0c8aa3) |
+| Thu, 29 May 2025 02:15:43 GMT | The Idealist’s Architecture Decision: Cross-Tenant Access — Part 3 | Jenny 秋 | [Read More](https://medium.com/p/fbd21150f03f) |
+| Thu, 29 May 2025 02:12:36 GMT | CyberSecurity Mission : 5 Years From Zero To Hero | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/e28b495d5ba8) |
+| Thu, 29 May 2025 02:07:18 GMT | From Panic to Pull Request: How CloudAEye Reimagines Bug Fixing for Engineering Teams | CloudAEye, Inc. | [Read More](https://medium.com/p/ac1342a3242d) |
+| Thu, 29 May 2025 02:06:25 GMT | $1,000 Bounty: Created Support Tickets on Behalf of Any HackerOne User via Email | Monika sharma | [Read More](https://medium.com/p/d8b6f90f0757) |
+| Thu, 29 May 2025 01:58:19 GMT | SOC335 — Event ID: 313 — CVE-2024–49138 Exploitation Detected -Lest Defend Writeup | Onixgodeh | [Read More](https://medium.com/p/e7366ca2c63e) |
 | Thu, 29 May 2025 01:29:49 GMT | Footprinting: Your First Step Towards Hacking | Manoj Shrestha | [Read More](https://medium.com/p/0558f5bc1237) |
+| Thu, 29 May 2025 01:27:12 GMT | The Woman | Arthur Semtex | [Read More](https://medium.com/p/d885b4ead7c7) |
 | Thu, 29 May 2025 01:23:38 GMT | Zero Trust vs. Trust But Verify: A Cybersecurity Superhero Analogy | Varnith | [Read More](https://medium.com/p/df89835c9d3b) |
 | Thu, 29 May 2025 01:08:31 GMT | Tie-Break or Die: Why AI Doesn’t Need a Gut — Just a Decisive Line of Code & Accountability | Karla Ortiz-Flores | [Read More](https://medium.com/p/f3e217ecbaef) |
 | Thu, 29 May 2025 00:53:36 GMT | What is a network? | Big Uncle In Lagos | [Read More](https://medium.com/p/f954d6e303bd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 17:16:34 GMT | PCI DSS in Canada: 5 Common Mistakes Businesses Make | Feroot Security | [Read More](https://medium.com/p/32e6148afed0) |
 | Wed, 28 May 2025 17:13:33 GMT | Welcome to my personal space! | rnnull | [Read More](https://medium.com/p/ff930acd42a8) |
 | Wed, 28 May 2025 17:11:30 GMT | Mastering XSS for Beginners: From Alert Boxes to Session Hijacking | Rabbiyatabassum | [Read More](https://medium.com/p/4bb0a419840a) |
-| Wed, 28 May 2025 17:04:10 GMT | My AndroGoat Journey: Deep Dive into Network Intercepting | Damara Brian | [Read More](https://medium.com/p/f19fa5ec239d) |
-| Wed, 28 May 2025 17:03:16 GMT | SC 900 is just an Appetizer: Why SC 900 Isn’t Enough without Sec+ and Hands-On training. | CyberHarv : Down the Rabbit Hole Chronicles | [Read More](https://medium.com/p/a5fd53b1bd21) |
-| Wed, 28 May 2025 16:57:21 GMT | Uncle Sam’s AI Power Move: What H.R.1 Means for Investors | Monk | [Read More](https://medium.com/p/44add5e0d954) |
-| Wed, 28 May 2025 16:55:03 GMT | How to Launch a Secure DeFi App (Checklist for Founders) | Decrypt0 | [Read More](https://medium.com/p/1c2130cfea3c) |
-| Wed, 28 May 2025 16:52:53 GMT | Think Like an Attacker: Practical Threat Modeling for Real-World Teams | Pratik Gaikwad | [Read More](https://medium.com/p/f773a2601bba) |
-| Wed, 28 May 2025 16:51:42 GMT | “I Use End-to-End Encryption, They Can’t See My Messages” | Nurlan Isazade | [Read More](https://medium.com/p/c0511e27e932) |
-| Wed, 28 May 2025 16:46:28 GMT | Adidas Cyber Attack Exposes Customer Data: What You Need to Know | Technijian | [Read More](https://medium.com/p/26aea20fed07) |
-| Wed, 28 May 2025 16:43:06 GMT | I will deliver perfect cybersecurity data science technical tech it, grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/008bacbe637b) |
-| Wed, 28 May 2025 16:42:27 GMT | Securing the Digital Frontier | Adem KORKMAZ | [Read More](https://medium.com/p/ce88689716c6) |
-| Wed, 28 May 2025 16:40:59 GMT | My Private Roadmap to be a good pentester | leosycthe (not a typo—just a style choice) | [Read More](https://medium.com/p/038eba9f095b) |
-| Wed, 28 May 2025 16:40:58 GMT | Enterprise-Grade Security for Small Businesses: The Network Security as a Service Advantage | SafeAeon Inc. | [Read More](https://medium.com/p/8dc09053de4f) |
-| Wed, 28 May 2025 16:40:29 GMT | Code Like It Matters: A Guide to Secure Coding (from someone who broke it before fixing it) | PanicAtTheKernel | [Read More](https://medium.com/p/f228ad92337a) |
-| Wed, 28 May 2025 16:37:44 GMT | ️ Beginner’s Guide to Becoming a Pentester: From Zero to First Hack | Midhun Thomas | [Read More](https://medium.com/p/75ba8c8e831d) |
-| Wed, 28 May 2025 16:32:50 GMT | You’ll find my thought processes, challenges I faced, and what I learned along the way — whether… | rnnull | [Read More](https://medium.com/p/6dd5c9f4ad83) |
