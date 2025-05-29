@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 22:32:27 GMT | LOFI WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/c09070d2d824) |
+| Thu, 29 May 2025 22:31:59 GMT | Siber Tehdit İstihbaratı Nedir? | EmreYİĞİT | [Read More](https://medium.com/p/03b5557559a3) |
+| Thu, 29 May 2025 22:24:34 GMT | STUXNet: Dijital Dünyanın İlk Siber Silahı | Hasan Çavdar | [Read More](https://medium.com/p/3476e23900bd) |
+| Thu, 29 May 2025 22:21:41 GMT | When the Silk Tears: A Glimpse into the Cyber Shadows Behind Victoria’s Secret Breach | Avnishyam | [Read More](https://medium.com/p/67bf676d53d5) |
 | Thu, 29 May 2025 22:16:42 GMT | Exploring More Network Services and Exploitation Techniques | Karthikeyan Nagaraj | [Read More](https://medium.com/p/2f4f4f74f604) |
 | Thu, 29 May 2025 22:16:03 GMT | The Gray Space: Reconnaissance and Social Engineering at the Intersection of Intelligence… | Alayna Ferdarko | [Read More](https://medium.com/p/d7aea3f12b13) |
+| Thu, 29 May 2025 22:15:44 GMT | Understanding Male Vulnerability in the Fight for Equality | Cecil Ato Kwamena Dadzie | [Read More](https://medium.com/p/5c81fd186e4f) |
 | Thu, 29 May 2025 22:06:37 GMT | Safe Online: Navigating the World of Cybersecurity | Enna | [Read More](https://medium.com/p/293a28816066) |
 | Thu, 29 May 2025 22:02:36 GMT | Understanding Simple Network Topology: A Case Study of a Small Office Network | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/4de0d6158115) |
 | Thu, 29 May 2025 22:02:35 GMT | Snowflake Architecture Series: A Foundational Checklist | Augusto Kiniama Rosa | [Read More](https://medium.com/p/fcb6c1db7f19) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 16:17:17 GMT | Roadmap Cybersecurity 5 Tahun: Menjadi Profesional Keamanan Siber di Era Industri 4.0 | AjiPangesstu | [Read More](https://medium.com/p/f1e5e783154a) |
 | Thu, 29 May 2025 16:13:12 GMT | 30 Days of Cyber Security — Day 3: Roles in Cyber Security | Indra Rahmat Maulidi | [Read More](https://medium.com/p/c2f31239c100) |
 | Thu, 29 May 2025 16:13:08 GMT | The Storm Before the Storm | Imane Errayes | [Read More](https://medium.com/p/b96bbc007e52) |
-| Thu, 29 May 2025 16:10:16 GMT | Microsoft’s Quantum Leap: Inside the Majorana Chip That Could Revolutionize Computing | QuantumGenie | [Read More](https://medium.com/p/4e52d14916c4) |
-| Thu, 29 May 2025 16:08:58 GMT | How to Integrating National Development with Defense and Security. | Pandita Ramabai | [Read More](https://medium.com/p/54462f245d11) |
-| Thu, 29 May 2025 16:00:06 GMT | Day 14: What is Compliance & Why It Matters | Brittney Ginther | [Read More](https://medium.com/p/66fbef0a8ca2) |
-| Thu, 29 May 2025 15:54:40 GMT | Unlocking the Rail Fence Cipher in Python: Encrypt and Decrypt Like a Pro! | Devansh  Kushwaha | [Read More](https://medium.com/p/4a94e3a8a9f2) |
-| Thu, 29 May 2025 15:41:10 GMT | From 0 to Exploitable in 600 Seconds My California Bug Story | Karthikeyan | [Read More](https://medium.com/p/d10f4b29f306) |
