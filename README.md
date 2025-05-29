@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 14:15:06 GMT | Weekend Recon: Uncovering a Critical SQL Injection and 46 Databases on an Academic Domain | Ahmad Suhendra | [Read More](https://medium.com/p/95a96d573dde) |
+| Thu, 29 May 2025 14:13:56 GMT | Hacking the Headlines: A Pen Tester’s Take on Today’s Cybersecurity Chaos | Hacker256 | [Read More](https://medium.com/p/176c24f419a2) |
+| Thu, 29 May 2025 14:11:47 GMT | How to Install Klipper on a Kodak Portrait 3D Printer | luca sain | [Read More](https://medium.com/p/52daa822a627) |
+| Thu, 29 May 2025 14:06:01 GMT | Python Part 1 — Data Structures and Functions | Onyx | [Read More](https://medium.com/p/e4ab6ff7932a) |
+| Thu, 29 May 2025 14:02:48 GMT | The Cyber Attack That Changed Geopolitics | Ahmad Javed | [Read More](https://medium.com/p/268467e6ef82) |
+| Thu, 29 May 2025 14:00:04 GMT | Cyber Briefing: 2025.05.29 | CyberMaterial | [Read More](https://medium.com/p/807a1c1c8919) |
+| Thu, 29 May 2025 13:54:05 GMT | Special Variable Injection Under Restricted Shell: Write Up Overthewire Bandit32 | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/73d4e092e12f) |
+| Thu, 29 May 2025 13:42:43 GMT | Leveling Up My GitHub Security Game — A Deep Dive into My Maintainer Month Challenge | thegoddysmart | [Read More](https://medium.com/p/794a78cac68d) |
+| Thu, 29 May 2025 13:42:31 GMT | Internet Par Safe Kaise Rahein? - 1Password Manager | FogoChainIndia | [Read More](https://medium.com/p/d7e41cdafec1) |
+| Thu, 29 May 2025 13:31:30 GMT | Protecting Against Identity Theft | Connor Fergus | [Read More](https://medium.com/p/b70cd8234471) |
+| Thu, 29 May 2025 13:31:30 GMT | Week 4 in Cybersecurity — Cheat Sheets, Inventory Hunts & Quiet Progress | Fabián Muñoz | [Read More](https://medium.com/p/33ae739ccd26) |
+| Thu, 29 May 2025 13:24:32 GMT | Detecting Koi Stealer Malware Through Traffic Analysis: A Case Study | Bumi Arya Dirangga | [Read More](https://medium.com/p/47a47f2d2f05) |
 | Thu, 29 May 2025 13:22:10 GMT | The Importance of sharing Information between groups and companies in fighting cybercrime | Martin Abramov | [Read More](https://medium.com/p/e1c87f9d2c8d) |
 | Thu, 29 May 2025 13:20:14 GMT | Void Blizzard: Russian State-Backed Cloud Espionage, AitM Phishing, and LOTL Tactics Targeting NATO… | Wes Young | [Read More](https://medium.com/p/50eb0dc88f50) |
 | Thu, 29 May 2025 13:18:19 GMT | Venom Spider’s Polymorphic More_eggs: Advanced HR-Targeted Intrusions and Evasion Tactics | Wes Young | [Read More](https://medium.com/p/83ea67b9478a) |
@@ -103,15 +115,3 @@ a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
 | Thu, 29 May 2025 08:42:47 GMT | Building a Compliant Security Operations Center: A Step-by-Step Guide Integrating CISSP, ISO 27001… | Oleh Dubetcky | [Read More](https://medium.com/p/0d1add1e6a1b) |
 | Thu, 29 May 2025 08:39:22 GMT | Understanding the SOCI Act in IT: What Australian Businesses Need to Know | cyber ethos | [Read More](https://medium.com/p/f0b5846e1a04) |
 | Thu, 29 May 2025 08:36:49 GMT | Blockchain and Cybersecurity: Enhancing Data Security — An In-Depth Guide | Nikson Kejeh | [Read More](https://medium.com/p/7cf13605dc59) |
-| Thu, 29 May 2025 08:36:22 GMT | Warp.dev still ducking The Forge AGI | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/af2640b9ae39) |
-| Thu, 29 May 2025 08:35:16 GMT | Five-Year Roadmap to Becoming a Penetration Tester | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/cde455da9b36) |
-| Thu, 29 May 2025 08:34:45 GMT | Backup X | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/ea1ba347c540) |
-| Thu, 29 May 2025 08:16:02 GMT | How Hackers Drain Smart Contracts: The Reentrancy Attack That Stole $60M | Ancilar Technologies | [Read More](https://medium.com/p/360ae43e88d1) |
-| Thu, 29 May 2025 08:14:08 GMT | ROAD TO RED TEAM (Pentest Roadmap 5 Tahun — Dari Skiddie Jadi Pro Pentest) | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/9c4dada9356e) |
-| Thu, 29 May 2025 08:13:59 GMT | How File Upload for WooCommerce Engages Customers and Increases Sales | Nabeehaali | [Read More](https://medium.com/p/8592e53161b0) |
-| Thu, 29 May 2025 08:11:29 GMT | AWS Lambda . AWS Attack and Defense . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/aeaf57f237b8) |
-| Thu, 29 May 2025 08:08:37 GMT | Unauthenticated Remote Code Execution in vBulletin 6.0.1 via replaceAdTemplate Method | Bash Overflow | [Read More](https://medium.com/p/a221f46b9415) |
-| Thu, 29 May 2025 08:02:13 GMT | When Your Calendar Becomes a Weapon: APT41’s Ingenious Use of Google Calendar for Malware Command &… | Ismail Tasdelen | [Read More](https://medium.com/p/d3f1daa76ee7) |
-| Thu, 29 May 2025 08:02:08 GMT | JALAN NINJA CYBER SECURITY: ROADMAP 5 TAHUN UNTUK TAKLUKKAN DUNIA SIBER | Elsandro Rivalito | [Read More](https://medium.com/p/6b8f09a789fc) |
-| Thu, 29 May 2025 08:01:54 GMT | Whether you’re just starting out in networking or diving into your CCNA prep, understanding TCP and… | Jiwan khatri | [Read More](https://medium.com/p/5014126de7df) |
-| Thu, 29 May 2025 08:01:32 GMT | Logwatcher’s Zenit #01: VS Code for Analysts, part 1 | ThreatHunter Chronicles | [Read More](https://medium.com/p/b7ead9123ed9) |
