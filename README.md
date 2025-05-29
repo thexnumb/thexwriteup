@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 08:14:08 GMT | ROAD TO RED TEAM (Pentest Roadmap 5 Tahun — Dari Skiddie Jadi Pro Pentest) | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/9c4dada9356e) |
+| Thu, 29 May 2025 08:13:59 GMT | How File Upload for WooCommerce Engages Customers and Increases Sales | Nabeehaali | [Read More](https://medium.com/p/8592e53161b0) |
+| Thu, 29 May 2025 08:11:29 GMT | AWS Lambda . AWS Attack and Defense . TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/aeaf57f237b8) |
+| Thu, 29 May 2025 08:08:37 GMT | Unauthenticated Remote Code Execution in vBulletin 6.0.1 via replaceAdTemplate Method | Bash Overflow | [Read More](https://medium.com/p/a221f46b9415) |
+| Thu, 29 May 2025 08:02:13 GMT | When Your Calendar Becomes a Weapon: APT41’s Ingenious Use of Google Calendar for Malware Command &… | Ismail Tasdelen | [Read More](https://medium.com/p/d3f1daa76ee7) |
+| Thu, 29 May 2025 08:02:08 GMT | JALAN NINJA CYBER SECURITY: ROADMAP 5 TAHUN UNTUK TAKLUKKAN DUNIA SIBER | Elsandro Rivalito | [Read More](https://medium.com/p/6b8f09a789fc) |
+| Thu, 29 May 2025 08:01:54 GMT | Whether you’re just starting out in networking or diving into your CCNA prep, understanding TCP and… | Jiwan khatri | [Read More](https://medium.com/p/5014126de7df) |
+| Thu, 29 May 2025 08:01:32 GMT | Logwatcher’s Zenit #01: VS Code for Analysts, part 1 | ThreatHunter Chronicles | [Read More](https://medium.com/p/b7ead9123ed9) |
+| Thu, 29 May 2025 08:00:49 GMT | Securing Satellite Networks and Space Infrastructure: The Next Frontier in Cybersecurity | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b2b26d427d32) |
+| Thu, 29 May 2025 08:00:10 GMT | Ziny Proxy - Unlimited and Undetected IPs Built for Any Use Case | Ziny Proxy | [Read More](https://medium.com/p/c226ea84a8f0) |
+| Thu, 29 May 2025 07:57:20 GMT | Breaking Borders: How Reapool is Redefining Remote Tech Recruitment for a Borderless Workforce. | Reapool | [Read More](https://medium.com/p/2b729ef262b5) |
+| Thu, 29 May 2025 07:52:10 GMT | How my first bug got accepted in VDP program after two rejections | Meowsint | [Read More](https://medium.com/p/ce3890af6793) |
+| Thu, 29 May 2025 07:51:24 GMT | How Pakistanis Can Apply For a Kuwait Visa in 2025 : A Complete Guide | Abdul Rehman | [Read More](https://medium.com/p/b83c0bd0cc67) |
+| Thu, 29 May 2025 07:48:19 GMT | AWS Lambda - Data Exfiltration . Attack and Defense .  TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/d91e7b831966) |
+| Thu, 29 May 2025 07:47:25 GMT | 84Million Passwords Exposed: Why Cybersecurity Can’t Be Optional Anymore | Dhanusha N | [Read More](https://medium.com/p/675222495523) |
 | Thu, 29 May 2025 07:35:06 GMT | Should You Use a Polygraph Test When Hiring? | Mariiatata | [Read More](https://medium.com/p/fb7d88a63c12) |
 | Thu, 29 May 2025 07:31:20 GMT | This Time Last Year, I Was Living a Lie in Tinsel Wrapping | Para | [Read More](https://medium.com/p/55695ab6634e) |
 | Thu, 29 May 2025 07:19:24 GMT | Security in the Age of AI: Tools, Risks and What’s Next | Andre Fernandes | [Read More](https://medium.com/p/5802b6ab6d52) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 02:21:17 GMT | Inside Rogue: Building and Understanding a Modular C2 Botnet Framework | Ekoms Savior | [Read More](https://medium.com/p/bfcb0e0c8aa3) |
 | Thu, 29 May 2025 02:15:43 GMT | The Idealist’s Architecture Decision: Cross-Tenant Access — Part 3 | Jenny 秋 | [Read More](https://medium.com/p/fbd21150f03f) |
 | Thu, 29 May 2025 02:12:36 GMT | CyberSecurity Mission : 5 Years From Zero To Hero | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/e28b495d5ba8) |
-| Thu, 29 May 2025 02:07:18 GMT | From Panic to Pull Request: How CloudAEye Reimagines Bug Fixing for Engineering Teams | CloudAEye, Inc. | [Read More](https://medium.com/p/ac1342a3242d) |
-| Thu, 29 May 2025 02:06:25 GMT | $1,000 Bounty: Created Support Tickets on Behalf of Any HackerOne User via Email | Monika sharma | [Read More](https://medium.com/p/d8b6f90f0757) |
-| Thu, 29 May 2025 01:58:19 GMT | SOC335 — Event ID: 313 — CVE-2024–49138 Exploitation Detected -Lest Defend Writeup | Onixgodeh | [Read More](https://medium.com/p/e7366ca2c63e) |
-| Thu, 29 May 2025 01:29:49 GMT | Footprinting: Your First Step Towards Hacking | Manoj Shrestha | [Read More](https://medium.com/p/0558f5bc1237) |
-| Thu, 29 May 2025 01:27:12 GMT | The Woman | Arthur Semtex | [Read More](https://medium.com/p/d885b4ead7c7) |
-| Thu, 29 May 2025 01:23:38 GMT | Zero Trust vs. Trust But Verify: A Cybersecurity Superhero Analogy | Varnith | [Read More](https://medium.com/p/df89835c9d3b) |
-| Thu, 29 May 2025 01:08:31 GMT | Tie-Break or Die: Why AI Doesn’t Need a Gut — Just a Decisive Line of Code & Accountability | Karla Ortiz-Flores | [Read More](https://medium.com/p/f3e217ecbaef) |
-| Thu, 29 May 2025 00:53:36 GMT | What is a network? | Big Uncle In Lagos | [Read More](https://medium.com/p/f954d6e303bd) |
-| Thu, 29 May 2025 00:41:48 GMT | ️ Sensitive Data Exposure via WP-JSON in WordPress | Noorsaper | [Read More](https://medium.com/p/d1dee7318d3b) |
-| Thu, 29 May 2025 00:41:30 GMT | A list of tools for criminal and illegal trade investigations | loyalonlytoday | [Read More](https://medium.com/p/310daab5b676) |
-| Thu, 29 May 2025 00:35:17 GMT | Tech Governance Forum 2025… Notes from the Floor | Tim Prosser | [Read More](https://medium.com/p/d232b2553d1d) |
-| Thu, 29 May 2025 00:27:51 GMT | CORS Misconfiguration – Leaking Sensitive User Data Cross-Domain | Noorsaper | [Read More](https://medium.com/p/2045b4405862) |
-| Thu, 29 May 2025 00:18:45 GMT | ️ CVE-2018-15473 — Username Enumeration in OpenSSH | Noorsaper | [Read More](https://medium.com/p/5d066f1c11af) |
-| Thu, 29 May 2025 00:01:45 GMT | How Secure Coding Protects Your App from the Inside Out | Shaun Fulton | [Read More](https://medium.com/p/11f42c9d5641) |
-| Wed, 28 May 2025 23:30:10 GMT | Breaches Happen — But Data Theft Shouldn’t | Patrick Walsh | [Read More](https://medium.com/p/7e62deca3690) |
