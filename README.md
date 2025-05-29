@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 10:16:03 GMT | Cyber Attacks — Cybersecurity part -2 | Amt | [Read More](https://medium.com/p/0fc4cb3eec3a) |
+| Thu, 29 May 2025 10:15:52 GMT | Complete Guide to DevOps Training in Pakistan: Courses, Institutes, and Career Path | cyberwingITSolution | [Read More](https://medium.com/p/96dda441cd65) |
+| Thu, 29 May 2025 10:15:44 GMT | Security with Chinese Characteristics in the New Era: Beijing’s New Security White Paper | European Values Center for Security Policy | [Read More](https://medium.com/p/43cdd09013f2) |
+| Thu, 29 May 2025 10:08:33 GMT | Best MSP Company In Texas: Technokraft Serve | Technokraft Serve | [Read More](https://medium.com/p/1ae5e96bad48) |
+| Thu, 29 May 2025 10:03:04 GMT | How to Apply a CSP (Content Security Policy) Header in a Sitecore Project | Priyanshu Kuldeep | [Read More](https://medium.com/p/b688281fa6bd) |
+| Thu, 29 May 2025 10:02:29 GMT | Cyber Crucible: A Pen Tester’s Tale of 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/6414276738e2) |
+| Thu, 29 May 2025 09:58:28 GMT | Lit Protocol, AI Agents, Digital Ownership & the Future of the Internet: A Deep Dive | Mykola Vasyk | [Read More](https://medium.com/p/93fdb7eaef9b) |
+| Thu, 29 May 2025 09:50:53 GMT | The 180 Million Password Breach: A Wake-Up Call for Digital Security. | Shubert Singoyi | [Read More](https://medium.com/p/5e3a198a1667) |
+| Thu, 29 May 2025 09:47:08 GMT | Roadmap Cyber Security Operations: 5 Tahun ke Depan | rdtyy | [Read More](https://medium.com/p/24b3e816c1d7) |
+| Thu, 29 May 2025 09:41:51 GMT | MathWorks Confirms Ransomware Attack Disrupting Services for Millions of MATLAB Users | Infoziant | [Read More](https://medium.com/p/f6360b579e90) |
+| Thu, 29 May 2025 09:37:00 GMT | Roadmap Cyber Security — From script kiddie to 1337 | Dimas Fajar Kurniawan | [Read More](https://medium.com/p/904115f06bdd) |
 | Thu, 29 May 2025 09:31:30 GMT | Inside O.MG Cable: The Hacker’s USB Wire That Does More Than Charge | Nanda Siddhardha | [Read More](https://medium.com/p/32e752c40967) |
 | Thu, 29 May 2025 09:31:17 GMT | Security Logs Made Simple: The Foundation of Cybersecurity Monitoring | Muraleekrishnan Unnithan R | [Read More](https://medium.com/p/6d44ac388c47) |
 | Thu, 29 May 2025 09:28:59 GMT | AT&T Data Leak 2025: 31 Million Records Exposed — How Businesses Can Stay Secure | Technijian | [Read More](https://medium.com/p/07170e00d3cd) |
@@ -104,14 +115,3 @@ a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
 | Thu, 29 May 2025 05:10:30 GMT | Port 443 Demystified: A Complete Guide to HTTPS Traffic | Certera | [Read More](https://medium.com/p/bc4e91e41c0a) |
 | Thu, 29 May 2025 05:07:34 GMT | Puppy Writeup - Seasons 8 - HackTheBox | محمد بن إبراهيم | [Read More](https://medium.com/p/a16fbd265607) |
 | Thu, 29 May 2025 04:59:29 GMT | What is Web Browser Forensics? | InfosecTrain | [Read More](https://medium.com/p/ed027c141a66) |
-| Thu, 29 May 2025 04:57:18 GMT | EG-CERT CTF25 Flog: Nowadays Arch Issues | Sayed Abdelhafiz | [Read More](https://medium.com/p/acd6afa46b63) |
-| Thu, 29 May 2025 04:46:08 GMT | Wireguard client as a Kubernetes pod sidecar | Arkadii Emelianov | [Read More](https://medium.com/p/2f35ff15163c) |
-| Thu, 29 May 2025 04:40:15 GMT | Github Hacking NCSA mooc | piyawut buncharoen | [Read More](https://medium.com/p/1f78f6f4de91) |
-| Thu, 29 May 2025 04:38:00 GMT | MS Sentinel: Investigate - Azure Defense - TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/bbd18804967a) |
-| Thu, 29 May 2025 04:27:32 GMT | How GPT-4o Found a Linux Kernel Zero-Day — and What It Means for AI in Security | Aaron | [Read More](https://medium.com/p/869a662e0e04) |
-| Thu, 29 May 2025 04:19:40 GMT | Should Post-Quantum Cryptography Start Now? The Clock Is Ticking | QuantumGenie | [Read More](https://medium.com/p/a6d9a2959168) |
-| Thu, 29 May 2025 04:07:18 GMT | Roadmap Cyber Security 5 Tahun ke Depan — “Dari Pemula Jadi Profesional yang Ditakuti Hacker” | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/07cd0eceb10b) |
-| Thu, 29 May 2025 04:04:28 GMT | ️ Cyber Council: Empowering Digital Safety and Legal Awareness in India | Francis Samuvel | [Read More](https://medium.com/p/9121ec312300) |
-| Thu, 29 May 2025 03:54:54 GMT | Cybersecurity Chronicles - CISSP domains through lens of Heroes! | CyberGRC Simplified | [Read More](https://medium.com/p/72ea2d5a2c06) |
-| Thu, 29 May 2025 03:54:45 GMT | A $2M Phishing Scam: How One Email Crushed a Company | Ahmad Javed | [Read More](https://medium.com/p/90b92449b70e) |
-| Thu, 29 May 2025 03:49:56 GMT | Cyber Security Course in Kerala: Empower Your Future with Techmindz | Surya Suresh | [Read More](https://medium.com/p/168e6ad8872c) |
