@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 15:39:26 GMT | How To Fix The “{“message”:”Internal Server Error”}” Error in AWS | Emmanuel Muturia™ | [Read More](https://medium.com/p/9e8716c6972a) |
+| Thu, 29 May 2025 15:38:30 GMT | How Snowflake Was Hacked: Inside the Attack That Shook the Cloud | Stealseek | [Read More](https://medium.com/p/0099aaa4b5f4) |
+| Thu, 29 May 2025 15:32:17 GMT | OWASP Juice Shop walkthrough | Kausikdey | [Read More](https://medium.com/p/744a56a5dc13) |
+| Thu, 29 May 2025 15:31:45 GMT | GZR Observer Daily — May 29, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/3b514497d11c) |
+| Thu, 29 May 2025 15:26:52 GMT | Cybersecurity is Not Just IT’s Job | Dr. Rajesh Gunakala | [Read More](https://medium.com/p/46e2a4b8a28b) |
+| Thu, 29 May 2025 15:24:25 GMT | Why iOS for Visitor Management? | Michael Green | [Read More](https://medium.com/p/a31055215ee1) |
+| Thu, 29 May 2025 15:24:06 GMT | Day 50: Inside the Mind of an Attacker: The Cyber Kill Chain & Modern Attack Methodologies | Agarwaldaksh | [Read More](https://medium.com/p/c4de0cdadb4a) |
+| Thu, 29 May 2025 15:20:27 GMT | My Introduction into Cybersecurity | Jeffrey Dowdye-Joseph | [Read More](https://medium.com/p/42aa9bc5f893) |
+| Thu, 29 May 2025 15:20:07 GMT | When Data Becomes a Liability: Navigating AI Compliance in Regulated Industries | DevKit | [Read More](https://medium.com/p/1de5ae6b5152) |
+| Thu, 29 May 2025 15:20:00 GMT | ROADMAP 5 TAHUN MENJADI PRO-CYBER SECURITY | My Ego | [Read More](https://medium.com/p/4d5b95f6c538) |
+| Thu, 29 May 2025 15:19:30 GMT | Bug Bounty and Penetration Testing Explained: What’s the Difference | Pratik Dabhi | [Read More](https://medium.com/p/41384e187c9a) |
+| Thu, 29 May 2025 15:11:07 GMT | IELTS-CERTIFIKAT TILL SALU//Telegram….(+237672351658) | Omochuka | [Read More](https://medium.com/p/2f909abf1eb1) |
 | Thu, 29 May 2025 15:06:11 GMT | Part One — A Practical Guide to Automate Threat Analysis: Accounts & Configs | Jade Hill | [Read More](https://medium.com/p/456952400819) |
 | Thu, 29 May 2025 15:03:24 GMT | La transformation de la fonction commerciale | Florent M | [Read More](https://medium.com/p/b377fa4733db) |
 | Thu, 29 May 2025 15:02:54 GMT | Enabling Remote Desktop and SSH access to Kali | Md Zishan Firoz | [Read More](https://medium.com/p/eddc14260071) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 10:19:37 GMT | Comprehensive Guide to Linux System Administrator Career: Skills, Jobs, and Training in Pakistan | cyberwingITSolution | [Read More](https://medium.com/p/f32489d49ef8) |
 | Thu, 29 May 2025 10:16:03 GMT | Cyber Attacks — Cybersecurity part -2 | Amt | [Read More](https://medium.com/p/0fc4cb3eec3a) |
 | Thu, 29 May 2025 10:15:52 GMT | Complete Guide to DevOps Training in Pakistan: Courses, Institutes, and Career Path | cyberwingITSolution | [Read More](https://medium.com/p/96dda441cd65) |
-| Thu, 29 May 2025 10:15:44 GMT | Security with Chinese Characteristics in the New Era: Beijing’s New Security White Paper | European Values Center for Security Policy | [Read More](https://medium.com/p/43cdd09013f2) |
-| Thu, 29 May 2025 10:08:33 GMT | Best MSP Company In Texas: Technokraft Serve | Technokraft Serve | [Read More](https://medium.com/p/1ae5e96bad48) |
-| Thu, 29 May 2025 10:03:04 GMT | How to Apply a CSP (Content Security Policy) Header in a Sitecore Project | Priyanshu Kuldeep | [Read More](https://medium.com/p/b688281fa6bd) |
-| Thu, 29 May 2025 10:02:29 GMT | Cyber Crucible: A Pen Tester’s Tale of 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/6414276738e2) |
-| Thu, 29 May 2025 09:58:28 GMT | Lit Protocol, AI Agents, Digital Ownership & the Future of the Internet: A Deep Dive | Mykola Vasyk | [Read More](https://medium.com/p/93fdb7eaef9b) |
-| Thu, 29 May 2025 09:50:53 GMT | The 180 Million Password Breach: A Wake-Up Call for Digital Security. | Shubert Singoyi | [Read More](https://medium.com/p/5e3a198a1667) |
-| Thu, 29 May 2025 09:47:08 GMT | Roadmap Cyber Security Operations: 5 Tahun ke Depan | rdtyy | [Read More](https://medium.com/p/24b3e816c1d7) |
-| Thu, 29 May 2025 09:41:51 GMT | MathWorks Confirms Ransomware Attack Disrupting Services for Millions of MATLAB Users | Infoziant | [Read More](https://medium.com/p/f6360b579e90) |
-| Thu, 29 May 2025 09:37:00 GMT | Roadmap Cyber Security — From script kiddie to 1337 | Dimas Fajar Kurniawan | [Read More](https://medium.com/p/904115f06bdd) |
-| Thu, 29 May 2025 09:31:30 GMT | Inside O.MG Cable: The Hacker’s USB Wire That Does More Than Charge | Nanda Siddhardha | [Read More](https://medium.com/p/32e752c40967) |
-| Thu, 29 May 2025 09:31:17 GMT | Security Logs Made Simple: The Foundation of Cybersecurity Monitoring | Muraleekrishnan Unnithan R | [Read More](https://medium.com/p/6d44ac388c47) |
-| Thu, 29 May 2025 09:28:59 GMT | AT&T Data Leak 2025: 31 Million Records Exposed — How Businesses Can Stay Secure | Technijian | [Read More](https://medium.com/p/07170e00d3cd) |
