@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 18:39:01 GMT | How to Protect API Keys with CloudFlare Worker | Shadai Scott | [Read More](https://medium.com/p/0da68edabd84) |
+| Thu, 29 May 2025 18:36:11 GMT | Top 10 Cybersecurity Trends and Strategies in 2025 | Xaltius | [Read More](https://medium.com/p/efd742d4bf54) |
 | Thu, 29 May 2025 18:26:29 GMT | Understanding the Referer in Network Header | Natarajan C K | [Read More](https://medium.com/p/c1a675406014) |
 | Thu, 29 May 2025 18:14:40 GMT | Neuroweapons in Cognitive Warfare | SIMKRA | [Read More](https://medium.com/p/21c5f54fb20a) |
 | Thu, 29 May 2025 18:13:55 GMT | Complex Data Breach Laws Require Smarter Security | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/593b07058b6f) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 12:54:08 GMT | Secure Your Infrastructure with the Best Security Services in Bangalore | Southwallsecuritiesservice | [Read More](https://medium.com/p/b520d69bd184) |
 | Thu, 29 May 2025 12:53:43 GMT | 09961606295 | #شماره خاله قم #شماره خاله تهران#شماره خاله کرمان | [Read More](https://medium.com/p/612bb2e4c56c) |
 | Thu, 29 May 2025 12:52:32 GMT | The Weight of “Why”: Growing Up Different in a Loud World | Nimas Muslimah | [Read More](https://medium.com/p/b26a3b4858f2) |
-| Thu, 29 May 2025 12:46:33 GMT | Model Denial of Service (DoS) Attacks — OWASP LLM Top 10 | Akanksha Amarendra | [Read More](https://medium.com/p/af98e54300be) |
-| Thu, 29 May 2025 12:45:58 GMT | LetsDefend Vulnerability Management Course WriteUp (-EN-DRAFT-) | Adnan Kutay Yüksel | [Read More](https://medium.com/p/a998ea7736d4) |
