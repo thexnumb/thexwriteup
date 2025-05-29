@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 09:31:30 GMT | Inside O.MG Cable: The Hacker’s USB Wire That Does More Than Charge | Nanda Siddhardha | [Read More](https://medium.com/p/32e752c40967) |
+| Thu, 29 May 2025 09:31:17 GMT | Security Logs Made Simple: The Foundation of Cybersecurity Monitoring | Muraleekrishnan Unnithan R | [Read More](https://medium.com/p/6d44ac388c47) |
+| Thu, 29 May 2025 09:28:59 GMT | AT&T Data Leak 2025: 31 Million Records Exposed — How Businesses Can Stay Secure | Technijian | [Read More](https://medium.com/p/07170e00d3cd) |
+| Thu, 29 May 2025 09:23:35 GMT | Roadmap Cyber Security 2025–2030 | Agil Jibrin | [Read More](https://medium.com/p/915503c2ec56) |
+| Thu, 29 May 2025 09:23:14 GMT | You Can’t Always Trust People With Your Pain | Sylvie | [Read More](https://medium.com/p/fa4818a38f15) |
+| Thu, 29 May 2025 09:16:33 GMT | Building a Cloud-Based Home SOC Lab with Microsoft Sentinel | Shounak Das | [Read More](https://medium.com/p/0e592785509d) |
 | Thu, 29 May 2025 09:10:09 GMT | Injecting Secrets into Terraform Without Hardcoding Anything | Devops Trainer | [Read More](https://medium.com/p/09c511a7bb56) |
 | Thu, 29 May 2025 09:06:06 GMT | What Is Identity Theft? Warning Signs and How to Prevent Them | Tech on road | [Read More](https://medium.com/p/c2d8facb3f27) |
 | Thu, 29 May 2025 09:04:12 GMT | The Daily Tech Digest: 29 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/00fd03666a71) |
@@ -109,9 +115,3 @@ a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
 | Thu, 29 May 2025 03:54:54 GMT | Cybersecurity Chronicles - CISSP domains through lens of Heroes! | CyberGRC Simplified | [Read More](https://medium.com/p/72ea2d5a2c06) |
 | Thu, 29 May 2025 03:54:45 GMT | A $2M Phishing Scam: How One Email Crushed a Company | Ahmad Javed | [Read More](https://medium.com/p/90b92449b70e) |
 | Thu, 29 May 2025 03:49:56 GMT | Cyber Security Course in Kerala: Empower Your Future with Techmindz | Surya Suresh | [Read More](https://medium.com/p/168e6ad8872c) |
-| Thu, 29 May 2025 03:44:23 GMT | Road to Red Team ELITE: Rencana Pertempuran 5 Tahun dari Newbie Menjadi Komandan Siber!️ | Moh Afizan | [Read More](https://medium.com/p/86760a1fdf38) |
-| Thu, 29 May 2025 03:42:26 GMT | 8 Essential Steps for Safe Node.js Authentication | Arunangshu Das | [Read More](https://medium.com/p/4858fecdea41) |
-| Thu, 29 May 2025 03:41:46 GMT | Building a Hack-Proof Network: 7 Best Practices from Ethical Hackers | Seonaissac | [Read More](https://medium.com/p/d80a1707fca5) |
-| Thu, 29 May 2025 03:39:47 GMT | HTB Attacking Common Applications — Skills Assessment I | Ibrahima Ndong | [Read More](https://medium.com/p/31e4a3389076) |
-| Thu, 29 May 2025 03:38:31 GMT | How to Secure Your AI MVP Before Launch | Binary Bloom | [Read More](https://medium.com/p/af139af3f011) |
-| Thu, 29 May 2025 03:32:32 GMT | JAR File Loader and Deobfuscation Chain Analysis | Jonathan M. | [Read More](https://medium.com/p/49fbdc0e7f17) |
