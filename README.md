@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 07:15:41 GMT | Public Code, Private Keys: How I Was Rewarded $$$ for Uncovering PII Leaks (Part I) | Md Saikat | [Read More](https://medium.com/p/344b237d237a) |
+| Thu, 29 May 2025 07:13:55 GMT | ประจำวันพฤหัสบดีที่ 29 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/80f89c0f8dca) |
+| Thu, 29 May 2025 07:08:00 GMT | Certificates For Cyber Security In The Red Team | Daarin | [Read More](https://medium.com/p/c6de152fc135) |
+| Thu, 29 May 2025 07:07:14 GMT | Russian Cyberattacks Target NGOs with Sophisticated Phishing | Virtual Cyber Labs | [Read More](https://medium.com/p/b6188c3497ef) |
+| Thu, 29 May 2025 07:03:25 GMT | Best Networking Course with Certification | cyber security Updates | [Read More](https://medium.com/p/ad90fd62fc01) |
+| Thu, 29 May 2025 07:02:01 GMT | The Road to Joshua Tree and the Voice Fear Tried to Silence | Michael Schneider | [Read More](https://medium.com/p/310bffb33ab7) |
+| Thu, 29 May 2025 07:01:33 GMT | The Hidden Dangers of Outdated Third-Party Software: Lessons from Recent Breaches | Easy2Patch | [Read More](https://medium.com/p/cc6ca956ffc1) |
+| Thu, 29 May 2025 07:01:31 GMT | Securing FTTx Deployments: From OLT to ONT — Threats, Protocols, and Defense Strategies | Imaneakhamal | [Read More](https://medium.com/p/3814a77c5846) |
+| Thu, 29 May 2025 07:00:48 GMT | The Hidden Disconnect in Post-Quantum Cryptography: Discovery vs. Implementation | ExeQuantum | [Read More](https://medium.com/p/bf50f83bdc83) |
+| Thu, 29 May 2025 06:52:31 GMT | TryHackMe - Windows Memory & Processes - WriteUp | Axoloth | [Read More](https://medium.com/p/130d6391b01c) |
+| Thu, 29 May 2025 06:50:54 GMT | https://www.prakse.lv/enterprise/profile/16930/como-hablo-con-un-ejecutivo-de-volaris | Jhondevid | [Read More](https://medium.com/p/8f3beff35ff5) |
+| Thu, 29 May 2025 06:50:11 GMT | 7 Principles of Software Testing Every QA Should Know | Prafulla Mishra | [Read More](https://medium.com/p/c38255e81415) |
+| Thu, 29 May 2025 06:47:44 GMT | Is Our Universe Just a Gigantic Computer Program? | Rolando Santamaría Masó | [Read More](https://medium.com/p/29d6a1ac38ba) |
+| Thu, 29 May 2025 06:45:59 GMT | Privacy and Security Trends in Social Media for 2024 | Pcdoctorsnettx | [Read More](https://medium.com/p/38684e4c829c) |
+| Thu, 29 May 2025 06:45:09 GMT | Watchful Eyes, United Hearts: How Singapore Fuses Community and Surveillance in the Fight Against… | Dan Marshall-Singh | [Read More](https://medium.com/p/8e51766313e4) |
+| Thu, 29 May 2025 06:39:44 GMT | Top Cybersecurity Threats to Watch Out for in 2025 | Red9SysTech | [Read More](https://medium.com/p/5173db0823ad) |
+| Thu, 29 May 2025 06:38:42 GMT | MSSPs and Cybersecurity: Elevating Threat Detection & Rapid Response | Ampcus Cyber | [Read More](https://medium.com/p/19f86721bf93) |
+| Thu, 29 May 2025 06:38:20 GMT | Logic Flaw: Deleting HackerOne Team Reports Without Access Rights | Monika sharma | [Read More](https://medium.com/p/1c4755a23af8) |
+| Thu, 29 May 2025 06:37:34 GMT | iPhone vs Android: The Ultimate Showdown, Which Reigns Supreme? | Chaskaclub | [Read More](https://medium.com/p/5eea65172a63) |
+| Thu, 29 May 2025 06:36:58 GMT | HTTP Host Header Attack? | Rishav anand | [Read More](https://medium.com/p/2949e597437f) |
+| Thu, 29 May 2025 06:36:23 GMT | This One Hacker Trick Got Me Access to an Admin Dashboard ️ | Vipul Sonule | [Read More](https://medium.com/p/d9f0b6d633a0) |
 | Thu, 29 May 2025 06:27:16 GMT | What is Network Security and What Are Its Main Components? | Saurabh | [Read More](https://medium.com/p/3f167bc0436d) |
+| Thu, 29 May 2025 06:19:56 GMT | 비밀번호 변경 주기, 금융보안에 정말 효과 있을까? (2025년 기준) | Smart Money Guide | [Read More](https://medium.com/p/67f546398ac8) |
 | Thu, 29 May 2025 06:16:32 GMT | Introducing cr3di: A Lightweight CLI Tool for Secure Credential Management on Kali Linux | ShutterOverFoe | [Read More](https://medium.com/p/64cf41a46e97) |
 | Thu, 29 May 2025 06:14:27 GMT | Advanced URL Filtering by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3758d1e5ed67) |
 | Thu, 29 May 2025 06:10:41 GMT | ️Encounter with Tapjacking in Flutter: Understanding and Preventing Tapjacking | Punith S Uppar | [Read More](https://medium.com/p/8650b3bea24d) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 22:51:21 GMT | Exploring Wazuh on TryHackMe: A Hands-On Look at Endpoint Security | LobaMegaTON | [Read More](https://medium.com/p/08ddca84b1c8) |
 | Wed, 28 May 2025 22:39:52 GMT | Autopsy | Shamar Isaac | [Read More](https://medium.com/p/786c118cb7ad) |
 | Wed, 28 May 2025 22:17:40 GMT | GhostSpy: The Android Malware That Grants Hackers Full Control Over Your Device | Cyber-AppSec | [Read More](https://medium.com/p/c44fe186fdd8) |
-| Wed, 28 May 2025 22:17:28 GMT | Enumerating and Exploiting Network Services | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e4063cd42c54) |
-| Wed, 28 May 2025 22:14:45 GMT | Cybersecurity for UN Peacekeeping and Global Humanitarian Operations | A-STAR7_DOCTOR | [Read More](https://medium.com/p/bb5c85e2f98c) |
-| Wed, 28 May 2025 22:10:01 GMT | When You’re Always the Strong One: The Silent Burden | Anuchauka Faith | [Read More](https://medium.com/p/dc766ddf058c) |
-| Wed, 28 May 2025 22:06:18 GMT | What is IDS and IPS? | JM | [Read More](https://medium.com/p/0ee487bc0a2d) |
-| Wed, 28 May 2025 22:00:53 GMT | AndroGoat Revealed: Step-by-Step Mobile Pentesting | k1tsunee | [Read More](https://medium.com/p/c1fe0e829a6b) |
-| Wed, 28 May 2025 21:47:42 GMT | How to Set Up Your Own Virtual Machine and Install Kali Linux on MacOS Apple Silicon Using UTM | The Nerd Developer | [Read More](https://medium.com/p/49e8b430e229) |
-| Wed, 28 May 2025 21:41:22 GMT | First Time Password Cracking | Sarah Zhou | [Read More](https://medium.com/p/1b9d815bc84b) |
-| Wed, 28 May 2025 21:38:40 GMT | Top 3 Mistakes New Cyber Learners Make (and I Made Them All) | CyberSamantha | [Read More](https://medium.com/p/2206d51b5f36) |
-| Wed, 28 May 2025 21:36:12 GMT | ️ Identifying Risks Before the Hack: A Cyber Risk Assessment Walkthrough for Small Businesses | O. J. Okpabi | [Read More](https://medium.com/p/0bb62e515195) |
-| Wed, 28 May 2025 21:31:04 GMT | Case Study: Think Before You Click | O. J. Okpabi | [Read More](https://medium.com/p/9c58f412c68d) |
-| Wed, 28 May 2025 21:24:27 GMT | What’s new in TI Mindmap - May 2025 | Antonio Formato | [Read More](https://medium.com/p/83c5616c6a8c) |
-| Wed, 28 May 2025 21:23:12 GMT | Bypassing Origin Checks Using Trailing Dot Trick | soltanali0 | [Read More](https://medium.com/p/a65007041d3a) |
-| Wed, 28 May 2025 21:15:19 GMT | Android Pentesting Setup Up Burpsuite Intercept | Muhammadhuzaifa | [Read More](https://medium.com/p/53b37ea9762c) |
-| Wed, 28 May 2025 21:09:04 GMT | Active Directoy Lab Seupt, MS Server 2022 (Domain Controler): | Muhammadhuzaifa | [Read More](https://medium.com/p/a1bbe546fc76) |
-| Wed, 28 May 2025 21:00:08 GMT | Ethical Hackers’ Secret Weapons: 7 Free OSINT Tools Even Pros Overlook | Andrei Ivan | [Read More](https://medium.com/p/584367d78fdd) |
-| Wed, 28 May 2025 20:54:54 GMT | How to Avoid Clickbait | Savvy Cyber Kids | [Read More](https://medium.com/p/b0bc5bfd80ab) |
-| Wed, 28 May 2025 20:54:25 GMT | Why is technology so addictive? | Savvy Cyber Kids | [Read More](https://medium.com/p/89166e710b84) |
-| Wed, 28 May 2025 20:52:39 GMT | What are some types of online harassment? | Savvy Cyber Kids | [Read More](https://medium.com/p/b0b24fe1e111) |
-| Wed, 28 May 2025 20:45:43 GMT | Log Analysis (CLI) | Shamar Isaac | [Read More](https://medium.com/p/f7da044e8473) |
-| Wed, 28 May 2025 20:33:28 GMT | The Shadow Brokers Group | Orgeismail | [Read More](https://medium.com/p/2e7d0b999be7) |
-| Wed, 28 May 2025 20:30:54 GMT | Building an AI-Powered Threat Defense: A Step-by-Step Guide to Open Source SOAR Integration | Andrei Ivan | [Read More](https://medium.com/p/0b76211ec025) |
-| Wed, 28 May 2025 20:23:37 GMT | The Windows Concept Journey — System Restore | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6c6a817018b0) |
