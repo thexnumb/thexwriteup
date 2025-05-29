@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 03:54:54 GMT | Cybersecurity Chronicles - CISSP domains through lens of Heroes! | CyberGRC Simplified | [Read More](https://medium.com/p/72ea2d5a2c06) |
+| Thu, 29 May 2025 03:54:45 GMT | A $2M Phishing Scam: How One Email Crushed a Company | Ahmad Javed | [Read More](https://medium.com/p/90b92449b70e) |
+| Thu, 29 May 2025 03:49:56 GMT | Cyber Security Course in Kerala: Empower Your Future with Techmindz | Surya Suresh | [Read More](https://medium.com/p/168e6ad8872c) |
+| Thu, 29 May 2025 03:44:23 GMT | Road to Red Team ELITE: Rencana Pertempuran 5 Tahun dari Newbie Menjadi Komandan Siber!️ | Moh Afizan | [Read More](https://medium.com/p/86760a1fdf38) |
+| Thu, 29 May 2025 03:42:26 GMT | 8 Essential Steps for Safe Node.js Authentication | Arunangshu Das | [Read More](https://medium.com/p/4858fecdea41) |
+| Thu, 29 May 2025 03:41:46 GMT | Building a Hack-Proof Network: 7 Best Practices from Ethical Hackers | Seonaissac | [Read More](https://medium.com/p/d80a1707fca5) |
+| Thu, 29 May 2025 03:39:47 GMT | HTB Attacking Common Applications — Skills Assessment I | Ibrahima Ndong | [Read More](https://medium.com/p/31e4a3389076) |
+| Thu, 29 May 2025 03:38:31 GMT | How to Secure Your AI MVP Before Launch | Binary Bloom | [Read More](https://medium.com/p/af139af3f011) |
+| Thu, 29 May 2025 03:32:32 GMT | JAR File Loader and Deobfuscation Chain Analysis | Jonathan M. | [Read More](https://medium.com/p/49fbdc0e7f17) |
+| Thu, 29 May 2025 03:32:31 GMT | When the Law Is Hacked: Inside the State Bar of Texas Cyberattack | Deven Chhajed | [Read More](https://medium.com/p/dec2cbb4439c) |
+| Thu, 29 May 2025 03:29:13 GMT | AI Poisoning: Political Decision Risks | CCD-IS | [Read More](https://medium.com/p/b7510b246de9) |
+| Thu, 29 May 2025 03:20:25 GMT | Orbiting on the Edge: Why Space Cybersecurity Must Be Your Top Priority in 2025 | Biswajeet Poddar | [Read More](https://medium.com/p/224129f94c4b) |
+| Thu, 29 May 2025 03:16:08 GMT | Roadmap Belajar Cyber Security Red Team | Farhan Maulana | [Read More](https://medium.com/p/3a751cf1bdb4) |
+| Thu, 29 May 2025 03:14:11 GMT | Six Practical Steps to Lock Down Your Databricks Workspace After Getting Started with Express Setup | JD Braun | [Read More](https://medium.com/p/46f1ed646f25) |
+| Thu, 29 May 2025 03:11:54 GMT | ポータル申請が再開 | Enlightened Today Japan | [Read More](https://medium.com/p/6291f5942ff2) |
 | Thu, 29 May 2025 03:05:23 GMT | Building a CICD in Jenkins | Pankaj Kumar Singh | [Read More](https://medium.com/p/81a592639c8c) |
+| Thu, 29 May 2025 03:02:57 GMT | Principals of Information Security | Ashiqul Hoque Abir | [Read More](https://medium.com/p/f2d6c0dcbeaf) |
 | Thu, 29 May 2025 02:51:08 GMT | Mapping My Cybersecurity Journey: 5-Year Plan From Scratch | El Profesor | [Read More](https://medium.com/p/c37fb6c48a64) |
 | Thu, 29 May 2025 02:50:14 GMT | From Streets to Success: My Raw Journey of Homelessness, Resilience, and Building a Future in Tech | Zyntrio Tech Report | [Read More](https://medium.com/p/4c9b18a85f33) |
 | Thu, 29 May 2025 02:47:32 GMT | What Happens When Data Stops at the Border? (The Internet’s Quiet Redesign) | Uzay Yildirim | [Read More](https://medium.com/p/db00d3d7e4a5) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 May 2025 18:22:18 GMT | SOC175 — PowerShell Found in Requested URL — Possible CVE-2022–41082 Exploitation | Harshprajapati | [Read More](https://medium.com/p/087d2dfd3799) |
 | Wed, 28 May 2025 18:19:53 GMT | Section 66A: The Shreya Singhal Case | Vibhor Singh | [Read More](https://medium.com/p/2d6ac29b2818) |
 | Wed, 28 May 2025 18:15:29 GMT | My name is Sam . | Sam Grey | [Read More](https://medium.com/p/33d8df086bec) |
-| Wed, 28 May 2025 18:08:21 GMT | [Capstone Challenge] Beanstalk Secrets | WireHawk Security | [Read More](https://medium.com/p/ca9216192389) |
-| Wed, 28 May 2025 18:07:51 GMT | Do You Really Know About Incognito Mode? | FinZebra | [Read More](https://medium.com/p/3262ca982b9d) |
-| Wed, 28 May 2025 18:05:35 GMT | ️ Recently, I Did a Phishing Analysis on a Suspicious Email — Here’s What I Found | Bot Hacks | [Read More](https://medium.com/p/0ed6785ffc8d) |
-| Wed, 28 May 2025 18:05:23 GMT | SOC111 — EventID 46 —Traffic to Malware Domain |  | [Read More](https://medium.com/p/7580057e3425) |
-| Wed, 28 May 2025 18:05:10 GMT | Is Your Child Really Safe Online? The Hidden Dangers Every Parent Must Know | Viktorya M. | [Read More](https://medium.com/p/3459e3d53a86) |
-| Wed, 28 May 2025 18:00:25 GMT | ️ Cybersecurity: A Comprehensive Guid | Md. Rumon Munshi | [Read More](https://medium.com/p/bd456d2eaaff) |
-| Wed, 28 May 2025 17:58:28 GMT | Mastering PHP Wrappers: Concepts, Use Cases, and Security Risks | Zoningxtr | [Read More](https://medium.com/p/380bb59cb6c1) |
-| Wed, 28 May 2025 17:56:54 GMT | Arli’s 5-Year Cyber Security Roadmap — From IoT to Infrastructure Security | arli_ | [Read More](https://medium.com/p/d55d9cbe5073) |
-| Wed, 28 May 2025 17:54:42 GMT | ️ What Is Hacking? Who Is a Hacker? - A Complete Guide to the World of Cyber Intrusion | Md. Rumon Munshi | [Read More](https://medium.com/p/8441de0d1e3a) |
-| Wed, 28 May 2025 17:40:52 GMT | ☁️ Why AWS Still Leads the Cloud War in 2025 | LazyHacker | [Read More](https://medium.com/p/5f41cd6d8782) |
-| Wed, 28 May 2025 17:32:22 GMT | The Words That Don’t Land Aren’t the Problem. It’s the Ones You Never Let Out. | SuccessBlueprints.Org | [Read More](https://medium.com/p/f9ed00b53d54) |
-| Wed, 28 May 2025 17:23:47 GMT | How Convolutional Neural Networks (CNNs) are Advancing Security Systems in Finance | Hammad Qazi | [Read More](https://medium.com/p/f473d3615989) |
-| Wed, 28 May 2025 17:17:44 GMT | Build What Most Won’t | Ali Sahad | [Read More](https://medium.com/p/7841b9eb4f8c) |
-| Wed, 28 May 2025 17:16:34 GMT | PCI DSS in Canada: 5 Common Mistakes Businesses Make | Feroot Security | [Read More](https://medium.com/p/32e6148afed0) |
-| Wed, 28 May 2025 17:13:33 GMT | Welcome to my personal space! | rnnull | [Read More](https://medium.com/p/ff930acd42a8) |
-| Wed, 28 May 2025 17:11:30 GMT | Mastering XSS for Beginners: From Alert Boxes to Session Hijacking | Rabbiyatabassum | [Read More](https://medium.com/p/4bb0a419840a) |
