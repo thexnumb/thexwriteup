@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 12:35:38 GMT | Massive Password Breach Exposes 184 Million Accounts — Here’s How to Protect Yourself Now | Zyntrio Tech Report | [Read More](https://medium.com/p/3603e5420740) |
+| Thu, 29 May 2025 12:33:32 GMT | The Cyber Kill Chain: Understanding How Hackers Actually Pull Off Their Attacks | Shubhamitaliya | [Read More](https://medium.com/p/4debde9e9a28) |
+| Thu, 29 May 2025 12:32:30 GMT | Week 5 in Cybersecurity — Speed, Stability & Closing Month One Strong | Fabián Muñoz | [Read More](https://medium.com/p/b5ec550f3808) |
+| Thu, 29 May 2025 12:32:30 GMT | ATC NewsBites - Substack + Medium | Angie | [Read More](https://medium.com/p/c7654163c9a8) |
+| Thu, 29 May 2025 12:30:55 GMT | CTF Day(3) | Ahmed Narmer | [Read More](https://medium.com/p/e0fe59463340) |
+| Thu, 29 May 2025 12:28:27 GMT | API Product Development für datengetriebene Unternehmen: Der strategische Wegweiser 2025… | Philip Hansen | [Read More](https://medium.com/p/6ad7f5feb573) |
+| Thu, 29 May 2025 12:27:44 GMT | How Mumbai’s Security Agencies Evolved to Protect the City | United Guard Force India | [Read More](https://medium.com/p/15f4871e3297) |
+| Thu, 29 May 2025 12:25:27 GMT | Easy Ways To Recover Your Stolen Phone | Muhammad Alameen | [Read More](https://medium.com/p/433d52324e4c) |
+| Thu, 29 May 2025 12:14:31 GMT | How I Rebuild a Linux Server After a Suspected Compromise (Step by Step) | Faruk Ahmed | [Read More](https://medium.com/p/68f79e4a9e52) |
+| Thu, 29 May 2025 12:13:06 GMT | Paradigm’s Trusted Security Guard and Housekeeping Services in Hyderabad | Paradigm Integrated Facility Management Services | [Read More](https://medium.com/p/3cecfe62c572) |
+| Thu, 29 May 2025 12:12:07 GMT | Implementing a CBC Bit-Flipping Attack to Bypass Access Control | yuehan | [Read More](https://medium.com/p/9317c2076e5b) |
+| Thu, 29 May 2025 12:12:02 GMT | Cyber Security Roadmap | Rizky Ramdhan Nugraha | [Read More](https://medium.com/p/d046ce89d34d) |
+| Thu, 29 May 2025 12:10:16 GMT | Cyberbiosecurity at the Digital DNA Frontier: Fortifying the Global Bioeconomy in the Age of AI… | Pinetreepoetry | [Read More](https://medium.com/p/51af063764aa) |
+| Thu, 29 May 2025 11:48:52 GMT | WHY I PUSH AWAY THE PEOPLE WHO CARE ABOUT ME | Bismahfarhan | [Read More](https://medium.com/p/52bebec2e399) |
+| Thu, 29 May 2025 11:39:40 GMT | WORK OF ART | Boluwatife Lash | [Read More](https://medium.com/p/389f0e1be9f4) |
+| Thu, 29 May 2025 11:31:12 GMT | Navi Mumbai Security: From Patrols to Surveillance | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/a4a9fd098d21) |
 | Thu, 29 May 2025 11:29:13 GMT | Terse - Tus for Android | Zekibiyikli | [Read More](https://medium.com/p/26411d4f9162) |
 | Thu, 29 May 2025 11:26:50 GMT | A Hidden Backdoor: Bypassing reCAPTCHA on the Sign-up Page | Ehtesham Ul Haq | [Read More](https://medium.com/p/2b5b3c18257f) |
 | Thu, 29 May 2025 11:24:11 GMT | Global Cyber Command Simulation Platform | A-STAR7_DOCTOR | [Read More](https://medium.com/p/343311130ff7) |
@@ -99,19 +115,3 @@ a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
 | Thu, 29 May 2025 07:02:01 GMT | The Road to Joshua Tree and the Voice Fear Tried to Silence | Michael Schneider | [Read More](https://medium.com/p/310bffb33ab7) |
 | Thu, 29 May 2025 07:01:33 GMT | The Hidden Dangers of Outdated Third-Party Software: Lessons from Recent Breaches | Easy2Patch | [Read More](https://medium.com/p/cc6ca956ffc1) |
 | Thu, 29 May 2025 07:01:31 GMT | Securing FTTx Deployments: From OLT to ONT — Threats, Protocols, and Defense Strategies | Imaneakhamal | [Read More](https://medium.com/p/3814a77c5846) |
-| Thu, 29 May 2025 07:00:48 GMT | The Hidden Disconnect in Post-Quantum Cryptography: Discovery vs. Implementation | ExeQuantum | [Read More](https://medium.com/p/bf50f83bdc83) |
-| Thu, 29 May 2025 06:52:31 GMT | TryHackMe - Windows Memory & Processes - WriteUp | Axoloth | [Read More](https://medium.com/p/130d6391b01c) |
-| Thu, 29 May 2025 06:50:54 GMT | https://www.prakse.lv/enterprise/profile/16930/como-hablo-con-un-ejecutivo-de-volaris | Jhondevid | [Read More](https://medium.com/p/8f3beff35ff5) |
-| Thu, 29 May 2025 06:50:11 GMT | 7 Principles of Software Testing Every QA Should Know | Prafulla Mishra | [Read More](https://medium.com/p/c38255e81415) |
-| Thu, 29 May 2025 06:47:44 GMT | Is Our Universe Just a Gigantic Computer Program? | Rolando Santamaría Masó | [Read More](https://medium.com/p/29d6a1ac38ba) |
-| Thu, 29 May 2025 06:45:59 GMT | Privacy and Security Trends in Social Media for 2024 | Pcdoctorsnettx | [Read More](https://medium.com/p/38684e4c829c) |
-| Thu, 29 May 2025 06:45:09 GMT | Watchful Eyes, United Hearts: How Singapore Fuses Community and Surveillance in the Fight Against… | Dan Marshall-Singh | [Read More](https://medium.com/p/8e51766313e4) |
-| Thu, 29 May 2025 06:39:44 GMT | Top Cybersecurity Threats to Watch Out for in 2025 | Red9SysTech | [Read More](https://medium.com/p/5173db0823ad) |
-| Thu, 29 May 2025 06:38:42 GMT | MSSPs and Cybersecurity: Elevating Threat Detection & Rapid Response | Ampcus Cyber | [Read More](https://medium.com/p/19f86721bf93) |
-| Thu, 29 May 2025 06:38:20 GMT | Logic Flaw: Deleting HackerOne Team Reports Without Access Rights | Monika sharma | [Read More](https://medium.com/p/1c4755a23af8) |
-| Thu, 29 May 2025 06:37:34 GMT | iPhone vs Android: The Ultimate Showdown, Which Reigns Supreme? | Chaskaclub | [Read More](https://medium.com/p/5eea65172a63) |
-| Thu, 29 May 2025 06:36:58 GMT | HTTP Host Header Attack? | Rishav anand | [Read More](https://medium.com/p/2949e597437f) |
-| Thu, 29 May 2025 06:36:23 GMT | This One Hacker Trick Got Me Access to an Admin Dashboard ️ | Vipul Sonule | [Read More](https://medium.com/p/d9f0b6d633a0) |
-| Thu, 29 May 2025 06:27:16 GMT | What is Network Security and What Are Its Main Components? | Saurabh | [Read More](https://medium.com/p/3f167bc0436d) |
-| Thu, 29 May 2025 06:19:56 GMT | 비밀번호 변경 주기, 금융보안에 정말 효과 있을까? (2025년 기준) | Smart Money Guide | [Read More](https://medium.com/p/67f546398ac8) |
-| Thu, 29 May 2025 06:16:32 GMT | Introducing cr3di: A Lightweight CLI Tool for Secure Credential Management on Kali Linux | ShutterOverFoe | [Read More](https://medium.com/p/64cf41a46e97) |
