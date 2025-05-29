@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 14:39:49 GMT | Deface XSS | Rafli Setyawan | [Read More](https://medium.com/p/913702f0e47b) |
+| Thu, 29 May 2025 14:31:54 GMT | Cyberwarfare and the Quiet Death of Certainty | Liya Kruisen | [Read More](https://medium.com/p/4c12e33cf6d5) |
+| Thu, 29 May 2025 14:31:03 GMT | How China Is Rewiring Global Telecom to Undermine the West | National Security Institute | [Read More](https://medium.com/p/35bd562e51a4) |
+| Thu, 29 May 2025 14:30:02 GMT | ✅ Web App Security Audits: Why 78% of Breaches Start at the Application Layer (And What OMEX Cyber… | Omex Oleksandr | [Read More](https://medium.com/p/0ac15dfda939) |
+| Thu, 29 May 2025 14:23:31 GMT | Hacking Vulnerable Bank API (Extensive) | CyberPreacher | [Read More](https://medium.com/p/d2a0d3bb209e) |
+| Thu, 29 May 2025 14:20:13 GMT | Flipper Zero: Your Pocket-Sized Cybersecurity Swiss Army Knife ️‍♂️ | Rageeth | [Read More](https://medium.com/p/4bd81b1ae51f) |
+| Thu, 29 May 2025 14:18:37 GMT | ️ROADMAP CYBER SECURITY 5 TAHUN KE DEPAN | Sultan Badra | [Read More](https://medium.com/p/f3c93ff23ec0) |
 | Thu, 29 May 2025 14:15:06 GMT | Weekend Recon: Uncovering a Critical SQL Injection and 46 Databases on an Academic Domain | Ahmad Suhendra | [Read More](https://medium.com/p/95a96d573dde) |
 | Thu, 29 May 2025 14:13:56 GMT | Hacking the Headlines: A Pen Tester’s Take on Today’s Cybersecurity Chaos | Hacker256 | [Read More](https://medium.com/p/176c24f419a2) |
 | Thu, 29 May 2025 14:11:47 GMT | How to Install Klipper on a Kodak Portrait 3D Printer | luca sain | [Read More](https://medium.com/p/52daa822a627) |
@@ -105,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 09:04:09 GMT | SQL injection UNION attack, finding a column containing text | Rachael Muga | [Read More](https://medium.com/p/f47c3014063c) |
 | Thu, 29 May 2025 09:03:22 GMT | GitHub Recon: The Underrated Technique to Discover High-Impact Leaks in Bug Bounty | coffinxp | [Read More](https://medium.com/p/c4069894389a) |
 | Thu, 29 May 2025 08:54:58 GMT | I Hacked the Secret to Making Money Online (It Wasn’t What I Expected) | Nahom Tamru | [Read More](https://medium.com/p/94cecba6d274) |
-| Thu, 29 May 2025 08:53:05 GMT | I never knew how silence could hum
-until I met you — 
-a melody stitched between breaths,
-a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
-| Thu, 29 May 2025 08:50:30 GMT | Walkthrough THM Silver-Platter | Telynor | [Read More](https://medium.com/p/62e469b087f3) |
-| Thu, 29 May 2025 08:49:22 GMT | The Quantum Leap: Redefining Cybersecurity in 2025 | Jay Chris Roberts | [Read More](https://medium.com/p/4c19e340b164) |
-| Thu, 29 May 2025 08:48:32 GMT | PicoCTF Write-Up — n0s4n1ty 1 | Aliza Ibrahim | [Read More](https://medium.com/p/284dc8ee0236) |
-| Thu, 29 May 2025 08:42:47 GMT | Building a Compliant Security Operations Center: A Step-by-Step Guide Integrating CISSP, ISO 27001… | Oleh Dubetcky | [Read More](https://medium.com/p/0d1add1e6a1b) |
-| Thu, 29 May 2025 08:39:22 GMT | Understanding the SOCI Act in IT: What Australian Businesses Need to Know | cyber ethos | [Read More](https://medium.com/p/f0b5846e1a04) |
-| Thu, 29 May 2025 08:36:49 GMT | Blockchain and Cybersecurity: Enhancing Data Security — An In-Depth Guide | Nikson Kejeh | [Read More](https://medium.com/p/7cf13605dc59) |
