@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 09:10:09 GMT | Injecting Secrets into Terraform Without Hardcoding Anything | Devops Trainer | [Read More](https://medium.com/p/09c511a7bb56) |
+| Thu, 29 May 2025 09:06:06 GMT | What Is Identity Theft? Warning Signs and How to Prevent Them | Tech on road | [Read More](https://medium.com/p/c2d8facb3f27) |
+| Thu, 29 May 2025 09:04:12 GMT | The Daily Tech Digest: 29 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/00fd03666a71) |
+| Thu, 29 May 2025 09:04:09 GMT | SQL injection UNION attack, finding a column containing text | Rachael Muga | [Read More](https://medium.com/p/f47c3014063c) |
+| Thu, 29 May 2025 09:03:22 GMT | GitHub Recon: The Underrated Technique to Discover High-Impact Leaks in Bug Bounty | coffinxp | [Read More](https://medium.com/p/c4069894389a) |
+| Thu, 29 May 2025 08:54:58 GMT | I Hacked the Secret to Making Money Online (It Wasn’t What I Expected) | Nahom Tamru | [Read More](https://medium.com/p/94cecba6d274) |
+| Thu, 29 May 2025 08:53:05 GMT | I never knew how silence could hum
+until I met you — 
+a melody stitched between breaths,
+a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
+| Thu, 29 May 2025 08:50:30 GMT | Walkthrough THM Silver-Platter | Telynor | [Read More](https://medium.com/p/62e469b087f3) |
+| Thu, 29 May 2025 08:49:22 GMT | The Quantum Leap: Redefining Cybersecurity in 2025 | Jay Chris Roberts | [Read More](https://medium.com/p/4c19e340b164) |
+| Thu, 29 May 2025 08:48:32 GMT | PicoCTF Write-Up — n0s4n1ty 1 | Aliza Ibrahim | [Read More](https://medium.com/p/284dc8ee0236) |
 | Thu, 29 May 2025 08:42:47 GMT | Building a Compliant Security Operations Center: A Step-by-Step Guide Integrating CISSP, ISO 27001… | Oleh Dubetcky | [Read More](https://medium.com/p/0d1add1e6a1b) |
 | Thu, 29 May 2025 08:39:22 GMT | Understanding the SOCI Act in IT: What Australian Businesses Need to Know | cyber ethos | [Read More](https://medium.com/p/f0b5846e1a04) |
 | Thu, 29 May 2025 08:36:49 GMT | Blockchain and Cybersecurity: Enhancing Data Security — An In-Depth Guide | Nikson Kejeh | [Read More](https://medium.com/p/7cf13605dc59) |
@@ -102,13 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 03:39:47 GMT | HTB Attacking Common Applications — Skills Assessment I | Ibrahima Ndong | [Read More](https://medium.com/p/31e4a3389076) |
 | Thu, 29 May 2025 03:38:31 GMT | How to Secure Your AI MVP Before Launch | Binary Bloom | [Read More](https://medium.com/p/af139af3f011) |
 | Thu, 29 May 2025 03:32:32 GMT | JAR File Loader and Deobfuscation Chain Analysis | Jonathan M. | [Read More](https://medium.com/p/49fbdc0e7f17) |
-| Thu, 29 May 2025 03:32:31 GMT | When the Law Is Hacked: Inside the State Bar of Texas Cyberattack | Deven Chhajed | [Read More](https://medium.com/p/dec2cbb4439c) |
-| Thu, 29 May 2025 03:29:13 GMT | AI Poisoning: Political Decision Risks | CCD-IS | [Read More](https://medium.com/p/b7510b246de9) |
-| Thu, 29 May 2025 03:20:25 GMT | Orbiting on the Edge: Why Space Cybersecurity Must Be Your Top Priority in 2025 | Biswajeet Poddar | [Read More](https://medium.com/p/224129f94c4b) |
-| Thu, 29 May 2025 03:16:08 GMT | Roadmap Belajar Cyber Security Red Team | Farhan Maulana | [Read More](https://medium.com/p/3a751cf1bdb4) |
-| Thu, 29 May 2025 03:14:11 GMT | Six Practical Steps to Lock Down Your Databricks Workspace After Getting Started with Express Setup | JD Braun | [Read More](https://medium.com/p/46f1ed646f25) |
-| Thu, 29 May 2025 03:11:54 GMT | ポータル申請が再開 | Enlightened Today Japan | [Read More](https://medium.com/p/6291f5942ff2) |
-| Thu, 29 May 2025 03:05:23 GMT | Building a CICD in Jenkins | Pankaj Kumar Singh | [Read More](https://medium.com/p/81a592639c8c) |
-| Thu, 29 May 2025 03:02:57 GMT | Principals of Information Security | Ashiqul Hoque Abir | [Read More](https://medium.com/p/f2d6c0dcbeaf) |
-| Thu, 29 May 2025 02:51:08 GMT | Mapping My Cybersecurity Journey: 5-Year Plan From Scratch | El Profesor | [Read More](https://medium.com/p/c37fb6c48a64) |
-| Thu, 29 May 2025 02:50:14 GMT | From Streets to Success: My Raw Journey of Homelessness, Resilience, and Building a Future in Tech | Zyntrio Tech Report | [Read More](https://medium.com/p/4c9b18a85f33) |
