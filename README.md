@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 20:13:46 GMT | Canary on the Stack | FieryParks | [Read More](https://medium.com/p/30cec294bc8a) |
+| Thu, 29 May 2025 20:04:02 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/00287d6d4ee8) |
+| Thu, 29 May 2025 19:59:10 GMT | Can a Brilliant Hacker Mind Be Disconnected from the Body? | Ak1T4 | [Read More](https://medium.com/p/4a0cf6e7da26) |
+| Thu, 29 May 2025 19:54:10 GMT | Mathematical Certainty in Code: Why Smart Contract Formal Verification Is Non-Negotiable | Chronos Vault | [Read More](https://medium.com/p/8aaeb5999685) |
+| Thu, 29 May 2025 19:51:42 GMT | Is “What’s Your Major” the Right Question? | Martin Van Der Werf | [Read More](https://medium.com/p/847ba5184a67) |
+| Thu, 29 May 2025 19:49:04 GMT | Integrating WhatsApp Alerts with Wazuh Using WaAPI | Muhammad Maaz Kamal | [Read More](https://medium.com/p/b22a1b3d02a0) |
+| Thu, 29 May 2025 19:46:53 GMT | Roadmap Cyber Security 5 Tahun: Dari Pemula Hingga Profesional | Jihadfachrul | [Read More](https://medium.com/p/17ab42493e0b) |
+| Thu, 29 May 2025 19:46:47 GMT | HTB — Magic Write-up | Nikita Astashenko | [Read More](https://medium.com/p/10dd92e4545f) |
+| Thu, 29 May 2025 19:45:23 GMT | How to Improve Mobile UX on Your WordPress Site | Shubradeb | [Read More](https://medium.com/p/87e65de58732) |
+| Thu, 29 May 2025 19:37:36 GMT | Digital Forensics Fundamentals - THM | Isiah | [Read More](https://medium.com/p/ed1354ba6026) |
+| Thu, 29 May 2025 19:36:35 GMT | FKTA (Forbidden Knowledge Timing Attack) Experiment Analysis | Tomer Wetzler | [Read More](https://medium.com/p/f691540f6b38) |
+| Thu, 29 May 2025 19:35:33 GMT | Segurança com Zabbix | Michael Fortes | [Read More](https://medium.com/p/e49ef860e9ac) |
 | Thu, 29 May 2025 19:26:33 GMT | Dennou Coil: Siber Uzayın Eşiğinde Bir Masal | Talha Özcan | [Read More](https://medium.com/p/5b53e11a27ec) |
 | Thu, 29 May 2025 19:25:44 GMT | The Weird Kid in Kindergarten | Meli | [Read More](https://medium.com/p/c884b08f2ea1) |
 | Thu, 29 May 2025 19:21:43 GMT | Phantom Network: The Silent Botnet Haunting ASUS Routers | Siva Gunasekaran | [Read More](https://medium.com/p/8ebdd036c0af) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 14:23:31 GMT | Hacking Vulnerable Bank API (Extensive) | CyberPreacher | [Read More](https://medium.com/p/d2a0d3bb209e) |
 | Thu, 29 May 2025 14:20:13 GMT | Flipper Zero: Your Pocket-Sized Cybersecurity Swiss Army Knife ️‍♂️ | Rageeth | [Read More](https://medium.com/p/4bd81b1ae51f) |
 | Thu, 29 May 2025 14:18:37 GMT | ️ROADMAP CYBER SECURITY 5 TAHUN KE DEPAN | Sultan Badra | [Read More](https://medium.com/p/f3c93ff23ec0) |
-| Thu, 29 May 2025 14:15:06 GMT | Weekend Recon: Uncovering a Critical SQL Injection and 46 Databases on an Academic Domain | Ahmad Suhendra | [Read More](https://medium.com/p/95a96d573dde) |
-| Thu, 29 May 2025 14:13:56 GMT | Hacking the Headlines: A Pen Tester’s Take on Today’s Cybersecurity Chaos | Hacker256 | [Read More](https://medium.com/p/176c24f419a2) |
-| Thu, 29 May 2025 14:11:47 GMT | How to Install Klipper on a Kodak Portrait 3D Printer | luca sain | [Read More](https://medium.com/p/52daa822a627) |
-| Thu, 29 May 2025 14:06:01 GMT | Python Part 1 — Data Structures and Functions | Onyx | [Read More](https://medium.com/p/e4ab6ff7932a) |
-| Thu, 29 May 2025 14:02:48 GMT | The Cyber Attack That Changed Geopolitics | Ahmad Javed | [Read More](https://medium.com/p/268467e6ef82) |
-| Thu, 29 May 2025 14:00:04 GMT | Cyber Briefing: 2025.05.29 | CyberMaterial | [Read More](https://medium.com/p/807a1c1c8919) |
-| Thu, 29 May 2025 13:54:05 GMT | Special Variable Injection Under Restricted Shell: Write Up Overthewire Bandit32 | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/73d4e092e12f) |
-| Thu, 29 May 2025 13:42:43 GMT | Leveling Up My GitHub Security Game — A Deep Dive into My Maintainer Month Challenge | thegoddysmart | [Read More](https://medium.com/p/794a78cac68d) |
-| Thu, 29 May 2025 13:42:31 GMT | Internet Par Safe Kaise Rahein? - 1Password Manager | FogoChainIndia | [Read More](https://medium.com/p/d7e41cdafec1) |
-| Thu, 29 May 2025 13:31:30 GMT | Protecting Against Identity Theft | Connor Fergus | [Read More](https://medium.com/p/b70cd8234471) |
-| Thu, 29 May 2025 13:31:30 GMT | Week 4 in Cybersecurity — Cheat Sheets, Inventory Hunts & Quiet Progress | Fabián Muñoz | [Read More](https://medium.com/p/33ae739ccd26) |
-| Thu, 29 May 2025 13:24:32 GMT | Detecting Koi Stealer Malware Through Traffic Analysis: A Case Study | Bumi Arya Dirangga | [Read More](https://medium.com/p/47a47f2d2f05) |
