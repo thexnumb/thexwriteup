@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 17:37:28 GMT | Active Directory Lab Setup Guide | Ojas | [Read More](https://medium.com/p/848a31541643) |
+| Thu, 29 May 2025 17:36:28 GMT | Cybersecurity in 2025: The Biggest Threats to Watch | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/060c17865016) |
+| Thu, 29 May 2025 17:32:22 GMT | Full Transcript: GDG Cloud Southlake #43: Tommy Todd: The Quantum Apocalypse: A Looming Threat &… | Jim Anderson | [Read More](https://medium.com/p/a70a147d9fad) |
+| Thu, 29 May 2025 17:27:16 GMT | The DOGE Dilemma: Efficiency Drive or Cybersecurity Risk? | Muhammad Naveed Arshad,MSc -Writer-Editor- AI Engr | [Read More](https://medium.com/p/58713b6b5c42) |
+| Thu, 29 May 2025 17:27:06 GMT | Dismantling the Semantics of Zersetzung | SIMKRA | [Read More](https://medium.com/p/42149788fb22) |
 | Thu, 29 May 2025 17:11:05 GMT | Passkeys: The Waterproof Defense Against Phishing Attacks | Ajay Kumar | [Read More](https://medium.com/p/b8b77ff825f2) |
 | Thu, 29 May 2025 17:11:04 GMT | Projeto de GRC na Prática | Mariana Coutinho | [Read More](https://medium.com/p/1fcd88e63d3c) |
 | Thu, 29 May 2025 17:08:05 GMT | everything’s in place — so why do I still feel alone? | dilay | [Read More](https://medium.com/p/6fff9037023e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 12:32:30 GMT | Week 5 in Cybersecurity — Speed, Stability & Closing Month One Strong | Fabián Muñoz | [Read More](https://medium.com/p/b5ec550f3808) |
 | Thu, 29 May 2025 12:32:30 GMT | ATC NewsBites - Substack + Medium | Angie | [Read More](https://medium.com/p/c7654163c9a8) |
 | Thu, 29 May 2025 12:30:55 GMT | CTF Day(3) | Ahmed Narmer | [Read More](https://medium.com/p/e0fe59463340) |
-| Thu, 29 May 2025 12:28:27 GMT | API Product Development für datengetriebene Unternehmen: Der strategische Wegweiser 2025… | Philip Hansen | [Read More](https://medium.com/p/6ad7f5feb573) |
-| Thu, 29 May 2025 12:27:44 GMT | How Mumbai’s Security Agencies Evolved to Protect the City | United Guard Force India | [Read More](https://medium.com/p/15f4871e3297) |
-| Thu, 29 May 2025 12:25:27 GMT | Easy Ways To Recover Your Stolen Phone | Muhammad Alameen | [Read More](https://medium.com/p/433d52324e4c) |
-| Thu, 29 May 2025 12:14:31 GMT | How I Rebuild a Linux Server After a Suspected Compromise (Step by Step) | Faruk Ahmed | [Read More](https://medium.com/p/68f79e4a9e52) |
-| Thu, 29 May 2025 12:13:06 GMT | Paradigm’s Trusted Security Guard and Housekeeping Services in Hyderabad | Paradigm Integrated Facility Management Services | [Read More](https://medium.com/p/3cecfe62c572) |
