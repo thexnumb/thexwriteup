@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 11:29:13 GMT | Terse - Tus for Android | Zekibiyikli | [Read More](https://medium.com/p/26411d4f9162) |
+| Thu, 29 May 2025 11:26:50 GMT | A Hidden Backdoor: Bypassing reCAPTCHA on the Sign-up Page | Ehtesham Ul Haq | [Read More](https://medium.com/p/2b5b3c18257f) |
+| Thu, 29 May 2025 11:24:11 GMT | Global Cyber Command Simulation Platform | A-STAR7_DOCTOR | [Read More](https://medium.com/p/343311130ff7) |
+| Thu, 29 May 2025 11:22:29 GMT | ☁️ Understanding Cloud Metadata & SSRF: Exposure, Danger & Exploitation | Zoningxtr | [Read More](https://medium.com/p/8ac0db7eb030) |
+| Thu, 29 May 2025 11:22:17 GMT | How AI is Reshaping Software Development: The Future of Intelligent Automation | Lingala kondareddy | [Read More](https://medium.com/p/570766401e2e) |
+| Thu, 29 May 2025 11:20:45 GMT | Why a No-Log VPN is Your Ultimate Digital Armor: A Deep Dive into Online Privacy (Inspired by Our… | zainal Abidin | [Read More](https://medium.com/p/52f441796647) |
+| Thu, 29 May 2025 11:17:26 GMT | Studying IT in a Rural Village: My Journey from Belihuloya | Mariyeta Rodrigo | [Read More](https://medium.com/p/3aef22a1d8f0) |
+| Thu, 29 May 2025 11:17:10 GMT | HashiCorp Vault Cluster Setup with Raft Backend(NGINX Reverse Proxy with Keepalived) | Hasancan Gümüş | [Read More](https://medium.com/p/9e5f4de47d39) |
+| Thu, 29 May 2025 11:12:27 GMT | The Importance of Futuristic Courses in Employment | MERAQUI | [Read More](https://medium.com/p/f85d1ee6f5be) |
 | Thu, 29 May 2025 11:03:39 GMT | What to Look for When Choosing Security Agencies in Thane | united guard | [Read More](https://medium.com/p/70d672d0f1c3) |
 | Thu, 29 May 2025 10:59:36 GMT | Why CCTV Installation Is No Longer Optional in 2024 — Here’s What You Need to Know | Nestrondigitalhub | [Read More](https://medium.com/p/2fc61857a00d) |
 | Thu, 29 May 2025 10:50:27 GMT | Tech Is Not A Palliative: A Call For Realistic Expectations In Tech — Joshua Oyeniyi | Joshua Oyeniyi | [Read More](https://medium.com/p/75796460c9f8) |
@@ -106,12 +115,3 @@ a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
 | Thu, 29 May 2025 06:27:16 GMT | What is Network Security and What Are Its Main Components? | Saurabh | [Read More](https://medium.com/p/3f167bc0436d) |
 | Thu, 29 May 2025 06:19:56 GMT | 비밀번호 변경 주기, 금융보안에 정말 효과 있을까? (2025년 기준) | Smart Money Guide | [Read More](https://medium.com/p/67f546398ac8) |
 | Thu, 29 May 2025 06:16:32 GMT | Introducing cr3di: A Lightweight CLI Tool for Secure Credential Management on Kali Linux | ShutterOverFoe | [Read More](https://medium.com/p/64cf41a46e97) |
-| Thu, 29 May 2025 06:14:27 GMT | Advanced URL Filtering by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/3758d1e5ed67) |
-| Thu, 29 May 2025 06:10:41 GMT | ️Encounter with Tapjacking in Flutter: Understanding and Preventing Tapjacking | Punith S Uppar | [Read More](https://medium.com/p/8650b3bea24d) |
-| Thu, 29 May 2025 06:06:02 GMT | World War III: How It Could Begin, What It Might Look Like, and the Future That Follows | Nadeem | [Read More](https://medium.com/p/541b6d2028ab) |
-| Thu, 29 May 2025 06:02:31 GMT | Security Boost: New Easy2Patch Catalog Updates Now Available | Easy2Patch | [Read More](https://medium.com/p/a258d4961306) |
-| Thu, 29 May 2025 06:00:54 GMT | Cybersecurity in the Cloud: Protecting Your Digital Assets in 2025 | Red9SysTech | [Read More](https://medium.com/p/82c5e1267115) |
-| Thu, 29 May 2025 06:00:40 GMT | Today’s Top Cyber Intelligence Highlights — May 29, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5eabd2aa1bcb) |
-| Thu, 29 May 2025 05:59:59 GMT | Github Hacking NCSA mooc | Piyawut Buncharoen | [Read More](https://medium.com/p/54b07b9dadd4) |
-| Thu, 29 May 2025 05:58:46 GMT | DarkCorp Insane HackTheBox Room writeup | Vaishnavb | [Read More](https://medium.com/p/fa32ab93ac5c) |
-| Thu, 29 May 2025 05:57:24 GMT | My AndroGoat Journey: Deep Dive into Insecure Data Storage | Damara Brian | [Read More](https://medium.com/p/2887c1a524a8) |
