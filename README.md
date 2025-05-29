@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 10:41:05 GMT | Phishing Awareness: What Is Zphisher and How to Detect Suspicious Links (Part1) | InvasiveMind | [Read More](https://medium.com/p/ca004d238b93) |
+| Thu, 29 May 2025 10:36:01 GMT | Styling A Custom File Upload Area | Beey | [Read More](https://medium.com/p/9a87b70ddaed) |
+| Thu, 29 May 2025 10:30:05 GMT | Investigative Intelligence Between Prevention and Security: A Theoretical and Methodological… | Chris | [Read More](https://medium.com/p/8d8e6f2d03b2) |
+| Thu, 29 May 2025 10:28:26 GMT | Access Denied to Hall-of-Fame | SIDDHANT SHUKLA | [Read More](https://medium.com/p/6275483870a0) |
+| Thu, 29 May 2025 10:28:15 GMT | From Frustration to Impact: How a Weekend Hunt Turned into a Critical CSRF+Phishing Discovery | Sarvesh Mishra | [Read More](https://medium.com/p/c6f4bfba11cc) |
+| Thu, 29 May 2025 10:27:45 GMT | Cyber Arena: A Pen Tester’s Battle Through 2025’s Latest Threats | hackerguy7 | [Read More](https://medium.com/p/68713155a96a) |
+| Thu, 29 May 2025 10:21:39 GMT | AWS Scope After Certification: Unlocking Career Growth and Opportunities in Pakistan | cyberwingITSolution | [Read More](https://medium.com/p/b2e32389462e) |
+| Thu, 29 May 2025 10:19:37 GMT | Comprehensive Guide to Linux System Administrator Career: Skills, Jobs, and Training in Pakistan | cyberwingITSolution | [Read More](https://medium.com/p/f32489d49ef8) |
 | Thu, 29 May 2025 10:16:03 GMT | Cyber Attacks — Cybersecurity part -2 | Amt | [Read More](https://medium.com/p/0fc4cb3eec3a) |
 | Thu, 29 May 2025 10:15:52 GMT | Complete Guide to DevOps Training in Pakistan: Courses, Institutes, and Career Path | cyberwingITSolution | [Read More](https://medium.com/p/96dda441cd65) |
 | Thu, 29 May 2025 10:15:44 GMT | Security with Chinese Characteristics in the New Era: Beijing’s New Security White Paper | European Values Center for Security Policy | [Read More](https://medium.com/p/43cdd09013f2) |
@@ -107,11 +115,3 @@ a song… | Printique studios | [Read More](https://medium.com/p/b8c0fd96b016) |
 | Thu, 29 May 2025 05:33:34 GMT | Cybersecurity Advancements in 2025: Combating Evolving Threats | Red9SysTech | [Read More](https://medium.com/p/1faa0adb5dfe) |
 | Thu, 29 May 2025 05:30:31 GMT | Uncovering Amazon S3 Bucket Vulnerabilities: A Comprehensive Guide for Ethical Hackers | Abhijeet Kumawat | [Read More](https://medium.com/p/0fc903ac21d0) |
 | Thu, 29 May 2025 05:24:32 GMT | CryptoXpress’s Role in Bridging Web2 and Web3: A Seamless Transition for Users | Devbradon | [Read More](https://medium.com/p/61b1c8e856a9) |
-| Thu, 29 May 2025 05:15:22 GMT | Cyber Security Internship with Placement Support | Maya Dhavale | [Read More](https://medium.com/p/04e167c677d7) |
-| Thu, 29 May 2025 05:14:50 GMT | Walkthrough: Solving Lab BNE0x03 — Simple | Muhammad Alfian Ramadhani | [Read More](https://medium.com/p/f307351e7df0) |
-| Thu, 29 May 2025 05:13:27 GMT | Kubernetes Environment Management: Injecting and Updating .env Files via ConfigMaps and Secrets | Ramkrushna Maheshwar | [Read More](https://medium.com/p/67776e4b6aa5) |
-| Thu, 29 May 2025 05:10:50 GMT | CVE-2025–4687 ( Pre-Account takeover through invite on Teletonika RMS website ) | jowin922 | [Read More](https://medium.com/p/972335378829) |
-| Thu, 29 May 2025 05:10:31 GMT | The Role of Artificial Intelligence in Enhancing Cybersecurity Defense Mechanisms | Pallav Kumar Kaulwar | [Read More](https://medium.com/p/b8f3f28c6534) |
-| Thu, 29 May 2025 05:10:30 GMT | Port 443 Demystified: A Complete Guide to HTTPS Traffic | Certera | [Read More](https://medium.com/p/bc4e91e41c0a) |
-| Thu, 29 May 2025 05:07:34 GMT | Puppy Writeup - Seasons 8 - HackTheBox | محمد بن إبراهيم | [Read More](https://medium.com/p/a16fbd265607) |
-| Thu, 29 May 2025 04:59:29 GMT | What is Web Browser Forensics? | InfosecTrain | [Read More](https://medium.com/p/ed027c141a66) |
