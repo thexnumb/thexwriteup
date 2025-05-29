@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 May 2025 20:35:38 GMT | Behind the Blackout: The Mechanisms, Monitoring, and Impact of Internet Shutdowns | The Censored State | [Read More](https://medium.com/p/34761fb21a60) |
+| Thu, 29 May 2025 20:32:22 GMT | What is Cyber Hygiene and Why It Matters Today | Akshay Chauhan | [Read More](https://medium.com/p/bf148e6524f1) |
+| Thu, 29 May 2025 20:27:46 GMT | Interlock Ransomware Strikes with NodeStealer RAT: A Growing Threat to Financial and Healthcare… | Chetan Seripally | [Read More](https://medium.com/p/e8829a2888be) |
+| Thu, 29 May 2025 20:25:51 GMT | SolarWinds Saldırısı: APT29’un Siber Casusluk Operasyonu | Hasan Çavdar | [Read More](https://medium.com/p/4750e1ff365b) |
 | Thu, 29 May 2025 20:13:46 GMT | Canary on the Stack | FieryParks | [Read More](https://medium.com/p/30cec294bc8a) |
 | Thu, 29 May 2025 20:04:02 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/00287d6d4ee8) |
 | Thu, 29 May 2025 19:59:10 GMT | Can a Brilliant Hacker Mind Be Disconnected from the Body? | Ak1T4 | [Read More](https://medium.com/p/4a0cf6e7da26) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 14:39:49 GMT | Deface XSS | Rafli Setyawan | [Read More](https://medium.com/p/913702f0e47b) |
 | Thu, 29 May 2025 14:31:54 GMT | Cyberwarfare and the Quiet Death of Certainty | Liya Kruisen | [Read More](https://medium.com/p/4c12e33cf6d5) |
 | Thu, 29 May 2025 14:31:03 GMT | How China Is Rewiring Global Telecom to Undermine the West | National Security Institute | [Read More](https://medium.com/p/35bd562e51a4) |
-| Thu, 29 May 2025 14:30:02 GMT | ✅ Web App Security Audits: Why 78% of Breaches Start at the Application Layer (And What OMEX Cyber… | Omex Oleksandr | [Read More](https://medium.com/p/0ac15dfda939) |
-| Thu, 29 May 2025 14:23:31 GMT | Hacking Vulnerable Bank API (Extensive) | CyberPreacher | [Read More](https://medium.com/p/d2a0d3bb209e) |
-| Thu, 29 May 2025 14:20:13 GMT | Flipper Zero: Your Pocket-Sized Cybersecurity Swiss Army Knife ️‍♂️ | Rageeth | [Read More](https://medium.com/p/4bd81b1ae51f) |
-| Thu, 29 May 2025 14:18:37 GMT | ️ROADMAP CYBER SECURITY 5 TAHUN KE DEPAN | Sultan Badra | [Read More](https://medium.com/p/f3c93ff23ec0) |
