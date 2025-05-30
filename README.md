@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 18:46:28 GMT | XSS (Cross-Site Scripting) Nedir? | Aycan Yılmazoğlu | [Read More](https://medium.com/p/44ab768cc9a8) |
+| Fri, 30 May 2025 18:46:12 GMT | The AI War: The Rise – Part One | Ritisha bhatt | [Read More](https://medium.com/p/46544bc88e53) |
+| Fri, 30 May 2025 18:45:36 GMT | When Automation Backfires: Flaws in Smart Contract Timers and Scheduled Logic | Web3 Nautiyal | [Read More](https://medium.com/p/50c906313ea4) |
+| Fri, 30 May 2025 18:42:08 GMT | Beginner-Level Active Directory Lab with BadBlood & Forest Druid | Collins Aladekugbe | [Read More](https://medium.com/p/4b7b9c9f6ae8) |
+| Fri, 30 May 2025 18:36:47 GMT | How HIPAA Compliance Protects Patient Trust and Medical Data | Auditify Security | [Read More](https://medium.com/p/c0e300ccb790) |
+| Fri, 30 May 2025 18:27:36 GMT | WannaCry Zararlısının Teknik İncelemesi ve Süreç Tabanlı Analizi | Yusuf Kürüm | [Read More](https://medium.com/p/ade223eeca88) |
+| Fri, 30 May 2025 18:26:38 GMT | Sehar-e-Himmat — A Beacon Against Cyberbullying | iqra mukhtar | [Read More](https://medium.com/p/5f2fb2582d8b) |
 | Fri, 30 May 2025 18:23:21 GMT | Android Runtime: Dalvik ve ART Mimarileri, Çalışma Prensipleri, Farklılıkları ve Donanım Üzerindeki… | Emir KILIÇ | [Read More](https://medium.com/p/71f77910f219) |
 | Fri, 30 May 2025 18:21:24 GMT | My Journey to NASA’s Hall of Fame | Hack-Bat | [Read More](https://medium.com/p/6e680736f557) |
 | Fri, 30 May 2025 18:14:16 GMT | What Are You So Afraid Of? Love… or Wasting Your Time Again? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/649370c95acc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 13:56:38 GMT | Can Scammers Return Stolen Crypto Under Pressure? Understanding the Realities | Natalia Davis | [Read More](https://medium.com/p/c08172b6b460) |
 | Fri, 30 May 2025 13:55:31 GMT | Recon Methodology: Subdomain Enumeration | Marduk I Am | [Read More](https://medium.com/p/0e0493001a03) |
 | Fri, 30 May 2025 13:55:23 GMT | Cybersecurity Is a Boardroom Issue, Not Just an IT Task | Dr. Rajesh Gunakala | [Read More](https://medium.com/p/3f1e62383076) |
-| Fri, 30 May 2025 13:53:48 GMT | How Artificial Intelligence is Transforming Digital Marketing in 2025 | Tech Caps | [Read More](https://medium.com/p/ef292cc49a55) |
-| Fri, 30 May 2025 13:53:36 GMT | Threat Campaign: PureRAT and PureLogs Malware Campaign Hits Russian Organizations | Jon C | [Read More](https://medium.com/p/beac1b4d9aa9) |
-| Fri, 30 May 2025 13:46:56 GMT | How to Deal with Fake Recovery Agents: A Comprehensive Guide | Natalia Davis | [Read More](https://medium.com/p/39d88731e5ee) |
-| Fri, 30 May 2025 13:45:59 GMT | Dear Junior Engineer: I’ve Been You. Here’s What I Wish I Knew | Zudonu Osomudeya | [Read More](https://medium.com/p/7d0a89e47a5c) |
-| Fri, 30 May 2025 13:38:14 GMT | Red Alert: Simulating a Malware Breach in Real Time | Mithra Consulting | [Read More](https://medium.com/p/12082e234d94) |
-| Fri, 30 May 2025 13:28:12 GMT | Building Networks, Breaking Barriers: My Week 4 Journey of Networking. | Grace Wanja | [Read More](https://medium.com/p/a8aaab79e32c) |
-| Fri, 30 May 2025 13:27:51 GMT | Why Malware Is Dead: The Real Risk Is You(Humans) | Luispuello | [Read More](https://medium.com/p/503ca4411d7a) |
