@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 11:10:58 GMT | What is cyber Secuurity Course? | Shanthi Academy | [Read More](https://medium.com/p/cc6bc349d637) |
+| Fri, 30 May 2025 11:09:25 GMT | What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth | Maverick Steel | [Read More](https://medium.com/p/b52338176915) |
+| Fri, 30 May 2025 11:08:38 GMT | NIST’s LEV Metric: A Game-Changer in Exploited Vulnerabilities Detection | Dhanusha N | [Read More](https://medium.com/p/ff7bdb52e2a4) |
+| Fri, 30 May 2025 10:57:40 GMT | SQLi Pentest Toolkit | adce626 | [Read More](https://medium.com/p/a959d4b68489) |
+| Fri, 30 May 2025 10:56:02 GMT | Debunking: GitHub MCP Exploited | Philippe Bogaerts | [Read More](https://medium.com/p/c3963e9feed1) |
+| Fri, 30 May 2025 10:54:41 GMT | Dijital Güvenliğin Merkezinde: SIEM Sistemlerinin Gücü ve Geleceği | Cyber Web | [Read More](https://medium.com/p/baf21a929195) |
+| Fri, 30 May 2025 10:54:20 GMT | Learning to Be Nothing Again | Nidhi Dahiya | [Read More](https://medium.com/p/2d2c4adec266) |
+| Fri, 30 May 2025 10:48:18 GMT | How Log Analysis Can Help Prevent Hacking — Real-World Scenarios and Strategies | Ekene Joseph | [Read More](https://medium.com/p/1250c026adda) |
+| Fri, 30 May 2025 10:45:36 GMT | HackTheBox Insomnia Writeup - Web Hacking CTF Challenges | Motasem Hamdan | [Read More](https://medium.com/p/7ff20588e3fc) |
+| Fri, 30 May 2025 10:44:50 GMT | OWASP Pentest Series (6/12) | TheZeeshanKhan | [Read More](https://medium.com/p/aff4a580733c) |
 | Fri, 30 May 2025 10:39:14 GMT | What skills and topics are covered in the Cyber Security Internship Course at Shanthi IT Solution… | Shanthi IT Solution | [Read More](https://medium.com/p/21d7eec92fb9) |
 | Fri, 30 May 2025 10:35:23 GMT | This is how I completed CS50’s Introduction to Cybersecurity in 25 hours | Aasif Tyagi | [Read More](https://medium.com/p/00096f4ebd54) |
 | Fri, 30 May 2025 10:29:51 GMT | AI in Cyber Security Course in Delhi, India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/5132f175a0d5) |
@@ -104,13 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 06:42:30 GMT | Biometric Data Privacy: Are We Trading Security for Surveillance? | Tec Writer | [Read More](https://medium.com/p/f4dabcfb68e3) |
 | Fri, 30 May 2025 06:40:24 GMT | SQL Injection on DVWA: Automated and Manual Exploits (Part 2) | Nanditha Harish Bhat | [Read More](https://medium.com/p/b54fc90bbbc0) |
 | Fri, 30 May 2025 06:38:16 GMT | Roadmap Newbie -> Pro at Cybersecurity | Daniel Martin | [Read More](https://medium.com/p/9e81424db0a4) |
-| Fri, 30 May 2025 06:33:31 GMT | Web Development for Healthcare: Creating HIPAA-Compliant Apps That Patients Trust | Amaka okoye | [Read More](https://medium.com/p/87e4308fef33) |
-| Fri, 30 May 2025 06:32:28 GMT | Secure Your Kubernetes Workloads with HashiCorp Vault Agent Injector | Mahendran Selvakumar | [Read More](https://medium.com/p/5bc964b0e01c) |
-| Fri, 30 May 2025 06:31:57 GMT | Jarvis HTB Walkthrough — Exploitation & Privilege Escalation | Rayan Mohammed | [Read More](https://medium.com/p/69c257b0f62e) |
-| Fri, 30 May 2025 06:30:09 GMT | Why is there a need to build a Security Chat App? | Mansi Arora | [Read More](https://medium.com/p/d80038f730ca) |
-| Fri, 30 May 2025 06:29:15 GMT | Can I Learn Ethical Hacking Without Coding? | The Drop Organization | [Read More](https://medium.com/p/8a4a9fe46039) |
-| Fri, 30 May 2025 06:27:23 GMT | AI vs Ransomware: What It Can (and Can’t) Actually Do | Cloud4C Services | [Read More](https://medium.com/p/c8aea5aa808f) |
-| Fri, 30 May 2025 06:18:46 GMT | Access Control Systems and Security in Gated Communities in Dubai, Abu Dhabi, and the Rest of the… | Tekhabeeb | [Read More](https://medium.com/p/7602918e8766) |
-| Fri, 30 May 2025 06:16:57 GMT | Kernel-based Virtual Machine: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/05f6be3d45fa) |
-| Fri, 30 May 2025 06:12:26 GMT | JWT Hacking Handbook: From CTFs to Real-World Pentesting | Shoaib Bin Rashid | [Read More](https://medium.com/p/eb8850a4e833) |
-| Fri, 30 May 2025 06:11:35 GMT | top cyber security course in India for beginners on affordable price | Mikemiike | [Read More](https://medium.com/p/35851f0144a1) |
