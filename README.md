@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 23:31:31 GMT | Code Security By Palo Alto Networks: A Comprenshive Guide | Juara IT Solutions | [Read More](https://medium.com/p/18a4a0665b93) |
+| Fri, 30 May 2025 23:12:49 GMT | Advanced Large Language Model Agents: My Journey Through Berkeley’s LLM Agents MOOC (2025 Edition) | Francisco Pérez-Sorrosal | [Read More](https://medium.com/p/731c1034bdcf) |
 | Fri, 30 May 2025 22:59:41 GMT | Aprenda a Bloquear Conexões com iptables em 5 Minutos | Nicolas Martins | [Read More](https://medium.com/p/d9ae354a4688) |
 | Fri, 30 May 2025 22:56:50 GMT | Attack Chain Breakdown: When Fake Antivirus Installs Venom on Your System | Cyber-AppSec | [Read More](https://medium.com/p/70e1ebac96b8) |
 | Fri, 30 May 2025 22:51:46 GMT | The Importance of Protecting Your Account: Why Online Security Matters | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/404cfc942ea3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 16:59:19 GMT | Public Programs vs Self-Hosted Programs | Abhijeet Kumawat | [Read More](https://medium.com/p/f0e1801fd042) |
 | Fri, 30 May 2025 16:56:04 GMT | Hacker Hats Explained: Black, White, and Everything In Between | Midhun Thomas | [Read More](https://medium.com/p/b2acf795cdd0) |
 | Fri, 30 May 2025 16:51:36 GMT | Hello, World- My first post | PhDbuilds | [Read More](https://medium.com/p/668daddc182d) |
-| Fri, 30 May 2025 16:48:13 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/154454ac39cd) |
-| Fri, 30 May 2025 16:43:56 GMT | Demystifying Networking Essentials: Routers, Switches, NAT, VPN, VLAN, DHCP, and DNS | Mazhar Imran | [Read More](https://medium.com/p/9b64b6ba1585) |
