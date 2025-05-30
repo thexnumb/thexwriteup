@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 21:17:09 GMT | Weekly Data Breach Signal: Staying Ahead with Mammoth Cyber | Mammoth Cyber | [Read More](https://medium.com/p/efc54f4408ed) |
+| Fri, 30 May 2025 21:09:56 GMT | Practical guide to LLMNR attack -- Responder -- Hashcat | Muhammadhuzaifa | [Read More](https://medium.com/p/441c0060f3a9) |
+| Fri, 30 May 2025 21:07:29 GMT | Learning from the Past: Case Studies of Blockchain Security Failures | Arsyaagungw | [Read More](https://medium.com/p/731d9cd27e5a) |
+| Fri, 30 May 2025 21:01:31 GMT | Crocodilus in the wild: Mapping the campaign in Poland | mvaks | [Read More](https://medium.com/p/15d3078eb954) |
+| Fri, 30 May 2025 21:00:02 GMT | Implementing a Secret Admin Cookie for Live Editing on Your Portfolio Site : | Anmolshukla | [Read More](https://medium.com/p/808283cdf868) |
+| Fri, 30 May 2025 20:59:14 GMT | WannaCry: 2017'nin Siber Kabusu | NG | [Read More](https://medium.com/p/5551aaea4a64) |
+| Fri, 30 May 2025 20:53:34 GMT | Ledger -THM | SURAJ -MRX001 | [Read More](https://medium.com/p/bac5260a94bd) |
+| Fri, 30 May 2025 20:48:16 GMT | Stopping over 4,000 malicious files, as a solo cybersecurity enjoyer. | kvts | [Read More](https://medium.com/p/2de0a92e0a14) |
+| Fri, 30 May 2025 20:43:47 GMT | Deloitte’s 2025 Data Breach: What It Reveals About Enterprise Cybersecurity Vulnerabilities | Ronit Yadav | [Read More](https://medium.com/p/e7ef2d54c53c) |
 | Fri, 30 May 2025 20:34:06 GMT | Google Calendar Hijacked: Inside the 184M Credential Leak and China’s Covert Cyber Ops | Ronit Yadav | [Read More](https://medium.com/p/1d8557827699) |
 | Fri, 30 May 2025 20:32:29 GMT | TAAM and SANS: Revolutionizing Cybersecurity with SLM Models | TAAMCrypto.com | [Read More](https://medium.com/p/705ef1e2d8e1) |
 | Fri, 30 May 2025 20:29:48 GMT | Siber Savaşın İlk Nükleer Silahı: STUXNET | Çağlar Suvari | [Read More](https://medium.com/p/5db5d88bee39) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 15:21:47 GMT | How I Took Over Any User Account with One Parameter Change | Muthu | [Read More](https://medium.com/p/09692dcc20f1) |
 | Fri, 30 May 2025 15:18:24 GMT | S3 Bucket Brute Force by Pwned Labs — Walkthrough | mauzware | [Read More](https://medium.com/p/8e7c42e69e94) |
 | Fri, 30 May 2025 15:16:37 GMT | Smart TV Privacy: Hidden Surveillance in Your Living Room | Karl Buhl | [Read More](https://medium.com/p/3093ba95fead) |
-| Fri, 30 May 2025 15:06:26 GMT | Track the Hacks: Investigating Brute Force and SSH Access — Real Case Log Analysis | byuda | [Read More](https://medium.com/p/7438fcafa576) |
-| Fri, 30 May 2025 15:00:46 GMT | The Billion-Dollar Heist: The Carbanak Cyber Attack | Shaheer Yasir | [Read More](https://medium.com/p/e790f417b321) |
-| Fri, 30 May 2025 14:59:07 GMT | Remote Guarding: Why Businesses Are Switching From Traditional Security | Medium Dbn | [Read More](https://medium.com/p/00801f533e2e) |
-| Fri, 30 May 2025 14:57:37 GMT | Investigating the Po1s0n1vy Group: A Complete BOTSv1 scenario 1 Walkthrough Using Splunk | Mohamed-Mahmoud | [Read More](https://medium.com/p/6e3bcbd9a748) |
-| Fri, 30 May 2025 14:56:46 GMT | AI vs. AI: How Cybersecurity Teams Are Fighting AI-Powered Attacks with AI Defenses | Rubin Mathews | [Read More](https://medium.com/p/bebea369449c) |
-| Fri, 30 May 2025 14:56:40 GMT | Bug Zero Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/dfa9164d92e3) |
-| Fri, 30 May 2025 14:54:08 GMT | Detecting Vulnerable Drivers (a.k.a. | Mehmet Ergene | [Read More](https://medium.com/p/a903ffcc2f1d) |
-| Fri, 30 May 2025 14:53:18 GMT | How to Hire a Hacker to Catch a Cheating Spouse | Hackers World | [Read More](https://medium.com/p/2b6bc69fecc0) |
-| Fri, 30 May 2025 14:51:02 GMT | Roadmap Menuju Dunia Cybersecurity | Adnan Musthafa Al amin | [Read More](https://medium.com/p/66f926a58554) |
