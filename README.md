@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 20:34:06 GMT | Google Calendar Hijacked: Inside the 184M Credential Leak and China’s Covert Cyber Ops | Ronit Yadav | [Read More](https://medium.com/p/1d8557827699) |
+| Fri, 30 May 2025 20:32:29 GMT | TAAM and SANS: Revolutionizing Cybersecurity with SLM Models | TAAMCrypto.com | [Read More](https://medium.com/p/705ef1e2d8e1) |
+| Fri, 30 May 2025 20:29:48 GMT | Siber Savaşın İlk Nükleer Silahı: STUXNET | Çağlar Suvari | [Read More](https://medium.com/p/5db5d88bee39) |
+| Fri, 30 May 2025 20:22:26 GMT | The Key to Winning a Woman’s Heart | Vera Byron | [Read More](https://medium.com/p/1f043f1dabc4) |
 | Fri, 30 May 2025 20:17:53 GMT | Victoria’s Secret Cyberattack: Why Retail Security Is Hanging by a Thread | Ronit Yadav | [Read More](https://medium.com/p/d1ff8dbedfba) |
 | Fri, 30 May 2025 20:15:42 GMT | TryHackMe: Expose — Walkthrough | CyberQuestor | [Read More](https://medium.com/p/9ae36df654c0) |
+| Fri, 30 May 2025 20:13:29 GMT | Plaka Tanıma Sistemleri | Özdemir Tech | [Read More](https://medium.com/p/31e2bb3002db) |
 | Fri, 30 May 2025 20:12:12 GMT | India’s Economic Growth Hits Its Slowest Point in Four Years at 6.5% | Imran | [Read More](https://medium.com/p/560b0381a5d6) |
 | Fri, 30 May 2025 20:01:15 GMT | PassCode . TryHackMe Walkthrough . Blockchain, 30 points | RosanaFSS | [Read More](https://medium.com/p/74b2b3f02c27) |
 | Fri, 30 May 2025 19:56:51 GMT | How I Stumbled Upon a Critical Webshop Vulnerability (and How It Vanished Without a Trace) | Lukasjohannesmoeller | [Read More](https://medium.com/p/bbeff4ab1f41) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 14:54:08 GMT | Detecting Vulnerable Drivers (a.k.a. | Mehmet Ergene | [Read More](https://medium.com/p/a903ffcc2f1d) |
 | Fri, 30 May 2025 14:53:18 GMT | How to Hire a Hacker to Catch a Cheating Spouse | Hackers World | [Read More](https://medium.com/p/2b6bc69fecc0) |
 | Fri, 30 May 2025 14:51:02 GMT | Roadmap Menuju Dunia Cybersecurity | Adnan Musthafa Al amin | [Read More](https://medium.com/p/66f926a58554) |
-| Fri, 30 May 2025 14:49:10 GMT | Breaking Into Cybersecurity: My 5-Year Plan to Master the Field | Bhisma Deva | [Read More](https://medium.com/p/5e48f0a7d6d9) |
-| Fri, 30 May 2025 14:49:04 GMT | Why Your Social Media is a Goldmine for Hackers | Navindu Chamodya | [Read More](https://medium.com/p/bcf55c055672) |
-| Fri, 30 May 2025 14:46:03 GMT | The Enemy Within: How AI is Weaponizing Your Code ⚔ | Tirlea Ionut | [Read More](https://medium.com/p/69f9555f556f) |
-| Fri, 30 May 2025 14:44:54 GMT | How To Hire A Professional Hacker | Hackers World | [Read More](https://medium.com/p/7064d7dc3c52) |
-| Fri, 30 May 2025 14:39:58 GMT | Extract Hidden Threat Intel from Gmail MBOX Files | Vijay Kumar Gupta | [Read More](https://medium.com/p/f605c4d5f4f5) |
