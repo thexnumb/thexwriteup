@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 15:36:27 GMT | Do you like your — pizza — err… password with salt and pepper? | David Mora Rodriguez | [Read More](https://medium.com/p/f9f13b28e311) |
+| Fri, 30 May 2025 15:29:14 GMT | The NPM Token That Stayed Alive for Two Years | Arshad Kazmi | [Read More](https://medium.com/p/379d8d7be068) |
+| Fri, 30 May 2025 15:28:03 GMT | Introduction to Networking Basics | Daarin | [Read More](https://medium.com/p/0c31451946a0) |
+| Fri, 30 May 2025 15:27:53 GMT | TryHackMe - Session Management - WriteUp | Axoloth | [Read More](https://medium.com/p/19c1a898aa47) |
+| Fri, 30 May 2025 15:21:47 GMT | How I Took Over Any User Account with One Parameter Change | Muthu | [Read More](https://medium.com/p/09692dcc20f1) |
+| Fri, 30 May 2025 15:18:24 GMT | S3 Bucket Brute Force by Pwned Labs — Walkthrough | mauzware | [Read More](https://medium.com/p/8e7c42e69e94) |
+| Fri, 30 May 2025 15:16:37 GMT | Smart TV Privacy: Hidden Surveillance in Your Living Room | Karl Buhl | [Read More](https://medium.com/p/3093ba95fead) |
 | Fri, 30 May 2025 15:06:26 GMT | Track the Hacks: Investigating Brute Force and SSH Access — Real Case Log Analysis | byuda | [Read More](https://medium.com/p/7438fcafa576) |
 | Fri, 30 May 2025 15:00:46 GMT | The Billion-Dollar Heist: The Carbanak Cyber Attack | Shaheer Yasir | [Read More](https://medium.com/p/e790f417b321) |
 | Fri, 30 May 2025 14:59:07 GMT | Remote Guarding: Why Businesses Are Switching From Traditional Security | Medium Dbn | [Read More](https://medium.com/p/00801f533e2e) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 11:10:58 GMT | What is cyber Secuurity Course? | Shanthi Academy | [Read More](https://medium.com/p/cc6bc349d637) |
 | Fri, 30 May 2025 11:09:25 GMT | What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth | Maverick Steel | [Read More](https://medium.com/p/b52338176915) |
 | Fri, 30 May 2025 11:09:06 GMT | Choosing the Right Security Company in Pune: Timeless Essentials | United Guard Force India | [Read More](https://medium.com/p/33a2eeea526e) |
-| Fri, 30 May 2025 11:08:38 GMT | NIST’s LEV Metric: A Game-Changer in Exploited Vulnerabilities Detection | Dhanusha N | [Read More](https://medium.com/p/ff7bdb52e2a4) |
-| Fri, 30 May 2025 10:57:40 GMT | SQLi Pentest Toolkit | adce626 | [Read More](https://medium.com/p/a959d4b68489) |
-| Fri, 30 May 2025 10:56:02 GMT | Debunking: GitHub MCP Exploited | Philippe Bogaerts | [Read More](https://medium.com/p/c3963e9feed1) |
-| Fri, 30 May 2025 10:54:41 GMT | Dijital Güvenliğin Merkezinde: SIEM Sistemlerinin Gücü ve Geleceği | Cyber Web | [Read More](https://medium.com/p/baf21a929195) |
-| Fri, 30 May 2025 10:54:20 GMT | Learning to Be Nothing Again | Nidhi Dahiya | [Read More](https://medium.com/p/2d2c4adec266) |
-| Fri, 30 May 2025 10:48:18 GMT | How Log Analysis Can Help Prevent Hacking — Real-World Scenarios and Strategies | Ekene Joseph | [Read More](https://medium.com/p/1250c026adda) |
-| Fri, 30 May 2025 10:45:36 GMT | HackTheBox Insomnia Writeup - Web Hacking CTF Challenges | Motasem Hamdan | [Read More](https://medium.com/p/7ff20588e3fc) |
