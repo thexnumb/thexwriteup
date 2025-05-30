@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 08:17:44 GMT | How Can I Recover My Scammed $55,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/0758e68c0480) |
+| Fri, 30 May 2025 08:11:22 GMT | Keyword Research Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/d1c37b39dbe8) |
+| Fri, 30 May 2025 08:09:21 GMT | Consolidating Observability and Security with eBPF in 2025 — A Senior Engineer’s Perspective | Trek | [Read More](https://medium.com/p/4aa7ae233e5a) |
+| Fri, 30 May 2025 08:04:41 GMT | Introducing Llama-3.1-FoundationAI-SecurityLLM-Base-8B | Elias Hossain | [Read More](https://medium.com/p/7657f3766e82) |
+| Fri, 30 May 2025 08:00:08 GMT | What Happens If You Don’t Upgrade After Windows 10 EOL? Here’s What You Need to Know | Ankit Cloudiops | [Read More](https://medium.com/p/8ac14ec01cae) |
+| Fri, 30 May 2025 07:57:08 GMT | Hidden Tokens, Open Wallets: How I Found Payment API Keys in Production JavaScript | Iski | [Read More](https://medium.com/p/7810b3113e04) |
+| Fri, 30 May 2025 07:56:49 GMT | Free VPNs vs. Paid VPNs: 5 Hard Truths They Don’t Want You to Know | Cloudbric VPN | [Read More](https://medium.com/p/b07eab79e47b) |
+| Fri, 30 May 2025 07:56:13 GMT | Streaming Shock: 7 Million Accounts Hacked Are You at Risk? | TECHi | [Read More](https://medium.com/p/2aa7f16de6f1) |
+| Fri, 30 May 2025 07:48:55 GMT | Roadmap Cyber Security, Dalam 5 Tahun kedepan | Naufal Hilmy Mahdy | [Read More](https://medium.com/p/2a537749a186) |
+| Fri, 30 May 2025 07:47:04 GMT | The Daily Tech Digest: 30 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8dc33cda17b0) |
+| Fri, 30 May 2025 07:45:19 GMT | As Qatar continues to expand its urban infrastructure and business landscape, the demand for… | Fss | [Read More](https://medium.com/p/07618cad357f) |
+| Fri, 30 May 2025 07:42:23 GMT | Simulasi Jaringan VLSM dengan Cisco Packet Tracer | dapit | [Read More](https://medium.com/p/fe048530661d) |
+| Fri, 30 May 2025 07:41:03 GMT | Security Technologies That Are Transforming Modern Surveillance | Pentagonengineers | [Read More](https://medium.com/p/7a5c495863ff) |
+| Fri, 30 May 2025 07:33:11 GMT | Free VPNs: Your Digital Time Bomb? Why ‘Free’ Could Cost You Everything Online | zainal Abidin | [Read More](https://medium.com/p/529b06b249b5) |
 | Fri, 30 May 2025 07:31:45 GMT | The 5 Most Secure Email Providers To Protect Your Privacy in 2025 | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5b6595066900) |
 | Fri, 30 May 2025 07:28:39 GMT | XSS Without Input Fields: SQL Injection Attack in Web3 Applications | arsenii9 | [Read More](https://medium.com/p/1dc1cbcf3f2e) |
+| Fri, 30 May 2025 07:27:52 GMT | Runtime Security in Cloud Composer: Enforcing Per-App DAG Isolation with External Policies | Sendoa Moronta | [Read More](https://medium.com/p/a390cefd0443) |
 | Fri, 30 May 2025 07:22:28 GMT | Trust But Verify Those Relationships: Microsoft Dynamics 365 Finance and Operations | Namir Sagheenanajar | [Read More](https://medium.com/p/e230db09d3de) |
 | Fri, 30 May 2025 07:22:11 GMT | IDOR for Coins: How I Paid Less and Got More on Reddit’s PayPal Checkout | Monika sharma | [Read More](https://medium.com/p/aa40c51f11d3) |
 | Fri, 30 May 2025 07:20:37 GMT | Memory Analysis Introduction - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/32e865e2a1c0) |
@@ -99,18 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 02:21:11 GMT | Hacking APIs: OAuth 2.0 Authentication Vulnerabilities | Israel Aráoz Severiche | [Read More](https://medium.com/p/498c82ef4293) |
 | Fri, 30 May 2025 02:17:19 GMT | A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Sebinmathew | [Read More](https://medium.com/p/f42318f331d6) |
 | Fri, 30 May 2025 02:06:09 GMT | Smart Homes Security: Must-Have Systems for Modern Home Protection | Coltonballweb | [Read More](https://medium.com/p/00d446caa3c9) |
-| Fri, 30 May 2025 02:05:34 GMT | ‘Is a’ Relationship - Java | Hari Prasad | [Read More](https://medium.com/p/8cf49d88b42c) |
-| Fri, 30 May 2025 02:04:36 GMT | Attack Chain Analysis: Self-Spreading Docker Malware That Mines Dero Cryptocurrency | Cyber-AppSec | [Read More](https://medium.com/p/6697c28c71c3) |
-| Fri, 30 May 2025 01:56:50 GMT | ProxyBlob: Create SOCKS Proxy via Azure Blob Storage | Pawan Jaiswal | [Read More](https://medium.com/p/bff69266ff63) |
-| Fri, 30 May 2025 01:49:44 GMT | WhatsApp tests new username feature to enhance user privacy | Sa malik | [Read More](https://medium.com/p/38189953cf23) |
-| Fri, 30 May 2025 01:11:33 GMT | SOAR x EDR Integration for Automated Incident Alerting & Response: PART I | Godspower Melariri-okwu | [Read More](https://medium.com/p/45ac9349d0ca) |
-| Fri, 30 May 2025 01:03:51 GMT | Your application should be PCI-DSS-compliant. | Victor Anuebunwa | [Read More](https://medium.com/p/c801702a1c3b) |
-| Fri, 30 May 2025 01:01:18 GMT | Why is Edge Computing More Vulnerable, Yet Versatile? | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/39e49fb61b76) |
-| Fri, 30 May 2025 00:55:00 GMT | Telcoin Strengthens Security with SOC 2 Certification and Ongoing Audits | Telcoin | [Read More](https://medium.com/p/9a57eaa36a7a) |
-| Fri, 30 May 2025 00:38:14 GMT | Crack Zip File password | Mr Horbio | [Read More](https://medium.com/p/2c08ad9053c5) |
-| Fri, 30 May 2025 00:32:29 GMT | Altreserve Review: How I Recovered My Lost Funds | Lucy t. Gowan | [Read More](https://medium.com/p/f96b1e12bb18) |
-| Fri, 30 May 2025 00:32:17 GMT | Octalyn Stealer: When Cybercriminals Go Open Source | Brendan Smith | [Read More](https://medium.com/p/09775fe257c6) |
-| Fri, 30 May 2025 00:22:38 GMT | How I Recovered My Money from Ironwave Capital | Alyssa Schmidt | [Read More](https://medium.com/p/397d9157f4ef) |
-| Fri, 30 May 2025 00:15:01 GMT | Fintxpert Review: How I Recovered My Lost Funds | Michael E. Camara | [Read More](https://medium.com/p/2ea05b98a208) |
-| Fri, 30 May 2025 00:14:12 GMT | Additional risky behaviors in the Contec CMS8000 | Karambit.AI | [Read More](https://medium.com/p/4fb0ae445342) |
-| Fri, 30 May 2025 00:12:48 GMT | How I Recovered My Funds from Fintxpert | Michael E. Camara | [Read More](https://medium.com/p/9168759c700f) |
