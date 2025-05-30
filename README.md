@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 08:45:23 GMT | Understanding Medium’s Content Policies: How to Avoid Account Suspension | Ghulam Murtaza | [Read More](https://medium.com/p/e81e3ffa1452) |
+| Fri, 30 May 2025 08:40:34 GMT | X Ray Baggage Scanner: Technology Behind Seamless Security Checks | Pentagonengineers | [Read More](https://medium.com/p/b2e0fb84e1ce) |
+| Fri, 30 May 2025 08:35:11 GMT | cyberRoadmap 5 Tahun Cyber Security: From Zero to Hero | DhiasCode | [Read More](https://medium.com/p/ccd9a6fc3c64) |
+| Fri, 30 May 2025 08:32:49 GMT | The Role of Cryptography in Cybersecurity: Keeping Your Digital Data Safe | İsmail Yerlikaya | [Read More](https://medium.com/p/d870e7dcaf25) |
+| Fri, 30 May 2025 08:32:37 GMT | Beyond Perimeter: Introducing Appollo for Real-Time Attack Surface Detection | Groww Engineering Team | [Read More](https://medium.com/p/777092b6be2e) |
+| Fri, 30 May 2025 08:31:32 GMT | Exploring our relationship to bugs as fellow beings | The Medium Newsletter | [Read More](https://medium.com/p/a91990d1c68e) |
+| Fri, 30 May 2025 08:26:33 GMT | Active Response Wazuh: Block IP Otomatis terhadap Attacker IP | Sigit Adi Irianto | [Read More](https://medium.com/p/74eaab429468) |
+| Fri, 30 May 2025 08:25:40 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime Stories | [Read More](https://medium.com/p/9771473c5a51) |
+| Fri, 30 May 2025 08:25:26 GMT | FedRAMP Compliance Guidelines for Container Security | Flavius Dinu | [Read More](https://medium.com/p/f2f9157285e6) |
 | Fri, 30 May 2025 08:17:44 GMT | How Can I Recover My Scammed $55,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/0758e68c0480) |
 | Fri, 30 May 2025 08:11:22 GMT | Keyword Research Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/d1c37b39dbe8) |
 | Fri, 30 May 2025 08:09:21 GMT | Consolidating Observability and Security with eBPF in 2025 — A Senior Engineer’s Perspective | Trek | [Read More](https://medium.com/p/4aa7ae233e5a) |
@@ -105,12 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 03:13:17 GMT | Lingerie and Logic: Unpacking the Victoria’s Secret Cybersecurity Incident | Brittney Ginther | [Read More](https://medium.com/p/437463ed07d0) |
 | Fri, 30 May 2025 03:00:12 GMT | Bypassing Defender SmartScreen | Math69 | [Read More](https://medium.com/p/a85ee458c331) |
 | Fri, 30 May 2025 02:50:59 GMT | “The Hidden Dangers of Insecure File Uploads in Web Applications: A Guide for Pentesters” | Shoaib Muhammad | [Read More](https://medium.com/p/e612ed1d9167) |
-| Fri, 30 May 2025 02:44:20 GMT | More Fat Than a Farm Animal, Watched Like a Dissident: Welcome to the American Dream | Matyas Koszegi | [Read More](https://medium.com/p/f523372e7d88) |
-| Fri, 30 May 2025 02:44:10 GMT | ✍️ Threat Research Report: Brand Impersonation Campaign | Syed Ahmer Masood | [Read More](https://medium.com/p/08c27826b856) |
-| Fri, 30 May 2025 02:33:21 GMT | TryHackME-Sandbox Evasion | Mohamed Ashraf | [Read More](https://medium.com/p/0a5150be7f1e) |
-| Fri, 30 May 2025 02:31:01 GMT | When You’re Old, You Gotta Have Money. Don’t Test People! | XeniaAusten | [Read More](https://medium.com/p/2e00d8c9c64c) |
-| Fri, 30 May 2025 02:26:12 GMT | How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties | Invik | [Read More](https://medium.com/p/211b75a998d9) |
-| Fri, 30 May 2025 02:24:01 GMT | How to Hire a Hacker in 2025: The Insider’s Perspective | Labib Yasir | [Read More](https://medium.com/p/bf691a86dafe) |
-| Fri, 30 May 2025 02:21:11 GMT | Hacking APIs: OAuth 2.0 Authentication Vulnerabilities | Israel Aráoz Severiche | [Read More](https://medium.com/p/498c82ef4293) |
-| Fri, 30 May 2025 02:17:19 GMT | A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Sebinmathew | [Read More](https://medium.com/p/f42318f331d6) |
-| Fri, 30 May 2025 02:06:09 GMT | Smart Homes Security: Must-Have Systems for Modern Home Protection | Coltonballweb | [Read More](https://medium.com/p/00d446caa3c9) |
