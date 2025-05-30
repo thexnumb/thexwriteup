@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 07:19:11 GMT | Leaking in Plain Sight: How Short Links Expose Sensitive Data | Dzianis Skliar | [Read More](https://medium.com/p/fb5bf9e53833) |
+| Fri, 30 May 2025 07:17:19 GMT | If You’re New to Hacking, Start Here | Cypher.One | [Read More](https://medium.com/p/c55a8e6178de) |
+| Fri, 30 May 2025 07:15:10 GMT | Qatar Airways New York Office +1–888–839–0502 | Airlinesofficesdetails | [Read More](https://medium.com/p/d07e52730888) |
+| Fri, 30 May 2025 07:13:08 GMT | How I Recovered My Company’s Hacked Instagram | Sujal Adhikari | [Read More](https://medium.com/p/604a06fc6b8c) |
+| Fri, 30 May 2025 07:07:56 GMT | Unfiltered: My 27-Year Reflection on Love and Readiness | Fhahira Rizkhika | [Read More](https://medium.com/p/3f808437c4ab) |
+| Fri, 30 May 2025 07:06:57 GMT | Unlocking the Tech World: A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Vaishnav RS | [Read More](https://medium.com/p/c443e2647510) |
+| Fri, 30 May 2025 07:05:45 GMT | Cybersecurity in the Age of AI-Generated Deepfakes | Phanish Lakkarasu | [Read More](https://medium.com/p/79069da60970) |
+| Fri, 30 May 2025 07:02:32 GMT | What Being a Sex Worker Taught Me About Masculinity and Body Image | No One's Daughter | [Read More](https://medium.com/p/501030ddac4d) |
+| Fri, 30 May 2025 07:02:28 GMT | Cyber Wilds: A Pen Tester’s Hunt Through 2025’s Latest Threats | hackerguy7 | [Read More](https://medium.com/p/d502aba8bc74) |
+| Fri, 30 May 2025 06:57:31 GMT | BCA in Cybersecurity and Cloud Computing: Secure Your Future in Technology | Tushar Digitalaakar | [Read More](https://medium.com/p/ed8a2febf162) |
+| Fri, 30 May 2025 06:55:54 GMT | Mengenal Malware, Phishing, dan Ransomware | Mukti Badriyan | [Read More](https://medium.com/p/545c099dc419) |
+| Fri, 30 May 2025 06:55:52 GMT | CTF Challenge Report: Missey
+Category: Network Security
+Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com/p/fdc228086947) |
+| Fri, 30 May 2025 06:55:26 GMT | ประจำวันศุกร์ที่ 30 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/0a3220c1d9f1) |
+| Fri, 30 May 2025 06:54:55 GMT | Trust & Transactions: Data Center Security for Kuwait’s Financial Sector | Tekhabeeb | [Read More](https://medium.com/p/92aa974bc4b6) |
+| Fri, 30 May 2025 06:51:44 GMT | How to Detect Malicious Activity in Cybersecurity: Common Indicators and Attack Types | unica 02 | [Read More](https://medium.com/p/96eaaf7b4cb1) |
 | Fri, 30 May 2025 06:42:30 GMT | Biometric Data Privacy: Are We Trading Security for Surveillance? | Tec Writer | [Read More](https://medium.com/p/f4dabcfb68e3) |
 | Fri, 30 May 2025 06:40:24 GMT | SQL Injection on DVWA: Automated and Manual Exploits (Part 2) | Nanditha Harish Bhat | [Read More](https://medium.com/p/b54fc90bbbc0) |
 | Fri, 30 May 2025 06:38:16 GMT | Roadmap Newbie -> Pro at Cybersecurity | Daniel Martin | [Read More](https://medium.com/p/9e81424db0a4) |
@@ -97,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 22:52:16 GMT | Triangular Distribution, Monte Carlo Simulations, and CDF: The Foundations of Cyber Risk… | Mehdi | [Read More](https://medium.com/p/fc7ba9838944) |
 | Thu, 29 May 2025 22:32:27 GMT | LOFI WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/c09070d2d824) |
 | Thu, 29 May 2025 22:31:59 GMT | Siber Tehdit İstihbaratı Nedir? | EmreYİĞİT | [Read More](https://medium.com/p/03b5557559a3) |
-| Thu, 29 May 2025 22:24:34 GMT | STUXNet: Dijital Dünyanın İlk Siber Silahı | Hasan Çavdar | [Read More](https://medium.com/p/3476e23900bd) |
-| Thu, 29 May 2025 22:21:41 GMT | When the Silk Tears: A Glimpse into the Cyber Shadows Behind Victoria’s Secret Breach | Avnishyam | [Read More](https://medium.com/p/67bf676d53d5) |
-| Thu, 29 May 2025 22:16:42 GMT | Exploring More Network Services and Exploitation Techniques | Karthikeyan Nagaraj | [Read More](https://medium.com/p/2f4f4f74f604) |
-| Thu, 29 May 2025 22:16:03 GMT | The Gray Space: Reconnaissance and Social Engineering at the Intersection of Intelligence… | Alayna Ferdarko | [Read More](https://medium.com/p/d7aea3f12b13) |
-| Thu, 29 May 2025 22:15:44 GMT | Understanding Male Vulnerability in the Fight for Equality | Cecil Ato Kwamena Dadzie | [Read More](https://medium.com/p/5c81fd186e4f) |
-| Thu, 29 May 2025 22:06:37 GMT | Safe Online: Navigating the World of Cybersecurity | Enna | [Read More](https://medium.com/p/293a28816066) |
-| Thu, 29 May 2025 22:02:36 GMT | Understanding Simple Network Topology: A Case Study of a Small Office Network | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/4de0d6158115) |
-| Thu, 29 May 2025 22:02:35 GMT | Snowflake Architecture Series: A Foundational Checklist | Augusto Kiniama Rosa | [Read More](https://medium.com/p/fcb6c1db7f19) |
-| Thu, 29 May 2025 21:54:36 GMT | How many kids give away information to strangers? | Savvy Cyber Kids | [Read More](https://medium.com/p/aaa75ec2c428) |
-| Thu, 29 May 2025 21:54:12 GMT | Am I Addicted to My Phone? | Savvy Cyber Kids | [Read More](https://medium.com/p/fc83db418cee) |
-| Thu, 29 May 2025 21:53:45 GMT | What To Do If You Become a Victim of Cyberbullying | Savvy Cyber Kids | [Read More](https://medium.com/p/8ceb6a64a616) |
-| Thu, 29 May 2025 21:47:59 GMT | “This Person Is Engaged in Fraud”: When Instagram Comments Reveal the Truth | Natasha Fuller | [Read More](https://medium.com/p/93a5f9d7e082) |
-| Thu, 29 May 2025 21:46:53 GMT | Cyber Security Fundamental: Mengenal Dasar-Dasar Keamanan Siber untuk Era Digital | Muhammad Abiyan Hafidz | [Read More](https://medium.com/p/e5a7595ba695) |
-| Thu, 29 May 2025 21:36:33 GMT | Your True Community Expands Your Heart | Gulhis Sarap | [Read More](https://medium.com/p/331443b9e93a) |
-| Thu, 29 May 2025 21:22:56 GMT | VICAR: Bridging the gap between threat modeling and remediation | ETTIC | [Read More](https://medium.com/p/8538ab851c1e) |
