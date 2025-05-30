@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 14:39:58 GMT | Extract Hidden Threat Intel from Gmail MBOX Files | Vijay Kumar Gupta | [Read More](https://medium.com/p/f605c4d5f4f5) |
+| Fri, 30 May 2025 14:39:58 GMT | WannaCRY | Fırat Yağmur | [Read More](https://medium.com/p/b324b27a3f2c) |
+| Fri, 30 May 2025 14:35:01 GMT | STUXNET NEDİR | Fırat Yağmur | [Read More](https://medium.com/p/c13c04aad57a) |
+| Fri, 30 May 2025 14:32:16 GMT | Top 9 Vulnerability Assessment Tools: Your First Line of Defense in Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/a87e6ab0e223) |
+| Fri, 30 May 2025 14:30:00 GMT | Exploiting WebSocketCommunication in a JIRA `redacted` Add-On | Jafar Abo Nada | [Read More](https://medium.com/p/1440fba174b5) |
+| Fri, 30 May 2025 14:29:41 GMT | When they thought you as a real Hacker | Prawin Lakhman K | [Read More](https://medium.com/p/12d60353ffdf) |
+| Fri, 30 May 2025 14:28:37 GMT | Advanced Threat Activity Intensifies on Vulnerable Systems — 5th Week of May, 2025 | Loginsoft | [Read More](https://medium.com/p/8d8ff532dd1d) |
+| Fri, 30 May 2025 14:27:51 GMT | What Are Managed IT Services? A Complete Guide Featuring Teceze | Teceze | [Read More](https://medium.com/p/fbc48987f7ec) |
+| Fri, 30 May 2025 14:27:25 GMT | TLS Abuse leads to Remote Code Execution | Z4ki | [Read More](https://medium.com/p/201b882ef3a7) |
+| Fri, 30 May 2025 14:25:40 GMT | HOW TO BECOME PYTHON PROBLEM SOLVER IN 2025: | abdulazeez bolakale | [Read More](https://medium.com/p/92ba94b1ea1d) |
+| Fri, 30 May 2025 14:24:14 GMT | Invisible Power: Loadable Kernel Module (LKM) | LordShen | [Read More](https://medium.com/p/30c7aa52d19d) |
+| Fri, 30 May 2025 14:22:51 GMT | Step By Step: OpenAI Model Resilience to TBTG Side — Channel Timing Attacks | Tomer Wetzler | [Read More](https://medium.com/p/584fd329aa17) |
+| Fri, 30 May 2025 14:21:00 GMT | Digital Forensics and Fraud Analysis Just Got Easier | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ac7abb5ce1be) |
 | Fri, 30 May 2025 14:15:29 GMT | Week 5&6 Exercise — Design an AWS VPC | Travon Mayo | [Read More](https://medium.com/p/3258b90763fa) |
 | Fri, 30 May 2025 14:12:36 GMT | Before You Upload Your Next Blog Post, Consider This Invisible Risk | Sam Galope | [Read More](https://medium.com/p/f3139b466802) |
 | Fri, 30 May 2025 14:10:50 GMT | Self-Discipline Is the New Self-Love | Pavan | [Read More](https://medium.com/p/caa3213f98d2) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 10:07:50 GMT | CoreInvest Review – How I Got My Money Back | Benjamin Fiedler | [Read More](https://medium.com/p/adc77c2bbf00) |
 | Fri, 30 May 2025 10:07:38 GMT | Behind the Screen: Navigating Cybersecurity Risks and Personal Data | Girl Up UI Indonesia | [Read More](https://medium.com/p/7b522df5dcda) |
 | Fri, 30 May 2025 10:06:16 GMT | Why You Should Delete jsonwebtoken in 2025 | Ali nazari | [Read More](https://medium.com/p/362bffe65b0f) |
-| Fri, 30 May 2025 10:03:30 GMT | The Five Most Common Mistakes Wannabe Hackers Make (and How to Avoid Them) | Franziska "Ziska" Fink | [Read More](https://medium.com/p/50b4634adeb8) |
-| Fri, 30 May 2025 09:58:54 GMT | the rise of quiet quitting 3.0 on on social media | S Anuradha | [Read More](https://medium.com/p/22e6553d4fb4) |
-| Fri, 30 May 2025 09:57:48 GMT | Designing Zero Trust for Multi-Nation Enterprises (MNEs) | A-STAR7_DOCTOR | [Read More](https://medium.com/p/fef963244b6b) |
-| Fri, 30 May 2025 09:52:20 GMT | How to Perform Penetration Testing for a Secured Web Application? | Microscan Communications | [Read More](https://medium.com/p/3ef35abf4e60) |
-| Fri, 30 May 2025 09:51:51 GMT | ISO 9001:2015 — A Simple Guide to Quality Certification | Vigneshvar Bhukya | [Read More](https://medium.com/p/8bef613ebf4f) |
-| Fri, 30 May 2025 09:47:57 GMT | The Red Flags I’ve Seen from Pentest Vendors After 25 Years in Cybersecurity | Jason | [Read More](https://medium.com/p/c4c0fae6e158) |
-| Fri, 30 May 2025 09:46:24 GMT | 3. System Design: When You Google Something? | Akhil Padmanaban | [Read More](https://medium.com/p/55d4a77a6702) |
-| Fri, 30 May 2025 09:46:10 GMT | Why Programming is a Game-Changer in Cybersecurity | eXpl0it_32 | [Read More](https://medium.com/p/32714647d3a2) |
-| Fri, 30 May 2025 09:42:31 GMT | Redact or Replace? The Ultimate Guide to Sanitizing PHI in AI and Production Systems | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/5d685ef550a0) |
-| Fri, 30 May 2025 09:41:19 GMT | Top 10 Cyber Threats You’re Most Likely to Face in 2025 And How to Prepare | Dhanusha N | [Read More](https://medium.com/p/377ecd7af042) |
-| Fri, 30 May 2025 09:35:29 GMT | U.S. Sanctions Cloud Provider ‘Funnull’ Over Pig Butchering Scams — How CyberVolt Security… | Ekene Joseph | [Read More](https://medium.com/p/bfc2b407a522) |
-| Fri, 30 May 2025 09:32:35 GMT | I Protected Myself So Well, I Forgot How to Let Anyone In | Amir Taufiq | [Read More](https://medium.com/p/eeeb12701811) |
-| Fri, 30 May 2025 09:31:23 GMT | Building a Secure WireGuard VPN Server on Windows for Remote Access from macOS | Alperen Gokbak | [Read More](https://medium.com/p/79ce0adf4da2) |
