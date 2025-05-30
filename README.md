@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 18:23:21 GMT | Android Runtime: Dalvik ve ART Mimarileri, Çalışma Prensipleri, Farklılıkları ve Donanım Üzerindeki… | Emir KILIÇ | [Read More](https://medium.com/p/71f77910f219) |
+| Fri, 30 May 2025 18:21:24 GMT | My Journey to NASA’s Hall of Fame | Hack-Bat | [Read More](https://medium.com/p/6e680736f557) |
+| Fri, 30 May 2025 18:14:16 GMT | What Are You So Afraid Of? Love… or Wasting Your Time Again? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/649370c95acc) |
+| Fri, 30 May 2025 18:13:25 GMT | A Mutex Loop | Montel Oliver | [Read More](https://medium.com/p/1ed4aca861dc) |
+| Fri, 30 May 2025 18:00:35 GMT | I will write engineering, tech, software engineer, superintendent, construction resume | Ciciliajane | [Read More](https://medium.com/p/694b3dba8bba) |
+| Fri, 30 May 2025 18:00:35 GMT | The Shadow Beneath the Surface: Unpacking the Rise of Pure Crypter and Its Implications for… | Siva Gunasekaran | [Read More](https://medium.com/p/c341a5cb9622) |
+| Fri, 30 May 2025 17:57:51 GMT | #  CVE-2025-45542: Time-Based Blind SQL Injection in CloudClassroom PHP Project v1.0 | Sanjay Singh | [Read More](https://medium.com/p/1fa0efc8a94a) |
+| Fri, 30 May 2025 17:55:52 GMT | The Hidden Dangers of Browser Add-ons You Didn’t Approve | Akshay Chauhan | [Read More](https://medium.com/p/24b72fe7aaac) |
+| Fri, 30 May 2025 17:52:26 GMT | HTML INJECTION :) | kutty | [Read More](https://medium.com/p/874374f71e9e) |
+| Fri, 30 May 2025 17:51:52 GMT | My Own CyberSecurity Roadmap Story | sultanrk | [Read More](https://medium.com/p/5b81fbc27bea) |
+| Fri, 30 May 2025 17:49:41 GMT | How One App Can Starve Others: Let’s get to the basics | Swapnil Saha | [Read More](https://medium.com/p/2bc87f769b32) |
+| Fri, 30 May 2025 17:44:32 GMT | Encrypting and Dynamically Loading Malicious APK Payloads | Subigya Ghimire | [Read More](https://medium.com/p/cb67b3620984) |
+| Fri, 30 May 2025 17:40:20 GMT | Penetration Testing and its Role In Cybersecurity | Dheeraj Salunkhe | [Read More](https://medium.com/p/4492607a9484) |
+| Fri, 30 May 2025 17:37:06 GMT | Kafka Deep-Dive: Architecture, Performance, Ecosystem & Security | Amit Pawar | [Read More](https://medium.com/p/f4bfadd28c19) |
 | Fri, 30 May 2025 17:30:03 GMT | How I Use Free Tools to Audit Websites for Security Vulnerabilities | Shahzaib Khan | [Read More](https://medium.com/p/ef99f48a32b6) |
 | Fri, 30 May 2025 17:26:26 GMT | The Convergence of LLM Agents and Cybersecurity: Breaking New Ground in Vulnerability Detection | Jagrut Sharma | [Read More](https://medium.com/p/dfd55e367d72) |
 | Fri, 30 May 2025 17:24:25 GMT | Cross-Site Request Forgery | Isha Sangpal | [Read More](https://medium.com/p/820e0b2f20d6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 13:38:14 GMT | Red Alert: Simulating a Malware Breach in Real Time | Mithra Consulting | [Read More](https://medium.com/p/12082e234d94) |
 | Fri, 30 May 2025 13:28:12 GMT | Building Networks, Breaking Barriers: My Week 4 Journey of Networking. | Grace Wanja | [Read More](https://medium.com/p/a8aaab79e32c) |
 | Fri, 30 May 2025 13:27:51 GMT | Why Malware Is Dead: The Real Risk Is You(Humans) | Luispuello | [Read More](https://medium.com/p/503ca4411d7a) |
-| Fri, 30 May 2025 13:24:32 GMT | How I Learned to Trust My Own Voice ? | Hajara Farwin | [Read More](https://medium.com/p/258620de2e0e) |
-| Fri, 30 May 2025 13:23:22 GMT | Managed vs. In-House IT: What’s Right for Your Business? | IPSpecialist | [Read More](https://medium.com/p/d4287e1bddc5) |
-| Fri, 30 May 2025 13:21:31 GMT | The Law Doesn’t Love You — But It Will Hold You Accountable | Richard Ogundele | [Read More](https://medium.com/p/07dd98581856) |
-| Fri, 30 May 2025 13:12:00 GMT | The Writer’s Dilemma: When Validation Meets Vulnerability | Pratibha Singh | [Read More](https://medium.com/p/b73087ca8c38) |
-| Fri, 30 May 2025 13:11:32 GMT | AI Security: Friend, Foe, or Just Really Complicated? | Wale Adedeji | [Read More](https://medium.com/p/e0c23b94805d) |
-| Fri, 30 May 2025 13:11:31 GMT | Supply Chain Vulnerabilities in LLM-OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/c98739f0fcd5) |
-| Fri, 30 May 2025 13:09:11 GMT | The Critical Role of Automated Dependency Scanning | Ed Legault | [Read More](https://medium.com/p/8c78870fccb0) |
-| Fri, 30 May 2025 13:08:53 GMT | How to Install Kali Linux on VirtualBox | Kuldeepkumawat | [Read More](https://medium.com/p/08e181ede0b1) |
-| Fri, 30 May 2025 13:08:44 GMT | Navigating IT Compliance GDPR vs. HIPAA. | Bridge Group Solutions | [Read More](https://medium.com/p/5dbacffa8912) |
-| Fri, 30 May 2025 13:06:53 GMT | Wi-Fi Pentest: Scenarios of Aircrack-ng and Evil Twin Attacks | Esra Kayhan | [Read More](https://medium.com/p/6afa69794f80) |
-| Fri, 30 May 2025 13:03:23 GMT | the rise of 1uiet quitting 1.2 on social media | S Anuradha | [Read More](https://medium.com/p/f5ab1136a00f) |
-| Fri, 30 May 2025 13:01:39 GMT | Phishing: Credential Harvesting Demo | Maniraj Chahal | [Read More](https://medium.com/p/605af833d3b0) |
-| Fri, 30 May 2025 12:54:23 GMT | The agentic web arrives: what Web 4.0 means for enterprise software | cauri | [Read More](https://medium.com/p/406d198df86e) |
-| Fri, 30 May 2025 12:52:55 GMT | AI Agents for Advanced Reasoning with Tools and Everything You Need | noailabs | [Read More](https://medium.com/p/bd2d9b5f1bef) |
