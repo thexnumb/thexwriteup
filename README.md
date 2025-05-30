@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 06:42:30 GMT | Biometric Data Privacy: Are We Trading Security for Surveillance? | Tec Writer | [Read More](https://medium.com/p/f4dabcfb68e3) |
+| Fri, 30 May 2025 06:40:24 GMT | SQL Injection on DVWA: Automated and Manual Exploits (Part 2) | Nanditha Harish Bhat | [Read More](https://medium.com/p/b54fc90bbbc0) |
+| Fri, 30 May 2025 06:38:16 GMT | Roadmap Newbie -> Pro at Cybersecurity | Daniel Martin | [Read More](https://medium.com/p/9e81424db0a4) |
+| Fri, 30 May 2025 06:33:31 GMT | Web Development for Healthcare: Creating HIPAA-Compliant Apps That Patients Trust | Amaka okoye | [Read More](https://medium.com/p/87e4308fef33) |
+| Fri, 30 May 2025 06:32:28 GMT | Secure Your Kubernetes Workloads with HashiCorp Vault Agent Injector | Mahendran Selvakumar | [Read More](https://medium.com/p/5bc964b0e01c) |
+| Fri, 30 May 2025 06:31:57 GMT | Jarvis HTB Walkthrough — Exploitation & Privilege Escalation | Rayan Mohammed | [Read More](https://medium.com/p/69c257b0f62e) |
+| Fri, 30 May 2025 06:30:09 GMT | Why is there a need to build a Security Chat App? | Mansi Arora | [Read More](https://medium.com/p/d80038f730ca) |
+| Fri, 30 May 2025 06:29:15 GMT | Can I Learn Ethical Hacking Without Coding? | The Drop Organization | [Read More](https://medium.com/p/8a4a9fe46039) |
+| Fri, 30 May 2025 06:27:23 GMT | AI vs Ransomware: What It Can (and Can’t) Actually Do | Cloud4C Services | [Read More](https://medium.com/p/c8aea5aa808f) |
 | Fri, 30 May 2025 06:18:46 GMT | Access Control Systems and Security in Gated Communities in Dubai, Abu Dhabi, and the Rest of the… | Tekhabeeb | [Read More](https://medium.com/p/7602918e8766) |
 | Fri, 30 May 2025 06:16:57 GMT | Kernel-based Virtual Machine: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/05f6be3d45fa) |
 | Fri, 30 May 2025 06:12:26 GMT | JWT Hacking Handbook: From CTFs to Real-World Pentesting | Shoaib Bin Rashid | [Read More](https://medium.com/p/eb8850a4e833) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 21:46:53 GMT | Cyber Security Fundamental: Mengenal Dasar-Dasar Keamanan Siber untuk Era Digital | Muhammad Abiyan Hafidz | [Read More](https://medium.com/p/e5a7595ba695) |
 | Thu, 29 May 2025 21:36:33 GMT | Your True Community Expands Your Heart | Gulhis Sarap | [Read More](https://medium.com/p/331443b9e93a) |
 | Thu, 29 May 2025 21:22:56 GMT | VICAR: Bridging the gap between threat modeling and remediation | ETTIC | [Read More](https://medium.com/p/8538ab851c1e) |
-| Thu, 29 May 2025 21:13:24 GMT | Introduction to Ghost Files | S12 - H4CK | [Read More](https://medium.com/p/12cd3657eb26) |
-| Thu, 29 May 2025 21:08:26 GMT | Cyber Security Mastery Roadmap (5+ Years of Real Growth) | Muhammad Abiyan Hafidz | [Read More](https://medium.com/p/e3ef5b7cd143) |
-| Thu, 29 May 2025 21:08:24 GMT | Technical Summary: Distinctions Between Contagious Interview and Wagemole Campaign | Heiner | [Read More](https://medium.com/p/3a278a723825) |
-| Thu, 29 May 2025 21:07:50 GMT | CAPTCHA as Dorks for Black Hat Hackers for their CSRF Uploads: A Real-World Lesson in Web… | El Professor Qais | [Read More](https://medium.com/p/da9000b5cb67) |
-| Thu, 29 May 2025 21:02:27 GMT | The Importance of Post-Incident Reviews | John Locke | [Read More](https://medium.com/p/fb3d0651d0d0) |
-| Thu, 29 May 2025 21:02:25 GMT | 5-Year Cybersecurity Career Roadmap | Afridho Tavadhu | [Read More](https://medium.com/p/6dbe21dda58e) |
-| Thu, 29 May 2025 20:54:18 GMT | Difference Between a Cybersecurity Audit and a Risk Assessment | Rutter-Net | [Read More](https://medium.com/p/23deced90963) |
-| Thu, 29 May 2025 20:54:02 GMT | Throwback Thursday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/28a1fa01c98d) |
-| Thu, 29 May 2025 20:51:19 GMT | DevSecOps maturity model level 1 | Mikhail Koptelov | [Read More](https://medium.com/p/4cc186b46e65) |
