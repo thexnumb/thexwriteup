@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 14:15:29 GMT | Week 5&6 Exercise — Design an AWS VPC | Travon Mayo | [Read More](https://medium.com/p/3258b90763fa) |
+| Fri, 30 May 2025 14:12:36 GMT | Before You Upload Your Next Blog Post, Consider This Invisible Risk | Sam Galope | [Read More](https://medium.com/p/f3139b466802) |
+| Fri, 30 May 2025 14:10:50 GMT | Self-Discipline Is the New Self-Love | Pavan | [Read More](https://medium.com/p/caa3213f98d2) |
+| Fri, 30 May 2025 14:07:04 GMT | 5 Common Cybersecurity Mistakes Even Smart People Make | P T | [Read More](https://medium.com/p/d2beab9b32bf) |
+| Fri, 30 May 2025 14:06:30 GMT | Aspherical Glass Mold Lenses Market: A $3.5 Billion Vision for the Future | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/3d1600f79909) |
+| Fri, 30 May 2025 14:02:41 GMT | OSINTCon’s Profiler Demo Was Cool — But Here’s What Really Matters | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/47746bfd9040) |
+| Fri, 30 May 2025 14:01:38 GMT | Cyber Briefing: 2025.05.30 | CyberMaterial | [Read More](https://medium.com/p/92ededda0033) |
+| Fri, 30 May 2025 13:56:51 GMT | Smart Home Sensors — What Are They and What Are They Used For? | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/b33c618f7710) |
+| Fri, 30 May 2025 13:56:38 GMT | Can Scammers Return Stolen Crypto Under Pressure? Understanding the Realities | Natalia Davis | [Read More](https://medium.com/p/c08172b6b460) |
+| Fri, 30 May 2025 13:55:31 GMT | Recon Methodology: Subdomain Enumeration | Marduk I Am | [Read More](https://medium.com/p/0e0493001a03) |
+| Fri, 30 May 2025 13:55:23 GMT | Cybersecurity Is a Boardroom Issue, Not Just an IT Task | Dr. Rajesh Gunakala | [Read More](https://medium.com/p/3f1e62383076) |
+| Fri, 30 May 2025 13:53:48 GMT | How Artificial Intelligence is Transforming Digital Marketing in 2025 | Tech Caps | [Read More](https://medium.com/p/ef292cc49a55) |
+| Fri, 30 May 2025 13:53:36 GMT | Threat Campaign: PureRAT and PureLogs Malware Campaign Hits Russian Organizations | Jon C | [Read More](https://medium.com/p/beac1b4d9aa9) |
+| Fri, 30 May 2025 13:46:56 GMT | How to Deal with Fake Recovery Agents: A Comprehensive Guide | Natalia Davis | [Read More](https://medium.com/p/39d88731e5ee) |
+| Fri, 30 May 2025 13:45:59 GMT | Dear Junior Engineer: I’ve Been You. Here’s What I Wish I Knew | Zudonu Osomudeya | [Read More](https://medium.com/p/7d0a89e47a5c) |
+| Fri, 30 May 2025 13:38:14 GMT | Red Alert: Simulating a Malware Breach in Real Time | Mithra Consulting | [Read More](https://medium.com/p/12082e234d94) |
 | Fri, 30 May 2025 13:28:12 GMT | Building Networks, Breaking Barriers: My Week 4 Journey of Networking. | Grace Wanja | [Read More](https://medium.com/p/a8aaab79e32c) |
 | Fri, 30 May 2025 13:27:51 GMT | Why Malware Is Dead: The Real Risk Is You(Humans) | Luispuello | [Read More](https://medium.com/p/503ca4411d7a) |
+| Fri, 30 May 2025 13:24:32 GMT | How I Learned to Trust My Own Voice ? | Hajara Farwin | [Read More](https://medium.com/p/258620de2e0e) |
 | Fri, 30 May 2025 13:23:22 GMT | Managed vs. In-House IT: What’s Right for Your Business? | IPSpecialist | [Read More](https://medium.com/p/d4287e1bddc5) |
+| Fri, 30 May 2025 13:21:31 GMT | The Law Doesn’t Love You — But It Will Hold You Accountable | Richard Ogundele | [Read More](https://medium.com/p/07dd98581856) |
 | Fri, 30 May 2025 13:12:00 GMT | The Writer’s Dilemma: When Validation Meets Vulnerability | Pratibha Singh | [Read More](https://medium.com/p/b73087ca8c38) |
 | Fri, 30 May 2025 13:11:32 GMT | AI Security: Friend, Foe, or Just Really Complicated? | Wale Adedeji | [Read More](https://medium.com/p/e0c23b94805d) |
 | Fri, 30 May 2025 13:11:31 GMT | Supply Chain Vulnerabilities in LLM-OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/c98739f0fcd5) |
@@ -28,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 12:52:55 GMT | AI Agents for Advanced Reasoning with Tools and Everything You Need | noailabs | [Read More](https://medium.com/p/bd2d9b5f1bef) |
 | Fri, 30 May 2025 12:52:49 GMT | What Are the Best Practices for Safe Penetration? | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/a8f1d3e1599d) |
 | Fri, 30 May 2025 12:47:58 GMT | How Mumbai Security Agencies Tackle Urban Risks | United Guard Force India | [Read More](https://medium.com/p/599b57fe1780) |
+| Fri, 30 May 2025 12:45:07 GMT | Apa itu Wazuh & Mengapa Ini Krusial untuk Keamanan Siber Kita? | Sigit Adi Irianto | [Read More](https://medium.com/p/d3fec9359066) |
 | Fri, 30 May 2025 12:41:04 GMT | SQL Injection: When Websites Get Bamboozled (A Beginner’s Guide) | Rageeth | [Read More](https://medium.com/p/3cade5fa9064) |
 | Fri, 30 May 2025 12:40:36 GMT | Governance vs. Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/da6f5a847591) |
 | Fri, 30 May 2025 12:40:29 GMT | Upgrade to Ubuntu Pro on Ubuntu Server 22.04 | Iftekharul Bashar | [Read More](https://medium.com/p/79fb6a4dd459) |
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 09:35:29 GMT | U.S. Sanctions Cloud Provider ‘Funnull’ Over Pig Butchering Scams — How CyberVolt Security… | Ekene Joseph | [Read More](https://medium.com/p/bfc2b407a522) |
 | Fri, 30 May 2025 09:32:35 GMT | I Protected Myself So Well, I Forgot How to Let Anyone In | Amir Taufiq | [Read More](https://medium.com/p/eeeb12701811) |
 | Fri, 30 May 2025 09:31:23 GMT | Building a Secure WireGuard VPN Server on Windows for Remote Access from macOS | Alperen Gokbak | [Read More](https://medium.com/p/79ce0adf4da2) |
-| Fri, 30 May 2025 09:28:57 GMT | The AI Doom Cycle: No Workers = No Customers = No Economy | Danish | [Read More](https://medium.com/p/bdb882e78ddf) |
-| Fri, 30 May 2025 09:28:53 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/fd9338bc8905) |
-| Fri, 30 May 2025 09:18:58 GMT | How Can I Recover My Scammed $55,000 from a Fake Bitcoin Investment Scam? | Crime All Day | [Read More](https://medium.com/p/0985aa8b7aab) |
-| Fri, 30 May 2025 09:14:17 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/d6267884f419) |
-| Fri, 30 May 2025 09:14:16 GMT | AI in Cybersecurity 2025: The Digital Battle Between Bots and Hackers. | Kaegar | [Read More](https://medium.com/p/27865c680e82) |
-| Fri, 30 May 2025 09:01:00 GMT | EjptV2- Assessment methodology : Enumeration CTF1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/b6cae9d38b20) |
-| Fri, 30 May 2025 08:58:53 GMT | NahamCon CTF 25 Writeup | Nikhil Chapre | [Read More](https://medium.com/p/e96b7ffff33d) |
-| Fri, 30 May 2025 08:54:51 GMT | Little Lacey Bites | Angela Treat Lyon | [Read More](https://medium.com/p/4c370567db7e) |
-| Fri, 30 May 2025 08:54:25 GMT | How AI Has Transformed the Cybersecurity Workforce: A Real-World Perspective | Surya Teja | [Read More](https://medium.com/p/ce3d055883b9) |
-| Fri, 30 May 2025 08:53:46 GMT | Walkthrough: Cybersploit 1 | Babatunde Ojo | [Read More](https://medium.com/p/ecaf8ae7bcf8) |
-| Fri, 30 May 2025 08:49:57 GMT | Why Every SaaS Needs a SOC 2 Readiness Platform in 2025 | SecureSlate | [Read More](https://medium.com/p/69d2f74109f3) |
-| Fri, 30 May 2025 08:49:21 GMT | Fundamentals of Wordpress Plugin Vulnerability Research - Part 1 | AbhirupKonwar | [Read More](https://medium.com/p/ba6abe414866) |
-| Fri, 30 May 2025 08:46:39 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime Stories | [Read More](https://medium.com/p/04ca778bf989) |
-| Fri, 30 May 2025 08:45:23 GMT | Understanding Medium’s Content Policies: How to Avoid Account Suspension | Ghulam Murtaza | [Read More](https://medium.com/p/e81e3ffa1452) |
-| Fri, 30 May 2025 08:40:34 GMT | X Ray Baggage Scanner: Technology Behind Seamless Security Checks | Pentagonengineers | [Read More](https://medium.com/p/b2e0fb84e1ce) |
-| Fri, 30 May 2025 08:39:21 GMT | WiFi Security: How to Stop Hackers from Turning Your Network into Their Personal Playground | Rageeth | [Read More](https://medium.com/p/f0bbaf76e842) |
-| Fri, 30 May 2025 08:35:11 GMT | cyberRoadmap 5 Tahun Cyber Security: From Zero to Hero | DhiasCode | [Read More](https://medium.com/p/ccd9a6fc3c64) |
-| Fri, 30 May 2025 08:32:49 GMT | The Role of Cryptography in Cybersecurity: Keeping Your Digital Data Safe | İsmail Yerlikaya | [Read More](https://medium.com/p/d870e7dcaf25) |
-| Fri, 30 May 2025 08:32:37 GMT | Beyond Perimeter: Introducing Appollo for Real-Time Attack Surface Detection | Groww Engineering Team | [Read More](https://medium.com/p/777092b6be2e) |
