@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 05:34:25 GMT | IoT Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4655a167da3b) |
+| Fri, 30 May 2025 05:32:29 GMT | Transitioning from Traditional CAD to Cloud-Based AEC Platforms: A Cost-Benefit Analysis | AlterSquare | [Read More](https://medium.com/p/e6246bfa72f9) |
+| Fri, 30 May 2025 05:32:22 GMT | Estrategias IDS/IPS: Suricata | Albert David | [Read More](https://medium.com/p/c2f7b67a2cdb) |
+| Fri, 30 May 2025 05:28:09 GMT | Cracking JWTs: A Bug Bounty Hunting Guide — Part 2 | Aditya Bhatt | [Read More](https://medium.com/p/7bd111ddadd8) |
 | Fri, 30 May 2025 05:10:48 GMT | Hunted a Private Program for 5 Days — 0 Bugs, 3 Lessons | Abhijeet Kumawat | [Read More](https://medium.com/p/b371a1a69d55) |
 | Fri, 30 May 2025 05:10:27 GMT | What is the Best RAID Configuration for Your Server? | Madhuri Kumari | [Read More](https://medium.com/p/d70005642991) |
 | Fri, 30 May 2025 05:06:53 GMT | 50 Pentesting One-Liners: Essential Commands for Faster, Smarter Red Teaming | Pratham Shah | [Read More](https://medium.com/p/beb5ecb2ef76) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 19:46:53 GMT | Roadmap Cyber Security 5 Tahun: Dari Pemula Hingga Profesional | Jihadfachrul | [Read More](https://medium.com/p/17ab42493e0b) |
 | Thu, 29 May 2025 19:46:47 GMT | HTB — Magic Write-up | Nikita Astashenko | [Read More](https://medium.com/p/10dd92e4545f) |
 | Thu, 29 May 2025 19:45:23 GMT | How to Improve Mobile UX on Your WordPress Site | Shubradeb | [Read More](https://medium.com/p/87e65de58732) |
-| Thu, 29 May 2025 19:37:36 GMT | Digital Forensics Fundamentals - THM | Isiah | [Read More](https://medium.com/p/ed1354ba6026) |
-| Thu, 29 May 2025 19:36:35 GMT | FKTA (Forbidden Knowledge Timing Attack) Experiment Analysis | Tomer Wetzler | [Read More](https://medium.com/p/f691540f6b38) |
-| Thu, 29 May 2025 19:35:33 GMT | Segurança com Zabbix | Michael Fortes | [Read More](https://medium.com/p/e49ef860e9ac) |
-| Thu, 29 May 2025 19:26:33 GMT | Dennou Coil: Siber Uzayın Eşiğinde Bir Masal | Talha Özcan | [Read More](https://medium.com/p/5b53e11a27ec) |
