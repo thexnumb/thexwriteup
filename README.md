@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 03:00:12 GMT | Bypassing Defender SmartScreen | Math69 | [Read More](https://medium.com/p/a85ee458c331) |
+| Fri, 30 May 2025 02:50:59 GMT | “The Hidden Dangers of Insecure File Uploads in Web Applications: A Guide for Pentesters” | Shoaib Muhammad | [Read More](https://medium.com/p/e612ed1d9167) |
+| Fri, 30 May 2025 02:44:20 GMT | More Fat Than a Farm Animal, Watched Like a Dissident: Welcome to the American Dream | Matyas Koszegi | [Read More](https://medium.com/p/f523372e7d88) |
+| Fri, 30 May 2025 02:44:10 GMT | ✍️ Threat Research Report: Brand Impersonation Campaign | Syed Ahmer Masood | [Read More](https://medium.com/p/08c27826b856) |
+| Fri, 30 May 2025 02:33:21 GMT | TryHackME-Sandbox Evasion | Mohamed Ashraf | [Read More](https://medium.com/p/0a5150be7f1e) |
+| Fri, 30 May 2025 02:31:01 GMT | When You’re Old, You Gotta Have Money. Don’t Test People! | XeniaAusten | [Read More](https://medium.com/p/2e00d8c9c64c) |
+| Fri, 30 May 2025 02:26:12 GMT | How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties | Invik | [Read More](https://medium.com/p/211b75a998d9) |
+| Fri, 30 May 2025 02:24:01 GMT | How to Hire a Hacker in 2025: The Insider’s Perspective | Labib Yasir | [Read More](https://medium.com/p/bf691a86dafe) |
+| Fri, 30 May 2025 02:21:11 GMT | Hacking APIs: OAuth 2.0 Authentication Vulnerabilities | Israel Aráoz Severiche | [Read More](https://medium.com/p/498c82ef4293) |
+| Fri, 30 May 2025 02:17:19 GMT | A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Sebinmathew | [Read More](https://medium.com/p/f42318f331d6) |
+| Fri, 30 May 2025 02:06:09 GMT | Smart Homes Security: Must-Have Systems for Modern Home Protection | Coltonballweb | [Read More](https://medium.com/p/00d446caa3c9) |
+| Fri, 30 May 2025 02:05:34 GMT | ‘Is a’ Relationship - Java | Hari Prasad | [Read More](https://medium.com/p/8cf49d88b42c) |
+| Fri, 30 May 2025 02:04:36 GMT | Attack Chain Analysis: Self-Spreading Docker Malware That Mines Dero Cryptocurrency | Cyber-AppSec | [Read More](https://medium.com/p/6697c28c71c3) |
+| Fri, 30 May 2025 01:56:50 GMT | ProxyBlob: Create SOCKS Proxy via Azure Blob Storage | Pawan Jaiswal | [Read More](https://medium.com/p/bff69266ff63) |
+| Fri, 30 May 2025 01:49:44 GMT | WhatsApp tests new username feature to enhance user privacy | Sa malik | [Read More](https://medium.com/p/38189953cf23) |
 | Fri, 30 May 2025 01:11:33 GMT | SOAR x EDR Integration for Automated Incident Alerting & Response: PART I | Godspower Melariri-okwu | [Read More](https://medium.com/p/45ac9349d0ca) |
 | Fri, 30 May 2025 01:03:51 GMT | Your application should be PCI-DSS-compliant. | Victor Anuebunwa | [Read More](https://medium.com/p/c801702a1c3b) |
 | Fri, 30 May 2025 01:01:18 GMT | Why is Edge Computing More Vulnerable, Yet Versatile? | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/39e49fb61b76) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 17:53:39 GMT | My CyberSecurity Roadmap in the next 5 years | Salhanchynt | [Read More](https://medium.com/p/6f11d77b0715) |
 | Thu, 29 May 2025 17:52:39 GMT | From Web3 Developer to Smart-Contract Auditor: How Common DeFi Vulnerabilities Drive NFT Exploits | Evgenii | [Read More](https://medium.com/p/f6214226d3a0) |
 | Thu, 29 May 2025 17:51:16 GMT | Cheyanne Mallas PA: Driving Innovation and Risk Management in Cybersecurity Project Leadership | Cheyannemallaspa | [Read More](https://medium.com/p/fac29ea9b371) |
-| Thu, 29 May 2025 17:50:26 GMT | How to Create a Secure Encrypted USB Drive with LUKS: A Step-by-Step Guide for the… | Squxlch | [Read More](https://medium.com/p/15e280fc2a96) |
-| Thu, 29 May 2025 17:50:14 GMT | SOC107 — EventID 48 — Privilege Escalation Detected |  | [Read More](https://medium.com/p/853665b14e73) |
-| Thu, 29 May 2025 17:50:04 GMT | DSI — Cybersécurité, menaces et contre-mesures | Christophe Vriet | [Read More](https://medium.com/p/39fac8bea41d) |
-| Thu, 29 May 2025 17:37:28 GMT | Active Directory Lab Setup Guide | Ojas | [Read More](https://medium.com/p/848a31541643) |
-| Thu, 29 May 2025 17:36:28 GMT | Cybersecurity in 2025: The Biggest Threats to Watch | Emmanuel Chidiebere Obasi | [Read More](https://medium.com/p/060c17865016) |
-| Thu, 29 May 2025 17:32:22 GMT | Full Transcript: GDG Cloud Southlake #43: Tommy Todd: The Quantum Apocalypse: A Looming Threat &… | Jim Anderson | [Read More](https://medium.com/p/a70a147d9fad) |
-| Thu, 29 May 2025 17:27:16 GMT | The DOGE Dilemma: Efficiency Drive or Cybersecurity Risk? | Muhammad Naveed Arshad,MSc -Writer-Editor- AI Engr | [Read More](https://medium.com/p/58713b6b5c42) |
-| Thu, 29 May 2025 17:27:06 GMT | Dismantling the Semantics of Zersetzung | SIMKRA | [Read More](https://medium.com/p/42149788fb22) |
-| Thu, 29 May 2025 17:11:05 GMT | Passkeys: The Waterproof Defense Against Phishing Attacks | Ajay Kumar | [Read More](https://medium.com/p/b8b77ff825f2) |
-| Thu, 29 May 2025 17:11:04 GMT | Projeto de GRC na Prática | Mariana Coutinho | [Read More](https://medium.com/p/1fcd88e63d3c) |
-| Thu, 29 May 2025 17:08:05 GMT | everything’s in place — so why do I still feel alone? | dilay | [Read More](https://medium.com/p/6fff9037023e) |
-| Thu, 29 May 2025 17:06:37 GMT | how to get improve claps views and reads in medium | S Anuradha | [Read More](https://medium.com/p/0e057c527688) |
-| Thu, 29 May 2025 17:05:19 GMT | Intro to Cybersecurity : | Ritikkumar | [Read More](https://medium.com/p/105273a07ca5) |
-| Thu, 29 May 2025 17:03:29 GMT | Data Mesh Architektur: Der ultimative Strategieleitfaden für dezentrale Datenhoheit — Mit… | Philip Hansen | [Read More](https://medium.com/p/8b3608d81bef) |
-| Thu, 29 May 2025 17:00:11 GMT | Top 50 Cybersecurity Project Ideas with GitHub Links | Vijay Kumar Gupta | [Read More](https://medium.com/p/aea46b09f47c) |
