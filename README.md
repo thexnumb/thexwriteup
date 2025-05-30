@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 22:02:30 GMT | From Decades to Dominance: How AI Evolved from Academic Curiosity to Global Game-Changer | Manoj Kumar | [Read More](https://medium.com/p/efa27161415d) |
+| Fri, 30 May 2025 22:02:20 GMT | WannaCry: Dijital Çağın En Tehlikeli Fidye Yazılımlarından Biri | Hasan Çavdar | [Read More](https://medium.com/p/ab5d0d16e0ee) |
+| Fri, 30 May 2025 21:59:59 GMT | Top Dangers of the Internet | Savvy Cyber Kids | [Read More](https://medium.com/p/27e3c229db99) |
+| Fri, 30 May 2025 21:59:01 GMT | Your Role in Combating Internet Crimes Against Children | Savvy Cyber Kids | [Read More](https://medium.com/p/c627cbd9a222) |
+| Fri, 30 May 2025 21:58:26 GMT | How to Foster Community in the Virtual Classroom | Savvy Cyber Kids | [Read More](https://medium.com/p/de6b27c6bd7b) |
+| Fri, 30 May 2025 21:44:51 GMT | Before You Swipe Right on Life (or That Contract): Why Butterflies Sometimes Need a Background… | The Agency | [Read More](https://medium.com/p/87eaf92b42d4) |
+| Fri, 30 May 2025 21:36:00 GMT | What’s the point of sharing if no one is watching? | Imane Ba | [Read More](https://medium.com/p/3dd3941c8276) |
 | Fri, 30 May 2025 21:29:22 GMT | Transforming Cybersecurity Through Proactive Defense Strategies — A Case Study - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/c64d7e83bfb7) |
 | Fri, 30 May 2025 21:26:31 GMT | Pwned Labs “SSRF to Pwned”– A Cloud Pentesting Walkthrough | WireHawk Security | [Read More](https://medium.com/p/328803a32ecd) |
 | Fri, 30 May 2025 21:17:28 GMT | Navigating the Storm: Lessons from a Full-Scale Cyber Attack | Miguel Edwards | [Read More](https://medium.com/p/a5772359a625) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 16:12:21 GMT | How I Turned a Simple Bug Into $5,756 | Ibtissam hammadi | [Read More](https://medium.com/p/19b176312060) |
 | Fri, 30 May 2025 16:06:06 GMT | CTF Day(6) | Ahmed Narmer | [Read More](https://medium.com/p/9ab92dec9346) |
 | Fri, 30 May 2025 16:05:25 GMT | A Bucket of Phish . TryHackMe Walkthrough . Cloud Computing . AWS, 30 points | RosanaFSS | [Read More](https://medium.com/p/0d966b7e0d1d) |
-| Fri, 30 May 2025 16:04:29 GMT | Why IT Security Audits Matter and How to Nail Yours | SafeAeon Inc. | [Read More](https://medium.com/p/470c04895db7) |
-| Fri, 30 May 2025 16:03:10 GMT | The Hidden Costs of DIY Identity in Indian Startups | Sagar Paul | [Read More](https://medium.com/p/abff4bb68311) |
-| Fri, 30 May 2025 16:00:07 GMT | The $2 Billion Bridge Problem: Why Cross-Chain Security Is Blockchain’s Final Boss | Chronos Vault | [Read More](https://medium.com/p/0522c2571995) |
-| Fri, 30 May 2025 15:59:11 GMT | 2025 Data Breach Prevention Strategy Guide | Feroot Security | [Read More](https://medium.com/p/34c7c769596b) |
-| Fri, 30 May 2025 15:57:40 GMT | Konfigurasi Jaringan Sederhana di Cisco Packet Tracer | Firhansanad | [Read More](https://medium.com/p/79403e0c8f2e) |
-| Fri, 30 May 2025 15:45:50 GMT | Serverless Security: Building Trust in the Cloud | Rushabh Trivedi | [Read More](https://medium.com/p/b31256ba2901) |
-| Fri, 30 May 2025 15:38:58 GMT | robots tryhackme walkthrough | Osec | [Read More](https://medium.com/p/d97bd5ffd9bf) |
