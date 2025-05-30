@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 11:34:11 GMT | Building Trust: Local Security Agencies in Thane | united guard | [Read More](https://medium.com/p/8833a411a24e) |
+| Fri, 30 May 2025 11:28:27 GMT | 10 Proven Ways to Secure Your SaaS Applications in 2025 | GoTrust Tech | [Read More](https://medium.com/p/f6ce10dd76f1) |
+| Fri, 30 May 2025 11:27:27 GMT | NTLMv2 Hash Leak via COM + Auto-Execution | Andrea Bocchetti | [Read More](https://medium.com/p/543919e577cb) |
+| Fri, 30 May 2025 11:22:01 GMT | Stages of a Red Team Engagement | The Darkarmy | [Read More](https://medium.com/p/189c235fdd2b) |
+| Fri, 30 May 2025 11:19:20 GMT | Why Experienced System Analysts Remain Indispensable in the Age of AI | Abdul Rehman | [Read More](https://medium.com/p/c4f97ec7ce2e) |
+| Fri, 30 May 2025 11:19:04 GMT | Hardening Google Chrome on macOS via MDM | Ismayil Zeynalov | [Read More](https://medium.com/p/473c9a95028b) |
+| Fri, 30 May 2025 11:18:52 GMT | VirusTotal integration denganWazuh | Haldian | [Read More](https://medium.com/p/a66ad526023c) |
+| Fri, 30 May 2025 11:17:25 GMT | Build a tiny SOC atop Osquery, socfortress Ossiem Copilot, AlienVault Otx, steampipe and Ciso… | Seb AGUELE | [Read More](https://medium.com/p/150d450f0fe5) |
+| Fri, 30 May 2025 11:15:43 GMT | Web of Deception: Scattered Spider’s 2025 TTP Evolution | Dhanusha N | [Read More](https://medium.com/p/5afed5d69dbc) |
 | Fri, 30 May 2025 11:10:58 GMT | What is cyber Secuurity Course? | Shanthi Academy | [Read More](https://medium.com/p/cc6bc349d637) |
 | Fri, 30 May 2025 11:09:25 GMT | What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth | Maverick Steel | [Read More](https://medium.com/p/b52338176915) |
+| Fri, 30 May 2025 11:09:06 GMT | Choosing the Right Security Company in Pune: Timeless Essentials | United Guard Force India | [Read More](https://medium.com/p/33a2eeea526e) |
 | Fri, 30 May 2025 11:08:38 GMT | NIST’s LEV Metric: A Game-Changer in Exploited Vulnerabilities Detection | Dhanusha N | [Read More](https://medium.com/p/ff7bdb52e2a4) |
 | Fri, 30 May 2025 10:57:40 GMT | SQLi Pentest Toolkit | adce626 | [Read More](https://medium.com/p/a959d4b68489) |
 | Fri, 30 May 2025 10:56:02 GMT | Debunking: GitHub MCP Exploited | Philippe Bogaerts | [Read More](https://medium.com/p/c3963e9feed1) |
@@ -102,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 07:06:57 GMT | Unlocking the Tech World: A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Vaishnav RS | [Read More](https://medium.com/p/c443e2647510) |
 | Fri, 30 May 2025 07:05:45 GMT | Cybersecurity in the Age of AI-Generated Deepfakes | Phanish Lakkarasu | [Read More](https://medium.com/p/79069da60970) |
 | Fri, 30 May 2025 07:02:32 GMT | What Being a Sex Worker Taught Me About Masculinity and Body Image | No One's Daughter | [Read More](https://medium.com/p/501030ddac4d) |
-| Fri, 30 May 2025 07:02:28 GMT | Cyber Wilds: A Pen Tester’s Hunt Through 2025’s Latest Threats | hackerguy7 | [Read More](https://medium.com/p/d502aba8bc74) |
-| Fri, 30 May 2025 06:57:31 GMT | BCA in Cybersecurity and Cloud Computing: Secure Your Future in Technology | Tushar Digitalaakar | [Read More](https://medium.com/p/ed8a2febf162) |
-| Fri, 30 May 2025 06:55:54 GMT | Mengenal Malware, Phishing, dan Ransomware | Mukti Badriyan | [Read More](https://medium.com/p/545c099dc419) |
-| Fri, 30 May 2025 06:55:52 GMT | CTF Challenge Report: Missey
-Category: Network Security
-Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com/p/fdc228086947) |
-| Fri, 30 May 2025 06:55:26 GMT | ประจำวันศุกร์ที่ 30 พฤษภาคม 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/0a3220c1d9f1) |
-| Fri, 30 May 2025 06:54:55 GMT | Trust & Transactions: Data Center Security for Kuwait’s Financial Sector | Tekhabeeb | [Read More](https://medium.com/p/92aa974bc4b6) |
-| Fri, 30 May 2025 06:51:44 GMT | How to Detect Malicious Activity in Cybersecurity: Common Indicators and Attack Types | unica 02 | [Read More](https://medium.com/p/96eaaf7b4cb1) |
-| Fri, 30 May 2025 06:42:30 GMT | Biometric Data Privacy: Are We Trading Security for Surveillance? | Tec Writer | [Read More](https://medium.com/p/f4dabcfb68e3) |
-| Fri, 30 May 2025 06:40:24 GMT | SQL Injection on DVWA: Automated and Manual Exploits (Part 2) | Nanditha Harish Bhat | [Read More](https://medium.com/p/b54fc90bbbc0) |
-| Fri, 30 May 2025 06:38:16 GMT | Roadmap Newbie -> Pro at Cybersecurity | Daniel Martin | [Read More](https://medium.com/p/9e81424db0a4) |
