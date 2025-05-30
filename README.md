@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 22:32:05 GMT | Deep Dive Into Process Injection | Montel Oliver | [Read More](https://medium.com/p/b967ed69b398) |
+| Fri, 30 May 2025 22:30:23 GMT | Vulnerability Assessment | Shamar Isaac | [Read More](https://medium.com/p/b76bc1122803) |
+| Fri, 30 May 2025 22:24:24 GMT | Windows Server DNS Settings | Paulo Bazzo | [Read More](https://medium.com/p/a4494dc9009e) |
+| Fri, 30 May 2025 22:22:24 GMT | TryHackMe - “LazyAdmin” [Walkthrough] | Sai | [Read More](https://medium.com/p/2a0b61b59d32) |
+| Fri, 30 May 2025 22:16:27 GMT | Post-Exploitation and Data Extraction Techniques for Network Services | Karthikeyan Nagaraj | [Read More](https://medium.com/p/bb350db4daaa) |
+| Fri, 30 May 2025 22:13:16 GMT | Roadmap Cybersecurity untuk Pemula : Panduan 5 Tahun Menuju Karier Profesional | Farid Hidayat | [Read More](https://medium.com/p/e80d2cb87844) |
 | Fri, 30 May 2025 22:02:30 GMT | From Decades to Dominance: How AI Evolved from Academic Curiosity to Global Game-Changer | Manoj Kumar | [Read More](https://medium.com/p/efa27161415d) |
 | Fri, 30 May 2025 22:02:20 GMT | WannaCry: Dijital Çağın En Tehlikeli Fidye Yazılımlarından Biri | Hasan Çavdar | [Read More](https://medium.com/p/ab5d0d16e0ee) |
 | Fri, 30 May 2025 21:59:59 GMT | Top Dangers of the Internet | Savvy Cyber Kids | [Read More](https://medium.com/p/27e3c229db99) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 16:34:26 GMT | Why You’re Still Getting Hacked in 2025 (According to Real Cybersecurity Stats) | Dollarwestern | [Read More](https://medium.com/p/e3ac66ceb855) |
 | Fri, 30 May 2025 16:25:29 GMT | Dvwa low | EnverSharif | [Read More](https://medium.com/p/5488d32f6d43) |
 | Fri, 30 May 2025 16:24:24 GMT | Why Traditional IAM Slows Down Innovation for Indian Enterprises | Sagar Paul | [Read More](https://medium.com/p/3d256f08287a) |
-| Fri, 30 May 2025 16:23:26 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/657b631e6a40) |
-| Fri, 30 May 2025 16:22:19 GMT | Network Security Audit: Strengthening Your Defenses Step by Step | SafeAeon Inc. | [Read More](https://medium.com/p/dbf40c35c62c) |
-| Fri, 30 May 2025 16:21:03 GMT | Who even are you?! Let’s talk about Authentication | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/57cd9e628adc) |
-| Fri, 30 May 2025 16:12:21 GMT | How I Turned a Simple Bug Into $5,756 | Ibtissam hammadi | [Read More](https://medium.com/p/19b176312060) |
-| Fri, 30 May 2025 16:06:06 GMT | CTF Day(6) | Ahmed Narmer | [Read More](https://medium.com/p/9ab92dec9346) |
-| Fri, 30 May 2025 16:05:25 GMT | A Bucket of Phish . TryHackMe Walkthrough . Cloud Computing . AWS, 30 points | RosanaFSS | [Read More](https://medium.com/p/0d966b7e0d1d) |
