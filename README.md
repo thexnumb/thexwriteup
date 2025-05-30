@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 22:59:41 GMT | Aprenda a Bloquear Conexões com iptables em 5 Minutos | Nicolas Martins | [Read More](https://medium.com/p/d9ae354a4688) |
+| Fri, 30 May 2025 22:56:50 GMT | Attack Chain Breakdown: When Fake Antivirus Installs Venom on Your System | Cyber-AppSec | [Read More](https://medium.com/p/70e1ebac96b8) |
+| Fri, 30 May 2025 22:51:46 GMT | The Importance of Protecting Your Account: Why Online Security Matters | Khaled M.M. Alrantisi | [Read More](https://medium.com/p/404cfc942ea3) |
+| Fri, 30 May 2025 22:47:21 GMT | Wi-Fi Üzerinden Sızma: APT28’in Nearest Neighbor Saldırısı | asliulusoy | [Read More](https://medium.com/p/df1af827f24d) |
 | Fri, 30 May 2025 22:32:05 GMT | Deep Dive Into Process Injection | Montel Oliver | [Read More](https://medium.com/p/b967ed69b398) |
 | Fri, 30 May 2025 22:30:23 GMT | Vulnerability Assessment | Shamar Isaac | [Read More](https://medium.com/p/b76bc1122803) |
 | Fri, 30 May 2025 22:24:24 GMT | Windows Server DNS Settings | Paulo Bazzo | [Read More](https://medium.com/p/a4494dc9009e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 16:51:36 GMT | Hello, World- My first post | PhDbuilds | [Read More](https://medium.com/p/668daddc182d) |
 | Fri, 30 May 2025 16:48:13 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/154454ac39cd) |
 | Fri, 30 May 2025 16:43:56 GMT | Demystifying Networking Essentials: Routers, Switches, NAT, VPN, VLAN, DHCP, and DNS | Mazhar Imran | [Read More](https://medium.com/p/9b64b6ba1585) |
-| Fri, 30 May 2025 16:36:49 GMT | The Rise of AI Security Architects: Guarding the Cloud Like Jedi Masters | ZENcurity | [Read More](https://medium.com/p/1c04f864ac0c) |
-| Fri, 30 May 2025 16:34:26 GMT | Why You’re Still Getting Hacked in 2025 (According to Real Cybersecurity Stats) | Dollarwestern | [Read More](https://medium.com/p/e3ac66ceb855) |
-| Fri, 30 May 2025 16:25:29 GMT | Dvwa low | EnverSharif | [Read More](https://medium.com/p/5488d32f6d43) |
-| Fri, 30 May 2025 16:24:24 GMT | Why Traditional IAM Slows Down Innovation for Indian Enterprises | Sagar Paul | [Read More](https://medium.com/p/3d256f08287a) |
