@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 15:06:26 GMT | Track the Hacks: Investigating Brute Force and SSH Access — Real Case Log Analysis | byuda | [Read More](https://medium.com/p/7438fcafa576) |
+| Fri, 30 May 2025 15:00:46 GMT | The Billion-Dollar Heist: The Carbanak Cyber Attack | Shaheer Yasir | [Read More](https://medium.com/p/e790f417b321) |
+| Fri, 30 May 2025 14:59:07 GMT | Remote Guarding: Why Businesses Are Switching From Traditional Security | Medium Dbn | [Read More](https://medium.com/p/00801f533e2e) |
+| Fri, 30 May 2025 14:57:37 GMT | Investigating the Po1s0n1vy Group: A Complete BOTSv1 scenario 1 Walkthrough Using Splunk | Mohamed-Mahmoud | [Read More](https://medium.com/p/6e3bcbd9a748) |
+| Fri, 30 May 2025 14:56:46 GMT | AI vs. AI: How Cybersecurity Teams Are Fighting AI-Powered Attacks with AI Defenses | Rubin Mathews | [Read More](https://medium.com/p/bebea369449c) |
+| Fri, 30 May 2025 14:56:40 GMT | Bug Zero Cybersecurity Recap — News, Insights, and Analysis | Akila Maithripala | [Read More](https://medium.com/p/dfa9164d92e3) |
+| Fri, 30 May 2025 14:54:08 GMT | Detecting Vulnerable Drivers (a.k.a. | Mehmet Ergene | [Read More](https://medium.com/p/a903ffcc2f1d) |
+| Fri, 30 May 2025 14:53:18 GMT | How to Hire a Hacker to Catch a Cheating Spouse | Hackers World | [Read More](https://medium.com/p/2b6bc69fecc0) |
+| Fri, 30 May 2025 14:51:02 GMT | Roadmap Menuju Dunia Cybersecurity | Adnan Musthafa Al amin | [Read More](https://medium.com/p/66f926a58554) |
+| Fri, 30 May 2025 14:49:10 GMT | Breaking Into Cybersecurity: My 5-Year Plan to Master the Field | Bhisma Deva | [Read More](https://medium.com/p/5e48f0a7d6d9) |
+| Fri, 30 May 2025 14:49:04 GMT | Why Your Social Media is a Goldmine for Hackers | Navindu Chamodya | [Read More](https://medium.com/p/bcf55c055672) |
+| Fri, 30 May 2025 14:46:03 GMT | The Enemy Within: How AI is Weaponizing Your Code ⚔ | Tirlea Ionut | [Read More](https://medium.com/p/69f9555f556f) |
+| Fri, 30 May 2025 14:44:54 GMT | How To Hire A Professional Hacker | Hackers World | [Read More](https://medium.com/p/7064d7dc3c52) |
 | Fri, 30 May 2025 14:39:58 GMT | Extract Hidden Threat Intel from Gmail MBOX Files | Vijay Kumar Gupta | [Read More](https://medium.com/p/f605c4d5f4f5) |
 | Fri, 30 May 2025 14:39:58 GMT | WannaCRY | Fırat Yağmur | [Read More](https://medium.com/p/b324b27a3f2c) |
 | Fri, 30 May 2025 14:35:01 GMT | STUXNET NEDİR | Fırat Yağmur | [Read More](https://medium.com/p/c13c04aad57a) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 10:54:20 GMT | Learning to Be Nothing Again | Nidhi Dahiya | [Read More](https://medium.com/p/2d2c4adec266) |
 | Fri, 30 May 2025 10:48:18 GMT | How Log Analysis Can Help Prevent Hacking — Real-World Scenarios and Strategies | Ekene Joseph | [Read More](https://medium.com/p/1250c026adda) |
 | Fri, 30 May 2025 10:45:36 GMT | HackTheBox Insomnia Writeup - Web Hacking CTF Challenges | Motasem Hamdan | [Read More](https://medium.com/p/7ff20588e3fc) |
-| Fri, 30 May 2025 10:44:50 GMT | OWASP Pentest Series (6/12) | TheZeeshanKhan | [Read More](https://medium.com/p/aff4a580733c) |
-| Fri, 30 May 2025 10:39:14 GMT | What skills and topics are covered in the Cyber Security Internship Course at Shanthi IT Solution… | Shanthi IT Solution | [Read More](https://medium.com/p/21d7eec92fb9) |
-| Fri, 30 May 2025 10:35:23 GMT | This is how I completed CS50’s Introduction to Cybersecurity in 25 hours | Aasif Tyagi | [Read More](https://medium.com/p/00096f4ebd54) |
-| Fri, 30 May 2025 10:29:51 GMT | AI in Cyber Security Course in Delhi, India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/5132f175a0d5) |
-| Fri, 30 May 2025 10:29:36 GMT | Scammed by The Funded Trader? Here's How I Got My Money Back | Jessica Meister | [Read More](https://medium.com/p/36ea6020f6fb) |
-| Fri, 30 May 2025 10:26:25 GMT | 1000 Feet Overview of Akamai:Application Security | Vikas Taank | [Read More](https://medium.com/p/cd174745d2d5) |
-| Fri, 30 May 2025 10:17:47 GMT | Explore Latest Courses at AIST University of Education Australia! | AIST | [Read More](https://medium.com/p/5bba0470520c) |
-| Fri, 30 May 2025 10:16:20 GMT | TryHackMe Custom Tooling Using Python Walkthrough WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/df91a7ad93d1) |
-| Fri, 30 May 2025 10:13:59 GMT | Exploitasi Metasploitable Sampai Privilege Escalation | Wahyu Nufal Azmi | [Read More](https://medium.com/p/98b50d92cdfa) |
-| Fri, 30 May 2025 10:13:11 GMT | Be the Bat - Batman’s Guide to Risk and Ethics | CyberGRC Simplified | [Read More](https://medium.com/p/ff40191297ed) |
-| Fri, 30 May 2025 10:07:50 GMT | CoreInvest Review – How I Got My Money Back | Benjamin Fiedler | [Read More](https://medium.com/p/adc77c2bbf00) |
-| Fri, 30 May 2025 10:07:38 GMT | Behind the Screen: Navigating Cybersecurity Risks and Personal Data | Girl Up UI Indonesia | [Read More](https://medium.com/p/7b522df5dcda) |
-| Fri, 30 May 2025 10:06:16 GMT | Why You Should Delete jsonwebtoken in 2025 | Ali nazari | [Read More](https://medium.com/p/362bffe65b0f) |
