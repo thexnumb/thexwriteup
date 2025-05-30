@@ -12,11 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 07:31:45 GMT | The 5 Most Secure Email Providers To Protect Your Privacy in 2025 | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5b6595066900) |
+| Fri, 30 May 2025 07:28:39 GMT | XSS Without Input Fields: SQL Injection Attack in Web3 Applications | arsenii9 | [Read More](https://medium.com/p/1dc1cbcf3f2e) |
+| Fri, 30 May 2025 07:22:28 GMT | Trust But Verify Those Relationships: Microsoft Dynamics 365 Finance and Operations | Namir Sagheenanajar | [Read More](https://medium.com/p/e230db09d3de) |
+| Fri, 30 May 2025 07:22:11 GMT | IDOR for Coins: How I Paid Less and Got More on Reddit’s PayPal Checkout | Monika sharma | [Read More](https://medium.com/p/aa40c51f11d3) |
+| Fri, 30 May 2025 07:20:37 GMT | Memory Analysis Introduction - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/32e865e2a1c0) |
+| Fri, 30 May 2025 07:19:29 GMT | Inside MBA Forex: Unmasking Nigeria’s Billion-Naira Scam | O. J. Okpabi | [Read More](https://medium.com/p/7568a4c85b52) |
 | Fri, 30 May 2025 07:19:11 GMT | Leaking in Plain Sight: How Short Links Expose Sensitive Data | Dzianis Skliar | [Read More](https://medium.com/p/fb5bf9e53833) |
+| Fri, 30 May 2025 07:18:40 GMT | The growing threat of AI-Powered job interview fraud | Harish Dixit | [Read More](https://medium.com/p/1dc2b8a790ac) |
 | Fri, 30 May 2025 07:17:19 GMT | If You’re New to Hacking, Start Here | Cypher.One | [Read More](https://medium.com/p/c55a8e6178de) |
 | Fri, 30 May 2025 07:15:10 GMT | Qatar Airways New York Office +1–888–839–0502 | Airlinesofficesdetails | [Read More](https://medium.com/p/d07e52730888) |
 | Fri, 30 May 2025 07:13:08 GMT | How I Recovered My Company’s Hacked Instagram | Sujal Adhikari | [Read More](https://medium.com/p/604a06fc6b8c) |
+| Fri, 30 May 2025 07:12:19 GMT | Top 9 Expert-Level Advanced WordPress Security Techniques for 2025 | Michael Hamilton | [Read More](https://medium.com/p/1b95a5c4942f) |
 | Fri, 30 May 2025 07:07:56 GMT | Unfiltered: My 27-Year Reflection on Love and Readiness | Fhahira Rizkhika | [Read More](https://medium.com/p/3f808437c4ab) |
+| Fri, 30 May 2025 07:07:27 GMT | How Your Frontend JavaScript Application Exposes Sensitive Information: A Deep Dive into Frontend… | Tirth shah | [Read More](https://medium.com/p/fbc7656b69e6) |
 | Fri, 30 May 2025 07:06:57 GMT | Unlocking the Tech World: A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Vaishnav RS | [Read More](https://medium.com/p/c443e2647510) |
 | Fri, 30 May 2025 07:05:45 GMT | Cybersecurity in the Age of AI-Generated Deepfakes | Phanish Lakkarasu | [Read More](https://medium.com/p/79069da60970) |
 | Fri, 30 May 2025 07:02:32 GMT | What Being a Sex Worker Taught Me About Masculinity and Body Image | No One's Daughter | [Read More](https://medium.com/p/501030ddac4d) |
@@ -105,12 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 00:15:01 GMT | Fintxpert Review: How I Recovered My Lost Funds | Michael E. Camara | [Read More](https://medium.com/p/2ea05b98a208) |
 | Fri, 30 May 2025 00:14:12 GMT | Additional risky behaviors in the Contec CMS8000 | Karambit.AI | [Read More](https://medium.com/p/4fb0ae445342) |
 | Fri, 30 May 2025 00:12:48 GMT | How I Recovered My Funds from Fintxpert | Michael E. Camara | [Read More](https://medium.com/p/9168759c700f) |
-| Fri, 30 May 2025 00:08:17 GMT | METHODOLOGIES OF FINDING AN IDOR | H4ruk7 | [Read More](https://medium.com/p/dd5ddd643502) |
-| Thu, 29 May 2025 23:47:31 GMT | Demystifying Authentication & Authorization: From Passwords to FIDO2 | caseyB-it_SD | [Read More](https://medium.com/p/90bfbf9677de) |
-| Thu, 29 May 2025 23:31:29 GMT | Mobile Acquisition - THM | Isiah | [Read More](https://medium.com/p/b42122062c5a) |
-| Thu, 29 May 2025 23:29:53 GMT | Cybersecurity for Autonomous Systems & Military Drones: Building an Autonomous Zero Trust… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b3bd61c66436) |
-| Thu, 29 May 2025 23:26:45 GMT | ZDI-25–310: Remote NULL Deref in Linux KSMBD | Path Cybersec [Slava Moskvin] | [Read More](https://medium.com/p/8f3770ab0bb2) |
-| Thu, 29 May 2025 22:56:52 GMT | Write-up PicoCTF (Capture The Flag) — Roboto Sans | Sérgio Corrêa | [Read More](https://medium.com/p/8992c3f756d0) |
-| Thu, 29 May 2025 22:52:16 GMT | Triangular Distribution, Monte Carlo Simulations, and CDF: The Foundations of Cyber Risk… | Mehdi | [Read More](https://medium.com/p/fc7ba9838944) |
-| Thu, 29 May 2025 22:32:27 GMT | LOFI WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/c09070d2d824) |
-| Thu, 29 May 2025 22:31:59 GMT | Siber Tehdit İstihbaratı Nedir? | EmreYİĞİT | [Read More](https://medium.com/p/03b5557559a3) |
