@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 05:10:48 GMT | Hunted a Private Program for 5 Days — 0 Bugs, 3 Lessons | Abhijeet Kumawat | [Read More](https://medium.com/p/b371a1a69d55) |
+| Fri, 30 May 2025 05:10:27 GMT | What is the Best RAID Configuration for Your Server? | Madhuri Kumari | [Read More](https://medium.com/p/d70005642991) |
+| Fri, 30 May 2025 05:06:53 GMT | 50 Pentesting One-Liners: Essential Commands for Faster, Smarter Red Teaming | Pratham Shah | [Read More](https://medium.com/p/beb5ecb2ef76) |
+| Fri, 30 May 2025 05:02:30 GMT | Cyber Inferno: A Pen Tester’s Quest Through 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/c055cf881aa1) |
 | Fri, 30 May 2025 04:42:57 GMT | JWT Pentesting: A Journey from Token to Takeover | Shah kaif | [Read More](https://medium.com/p/1b2a7af08933) |
+| Fri, 30 May 2025 04:39:28 GMT | Why Earning Your CISSP Certification Matters and How to Get Started with CISSP Training Online | Cybernous Infosec consulting | [Read More](https://medium.com/p/b84196e25145) |
 | Fri, 30 May 2025 04:37:46 GMT | CTF Day(4) | Ahmed Narmer | [Read More](https://medium.com/p/76c165186a3a) |
 | Fri, 30 May 2025 04:34:50 GMT | How to Build Secure AI-Powered MVPs Without Common Security Mistakes | Algo Insights | [Read More](https://medium.com/p/c21a03f3c9f5) |
 | Fri, 30 May 2025 04:33:33 GMT | External Infrastructure Pentesting as of today | Walter Cuestas | [Read More](https://medium.com/p/15ab20fb1028) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 19:36:35 GMT | FKTA (Forbidden Knowledge Timing Attack) Experiment Analysis | Tomer Wetzler | [Read More](https://medium.com/p/f691540f6b38) |
 | Thu, 29 May 2025 19:35:33 GMT | Segurança com Zabbix | Michael Fortes | [Read More](https://medium.com/p/e49ef860e9ac) |
 | Thu, 29 May 2025 19:26:33 GMT | Dennou Coil: Siber Uzayın Eşiğinde Bir Masal | Talha Özcan | [Read More](https://medium.com/p/5b53e11a27ec) |
-| Thu, 29 May 2025 19:25:44 GMT | The Weird Kid in Kindergarten | Meli | [Read More](https://medium.com/p/c884b08f2ea1) |
-| Thu, 29 May 2025 19:22:32 GMT | My Journey from Zero Confidence to Cybersecurity Obsession | Cypher.One | [Read More](https://medium.com/p/d709f28eb275) |
-| Thu, 29 May 2025 19:21:43 GMT | Phantom Network: The Silent Botnet Haunting ASUS Routers | Siva Gunasekaran | [Read More](https://medium.com/p/8ebdd036c0af) |
-| Thu, 29 May 2025 19:18:45 GMT | Soulbound NFTs and Student Attendance — A Blockchain Weekend at KU | Charan Yadav Chintalacheri | [Read More](https://medium.com/p/11e7e8215b8f) |
-| Thu, 29 May 2025 19:18:30 GMT | SQL Injection for Beginners: How I Found a Vulnerability in a Test Website. | Esom Eze | [Read More](https://medium.com/p/a98c99fa5b37) |
