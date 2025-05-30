@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 12:41:04 GMT | SQL Injection: When Websites Get Bamboozled (A Beginner’s Guide) | Rageeth | [Read More](https://medium.com/p/3cade5fa9064) |
+| Fri, 30 May 2025 12:40:36 GMT | Governance vs. Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/da6f5a847591) |
+| Fri, 30 May 2025 12:40:29 GMT | Upgrade to Ubuntu Pro on Ubuntu Server 22.04 | Iftekharul Bashar | [Read More](https://medium.com/p/79fb6a4dd459) |
+| Fri, 30 May 2025 12:39:51 GMT | LitigateSphere: Where Digital Resilience Begins | eswara | [Read More](https://medium.com/p/9523ca99657d) |
+| Fri, 30 May 2025 12:32:26 GMT | Must-Have Features in Reconciliation Software for Seamless Matching | Kosh AI | [Read More](https://medium.com/p/181977a2f3b1) |
+| Fri, 30 May 2025 12:28:17 GMT | 10X Actionable Threat Intelligence Strategies to Stop Emerging Cyber Threats in 2025 | Technijian | [Read More](https://medium.com/p/1b47adcdaa6a) |
+| Fri, 30 May 2025 12:25:20 GMT | Top 3 YouTube Channels to Learn Tech Skills in 2025 | Madhavaraman | [Read More](https://medium.com/p/1ec8630410c4) |
+| Fri, 30 May 2025 12:20:24 GMT | The Proper Way: Creating a Secure Password
+ By Franz K. | Ignacio Esteban Muñoz Ramírez | [Read More](https://medium.com/p/35e5dd6dded3) |
+| Fri, 30 May 2025 12:18:57 GMT | Why Your Cybersecurity Strategy Needs AI- Not Tomorrow, but Now | Sandeep Sengupta | [Read More](https://medium.com/p/cac439461203) |
+| Fri, 30 May 2025 12:16:46 GMT | Puma Bot: The Emerging Botnet Threatening Linux IoT Devices via SSH Brute-Force Attacks | Infoziant | [Read More](https://medium.com/p/9c03d7940faa) |
+| Fri, 30 May 2025 12:11:54 GMT | CTF Day(5) | Ahmed Narmer | [Read More](https://medium.com/p/421663cda66d) |
+| Fri, 30 May 2025 12:10:03 GMT | Day 15: Why PCI DSS Compliance Isn’t Enough to Keep Your Organization Secure | Brittney Ginther | [Read More](https://medium.com/p/6ff413e06b60) |
+| Fri, 30 May 2025 12:02:25 GMT | Shodan.io — The Search Engine for Hackers ‍ | SACHIN PV | [Read More](https://medium.com/p/38b05085572d) |
+| Fri, 30 May 2025 12:02:20 GMT | What I Learned from the 2025 M&S Security Breach: A Business Analyst’s Perspective | Ozonuwe Onyenike | [Read More](https://medium.com/p/bcd9ad2a87db) |
+| Fri, 30 May 2025 11:58:45 GMT | Choosing the Right Security Agency Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/57988e304e98) |
+| Fri, 30 May 2025 11:56:37 GMT | Mental Map to DevSecOps | Rishabh Singh | [Read More](https://medium.com/p/8d91629299bb) |
+| Fri, 30 May 2025 11:46:21 GMT | 10 Proven Ways to Secure Your SaaS Applications in 2025 | peter watson | [Read More](https://medium.com/p/70caa5c671b6) |
 | Fri, 30 May 2025 11:34:11 GMT | Building Trust: Local Security Agencies in Thane | united guard | [Read More](https://medium.com/p/8833a411a24e) |
 | Fri, 30 May 2025 11:28:27 GMT | 10 Proven Ways to Secure Your SaaS Applications in 2025 | GoTrust Tech | [Read More](https://medium.com/p/f6ce10dd76f1) |
 | Fri, 30 May 2025 11:27:27 GMT | NTLMv2 Hash Leak via COM + Auto-Execution | Andrea Bocchetti | [Read More](https://medium.com/p/543919e577cb) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 07:41:03 GMT | Security Technologies That Are Transforming Modern Surveillance | Pentagonengineers | [Read More](https://medium.com/p/7a5c495863ff) |
 | Fri, 30 May 2025 07:33:11 GMT | Free VPNs: Your Digital Time Bomb? Why ‘Free’ Could Cost You Everything Online | zainal Abidin | [Read More](https://medium.com/p/529b06b249b5) |
 | Fri, 30 May 2025 07:31:45 GMT | The 5 Most Secure Email Providers To Protect Your Privacy in 2025 | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5b6595066900) |
-| Fri, 30 May 2025 07:28:39 GMT | XSS Without Input Fields: SQL Injection Attack in Web3 Applications | arsenii9 | [Read More](https://medium.com/p/1dc1cbcf3f2e) |
-| Fri, 30 May 2025 07:27:52 GMT | Runtime Security in Cloud Composer: Enforcing Per-App DAG Isolation with External Policies | Sendoa Moronta | [Read More](https://medium.com/p/a390cefd0443) |
-| Fri, 30 May 2025 07:22:28 GMT | Trust But Verify Those Relationships: Microsoft Dynamics 365 Finance and Operations | Namir Sagheenanajar | [Read More](https://medium.com/p/e230db09d3de) |
-| Fri, 30 May 2025 07:22:11 GMT | IDOR for Coins: How I Paid Less and Got More on Reddit’s PayPal Checkout | Monika sharma | [Read More](https://medium.com/p/aa40c51f11d3) |
-| Fri, 30 May 2025 07:20:37 GMT | Memory Analysis Introduction - TryHackMe Write-Up - FarrosFR | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/32e865e2a1c0) |
-| Fri, 30 May 2025 07:19:29 GMT | Inside MBA Forex: Unmasking Nigeria’s Billion-Naira Scam | O. J. Okpabi | [Read More](https://medium.com/p/7568a4c85b52) |
-| Fri, 30 May 2025 07:19:11 GMT | Leaking in Plain Sight: How Short Links Expose Sensitive Data | Dzianis Skliar | [Read More](https://medium.com/p/fb5bf9e53833) |
-| Fri, 30 May 2025 07:18:40 GMT | The growing threat of AI-Powered job interview fraud | Harish Dixit | [Read More](https://medium.com/p/1dc2b8a790ac) |
-| Fri, 30 May 2025 07:17:19 GMT | If You’re New to Hacking, Start Here | Cypher.One | [Read More](https://medium.com/p/c55a8e6178de) |
-| Fri, 30 May 2025 07:15:10 GMT | Qatar Airways New York Office +1–888–839–0502 | Airlinesofficesdetails | [Read More](https://medium.com/p/d07e52730888) |
-| Fri, 30 May 2025 07:13:08 GMT | How I Recovered My Company’s Hacked Instagram | Sujal Adhikari | [Read More](https://medium.com/p/604a06fc6b8c) |
-| Fri, 30 May 2025 07:12:19 GMT | Top 9 Expert-Level Advanced WordPress Security Techniques for 2025 | Michael Hamilton | [Read More](https://medium.com/p/1b95a5c4942f) |
-| Fri, 30 May 2025 07:07:56 GMT | Unfiltered: My 27-Year Reflection on Love and Readiness | Fhahira Rizkhika | [Read More](https://medium.com/p/3f808437c4ab) |
-| Fri, 30 May 2025 07:07:27 GMT | How Your Frontend JavaScript Application Exposes Sensitive Information: A Deep Dive into Frontend… | Tirth shah | [Read More](https://medium.com/p/fbc7656b69e6) |
-| Fri, 30 May 2025 07:06:57 GMT | Unlocking the Tech World: A Beginner’s Guide to Hacking, Virtual Machines, Linux, and Networking | Vaishnav RS | [Read More](https://medium.com/p/c443e2647510) |
-| Fri, 30 May 2025 07:05:45 GMT | Cybersecurity in the Age of AI-Generated Deepfakes | Phanish Lakkarasu | [Read More](https://medium.com/p/79069da60970) |
-| Fri, 30 May 2025 07:02:32 GMT | What Being a Sex Worker Taught Me About Masculinity and Body Image | No One's Daughter | [Read More](https://medium.com/p/501030ddac4d) |
