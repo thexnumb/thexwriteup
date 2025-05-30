@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 04:42:57 GMT | JWT Pentesting: A Journey from Token to Takeover | Shah kaif | [Read More](https://medium.com/p/1b2a7af08933) |
+| Fri, 30 May 2025 04:37:46 GMT | CTF Day(4) | Ahmed Narmer | [Read More](https://medium.com/p/76c165186a3a) |
+| Fri, 30 May 2025 04:34:50 GMT | How to Build Secure AI-Powered MVPs Without Common Security Mistakes | Algo Insights | [Read More](https://medium.com/p/c21a03f3c9f5) |
+| Fri, 30 May 2025 04:33:33 GMT | External Infrastructure Pentesting as of today | Walter Cuestas | [Read More](https://medium.com/p/15ab20fb1028) |
 | Fri, 30 May 2025 04:19:35 GMT | How I Made My First €4,000 From Two Simple Race Conditions | FufuFafa | [Read More](https://medium.com/p/270033021482) |
 | Fri, 30 May 2025 04:14:45 GMT | Attacking Common Applications — Skills Assessment II | Ibrahima Ndong | [Read More](https://medium.com/p/d7ec68caed90) |
 | Fri, 30 May 2025 04:01:04 GMT | Access Control Systems: A Vital Component of KUWAIT’s Security Infrastructure | Tekhabeeb | [Read More](https://medium.com/p/1c9528b76627) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 19:21:43 GMT | Phantom Network: The Silent Botnet Haunting ASUS Routers | Siva Gunasekaran | [Read More](https://medium.com/p/8ebdd036c0af) |
 | Thu, 29 May 2025 19:18:45 GMT | Soulbound NFTs and Student Attendance — A Blockchain Weekend at KU | Charan Yadav Chintalacheri | [Read More](https://medium.com/p/11e7e8215b8f) |
 | Thu, 29 May 2025 19:18:30 GMT | SQL Injection for Beginners: How I Found a Vulnerability in a Test Website. | Esom Eze | [Read More](https://medium.com/p/a98c99fa5b37) |
-| Thu, 29 May 2025 19:11:31 GMT | How I Earned My First $50 Bug Bounty with a Google Dork and a Test Key | CyberTechAjju | [Read More](https://medium.com/p/a3e6290db694) |
-| Thu, 29 May 2025 19:10:37 GMT | AI Security: Our New Superpower… And Our New Achilles’ Heel? | Wale Adedeji | [Read More](https://medium.com/p/624774500f8d) |
-| Thu, 29 May 2025 19:01:17 GMT | 10 reasons why cyber security is important? | Chandanjana | [Read More](https://medium.com/p/e67ffb6d3c61) |
-| Thu, 29 May 2025 18:57:45 GMT | ️‍♂️ Visual Guide: How to Spot a Suspicious File (Even If It Looks Safe) | Rushi Jariwala | [Read More](https://medium.com/p/245622c5c81e) |
