@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 06:18:46 GMT | Access Control Systems and Security in Gated Communities in Dubai, Abu Dhabi, and the Rest of the… | Tekhabeeb | [Read More](https://medium.com/p/7602918e8766) |
+| Fri, 30 May 2025 06:16:57 GMT | Kernel-based Virtual Machine: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/05f6be3d45fa) |
+| Fri, 30 May 2025 06:12:26 GMT | JWT Hacking Handbook: From CTFs to Real-World Pentesting | Shoaib Bin Rashid | [Read More](https://medium.com/p/eb8850a4e833) |
+| Fri, 30 May 2025 06:11:35 GMT | top cyber security course in India for beginners on affordable price | Mikemiike | [Read More](https://medium.com/p/35851f0144a1) |
+| Fri, 30 May 2025 06:03:41 GMT | AI Mind Attack: 10 Teknik Penyerang Exploitasi AI | manwhide | [Read More](https://medium.com/p/aed003df1952) |
+| Fri, 30 May 2025 06:02:47 GMT | From Cells to Code: How I Found My Path from Biology to IT | Devangi Gamage | [Read More](https://medium.com/p/05405fb06b28) |
+| Fri, 30 May 2025 06:02:29 GMT | Cyber Wilds: A Pen Tester’s Hunt Through 2025’s Latest Threats | hackerguy7 | [Read More](https://medium.com/p/d4ce06ac99f5) |
+| Fri, 30 May 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — May 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0ff60cb15a94) |
+| Fri, 30 May 2025 06:00:26 GMT | Day 1: Reset | Nocten's Chronicles | [Read More](https://medium.com/p/667a38b4b420) |
+| Fri, 30 May 2025 05:57:56 GMT | Why Choose a Cybersecurity Course in India? Secure Your Future in the Digital Age | Diehardmclane | [Read More](https://medium.com/p/fe38dd461155) |
+| Fri, 30 May 2025 05:53:03 GMT | From Novice to Net-Defender: Your First Steps into the World of Bug Bounty Programs | cyber_pix | [Read More](https://medium.com/p/efc40a86bcfc) |
+| Fri, 30 May 2025 05:49:00 GMT | Secure Your Future: Unlock the Best Cybersecurity Course in India Today! | Diehardmclane | [Read More](https://medium.com/p/47521319342f) |
+| Fri, 30 May 2025 05:47:52 GMT | How I Hacked the Hackers: The Day I Outsmarted a WhatsApp Scam | Nahom Tamru | [Read More](https://medium.com/p/181d0d66b2e7) |
+| Fri, 30 May 2025 05:45:23 GMT | “Roadmap Lengkap Menuju Karier di Dunia Cybersecurity” | Alwizariel | [Read More](https://medium.com/p/76649d7dc158) |
+| Fri, 30 May 2025 05:44:31 GMT | WAP/WAP2 Hacking-Basic | Fuadh | [Read More](https://medium.com/p/56dc59e1fdaf) |
+| Fri, 30 May 2025 05:36:58 GMT | Critical WordPress Plugin Flaw Threatens Over 100,000 Sites with Malicious Attacks | Virtual Cyber Labs | [Read More](https://medium.com/p/d972c426468c) |
 | Fri, 30 May 2025 05:34:25 GMT | IoT Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4655a167da3b) |
 | Fri, 30 May 2025 05:32:29 GMT | Transitioning from Traditional CAD to Cloud-Based AEC Platforms: A Cost-Benefit Analysis | AlterSquare | [Read More](https://medium.com/p/e6246bfa72f9) |
 | Fri, 30 May 2025 05:32:22 GMT | Estrategias IDS/IPS: Suricata | Albert David | [Read More](https://medium.com/p/c2f7b67a2cdb) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 20:54:18 GMT | Difference Between a Cybersecurity Audit and a Risk Assessment | Rutter-Net | [Read More](https://medium.com/p/23deced90963) |
 | Thu, 29 May 2025 20:54:02 GMT | Throwback Thursday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/28a1fa01c98d) |
 | Thu, 29 May 2025 20:51:19 GMT | DevSecOps maturity model level 1 | Mikhail Koptelov | [Read More](https://medium.com/p/4cc186b46e65) |
-| Thu, 29 May 2025 20:42:49 GMT | QR Code Scams on the Rise: How to Stay Safe | Akshay Chauhan | [Read More](https://medium.com/p/2b78ccd6ce4b) |
-| Thu, 29 May 2025 20:39:43 GMT | Gzip vs Bzip2 vs XZ | Amr Elharery | [Read More](https://medium.com/p/d6e2600f5137) |
-| Thu, 29 May 2025 20:38:45 GMT | The Cybersecurity Job Landscape Is About to Be Transformed. Are You Ready? | Taimur Ijlal | [Read More](https://medium.com/p/242cb6871d5d) |
-| Thu, 29 May 2025 20:35:38 GMT | Behind the Blackout: The Mechanisms, Monitoring, and Impact of Internet Shutdowns | The Censored State | [Read More](https://medium.com/p/34761fb21a60) |
-| Thu, 29 May 2025 20:32:22 GMT | What is Cyber Hygiene and Why It Matters Today | Akshay Chauhan | [Read More](https://medium.com/p/bf148e6524f1) |
-| Thu, 29 May 2025 20:27:46 GMT | Interlock Ransomware Strikes with NodeStealer RAT: A Growing Threat to Financial and Healthcare… | Chetan Seripally | [Read More](https://medium.com/p/e8829a2888be) |
-| Thu, 29 May 2025 20:25:51 GMT | SolarWinds Saldırısı: APT29’un Siber Casusluk Operasyonu | Hasan Çavdar | [Read More](https://medium.com/p/4750e1ff365b) |
-| Thu, 29 May 2025 20:13:46 GMT | Canary on the Stack | FieryParks | [Read More](https://medium.com/p/30cec294bc8a) |
-| Thu, 29 May 2025 20:04:02 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/00287d6d4ee8) |
-| Thu, 29 May 2025 19:59:10 GMT | Can a Brilliant Hacker Mind Be Disconnected from the Body? | Ak1T4 | [Read More](https://medium.com/p/4a0cf6e7da26) |
-| Thu, 29 May 2025 19:54:10 GMT | Mathematical Certainty in Code: Why Smart Contract Formal Verification Is Non-Negotiable | Chronos Vault | [Read More](https://medium.com/p/8aaeb5999685) |
-| Thu, 29 May 2025 19:51:42 GMT | Is “What’s Your Major” the Right Question? | Martin Van Der Werf | [Read More](https://medium.com/p/847ba5184a67) |
-| Thu, 29 May 2025 19:49:04 GMT | Integrating WhatsApp Alerts with Wazuh Using WaAPI | Muhammad Maaz Kamal | [Read More](https://medium.com/p/b22a1b3d02a0) |
-| Thu, 29 May 2025 19:46:53 GMT | Roadmap Cyber Security 5 Tahun: Dari Pemula Hingga Profesional | Jihadfachrul | [Read More](https://medium.com/p/17ab42493e0b) |
-| Thu, 29 May 2025 19:46:47 GMT | HTB — Magic Write-up | Nikita Astashenko | [Read More](https://medium.com/p/10dd92e4545f) |
-| Thu, 29 May 2025 19:45:23 GMT | How to Improve Mobile UX on Your WordPress Site | Shubradeb | [Read More](https://medium.com/p/87e65de58732) |
