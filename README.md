@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 16:43:56 GMT | Demystifying Networking Essentials: Routers, Switches, NAT, VPN, VLAN, DHCP, and DNS | Mazhar Imran | [Read More](https://medium.com/p/9b64b6ba1585) |
+| Fri, 30 May 2025 16:36:49 GMT | The Rise of AI Security Architects: Guarding the Cloud Like Jedi Masters | ZENcurity | [Read More](https://medium.com/p/1c04f864ac0c) |
+| Fri, 30 May 2025 16:34:26 GMT | Why You’re Still Getting Hacked in 2025 (According to Real Cybersecurity Stats) | Dollarwestern | [Read More](https://medium.com/p/e3ac66ceb855) |
+| Fri, 30 May 2025 16:25:29 GMT | Dvwa low | EnverSharif | [Read More](https://medium.com/p/5488d32f6d43) |
+| Fri, 30 May 2025 16:24:24 GMT | Why Traditional IAM Slows Down Innovation for Indian Enterprises | Sagar Paul | [Read More](https://medium.com/p/3d256f08287a) |
+| Fri, 30 May 2025 16:23:26 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/657b631e6a40) |
+| Fri, 30 May 2025 16:22:19 GMT | Network Security Audit: Strengthening Your Defenses Step by Step | SafeAeon Inc. | [Read More](https://medium.com/p/dbf40c35c62c) |
+| Fri, 30 May 2025 16:21:03 GMT | Who even are you?! Let’s talk about Authentication | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/57cd9e628adc) |
 | Fri, 30 May 2025 16:12:21 GMT | How I Turned a Simple Bug Into $5,756 | Ibtissam hammadi | [Read More](https://medium.com/p/19b176312060) |
 | Fri, 30 May 2025 16:06:06 GMT | CTF Day(6) | Ahmed Narmer | [Read More](https://medium.com/p/9ab92dec9346) |
 | Fri, 30 May 2025 16:05:25 GMT | A Bucket of Phish . TryHackMe Walkthrough . Cloud Computing . AWS, 30 points | RosanaFSS | [Read More](https://medium.com/p/0d966b7e0d1d) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
  By Franz K. | Ignacio Esteban Muñoz Ramírez | [Read More](https://medium.com/p/35e5dd6dded3) |
 | Fri, 30 May 2025 12:18:57 GMT | Why Your Cybersecurity Strategy Needs AI- Not Tomorrow, but Now | Sandeep Sengupta | [Read More](https://medium.com/p/cac439461203) |
 | Fri, 30 May 2025 12:16:46 GMT | Puma Bot: The Emerging Botnet Threatening Linux IoT Devices via SSH Brute-Force Attacks | Infoziant | [Read More](https://medium.com/p/9c03d7940faa) |
-| Fri, 30 May 2025 12:11:54 GMT | CTF Day(5) | Ahmed Narmer | [Read More](https://medium.com/p/421663cda66d) |
-| Fri, 30 May 2025 12:10:03 GMT | Day 15: Why PCI DSS Compliance Isn’t Enough to Keep Your Organization Secure | Brittney Ginther | [Read More](https://medium.com/p/6ff413e06b60) |
-| Fri, 30 May 2025 12:02:25 GMT | Shodan.io — The Search Engine for Hackers ‍ | SACHIN PV | [Read More](https://medium.com/p/38b05085572d) |
-| Fri, 30 May 2025 12:02:20 GMT | What I Learned from the 2025 M&S Security Breach: A Business Analyst’s Perspective | Ozonuwe Onyenike | [Read More](https://medium.com/p/bcd9ad2a87db) |
-| Fri, 30 May 2025 11:58:45 GMT | Choosing the Right Security Agency Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/57988e304e98) |
-| Fri, 30 May 2025 11:56:37 GMT | Mental Map to DevSecOps | Rishabh Singh | [Read More](https://medium.com/p/8d91629299bb) |
-| Fri, 30 May 2025 11:46:21 GMT | 10 Proven Ways to Secure Your SaaS Applications in 2025 | peter watson | [Read More](https://medium.com/p/70caa5c671b6) |
-| Fri, 30 May 2025 11:34:11 GMT | Building Trust: Local Security Agencies in Thane | united guard | [Read More](https://medium.com/p/8833a411a24e) |
