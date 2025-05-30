@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 01:11:33 GMT | SOAR x EDR Integration for Automated Incident Alerting & Response: PART I | Godspower Melariri-okwu | [Read More](https://medium.com/p/45ac9349d0ca) |
+| Fri, 30 May 2025 01:03:51 GMT | Your application should be PCI-DSS-compliant. | Victor Anuebunwa | [Read More](https://medium.com/p/c801702a1c3b) |
+| Fri, 30 May 2025 01:01:18 GMT | Why is Edge Computing More Vulnerable, Yet Versatile? | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/39e49fb61b76) |
+| Fri, 30 May 2025 00:55:00 GMT | Telcoin Strengthens Security with SOC 2 Certification and Ongoing Audits | Telcoin | [Read More](https://medium.com/p/9a57eaa36a7a) |
+| Fri, 30 May 2025 00:38:14 GMT | Crack Zip File password | Mr Horbio | [Read More](https://medium.com/p/2c08ad9053c5) |
+| Fri, 30 May 2025 00:32:29 GMT | Altreserve Review: How I Recovered My Lost Funds | Lucy t. Gowan | [Read More](https://medium.com/p/f96b1e12bb18) |
+| Fri, 30 May 2025 00:32:17 GMT | Octalyn Stealer: When Cybercriminals Go Open Source | Brendan Smith | [Read More](https://medium.com/p/09775fe257c6) |
+| Fri, 30 May 2025 00:22:38 GMT | How I Recovered My Money from Ironwave Capital | Alyssa Schmidt | [Read More](https://medium.com/p/397d9157f4ef) |
+| Fri, 30 May 2025 00:15:01 GMT | Fintxpert Review: How I Recovered My Lost Funds | Michael E. Camara | [Read More](https://medium.com/p/2ea05b98a208) |
+| Fri, 30 May 2025 00:14:12 GMT | Additional risky behaviors in the Contec CMS8000 | Karambit.AI | [Read More](https://medium.com/p/4fb0ae445342) |
+| Fri, 30 May 2025 00:12:48 GMT | How I Recovered My Funds from Fintxpert | Michael E. Camara | [Read More](https://medium.com/p/9168759c700f) |
+| Fri, 30 May 2025 00:08:17 GMT | METHODOLOGIES OF FINDING AN IDOR | H4ruk7 | [Read More](https://medium.com/p/dd5ddd643502) |
+| Thu, 29 May 2025 23:47:31 GMT | Demystifying Authentication & Authorization: From Passwords to FIDO2 | caseyB-it_SD | [Read More](https://medium.com/p/90bfbf9677de) |
 | Thu, 29 May 2025 23:31:29 GMT | Mobile Acquisition - THM | Isiah | [Read More](https://medium.com/p/b42122062c5a) |
 | Thu, 29 May 2025 23:29:53 GMT | Cybersecurity for Autonomous Systems & Military Drones: Building an Autonomous Zero Trust… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b3bd61c66436) |
 | Thu, 29 May 2025 23:26:45 GMT | ZDI-25–310: Remote NULL Deref in Linux KSMBD | Path Cybersec [Slava Moskvin] | [Read More](https://medium.com/p/8f3770ab0bb2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 17:05:19 GMT | Intro to Cybersecurity : | Ritikkumar | [Read More](https://medium.com/p/105273a07ca5) |
 | Thu, 29 May 2025 17:03:29 GMT | Data Mesh Architektur: Der ultimative Strategieleitfaden für dezentrale Datenhoheit — Mit… | Philip Hansen | [Read More](https://medium.com/p/8b3608d81bef) |
 | Thu, 29 May 2025 17:00:11 GMT | Top 50 Cybersecurity Project Ideas with GitHub Links | Vijay Kumar Gupta | [Read More](https://medium.com/p/aea46b09f47c) |
-| Thu, 29 May 2025 16:56:00 GMT | Maximizing Security with 24/7 SOC Monitoring | SafeAeon Inc. | [Read More](https://medium.com/p/655feaebc37b) |
-| Thu, 29 May 2025 16:52:10 GMT | Apple Safari Bug Enables Fullscreen BitM Phishing Attacks | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/c72e54c09d32) |
-| Thu, 29 May 2025 16:52:02 GMT | One Click, Multiple Requests — Race Conditions: A Hidden Threat in Business Logic | Nishanthan | [Read More](https://medium.com/p/08186ab4037c) |
-| Thu, 29 May 2025 16:41:18 GMT | How to Prevent Malicious Code and Cyber Attacks | SafeAeon Inc. | [Read More](https://medium.com/p/a45fbdd7d72e) |
-| Thu, 29 May 2025 16:39:28 GMT | Dexodus Finance Exploit: How a Stale Chainlink Report Enabled a ~$291K Price Manipulation Attack | Evgenii | [Read More](https://medium.com/p/39dcee1efff0) |
-| Thu, 29 May 2025 16:31:52 GMT | AI-Driven Security: The Future of Protection in Business and Everyday Life | Miguel Vicente | [Read More](https://medium.com/p/584982384068) |
-| Thu, 29 May 2025 16:29:59 GMT | Introduction | Maximum Bob | [Read More](https://medium.com/p/bf33eea740ed) |
-| Thu, 29 May 2025 16:29:12 GMT | Types of Networks: WAN, LAN, MAN, WLAN | Mazhar Imran | [Read More](https://medium.com/p/67725ddc0584) |
-| Thu, 29 May 2025 16:28:29 GMT | My Intro to Cybersecurity: Course 1 | Jeffrey Dowdye-Joseph | [Read More](https://medium.com/p/680b2905355a) |
-| Thu, 29 May 2025 16:26:50 GMT | Dark Web Monitoring Services: Protect Your Business from Hidden Threats | SafeAeon Inc. | [Read More](https://medium.com/p/a760d4c1e1f2) |
-| Thu, 29 May 2025 16:25:54 GMT | What It Actually Means to Find “Home” in Love | Kousik M | [Read More](https://medium.com/p/eb2aaf49393a) |
-| Thu, 29 May 2025 16:24:01 GMT | The Overnight Superpower? India’s Unraveling Illusion in South Asia. | Asmat Ullah Raja | [Read More](https://medium.com/p/76b18e324721) |
-| Thu, 29 May 2025 16:21:09 GMT | PicoCTF: SSTI2 Write-up 2025 | Aryamhsa | [Read More](https://medium.com/p/4688e4b340fb) |
