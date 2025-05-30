@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 17:14:40 GMT | Cracking Token Chaos: Mastering Burp Suite Sequencer for Pen Testers | AkashSharma | [Read More](https://medium.com/p/8b96ae3a0305) |
+| Fri, 30 May 2025 17:08:24 GMT | The Red Flags We Miss When We Rush to Hire | Background Screening Services | [Read More](https://medium.com/p/5234ac1cdbc9) |
+| Fri, 30 May 2025 17:05:44 GMT | Web3 Operational Security: Lessons from the Bybit $1.4B Wallet Safe Hack | Doro Onome | [Read More](https://medium.com/p/ea99c8730672) |
+| Fri, 30 May 2025 17:02:35 GMT | I Turned My Laptop Into a Forensics Case Study: Here’s What I Found | C. Oscar Lawshea | [Read More](https://medium.com/p/df3b8635c66b) |
+| Fri, 30 May 2025 16:59:19 GMT | Public Programs vs Self-Hosted Programs | Abhijeet Kumawat | [Read More](https://medium.com/p/f0e1801fd042) |
+| Fri, 30 May 2025 16:56:04 GMT | Hacker Hats Explained: Black, White, and Everything In Between | Midhun Thomas | [Read More](https://medium.com/p/b2acf795cdd0) |
+| Fri, 30 May 2025 16:51:36 GMT | Hello, World- My first post | PhDbuilds | [Read More](https://medium.com/p/668daddc182d) |
+| Fri, 30 May 2025 16:48:13 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/154454ac39cd) |
 | Fri, 30 May 2025 16:43:56 GMT | Demystifying Networking Essentials: Routers, Switches, NAT, VPN, VLAN, DHCP, and DNS | Mazhar Imran | [Read More](https://medium.com/p/9b64b6ba1585) |
 | Fri, 30 May 2025 16:36:49 GMT | The Rise of AI Security Architects: Guarding the Cloud Like Jedi Masters | ZENcurity | [Read More](https://medium.com/p/1c04f864ac0c) |
 | Fri, 30 May 2025 16:34:26 GMT | Why You’re Still Getting Hacked in 2025 (According to Real Cybersecurity Stats) | Dollarwestern | [Read More](https://medium.com/p/e3ac66ceb855) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 12:40:29 GMT | Upgrade to Ubuntu Pro on Ubuntu Server 22.04 | Iftekharul Bashar | [Read More](https://medium.com/p/79fb6a4dd459) |
 | Fri, 30 May 2025 12:39:51 GMT | LitigateSphere: Where Digital Resilience Begins | eswara | [Read More](https://medium.com/p/9523ca99657d) |
 | Fri, 30 May 2025 12:37:07 GMT | The New Age of Ransomware-as-a-Service: Payloads, Payload Delivery, and Post-Exploitation Tactics | Muhammad Zeeshan | [Read More](https://medium.com/p/12f789a979bc) |
-| Fri, 30 May 2025 12:32:26 GMT | Must-Have Features in Reconciliation Software for Seamless Matching | Kosh AI | [Read More](https://medium.com/p/181977a2f3b1) |
-| Fri, 30 May 2025 12:32:25 GMT | Scrisoare deschisă către omul profesor | Alin Stelian | [Read More](https://medium.com/p/f282a73b69d8) |
-| Fri, 30 May 2025 12:28:17 GMT | 10X Actionable Threat Intelligence Strategies to Stop Emerging Cyber Threats in 2025 | Technijian | [Read More](https://medium.com/p/1b47adcdaa6a) |
-| Fri, 30 May 2025 12:26:28 GMT | Praktikum Basis Data : Keamanan Basis Data (Akses pengguna) | Assep Wahid | [Read More](https://medium.com/p/1982a6d52e34) |
-| Fri, 30 May 2025 12:25:20 GMT | Top 3 YouTube Channels to Learn Tech Skills in 2025 | Madhavaraman | [Read More](https://medium.com/p/1ec8630410c4) |
-| Fri, 30 May 2025 12:20:24 GMT | The Proper Way: Creating a Secure Password
- By Franz K. | Ignacio Esteban Muñoz Ramírez | [Read More](https://medium.com/p/35e5dd6dded3) |
-| Fri, 30 May 2025 12:18:57 GMT | Why Your Cybersecurity Strategy Needs AI- Not Tomorrow, but Now | Sandeep Sengupta | [Read More](https://medium.com/p/cac439461203) |
-| Fri, 30 May 2025 12:16:46 GMT | Puma Bot: The Emerging Botnet Threatening Linux IoT Devices via SSH Brute-Force Attacks | Infoziant | [Read More](https://medium.com/p/9c03d7940faa) |
