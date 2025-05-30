@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 10:39:14 GMT | What skills and topics are covered in the Cyber Security Internship Course at Shanthi IT Solution… | Shanthi IT Solution | [Read More](https://medium.com/p/21d7eec92fb9) |
+| Fri, 30 May 2025 10:35:23 GMT | This is how I completed CS50’s Introduction to Cybersecurity in 25 hours | Aasif Tyagi | [Read More](https://medium.com/p/00096f4ebd54) |
+| Fri, 30 May 2025 10:29:51 GMT | AI in Cyber Security Course in Delhi, India (2025) | Manisha Chaudhary | [Read More](https://medium.com/p/5132f175a0d5) |
+| Fri, 30 May 2025 10:29:36 GMT | Scammed by The Funded Trader? Here's How I Got My Money Back | Jessica Meister | [Read More](https://medium.com/p/36ea6020f6fb) |
+| Fri, 30 May 2025 10:26:25 GMT | 1000 Feet Overview of Akamai:Application Security | Vikas Taank | [Read More](https://medium.com/p/cd174745d2d5) |
+| Fri, 30 May 2025 10:17:47 GMT | Explore Latest Courses at AIST University of Education Australia! | AIST | [Read More](https://medium.com/p/5bba0470520c) |
+| Fri, 30 May 2025 10:16:20 GMT | TryHackMe Custom Tooling Using Python Walkthrough WriteUp | Adnan Kutay Yüksel | [Read More](https://medium.com/p/df91a7ad93d1) |
+| Fri, 30 May 2025 10:13:59 GMT | Exploitasi Metasploitable Sampai Privilege Escalation | Wahyu Nufal Azmi | [Read More](https://medium.com/p/98b50d92cdfa) |
+| Fri, 30 May 2025 10:13:11 GMT | Be the Bat - Batman’s Guide to Risk and Ethics | CyberGRC Simplified | [Read More](https://medium.com/p/ff40191297ed) |
 | Fri, 30 May 2025 10:07:50 GMT | CoreInvest Review – How I Got My Money Back | Benjamin Fiedler | [Read More](https://medium.com/p/adc77c2bbf00) |
 | Fri, 30 May 2025 10:07:38 GMT | Behind the Screen: Navigating Cybersecurity Risks and Personal Data | Girl Up UI Indonesia | [Read More](https://medium.com/p/7b522df5dcda) |
 | Fri, 30 May 2025 10:06:16 GMT | Why You Should Delete jsonwebtoken in 2025 | Ali nazari | [Read More](https://medium.com/p/362bffe65b0f) |
@@ -105,12 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 06:16:57 GMT | Kernel-based Virtual Machine: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/05f6be3d45fa) |
 | Fri, 30 May 2025 06:12:26 GMT | JWT Hacking Handbook: From CTFs to Real-World Pentesting | Shoaib Bin Rashid | [Read More](https://medium.com/p/eb8850a4e833) |
 | Fri, 30 May 2025 06:11:35 GMT | top cyber security course in India for beginners on affordable price | Mikemiike | [Read More](https://medium.com/p/35851f0144a1) |
-| Fri, 30 May 2025 06:03:41 GMT | AI Mind Attack: 10 Teknik Penyerang Exploitasi AI | manwhide | [Read More](https://medium.com/p/aed003df1952) |
-| Fri, 30 May 2025 06:02:47 GMT | From Cells to Code: How I Found My Path from Biology to IT | Devangi Gamage | [Read More](https://medium.com/p/05405fb06b28) |
-| Fri, 30 May 2025 06:02:29 GMT | Cyber Wilds: A Pen Tester’s Hunt Through 2025’s Latest Threats | hackerguy7 | [Read More](https://medium.com/p/d4ce06ac99f5) |
-| Fri, 30 May 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — May 30, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/0ff60cb15a94) |
-| Fri, 30 May 2025 06:00:26 GMT | Day 1: Reset | Nocten's Chronicles | [Read More](https://medium.com/p/667a38b4b420) |
-| Fri, 30 May 2025 05:57:56 GMT | Why Choose a Cybersecurity Course in India? Secure Your Future in the Digital Age | Diehardmclane | [Read More](https://medium.com/p/fe38dd461155) |
-| Fri, 30 May 2025 05:53:03 GMT | From Novice to Net-Defender: Your First Steps into the World of Bug Bounty Programs | cyber_pix | [Read More](https://medium.com/p/efc40a86bcfc) |
-| Fri, 30 May 2025 05:49:00 GMT | Secure Your Future: Unlock the Best Cybersecurity Course in India Today! | Diehardmclane | [Read More](https://medium.com/p/47521319342f) |
-| Fri, 30 May 2025 05:47:52 GMT | How I Hacked the Hackers: The Day I Outsmarted a WhatsApp Scam | Nahom Tamru | [Read More](https://medium.com/p/181d0d66b2e7) |
