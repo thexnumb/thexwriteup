@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 17:30:03 GMT | How I Use Free Tools to Audit Websites for Security Vulnerabilities | Shahzaib Khan | [Read More](https://medium.com/p/ef99f48a32b6) |
+| Fri, 30 May 2025 17:26:26 GMT | The Convergence of LLM Agents and Cybersecurity: Breaking New Ground in Vulnerability Detection | Jagrut Sharma | [Read More](https://medium.com/p/dfd55e367d72) |
+| Fri, 30 May 2025 17:24:25 GMT | Cross-Site Request Forgery | Isha Sangpal | [Read More](https://medium.com/p/820e0b2f20d6) |
+| Fri, 30 May 2025 17:24:21 GMT | Your Vectors Databases Aren’t Safe Anymore | Dr. Ashish Bamania | [Read More](https://medium.com/p/2e0db46c712e) |
+| Fri, 30 May 2025 17:21:25 GMT | Building a NIST-Compliant Boot-and-Nuke USB Tool: Secure Automated Purge | Abdullah Kareem | [Read More](https://medium.com/p/1a87e1f73602) |
+| Fri, 30 May 2025 17:20:24 GMT | The Weekly Threat Round-up 26/05/2025–30/05/2025 | RileyHv | [Read More](https://medium.com/p/a37ec7a474c0) |
+| Fri, 30 May 2025 17:16:13 GMT | Migrating HashiCorp Vault Between Kubernetes Clusters: A Complete Guide for Disaster Recovery | StarTower - Star Protocol | [Read More](https://medium.com/p/8ac7307db20b) |
+| Fri, 30 May 2025 17:16:08 GMT | The Simple Hack | Medium Daily Reward | [Read More](https://medium.com/p/85b055c70cff) |
 | Fri, 30 May 2025 17:14:40 GMT | Cracking Token Chaos: Mastering Burp Suite Sequencer for Pen Testers | AkashSharma | [Read More](https://medium.com/p/8b96ae3a0305) |
 | Fri, 30 May 2025 17:08:24 GMT | The Red Flags We Miss When We Rush to Hire | Background Screening Services | [Read More](https://medium.com/p/5234ac1cdbc9) |
 | Fri, 30 May 2025 17:05:44 GMT | Web3 Operational Security: Lessons from the Bybit $1.4B Wallet Safe Hack | Doro Onome | [Read More](https://medium.com/p/ea99c8730672) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 13:01:39 GMT | Phishing: Credential Harvesting Demo | Maniraj Chahal | [Read More](https://medium.com/p/605af833d3b0) |
 | Fri, 30 May 2025 12:54:23 GMT | The agentic web arrives: what Web 4.0 means for enterprise software | cauri | [Read More](https://medium.com/p/406d198df86e) |
 | Fri, 30 May 2025 12:52:55 GMT | AI Agents for Advanced Reasoning with Tools and Everything You Need | noailabs | [Read More](https://medium.com/p/bd2d9b5f1bef) |
-| Fri, 30 May 2025 12:52:49 GMT | What Are the Best Practices for Safe Penetration? | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/a8f1d3e1599d) |
-| Fri, 30 May 2025 12:47:58 GMT | How Mumbai Security Agencies Tackle Urban Risks | United Guard Force India | [Read More](https://medium.com/p/599b57fe1780) |
-| Fri, 30 May 2025 12:45:07 GMT | Apa itu Wazuh & Mengapa Ini Krusial untuk Keamanan Siber Kita? | Sigit Adi Irianto | [Read More](https://medium.com/p/d3fec9359066) |
-| Fri, 30 May 2025 12:41:04 GMT | SQL Injection: When Websites Get Bamboozled (A Beginner’s Guide) | Rageeth | [Read More](https://medium.com/p/3cade5fa9064) |
-| Fri, 30 May 2025 12:40:36 GMT | Governance vs. Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/da6f5a847591) |
-| Fri, 30 May 2025 12:40:29 GMT | Upgrade to Ubuntu Pro on Ubuntu Server 22.04 | Iftekharul Bashar | [Read More](https://medium.com/p/79fb6a4dd459) |
-| Fri, 30 May 2025 12:39:51 GMT | LitigateSphere: Where Digital Resilience Begins | eswara | [Read More](https://medium.com/p/9523ca99657d) |
-| Fri, 30 May 2025 12:37:07 GMT | The New Age of Ransomware-as-a-Service: Payloads, Payload Delivery, and Post-Exploitation Tactics | Muhammad Zeeshan | [Read More](https://medium.com/p/12f789a979bc) |
