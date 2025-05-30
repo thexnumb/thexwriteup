@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 21:29:22 GMT | Transforming Cybersecurity Through Proactive Defense Strategies — A Case Study - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/c64d7e83bfb7) |
+| Fri, 30 May 2025 21:26:31 GMT | Pwned Labs “SSRF to Pwned”– A Cloud Pentesting Walkthrough | WireHawk Security | [Read More](https://medium.com/p/328803a32ecd) |
+| Fri, 30 May 2025 21:17:28 GMT | Navigating the Storm: Lessons from a Full-Scale Cyber Attack | Miguel Edwards | [Read More](https://medium.com/p/a5772359a625) |
 | Fri, 30 May 2025 21:17:09 GMT | Weekly Data Breach Signal: Staying Ahead with Mammoth Cyber | Mammoth Cyber | [Read More](https://medium.com/p/efc54f4408ed) |
+| Fri, 30 May 2025 21:15:18 GMT | KRB_AP_ERR_SKEW(Clock skew too great)” Issue Solution :- | SURAJ -MRX001 | [Read More](https://medium.com/p/a0a8656af70a) |
+| Fri, 30 May 2025 21:15:04 GMT | Whispers of the Windows Vault: Uncovering DPAPI | Kshitij Raj | [Read More](https://medium.com/p/55cde2410be9) |
+| Fri, 30 May 2025 21:12:38 GMT | O quanto você enxerga além do “óbvio”? | Evelyse Akemy | [Read More](https://medium.com/p/91d4285ae4f8) |
 | Fri, 30 May 2025 21:09:56 GMT | Practical guide to LLMNR attack -- Responder -- Hashcat | Muhammadhuzaifa | [Read More](https://medium.com/p/441c0060f3a9) |
+| Fri, 30 May 2025 21:08:36 GMT | Ethical Hacking Careers: Salary, Demand, and Future Outlook | It Consultant | [Read More](https://medium.com/p/471ebaf4dce1) |
 | Fri, 30 May 2025 21:07:29 GMT | Learning from the Past: Case Studies of Blockchain Security Failures | Arsyaagungw | [Read More](https://medium.com/p/731d9cd27e5a) |
 | Fri, 30 May 2025 21:01:31 GMT | Crocodilus in the wild: Mapping the campaign in Poland | mvaks | [Read More](https://medium.com/p/15d3078eb954) |
 | Fri, 30 May 2025 21:00:02 GMT | Implementing a Secret Admin Cookie for Live Editing on Your Portfolio Site : | Anmolshukla | [Read More](https://medium.com/p/808283cdf868) |
@@ -29,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 20:15:42 GMT | TryHackMe: Expose — Walkthrough | CyberQuestor | [Read More](https://medium.com/p/9ae36df654c0) |
 | Fri, 30 May 2025 20:13:29 GMT | Plaka Tanıma Sistemleri | Özdemir Tech | [Read More](https://medium.com/p/31e2bb3002db) |
 | Fri, 30 May 2025 20:12:12 GMT | India’s Economic Growth Hits Its Slowest Point in Four Years at 6.5% | Imran | [Read More](https://medium.com/p/560b0381a5d6) |
+| Fri, 30 May 2025 20:12:05 GMT | Güvenlik Zafiyetleriyle Kod Yazmak: Farkında Olmadan Hack’leniyorsunuz | İrem İçyer | [Read More](https://medium.com/p/bc22808a0e86) |
 | Fri, 30 May 2025 20:01:15 GMT | PassCode . TryHackMe Walkthrough . Blockchain, 30 points | RosanaFSS | [Read More](https://medium.com/p/74b2b3f02c27) |
 | Fri, 30 May 2025 19:56:51 GMT | How I Stumbled Upon a Critical Webshop Vulnerability (and How It Vanished Without a Trace) | Lukasjohannesmoeller | [Read More](https://medium.com/p/bbeff4ab1f41) |
 | Fri, 30 May 2025 19:56:26 GMT | My Child Saw Through My Masks Today-What I Learned About Teaching Vulnerability | Christina Vaughn: Nurse, Writer, Creator. | [Read More](https://medium.com/p/e8453437b536) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 15:57:40 GMT | Konfigurasi Jaringan Sederhana di Cisco Packet Tracer | Firhansanad | [Read More](https://medium.com/p/79403e0c8f2e) |
 | Fri, 30 May 2025 15:45:50 GMT | Serverless Security: Building Trust in the Cloud | Rushabh Trivedi | [Read More](https://medium.com/p/b31256ba2901) |
 | Fri, 30 May 2025 15:38:58 GMT | robots tryhackme walkthrough | Osec | [Read More](https://medium.com/p/d97bd5ffd9bf) |
-| Fri, 30 May 2025 15:37:35 GMT | Secure Coding: The First Line of Defense in Application Security | Pratik Gaikwad | [Read More](https://medium.com/p/add187a52818) |
-| Fri, 30 May 2025 15:36:27 GMT | Do you like your — pizza — err… password with salt and pepper? | David Mora Rodriguez | [Read More](https://medium.com/p/f9f13b28e311) |
-| Fri, 30 May 2025 15:29:14 GMT | The NPM Token That Stayed Alive for Two Years | Arshad Kazmi | [Read More](https://medium.com/p/379d8d7be068) |
-| Fri, 30 May 2025 15:28:03 GMT | Introduction to Networking Basics | Daarin | [Read More](https://medium.com/p/0c31451946a0) |
-| Fri, 30 May 2025 15:27:53 GMT | TryHackMe - Session Management - WriteUp | Axoloth | [Read More](https://medium.com/p/19c1a898aa47) |
-| Fri, 30 May 2025 15:21:47 GMT | How I Took Over Any User Account with One Parameter Change | Muthu | [Read More](https://medium.com/p/09692dcc20f1) |
-| Fri, 30 May 2025 15:18:24 GMT | S3 Bucket Brute Force by Pwned Labs — Walkthrough | mauzware | [Read More](https://medium.com/p/8e7c42e69e94) |
-| Fri, 30 May 2025 15:16:37 GMT | Smart TV Privacy: Hidden Surveillance in Your Living Room | Karl Buhl | [Read More](https://medium.com/p/3093ba95fead) |
