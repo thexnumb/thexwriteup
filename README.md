@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 09:18:58 GMT | How Can I Recover My Scammed $55,000 from a Fake Bitcoin Investment Scam? | Crime All Day | [Read More](https://medium.com/p/0985aa8b7aab) |
+| Fri, 30 May 2025 09:14:17 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/d6267884f419) |
+| Fri, 30 May 2025 09:14:16 GMT | AI in Cybersecurity 2025: The Digital Battle Between Bots and Hackers. | Kaegar | [Read More](https://medium.com/p/27865c680e82) |
+| Fri, 30 May 2025 09:01:00 GMT | EjptV2- Assessment methodology : Enumeration CTF1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/b6cae9d38b20) |
+| Fri, 30 May 2025 08:58:53 GMT | NahamCon CTF 25 Writeup | Nikhil Chapre | [Read More](https://medium.com/p/e96b7ffff33d) |
+| Fri, 30 May 2025 08:54:51 GMT | Little Lacey Bites | Angela Treat Lyon | [Read More](https://medium.com/p/4c370567db7e) |
+| Fri, 30 May 2025 08:54:25 GMT | How AI Has Transformed the Cybersecurity Workforce: A Real-World Perspective | Surya Teja | [Read More](https://medium.com/p/ce3d055883b9) |
+| Fri, 30 May 2025 08:53:46 GMT | Walkthrough: Cybersploit 1 | Babatunde Ojo | [Read More](https://medium.com/p/ecaf8ae7bcf8) |
+| Fri, 30 May 2025 08:49:57 GMT | Why Every SaaS Needs a SOC 2 Readiness Platform in 2025 | SecureSlate | [Read More](https://medium.com/p/69d2f74109f3) |
+| Fri, 30 May 2025 08:49:21 GMT | Fundamentals of Wordpress Plugin Vulnerability Research - Part 1 | AbhirupKonwar | [Read More](https://medium.com/p/ba6abe414866) |
+| Fri, 30 May 2025 08:46:39 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime Stories | [Read More](https://medium.com/p/04ca778bf989) |
 | Fri, 30 May 2025 08:45:23 GMT | Understanding Medium’s Content Policies: How to Avoid Account Suspension | Ghulam Murtaza | [Read More](https://medium.com/p/e81e3ffa1452) |
 | Fri, 30 May 2025 08:40:34 GMT | X Ray Baggage Scanner: Technology Behind Seamless Security Checks | Pentagonengineers | [Read More](https://medium.com/p/b2e0fb84e1ce) |
+| Fri, 30 May 2025 08:39:21 GMT | WiFi Security: How to Stop Hackers from Turning Your Network into Their Personal Playground | Rageeth | [Read More](https://medium.com/p/f0bbaf76e842) |
 | Fri, 30 May 2025 08:35:11 GMT | cyberRoadmap 5 Tahun Cyber Security: From Zero to Hero | DhiasCode | [Read More](https://medium.com/p/ccd9a6fc3c64) |
 | Fri, 30 May 2025 08:32:49 GMT | The Role of Cryptography in Cybersecurity: Keeping Your Digital Data Safe | İsmail Yerlikaya | [Read More](https://medium.com/p/d870e7dcaf25) |
 | Fri, 30 May 2025 08:32:37 GMT | Beyond Perimeter: Introducing Appollo for Real-Time Attack Surface Detection | Groww Engineering Team | [Read More](https://medium.com/p/777092b6be2e) |
@@ -102,15 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 04:33:33 GMT | External Infrastructure Pentesting as of today | Walter Cuestas | [Read More](https://medium.com/p/15ab20fb1028) |
 | Fri, 30 May 2025 04:19:35 GMT | How I Made My First €4,000 From Two Simple Race Conditions | FufuFafa | [Read More](https://medium.com/p/270033021482) |
 | Fri, 30 May 2025 04:14:45 GMT | Attacking Common Applications — Skills Assessment II | Ibrahima Ndong | [Read More](https://medium.com/p/d7ec68caed90) |
-| Fri, 30 May 2025 04:01:04 GMT | Access Control Systems: A Vital Component of KUWAIT’s Security Infrastructure | Tekhabeeb | [Read More](https://medium.com/p/1c9528b76627) |
-| Fri, 30 May 2025 03:52:13 GMT | Fires Floods & Lightning — An intro into hacking Industrial Control Systems | JankhJankh | [Read More](https://medium.com/p/6172bae1654a) |
-| Fri, 30 May 2025 03:46:51 GMT | Top 5 Cyber Threats to Watch Out for in 2025: Are You Ready? | Decode Duniya | [Read More](https://medium.com/p/54c54a82ffd8) |
-| Fri, 30 May 2025 03:46:41 GMT | VLAN NETWORK | Farhan Maulana | [Read More](https://medium.com/p/675e6fb466cf) |
-| Fri, 30 May 2025 03:44:15 GMT | ROADMAP SOC ANALYST (Security Operations Center Analyst) — 5 TAHUN | Dinda Rintic Rose | [Read More](https://medium.com/p/1e75b6685075) |
-| Fri, 30 May 2025 03:36:28 GMT | Cybersecurity in Manufacturing | OEE IntelliSuite | [Read More](https://medium.com/p/f9ba4693bf89) |
-| Fri, 30 May 2025 03:32:26 GMT | Navigating the Digital Road: Dissecting the Europcar Data Breach Allegations | Deven Chhajed | [Read More](https://medium.com/p/5e1fcd9187dd) |
-| Fri, 30 May 2025 03:26:04 GMT | Practical Project: Scanning and Enumeration on a Vulnerable Linux Target (Kioptrix) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/bef5b59c8962) |
-| Fri, 30 May 2025 03:18:23 GMT | The 2025 Retail Cyberstorm: How Post-Quantum Cryptography Could Have Prevented Major Breaches | QuantumGenie | [Read More](https://medium.com/p/26421d70be97) |
-| Fri, 30 May 2025 03:13:17 GMT | Lingerie and Logic: Unpacking the Victoria’s Secret Cybersecurity Incident | Brittney Ginther | [Read More](https://medium.com/p/437463ed07d0) |
-| Fri, 30 May 2025 03:00:12 GMT | Bypassing Defender SmartScreen | Math69 | [Read More](https://medium.com/p/a85ee458c331) |
-| Fri, 30 May 2025 02:50:59 GMT | “The Hidden Dangers of Insecure File Uploads in Web Applications: A Guide for Pentesters” | Shoaib Muhammad | [Read More](https://medium.com/p/e612ed1d9167) |
