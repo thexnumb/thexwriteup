@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 19:04:49 GMT | apidays 2025 recap | Meriç Aydonat | [Read More](https://medium.com/p/d00c48d029a8) |
+| Fri, 30 May 2025 18:57:58 GMT | Simulasi Packet Tracer: Pengaruh Access Control List (ACL) terhadap Konektivitas Jaringan. | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/aa02a94a4922) |
+| Fri, 30 May 2025 18:50:15 GMT | NO LONGER THE VICTIM | Scripture of Balance Author & Founder | [Read More](https://medium.com/p/5f1455dde537) |
+| Fri, 30 May 2025 18:49:22 GMT | Northern California Children’s Therapy Center Data Breach: What Parents and Families Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/6f63932126df) |
+| Fri, 30 May 2025 18:48:09 GMT | Exploring the Dark Web: A Comprehensive Guide to Information and Access | Shah poran shakil | [Read More](https://medium.com/p/0d04fe8132f9) |
 | Fri, 30 May 2025 18:46:28 GMT | XSS (Cross-Site Scripting) Nedir? | Aycan Yılmazoğlu | [Read More](https://medium.com/p/44ab768cc9a8) |
 | Fri, 30 May 2025 18:46:12 GMT | The AI War: The Rise – Part One | Ritisha bhatt | [Read More](https://medium.com/p/46544bc88e53) |
 | Fri, 30 May 2025 18:45:36 GMT | When Automation Backfires: Flaws in Smart Contract Timers and Scheduled Logic | Web3 Nautiyal | [Read More](https://medium.com/p/50c906313ea4) |
@@ -23,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 18:21:24 GMT | My Journey to NASA’s Hall of Fame | Hack-Bat | [Read More](https://medium.com/p/6e680736f557) |
 | Fri, 30 May 2025 18:14:16 GMT | What Are You So Afraid Of? Love… or Wasting Your Time Again? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/649370c95acc) |
 | Fri, 30 May 2025 18:13:25 GMT | A Mutex Loop | Montel Oliver | [Read More](https://medium.com/p/1ed4aca861dc) |
+| Fri, 30 May 2025 18:05:42 GMT | WannaCry Fidye Yazılımı: Nasıl Çalıştı, Kimler Etkilendi, Fidye Yazılımlardan Nasıl Korunuruz? | Çağlar Suvari | [Read More](https://medium.com/p/933b35161f6b) |
 | Fri, 30 May 2025 18:00:35 GMT | I will write engineering, tech, software engineer, superintendent, construction resume | Ciciliajane | [Read More](https://medium.com/p/694b3dba8bba) |
 | Fri, 30 May 2025 18:00:35 GMT | The Shadow Beneath the Surface: Unpacking the Rise of Pure Crypter and Its Implications for… | Siva Gunasekaran | [Read More](https://medium.com/p/c341a5cb9622) |
 | Fri, 30 May 2025 17:57:51 GMT | #  CVE-2025-45542: Time-Based Blind SQL Injection in CloudClassroom PHP Project v1.0 | Sanjay Singh | [Read More](https://medium.com/p/1fa0efc8a94a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 14:10:50 GMT | Self-Discipline Is the New Self-Love | Pavan | [Read More](https://medium.com/p/caa3213f98d2) |
 | Fri, 30 May 2025 14:07:04 GMT | 5 Common Cybersecurity Mistakes Even Smart People Make | P T | [Read More](https://medium.com/p/d2beab9b32bf) |
 | Fri, 30 May 2025 14:06:30 GMT | Aspherical Glass Mold Lenses Market: A $3.5 Billion Vision for the Future | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/3d1600f79909) |
-| Fri, 30 May 2025 14:02:41 GMT | OSINTCon’s Profiler Demo Was Cool — But Here’s What Really Matters | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/47746bfd9040) |
-| Fri, 30 May 2025 14:01:38 GMT | Cyber Briefing: 2025.05.30 | CyberMaterial | [Read More](https://medium.com/p/92ededda0033) |
-| Fri, 30 May 2025 13:56:51 GMT | Smart Home Sensors — What Are They and What Are They Used For? | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/b33c618f7710) |
-| Fri, 30 May 2025 13:56:38 GMT | Can Scammers Return Stolen Crypto Under Pressure? Understanding the Realities | Natalia Davis | [Read More](https://medium.com/p/c08172b6b460) |
-| Fri, 30 May 2025 13:55:31 GMT | Recon Methodology: Subdomain Enumeration | Marduk I Am | [Read More](https://medium.com/p/0e0493001a03) |
-| Fri, 30 May 2025 13:55:23 GMT | Cybersecurity Is a Boardroom Issue, Not Just an IT Task | Dr. Rajesh Gunakala | [Read More](https://medium.com/p/3f1e62383076) |
