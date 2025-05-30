@@ -12,12 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 13:28:12 GMT | Building Networks, Breaking Barriers: My Week 4 Journey of Networking. | Grace Wanja | [Read More](https://medium.com/p/a8aaab79e32c) |
+| Fri, 30 May 2025 13:27:51 GMT | Why Malware Is Dead: The Real Risk Is You(Humans) | Luispuello | [Read More](https://medium.com/p/503ca4411d7a) |
+| Fri, 30 May 2025 13:23:22 GMT | Managed vs. In-House IT: What’s Right for Your Business? | IPSpecialist | [Read More](https://medium.com/p/d4287e1bddc5) |
+| Fri, 30 May 2025 13:12:00 GMT | The Writer’s Dilemma: When Validation Meets Vulnerability | Pratibha Singh | [Read More](https://medium.com/p/b73087ca8c38) |
+| Fri, 30 May 2025 13:11:32 GMT | AI Security: Friend, Foe, or Just Really Complicated? | Wale Adedeji | [Read More](https://medium.com/p/e0c23b94805d) |
+| Fri, 30 May 2025 13:11:31 GMT | Supply Chain Vulnerabilities in LLM-OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/c98739f0fcd5) |
+| Fri, 30 May 2025 13:09:11 GMT | The Critical Role of Automated Dependency Scanning | Ed Legault | [Read More](https://medium.com/p/8c78870fccb0) |
+| Fri, 30 May 2025 13:08:53 GMT | How to Install Kali Linux on VirtualBox | Kuldeepkumawat | [Read More](https://medium.com/p/08e181ede0b1) |
+| Fri, 30 May 2025 13:08:44 GMT | Navigating IT Compliance GDPR vs. HIPAA. | Bridge Group Solutions | [Read More](https://medium.com/p/5dbacffa8912) |
+| Fri, 30 May 2025 13:06:53 GMT | Wi-Fi Pentest: Scenarios of Aircrack-ng and Evil Twin Attacks | Esra Kayhan | [Read More](https://medium.com/p/6afa69794f80) |
+| Fri, 30 May 2025 13:03:23 GMT | the rise of 1uiet quitting 1.2 on social media | S Anuradha | [Read More](https://medium.com/p/f5ab1136a00f) |
+| Fri, 30 May 2025 13:01:39 GMT | Phishing: Credential Harvesting Demo | Maniraj Chahal | [Read More](https://medium.com/p/605af833d3b0) |
+| Fri, 30 May 2025 12:54:23 GMT | The agentic web arrives: what Web 4.0 means for enterprise software | cauri | [Read More](https://medium.com/p/406d198df86e) |
+| Fri, 30 May 2025 12:52:55 GMT | AI Agents for Advanced Reasoning with Tools and Everything You Need | noailabs | [Read More](https://medium.com/p/bd2d9b5f1bef) |
+| Fri, 30 May 2025 12:52:49 GMT | What Are the Best Practices for Safe Penetration? | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/a8f1d3e1599d) |
+| Fri, 30 May 2025 12:47:58 GMT | How Mumbai Security Agencies Tackle Urban Risks | United Guard Force India | [Read More](https://medium.com/p/599b57fe1780) |
 | Fri, 30 May 2025 12:41:04 GMT | SQL Injection: When Websites Get Bamboozled (A Beginner’s Guide) | Rageeth | [Read More](https://medium.com/p/3cade5fa9064) |
 | Fri, 30 May 2025 12:40:36 GMT | Governance vs. Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/da6f5a847591) |
 | Fri, 30 May 2025 12:40:29 GMT | Upgrade to Ubuntu Pro on Ubuntu Server 22.04 | Iftekharul Bashar | [Read More](https://medium.com/p/79fb6a4dd459) |
 | Fri, 30 May 2025 12:39:51 GMT | LitigateSphere: Where Digital Resilience Begins | eswara | [Read More](https://medium.com/p/9523ca99657d) |
+| Fri, 30 May 2025 12:37:07 GMT | The New Age of Ransomware-as-a-Service: Payloads, Payload Delivery, and Post-Exploitation Tactics | Muhammad Zeeshan | [Read More](https://medium.com/p/12f789a979bc) |
 | Fri, 30 May 2025 12:32:26 GMT | Must-Have Features in Reconciliation Software for Seamless Matching | Kosh AI | [Read More](https://medium.com/p/181977a2f3b1) |
+| Fri, 30 May 2025 12:32:25 GMT | Scrisoare deschisă către omul profesor | Alin Stelian | [Read More](https://medium.com/p/f282a73b69d8) |
 | Fri, 30 May 2025 12:28:17 GMT | 10X Actionable Threat Intelligence Strategies to Stop Emerging Cyber Threats in 2025 | Technijian | [Read More](https://medium.com/p/1b47adcdaa6a) |
+| Fri, 30 May 2025 12:26:28 GMT | Praktikum Basis Data : Keamanan Basis Data (Akses pengguna) | Assep Wahid | [Read More](https://medium.com/p/1982a6d52e34) |
 | Fri, 30 May 2025 12:25:20 GMT | Top 3 YouTube Channels to Learn Tech Skills in 2025 | Madhavaraman | [Read More](https://medium.com/p/1ec8630410c4) |
 | Fri, 30 May 2025 12:20:24 GMT | The Proper Way: Creating a Secure Password
  By Franz K. | Ignacio Esteban Muñoz Ramírez | [Read More](https://medium.com/p/35e5dd6dded3) |
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 08:35:11 GMT | cyberRoadmap 5 Tahun Cyber Security: From Zero to Hero | DhiasCode | [Read More](https://medium.com/p/ccd9a6fc3c64) |
 | Fri, 30 May 2025 08:32:49 GMT | The Role of Cryptography in Cybersecurity: Keeping Your Digital Data Safe | İsmail Yerlikaya | [Read More](https://medium.com/p/d870e7dcaf25) |
 | Fri, 30 May 2025 08:32:37 GMT | Beyond Perimeter: Introducing Appollo for Real-Time Attack Surface Detection | Groww Engineering Team | [Read More](https://medium.com/p/777092b6be2e) |
-| Fri, 30 May 2025 08:31:32 GMT | Exploring our relationship to bugs as fellow beings | The Medium Newsletter | [Read More](https://medium.com/p/a91990d1c68e) |
-| Fri, 30 May 2025 08:26:33 GMT | Active Response Wazuh: Block IP Otomatis terhadap Attacker IP | Sigit Adi Irianto | [Read More](https://medium.com/p/74eaab429468) |
-| Fri, 30 May 2025 08:25:40 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime Stories | [Read More](https://medium.com/p/9771473c5a51) |
-| Fri, 30 May 2025 08:25:26 GMT | FedRAMP Compliance Guidelines for Container Security | Flavius Dinu | [Read More](https://medium.com/p/f2f9157285e6) |
-| Fri, 30 May 2025 08:17:44 GMT | How Can I Recover My Scammed $55,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/0758e68c0480) |
-| Fri, 30 May 2025 08:11:22 GMT | Keyword Research Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/d1c37b39dbe8) |
-| Fri, 30 May 2025 08:09:21 GMT | Consolidating Observability and Security with eBPF in 2025 — A Senior Engineer’s Perspective | Trek | [Read More](https://medium.com/p/4aa7ae233e5a) |
-| Fri, 30 May 2025 08:04:41 GMT | Introducing Llama-3.1-FoundationAI-SecurityLLM-Base-8B | Elias Hossain | [Read More](https://medium.com/p/7657f3766e82) |
-| Fri, 30 May 2025 08:00:08 GMT | What Happens If You Don’t Upgrade After Windows 10 EOL? Here’s What You Need to Know | Ankit Cloudiops | [Read More](https://medium.com/p/8ac14ec01cae) |
-| Fri, 30 May 2025 07:57:08 GMT | Hidden Tokens, Open Wallets: How I Found Payment API Keys in Production JavaScript | Iski | [Read More](https://medium.com/p/7810b3113e04) |
-| Fri, 30 May 2025 07:56:49 GMT | Free VPNs vs. Paid VPNs: 5 Hard Truths They Don’t Want You to Know | Cloudbric VPN | [Read More](https://medium.com/p/b07eab79e47b) |
-| Fri, 30 May 2025 07:56:13 GMT | Streaming Shock: 7 Million Accounts Hacked Are You at Risk? | TECHi | [Read More](https://medium.com/p/2aa7f16de6f1) |
-| Fri, 30 May 2025 07:48:55 GMT | Roadmap Cyber Security, Dalam 5 Tahun kedepan | Naufal Hilmy Mahdy | [Read More](https://medium.com/p/2a537749a186) |
-| Fri, 30 May 2025 07:47:04 GMT | The Daily Tech Digest: 30 May 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8dc33cda17b0) |
-| Fri, 30 May 2025 07:45:19 GMT | As Qatar continues to expand its urban infrastructure and business landscape, the demand for… | Fss | [Read More](https://medium.com/p/07618cad357f) |
-| Fri, 30 May 2025 07:42:23 GMT | Simulasi Jaringan VLSM dengan Cisco Packet Tracer | dapit | [Read More](https://medium.com/p/fe048530661d) |
-| Fri, 30 May 2025 07:41:03 GMT | Security Technologies That Are Transforming Modern Surveillance | Pentagonengineers | [Read More](https://medium.com/p/7a5c495863ff) |
-| Fri, 30 May 2025 07:33:11 GMT | Free VPNs: Your Digital Time Bomb? Why ‘Free’ Could Cost You Everything Online | zainal Abidin | [Read More](https://medium.com/p/529b06b249b5) |
-| Fri, 30 May 2025 07:31:45 GMT | The 5 Most Secure Email Providers To Protect Your Privacy in 2025 | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5b6595066900) |
