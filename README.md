@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 16:12:21 GMT | How I Turned a Simple Bug Into $5,756 | Ibtissam hammadi | [Read More](https://medium.com/p/19b176312060) |
+| Fri, 30 May 2025 16:06:06 GMT | CTF Day(6) | Ahmed Narmer | [Read More](https://medium.com/p/9ab92dec9346) |
+| Fri, 30 May 2025 16:05:25 GMT | A Bucket of Phish . TryHackMe Walkthrough . Cloud Computing . AWS, 30 points | RosanaFSS | [Read More](https://medium.com/p/0d966b7e0d1d) |
+| Fri, 30 May 2025 16:04:29 GMT | Why IT Security Audits Matter and How to Nail Yours | SafeAeon Inc. | [Read More](https://medium.com/p/470c04895db7) |
+| Fri, 30 May 2025 16:03:10 GMT | The Hidden Costs of DIY Identity in Indian Startups | Sagar Paul | [Read More](https://medium.com/p/abff4bb68311) |
+| Fri, 30 May 2025 16:00:07 GMT | The $2 Billion Bridge Problem: Why Cross-Chain Security Is Blockchain’s Final Boss | Chronos Vault | [Read More](https://medium.com/p/0522c2571995) |
+| Fri, 30 May 2025 15:59:11 GMT | 2025 Data Breach Prevention Strategy Guide | Feroot Security | [Read More](https://medium.com/p/34c7c769596b) |
+| Fri, 30 May 2025 15:57:40 GMT | Konfigurasi Jaringan Sederhana di Cisco Packet Tracer | Firhansanad | [Read More](https://medium.com/p/79403e0c8f2e) |
+| Fri, 30 May 2025 15:45:50 GMT | Serverless Security: Building Trust in the Cloud | Rushabh Trivedi | [Read More](https://medium.com/p/b31256ba2901) |
+| Fri, 30 May 2025 15:38:58 GMT | robots tryhackme walkthrough | Osec | [Read More](https://medium.com/p/d97bd5ffd9bf) |
+| Fri, 30 May 2025 15:37:35 GMT | Secure Coding: The First Line of Defense in Application Security | Pratik Gaikwad | [Read More](https://medium.com/p/add187a52818) |
 | Fri, 30 May 2025 15:36:27 GMT | Do you like your — pizza — err… password with salt and pepper? | David Mora Rodriguez | [Read More](https://medium.com/p/f9f13b28e311) |
 | Fri, 30 May 2025 15:29:14 GMT | The NPM Token That Stayed Alive for Two Years | Arshad Kazmi | [Read More](https://medium.com/p/379d8d7be068) |
 | Fri, 30 May 2025 15:28:03 GMT | Introduction to Networking Basics | Daarin | [Read More](https://medium.com/p/0c31451946a0) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 11:56:37 GMT | Mental Map to DevSecOps | Rishabh Singh | [Read More](https://medium.com/p/8d91629299bb) |
 | Fri, 30 May 2025 11:46:21 GMT | 10 Proven Ways to Secure Your SaaS Applications in 2025 | peter watson | [Read More](https://medium.com/p/70caa5c671b6) |
 | Fri, 30 May 2025 11:34:11 GMT | Building Trust: Local Security Agencies in Thane | united guard | [Read More](https://medium.com/p/8833a411a24e) |
-| Fri, 30 May 2025 11:28:27 GMT | 10 Proven Ways to Secure Your SaaS Applications in 2025 | GoTrust Tech | [Read More](https://medium.com/p/f6ce10dd76f1) |
-| Fri, 30 May 2025 11:27:27 GMT | NTLMv2 Hash Leak via COM + Auto-Execution | Andrea Bocchetti | [Read More](https://medium.com/p/543919e577cb) |
-| Fri, 30 May 2025 11:22:01 GMT | Stages of a Red Team Engagement | The Darkarmy | [Read More](https://medium.com/p/189c235fdd2b) |
-| Fri, 30 May 2025 11:19:20 GMT | Why Experienced System Analysts Remain Indispensable in the Age of AI | Abdul Rehman | [Read More](https://medium.com/p/c4f97ec7ce2e) |
-| Fri, 30 May 2025 11:19:04 GMT | Hardening Google Chrome on macOS via MDM | Ismayil Zeynalov | [Read More](https://medium.com/p/473c9a95028b) |
-| Fri, 30 May 2025 11:18:52 GMT | VirusTotal integration denganWazuh | Haldian | [Read More](https://medium.com/p/a66ad526023c) |
-| Fri, 30 May 2025 11:17:25 GMT | Build a tiny SOC atop Osquery, socfortress Ossiem Copilot, AlienVault Otx, steampipe and Ciso… | Seb AGUELE | [Read More](https://medium.com/p/150d450f0fe5) |
-| Fri, 30 May 2025 11:15:43 GMT | Web of Deception: Scattered Spider’s 2025 TTP Evolution | Dhanusha N | [Read More](https://medium.com/p/5afed5d69dbc) |
-| Fri, 30 May 2025 11:10:58 GMT | What is cyber Secuurity Course? | Shanthi Academy | [Read More](https://medium.com/p/cc6bc349d637) |
-| Fri, 30 May 2025 11:09:25 GMT | What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth | Maverick Steel | [Read More](https://medium.com/p/b52338176915) |
-| Fri, 30 May 2025 11:09:06 GMT | Choosing the Right Security Company in Pune: Timeless Essentials | United Guard Force India | [Read More](https://medium.com/p/33a2eeea526e) |
