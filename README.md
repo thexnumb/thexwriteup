@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 20:17:53 GMT | Victoria’s Secret Cyberattack: Why Retail Security Is Hanging by a Thread | Ronit Yadav | [Read More](https://medium.com/p/d1ff8dbedfba) |
+| Fri, 30 May 2025 20:15:42 GMT | TryHackMe: Expose — Walkthrough | CyberQuestor | [Read More](https://medium.com/p/9ae36df654c0) |
+| Fri, 30 May 2025 20:12:12 GMT | India’s Economic Growth Hits Its Slowest Point in Four Years at 6.5% | Imran | [Read More](https://medium.com/p/560b0381a5d6) |
+| Fri, 30 May 2025 20:01:15 GMT | PassCode . TryHackMe Walkthrough . Blockchain, 30 points | RosanaFSS | [Read More](https://medium.com/p/74b2b3f02c27) |
+| Fri, 30 May 2025 19:56:51 GMT | How I Stumbled Upon a Critical Webshop Vulnerability (and How It Vanished Without a Trace) | Lukasjohannesmoeller | [Read More](https://medium.com/p/bbeff4ab1f41) |
+| Fri, 30 May 2025 19:56:26 GMT | My Child Saw Through My Masks Today-What I Learned About Teaching Vulnerability | Christina Vaughn: Nurse, Writer, Creator. | [Read More](https://medium.com/p/e8453437b536) |
+| Fri, 30 May 2025 19:56:26 GMT | AI Just Found a Critical Linux Zero-Day — And This Changes Everything | Ronit Yadav | [Read More](https://medium.com/p/2f2139bfe077) |
+| Fri, 30 May 2025 19:53:08 GMT | Securing the Internet of Things: Why Post-Quantum Cryptography Is Critical for IoT’s Future | QuantumGenie | [Read More](https://medium.com/p/26ae3252dc62) |
+| Fri, 30 May 2025 19:45:37 GMT | Australia’s New Ransomware Reporting Law: What Businesses Must Know in 2025 | Ronit Yadav | [Read More](https://medium.com/p/5c0f46b294d9) |
+| Fri, 30 May 2025 19:39:54 GMT | SOC102 — EventID 35 — Suspicious URL Detected |  | [Read More](https://medium.com/p/ce3b9bff8734) |
+| Fri, 30 May 2025 19:39:45 GMT | DNS Cache Poisoning: The Invisible Hacker in the Network | Pouya aftabi | [Read More](https://medium.com/p/a0356c4a27ab) |
 | Fri, 30 May 2025 19:31:40 GMT | Nation-State Breach at ConnectWise: Unpacking the Real Threat to Managed Service Providers and… | Chetan Seripally | [Read More](https://medium.com/p/2df1543b898a) |
 | Fri, 30 May 2025 19:20:35 GMT | G1004 LAPSUS$ APT Grubu: | Yusuf Kürüm | [Read More](https://medium.com/p/c2b5ed2b6f45) |
 | Fri, 30 May 2025 19:15:06 GMT | Why I Use Read-Only Partitions on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/b2e8f43c3b0f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 14:46:03 GMT | The Enemy Within: How AI is Weaponizing Your Code ⚔ | Tirlea Ionut | [Read More](https://medium.com/p/69f9555f556f) |
 | Fri, 30 May 2025 14:44:54 GMT | How To Hire A Professional Hacker | Hackers World | [Read More](https://medium.com/p/7064d7dc3c52) |
 | Fri, 30 May 2025 14:39:58 GMT | Extract Hidden Threat Intel from Gmail MBOX Files | Vijay Kumar Gupta | [Read More](https://medium.com/p/f605c4d5f4f5) |
-| Fri, 30 May 2025 14:39:58 GMT | WannaCRY | Fırat Yağmur | [Read More](https://medium.com/p/b324b27a3f2c) |
-| Fri, 30 May 2025 14:35:01 GMT | STUXNET NEDİR | Fırat Yağmur | [Read More](https://medium.com/p/c13c04aad57a) |
-| Fri, 30 May 2025 14:32:16 GMT | Top 9 Vulnerability Assessment Tools: Your First Line of Defense in Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/a87e6ab0e223) |
-| Fri, 30 May 2025 14:30:00 GMT | Exploiting WebSocketCommunication in a JIRA `redacted` Add-On | Jafar Abo Nada | [Read More](https://medium.com/p/1440fba174b5) |
-| Fri, 30 May 2025 14:29:41 GMT | When they thought you as a real Hacker | Prawin Lakhman K | [Read More](https://medium.com/p/12d60353ffdf) |
-| Fri, 30 May 2025 14:28:37 GMT | Advanced Threat Activity Intensifies on Vulnerable Systems — 5th Week of May, 2025 | Loginsoft | [Read More](https://medium.com/p/8d8ff532dd1d) |
-| Fri, 30 May 2025 14:27:51 GMT | What Are Managed IT Services? A Complete Guide Featuring Teceze | Teceze | [Read More](https://medium.com/p/fbc48987f7ec) |
-| Fri, 30 May 2025 14:27:25 GMT | TLS Abuse leads to Remote Code Execution | Z4ki | [Read More](https://medium.com/p/201b882ef3a7) |
-| Fri, 30 May 2025 14:25:40 GMT | HOW TO BECOME PYTHON PROBLEM SOLVER IN 2025: | abdulazeez bolakale | [Read More](https://medium.com/p/92ba94b1ea1d) |
-| Fri, 30 May 2025 14:24:14 GMT | Invisible Power: Loadable Kernel Module (LKM) | LordShen | [Read More](https://medium.com/p/30c7aa52d19d) |
-| Fri, 30 May 2025 14:22:51 GMT | Step By Step: OpenAI Model Resilience to TBTG Side — Channel Timing Attacks | Tomer Wetzler | [Read More](https://medium.com/p/584fd329aa17) |
