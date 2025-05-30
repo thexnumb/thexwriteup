@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 19:31:40 GMT | Nation-State Breach at ConnectWise: Unpacking the Real Threat to Managed Service Providers and… | Chetan Seripally | [Read More](https://medium.com/p/2df1543b898a) |
+| Fri, 30 May 2025 19:20:35 GMT | G1004 LAPSUS$ APT Grubu: | Yusuf Kürüm | [Read More](https://medium.com/p/c2b5ed2b6f45) |
+| Fri, 30 May 2025 19:15:06 GMT | Why I Use Read-Only Partitions on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/b2e8f43c3b0f) |
+| Fri, 30 May 2025 19:07:27 GMT | Typosquatting: How a Simple Typo Can Lead to a Cyberattack | Ramsey Consulting Services | [Read More](https://medium.com/p/1f5cb1507d4b) |
 | Fri, 30 May 2025 19:04:49 GMT | apidays 2025 recap | Meriç Aydonat | [Read More](https://medium.com/p/d00c48d029a8) |
+| Fri, 30 May 2025 19:00:02 GMT | Inside the SAR: The Federal Cybersecurity Report That Haunts Your Weekends | Richard Wilder | [Read More](https://medium.com/p/b2448334fa99) |
 | Fri, 30 May 2025 18:57:58 GMT | Simulasi Packet Tracer: Pengaruh Access Control List (ACL) terhadap Konektivitas Jaringan. | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/aa02a94a4922) |
+| Fri, 30 May 2025 18:56:48 GMT | Stuxnet Zararlısı: 0-Day Açıkları ve Komuta-Kontrol Altyapısının MITRE ATT&CK Tabanlı Analizi | Yusuf Kürüm | [Read More](https://medium.com/p/606a2075b6b5) |
 | Fri, 30 May 2025 18:50:15 GMT | NO LONGER THE VICTIM | Scripture of Balance Author & Founder | [Read More](https://medium.com/p/5f1455dde537) |
 | Fri, 30 May 2025 18:49:22 GMT | Northern California Children’s Therapy Center Data Breach: What Parents and Families Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/6f63932126df) |
 | Fri, 30 May 2025 18:48:09 GMT | Exploring the Dark Web: A Comprehensive Guide to Information and Access | Shah poran shakil | [Read More](https://medium.com/p/0d04fe8132f9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 14:25:40 GMT | HOW TO BECOME PYTHON PROBLEM SOLVER IN 2025: | abdulazeez bolakale | [Read More](https://medium.com/p/92ba94b1ea1d) |
 | Fri, 30 May 2025 14:24:14 GMT | Invisible Power: Loadable Kernel Module (LKM) | LordShen | [Read More](https://medium.com/p/30c7aa52d19d) |
 | Fri, 30 May 2025 14:22:51 GMT | Step By Step: OpenAI Model Resilience to TBTG Side — Channel Timing Attacks | Tomer Wetzler | [Read More](https://medium.com/p/584fd329aa17) |
-| Fri, 30 May 2025 14:21:00 GMT | Digital Forensics and Fraud Analysis Just Got Easier | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ac7abb5ce1be) |
-| Fri, 30 May 2025 14:15:29 GMT | Week 5&6 Exercise — Design an AWS VPC | Travon Mayo | [Read More](https://medium.com/p/3258b90763fa) |
-| Fri, 30 May 2025 14:12:36 GMT | Before You Upload Your Next Blog Post, Consider This Invisible Risk | Sam Galope | [Read More](https://medium.com/p/f3139b466802) |
-| Fri, 30 May 2025 14:10:50 GMT | Self-Discipline Is the New Self-Love | Pavan | [Read More](https://medium.com/p/caa3213f98d2) |
-| Fri, 30 May 2025 14:07:04 GMT | 5 Common Cybersecurity Mistakes Even Smart People Make | P T | [Read More](https://medium.com/p/d2beab9b32bf) |
-| Fri, 30 May 2025 14:06:30 GMT | Aspherical Glass Mold Lenses Market: A $3.5 Billion Vision for the Future | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/3d1600f79909) |
