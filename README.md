@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 09:35:29 GMT | U.S. Sanctions Cloud Provider ‘Funnull’ Over Pig Butchering Scams — How CyberVolt Security… | Ekene Joseph | [Read More](https://medium.com/p/bfc2b407a522) |
+| Fri, 30 May 2025 09:32:35 GMT | I Protected Myself So Well, I Forgot How to Let Anyone In | Amir Taufiq | [Read More](https://medium.com/p/eeeb12701811) |
+| Fri, 30 May 2025 09:31:23 GMT | Building a Secure WireGuard VPN Server on Windows for Remote Access from macOS | Alperen Gokbak | [Read More](https://medium.com/p/79ce0adf4da2) |
+| Fri, 30 May 2025 09:28:57 GMT | The AI Doom Cycle: No Workers = No Customers = No Economy | Danish | [Read More](https://medium.com/p/bdb882e78ddf) |
+| Fri, 30 May 2025 09:28:53 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/fd9338bc8905) |
 | Fri, 30 May 2025 09:18:58 GMT | How Can I Recover My Scammed $55,000 from a Fake Bitcoin Investment Scam? | Crime All Day | [Read More](https://medium.com/p/0985aa8b7aab) |
 | Fri, 30 May 2025 09:14:17 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/d6267884f419) |
 | Fri, 30 May 2025 09:14:16 GMT | AI in Cybersecurity 2025: The Digital Battle Between Bots and Hackers. | Kaegar | [Read More](https://medium.com/p/27865c680e82) |
@@ -109,8 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 05:02:30 GMT | Cyber Inferno: A Pen Tester’s Quest Through 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/c055cf881aa1) |
 | Fri, 30 May 2025 04:42:57 GMT | JWT Pentesting: A Journey from Token to Takeover | Shah kaif | [Read More](https://medium.com/p/1b2a7af08933) |
 | Fri, 30 May 2025 04:39:28 GMT | Why Earning Your CISSP Certification Matters and How to Get Started with CISSP Training Online | Cybernous Infosec consulting | [Read More](https://medium.com/p/b84196e25145) |
-| Fri, 30 May 2025 04:37:46 GMT | CTF Day(4) | Ahmed Narmer | [Read More](https://medium.com/p/76c165186a3a) |
-| Fri, 30 May 2025 04:34:50 GMT | How to Build Secure AI-Powered MVPs Without Common Security Mistakes | Algo Insights | [Read More](https://medium.com/p/c21a03f3c9f5) |
-| Fri, 30 May 2025 04:33:33 GMT | External Infrastructure Pentesting as of today | Walter Cuestas | [Read More](https://medium.com/p/15ab20fb1028) |
-| Fri, 30 May 2025 04:19:35 GMT | How I Made My First €4,000 From Two Simple Race Conditions | FufuFafa | [Read More](https://medium.com/p/270033021482) |
-| Fri, 30 May 2025 04:14:45 GMT | Attacking Common Applications — Skills Assessment II | Ibrahima Ndong | [Read More](https://medium.com/p/d7ec68caed90) |
