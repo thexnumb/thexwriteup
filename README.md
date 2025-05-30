@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 04:19:35 GMT | How I Made My First €4,000 From Two Simple Race Conditions | FufuFafa | [Read More](https://medium.com/p/270033021482) |
+| Fri, 30 May 2025 04:14:45 GMT | Attacking Common Applications — Skills Assessment II | Ibrahima Ndong | [Read More](https://medium.com/p/d7ec68caed90) |
+| Fri, 30 May 2025 04:01:04 GMT | Access Control Systems: A Vital Component of KUWAIT’s Security Infrastructure | Tekhabeeb | [Read More](https://medium.com/p/1c9528b76627) |
 | Fri, 30 May 2025 03:52:13 GMT | Fires Floods & Lightning — An intro into hacking Industrial Control Systems | JankhJankh | [Read More](https://medium.com/p/6172bae1654a) |
 | Fri, 30 May 2025 03:46:51 GMT | Top 5 Cyber Threats to Watch Out for in 2025: Are You Ready? | Decode Duniya | [Read More](https://medium.com/p/54c54a82ffd8) |
 | Fri, 30 May 2025 03:46:41 GMT | VLAN NETWORK | Farhan Maulana | [Read More](https://medium.com/p/675e6fb466cf) |
@@ -101,6 +104,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 19:35:33 GMT | Segurança com Zabbix | Michael Fortes | [Read More](https://medium.com/p/e49ef860e9ac) |
 | Thu, 29 May 2025 19:26:33 GMT | Dennou Coil: Siber Uzayın Eşiğinde Bir Masal | Talha Özcan | [Read More](https://medium.com/p/5b53e11a27ec) |
 | Thu, 29 May 2025 19:25:44 GMT | The Weird Kid in Kindergarten | Meli | [Read More](https://medium.com/p/c884b08f2ea1) |
+| Thu, 29 May 2025 19:22:32 GMT | My Journey from Zero Confidence to Cybersecurity Obsession | Cypher.One | [Read More](https://medium.com/p/d709f28eb275) |
 | Thu, 29 May 2025 19:21:43 GMT | Phantom Network: The Silent Botnet Haunting ASUS Routers | Siva Gunasekaran | [Read More](https://medium.com/p/8ebdd036c0af) |
 | Thu, 29 May 2025 19:18:45 GMT | Soulbound NFTs and Student Attendance — A Blockchain Weekend at KU | Charan Yadav Chintalacheri | [Read More](https://medium.com/p/11e7e8215b8f) |
 | Thu, 29 May 2025 19:18:30 GMT | SQL Injection for Beginners: How I Found a Vulnerability in a Test Website. | Esom Eze | [Read More](https://medium.com/p/a98c99fa5b37) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 19:10:37 GMT | AI Security: Our New Superpower… And Our New Achilles’ Heel? | Wale Adedeji | [Read More](https://medium.com/p/624774500f8d) |
 | Thu, 29 May 2025 19:01:17 GMT | 10 reasons why cyber security is important? | Chandanjana | [Read More](https://medium.com/p/e67ffb6d3c61) |
 | Thu, 29 May 2025 18:57:45 GMT | ️‍♂️ Visual Guide: How to Spot a Suspicious File (Even If It Looks Safe) | Rushi Jariwala | [Read More](https://medium.com/p/245622c5c81e) |
-| Thu, 29 May 2025 18:52:36 GMT | How to set different output formats in TShark! | Safiullah Khan | [Read More](https://medium.com/p/1a90e069c2c4) |
-| Thu, 29 May 2025 18:49:33 GMT | Autonomous Rethinking as War Crime & Public Warfare | SIMKRA | [Read More](https://medium.com/p/4010a461ecc0) |
-| Thu, 29 May 2025 18:47:11 GMT | Azure Cloud Security Part 1 : Understanding the Shared Responsibility in the Cloud | Siddiquimohammad | [Read More](https://medium.com/p/890f82661db5) |
-| Thu, 29 May 2025 18:47:06 GMT | SNS Secrets [Capstone Challenge] | WireHawk Security | [Read More](https://medium.com/p/a18ec98965cc) |
