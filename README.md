@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 03:52:13 GMT | Fires Floods & Lightning — An intro into hacking Industrial Control Systems | JankhJankh | [Read More](https://medium.com/p/6172bae1654a) |
+| Fri, 30 May 2025 03:46:51 GMT | Top 5 Cyber Threats to Watch Out for in 2025: Are You Ready? | Decode Duniya | [Read More](https://medium.com/p/54c54a82ffd8) |
+| Fri, 30 May 2025 03:46:41 GMT | VLAN NETWORK | Farhan Maulana | [Read More](https://medium.com/p/675e6fb466cf) |
+| Fri, 30 May 2025 03:44:15 GMT | ROADMAP SOC ANALYST (Security Operations Center Analyst) — 5 TAHUN | Dinda Rintic Rose | [Read More](https://medium.com/p/1e75b6685075) |
+| Fri, 30 May 2025 03:36:28 GMT | Cybersecurity in Manufacturing | OEE IntelliSuite | [Read More](https://medium.com/p/f9ba4693bf89) |
+| Fri, 30 May 2025 03:32:26 GMT | Navigating the Digital Road: Dissecting the Europcar Data Breach Allegations | Deven Chhajed | [Read More](https://medium.com/p/5e1fcd9187dd) |
+| Fri, 30 May 2025 03:26:04 GMT | Practical Project: Scanning and Enumeration on a Vulnerable Linux Target (Kioptrix) | Emmanuel Chibuzor Kingsley | [Read More](https://medium.com/p/bef5b59c8962) |
+| Fri, 30 May 2025 03:18:23 GMT | The 2025 Retail Cyberstorm: How Post-Quantum Cryptography Could Have Prevented Major Breaches | QuantumGenie | [Read More](https://medium.com/p/26421d70be97) |
+| Fri, 30 May 2025 03:13:17 GMT | Lingerie and Logic: Unpacking the Victoria’s Secret Cybersecurity Incident | Brittney Ginther | [Read More](https://medium.com/p/437463ed07d0) |
 | Fri, 30 May 2025 03:00:12 GMT | Bypassing Defender SmartScreen | Math69 | [Read More](https://medium.com/p/a85ee458c331) |
 | Fri, 30 May 2025 02:50:59 GMT | “The Hidden Dangers of Insecure File Uploads in Web Applications: A Guide for Pentesters” | Shoaib Muhammad | [Read More](https://medium.com/p/e612ed1d9167) |
 | Fri, 30 May 2025 02:44:20 GMT | More Fat Than a Farm Animal, Watched Like a Dissident: Welcome to the American Dream | Matyas Koszegi | [Read More](https://medium.com/p/f523372e7d88) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 May 2025 18:49:33 GMT | Autonomous Rethinking as War Crime & Public Warfare | SIMKRA | [Read More](https://medium.com/p/4010a461ecc0) |
 | Thu, 29 May 2025 18:47:11 GMT | Azure Cloud Security Part 1 : Understanding the Shared Responsibility in the Cloud | Siddiquimohammad | [Read More](https://medium.com/p/890f82661db5) |
 | Thu, 29 May 2025 18:47:06 GMT | SNS Secrets [Capstone Challenge] | WireHawk Security | [Read More](https://medium.com/p/a18ec98965cc) |
-| Thu, 29 May 2025 18:39:01 GMT | How to Protect API Keys with CloudFlare Worker | Shadai Scott | [Read More](https://medium.com/p/0da68edabd84) |
-| Thu, 29 May 2025 18:36:11 GMT | Top 10 Cybersecurity Trends and Strategies in 2025 | Xaltius | [Read More](https://medium.com/p/efd742d4bf54) |
-| Thu, 29 May 2025 18:26:29 GMT | Understanding the Referer in Network Header | Natarajan C K | [Read More](https://medium.com/p/c1a675406014) |
-| Thu, 29 May 2025 18:14:40 GMT | Neuroweapons in Cognitive Warfare | SIMKRA | [Read More](https://medium.com/p/21c5f54fb20a) |
-| Thu, 29 May 2025 18:13:55 GMT | Complex Data Breach Laws Require Smarter Security | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/593b07058b6f) |
-| Thu, 29 May 2025 18:12:58 GMT | Catch Me If You Can | ‘oranma | [Read More](https://medium.com/p/ffa80cfc6006) |
-| Thu, 29 May 2025 17:53:39 GMT | My CyberSecurity Roadmap in the next 5 years | Salhanchynt | [Read More](https://medium.com/p/6f11d77b0715) |
-| Thu, 29 May 2025 17:52:39 GMT | From Web3 Developer to Smart-Contract Auditor: How Common DeFi Vulnerabilities Drive NFT Exploits | Evgenii | [Read More](https://medium.com/p/f6214226d3a0) |
-| Thu, 29 May 2025 17:51:16 GMT | Cheyanne Mallas PA: Driving Innovation and Risk Management in Cybersecurity Project Leadership | Cheyannemallaspa | [Read More](https://medium.com/p/fac29ea9b371) |
