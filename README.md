@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 May 2025 10:07:50 GMT | CoreInvest Review – How I Got My Money Back | Benjamin Fiedler | [Read More](https://medium.com/p/adc77c2bbf00) |
+| Fri, 30 May 2025 10:07:38 GMT | Behind the Screen: Navigating Cybersecurity Risks and Personal Data | Girl Up UI Indonesia | [Read More](https://medium.com/p/7b522df5dcda) |
+| Fri, 30 May 2025 10:06:16 GMT | Why You Should Delete jsonwebtoken in 2025 | Ali nazari | [Read More](https://medium.com/p/362bffe65b0f) |
+| Fri, 30 May 2025 10:03:30 GMT | The Five Most Common Mistakes Wannabe Hackers Make (and How to Avoid Them) | Franziska "Ziska" Fink | [Read More](https://medium.com/p/50b4634adeb8) |
+| Fri, 30 May 2025 09:58:54 GMT | the rise of quiet quitting 3.0 on on social media | S Anuradha | [Read More](https://medium.com/p/22e6553d4fb4) |
+| Fri, 30 May 2025 09:57:48 GMT | Designing Zero Trust for Multi-Nation Enterprises (MNEs) | A-STAR7_DOCTOR | [Read More](https://medium.com/p/fef963244b6b) |
+| Fri, 30 May 2025 09:52:20 GMT | How to Perform Penetration Testing for a Secured Web Application? | Microscan Communications | [Read More](https://medium.com/p/3ef35abf4e60) |
+| Fri, 30 May 2025 09:51:51 GMT | ISO 9001:2015 — A Simple Guide to Quality Certification | Vigneshvar Bhukya | [Read More](https://medium.com/p/8bef613ebf4f) |
+| Fri, 30 May 2025 09:47:57 GMT | The Red Flags I’ve Seen from Pentest Vendors After 25 Years in Cybersecurity | Jason | [Read More](https://medium.com/p/c4c0fae6e158) |
+| Fri, 30 May 2025 09:46:24 GMT | 3. System Design: When You Google Something? | Akhil Padmanaban | [Read More](https://medium.com/p/55d4a77a6702) |
+| Fri, 30 May 2025 09:46:10 GMT | Why Programming is a Game-Changer in Cybersecurity | eXpl0it_32 | [Read More](https://medium.com/p/32714647d3a2) |
+| Fri, 30 May 2025 09:42:31 GMT | Redact or Replace? The Ultimate Guide to Sanitizing PHI in AI and Production Systems | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/5d685ef550a0) |
+| Fri, 30 May 2025 09:41:19 GMT | Top 10 Cyber Threats You’re Most Likely to Face in 2025 And How to Prepare | Dhanusha N | [Read More](https://medium.com/p/377ecd7af042) |
 | Fri, 30 May 2025 09:35:29 GMT | U.S. Sanctions Cloud Provider ‘Funnull’ Over Pig Butchering Scams — How CyberVolt Security… | Ekene Joseph | [Read More](https://medium.com/p/bfc2b407a522) |
 | Fri, 30 May 2025 09:32:35 GMT | I Protected Myself So Well, I Forgot How to Let Anyone In | Amir Taufiq | [Read More](https://medium.com/p/eeeb12701811) |
 | Fri, 30 May 2025 09:31:23 GMT | Building a Secure WireGuard VPN Server on Windows for Remote Access from macOS | Alperen Gokbak | [Read More](https://medium.com/p/79ce0adf4da2) |
@@ -101,16 +114,3 @@ Objective: Find the flag within the… | H4ruk7 | [Read More](https://medium.com
 | Fri, 30 May 2025 05:53:03 GMT | From Novice to Net-Defender: Your First Steps into the World of Bug Bounty Programs | cyber_pix | [Read More](https://medium.com/p/efc40a86bcfc) |
 | Fri, 30 May 2025 05:49:00 GMT | Secure Your Future: Unlock the Best Cybersecurity Course in India Today! | Diehardmclane | [Read More](https://medium.com/p/47521319342f) |
 | Fri, 30 May 2025 05:47:52 GMT | How I Hacked the Hackers: The Day I Outsmarted a WhatsApp Scam | Nahom Tamru | [Read More](https://medium.com/p/181d0d66b2e7) |
-| Fri, 30 May 2025 05:45:23 GMT | “Roadmap Lengkap Menuju Karier di Dunia Cybersecurity” | Alwizariel | [Read More](https://medium.com/p/76649d7dc158) |
-| Fri, 30 May 2025 05:44:31 GMT | WAP/WAP2 Hacking-Basic | Fuadh | [Read More](https://medium.com/p/56dc59e1fdaf) |
-| Fri, 30 May 2025 05:36:58 GMT | Critical WordPress Plugin Flaw Threatens Over 100,000 Sites with Malicious Attacks | Virtual Cyber Labs | [Read More](https://medium.com/p/d972c426468c) |
-| Fri, 30 May 2025 05:34:25 GMT | IoT Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/4655a167da3b) |
-| Fri, 30 May 2025 05:32:29 GMT | Transitioning from Traditional CAD to Cloud-Based AEC Platforms: A Cost-Benefit Analysis | AlterSquare | [Read More](https://medium.com/p/e6246bfa72f9) |
-| Fri, 30 May 2025 05:32:22 GMT | Estrategias IDS/IPS: Suricata | Albert David | [Read More](https://medium.com/p/c2f7b67a2cdb) |
-| Fri, 30 May 2025 05:28:09 GMT | Cracking JWTs: A Bug Bounty Hunting Guide — Part 2 | Aditya Bhatt | [Read More](https://medium.com/p/7bd111ddadd8) |
-| Fri, 30 May 2025 05:10:48 GMT | Hunted a Private Program for 5 Days — 0 Bugs, 3 Lessons | Abhijeet Kumawat | [Read More](https://medium.com/p/b371a1a69d55) |
-| Fri, 30 May 2025 05:10:27 GMT | What is the Best RAID Configuration for Your Server? | Madhuri Kumari | [Read More](https://medium.com/p/d70005642991) |
-| Fri, 30 May 2025 05:06:53 GMT | 50 Pentesting One-Liners: Essential Commands for Faster, Smarter Red Teaming | Pratham Shah | [Read More](https://medium.com/p/beb5ecb2ef76) |
-| Fri, 30 May 2025 05:02:30 GMT | Cyber Inferno: A Pen Tester’s Quest Through 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/c055cf881aa1) |
-| Fri, 30 May 2025 04:42:57 GMT | JWT Pentesting: A Journey from Token to Takeover | Shah kaif | [Read More](https://medium.com/p/1b2a7af08933) |
-| Fri, 30 May 2025 04:39:28 GMT | Why Earning Your CISSP Certification Matters and How to Get Started with CISSP Training Online | Cybernous Infosec consulting | [Read More](https://medium.com/p/b84196e25145) |
