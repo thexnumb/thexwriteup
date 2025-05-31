@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 08:33:44 GMT | Earth Lamia: Inside China’s Multi-Vector Cyber Campaign Targeting Critical Infrastructure | Ismail Tasdelen | [Read More](https://medium.com/p/6ff8fc300cae) |
+| Sat, 31 May 2025 08:30:58 GMT | EDDIESTEALER: The New Rust-Based Malware That’s Breaking Chrome’s Security | Ismail Tasdelen | [Read More](https://medium.com/p/1ae92fc0476b) |
+| Sat, 31 May 2025 08:29:18 GMT | Business entity search tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/dd18bd47a636) |
+| Sat, 31 May 2025 08:27:05 GMT | The Linux Concept Journey — sh (Bourne Shell) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a2a4d64106eb) |
+| Sat, 31 May 2025 08:25:02 GMT | The Digital Takedown: How Law Enforcement Dismantled a Major Cybercrime Infrastructure ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/70aa0aca4c92) |
 | Sat, 31 May 2025 08:15:22 GMT | SipHash and WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/87b8461d1d06) |
 | Sat, 31 May 2025 08:10:07 GMT | Learning the ins and outs of symmetric encryption: Secure Data Protection | Tech Security | [Read More](https://medium.com/p/46e788ede05f) |
+| Sat, 31 May 2025 08:02:36 GMT | Der Schlüssel zur IT-Sicherheit: Penetrationstests vs. Vulnerability Scans | mertes.dev | [Read More](https://medium.com/p/344d9511c283) |
 | Sat, 31 May 2025 07:51:56 GMT | Building a Lean, Metrics-Driven Security Operations Center (SOC) | Oleh Dubetcky | [Read More](https://medium.com/p/5a2472582058) |
 | Sat, 31 May 2025 07:48:36 GMT | Decrypting the Noise: — What Network Traffic Tells Us | AjiPangesstu | [Read More](https://medium.com/p/08abcb3d8a34) |
 | Sat, 31 May 2025 07:40:39 GMT | Your Digital Fortress: Diigoo’s Uncompromised Approach to Online Safety | ArthaChain | [Read More](https://medium.com/p/2d07e41035bb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 22:22:24 GMT | TryHackMe - “LazyAdmin” [Walkthrough] | Sai | [Read More](https://medium.com/p/2a0b61b59d32) |
 | Fri, 30 May 2025 22:16:27 GMT | Post-Exploitation and Data Extraction Techniques for Network Services | Karthikeyan Nagaraj | [Read More](https://medium.com/p/bb350db4daaa) |
 | Fri, 30 May 2025 22:13:16 GMT | Roadmap Cybersecurity untuk Pemula : Panduan 5 Tahun Menuju Karier Profesional | Farid Hidayat | [Read More](https://medium.com/p/e80d2cb87844) |
-| Fri, 30 May 2025 22:02:30 GMT | From Decades to Dominance: How AI Evolved from Academic Curiosity to Global Game-Changer | Manoj Kumar | [Read More](https://medium.com/p/efa27161415d) |
-| Fri, 30 May 2025 22:02:20 GMT | WannaCry: Dijital Çağın En Tehlikeli Fidye Yazılımlarından Biri | Hasan Çavdar | [Read More](https://medium.com/p/ab5d0d16e0ee) |
-| Fri, 30 May 2025 21:59:59 GMT | Top Dangers of the Internet | Savvy Cyber Kids | [Read More](https://medium.com/p/27e3c229db99) |
-| Fri, 30 May 2025 21:59:01 GMT | Your Role in Combating Internet Crimes Against Children | Savvy Cyber Kids | [Read More](https://medium.com/p/c627cbd9a222) |
-| Fri, 30 May 2025 21:58:26 GMT | How to Foster Community in the Virtual Classroom | Savvy Cyber Kids | [Read More](https://medium.com/p/de6b27c6bd7b) |
-| Fri, 30 May 2025 21:44:51 GMT | Before You Swipe Right on Life (or That Contract): Why Butterflies Sometimes Need a Background… | The Agency | [Read More](https://medium.com/p/87eaf92b42d4) |
