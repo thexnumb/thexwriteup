@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 09:38:01 GMT | Here’s How I Recover My Money From Blackcatcard | Daniela Muller | [Read More](https://medium.com/p/368da4d25725) |
+| Sat, 31 May 2025 09:18:13 GMT | Introduction to Computer Networks Part 1 | Chance At Cybersecurity | [Read More](https://medium.com/p/0c8f4d882062) |
+| Sat, 31 May 2025 09:14:44 GMT | Command Injection via PHP File Upload in an College Recruitment Registration Portal | Anonymousshetty | [Read More](https://medium.com/p/034e56e89006) |
+| Sat, 31 May 2025 09:12:50 GMT | How Canada’s Bill C-27 Is Changing the Rules for AI and Data Privacy | Muddasir Zaib | [Read More](https://medium.com/p/b80a31ba7ce6) |
 | Sat, 31 May 2025 09:06:02 GMT | Qwen 3 UNMASKED: Beyond Benchmarks, the Shocking Revelation of its Internal “China Policy”! | ParlonsIA | [Read More](https://medium.com/p/350c2dd70f9d) |
 | Sat, 31 May 2025 09:04:12 GMT | Mobile Acquisition – TryHackMe Walkthrough and Analysis | Nitesh | [Read More](https://medium.com/p/a17846e0fe0f) |
 | Sat, 31 May 2025 09:00:52 GMT | Securing Linux Servers with Fail2ban: An In-Depth Guide to Enhancing Protection and Performance | Anh Trần Tuấn | [Read More](https://medium.com/p/fe6ebb1a745f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 00:32:28 GMT | From PNG to Shell: The Chatbot That Helped Me Hack Itself | Muthu | [Read More](https://medium.com/p/d1459e67b332) |
 | Sat, 31 May 2025 00:15:20 GMT | Building Open Source Tools for the People Who Need Them Most | Arachne Digital | [Read More](https://medium.com/p/9d566fb92aff) |
 | Sat, 31 May 2025 00:08:29 GMT | Five Questions: Jim Mitre on Artificial General Intelligence and National Security | RAND | [Read More](https://medium.com/p/a302ece4bb9a) |
-| Fri, 30 May 2025 23:34:01 GMT | Earn More, Risk Less: Recon Solana $RECON the Smart Way | $RECON Recon Solana Community Rewards | [Read More](https://medium.com/p/ce32096b6471) |
-| Fri, 30 May 2025 23:31:31 GMT | Code Security By Palo Alto Networks: A Comprenshive Guide | Juara IT Solutions | [Read More](https://medium.com/p/18a4a0665b93) |
-| Fri, 30 May 2025 23:12:49 GMT | Advanced Large Language Model Agents: My Journey Through Berkeley’s LLM Agents MOOC (2025 Edition) | Francisco Pérez-Sorrosal | [Read More](https://medium.com/p/731c1034bdcf) |
-| Fri, 30 May 2025 22:59:41 GMT | Aprenda a Bloquear Conexões com iptables em 5 Minutos | Nicolas Martins | [Read More](https://medium.com/p/d9ae354a4688) |
