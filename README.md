@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 16:21:49 GMT | BUG: Comprehensive Guide To Earning Rewards | $BUG Bug Community Rewards | [Read More](https://medium.com/p/ebdca84dc3f7) |
+| Sat, 31 May 2025 16:12:03 GMT | How Casual Browsing Uncovered a Chain of Critical Vulnerabilities (and What I Did Next) | A S Kshatriya | [Read More](https://medium.com/p/f55b5eb9ec4e) |
+| Sat, 31 May 2025 16:07:07 GMT | CEH v13 (AI)考試心得和考前的資料準備 | Azkyl | [Read More](https://medium.com/p/fbcf44e1dfec) |
+| Sat, 31 May 2025 16:02:35 GMT | Why Every Developer Should Learn Basic Hacking ? | Md Faiyaz Khan | [Read More](https://medium.com/p/dd2b7845c726) |
+| Sat, 31 May 2025 15:56:54 GMT | Roadmap Cybersecurity 5 Tahun Kedepan | Nasss | [Read More](https://medium.com/p/ac8df0236d7c) |
+| Sat, 31 May 2025 15:56:27 GMT | Proteções Essenciais para seu App. | Perla C. S | [Read More](https://medium.com/p/f8f0ff716dcc) |
+| Sat, 31 May 2025 15:54:28 GMT | Tutorial Jaringan Dasar dengan Cisco Packet Tracer: Dari Topologi hingga Routing! | Muhammad Rafqy Syaputra | [Read More](https://medium.com/p/c2bf345cc939) |
+| Sat, 31 May 2025 15:47:03 GMT | Datenproduktentwicklung in Deutschland: Der strategische Fahrplan für nachhaltigen… | Philip Hansen | [Read More](https://medium.com/p/1b7d14af4346) |
 | Sat, 31 May 2025 15:33:03 GMT | My Beginner’s Journey: Using Raspberry Pi Pico W to Explore BadUSB Attacks | Agape HearTs | [Read More](https://medium.com/p/21c75c688731) |
 | Sat, 31 May 2025 15:27:49 GMT | Inside the Black Box: How US Border Agents Crack Your Devices | Denis | [Read More](https://medium.com/p/3db0183ef1f0) |
 | Sat, 31 May 2025 15:19:46 GMT | Demystifying IEnumerable in C#: The Backbone of Iteration | Brian Mora | [Read More](https://medium.com/p/7bde60390338) |
@@ -107,11 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 09:57:34 GMT | How to Avoid Common Crypto Scams in 2025: A Beginner’s Guide | TheCoinVibe | [Read More](https://medium.com/p/c8a22c307b9f) |
 | Sat, 31 May 2025 09:56:39 GMT | Network Forensics in Action: My Wireshark Analysis of a Suspicious ANZ Traffic Capture | Gabriel Santos | [Read More](https://medium.com/p/9272c37a13ee) |
 | Sat, 31 May 2025 09:50:56 GMT | Zoomposium with Prof. Dr. Martin Bogdan: “When AI gets bored — Ways to (artificial) consciousness | Philo Sophies | [Read More](https://medium.com/p/7fae5ec0b9f3) |
-| Sat, 31 May 2025 09:50:39 GMT | SQL Injection with SQLmap - TryHackMe SQLmap Basics | Motasem Hamdan | [Read More](https://medium.com/p/443bc97a99de) |
-| Sat, 31 May 2025 09:48:33 GMT | # Building a Network from Scratch: My Week at UCU’s Networking Lab | Daniel | [Read More](https://medium.com/p/c70c52121c3c) |
-| Sat, 31 May 2025 09:46:34 GMT | Navigating the Future of Cybersecurity: 2025 Trends and Technologies You Need to Know | Charter Global | [Read More](https://medium.com/p/e94bb83c7b00) |
-| Sat, 31 May 2025 09:45:57 GMT | Why Pune Security Firms Use Smart Surveillance | United Guard Force India | [Read More](https://medium.com/p/0a10794fbaa0) |
-| Sat, 31 May 2025 09:45:32 GMT | TryHackMe PT1 Review: Real Hands-On Pentest Cert for Beginners? | Pichaya Morimoto | [Read More](https://medium.com/p/de332c9229ec) |
-| Sat, 31 May 2025 09:44:28 GMT | How Can I Recover My Scammed $78,400 from a Fake Bitcoin Investment Scam? | Crime All Day | [Read More](https://medium.com/p/d5597890cd7d) |
-| Sat, 31 May 2025 09:43:43 GMT | Blackcatcard Review - Is It Legit Or Scam | Daniela Muller | [Read More](https://medium.com/p/c698af5bbecb) |
-| Sat, 31 May 2025 09:42:16 GMT | Your VPN Is a Joke Against This Kind of Power | Lucifer Jeufo | [Read More](https://medium.com/p/16276ff11841) |
