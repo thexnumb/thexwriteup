@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 06:42:04 GMT | La máquina de la ‘empatía’ | Ignacio Chiguay | [Read More](https://medium.com/p/2c6d5a798ee1) |
+| Sat, 31 May 2025 06:28:10 GMT | Salt and WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/b6761391a909) |
 | Sat, 31 May 2025 06:10:13 GMT | the rise of quiet quitting 9 | S Anuradha | [Read More](https://medium.com/p/eac35e739167) |
 | Sat, 31 May 2025 06:05:08 GMT | Enhance the Security of Your Building with the Installation CCTV Camera | Harperjack | [Read More](https://medium.com/p/f4308d02b814) |
 | Sat, 31 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ff0c082fbeb3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 20:13:29 GMT | Plaka Tanıma Sistemleri | Özdemir Tech | [Read More](https://medium.com/p/31e2bb3002db) |
 | Fri, 30 May 2025 20:12:12 GMT | India’s Economic Growth Hits Its Slowest Point in Four Years at 6.5% | Imran | [Read More](https://medium.com/p/560b0381a5d6) |
 | Fri, 30 May 2025 20:12:05 GMT | Güvenlik Zafiyetleriyle Kod Yazmak: Farkında Olmadan Hack’leniyorsunuz | İrem İçyer | [Read More](https://medium.com/p/bc22808a0e86) |
-| Fri, 30 May 2025 20:01:15 GMT | PassCode . TryHackMe Walkthrough . Blockchain, 30 points | RosanaFSS | [Read More](https://medium.com/p/74b2b3f02c27) |
-| Fri, 30 May 2025 19:56:51 GMT | How I Stumbled Upon a Critical Webshop Vulnerability (and How It Vanished Without a Trace) | Lukasjohannesmoeller | [Read More](https://medium.com/p/bbeff4ab1f41) |
