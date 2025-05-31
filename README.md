@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 14:10:37 GMT | Server Hardening 101: Next-Level Security for Your Linux Environment (Part 2) | Tomer Klein | [Read More](https://medium.com/p/43570e33d259) |
+| Sat, 31 May 2025 14:09:43 GMT | Wireshark - a complete Packet analysis Project Overview | Megavarnan | [Read More](https://medium.com/p/aabdc2654ecd) |
+| Sat, 31 May 2025 13:59:51 GMT | Bye-Bye-bit? $6,000 Gone in a Click While Bybit P2P Sleeps | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/6cc1a50465c5) |
+| Sat, 31 May 2025 13:59:04 GMT | BASIC JARINGAN MENGGUNAKAN SIMULATOR CISCO | My Ego | [Read More](https://medium.com/p/75cc92649d99) |
+| Sat, 31 May 2025 13:56:38 GMT | How I Hacked 2FA for a $4,500 Bounty… in Just 24 Hours! | Ibtissam hammadi | [Read More](https://medium.com/p/7f752a47c0c5) |
+| Sat, 31 May 2025 13:46:45 GMT | So You Wanna Get Into Cybersecurity? A Confused Student’s Guide (By a Formerly Confused Student ) | Aryamevada | [Read More](https://medium.com/p/ed1eb210bd2b) |
 | Sat, 31 May 2025 13:40:20 GMT | 5 Years Roadmap for SOC Analyst | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/41324071743e) |
 | Sat, 31 May 2025 13:34:32 GMT | SQL Injection Tutorial: Exploiting an E-commerce Login Page | Anmolvishwakarma | [Read More](https://medium.com/p/fe3053af7234) |
 | Sat, 31 May 2025 13:32:27 GMT | ️ Ettercap and ARP Spoofing for Man-in-the-Middle (MITM) Attacks | Esra Kayhan | [Read More](https://medium.com/p/3a8cc4442fd3) |
@@ -21,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 13:12:44 GMT | How Effective Is Data Governance in the Era of AI-Driven Cyber Threats? | Kumar Rohit | [Read More](https://medium.com/p/e75e5a5d0471) |
 | Sat, 31 May 2025 13:12:31 GMT | Automated Exploit Usage and Module Development with Metasploit Framework | Esra Kayhan | [Read More](https://medium.com/p/8a26707f4769) |
 | Sat, 31 May 2025 13:03:38 GMT | "When Even Breathing Feels Like a Burden" | @OfficiallyMarvi | [Read More](https://medium.com/p/df763bb4356b) |
+| Sat, 31 May 2025 13:00:56 GMT | Mode Pribadi: Ekspektasi VS Realita | Jihad Dinullah Akbar | [Read More](https://medium.com/p/b64a59879d5a) |
 | Sat, 31 May 2025 12:58:48 GMT | My Roadmap 5 Years ahead | skeremo | [Read More](https://medium.com/p/afaf0812bdbd) |
 | Sat, 31 May 2025 12:57:36 GMT | • E BOOK HACKING/CYBER SECURITY ORIGINAL
 ___ __________________
@@ -108,10 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 08:27:05 GMT | The Linux Concept Journey — sh (Bourne Shell) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a2a4d64106eb) |
 | Sat, 31 May 2025 08:25:02 GMT | The Digital Takedown: How Law Enforcement Dismantled a Major Cybercrime Infrastructure ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/70aa0aca4c92) |
 | Sat, 31 May 2025 08:15:22 GMT | SipHash and WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/87b8461d1d06) |
-| Sat, 31 May 2025 08:10:07 GMT | Learning the ins and outs of symmetric encryption: Secure Data Protection | Tech Security | [Read More](https://medium.com/p/46e788ede05f) |
-| Sat, 31 May 2025 08:02:36 GMT | Der Schlüssel zur IT-Sicherheit: Penetrationstests vs. Vulnerability Scans | mertes.dev | [Read More](https://medium.com/p/344d9511c283) |
-| Sat, 31 May 2025 07:51:56 GMT | Building a Lean, Metrics-Driven Security Operations Center (SOC) | Oleh Dubetcky | [Read More](https://medium.com/p/5a2472582058) |
-| Sat, 31 May 2025 07:48:36 GMT | Decrypting the Noise: — What Network Traffic Tells Us | AjiPangesstu | [Read More](https://medium.com/p/08abcb3d8a34) |
-| Sat, 31 May 2025 07:40:39 GMT | Your Digital Fortress: Diigoo’s Uncompromised Approach to Online Safety | ArthaChain | [Read More](https://medium.com/p/2d07e41035bb) |
-| Sat, 31 May 2025 07:35:40 GMT | Global Secure Web Gateway Market Size, Share, Industry Insights, Trends, Outlook, Opportunity… | Yamaguchitabithay | [Read More](https://medium.com/p/14f81530722c) |
-| Sat, 31 May 2025 07:33:23 GMT | Roadmap 5 Tahun Menjadi Seorang Pentester: Dari Nol Sampai Pro | Achrfi | [Read More](https://medium.com/p/ed5e490f8f26) |
