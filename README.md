@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 22:16:36 GMT | How to Build a Secure Network Access Strategy Using Software-Defined Perimeter (SDP) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/99abc34e8fcc) |
+| Sat, 31 May 2025 22:12:25 GMT | Nights Like These | Softly Human | [Read More](https://medium.com/p/1dad41ef78cb) |
+| Sat, 31 May 2025 21:55:12 GMT | Adversarial AI 101: A Practical Introduction to Machine Learning Attacks | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/8e04599ac9dc) |
+| Sat, 31 May 2025 21:50:14 GMT | Honeypot Nedir? Gerçek Dünya Senaryoları ve Kurulum ile Kapsamlı Rehber | Eren Erdoğan | [Read More](https://medium.com/p/6456a8204f89) |
+| Sat, 31 May 2025 21:43:26 GMT | DLink DIR 615 Persistence POC | ice-wzl | [Read More](https://medium.com/p/ae65059bb6c9) |
+| Sat, 31 May 2025 21:41:15 GMT | Hack The Box “Cicada” Walkthrough | WireHawk Security | [Read More](https://medium.com/p/2bc392f1f2a1) |
 | Sat, 31 May 2025 21:38:57 GMT | Why AI Apps Need Security from Day One - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/eff9a3e316dd) |
 | Sat, 31 May 2025 21:35:42 GMT | Room 641A | Orgeismail | [Read More](https://medium.com/p/b0d3ef119ad2) |
+| Sat, 31 May 2025 21:34:00 GMT | eWPTXv3 Notes Part1 | Dehni | [Read More](https://medium.com/p/e0bfd8dee46d) |
 | Sat, 31 May 2025 21:30:59 GMT | Secure Code Review Nedir? | Baranteyinn | [Read More](https://medium.com/p/f20ce0513005) |
 | Sat, 31 May 2025 21:26:24 GMT | Surrogate Models Take Center Stage: A Smarter Way to Optimize Quantum Networks | QuantumGenie | [Read More](https://medium.com/p/1863996c38e7) |
 | Sat, 31 May 2025 21:17:06 GMT | DeepSeek API Keys Leak — 1 Million+ Keys Left Public — Breachlog #2 | Ved Trivedi | [Read More](https://medium.com/p/2ae4ae05f109) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 15:02:19 GMT | AI & Web3 A deadly combination? Or we are just assuming things? | Web3 Nautiyal | [Read More](https://medium.com/p/b778077a7d8c) |
 | Sat, 31 May 2025 14:54:33 GMT | Trinity Protocol Deep Dive: Engineering Bulletproof Multi-Chain Security | Chronos Vault | [Read More](https://medium.com/p/7d3a221a71bf) |
 | Sat, 31 May 2025 14:53:35 GMT | I am Back, Sweet Bugs In Smart Contracts: tx.origin | Batuhan Aydın | [Read More](https://medium.com/p/f51ede122365) |
-| Sat, 31 May 2025 14:49:57 GMT | Data Security Posture Management (DSPM): The Evolution of Cloud Data Protection | Hamid Akhtar | [Read More](https://medium.com/p/0db3464e21d6) |
-| Sat, 31 May 2025 14:47:50 GMT | ‍♂️ I Thought I Knew CORS — Until I Had to Explain It | NonCoderSuccess | [Read More](https://medium.com/p/cdb75ace2138) |
-| Sat, 31 May 2025 14:46:38 GMT | Dream Recorder: What if We Could Watch Our Dreams? | @upliftic | [Read More](https://medium.com/p/3443f50eb005) |
-| Sat, 31 May 2025 14:44:02 GMT | Why Data science is not for you:) Not everyone is telling you this… | CS Dharshini | [Read More](https://medium.com/p/f343251a95fc) |
-| Sat, 31 May 2025 14:36:17 GMT | From Zero to Firewall Hero: Books That Guide You | Ahmad Javed | [Read More](https://medium.com/p/bdc36b407ec4) |
-| Sat, 31 May 2025 14:33:22 GMT | Yahoo Breach Retrospective: What We Still Ignore | Ahmad Javed | [Read More](https://medium.com/p/1dfcfe5e4dfb) |
-| Sat, 31 May 2025 14:30:36 GMT | Top 15 Cybersecurity Best Practices for DevOps and Cloud Environments | The Code Journals | [Read More](https://medium.com/p/a2899926d5dc) |
