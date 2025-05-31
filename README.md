@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 14:33:22 GMT | Yahoo Breach Retrospective: What We Still Ignore | Ahmad Javed | [Read More](https://medium.com/p/1dfcfe5e4dfb) |
+| Sat, 31 May 2025 14:30:36 GMT | Top 15 Cybersecurity Best Practices for DevOps and Cloud Environments | The Code Journals | [Read More](https://medium.com/p/a2899926d5dc) |
+| Sat, 31 May 2025 14:30:10 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | The Code Journals | [Read More](https://medium.com/p/1b723cb8b796) |
+| Sat, 31 May 2025 14:22:03 GMT | Days of Recon, One Nuclei Template - Open Redirection Found on NASA. | Gokuleswaran B | [Read More](https://medium.com/p/f44ae3bef0e2) |
+| Sat, 31 May 2025 14:18:17 GMT | Why Your Email Address Is a Privacy Risk (And What You Can Do About It) | Jonny Ruffles | [Read More](https://medium.com/p/7b35174d5f63) |
+| Sat, 31 May 2025 14:13:41 GMT | Data Leak by Abusing World Writable File: Bandit23 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ab468e69238b) |
 | Sat, 31 May 2025 14:10:37 GMT | Server Hardening 101: Next-Level Security for Your Linux Environment (Part 2) | Tomer Klein | [Read More](https://medium.com/p/43570e33d259) |
 | Sat, 31 May 2025 14:09:43 GMT | Wireshark - a complete Packet analysis Project Overview | Megavarnan | [Read More](https://medium.com/p/aabdc2654ecd) |
 | Sat, 31 May 2025 13:59:51 GMT | Bye-Bye-bit? $6,000 Gone in a Click While Bybit P2P Sleeps | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/6cc1a50465c5) |
@@ -109,9 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 08:45:23 GMT | Inside the Shadows: Exploring Fileless Malware Through Hands-On Research | Singhvimahi | [Read More](https://medium.com/p/a9d58796eca0) |
 | Sat, 31 May 2025 08:40:11 GMT | Mastering Reconnaissance: The Ultimate Guide to Uncovering Hidden Vulnerabilities and Expanding… | Rohit Chaudhary | [Read More](https://medium.com/p/def4269078b6) |
 | Sat, 31 May 2025 08:40:06 GMT | EMU Ends China Teaching Programs Amid National Security Scrutiny | Thumbwind Publications | [Read More](https://medium.com/p/e37f23533ab4) |
-| Sat, 31 May 2025 08:33:44 GMT | Earth Lamia: Inside China’s Multi-Vector Cyber Campaign Targeting Critical Infrastructure | Ismail Tasdelen | [Read More](https://medium.com/p/6ff8fc300cae) |
-| Sat, 31 May 2025 08:30:58 GMT | EDDIESTEALER: The New Rust-Based Malware That’s Breaking Chrome’s Security | Ismail Tasdelen | [Read More](https://medium.com/p/1ae92fc0476b) |
-| Sat, 31 May 2025 08:29:18 GMT | Business entity search tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/dd18bd47a636) |
-| Sat, 31 May 2025 08:27:05 GMT | The Linux Concept Journey — sh (Bourne Shell) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a2a4d64106eb) |
-| Sat, 31 May 2025 08:25:02 GMT | The Digital Takedown: How Law Enforcement Dismantled a Major Cybercrime Infrastructure ️‍♂️ | Ismail Tasdelen | [Read More](https://medium.com/p/70aa0aca4c92) |
-| Sat, 31 May 2025 08:15:22 GMT | SipHash and WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/87b8461d1d06) |
