@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 21:38:57 GMT | Why AI Apps Need Security from Day One - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/eff9a3e316dd) |
+| Sat, 31 May 2025 21:35:42 GMT | Room 641A | Orgeismail | [Read More](https://medium.com/p/b0d3ef119ad2) |
+| Sat, 31 May 2025 21:30:59 GMT | Secure Code Review Nedir? | Baranteyinn | [Read More](https://medium.com/p/f20ce0513005) |
+| Sat, 31 May 2025 21:26:24 GMT | Surrogate Models Take Center Stage: A Smarter Way to Optimize Quantum Networks | QuantumGenie | [Read More](https://medium.com/p/1863996c38e7) |
+| Sat, 31 May 2025 21:17:06 GMT | DeepSeek API Keys Leak — 1 Million+ Keys Left Public — Breachlog #2 | Ved Trivedi | [Read More](https://medium.com/p/2ae4ae05f109) |
 | Sat, 31 May 2025 21:08:54 GMT | The silent bug that took down my app | Serhii Hryshyn | [Read More](https://medium.com/p/98ae3ef76b7c) |
 | Sat, 31 May 2025 21:03:51 GMT | U.S. DoJ Seizes Domains Supporting Cybercrime in Global Malware Disruption | Ronit Yadav | [Read More](https://medium.com/p/6a33dbac7190) |
 | Sat, 31 May 2025 20:59:08 GMT | Cybersecurity in 2025: A Simple Guide for Students and Beginners | Abdii Ahmed | [Read More](https://medium.com/p/9149c0b8ca43) |
+| Sat, 31 May 2025 20:50:05 GMT | Tratamiento de la información | Wilmin Sadiel | [Read More](https://medium.com/p/fcba15108bde) |
 | Sat, 31 May 2025 20:49:42 GMT | Boost Your Safety: Which of the Following is an Example of a Strong Password for Cyber Awareness… | Tahashaikhseo | [Read More](https://medium.com/p/c793ab484a4f) |
 | Sat, 31 May 2025 20:34:18 GMT | ️ Manual OSINT vs API/Automation OSINT — Which One Actually Wins? | Rajput Haxor | [Read More](https://medium.com/p/6fb0c978915d) |
 | Sat, 31 May 2025 20:27:38 GMT | A few months ago, I fell victim to a fake hack online and lost access to my Bitcoin (BTC). | Jurgenhans | [Read More](https://medium.com/p/41deb083aadc) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 14:36:17 GMT | From Zero to Firewall Hero: Books That Guide You | Ahmad Javed | [Read More](https://medium.com/p/bdc36b407ec4) |
 | Sat, 31 May 2025 14:33:22 GMT | Yahoo Breach Retrospective: What We Still Ignore | Ahmad Javed | [Read More](https://medium.com/p/1dfcfe5e4dfb) |
 | Sat, 31 May 2025 14:30:36 GMT | Top 15 Cybersecurity Best Practices for DevOps and Cloud Environments | The Code Journals | [Read More](https://medium.com/p/a2899926d5dc) |
-| Sat, 31 May 2025 14:30:10 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | The Code Journals | [Read More](https://medium.com/p/1b723cb8b796) |
-| Sat, 31 May 2025 14:22:03 GMT | Days of Recon, One Nuclei Template - Open Redirection Found on NASA. | Gokuleswaran B | [Read More](https://medium.com/p/f44ae3bef0e2) |
-| Sat, 31 May 2025 14:18:17 GMT | Why Your Email Address Is a Privacy Risk (And What You Can Do About It) | Jonny Ruffles | [Read More](https://medium.com/p/7b35174d5f63) |
-| Sat, 31 May 2025 14:13:41 GMT | Data Leak by Abusing World Writable File: Bandit23 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ab468e69238b) |
-| Sat, 31 May 2025 14:10:37 GMT | Server Hardening 101: Next-Level Security for Your Linux Environment (Part 2) | Tomer Klein | [Read More](https://medium.com/p/43570e33d259) |
-| Sat, 31 May 2025 14:09:43 GMT | Wireshark - a complete Packet analysis Project Overview | Megavarnan | [Read More](https://medium.com/p/aabdc2654ecd) |
