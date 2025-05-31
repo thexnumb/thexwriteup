@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 13:40:20 GMT | 5 Years Roadmap for SOC Analyst | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/41324071743e) |
+| Sat, 31 May 2025 13:34:32 GMT | SQL Injection Tutorial: Exploiting an E-commerce Login Page | Anmolvishwakarma | [Read More](https://medium.com/p/fe3053af7234) |
+| Sat, 31 May 2025 13:32:27 GMT | ️ Ettercap and ARP Spoofing for Man-in-the-Middle (MITM) Attacks | Esra Kayhan | [Read More](https://medium.com/p/3a8cc4442fd3) |
+| Sat, 31 May 2025 13:31:41 GMT | 30 Days of Cyber Security — Day 5: Jaringan Dasar — DNS, IP, Subnetting CIDR, dan OSI Layer | Indra Rahmat Maulidi | [Read More](https://medium.com/p/b3174ec9eb77) |
 | Sat, 31 May 2025 13:27:22 GMT | Malware Analysis Certification | bl77rd | [Read More](https://medium.com/p/988b3256395a) |
 | Sat, 31 May 2025 13:19:15 GMT | 5-Year Journey in Cybersecurity (2025–2030): A Roadmap Toward Professional Development | Raihan fadhilah | [Read More](https://medium.com/p/c11eea57d3f3) |
 | Sat, 31 May 2025 13:12:44 GMT | How Effective Is Data Governance in the Era of AI-Driven Cyber Threats? | Kumar Rohit | [Read More](https://medium.com/p/e75e5a5d0471) |
@@ -111,7 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 07:40:39 GMT | Your Digital Fortress: Diigoo’s Uncompromised Approach to Online Safety | ArthaChain | [Read More](https://medium.com/p/2d07e41035bb) |
 | Sat, 31 May 2025 07:35:40 GMT | Global Secure Web Gateway Market Size, Share, Industry Insights, Trends, Outlook, Opportunity… | Yamaguchitabithay | [Read More](https://medium.com/p/14f81530722c) |
 | Sat, 31 May 2025 07:33:23 GMT | Roadmap 5 Tahun Menjadi Seorang Pentester: Dari Nol Sampai Pro | Achrfi | [Read More](https://medium.com/p/ed5e490f8f26) |
-| Sat, 31 May 2025 07:32:28 GMT | When XSS Payloads Became My Reddit Password: A Bug That’s Not a Bug (But Still… Kinda Is) | CyberTechAjju | [Read More](https://medium.com/p/095915a5feef) |
-| Sat, 31 May 2025 07:30:32 GMT | Quantum Key Distribution for Cross-Continent Secure Links: The Dawn of Unbreakable Communication | A-STAR7_DOCTOR | [Read More](https://medium.com/p/49a6e5b78517) |
-| Sat, 31 May 2025 07:20:41 GMT | Penggunaan Dasar Jaringan dengan Cisco Packet Tracer | Riski Hidayat | [Read More](https://medium.com/p/647f0b358658) |
-| Sat, 31 May 2025 07:17:26 GMT | Why Sleep is the Ultimate Productivity Hack (Backed by Science) | self impro.. | [Read More](https://medium.com/p/f7ec84d54c62) |
