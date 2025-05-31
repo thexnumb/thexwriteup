@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 03:35:49 GMT | Who Was the First Bitcoin Miner? | Kevin Heuzey | [Read More](https://medium.com/p/18583936e71a) |
+| Sat, 31 May 2025 03:32:30 GMT | Tinyauth : Simplest Authentication for Your Self-Hosted Apps | Saisamarth Udikeri | [Read More](https://medium.com/p/6c37b11f4853) |
+| Sat, 31 May 2025 03:32:30 GMT | When Old Passwords Strike Back: Inside the Cyber Attacks on Australian Super Funds | Deven Chhajed | [Read More](https://medium.com/p/91633e1d759e) |
+| Sat, 31 May 2025 03:29:50 GMT | Burp Suite: Intruder — In-Depth Notes | Chai | [Read More](https://medium.com/p/7ee56c5e42c8) |
+| Sat, 31 May 2025 03:28:39 GMT | AI Resources | Teri Radichel | [Read More](https://medium.com/p/c7fa65447f3c) |
+| Sat, 31 May 2025 03:27:34 GMT | What I Learned Publishing 5 Technical Blogs in 7 Days on Medium | Faruk Ahmed | [Read More](https://medium.com/p/7b130d6b88fb) |
+| Sat, 31 May 2025 03:27:26 GMT | ️ Microsoft Defender for Cloud: Proactive Security for a Hybrid World | Jacky Yau | [Read More](https://medium.com/p/19c073e32e9e) |
+| Sat, 31 May 2025 03:19:21 GMT | The real sense of security is not how much you have, but how much anxiety you let go. | Lucas Verin | [Read More](https://medium.com/p/23da6655e12a) |
+| Sat, 31 May 2025 03:14:12 GMT | Bug! เต็มจอทีมหัวจะปวด! | "วันละเรื่องสองเรื่อง" (Two Stories a Day) | [Read More](https://medium.com/p/cfacf599141b) |
 | Sat, 31 May 2025 02:55:32 GMT | Cypher — HackTheBox(Medium level difficulty machine) | Mohamed Aamir Khan | [Read More](https://medium.com/p/0cc331e1f3b5) |
 | Sat, 31 May 2025 02:54:51 GMT | Maximize Your Passive Income with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/3c55167eb515) |
 | Sat, 31 May 2025 02:53:09 GMT | Cyberlog #1 — The Beginning of an Adventure at IDN Bootcamp | NafyCat69 | [Read More](https://medium.com/p/3c1f94bc19b5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 18:45:36 GMT | When Automation Backfires: Flaws in Smart Contract Timers and Scheduled Logic | Web3 Nautiyal | [Read More](https://medium.com/p/50c906313ea4) |
 | Fri, 30 May 2025 18:42:08 GMT | Beginner-Level Active Directory Lab with BadBlood & Forest Druid | Collins Aladekugbe | [Read More](https://medium.com/p/4b7b9c9f6ae8) |
 | Fri, 30 May 2025 18:36:47 GMT | How HIPAA Compliance Protects Patient Trust and Medical Data | Auditify Security | [Read More](https://medium.com/p/c0e300ccb790) |
-| Fri, 30 May 2025 18:27:36 GMT | WannaCry Zararlısının Teknik İncelemesi ve Süreç Tabanlı Analizi | Yusuf Kürüm | [Read More](https://medium.com/p/ade223eeca88) |
-| Fri, 30 May 2025 18:26:38 GMT | Sehar-e-Himmat — A Beacon Against Cyberbullying | iqra mukhtar | [Read More](https://medium.com/p/5f2fb2582d8b) |
-| Fri, 30 May 2025 18:23:21 GMT | Android Runtime: Dalvik ve ART Mimarileri, Çalışma Prensipleri, Farklılıkları ve Donanım Üzerindeki… | Emir KILIÇ | [Read More](https://medium.com/p/71f77910f219) |
-| Fri, 30 May 2025 18:21:24 GMT | My Journey to NASA’s Hall of Fame | Hack-Bat | [Read More](https://medium.com/p/6e680736f557) |
-| Fri, 30 May 2025 18:14:16 GMT | What Are You So Afraid Of? Love… or Wasting Your Time Again? | Nafisat Abimbola Akanni | [Read More](https://medium.com/p/649370c95acc) |
-| Fri, 30 May 2025 18:13:25 GMT | A Mutex Loop | Montel Oliver | [Read More](https://medium.com/p/1ed4aca861dc) |
-| Fri, 30 May 2025 18:05:42 GMT | WannaCry Fidye Yazılımı: Nasıl Çalıştı, Kimler Etkilendi, Fidye Yazılımlardan Nasıl Korunuruz? | Çağlar Suvari | [Read More](https://medium.com/p/933b35161f6b) |
-| Fri, 30 May 2025 18:00:35 GMT | I will write engineering, tech, software engineer, superintendent, construction resume | Ciciliajane | [Read More](https://medium.com/p/694b3dba8bba) |
-| Fri, 30 May 2025 18:00:35 GMT | The Shadow Beneath the Surface: Unpacking the Rise of Pure Crypter and Its Implications for… | Siva Gunasekaran | [Read More](https://medium.com/p/c341a5cb9622) |
