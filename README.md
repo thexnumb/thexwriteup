@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 15:14:59 GMT | Introducing TSreconX! | MR Jamal Mohamed | [Read More](https://medium.com/p/2f860497874c) |
+| Sat, 31 May 2025 15:12:02 GMT | Captain VM Has Been Pwned! | Dylan Choez | [Read More](https://medium.com/p/ad713d0b55e8) |
+| Sat, 31 May 2025 15:11:24 GMT | TryHackMe-Evading Logging and Monitoring | Mohamed Ashraf | [Read More](https://medium.com/p/133a08dde7a2) |
+| Sat, 31 May 2025 15:04:46 GMT | #Introduction to Cybersecurity | Jai Rathore | [Read More](https://medium.com/p/fa31221cc4a8) |
+| Sat, 31 May 2025 15:02:19 GMT | AI & Web3 A deadly combination? Or we are just assuming things? | Web3 Nautiyal | [Read More](https://medium.com/p/b778077a7d8c) |
+| Sat, 31 May 2025 14:54:33 GMT | Trinity Protocol Deep Dive: Engineering Bulletproof Multi-Chain Security | Chronos Vault | [Read More](https://medium.com/p/7d3a221a71bf) |
+| Sat, 31 May 2025 14:53:35 GMT | I am Back, Sweet Bugs In Smart Contracts: tx.origin | Batuhan Aydın | [Read More](https://medium.com/p/f51ede122365) |
+| Sat, 31 May 2025 14:49:57 GMT | Data Security Posture Management (DSPM): The Evolution of Cloud Data Protection | Hamid Akhtar | [Read More](https://medium.com/p/0db3464e21d6) |
+| Sat, 31 May 2025 14:47:50 GMT | ‍♂️ I Thought I Knew CORS — Until I Had to Explain It | NonCoderSuccess | [Read More](https://medium.com/p/cdb75ace2138) |
+| Sat, 31 May 2025 14:46:38 GMT | Dream Recorder: What if We Could Watch Our Dreams? | @upliftic | [Read More](https://medium.com/p/3443f50eb005) |
+| Sat, 31 May 2025 14:44:02 GMT | Why Data science is not for you:) Not everyone is telling you this… | CS Dharshini | [Read More](https://medium.com/p/f343251a95fc) |
+| Sat, 31 May 2025 14:36:17 GMT | From Zero to Firewall Hero: Books That Guide You | Ahmad Javed | [Read More](https://medium.com/p/bdc36b407ec4) |
 | Sat, 31 May 2025 14:33:22 GMT | Yahoo Breach Retrospective: What We Still Ignore | Ahmad Javed | [Read More](https://medium.com/p/1dfcfe5e4dfb) |
 | Sat, 31 May 2025 14:30:36 GMT | Top 15 Cybersecurity Best Practices for DevOps and Cloud Environments | The Code Journals | [Read More](https://medium.com/p/a2899926d5dc) |
 | Sat, 31 May 2025 14:30:10 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | The Code Journals | [Read More](https://medium.com/p/1b723cb8b796) |
@@ -103,15 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 09:40:18 GMT | Role of AI in Cybersecurity | Jeevesh W | [Read More](https://medium.com/p/79ac7eba6351) |
 | Sat, 31 May 2025 09:39:47 GMT | Cybersecurity Meets Resilience: My Thoughts on SEBI CSCRF | Chandan Bhattacharya | [Read More](https://medium.com/p/692884c67587) |
 | Sat, 31 May 2025 09:38:01 GMT | Here’s How I Recover My Money From Blackcatcard | Daniela Muller | [Read More](https://medium.com/p/368da4d25725) |
-| Sat, 31 May 2025 09:18:13 GMT | Introduction to Computer Networks Part 1 | Chance At Cybersecurity | [Read More](https://medium.com/p/0c8f4d882062) |
-| Sat, 31 May 2025 09:14:44 GMT | Command Injection via PHP File Upload in an College Recruitment Registration Portal | Anonymousshetty | [Read More](https://medium.com/p/034e56e89006) |
-| Sat, 31 May 2025 09:12:50 GMT | How Canada’s Bill C-27 Is Changing the Rules for AI and Data Privacy | Muddasir Zaib | [Read More](https://medium.com/p/b80a31ba7ce6) |
-| Sat, 31 May 2025 09:06:02 GMT | Qwen 3 UNMASKED: Beyond Benchmarks, the Shocking Revelation of its Internal “China Policy”! | ParlonsIA | [Read More](https://medium.com/p/350c2dd70f9d) |
-| Sat, 31 May 2025 09:04:12 GMT | Mobile Acquisition – TryHackMe Walkthrough and Analysis | Nitesh | [Read More](https://medium.com/p/a17846e0fe0f) |
-| Sat, 31 May 2025 09:00:52 GMT | Securing Linux Servers with Fail2ban: An In-Depth Guide to Enhancing Protection and Performance | Anh Trần Tuấn | [Read More](https://medium.com/p/fe6ebb1a745f) |
-| Sat, 31 May 2025 09:00:48 GMT | Securing Linux Servers with Fail2ban: An In-Depth Guide to Enhancing Protection and Performance | Anh Trần Tuấn | [Read More](https://medium.com/p/7cd0e527ec00) |
-| Sat, 31 May 2025 08:57:57 GMT | ️ How to Secure Your WiFi and Keep Hackers Out. | Tolorunju Oluwasegun | [Read More](https://medium.com/p/37e5d3ad4f46) |
-| Sat, 31 May 2025 08:47:24 GMT | Zero-Day WordPress Plugin Vulnerability Research | AbhirupKonwar | [Read More](https://medium.com/p/275372d36781) |
-| Sat, 31 May 2025 08:45:23 GMT | Inside the Shadows: Exploring Fileless Malware Through Hands-On Research | Singhvimahi | [Read More](https://medium.com/p/a9d58796eca0) |
-| Sat, 31 May 2025 08:40:11 GMT | Mastering Reconnaissance: The Ultimate Guide to Uncovering Hidden Vulnerabilities and Expanding… | Rohit Chaudhary | [Read More](https://medium.com/p/def4269078b6) |
-| Sat, 31 May 2025 08:40:06 GMT | EMU Ends China Teaching Programs Amid National Security Scrutiny | Thumbwind Publications | [Read More](https://medium.com/p/e37f23533ab4) |
