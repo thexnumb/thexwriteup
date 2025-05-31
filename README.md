@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 15:33:03 GMT | My Beginner’s Journey: Using Raspberry Pi Pico W to Explore BadUSB Attacks | Agape HearTs | [Read More](https://medium.com/p/21c75c688731) |
+| Sat, 31 May 2025 15:27:49 GMT | Inside the Black Box: How US Border Agents Crack Your Devices | Denis | [Read More](https://medium.com/p/3db0183ef1f0) |
+| Sat, 31 May 2025 15:19:46 GMT | Demystifying IEnumerable in C#: The Backbone of Iteration | Brian Mora | [Read More](https://medium.com/p/7bde60390338) |
 | Sat, 31 May 2025 15:14:59 GMT | Introducing TSreconX! | MR Jamal Mohamed | [Read More](https://medium.com/p/2f860497874c) |
 | Sat, 31 May 2025 15:12:02 GMT | Captain VM Has Been Pwned! | Dylan Choez | [Read More](https://medium.com/p/ad713d0b55e8) |
 | Sat, 31 May 2025 15:11:24 GMT | TryHackMe-Evading Logging and Monitoring | Mohamed Ashraf | [Read More](https://medium.com/p/133a08dde7a2) |
@@ -112,6 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 09:44:28 GMT | How Can I Recover My Scammed $78,400 from a Fake Bitcoin Investment Scam? | Crime All Day | [Read More](https://medium.com/p/d5597890cd7d) |
 | Sat, 31 May 2025 09:43:43 GMT | Blackcatcard Review - Is It Legit Or Scam | Daniela Muller | [Read More](https://medium.com/p/c698af5bbecb) |
 | Sat, 31 May 2025 09:42:16 GMT | Your VPN Is a Joke Against This Kind of Power | Lucifer Jeufo | [Read More](https://medium.com/p/16276ff11841) |
-| Sat, 31 May 2025 09:40:18 GMT | Role of AI in Cybersecurity | Jeevesh W | [Read More](https://medium.com/p/79ac7eba6351) |
-| Sat, 31 May 2025 09:39:47 GMT | Cybersecurity Meets Resilience: My Thoughts on SEBI CSCRF | Chandan Bhattacharya | [Read More](https://medium.com/p/692884c67587) |
-| Sat, 31 May 2025 09:38:01 GMT | Here’s How I Recover My Money From Blackcatcard | Daniela Muller | [Read More](https://medium.com/p/368da4d25725) |
