@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 19:23:39 GMT | Cyber Security — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/09d59903a9f9) |
+| Sat, 31 May 2025 19:19:58 GMT | Mail Hesabına Authenticator Ekleme | Kaan Can Calkan | [Read More](https://medium.com/p/0a23ff1cf22f) |
+| Sat, 31 May 2025 19:19:08 GMT | CVE-2025–47539: WordPress Plugin Exploit Lets Attackers Become Admin — No Login Needed | Sachin kewat | [Read More](https://medium.com/p/df62dedf85ac) |
 | Sat, 31 May 2025 19:14:02 GMT | Cloud Compliance Gap Analysis: Identifying Risks in AWS Using NIST CSF | Sophia Mitchell | [Read More](https://medium.com/p/88735f5b130c) |
 | Sat, 31 May 2025 19:12:36 GMT | Top 10 Cybersecurity Breaches of 2025 and What We Can Learn | Stealseek | [Read More](https://medium.com/p/f5c37e47d40f) |
 | Sat, 31 May 2025 19:07:56 GMT | Behind the Scenes: How SQLMap Retrieves Database Using Time-Based Blind SQL Injection | BobTeJaS | [Read More](https://medium.com/p/df10bde18210) |
@@ -113,6 +116,3 @@ ___ __________________
 | Sat, 31 May 2025 12:56:11 GMT | Designing Post-Quantum-Resistant Cloud Infrastructure | A-STAR7_DOCTOR | [Read More](https://medium.com/p/45df73bbf38a) |
 | Sat, 31 May 2025 12:55:36 GMT | How I drastically reduced the time spent managing my emails | Laurent MOULIN | [Read More](https://medium.com/p/a1f80df682b3) |
 | Sat, 31 May 2025 12:55:33 GMT | Understanding PKI, HTTPS, and Certificates: How the Internet Stays Secure ️ | Mahalingam SRE | [Read More](https://medium.com/p/8d5779244085) |
-| Sat, 31 May 2025 12:52:35 GMT | Microservices Under Siege: Mastering Security with Real-World Scenarios & Modern Tech | Lets Learn Now | [Read More](https://medium.com/p/c4eeec532827) |
-| Sat, 31 May 2025 12:41:03 GMT | AI-Driven Cybersecurity: New Careers on the Horizon | Tejus C | [Read More](https://medium.com/p/64a5137e04ba) |
-| Sat, 31 May 2025 12:35:59 GMT | Facebook App Secret Exposed in GlassWire Binary | Monika sharma | [Read More](https://medium.com/p/e8a4e99afb27) |
