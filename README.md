@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 20:17:29 GMT | Quantum Resilience Starts Now: Building Secure Infrastructure with Hybrid Cryptography | Rakesh Keshava | [Read More](https://medium.com/p/60943448433e) |
+| Sat, 31 May 2025 20:17:09 GMT | Fast & Malicious: A Study On Generation of Tokens/Time on Benign vs Malicious Prompts | Tomer Wetzler | [Read More](https://medium.com/p/accbd72b6778) |
+| Sat, 31 May 2025 20:02:24 GMT | ️ Transport Layer (Layer 4) — OSI Model | Midhun Thomas | [Read More](https://medium.com/p/d3f6b7e73ff4) |
+| Sat, 31 May 2025 20:02:11 GMT | Network Down, What’s Wrong? Basic Computer Network Troubleshooting with Cisco Packet Tracer | Steven Juliano | [Read More](https://medium.com/p/970250438db2) |
+| Sat, 31 May 2025 19:52:10 GMT | Why You Should Never Click on Links You Don’t Trust — A Security Tester’s Experience | P T | [Read More](https://medium.com/p/e0f0da95b4f8) |
+| Sat, 31 May 2025 19:48:49 GMT | Networking — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/2e1aeeb38dd1) |
+| Sat, 31 May 2025 19:40:19 GMT | Introduction to SQL Injection | xk4libur | [Read More](https://medium.com/p/f5793566afff) |
+| Sat, 31 May 2025 19:36:16 GMT | “Vibe Coding” and its risks, how to mitigate them? | ISHII (石井) | [Read More](https://medium.com/p/e5b00fd2e434) |
+| Sat, 31 May 2025 19:35:03 GMT | Run SCA and SAST scans on your project | Gaganpreet Kaur Kalsi | [Read More](https://medium.com/p/d702c8cc51b4) |
+| Sat, 31 May 2025 19:33:43 GMT | Analisando algumas técnicas MITRE ATT&CK® | Moprius | [Read More](https://medium.com/p/2d9144a4f4aa) |
+| Sat, 31 May 2025 19:32:21 GMT | SOC Analysis of Event 249: SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability… | Ray Maiden | [Read More](https://medium.com/p/6d16b11cfa67) |
 | Sat, 31 May 2025 19:23:39 GMT | Cyber Security — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/09d59903a9f9) |
 | Sat, 31 May 2025 19:19:58 GMT | Mail Hesabına Authenticator Ekleme | Kaan Can Calkan | [Read More](https://medium.com/p/0a23ff1cf22f) |
 | Sat, 31 May 2025 19:19:08 GMT | CVE-2025–47539: WordPress Plugin Exploit Lets Attackers Become Admin — No Login Needed | Sachin kewat | [Read More](https://medium.com/p/df62dedf85ac) |
@@ -102,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 13:34:32 GMT | SQL Injection Tutorial: Exploiting an E-commerce Login Page | Anmolvishwakarma | [Read More](https://medium.com/p/fe3053af7234) |
 | Sat, 31 May 2025 13:32:27 GMT | ️ Ettercap and ARP Spoofing for Man-in-the-Middle (MITM) Attacks | Esra Kayhan | [Read More](https://medium.com/p/3a8cc4442fd3) |
 | Sat, 31 May 2025 13:31:41 GMT | 30 Days of Cyber Security — Day 5: Jaringan Dasar — DNS, IP, Subnetting CIDR, dan OSI Layer | Indra Rahmat Maulidi | [Read More](https://medium.com/p/b3174ec9eb77) |
-| Sat, 31 May 2025 13:27:22 GMT | Malware Analysis Certification | bl77rd | [Read More](https://medium.com/p/988b3256395a) |
-| Sat, 31 May 2025 13:19:15 GMT | 5-Year Journey in Cybersecurity (2025–2030): A Roadmap Toward Professional Development | Raihan fadhilah | [Read More](https://medium.com/p/c11eea57d3f3) |
-| Sat, 31 May 2025 13:12:44 GMT | How Effective Is Data Governance in the Era of AI-Driven Cyber Threats? | Kumar Rohit | [Read More](https://medium.com/p/e75e5a5d0471) |
-| Sat, 31 May 2025 13:12:31 GMT | Automated Exploit Usage and Module Development with Metasploit Framework | Esra Kayhan | [Read More](https://medium.com/p/8a26707f4769) |
-| Sat, 31 May 2025 13:03:38 GMT | "When Even Breathing Feels Like a Burden" | @OfficiallyMarvi | [Read More](https://medium.com/p/df763bb4356b) |
-| Sat, 31 May 2025 13:00:56 GMT | Mode Pribadi: Ekspektasi VS Realita | Jihad Dinullah Akbar | [Read More](https://medium.com/p/b64a59879d5a) |
-| Sat, 31 May 2025 12:58:48 GMT | My Roadmap 5 Years ahead | skeremo | [Read More](https://medium.com/p/afaf0812bdbd) |
-| Sat, 31 May 2025 12:57:36 GMT | • E BOOK HACKING/CYBER SECURITY ORIGINAL
-___ __________________
-- advance penetration testing
--… | ditt__ | [Read More](https://medium.com/p/25df583b9e04) |
-| Sat, 31 May 2025 12:56:11 GMT | Designing Post-Quantum-Resistant Cloud Infrastructure | A-STAR7_DOCTOR | [Read More](https://medium.com/p/45df73bbf38a) |
-| Sat, 31 May 2025 12:55:36 GMT | How I drastically reduced the time spent managing my emails | Laurent MOULIN | [Read More](https://medium.com/p/a1f80df682b3) |
-| Sat, 31 May 2025 12:55:33 GMT | Understanding PKI, HTTPS, and Certificates: How the Internet Stays Secure ️ | Mahalingam SRE | [Read More](https://medium.com/p/8d5779244085) |
