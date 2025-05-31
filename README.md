@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 05:31:40 GMT | ️ Roadmap Cyber Security 5 Tahun: Dari Mahasiswa Gabut ke Guardian Digital | Ninjaiii | [Read More](https://medium.com/p/8c8aebca4e52) |
+| Sat, 31 May 2025 05:25:32 GMT | The Teen Hacker Who Took Down a Billion-Dollar Company | Mr Vale | [Read More](https://medium.com/p/c06c402e33ba) |
+| Sat, 31 May 2025 05:24:01 GMT | 5-Year Roadmap to Becoming a Cybersecurity Professional | HETSHI | [Read More](https://medium.com/p/6045542cf7a0) |
 | Sat, 31 May 2025 05:04:42 GMT | You Should Know About This Bug, XMLRPC, WordPress. | Charon19d | [Read More](https://medium.com/p/4604e29a8908) |
 | Sat, 31 May 2025 04:57:51 GMT | From Cables to Configuration: What Networking Taught Me About Systems Thinking | Joshua Jolly Lumbuye | [Read More](https://medium.com/p/641769d99dfd) |
 | Sat, 31 May 2025 04:51:17 GMT | Threat Modeling: Hack-Proof Your Apps with Case Studies-Part2 | DrSecurityGuru | [Read More](https://medium.com/p/f2312e000a4e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 19:45:37 GMT | Australia’s New Ransomware Reporting Law: What Businesses Must Know in 2025 | Ronit Yadav | [Read More](https://medium.com/p/5c0f46b294d9) |
 | Fri, 30 May 2025 19:39:54 GMT | SOC102 — EventID 35 — Suspicious URL Detected |  | [Read More](https://medium.com/p/ce3b9bff8734) |
 | Fri, 30 May 2025 19:39:45 GMT | DNS Cache Poisoning: The Invisible Hacker in the Network | Pouya aftabi | [Read More](https://medium.com/p/a0356c4a27ab) |
-| Fri, 30 May 2025 19:31:40 GMT | Nation-State Breach at ConnectWise: Unpacking the Real Threat to Managed Service Providers and… | Chetan Seripally | [Read More](https://medium.com/p/2df1543b898a) |
-| Fri, 30 May 2025 19:20:35 GMT | G1004 LAPSUS$ APT Grubu: | Yusuf Kürüm | [Read More](https://medium.com/p/c2b5ed2b6f45) |
-| Fri, 30 May 2025 19:15:06 GMT | Why I Use Read-Only Partitions on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/b2e8f43c3b0f) |
