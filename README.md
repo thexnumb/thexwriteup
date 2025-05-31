@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 10:38:13 GMT | Intelligent Automation Trends and Predictions 2025 | MIT School of Distance Education | [Read More](https://medium.com/p/ae459f4449ca) |
+| Sat, 31 May 2025 10:35:55 GMT | Here’s How I Recover My Money From Quantum Ai | YvonneSchroeder | [Read More](https://medium.com/p/331334c39eea) |
+| Sat, 31 May 2025 10:31:56 GMT | ☁️ SSRF in Cloud Environments: Exploiting AWS Metadata Services Explained with  Scenarios… | Zoningxtr | [Read More](https://medium.com/p/b5b86d24d999) |
+| Sat, 31 May 2025 10:30:52 GMT | What OffSec Beginners are really struggling with — and how you can break through | Niklas Heringer | [Read More](https://medium.com/p/2667a7843405) |
+| Sat, 31 May 2025 10:26:41 GMT | ️ HTB Machine: Sequel — Write-up by Fadlu | Fadhlur rohman | [Read More](https://medium.com/p/43797461f062) |
+| Sat, 31 May 2025 10:25:20 GMT | Aligning NIST CSF Organizational Profiles, Community Profiles, and the AI Risk Management… | Danish | [Read More](https://medium.com/p/de8a5bda44b7) |
+| Sat, 31 May 2025 10:13:54 GMT | Boost Your Safety: Which of the Following is an Example of a Strong Password for Cyber Awareness… | Tahashaikhseo | [Read More](https://medium.com/p/5d528f630bb0) |
 | Sat, 31 May 2025 10:06:01 GMT | Domain (Renewal) Pricings going UP | Mohammed Brückner | [Read More](https://medium.com/p/7d3221205dd4) |
 | Sat, 31 May 2025 10:03:15 GMT | Open Letter to the International Community Medical Terrorism | SIMKRA | [Read More](https://medium.com/p/96878dc73ff9) |
 | Sat, 31 May 2025 10:02:09 GMT | therocktrading.com Reviews — Recovery just got Easier | Nadine Konig | [Read More](https://medium.com/p/acfec6c86657) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 03:27:34 GMT | What I Learned Publishing 5 Technical Blogs in 7 Days on Medium | Faruk Ahmed | [Read More](https://medium.com/p/7b130d6b88fb) |
 | Sat, 31 May 2025 03:27:26 GMT | ️ Microsoft Defender for Cloud: Proactive Security for a Hybrid World | Jacky Yau | [Read More](https://medium.com/p/19c073e32e9e) |
 | Sat, 31 May 2025 03:19:21 GMT | The real sense of security is not how much you have, but how much anxiety you let go. | Lucas Verin | [Read More](https://medium.com/p/23da6655e12a) |
-| Sat, 31 May 2025 03:14:12 GMT | Bug! เต็มจอทีมหัวจะปวด! | "วันละเรื่องสองเรื่อง" (Two Stories a Day) | [Read More](https://medium.com/p/cfacf599141b) |
-| Sat, 31 May 2025 02:55:32 GMT | Cypher — HackTheBox(Medium level difficulty machine) | Mohamed Aamir Khan | [Read More](https://medium.com/p/0cc331e1f3b5) |
-| Sat, 31 May 2025 02:54:51 GMT | Maximize Your Passive Income with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/3c55167eb515) |
-| Sat, 31 May 2025 02:53:09 GMT | Cyberlog #1 — The Beginning of an Adventure at IDN Bootcamp | NafyCat69 | [Read More](https://medium.com/p/3c1f94bc19b5) |
-| Sat, 31 May 2025 02:16:07 GMT | AI in Government: How Artificial Intelligence is Reshaping Public Services in 2025. | Ddm atiq | [Read More](https://medium.com/p/b4b2e3dd432a) |
-| Sat, 31 May 2025 02:11:47 GMT | How Vulnerability Builds Belonging | Brianna O'Keefe | [Read More](https://medium.com/p/5b885698c3f6) |
-| Sat, 31 May 2025 01:59:39 GMT | AI's Rebellion: When the Tools We Created Start Ignoring Us | Majeztik SlumBoi / Julius Crawford | [Read More](https://medium.com/p/09202133835b) |
