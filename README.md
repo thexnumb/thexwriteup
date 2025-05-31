@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 19:14:02 GMT | Cloud Compliance Gap Analysis: Identifying Risks in AWS Using NIST CSF | Sophia Mitchell | [Read More](https://medium.com/p/88735f5b130c) |
+| Sat, 31 May 2025 19:12:36 GMT | Top 10 Cybersecurity Breaches of 2025 and What We Can Learn | Stealseek | [Read More](https://medium.com/p/f5c37e47d40f) |
+| Sat, 31 May 2025 19:07:56 GMT | Behind the Scenes: How SQLMap Retrieves Database Using Time-Based Blind SQL Injection | BobTeJaS | [Read More](https://medium.com/p/df10bde18210) |
+| Sat, 31 May 2025 18:53:49 GMT | ‘How to Get’ vs ‘How to Keep’ | Muhammaddhiwaulakbar | [Read More](https://medium.com/p/96c594815edb) |
+| Sat, 31 May 2025 18:50:24 GMT | A 5 years roadmap of cyber Security — A campaign of cyber security | Hammam Awis Zukimi | [Read More](https://medium.com/p/564831f22e57) |
+| Sat, 31 May 2025 18:46:02 GMT | The Art of Debugging: A Beginner’s Guide | BugSmashers | [Read More](https://medium.com/p/e857978bad4e) |
 | Sat, 31 May 2025 18:27:35 GMT | ️ Red Teaming: Simulating Real-World Cyber Attacks to Fortify Your Defenses | Smdefencerabbit | [Read More](https://medium.com/p/6df36fb54c04) |
 | Sat, 31 May 2025 18:27:11 GMT | System Integration Blind Spots | Khod4li | [Read More](https://medium.com/p/663e5da2c8c5) |
 | Sat, 31 May 2025 18:24:17 GMT | Roadmap menjadi Cyber Security dalam 5 tahun | Donal | [Read More](https://medium.com/p/e2562230734c) |
@@ -110,9 +116,3 @@ ___ __________________
 | Sat, 31 May 2025 12:52:35 GMT | Microservices Under Siege: Mastering Security with Real-World Scenarios & Modern Tech | Lets Learn Now | [Read More](https://medium.com/p/c4eeec532827) |
 | Sat, 31 May 2025 12:41:03 GMT | AI-Driven Cybersecurity: New Careers on the Horizon | Tejus C | [Read More](https://medium.com/p/64a5137e04ba) |
 | Sat, 31 May 2025 12:35:59 GMT | Facebook App Secret Exposed in GlassWire Binary | Monika sharma | [Read More](https://medium.com/p/e8a4e99afb27) |
-| Sat, 31 May 2025 12:35:16 GMT | Unauthenticated Kibana Dashboard Access — A Serious Security Risk You Can’t Ignore | Pratik Dabhi | [Read More](https://medium.com/p/002d4d0e24b9) |
-| Sat, 31 May 2025 12:34:54 GMT | ️ Belajar Cyber Security untuk Junior Web Developer (Application Security) | Ridy | [Read More](https://medium.com/p/69366f1fe0b0) |
-| Sat, 31 May 2025 12:31:14 GMT | JSONpocalypse Now: How JSONP Exposure Led to Sensitive Data Leakage | Iski | [Read More](https://medium.com/p/987b0e2718a8) |
-| Sat, 31 May 2025 12:24:03 GMT | Unlocking the $100,000 Bounty: Case Study on Headless Chrome Vulnerability in Facebook | DrSecurityGuru | [Read More](https://medium.com/p/e20c0ca20e4c) |
-| Sat, 31 May 2025 12:20:27 GMT | Discover the Top Cyber Security Course in Calicut at RedTeam Hacker Academy | Bivek raj | [Read More](https://medium.com/p/4c54238f8a64) |
-| Sat, 31 May 2025 12:14:00 GMT | Building a Closed‑Loop Vulnerability Management Lifecycle | Maksim Goldenberg | [Read More](https://medium.com/p/020b5415df55) |
