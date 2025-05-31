@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 10:06:01 GMT | Domain (Renewal) Pricings going UP | Mohammed Brückner | [Read More](https://medium.com/p/7d3221205dd4) |
+| Sat, 31 May 2025 10:03:15 GMT | Open Letter to the International Community Medical Terrorism | SIMKRA | [Read More](https://medium.com/p/96878dc73ff9) |
+| Sat, 31 May 2025 10:02:09 GMT | therocktrading.com Reviews — Recovery just got Easier | Nadine Konig | [Read More](https://medium.com/p/acfec6c86657) |
+| Sat, 31 May 2025 09:57:34 GMT | How to Avoid Common Crypto Scams in 2025: A Beginner’s Guide | TheCoinVibe | [Read More](https://medium.com/p/c8a22c307b9f) |
+| Sat, 31 May 2025 09:56:39 GMT | Network Forensics in Action: My Wireshark Analysis of a Suspicious ANZ Traffic Capture | Gabriel Santos | [Read More](https://medium.com/p/9272c37a13ee) |
+| Sat, 31 May 2025 09:50:56 GMT | Zoomposium with Prof. Dr. Martin Bogdan: “When AI gets bored — Ways to (artificial) consciousness | Philo Sophies | [Read More](https://medium.com/p/7fae5ec0b9f3) |
+| Sat, 31 May 2025 09:50:39 GMT | SQL Injection with SQLmap - TryHackMe SQLmap Basics | Motasem Hamdan | [Read More](https://medium.com/p/443bc97a99de) |
+| Sat, 31 May 2025 09:48:33 GMT | # Building a Network from Scratch: My Week at UCU’s Networking Lab | Daniel | [Read More](https://medium.com/p/c70c52121c3c) |
+| Sat, 31 May 2025 09:46:34 GMT | Navigating the Future of Cybersecurity: 2025 Trends and Technologies You Need to Know | Charter Global | [Read More](https://medium.com/p/e94bb83c7b00) |
+| Sat, 31 May 2025 09:45:57 GMT | Why Pune Security Firms Use Smart Surveillance | United Guard Force India | [Read More](https://medium.com/p/0a10794fbaa0) |
+| Sat, 31 May 2025 09:45:32 GMT | TryHackMe PT1 Review: Real Hands-On Pentest Cert for Beginners? | Pichaya Morimoto | [Read More](https://medium.com/p/de332c9229ec) |
+| Sat, 31 May 2025 09:44:28 GMT | How Can I Recover My Scammed $78,400 from a Fake Bitcoin Investment Scam? | Crime All Day | [Read More](https://medium.com/p/d5597890cd7d) |
+| Sat, 31 May 2025 09:43:43 GMT | Blackcatcard Review - Is It Legit Or Scam | Daniela Muller | [Read More](https://medium.com/p/c698af5bbecb) |
+| Sat, 31 May 2025 09:42:16 GMT | Your VPN Is a Joke Against This Kind of Power | Lucifer Jeufo | [Read More](https://medium.com/p/16276ff11841) |
+| Sat, 31 May 2025 09:40:18 GMT | Role of AI in Cybersecurity | Jeevesh W | [Read More](https://medium.com/p/79ac7eba6351) |
+| Sat, 31 May 2025 09:39:47 GMT | Cybersecurity Meets Resilience: My Thoughts on SEBI CSCRF | Chandan Bhattacharya | [Read More](https://medium.com/p/692884c67587) |
 | Sat, 31 May 2025 09:38:01 GMT | Here’s How I Recover My Money From Blackcatcard | Daniela Muller | [Read More](https://medium.com/p/368da4d25725) |
 | Sat, 31 May 2025 09:18:13 GMT | Introduction to Computer Networks Part 1 | Chance At Cybersecurity | [Read More](https://medium.com/p/0c8f4d882062) |
 | Sat, 31 May 2025 09:14:44 GMT | Command Injection via PHP File Upload in an College Recruitment Registration Portal | Anonymousshetty | [Read More](https://medium.com/p/034e56e89006) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 02:16:07 GMT | AI in Government: How Artificial Intelligence is Reshaping Public Services in 2025. | Ddm atiq | [Read More](https://medium.com/p/b4b2e3dd432a) |
 | Sat, 31 May 2025 02:11:47 GMT | How Vulnerability Builds Belonging | Brianna O'Keefe | [Read More](https://medium.com/p/5b885698c3f6) |
 | Sat, 31 May 2025 01:59:39 GMT | AI's Rebellion: When the Tools We Created Start Ignoring Us | Majeztik SlumBoi / Julius Crawford | [Read More](https://medium.com/p/09202133835b) |
-| Sat, 31 May 2025 01:53:41 GMT | NeuroGeneric Al and Electromagnetic Interference: Ensuring Security and Robustness | Alanshaju | [Read More](https://medium.com/p/eca4a3abfb3c) |
-| Sat, 31 May 2025 01:52:12 GMT | Are Loyalty Cards the New Bitcoin? | Tina Ginn | [Read More](https://medium.com/p/b08008b39e26) |
-| Sat, 31 May 2025 01:43:50 GMT | Centralized Sysmon Configuration Management with Copilot and Wazuh | SOCFortress | [Read More](https://medium.com/p/eeec42a1306a) |
-| Sat, 31 May 2025 01:29:45 GMT | Fawkes VulnHub Walkthrough — Hard Level | Pawan Koirala | [Read More](https://medium.com/p/39c5db0e909e) |
-| Sat, 31 May 2025 01:22:41 GMT | Advanced Persistent Threat Simulation for Global Critical Assets | A-STAR7_DOCTOR | [Read More](https://medium.com/p/3842bb268094) |
-| Sat, 31 May 2025 01:20:22 GMT | ConnectWise ScreenConnect Patch for ASP.NET ViewState Vulnerability | Raviteja Mureboina | [Read More](https://medium.com/p/cb2466defded) |
-| Sat, 31 May 2025 01:08:10 GMT | THM Mr Robot CTF | Chai | [Read More](https://medium.com/p/e8edc8514227) |
-| Sat, 31 May 2025 01:05:49 GMT | Unlocking Your Learning Superpowers: The Science & Art of Gamifying Your Studies (And Why Your… | Carter Perez | [Read More](https://medium.com/p/2d55338141f9) |
-| Sat, 31 May 2025 01:01:50 GMT | The Future of Social Media and the Freedom from Fear | AMORITAS | [Read More](https://medium.com/p/56932231f40a) |
-| Sat, 31 May 2025 00:44:41 GMT | Memulai Karir di Keamanan Siber Roadmap Menjadi Pentester/Red Team | Mukti Badriyan | [Read More](https://medium.com/p/755408764432) |
-| Sat, 31 May 2025 00:39:39 GMT | Critical vBulletin Vulnerabilities Allow Full Server Takeover | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/18c644ef3978) |
-| Sat, 31 May 2025 00:37:00 GMT | Evading AMSI with a Disappearing Registry Key: Red Team Magic with TrollDisappearKey.cs | Yua Mikanana | [Read More](https://medium.com/p/750d6c5212fd) |
-| Sat, 31 May 2025 00:36:22 GMT | SolarWinds Supply Chain Saldırısı: APT29’un Ses Getiren Operasyonu | NG | [Read More](https://medium.com/p/eb2eb19087bb) |
-| Sat, 31 May 2025 00:32:28 GMT | From PNG to Shell: The Chatbot That Helped Me Hack Itself | Muthu | [Read More](https://medium.com/p/d1459e67b332) |
-| Sat, 31 May 2025 00:15:20 GMT | Building Open Source Tools for the People Who Need Them Most | Arachne Digital | [Read More](https://medium.com/p/9d566fb92aff) |
-| Sat, 31 May 2025 00:08:29 GMT | Five Questions: Jim Mitre on Artificial General Intelligence and National Security | RAND | [Read More](https://medium.com/p/a302ece4bb9a) |
