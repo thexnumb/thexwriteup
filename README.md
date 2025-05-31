@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 07:35:40 GMT | Global Secure Web Gateway Market Size, Share, Industry Insights, Trends, Outlook, Opportunity… | Yamaguchitabithay | [Read More](https://medium.com/p/14f81530722c) |
+| Sat, 31 May 2025 07:33:23 GMT | Roadmap 5 Tahun Menjadi Seorang Pentester: Dari Nol Sampai Pro | Achrfi | [Read More](https://medium.com/p/ed5e490f8f26) |
+| Sat, 31 May 2025 07:32:28 GMT | When XSS Payloads Became My Reddit Password: A Bug That’s Not a Bug (But Still… Kinda Is) | CyberTechAjju | [Read More](https://medium.com/p/095915a5feef) |
+| Sat, 31 May 2025 07:30:32 GMT | Quantum Key Distribution for Cross-Continent Secure Links: The Dawn of Unbreakable Communication | A-STAR7_DOCTOR | [Read More](https://medium.com/p/49a6e5b78517) |
+| Sat, 31 May 2025 07:20:41 GMT | Penggunaan Dasar Jaringan dengan Cisco Packet Tracer | Riski Hidayat | [Read More](https://medium.com/p/647f0b358658) |
+| Sat, 31 May 2025 07:17:26 GMT | Why Sleep is the Ultimate Productivity Hack (Backed by Science) | self impro.. | [Read More](https://medium.com/p/f7ec84d54c62) |
 | Sat, 31 May 2025 07:11:36 GMT | OPSEC vs. the illusion of security | toomuchaciiid | [Read More](https://medium.com/p/82be7eedf0b5) |
 | Sat, 31 May 2025 07:06:35 GMT | Understanding CCTV: Enhancing Security in a Modern World | Nestrondigitalhub | [Read More](https://medium.com/p/69ba2f97ffbb) |
 | Sat, 31 May 2025 07:06:03 GMT | Business Logic Flaw in a Rating System and Earned €150 | Erkan Kavas | [Read More](https://medium.com/p/a992ceb571a1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 21:26:31 GMT | Pwned Labs “SSRF to Pwned”– A Cloud Pentesting Walkthrough | WireHawk Security | [Read More](https://medium.com/p/328803a32ecd) |
 | Fri, 30 May 2025 21:17:28 GMT | Navigating the Storm: Lessons from a Full-Scale Cyber Attack | Miguel Edwards | [Read More](https://medium.com/p/a5772359a625) |
 | Fri, 30 May 2025 21:17:09 GMT | Weekly Data Breach Signal: Staying Ahead with Mammoth Cyber | Mammoth Cyber | [Read More](https://medium.com/p/efc54f4408ed) |
-| Fri, 30 May 2025 21:15:18 GMT | KRB_AP_ERR_SKEW(Clock skew too great)” Issue Solution :- | SURAJ -MRX001 | [Read More](https://medium.com/p/a0a8656af70a) |
-| Fri, 30 May 2025 21:15:04 GMT | Whispers of the Windows Vault: Uncovering DPAPI | Kshitij Raj | [Read More](https://medium.com/p/55cde2410be9) |
-| Fri, 30 May 2025 21:12:38 GMT | O quanto você enxerga além do “óbvio”? | Evelyse Akemy | [Read More](https://medium.com/p/91d4285ae4f8) |
-| Fri, 30 May 2025 21:09:56 GMT | Practical guide to LLMNR attack -- Responder -- Hashcat | Muhammadhuzaifa | [Read More](https://medium.com/p/441c0060f3a9) |
-| Fri, 30 May 2025 21:08:36 GMT | Ethical Hacking Careers: Salary, Demand, and Future Outlook | It Consultant | [Read More](https://medium.com/p/471ebaf4dce1) |
-| Fri, 30 May 2025 21:07:29 GMT | Learning from the Past: Case Studies of Blockchain Security Failures | Arsyaagungw | [Read More](https://medium.com/p/731d9cd27e5a) |
