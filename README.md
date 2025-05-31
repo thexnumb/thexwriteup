@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 18:27:35 GMT | ️ Red Teaming: Simulating Real-World Cyber Attacks to Fortify Your Defenses | Smdefencerabbit | [Read More](https://medium.com/p/6df36fb54c04) |
+| Sat, 31 May 2025 18:27:11 GMT | System Integration Blind Spots | Khod4li | [Read More](https://medium.com/p/663e5da2c8c5) |
 | Sat, 31 May 2025 18:24:17 GMT | Roadmap menjadi Cyber Security dalam 5 tahun | Donal | [Read More](https://medium.com/p/e2562230734c) |
+| Sat, 31 May 2025 18:22:31 GMT | Roadmap CyberSecurity 5 Tahun ke Depan | Agilseftian | [Read More](https://medium.com/p/009cdf6425f3) |
 | Sat, 31 May 2025 18:18:50 GMT | Why Web Application Penetration Testing Is More Critical Than Ever in 2025 | -uncn | [Read More](https://medium.com/p/2c6a552af6d4) |
 | Sat, 31 May 2025 18:18:09 GMT | The Hackers Meetup — May Event | The Hackers Meetup | [Read More](https://medium.com/p/85b6338ef108) |
+| Sat, 31 May 2025 18:18:04 GMT | When Math Goes Wrong: Cracking Ethernaut’s Token Challenge #5 | Martin Pál | [Read More](https://medium.com/p/86d050f4107b) |
 | Sat, 31 May 2025 18:12:29 GMT | Breaking Through The Phone: How to Solve Ethernaut’s Challenge #4 | Martin Pál | [Read More](https://medium.com/p/f2dac7763ec9) |
 | Sat, 31 May 2025 18:11:52 GMT | Stopping the Internet Scammers: Why Can’t We Seem to Catch a Break? | Susan Poole | [Read More](https://medium.com/p/ee2d4b585371) |
 | Sat, 31 May 2025 18:07:02 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/53ee7c7257d1) |
@@ -112,7 +116,3 @@ ___ __________________
 | Sat, 31 May 2025 12:24:03 GMT | Unlocking the $100,000 Bounty: Case Study on Headless Chrome Vulnerability in Facebook | DrSecurityGuru | [Read More](https://medium.com/p/e20c0ca20e4c) |
 | Sat, 31 May 2025 12:20:27 GMT | Discover the Top Cyber Security Course in Calicut at RedTeam Hacker Academy | Bivek raj | [Read More](https://medium.com/p/4c54238f8a64) |
 | Sat, 31 May 2025 12:14:00 GMT | Building a Closed‑Loop Vulnerability Management Lifecycle | Maksim Goldenberg | [Read More](https://medium.com/p/020b5415df55) |
-| Sat, 31 May 2025 12:12:08 GMT | Rencana karir Cybersecurity saya 5 Tahun kedepan. | Tiorajin | [Read More](https://medium.com/p/2020248bbc76) |
-| Sat, 31 May 2025 12:03:42 GMT | ️ Become an Ethical Hacking Specialist — Protect the Digital World | Tushar Digitalaakar | [Read More](https://medium.com/p/1a8b350d07ad) |
-| Sat, 31 May 2025 11:54:10 GMT | nomor WhatsApp Tokopedia 08174773375 | Tokopedia | [Read More](https://medium.com/p/bbc09d4ec53a) |
-| Sat, 31 May 2025 11:49:15 GMT | between detachment & devotion | hails 辉丽 | [Read More](https://medium.com/p/a7a1b839214c) |
