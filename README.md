@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 17:13:54 GMT | MSMQ Nedir? SIEM Log İletiminde Neden Tercih Edilir? | Tugba Hatice | [Read More](https://medium.com/p/107683686adb) |
+| Sat, 31 May 2025 17:10:59 GMT | How Hackers Are Using AI Against You | Rahul Mishra | [Read More](https://medium.com/p/6c7e911a4f5f) |
+| Sat, 31 May 2025 17:08:27 GMT | Siber Güvenliğe Giriş — 1 | Emre TOPUZ | [Read More](https://medium.com/p/2304205c964d) |
+| Sat, 31 May 2025 17:00:17 GMT | How Deep is our SHAME? | Aishwarya | [Read More](https://medium.com/p/4aeee311f584) |
+| Sat, 31 May 2025 16:57:38 GMT | Angular application Security Best Practices: Scalable Strategies for Enterprise-Grade Applications | Prasenjit Dasgupta | [Read More](https://medium.com/p/805edab77fb2) |
+| Sat, 31 May 2025 16:56:34 GMT | How to Allow or Block a Program Through Firewall in Windows | Jazz Cyber Shield | [Read More](https://medium.com/p/c2b17deb5f9f) |
+| Sat, 31 May 2025 16:48:23 GMT | I’m Learning to Let Go ~ Sera Dawn | Sera Dawn | [Read More](https://medium.com/p/e83602d6e271) |
 | Sat, 31 May 2025 16:47:15 GMT | Your “First Cybersecurity Job” Survival Guide. | José Reyes (@Architekt) | [Read More](https://medium.com/p/e0b794489606) |
+| Sat, 31 May 2025 16:46:39 GMT | Fortifying Your Microservices: A Complete Guide to DoS Attack Prevention | TechWealthBuzz | [Read More](https://medium.com/p/cbd51232eba2) |
+| Sat, 31 May 2025 16:44:09 GMT | Blockchain Bandit Attack Lab: And How Weak Keys Can Still Leak Funds | Omarataallah | [Read More](https://medium.com/p/eb55f2b41b9c) |
 | Sat, 31 May 2025 16:40:47 GMT | How Can I Recover My Scammed $87,000 from a Fake Bitcoin Investment Scam?. | Crime Stories | [Read More](https://medium.com/p/cbc81d3fcd7e) |
 | Sat, 31 May 2025 16:36:33 GMT | ️ How to Become a Penetration Tester / Ethical Hacker — A Complete Guide with Tools & Practical… | Nasr Ullah Mahar | [Read More](https://medium.com/p/72f37f9f6769) |
 | Sat, 31 May 2025 16:35:52 GMT | How to Make Money with Hacking (ethical way) | Cypher.One | [Read More](https://medium.com/p/ca8b188b3963) |
@@ -106,12 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 10:54:54 GMT | Wealthsimple Review: How I Recovered My Funds with the Help of Mr. Micheal | Jurgen Pedersen | [Read More](https://medium.com/p/7cc08514e7df) |
 | Sat, 31 May 2025 10:52:20 GMT | Here’s How I Recover My Money From Wealthsimplem.com | Jurgen Pedersen | [Read More](https://medium.com/p/90fb81ec475e) |
 | Sat, 31 May 2025 10:51:59 GMT | Difference Between SSL And TLS: Which Secures Better? | Aadhira Jayaprakash | [Read More](https://medium.com/p/a6d9115a3209) |
-| Sat, 31 May 2025 10:50:52 GMT | Cyber Shields: Defending Against 5G Espionage | Immersive reader | [Read More](https://medium.com/p/87ab5e4be279) |
-| Sat, 31 May 2025 10:49:03 GMT | Guardians Wear Heels Too : Roadmap 5 Tahun jadi Blue Team‍ | Gustiayuadindhajyothi | [Read More](https://medium.com/p/afe0e2d7a196) |
-| Sat, 31 May 2025 10:45:06 GMT | Integrasi Security Alert Wazuh Dengan Bot Telegram | Dzaki Hilmi | [Read More](https://medium.com/p/c8c22c1c9fbc) |
-| Sat, 31 May 2025 10:42:39 GMT | Qualities of Top Security Agencies in Thane | united guard | [Read More](https://medium.com/p/22adf145de74) |
-| Sat, 31 May 2025 10:38:13 GMT | Intelligent Automation Trends and Predictions 2025 | MIT School of Distance Education | [Read More](https://medium.com/p/ae459f4449ca) |
-| Sat, 31 May 2025 10:35:55 GMT | Here’s How I Recover My Money From Quantum Ai | YvonneSchroeder | [Read More](https://medium.com/p/331334c39eea) |
-| Sat, 31 May 2025 10:31:56 GMT | ☁️ SSRF in Cloud Environments: Exploiting AWS Metadata Services Explained with  Scenarios… | Zoningxtr | [Read More](https://medium.com/p/b5b86d24d999) |
-| Sat, 31 May 2025 10:30:52 GMT | What OffSec Beginners are really struggling with — and how you can break through | Niklas Heringer | [Read More](https://medium.com/p/2667a7843405) |
-| Sat, 31 May 2025 10:26:41 GMT | ️ HTB Machine: Sequel — Write-up by Fadlu | Fadhlur rohman | [Read More](https://medium.com/p/43797461f062) |
