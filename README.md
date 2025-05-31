@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 07:11:36 GMT | OPSEC vs. the illusion of security | toomuchaciiid | [Read More](https://medium.com/p/82be7eedf0b5) |
+| Sat, 31 May 2025 07:06:35 GMT | Understanding CCTV: Enhancing Security in a Modern World | Nestrondigitalhub | [Read More](https://medium.com/p/69ba2f97ffbb) |
+| Sat, 31 May 2025 07:06:03 GMT | Business Logic Flaw in a Rating System and Earned €150 | Erkan Kavas | [Read More](https://medium.com/p/a992ceb571a1) |
+| Sat, 31 May 2025 07:05:05 GMT | Local Experts in Residential Security in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/ec447f9adb89) |
+| Sat, 31 May 2025 07:03:36 GMT | Deloitte Faces Alleged Data Breach by Hacker ‘303’ | Virtual Cyber Labs | [Read More](https://medium.com/p/b5919b34c655) |
+| Sat, 31 May 2025 07:01:21 GMT | Hack-Proof Your Web App: The Art & Science of Security Testing for Modern Web Applications | Mohd Ataa Khan | [Read More](https://medium.com/p/365c506486c8) |
+| Sat, 31 May 2025 06:55:21 GMT | CTF Day(7) | Ahmed Narmer | [Read More](https://medium.com/p/58d2feb3b6a2) |
+| Sat, 31 May 2025 06:53:31 GMT | A Ticking Time Bomb Discovered in NPM: Malicious Package Waited Six Years to Destroy Your Project! | Alper Konuralp | [Read More](https://medium.com/p/97d0b3d52709) |
+| Sat, 31 May 2025 06:51:51 GMT | Operation Sindoor: A Wake-Up Call for India’s Digital Defense | Navigtech | [Read More](https://medium.com/p/0081a7be9789) |
+| Sat, 31 May 2025 06:50:16 GMT | NPM Paket Yöneticisinde Keşfedilen Saatli Bomba: Projenizi Yok Etmek İçin 6 Yıl Bekleyen Sinsi… | Alper Konuralp | [Read More](https://medium.com/p/2b79ead04d53) |
+| Sat, 31 May 2025 06:46:07 GMT | Are Developers Sharing Too Much With ChatGPT? | Joyal Saji | [Read More](https://medium.com/p/f94de6fd4a8a) |
+| Sat, 31 May 2025 06:43:13 GMT | Celebrating 10 Years of Cybersecurity Insights | JC Gaillard | [Read More](https://medium.com/p/798bf1b3f8a4) |
+| Sat, 31 May 2025 06:42:54 GMT | 5 Major Cloud Security Threats and Proven Solutions | RITC Cybersecurity | [Read More](https://medium.com/p/e08cac4cf5e4) |
+| Sat, 31 May 2025 06:42:29 GMT | Ever connect to a café Wi-Fi without thinking? | Vexpoltech | [Read More](https://medium.com/p/586b863951ce) |
 | Sat, 31 May 2025 06:42:04 GMT | La máquina de la ‘empatía’ | Ignacio Chiguay | [Read More](https://medium.com/p/2c6d5a798ee1) |
+| Sat, 31 May 2025 06:39:06 GMT | Nmap — Tryhackme Room Walkthrough | Eleanor | [Read More](https://medium.com/p/c8b243dacf01) |
 | Sat, 31 May 2025 06:28:10 GMT | Salt and WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/b6761391a909) |
 | Sat, 31 May 2025 06:10:13 GMT | the rise of quiet quitting 9 | S Anuradha | [Read More](https://medium.com/p/eac35e739167) |
 | Sat, 31 May 2025 06:05:08 GMT | Enhance the Security of Your Building with the Installation CCTV Camera | Harperjack | [Read More](https://medium.com/p/f4308d02b814) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 21:09:56 GMT | Practical guide to LLMNR attack -- Responder -- Hashcat | Muhammadhuzaifa | [Read More](https://medium.com/p/441c0060f3a9) |
 | Fri, 30 May 2025 21:08:36 GMT | Ethical Hacking Careers: Salary, Demand, and Future Outlook | It Consultant | [Read More](https://medium.com/p/471ebaf4dce1) |
 | Fri, 30 May 2025 21:07:29 GMT | Learning from the Past: Case Studies of Blockchain Security Failures | Arsyaagungw | [Read More](https://medium.com/p/731d9cd27e5a) |
-| Fri, 30 May 2025 21:01:31 GMT | Crocodilus in the wild: Mapping the campaign in Poland | mvaks | [Read More](https://medium.com/p/15d3078eb954) |
-| Fri, 30 May 2025 21:00:02 GMT | Implementing a Secret Admin Cookie for Live Editing on Your Portfolio Site : | Anmolshukla | [Read More](https://medium.com/p/808283cdf868) |
-| Fri, 30 May 2025 20:59:14 GMT | WannaCry: 2017'nin Siber Kabusu | NG | [Read More](https://medium.com/p/5551aaea4a64) |
-| Fri, 30 May 2025 20:53:34 GMT | Ledger -THM | SURAJ -MRX001 | [Read More](https://medium.com/p/bac5260a94bd) |
-| Fri, 30 May 2025 20:48:16 GMT | Stopping over 4,000 malicious files, as a solo cybersecurity enjoyer. | kvts | [Read More](https://medium.com/p/2de0a92e0a14) |
-| Fri, 30 May 2025 20:43:47 GMT | Deloitte’s 2025 Data Breach: What It Reveals About Enterprise Cybersecurity Vulnerabilities | Ronit Yadav | [Read More](https://medium.com/p/e7ef2d54c53c) |
-| Fri, 30 May 2025 20:34:06 GMT | Google Calendar Hijacked: Inside the 184M Credential Leak and China’s Covert Cyber Ops | Ronit Yadav | [Read More](https://medium.com/p/1d8557827699) |
-| Fri, 30 May 2025 20:32:29 GMT | TAAM and SANS: Revolutionizing Cybersecurity with SLM Models | TAAMCrypto.com | [Read More](https://medium.com/p/705ef1e2d8e1) |
-| Fri, 30 May 2025 20:29:48 GMT | Siber Savaşın İlk Nükleer Silahı: STUXNET | Çağlar Suvari | [Read More](https://medium.com/p/5db5d88bee39) |
-| Fri, 30 May 2025 20:22:26 GMT | The Key to Winning a Woman’s Heart | Vera Byron | [Read More](https://medium.com/p/1f043f1dabc4) |
-| Fri, 30 May 2025 20:17:53 GMT | Victoria’s Secret Cyberattack: Why Retail Security Is Hanging by a Thread | Ronit Yadav | [Read More](https://medium.com/p/d1ff8dbedfba) |
-| Fri, 30 May 2025 20:15:42 GMT | TryHackMe: Expose — Walkthrough | CyberQuestor | [Read More](https://medium.com/p/9ae36df654c0) |
-| Fri, 30 May 2025 20:13:29 GMT | Plaka Tanıma Sistemleri | Özdemir Tech | [Read More](https://medium.com/p/31e2bb3002db) |
-| Fri, 30 May 2025 20:12:12 GMT | India’s Economic Growth Hits Its Slowest Point in Four Years at 6.5% | Imran | [Read More](https://medium.com/p/560b0381a5d6) |
-| Fri, 30 May 2025 20:12:05 GMT | Güvenlik Zafiyetleriyle Kod Yazmak: Farkında Olmadan Hack’leniyorsunuz | İrem İçyer | [Read More](https://medium.com/p/bc22808a0e86) |
