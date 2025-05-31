@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 04:34:00 GMT | Every PHP Upload Handler You’ve Used is Broken — Here’s the Zero-Copy Fix That’ll Save Your… | Asian Digital Hub | [Read More](https://medium.com/p/5f5d05d54046) |
+| Sat, 31 May 2025 04:26:44 GMT | Membuat Topologi Jaringan Sederhana Menggunakan Cisco Packet Tracer | Darmayanti | [Read More](https://medium.com/p/d5cb25291136) |
+| Sat, 31 May 2025 04:22:27 GMT | How to Take Down Phishing Websites: A Citizen’s Guide to Fighting Online Scams | Aayush Darange | [Read More](https://medium.com/p/b4a65b67fcff) |
+| Sat, 31 May 2025 04:16:00 GMT | Advance Your Cybersecurity Skills with Ethical Hacking Training in Chandigarh at CNT Technologies | Cnt Technologies | [Read More](https://medium.com/p/f9d6093951f4) |
 | Sat, 31 May 2025 04:10:36 GMT | FallParams — Find All Parameters | AbhirupKonwar | [Read More](https://medium.com/p/ec47aff4aaf3) |
 | Sat, 31 May 2025 04:07:47 GMT | Common HTTP Methods | Chai | [Read More](https://medium.com/p/037eafcfa482) |
 | Sat, 31 May 2025 04:01:48 GMT | Introducing Secret AI: The Truly Private AI Assistant That Works 100% Offline | Secret AI | [Read More](https://medium.com/p/3560fe570c06) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 19:04:49 GMT | apidays 2025 recap | Meriç Aydonat | [Read More](https://medium.com/p/d00c48d029a8) |
 | Fri, 30 May 2025 19:00:02 GMT | Inside the SAR: The Federal Cybersecurity Report That Haunts Your Weekends | Richard Wilder | [Read More](https://medium.com/p/b2448334fa99) |
 | Fri, 30 May 2025 18:57:58 GMT | Simulasi Packet Tracer: Pengaruh Access Control List (ACL) terhadap Konektivitas Jaringan. | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/aa02a94a4922) |
-| Fri, 30 May 2025 18:56:48 GMT | Stuxnet Zararlısı: 0-Day Açıkları ve Komuta-Kontrol Altyapısının MITRE ATT&CK Tabanlı Analizi | Yusuf Kürüm | [Read More](https://medium.com/p/606a2075b6b5) |
-| Fri, 30 May 2025 18:50:15 GMT | NO LONGER THE VICTIM | Scripture of Balance Author & Founder | [Read More](https://medium.com/p/5f1455dde537) |
-| Fri, 30 May 2025 18:49:22 GMT | Northern California Children’s Therapy Center Data Breach: What Parents and Families Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/6f63932126df) |
-| Fri, 30 May 2025 18:48:09 GMT | Exploring the Dark Web: A Comprehensive Guide to Information and Access | Shah poran shakil | [Read More](https://medium.com/p/0d04fe8132f9) |
