@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 01:29:45 GMT | Fawkes VulnHub Walkthrough — Hard Level | Pawan Koirala | [Read More](https://medium.com/p/39c5db0e909e) |
+| Sat, 31 May 2025 01:22:41 GMT | Advanced Persistent Threat Simulation for Global Critical Assets | A-STAR7_DOCTOR | [Read More](https://medium.com/p/3842bb268094) |
+| Sat, 31 May 2025 01:20:22 GMT | ConnectWise ScreenConnect Patch for ASP.NET ViewState Vulnerability | Raviteja Mureboina | [Read More](https://medium.com/p/cb2466defded) |
+| Sat, 31 May 2025 01:08:10 GMT | THM Mr Robot CTF | Chai | [Read More](https://medium.com/p/e8edc8514227) |
+| Sat, 31 May 2025 01:05:49 GMT | Unlocking Your Learning Superpowers: The Science & Art of Gamifying Your Studies (And Why Your… | Carter Perez | [Read More](https://medium.com/p/2d55338141f9) |
+| Sat, 31 May 2025 01:01:50 GMT | The Future of Social Media and the Freedom from Fear | AMORITAS | [Read More](https://medium.com/p/56932231f40a) |
+| Sat, 31 May 2025 00:44:41 GMT | Memulai Karir di Keamanan Siber Roadmap Menjadi Pentester/Red Team | Mukti Badriyan | [Read More](https://medium.com/p/755408764432) |
+| Sat, 31 May 2025 00:39:39 GMT | Critical vBulletin Vulnerabilities Allow Full Server Takeover | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/18c644ef3978) |
+| Sat, 31 May 2025 00:37:00 GMT | Evading AMSI with a Disappearing Registry Key: Red Team Magic with TrollDisappearKey.cs | Yua Mikanana | [Read More](https://medium.com/p/750d6c5212fd) |
+| Sat, 31 May 2025 00:36:22 GMT | SolarWinds Supply Chain Saldırısı: APT29’un Ses Getiren Operasyonu | NG | [Read More](https://medium.com/p/eb2eb19087bb) |
+| Sat, 31 May 2025 00:32:28 GMT | From PNG to Shell: The Chatbot That Helped Me Hack Itself | Muthu | [Read More](https://medium.com/p/d1459e67b332) |
+| Sat, 31 May 2025 00:15:20 GMT | Building Open Source Tools for the People Who Need Them Most | Arachne Digital | [Read More](https://medium.com/p/9d566fb92aff) |
+| Sat, 31 May 2025 00:08:29 GMT | Five Questions: Jim Mitre on Artificial General Intelligence and National Security | RAND | [Read More](https://medium.com/p/a302ece4bb9a) |
+| Fri, 30 May 2025 23:34:01 GMT | Earn More, Risk Less: Recon Solana $RECON the Smart Way | $RECON Recon Solana Community Rewards | [Read More](https://medium.com/p/ce32096b6471) |
 | Fri, 30 May 2025 23:31:31 GMT | Code Security By Palo Alto Networks: A Comprenshive Guide | Juara IT Solutions | [Read More](https://medium.com/p/18a4a0665b93) |
 | Fri, 30 May 2025 23:12:49 GMT | Advanced Large Language Model Agents: My Journey Through Berkeley’s LLM Agents MOOC (2025 Edition) | Francisco Pérez-Sorrosal | [Read More](https://medium.com/p/731c1034bdcf) |
 | Fri, 30 May 2025 22:59:41 GMT | Aprenda a Bloquear Conexões com iptables em 5 Minutos | Nicolas Martins | [Read More](https://medium.com/p/d9ae354a4688) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 17:40:20 GMT | Penetration Testing and its Role In Cybersecurity | Dheeraj Salunkhe | [Read More](https://medium.com/p/4492607a9484) |
 | Fri, 30 May 2025 17:37:06 GMT | Kafka Deep-Dive: Architecture, Performance, Ecosystem & Security | Amit Pawar | [Read More](https://medium.com/p/f4bfadd28c19) |
 | Fri, 30 May 2025 17:30:03 GMT | How I Use Free Tools to Audit Websites for Security Vulnerabilities | Shahzaib Khan | [Read More](https://medium.com/p/ef99f48a32b6) |
-| Fri, 30 May 2025 17:26:26 GMT | The Convergence of LLM Agents and Cybersecurity: Breaking New Ground in Vulnerability Detection | Jagrut Sharma | [Read More](https://medium.com/p/dfd55e367d72) |
-| Fri, 30 May 2025 17:24:25 GMT | Cross-Site Request Forgery | Isha Sangpal | [Read More](https://medium.com/p/820e0b2f20d6) |
-| Fri, 30 May 2025 17:24:21 GMT | Your Vectors Databases Aren’t Safe Anymore | Dr. Ashish Bamania | [Read More](https://medium.com/p/2e0db46c712e) |
-| Fri, 30 May 2025 17:21:25 GMT | Building a NIST-Compliant Boot-and-Nuke USB Tool: Secure Automated Purge | Abdullah Kareem | [Read More](https://medium.com/p/1a87e1f73602) |
-| Fri, 30 May 2025 17:20:24 GMT | The Weekly Threat Round-up 26/05/2025–30/05/2025 | RileyHv | [Read More](https://medium.com/p/a37ec7a474c0) |
-| Fri, 30 May 2025 17:16:13 GMT | Migrating HashiCorp Vault Between Kubernetes Clusters: A Complete Guide for Disaster Recovery | StarTower - Star Protocol | [Read More](https://medium.com/p/8ac7307db20b) |
-| Fri, 30 May 2025 17:16:08 GMT | The Simple Hack | Medium Daily Reward | [Read More](https://medium.com/p/85b055c70cff) |
-| Fri, 30 May 2025 17:14:40 GMT | Cracking Token Chaos: Mastering Burp Suite Sequencer for Pen Testers | AkashSharma | [Read More](https://medium.com/p/8b96ae3a0305) |
-| Fri, 30 May 2025 17:08:24 GMT | The Red Flags We Miss When We Rush to Hire | Background Screening Services | [Read More](https://medium.com/p/5234ac1cdbc9) |
-| Fri, 30 May 2025 17:05:44 GMT | Web3 Operational Security: Lessons from the Bybit $1.4B Wallet Safe Hack | Doro Onome | [Read More](https://medium.com/p/ea99c8730672) |
-| Fri, 30 May 2025 17:02:35 GMT | I Turned My Laptop Into a Forensics Case Study: Here’s What I Found | C. Oscar Lawshea | [Read More](https://medium.com/p/df3b8635c66b) |
-| Fri, 30 May 2025 16:59:19 GMT | Public Programs vs Self-Hosted Programs | Abhijeet Kumawat | [Read More](https://medium.com/p/f0e1801fd042) |
-| Fri, 30 May 2025 16:56:04 GMT | Hacker Hats Explained: Black, White, and Everything In Between | Midhun Thomas | [Read More](https://medium.com/p/b2acf795cdd0) |
-| Fri, 30 May 2025 16:51:36 GMT | Hello, World- My first post | PhDbuilds | [Read More](https://medium.com/p/668daddc182d) |
