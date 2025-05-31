@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 08:15:22 GMT | SipHash and WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/87b8461d1d06) |
+| Sat, 31 May 2025 08:10:07 GMT | Learning the ins and outs of symmetric encryption: Secure Data Protection | Tech Security | [Read More](https://medium.com/p/46e788ede05f) |
+| Sat, 31 May 2025 07:51:56 GMT | Building a Lean, Metrics-Driven Security Operations Center (SOC) | Oleh Dubetcky | [Read More](https://medium.com/p/5a2472582058) |
+| Sat, 31 May 2025 07:48:36 GMT | Decrypting the Noise: — What Network Traffic Tells Us | AjiPangesstu | [Read More](https://medium.com/p/08abcb3d8a34) |
+| Sat, 31 May 2025 07:40:39 GMT | Your Digital Fortress: Diigoo’s Uncompromised Approach to Online Safety | ArthaChain | [Read More](https://medium.com/p/2d07e41035bb) |
 | Sat, 31 May 2025 07:35:40 GMT | Global Secure Web Gateway Market Size, Share, Industry Insights, Trends, Outlook, Opportunity… | Yamaguchitabithay | [Read More](https://medium.com/p/14f81530722c) |
 | Sat, 31 May 2025 07:33:23 GMT | Roadmap 5 Tahun Menjadi Seorang Pentester: Dari Nol Sampai Pro | Achrfi | [Read More](https://medium.com/p/ed5e490f8f26) |
 | Sat, 31 May 2025 07:32:28 GMT | When XSS Payloads Became My Reddit Password: A Bug That’s Not a Bug (But Still… Kinda Is) | CyberTechAjju | [Read More](https://medium.com/p/095915a5feef) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 21:59:01 GMT | Your Role in Combating Internet Crimes Against Children | Savvy Cyber Kids | [Read More](https://medium.com/p/c627cbd9a222) |
 | Fri, 30 May 2025 21:58:26 GMT | How to Foster Community in the Virtual Classroom | Savvy Cyber Kids | [Read More](https://medium.com/p/de6b27c6bd7b) |
 | Fri, 30 May 2025 21:44:51 GMT | Before You Swipe Right on Life (or That Contract): Why Butterflies Sometimes Need a Background… | The Agency | [Read More](https://medium.com/p/87eaf92b42d4) |
-| Fri, 30 May 2025 21:36:00 GMT | What’s the point of sharing if no one is watching? | Imane Ba | [Read More](https://medium.com/p/3dd3941c8276) |
-| Fri, 30 May 2025 21:29:22 GMT | Transforming Cybersecurity Through Proactive Defense Strategies — A Case Study - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/c64d7e83bfb7) |
-| Fri, 30 May 2025 21:26:31 GMT | Pwned Labs “SSRF to Pwned”– A Cloud Pentesting Walkthrough | WireHawk Security | [Read More](https://medium.com/p/328803a32ecd) |
-| Fri, 30 May 2025 21:17:28 GMT | Navigating the Storm: Lessons from a Full-Scale Cyber Attack | Miguel Edwards | [Read More](https://medium.com/p/a5772359a625) |
-| Fri, 30 May 2025 21:17:09 GMT | Weekly Data Breach Signal: Staying Ahead with Mammoth Cyber | Mammoth Cyber | [Read More](https://medium.com/p/efc54f4408ed) |
