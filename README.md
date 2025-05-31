@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 11:30:47 GMT | From Blind Spots to Business Value: How Mend Unified Agent and the Mend Platform Transform… | Radhika Kedia | [Read More](https://medium.com/p/462677ae5d18) |
+| Sat, 31 May 2025 11:26:53 GMT | Unlock Your Future with the Top Cyber Security Course in Calicut | Bivek raj | [Read More](https://medium.com/p/aa8a6e3d4f90) |
+| Sat, 31 May 2025 11:26:09 GMT | Sui community approves release of $162M in tokens frozen during Cetus hack | IC News | [Read More](https://medium.com/p/5645c8ee33b1) |
+| Sat, 31 May 2025 11:22:20 GMT | Track the Hacks: Uncovered SQL Injection with Log Analysis | byuda | [Read More](https://medium.com/p/dd67b01b77ee) |
+| Sat, 31 May 2025 11:22:00 GMT | How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability… | Anonymousshetty | [Read More](https://medium.com/p/c1509ef9d3df) |
+| Sat, 31 May 2025 11:12:05 GMT | HTTP Security Headers  (Website Penetration Testing) | Simant Kumar | [Read More](https://medium.com/p/e659d3344140) |
 | Sat, 31 May 2025 11:11:11 GMT | Session Management - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/9bbc3d6226a6) |
 | Sat, 31 May 2025 11:10:15 GMT | Finally Figured Out Pinterest Growth, Here’s What Helped! | Margie Foster | [Read More](https://medium.com/p/de263e16ccbc) |
 | Sat, 31 May 2025 11:09:13 GMT | Inside Howling Scorpius (G1024): A Deep Dive into the Akira Ransomware Operation | HAKAM | [Read More](https://medium.com/p/2d6678046d51) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 05:04:42 GMT | You Should Know About This Bug, XMLRPC, WordPress. | Charon19d | [Read More](https://medium.com/p/4604e29a8908) |
 | Sat, 31 May 2025 04:57:51 GMT | From Cables to Configuration: What Networking Taught Me About Systems Thinking | Joshua Jolly Lumbuye | [Read More](https://medium.com/p/641769d99dfd) |
 | Sat, 31 May 2025 04:51:17 GMT | Threat Modeling: Hack-Proof Your Apps with Case Studies-Part2 | DrSecurityGuru | [Read More](https://medium.com/p/f2312e000a4e) |
-| Sat, 31 May 2025 04:45:01 GMT | 5-Year Roadmap to Becoming a Red Team Professional | Aaron Barrichello | [Read More](https://medium.com/p/df916e0a8120) |
-| Sat, 31 May 2025 04:34:00 GMT | Every PHP Upload Handler You’ve Used is Broken — Here’s the Zero-Copy Fix That’ll Save Your… | Asian Digital Hub | [Read More](https://medium.com/p/5f5d05d54046) |
-| Sat, 31 May 2025 04:26:44 GMT | Membuat Topologi Jaringan Sederhana Menggunakan Cisco Packet Tracer | Darmayanti | [Read More](https://medium.com/p/d5cb25291136) |
-| Sat, 31 May 2025 04:22:27 GMT | How to Take Down Phishing Websites: A Citizen’s Guide to Fighting Online Scams | Aayush Darange | [Read More](https://medium.com/p/b4a65b67fcff) |
-| Sat, 31 May 2025 04:16:00 GMT | Advance Your Cybersecurity Skills with Ethical Hacking Training in Chandigarh at CNT Technologies | Cnt Technologies | [Read More](https://medium.com/p/f9d6093951f4) |
-| Sat, 31 May 2025 04:10:36 GMT | FallParams — Find All Parameters | AbhirupKonwar | [Read More](https://medium.com/p/ec47aff4aaf3) |
