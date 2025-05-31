@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 16:47:15 GMT | Your “First Cybersecurity Job” Survival Guide. | José Reyes (@Architekt) | [Read More](https://medium.com/p/e0b794489606) |
+| Sat, 31 May 2025 16:40:47 GMT | How Can I Recover My Scammed $87,000 from a Fake Bitcoin Investment Scam?. | Crime Stories | [Read More](https://medium.com/p/cbc81d3fcd7e) |
+| Sat, 31 May 2025 16:36:33 GMT | ️ How to Become a Penetration Tester / Ethical Hacker — A Complete Guide with Tools & Practical… | Nasr Ullah Mahar | [Read More](https://medium.com/p/72f37f9f6769) |
+| Sat, 31 May 2025 16:35:52 GMT | How to Make Money with Hacking (ethical way) | Cypher.One | [Read More](https://medium.com/p/ca8b188b3963) |
+| Sat, 31 May 2025 16:31:39 GMT | Can I Recover My Bitcoin That Was Stolen From Me Last Month? | Crime Stories | [Read More](https://medium.com/p/e0ec4babb358) |
+| Sat, 31 May 2025 16:31:15 GMT | DS_Store — Information Disclosure | elcezeri | [Read More](https://medium.com/p/0b9ac0bca064) |
+| Sat, 31 May 2025 16:28:29 GMT | The Zero-Day Exploits and Command Infrastructure Behind Stuxnet | HAKAM | [Read More](https://medium.com/p/e85993b43b66) |
+| Sat, 31 May 2025 16:25:30 GMT | How Can I Recover My Scammed $82,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/92f2dd3a8562) |
 | Sat, 31 May 2025 16:21:49 GMT | BUG: Comprehensive Guide To Earning Rewards | $BUG Bug Community Rewards | [Read More](https://medium.com/p/ebdca84dc3f7) |
 | Sat, 31 May 2025 16:12:03 GMT | How Casual Browsing Uncovered a Chain of Critical Vulnerabilities (and What I Did Next) | A S Kshatriya | [Read More](https://medium.com/p/f55b5eb9ec4e) |
 | Sat, 31 May 2025 16:07:07 GMT | CEH v13 (AI)考試心得和考前的資料準備 | Azkyl | [Read More](https://medium.com/p/fbcf44e1dfec) |
@@ -107,11 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 10:31:56 GMT | ☁️ SSRF in Cloud Environments: Exploiting AWS Metadata Services Explained with  Scenarios… | Zoningxtr | [Read More](https://medium.com/p/b5b86d24d999) |
 | Sat, 31 May 2025 10:30:52 GMT | What OffSec Beginners are really struggling with — and how you can break through | Niklas Heringer | [Read More](https://medium.com/p/2667a7843405) |
 | Sat, 31 May 2025 10:26:41 GMT | ️ HTB Machine: Sequel — Write-up by Fadlu | Fadhlur rohman | [Read More](https://medium.com/p/43797461f062) |
-| Sat, 31 May 2025 10:25:20 GMT | Aligning NIST CSF Organizational Profiles, Community Profiles, and the AI Risk Management… | Danish | [Read More](https://medium.com/p/de8a5bda44b7) |
-| Sat, 31 May 2025 10:13:54 GMT | Boost Your Safety: Which of the Following is an Example of a Strong Password for Cyber Awareness… | Tahashaikhseo | [Read More](https://medium.com/p/5d528f630bb0) |
-| Sat, 31 May 2025 10:06:01 GMT | Domain (Renewal) Pricings going UP | Mohammed Brückner | [Read More](https://medium.com/p/7d3221205dd4) |
-| Sat, 31 May 2025 10:03:15 GMT | Open Letter to the International Community Medical Terrorism | SIMKRA | [Read More](https://medium.com/p/96878dc73ff9) |
-| Sat, 31 May 2025 10:02:09 GMT | therocktrading.com Reviews — Recovery just got Easier | Nadine Konig | [Read More](https://medium.com/p/acfec6c86657) |
-| Sat, 31 May 2025 09:57:34 GMT | How to Avoid Common Crypto Scams in 2025: A Beginner’s Guide | TheCoinVibe | [Read More](https://medium.com/p/c8a22c307b9f) |
-| Sat, 31 May 2025 09:56:39 GMT | Network Forensics in Action: My Wireshark Analysis of a Suspicious ANZ Traffic Capture | Gabriel Santos | [Read More](https://medium.com/p/9272c37a13ee) |
-| Sat, 31 May 2025 09:50:56 GMT | Zoomposium with Prof. Dr. Martin Bogdan: “When AI gets bored — Ways to (artificial) consciousness | Philo Sophies | [Read More](https://medium.com/p/7fae5ec0b9f3) |
