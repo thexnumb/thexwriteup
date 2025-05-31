@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 22:30:46 GMT | b3dr0ck . Privilege Escalation . TryHackMe Walkthrough, 120 points | RosanaFSS | [Read More](https://medium.com/p/af8effe16b2f) |
 | Sat, 31 May 2025 22:16:36 GMT | How to Build a Secure Network Access Strategy Using Software-Defined Perimeter (SDP) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/99abc34e8fcc) |
 | Sat, 31 May 2025 22:12:25 GMT | Nights Like These | Softly Human | [Read More](https://medium.com/p/1dad41ef78cb) |
 | Sat, 31 May 2025 21:55:12 GMT | Adversarial AI 101: A Practical Introduction to Machine Learning Attacks | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/8e04599ac9dc) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 15:04:46 GMT | #Introduction to Cybersecurity | Jai Rathore | [Read More](https://medium.com/p/fa31221cc4a8) |
 | Sat, 31 May 2025 15:02:19 GMT | AI & Web3 A deadly combination? Or we are just assuming things? | Web3 Nautiyal | [Read More](https://medium.com/p/b778077a7d8c) |
 | Sat, 31 May 2025 14:54:33 GMT | Trinity Protocol Deep Dive: Engineering Bulletproof Multi-Chain Security | Chronos Vault | [Read More](https://medium.com/p/7d3a221a71bf) |
-| Sat, 31 May 2025 14:53:35 GMT | I am Back, Sweet Bugs In Smart Contracts: tx.origin | Batuhan Aydın | [Read More](https://medium.com/p/f51ede122365) |
