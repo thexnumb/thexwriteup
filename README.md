@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 23:18:07 GMT | [Research] S&P 2025 Trend Report: Where AI, Privacy, and Attack Surfaces Collide | Joseph's Web3 and Start-Ups Adventure | [Read More](https://medium.com/p/869939849746) |
 | Sat, 31 May 2025 23:16:15 GMT | Vulnerability is messy. Ugly. Brutal. | Jen Marie | [Read More](https://medium.com/p/68a13780876f) |
 | Sat, 31 May 2025 23:15:07 GMT | Business Logic Bug: Enforce victim to accept the invitation | Ossama (@pent0ss) | [Read More](https://medium.com/p/3e7811978ad0) |
 | Sat, 31 May 2025 23:14:56 GMT | So You Wanna Be a Cybersecurity Hero? A Super Noob-Friendly Roadmap (With Memes) | Ahmad Ubaidillah | [Read More](https://medium.com/p/d17237156a73) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 15:47:03 GMT | Datenproduktentwicklung in Deutschland: Der strategische Fahrplan für nachhaltigen… | Philip Hansen | [Read More](https://medium.com/p/1b7d14af4346) |
 | Sat, 31 May 2025 15:33:03 GMT | My Beginner’s Journey: Using Raspberry Pi Pico W to Explore BadUSB Attacks | Agape HearTs | [Read More](https://medium.com/p/21c75c688731) |
 | Sat, 31 May 2025 15:27:49 GMT | Inside the Black Box: How US Border Agents Crack Your Devices | Denis | [Read More](https://medium.com/p/3db0183ef1f0) |
-| Sat, 31 May 2025 15:22:58 GMT | Reading- Hurts More Than “Not Reading” at All | Nahom Tamru | [Read More](https://medium.com/p/eaa277484c6c) |
