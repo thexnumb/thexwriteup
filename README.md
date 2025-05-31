@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 02:55:32 GMT | Cypher — HackTheBox(Medium level difficulty machine) | Mohamed Aamir Khan | [Read More](https://medium.com/p/0cc331e1f3b5) |
+| Sat, 31 May 2025 02:54:51 GMT | Maximize Your Passive Income with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/3c55167eb515) |
+| Sat, 31 May 2025 02:53:09 GMT | Cyberlog #1 — The Beginning of an Adventure at IDN Bootcamp | NafyCat69 | [Read More](https://medium.com/p/3c1f94bc19b5) |
+| Sat, 31 May 2025 02:16:07 GMT | AI in Government: How Artificial Intelligence is Reshaping Public Services in 2025. | Ddm atiq | [Read More](https://medium.com/p/b4b2e3dd432a) |
+| Sat, 31 May 2025 02:11:47 GMT | How Vulnerability Builds Belonging | Brianna O'Keefe | [Read More](https://medium.com/p/5b885698c3f6) |
+| Sat, 31 May 2025 01:59:39 GMT | AI's Rebellion: When the Tools We Created Start Ignoring Us | Majeztik SlumBoi / Julius Crawford | [Read More](https://medium.com/p/09202133835b) |
+| Sat, 31 May 2025 01:53:41 GMT | NeuroGeneric Al and Electromagnetic Interference: Ensuring Security and Robustness | Alanshaju | [Read More](https://medium.com/p/eca4a3abfb3c) |
+| Sat, 31 May 2025 01:52:12 GMT | Are Loyalty Cards the New Bitcoin? | Tina Ginn | [Read More](https://medium.com/p/b08008b39e26) |
+| Sat, 31 May 2025 01:43:50 GMT | Centralized Sysmon Configuration Management with Copilot and Wazuh | SOCFortress | [Read More](https://medium.com/p/eeec42a1306a) |
 | Sat, 31 May 2025 01:29:45 GMT | Fawkes VulnHub Walkthrough — Hard Level | Pawan Koirala | [Read More](https://medium.com/p/39c5db0e909e) |
 | Sat, 31 May 2025 01:22:41 GMT | Advanced Persistent Threat Simulation for Global Critical Assets | A-STAR7_DOCTOR | [Read More](https://medium.com/p/3842bb268094) |
 | Sat, 31 May 2025 01:20:22 GMT | ConnectWise ScreenConnect Patch for ASP.NET ViewState Vulnerability | Raviteja Mureboina | [Read More](https://medium.com/p/cb2466defded) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 18:05:42 GMT | WannaCry Fidye Yazılımı: Nasıl Çalıştı, Kimler Etkilendi, Fidye Yazılımlardan Nasıl Korunuruz? | Çağlar Suvari | [Read More](https://medium.com/p/933b35161f6b) |
 | Fri, 30 May 2025 18:00:35 GMT | I will write engineering, tech, software engineer, superintendent, construction resume | Ciciliajane | [Read More](https://medium.com/p/694b3dba8bba) |
 | Fri, 30 May 2025 18:00:35 GMT | The Shadow Beneath the Surface: Unpacking the Rise of Pure Crypter and Its Implications for… | Siva Gunasekaran | [Read More](https://medium.com/p/c341a5cb9622) |
-| Fri, 30 May 2025 17:57:51 GMT | #  CVE-2025-45542: Time-Based Blind SQL Injection in CloudClassroom PHP Project v1.0 | Sanjay Singh | [Read More](https://medium.com/p/1fa0efc8a94a) |
-| Fri, 30 May 2025 17:55:52 GMT | The Hidden Dangers of Browser Add-ons You Didn’t Approve | Akshay Chauhan | [Read More](https://medium.com/p/24b72fe7aaac) |
-| Fri, 30 May 2025 17:52:26 GMT | HTML INJECTION :) | kutty | [Read More](https://medium.com/p/874374f71e9e) |
-| Fri, 30 May 2025 17:51:52 GMT | My Own CyberSecurity Roadmap Story | sultanrk | [Read More](https://medium.com/p/5b81fbc27bea) |
-| Fri, 30 May 2025 17:49:41 GMT | How One App Can Starve Others: Let’s get to the basics | Swapnil Saha | [Read More](https://medium.com/p/2bc87f769b32) |
-| Fri, 30 May 2025 17:44:32 GMT | Encrypting and Dynamically Loading Malicious APK Payloads | Subigya Ghimire | [Read More](https://medium.com/p/cb67b3620984) |
-| Fri, 30 May 2025 17:40:20 GMT | Penetration Testing and its Role In Cybersecurity | Dheeraj Salunkhe | [Read More](https://medium.com/p/4492607a9484) |
-| Fri, 30 May 2025 17:37:06 GMT | Kafka Deep-Dive: Architecture, Performance, Ecosystem & Security | Amit Pawar | [Read More](https://medium.com/p/f4bfadd28c19) |
-| Fri, 30 May 2025 17:30:03 GMT | How I Use Free Tools to Audit Websites for Security Vulnerabilities | Shahzaib Khan | [Read More](https://medium.com/p/ef99f48a32b6) |
