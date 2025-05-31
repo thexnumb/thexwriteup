@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 05:04:42 GMT | You Should Know About This Bug, XMLRPC, WordPress. | Charon19d | [Read More](https://medium.com/p/4604e29a8908) |
+| Sat, 31 May 2025 04:57:51 GMT | From Cables to Configuration: What Networking Taught Me About Systems Thinking | Joshua Jolly Lumbuye | [Read More](https://medium.com/p/641769d99dfd) |
+| Sat, 31 May 2025 04:51:17 GMT | Threat Modeling: Hack-Proof Your Apps with Case Studies-Part2 | DrSecurityGuru | [Read More](https://medium.com/p/f2312e000a4e) |
+| Sat, 31 May 2025 04:45:01 GMT | 5-Year Roadmap to Becoming a Red Team Professional | Aaron Barrichello | [Read More](https://medium.com/p/df916e0a8120) |
 | Sat, 31 May 2025 04:34:00 GMT | Every PHP Upload Handler You’ve Used is Broken — Here’s the Zero-Copy Fix That’ll Save Your… | Asian Digital Hub | [Read More](https://medium.com/p/5f5d05d54046) |
 | Sat, 31 May 2025 04:26:44 GMT | Membuat Topologi Jaringan Sederhana Menggunakan Cisco Packet Tracer | Darmayanti | [Read More](https://medium.com/p/d5cb25291136) |
 | Sat, 31 May 2025 04:22:27 GMT | How to Take Down Phishing Websites: A Citizen’s Guide to Fighting Online Scams | Aayush Darange | [Read More](https://medium.com/p/b4a65b67fcff) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 19:31:40 GMT | Nation-State Breach at ConnectWise: Unpacking the Real Threat to Managed Service Providers and… | Chetan Seripally | [Read More](https://medium.com/p/2df1543b898a) |
 | Fri, 30 May 2025 19:20:35 GMT | G1004 LAPSUS$ APT Grubu: | Yusuf Kürüm | [Read More](https://medium.com/p/c2b5ed2b6f45) |
 | Fri, 30 May 2025 19:15:06 GMT | Why I Use Read-Only Partitions on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/b2e8f43c3b0f) |
-| Fri, 30 May 2025 19:07:27 GMT | Typosquatting: How a Simple Typo Can Lead to a Cyberattack | Ramsey Consulting Services | [Read More](https://medium.com/p/1f5cb1507d4b) |
-| Fri, 30 May 2025 19:04:49 GMT | apidays 2025 recap | Meriç Aydonat | [Read More](https://medium.com/p/d00c48d029a8) |
-| Fri, 30 May 2025 19:00:02 GMT | Inside the SAR: The Federal Cybersecurity Report That Haunts Your Weekends | Richard Wilder | [Read More](https://medium.com/p/b2448334fa99) |
-| Fri, 30 May 2025 18:57:58 GMT | Simulasi Packet Tracer: Pengaruh Access Control List (ACL) terhadap Konektivitas Jaringan. | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/aa02a94a4922) |
