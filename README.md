@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 04:10:36 GMT | FallParams — Find All Parameters | AbhirupKonwar | [Read More](https://medium.com/p/ec47aff4aaf3) |
+| Sat, 31 May 2025 04:07:47 GMT | Common HTTP Methods | Chai | [Read More](https://medium.com/p/037eafcfa482) |
+| Sat, 31 May 2025 04:01:48 GMT | Introducing Secret AI: The Truly Private AI Assistant That Works 100% Offline | Secret AI | [Read More](https://medium.com/p/3560fe570c06) |
+| Sat, 31 May 2025 03:53:38 GMT | Why I Believe I Know Who Satoshi Nakamoto Is | Kevin Heuzey | [Read More](https://medium.com/p/c507f80157ee) |
+| Sat, 31 May 2025 03:49:46 GMT | Vulnerability assessment tools | Thahackfriday | [Read More](https://medium.com/p/6d1ac6eda5dc) |
 | Sat, 31 May 2025 03:35:49 GMT | Who Was the First Bitcoin Miner? | Kevin Heuzey | [Read More](https://medium.com/p/18583936e71a) |
 | Sat, 31 May 2025 03:32:30 GMT | Tinyauth : Simplest Authentication for Your Self-Hosted Apps | Saisamarth Udikeri | [Read More](https://medium.com/p/6c37b11f4853) |
 | Sat, 31 May 2025 03:32:30 GMT | When Old Passwords Strike Back: Inside the Cyber Attacks on Australian Super Funds | Deven Chhajed | [Read More](https://medium.com/p/91633e1d759e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 18:50:15 GMT | NO LONGER THE VICTIM | Scripture of Balance Author & Founder | [Read More](https://medium.com/p/5f1455dde537) |
 | Fri, 30 May 2025 18:49:22 GMT | Northern California Children’s Therapy Center Data Breach: What Parents and Families Need to Know | LegalNewsbyDave | [Read More](https://medium.com/p/6f63932126df) |
 | Fri, 30 May 2025 18:48:09 GMT | Exploring the Dark Web: A Comprehensive Guide to Information and Access | Shah poran shakil | [Read More](https://medium.com/p/0d04fe8132f9) |
-| Fri, 30 May 2025 18:46:28 GMT | XSS (Cross-Site Scripting) Nedir? | Aycan Yılmazoğlu | [Read More](https://medium.com/p/44ab768cc9a8) |
-| Fri, 30 May 2025 18:46:12 GMT | The AI War: The Rise – Part One | Ritisha bhatt | [Read More](https://medium.com/p/46544bc88e53) |
-| Fri, 30 May 2025 18:45:36 GMT | When Automation Backfires: Flaws in Smart Contract Timers and Scheduled Logic | Web3 Nautiyal | [Read More](https://medium.com/p/50c906313ea4) |
-| Fri, 30 May 2025 18:42:08 GMT | Beginner-Level Active Directory Lab with BadBlood & Forest Druid | Collins Aladekugbe | [Read More](https://medium.com/p/4b7b9c9f6ae8) |
-| Fri, 30 May 2025 18:36:47 GMT | How HIPAA Compliance Protects Patient Trust and Medical Data | Auditify Security | [Read More](https://medium.com/p/c0e300ccb790) |
