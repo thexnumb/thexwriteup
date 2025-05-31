@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 13:27:22 GMT | Malware Analysis Certification | bl77rd | [Read More](https://medium.com/p/988b3256395a) |
+| Sat, 31 May 2025 13:19:15 GMT | 5-Year Journey in Cybersecurity (2025–2030): A Roadmap Toward Professional Development | Raihan fadhilah | [Read More](https://medium.com/p/c11eea57d3f3) |
+| Sat, 31 May 2025 13:12:44 GMT | How Effective Is Data Governance in the Era of AI-Driven Cyber Threats? | Kumar Rohit | [Read More](https://medium.com/p/e75e5a5d0471) |
+| Sat, 31 May 2025 13:12:31 GMT | Automated Exploit Usage and Module Development with Metasploit Framework | Esra Kayhan | [Read More](https://medium.com/p/8a26707f4769) |
+| Sat, 31 May 2025 13:03:38 GMT | "When Even Breathing Feels Like a Burden" | @OfficiallyMarvi | [Read More](https://medium.com/p/df763bb4356b) |
+| Sat, 31 May 2025 12:58:48 GMT | My Roadmap 5 Years ahead | skeremo | [Read More](https://medium.com/p/afaf0812bdbd) |
+| Sat, 31 May 2025 12:57:36 GMT | • E BOOK HACKING/CYBER SECURITY ORIGINAL
+___ __________________
+- advance penetration testing
+-… | ditt__ | [Read More](https://medium.com/p/25df583b9e04) |
+| Sat, 31 May 2025 12:56:11 GMT | Designing Post-Quantum-Resistant Cloud Infrastructure | A-STAR7_DOCTOR | [Read More](https://medium.com/p/45df73bbf38a) |
+| Sat, 31 May 2025 12:55:36 GMT | How I drastically reduced the time spent managing my emails | Laurent MOULIN | [Read More](https://medium.com/p/a1f80df682b3) |
+| Sat, 31 May 2025 12:55:33 GMT | Understanding PKI, HTTPS, and Certificates: How the Internet Stays Secure ️ | Mahalingam SRE | [Read More](https://medium.com/p/8d5779244085) |
+| Sat, 31 May 2025 12:52:35 GMT | Microservices Under Siege: Mastering Security with Real-World Scenarios & Modern Tech | Lets Learn Now | [Read More](https://medium.com/p/c4eeec532827) |
+| Sat, 31 May 2025 12:41:03 GMT | AI-Driven Cybersecurity: New Careers on the Horizon | Tejus C | [Read More](https://medium.com/p/64a5137e04ba) |
+| Sat, 31 May 2025 12:35:59 GMT | Facebook App Secret Exposed in GlassWire Binary | Monika sharma | [Read More](https://medium.com/p/e8a4e99afb27) |
 | Sat, 31 May 2025 12:35:16 GMT | Unauthenticated Kibana Dashboard Access — A Serious Security Risk You Can’t Ignore | Pratik Dabhi | [Read More](https://medium.com/p/002d4d0e24b9) |
 | Sat, 31 May 2025 12:34:54 GMT | ️ Belajar Cyber Security untuk Junior Web Developer (Application Security) | Ridy | [Read More](https://medium.com/p/69366f1fe0b0) |
 | Sat, 31 May 2025 12:31:14 GMT | JSONpocalypse Now: How JSONP Exposure Led to Sensitive Data Leakage | Iski | [Read More](https://medium.com/p/987b0e2718a8) |
@@ -99,16 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 07:30:32 GMT | Quantum Key Distribution for Cross-Continent Secure Links: The Dawn of Unbreakable Communication | A-STAR7_DOCTOR | [Read More](https://medium.com/p/49a6e5b78517) |
 | Sat, 31 May 2025 07:20:41 GMT | Penggunaan Dasar Jaringan dengan Cisco Packet Tracer | Riski Hidayat | [Read More](https://medium.com/p/647f0b358658) |
 | Sat, 31 May 2025 07:17:26 GMT | Why Sleep is the Ultimate Productivity Hack (Backed by Science) | self impro.. | [Read More](https://medium.com/p/f7ec84d54c62) |
-| Sat, 31 May 2025 07:11:36 GMT | OPSEC vs. the illusion of security | toomuchaciiid | [Read More](https://medium.com/p/82be7eedf0b5) |
-| Sat, 31 May 2025 07:06:35 GMT | Understanding CCTV: Enhancing Security in a Modern World | Nestrondigitalhub | [Read More](https://medium.com/p/69ba2f97ffbb) |
-| Sat, 31 May 2025 07:06:03 GMT | Business Logic Flaw in a Rating System and Earned €150 | Erkan Kavas | [Read More](https://medium.com/p/a992ceb571a1) |
-| Sat, 31 May 2025 07:05:05 GMT | Local Experts in Residential Security in Manchester | Marvelloussecurities | [Read More](https://medium.com/p/ec447f9adb89) |
-| Sat, 31 May 2025 07:03:36 GMT | Deloitte Faces Alleged Data Breach by Hacker ‘303’ | Virtual Cyber Labs | [Read More](https://medium.com/p/b5919b34c655) |
-| Sat, 31 May 2025 07:01:21 GMT | Hack-Proof Your Web App: The Art & Science of Security Testing for Modern Web Applications | Mohd Ataa Khan | [Read More](https://medium.com/p/365c506486c8) |
-| Sat, 31 May 2025 06:55:21 GMT | CTF Day(7) | Ahmed Narmer | [Read More](https://medium.com/p/58d2feb3b6a2) |
-| Sat, 31 May 2025 06:53:31 GMT | A Ticking Time Bomb Discovered in NPM: Malicious Package Waited Six Years to Destroy Your Project! | Alper Konuralp | [Read More](https://medium.com/p/97d0b3d52709) |
-| Sat, 31 May 2025 06:51:51 GMT | Operation Sindoor: A Wake-Up Call for India’s Digital Defense | Navigtech | [Read More](https://medium.com/p/0081a7be9789) |
-| Sat, 31 May 2025 06:50:16 GMT | NPM Paket Yöneticisinde Keşfedilen Saatli Bomba: Projenizi Yok Etmek İçin 6 Yıl Bekleyen Sinsi… | Alper Konuralp | [Read More](https://medium.com/p/2b79ead04d53) |
-| Sat, 31 May 2025 06:46:07 GMT | Are Developers Sharing Too Much With ChatGPT? | Joyal Saji | [Read More](https://medium.com/p/f94de6fd4a8a) |
-| Sat, 31 May 2025 06:43:13 GMT | Celebrating 10 Years of Cybersecurity Insights | JC Gaillard | [Read More](https://medium.com/p/798bf1b3f8a4) |
-| Sat, 31 May 2025 06:42:54 GMT | 5 Major Cloud Security Threats and Proven Solutions | RITC Cybersecurity | [Read More](https://medium.com/p/e08cac4cf5e4) |
