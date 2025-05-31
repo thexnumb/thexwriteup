@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 21:08:54 GMT | The silent bug that took down my app | Serhii Hryshyn | [Read More](https://medium.com/p/98ae3ef76b7c) |
+| Sat, 31 May 2025 21:03:51 GMT | U.S. DoJ Seizes Domains Supporting Cybercrime in Global Malware Disruption | Ronit Yadav | [Read More](https://medium.com/p/6a33dbac7190) |
+| Sat, 31 May 2025 20:59:08 GMT | Cybersecurity in 2025: A Simple Guide for Students and Beginners | Abdii Ahmed | [Read More](https://medium.com/p/9149c0b8ca43) |
+| Sat, 31 May 2025 20:49:42 GMT | Boost Your Safety: Which of the Following is an Example of a Strong Password for Cyber Awareness… | Tahashaikhseo | [Read More](https://medium.com/p/c793ab484a4f) |
+| Sat, 31 May 2025 20:34:18 GMT | ️ Manual OSINT vs API/Automation OSINT — Which One Actually Wins? | Rajput Haxor | [Read More](https://medium.com/p/6fb0c978915d) |
 | Sat, 31 May 2025 20:27:38 GMT | A few months ago, I fell victim to a fake hack online and lost access to my Bitcoin (BTC). | Jurgenhans | [Read More](https://medium.com/p/41deb083aadc) |
 | Sat, 31 May 2025 20:27:01 GMT | Inside the Scam Unpacking a Real Phishing Email Attempt | Miri Mohammed | [Read More](https://medium.com/p/72e3857d98ef) |
 | Sat, 31 May 2025 20:24:30 GMT | You Think I’m Generous. But I’m Just Hiding | Nada Mandour | [Read More](https://medium.com/p/0fbc24f0d0ce) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 14:13:41 GMT | Data Leak by Abusing World Writable File: Bandit23 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ab468e69238b) |
 | Sat, 31 May 2025 14:10:37 GMT | Server Hardening 101: Next-Level Security for Your Linux Environment (Part 2) | Tomer Klein | [Read More](https://medium.com/p/43570e33d259) |
 | Sat, 31 May 2025 14:09:43 GMT | Wireshark - a complete Packet analysis Project Overview | Megavarnan | [Read More](https://medium.com/p/aabdc2654ecd) |
-| Sat, 31 May 2025 13:59:51 GMT | Bye-Bye-bit? $6,000 Gone in a Click While Bybit P2P Sleeps | From Lagos To The World Powered By TTT Media | [Read More](https://medium.com/p/6cc1a50465c5) |
-| Sat, 31 May 2025 13:59:04 GMT | BASIC JARINGAN MENGGUNAKAN SIMULATOR CISCO | My Ego | [Read More](https://medium.com/p/75cc92649d99) |
-| Sat, 31 May 2025 13:56:38 GMT | How I Hacked 2FA for a $4,500 Bounty… in Just 24 Hours! | Ibtissam hammadi | [Read More](https://medium.com/p/7f752a47c0c5) |
-| Sat, 31 May 2025 13:46:45 GMT | So You Wanna Get Into Cybersecurity? A Confused Student’s Guide (By a Formerly Confused Student ) | Aryamevada | [Read More](https://medium.com/p/ed1eb210bd2b) |
-| Sat, 31 May 2025 13:40:20 GMT | 5 Years Roadmap for SOC Analyst | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/41324071743e) |
