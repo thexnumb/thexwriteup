@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 23:16:15 GMT | Vulnerability is messy. Ugly. Brutal. | Jen Marie | [Read More](https://medium.com/p/68a13780876f) |
+| Sat, 31 May 2025 23:15:07 GMT | Business Logic Bug: Enforce victim to accept the invitation | Ossama (@pent0ss) | [Read More](https://medium.com/p/3e7811978ad0) |
+| Sat, 31 May 2025 23:14:56 GMT | So You Wanna Be a Cybersecurity Hero? A Super Noob-Friendly Roadmap (With Memes) | Ahmad Ubaidillah | [Read More](https://medium.com/p/d17237156a73) |
+| Sat, 31 May 2025 23:13:43 GMT | Why the OPPO A3 Might Be the Best Budget Smartphone of 2024 | Sippapas Sinpaisansakul | [Read More](https://medium.com/p/8f4b3a032e65) |
+| Sat, 31 May 2025 23:11:34 GMT | Classification of Hackers | Md. Rumon Munshi | [Read More](https://medium.com/p/024a265b5bd0) |
+| Sat, 31 May 2025 22:59:46 GMT | Enhancing AI with a Secure RAG Chatbot | Kerolos Lotfy | [Read More](https://medium.com/p/060ffad4f8ae) |
+| Sat, 31 May 2025 22:59:14 GMT | For my self : My Journey Back | 0xTrk | [Read More](https://medium.com/p/6158e81cc88e) |
 | Sat, 31 May 2025 22:30:46 GMT | b3dr0ck . Privilege Escalation . TryHackMe Walkthrough, 120 points | RosanaFSS | [Read More](https://medium.com/p/af8effe16b2f) |
 | Sat, 31 May 2025 22:16:36 GMT | How to Build a Secure Network Access Strategy Using Software-Defined Perimeter (SDP) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/99abc34e8fcc) |
 | Sat, 31 May 2025 22:12:25 GMT | Nights Like These | Softly Human | [Read More](https://medium.com/p/1dad41ef78cb) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 15:33:03 GMT | My Beginner’s Journey: Using Raspberry Pi Pico W to Explore BadUSB Attacks | Agape HearTs | [Read More](https://medium.com/p/21c75c688731) |
 | Sat, 31 May 2025 15:27:49 GMT | Inside the Black Box: How US Border Agents Crack Your Devices | Denis | [Read More](https://medium.com/p/3db0183ef1f0) |
 | Sat, 31 May 2025 15:22:58 GMT | Reading- Hurts More Than “Not Reading” at All | Nahom Tamru | [Read More](https://medium.com/p/eaa277484c6c) |
-| Sat, 31 May 2025 15:19:46 GMT | Demystifying IEnumerable in C#: The Backbone of Iteration | Brian Mora | [Read More](https://medium.com/p/7bde60390338) |
-| Sat, 31 May 2025 15:14:59 GMT | Introducing TSreconX! | MR Jamal Mohamed | [Read More](https://medium.com/p/2f860497874c) |
-| Sat, 31 May 2025 15:12:02 GMT | Captain VM Has Been Pwned! | Dylan Choez | [Read More](https://medium.com/p/ad713d0b55e8) |
-| Sat, 31 May 2025 15:11:24 GMT | TryHackMe-Evading Logging and Monitoring | Mohamed Ashraf | [Read More](https://medium.com/p/133a08dde7a2) |
-| Sat, 31 May 2025 15:04:46 GMT | #Introduction to Cybersecurity | Jai Rathore | [Read More](https://medium.com/p/fa31221cc4a8) |
-| Sat, 31 May 2025 15:02:19 GMT | AI & Web3 A deadly combination? Or we are just assuming things? | Web3 Nautiyal | [Read More](https://medium.com/p/b778077a7d8c) |
-| Sat, 31 May 2025 14:54:33 GMT | Trinity Protocol Deep Dive: Engineering Bulletproof Multi-Chain Security | Chronos Vault | [Read More](https://medium.com/p/7d3a221a71bf) |
