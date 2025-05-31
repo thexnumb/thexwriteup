@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 20:27:38 GMT | A few months ago, I fell victim to a fake hack online and lost access to my Bitcoin (BTC). | Jurgenhans | [Read More](https://medium.com/p/41deb083aadc) |
+| Sat, 31 May 2025 20:27:01 GMT | Inside the Scam Unpacking a Real Phishing Email Attempt | Miri Mohammed | [Read More](https://medium.com/p/72e3857d98ef) |
+| Sat, 31 May 2025 20:24:30 GMT | You Think I’m Generous. But I’m Just Hiding | Nada Mandour | [Read More](https://medium.com/p/0fbc24f0d0ce) |
 | Sat, 31 May 2025 20:17:29 GMT | Quantum Resilience Starts Now: Building Secure Infrastructure with Hybrid Cryptography | Rakesh Keshava | [Read More](https://medium.com/p/60943448433e) |
 | Sat, 31 May 2025 20:17:09 GMT | Fast & Malicious: A Study On Generation of Tokens/Time on Benign vs Malicious Prompts | Tomer Wetzler | [Read More](https://medium.com/p/accbd72b6778) |
 | Sat, 31 May 2025 20:02:24 GMT | ️ Transport Layer (Layer 4) — OSI Model | Midhun Thomas | [Read More](https://medium.com/p/d3f6b7e73ff4) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 13:56:38 GMT | How I Hacked 2FA for a $4,500 Bounty… in Just 24 Hours! | Ibtissam hammadi | [Read More](https://medium.com/p/7f752a47c0c5) |
 | Sat, 31 May 2025 13:46:45 GMT | So You Wanna Get Into Cybersecurity? A Confused Student’s Guide (By a Formerly Confused Student ) | Aryamevada | [Read More](https://medium.com/p/ed1eb210bd2b) |
 | Sat, 31 May 2025 13:40:20 GMT | 5 Years Roadmap for SOC Analyst | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/41324071743e) |
-| Sat, 31 May 2025 13:34:32 GMT | SQL Injection Tutorial: Exploiting an E-commerce Login Page | Anmolvishwakarma | [Read More](https://medium.com/p/fe3053af7234) |
-| Sat, 31 May 2025 13:32:27 GMT | ️ Ettercap and ARP Spoofing for Man-in-the-Middle (MITM) Attacks | Esra Kayhan | [Read More](https://medium.com/p/3a8cc4442fd3) |
-| Sat, 31 May 2025 13:31:41 GMT | 30 Days of Cyber Security — Day 5: Jaringan Dasar — DNS, IP, Subnetting CIDR, dan OSI Layer | Indra Rahmat Maulidi | [Read More](https://medium.com/p/b3174ec9eb77) |
