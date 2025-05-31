@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 17:33:10 GMT | What is PII? | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/2a636aa2f5a2) |
+| Sat, 31 May 2025 17:24:59 GMT | Roadmap 5 Tahun Belajar Cybersecurity dari Dasar Penetration Tester ke Red Team | AlfariziRamadhan | [Read More](https://medium.com/p/50676a0c744d) |
+| Sat, 31 May 2025 17:24:31 GMT | Beyond HTTP: InterceptSuite for TCP/TLS Traffic Interception in Windows | Sourav Kalal | [Read More](https://medium.com/p/518934bba22f) |
+| Sat, 31 May 2025 17:22:20 GMT | Spring Boot’ta AES-256 ile Üst Düzey Güvenlik: Jasypt ile Verileri Şifreleme ve Çözme! | Orhan Türkmenoğlu | [Read More](https://medium.com/p/2cdae9d94145) |
+| Sat, 31 May 2025 17:19:17 GMT | TryHackMe CTF Lo-Fi Walkthrough | eRRoR | [Read More](https://medium.com/p/7b30d8379489) |
+| Sat, 31 May 2025 17:19:01 GMT | Siber Güvenliğe Giriş — 2 | Emre TOPUZ | [Read More](https://medium.com/p/bf1046c2bbe8) |
 | Sat, 31 May 2025 17:13:54 GMT | MSMQ Nedir? SIEM Log İletiminde Neden Tercih Edilir? | Tugba Hatice | [Read More](https://medium.com/p/107683686adb) |
 | Sat, 31 May 2025 17:10:59 GMT | How Hackers Are Using AI Against You | Rahul Mishra | [Read More](https://medium.com/p/6c7e911a4f5f) |
 | Sat, 31 May 2025 17:08:27 GMT | Siber Güvenliğe Giriş — 1 | Emre TOPUZ | [Read More](https://medium.com/p/2304205c964d) |
@@ -109,9 +115,3 @@ ___ __________________
 | Sat, 31 May 2025 11:12:05 GMT | HTTP Security Headers  (Website Penetration Testing) | Simant Kumar | [Read More](https://medium.com/p/e659d3344140) |
 | Sat, 31 May 2025 11:11:11 GMT | Session Management - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/9bbc3d6226a6) |
 | Sat, 31 May 2025 11:10:15 GMT | Finally Figured Out Pinterest Growth, Here’s What Helped! | Margie Foster | [Read More](https://medium.com/p/de263e16ccbc) |
-| Sat, 31 May 2025 11:09:13 GMT | Inside Howling Scorpius (G1024): A Deep Dive into the Akira Ransomware Operation | HAKAM | [Read More](https://medium.com/p/2d6678046d51) |
-| Sat, 31 May 2025 11:05:25 GMT | Stop Being Unvulnerable | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/de16f67acacd) |
-| Sat, 31 May 2025 11:04:30 GMT | Server Hardening 101: Essential Steps to Secure Your Linux Environment — Part 1 | Tomer Klein | [Read More](https://medium.com/p/475c467606d5) |
-| Sat, 31 May 2025 10:54:54 GMT | Wealthsimple Review: How I Recovered My Funds with the Help of Mr. Micheal | Jurgen Pedersen | [Read More](https://medium.com/p/7cc08514e7df) |
-| Sat, 31 May 2025 10:52:20 GMT | Here’s How I Recover My Money From Wealthsimplem.com | Jurgen Pedersen | [Read More](https://medium.com/p/90fb81ec475e) |
-| Sat, 31 May 2025 10:51:59 GMT | Difference Between SSL And TLS: Which Secures Better? | Aadhira Jayaprakash | [Read More](https://medium.com/p/a6d9115a3209) |
