@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 12:35:16 GMT | Unauthenticated Kibana Dashboard Access — A Serious Security Risk You Can’t Ignore | Pratik Dabhi | [Read More](https://medium.com/p/002d4d0e24b9) |
+| Sat, 31 May 2025 12:34:54 GMT | ️ Belajar Cyber Security untuk Junior Web Developer (Application Security) | Ridy | [Read More](https://medium.com/p/69366f1fe0b0) |
+| Sat, 31 May 2025 12:31:14 GMT | JSONpocalypse Now: How JSONP Exposure Led to Sensitive Data Leakage | Iski | [Read More](https://medium.com/p/987b0e2718a8) |
+| Sat, 31 May 2025 12:24:03 GMT | Unlocking the $100,000 Bounty: Case Study on Headless Chrome Vulnerability in Facebook | DrSecurityGuru | [Read More](https://medium.com/p/e20c0ca20e4c) |
+| Sat, 31 May 2025 12:20:27 GMT | Discover the Top Cyber Security Course in Calicut at RedTeam Hacker Academy | Bivek raj | [Read More](https://medium.com/p/4c54238f8a64) |
+| Sat, 31 May 2025 12:14:00 GMT | Building a Closed‑Loop Vulnerability Management Lifecycle | Maksim Goldenberg | [Read More](https://medium.com/p/020b5415df55) |
+| Sat, 31 May 2025 12:12:08 GMT | Rencana karir Cybersecurity saya 5 Tahun kedepan. | Tiorajin | [Read More](https://medium.com/p/2020248bbc76) |
+| Sat, 31 May 2025 12:03:42 GMT | ️ Become an Ethical Hacking Specialist — Protect the Digital World | Tushar Digitalaakar | [Read More](https://medium.com/p/1a8b350d07ad) |
+| Sat, 31 May 2025 11:54:10 GMT | nomor WhatsApp Tokopedia 08174773375 | Tokopedia | [Read More](https://medium.com/p/bbc09d4ec53a) |
+| Sat, 31 May 2025 11:49:15 GMT | between detachment & devotion | hails 辉丽 | [Read More](https://medium.com/p/a7a1b839214c) |
+| Sat, 31 May 2025 11:46:02 GMT | CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition | Anonymousshetty | [Read More](https://medium.com/p/d8b88a2a8c7b) |
+| Sat, 31 May 2025 11:40:12 GMT | Saldırının Melodisi: Wanna Cry ve Ağların Derinliklerindeki Sızı | Gülsinem Karadağ | [Read More](https://medium.com/p/3bd4191e8d38) |
+| Sat, 31 May 2025 11:39:31 GMT | CyberHeroes - TryHackMe Writeup | Cillia | [Read More](https://medium.com/p/d4f2d9c8bae1) |
+| Sat, 31 May 2025 11:35:29 GMT | A Passion for Tech, the Power of Business Insights and the Art of Mentorship & Lifelong Learning —… | Wecncode | [Read More](https://medium.com/p/74bd925377b1) |
+| Sat, 31 May 2025 11:32:41 GMT | Cap - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/7c57b1e3f5c1) |
 | Sat, 31 May 2025 11:30:47 GMT | From Blind Spots to Business Value: How Mend Unified Agent and the Mend Platform Transform… | Radhika Kedia | [Read More](https://medium.com/p/462677ae5d18) |
 | Sat, 31 May 2025 11:26:53 GMT | Unlock Your Future with the Top Cyber Security Course in Calicut | Bivek raj | [Read More](https://medium.com/p/aa8a6e3d4f90) |
 | Sat, 31 May 2025 11:26:09 GMT | Sui community approves release of $162M in tokens frozen during Cetus hack | IC News | [Read More](https://medium.com/p/5645c8ee33b1) |
+| Sat, 31 May 2025 11:24:31 GMT | Instalasi Wazuh Agent — Menyebarkan ‘Mata-Mata’ di Jaringan Anda | Sigit Adi Irianto | [Read More](https://medium.com/p/bcf49afbc036) |
 | Sat, 31 May 2025 11:22:20 GMT | Track the Hacks: Uncovered SQL Injection with Log Analysis | byuda | [Read More](https://medium.com/p/dd67b01b77ee) |
 | Sat, 31 May 2025 11:22:00 GMT | How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability… | Anonymousshetty | [Read More](https://medium.com/p/c1509ef9d3df) |
 | Sat, 31 May 2025 11:12:05 GMT | HTTP Security Headers  (Website Penetration Testing) | Simant Kumar | [Read More](https://medium.com/p/e659d3344140) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 06:46:07 GMT | Are Developers Sharing Too Much With ChatGPT? | Joyal Saji | [Read More](https://medium.com/p/f94de6fd4a8a) |
 | Sat, 31 May 2025 06:43:13 GMT | Celebrating 10 Years of Cybersecurity Insights | JC Gaillard | [Read More](https://medium.com/p/798bf1b3f8a4) |
 | Sat, 31 May 2025 06:42:54 GMT | 5 Major Cloud Security Threats and Proven Solutions | RITC Cybersecurity | [Read More](https://medium.com/p/e08cac4cf5e4) |
-| Sat, 31 May 2025 06:42:29 GMT | Ever connect to a café Wi-Fi without thinking? | Vexpoltech | [Read More](https://medium.com/p/586b863951ce) |
-| Sat, 31 May 2025 06:42:04 GMT | La máquina de la ‘empatía’ | Ignacio Chiguay | [Read More](https://medium.com/p/2c6d5a798ee1) |
-| Sat, 31 May 2025 06:39:06 GMT | Nmap — Tryhackme Room Walkthrough | Eleanor | [Read More](https://medium.com/p/c8b243dacf01) |
-| Sat, 31 May 2025 06:28:10 GMT | Salt and WASM | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/b6761391a909) |
-| Sat, 31 May 2025 06:10:13 GMT | the rise of quiet quitting 9 | S Anuradha | [Read More](https://medium.com/p/eac35e739167) |
-| Sat, 31 May 2025 06:05:08 GMT | Enhance the Security of Your Building with the Installation CCTV Camera | Harperjack | [Read More](https://medium.com/p/f4308d02b814) |
-| Sat, 31 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ff0c082fbeb3) |
-| Sat, 31 May 2025 05:57:26 GMT | Bypassing Regex Validations to Achieve RCE: A Wild Bug Story | Abhijeet Kumawat | [Read More](https://medium.com/p/6476faccbc23) |
-| Sat, 31 May 2025 05:48:08 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/c2c54449c7c6) |
-| Sat, 31 May 2025 05:44:15 GMT | Top 5 Ethical Hacking Hardware Tools You Can Legally Use in Europe (2025) | Omsai | [Read More](https://medium.com/p/efcc76ba6fbb) |
-| Sat, 31 May 2025 05:31:40 GMT | ️ Roadmap Cyber Security 5 Tahun: Dari Mahasiswa Gabut ke Guardian Digital | Ninjaiii | [Read More](https://medium.com/p/8c8aebca4e52) |
-| Sat, 31 May 2025 05:25:32 GMT | The Teen Hacker Who Took Down a Billion-Dollar Company | Mr Vale | [Read More](https://medium.com/p/c06c402e33ba) |
-| Sat, 31 May 2025 05:24:01 GMT | 5-Year Roadmap to Becoming a Cybersecurity Professional | HETSHI | [Read More](https://medium.com/p/6045542cf7a0) |
-| Sat, 31 May 2025 05:04:42 GMT | You Should Know About This Bug, XMLRPC, WordPress. | Charon19d | [Read More](https://medium.com/p/4604e29a8908) |
-| Sat, 31 May 2025 04:57:51 GMT | From Cables to Configuration: What Networking Taught Me About Systems Thinking | Joshua Jolly Lumbuye | [Read More](https://medium.com/p/641769d99dfd) |
-| Sat, 31 May 2025 04:51:17 GMT | Threat Modeling: Hack-Proof Your Apps with Case Studies-Part2 | DrSecurityGuru | [Read More](https://medium.com/p/f2312e000a4e) |
