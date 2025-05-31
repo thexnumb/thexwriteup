@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 18:24:17 GMT | Roadmap menjadi Cyber Security dalam 5 tahun | Donal | [Read More](https://medium.com/p/e2562230734c) |
+| Sat, 31 May 2025 18:18:50 GMT | Why Web Application Penetration Testing Is More Critical Than Ever in 2025 | -uncn | [Read More](https://medium.com/p/2c6a552af6d4) |
+| Sat, 31 May 2025 18:18:09 GMT | The Hackers Meetup — May Event | The Hackers Meetup | [Read More](https://medium.com/p/85b6338ef108) |
+| Sat, 31 May 2025 18:12:29 GMT | Breaking Through The Phone: How to Solve Ethernaut’s Challenge #4 | Martin Pál | [Read More](https://medium.com/p/f2dac7763ec9) |
+| Sat, 31 May 2025 18:11:52 GMT | Stopping the Internet Scammers: Why Can’t We Seem to Catch a Break? | Susan Poole | [Read More](https://medium.com/p/ee2d4b585371) |
+| Sat, 31 May 2025 18:07:02 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/53ee7c7257d1) |
+| Sat, 31 May 2025 18:06:47 GMT | Networking fundamentals for Developers | Adith Krishnan | [Read More](https://medium.com/p/0e5196e957ec) |
+| Sat, 31 May 2025 17:54:19 GMT | Exploring the Aspects of the Fifth Wave of Feminism. | Fatima Tahir | [Read More](https://medium.com/p/a99195c73058) |
+| Sat, 31 May 2025 17:51:41 GMT | How I have found my first valid bug that got paid. | Imran Hossain | [Read More](https://medium.com/p/7c0f8d40d568) |
+| Sat, 31 May 2025 17:51:24 GMT | Project Report : PB-TED_tool
+(Password-Based Text Encryption Decryption Tool) | Abhiram S | [Read More](https://medium.com/p/14b3c855b828) |
+| Sat, 31 May 2025 17:41:17 GMT | 99% of Developers Ignore This Simple Security Fix — Don’t Be One of Them | Pren Jak | [Read More](https://medium.com/p/5c1ec725f673) |
+| Sat, 31 May 2025 17:37:59 GMT | The best time to check your password’s strength was yesterday. | Tahashaikhseo | [Read More](https://medium.com/p/acdc3f4eab3b) |
+| Sat, 31 May 2025 17:34:59 GMT | AWS Pentesting CloudGaot sns_secrets with api keys | Ashok Reddy Medikonda | [Read More](https://medium.com/p/1b73c4fc2261) |
 | Sat, 31 May 2025 17:33:10 GMT | What is PII? | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/2a636aa2f5a2) |
 | Sat, 31 May 2025 17:24:59 GMT | Roadmap 5 Tahun Belajar Cybersecurity dari Dasar Penetration Tester ke Red Team | AlfariziRamadhan | [Read More](https://medium.com/p/50676a0c744d) |
 | Sat, 31 May 2025 17:24:31 GMT | Beyond HTTP: InterceptSuite for TCP/TLS Traffic Interception in Windows | Sourav Kalal | [Read More](https://medium.com/p/518934bba22f) |
@@ -45,6 +59,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 15:47:03 GMT | Datenproduktentwicklung in Deutschland: Der strategische Fahrplan für nachhaltigen… | Philip Hansen | [Read More](https://medium.com/p/1b7d14af4346) |
 | Sat, 31 May 2025 15:33:03 GMT | My Beginner’s Journey: Using Raspberry Pi Pico W to Explore BadUSB Attacks | Agape HearTs | [Read More](https://medium.com/p/21c75c688731) |
 | Sat, 31 May 2025 15:27:49 GMT | Inside the Black Box: How US Border Agents Crack Your Devices | Denis | [Read More](https://medium.com/p/3db0183ef1f0) |
+| Sat, 31 May 2025 15:22:58 GMT | Reading- Hurts More Than “Not Reading” at All | Nahom Tamru | [Read More](https://medium.com/p/eaa277484c6c) |
 | Sat, 31 May 2025 15:19:46 GMT | Demystifying IEnumerable in C#: The Backbone of Iteration | Brian Mora | [Read More](https://medium.com/p/7bde60390338) |
 | Sat, 31 May 2025 15:14:59 GMT | Introducing TSreconX! | MR Jamal Mohamed | [Read More](https://medium.com/p/2f860497874c) |
 | Sat, 31 May 2025 15:12:02 GMT | Captain VM Has Been Pwned! | Dylan Choez | [Read More](https://medium.com/p/ad713d0b55e8) |
@@ -101,17 +116,3 @@ ___ __________________
 | Sat, 31 May 2025 12:03:42 GMT | ️ Become an Ethical Hacking Specialist — Protect the Digital World | Tushar Digitalaakar | [Read More](https://medium.com/p/1a8b350d07ad) |
 | Sat, 31 May 2025 11:54:10 GMT | nomor WhatsApp Tokopedia 08174773375 | Tokopedia | [Read More](https://medium.com/p/bbc09d4ec53a) |
 | Sat, 31 May 2025 11:49:15 GMT | between detachment & devotion | hails 辉丽 | [Read More](https://medium.com/p/a7a1b839214c) |
-| Sat, 31 May 2025 11:46:02 GMT | CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition | Anonymousshetty | [Read More](https://medium.com/p/d8b88a2a8c7b) |
-| Sat, 31 May 2025 11:40:12 GMT | Saldırının Melodisi: Wanna Cry ve Ağların Derinliklerindeki Sızı | Gülsinem Karadağ | [Read More](https://medium.com/p/3bd4191e8d38) |
-| Sat, 31 May 2025 11:39:31 GMT | CyberHeroes - TryHackMe Writeup | Cillia | [Read More](https://medium.com/p/d4f2d9c8bae1) |
-| Sat, 31 May 2025 11:35:29 GMT | A Passion for Tech, the Power of Business Insights and the Art of Mentorship & Lifelong Learning —… | Wecncode | [Read More](https://medium.com/p/74bd925377b1) |
-| Sat, 31 May 2025 11:32:41 GMT | Cap - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/7c57b1e3f5c1) |
-| Sat, 31 May 2025 11:30:47 GMT | From Blind Spots to Business Value: How Mend Unified Agent and the Mend Platform Transform… | Radhika Kedia | [Read More](https://medium.com/p/462677ae5d18) |
-| Sat, 31 May 2025 11:26:53 GMT | Unlock Your Future with the Top Cyber Security Course in Calicut | Bivek raj | [Read More](https://medium.com/p/aa8a6e3d4f90) |
-| Sat, 31 May 2025 11:26:09 GMT | Sui community approves release of $162M in tokens frozen during Cetus hack | IC News | [Read More](https://medium.com/p/5645c8ee33b1) |
-| Sat, 31 May 2025 11:24:31 GMT | Instalasi Wazuh Agent — Menyebarkan ‘Mata-Mata’ di Jaringan Anda | Sigit Adi Irianto | [Read More](https://medium.com/p/bcf49afbc036) |
-| Sat, 31 May 2025 11:22:20 GMT | Track the Hacks: Uncovered SQL Injection with Log Analysis | byuda | [Read More](https://medium.com/p/dd67b01b77ee) |
-| Sat, 31 May 2025 11:22:00 GMT | How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability… | Anonymousshetty | [Read More](https://medium.com/p/c1509ef9d3df) |
-| Sat, 31 May 2025 11:12:05 GMT | HTTP Security Headers  (Website Penetration Testing) | Simant Kumar | [Read More](https://medium.com/p/e659d3344140) |
-| Sat, 31 May 2025 11:11:11 GMT | Session Management - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/9bbc3d6226a6) |
-| Sat, 31 May 2025 11:10:15 GMT | Finally Figured Out Pinterest Growth, Here’s What Helped! | Margie Foster | [Read More](https://medium.com/p/de263e16ccbc) |
