@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 May 2025 06:10:13 GMT | the rise of quiet quitting 9 | S Anuradha | [Read More](https://medium.com/p/eac35e739167) |
+| Sat, 31 May 2025 06:05:08 GMT | Enhance the Security of Your Building with the Installation CCTV Camera | Harperjack | [Read More](https://medium.com/p/f4308d02b814) |
+| Sat, 31 May 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — May 31, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ff0c082fbeb3) |
+| Sat, 31 May 2025 05:57:26 GMT | Bypassing Regex Validations to Achieve RCE: A Wild Bug Story | Abhijeet Kumawat | [Read More](https://medium.com/p/6476faccbc23) |
+| Sat, 31 May 2025 05:48:08 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/c2c54449c7c6) |
+| Sat, 31 May 2025 05:44:15 GMT | Top 5 Ethical Hacking Hardware Tools You Can Legally Use in Europe (2025) | Omsai | [Read More](https://medium.com/p/efcc76ba6fbb) |
 | Sat, 31 May 2025 05:31:40 GMT | ️ Roadmap Cyber Security 5 Tahun: Dari Mahasiswa Gabut ke Guardian Digital | Ninjaiii | [Read More](https://medium.com/p/8c8aebca4e52) |
 | Sat, 31 May 2025 05:25:32 GMT | The Teen Hacker Who Took Down a Billion-Dollar Company | Mr Vale | [Read More](https://medium.com/p/c06c402e33ba) |
 | Sat, 31 May 2025 05:24:01 GMT | 5-Year Roadmap to Becoming a Cybersecurity Professional | HETSHI | [Read More](https://medium.com/p/6045542cf7a0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 May 2025 20:12:05 GMT | Güvenlik Zafiyetleriyle Kod Yazmak: Farkında Olmadan Hack’leniyorsunuz | İrem İçyer | [Read More](https://medium.com/p/bc22808a0e86) |
 | Fri, 30 May 2025 20:01:15 GMT | PassCode . TryHackMe Walkthrough . Blockchain, 30 points | RosanaFSS | [Read More](https://medium.com/p/74b2b3f02c27) |
 | Fri, 30 May 2025 19:56:51 GMT | How I Stumbled Upon a Critical Webshop Vulnerability (and How It Vanished Without a Trace) | Lukasjohannesmoeller | [Read More](https://medium.com/p/bbeff4ab1f41) |
-| Fri, 30 May 2025 19:56:26 GMT | My Child Saw Through My Masks Today-What I Learned About Teaching Vulnerability | Christina Vaughn: Nurse, Writer, Creator. | [Read More](https://medium.com/p/e8453437b536) |
-| Fri, 30 May 2025 19:56:26 GMT | AI Just Found a Critical Linux Zero-Day — And This Changes Everything | Ronit Yadav | [Read More](https://medium.com/p/2f2139bfe077) |
-| Fri, 30 May 2025 19:53:08 GMT | Securing the Internet of Things: Why Post-Quantum Cryptography Is Critical for IoT’s Future | QuantumGenie | [Read More](https://medium.com/p/26ae3252dc62) |
-| Fri, 30 May 2025 19:45:37 GMT | Australia’s New Ransomware Reporting Law: What Businesses Must Know in 2025 | Ronit Yadav | [Read More](https://medium.com/p/5c0f46b294d9) |
-| Fri, 30 May 2025 19:39:54 GMT | SOC102 — EventID 35 — Suspicious URL Detected |  | [Read More](https://medium.com/p/ce3b9bff8734) |
-| Fri, 30 May 2025 19:39:45 GMT | DNS Cache Poisoning: The Invisible Hacker in the Network | Pouya aftabi | [Read More](https://medium.com/p/a0356c4a27ab) |
