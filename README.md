@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 17:06:59 GMT | How AI is Transforming Cybersecurity in 2025 | Sat Microsystems | [Read More](https://medium.com/p/b5f6bf956562) |
+| Sun, 01 Jun 2025 17:06:09 GMT | Hacking, Virtual Machines, Linux, and Networking — A Beginner’s Guide | Helan Rogy | [Read More](https://medium.com/p/0b15e5800b46) |
+| Sun, 01 Jun 2025 17:05:56 GMT | Trump and Palantir: DOGE, Tech Bros, and The Military-Industrial Complex Want Access to Everything | The Censored State | [Read More](https://medium.com/p/7b6ed1a5f571) |
+| Sun, 01 Jun 2025 16:58:19 GMT | Unlimited free burgers — Hacking McDonald’s India | Monish Basaniwal | [Read More](https://medium.com/p/99feca7dc26f) |
+| Sun, 01 Jun 2025 16:55:01 GMT | ️ Control Flow Integrity (CFI) Check: The Unsung Hero of Runtime Security | Nikheel Vishwas Savant | [Read More](https://medium.com/p/8b2c6a06d33e) |
+| Sun, 01 Jun 2025 16:53:58 GMT | Security Operations Centers in 2025: New Theories, Solutions, and the Future of Cyber Defense | Pavan kumar Evani | [Read More](https://medium.com/p/5f6f6c5c3d0d) |
+| Sun, 01 Jun 2025 16:49:53 GMT | Implementing Standard ACL on a Segmented Network | Laura Puspa | [Read More](https://medium.com/p/84bfa4d17a93) |
+| Sun, 01 Jun 2025 16:48:18 GMT | HackTheBox - Paper | jniket | [Read More](https://medium.com/p/e053868d9a2d) |
+| Sun, 01 Jun 2025 16:46:46 GMT | ️ Building an Ethical Keylogger in Python: A Developer’s Learning Journey | the_air_cyborg | [Read More](https://medium.com/p/359549b4ee0e) |
+| Sun, 01 Jun 2025 16:45:49 GMT | Roadmap Cyber Security 5 Tahun (Fokus: Active Directory Pentesting, OSCP, CPTS) | Muhammad Sulthon Nurbahari | [Read More](https://medium.com/p/0736d5fcdda3) |
+| Sun, 01 Jun 2025 16:44:50 GMT | IDOR Hunter | Lord_murak | [Read More](https://medium.com/p/5ddbd8cd690d) |
+| Sun, 01 Jun 2025 16:42:12 GMT | Simulasi Serangan DDoS Sederhana di GNS3 | Ahmad Ubaidillah | [Read More](https://medium.com/p/21e3fa92b9c7) |
+| Sun, 01 Jun 2025 16:38:27 GMT | AI-Powered Threat Detection: The New Frontline in Cybersecurity. | Pavan kumar Evani | [Read More](https://medium.com/p/6fd73110e81b) |
+| Sun, 01 Jun 2025 16:38:04 GMT | Google Dorking: A Hacker’s Best Friend | Pavandeep Kaur | [Read More](https://medium.com/p/5076f8d7f2a5) |
 | Sun, 01 Jun 2025 16:36:00 GMT | Bojack’s and Diane’s Relationship Dynamic & Trust in Others Beliefs | Will | [Read More](https://medium.com/p/e40dc937ccd0) |
+| Sun, 01 Jun 2025 16:34:15 GMT | Unauthorized Access to Source Document Images in ERP System | Hossam Hussein | [Read More](https://medium.com/p/0838d399d14c) |
 | Sun, 01 Jun 2025 16:30:53 GMT | Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform | Appsec Techie | [Read More](https://medium.com/p/bc71cf9cd1be) |
 | Sun, 01 Jun 2025 16:27:46 GMT | To be seen | Vlaicu Andra | [Read More](https://medium.com/p/66a3edf7a638) |
 | Sun, 01 Jun 2025 16:26:56 GMT | Ihr strategischer Fahrplan zur robusten Informationssicherheit: Erfolgserprobte Best Practices und… | Philip Hansen | [Read More](https://medium.com/p/9e1ccbace3a5) |
@@ -98,19 +113,3 @@ Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/
 | Sun, 01 Jun 2025 12:11:49 GMT | Tutorial Cisco Packet Tracer: Konfigurasi Jaringan Dasar & Pengujian dengan Simple PDU | Fay | [Read More](https://medium.com/p/454af5818df7) |
 | Sun, 01 Jun 2025 12:08:46 GMT | Free Cybersecurity Training from NIST: Why You Should Enroll and Earn the Certificate Today | Engr Mian Rahim Bacha | [Read More](https://medium.com/p/d1233c46fe69) |
 | Sun, 01 Jun 2025 12:08:12 GMT | Failed, Fought & Succeeded: My ISC2 Cybersecurity Certification Story | Holy Firewall | [Read More](https://medium.com/p/5b7bb155932b) |
-| Sun, 01 Jun 2025 12:04:26 GMT | CloudFront Logs to OpenSearch Using AWS Lambda | Furkan Gungor | [Read More](https://medium.com/p/c92d0b4916c8) |
-| Sun, 01 Jun 2025 11:57:10 GMT | Utilizing LOAD_FILE() in SQL Injection | Rafli Setyawan | [Read More](https://medium.com/p/66c3e2a2a82a) |
-| Sun, 01 Jun 2025 11:56:57 GMT | 5 Tahun Menuju Karier Profesional Cyber Security | Rendizar Satria | [Read More](https://medium.com/p/28dc859cda69) |
-| Sun, 01 Jun 2025 11:52:01 GMT | Here’s how I recover my money from FnMarkets | Donald Philip | [Read More](https://medium.com/p/14d7bfb9d578) |
-| Sun, 01 Jun 2025 11:30:59 GMT | How Can I Recover My Money From Smartstp? | Raymond | [Read More](https://medium.com/p/27caa4c8e990) |
-| Sun, 01 Jun 2025 11:30:32 GMT | Laporan Analisis 2024–09–04-traffic-analysis-exercise-alerts | Ris | [Read More](https://medium.com/p/abe1777e6b02) |
-| Sun, 01 Jun 2025 11:30:16 GMT | AEGIS or AES? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/47f5488cb300) |
-| Sun, 01 Jun 2025 11:29:59 GMT | Roadmap Red Team Cybersecurity dalam 5 Tahun | wesembo | [Read More](https://medium.com/p/0ed50ada142a) |
-| Sun, 01 Jun 2025 11:24:55 GMT | LiveGood 1000-Day Challenge – Day 134 of 1000
-Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medium.com/p/81e0131c9b3e) |
-| Sun, 01 Jun 2025 11:21:20 GMT | You are not paying attention. | Aros Aria | [Read More](https://medium.com/p/609482326577) |
-| Sun, 01 Jun 2025 11:09:39 GMT | 5-Year Cybersecurity Roadmap: A Guide for Aspiring Engineers | Husni M | [Read More](https://medium.com/p/4573a9d8edac) |
-| Sun, 01 Jun 2025 11:07:35 GMT | I see kindness when I allow myself to be vulnerable | Riani Shr | [Read More](https://medium.com/p/05b5d922434b) |
-| Sun, 01 Jun 2025 11:07:30 GMT | Hackers Exploit Gh0st RAT to Hijack Internet Cafés for Cryptocurrency Mining | Virtual Cyber Labs | [Read More](https://medium.com/p/993216e67f06) |
-| Sun, 01 Jun 2025 11:05:26 GMT | Integrating Honeypot to Your Network- Part 1: How to Install Cowrie by Janberk Besgul | Janberk Beşgül | [Read More](https://medium.com/p/8ab0c99e821f) |
-| Sun, 01 Jun 2025 11:00:16 GMT | Basic malware analysis based on Study Case | Hafidzah | [Read More](https://medium.com/p/d631fab28441) |
