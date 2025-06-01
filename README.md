@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 16:15:04 GMT | Analisis Report Malware menggunakan Wireshark | Riansatria | [Read More](https://medium.com/p/4670622cec94) |
+| Sun, 01 Jun 2025 16:12:20 GMT | Is It Possible To Withdraw My Money From Ltcminer? | Helen | [Read More](https://medium.com/p/4e6a9bd4686d) |
+| Sun, 01 Jun 2025 16:10:23 GMT | Bookmarklet picoCTF challenge | 0xam3rr | [Read More](https://medium.com/p/a5530ae40479) |
+| Sun, 01 Jun 2025 16:09:23 GMT | FristiLeaks Writeup (Vulnhub Basic Machine) | Ivan Daňo | [Read More](https://medium.com/p/76c8af7a0349) |
+| Sun, 01 Jun 2025 16:08:36 GMT | Der 2025 Roadmap für erfolgreiches Datenqualitätsmanagement und Datenaggregation in der digitalen… | Philip Hansen | [Read More](https://medium.com/p/9bdededab313) |
+| Sun, 01 Jun 2025 16:06:32 GMT | Check for Cyber Attacks Now! Here’s a Simple Method to Get It Done. | Toni Mendrofa | [Read More](https://medium.com/p/55bd6292f38a) |
+| Sun, 01 Jun 2025 15:55:07 GMT | Windows 10 & Server VM: Share Drives, RDP, C$, and Remote Help | Tyrik Emptage | [Read More](https://medium.com/p/68552ae70f33) |
+| Sun, 01 Jun 2025 15:54:36 GMT | WIN32/Koi Stealer di Jaringan Lokal (Studi kasus PT.AKAMSI [fiktif sih]) | Ahmad Ubaidillah | [Read More](https://medium.com/p/5f482c3f9763) |
+| Sun, 01 Jun 2025 15:48:34 GMT | Phishing Scams Are Basically Digital Witchcraft (And I Fell for One Too) | Code & Kif | [Read More](https://medium.com/p/d574c8b3520d) |
+| Sun, 01 Jun 2025 15:42:57 GMT | Why I Stopped Trying to Be Perfect (And You Should Too) | Daniel Gagarin | [Read More](https://medium.com/p/170d32663e6a) |
 | Sun, 01 Jun 2025 15:32:26 GMT | G-BMFW: Building a Modular GUI-Based Firewall System in Python | Amarnath | [Read More](https://medium.com/p/568641c16050) |
 | Sun, 01 Jun 2025 15:31:55 GMT | GZR Observer Daily — Jun 1, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/215fa977b855) |
 | Sun, 01 Jun 2025 15:30:53 GMT | ANALISIS MALWARE | Sandylintang | [Read More](https://medium.com/p/e9dfafbfaee2) |
@@ -20,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 15:29:29 GMT | The Future of AI and Identity & Access Management: From Gatekeeper to Intelligent Guardian | Walid Darwish | [Read More](https://medium.com/p/7f27337f4481) |
 | Sun, 01 Jun 2025 15:15:34 GMT | How Blockchain Secures Data Through Cryptography | Thabiso Njoko | [Read More](https://medium.com/p/a37e6b2f10bc) |
 | Sun, 01 Jun 2025 15:13:40 GMT | the lost art of letting love be love | rein | [Read More](https://medium.com/p/467fae214cbc) |
+| Sun, 01 Jun 2025 15:13:24 GMT | TryHackMe Hammer Walkthrough: Bypassing Rate Limit & Exploiting JWT | Jarrett Goh XZ | [Read More](https://medium.com/p/b62bd36de716) |
 | Sun, 01 Jun 2025 15:13:17 GMT | Hasil analisa malware Trojan Koi Stealer | Tiorajin | [Read More](https://medium.com/p/d6a1b6599744) |
 | Sun, 01 Jun 2025 15:09:21 GMT | Bypass of Date and Value Restrictions in Expense Submission | Hossam Hussein | [Read More](https://medium.com/p/f0cc6a5cb45a) |
 | Sun, 01 Jun 2025 15:02:46 GMT | Sensitive Information Disclosure — OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/77a4a0868645) |
@@ -103,14 +114,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 10:47:57 GMT | Menelusuri Serangan Siber: Analisis Lengkap Aktivitas Malware dari File PCAP | Dixtroiza | [Read More](https://medium.com/p/69f034f34f78) |
 | Sun, 01 Jun 2025 10:46:54 GMT | When an Internal IP Slipped — and I Slid Right Into RCE | Muthu | [Read More](https://medium.com/p/afc93515bf76) |
 | Sun, 01 Jun 2025 10:40:58 GMT | Roadmap Cyber Security | INDRA FAHLEVY FIRDAUS | [Read More](https://medium.com/p/cd99f3c68829) |
-| Sun, 01 Jun 2025 10:35:08 GMT | OverTheWire Bandit Walkthrough (Levels 0–5) | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/c60ed8b0ffd7) |
-| Sun, 01 Jun 2025 10:34:20 GMT | WannaCry Fidye Yazılımı | Meliksah Bayrak | [Read More](https://medium.com/p/0df6249752e5) |
-| Sun, 01 Jun 2025 10:16:56 GMT | Learning Basic Static Routing with Cisco Packet Tracer (2 Routers, 2 Switches, 4 PCs) | Galihabraa | [Read More](https://medium.com/p/2d14e5a9ddc7) |
-| Sun, 01 Jun 2025 10:09:49 GMT | Network Commands Every IT Team Should Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/4fffe3c8a08b) |
-| Sun, 01 Jun 2025 10:08:31 GMT | TryHackMe: Cheese CTF | TheSocialHacker | [Read More](https://medium.com/p/f8018e5b1954) |
-| Sun, 01 Jun 2025 10:04:19 GMT | AI Hacking Concept by Mr David | Darshan Naresh Naik | [Read More](https://medium.com/p/1854f7723e1a) |
-| Sun, 01 Jun 2025 09:58:45 GMT | Malware Analysis: Investigation of Koi Stealer Activities in Internal Networks | Steven Juliano | [Read More](https://medium.com/p/ced427ac6ace) |
-| Sun, 01 Jun 2025 09:55:02 GMT | When APIs Don’t Check Roles: Broken Authorization in Customer Deletion Endpoint | callgh0st | [Read More](https://medium.com/p/8b318fd4c8f6) |
-| Sun, 01 Jun 2025 09:40:08 GMT | ️ Web3 Security Weekly — May 26–June 1, 2025 | Null Return | [Read More](https://medium.com/p/b21e7d4cc257) |
-| Sun, 01 Jun 2025 09:34:35 GMT | Cybersecurity 5-Year Plan: Survive, Thrive, and Lead | Laura Puspa | [Read More](https://medium.com/p/11a226aebe4e) |
-| Sun, 01 Jun 2025 09:29:09 GMT | ️ ROADMAP CYBER SECURITY 5 TAHUN (2025–2030) | Miselucul | [Read More](https://medium.com/p/8ac55e0cd730) |
