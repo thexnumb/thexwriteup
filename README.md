@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 09:04:25 GMT | Header Based Misconfiguration Leads to Account TakeOver | Vaishali Nagori | [Read More](https://medium.com/p/0b32c30932de) |
+| Sun, 01 Jun 2025 09:01:59 GMT | Decoding Redirection Exploits: Open Redirection, PCURL Abuse, and Mitigation Strategies | Salman Zakaria | [Read More](https://medium.com/p/67e437de1006) |
+| Sun, 01 Jun 2025 09:00:58 GMT | Part 2: The Ghost Inside the Machine | An0n | [Read More](https://medium.com/p/1d7dab12378e) |
+| Sun, 01 Jun 2025 08:57:30 GMT | Bug Bounty from Scratch - Everything You Need to Know About Bug Bounty | Abhijeet Kumawat | [Read More](https://medium.com/p/a2ece2070c4b) |
+| Sun, 01 Jun 2025 08:55:56 GMT | Deteksi dan Analisis Awal Infeksi Malware Win32/Koi Stealer | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/a70f20dad0db) |
+| Sun, 01 Jun 2025 08:54:59 GMT | >mshta Basics: From Script Execution to Browser Launch | Aniket Kolte | [Read More](https://medium.com/p/4675ecbac2d6) |
+| Sun, 01 Jun 2025 08:51:04 GMT | TRIAGE³: A Revolutionary Framework for SOC Signal Management | Siddhant Mishra | [Read More](https://medium.com/p/1e9c72409383) |
 | Sun, 01 Jun 2025 08:44:17 GMT | MALWARE ANALYSIS — Detection Koi Stealer in traffic report | Hammam Awis Zukimi | [Read More](https://medium.com/p/f0a8a6da5455) |
 | Sun, 01 Jun 2025 08:25:05 GMT | WordPress CVE-2024-7493 Reversing | AbhirupKonwar | [Read More](https://medium.com/p/dad3ee24a736) |
 | Sun, 01 Jun 2025 08:19:14 GMT | Leaders All Have Their Doubts | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/27216ae71b87) |
+| Sun, 01 Jun 2025 08:17:53 GMT | Algoritmaların Gözlerini Kapatmak: Adversarial Saldırılar ve Savunma Teknikleri | Melike Ateş | [Read More](https://medium.com/p/b76a794587cb) |
 | Sun, 01 Jun 2025 08:15:55 GMT | Red CTF Writeup TryHackme | Daxilox | [Read More](https://medium.com/p/6ab59e8b103e) |
 | Sun, 01 Jun 2025 08:11:02 GMT | The Private Coaching Trap in Tech: A Harsh Truth Every Student Must Know | Shriram Dawange | [Read More](https://medium.com/p/c616a4adec85) |
 | Sun, 01 Jun 2025 08:10:46 GMT | The Dangers Of Rooting/Jailbreaking: A Security Warning | Shoaib Ahmed | [Read More](https://medium.com/p/36493dbca906) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 21:34:00 GMT | eWPTXv3 Notes Part1 | Dehni | [Read More](https://medium.com/p/e0bfd8dee46d) |
 | Sat, 31 May 2025 21:30:59 GMT | Secure Code Review Nedir? | Baranteyinn | [Read More](https://medium.com/p/f20ce0513005) |
 | Sat, 31 May 2025 21:26:24 GMT | Surrogate Models Take Center Stage: A Smarter Way to Optimize Quantum Networks | QuantumGenie | [Read More](https://medium.com/p/1863996c38e7) |
-| Sat, 31 May 2025 21:17:06 GMT | DeepSeek API Keys Leak — 1 Million+ Keys Left Public — Breachlog #2 | Ved Trivedi | [Read More](https://medium.com/p/2ae4ae05f109) |
-| Sat, 31 May 2025 21:08:54 GMT | The silent bug that took down my app | Serhii Hryshyn | [Read More](https://medium.com/p/98ae3ef76b7c) |
-| Sat, 31 May 2025 21:03:51 GMT | U.S. DoJ Seizes Domains Supporting Cybercrime in Global Malware Disruption | Ronit Yadav | [Read More](https://medium.com/p/6a33dbac7190) |
-| Sat, 31 May 2025 20:59:08 GMT | Cybersecurity in 2025: A Simple Guide for Students and Beginners | Abdii Ahmed | [Read More](https://medium.com/p/9149c0b8ca43) |
-| Sat, 31 May 2025 20:50:05 GMT | Tratamiento de la información | Wilmin Sadiel | [Read More](https://medium.com/p/fcba15108bde) |
-| Sat, 31 May 2025 20:49:42 GMT | Boost Your Safety: Which of the Following is an Example of a Strong Password for Cyber Awareness… | Tahashaikhseo | [Read More](https://medium.com/p/c793ab484a4f) |
-| Sat, 31 May 2025 20:34:18 GMT | ️ Manual OSINT vs API/Automation OSINT — Which One Actually Wins? | Rajput Haxor | [Read More](https://medium.com/p/6fb0c978915d) |
-| Sat, 31 May 2025 20:27:38 GMT | A few months ago, I fell victim to a fake hack online and lost access to my Bitcoin (BTC). | Jurgenhans | [Read More](https://medium.com/p/41deb083aadc) |
