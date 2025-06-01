@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 19:17:07 GMT | Cisco IOS XE Arbitrary File Upload Vulnerability Exploited | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/ec39cc742302) |
 | Sun, 01 Jun 2025 19:04:11 GMT | XSS Attacks: When Websites Start Speaking in Tongues | Rageeth | [Read More](https://medium.com/p/9f40e44a19b4) |
 | Sun, 01 Jun 2025 18:58:32 GMT | Inside the $200M Romance Baiting Scam: How Funnull’s Infrastructure Fueled Crypto Fraud at Scale. | UnknwnSaber | [Read More](https://medium.com/p/15832c7f8b91) |
 | Sun, 01 Jun 2025 18:58:23 GMT | Laporan Insiden: Infeksi Malware dan Aktivitas Jaringan Mencurigakan | kumpulantugasaing | [Read More](https://medium.com/p/dad6c39c0062) |
@@ -112,4 +113,3 @@ Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/
 | Sun, 01 Jun 2025 14:02:40 GMT | From Application to Interview: How to Prepare Like a Cybersecurity Analyst (Not Just a Candidate) | Frank Cabrel | [Read More](https://medium.com/p/cc6c76794f52) |
 | Sun, 01 Jun 2025 13:59:21 GMT | Dasar Jaringan menggunakan Cisco Packet Tracer — Static Route | Rendizar Satria | [Read More](https://medium.com/p/af5be30f1c18) |
 | Sun, 01 Jun 2025 13:48:26 GMT | NuWealth App Review - This Is How I Reclaimed My Money | Katherine tobiassen | [Read More](https://medium.com/p/cbcaaf2d4ad7) |
-| Sun, 01 Jun 2025 13:48:25 GMT | How I Found an OAuth Token Leak, Bypassed Authentication, and Chained Multiple Vulnerabilities | Whitehat | [Read More](https://medium.com/p/d6095aa303a0) |
