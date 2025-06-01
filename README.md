@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 12:36:53 GMT | How I Found Sensitive Data on a Website Through Security Testing | Rejen | [Read More](https://medium.com/p/b824930b7654) |
+| Sun, 01 Jun 2025 12:33:20 GMT | WSJ: How Much Do You Know About Cyber Scams? Take the Journal’s Quiz. | SIMON CONSTABLE | [Read More](https://medium.com/p/dbd5f9007f43) |
+| Sun, 01 Jun 2025 12:30:33 GMT | From Technician to Magician — A 5 Years to Become Security Architect | Moneymase | [Read More](https://medium.com/p/46bb3ba184e9) |
+| Sun, 01 Jun 2025 12:24:25 GMT | ️ Analisis Traffic Mencurigakan: Investigasi Malware with Wireshark | Ramdhanisheva | [Read More](https://medium.com/p/ffc179334843) |
+| Sun, 01 Jun 2025 12:19:16 GMT | How a Wireshark Novice Tracked Malware Through a PCAP | sultanrk | [Read More](https://medium.com/p/bec948d52c3c) |
+| Sun, 01 Jun 2025 12:18:54 GMT | TryHackMe ColdBox Writeup — Beginner to Pro CTF Walkthrough | Yaqubnasibov | [Read More](https://medium.com/p/b4aa24777791) |
+| Sun, 01 Jun 2025 12:11:49 GMT | Tutorial Cisco Packet Tracer: Konfigurasi Jaringan Dasar & Pengujian dengan Simple PDU | Fay | [Read More](https://medium.com/p/454af5818df7) |
+| Sun, 01 Jun 2025 12:08:46 GMT | Free Cybersecurity Training from NIST: Why You Should Enroll and Earn the Certificate Today | Engr Mian Rahim Bacha | [Read More](https://medium.com/p/d1233c46fe69) |
+| Sun, 01 Jun 2025 12:08:12 GMT | Failed, Fought & Succeeded: My ISC2 Cybersecurity Certification Story | Holy Firewall | [Read More](https://medium.com/p/5b7bb155932b) |
+| Sun, 01 Jun 2025 12:04:26 GMT | CloudFront Logs to OpenSearch Using AWS Lambda | Furkan Gungor | [Read More](https://medium.com/p/c92d0b4916c8) |
+| Sun, 01 Jun 2025 11:57:10 GMT | Utilizing LOAD_FILE() in SQL Injection | Rafli Setyawan | [Read More](https://medium.com/p/66c3e2a2a82a) |
+| Sun, 01 Jun 2025 11:56:57 GMT | 5 Tahun Menuju Karier Profesional Cyber Security | Rendizar Satria | [Read More](https://medium.com/p/28dc859cda69) |
+| Sun, 01 Jun 2025 11:52:01 GMT | Here’s how I recover my money from FnMarkets | Donald Philip | [Read More](https://medium.com/p/14d7bfb9d578) |
 | Sun, 01 Jun 2025 11:30:59 GMT | How Can I Recover My Money From Smartstp? | Raymond | [Read More](https://medium.com/p/27caa4c8e990) |
 | Sun, 01 Jun 2025 11:30:32 GMT | Laporan Analisis 2024–09–04-traffic-analysis-exercise-alerts | Ris | [Read More](https://medium.com/p/abe1777e6b02) |
 | Sun, 01 Jun 2025 11:30:16 GMT | AEGIS or AES? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/47f5488cb300) |
@@ -100,16 +113,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 04:27:56 GMT | Implement Audit Logs for your Database tables in SQL Server | Yaz | [Read More](https://medium.com/p/e173d2fa1586) |
 | Sun, 01 Jun 2025 04:22:44 GMT | Unlocking the Power of Proxies: Enhance Your Online Privacy and Security Today! | zainal Abidin | [Read More](https://medium.com/p/c2d05128c497) |
 | Sun, 01 Jun 2025 04:03:17 GMT | How to Create a Dashboard in Splunk Enterprise | Paritosh | [Read More](https://medium.com/p/893da1eef8d9) |
-| Sun, 01 Jun 2025 03:45:47 GMT | My AndroGoat Journey: Deep Dive into Hardcoded Issues | Damara Brian | [Read More](https://medium.com/p/a641d38d732a) |
-| Sun, 01 Jun 2025 03:44:40 GMT | My AndroGoat Journey: Deep Dive into Input Validations | Damara Brian | [Read More](https://medium.com/p/d504093db256) |
-| Sun, 01 Jun 2025 03:43:46 GMT | My AndroGoat Journey: Deep Dive into Side Channel Data Leakage | Damara Brian | [Read More](https://medium.com/p/8cdd7244de0d) |
-| Sun, 01 Jun 2025 03:42:27 GMT | GOTTA CATCH’EM ALL — TRY HACK ME — ROOM | 5kullk3r | [Read More](https://medium.com/p/de748e2e0892) |
-| Sun, 01 Jun 2025 03:37:43 GMT | Roadmap Cyber Security | Jodit | [Read More](https://medium.com/p/d47b962415bd) |
-| Sun, 01 Jun 2025 03:22:28 GMT | How to Connect 3 Switches to One Router in Cisco Packet Tracer | IndoHajk | [Read More](https://medium.com/p/ec887cd2de0e) |
-| Sun, 01 Jun 2025 03:10:34 GMT | Fuzzing Smart Contracts | Rishav Rayamajhi | [Read More](https://medium.com/p/6bfd9e1bd122) |
-| Sun, 01 Jun 2025 03:07:53 GMT | Cybersecurity Unlocked: The Simple Truth Behind Staying Safe Online (You’ll Wish You Knew Sooner!) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/79815ff91873) |
-| Sun, 01 Jun 2025 02:15:15 GMT | Tying hard to analyze pcap questions | DhiasCode | [Read More](https://medium.com/p/f3f7c0560c9d) |
-| Sun, 01 Jun 2025 02:02:49 GMT | Why Every Developer Should Have a Portfolio — And How to Host Yours for Free! | Ivo Pereira | [Read More](https://medium.com/p/df0929875579) |
-| Sun, 01 Jun 2025 01:31:13 GMT | Review of Security Research Articles: May 2025 | Lukasz Wierzbicki | [Read More](https://medium.com/p/010d97c7ee9e) |
-| Sun, 01 Jun 2025 01:31:08 GMT | Charting Your Course: A 5-Year Cybersecurity Roadmap to Peak Expertise | Abdul Khakim | [Read More](https://medium.com/p/1e499e35b7e8) |
-| Sun, 01 Jun 2025 01:30:32 GMT | What are BloodHound ingestors? | z3l3v | [Read More](https://medium.com/p/218991c87a67) |
