@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 23:31:09 GMT | THM Lab — Benign | Chai | [Read More](https://medium.com/p/15c959fc135d) |
+| Sun, 01 Jun 2025 23:27:04 GMT | Supercharge Your Vulnerability Fixes: How GitHub Copilot Agent Mode Became My Secret Weapon | Martin  Thomas | [Read More](https://medium.com/p/2c146bd391e1) |
+| Sun, 01 Jun 2025 23:24:08 GMT | How to prepare for IT certifications with AI? Student Bluebook. | Ilya Smut | [Read More](https://medium.com/p/b77717236899) |
 | Sun, 01 Jun 2025 23:11:39 GMT | Understanding Ethical Hacking Concepts | Md. Rumon Munshi | [Read More](https://medium.com/p/847ad6a1744f) |
 | Sun, 01 Jun 2025 23:10:47 GMT | How I Built a Real-Time Credit Card Fraud Detection System with Machine Learning | Timothy Kimutai | [Read More](https://medium.com/p/80000fbd33de) |
 | Sun, 01 Jun 2025 23:09:59 GMT | AI-Generated Videos Are Getting Too Good — And That’s a Problem | Mateo Cruz | [Read More](https://medium.com/p/63776005cd1f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 16:24:21 GMT | Securing 10th Place in APISEC-CON CTF 2025: My Journey Through 17 API Security Challenges | Mayur Pandya | [Read More](https://medium.com/p/2d6b41a2afd3) |
 | Sun, 01 Jun 2025 16:22:37 GMT | I Got Hacked | Jara | [Read More](https://medium.com/p/5f99f98a1392) |
 | Sun, 01 Jun 2025 16:21:39 GMT | Most Men Don’t Open Up — Because Every Time We Did, It Was Used Against Us | X-Plain | [Read More](https://medium.com/p/44363ddc6067) |
-| Sun, 01 Jun 2025 16:18:43 GMT | Building and Detecting a Backdoor: Dynamic Analysis and YARA Rules | Lipeozyy | [Read More](https://medium.com/p/3ff28c4659ce) |
-| Sun, 01 Jun 2025 16:15:04 GMT | Analisis Report Malware menggunakan Wireshark | Riansatria | [Read More](https://medium.com/p/4670622cec94) |
-| Sun, 01 Jun 2025 16:12:20 GMT | Is It Possible To Withdraw My Money From Ltcminer? | Helen | [Read More](https://medium.com/p/4e6a9bd4686d) |
