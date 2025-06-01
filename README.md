@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 11:09:39 GMT | 5-Year Cybersecurity Roadmap: A Guide for Aspiring Engineers | Husni M | [Read More](https://medium.com/p/4573a9d8edac) |
+| Sun, 01 Jun 2025 11:05:26 GMT | Integrating Honeypot to Your Network- Part 1: How to Install Cowrie by Janberk Besgul | Janberk Beşgül | [Read More](https://medium.com/p/8ab0c99e821f) |
+| Sun, 01 Jun 2025 11:00:16 GMT | Basic malware analysis based on Study Case | Hafidzah | [Read More](https://medium.com/p/d631fab28441) |
+| Sun, 01 Jun 2025 10:59:43 GMT | Business Financial Analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/6d99354fd7b1) |
+| Sun, 01 Jun 2025 10:53:15 GMT | Security Aspects: Encoding, Encryption, Hashing & Decoding | Pankaj Ikhar | [Read More](https://medium.com/p/15da20712c45) |
+| Sun, 01 Jun 2025 10:49:54 GMT | Mastering DORK $DORK Rewards for Maximum Earnings | $DORK DORK Community Rewards | [Read More](https://medium.com/p/74228fe207da) |
+| Sun, 01 Jun 2025 10:49:24 GMT | Cryptography Implementation [Virtual Private Network (VPN)] | Asyarifm | [Read More](https://medium.com/p/1d110aef9b1d) |
+| Sun, 01 Jun 2025 10:49:06 GMT | From alert(1) to Real-world Impact: Hunting XSS Where Others Don’t Look | 127.0.0.1 | [Read More](https://medium.com/p/27f70dbe9778) |
+| Sun, 01 Jun 2025 10:48:48 GMT | ️ Analisis Traffic Mencurigakan: Investigasi Malware Koi Stealer | Firhansanad | [Read More](https://medium.com/p/13c3b89afdd1) |
+| Sun, 01 Jun 2025 10:48:13 GMT | Hire a Social Media Hacker: What You Need to Know in 2025 | SOCIAL MEDIA HACKER | [Read More](https://medium.com/p/cd02373214ec) |
+| Sun, 01 Jun 2025 10:47:57 GMT | Menelusuri Serangan Siber: Analisis Lengkap Aktivitas Malware dari File PCAP | Dixtroiza | [Read More](https://medium.com/p/69f034f34f78) |
+| Sun, 01 Jun 2025 10:46:54 GMT | When an Internal IP Slipped — and I Slid Right Into RCE | Muthu | [Read More](https://medium.com/p/afc93515bf76) |
+| Sun, 01 Jun 2025 10:40:58 GMT | Roadmap Cyber Security | INDRA FAHLEVY FIRDAUS | [Read More](https://medium.com/p/cd99f3c68829) |
+| Sun, 01 Jun 2025 10:35:08 GMT | OverTheWire Bandit Walkthrough (Levels 0–5) | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/c60ed8b0ffd7) |
+| Sun, 01 Jun 2025 10:34:20 GMT | WannaCry Fidye Yazılımı | Meliksah Bayrak | [Read More](https://medium.com/p/0df6249752e5) |
 | Sun, 01 Jun 2025 10:16:56 GMT | Learning Basic Static Routing with Cisco Packet Tracer (2 Routers, 2 Switches, 4 PCs) | Galihabraa | [Read More](https://medium.com/p/2d14e5a9ddc7) |
 | Sun, 01 Jun 2025 10:09:49 GMT | Network Commands Every IT Team Should Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/4fffe3c8a08b) |
 | Sun, 01 Jun 2025 10:08:31 GMT | TryHackMe: Cheese CTF | TheSocialHacker | [Read More](https://medium.com/p/f8018e5b1954) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 01:23:56 GMT | Reality of Bug Bounty 2025 | Bell | [Read More](https://medium.com/p/c920bf9944fb) |
 | Sun, 01 Jun 2025 01:23:28 GMT | When Your Office Chair Hacked the CEO: The Bizarre 2025 Cyberattack That Cost X Business $300K | Noel | [Read More](https://medium.com/p/bac603b00b27) |
 | Sun, 01 Jun 2025 01:15:29 GMT | ReconHTML: Scan For Leaked Data In Source Code | Therealcybergod | [Read More](https://medium.com/p/50fe663ef387) |
-| Sun, 01 Jun 2025 01:08:23 GMT | Basic Networking for Cybersecurity: Learn with Cisco Packet Tracer | HETSHI | [Read More](https://medium.com/p/4f359c01119a) |
-| Sun, 01 Jun 2025 01:05:58 GMT | ELK Stack Installation Guide for Ubuntu Server 22.04 | Abbas Kazimov | [Read More](https://medium.com/p/270bbf2185de) |
-| Sun, 01 Jun 2025 00:55:38 GMT | How I Took Control of My Cybersecurity Learning (and Built the System I Wish I Had from Day One) | Sara Sheon | [Read More](https://medium.com/p/11e8d20340dc) |
-| Sun, 01 Jun 2025 00:54:52 GMT | Complete Guide On How to Identify A Suspicious Process | Cyber Axe | [Read More](https://medium.com/p/1748317bc5c0) |
-| Sun, 01 Jun 2025 00:43:35 GMT | PARIS – INTERMILAN : 0 pour la sécurité. | Nicole DEGBO | [Read More](https://medium.com/p/e8636bf82238) |
-| Sun, 01 Jun 2025 00:30:43 GMT | Explorando Blind SQL (Structured Query Language) Injection | Sérgio Corrêa | [Read More](https://medium.com/p/e63b394e9d3e) |
-| Sun, 01 Jun 2025 00:28:33 GMT | The Idealist’s Architecture Decision: Cross-Tenant Access — Part 4 | Jenny 秋 | [Read More](https://medium.com/p/db62e94c92de) |
-| Sun, 01 Jun 2025 00:20:01 GMT | HTB Traverxec — Walkthrough | Bianca | [Read More](https://medium.com/p/fb9e910491ac) |
-| Sat, 31 May 2025 23:46:35 GMT | Beyond Initial Attraction: How “Love Over Time” Blossoms | PhoebeWhite | [Read More](https://medium.com/p/43cafa41e780) |
-| Sat, 31 May 2025 23:18:07 GMT | [Research] S&P 2025 Trend Report: Where AI, Privacy, and Attack Surfaces Collide | Joseph's Web3 and Start-Ups Adventure | [Read More](https://medium.com/p/869939849746) |
-| Sat, 31 May 2025 23:16:15 GMT | Vulnerability is messy. Ugly. Brutal. | Jen Marie | [Read More](https://medium.com/p/68a13780876f) |
-| Sat, 31 May 2025 23:15:07 GMT | Business Logic Bug: Enforce victim to accept the invitation | Ossama (@pent0ss) | [Read More](https://medium.com/p/3e7811978ad0) |
-| Sat, 31 May 2025 23:14:56 GMT | So You Wanna Be a Cybersecurity Hero? A Super Noob-Friendly Roadmap (With Memes) | Ahmad Ubaidillah | [Read More](https://medium.com/p/d17237156a73) |
-| Sat, 31 May 2025 23:13:43 GMT | Why the OPPO A3 Might Be the Best Budget Smartphone of 2024 | Sippapas Sinpaisansakul | [Read More](https://medium.com/p/8f4b3a032e65) |
-| Sat, 31 May 2025 23:11:34 GMT | Classification of Hackers | Md. Rumon Munshi | [Read More](https://medium.com/p/024a265b5bd0) |
