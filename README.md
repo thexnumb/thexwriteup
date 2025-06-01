@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 14:17:07 GMT | ARP Spoofing - Man In The Middle Attack | Alibinazam | [Read More](https://medium.com/p/63ac38d41989) |
+| Sun, 01 Jun 2025 14:09:02 GMT | From Forgot Password to Forgot Validation: A Broken Flow That Let Me Take Over Accounts | Iski | [Read More](https://medium.com/p/04fb7c5b7ecc) |
+| Sun, 01 Jun 2025 14:02:40 GMT | From Application to Interview: How to Prepare Like a Cybersecurity Analyst (Not Just a Candidate) | Frank Cabrel | [Read More](https://medium.com/p/cc6c76794f52) |
+| Sun, 01 Jun 2025 13:59:21 GMT | Dasar Jaringan menggunakan Cisco Packet Tracer — Static Route | Rendizar Satria | [Read More](https://medium.com/p/af5be30f1c18) |
+| Sun, 01 Jun 2025 13:48:26 GMT | NuWealth App Review - This Is How I Reclaimed My Money | Katherine tobiassen | [Read More](https://medium.com/p/cbcaaf2d4ad7) |
+| Sun, 01 Jun 2025 13:48:25 GMT | How I Found an OAuth Token Leak, Bypassed Authentication, and Chained Multiple Vulnerabilities | Whitehat | [Read More](https://medium.com/p/d6095aa303a0) |
+| Sun, 01 Jun 2025 13:47:05 GMT | Cybersecurity Approaches and Regulations | Jorge Castaneda | [Read More](https://medium.com/p/0562234ca33a) |
+| Sun, 01 Jun 2025 13:45:56 GMT | Here’s How I Recover My Money From Nuwealth App | Katherine tobiassen | [Read More](https://medium.com/p/e3c6d9bafddd) |
+| Sun, 01 Jun 2025 13:42:34 GMT | Spear Phishing Attacks Using the Social Engineering Toolkit (SET) | Esra Kayhan | [Read More](https://medium.com/p/8d1ea22f2bf7) |
 | Sun, 01 Jun 2025 13:34:44 GMT | Zero Knowledge Proof: How to Prevent Data Leaks When Your System Gets Hacked | Muhamad Arfa Alghiffari | [Read More](https://medium.com/p/17f3bf04390f) |
+| Sun, 01 Jun 2025 13:34:07 GMT | ROADMAP CYBERSECURITY | Rei Kazeyama | [Read More](https://medium.com/p/bb1325d49760) |
 | Sun, 01 Jun 2025 13:33:52 GMT | A User to Admin: How I Went From Nobody to Owning the Admin Panel | Xh081iX | [Read More](https://medium.com/p/7dcc22344720) |
 | Sun, 01 Jun 2025 13:33:43 GMT | DevSecOps Phase 4B: Manual Penetration Testing | Dinidhu Jayasinghe | [Read More](https://medium.com/p/9c9e0493531d) |
 | Sun, 01 Jun 2025 13:33:41 GMT | The Unsung Heroes of IT: Mastering Your Emergency Access Accounts | Rohi | [Read More](https://medium.com/p/2e15c91535fc) |
@@ -103,13 +113,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 07:35:55 GMT | CryptoXpress’s Staking Programs: Passive Income for Everyday Users | Devbradon | [Read More](https://medium.com/p/a0393104ffb6) |
 | Sun, 01 Jun 2025 07:35:18 GMT | Network Simulation from Zero: Basic Practices with Cisco Packet Tracer | Hafidzah | [Read More](https://medium.com/p/f3b87e2dfba7) |
 | Sun, 01 Jun 2025 07:34:30 GMT | Deterministic and Non-deterministic Key Exchange | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ace591548549) |
-| Sun, 01 Jun 2025 07:32:35 GMT | What is OWASP Top 10? | Manushi | [Read More](https://medium.com/p/0539916f1678) |
-| Sun, 01 Jun 2025 07:30:26 GMT | Dangerous PHP functions every developer should avoid (or handle with extreme care) | Roman Huliak | [Read More](https://medium.com/p/f25c7b495ab2) |
-| Sun, 01 Jun 2025 07:29:41 GMT | Singapore’s Multi Layered Defense Diplomacy is Shaping Up | Marcus Loh | [Read More](https://medium.com/p/70bb75f1f8df) |
-| Sun, 01 Jun 2025 07:27:15 GMT | How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities | Mhmodgm | [Read More](https://medium.com/p/d2e098e89c8d) |
-| Sun, 01 Jun 2025 07:23:55 GMT | FinTech Solutions: Building Secure and Scalable Financial Applications for the Future | Amaka okoye | [Read More](https://medium.com/p/aade96a2dc43) |
-| Sun, 01 Jun 2025 07:21:18 GMT | Review CRTP and Prep & Exam | Raka Sean Elian | [Read More](https://medium.com/p/6611be55b108) |
-| Sun, 01 Jun 2025 07:19:26 GMT | The Surveillance Paradox: When More Eyes Mean More Risk | Björn Thönnessen | [Read More](https://medium.com/p/4bfdccdcbbda) |
-| Sun, 01 Jun 2025 07:18:11 GMT | How I Passed the CompTIA Security+ on My First Try (and How You Can Too) | John William Estacio | [Read More](https://medium.com/p/e59e00e93a34) |
-| Sun, 01 Jun 2025 07:04:18 GMT | Performing Security Testing with OWASP ZAP API and Python: My Cybersecurity College Project | Alan Sabu John | [Read More](https://medium.com/p/4675d9a27571) |
-| Sun, 01 Jun 2025 06:58:36 GMT | Host Header Injection in Symfony: Secure Your Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/b5ff3be316c7) |
