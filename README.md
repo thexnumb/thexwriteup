@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 03:44:40 GMT | My AndroGoat Journey: Deep Dive into Input Validations | Damara Brian | [Read More](https://medium.com/p/d504093db256) |
+| Sun, 01 Jun 2025 03:43:46 GMT | My AndroGoat Journey: Deep Dive into Side Channel Data Leakage | Damara Brian | [Read More](https://medium.com/p/8cdd7244de0d) |
+| Sun, 01 Jun 2025 03:37:43 GMT | Roadmap Cyber Security | Jodit | [Read More](https://medium.com/p/d47b962415bd) |
+| Sun, 01 Jun 2025 03:22:28 GMT | How to Connect 3 Switches to One Router in Cisco Packet Tracer | IndoHajk | [Read More](https://medium.com/p/ec887cd2de0e) |
+| Sun, 01 Jun 2025 03:10:34 GMT | Fuzzing Smart Contracts | Rishav Rayamajhi | [Read More](https://medium.com/p/6bfd9e1bd122) |
+| Sun, 01 Jun 2025 03:07:53 GMT | Cybersecurity Unlocked: The Simple Truth Behind Staying Safe Online (You’ll Wish You Knew Sooner!) | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/79815ff91873) |
+| Sun, 01 Jun 2025 02:15:15 GMT | Tying hard to analyze pcap questions | DhiasCode | [Read More](https://medium.com/p/f3f7c0560c9d) |
 | Sun, 01 Jun 2025 02:02:49 GMT | Why Every Developer Should Have a Portfolio — And How to Host Yours for Free! | Ivo Pereira | [Read More](https://medium.com/p/df0929875579) |
 | Sun, 01 Jun 2025 01:31:13 GMT | Review of Security Research Articles: May 2025 | Lukasz Wierzbicki | [Read More](https://medium.com/p/010d97c7ee9e) |
 | Sun, 01 Jun 2025 01:31:08 GMT | Charting Your Course: A 5-Year Cybersecurity Roadmap to Peak Expertise | Abdul Khakim | [Read More](https://medium.com/p/1e499e35b7e8) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 17:24:31 GMT | Beyond HTTP: InterceptSuite for TCP/TLS Traffic Interception in Windows | Sourav Kalal | [Read More](https://medium.com/p/518934bba22f) |
 | Sat, 31 May 2025 17:22:20 GMT | Spring Boot’ta AES-256 ile Üst Düzey Güvenlik: Jasypt ile Verileri Şifreleme ve Çözme! | Orhan Türkmenoğlu | [Read More](https://medium.com/p/2cdae9d94145) |
 | Sat, 31 May 2025 17:19:17 GMT | TryHackMe CTF Lo-Fi Walkthrough | eRRoR | [Read More](https://medium.com/p/7b30d8379489) |
-| Sat, 31 May 2025 17:19:01 GMT | Siber Güvenliğe Giriş — 2 | Emre TOPUZ | [Read More](https://medium.com/p/bf1046c2bbe8) |
-| Sat, 31 May 2025 17:13:54 GMT | MSMQ Nedir? SIEM Log İletiminde Neden Tercih Edilir? | Tugba Hatice | [Read More](https://medium.com/p/107683686adb) |
-| Sat, 31 May 2025 17:10:59 GMT | How Hackers Are Using AI Against You | Rahul Mishra | [Read More](https://medium.com/p/6c7e911a4f5f) |
-| Sat, 31 May 2025 17:08:27 GMT | Siber Güvenliğe Giriş — 1 | Emre TOPUZ | [Read More](https://medium.com/p/2304205c964d) |
-| Sat, 31 May 2025 17:00:17 GMT | How Deep is our SHAME? | Aishwarya | [Read More](https://medium.com/p/4aeee311f584) |
-| Sat, 31 May 2025 16:57:38 GMT | Angular application Security Best Practices: Scalable Strategies for Enterprise-Grade Applications | Prasenjit Dasgupta | [Read More](https://medium.com/p/805edab77fb2) |
-| Sat, 31 May 2025 16:56:34 GMT | How to Allow or Block a Program Through Firewall in Windows | Jazz Cyber Shield | [Read More](https://medium.com/p/c2b17deb5f9f) |
