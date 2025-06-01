@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 05:26:52 GMT | Breaking Down OWASP Top 10 LLM 2025 | appsecwarrior | [Read More](https://medium.com/p/cd99ed46761b) |
+| Sun, 01 Jun 2025 05:18:13 GMT | Tips for protecting your API keys and stopping AI bill overages | Michael Murdoch | [Read More](https://medium.com/p/7c60ad610f7c) |
 | Sun, 01 Jun 2025 05:05:22 GMT | The Best Bug Bounty Tools in 2025 (With Pro Tips to Use Them Effectively) | Kailasv | [Read More](https://medium.com/p/e525878969e1) |
 | Sun, 01 Jun 2025 05:04:47 GMT | Network Simulation Using Cisco Packet Tracer Simulator — Understanding Networking | Hammam Awis Zukimi | [Read More](https://medium.com/p/044b6a46045e) |
 | Sun, 01 Jun 2025 04:27:56 GMT | Implement Audit Logs for your Database tables in SQL Server | Yaz | [Read More](https://medium.com/p/e173d2fa1586) |
@@ -110,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 18:06:47 GMT | Networking fundamentals for Developers | Adith Krishnan | [Read More](https://medium.com/p/0e5196e957ec) |
 | Sat, 31 May 2025 17:54:19 GMT | Exploring the Aspects of the Fifth Wave of Feminism. | Fatima Tahir | [Read More](https://medium.com/p/a99195c73058) |
 | Sat, 31 May 2025 17:51:41 GMT | How I have found my first valid bug that got paid. | Imran Hossain | [Read More](https://medium.com/p/7c0f8d40d568) |
-| Sat, 31 May 2025 17:51:24 GMT | Project Report : PB-TED_tool
-(Password-Based Text Encryption Decryption Tool) | Abhiram S | [Read More](https://medium.com/p/14b3c855b828) |
-| Sat, 31 May 2025 17:41:17 GMT | 99% of Developers Ignore This Simple Security Fix — Don’t Be One of Them | Pren Jak | [Read More](https://medium.com/p/5c1ec725f673) |
