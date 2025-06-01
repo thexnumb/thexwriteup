@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 09:29:09 GMT | ️ ROADMAP CYBER SECURITY 5 TAHUN (2025–2030) | Miselucul | [Read More](https://medium.com/p/8ac55e0cd730) |
+| Sun, 01 Jun 2025 09:27:03 GMT | Mastering Web Security: Testing & Implementing CSP Fetch Directives Like a Pro | Gaurav | [Read More](https://medium.com/p/9ed80d5e63f6) |
+| Sun, 01 Jun 2025 09:26:03 GMT | I Hacked My Own Wifi — Here’s How | Cypher.One | [Read More](https://medium.com/p/8c5e11272c31) |
+| Sun, 01 Jun 2025 09:19:24 GMT | DISKO 1 - CTF Writeup - Pico CTF | w1zard | [Read More](https://medium.com/p/448c6314276c) |
+| Sun, 01 Jun 2025 09:18:22 GMT | Beyond the Surface: Unearthing Hidden Subdomains for High-Impact Bug Bounties | Tanmay Bhattacharjee | [Read More](https://medium.com/p/bef3e3f6a679) |
+| Sun, 01 Jun 2025 09:16:23 GMT | Mau Jadi Cyber Security Defender? Ini Roadmap Blue Team Selama 5 Tahun ke Depan | Abdullah Fakih | [Read More](https://medium.com/p/8fad039de396) |
 | Sun, 01 Jun 2025 09:04:25 GMT | Header Based Misconfiguration Leads to Account TakeOver | Vaishali Nagori | [Read More](https://medium.com/p/0b32c30932de) |
 | Sun, 01 Jun 2025 09:01:59 GMT | Decoding Redirection Exploits: Open Redirection, PCURL Abuse, and Mitigation Strategies | Salman Zakaria | [Read More](https://medium.com/p/67e437de1006) |
 | Sun, 01 Jun 2025 09:00:58 GMT | Part 2: The Ghost Inside the Machine | An0n | [Read More](https://medium.com/p/1d7dab12378e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 21:55:12 GMT | Adversarial AI 101: A Practical Introduction to Machine Learning Attacks | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/8e04599ac9dc) |
 | Sat, 31 May 2025 21:50:14 GMT | Honeypot Nedir? Gerçek Dünya Senaryoları ve Kurulum ile Kapsamlı Rehber | Eren Erdoğan | [Read More](https://medium.com/p/6456a8204f89) |
 | Sat, 31 May 2025 21:43:26 GMT | DLink DIR 615 Persistence POC | ice-wzl | [Read More](https://medium.com/p/ae65059bb6c9) |
-| Sat, 31 May 2025 21:41:15 GMT | Hack The Box “Cicada” Walkthrough | WireHawk Security | [Read More](https://medium.com/p/2bc392f1f2a1) |
-| Sat, 31 May 2025 21:38:57 GMT | Why AI Apps Need Security from Day One - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/eff9a3e316dd) |
-| Sat, 31 May 2025 21:35:42 GMT | Room 641A | Orgeismail | [Read More](https://medium.com/p/b0d3ef119ad2) |
-| Sat, 31 May 2025 21:34:00 GMT | eWPTXv3 Notes Part1 | Dehni | [Read More](https://medium.com/p/e0bfd8dee46d) |
-| Sat, 31 May 2025 21:30:59 GMT | Secure Code Review Nedir? | Baranteyinn | [Read More](https://medium.com/p/f20ce0513005) |
-| Sat, 31 May 2025 21:26:24 GMT | Surrogate Models Take Center Stage: A Smarter Way to Optimize Quantum Networks | QuantumGenie | [Read More](https://medium.com/p/1863996c38e7) |
