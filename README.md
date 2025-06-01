@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 04:22:44 GMT | Unlocking the Power of Proxies: Enhance Your Online Privacy and Security Today! | zainal Abidin | [Read More](https://medium.com/p/c2d05128c497) |
+| Sun, 01 Jun 2025 04:03:17 GMT | How to Create a Dashboard in Splunk Enterprise | Paritosh | [Read More](https://medium.com/p/893da1eef8d9) |
+| Sun, 01 Jun 2025 03:45:47 GMT | My AndroGoat Journey: Deep Dive into Hardcoded Issues | Damara Brian | [Read More](https://medium.com/p/a641d38d732a) |
 | Sun, 01 Jun 2025 03:44:40 GMT | My AndroGoat Journey: Deep Dive into Input Validations | Damara Brian | [Read More](https://medium.com/p/d504093db256) |
 | Sun, 01 Jun 2025 03:43:46 GMT | My AndroGoat Journey: Deep Dive into Side Channel Data Leakage | Damara Brian | [Read More](https://medium.com/p/8cdd7244de0d) |
+| Sun, 01 Jun 2025 03:42:27 GMT | GOTTA CATCH’EM ALL — TRY HACK ME — ROOM | 5kullk3r | [Read More](https://medium.com/p/de748e2e0892) |
 | Sun, 01 Jun 2025 03:37:43 GMT | Roadmap Cyber Security | Jodit | [Read More](https://medium.com/p/d47b962415bd) |
 | Sun, 01 Jun 2025 03:22:28 GMT | How to Connect 3 Switches to One Router in Cisco Packet Tracer | IndoHajk | [Read More](https://medium.com/p/ec887cd2de0e) |
 | Sun, 01 Jun 2025 03:10:34 GMT | Fuzzing Smart Contracts | Rishav Rayamajhi | [Read More](https://medium.com/p/6bfd9e1bd122) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 17:37:59 GMT | The best time to check your password’s strength was yesterday. | Tahashaikhseo | [Read More](https://medium.com/p/acdc3f4eab3b) |
 | Sat, 31 May 2025 17:34:59 GMT | AWS Pentesting CloudGaot sns_secrets with api keys | Ashok Reddy Medikonda | [Read More](https://medium.com/p/1b73c4fc2261) |
 | Sat, 31 May 2025 17:33:10 GMT | What is PII? | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/2a636aa2f5a2) |
-| Sat, 31 May 2025 17:24:59 GMT | Roadmap 5 Tahun Belajar Cybersecurity dari Dasar Penetration Tester ke Red Team | AlfariziRamadhan | [Read More](https://medium.com/p/50676a0c744d) |
-| Sat, 31 May 2025 17:24:31 GMT | Beyond HTTP: InterceptSuite for TCP/TLS Traffic Interception in Windows | Sourav Kalal | [Read More](https://medium.com/p/518934bba22f) |
-| Sat, 31 May 2025 17:22:20 GMT | Spring Boot’ta AES-256 ile Üst Düzey Güvenlik: Jasypt ile Verileri Şifreleme ve Çözme! | Orhan Türkmenoğlu | [Read More](https://medium.com/p/2cdae9d94145) |
-| Sat, 31 May 2025 17:19:17 GMT | TryHackMe CTF Lo-Fi Walkthrough | eRRoR | [Read More](https://medium.com/p/7b30d8379489) |
