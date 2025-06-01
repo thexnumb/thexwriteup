@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 17:28:15 GMT | The CIA Triad in Cybersecurity | Ar Sijan Official | [Read More](https://medium.com/p/0a9469f0964d) |
+| Sun, 01 Jun 2025 17:26:28 GMT | Chapter 5: (Task Management System) — Enhancing the Backend with Authentication Middleware and Task… | Natarajan C K | [Read More](https://medium.com/p/0500fc08f6c0) |
+| Sun, 01 Jun 2025 17:23:42 GMT | A CSRF Story I Encountered on My Bug Bounty Journey | Enes Özlek | [Read More](https://medium.com/p/6a037b4025ee) |
+| Sun, 01 Jun 2025 17:23:25 GMT | SMB Relay Attack Lab -- AD Pentesting Part 5: | Muhammadhuzaifa | [Read More](https://medium.com/p/9ac962dfb55f) |
+| Sun, 01 Jun 2025 17:19:11 GMT | The Weight of Being Watched | Jenardan Sellathurai | [Read More](https://medium.com/p/d5ae203b3683) |
+| Sun, 01 Jun 2025 17:18:36 GMT | My Cyber Security Journey: From Newbie to Expert in 5 Years | Hasiholanabdullah | [Read More](https://medium.com/p/6215068726ce) |
 | Sun, 01 Jun 2025 17:06:59 GMT | How AI is Transforming Cybersecurity in 2025 | Sat Microsystems | [Read More](https://medium.com/p/b5f6bf956562) |
 | Sun, 01 Jun 2025 17:06:09 GMT | Hacking, Virtual Machines, Linux, and Networking — A Beginner’s Guide | Helan Rogy | [Read More](https://medium.com/p/0b15e5800b46) |
 | Sun, 01 Jun 2025 17:05:56 GMT | Trump and Palantir: DOGE, Tech Bros, and The Military-Industrial Complex Want Access to Everything | The Censored State | [Read More](https://medium.com/p/7b6ed1a5f571) |
@@ -107,9 +113,3 @@ Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/
 | Sun, 01 Jun 2025 12:36:53 GMT | How I Found Sensitive Data on a Website Through Security Testing | Rejen | [Read More](https://medium.com/p/b824930b7654) |
 | Sun, 01 Jun 2025 12:33:20 GMT | WSJ: How Much Do You Know About Cyber Scams? Take the Journal’s Quiz. | SIMON CONSTABLE | [Read More](https://medium.com/p/dbd5f9007f43) |
 | Sun, 01 Jun 2025 12:30:33 GMT | From Technician to Magician — A 5 Years to Become Security Architect | Moneymase | [Read More](https://medium.com/p/46bb3ba184e9) |
-| Sun, 01 Jun 2025 12:24:25 GMT | ️ Analisis Traffic Mencurigakan: Investigasi Malware with Wireshark | Ramdhanisheva | [Read More](https://medium.com/p/ffc179334843) |
-| Sun, 01 Jun 2025 12:19:16 GMT | How a Wireshark Novice Tracked Malware Through a PCAP | sultanrk | [Read More](https://medium.com/p/bec948d52c3c) |
-| Sun, 01 Jun 2025 12:18:54 GMT | TryHackMe ColdBox Writeup — Beginner to Pro CTF Walkthrough | Yaqubnasibov | [Read More](https://medium.com/p/b4aa24777791) |
-| Sun, 01 Jun 2025 12:11:49 GMT | Tutorial Cisco Packet Tracer: Konfigurasi Jaringan Dasar & Pengujian dengan Simple PDU | Fay | [Read More](https://medium.com/p/454af5818df7) |
-| Sun, 01 Jun 2025 12:08:46 GMT | Free Cybersecurity Training from NIST: Why You Should Enroll and Earn the Certificate Today | Engr Mian Rahim Bacha | [Read More](https://medium.com/p/d1233c46fe69) |
-| Sun, 01 Jun 2025 12:08:12 GMT | Failed, Fought & Succeeded: My ISC2 Cybersecurity Certification Story | Holy Firewall | [Read More](https://medium.com/p/5b7bb155932b) |
