@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 15:13:40 GMT | the lost art of letting love be love | rein | [Read More](https://medium.com/p/467fae214cbc) |
+| Sun, 01 Jun 2025 15:09:21 GMT | Bypass of Date and Value Restrictions in Expense Submission | Hossam Hussein | [Read More](https://medium.com/p/f0cc6a5cb45a) |
+| Sun, 01 Jun 2025 15:02:46 GMT | Sensitive Information Disclosure — OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/77a4a0868645) |
+| Sun, 01 Jun 2025 14:56:47 GMT | Track the Hacks: Uncovered Path Traversal with Log Analysis | byuda | [Read More](https://medium.com/p/644b5d70ef65) |
+| Sun, 01 Jun 2025 14:53:18 GMT | Analisis Forensik Digital: Investigasi Aktivitas Koi Stealer dari Traffic PCAP | HETSHI | [Read More](https://medium.com/p/74ebeb655787) |
+| Sun, 01 Jun 2025 14:52:26 GMT | Deepfakes, Fraud, & the Hiring Reality Check HR Can’t Ignore | Certn HR Insights | [Read More](https://medium.com/p/edbcc74cdb57) |
+| Sun, 01 Jun 2025 14:43:58 GMT | The Starlink Empire: How Elon Musk Is Building the Ultimate Information Monopoly | Robert Thompson | [Read More](https://medium.com/p/4842e82b8349) |
+| Sun, 01 Jun 2025 14:42:07 GMT | Breaking Free of Wazuh’s Active Response Limitations with Graylog and Copilot | SOCFortress | [Read More](https://medium.com/p/d86d5d0dc18e) |
 | Sun, 01 Jun 2025 14:30:31 GMT | Laporan Analisis Traffic PCAP: Identifikasi Aktivitas Malware | Raihan fadhilah | [Read More](https://medium.com/p/ee925c6d18f9) |
 | Sun, 01 Jun 2025 14:28:38 GMT | Reading the Hacker Bible, I Didn’t Know I Needed | Akshara | [Read More](https://medium.com/p/1c07c613406e) |
 | Sun, 01 Jun 2025 14:25:08 GMT | Deserialization zafiyetleri — 
@@ -106,11 +114,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 09:04:25 GMT | Header Based Misconfiguration Leads to Account TakeOver | Vaishali Nagori | [Read More](https://medium.com/p/0b32c30932de) |
 | Sun, 01 Jun 2025 09:01:59 GMT | Decoding Redirection Exploits: Open Redirection, PCURL Abuse, and Mitigation Strategies | Salman Zakaria | [Read More](https://medium.com/p/67e437de1006) |
 | Sun, 01 Jun 2025 09:00:58 GMT | Part 2: The Ghost Inside the Machine | An0n | [Read More](https://medium.com/p/1d7dab12378e) |
-| Sun, 01 Jun 2025 08:57:30 GMT | Bug Bounty from Scratch - Everything You Need to Know About Bug Bounty | Abhijeet Kumawat | [Read More](https://medium.com/p/a2ece2070c4b) |
-| Sun, 01 Jun 2025 08:55:56 GMT | Deteksi dan Analisis Awal Infeksi Malware Win32/Koi Stealer | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/a70f20dad0db) |
-| Sun, 01 Jun 2025 08:54:59 GMT | >mshta Basics: From Script Execution to Browser Launch | Aniket Kolte | [Read More](https://medium.com/p/4675ecbac2d6) |
-| Sun, 01 Jun 2025 08:51:04 GMT | TRIAGE³: A Revolutionary Framework for SOC Signal Management | Siddhant Mishra | [Read More](https://medium.com/p/1e9c72409383) |
-| Sun, 01 Jun 2025 08:44:17 GMT | MALWARE ANALYSIS — Detection Koi Stealer in traffic report | Hammam Awis Zukimi | [Read More](https://medium.com/p/f0a8a6da5455) |
-| Sun, 01 Jun 2025 08:25:05 GMT | WordPress CVE-2024-7493 Reversing | AbhirupKonwar | [Read More](https://medium.com/p/dad3ee24a736) |
-| Sun, 01 Jun 2025 08:19:14 GMT | Leaders All Have Their Doubts | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/27216ae71b87) |
-| Sun, 01 Jun 2025 08:17:53 GMT | Algoritmaların Gözlerini Kapatmak: Adversarial Saldırılar ve Savunma Teknikleri | Melike Ateş | [Read More](https://medium.com/p/b76a794587cb) |
