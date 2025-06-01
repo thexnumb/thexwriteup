@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 13:34:44 GMT | Zero Knowledge Proof: How to Prevent Data Leaks When Your System Gets Hacked | Muhamad Arfa Alghiffari | [Read More](https://medium.com/p/17f3bf04390f) |
+| Sun, 01 Jun 2025 13:33:52 GMT | A User to Admin: How I Went From Nobody to Owning the Admin Panel | Xh081iX | [Read More](https://medium.com/p/7dcc22344720) |
+| Sun, 01 Jun 2025 13:33:43 GMT | DevSecOps Phase 4B: Manual Penetration Testing | Dinidhu Jayasinghe | [Read More](https://medium.com/p/9c9e0493531d) |
+| Sun, 01 Jun 2025 13:33:41 GMT | The Unsung Heroes of IT: Mastering Your Emergency Access Accounts | Rohi | [Read More](https://medium.com/p/2e15c91535fc) |
+| Sun, 01 Jun 2025 13:33:26 GMT | Google Dorking: A Hacker’s Best Friend | Satyam Pathania | [Read More](https://medium.com/p/716dfb3e9739) |
+| Sun, 01 Jun 2025 13:33:15 GMT | The Hidden Admin Backdoor in Reddit Ads | Monika sharma | [Read More](https://medium.com/p/32eeb8e1e216) |
+| Sun, 01 Jun 2025 13:31:33 GMT | Manager called an Engineer ‘Just a Number’ — It Cost the Company ₹2.5 Crore | Neha Gupta | [Read More](https://medium.com/p/7d7124868d77) |
+| Sun, 01 Jun 2025 13:30:56 GMT | THE SILENT HEIST: How Business Email Compromise Is Stealing Millions | Abdulkadir Ibrahim | [Read More](https://medium.com/p/869098a62ff8) |
+| Sun, 01 Jun 2025 13:26:15 GMT | 802.1X ile Güvenli Ağlara Giriş: Protokol, Yapı, Araçlar ve Uygulama | Emre Koç | [Read More](https://medium.com/p/ffc72de9b2d4) |
+| Sun, 01 Jun 2025 13:25:56 GMT | What I learn From HTB CPTS? | Iceicemelt | [Read More](https://medium.com/p/df3c1c616053) |
+| Sun, 01 Jun 2025 13:19:53 GMT | TryHackMe: CheeseCTF | Rishivegeto | [Read More](https://medium.com/p/9b8df6d297c1) |
 | Sun, 01 Jun 2025 13:15:49 GMT | Build Your Cyber Security Career: Roadmap untuk Memulai Karir Menjadi Cyber Security dari Nol… | Renaldy Permana | [Read More](https://medium.com/p/9a7bce7038b4) |
 | Sun, 01 Jun 2025 13:04:36 GMT | API03:2023 — Broken Object Property Level Authorization | Suhel Kathi | [Read More](https://medium.com/p/541b369731ba) |
 | Sun, 01 Jun 2025 13:04:13 GMT | Genos mod for Metal Gear Rising: Revengeance (MGRR) | Aparamanik | [Read More](https://medium.com/p/2e7ef70993ec) |
@@ -102,14 +113,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 07:18:11 GMT | How I Passed the CompTIA Security+ on My First Try (and How You Can Too) | John William Estacio | [Read More](https://medium.com/p/e59e00e93a34) |
 | Sun, 01 Jun 2025 07:04:18 GMT | Performing Security Testing with OWASP ZAP API and Python: My Cybersecurity College Project | Alan Sabu John | [Read More](https://medium.com/p/4675d9a27571) |
 | Sun, 01 Jun 2025 06:58:36 GMT | Host Header Injection in Symfony: Secure Your Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/b5ff3be316c7) |
-| Sun, 01 Jun 2025 06:56:02 GMT | Analisis Malware menggunakan Wireshark | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/cf8fcc67cc94) |
-| Sun, 01 Jun 2025 06:55:06 GMT | Q-Day: The Cyber Threat That Could Break the Internet as We Know It | Sajid Khan | [Read More](https://medium.com/p/5d53a902b848) |
-| Sun, 01 Jun 2025 06:46:34 GMT | Malware Analysis Training Based On Case “Koi Stealer” | Raja Ubaid Fawwaz | [Read More](https://medium.com/p/9d3d89ceb89e) |
-| Sun, 01 Jun 2025 06:43:43 GMT | TTPs — Nmap | Daniel Gilbert | [Read More](https://medium.com/p/67d654086a13) |
-| Sun, 01 Jun 2025 06:39:42 GMT | My Experience with the HTB Certified Defensive Security Analyst (CDSA) Certification | Xeipher | [Read More](https://medium.com/p/cb9c85c9a4a4) |
-| Sun, 01 Jun 2025 06:39:32 GMT | Securing AI Workloads and Agents with Zero Trust Strategy | Chandan Bilvaraj | [Read More](https://medium.com/p/9c2be0e8091d) |
-| Sun, 01 Jun 2025 06:34:47 GMT | Scanning My Own Laptop with OpenVAS: A Hands-On Guide to Vulnerability Discovery and Remediation | Amy Huynh | [Read More](https://medium.com/p/f017a469407e) |
-| Sun, 01 Jun 2025 06:34:21 GMT | Authentication Token Reuse — A Silent 2FA Killer | Nareshkumar | [Read More](https://medium.com/p/e52bef4c599a) |
-| Sun, 01 Jun 2025 06:30:50 GMT | Unleashing Systems: Hacking, Virtual Machines, Linux & Networking | Chris T | [Read More](https://medium.com/p/48cfb2f1b6fc) |
-| Sun, 01 Jun 2025 06:00:43 GMT | Today’s Top Cyber Intelligence Highlights — Jun 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6ce40d1d6fdf) |
-| Sun, 01 Jun 2025 05:55:25 GMT | Cyber Deterrence in the Age of Hybrid Warfare. | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4401fd22c6f2) |
