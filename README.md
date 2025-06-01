@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 21:13:30 GMT | What is DOM? | Kutay Yılmaz | [Read More](https://medium.com/p/ef105092222c) |
+| Sun, 01 Jun 2025 21:12:14 GMT | Week 6: Port Security | Kwamz | [Read More](https://medium.com/p/d4083458105e) |
+| Sun, 01 Jun 2025 21:09:05 GMT | On Rainy Days Like This | Odyssey of Silence | [Read More](https://medium.com/p/8ef77b02cbfa) |
+| Sun, 01 Jun 2025 20:55:20 GMT | ️ The Smart Contract Hunter’s Playbook: Clone, Analyze, Exploit | Martin Pál | [Read More](https://medium.com/p/0b5d61049a61) |
+| Sun, 01 Jun 2025 20:48:10 GMT | Rey y mono | Diego Savoia | [Read More](https://medium.com/p/54be9b707574) |
+| Sun, 01 Jun 2025 20:47:58 GMT | The Brains Behind Business Email | Omar El Saadawy | [Read More](https://medium.com/p/81ffa666a8fe) |
+| Sun, 01 Jun 2025 20:47:31 GMT | OWASP Global AppSec Barcelona 2025 Personal Recap | Adan | [Read More](https://medium.com/p/89bed7dc4342) |
+| Sun, 01 Jun 2025 20:47:21 GMT | When Delegation Becomes Deception: Cracking Ethernaut’s Challenge #6 | Martin Pál | [Read More](https://medium.com/p/f7edf8e77e9b) |
+| Sun, 01 Jun 2025 20:38:33 GMT | The Depths of Deterrence: Securing Undersea Infrastructure in the Baltic | European Horizons’ Leiden Chapter | [Read More](https://medium.com/p/351ff03073a5) |
 | Sun, 01 Jun 2025 20:25:38 GMT | Learning YARA: A Beginner SOC Analyst’s Notes | Corey Jones | [Read More](https://medium.com/p/e0de4b3e2cd1) |
 | Sun, 01 Jun 2025 20:25:15 GMT | Forage Commonwealth Bank Job Simulation: Cybersecurity | Shamar Isaac | [Read More](https://medium.com/p/df6fb54f4809) |
 | Sun, 01 Jun 2025 20:22:16 GMT | Cork Protocol Exploited for $12M in wstETH via Fake Tokens | CyberLucifer | [Read More](https://medium.com/p/4dad0f83485d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 15:29:44 GMT | ‘’Roadmap Cyber Security, Dalam 5 Tahun kedepan | Naurah Yulistia | [Read More](https://medium.com/p/a1464ed178cf) |
 | Sun, 01 Jun 2025 15:29:29 GMT | The Future of AI and Identity & Access Management: From Gatekeeper to Intelligent Guardian | Walid Darwish | [Read More](https://medium.com/p/7f27337f4481) |
 | Sun, 01 Jun 2025 15:15:34 GMT | How Blockchain Secures Data Through Cryptography | Thabiso Njoko | [Read More](https://medium.com/p/a37e6b2f10bc) |
-| Sun, 01 Jun 2025 15:13:40 GMT | the lost art of letting love be love | rein | [Read More](https://medium.com/p/467fae214cbc) |
-| Sun, 01 Jun 2025 15:13:24 GMT | TryHackMe Hammer Walkthrough: Bypassing Rate Limit & Exploiting JWT | Jarrett Goh XZ | [Read More](https://medium.com/p/b62bd36de716) |
-| Sun, 01 Jun 2025 15:13:17 GMT | Hasil analisa malware Trojan Koi Stealer | Tiorajin | [Read More](https://medium.com/p/d6a1b6599744) |
-| Sun, 01 Jun 2025 15:09:21 GMT | Bypass of Date and Value Restrictions in Expense Submission | Hossam Hussein | [Read More](https://medium.com/p/f0cc6a5cb45a) |
-| Sun, 01 Jun 2025 15:02:46 GMT | Sensitive Information Disclosure — OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/77a4a0868645) |
-| Sun, 01 Jun 2025 14:56:47 GMT | Track the Hacks: Uncovered Path Traversal with Log Analysis | byuda | [Read More](https://medium.com/p/644b5d70ef65) |
-| Sun, 01 Jun 2025 14:53:18 GMT | Analisis Forensik Digital: Investigasi Aktivitas Koi Stealer dari Traffic PCAP | HETSHI | [Read More](https://medium.com/p/74ebeb655787) |
-| Sun, 01 Jun 2025 14:52:26 GMT | Deepfakes, Fraud, & the Hiring Reality Check HR Can’t Ignore | Certn HR Insights | [Read More](https://medium.com/p/edbcc74cdb57) |
-| Sun, 01 Jun 2025 14:43:58 GMT | The Starlink Empire: How Elon Musk Is Building the Ultimate Information Monopoly | Robert Thompson | [Read More](https://medium.com/p/4842e82b8349) |
