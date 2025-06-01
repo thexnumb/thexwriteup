@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 02:02:49 GMT | Why Every Developer Should Have a Portfolio — And How to Host Yours for Free! | Ivo Pereira | [Read More](https://medium.com/p/df0929875579) |
+| Sun, 01 Jun 2025 01:31:13 GMT | Review of Security Research Articles: May 2025 | Lukasz Wierzbicki | [Read More](https://medium.com/p/010d97c7ee9e) |
+| Sun, 01 Jun 2025 01:31:08 GMT | Charting Your Course: A 5-Year Cybersecurity Roadmap to Peak Expertise | Abdul Khakim | [Read More](https://medium.com/p/1e499e35b7e8) |
+| Sun, 01 Jun 2025 01:30:32 GMT | What are BloodHound ingestors? | z3l3v | [Read More](https://medium.com/p/218991c87a67) |
+| Sun, 01 Jun 2025 01:28:53 GMT | What Are Some Legitimate Recovery Companies That Help Victims Of Investment Scam To Recover Their… | Jane Catron | [Read More](https://medium.com/p/2625eb39f103) |
+| Sun, 01 Jun 2025 01:28:34 GMT | How to Fix Kali Signing Key and Metasploit Errors (April 2025) | z3l3v | [Read More](https://medium.com/p/108fdddfac38) |
+| Sun, 01 Jun 2025 01:27:05 GMT | Open Redirect + Referer Header = $3,000 Access Token Leak | Monika sharma | [Read More](https://medium.com/p/dd45ba4bdb0c) |
+| Sun, 01 Jun 2025 01:26:57 GMT | How a $49 Smart Toaster Gave Hackers Access to a Company’s Bank Account | Noel | [Read More](https://medium.com/p/e33dc65ef8f3) |
+| Sun, 01 Jun 2025 01:24:34 GMT | How a Path Normalization Flaw in Stripe’s Node.js SDK Leaked PII” | Monika sharma | [Read More](https://medium.com/p/6aec960a70f3) |
+| Sun, 01 Jun 2025 01:23:56 GMT | Reality of Bug Bounty 2025 | Bell | [Read More](https://medium.com/p/c920bf9944fb) |
+| Sun, 01 Jun 2025 01:23:28 GMT | When Your Office Chair Hacked the CEO: The Bizarre 2025 Cyberattack That Cost X Business $300K | Noel | [Read More](https://medium.com/p/bac603b00b27) |
+| Sun, 01 Jun 2025 01:15:29 GMT | ReconHTML: Scan For Leaked Data In Source Code | Therealcybergod | [Read More](https://medium.com/p/50fe663ef387) |
+| Sun, 01 Jun 2025 01:08:23 GMT | Basic Networking for Cybersecurity: Learn with Cisco Packet Tracer | HETSHI | [Read More](https://medium.com/p/4f359c01119a) |
+| Sun, 01 Jun 2025 01:05:58 GMT | ELK Stack Installation Guide for Ubuntu Server 22.04 | Abbas Kazimov | [Read More](https://medium.com/p/270bbf2185de) |
+| Sun, 01 Jun 2025 00:55:38 GMT | How I Took Control of My Cybersecurity Learning (and Built the System I Wish I Had from Day One) | Sara Sheon | [Read More](https://medium.com/p/11e8d20340dc) |
+| Sun, 01 Jun 2025 00:54:52 GMT | Complete Guide On How to Identify A Suspicious Process | Cyber Axe | [Read More](https://medium.com/p/1748317bc5c0) |
+| Sun, 01 Jun 2025 00:43:35 GMT | PARIS – INTERMILAN : 0 pour la sécurité. | Nicole DEGBO | [Read More](https://medium.com/p/e8636bf82238) |
+| Sun, 01 Jun 2025 00:30:43 GMT | Explorando Blind SQL (Structured Query Language) Injection | Sérgio Corrêa | [Read More](https://medium.com/p/e63b394e9d3e) |
+| Sun, 01 Jun 2025 00:28:33 GMT | The Idealist’s Architecture Decision: Cross-Tenant Access — Part 4 | Jenny 秋 | [Read More](https://medium.com/p/db62e94c92de) |
+| Sun, 01 Jun 2025 00:20:01 GMT | HTB Traverxec — Walkthrough | Bianca | [Read More](https://medium.com/p/fb9e910491ac) |
+| Sat, 31 May 2025 23:46:35 GMT | Beyond Initial Attraction: How “Love Over Time” Blossoms | PhoebeWhite | [Read More](https://medium.com/p/43cafa41e780) |
 | Sat, 31 May 2025 23:18:07 GMT | [Research] S&P 2025 Trend Report: Where AI, Privacy, and Attack Surfaces Collide | Joseph's Web3 and Start-Ups Adventure | [Read More](https://medium.com/p/869939849746) |
 | Sat, 31 May 2025 23:16:15 GMT | Vulnerability is messy. Ugly. Brutal. | Jen Marie | [Read More](https://medium.com/p/68a13780876f) |
 | Sat, 31 May 2025 23:15:07 GMT | Business Logic Bug: Enforce victim to accept the invitation | Ossama (@pent0ss) | [Read More](https://medium.com/p/3e7811978ad0) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 17:00:17 GMT | How Deep is our SHAME? | Aishwarya | [Read More](https://medium.com/p/4aeee311f584) |
 | Sat, 31 May 2025 16:57:38 GMT | Angular application Security Best Practices: Scalable Strategies for Enterprise-Grade Applications | Prasenjit Dasgupta | [Read More](https://medium.com/p/805edab77fb2) |
 | Sat, 31 May 2025 16:56:34 GMT | How to Allow or Block a Program Through Firewall in Windows | Jazz Cyber Shield | [Read More](https://medium.com/p/c2b17deb5f9f) |
-| Sat, 31 May 2025 16:48:23 GMT | I’m Learning to Let Go ~ Sera Dawn | Sera Dawn | [Read More](https://medium.com/p/e83602d6e271) |
-| Sat, 31 May 2025 16:47:15 GMT | Your “First Cybersecurity Job” Survival Guide. | José Reyes (@Architekt) | [Read More](https://medium.com/p/e0b794489606) |
-| Sat, 31 May 2025 16:46:39 GMT | Fortifying Your Microservices: A Complete Guide to DoS Attack Prevention | TechWealthBuzz | [Read More](https://medium.com/p/cbd51232eba2) |
-| Sat, 31 May 2025 16:44:09 GMT | Blockchain Bandit Attack Lab: And How Weak Keys Can Still Leak Funds | Omarataallah | [Read More](https://medium.com/p/eb55f2b41b9c) |
-| Sat, 31 May 2025 16:40:47 GMT | How Can I Recover My Scammed $87,000 from a Fake Bitcoin Investment Scam?. | Crime Stories | [Read More](https://medium.com/p/cbc81d3fcd7e) |
-| Sat, 31 May 2025 16:36:33 GMT | ️ How to Become a Penetration Tester / Ethical Hacker — A Complete Guide with Tools & Practical… | Nasr Ullah Mahar | [Read More](https://medium.com/p/72f37f9f6769) |
-| Sat, 31 May 2025 16:35:52 GMT | How to Make Money with Hacking (ethical way) | Cypher.One | [Read More](https://medium.com/p/ca8b188b3963) |
-| Sat, 31 May 2025 16:31:39 GMT | Can I Recover My Bitcoin That Was Stolen From Me Last Month? | Crime Stories | [Read More](https://medium.com/p/e0ec4babb358) |
-| Sat, 31 May 2025 16:31:15 GMT | DS_Store — Information Disclosure | elcezeri | [Read More](https://medium.com/p/0b9ac0bca064) |
-| Sat, 31 May 2025 16:28:29 GMT | The Zero-Day Exploits and Command Infrastructure Behind Stuxnet | HAKAM | [Read More](https://medium.com/p/e85993b43b66) |
-| Sat, 31 May 2025 16:25:30 GMT | How Can I Recover My Scammed $82,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/92f2dd3a8562) |
-| Sat, 31 May 2025 16:21:49 GMT | BUG: Comprehensive Guide To Earning Rewards | $BUG Bug Community Rewards | [Read More](https://medium.com/p/ebdca84dc3f7) |
-| Sat, 31 May 2025 16:12:03 GMT | How Casual Browsing Uncovered a Chain of Critical Vulnerabilities (and What I Did Next) | A S Kshatriya | [Read More](https://medium.com/p/f55b5eb9ec4e) |
-| Sat, 31 May 2025 16:07:07 GMT | CEH v13 (AI)考試心得和考前的資料準備 | Azkyl | [Read More](https://medium.com/p/fbcf44e1dfec) |
-| Sat, 31 May 2025 16:02:35 GMT | Why Every Developer Should Learn Basic Hacking ? | Md Faiyaz Khan | [Read More](https://medium.com/p/dd2b7845c726) |
-| Sat, 31 May 2025 15:56:54 GMT | Roadmap Cybersecurity 5 Tahun Kedepan | Nasss | [Read More](https://medium.com/p/ac8df0236d7c) |
-| Sat, 31 May 2025 15:56:27 GMT | Proteções Essenciais para seu App. | Perla C. S | [Read More](https://medium.com/p/f8f0ff716dcc) |
-| Sat, 31 May 2025 15:54:28 GMT | Tutorial Jaringan Dasar dengan Cisco Packet Tracer: Dari Topologi hingga Routing! | Muhammad Rafqy Syaputra | [Read More](https://medium.com/p/c2bf345cc939) |
-| Sat, 31 May 2025 15:47:03 GMT | Datenproduktentwicklung in Deutschland: Der strategische Fahrplan für nachhaltigen… | Philip Hansen | [Read More](https://medium.com/p/1b7d14af4346) |
-| Sat, 31 May 2025 15:33:03 GMT | My Beginner’s Journey: Using Raspberry Pi Pico W to Explore BadUSB Attacks | Agape HearTs | [Read More](https://medium.com/p/21c75c688731) |
-| Sat, 31 May 2025 15:27:49 GMT | Inside the Black Box: How US Border Agents Crack Your Devices | Denis | [Read More](https://medium.com/p/3db0183ef1f0) |
