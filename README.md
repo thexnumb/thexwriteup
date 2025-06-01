@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 20:25:38 GMT | Learning YARA: A Beginner SOC Analyst’s Notes | Corey Jones | [Read More](https://medium.com/p/e0de4b3e2cd1) |
+| Sun, 01 Jun 2025 20:25:15 GMT | Forage Commonwealth Bank Job Simulation: Cybersecurity | Shamar Isaac | [Read More](https://medium.com/p/df6fb54f4809) |
+| Sun, 01 Jun 2025 20:22:16 GMT | Cork Protocol Exploited for $12M in wstETH via Fake Tokens | CyberLucifer | [Read More](https://medium.com/p/4dad0f83485d) |
+| Sun, 01 Jun 2025 20:14:10 GMT | Is Your Smart Fridge Helping Hackers While You Shop for Pajama Pants? | Tina Ginn | [Read More](https://medium.com/p/6b2c5a0da7f5) |
 | Sun, 01 Jun 2025 20:13:54 GMT | Penetration Testing: Brute Force | Anthony Sigid | [Read More](https://medium.com/p/69ba2822c26b) |
 | Sun, 01 Jun 2025 20:11:01 GMT | Windows Fundamentals -HTB Academy | Nyaboke | [Read More](https://medium.com/p/e41a3348093e) |
 | Sun, 01 Jun 2025 19:55:20 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/e2491acf2736) |
@@ -87,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 16:09:23 GMT | FristiLeaks Writeup (Vulnhub Basic Machine) | Ivan Daňo | [Read More](https://medium.com/p/76c8af7a0349) |
 | Sun, 01 Jun 2025 16:08:36 GMT | Der 2025 Roadmap für erfolgreiches Datenqualitätsmanagement und Datenaggregation in der digitalen… | Philip Hansen | [Read More](https://medium.com/p/9bdededab313) |
 | Sun, 01 Jun 2025 16:06:32 GMT | Check for Cyber Attacks Now! Here’s a Simple Method to Get It Done. | Toni Mendrofa | [Read More](https://medium.com/p/55bd6292f38a) |
+| Sun, 01 Jun 2025 15:55:47 GMT | Roadmap Cybersecurity | M. Naufal R. | [Read More](https://medium.com/p/9de9fc825f58) |
 | Sun, 01 Jun 2025 15:55:07 GMT | Windows 10 & Server VM: Share Drives, RDP, C$, and Remote Help | Tyrik Emptage | [Read More](https://medium.com/p/68552ae70f33) |
 | Sun, 01 Jun 2025 15:54:36 GMT | WIN32/Koi Stealer di Jaringan Lokal (Studi kasus PT.AKAMSI [fiktif sih]) | Ahmad Ubaidillah | [Read More](https://medium.com/p/5f482c3f9763) |
 | Sun, 01 Jun 2025 15:48:34 GMT | Phishing Scams Are Basically Digital Witchcraft (And I Fell for One Too) | Code & Kif | [Read More](https://medium.com/p/d574c8b3520d) |
@@ -107,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 14:53:18 GMT | Analisis Forensik Digital: Investigasi Aktivitas Koi Stealer dari Traffic PCAP | HETSHI | [Read More](https://medium.com/p/74ebeb655787) |
 | Sun, 01 Jun 2025 14:52:26 GMT | Deepfakes, Fraud, & the Hiring Reality Check HR Can’t Ignore | Certn HR Insights | [Read More](https://medium.com/p/edbcc74cdb57) |
 | Sun, 01 Jun 2025 14:43:58 GMT | The Starlink Empire: How Elon Musk Is Building the Ultimate Information Monopoly | Robert Thompson | [Read More](https://medium.com/p/4842e82b8349) |
-| Sun, 01 Jun 2025 14:42:07 GMT | Breaking Free of Wazuh’s Active Response Limitations with Graylog and Copilot | SOCFortress | [Read More](https://medium.com/p/d86d5d0dc18e) |
-| Sun, 01 Jun 2025 14:30:31 GMT | Laporan Analisis Traffic PCAP: Identifikasi Aktivitas Malware | Raihan fadhilah | [Read More](https://medium.com/p/ee925c6d18f9) |
-| Sun, 01 Jun 2025 14:28:38 GMT | Reading the Hacker Bible, I Didn’t Know I Needed | Akshara | [Read More](https://medium.com/p/1c07c613406e) |
-| Sun, 01 Jun 2025 14:25:08 GMT | Deserialization zafiyetleri — 
-Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/a3b17dcb7eb2) |
-| Sun, 01 Jun 2025 14:17:07 GMT | ARP Spoofing - Man In The Middle Attack | Alibinazam | [Read More](https://medium.com/p/63ac38d41989) |
