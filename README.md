@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 07:27:15 GMT | How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities | Mhmodgm | [Read More](https://medium.com/p/d2e098e89c8d) |
+| Sun, 01 Jun 2025 07:23:55 GMT | FinTech Solutions: Building Secure and Scalable Financial Applications for the Future | Amaka okoye | [Read More](https://medium.com/p/aade96a2dc43) |
+| Sun, 01 Jun 2025 07:21:18 GMT | Review CRTP and Prep & Exam | Raka Sean Elian | [Read More](https://medium.com/p/6611be55b108) |
+| Sun, 01 Jun 2025 07:19:26 GMT | The Surveillance Paradox: When More Eyes Mean More Risk | Björn Thönnessen | [Read More](https://medium.com/p/4bfdccdcbbda) |
+| Sun, 01 Jun 2025 07:18:11 GMT | How I Passed the CompTIA Security+ on My First Try (and How You Can Too) | John William Estacio | [Read More](https://medium.com/p/e59e00e93a34) |
 | Sun, 01 Jun 2025 07:04:18 GMT | Performing Security Testing with OWASP ZAP API and Python: My Cybersecurity College Project | Alan Sabu John | [Read More](https://medium.com/p/4675d9a27571) |
 | Sun, 01 Jun 2025 06:58:36 GMT | Host Header Injection in Symfony: Secure Your Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/b5ff3be316c7) |
 | Sun, 01 Jun 2025 06:56:02 GMT | Analisis Malware menggunakan Wireshark | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/cf8fcc67cc94) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 19:33:43 GMT | Analisando algumas técnicas MITRE ATT&CK® | Moprius | [Read More](https://medium.com/p/2d9144a4f4aa) |
 | Sat, 31 May 2025 19:32:21 GMT | SOC Analysis of Event 249: SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability… | Ray Maiden | [Read More](https://medium.com/p/6d16b11cfa67) |
 | Sat, 31 May 2025 19:23:39 GMT | Cyber Security — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/09d59903a9f9) |
-| Sat, 31 May 2025 19:19:58 GMT | Mail Hesabına Authenticator Ekleme | Kaan Can Calkan | [Read More](https://medium.com/p/0a23ff1cf22f) |
-| Sat, 31 May 2025 19:19:08 GMT | CVE-2025–47539: WordPress Plugin Exploit Lets Attackers Become Admin — No Login Needed | Sachin kewat | [Read More](https://medium.com/p/df62dedf85ac) |
-| Sat, 31 May 2025 19:14:02 GMT | Cloud Compliance Gap Analysis: Identifying Risks in AWS Using NIST CSF | Sophia Mitchell | [Read More](https://medium.com/p/88735f5b130c) |
-| Sat, 31 May 2025 19:12:36 GMT | Top 10 Cybersecurity Breaches of 2025 and What We Can Learn | Stealseek | [Read More](https://medium.com/p/f5c37e47d40f) |
-| Sat, 31 May 2025 19:07:56 GMT | Behind the Scenes: How SQLMap Retrieves Database Using Time-Based Blind SQL Injection | BobTeJaS | [Read More](https://medium.com/p/df10bde18210) |
