@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 23:11:39 GMT | Understanding Ethical Hacking Concepts | Md. Rumon Munshi | [Read More](https://medium.com/p/847ad6a1744f) |
+| Sun, 01 Jun 2025 23:10:47 GMT | How I Built a Real-Time Credit Card Fraud Detection System with Machine Learning | Timothy Kimutai | [Read More](https://medium.com/p/80000fbd33de) |
+| Sun, 01 Jun 2025 23:09:59 GMT | AI-Generated Videos Are Getting Too Good — And That’s a Problem | Mateo Cruz | [Read More](https://medium.com/p/63776005cd1f) |
+| Sun, 01 Jun 2025 23:09:19 GMT | Logged in Without Logging In: A $xxx Improper Authentication Flaw in TVA’s Portal | Monika sharma | [Read More](https://medium.com/p/4c54c87bd512) |
+| Sun, 01 Jun 2025 23:02:32 GMT | TryHackMe — Warzone 1 Room Walkthrough | Drew Arpino | [Read More](https://medium.com/p/215e1a92134b) |
+| Sun, 01 Jun 2025 22:53:33 GMT | Cybersecurity Awareness: Understanding the Digital World and Staying Safe in It | Gbemisola Esho | [Read More](https://medium.com/p/81c602c0402b) |
+| Sun, 01 Jun 2025 22:41:55 GMT | A Sunday for the History Books: Drones, Chess, and a 2:30 AM Writing Debut | Nikhil | [Read More](https://medium.com/p/6ad52d63b47c) |
+| Sun, 01 Jun 2025 22:41:33 GMT | Enso: Accelerating Visual Programming with Shortcuts | Murphy | [Read More](https://medium.com/p/23696cbdfcca) |
+| Sun, 01 Jun 2025 22:32:32 GMT | ICE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/eac10d21d81a) |
 | Sun, 01 Jun 2025 22:28:05 GMT | Every Word You Type is Being Stolen… The Insidious Google Keyboard | HarryHTML | [Read More](https://medium.com/p/652d4de8712b) |
 | Sun, 01 Jun 2025 22:23:30 GMT | Policing the Future: How AI, Robots, and Surveillance Tech Threaten Civil Liberties | Mateo Cruz | [Read More](https://medium.com/p/4173f96febcd) |
 | Sun, 01 Jun 2025 21:54:58 GMT | The Silent Crisis: Rediscovering Masculinity Beyond Success | LolA | [Read More](https://medium.com/p/aca913341d2e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 16:18:43 GMT | Building and Detecting a Backdoor: Dynamic Analysis and YARA Rules | Lipeozyy | [Read More](https://medium.com/p/3ff28c4659ce) |
 | Sun, 01 Jun 2025 16:15:04 GMT | Analisis Report Malware menggunakan Wireshark | Riansatria | [Read More](https://medium.com/p/4670622cec94) |
 | Sun, 01 Jun 2025 16:12:20 GMT | Is It Possible To Withdraw My Money From Ltcminer? | Helen | [Read More](https://medium.com/p/4e6a9bd4686d) |
-| Sun, 01 Jun 2025 16:10:23 GMT | Bookmarklet picoCTF challenge | 0xam3rr | [Read More](https://medium.com/p/a5530ae40479) |
-| Sun, 01 Jun 2025 16:09:23 GMT | FristiLeaks Writeup (Vulnhub Basic Machine) | Ivan Daňo | [Read More](https://medium.com/p/76c8af7a0349) |
-| Sun, 01 Jun 2025 16:08:36 GMT | Der 2025 Roadmap für erfolgreiches Datenqualitätsmanagement und Datenaggregation in der digitalen… | Philip Hansen | [Read More](https://medium.com/p/9bdededab313) |
-| Sun, 01 Jun 2025 16:06:32 GMT | Check for Cyber Attacks Now! Here’s a Simple Method to Get It Done. | Toni Mendrofa | [Read More](https://medium.com/p/55bd6292f38a) |
-| Sun, 01 Jun 2025 15:55:47 GMT | Roadmap Cybersecurity | M. Naufal R. | [Read More](https://medium.com/p/9de9fc825f58) |
-| Sun, 01 Jun 2025 15:55:07 GMT | Windows 10 & Server VM: Share Drives, RDP, C$, and Remote Help | Tyrik Emptage | [Read More](https://medium.com/p/68552ae70f33) |
-| Sun, 01 Jun 2025 15:54:36 GMT | WIN32/Koi Stealer di Jaringan Lokal (Studi kasus PT.AKAMSI [fiktif sih]) | Ahmad Ubaidillah | [Read More](https://medium.com/p/5f482c3f9763) |
-| Sun, 01 Jun 2025 15:48:34 GMT | Phishing Scams Are Basically Digital Witchcraft (And I Fell for One Too) | Code & Kif | [Read More](https://medium.com/p/d574c8b3520d) |
-| Sun, 01 Jun 2025 15:42:57 GMT | Why I Stopped Trying to Be Perfect (And You Should Too) | Daniel Gagarin | [Read More](https://medium.com/p/170d32663e6a) |
