@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 06:43:43 GMT | TTPs — Nmap | Daniel Gilbert | [Read More](https://medium.com/p/67d654086a13) |
+| Sun, 01 Jun 2025 06:39:42 GMT | My Experience with the HTB Certified Defensive Security Analyst (CDSA) Certification | Xeipher | [Read More](https://medium.com/p/cb9c85c9a4a4) |
+| Sun, 01 Jun 2025 06:34:47 GMT | Scanning My Own Laptop with OpenVAS: A Hands-On Guide to Vulnerability Discovery and Remediation | Amy Huynh | [Read More](https://medium.com/p/f017a469407e) |
+| Sun, 01 Jun 2025 06:34:21 GMT | Authentication Token Reuse — A Silent 2FA Killer | Nareshkumar | [Read More](https://medium.com/p/e52bef4c599a) |
+| Sun, 01 Jun 2025 06:30:50 GMT | Unleashing Systems: Hacking, Virtual Machines, Linux & Networking | Chris T | [Read More](https://medium.com/p/48cfb2f1b6fc) |
 | Sun, 01 Jun 2025 06:00:43 GMT | Today’s Top Cyber Intelligence Highlights — Jun 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6ce40d1d6fdf) |
 | Sun, 01 Jun 2025 05:55:25 GMT | Cyber Deterrence in the Age of Hybrid Warfare. | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4401fd22c6f2) |
 | Sun, 01 Jun 2025 05:53:21 GMT | NahamCon CTF 2025 write-up | Prakshit Jain | [Read More](https://medium.com/p/c68e95859696) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 18:27:35 GMT | ️ Red Teaming: Simulating Real-World Cyber Attacks to Fortify Your Defenses | Smdefencerabbit | [Read More](https://medium.com/p/6df36fb54c04) |
 | Sat, 31 May 2025 18:27:11 GMT | System Integration Blind Spots | Khod4li | [Read More](https://medium.com/p/663e5da2c8c5) |
 | Sat, 31 May 2025 18:24:17 GMT | Roadmap menjadi Cyber Security dalam 5 tahun | Donal | [Read More](https://medium.com/p/e2562230734c) |
-| Sat, 31 May 2025 18:22:31 GMT | Roadmap CyberSecurity 5 Tahun ke Depan | Agilseftian | [Read More](https://medium.com/p/009cdf6425f3) |
-| Sat, 31 May 2025 18:18:50 GMT | Why Web Application Penetration Testing Is More Critical Than Ever in 2025 | -uncn | [Read More](https://medium.com/p/2c6a552af6d4) |
-| Sat, 31 May 2025 18:18:09 GMT | The Hackers Meetup — May Event | The Hackers Meetup | [Read More](https://medium.com/p/85b6338ef108) |
-| Sat, 31 May 2025 18:18:04 GMT | When Math Goes Wrong: Cracking Ethernaut’s Token Challenge #5 | Martin Pál | [Read More](https://medium.com/p/86d050f4107b) |
-| Sat, 31 May 2025 18:12:29 GMT | Breaking Through The Phone: How to Solve Ethernaut’s Challenge #4 | Martin Pál | [Read More](https://medium.com/p/f2dac7763ec9) |
