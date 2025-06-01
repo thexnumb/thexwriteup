@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 14:30:31 GMT | Laporan Analisis Traffic PCAP: Identifikasi Aktivitas Malware | Raihan fadhilah | [Read More](https://medium.com/p/ee925c6d18f9) |
+| Sun, 01 Jun 2025 14:28:38 GMT | Reading the Hacker Bible, I Didn’t Know I Needed | Akshara | [Read More](https://medium.com/p/1c07c613406e) |
+| Sun, 01 Jun 2025 14:25:08 GMT | Deserialization zafiyetleri — 
+Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/a3b17dcb7eb2) |
 | Sun, 01 Jun 2025 14:17:07 GMT | ARP Spoofing - Man In The Middle Attack | Alibinazam | [Read More](https://medium.com/p/63ac38d41989) |
+| Sun, 01 Jun 2025 14:13:33 GMT | Cybersecurity Starts at the Top: What Leaders Need to Know About CSF 2.0 | Onur Okan | [Read More](https://medium.com/p/56f38fe55a65) |
+| Sun, 01 Jun 2025 14:12:16 GMT | Bolero.be Review - This Is How I Recovered My Money Back | Karen Kreutzmann | [Read More](https://medium.com/p/f293272599cf) |
+| Sun, 01 Jun 2025 14:10:32 GMT | Privilege Escalation and Exploits in Mr. Robot: A CTF Write-Up | Mohamed Niyas | [Read More](https://medium.com/p/ba9bd4cd47b5) |
+| Sun, 01 Jun 2025 14:10:09 GMT | Nigeria's Cybersecurity Crisis: Unmasking the Digital Threat Landscape | O. J. Okpabi | [Read More](https://medium.com/p/79fdc8a12017) |
 | Sun, 01 Jun 2025 14:09:02 GMT | From Forgot Password to Forgot Validation: A Broken Flow That Let Me Take Over Accounts | Iski | [Read More](https://medium.com/p/04fb7c5b7ecc) |
+| Sun, 01 Jun 2025 14:06:26 GMT | The Art of Secrecy | Oluwasemilore Adelaja | [Read More](https://medium.com/p/8ca070a860fd) |
 | Sun, 01 Jun 2025 14:02:40 GMT | From Application to Interview: How to Prepare Like a Cybersecurity Analyst (Not Just a Candidate) | Frank Cabrel | [Read More](https://medium.com/p/cc6c76794f52) |
 | Sun, 01 Jun 2025 13:59:21 GMT | Dasar Jaringan menggunakan Cisco Packet Tracer — Static Route | Rendizar Satria | [Read More](https://medium.com/p/af5be30f1c18) |
 | Sun, 01 Jun 2025 13:48:26 GMT | NuWealth App Review - This Is How I Reclaimed My Money | Katherine tobiassen | [Read More](https://medium.com/p/cbcaaf2d4ad7) |
@@ -105,11 +114,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 08:25:05 GMT | WordPress CVE-2024-7493 Reversing | AbhirupKonwar | [Read More](https://medium.com/p/dad3ee24a736) |
 | Sun, 01 Jun 2025 08:19:14 GMT | Leaders All Have Their Doubts | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/27216ae71b87) |
 | Sun, 01 Jun 2025 08:17:53 GMT | Algoritmaların Gözlerini Kapatmak: Adversarial Saldırılar ve Savunma Teknikleri | Melike Ateş | [Read More](https://medium.com/p/b76a794587cb) |
-| Sun, 01 Jun 2025 08:15:55 GMT | Red CTF Writeup TryHackme | Daxilox | [Read More](https://medium.com/p/6ab59e8b103e) |
-| Sun, 01 Jun 2025 08:11:02 GMT | The Private Coaching Trap in Tech: A Harsh Truth Every Student Must Know | Shriram Dawange | [Read More](https://medium.com/p/c616a4adec85) |
-| Sun, 01 Jun 2025 08:10:46 GMT | The Dangers Of Rooting/Jailbreaking: A Security Warning | Shoaib Ahmed | [Read More](https://medium.com/p/36493dbca906) |
-| Sun, 01 Jun 2025 07:53:54 GMT | Comprehensive Report: Cyber Crimes Challenges, Threats & Deleteme Solutions | deleteme.com | [Read More](https://medium.com/p/e6b7d1d455df) |
-| Sun, 01 Jun 2025 07:45:55 GMT | The Hidden Camera Crisis: How Smartphones Are Fighting Back | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/3575990551a4) |
-| Sun, 01 Jun 2025 07:35:55 GMT | CryptoXpress’s Staking Programs: Passive Income for Everyday Users | Devbradon | [Read More](https://medium.com/p/a0393104ffb6) |
-| Sun, 01 Jun 2025 07:35:18 GMT | Network Simulation from Zero: Basic Practices with Cisco Packet Tracer | Hafidzah | [Read More](https://medium.com/p/f3b87e2dfba7) |
-| Sun, 01 Jun 2025 07:34:30 GMT | Deterministic and Non-deterministic Key Exchange | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ace591548549) |
