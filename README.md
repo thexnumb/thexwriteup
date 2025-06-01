@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 13:15:49 GMT | Build Your Cyber Security Career: Roadmap untuk Memulai Karir Menjadi Cyber Security dari Nol… | Renaldy Permana | [Read More](https://medium.com/p/9a7bce7038b4) |
+| Sun, 01 Jun 2025 13:04:36 GMT | API03:2023 — Broken Object Property Level Authorization | Suhel Kathi | [Read More](https://medium.com/p/541b369731ba) |
+| Sun, 01 Jun 2025 13:04:13 GMT | Genos mod for Metal Gear Rising: Revengeance (MGRR) | Aparamanik | [Read More](https://medium.com/p/2e7ef70993ec) |
+| Sun, 01 Jun 2025 13:02:39 GMT | Wahed.com Review - Can I Reclaim My Money Back? | Jakob karlsen | [Read More](https://medium.com/p/2ecc1b7ce941) |
+| Sun, 01 Jun 2025 13:01:43 GMT | What is content-security-policy in web. | Prakash Valluri | [Read More](https://medium.com/p/11bec8945e30) |
+| Sun, 01 Jun 2025 12:58:49 GMT | Here’s How I Recover My Money Back From Wahed.com | Jakob karlsen | [Read More](https://medium.com/p/eaea4d7186c6) |
+| Sun, 01 Jun 2025 12:55:44 GMT | How Will The Model Context Protocol Transform Cybersecurity for Enterprises? | Yaki Nesher | [Read More](https://medium.com/p/58641b721c77) |
+| Sun, 01 Jun 2025 12:47:31 GMT | 10 Early Warning Signs of a Ransomware Attack You Should Never Ignore | Sundeep Maan | [Read More](https://medium.com/p/cf6281f4cf6f) |
+| Sun, 01 Jun 2025 12:46:47 GMT | Hype Cycle and its use on Cyber Security | Venkat Subramaniyan | [Read More](https://medium.com/p/7a73c3b32d64) |
+| Sun, 01 Jun 2025 12:45:37 GMT | Apa Bedanya Sertifikat HTTPS Gratis dengan Sertifikat HTTPS Palsu? — Web Security and Privacy | Gagas Mulati | [Read More](https://medium.com/p/73b7a086bfe5) |
 | Sun, 01 Jun 2025 12:36:53 GMT | How I Found Sensitive Data on a Website Through Security Testing | Rejen | [Read More](https://medium.com/p/b824930b7654) |
 | Sun, 01 Jun 2025 12:33:20 GMT | WSJ: How Much Do You Know About Cyber Scams? Take the Journal’s Quiz. | SIMON CONSTABLE | [Read More](https://medium.com/p/dbd5f9007f43) |
 | Sun, 01 Jun 2025 12:30:33 GMT | From Technician to Magician — A 5 Years to Become Security Architect | Moneymase | [Read More](https://medium.com/p/46bb3ba184e9) |
@@ -103,13 +113,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 06:30:50 GMT | Unleashing Systems: Hacking, Virtual Machines, Linux & Networking | Chris T | [Read More](https://medium.com/p/48cfb2f1b6fc) |
 | Sun, 01 Jun 2025 06:00:43 GMT | Today’s Top Cyber Intelligence Highlights — Jun 01, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/6ce40d1d6fdf) |
 | Sun, 01 Jun 2025 05:55:25 GMT | Cyber Deterrence in the Age of Hybrid Warfare. | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4401fd22c6f2) |
-| Sun, 01 Jun 2025 05:53:21 GMT | NahamCon CTF 2025 write-up | Prakshit Jain | [Read More](https://medium.com/p/c68e95859696) |
-| Sun, 01 Jun 2025 05:51:13 GMT | Getting Started with ISO/IEC 27001 — A Beginner’s Guide to Information Security | SAIKAT RAKSHIT | [Read More](https://medium.com/p/62c3b8a511e8) |
-| Sun, 01 Jun 2025 05:40:26 GMT | How to Secure Your Mobile Device: 9 Tips for 2025 | tech hub | [Read More](https://medium.com/p/5ce3978ce342) |
-| Sun, 01 Jun 2025 05:26:52 GMT | Breaking Down OWASP Top 10 LLM 2025 | appsecwarrior | [Read More](https://medium.com/p/cd99ed46761b) |
-| Sun, 01 Jun 2025 05:18:13 GMT | Tips for protecting your API keys and stopping AI bill overages | Michael Murdoch | [Read More](https://medium.com/p/7c60ad610f7c) |
-| Sun, 01 Jun 2025 05:05:22 GMT | The Best Bug Bounty Tools in 2025 (With Pro Tips to Use Them Effectively) | Kailasv | [Read More](https://medium.com/p/e525878969e1) |
-| Sun, 01 Jun 2025 05:04:47 GMT | Network Simulation Using Cisco Packet Tracer Simulator — Understanding Networking | Hammam Awis Zukimi | [Read More](https://medium.com/p/044b6a46045e) |
-| Sun, 01 Jun 2025 04:27:56 GMT | Implement Audit Logs for your Database tables in SQL Server | Yaz | [Read More](https://medium.com/p/e173d2fa1586) |
-| Sun, 01 Jun 2025 04:22:44 GMT | Unlocking the Power of Proxies: Enhance Your Online Privacy and Security Today! | zainal Abidin | [Read More](https://medium.com/p/c2d05128c497) |
-| Sun, 01 Jun 2025 04:03:17 GMT | How to Create a Dashboard in Splunk Enterprise | Paritosh | [Read More](https://medium.com/p/893da1eef8d9) |
