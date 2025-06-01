@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 18:41:08 GMT | AWS Container Scanning with Trivy | Everett Porter | [Read More](https://medium.com/p/7076916b2528) |
+| Sun, 01 Jun 2025 18:38:24 GMT | Fancy Bear (APT28) 2016'da ABD Seçimlerini Nasıl Hackledi? Demokratik Parti’nin Dijital Çöküşü | Çağlar Suvari | [Read More](https://medium.com/p/af988f2d76df) |
+| Sun, 01 Jun 2025 18:30:43 GMT | The Case Sensitivity Bug That Broke My Laravel Inertia Tests: A Cross-Platform Development Tale | Oğuzhan KARACABAY | [Read More](https://medium.com/p/2dc67b4c0c5d) |
 | Sun, 01 Jun 2025 18:16:03 GMT | Agentic AI in Cybersecurity: From Reactive Defense to Proactive Resilience | Pavan kumar Evani | [Read More](https://medium.com/p/d14af48d57b4) |
 | Sun, 01 Jun 2025 18:13:49 GMT | The Days When Longing Has No Name, but It Hurts | Meli | [Read More](https://medium.com/p/f953891a1e0c) |
 | Sun, 01 Jun 2025 18:12:17 GMT | CAPTCHA or Catfish? — Unmasking a .NET Memory Loader in a Fake Verification Trap | Morgan E | [Read More](https://medium.com/p/697eab55b384) |
@@ -110,6 +113,3 @@ Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/
 | Sun, 01 Jun 2025 13:33:41 GMT | The Unsung Heroes of IT: Mastering Your Emergency Access Accounts | Rohi | [Read More](https://medium.com/p/2e15c91535fc) |
 | Sun, 01 Jun 2025 13:33:26 GMT | Google Dorking: A Hacker’s Best Friend | Satyam Pathania | [Read More](https://medium.com/p/716dfb3e9739) |
 | Sun, 01 Jun 2025 13:33:15 GMT | The Hidden Admin Backdoor in Reddit Ads | Monika sharma | [Read More](https://medium.com/p/32eeb8e1e216) |
-| Sun, 01 Jun 2025 13:31:33 GMT | Manager called an Engineer ‘Just a Number’ — It Cost the Company ₹2.5 Crore | Neha Gupta | [Read More](https://medium.com/p/7d7124868d77) |
-| Sun, 01 Jun 2025 13:30:56 GMT | THE SILENT HEIST: How Business Email Compromise Is Stealing Millions | Abdulkadir Ibrahim | [Read More](https://medium.com/p/869098a62ff8) |
-| Sun, 01 Jun 2025 13:26:15 GMT | 802.1X ile Güvenli Ağlara Giriş: Protokol, Yapı, Araçlar ve Uygulama | Emre Koç | [Read More](https://medium.com/p/ffc72de9b2d4) |
