@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 21:27:05 GMT | Siber Güvenlikte Popülerizm ve Lobicilik: Bilginin Gücünü Kimin Eline Veriyoruz? | Evrenos Bey | [Read More](https://medium.com/p/e7c3fcb4c394) |
+| Sun, 01 Jun 2025 21:22:45 GMT | Sunday Reflection: The AI That Showed Me My Armor | Raymond Brunell | [Read More](https://medium.com/p/443617a13ade) |
+| Sun, 01 Jun 2025 21:22:04 GMT | Malware Through Time: A Chronological Breakdown | Mike Anthony | [Read More](https://medium.com/p/523f0ff1c13f) |
 | Sun, 01 Jun 2025 21:13:30 GMT | What is DOM? | Kutay Yılmaz | [Read More](https://medium.com/p/ef105092222c) |
 | Sun, 01 Jun 2025 21:12:14 GMT | Week 6: Port Security | Kwamz | [Read More](https://medium.com/p/d4083458105e) |
 | Sun, 01 Jun 2025 21:09:05 GMT | On Rainy Days Like This | Odyssey of Silence | [Read More](https://medium.com/p/8ef77b02cbfa) |
+| Sun, 01 Jun 2025 21:08:23 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 6: Memahami… | DhiasCode | [Read More](https://medium.com/p/0f9fff02aec4) |
 | Sun, 01 Jun 2025 20:55:20 GMT | ️ The Smart Contract Hunter’s Playbook: Clone, Analyze, Exploit | Martin Pál | [Read More](https://medium.com/p/0b5d61049a61) |
 | Sun, 01 Jun 2025 20:48:10 GMT | Rey y mono | Diego Savoia | [Read More](https://medium.com/p/54be9b707574) |
 | Sun, 01 Jun 2025 20:47:58 GMT | The Brains Behind Business Email | Omar El Saadawy | [Read More](https://medium.com/p/81ffa666a8fe) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 15:32:26 GMT | G-BMFW: Building a Modular GUI-Based Firewall System in Python | Amarnath | [Read More](https://medium.com/p/568641c16050) |
 | Sun, 01 Jun 2025 15:31:55 GMT | GZR Observer Daily — Jun 1, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/215fa977b855) |
 | Sun, 01 Jun 2025 15:30:53 GMT | ANALISIS MALWARE | Sandylintang | [Read More](https://medium.com/p/e9dfafbfaee2) |
-| Sun, 01 Jun 2025 15:30:26 GMT | Cyber Security Roadmap | Isaprabutama | [Read More](https://medium.com/p/f68a7b3108b1) |
-| Sun, 01 Jun 2025 15:29:44 GMT | ‘’Roadmap Cyber Security, Dalam 5 Tahun kedepan | Naurah Yulistia | [Read More](https://medium.com/p/a1464ed178cf) |
-| Sun, 01 Jun 2025 15:29:29 GMT | The Future of AI and Identity & Access Management: From Gatekeeper to Intelligent Guardian | Walid Darwish | [Read More](https://medium.com/p/7f27337f4481) |
-| Sun, 01 Jun 2025 15:15:34 GMT | How Blockchain Secures Data Through Cryptography | Thabiso Njoko | [Read More](https://medium.com/p/a37e6b2f10bc) |
