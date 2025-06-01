@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 08:25:05 GMT | WordPress CVE-2024-7493 Reversing | AbhirupKonwar | [Read More](https://medium.com/p/dad3ee24a736) |
+| Sun, 01 Jun 2025 08:15:55 GMT | Red CTF Writeup TryHackme | Daxilox | [Read More](https://medium.com/p/6ab59e8b103e) |
+| Sun, 01 Jun 2025 08:11:02 GMT | The Private Coaching Trap in Tech: A Harsh Truth Every Student Must Know | Shriram Dawange | [Read More](https://medium.com/p/c616a4adec85) |
+| Sun, 01 Jun 2025 08:10:46 GMT | The Dangers Of Rooting/Jailbreaking: A Security Warning | Shoaib Ahmed | [Read More](https://medium.com/p/36493dbca906) |
+| Sun, 01 Jun 2025 07:53:54 GMT | Comprehensive Report: Cyber Crimes Challenges, Threats & Deleteme Solutions | deleteme.com | [Read More](https://medium.com/p/e6b7d1d455df) |
+| Sun, 01 Jun 2025 07:45:55 GMT | The Hidden Camera Crisis: How Smartphones Are Fighting Back | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/3575990551a4) |
+| Sun, 01 Jun 2025 07:35:55 GMT | CryptoXpress’s Staking Programs: Passive Income for Everyday Users | Devbradon | [Read More](https://medium.com/p/a0393104ffb6) |
+| Sun, 01 Jun 2025 07:35:18 GMT | Network Simulation from Zero: Basic Practices with Cisco Packet Tracer | Hafidzah | [Read More](https://medium.com/p/f3b87e2dfba7) |
+| Sun, 01 Jun 2025 07:34:30 GMT | Deterministic and Non-deterministic Key Exchange | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/ace591548549) |
+| Sun, 01 Jun 2025 07:32:35 GMT | What is OWASP Top 10? | Manushi | [Read More](https://medium.com/p/0539916f1678) |
+| Sun, 01 Jun 2025 07:30:26 GMT | Dangerous PHP functions every developer should avoid (or handle with extreme care) | Roman Huliak | [Read More](https://medium.com/p/f25c7b495ab2) |
+| Sun, 01 Jun 2025 07:29:41 GMT | Singapore’s Multi Layered Defense Diplomacy is Shaping Up | Marcus Loh | [Read More](https://medium.com/p/70bb75f1f8df) |
 | Sun, 01 Jun 2025 07:27:15 GMT | How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities | Mhmodgm | [Read More](https://medium.com/p/d2e098e89c8d) |
 | Sun, 01 Jun 2025 07:23:55 GMT | FinTech Solutions: Building Secure and Scalable Financial Applications for the Future | Amaka okoye | [Read More](https://medium.com/p/aade96a2dc43) |
 | Sun, 01 Jun 2025 07:21:18 GMT | Review CRTP and Prep & Exam | Raka Sean Elian | [Read More](https://medium.com/p/6611be55b108) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 20:27:38 GMT | A few months ago, I fell victim to a fake hack online and lost access to my Bitcoin (BTC). | Jurgenhans | [Read More](https://medium.com/p/41deb083aadc) |
 | Sat, 31 May 2025 20:27:01 GMT | Inside the Scam Unpacking a Real Phishing Email Attempt | Miri Mohammed | [Read More](https://medium.com/p/72e3857d98ef) |
 | Sat, 31 May 2025 20:24:30 GMT | You Think I’m Generous. But I’m Just Hiding | Nada Mandour | [Read More](https://medium.com/p/0fbc24f0d0ce) |
-| Sat, 31 May 2025 20:17:29 GMT | Quantum Resilience Starts Now: Building Secure Infrastructure with Hybrid Cryptography | Rakesh Keshava | [Read More](https://medium.com/p/60943448433e) |
-| Sat, 31 May 2025 20:17:09 GMT | Fast & Malicious: A Study On Generation of Tokens/Time on Benign vs Malicious Prompts | Tomer Wetzler | [Read More](https://medium.com/p/accbd72b6778) |
-| Sat, 31 May 2025 20:02:24 GMT | ️ Transport Layer (Layer 4) — OSI Model | Midhun Thomas | [Read More](https://medium.com/p/d3f6b7e73ff4) |
-| Sat, 31 May 2025 20:02:11 GMT | Network Down, What’s Wrong? Basic Computer Network Troubleshooting with Cisco Packet Tracer | Steven Juliano | [Read More](https://medium.com/p/970250438db2) |
-| Sat, 31 May 2025 19:52:10 GMT | Why You Should Never Click on Links You Don’t Trust — A Security Tester’s Experience | P T | [Read More](https://medium.com/p/e0f0da95b4f8) |
-| Sat, 31 May 2025 19:48:49 GMT | Networking — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/2e1aeeb38dd1) |
-| Sat, 31 May 2025 19:40:19 GMT | Introduction to SQL Injection | xk4libur | [Read More](https://medium.com/p/f5793566afff) |
-| Sat, 31 May 2025 19:36:16 GMT | “Vibe Coding” and its risks, how to mitigate them? | ISHII (石井) | [Read More](https://medium.com/p/e5b00fd2e434) |
-| Sat, 31 May 2025 19:35:03 GMT | Run SCA and SAST scans on your project | Gaganpreet Kaur Kalsi | [Read More](https://medium.com/p/d702c8cc51b4) |
-| Sat, 31 May 2025 19:33:43 GMT | Analisando algumas técnicas MITRE ATT&CK® | Moprius | [Read More](https://medium.com/p/2d9144a4f4aa) |
-| Sat, 31 May 2025 19:32:21 GMT | SOC Analysis of Event 249: SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability… | Ray Maiden | [Read More](https://medium.com/p/6d16b11cfa67) |
-| Sat, 31 May 2025 19:23:39 GMT | Cyber Security — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/09d59903a9f9) |
