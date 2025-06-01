@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 20:13:54 GMT | Penetration Testing: Brute Force | Anthony Sigid | [Read More](https://medium.com/p/69ba2822c26b) |
+| Sun, 01 Jun 2025 20:11:01 GMT | Windows Fundamentals -HTB Academy | Nyaboke | [Read More](https://medium.com/p/e41a3348093e) |
+| Sun, 01 Jun 2025 19:55:20 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/e2491acf2736) |
+| Sun, 01 Jun 2025 19:54:41 GMT | Active Directory Reconnaissance Techniques and Detection | Parviz Salmanov | [Read More](https://medium.com/p/50e0bdeff378) |
+| Sun, 01 Jun 2025 19:52:29 GMT | ¿Por qué es importante reportar los incidentes de seguridad? | Tiziano Mass | [Read More](https://medium.com/p/979cd7a161c8) |
+| Sun, 01 Jun 2025 19:47:09 GMT | Crypto Hackers Bagged $244M in May But There’s a Plot Twist You Didn’t See Coming | CoinGen | [Read More](https://medium.com/p/56931ef3289b) |
+| Sun, 01 Jun 2025 19:44:21 GMT | A Beginner’s Guide to Setting Up VirtualBox from Scratch | Ebenezer Hans Mensah | [Read More](https://medium.com/p/53e20ce242e5) |
+| Sun, 01 Jun 2025 19:40:24 GMT | Leveraging Historic Data for Cyber Resiliency | Rye Overly | [Read More](https://medium.com/p/9514d34a00d7) |
+| Sun, 01 Jun 2025 19:33:36 GMT | Intro to LAN | Cheryl Maise Lobo | [Read More](https://medium.com/p/f664bdcec1a7) |
 | Sun, 01 Jun 2025 19:17:07 GMT | Cisco IOS XE Arbitrary File Upload Vulnerability Exploited | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/ec39cc742302) |
 | Sun, 01 Jun 2025 19:04:11 GMT | XSS Attacks: When Websites Start Speaking in Tongues | Rageeth | [Read More](https://medium.com/p/9f40e44a19b4) |
 | Sun, 01 Jun 2025 18:58:32 GMT | Inside the $200M Romance Baiting Scam: How Funnull’s Infrastructure Fueled Crypto Fraud at Scale. | UnknwnSaber | [Read More](https://medium.com/p/15832c7f8b91) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 14:25:08 GMT | Deserialization zafiyetleri — 
 Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/a3b17dcb7eb2) |
 | Sun, 01 Jun 2025 14:17:07 GMT | ARP Spoofing - Man In The Middle Attack | Alibinazam | [Read More](https://medium.com/p/63ac38d41989) |
-| Sun, 01 Jun 2025 14:13:33 GMT | Cybersecurity Starts at the Top: What Leaders Need to Know About CSF 2.0 | Onur Okan | [Read More](https://medium.com/p/56f38fe55a65) |
-| Sun, 01 Jun 2025 14:12:16 GMT | Bolero.be Review - This Is How I Recovered My Money Back | Karen Kreutzmann | [Read More](https://medium.com/p/f293272599cf) |
-| Sun, 01 Jun 2025 14:10:32 GMT | Privilege Escalation and Exploits in Mr. Robot: A CTF Write-Up | Mohamed Niyas | [Read More](https://medium.com/p/ba9bd4cd47b5) |
-| Sun, 01 Jun 2025 14:10:09 GMT | Nigeria's Cybersecurity Crisis: Unmasking the Digital Threat Landscape | O. J. Okpabi | [Read More](https://medium.com/p/79fdc8a12017) |
-| Sun, 01 Jun 2025 14:09:02 GMT | From Forgot Password to Forgot Validation: A Broken Flow That Let Me Take Over Accounts | Iski | [Read More](https://medium.com/p/04fb7c5b7ecc) |
-| Sun, 01 Jun 2025 14:06:26 GMT | The Art of Secrecy | Oluwasemilore Adelaja | [Read More](https://medium.com/p/8ca070a860fd) |
-| Sun, 01 Jun 2025 14:02:40 GMT | From Application to Interview: How to Prepare Like a Cybersecurity Analyst (Not Just a Candidate) | Frank Cabrel | [Read More](https://medium.com/p/cc6c76794f52) |
-| Sun, 01 Jun 2025 13:59:21 GMT | Dasar Jaringan menggunakan Cisco Packet Tracer — Static Route | Rendizar Satria | [Read More](https://medium.com/p/af5be30f1c18) |
-| Sun, 01 Jun 2025 13:48:26 GMT | NuWealth App Review - This Is How I Reclaimed My Money | Katherine tobiassen | [Read More](https://medium.com/p/cbcaaf2d4ad7) |
