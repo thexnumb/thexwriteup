@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 08:44:17 GMT | MALWARE ANALYSIS — Detection Koi Stealer in traffic report | Hammam Awis Zukimi | [Read More](https://medium.com/p/f0a8a6da5455) |
 | Sun, 01 Jun 2025 08:25:05 GMT | WordPress CVE-2024-7493 Reversing | AbhirupKonwar | [Read More](https://medium.com/p/dad3ee24a736) |
+| Sun, 01 Jun 2025 08:19:14 GMT | Leaders All Have Their Doubts | Kevin J. W.  Driscoll | [Read More](https://medium.com/p/27216ae71b87) |
 | Sun, 01 Jun 2025 08:15:55 GMT | Red CTF Writeup TryHackme | Daxilox | [Read More](https://medium.com/p/6ab59e8b103e) |
 | Sun, 01 Jun 2025 08:11:02 GMT | The Private Coaching Trap in Tech: A Harsh Truth Every Student Must Know | Shriram Dawange | [Read More](https://medium.com/p/c616a4adec85) |
 | Sun, 01 Jun 2025 08:10:46 GMT | The Dangers Of Rooting/Jailbreaking: A Security Warning | Shoaib Ahmed | [Read More](https://medium.com/p/36493dbca906) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 20:49:42 GMT | Boost Your Safety: Which of the Following is an Example of a Strong Password for Cyber Awareness… | Tahashaikhseo | [Read More](https://medium.com/p/c793ab484a4f) |
 | Sat, 31 May 2025 20:34:18 GMT | ️ Manual OSINT vs API/Automation OSINT — Which One Actually Wins? | Rajput Haxor | [Read More](https://medium.com/p/6fb0c978915d) |
 | Sat, 31 May 2025 20:27:38 GMT | A few months ago, I fell victim to a fake hack online and lost access to my Bitcoin (BTC). | Jurgenhans | [Read More](https://medium.com/p/41deb083aadc) |
-| Sat, 31 May 2025 20:27:01 GMT | Inside the Scam Unpacking a Real Phishing Email Attempt | Miri Mohammed | [Read More](https://medium.com/p/72e3857d98ef) |
-| Sat, 31 May 2025 20:24:30 GMT | You Think I’m Generous. But I’m Just Hiding | Nada Mandour | [Read More](https://medium.com/p/0fbc24f0d0ce) |
