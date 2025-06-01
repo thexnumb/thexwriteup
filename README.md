@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 07:04:18 GMT | Performing Security Testing with OWASP ZAP API and Python: My Cybersecurity College Project | Alan Sabu John | [Read More](https://medium.com/p/4675d9a27571) |
+| Sun, 01 Jun 2025 06:58:36 GMT | Host Header Injection in Symfony: Secure Your Apps | Pentest_Testing_Corp | [Read More](https://medium.com/p/b5ff3be316c7) |
+| Sun, 01 Jun 2025 06:56:02 GMT | Analisis Malware menggunakan Wireshark | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/cf8fcc67cc94) |
+| Sun, 01 Jun 2025 06:55:06 GMT | Q-Day: The Cyber Threat That Could Break the Internet as We Know It | Sajid Khan | [Read More](https://medium.com/p/5d53a902b848) |
+| Sun, 01 Jun 2025 06:46:34 GMT | Malware Analysis Training Based On Case “Koi Stealer” | Raja Ubaid Fawwaz | [Read More](https://medium.com/p/9d3d89ceb89e) |
 | Sun, 01 Jun 2025 06:43:43 GMT | TTPs — Nmap | Daniel Gilbert | [Read More](https://medium.com/p/67d654086a13) |
 | Sun, 01 Jun 2025 06:39:42 GMT | My Experience with the HTB Certified Defensive Security Analyst (CDSA) Certification | Xeipher | [Read More](https://medium.com/p/cb9c85c9a4a4) |
+| Sun, 01 Jun 2025 06:39:32 GMT | Securing AI Workloads and Agents with Zero Trust Strategy | Chandan Bilvaraj | [Read More](https://medium.com/p/9c2be0e8091d) |
 | Sun, 01 Jun 2025 06:34:47 GMT | Scanning My Own Laptop with OpenVAS: A Hands-On Guide to Vulnerability Discovery and Remediation | Amy Huynh | [Read More](https://medium.com/p/f017a469407e) |
 | Sun, 01 Jun 2025 06:34:21 GMT | Authentication Token Reuse — A Silent 2FA Killer | Nareshkumar | [Read More](https://medium.com/p/e52bef4c599a) |
 | Sun, 01 Jun 2025 06:30:50 GMT | Unleashing Systems: Hacking, Virtual Machines, Linux & Networking | Chris T | [Read More](https://medium.com/p/48cfb2f1b6fc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 19:14:02 GMT | Cloud Compliance Gap Analysis: Identifying Risks in AWS Using NIST CSF | Sophia Mitchell | [Read More](https://medium.com/p/88735f5b130c) |
 | Sat, 31 May 2025 19:12:36 GMT | Top 10 Cybersecurity Breaches of 2025 and What We Can Learn | Stealseek | [Read More](https://medium.com/p/f5c37e47d40f) |
 | Sat, 31 May 2025 19:07:56 GMT | Behind the Scenes: How SQLMap Retrieves Database Using Time-Based Blind SQL Injection | BobTeJaS | [Read More](https://medium.com/p/df10bde18210) |
-| Sat, 31 May 2025 18:53:49 GMT | ‘How to Get’ vs ‘How to Keep’ | Muhammaddhiwaulakbar | [Read More](https://medium.com/p/96c594815edb) |
-| Sat, 31 May 2025 18:50:24 GMT | A 5 years roadmap of cyber Security — A campaign of cyber security | Hammam Awis Zukimi | [Read More](https://medium.com/p/564831f22e57) |
-| Sat, 31 May 2025 18:46:02 GMT | The Art of Debugging: A Beginner’s Guide | BugSmashers | [Read More](https://medium.com/p/e857978bad4e) |
-| Sat, 31 May 2025 18:27:35 GMT | ️ Red Teaming: Simulating Real-World Cyber Attacks to Fortify Your Defenses | Smdefencerabbit | [Read More](https://medium.com/p/6df36fb54c04) |
-| Sat, 31 May 2025 18:27:11 GMT | System Integration Blind Spots | Khod4li | [Read More](https://medium.com/p/663e5da2c8c5) |
-| Sat, 31 May 2025 18:24:17 GMT | Roadmap menjadi Cyber Security dalam 5 tahun | Donal | [Read More](https://medium.com/p/e2562230734c) |
