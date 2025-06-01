@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 05:05:22 GMT | The Best Bug Bounty Tools in 2025 (With Pro Tips to Use Them Effectively) | Kailasv | [Read More](https://medium.com/p/e525878969e1) |
+| Sun, 01 Jun 2025 05:04:47 GMT | Network Simulation Using Cisco Packet Tracer Simulator — Understanding Networking | Hammam Awis Zukimi | [Read More](https://medium.com/p/044b6a46045e) |
+| Sun, 01 Jun 2025 04:27:56 GMT | Implement Audit Logs for your Database tables in SQL Server | Yaz | [Read More](https://medium.com/p/e173d2fa1586) |
 | Sun, 01 Jun 2025 04:22:44 GMT | Unlocking the Power of Proxies: Enhance Your Online Privacy and Security Today! | zainal Abidin | [Read More](https://medium.com/p/c2d05128c497) |
 | Sun, 01 Jun 2025 04:03:17 GMT | How to Create a Dashboard in Splunk Enterprise | Paritosh | [Read More](https://medium.com/p/893da1eef8d9) |
 | Sun, 01 Jun 2025 03:45:47 GMT | My AndroGoat Journey: Deep Dive into Hardcoded Issues | Damara Brian | [Read More](https://medium.com/p/a641d38d732a) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 17:51:24 GMT | Project Report : PB-TED_tool
 (Password-Based Text Encryption Decryption Tool) | Abhiram S | [Read More](https://medium.com/p/14b3c855b828) |
 | Sat, 31 May 2025 17:41:17 GMT | 99% of Developers Ignore This Simple Security Fix — Don’t Be One of Them | Pren Jak | [Read More](https://medium.com/p/5c1ec725f673) |
-| Sat, 31 May 2025 17:37:59 GMT | The best time to check your password’s strength was yesterday. | Tahashaikhseo | [Read More](https://medium.com/p/acdc3f4eab3b) |
-| Sat, 31 May 2025 17:34:59 GMT | AWS Pentesting CloudGaot sns_secrets with api keys | Ashok Reddy Medikonda | [Read More](https://medium.com/p/1b73c4fc2261) |
-| Sat, 31 May 2025 17:33:10 GMT | What is PII? | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/2a636aa2f5a2) |
