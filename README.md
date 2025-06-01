@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 18:16:03 GMT | Agentic AI in Cybersecurity: From Reactive Defense to Proactive Resilience | Pavan kumar Evani | [Read More](https://medium.com/p/d14af48d57b4) |
+| Sun, 01 Jun 2025 18:13:49 GMT | The Days When Longing Has No Name, but It Hurts | Meli | [Read More](https://medium.com/p/f953891a1e0c) |
+| Sun, 01 Jun 2025 18:12:17 GMT | CAPTCHA or Catfish? — Unmasking a .NET Memory Loader in a Fake Verification Trap | Morgan E | [Read More](https://medium.com/p/697eab55b384) |
+| Sun, 01 Jun 2025 18:08:45 GMT | What Really Happens When You Type a URL Into Your Browser (From a Networking Security Perspective) | Prasanna Iyer | [Read More](https://medium.com/p/46f392742375) |
+| Sun, 01 Jun 2025 18:02:27 GMT | Spearphishing Goes Executive: What GRC Needs to Do Next | Brittney Ginther | [Read More](https://medium.com/p/cf9b8533f4aa) |
+| Sun, 01 Jun 2025 17:59:22 GMT | Understanding Ports and Protocols: How Computers Talk on the Internet | Ar Sijan Official | [Read More](https://medium.com/p/5d772467c732) |
+| Sun, 01 Jun 2025 17:56:13 GMT | Tilde Games: Exploiting 8.3 Shortnames on IIS Servers | Sachin Sharma | [Read More](https://medium.com/p/6f232071e01f) |
+| Sun, 01 Jun 2025 17:55:24 GMT | Top Free Tools to Check If Your Data Is Compromised (And How to Protect Yourself) | Stealseek | [Read More](https://medium.com/p/4c2f98e1e8d7) |
+| Sun, 01 Jun 2025 17:53:35 GMT | TryHackMe - Custom Tooling using Burp - WriteUp | Axoloth | [Read More](https://medium.com/p/fbef5b0025fe) |
+| Sun, 01 Jun 2025 17:52:48 GMT | From Tigers to Two-Wheelers: How Our Deepest Fears Reveal What We’re Really Longing For | Whispers of the Soul | [Read More](https://medium.com/p/e7dcfb4f30d8) |
+| Sun, 01 Jun 2025 17:46:55 GMT | Mastering Regular Expressions for Cybersecurity: A Beginner’s Deep Dive | David Ramovich Mandal | [Read More](https://medium.com/p/b5058704c4f3) |
+| Sun, 01 Jun 2025 17:44:18 GMT | Roadmap Cyber Security 5 Tahun Kedepan | Alyyusyawal | [Read More](https://medium.com/p/7bec7fa72e0e) |
+| Sun, 01 Jun 2025 17:42:19 GMT | Why Security Needs Systems Thinking | Kristin Dahl | [Read More](https://medium.com/p/94bf9c01c45e) |
+| Sun, 01 Jun 2025 17:39:29 GMT | A Storytellers Gift | Stefanie K | [Read More](https://medium.com/p/bdb7e680ecb9) |
+| Sun, 01 Jun 2025 17:28:42 GMT | Use API keys to access Gemini models in Google Cloud | Raj Duraisamy | [Read More](https://medium.com/p/bc0ec296d87c) |
 | Sun, 01 Jun 2025 17:28:15 GMT | The CIA Triad in Cybersecurity | Ar Sijan Official | [Read More](https://medium.com/p/0a9469f0964d) |
 | Sun, 01 Jun 2025 17:26:28 GMT | Chapter 5: (Task Management System) — Enhancing the Backend with Authentication Middleware and Task… | Natarajan C K | [Read More](https://medium.com/p/0500fc08f6c0) |
 | Sun, 01 Jun 2025 17:23:42 GMT | A CSRF Story I Encountered on My Bug Bounty Journey | Enes Özlek | [Read More](https://medium.com/p/6a037b4025ee) |
@@ -98,18 +113,3 @@ Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/
 | Sun, 01 Jun 2025 13:31:33 GMT | Manager called an Engineer ‘Just a Number’ — It Cost the Company ₹2.5 Crore | Neha Gupta | [Read More](https://medium.com/p/7d7124868d77) |
 | Sun, 01 Jun 2025 13:30:56 GMT | THE SILENT HEIST: How Business Email Compromise Is Stealing Millions | Abdulkadir Ibrahim | [Read More](https://medium.com/p/869098a62ff8) |
 | Sun, 01 Jun 2025 13:26:15 GMT | 802.1X ile Güvenli Ağlara Giriş: Protokol, Yapı, Araçlar ve Uygulama | Emre Koç | [Read More](https://medium.com/p/ffc72de9b2d4) |
-| Sun, 01 Jun 2025 13:25:56 GMT | What I learn From HTB CPTS? | Iceicemelt | [Read More](https://medium.com/p/df3c1c616053) |
-| Sun, 01 Jun 2025 13:19:53 GMT | TryHackMe: CheeseCTF | Rishivegeto | [Read More](https://medium.com/p/9b8df6d297c1) |
-| Sun, 01 Jun 2025 13:15:49 GMT | Build Your Cyber Security Career: Roadmap untuk Memulai Karir Menjadi Cyber Security dari Nol… | Renaldy Permana | [Read More](https://medium.com/p/9a7bce7038b4) |
-| Sun, 01 Jun 2025 13:04:36 GMT | API03:2023 — Broken Object Property Level Authorization | Suhel Kathi | [Read More](https://medium.com/p/541b369731ba) |
-| Sun, 01 Jun 2025 13:04:13 GMT | Genos mod for Metal Gear Rising: Revengeance (MGRR) | Aparamanik | [Read More](https://medium.com/p/2e7ef70993ec) |
-| Sun, 01 Jun 2025 13:02:39 GMT | Wahed.com Review - Can I Reclaim My Money Back? | Jakob karlsen | [Read More](https://medium.com/p/2ecc1b7ce941) |
-| Sun, 01 Jun 2025 13:01:43 GMT | What is content-security-policy in web. | Prakash Valluri | [Read More](https://medium.com/p/11bec8945e30) |
-| Sun, 01 Jun 2025 12:58:49 GMT | Here’s How I Recover My Money Back From Wahed.com | Jakob karlsen | [Read More](https://medium.com/p/eaea4d7186c6) |
-| Sun, 01 Jun 2025 12:55:44 GMT | How Will The Model Context Protocol Transform Cybersecurity for Enterprises? | Yaki Nesher | [Read More](https://medium.com/p/58641b721c77) |
-| Sun, 01 Jun 2025 12:47:31 GMT | 10 Early Warning Signs of a Ransomware Attack You Should Never Ignore | Sundeep Maan | [Read More](https://medium.com/p/cf6281f4cf6f) |
-| Sun, 01 Jun 2025 12:46:47 GMT | Hype Cycle and its use on Cyber Security | Venkat Subramaniyan | [Read More](https://medium.com/p/7a73c3b32d64) |
-| Sun, 01 Jun 2025 12:45:37 GMT | Apa Bedanya Sertifikat HTTPS Gratis dengan Sertifikat HTTPS Palsu? — Web Security and Privacy | Gagas Mulati | [Read More](https://medium.com/p/73b7a086bfe5) |
-| Sun, 01 Jun 2025 12:36:53 GMT | How I Found Sensitive Data on a Website Through Security Testing | Rejen | [Read More](https://medium.com/p/b824930b7654) |
-| Sun, 01 Jun 2025 12:33:20 GMT | WSJ: How Much Do You Know About Cyber Scams? Take the Journal’s Quiz. | SIMON CONSTABLE | [Read More](https://medium.com/p/dbd5f9007f43) |
-| Sun, 01 Jun 2025 12:30:33 GMT | From Technician to Magician — A 5 Years to Become Security Architect | Moneymase | [Read More](https://medium.com/p/46bb3ba184e9) |
