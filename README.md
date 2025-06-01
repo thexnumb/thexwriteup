@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 16:36:00 GMT | Bojack’s and Diane’s Relationship Dynamic & Trust in Others Beliefs | Will | [Read More](https://medium.com/p/e40dc937ccd0) |
+| Sun, 01 Jun 2025 16:30:53 GMT | Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform | Appsec Techie | [Read More](https://medium.com/p/bc71cf9cd1be) |
+| Sun, 01 Jun 2025 16:27:46 GMT | To be seen | Vlaicu Andra | [Read More](https://medium.com/p/66a3edf7a638) |
+| Sun, 01 Jun 2025 16:26:56 GMT | Ihr strategischer Fahrplan zur robusten Informationssicherheit: Erfolgserprobte Best Practices und… | Philip Hansen | [Read More](https://medium.com/p/9e1ccbace3a5) |
+| Sun, 01 Jun 2025 16:24:36 GMT | Membongkar Serangan : Studi Kasus Infeksi Malware pada PCAP file | Salhanchynt | [Read More](https://medium.com/p/b53b552729d7) |
+| Sun, 01 Jun 2025 16:24:23 GMT | Automatisierte Berichterstattung mit KI | Philip Hansen | [Read More](https://medium.com/p/de1530db9032) |
+| Sun, 01 Jun 2025 16:24:21 GMT | Securing 10th Place in APISEC-CON CTF 2025: My Journey Through 17 API Security Challenges | Mayur Pandya | [Read More](https://medium.com/p/2d6b41a2afd3) |
+| Sun, 01 Jun 2025 16:22:37 GMT | I Got Hacked | Jara | [Read More](https://medium.com/p/5f99f98a1392) |
+| Sun, 01 Jun 2025 16:21:39 GMT | Most Men Don’t Open Up — Because Every Time We Did, It Was Used Against Us | X-Plain | [Read More](https://medium.com/p/44363ddc6067) |
+| Sun, 01 Jun 2025 16:18:43 GMT | Building and Detecting a Backdoor: Dynamic Analysis and YARA Rules | Lipeozyy | [Read More](https://medium.com/p/3ff28c4659ce) |
 | Sun, 01 Jun 2025 16:15:04 GMT | Analisis Report Malware menggunakan Wireshark | Riansatria | [Read More](https://medium.com/p/4670622cec94) |
 | Sun, 01 Jun 2025 16:12:20 GMT | Is It Possible To Withdraw My Money From Ltcminer? | Helen | [Read More](https://medium.com/p/4e6a9bd4686d) |
 | Sun, 01 Jun 2025 16:10:23 GMT | Bookmarklet picoCTF challenge | 0xam3rr | [Read More](https://medium.com/p/a5530ae40479) |
@@ -104,13 +114,3 @@ Topic: How to Reach Bronze Rank Quickly | LiveGood Js | [Read More](https://medi
 | Sun, 01 Jun 2025 11:07:30 GMT | Hackers Exploit Gh0st RAT to Hijack Internet Cafés for Cryptocurrency Mining | Virtual Cyber Labs | [Read More](https://medium.com/p/993216e67f06) |
 | Sun, 01 Jun 2025 11:05:26 GMT | Integrating Honeypot to Your Network- Part 1: How to Install Cowrie by Janberk Besgul | Janberk Beşgül | [Read More](https://medium.com/p/8ab0c99e821f) |
 | Sun, 01 Jun 2025 11:00:16 GMT | Basic malware analysis based on Study Case | Hafidzah | [Read More](https://medium.com/p/d631fab28441) |
-| Sun, 01 Jun 2025 10:59:43 GMT | Business Financial Analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/6d99354fd7b1) |
-| Sun, 01 Jun 2025 10:53:15 GMT | Security Aspects: Encoding, Encryption, Hashing & Decoding | Pankaj Ikhar | [Read More](https://medium.com/p/15da20712c45) |
-| Sun, 01 Jun 2025 10:49:54 GMT | Mastering DORK $DORK Rewards for Maximum Earnings | $DORK DORK Community Rewards | [Read More](https://medium.com/p/74228fe207da) |
-| Sun, 01 Jun 2025 10:49:24 GMT | Cryptography Implementation [Virtual Private Network (VPN)] | Asyarifm | [Read More](https://medium.com/p/1d110aef9b1d) |
-| Sun, 01 Jun 2025 10:49:06 GMT | From alert(1) to Real-world Impact: Hunting XSS Where Others Don’t Look | 127.0.0.1 | [Read More](https://medium.com/p/27f70dbe9778) |
-| Sun, 01 Jun 2025 10:48:48 GMT | ️ Analisis Traffic Mencurigakan: Investigasi Malware Koi Stealer | Firhansanad | [Read More](https://medium.com/p/13c3b89afdd1) |
-| Sun, 01 Jun 2025 10:48:13 GMT | Hire a Social Media Hacker: What You Need to Know in 2025 | SOCIAL MEDIA HACKER | [Read More](https://medium.com/p/cd02373214ec) |
-| Sun, 01 Jun 2025 10:47:57 GMT | Menelusuri Serangan Siber: Analisis Lengkap Aktivitas Malware dari File PCAP | Dixtroiza | [Read More](https://medium.com/p/69f034f34f78) |
-| Sun, 01 Jun 2025 10:46:54 GMT | When an Internal IP Slipped — and I Slid Right Into RCE | Muthu | [Read More](https://medium.com/p/afc93515bf76) |
-| Sun, 01 Jun 2025 10:40:58 GMT | Roadmap Cyber Security | INDRA FAHLEVY FIRDAUS | [Read More](https://medium.com/p/cd99f3c68829) |
