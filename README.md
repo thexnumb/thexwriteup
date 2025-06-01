@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 22:28:05 GMT | Every Word You Type is Being Stolen… The Insidious Google Keyboard | HarryHTML | [Read More](https://medium.com/p/652d4de8712b) |
+| Sun, 01 Jun 2025 22:23:30 GMT | Policing the Future: How AI, Robots, and Surveillance Tech Threaten Civil Liberties | Mateo Cruz | [Read More](https://medium.com/p/4173f96febcd) |
 | Sun, 01 Jun 2025 21:54:58 GMT | The Silent Crisis: Rediscovering Masculinity Beyond Success | LolA | [Read More](https://medium.com/p/aca913341d2e) |
 | Sun, 01 Jun 2025 21:27:05 GMT | Siber Güvenlikte Popülerizm ve Lobicilik: Bilginin Gücünü Kimin Eline Veriyoruz? | Evrenos Bey | [Read More](https://medium.com/p/e7c3fcb4c394) |
 | Sun, 01 Jun 2025 21:22:45 GMT | Sunday Reflection: The AI That Showed Me My Armor | Raymond Brunell | [Read More](https://medium.com/p/443617a13ade) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 15:54:36 GMT | WIN32/Koi Stealer di Jaringan Lokal (Studi kasus PT.AKAMSI [fiktif sih]) | Ahmad Ubaidillah | [Read More](https://medium.com/p/5f482c3f9763) |
 | Sun, 01 Jun 2025 15:48:34 GMT | Phishing Scams Are Basically Digital Witchcraft (And I Fell for One Too) | Code & Kif | [Read More](https://medium.com/p/d574c8b3520d) |
 | Sun, 01 Jun 2025 15:42:57 GMT | Why I Stopped Trying to Be Perfect (And You Should Too) | Daniel Gagarin | [Read More](https://medium.com/p/170d32663e6a) |
-| Sun, 01 Jun 2025 15:32:26 GMT | G-BMFW: Building a Modular GUI-Based Firewall System in Python | Amarnath | [Read More](https://medium.com/p/568641c16050) |
-| Sun, 01 Jun 2025 15:31:55 GMT | GZR Observer Daily — Jun 1, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/215fa977b855) |
