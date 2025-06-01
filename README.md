@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 21:54:58 GMT | The Silent Crisis: Rediscovering Masculinity Beyond Success | LolA | [Read More](https://medium.com/p/aca913341d2e) |
 | Sun, 01 Jun 2025 21:27:05 GMT | Siber Güvenlikte Popülerizm ve Lobicilik: Bilginin Gücünü Kimin Eline Veriyoruz? | Evrenos Bey | [Read More](https://medium.com/p/e7c3fcb4c394) |
 | Sun, 01 Jun 2025 21:22:45 GMT | Sunday Reflection: The AI That Showed Me My Armor | Raymond Brunell | [Read More](https://medium.com/p/443617a13ade) |
 | Sun, 01 Jun 2025 21:22:04 GMT | Malware Through Time: A Chronological Breakdown | Mike Anthony | [Read More](https://medium.com/p/523f0ff1c13f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 15:42:57 GMT | Why I Stopped Trying to Be Perfect (And You Should Too) | Daniel Gagarin | [Read More](https://medium.com/p/170d32663e6a) |
 | Sun, 01 Jun 2025 15:32:26 GMT | G-BMFW: Building a Modular GUI-Based Firewall System in Python | Amarnath | [Read More](https://medium.com/p/568641c16050) |
 | Sun, 01 Jun 2025 15:31:55 GMT | GZR Observer Daily — Jun 1, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/215fa977b855) |
-| Sun, 01 Jun 2025 15:30:53 GMT | ANALISIS MALWARE | Sandylintang | [Read More](https://medium.com/p/e9dfafbfaee2) |
