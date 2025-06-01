@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 10:16:56 GMT | Learning Basic Static Routing with Cisco Packet Tracer (2 Routers, 2 Switches, 4 PCs) | Galihabraa | [Read More](https://medium.com/p/2d14e5a9ddc7) |
+| Sun, 01 Jun 2025 10:09:49 GMT | Network Commands Every IT Team Should Know | Vijay Kumar Gupta | [Read More](https://medium.com/p/4fffe3c8a08b) |
+| Sun, 01 Jun 2025 10:08:31 GMT | TryHackMe: Cheese CTF | TheSocialHacker | [Read More](https://medium.com/p/f8018e5b1954) |
+| Sun, 01 Jun 2025 10:04:19 GMT | AI Hacking Concept by Mr David | Darshan Naresh Naik | [Read More](https://medium.com/p/1854f7723e1a) |
+| Sun, 01 Jun 2025 09:58:45 GMT | Malware Analysis: Investigation of Koi Stealer Activities in Internal Networks | Steven Juliano | [Read More](https://medium.com/p/ced427ac6ace) |
+| Sun, 01 Jun 2025 09:55:02 GMT | When APIs Don’t Check Roles: Broken Authorization in Customer Deletion Endpoint | callgh0st | [Read More](https://medium.com/p/8b318fd4c8f6) |
+| Sun, 01 Jun 2025 09:40:08 GMT | ️ Web3 Security Weekly — May 26–June 1, 2025 | Null Return | [Read More](https://medium.com/p/b21e7d4cc257) |
+| Sun, 01 Jun 2025 09:34:35 GMT | Cybersecurity 5-Year Plan: Survive, Thrive, and Lead | Laura Puspa | [Read More](https://medium.com/p/11a226aebe4e) |
 | Sun, 01 Jun 2025 09:29:09 GMT | ️ ROADMAP CYBER SECURITY 5 TAHUN (2025–2030) | Miselucul | [Read More](https://medium.com/p/8ac55e0cd730) |
 | Sun, 01 Jun 2025 09:27:03 GMT | Mastering Web Security: Testing & Implementing CSP Fetch Directives Like a Pro | Gaurav | [Read More](https://medium.com/p/9ed80d5e63f6) |
 | Sun, 01 Jun 2025 09:26:03 GMT | I Hacked My Own Wifi — Here’s How | Cypher.One | [Read More](https://medium.com/p/8c5e11272c31) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 May 2025 23:14:56 GMT | So You Wanna Be a Cybersecurity Hero? A Super Noob-Friendly Roadmap (With Memes) | Ahmad Ubaidillah | [Read More](https://medium.com/p/d17237156a73) |
 | Sat, 31 May 2025 23:13:43 GMT | Why the OPPO A3 Might Be the Best Budget Smartphone of 2024 | Sippapas Sinpaisansakul | [Read More](https://medium.com/p/8f4b3a032e65) |
 | Sat, 31 May 2025 23:11:34 GMT | Classification of Hackers | Md. Rumon Munshi | [Read More](https://medium.com/p/024a265b5bd0) |
-| Sat, 31 May 2025 22:59:46 GMT | Enhancing AI with a Secure RAG Chatbot | Kerolos Lotfy | [Read More](https://medium.com/p/060ffad4f8ae) |
-| Sat, 31 May 2025 22:59:14 GMT | For my self : My Journey Back | 0xTrk | [Read More](https://medium.com/p/6158e81cc88e) |
-| Sat, 31 May 2025 22:30:46 GMT | b3dr0ck . Privilege Escalation . TryHackMe Walkthrough, 120 points | RosanaFSS | [Read More](https://medium.com/p/af8effe16b2f) |
-| Sat, 31 May 2025 22:16:36 GMT | How to Build a Secure Network Access Strategy Using Software-Defined Perimeter (SDP) | Karthikeyan Nagaraj | [Read More](https://medium.com/p/99abc34e8fcc) |
-| Sat, 31 May 2025 22:12:25 GMT | Nights Like These | Softly Human | [Read More](https://medium.com/p/1dad41ef78cb) |
-| Sat, 31 May 2025 21:55:12 GMT | Adversarial AI 101: A Practical Introduction to Machine Learning Attacks | Omar Elshopky (3l5h0pky) | [Read More](https://medium.com/p/8e04599ac9dc) |
-| Sat, 31 May 2025 21:50:14 GMT | Honeypot Nedir? Gerçek Dünya Senaryoları ve Kurulum ile Kapsamlı Rehber | Eren Erdoğan | [Read More](https://medium.com/p/6456a8204f89) |
-| Sat, 31 May 2025 21:43:26 GMT | DLink DIR 615 Persistence POC | ice-wzl | [Read More](https://medium.com/p/ae65059bb6c9) |
