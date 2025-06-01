@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Jun 2025 19:04:11 GMT | XSS Attacks: When Websites Start Speaking in Tongues | Rageeth | [Read More](https://medium.com/p/9f40e44a19b4) |
+| Sun, 01 Jun 2025 18:58:32 GMT | Inside the $200M Romance Baiting Scam: How Funnull’s Infrastructure Fueled Crypto Fraud at Scale. | UnknwnSaber | [Read More](https://medium.com/p/15832c7f8b91) |
+| Sun, 01 Jun 2025 18:58:23 GMT | Laporan Insiden: Infeksi Malware dan Aktivitas Jaringan Mencurigakan | kumpulantugasaing | [Read More](https://medium.com/p/dad6c39c0062) |
+| Sun, 01 Jun 2025 18:58:00 GMT | Kali Linux Bindshell vulnerability exploitation | GNINGHAYE GUEMANDEU Malcolmx Hassler | [Read More](https://medium.com/p/ad8e8469df25) |
+| Sun, 01 Jun 2025 18:51:49 GMT | The Ultimate Guide to Starting a Career in Website Application Bug Bounty Hunting ( For Absolute… | 40sp3l | [Read More](https://medium.com/p/760fc66d3fca) |
+| Sun, 01 Jun 2025 18:50:12 GMT | Information Security Management Systems — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/ba864b6aae99) |
+| Sun, 01 Jun 2025 18:48:06 GMT | Breaking RC4 With Key Reuse — a Rust Implementation and Attack Demo | Declan | [Read More](https://medium.com/p/84036b9d13b7) |
+| Sun, 01 Jun 2025 18:46:51 GMT | How to find Jupyter Notebook RCE manually? | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/4fb337998dc1) |
+| Sun, 01 Jun 2025 18:45:35 GMT | THM — ItsyBitsy Deep Dive | Chai | [Read More](https://medium.com/p/b909dfd52576) |
 | Sun, 01 Jun 2025 18:41:08 GMT | AWS Container Scanning with Trivy | Everett Porter | [Read More](https://medium.com/p/7076916b2528) |
+| Sun, 01 Jun 2025 18:39:55 GMT | ChatGPT Malware Hack 2025: When AI Became the Hacker | Anushree Krishna Suryavanshi | [Read More](https://medium.com/p/44eb1e9abc4b) |
 | Sun, 01 Jun 2025 18:38:24 GMT | Fancy Bear (APT28) 2016'da ABD Seçimlerini Nasıl Hackledi? Demokratik Parti’nin Dijital Çöküşü | Çağlar Suvari | [Read More](https://medium.com/p/af988f2d76df) |
 | Sun, 01 Jun 2025 18:30:43 GMT | The Case Sensitivity Bug That Broke My Laravel Inertia Tests: A Cross-Platform Development Tale | Oğuzhan KARACABAY | [Read More](https://medium.com/p/2dc67b4c0c5d) |
 | Sun, 01 Jun 2025 18:16:03 GMT | Agentic AI in Cybersecurity: From Reactive Defense to Proactive Resilience | Pavan kumar Evani | [Read More](https://medium.com/p/d14af48d57b4) |
@@ -103,13 +113,3 @@ Deserialization vulnerabilities | Ferhat cam | [Read More](https://medium.com/p/
 | Sun, 01 Jun 2025 13:59:21 GMT | Dasar Jaringan menggunakan Cisco Packet Tracer — Static Route | Rendizar Satria | [Read More](https://medium.com/p/af5be30f1c18) |
 | Sun, 01 Jun 2025 13:48:26 GMT | NuWealth App Review - This Is How I Reclaimed My Money | Katherine tobiassen | [Read More](https://medium.com/p/cbcaaf2d4ad7) |
 | Sun, 01 Jun 2025 13:48:25 GMT | How I Found an OAuth Token Leak, Bypassed Authentication, and Chained Multiple Vulnerabilities | Whitehat | [Read More](https://medium.com/p/d6095aa303a0) |
-| Sun, 01 Jun 2025 13:47:05 GMT | Cybersecurity Approaches and Regulations | Jorge Castaneda | [Read More](https://medium.com/p/0562234ca33a) |
-| Sun, 01 Jun 2025 13:45:56 GMT | Here’s How I Recover My Money From Nuwealth App | Katherine tobiassen | [Read More](https://medium.com/p/e3c6d9bafddd) |
-| Sun, 01 Jun 2025 13:42:34 GMT | Spear Phishing Attacks Using the Social Engineering Toolkit (SET) | Esra Kayhan | [Read More](https://medium.com/p/8d1ea22f2bf7) |
-| Sun, 01 Jun 2025 13:34:44 GMT | Zero Knowledge Proof: How to Prevent Data Leaks When Your System Gets Hacked | Muhamad Arfa Alghiffari | [Read More](https://medium.com/p/17f3bf04390f) |
-| Sun, 01 Jun 2025 13:34:07 GMT | ROADMAP CYBERSECURITY | Rei Kazeyama | [Read More](https://medium.com/p/bb1325d49760) |
-| Sun, 01 Jun 2025 13:33:52 GMT | A User to Admin: How I Went From Nobody to Owning the Admin Panel | Xh081iX | [Read More](https://medium.com/p/7dcc22344720) |
-| Sun, 01 Jun 2025 13:33:43 GMT | DevSecOps Phase 4B: Manual Penetration Testing | Dinidhu Jayasinghe | [Read More](https://medium.com/p/9c9e0493531d) |
-| Sun, 01 Jun 2025 13:33:41 GMT | The Unsung Heroes of IT: Mastering Your Emergency Access Accounts | Rohi | [Read More](https://medium.com/p/2e15c91535fc) |
-| Sun, 01 Jun 2025 13:33:26 GMT | Google Dorking: A Hacker’s Best Friend | Satyam Pathania | [Read More](https://medium.com/p/716dfb3e9739) |
-| Sun, 01 Jun 2025 13:33:15 GMT | The Hidden Admin Backdoor in Reddit Ads | Monika sharma | [Read More](https://medium.com/p/32eeb8e1e216) |
