@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 23:12:12 GMT | Breaking into the Cloud: Reviewing Tyler Ramsbey’s AWS Pentesting Course ‍ | WireHawk Security | [Read More](https://medium.com/p/b7027aac5574) |
+| Mon, 02 Jun 2025 23:10:59 GMT | How to Set Up MobSF with Docker on Kali Linux for Mobile App Penetration Testing | C. Oscar Lawshea | [Read More](https://medium.com/p/3e4e103efef8) |
+| Mon, 02 Jun 2025 23:04:36 GMT | All: It Takes | Good Day, Adam | [Read More](https://medium.com/p/bdd35b0481e8) |
+| Mon, 02 Jun 2025 22:52:17 GMT | Cryptography Simplified | Adam Jikat | [Read More](https://medium.com/p/828b605580c3) |
 | Mon, 02 Jun 2025 22:40:46 GMT | What’s Actually Happening Behind Passkeys? | perd1x | [Read More](https://medium.com/p/d9e8acac59ca) |
 | Mon, 02 Jun 2025 22:18:52 GMT | Enough with the Hacks, Strategies, and Hustle: I’m Over It | Min Min Khine | [Read More](https://medium.com/p/3489421a9e3e) |
 | Mon, 02 Jun 2025 22:16:53 GMT | CI/CD Pipeline Insecurities: Real-World Risks in Modern DevOps | Karthikeyan Nagaraj | [Read More](https://medium.com/p/adb6f9eb3ca2) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 16:34:37 GMT | Fighting Fake Information in the Age of AI: Why It Matters Now | JJ Hamm | [Read More](https://medium.com/p/e8284c597ff8) |
 | Mon, 02 Jun 2025 16:31:33 GMT | Android’de Uygulama Çalıştırma Mimarileri: Dalvik ve ART’in Evrimi | Romanzeb | [Read More](https://medium.com/p/022b35f2cd5e) |
 | Mon, 02 Jun 2025 16:30:00 GMT | Is Wenwin Safe to Use? A Deep Dive Into Wenwin’s Cyber Security Measures (2025 Update) | Ootk | [Read More](https://medium.com/p/594c4e9dc4a7) |
-| Mon, 02 Jun 2025 16:26:19 GMT | Building the BB84 Visualizer: Making Quantum Key Distribution Click | Anirudh Sekar | [Read More](https://medium.com/p/98354108026f) |
-| Mon, 02 Jun 2025 16:23:13 GMT | Apparently, I’m Getting Another Promotion! | Rodney McGill | [Read More](https://medium.com/p/583ac2307a30) |
-| Mon, 02 Jun 2025 16:23:08 GMT | Getting the Most Value Out of the OSCP: After the Exam | Kieran Croucher | [Read More](https://medium.com/p/6ff3f3049160) |
-| Mon, 02 Jun 2025 16:22:22 GMT | Failing with Grace: Why Testers Should Care About Error Culture | TreeifyAI | [Read More](https://medium.com/p/2cbbf51979ab) |
