@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 11:14:07 GMT | 52 — SOC120 — Phishing Mail Detected — Internal to Internal-Letsdefend | Amadi Oluchi Faith | [Read More](https://medium.com/p/15b215751cfe) |
+| Mon, 02 Jun 2025 11:11:34 GMT | Statistics from the 2025. | CyberSecStats | [Read More](https://medium.com/p/b9b3add7001c) |
+| Mon, 02 Jun 2025 11:09:34 GMT | Top 10 Forensic Tools | InfosecTrain | [Read More](https://medium.com/p/597670c5825e) |
+| Mon, 02 Jun 2025 11:05:24 GMT | When the Noise Inside Quietly Wins | ailnr | [Read More](https://medium.com/p/31c2716a53de) |
+| Mon, 02 Jun 2025 11:00:28 GMT | Empowering the Health and Wellness Sector Through Digital Innovation | Tanuja | [Read More](https://medium.com/p/229bda3f4ccd) |
+| Mon, 02 Jun 2025 10:57:38 GMT | From Phishing to Malware: Why Real-Time Browser Protection Is Your First Line of Defense | Ronit Yadav | [Read More](https://medium.com/p/3e811034e84a) |
+| Mon, 02 Jun 2025 10:55:40 GMT | NIS2 Директивата — Какво означава за малкия и среден бизнес в България? | Anita Stoyanova | [Read More](https://medium.com/p/64c7dcf08e3a) |
+| Mon, 02 Jun 2025 10:55:28 GMT | Yeni Nesil Siber Tuzaklar: Sahte AI Temalı Web Siteleri | Eren Onder | [Read More](https://medium.com/p/334dd4c44dfb) |
+| Mon, 02 Jun 2025 10:50:46 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/f0e22a928ba9) |
+| Mon, 02 Jun 2025 10:47:45 GMT | Comprehensive Guide to SNMP: Protocol, Vulnerabilities, and Pentesting | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/b6aa6caec5f1) |
+| Mon, 02 Jun 2025 10:46:25 GMT | Advance Your Career with the Best SOC Analyst & Cybersecurity Courses in Karnataka and Richmond | RedTeamsaniga Suresh | [Read More](https://medium.com/p/f99cda6b7ec4) |
 | Mon, 02 Jun 2025 10:38:26 GMT | TheHackersLabs — ShadowGate | APS88 | [Read More](https://medium.com/p/edac3bae57b8) |
 | Mon, 02 Jun 2025 10:34:00 GMT | The Ultimate Guide to ETGRM | Laiba Waseem | [Read More](https://medium.com/p/7ced091b15f2) |
 | Mon, 02 Jun 2025 10:22:37 GMT | Silent Breach Lab | lhxecutable | [Read More](https://medium.com/p/421e8197df1c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 06:09:40 GMT | CertGames vs. CyberExamPrep: Which is the Smarter Choice for Security+ Certification Prep? | Carter Perez | [Read More](https://medium.com/p/e7a64f3eda24) |
 | Mon, 02 Jun 2025 06:02:32 GMT | The Early Retirement Code: What 50 People Who Retired Before 40 Did Differently | Comfy Blogging | [Read More](https://medium.com/p/c9d9d90e100a) |
 | Mon, 02 Jun 2025 06:02:29 GMT | HuluCaptcha — An example of a FakeCaptcha framework | Gi7w0rm | [Read More](https://medium.com/p/9f50eeeb2e6d) |
-| Mon, 02 Jun 2025 05:56:20 GMT | Understanding Cyber Security: Protecting the Digital Frontier | Globtier Infotech | [Read More](https://medium.com/p/84f37cd7ee88) |
-| Mon, 02 Jun 2025 05:54:57 GMT | 20+ Strong Password Examples: A Simple Guide to Keeping Your Accounts Safe | Tahashaikhseo | [Read More](https://medium.com/p/b0672ff1fddf) |
-| Mon, 02 Jun 2025 05:43:51 GMT | Hacking Retro Games with Python and OpenCV | tk.dev | [Read More](https://medium.com/p/81e8646c4abc) |
-| Mon, 02 Jun 2025 05:40:26 GMT | The Crucial Role of Traffic Counting Surveys in KSA Urban Planning | Tekhabeeb | [Read More](https://medium.com/p/989d3fb6f8d9) |
-| Mon, 02 Jun 2025 05:37:23 GMT | The Future of Security: How Biometrics Are Shaping Smart Living with Nestron | Nestrondigitalhub | [Read More](https://medium.com/p/3cad5af7d667) |
-| Mon, 02 Jun 2025 05:35:22 GMT | SaaS Cybersecurity in 2025: Best Practices & Key Threats | Roll Consults | [Read More](https://medium.com/p/a025f2df0267) |
-| Mon, 02 Jun 2025 05:35:11 GMT | Top 5 Access Management Tools to Safeguard Your Digital Enterprise | Gauri Kale | [Read More](https://medium.com/p/1770f2802f74) |
-| Mon, 02 Jun 2025 05:26:01 GMT | Level Up in Cybersecurity with a Globally Recognized CEH Course | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/9af41ea4c585) |
-| Mon, 02 Jun 2025 05:25:44 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 7… | DhiasCode | [Read More](https://medium.com/p/7ce3ef5c859e) |
-| Mon, 02 Jun 2025 05:17:02 GMT | University Cybersecurity Project: A Comprehensive Incident Response | Tony Maunu | [Read More](https://medium.com/p/d4c10dfb2982) |
-| Mon, 02 Jun 2025 05:14:54 GMT | The Digital Love Affair: Why Your Devices Need Boundaries (and Perhaps a Therapist). | The Security Alchemist | [Read More](https://medium.com/p/f9fbddb1f9ae) |
