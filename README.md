@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 01:47:32 GMT | What is Security Operations Center (SOC) | Abhinav Pathak | [Read More](https://medium.com/p/a5d8fd0ef18d) |
+| Mon, 02 Jun 2025 01:31:33 GMT | Inside the Lab: My Hands-On Guide to Building a Malware Analysis Environment | Ebenezer Hans Mensah | [Read More](https://medium.com/p/0233753d81fb) |
+| Mon, 02 Jun 2025 01:26:28 GMT | How to Quickly Identify Good or Bad People: Be Generous First | Yuenie-kate | [Read More](https://medium.com/p/aa2e011b3cfa) |
+| Mon, 02 Jun 2025 01:05:18 GMT | Attacking Common Applications — Skills Assessment III | Ibrahima Ndong | [Read More](https://medium.com/p/e9d7a81c7da3) |
+| Mon, 02 Jun 2025 01:04:24 GMT | Cybersecurity Lexicon | Dr. Prashant Sawant | [Read More](https://medium.com/p/43fdeb7a38b3) |
+| Mon, 02 Jun 2025 00:32:28 GMT | How I Brute-Forced My Way Through a Broken Login Gate | Muthu | [Read More](https://medium.com/p/4250b22153f9) |
+| Mon, 02 Jun 2025 00:28:45 GMT | BUILT TOUGH, LEARNING SOFT | Dewdrop | [Read More](https://medium.com/p/b7b435346d0d) |
+| Mon, 02 Jun 2025 00:27:56 GMT | Satellite & Spaceborne Infrastructure Cybersecurity: Securing the Final Frontier | A-STAR7_DOCTOR | [Read More](https://medium.com/p/3cb991e3e5af) |
+| Mon, 02 Jun 2025 00:26:26 GMT | TryHackMe- Hydra walk through | Kumari Amita Kishore | [Read More](https://medium.com/p/dd8a16e23abd) |
+| Mon, 02 Jun 2025 00:12:27 GMT | Red Teaming in the Modern Enterprise: Cybersecurity Strategies for Banking, Healthcare, and Retail | John The CEO, Cloud And Social Thought Leader | [Read More](https://medium.com/p/431d08996bd8) |
+| Mon, 02 Jun 2025 00:05:03 GMT | I’m Tired of Being the Strong One ~ Sera Dawn | Sera Dawn | [Read More](https://medium.com/p/93bddd4b1920) |
+| Mon, 02 Jun 2025 00:02:29 GMT | Common Web Vulnerabilities: Cross-Site Scripting (XSS) | Shaun Fulton | [Read More](https://medium.com/p/8b98a6d3af00) |
+| Mon, 02 Jun 2025 00:02:28 GMT | Reconocimiento Web con Katana: Guía Completa para Empezar en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/0728cfd8f7f4) |
+| Sun, 01 Jun 2025 23:44:40 GMT | Rethinking Masculinity and Grief | Cecil Ato Kwamena Dadzie | [Read More](https://medium.com/p/33fcaac1ec20) |
 | Sun, 01 Jun 2025 23:31:09 GMT | THM Lab — Benign | Chai | [Read More](https://medium.com/p/15c959fc135d) |
 | Sun, 01 Jun 2025 23:27:04 GMT | Supercharge Your Vulnerability Fixes: How GitHub Copilot Agent Mode Became My Secret Weapon | Martin  Thomas | [Read More](https://medium.com/p/2c146bd391e1) |
 | Sun, 01 Jun 2025 23:24:08 GMT | How to prepare for IT certifications with AI? Student Bluebook. | Ilya Smut | [Read More](https://medium.com/p/b77717236899) |
@@ -27,6 +41,8 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 22:28:05 GMT | Every Word You Type is Being Stolen… The Insidious Google Keyboard | HarryHTML | [Read More](https://medium.com/p/652d4de8712b) |
 | Sun, 01 Jun 2025 22:23:30 GMT | Policing the Future: How AI, Robots, and Surveillance Tech Threaten Civil Liberties | Mateo Cruz | [Read More](https://medium.com/p/4173f96febcd) |
 | Sun, 01 Jun 2025 21:54:58 GMT | The Silent Crisis: Rediscovering Masculinity Beyond Success | LolA | [Read More](https://medium.com/p/aca913341d2e) |
+| Sun, 01 Jun 2025 21:35:48 GMT | Can a Penetration Test Prevent Ransomware? What Most Companies Miss | Jason | [Read More](https://medium.com/p/2609cb107368) |
+| Sun, 01 Jun 2025 21:32:44 GMT | What is Kerberoasting? | Jason | [Read More](https://medium.com/p/0207e37ff929) |
 | Sun, 01 Jun 2025 21:27:05 GMT | Siber Güvenlikte Popülerizm ve Lobicilik: Bilginin Gücünü Kimin Eline Veriyoruz? | Evrenos Bey | [Read More](https://medium.com/p/e7c3fcb4c394) |
 | Sun, 01 Jun 2025 21:22:45 GMT | Sunday Reflection: The AI That Showed Me My Armor | Raymond Brunell | [Read More](https://medium.com/p/443617a13ade) |
 | Sun, 01 Jun 2025 21:22:04 GMT | Malware Through Time: A Chronological Breakdown | Mike Anthony | [Read More](https://medium.com/p/523f0ff1c13f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 16:53:58 GMT | Security Operations Centers in 2025: New Theories, Solutions, and the Future of Cyber Defense | Pavan kumar Evani | [Read More](https://medium.com/p/5f6f6c5c3d0d) |
 | Sun, 01 Jun 2025 16:49:53 GMT | Implementing Standard ACL on a Segmented Network | Laura Puspa | [Read More](https://medium.com/p/84bfa4d17a93) |
 | Sun, 01 Jun 2025 16:48:18 GMT | HackTheBox - Paper | jniket | [Read More](https://medium.com/p/e053868d9a2d) |
-| Sun, 01 Jun 2025 16:46:46 GMT | ️ Building an Ethical Keylogger in Python: A Developer’s Learning Journey | the_air_cyborg | [Read More](https://medium.com/p/359549b4ee0e) |
-| Sun, 01 Jun 2025 16:45:49 GMT | Roadmap Cyber Security 5 Tahun (Fokus: Active Directory Pentesting, OSCP, CPTS) | Muhammad Sulthon Nurbahari | [Read More](https://medium.com/p/0736d5fcdda3) |
-| Sun, 01 Jun 2025 16:44:50 GMT | IDOR Hunter | Lord_murak | [Read More](https://medium.com/p/5ddbd8cd690d) |
-| Sun, 01 Jun 2025 16:42:12 GMT | Simulasi Serangan DDoS Sederhana di GNS3 | Ahmad Ubaidillah | [Read More](https://medium.com/p/21e3fa92b9c7) |
-| Sun, 01 Jun 2025 16:38:27 GMT | AI-Powered Threat Detection: The New Frontline in Cybersecurity. | Pavan kumar Evani | [Read More](https://medium.com/p/6fd73110e81b) |
-| Sun, 01 Jun 2025 16:38:04 GMT | Google Dorking: A Hacker’s Best Friend | Pavandeep Kaur | [Read More](https://medium.com/p/5076f8d7f2a5) |
-| Sun, 01 Jun 2025 16:36:00 GMT | Bojack’s and Diane’s Relationship Dynamic & Trust in Others Beliefs | Will | [Read More](https://medium.com/p/e40dc937ccd0) |
-| Sun, 01 Jun 2025 16:34:15 GMT | Unauthorized Access to Source Document Images in ERP System | Hossam Hussein | [Read More](https://medium.com/p/0838d399d14c) |
-| Sun, 01 Jun 2025 16:30:53 GMT | Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform | Appsec Techie | [Read More](https://medium.com/p/bc71cf9cd1be) |
-| Sun, 01 Jun 2025 16:27:46 GMT | To be seen | Vlaicu Andra | [Read More](https://medium.com/p/66a3edf7a638) |
-| Sun, 01 Jun 2025 16:26:56 GMT | Ihr strategischer Fahrplan zur robusten Informationssicherheit: Erfolgserprobte Best Practices und… | Philip Hansen | [Read More](https://medium.com/p/9e1ccbace3a5) |
-| Sun, 01 Jun 2025 16:24:36 GMT | Membongkar Serangan : Studi Kasus Infeksi Malware pada PCAP file | Salhanchynt | [Read More](https://medium.com/p/b53b552729d7) |
-| Sun, 01 Jun 2025 16:24:23 GMT | Automatisierte Berichterstattung mit KI | Philip Hansen | [Read More](https://medium.com/p/de1530db9032) |
-| Sun, 01 Jun 2025 16:24:21 GMT | Securing 10th Place in APISEC-CON CTF 2025: My Journey Through 17 API Security Challenges | Mayur Pandya | [Read More](https://medium.com/p/2d6b41a2afd3) |
-| Sun, 01 Jun 2025 16:22:37 GMT | I Got Hacked | Jara | [Read More](https://medium.com/p/5f99f98a1392) |
-| Sun, 01 Jun 2025 16:21:39 GMT | Most Men Don’t Open Up — Because Every Time We Did, It Was Used Against Us | X-Plain | [Read More](https://medium.com/p/44363ddc6067) |
