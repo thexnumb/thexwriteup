@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 04:21:19 GMT | The Cyber Threat Intelligence Lifecycle: From Chaos to Clarity | Shubhamitaliya | [Read More](https://medium.com/p/a662f54be0aa) |
+| Mon, 02 Jun 2025 04:18:44 GMT | Implementing SIEM and SOAR platforms — Australian Signals Directorate | SOCFortress | [Read More](https://medium.com/p/68da2189d10d) |
+| Mon, 02 Jun 2025 04:10:33 GMT | When Vulnerability Becomes Your Armor | Isla Hendricks | [Read More](https://medium.com/p/ebbec753d049) |
+| Mon, 02 Jun 2025 04:09:30 GMT | DOM XSS via postMessage: JavaScript Injection Inside Iframes | Bash Overflow | [Read More](https://medium.com/p/8a5f6912fba4) |
+| Mon, 02 Jun 2025 04:01:51 GMT | Configuring UFW (Uncomplicated Firewall) on my Fedora KDE System | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/7de3d746e6e0) |
+| Mon, 02 Jun 2025 03:59:58 GMT | Why I Never Trust Pre-Installed Packages on Linux or Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/fe88dcacd5ae) |
+| Mon, 02 Jun 2025 03:51:43 GMT | The Original Manhood: Unshakable, Secure, and Real | MotzHeart Mindz | [Read More](https://medium.com/p/36284a4152f1) |
 | Mon, 02 Jun 2025 03:37:15 GMT | blogging or bragging? on ego and doubts | Make With James | [Read More](https://medium.com/p/201b844c85db) |
 | Mon, 02 Jun 2025 03:32:29 GMT | TsarBot Malware: The Sophisticated Android Threat Targeting 750+ Financial and Crypto Apps | Deven Chhajed | [Read More](https://medium.com/p/f1650777ad9e) |
 | Mon, 02 Jun 2025 03:18:06 GMT | DNS Demystified: Understanding Forward, Reverse, and the Backbone of the Internet | Ersad Muçollari | [Read More](https://medium.com/p/dfded0f70674) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 17:59:22 GMT | Understanding Ports and Protocols: How Computers Talk on the Internet | Ar Sijan Official | [Read More](https://medium.com/p/5d772467c732) |
 | Sun, 01 Jun 2025 17:56:13 GMT | Tilde Games: Exploiting 8.3 Shortnames on IIS Servers | Sachin Sharma | [Read More](https://medium.com/p/6f232071e01f) |
 | Sun, 01 Jun 2025 17:55:24 GMT | Top Free Tools to Check If Your Data Is Compromised (And How to Protect Yourself) | Stealseek | [Read More](https://medium.com/p/4c2f98e1e8d7) |
-| Sun, 01 Jun 2025 17:53:35 GMT | TryHackMe - Custom Tooling using Burp - WriteUp | Axoloth | [Read More](https://medium.com/p/fbef5b0025fe) |
-| Sun, 01 Jun 2025 17:52:48 GMT | From Tigers to Two-Wheelers: How Our Deepest Fears Reveal What We’re Really Longing For | Whispers of the Soul | [Read More](https://medium.com/p/e7dcfb4f30d8) |
-| Sun, 01 Jun 2025 17:46:55 GMT | Mastering Regular Expressions for Cybersecurity: A Beginner’s Deep Dive | David Ramovich Mandal | [Read More](https://medium.com/p/b5058704c4f3) |
-| Sun, 01 Jun 2025 17:44:18 GMT | Roadmap Cyber Security 5 Tahun Kedepan | Alyyusyawal | [Read More](https://medium.com/p/7bec7fa72e0e) |
-| Sun, 01 Jun 2025 17:42:19 GMT | Why Security Needs Systems Thinking | Kristin Dahl | [Read More](https://medium.com/p/94bf9c01c45e) |
-| Sun, 01 Jun 2025 17:39:29 GMT | A Storytellers Gift | Stefanie K | [Read More](https://medium.com/p/bdb7e680ecb9) |
-| Sun, 01 Jun 2025 17:28:42 GMT | Use API keys to access Gemini models in Google Cloud | Raj Duraisamy | [Read More](https://medium.com/p/bc0ec296d87c) |
