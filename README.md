@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 22:40:46 GMT | What’s Actually Happening Behind Passkeys? | perd1x | [Read More](https://medium.com/p/d9e8acac59ca) |
+| Mon, 02 Jun 2025 22:18:52 GMT | Enough with the Hacks, Strategies, and Hustle: I’m Over It | Min Min Khine | [Read More](https://medium.com/p/3489421a9e3e) |
+| Mon, 02 Jun 2025 22:16:53 GMT | CI/CD Pipeline Insecurities: Real-World Risks in Modern DevOps | Karthikeyan Nagaraj | [Read More](https://medium.com/p/adb6f9eb3ca2) |
 | Mon, 02 Jun 2025 22:10:44 GMT | Shocker: A Penetration Testing Walkthrough | Amanuel | [Read More](https://medium.com/p/e055a313ff79) |
 | Mon, 02 Jun 2025 22:05:13 GMT | AI’s Dual Role in Cybersecurity | Pawan K. Pradhan | [Read More](https://medium.com/p/7e04fc816047) |
 | Mon, 02 Jun 2025 22:02:24 GMT | Strengthening App Security in CodePathX with OWASP Best Practices… | Agnesa Baliu | [Read More](https://medium.com/p/931fa708ff21) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 16:23:13 GMT | Apparently, I’m Getting Another Promotion! | Rodney McGill | [Read More](https://medium.com/p/583ac2307a30) |
 | Mon, 02 Jun 2025 16:23:08 GMT | Getting the Most Value Out of the OSCP: After the Exam | Kieran Croucher | [Read More](https://medium.com/p/6ff3f3049160) |
 | Mon, 02 Jun 2025 16:22:22 GMT | Failing with Grace: Why Testers Should Care About Error Culture | TreeifyAI | [Read More](https://medium.com/p/2cbbf51979ab) |
-| Mon, 02 Jun 2025 16:20:26 GMT | Cortex Xpanse by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/fb0554e50a38) |
-| Mon, 02 Jun 2025 16:18:25 GMT | Keamanan Sistem ICS/SCADA: Kenapa Penting & Apa Saja Tantangannya? | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/9511a162048e) |
-| Mon, 02 Jun 2025 16:14:51 GMT | Securing the Site: Why Construction Security in the GTA Is More Critical Than Ever | Ethan | [Read More](https://medium.com/p/fd83c27369ba) |
