@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 20:36:40 GMT | “From Doubt to Discovery: Reporting a CSRF Bug to NASA ” | Virendra Kumar | [Read More](https://medium.com/p/62f95ecbfb81) |
+| Mon, 02 Jun 2025 20:33:36 GMT | Energy, Enterprise & Espresso: My Evolving Journey Through Business and Beyond | Aadil Ahesan | [Read More](https://medium.com/p/a6f43be25fb7) |
+| Mon, 02 Jun 2025 20:20:25 GMT | From Zero to Secure: Your Blueprint for Building an InfoSec Organization from the Ground Up | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b3972dc4179e) |
+| Mon, 02 Jun 2025 20:18:15 GMT | File Transfer Protocol (FTP) | Kevin Gicheha | [Read More](https://medium.com/p/a6ed1a8a1412) |
 | Mon, 02 Jun 2025 20:05:36 GMT | Mobile Acquisition - TryHackMe Walkthrough | CyferNest Sec | [Read More](https://medium.com/p/7e8b9863048b) |
 | Mon, 02 Jun 2025 20:01:44 GMT | Understanding VPN Encryption: What You Need to Know | VPN ForceField | [Read More](https://medium.com/p/132944428180) |
 | Mon, 02 Jun 2025 19:58:36 GMT | FastAPI দিয়ে Token-Based Security সহজভাবে (বাংলায় গাইড) | Sadiqul Islam | [Read More](https://medium.com/p/3213f0b27494) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 14:56:12 GMT | Hackers Don’t Guess Your Password — They Build It. | Sam Galope | [Read More](https://medium.com/p/0ff7714c3184) |
 | Mon, 02 Jun 2025 14:55:39 GMT | Try Hack Me: Basic Pentesting Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/47bc9aafed7c) |
 | Mon, 02 Jun 2025 14:51:12 GMT | ️ Advanced Penetration Tester Roadmap (2025 Edition) | Praveen Kavinda | [Read More](https://medium.com/p/6223773313c9) |
-| Mon, 02 Jun 2025 14:45:06 GMT | Are you strong enough to ASK for HELP? | Hardik Kathuria | [Read More](https://medium.com/p/3c5ef53f9d79) |
-| Mon, 02 Jun 2025 14:42:45 GMT | Top 5 Tools Every Blockchain Security Auditor Should Use in 2025 | Decrypt0 | [Read More](https://medium.com/p/6ff9bbadf7c3) |
-| Mon, 02 Jun 2025 14:39:41 GMT | Planning -HTB Walkthrough | Prabhat Kumar Thakur | [Read More](https://medium.com/p/72365690ef27) |
-| Mon, 02 Jun 2025 14:35:26 GMT | Essential Windows Evasion Techniques | S12 - H4CK | [Read More](https://medium.com/p/c8721656674f) |
