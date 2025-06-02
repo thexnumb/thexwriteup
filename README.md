@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 18:38:14 GMT | I Miss You. Whoever You Are. | Spiral Patterns | [Read More](https://medium.com/p/946899a26738) |
+| Mon, 02 Jun 2025 18:36:58 GMT | OSINT Case Report: Suspected Synthetic LinkedIn Identity — “Christopher Anderson” | BlueBirdIntel | [Read More](https://medium.com/p/b36bddf80849) |
+| Mon, 02 Jun 2025 18:34:58 GMT | Stay Ahead with Recon Solana: The Future of Crypto Yields | Ashley
+ Ingram | [Read More](https://medium.com/p/f64ede41df23) |
+| Mon, 02 Jun 2025 18:33:43 GMT | Be Vulnerable | Dennis | [Read More](https://medium.com/p/7afa31e01291) |
+| Mon, 02 Jun 2025 18:33:22 GMT | Cybersecurity Case Study: The Morris Worm — The First Internet Worm | Agarwaldaksh | [Read More](https://medium.com/p/9fdaac4c08e9) |
+| Mon, 02 Jun 2025 18:32:44 GMT | Understanding Malware: A Cybersecurity Analyst’s Guide to Threats and Defense | R1punjay_Singh | [Read More](https://medium.com/p/af69b6710730) |
 | Mon, 02 Jun 2025 18:26:05 GMT | SBOM (Software Bill Off Materials) in Security | Natarajan C K | [Read More](https://medium.com/p/0876083988fd) |
 | Mon, 02 Jun 2025 18:17:08 GMT | Hardening Web Server di Linux Ubuntu | Wafa | [Read More](https://medium.com/p/66c7803d3d7e) |
 | Mon, 02 Jun 2025 18:16:57 GMT | HackTheBox: Puppy — Exploiting Default Configurations | Lovishmittal | [Read More](https://medium.com/p/c67e70287acc) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 13:44:03 GMT | How to Find Info on Anyone Online (Even Without Hacking!) | Hartarto | [Read More](https://medium.com/p/e46623de7154) |
 | Mon, 02 Jun 2025 13:43:51 GMT | Data Centers and National Security | Etnik | [Read More](https://medium.com/p/5f61b541a93c) |
 | Mon, 02 Jun 2025 13:35:05 GMT | CSRF: How I gained unauthorized access to Cart | JEETPAL | [Read More](https://medium.com/p/45e671a180f9) |
-| Mon, 02 Jun 2025 13:26:55 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/c38b1e3f47a3) |
-| Mon, 02 Jun 2025 13:23:31 GMT | Can I Recover My Bitcoin That Was Stolen from Me Last Month? | Crime All Day | [Read More](https://medium.com/p/3057041a2e57) |
-| Mon, 02 Jun 2025 13:19:05 GMT | How Can I Recover My Money From Stonewall Capital? | Bianca | [Read More](https://medium.com/p/d62399964aa7) |
-| Mon, 02 Jun 2025 13:11:57 GMT | Can I Recover My Bitcoin That Was Stolen from Me Last Month? | Crime All Day | [Read More](https://medium.com/p/8f5a2208c664) |
-| Mon, 02 Jun 2025 13:11:33 GMT | Vulnerability: My Life’s Reset Button | ADITI | [Read More](https://medium.com/p/c361a434b06f) |
-| Mon, 02 Jun 2025 13:11:05 GMT | The Bug Trap That Broke My Heart | Soul Notes | [Read More](https://medium.com/p/b6d1af82184d) |
