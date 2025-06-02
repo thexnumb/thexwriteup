@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 19:33:34 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 3] | Aditya Bhatt | [Read More](https://medium.com/p/4cee87018c39) |
+| Mon, 02 Jun 2025 19:25:09 GMT | Breaking the Firewall: A Pen Tester’s Take on June 2, 2025 Cybersecurity Chaos | hackerguy7 | [Read More](https://medium.com/p/7b0e5b996be1) |
+| Mon, 02 Jun 2025 19:22:17 GMT | ⚠️ Beware of a LinkedIn Scam Involving Malicious Bitbucket Repository | Stanislav Obrazcoff | [Read More](https://medium.com/p/77ac8816b5ca) |
+| Mon, 02 Jun 2025 19:12:24 GMT | Day 16: Why Data Privacy Is Everyone’s BusinessNot Just Legal’s | Brittney Ginther | [Read More](https://medium.com/p/e608491477b5) |
+| Mon, 02 Jun 2025 19:12:17 GMT | Price Tampering in WooCommerce Checkout API (Flutter App) | Youssefhussein | [Read More](https://medium.com/p/2a73cefbea80) |
+| Mon, 02 Jun 2025 19:09:22 GMT | Africa’s Digital Goldmine: Why AI & Cybersecurity Matter More Than Ever | Mohamud Ibrahim | [Read More](https://medium.com/p/27694e42d21e) |
 | Mon, 02 Jun 2025 18:58:54 GMT | “My AI Made Me Do It!”: Using HFACS to Unpack Human Error in AI Security Breaches | Wale Adedeji | [Read More](https://medium.com/p/544fe62d7a68) |
 | Mon, 02 Jun 2025 18:53:26 GMT | So You Want to Start Your AI Transformation? Read This First. | Marwan Jaber | [Read More](https://medium.com/p/8d3fd9c4e191) |
 | Mon, 02 Jun 2025 18:49:05 GMT | Microsoft and CrowdStrike Collaborate to Standardize Threat Actor Naming | Ronit Yadav | [Read More](https://medium.com/p/a70d298173e4) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 14:00:25 GMT | Basic Cyber Security️ | BrainTrust_ | [Read More](https://medium.com/p/7e634d503682) |
 | Mon, 02 Jun 2025 13:58:33 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/811d2fe918c0) |
 | Mon, 02 Jun 2025 13:57:49 GMT | Apakah itu ICS & SCADA dan sejarah penyerangan | indy Adira Khalfani | [Read More](https://medium.com/p/eadb087f1036) |
-| Mon, 02 Jun 2025 13:56:37 GMT | It Doesn’t Feel Like Despair. It Feels Like Logistics | maple syrup fox | [Read More](https://medium.com/p/e2ff71383cd0) |
-| Mon, 02 Jun 2025 13:53:35 GMT | Cybersecurity in the Age of AI Threats: Protecting a Digital World | Muhammad Zain ul Abideen | [Read More](https://medium.com/p/9946fd7bdb14) |
-| Mon, 02 Jun 2025 13:52:20 GMT | Maximize Recon Solana for Passive Income Success | $RECON Recon Solana Community Rewards | [Read More](https://medium.com/p/928d10825cf5) |
-| Mon, 02 Jun 2025 13:51:48 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/cd4e8789efde) |
-| Mon, 02 Jun 2025 13:46:53 GMT | Cybersecurity Book Recommendations | Danny | [Read More](https://medium.com/p/5f9d69bacbe1) |
-| Mon, 02 Jun 2025 13:46:53 GMT | Creating CVE-Based Attack Scenarios Using Exploit-DB | Esra Kayhan | [Read More](https://medium.com/p/52baacc40037) |
