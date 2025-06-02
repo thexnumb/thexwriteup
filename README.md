@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 05:35:22 GMT | SaaS Cybersecurity in 2025: Best Practices & Key Threats | Roll Consults | [Read More](https://medium.com/p/a025f2df0267) |
+| Mon, 02 Jun 2025 05:35:11 GMT | Top 5 Access Management Tools to Safeguard Your Digital Enterprise | Gauri Kale | [Read More](https://medium.com/p/1770f2802f74) |
+| Mon, 02 Jun 2025 05:26:01 GMT | Level Up in Cybersecurity with a Globally Recognized CEH Course | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/9af41ea4c585) |
+| Mon, 02 Jun 2025 05:25:44 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 7… | DhiasCode | [Read More](https://medium.com/p/7ce3ef5c859e) |
+| Mon, 02 Jun 2025 05:17:02 GMT | University Cybersecurity Project: A Comprehensive Incident Response | Tony Maunu | [Read More](https://medium.com/p/d4c10dfb2982) |
 | Mon, 02 Jun 2025 05:14:54 GMT | The Digital Love Affair: Why Your Devices Need Boundaries (and Perhaps a Therapist). | The Security Alchemist | [Read More](https://medium.com/p/f9fbddb1f9ae) |
 | Mon, 02 Jun 2025 05:08:27 GMT | Online Cybersecurity Courses in Calicut Learn Ethical Hacking from Experts | Bivek raj | [Read More](https://medium.com/p/0570f0468c26) |
 | Mon, 02 Jun 2025 05:02:33 GMT | Cyber Gauntlet: A Pen Tester’s Saga Through 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/344f225922b8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 18:50:12 GMT | Information Security Management Systems — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/ba864b6aae99) |
 | Sun, 01 Jun 2025 18:48:06 GMT | Breaking RC4 With Key Reuse — a Rust Implementation and Attack Demo | Declan | [Read More](https://medium.com/p/84036b9d13b7) |
 | Sun, 01 Jun 2025 18:46:51 GMT | How to find Jupyter Notebook RCE manually? | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/4fb337998dc1) |
-| Sun, 01 Jun 2025 18:45:35 GMT | THM — ItsyBitsy Deep Dive | Chai | [Read More](https://medium.com/p/b909dfd52576) |
-| Sun, 01 Jun 2025 18:41:08 GMT | AWS Container Scanning with Trivy | Everett Porter | [Read More](https://medium.com/p/7076916b2528) |
-| Sun, 01 Jun 2025 18:39:55 GMT | ChatGPT Malware Hack 2025: When AI Became the Hacker | Anushree Krishna Suryavanshi | [Read More](https://medium.com/p/44eb1e9abc4b) |
-| Sun, 01 Jun 2025 18:38:24 GMT | Fancy Bear (APT28) 2016'da ABD Seçimlerini Nasıl Hackledi? Demokratik Parti’nin Dijital Çöküşü | Çağlar Suvari | [Read More](https://medium.com/p/af988f2d76df) |
-| Sun, 01 Jun 2025 18:30:43 GMT | The Case Sensitivity Bug That Broke My Laravel Inertia Tests: A Cross-Platform Development Tale | Oğuzhan KARACABAY | [Read More](https://medium.com/p/2dc67b4c0c5d) |
