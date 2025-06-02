@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 16:50:50 GMT | Knock Knock by HTB | Fatimahasan | [Read More](https://medium.com/p/48da219effcd) |
+| Mon, 02 Jun 2025 16:47:09 GMT | Understanding Vulnerability Management as a Service: A Smart Path to Stronger Security | SafeAeon Inc. | [Read More](https://medium.com/p/c70ce17ae192) |
+| Mon, 02 Jun 2025 16:38:40 GMT | Authentication Bypass via OTP Response Manipulation | Youssefhussein | [Read More](https://medium.com/p/228bca9244d2) |
+| Mon, 02 Jun 2025 16:36:27 GMT | Top 7 Industries That Need MFA Right Now — And How Rainbow Secure Delivers | Dr. Shashi Karhail | [Read More](https://medium.com/p/a6bbbfbdecf3) |
+| Mon, 02 Jun 2025 16:36:13 GMT | The Limits of Signature Based Detection in Threat Hunting and How to Overcome Them | Bappe Sarker | [Read More](https://medium.com/p/d58d06efa55e) |
+| Mon, 02 Jun 2025 16:34:37 GMT | Fighting Fake Information in the Age of AI: Why It Matters Now | JJ Hamm | [Read More](https://medium.com/p/e8284c597ff8) |
+| Mon, 02 Jun 2025 16:31:33 GMT | Android’de Uygulama Çalıştırma Mimarileri: Dalvik ve ART’in Evrimi | Romanzeb | [Read More](https://medium.com/p/022b35f2cd5e) |
+| Mon, 02 Jun 2025 16:30:00 GMT | Is Wenwin Safe to Use? A Deep Dive Into Wenwin’s Cyber Security Measures (2025 Update) | Ootk | [Read More](https://medium.com/p/594c4e9dc4a7) |
+| Mon, 02 Jun 2025 16:26:19 GMT | Building the BB84 Visualizer: Making Quantum Key Distribution Click | Anirudh Sekar | [Read More](https://medium.com/p/98354108026f) |
 | Mon, 02 Jun 2025 16:23:13 GMT | Apparently, I’m Getting Another Promotion! | Rodney McGill | [Read More](https://medium.com/p/583ac2307a30) |
 | Mon, 02 Jun 2025 16:23:08 GMT | Getting the Most Value Out of the OSCP: After the Exam | Kieran Croucher | [Read More](https://medium.com/p/6ff3f3049160) |
 | Mon, 02 Jun 2025 16:22:22 GMT | Failing with Grace: Why Testers Should Care About Error Culture | TreeifyAI | [Read More](https://medium.com/p/2cbbf51979ab) |
 | Mon, 02 Jun 2025 16:20:26 GMT | Cortex Xpanse by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/fb0554e50a38) |
+| Mon, 02 Jun 2025 16:18:25 GMT | Keamanan Sistem ICS/SCADA: Kenapa Penting & Apa Saja Tantangannya? | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/9511a162048e) |
 | Mon, 02 Jun 2025 16:14:51 GMT | Securing the Site: Why Construction Security in the GTA Is More Critical Than Ever | Ethan | [Read More](https://medium.com/p/fd83c27369ba) |
 | Mon, 02 Jun 2025 16:06:14 GMT | Leveraging Weak Git Configuration: Bandit31 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/32f826cfd139) |
 | Mon, 02 Jun 2025 15:57:30 GMT | SSRF to RCE via Redis using Gopher Protocol | Zoningxtr | [Read More](https://medium.com/p/7409b1d97dcd) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 11:28:46 GMT | System Design — API Security Protocols | Amit Singh Rathore | [Read More](https://medium.com/p/351da595e888) |
 | Mon, 02 Jun 2025 11:28:14 GMT | xss test | Cybertech | [Read More](https://medium.com/p/2762b32ae9e1) |
 | Mon, 02 Jun 2025 11:26:01 GMT | Unleashing the Power of Darkness Recon: The Ultimate Reconnaissance Tool for Cybersecurity Pros | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c63d1ef57132) |
-| Mon, 02 Jun 2025 11:15:58 GMT | Beyond Nuclei: Intelligent Vulnerability Discovery Using AI and Custom Signatures | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d34f0359a1d) |
-| Mon, 02 Jun 2025 11:14:07 GMT | 52 — SOC120 — Phishing Mail Detected — Internal to Internal-Letsdefend | Amadi Oluchi Faith | [Read More](https://medium.com/p/15b215751cfe) |
-| Mon, 02 Jun 2025 11:11:34 GMT | Statistics from the 2025. | CyberSecStats | [Read More](https://medium.com/p/b9b3add7001c) |
-| Mon, 02 Jun 2025 11:09:34 GMT | Top 10 Forensic Tools | InfosecTrain | [Read More](https://medium.com/p/597670c5825e) |
-| Mon, 02 Jun 2025 11:05:24 GMT | When the Noise Inside Quietly Wins | ailnr | [Read More](https://medium.com/p/31c2716a53de) |
-| Mon, 02 Jun 2025 11:00:28 GMT | Empowering the Health and Wellness Sector Through Digital Innovation | Tanuja | [Read More](https://medium.com/p/229bda3f4ccd) |
-| Mon, 02 Jun 2025 10:57:38 GMT | From Phishing to Malware: Why Real-Time Browser Protection Is Your First Line of Defense | Ronit Yadav | [Read More](https://medium.com/p/3e811034e84a) |
-| Mon, 02 Jun 2025 10:55:40 GMT | NIS2 Директивата — Какво означава за малкия и среден бизнес в България? | Anita Stoyanova | [Read More](https://medium.com/p/64c7dcf08e3a) |
-| Mon, 02 Jun 2025 10:55:28 GMT | Yeni Nesil Siber Tuzaklar: Sahte AI Temalı Web Siteleri | Eren Onder | [Read More](https://medium.com/p/334dd4c44dfb) |
-| Mon, 02 Jun 2025 10:50:46 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/f0e22a928ba9) |
