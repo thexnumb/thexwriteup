@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 14:57:01 GMT | Sterling Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/dd8a8cdd3ee4) |
+| Mon, 02 Jun 2025 14:56:12 GMT | Hackers Don’t Guess Your Password — They Build It. | Sam Galope | [Read More](https://medium.com/p/0ff7714c3184) |
+| Mon, 02 Jun 2025 14:55:39 GMT | Try Hack Me: Basic Pentesting Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/47bc9aafed7c) |
+| Mon, 02 Jun 2025 14:51:12 GMT | ️ Advanced Penetration Tester Roadmap (2025 Edition) | Praveen Kavinda | [Read More](https://medium.com/p/6223773313c9) |
+| Mon, 02 Jun 2025 14:45:06 GMT | Are you strong enough to ASK for HELP? | Hardik Kathuria | [Read More](https://medium.com/p/3c5ef53f9d79) |
+| Mon, 02 Jun 2025 14:42:45 GMT | Top 5 Tools Every Blockchain Security Auditor Should Use in 2025 | Decrypt0 | [Read More](https://medium.com/p/6ff9bbadf7c3) |
+| Mon, 02 Jun 2025 14:39:41 GMT | Planning -HTB Walkthrough | Prabhat Kumar Thakur | [Read More](https://medium.com/p/72365690ef27) |
 | Mon, 02 Jun 2025 14:35:26 GMT | Essential Windows Evasion Techniques | S12 - H4CK | [Read More](https://medium.com/p/c8721656674f) |
 | Mon, 02 Jun 2025 14:31:49 GMT | Smart Contract Audit Nedir? Neden Kritik Öneme Sahip? | BeosinTR | [Read More](https://medium.com/p/52e483a34fe2) |
 | Mon, 02 Jun 2025 14:29:44 GMT | ⚔️ Laying the Groundwork for iOS and general computer Exploitation: Stack and process definition | Nextk | [Read More](https://medium.com/p/612436c40d14) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 09:17:32 GMT | Securycor: Your Trusted Security Partner | Professional UK Services | [Read More](https://medium.com/p/d9bd843f18a0) |
 | Mon, 02 Jun 2025 09:16:25 GMT | How to Use Burp Suite: Discover & Master Powerful Features | Ekene Joseph | [Read More](https://medium.com/p/78285942f177) |
 | Mon, 02 Jun 2025 09:15:53 GMT | Exploiting the Gaps in Password Reset Verification | Ehtesham Ul Haq | [Read More](https://medium.com/p/9bb86ec95d29) |
-| Mon, 02 Jun 2025 09:14:28 GMT | 如何使用 OWASP ZAP 進行 API 安全測試 | Ivan Cheng | [Read More](https://medium.com/p/4105e105bd45) |
-| Mon, 02 Jun 2025 09:14:00 GMT | Simple CTF — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/01e302a31f37) |
-| Mon, 02 Jun 2025 09:13:27 GMT | Silent Breach Lab | Jesús García Rubias | [Read More](https://medium.com/p/358223db0a5e) |
-| Mon, 02 Jun 2025 09:11:18 GMT | GPTleak or hallucination ? | Remy Ramirez | [Read More](https://medium.com/p/ea3c1c117971) |
-| Mon, 02 Jun 2025 09:05:55 GMT | China’s Earth Lamia Cyber Espionage Group Poses Growing Threat to Indonesia’s Critical… | MITRE Doggy | [Read More](https://medium.com/p/2db475bb9e4b) |
-| Mon, 02 Jun 2025 09:05:14 GMT | Understanding SWIFT CSP: Key Updates in 2025 | Biz Serve IT | [Read More](https://medium.com/p/02dd9fedd480) |
-| Mon, 02 Jun 2025 09:02:33 GMT | What is GRC? A Beginners Guide | Harry West | [Read More](https://medium.com/p/182bc2e57d87) |
