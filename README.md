@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 15:35:09 GMT | Network Scanning: Mapping the Road to Exploitation | sixxish | [Read More](https://medium.com/p/14c93550dd16) |
+| Mon, 02 Jun 2025 15:31:33 GMT | How To Avoid Costly PCI Mistakes in Hospitality & Travel | Feroot Security | [Read More](https://medium.com/p/7ddd2307ab7e) |
+| Mon, 02 Jun 2025 15:31:21 GMT | Between Visibility and Vulnerability | Jasmine Aneja | [Read More](https://medium.com/p/ad1b0bbf2b27) |
+| Mon, 02 Jun 2025 15:27:12 GMT | Navigating the Digital Frontier: Hacking, Virtual Machines, Linux, and Networking | Vimal John M V | [Read More](https://medium.com/p/2a99b933e4a8) |
+| Mon, 02 Jun 2025 15:21:59 GMT | My Preparation for the OSCP Exam | Nathan Martin | [Read More](https://medium.com/p/33df48c2072d) |
+| Mon, 02 Jun 2025 15:12:58 GMT | Your Password Policy Sucks | .com software | [Read More](https://medium.com/p/219d282800e7) |
 | Mon, 02 Jun 2025 14:57:01 GMT | Sterling Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/dd8a8cdd3ee4) |
 | Mon, 02 Jun 2025 14:56:12 GMT | Hackers Don’t Guess Your Password — They Build It. | Sam Galope | [Read More](https://medium.com/p/0ff7714c3184) |
 | Mon, 02 Jun 2025 14:55:39 GMT | Try Hack Me: Basic Pentesting Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/47bc9aafed7c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 09:51:49 GMT | ️ Title: The Me Nobody Sees | C. Pen - Crowned Soul | [Read More](https://medium.com/p/477f552574a5) |
 | Mon, 02 Jun 2025 09:46:35 GMT | It’s impossible to eliminate risk | Jenny Feneley | [Read More](https://medium.com/p/f43ddf94c542) |
 | Mon, 02 Jun 2025 09:40:56 GMT | How I found my security calling at Alan | Chaïmaa Kadaoui | [Read More](https://medium.com/p/4433f75378f1) |
-| Mon, 02 Jun 2025 09:32:14 GMT | Testing an Infostealer in a Controlled Environment with CrowdStrike Sensors | Gilang Rama | [Read More](https://medium.com/p/1919c6b4d777) |
-| Mon, 02 Jun 2025 09:31:58 GMT | ⚠️ Critical 0-Click Vulnerability in Firefox via libvpx: What You Need to Know | Infoziant | [Read More](https://medium.com/p/aacae19250b2) |
-| Mon, 02 Jun 2025 09:19:05 GMT | Why getline() Doesn’t Work After cin — and How to Fix It | Pratham Gupta | [Read More](https://medium.com/p/1a29a31e5b08) |
-| Mon, 02 Jun 2025 09:17:32 GMT | Securycor: Your Trusted Security Partner | Professional UK Services | [Read More](https://medium.com/p/d9bd843f18a0) |
-| Mon, 02 Jun 2025 09:16:25 GMT | How to Use Burp Suite: Discover & Master Powerful Features | Ekene Joseph | [Read More](https://medium.com/p/78285942f177) |
-| Mon, 02 Jun 2025 09:15:53 GMT | Exploiting the Gaps in Password Reset Verification | Ehtesham Ul Haq | [Read More](https://medium.com/p/9bb86ec95d29) |
