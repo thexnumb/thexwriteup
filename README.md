@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 08:14:23 GMT | The Rise of Contrastive Learning in AI: Applications in Cybersecurity and Beyond | Elias Hossain | [Read More](https://medium.com/p/a5699ecbf67d) |
+| Mon, 02 Jun 2025 08:11:02 GMT | Body Shopping Bare Minimums: Offshore Oxymorons in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/e8a674d42c0f) |
+| Mon, 02 Jun 2025 08:07:43 GMT | The Daily Tech Digest: 02 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f09b1b9e5824) |
+| Mon, 02 Jun 2025 08:04:26 GMT | I  Found an XSS in a Chatbot & Got Paid $250 — Here’s How | CyberTechAjju | [Read More](https://medium.com/p/d9dd8f500111) |
+| Mon, 02 Jun 2025 08:02:43 GMT | The Best Network Management Services - Optimise Your Network Operations | Anbarasans | [Read More](https://medium.com/p/807abc3ca8fb) |
+| Mon, 02 Jun 2025 08:02:40 GMT | The Future of Cybersecurity Jobs in India and Abroad in 2025 | Saurabh Kumar Suman | [Read More](https://medium.com/p/7757fb52fae3) |
+| Mon, 02 Jun 2025 08:02:34 GMT | The Ultimate Guide to Authentication & Authorization (for Senior Engineers) | Mohamed ElEmam | [Read More](https://medium.com/p/a12845f7426a) |
+| Mon, 02 Jun 2025 08:01:29 GMT | The Ultimate Cybersecurity Fundamentals Study Guide: Ace Your ISACA Certification | Kahyagil mete | [Read More](https://medium.com/p/eb00278fc784) |
+| Mon, 02 Jun 2025 07:47:24 GMT | Mobil Uygulamalarda İzinler: Kullanıcılar Gerçekte Ne Onaylıyor? | UniVerse | [Read More](https://medium.com/p/4616381ad138) |
+| Mon, 02 Jun 2025 07:41:28 GMT | Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/814350114a38) |
 | Mon, 02 Jun 2025 07:36:55 GMT | Let me see . . . | Sébastien ️ | [Read More](https://medium.com/p/5c91fb4361f5) |
 | Mon, 02 Jun 2025 07:35:37 GMT | Web Application Penetration Testing CTF 1 (eCPPTv3) write-up | d4rkcl0ud | [Read More](https://medium.com/p/6d782a14e223) |
 | Mon, 02 Jun 2025 07:34:48 GMT | 30 Days of Cyber Security — Day 7: Linux, The Super OS | Indra Rahmat Maulidi | [Read More](https://medium.com/p/32690b5dcf64) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 23:44:40 GMT | Rethinking Masculinity and Grief | Cecil Ato Kwamena Dadzie | [Read More](https://medium.com/p/33fcaac1ec20) |
 | Sun, 01 Jun 2025 23:31:09 GMT | THM Lab — Benign | Chai | [Read More](https://medium.com/p/15c959fc135d) |
 | Sun, 01 Jun 2025 23:27:04 GMT | Supercharge Your Vulnerability Fixes: How GitHub Copilot Agent Mode Became My Secret Weapon | Martin  Thomas | [Read More](https://medium.com/p/2c146bd391e1) |
-| Sun, 01 Jun 2025 23:24:08 GMT | How to prepare for IT certifications with AI? Student Bluebook. | Ilya Smut | [Read More](https://medium.com/p/b77717236899) |
-| Sun, 01 Jun 2025 23:11:39 GMT | Understanding Ethical Hacking Concepts | Md. Rumon Munshi | [Read More](https://medium.com/p/847ad6a1744f) |
-| Sun, 01 Jun 2025 23:10:47 GMT | How I Built a Real-Time Credit Card Fraud Detection System with Machine Learning | Timothy Kimutai | [Read More](https://medium.com/p/80000fbd33de) |
-| Sun, 01 Jun 2025 23:09:59 GMT | AI-Generated Videos Are Getting Too Good — And That’s a Problem | Mateo Cruz | [Read More](https://medium.com/p/63776005cd1f) |
-| Sun, 01 Jun 2025 23:09:19 GMT | Logged in Without Logging In: A $xxx Improper Authentication Flaw in TVA’s Portal | Monika sharma | [Read More](https://medium.com/p/4c54c87bd512) |
-| Sun, 01 Jun 2025 23:02:32 GMT | TryHackMe — Warzone 1 Room Walkthrough | Drew Arpino | [Read More](https://medium.com/p/215e1a92134b) |
-| Sun, 01 Jun 2025 22:53:33 GMT | Cybersecurity Awareness: Understanding the Digital World and Staying Safe in It | Gbemisola Esho | [Read More](https://medium.com/p/81c602c0402b) |
-| Sun, 01 Jun 2025 22:41:55 GMT | A Sunday for the History Books: Drones, Chess, and a 2:30 AM Writing Debut | Nikhil | [Read More](https://medium.com/p/6ad52d63b47c) |
-| Sun, 01 Jun 2025 22:41:33 GMT | Enso: Accelerating Visual Programming with Shortcuts | Murphy | [Read More](https://medium.com/p/23696cbdfcca) |
-| Sun, 01 Jun 2025 22:32:32 GMT | ICE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/eac10d21d81a) |
