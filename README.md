@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 14:35:26 GMT | Essential Windows Evasion Techniques | S12 - H4CK | [Read More](https://medium.com/p/c8721656674f) |
+| Mon, 02 Jun 2025 14:31:49 GMT | Smart Contract Audit Nedir? Neden Kritik Öneme Sahip? | BeosinTR | [Read More](https://medium.com/p/52e483a34fe2) |
+| Mon, 02 Jun 2025 14:29:44 GMT | ⚔️ Laying the Groundwork for iOS and general computer Exploitation: Stack and process definition | Nextk | [Read More](https://medium.com/p/612436c40d14) |
+| Mon, 02 Jun 2025 14:29:06 GMT | Smart Perimeter Defense | Presslink Media | [Read More](https://medium.com/p/b214f8dc9705) |
+| Mon, 02 Jun 2025 14:25:51 GMT | Increase Your LunaFi $LFI Rewards in 2025 | $LFI LunaFi Community Rewards | [Read More](https://medium.com/p/c55234e1649a) |
+| Mon, 02 Jun 2025 14:25:34 GMT | How I Plan to Become a Digital Fortress Architect in 5 Years | Angga Eben Ezer | [Read More](https://medium.com/p/deb2fd420a6c) |
 | Mon, 02 Jun 2025 14:06:34 GMT | Vulnerability Assessment Explained: Identify and Fix Security Flaws | Ampcus Cyber | [Read More](https://medium.com/p/3a31dca703bc) |
 | Mon, 02 Jun 2025 14:00:53 GMT | Cyber Briefing: 2025.06.02 | CyberMaterial | [Read More](https://medium.com/p/18d370459ba5) |
 | Mon, 02 Jun 2025 14:00:25 GMT | Basic Cyber Security️ | BrainTrust_ | [Read More](https://medium.com/p/7e634d503682) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 09:05:55 GMT | China’s Earth Lamia Cyber Espionage Group Poses Growing Threat to Indonesia’s Critical… | MITRE Doggy | [Read More](https://medium.com/p/2db475bb9e4b) |
 | Mon, 02 Jun 2025 09:05:14 GMT | Understanding SWIFT CSP: Key Updates in 2025 | Biz Serve IT | [Read More](https://medium.com/p/02dd9fedd480) |
 | Mon, 02 Jun 2025 09:02:33 GMT | What is GRC? A Beginners Guide | Harry West | [Read More](https://medium.com/p/182bc2e57d87) |
-| Mon, 02 Jun 2025 09:02:16 GMT | The Data Dilemma: Why Nonprofits Must Prioritize Secure and Modern Data Practices | The Green Watchdog | [Read More](https://medium.com/p/ce67e2261428) |
-| Mon, 02 Jun 2025 09:00:47 GMT | Do you know your Detection Surface? | Rcegan | [Read More](https://medium.com/p/8981289b0d25) |
-| Mon, 02 Jun 2025 08:56:31 GMT | eJPT - 1.4 Vulnerability Assessment | Hammaad M | [Read More](https://medium.com/p/64d7bb0e255e) |
-| Mon, 02 Jun 2025 08:55:26 GMT | Laika AI and Cardexo Launch Groundbreaking $LKI-Powered Mastercard: A New Era of Web3 Utility… | CryptoDof | [Read More](https://medium.com/p/97f40a781342) |
-| Mon, 02 Jun 2025 08:53:50 GMT | India, Wake Up! These 5 New Scams Are Ruining Lives, Don’t Be the Next Victim | Karan Panchal | [Read More](https://medium.com/p/70509a22e4b3) |
-| Mon, 02 Jun 2025 08:47:06 GMT | NATO DIANA unveils 10 new challenges to accelerate dual-use technology breakthroughs | DIANA: Dual Use Innovation | [Read More](https://medium.com/p/c690bad56c90) |
