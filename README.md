@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 07:36:55 GMT | Let me see . . . | Sébastien ️ | [Read More](https://medium.com/p/5c91fb4361f5) |
+| Mon, 02 Jun 2025 07:35:37 GMT | Web Application Penetration Testing CTF 1 (eCPPTv3) write-up | d4rkcl0ud | [Read More](https://medium.com/p/6d782a14e223) |
+| Mon, 02 Jun 2025 07:34:48 GMT | 30 Days of Cyber Security — Day 7: Linux, The Super OS | Indra Rahmat Maulidi | [Read More](https://medium.com/p/32690b5dcf64) |
+| Mon, 02 Jun 2025 07:32:30 GMT | Top XSS POCs that made $50000 | It4chis3c | [Read More](https://medium.com/p/1691200eb599) |
+| Mon, 02 Jun 2025 07:31:00 GMT | ️ How Hackers Can Hijack Your Phone Using WhatsApp Images; And How to Stay Safe | Subigya Ghimire | [Read More](https://medium.com/p/1a04f0549545) |
+| Mon, 02 Jun 2025 07:30:33 GMT | Unmasking Lumma InfoStealer: A Deep Dive into Obfuscation, API Hashing, and Data Theft at Scale | CyDhaal | [Read More](https://medium.com/p/f992e1d7a938) |
+| Mon, 02 Jun 2025 07:29:16 GMT | ️ Inside the Marks & Spencer Cyberattack: How Scattered Spider Crippled a British Retail Icon | Ankit Sharma | [Read More](https://medium.com/p/266e3624c475) |
+| Mon, 02 Jun 2025 07:27:35 GMT | AI in Cybersecurity: Enhancing Threat Detection | Rana Mohsin | [Read More](https://medium.com/p/578b4774ce5c) |
+| Mon, 02 Jun 2025 07:27:25 GMT | The Room That Didn’t Hold Me | Rabab -Healthcare data Scientist ‍ | [Read More](https://medium.com/p/516ff5c035f5) |
+| Mon, 02 Jun 2025 07:22:44 GMT | "Not Just the Titanic" – A Poetry for Every Human Soul | Minaari | [Read More](https://medium.com/p/f74f1b277b6b) |
+| Mon, 02 Jun 2025 07:19:11 GMT | Secure Your Kubernetes Access with kubectl-rexec Plugin | Pawan Jaiswal | [Read More](https://medium.com/p/44d0ae9bcdec) |
+| Mon, 02 Jun 2025 07:16:43 GMT | Global Alert: Apple Urges Immediate iOS 18.5 Update to Address Critical Security Vulnerability | Virtual Cyber Labs | [Read More](https://medium.com/p/90ebecc3854b) |
+| Mon, 02 Jun 2025 07:14:45 GMT | The Difference Between Privacy and Secrecy | Cat Milton | [Read More](https://medium.com/p/1a91278fc248) |
 | Mon, 02 Jun 2025 06:51:45 GMT | Key things to know before Starting Bug bounty hunting journey | GABBYTECH | [Read More](https://medium.com/p/d52cd6ffc2bd) |
 | Mon, 02 Jun 2025 06:41:12 GMT | Ethical Hacking Bootcamps: Are They Worth It? | Seonaissac | [Read More](https://medium.com/p/a38977121ccd) |
 | Mon, 02 Jun 2025 06:38:01 GMT | OSWE Web Hacking Tips (IPPSEC): My Study Journey #1 | Anezaneo | [Read More](https://medium.com/p/4455f8bc7428) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 22:41:55 GMT | A Sunday for the History Books: Drones, Chess, and a 2:30 AM Writing Debut | Nikhil | [Read More](https://medium.com/p/6ad52d63b47c) |
 | Sun, 01 Jun 2025 22:41:33 GMT | Enso: Accelerating Visual Programming with Shortcuts | Murphy | [Read More](https://medium.com/p/23696cbdfcca) |
 | Sun, 01 Jun 2025 22:32:32 GMT | ICE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/eac10d21d81a) |
-| Sun, 01 Jun 2025 22:28:05 GMT | Every Word You Type is Being Stolen… The Insidious Google Keyboard | HarryHTML | [Read More](https://medium.com/p/652d4de8712b) |
-| Sun, 01 Jun 2025 22:23:30 GMT | Policing the Future: How AI, Robots, and Surveillance Tech Threaten Civil Liberties | Mateo Cruz | [Read More](https://medium.com/p/4173f96febcd) |
-| Sun, 01 Jun 2025 21:54:58 GMT | The Silent Crisis: Rediscovering Masculinity Beyond Success | LolA | [Read More](https://medium.com/p/aca913341d2e) |
-| Sun, 01 Jun 2025 21:35:48 GMT | Can a Penetration Test Prevent Ransomware? What Most Companies Miss | Jason | [Read More](https://medium.com/p/2609cb107368) |
-| Sun, 01 Jun 2025 21:32:44 GMT | What is Kerberoasting? | Jason | [Read More](https://medium.com/p/0207e37ff929) |
-| Sun, 01 Jun 2025 21:27:05 GMT | Siber Güvenlikte Popülerizm ve Lobicilik: Bilginin Gücünü Kimin Eline Veriyoruz? | Evrenos Bey | [Read More](https://medium.com/p/e7c3fcb4c394) |
-| Sun, 01 Jun 2025 21:22:45 GMT | Sunday Reflection: The AI That Showed Me My Armor | Raymond Brunell | [Read More](https://medium.com/p/443617a13ade) |
-| Sun, 01 Jun 2025 21:22:04 GMT | Malware Through Time: A Chronological Breakdown | Mike Anthony | [Read More](https://medium.com/p/523f0ff1c13f) |
-| Sun, 01 Jun 2025 21:13:30 GMT | What is DOM? | Kutay Yılmaz | [Read More](https://medium.com/p/ef105092222c) |
-| Sun, 01 Jun 2025 21:12:14 GMT | Week 6: Port Security | Kwamz | [Read More](https://medium.com/p/d4083458105e) |
-| Sun, 01 Jun 2025 21:09:05 GMT | On Rainy Days Like This | Odyssey of Silence | [Read More](https://medium.com/p/8ef77b02cbfa) |
-| Sun, 01 Jun 2025 21:08:23 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 6: Memahami… | DhiasCode | [Read More](https://medium.com/p/0f9fff02aec4) |
-| Sun, 01 Jun 2025 20:55:20 GMT | ️ The Smart Contract Hunter’s Playbook: Clone, Analyze, Exploit | Martin Pál | [Read More](https://medium.com/p/0b5d61049a61) |
