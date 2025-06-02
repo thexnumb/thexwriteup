@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 10:38:26 GMT | TheHackersLabs — ShadowGate | APS88 | [Read More](https://medium.com/p/edac3bae57b8) |
+| Mon, 02 Jun 2025 10:34:00 GMT | The Ultimate Guide to ETGRM | Laiba Waseem | [Read More](https://medium.com/p/7ced091b15f2) |
+| Mon, 02 Jun 2025 10:22:37 GMT | Silent Breach Lab | lhxecutable | [Read More](https://medium.com/p/421e8197df1c) |
 | Mon, 02 Jun 2025 10:18:06 GMT | The Real Cost of Not Protecting Prison Officers | PPSS Group | [Read More](https://medium.com/p/c4239886bcc1) |
 | Mon, 02 Jun 2025 10:11:39 GMT | How Smart People Fall for Sophisticated Scams | Karl Buhl | [Read More](https://medium.com/p/9a507e89d34e) |
 | Mon, 02 Jun 2025 10:11:27 GMT | ,  … | Cláudio Coelho | [Read More](https://medium.com/p/3cb1fdc5c8ff) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 05:25:44 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 7… | DhiasCode | [Read More](https://medium.com/p/7ce3ef5c859e) |
 | Mon, 02 Jun 2025 05:17:02 GMT | University Cybersecurity Project: A Comprehensive Incident Response | Tony Maunu | [Read More](https://medium.com/p/d4c10dfb2982) |
 | Mon, 02 Jun 2025 05:14:54 GMT | The Digital Love Affair: Why Your Devices Need Boundaries (and Perhaps a Therapist). | The Security Alchemist | [Read More](https://medium.com/p/f9fbddb1f9ae) |
-| Mon, 02 Jun 2025 05:08:27 GMT | Online Cybersecurity Courses in Calicut Learn Ethical Hacking from Experts | Bivek raj | [Read More](https://medium.com/p/0570f0468c26) |
-| Mon, 02 Jun 2025 05:02:33 GMT | Cyber Gauntlet: A Pen Tester’s Saga Through 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/344f225922b8) |
-| Mon, 02 Jun 2025 05:02:32 GMT | How AI Can Be Weaponized: The Dark Side of Artificial Intelligence | Tech Security | [Read More](https://medium.com/p/b28444344b9f) |
