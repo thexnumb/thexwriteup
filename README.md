@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 17:35:57 GMT | Siber Güvenliğe Giriş — 4( TCP/IP (Transmission Control Protocol / Internet Protocol) | Emre TOPUZ | [Read More](https://medium.com/p/d922c651f3b2) |
+| Mon, 02 Jun 2025 17:35:05 GMT | Quantum Computers: Can You Protect Your Digital Assets from Them? | Jim Anderson | [Read More](https://medium.com/p/515ed0ef68e2) |
+| Mon, 02 Jun 2025 17:34:05 GMT | Siber Güvenliğe Giriş — 3 ( OSI (OPEN SYSTEMS INTERCONNECTION) REFERANS MODELİ) | Emre TOPUZ | [Read More](https://medium.com/p/bd4a7c9b3b22) |
+| Mon, 02 Jun 2025 17:33:21 GMT | Building a Cybersecurity Lab: Complete Ubuntu Virtualization Guide | David Ramovich Mandal | [Read More](https://medium.com/p/e252ef35ad3d) |
+| Mon, 02 Jun 2025 17:31:24 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/c76818409b76) |
+| Mon, 02 Jun 2025 17:25:29 GMT | AI in Cybersecurity: Defending Against Evolving Threats | Sachin Kumar | [Read More](https://medium.com/p/ee0d2daaa3cd) |
+| Mon, 02 Jun 2025 17:22:26 GMT | Why AI Audits Might Be Better Than Human Ones | PEPESEC AI | [Read More](https://medium.com/p/2f199413ef93) |
+| Mon, 02 Jun 2025 17:16:53 GMT | BeanStalk_secrets Cloudgoat walkthrough | Abhishek Gupta | [Read More](https://medium.com/p/7b535e34c5fe) |
+| Mon, 02 Jun 2025 17:16:39 GMT | When Trust Breaks Down: The Growing Crisis of Unauthorised Payments and How to Prevent Digital… | Michael Yiin | [Read More](https://medium.com/p/1dd426374b03) |
+| Mon, 02 Jun 2025 17:15:09 GMT | Linux Fundamentals -HackTheBox | Nyaboke | [Read More](https://medium.com/p/339e027d4bd0) |
+| Mon, 02 Jun 2025 17:10:28 GMT | We don’t just build software — we build solutions that scale. | Virtus Solutions | [Read More](https://medium.com/p/35f6029ebbd7) |
 | Mon, 02 Jun 2025 17:09:40 GMT | Gen Z Can’t Flirt Without A Meme | Jiya Tanna | [Read More](https://medium.com/p/dc0744c34763) |
 | Mon, 02 Jun 2025 17:04:47 GMT | Data Masking vs Tokenization: Which One Fits Your Data Protection Needs? | SafeAeon Inc. | [Read More](https://medium.com/p/fe158e9033ee) |
 | Mon, 02 Jun 2025 17:02:42 GMT | Don’t Let Ransomware Win: Smart Ways to Keep Your Data Safe | Akshay Chauhan | [Read More](https://medium.com/p/19b16fd53962) |
@@ -52,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 15:27:12 GMT | Navigating the Digital Frontier: Hacking, Virtual Machines, Linux, and Networking | Vimal John M V | [Read More](https://medium.com/p/2a99b933e4a8) |
 | Mon, 02 Jun 2025 15:21:59 GMT | My Preparation for the OSCP Exam | Nathan Martin | [Read More](https://medium.com/p/33df48c2072d) |
 | Mon, 02 Jun 2025 15:12:58 GMT | Your Password Policy Sucks | .com software | [Read More](https://medium.com/p/219d282800e7) |
+| Mon, 02 Jun 2025 15:12:27 GMT | Seeing the Forest and the Trees: A Philosophy for Cybersecurity Management | Entropy of the Observer | [Read More](https://medium.com/p/9e3beb88f2c9) |
 | Mon, 02 Jun 2025 15:07:14 GMT | ICS/SCADA: Jantung Infrastruktur Kritis dan Ancaman Siber yang Mengintai | Wafa | [Read More](https://medium.com/p/94bce2c64b8d) |
 | Mon, 02 Jun 2025 14:57:01 GMT | Sterling Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/dd8a8cdd3ee4) |
 | Mon, 02 Jun 2025 14:56:12 GMT | Hackers Don’t Guess Your Password — They Build It. | Sam Galope | [Read More](https://medium.com/p/0ff7714c3184) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 12:46:26 GMT | Advanced XSS Payload PoC — Trust Boundary Bypass via HTML Injection | CyberTechAjju | [Read More](https://medium.com/p/77d5c70a58fc) |
 | Mon, 02 Jun 2025 12:44:23 GMT | Cyber Fatigue Is Real: Why Awareness Isn’t Enough Anymore | Cybersecurity Umbrella | [Read More](https://medium.com/p/f8171566f742) |
 | Mon, 02 Jun 2025 12:41:39 GMT | Best In Crpto Re | Norman Meg | [Read More](https://medium.com/p/beb4d921022b) |
-| Mon, 02 Jun 2025 12:15:25 GMT | How to Build a WAF Detection System: ModSecurity + NGINX + ELK MONITORING (Detection Engineering… | Zyad Waleed Elzyat | [Read More](https://medium.com/p/9ebfc544b4ec) |
-| Mon, 02 Jun 2025 12:14:46 GMT | This Is What Emotional Safety Actually Feels Like | Rumin Talks | [Read More](https://medium.com/p/3fbf5a56a14c) |
-| Mon, 02 Jun 2025 12:06:13 GMT | Advanced XSS Payload Write-Up: DOM Injection via Chatbot / HTML Content Fields | CyberTechAjju | [Read More](https://medium.com/p/198114df92b4) |
-| Mon, 02 Jun 2025 12:05:31 GMT | MirageDocs: Anonymous & Self-Destructing Document Sharing | Sami | [Read More](https://medium.com/p/642ccd32368c) |
-| Mon, 02 Jun 2025 12:04:30 GMT | Maximize Your Passive Income with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/5c36da46d061) |
-| Mon, 02 Jun 2025 12:03:47 GMT | How I Found a $9,762 Bug with Simple Subdomain Fuzzing | Ibtissam hammadi | [Read More](https://medium.com/p/1d9f59481d10) |
-| Mon, 02 Jun 2025 11:58:53 GMT | Critical vBulletin Vulnerability: Expert IT Security Analysis and Professional Response Strategies | Technijian | [Read More](https://medium.com/p/10d7a0d602d9) |
-| Mon, 02 Jun 2025 11:58:26 GMT | Fake Recruiter Emails Target CFOs with Sophisticated Phishing Attack | Srinivasps | [Read More](https://medium.com/p/1e52bb62a9a4) |
-| Mon, 02 Jun 2025 11:57:48 GMT | Emerging PureHVNC RAT Malware Campaign Exploiting Job Offer Lures Impacts Indonesia’s Cybersecurity… | MITRE Doggy | [Read More](https://medium.com/p/b9c189748dd7) |
-| Mon, 02 Jun 2025 11:54:04 GMT | We haven’t got enough air. | Shobande Daniel Oluwadamisi | [Read More](https://medium.com/p/d3c0e57eadf0) |
-| Mon, 02 Jun 2025 11:48:26 GMT | How Can I withdraw My Money From Bullwaves ? | Kelly | [Read More](https://medium.com/p/b89b7c7f8f17) |
-| Mon, 02 Jun 2025 11:46:54 GMT | Why Sharing Your Flaws Can Make You More Influential | Senorita Eugenia | [Read More](https://medium.com/p/04161559f198) |
