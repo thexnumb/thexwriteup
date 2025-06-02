@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 03:37:15 GMT | blogging or bragging? on ego and doubts | Make With James | [Read More](https://medium.com/p/201b844c85db) |
+| Mon, 02 Jun 2025 03:32:29 GMT | TsarBot Malware: The Sophisticated Android Threat Targeting 750+ Financial and Crypto Apps | Deven Chhajed | [Read More](https://medium.com/p/f1650777ad9e) |
+| Mon, 02 Jun 2025 03:18:06 GMT | DNS Demystified: Understanding Forward, Reverse, and the Backbone of the Internet | Ersad Muçollari | [Read More](https://medium.com/p/dfded0f70674) |
 | Mon, 02 Jun 2025 03:08:56 GMT | Reconciliation | Krishna | [Read More](https://medium.com/p/5f0c8763126a) |
 | Mon, 02 Jun 2025 03:01:01 GMT | Anti-Forensic Techniques to Cover Your Tracks | z3r0trust | [Read More](https://medium.com/p/95792216a9cd) |
 | Mon, 02 Jun 2025 02:50:26 GMT | How Can Cyber Security Monitoring Services Help Beat Competition? | Cyberextent | [Read More](https://medium.com/p/3ea0f2ac54d4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 17:42:19 GMT | Why Security Needs Systems Thinking | Kristin Dahl | [Read More](https://medium.com/p/94bf9c01c45e) |
 | Sun, 01 Jun 2025 17:39:29 GMT | A Storytellers Gift | Stefanie K | [Read More](https://medium.com/p/bdb7e680ecb9) |
 | Sun, 01 Jun 2025 17:28:42 GMT | Use API keys to access Gemini models in Google Cloud | Raj Duraisamy | [Read More](https://medium.com/p/bc0ec296d87c) |
-| Sun, 01 Jun 2025 17:28:15 GMT | The CIA Triad in Cybersecurity | Ar Sijan Official | [Read More](https://medium.com/p/0a9469f0964d) |
-| Sun, 01 Jun 2025 17:26:28 GMT | Chapter 5: (Task Management System) — Enhancing the Backend with Authentication Middleware and Task… | Natarajan C K | [Read More](https://medium.com/p/0500fc08f6c0) |
-| Sun, 01 Jun 2025 17:23:42 GMT | A CSRF Story I Encountered on My Bug Bounty Journey | Enes Özlek | [Read More](https://medium.com/p/6a037b4025ee) |
