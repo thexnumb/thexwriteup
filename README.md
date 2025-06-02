@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 06:30:33 GMT | Easiest Bug: Improper Token invalidation. | Gr3yG05T | [Read More](https://medium.com/p/378e1bc60d94) |
+| Mon, 02 Jun 2025 06:25:17 GMT | Security Testing Market Size, Share, Key Drivers, Growth Opportunities and Global Trends 2032 | Mark | [Read More](https://medium.com/p/0e05127bfedb) |
+| Mon, 02 Jun 2025 06:22:37 GMT | Understanding Single Sign-On (SSO): A Streamlined Approach to Authentication | Double Pointer | [Read More](https://medium.com/p/5f941b342950) |
+| Mon, 02 Jun 2025 06:21:52 GMT | We Are In Love But We Keep Hurting Each Other Without Meaning To. | PromiseOsas | [Read More](https://medium.com/p/35a435993773) |
+| Mon, 02 Jun 2025 06:19:44 GMT | Threat Detection Using Behavioural Analytics: A Practical Guide for SOC Teams | Paritosh | [Read More](https://medium.com/p/265e75ceba42) |
+| Mon, 02 Jun 2025 06:18:31 GMT | Track the Hacks: Introduction to Computer Forensic | byuda | [Read More](https://medium.com/p/7f5aa2b668b1) |
+| Mon, 02 Jun 2025 06:14:53 GMT | My AndroGoat Journey: Binary Patching for Admin Access | Damara Brian | [Read More](https://medium.com/p/830ab9d9e21f) |
+| Mon, 02 Jun 2025 06:14:23 GMT | My AndroGoat Journey: Bypassing Emulator Detection | Damara Brian | [Read More](https://medium.com/p/6f5b5f8e1d3d) |
+| Mon, 02 Jun 2025 06:13:45 GMT | My AndroGoat Journey: Bypassing Root Detection | Damara Brian | [Read More](https://medium.com/p/fa1d4327c187) |
+| Mon, 02 Jun 2025 06:12:38 GMT | Cyber Security Protection | Tobias Mathew | [Read More](https://medium.com/p/25cd51a4596f) |
+| Mon, 02 Jun 2025 06:10:21 GMT | 50 Advanced Pentesting One-Liners You Need | Pratham Shah | [Read More](https://medium.com/p/1547f1e86d4e) |
+| Mon, 02 Jun 2025 06:09:40 GMT | CertGames vs. CyberExamPrep: Which is the Smarter Choice for Security+ Certification Prep? | Carter Perez | [Read More](https://medium.com/p/e7a64f3eda24) |
+| Mon, 02 Jun 2025 06:02:32 GMT | The Early Retirement Code: What 50 People Who Retired Before 40 Did Differently | Comfy Blogging | [Read More](https://medium.com/p/c9d9d90e100a) |
+| Mon, 02 Jun 2025 06:02:29 GMT | HuluCaptcha — An example of a FakeCaptcha framework | Gi7w0rm | [Read More](https://medium.com/p/9f50eeeb2e6d) |
+| Mon, 02 Jun 2025 05:56:20 GMT | Understanding Cyber Security: Protecting the Digital Frontier | Globtier Infotech | [Read More](https://medium.com/p/84f37cd7ee88) |
+| Mon, 02 Jun 2025 05:54:57 GMT | 20+ Strong Password Examples: A Simple Guide to Keeping Your Accounts Safe | Tahashaikhseo | [Read More](https://medium.com/p/b0672ff1fddf) |
+| Mon, 02 Jun 2025 05:43:51 GMT | Hacking Retro Games with Python and OpenCV | tk.dev | [Read More](https://medium.com/p/81e8646c4abc) |
+| Mon, 02 Jun 2025 05:40:26 GMT | The Crucial Role of Traffic Counting Surveys in KSA Urban Planning | Tekhabeeb | [Read More](https://medium.com/p/989d3fb6f8d9) |
+| Mon, 02 Jun 2025 05:37:23 GMT | The Future of Security: How Biometrics Are Shaping Smart Living with Nestron | Nestrondigitalhub | [Read More](https://medium.com/p/3cad5af7d667) |
 | Mon, 02 Jun 2025 05:35:22 GMT | SaaS Cybersecurity in 2025: Best Practices & Key Threats | Roll Consults | [Read More](https://medium.com/p/a025f2df0267) |
 | Mon, 02 Jun 2025 05:35:11 GMT | Top 5 Access Management Tools to Safeguard Your Digital Enterprise | Gauri Kale | [Read More](https://medium.com/p/1770f2802f74) |
 | Mon, 02 Jun 2025 05:26:01 GMT | Level Up in Cybersecurity with a Globally Recognized CEH Course | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/9af41ea4c585) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 20:25:38 GMT | Learning YARA: A Beginner SOC Analyst’s Notes | Corey Jones | [Read More](https://medium.com/p/e0de4b3e2cd1) |
 | Sun, 01 Jun 2025 20:25:15 GMT | Forage Commonwealth Bank Job Simulation: Cybersecurity | Shamar Isaac | [Read More](https://medium.com/p/df6fb54f4809) |
 | Sun, 01 Jun 2025 20:22:16 GMT | Cork Protocol Exploited for $12M in wstETH via Fake Tokens | CyberLucifer | [Read More](https://medium.com/p/4dad0f83485d) |
-| Sun, 01 Jun 2025 20:14:10 GMT | Is Your Smart Fridge Helping Hackers While You Shop for Pajama Pants? | Tina Ginn | [Read More](https://medium.com/p/6b2c5a0da7f5) |
-| Sun, 01 Jun 2025 20:13:54 GMT | Penetration Testing: Brute Force | Anthony Sigid | [Read More](https://medium.com/p/69ba2822c26b) |
-| Sun, 01 Jun 2025 20:11:01 GMT | Windows Fundamentals -HTB Academy | Nyaboke | [Read More](https://medium.com/p/e41a3348093e) |
-| Sun, 01 Jun 2025 19:55:20 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/e2491acf2736) |
-| Sun, 01 Jun 2025 19:54:41 GMT | Active Directory Reconnaissance Techniques and Detection | Parviz Salmanov | [Read More](https://medium.com/p/50e0bdeff378) |
-| Sun, 01 Jun 2025 19:52:29 GMT | ¿Por qué es importante reportar los incidentes de seguridad? | Tiziano Mass | [Read More](https://medium.com/p/979cd7a161c8) |
-| Sun, 01 Jun 2025 19:47:09 GMT | Crypto Hackers Bagged $244M in May But There’s a Plot Twist You Didn’t See Coming | CoinGen | [Read More](https://medium.com/p/56931ef3289b) |
-| Sun, 01 Jun 2025 19:44:21 GMT | A Beginner’s Guide to Setting Up VirtualBox from Scratch | Ebenezer Hans Mensah | [Read More](https://medium.com/p/53e20ce242e5) |
-| Sun, 01 Jun 2025 19:40:24 GMT | Leveraging Historic Data for Cyber Resiliency | Rye Overly | [Read More](https://medium.com/p/9514d34a00d7) |
-| Sun, 01 Jun 2025 19:33:36 GMT | Intro to LAN | Cheryl Maise Lobo | [Read More](https://medium.com/p/f664bdcec1a7) |
-| Sun, 01 Jun 2025 19:17:07 GMT | Cisco IOS XE Arbitrary File Upload Vulnerability Exploited | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/ec39cc742302) |
-| Sun, 01 Jun 2025 19:04:11 GMT | XSS Attacks: When Websites Start Speaking in Tongues | Rageeth | [Read More](https://medium.com/p/9f40e44a19b4) |
-| Sun, 01 Jun 2025 18:58:32 GMT | Inside the $200M Romance Baiting Scam: How Funnull’s Infrastructure Fueled Crypto Fraud at Scale. | UnknwnSaber | [Read More](https://medium.com/p/15832c7f8b91) |
-| Sun, 01 Jun 2025 18:58:23 GMT | Laporan Insiden: Infeksi Malware dan Aktivitas Jaringan Mencurigakan | kumpulantugasaing | [Read More](https://medium.com/p/dad6c39c0062) |
-| Sun, 01 Jun 2025 18:58:00 GMT | Kali Linux Bindshell vulnerability exploitation | GNINGHAYE GUEMANDEU Malcolmx Hassler | [Read More](https://medium.com/p/ad8e8469df25) |
-| Sun, 01 Jun 2025 18:51:49 GMT | The Ultimate Guide to Starting a Career in Website Application Bug Bounty Hunting ( For Absolute… | 40sp3l | [Read More](https://medium.com/p/760fc66d3fca) |
-| Sun, 01 Jun 2025 18:50:12 GMT | Information Security Management Systems — For those studying HND Computing | Talal Tanveer | [Read More](https://medium.com/p/ba864b6aae99) |
-| Sun, 01 Jun 2025 18:48:06 GMT | Breaking RC4 With Key Reuse — a Rust Implementation and Attack Demo | Declan | [Read More](https://medium.com/p/84036b9d13b7) |
-| Sun, 01 Jun 2025 18:46:51 GMT | How to find Jupyter Notebook RCE manually? | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/4fb337998dc1) |
