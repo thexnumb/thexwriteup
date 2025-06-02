@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 10:18:06 GMT | The Real Cost of Not Protecting Prison Officers | PPSS Group | [Read More](https://medium.com/p/c4239886bcc1) |
+| Mon, 02 Jun 2025 10:11:39 GMT | How Smart People Fall for Sophisticated Scams | Karl Buhl | [Read More](https://medium.com/p/9a507e89d34e) |
+| Mon, 02 Jun 2025 10:11:27 GMT | ,  … | Cláudio Coelho | [Read More](https://medium.com/p/3cb1fdc5c8ff) |
+| Mon, 02 Jun 2025 10:08:37 GMT | How I Installed Kali NetHunter on My Android Without Rooting (And Lived to Tell the Tale) | Aren Redd | [Read More](https://medium.com/p/c43a82768f10) |
+| Mon, 02 Jun 2025 10:04:29 GMT | SQL Injection — Lab 2 | xk4libur | [Read More](https://medium.com/p/77ffab7a4691) |
+| Mon, 02 Jun 2025 10:03:04 GMT | 7 Best Compliance Software for SaaS Companies in 2025 | SecureSlate | [Read More](https://medium.com/p/834f3ffb0645) |
+| Mon, 02 Jun 2025 10:00:46 GMT | Buying A Security Robot - A Guide | Marcus Koehnlein | [Read More](https://medium.com/p/f284e7093341) |
+| Mon, 02 Jun 2025 09:57:22 GMT | Which Country Will Lead on Post-Quantum Blockchain Regulation? | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/1dce673a8b13) |
+| Mon, 02 Jun 2025 09:53:24 GMT | Think Like a Hacker, Defend Like a Pro Top Cybersecurity Course in Kochi & Ernakulam | RedTeamsaniga Suresh | [Read More](https://medium.com/p/4efe4028dbb6) |
+| Mon, 02 Jun 2025 09:51:49 GMT | ️ Title: The Me Nobody Sees | C. Pen - Crowned Soul | [Read More](https://medium.com/p/477f552574a5) |
+| Mon, 02 Jun 2025 09:46:35 GMT | It’s impossible to eliminate risk | Jenny Feneley | [Read More](https://medium.com/p/f43ddf94c542) |
+| Mon, 02 Jun 2025 09:40:56 GMT | How I found my security calling at Alan | Chaïmaa Kadaoui | [Read More](https://medium.com/p/4433f75378f1) |
 | Mon, 02 Jun 2025 09:32:14 GMT | Testing an Infostealer in a Controlled Environment with CrowdStrike Sensors | Gilang Rama | [Read More](https://medium.com/p/1919c6b4d777) |
 | Mon, 02 Jun 2025 09:31:58 GMT | ⚠️ Critical 0-Click Vulnerability in Firefox via libvpx: What You Need to Know | Infoziant | [Read More](https://medium.com/p/aacae19250b2) |
 | Mon, 02 Jun 2025 09:19:05 GMT | Why getline() Doesn’t Work After cin — and How to Fix It | Pratham Gupta | [Read More](https://medium.com/p/1a29a31e5b08) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 05:08:27 GMT | Online Cybersecurity Courses in Calicut Learn Ethical Hacking from Experts | Bivek raj | [Read More](https://medium.com/p/0570f0468c26) |
 | Mon, 02 Jun 2025 05:02:33 GMT | Cyber Gauntlet: A Pen Tester’s Saga Through 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/344f225922b8) |
 | Mon, 02 Jun 2025 05:02:32 GMT | How AI Can Be Weaponized: The Dark Side of Artificial Intelligence | Tech Security | [Read More](https://medium.com/p/b28444344b9f) |
-| Mon, 02 Jun 2025 04:58:35 GMT | SQL Server 2022 Standard with 5 Device CAL: A Scalable, Secure, and Efficient Database Solution for… | Roshan Karki | [Read More](https://medium.com/p/fb77c3ab5856) |
-| Mon, 02 Jun 2025 04:46:08 GMT | The Future of Ethical Hacking Careers — Insights from the No 1 Cybersecurity Institute in India | Bivek raj | [Read More](https://medium.com/p/316271b441ed) |
-| Mon, 02 Jun 2025 04:41:51 GMT | Splunk: Basics. Tryhackme Room Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/c70938ed7705) |
-| Mon, 02 Jun 2025 04:39:16 GMT | Cybersecurity | Alan Shinto | [Read More](https://medium.com/p/934c93189b0d) |
-| Mon, 02 Jun 2025 04:21:19 GMT | The Cyber Threat Intelligence Lifecycle: From Chaos to Clarity | Shubhamitaliya | [Read More](https://medium.com/p/a662f54be0aa) |
-| Mon, 02 Jun 2025 04:18:44 GMT | Implementing SIEM and SOAR platforms — Australian Signals Directorate | SOCFortress | [Read More](https://medium.com/p/68da2189d10d) |
-| Mon, 02 Jun 2025 04:10:33 GMT | When Vulnerability Becomes Your Armor | Isla Hendricks | [Read More](https://medium.com/p/ebbec753d049) |
-| Mon, 02 Jun 2025 04:09:30 GMT | DOM XSS via postMessage: JavaScript Injection Inside Iframes | Bash Overflow | [Read More](https://medium.com/p/8a5f6912fba4) |
-| Mon, 02 Jun 2025 04:01:51 GMT | Configuring UFW (Uncomplicated Firewall) on my Fedora KDE System | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/7de3d746e6e0) |
-| Mon, 02 Jun 2025 03:59:58 GMT | Why I Never Trust Pre-Installed Packages on Linux or Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/fe88dcacd5ae) |
-| Mon, 02 Jun 2025 03:51:43 GMT | The Original Manhood: Unshakable, Secure, and Real | MotzHeart Mindz | [Read More](https://medium.com/p/36284a4152f1) |
-| Mon, 02 Jun 2025 03:37:15 GMT | blogging or bragging? on ego and doubts | Make With James | [Read More](https://medium.com/p/201b844c85db) |
