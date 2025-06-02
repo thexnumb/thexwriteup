@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 03:08:56 GMT | Reconciliation | Krishna | [Read More](https://medium.com/p/5f0c8763126a) |
+| Mon, 02 Jun 2025 03:01:01 GMT | Anti-Forensic Techniques to Cover Your Tracks | z3r0trust | [Read More](https://medium.com/p/95792216a9cd) |
+| Mon, 02 Jun 2025 02:50:26 GMT | How Can Cyber Security Monitoring Services Help Beat Competition? | Cyberextent | [Read More](https://medium.com/p/3ea0f2ac54d4) |
+| Mon, 02 Jun 2025 02:45:57 GMT | The Silent Siege: How Hacktivism is Reshaping Global Power and What CEOs Need to Know | Biswajeet Poddar | [Read More](https://medium.com/p/82b165f19842) |
+| Mon, 02 Jun 2025 02:44:27 GMT | Hack The Box — EscapeTwo | Daniel Gilbert | [Read More](https://medium.com/p/6daf776d27bb) |
+| Mon, 02 Jun 2025 02:41:31 GMT | How to Start Bug Bounty with Zero Knowledge | Abhijeet Kumawat | [Read More](https://medium.com/p/bfa8c98d897e) |
+| Mon, 02 Jun 2025 02:32:30 GMT | The Model Context Protocol (MCP): Giving AI Real Memory (And Tools!) | Ihyth | [Read More](https://medium.com/p/331aa7282c3e) |
+| Mon, 02 Jun 2025 02:23:41 GMT | Facebook’s Secret Superpower: Following You Without a Login | UnknwnSaber | [Read More](https://medium.com/p/eb43c422f61e) |
+| Mon, 02 Jun 2025 02:21:35 GMT | RST TI Report Digest: 02 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/e15ec84e74f5) |
+| Mon, 02 Jun 2025 02:20:19 GMT | 7 Computer Tips I Wish I Knew Sooner (From Someone Who’s Spent Years Troubleshooting) | Charukshi Wijesinghe | [Read More](https://medium.com/p/ed0eedb3d835) |
+| Mon, 02 Jun 2025 02:06:18 GMT | Investigasi CLDAP & Broadcast Anomali: Studi Kasus Lalu Lintas Mencurigakan di Jaringan Internal | Dzakwan Efendi | [Read More](https://medium.com/p/eb50e1bcb3b8) |
 | Mon, 02 Jun 2025 01:47:32 GMT | What is Security Operations Center (SOC) | Abhinav Pathak | [Read More](https://medium.com/p/a5d8fd0ef18d) |
 | Mon, 02 Jun 2025 01:31:33 GMT | Inside the Lab: My Hands-On Guide to Building a Malware Analysis Environment | Ebenezer Hans Mensah | [Read More](https://medium.com/p/0233753d81fb) |
 | Mon, 02 Jun 2025 01:26:28 GMT | How to Quickly Identify Good or Bad People: Be Generous First | Yuenie-kate | [Read More](https://medium.com/p/aa2e011b3cfa) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 17:28:15 GMT | The CIA Triad in Cybersecurity | Ar Sijan Official | [Read More](https://medium.com/p/0a9469f0964d) |
 | Sun, 01 Jun 2025 17:26:28 GMT | Chapter 5: (Task Management System) — Enhancing the Backend with Authentication Middleware and Task… | Natarajan C K | [Read More](https://medium.com/p/0500fc08f6c0) |
 | Sun, 01 Jun 2025 17:23:42 GMT | A CSRF Story I Encountered on My Bug Bounty Journey | Enes Özlek | [Read More](https://medium.com/p/6a037b4025ee) |
-| Sun, 01 Jun 2025 17:23:25 GMT | SMB Relay Attack Lab -- AD Pentesting Part 5: | Muhammadhuzaifa | [Read More](https://medium.com/p/9ac962dfb55f) |
-| Sun, 01 Jun 2025 17:19:11 GMT | The Weight of Being Watched | Jenardan Sellathurai | [Read More](https://medium.com/p/d5ae203b3683) |
-| Sun, 01 Jun 2025 17:18:36 GMT | My Cyber Security Journey: From Newbie to Expert in 5 Years | Hasiholanabdullah | [Read More](https://medium.com/p/6215068726ce) |
-| Sun, 01 Jun 2025 17:06:59 GMT | How AI is Transforming Cybersecurity in 2025 | Sat Microsystems | [Read More](https://medium.com/p/b5f6bf956562) |
-| Sun, 01 Jun 2025 17:06:09 GMT | Hacking, Virtual Machines, Linux, and Networking — A Beginner’s Guide | Helan Rogy | [Read More](https://medium.com/p/0b15e5800b46) |
-| Sun, 01 Jun 2025 17:05:56 GMT | Trump and Palantir: DOGE, Tech Bros, and The Military-Industrial Complex Want Access to Everything | The Censored State | [Read More](https://medium.com/p/7b6ed1a5f571) |
-| Sun, 01 Jun 2025 16:58:19 GMT | Unlimited free burgers — Hacking McDonald’s India | Monish Basaniwal | [Read More](https://medium.com/p/99feca7dc26f) |
-| Sun, 01 Jun 2025 16:55:01 GMT | ️ Control Flow Integrity (CFI) Check: The Unsung Hero of Runtime Security | Nikheel Vishwas Savant | [Read More](https://medium.com/p/8b2c6a06d33e) |
-| Sun, 01 Jun 2025 16:53:58 GMT | Security Operations Centers in 2025: New Theories, Solutions, and the Future of Cyber Defense | Pavan kumar Evani | [Read More](https://medium.com/p/5f6f6c5c3d0d) |
-| Sun, 01 Jun 2025 16:49:53 GMT | Implementing Standard ACL on a Segmented Network | Laura Puspa | [Read More](https://medium.com/p/84bfa4d17a93) |
-| Sun, 01 Jun 2025 16:48:18 GMT | HackTheBox - Paper | jniket | [Read More](https://medium.com/p/e053868d9a2d) |
