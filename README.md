@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 21:10:26 GMT | Shadow Exploits: A Pen Tester’s Dive into June 3, 2025’s Cybersecurity Inferno | Pentestjunkie07 | [Read More](https://medium.com/p/71e810ab6019) |
+| Mon, 02 Jun 2025 21:04:02 GMT | Windows 11 Recall Özelliği Derinlemesine Teknik İnceleme | Burak Vural | [Read More](https://medium.com/p/3a112c1bd3ce) |
+| Mon, 02 Jun 2025 20:58:05 GMT | BUGGED | Bryan Powell | [Read More](https://medium.com/p/2a176ab22126) |
+| Mon, 02 Jun 2025 20:57:08 GMT | Secure WAN Simulation Project Using Cisco Packet Tracer | Amaechi Charles Uchechukwu | [Read More](https://medium.com/p/3243d41ddc5c) |
+| Mon, 02 Jun 2025 20:53:25 GMT | How to Stay Safe on Public Wi-Fi: Browse Securely Anytime, Anywhere | Kambetastephano | [Read More](https://medium.com/p/bcd1c586a97e) |
+| Mon, 02 Jun 2025 20:43:07 GMT | Preparing for Q-Day: Is Your Data Quantum-Safe? | Technologic Innovation | [Read More](https://medium.com/p/e667b67152cb) |
+| Mon, 02 Jun 2025 20:42:04 GMT | The Role of AI in Cybersecurity: Enhancing Browser Security with Artificial Intelligence | Henry William | [Read More](https://medium.com/p/e56bd804904c) |
+| Mon, 02 Jun 2025 20:38:27 GMT | ARM Cortex-M MPU Explained: Memory Attributes, Access Control, and More | Wadix Technologies | [Read More](https://medium.com/p/0061ec43832f) |
 | Mon, 02 Jun 2025 20:36:40 GMT | “From Doubt to Discovery: Reporting a CSRF Bug to NASA ” | Virendra Kumar | [Read More](https://medium.com/p/62f95ecbfb81) |
+| Mon, 02 Jun 2025 20:34:33 GMT | Migrate from Wireguard to awesome Wg-Easy with no interruption for users | Vincenthartmann | [Read More](https://medium.com/p/b249ed5162b5) |
 | Mon, 02 Jun 2025 20:33:36 GMT | Energy, Enterprise & Espresso: My Evolving Journey Through Business and Beyond | Aadil Ahesan | [Read More](https://medium.com/p/a6f43be25fb7) |
 | Mon, 02 Jun 2025 20:20:25 GMT | From Zero to Secure: Your Blueprint for Building an InfoSec Organization from the Ground Up | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b3972dc4179e) |
 | Mon, 02 Jun 2025 20:18:15 GMT | File Transfer Protocol (FTP) | Kevin Gicheha | [Read More](https://medium.com/p/a6ed1a8a1412) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 15:35:09 GMT | Network Scanning: Mapping the Road to Exploitation | sixxish | [Read More](https://medium.com/p/14c93550dd16) |
 | Mon, 02 Jun 2025 15:31:33 GMT | How To Avoid Costly PCI Mistakes in Hospitality & Travel | Feroot Security | [Read More](https://medium.com/p/7ddd2307ab7e) |
 | Mon, 02 Jun 2025 15:31:21 GMT | Between Visibility and Vulnerability | Jasmine Aneja | [Read More](https://medium.com/p/ad1b0bbf2b27) |
-| Mon, 02 Jun 2025 15:27:12 GMT | Navigating the Digital Frontier: Hacking, Virtual Machines, Linux, and Networking | Vimal John M V | [Read More](https://medium.com/p/2a99b933e4a8) |
-| Mon, 02 Jun 2025 15:21:59 GMT | My Preparation for the OSCP Exam | Nathan Martin | [Read More](https://medium.com/p/33df48c2072d) |
-| Mon, 02 Jun 2025 15:12:58 GMT | Your Password Policy Sucks | .com software | [Read More](https://medium.com/p/219d282800e7) |
-| Mon, 02 Jun 2025 15:12:27 GMT | Seeing the Forest and the Trees: A Philosophy for Cybersecurity Management | Entropy of the Observer | [Read More](https://medium.com/p/9e3beb88f2c9) |
-| Mon, 02 Jun 2025 15:07:14 GMT | ICS/SCADA: Jantung Infrastruktur Kritis dan Ancaman Siber yang Mengintai | Wafa | [Read More](https://medium.com/p/94bce2c64b8d) |
-| Mon, 02 Jun 2025 14:57:01 GMT | Sterling Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/dd8a8cdd3ee4) |
-| Mon, 02 Jun 2025 14:56:12 GMT | Hackers Don’t Guess Your Password — They Build It. | Sam Galope | [Read More](https://medium.com/p/0ff7714c3184) |
-| Mon, 02 Jun 2025 14:55:39 GMT | Try Hack Me: Basic Pentesting Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/47bc9aafed7c) |
-| Mon, 02 Jun 2025 14:51:12 GMT | ️ Advanced Penetration Tester Roadmap (2025 Edition) | Praveen Kavinda | [Read More](https://medium.com/p/6223773313c9) |
