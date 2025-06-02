@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 06:51:45 GMT | Key things to know before Starting Bug bounty hunting journey | GABBYTECH | [Read More](https://medium.com/p/d52cd6ffc2bd) |
+| Mon, 02 Jun 2025 06:41:12 GMT | Ethical Hacking Bootcamps: Are They Worth It? | Seonaissac | [Read More](https://medium.com/p/a38977121ccd) |
+| Mon, 02 Jun 2025 06:38:01 GMT | OSWE Web Hacking Tips (IPPSEC): My Study Journey #1 | Anezaneo | [Read More](https://medium.com/p/4455f8bc7428) |
+| Mon, 02 Jun 2025 06:37:11 GMT | Building a Time-Aware, AI-Infused Pen-Testing Engine That Evolves Like a Living Adversary (Chrono… | Amine Janyen | [Read More](https://medium.com/p/a941048fd280) |
+| Mon, 02 Jun 2025 06:36:23 GMT | $540 Bounty: How a Misconfigured Warning Endpoint in Apache Airflow Exposed DAG Secrets | Monika sharma | [Read More](https://medium.com/p/ceafdad57673) |
 | Mon, 02 Jun 2025 06:30:33 GMT | Easiest Bug: Improper Token invalidation. | Gr3yG05T | [Read More](https://medium.com/p/378e1bc60d94) |
+| Mon, 02 Jun 2025 06:29:58 GMT | Where Do We Begin? A Network Forensic Investigator’s Steps | Dean | [Read More](https://medium.com/p/3b8ee8279e1d) |
+| Mon, 02 Jun 2025 06:28:18 GMT | Why Is Resilience Important in the Tech Industry? | Shamsul Anam Emon | [Read More](https://medium.com/p/e7d8b8e3426b) |
+| Mon, 02 Jun 2025 06:26:40 GMT | What You Need to Know About the Cyberattack on the Department of Pensions | Lelwala Liyanage | [Read More](https://medium.com/p/0c7c0d126cff) |
 | Mon, 02 Jun 2025 06:25:17 GMT | Security Testing Market Size, Share, Key Drivers, Growth Opportunities and Global Trends 2032 | Mark | [Read More](https://medium.com/p/0e05127bfedb) |
 | Mon, 02 Jun 2025 06:22:37 GMT | Understanding Single Sign-On (SSO): A Streamlined Approach to Authentication | Double Pointer | [Read More](https://medium.com/p/5f941b342950) |
 | Mon, 02 Jun 2025 06:21:52 GMT | We Are In Love But We Keep Hurting Each Other Without Meaning To. | PromiseOsas | [Read More](https://medium.com/p/35a435993773) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 21:09:05 GMT | On Rainy Days Like This | Odyssey of Silence | [Read More](https://medium.com/p/8ef77b02cbfa) |
 | Sun, 01 Jun 2025 21:08:23 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 6: Memahami… | DhiasCode | [Read More](https://medium.com/p/0f9fff02aec4) |
 | Sun, 01 Jun 2025 20:55:20 GMT | ️ The Smart Contract Hunter’s Playbook: Clone, Analyze, Exploit | Martin Pál | [Read More](https://medium.com/p/0b5d61049a61) |
-| Sun, 01 Jun 2025 20:48:10 GMT | Rey y mono | Diego Savoia | [Read More](https://medium.com/p/54be9b707574) |
-| Sun, 01 Jun 2025 20:47:58 GMT | The Brains Behind Business Email | Omar El Saadawy | [Read More](https://medium.com/p/81ffa666a8fe) |
-| Sun, 01 Jun 2025 20:47:31 GMT | OWASP Global AppSec Barcelona 2025 Personal Recap | Adan | [Read More](https://medium.com/p/89bed7dc4342) |
-| Sun, 01 Jun 2025 20:47:21 GMT | When Delegation Becomes Deception: Cracking Ethernaut’s Challenge #6 | Martin Pál | [Read More](https://medium.com/p/f7edf8e77e9b) |
-| Sun, 01 Jun 2025 20:38:33 GMT | The Depths of Deterrence: Securing Undersea Infrastructure in the Baltic | European Horizons’ Leiden Chapter | [Read More](https://medium.com/p/351ff03073a5) |
-| Sun, 01 Jun 2025 20:25:38 GMT | Learning YARA: A Beginner SOC Analyst’s Notes | Corey Jones | [Read More](https://medium.com/p/e0de4b3e2cd1) |
-| Sun, 01 Jun 2025 20:25:15 GMT | Forage Commonwealth Bank Job Simulation: Cybersecurity | Shamar Isaac | [Read More](https://medium.com/p/df6fb54f4809) |
-| Sun, 01 Jun 2025 20:22:16 GMT | Cork Protocol Exploited for $12M in wstETH via Fake Tokens | CyberLucifer | [Read More](https://medium.com/p/4dad0f83485d) |
