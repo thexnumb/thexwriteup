@@ -12,12 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 16:23:13 GMT | Apparently, I’m Getting Another Promotion! | Rodney McGill | [Read More](https://medium.com/p/583ac2307a30) |
+| Mon, 02 Jun 2025 16:23:08 GMT | Getting the Most Value Out of the OSCP: After the Exam | Kieran Croucher | [Read More](https://medium.com/p/6ff3f3049160) |
+| Mon, 02 Jun 2025 16:22:22 GMT | Failing with Grace: Why Testers Should Care About Error Culture | TreeifyAI | [Read More](https://medium.com/p/2cbbf51979ab) |
+| Mon, 02 Jun 2025 16:20:26 GMT | Cortex Xpanse by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/fb0554e50a38) |
+| Mon, 02 Jun 2025 16:14:51 GMT | Securing the Site: Why Construction Security in the GTA Is More Critical Than Ever | Ethan | [Read More](https://medium.com/p/fd83c27369ba) |
+| Mon, 02 Jun 2025 16:06:14 GMT | Leveraging Weak Git Configuration: Bandit31 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/32f826cfd139) |
+| Mon, 02 Jun 2025 15:57:30 GMT | SSRF to RCE via Redis using Gopher Protocol | Zoningxtr | [Read More](https://medium.com/p/7409b1d97dcd) |
+| Mon, 02 Jun 2025 15:56:57 GMT | Ultimate Guide to Gopher Protocol — From Basics to Real Exploits | Zoningxtr | [Read More](https://medium.com/p/ed2fb788d8e0) |
+| Mon, 02 Jun 2025 15:56:25 GMT | Gopher Protocol — A Forgotten Protocol with Modern Security Implications | Zoningxtr | [Read More](https://medium.com/p/932188d5c65e) |
+| Mon, 02 Jun 2025 15:56:02 GMT | Firebase Security: Web vs. Server | Don Lilly | [Read More](https://medium.com/p/dd6323043eeb) |
+| Mon, 02 Jun 2025 15:55:55 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/83bf80ec445d) |
+| Mon, 02 Jun 2025 15:55:16 GMT | SOC165: Decoding a Possible SQL Injection Payload - Let’s Defend | Sohankanna | [Read More](https://medium.com/p/d70cec77f552) |
+| Mon, 02 Jun 2025 15:53:07 GMT | ️ Auditing in the Age of Containers and Kubernetes | Tajisegiri | [Read More](https://medium.com/p/84cec21725f7) |
+| Mon, 02 Jun 2025 15:51:29 GMT | The Future of Yields: Maximizing Bug Potential | $BUG Bug Community Rewards | [Read More](https://medium.com/p/efe01b4bbf7d) |
+| Mon, 02 Jun 2025 15:46:51 GMT | S3 Me Rolling: How an Exposed Bucket Gave Me Source Code, Secrets, and a Way In | Iski | [Read More](https://medium.com/p/14835098048e) |
+| Mon, 02 Jun 2025 15:40:55 GMT | Bind Shell Practice | Hunter Yoo | [Read More](https://medium.com/p/46906591e362) |
 | Mon, 02 Jun 2025 15:35:09 GMT | Network Scanning: Mapping the Road to Exploitation | sixxish | [Read More](https://medium.com/p/14c93550dd16) |
 | Mon, 02 Jun 2025 15:31:33 GMT | How To Avoid Costly PCI Mistakes in Hospitality & Travel | Feroot Security | [Read More](https://medium.com/p/7ddd2307ab7e) |
 | Mon, 02 Jun 2025 15:31:21 GMT | Between Visibility and Vulnerability | Jasmine Aneja | [Read More](https://medium.com/p/ad1b0bbf2b27) |
 | Mon, 02 Jun 2025 15:27:12 GMT | Navigating the Digital Frontier: Hacking, Virtual Machines, Linux, and Networking | Vimal John M V | [Read More](https://medium.com/p/2a99b933e4a8) |
 | Mon, 02 Jun 2025 15:21:59 GMT | My Preparation for the OSCP Exam | Nathan Martin | [Read More](https://medium.com/p/33df48c2072d) |
 | Mon, 02 Jun 2025 15:12:58 GMT | Your Password Policy Sucks | .com software | [Read More](https://medium.com/p/219d282800e7) |
+| Mon, 02 Jun 2025 15:07:14 GMT | ICS/SCADA: Jantung Infrastruktur Kritis dan Ancaman Siber yang Mengintai | Wafa | [Read More](https://medium.com/p/94bce2c64b8d) |
 | Mon, 02 Jun 2025 14:57:01 GMT | Sterling Diagnostics | vSOCBox.COM | [Read More](https://medium.com/p/dd8a8cdd3ee4) |
 | Mon, 02 Jun 2025 14:56:12 GMT | Hackers Don’t Guess Your Password — They Build It. | Sam Galope | [Read More](https://medium.com/p/0ff7714c3184) |
 | Mon, 02 Jun 2025 14:55:39 GMT | Try Hack Me: Basic Pentesting Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/47bc9aafed7c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 10:55:40 GMT | NIS2 Директивата — Какво означава за малкия и среден бизнес в България? | Anita Stoyanova | [Read More](https://medium.com/p/64c7dcf08e3a) |
 | Mon, 02 Jun 2025 10:55:28 GMT | Yeni Nesil Siber Tuzaklar: Sahte AI Temalı Web Siteleri | Eren Onder | [Read More](https://medium.com/p/334dd4c44dfb) |
 | Mon, 02 Jun 2025 10:50:46 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/f0e22a928ba9) |
-| Mon, 02 Jun 2025 10:47:45 GMT | Comprehensive Guide to SNMP: Protocol, Vulnerabilities, and Pentesting | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/b6aa6caec5f1) |
-| Mon, 02 Jun 2025 10:46:25 GMT | Advance Your Career with the Best SOC Analyst & Cybersecurity Courses in Karnataka and Richmond | RedTeamsaniga Suresh | [Read More](https://medium.com/p/f99cda6b7ec4) |
-| Mon, 02 Jun 2025 10:38:26 GMT | TheHackersLabs — ShadowGate | APS88 | [Read More](https://medium.com/p/edac3bae57b8) |
-| Mon, 02 Jun 2025 10:34:00 GMT | The Ultimate Guide to ETGRM | Laiba Waseem | [Read More](https://medium.com/p/7ced091b15f2) |
-| Mon, 02 Jun 2025 10:22:37 GMT | Silent Breach Lab | lhxecutable | [Read More](https://medium.com/p/421e8197df1c) |
-| Mon, 02 Jun 2025 10:18:06 GMT | The Real Cost of Not Protecting Prison Officers | PPSS Group | [Read More](https://medium.com/p/c4239886bcc1) |
-| Mon, 02 Jun 2025 10:11:39 GMT | How Smart People Fall for Sophisticated Scams | Karl Buhl | [Read More](https://medium.com/p/9a507e89d34e) |
-| Mon, 02 Jun 2025 10:11:27 GMT | ,  … | Cláudio Coelho | [Read More](https://medium.com/p/3cb1fdc5c8ff) |
-| Mon, 02 Jun 2025 10:08:37 GMT | How I Installed Kali NetHunter on My Android Without Rooting (And Lived to Tell the Tale) | Aren Redd | [Read More](https://medium.com/p/c43a82768f10) |
-| Mon, 02 Jun 2025 10:04:29 GMT | SQL Injection — Lab 2 | xk4libur | [Read More](https://medium.com/p/77ffab7a4691) |
-| Mon, 02 Jun 2025 10:03:04 GMT | 7 Best Compliance Software for SaaS Companies in 2025 | SecureSlate | [Read More](https://medium.com/p/834f3ffb0645) |
-| Mon, 02 Jun 2025 10:00:46 GMT | Buying A Security Robot - A Guide | Marcus Koehnlein | [Read More](https://medium.com/p/f284e7093341) |
-| Mon, 02 Jun 2025 09:57:22 GMT | Which Country Will Lead on Post-Quantum Blockchain Regulation? | The British Blockchain Association (The BBA) | [Read More](https://medium.com/p/1dce673a8b13) |
-| Mon, 02 Jun 2025 09:53:24 GMT | Think Like a Hacker, Defend Like a Pro Top Cybersecurity Course in Kochi & Ernakulam | RedTeamsaniga Suresh | [Read More](https://medium.com/p/4efe4028dbb6) |
-| Mon, 02 Jun 2025 09:51:49 GMT | ️ Title: The Me Nobody Sees | C. Pen - Crowned Soul | [Read More](https://medium.com/p/477f552574a5) |
-| Mon, 02 Jun 2025 09:46:35 GMT | It’s impossible to eliminate risk | Jenny Feneley | [Read More](https://medium.com/p/f43ddf94c542) |
-| Mon, 02 Jun 2025 09:40:56 GMT | How I found my security calling at Alan | Chaïmaa Kadaoui | [Read More](https://medium.com/p/4433f75378f1) |
