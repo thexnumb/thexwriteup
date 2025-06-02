@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 22:10:44 GMT | Shocker: A Penetration Testing Walkthrough | Amanuel | [Read More](https://medium.com/p/e055a313ff79) |
+| Mon, 02 Jun 2025 22:05:13 GMT | AI’s Dual Role in Cybersecurity | Pawan K. Pradhan | [Read More](https://medium.com/p/7e04fc816047) |
+| Mon, 02 Jun 2025 22:02:24 GMT | Strengthening App Security in CodePathX with OWASP Best Practices… | Agnesa Baliu | [Read More](https://medium.com/p/931fa708ff21) |
+| Mon, 02 Jun 2025 21:54:58 GMT | Sometimes an informative report can also get you $$ in Bug Bounty. | Charles Rostain | [Read More](https://medium.com/p/6aa2cda9ec7b) |
+| Mon, 02 Jun 2025 21:53:15 GMT | Post-Quantum Encryption: What Businesses Must Do in 2025 | Technologic Innovation | [Read More](https://medium.com/p/ff4230270e02) |
+| Mon, 02 Jun 2025 21:50:05 GMT | Measuring Security: A Leadership Problem in Disguise | Yaroslav | [Read More](https://medium.com/p/81901018b511) |
+| Mon, 02 Jun 2025 21:33:11 GMT | The Art of Penetration Testing Communication: Beyond Technical Findings | H1m3 | [Read More](https://medium.com/p/788657483ef4) |
 | Mon, 02 Jun 2025 21:29:59 GMT | Social Media and its Effect on Mental Health | Savvy Cyber Kids | [Read More](https://medium.com/p/38e693cd4ff1) |
 | Mon, 02 Jun 2025 21:28:56 GMT | Navigating the Auditory Landscape of Hacker Culture: A Report on Influential Podcasts | ADanielHill | [Read More](https://medium.com/p/b5e32a04ac96) |
 | Mon, 02 Jun 2025 21:26:21 GMT | How to Choose the Right Monitoring Plan for Your Business | Visual Monitoring Solutions | [Read More](https://medium.com/p/b746aaaaff45) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 16:20:26 GMT | Cortex Xpanse by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/fb0554e50a38) |
 | Mon, 02 Jun 2025 16:18:25 GMT | Keamanan Sistem ICS/SCADA: Kenapa Penting & Apa Saja Tantangannya? | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/9511a162048e) |
 | Mon, 02 Jun 2025 16:14:51 GMT | Securing the Site: Why Construction Security in the GTA Is More Critical Than Ever | Ethan | [Read More](https://medium.com/p/fd83c27369ba) |
-| Mon, 02 Jun 2025 16:06:14 GMT | Leveraging Weak Git Configuration: Bandit31 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/32f826cfd139) |
-| Mon, 02 Jun 2025 15:57:30 GMT | SSRF to RCE via Redis using Gopher Protocol | Zoningxtr | [Read More](https://medium.com/p/7409b1d97dcd) |
-| Mon, 02 Jun 2025 15:56:57 GMT | Ultimate Guide to Gopher Protocol — From Basics to Real Exploits | Zoningxtr | [Read More](https://medium.com/p/ed2fb788d8e0) |
-| Mon, 02 Jun 2025 15:56:25 GMT | Gopher Protocol — A Forgotten Protocol with Modern Security Implications | Zoningxtr | [Read More](https://medium.com/p/932188d5c65e) |
-| Mon, 02 Jun 2025 15:56:02 GMT | Firebase Security: Web vs. Server | Don Lilly | [Read More](https://medium.com/p/dd6323043eeb) |
-| Mon, 02 Jun 2025 15:55:55 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/83bf80ec445d) |
-| Mon, 02 Jun 2025 15:55:16 GMT | SOC165: Decoding a Possible SQL Injection Payload - Let’s Defend | Sohankanna | [Read More](https://medium.com/p/d70cec77f552) |
