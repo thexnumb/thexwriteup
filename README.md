@@ -12,10 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 18:26:05 GMT | SBOM (Software Bill Off Materials) in Security | Natarajan C K | [Read More](https://medium.com/p/0876083988fd) |
+| Mon, 02 Jun 2025 18:17:08 GMT | Hardening Web Server di Linux Ubuntu | Wafa | [Read More](https://medium.com/p/66c7803d3d7e) |
+| Mon, 02 Jun 2025 18:16:57 GMT | HackTheBox: Puppy — Exploiting Default Configurations | Lovishmittal | [Read More](https://medium.com/p/c67e70287acc) |
+| Mon, 02 Jun 2025 18:13:48 GMT | The Lives We’ll Never Know | Sree | [Read More](https://medium.com/p/e8a3c53a86c4) |
+| Mon, 02 Jun 2025 18:11:27 GMT | ESP32 D1 | Dev | [Read More](https://medium.com/p/dd1509cd8f6c) |
+| Mon, 02 Jun 2025 18:08:57 GMT | Kicking Off My bWAPP Series-Hands-On with the OWASP Broken Web Applications Project | Madhumathi chamarthi | [Read More](https://medium.com/p/38c90e6861d7) |
+| Mon, 02 Jun 2025 18:07:29 GMT | From Customer to Verified: A Critical Role Escalation in WooCommerce Flutter API | Youssefhussein | [Read More](https://medium.com/p/2a4f4ba49007) |
+| Mon, 02 Jun 2025 18:03:26 GMT | ️ Top 10 Ethical Hackers in India — Ultimate List of Cybersecurity Experts You Should Know | Bharatiya Anamika | [Read More](https://medium.com/p/54a72443ef18) |
+| Mon, 02 Jun 2025 17:55:13 GMT | LazyAdmin THM Walkthrough | Victor Khattar (PentaK) | [Read More](https://medium.com/p/48c4c057853b) |
+| Mon, 02 Jun 2025 17:52:25 GMT | The Mayans Were Off by 5 Years: 2017 Was the Real End of the World | Akshara Siddharthan | [Read More](https://medium.com/p/a06970e64473) |
+| Mon, 02 Jun 2025 17:49:23 GMT | What Lights Your Spark? | Jim Anderson | [Read More](https://medium.com/p/e58b8b7ee3bc) |
 | Mon, 02 Jun 2025 17:35:57 GMT | Siber Güvenliğe Giriş — 4( TCP/IP (Transmission Control Protocol / Internet Protocol) | Emre TOPUZ | [Read More](https://medium.com/p/d922c651f3b2) |
 | Mon, 02 Jun 2025 17:35:05 GMT | Quantum Computers: Can You Protect Your Digital Assets from Them? | Jim Anderson | [Read More](https://medium.com/p/515ed0ef68e2) |
 | Mon, 02 Jun 2025 17:34:05 GMT | Siber Güvenliğe Giriş — 3 ( OSI (OPEN SYSTEMS INTERCONNECTION) REFERANS MODELİ) | Emre TOPUZ | [Read More](https://medium.com/p/bd4a7c9b3b22) |
 | Mon, 02 Jun 2025 17:33:21 GMT | Building a Cybersecurity Lab: Complete Ubuntu Virtualization Guide | David Ramovich Mandal | [Read More](https://medium.com/p/e252ef35ad3d) |
+| Mon, 02 Jun 2025 17:32:41 GMT | Exploiting EternalBlue (MS17–010): Hacking Legacy Windows 7 Systems using Metasploit | Areeba Shahbaz | [Read More](https://medium.com/p/18a86bd5b664) |
+| Mon, 02 Jun 2025 17:31:29 GMT | Crypto under attack: May marks another black month for DeFi security | Maximiliano Lopez | [Read More](https://medium.com/p/4da37a694f0c) |
 | Mon, 02 Jun 2025 17:31:24 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/c76818409b76) |
 | Mon, 02 Jun 2025 17:25:29 GMT | AI in Cybersecurity: Defending Against Evolving Threats | Sachin Kumar | [Read More](https://medium.com/p/ee0d2daaa3cd) |
 | Mon, 02 Jun 2025 17:22:26 GMT | Why AI Audits Might Be Better Than Human Ones | PEPESEC AI | [Read More](https://medium.com/p/2f199413ef93) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 13:11:57 GMT | Can I Recover My Bitcoin That Was Stolen from Me Last Month? | Crime All Day | [Read More](https://medium.com/p/8f5a2208c664) |
 | Mon, 02 Jun 2025 13:11:33 GMT | Vulnerability: My Life’s Reset Button | ADITI | [Read More](https://medium.com/p/c361a434b06f) |
 | Mon, 02 Jun 2025 13:11:05 GMT | The Bug Trap That Broke My Heart | Soul Notes | [Read More](https://medium.com/p/b6d1af82184d) |
-| Mon, 02 Jun 2025 13:04:25 GMT | How Can I Recover My Scammed $92,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/e649c94a2ff7) |
-| Mon, 02 Jun 2025 13:02:37 GMT | ​Poison in the Data: How AI-Powered Data Poisoning Attacks Threaten Cybersecurity in 2025​ | Pegasus Technology Solutions | [Read More](https://medium.com/p/3b5d4d553f09) |
-| Mon, 02 Jun 2025 13:02:33 GMT | Breaking Down CMMC: What Cybersecurity Professionals Need to Know About DoD Compliance | Brittney Ginther | [Read More](https://medium.com/p/798f6b53fa60) |
-| Mon, 02 Jun 2025 13:02:33 GMT | These 4 Windows Settings Are a Privacy Disaster — Turn Them Off Now | Mohamad MERHI | [Read More](https://medium.com/p/b6e56d675417) |
-| Mon, 02 Jun 2025 13:01:54 GMT | Dozens of Venomous Snakes Seized from Passenger’s Luggage at Mumbai Airport | Imran | [Read More](https://medium.com/p/b728ceb744e0) |
-| Mon, 02 Jun 2025 13:01:44 GMT | Use IP WhiteListing To Protect Your Website From Bad Password Spraying | Angela Mapes | [Read More](https://medium.com/p/8ba2300b3de7) |
-| Mon, 02 Jun 2025 13:01:42 GMT | Think your password is safe? | Tahashaikhseo | [Read More](https://medium.com/p/4dc25029f6f1) |
-| Mon, 02 Jun 2025 12:58:27 GMT | Serverless Meets Zero Trust: Designing Secure Cloud-Native Apps from Day One | Lucas Brogni | [Read More](https://medium.com/p/ae0f2eb89a41) |
-| Mon, 02 Jun 2025 12:54:01 GMT | Is your password strong enough to protect your data? | Tahashaikhseo | [Read More](https://medium.com/p/59b272b44517) |
-| Mon, 02 Jun 2025 12:53:48 GMT | A list of meta search engines for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/a303542f5363) |
-| Mon, 02 Jun 2025 12:46:26 GMT | Advanced XSS Payload PoC — Trust Boundary Bypass via HTML Injection | CyberTechAjju | [Read More](https://medium.com/p/77d5c70a58fc) |
-| Mon, 02 Jun 2025 12:44:23 GMT | Cyber Fatigue Is Real: Why Awareness Isn’t Enough Anymore | Cybersecurity Umbrella | [Read More](https://medium.com/p/f8171566f742) |
-| Mon, 02 Jun 2025 12:41:39 GMT | Best In Crpto Re | Norman Meg | [Read More](https://medium.com/p/beb4d921022b) |
