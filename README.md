@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 13:26:55 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/c38b1e3f47a3) |
+| Mon, 02 Jun 2025 13:23:31 GMT | Can I Recover My Bitcoin That Was Stolen from Me Last Month? | Crime All Day | [Read More](https://medium.com/p/3057041a2e57) |
+| Mon, 02 Jun 2025 13:19:05 GMT | How Can I Recover My Money From Stonewall Capital? | Bianca | [Read More](https://medium.com/p/d62399964aa7) |
+| Mon, 02 Jun 2025 13:11:57 GMT | Can I Recover My Bitcoin That Was Stolen from Me Last Month? | Crime All Day | [Read More](https://medium.com/p/8f5a2208c664) |
+| Mon, 02 Jun 2025 13:11:33 GMT | Vulnerability: My Life’s Reset Button | ADITI | [Read More](https://medium.com/p/c361a434b06f) |
+| Mon, 02 Jun 2025 13:11:05 GMT | The Bug Trap That Broke My Heart | Soul Notes | [Read More](https://medium.com/p/b6d1af82184d) |
+| Mon, 02 Jun 2025 13:04:25 GMT | How Can I Recover My Scammed $92,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/e649c94a2ff7) |
+| Mon, 02 Jun 2025 13:02:37 GMT | ​Poison in the Data: How AI-Powered Data Poisoning Attacks Threaten Cybersecurity in 2025​ | Pegasus Technology Solutions | [Read More](https://medium.com/p/3b5d4d553f09) |
+| Mon, 02 Jun 2025 13:02:33 GMT | Breaking Down CMMC: What Cybersecurity Professionals Need to Know About DoD Compliance | Brittney Ginther | [Read More](https://medium.com/p/798f6b53fa60) |
+| Mon, 02 Jun 2025 13:02:33 GMT | These 4 Windows Settings Are a Privacy Disaster — Turn Them Off Now | Mohamad MERHI | [Read More](https://medium.com/p/b6e56d675417) |
+| Mon, 02 Jun 2025 13:01:54 GMT | Dozens of Venomous Snakes Seized from Passenger’s Luggage at Mumbai Airport | Imran | [Read More](https://medium.com/p/b728ceb744e0) |
+| Mon, 02 Jun 2025 13:01:44 GMT | Use IP WhiteListing To Protect Your Website From Bad Password Spraying | Angela Mapes | [Read More](https://medium.com/p/8ba2300b3de7) |
+| Mon, 02 Jun 2025 13:01:42 GMT | Think your password is safe? | Tahashaikhseo | [Read More](https://medium.com/p/4dc25029f6f1) |
+| Mon, 02 Jun 2025 12:58:27 GMT | Serverless Meets Zero Trust: Designing Secure Cloud-Native Apps from Day One | Lucas Brogni | [Read More](https://medium.com/p/ae0f2eb89a41) |
+| Mon, 02 Jun 2025 12:54:01 GMT | Is your password strong enough to protect your data? | Tahashaikhseo | [Read More](https://medium.com/p/59b272b44517) |
+| Mon, 02 Jun 2025 12:53:48 GMT | A list of meta search engines for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/a303542f5363) |
+| Mon, 02 Jun 2025 12:46:26 GMT | Advanced XSS Payload PoC — Trust Boundary Bypass via HTML Injection | CyberTechAjju | [Read More](https://medium.com/p/77d5c70a58fc) |
+| Mon, 02 Jun 2025 12:44:23 GMT | Cyber Fatigue Is Real: Why Awareness Isn’t Enough Anymore | Cybersecurity Umbrella | [Read More](https://medium.com/p/f8171566f742) |
+| Mon, 02 Jun 2025 12:41:39 GMT | Best In Crpto Re | Norman Meg | [Read More](https://medium.com/p/beb4d921022b) |
 | Mon, 02 Jun 2025 12:15:25 GMT | How to Build a WAF Detection System: ModSecurity + NGINX + ELK MONITORING (Detection Engineering… | Zyad Waleed Elzyat | [Read More](https://medium.com/p/9ebfc544b4ec) |
 | Mon, 02 Jun 2025 12:14:46 GMT | This Is What Emotional Safety Actually Feels Like | Rumin Talks | [Read More](https://medium.com/p/3fbf5a56a14c) |
 | Mon, 02 Jun 2025 12:06:13 GMT | Advanced XSS Payload Write-Up: DOM Injection via Chatbot / HTML Content Fields | CyberTechAjju | [Read More](https://medium.com/p/198114df92b4) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 08:07:43 GMT | The Daily Tech Digest: 02 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f09b1b9e5824) |
 | Mon, 02 Jun 2025 08:04:26 GMT | I  Found an XSS in a Chatbot & Got Paid $250 — Here’s How | CyberTechAjju | [Read More](https://medium.com/p/d9dd8f500111) |
 | Mon, 02 Jun 2025 08:02:43 GMT | The Best Network Management Services - Optimise Your Network Operations | Anbarasans | [Read More](https://medium.com/p/807abc3ca8fb) |
-| Mon, 02 Jun 2025 08:02:40 GMT | The Future of Cybersecurity Jobs in India and Abroad in 2025 | Saurabh Kumar Suman | [Read More](https://medium.com/p/7757fb52fae3) |
-| Mon, 02 Jun 2025 08:02:34 GMT | The Ultimate Guide to Authentication & Authorization (for Senior Engineers) | Mohamed ElEmam | [Read More](https://medium.com/p/a12845f7426a) |
-| Mon, 02 Jun 2025 08:01:29 GMT | The Ultimate Cybersecurity Fundamentals Study Guide: Ace Your ISACA Certification | Kahyagil mete | [Read More](https://medium.com/p/eb00278fc784) |
-| Mon, 02 Jun 2025 07:47:24 GMT | Mobil Uygulamalarda İzinler: Kullanıcılar Gerçekte Ne Onaylıyor? | UniVerse | [Read More](https://medium.com/p/4616381ad138) |
-| Mon, 02 Jun 2025 07:41:28 GMT | Digital Cyber Forensics Investigation Course in Delhi | cyber security Updates | [Read More](https://medium.com/p/814350114a38) |
-| Mon, 02 Jun 2025 07:36:55 GMT | Let me see . . . | Sébastien ️ | [Read More](https://medium.com/p/5c91fb4361f5) |
-| Mon, 02 Jun 2025 07:35:37 GMT | Web Application Penetration Testing CTF 1 (eCPPTv3) write-up | d4rkcl0ud | [Read More](https://medium.com/p/6d782a14e223) |
-| Mon, 02 Jun 2025 07:34:48 GMT | 30 Days of Cyber Security — Day 7: Linux, The Super OS | Indra Rahmat Maulidi | [Read More](https://medium.com/p/32690b5dcf64) |
-| Mon, 02 Jun 2025 07:32:30 GMT | Top XSS POCs that made $50000 | It4chis3c | [Read More](https://medium.com/p/1691200eb599) |
-| Mon, 02 Jun 2025 07:31:00 GMT | ️ How Hackers Can Hijack Your Phone Using WhatsApp Images; And How to Stay Safe | Subigya Ghimire | [Read More](https://medium.com/p/1a04f0549545) |
-| Mon, 02 Jun 2025 07:30:33 GMT | Unmasking Lumma InfoStealer: A Deep Dive into Obfuscation, API Hashing, and Data Theft at Scale | CyDhaal | [Read More](https://medium.com/p/f992e1d7a938) |
-| Mon, 02 Jun 2025 07:29:16 GMT | ️ Inside the Marks & Spencer Cyberattack: How Scattered Spider Crippled a British Retail Icon | Ankit Sharma | [Read More](https://medium.com/p/266e3624c475) |
-| Mon, 02 Jun 2025 07:27:35 GMT | AI in Cybersecurity: Enhancing Threat Detection | Rana Mohsin | [Read More](https://medium.com/p/578b4774ce5c) |
-| Mon, 02 Jun 2025 07:27:25 GMT | The Room That Didn’t Hold Me | Rabab -Healthcare data Scientist ‍ | [Read More](https://medium.com/p/516ff5c035f5) |
-| Mon, 02 Jun 2025 07:22:44 GMT | "Not Just the Titanic" – A Poetry for Every Human Soul | Minaari | [Read More](https://medium.com/p/f74f1b277b6b) |
-| Mon, 02 Jun 2025 07:19:11 GMT | Secure Your Kubernetes Access with kubectl-rexec Plugin | Pawan Jaiswal | [Read More](https://medium.com/p/44d0ae9bcdec) |
-| Mon, 02 Jun 2025 07:16:43 GMT | Global Alert: Apple Urges Immediate iOS 18.5 Update to Address Critical Security Vulnerability | Virtual Cyber Labs | [Read More](https://medium.com/p/90ebecc3854b) |
-| Mon, 02 Jun 2025 07:14:45 GMT | The Difference Between Privacy and Secrecy | Cat Milton | [Read More](https://medium.com/p/1a91278fc248) |
-| Mon, 02 Jun 2025 06:51:45 GMT | Key things to know before Starting Bug bounty hunting journey | GABBYTECH | [Read More](https://medium.com/p/d52cd6ffc2bd) |
