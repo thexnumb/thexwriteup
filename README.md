@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 11:32:30 GMT | How to Secure APIs Against Common Vulnerabilities? | Sparkle web | [Read More](https://medium.com/p/923ba8b6aab6) |
+| Mon, 02 Jun 2025 11:29:12 GMT | Why Cyber Scams Are the Current Big Threat for Businesses and Consumers | Tarek Mhiri/ spicesformind.com | [Read More](https://medium.com/p/7a5fc15e6a7a) |
+| Mon, 02 Jun 2025 11:28:14 GMT | xss test | Cybertech | [Read More](https://medium.com/p/2762b32ae9e1) |
+| Mon, 02 Jun 2025 11:26:01 GMT | Unleashing the Power of Darkness Recon: The Ultimate Reconnaissance Tool for Cybersecurity Pros | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c63d1ef57132) |
+| Mon, 02 Jun 2025 11:15:58 GMT | Beyond Nuclei: Intelligent Vulnerability Discovery Using AI and Custom Signatures | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d34f0359a1d) |
 | Mon, 02 Jun 2025 11:14:07 GMT | 52 — SOC120 — Phishing Mail Detected — Internal to Internal-Letsdefend | Amadi Oluchi Faith | [Read More](https://medium.com/p/15b215751cfe) |
 | Mon, 02 Jun 2025 11:11:34 GMT | Statistics from the 2025. | CyberSecStats | [Read More](https://medium.com/p/b9b3add7001c) |
 | Mon, 02 Jun 2025 11:09:34 GMT | Top 10 Forensic Tools | InfosecTrain | [Read More](https://medium.com/p/597670c5825e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 06:14:53 GMT | My AndroGoat Journey: Binary Patching for Admin Access | Damara Brian | [Read More](https://medium.com/p/830ab9d9e21f) |
 | Mon, 02 Jun 2025 06:14:23 GMT | My AndroGoat Journey: Bypassing Emulator Detection | Damara Brian | [Read More](https://medium.com/p/6f5b5f8e1d3d) |
 | Mon, 02 Jun 2025 06:13:45 GMT | My AndroGoat Journey: Bypassing Root Detection | Damara Brian | [Read More](https://medium.com/p/fa1d4327c187) |
-| Mon, 02 Jun 2025 06:12:38 GMT | Cyber Security Protection | Tobias Mathew | [Read More](https://medium.com/p/25cd51a4596f) |
-| Mon, 02 Jun 2025 06:10:21 GMT | 50 Advanced Pentesting One-Liners You Need | Pratham Shah | [Read More](https://medium.com/p/1547f1e86d4e) |
-| Mon, 02 Jun 2025 06:09:40 GMT | CertGames vs. CyberExamPrep: Which is the Smarter Choice for Security+ Certification Prep? | Carter Perez | [Read More](https://medium.com/p/e7a64f3eda24) |
-| Mon, 02 Jun 2025 06:02:32 GMT | The Early Retirement Code: What 50 People Who Retired Before 40 Did Differently | Comfy Blogging | [Read More](https://medium.com/p/c9d9d90e100a) |
-| Mon, 02 Jun 2025 06:02:29 GMT | HuluCaptcha — An example of a FakeCaptcha framework | Gi7w0rm | [Read More](https://medium.com/p/9f50eeeb2e6d) |
