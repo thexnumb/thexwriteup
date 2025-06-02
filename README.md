@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 14:06:34 GMT | Vulnerability Assessment Explained: Identify and Fix Security Flaws | Ampcus Cyber | [Read More](https://medium.com/p/3a31dca703bc) |
+| Mon, 02 Jun 2025 14:00:53 GMT | Cyber Briefing: 2025.06.02 | CyberMaterial | [Read More](https://medium.com/p/18d370459ba5) |
+| Mon, 02 Jun 2025 14:00:25 GMT | Basic Cyber Security️ | BrainTrust_ | [Read More](https://medium.com/p/7e634d503682) |
+| Mon, 02 Jun 2025 13:58:33 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/811d2fe918c0) |
+| Mon, 02 Jun 2025 13:57:49 GMT | Apakah itu ICS & SCADA dan sejarah penyerangan | indy Adira Khalfani | [Read More](https://medium.com/p/eadb087f1036) |
+| Mon, 02 Jun 2025 13:56:37 GMT | It Doesn’t Feel Like Despair. It Feels Like Logistics | maple syrup fox | [Read More](https://medium.com/p/e2ff71383cd0) |
+| Mon, 02 Jun 2025 13:53:35 GMT | Cybersecurity in the Age of AI Threats: Protecting a Digital World | Muhammad Zain ul Abideen | [Read More](https://medium.com/p/9946fd7bdb14) |
+| Mon, 02 Jun 2025 13:52:20 GMT | Maximize Recon Solana for Passive Income Success | $RECON Recon Solana Community Rewards | [Read More](https://medium.com/p/928d10825cf5) |
+| Mon, 02 Jun 2025 13:51:48 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/cd4e8789efde) |
+| Mon, 02 Jun 2025 13:46:53 GMT | Cybersecurity Book Recommendations | Danny | [Read More](https://medium.com/p/5f9d69bacbe1) |
+| Mon, 02 Jun 2025 13:46:53 GMT | Creating CVE-Based Attack Scenarios Using Exploit-DB | Esra Kayhan | [Read More](https://medium.com/p/52baacc40037) |
+| Mon, 02 Jun 2025 13:45:51 GMT | ️ ROADMAP CYBER SECURITY 5 TAHUN — Dari Pemula Hingga Profesional | Riski Muhammad Ivan | [Read More](https://medium.com/p/3185f38c6cf3) |
+| Mon, 02 Jun 2025 13:44:03 GMT | How to Find Info on Anyone Online (Even Without Hacking!) | Hartarto | [Read More](https://medium.com/p/e46623de7154) |
+| Mon, 02 Jun 2025 13:43:51 GMT | Data Centers and National Security | Etnik | [Read More](https://medium.com/p/5f61b541a93c) |
+| Mon, 02 Jun 2025 13:35:05 GMT | CSRF: How I gained unauthorized access to Cart | JEETPAL | [Read More](https://medium.com/p/45e671a180f9) |
 | Mon, 02 Jun 2025 13:26:55 GMT | What Can I Do to Get My Money Back from a Fake Bitcoin Business? | Crime All Day | [Read More](https://medium.com/p/c38b1e3f47a3) |
 | Mon, 02 Jun 2025 13:23:31 GMT | Can I Recover My Bitcoin That Was Stolen from Me Last Month? | Crime All Day | [Read More](https://medium.com/p/3057041a2e57) |
 | Mon, 02 Jun 2025 13:19:05 GMT | How Can I Recover My Money From Stonewall Capital? | Bianca | [Read More](https://medium.com/p/d62399964aa7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 08:55:26 GMT | Laika AI and Cardexo Launch Groundbreaking $LKI-Powered Mastercard: A New Era of Web3 Utility… | CryptoDof | [Read More](https://medium.com/p/97f40a781342) |
 | Mon, 02 Jun 2025 08:53:50 GMT | India, Wake Up! These 5 New Scams Are Ruining Lives, Don’t Be the Next Victim | Karan Panchal | [Read More](https://medium.com/p/70509a22e4b3) |
 | Mon, 02 Jun 2025 08:47:06 GMT | NATO DIANA unveils 10 new challenges to accelerate dual-use technology breakthroughs | DIANA: Dual Use Innovation | [Read More](https://medium.com/p/c690bad56c90) |
-| Mon, 02 Jun 2025 08:45:47 GMT | Bulletproof Hosting (BPH) | Meltem Nur Gündoğdu | [Read More](https://medium.com/p/b71390ca2db2) |
-| Mon, 02 Jun 2025 08:44:17 GMT | Why Do Some Men Ask for Vulnerability, Then Treat It Like Leverage? | LSD | [Read More](https://medium.com/p/c0af9a662268) |
-| Mon, 02 Jun 2025 08:43:08 GMT | Medusa Ransomware Hits RE/MAX: 151GB Data Breach Exposes Real Estate Giant’s Vulnerabilities | Ronit Yadav | [Read More](https://medium.com/p/7780f410b31c) |
-| Mon, 02 Jun 2025 08:41:46 GMT | How Can I Recover My Money From Fxcess? | Lillin | [Read More](https://medium.com/p/c971a340c9cf) |
-| Mon, 02 Jun 2025 08:38:53 GMT | Bulletproof Hosting (BPH) | Meltem Nur Gündoğdu | [Read More](https://medium.com/p/5fffb1b633d8) |
-| Mon, 02 Jun 2025 08:37:03 GMT | How to Get Consistent Rewards with Recon Solana $RECON | $RECON Recon Solana Community Rewards | [Read More](https://medium.com/p/adeef0d35000) |
-| Mon, 02 Jun 2025 08:32:28 GMT | Inadequate Sandboxing in LLMs — OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/45be4c88c402) |
-| Mon, 02 Jun 2025 08:29:16 GMT | What can I do to recover my money from Assexmarkets? | Donald Philip | [Read More](https://medium.com/p/e58f5d36e140) |
-| Mon, 02 Jun 2025 08:27:40 GMT | Top 10 Pentesting Tools Every Ethical Hacker Needs in 2025 | Kandarp Trivedi | [Read More](https://medium.com/p/34d67f7ee89c) |
-| Mon, 02 Jun 2025 08:24:15 GMT | Securing your Kubernetes Cluster: Network Policies | Ozan Eren | [Read More](https://medium.com/p/e890804c4613) |
-| Mon, 02 Jun 2025 08:14:23 GMT | The Rise of Contrastive Learning in AI: Applications in Cybersecurity and Beyond | Elias Hossain | [Read More](https://medium.com/p/a5699ecbf67d) |
-| Mon, 02 Jun 2025 08:11:02 GMT | Body Shopping Bare Minimums: Offshore Oxymorons in ERP | Namir Sagheenanajar | [Read More](https://medium.com/p/e8a674d42c0f) |
-| Mon, 02 Jun 2025 08:07:43 GMT | The Daily Tech Digest: 02 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f09b1b9e5824) |
-| Mon, 02 Jun 2025 08:04:26 GMT | I  Found an XSS in a Chatbot & Got Paid $250 — Here’s How | CyberTechAjju | [Read More](https://medium.com/p/d9dd8f500111) |
-| Mon, 02 Jun 2025 08:02:43 GMT | The Best Network Management Services - Optimise Your Network Operations | Anbarasans | [Read More](https://medium.com/p/807abc3ca8fb) |
