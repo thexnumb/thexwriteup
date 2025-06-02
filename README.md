@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 18:58:54 GMT | “My AI Made Me Do It!”: Using HFACS to Unpack Human Error in AI Security Breaches | Wale Adedeji | [Read More](https://medium.com/p/544fe62d7a68) |
+| Mon, 02 Jun 2025 18:53:26 GMT | So You Want to Start Your AI Transformation? Read This First. | Marwan Jaber | [Read More](https://medium.com/p/8d3fd9c4e191) |
+| Mon, 02 Jun 2025 18:49:05 GMT | Microsoft and CrowdStrike Collaborate to Standardize Threat Actor Naming | Ronit Yadav | [Read More](https://medium.com/p/a70d298173e4) |
+| Mon, 02 Jun 2025 18:39:02 GMT | LetsDefend SOC Walkthrough - SOC 107 — Requested T.I. URL address | Tijan Hydara | [Read More](https://medium.com/p/25810959d55b) |
 | Mon, 02 Jun 2025 18:38:14 GMT | I Miss You. Whoever You Are. | Spiral Patterns | [Read More](https://medium.com/p/946899a26738) |
 | Mon, 02 Jun 2025 18:36:58 GMT | OSINT Case Report: Suspected Synthetic LinkedIn Identity — “Christopher Anderson” | BlueBirdIntel | [Read More](https://medium.com/p/b36bddf80849) |
 | Mon, 02 Jun 2025 18:34:58 GMT | Stay Ahead with Recon Solana: The Future of Crypto Yields | Ashley
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 13:51:48 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/cd4e8789efde) |
 | Mon, 02 Jun 2025 13:46:53 GMT | Cybersecurity Book Recommendations | Danny | [Read More](https://medium.com/p/5f9d69bacbe1) |
 | Mon, 02 Jun 2025 13:46:53 GMT | Creating CVE-Based Attack Scenarios Using Exploit-DB | Esra Kayhan | [Read More](https://medium.com/p/52baacc40037) |
-| Mon, 02 Jun 2025 13:45:51 GMT | ️ ROADMAP CYBER SECURITY 5 TAHUN — Dari Pemula Hingga Profesional | Riski Muhammad Ivan | [Read More](https://medium.com/p/3185f38c6cf3) |
-| Mon, 02 Jun 2025 13:44:03 GMT | How to Find Info on Anyone Online (Even Without Hacking!) | Hartarto | [Read More](https://medium.com/p/e46623de7154) |
-| Mon, 02 Jun 2025 13:43:51 GMT | Data Centers and National Security | Etnik | [Read More](https://medium.com/p/5f61b541a93c) |
-| Mon, 02 Jun 2025 13:35:05 GMT | CSRF: How I gained unauthorized access to Cart | JEETPAL | [Read More](https://medium.com/p/45e671a180f9) |
