@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 05:14:54 GMT | The Digital Love Affair: Why Your Devices Need Boundaries (and Perhaps a Therapist). | The Security Alchemist | [Read More](https://medium.com/p/f9fbddb1f9ae) |
+| Mon, 02 Jun 2025 05:08:27 GMT | Online Cybersecurity Courses in Calicut Learn Ethical Hacking from Experts | Bivek raj | [Read More](https://medium.com/p/0570f0468c26) |
+| Mon, 02 Jun 2025 05:02:33 GMT | Cyber Gauntlet: A Pen Tester’s Saga Through 2025’s Latest Threats | hackerguy | [Read More](https://medium.com/p/344f225922b8) |
+| Mon, 02 Jun 2025 05:02:32 GMT | How AI Can Be Weaponized: The Dark Side of Artificial Intelligence | Tech Security | [Read More](https://medium.com/p/b28444344b9f) |
+| Mon, 02 Jun 2025 04:58:35 GMT | SQL Server 2022 Standard with 5 Device CAL: A Scalable, Secure, and Efficient Database Solution for… | Roshan Karki | [Read More](https://medium.com/p/fb77c3ab5856) |
+| Mon, 02 Jun 2025 04:46:08 GMT | The Future of Ethical Hacking Careers — Insights from the No 1 Cybersecurity Institute in India | Bivek raj | [Read More](https://medium.com/p/316271b441ed) |
+| Mon, 02 Jun 2025 04:41:51 GMT | Splunk: Basics. Tryhackme Room Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/c70938ed7705) |
+| Mon, 02 Jun 2025 04:39:16 GMT | Cybersecurity | Alan Shinto | [Read More](https://medium.com/p/934c93189b0d) |
 | Mon, 02 Jun 2025 04:21:19 GMT | The Cyber Threat Intelligence Lifecycle: From Chaos to Clarity | Shubhamitaliya | [Read More](https://medium.com/p/a662f54be0aa) |
 | Mon, 02 Jun 2025 04:18:44 GMT | Implementing SIEM and SOAR platforms — Australian Signals Directorate | SOCFortress | [Read More](https://medium.com/p/68da2189d10d) |
 | Mon, 02 Jun 2025 04:10:33 GMT | When Vulnerability Becomes Your Armor | Isla Hendricks | [Read More](https://medium.com/p/ebbec753d049) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Jun 2025 18:39:55 GMT | ChatGPT Malware Hack 2025: When AI Became the Hacker | Anushree Krishna Suryavanshi | [Read More](https://medium.com/p/44eb1e9abc4b) |
 | Sun, 01 Jun 2025 18:38:24 GMT | Fancy Bear (APT28) 2016'da ABD Seçimlerini Nasıl Hackledi? Demokratik Parti’nin Dijital Çöküşü | Çağlar Suvari | [Read More](https://medium.com/p/af988f2d76df) |
 | Sun, 01 Jun 2025 18:30:43 GMT | The Case Sensitivity Bug That Broke My Laravel Inertia Tests: A Cross-Platform Development Tale | Oğuzhan KARACABAY | [Read More](https://medium.com/p/2dc67b4c0c5d) |
-| Sun, 01 Jun 2025 18:16:03 GMT | Agentic AI in Cybersecurity: From Reactive Defense to Proactive Resilience | Pavan kumar Evani | [Read More](https://medium.com/p/d14af48d57b4) |
-| Sun, 01 Jun 2025 18:13:49 GMT | The Days When Longing Has No Name, but It Hurts | Meli | [Read More](https://medium.com/p/f953891a1e0c) |
-| Sun, 01 Jun 2025 18:12:17 GMT | CAPTCHA or Catfish? — Unmasking a .NET Memory Loader in a Fake Verification Trap | Morgan E | [Read More](https://medium.com/p/697eab55b384) |
-| Sun, 01 Jun 2025 18:08:45 GMT | What Really Happens When You Type a URL Into Your Browser (From a Networking Security Perspective) | Prasanna Iyer | [Read More](https://medium.com/p/46f392742375) |
-| Sun, 01 Jun 2025 18:02:27 GMT | Spearphishing Goes Executive: What GRC Needs to Do Next | Brittney Ginther | [Read More](https://medium.com/p/cf9b8533f4aa) |
-| Sun, 01 Jun 2025 17:59:22 GMT | Understanding Ports and Protocols: How Computers Talk on the Internet | Ar Sijan Official | [Read More](https://medium.com/p/5d772467c732) |
-| Sun, 01 Jun 2025 17:56:13 GMT | Tilde Games: Exploiting 8.3 Shortnames on IIS Servers | Sachin Sharma | [Read More](https://medium.com/p/6f232071e01f) |
-| Sun, 01 Jun 2025 17:55:24 GMT | Top Free Tools to Check If Your Data Is Compromised (And How to Protect Yourself) | Stealseek | [Read More](https://medium.com/p/4c2f98e1e8d7) |
