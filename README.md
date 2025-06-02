@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 21:29:59 GMT | Social Media and its Effect on Mental Health | Savvy Cyber Kids | [Read More](https://medium.com/p/38e693cd4ff1) |
+| Mon, 02 Jun 2025 21:28:56 GMT | Navigating the Auditory Landscape of Hacker Culture: A Report on Influential Podcasts | ADanielHill | [Read More](https://medium.com/p/b5e32a04ac96) |
+| Mon, 02 Jun 2025 21:26:21 GMT | How to Choose the Right Monitoring Plan for Your Business | Visual Monitoring Solutions | [Read More](https://medium.com/p/b746aaaaff45) |
+| Mon, 02 Jun 2025 21:25:11 GMT | How many cases of sextortion are there within a year? How can I avoid it? | Savvy Cyber Kids | [Read More](https://medium.com/p/da69306718f0) |
+| Mon, 02 Jun 2025 21:23:48 GMT | Using Nmap in Security Testing | Cyberoptic Security | [Read More](https://medium.com/p/e17d5b872276) |
+| Mon, 02 Jun 2025 21:22:01 GMT | Simp App Review: Simp App = Simply No | Savvy Cyber Kids | [Read More](https://medium.com/p/4b2974635304) |
+| Mon, 02 Jun 2025 21:20:33 GMT | Cybersecurity for Small Businesses: How to Protect Your Company from Online Threats | Kambetastephano | [Read More](https://medium.com/p/9c6ea65473cb) |
 | Mon, 02 Jun 2025 21:10:26 GMT | Shadow Exploits: A Pen Tester’s Dive into June 3, 2025’s Cybersecurity Inferno | Pentestjunkie07 | [Read More](https://medium.com/p/71e810ab6019) |
 | Mon, 02 Jun 2025 21:04:02 GMT | Windows 11 Recall Özelliği Derinlemesine Teknik İnceleme | Burak Vural | [Read More](https://medium.com/p/3a112c1bd3ce) |
 | Mon, 02 Jun 2025 20:58:05 GMT | BUGGED | Bryan Powell | [Read More](https://medium.com/p/2a176ab22126) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 15:56:02 GMT | Firebase Security: Web vs. Server | Don Lilly | [Read More](https://medium.com/p/dd6323043eeb) |
 | Mon, 02 Jun 2025 15:55:55 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/83bf80ec445d) |
 | Mon, 02 Jun 2025 15:55:16 GMT | SOC165: Decoding a Possible SQL Injection Payload - Let’s Defend | Sohankanna | [Read More](https://medium.com/p/d70cec77f552) |
-| Mon, 02 Jun 2025 15:53:07 GMT | ️ Auditing in the Age of Containers and Kubernetes | Tajisegiri | [Read More](https://medium.com/p/84cec21725f7) |
-| Mon, 02 Jun 2025 15:51:29 GMT | The Future of Yields: Maximizing Bug Potential | $BUG Bug Community Rewards | [Read More](https://medium.com/p/efe01b4bbf7d) |
-| Mon, 02 Jun 2025 15:46:51 GMT | S3 Me Rolling: How an Exposed Bucket Gave Me Source Code, Secrets, and a Way In | Iski | [Read More](https://medium.com/p/14835098048e) |
-| Mon, 02 Jun 2025 15:40:55 GMT | Bind Shell Practice | Hunter Yoo | [Read More](https://medium.com/p/46906591e362) |
-| Mon, 02 Jun 2025 15:35:09 GMT | Network Scanning: Mapping the Road to Exploitation | sixxish | [Read More](https://medium.com/p/14c93550dd16) |
-| Mon, 02 Jun 2025 15:31:33 GMT | How To Avoid Costly PCI Mistakes in Hospitality & Travel | Feroot Security | [Read More](https://medium.com/p/7ddd2307ab7e) |
-| Mon, 02 Jun 2025 15:31:21 GMT | Between Visibility and Vulnerability | Jasmine Aneja | [Read More](https://medium.com/p/ad1b0bbf2b27) |
