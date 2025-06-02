@@ -12,12 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 09:32:14 GMT | Testing an Infostealer in a Controlled Environment with CrowdStrike Sensors | Gilang Rama | [Read More](https://medium.com/p/1919c6b4d777) |
+| Mon, 02 Jun 2025 09:31:58 GMT | ⚠️ Critical 0-Click Vulnerability in Firefox via libvpx: What You Need to Know | Infoziant | [Read More](https://medium.com/p/aacae19250b2) |
 | Mon, 02 Jun 2025 09:19:05 GMT | Why getline() Doesn’t Work After cin — and How to Fix It | Pratham Gupta | [Read More](https://medium.com/p/1a29a31e5b08) |
 | Mon, 02 Jun 2025 09:17:32 GMT | Securycor: Your Trusted Security Partner | Professional UK Services | [Read More](https://medium.com/p/d9bd843f18a0) |
 | Mon, 02 Jun 2025 09:16:25 GMT | How to Use Burp Suite: Discover & Master Powerful Features | Ekene Joseph | [Read More](https://medium.com/p/78285942f177) |
 | Mon, 02 Jun 2025 09:15:53 GMT | Exploiting the Gaps in Password Reset Verification | Ehtesham Ul Haq | [Read More](https://medium.com/p/9bb86ec95d29) |
 | Mon, 02 Jun 2025 09:14:28 GMT | 如何使用 OWASP ZAP 進行 API 安全測試 | Ivan Cheng | [Read More](https://medium.com/p/4105e105bd45) |
 | Mon, 02 Jun 2025 09:14:00 GMT | Simple CTF — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/01e302a31f37) |
+| Mon, 02 Jun 2025 09:13:27 GMT | Silent Breach Lab | Jesús García Rubias | [Read More](https://medium.com/p/358223db0a5e) |
 | Mon, 02 Jun 2025 09:11:18 GMT | GPTleak or hallucination ? | Remy Ramirez | [Read More](https://medium.com/p/ea3c1c117971) |
 | Mon, 02 Jun 2025 09:05:55 GMT | China’s Earth Lamia Cyber Espionage Group Poses Growing Threat to Indonesia’s Critical… | MITRE Doggy | [Read More](https://medium.com/p/2db475bb9e4b) |
 | Mon, 02 Jun 2025 09:05:14 GMT | Understanding SWIFT CSP: Key Updates in 2025 | Biz Serve IT | [Read More](https://medium.com/p/02dd9fedd480) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 03:59:58 GMT | Why I Never Trust Pre-Installed Packages on Linux or Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/fe88dcacd5ae) |
 | Mon, 02 Jun 2025 03:51:43 GMT | The Original Manhood: Unshakable, Secure, and Real | MotzHeart Mindz | [Read More](https://medium.com/p/36284a4152f1) |
 | Mon, 02 Jun 2025 03:37:15 GMT | blogging or bragging? on ego and doubts | Make With James | [Read More](https://medium.com/p/201b844c85db) |
-| Mon, 02 Jun 2025 03:32:29 GMT | TsarBot Malware: The Sophisticated Android Threat Targeting 750+ Financial and Crypto Apps | Deven Chhajed | [Read More](https://medium.com/p/f1650777ad9e) |
-| Mon, 02 Jun 2025 03:18:06 GMT | DNS Demystified: Understanding Forward, Reverse, and the Backbone of the Internet | Ersad Muçollari | [Read More](https://medium.com/p/dfded0f70674) |
-| Mon, 02 Jun 2025 03:08:56 GMT | Reconciliation | Krishna | [Read More](https://medium.com/p/5f0c8763126a) |
