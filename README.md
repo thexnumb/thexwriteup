@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 12:15:25 GMT | How to Build a WAF Detection System: ModSecurity + NGINX + ELK MONITORING (Detection Engineering… | Zyad Waleed Elzyat | [Read More](https://medium.com/p/9ebfc544b4ec) |
+| Mon, 02 Jun 2025 12:14:46 GMT | This Is What Emotional Safety Actually Feels Like | Rumin Talks | [Read More](https://medium.com/p/3fbf5a56a14c) |
+| Mon, 02 Jun 2025 12:06:13 GMT | Advanced XSS Payload Write-Up: DOM Injection via Chatbot / HTML Content Fields | CyberTechAjju | [Read More](https://medium.com/p/198114df92b4) |
+| Mon, 02 Jun 2025 12:05:31 GMT | MirageDocs: Anonymous & Self-Destructing Document Sharing | Sami | [Read More](https://medium.com/p/642ccd32368c) |
+| Mon, 02 Jun 2025 12:04:30 GMT | Maximize Your Passive Income with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/5c36da46d061) |
+| Mon, 02 Jun 2025 12:03:47 GMT | How I Found a $9,762 Bug with Simple Subdomain Fuzzing | Ibtissam hammadi | [Read More](https://medium.com/p/1d9f59481d10) |
+| Mon, 02 Jun 2025 11:58:53 GMT | Critical vBulletin Vulnerability: Expert IT Security Analysis and Professional Response Strategies | Technijian | [Read More](https://medium.com/p/10d7a0d602d9) |
+| Mon, 02 Jun 2025 11:58:26 GMT | Fake Recruiter Emails Target CFOs with Sophisticated Phishing Attack | Srinivasps | [Read More](https://medium.com/p/1e52bb62a9a4) |
+| Mon, 02 Jun 2025 11:57:48 GMT | Emerging PureHVNC RAT Malware Campaign Exploiting Job Offer Lures Impacts Indonesia’s Cybersecurity… | MITRE Doggy | [Read More](https://medium.com/p/b9c189748dd7) |
+| Mon, 02 Jun 2025 11:54:04 GMT | We haven’t got enough air. | Shobande Daniel Oluwadamisi | [Read More](https://medium.com/p/d3c0e57eadf0) |
+| Mon, 02 Jun 2025 11:48:26 GMT | How Can I withdraw My Money From Bullwaves ? | Kelly | [Read More](https://medium.com/p/b89b7c7f8f17) |
+| Mon, 02 Jun 2025 11:46:54 GMT | Why Sharing Your Flaws Can Make You More Influential | Senorita Eugenia | [Read More](https://medium.com/p/04161559f198) |
+| Mon, 02 Jun 2025 11:38:55 GMT | Spanning Tree Protocols: Keeping Ethernet Networks Loop-Free and Reliable | Diogo Neto | [Read More](https://medium.com/p/5785682d66b6) |
+| Mon, 02 Jun 2025 11:35:09 GMT | Dynamic Routing Protocols: RIP, IGRP, EIGRP, OSPF, IS-IS, EGP, and BGP Explained | Diogo Neto | [Read More](https://medium.com/p/2e93fa87a021) |
+| Mon, 02 Jun 2025 11:34:29 GMT | Digging into Certificate Transparency: Discovering Subdomains with crt.sh and Bash | Johan Louwers | [Read More](https://medium.com/p/34d708062db2) |
 | Mon, 02 Jun 2025 11:32:30 GMT | How to Secure APIs Against Common Vulnerabilities? | Sparkle web | [Read More](https://medium.com/p/923ba8b6aab6) |
 | Mon, 02 Jun 2025 11:29:12 GMT | Why Cyber Scams Are the Current Big Threat for Businesses and Consumers | Tarek Mhiri/ spicesformind.com | [Read More](https://medium.com/p/7a5fc15e6a7a) |
+| Mon, 02 Jun 2025 11:28:46 GMT | System Design — API Security Protocols | Amit Singh Rathore | [Read More](https://medium.com/p/351da595e888) |
 | Mon, 02 Jun 2025 11:28:14 GMT | xss test | Cybertech | [Read More](https://medium.com/p/2762b32ae9e1) |
 | Mon, 02 Jun 2025 11:26:01 GMT | Unleashing the Power of Darkness Recon: The Ultimate Reconnaissance Tool for Cybersecurity Pros | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c63d1ef57132) |
 | Mon, 02 Jun 2025 11:15:58 GMT | Beyond Nuclei: Intelligent Vulnerability Discovery Using AI and Custom Signatures | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9d34f0359a1d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 07:16:43 GMT | Global Alert: Apple Urges Immediate iOS 18.5 Update to Address Critical Security Vulnerability | Virtual Cyber Labs | [Read More](https://medium.com/p/90ebecc3854b) |
 | Mon, 02 Jun 2025 07:14:45 GMT | The Difference Between Privacy and Secrecy | Cat Milton | [Read More](https://medium.com/p/1a91278fc248) |
 | Mon, 02 Jun 2025 06:51:45 GMT | Key things to know before Starting Bug bounty hunting journey | GABBYTECH | [Read More](https://medium.com/p/d52cd6ffc2bd) |
-| Mon, 02 Jun 2025 06:41:12 GMT | Ethical Hacking Bootcamps: Are They Worth It? | Seonaissac | [Read More](https://medium.com/p/a38977121ccd) |
-| Mon, 02 Jun 2025 06:38:01 GMT | OSWE Web Hacking Tips (IPPSEC): My Study Journey #1 | Anezaneo | [Read More](https://medium.com/p/4455f8bc7428) |
-| Mon, 02 Jun 2025 06:37:11 GMT | Building a Time-Aware, AI-Infused Pen-Testing Engine That Evolves Like a Living Adversary (Chrono… | Amine Janyen | [Read More](https://medium.com/p/a941048fd280) |
-| Mon, 02 Jun 2025 06:36:23 GMT | $540 Bounty: How a Misconfigured Warning Endpoint in Apache Airflow Exposed DAG Secrets | Monika sharma | [Read More](https://medium.com/p/ceafdad57673) |
-| Mon, 02 Jun 2025 06:30:33 GMT | Easiest Bug: Improper Token invalidation. | Gr3yG05T | [Read More](https://medium.com/p/378e1bc60d94) |
-| Mon, 02 Jun 2025 06:29:58 GMT | Where Do We Begin? A Network Forensic Investigator’s Steps | Dean | [Read More](https://medium.com/p/3b8ee8279e1d) |
-| Mon, 02 Jun 2025 06:28:18 GMT | Why Is Resilience Important in the Tech Industry? | Shamsul Anam Emon | [Read More](https://medium.com/p/e7d8b8e3426b) |
-| Mon, 02 Jun 2025 06:26:40 GMT | What You Need to Know About the Cyberattack on the Department of Pensions | Lelwala Liyanage | [Read More](https://medium.com/p/0c7c0d126cff) |
-| Mon, 02 Jun 2025 06:25:17 GMT | Security Testing Market Size, Share, Key Drivers, Growth Opportunities and Global Trends 2032 | Mark | [Read More](https://medium.com/p/0e05127bfedb) |
-| Mon, 02 Jun 2025 06:22:37 GMT | Understanding Single Sign-On (SSO): A Streamlined Approach to Authentication | Double Pointer | [Read More](https://medium.com/p/5f941b342950) |
-| Mon, 02 Jun 2025 06:21:52 GMT | We Are In Love But We Keep Hurting Each Other Without Meaning To. | PromiseOsas | [Read More](https://medium.com/p/35a435993773) |
-| Mon, 02 Jun 2025 06:19:44 GMT | Threat Detection Using Behavioural Analytics: A Practical Guide for SOC Teams | Paritosh | [Read More](https://medium.com/p/265e75ceba42) |
-| Mon, 02 Jun 2025 06:18:31 GMT | Track the Hacks: Introduction to Computer Forensic | byuda | [Read More](https://medium.com/p/7f5aa2b668b1) |
-| Mon, 02 Jun 2025 06:14:53 GMT | My AndroGoat Journey: Binary Patching for Admin Access | Damara Brian | [Read More](https://medium.com/p/830ab9d9e21f) |
-| Mon, 02 Jun 2025 06:14:23 GMT | My AndroGoat Journey: Bypassing Emulator Detection | Damara Brian | [Read More](https://medium.com/p/6f5b5f8e1d3d) |
-| Mon, 02 Jun 2025 06:13:45 GMT | My AndroGoat Journey: Bypassing Root Detection | Damara Brian | [Read More](https://medium.com/p/fa1d4327c187) |
