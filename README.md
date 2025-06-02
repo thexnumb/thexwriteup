@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 17:09:40 GMT | Gen Z Can’t Flirt Without A Meme | Jiya Tanna | [Read More](https://medium.com/p/dc0744c34763) |
+| Mon, 02 Jun 2025 17:04:47 GMT | Data Masking vs Tokenization: Which One Fits Your Data Protection Needs? | SafeAeon Inc. | [Read More](https://medium.com/p/fe158e9033ee) |
+| Mon, 02 Jun 2025 17:02:42 GMT | Don’t Let Ransomware Win: Smart Ways to Keep Your Data Safe | Akshay Chauhan | [Read More](https://medium.com/p/19b16fd53962) |
+| Mon, 02 Jun 2025 16:59:10 GMT | 2025 Cybersecurity Trends: Complete Guide to Digital Threat Protection | Criptobox | [Read More](https://medium.com/p/b8c2cd3ac2aa) |
+| Mon, 02 Jun 2025 16:58:03 GMT | Teardrop Attack: Definition, Risks, and Protection | SafeAeon Inc. | [Read More](https://medium.com/p/1513724c5b59) |
+| Mon, 02 Jun 2025 16:57:38 GMT | How I Used TCP Headers to Exfiltrate Data — A Simple but Powerful Learning Exercise | H-H Kolberg | [Read More](https://medium.com/p/7d9812ce81c1) |
+| Mon, 02 Jun 2025 16:54:37 GMT | Colt, Honeywell, and Nokia Launch Space-Based Trial for Quantum-Safe Cryptography | QuantumGenie | [Read More](https://medium.com/p/d6e5750acc25) |
+| Mon, 02 Jun 2025 16:52:11 GMT | Keeping Smart Healthcare Safe: How AI and Policy-as-Code Boost Security in Digital Hospitals | h4stur | [Read More](https://medium.com/p/4f57e05c1d0b) |
 | Mon, 02 Jun 2025 16:50:50 GMT | Knock Knock by HTB | Fatimahasan | [Read More](https://medium.com/p/48da219effcd) |
 | Mon, 02 Jun 2025 16:47:09 GMT | Understanding Vulnerability Management as a Service: A Smart Path to Stronger Security | SafeAeon Inc. | [Read More](https://medium.com/p/c70ce17ae192) |
 | Mon, 02 Jun 2025 16:38:40 GMT | Authentication Bypass via OTP Response Manipulation | Youssefhussein | [Read More](https://medium.com/p/228bca9244d2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 11:54:04 GMT | We haven’t got enough air. | Shobande Daniel Oluwadamisi | [Read More](https://medium.com/p/d3c0e57eadf0) |
 | Mon, 02 Jun 2025 11:48:26 GMT | How Can I withdraw My Money From Bullwaves ? | Kelly | [Read More](https://medium.com/p/b89b7c7f8f17) |
 | Mon, 02 Jun 2025 11:46:54 GMT | Why Sharing Your Flaws Can Make You More Influential | Senorita Eugenia | [Read More](https://medium.com/p/04161559f198) |
-| Mon, 02 Jun 2025 11:38:55 GMT | Spanning Tree Protocols: Keeping Ethernet Networks Loop-Free and Reliable | Diogo Neto | [Read More](https://medium.com/p/5785682d66b6) |
-| Mon, 02 Jun 2025 11:35:09 GMT | Dynamic Routing Protocols: RIP, IGRP, EIGRP, OSPF, IS-IS, EGP, and BGP Explained | Diogo Neto | [Read More](https://medium.com/p/2e93fa87a021) |
-| Mon, 02 Jun 2025 11:34:29 GMT | Digging into Certificate Transparency: Discovering Subdomains with crt.sh and Bash | Johan Louwers | [Read More](https://medium.com/p/34d708062db2) |
-| Mon, 02 Jun 2025 11:32:30 GMT | How to Secure APIs Against Common Vulnerabilities? | Sparkle web | [Read More](https://medium.com/p/923ba8b6aab6) |
-| Mon, 02 Jun 2025 11:29:12 GMT | Why Cyber Scams Are the Current Big Threat for Businesses and Consumers | Tarek Mhiri/ spicesformind.com | [Read More](https://medium.com/p/7a5fc15e6a7a) |
-| Mon, 02 Jun 2025 11:28:46 GMT | System Design — API Security Protocols | Amit Singh Rathore | [Read More](https://medium.com/p/351da595e888) |
-| Mon, 02 Jun 2025 11:28:14 GMT | xss test | Cybertech | [Read More](https://medium.com/p/2762b32ae9e1) |
-| Mon, 02 Jun 2025 11:26:01 GMT | Unleashing the Power of Darkness Recon: The Ultimate Reconnaissance Tool for Cybersecurity Pros | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/c63d1ef57132) |
