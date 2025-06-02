@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 23:41:02 GMT | TryHackMe — Kenobi: Privilege Escalation analiz və SUID vasitəsilə Root imtiyazının əldə edilməsi | Yaqubnasibov | [Read More](https://medium.com/p/42ce4a07c56c) |
+| Mon, 02 Jun 2025 23:40:27 GMT | U.A High School THM Walkthrough | Victor Khattar (PentaK) | [Read More](https://medium.com/p/9c0a9f808e53) |
+| Mon, 02 Jun 2025 23:36:11 GMT | Top 10 Cybersecurity Trends to Watch in 2025 | Cullensam | [Read More](https://medium.com/p/65b9de3d1b76) |
+| Mon, 02 Jun 2025 23:31:30 GMT | Gobuster Room: TryHackMe | RHR | [Read More](https://medium.com/p/1b936c8ef081) |
+| Mon, 02 Jun 2025 23:25:10 GMT | Segurança em Micro Serviços | Perla C. S | [Read More](https://medium.com/p/134e0f873380) |
 | Mon, 02 Jun 2025 23:12:12 GMT | Breaking into the Cloud: Reviewing Tyler Ramsbey’s AWS Pentesting Course ‍ | WireHawk Security | [Read More](https://medium.com/p/b7027aac5574) |
 | Mon, 02 Jun 2025 23:10:59 GMT | How to Set Up MobSF with Docker on Kali Linux for Mobile App Penetration Testing | C. Oscar Lawshea | [Read More](https://medium.com/p/3e4e103efef8) |
 | Mon, 02 Jun 2025 23:04:36 GMT | All: It Takes | Good Day, Adam | [Read More](https://medium.com/p/bdd35b0481e8) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 16:50:50 GMT | Knock Knock by HTB | Fatimahasan | [Read More](https://medium.com/p/48da219effcd) |
 | Mon, 02 Jun 2025 16:47:09 GMT | Understanding Vulnerability Management as a Service: A Smart Path to Stronger Security | SafeAeon Inc. | [Read More](https://medium.com/p/c70ce17ae192) |
 | Mon, 02 Jun 2025 16:38:40 GMT | Authentication Bypass via OTP Response Manipulation | Youssefhussein | [Read More](https://medium.com/p/228bca9244d2) |
-| Mon, 02 Jun 2025 16:36:27 GMT | Top 7 Industries That Need MFA Right Now — And How Rainbow Secure Delivers | Dr. Shashi Karhail | [Read More](https://medium.com/p/a6bbbfbdecf3) |
-| Mon, 02 Jun 2025 16:36:13 GMT | The Limits of Signature Based Detection in Threat Hunting and How to Overcome Them | Bappe Sarker | [Read More](https://medium.com/p/d58d06efa55e) |
-| Mon, 02 Jun 2025 16:34:37 GMT | Fighting Fake Information in the Age of AI: Why It Matters Now | JJ Hamm | [Read More](https://medium.com/p/e8284c597ff8) |
-| Mon, 02 Jun 2025 16:31:33 GMT | Android’de Uygulama Çalıştırma Mimarileri: Dalvik ve ART’in Evrimi | Romanzeb | [Read More](https://medium.com/p/022b35f2cd5e) |
-| Mon, 02 Jun 2025 16:30:00 GMT | Is Wenwin Safe to Use? A Deep Dive Into Wenwin’s Cyber Security Measures (2025 Update) | Ootk | [Read More](https://medium.com/p/594c4e9dc4a7) |
