@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Jun 2025 09:19:05 GMT | Why getline() Doesn’t Work After cin — and How to Fix It | Pratham Gupta | [Read More](https://medium.com/p/1a29a31e5b08) |
+| Mon, 02 Jun 2025 09:17:32 GMT | Securycor: Your Trusted Security Partner | Professional UK Services | [Read More](https://medium.com/p/d9bd843f18a0) |
+| Mon, 02 Jun 2025 09:16:25 GMT | How to Use Burp Suite: Discover & Master Powerful Features | Ekene Joseph | [Read More](https://medium.com/p/78285942f177) |
+| Mon, 02 Jun 2025 09:15:53 GMT | Exploiting the Gaps in Password Reset Verification | Ehtesham Ul Haq | [Read More](https://medium.com/p/9bb86ec95d29) |
+| Mon, 02 Jun 2025 09:14:28 GMT | 如何使用 OWASP ZAP 進行 API 安全測試 | Ivan Cheng | [Read More](https://medium.com/p/4105e105bd45) |
+| Mon, 02 Jun 2025 09:14:00 GMT | Simple CTF — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/01e302a31f37) |
+| Mon, 02 Jun 2025 09:11:18 GMT | GPTleak or hallucination ? | Remy Ramirez | [Read More](https://medium.com/p/ea3c1c117971) |
+| Mon, 02 Jun 2025 09:05:55 GMT | China’s Earth Lamia Cyber Espionage Group Poses Growing Threat to Indonesia’s Critical… | MITRE Doggy | [Read More](https://medium.com/p/2db475bb9e4b) |
+| Mon, 02 Jun 2025 09:05:14 GMT | Understanding SWIFT CSP: Key Updates in 2025 | Biz Serve IT | [Read More](https://medium.com/p/02dd9fedd480) |
+| Mon, 02 Jun 2025 09:02:33 GMT | What is GRC? A Beginners Guide | Harry West | [Read More](https://medium.com/p/182bc2e57d87) |
+| Mon, 02 Jun 2025 09:02:16 GMT | The Data Dilemma: Why Nonprofits Must Prioritize Secure and Modern Data Practices | The Green Watchdog | [Read More](https://medium.com/p/ce67e2261428) |
+| Mon, 02 Jun 2025 09:00:47 GMT | Do you know your Detection Surface? | Rcegan | [Read More](https://medium.com/p/8981289b0d25) |
+| Mon, 02 Jun 2025 08:56:31 GMT | eJPT - 1.4 Vulnerability Assessment | Hammaad M | [Read More](https://medium.com/p/64d7bb0e255e) |
+| Mon, 02 Jun 2025 08:55:26 GMT | Laika AI and Cardexo Launch Groundbreaking $LKI-Powered Mastercard: A New Era of Web3 Utility… | CryptoDof | [Read More](https://medium.com/p/97f40a781342) |
+| Mon, 02 Jun 2025 08:53:50 GMT | India, Wake Up! These 5 New Scams Are Ruining Lives, Don’t Be the Next Victim | Karan Panchal | [Read More](https://medium.com/p/70509a22e4b3) |
+| Mon, 02 Jun 2025 08:47:06 GMT | NATO DIANA unveils 10 new challenges to accelerate dual-use technology breakthroughs | DIANA: Dual Use Innovation | [Read More](https://medium.com/p/c690bad56c90) |
+| Mon, 02 Jun 2025 08:45:47 GMT | Bulletproof Hosting (BPH) | Meltem Nur Gündoğdu | [Read More](https://medium.com/p/b71390ca2db2) |
+| Mon, 02 Jun 2025 08:44:17 GMT | Why Do Some Men Ask for Vulnerability, Then Treat It Like Leverage? | LSD | [Read More](https://medium.com/p/c0af9a662268) |
+| Mon, 02 Jun 2025 08:43:08 GMT | Medusa Ransomware Hits RE/MAX: 151GB Data Breach Exposes Real Estate Giant’s Vulnerabilities | Ronit Yadav | [Read More](https://medium.com/p/7780f410b31c) |
+| Mon, 02 Jun 2025 08:41:46 GMT | How Can I Recover My Money From Fxcess? | Lillin | [Read More](https://medium.com/p/c971a340c9cf) |
 | Mon, 02 Jun 2025 08:38:53 GMT | Bulletproof Hosting (BPH) | Meltem Nur Gündoğdu | [Read More](https://medium.com/p/5fffb1b633d8) |
 | Mon, 02 Jun 2025 08:37:03 GMT | How to Get Consistent Rewards with Recon Solana $RECON | $RECON Recon Solana Community Rewards | [Read More](https://medium.com/p/adeef0d35000) |
 | Mon, 02 Jun 2025 08:32:28 GMT | Inadequate Sandboxing in LLMs — OWASP LLM Top 10 | Akanksha | [Read More](https://medium.com/p/45be4c88c402) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 03:32:29 GMT | TsarBot Malware: The Sophisticated Android Threat Targeting 750+ Financial and Crypto Apps | Deven Chhajed | [Read More](https://medium.com/p/f1650777ad9e) |
 | Mon, 02 Jun 2025 03:18:06 GMT | DNS Demystified: Understanding Forward, Reverse, and the Backbone of the Internet | Ersad Muçollari | [Read More](https://medium.com/p/dfded0f70674) |
 | Mon, 02 Jun 2025 03:08:56 GMT | Reconciliation | Krishna | [Read More](https://medium.com/p/5f0c8763126a) |
-| Mon, 02 Jun 2025 03:01:01 GMT | Anti-Forensic Techniques to Cover Your Tracks | z3r0trust | [Read More](https://medium.com/p/95792216a9cd) |
-| Mon, 02 Jun 2025 02:50:26 GMT | How Can Cyber Security Monitoring Services Help Beat Competition? | Cyberextent | [Read More](https://medium.com/p/3ea0f2ac54d4) |
-| Mon, 02 Jun 2025 02:45:57 GMT | The Silent Siege: How Hacktivism is Reshaping Global Power and What CEOs Need to Know | Biswajeet Poddar | [Read More](https://medium.com/p/82b165f19842) |
-| Mon, 02 Jun 2025 02:44:27 GMT | Hack The Box — EscapeTwo | Daniel Gilbert | [Read More](https://medium.com/p/6daf776d27bb) |
-| Mon, 02 Jun 2025 02:41:31 GMT | How to Start Bug Bounty with Zero Knowledge | Abhijeet Kumawat | [Read More](https://medium.com/p/bfa8c98d897e) |
-| Mon, 02 Jun 2025 02:32:30 GMT | The Model Context Protocol (MCP): Giving AI Real Memory (And Tools!) | Ihyth | [Read More](https://medium.com/p/331aa7282c3e) |
-| Mon, 02 Jun 2025 02:23:41 GMT | Facebook’s Secret Superpower: Following You Without a Login | UnknwnSaber | [Read More](https://medium.com/p/eb43c422f61e) |
-| Mon, 02 Jun 2025 02:21:35 GMT | RST TI Report Digest: 02 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/e15ec84e74f5) |
-| Mon, 02 Jun 2025 02:20:19 GMT | 7 Computer Tips I Wish I Knew Sooner (From Someone Who’s Spent Years Troubleshooting) | Charukshi Wijesinghe | [Read More](https://medium.com/p/ed0eedb3d835) |
-| Mon, 02 Jun 2025 02:06:18 GMT | Investigasi CLDAP & Broadcast Anomali: Studi Kasus Lalu Lintas Mencurigakan di Jaringan Internal | Dzakwan Efendi | [Read More](https://medium.com/p/eb50e1bcb3b8) |
-| Mon, 02 Jun 2025 01:47:32 GMT | What is Security Operations Center (SOC) | Abhinav Pathak | [Read More](https://medium.com/p/a5d8fd0ef18d) |
-| Mon, 02 Jun 2025 01:31:33 GMT | Inside the Lab: My Hands-On Guide to Building a Malware Analysis Environment | Ebenezer Hans Mensah | [Read More](https://medium.com/p/0233753d81fb) |
-| Mon, 02 Jun 2025 01:26:28 GMT | How to Quickly Identify Good or Bad People: Be Generous First | Yuenie-kate | [Read More](https://medium.com/p/aa2e011b3cfa) |
-| Mon, 02 Jun 2025 01:05:18 GMT | Attacking Common Applications — Skills Assessment III | Ibrahima Ndong | [Read More](https://medium.com/p/e9d7a81c7da3) |
-| Mon, 02 Jun 2025 01:04:24 GMT | Cybersecurity Lexicon | Dr. Prashant Sawant | [Read More](https://medium.com/p/43fdeb7a38b3) |
-| Mon, 02 Jun 2025 00:32:28 GMT | How I Brute-Forced My Way Through a Broken Login Gate | Muthu | [Read More](https://medium.com/p/4250b22153f9) |
-| Mon, 02 Jun 2025 00:28:45 GMT | BUILT TOUGH, LEARNING SOFT | Dewdrop | [Read More](https://medium.com/p/b7b435346d0d) |
-| Mon, 02 Jun 2025 00:27:56 GMT | Satellite & Spaceborne Infrastructure Cybersecurity: Securing the Final Frontier | A-STAR7_DOCTOR | [Read More](https://medium.com/p/3cb991e3e5af) |
-| Mon, 02 Jun 2025 00:26:26 GMT | TryHackMe- Hydra walk through | Kumari Amita Kishore | [Read More](https://medium.com/p/dd8a16e23abd) |
-| Mon, 02 Jun 2025 00:12:27 GMT | Red Teaming in the Modern Enterprise: Cybersecurity Strategies for Banking, Healthcare, and Retail | John The CEO, Cloud And Social Thought Leader | [Read More](https://medium.com/p/431d08996bd8) |
