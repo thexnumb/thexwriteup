@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 06:24:13 GMT | Hunting for Secrets in Source Maps (.map Files) | Monika sharma | [Read More](https://medium.com/p/de969e4b0cdb) |
+| Tue, 03 Jun 2025 06:15:26 GMT | Secrets in IaC: Vault, SOPS, or AWS Secrets Manager? | Devops Trainer | [Read More](https://medium.com/p/be4e9b3d5dc7) |
+| Tue, 03 Jun 2025 06:11:39 GMT | S1E7 : Spring Security Deep Dive: JWT, Custom Authentication and Role-Based Access - Explained | Yasin Serbest | [Read More](https://medium.com/p/04f3bd383fe8) |
+| Tue, 03 Jun 2025 06:03:51 GMT | New strategic collaboration to bring clarity to threat actor naming | jogojogo | [Read More](https://medium.com/p/ff4a8f737c24) |
+| Tue, 03 Jun 2025 06:03:22 GMT | How Quantum Computing Will Transform Cybersecurity | Gary A. Fowler | [Read More](https://medium.com/p/3d7adb340260) |
+| Tue, 03 Jun 2025 06:00:48 GMT | Mitigation Techniques Every Business Must Use to Prevent Cyber Threats | unica 02 | [Read More](https://medium.com/p/1c41c5840b95) |
+| Tue, 03 Jun 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Jun 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7631b471926b) |
+| Tue, 03 Jun 2025 06:00:20 GMT | Remote File Inclusion (RFI) Lab — Docker Custom Setup and Exploitation | Shahin Raza | [Read More](https://medium.com/p/44a4e12628fa) |
+| Tue, 03 Jun 2025 05:58:45 GMT | Are VPNs even safe? | Udit | [Read More](https://medium.com/p/a58d70a8686f) |
+| Tue, 03 Jun 2025 05:55:46 GMT | Understanding Cybersecurity Roles, SOCs, and Security Controls — A Complete Guide for Aspiring… | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/8f02abf7fe3e) |
+| Tue, 03 Jun 2025 05:54:51 GMT | ✅ I Passed the CompTIA CySA+ (CS0–003)! Here’s How I Did It — Revision Notes & Mind Maps Inside | SecWithShobhit⚡ | [Read More](https://medium.com/p/3b7e91ed6223) |
+| Tue, 03 Jun 2025 05:54:08 GMT | What is Social Engineering: A Comprehensive Overview | Halildeniz | [Read More](https://medium.com/p/b61aeed2e29d) |
+| Tue, 03 Jun 2025 05:52:12 GMT | OWASP Mobile Top 10 2025: Understanding Key Vulnerabilities & Enhancing Mobile App Security | Securis360 Inc. | [Read More](https://medium.com/p/fb9193c0061e) |
+| Tue, 03 Jun 2025 05:49:25 GMT | Healthcare Data Center Security: Protecting Patient Information in Qatar | Tekhabeeb | [Read More](https://medium.com/p/b2399ccecf9f) |
+| Tue, 03 Jun 2025 05:47:22 GMT | Baggage X-Ray Scanner for Hostels: Improving Safety and Peace of Mind | Pentagonengineers | [Read More](https://medium.com/p/f999b403646b) |
+| Tue, 03 Jun 2025 05:40:22 GMT | Benefits of Outsourcing Cyber Security Management Services | Khatore IT Solutions | [Read More](https://medium.com/p/9d0bb9a6488e) |
 | Tue, 03 Jun 2025 05:24:49 GMT | 404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths” | Monika sharma | [Read More](https://medium.com/p/f5723b3ad3f8) |
 | Tue, 03 Jun 2025 05:24:45 GMT | Airport Baggage X-Ray Machine Insights: Security Through Scanning | Pentagonengineers | [Read More](https://medium.com/p/97671e65f2b4) |
 | Tue, 03 Jun 2025 05:23:45 GMT | How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF (CVE-2025–4123) | coffinxp | [Read More](https://medium.com/p/b35245dccaab) |
@@ -97,19 +113,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Mon, 02 Jun 2025 20:38:27 GMT | ARM Cortex-M MPU Explained: Memory Attributes, Access Control, and More | Wadix Technologies | [Read More](https://medium.com/p/0061ec43832f) |
 | Mon, 02 Jun 2025 20:36:40 GMT | “From Doubt to Discovery: Reporting a CSRF Bug to NASA ” | Virendra Kumar | [Read More](https://medium.com/p/62f95ecbfb81) |
 | Mon, 02 Jun 2025 20:34:33 GMT | Migrate from Wireguard to awesome Wg-Easy with no interruption for users | Vincenthartmann | [Read More](https://medium.com/p/b249ed5162b5) |
-| Mon, 02 Jun 2025 20:33:36 GMT | Energy, Enterprise & Espresso: My Evolving Journey Through Business and Beyond | Aadil Ahesan | [Read More](https://medium.com/p/a6f43be25fb7) |
-| Mon, 02 Jun 2025 20:20:25 GMT | From Zero to Secure: Your Blueprint for Building an InfoSec Organization from the Ground Up | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b3972dc4179e) |
-| Mon, 02 Jun 2025 20:18:15 GMT | File Transfer Protocol (FTP) | Kevin Gicheha | [Read More](https://medium.com/p/a6ed1a8a1412) |
-| Mon, 02 Jun 2025 20:05:36 GMT | Mobile Acquisition - TryHackMe Walkthrough | CyferNest Sec | [Read More](https://medium.com/p/7e8b9863048b) |
-| Mon, 02 Jun 2025 20:01:44 GMT | Understanding VPN Encryption: What You Need to Know | VPN ForceField | [Read More](https://medium.com/p/132944428180) |
-| Mon, 02 Jun 2025 19:58:36 GMT | FastAPI দিয়ে Token-Based Security সহজভাবে (বাংলায় গাইড) | Sadiqul Islam | [Read More](https://medium.com/p/3213f0b27494) |
-| Mon, 02 Jun 2025 19:57:30 GMT | Exploiting the Edge: A Pen Tester’s Dispatch from June 2, 2025’s Cyber Frontlines | hackerguy | [Read More](https://medium.com/p/ff6ed5fe5a00) |
-| Mon, 02 Jun 2025 19:54:42 GMT | Unlock Bigger Profits with ChainBounty $BOUNTY | BOUNTY | [Read More](https://medium.com/p/cffd311833f0) |
-| Mon, 02 Jun 2025 19:52:31 GMT | Migrate from Wireguard to awesome Wg-Easy with no interruption for users | Vincenthartmann | [Read More](https://medium.com/p/78f993582462) |
-| Mon, 02 Jun 2025 19:41:35 GMT | Solving PortSwigger’s DOM XSS Lab: document.write in a select element | Rafa Moreno | [Read More](https://medium.com/p/8844fd8bba89) |
-| Mon, 02 Jun 2025 19:33:34 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 3] | Aditya Bhatt | [Read More](https://medium.com/p/4cee87018c39) |
-| Mon, 02 Jun 2025 19:31:45 GMT | Exploring OSINT and Threat Intelligence | Dhwanil | [Read More](https://medium.com/p/2830909ad3b7) |
-| Mon, 02 Jun 2025 19:28:52 GMT | SOC102 — EventID 22— Suspicious URL Detected |  | [Read More](https://medium.com/p/f1605d223774) |
-| Mon, 02 Jun 2025 19:25:09 GMT | Breaking the Firewall: A Pen Tester’s Take on June 2, 2025 Cybersecurity Chaos | hackerguy7 | [Read More](https://medium.com/p/7b0e5b996be1) |
-| Mon, 02 Jun 2025 19:24:13 GMT | AVUESSO — Review | marianita_cloud | [Read More](https://medium.com/p/b7cc46b5dae9) |
-| Mon, 02 Jun 2025 19:22:17 GMT | ⚠️ Beware of a LinkedIn Scam Involving Malicious Bitbucket Repository | Stanislav Obrazcoff | [Read More](https://medium.com/p/77ac8816b5ca) |
