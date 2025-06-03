@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 22:59:48 GMT | Bankers Association’s attack on cybersecurity transparency | Matthew.Rosenquist | [Read More](https://medium.com/p/24cc4ee5fa55) |
+| Tue, 03 Jun 2025 22:54:11 GMT | What If Your Code Isn’t as Safe as You Think? | Cyber-AppSec | [Read More](https://medium.com/p/9fb44fae8641) |
 | Tue, 03 Jun 2025 22:16:02 GMT | API Security in the Age of AI: New Attack Surfaces and How to Defend Them | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9db3e92a2746) |
 | Tue, 03 Jun 2025 22:10:48 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/761c1e198f8c) |
 | Tue, 03 Jun 2025 22:10:37 GMT | Chat n’ Hack: Unleash the power of AI utilizing LibreChat, MCP and Kali Linux | Chris Schw | [Read More](https://medium.com/p/678bbbbe1d82) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 14:18:37 GMT | Why Ransomware is a Growing Threat in the UK | Forefront Technology International Inc. | [Read More](https://medium.com/p/171798524756) |
 | Tue, 03 Jun 2025 14:11:31 GMT | Why You Loved More Fearlessly as a Child (And How to Get It Back) | Sarah Knight | [Read More](https://medium.com/p/a80b0023c3d3) |
 | Tue, 03 Jun 2025 14:11:26 GMT | Welcome to the Chaos! | LetterstoBecoming | [Read More](https://medium.com/p/0e2a3608532c) |
-| Tue, 03 Jun 2025 14:10:38 GMT | Ledger.com Review - This is How I Recover My Money Back | Riley hay | [Read More](https://medium.com/p/880a48473d2e) |
-| Tue, 03 Jun 2025 14:09:05 GMT | What a Forgotten Codebreaker Taught Me About Finding My Path | The Decryptionist (AMS) | [Read More](https://medium.com/p/59900dfb0855) |
