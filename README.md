@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 16:23:57 GMT | OAuth 2.0 & OpenID Connect: Advanced Guide to Flows, Flaws & Fixes | Shxdowz | [Read More](https://medium.com/p/dea389cf6183) |
+| Tue, 03 Jun 2025 16:21:34 GMT | How to Create TLS Certificates with mkcert and Integrate Them with Spring Boot, Node.js, and Go | Koushik | [Read More](https://medium.com/p/ea3848f72341) |
+| Tue, 03 Jun 2025 16:16:00 GMT | I Lost $100K in a Fake Real Estate Deal — DRI Helped Me Get It Back by [Resse] | Amstel Resse | [Read More](https://medium.com/p/e80440d50557) |
+| Tue, 03 Jun 2025 16:05:27 GMT | Understanding Host Header Attacks: How a Small Header Can Lead to Major Vulnerabilities | Ud4y | [Read More](https://medium.com/p/0a123d2b47e3) |
+| Tue, 03 Jun 2025 15:58:56 GMT | The Surprising Story of the 28-Year-Old Who Accidentally Started A War Between Apple And The FBI | Jano le Roux | [Read More](https://medium.com/p/bdb820fee445) |
+| Tue, 03 Jun 2025 15:57:23 GMT | How I Recovered $58,000 from a Crypto Investment Scam: My Journey Back from the Brink | Benson Ceasero | [Read More](https://medium.com/p/68ec643c35bf) |
+| Tue, 03 Jun 2025 15:54:55 GMT | Mastering Azure Cloud Security: Protecting Your Cloud Assets | Lingala kondareddy | [Read More](https://medium.com/p/5d574b1a39ba) |
+| Tue, 03 Jun 2025 15:47:33 GMT | The FohnAI Manifesto | Jonah | [Read More](https://medium.com/p/2e6878ff48c1) |
+| Tue, 03 Jun 2025 15:46:36 GMT | 6 Cyber Attacks That Could Take Down a Nation | Brittney Ginther | [Read More](https://medium.com/p/5d9a19fc0585) |
+| Tue, 03 Jun 2025 15:46:31 GMT | Phone Scams Exposed: How Scammers Trick You and How to Stay Safe | SafeAeon Inc. | [Read More](https://medium.com/p/bde73f763d74) |
+| Tue, 03 Jun 2025 15:39:04 GMT | Securing Your React Native App with freerasp-react-native (For Free) | Senior React Native Developer - Team Lead | [Read More](https://medium.com/p/a3ee417cf79a) |
 | Tue, 03 Jun 2025 15:36:50 GMT | Can a Smart Fridge Be a National Security Threat? (Yes, and It’s Not Even Trying to Be Evil) | Shubham Sudhakar | [Read More](https://medium.com/p/67417c4dde74) |
 | Tue, 03 Jun 2025 15:34:58 GMT | The Help Desk That Never Sleeps: How AI Agents Are Reshaping Cybersecurity Careers | Andrei Ivan | [Read More](https://medium.com/p/1c03de310867) |
 | Tue, 03 Jun 2025 15:34:23 GMT | Ransomware Investigation Using Splunk — BOTSv1 Scenario 2 Walkthrough | Mohamed-Mahmoud | [Read More](https://medium.com/p/23465aa33c71) |
@@ -88,6 +99,7 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 12:01:57 GMT | Postgresql Row Level Security | Oz | [Read More](https://medium.com/p/a42d9571b09f) |
 | Tue, 03 Jun 2025 11:58:21 GMT | How i was able to exploit a vulnerable payment system. | Moratadave | [Read More](https://medium.com/p/4bd81e05e0c1) |
 | Tue, 03 Jun 2025 11:52:59 GMT | How To Protect Your Computing Devices And Systems | Cyber Timi | [Read More](https://medium.com/p/b4b0189c2de1) |
+| Tue, 03 Jun 2025 11:51:10 GMT | Geliştirici Hatalarıyla Zafiyet Bulma: Açıkta Kalan Debug Paneller, Swagger UI ve .git Sızıntıları | Onur Civan | [Read More](https://medium.com/p/73ff26a26281) |
 | Tue, 03 Jun 2025 11:50:17 GMT | HTB 10.10.11.57 — Full Active Machine Walkthrough - NullClass Internship Report | Ravi Teja | [Read More](https://medium.com/p/e23fcc2739bc) |
 | Tue, 03 Jun 2025 11:49:31 GMT | THM - Flag Vault | Francesco Pastore | [Read More](https://medium.com/p/504c39b8c477) |
 | Tue, 03 Jun 2025 11:48:18 GMT | Race Condition leads to use-after-free | 0cifer_l | [Read More](https://medium.com/p/38af439e3cfd) |
@@ -101,15 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 11:16:40 GMT | Fixing ‘Logon Failure: The User Has Not Been Granted the Requested Logon Type’ Error on Windows… | Utkarsh Raj | [Read More](https://medium.com/p/08f9b1f0076e) |
 | Tue, 03 Jun 2025 11:16:02 GMT | Interlock and the Kettering Ransomware Attack: ClickFix’s Persistence | Mary Yang | [Read More](https://medium.com/p/ee00aaf67bff) |
 | Tue, 03 Jun 2025 11:15:44 GMT | Understanding EIP-7702 Phishing Attacks: A Comprehensive Guide to Protection Strategies for Wallets | GoPlus Security | [Read More](https://medium.com/p/8e8372e3d5ea) |
-| Tue, 03 Jun 2025 11:12:24 GMT | SQL Server 2019 AlwaysOn Mimarisi ve Kurulumu | Murat Culum | [Read More](https://medium.com/p/f3c5a31fbedd) |
-| Tue, 03 Jun 2025 11:12:09 GMT | You’re Not a ‘Tech Founder.’ You Just Built a Notion Template | Soulitinerary | [Read More](https://medium.com/p/c633eb39999d) |
-| Tue, 03 Jun 2025 11:10:33 GMT | The Safe Death of the Modern Heart | Dr Michael Sebastian | [Read More](https://medium.com/p/d7d7461ff282) |
-| Tue, 03 Jun 2025 11:07:06 GMT | A  :    … | Shahriar Kabir Omi | [Read More](https://medium.com/p/478a0fd3e64a) |
-| Tue, 03 Jun 2025 11:05:46 GMT | A Peek Into Nova Scotia, Canada’s Cyberspace & The Dangers In Our Digital Lives | O. J. Okpabi | [Read More](https://medium.com/p/ecd5b6e47e91) |
-| Tue, 03 Jun 2025 11:05:24 GMT | Why Cybersecurity Is More Important Than Ever in 2025 | Sandesh Kumar | [Read More](https://medium.com/p/cca8fedede0f) |
-| Tue, 03 Jun 2025 11:04:16 GMT | Daily Bugle TryHackMe Writeup: A Journey Through Joomla Exploitation and Privilege Escalation | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/ffe3e6cccaf8) |
-| Tue, 03 Jun 2025 11:02:34 GMT | Why You Need PGP If You Work with Clients, Leaks, or Sensitive Data (Basic Level) | Ingvar Pavlovich | [Read More](https://medium.com/p/89f359be9aec) |
-| Tue, 03 Jun 2025 11:02:29 GMT | Provisioning Proxmox Virtual Machines with Terraform | Daniel Edwards | [Read More](https://medium.com/p/d9e9c549f947) |
-| Tue, 03 Jun 2025 10:57:51 GMT | ⚔ Simulating ARP Spoofing & MITM Attacks in a Controlled Lab | Alex Henry | [Read More](https://medium.com/p/e8bb7e521a68) |
-| Tue, 03 Jun 2025 10:51:14 GMT | Top Skills to Acquire in 2025: AI, Cybersecurity, and Cloud Technologies | VERSAtile Reads | [Read More](https://medium.com/p/3dfd5c1b6620) |
-| Tue, 03 Jun 2025 10:49:38 GMT | Understanding Linux Architecture & Inter-Process Communication: A Beginner’s Guide for Aspiring… | Mubashir Rahman | [Read More](https://medium.com/p/d060a0b04111) |
