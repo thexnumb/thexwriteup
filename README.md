@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 11:34:35 GMT | Top Career Options After BCA in 2025 | izee institutions | [Read More](https://medium.com/p/66006333e666) |
+| Tue, 03 Jun 2025 11:32:29 GMT | Wrapping Up Domain 1: General Security Concepts — Your Security+ SY0-701 Review & Quiz | Jason Junior Boderebe | [Read More](https://medium.com/p/a8d264f6c91b) |
+| Tue, 03 Jun 2025 11:21:08 GMT | This Seemed Like a Tata Service Message — My Cybersecurity Instincts Knew Better | Leroyanand | [Read More](https://medium.com/p/7c8abad6224e) |
+| Tue, 03 Jun 2025 11:18:58 GMT | Is GMX V2 Safe to Use? A Deep Dive Into GMX V2’s Security and Privacy Measures (2025 Update) | Ootk | [Read More](https://medium.com/p/a4519cf833ad) |
+| Tue, 03 Jun 2025 11:16:45 GMT | Overpass 2 — Hacked TryHackMe Writeup: A Deep Dive into Web Exploitation | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/763a509fe546) |
+| Tue, 03 Jun 2025 11:16:40 GMT | Fixing ‘Logon Failure: The User Has Not Been Granted the Requested Logon Type’ Error on Windows… | Utkarsh Raj | [Read More](https://medium.com/p/08f9b1f0076e) |
+| Tue, 03 Jun 2025 11:16:02 GMT | Interlock and the Kettering Ransomware Attack: ClickFix’s Persistence | Mary Yang | [Read More](https://medium.com/p/ee00aaf67bff) |
+| Tue, 03 Jun 2025 11:15:44 GMT | Understanding EIP-7702 Phishing Attacks: A Comprehensive Guide to Protection Strategies for Wallets | GoPlus Security | [Read More](https://medium.com/p/8e8372e3d5ea) |
+| Tue, 03 Jun 2025 11:12:24 GMT | SQL Server 2019 AlwaysOn Mimarisi ve Kurulumu | Murat Culum | [Read More](https://medium.com/p/f3c5a31fbedd) |
 | Tue, 03 Jun 2025 11:12:09 GMT | You’re Not a ‘Tech Founder.’ You Just Built a Notion Template | Soulitinerary | [Read More](https://medium.com/p/c633eb39999d) |
+| Tue, 03 Jun 2025 11:10:33 GMT | The Safe Death of the Modern Heart | Dr Michael Sebastian | [Read More](https://medium.com/p/d7d7461ff282) |
 | Tue, 03 Jun 2025 11:07:06 GMT | A  :    … | Shahriar Kabir Omi | [Read More](https://medium.com/p/478a0fd3e64a) |
 | Tue, 03 Jun 2025 11:05:46 GMT | A Peek Into Nova Scotia, Canada’s Cyberspace & The Dangers In Our Digital Lives | O. J. Okpabi | [Read More](https://medium.com/p/ecd5b6e47e91) |
 | Tue, 03 Jun 2025 11:05:24 GMT | Why Cybersecurity Is More Important Than Ever in 2025 | Sandesh Kumar | [Read More](https://medium.com/p/cca8fedede0f) |
@@ -104,13 +114,3 @@ Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com
 | Tue, 03 Jun 2025 07:02:30 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/df21d533c4ce) |
 | Tue, 03 Jun 2025 07:02:30 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/40acf576e3a7) |
 | Tue, 03 Jun 2025 07:02:30 GMT | Failing with Grace (Part 2): Making Errors Testable | TreeifyAI | [Read More](https://medium.com/p/222b2067db43) |
-| Tue, 03 Jun 2025 06:59:26 GMT | China Is Developing Electronic Weapons That Can Instantly Cripple Enemy Systems — And the U.S. | Zeeshan Altaf | [Read More](https://medium.com/p/fbc69e02e5f3) |
-| Tue, 03 Jun 2025 06:54:26 GMT | Redeemer - Hack the Box | tamilvanan | [Read More](https://medium.com/p/9f2a55d62476) |
-| Tue, 03 Jun 2025 06:52:45 GMT | Seamless Environment Switching Without Breaking Production | David Meir-Levy | [Read More](https://medium.com/p/851bf4160af1) |
-| Tue, 03 Jun 2025 06:51:33 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/68b40c03162b) |
-| Tue, 03 Jun 2025 06:51:05 GMT | PhishPhry: Your New Weapon Against Phishing Threats | MR Jamal Mohamed | [Read More](https://medium.com/p/e8a447608e53) |
-| Tue, 03 Jun 2025 06:48:49 GMT | Top 10 Cybersecurity Trends to Watch in 2025 | Untold You | [Read More](https://medium.com/p/67d8d6d958b9) |
-| Tue, 03 Jun 2025 06:47:27 GMT | Track the Hacks: Digital Footprints Retrieval from Windows Registry — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/4562c93b4ad4) |
-| Tue, 03 Jun 2025 06:39:19 GMT | How I Hit 30 and Still Had No Idea What I Was Doing With My Life | Dana Winestone | [Read More](https://medium.com/p/022bcc507eee) |
-| Tue, 03 Jun 2025 06:33:06 GMT | Top Cyber Threats Facing Small Businesses Today (And How to Fight Back) | Kambetastephano | [Read More](https://medium.com/p/c83a32dc8512) |
-| Tue, 03 Jun 2025 06:33:05 GMT | Key Features of Effective CCTV Monitoring | Jane Tang | [Read More](https://medium.com/p/be0210f6ae65) |
