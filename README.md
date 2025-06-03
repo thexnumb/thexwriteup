@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 12:34:33 GMT | DDI Explained: DNS, DHCP, and IPAM in Action with a Practical Cloud Use Case | Anand Prabhat | [Read More](https://medium.com/p/f212fe0f5d1c) |
+| Tue, 03 Jun 2025 12:31:33 GMT | Pickle Rick CTF — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/14f43feb26f0) |
+| Tue, 03 Jun 2025 12:26:39 GMT | 20+ examples of a strong password pdf
+https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo | [Read More](https://medium.com/p/95b389f9fc63) |
+| Tue, 03 Jun 2025 12:25:19 GMT | Productivity Culture Is Just Procrastination in a Suit | Mixella Igiraneza | [Read More](https://medium.com/p/2eeaa9694f7f) |
+| Tue, 03 Jun 2025 12:22:31 GMT | Some Thoughts Don’t Need Answers | Mixella Igiraneza | [Read More](https://medium.com/p/e76d7b0bb195) |
+| Tue, 03 Jun 2025 12:22:06 GMT | The Emotional Intelligence In Policing: A Key To Effective Law Enforcement | Justine Jacob | [Read More](https://medium.com/p/f0f74a1bc4a8) |
+| Tue, 03 Jun 2025 12:19:37 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/8726c3a92d6a) |
+| Tue, 03 Jun 2025 12:18:27 GMT | Why Cybersecurity Services Are Non-Negotiable in Today’s Digital World | Singsys Pte. Ltd. | [Read More](https://medium.com/p/ca310abf0834) |
+| Tue, 03 Jun 2025 12:14:35 GMT | COMMENT FAIRE BRILLER SON Etoile, ENERGIE?. TELEPHONE WHATSAPP : 00229 911 94710 | Wossoudogbolimedium | [Read More](https://medium.com/p/94fa76e1767b) |
+| Tue, 03 Jun 2025 12:12:22 GMT | Why I Chose to Learn Both Software Development & Ethical Hacking — and Why You Might Too! | The Curious Engineer | [Read More](https://medium.com/p/420b29302e5b) |
+| Tue, 03 Jun 2025 12:11:44 GMT | How Governments Are Responding to the Post-Quantum Era | Technologic Innovation | [Read More](https://medium.com/p/4b62b0d6e31a) |
+| Tue, 03 Jun 2025 12:10:37 GMT | Enhancing Data Security Through IT Outsourcing: A Comprehensive Guide to Cybersecurity | TabTree IT Consulting Company | [Read More](https://medium.com/p/745ef6fb8de5) |
+| Tue, 03 Jun 2025 12:10:05 GMT | How Hackers Use Google to Hack You — “Google Dorking” Explained | Sandesh Kumar | [Read More](https://medium.com/p/69eafd1791aa) |
+| Tue, 03 Jun 2025 12:06:17 GMT | How Hackers Use Public Wi-Fi to Steal Your Data — And How to Stay Safe | Sandesh Kumar | [Read More](https://medium.com/p/bc11c4ff02af) |
+| Tue, 03 Jun 2025 12:06:07 GMT | picoCTFchallenges on: A Beginners Guide. | Harrison Esther | [Read More](https://medium.com/p/8714346ee6be) |
+| Tue, 03 Jun 2025 12:02:29 GMT | Day 52: Bash Scripting — Your First Step into Linux Automation! | Agarwaldaksh | [Read More](https://medium.com/p/ac289f2fd32d) |
+| Tue, 03 Jun 2025 12:01:57 GMT | Postgresql Row Level Security | Oz | [Read More](https://medium.com/p/a42d9571b09f) |
+| Tue, 03 Jun 2025 11:58:21 GMT | How i was able to exploit a vulnerable payment system. | Moratadave | [Read More](https://medium.com/p/4bd81e05e0c1) |
+| Tue, 03 Jun 2025 11:52:59 GMT | How To Protect Your Computing Devices And Systems | Cyber Timi | [Read More](https://medium.com/p/b4b0189c2de1) |
+| Tue, 03 Jun 2025 11:50:17 GMT | HTB 10.10.11.57 — Full Active Machine Walkthrough - NullClass Internship Report | Ravi Teja | [Read More](https://medium.com/p/e23fcc2739bc) |
+| Tue, 03 Jun 2025 11:49:31 GMT | THM - Flag Vault | Francesco Pastore | [Read More](https://medium.com/p/504c39b8c477) |
+| Tue, 03 Jun 2025 11:48:18 GMT | Race Condition leads to use-after-free | 0cifer_l | [Read More](https://medium.com/p/38af439e3cfd) |
 | Tue, 03 Jun 2025 11:34:35 GMT | Top Career Options After BCA in 2025 | izee institutions | [Read More](https://medium.com/p/66006333e666) |
+| Tue, 03 Jun 2025 11:32:41 GMT | Is Your Antivirus Enough? Why Businesses Are Upgrading to Managed EDR | Sunder Singh | [Read More](https://medium.com/p/6de70bf033b8) |
 | Tue, 03 Jun 2025 11:32:29 GMT | Wrapping Up Domain 1: General Security Concepts — Your Security+ SY0-701 Review & Quiz | Jason Junior Boderebe | [Read More](https://medium.com/p/a8d264f6c91b) |
 | Tue, 03 Jun 2025 11:21:08 GMT | This Seemed Like a Tata Service Message — My Cybersecurity Instincts Knew Better | Leroyanand | [Read More](https://medium.com/p/7c8abad6224e) |
 | Tue, 03 Jun 2025 11:18:58 GMT | Is GMX V2 Safe to Use? A Deep Dive Into GMX V2’s Security and Privacy Measures (2025 Update) | Ootk | [Read More](https://medium.com/p/a4519cf833ad) |
@@ -91,26 +115,3 @@ Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com
 | Tue, 03 Jun 2025 08:16:26 GMT | Cybersecurity Expert Raed Ahsan Invited by BOL News to Share Insights on Infostealer Malware… | Raed Ahsan | [Read More](https://medium.com/p/f76f28d78ad2) |
 | Tue, 03 Jun 2025 08:14:40 GMT | IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!! | Aman Banga | [Read More](https://medium.com/p/3c61113e04e7) |
 | Tue, 03 Jun 2025 08:13:54 GMT | Bug Bounty + AI =  This Prompt List Will Change Your Game | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c11ea8ea4b30) |
-| Tue, 03 Jun 2025 08:13:08 GMT | Cybersecurity Guide: Network & IT Security Basics | Basnetrupesh | [Read More](https://medium.com/p/2ba7f70f7da9) |
-| Tue, 03 Jun 2025 08:05:43 GMT | CyberDefender: “DanaBot Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/4a85cfd86bdb) |
-| Tue, 03 Jun 2025 08:03:11 GMT | the rise of artificial intelligence employment in 2.1 on Instagram | S Anuradha | [Read More](https://medium.com/p/2ffa852eba81) |
-| Tue, 03 Jun 2025 08:00:00 GMT | Compre Pogotowie IT | Compreit | [Read More](https://medium.com/p/9df7df3b9136) |
-| Tue, 03 Jun 2025 07:58:38 GMT | “How Social Engineering Actually Works: 3 Real Attacks That Will Shock You” | Dhanusha N | [Read More](https://medium.com/p/0c613cdd3b89) |
-| Tue, 03 Jun 2025 07:52:40 GMT | Bug Bounty Breakdown: Target Info, Vulnerability Description, Steps to Reproduce & POC. | Ravindra | [Read More](https://medium.com/p/08a0948b6050) |
-| Tue, 03 Jun 2025 07:46:06 GMT | Medium App Bugged? Two Issues That Writers Can’t Ignore | Shubham Kumbhar | [Read More](https://medium.com/p/d5676f9b795b) |
-| Tue, 03 Jun 2025 07:44:08 GMT | The Daily Tech Digest: 03 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/dc3ebddd8392) |
-| Tue, 03 Jun 2025 07:42:40 GMT | 5G is Old News — Here’s Why Everyone’s Talking About 6G | Zeeshan Altaf | [Read More](https://medium.com/p/2fe5f8c97387) |
-| Tue, 03 Jun 2025 07:36:26 GMT | Portswigger Web Security Academy - Information Disclosure Lab #1 | BooRuleDie | [Read More](https://medium.com/p/4bd9112878ee) |
-| Tue, 03 Jun 2025 07:32:28 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/5813c95e927e) |
-| Tue, 03 Jun 2025 07:32:28 GMT | Top File Read Bug POCs that made $20000 | It4chis3c | [Read More](https://medium.com/p/3043e676d8d5) |
-| Tue, 03 Jun 2025 07:26:22 GMT | JWT the Hell?! How Weak Tokens Let Me Become Admin with Just a Text Editor ️ | Iski | [Read More](https://medium.com/p/e73bcd66af0d) |
-| Tue, 03 Jun 2025 07:25:03 GMT | AI x Cybersecurity: Deepfakes, AI-Generated Malware, and How We Fight Back | Iftikhar Ahmed | [Read More](https://medium.com/p/cd988d76dd07) |
-| Tue, 03 Jun 2025 07:21:34 GMT | Secure Your Webhooks in Laravel: Preventing Data Spoofing | Sandeeppant | [Read More](https://medium.com/p/6f6d0bd03866) |
-| Tue, 03 Jun 2025 07:21:34 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/0f5dfabc7d48) |
-| Tue, 03 Jun 2025 07:21:34 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/d9a27f84b7d6) |
-| Tue, 03 Jun 2025 07:19:05 GMT | Detecting Malicious C2 Server Traffic via Google Calendar Phishing Attack Using Wazuh & Suricata | Justin Duru | [Read More](https://medium.com/p/a6e58759aa87) |
-| Tue, 03 Jun 2025 07:10:57 GMT | Microsoft, Google, and CrowdStrike Team Up to Clean Up Hacker Naming Chaos “Forest Blizzard, Fancy… | Navigtech | [Read More](https://medium.com/p/aee11226457d) |
-| Tue, 03 Jun 2025 07:03:41 GMT | From Static Roles to Wildcard-Powered RBAC: Evolving Authorization in a Multi-Tenant Spring… | SW-Muriu | [Read More](https://medium.com/p/3322954bc19b) |
-| Tue, 03 Jun 2025 07:02:30 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/df21d533c4ce) |
-| Tue, 03 Jun 2025 07:02:30 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/40acf576e3a7) |
-| Tue, 03 Jun 2025 07:02:30 GMT | Failing with Grace (Part 2): Making Errors Testable | TreeifyAI | [Read More](https://medium.com/p/222b2067db43) |
