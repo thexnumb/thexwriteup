@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 08:20:34 GMT | SSRF: When Your Server Becomes a Nosy Hacker — Part 1 | Het Patel | [Read More](https://medium.com/p/f808b9513652) |
+| Tue, 03 Jun 2025 08:20:18 GMT | Attacks Leveraging 5G and IoT Devices
+The proliferation of 5G-enabled IoT devices has opened new… | Defeu James | [Read More](https://medium.com/p/b2f76ee5d29c) |
+| Tue, 03 Jun 2025 08:19:58 GMT | The Ultimate Penetration Testing Methodology (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/40f3b92ad443) |
+| Tue, 03 Jun 2025 08:19:20 GMT | How to Protect Your Business from 13 Key Social Engineering Threats | Ampcus Cyber | [Read More](https://medium.com/p/f213ca6ed0dc) |
+| Tue, 03 Jun 2025 08:18:21 GMT | How This Apple Feature Protects You From Spam, Scams, and Data Leaks | The Useful Tech | [Read More](https://medium.com/p/660d759c820f) |
+| Tue, 03 Jun 2025 08:18:07 GMT | Emergence of Ransomware-as-a-Service (RaaS) with Extended Tactics
+Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com/p/df382e0a83d8) |
+| Tue, 03 Jun 2025 08:16:26 GMT | Cybersecurity Expert Raed Ahsan Invited by BOL News to Share Insights on Infostealer Malware… | Raed Ahsan | [Read More](https://medium.com/p/f76f28d78ad2) |
+| Tue, 03 Jun 2025 08:14:40 GMT | IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!! | Aman Banga | [Read More](https://medium.com/p/3c61113e04e7) |
+| Tue, 03 Jun 2025 08:13:54 GMT | Bug Bounty + AI =  This Prompt List Will Change Your Game | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c11ea8ea4b30) |
+| Tue, 03 Jun 2025 08:13:08 GMT | Cybersecurity Guide: Network & IT Security Basics | Basnetrupesh | [Read More](https://medium.com/p/2ba7f70f7da9) |
+| Tue, 03 Jun 2025 08:05:43 GMT | CyberDefender: “DanaBot Lab” Challenge Writeup | Sh3nobi | [Read More](https://medium.com/p/4a85cfd86bdb) |
+| Tue, 03 Jun 2025 08:03:11 GMT | the rise of artificial intelligence employment in 2.1 on Instagram | S Anuradha | [Read More](https://medium.com/p/2ffa852eba81) |
+| Tue, 03 Jun 2025 08:00:00 GMT | Compre Pogotowie IT | Compreit | [Read More](https://medium.com/p/9df7df3b9136) |
+| Tue, 03 Jun 2025 07:58:38 GMT | “How Social Engineering Actually Works: 3 Real Attacks That Will Shock You” | Dhanusha N | [Read More](https://medium.com/p/0c613cdd3b89) |
+| Tue, 03 Jun 2025 07:52:40 GMT | Bug Bounty Breakdown: Target Info, Vulnerability Description, Steps to Reproduce & POC. | Ravindra | [Read More](https://medium.com/p/08a0948b6050) |
+| Tue, 03 Jun 2025 07:46:06 GMT | Medium App Bugged? Two Issues That Writers Can’t Ignore | Shubham Kumbhar | [Read More](https://medium.com/p/d5676f9b795b) |
+| Tue, 03 Jun 2025 07:44:08 GMT | The Daily Tech Digest: 03 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/dc3ebddd8392) |
+| Tue, 03 Jun 2025 07:42:40 GMT | 5G is Old News — Here’s Why Everyone’s Talking About 6G | Zeeshan Altaf | [Read More](https://medium.com/p/2fe5f8c97387) |
+| Tue, 03 Jun 2025 07:36:26 GMT | Portswigger Web Security Academy - Information Disclosure Lab #1 | BooRuleDie | [Read More](https://medium.com/p/4bd9112878ee) |
 | Tue, 03 Jun 2025 07:32:28 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/5813c95e927e) |
 | Tue, 03 Jun 2025 07:32:28 GMT | Top File Read Bug POCs that made $20000 | It4chis3c | [Read More](https://medium.com/p/3043e676d8d5) |
 | Tue, 03 Jun 2025 07:26:22 GMT | JWT the Hell?! How Weak Tokens Let Me Become Admin with Just a Text Editor ️ | Iski | [Read More](https://medium.com/p/e73bcd66af0d) |
@@ -94,22 +115,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Tue, 03 Jun 2025 01:28:50 GMT | DVWA Web APP Setup | Norbert Ephraim | [Read More](https://medium.com/p/06c84a0ce71d) |
 | Tue, 03 Jun 2025 01:13:17 GMT | Why I Chose Ethical Hacking (And What I Plan to Do With It) | CyberNinja | [Read More](https://medium.com/p/227648f65053) |
 | Tue, 03 Jun 2025 01:12:34 GMT | The Spread of “New-Style Unfilial Piety”: Many Parents Are Clueless and Still Show Off Their… | Lilyana | [Read More](https://medium.com/p/885ed75b9e4e) |
-| Tue, 03 Jun 2025 00:51:20 GMT | Securing Medical Devices in the Quantum Era: Cloud-Based PQC for Low-Power, Life-Critical Systems | ExeQuantum | [Read More](https://medium.com/p/2a6629ca76f4) |
-| Tue, 03 Jun 2025 00:44:48 GMT | Threat Modeling for AI Apps - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/9a50181d926a) |
-| Tue, 03 Jun 2025 00:32:33 GMT | Nuclear Facility Cybersecurity and the Hidden Art of Air-Gap Bypass | A-STAR7_DOCTOR | [Read More](https://medium.com/p/da13a008472a) |
-| Tue, 03 Jun 2025 00:19:52 GMT | Why Theory Matters in Hacking (And How I Bricked a Lab System by “Being Practical” | Alex Grande | [Read More](https://medium.com/p/ae870eb5df3a) |
-| Tue, 03 Jun 2025 00:03:29 GMT | THM Publisher Walkthrough | Victor Khattar (PentaK) | [Read More](https://medium.com/p/48978e9219c3) |
-| Tue, 03 Jun 2025 00:02:40 GMT | Web Reconnaissance with Katana: A Complete Guide to Getting Started with Bug Bounty | JPablo13 | [Read More](https://medium.com/p/b9f2499e4c00) |
-| Tue, 03 Jun 2025 00:01:25 GMT | Zero Trust, Heartbreak, and the Lessons of Loving Without Illusions | Code & Kif | [Read More](https://medium.com/p/fc6827286aba) |
-| Mon, 02 Jun 2025 23:59:52 GMT | Shocking Malware Campaign Exposed! | Cyber-AppSec | [Read More](https://medium.com/p/3d504731704f) |
-| Mon, 02 Jun 2025 23:47:24 GMT | The Power of Vulnerability in Building Connections | Mwenda Kelvin | [Read More](https://medium.com/p/fb9aa78e43e2) |
-| Mon, 02 Jun 2025 23:41:02 GMT | TryHackMe — Kenobi: Privilege Escalation analiz və SUID vasitəsilə Root imtiyazının əldə edilməsi | Yaqubnasibov | [Read More](https://medium.com/p/42ce4a07c56c) |
-| Mon, 02 Jun 2025 23:40:27 GMT | U.A High School THM Walkthrough | Victor Khattar (PentaK) | [Read More](https://medium.com/p/9c0a9f808e53) |
-| Mon, 02 Jun 2025 23:36:11 GMT | Top 10 Cybersecurity Trends to Watch in 2025 | Cullensam | [Read More](https://medium.com/p/65b9de3d1b76) |
-| Mon, 02 Jun 2025 23:31:30 GMT | Gobuster Room: TryHackMe | RHR | [Read More](https://medium.com/p/1b936c8ef081) |
-| Mon, 02 Jun 2025 23:25:10 GMT | Segurança em Micro Serviços | Perla C. S | [Read More](https://medium.com/p/134e0f873380) |
-| Mon, 02 Jun 2025 23:12:12 GMT | Breaking into the Cloud: Reviewing Tyler Ramsbey’s AWS Pentesting Course ‍ | WireHawk Security | [Read More](https://medium.com/p/b7027aac5574) |
-| Mon, 02 Jun 2025 23:10:59 GMT | How to Set Up MobSF with Docker on Kali Linux for Mobile App Penetration Testing | C. Oscar Lawshea | [Read More](https://medium.com/p/3e4e103efef8) |
-| Mon, 02 Jun 2025 23:04:36 GMT | All: It Takes | Good Day, Adam | [Read More](https://medium.com/p/bdd35b0481e8) |
-| Mon, 02 Jun 2025 22:52:17 GMT | Cryptography Simplified | Adam Jikat | [Read More](https://medium.com/p/828b605580c3) |
-| Mon, 02 Jun 2025 22:40:46 GMT | What’s Actually Happening Behind Passkeys? | perd1x | [Read More](https://medium.com/p/d9e8acac59ca) |
