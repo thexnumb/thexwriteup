@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 13:19:01 GMT | Incident Response in AWS: Scoping strategies | Markohalloran | [Read More](https://medium.com/p/b90a1e2b2961) |
+| Tue, 03 Jun 2025 13:18:35 GMT | NOPS CTF — XSS lab | UnStoppable | [Read More](https://medium.com/p/6d2cc26a8561) |
+| Tue, 03 Jun 2025 13:16:34 GMT | How to Install and Use Hopper Disassembler on Linux: Your Reverse Engineering Toolkit | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/ad46df223f06) |
+| Tue, 03 Jun 2025 13:15:46 GMT | How I made 600$ in 60 secs ? | arjanchaudharyy | [Read More](https://medium.com/p/f2b085731b59) |
+| Tue, 03 Jun 2025 13:15:05 GMT | VenomRAT just RSVP’d to your inbox. Password? ‘TotallyNotAMalware.zip’. | Wes Young | [Read More](https://medium.com/p/922df5f04e6c) |
+| Tue, 03 Jun 2025 13:13:13 GMT | KeePass Flaw Puts Passwords — and Corporate Networks — at Risk | Ivan Pavlov | [Read More](https://medium.com/p/cc7853bf1800) |
+| Tue, 03 Jun 2025 13:11:52 GMT | Solving the Confused Deputy Problem | Evernorth Tech Blog | [Read More](https://medium.com/p/7f59289b745a) |
+| Tue, 03 Jun 2025 13:09:37 GMT | What is ICS/SCADA in the world of Cybersecurity | Irfanbayu | [Read More](https://medium.com/p/2d236cbe10ec) |
+| Tue, 03 Jun 2025 13:06:59 GMT | Hack Email Account -- Hacking Services | BlackHat | [Read More](https://medium.com/p/0ac2bc814b4b) |
+| Tue, 03 Jun 2025 13:06:35 GMT | Quantum Threats: Preparing for the Next Frontier in Cybersecurity​ | Pegasus Technology Solutions | [Read More](https://medium.com/p/19292eb366ff) |
+| Tue, 03 Jun 2025 13:06:34 GMT | Introduction | Mathieu Bellail | [Read More](https://medium.com/p/ba7acc43f9e0) |
+| Tue, 03 Jun 2025 13:05:23 GMT | Ψ∑AISysIndex: A Functional Metaindex for Measuring Security Self-Awareness in AI Systems | Jordi Garcia Castillon | [Read More](https://medium.com/p/e7684f59a88e) |
+| Tue, 03 Jun 2025 13:04:12 GMT | Dienstleistersteuerung 2024: Die ultimative Roadmap für strategische Vendor-Excellence (mit… | Philip Hansen | [Read More](https://medium.com/p/8ab230b19417) |
+| Tue, 03 Jun 2025 12:55:21 GMT | Patch Diffing : Uncovering unannounced vulnerabilities | Shubhamkhatang | [Read More](https://medium.com/p/132776f8f94c) |
+| Tue, 03 Jun 2025 12:47:16 GMT | Top IT Security Tools (And Vendors) That Are Used By Enterprises | Kiryl Kruhlik | [Read More](https://medium.com/p/43d29c94fe46) |
+| Tue, 03 Jun 2025 12:45:25 GMT | SOC Analyst Series L1 — DNS Log Analysis with Splunk SIEM | Iftikhar Zaidi | [Read More](https://medium.com/p/252df12e7673) |
+| Tue, 03 Jun 2025 12:43:38 GMT | Top 5 Cyber Threats Enterprises Should Watch Out for in 2025 | GoTrust Tech | [Read More](https://medium.com/p/23f3029df781) |
 | Tue, 03 Jun 2025 12:34:33 GMT | DDI Explained: DNS, DHCP, and IPAM in Action with a Practical Cloud Use Case | Anand Prabhat | [Read More](https://medium.com/p/f212fe0f5d1c) |
 | Tue, 03 Jun 2025 12:31:33 GMT | Pickle Rick CTF — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/14f43feb26f0) |
 | Tue, 03 Jun 2025 12:26:39 GMT | 20+ examples of a strong password pdf
@@ -96,22 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 09:03:20 GMT | INE — eJPT: Host & Network Penetration Testing: Exploitation CTF 1 | Babatunde Ojo | [Read More](https://medium.com/p/aed96dde4f7b) |
 | Tue, 03 Jun 2025 08:57:50 GMT | Market Benefits of ISO 27001 Security Certification | Biz Serve IT | [Read More](https://medium.com/p/5cb23fa5b563) |
 | Tue, 03 Jun 2025 08:51:04 GMT | 30 Days of Cyber Security — Day 8: Instalasi Kali Linux di VMware | Indra Rahmat Maulidi | [Read More](https://medium.com/p/81010549c8a9) |
-| Tue, 03 Jun 2025 08:50:18 GMT | Strong, Stoic, and Suffering: How Patriarchy Makes Men Its Quietest Victims | Sabrina | [Read More](https://medium.com/p/e1a20635403b) |
-| Tue, 03 Jun 2025 08:49:06 GMT | SWIFT Customer Security Program — What Do You Need to Know | Biz Serve IT | [Read More](https://medium.com/p/4de6d2587ff7) |
-| Tue, 03 Jun 2025 08:47:33 GMT | From Discovery to Exploit: A Beginner’s Guide to CORS Bugs | @umesh | [Read More](https://medium.com/p/a3cf2bde6c5d) |
-| Tue, 03 Jun 2025 08:47:15 GMT | API Bug Bounty Hunting: Step-by-Step Guide | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0c7e60f4a21d) |
-| Tue, 03 Jun 2025 08:47:01 GMT | ITIO Innovex Pvt Ltd: Your Partner in Cybersecurity and Risk Management | Komalitio | [Read More](https://medium.com/p/b947e85a2050) |
-| Tue, 03 Jun 2025 08:40:49 GMT | How Cybersecurity Works: Protecting Yourself in the Digital Age | Ava Rose | [Read More](https://medium.com/p/96e61f319efc) |
-| Tue, 03 Jun 2025 08:30:08 GMT | Essential Linux Commands for Cybersecurity Specialists: Technical Deep-Dive | Okan Yıldız | [Read More](https://medium.com/p/c5ef74102c60) |
-| Tue, 03 Jun 2025 08:28:53 GMT | Coin base 400M$ hack (biggest after Bybit) | Etongwe Dimitry | [Read More](https://medium.com/p/2e54dec8e5bb) |
-| Tue, 03 Jun 2025 08:20:34 GMT | SSRF: When Your Server Becomes a Nosy Hacker — Part 1 | Het Patel | [Read More](https://medium.com/p/f808b9513652) |
-| Tue, 03 Jun 2025 08:20:18 GMT | Attacks Leveraging 5G and IoT Devices
-The proliferation of 5G-enabled IoT devices has opened new… | Defeu James | [Read More](https://medium.com/p/b2f76ee5d29c) |
-| Tue, 03 Jun 2025 08:19:58 GMT | The Ultimate Penetration Testing Methodology (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/40f3b92ad443) |
-| Tue, 03 Jun 2025 08:19:20 GMT | How to Protect Your Business from 13 Key Social Engineering Threats | Ampcus Cyber | [Read More](https://medium.com/p/f213ca6ed0dc) |
-| Tue, 03 Jun 2025 08:18:21 GMT | How This Apple Feature Protects You From Spam, Scams, and Data Leaks | The Useful Tech | [Read More](https://medium.com/p/660d759c820f) |
-| Tue, 03 Jun 2025 08:18:07 GMT | Emergence of Ransomware-as-a-Service (RaaS) with Extended Tactics
-Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com/p/df382e0a83d8) |
-| Tue, 03 Jun 2025 08:16:26 GMT | Cybersecurity Expert Raed Ahsan Invited by BOL News to Share Insights on Infostealer Malware… | Raed Ahsan | [Read More](https://medium.com/p/f76f28d78ad2) |
-| Tue, 03 Jun 2025 08:14:40 GMT | IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!! | Aman Banga | [Read More](https://medium.com/p/3c61113e04e7) |
-| Tue, 03 Jun 2025 08:13:54 GMT | Bug Bounty + AI =  This Prompt List Will Change Your Game | Narendar Battula (nArEn) | [Read More](https://medium.com/p/c11ea8ea4b30) |
