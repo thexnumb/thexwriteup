@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 03:42:36 GMT | Agent Sudo— TryHackMe — CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/563c1f96aaf6) |
+| Tue, 03 Jun 2025 03:32:31 GMT | Inside the Samsung Germany Data Breach: 270,000 Customers Exposed | Deven Chhajed | [Read More](https://medium.com/p/663824efd61e) |
+| Tue, 03 Jun 2025 03:24:04 GMT | Silent Deactivation: How the Public Internet Lost Its Space for Thinking | Dávid Vass | [Read More](https://medium.com/p/cd88b65c7321) |
+| Tue, 03 Jun 2025 03:22:55 GMT | Why Your Car Is More Vulnerable Than You Think | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/1506377d4e08) |
+| Tue, 03 Jun 2025 03:09:33 GMT | The Smartest People in Web3 Are Already AML-Verified. Are You One of Them? | Stephen Macurdy | [Read More](https://medium.com/p/bbc9db45c5cf) |
+| Tue, 03 Jun 2025 03:06:02 GMT | China Cracks Down on Online Extortion Ring Targeting Businesses | SafetyDetectives Research Team | [Read More](https://medium.com/p/6e1c575bfbb4) |
 | Tue, 03 Jun 2025 03:03:36 GMT | The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
 We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e878e2da70d) |
 | Tue, 03 Jun 2025 03:02:55 GMT | 2. Setting Up the Ultimate Hacker’s Lab (Free Tools Only) | Abhijeet Kumawat | [Read More](https://medium.com/p/35b6d7f7f6bc) |
@@ -108,9 +114,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Mon, 02 Jun 2025 18:13:48 GMT | The Lives We’ll Never Know | Sree | [Read More](https://medium.com/p/e8a3c53a86c4) |
 | Mon, 02 Jun 2025 18:11:27 GMT | ESP32 D1 | Dev | [Read More](https://medium.com/p/dd1509cd8f6c) |
 | Mon, 02 Jun 2025 18:08:57 GMT | Kicking Off My bWAPP Series-Hands-On with the OWASP Broken Web Applications Project | Madhumathi chamarthi | [Read More](https://medium.com/p/38c90e6861d7) |
-| Mon, 02 Jun 2025 18:07:29 GMT | From Customer to Verified: A Critical Role Escalation in WooCommerce Flutter API | Youssefhussein | [Read More](https://medium.com/p/2a4f4ba49007) |
-| Mon, 02 Jun 2025 18:03:26 GMT | ️ Top 10 Ethical Hackers in India — Ultimate List of Cybersecurity Experts You Should Know | Bharatiya Anamika | [Read More](https://medium.com/p/54a72443ef18) |
-| Mon, 02 Jun 2025 17:55:13 GMT | LazyAdmin THM Walkthrough | Victor Khattar (PentaK) | [Read More](https://medium.com/p/48c4c057853b) |
-| Mon, 02 Jun 2025 17:52:25 GMT | The Mayans Were Off by 5 Years: 2017 Was the Real End of the World | Akshara Siddharthan | [Read More](https://medium.com/p/a06970e64473) |
-| Mon, 02 Jun 2025 17:49:23 GMT | What Lights Your Spark? | Jim Anderson | [Read More](https://medium.com/p/e58b8b7ee3bc) |
-| Mon, 02 Jun 2025 17:35:57 GMT | Siber Güvenliğe Giriş — 4( TCP/IP (Transmission Control Protocol / Internet Protocol) | Emre TOPUZ | [Read More](https://medium.com/p/d922c651f3b2) |
