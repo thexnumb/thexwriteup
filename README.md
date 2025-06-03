@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 10:23:11 GMT | DGACTF — Gate | Paata Metreveli | [Read More](https://medium.com/p/369641dd869f) |
+| Tue, 03 Jun 2025 10:12:48 GMT | Bug Bounty Google Dorks 2025 | LogicTech | [Read More](https://medium.com/p/1b9a9ba00dd6) |
+| Tue, 03 Jun 2025 10:04:36 GMT | Even Cartier Isn’t Immune to Cyber Threats | MohitV | [Read More](https://medium.com/p/fc854ca431b6) |
+| Tue, 03 Jun 2025 10:02:16 GMT | Understanding the Hardware and Firmware Cybersecurity Landscape | Rob Phillips | [Read More](https://medium.com/p/5e9e5e404d2b) |
+| Tue, 03 Jun 2025 09:58:37 GMT | Cartier Confirms Customer Data Breach | Saravanan R | [Read More](https://medium.com/p/cc080c44e7bd) |
+| Tue, 03 Jun 2025 09:52:34 GMT | Secure Auth Flow for SPAs: Access Token in Memory + Refresh Token in Cookie | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/ac6409e208b5) |
+| Tue, 03 Jun 2025 09:49:16 GMT | The Dark Web’s Role in IoT & OT Cybercrime | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/e75e930ed3b0) |
+| Tue, 03 Jun 2025 09:48:17 GMT | Everything you should now about Mutual TLS | Wiran Larbi | [Read More](https://medium.com/p/b5da83569031) |
+| Tue, 03 Jun 2025 09:47:20 GMT | Day 01: Windows Event IDs Insights Aligned with MITRE ATT&CK | Nesar Uddin | [Read More](https://medium.com/p/bb02adfcf54a) |
+| Tue, 03 Jun 2025 09:44:44 GMT | Cartier Discloses Data Breach Affecting Client Information | Srinivasps | [Read More](https://medium.com/p/5d2b77249f30) |
+| Tue, 03 Jun 2025 09:44:26 GMT | eJPT - 1.4 CTF Vulnerability Assessment | Hammaad M | [Read More](https://medium.com/p/f2b556fef126) |
+| Tue, 03 Jun 2025 09:41:47 GMT | Top 10 Cybersecurity Companies Shaping the Future of Cyber Defense! | Gigabittechnologies | [Read More](https://medium.com/p/67fb26440ca2) |
+| Tue, 03 Jun 2025 09:40:18 GMT | NJRat: Anti-Analysis and Persistence Behavior | Emiliano | [Read More](https://medium.com/p/792d804977ce) |
+| Tue, 03 Jun 2025 09:40:18 GMT | Building an Effective SRE & Security Engineering Team | Rajat Gupta | [Read More](https://medium.com/p/ec3851e66d8b) |
 | Tue, 03 Jun 2025 09:36:29 GMT | The Expanding Cloud Attack Surface: Top Threats and How to Secure Your Business | Aashishchaudhari | [Read More](https://medium.com/p/4ca629684cf7) |
 | Tue, 03 Jun 2025 09:32:29 GMT | How to Temporarily Change Your MAC Address in Linux | Kuldeepkumawat | [Read More](https://medium.com/p/d2086b89ecae) |
 | Tue, 03 Jun 2025 09:31:09 GMT | What is VNC? The Backbone of Remote Access Technology | HostNOC | [Read More](https://medium.com/p/e09f5ce26efd) |
@@ -100,17 +114,3 @@ Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com
 | Tue, 03 Jun 2025 05:24:45 GMT | Airport Baggage X-Ray Machine Insights: Security Through Scanning | Pentagonengineers | [Read More](https://medium.com/p/97671e65f2b4) |
 | Tue, 03 Jun 2025 05:23:45 GMT | How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF (CVE-2025–4123) | coffinxp | [Read More](https://medium.com/p/b35245dccaab) |
 | Tue, 03 Jun 2025 05:19:58 GMT | Why Clavi Isn’t Competing with Ledger: A Tale of Two Worlds | 0NE - C L A V I | [Read More](https://medium.com/p/2c5fcd57e809) |
-| Tue, 03 Jun 2025 05:19:46 GMT | Webhook Vulnerabilities: Hidden Vulnerabilities in Automation Pipelines | Monika sharma | [Read More](https://medium.com/p/724d09ec6130) |
-| Tue, 03 Jun 2025 05:19:14 GMT | How to assess the impact of data security services? | James Damon | [Read More](https://medium.com/p/4293004b26c2) |
-| Tue, 03 Jun 2025 05:06:01 GMT | Secure GKE plane in a modern way | Michal Zindulka | [Read More](https://medium.com/p/f3888417c3d1) |
-| Tue, 03 Jun 2025 05:05:03 GMT | HTTP Response Splitting in Symfony: Protect Your App | Pentest_Testing_Corp | [Read More](https://medium.com/p/b2aa85456e1d) |
-| Tue, 03 Jun 2025 05:00:33 GMT | Tech Tip Monday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/b73a451d5f0e) |
-| Tue, 03 Jun 2025 04:48:52 GMT | Can Lost Bitcoin Be Recovered? Separating Myth from Reality | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/f1a13254b8bc) |
-| Tue, 03 Jun 2025 04:47:53 GMT | Is Your Cloud Data Secure? What San Antonio Users Should Know | SecureTech | [Read More](https://medium.com/p/f847d68db18b) |
-| Tue, 03 Jun 2025 04:47:46 GMT | SemGrep Static Code Analysis Tool | AbhirupKonwar | [Read More](https://medium.com/p/d22335b794f5) |
-| Tue, 03 Jun 2025 04:36:13 GMT | Top Cybersecurity Trends to Watch in 2025 | Devi prasad Guda | [Read More](https://medium.com/p/80eddc9811d9) |
-| Tue, 03 Jun 2025 04:33:50 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Seonaissac | [Read More](https://medium.com/p/ec152509fe8b) |
-| Tue, 03 Jun 2025 04:16:17 GMT | A Letter to the Internet: The Truth About DNS Hijacking in Censorship Systems | BerlianJitu | [Read More](https://medium.com/p/5c1f2f3aa3a2) |
-| Tue, 03 Jun 2025 04:12:03 GMT | 4x Surge in PureRAT Malware Attacks Against Russian Businesses | Chaitanya Appani | [Read More](https://medium.com/p/6fa4b5e87071) |
-| Tue, 03 Jun 2025 03:57:27 GMT | Mengatasi Kerentanan WordPress: Solusi Praktis untuk xmlrpc, Spam, dan Brute Force | Wakhid Wicaksono | [Read More](https://medium.com/p/d3980c4c7489) |
-| Tue, 03 Jun 2025 03:57:03 GMT | LetsDefend WinRAR 0-Day Challenge | Nicolas Tan | [Read More](https://medium.com/p/eb31e6b760f5) |
