@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 17:32:57 GMT | Malware Development: Reverse Shell Disguised as a PDF | ASTRA Labs | [Read More](https://medium.com/p/985a5150597e) |
+| Tue, 03 Jun 2025 17:31:50 GMT | The North Face Data Breach: April 2025 Credential Stuffing Attack Exposes Customer Data | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/74293b1c7686) |
+| Tue, 03 Jun 2025 17:29:57 GMT | How Hackers Help NASA Stay Secure: Inside the NASA VDP | 127.0.0.1 | [Read More](https://medium.com/p/07ec255c46f3) |
+| Tue, 03 Jun 2025 17:24:56 GMT | Security Essentials for Startups on AWS (Without Overengineering) | Svetlozar Kondakov | [Read More](https://medium.com/p/82e49377c9df) |
+| Tue, 03 Jun 2025 17:18:41 GMT | Mastering Nmap: From Beginner to Advanced Scanning Techniques | Mainekdeveloper | [Read More](https://medium.com/p/f0af0fbab37c) |
+| Tue, 03 Jun 2025 17:17:05 GMT | What is Broken Access Control? Explained Simply with Real-Life Examples | P T | [Read More](https://medium.com/p/54f07c39b1eb) |
 | Tue, 03 Jun 2025 17:14:54 GMT | BountyOS: A Powerful OS for Bug Bounty Hunters | Tharindu Damith | [Read More](https://medium.com/p/2c08cb63ef8b) |
 | Tue, 03 Jun 2025 17:11:52 GMT | Ethical Hacking with Burp Suite: Enhancing Web Security | Ekene Joseph | [Read More](https://medium.com/p/181fbd7778b1) |
 | Tue, 03 Jun 2025 17:04:36 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e2a9a49dcb94) |
@@ -107,9 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 12:10:05 GMT | How Hackers Use Google to Hack You — “Google Dorking” Explained | Sandesh Kumar | [Read More](https://medium.com/p/69eafd1791aa) |
 | Tue, 03 Jun 2025 12:06:17 GMT | How Hackers Use Public Wi-Fi to Steal Your Data — And How to Stay Safe | Sandesh Kumar | [Read More](https://medium.com/p/bc11c4ff02af) |
 | Tue, 03 Jun 2025 12:06:07 GMT | picoCTFchallenges on: A Beginners Guide. | Harrison Esther | [Read More](https://medium.com/p/8714346ee6be) |
-| Tue, 03 Jun 2025 12:02:29 GMT | Day 52: Bash Scripting — Your First Step into Linux Automation! | Agarwaldaksh | [Read More](https://medium.com/p/ac289f2fd32d) |
-| Tue, 03 Jun 2025 12:01:57 GMT | Postgresql Row Level Security | Oz | [Read More](https://medium.com/p/a42d9571b09f) |
-| Tue, 03 Jun 2025 11:58:21 GMT | How i was able to exploit a vulnerable payment system. | Moratadave | [Read More](https://medium.com/p/4bd81e05e0c1) |
-| Tue, 03 Jun 2025 11:52:59 GMT | How To Protect Your Computing Devices And Systems | Cyber Timi | [Read More](https://medium.com/p/b4b0189c2de1) |
-| Tue, 03 Jun 2025 11:51:10 GMT | Geliştirici Hatalarıyla Zafiyet Bulma: Açıkta Kalan Debug Paneller, Swagger UI ve .git Sızıntıları | Onur Civan | [Read More](https://medium.com/p/73ff26a26281) |
-| Tue, 03 Jun 2025 11:50:17 GMT | HTB 10.10.11.57 — Full Active Machine Walkthrough - NullClass Internship Report | Ravi Teja | [Read More](https://medium.com/p/e23fcc2739bc) |
