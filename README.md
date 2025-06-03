@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 04:16:17 GMT | A Letter to the Internet: The Truth About DNS Hijacking in Censorship Systems | BerlianJitu | [Read More](https://medium.com/p/5c1f2f3aa3a2) |
+| Tue, 03 Jun 2025 04:12:03 GMT | 4x Surge in PureRAT Malware Attacks Against Russian Businesses | Chaitanya Appani | [Read More](https://medium.com/p/6fa4b5e87071) |
+| Tue, 03 Jun 2025 03:57:27 GMT | Mengatasi Kerentanan WordPress: Solusi Praktis untuk xmlrpc, Spam, dan Brute Force | Wakhid Wicaksono | [Read More](https://medium.com/p/d3980c4c7489) |
+| Tue, 03 Jun 2025 03:57:03 GMT | LetsDefend WinRAR 0-Day Challenge | Nicolas Tan | [Read More](https://medium.com/p/eb31e6b760f5) |
+| Tue, 03 Jun 2025 03:50:18 GMT | Does AI Really Protect You from Scams? The Hidden Truth About Banking Fraud! | Maha Althobaiti | [Read More](https://medium.com/p/ccb4216abbbc) |
 | Tue, 03 Jun 2025 03:42:36 GMT | Agent Sudo— TryHackMe — CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/563c1f96aaf6) |
 | Tue, 03 Jun 2025 03:32:31 GMT | Inside the Samsung Germany Data Breach: 270,000 Customers Exposed | Deven Chhajed | [Read More](https://medium.com/p/663824efd61e) |
 | Tue, 03 Jun 2025 03:24:04 GMT | Silent Deactivation: How the Public Internet Lost Its Space for Thinking | Dávid Vass | [Read More](https://medium.com/p/cd88b65c7321) |
@@ -109,8 +114,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Mon, 02 Jun 2025 18:33:22 GMT | Cybersecurity Case Study: The Morris Worm — The First Internet Worm | Agarwaldaksh | [Read More](https://medium.com/p/9fdaac4c08e9) |
 | Mon, 02 Jun 2025 18:32:44 GMT | Understanding Malware: A Cybersecurity Analyst’s Guide to Threats and Defense | R1punjay_Singh | [Read More](https://medium.com/p/af69b6710730) |
 | Mon, 02 Jun 2025 18:26:05 GMT | SBOM (Software Bill Off Materials) in Security | Natarajan C K | [Read More](https://medium.com/p/0876083988fd) |
-| Mon, 02 Jun 2025 18:17:08 GMT | Hardening Web Server di Linux Ubuntu | Wafa | [Read More](https://medium.com/p/66c7803d3d7e) |
-| Mon, 02 Jun 2025 18:16:57 GMT | HackTheBox: Puppy — Exploiting Default Configurations | Lovishmittal | [Read More](https://medium.com/p/c67e70287acc) |
-| Mon, 02 Jun 2025 18:13:48 GMT | The Lives We’ll Never Know | Sree | [Read More](https://medium.com/p/e8a3c53a86c4) |
-| Mon, 02 Jun 2025 18:11:27 GMT | ESP32 D1 | Dev | [Read More](https://medium.com/p/dd1509cd8f6c) |
-| Mon, 02 Jun 2025 18:08:57 GMT | Kicking Off My bWAPP Series-Hands-On with the OWASP Broken Web Applications Project | Madhumathi chamarthi | [Read More](https://medium.com/p/38c90e6861d7) |
