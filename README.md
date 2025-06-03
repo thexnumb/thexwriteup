@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 07:19:05 GMT | Detecting Malicious C2 Server Traffic via Google Calendar Phishing Attack Using Wazuh & Suricata | Justin Duru | [Read More](https://medium.com/p/a6e58759aa87) |
+| Tue, 03 Jun 2025 07:10:57 GMT | Microsoft, Google, and CrowdStrike Team Up to Clean Up Hacker Naming Chaos “Forest Blizzard, Fancy… | Navigtech | [Read More](https://medium.com/p/aee11226457d) |
+| Tue, 03 Jun 2025 07:03:41 GMT | From Static Roles to Wildcard-Powered RBAC: Evolving Authorization in a Multi-Tenant Spring… | SW-Muriu | [Read More](https://medium.com/p/3322954bc19b) |
+| Tue, 03 Jun 2025 07:02:30 GMT | Keep Your Systems Secure and Up-to-Date with Easy2Patch’s Latest Catalog Refresh | Easy2Patch | [Read More](https://medium.com/p/df21d533c4ce) |
+| Tue, 03 Jun 2025 07:02:30 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/40acf576e3a7) |
+| Tue, 03 Jun 2025 07:02:30 GMT | Failing with Grace (Part 2): Making Errors Testable | TreeifyAI | [Read More](https://medium.com/p/222b2067db43) |
+| Tue, 03 Jun 2025 06:59:26 GMT | China Is Developing Electronic Weapons That Can Instantly Cripple Enemy Systems — And the U.S. | Zeeshan Altaf | [Read More](https://medium.com/p/fbc69e02e5f3) |
+| Tue, 03 Jun 2025 06:54:26 GMT | Redeemer - Hack the Box | tamilvanan | [Read More](https://medium.com/p/9f2a55d62476) |
+| Tue, 03 Jun 2025 06:52:45 GMT | Seamless Environment Switching Without Breaking Production | David Meir-Levy | [Read More](https://medium.com/p/851bf4160af1) |
+| Tue, 03 Jun 2025 06:51:33 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/68b40c03162b) |
+| Tue, 03 Jun 2025 06:51:05 GMT | PhishPhry: Your New Weapon Against Phishing Threats | MR Jamal Mohamed | [Read More](https://medium.com/p/e8a447608e53) |
+| Tue, 03 Jun 2025 06:48:49 GMT | Top 10 Cybersecurity Trends to Watch in 2025 | Untold You | [Read More](https://medium.com/p/67d8d6d958b9) |
+| Tue, 03 Jun 2025 06:47:27 GMT | Track the Hacks: Digital Footprints Retrieval from Windows Registry — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/4562c93b4ad4) |
+| Tue, 03 Jun 2025 06:39:19 GMT | How I Hit 30 and Still Had No Idea What I Was Doing With My Life | Dana Winestone | [Read More](https://medium.com/p/022bcc507eee) |
+| Tue, 03 Jun 2025 06:33:06 GMT | Top Cyber Threats Facing Small Businesses Today (And How to Fight Back) | Kambetastephano | [Read More](https://medium.com/p/c83a32dc8512) |
+| Tue, 03 Jun 2025 06:33:05 GMT | Key Features of Effective CCTV Monitoring | Jane Tang | [Read More](https://medium.com/p/be0210f6ae65) |
+| Tue, 03 Jun 2025 06:30:32 GMT | OAuth Misuse: Chaining Redirect URIs and Silent Logins into Full Account Takeover | Monika sharma | [Read More](https://medium.com/p/91b68f68227b) |
+| Tue, 03 Jun 2025 06:30:20 GMT | Baggage X-Ray Scanner for Hospital Facilities: Choosing the Right Model | Pentagonengineers | [Read More](https://medium.com/p/370c0cc7d7e2) |
+| Tue, 03 Jun 2025 06:26:59 GMT | Supervisor Night Patrol Software - GPS Guard Tour & Field Tracking | Canticle India | [Read More](https://medium.com/p/4314acc542a4) |
 | Tue, 03 Jun 2025 06:24:13 GMT | Hunting for Secrets in Source Maps (.map Files) | Monika sharma | [Read More](https://medium.com/p/de969e4b0cdb) |
 | Tue, 03 Jun 2025 06:15:26 GMT | Secrets in IaC: Vault, SOPS, or AWS Secrets Manager? | Devops Trainer | [Read More](https://medium.com/p/be4e9b3d5dc7) |
 | Tue, 03 Jun 2025 06:11:39 GMT | S1E7 : Spring Security Deep Dive: JWT, Custom Authentication and Role-Based Access - Explained | Yasin Serbest | [Read More](https://medium.com/p/04f3bd383fe8) |
@@ -94,22 +113,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Mon, 02 Jun 2025 22:02:24 GMT | Strengthening App Security in CodePathX with OWASP Best Practices… | Agnesa Baliu | [Read More](https://medium.com/p/931fa708ff21) |
 | Mon, 02 Jun 2025 21:54:58 GMT | Sometimes an informative report can also get you $$ in Bug Bounty. | Charles Rostain | [Read More](https://medium.com/p/6aa2cda9ec7b) |
 | Mon, 02 Jun 2025 21:53:15 GMT | Post-Quantum Encryption: What Businesses Must Do in 2025 | Technologic Innovation | [Read More](https://medium.com/p/ff4230270e02) |
-| Mon, 02 Jun 2025 21:50:05 GMT | Measuring Security: A Leadership Problem in Disguise | Yaroslav | [Read More](https://medium.com/p/81901018b511) |
-| Mon, 02 Jun 2025 21:33:11 GMT | The Art of Penetration Testing Communication: Beyond Technical Findings | H1m3 | [Read More](https://medium.com/p/788657483ef4) |
-| Mon, 02 Jun 2025 21:29:59 GMT | Social Media and its Effect on Mental Health | Savvy Cyber Kids | [Read More](https://medium.com/p/38e693cd4ff1) |
-| Mon, 02 Jun 2025 21:28:56 GMT | Navigating the Auditory Landscape of Hacker Culture: A Report on Influential Podcasts | ADanielHill | [Read More](https://medium.com/p/b5e32a04ac96) |
-| Mon, 02 Jun 2025 21:26:21 GMT | How to Choose the Right Monitoring Plan for Your Business | Visual Monitoring Solutions | [Read More](https://medium.com/p/b746aaaaff45) |
-| Mon, 02 Jun 2025 21:25:11 GMT | How many cases of sextortion are there within a year? How can I avoid it? | Savvy Cyber Kids | [Read More](https://medium.com/p/da69306718f0) |
-| Mon, 02 Jun 2025 21:23:48 GMT | Using Nmap in Security Testing | Cyberoptic Security | [Read More](https://medium.com/p/e17d5b872276) |
-| Mon, 02 Jun 2025 21:22:01 GMT | Simp App Review: Simp App = Simply No | Savvy Cyber Kids | [Read More](https://medium.com/p/4b2974635304) |
-| Mon, 02 Jun 2025 21:20:33 GMT | Cybersecurity for Small Businesses: How to Protect Your Company from Online Threats | Kambetastephano | [Read More](https://medium.com/p/9c6ea65473cb) |
-| Mon, 02 Jun 2025 21:10:26 GMT | Shadow Exploits: A Pen Tester’s Dive into June 3, 2025’s Cybersecurity Inferno | Pentestjunkie07 | [Read More](https://medium.com/p/71e810ab6019) |
-| Mon, 02 Jun 2025 21:04:02 GMT | Windows 11 Recall Özelliği Derinlemesine Teknik İnceleme | Burak Vural | [Read More](https://medium.com/p/3a112c1bd3ce) |
-| Mon, 02 Jun 2025 20:58:05 GMT | BUGGED | Bryan Powell | [Read More](https://medium.com/p/2a176ab22126) |
-| Mon, 02 Jun 2025 20:57:08 GMT | Secure WAN Simulation Project Using Cisco Packet Tracer | Amaechi Charles Uchechukwu | [Read More](https://medium.com/p/3243d41ddc5c) |
-| Mon, 02 Jun 2025 20:53:25 GMT | How to Stay Safe on Public Wi-Fi: Browse Securely Anytime, Anywhere | Kambetastephano | [Read More](https://medium.com/p/bcd1c586a97e) |
-| Mon, 02 Jun 2025 20:43:07 GMT | Preparing for Q-Day: Is Your Data Quantum-Safe? | Technologic Innovation | [Read More](https://medium.com/p/e667b67152cb) |
-| Mon, 02 Jun 2025 20:42:04 GMT | The Role of AI in Cybersecurity: Enhancing Browser Security with Artificial Intelligence | Henry William | [Read More](https://medium.com/p/e56bd804904c) |
-| Mon, 02 Jun 2025 20:38:27 GMT | ARM Cortex-M MPU Explained: Memory Attributes, Access Control, and More | Wadix Technologies | [Read More](https://medium.com/p/0061ec43832f) |
-| Mon, 02 Jun 2025 20:36:40 GMT | “From Doubt to Discovery: Reporting a CSRF Bug to NASA ” | Virendra Kumar | [Read More](https://medium.com/p/62f95ecbfb81) |
-| Mon, 02 Jun 2025 20:34:33 GMT | Migrate from Wireguard to awesome Wg-Easy with no interruption for users | Vincenthartmann | [Read More](https://medium.com/p/b249ed5162b5) |
