@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 19:31:36 GMT | Introducing Labrador LLM: The First AI Foundation Model Built for Software Supply Chain Security | Roger Neal | [Read More](https://medium.com/p/0ea016f20081) |
+| Tue, 03 Jun 2025 19:25:13 GMT | Servers used during a Red Teaming engagement — Overview | The Darkarmy | [Read More](https://medium.com/p/86ec28c24c63) |
+| Tue, 03 Jun 2025 19:11:28 GMT | MDE’s DeviceNetworkEvents table for SOC analysts [Part 1 — Overview] | Ethan Bowen | [Read More](https://medium.com/p/094ca99b50c9) |
+| Tue, 03 Jun 2025 19:06:52 GMT | How Hackers Steal Passwords: 5 Attack Methods Explained | Anthony Mazyck | [Read More](https://medium.com/p/9fd25b93ae39) |
 | Tue, 03 Jun 2025 19:06:25 GMT | Why the Internet Has an Expiry Date — And What Comes After | Hafizbilaltariq | [Read More](https://medium.com/p/486c820328c1) |
+| Tue, 03 Jun 2025 19:03:26 GMT | HTB Academy writeup-Introduction to Web Applications | Nyaboke | [Read More](https://medium.com/p/425443cc77e9) |
 | Tue, 03 Jun 2025 18:48:27 GMT | Chaos Engineering: Breaking Things On Purpose | Ed Legault | [Read More](https://medium.com/p/4cd300693601) |
 | Tue, 03 Jun 2025 18:47:49 GMT | Unlock the Power of Curvance for Maximum Gains | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/6bf68995eba4) |
 | Tue, 03 Jun 2025 18:42:57 GMT | How to Automatically Lock Out SSH Brute-Force Attacks on Ubuntu and Red Hat | Faruk Ahmed | [Read More](https://medium.com/p/69e5e07d049b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 13:11:52 GMT | Solving the Confused Deputy Problem | Evernorth Tech Blog | [Read More](https://medium.com/p/7f59289b745a) |
 | Tue, 03 Jun 2025 13:09:37 GMT | What is ICS/SCADA in the world of Cybersecurity | Irfanbayu | [Read More](https://medium.com/p/2d236cbe10ec) |
 | Tue, 03 Jun 2025 13:06:59 GMT | Hack Email Account -- Hacking Services | BlackHat | [Read More](https://medium.com/p/0ac2bc814b4b) |
-| Tue, 03 Jun 2025 13:06:35 GMT | Quantum Threats: Preparing for the Next Frontier in Cybersecurity​ | Pegasus Technology Solutions | [Read More](https://medium.com/p/19292eb366ff) |
-| Tue, 03 Jun 2025 13:06:34 GMT | Introduction | Mathieu Bellail | [Read More](https://medium.com/p/ba7acc43f9e0) |
-| Tue, 03 Jun 2025 13:05:23 GMT | Ψ∑AISysIndex: A Functional Metaindex for Measuring Security Self-Awareness in AI Systems | Jordi Garcia Castillon | [Read More](https://medium.com/p/e7684f59a88e) |
-| Tue, 03 Jun 2025 13:04:12 GMT | Dienstleistersteuerung 2024: Die ultimative Roadmap für strategische Vendor-Excellence (mit… | Philip Hansen | [Read More](https://medium.com/p/8ab230b19417) |
-| Tue, 03 Jun 2025 12:55:21 GMT | Patch Diffing : Uncovering unannounced vulnerabilities | Shubhamkhatang | [Read More](https://medium.com/p/132776f8f94c) |
