@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 21:27:00 GMT | More CVEs, More Problems: Why Prioritizing Risk is the Only Way Forward | Bscardina | [Read More](https://medium.com/p/b0f3167ffb54) |
+| Tue, 03 Jun 2025 21:26:03 GMT | PT1- Recommeded lab to learn and Pass it …. | MRX.0 | [Read More](https://medium.com/p/b7f82bb065b9) |
+| Tue, 03 Jun 2025 21:10:55 GMT | Unlock Your Cybersecurity Career: Pass the TryHackMe PT1 Certificate (The Ultimate Guide) | MRX.0 | [Read More](https://medium.com/p/7df4195fef33) |
 | Tue, 03 Jun 2025 21:03:28 GMT | LexisNexis breach exposed over 364,000 Americans. | mePrism Privacy | [Read More](https://medium.com/p/801adcd06991) |
 | Tue, 03 Jun 2025 20:56:41 GMT | A software engineer’s data security and privacy insights for Mac users | Jhaubrich.com | [Read More](https://medium.com/p/1a83a236e643) |
 | Tue, 03 Jun 2025 20:46:10 GMT | 5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win | Markaz Gasimov | [Read More](https://medium.com/p/9d4d90042833) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 14:02:37 GMT | Loneliness is the New Smoking — And We’re All Hooked | Alayna Asher | [Read More](https://medium.com/p/b76c2b6299c7) |
 | Tue, 03 Jun 2025 14:01:43 GMT | IMMERSIVE | Ahmedhezema | [Read More](https://medium.com/p/da368ed5a693) |
 | Tue, 03 Jun 2025 14:01:37 GMT | The Smart Way to Choose Business Internet and Protect Your Network in 2025 | Defend My Business | [Read More](https://medium.com/p/df8b213e97f6) |
-| Tue, 03 Jun 2025 14:01:34 GMT | Linux Kerasukan? Eits, Bukan! Ini Cara Hardening Biar Server Aman Sentosa! | Febrian | [Read More](https://medium.com/p/13e02b23f70e) |
-| Tue, 03 Jun 2025 14:01:12 GMT | Cyber Briefing: 2025.06.03 | CyberMaterial | [Read More](https://medium.com/p/fd4533bb0287) |
-| Tue, 03 Jun 2025 13:59:36 GMT | The Life Hacker: Finding Smart Shortcuts to Financial Success and Overcoming Complacency | Alessandrastic No Bs | [Read More](https://medium.com/p/cf893615a63d) |
