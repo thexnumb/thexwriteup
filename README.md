@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 16:40:03 GMT | What Is CREST Penetration Testing? Benefits & Importance | Qualysectechnologies | [Read More](https://medium.com/p/bff51e4937f9) |
+| Tue, 03 Jun 2025 16:37:44 GMT | Day 17 of #60DaysofGRC: What’s the Difference Between a PIA and a DPIA (and When Do You Need One)? | Brittney Ginther | [Read More](https://medium.com/p/fe2731b921ca) |
+| Tue, 03 Jun 2025 16:36:18 GMT | What Hackers Know About You — and You Don’t | The Code Journals | [Read More](https://medium.com/p/47012d5b4e6b) |
+| Tue, 03 Jun 2025 16:30:30 GMT | Metasploit: Introduction - THM | Isiah | [Read More](https://medium.com/p/7340bdac5433) |
+| Tue, 03 Jun 2025 16:26:17 GMT | Purple Teaming: When Hackers and Defenders Join Forces | zerOiQ | [Read More](https://medium.com/p/fee825f60de6) |
 | Tue, 03 Jun 2025 16:23:57 GMT | OAuth 2.0 & OpenID Connect: Advanced Guide to Flows, Flaws & Fixes | Shxdowz | [Read More](https://medium.com/p/dea389cf6183) |
 | Tue, 03 Jun 2025 16:21:34 GMT | How to Create TLS Certificates with mkcert and Integrate Them with Spring Boot, Node.js, and Go | Koushik | [Read More](https://medium.com/p/ea3848f72341) |
 | Tue, 03 Jun 2025 16:16:00 GMT | I Lost $100K in a Fake Real Estate Deal — DRI Helped Me Get It Back by [Resse] | Amstel Resse | [Read More](https://medium.com/p/e80440d50557) |
@@ -108,8 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 11:32:29 GMT | Wrapping Up Domain 1: General Security Concepts — Your Security+ SY0-701 Review & Quiz | Jason Junior Boderebe | [Read More](https://medium.com/p/a8d264f6c91b) |
 | Tue, 03 Jun 2025 11:23:35 GMT | Ancaman Siber pada ICS/SCADA: Identifikasi dan Perlindungan | Febrian | [Read More](https://medium.com/p/86a8568a79ac) |
 | Tue, 03 Jun 2025 11:21:08 GMT | This Seemed Like a Tata Service Message — My Cybersecurity Instincts Knew Better | Leroyanand | [Read More](https://medium.com/p/7c8abad6224e) |
-| Tue, 03 Jun 2025 11:18:58 GMT | Is GMX V2 Safe to Use? A Deep Dive Into GMX V2’s Security and Privacy Measures (2025 Update) | Ootk | [Read More](https://medium.com/p/a4519cf833ad) |
-| Tue, 03 Jun 2025 11:16:45 GMT | Overpass 2 — Hacked TryHackMe Writeup: A Deep Dive into Web Exploitation | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/763a509fe546) |
-| Tue, 03 Jun 2025 11:16:40 GMT | Fixing ‘Logon Failure: The User Has Not Been Granted the Requested Logon Type’ Error on Windows… | Utkarsh Raj | [Read More](https://medium.com/p/08f9b1f0076e) |
-| Tue, 03 Jun 2025 11:16:02 GMT | Interlock and the Kettering Ransomware Attack: ClickFix’s Persistence | Mary Yang | [Read More](https://medium.com/p/ee00aaf67bff) |
-| Tue, 03 Jun 2025 11:15:44 GMT | Understanding EIP-7702 Phishing Attacks: A Comprehensive Guide to Protection Strategies for Wallets | GoPlus Security | [Read More](https://medium.com/p/8e8372e3d5ea) |
