@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 17:14:54 GMT | BountyOS: A Powerful OS for Bug Bounty Hunters | Tharindu Damith | [Read More](https://medium.com/p/2c08cb63ef8b) |
+| Tue, 03 Jun 2025 17:11:52 GMT | Ethical Hacking with Burp Suite: Enhancing Web Security | Ekene Joseph | [Read More](https://medium.com/p/181fbd7778b1) |
+| Tue, 03 Jun 2025 17:04:36 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e2a9a49dcb94) |
+| Tue, 03 Jun 2025 17:03:52 GMT | Being a Man in 2025 Means Everyone Expects Everything From You — And Cares About Nothing You Feel | X-Plain | [Read More](https://medium.com/p/21c4cba28ba9) |
+| Tue, 03 Jun 2025 16:56:39 GMT | Part 12 — How I Run My Entire Digital Life on a Raspberry Pi: Unify and Elevate your… | Levente Csikor | [Read More](https://medium.com/p/ff3dd4c89330) |
+| Tue, 03 Jun 2025 16:54:43 GMT | Another Day, Another Resume | Swethaboddu | [Read More](https://medium.com/p/13f4c23eb15e) |
+| Tue, 03 Jun 2025 16:50:20 GMT | the hidden secret to hacking most bugbounty hunters don’t want you to know : the wayback url | Ekene Joseph | [Read More](https://medium.com/p/c0ce1a27bc03) |
 | Tue, 03 Jun 2025 16:40:03 GMT | What Is CREST Penetration Testing? Benefits & Importance | Qualysectechnologies | [Read More](https://medium.com/p/bff51e4937f9) |
 | Tue, 03 Jun 2025 16:37:44 GMT | Day 17 of #60DaysofGRC: What’s the Difference Between a PIA and a DPIA (and When Do You Need One)? | Brittney Ginther | [Read More](https://medium.com/p/fe2731b921ca) |
 | Tue, 03 Jun 2025 16:36:18 GMT | What Hackers Know About You — and You Don’t | The Code Journals | [Read More](https://medium.com/p/47012d5b4e6b) |
@@ -106,10 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 11:52:59 GMT | How To Protect Your Computing Devices And Systems | Cyber Timi | [Read More](https://medium.com/p/b4b0189c2de1) |
 | Tue, 03 Jun 2025 11:51:10 GMT | Geliştirici Hatalarıyla Zafiyet Bulma: Açıkta Kalan Debug Paneller, Swagger UI ve .git Sızıntıları | Onur Civan | [Read More](https://medium.com/p/73ff26a26281) |
 | Tue, 03 Jun 2025 11:50:17 GMT | HTB 10.10.11.57 — Full Active Machine Walkthrough - NullClass Internship Report | Ravi Teja | [Read More](https://medium.com/p/e23fcc2739bc) |
-| Tue, 03 Jun 2025 11:49:31 GMT | THM - Flag Vault | Francesco Pastore | [Read More](https://medium.com/p/504c39b8c477) |
-| Tue, 03 Jun 2025 11:48:18 GMT | Race Condition leads to use-after-free | 0cifer_l | [Read More](https://medium.com/p/38af439e3cfd) |
-| Tue, 03 Jun 2025 11:34:35 GMT | Top Career Options After BCA in 2025 | izee institutions | [Read More](https://medium.com/p/66006333e666) |
-| Tue, 03 Jun 2025 11:32:41 GMT | Is Your Antivirus Enough? Why Businesses Are Upgrading to Managed EDR | Sunder Singh | [Read More](https://medium.com/p/6de70bf033b8) |
-| Tue, 03 Jun 2025 11:32:29 GMT | Wrapping Up Domain 1: General Security Concepts — Your Security+ SY0-701 Review & Quiz | Jason Junior Boderebe | [Read More](https://medium.com/p/a8d264f6c91b) |
-| Tue, 03 Jun 2025 11:23:35 GMT | Ancaman Siber pada ICS/SCADA: Identifikasi dan Perlindungan | Febrian | [Read More](https://medium.com/p/86a8568a79ac) |
-| Tue, 03 Jun 2025 11:21:08 GMT | This Seemed Like a Tata Service Message — My Cybersecurity Instincts Knew Better | Leroyanand | [Read More](https://medium.com/p/7c8abad6224e) |
