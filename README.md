@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 21:03:28 GMT | LexisNexis breach exposed over 364,000 Americans. | mePrism Privacy | [Read More](https://medium.com/p/801adcd06991) |
+| Tue, 03 Jun 2025 20:56:41 GMT | A software engineer’s data security and privacy insights for Mac users | Jhaubrich.com | [Read More](https://medium.com/p/1a83a236e643) |
+| Tue, 03 Jun 2025 20:46:10 GMT | 5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win | Markaz Gasimov | [Read More](https://medium.com/p/9d4d90042833) |
 | Tue, 03 Jun 2025 20:35:41 GMT | Your 30-Day Bug Bounty Kickstart for 2025 (Using Only Free Tools) | Vivek PS | [Read More](https://medium.com/p/5a323ff82bbc) |
 | Tue, 03 Jun 2025 20:33:04 GMT | GenAI və Kibertəhlükəsizlik: Yeni Dövrün İkili Silahı | Makharramli | [Read More](https://medium.com/p/d17cfbb32c3e) |
 | Tue, 03 Jun 2025 20:30:18 GMT | The Future of Cybersecurity GRC Is Sustainable and Human-Centered | Mishaal Zahed | [Read More](https://medium.com/p/6b9c0ee28809) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 14:01:34 GMT | Linux Kerasukan? Eits, Bukan! Ini Cara Hardening Biar Server Aman Sentosa! | Febrian | [Read More](https://medium.com/p/13e02b23f70e) |
 | Tue, 03 Jun 2025 14:01:12 GMT | Cyber Briefing: 2025.06.03 | CyberMaterial | [Read More](https://medium.com/p/fd4533bb0287) |
 | Tue, 03 Jun 2025 13:59:36 GMT | The Life Hacker: Finding Smart Shortcuts to Financial Success and Overcoming Complacency | Alessandrastic No Bs | [Read More](https://medium.com/p/cf893615a63d) |
-| Tue, 03 Jun 2025 13:51:34 GMT | Brute-Force Attacks with Hydra and Password Strength Testing | Esra Kayhan | [Read More](https://medium.com/p/b996464d63ae) |
-| Tue, 03 Jun 2025 13:48:05 GMT | Monitoring Bash readline with eBPF CO-RE & LLM Assistance | Alex Elbaum | [Read More](https://medium.com/p/536ab57c9b22) |
-| Tue, 03 Jun 2025 13:40:54 GMT | Azure Sentinel vs Splunk ES Comparison | Saikat Paul | [Read More](https://medium.com/p/05a9406d40cf) |
