@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 05:19:14 GMT | How to assess the impact of data security services? | James Damon | [Read More](https://medium.com/p/4293004b26c2) |
+| Tue, 03 Jun 2025 05:06:01 GMT | Secure GKE plane in a modern way | Michal Zindulka | [Read More](https://medium.com/p/f3888417c3d1) |
+| Tue, 03 Jun 2025 05:05:03 GMT | HTTP Response Splitting in Symfony: Protect Your App | Pentest_Testing_Corp | [Read More](https://medium.com/p/b2aa85456e1d) |
+| Tue, 03 Jun 2025 05:00:33 GMT | Tech Tip Monday – Nikao IT Solutions | oheneba kwaku annor | [Read More](https://medium.com/p/b73a451d5f0e) |
+| Tue, 03 Jun 2025 04:48:52 GMT | Can Lost Bitcoin Be Recovered? Separating Myth from Reality | Lost Crypto Recovery Service. | [Read More](https://medium.com/p/f1a13254b8bc) |
+| Tue, 03 Jun 2025 04:47:53 GMT | Is Your Cloud Data Secure? What San Antonio Users Should Know | SecureTech | [Read More](https://medium.com/p/f847d68db18b) |
+| Tue, 03 Jun 2025 04:47:46 GMT | SemGrep Static Code Analysis Tool | AbhirupKonwar | [Read More](https://medium.com/p/d22335b794f5) |
+| Tue, 03 Jun 2025 04:36:13 GMT | Top Cybersecurity Trends to Watch in 2025 | Devi prasad Guda | [Read More](https://medium.com/p/80eddc9811d9) |
+| Tue, 03 Jun 2025 04:33:50 GMT | The Artificial Intelligence Role in Penetration Testing and Cyber Defense | Seonaissac | [Read More](https://medium.com/p/ec152509fe8b) |
 | Tue, 03 Jun 2025 04:16:17 GMT | A Letter to the Internet: The Truth About DNS Hijacking in Censorship Systems | BerlianJitu | [Read More](https://medium.com/p/5c1f2f3aa3a2) |
 | Tue, 03 Jun 2025 04:12:03 GMT | 4x Surge in PureRAT Malware Attacks Against Russian Businesses | Chaitanya Appani | [Read More](https://medium.com/p/6fa4b5e87071) |
 | Tue, 03 Jun 2025 03:57:27 GMT | Mengatasi Kerentanan WordPress: Solusi Praktis untuk xmlrpc, Spam, dan Brute Force | Wakhid Wicaksono | [Read More](https://medium.com/p/d3980c4c7489) |
@@ -104,13 +113,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Mon, 02 Jun 2025 19:09:22 GMT | Africa’s Digital Goldmine: Why AI & Cybersecurity Matter More Than Ever | Mohamud Ibrahim | [Read More](https://medium.com/p/27694e42d21e) |
 | Mon, 02 Jun 2025 18:58:54 GMT | “My AI Made Me Do It!”: Using HFACS to Unpack Human Error in AI Security Breaches | Wale Adedeji | [Read More](https://medium.com/p/544fe62d7a68) |
 | Mon, 02 Jun 2025 18:53:26 GMT | So You Want to Start Your AI Transformation? Read This First. | Marwan Jaber | [Read More](https://medium.com/p/8d3fd9c4e191) |
-| Mon, 02 Jun 2025 18:49:05 GMT | Microsoft and CrowdStrike Collaborate to Standardize Threat Actor Naming | Ronit Yadav | [Read More](https://medium.com/p/a70d298173e4) |
-| Mon, 02 Jun 2025 18:39:02 GMT | LetsDefend SOC Walkthrough - SOC 107 — Requested T.I. URL address | Tijan Hydara | [Read More](https://medium.com/p/25810959d55b) |
-| Mon, 02 Jun 2025 18:38:14 GMT | I Miss You. Whoever You Are. | Spiral Patterns | [Read More](https://medium.com/p/946899a26738) |
-| Mon, 02 Jun 2025 18:36:58 GMT | OSINT Case Report: Suspected Synthetic LinkedIn Identity — “Christopher Anderson” | BlueBirdIntel | [Read More](https://medium.com/p/b36bddf80849) |
-| Mon, 02 Jun 2025 18:34:58 GMT | Stay Ahead with Recon Solana: The Future of Crypto Yields | Ashley
- Ingram | [Read More](https://medium.com/p/f64ede41df23) |
-| Mon, 02 Jun 2025 18:33:43 GMT | Be Vulnerable | Dennis | [Read More](https://medium.com/p/7afa31e01291) |
-| Mon, 02 Jun 2025 18:33:22 GMT | Cybersecurity Case Study: The Morris Worm — The First Internet Worm | Agarwaldaksh | [Read More](https://medium.com/p/9fdaac4c08e9) |
-| Mon, 02 Jun 2025 18:32:44 GMT | Understanding Malware: A Cybersecurity Analyst’s Guide to Threats and Defense | R1punjay_Singh | [Read More](https://medium.com/p/af69b6710730) |
-| Mon, 02 Jun 2025 18:26:05 GMT | SBOM (Software Bill Off Materials) in Security | Natarajan C K | [Read More](https://medium.com/p/0876083988fd) |
