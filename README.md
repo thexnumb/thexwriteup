@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 20:19:10 GMT | Why Spring Security Is the Go-To Solution for Securing Spring Applications | Chihebellefi | [Read More](https://medium.com/p/5f45291b559b) |
+| Tue, 03 Jun 2025 20:08:30 GMT | BehindTheScreens: Navigating the Cybersecurity Frontier — In-depth Analysis (May 26th to June 1st… | Sam - Behind The Screens | [Read More](https://medium.com/p/381c31033a52) |
+| Tue, 03 Jun 2025 19:50:35 GMT | Luxury & Retail Under Siege: Cartier, North Face, Victoria’s Secret Hit by June 3 Cyberattacks | Chetan Seripally | [Read More](https://medium.com/p/0b4f5cbd006e) |
+| Tue, 03 Jun 2025 19:49:08 GMT | SoK: A Literature and Engineering Review of Regular Expression Denial of Service (ReDoS) | James Davis | [Read More](https://medium.com/p/e6b10ef547c7) |
+| Tue, 03 Jun 2025 19:44:56 GMT | Offensive Security Intro — Defensive security — Introduction to Cyber Security — TryHackMe… | Nyaboke | [Read More](https://medium.com/p/28e293930d33) |
+| Tue, 03 Jun 2025 19:44:45 GMT | Business Growth with a Virtual CIO (vCIO) | IT_Engineer | [Read More](https://medium.com/p/49c3ce931295) |
+| Tue, 03 Jun 2025 19:35:05 GMT | Understanding NIS2: How to Tell if Europe’s New Cybersecurity Directive Applies to Your Business | J Bodys | [Read More](https://medium.com/p/f5fe31211930) |
 | Tue, 03 Jun 2025 19:31:36 GMT | Introducing Labrador LLM: The First AI Foundation Model Built for Software Supply Chain Security | Roger Neal | [Read More](https://medium.com/p/0ea016f20081) |
+| Tue, 03 Jun 2025 19:26:40 GMT | Building Production-Ready MySQL Infrastructure on GCP with OpenTofu/Terraform: A Complete Guide | Devashish Chand Gupta | [Read More](https://medium.com/p/912ee9fee0f8) |
 | Tue, 03 Jun 2025 19:25:13 GMT | Servers used during a Red Teaming engagement — Overview | The Darkarmy | [Read More](https://medium.com/p/86ec28c24c63) |
 | Tue, 03 Jun 2025 19:11:28 GMT | MDE’s DeviceNetworkEvents table for SOC analysts [Part 1 — Overview] | Ethan Bowen | [Read More](https://medium.com/p/094ca99b50c9) |
 | Tue, 03 Jun 2025 19:06:52 GMT | How Hackers Steal Passwords: 5 Attack Methods Explained | Anthony Mazyck | [Read More](https://medium.com/p/9fd25b93ae39) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 13:34:04 GMT | Alessandrastic No BS: How Self-Development Can Transform Your Life - Straight Talk!" | Alessandrastic No Bs | [Read More](https://medium.com/p/78ac0e821caf) |
 | Tue, 03 Jun 2025 13:33:52 GMT | Gmail hacking in 2025: MFA can’t stop increasingly effective attacks | 0trust0day | [Read More](https://medium.com/p/6878f6975ff8) |
 | Tue, 03 Jun 2025 13:19:01 GMT | Incident Response in AWS: Scoping strategies | Markohalloran | [Read More](https://medium.com/p/b90a1e2b2961) |
-| Tue, 03 Jun 2025 13:18:35 GMT | NOPS CTF — XSS lab | UnStoppable | [Read More](https://medium.com/p/6d2cc26a8561) |
-| Tue, 03 Jun 2025 13:16:34 GMT | How to Install and Use Hopper Disassembler on Linux: Your Reverse Engineering Toolkit | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/ad46df223f06) |
-| Tue, 03 Jun 2025 13:15:46 GMT | How I made 600$ in 60 secs ? | arjanchaudharyy | [Read More](https://medium.com/p/f2b085731b59) |
-| Tue, 03 Jun 2025 13:15:05 GMT | VenomRAT just RSVP’d to your inbox. Password? ‘TotallyNotAMalware.zip’. | Wes Young | [Read More](https://medium.com/p/922df5f04e6c) |
-| Tue, 03 Jun 2025 13:13:13 GMT | KeePass Flaw Puts Passwords — and Corporate Networks — at Risk | Ivan Pavlov | [Read More](https://medium.com/p/cc7853bf1800) |
-| Tue, 03 Jun 2025 13:11:52 GMT | Solving the Confused Deputy Problem | Evernorth Tech Blog | [Read More](https://medium.com/p/7f59289b745a) |
-| Tue, 03 Jun 2025 13:09:37 GMT | What is ICS/SCADA in the world of Cybersecurity | Irfanbayu | [Read More](https://medium.com/p/2d236cbe10ec) |
-| Tue, 03 Jun 2025 13:06:59 GMT | Hack Email Account -- Hacking Services | BlackHat | [Read More](https://medium.com/p/0ac2bc814b4b) |
