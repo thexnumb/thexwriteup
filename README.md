@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 15:03:50 GMT | I Built an MCP Server for XSS Testing — Here’s What Happened | 0xTrk | [Read More](https://medium.com/p/1c097e79eb8d) |
+| Tue, 03 Jun 2025 14:59:29 GMT | 30 Most Used KQl Commands | Saikat Paul | [Read More](https://medium.com/p/426529daead8) |
+| Tue, 03 Jun 2025 14:58:50 GMT | Stop Flying Blind in Salesforce! Master Health Check in 20 Minutes | Mani | [Read More](https://medium.com/p/007da177adb3) |
+| Tue, 03 Jun 2025 14:45:02 GMT | The Great Cyber Heist: A Tale of Hackers, Insiders, and Lessons in Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/efe52019fdfe) |
 | Tue, 03 Jun 2025 14:32:53 GMT | Roboter in der Grenzsicherung | Presslink Media | [Read More](https://medium.com/p/38aef1357529) |
 | Tue, 03 Jun 2025 14:30:12 GMT | Artificial Intelligence seems fascinating; until it isn't! | Manoj Kumar | [Read More](https://medium.com/p/82aff662984a) |
 | Tue, 03 Jun 2025 14:28:15 GMT | Issue 31: Vigilant | Access Insurance | [Read More](https://medium.com/p/5f0e44946447) |
@@ -109,7 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 10:23:11 GMT | DGACTF — Gate | Paata Metreveli | [Read More](https://medium.com/p/369641dd869f) |
 | Tue, 03 Jun 2025 10:23:01 GMT | The Wild Horse Effect: When Cybersecurity Overreacts to Harmless Threats | Dinesh Dino | [Read More](https://medium.com/p/00f813b69b4a) |
 | Tue, 03 Jun 2025 10:22:41 GMT | YouTube analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/8a0e0f53303b) |
-| Tue, 03 Jun 2025 10:20:36 GMT | How .NET Empowers Cybersecurity in Today’s Digital Age | Adem KORKMAZ | [Read More](https://medium.com/p/c4a26db0912c) |
-| Tue, 03 Jun 2025 10:20:05 GMT | The Silent Journey: A Cautionary Tale in Cyber Risk | Dean | [Read More](https://medium.com/p/e162310b0c0c) |
-| Tue, 03 Jun 2025 10:12:48 GMT | Bug Bounty Google Dorks 2025 | LogicTech | [Read More](https://medium.com/p/1b9a9ba00dd6) |
-| Tue, 03 Jun 2025 10:11:18 GMT | What Nobody Tells You About Compliance Automation Tools | SecureSlate | [Read More](https://medium.com/p/7ddbd2be3797) |
