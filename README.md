@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 11:12:09 GMT | You’re Not a ‘Tech Founder.’ You Just Built a Notion Template | Soulitinerary | [Read More](https://medium.com/p/c633eb39999d) |
+| Tue, 03 Jun 2025 11:07:06 GMT | A  :    … | Shahriar Kabir Omi | [Read More](https://medium.com/p/478a0fd3e64a) |
+| Tue, 03 Jun 2025 11:05:46 GMT | A Peek Into Nova Scotia, Canada’s Cyberspace & The Dangers In Our Digital Lives | O. J. Okpabi | [Read More](https://medium.com/p/ecd5b6e47e91) |
+| Tue, 03 Jun 2025 11:05:24 GMT | Why Cybersecurity Is More Important Than Ever in 2025 | Sandesh Kumar | [Read More](https://medium.com/p/cca8fedede0f) |
+| Tue, 03 Jun 2025 11:04:16 GMT | Daily Bugle TryHackMe Writeup: A Journey Through Joomla Exploitation and Privilege Escalation | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/ffe3e6cccaf8) |
+| Tue, 03 Jun 2025 11:02:34 GMT | Why You Need PGP If You Work with Clients, Leaks, or Sensitive Data (Basic Level) | Ingvar Pavlovich | [Read More](https://medium.com/p/89f359be9aec) |
+| Tue, 03 Jun 2025 11:02:29 GMT | Provisioning Proxmox Virtual Machines with Terraform | Daniel Edwards | [Read More](https://medium.com/p/d9e9c549f947) |
+| Tue, 03 Jun 2025 10:57:51 GMT | ⚔ Simulating ARP Spoofing & MITM Attacks in a Controlled Lab | Alex Henry | [Read More](https://medium.com/p/e8bb7e521a68) |
+| Tue, 03 Jun 2025 10:51:14 GMT | Top Skills to Acquire in 2025: AI, Cybersecurity, and Cloud Technologies | VERSAtile Reads | [Read More](https://medium.com/p/3dfd5c1b6620) |
+| Tue, 03 Jun 2025 10:49:38 GMT | Understanding Linux Architecture & Inter-Process Communication: A Beginner’s Guide for Aspiring… | Mubashir Rahman | [Read More](https://medium.com/p/d060a0b04111) |
+| Tue, 03 Jun 2025 10:45:13 GMT | Obfuscation of Mobile Apps | Talsec | [Read More](https://medium.com/p/fc3be8d73306) |
 | Tue, 03 Jun 2025 10:41:23 GMT | Should I Ping or Keep Suffering? A Developer’s Dilemma ‍ | Rishabh Gupta | [Read More](https://medium.com/p/d6cbbf706481) |
 | Tue, 03 Jun 2025 10:37:57 GMT | How Cybercriminals Are Weaponizing Misconfigured AI Systems: A Complete Security Guide | Technijian | [Read More](https://medium.com/p/65ac7e3f92eb) |
 | Tue, 03 Jun 2025 10:36:47 GMT | The Website That’s Quietly Shining a Light on the Dark World of Ransomware | cybrNK | [Read More](https://medium.com/p/a9eca622c9b4) |
@@ -103,14 +114,3 @@ Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com
 | Tue, 03 Jun 2025 06:39:19 GMT | How I Hit 30 and Still Had No Idea What I Was Doing With My Life | Dana Winestone | [Read More](https://medium.com/p/022bcc507eee) |
 | Tue, 03 Jun 2025 06:33:06 GMT | Top Cyber Threats Facing Small Businesses Today (And How to Fight Back) | Kambetastephano | [Read More](https://medium.com/p/c83a32dc8512) |
 | Tue, 03 Jun 2025 06:33:05 GMT | Key Features of Effective CCTV Monitoring | Jane Tang | [Read More](https://medium.com/p/be0210f6ae65) |
-| Tue, 03 Jun 2025 06:30:32 GMT | OAuth Misuse: Chaining Redirect URIs and Silent Logins into Full Account Takeover | Monika sharma | [Read More](https://medium.com/p/91b68f68227b) |
-| Tue, 03 Jun 2025 06:30:20 GMT | Baggage X-Ray Scanner for Hospital Facilities: Choosing the Right Model | Pentagonengineers | [Read More](https://medium.com/p/370c0cc7d7e2) |
-| Tue, 03 Jun 2025 06:26:59 GMT | Supervisor Night Patrol Software - GPS Guard Tour & Field Tracking | Canticle India | [Read More](https://medium.com/p/4314acc542a4) |
-| Tue, 03 Jun 2025 06:24:13 GMT | Hunting for Secrets in Source Maps (.map Files) | Monika sharma | [Read More](https://medium.com/p/de969e4b0cdb) |
-| Tue, 03 Jun 2025 06:15:26 GMT | Secrets in IaC: Vault, SOPS, or AWS Secrets Manager? | Devops Trainer | [Read More](https://medium.com/p/be4e9b3d5dc7) |
-| Tue, 03 Jun 2025 06:11:39 GMT | S1E7 : Spring Security Deep Dive: JWT, Custom Authentication and Role-Based Access - Explained | Yasin Serbest | [Read More](https://medium.com/p/04f3bd383fe8) |
-| Tue, 03 Jun 2025 06:03:51 GMT | New strategic collaboration to bring clarity to threat actor naming | jogojogo | [Read More](https://medium.com/p/ff4a8f737c24) |
-| Tue, 03 Jun 2025 06:03:22 GMT | How Quantum Computing Will Transform Cybersecurity | Gary A. Fowler | [Read More](https://medium.com/p/3d7adb340260) |
-| Tue, 03 Jun 2025 06:00:48 GMT | Mitigation Techniques Every Business Must Use to Prevent Cyber Threats | unica 02 | [Read More](https://medium.com/p/1c41c5840b95) |
-| Tue, 03 Jun 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Jun 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7631b471926b) |
-| Tue, 03 Jun 2025 06:00:20 GMT | Remote File Inclusion (RFI) Lab — Docker Custom Setup and Exploitation | Shahin Raza | [Read More](https://medium.com/p/44a4e12628fa) |
