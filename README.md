@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 05:24:49 GMT | 404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths” | Monika sharma | [Read More](https://medium.com/p/f5723b3ad3f8) |
+| Tue, 03 Jun 2025 05:24:45 GMT | Airport Baggage X-Ray Machine Insights: Security Through Scanning | Pentagonengineers | [Read More](https://medium.com/p/97671e65f2b4) |
+| Tue, 03 Jun 2025 05:23:45 GMT | How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF (CVE-2025–4123) | coffinxp | [Read More](https://medium.com/p/b35245dccaab) |
+| Tue, 03 Jun 2025 05:19:58 GMT | Why Clavi Isn’t Competing with Ledger: A Tale of Two Worlds | 0NE - C L A V I | [Read More](https://medium.com/p/2c5fcd57e809) |
+| Tue, 03 Jun 2025 05:19:46 GMT | Webhook Vulnerabilities: Hidden Vulnerabilities in Automation Pipelines | Monika sharma | [Read More](https://medium.com/p/724d09ec6130) |
 | Tue, 03 Jun 2025 05:19:14 GMT | How to assess the impact of data security services? | James Damon | [Read More](https://medium.com/p/4293004b26c2) |
 | Tue, 03 Jun 2025 05:06:01 GMT | Secure GKE plane in a modern way | Michal Zindulka | [Read More](https://medium.com/p/f3888417c3d1) |
 | Tue, 03 Jun 2025 05:05:03 GMT | HTTP Response Splitting in Symfony: Protect Your App | Pentest_Testing_Corp | [Read More](https://medium.com/p/b2aa85456e1d) |
@@ -108,8 +113,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Mon, 02 Jun 2025 19:25:09 GMT | Breaking the Firewall: A Pen Tester’s Take on June 2, 2025 Cybersecurity Chaos | hackerguy7 | [Read More](https://medium.com/p/7b0e5b996be1) |
 | Mon, 02 Jun 2025 19:24:13 GMT | AVUESSO — Review | marianita_cloud | [Read More](https://medium.com/p/b7cc46b5dae9) |
 | Mon, 02 Jun 2025 19:22:17 GMT | ⚠️ Beware of a LinkedIn Scam Involving Malicious Bitbucket Repository | Stanislav Obrazcoff | [Read More](https://medium.com/p/77ac8816b5ca) |
-| Mon, 02 Jun 2025 19:12:24 GMT | Day 16: Why Data Privacy Is Everyone’s BusinessNot Just Legal’s | Brittney Ginther | [Read More](https://medium.com/p/e608491477b5) |
-| Mon, 02 Jun 2025 19:12:17 GMT | Price Tampering in WooCommerce Checkout API (Flutter App) | Youssefhussein | [Read More](https://medium.com/p/2a73cefbea80) |
-| Mon, 02 Jun 2025 19:09:22 GMT | Africa’s Digital Goldmine: Why AI & Cybersecurity Matter More Than Ever | Mohamud Ibrahim | [Read More](https://medium.com/p/27694e42d21e) |
-| Mon, 02 Jun 2025 18:58:54 GMT | “My AI Made Me Do It!”: Using HFACS to Unpack Human Error in AI Security Breaches | Wale Adedeji | [Read More](https://medium.com/p/544fe62d7a68) |
-| Mon, 02 Jun 2025 18:53:26 GMT | So You Want to Start Your AI Transformation? Read This First. | Marwan Jaber | [Read More](https://medium.com/p/8d3fd9c4e191) |
