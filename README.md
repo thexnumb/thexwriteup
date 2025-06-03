@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 20:35:41 GMT | Your 30-Day Bug Bounty Kickstart for 2025 (Using Only Free Tools) | Vivek PS | [Read More](https://medium.com/p/5a323ff82bbc) |
+| Tue, 03 Jun 2025 20:33:04 GMT | GenAI və Kibertəhlükəsizlik: Yeni Dövrün İkili Silahı | Makharramli | [Read More](https://medium.com/p/d17cfbb32c3e) |
+| Tue, 03 Jun 2025 20:30:18 GMT | The Future of Cybersecurity GRC Is Sustainable and Human-Centered | Mishaal Zahed | [Read More](https://medium.com/p/6b9c0ee28809) |
+| Tue, 03 Jun 2025 20:26:34 GMT | Leveraging SQLMap for SQL Injection | musayyab sharif | [Read More](https://medium.com/p/d4d3f9bb38a4) |
 | Tue, 03 Jun 2025 20:19:10 GMT | Why Spring Security Is the Go-To Solution for Securing Spring Applications | Chihebellefi | [Read More](https://medium.com/p/5f45291b559b) |
 | Tue, 03 Jun 2025 20:08:30 GMT | BehindTheScreens: Navigating the Cybersecurity Frontier — In-depth Analysis (May 26th to June 1st… | Sam - Behind The Screens | [Read More](https://medium.com/p/381c31033a52) |
 | Tue, 03 Jun 2025 19:50:35 GMT | Luxury & Retail Under Siege: Cartier, North Face, Victoria’s Secret Hit by June 3 Cyberattacks | Chetan Seripally | [Read More](https://medium.com/p/0b4f5cbd006e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 13:51:34 GMT | Brute-Force Attacks with Hydra and Password Strength Testing | Esra Kayhan | [Read More](https://medium.com/p/b996464d63ae) |
 | Tue, 03 Jun 2025 13:48:05 GMT | Monitoring Bash readline with eBPF CO-RE & LLM Assistance | Alex Elbaum | [Read More](https://medium.com/p/536ab57c9b22) |
 | Tue, 03 Jun 2025 13:40:54 GMT | Azure Sentinel vs Splunk ES Comparison | Saikat Paul | [Read More](https://medium.com/p/05a9406d40cf) |
-| Tue, 03 Jun 2025 13:37:23 GMT | Security in Crypto: 3 KPIs Every Trader Must Know | Nova Blockchain Lab | [Read More](https://medium.com/p/84515fe790f4) |
-| Tue, 03 Jun 2025 13:34:04 GMT | Alessandrastic No BS: How Self-Development Can Transform Your Life - Straight Talk!" | Alessandrastic No Bs | [Read More](https://medium.com/p/78ac0e821caf) |
-| Tue, 03 Jun 2025 13:33:52 GMT | Gmail hacking in 2025: MFA can’t stop increasingly effective attacks | 0trust0day | [Read More](https://medium.com/p/6878f6975ff8) |
-| Tue, 03 Jun 2025 13:19:01 GMT | Incident Response in AWS: Scoping strategies | Markohalloran | [Read More](https://medium.com/p/b90a1e2b2961) |
