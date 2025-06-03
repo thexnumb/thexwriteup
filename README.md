@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 22:16:02 GMT | API Security in the Age of AI: New Attack Surfaces and How to Defend Them | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9db3e92a2746) |
+| Tue, 03 Jun 2025 22:10:48 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/761c1e198f8c) |
+| Tue, 03 Jun 2025 22:10:37 GMT | Chat n’ Hack: Unleash the power of AI utilizing LibreChat, MCP and Kali Linux | Chris Schw | [Read More](https://medium.com/p/678bbbbe1d82) |
+| Tue, 03 Jun 2025 21:48:02 GMT | IDOR: você não deveria estar vendo isso | Lucas Veiga | [Read More](https://medium.com/p/691a35cbe362) |
 | Tue, 03 Jun 2025 21:27:00 GMT | More CVEs, More Problems: Why Prioritizing Risk is the Only Way Forward | Bscardina | [Read More](https://medium.com/p/b0f3167ffb54) |
 | Tue, 03 Jun 2025 21:26:03 GMT | PT1- Recommeded lab to learn and Pass it …. | MRX.0 | [Read More](https://medium.com/p/b7f82bb065b9) |
 | Tue, 03 Jun 2025 21:10:55 GMT | Unlock Your Cybersecurity Career: Pass the TryHackMe PT1 Certificate (The Ultimate Guide) | MRX.0 | [Read More](https://medium.com/p/7df4195fef33) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 14:11:26 GMT | Welcome to the Chaos! | LetterstoBecoming | [Read More](https://medium.com/p/0e2a3608532c) |
 | Tue, 03 Jun 2025 14:10:38 GMT | Ledger.com Review - This is How I Recover My Money Back | Riley hay | [Read More](https://medium.com/p/880a48473d2e) |
 | Tue, 03 Jun 2025 14:09:05 GMT | What a Forgotten Codebreaker Taught Me About Finding My Path | The Decryptionist (AMS) | [Read More](https://medium.com/p/59900dfb0855) |
-| Tue, 03 Jun 2025 14:07:08 GMT | IDOR allows unauthorized payment hijacking | JEETPAL | [Read More](https://medium.com/p/3abf642c0cca) |
-| Tue, 03 Jun 2025 14:02:37 GMT | Loneliness is the New Smoking — And We’re All Hooked | Alayna Asher | [Read More](https://medium.com/p/b76c2b6299c7) |
-| Tue, 03 Jun 2025 14:01:43 GMT | IMMERSIVE | Ahmedhezema | [Read More](https://medium.com/p/da368ed5a693) |
-| Tue, 03 Jun 2025 14:01:37 GMT | The Smart Way to Choose Business Internet and Protect Your Network in 2025 | Defend My Business | [Read More](https://medium.com/p/df8b213e97f6) |
