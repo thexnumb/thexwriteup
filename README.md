@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 14:32:53 GMT | Roboter in der Grenzsicherung | Presslink Media | [Read More](https://medium.com/p/38aef1357529) |
+| Tue, 03 Jun 2025 14:30:12 GMT | Artificial Intelligence seems fascinating; until it isn't! | Manoj Kumar | [Read More](https://medium.com/p/82aff662984a) |
+| Tue, 03 Jun 2025 14:28:15 GMT | Issue 31: Vigilant | Access Insurance | [Read More](https://medium.com/p/5f0e44946447) |
+| Tue, 03 Jun 2025 14:26:33 GMT | Shelly — Serve and Execute ShellCode over the wire | Sayan Ray | [Read More](https://medium.com/p/8e8a98416831) |
+| Tue, 03 Jun 2025 14:23:39 GMT | The Rise of the High Flatness Silicon Wafer Market: Trends, Growth, and Future Outlook to 2033 | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/9631baac9907) |
+| Tue, 03 Jun 2025 14:20:42 GMT | Here’s How I Recover My Money From Nobitex | Rayan grant | [Read More](https://medium.com/p/2dd5d15b3995) |
 | Tue, 03 Jun 2025 14:18:37 GMT | Why Ransomware is a Growing Threat in the UK | Forefront Technology International Inc. | [Read More](https://medium.com/p/171798524756) |
+| Tue, 03 Jun 2025 14:11:31 GMT | Why You Loved More Fearlessly as a Child (And How to Get It Back) | Sarah Knight | [Read More](https://medium.com/p/a80b0023c3d3) |
+| Tue, 03 Jun 2025 14:11:26 GMT | Welcome to the Chaos! | LetterstoBecoming | [Read More](https://medium.com/p/0e2a3608532c) |
+| Tue, 03 Jun 2025 14:10:38 GMT | Ledger.com Review - This is How I Recover My Money Back | Riley hay | [Read More](https://medium.com/p/880a48473d2e) |
+| Tue, 03 Jun 2025 14:09:05 GMT | What a Forgotten Codebreaker Taught Me About Finding My Path | The Decryptionist (AMS) | [Read More](https://medium.com/p/59900dfb0855) |
 | Tue, 03 Jun 2025 14:07:08 GMT | IDOR allows unauthorized payment hijacking | JEETPAL | [Read More](https://medium.com/p/3abf642c0cca) |
 | Tue, 03 Jun 2025 14:02:37 GMT | Loneliness is the New Smoking — And We’re All Hooked | Alayna Asher | [Read More](https://medium.com/p/b76c2b6299c7) |
 | Tue, 03 Jun 2025 14:01:43 GMT | IMMERSIVE | Ahmedhezema | [Read More](https://medium.com/p/da368ed5a693) |
@@ -103,13 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 10:20:05 GMT | The Silent Journey: A Cautionary Tale in Cyber Risk | Dean | [Read More](https://medium.com/p/e162310b0c0c) |
 | Tue, 03 Jun 2025 10:12:48 GMT | Bug Bounty Google Dorks 2025 | LogicTech | [Read More](https://medium.com/p/1b9a9ba00dd6) |
 | Tue, 03 Jun 2025 10:11:18 GMT | What Nobody Tells You About Compliance Automation Tools | SecureSlate | [Read More](https://medium.com/p/7ddbd2be3797) |
-| Tue, 03 Jun 2025 10:04:36 GMT | Even Cartier Isn’t Immune to Cyber Threats | MohitV | [Read More](https://medium.com/p/fc854ca431b6) |
-| Tue, 03 Jun 2025 10:02:16 GMT | Understanding the Hardware and Firmware Cybersecurity Landscape | Rob Phillips | [Read More](https://medium.com/p/5e9e5e404d2b) |
-| Tue, 03 Jun 2025 09:58:37 GMT | Cartier Confirms Customer Data Breach | Saravanan R | [Read More](https://medium.com/p/cc080c44e7bd) |
-| Tue, 03 Jun 2025 09:52:34 GMT | Secure Auth Flow for SPAs: Access Token in Memory + Refresh Token in Cookie | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/ac6409e208b5) |
-| Tue, 03 Jun 2025 09:49:16 GMT | The Dark Web’s Role in IoT & OT Cybercrime | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/e75e930ed3b0) |
-| Tue, 03 Jun 2025 09:48:17 GMT | Everything you should now about Mutual TLS | Wiran Larbi | [Read More](https://medium.com/p/b5da83569031) |
-| Tue, 03 Jun 2025 09:47:20 GMT | Day 01: Windows Event IDs Insights Aligned with MITRE ATT&CK | Nesar Uddin | [Read More](https://medium.com/p/bb02adfcf54a) |
-| Tue, 03 Jun 2025 09:44:44 GMT | Cartier Discloses Data Breach Affecting Client Information | Srinivasps | [Read More](https://medium.com/p/5d2b77249f30) |
-| Tue, 03 Jun 2025 09:44:26 GMT | eJPT - 1.4 CTF Vulnerability Assessment | Hammaad M | [Read More](https://medium.com/p/f2b556fef126) |
-| Tue, 03 Jun 2025 09:41:47 GMT | Top 10 Cybersecurity Companies Shaping the Future of Cyber Defense! | Gigabittechnologies | [Read More](https://medium.com/p/67fb26440ca2) |
