@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 03:03:36 GMT | The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
+We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e878e2da70d) |
+| Tue, 03 Jun 2025 03:02:55 GMT | 2. Setting Up the Ultimate Hacker’s Lab (Free Tools Only) | Abhijeet Kumawat | [Read More](https://medium.com/p/35b6d7f7f6bc) |
+| Tue, 03 Jun 2025 03:02:49 GMT | EU Approves Switzerland’s Entry into Cyber Ranges Federations Project | SafetyDetectives Research Team | [Read More](https://medium.com/p/17018d7beb46) |
+| Tue, 03 Jun 2025 03:00:44 GMT | Nova Scotia Power Confirms Ransomware Attack; Stolen Data Published Online | SafetyDetectives Research Team | [Read More](https://medium.com/p/179c49fb14d1) |
+| Tue, 03 Jun 2025 02:58:06 GMT | Understanding TLS Cipher Suites with a Handshake Flow | Swathi Ambujakshan | [Read More](https://medium.com/p/7925f2ca660b) |
+| Tue, 03 Jun 2025 02:49:06 GMT | Quantum Entanglement: The Spooky Phenomenon That Could Transform Technology | QuantumGenie | [Read More](https://medium.com/p/85f582f66dfd) |
+| Tue, 03 Jun 2025 02:42:25 GMT | When Trust Becomes a Threat: Inside the DragonForce Ransomware Attack | TheReviewHive | [Read More](https://medium.com/p/7e9ff46d6675) |
+| Tue, 03 Jun 2025 02:38:34 GMT | Is Your Healthcare Data Secure? How Managed Cloud Services Protect Patient Records | Vandros | [Read More](https://medium.com/p/18408d846d77) |
+| Tue, 03 Jun 2025 02:35:38 GMT | From Gemini API to Local: How to Build Your Own Open-Source Multimodal Assistant | Imran | [Read More](https://medium.com/p/10851ad55f8e) |
+| Tue, 03 Jun 2025 01:50:16 GMT | AI progress: why ‘miniaturization’ of LLM models will lead to a cybersecurity nightmare | Andrea Isoni | [Read More](https://medium.com/p/9d737162de9a) |
 | Tue, 03 Jun 2025 01:38:29 GMT | Container Security: Monitoring Docker Events dan Activity dengan Wazuh | Risky G. Prasetya | [Read More](https://medium.com/p/5adbdac1ff7b) |
 | Tue, 03 Jun 2025 01:28:50 GMT | DVWA Web APP Setup | Norbert Ephraim | [Read More](https://medium.com/p/06c84a0ce71d) |
 | Tue, 03 Jun 2025 01:13:17 GMT | Why I Chose Ethical Hacking (And What I Plan to Do With It) | CyberNinja | [Read More](https://medium.com/p/227648f65053) |
@@ -103,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Jun 2025 17:52:25 GMT | The Mayans Were Off by 5 Years: 2017 Was the Real End of the World | Akshara Siddharthan | [Read More](https://medium.com/p/a06970e64473) |
 | Mon, 02 Jun 2025 17:49:23 GMT | What Lights Your Spark? | Jim Anderson | [Read More](https://medium.com/p/e58b8b7ee3bc) |
 | Mon, 02 Jun 2025 17:35:57 GMT | Siber Güvenliğe Giriş — 4( TCP/IP (Transmission Control Protocol / Internet Protocol) | Emre TOPUZ | [Read More](https://medium.com/p/d922c651f3b2) |
-| Mon, 02 Jun 2025 17:35:05 GMT | Quantum Computers: Can You Protect Your Digital Assets from Them? | Jim Anderson | [Read More](https://medium.com/p/515ed0ef68e2) |
-| Mon, 02 Jun 2025 17:34:05 GMT | Siber Güvenliğe Giriş — 3 ( OSI (OPEN SYSTEMS INTERCONNECTION) REFERANS MODELİ) | Emre TOPUZ | [Read More](https://medium.com/p/bd4a7c9b3b22) |
-| Mon, 02 Jun 2025 17:33:21 GMT | Building a Cybersecurity Lab: Complete Ubuntu Virtualization Guide | David Ramovich Mandal | [Read More](https://medium.com/p/e252ef35ad3d) |
-| Mon, 02 Jun 2025 17:32:41 GMT | Exploiting EternalBlue (MS17–010): Hacking Legacy Windows 7 Systems using Metasploit | Areeba Shahbaz | [Read More](https://medium.com/p/18a86bd5b664) |
-| Mon, 02 Jun 2025 17:31:29 GMT | Crypto under attack: May marks another black month for DeFi security | Maximiliano Lopez | [Read More](https://medium.com/p/4da37a694f0c) |
-| Mon, 02 Jun 2025 17:31:24 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/c76818409b76) |
-| Mon, 02 Jun 2025 17:25:29 GMT | AI in Cybersecurity: Defending Against Evolving Threats | Sachin Kumar | [Read More](https://medium.com/p/ee0d2daaa3cd) |
-| Mon, 02 Jun 2025 17:22:26 GMT | Why AI Audits Might Be Better Than Human Ones | PEPESEC AI | [Read More](https://medium.com/p/2f199413ef93) |
-| Mon, 02 Jun 2025 17:16:53 GMT | BeanStalk_secrets Cloudgoat walkthrough | Abhishek Gupta | [Read More](https://medium.com/p/7b535e34c5fe) |
-| Mon, 02 Jun 2025 17:16:39 GMT | When Trust Breaks Down: The Growing Crisis of Unauthorised Payments and How to Prevent Digital… | Michael Yiin | [Read More](https://medium.com/p/1dd426374b03) |
