@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 15:36:50 GMT | Can a Smart Fridge Be a National Security Threat? (Yes, and It’s Not Even Trying to Be Evil) | Shubham Sudhakar | [Read More](https://medium.com/p/67417c4dde74) |
+| Tue, 03 Jun 2025 15:34:58 GMT | The Help Desk That Never Sleeps: How AI Agents Are Reshaping Cybersecurity Careers | Andrei Ivan | [Read More](https://medium.com/p/1c03de310867) |
+| Tue, 03 Jun 2025 15:34:23 GMT | Ransomware Investigation Using Splunk — BOTSv1 Scenario 2 Walkthrough | Mohamed-Mahmoud | [Read More](https://medium.com/p/23465aa33c71) |
+| Tue, 03 Jun 2025 15:32:24 GMT | GZR Observer Daily — Jun 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/0529b5e64da6) |
+| Tue, 03 Jun 2025 15:30:55 GMT | Cloud Infrastructure Entitlement Management: Strengthening Cloud Security | SafeAeon Inc. | [Read More](https://medium.com/p/98293c641e22) |
+| Tue, 03 Jun 2025 15:26:04 GMT | Penetration Testing: The Ethical Way to Expose Security Flaws Before Hackers Do | Akshay Chauhan | [Read More](https://medium.com/p/25ffd54c428f) |
+| Tue, 03 Jun 2025 15:25:58 GMT | How to Generate a SAN Certificate Using hostname-san.conf | Mahernaija | [Read More](https://medium.com/p/346de1ccb067) |
+| Tue, 03 Jun 2025 15:25:44 GMT | Why Small Businesses Are the New #1 Target for Hackers (And It’s Not Because Hackers Hate Coffee… | Shubham Sudhakar | [Read More](https://medium.com/p/a1a044f1f7ac) |
+| Tue, 03 Jun 2025 15:24:35 GMT | Kenalan Sama Kali Linux: OS Andalan Para Pentester | LunarX | [Read More](https://medium.com/p/794f74520b10) |
+| Tue, 03 Jun 2025 15:21:00 GMT | Mengenal ICS/SCADA dan Ancaman Serangan Siber di Sistem Industri | Nothingless | [Read More](https://medium.com/p/07a2ac4e4c02) |
+| Tue, 03 Jun 2025 15:19:24 GMT | IT Audit Security Company: Safeguarding Your Systems Through Expert Evaluation | SafeAeon Inc. | [Read More](https://medium.com/p/89a48e1c087a) |
 | Tue, 03 Jun 2025 15:03:50 GMT | I Built an MCP Server for XSS Testing — Here’s What Happened | 0xTrk | [Read More](https://medium.com/p/1c097e79eb8d) |
 | Tue, 03 Jun 2025 14:59:29 GMT | 30 Most Used KQl Commands | Saikat Paul | [Read More](https://medium.com/p/426529daead8) |
 | Tue, 03 Jun 2025 14:58:50 GMT | Stop Flying Blind in Salesforce! Master Health Check in 20 Minutes | Mani | [Read More](https://medium.com/p/007da177adb3) |
@@ -102,14 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 10:57:51 GMT | ⚔ Simulating ARP Spoofing & MITM Attacks in a Controlled Lab | Alex Henry | [Read More](https://medium.com/p/e8bb7e521a68) |
 | Tue, 03 Jun 2025 10:51:14 GMT | Top Skills to Acquire in 2025: AI, Cybersecurity, and Cloud Technologies | VERSAtile Reads | [Read More](https://medium.com/p/3dfd5c1b6620) |
 | Tue, 03 Jun 2025 10:49:38 GMT | Understanding Linux Architecture & Inter-Process Communication: A Beginner’s Guide for Aspiring… | Mubashir Rahman | [Read More](https://medium.com/p/d060a0b04111) |
-| Tue, 03 Jun 2025 10:45:13 GMT | Obfuscation of Mobile Apps | Talsec | [Read More](https://medium.com/p/fc3be8d73306) |
-| Tue, 03 Jun 2025 10:41:23 GMT | Should I Ping or Keep Suffering? A Developer’s Dilemma ‍ | Rishabh Gupta | [Read More](https://medium.com/p/d6cbbf706481) |
-| Tue, 03 Jun 2025 10:37:57 GMT | How Cybercriminals Are Weaponizing Misconfigured AI Systems: A Complete Security Guide | Technijian | [Read More](https://medium.com/p/65ac7e3f92eb) |
-| Tue, 03 Jun 2025 10:36:47 GMT | The Website That’s Quietly Shining a Light on the Dark World of Ransomware | cybrNK | [Read More](https://medium.com/p/a9eca622c9b4) |
-| Tue, 03 Jun 2025 10:29:43 GMT | Ten Most Dangerous AI Tools | Replyfromdeveloper | [Read More](https://medium.com/p/f936dfddc56e) |
-| Tue, 03 Jun 2025 10:28:17 GMT | DGACTF — Babel | Paata Metreveli | [Read More](https://medium.com/p/c2471a677f5e) |
-| Tue, 03 Jun 2025 10:26:47 GMT | How Characters Become Code and Code Stays Secure | Akash Anandani | [Read More](https://medium.com/p/307e6593e14e) |
-| Tue, 03 Jun 2025 10:23:15 GMT | Digital Forensics Trends in 2025 | InfosecTrain | [Read More](https://medium.com/p/920cc130b1b9) |
-| Tue, 03 Jun 2025 10:23:11 GMT | DGACTF — Gate | Paata Metreveli | [Read More](https://medium.com/p/369641dd869f) |
-| Tue, 03 Jun 2025 10:23:01 GMT | The Wild Horse Effect: When Cybersecurity Overreacts to Harmless Threats | Dinesh Dino | [Read More](https://medium.com/p/00f813b69b4a) |
-| Tue, 03 Jun 2025 10:22:41 GMT | YouTube analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/8a0e0f53303b) |
