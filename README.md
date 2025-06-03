@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 10:41:23 GMT | Should I Ping or Keep Suffering? A Developer’s Dilemma ‍ | Rishabh Gupta | [Read More](https://medium.com/p/d6cbbf706481) |
+| Tue, 03 Jun 2025 10:37:57 GMT | How Cybercriminals Are Weaponizing Misconfigured AI Systems: A Complete Security Guide | Technijian | [Read More](https://medium.com/p/65ac7e3f92eb) |
+| Tue, 03 Jun 2025 10:36:47 GMT | The Website That’s Quietly Shining a Light on the Dark World of Ransomware | cybrNK | [Read More](https://medium.com/p/a9eca622c9b4) |
+| Tue, 03 Jun 2025 10:29:43 GMT | Ten Most Dangerous AI Tools | Replyfromdeveloper | [Read More](https://medium.com/p/f936dfddc56e) |
+| Tue, 03 Jun 2025 10:28:17 GMT | DGACTF — Babel | Paata Metreveli | [Read More](https://medium.com/p/c2471a677f5e) |
+| Tue, 03 Jun 2025 10:26:47 GMT | How Characters Become Code and Code Stays Secure | Akash Anandani | [Read More](https://medium.com/p/307e6593e14e) |
+| Tue, 03 Jun 2025 10:23:15 GMT | Digital Forensics Trends in 2025 | InfosecTrain | [Read More](https://medium.com/p/920cc130b1b9) |
 | Tue, 03 Jun 2025 10:23:11 GMT | DGACTF — Gate | Paata Metreveli | [Read More](https://medium.com/p/369641dd869f) |
+| Tue, 03 Jun 2025 10:23:01 GMT | The Wild Horse Effect: When Cybersecurity Overreacts to Harmless Threats | Dinesh Dino | [Read More](https://medium.com/p/00f813b69b4a) |
+| Tue, 03 Jun 2025 10:22:41 GMT | YouTube analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/8a0e0f53303b) |
+| Tue, 03 Jun 2025 10:20:36 GMT | How .NET Empowers Cybersecurity in Today’s Digital Age | Adem KORKMAZ | [Read More](https://medium.com/p/c4a26db0912c) |
+| Tue, 03 Jun 2025 10:20:05 GMT | The Silent Journey: A Cautionary Tale in Cyber Risk | Dean | [Read More](https://medium.com/p/e162310b0c0c) |
 | Tue, 03 Jun 2025 10:12:48 GMT | Bug Bounty Google Dorks 2025 | LogicTech | [Read More](https://medium.com/p/1b9a9ba00dd6) |
+| Tue, 03 Jun 2025 10:11:18 GMT | What Nobody Tells You About Compliance Automation Tools | SecureSlate | [Read More](https://medium.com/p/7ddbd2be3797) |
 | Tue, 03 Jun 2025 10:04:36 GMT | Even Cartier Isn’t Immune to Cyber Threats | MohitV | [Read More](https://medium.com/p/fc854ca431b6) |
 | Tue, 03 Jun 2025 10:02:16 GMT | Understanding the Hardware and Firmware Cybersecurity Landscape | Rob Phillips | [Read More](https://medium.com/p/5e9e5e404d2b) |
 | Tue, 03 Jun 2025 09:58:37 GMT | Cartier Confirms Customer Data Breach | Saravanan R | [Read More](https://medium.com/p/cc080c44e7bd) |
@@ -102,15 +114,3 @@ Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com
 | Tue, 03 Jun 2025 06:00:48 GMT | Mitigation Techniques Every Business Must Use to Prevent Cyber Threats | unica 02 | [Read More](https://medium.com/p/1c41c5840b95) |
 | Tue, 03 Jun 2025 06:00:39 GMT | Today’s Top Cyber Intelligence Highlights — Jun 03, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/7631b471926b) |
 | Tue, 03 Jun 2025 06:00:20 GMT | Remote File Inclusion (RFI) Lab — Docker Custom Setup and Exploitation | Shahin Raza | [Read More](https://medium.com/p/44a4e12628fa) |
-| Tue, 03 Jun 2025 05:58:45 GMT | Are VPNs even safe? | Udit | [Read More](https://medium.com/p/a58d70a8686f) |
-| Tue, 03 Jun 2025 05:55:46 GMT | Understanding Cybersecurity Roles, SOCs, and Security Controls — A Complete Guide for Aspiring… | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/8f02abf7fe3e) |
-| Tue, 03 Jun 2025 05:54:51 GMT | ✅ I Passed the CompTIA CySA+ (CS0–003)! Here’s How I Did It — Revision Notes & Mind Maps Inside | SecWithShobhit⚡ | [Read More](https://medium.com/p/3b7e91ed6223) |
-| Tue, 03 Jun 2025 05:54:08 GMT | What is Social Engineering: A Comprehensive Overview | Halildeniz | [Read More](https://medium.com/p/b61aeed2e29d) |
-| Tue, 03 Jun 2025 05:52:12 GMT | OWASP Mobile Top 10 2025: Understanding Key Vulnerabilities & Enhancing Mobile App Security | Securis360 Inc. | [Read More](https://medium.com/p/fb9193c0061e) |
-| Tue, 03 Jun 2025 05:49:25 GMT | Healthcare Data Center Security: Protecting Patient Information in Qatar | Tekhabeeb | [Read More](https://medium.com/p/b2399ccecf9f) |
-| Tue, 03 Jun 2025 05:47:22 GMT | Baggage X-Ray Scanner for Hostels: Improving Safety and Peace of Mind | Pentagonengineers | [Read More](https://medium.com/p/f999b403646b) |
-| Tue, 03 Jun 2025 05:40:22 GMT | Benefits of Outsourcing Cyber Security Management Services | Khatore IT Solutions | [Read More](https://medium.com/p/9d0bb9a6488e) |
-| Tue, 03 Jun 2025 05:24:49 GMT | 404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths” | Monika sharma | [Read More](https://medium.com/p/f5723b3ad3f8) |
-| Tue, 03 Jun 2025 05:24:45 GMT | Airport Baggage X-Ray Machine Insights: Security Through Scanning | Pentagonengineers | [Read More](https://medium.com/p/97671e65f2b4) |
-| Tue, 03 Jun 2025 05:23:45 GMT | How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF (CVE-2025–4123) | coffinxp | [Read More](https://medium.com/p/b35245dccaab) |
-| Tue, 03 Jun 2025 05:19:58 GMT | Why Clavi Isn’t Competing with Ledger: A Tale of Two Worlds | 0NE - C L A V I | [Read More](https://medium.com/p/2c5fcd57e809) |
