@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 09:13:33 GMT | Top 5 Cybersecurity Skills in Demand in 2025 | Red9SysTech | [Read More](https://medium.com/p/9b02e210555e) |
+| Tue, 03 Jun 2025 09:13:00 GMT | Abusing GraphQL Introspection: A Gateway for Recon and Exploitation | Shah kaif | [Read More](https://medium.com/p/ab5440ee6ade) |
+| Tue, 03 Jun 2025 09:11:02 GMT | 7 Key Benefits of GRC In 2025 | Harry West | [Read More](https://medium.com/p/262b69257bc0) |
+| Tue, 03 Jun 2025 09:06:51 GMT | OneDrive File Picker Vulnerability Exposes Users to Potential Data Theft — CVE-2024–29990 | Infoziant | [Read More](https://medium.com/p/addc672392fc) |
+| Tue, 03 Jun 2025 09:06:46 GMT | How do cybersecurity services protect small businesses? | Ziya Zoe | [Read More](https://medium.com/p/6c20af8d2270) |
+| Tue, 03 Jun 2025 09:06:22 GMT | 12 types of cyber crime | Chandanjana | [Read More](https://medium.com/p/ce9dd8d4a071) |
+| Tue, 03 Jun 2025 09:03:20 GMT | INE — eJPT: Host & Network Penetration Testing: Exploitation CTF 1 | Babatunde Ojo | [Read More](https://medium.com/p/aed96dde4f7b) |
+| Tue, 03 Jun 2025 08:57:50 GMT | Market Benefits of ISO 27001 Security Certification | Biz Serve IT | [Read More](https://medium.com/p/5cb23fa5b563) |
+| Tue, 03 Jun 2025 08:51:04 GMT | 30 Days of Cyber Security — Day 8: Instalasi Kali Linux di VMware | Indra Rahmat Maulidi | [Read More](https://medium.com/p/81010549c8a9) |
+| Tue, 03 Jun 2025 08:50:18 GMT | Strong, Stoic, and Suffering: How Patriarchy Makes Men Its Quietest Victims | Sabrina | [Read More](https://medium.com/p/e1a20635403b) |
+| Tue, 03 Jun 2025 08:49:06 GMT | SWIFT Customer Security Program — What Do You Need to Know | Biz Serve IT | [Read More](https://medium.com/p/4de6d2587ff7) |
+| Tue, 03 Jun 2025 08:47:33 GMT | From Discovery to Exploit: A Beginner’s Guide to CORS Bugs | @umesh | [Read More](https://medium.com/p/a3cf2bde6c5d) |
+| Tue, 03 Jun 2025 08:47:15 GMT | API Bug Bounty Hunting: Step-by-Step Guide | Narendar Battula (nArEn) | [Read More](https://medium.com/p/0c7e60f4a21d) |
+| Tue, 03 Jun 2025 08:47:01 GMT | ITIO Innovex Pvt Ltd: Your Partner in Cybersecurity and Risk Management | Komalitio | [Read More](https://medium.com/p/b947e85a2050) |
+| Tue, 03 Jun 2025 08:40:49 GMT | How Cybersecurity Works: Protecting Yourself in the Digital Age | Ava Rose | [Read More](https://medium.com/p/96e61f319efc) |
+| Tue, 03 Jun 2025 08:30:08 GMT | Essential Linux Commands for Cybersecurity Specialists: Technical Deep-Dive | Okan Yıldız | [Read More](https://medium.com/p/c5ef74102c60) |
+| Tue, 03 Jun 2025 08:28:53 GMT | Coin base 400M$ hack (biggest after Bybit) | Etongwe Dimitry | [Read More](https://medium.com/p/2e54dec8e5bb) |
 | Tue, 03 Jun 2025 08:20:34 GMT | SSRF: When Your Server Becomes a Nosy Hacker — Part 1 | Het Patel | [Read More](https://medium.com/p/f808b9513652) |
 | Tue, 03 Jun 2025 08:20:18 GMT | Attacks Leveraging 5G and IoT Devices
 The proliferation of 5G-enabled IoT devices has opened new… | Defeu James | [Read More](https://medium.com/p/b2f76ee5d29c) |
@@ -97,21 +114,3 @@ Ransomware groups are adopting… | Defeu James | [Read More](https://medium.com
 | Tue, 03 Jun 2025 03:42:36 GMT | Agent Sudo— TryHackMe — CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/563c1f96aaf6) |
 | Tue, 03 Jun 2025 03:32:31 GMT | Inside the Samsung Germany Data Breach: 270,000 Customers Exposed | Deven Chhajed | [Read More](https://medium.com/p/663824efd61e) |
 | Tue, 03 Jun 2025 03:24:04 GMT | Silent Deactivation: How the Public Internet Lost Its Space for Thinking | Dávid Vass | [Read More](https://medium.com/p/cd88b65c7321) |
-| Tue, 03 Jun 2025 03:22:55 GMT | Why Your Car Is More Vulnerable Than You Think | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/1506377d4e08) |
-| Tue, 03 Jun 2025 03:09:33 GMT | The Smartest People in Web3 Are Already AML-Verified. Are You One of Them? | Stephen Macurdy | [Read More](https://medium.com/p/bbc9db45c5cf) |
-| Tue, 03 Jun 2025 03:06:02 GMT | China Cracks Down on Online Extortion Ring Targeting Businesses | SafetyDetectives Research Team | [Read More](https://medium.com/p/6e1c575bfbb4) |
-| Tue, 03 Jun 2025 03:03:36 GMT | The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
-We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e878e2da70d) |
-| Tue, 03 Jun 2025 03:02:55 GMT | 2. Setting Up the Ultimate Hacker’s Lab (Free Tools Only) | Abhijeet Kumawat | [Read More](https://medium.com/p/35b6d7f7f6bc) |
-| Tue, 03 Jun 2025 03:02:49 GMT | EU Approves Switzerland’s Entry into Cyber Ranges Federations Project | SafetyDetectives Research Team | [Read More](https://medium.com/p/17018d7beb46) |
-| Tue, 03 Jun 2025 03:00:44 GMT | Nova Scotia Power Confirms Ransomware Attack; Stolen Data Published Online | SafetyDetectives Research Team | [Read More](https://medium.com/p/179c49fb14d1) |
-| Tue, 03 Jun 2025 02:58:06 GMT | Understanding TLS Cipher Suites with a Handshake Flow | Swathi Ambujakshan | [Read More](https://medium.com/p/7925f2ca660b) |
-| Tue, 03 Jun 2025 02:49:06 GMT | Quantum Entanglement: The Spooky Phenomenon That Could Transform Technology | QuantumGenie | [Read More](https://medium.com/p/85f582f66dfd) |
-| Tue, 03 Jun 2025 02:42:25 GMT | When Trust Becomes a Threat: Inside the DragonForce Ransomware Attack | TheReviewHive | [Read More](https://medium.com/p/7e9ff46d6675) |
-| Tue, 03 Jun 2025 02:38:34 GMT | Is Your Healthcare Data Secure? How Managed Cloud Services Protect Patient Records | Vandros | [Read More](https://medium.com/p/18408d846d77) |
-| Tue, 03 Jun 2025 02:35:38 GMT | From Gemini API to Local: How to Build Your Own Open-Source Multimodal Assistant | Imran | [Read More](https://medium.com/p/10851ad55f8e) |
-| Tue, 03 Jun 2025 01:50:16 GMT | AI progress: why ‘miniaturization’ of LLM models will lead to a cybersecurity nightmare | Andrea Isoni | [Read More](https://medium.com/p/9d737162de9a) |
-| Tue, 03 Jun 2025 01:38:29 GMT | Container Security: Monitoring Docker Events dan Activity dengan Wazuh | Risky G. Prasetya | [Read More](https://medium.com/p/5adbdac1ff7b) |
-| Tue, 03 Jun 2025 01:28:50 GMT | DVWA Web APP Setup | Norbert Ephraim | [Read More](https://medium.com/p/06c84a0ce71d) |
-| Tue, 03 Jun 2025 01:13:17 GMT | Why I Chose Ethical Hacking (And What I Plan to Do With It) | CyberNinja | [Read More](https://medium.com/p/227648f65053) |
-| Tue, 03 Jun 2025 01:12:34 GMT | The Spread of “New-Style Unfilial Piety”: Many Parents Are Clueless and Still Show Off Their… | Lilyana | [Read More](https://medium.com/p/885ed75b9e4e) |
