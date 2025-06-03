@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 18:24:06 GMT | The Ultimate Guide to Local File Inclusion (LFI)  — From Basics to Real-World Exploits &… | Zoningxtr | [Read More](https://medium.com/p/cc8d0f6d922b) |
+| Tue, 03 Jun 2025 18:21:35 GMT | Network Security Protocols | Pavandeep Kaur | [Read More](https://medium.com/p/d7577618248b) |
+| Tue, 03 Jun 2025 18:09:36 GMT | Top 7 Tools for AI-Powered Threat Intelligence in Cybersecurity (with Real Deployment Stories) | Andrei Ivan | [Read More](https://medium.com/p/b5beefeb5aaf) |
+| Tue, 03 Jun 2025 18:02:22 GMT | The Hidden National Security Threat in IT Asset Disposition | Kyle Marks | [Read More](https://medium.com/p/592504e7e949) |
+| Tue, 03 Jun 2025 17:51:29 GMT | TryHackMe - AD: BadSuccessor - WriteUp | Axoloth | [Read More](https://medium.com/p/2dc83b271d80) |
+| Tue, 03 Jun 2025 17:45:39 GMT | Setting Up Evilginx in a Docker Container on Kali Linux: A Step-by-Step Guide | David Ramovich Mandal | [Read More](https://medium.com/p/b9076213ad88) |
+| Tue, 03 Jun 2025 17:44:54 GMT | Crypto Asset Manager Grayscale Eyes the Quantum Frontier with Proposed Quantum Computing ETF | QuantumGenie | [Read More](https://medium.com/p/1d6fee01c26a) |
+| Tue, 03 Jun 2025 17:41:18 GMT | CVE Program Report for Quarter 1 Calendar Year (Q1 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/0e84776ee5c5) |
+| Tue, 03 Jun 2025 17:38:16 GMT | 13 Exceptional Reasons Enterprises Trust SAP on Azure | Techridge Solutions | [Read More](https://medium.com/p/51ee236b6b08) |
+| Tue, 03 Jun 2025 17:36:10 GMT | How to Maximize Earnings with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/59d873c5dbdc) |
 | Tue, 03 Jun 2025 17:32:57 GMT | Malware Development: Reverse Shell Disguised as a PDF | ASTRA Labs | [Read More](https://medium.com/p/985a5150597e) |
+| Tue, 03 Jun 2025 17:32:04 GMT | ESP D2 | Dev | [Read More](https://medium.com/p/b907a5e3e959) |
 | Tue, 03 Jun 2025 17:31:50 GMT | The North Face Data Breach: April 2025 Credential Stuffing Attack Exposes Customer Data | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/74293b1c7686) |
 | Tue, 03 Jun 2025 17:29:57 GMT | How Hackers Help NASA Stay Secure: Inside the NASA VDP | 127.0.0.1 | [Read More](https://medium.com/p/07ec255c46f3) |
 | Tue, 03 Jun 2025 17:24:56 GMT | Security Essentials for Startups on AWS (Without Overengineering) | Svetlozar Kondakov | [Read More](https://medium.com/p/82e49377c9df) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 12:26:39 GMT | 20+ examples of a strong password pdf
 https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo | [Read More](https://medium.com/p/95b389f9fc63) |
 | Tue, 03 Jun 2025 12:25:19 GMT | Productivity Culture Is Just Procrastination in a Suit | Mixella Igiraneza | [Read More](https://medium.com/p/2eeaa9694f7f) |
-| Tue, 03 Jun 2025 12:22:31 GMT | Some Thoughts Don’t Need Answers | Mixella Igiraneza | [Read More](https://medium.com/p/e76d7b0bb195) |
-| Tue, 03 Jun 2025 12:22:06 GMT | The Emotional Intelligence In Policing: A Key To Effective Law Enforcement | Justine Jacob | [Read More](https://medium.com/p/f0f74a1bc4a8) |
-| Tue, 03 Jun 2025 12:19:37 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/8726c3a92d6a) |
-| Tue, 03 Jun 2025 12:18:27 GMT | Why Cybersecurity Services Are Non-Negotiable in Today’s Digital World | Singsys Pte. Ltd. | [Read More](https://medium.com/p/ca310abf0834) |
-| Tue, 03 Jun 2025 12:14:35 GMT | COMMENT FAIRE BRILLER SON Etoile, ENERGIE?. TELEPHONE WHATSAPP : 00229 911 94710 | Wossoudogbolimedium | [Read More](https://medium.com/p/94fa76e1767b) |
-| Tue, 03 Jun 2025 12:12:22 GMT | Why I Chose to Learn Both Software Development & Ethical Hacking — and Why You Might Too! | The Curious Engineer | [Read More](https://medium.com/p/420b29302e5b) |
-| Tue, 03 Jun 2025 12:11:44 GMT | How Governments Are Responding to the Post-Quantum Era | Technologic Innovation | [Read More](https://medium.com/p/4b62b0d6e31a) |
-| Tue, 03 Jun 2025 12:10:37 GMT | Enhancing Data Security Through IT Outsourcing: A Comprehensive Guide to Cybersecurity | TabTree IT Consulting Company | [Read More](https://medium.com/p/745ef6fb8de5) |
-| Tue, 03 Jun 2025 12:10:05 GMT | How Hackers Use Google to Hack You — “Google Dorking” Explained | Sandesh Kumar | [Read More](https://medium.com/p/69eafd1791aa) |
-| Tue, 03 Jun 2025 12:06:17 GMT | How Hackers Use Public Wi-Fi to Steal Your Data — And How to Stay Safe | Sandesh Kumar | [Read More](https://medium.com/p/bc11c4ff02af) |
-| Tue, 03 Jun 2025 12:06:07 GMT | picoCTFchallenges on: A Beginners Guide. | Harrison Esther | [Read More](https://medium.com/p/8714346ee6be) |
