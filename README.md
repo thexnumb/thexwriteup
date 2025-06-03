@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 14:18:37 GMT | Why Ransomware is a Growing Threat in the UK | Forefront Technology International Inc. | [Read More](https://medium.com/p/171798524756) |
+| Tue, 03 Jun 2025 14:07:08 GMT | IDOR allows unauthorized payment hijacking | JEETPAL | [Read More](https://medium.com/p/3abf642c0cca) |
+| Tue, 03 Jun 2025 14:02:37 GMT | Loneliness is the New Smoking — And We’re All Hooked | Alayna Asher | [Read More](https://medium.com/p/b76c2b6299c7) |
+| Tue, 03 Jun 2025 14:01:43 GMT | IMMERSIVE | Ahmedhezema | [Read More](https://medium.com/p/da368ed5a693) |
+| Tue, 03 Jun 2025 14:01:37 GMT | The Smart Way to Choose Business Internet and Protect Your Network in 2025 | Defend My Business | [Read More](https://medium.com/p/df8b213e97f6) |
+| Tue, 03 Jun 2025 14:01:34 GMT | Linux Kerasukan? Eits, Bukan! Ini Cara Hardening Biar Server Aman Sentosa! | Febrian | [Read More](https://medium.com/p/13e02b23f70e) |
+| Tue, 03 Jun 2025 14:01:12 GMT | Cyber Briefing: 2025.06.03 | CyberMaterial | [Read More](https://medium.com/p/fd4533bb0287) |
+| Tue, 03 Jun 2025 13:59:36 GMT | The Life Hacker: Finding Smart Shortcuts to Financial Success and Overcoming Complacency | Alessandrastic No Bs | [Read More](https://medium.com/p/cf893615a63d) |
+| Tue, 03 Jun 2025 13:51:34 GMT | Brute-Force Attacks with Hydra and Password Strength Testing | Esra Kayhan | [Read More](https://medium.com/p/b996464d63ae) |
+| Tue, 03 Jun 2025 13:48:05 GMT | Monitoring Bash readline with eBPF CO-RE & LLM Assistance | Alex Elbaum | [Read More](https://medium.com/p/536ab57c9b22) |
+| Tue, 03 Jun 2025 13:40:54 GMT | Azure Sentinel vs Splunk ES Comparison | Saikat Paul | [Read More](https://medium.com/p/05a9406d40cf) |
+| Tue, 03 Jun 2025 13:37:23 GMT | Security in Crypto: 3 KPIs Every Trader Must Know | Nova Blockchain Lab | [Read More](https://medium.com/p/84515fe790f4) |
+| Tue, 03 Jun 2025 13:34:04 GMT | Alessandrastic No BS: How Self-Development Can Transform Your Life - Straight Talk!" | Alessandrastic No Bs | [Read More](https://medium.com/p/78ac0e821caf) |
+| Tue, 03 Jun 2025 13:33:52 GMT | Gmail hacking in 2025: MFA can’t stop increasingly effective attacks | 0trust0day | [Read More](https://medium.com/p/6878f6975ff8) |
 | Tue, 03 Jun 2025 13:19:01 GMT | Incident Response in AWS: Scoping strategies | Markohalloran | [Read More](https://medium.com/p/b90a1e2b2961) |
 | Tue, 03 Jun 2025 13:18:35 GMT | NOPS CTF — XSS lab | UnStoppable | [Read More](https://medium.com/p/6d2cc26a8561) |
 | Tue, 03 Jun 2025 13:16:34 GMT | How to Install and Use Hopper Disassembler on Linux: Your Reverse Engineering Toolkit | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/ad46df223f06) |
@@ -55,6 +69,7 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 11:34:35 GMT | Top Career Options After BCA in 2025 | izee institutions | [Read More](https://medium.com/p/66006333e666) |
 | Tue, 03 Jun 2025 11:32:41 GMT | Is Your Antivirus Enough? Why Businesses Are Upgrading to Managed EDR | Sunder Singh | [Read More](https://medium.com/p/6de70bf033b8) |
 | Tue, 03 Jun 2025 11:32:29 GMT | Wrapping Up Domain 1: General Security Concepts — Your Security+ SY0-701 Review & Quiz | Jason Junior Boderebe | [Read More](https://medium.com/p/a8d264f6c91b) |
+| Tue, 03 Jun 2025 11:23:35 GMT | Ancaman Siber pada ICS/SCADA: Identifikasi dan Perlindungan | Febrian | [Read More](https://medium.com/p/86a8568a79ac) |
 | Tue, 03 Jun 2025 11:21:08 GMT | This Seemed Like a Tata Service Message — My Cybersecurity Instincts Knew Better | Leroyanand | [Read More](https://medium.com/p/7c8abad6224e) |
 | Tue, 03 Jun 2025 11:18:58 GMT | Is GMX V2 Safe to Use? A Deep Dive Into GMX V2’s Security and Privacy Measures (2025 Update) | Ootk | [Read More](https://medium.com/p/a4519cf833ad) |
 | Tue, 03 Jun 2025 11:16:45 GMT | Overpass 2 — Hacked TryHackMe Writeup: A Deep Dive into Web Exploitation | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/763a509fe546) |
@@ -98,18 +113,3 @@ https://randompasswordgenerator.uk/20-examples-of-strong-passw | Tahashaikhseo |
 | Tue, 03 Jun 2025 09:44:44 GMT | Cartier Discloses Data Breach Affecting Client Information | Srinivasps | [Read More](https://medium.com/p/5d2b77249f30) |
 | Tue, 03 Jun 2025 09:44:26 GMT | eJPT - 1.4 CTF Vulnerability Assessment | Hammaad M | [Read More](https://medium.com/p/f2b556fef126) |
 | Tue, 03 Jun 2025 09:41:47 GMT | Top 10 Cybersecurity Companies Shaping the Future of Cyber Defense! | Gigabittechnologies | [Read More](https://medium.com/p/67fb26440ca2) |
-| Tue, 03 Jun 2025 09:40:18 GMT | NJRat: Anti-Analysis and Persistence Behavior | Emiliano | [Read More](https://medium.com/p/792d804977ce) |
-| Tue, 03 Jun 2025 09:40:18 GMT | Building an Effective SRE & Security Engineering Team | Rajat Gupta | [Read More](https://medium.com/p/ec3851e66d8b) |
-| Tue, 03 Jun 2025 09:36:29 GMT | The Expanding Cloud Attack Surface: Top Threats and How to Secure Your Business | Aashishchaudhari | [Read More](https://medium.com/p/4ca629684cf7) |
-| Tue, 03 Jun 2025 09:32:29 GMT | How to Temporarily Change Your MAC Address in Linux | Kuldeepkumawat | [Read More](https://medium.com/p/d2086b89ecae) |
-| Tue, 03 Jun 2025 09:31:09 GMT | What is VNC? The Backbone of Remote Access Technology | HostNOC | [Read More](https://medium.com/p/e09f5ce26efd) |
-| Tue, 03 Jun 2025 09:13:33 GMT | Top 5 Cybersecurity Skills in Demand in 2025 | Red9SysTech | [Read More](https://medium.com/p/9b02e210555e) |
-| Tue, 03 Jun 2025 09:13:00 GMT | Abusing GraphQL Introspection: A Gateway for Recon and Exploitation | Shah kaif | [Read More](https://medium.com/p/ab5440ee6ade) |
-| Tue, 03 Jun 2025 09:11:53 GMT | Comprehensive Pest Control Services in Chennai: Safeguarding Your Home and Health | environ pest control services | [Read More](https://medium.com/p/f4e97a437418) |
-| Tue, 03 Jun 2025 09:11:02 GMT | 7 Key Benefits of GRC In 2025 | Harry West | [Read More](https://medium.com/p/262b69257bc0) |
-| Tue, 03 Jun 2025 09:06:51 GMT | OneDrive File Picker Vulnerability Exposes Users to Potential Data Theft — CVE-2024–29990 | Infoziant | [Read More](https://medium.com/p/addc672392fc) |
-| Tue, 03 Jun 2025 09:06:46 GMT | How do cybersecurity services protect small businesses? | Ziya Zoe | [Read More](https://medium.com/p/6c20af8d2270) |
-| Tue, 03 Jun 2025 09:06:22 GMT | 12 types of cyber crime | Chandanjana | [Read More](https://medium.com/p/ce9dd8d4a071) |
-| Tue, 03 Jun 2025 09:03:20 GMT | INE — eJPT: Host & Network Penetration Testing: Exploitation CTF 1 | Babatunde Ojo | [Read More](https://medium.com/p/aed96dde4f7b) |
-| Tue, 03 Jun 2025 08:57:50 GMT | Market Benefits of ISO 27001 Security Certification | Biz Serve IT | [Read More](https://medium.com/p/5cb23fa5b563) |
-| Tue, 03 Jun 2025 08:51:04 GMT | 30 Days of Cyber Security — Day 8: Instalasi Kali Linux di VMware | Indra Rahmat Maulidi | [Read More](https://medium.com/p/81010549c8a9) |
