@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Jun 2025 07:32:28 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/5813c95e927e) |
+| Tue, 03 Jun 2025 07:32:28 GMT | Top File Read Bug POCs that made $20000 | It4chis3c | [Read More](https://medium.com/p/3043e676d8d5) |
+| Tue, 03 Jun 2025 07:26:22 GMT | JWT the Hell?! How Weak Tokens Let Me Become Admin with Just a Text Editor ️ | Iski | [Read More](https://medium.com/p/e73bcd66af0d) |
+| Tue, 03 Jun 2025 07:25:03 GMT | AI x Cybersecurity: Deepfakes, AI-Generated Malware, and How We Fight Back | Iftikhar Ahmed | [Read More](https://medium.com/p/cd988d76dd07) |
+| Tue, 03 Jun 2025 07:21:34 GMT | Secure Your Webhooks in Laravel: Preventing Data Spoofing | Sandeeppant | [Read More](https://medium.com/p/6f6d0bd03866) |
+| Tue, 03 Jun 2025 07:21:34 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/0f5dfabc7d48) |
+| Tue, 03 Jun 2025 07:21:34 GMT | CyberTalents Challenge | Uchendu Favour | [Read More](https://medium.com/p/d9a27f84b7d6) |
 | Tue, 03 Jun 2025 07:19:05 GMT | Detecting Malicious C2 Server Traffic via Google Calendar Phishing Attack Using Wazuh & Suricata | Justin Duru | [Read More](https://medium.com/p/a6e58759aa87) |
 | Tue, 03 Jun 2025 07:10:57 GMT | Microsoft, Google, and CrowdStrike Team Up to Clean Up Hacker Naming Chaos “Forest Blizzard, Fancy… | Navigtech | [Read More](https://medium.com/p/aee11226457d) |
 | Tue, 03 Jun 2025 07:03:41 GMT | From Static Roles to Wildcard-Powered RBAC: Evolving Authorization in a Multi-Tenant Spring… | SW-Muriu | [Read More](https://medium.com/p/3322954bc19b) |
@@ -106,10 +113,3 @@ We’ve all seen those… | Pushkar Padhye | [Read More](https://medium.com/p/6e
 | Mon, 02 Jun 2025 23:04:36 GMT | All: It Takes | Good Day, Adam | [Read More](https://medium.com/p/bdd35b0481e8) |
 | Mon, 02 Jun 2025 22:52:17 GMT | Cryptography Simplified | Adam Jikat | [Read More](https://medium.com/p/828b605580c3) |
 | Mon, 02 Jun 2025 22:40:46 GMT | What’s Actually Happening Behind Passkeys? | perd1x | [Read More](https://medium.com/p/d9e8acac59ca) |
-| Mon, 02 Jun 2025 22:18:52 GMT | Enough with the Hacks, Strategies, and Hustle: I’m Over It | Min Min Khine | [Read More](https://medium.com/p/3489421a9e3e) |
-| Mon, 02 Jun 2025 22:16:53 GMT | CI/CD Pipeline Insecurities: Real-World Risks in Modern DevOps | Karthikeyan Nagaraj | [Read More](https://medium.com/p/adb6f9eb3ca2) |
-| Mon, 02 Jun 2025 22:10:44 GMT | Shocker: A Penetration Testing Walkthrough | Amanuel | [Read More](https://medium.com/p/e055a313ff79) |
-| Mon, 02 Jun 2025 22:05:13 GMT | AI’s Dual Role in Cybersecurity | Pawan K. Pradhan | [Read More](https://medium.com/p/7e04fc816047) |
-| Mon, 02 Jun 2025 22:02:24 GMT | Strengthening App Security in CodePathX with OWASP Best Practices… | Agnesa Baliu | [Read More](https://medium.com/p/931fa708ff21) |
-| Mon, 02 Jun 2025 21:54:58 GMT | Sometimes an informative report can also get you $$ in Bug Bounty. | Charles Rostain | [Read More](https://medium.com/p/6aa2cda9ec7b) |
-| Mon, 02 Jun 2025 21:53:15 GMT | Post-Quantum Encryption: What Businesses Must Do in 2025 | Technologic Innovation | [Read More](https://medium.com/p/ff4230270e02) |
