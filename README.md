@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 20:04:50 GMT | Cybersecurity by the Golden Mean: Aristotle’s Wisdom for Modern Security Design | Entropy of the Observer | [Read More](https://medium.com/p/51f4946df2f0) |
+| Wed, 04 Jun 2025 20:01:49 GMT | Here’s How I Recover My Money From Maunto? | Haven | [Read More](https://medium.com/p/3742f738e2a7) |
+| Wed, 04 Jun 2025 19:59:54 GMT | ESP32 D3 | Dev | [Read More](https://medium.com/p/ea69b6c6cf90) |
+| Wed, 04 Jun 2025 19:58:29 GMT | How AI is making me rethink security automation, batch jobs, and my blog | Teri Radichel | [Read More](https://medium.com/p/aa604216d5e5) |
+| Wed, 04 Jun 2025 19:52:58 GMT | Cyberus and Al-Adid Business to Launch Cyber Hub in Qatar | NEW ECONOMY OBSERVER | [Read More](https://medium.com/p/74327d0f519d) |
+| Wed, 04 Jun 2025 19:52:45 GMT | How to start analyzing a pcap file? | Jonathan M. | [Read More](https://medium.com/p/b523b9ccf93e) |
+| Wed, 04 Jun 2025 19:48:30 GMT | Hikvision in Kerala: Navigating the Intersection of Surveillance, Security, and Sovereignty | Prince Philip | [Read More](https://medium.com/p/474d58c3d310) |
+| Wed, 04 Jun 2025 19:48:17 GMT | Crocodilus Malware: The Global Android Threat Redefining Mobile Cybercrime | Avnishyam | [Read More](https://medium.com/p/69d9d8018898) |
+| Wed, 04 Jun 2025 19:33:25 GMT | Cybersecurity for Newbies | Ariark | [Read More](https://medium.com/p/2edc7578f1d2) |
 | Wed, 04 Jun 2025 19:25:41 GMT | Can I Be Vulnerable? | Suomii - Intuitive Artist | [Read More](https://medium.com/p/780a59997b10) |
+| Wed, 04 Jun 2025 19:25:26 GMT | How One of Crypto’s Biggest Hacks Triggered a Total Security Glow-Up | CoinGen | [Read More](https://medium.com/p/a3fba32b302c) |
 | Wed, 04 Jun 2025 19:20:41 GMT | Voice Phishing and Data Extortion in the Salesforce Cloud | Chetan Seripally | [Read More](https://medium.com/p/829c58f7703d) |
 | Wed, 04 Jun 2025 19:19:39 GMT | Crypto Hackers Just Flipped the Script: $2.1B Stolen in 2025 | CoinGen | [Read More](https://medium.com/p/bfd470217a2e) |
 | Wed, 04 Jun 2025 19:15:44 GMT | Using KQL to Uncover a Phishing Attack in KC7’s ‘A Rap Beef’ | The Decryptionist (AMS) | [Read More](https://medium.com/p/2d4c9d5250be) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 14:26:18 GMT | THM - Flag Vault 2 | Francesco Pastore | [Read More](https://medium.com/p/322c8403d570) |
 | Wed, 04 Jun 2025 14:25:17 GMT | Weaponizing XSS for Maximum Impact | ryuku_dz | [Read More](https://medium.com/p/0aa84b17ad60) |
 | Wed, 04 Jun 2025 14:24:57 GMT | Is Cybersecurity taken seriously enough ? | Okba Abdelmoumene | [Read More](https://medium.com/p/b1226d0a6894) |
-| Wed, 04 Jun 2025 14:23:15 GMT | Day 18: Sticking My Head in the Cloud ☁️ | Brittney Ginther | [Read More](https://medium.com/p/75ce63f11c6c) |
-| Wed, 04 Jun 2025 14:19:27 GMT | Agent sudo writeup (THM) | Kostas Ereksonas | [Read More](https://medium.com/p/a1e9bb56183a) |
-| Wed, 04 Jun 2025 14:19:18 GMT | Hacking AI — Neural Network layer injection | Tomasz Stachera | [Read More](https://medium.com/p/bdb4c9491536) |
-| Wed, 04 Jun 2025 14:17:05 GMT | Fortifying trust: The strategy that paid off | Sylvester Marquant | [Read More](https://medium.com/p/5c85e941485d) |
-| Wed, 04 Jun 2025 14:13:10 GMT | Being Bare | Tobechukwu Rita | [Read More](https://medium.com/p/bbfd81bbf008) |
-| Wed, 04 Jun 2025 14:07:46 GMT | Risk Mitigation in Artificial Intelligence using Protocols | Etibar Aliyev | [Read More](https://medium.com/p/fbc178654785) |
-| Wed, 04 Jun 2025 14:02:28 GMT | ️ Manual Analysis of Web Application Vulnerabilities Using Burp Suite | Esra Kayhan | [Read More](https://medium.com/p/c1e9838c0f13) |
-| Wed, 04 Jun 2025 13:58:14 GMT | Cyber Briefing: 2025.06.04 | CyberMaterial | [Read More](https://medium.com/p/8a5edf33a8aa) |
-| Wed, 04 Jun 2025 13:55:14 GMT | Lab 24 — Using ARP command for network reconnaissance | Hassen Hannachi | [Read More](https://medium.com/p/d85086712c60) |
-| Wed, 04 Jun 2025 13:54:13 GMT | Why Healthcare Is Now a Top Target for Ransomware Groups | Cybersecurity Umbrella | [Read More](https://medium.com/p/a0f3df3146a1) |
