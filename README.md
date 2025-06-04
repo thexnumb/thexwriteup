@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 05:30:05 GMT | Wand, Wisdom, and Whitelists: CISSP Asset Security in the Wizarding World! | CyberGRC Simplified | [Read More](https://medium.com/p/c76815b7a3c5) |
+| Wed, 04 Jun 2025 05:23:14 GMT | Powering Digital Transformation with Microsoft 365 E | Roshan Karki | [Read More](https://medium.com/p/b2254fbb8a94) |
+| Wed, 04 Jun 2025 05:18:55 GMT | Exploiting CORS Vulnerability — How to Test Cross-Origin Resource Sharing Vulnerability | Mr Horbio | [Read More](https://medium.com/p/fd816fb4f1d6) |
 | Wed, 04 Jun 2025 05:15:50 GMT | Cybersecurity Awareness Training: How to Educate Employees and Protect Your Business | Kambetastephano | [Read More](https://medium.com/p/71095644587d) |
 | Wed, 04 Jun 2025 05:07:56 GMT | LetsDefend — Poseidon macOS Stealer (Hard) |  | [Read More](https://medium.com/p/a796c85d8c72) |
 | Wed, 04 Jun 2025 05:05:34 GMT | AI-Powered Phishing: The Next Frontier in Cyber Attacks | Devi prasad Guda | [Read More](https://medium.com/p/a16830e68fe8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 17:41:18 GMT | CVE Program Report for Quarter 1 Calendar Year (Q1 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/0e84776ee5c5) |
 | Tue, 03 Jun 2025 17:38:16 GMT | 13 Exceptional Reasons Enterprises Trust SAP on Azure | Techridge Solutions | [Read More](https://medium.com/p/51ee236b6b08) |
 | Tue, 03 Jun 2025 17:36:10 GMT | How to Maximize Earnings with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/59d873c5dbdc) |
-| Tue, 03 Jun 2025 17:32:57 GMT | Malware Development: Reverse Shell Disguised as a PDF | ASTRA Labs | [Read More](https://medium.com/p/985a5150597e) |
-| Tue, 03 Jun 2025 17:32:04 GMT | ESP D2 | Dev | [Read More](https://medium.com/p/b907a5e3e959) |
-| Tue, 03 Jun 2025 17:31:50 GMT | The North Face Data Breach: April 2025 Credential Stuffing Attack Exposes Customer Data | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/74293b1c7686) |
