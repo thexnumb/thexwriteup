@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 07:29:58 GMT | Securing Remote Work: The Essential Guide to Mobile Device Management | Lokesh Baskar | [Read More](https://medium.com/p/1a10f08e0fed) |
+| Wed, 04 Jun 2025 07:29:55 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/191fecf1460f) |
+| Wed, 04 Jun 2025 07:29:32 GMT | The Daily Tech Digest: 04 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/daf1a8cf3ba1) |
+| Wed, 04 Jun 2025 07:27:31 GMT | Rethinking Military Spending: Are Expensive Jet Fighters Still Worth It in the Age of Drones and… | Michel A. de Kemmeter - Kairos -Extrapreneurs CofB | [Read More](https://medium.com/p/c764e6dea104) |
+| Wed, 04 Jun 2025 07:26:34 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/3dd17c89d0cb) |
+| Wed, 04 Jun 2025 07:24:09 GMT | Backup Is Not Resilience: Lessons from the OVHcloud Fire and the Bâti Courtage Case | Pierre Schroth | [Read More](https://medium.com/p/2ec74a78b2e9) |
+| Wed, 04 Jun 2025 07:22:20 GMT | How Fast Can I Recover My Stolen Bitcoin Wallet? A Personal Journey With Rhinesecurity | Crime Stories | [Read More](https://medium.com/p/390a7f2f1968) |
 | Wed, 04 Jun 2025 07:16:53 GMT | AI Tools for Small Business Cybersecurity | Alex Smale | [Read More](https://medium.com/p/681c09189f29) |
 | Wed, 04 Jun 2025 07:16:07 GMT | Part Two — A Practical Guide to Automate Threat Analysis: URLScan.io | Jade Hill | [Read More](https://medium.com/p/1f59f6977568) |
 | Wed, 04 Jun 2025 07:02:53 GMT | The Price of Inaction: Why Cyber Resilience Is No Longer Optional | WayneReidUK | [Read More](https://medium.com/p/c8ba000fc6a5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 21:27:00 GMT | More CVEs, More Problems: Why Prioritizing Risk is the Only Way Forward | Bscardina | [Read More](https://medium.com/p/b0f3167ffb54) |
 | Tue, 03 Jun 2025 21:26:03 GMT | PT1- Recommeded lab to learn and Pass it …. | MRX.0 | [Read More](https://medium.com/p/b7f82bb065b9) |
 | Tue, 03 Jun 2025 21:10:55 GMT | Unlock Your Cybersecurity Career: Pass the TryHackMe PT1 Certificate (The Ultimate Guide) | MRX.0 | [Read More](https://medium.com/p/7df4195fef33) |
-| Tue, 03 Jun 2025 21:03:28 GMT | LexisNexis breach exposed over 364,000 Americans. | mePrism Privacy | [Read More](https://medium.com/p/801adcd06991) |
-| Tue, 03 Jun 2025 20:56:41 GMT | A software engineer’s data security and privacy insights for Mac users | Jhaubrich.com | [Read More](https://medium.com/p/1a83a236e643) |
-| Tue, 03 Jun 2025 20:46:10 GMT | 5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win | Markaz Gasimov | [Read More](https://medium.com/p/9d4d90042833) |
-| Tue, 03 Jun 2025 20:35:41 GMT | Your 30-Day Bug Bounty Kickstart for 2025 (Using Only Free Tools) | Vivek PS | [Read More](https://medium.com/p/5a323ff82bbc) |
-| Tue, 03 Jun 2025 20:33:04 GMT | GenAI və Kibertəhlükəsizlik: Yeni Dövrün İkili Silahı | Makharramli | [Read More](https://medium.com/p/d17cfbb32c3e) |
-| Tue, 03 Jun 2025 20:30:18 GMT | The Future of Cybersecurity GRC Is Sustainable and Human-Centered | Mishaal Zahed | [Read More](https://medium.com/p/6b9c0ee28809) |
-| Tue, 03 Jun 2025 20:26:34 GMT | Leveraging SQLMap for SQL Injection | musayyab sharif | [Read More](https://medium.com/p/d4d3f9bb38a4) |
