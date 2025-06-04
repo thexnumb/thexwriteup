@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 14:13:10 GMT | Being Bare | Tobechukwu Rita | [Read More](https://medium.com/p/bbfd81bbf008) |
+| Wed, 04 Jun 2025 14:07:46 GMT | Risk Mitigation in Artificial Intelligence using Protocols | Etibar Aliyev | [Read More](https://medium.com/p/fbc178654785) |
+| Wed, 04 Jun 2025 14:02:28 GMT | ️ Manual Analysis of Web Application Vulnerabilities Using Burp Suite | Esra Kayhan | [Read More](https://medium.com/p/c1e9838c0f13) |
+| Wed, 04 Jun 2025 13:58:14 GMT | Cyber Briefing: 2025.06.04 | CyberMaterial | [Read More](https://medium.com/p/8a5edf33a8aa) |
+| Wed, 04 Jun 2025 13:55:14 GMT | Lab 24 — Using ARP command for network reconnaissance | Hassen Hannachi | [Read More](https://medium.com/p/d85086712c60) |
+| Wed, 04 Jun 2025 13:54:13 GMT | Why Healthcare Is Now a Top Target for Ransomware Groups | Cybersecurity Umbrella | [Read More](https://medium.com/p/a0f3df3146a1) |
+| Wed, 04 Jun 2025 13:54:02 GMT | How to Choose the Best WiFi Adapter for Kali Linux (For Ethical Hacking & Home Security) | Kambetastephano | [Read More](https://medium.com/p/bb9a4d2905ce) |
+| Wed, 04 Jun 2025 13:52:48 GMT | Advanced Remote Code Execution with Raspberry Pi Pico W: A New Frontier in AI-Powered Cybersecurity | Kabil Preetham K | [Read More](https://medium.com/p/acc3f9f4eeae) |
+| Wed, 04 Jun 2025 13:52:21 GMT | Modern Security Vulnerabilities: Lessons from Recent Breaches | Jeremy Rivera | [Read More](https://medium.com/p/e96bc1b41951) |
+| Wed, 04 Jun 2025 13:46:00 GMT | THC Hydra: Your Gateway to Network Service Security Audits | Krishdograa | [Read More](https://medium.com/p/4a1384d6a447) |
+| Wed, 04 Jun 2025 13:44:25 GMT | Digital Fortresses | Etnik | [Read More](https://medium.com/p/83988322cf0c) |
+| Wed, 04 Jun 2025 13:34:21 GMT | HackTheBox Password Attacks; Attacking Windows Credential Manager | Taxaneh | [Read More](https://medium.com/p/e70ed3f06ed7) |
+| Wed, 04 Jun 2025 13:24:29 GMT | Meet JOZIE™ | Thomas Noonan | [Read More](https://medium.com/p/afc819124e84) |
 | Wed, 04 Jun 2025 13:19:52 GMT | Slopsquatting: The Hidden Danger in AI-Generated Code | Prabhu Raghav | [Read More](https://medium.com/p/5fa275401101) |
 | Wed, 04 Jun 2025 13:17:16 GMT | Jailbreaking an iPad for Penetration Testing: A Pentester’s Field Guide | Mark Puckett | [Read More](https://medium.com/p/1930ce229627) |
 | Wed, 04 Jun 2025 13:16:01 GMT | Supply Chain Under Siege: Navigating Cybersecurity Risks in Interconnected Networks | Pegasus Technology Solutions | [Read More](https://medium.com/p/2e18440af6d3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 07:27:31 GMT | Rethinking Military Spending: Are Expensive Jet Fighters Still Worth It in the Age of Drones and… | Michel A. de Kemmeter - Kairos -Extrapreneurs CofB | [Read More](https://medium.com/p/c764e6dea104) |
 | Wed, 04 Jun 2025 07:26:34 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/3dd17c89d0cb) |
 | Wed, 04 Jun 2025 07:24:09 GMT | Backup Is Not Resilience: Lessons from the OVHcloud Fire and the Bâti Courtage Case | Pierre Schroth | [Read More](https://medium.com/p/2ec74a78b2e9) |
-| Wed, 04 Jun 2025 07:22:20 GMT | How Fast Can I Recover My Stolen Bitcoin Wallet? A Personal Journey With Rhinesecurity | Crime Stories | [Read More](https://medium.com/p/390a7f2f1968) |
-| Wed, 04 Jun 2025 07:16:53 GMT | AI Tools for Small Business Cybersecurity | Alex Smale | [Read More](https://medium.com/p/681c09189f29) |
-| Wed, 04 Jun 2025 07:16:07 GMT | Part Two — A Practical Guide to Automate Threat Analysis: URLScan.io | Jade Hill | [Read More](https://medium.com/p/1f59f6977568) |
-| Wed, 04 Jun 2025 07:02:53 GMT | The Price of Inaction: Why Cyber Resilience Is No Longer Optional | WayneReidUK | [Read More](https://medium.com/p/c8ba000fc6a5) |
-| Wed, 04 Jun 2025 07:02:27 GMT | The Logo in the Inbox Isn’t Just About Branding — It’s About Trust | GlobalSign | [Read More](https://medium.com/p/ea873e64a15c) |
-| Wed, 04 Jun 2025 07:00:07 GMT | Credential Dumping Applications: What They Are, How They Work, and How to Defend Against Them | Very Lazy Tech | [Read More](https://medium.com/p/bf77aac1361f) |
-| Wed, 04 Jun 2025 06:53:42 GMT | How Can I Recover My Scammed $87,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/cce9acc9b78b) |
-| Wed, 04 Jun 2025 06:52:23 GMT | The Silence Before Collapse | Diano fin | [Read More](https://medium.com/p/a16f34610904) |
-| Wed, 04 Jun 2025 06:49:36 GMT | Remote Browser Isolation by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b2668917f4c7) |
-| Wed, 04 Jun 2025 06:49:08 GMT | Advanced KQL Threat Hunting | Saikat Paul | [Read More](https://medium.com/p/6361b889a1e7) |
-| Wed, 04 Jun 2025 06:47:49 GMT | The Power of a Single Tool for Key Management with GnuTLS — A POC | Antonio Francesco Gentile | [Read More](https://medium.com/p/2df13a707b6f) |
-| Wed, 04 Jun 2025 06:44:11 GMT | Vue.js Security Best Practices Guide | Kristiyan Velkov | [Read More](https://medium.com/p/2da8e4422a59) |
-| Wed, 04 Jun 2025 06:43:40 GMT | 50 Super Rare KQL Commands that most users have never encountered | Saikat Paul | [Read More](https://medium.com/p/c99e12694e31) |
