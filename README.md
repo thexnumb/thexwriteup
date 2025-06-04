@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 18:13:09 GMT | La modélisation des menaces (Threat Modeling) en pratique : méthode STRIDE + DREAD, outils et cas… | Larbi OUIYZME | [Read More](https://medium.com/p/c31105182dc9) |
+| Wed, 04 Jun 2025 18:11:37 GMT | What I Do Before Letting Any App Run as Root on My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/a3eba7c4773f) |
+| Wed, 04 Jun 2025 18:07:43 GMT | Bridging the AI Governance Gap: A Framework for Real-Time Cybersecurity and Adaptive Privacy… | Kiran Chowdhary | [Read More](https://medium.com/p/3c2f6261aa4f) |
+| Wed, 04 Jun 2025 18:01:00 GMT | Navigating the Digital Divide: A Game-Theoretic Forecast for a Post-Ukraine War US-Russia Cyber… | CCD-IS | [Read More](https://medium.com/p/eb7ee5dbef22) |
+| Wed, 04 Jun 2025 17:57:36 GMT | Como iniciar a analise de um PCAP? | Jonathan M. | [Read More](https://medium.com/p/7615254e172b) |
+| Wed, 04 Jun 2025 17:54:09 GMT | Inside the Gate: How I Witnessed a Tool Bypass a Metro Entry Without Ticket — And Why It’s a… | Aditya sunny | [Read More](https://medium.com/p/f795a29f0280) |
+| Wed, 04 Jun 2025 17:54:05 GMT | A Cybersecurity Journey: My path to OSCP | Erik137 | [Read More](https://medium.com/p/b682e4842a39) |
+| Wed, 04 Jun 2025 17:53:25 GMT | we provide 24/7 remote surveillance through professional CCTV monitoring. | Visual Monitoring Solutions | [Read More](https://medium.com/p/56940a5de230) |
+| Wed, 04 Jun 2025 17:51:50 GMT | Biggest Cyberattacks, Ransomware Attacks and Data Breaches in May 2025 | IT_Engineer | [Read More](https://medium.com/p/9c718b56c835) |
+| Wed, 04 Jun 2025 17:50:02 GMT | A Quantum Celebration: UN Declares 2025 the International Year of Quantum Science and Technology | QuantumGenie | [Read More](https://medium.com/p/fbc36d266600) |
+| Wed, 04 Jun 2025 17:49:13 GMT | Monday Monitor — Tryhackme Writeup | V0idd | [Read More](https://medium.com/p/c8d0e91d533a) |
+| Wed, 04 Jun 2025 17:47:44 GMT | Rethinking the European Union’s Arctic strategy: Greenland must lie at the heart of it | European Horizons’ Leiden Chapter | [Read More](https://medium.com/p/11f4f84004b9) |
 | Wed, 04 Jun 2025 17:32:03 GMT | Day 53: Mastering User Input & Conditionals in Bash Scripting | Agarwaldaksh | [Read More](https://medium.com/p/213e12472bf1) |
 | Wed, 04 Jun 2025 17:27:47 GMT | Mobile Device Forensics: Unlocking Digital Evidence in Your Pocket | David Ramovich Mandal | [Read More](https://medium.com/p/b3ba4ff94e8f) |
 | Wed, 04 Jun 2025 17:24:31 GMT | ☠️ CORS of Destruction: How Misconfigured Origins Let Me Read Everything | Iski | [Read More](https://medium.com/p/15a49261a32a) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 12:38:02 GMT | The Digital Dragnet: How the FBI’s War on Online Piracy and “Smart” Routers Threaten Your… | Jared Weisinger | [Read More](https://medium.com/p/04ea5cf92a7c) |
 | Wed, 04 Jun 2025 12:33:55 GMT | Rethinking Change Management with AI | Abhijith Basil | [Read More](https://medium.com/p/766fdd43deae) |
 | Wed, 04 Jun 2025 12:33:10 GMT | The story of a confused LLM and some fancy words. | Kaynat Muzaffar | [Read More](https://medium.com/p/663c41f6db79) |
-| Wed, 04 Jun 2025 12:32:23 GMT | Inside the Dark Web: Where Identities, Bank Accounts, and Secrets Are Sold | Sandesh Kumar | [Read More](https://medium.com/p/02326565463b) |
-| Wed, 04 Jun 2025 12:28:47 GMT | What is Cybersecurity for Financial Services | Qualysectechnologies | [Read More](https://medium.com/p/43e1fe2489b5) |
-| Wed, 04 Jun 2025 12:28:00 GMT | How I Explain Cybersecurity Without Sounding Boring – Authentication and Authorization | Ronit Yadav | [Read More](https://medium.com/p/49ab90152ca6) |
-| Wed, 04 Jun 2025 12:23:39 GMT | Why Data Desensitization Technologies Are Critical to the Future of Digital Trust | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/a4161d9c0e4a) |
-| Wed, 04 Jun 2025 12:22:20 GMT | How a Forgotten Blog Nearly Cost a Friend Her Business | Sam Galope | [Read More](https://medium.com/p/aa5ae1abf0f6) |
-| Wed, 04 Jun 2025 12:19:38 GMT | Bridging the Gap: The Human Element in Cybersecurity Hiring | Zainab Ghazi | [Read More](https://medium.com/p/166c267f89cb) |
-| Wed, 04 Jun 2025 12:13:53 GMT | API6:2023 — Unrestritec Access to Sensitive Business Flows — PT-BR | Tamy Angel | [Read More](https://medium.com/p/b4e5dd5e99bc) |
-| Wed, 04 Jun 2025 12:10:33 GMT | What If Someone Found My Journal? | Juls_pEn | [Read More](https://medium.com/p/3847a0a21baf) |
-| Wed, 04 Jun 2025 11:51:17 GMT | The Flaws That Define Us | Tim | [Read More](https://medium.com/p/9c4315486cd0) |
-| Wed, 04 Jun 2025 11:47:43 GMT | Same Origin Policy (SOP) Uncovered: What It Is and Why It Matters | Natarajan C K | [Read More](https://medium.com/p/60fed31e3c65) |
-| Wed, 04 Jun 2025 11:46:01 GMT | Addressing the Risks Uncovered by an Application Vulnerability Scan | SecDesk | [Read More](https://medium.com/p/839ee6882947) |
-| Wed, 04 Jun 2025 11:42:22 GMT | Server-Side Template Injection (SSTI): A Complete Beginner’s Guide | Victor Kipkemboi | [Read More](https://medium.com/p/55f4a6bd9294) |
