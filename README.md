@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 03:10:56 GMT | Desvendando um Dump de Memória: Uma Análise Forense com Volatility 3 | Jonathan M. | [Read More](https://medium.com/p/0115d69a97da) |
+| Wed, 04 Jun 2025 02:56:42 GMT | Boost Your Earnings with Bugs Bunny $BUGS Profit Tips | $BUGS Bugs Bunny Community Rewards | [Read More](https://medium.com/p/ef68effd29cd) |
+| Wed, 04 Jun 2025 02:55:40 GMT | The Face Isn’t Real — But the Threat Is: Deepfakes and the New Era of Cyber Threats | Shreya Patel | [Read More](https://medium.com/p/26568e0855ef) |
+| Wed, 04 Jun 2025 02:51:52 GMT | Write-up PicoCTF (Capture The Flag) — Intro To Burp Suite | Sérgio Corrêa | [Read More](https://medium.com/p/5b3382cb1174) |
+| Wed, 04 Jun 2025 02:48:06 GMT | Why Cryptographic Diversity Matters More Than Ever | ExeQuantum | [Read More](https://medium.com/p/ed3dfc7dba37) |
+| Wed, 04 Jun 2025 02:33:56 GMT | Demystifying OAuth: How It Works and Why It Matters | Deepak Singh | [Read More](https://medium.com/p/499e815a33c7) |
+| Wed, 04 Jun 2025 02:28:19 GMT | Bypassing CAPTCHA to Unleash Brute-force, A Pentester’s Approach | Ehxb | [Read More](https://medium.com/p/e30fb36cfa76) |
+| Wed, 04 Jun 2025 02:26:47 GMT | A Beginner’s Guide to OWASP Top 10 | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/9f4d201c6191) |
+| Wed, 04 Jun 2025 02:21:53 GMT | A Beginner’s Guide to OWASP Top 10 | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/1688e990a4e1) |
+| Wed, 04 Jun 2025 02:19:27 GMT | Your Firewall Won’t See This Coming: How AI-Powered Phishing Is Morphing Faster Than Your Team Can… | Biswajeet Poddar | [Read More](https://medium.com/p/d9b44df001e6) |
+| Wed, 04 Jun 2025 02:13:52 GMT | Chain of Custody: Locking Down Truth in the Digital Realm | Dzulfiqar Ali Rasyid | [Read More](https://medium.com/p/e3996e4c509f) |
+| Wed, 04 Jun 2025 02:11:48 GMT | Earn Passive Income with Curvance $CVE Yield Farming | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/56463f7a6cb6) |
+| Wed, 04 Jun 2025 02:04:48 GMT | MikroTik Winbox Brute Force Tool: Memahami Risiko dan Cara Melindungi Router Anda | RootKitty7 | [Read More](https://medium.com/p/f6ca3b88debb) |
+| Wed, 04 Jun 2025 01:46:16 GMT | Identifying the AWS Account ID from a Public S3 Bucket (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/0f93e538e731) |
 | Wed, 04 Jun 2025 01:27:06 GMT | Looting Public EBS Snapshots (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/ec1732d5cf89) |
 | Wed, 04 Jun 2025 01:25:18 GMT | Defining Your Protect Surface | Rob Forbes | [Read More](https://medium.com/p/789b52b1e5e7) |
 | Wed, 04 Jun 2025 01:23:50 GMT | Whose Risk Is It Anyway? The Silent Blind Spot in Most Organizations | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/97d6e1923c53) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 15:47:33 GMT | The FohnAI Manifesto | Jonah | [Read More](https://medium.com/p/2e6878ff48c1) |
 | Tue, 03 Jun 2025 15:46:36 GMT | 6 Cyber Attacks That Could Take Down a Nation | Brittney Ginther | [Read More](https://medium.com/p/5d9a19fc0585) |
 | Tue, 03 Jun 2025 15:46:31 GMT | Phone Scams Exposed: How Scammers Trick You and How to Stay Safe | SafeAeon Inc. | [Read More](https://medium.com/p/bde73f763d74) |
-| Tue, 03 Jun 2025 15:39:04 GMT | Securing Your React Native App with freerasp-react-native (For Free) | Senior React Native Developer - Team Lead | [Read More](https://medium.com/p/a3ee417cf79a) |
-| Tue, 03 Jun 2025 15:36:50 GMT | Can a Smart Fridge Be a National Security Threat? (Yes, and It’s Not Even Trying to Be Evil) | Shubham Sudhakar | [Read More](https://medium.com/p/67417c4dde74) |
-| Tue, 03 Jun 2025 15:34:58 GMT | The Help Desk That Never Sleeps: How AI Agents Are Reshaping Cybersecurity Careers | Andrei Ivan | [Read More](https://medium.com/p/1c03de310867) |
-| Tue, 03 Jun 2025 15:34:23 GMT | Ransomware Investigation Using Splunk — BOTSv1 Scenario 2 Walkthrough | Mohamed-Mahmoud | [Read More](https://medium.com/p/23465aa33c71) |
-| Tue, 03 Jun 2025 15:32:24 GMT | GZR Observer Daily — Jun 3, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/0529b5e64da6) |
-| Tue, 03 Jun 2025 15:30:55 GMT | Cloud Infrastructure Entitlement Management: Strengthening Cloud Security | SafeAeon Inc. | [Read More](https://medium.com/p/98293c641e22) |
-| Tue, 03 Jun 2025 15:26:04 GMT | Penetration Testing: The Ethical Way to Expose Security Flaws Before Hackers Do | Akshay Chauhan | [Read More](https://medium.com/p/25ffd54c428f) |
-| Tue, 03 Jun 2025 15:25:58 GMT | How to Generate a SAN Certificate Using hostname-san.conf | Mahernaija | [Read More](https://medium.com/p/346de1ccb067) |
-| Tue, 03 Jun 2025 15:25:44 GMT | Why Small Businesses Are the New #1 Target for Hackers (And It’s Not Because Hackers Hate Coffee… | Shubham Sudhakar | [Read More](https://medium.com/p/a1a044f1f7ac) |
-| Tue, 03 Jun 2025 15:24:35 GMT | Kenalan Sama Kali Linux: OS Andalan Para Pentester | LunarX | [Read More](https://medium.com/p/794f74520b10) |
-| Tue, 03 Jun 2025 15:21:00 GMT | Mengenal ICS/SCADA dan Ancaman Serangan Siber di Sistem Industri | Nothingless | [Read More](https://medium.com/p/07a2ac4e4c02) |
-| Tue, 03 Jun 2025 15:19:24 GMT | IT Audit Security Company: Safeguarding Your Systems Through Expert Evaluation | SafeAeon Inc. | [Read More](https://medium.com/p/89a48e1c087a) |
-| Tue, 03 Jun 2025 15:03:50 GMT | I Built an MCP Server for XSS Testing — Here’s What Happened | 0xTrk | [Read More](https://medium.com/p/1c097e79eb8d) |
-| Tue, 03 Jun 2025 14:59:29 GMT | 30 Most Used KQl Commands | Saikat Paul | [Read More](https://medium.com/p/426529daead8) |
