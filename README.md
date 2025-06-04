@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 13:19:52 GMT | Slopsquatting: The Hidden Danger in AI-Generated Code | Prabhu Raghav | [Read More](https://medium.com/p/5fa275401101) |
+| Wed, 04 Jun 2025 13:17:16 GMT | Jailbreaking an iPad for Penetration Testing: A Pentester’s Field Guide | Mark Puckett | [Read More](https://medium.com/p/1930ce229627) |
+| Wed, 04 Jun 2025 13:16:01 GMT | Supply Chain Under Siege: Navigating Cybersecurity Risks in Interconnected Networks | Pegasus Technology Solutions | [Read More](https://medium.com/p/2e18440af6d3) |
+| Wed, 04 Jun 2025 13:12:55 GMT | Memahami ICS/SCADA dan Ancaman Serangan Siber yang Mengintainya | Rommel | [Read More](https://medium.com/p/3db80aa3d1f8) |
+| Wed, 04 Jun 2025 13:02:31 GMT | Simulated Threat Scenarios for SOC Teams by Peris.ai | Peris.ai Cybersecurity | [Read More](https://medium.com/p/32cec1d5644f) |
+| Wed, 04 Jun 2025 12:58:04 GMT | WordPress CVE-2024-4434 Reversing | AbhirupKonwar | [Read More](https://medium.com/p/c57417df3734) |
+| Wed, 04 Jun 2025 12:56:42 GMT | Dework: Trello Meets Web3 | Rutuja Dalvi | [Read More](https://medium.com/p/b6d8a3ff372d) |
 | Wed, 04 Jun 2025 12:38:07 GMT | Unmasking a Memory Dump: A Forensic Analysis with Volatility 3 | Jonathan M. | [Read More](https://medium.com/p/d8384e0e2192) |
 | Wed, 04 Jun 2025 12:38:02 GMT | The Digital Dragnet: How the FBI’s War on Online Piracy and “Smart” Routers Threaten Your… | Jared Weisinger | [Read More](https://medium.com/p/04ea5cf92a7c) |
 | Wed, 04 Jun 2025 12:33:55 GMT | Rethinking Change Management with AI | Abhijith Basil | [Read More](https://medium.com/p/766fdd43deae) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 06:47:49 GMT | The Power of a Single Tool for Key Management with GnuTLS — A POC | Antonio Francesco Gentile | [Read More](https://medium.com/p/2df13a707b6f) |
 | Wed, 04 Jun 2025 06:44:11 GMT | Vue.js Security Best Practices Guide | Kristiyan Velkov | [Read More](https://medium.com/p/2da8e4422a59) |
 | Wed, 04 Jun 2025 06:43:40 GMT | 50 Super Rare KQL Commands that most users have never encountered | Saikat Paul | [Read More](https://medium.com/p/c99e12694e31) |
-| Wed, 04 Jun 2025 06:42:32 GMT | Teaching Kids Cybersecurity Saved My Sanity (and Built a Book) | Code & Kif | [Read More](https://medium.com/p/b484eb7c8406) |
-| Wed, 04 Jun 2025 06:41:19 GMT | 50 Super Rare Linux Commands that most users have never encountered | Saikat Paul | [Read More](https://medium.com/p/04e84717cf3e) |
-| Wed, 04 Jun 2025 06:36:01 GMT | The Courage to Be Heard | Ayesha Gohar | [Read More](https://medium.com/p/033402beb582) |
-| Wed, 04 Jun 2025 06:29:27 GMT | 30 essential Google Cloud Platform (GCP) CLI commands | Saikat Paul | [Read More](https://medium.com/p/37ca849a702d) |
-| Wed, 04 Jun 2025 06:25:28 GMT | Authentication part-1 : Username enumeration via different responses | Ahmad Sopyan | [Read More](https://medium.com/p/8ffc76acf511) |
-| Wed, 04 Jun 2025 06:19:05 GMT | Account Lockout Policies: A Simple Yet Powerful Defense Against Login Attacks | CyDhaal | [Read More](https://medium.com/p/d19451d56abb) |
-| Wed, 04 Jun 2025 06:16:41 GMT | Unlocking Laravel Authorization: Gates, Policies & Roles Done Right | mohamad shahkhajeh | [Read More](https://medium.com/p/b2f01c20e728) |
