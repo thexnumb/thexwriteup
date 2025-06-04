@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 22:51:35 GMT | How my curiosity gave me 2 CVEs! | Sneh bavarva | [Read More](https://medium.com/p/99c420827411) |
+| Wed, 04 Jun 2025 22:51:14 GMT | Test Article | Mostafa Aly | [Read More](https://medium.com/p/4c7688b98780) |
 | Wed, 04 Jun 2025 22:26:03 GMT | Scammers in 2025 are everywhere all day long! | According to HER | [Read More](https://medium.com/p/b80e55888d12) |
 | Wed, 04 Jun 2025 22:18:28 GMT | Post-Exploitation in Browser-Based Applications: DOM Abuse & Local Storage Leaks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/33070bb88780) |
 | Wed, 04 Jun 2025 21:55:12 GMT | Massive Data Breach Exposes Apple ID Logins: Why Post-Quantum Cryptography Must Start Now | QuantumGenie | [Read More](https://medium.com/p/07e691bf0e73) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 15:32:21 GMT | COPPA Compliance: Top 5 Website Security Tips for Kids | Feroot Security | [Read More](https://medium.com/p/e45062a42ae2) |
 | Wed, 04 Jun 2025 15:23:21 GMT | The Great Digital Vanishing Act: How the Internet Trained Itself to Forget on Purpose | Christian Baghai | [Read More](https://medium.com/p/9020abbb846a) |
 | Wed, 04 Jun 2025 15:22:06 GMT | What you should know about Crocodilus android trojan | TheReviewHive | [Read More](https://medium.com/p/c7799098c18c) |
-| Wed, 04 Jun 2025 15:21:49 GMT | Memahami ICS/SCADA dan Lanskap Ancaman Siber: Panduan untuk Keamanan Siber | Bimo Yudistira | [Read More](https://medium.com/p/c1f1d5e54446) |
-| Wed, 04 Jun 2025 15:20:27 GMT | 30 Days of Cyber Security — Day 9: Apa Itu ICS/SCADA dan Serangannya | Indra Rahmat Maulidi | [Read More](https://medium.com/p/8caddd2b1fcd) |
