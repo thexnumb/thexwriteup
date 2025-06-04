@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 18:45:24 GMT | Learn About Different Types Of Hacking, Including Penetration Testing, Social Engineering, And… | Cool Projects | [Read More](https://medium.com/p/2be9962fb9b1) |
+| Wed, 04 Jun 2025 18:40:55 GMT | How to prepare for eCIR Exam | Gehad Safwat | [Read More](https://medium.com/p/571095a3d226) |
+| Wed, 04 Jun 2025 18:38:29 GMT | 4 Business Challenges Solved by IT Consulting in Ontario | Zeta Sky | [Read More](https://medium.com/p/8f0e5477b2fd) |
+| Wed, 04 Jun 2025 18:36:31 GMT | Volatility | Shamar Isaac | [Read More](https://medium.com/p/64bc802c753b) |
+| Wed, 04 Jun 2025 18:36:30 GMT | SolarWinds — Root Cause Analysis | Teri Radichel | [Read More](https://medium.com/p/d29db3766bb8) |
+| Wed, 04 Jun 2025 18:36:05 GMT | Rethinking Technology Strategy: The Future of IT Consulting in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/9fa5486e7caa) |
+| Wed, 04 Jun 2025 18:32:46 GMT | Maybe I Don’t Need to Know Yet | Yuchan (Nhi Binh) | [Read More](https://medium.com/p/4980bb973a17) |
+| Wed, 04 Jun 2025 18:32:22 GMT | Credential Stuffing Defense: 5 Rapid Actions to Stop Attacks in Real Time | Bits Kingdom | [Read More](https://medium.com/p/26ab74e13ca0) |
+| Wed, 04 Jun 2025 18:25:06 GMT | Fine grained IAM permissions with AlloyDB | Bjoern Rost | [Read More](https://medium.com/p/f0d72ed446f1) |
+| Wed, 04 Jun 2025 18:15:14 GMT | SNS_Secrets CloudGoat Walkthrough | Abhishek Gupta | [Read More](https://medium.com/p/a9f1bb2f45b6) |
 | Wed, 04 Jun 2025 18:13:09 GMT | La modélisation des menaces (Threat Modeling) en pratique : méthode STRIDE + DREAD, outils et cas… | Larbi OUIYZME | [Read More](https://medium.com/p/c31105182dc9) |
 | Wed, 04 Jun 2025 18:11:37 GMT | What I Do Before Letting Any App Run as Root on My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/a3eba7c4773f) |
 | Wed, 04 Jun 2025 18:07:43 GMT | Bridging the AI Governance Gap: A Framework for Real-Time Cybersecurity and Adaptive Privacy… | Kiran Chowdhary | [Read More](https://medium.com/p/3c2f6261aa4f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 13:34:21 GMT | HackTheBox Password Attacks; Attacking Windows Credential Manager | Taxaneh | [Read More](https://medium.com/p/e70ed3f06ed7) |
 | Wed, 04 Jun 2025 13:24:29 GMT | Meet JOZIE™ | Thomas Noonan | [Read More](https://medium.com/p/afc819124e84) |
 | Wed, 04 Jun 2025 13:19:52 GMT | Slopsquatting: The Hidden Danger in AI-Generated Code | Prabhu Raghav | [Read More](https://medium.com/p/5fa275401101) |
-| Wed, 04 Jun 2025 13:17:16 GMT | Jailbreaking an iPad for Penetration Testing: A Pentester’s Field Guide | Mark Puckett | [Read More](https://medium.com/p/1930ce229627) |
-| Wed, 04 Jun 2025 13:16:01 GMT | Supply Chain Under Siege: Navigating Cybersecurity Risks in Interconnected Networks | Pegasus Technology Solutions | [Read More](https://medium.com/p/2e18440af6d3) |
-| Wed, 04 Jun 2025 13:12:55 GMT | Memahami ICS/SCADA dan Ancaman Serangan Siber yang Mengintainya | Rommel | [Read More](https://medium.com/p/3db80aa3d1f8) |
-| Wed, 04 Jun 2025 13:02:31 GMT | Simulated Threat Scenarios for SOC Teams by Peris.ai | Peris.ai Cybersecurity | [Read More](https://medium.com/p/32cec1d5644f) |
-| Wed, 04 Jun 2025 12:58:04 GMT | WordPress CVE-2024-4434 Reversing | AbhirupKonwar | [Read More](https://medium.com/p/c57417df3734) |
-| Wed, 04 Jun 2025 12:56:42 GMT | Dework: Trello Meets Web3 | Rutuja Dalvi | [Read More](https://medium.com/p/b6d8a3ff372d) |
-| Wed, 04 Jun 2025 12:38:07 GMT | Unmasking a Memory Dump: A Forensic Analysis with Volatility 3 | Jonathan M. | [Read More](https://medium.com/p/d8384e0e2192) |
-| Wed, 04 Jun 2025 12:38:02 GMT | The Digital Dragnet: How the FBI’s War on Online Piracy and “Smart” Routers Threaten Your… | Jared Weisinger | [Read More](https://medium.com/p/04ea5cf92a7c) |
-| Wed, 04 Jun 2025 12:33:55 GMT | Rethinking Change Management with AI | Abhijith Basil | [Read More](https://medium.com/p/766fdd43deae) |
-| Wed, 04 Jun 2025 12:33:10 GMT | The story of a confused LLM and some fancy words. | Kaynat Muzaffar | [Read More](https://medium.com/p/663c41f6db79) |
