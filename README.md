@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 07:16:53 GMT | AI Tools for Small Business Cybersecurity | Alex Smale | [Read More](https://medium.com/p/681c09189f29) |
+| Wed, 04 Jun 2025 07:16:07 GMT | Part Two — A Practical Guide to Automate Threat Analysis: URLScan.io | Jade Hill | [Read More](https://medium.com/p/1f59f6977568) |
+| Wed, 04 Jun 2025 07:02:53 GMT | The Price of Inaction: Why Cyber Resilience Is No Longer Optional | WayneReidUK | [Read More](https://medium.com/p/c8ba000fc6a5) |
+| Wed, 04 Jun 2025 07:02:27 GMT | The Logo in the Inbox Isn’t Just About Branding — It’s About Trust | GlobalSign | [Read More](https://medium.com/p/ea873e64a15c) |
+| Wed, 04 Jun 2025 07:00:07 GMT | Credential Dumping Applications: What They Are, How They Work, and How to Defend Against Them | Very Lazy Tech | [Read More](https://medium.com/p/bf77aac1361f) |
+| Wed, 04 Jun 2025 06:53:42 GMT | How Can I Recover My Scammed $87,000 from a Fake Bitcoin Investment Scam? | Crime Stories | [Read More](https://medium.com/p/cce9acc9b78b) |
+| Wed, 04 Jun 2025 06:52:23 GMT | The Silence Before Collapse | Diano fin | [Read More](https://medium.com/p/a16f34610904) |
+| Wed, 04 Jun 2025 06:49:36 GMT | Remote Browser Isolation by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b2668917f4c7) |
+| Wed, 04 Jun 2025 06:49:08 GMT | Advanced KQL Threat Hunting | Saikat Paul | [Read More](https://medium.com/p/6361b889a1e7) |
+| Wed, 04 Jun 2025 06:47:49 GMT | The Power of a Single Tool for Key Management with GnuTLS — A POC | Antonio Francesco Gentile | [Read More](https://medium.com/p/2df13a707b6f) |
+| Wed, 04 Jun 2025 06:44:11 GMT | Vue.js Security Best Practices Guide | Kristiyan Velkov | [Read More](https://medium.com/p/2da8e4422a59) |
+| Wed, 04 Jun 2025 06:43:40 GMT | 50 Super Rare KQL Commands that most users have never encountered | Saikat Paul | [Read More](https://medium.com/p/c99e12694e31) |
+| Wed, 04 Jun 2025 06:42:32 GMT | Teaching Kids Cybersecurity Saved My Sanity (and Built a Book) | Code & Kif | [Read More](https://medium.com/p/b484eb7c8406) |
+| Wed, 04 Jun 2025 06:41:19 GMT | 50 Super Rare Linux Commands that most users have never encountered | Saikat Paul | [Read More](https://medium.com/p/04e84717cf3e) |
+| Wed, 04 Jun 2025 06:36:01 GMT | The Courage to Be Heard | Ayesha Gohar | [Read More](https://medium.com/p/033402beb582) |
+| Wed, 04 Jun 2025 06:29:27 GMT | 30 essential Google Cloud Platform (GCP) CLI commands | Saikat Paul | [Read More](https://medium.com/p/37ca849a702d) |
 | Wed, 04 Jun 2025 06:25:28 GMT | Authentication part-1 : Username enumeration via different responses | Ahmad Sopyan | [Read More](https://medium.com/p/8ffc76acf511) |
 | Wed, 04 Jun 2025 06:19:05 GMT | Account Lockout Policies: A Simple Yet Powerful Defense Against Login Attacks | CyDhaal | [Read More](https://medium.com/p/d19451d56abb) |
 | Wed, 04 Jun 2025 06:16:41 GMT | Unlocking Laravel Authorization: Gates, Policies & Roles Done Right | mohamad shahkhajeh | [Read More](https://medium.com/p/b2f01c20e728) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 20:33:04 GMT | GenAI və Kibertəhlükəsizlik: Yeni Dövrün İkili Silahı | Makharramli | [Read More](https://medium.com/p/d17cfbb32c3e) |
 | Tue, 03 Jun 2025 20:30:18 GMT | The Future of Cybersecurity GRC Is Sustainable and Human-Centered | Mishaal Zahed | [Read More](https://medium.com/p/6b9c0ee28809) |
 | Tue, 03 Jun 2025 20:26:34 GMT | Leveraging SQLMap for SQL Injection | musayyab sharif | [Read More](https://medium.com/p/d4d3f9bb38a4) |
-| Tue, 03 Jun 2025 20:19:10 GMT | Why Spring Security Is the Go-To Solution for Securing Spring Applications | Chihebellefi | [Read More](https://medium.com/p/5f45291b559b) |
-| Tue, 03 Jun 2025 20:08:30 GMT | BehindTheScreens: Navigating the Cybersecurity Frontier — In-depth Analysis (May 26th to June 1st… | Sam - Behind The Screens | [Read More](https://medium.com/p/381c31033a52) |
-| Tue, 03 Jun 2025 19:50:35 GMT | Luxury & Retail Under Siege: Cartier, North Face, Victoria’s Secret Hit by June 3 Cyberattacks | Chetan Seripally | [Read More](https://medium.com/p/0b4f5cbd006e) |
-| Tue, 03 Jun 2025 19:49:08 GMT | SoK: A Literature and Engineering Review of Regular Expression Denial of Service (ReDoS) | James Davis | [Read More](https://medium.com/p/e6b10ef547c7) |
-| Tue, 03 Jun 2025 19:44:56 GMT | Offensive Security Intro — Defensive security — Introduction to Cyber Security — TryHackMe… | Nyaboke | [Read More](https://medium.com/p/28e293930d33) |
-| Tue, 03 Jun 2025 19:44:45 GMT | Business Growth with a Virtual CIO (vCIO) | IT_Engineer | [Read More](https://medium.com/p/49c3ce931295) |
-| Tue, 03 Jun 2025 19:35:05 GMT | Understanding NIS2: How to Tell if Europe’s New Cybersecurity Directive Applies to Your Business | J Bodys | [Read More](https://medium.com/p/f5fe31211930) |
-| Tue, 03 Jun 2025 19:31:36 GMT | Introducing Labrador LLM: The First AI Foundation Model Built for Software Supply Chain Security | Roger Neal | [Read More](https://medium.com/p/0ea016f20081) |
-| Tue, 03 Jun 2025 19:26:40 GMT | Building Production-Ready MySQL Infrastructure on GCP with OpenTofu/Terraform: A Complete Guide | Devashish Chand Gupta | [Read More](https://medium.com/p/912ee9fee0f8) |
-| Tue, 03 Jun 2025 19:25:13 GMT | Servers used during a Red Teaming engagement — Overview | The Darkarmy | [Read More](https://medium.com/p/86ec28c24c63) |
-| Tue, 03 Jun 2025 19:11:28 GMT | MDE’s DeviceNetworkEvents table for SOC analysts [Part 1 — Overview] | Ethan Bowen | [Read More](https://medium.com/p/094ca99b50c9) |
-| Tue, 03 Jun 2025 19:06:52 GMT | How Hackers Steal Passwords: 5 Attack Methods Explained | Anthony Mazyck | [Read More](https://medium.com/p/9fd25b93ae39) |
-| Tue, 03 Jun 2025 19:06:25 GMT | Why the Internet Has an Expiry Date — And What Comes After | Hafizbilaltariq | [Read More](https://medium.com/p/486c820328c1) |
-| Tue, 03 Jun 2025 19:03:26 GMT | HTB Academy writeup-Introduction to Web Applications | Nyaboke | [Read More](https://medium.com/p/425443cc77e9) |
-| Tue, 03 Jun 2025 18:48:27 GMT | Chaos Engineering: Breaking Things On Purpose | Ed Legault | [Read More](https://medium.com/p/4cd300693601) |
-| Tue, 03 Jun 2025 18:47:49 GMT | Unlock the Power of Curvance for Maximum Gains | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/6bf68995eba4) |
