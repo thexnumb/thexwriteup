@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 06:25:28 GMT | Authentication part-1 : Username enumeration via different responses | Ahmad Sopyan | [Read More](https://medium.com/p/8ffc76acf511) |
+| Wed, 04 Jun 2025 06:19:05 GMT | Account Lockout Policies: A Simple Yet Powerful Defense Against Login Attacks | CyDhaal | [Read More](https://medium.com/p/d19451d56abb) |
+| Wed, 04 Jun 2025 06:16:41 GMT | Unlocking Laravel Authorization: Gates, Policies & Roles Done Right | mohamad shahkhajeh | [Read More](https://medium.com/p/b2f01c20e728) |
+| Wed, 04 Jun 2025 06:15:51 GMT | 30 Most Used Terraform Commands with Examples | Saikat Paul | [Read More](https://medium.com/p/e63109bf32fa) |
+| Wed, 04 Jun 2025 06:13:34 GMT | Password Spraying: The Silent Threat Lurking in Plain Sight | Riya J Vishwakarma | [Read More](https://medium.com/p/11f898ec470f) |
+| Wed, 04 Jun 2025 06:12:20 GMT | 30 Most used SPL commands with examples | Saikat Paul | [Read More](https://medium.com/p/78c4b877c418) |
+| Wed, 04 Jun 2025 06:08:03 GMT | We are all under surveillance | Aros Aria | [Read More](https://medium.com/p/ee31e9cc6ca7) |
+| Wed, 04 Jun 2025 06:04:26 GMT | Cyberlog Analysis-Analisa Malware pada Sebuah Jaringan Lokal | Ivo Arlian | [Read More](https://medium.com/p/12bab4a39c88) |
+| Wed, 04 Jun 2025 06:00:42 GMT | Today’s Top Cyber Intelligence Highlights — Jun 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5502b006c46d) |
+| Wed, 04 Jun 2025 05:57:18 GMT | From Observation to Protection: How CCTV Changes Home Security Mindsets | Hiba J | [Read More](https://medium.com/p/ebbcb36c48e2) |
+| Wed, 04 Jun 2025 05:56:48 GMT | Unlocking the Dark Web: A Curated .onion | adityaax | [Read More](https://medium.com/p/bdc8bb7fa755) |
+| Wed, 04 Jun 2025 05:48:05 GMT | ⚠️ Choice Jacking Attacks: The UI Deception Technique Exploiting Human Behavior | Infoziant | [Read More](https://medium.com/p/48b7ff33c7c2) |
+| Wed, 04 Jun 2025 05:39:48 GMT | Why Every Fintech Company Needs Robust Cybersecurity Services | Jenny smith | [Read More](https://medium.com/p/f434126b45c3) |
+| Wed, 04 Jun 2025 05:37:02 GMT | Why Classifying and Reporting Cyber Incidents Is Critical for Every Organization | CyDhaal | [Read More](https://medium.com/p/ddf3e989cd19) |
 | Wed, 04 Jun 2025 05:30:05 GMT | Wand, Wisdom, and Whitelists: CISSP Asset Security in the Wizarding World! | CyberGRC Simplified | [Read More](https://medium.com/p/c76815b7a3c5) |
 | Wed, 04 Jun 2025 05:23:14 GMT | Powering Digital Transformation with Microsoft 365 E | Roshan Karki | [Read More](https://medium.com/p/b2254fbb8a94) |
 | Wed, 04 Jun 2025 05:18:55 GMT | Exploiting CORS Vulnerability — How to Test Cross-Origin Resource Sharing Vulnerability | Mr Horbio | [Read More](https://medium.com/p/fd816fb4f1d6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 19:03:26 GMT | HTB Academy writeup-Introduction to Web Applications | Nyaboke | [Read More](https://medium.com/p/425443cc77e9) |
 | Tue, 03 Jun 2025 18:48:27 GMT | Chaos Engineering: Breaking Things On Purpose | Ed Legault | [Read More](https://medium.com/p/4cd300693601) |
 | Tue, 03 Jun 2025 18:47:49 GMT | Unlock the Power of Curvance for Maximum Gains | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/6bf68995eba4) |
-| Tue, 03 Jun 2025 18:42:57 GMT | How to Automatically Lock Out SSH Brute-Force Attacks on Ubuntu and Red Hat | Faruk Ahmed | [Read More](https://medium.com/p/69e5e07d049b) |
-| Tue, 03 Jun 2025 18:41:54 GMT | Reconstructing the Deleted: How I Helped my CTF team LazarusGroup Solve a Vanished OSINT Post. | Chris Huffstetler | [Read More](https://medium.com/p/2d20697d8f8a) |
-| Tue, 03 Jun 2025 18:28:44 GMT | NATO Member Croatia Fuels Iran Terrorism Financing — Seeding Crises Impacting America, Israel and… | International Leaders Summit | [Read More](https://medium.com/p/499b8f777a22) |
-| Tue, 03 Jun 2025 18:27:13 GMT | Understanding True Positive, False Positive, True Negative, False Negative, Precision, Recall… | Natarajan C K | [Read More](https://medium.com/p/4b34b90cfa53) |
-| Tue, 03 Jun 2025 18:24:06 GMT | The Ultimate Guide to Local File Inclusion (LFI)  — From Basics to Real-World Exploits &… | Zoningxtr | [Read More](https://medium.com/p/cc8d0f6d922b) |
-| Tue, 03 Jun 2025 18:21:35 GMT | Network Security Protocols | Pavandeep Kaur | [Read More](https://medium.com/p/d7577618248b) |
-| Tue, 03 Jun 2025 18:09:36 GMT | Top 7 Tools for AI-Powered Threat Intelligence in Cybersecurity (with Real Deployment Stories) | Andrei Ivan | [Read More](https://medium.com/p/b5beefeb5aaf) |
-| Tue, 03 Jun 2025 18:02:22 GMT | The Hidden National Security Threat in IT Asset Disposition | Kyle Marks | [Read More](https://medium.com/p/592504e7e949) |
-| Tue, 03 Jun 2025 17:51:29 GMT | TryHackMe - AD: BadSuccessor - WriteUp | Axoloth | [Read More](https://medium.com/p/2dc83b271d80) |
-| Tue, 03 Jun 2025 17:45:39 GMT | Setting Up Evilginx in a Docker Container on Kali Linux: A Step-by-Step Guide | David Ramovich Mandal | [Read More](https://medium.com/p/b9076213ad88) |
-| Tue, 03 Jun 2025 17:44:54 GMT | Crypto Asset Manager Grayscale Eyes the Quantum Frontier with Proposed Quantum Computing ETF | QuantumGenie | [Read More](https://medium.com/p/1d6fee01c26a) |
-| Tue, 03 Jun 2025 17:41:18 GMT | CVE Program Report for Quarter 1 Calendar Year (Q1 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/0e84776ee5c5) |
-| Tue, 03 Jun 2025 17:38:16 GMT | 13 Exceptional Reasons Enterprises Trust SAP on Azure | Techridge Solutions | [Read More](https://medium.com/p/51ee236b6b08) |
-| Tue, 03 Jun 2025 17:36:10 GMT | How to Maximize Earnings with Curvance $CVE | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/59d873c5dbdc) |
