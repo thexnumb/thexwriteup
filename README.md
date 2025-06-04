@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 12:38:07 GMT | Unmasking a Memory Dump: A Forensic Analysis with Volatility 3 | Jonathan M. | [Read More](https://medium.com/p/d8384e0e2192) |
+| Wed, 04 Jun 2025 12:38:02 GMT | The Digital Dragnet: How the FBI’s War on Online Piracy and “Smart” Routers Threaten Your… | Jared Weisinger | [Read More](https://medium.com/p/04ea5cf92a7c) |
+| Wed, 04 Jun 2025 12:33:55 GMT | Rethinking Change Management with AI | Abhijith Basil | [Read More](https://medium.com/p/766fdd43deae) |
+| Wed, 04 Jun 2025 12:33:10 GMT | The story of a confused LLM and some fancy words. | Kaynat Muzaffar | [Read More](https://medium.com/p/663c41f6db79) |
+| Wed, 04 Jun 2025 12:32:23 GMT | Inside the Dark Web: Where Identities, Bank Accounts, and Secrets Are Sold | Sandesh Kumar | [Read More](https://medium.com/p/02326565463b) |
+| Wed, 04 Jun 2025 12:28:47 GMT | What is Cybersecurity for Financial Services | Qualysectechnologies | [Read More](https://medium.com/p/43e1fe2489b5) |
+| Wed, 04 Jun 2025 12:28:00 GMT | How I Explain Cybersecurity Without Sounding Boring – Authentication and Authorization | Ronit Yadav | [Read More](https://medium.com/p/49ab90152ca6) |
+| Wed, 04 Jun 2025 12:23:39 GMT | Why Data Desensitization Technologies Are Critical to the Future of Digital Trust | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/a4161d9c0e4a) |
+| Wed, 04 Jun 2025 12:22:20 GMT | How a Forgotten Blog Nearly Cost a Friend Her Business | Sam Galope | [Read More](https://medium.com/p/aa5ae1abf0f6) |
+| Wed, 04 Jun 2025 12:19:38 GMT | Bridging the Gap: The Human Element in Cybersecurity Hiring | Zainab Ghazi | [Read More](https://medium.com/p/166c267f89cb) |
+| Wed, 04 Jun 2025 12:13:53 GMT | API6:2023 — Unrestritec Access to Sensitive Business Flows — PT-BR | Tamy Angel | [Read More](https://medium.com/p/b4e5dd5e99bc) |
+| Wed, 04 Jun 2025 12:10:33 GMT | What If Someone Found My Journal? | Juls_pEn | [Read More](https://medium.com/p/3847a0a21baf) |
+| Wed, 04 Jun 2025 11:51:17 GMT | The Flaws That Define Us | Tim | [Read More](https://medium.com/p/9c4315486cd0) |
+| Wed, 04 Jun 2025 11:47:43 GMT | Same Origin Policy (SOP) Uncovered: What It Is and Why It Matters | Natarajan C K | [Read More](https://medium.com/p/60fed31e3c65) |
+| Wed, 04 Jun 2025 11:46:01 GMT | Addressing the Risks Uncovered by an Application Vulnerability Scan | SecDesk | [Read More](https://medium.com/p/839ee6882947) |
+| Wed, 04 Jun 2025 11:42:22 GMT | Server-Side Template Injection (SSTI): A Complete Beginner’s Guide | Victor Kipkemboi | [Read More](https://medium.com/p/55f4a6bd9294) |
+| Wed, 04 Jun 2025 11:39:36 GMT | Earn More with $BUGS on StakingRewards | $BUGS Bugs Bunny Community Rewards | [Read More](https://medium.com/p/9ffb8fe67b15) |
+| Wed, 04 Jun 2025 11:38:53 GMT | My Experience with Infisical — A Potential Scamming Program | Saddamzzz | [Read More](https://medium.com/p/d6fc2a487694) |
 | Wed, 04 Jun 2025 11:38:45 GMT | How CryptoDonut Keeps Every Donation in Your Hands | Crypto Donut | [Read More](https://medium.com/p/5282eb7e92ed) |
 | Wed, 04 Jun 2025 11:25:04 GMT | Critical HPE StoreOnce Vulnerability Fixed: What You Need to Know | Navigtech | [Read More](https://medium.com/p/62b75c0e5cd5) |
 | Wed, 04 Jun 2025 11:25:03 GMT | What is a cloud transformation security service? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/e361109613e0) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 06:25:28 GMT | Authentication part-1 : Username enumeration via different responses | Ahmad Sopyan | [Read More](https://medium.com/p/8ffc76acf511) |
 | Wed, 04 Jun 2025 06:19:05 GMT | Account Lockout Policies: A Simple Yet Powerful Defense Against Login Attacks | CyDhaal | [Read More](https://medium.com/p/d19451d56abb) |
 | Wed, 04 Jun 2025 06:16:41 GMT | Unlocking Laravel Authorization: Gates, Policies & Roles Done Right | mohamad shahkhajeh | [Read More](https://medium.com/p/b2f01c20e728) |
-| Wed, 04 Jun 2025 06:15:51 GMT | 30 Most Used Terraform Commands with Examples | Saikat Paul | [Read More](https://medium.com/p/e63109bf32fa) |
-| Wed, 04 Jun 2025 06:13:34 GMT | Password Spraying: The Silent Threat Lurking in Plain Sight | Riya J Vishwakarma | [Read More](https://medium.com/p/11f898ec470f) |
-| Wed, 04 Jun 2025 06:12:20 GMT | 30 Most used SPL commands with examples | Saikat Paul | [Read More](https://medium.com/p/78c4b877c418) |
-| Wed, 04 Jun 2025 06:08:03 GMT | We are all under surveillance | Aros Aria | [Read More](https://medium.com/p/ee31e9cc6ca7) |
-| Wed, 04 Jun 2025 06:04:26 GMT | Cyberlog Analysis-Analisa Malware pada Sebuah Jaringan Lokal | Ivo Arlian | [Read More](https://medium.com/p/12bab4a39c88) |
-| Wed, 04 Jun 2025 06:00:42 GMT | Today’s Top Cyber Intelligence Highlights — Jun 04, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/5502b006c46d) |
-| Wed, 04 Jun 2025 05:57:18 GMT | From Observation to Protection: How CCTV Changes Home Security Mindsets | Hiba J | [Read More](https://medium.com/p/ebbcb36c48e2) |
-| Wed, 04 Jun 2025 05:56:48 GMT | Unlocking the Dark Web: A Curated .onion | adityaax | [Read More](https://medium.com/p/bdc8bb7fa755) |
-| Wed, 04 Jun 2025 05:48:05 GMT | ⚠️ Choice Jacking Attacks: The UI Deception Technique Exploiting Human Behavior | Infoziant | [Read More](https://medium.com/p/48b7ff33c7c2) |
-| Wed, 04 Jun 2025 05:39:48 GMT | Why Every Fintech Company Needs Robust Cybersecurity Services | Jenny smith | [Read More](https://medium.com/p/f434126b45c3) |
-| Wed, 04 Jun 2025 05:37:02 GMT | Why Classifying and Reporting Cyber Incidents Is Critical for Every Organization | CyDhaal | [Read More](https://medium.com/p/ddf3e989cd19) |
-| Wed, 04 Jun 2025 05:30:05 GMT | Wand, Wisdom, and Whitelists: CISSP Asset Security in the Wizarding World! | CyberGRC Simplified | [Read More](https://medium.com/p/c76815b7a3c5) |
-| Wed, 04 Jun 2025 05:23:14 GMT | Powering Digital Transformation with Microsoft 365 E | Roshan Karki | [Read More](https://medium.com/p/b2254fbb8a94) |
-| Wed, 04 Jun 2025 05:18:55 GMT | Exploiting CORS Vulnerability — How to Test Cross-Origin Resource Sharing Vulnerability | Mr Horbio | [Read More](https://medium.com/p/fd816fb4f1d6) |
-| Wed, 04 Jun 2025 05:15:50 GMT | Cybersecurity Awareness Training: How to Educate Employees and Protect Your Business | Kambetastephano | [Read More](https://medium.com/p/71095644587d) |
-| Wed, 04 Jun 2025 05:07:56 GMT | LetsDefend — Poseidon macOS Stealer (Hard) |  | [Read More](https://medium.com/p/a796c85d8c72) |
-| Wed, 04 Jun 2025 05:05:34 GMT | AI-Powered Phishing: The Next Frontier in Cyber Attacks | Devi prasad Guda | [Read More](https://medium.com/p/a16830e68fe8) |
-| Wed, 04 Jun 2025 05:03:42 GMT | Generative AI — Friend or Foe in Modern Cybersecurity? | Chaitanya Appani | [Read More](https://medium.com/p/830de7f7abe4) |
