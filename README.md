@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 23:32:20 GMT | Application Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/aef39f29bb11) |
+| Wed, 04 Jun 2025 23:26:29 GMT | Mengenal U3nlock: Alat Brute Force Sederhana untuk File & Login Page | Janukhi Bisyri | [Read More](https://medium.com/p/4bde41d9c2a2) |
+| Wed, 04 Jun 2025 23:14:01 GMT | Why Every Financial Firm Need Strong Cybersecurity? | Ostrich Cyber Risk | [Read More](https://medium.com/p/b3f31d11a4fd) |
+| Wed, 04 Jun 2025 23:13:57 GMT | Restricted — TryHackMe Writeup | V0idd | [Read More](https://medium.com/p/c88e2dc0725b) |
 | Wed, 04 Jun 2025 22:51:35 GMT | How my curiosity gave me 2 CVEs! | Sneh bavarva | [Read More](https://medium.com/p/99c420827411) |
 | Wed, 04 Jun 2025 22:51:14 GMT | Test Article | Mostafa Aly | [Read More](https://medium.com/p/4c7688b98780) |
 | Wed, 04 Jun 2025 22:26:03 GMT | Scammers in 2025 are everywhere all day long! | According to HER | [Read More](https://medium.com/p/b80e55888d12) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 15:52:03 GMT | Network Security Audit: Ensuring a Resilient Infrastructure | SafeAeon Inc. | [Read More](https://medium.com/p/b65f8100a136) |
 | Wed, 04 Jun 2025 15:48:30 GMT | TryHackMe Write-up: Splunk Basics | Robert Onyango | [Read More](https://medium.com/p/385a01035499) |
 | Wed, 04 Jun 2025 15:39:52 GMT | What are SSH keys, and where do we need them? | Akshay khale | [Read More](https://medium.com/p/0cc21f043ba3) |
-| Wed, 04 Jun 2025 15:32:37 GMT | Cracking the Code: A Pen Tester’s Dive into June 2025’s Cybersecurity Mayhem | hackerguy7 | [Read More](https://medium.com/p/41ec9d5964f3) |
-| Wed, 04 Jun 2025 15:32:21 GMT | COPPA Compliance: Top 5 Website Security Tips for Kids | Feroot Security | [Read More](https://medium.com/p/e45062a42ae2) |
-| Wed, 04 Jun 2025 15:23:21 GMT | The Great Digital Vanishing Act: How the Internet Trained Itself to Forget on Purpose | Christian Baghai | [Read More](https://medium.com/p/9020abbb846a) |
-| Wed, 04 Jun 2025 15:22:06 GMT | What you should know about Crocodilus android trojan | TheReviewHive | [Read More](https://medium.com/p/c7799098c18c) |
