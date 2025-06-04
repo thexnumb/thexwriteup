@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 14:56:19 GMT | Fixing Outdated VC++ Redistributables at Scale — A Simple Intune Detection & Remediation… | Luispuello | [Read More](https://medium.com/p/7b7e12cbcc12) |
+| Wed, 04 Jun 2025 14:55:24 GMT | Fortifying Your Android Apps: The Unsung Hero of Stack Canaries | Dhyan Sagar | [Read More](https://medium.com/p/b8a668e54c78) |
+| Wed, 04 Jun 2025 14:42:06 GMT | Bypassing Watermark Implementations | Kulkan Security | [Read More](https://medium.com/p/fe39e98ca22b) |
+| Wed, 04 Jun 2025 14:38:10 GMT | Hacking Mr Robot (CTF Walkthrough) | Calvaryhasarrived | [Read More](https://medium.com/p/44584424654d) |
+| Wed, 04 Jun 2025 14:36:23 GMT | Nighttime Patrol Robotics | Presslink Media | [Read More](https://medium.com/p/d20b982c701d) |
+| Wed, 04 Jun 2025 14:33:19 GMT | Achieve NIS2 Compliance with Confidence | Tushar Openiam | [Read More](https://medium.com/p/9be6e071488f) |
+| Wed, 04 Jun 2025 14:30:03 GMT | Cybersecurity statistics about APTs, infostealers, and quantum computing from May 2025 | CyberSecStats | [Read More](https://medium.com/p/a56e3fa70249) |
+| Wed, 04 Jun 2025 14:26:18 GMT | THM - Flag Vault 2 | Francesco Pastore | [Read More](https://medium.com/p/322c8403d570) |
+| Wed, 04 Jun 2025 14:25:17 GMT | Weaponizing XSS for Maximum Impact | ryuku_dz | [Read More](https://medium.com/p/0aa84b17ad60) |
+| Wed, 04 Jun 2025 14:24:57 GMT | Is Cybersecurity taken seriously enough ? | Okba Abdelmoumene | [Read More](https://medium.com/p/b1226d0a6894) |
+| Wed, 04 Jun 2025 14:23:15 GMT | Day 18: Sticking My Head in the Cloud ☁️ | Brittney Ginther | [Read More](https://medium.com/p/75ce63f11c6c) |
+| Wed, 04 Jun 2025 14:19:27 GMT | Agent sudo writeup (THM) | Kostas Ereksonas | [Read More](https://medium.com/p/a1e9bb56183a) |
+| Wed, 04 Jun 2025 14:19:18 GMT | Hacking AI — Neural Network layer injection | Tomasz Stachera | [Read More](https://medium.com/p/bdb4c9491536) |
+| Wed, 04 Jun 2025 14:17:05 GMT | Fortifying trust: The strategy that paid off | Sylvester Marquant | [Read More](https://medium.com/p/5c85e941485d) |
 | Wed, 04 Jun 2025 14:13:10 GMT | Being Bare | Tobechukwu Rita | [Read More](https://medium.com/p/bbfd81bbf008) |
 | Wed, 04 Jun 2025 14:07:46 GMT | Risk Mitigation in Artificial Intelligence using Protocols | Etibar Aliyev | [Read More](https://medium.com/p/fbc178654785) |
 | Wed, 04 Jun 2025 14:02:28 GMT | ️ Manual Analysis of Web Application Vulnerabilities Using Burp Suite | Esra Kayhan | [Read More](https://medium.com/p/c1e9838c0f13) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 08:39:10 GMT | The Gift of the Night | Darian Calvarion | [Read More](https://medium.com/p/86bc568bdfad) |
 | Wed, 04 Jun 2025 08:30:40 GMT | ประจำวันพุธที่ 4 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/fc2a0cd0cc46) |
 | Wed, 04 Jun 2025 08:27:32 GMT | BLOCKCHAIN IN CYBERSECURITY: BENEFITS, RISKS, AND REAL-WORLD APPLICATIONS: | Writersania | [Read More](https://medium.com/p/7ad6f3e40719) |
-| Wed, 04 Jun 2025 08:22:21 GMT | When Agentic AI Meets the Bureau of Tactical Oversight | Namir Sagheenanajar | [Read More](https://medium.com/p/756d71eb6f40) |
-| Wed, 04 Jun 2025 08:13:21 GMT | Czechia launches global campaign calling out Chinese cyber intrusion | European Values Center for Security Policy | [Read More](https://medium.com/p/43acb085270d) |
-| Wed, 04 Jun 2025 08:11:51 GMT | VHOST Demystified: The Secret to Hosting More With Less | Mrmmj | [Read More](https://medium.com/p/44e2dbbcc1b5) |
-| Wed, 04 Jun 2025 08:09:44 GMT | What is a brute force attack? | Ayush | [Read More](https://medium.com/p/b7ff01de50be) |
-| Wed, 04 Jun 2025 08:02:09 GMT | Best online Cybersecurity Training Courses in 2025 | cyber security Updates | [Read More](https://medium.com/p/db817991629c) |
-| Wed, 04 Jun 2025 07:57:19 GMT | Ascenders’ Stories: From Intern to Cybersecurity Whiz at Ascend Money! | Anurak Chavanarin | [Read More](https://medium.com/p/4a9a97b21080) |
-| Wed, 04 Jun 2025 07:44:12 GMT | Penetration Test Write-Up: TryHackMe Relevant Room | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/c9d4aa9c0568) |
-| Wed, 04 Jun 2025 07:35:43 GMT | How fast can I recover my stolen Bitcoin wallet? | Crypto Universal | [Read More](https://medium.com/p/44ce515fa1db) |
-| Wed, 04 Jun 2025 07:29:58 GMT | Securing Remote Work: The Essential Guide to Mobile Device Management | Lokesh Baskar | [Read More](https://medium.com/p/1a10f08e0fed) |
-| Wed, 04 Jun 2025 07:29:55 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/191fecf1460f) |
-| Wed, 04 Jun 2025 07:29:32 GMT | The Daily Tech Digest: 04 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/daf1a8cf3ba1) |
-| Wed, 04 Jun 2025 07:27:31 GMT | Rethinking Military Spending: Are Expensive Jet Fighters Still Worth It in the Age of Drones and… | Michel A. de Kemmeter - Kairos -Extrapreneurs CofB | [Read More](https://medium.com/p/c764e6dea104) |
-| Wed, 04 Jun 2025 07:26:34 GMT | What Can I Do to Get My Money Back From a Fake Bitcoin Business? | Crypto Universal | [Read More](https://medium.com/p/3dd17c89d0cb) |
-| Wed, 04 Jun 2025 07:24:09 GMT | Backup Is Not Resilience: Lessons from the OVHcloud Fire and the Bâti Courtage Case | Pierre Schroth | [Read More](https://medium.com/p/2ec74a78b2e9) |
