@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 04:23:08 GMT | What I Learned from Simulating a Cyber Attack Dashboard | Syeda Zainab | [Read More](https://medium.com/p/7abb5a6e647b) |
+| Wed, 04 Jun 2025 04:22:18 GMT | Handling High Traffic: Load Balancing and Caching | Kamalmeet Singh | [Read More](https://medium.com/p/c5644b6e7a85) |
+| Wed, 04 Jun 2025 04:21:21 GMT | DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks | Bash Overflow | [Read More](https://medium.com/p/fc312eaa48c2) |
+| Wed, 04 Jun 2025 04:19:19 GMT | SC-200 - MS Security Operations Analyst illustrative notes | K O M A L | [Read More](https://medium.com/p/4473d5750e99) |
+| Wed, 04 Jun 2025 04:18:22 GMT | How Did I Hack a Website Just by Reading JS Files | Ibtissam hammadi | [Read More](https://medium.com/p/80f73cbfd4c1) |
+| Wed, 04 Jun 2025 04:11:17 GMT | Pentest Checklist✅ | twinkle | [Read More](https://medium.com/p/a7d7a11ff9d4) |
+| Wed, 04 Jun 2025 04:09:54 GMT | How to Choose Cybersecurity Software That Fights Back. | Webtrills | [Read More](https://medium.com/p/7bbdc9d2b4e7) |
+| Wed, 04 Jun 2025 03:58:09 GMT | API Security in Microservices: Zero Trust Architecture Implementation | Rizqi Mulki | [Read More](https://medium.com/p/143ded21e52e) |
 | Wed, 04 Jun 2025 03:52:30 GMT | The Future of Cybersecurity: Trends to Watch in Network Protection | Seonaissac | [Read More](https://medium.com/p/ed54cefee5de) |
 | Wed, 04 Jun 2025 03:40:57 GMT | OWASP Top 10 — | Badal kathayat | [Read More](https://medium.com/p/f9462ba19f45) |
 | Wed, 04 Jun 2025 03:32:30 GMT | Xposed: Breaking Down the 400GB X Platform Data Leak | Deven Chhajed | [Read More](https://medium.com/p/752aca8f2574) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 16:54:43 GMT | Another Day, Another Resume | Swethaboddu | [Read More](https://medium.com/p/13f4c23eb15e) |
 | Tue, 03 Jun 2025 16:50:20 GMT | the hidden secret to hacking most bugbounty hunters don’t want you to know : the wayback url | Ekene Joseph | [Read More](https://medium.com/p/c0ce1a27bc03) |
 | Tue, 03 Jun 2025 16:40:03 GMT | What Is CREST Penetration Testing? Benefits & Importance | Qualysectechnologies | [Read More](https://medium.com/p/bff51e4937f9) |
-| Tue, 03 Jun 2025 16:37:44 GMT | Day 17 of #60DaysofGRC: What’s the Difference Between a PIA and a DPIA (and When Do You Need One)? | Brittney Ginther | [Read More](https://medium.com/p/fe2731b921ca) |
-| Tue, 03 Jun 2025 16:36:18 GMT | What Hackers Know About You — and You Don’t | The Code Journals | [Read More](https://medium.com/p/47012d5b4e6b) |
-| Tue, 03 Jun 2025 16:30:30 GMT | Metasploit: Introduction - THM | Isiah | [Read More](https://medium.com/p/7340bdac5433) |
-| Tue, 03 Jun 2025 16:26:17 GMT | Purple Teaming: When Hackers and Defenders Join Forces | zerOiQ | [Read More](https://medium.com/p/fee825f60de6) |
-| Tue, 03 Jun 2025 16:23:57 GMT | OAuth 2.0 & OpenID Connect: Advanced Guide to Flows, Flaws & Fixes | Shxdowz | [Read More](https://medium.com/p/dea389cf6183) |
-| Tue, 03 Jun 2025 16:21:34 GMT | How to Create TLS Certificates with mkcert and Integrate Them with Spring Boot, Node.js, and Go | Koushik | [Read More](https://medium.com/p/ea3848f72341) |
-| Tue, 03 Jun 2025 16:16:00 GMT | I Lost $100K in a Fake Real Estate Deal — DRI Helped Me Get It Back by [Resse] | Amstel Resse | [Read More](https://medium.com/p/e80440d50557) |
-| Tue, 03 Jun 2025 16:05:27 GMT | Understanding Host Header Attacks: How a Small Header Can Lead to Major Vulnerabilities | Ud4y | [Read More](https://medium.com/p/0a123d2b47e3) |
