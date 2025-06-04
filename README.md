@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 09:34:03 GMT | Optimizing Cloud Infrastructure: Key Techniques for Cost Efficiency and Performance | IPSpecialist | [Read More](https://medium.com/p/5c4e6b1c2774) |
+| Wed, 04 Jun 2025 09:23:10 GMT | Compliance as a Service (CaaS) | StrongBox IT | [Read More](https://medium.com/p/a7e1c801adaa) |
+| Wed, 04 Jun 2025 09:21:50 GMT | Github analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/17a829c6c2e8) |
+| Wed, 04 Jun 2025 09:16:19 GMT | I Finally Said ‘I Need Help’ and It Was Terrifying — and Liberating | Brian Rosta | [Read More](https://medium.com/p/4f7386642a87) |
 | Wed, 04 Jun 2025 09:15:48 GMT | Track the Hacks: USB Forensics in Physical Access Breach — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/1814e0e209bd) |
 | Wed, 04 Jun 2025 09:11:33 GMT | Amazon CloudWatch | Arijit Naskar | [Read More](https://medium.com/p/2d2c4f5c8961) |
 | Wed, 04 Jun 2025 09:11:14 GMT | Adapt Digital Solutions — Contractor-Focused Digital Marketing Experts | Evelynharper | [Read More](https://medium.com/p/10b625276d64) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 02:26:47 GMT | A Beginner’s Guide to OWASP Top 10 | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/9f4d201c6191) |
 | Wed, 04 Jun 2025 02:21:53 GMT | A Beginner’s Guide to OWASP Top 10 | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/1688e990a4e1) |
 | Wed, 04 Jun 2025 02:19:27 GMT | Your Firewall Won’t See This Coming: How AI-Powered Phishing Is Morphing Faster Than Your Team Can… | Biswajeet Poddar | [Read More](https://medium.com/p/d9b44df001e6) |
-| Wed, 04 Jun 2025 02:13:52 GMT | Chain of Custody: Locking Down Truth in the Digital Realm | Dzulfiqar Ali Rasyid | [Read More](https://medium.com/p/e3996e4c509f) |
-| Wed, 04 Jun 2025 02:11:48 GMT | Earn Passive Income with Curvance $CVE Yield Farming | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/56463f7a6cb6) |
-| Wed, 04 Jun 2025 02:04:48 GMT | MikroTik Winbox Brute Force Tool: Memahami Risiko dan Cara Melindungi Router Anda | RootKitty7 | [Read More](https://medium.com/p/f6ca3b88debb) |
-| Wed, 04 Jun 2025 01:46:16 GMT | Identifying the AWS Account ID from a Public S3 Bucket (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/0f93e538e731) |
