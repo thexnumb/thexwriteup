@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 21:15:32 GMT | Key Data Roles in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/ecad294adbde) |
+| Wed, 04 Jun 2025 21:08:30 GMT | Tech is Evolving — Are You Keeping Up? | Virtus Solutions | [Read More](https://medium.com/p/52b69fcef3b2) |
+| Wed, 04 Jun 2025 21:04:44 GMT | How Can You Earn $9,860 Bug Bounty Hunting Ethically | Ibtissam hammadi | [Read More](https://medium.com/p/b2457b2e3dae) |
+| Wed, 04 Jun 2025 21:03:17 GMT | I Was a Speaker at HashiDays London Conference | Andrew Blooman | [Read More](https://medium.com/p/8cfc6b5f9015) |
+| Wed, 04 Jun 2025 21:02:08 GMT | Security Vulnerability in Google Chat’s Absolute Poll Allows Unauthorized Poll Closure | Ahmed Nasr | [Read More](https://medium.com/p/7abcaf94197e) |
+| Wed, 04 Jun 2025 20:38:00 GMT | Gaining Shell Access -- Active Directory Pentesting -- ms17_010_psexec -- Kali Linux -- MetaSploit… | Muhammadhuzaifa | [Read More](https://medium.com/p/b1f12fa58a17) |
 | Wed, 04 Jun 2025 20:26:33 GMT | Building a Home Lab SIEM: From Simple Honeypot to Complex Project | Samuel Damon | [Read More](https://medium.com/p/4ffd8e28f2ad) |
 | Wed, 04 Jun 2025 20:04:50 GMT | Cybersecurity by the Golden Mean: Aristotle’s Wisdom for Modern Security Design | Entropy of the Observer | [Read More](https://medium.com/p/51f4946df2f0) |
 | Wed, 04 Jun 2025 20:01:49 GMT | Here’s How I Recover My Money From Maunto? | Haven | [Read More](https://medium.com/p/3742f738e2a7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 14:56:19 GMT | Fixing Outdated VC++ Redistributables at Scale — A Simple Intune Detection & Remediation… | Luispuello | [Read More](https://medium.com/p/7b7e12cbcc12) |
 | Wed, 04 Jun 2025 14:55:24 GMT | Fortifying Your Android Apps: The Unsung Hero of Stack Canaries | Dhyan Sagar | [Read More](https://medium.com/p/b8a668e54c78) |
 | Wed, 04 Jun 2025 14:42:06 GMT | Bypassing Watermark Implementations | Kulkan Security | [Read More](https://medium.com/p/fe39e98ca22b) |
-| Wed, 04 Jun 2025 14:38:10 GMT | Hacking Mr Robot (CTF Walkthrough) | Calvaryhasarrived | [Read More](https://medium.com/p/44584424654d) |
-| Wed, 04 Jun 2025 14:36:23 GMT | Nighttime Patrol Robotics | Presslink Media | [Read More](https://medium.com/p/d20b982c701d) |
-| Wed, 04 Jun 2025 14:33:19 GMT | Achieve NIS2 Compliance with Confidence | Tushar Openiam | [Read More](https://medium.com/p/9be6e071488f) |
-| Wed, 04 Jun 2025 14:30:03 GMT | Cybersecurity statistics about APTs, infostealers, and quantum computing from May 2025 | CyberSecStats | [Read More](https://medium.com/p/a56e3fa70249) |
-| Wed, 04 Jun 2025 14:26:18 GMT | THM - Flag Vault 2 | Francesco Pastore | [Read More](https://medium.com/p/322c8403d570) |
-| Wed, 04 Jun 2025 14:25:17 GMT | Weaponizing XSS for Maximum Impact | ryuku_dz | [Read More](https://medium.com/p/0aa84b17ad60) |
