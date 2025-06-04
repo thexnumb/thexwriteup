@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 15:53:03 GMT | Brute-Forcing in DVWA: Step-by-Step Vulnerability Exploitation Walkthrough | Norbert Ephraim | [Read More](https://medium.com/p/10cabe386ef6) |
+| Wed, 04 Jun 2025 15:52:03 GMT | Network Security Audit: Ensuring a Resilient Infrastructure | SafeAeon Inc. | [Read More](https://medium.com/p/b65f8100a136) |
+| Wed, 04 Jun 2025 15:39:52 GMT | What are SSH keys, and where do we need them? | Akshay khale | [Read More](https://medium.com/p/0cc21f043ba3) |
+| Wed, 04 Jun 2025 15:32:37 GMT | Cracking the Code: A Pen Tester’s Dive into June 2025’s Cybersecurity Mayhem | hackerguy7 | [Read More](https://medium.com/p/41ec9d5964f3) |
+| Wed, 04 Jun 2025 15:32:21 GMT | COPPA Compliance: Top 5 Website Security Tips for Kids | Feroot Security | [Read More](https://medium.com/p/e45062a42ae2) |
+| Wed, 04 Jun 2025 15:23:21 GMT | The Great Digital Vanishing Act: How the Internet Trained Itself to Forget on Purpose | Christian Baghai | [Read More](https://medium.com/p/9020abbb846a) |
+| Wed, 04 Jun 2025 15:22:06 GMT | What you should know about Crocodilus android trojan | TheReviewHive | [Read More](https://medium.com/p/c7799098c18c) |
+| Wed, 04 Jun 2025 15:21:49 GMT | Memahami ICS/SCADA dan Lanskap Ancaman Siber: Panduan untuk Keamanan Siber | Bimo Yudistira | [Read More](https://medium.com/p/c1f1d5e54446) |
+| Wed, 04 Jun 2025 15:20:27 GMT | 30 Days of Cyber Security — Day 9: Apa Itu ICS/SCADA dan Serangannya | Indra Rahmat Maulidi | [Read More](https://medium.com/p/8caddd2b1fcd) |
+| Wed, 04 Jun 2025 15:20:19 GMT | The Invisible War: Understanding Cybersecurity from a Layman’s Lens | Richard Dosumu | [Read More](https://medium.com/p/64805ea32c79) |
+| Wed, 04 Jun 2025 15:18:55 GMT | How I Cracked the eCIR Exam: Strategy, Tools & Lessons Learned | Mohamedahmed | [Read More](https://medium.com/p/5667cc08b24a) |
+| Wed, 04 Jun 2025 15:18:22 GMT | Wireshark 101: Cara Kerja Si ‘Telinga’ Jaringan | LunarX | [Read More](https://medium.com/p/33fa808eef1f) |
+| Wed, 04 Jun 2025 15:16:57 GMT | Secure Your Home with the Arlo Video Doorbell 2K: A 2025 Game-Changer | Antz | [Read More](https://medium.com/p/81c671509542) |
+| Wed, 04 Jun 2025 15:15:49 GMT | What is Flipper Zero? | Vijay Kumar Gupta | [Read More](https://medium.com/p/e1607d2c1787) |
+| Wed, 04 Jun 2025 15:13:55 GMT | Hacking the Headlines: A Pen Tester’s Take on June 2025 Cybersecurity Chaos | hackerguyusa1 | [Read More](https://medium.com/p/db3e3017bfa8) |
+| Wed, 04 Jun 2025 15:12:13 GMT | The First Ever Full Time IT Job | Loose Junk | [Read More](https://medium.com/p/64d38432fc5f) |
+| Wed, 04 Jun 2025 15:10:36 GMT | TRITON — Cyber Sabotage in the Age of Industrial Control | AjiPangesstu | [Read More](https://medium.com/p/6cf42d908dfc) |
 | Wed, 04 Jun 2025 14:56:19 GMT | Fixing Outdated VC++ Redistributables at Scale — A Simple Intune Detection & Remediation… | Luispuello | [Read More](https://medium.com/p/7b7e12cbcc12) |
 | Wed, 04 Jun 2025 14:55:24 GMT | Fortifying Your Android Apps: The Unsung Hero of Stack Canaries | Dhyan Sagar | [Read More](https://medium.com/p/b8a668e54c78) |
 | Wed, 04 Jun 2025 14:42:06 GMT | Bypassing Watermark Implementations | Kulkan Security | [Read More](https://medium.com/p/fe39e98ca22b) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 09:58:25 GMT | The AI Cybersecurity Revolution: Why Traditional Security Isn’t Enough in 2025 | Paul Sherman | [Read More](https://medium.com/p/53d899e53fce) |
 | Wed, 04 Jun 2025 09:51:52 GMT | Day 26 — Access Management (RBAC) in Snowflake with Practical Scenario | Alok Rahul | [Read More](https://medium.com/p/63093e4f5977) |
 | Wed, 04 Jun 2025 09:46:55 GMT | Atomic Red Team Setup on Windows for ATT&CK-Based Adversary Simulation | Nipun Negi | [Read More](https://medium.com/p/ef37e1b0acec) |
-| Wed, 04 Jun 2025 09:38:42 GMT | Server-Side Template Injection: When Your Templates Go Rogue | Rageeth | [Read More](https://medium.com/p/27f055ed2802) |
-| Wed, 04 Jun 2025 09:34:03 GMT | Optimizing Cloud Infrastructure: Key Techniques for Cost Efficiency and Performance | IPSpecialist | [Read More](https://medium.com/p/5c4e6b1c2774) |
-| Wed, 04 Jun 2025 09:23:10 GMT | Compliance as a Service (CaaS) | StrongBox IT | [Read More](https://medium.com/p/a7e1c801adaa) |
-| Wed, 04 Jun 2025 09:21:50 GMT | Github analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/17a829c6c2e8) |
-| Wed, 04 Jun 2025 09:16:19 GMT | I Finally Said ‘I Need Help’ and It Was Terrifying — and Liberating | Brian Rosta | [Read More](https://medium.com/p/4f7386642a87) |
-| Wed, 04 Jun 2025 09:15:48 GMT | Track the Hacks: USB Forensics in Physical Access Breach — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/1814e0e209bd) |
-| Wed, 04 Jun 2025 09:11:33 GMT | Amazon CloudWatch | Arijit Naskar | [Read More](https://medium.com/p/2d2c4f5c8961) |
-| Wed, 04 Jun 2025 09:11:14 GMT | Adapt Digital Solutions — Contractor-Focused Digital Marketing Experts | Evelynharper | [Read More](https://medium.com/p/10b625276d64) |
-| Wed, 04 Jun 2025 09:09:11 GMT | Building an Intelligence-Driven Security Operations Center (SOC) | HONKONE | [Read More](https://medium.com/p/b724ec336ebf) |
-| Wed, 04 Jun 2025 09:02:31 GMT | GRC Myths | Harry West | [Read More](https://medium.com/p/122974a91e39) |
-| Wed, 04 Jun 2025 08:57:51 GMT | Global Trends Shaping the Managed Security Services Market in 2025 and Beyond | Gargiben | [Read More](https://medium.com/p/b6f44a47e412) |
-| Wed, 04 Jun 2025 08:53:53 GMT | Shodan Dorks to Find PII Data & Leaks | It4chis3c | [Read More](https://medium.com/p/50ab8b101f61) |
-| Wed, 04 Jun 2025 08:45:16 GMT | Exploitasi BilluBox 2 Hingga ke Privilege Escalation | Wahyu Nufal Azmi | [Read More](https://medium.com/p/0951e535052c) |
-| Wed, 04 Jun 2025 08:43:32 GMT | Cybersecurity Monitoring Services: Ultimate Guide to 24/7 Protection | SecureSlate | [Read More](https://medium.com/p/b34a90734e26) |
-| Wed, 04 Jun 2025 08:39:10 GMT | The Gift of the Night | Darian Calvarion | [Read More](https://medium.com/p/86bc568bdfad) |
-| Wed, 04 Jun 2025 08:30:40 GMT | ประจำวันพุธที่ 4 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/fc2a0cd0cc46) |
-| Wed, 04 Jun 2025 08:27:32 GMT | BLOCKCHAIN IN CYBERSECURITY: BENEFITS, RISKS, AND REAL-WORLD APPLICATIONS: | Writersania | [Read More](https://medium.com/p/7ad6f3e40719) |
