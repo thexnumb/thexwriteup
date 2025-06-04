@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 19:25:41 GMT | Can I Be Vulnerable? | Suomii - Intuitive Artist | [Read More](https://medium.com/p/780a59997b10) |
+| Wed, 04 Jun 2025 19:20:41 GMT | Voice Phishing and Data Extortion in the Salesforce Cloud | Chetan Seripally | [Read More](https://medium.com/p/829c58f7703d) |
+| Wed, 04 Jun 2025 19:19:39 GMT | Crypto Hackers Just Flipped the Script: $2.1B Stolen in 2025 | CoinGen | [Read More](https://medium.com/p/bfd470217a2e) |
 | Wed, 04 Jun 2025 19:15:44 GMT | Using KQL to Uncover a Phishing Attack in KC7’s ‘A Rap Beef’ | The Decryptionist (AMS) | [Read More](https://medium.com/p/2d4c9d5250be) |
 | Wed, 04 Jun 2025 19:07:11 GMT | Temporary Driver Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/34add0cda42e) |
 | Wed, 04 Jun 2025 18:58:45 GMT | My Experience with Phoenix and Mesa Police Overreach —  A Medical Marijuana Patient’s Story | JJ | [Read More](https://medium.com/p/05ecab09d6fd) |
+| Wed, 04 Jun 2025 18:56:53 GMT | La batalla entre las aplicaciones de mensajería instantánea: ¿Cuál es la mejor opción? | Tiziano Mass | [Read More](https://medium.com/p/868c8a169737) |
 | Wed, 04 Jun 2025 18:54:01 GMT | Seeking Safety | Dr. Kimberly Anne McKenzie-Klemm | [Read More](https://medium.com/p/c3d3d979eb41) |
 | Wed, 04 Jun 2025 18:45:24 GMT | Learn About Different Types Of Hacking, Including Penetration Testing, Social Engineering, And… | Cool Projects | [Read More](https://medium.com/p/2be9962fb9b1) |
 | Wed, 04 Jun 2025 18:40:55 GMT | How to prepare for eCIR Exam | Gehad Safwat | [Read More](https://medium.com/p/571095a3d226) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 13:58:14 GMT | Cyber Briefing: 2025.06.04 | CyberMaterial | [Read More](https://medium.com/p/8a5edf33a8aa) |
 | Wed, 04 Jun 2025 13:55:14 GMT | Lab 24 — Using ARP command for network reconnaissance | Hassen Hannachi | [Read More](https://medium.com/p/d85086712c60) |
 | Wed, 04 Jun 2025 13:54:13 GMT | Why Healthcare Is Now a Top Target for Ransomware Groups | Cybersecurity Umbrella | [Read More](https://medium.com/p/a0f3df3146a1) |
-| Wed, 04 Jun 2025 13:54:02 GMT | How to Choose the Best WiFi Adapter for Kali Linux (For Ethical Hacking & Home Security) | Kambetastephano | [Read More](https://medium.com/p/bb9a4d2905ce) |
-| Wed, 04 Jun 2025 13:52:48 GMT | Advanced Remote Code Execution with Raspberry Pi Pico W: A New Frontier in AI-Powered Cybersecurity | Kabil Preetham K | [Read More](https://medium.com/p/acc3f9f4eeae) |
-| Wed, 04 Jun 2025 13:52:21 GMT | Modern Security Vulnerabilities: Lessons from Recent Breaches | Jeremy Rivera | [Read More](https://medium.com/p/e96bc1b41951) |
-| Wed, 04 Jun 2025 13:46:00 GMT | THC Hydra: Your Gateway to Network Service Security Audits | Krishdograa | [Read More](https://medium.com/p/4a1384d6a447) |
