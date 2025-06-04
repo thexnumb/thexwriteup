@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 21:55:12 GMT | Massive Data Breach Exposes Apple ID Logins: Why Post-Quantum Cryptography Must Start Now | QuantumGenie | [Read More](https://medium.com/p/07e691bf0e73) |
+| Wed, 04 Jun 2025 21:48:50 GMT | Arka Plandaki Kurye: MSMQ ve Modern Mesaj Kuyrukları? SOC Uzmanı Yaklaşımı? | Tayfun Karaca | [Read More](https://medium.com/p/e7d608cc6904) |
+| Wed, 04 Jun 2025 21:42:48 GMT | I Am Just a Girl Who Loves Words | Soulful Scribbles | [Read More](https://medium.com/p/72985caaeb93) |
+| Wed, 04 Jun 2025 21:37:34 GMT | Free Gift? Suspicious Link? Must Be a Smish-terious Message | Alsabah Afshi | [Read More](https://medium.com/p/8620cf5d8b7f) |
+| Wed, 04 Jun 2025 21:37:15 GMT | Security Baseline: A Foundation for Stronger Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/9f583bc2cb82) |
 | Wed, 04 Jun 2025 21:31:55 GMT | June 3rd: A Secret You’ve Never Told Anyone | Anneka Adams | [Read More](https://medium.com/p/547bc65af14e) |
 | Wed, 04 Jun 2025 21:23:28 GMT | Cyber-Resilience in Border Control & Smart Immigration Systems | A-STAR7_DOCTOR | [Read More](https://medium.com/p/fdeecdde0343) |
 | Wed, 04 Jun 2025 21:15:32 GMT | Key Data Roles in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/ecad294adbde) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 15:20:27 GMT | 30 Days of Cyber Security — Day 9: Apa Itu ICS/SCADA dan Serangannya | Indra Rahmat Maulidi | [Read More](https://medium.com/p/8caddd2b1fcd) |
 | Wed, 04 Jun 2025 15:20:19 GMT | The Invisible War: Understanding Cybersecurity from a Layman’s Lens | Richard Dosumu | [Read More](https://medium.com/p/64805ea32c79) |
 | Wed, 04 Jun 2025 15:18:55 GMT | How I Cracked the eCIR Exam: Strategy, Tools & Lessons Learned | Mohamedahmed | [Read More](https://medium.com/p/5667cc08b24a) |
-| Wed, 04 Jun 2025 15:18:22 GMT | Wireshark 101: Cara Kerja Si ‘Telinga’ Jaringan | LunarX | [Read More](https://medium.com/p/33fa808eef1f) |
-| Wed, 04 Jun 2025 15:16:57 GMT | Secure Your Home with the Arlo Video Doorbell 2K: A 2025 Game-Changer | Antz | [Read More](https://medium.com/p/81c671509542) |
-| Wed, 04 Jun 2025 15:15:49 GMT | What is Flipper Zero? | Vijay Kumar Gupta | [Read More](https://medium.com/p/e1607d2c1787) |
-| Wed, 04 Jun 2025 15:13:55 GMT | Hacking the Headlines: A Pen Tester’s Take on June 2025 Cybersecurity Chaos | hackerguyusa1 | [Read More](https://medium.com/p/db3e3017bfa8) |
-| Wed, 04 Jun 2025 15:12:13 GMT | The First Ever Full Time IT Job | Loose Junk | [Read More](https://medium.com/p/64d38432fc5f) |
