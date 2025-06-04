@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 17:11:03 GMT | Living Off The Land: Why Our Security Theater Is Missing the Real Show | Eric Zietlow | [Read More](https://medium.com/p/5780329d2e61) |
+| Wed, 04 Jun 2025 17:05:40 GMT | How to Set Up MobSF with Docker on Kali Linux for Mobile App Penetration Testing | C. Oscar Lawshea | [Read More](https://medium.com/p/7c95df27e200) |
+| Wed, 04 Jun 2025 17:04:33 GMT | FormBook JavaScript Malware Analysis | AceS Cyber Security | [Read More](https://medium.com/p/098c37137189) |
+| Wed, 04 Jun 2025 17:03:41 GMT | High-Level Overview of Windows architecture | Tvrpism | [Read More](https://medium.com/p/b64e8995a309) |
 | Wed, 04 Jun 2025 16:42:38 GMT | TryHackMe - JWT Security - WriteUp | Axoloth | [Read More](https://medium.com/p/c7d0c39c9b95) |
 | Wed, 04 Jun 2025 16:35:01 GMT | How to Use PyPhisher in Termux: Simple and Safe Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/1129443ea48b) |
 | Wed, 04 Jun 2025 16:33:46 GMT | Uncovering Business Logic Vulnerabilities: A Real-World Case Study | Nishanthan | [Read More](https://medium.com/p/18bfbdae46b3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 11:25:04 GMT | Critical HPE StoreOnce Vulnerability Fixed: What You Need to Know | Navigtech | [Read More](https://medium.com/p/62b75c0e5cd5) |
 | Wed, 04 Jun 2025 11:25:03 GMT | What is a cloud transformation security service? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/e361109613e0) |
 | Wed, 04 Jun 2025 11:25:02 GMT | Why Background Checks Are a Business Essential in 2024 | Mariiatata | [Read More](https://medium.com/p/6ff447a7ffb4) |
-| Wed, 04 Jun 2025 11:18:52 GMT | Cyber Clout Chasers: Bending the truth. | QhcyberhQ | [Read More](https://medium.com/p/2d7368565831) |
-| Wed, 04 Jun 2025 11:18:04 GMT | Siber Güvenliğe Giriş — 5 (SİBER GÜVENLİK EĞİTİMİNE BAŞLAMADAN ÖNCE BİLİNMESİ GEREKEN TERİM VE… | Emre TOPUZ | [Read More](https://medium.com/p/71e3c5b43371) |
-| Wed, 04 Jun 2025 11:16:59 GMT | How a Single Security Gap Can ruin an Entire Healthcare Ecosystem | OptiSol Business Solutions | [Read More](https://medium.com/p/709b188d6cd9) |
-| Wed, 04 Jun 2025 11:13:10 GMT | The Death of Passwords | Tech Club DPSRPK | [Read More](https://medium.com/p/d565093cace9) |
