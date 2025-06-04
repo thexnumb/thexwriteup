@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 01:27:06 GMT | Looting Public EBS Snapshots (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/ec1732d5cf89) |
+| Wed, 04 Jun 2025 01:25:18 GMT | Defining Your Protect Surface | Rob Forbes | [Read More](https://medium.com/p/789b52b1e5e7) |
+| Wed, 04 Jun 2025 01:23:50 GMT | Whose Risk Is It Anyway? The Silent Blind Spot in Most Organizations | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/97d6e1923c53) |
+| Wed, 04 Jun 2025 01:16:34 GMT | CryptoBreaker | EdCho | [Read More](https://medium.com/p/a76b9dc7c98c) |
+| Wed, 04 Jun 2025 01:15:17 GMT | Mastering Nmap: A Deep Dive into Network Scanning Techniques — Part 1 | Seshu | [Read More](https://medium.com/p/ed2aec2ea1c1) |
+| Wed, 04 Jun 2025 00:56:39 GMT | ThreatLens: Building a Real-World Threat Intelligence Dashboard with Python & Flask | Teshera Kimbrough | [Read More](https://medium.com/p/a73dcd1de586) |
+| Wed, 04 Jun 2025 00:43:41 GMT | ACRTP: Hunting for Secrets in Git Repos | Makayla Ferrell | [Read More](https://medium.com/p/b31d8e635d07) |
+| Wed, 04 Jun 2025 00:40:32 GMT | How Can Dart Developers Secure API Keys in Apps? | Ilja | [Read More](https://medium.com/p/06e8740cac0f) |
+| Tue, 03 Jun 2025 23:57:19 GMT | CIOs Under Pressure: 5 Challenges to Tackle in 2025 | Eddy AZEBAZE | [Read More](https://medium.com/p/14a7fa9fa0c8) |
+| Tue, 03 Jun 2025 23:38:19 GMT | Log 04: Operating Systems- Part I | Apurva Cybersecurity | [Read More](https://medium.com/p/3d9855d7d681) |
 | Tue, 03 Jun 2025 23:29:22 GMT | LexisNexis breach exposed over 364,000 Americans. | mePrism Privacy | [Read More](https://medium.com/p/82bbb258480a) |
 | Tue, 03 Jun 2025 22:59:48 GMT | Bankers Association’s attack on cybersecurity transparency | Matthew.Rosenquist | [Read More](https://medium.com/p/24cc4ee5fa55) |
 | Tue, 03 Jun 2025 22:54:11 GMT | What If Your Code Isn’t as Safe as You Think? | Cyber-AppSec | [Read More](https://medium.com/p/9fb44fae8641) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 15:19:24 GMT | IT Audit Security Company: Safeguarding Your Systems Through Expert Evaluation | SafeAeon Inc. | [Read More](https://medium.com/p/89a48e1c087a) |
 | Tue, 03 Jun 2025 15:03:50 GMT | I Built an MCP Server for XSS Testing — Here’s What Happened | 0xTrk | [Read More](https://medium.com/p/1c097e79eb8d) |
 | Tue, 03 Jun 2025 14:59:29 GMT | 30 Most Used KQl Commands | Saikat Paul | [Read More](https://medium.com/p/426529daead8) |
-| Tue, 03 Jun 2025 14:58:50 GMT | Stop Flying Blind in Salesforce! Master Health Check in 20 Minutes | Mani | [Read More](https://medium.com/p/007da177adb3) |
-| Tue, 03 Jun 2025 14:45:02 GMT | The Great Cyber Heist: A Tale of Hackers, Insiders, and Lessons in Cybersecurity | Vijay Kumar Gupta | [Read More](https://medium.com/p/efe52019fdfe) |
-| Tue, 03 Jun 2025 14:32:53 GMT | Roboter in der Grenzsicherung | Presslink Media | [Read More](https://medium.com/p/38aef1357529) |
-| Tue, 03 Jun 2025 14:30:12 GMT | Artificial Intelligence seems fascinating; until it isn't! | Manoj Kumar | [Read More](https://medium.com/p/82aff662984a) |
-| Tue, 03 Jun 2025 14:28:15 GMT | Issue 31: Vigilant | Access Insurance | [Read More](https://medium.com/p/5f0e44946447) |
-| Tue, 03 Jun 2025 14:26:33 GMT | Shelly — Serve and Execute ShellCode over the wire | Sayan Ray | [Read More](https://medium.com/p/8e8a98416831) |
-| Tue, 03 Jun 2025 14:23:39 GMT | The Rise of the High Flatness Silicon Wafer Market: Trends, Growth, and Future Outlook to 2033 | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/9631baac9907) |
-| Tue, 03 Jun 2025 14:20:42 GMT | Here’s How I Recover My Money From Nobitex | Rayan grant | [Read More](https://medium.com/p/2dd5d15b3995) |
-| Tue, 03 Jun 2025 14:18:37 GMT | Why Ransomware is a Growing Threat in the UK | Forefront Technology International Inc. | [Read More](https://medium.com/p/171798524756) |
-| Tue, 03 Jun 2025 14:11:31 GMT | Why You Loved More Fearlessly as a Child (And How to Get It Back) | Sarah Knight | [Read More](https://medium.com/p/a80b0023c3d3) |
