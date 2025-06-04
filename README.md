@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 17:32:03 GMT | Day 53: Mastering User Input & Conditionals in Bash Scripting | Agarwaldaksh | [Read More](https://medium.com/p/213e12472bf1) |
+| Wed, 04 Jun 2025 17:27:47 GMT | Mobile Device Forensics: Unlocking Digital Evidence in Your Pocket | David Ramovich Mandal | [Read More](https://medium.com/p/b3ba4ff94e8f) |
+| Wed, 04 Jun 2025 17:24:31 GMT | ☠️ CORS of Destruction: How Misconfigured Origins Let Me Read Everything | Iski | [Read More](https://medium.com/p/15a49261a32a) |
+| Wed, 04 Jun 2025 17:24:28 GMT | How Can I Recover My Money From Fxrevenues? | Doris | [Read More](https://medium.com/p/84f8e640e6ec) |
+| Wed, 04 Jun 2025 17:22:29 GMT | I Investigated Australia’s New Ransomware Payment Rule — Here’s What I Learned | LazyHacker | [Read More](https://medium.com/p/57f748a29daf) |
+| Wed, 04 Jun 2025 17:19:53 GMT | Chasing Shadows in Cyberspace: Who is the Threat Actor Behind? | Serdar Gumus | [Read More](https://medium.com/p/f4fcf95280e2) |
 | Wed, 04 Jun 2025 17:11:03 GMT | Living Off The Land: Why Our Security Theater Is Missing the Real Show | Eric Zietlow | [Read More](https://medium.com/p/5780329d2e61) |
 | Wed, 04 Jun 2025 17:05:40 GMT | How to Set Up MobSF with Docker on Kali Linux for Mobile App Penetration Testing | C. Oscar Lawshea | [Read More](https://medium.com/p/7c95df27e200) |
 | Wed, 04 Jun 2025 17:04:33 GMT | FormBook JavaScript Malware Analysis | AceS Cyber Security | [Read More](https://medium.com/p/098c37137189) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 11:47:43 GMT | Same Origin Policy (SOP) Uncovered: What It Is and Why It Matters | Natarajan C K | [Read More](https://medium.com/p/60fed31e3c65) |
 | Wed, 04 Jun 2025 11:46:01 GMT | Addressing the Risks Uncovered by an Application Vulnerability Scan | SecDesk | [Read More](https://medium.com/p/839ee6882947) |
 | Wed, 04 Jun 2025 11:42:22 GMT | Server-Side Template Injection (SSTI): A Complete Beginner’s Guide | Victor Kipkemboi | [Read More](https://medium.com/p/55f4a6bd9294) |
-| Wed, 04 Jun 2025 11:39:36 GMT | Earn More with $BUGS on StakingRewards | $BUGS Bugs Bunny Community Rewards | [Read More](https://medium.com/p/9ffb8fe67b15) |
-| Wed, 04 Jun 2025 11:38:53 GMT | My Experience with Infisical — A Potential Scamming Program | Saddamzzz | [Read More](https://medium.com/p/d6fc2a487694) |
-| Wed, 04 Jun 2025 11:38:45 GMT | How CryptoDonut Keeps Every Donation in Your Hands | Crypto Donut | [Read More](https://medium.com/p/5282eb7e92ed) |
-| Wed, 04 Jun 2025 11:25:04 GMT | Critical HPE StoreOnce Vulnerability Fixed: What You Need to Know | Navigtech | [Read More](https://medium.com/p/62b75c0e5cd5) |
-| Wed, 04 Jun 2025 11:25:03 GMT | What is a cloud transformation security service? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/e361109613e0) |
-| Wed, 04 Jun 2025 11:25:02 GMT | Why Background Checks Are a Business Essential in 2024 | Mariiatata | [Read More](https://medium.com/p/6ff447a7ffb4) |
