@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 05:15:50 GMT | Cybersecurity Awareness Training: How to Educate Employees and Protect Your Business | Kambetastephano | [Read More](https://medium.com/p/71095644587d) |
+| Wed, 04 Jun 2025 05:07:56 GMT | LetsDefend — Poseidon macOS Stealer (Hard) |  | [Read More](https://medium.com/p/a796c85d8c72) |
+| Wed, 04 Jun 2025 05:05:34 GMT | AI-Powered Phishing: The Next Frontier in Cyber Attacks | Devi prasad Guda | [Read More](https://medium.com/p/a16830e68fe8) |
+| Wed, 04 Jun 2025 05:03:42 GMT | Generative AI — Friend or Foe in Modern Cybersecurity? | Chaitanya Appani | [Read More](https://medium.com/p/830de7f7abe4) |
+| Wed, 04 Jun 2025 05:02:46 GMT | Google Drops Trust for Chunghwa Telecom and Netlock Certificates in Chrome | Amol Shinde | [Read More](https://medium.com/p/c80341d2e12e) |
+| Wed, 04 Jun 2025 05:02:32 GMT | Building Emotional Intimacy Without Fear | Her Out-of-Office Feelings | [Read More](https://medium.com/p/5217aef4a484) |
+| Wed, 04 Jun 2025 05:02:32 GMT | Google Patches Chrome Zero-Day CVE-2025–5419: What You Need to Know | Easy2Patch | [Read More](https://medium.com/p/19fb486f46ee) |
+| Wed, 04 Jun 2025 04:51:48 GMT | ️ Designing Fortresses in Cyberspace | CyberGRC Simplified | [Read More](https://medium.com/p/1edb9fee3159) |
+| Wed, 04 Jun 2025 04:35:07 GMT | Heir of Squares: Reclaiming My Crown | Savanah Freely | [Read More](https://medium.com/p/940f982db221) |
+| Wed, 04 Jun 2025 04:32:08 GMT | I responsibly reported two critical security vulnerabilities to AiSensy on 24 May 2025. | Adith Suhas sv | [Read More](https://medium.com/p/82a527be61df) |
+| Wed, 04 Jun 2025 04:28:57 GMT | Increased Safety: Oman Deploys Facial Recognition for Public Security | Tekhabeeb | [Read More](https://medium.com/p/1c0912226f38) |
+| Wed, 04 Jun 2025 04:24:55 GMT | How ChainBounty $BOUNTY Yield Farming is Revolutionizing Passive Income | $BOUNTY ChainBounty Community Rewards | [Read More](https://medium.com/p/10c8da49ba11) |
 | Wed, 04 Jun 2025 04:23:08 GMT | What I Learned from Simulating a Cyber Attack Dashboard | Syeda Zainab | [Read More](https://medium.com/p/7abb5a6e647b) |
 | Wed, 04 Jun 2025 04:22:18 GMT | Handling High Traffic: Load Balancing and Caching | Kamalmeet Singh | [Read More](https://medium.com/p/c5644b6e7a85) |
 | Wed, 04 Jun 2025 04:21:21 GMT | DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks | Bash Overflow | [Read More](https://medium.com/p/fc312eaa48c2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 17:32:57 GMT | Malware Development: Reverse Shell Disguised as a PDF | ASTRA Labs | [Read More](https://medium.com/p/985a5150597e) |
 | Tue, 03 Jun 2025 17:32:04 GMT | ESP D2 | Dev | [Read More](https://medium.com/p/b907a5e3e959) |
 | Tue, 03 Jun 2025 17:31:50 GMT | The North Face Data Breach: April 2025 Credential Stuffing Attack Exposes Customer Data | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/74293b1c7686) |
-| Tue, 03 Jun 2025 17:29:57 GMT | How Hackers Help NASA Stay Secure: Inside the NASA VDP | 127.0.0.1 | [Read More](https://medium.com/p/07ec255c46f3) |
-| Tue, 03 Jun 2025 17:24:56 GMT | Security Essentials for Startups on AWS (Without Overengineering) | Svetlozar Kondakov | [Read More](https://medium.com/p/82e49377c9df) |
-| Tue, 03 Jun 2025 17:18:41 GMT | Mastering Nmap: From Beginner to Advanced Scanning Techniques | Mainekdeveloper | [Read More](https://medium.com/p/f0af0fbab37c) |
-| Tue, 03 Jun 2025 17:17:05 GMT | What is Broken Access Control? Explained Simply with Real-Life Examples | P T | [Read More](https://medium.com/p/54f07c39b1eb) |
-| Tue, 03 Jun 2025 17:14:54 GMT | BountyOS: A Powerful OS for Bug Bounty Hunters | Tharindu Damith | [Read More](https://medium.com/p/2c08cb63ef8b) |
-| Tue, 03 Jun 2025 17:11:52 GMT | Ethical Hacking with Burp Suite: Enhancing Web Security | Ekene Joseph | [Read More](https://medium.com/p/181fbd7778b1) |
-| Tue, 03 Jun 2025 17:04:36 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e2a9a49dcb94) |
-| Tue, 03 Jun 2025 17:03:52 GMT | Being a Man in 2025 Means Everyone Expects Everything From You — And Cares About Nothing You Feel | X-Plain | [Read More](https://medium.com/p/21c4cba28ba9) |
-| Tue, 03 Jun 2025 16:56:39 GMT | Part 12 — How I Run My Entire Digital Life on a Raspberry Pi: Unify and Elevate your… | Levente Csikor | [Read More](https://medium.com/p/ff3dd4c89330) |
-| Tue, 03 Jun 2025 16:54:43 GMT | Another Day, Another Resume | Swethaboddu | [Read More](https://medium.com/p/13f4c23eb15e) |
-| Tue, 03 Jun 2025 16:50:20 GMT | the hidden secret to hacking most bugbounty hunters don’t want you to know : the wayback url | Ekene Joseph | [Read More](https://medium.com/p/c0ce1a27bc03) |
-| Tue, 03 Jun 2025 16:40:03 GMT | What Is CREST Penetration Testing? Benefits & Importance | Qualysectechnologies | [Read More](https://medium.com/p/bff51e4937f9) |
