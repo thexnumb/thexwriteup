@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 19:15:44 GMT | Using KQL to Uncover a Phishing Attack in KC7’s ‘A Rap Beef’ | The Decryptionist (AMS) | [Read More](https://medium.com/p/2d4c9d5250be) |
+| Wed, 04 Jun 2025 19:07:11 GMT | Temporary Driver Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/34add0cda42e) |
+| Wed, 04 Jun 2025 18:58:45 GMT | My Experience with Phoenix and Mesa Police Overreach —  A Medical Marijuana Patient’s Story | JJ | [Read More](https://medium.com/p/05ecab09d6fd) |
+| Wed, 04 Jun 2025 18:54:01 GMT | Seeking Safety | Dr. Kimberly Anne McKenzie-Klemm | [Read More](https://medium.com/p/c3d3d979eb41) |
 | Wed, 04 Jun 2025 18:45:24 GMT | Learn About Different Types Of Hacking, Including Penetration Testing, Social Engineering, And… | Cool Projects | [Read More](https://medium.com/p/2be9962fb9b1) |
 | Wed, 04 Jun 2025 18:40:55 GMT | How to prepare for eCIR Exam | Gehad Safwat | [Read More](https://medium.com/p/571095a3d226) |
 | Wed, 04 Jun 2025 18:38:29 GMT | 4 Business Challenges Solved by IT Consulting in Ontario | Zeta Sky | [Read More](https://medium.com/p/8f0e5477b2fd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 13:52:48 GMT | Advanced Remote Code Execution with Raspberry Pi Pico W: A New Frontier in AI-Powered Cybersecurity | Kabil Preetham K | [Read More](https://medium.com/p/acc3f9f4eeae) |
 | Wed, 04 Jun 2025 13:52:21 GMT | Modern Security Vulnerabilities: Lessons from Recent Breaches | Jeremy Rivera | [Read More](https://medium.com/p/e96bc1b41951) |
 | Wed, 04 Jun 2025 13:46:00 GMT | THC Hydra: Your Gateway to Network Service Security Audits | Krishdograa | [Read More](https://medium.com/p/4a1384d6a447) |
-| Wed, 04 Jun 2025 13:44:25 GMT | Digital Fortresses | Etnik | [Read More](https://medium.com/p/83988322cf0c) |
-| Wed, 04 Jun 2025 13:34:21 GMT | HackTheBox Password Attacks; Attacking Windows Credential Manager | Taxaneh | [Read More](https://medium.com/p/e70ed3f06ed7) |
-| Wed, 04 Jun 2025 13:24:29 GMT | Meet JOZIE™ | Thomas Noonan | [Read More](https://medium.com/p/afc819124e84) |
-| Wed, 04 Jun 2025 13:19:52 GMT | Slopsquatting: The Hidden Danger in AI-Generated Code | Prabhu Raghav | [Read More](https://medium.com/p/5fa275401101) |
