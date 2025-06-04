@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 20:26:33 GMT | Building a Home Lab SIEM: From Simple Honeypot to Complex Project | Samuel Damon | [Read More](https://medium.com/p/4ffd8e28f2ad) |
 | Wed, 04 Jun 2025 20:04:50 GMT | Cybersecurity by the Golden Mean: Aristotle’s Wisdom for Modern Security Design | Entropy of the Observer | [Read More](https://medium.com/p/51f4946df2f0) |
 | Wed, 04 Jun 2025 20:01:49 GMT | Here’s How I Recover My Money From Maunto? | Haven | [Read More](https://medium.com/p/3742f738e2a7) |
 | Wed, 04 Jun 2025 19:59:54 GMT | ESP32 D3 | Dev | [Read More](https://medium.com/p/ea69b6c6cf90) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 14:30:03 GMT | Cybersecurity statistics about APTs, infostealers, and quantum computing from May 2025 | CyberSecStats | [Read More](https://medium.com/p/a56e3fa70249) |
 | Wed, 04 Jun 2025 14:26:18 GMT | THM - Flag Vault 2 | Francesco Pastore | [Read More](https://medium.com/p/322c8403d570) |
 | Wed, 04 Jun 2025 14:25:17 GMT | Weaponizing XSS for Maximum Impact | ryuku_dz | [Read More](https://medium.com/p/0aa84b17ad60) |
-| Wed, 04 Jun 2025 14:24:57 GMT | Is Cybersecurity taken seriously enough ? | Okba Abdelmoumene | [Read More](https://medium.com/p/b1226d0a6894) |
