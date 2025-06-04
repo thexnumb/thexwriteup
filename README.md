@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 11:03:56 GMT | Could your password be cracked in seconds? | Tahashaikhseo | [Read More](https://medium.com/p/02a3d3705557) |
+| Wed, 04 Jun 2025 11:02:32 GMT | How fast can hackers break your password? | Tahashaikhseo | [Read More](https://medium.com/p/81bd11b34bc2) |
+| Wed, 04 Jun 2025 11:01:26 GMT | From Nmap and Metasploit to AI Agents | Rui Fernandes | [Read More](https://medium.com/p/9c7f58adfa57) |
+| Wed, 04 Jun 2025 10:56:07 GMT | Scraped by AI? The Signs You’re Being Harvested — and What to Do | White Widget Insights | [Read More](https://medium.com/p/57ff8abb4410) |
+| Wed, 04 Jun 2025 10:54:01 GMT | Health Apps Collect Your Personal Health Data: You Can Reduce Your Exposure | Karl Buhl | [Read More](https://medium.com/p/28f1266770c3) |
+| Wed, 04 Jun 2025 10:41:50 GMT | DGACTF — Ear | Paata Metreveli | [Read More](https://medium.com/p/3168c780220f) |
+| Wed, 04 Jun 2025 10:38:20 GMT | Inside Cyber Crime: Real Threats, Real Impact | Munish Mehta | [Read More](https://medium.com/p/428259fd2677) |
+| Wed, 04 Jun 2025 10:36:21 GMT | Hire Hacker For WhatsApp Access -- Mobile Hacking | BlackHat | [Read More](https://medium.com/p/3a6d68463e87) |
 | Wed, 04 Jun 2025 10:33:01 GMT | Maintain the Security System by keeping the Fire Alarm Spare Parts intact | Harperjack | [Read More](https://medium.com/p/e81ada55294b) |
 | Wed, 04 Jun 2025 10:29:16 GMT | TryHackMe- Introduction to SIEM | Pavneet_Singh_ | [Read More](https://medium.com/p/0bc7d5ca6dc0) |
 | Wed, 04 Jun 2025 10:29:04 GMT | URGENT REPORT – ORGANIZED SCAM RING OPERATING ON TELEGRAM #cardingscam | Krivadna | [Read More](https://medium.com/p/6cf57040cf70) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 04:32:08 GMT | I responsibly reported two critical security vulnerabilities to AiSensy on 24 May 2025. | Adith Suhas sv | [Read More](https://medium.com/p/82a527be61df) |
 | Wed, 04 Jun 2025 04:28:57 GMT | Increased Safety: Oman Deploys Facial Recognition for Public Security | Tekhabeeb | [Read More](https://medium.com/p/1c0912226f38) |
 | Wed, 04 Jun 2025 04:24:55 GMT | How ChainBounty $BOUNTY Yield Farming is Revolutionizing Passive Income | $BOUNTY ChainBounty Community Rewards | [Read More](https://medium.com/p/10c8da49ba11) |
-| Wed, 04 Jun 2025 04:23:08 GMT | What I Learned from Simulating a Cyber Attack Dashboard | Syeda Zainab | [Read More](https://medium.com/p/7abb5a6e647b) |
-| Wed, 04 Jun 2025 04:22:18 GMT | Handling High Traffic: Load Balancing and Caching | Kamalmeet Singh | [Read More](https://medium.com/p/c5644b6e7a85) |
-| Wed, 04 Jun 2025 04:21:21 GMT | DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks | Bash Overflow | [Read More](https://medium.com/p/fc312eaa48c2) |
-| Wed, 04 Jun 2025 04:19:19 GMT | SC-200 - MS Security Operations Analyst illustrative notes | K O M A L | [Read More](https://medium.com/p/4473d5750e99) |
-| Wed, 04 Jun 2025 04:18:22 GMT | How Did I Hack a Website Just by Reading JS Files | Ibtissam hammadi | [Read More](https://medium.com/p/80f73cbfd4c1) |
-| Wed, 04 Jun 2025 04:11:17 GMT | Pentest Checklist✅ | twinkle | [Read More](https://medium.com/p/a7d7a11ff9d4) |
-| Wed, 04 Jun 2025 04:09:54 GMT | How to Choose Cybersecurity Software That Fights Back. | Webtrills | [Read More](https://medium.com/p/7bbdc9d2b4e7) |
-| Wed, 04 Jun 2025 03:58:09 GMT | API Security in Microservices: Zero Trust Architecture Implementation | Rizqi Mulki | [Read More](https://medium.com/p/143ded21e52e) |
