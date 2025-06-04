@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 10:11:38 GMT | Redline | Shamar Isaac | [Read More](https://medium.com/p/06e933faa971) |
+| Wed, 04 Jun 2025 10:10:31 GMT | Guide to 8 Important Global Data Protection Laws | Ampcus Cyber | [Read More](https://medium.com/p/30360c26a68d) |
+| Wed, 04 Jun 2025 10:08:08 GMT | Why Interview Skills Are So Important: Unlocking the Gateway to Career Opportunities | Dharmawan Surya Kusuma | [Read More](https://medium.com/p/17fb67ecb652) |
+| Wed, 04 Jun 2025 10:06:38 GMT | Plesk E-posta Antivirüs Etkinleştirme | PenDC | [Read More](https://medium.com/p/b091761cc9a2) |
+| Wed, 04 Jun 2025 10:06:02 GMT | Ascenders’ Stories: จากเด็กฝึกงาน สู่ Cybersecurity Engineer ที่ Ascend Money! | Anurak Chavanarin | [Read More](https://medium.com/p/0ef4e298788b) |
+| Wed, 04 Jun 2025 10:03:33 GMT | Basic Pentesting Room — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/2c5403adc3a4) |
+| Wed, 04 Jun 2025 09:58:25 GMT | The AI Cybersecurity Revolution: Why Traditional Security Isn’t Enough in 2025 | Paul Sherman | [Read More](https://medium.com/p/53d899e53fce) |
+| Wed, 04 Jun 2025 09:51:52 GMT | Day 26 — Access Management (RBAC) in Snowflake with Practical Scenario | Alok Rahul | [Read More](https://medium.com/p/63093e4f5977) |
+| Wed, 04 Jun 2025 09:46:55 GMT | Atomic Red Team Setup on Windows for ATT&CK-Based Adversary Simulation | Nipun Negi | [Read More](https://medium.com/p/ef37e1b0acec) |
+| Wed, 04 Jun 2025 09:38:42 GMT | Server-Side Template Injection: When Your Templates Go Rogue | Rageeth | [Read More](https://medium.com/p/27f055ed2802) |
 | Wed, 04 Jun 2025 09:34:03 GMT | Optimizing Cloud Infrastructure: Key Techniques for Cost Efficiency and Performance | IPSpecialist | [Read More](https://medium.com/p/5c4e6b1c2774) |
 | Wed, 04 Jun 2025 09:23:10 GMT | Compliance as a Service (CaaS) | StrongBox IT | [Read More](https://medium.com/p/a7e1c801adaa) |
 | Wed, 04 Jun 2025 09:21:50 GMT | Github analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/17a829c6c2e8) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 03:23:51 GMT | Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce & POC. | Ravindra | [Read More](https://medium.com/p/0ee92851b4e7) |
 | Wed, 04 Jun 2025 03:21:42 GMT | My AndroGoat Journey: A Beginner’s Guide to Android Security Vulnerabilities | Damara Brian | [Read More](https://medium.com/p/a8b771598c23) |
 | Wed, 04 Jun 2025 03:15:51 GMT | Simple Security Tips for Students & Professionals | Tanish  Dewase! | [Read More](https://medium.com/p/943ceee60715) |
-| Wed, 04 Jun 2025 03:10:56 GMT | Desvendando um Dump de Memória: Uma Análise Forense com Volatility 3 | Jonathan M. | [Read More](https://medium.com/p/0115d69a97da) |
-| Wed, 04 Jun 2025 02:56:42 GMT | Boost Your Earnings with Bugs Bunny $BUGS Profit Tips | $BUGS Bugs Bunny Community Rewards | [Read More](https://medium.com/p/ef68effd29cd) |
-| Wed, 04 Jun 2025 02:55:40 GMT | The Face Isn’t Real — But the Threat Is: Deepfakes and the New Era of Cyber Threats | Shreya Patel | [Read More](https://medium.com/p/26568e0855ef) |
-| Wed, 04 Jun 2025 02:51:52 GMT | Write-up PicoCTF (Capture The Flag) — Intro To Burp Suite | Sérgio Corrêa | [Read More](https://medium.com/p/5b3382cb1174) |
-| Wed, 04 Jun 2025 02:48:06 GMT | Why Cryptographic Diversity Matters More Than Ever | ExeQuantum | [Read More](https://medium.com/p/ed3dfc7dba37) |
-| Wed, 04 Jun 2025 02:33:56 GMT | Demystifying OAuth: How It Works and Why It Matters | Deepak Singh | [Read More](https://medium.com/p/499e815a33c7) |
-| Wed, 04 Jun 2025 02:28:19 GMT | Bypassing CAPTCHA to Unleash Brute-force, A Pentester’s Approach | Ehxb | [Read More](https://medium.com/p/e30fb36cfa76) |
-| Wed, 04 Jun 2025 02:26:47 GMT | A Beginner’s Guide to OWASP Top 10 | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/9f4d201c6191) |
-| Wed, 04 Jun 2025 02:21:53 GMT | A Beginner’s Guide to OWASP Top 10 | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/1688e990a4e1) |
-| Wed, 04 Jun 2025 02:19:27 GMT | Your Firewall Won’t See This Coming: How AI-Powered Phishing Is Morphing Faster Than Your Team Can… | Biswajeet Poddar | [Read More](https://medium.com/p/d9b44df001e6) |
