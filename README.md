@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 16:16:19 GMT | Snyk DeepCode AI Fix | Leandro Matias | [Read More](https://medium.com/p/9ffd94734e0e) |
+| Wed, 04 Jun 2025 16:14:34 GMT | Understanding Non-Functional Testing: Performance, Security & Usability in QA | Yuwanirashipaba | [Read More](https://medium.com/p/0d1837549a66) |
+| Wed, 04 Jun 2025 16:14:32 GMT | Managing the Secure Software Development Life Cycle: Bridging Methodologies and Management | Nikoo Asadnejad | [Read More](https://medium.com/p/3360ce472588) |
+| Wed, 04 Jun 2025 16:12:00 GMT | XSS and Authorization | Kutay Yılmaz | [Read More](https://medium.com/p/8e7d45428a0e) |
+| Wed, 04 Jun 2025 16:10:02 GMT | Memahami Serangan Siber pada ICS/SCADA | Mukti Badriyan | [Read More](https://medium.com/p/6eb12283f256) |
+| Wed, 04 Jun 2025 16:07:59 GMT | Behind the Firewall: A Pen Tester’s Take on June 2025’s Cybersecurity Storm | Pentestjunkie07 | [Read More](https://medium.com/p/6af309d54e25) |
+| Wed, 04 Jun 2025 16:05:36 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 4] | Aditya Bhatt | [Read More](https://medium.com/p/ad98636c5238) |
+| Wed, 04 Jun 2025 16:04:39 GMT | Penetration Testing a Website: Identifying and Securing Web Vulnerabilities | SafeAeon Inc. | [Read More](https://medium.com/p/4598b4f2006b) |
+| Wed, 04 Jun 2025 15:55:50 GMT | Git Branch Enumeration: Bandit29 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/fc4750952d23) |
+| Wed, 04 Jun 2025 15:55:46 GMT | Securing Your Database in Spring Boot: Best Practices and Implementation | Umesh Kumar Yadav | [Read More](https://medium.com/p/4dc983e6cf7d) |
 | Wed, 04 Jun 2025 15:53:03 GMT | Brute-Forcing in DVWA: Step-by-Step Vulnerability Exploitation Walkthrough | Norbert Ephraim | [Read More](https://medium.com/p/10cabe386ef6) |
+| Wed, 04 Jun 2025 15:52:45 GMT | The Trust Deficit in AI: Why Smarter Doesn’t Always Mean Safer | TechDemocracy | [Read More](https://medium.com/p/b90d099fd49f) |
 | Wed, 04 Jun 2025 15:52:03 GMT | Network Security Audit: Ensuring a Resilient Infrastructure | SafeAeon Inc. | [Read More](https://medium.com/p/b65f8100a136) |
+| Wed, 04 Jun 2025 15:48:30 GMT | TryHackMe Write-up: Splunk Basics | Robert Onyango | [Read More](https://medium.com/p/385a01035499) |
 | Wed, 04 Jun 2025 15:39:52 GMT | What are SSH keys, and where do we need them? | Akshay khale | [Read More](https://medium.com/p/0cc21f043ba3) |
 | Wed, 04 Jun 2025 15:32:37 GMT | Cracking the Code: A Pen Tester’s Dive into June 2025’s Cybersecurity Mayhem | hackerguy7 | [Read More](https://medium.com/p/41ec9d5964f3) |
 | Wed, 04 Jun 2025 15:32:21 GMT | COPPA Compliance: Top 5 Website Security Tips for Kids | Feroot Security | [Read More](https://medium.com/p/e45062a42ae2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 10:33:01 GMT | Maintain the Security System by keeping the Fire Alarm Spare Parts intact | Harperjack | [Read More](https://medium.com/p/e81ada55294b) |
 | Wed, 04 Jun 2025 10:29:16 GMT | TryHackMe- Introduction to SIEM | Pavneet_Singh_ | [Read More](https://medium.com/p/0bc7d5ca6dc0) |
 | Wed, 04 Jun 2025 10:29:04 GMT | URGENT REPORT – ORGANIZED SCAM RING OPERATING ON TELEGRAM #cardingscam | Krivadna | [Read More](https://medium.com/p/6cf57040cf70) |
-| Wed, 04 Jun 2025 10:27:28 GMT | Cybersecurity for Small and Medium Businesses: Essential Strategies | Juarait Digital | [Read More](https://medium.com/p/eb9eca7eba2c) |
-| Wed, 04 Jun 2025 10:24:45 GMT | The Dark Side of Generative AI: Top LLM Threats and the Ultimate Security Toolkit (2025) | Deep Karia | [Read More](https://medium.com/p/617320fb332b) |
-| Wed, 04 Jun 2025 10:18:44 GMT | How to Protect Customer Data: 8 Best Practices | Ampcus Cyber | [Read More](https://medium.com/p/0616a5a3ec62) |
-| Wed, 04 Jun 2025 10:11:38 GMT | Redline | Shamar Isaac | [Read More](https://medium.com/p/06e933faa971) |
-| Wed, 04 Jun 2025 10:10:31 GMT | Guide to 8 Important Global Data Protection Laws | Ampcus Cyber | [Read More](https://medium.com/p/30360c26a68d) |
-| Wed, 04 Jun 2025 10:08:08 GMT | Why Interview Skills Are So Important: Unlocking the Gateway to Career Opportunities | Dharmawan Surya Kusuma | [Read More](https://medium.com/p/17fb67ecb652) |
-| Wed, 04 Jun 2025 10:06:38 GMT | Plesk E-posta Antivirüs Etkinleştirme | PenDC | [Read More](https://medium.com/p/b091761cc9a2) |
-| Wed, 04 Jun 2025 10:06:02 GMT | Ascenders’ Stories: จากเด็กฝึกงาน สู่ Cybersecurity Engineer ที่ Ascend Money! | Anurak Chavanarin | [Read More](https://medium.com/p/0ef4e298788b) |
-| Wed, 04 Jun 2025 10:03:33 GMT | Basic Pentesting Room — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/2c5403adc3a4) |
-| Wed, 04 Jun 2025 09:58:25 GMT | The AI Cybersecurity Revolution: Why Traditional Security Isn’t Enough in 2025 | Paul Sherman | [Read More](https://medium.com/p/53d899e53fce) |
-| Wed, 04 Jun 2025 09:51:52 GMT | Day 26 — Access Management (RBAC) in Snowflake with Practical Scenario | Alok Rahul | [Read More](https://medium.com/p/63093e4f5977) |
-| Wed, 04 Jun 2025 09:46:55 GMT | Atomic Red Team Setup on Windows for ATT&CK-Based Adversary Simulation | Nipun Negi | [Read More](https://medium.com/p/ef37e1b0acec) |
