@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 09:15:48 GMT | Track the Hacks: USB Forensics in Physical Access Breach — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/1814e0e209bd) |
+| Wed, 04 Jun 2025 09:11:33 GMT | Amazon CloudWatch | Arijit Naskar | [Read More](https://medium.com/p/2d2c4f5c8961) |
+| Wed, 04 Jun 2025 09:11:14 GMT | Adapt Digital Solutions — Contractor-Focused Digital Marketing Experts | Evelynharper | [Read More](https://medium.com/p/10b625276d64) |
+| Wed, 04 Jun 2025 09:09:11 GMT | Building an Intelligence-Driven Security Operations Center (SOC) | HONKONE | [Read More](https://medium.com/p/b724ec336ebf) |
+| Wed, 04 Jun 2025 09:02:31 GMT | GRC Myths | Harry West | [Read More](https://medium.com/p/122974a91e39) |
+| Wed, 04 Jun 2025 08:57:51 GMT | Global Trends Shaping the Managed Security Services Market in 2025 and Beyond | Gargiben | [Read More](https://medium.com/p/b6f44a47e412) |
+| Wed, 04 Jun 2025 08:53:53 GMT | Shodan Dorks to Find PII Data & Leaks | It4chis3c | [Read More](https://medium.com/p/50ab8b101f61) |
+| Wed, 04 Jun 2025 08:45:16 GMT | Exploitasi BilluBox 2 Hingga ke Privilege Escalation | Wahyu Nufal Azmi | [Read More](https://medium.com/p/0951e535052c) |
 | Wed, 04 Jun 2025 08:43:32 GMT | Cybersecurity Monitoring Services: Ultimate Guide to 24/7 Protection | SecureSlate | [Read More](https://medium.com/p/b34a90734e26) |
 | Wed, 04 Jun 2025 08:39:10 GMT | The Gift of the Night | Darian Calvarion | [Read More](https://medium.com/p/86bc568bdfad) |
 | Wed, 04 Jun 2025 08:30:40 GMT | ประจำวันพุธที่ 4 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/fc2a0cd0cc46) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 02:11:48 GMT | Earn Passive Income with Curvance $CVE Yield Farming | $CVE Curvance Community Rewards | [Read More](https://medium.com/p/56463f7a6cb6) |
 | Wed, 04 Jun 2025 02:04:48 GMT | MikroTik Winbox Brute Force Tool: Memahami Risiko dan Cara Melindungi Router Anda | RootKitty7 | [Read More](https://medium.com/p/f6ca3b88debb) |
 | Wed, 04 Jun 2025 01:46:16 GMT | Identifying the AWS Account ID from a Public S3 Bucket (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/0f93e538e731) |
-| Wed, 04 Jun 2025 01:27:06 GMT | Looting Public EBS Snapshots (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/ec1732d5cf89) |
-| Wed, 04 Jun 2025 01:25:18 GMT | Defining Your Protect Surface | Rob Forbes | [Read More](https://medium.com/p/789b52b1e5e7) |
-| Wed, 04 Jun 2025 01:23:50 GMT | Whose Risk Is It Anyway? The Silent Blind Spot in Most Organizations | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/97d6e1923c53) |
-| Wed, 04 Jun 2025 01:16:34 GMT | CryptoBreaker | EdCho | [Read More](https://medium.com/p/a76b9dc7c98c) |
-| Wed, 04 Jun 2025 01:15:17 GMT | Mastering Nmap: A Deep Dive into Network Scanning Techniques — Part 1 | Seshu | [Read More](https://medium.com/p/ed2aec2ea1c1) |
-| Wed, 04 Jun 2025 00:56:39 GMT | ThreatLens: Building a Real-World Threat Intelligence Dashboard with Python & Flask | Teshera Kimbrough | [Read More](https://medium.com/p/a73dcd1de586) |
-| Wed, 04 Jun 2025 00:43:41 GMT | ACRTP: Hunting for Secrets in Git Repos | Makayla Ferrell | [Read More](https://medium.com/p/b31d8e635d07) |
-| Wed, 04 Jun 2025 00:40:32 GMT | How Can Dart Developers Secure API Keys in Apps? | Ilja | [Read More](https://medium.com/p/06e8740cac0f) |
