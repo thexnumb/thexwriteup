@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 16:42:38 GMT | TryHackMe - JWT Security - WriteUp | Axoloth | [Read More](https://medium.com/p/c7d0c39c9b95) |
+| Wed, 04 Jun 2025 16:35:01 GMT | How to Use PyPhisher in Termux: Simple and Safe Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/1129443ea48b) |
+| Wed, 04 Jun 2025 16:33:46 GMT | Uncovering Business Logic Vulnerabilities: A Real-World Case Study | Nishanthan | [Read More](https://medium.com/p/18bfbdae46b3) |
+| Wed, 04 Jun 2025 16:33:33 GMT | EjptV2 - Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/d8455f56c2ea) |
+| Wed, 04 Jun 2025 16:33:21 GMT | This Country Just Banned AI Tools in Government — Here’s Why | Hafizbilaltariq | [Read More](https://medium.com/p/c3e85f6cdc5d) |
+| Wed, 04 Jun 2025 16:32:18 GMT | Ejpt V2 - Assessment Methodologies: Vulnerability Assessment CTF 1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/e0b3f1abbbf6) |
+| Wed, 04 Jun 2025 16:29:11 GMT | WordPress Malware Removal: Steps to Clean Your Site and Prevent Future Infections | SafeAeon Inc. | [Read More](https://medium.com/p/657b011d1fd7) |
+| Wed, 04 Jun 2025 16:29:11 GMT | What Is Cyber Risk Management? | Akshay Chauhan | [Read More](https://medium.com/p/6e953df0cef6) |
+| Wed, 04 Jun 2025 16:26:23 GMT | From Fragile to Fail-proof: Why the World Needs Sia Cloud Storage | Nicole Tay | [Read More](https://medium.com/p/e9ef252fef95) |
+| Wed, 04 Jun 2025 16:19:51 GMT | TryHackMe Write-up: Incident handling with Splunk | Robert Onyango | [Read More](https://medium.com/p/0e25fbc99e91) |
+| Wed, 04 Jun 2025 16:18:20 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/36ce0f477029) |
 | Wed, 04 Jun 2025 16:16:19 GMT | Snyk DeepCode AI Fix | Leandro Matias | [Read More](https://medium.com/p/9ffd94734e0e) |
 | Wed, 04 Jun 2025 16:14:34 GMT | Understanding Non-Functional Testing: Performance, Security & Usability in QA | Yuwanirashipaba | [Read More](https://medium.com/p/0d1837549a66) |
 | Wed, 04 Jun 2025 16:14:32 GMT | Managing the Secure Software Development Life Cycle: Bridging Methodologies and Management | Nikoo Asadnejad | [Read More](https://medium.com/p/3360ce472588) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 11:18:04 GMT | Siber Güvenliğe Giriş — 5 (SİBER GÜVENLİK EĞİTİMİNE BAŞLAMADAN ÖNCE BİLİNMESİ GEREKEN TERİM VE… | Emre TOPUZ | [Read More](https://medium.com/p/71e3c5b43371) |
 | Wed, 04 Jun 2025 11:16:59 GMT | How a Single Security Gap Can ruin an Entire Healthcare Ecosystem | OptiSol Business Solutions | [Read More](https://medium.com/p/709b188d6cd9) |
 | Wed, 04 Jun 2025 11:13:10 GMT | The Death of Passwords | Tech Club DPSRPK | [Read More](https://medium.com/p/d565093cace9) |
-| Wed, 04 Jun 2025 11:03:56 GMT | Could your password be cracked in seconds? | Tahashaikhseo | [Read More](https://medium.com/p/02a3d3705557) |
-| Wed, 04 Jun 2025 11:02:32 GMT | How fast can hackers break your password? | Tahashaikhseo | [Read More](https://medium.com/p/81bd11b34bc2) |
-| Wed, 04 Jun 2025 11:01:26 GMT | From Nmap and Metasploit to AI Agents | Rui Fernandes | [Read More](https://medium.com/p/9c7f58adfa57) |
-| Wed, 04 Jun 2025 10:56:07 GMT | Scraped by AI? The Signs You’re Being Harvested — and What to Do | White Widget Insights | [Read More](https://medium.com/p/57ff8abb4410) |
-| Wed, 04 Jun 2025 10:54:01 GMT | Health Apps Collect Your Personal Health Data: You Can Reduce Your Exposure | Karl Buhl | [Read More](https://medium.com/p/28f1266770c3) |
-| Wed, 04 Jun 2025 10:41:50 GMT | DGACTF — Ear | Paata Metreveli | [Read More](https://medium.com/p/3168c780220f) |
-| Wed, 04 Jun 2025 10:38:20 GMT | Inside Cyber Crime: Real Threats, Real Impact | Munish Mehta | [Read More](https://medium.com/p/428259fd2677) |
-| Wed, 04 Jun 2025 10:36:21 GMT | Hire Hacker For WhatsApp Access -- Mobile Hacking | BlackHat | [Read More](https://medium.com/p/3a6d68463e87) |
-| Wed, 04 Jun 2025 10:33:01 GMT | Maintain the Security System by keeping the Fire Alarm Spare Parts intact | Harperjack | [Read More](https://medium.com/p/e81ada55294b) |
-| Wed, 04 Jun 2025 10:29:16 GMT | TryHackMe- Introduction to SIEM | Pavneet_Singh_ | [Read More](https://medium.com/p/0bc7d5ca6dc0) |
-| Wed, 04 Jun 2025 10:29:04 GMT | URGENT REPORT – ORGANIZED SCAM RING OPERATING ON TELEGRAM #cardingscam | Krivadna | [Read More](https://medium.com/p/6cf57040cf70) |
