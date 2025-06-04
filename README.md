@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Jun 2025 03:52:30 GMT | The Future of Cybersecurity: Trends to Watch in Network Protection | Seonaissac | [Read More](https://medium.com/p/ed54cefee5de) |
+| Wed, 04 Jun 2025 03:40:57 GMT | OWASP Top 10 — | Badal kathayat | [Read More](https://medium.com/p/f9462ba19f45) |
+| Wed, 04 Jun 2025 03:32:30 GMT | Xposed: Breaking Down the 400GB X Platform Data Leak | Deven Chhajed | [Read More](https://medium.com/p/752aca8f2574) |
+| Wed, 04 Jun 2025 03:23:51 GMT | Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce & POC. | Ravindra | [Read More](https://medium.com/p/0ee92851b4e7) |
+| Wed, 04 Jun 2025 03:21:42 GMT | My AndroGoat Journey: A Beginner’s Guide to Android Security Vulnerabilities | Damara Brian | [Read More](https://medium.com/p/a8b771598c23) |
+| Wed, 04 Jun 2025 03:15:51 GMT | Simple Security Tips for Students & Professionals | Tanish  Dewase! | [Read More](https://medium.com/p/943ceee60715) |
 | Wed, 04 Jun 2025 03:10:56 GMT | Desvendando um Dump de Memória: Uma Análise Forense com Volatility 3 | Jonathan M. | [Read More](https://medium.com/p/0115d69a97da) |
 | Wed, 04 Jun 2025 02:56:42 GMT | Boost Your Earnings with Bugs Bunny $BUGS Profit Tips | $BUGS Bugs Bunny Community Rewards | [Read More](https://medium.com/p/ef68effd29cd) |
 | Wed, 04 Jun 2025 02:55:40 GMT | The Face Isn’t Real — But the Threat Is: Deepfakes and the New Era of Cyber Threats | Shreya Patel | [Read More](https://medium.com/p/26568e0855ef) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Jun 2025 16:21:34 GMT | How to Create TLS Certificates with mkcert and Integrate Them with Spring Boot, Node.js, and Go | Koushik | [Read More](https://medium.com/p/ea3848f72341) |
 | Tue, 03 Jun 2025 16:16:00 GMT | I Lost $100K in a Fake Real Estate Deal — DRI Helped Me Get It Back by [Resse] | Amstel Resse | [Read More](https://medium.com/p/e80440d50557) |
 | Tue, 03 Jun 2025 16:05:27 GMT | Understanding Host Header Attacks: How a Small Header Can Lead to Major Vulnerabilities | Ud4y | [Read More](https://medium.com/p/0a123d2b47e3) |
-| Tue, 03 Jun 2025 15:58:56 GMT | The Surprising Story of the 28-Year-Old Who Accidentally Started A War Between Apple And The FBI | Jano le Roux | [Read More](https://medium.com/p/bdb820fee445) |
-| Tue, 03 Jun 2025 15:57:23 GMT | How I Recovered $58,000 from a Crypto Investment Scam: My Journey Back from the Brink | Benson Ceasero | [Read More](https://medium.com/p/68ec643c35bf) |
-| Tue, 03 Jun 2025 15:54:55 GMT | Mastering Azure Cloud Security: Protecting Your Cloud Assets | Lingala kondareddy | [Read More](https://medium.com/p/5d574b1a39ba) |
-| Tue, 03 Jun 2025 15:47:33 GMT | The FohnAI Manifesto | Jonah | [Read More](https://medium.com/p/2e6878ff48c1) |
-| Tue, 03 Jun 2025 15:46:36 GMT | 6 Cyber Attacks That Could Take Down a Nation | Brittney Ginther | [Read More](https://medium.com/p/5d9a19fc0585) |
-| Tue, 03 Jun 2025 15:46:31 GMT | Phone Scams Exposed: How Scammers Trick You and How to Stay Safe | SafeAeon Inc. | [Read More](https://medium.com/p/bde73f763d74) |
