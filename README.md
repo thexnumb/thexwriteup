@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 04:24:13 GMT | Inner Workings of Node.js That No One Talks About | Uditya Prakash | [Read More](https://medium.com/p/1e64deb5c5cf) |
+| Thu, 05 Jun 2025 04:20:26 GMT | Knowing XSS(); — Basic | Sibercat Media | [Read More](https://medium.com/p/2ede2022701f) |
+| Thu, 05 Jun 2025 04:15:13 GMT | Cyber Anomaly Detection API — Deployment Journey (With FastAPI + Docker) | Tony Maunu | [Read More](https://medium.com/p/7f05a1c4fe01) |
+| Thu, 05 Jun 2025 04:09:10 GMT | Unveiling the game-changing ICS/SCADA system that every engineer needs to conquer! | Toni Mendrofa | [Read More](https://medium.com/p/91b5268080fd) |
+| Thu, 05 Jun 2025 04:01:31 GMT | Ever Wonder What REALLY Runs Your World? Spoiler: It’s ICS/SCADA (and it’s Kinda Vulnerable) | Afridho Tavadhu | [Read More](https://medium.com/p/7bdaa5534d3d) |
+| Thu, 05 Jun 2025 03:59:13 GMT | Apa itu ICS/SCADA? Kenapa sering diretas? | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/a2081d6165fd) |
 | Thu, 05 Jun 2025 03:54:38 GMT | How to Start In CyberSecurity. Complete Roadmap. | err0rgod | [Read More](https://medium.com/p/87eb22d608ac) |
 | Thu, 05 Jun 2025 03:42:16 GMT | Antivirus- are they really helpfull. | err0rgod | [Read More](https://medium.com/p/45024fb63c86) |
 | Thu, 05 Jun 2025 03:32:24 GMT | When Breakfast Meets a Breach: How W.K. Kellogg Became a Cybersecurity Case Study | Deven Chhajed | [Read More](https://medium.com/p/e1566ef19915) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 17:19:53 GMT | Chasing Shadows in Cyberspace: Who is the Threat Actor Behind? | Serdar Gumus | [Read More](https://medium.com/p/f4fcf95280e2) |
 | Wed, 04 Jun 2025 17:11:03 GMT | Living Off The Land: Why Our Security Theater Is Missing the Real Show | Eric Zietlow | [Read More](https://medium.com/p/5780329d2e61) |
 | Wed, 04 Jun 2025 17:05:40 GMT | How to Set Up MobSF with Docker on Kali Linux for Mobile App Penetration Testing | C. Oscar Lawshea | [Read More](https://medium.com/p/7c95df27e200) |
-| Wed, 04 Jun 2025 17:04:33 GMT | FormBook JavaScript Malware Analysis | AceS Cyber Security | [Read More](https://medium.com/p/098c37137189) |
-| Wed, 04 Jun 2025 17:03:41 GMT | High-Level Overview of Windows architecture | Tvrpism | [Read More](https://medium.com/p/b64e8995a309) |
-| Wed, 04 Jun 2025 16:42:38 GMT | TryHackMe - JWT Security - WriteUp | Axoloth | [Read More](https://medium.com/p/c7d0c39c9b95) |
-| Wed, 04 Jun 2025 16:35:01 GMT | How to Use PyPhisher in Termux: Simple and Safe Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/1129443ea48b) |
-| Wed, 04 Jun 2025 16:33:46 GMT | Uncovering Business Logic Vulnerabilities: A Real-World Case Study | Nishanthan | [Read More](https://medium.com/p/18bfbdae46b3) |
-| Wed, 04 Jun 2025 16:33:33 GMT | EjptV2 - Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/d8455f56c2ea) |
