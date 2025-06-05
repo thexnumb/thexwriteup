@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 23:10:30 GMT | Roadmap to eJPTv2 Success | Mr Horbio | [Read More](https://medium.com/p/dabf0fe9d62b) |
+| Thu, 05 Jun 2025 23:10:29 GMT | Google Dorking for Hackers: Secrets, Recon, and Digital Power | YooZy | [Read More](https://medium.com/p/06a537e1d6bb) |
+| Thu, 05 Jun 2025 23:01:33 GMT | My Log Source-Agnostic Methodology to Understanding Big Data | Ryan G. Cox | [Read More](https://medium.com/p/3d02e68f0202) |
+| Thu, 05 Jun 2025 23:01:21 GMT | Metasploit: Exploitation - THM | Isiah | [Read More](https://medium.com/p/4380d31472ec) |
+| Thu, 05 Jun 2025 22:47:46 GMT | What Cybersecurity Can Learn from Flat Earth Thinking | Cheryl Abram | [Read More](https://medium.com/p/35914498a31c) |
+| Thu, 05 Jun 2025 22:47:35 GMT | How I Built Sentinel Copilot: Making Security Logs Make Sense | Teshera Kimbrough | [Read More](https://medium.com/p/1395912691c8) |
+| Thu, 05 Jun 2025 22:38:37 GMT | THM — Unattended Writeup (Windows Forensics) | Shamar Isaac | [Read More](https://medium.com/p/34138fc3bcc7) |
+| Thu, 05 Jun 2025 22:35:40 GMT | Kerberos and Active Directory Testing - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/78dc90be5a79) |
 | Thu, 05 Jun 2025 22:32:09 GMT | OHSINT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/db2ba5a01d93) |
 | Thu, 05 Jun 2025 22:26:54 GMT | A (not so) Unexpected Journey: Building My First Home Lab, Part 3 | Chris C. | [Read More](https://medium.com/p/9ae75de763c4) |
 | Thu, 05 Jun 2025 22:16:38 GMT | How Attackers Are Weaponizing Open Redirects in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/635833e212f6) |
@@ -105,11 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 15:02:15 GMT | Forced Browsing: Natas2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/209686388d95) |
 | Thu, 05 Jun 2025 15:01:34 GMT | Securycor: Your Trusted Partner in Security | Professional UK Services | [Read More](https://medium.com/p/8ac18988d411) |
 | Thu, 05 Jun 2025 15:00:04 GMT | TikTok analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/21a2f8522f32) |
-| Thu, 05 Jun 2025 14:57:53 GMT | PortSwigger JWT Labs — Full Walkthrough | Shoaib Bin Rashid | [Read More](https://medium.com/p/5fa4a4dcb0e7) |
-| Thu, 05 Jun 2025 14:56:30 GMT | Hack The Box: Netmon Walkthrough | packetsniper | [Read More](https://medium.com/p/70c0dcb74e0f) |
-| Thu, 05 Jun 2025 14:55:36 GMT | From Web3 Developer to Smart-Contract Auditor: False trust. Roles and Governance. | Evgenii | [Read More](https://medium.com/p/19c11cdb8baa) |
-| Thu, 05 Jun 2025 14:55:09 GMT | Neuromorphic Mimicry Attacks: The Next Frontier in Cybersecurity Threats | Ashwini Puranik | [Read More](https://medium.com/p/c422cd347119) |
-| Thu, 05 Jun 2025 14:54:48 GMT | Tokemak - Sherlock Defi 06/2023 Audit - High Severity finding - How one line lead to loss of all… | lodelux | [Read More](https://medium.com/p/c6f339d80086) |
-| Thu, 05 Jun 2025 14:50:39 GMT | Event-Sicherheitsrobotik | Presslink Media | [Read More](https://medium.com/p/a4cb29d09f93) |
-| Thu, 05 Jun 2025 14:48:07 GMT | Cheyanne Mallas: The Strategic Force Behind Cybersecurity Project Success | Cheyannemallaspa | [Read More](https://medium.com/p/9d14dc617587) |
-| Thu, 05 Jun 2025 14:40:15 GMT | ️ Inside the 160-Comment Fight to Fix SnakeYAML’s RCE Default | Jonathan Leitschuh | [Read More](https://medium.com/p/1a20c5ca4d4c) |
