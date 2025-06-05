@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 03:10:47 GMT | ️ CVE-2022-46604: Exploring a Path Traversal Vulnerability in Responsive File Manager | CyberQuestor | [Read More](https://medium.com/p/50d7ab5826ad) |
+| Thu, 05 Jun 2025 02:57:17 GMT | The $450 Million Mirage: How AI Hype Fueled Builder.ai’s Collapse | Carlos Jaramillo | [Read More](https://medium.com/p/a6601f22eb52) |
+| Thu, 05 Jun 2025 02:50:33 GMT | Power Platform Environments— Firewall security settings | Mustaque Ehiya | [Read More](https://medium.com/p/2faac95cffd4) |
+| Thu, 05 Jun 2025 02:47:57 GMT | App Mobile - Como um sanduíche | Perla C. S | [Read More](https://medium.com/p/ed5d8cbe5762) |
+| Thu, 05 Jun 2025 02:36:19 GMT | Understanding Static methods & variables in Java - Explained with examples. | Hari Prasad | [Read More](https://medium.com/p/75f83b53757b) |
+| Thu, 05 Jun 2025 02:32:25 GMT | The Things We Don’t Post | Vaibhavi Naik | [Read More](https://medium.com/p/f1ea7b1e5e81) |
+| Thu, 05 Jun 2025 02:11:46 GMT | memories, in lower case | Simon Rothleder | [Read More](https://medium.com/p/fdf55870170e) |
+| Thu, 05 Jun 2025 01:49:14 GMT | This Android Trojan Can Empty Your Crypto Wallet and Bank Account Without You Noticing | Cyber-AppSec | [Read More](https://medium.com/p/73d01a0974e4) |
 | Thu, 05 Jun 2025 01:26:30 GMT | Only 2 Indicators — And They Predicted the Entire Crude Oil Crash | Sayedali | [Read More](https://medium.com/p/e72447a5f5ee) |
 | Thu, 05 Jun 2025 01:10:34 GMT | My First Year in Cybersecurity | Pablo Vergara | [Read More](https://medium.com/p/07558d3604cf) |
 | Thu, 05 Jun 2025 01:02:24 GMT | What the Arc Browser Story Reveals About the Future of Browser Security | Engineering @ SquareX | [Read More](https://medium.com/p/55107b9eb621) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 16:33:21 GMT | This Country Just Banned AI Tools in Government — Here’s Why | Hafizbilaltariq | [Read More](https://medium.com/p/c3e85f6cdc5d) |
 | Wed, 04 Jun 2025 16:32:18 GMT | Ejpt V2 - Assessment Methodologies: Vulnerability Assessment CTF 1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/e0b3f1abbbf6) |
 | Wed, 04 Jun 2025 16:29:11 GMT | WordPress Malware Removal: Steps to Clean Your Site and Prevent Future Infections | SafeAeon Inc. | [Read More](https://medium.com/p/657b011d1fd7) |
-| Wed, 04 Jun 2025 16:29:11 GMT | What Is Cyber Risk Management? | Akshay Chauhan | [Read More](https://medium.com/p/6e953df0cef6) |
-| Wed, 04 Jun 2025 16:26:23 GMT | From Fragile to Fail-proof: Why the World Needs Sia Cloud Storage | Nicole Tay | [Read More](https://medium.com/p/e9ef252fef95) |
-| Wed, 04 Jun 2025 16:19:51 GMT | TryHackMe Write-up: Incident handling with Splunk | Robert Onyango | [Read More](https://medium.com/p/0e25fbc99e91) |
-| Wed, 04 Jun 2025 16:18:20 GMT | I will write software engineer, tech, software developer, cybersecurity, faang resume | moran_ats | [Read More](https://medium.com/p/36ce0f477029) |
-| Wed, 04 Jun 2025 16:16:19 GMT | Snyk DeepCode AI Fix | Leandro Matias | [Read More](https://medium.com/p/9ffd94734e0e) |
-| Wed, 04 Jun 2025 16:14:34 GMT | Understanding Non-Functional Testing: Performance, Security & Usability in QA | Yuwanirashipaba | [Read More](https://medium.com/p/0d1837549a66) |
-| Wed, 04 Jun 2025 16:14:32 GMT | Managing the Secure Software Development Life Cycle: Bridging Methodologies and Management | Nikoo Asadnejad | [Read More](https://medium.com/p/3360ce472588) |
-| Wed, 04 Jun 2025 16:12:00 GMT | XSS and Authorization | Kutay Yılmaz | [Read More](https://medium.com/p/8e7d45428a0e) |
