@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 07:11:41 GMT | VBE to .NET: A fileless execution story | Dawid Bolkowski | [Read More](https://medium.com/p/dd9c4f8393dd) |
+| Thu, 05 Jun 2025 07:04:55 GMT | I Was 15 When I Chose the Hardest Path — And I’m Still Walking It Alone | Salahinashfi | [Read More](https://medium.com/p/9ea21acb05cf) |
+| Thu, 05 Jun 2025 06:55:52 GMT | 20 Effective Ways to Strengthen Your Cybersecurity Today | Techridge Solutions | [Read More](https://medium.com/p/a1a389886b38) |
+| Thu, 05 Jun 2025 06:50:22 GMT | ICS/SCADA: Arsitektur, Ancaman Siber, dan Cara Menjaga Sistem Industri Tetap Aman | Rama Jiansyah | [Read More](https://medium.com/p/c368eccfa877) |
+| Thu, 05 Jun 2025 06:50:17 GMT | Guide to Beginning a Career in the Security Industry Authority (SIA-UK) and Transitioning into… | Dr Francesco Dergano | [Read More](https://medium.com/p/54f124d44852) |
+| Thu, 05 Jun 2025 06:39:14 GMT | I find a strange peace,it is a calm that settles, like a gentle release. | Boluwatife Lash | [Read More](https://medium.com/p/41e41297f15d) |
+| Thu, 05 Jun 2025 06:38:13 GMT | Use Case: Multi-Tier Web App with Docker Compose, Networking, and Volumes | Ramkrushna Maheshwar | [Read More](https://medium.com/p/e508228083d1) |
+| Thu, 05 Jun 2025 06:33:04 GMT | Automating Security Scans with Jenkins, Gitea, and DefectDojo: A Step-by-Step Guide | Jalex | [Read More](https://medium.com/p/cb1c7e717e05) |
+| Thu, 05 Jun 2025 06:32:45 GMT | Website Backdoors: What are They and How to Clean Them | Hamza Hanif | [Read More](https://medium.com/p/9a3da0861c54) |
+| Thu, 05 Jun 2025 06:32:29 GMT | Dokumentasi Hardening Linux: SSH, User, Firewall, Kernel, dan Audit | Kaffahrizal | [Read More](https://medium.com/p/55c8a07940bf) |
 | Thu, 05 Jun 2025 06:26:59 GMT | KiranaPro Hack Exposes the High Cost of Lax Security | TheReviewHive | [Read More](https://medium.com/p/fae10b5afa8d) |
+| Thu, 05 Jun 2025 06:26:47 GMT | In the depths of Uncertainty, it’s easy to feel lost and alone. | Boluwatife Lash | [Read More](https://medium.com/p/adf9d8fc9ef2) |
 | Thu, 05 Jun 2025 06:26:21 GMT | Data Tells a Story: How Microsoft Purview Helped Me Explore Information Protection | Emerson Juan da Silva | [Read More](https://medium.com/p/06d198202f44) |
 | Thu, 05 Jun 2025 06:25:43 GMT | Splunk: Setting up a SOC Lab(Linux) | Peta Pavan | [Read More](https://medium.com/p/3ed56f0d90f5) |
 | Thu, 05 Jun 2025 06:25:41 GMT | Predictions vs Reality: What Tech in 2025 Really Looks Like (and What It Doesn’t) | Harsh Devesh Kardile | [Read More](https://medium.com/p/f0000ee92ecc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 20:01:49 GMT | Here’s How I Recover My Money From Maunto? | Haven | [Read More](https://medium.com/p/3742f738e2a7) |
 | Wed, 04 Jun 2025 19:59:54 GMT | ESP32 D3 | Dev | [Read More](https://medium.com/p/ea69b6c6cf90) |
 | Wed, 04 Jun 2025 19:58:29 GMT | How AI is making me rethink security automation, batch jobs, and my blog | Teri Radichel | [Read More](https://medium.com/p/aa604216d5e5) |
-| Wed, 04 Jun 2025 19:52:58 GMT | Cyberus and Al-Adid Business to Launch Cyber Hub in Qatar | NEW ECONOMY OBSERVER | [Read More](https://medium.com/p/74327d0f519d) |
-| Wed, 04 Jun 2025 19:52:45 GMT | How to start analyzing a pcap file? | Jonathan M. | [Read More](https://medium.com/p/b523b9ccf93e) |
-| Wed, 04 Jun 2025 19:48:30 GMT | Hikvision in Kerala: Navigating the Intersection of Surveillance, Security, and Sovereignty | Prince Philip | [Read More](https://medium.com/p/474d58c3d310) |
-| Wed, 04 Jun 2025 19:48:17 GMT | Crocodilus Malware: The Global Android Threat Redefining Mobile Cybercrime | Avnishyam | [Read More](https://medium.com/p/69d9d8018898) |
-| Wed, 04 Jun 2025 19:33:25 GMT | Cybersecurity for Newbies | Ariark | [Read More](https://medium.com/p/2edc7578f1d2) |
-| Wed, 04 Jun 2025 19:25:41 GMT | Can I Be Vulnerable? | Suomii - Intuitive Artist | [Read More](https://medium.com/p/780a59997b10) |
-| Wed, 04 Jun 2025 19:25:26 GMT | How One of Crypto’s Biggest Hacks Triggered a Total Security Glow-Up | CoinGen | [Read More](https://medium.com/p/a3fba32b302c) |
-| Wed, 04 Jun 2025 19:20:41 GMT | Voice Phishing and Data Extortion in the Salesforce Cloud | Chetan Seripally | [Read More](https://medium.com/p/829c58f7703d) |
-| Wed, 04 Jun 2025 19:19:39 GMT | Crypto Hackers Just Flipped the Script: $2.1B Stolen in 2025 | CoinGen | [Read More](https://medium.com/p/bfd470217a2e) |
-| Wed, 04 Jun 2025 19:15:44 GMT | Using KQL to Uncover a Phishing Attack in KC7’s ‘A Rap Beef’ | The Decryptionist (AMS) | [Read More](https://medium.com/p/2d4c9d5250be) |
-| Wed, 04 Jun 2025 19:07:11 GMT | Temporary Driver Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/34add0cda42e) |
