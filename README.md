@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 05:07:10 GMT | Create own Hacking SERVER Instead of Portswigger exploit server | Mr Horbio | [Read More](https://medium.com/p/78b46172e2f6) |
+| Thu, 05 Jun 2025 05:06:35 GMT | CYBER SECURITY REVOLUTION FROM PT. | Sydeco Indonesia | [Read More](https://medium.com/p/b75e99e14c37) |
+| Thu, 05 Jun 2025 04:59:16 GMT | Context is Everything in Cybersecurity: Why Signals Without Meaning Are Just Noise | Juan Pablo Castro | [Read More](https://medium.com/p/376aeb6fc095) |
+| Thu, 05 Jun 2025 04:46:41 GMT | Why Manual Risk Assessments Are Outdated in the Age of AI | CyRAACS | [Read More](https://medium.com/p/c09a113a2c58) |
+| Thu, 05 Jun 2025 04:45:01 GMT | Top 10 Reasons to Choose CEH v12 Certification for Cybersecurity Jobs | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/6a3ad4802540) |
+| Thu, 05 Jun 2025 04:40:49 GMT | Building Secure White Label Software: The Architecture Checklist | Brilworks Software | [Read More](https://medium.com/p/8016a74419b1) |
+| Thu, 05 Jun 2025 04:37:02 GMT | Python Automation Series — Day 2 | Pavan V | [Read More](https://medium.com/p/7f03070f34a8) |
+| Thu, 05 Jun 2025 04:33:32 GMT | The Rise of Quantum Computing: What You Need to Know | Les Ottolenghi | [Read More](https://medium.com/p/7414ae463618) |
+| Thu, 05 Jun 2025 04:26:53 GMT | Legal Technology and National Competitiveness: Why Building Scalable Legal Infrastructure Matters | Palak Porwal | [Read More](https://medium.com/p/8073a68e327e) |
 | Thu, 05 Jun 2025 04:24:13 GMT | Inner Workings of Node.js That No One Talks About | Uditya Prakash | [Read More](https://medium.com/p/1e64deb5c5cf) |
 | Thu, 05 Jun 2025 04:20:26 GMT | Knowing XSS(); — Basic | Sibercat Media | [Read More](https://medium.com/p/2ede2022701f) |
 | Thu, 05 Jun 2025 04:15:13 GMT | Cyber Anomaly Detection API — Deployment Journey (With FastAPI + Docker) | Tony Maunu | [Read More](https://medium.com/p/7f05a1c4fe01) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 17:51:50 GMT | Biggest Cyberattacks, Ransomware Attacks and Data Breaches in May 2025 | IT_Engineer | [Read More](https://medium.com/p/9c718b56c835) |
 | Wed, 04 Jun 2025 17:50:02 GMT | A Quantum Celebration: UN Declares 2025 the International Year of Quantum Science and Technology | QuantumGenie | [Read More](https://medium.com/p/fbc36d266600) |
 | Wed, 04 Jun 2025 17:49:13 GMT | Monday Monitor — Tryhackme Writeup | V0idd | [Read More](https://medium.com/p/c8d0e91d533a) |
-| Wed, 04 Jun 2025 17:47:44 GMT | Rethinking the European Union’s Arctic strategy: Greenland must lie at the heart of it | European Horizons’ Leiden Chapter | [Read More](https://medium.com/p/11f4f84004b9) |
-| Wed, 04 Jun 2025 17:32:03 GMT | Day 53: Mastering User Input & Conditionals in Bash Scripting | Agarwaldaksh | [Read More](https://medium.com/p/213e12472bf1) |
-| Wed, 04 Jun 2025 17:27:47 GMT | Mobile Device Forensics: Unlocking Digital Evidence in Your Pocket | David Ramovich Mandal | [Read More](https://medium.com/p/b3ba4ff94e8f) |
-| Wed, 04 Jun 2025 17:24:31 GMT | ☠️ CORS of Destruction: How Misconfigured Origins Let Me Read Everything | Iski | [Read More](https://medium.com/p/15a49261a32a) |
-| Wed, 04 Jun 2025 17:24:28 GMT | How Can I Recover My Money From Fxrevenues? | Doris | [Read More](https://medium.com/p/84f8e640e6ec) |
-| Wed, 04 Jun 2025 17:22:29 GMT | I Investigated Australia’s New Ransomware Payment Rule — Here’s What I Learned | LazyHacker | [Read More](https://medium.com/p/57f748a29daf) |
-| Wed, 04 Jun 2025 17:19:53 GMT | Chasing Shadows in Cyberspace: Who is the Threat Actor Behind? | Serdar Gumus | [Read More](https://medium.com/p/f4fcf95280e2) |
-| Wed, 04 Jun 2025 17:11:03 GMT | Living Off The Land: Why Our Security Theater Is Missing the Real Show | Eric Zietlow | [Read More](https://medium.com/p/5780329d2e61) |
-| Wed, 04 Jun 2025 17:05:40 GMT | How to Set Up MobSF with Docker on Kali Linux for Mobile App Penetration Testing | C. Oscar Lawshea | [Read More](https://medium.com/p/7c95df27e200) |
