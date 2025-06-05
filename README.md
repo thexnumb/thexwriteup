@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 03:54:38 GMT | How to Start In CyberSecurity. Complete Roadmap. | err0rgod | [Read More](https://medium.com/p/87eb22d608ac) |
+| Thu, 05 Jun 2025 03:42:16 GMT | Antivirus- are they really helpfull. | err0rgod | [Read More](https://medium.com/p/45024fb63c86) |
+| Thu, 05 Jun 2025 03:32:24 GMT | When Breakfast Meets a Breach: How W.K. Kellogg Became a Cybersecurity Case Study | Deven Chhajed | [Read More](https://medium.com/p/e1566ef19915) |
 | Thu, 05 Jun 2025 03:10:47 GMT | ️ CVE-2022-46604: Exploring a Path Traversal Vulnerability in Responsive File Manager | CyberQuestor | [Read More](https://medium.com/p/50d7ab5826ad) |
 | Thu, 05 Jun 2025 02:57:17 GMT | The $450 Million Mirage: How AI Hype Fueled Builder.ai’s Collapse | Carlos Jaramillo | [Read More](https://medium.com/p/a6601f22eb52) |
 | Thu, 05 Jun 2025 02:50:33 GMT | Power Platform Environments— Firewall security settings | Mustaque Ehiya | [Read More](https://medium.com/p/2faac95cffd4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 16:35:01 GMT | How to Use PyPhisher in Termux: Simple and Safe Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/1129443ea48b) |
 | Wed, 04 Jun 2025 16:33:46 GMT | Uncovering Business Logic Vulnerabilities: A Real-World Case Study | Nishanthan | [Read More](https://medium.com/p/18bfbdae46b3) |
 | Wed, 04 Jun 2025 16:33:33 GMT | EjptV2 - Host & Network Penetration Testing: System-Host Based Attacks CTF 1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/d8455f56c2ea) |
-| Wed, 04 Jun 2025 16:33:21 GMT | This Country Just Banned AI Tools in Government — Here’s Why | Hafizbilaltariq | [Read More](https://medium.com/p/c3e85f6cdc5d) |
-| Wed, 04 Jun 2025 16:32:18 GMT | Ejpt V2 - Assessment Methodologies: Vulnerability Assessment CTF 1 | MEFIRE FILS ASSAN | [Read More](https://medium.com/p/e0b3f1abbbf6) |
-| Wed, 04 Jun 2025 16:29:11 GMT | WordPress Malware Removal: Steps to Clean Your Site and Prevent Future Infections | SafeAeon Inc. | [Read More](https://medium.com/p/657b011d1fd7) |
