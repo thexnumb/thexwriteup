@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 14:36:19 GMT | But Not Kiss | Hazu | [Read More](https://medium.com/p/6bb683701707) |
+| Thu, 05 Jun 2025 14:30:58 GMT | 404 to Root : How a Forgotten Subdomain Led to Server Takeover ‍☠️ | z0h3 | [Read More](https://medium.com/p/6284d0264c7e) |
+| Thu, 05 Jun 2025 14:28:50 GMT | Analyzed Steam Phishing Page — Here’s What I Found | Athiwat Tiprasaharn | [Read More](https://medium.com/p/c90e41ffb43e) |
+| Thu, 05 Jun 2025 14:27:56 GMT | Burp suite for vulnerability assessment: Using Burp suite to Test for Code Injection… | Ekene Joseph | [Read More](https://medium.com/p/8525b174ecde) |
+| Thu, 05 Jun 2025 14:25:36 GMT | Top Online Platforms & Communities: Learn, Upskill & Grow | Sarith | [Read More](https://medium.com/p/0e954547c60e) |
+| Thu, 05 Jun 2025 14:24:42 GMT | The evolution of broad cyber attacks | Martin Abramov | [Read More](https://medium.com/p/f2e24b0936e1) |
+| Thu, 05 Jun 2025 14:23:43 GMT | Claude 4: Between Displayed Security and Rumors of “Hack” — What is Really Happening? | ParlonsIA | [Read More](https://medium.com/p/46e2bdfd9c59) |
+| Thu, 05 Jun 2025 14:22:27 GMT | 25 Interesting Papers to Read | Dixit Kumar | [Read More](https://medium.com/p/bbd539cfff67) |
+| Thu, 05 Jun 2025 14:21:37 GMT | I Found My Private Google Photos and Emails on Public Archives. | Satvikhardat | [Read More](https://medium.com/p/51a42108ceac) |
 | Thu, 05 Jun 2025 14:14:20 GMT | Why Password Policies Are Still Failing in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/c362796bf2fd) |
+| Thu, 05 Jun 2025 14:08:28 GMT | ChatGPT & Gemini in Ethical Hacking & Cyber Security - TryHackMe BadSuccessor Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/17d149123ae6) |
 | Thu, 05 Jun 2025 14:01:37 GMT | How I Made $1,250 in 5 Minutes with One SQL Injection | Ibtissam hammadi | [Read More](https://medium.com/p/6a67e255b4a2) |
 | Thu, 05 Jun 2025 13:59:43 GMT | Cyber Briefing: 2025.06.05 | CyberMaterial | [Read More](https://medium.com/p/54eec4409be7) |
 | Thu, 05 Jun 2025 13:58:35 GMT | A New Chapter for NATO: How Mark Rutte Could Redefine Global Security | Articlebasket | [Read More](https://medium.com/p/c9c367bc255f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 09:02:08 GMT | Understanding SIP Voting: Empowering The Sandbox DAO Community | Victoran | [Read More](https://medium.com/p/ea6c18a44193) |
 | Thu, 05 Jun 2025 08:59:21 GMT | Don't Worry, I Don't Understand Either | reina | [Read More](https://medium.com/p/d5df4e81614c) |
 | Thu, 05 Jun 2025 08:52:19 GMT | What Hackers Hope You Never Learn About Public Wi-Fi | Rachel The Storyteller | [Read More](https://medium.com/p/120989929748) |
-| Thu, 05 Jun 2025 08:50:35 GMT | Home Security: A Modern Necessity, Not Just a Luxury | Nestrondigitalhub | [Read More](https://medium.com/p/e5502f8423ad) |
-| Thu, 05 Jun 2025 08:48:47 GMT | Chaotic sanity | Praise Archibong | [Read More](https://medium.com/p/965bb2365547) |
-| Thu, 05 Jun 2025 08:47:49 GMT | EternalBlue | Ufuk Yaman | [Read More](https://medium.com/p/ea608d2f60ae) |
-| Thu, 05 Jun 2025 08:39:38 GMT | ASUS Routers Hacked in Large-Scale Cyber Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/eefd414da669) |
-| Thu, 05 Jun 2025 08:36:19 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know !! | Ceraso | [Read More](https://medium.com/p/06becc7d3c7d) |
-| Thu, 05 Jun 2025 08:33:58 GMT | Getting Started with osmedeus-base: A Beginner’s Toolkit for Automated Recon | Yamini Yadav | [Read More](https://medium.com/p/fd10a8609499) |
-| Thu, 05 Jun 2025 08:33:20 GMT | How can you trust a B2B platform and ensure that the people you’re dealing with are verified? | Dineshkarunas | [Read More](https://medium.com/p/ed2349449cc0) |
-| Thu, 05 Jun 2025 08:32:23 GMT | Security in Mind from the Start: Building Robust Systems for DevOps, Platform, and MLOps Engineers | Satish Ingale | [Read More](https://medium.com/p/35584a8388db) |
-| Thu, 05 Jun 2025 08:30:32 GMT | The Daily Tech Digest: 05 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7a2120233e4c) |
-| Thu, 05 Jun 2025 08:28:11 GMT | Elevate — Managed IT Services Australia | Elevate | [Read More](https://medium.com/p/b333a274eb9b) |
