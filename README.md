@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 09:18:39 GMT | The Critical Role of Vulnerability Scanning in SWIFT CSCF 2024 | Biz Serve IT | [Read More](https://medium.com/p/e1fa54740850) |
+| Thu, 05 Jun 2025 09:11:27 GMT | SWIFT CSP Mandatory Control 1.3: Virtualization or Cloud Platform Protection | Biz Serve IT | [Read More](https://medium.com/p/67a83affdec0) |
+| Thu, 05 Jun 2025 09:02:28 GMT | The Top 10 Website Vulnerability Scanners for Efficient Web Protection | Ramesh M | [Read More](https://medium.com/p/a308e826fc5d) |
+| Thu, 05 Jun 2025 09:02:20 GMT | GRC vs IRM | Harry West | [Read More](https://medium.com/p/f18a35331100) |
+| Thu, 05 Jun 2025 09:02:08 GMT | Understanding SIP Voting: Empowering The Sandbox DAO Community | Victoran | [Read More](https://medium.com/p/ea6c18a44193) |
+| Thu, 05 Jun 2025 08:59:21 GMT | Don't Worry, I Don't Understand Either | reina | [Read More](https://medium.com/p/d5df4e81614c) |
+| Thu, 05 Jun 2025 08:52:19 GMT | What Hackers Hope You Never Learn About Public Wi-Fi | Rachel The Storyteller | [Read More](https://medium.com/p/120989929748) |
+| Thu, 05 Jun 2025 08:50:35 GMT | Home Security: A Modern Necessity, Not Just a Luxury | Nestrondigitalhub | [Read More](https://medium.com/p/e5502f8423ad) |
+| Thu, 05 Jun 2025 08:48:47 GMT | Chaotic sanity | Praise Archibong | [Read More](https://medium.com/p/965bb2365547) |
 | Thu, 05 Jun 2025 08:47:49 GMT | EternalBlue | Ufuk Yaman | [Read More](https://medium.com/p/ea608d2f60ae) |
 | Thu, 05 Jun 2025 08:39:38 GMT | ASUS Routers Hacked in Large-Scale Cyber Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/eefd414da669) |
 | Thu, 05 Jun 2025 08:36:19 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know !! | Ceraso | [Read More](https://medium.com/p/06becc7d3c7d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 02:47:57 GMT | App Mobile - Como um sanduíche | Perla C. S | [Read More](https://medium.com/p/ed5d8cbe5762) |
 | Thu, 05 Jun 2025 02:36:19 GMT | Understanding Static methods & variables in Java - Explained with examples. | Hari Prasad | [Read More](https://medium.com/p/75f83b53757b) |
 | Thu, 05 Jun 2025 02:32:25 GMT | The Things We Don’t Post | Vaibhavi Naik | [Read More](https://medium.com/p/f1ea7b1e5e81) |
-| Thu, 05 Jun 2025 02:11:46 GMT | memories, in lower case | Simon Rothleder | [Read More](https://medium.com/p/fdf55870170e) |
-| Thu, 05 Jun 2025 01:49:14 GMT | This Android Trojan Can Empty Your Crypto Wallet and Bank Account Without You Noticing | Cyber-AppSec | [Read More](https://medium.com/p/73d01a0974e4) |
-| Thu, 05 Jun 2025 01:26:30 GMT | Only 2 Indicators — And They Predicted the Entire Crude Oil Crash | Sayedali | [Read More](https://medium.com/p/e72447a5f5ee) |
-| Thu, 05 Jun 2025 01:10:34 GMT | My First Year in Cybersecurity | Pablo Vergara | [Read More](https://medium.com/p/07558d3604cf) |
-| Thu, 05 Jun 2025 01:02:24 GMT | What the Arc Browser Story Reveals About the Future of Browser Security | Engineering @ SquareX | [Read More](https://medium.com/p/55107b9eb621) |
-| Thu, 05 Jun 2025 00:56:48 GMT | The Absurd, Alarming, and Occasionally Heroic History of Cybersecurity | Richard Wilder | [Read More](https://medium.com/p/f6c821bbc600) |
-| Thu, 05 Jun 2025 00:43:36 GMT | OS Out, OS In: How to Switch Your AWS EC2 Operating System the Right Way | Cyril Baah | [Read More](https://medium.com/p/6f446ae2d5b6) |
-| Thu, 05 Jun 2025 00:28:33 GMT | Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs | Steven Floresca | [Read More](https://medium.com/p/b535d1f0b888) |
-| Thu, 05 Jun 2025 00:24:28 GMT | Vulnerability Data Enrichment for CVE Records: 229 CNAs on the Enrichment Recognition List for June… | CVE Program Blog | [Read More](https://medium.com/p/36af70a086c3) |
