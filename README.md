@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 08:47:49 GMT | EternalBlue | Ufuk Yaman | [Read More](https://medium.com/p/ea608d2f60ae) |
+| Thu, 05 Jun 2025 08:39:38 GMT | ASUS Routers Hacked in Large-Scale Cyber Attack | SafetyDetectives Research Team | [Read More](https://medium.com/p/eefd414da669) |
+| Thu, 05 Jun 2025 08:36:19 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know !! | Ceraso | [Read More](https://medium.com/p/06becc7d3c7d) |
+| Thu, 05 Jun 2025 08:33:58 GMT | Getting Started with osmedeus-base: A Beginner’s Toolkit for Automated Recon | Yamini Yadav | [Read More](https://medium.com/p/fd10a8609499) |
+| Thu, 05 Jun 2025 08:33:20 GMT | How can you trust a B2B platform and ensure that the people you’re dealing with are verified? | Dineshkarunas | [Read More](https://medium.com/p/ed2349449cc0) |
+| Thu, 05 Jun 2025 08:32:23 GMT | Security in Mind from the Start: Building Robust Systems for DevOps, Platform, and MLOps Engineers | Satish Ingale | [Read More](https://medium.com/p/35584a8388db) |
+| Thu, 05 Jun 2025 08:30:32 GMT | The Daily Tech Digest: 05 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7a2120233e4c) |
+| Thu, 05 Jun 2025 08:28:11 GMT | Elevate — Managed IT Services Australia | Elevate | [Read More](https://medium.com/p/b333a274eb9b) |
 | Thu, 05 Jun 2025 08:18:40 GMT | Broken Object Fiesta: How I Used IDOR, No Auth, and a Little Luck to Pull User Data | Iski | [Read More](https://medium.com/p/4b8d8627fb39) |
 | Thu, 05 Jun 2025 08:18:27 GMT | Why There Are No Opportunities to Fake Certifications Minted on the Blockchain | Wahsidin | [Read More](https://medium.com/p/aef5540d4e28) |
+| Thu, 05 Jun 2025 08:15:16 GMT | What Makes Red Team Services Different from Traditional Penetration Testing in the UAE? | Ahad me | [Read More](https://medium.com/p/290f023be795) |
 | Thu, 05 Jun 2025 08:12:23 GMT | Dirty Bits #01: Dark Theme Sandbox | ThreatHunter Chronicles | [Read More](https://medium.com/p/f517f00639a6) |
 | Thu, 05 Jun 2025 08:12:18 GMT | ️ OSINT for User Information — How to Find People Using Public Data | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e16554656689) |
 | Thu, 05 Jun 2025 08:10:33 GMT | Massive 47 GB Leak Exposes 184 Million Records From Major Companies | SafetyDetectives Research Team | [Read More](https://medium.com/p/554b0e0e7f03) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 00:43:36 GMT | OS Out, OS In: How to Switch Your AWS EC2 Operating System the Right Way | Cyril Baah | [Read More](https://medium.com/p/6f446ae2d5b6) |
 | Thu, 05 Jun 2025 00:28:33 GMT | Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs | Steven Floresca | [Read More](https://medium.com/p/b535d1f0b888) |
 | Thu, 05 Jun 2025 00:24:28 GMT | Vulnerability Data Enrichment for CVE Records: 229 CNAs on the Enrichment Recognition List for June… | CVE Program Blog | [Read More](https://medium.com/p/36af70a086c3) |
-| Thu, 05 Jun 2025 00:20:17 GMT | ️‍♂️ Hacking the Wrist: How Smartwatches Can Be a Security Nightmare ⌚ | Anonysec Academy | [Read More](https://medium.com/p/00b5074ed1d3) |
-| Thu, 05 Jun 2025 00:11:08 GMT | NBA Finals 2025 Preview: | abram  isyagi | [Read More](https://medium.com/p/a960e6d288fb) |
-| Thu, 05 Jun 2025 00:00:07 GMT | VulnLtd (HackingHub) — A Solid CTF for Building Real Skills | WireHawk Security | [Read More](https://medium.com/p/1c36c6b47941) |
-| Wed, 04 Jun 2025 23:51:17 GMT | Tailoring vs Scoping: Fine-Tuning Your Security Control Baseline | Raviteja Mureboina | [Read More](https://medium.com/p/9ac9f5100228) |
-| Wed, 04 Jun 2025 23:32:20 GMT | Application Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/aef39f29bb11) |
-| Wed, 04 Jun 2025 23:26:29 GMT | Mengenal U3nlock: Alat Brute Force Sederhana untuk File & Login Page | Janukhi Bisyri | [Read More](https://medium.com/p/4bde41d9c2a2) |
-| Wed, 04 Jun 2025 23:14:01 GMT | Why Every Financial Firm Need Strong Cybersecurity? | Ostrich Cyber Risk | [Read More](https://medium.com/p/b3f31d11a4fd) |
-| Wed, 04 Jun 2025 23:13:57 GMT | Restricted — TryHackMe Writeup | V0idd | [Read More](https://medium.com/p/c88e2dc0725b) |
-| Wed, 04 Jun 2025 22:51:35 GMT | How my curiosity gave me 2 CVEs! | Sneh bavarva | [Read More](https://medium.com/p/99c420827411) |
