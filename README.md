@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 14:14:20 GMT | Why Password Policies Are Still Failing in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/c362796bf2fd) |
+| Thu, 05 Jun 2025 14:01:37 GMT | How I Made $1,250 in 5 Minutes with One SQL Injection | Ibtissam hammadi | [Read More](https://medium.com/p/6a67e255b4a2) |
+| Thu, 05 Jun 2025 13:59:43 GMT | Cyber Briefing: 2025.06.05 | CyberMaterial | [Read More](https://medium.com/p/54eec4409be7) |
+| Thu, 05 Jun 2025 13:58:35 GMT | A New Chapter for NATO: How Mark Rutte Could Redefine Global Security | Articlebasket | [Read More](https://medium.com/p/c9c367bc255f) |
+| Thu, 05 Jun 2025 13:50:41 GMT | Try Hack Me: Brute IT Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/b2189f9a646f) |
+| Thu, 05 Jun 2025 13:50:35 GMT | Dynamic Malware Analysis of Open Source Packages at Scale | Abhisek Datta | [Read More](https://medium.com/p/582eee96b0b7) |
+| Thu, 05 Jun 2025 13:41:38 GMT | Web3 Penetration Testing: What’s Different from Web2? | Decrypt0 | [Read More](https://medium.com/p/b61092015358) |
+| Thu, 05 Jun 2025 13:38:50 GMT | Text Phishing | Savvy Cyber Kids | [Read More](https://medium.com/p/0a4eb010e0c5) |
+| Thu, 05 Jun 2025 13:38:26 GMT | Top 6 Digital Parenting Tips for the New Year | Savvy Cyber Kids | [Read More](https://medium.com/p/3670dec23db0) |
+| Thu, 05 Jun 2025 13:38:04 GMT | The Best First Phone to Get Your Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/25a585aa7710) |
+| Thu, 05 Jun 2025 13:37:05 GMT | How to monitor security violations in your web app. | Prakash Valluri | [Read More](https://medium.com/p/b217f32a7bf5) |
+| Thu, 05 Jun 2025 13:36:02 GMT | How to Install Kali Linux: Step-by-Step Beginner’s Guide (2025) | Very Lazy Tech | [Read More](https://medium.com/p/869639b2922f) |
+| Thu, 05 Jun 2025 13:23:29 GMT | The Security Misconception That’s Putting Angular Apps at Risk | Herbert Moroni Gois | [Read More](https://medium.com/p/6f0205113b59) |
 | Thu, 05 Jun 2025 13:20:50 GMT | Bulletproofing SPA Sessions: Token Rotation Against Session Hijacking | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/3247444a1523) |
 | Thu, 05 Jun 2025 13:19:49 GMT | Sandworm just RSVP’d to your SCADA network | Wes Young | [Read More](https://medium.com/p/fe8002d1e12b) |
 | Thu, 05 Jun 2025 13:16:08 GMT | Why Most Audits Miss Real Bugs — And How We’re Fixing It at Radcipher | Radcipher | [Read More](https://medium.com/p/8e79176482e3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 08:32:23 GMT | Security in Mind from the Start: Building Robust Systems for DevOps, Platform, and MLOps Engineers | Satish Ingale | [Read More](https://medium.com/p/35584a8388db) |
 | Thu, 05 Jun 2025 08:30:32 GMT | The Daily Tech Digest: 05 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/7a2120233e4c) |
 | Thu, 05 Jun 2025 08:28:11 GMT | Elevate — Managed IT Services Australia | Elevate | [Read More](https://medium.com/p/b333a274eb9b) |
-| Thu, 05 Jun 2025 08:18:40 GMT | Broken Object Fiesta: How I Used IDOR, No Auth, and a Little Luck to Pull User Data | Iski | [Read More](https://medium.com/p/4b8d8627fb39) |
-| Thu, 05 Jun 2025 08:18:27 GMT | Why There Are No Opportunities to Fake Certifications Minted on the Blockchain | Wahsidin | [Read More](https://medium.com/p/aef5540d4e28) |
-| Thu, 05 Jun 2025 08:15:16 GMT | What Makes Red Team Services Different from Traditional Penetration Testing in the UAE? | Ahad me | [Read More](https://medium.com/p/290f023be795) |
-| Thu, 05 Jun 2025 08:12:23 GMT | Dirty Bits #01: Dark Theme Sandbox | ThreatHunter Chronicles | [Read More](https://medium.com/p/f517f00639a6) |
-| Thu, 05 Jun 2025 08:12:18 GMT | ️ OSINT for User Information — How to Find People Using Public Data | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e16554656689) |
-| Thu, 05 Jun 2025 08:10:33 GMT | Massive 47 GB Leak Exposes 184 Million Records From Major Companies | SafetyDetectives Research Team | [Read More](https://medium.com/p/554b0e0e7f03) |
-| Thu, 05 Jun 2025 08:10:17 GMT | WooCommerce Admins Tricked by Fake Security Update | SafetyDetectives Research Team | [Read More](https://medium.com/p/41e764dac07e) |
-| Thu, 05 Jun 2025 08:06:01 GMT | Top Cyber Security Solutions by Camsdata in Bangalore | Wright Blogger | [Read More](https://medium.com/p/51ae6b83f966) |
-| Thu, 05 Jun 2025 08:04:29 GMT | TryHackMe Internal Room Walkthrough: A Step-by-Step Guide to Root Access | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/ccf67747da75) |
-| Thu, 05 Jun 2025 07:59:36 GMT | Cyber Security Roadmap For the Next 5 Years (2026–2030) | Naufal Fairuz Alfarras | [Read More](https://medium.com/p/60a67efde225) |
-| Thu, 05 Jun 2025 07:58:07 GMT | Disruption of configuration information - DOS Attack | Alibinazam | [Read More](https://medium.com/p/69059b66c1a5) |
-| Thu, 05 Jun 2025 07:56:35 GMT | OSINT Automation in Kali Linux — The Ultimate Toolkit for Bug Bounty and Red Teamers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/456bcd925245) |
-| Thu, 05 Jun 2025 07:56:30 GMT | Certified Appsec Practitioner V2 (CAP) Review 2025 | Ittiwat | [Read More](https://medium.com/p/d9d264de0f75) |
