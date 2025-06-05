@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 21:12:27 GMT | The Backend Engineer’s Cheat Sheet to Cybersecurity (2025 Edition) | Stefano Alvares | [Read More](https://medium.com/p/66fca25d6540) |
+| Thu, 05 Jun 2025 21:01:41 GMT | DroidGround: Elevate Your Android CTF Challenges | thelicato | [Read More](https://medium.com/p/69a5c479965e) |
+| Thu, 05 Jun 2025 20:49:23 GMT | Play Ransomware in 2025: Evolution, Tactics, and Advisory Insights | Chetan Seripally | [Read More](https://medium.com/p/19e6bd668090) |
+| Thu, 05 Jun 2025 20:39:27 GMT | When Data Becomes Danger: The Alarming AT&T Identity Leak and What It Means for You | Avnishyam | [Read More](https://medium.com/p/718dc9d95a30) |
+| Thu, 05 Jun 2025 20:34:50 GMT | Comprehensive Guide to IT Risk Management | Oleh Dubetcky | [Read More](https://medium.com/p/50366dcf6748) |
+| Thu, 05 Jun 2025 20:34:28 GMT | Exploring a Web3 Smart Contract Issue: Gas Exploitation via Unchecked Loops | Vinaysati | [Read More](https://medium.com/p/492f2899b417) |
 | Thu, 05 Jun 2025 20:27:06 GMT | Is it possible to recover my money from Nicehash | Sarah | [Read More](https://medium.com/p/c9c16355f870) |
 | Thu, 05 Jun 2025 20:21:15 GMT | Mastering Cybersecurity: Earn Money and Protect Your Site | Ali_Ahmad | [Read More](https://medium.com/p/d85aae136a9f) |
 | Thu, 05 Jun 2025 20:00:30 GMT | Go 1.24.4 and 1.23.10 bring important security fixes | ASAcrew Blog | [Read More](https://medium.com/p/544c453d246d) |
@@ -107,9 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 14:23:43 GMT | Claude 4: Between Displayed Security and Rumors of “Hack” — What is Really Happening? | ParlonsIA | [Read More](https://medium.com/p/46e2bdfd9c59) |
 | Thu, 05 Jun 2025 14:22:27 GMT | 25 Interesting Papers to Read | Dixit Kumar | [Read More](https://medium.com/p/bbd539cfff67) |
 | Thu, 05 Jun 2025 14:21:37 GMT | I Found My Private Google Photos and Emails on Public Archives. | Satvikhardat | [Read More](https://medium.com/p/51a42108ceac) |
-| Thu, 05 Jun 2025 14:14:20 GMT | Why Password Policies Are Still Failing in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/c362796bf2fd) |
-| Thu, 05 Jun 2025 14:10:33 GMT | Keamanan Siber ICS/SCADA: Mengungkap Kerentanan dan Jenis Serangan Umum | Farhan Maulana | [Read More](https://medium.com/p/954c744d7ee5) |
-| Thu, 05 Jun 2025 14:08:28 GMT | ChatGPT & Gemini in Ethical Hacking & Cyber Security - TryHackMe BadSuccessor Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/17d149123ae6) |
-| Thu, 05 Jun 2025 14:01:37 GMT | How I Made $1,250 in 5 Minutes with One SQL Injection | Ibtissam hammadi | [Read More](https://medium.com/p/6a67e255b4a2) |
-| Thu, 05 Jun 2025 13:59:43 GMT | Cyber Briefing: 2025.06.05 | CyberMaterial | [Read More](https://medium.com/p/54eec4409be7) |
-| Thu, 05 Jun 2025 13:58:35 GMT | A New Chapter for NATO: How Mark Rutte Could Redefine Global Security | Articlebasket | [Read More](https://medium.com/p/c9c367bc255f) |
