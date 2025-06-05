@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 17:25:19 GMT | Explaining Machine Learning Like You’re 5 — Because Complicated is Boring | Devangi Gamage | [Read More](https://medium.com/p/9ecdef17723e) |
+| Thu, 05 Jun 2025 17:16:40 GMT | Caltech Achieves Hyper-Entanglement: A Quantum Breakthrough with Major Implications | QuantumGenie | [Read More](https://medium.com/p/6ff8eef93d3e) |
 | Thu, 05 Jun 2025 17:12:22 GMT | Best iPad Kiosk App: Top Picks for Your Business Needs | Vantage MDM | [Read More](https://medium.com/p/2b78eba9d405) |
 | Thu, 05 Jun 2025 17:11:41 GMT | Caltech Achieves Hyper-Entanglement: A Quantum Breakthrough with Major Implications | Luis F. Gil | [Read More](https://medium.com/p/7e02772d9fd2) |
 | Thu, 05 Jun 2025 17:11:21 GMT | Visual Monitoring Solutions brings you the next level of security with 24/7 Live CCTV Monitoring. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c440c4d43d47) |
@@ -83,6 +85,7 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 13:50:41 GMT | Try Hack Me: Brute IT Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/b2189f9a646f) |
 | Thu, 05 Jun 2025 13:50:35 GMT | Dynamic Malware Analysis of Open Source Packages at Scale | Abhisek Datta | [Read More](https://medium.com/p/582eee96b0b7) |
 | Thu, 05 Jun 2025 13:41:38 GMT | Web3 Penetration Testing: What’s Different from Web2? | Decrypt0 | [Read More](https://medium.com/p/b61092015358) |
+| Thu, 05 Jun 2025 13:39:26 GMT | Полная информация о DataHaven. | Shuurai | [Read More](https://medium.com/p/8f98c7b8746a) |
 | Thu, 05 Jun 2025 13:38:50 GMT | Text Phishing | Savvy Cyber Kids | [Read More](https://medium.com/p/0a4eb010e0c5) |
 | Thu, 05 Jun 2025 13:38:26 GMT | Top 6 Digital Parenting Tips for the New Year | Savvy Cyber Kids | [Read More](https://medium.com/p/3670dec23db0) |
 | Thu, 05 Jun 2025 13:38:04 GMT | The Best First Phone to Get Your Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/25a585aa7710) |
@@ -110,6 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 12:32:25 GMT | safety | Indots | [Read More](https://medium.com/p/92fd47ae3f66) |
 | Thu, 05 Jun 2025 12:30:50 GMT | Dijkstra Algorithm in Python | fijrisalwa | [Read More](https://medium.com/p/3b4ad2a8f009) |
 | Thu, 05 Jun 2025 12:29:51 GMT | How and Where to Find Trusted Cash App Profiles Online | How to Use Verified Cash App Accounts | [Read More](https://medium.com/p/882939473d7e) |
-| Thu, 05 Jun 2025 12:28:53 GMT | Introduction to the Cyber Security Analyst Role | Crawsec | [Read More](https://medium.com/p/672dbd12614f) |
-| Thu, 05 Jun 2025 12:17:37 GMT | The dead internet theory | The Aristippus Code | [Read More](https://medium.com/p/456b0457ab07) |
-| Thu, 05 Jun 2025 12:12:29 GMT | Do The Free Stuff First | David Scott | [Read More](https://medium.com/p/bcda62d36d12) |
