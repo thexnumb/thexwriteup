@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 18:44:49 GMT | Intro to AWS IAM Enumeration (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/c0e140ebc9d8) |
+| Thu, 05 Jun 2025 18:35:49 GMT | The Growing Importance of Cybersecurity in the Digital Age. | Hassan Magar | [Read More](https://medium.com/p/97384b834391) |
+| Thu, 05 Jun 2025 18:31:34 GMT | What is a VP²N, and What makes it a better VPN? | Chuck Wade | [Read More](https://medium.com/p/dfe47002d833) |
+| Thu, 05 Jun 2025 18:21:47 GMT | Logsensor️‍♂️ | Zer0-Crypt0 | [Read More](https://medium.com/p/9d9f2750b2bd) |
+| Thu, 05 Jun 2025 18:18:36 GMT | Drittparteienmanagement revolutionieren: Der strategische Leitfaden für sichere… | Philip Hansen | [Read More](https://medium.com/p/380e3a6a6a37) |
+| Thu, 05 Jun 2025 18:17:51 GMT | Certified Appsec Practitioner V2 (CAP) Review 2025 | Ittiwat | [Read More](https://medium.com/p/3dbdcd7beb8c) |
+| Thu, 05 Jun 2025 18:09:21 GMT | Unveiling Network Secrets: How to Analyze PCAP Files Like a Pro with NetworkMiner | Mubashir Rahman | [Read More](https://medium.com/p/a7b4093e99e3) |
+| Thu, 05 Jun 2025 18:05:36 GMT | When AI Lies, Hackers Win: The Rise of Slopsquatting in the Software Supply Chain | aditya nandedkar | [Read More](https://medium.com/p/42b4cc98de52) |
+| Thu, 05 Jun 2025 18:04:38 GMT | Outsmart Root Detection & Play Integrity: Run Any App on a Rooted Android | redhunter1444 | [Read More](https://medium.com/p/481d8d0f4904) |
+| Thu, 05 Jun 2025 18:03:09 GMT | How I Hacked My Way Through CEHv13 — Legally | Poornima Mahajan | [Read More](https://medium.com/p/56b0180fd058) |
+| Thu, 05 Jun 2025 17:57:11 GMT | Strengthening the Backbone of Critical Infrastructure: ICS/SCADA Cybersecurity | Akhdan Arif | [Read More](https://medium.com/p/8e64566a30eb) |
+| Thu, 05 Jun 2025 17:53:28 GMT | Picke Rick — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/1e38b98ab0fa) |
+| Thu, 05 Jun 2025 17:46:35 GMT | They Tried to Scam Me—This Is How I Outsmarted Them | Troy Steele | [Read More](https://medium.com/p/7c74a86131e2) |
+| Thu, 05 Jun 2025 17:40:49 GMT | Ukraine War: The Lesser-Known News 6/5/25 | Kevin Fitzgerald | [Read More](https://medium.com/p/2d74181c35c1) |
+| Thu, 05 Jun 2025 17:36:39 GMT | “Guardians of Joy” We Don’t Just Secure Events — We Safeguard Experiences | Metropolitan Security Services | [Read More](https://medium.com/p/150af7e70e4b) |
 | Thu, 05 Jun 2025 17:25:19 GMT | Explaining Machine Learning Like You’re 5 — Because Complicated is Boring | Devangi Gamage | [Read More](https://medium.com/p/9ecdef17723e) |
 | Thu, 05 Jun 2025 17:16:40 GMT | Caltech Achieves Hyper-Entanglement: A Quantum Breakthrough with Major Implications | QuantumGenie | [Read More](https://medium.com/p/6ff8eef93d3e) |
 | Thu, 05 Jun 2025 17:12:22 GMT | Best iPad Kiosk App: Top Picks for Your Business Needs | Vantage MDM | [Read More](https://medium.com/p/2b78eba9d405) |
@@ -98,18 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 13:14:17 GMT | Unauthenticated Remote Code Execution — How Hackers Run Code Like Ghosts | IBK Trevor | [Read More](https://medium.com/p/c1de49e031b2) |
 | Thu, 05 Jun 2025 13:12:23 GMT | The Shift-Left approach in Software Testing | Zubair Khan | [Read More](https://medium.com/p/144be3d83893) |
 | Thu, 05 Jun 2025 13:11:57 GMT | FOFA OSINT to find Phishing Pages | AbhirupKonwar | [Read More](https://medium.com/p/7ec2753f38bb) |
-| Thu, 05 Jun 2025 13:11:20 GMT | The Rise of Ransomware-as-a-Service (RaaS): How Hackers are Running It Like a Business | Sandesh Kumar | [Read More](https://medium.com/p/487f562c67ef) |
-| Thu, 05 Jun 2025 13:11:02 GMT | Deepfakes in Cybersecurity: The New Face of Digital Deception | Sandesh Kumar | [Read More](https://medium.com/p/e5cf5da03d80) |
-| Thu, 05 Jun 2025 13:07:27 GMT | The Human Firewall: Why Cybersecurity Starts With People, Not Technology | Sandesh Kumar | [Read More](https://medium.com/p/94f7b3dfb336) |
-| Thu, 05 Jun 2025 13:06:33 GMT | Cybersecurity Cyber Security: A Deep Dive into Digital Protection | Tech Thrilled | [Read More](https://medium.com/p/a2e38d44c1da) |
-| Thu, 05 Jun 2025 13:02:29 GMT | AI Tool or Cyber Trap? How Fake Installers Are Exploiting the AI Boom | Peris.ai Cybersecurity | [Read More](https://medium.com/p/1abe1f01bee5) |
-| Thu, 05 Jun 2025 13:02:17 GMT | Le verrou commercial | Florent M | [Read More](https://medium.com/p/97ff381cc381) |
-| Thu, 05 Jun 2025 13:01:21 GMT | HTTP in Detail - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/f08368ce5370) |
-| Thu, 05 Jun 2025 12:58:24 GMT | Security+ SY0–701 — Week 2 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/78ab13ade7e0) |
-| Thu, 05 Jun 2025 12:54:32 GMT | Do Not Watch These Videos On Your Phone Or PC | Kajal Sharma | [Read More](https://medium.com/p/bd064f538d1d) |
-| Thu, 05 Jun 2025 12:51:53 GMT | Pwning DC:1(Vulnhub Walkthrough) | Calvaryhasarrived | [Read More](https://medium.com/p/cf8ec903e319) |
-| Thu, 05 Jun 2025 12:36:35 GMT | BCA in Cyber Security: Your Gateway to a High-Paying Tech Career in 2025 | Success Study Tips | [Read More](https://medium.com/p/204e651b42db) |
-| Thu, 05 Jun 2025 12:35:32 GMT | Why IT Asset Management Needs to Flip the Script | Kyle Marks | [Read More](https://medium.com/p/058590c8ccd3) |
-| Thu, 05 Jun 2025 12:32:25 GMT | safety | Indots | [Read More](https://medium.com/p/92fd47ae3f66) |
-| Thu, 05 Jun 2025 12:30:50 GMT | Dijkstra Algorithm in Python | fijrisalwa | [Read More](https://medium.com/p/3b4ad2a8f009) |
-| Thu, 05 Jun 2025 12:29:51 GMT | How and Where to Find Trusted Cash App Profiles Online | How to Use Verified Cash App Accounts | [Read More](https://medium.com/p/882939473d7e) |
