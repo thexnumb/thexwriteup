@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 13:20:50 GMT | Bulletproofing SPA Sessions: Token Rotation Against Session Hijacking | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/3247444a1523) |
+| Thu, 05 Jun 2025 13:19:49 GMT | Sandworm just RSVP’d to your SCADA network | Wes Young | [Read More](https://medium.com/p/fe8002d1e12b) |
+| Thu, 05 Jun 2025 13:16:08 GMT | Why Most Audits Miss Real Bugs — And How We’re Fixing It at Radcipher | Radcipher | [Read More](https://medium.com/p/8e79176482e3) |
+| Thu, 05 Jun 2025 13:14:17 GMT | Unauthenticated Remote Code Execution — How Hackers Run Code Like Ghosts | IBK Trevor | [Read More](https://medium.com/p/c1de49e031b2) |
+| Thu, 05 Jun 2025 13:12:23 GMT | The Shift-Left approach in Software Testing | Zubair Khan | [Read More](https://medium.com/p/144be3d83893) |
+| Thu, 05 Jun 2025 13:11:57 GMT | FOFA OSINT to find Phishing Pages | AbhirupKonwar | [Read More](https://medium.com/p/7ec2753f38bb) |
+| Thu, 05 Jun 2025 13:11:20 GMT | The Rise of Ransomware-as-a-Service (RaaS): How Hackers are Running It Like a Business | Sandesh Kumar | [Read More](https://medium.com/p/487f562c67ef) |
+| Thu, 05 Jun 2025 13:11:02 GMT | Deepfakes in Cybersecurity: The New Face of Digital Deception | Sandesh Kumar | [Read More](https://medium.com/p/e5cf5da03d80) |
+| Thu, 05 Jun 2025 13:07:27 GMT | The Human Firewall: Why Cybersecurity Starts With People, Not Technology | Sandesh Kumar | [Read More](https://medium.com/p/94f7b3dfb336) |
+| Thu, 05 Jun 2025 13:06:33 GMT | Cybersecurity Cyber Security: A Deep Dive into Digital Protection | Tech Thrilled | [Read More](https://medium.com/p/a2e38d44c1da) |
+| Thu, 05 Jun 2025 13:02:29 GMT | AI Tool or Cyber Trap? How Fake Installers Are Exploiting the AI Boom | Peris.ai Cybersecurity | [Read More](https://medium.com/p/1abe1f01bee5) |
+| Thu, 05 Jun 2025 13:02:17 GMT | Le verrou commercial | Florent M | [Read More](https://medium.com/p/97ff381cc381) |
+| Thu, 05 Jun 2025 13:01:21 GMT | HTTP in Detail - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/f08368ce5370) |
+| Thu, 05 Jun 2025 12:58:24 GMT | Security+ SY0–701 — Week 2 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/78ab13ade7e0) |
+| Thu, 05 Jun 2025 12:54:32 GMT | Do Not Watch These Videos On Your Phone Or PC | Kajal Sharma | [Read More](https://medium.com/p/bd064f538d1d) |
+| Thu, 05 Jun 2025 12:51:53 GMT | Pwning DC:1(Vulnhub Walkthrough) | Calvaryhasarrived | [Read More](https://medium.com/p/cf8ec903e319) |
 | Thu, 05 Jun 2025 12:36:35 GMT | BCA in Cyber Security: Your Gateway to a High-Paying Tech Career in 2025 | Success Study Tips | [Read More](https://medium.com/p/204e651b42db) |
 | Thu, 05 Jun 2025 12:35:32 GMT | Why IT Asset Management Needs to Flip the Script | Kyle Marks | [Read More](https://medium.com/p/058590c8ccd3) |
 | Thu, 05 Jun 2025 12:32:25 GMT | safety | Indots | [Read More](https://medium.com/p/92fd47ae3f66) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 07:58:07 GMT | Disruption of configuration information - DOS Attack | Alibinazam | [Read More](https://medium.com/p/69059b66c1a5) |
 | Thu, 05 Jun 2025 07:56:35 GMT | OSINT Automation in Kali Linux — The Ultimate Toolkit for Bug Bounty and Red Teamers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/456bcd925245) |
 | Thu, 05 Jun 2025 07:56:30 GMT | Certified Appsec Practitioner V2 (CAP) Review 2025 | Ittiwat | [Read More](https://medium.com/p/d9d264de0f75) |
-| Thu, 05 Jun 2025 07:46:06 GMT | ️ NASA/JPL Credentials & Email Leak via Public Pastebin — An Unexpected Find | FufuFafa | [Read More](https://medium.com/p/38fb4ee6ad83) |
-| Thu, 05 Jun 2025 07:43:56 GMT | ️‍♂️ OSINT Using Kali Linux — Full Guide | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7296590e907d) |
-| Thu, 05 Jun 2025 07:40:52 GMT | ICS/SCADA Attack Vectors: A Case Study and Analysis using the Cyber Kill Chain Model | Muhammad Zidan | [Read More](https://medium.com/p/72f886976dec) |
-| Thu, 05 Jun 2025 07:29:33 GMT | ️ Why Retail Stores in Delhi NCR Are Relying on Security Guards More Than Ever | Sumintra | [Read More](https://medium.com/p/5ce20ad83f5e) |
-| Thu, 05 Jun 2025 07:27:06 GMT | Zero Trust Security: A Smarter Way to Protect Your Data | Mohana Reddy | [Read More](https://medium.com/p/90edc76029d6) |
-| Thu, 05 Jun 2025 07:26:48 GMT | Why Hiring Professional Security Services in Kolkata, Howrah, and Hooghly is a Smart Decision for… | Industry Blogs | [Read More](https://medium.com/p/2c58ae73eb37) |
-| Thu, 05 Jun 2025 07:22:26 GMT | How to Keep Our Smartphones Secure from Data Breaches | Moinul Hossain Nibir | [Read More](https://medium.com/p/e2a2ddb19c94) |
-| Thu, 05 Jun 2025 07:22:20 GMT | The Time Contains() in C# Broke My Code — A Small Mistake With a Big Impact | Home Sankar Reddy V | [Read More](https://medium.com/p/adf36cf93dd7) |
-| Thu, 05 Jun 2025 07:18:15 GMT | Cybersecurity in the Digital Age: Building Smarter, Safer Digital Frontiers | Intellitron Genesis | [Read More](https://medium.com/p/e24e9722d003) |
-| Thu, 05 Jun 2025 07:15:51 GMT | Is It Possible To Withdraw My Money From Minepulse ? | Harley | [Read More](https://medium.com/p/7ec9895d6bde) |
-| Thu, 05 Jun 2025 07:15:48 GMT | Quantum-Safe Security Protocols for Critical Infrastructure Communication | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a2ef63382c06) |
-| Thu, 05 Jun 2025 07:11:41 GMT | VBE to .NET: A fileless execution story | Dawid Bolkowski | [Read More](https://medium.com/p/dd9c4f8393dd) |
-| Thu, 05 Jun 2025 07:04:55 GMT | I Was 15 When I Chose the Hardest Path — And I’m Still Walking It Alone | Salahinashfi | [Read More](https://medium.com/p/9ea21acb05cf) |
-| Thu, 05 Jun 2025 06:55:52 GMT | 20 Effective Ways to Strengthen Your Cybersecurity Today | Techridge Solutions | [Read More](https://medium.com/p/a1a389886b38) |
-| Thu, 05 Jun 2025 06:50:22 GMT | ICS/SCADA: Arsitektur, Ancaman Siber, dan Cara Menjaga Sistem Industri Tetap Aman | Rama Jiansyah | [Read More](https://medium.com/p/c368eccfa877) |
-| Thu, 05 Jun 2025 06:50:17 GMT | Guide to Beginning a Career in the Security Industry Authority (SIA-UK) and Transitioning into… | Dr Francesco Dergano | [Read More](https://medium.com/p/54f124d44852) |
