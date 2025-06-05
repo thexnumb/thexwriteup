@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 11:16:30 GMT | Why use cybersecurity risk management today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f0b3c48bd477) |
+| Thu, 05 Jun 2025 11:04:11 GMT | Why Emergencies Are a Thing of Emergency in Nigeria | Oyewole Joledo | [Read More](https://medium.com/p/a3872f0957c9) |
+| Thu, 05 Jun 2025 11:01:55 GMT | Cyber Security Course: Secure Your Career In A Hacking World | Osiz Labs | [Read More](https://medium.com/p/8a52f000a972) |
+| Thu, 05 Jun 2025 10:51:43 GMT | Billing  — THM WriteUp | Carlos Padilla | [Read More](https://medium.com/p/d11bed9a2ed3) |
+| Thu, 05 Jun 2025 10:49:51 GMT | Top 5 KPIs to Boost Application Support Efficiency | Catherine William | [Read More](https://medium.com/p/3f5cd43d16fc) |
+| Thu, 05 Jun 2025 10:45:00 GMT | The Modern Day Medusa | Akshara Siddharthan | [Read More](https://medium.com/p/0e644147aec0) |
 | Thu, 05 Jun 2025 10:30:19 GMT | Bulletproof Your Web Applications: The Complete AWS WAF Security Guide (Part 1) | Robin | [Read More](https://medium.com/p/b1fda84c24be) |
 | Thu, 05 Jun 2025 10:26:38 GMT | HoloXit — Security and Surveillance: Surveillance Automation for Optimal Security | HoloXit | [Read More](https://medium.com/p/deb8cae310ae) |
 | Thu, 05 Jun 2025 10:23:31 GMT | Is Mintos Legit Or Scam? | Antonia | [Read More](https://medium.com/p/726d792b69ed) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 05:33:18 GMT | So You Want to Work in GRC? Here’s the Honest Guide for 2025–2026 | Abhijith Soman | [Read More](https://medium.com/p/4282383e60c2) |
 | Thu, 05 Jun 2025 05:25:35 GMT | Practical Advice to Secure Your Vibe-Coded App | Chiradeep Vittal | [Read More](https://medium.com/p/b3043bc80b60) |
 | Thu, 05 Jun 2025 05:25:30 GMT | CyberPod AI: Autonomous Data Intelligence in UAE | Tekhabeeb | [Read More](https://medium.com/p/5c9ea18912e7) |
-| Thu, 05 Jun 2025 05:21:14 GMT | Security Blue Team- Introduction to OSINT Capstone Challenge. | Pwnedproof | [Read More](https://medium.com/p/0a74d10f896f) |
-| Thu, 05 Jun 2025 05:18:55 GMT | Lock ‘Er Down, Mate: Cyber Security | Adam Adi | [Read More](https://medium.com/p/be4fe73d43c3) |
-| Thu, 05 Jun 2025 05:07:10 GMT | Create own Hacking SERVER Instead of Portswigger exploit server | Mr Horbio | [Read More](https://medium.com/p/78b46172e2f6) |
-| Thu, 05 Jun 2025 05:06:35 GMT | CYBER SECURITY REVOLUTION FROM PT. | Sydeco Indonesia | [Read More](https://medium.com/p/b75e99e14c37) |
-| Thu, 05 Jun 2025 04:59:16 GMT | Context is Everything in Cybersecurity: Why Signals Without Meaning Are Just Noise | Juan Pablo Castro | [Read More](https://medium.com/p/376aeb6fc095) |
-| Thu, 05 Jun 2025 04:46:41 GMT | Why Manual Risk Assessments Are Outdated in the Age of AI | CyRAACS | [Read More](https://medium.com/p/c09a113a2c58) |
