@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 05:33:18 GMT | So You Want to Work in GRC? Here’s the Honest Guide for 2025–2026 | Abhijith Soman | [Read More](https://medium.com/p/4282383e60c2) |
+| Thu, 05 Jun 2025 05:25:35 GMT | Practical Advice to Secure Your Vibe-Coded App | Chiradeep Vittal | [Read More](https://medium.com/p/b3043bc80b60) |
+| Thu, 05 Jun 2025 05:25:30 GMT | CyberPod AI: Autonomous Data Intelligence in UAE | Tekhabeeb | [Read More](https://medium.com/p/5c9ea18912e7) |
+| Thu, 05 Jun 2025 05:21:14 GMT | Security Blue Team- Introduction to OSINT Capstone Challenge. | Pwnedproof | [Read More](https://medium.com/p/0a74d10f896f) |
+| Thu, 05 Jun 2025 05:18:55 GMT | Lock ‘Er Down, Mate: Cyber Security | Adam Adi | [Read More](https://medium.com/p/be4fe73d43c3) |
 | Thu, 05 Jun 2025 05:07:10 GMT | Create own Hacking SERVER Instead of Portswigger exploit server | Mr Horbio | [Read More](https://medium.com/p/78b46172e2f6) |
 | Thu, 05 Jun 2025 05:06:35 GMT | CYBER SECURITY REVOLUTION FROM PT. | Sydeco Indonesia | [Read More](https://medium.com/p/b75e99e14c37) |
 | Thu, 05 Jun 2025 04:59:16 GMT | Context is Everything in Cybersecurity: Why Signals Without Meaning Are Just Noise | Juan Pablo Castro | [Read More](https://medium.com/p/376aeb6fc095) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 18:01:00 GMT | Navigating the Digital Divide: A Game-Theoretic Forecast for a Post-Ukraine War US-Russia Cyber… | CCD-IS | [Read More](https://medium.com/p/eb7ee5dbef22) |
 | Wed, 04 Jun 2025 17:57:36 GMT | Como iniciar a analise de um PCAP? | Jonathan M. | [Read More](https://medium.com/p/7615254e172b) |
 | Wed, 04 Jun 2025 17:54:09 GMT | Inside the Gate: How I Witnessed a Tool Bypass a Metro Entry Without Ticket — And Why It’s a… | Aditya sunny | [Read More](https://medium.com/p/f795a29f0280) |
-| Wed, 04 Jun 2025 17:54:05 GMT | A Cybersecurity Journey: My path to OSCP | Erik137 | [Read More](https://medium.com/p/b682e4842a39) |
-| Wed, 04 Jun 2025 17:53:25 GMT | we provide 24/7 remote surveillance through professional CCTV monitoring. | Visual Monitoring Solutions | [Read More](https://medium.com/p/56940a5de230) |
-| Wed, 04 Jun 2025 17:51:50 GMT | Biggest Cyberattacks, Ransomware Attacks and Data Breaches in May 2025 | IT_Engineer | [Read More](https://medium.com/p/9c718b56c835) |
-| Wed, 04 Jun 2025 17:50:02 GMT | A Quantum Celebration: UN Declares 2025 the International Year of Quantum Science and Technology | QuantumGenie | [Read More](https://medium.com/p/fbc36d266600) |
-| Wed, 04 Jun 2025 17:49:13 GMT | Monday Monitor — Tryhackme Writeup | V0idd | [Read More](https://medium.com/p/c8d0e91d533a) |
