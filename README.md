@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 17:12:22 GMT | Best iPad Kiosk App: Top Picks for Your Business Needs | Vantage MDM | [Read More](https://medium.com/p/2b78eba9d405) |
+| Thu, 05 Jun 2025 17:11:41 GMT | Caltech Achieves Hyper-Entanglement: A Quantum Breakthrough with Major Implications | Luis F. Gil | [Read More](https://medium.com/p/7e02772d9fd2) |
+| Thu, 05 Jun 2025 17:11:21 GMT | Visual Monitoring Solutions brings you the next level of security with 24/7 Live CCTV Monitoring. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c440c4d43d47) |
+| Thu, 05 Jun 2025 17:09:29 GMT | NUS MComp (InfoSec) Course Review AY24/25 S2 | Justin Ng | [Read More](https://medium.com/p/8077506cf9e8) |
+| Thu, 05 Jun 2025 17:08:33 GMT | Why Ethical Hacking Is the Skill Every Modern Organization Needs | Amelia Miller | [Read More](https://medium.com/p/8135625a742a) |
+| Thu, 05 Jun 2025 17:03:50 GMT | Exploiting Golden Eye 1 HTB | Nextk | [Read More](https://medium.com/p/f992042fc057) |
+| Thu, 05 Jun 2025 17:01:28 GMT | If You Don’t Understand Quantum Yet, You’re About to Feel It | Rahul Mishra | [Read More](https://medium.com/p/831bba7df81c) |
+| Thu, 05 Jun 2025 16:53:51 GMT | Ghost Code: The Weird Malware That Broke a Small Business’s Systems in 2025 | Noel | [Read More](https://medium.com/p/67fd9284af4d) |
+| Thu, 05 Jun 2025 16:53:43 GMT | Small Business. Big Hack. The Untold Story of a 2025 Cybersecurity Nightmare | Noel | [Read More](https://medium.com/p/2d2f982cd8ae) |
+| Thu, 05 Jun 2025 16:53:34 GMT | How I found a bug in the US Department of Defense (DoD) | RivuDon | [Read More](https://medium.com/p/39e2be157d70) |
+| Thu, 05 Jun 2025 16:53:22 GMT | How a Single Default Password Humiliated Slovakia’s National Security Authority | Roman Huliak | [Read More](https://medium.com/p/49216ea87ee0) |
+| Thu, 05 Jun 2025 16:53:10 GMT | How Hackers Used a Meditation App to Hijack Our Startup | Noel | [Read More](https://medium.com/p/1dfc54827507) |
+| Thu, 05 Jun 2025 16:52:47 GMT | The Microwave That Hacked a Marketing Firm: Inside 2025’s Most Surreal Cyberattack | Noel | [Read More](https://medium.com/p/c6f5fcce2363) |
+| Thu, 05 Jun 2025 16:51:28 GMT | Day 54: Bash Scripting Loops - for, while, until – With Counters, Lists | Agarwaldaksh | [Read More](https://medium.com/p/b63c45371e0f) |
+| Thu, 05 Jun 2025 16:47:38 GMT | Log analysis: A strategic guide to cyberdefense. | Pavandeep Kaur | [Read More](https://medium.com/p/e77ad3084c28) |
+| Thu, 05 Jun 2025 16:46:02 GMT | TryHackMe — Smag Grotto: Adım-adım İzah (Beginner Friendly) | Yaqubnasibov | [Read More](https://medium.com/p/c6e05f3ad7a6) |
+| Thu, 05 Jun 2025 16:44:28 GMT | Root ME @~~ TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/9f47e0443ead) |
 | Thu, 05 Jun 2025 16:39:21 GMT | Xeggex Review 2025 | Kelvin mark | [Read More](https://medium.com/p/483a1ff84b0e) |
 | Thu, 05 Jun 2025 16:38:31 GMT | Memahami ICS/SCADA (Industrial Control Systems)/ (Supervisory Control and Data Acquisition) | rdtyy | [Read More](https://medium.com/p/e9fc4664c218) |
 | Thu, 05 Jun 2025 16:31:47 GMT | About BioGuardian NanoTech
@@ -96,20 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 12:28:53 GMT | Introduction to the Cyber Security Analyst Role | Crawsec | [Read More](https://medium.com/p/672dbd12614f) |
 | Thu, 05 Jun 2025 12:17:37 GMT | The dead internet theory | The Aristippus Code | [Read More](https://medium.com/p/456b0457ab07) |
 | Thu, 05 Jun 2025 12:12:29 GMT | Do The Free Stuff First | David Scott | [Read More](https://medium.com/p/bcda62d36d12) |
-| Thu, 05 Jun 2025 12:09:48 GMT | Hardening Linux : OpenSSH | Fahmi Saddam | [Read More](https://medium.com/p/63f0ec1659e6) |
-| Thu, 05 Jun 2025 12:07:54 GMT | The Dark Side of Cosmetic Surgery: When Self-Hate Becomes Digital Violence | DrHarunacipayam | [Read More](https://medium.com/p/02bddec2e9a3) |
-| Thu, 05 Jun 2025 12:06:21 GMT | Safeguarding OKE: Passwordless kubectl Access with OCI Instance Principals | Ivan Delić | [Read More](https://medium.com/p/bac667125d8b) |
-| Thu, 05 Jun 2025 12:03:52 GMT | The Most Underrated Tech Careers No One Talks About (But Pay Well) | Prism HRC | [Read More](https://medium.com/p/1b05003c0bf4) |
-| Thu, 05 Jun 2025 12:02:23 GMT | What Ghosting Taught Me About Closure and the Need to Be Seen | London Wood | [Read More](https://medium.com/p/bc4a06a0394f) |
-| Thu, 05 Jun 2025 11:59:54 GMT | Extracting DPAPI MasterKey Data | Tom O'Neill | [Read More](https://medium.com/p/1381168ad5b8) |
-| Thu, 05 Jun 2025 11:59:00 GMT | Installing Metasploitable 3 on QEMU Ubuntu | Stevanus Banu | [Read More](https://medium.com/p/b2a7880f3f80) |
-| Thu, 05 Jun 2025 11:54:42 GMT | What to Do After a Data Breach: A Step-by-Step Guide for Businesses | West Advanced Technologies Inc | [Read More](https://medium.com/p/a00812cf5685) |
-| Thu, 05 Jun 2025 11:51:38 GMT | Google Sheets Permission Flaw: Unshared Sheet Access via URL Manipulation | Dhaval Khamar | [Read More](https://medium.com/p/ab2f954fb92c) |
-| Thu, 05 Jun 2025 11:32:43 GMT | Day 73: Important Cybersecurity Certifications — Which Ones Should You Actually Go For? | Bl@ckC!pH3r | [Read More](https://medium.com/p/7c541045b4da) |
-| Thu, 05 Jun 2025 11:32:16 GMT | Is Your Business Ready for the AI-Driven Cloud & Quantum Cyber Threat Landscape? | Techfacto Global Services | [Read More](https://medium.com/p/b94eb8f8a08b) |
-| Thu, 05 Jun 2025 11:31:31 GMT | The Critical Role of Cyber Risk Assessment & Planning in Data Protection | Sophia | [Read More](https://medium.com/p/5195db7195d8) |
-| Thu, 05 Jun 2025 11:30:22 GMT | Cloud Compliance Updates for 2025: What’s Changed and How to Respond | SecureSlate | [Read More](https://medium.com/p/9346d9fbde25) |
-| Thu, 05 Jun 2025 11:18:15 GMT | Mengamankan SSH Kali Linux dengan 2FA Google Authenticator | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/9ece09449c8c) |
-| Thu, 05 Jun 2025 11:17:18 GMT | The Cybersecurity Paradox: How AI Is Both Our Greatest Risk and Our Best Defense. | Sajid Khan | [Read More](https://medium.com/p/532d57d38322) |
-| Thu, 05 Jun 2025 11:16:30 GMT | Why use cybersecurity risk management today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f0b3c48bd477) |
-| Thu, 05 Jun 2025 11:14:01 GMT | Stop Building Risk Registers Manually. Start Operating with Real-Time AI-Driven GRC from Cytrusst | Cytrusst | [Read More](https://medium.com/p/54104122139e) |
