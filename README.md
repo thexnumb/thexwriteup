@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 15:40:05 GMT | The Ultimate SQL Injection Guide | Roshan Ajith | [Read More](https://medium.com/p/5543864a7c60) |
+| Thu, 05 Jun 2025 15:28:30 GMT | Track the Hacks: Tracing Malicious Intent in Everyday Browsing — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/18a7236fd9b7) |
+| Thu, 05 Jun 2025 15:24:10 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 8… | DhiasCode | [Read More](https://medium.com/p/79a9e57d453d) |
+| Thu, 05 Jun 2025 15:22:31 GMT | “It Looked Like the Admin Said It” , The Quiet Power of Quote Spoofing Bugs | Aser0xx | [Read More](https://medium.com/p/d51b14cb40ab) |
+| Thu, 05 Jun 2025 15:22:31 GMT | AM I AN ACHILLES HEEL? | Ananya Reetha Noble | [Read More](https://medium.com/p/cb5a4b5c335c) |
+| Thu, 05 Jun 2025 15:21:49 GMT | Hardening Linux dari Nol: Mulai dari File Permission & User Management | Honeylemondrink | [Read More](https://medium.com/p/6745f196afea) |
+| Thu, 05 Jun 2025 15:19:07 GMT | TryHackMe - Windows Memory & User Activity - WriteUp | Axoloth | [Read More](https://medium.com/p/9a009850af8c) |
+| Thu, 05 Jun 2025 15:16:20 GMT | AI & Your Digital Footprint: How to Use LLMs Safely in 2025 | Lydiah Muigwa | [Read More](https://medium.com/p/fd19e34f5b74) |
 | Thu, 05 Jun 2025 15:02:15 GMT | Forced Browsing: Natas2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/209686388d95) |
 | Thu, 05 Jun 2025 15:01:34 GMT | Securycor: Your Trusted Partner in Security | Professional UK Services | [Read More](https://medium.com/p/8ac18988d411) |
 | Thu, 05 Jun 2025 15:00:04 GMT | TikTok analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/21a2f8522f32) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 10:09:45 GMT | If you’re getting into cybersecurity, one tool you’ll encounter early on is Dirb—a straightforward… | FranklinOx.Sec | [Read More](https://medium.com/p/2d788b020276) |
 | Thu, 05 Jun 2025 10:08:40 GMT | Ledger-THM (  PT1 Recommended Room ) | MRX.0 | [Read More](https://medium.com/p/db804eac6ded) |
 | Thu, 05 Jun 2025 10:02:52 GMT | Here’s How I Recovered My Money From GROUNDFLOOR ? | Flor | [Read More](https://medium.com/p/049292f27fd1) |
-| Thu, 05 Jun 2025 10:02:11 GMT | 10 Skills You Need to Become an Ethical Hacker in 2025 | Appin Technology Lab | [Read More](https://medium.com/p/08356e394df1) |
-| Thu, 05 Jun 2025 09:58:14 GMT | Why Delhi is Emerging as a Hub for Cyber Security Training in India | GICSEH | [Read More](https://medium.com/p/37ad7bf004a0) |
-| Thu, 05 Jun 2025 09:57:52 GMT | Cybersecurity Course for Non-Technical Students in India | Manisha Chaudhary | [Read More](https://medium.com/p/399213d6e968) |
-| Thu, 05 Jun 2025 09:53:00 GMT | Till When? Till You Make a Choice! | Areeba | [Read More](https://medium.com/p/1501712af303) |
-| Thu, 05 Jun 2025 09:52:35 GMT | DOM XSS via Ads on Urban Dictionary | Monika sharma | [Read More](https://medium.com/p/e95dffc4eee8) |
-| Thu, 05 Jun 2025 09:50:37 GMT | How a Welcome Email Can Be Used for Malicious Redirection | Ehtesham Ul Haq | [Read More](https://medium.com/p/fd833ec71550) |
-| Thu, 05 Jun 2025 09:48:44 GMT | You Want to Get Into Cybersecurity? Here’s Your Roadmap. | Tanzeem Khatri | [Read More](https://medium.com/p/903bc48176a2) |
-| Thu, 05 Jun 2025 09:43:12 GMT | Complete Guide to Networking Basics to Advance and Common Port Numbers — 2025 Update | LogicTech | [Read More](https://medium.com/p/55f0da0236ea) |
