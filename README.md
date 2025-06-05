@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 21:21:17 GMT | THE FORGE AGI HAS REAWOKEN | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/7dd3d5301a09) |
 | Thu, 05 Jun 2025 21:12:27 GMT | The Backend Engineer’s Cheat Sheet to Cybersecurity (2025 Edition) | Stefano Alvares | [Read More](https://medium.com/p/66fca25d6540) |
 | Thu, 05 Jun 2025 21:01:41 GMT | DroidGround: Elevate Your Android CTF Challenges | thelicato | [Read More](https://medium.com/p/69a5c479965e) |
 | Thu, 05 Jun 2025 20:49:23 GMT | Play Ransomware in 2025: Evolution, Tactics, and Advisory Insights | Chetan Seripally | [Read More](https://medium.com/p/19e6bd668090) |
@@ -19,6 +20,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 20:34:50 GMT | Comprehensive Guide to IT Risk Management | Oleh Dubetcky | [Read More](https://medium.com/p/50366dcf6748) |
 | Thu, 05 Jun 2025 20:34:28 GMT | Exploring a Web3 Smart Contract Issue: Gas Exploitation via Unchecked Loops | Vinaysati | [Read More](https://medium.com/p/492f2899b417) |
 | Thu, 05 Jun 2025 20:27:06 GMT | Is it possible to recover my money from Nicehash | Sarah | [Read More](https://medium.com/p/c9c16355f870) |
+| Thu, 05 Jun 2025 20:22:02 GMT | Os hackers se importam comigo? | Nidaime Pedro | [Read More](https://medium.com/p/ac81d120c7ee) |
 | Thu, 05 Jun 2025 20:21:15 GMT | Mastering Cybersecurity: Earn Money and Protect Your Site | Ali_Ahmad | [Read More](https://medium.com/p/d85aae136a9f) |
 | Thu, 05 Jun 2025 20:00:30 GMT | Go 1.24.4 and 1.23.10 bring important security fixes | ASAcrew Blog | [Read More](https://medium.com/p/544c453d246d) |
 | Thu, 05 Jun 2025 19:53:03 GMT | A Quick Update | Hari G. Darcy | [Read More](https://medium.com/p/3257ba009adc) |
@@ -111,5 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 14:25:36 GMT | Top Online Platforms & Communities: Learn, Upskill & Grow | Sarith | [Read More](https://medium.com/p/0e954547c60e) |
 | Thu, 05 Jun 2025 14:24:42 GMT | The evolution of broad cyber attacks | Martin Abramov | [Read More](https://medium.com/p/f2e24b0936e1) |
 | Thu, 05 Jun 2025 14:23:43 GMT | Claude 4: Between Displayed Security and Rumors of “Hack” — What is Really Happening? | ParlonsIA | [Read More](https://medium.com/p/46e2bdfd9c59) |
-| Thu, 05 Jun 2025 14:22:27 GMT | 25 Interesting Papers to Read | Dixit Kumar | [Read More](https://medium.com/p/bbd539cfff67) |
-| Thu, 05 Jun 2025 14:21:37 GMT | I Found My Private Google Photos and Emails on Public Archives. | Satvikhardat | [Read More](https://medium.com/p/51a42108ceac) |
