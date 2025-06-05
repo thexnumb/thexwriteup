@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 08:18:40 GMT | Broken Object Fiesta: How I Used IDOR, No Auth, and a Little Luck to Pull User Data | Iski | [Read More](https://medium.com/p/4b8d8627fb39) |
+| Thu, 05 Jun 2025 08:18:27 GMT | Why There Are No Opportunities to Fake Certifications Minted on the Blockchain | Wahsidin | [Read More](https://medium.com/p/aef5540d4e28) |
+| Thu, 05 Jun 2025 08:12:23 GMT | Dirty Bits #01: Dark Theme Sandbox | ThreatHunter Chronicles | [Read More](https://medium.com/p/f517f00639a6) |
+| Thu, 05 Jun 2025 08:12:18 GMT | ️ OSINT for User Information — How to Find People Using Public Data | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e16554656689) |
+| Thu, 05 Jun 2025 08:10:33 GMT | Massive 47 GB Leak Exposes 184 Million Records From Major Companies | SafetyDetectives Research Team | [Read More](https://medium.com/p/554b0e0e7f03) |
+| Thu, 05 Jun 2025 08:10:17 GMT | WooCommerce Admins Tricked by Fake Security Update | SafetyDetectives Research Team | [Read More](https://medium.com/p/41e764dac07e) |
+| Thu, 05 Jun 2025 08:06:01 GMT | Top Cyber Security Solutions by Camsdata in Bangalore | Wright Blogger | [Read More](https://medium.com/p/51ae6b83f966) |
+| Thu, 05 Jun 2025 08:04:29 GMT | TryHackMe Internal Room Walkthrough: A Step-by-Step Guide to Root Access | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/ccf67747da75) |
+| Thu, 05 Jun 2025 07:59:36 GMT | Cyber Security Roadmap For the Next 5 Years (2026–2030) | Naufal Fairuz Alfarras | [Read More](https://medium.com/p/60a67efde225) |
+| Thu, 05 Jun 2025 07:58:07 GMT | Disruption of configuration information - DOS Attack | Alibinazam | [Read More](https://medium.com/p/69059b66c1a5) |
+| Thu, 05 Jun 2025 07:56:35 GMT | OSINT Automation in Kali Linux — The Ultimate Toolkit for Bug Bounty and Red Teamers | Narendar Battula (nArEn) | [Read More](https://medium.com/p/456bcd925245) |
+| Thu, 05 Jun 2025 07:56:30 GMT | Certified Appsec Practitioner V2 (CAP) Review 2025 | Ittiwat | [Read More](https://medium.com/p/d9d264de0f75) |
+| Thu, 05 Jun 2025 07:46:06 GMT | ️ NASA/JPL Credentials & Email Leak via Public Pastebin — An Unexpected Find | FufuFafa | [Read More](https://medium.com/p/38fb4ee6ad83) |
+| Thu, 05 Jun 2025 07:43:56 GMT | ️‍♂️ OSINT Using Kali Linux — Full Guide | Narendar Battula (nArEn) | [Read More](https://medium.com/p/7296590e907d) |
+| Thu, 05 Jun 2025 07:40:52 GMT | ICS/SCADA Attack Vectors: A Case Study and Analysis using the Cyber Kill Chain Model | Muhammad Zidan | [Read More](https://medium.com/p/72f886976dec) |
 | Thu, 05 Jun 2025 07:29:33 GMT | ️ Why Retail Stores in Delhi NCR Are Relying on Security Guards More Than Ever | Sumintra | [Read More](https://medium.com/p/5ce20ad83f5e) |
 | Thu, 05 Jun 2025 07:27:06 GMT | Zero Trust Security: A Smarter Way to Protect Your Data | Mohana Reddy | [Read More](https://medium.com/p/90edc76029d6) |
 | Thu, 05 Jun 2025 07:26:48 GMT | Why Hiring Professional Security Services in Kolkata, Howrah, and Hooghly is a Smart Decision for… | Industry Blogs | [Read More](https://medium.com/p/2c58ae73eb37) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 23:14:01 GMT | Why Every Financial Firm Need Strong Cybersecurity? | Ostrich Cyber Risk | [Read More](https://medium.com/p/b3f31d11a4fd) |
 | Wed, 04 Jun 2025 23:13:57 GMT | Restricted — TryHackMe Writeup | V0idd | [Read More](https://medium.com/p/c88e2dc0725b) |
 | Wed, 04 Jun 2025 22:51:35 GMT | How my curiosity gave me 2 CVEs! | Sneh bavarva | [Read More](https://medium.com/p/99c420827411) |
-| Wed, 04 Jun 2025 22:51:14 GMT | Test Article | Mostafa Aly | [Read More](https://medium.com/p/4c7688b98780) |
-| Wed, 04 Jun 2025 22:26:03 GMT | Scammers in 2025 are everywhere all day long! | According to HER | [Read More](https://medium.com/p/b80e55888d12) |
-| Wed, 04 Jun 2025 22:18:28 GMT | Post-Exploitation in Browser-Based Applications: DOM Abuse & Local Storage Leaks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/33070bb88780) |
-| Wed, 04 Jun 2025 21:55:12 GMT | Massive Data Breach Exposes Apple ID Logins: Why Post-Quantum Cryptography Must Start Now | QuantumGenie | [Read More](https://medium.com/p/07e691bf0e73) |
-| Wed, 04 Jun 2025 21:48:50 GMT | Arka Plandaki Kurye: MSMQ ve Modern Mesaj Kuyrukları? SOC Uzmanı Yaklaşımı? | Tayfun Karaca | [Read More](https://medium.com/p/e7d608cc6904) |
-| Wed, 04 Jun 2025 21:42:48 GMT | I Am Just a Girl Who Loves Words | Soulful Scribbles | [Read More](https://medium.com/p/72985caaeb93) |
-| Wed, 04 Jun 2025 21:37:34 GMT | Free Gift? Suspicious Link? Must Be a Smish-terious Message | Alsabah Afshi | [Read More](https://medium.com/p/8620cf5d8b7f) |
-| Wed, 04 Jun 2025 21:37:15 GMT | Security Baseline: A Foundation for Stronger Cybersecurity | Raviteja Mureboina | [Read More](https://medium.com/p/9f583bc2cb82) |
-| Wed, 04 Jun 2025 21:31:55 GMT | June 3rd: A Secret You’ve Never Told Anyone | Anneka Adams | [Read More](https://medium.com/p/547bc65af14e) |
-| Wed, 04 Jun 2025 21:23:28 GMT | Cyber-Resilience in Border Control & Smart Immigration Systems | A-STAR7_DOCTOR | [Read More](https://medium.com/p/fdeecdde0343) |
-| Wed, 04 Jun 2025 21:15:32 GMT | Key Data Roles in Information Security | Raviteja Mureboina | [Read More](https://medium.com/p/ecad294adbde) |
-| Wed, 04 Jun 2025 21:12:59 GMT | Host Your Dark Web Website in 6 Easy Steps — No Experience Needed! | Krishna Gopal Jha | [Read More](https://medium.com/p/4a020c214084) |
-| Wed, 04 Jun 2025 21:08:30 GMT | Tech is Evolving — Are You Keeping Up? | Virtus Solutions | [Read More](https://medium.com/p/52b69fcef3b2) |
-| Wed, 04 Jun 2025 21:05:19 GMT | One Last Code | Ola's Blog | [Read More](https://medium.com/p/1b0d5482168b) |
-| Wed, 04 Jun 2025 21:04:44 GMT | How Can You Earn $9,860 Bug Bounty Hunting Ethically | Ibtissam hammadi | [Read More](https://medium.com/p/b2457b2e3dae) |
