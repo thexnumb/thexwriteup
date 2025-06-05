@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 20:27:06 GMT | Is it possible to recover my money from Nicehash | Sarah | [Read More](https://medium.com/p/c9c16355f870) |
+| Thu, 05 Jun 2025 20:21:15 GMT | Mastering Cybersecurity: Earn Money and Protect Your Site | Ali_Ahmad | [Read More](https://medium.com/p/d85aae136a9f) |
 | Thu, 05 Jun 2025 20:00:30 GMT | Go 1.24.4 and 1.23.10 bring important security fixes | ASAcrew Blog | [Read More](https://medium.com/p/544c453d246d) |
 | Thu, 05 Jun 2025 19:53:03 GMT | A Quick Update | Hari G. Darcy | [Read More](https://medium.com/p/3257ba009adc) |
 | Thu, 05 Jun 2025 19:48:37 GMT | How Regular Windows Security Audits Can Protect Your Business Data | IT_Engineer | [Read More](https://medium.com/p/e4a23a25ea4f) |
@@ -111,5 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 14:01:37 GMT | How I Made $1,250 in 5 Minutes with One SQL Injection | Ibtissam hammadi | [Read More](https://medium.com/p/6a67e255b4a2) |
 | Thu, 05 Jun 2025 13:59:43 GMT | Cyber Briefing: 2025.06.05 | CyberMaterial | [Read More](https://medium.com/p/54eec4409be7) |
 | Thu, 05 Jun 2025 13:58:35 GMT | A New Chapter for NATO: How Mark Rutte Could Redefine Global Security | Articlebasket | [Read More](https://medium.com/p/c9c367bc255f) |
-| Thu, 05 Jun 2025 13:50:41 GMT | Try Hack Me: Brute IT Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/b2189f9a646f) |
-| Thu, 05 Jun 2025 13:50:35 GMT | Dynamic Malware Analysis of Open Source Packages at Scale | Abhisek Datta | [Read More](https://medium.com/p/582eee96b0b7) |
