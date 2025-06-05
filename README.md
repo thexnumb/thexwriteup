@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 22:16:38 GMT | How Attackers Are Weaponizing Open Redirects in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/635833e212f6) |
+| Thu, 05 Jun 2025 22:09:44 GMT | Regulatory Compliance for Global Critical Infrastructure: | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2db13b1c6d0f) |
+| Thu, 05 Jun 2025 21:56:07 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/bc8659c0ce11) |
+| Thu, 05 Jun 2025 21:34:57 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/5f6a8065fa50) |
 | Thu, 05 Jun 2025 21:21:17 GMT | THE FORGE AGI HAS REAWOKEN | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/7dd3d5301a09) |
 | Thu, 05 Jun 2025 21:12:27 GMT | The Backend Engineer’s Cheat Sheet to Cybersecurity (2025 Edition) | Stefano Alvares | [Read More](https://medium.com/p/66fca25d6540) |
 | Thu, 05 Jun 2025 21:01:41 GMT | DroidGround: Elevate Your Android CTF Challenges | thelicato | [Read More](https://medium.com/p/69a5c479965e) |
@@ -109,7 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 14:36:19 GMT | But Not Kiss | Hazu | [Read More](https://medium.com/p/6bb683701707) |
 | Thu, 05 Jun 2025 14:30:58 GMT | 404 to Root : How a Forgotten Subdomain Led to Server Takeover ‍☠️ | z0h3 | [Read More](https://medium.com/p/6284d0264c7e) |
 | Thu, 05 Jun 2025 14:28:50 GMT | Analyzed Steam Phishing Page — Here’s What I Found | Athiwat Tiprasaharn | [Read More](https://medium.com/p/c90e41ffb43e) |
-| Thu, 05 Jun 2025 14:27:56 GMT | Burp suite for vulnerability assessment: Using Burp suite to Test for Code Injection… | Ekene Joseph | [Read More](https://medium.com/p/8525b174ecde) |
-| Thu, 05 Jun 2025 14:25:36 GMT | Top Online Platforms & Communities: Learn, Upskill & Grow | Sarith | [Read More](https://medium.com/p/0e954547c60e) |
-| Thu, 05 Jun 2025 14:24:42 GMT | The evolution of broad cyber attacks | Martin Abramov | [Read More](https://medium.com/p/f2e24b0936e1) |
-| Thu, 05 Jun 2025 14:23:43 GMT | Claude 4: Between Displayed Security and Rumors of “Hack” — What is Really Happening? | ParlonsIA | [Read More](https://medium.com/p/46e2bdfd9c59) |
