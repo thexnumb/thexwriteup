@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 22:32:09 GMT | OHSINT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/db2ba5a01d93) |
+| Thu, 05 Jun 2025 22:26:54 GMT | A (not so) Unexpected Journey: Building My First Home Lab, Part 3 | Chris C. | [Read More](https://medium.com/p/9ae75de763c4) |
 | Thu, 05 Jun 2025 22:16:38 GMT | How Attackers Are Weaponizing Open Redirects in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/635833e212f6) |
+| Thu, 05 Jun 2025 22:16:27 GMT | Vulnlab — Sync Walkthrough | SuperMeisty | [Read More](https://medium.com/p/9f3e47999408) |
 | Thu, 05 Jun 2025 22:09:44 GMT | Regulatory Compliance for Global Critical Infrastructure: | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2db13b1c6d0f) |
 | Thu, 05 Jun 2025 21:56:07 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/bc8659c0ce11) |
 | Thu, 05 Jun 2025 21:34:57 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/5f6a8065fa50) |
@@ -110,6 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 14:50:39 GMT | Event-Sicherheitsrobotik | Presslink Media | [Read More](https://medium.com/p/a4cb29d09f93) |
 | Thu, 05 Jun 2025 14:48:07 GMT | Cheyanne Mallas: The Strategic Force Behind Cybersecurity Project Success | Cheyannemallaspa | [Read More](https://medium.com/p/9d14dc617587) |
 | Thu, 05 Jun 2025 14:40:15 GMT | ️ Inside the 160-Comment Fight to Fix SnakeYAML’s RCE Default | Jonathan Leitschuh | [Read More](https://medium.com/p/1a20c5ca4d4c) |
-| Thu, 05 Jun 2025 14:36:19 GMT | But Not Kiss | Hazu | [Read More](https://medium.com/p/6bb683701707) |
-| Thu, 05 Jun 2025 14:30:58 GMT | 404 to Root : How a Forgotten Subdomain Led to Server Takeover ‍☠️ | z0h3 | [Read More](https://medium.com/p/6284d0264c7e) |
-| Thu, 05 Jun 2025 14:28:50 GMT | Analyzed Steam Phishing Page — Here’s What I Found | Athiwat Tiprasaharn | [Read More](https://medium.com/p/c90e41ffb43e) |
