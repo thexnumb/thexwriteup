@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 10:30:19 GMT | Bulletproof Your Web Applications: The Complete AWS WAF Security Guide (Part 1) | Robin | [Read More](https://medium.com/p/b1fda84c24be) |
+| Thu, 05 Jun 2025 10:26:38 GMT | HoloXit — Security and Surveillance: Surveillance Automation for Optimal Security | HoloXit | [Read More](https://medium.com/p/deb8cae310ae) |
+| Thu, 05 Jun 2025 10:23:31 GMT | Is Mintos Legit Or Scam? | Antonia | [Read More](https://medium.com/p/726d792b69ed) |
+| Thu, 05 Jun 2025 10:18:37 GMT | Episode 2 of the MSP Security Playbook - Building Relationships That Convert, with Paul Green | Heimdal Security | [Read More](https://medium.com/p/b669c4f203cb) |
 | Thu, 05 Jun 2025 10:14:29 GMT | RBASH configuration | Nibbabob | [Read More](https://medium.com/p/78b61f7ade46) |
 | Thu, 05 Jun 2025 10:09:45 GMT | If you’re getting into cybersecurity, one tool you’ll encounter early on is Dirb—a straightforward… | FranklinOx.Sec | [Read More](https://medium.com/p/2d788b020276) |
 | Thu, 05 Jun 2025 10:08:40 GMT | Ledger-THM (  PT1 Recommended Room ) | MRX.0 | [Read More](https://medium.com/p/db804eac6ded) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 05:06:35 GMT | CYBER SECURITY REVOLUTION FROM PT. | Sydeco Indonesia | [Read More](https://medium.com/p/b75e99e14c37) |
 | Thu, 05 Jun 2025 04:59:16 GMT | Context is Everything in Cybersecurity: Why Signals Without Meaning Are Just Noise | Juan Pablo Castro | [Read More](https://medium.com/p/376aeb6fc095) |
 | Thu, 05 Jun 2025 04:46:41 GMT | Why Manual Risk Assessments Are Outdated in the Age of AI | CyRAACS | [Read More](https://medium.com/p/c09a113a2c58) |
-| Thu, 05 Jun 2025 04:45:01 GMT | Top 10 Reasons to Choose CEH v12 Certification for Cybersecurity Jobs | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/6a3ad4802540) |
-| Thu, 05 Jun 2025 04:40:49 GMT | Building Secure White Label Software: The Architecture Checklist | Brilworks Software | [Read More](https://medium.com/p/8016a74419b1) |
-| Thu, 05 Jun 2025 04:37:02 GMT | Python Automation Series — Day 2 | Pavan V | [Read More](https://medium.com/p/7f03070f34a8) |
-| Thu, 05 Jun 2025 04:34:07 GMT | hanggang apat na taon lang sana | zy | [Read More](https://medium.com/p/4819a375a763) |
