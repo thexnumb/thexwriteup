@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 10:14:29 GMT | RBASH configuration | Nibbabob | [Read More](https://medium.com/p/78b61f7ade46) |
+| Thu, 05 Jun 2025 10:09:45 GMT | If you’re getting into cybersecurity, one tool you’ll encounter early on is Dirb—a straightforward… | FranklinOx.Sec | [Read More](https://medium.com/p/2d788b020276) |
+| Thu, 05 Jun 2025 10:08:40 GMT | Ledger-THM (  PT1 Recommended Room ) | MRX.0 | [Read More](https://medium.com/p/db804eac6ded) |
+| Thu, 05 Jun 2025 10:02:52 GMT | Here’s How I Recovered My Money From GROUNDFLOOR ? | Flor | [Read More](https://medium.com/p/049292f27fd1) |
+| Thu, 05 Jun 2025 10:02:11 GMT | 10 Skills You Need to Become an Ethical Hacker in 2025 | Appin Technology Lab | [Read More](https://medium.com/p/08356e394df1) |
+| Thu, 05 Jun 2025 09:58:14 GMT | Why Delhi is Emerging as a Hub for Cyber Security Training in India | GICSEH | [Read More](https://medium.com/p/37ad7bf004a0) |
+| Thu, 05 Jun 2025 09:57:52 GMT | Cybersecurity Course for Non-Technical Students in India | Manisha Chaudhary | [Read More](https://medium.com/p/399213d6e968) |
+| Thu, 05 Jun 2025 09:53:00 GMT | Till When? Till You Make a Choice! | Areeba | [Read More](https://medium.com/p/1501712af303) |
+| Thu, 05 Jun 2025 09:52:35 GMT | DOM XSS via Ads on Urban Dictionary | Monika sharma | [Read More](https://medium.com/p/e95dffc4eee8) |
+| Thu, 05 Jun 2025 09:50:37 GMT | How a Welcome Email Can Be Used for Malicious Redirection | Ehtesham Ul Haq | [Read More](https://medium.com/p/fd833ec71550) |
+| Thu, 05 Jun 2025 09:48:44 GMT | You Want to Get Into Cybersecurity? Here’s Your Roadmap. | Tanzeem Khatri | [Read More](https://medium.com/p/903bc48176a2) |
+| Thu, 05 Jun 2025 09:43:12 GMT | Complete Guide to Networking Basics to Advance and Common Port Numbers — 2025 Update | LogicTech | [Read More](https://medium.com/p/55f0da0236ea) |
+| Thu, 05 Jun 2025 09:40:41 GMT | Day 67: Python in the SOC — Your New Best Friend (Basics & Cool Use Cases) | Bl@ckC!pH3r | [Read More](https://medium.com/p/9b15ecf20cd9) |
 | Thu, 05 Jun 2025 09:28:49 GMT | Improper Coupon Validation Allows Unlimited Free Voucher Redemptions | Rahul Kumar | [Read More](https://medium.com/p/d55bf44df2df) |
 | Thu, 05 Jun 2025 09:25:45 GMT | On Belonging and Building: Reflections from Running BSides St. Pete | Wilson Bautista Jr. | [Read More](https://medium.com/p/fc0794707ff0) |
 | Thu, 05 Jun 2025 09:20:18 GMT | Learning Cyber Security — TryHackMe Walkthrough | MANISH KUMAR | [Read More](https://medium.com/p/851d1da406f0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 04:40:49 GMT | Building Secure White Label Software: The Architecture Checklist | Brilworks Software | [Read More](https://medium.com/p/8016a74419b1) |
 | Thu, 05 Jun 2025 04:37:02 GMT | Python Automation Series — Day 2 | Pavan V | [Read More](https://medium.com/p/7f03070f34a8) |
 | Thu, 05 Jun 2025 04:34:07 GMT | hanggang apat na taon lang sana | zy | [Read More](https://medium.com/p/4819a375a763) |
-| Thu, 05 Jun 2025 04:33:32 GMT | The Rise of Quantum Computing: What You Need to Know | Les Ottolenghi | [Read More](https://medium.com/p/7414ae463618) |
-| Thu, 05 Jun 2025 04:26:53 GMT | Legal Technology and National Competitiveness: Why Building Scalable Legal Infrastructure Matters | Palak Porwal | [Read More](https://medium.com/p/8073a68e327e) |
-| Thu, 05 Jun 2025 04:24:13 GMT | Inner Workings of Node.js That No One Talks About | Uditya Prakash | [Read More](https://medium.com/p/1e64deb5c5cf) |
-| Thu, 05 Jun 2025 04:20:26 GMT | Knowing XSS(); — Basic | Sibercat Media | [Read More](https://medium.com/p/2ede2022701f) |
-| Thu, 05 Jun 2025 04:15:13 GMT | Cyber Anomaly Detection API — Deployment Journey (With FastAPI + Docker) | Tony Maunu | [Read More](https://medium.com/p/7f05a1c4fe01) |
-| Thu, 05 Jun 2025 04:09:10 GMT | Unveiling the game-changing ICS/SCADA system that every engineer needs to conquer! | Toni Mendrofa | [Read More](https://medium.com/p/91b5268080fd) |
-| Thu, 05 Jun 2025 04:01:31 GMT | Ever Wonder What REALLY Runs Your World? Spoiler: It’s ICS/SCADA (and it’s Kinda Vulnerable) | Afridho Tavadhu | [Read More](https://medium.com/p/7bdaa5534d3d) |
-| Thu, 05 Jun 2025 03:59:13 GMT | Apa itu ICS/SCADA? Kenapa sering diretas? | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/a2081d6165fd) |
-| Thu, 05 Jun 2025 03:54:38 GMT | How to Start In CyberSecurity. Complete Roadmap. | err0rgod | [Read More](https://medium.com/p/87eb22d608ac) |
-| Thu, 05 Jun 2025 03:42:16 GMT | Antivirus- are they really helpfull. | err0rgod | [Read More](https://medium.com/p/45024fb63c86) |
-| Thu, 05 Jun 2025 03:32:24 GMT | When Breakfast Meets a Breach: How W.K. Kellogg Became a Cybersecurity Case Study | Deven Chhajed | [Read More](https://medium.com/p/e1566ef19915) |
-| Thu, 05 Jun 2025 03:10:47 GMT | ️ CVE-2022-46604: Exploring a Path Traversal Vulnerability in Responsive File Manager | CyberQuestor | [Read More](https://medium.com/p/50d7ab5826ad) |
-| Thu, 05 Jun 2025 02:57:17 GMT | The $450 Million Mirage: How AI Hype Fueled Builder.ai’s Collapse | Carlos Jaramillo | [Read More](https://medium.com/p/a6601f22eb52) |
