@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 11:32:43 GMT | Day 73: Important Cybersecurity Certifications — Which Ones Should You Actually Go For? | Bl@ckC!pH3r | [Read More](https://medium.com/p/7c541045b4da) |
+| Thu, 05 Jun 2025 11:32:16 GMT | Is Your Business Ready for the AI-Driven Cloud & Quantum Cyber Threat Landscape? | Techfacto Global Services | [Read More](https://medium.com/p/b94eb8f8a08b) |
+| Thu, 05 Jun 2025 11:31:31 GMT | The Critical Role of Cyber Risk Assessment & Planning in Data Protection | Sophia | [Read More](https://medium.com/p/5195db7195d8) |
+| Thu, 05 Jun 2025 11:30:22 GMT | Cloud Compliance Updates for 2025: What’s Changed and How to Respond | SecureSlate | [Read More](https://medium.com/p/9346d9fbde25) |
+| Thu, 05 Jun 2025 11:18:15 GMT | Mengamankan SSH Kali Linux dengan 2FA Google Authenticator | Muhamad Nabil Faiz Amrullah | [Read More](https://medium.com/p/9ece09449c8c) |
+| Thu, 05 Jun 2025 11:17:18 GMT | The Cybersecurity Paradox: How AI Is Both Our Greatest Risk and Our Best Defense. | Sajid Khan | [Read More](https://medium.com/p/532d57d38322) |
 | Thu, 05 Jun 2025 11:16:30 GMT | Why use cybersecurity risk management today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f0b3c48bd477) |
+| Thu, 05 Jun 2025 11:14:01 GMT | Stop Building Risk Registers Manually. Start Operating with Real-Time AI-Driven GRC from Cytrusst | Cytrusst | [Read More](https://medium.com/p/54104122139e) |
+| Thu, 05 Jun 2025 11:09:41 GMT | Signal Under the Hood — What Activists & Journalists Need to Know About the Risks Beyond Encryption | Denis | [Read More](https://medium.com/p/3713359c3d54) |
+| Thu, 05 Jun 2025 11:08:14 GMT | Cloud-Specific Incident Response Playbooks | secure100 | [Read More](https://medium.com/p/e8b3f3706c29) |
+| Thu, 05 Jun 2025 11:05:42 GMT | Beat the Deadline: How to Prepare for FCP_FGT_AD-7.4 Before It Retires | CertifyInsider | [Read More](https://medium.com/p/2c28f233ec14) |
 | Thu, 05 Jun 2025 11:04:11 GMT | Why Emergencies Are a Thing of Emergency in Nigeria | Oyewole Joledo | [Read More](https://medium.com/p/a3872f0957c9) |
 | Thu, 05 Jun 2025 11:01:55 GMT | Cyber Security Course: Secure Your Career In A Hacking World | Osiz Labs | [Read More](https://medium.com/p/8a52f000a972) |
 | Thu, 05 Jun 2025 10:51:43 GMT | Billing  — THM WriteUp | Carlos Padilla | [Read More](https://medium.com/p/d11bed9a2ed3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 06:07:12 GMT | DNS in Detail - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/877980ba4c65) |
 | Thu, 05 Jun 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jun 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b307594d1152) |
 | Thu, 05 Jun 2025 06:00:13 GMT | ⚡ Race Condition That Leads to Privilege Escalation | FufuFafa | [Read More](https://medium.com/p/b2f5ef484768) |
-| Thu, 05 Jun 2025 05:56:45 GMT | Beyond the Firewall: Philippine Media’s Evolving Digital Playbook | Joseph Desmond Cruel | [Read More](https://medium.com/p/b7629361f4b9) |
-| Thu, 05 Jun 2025 05:53:42 GMT | OSCP Fail? Use TJ Null List & HTB Labs to Pass Your Retake | Anezaneo | [Read More](https://medium.com/p/ff08164ea23b) |
-| Thu, 05 Jun 2025 05:51:23 GMT | Cookie Attributes — More Than Just Name & Value | phoenixcatalan | [Read More](https://medium.com/p/a95591be6fba) |
-| Thu, 05 Jun 2025 05:49:31 GMT | Bypassing HackerOne Report Ban Using API Key | Monika sharma | [Read More](https://medium.com/p/061711e873c6) |
-| Thu, 05 Jun 2025 05:47:24 GMT | Clicking ‘Update’ Could Be Your Biggest Mistake: How Cybercriminals Exploit Your Trust | Rohan Dalvi | [Read More](https://medium.com/p/9871788de2ee) |
-| Thu, 05 Jun 2025 05:47:13 GMT | WPDirectory Mass Hunting Plugin Vulnerabilities | AbhirupKonwar | [Read More](https://medium.com/p/e65b6ac30ab9) |
-| Thu, 05 Jun 2025 05:40:59 GMT | Exposing Kubernetes Services Using the Ngrok Ingress Controller | Ramkrushna Maheshwar | [Read More](https://medium.com/p/3a2ebf9c3a83) |
-| Thu, 05 Jun 2025 05:33:18 GMT | So You Want to Work in GRC? Here’s the Honest Guide for 2025–2026 | Abhijith Soman | [Read More](https://medium.com/p/4282383e60c2) |
-| Thu, 05 Jun 2025 05:25:35 GMT | Practical Advice to Secure Your Vibe-Coded App | Chiradeep Vittal | [Read More](https://medium.com/p/b3043bc80b60) |
-| Thu, 05 Jun 2025 05:25:30 GMT | CyberPod AI: Autonomous Data Intelligence in UAE | Tekhabeeb | [Read More](https://medium.com/p/5c9ea18912e7) |
