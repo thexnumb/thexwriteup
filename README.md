@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 18:57:56 GMT | Menjelajahi Wazuh Dashboard — Membaca Laporan dari ‘Mata-Mata’ Anda | Sigit Adi Irianto | [Read More](https://medium.com/p/094223db6599) |
+| Thu, 05 Jun 2025 18:56:47 GMT | Lessons from Pop Mart’s Chaotic Labubu Restocks | Theresa McFarlane | [Read More](https://medium.com/p/c7b8f8f3ff18) |
+| Thu, 05 Jun 2025 18:55:15 GMT | Breaking the Matrix: A Pen Tester’s Take on June 2025’s Cybersecurity Firestorm | Pentestjunkie07 | [Read More](https://medium.com/p/ac8baa241aab) |
+| Thu, 05 Jun 2025 18:52:42 GMT | S3 Enumeration Basics (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/6e1df9ecbb07) |
+| Thu, 05 Jun 2025 18:49:00 GMT | SOC Analysis of Event 316: SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing —… | Ray Maiden | [Read More](https://medium.com/p/e009b9066772) |
 | Thu, 05 Jun 2025 18:44:49 GMT | Intro to AWS IAM Enumeration (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/c0e140ebc9d8) |
 | Thu, 05 Jun 2025 18:35:49 GMT | The Growing Importance of Cybersecurity in the Digital Age. | Hassan Magar | [Read More](https://medium.com/p/97384b834391) |
 | Thu, 05 Jun 2025 18:31:34 GMT | What is a VP²N, and What makes it a better VPN? | Chuck Wade | [Read More](https://medium.com/p/dfe47002d833) |
@@ -108,8 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 13:36:02 GMT | How to Install Kali Linux: Step-by-Step Beginner’s Guide (2025) | Very Lazy Tech | [Read More](https://medium.com/p/869639b2922f) |
 | Thu, 05 Jun 2025 13:23:29 GMT | The Security Misconception That’s Putting Angular Apps at Risk | Herbert Moroni Gois | [Read More](https://medium.com/p/6f0205113b59) |
 | Thu, 05 Jun 2025 13:20:50 GMT | Bulletproofing SPA Sessions: Token Rotation Against Session Hijacking | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/3247444a1523) |
-| Thu, 05 Jun 2025 13:19:49 GMT | Sandworm just RSVP’d to your SCADA network | Wes Young | [Read More](https://medium.com/p/fe8002d1e12b) |
-| Thu, 05 Jun 2025 13:16:08 GMT | Why Most Audits Miss Real Bugs — And How We’re Fixing It at Radcipher | Radcipher | [Read More](https://medium.com/p/8e79176482e3) |
-| Thu, 05 Jun 2025 13:14:17 GMT | Unauthenticated Remote Code Execution — How Hackers Run Code Like Ghosts | IBK Trevor | [Read More](https://medium.com/p/c1de49e031b2) |
-| Thu, 05 Jun 2025 13:12:23 GMT | The Shift-Left approach in Software Testing | Zubair Khan | [Read More](https://medium.com/p/144be3d83893) |
-| Thu, 05 Jun 2025 13:11:57 GMT | FOFA OSINT to find Phishing Pages | AbhirupKonwar | [Read More](https://medium.com/p/7ec2753f38bb) |
