@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 06:26:59 GMT | KiranaPro Hack Exposes the High Cost of Lax Security | TheReviewHive | [Read More](https://medium.com/p/fae10b5afa8d) |
+| Thu, 05 Jun 2025 06:26:21 GMT | Data Tells a Story: How Microsoft Purview Helped Me Explore Information Protection | Emerson Juan da Silva | [Read More](https://medium.com/p/06d198202f44) |
+| Thu, 05 Jun 2025 06:25:43 GMT | Splunk: Setting up a SOC Lab(Linux) | Peta Pavan | [Read More](https://medium.com/p/3ed56f0d90f5) |
+| Thu, 05 Jun 2025 06:25:41 GMT | Predictions vs Reality: What Tech in 2025 Really Looks Like (and What It Doesn’t) | Harsh Devesh Kardile | [Read More](https://medium.com/p/f0000ee92ecc) |
+| Thu, 05 Jun 2025 06:18:59 GMT | Vocational training for cyber security in chennai | Timble Manisha | [Read More](https://medium.com/p/e4c657a55c3d) |
+| Thu, 05 Jun 2025 06:17:04 GMT | Anonymity on Kali Linux with Proxychains & Tor | ImranTheExploitHunter | [Read More](https://medium.com/p/f4faf8ec08fd) |
+| Thu, 05 Jun 2025 06:09:11 GMT | Server Virtualization: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/7b6a3038f849) |
+| Thu, 05 Jun 2025 06:08:21 GMT | The Hidden Power of Mobile Phones: Ethical Hacking Without a PC | Abraham Wekesa | [Read More](https://medium.com/p/9208286e8335) |
+| Thu, 05 Jun 2025 06:07:12 GMT | DNS in Detail - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/877980ba4c65) |
+| Thu, 05 Jun 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jun 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b307594d1152) |
+| Thu, 05 Jun 2025 06:00:13 GMT | ⚡ Race Condition That Leads to Privilege Escalation | FufuFafa | [Read More](https://medium.com/p/b2f5ef484768) |
+| Thu, 05 Jun 2025 05:56:45 GMT | Beyond the Firewall: Philippine Media’s Evolving Digital Playbook | Joseph Desmond Cruel | [Read More](https://medium.com/p/b7629361f4b9) |
+| Thu, 05 Jun 2025 05:53:42 GMT | OSCP Fail? Use TJ Null List & HTB Labs to Pass Your Retake | Anezaneo | [Read More](https://medium.com/p/ff08164ea23b) |
+| Thu, 05 Jun 2025 05:51:23 GMT | Cookie Attributes — More Than Just Name & Value | phoenixcatalan | [Read More](https://medium.com/p/a95591be6fba) |
+| Thu, 05 Jun 2025 05:49:31 GMT | Bypassing HackerOne Report Ban Using API Key | Monika sharma | [Read More](https://medium.com/p/061711e873c6) |
+| Thu, 05 Jun 2025 05:47:24 GMT | Clicking ‘Update’ Could Be Your Biggest Mistake: How Cybercriminals Exploit Your Trust | Rohan Dalvi | [Read More](https://medium.com/p/9871788de2ee) |
+| Thu, 05 Jun 2025 05:47:13 GMT | WPDirectory Mass Hunting Plugin Vulnerabilities | AbhirupKonwar | [Read More](https://medium.com/p/e65b6ac30ab9) |
+| Thu, 05 Jun 2025 05:40:59 GMT | Exposing Kubernetes Services Using the Ngrok Ingress Controller | Ramkrushna Maheshwar | [Read More](https://medium.com/p/3a2ebf9c3a83) |
 | Thu, 05 Jun 2025 05:33:18 GMT | So You Want to Work in GRC? Here’s the Honest Guide for 2025–2026 | Abhijith Soman | [Read More](https://medium.com/p/4282383e60c2) |
 | Thu, 05 Jun 2025 05:25:35 GMT | Practical Advice to Secure Your Vibe-Coded App | Chiradeep Vittal | [Read More](https://medium.com/p/b3043bc80b60) |
 | Thu, 05 Jun 2025 05:25:30 GMT | CyberPod AI: Autonomous Data Intelligence in UAE | Tekhabeeb | [Read More](https://medium.com/p/5c9ea18912e7) |
@@ -24,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 04:45:01 GMT | Top 10 Reasons to Choose CEH v12 Certification for Cybersecurity Jobs | IT Training for Networking, Cyber Security & Cloud | [Read More](https://medium.com/p/6a3ad4802540) |
 | Thu, 05 Jun 2025 04:40:49 GMT | Building Secure White Label Software: The Architecture Checklist | Brilworks Software | [Read More](https://medium.com/p/8016a74419b1) |
 | Thu, 05 Jun 2025 04:37:02 GMT | Python Automation Series — Day 2 | Pavan V | [Read More](https://medium.com/p/7f03070f34a8) |
+| Thu, 05 Jun 2025 04:34:07 GMT | hanggang apat na taon lang sana | zy | [Read More](https://medium.com/p/4819a375a763) |
 | Thu, 05 Jun 2025 04:33:32 GMT | The Rise of Quantum Computing: What You Need to Know | Les Ottolenghi | [Read More](https://medium.com/p/7414ae463618) |
 | Thu, 05 Jun 2025 04:26:53 GMT | Legal Technology and National Competitiveness: Why Building Scalable Legal Infrastructure Matters | Palak Porwal | [Read More](https://medium.com/p/8073a68e327e) |
 | Thu, 05 Jun 2025 04:24:13 GMT | Inner Workings of Node.js That No One Talks About | Uditya Prakash | [Read More](https://medium.com/p/1e64deb5c5cf) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 19:19:39 GMT | Crypto Hackers Just Flipped the Script: $2.1B Stolen in 2025 | CoinGen | [Read More](https://medium.com/p/bfd470217a2e) |
 | Wed, 04 Jun 2025 19:15:44 GMT | Using KQL to Uncover a Phishing Attack in KC7’s ‘A Rap Beef’ | The Decryptionist (AMS) | [Read More](https://medium.com/p/2d4c9d5250be) |
 | Wed, 04 Jun 2025 19:07:11 GMT | Temporary Driver Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/34add0cda42e) |
-| Wed, 04 Jun 2025 18:58:45 GMT | My Experience with Phoenix and Mesa Police Overreach —  A Medical Marijuana Patient’s Story | JJ | [Read More](https://medium.com/p/05ecab09d6fd) |
-| Wed, 04 Jun 2025 18:56:53 GMT | La batalla entre las aplicaciones de mensajería instantánea: ¿Cuál es la mejor opción? | Tiziano Mass | [Read More](https://medium.com/p/868c8a169737) |
-| Wed, 04 Jun 2025 18:54:01 GMT | Seeking Safety | Dr. Kimberly Anne McKenzie-Klemm | [Read More](https://medium.com/p/c3d3d979eb41) |
-| Wed, 04 Jun 2025 18:45:24 GMT | Learn About Different Types Of Hacking, Including Penetration Testing, Social Engineering, And… | Cool Projects | [Read More](https://medium.com/p/2be9962fb9b1) |
-| Wed, 04 Jun 2025 18:40:55 GMT | How to prepare for eCIR Exam | Gehad Safwat | [Read More](https://medium.com/p/571095a3d226) |
-| Wed, 04 Jun 2025 18:38:29 GMT | 4 Business Challenges Solved by IT Consulting in Ontario | Zeta Sky | [Read More](https://medium.com/p/8f0e5477b2fd) |
-| Wed, 04 Jun 2025 18:36:31 GMT | Volatility | Shamar Isaac | [Read More](https://medium.com/p/64bc802c753b) |
-| Wed, 04 Jun 2025 18:36:30 GMT | SolarWinds — Root Cause Analysis | Teri Radichel | [Read More](https://medium.com/p/d29db3766bb8) |
-| Wed, 04 Jun 2025 18:36:05 GMT | Rethinking Technology Strategy: The Future of IT Consulting in Ontario, CA | Zeta Sky | [Read More](https://medium.com/p/9fa5486e7caa) |
-| Wed, 04 Jun 2025 18:32:46 GMT | Maybe I Don’t Need to Know Yet | Yuchan (Nhi Binh) | [Read More](https://medium.com/p/4980bb973a17) |
-| Wed, 04 Jun 2025 18:32:22 GMT | Credential Stuffing Defense: 5 Rapid Actions to Stop Attacks in Real Time | Bits Kingdom | [Read More](https://medium.com/p/26ab74e13ca0) |
-| Wed, 04 Jun 2025 18:25:06 GMT | Fine grained IAM permissions with AlloyDB | Bjoern Rost | [Read More](https://medium.com/p/f0d72ed446f1) |
-| Wed, 04 Jun 2025 18:15:14 GMT | SNS_Secrets CloudGoat Walkthrough | Abhishek Gupta | [Read More](https://medium.com/p/a9f1bb2f45b6) |
-| Wed, 04 Jun 2025 18:13:09 GMT | La modélisation des menaces (Threat Modeling) en pratique : méthode STRIDE + DREAD, outils et cas… | Larbi OUIYZME | [Read More](https://medium.com/p/c31105182dc9) |
-| Wed, 04 Jun 2025 18:11:37 GMT | What I Do Before Letting Any App Run as Root on My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/a3eba7c4773f) |
-| Wed, 04 Jun 2025 18:07:43 GMT | Bridging the AI Governance Gap: A Framework for Real-Time Cybersecurity and Adaptive Privacy… | Kiran Chowdhary | [Read More](https://medium.com/p/3c2f6261aa4f) |
-| Wed, 04 Jun 2025 18:01:00 GMT | Navigating the Digital Divide: A Game-Theoretic Forecast for a Post-Ukraine War US-Russia Cyber… | CCD-IS | [Read More](https://medium.com/p/eb7ee5dbef22) |
-| Wed, 04 Jun 2025 17:57:36 GMT | Como iniciar a analise de um PCAP? | Jonathan M. | [Read More](https://medium.com/p/7615254e172b) |
-| Wed, 04 Jun 2025 17:54:09 GMT | Inside the Gate: How I Witnessed a Tool Bypass a Metro Entry Without Ticket — And Why It’s a… | Aditya sunny | [Read More](https://medium.com/p/f795a29f0280) |
