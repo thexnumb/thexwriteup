@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 20:00:30 GMT | Go 1.24.4 and 1.23.10 bring important security fixes | ASAcrew Blog | [Read More](https://medium.com/p/544c453d246d) |
+| Thu, 05 Jun 2025 19:53:03 GMT | A Quick Update | Hari G. Darcy | [Read More](https://medium.com/p/3257ba009adc) |
+| Thu, 05 Jun 2025 19:48:37 GMT | How Regular Windows Security Audits Can Protect Your Business Data | IT_Engineer | [Read More](https://medium.com/p/e4a23a25ea4f) |
+| Thu, 05 Jun 2025 19:44:46 GMT | Why Most Growing Businesses Fail (And How to Prevent It) | Don Gunter | [Read More](https://medium.com/p/8d862293a53e) |
+| Thu, 05 Jun 2025 19:40:36 GMT | Cyber Frontlines: A Pen Tester’s Dive into June 5, 2025’s Digital Warzone | hackerguy | [Read More](https://medium.com/p/0e4246d9b4a9) |
+| Thu, 05 Jun 2025 19:35:08 GMT | Why We Use CISO Assistant: An Open-Source GRC Tool That Actually Works | Rommel Jay Gadil | [Read More](https://medium.com/p/0c1f5f41bd1e) |
 | Thu, 05 Jun 2025 19:29:17 GMT | Digital Trenches: A Pen Tester’s Take on June 5, 2025’s Cybersecurity Inferno | Inforsecpro | [Read More](https://medium.com/p/025cf7628b48) |
 | Thu, 05 Jun 2025 19:16:15 GMT | Day 19 of #60DaysofGRC: Why Third Party Risk Management Is a Must-Have Program | Brittney Ginther | [Read More](https://medium.com/p/ce611b8b5262) |
 | Thu, 05 Jun 2025 19:15:57 GMT | Secrets Management in DevOps: Keeping Credentials Safe in a CI/CD World | Sandesh Kumar | [Read More](https://medium.com/p/61a8cb75f22c) |
@@ -107,9 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 13:58:35 GMT | A New Chapter for NATO: How Mark Rutte Could Redefine Global Security | Articlebasket | [Read More](https://medium.com/p/c9c367bc255f) |
 | Thu, 05 Jun 2025 13:50:41 GMT | Try Hack Me: Brute IT Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/b2189f9a646f) |
 | Thu, 05 Jun 2025 13:50:35 GMT | Dynamic Malware Analysis of Open Source Packages at Scale | Abhisek Datta | [Read More](https://medium.com/p/582eee96b0b7) |
-| Thu, 05 Jun 2025 13:41:38 GMT | Web3 Penetration Testing: What’s Different from Web2? | Decrypt0 | [Read More](https://medium.com/p/b61092015358) |
-| Thu, 05 Jun 2025 13:39:26 GMT | Полная информация о DataHaven. | Shuurai | [Read More](https://medium.com/p/8f98c7b8746a) |
-| Thu, 05 Jun 2025 13:38:50 GMT | Text Phishing | Savvy Cyber Kids | [Read More](https://medium.com/p/0a4eb010e0c5) |
-| Thu, 05 Jun 2025 13:38:26 GMT | Top 6 Digital Parenting Tips for the New Year | Savvy Cyber Kids | [Read More](https://medium.com/p/3670dec23db0) |
-| Thu, 05 Jun 2025 13:38:04 GMT | The Best First Phone to Get Your Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/25a585aa7710) |
-| Thu, 05 Jun 2025 13:37:05 GMT | How to monitor security violations in your web app. | Prakash Valluri | [Read More](https://medium.com/p/b217f32a7bf5) |
