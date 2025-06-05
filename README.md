@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 01:26:30 GMT | Only 2 Indicators — And They Predicted the Entire Crude Oil Crash | Sayedali | [Read More](https://medium.com/p/e72447a5f5ee) |
+| Thu, 05 Jun 2025 01:10:34 GMT | My First Year in Cybersecurity | Pablo Vergara | [Read More](https://medium.com/p/07558d3604cf) |
+| Thu, 05 Jun 2025 01:02:24 GMT | What the Arc Browser Story Reveals About the Future of Browser Security | Engineering @ SquareX | [Read More](https://medium.com/p/55107b9eb621) |
+| Thu, 05 Jun 2025 00:56:48 GMT | The Absurd, Alarming, and Occasionally Heroic History of Cybersecurity | Richard Wilder | [Read More](https://medium.com/p/f6c821bbc600) |
+| Thu, 05 Jun 2025 00:43:36 GMT | OS Out, OS In: How to Switch Your AWS EC2 Operating System the Right Way | Cyril Baah | [Read More](https://medium.com/p/6f446ae2d5b6) |
+| Thu, 05 Jun 2025 00:28:33 GMT | Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs | Steven Floresca | [Read More](https://medium.com/p/b535d1f0b888) |
+| Thu, 05 Jun 2025 00:24:28 GMT | Vulnerability Data Enrichment for CVE Records: 229 CNAs on the Enrichment Recognition List for June… | CVE Program Blog | [Read More](https://medium.com/p/36af70a086c3) |
+| Thu, 05 Jun 2025 00:20:17 GMT | ️‍♂️ Hacking the Wrist: How Smartwatches Can Be a Security Nightmare ⌚ | Anonysec Academy | [Read More](https://medium.com/p/00b5074ed1d3) |
+| Thu, 05 Jun 2025 00:11:08 GMT | NBA Finals 2025 Preview: | abram  isyagi | [Read More](https://medium.com/p/a960e6d288fb) |
+| Thu, 05 Jun 2025 00:00:07 GMT | VulnLtd (HackingHub) — A Solid CTF for Building Real Skills | WireHawk Security | [Read More](https://medium.com/p/1c36c6b47941) |
+| Wed, 04 Jun 2025 23:51:17 GMT | Tailoring vs Scoping: Fine-Tuning Your Security Control Baseline | Raviteja Mureboina | [Read More](https://medium.com/p/9ac9f5100228) |
 | Wed, 04 Jun 2025 23:32:20 GMT | Application Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/aef39f29bb11) |
 | Wed, 04 Jun 2025 23:26:29 GMT | Mengenal U3nlock: Alat Brute Force Sederhana untuk File & Login Page | Janukhi Bisyri | [Read More](https://medium.com/p/4bde41d9c2a2) |
 | Wed, 04 Jun 2025 23:14:01 GMT | Why Every Financial Firm Need Strong Cybersecurity? | Ostrich Cyber Risk | [Read More](https://medium.com/p/b3f31d11a4fd) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Jun 2025 16:14:34 GMT | Understanding Non-Functional Testing: Performance, Security & Usability in QA | Yuwanirashipaba | [Read More](https://medium.com/p/0d1837549a66) |
 | Wed, 04 Jun 2025 16:14:32 GMT | Managing the Secure Software Development Life Cycle: Bridging Methodologies and Management | Nikoo Asadnejad | [Read More](https://medium.com/p/3360ce472588) |
 | Wed, 04 Jun 2025 16:12:00 GMT | XSS and Authorization | Kutay Yılmaz | [Read More](https://medium.com/p/8e7d45428a0e) |
-| Wed, 04 Jun 2025 16:10:02 GMT | Memahami Serangan Siber pada ICS/SCADA | Mukti Badriyan | [Read More](https://medium.com/p/6eb12283f256) |
-| Wed, 04 Jun 2025 16:07:59 GMT | Behind the Firewall: A Pen Tester’s Take on June 2025’s Cybersecurity Storm | Pentestjunkie07 | [Read More](https://medium.com/p/6af309d54e25) |
-| Wed, 04 Jun 2025 16:05:36 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 4] | Aditya Bhatt | [Read More](https://medium.com/p/ad98636c5238) |
-| Wed, 04 Jun 2025 16:04:39 GMT | Penetration Testing a Website: Identifying and Securing Web Vulnerabilities | SafeAeon Inc. | [Read More](https://medium.com/p/4598b4f2006b) |
-| Wed, 04 Jun 2025 15:55:50 GMT | Git Branch Enumeration: Bandit29 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/fc4750952d23) |
-| Wed, 04 Jun 2025 15:55:46 GMT | Securing Your Database in Spring Boot: Best Practices and Implementation | Umesh Kumar Yadav | [Read More](https://medium.com/p/4dc983e6cf7d) |
-| Wed, 04 Jun 2025 15:53:03 GMT | Brute-Forcing in DVWA: Step-by-Step Vulnerability Exploitation Walkthrough | Norbert Ephraim | [Read More](https://medium.com/p/10cabe386ef6) |
-| Wed, 04 Jun 2025 15:52:45 GMT | The Trust Deficit in AI: Why Smarter Doesn’t Always Mean Safer | TechDemocracy | [Read More](https://medium.com/p/b90d099fd49f) |
-| Wed, 04 Jun 2025 15:52:03 GMT | Network Security Audit: Ensuring a Resilient Infrastructure | SafeAeon Inc. | [Read More](https://medium.com/p/b65f8100a136) |
-| Wed, 04 Jun 2025 15:48:30 GMT | TryHackMe Write-up: Splunk Basics | Robert Onyango | [Read More](https://medium.com/p/385a01035499) |
-| Wed, 04 Jun 2025 15:39:52 GMT | What are SSH keys, and where do we need them? | Akshay khale | [Read More](https://medium.com/p/0cc21f043ba3) |
