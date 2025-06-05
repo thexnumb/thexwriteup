@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 12:36:35 GMT | BCA in Cyber Security: Your Gateway to a High-Paying Tech Career in 2025 | Success Study Tips | [Read More](https://medium.com/p/204e651b42db) |
+| Thu, 05 Jun 2025 12:35:32 GMT | Why IT Asset Management Needs to Flip the Script | Kyle Marks | [Read More](https://medium.com/p/058590c8ccd3) |
+| Thu, 05 Jun 2025 12:32:25 GMT | safety | Indots | [Read More](https://medium.com/p/92fd47ae3f66) |
+| Thu, 05 Jun 2025 12:30:50 GMT | Dijkstra Algorithm in Python | fijrisalwa | [Read More](https://medium.com/p/3b4ad2a8f009) |
+| Thu, 05 Jun 2025 12:29:51 GMT | How and Where to Find Trusted Cash App Profiles Online | How to Use Verified Cash App Accounts | [Read More](https://medium.com/p/882939473d7e) |
+| Thu, 05 Jun 2025 12:28:53 GMT | Introduction to the Cyber Security Analyst Role | Crawsec | [Read More](https://medium.com/p/672dbd12614f) |
+| Thu, 05 Jun 2025 12:17:37 GMT | The dead internet theory | The Aristippus Code | [Read More](https://medium.com/p/456b0457ab07) |
+| Thu, 05 Jun 2025 12:12:29 GMT | Do The Free Stuff First | David Scott | [Read More](https://medium.com/p/bcda62d36d12) |
+| Thu, 05 Jun 2025 12:09:48 GMT | Hardening Linux : OpenSSH | Fahmi Saddam | [Read More](https://medium.com/p/63f0ec1659e6) |
+| Thu, 05 Jun 2025 12:07:54 GMT | The Dark Side of Cosmetic Surgery: When Self-Hate Becomes Digital Violence | DrHarunacipayam | [Read More](https://medium.com/p/02bddec2e9a3) |
+| Thu, 05 Jun 2025 12:06:21 GMT | Safeguarding OKE: Passwordless kubectl Access with OCI Instance Principals | Ivan Delić | [Read More](https://medium.com/p/bac667125d8b) |
+| Thu, 05 Jun 2025 12:03:52 GMT | The Most Underrated Tech Careers No One Talks About (But Pay Well) | Prism HRC | [Read More](https://medium.com/p/1b05003c0bf4) |
+| Thu, 05 Jun 2025 12:02:23 GMT | What Ghosting Taught Me About Closure and the Need to Be Seen | London Wood | [Read More](https://medium.com/p/bc4a06a0394f) |
+| Thu, 05 Jun 2025 11:59:54 GMT | Extracting DPAPI MasterKey Data | Tom O'Neill | [Read More](https://medium.com/p/1381168ad5b8) |
+| Thu, 05 Jun 2025 11:59:00 GMT | Installing Metasploitable 3 on QEMU Ubuntu | Stevanus Banu | [Read More](https://medium.com/p/b2a7880f3f80) |
+| Thu, 05 Jun 2025 11:54:42 GMT | What to Do After a Data Breach: A Step-by-Step Guide for Businesses | West Advanced Technologies Inc | [Read More](https://medium.com/p/a00812cf5685) |
+| Thu, 05 Jun 2025 11:51:38 GMT | Google Sheets Permission Flaw: Unshared Sheet Access via URL Manipulation | Dhaval Khamar | [Read More](https://medium.com/p/ab2f954fb92c) |
 | Thu, 05 Jun 2025 11:32:43 GMT | Day 73: Important Cybersecurity Certifications — Which Ones Should You Actually Go For? | Bl@ckC!pH3r | [Read More](https://medium.com/p/7c541045b4da) |
 | Thu, 05 Jun 2025 11:32:16 GMT | Is Your Business Ready for the AI-Driven Cloud & Quantum Cyber Threat Landscape? | Techfacto Global Services | [Read More](https://medium.com/p/b94eb8f8a08b) |
 | Thu, 05 Jun 2025 11:31:31 GMT | The Critical Role of Cyber Risk Assessment & Planning in Data Protection | Sophia | [Read More](https://medium.com/p/5195db7195d8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 06:55:52 GMT | 20 Effective Ways to Strengthen Your Cybersecurity Today | Techridge Solutions | [Read More](https://medium.com/p/a1a389886b38) |
 | Thu, 05 Jun 2025 06:50:22 GMT | ICS/SCADA: Arsitektur, Ancaman Siber, dan Cara Menjaga Sistem Industri Tetap Aman | Rama Jiansyah | [Read More](https://medium.com/p/c368eccfa877) |
 | Thu, 05 Jun 2025 06:50:17 GMT | Guide to Beginning a Career in the Security Industry Authority (SIA-UK) and Transitioning into… | Dr Francesco Dergano | [Read More](https://medium.com/p/54f124d44852) |
-| Thu, 05 Jun 2025 06:39:14 GMT | I find a strange peace,it is a calm that settles, like a gentle release. | Boluwatife Lash | [Read More](https://medium.com/p/41e41297f15d) |
-| Thu, 05 Jun 2025 06:38:13 GMT | Use Case: Multi-Tier Web App with Docker Compose, Networking, and Volumes | Ramkrushna Maheshwar | [Read More](https://medium.com/p/e508228083d1) |
-| Thu, 05 Jun 2025 06:33:04 GMT | Automating Security Scans with Jenkins, Gitea, and DefectDojo: A Step-by-Step Guide | Jalex | [Read More](https://medium.com/p/cb1c7e717e05) |
-| Thu, 05 Jun 2025 06:32:45 GMT | Website Backdoors: What are They and How to Clean Them | Hamza Hanif | [Read More](https://medium.com/p/9a3da0861c54) |
-| Thu, 05 Jun 2025 06:32:29 GMT | Dokumentasi Hardening Linux: SSH, User, Firewall, Kernel, dan Audit | Kaffahrizal | [Read More](https://medium.com/p/55c8a07940bf) |
-| Thu, 05 Jun 2025 06:26:59 GMT | KiranaPro Hack Exposes the High Cost of Lax Security | TheReviewHive | [Read More](https://medium.com/p/fae10b5afa8d) |
-| Thu, 05 Jun 2025 06:26:47 GMT | In the depths of Uncertainty, it’s easy to feel lost and alone. | Boluwatife Lash | [Read More](https://medium.com/p/adf9d8fc9ef2) |
-| Thu, 05 Jun 2025 06:26:21 GMT | Data Tells a Story: How Microsoft Purview Helped Me Explore Information Protection | Emerson Juan da Silva | [Read More](https://medium.com/p/06d198202f44) |
-| Thu, 05 Jun 2025 06:25:43 GMT | Splunk: Setting up a SOC Lab(Linux) | Peta Pavan | [Read More](https://medium.com/p/3ed56f0d90f5) |
-| Thu, 05 Jun 2025 06:25:41 GMT | Predictions vs Reality: What Tech in 2025 Really Looks Like (and What It Doesn’t) | Harsh Devesh Kardile | [Read More](https://medium.com/p/f0000ee92ecc) |
-| Thu, 05 Jun 2025 06:18:59 GMT | Vocational training for cyber security in chennai | Timble Manisha | [Read More](https://medium.com/p/e4c657a55c3d) |
-| Thu, 05 Jun 2025 06:17:04 GMT | Anonymity on Kali Linux with Proxychains & Tor | ImranTheExploitHunter | [Read More](https://medium.com/p/f4faf8ec08fd) |
-| Thu, 05 Jun 2025 06:09:11 GMT | Server Virtualization: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/7b6a3038f849) |
-| Thu, 05 Jun 2025 06:08:21 GMT | The Hidden Power of Mobile Phones: Ethical Hacking Without a PC | Abraham Wekesa | [Read More](https://medium.com/p/9208286e8335) |
-| Thu, 05 Jun 2025 06:07:12 GMT | DNS in Detail - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/877980ba4c65) |
-| Thu, 05 Jun 2025 06:00:35 GMT | Today’s Top Cyber Intelligence Highlights — Jun 05, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b307594d1152) |
-| Thu, 05 Jun 2025 06:00:13 GMT | ⚡ Race Condition That Leads to Privilege Escalation | FufuFafa | [Read More](https://medium.com/p/b2f5ef484768) |
