@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 19:29:17 GMT | Digital Trenches: A Pen Tester’s Take on June 5, 2025’s Cybersecurity Inferno | Inforsecpro | [Read More](https://medium.com/p/025cf7628b48) |
+| Thu, 05 Jun 2025 19:16:15 GMT | Day 19 of #60DaysofGRC: Why Third Party Risk Management Is a Must-Have Program | Brittney Ginther | [Read More](https://medium.com/p/ce611b8b5262) |
+| Thu, 05 Jun 2025 19:15:57 GMT | Secrets Management in DevOps: Keeping Credentials Safe in a CI/CD World | Sandesh Kumar | [Read More](https://medium.com/p/61a8cb75f22c) |
 | Thu, 05 Jun 2025 18:57:56 GMT | Menjelajahi Wazuh Dashboard — Membaca Laporan dari ‘Mata-Mata’ Anda | Sigit Adi Irianto | [Read More](https://medium.com/p/094223db6599) |
 | Thu, 05 Jun 2025 18:56:47 GMT | Lessons from Pop Mart’s Chaotic Labubu Restocks | Theresa McFarlane | [Read More](https://medium.com/p/c7b8f8f3ff18) |
 | Thu, 05 Jun 2025 18:55:15 GMT | Breaking the Matrix: A Pen Tester’s Take on June 2025’s Cybersecurity Firestorm | Pentestjunkie07 | [Read More](https://medium.com/p/ac8baa241aab) |
@@ -110,6 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 13:38:26 GMT | Top 6 Digital Parenting Tips for the New Year | Savvy Cyber Kids | [Read More](https://medium.com/p/3670dec23db0) |
 | Thu, 05 Jun 2025 13:38:04 GMT | The Best First Phone to Get Your Kids | Savvy Cyber Kids | [Read More](https://medium.com/p/25a585aa7710) |
 | Thu, 05 Jun 2025 13:37:05 GMT | How to monitor security violations in your web app. | Prakash Valluri | [Read More](https://medium.com/p/b217f32a7bf5) |
-| Thu, 05 Jun 2025 13:36:02 GMT | How to Install Kali Linux: Step-by-Step Beginner’s Guide (2025) | Very Lazy Tech | [Read More](https://medium.com/p/869639b2922f) |
-| Thu, 05 Jun 2025 13:23:29 GMT | The Security Misconception That’s Putting Angular Apps at Risk | Herbert Moroni Gois | [Read More](https://medium.com/p/6f0205113b59) |
-| Thu, 05 Jun 2025 13:20:50 GMT | Bulletproofing SPA Sessions: Token Rotation Against Session Hijacking | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/3247444a1523) |
