@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 16:39:21 GMT | Xeggex Review 2025 | Kelvin mark | [Read More](https://medium.com/p/483a1ff84b0e) |
+| Thu, 05 Jun 2025 16:38:31 GMT | Memahami ICS/SCADA (Industrial Control Systems)/ (Supervisory Control and Data Acquisition) | rdtyy | [Read More](https://medium.com/p/e9fc4664c218) |
+| Thu, 05 Jun 2025 16:31:47 GMT | About BioGuardian NanoTech
+Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](https://medium.com/p/61e5fe4375b2) |
+| Thu, 05 Jun 2025 16:28:58 GMT | Essential Basic CLI Commands for a Cybersecurity Analyst’s Daily Workflow | Mubashir Rahman | [Read More](https://medium.com/p/dd5346366740) |
 | Thu, 05 Jun 2025 16:16:32 GMT | Wise Anti Malware: Comprehensive Protection Against Modern Threats | SafeAeon Inc. | [Read More](https://medium.com/p/2c5b7f800287) |
 | Thu, 05 Jun 2025 16:16:22 GMT | Over The Wire — bandit level 0–10 | Isha Sangpal | [Read More](https://medium.com/p/f86bc733cf9d) |
 | Thu, 05 Jun 2025 16:08:32 GMT | How I got into Cybersecurity | EOLO | [Read More](https://medium.com/p/38b4702c6118) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 11:17:18 GMT | The Cybersecurity Paradox: How AI Is Both Our Greatest Risk and Our Best Defense. | Sajid Khan | [Read More](https://medium.com/p/532d57d38322) |
 | Thu, 05 Jun 2025 11:16:30 GMT | Why use cybersecurity risk management today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/f0b3c48bd477) |
 | Thu, 05 Jun 2025 11:14:01 GMT | Stop Building Risk Registers Manually. Start Operating with Real-Time AI-Driven GRC from Cytrusst | Cytrusst | [Read More](https://medium.com/p/54104122139e) |
-| Thu, 05 Jun 2025 11:09:41 GMT | Signal Under the Hood — What Activists & Journalists Need to Know About the Risks Beyond Encryption | Denis | [Read More](https://medium.com/p/3713359c3d54) |
-| Thu, 05 Jun 2025 11:08:14 GMT | Cloud-Specific Incident Response Playbooks | secure100 | [Read More](https://medium.com/p/e8b3f3706c29) |
-| Thu, 05 Jun 2025 11:05:42 GMT | Beat the Deadline: How to Prepare for FCP_FGT_AD-7.4 Before It Retires | CertifyInsider | [Read More](https://medium.com/p/2c28f233ec14) |
-| Thu, 05 Jun 2025 11:04:11 GMT | Why Emergencies Are a Thing of Emergency in Nigeria | Oyewole Joledo | [Read More](https://medium.com/p/a3872f0957c9) |
