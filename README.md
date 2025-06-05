@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 15:02:15 GMT | Forced Browsing: Natas2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/209686388d95) |
+| Thu, 05 Jun 2025 15:01:34 GMT | Securycor: Your Trusted Partner in Security | Professional UK Services | [Read More](https://medium.com/p/8ac18988d411) |
+| Thu, 05 Jun 2025 15:00:04 GMT | TikTok analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/21a2f8522f32) |
+| Thu, 05 Jun 2025 14:57:53 GMT | PortSwigger JWT Labs — Full Walkthrough | Shoaib Bin Rashid | [Read More](https://medium.com/p/5fa4a4dcb0e7) |
+| Thu, 05 Jun 2025 14:56:30 GMT | Hack The Box: Netmon Walkthrough | packetsniper | [Read More](https://medium.com/p/70c0dcb74e0f) |
+| Thu, 05 Jun 2025 14:55:36 GMT | From Web3 Developer to Smart-Contract Auditor: False trust. Roles and Governance. | Evgenii | [Read More](https://medium.com/p/19c11cdb8baa) |
+| Thu, 05 Jun 2025 14:55:09 GMT | Neuromorphic Mimicry Attacks: The Next Frontier in Cybersecurity Threats | Ashwini Puranik | [Read More](https://medium.com/p/c422cd347119) |
+| Thu, 05 Jun 2025 14:54:48 GMT | Tokemak - Sherlock Defi 06/2023 Audit - High Severity finding - How one line lead to loss of all… | lodelux | [Read More](https://medium.com/p/c6f339d80086) |
+| Thu, 05 Jun 2025 14:50:39 GMT | Event-Sicherheitsrobotik | Presslink Media | [Read More](https://medium.com/p/a4cb29d09f93) |
+| Thu, 05 Jun 2025 14:48:07 GMT | Cheyanne Mallas: The Strategic Force Behind Cybersecurity Project Success | Cheyannemallaspa | [Read More](https://medium.com/p/9d14dc617587) |
+| Thu, 05 Jun 2025 14:40:15 GMT | ️ Inside the 160-Comment Fight to Fix SnakeYAML’s RCE Default | Jonathan Leitschuh | [Read More](https://medium.com/p/1a20c5ca4d4c) |
 | Thu, 05 Jun 2025 14:36:19 GMT | But Not Kiss | Hazu | [Read More](https://medium.com/p/6bb683701707) |
 | Thu, 05 Jun 2025 14:30:58 GMT | 404 to Root : How a Forgotten Subdomain Led to Server Takeover ‍☠️ | z0h3 | [Read More](https://medium.com/p/6284d0264c7e) |
 | Thu, 05 Jun 2025 14:28:50 GMT | Analyzed Steam Phishing Page — Here’s What I Found | Athiwat Tiprasaharn | [Read More](https://medium.com/p/c90e41ffb43e) |
@@ -22,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 14:22:27 GMT | 25 Interesting Papers to Read | Dixit Kumar | [Read More](https://medium.com/p/bbd539cfff67) |
 | Thu, 05 Jun 2025 14:21:37 GMT | I Found My Private Google Photos and Emails on Public Archives. | Satvikhardat | [Read More](https://medium.com/p/51a42108ceac) |
 | Thu, 05 Jun 2025 14:14:20 GMT | Why Password Policies Are Still Failing in 2025 | Cybersecurity Umbrella | [Read More](https://medium.com/p/c362796bf2fd) |
+| Thu, 05 Jun 2025 14:10:33 GMT | Keamanan Siber ICS/SCADA: Mengungkap Kerentanan dan Jenis Serangan Umum | Farhan Maulana | [Read More](https://medium.com/p/954c744d7ee5) |
 | Thu, 05 Jun 2025 14:08:28 GMT | ChatGPT & Gemini in Ethical Hacking & Cyber Security - TryHackMe BadSuccessor Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/17d149123ae6) |
 | Thu, 05 Jun 2025 14:01:37 GMT | How I Made $1,250 in 5 Minutes with One SQL Injection | Ibtissam hammadi | [Read More](https://medium.com/p/6a67e255b4a2) |
 | Thu, 05 Jun 2025 13:59:43 GMT | Cyber Briefing: 2025.06.05 | CyberMaterial | [Read More](https://medium.com/p/54eec4409be7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 09:50:37 GMT | How a Welcome Email Can Be Used for Malicious Redirection | Ehtesham Ul Haq | [Read More](https://medium.com/p/fd833ec71550) |
 | Thu, 05 Jun 2025 09:48:44 GMT | You Want to Get Into Cybersecurity? Here’s Your Roadmap. | Tanzeem Khatri | [Read More](https://medium.com/p/903bc48176a2) |
 | Thu, 05 Jun 2025 09:43:12 GMT | Complete Guide to Networking Basics to Advance and Common Port Numbers — 2025 Update | LogicTech | [Read More](https://medium.com/p/55f0da0236ea) |
-| Thu, 05 Jun 2025 09:40:41 GMT | Day 67: Python in the SOC — Your New Best Friend (Basics & Cool Use Cases) | Bl@ckC!pH3r | [Read More](https://medium.com/p/9b15ecf20cd9) |
-| Thu, 05 Jun 2025 09:28:49 GMT | Improper Coupon Validation Allows Unlimited Free Voucher Redemptions | Rahul Kumar | [Read More](https://medium.com/p/d55bf44df2df) |
-| Thu, 05 Jun 2025 09:25:45 GMT | On Belonging and Building: Reflections from Running BSides St. Pete | Wilson Bautista Jr. | [Read More](https://medium.com/p/fc0794707ff0) |
-| Thu, 05 Jun 2025 09:20:18 GMT | Learning Cyber Security — TryHackMe Walkthrough | MANISH KUMAR | [Read More](https://medium.com/p/851d1da406f0) |
-| Thu, 05 Jun 2025 09:20:08 GMT | Detection Engineering Practice: Detecting SSH Port Forwarding in Logs | Mnik | [Read More](https://medium.com/p/16b911e69542) |
-| Thu, 05 Jun 2025 09:18:39 GMT | The Critical Role of Vulnerability Scanning in SWIFT CSCF 2024 | Biz Serve IT | [Read More](https://medium.com/p/e1fa54740850) |
-| Thu, 05 Jun 2025 09:11:27 GMT | SWIFT CSP Mandatory Control 1.3: Virtualization or Cloud Platform Protection | Biz Serve IT | [Read More](https://medium.com/p/67a83affdec0) |
-| Thu, 05 Jun 2025 09:02:28 GMT | The Top 10 Website Vulnerability Scanners for Efficient Web Protection | Ramesh M | [Read More](https://medium.com/p/a308e826fc5d) |
-| Thu, 05 Jun 2025 09:02:20 GMT | GRC vs IRM | Harry West | [Read More](https://medium.com/p/f18a35331100) |
-| Thu, 05 Jun 2025 09:02:08 GMT | Understanding SIP Voting: Empowering The Sandbox DAO Community | Victoran | [Read More](https://medium.com/p/ea6c18a44193) |
-| Thu, 05 Jun 2025 08:59:21 GMT | Don't Worry, I Don't Understand Either | reina | [Read More](https://medium.com/p/d5df4e81614c) |
-| Thu, 05 Jun 2025 08:52:19 GMT | What Hackers Hope You Never Learn About Public Wi-Fi | Rachel The Storyteller | [Read More](https://medium.com/p/120989929748) |
