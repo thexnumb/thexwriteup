@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 16:16:32 GMT | Wise Anti Malware: Comprehensive Protection Against Modern Threats | SafeAeon Inc. | [Read More](https://medium.com/p/2c5b7f800287) |
+| Thu, 05 Jun 2025 16:16:22 GMT | Over The Wire — bandit level 0–10 | Isha Sangpal | [Read More](https://medium.com/p/f86bc733cf9d) |
+| Thu, 05 Jun 2025 16:08:32 GMT | How I got into Cybersecurity | EOLO | [Read More](https://medium.com/p/38b4702c6118) |
+| Thu, 05 Jun 2025 16:06:02 GMT | ✅ How to Download and Install Kali Linux on VirtualBox in Windows 10 [Step-by-Step Guide] | Ekene Joseph | [Read More](https://medium.com/p/75eec3624caa) |
+| Thu, 05 Jun 2025 16:02:29 GMT | [HTB] LinkVortex writeup | ywc | [Read More](https://medium.com/p/48e6b5ea8455) |
+| Thu, 05 Jun 2025 15:56:13 GMT | SOC104 — Malware Detected - Let’s Defend | Sohan Kanna D | [Read More](https://medium.com/p/f72730059017) |
+| Thu, 05 Jun 2025 15:50:06 GMT | Top 5 Benefits of Hiring Virtual Chief Information Security Officer (vCISO) Services for Small… | Executive Solutions USA | [Read More](https://medium.com/p/2b5cdd5caadf) |
+| Thu, 05 Jun 2025 15:48:42 GMT | n8n tutorial : Setup an AI WhatsApp Agent from Scratch | ari | [Read More](https://medium.com/p/9efff7a411d5) |
+| Thu, 05 Jun 2025 15:42:30 GMT | 30 Days of Cyber Security — Day 10: Basic Security Hardening on Kali Linux — Mengamankan “Senjata”… | Indra Rahmat Maulidi | [Read More](https://medium.com/p/5dcc74572104) |
+| Thu, 05 Jun 2025 15:42:19 GMT | SCP vs Rsync: Which Linux File Transfer Tool Should You Use? | Ashish Singh | [Read More](https://medium.com/p/6cf845d63f11) |
+| Thu, 05 Jun 2025 15:40:20 GMT | Her Eyes | Simrah Jahan | [Read More](https://medium.com/p/d86fc8fe7147) |
 | Thu, 05 Jun 2025 15:40:05 GMT | The Ultimate SQL Injection Guide | Roshan Ajith | [Read More](https://medium.com/p/5543864a7c60) |
+| Thu, 05 Jun 2025 15:36:49 GMT | From Dithering to Decisive: How the NDA Crushed the Naxal Threat Where UPA Faltered | Kritant Mishra | [Read More](https://medium.com/p/18b35356be3c) |
 | Thu, 05 Jun 2025 15:28:30 GMT | Track the Hacks: Tracing Malicious Intent in Everyday Browsing — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/18a7236fd9b7) |
 | Thu, 05 Jun 2025 15:24:10 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 8… | DhiasCode | [Read More](https://medium.com/p/79a9e57d453d) |
 | Thu, 05 Jun 2025 15:22:31 GMT | “It Looked Like the Admin Said It” , The Quiet Power of Quote Spoofing Bugs | Aser0xx | [Read More](https://medium.com/p/d51b14cb40ab) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 11:08:14 GMT | Cloud-Specific Incident Response Playbooks | secure100 | [Read More](https://medium.com/p/e8b3f3706c29) |
 | Thu, 05 Jun 2025 11:05:42 GMT | Beat the Deadline: How to Prepare for FCP_FGT_AD-7.4 Before It Retires | CertifyInsider | [Read More](https://medium.com/p/2c28f233ec14) |
 | Thu, 05 Jun 2025 11:04:11 GMT | Why Emergencies Are a Thing of Emergency in Nigeria | Oyewole Joledo | [Read More](https://medium.com/p/a3872f0957c9) |
-| Thu, 05 Jun 2025 11:01:55 GMT | Cyber Security Course: Secure Your Career In A Hacking World | Osiz Labs | [Read More](https://medium.com/p/8a52f000a972) |
-| Thu, 05 Jun 2025 10:51:43 GMT | Billing  — THM WriteUp | Carlos Padilla | [Read More](https://medium.com/p/d11bed9a2ed3) |
-| Thu, 05 Jun 2025 10:49:51 GMT | Top 5 KPIs to Boost Application Support Efficiency | Catherine William | [Read More](https://medium.com/p/3f5cd43d16fc) |
-| Thu, 05 Jun 2025 10:45:00 GMT | The Modern Day Medusa | Akshara Siddharthan | [Read More](https://medium.com/p/0e644147aec0) |
-| Thu, 05 Jun 2025 10:30:19 GMT | Bulletproof Your Web Applications: The Complete AWS WAF Security Guide (Part 1) | Robin | [Read More](https://medium.com/p/b1fda84c24be) |
-| Thu, 05 Jun 2025 10:26:38 GMT | HoloXit — Security and Surveillance: Surveillance Automation for Optimal Security | HoloXit | [Read More](https://medium.com/p/deb8cae310ae) |
-| Thu, 05 Jun 2025 10:23:31 GMT | Is Mintos Legit Or Scam? | Antonia | [Read More](https://medium.com/p/726d792b69ed) |
-| Thu, 05 Jun 2025 10:18:37 GMT | Episode 2 of the MSP Security Playbook - Building Relationships That Convert, with Paul Green | Heimdal Security | [Read More](https://medium.com/p/b669c4f203cb) |
-| Thu, 05 Jun 2025 10:14:29 GMT | RBASH configuration | Nibbabob | [Read More](https://medium.com/p/78b61f7ade46) |
-| Thu, 05 Jun 2025 10:09:45 GMT | If you’re getting into cybersecurity, one tool you’ll encounter early on is Dirb—a straightforward… | FranklinOx.Sec | [Read More](https://medium.com/p/2d788b020276) |
-| Thu, 05 Jun 2025 10:08:40 GMT | Ledger-THM (  PT1 Recommended Room ) | MRX.0 | [Read More](https://medium.com/p/db804eac6ded) |
-| Thu, 05 Jun 2025 10:02:52 GMT | Here’s How I Recovered My Money From GROUNDFLOOR ? | Flor | [Read More](https://medium.com/p/049292f27fd1) |
