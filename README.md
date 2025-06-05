@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 23:35:29 GMT | Credential Leak Intelligence - Elastic Leak Searcher | Onurcan Genç | [Read More](https://medium.com/p/e3572ca007cf) |
+| Thu, 05 Jun 2025 23:32:09 GMT | Software Supply Chain Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5b36bef22d79) |
+| Thu, 05 Jun 2025 23:23:50 GMT | Off the Grid: How Ghost Phones Keep Spies Ahead — and What You Can Learn to Protect Your Privacy | Robert Morton | [Read More](https://medium.com/p/5fdf4a4ac65d) |
 | Thu, 05 Jun 2025 23:10:30 GMT | Roadmap to eJPTv2 Success | Mr Horbio | [Read More](https://medium.com/p/dabf0fe9d62b) |
 | Thu, 05 Jun 2025 23:10:29 GMT | Google Dorking for Hackers: Secrets, Recon, and Digital Power | YooZy | [Read More](https://medium.com/p/06a537e1d6bb) |
 | Thu, 05 Jun 2025 23:01:33 GMT | My Log Source-Agnostic Methodology to Understanding Big Data | Ryan G. Cox | [Read More](https://medium.com/p/3d02e68f0202) |
@@ -110,6 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 15:21:49 GMT | Hardening Linux dari Nol: Mulai dari File Permission & User Management | Honeylemondrink | [Read More](https://medium.com/p/6745f196afea) |
 | Thu, 05 Jun 2025 15:19:07 GMT | TryHackMe - Windows Memory & User Activity - WriteUp | Axoloth | [Read More](https://medium.com/p/9a009850af8c) |
 | Thu, 05 Jun 2025 15:16:20 GMT | AI & Your Digital Footprint: How to Use LLMs Safely in 2025 | Lydiah Muigwa | [Read More](https://medium.com/p/fd19e34f5b74) |
-| Thu, 05 Jun 2025 15:02:15 GMT | Forced Browsing: Natas2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/209686388d95) |
-| Thu, 05 Jun 2025 15:01:34 GMT | Securycor: Your Trusted Partner in Security | Professional UK Services | [Read More](https://medium.com/p/8ac18988d411) |
-| Thu, 05 Jun 2025 15:00:04 GMT | TikTok analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/21a2f8522f32) |
