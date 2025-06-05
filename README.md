@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Jun 2025 09:28:49 GMT | Improper Coupon Validation Allows Unlimited Free Voucher Redemptions | Rahul Kumar | [Read More](https://medium.com/p/d55bf44df2df) |
+| Thu, 05 Jun 2025 09:25:45 GMT | On Belonging and Building: Reflections from Running BSides St. Pete | Wilson Bautista Jr. | [Read More](https://medium.com/p/fc0794707ff0) |
+| Thu, 05 Jun 2025 09:20:18 GMT | Learning Cyber Security — TryHackMe Walkthrough | MANISH KUMAR | [Read More](https://medium.com/p/851d1da406f0) |
+| Thu, 05 Jun 2025 09:20:08 GMT | Detection Engineering Practice: Detecting SSH Port Forwarding in Logs | Mnik | [Read More](https://medium.com/p/16b911e69542) |
 | Thu, 05 Jun 2025 09:18:39 GMT | The Critical Role of Vulnerability Scanning in SWIFT CSCF 2024 | Biz Serve IT | [Read More](https://medium.com/p/e1fa54740850) |
 | Thu, 05 Jun 2025 09:11:27 GMT | SWIFT CSP Mandatory Control 1.3: Virtualization or Cloud Platform Protection | Biz Serve IT | [Read More](https://medium.com/p/67a83affdec0) |
 | Thu, 05 Jun 2025 09:02:28 GMT | The Top 10 Website Vulnerability Scanners for Efficient Web Protection | Ramesh M | [Read More](https://medium.com/p/a308e826fc5d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 03:32:24 GMT | When Breakfast Meets a Breach: How W.K. Kellogg Became a Cybersecurity Case Study | Deven Chhajed | [Read More](https://medium.com/p/e1566ef19915) |
 | Thu, 05 Jun 2025 03:10:47 GMT | ️ CVE-2022-46604: Exploring a Path Traversal Vulnerability in Responsive File Manager | CyberQuestor | [Read More](https://medium.com/p/50d7ab5826ad) |
 | Thu, 05 Jun 2025 02:57:17 GMT | The $450 Million Mirage: How AI Hype Fueled Builder.ai’s Collapse | Carlos Jaramillo | [Read More](https://medium.com/p/a6601f22eb52) |
-| Thu, 05 Jun 2025 02:50:33 GMT | Power Platform Environments— Firewall security settings | Mustaque Ehiya | [Read More](https://medium.com/p/2faac95cffd4) |
-| Thu, 05 Jun 2025 02:47:57 GMT | App Mobile - Como um sanduíche | Perla C. S | [Read More](https://medium.com/p/ed5d8cbe5762) |
-| Thu, 05 Jun 2025 02:36:19 GMT | Understanding Static methods & variables in Java - Explained with examples. | Hari Prasad | [Read More](https://medium.com/p/75f83b53757b) |
-| Thu, 05 Jun 2025 02:32:25 GMT | The Things We Don’t Post | Vaibhavi Naik | [Read More](https://medium.com/p/f1ea7b1e5e81) |
