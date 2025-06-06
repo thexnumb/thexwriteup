@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 16:42:08 GMT | Linux Hardening: Best Practices for Securing Your System | Zallnugraha | [Read More](https://medium.com/p/e3df7e4c6029) |
+| Fri, 06 Jun 2025 16:36:01 GMT | Cracking Passwords with Hashcat: Wordlist, Mask, and Hybrid Attacks Explained | Esra Kayhan | [Read More](https://medium.com/p/01f246615dcc) |
+| Fri, 06 Jun 2025 16:32:29 GMT | Brute Force Winbox MikroTik via MAC Address | Hasan Basyri | [Read More](https://medium.com/p/e0c28551819a) |
+| Fri, 06 Jun 2025 16:30:39 GMT | Cybersecurity Essentials by EC-Council #NAIYANNOOR | Naiyan Noor | [Read More](https://medium.com/p/3685070a5598) |
+| Fri, 06 Jun 2025 16:25:51 GMT | 7 Obvious Signs Top Email Scammers Use to Contact You | Tom Handy | [Read More](https://medium.com/p/bc91f5dc4f6d) |
 | Fri, 06 Jun 2025 16:24:12 GMT | This Is How You Should Secure Your Spring Cloud Applications After the CVE-2025–41235 Patch | DevTrendsDaily | [Read More](https://medium.com/p/0b6ddd1a2e9b) |
 | Fri, 06 Jun 2025 16:21:52 GMT | How I recover my money from Henxminer | Gina | [Read More](https://medium.com/p/6351ef57d2b0) |
 | Fri, 06 Jun 2025 16:14:25 GMT | Technicity Chronicle: 10 Essential Cybersecurity Tips For 2025 | Faisal Khan | [Read More](https://medium.com/p/2ec73dcc994c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 12:15:37 GMT | MD2PDF -tryhackme ctf -2025 | L4V4NY4  AGR3 | [Read More](https://medium.com/p/efc17335f97e) |
 | Fri, 06 Jun 2025 12:14:13 GMT | Application Security Posture Management — Transforming Risk Management | Akanksha | [Read More](https://medium.com/p/8450948dd7b8) |
 | Fri, 06 Jun 2025 12:01:39 GMT | T-Mobile 2025 Data Breach: What Went Wrong and How It Could Have Been Prevented | Ronit Yadav | [Read More](https://medium.com/p/2dbe31b61d83) |
-| Fri, 06 Jun 2025 11:48:06 GMT | Cara Sederhana Hardening SSH di Linux | Nothingless | [Read More](https://medium.com/p/8b4b202d3205) |
-| Fri, 06 Jun 2025 11:46:31 GMT | 7 Innovative AI Strategies BizRise Advisors Employ to Drive Business Growth | Jennifer Williams | [Read More](https://medium.com/p/7f4e1cbd2250) |
-| Fri, 06 Jun 2025 11:44:33 GMT | How a Sophisticated Scam Stole $10K from My Friend — And How You Can Avoid It | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/a0c1843f3fac) |
-| Fri, 06 Jun 2025 11:36:25 GMT | Free Social Media Intelligence(SOCMINT) Tools | loyalonlytoday | [Read More](https://medium.com/p/5c695ed644ec) |
-| Fri, 06 Jun 2025 11:35:28 GMT | Inside Ethical Hacking: What I Learned About the Good Side of Hackers | Ekansh | [Read More](https://medium.com/p/49de6d9992be) |
