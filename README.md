@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 12:35:21 GMT | When Being a Man Means Breaking Down | Joeybags | [Read More](https://medium.com/p/38fad83fc840) |
+| Fri, 06 Jun 2025 12:32:01 GMT | Top 11 Highest Paying Cybersecurity Certifications in 2025 | Amelia Miller | [Read More](https://medium.com/p/d6337cd17ed4) |
+| Fri, 06 Jun 2025 12:29:40 GMT | The perk you’ve been sleeping on | Daily Drop | [Read More](https://medium.com/p/6c7a6eb142c6) |
+| Fri, 06 Jun 2025 12:28:15 GMT | INFO - PENJELASAN ICS/SCADA DAN SERANGANNYA | InREXnA | [Read More](https://medium.com/p/eae67892e8eb) |
+| Fri, 06 Jun 2025 12:26:51 GMT | Not Every Bug Deserves an Automated Test — and That’s Okay | Paulo Rogério Moreira Rocha | [Read More](https://medium.com/p/5b254757cde9) |
+| Fri, 06 Jun 2025 12:26:04 GMT | How to Choose the Best Contract Tool for Success in 2025 | Rob Wynn | [Read More](https://medium.com/p/a8cbf6d8b508) |
+| Fri, 06 Jun 2025 12:21:23 GMT | Bithumb Review - This Is How I Recover My Money | Jenson Cameron | [Read More](https://medium.com/p/91c434a31b87) |
+| Fri, 06 Jun 2025 12:19:56 GMT | Here’s How I Recover My Money From Bithumb | Jenson Cameron | [Read More](https://medium.com/p/b79cc32dbbc4) |
+| Fri, 06 Jun 2025 12:17:38 GMT | The Blackflies Demand Ritual Sacrifice | Yours Truly, D. | [Read More](https://medium.com/p/73d0ab3df47f) |
+| Fri, 06 Jun 2025 12:15:41 GMT | How LLM-as-a-Judge Evaluation Improves Threat Intelligence | Michael Rico | [Read More](https://medium.com/p/784eb8394135) |
+| Fri, 06 Jun 2025 12:15:37 GMT | MD2PDF -tryhackme ctf -2025 | L4V4NY4  AGR3 | [Read More](https://medium.com/p/efc17335f97e) |
+| Fri, 06 Jun 2025 12:14:13 GMT | Application Security Posture Management — Transforming Risk Management | Akanksha | [Read More](https://medium.com/p/8450948dd7b8) |
+| Fri, 06 Jun 2025 12:01:39 GMT | T-Mobile 2025 Data Breach: What Went Wrong and How It Could Have Been Prevented | Ronit Yadav | [Read More](https://medium.com/p/2dbe31b61d83) |
+| Fri, 06 Jun 2025 11:48:06 GMT | Cara Sederhana Hardening SSH di Linux | Nothingless | [Read More](https://medium.com/p/8b4b202d3205) |
+| Fri, 06 Jun 2025 11:46:31 GMT | 7 Innovative AI Strategies BizRise Advisors Employ to Drive Business Growth | Jennifer Williams | [Read More](https://medium.com/p/7f4e1cbd2250) |
+| Fri, 06 Jun 2025 11:44:33 GMT | How a Sophisticated Scam Stole $10K from My Friend — And How You Can Avoid It | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/a0c1843f3fac) |
 | Fri, 06 Jun 2025 11:36:25 GMT | Free Social Media Intelligence(SOCMINT) Tools | loyalonlytoday | [Read More](https://medium.com/p/5c695ed644ec) |
 | Fri, 06 Jun 2025 11:35:28 GMT | Inside Ethical Hacking: What I Learned About the Good Side of Hackers | Ekansh | [Read More](https://medium.com/p/49de6d9992be) |
 | Fri, 06 Jun 2025 11:30:35 GMT | Güvenlik Tehditleri Modellemesi: Yazılım Ekipleri İçin Pratik Rehber | Alper Konuralp | [Read More](https://medium.com/p/9d591c6c351c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 07:53:21 GMT | INE Security Junior Penetration Tester — eJPT | Babatunde Ojo | [Read More](https://medium.com/p/1da0b803dc35) |
 | Fri, 06 Jun 2025 07:46:16 GMT | Building Trust in AI Agents: What We Can Learn From SOAR’s Adoption Path | sqdrew | [Read More](https://medium.com/p/31a6d614556a) |
 | Fri, 06 Jun 2025 07:42:08 GMT | Hacking the Hierarchy: Why Developer-Managers Trump the Admin Army | Namir Sagheenanajar | [Read More](https://medium.com/p/e70d8ea9dba1) |
-| Fri, 06 Jun 2025 07:36:59 GMT | Why Choose a B.Tech CSE Cyber Security Programme? Key Benefits for Tech-Savvy Students | Aashi | [Read More](https://medium.com/p/856c1d92b9e6) |
-| Fri, 06 Jun 2025 07:29:17 GMT | A New Phishing Trick: Plain Text Links and Session Hijacking | Ankit Sharma | [Read More](https://medium.com/p/83f77b8e0614) |
-| Fri, 06 Jun 2025 07:25:51 GMT | Which is the Best certification for Linux in 2025 | cyber security Updates | [Read More](https://medium.com/p/4c34096e69a2) |
-| Fri, 06 Jun 2025 07:21:10 GMT | Authentication part-2 : 2FA simple bypass | Ahmad Sopyan | [Read More](https://medium.com/p/dceb4a530fb7) |
-| Fri, 06 Jun 2025 07:13:58 GMT | Bounty Hacker : TryHackMe Write-Up | Rindaman666 | [Read More](https://medium.com/p/025a45fbb8b2) |
-| Fri, 06 Jun 2025 07:11:09 GMT | What’s Really in a Security Audit? | Outsoft | [Read More](https://medium.com/p/45984e9e326f) |
-| Fri, 06 Jun 2025 07:09:30 GMT | ประจำวันศุกร์ที่ 6 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2b96c730ccf2) |
-| Fri, 06 Jun 2025 07:05:08 GMT | Choosing the Best Video Surveillance System for Your Needs | iTech Monitoring | [Read More](https://medium.com/p/2aae9f3a4a68) |
-| Fri, 06 Jun 2025 06:58:11 GMT | Zero Trust Architecture Explained: Why It’s the Future of Cybersecurity | Synnefosolutions | [Read More](https://medium.com/p/a3f472684c50) |
-| Fri, 06 Jun 2025 06:53:17 GMT | Security Screens North Lakes | Brisbane Security Screens | [Read More](https://medium.com/p/17d4a6b828f7) |
-| Fri, 06 Jun 2025 06:38:00 GMT | Strengthening Cybersecurity in the Digital Age: A 2025 Guide | iZoe | [Read More](https://medium.com/p/2ecde3b49096) |
-| Fri, 06 Jun 2025 06:36:39 GMT | You’re Not Single by Choice — You’re Single Because You’re Terrified of Being Seen | X-Plain | [Read More](https://medium.com/p/66b05fee7f04) |
-| Fri, 06 Jun 2025 06:25:34 GMT | The Corix Partners Friday Reading List — June 6, 2025 | JC Gaillard | [Read More](https://medium.com/p/88e1d410c8d9) |
-| Fri, 06 Jun 2025 06:25:01 GMT | How Neo Banks Empower Startups & How ITIO Innovex Helps You Launch One | Harshvardhan Singh | [Read More](https://medium.com/p/9197dee1033a) |
-| Fri, 06 Jun 2025 06:24:06 GMT | Understanding Cyber Security: A Comprehensive Overview for the Digital Age | certifiedethicalhacker | [Read More](https://medium.com/p/e5425a6de575) |
-| Fri, 06 Jun 2025 06:19:50 GMT | How a Tiny Click Nearly Took Down Our System | Tanish  Dewase! | [Read More](https://medium.com/p/bcd666eb57ae) |
