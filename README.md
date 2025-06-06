@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 15:12:24 GMT | Kioptrix Level 3 (VulnHub) Walkthrough | ma40ou | [Read More](https://medium.com/p/0f44327f61fc) |
+| Fri, 06 Jun 2025 15:08:03 GMT | The Silent Security Crisis: Why Your Edge AI Systems Are Walking Targets | Andrei Ivan | [Read More](https://medium.com/p/6eda36ca2af9) |
+| Fri, 06 Jun 2025 15:06:24 GMT | Tutorial: Mythic Apollo with BallisKit MacroPack and ShellcodePack | Emeric | [Read More](https://medium.com/p/7129b2550765) |
+| Fri, 06 Jun 2025 15:04:33 GMT | The Days I Didn’t Want to Be Here And the Quiet Fight to Stay | Nelly | [Read More](https://medium.com/p/25f7cb3fb5fb) |
+| Fri, 06 Jun 2025 15:03:23 GMT | OAuth vs OAuth2 — What’s the Difference? [With a Real-World Example] | Radhika Parashar | [Read More](https://medium.com/p/1fced0baa032) |
+| Fri, 06 Jun 2025 15:03:00 GMT | I am a pentester and currently employed, but I was spying on my ex-company. | Cybr | [Read More](https://medium.com/p/c429e6305ea3) |
+| Fri, 06 Jun 2025 15:02:19 GMT | Installation of Kali Linux on Virtual Box | Very Lazy Tech | [Read More](https://medium.com/p/42c3a7043056) |
+| Fri, 06 Jun 2025 15:02:16 GMT | Land Grabbers Are Real. Here’s How to Protect Your Property | Cinalis | [Read More](https://medium.com/p/a38711f6d5a8) |
+| Fri, 06 Jun 2025 15:02:16 GMT | The Role of Tiering in Data Backup and Disaster Recovery in Phoenix | Blue Fox Group | [Read More](https://medium.com/p/59737961eea1) |
+| Fri, 06 Jun 2025 15:01:37 GMT | MrPhish in Termux: A Simple Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/4e4c78aa6640) |
+| Fri, 06 Jun 2025 14:56:32 GMT | Web Requests | Maleesha Rathnayaka | [Read More](https://medium.com/p/92c8e2f25940) |
+| Fri, 06 Jun 2025 14:56:11 GMT | The DSPM Paradox: Control Tools for an Uncontrollable Data Landscape | Hamid Akhtar | [Read More](https://medium.com/p/0a1f499c2756) |
+| Fri, 06 Jun 2025 14:54:35 GMT | WhatsApp's Silent Privacy Crisis: The Hidden Glitches Undermining User Trust | Marav | [Read More](https://medium.com/p/3ec18beba17f) |
+| Fri, 06 Jun 2025 14:50:23 GMT | ️ Python Security Best Practices — Locking Down Dependencies with safety | Priyanshu Rajput | [Read More](https://medium.com/p/3eba0cdd131f) |
+| Fri, 06 Jun 2025 14:49:01 GMT | FOREXPROVIDER: TARGETING DEVELOPERS AT WARP-VELOCITY IN THE FINANCIAL SECTOR | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/203f6547cd37) |
+| Fri, 06 Jun 2025 14:46:54 GMT | “Trying to heal is sometimes far more exhausting than just being unwell. “ | Esmanur Şen | [Read More](https://medium.com/p/8507b69353c0) |
+| Fri, 06 Jun 2025 14:46:37 GMT | How a Coffee Shop Wi-Fi Got Her Passport, Flight, and Identity | Sam Galope | [Read More](https://medium.com/p/f33b90c39173) |
+| Fri, 06 Jun 2025 14:43:10 GMT | The Daily Tech Digest: 06 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/5aad7490b452) |
+| Fri, 06 Jun 2025 14:42:28 GMT | Memecahkan Kode Rahasia: Tools Brute Force Password | Adi Ramadhani | [Read More](https://medium.com/p/fad83ac1030b) |
+| Fri, 06 Jun 2025 14:42:05 GMT | You’re worth helping. Here’s why | Home | [Read More](https://medium.com/p/b3789941af48) |
 | Fri, 06 Jun 2025 14:38:36 GMT | Bug Bounty-Forget Coding (For Now): The 3 Essential Skills to Find Your First Bug | Vivek PS | [Read More](https://medium.com/p/2b51543d6c11) |
 | Fri, 06 Jun 2025 14:36:38 GMT | Navigating AI Threats with Enterprise Browser: The Role of MCP and Security Guardrails | Mammoth Cyber | [Read More](https://medium.com/p/29bf7c0a6ea2) |
 | Fri, 06 Jun 2025 14:30:02 GMT | 86 Million AT&T Records for Sale on Dark Web | Ronit Yadav | [Read More](https://medium.com/p/2d96dc3e4d05) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 10:42:54 GMT | What’s Wrong with the Cybersecurity Vendor Landscape | Joe | [Read More](https://medium.com/p/91477559c5ba) |
 | Fri, 06 Jun 2025 10:41:54 GMT | Fake Bitdefender Site Spreads Password-Stealing Malware | SafetyDetectives Research Team | [Read More](https://medium.com/p/58a43d0cdacc) |
 | Fri, 06 Jun 2025 10:40:17 GMT | raydium.io Review - Revealing How To Recover Your Money | Lennox Murray | [Read More](https://medium.com/p/ccb6877e4a9b) |
-| Fri, 06 Jun 2025 10:39:09 GMT | IDOR + Stored XSS Bypass Leads to Account Takeover | Yahia Sherif | [Read More](https://medium.com/p/b92dca468b11) |
-| Fri, 06 Jun 2025 10:35:05 GMT | มารู้จัก OWASP Mobile Top 10 | Natpakun Vitayavanit | [Read More](https://medium.com/p/1182e1902000) |
-| Fri, 06 Jun 2025 10:34:27 GMT | Cyber Infra Armor Private Limited — Your Trusted Cybersecurity Partner️ | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/e012b84ecce4) |
-| Fri, 06 Jun 2025 10:31:25 GMT | Zero-Trust Architecture: A Paradigm Shift in Cybersecurity | Aditya Bhuyan | [Read More](https://medium.com/p/837f7c2ac731) |
-| Fri, 06 Jun 2025 10:31:03 GMT | When Dating Apps Become Kidnapping Tools | Karl Buhl | [Read More](https://medium.com/p/cef81a782cce) |
-| Fri, 06 Jun 2025 10:30:24 GMT | Something about Vulnerability | Sincerelymypov | [Read More](https://medium.com/p/15906abf56e2) |
-| Fri, 06 Jun 2025 10:30:17 GMT | I Let ChatGPT Hack Me — Here’s What Happened | Sarthak Agrawal | [Read More](https://medium.com/p/b581ccb2782b) |
-| Fri, 06 Jun 2025 10:30:15 GMT | Understanding ICS and SCADA in Cybersecurity : Industrial Systems You Need to Know | IndoHajk | [Read More](https://medium.com/p/384af28fbf0d) |
-| Fri, 06 Jun 2025 10:23:55 GMT | Precision Defense: Threat Intelligence-Enhanced Detection and Response | HONKONE | [Read More](https://medium.com/p/62e252bad8f7) |
-| Fri, 06 Jun 2025 10:22:48 GMT | How I Hacked a $7,790 IDOR Flaw in 48 hours | Ibtissam hammadi | [Read More](https://medium.com/p/6557ffcd33c9) |
-| Fri, 06 Jun 2025 10:19:10 GMT | Moonacy protocol Review 2025 - Is It Legit Or Not? | Mohammed Mackenzie | [Read More](https://medium.com/p/8294b5fc6eb6) |
-| Fri, 06 Jun 2025 10:17:56 GMT | How I Found Open Redirect in VDP using LLM | yee-yore | [Read More](https://medium.com/p/402d06360636) |
-| Fri, 06 Jun 2025 10:17:30 GMT | Broker — HTB Writeup | Timss | [Read More](https://medium.com/p/891133ccb20e) |
-| Fri, 06 Jun 2025 10:15:35 GMT | Here’s How I Recover My Money From My Moonacy protocol | Mohammed Mackenzie | [Read More](https://medium.com/p/41f0894770f1) |
-| Fri, 06 Jun 2025 10:13:27 GMT | DC-1: Vulnhub Walkthrough | Chikleet Arora | [Read More](https://medium.com/p/878c94996a18) |
-| Fri, 06 Jun 2025 10:12:53 GMT | Who benefits from the cloud security service the most? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/c3fd0bf2c6a1) |
-| Fri, 06 Jun 2025 10:12:04 GMT | The Token Delivery Dilemma: Body vs Cookie vs Header — Which Won’t Get You Hacked? | Aniket Agrawal | [Read More](https://medium.com/p/e187ed0e9a05) |
-| Fri, 06 Jun 2025 10:08:53 GMT | who can I run to? | Nadine | [Read More](https://medium.com/p/c4a8bd1382dc) |
-| Fri, 06 Jun 2025 10:08:14 GMT | Phala Network и PublicAI объединяются, чтобы обеспечить прозрачность и безопасность приватности… | Phala Network RU | [Read More](https://medium.com/p/021fb2a1dc29) |
-| Fri, 06 Jun 2025 10:07:22 GMT | What Is Cybersecurity and Why Is It Crucial for Your Business | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/7f29d4c2d8da) |
