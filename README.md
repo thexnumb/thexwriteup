@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 08:44:07 GMT | group community hacking in WhataApp! | ditt__ | [Read More](https://medium.com/p/38221b5320cf) |
+| Fri, 06 Jun 2025 08:41:13 GMT | The Armour of God and Cybersecurity: Why I Don’t Go Online (or Face Life) Without It | Ronnie Gayira | [Read More](https://medium.com/p/23737bfc0cc3) |
+| Fri, 06 Jun 2025 08:40:20 GMT | HTB Sherlocks — CrownJewel-1 | Fatimahasan | [Read More](https://medium.com/p/68b9d9c7c0bf) |
+| Fri, 06 Jun 2025 08:32:46 GMT | Track the Hacks: Introduction to File Forensic | byuda | [Read More](https://medium.com/p/c99263e96319) |
+| Fri, 06 Jun 2025 08:32:22 GMT | 5 SQL INJECTION – IN DEPTH: How I Earned a Bounty for a Full Database Dump | Anonysec Academy | [Read More](https://medium.com/p/a5c9305a6514) |
+| Fri, 06 Jun 2025 08:28:47 GMT | Part 2: Building a Near-Production-Ready Secure OPC UA System: From Development to Deployment | cakpolat | [Read More](https://medium.com/p/3fbec0e6a372) |
+| Fri, 06 Jun 2025 08:27:19 GMT | TryHackMe Agent Sudo Walkthrough: Mastering Linux Privilege Escalation with Sudo Rights | Amegh A | [Read More](https://medium.com/p/fe8456aeace0) |
+| Fri, 06 Jun 2025 08:25:44 GMT | 10 Best Cybersecurity Companies That You Can Trust in 2025 | SecureSlate | [Read More](https://medium.com/p/14ca327366d8) |
+| Fri, 06 Jun 2025 08:22:59 GMT | Hardening Linux pada Remote Tools SSH: Panduan Keamanan Lengkap | rootkiddo | [Read More](https://medium.com/p/b2dd43edb3bc) |
 | Fri, 06 Jun 2025 08:21:34 GMT | OSINT + WEB + CRYPTO + FORENSICS COMBINED WRITEUP FOR CYBER SIMBA INTRO CTF | i4m_x | [Read More](https://medium.com/p/9e89b665ebde) |
+| Fri, 06 Jun 2025 08:17:59 GMT | ⚔️ Advanced & Powerful Google Dorks for Ethical Hackers (2025) | Amegh A | [Read More](https://medium.com/p/d4d7c559273a) |
 | Fri, 06 Jun 2025 08:16:19 GMT | Why HTTPS Matters: Capturing Login Information with Tshark | Frost | [Read More](https://medium.com/p/12d7818a667d) |
 | Fri, 06 Jun 2025 08:13:03 GMT | Top 25 Google Dorks for OSINT & Ethical Hacking (Updated 2025) | Amegh A | [Read More](https://medium.com/p/2055886be138) |
 | Fri, 06 Jun 2025 08:09:09 GMT | The AI Arms Race: How Artificial Intelligence is Reshaping Cybersecurity Forever | Jaime | [Read More](https://medium.com/p/8a328c0932b9) |
@@ -103,13 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Fri, 06 Jun 2025 00:31:37 GMT | Living Off The Land: The Stealth Art of Red Team Operations | zerOiQ | [Read More](https://medium.com/p/1d65cf390792) |
 | Fri, 06 Jun 2025 00:21:11 GMT | Introducing Listwr.com | Listwr | [Read More](https://medium.com/p/420b65f6d444) |
 | Fri, 06 Jun 2025 00:11:35 GMT | Cyber Crime is Booming in Australia | Munish Mehta | [Read More](https://medium.com/p/79b25d6131ca) |
-| Thu, 05 Jun 2025 23:58:21 GMT | From NA to P3: Unlocking a Premium Feature | Mustafa Hatab | [Read More](https://medium.com/p/245936116acb) |
-| Thu, 05 Jun 2025 23:35:29 GMT | Credential Leak Intelligence - Elastic Leak Searcher | Onurcan Genç | [Read More](https://medium.com/p/e3572ca007cf) |
-| Thu, 05 Jun 2025 23:32:09 GMT | Software Supply Chain Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5b36bef22d79) |
-| Thu, 05 Jun 2025 23:23:50 GMT | Off the Grid: How Ghost Phones Keep Spies Ahead — and What You Can Learn to Protect Your Privacy | Robert Morton | [Read More](https://medium.com/p/5fdf4a4ac65d) |
-| Thu, 05 Jun 2025 23:10:30 GMT | Roadmap to eJPTv2 Success | Mr Horbio | [Read More](https://medium.com/p/dabf0fe9d62b) |
-| Thu, 05 Jun 2025 23:10:29 GMT | Google Dorking for Hackers: Secrets, Recon, and Digital Power | YooZy | [Read More](https://medium.com/p/06a537e1d6bb) |
-| Thu, 05 Jun 2025 23:01:33 GMT | My Log Source-Agnostic Methodology to Understanding Big Data | Ryan G. Cox | [Read More](https://medium.com/p/3d02e68f0202) |
-| Thu, 05 Jun 2025 23:01:21 GMT | Metasploit: Exploitation - THM | Isiah | [Read More](https://medium.com/p/4380d31472ec) |
-| Thu, 05 Jun 2025 22:47:46 GMT | What Cybersecurity Can Learn from Flat Earth Thinking | Cheryl Abram | [Read More](https://medium.com/p/35914498a31c) |
-| Thu, 05 Jun 2025 22:47:35 GMT | How I Built Sentinel Copilot: Making Security Logs Make Sense | Teshera Kimbrough | [Read More](https://medium.com/p/1395912691c8) |
