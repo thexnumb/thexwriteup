@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 03:52:39 GMT | The Importance of Cybersecurity and Today’s Most Critical Cyber Threats | Professor Lucius | [Read More](https://medium.com/p/e4997e8e2f8a) |
+| Fri, 06 Jun 2025 03:49:12 GMT | ICS and SCADA Explanation and Attacks | Farrel Aditya | [Read More](https://medium.com/p/abc7c75bac88) |
+| Fri, 06 Jun 2025 03:45:56 GMT | How to Avoid Fines from Sales Call Breaches (ACL + GDPR) | Komplya | [Read More](https://medium.com/p/200a1fe72574) |
+| Fri, 06 Jun 2025 03:43:06 GMT | Who Inherits Your TikTok? Planning for Your Offline Afterlife | Tina Ginn | [Read More](https://medium.com/p/bffb310c3f5b) |
+| Fri, 06 Jun 2025 03:34:16 GMT | For Some Foolish Reason… | reina | [Read More](https://medium.com/p/ebb91dc37375) |
+| Fri, 06 Jun 2025 03:32:12 GMT | When Hackers Get Hacked: The Everest Leak Site Breach | Deven Chhajed | [Read More](https://medium.com/p/3577d80b1bff) |
+| Fri, 06 Jun 2025 03:27:08 GMT | OT Security for CNI Leaders: Safeguarding Infrastructure in a Hyperconnected World | WayneReidUK | [Read More](https://medium.com/p/700b813bcf94) |
+| Fri, 06 Jun 2025 03:17:29 GMT | So, what else is there to do? | reina | [Read More](https://medium.com/p/75c8d3123a56) |
+| Fri, 06 Jun 2025 03:16:50 GMT | Certified SOC Analyst: Your Gateway to Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/ddf7afb4a9bb) |
 | Fri, 06 Jun 2025 02:52:54 GMT | I Didn’t Mean to Say It in the Staff Meeting, But I Did | Dan Foster | [Read More](https://medium.com/p/d5e89a619be1) |
 | Fri, 06 Jun 2025 02:46:06 GMT | Cheers to 24 | Sincerely, Teneyah T. | [Read More](https://medium.com/p/e1bb906623bb) |
 | Fri, 06 Jun 2025 02:43:55 GMT | Digital IDs: Your Freedom, Barcoded and Sold | DoDoStorm | [Read More](https://medium.com/p/06cf13da1f37) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 16:53:51 GMT | Ghost Code: The Weird Malware That Broke a Small Business’s Systems in 2025 | Noel | [Read More](https://medium.com/p/67fd9284af4d) |
 | Thu, 05 Jun 2025 16:53:43 GMT | Small Business. Big Hack. The Untold Story of a 2025 Cybersecurity Nightmare | Noel | [Read More](https://medium.com/p/2d2f982cd8ae) |
 | Thu, 05 Jun 2025 16:53:34 GMT | How I found a bug in the US Department of Defense (DoD) | RivuDon | [Read More](https://medium.com/p/39e2be157d70) |
-| Thu, 05 Jun 2025 16:53:22 GMT | How a Single Default Password Humiliated Slovakia’s National Security Authority | Roman Huliak | [Read More](https://medium.com/p/49216ea87ee0) |
-| Thu, 05 Jun 2025 16:53:10 GMT | How Hackers Used a Meditation App to Hijack Our Startup | Noel | [Read More](https://medium.com/p/1dfc54827507) |
-| Thu, 05 Jun 2025 16:52:47 GMT | The Microwave That Hacked a Marketing Firm: Inside 2025’s Most Surreal Cyberattack | Noel | [Read More](https://medium.com/p/c6f5fcce2363) |
-| Thu, 05 Jun 2025 16:51:28 GMT | Day 54: Bash Scripting Loops - for, while, until – With Counters, Lists | Agarwaldaksh | [Read More](https://medium.com/p/b63c45371e0f) |
-| Thu, 05 Jun 2025 16:47:38 GMT | Log analysis: A strategic guide to cyberdefense. | Pavandeep Kaur | [Read More](https://medium.com/p/e77ad3084c28) |
-| Thu, 05 Jun 2025 16:46:02 GMT | TryHackMe — Smag Grotto: Adım-adım İzah (Beginner Friendly) | Yaqubnasibov | [Read More](https://medium.com/p/c6e05f3ad7a6) |
-| Thu, 05 Jun 2025 16:44:28 GMT | Root ME @~~ TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/9f47e0443ead) |
-| Thu, 05 Jun 2025 16:39:21 GMT | Xeggex Review 2025 | Kelvin mark | [Read More](https://medium.com/p/483a1ff84b0e) |
-| Thu, 05 Jun 2025 16:38:31 GMT | Memahami ICS/SCADA (Industrial Control Systems)/ (Supervisory Control and Data Acquisition) | rdtyy | [Read More](https://medium.com/p/e9fc4664c218) |
