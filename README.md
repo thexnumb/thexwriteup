@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 22:18:08 GMT | Bypassing Web Application Firewalls: Techniques That Still Work | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4514d999c1fb) |
+| Fri, 06 Jun 2025 21:57:43 GMT | The Complete Travel Banking Guide 2025: Cards, Apps & Security | Travel4Fun4U | [Read More](https://medium.com/p/222d6731e8f9) |
+| Fri, 06 Jun 2025 21:57:24 GMT | Auslagerungsmanagement 2025: Der strategische Leitfaden für resiliente Compliance und operative… | Philip Hansen | [Read More](https://medium.com/p/c22df428b271) |
+| Fri, 06 Jun 2025 21:57:02 GMT | Business Continuity & Resilience Roadmap 2025: Der ultimative Leitfaden für krisenresistente… | Philip Hansen | [Read More](https://medium.com/p/001faa85036c) |
+| Fri, 06 Jun 2025 21:56:49 GMT | Roadmap zum Erfolg: Standard-Software-Implementierung meistern [Kostenloses Implementation-Kit] | Philip Hansen | [Read More](https://medium.com/p/be8771c9ea70) |
 | Fri, 06 Jun 2025 21:38:37 GMT | Tired of missing important moments on your security cameras? | Visual Monitoring Solutions | [Read More](https://medium.com/p/20bf7dba2183) |
 | Fri, 06 Jun 2025 21:16:38 GMT | Why “Authenticity” Now Feels Like a Costume | Cat Milton | [Read More](https://medium.com/p/916543b97858) |
 | Fri, 06 Jun 2025 21:15:55 GMT | Déploiement d’un SOC complet (Wazuh-TheHive-Cortex-Misp-Shuffle)sur un environnement local à… | ahmed fathallah | [Read More](https://medium.com/p/f240a45d8279) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 15:02:19 GMT | Installation of Kali Linux on Virtual Box | Very Lazy Tech | [Read More](https://medium.com/p/42c3a7043056) |
 | Fri, 06 Jun 2025 15:02:16 GMT | Land Grabbers Are Real. Here’s How to Protect Your Property | Cinalis | [Read More](https://medium.com/p/a38711f6d5a8) |
 | Fri, 06 Jun 2025 15:02:16 GMT | The Role of Tiering in Data Backup and Disaster Recovery in Phoenix | Blue Fox Group | [Read More](https://medium.com/p/59737961eea1) |
-| Fri, 06 Jun 2025 15:01:37 GMT | MrPhish in Termux: A Simple Guide for Beginners | Kambetastephano | [Read More](https://medium.com/p/4e4c78aa6640) |
-| Fri, 06 Jun 2025 14:56:32 GMT | Web Requests | Maleesha Rathnayaka | [Read More](https://medium.com/p/92c8e2f25940) |
-| Fri, 06 Jun 2025 14:56:11 GMT | The DSPM Paradox: Control Tools for an Uncontrollable Data Landscape | Hamid Akhtar | [Read More](https://medium.com/p/0a1f499c2756) |
-| Fri, 06 Jun 2025 14:54:35 GMT | WhatsApp's Silent Privacy Crisis: The Hidden Glitches Undermining User Trust | Marav | [Read More](https://medium.com/p/3ec18beba17f) |
-| Fri, 06 Jun 2025 14:50:23 GMT | ️ Python Security Best Practices — Locking Down Dependencies with safety | Priyanshu Rajput | [Read More](https://medium.com/p/3eba0cdd131f) |
