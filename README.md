@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 09:10:56 GMT | Strengthen Your Security Posture with ISO 27001 Risk Assessment by Axipro | Axipro | [Read More](https://medium.com/p/f4fe1b88c349) |
+| Fri, 06 Jun 2025 09:02:16 GMT | The GRC Career Path | Harry West | [Read More](https://medium.com/p/7e41738ac176) |
+| Fri, 06 Jun 2025 08:57:58 GMT | How We Discovered a Stored HTML Injection in a Chatbot System ️ | Het Patel | [Read More](https://medium.com/p/6cbefe8b0718) |
+| Fri, 06 Jun 2025 08:45:18 GMT | Spring Cloud 2022.0.11 Just Patched 2 Major CVEs — Why Isn’t Anyone Talking About This? | DevTrendsDaily | [Read More](https://medium.com/p/38c752a51d8d) |
 | Fri, 06 Jun 2025 08:44:07 GMT | group community hacking in WhataApp! | ditt__ | [Read More](https://medium.com/p/38221b5320cf) |
 | Fri, 06 Jun 2025 08:41:13 GMT | The Armour of God and Cybersecurity: Why I Don’t Go Online (or Face Life) Without It | Ronnie Gayira | [Read More](https://medium.com/p/23737bfc0cc3) |
 | Fri, 06 Jun 2025 08:40:20 GMT | HTB Sherlocks — CrownJewel-1 | Fatimahasan | [Read More](https://medium.com/p/68b9d9c7c0bf) |
@@ -109,7 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Fri, 06 Jun 2025 01:29:44 GMT | Defending iPhones Against Pulse-Based Attacks: A Cybersecurity Guide | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/c522ceb34877) |
 | Fri, 06 Jun 2025 01:17:29 GMT | Vibe-coding’s evil twin? | ArchBeat | [Read More](https://medium.com/p/d5af40a7f968) |
 | Fri, 06 Jun 2025 00:49:24 GMT | He Said He Related — And Everything Changed | SuccessBlueprints.Org | [Read More](https://medium.com/p/eaf0cf9a1524) |
-| Fri, 06 Jun 2025 00:35:19 GMT | Don’t Click That Link! | Munish Mehta | [Read More](https://medium.com/p/189a08a5f07b) |
-| Fri, 06 Jun 2025 00:31:37 GMT | Living Off The Land: The Stealth Art of Red Team Operations | zerOiQ | [Read More](https://medium.com/p/1d65cf390792) |
-| Fri, 06 Jun 2025 00:21:11 GMT | Introducing Listwr.com | Listwr | [Read More](https://medium.com/p/420b65f6d444) |
-| Fri, 06 Jun 2025 00:11:35 GMT | Cyber Crime is Booming in Australia | Munish Mehta | [Read More](https://medium.com/p/79b25d6131ca) |
