@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 19:30:07 GMT | Inside the Mind of the Enemy: What Drives Cyber Threat Actors and Why Proactive Defense Is… | Jair Abrego Cubilla | [Read More](https://medium.com/p/01ced0d34099) |
+| Fri, 06 Jun 2025 19:24:59 GMT | Applying OT safety culture to build a resilient CTI culture | Ian Lane | [Read More](https://medium.com/p/702006734d99) |
+| Fri, 06 Jun 2025 19:24:44 GMT | Defeating AV/EDRs: Advanced Evasion Techniques | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d389fb21478d) |
+| Fri, 06 Jun 2025 19:15:44 GMT | Simple Hardening SSH di Debian 12 | Ris | [Read More](https://medium.com/p/e6891b220194) |
 | Fri, 06 Jun 2025 19:13:54 GMT | Russia’s Escalating Digital Iron Curtain: New Data Laws and Their Geopolitical Fallout | CCD-IS | [Read More](https://medium.com/p/b7869f6a40db) |
+| Fri, 06 Jun 2025 19:12:42 GMT | Welcome to the very first edition of homelaby! | homelaby | [Read More](https://medium.com/p/44339759b30f) |
 | Fri, 06 Jun 2025 19:03:22 GMT | Is Using Public Wi-Fi Safe? | Savvy Cyber Kids | [Read More](https://medium.com/p/73c7b59451e0) |
 | Fri, 06 Jun 2025 19:03:03 GMT | Sextortion & Teens: Why This Topic Should Be On Every Parent’s Radar Now & Forever | Savvy Cyber Kids | [Read More](https://medium.com/p/22c8f171176c) |
 | Fri, 06 Jun 2025 19:02:53 GMT | Why should you use a password manager? | alphaBEE | [Read More](https://medium.com/p/90dea15d633c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 13:49:55 GMT | The $4.88 Million Wake-Up Call: What Every Founder and CISO Must Know | Ronit Yadav | [Read More](https://medium.com/p/9ed0a4e2f484) |
 | Fri, 06 Jun 2025 13:49:52 GMT | How Modern Penetration Testing Tools Are Evolving to Tackle API and Cloud Threats | Sam Bishop | [Read More](https://medium.com/p/f42eb6f37a01) |
 | Fri, 06 Jun 2025 13:45:53 GMT | What Is ICS/SCADA, Type Of Attack, Historical Attack, And How To Prevent | jankoviche | [Read More](https://medium.com/p/e1eb3cee91e8) |
-| Fri, 06 Jun 2025 13:44:48 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 9… | DhiasCode | [Read More](https://medium.com/p/404c45dffaf9) |
-| Fri, 06 Jun 2025 13:35:33 GMT | Pentesting AI-Powered Applications: Risks Beyond the UI | Ashwini Puranik | [Read More](https://medium.com/p/62559da8ca18) |
-| Fri, 06 Jun 2025 13:32:09 GMT | Décryptage des 10 principales menaces en Cybersécurité | nullbyte | [Read More](https://medium.com/p/6aaed160861b) |
-| Fri, 06 Jun 2025 13:29:32 GMT | Lofi — Tryhackme -By la | L4V4NY4  AGR3 | [Read More](https://medium.com/p/a5b9aa05e020) |
-| Fri, 06 Jun 2025 13:25:34 GMT | How We Discovered a Stored HTML Injection in a Chatbot System ️ | Shah kaif | [Read More](https://medium.com/p/131da1a86c47) |
