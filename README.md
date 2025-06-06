@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 14:18:29 GMT | Pengertian ICS dan SCADA | Ahmadfaizabdillah | [Read More](https://medium.com/p/b70b88ae5bea) |
+| Fri, 06 Jun 2025 14:11:08 GMT | The Ultimate Conversational AI | Darshika Dangwal | [Read More](https://medium.com/p/a674e8bec3a5) |
+| Fri, 06 Jun 2025 14:10:02 GMT | SAST vs DAST vs IAST: Choosing the Right Security Testing Tool in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/42c6ef05c4c3) |
+| Fri, 06 Jun 2025 14:04:55 GMT | Getting to Know the BSD Family: OpenBSD’s Role in Cybersecurity | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/764ad1e26100) |
+| Fri, 06 Jun 2025 14:00:26 GMT | Cyber Briefing: 2025.06.06 | CyberMaterial | [Read More](https://medium.com/p/8e002a4ca8aa) |
+| Fri, 06 Jun 2025 13:55:26 GMT | Brooklyn Nine-Nine - TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/3d7a08c2151d) |
+| Fri, 06 Jun 2025 13:55:11 GMT | Metasploit 101: Senjata Rahasia Ethical Hacker | LunarX | [Read More](https://medium.com/p/2b446c090b38) |
+| Fri, 06 Jun 2025 13:53:19 GMT | Ironcorp | Tom | [Read More](https://medium.com/p/c1406556792c) |
+| Fri, 06 Jun 2025 13:49:55 GMT | The $4.88 Million Wake-Up Call: What Every Founder and CISO Must Know | Ronit Yadav | [Read More](https://medium.com/p/9ed0a4e2f484) |
+| Fri, 06 Jun 2025 13:49:52 GMT | How Modern Penetration Testing Tools Are Evolving to Tackle API and Cloud Threats | Sam Bishop | [Read More](https://medium.com/p/f42eb6f37a01) |
+| Fri, 06 Jun 2025 13:45:53 GMT | What Is ICS/SCADA, Type Of Attack, Historical Attack, And How To Prevent | jankoviche | [Read More](https://medium.com/p/e1eb3cee91e8) |
+| Fri, 06 Jun 2025 13:44:48 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 9… | DhiasCode | [Read More](https://medium.com/p/404c45dffaf9) |
+| Fri, 06 Jun 2025 13:35:33 GMT | Pentesting AI-Powered Applications: Risks Beyond the UI | Ashwini Puranik | [Read More](https://medium.com/p/62559da8ca18) |
+| Fri, 06 Jun 2025 13:32:09 GMT | Décryptage des 10 principales menaces en Cybersécurité | nullbyte | [Read More](https://medium.com/p/6aaed160861b) |
 | Fri, 06 Jun 2025 13:29:32 GMT | Lofi — Tryhackme -By la | L4V4NY4  AGR3 | [Read More](https://medium.com/p/a5b9aa05e020) |
 | Fri, 06 Jun 2025 13:25:34 GMT | How We Discovered a Stored HTML Injection in a Chatbot System ️ | Shah kaif | [Read More](https://medium.com/p/131da1a86c47) |
 | Fri, 06 Jun 2025 13:22:20 GMT | 1. Recon & Enumeration Prompts | Narendar Battula (nArEn) | [Read More](https://medium.com/p/108d285e39aa) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 09:31:41 GMT | Crypto Event Attendees: Are You Putting Your Assets at Risk? | CoinGen | [Read More](https://medium.com/p/5b264b967495) |
 | Fri, 06 Jun 2025 09:30:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ab8d3467668d) |
 | Fri, 06 Jun 2025 09:25:23 GMT | Pengenalan Sederhana Tentang ICS/SCADA | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/14867f510da7) |
-| Fri, 06 Jun 2025 09:20:23 GMT | Can I Do an Ethical Hacking Course After 10th? | The Drop Organization | [Read More](https://medium.com/p/1c78a9cae286) |
-| Fri, 06 Jun 2025 09:19:58 GMT | Hardening Pada Linux Mint 22.1 XFCE | nikyfadyla | [Read More](https://medium.com/p/58303b52d650) |
-| Fri, 06 Jun 2025 09:17:39 GMT | Power Pages — Site Health Checkup with Security Scan | Mustaque Ehiya | [Read More](https://medium.com/p/494383935fa5) |
-| Fri, 06 Jun 2025 09:12:55 GMT | Building a proactive incident response plan with AI tools | Cloud4C Services | [Read More](https://medium.com/p/34eccd4f32c1) |
-| Fri, 06 Jun 2025 09:10:56 GMT | Strengthen Your Security Posture with ISO 27001 Risk Assessment by Axipro | Axipro | [Read More](https://medium.com/p/f4fe1b88c349) |
-| Fri, 06 Jun 2025 09:02:16 GMT | The GRC Career Path | Harry West | [Read More](https://medium.com/p/7e41738ac176) |
-| Fri, 06 Jun 2025 08:57:58 GMT | How We Discovered a Stored HTML Injection in a Chatbot System ️ | Het Patel | [Read More](https://medium.com/p/6cbefe8b0718) |
-| Fri, 06 Jun 2025 08:54:46 GMT | GPS blackout: perché siamo più fragili di quanto pensiamo | Alberto Valis | [Read More](https://medium.com/p/36903b174ba0) |
-| Fri, 06 Jun 2025 08:45:18 GMT | Spring Cloud 2022.0.11 Just Patched 2 Major CVEs — Why Isn’t Anyone Talking About This? | DevTrendsDaily | [Read More](https://medium.com/p/38c752a51d8d) |
-| Fri, 06 Jun 2025 08:44:07 GMT | group community hacking in WhataApp! | ditt__ | [Read More](https://medium.com/p/38221b5320cf) |
-| Fri, 06 Jun 2025 08:41:13 GMT | The Armour of God and Cybersecurity: Why I Don’t Go Online (or Face Life) Without It | Ronnie Gayira | [Read More](https://medium.com/p/23737bfc0cc3) |
-| Fri, 06 Jun 2025 08:40:20 GMT | HTB Sherlocks — CrownJewel-1 | Fatimahasan | [Read More](https://medium.com/p/68b9d9c7c0bf) |
-| Fri, 06 Jun 2025 08:32:46 GMT | Track the Hacks: Introduction to File Forensic | byuda | [Read More](https://medium.com/p/c99263e96319) |
-| Fri, 06 Jun 2025 08:32:22 GMT | 5 SQL INJECTION – IN DEPTH: How I Earned a Bounty for a Full Database Dump | Anonysec Academy | [Read More](https://medium.com/p/a5c9305a6514) |
