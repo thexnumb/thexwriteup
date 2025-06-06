@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 23:04:00 GMT | HTB’s “Administrator” Machine Walkthrough | ma40ou | [Read More](https://medium.com/p/f2151bd1c43a) |
+| Fri, 06 Jun 2025 22:52:02 GMT | A New Risk: Thought Time Bombs | Wrangler | [Read More](https://medium.com/p/4c121f056b94) |
+| Fri, 06 Jun 2025 22:48:32 GMT | Okay, But Are You Allowed? | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/6bdfc195eacf) |
+| Fri, 06 Jun 2025 22:35:07 GMT | The AI Agent That Almost Became a Corporate Spy | Nwosu Rosemary | [Read More](https://medium.com/p/a41a7ea21c3e) |
+| Fri, 06 Jun 2025 22:33:37 GMT | Mastering Suricata: A Practical Guide to Inline IPS Deployment | ierdnA | [Read More](https://medium.com/p/95d3e57f36f0) |
 | Fri, 06 Jun 2025 22:25:25 GMT | The Rise of AI in Lending: How Renown Lending is Shaping the Future of Finance | Kalpi Prasad - Renown Lending | [Read More](https://medium.com/p/334ee3ceafc6) |
 | Fri, 06 Jun 2025 22:18:08 GMT | Bypassing Web Application Firewalls: Techniques That Still Work | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4514d999c1fb) |
 | Fri, 06 Jun 2025 21:57:43 GMT | The Complete Travel Banking Guide 2025: Cards, Apps & Security | Travel4Fun4U | [Read More](https://medium.com/p/222d6731e8f9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 15:09:14 GMT | Auth0 vs OAuth2 — What’s the Difference? Pros & Cons Explained with Use Cases | Radhika Parashar | [Read More](https://medium.com/p/865fa4b4bdef) |
 | Fri, 06 Jun 2025 15:08:03 GMT | The Silent Security Crisis: Why Your Edge AI Systems Are Walking Targets | Andrei Ivan | [Read More](https://medium.com/p/6eda36ca2af9) |
 | Fri, 06 Jun 2025 15:06:24 GMT | Tutorial: Mythic Apollo with BallisKit MacroPack and ShellcodePack | Emeric | [Read More](https://medium.com/p/7129b2550765) |
-| Fri, 06 Jun 2025 15:04:33 GMT | The Days I Didn’t Want to Be Here And the Quiet Fight to Stay | Nelly | [Read More](https://medium.com/p/25f7cb3fb5fb) |
-| Fri, 06 Jun 2025 15:03:23 GMT | OAuth vs OAuth2 — What’s the Difference? [With a Real-World Example] | Radhika Parashar | [Read More](https://medium.com/p/1fced0baa032) |
-| Fri, 06 Jun 2025 15:03:00 GMT | I am a pentester and currently employed, but I was spying on my ex-company. | Cybr | [Read More](https://medium.com/p/c429e6305ea3) |
-| Fri, 06 Jun 2025 15:02:19 GMT | Installation of Kali Linux on Virtual Box | Very Lazy Tech | [Read More](https://medium.com/p/42c3a7043056) |
-| Fri, 06 Jun 2025 15:02:16 GMT | Land Grabbers Are Real. Here’s How to Protect Your Property | Cinalis | [Read More](https://medium.com/p/a38711f6d5a8) |
