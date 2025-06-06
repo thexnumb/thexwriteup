@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 09:33:31 GMT | Gridinsoft.com Review — A Dangerous Scam Disguised as Antivirus Software | Balint Robert | [Read More](https://medium.com/p/d37134b73b0e) |
+| Fri, 06 Jun 2025 09:31:41 GMT | Crypto Event Attendees: Are You Putting Your Assets at Risk? | CoinGen | [Read More](https://medium.com/p/5b264b967495) |
+| Fri, 06 Jun 2025 09:30:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ab8d3467668d) |
+| Fri, 06 Jun 2025 09:25:23 GMT | Pengenalan Sederhana Tentang ICS/SCADA | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/14867f510da7) |
+| Fri, 06 Jun 2025 09:20:23 GMT | Can I Do an Ethical Hacking Course After 10th? | The Drop Organization | [Read More](https://medium.com/p/1c78a9cae286) |
+| Fri, 06 Jun 2025 09:19:58 GMT | Hardening Pada Linux Mint 22.1 XFCE | nikyfadyla | [Read More](https://medium.com/p/58303b52d650) |
+| Fri, 06 Jun 2025 09:17:39 GMT | Power Pages — Site Health Checkup with Security Scan | Mustaque Ehiya | [Read More](https://medium.com/p/494383935fa5) |
+| Fri, 06 Jun 2025 09:12:55 GMT | Building a proactive incident response plan with AI tools | Cloud4C Services | [Read More](https://medium.com/p/34eccd4f32c1) |
 | Fri, 06 Jun 2025 09:10:56 GMT | Strengthen Your Security Posture with ISO 27001 Risk Assessment by Axipro | Axipro | [Read More](https://medium.com/p/f4fe1b88c349) |
 | Fri, 06 Jun 2025 09:02:16 GMT | The GRC Career Path | Harry West | [Read More](https://medium.com/p/7e41738ac176) |
 | Fri, 06 Jun 2025 08:57:58 GMT | How We Discovered a Stored HTML Injection in a Chatbot System ️ | Het Patel | [Read More](https://medium.com/p/6cbefe8b0718) |
+| Fri, 06 Jun 2025 08:54:46 GMT | GPS blackout: perché siamo più fragili di quanto pensiamo | Alberto Valis | [Read More](https://medium.com/p/36903b174ba0) |
 | Fri, 06 Jun 2025 08:45:18 GMT | Spring Cloud 2022.0.11 Just Patched 2 Major CVEs — Why Isn’t Anyone Talking About This? | DevTrendsDaily | [Read More](https://medium.com/p/38c752a51d8d) |
 | Fri, 06 Jun 2025 08:44:07 GMT | group community hacking in WhataApp! | ditt__ | [Read More](https://medium.com/p/38221b5320cf) |
 | Fri, 06 Jun 2025 08:41:13 GMT | The Armour of God and Cybersecurity: Why I Don’t Go Online (or Face Life) Without It | Ronnie Gayira | [Read More](https://medium.com/p/23737bfc0cc3) |
@@ -104,12 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Fri, 06 Jun 2025 02:36:25 GMT | How LLM-as-a-Judge Compounds Improvements to Threat Intelligence | Michael Rico | [Read More](https://medium.com/p/37b080dd41f3) |
 | Fri, 06 Jun 2025 02:35:15 GMT | Understanding the Technology That Powers Modern Life | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/42b925f562d0) |
 | Fri, 06 Jun 2025 02:27:04 GMT | What Happens When a Glucose Monitor Gets Hacked? A Blueprint for Securing Mobile Medical Devices | Biswajeet Poddar | [Read More](https://medium.com/p/4299a6dbec63) |
-| Fri, 06 Jun 2025 02:15:10 GMT | The GRC Delusion: Why “Non-Technical” Governance is a Risk in Itself | Dinesh Dino | [Read More](https://medium.com/p/e5f89f016787) |
-| Fri, 06 Jun 2025 02:09:21 GMT | Google Issues Critical New Threat Advisory Take Action Now | Nauman khan | [Read More](https://medium.com/p/3a10ef5ce90c) |
-| Fri, 06 Jun 2025 02:02:25 GMT | Oxford Quantum Circuits Unveils Bold Roadmap to 50,000 Logical Qubits by 2034 | QuantumGenie | [Read More](https://medium.com/p/71f13d7dfc20) |
-| Fri, 06 Jun 2025 02:01:40 GMT | Mengenal ICS/SCADA | Mohamad Axel A. | [Read More](https://medium.com/p/6e2546e280b2) |
-| Fri, 06 Jun 2025 01:48:52 GMT | Thinking about PG Resourced Box PE - Writeup-half, Walkthrough-half | David | [Read More](https://medium.com/p/3d9c05d6a5eb) |
-| Fri, 06 Jun 2025 01:35:42 GMT | BEC Persistence and Data Exfiltration Techniques | Kijo Ninja | [Read More](https://medium.com/p/67e5926812a0) |
-| Fri, 06 Jun 2025 01:29:44 GMT | Defending iPhones Against Pulse-Based Attacks: A Cybersecurity Guide | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/c522ceb34877) |
-| Fri, 06 Jun 2025 01:17:29 GMT | Vibe-coding’s evil twin? | ArchBeat | [Read More](https://medium.com/p/d5af40a7f968) |
-| Fri, 06 Jun 2025 00:49:24 GMT | He Said He Related — And Everything Changed | SuccessBlueprints.Org | [Read More](https://medium.com/p/eaf0cf9a1524) |
