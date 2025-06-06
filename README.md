@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 23:32:21 GMT | Data Governance with Snowflake and GenAI | Abhishek Kumar Gupta | [Read More](https://medium.com/p/070157b93ad4) |
+| Fri, 06 Jun 2025 23:30:01 GMT | Quantifying Cyber Financial Impact: Step-by-Step Guide with Triangular Distribution | Mehdi | [Read More](https://medium.com/p/5204a23f7dc1) |
+| Fri, 06 Jun 2025 23:28:27 GMT | Beyond the Breach: A Legal Expert’s Guide to Surviving Cyber Threats in the AI Era | Frank Gullo | [Read More](https://medium.com/p/9f12ed72c52b) |
 | Fri, 06 Jun 2025 23:04:00 GMT | HTB’s “Administrator” Machine Walkthrough | ma40ou | [Read More](https://medium.com/p/f2151bd1c43a) |
 | Fri, 06 Jun 2025 22:52:02 GMT | A New Risk: Thought Time Bombs | Wrangler | [Read More](https://medium.com/p/4c121f056b94) |
 | Fri, 06 Jun 2025 22:48:32 GMT | Okay, But Are You Allowed? | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/6bdfc195eacf) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 15:21:41 GMT | Organizational Development: The System to Build Systems | Don Gunter | [Read More](https://medium.com/p/139d86853b81) |
 | Fri, 06 Jun 2025 15:18:03 GMT | Unfinished Conversations. | Derog Atori | [Read More](https://medium.com/p/2bc4b6aae11a) |
 | Fri, 06 Jun 2025 15:12:24 GMT | Kioptrix Level 3 (VulnHub) Walkthrough | ma40ou | [Read More](https://medium.com/p/0f44327f61fc) |
-| Fri, 06 Jun 2025 15:09:14 GMT | Auth0 vs OAuth2 — What’s the Difference? Pros & Cons Explained with Use Cases | Radhika Parashar | [Read More](https://medium.com/p/865fa4b4bdef) |
-| Fri, 06 Jun 2025 15:08:03 GMT | The Silent Security Crisis: Why Your Edge AI Systems Are Walking Targets | Andrei Ivan | [Read More](https://medium.com/p/6eda36ca2af9) |
-| Fri, 06 Jun 2025 15:06:24 GMT | Tutorial: Mythic Apollo with BallisKit MacroPack and ShellcodePack | Emeric | [Read More](https://medium.com/p/7129b2550765) |
