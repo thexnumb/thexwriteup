@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 01:35:42 GMT | BEC Persistence and Data Exfiltration Techniques | Kijo Ninja | [Read More](https://medium.com/p/67e5926812a0) |
+| Fri, 06 Jun 2025 01:29:44 GMT | Defending iPhones Against Pulse-Based Attacks: A Cybersecurity Guide | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/c522ceb34877) |
+| Fri, 06 Jun 2025 01:17:29 GMT | Vibe-coding’s evil twin? | ArchBeat | [Read More](https://medium.com/p/d5af40a7f968) |
+| Fri, 06 Jun 2025 00:49:24 GMT | He Said He Related — And Everything Changed | SuccessBlueprints.Org | [Read More](https://medium.com/p/eaf0cf9a1524) |
+| Fri, 06 Jun 2025 00:35:19 GMT | Don’t Click That Link! | Munish Mehta | [Read More](https://medium.com/p/189a08a5f07b) |
+| Fri, 06 Jun 2025 00:31:37 GMT | Living Off The Land: The Stealth Art of Red Team Operations | zerOiQ | [Read More](https://medium.com/p/1d65cf390792) |
+| Fri, 06 Jun 2025 00:21:11 GMT | Introducing Listwr.com | Listwr | [Read More](https://medium.com/p/420b65f6d444) |
+| Fri, 06 Jun 2025 00:11:35 GMT | Cyber Crime is Booming in Australia | Munish Mehta | [Read More](https://medium.com/p/79b25d6131ca) |
+| Thu, 05 Jun 2025 23:58:21 GMT | From NA to P3: Unlocking a Premium Feature | Mustafa Hatab | [Read More](https://medium.com/p/245936116acb) |
 | Thu, 05 Jun 2025 23:35:29 GMT | Credential Leak Intelligence - Elastic Leak Searcher | Onurcan Genç | [Read More](https://medium.com/p/e3572ca007cf) |
 | Thu, 05 Jun 2025 23:32:09 GMT | Software Supply Chain Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5b36bef22d79) |
 | Thu, 05 Jun 2025 23:23:50 GMT | Off the Grid: How Ghost Phones Keep Spies Ahead — and What You Can Learn to Protect Your Privacy | Robert Morton | [Read More](https://medium.com/p/5fdf4a4ac65d) |
@@ -104,12 +113,3 @@ Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](htt
 | Thu, 05 Jun 2025 15:42:30 GMT | 30 Days of Cyber Security — Day 10: Basic Security Hardening on Kali Linux — Mengamankan “Senjata”… | Indra Rahmat Maulidi | [Read More](https://medium.com/p/5dcc74572104) |
 | Thu, 05 Jun 2025 15:42:19 GMT | SCP vs Rsync: Which Linux File Transfer Tool Should You Use? | Ashish Singh | [Read More](https://medium.com/p/6cf845d63f11) |
 | Thu, 05 Jun 2025 15:40:20 GMT | Her Eyes | Simrah Jahan | [Read More](https://medium.com/p/d86fc8fe7147) |
-| Thu, 05 Jun 2025 15:40:05 GMT | The Ultimate SQL Injection Guide | Roshan Ajith | [Read More](https://medium.com/p/5543864a7c60) |
-| Thu, 05 Jun 2025 15:36:49 GMT | From Dithering to Decisive: How the NDA Crushed the Naxal Threat Where UPA Faltered | Kritant Mishra | [Read More](https://medium.com/p/18b35356be3c) |
-| Thu, 05 Jun 2025 15:28:30 GMT | Track the Hacks: Tracing Malicious Intent in Everyday Browsing — Real Case Computer Forensic | byuda | [Read More](https://medium.com/p/18a7236fd9b7) |
-| Thu, 05 Jun 2025 15:24:10 GMT | From Zero to Hero: Mengukir Jalan Gemilang di Dunia Cybersecurity yang Dinamis — Part 8… | DhiasCode | [Read More](https://medium.com/p/79a9e57d453d) |
-| Thu, 05 Jun 2025 15:22:31 GMT | “It Looked Like the Admin Said It” , The Quiet Power of Quote Spoofing Bugs | Aser0xx | [Read More](https://medium.com/p/d51b14cb40ab) |
-| Thu, 05 Jun 2025 15:22:31 GMT | AM I AN ACHILLES HEEL? | Ananya Reetha Noble | [Read More](https://medium.com/p/cb5a4b5c335c) |
-| Thu, 05 Jun 2025 15:21:49 GMT | Hardening Linux dari Nol: Mulai dari File Permission & User Management | Honeylemondrink | [Read More](https://medium.com/p/6745f196afea) |
-| Thu, 05 Jun 2025 15:19:07 GMT | TryHackMe - Windows Memory & User Activity - WriteUp | Axoloth | [Read More](https://medium.com/p/9a009850af8c) |
-| Thu, 05 Jun 2025 15:16:20 GMT | AI & Your Digital Footprint: How to Use LLMs Safely in 2025 | Lydiah Muigwa | [Read More](https://medium.com/p/fd19e34f5b74) |
