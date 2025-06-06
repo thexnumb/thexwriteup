@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 19:13:54 GMT | Russia’s Escalating Digital Iron Curtain: New Data Laws and Their Geopolitical Fallout | CCD-IS | [Read More](https://medium.com/p/b7869f6a40db) |
+| Fri, 06 Jun 2025 19:03:22 GMT | Is Using Public Wi-Fi Safe? | Savvy Cyber Kids | [Read More](https://medium.com/p/73c7b59451e0) |
+| Fri, 06 Jun 2025 19:03:03 GMT | Sextortion & Teens: Why This Topic Should Be On Every Parent’s Radar Now & Forever | Savvy Cyber Kids | [Read More](https://medium.com/p/22c8f171176c) |
+| Fri, 06 Jun 2025 19:02:53 GMT | Why should you use a password manager? | alphaBEE | [Read More](https://medium.com/p/90dea15d633c) |
+| Fri, 06 Jun 2025 19:02:44 GMT | Netflix Docuseries “Web of Lies: Death by SWAT” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/3db679e6f535) |
+| Fri, 06 Jun 2025 19:02:14 GMT | The Not-So-Secret Secrets of 2025: Are Your Passwords This Predictable? | Cyber Kavy | [Read More](https://medium.com/p/e33e072630e5) |
+| Fri, 06 Jun 2025 18:58:06 GMT | When Cyber Attacks Hit Your Bottom Line: Why Resilience Is Your New Competitive Edge | david cahn | [Read More](https://medium.com/p/e7026d8b2f54) |
+| Fri, 06 Jun 2025 18:46:44 GMT | The unlit eye and the broken wall | Net User File | [Read More](https://medium.com/p/e13d4fe11082) |
+| Fri, 06 Jun 2025 18:43:34 GMT | GIAC Security Essentials Certification Update — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/993803221b8f) |
 | Fri, 06 Jun 2025 18:43:23 GMT | The AI Wave: How to Stay Ahead of the Curve | Praveen Xavier | [Read More](https://medium.com/p/633706357b56) |
 | Fri, 06 Jun 2025 18:40:04 GMT | The Psychology Behind High-Converting Content | Zorawar Ali Khan | [Read More](https://medium.com/p/7054bed4de8d) |
 | Fri, 06 Jun 2025 18:33:13 GMT | Earned $100 in 2 Minutes — Finding an Open Redirect Vulnerability | Buvaneshvaran K | [Read More](https://medium.com/p/1d8a67da4eac) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 13:32:09 GMT | Décryptage des 10 principales menaces en Cybersécurité | nullbyte | [Read More](https://medium.com/p/6aaed160861b) |
 | Fri, 06 Jun 2025 13:29:32 GMT | Lofi — Tryhackme -By la | L4V4NY4  AGR3 | [Read More](https://medium.com/p/a5b9aa05e020) |
 | Fri, 06 Jun 2025 13:25:34 GMT | How We Discovered a Stored HTML Injection in a Chatbot System ️ | Shah kaif | [Read More](https://medium.com/p/131da1a86c47) |
-| Fri, 06 Jun 2025 13:22:20 GMT | 1. Recon & Enumeration Prompts | Narendar Battula (nArEn) | [Read More](https://medium.com/p/108d285e39aa) |
-| Fri, 06 Jun 2025 13:19:25 GMT | Wi-Fi Hacking 101 — TryHackMe Walkthroughs | MANISH KUMAR | [Read More](https://medium.com/p/e468ef25959f) |
-| Fri, 06 Jun 2025 13:15:44 GMT | UNPACKING A DECADE OF DIGITAL WARFARE: GLOBAL CYBER ATTACK TRENDS (2015–2024) | Ashibeshi Cosmas | [Read More](https://medium.com/p/c4657a06e386) |
-| Fri, 06 Jun 2025 13:15:29 GMT | Satellite-Integrated Blockchain for Supply Chain Traceability | A-STAR7_DOCTOR | [Read More](https://medium.com/p/95ac960e43a6) |
-| Fri, 06 Jun 2025 13:14:32 GMT | SOC166 — Javascript Code Detected in Requested URL - Lets Defend | Sohan Kanna D | [Read More](https://medium.com/p/c50c64c9a4c9) |
-| Fri, 06 Jun 2025 13:14:30 GMT | OSINT on Companies & Organizations — A Complete Guide for Reconnaissance | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e22321ed36cb) |
-| Fri, 06 Jun 2025 13:12:34 GMT | Prompt 1: Generate Recon Workflow | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d0e2bbdccd0b) |
-| Fri, 06 Jun 2025 13:09:23 GMT | The Ethics of Hacking: Is Hacking Always a Crime? | Association of Computing Students (ACS) | [Read More](https://medium.com/p/8655649f0d88) |
-| Fri, 06 Jun 2025 13:04:43 GMT | How to Install Metasploit on Termux (Simple and Safe Guide) | Kambetastephano | [Read More](https://medium.com/p/d0229abc2798) |
