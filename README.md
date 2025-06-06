@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 14:38:36 GMT | Bug Bounty-Forget Coding (For Now): The 3 Essential Skills to Find Your First Bug | Vivek PS | [Read More](https://medium.com/p/2b51543d6c11) |
+| Fri, 06 Jun 2025 14:36:38 GMT | Navigating AI Threats with Enterprise Browser: The Role of MCP and Security Guardrails | Mammoth Cyber | [Read More](https://medium.com/p/29bf7c0a6ea2) |
+| Fri, 06 Jun 2025 14:30:02 GMT | 86 Million AT&T Records for Sale on Dark Web | Ronit Yadav | [Read More](https://medium.com/p/2d96dc3e4d05) |
+| Fri, 06 Jun 2025 14:25:12 GMT | Understanding ICS/SCADA: The Invisible Backbone of Our World and Its Vulnerabilities | Bumi Arya Dirangga | [Read More](https://medium.com/p/2424baa14317) |
+| Fri, 06 Jun 2025 14:23:27 GMT | VulnOSv2 Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/90be034e10a3) |
+| Fri, 06 Jun 2025 14:20:28 GMT | Bad Git Security Practices: Bandit30 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/e80da049e2fb) |
 | Fri, 06 Jun 2025 14:18:29 GMT | Pengertian ICS dan SCADA | Ahmadfaizabdillah | [Read More](https://medium.com/p/b70b88ae5bea) |
+| Fri, 06 Jun 2025 14:18:20 GMT | Airport Security Robotics | Presslink Media | [Read More](https://medium.com/p/05fb655d9d6a) |
+| Fri, 06 Jun 2025 14:16:31 GMT | How to Secure Your Spring Boot APIs with Keycloak  — Access Tokens, Login, Logout & Real-World… | Himanshu | [Read More](https://medium.com/p/82223508b508) |
+| Fri, 06 Jun 2025 14:14:47 GMT | ️ 7 Langkah Hardening SSH di Linux | Adi Ramadhani | [Read More](https://medium.com/p/78dbe603d2cf) |
 | Fri, 06 Jun 2025 14:11:08 GMT | The Ultimate Conversational AI | Darshika Dangwal | [Read More](https://medium.com/p/a674e8bec3a5) |
 | Fri, 06 Jun 2025 14:10:02 GMT | SAST vs DAST vs IAST: Choosing the Right Security Testing Tool in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/42c6ef05c4c3) |
+| Fri, 06 Jun 2025 14:09:52 GMT | Pengertian ICS dan SCADA dalam Cybersecurity | Richardgreynardi | [Read More](https://medium.com/p/d37c5a762562) |
 | Fri, 06 Jun 2025 14:04:55 GMT | Getting to Know the BSD Family: OpenBSD’s Role in Cybersecurity | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/764ad1e26100) |
 | Fri, 06 Jun 2025 14:00:26 GMT | Cyber Briefing: 2025.06.06 | CyberMaterial | [Read More](https://medium.com/p/8e002a4ca8aa) |
 | Fri, 06 Jun 2025 13:55:26 GMT | Brooklyn Nine-Nine - TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/3d7a08c2151d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 10:08:53 GMT | who can I run to? | Nadine | [Read More](https://medium.com/p/c4a8bd1382dc) |
 | Fri, 06 Jun 2025 10:08:14 GMT | Phala Network и PublicAI объединяются, чтобы обеспечить прозрачность и безопасность приватности… | Phala Network RU | [Read More](https://medium.com/p/021fb2a1dc29) |
 | Fri, 06 Jun 2025 10:07:22 GMT | What Is Cybersecurity and Why Is It Crucial for Your Business | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/7f29d4c2d8da) |
-| Fri, 06 Jun 2025 10:04:14 GMT | Fortify Your PHP Apps with ModSecurity on Apache | Roman Huliak | [Read More](https://medium.com/p/df63d330d274) |
-| Fri, 06 Jun 2025 10:04:03 GMT | Why Cyber Insurance Is No Longer Optional: A Specialist’s Perspective | Varsha Nair | [Read More](https://medium.com/p/6744b43c9382) |
-| Fri, 06 Jun 2025 10:01:09 GMT | Effortless File Sharing on Linux: A Practical Guide to NFS with Hands on Lab. | Rupesh Sharma | [Read More](https://medium.com/p/073752e10373) |
-| Fri, 06 Jun 2025 09:58:22 GMT | Building My First Python Pentest Tools — One Step Closer to OSCP | Laura Trafford | [Read More](https://medium.com/p/2085819fda9c) |
-| Fri, 06 Jun 2025 09:53:47 GMT | Summer Internship in Penetration Testing Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/3ae887178fa5) |
-| Fri, 06 Jun 2025 09:37:22 GMT | An essential element of organizational Cyber Defense | 0trust0day | [Read More](https://medium.com/p/7d336e523c8b) |
-| Fri, 06 Jun 2025 09:33:31 GMT | Gridinsoft.com Review — A Dangerous Scam Disguised as Antivirus Software | Balint Robert | [Read More](https://medium.com/p/d37134b73b0e) |
-| Fri, 06 Jun 2025 09:31:41 GMT | Crypto Event Attendees: Are You Putting Your Assets at Risk? | CoinGen | [Read More](https://medium.com/p/5b264b967495) |
-| Fri, 06 Jun 2025 09:30:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ab8d3467668d) |
-| Fri, 06 Jun 2025 09:25:23 GMT | Pengenalan Sederhana Tentang ICS/SCADA | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/14867f510da7) |
