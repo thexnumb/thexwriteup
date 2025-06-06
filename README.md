@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 20:31:43 GMT | The Complexity of Cybersecurity Frameworks is a Threat to Cybersecurity Resilience and Compliance… | Armandoseay | [Read More](https://medium.com/p/8a7072a18f92) |
+| Fri, 06 Jun 2025 20:31:23 GMT | THM — Disgruntled Writeup (Linux Forensics) | Shamar Isaac | [Read More](https://medium.com/p/774169b6d068) |
+| Fri, 06 Jun 2025 20:30:20 GMT | How I Found My First Real Bug — and It Got Accepted! | Youssef El-Sibai | [Read More](https://medium.com/p/a13e15b86a3d) |
+| Fri, 06 Jun 2025 20:30:17 GMT | Hacking the Storm: A Pen Tester’s Take on June 6, 2025’s Cybersecurity Frenzy | Pentestjunkie07 | [Read More](https://medium.com/p/b24544149dc0) |
 | Fri, 06 Jun 2025 20:23:28 GMT | Digital Battle Lines: A Pen Tester’s Take on June 6, 2025’s Cybersecurity Turmoil | Inforsecpro | [Read More](https://medium.com/p/6566405de4ce) |
+| Fri, 06 Jun 2025 20:22:14 GMT | From RXSS to ATO: Bypassing WAF with a Simple POST Trick | Muntadhar M. Ahmed | [Read More](https://medium.com/p/1abbe945c952) |
+| Fri, 06 Jun 2025 20:19:42 GMT | The Crime Lab — Cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/110fd625145c) |
+| Fri, 06 Jun 2025 20:18:24 GMT | ClickFix Attack: An In-Depth Analysis of Its Mechanisms, Impacts, and Mitigation Strategies | Simon Augustine | [Read More](https://medium.com/p/a2d8a6acbbfd) |
+| Fri, 06 Jun 2025 20:16:39 GMT | Don’t Scan Random QR Codes | StillHere | [Read More](https://medium.com/p/3c07796b1115) |
 | Fri, 06 Jun 2025 20:13:25 GMT | Cyber Siege Unveiled: A Pen Tester’s Deep Dive into June 6, 2025’s Digital Chaos | hackerguy | [Read More](https://medium.com/p/58943b62dd49) |
 | Fri, 06 Jun 2025 19:58:28 GMT | CTF Day(10) | Ahmed Narmer | [Read More](https://medium.com/p/9203d4e6a9c6) |
 | Fri, 06 Jun 2025 19:57:01 GMT | Wireshark Beginner’s Guide (Comprehensive) | Analyst Atlas | [Read More](https://medium.com/p/1d96ec99613d) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 14:20:28 GMT | Bad Git Security Practices: Bandit30 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/e80da049e2fb) |
 | Fri, 06 Jun 2025 14:18:29 GMT | Pengertian ICS dan SCADA | Ahmadfaizabdillah | [Read More](https://medium.com/p/b70b88ae5bea) |
 | Fri, 06 Jun 2025 14:18:20 GMT | Airport Security Robotics | Presslink Media | [Read More](https://medium.com/p/05fb655d9d6a) |
-| Fri, 06 Jun 2025 14:16:31 GMT | How to Secure Your Spring Boot APIs with Keycloak  — Access Tokens, Login, Logout & Real-World… | Himanshu | [Read More](https://medium.com/p/82223508b508) |
-| Fri, 06 Jun 2025 14:14:47 GMT | ️ 7 Langkah Hardening SSH di Linux | Adi Ramadhani | [Read More](https://medium.com/p/78dbe603d2cf) |
-| Fri, 06 Jun 2025 14:11:08 GMT | The Ultimate Conversational AI | Darshika Dangwal | [Read More](https://medium.com/p/a674e8bec3a5) |
-| Fri, 06 Jun 2025 14:10:02 GMT | SAST vs DAST vs IAST: Choosing the Right Security Testing Tool in 2025 | Rizqi Mulki | [Read More](https://medium.com/p/42c6ef05c4c3) |
-| Fri, 06 Jun 2025 14:09:52 GMT | Pengertian ICS dan SCADA dalam Cybersecurity | Richardgreynardi | [Read More](https://medium.com/p/d37c5a762562) |
-| Fri, 06 Jun 2025 14:04:55 GMT | Getting to Know the BSD Family: OpenBSD’s Role in Cybersecurity | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/764ad1e26100) |
-| Fri, 06 Jun 2025 14:00:26 GMT | Cyber Briefing: 2025.06.06 | CyberMaterial | [Read More](https://medium.com/p/8e002a4ca8aa) |
-| Fri, 06 Jun 2025 13:55:26 GMT | Brooklyn Nine-Nine - TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/3d7a08c2151d) |
