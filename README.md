@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 11:36:25 GMT | Free Social Media Intelligence(SOCMINT) Tools | loyalonlytoday | [Read More](https://medium.com/p/5c695ed644ec) |
+| Fri, 06 Jun 2025 11:35:28 GMT | Inside Ethical Hacking: What I Learned About the Good Side of Hackers | Ekansh | [Read More](https://medium.com/p/49de6d9992be) |
+| Fri, 06 Jun 2025 11:30:35 GMT | Güvenlik Tehditleri Modellemesi: Yazılım Ekipleri İçin Pratik Rehber | Alper Konuralp | [Read More](https://medium.com/p/9d591c6c351c) |
+| Fri, 06 Jun 2025 11:29:15 GMT | How to Use Hydra in Termux for Password Cracking: Full Guide | Kambetastephano | [Read More](https://medium.com/p/f74d0b87f9f7) |
+| Fri, 06 Jun 2025 11:28:37 GMT | What No One Tells You About Starting a Cybersecurity Career and What Actually Matters? | rohitpathak | [Read More](https://medium.com/p/d56d379954a7) |
+| Fri, 06 Jun 2025 11:27:59 GMT | TechMetronix — The Best IT Consultant in Gurgaon for Digital Transformation | Tech Matronix | [Read More](https://medium.com/p/d15c3e978d27) |
+| Fri, 06 Jun 2025 11:25:46 GMT | Explore the Latest Technology Courses in Australia — Upskill for a Digital Future | AIST | [Read More](https://medium.com/p/e13985c96549) |
+| Fri, 06 Jun 2025 11:22:18 GMT | How I Explain Cybersecurity Without Sounding Boring – Firewall | Ronit Yadav | [Read More](https://medium.com/p/e7920547b3fc) |
+| Fri, 06 Jun 2025 11:12:15 GMT | IDOR Flaw Leads to Unauthorized Project Deletions and UI Confusion | Sle3pyHead ‍ | [Read More](https://medium.com/p/b41b87415d73) |
+| Fri, 06 Jun 2025 11:10:38 GMT | Here’s How I Recover My Money From Merrill Lynch | James marcles | [Read More](https://medium.com/p/3eb56f1632bd) |
 | Fri, 06 Jun 2025 11:04:06 GMT | Race Condition Rumble: How I Bought 100 Products for the Price of One ️️ | Iski | [Read More](https://medium.com/p/fb73f8477249) |
 | Fri, 06 Jun 2025 11:03:48 GMT | CTF — Reverse Engineering using Ghidra and GDB | Reeti Agarwal | [Read More](https://medium.com/p/eb9b1c682264) |
 | Fri, 06 Jun 2025 11:00:58 GMT | The Best Reconciliation Software for Banks and Businesses to Thrive in 2025 | Kosh AI | [Read More](https://medium.com/p/37811f9e1b47) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 06:25:01 GMT | How Neo Banks Empower Startups & How ITIO Innovex Helps You Launch One | Harshvardhan Singh | [Read More](https://medium.com/p/9197dee1033a) |
 | Fri, 06 Jun 2025 06:24:06 GMT | Understanding Cyber Security: A Comprehensive Overview for the Digital Age | certifiedethicalhacker | [Read More](https://medium.com/p/e5425a6de575) |
 | Fri, 06 Jun 2025 06:19:50 GMT | How a Tiny Click Nearly Took Down Our System | Tanish  Dewase! | [Read More](https://medium.com/p/bcd666eb57ae) |
-| Fri, 06 Jun 2025 06:16:36 GMT | Securing Your AKS Cluster with Gatekeeper (Open Policy Agent) | Sridhar | [Read More](https://medium.com/p/2b2c23893ea9) |
-| Fri, 06 Jun 2025 06:07:57 GMT | Is That Reward Really Yours? Uncovering Illicit Point Redemptions | Ruthie Owen-Moreno | [Read More](https://medium.com/p/e417930e4e21) |
-| Fri, 06 Jun 2025 06:05:50 GMT | How Platform Engineering Is Changing Software Development | Redblox.io | [Read More](https://medium.com/p/7b7504c8d627) |
-| Fri, 06 Jun 2025 06:00:50 GMT | Today’s Top Cyber Intelligence Highlights — Jun 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/bdad8493f3d5) |
-| Fri, 06 Jun 2025 05:57:35 GMT | BUG- First AI Powered, Voice Control, Ethical Hacking Device | Top DIY Electronics | [Read More](https://medium.com/p/817132a71f41) |
-| Fri, 06 Jun 2025 05:52:00 GMT | Ethical Hacking & Legal Considerations for Interns | Internshipgate | [Read More](https://medium.com/p/73b64a67e46d) |
-| Fri, 06 Jun 2025 05:51:15 GMT | Solution Of Lab: Unprotected admin functionality | SourceFul Space | [Read More](https://medium.com/p/0807ffba7c4a) |
-| Fri, 06 Jun 2025 05:48:33 GMT | Financial Sector Cybersecurity Threats & Internship Scope | Internshipgate | [Read More](https://medium.com/p/41909b0d352e) |
-| Fri, 06 Jun 2025 05:47:15 GMT | Navigating the Top Regulatory Frameworks for Indian FinTechs | COMPASS | [Read More](https://medium.com/p/8af547d89a82) |
-| Fri, 06 Jun 2025 05:46:07 GMT | 10 Practical API Hacking Tips That Will Save You Time | Pranieth Chandrasekara | [Read More](https://medium.com/p/838ab59a9179) |
