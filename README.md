@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 16:24:12 GMT | This Is How You Should Secure Your Spring Cloud Applications After the CVE-2025–41235 Patch | DevTrendsDaily | [Read More](https://medium.com/p/0b6ddd1a2e9b) |
+| Fri, 06 Jun 2025 16:21:52 GMT | How I recover my money from Henxminer | Gina | [Read More](https://medium.com/p/6351ef57d2b0) |
+| Fri, 06 Jun 2025 16:14:25 GMT | Technicity Chronicle: 10 Essential Cybersecurity Tips For 2025 | Faisal Khan | [Read More](https://medium.com/p/2ec73dcc994c) |
+| Fri, 06 Jun 2025 16:05:16 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/be3c84d22dc2) |
+| Fri, 06 Jun 2025 16:04:37 GMT | Machine Identity Attacks: The $15K Vulnerability Class Nobody’s Testing | Andrei Ivan | [Read More](https://medium.com/p/25653be0df28) |
+| Fri, 06 Jun 2025 16:04:28 GMT | Hack the Box — Archetype | Anthony M. Bahn | [Read More](https://medium.com/p/cc77c15954f1) |
+| Fri, 06 Jun 2025 16:02:11 GMT | Demystifying API Authentication — Part1 | Leela Kumili | [Read More](https://medium.com/p/8ba791ff45aa) |
+| Fri, 06 Jun 2025 16:02:09 GMT | From Educator to CyberDev: My Journey into Cybersecurity (How I'd Do It in 2025) | Devore McIntosh | [Read More](https://medium.com/p/ed2ecac29105) |
+| Fri, 06 Jun 2025 15:51:27 GMT | Teardrop DDoS Attack Guide: Mitigate & Navigate | SafeAeon Inc. | [Read More](https://medium.com/p/cd9e21276be6) |
+| Fri, 06 Jun 2025 15:47:27 GMT | Lespion Lab — CyberDefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/9cc06a4e437b) |
+| Fri, 06 Jun 2025 15:47:21 GMT | ️‍♂️ GitHub Dorking for Bug Bounty: Hackers' Hidden Playground | 127.0.0.1 | [Read More](https://medium.com/p/b21732fcc00d) |
+| Fri, 06 Jun 2025 15:45:55 GMT | MYSQL SECURITY HARDENING GUIDE | Defri Wanda | [Read More](https://medium.com/p/dcf811adeaa1) |
+| Fri, 06 Jun 2025 15:42:02 GMT | PwnOS 1: A Complete Black-Box Pentest Walkthrough | ma40ou | [Read More](https://medium.com/p/65fc39d20487) |
 | Fri, 06 Jun 2025 15:37:06 GMT | Bash Secrets I Learned From 10 Years of Production Hell | Heinancabouly | [Read More](https://medium.com/p/93fe1dbff12a) |
 | Fri, 06 Jun 2025 15:35:41 GMT | 30 Days of Cyber Security — Day 11: Perintah Dasar Linux & Tools di Kali Linux | Indra Rahmat Maulidi | [Read More](https://medium.com/p/c020581c804b) |
 | Fri, 06 Jun 2025 15:32:43 GMT | Why 89% of Bug Bounty Hunters Fail at API Security Testing (And the GraphQL Enumeration Technique… | Andrei Ivan | [Read More](https://medium.com/p/d5688e04439d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 11:44:33 GMT | How a Sophisticated Scam Stole $10K from My Friend — And How You Can Avoid It | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/a0c1843f3fac) |
 | Fri, 06 Jun 2025 11:36:25 GMT | Free Social Media Intelligence(SOCMINT) Tools | loyalonlytoday | [Read More](https://medium.com/p/5c695ed644ec) |
 | Fri, 06 Jun 2025 11:35:28 GMT | Inside Ethical Hacking: What I Learned About the Good Side of Hackers | Ekansh | [Read More](https://medium.com/p/49de6d9992be) |
-| Fri, 06 Jun 2025 11:30:35 GMT | Güvenlik Tehditleri Modellemesi: Yazılım Ekipleri İçin Pratik Rehber | Alper Konuralp | [Read More](https://medium.com/p/9d591c6c351c) |
-| Fri, 06 Jun 2025 11:29:15 GMT | How to Use Hydra in Termux for Password Cracking: Full Guide | Kambetastephano | [Read More](https://medium.com/p/f74d0b87f9f7) |
-| Fri, 06 Jun 2025 11:28:37 GMT | What No One Tells You About Starting a Cybersecurity Career and What Actually Matters? | rohitpathak | [Read More](https://medium.com/p/d56d379954a7) |
-| Fri, 06 Jun 2025 11:27:59 GMT | TechMetronix — The Best IT Consultant in Gurgaon for Digital Transformation | Tech Matronix | [Read More](https://medium.com/p/d15c3e978d27) |
-| Fri, 06 Jun 2025 11:25:46 GMT | Explore the Latest Technology Courses in Australia — Upskill for a Digital Future | AIST | [Read More](https://medium.com/p/e13985c96549) |
-| Fri, 06 Jun 2025 11:22:18 GMT | How I Explain Cybersecurity Without Sounding Boring – Firewall | Ronit Yadav | [Read More](https://medium.com/p/e7920547b3fc) |
-| Fri, 06 Jun 2025 11:12:15 GMT | IDOR Flaw Leads to Unauthorized Project Deletions and UI Confusion | Sle3pyHead ‍ | [Read More](https://medium.com/p/b41b87415d73) |
-| Fri, 06 Jun 2025 11:10:38 GMT | Here’s How I Recover My Money From Merrill Lynch | James marcles | [Read More](https://medium.com/p/3eb56f1632bd) |
-| Fri, 06 Jun 2025 11:04:06 GMT | Race Condition Rumble: How I Bought 100 Products for the Price of One ️️ | Iski | [Read More](https://medium.com/p/fb73f8477249) |
-| Fri, 06 Jun 2025 11:03:48 GMT | CTF — Reverse Engineering using Ghidra and GDB | Reeti Agarwal | [Read More](https://medium.com/p/eb9b1c682264) |
-| Fri, 06 Jun 2025 11:00:58 GMT | The Best Reconciliation Software for Banks and Businesses to Thrive in 2025 | Kosh AI | [Read More](https://medium.com/p/37811f9e1b47) |
-| Fri, 06 Jun 2025 10:58:02 GMT | Zanzibar : Google Consistent, Scalable & Global Authorization System | Tusharkothari | [Read More](https://medium.com/p/2faf1a35b746) |
-| Fri, 06 Jun 2025 10:56:04 GMT | Times when Threat Actors Attack Industries through their Control Systems | Andika Pratama | [Read More](https://medium.com/p/a98972ad5c01) |
