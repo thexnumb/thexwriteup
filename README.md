@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 04:32:30 GMT | Hacking Tools Running Commands. | Rishav anand | [Read More](https://medium.com/p/7c2d249dbc18) |
+| Fri, 06 Jun 2025 04:06:34 GMT | A Guide to SMB Enumeration Using Metasploit and Smbclient | Iftikhar Zaidi | [Read More](https://medium.com/p/cb5f3dd0dcc9) |
 | Fri, 06 Jun 2025 03:52:39 GMT | The Importance of Cybersecurity and Today’s Most Critical Cyber Threats | Professor Lucius | [Read More](https://medium.com/p/e4997e8e2f8a) |
 | Fri, 06 Jun 2025 03:49:12 GMT | ICS and SCADA Explanation and Attacks | Farrel Aditya | [Read More](https://medium.com/p/abc7c75bac88) |
 | Fri, 06 Jun 2025 03:45:56 GMT | How to Avoid Fines from Sales Call Breaches (ACL + GDPR) | Komplya | [Read More](https://medium.com/p/200a1fe72574) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 17:03:50 GMT | Exploiting Golden Eye 1 HTB | Nextk | [Read More](https://medium.com/p/f992042fc057) |
 | Thu, 05 Jun 2025 17:01:28 GMT | If You Don’t Understand Quantum Yet, You’re About to Feel It | Rahul Mishra | [Read More](https://medium.com/p/831bba7df81c) |
 | Thu, 05 Jun 2025 16:53:51 GMT | Ghost Code: The Weird Malware That Broke a Small Business’s Systems in 2025 | Noel | [Read More](https://medium.com/p/67fd9284af4d) |
-| Thu, 05 Jun 2025 16:53:43 GMT | Small Business. Big Hack. The Untold Story of a 2025 Cybersecurity Nightmare | Noel | [Read More](https://medium.com/p/2d2f982cd8ae) |
-| Thu, 05 Jun 2025 16:53:34 GMT | How I found a bug in the US Department of Defense (DoD) | RivuDon | [Read More](https://medium.com/p/39e2be157d70) |
