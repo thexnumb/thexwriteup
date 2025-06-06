@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 21:38:37 GMT | Tired of missing important moments on your security cameras? | Visual Monitoring Solutions | [Read More](https://medium.com/p/20bf7dba2183) |
 | Fri, 06 Jun 2025 21:16:38 GMT | Why “Authenticity” Now Feels Like a Costume | Cat Milton | [Read More](https://medium.com/p/916543b97858) |
 | Fri, 06 Jun 2025 21:15:55 GMT | Déploiement d’un SOC complet (Wazuh-TheHive-Cortex-Misp-Shuffle)sur un environnement local à… | ahmed fathallah | [Read More](https://medium.com/p/f240a45d8279) |
 | Fri, 06 Jun 2025 21:13:54 GMT | ADCS Attack Series: Abusing ESC9 for Privilege Escalation via Weak Certificate Mapping | Nairuz Abulhul | [Read More](https://medium.com/p/d625aceb5942) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 14:56:11 GMT | The DSPM Paradox: Control Tools for an Uncontrollable Data Landscape | Hamid Akhtar | [Read More](https://medium.com/p/0a1f499c2756) |
 | Fri, 06 Jun 2025 14:54:35 GMT | WhatsApp's Silent Privacy Crisis: The Hidden Glitches Undermining User Trust | Marav | [Read More](https://medium.com/p/3ec18beba17f) |
 | Fri, 06 Jun 2025 14:50:23 GMT | ️ Python Security Best Practices — Locking Down Dependencies with safety | Priyanshu Rajput | [Read More](https://medium.com/p/3eba0cdd131f) |
-| Fri, 06 Jun 2025 14:49:01 GMT | FOREXPROVIDER: TARGETING DEVELOPERS AT WARP-VELOCITY IN THE FINANCIAL SECTOR | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/203f6547cd37) |
