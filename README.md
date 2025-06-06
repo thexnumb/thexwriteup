@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 10:39:09 GMT | IDOR + Stored XSS Bypass Leads to Account Takeover | Yahia Sherif | [Read More](https://medium.com/p/b92dca468b11) |
+| Fri, 06 Jun 2025 10:34:27 GMT | Cyber Infra Armor Private Limited — Your Trusted Cybersecurity Partner️ | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/e012b84ecce4) |
+| Fri, 06 Jun 2025 10:31:25 GMT | Zero-Trust Architecture: A Paradigm Shift in Cybersecurity | Aditya Bhuyan | [Read More](https://medium.com/p/837f7c2ac731) |
+| Fri, 06 Jun 2025 10:31:03 GMT | When Dating Apps Become Kidnapping Tools | Karl Buhl | [Read More](https://medium.com/p/cef81a782cce) |
+| Fri, 06 Jun 2025 10:30:24 GMT | Something about Vulnerability | Sincerelymypov | [Read More](https://medium.com/p/15906abf56e2) |
+| Fri, 06 Jun 2025 10:30:17 GMT | I Let ChatGPT Hack Me — Here’s What Happened | Sarthak Agrawal | [Read More](https://medium.com/p/b581ccb2782b) |
+| Fri, 06 Jun 2025 10:30:15 GMT | Understanding ICS and SCADA in Cybersecurity : Industrial Systems You Need to Know | IndoHajk | [Read More](https://medium.com/p/384af28fbf0d) |
+| Fri, 06 Jun 2025 10:23:55 GMT | Precision Defense: Threat Intelligence-Enhanced Detection and Response | HONKONE | [Read More](https://medium.com/p/62e252bad8f7) |
+| Fri, 06 Jun 2025 10:22:48 GMT | How I Hacked a $7,790 IDOR Flaw in 48 hours | Ibtissam hammadi | [Read More](https://medium.com/p/6557ffcd33c9) |
 | Fri, 06 Jun 2025 10:19:10 GMT | Moonacy protocol Review 2025 - Is It Legit Or Not? | Mohammed Mackenzie | [Read More](https://medium.com/p/8294b5fc6eb6) |
 | Fri, 06 Jun 2025 10:17:56 GMT | How I Found Open Redirect in VDP using LLM | yee-yore | [Read More](https://medium.com/p/402d06360636) |
 | Fri, 06 Jun 2025 10:17:30 GMT | Broker — HTB Writeup | Timss | [Read More](https://medium.com/p/891133ccb20e) |
@@ -104,12 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Fri, 06 Jun 2025 05:10:15 GMT | Part 3: How to Become a Pentester in 2025:Practical Practice: Labs & CTFs | Anezaneo | [Read More](https://medium.com/p/c218a22404d3) |
 | Fri, 06 Jun 2025 05:05:08 GMT | How Simple RECON Earned Me ₹XX,000 at Zerodha | Swarnim Bandekar | [Read More](https://medium.com/p/3172aea39c3e) |
 | Fri, 06 Jun 2025 05:03:16 GMT | SOC AUTOMATION — Part 4 | Satyam Pathania | [Read More](https://medium.com/p/47dfd7c311e5) |
-| Fri, 06 Jun 2025 05:02:42 GMT | A Step-by-Step Plan to Secure Web Backends with XAMPP (Part 1/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/6971d01467d2) |
-| Fri, 06 Jun 2025 05:01:51 GMT | OSED: SEH-Based Stack Overflow #2 | Ahmet Göker | [Read More](https://medium.com/p/7ca2f1763960) |
-| Fri, 06 Jun 2025 04:53:27 GMT | OSED: Buffer Overflow #1 | Ahmet Göker | [Read More](https://medium.com/p/42247a5af7e8) |
-| Fri, 06 Jun 2025 04:36:04 GMT | Your OTP Isn’t Safe | Munish Mehta | [Read More](https://medium.com/p/4b67f80485ec) |
-| Fri, 06 Jun 2025 04:32:30 GMT | Hacking Tools Running Commands. | Rishav anand | [Read More](https://medium.com/p/7c2d249dbc18) |
-| Fri, 06 Jun 2025 04:31:27 GMT | Taking Ownership of a Silverstripe Website: A Technical Audit Checklist | Sunny Side Up | [Read More](https://medium.com/p/21e2ae1c00d1) |
-| Fri, 06 Jun 2025 04:29:17 GMT | Python Automation Series — Day 3 | Pavan V | [Read More](https://medium.com/p/467855542cc8) |
-| Fri, 06 Jun 2025 04:06:34 GMT | A Guide to SMB Enumeration Using Metasploit and Smbclient | Iftikhar Zaidi | [Read More](https://medium.com/p/cb5f3dd0dcc9) |
-| Fri, 06 Jun 2025 03:52:39 GMT | The Importance of Cybersecurity and Today’s Most Critical Cyber Threats | Professor Lucius | [Read More](https://medium.com/p/e4997e8e2f8a) |
