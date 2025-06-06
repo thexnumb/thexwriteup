@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 13:29:32 GMT | Lofi — Tryhackme -By la | L4V4NY4  AGR3 | [Read More](https://medium.com/p/a5b9aa05e020) |
+| Fri, 06 Jun 2025 13:25:34 GMT | How We Discovered a Stored HTML Injection in a Chatbot System ️ | Shah kaif | [Read More](https://medium.com/p/131da1a86c47) |
+| Fri, 06 Jun 2025 13:22:20 GMT | 1. Recon & Enumeration Prompts | Narendar Battula (nArEn) | [Read More](https://medium.com/p/108d285e39aa) |
+| Fri, 06 Jun 2025 13:19:25 GMT | Wi-Fi Hacking 101 — TryHackMe Walkthroughs | MANISH KUMAR | [Read More](https://medium.com/p/e468ef25959f) |
+| Fri, 06 Jun 2025 13:15:44 GMT | UNPACKING A DECADE OF DIGITAL WARFARE: GLOBAL CYBER ATTACK TRENDS (2015–2024) | Ashibeshi Cosmas | [Read More](https://medium.com/p/c4657a06e386) |
+| Fri, 06 Jun 2025 13:15:29 GMT | Satellite-Integrated Blockchain for Supply Chain Traceability | A-STAR7_DOCTOR | [Read More](https://medium.com/p/95ac960e43a6) |
+| Fri, 06 Jun 2025 13:14:32 GMT | SOC166 — Javascript Code Detected in Requested URL - Lets Defend | Sohan Kanna D | [Read More](https://medium.com/p/c50c64c9a4c9) |
+| Fri, 06 Jun 2025 13:14:30 GMT | OSINT on Companies & Organizations — A Complete Guide for Reconnaissance | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e22321ed36cb) |
+| Fri, 06 Jun 2025 13:12:34 GMT | Prompt 1: Generate Recon Workflow | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d0e2bbdccd0b) |
+| Fri, 06 Jun 2025 13:09:23 GMT | The Ethics of Hacking: Is Hacking Always a Crime? | Association of Computing Students (ACS) | [Read More](https://medium.com/p/8655649f0d88) |
+| Fri, 06 Jun 2025 13:04:43 GMT | How to Install Metasploit on Termux (Simple and Safe Guide) | Kambetastephano | [Read More](https://medium.com/p/d0229abc2798) |
+| Fri, 06 Jun 2025 13:03:33 GMT | Healing Systems in Vulnerable Communities: Reflections on a Global Conversation | @Place Matters | [Read More](https://medium.com/p/3db8adba45f1) |
+| Fri, 06 Jun 2025 13:02:14 GMT | Automate Your Compliance Workflows with Peris.ai | Peris.ai Cybersecurity | [Read More](https://medium.com/p/a1fcb59d8851) |
+| Fri, 06 Jun 2025 12:56:26 GMT | Golang Security: Best Practices for Safe Applications | Brooksolivia | [Read More](https://medium.com/p/7bbb7fbd8f63) |
+| Fri, 06 Jun 2025 12:56:16 GMT | Day 02 — SOC Home Lab Setup: Install Splunk & Load Logs Using MITRE-Based Sysmon Rules for Threat… | Nesar Uddin | [Read More](https://medium.com/p/6abb8680458a) |
+| Fri, 06 Jun 2025 12:51:46 GMT | Tokemak - Sherlock Defi 06/2023 Audit - High Severity finding - Always be careful when adding… | lodelux | [Read More](https://medium.com/p/eb8b5f2b4f83) |
+| Fri, 06 Jun 2025 12:51:21 GMT | Greedy Algorithm in Python | fijrisalwa | [Read More](https://medium.com/p/411e25083fb8) |
+| Fri, 06 Jun 2025 12:42:59 GMT | Critical Bug Chaining: Upload Form ➜ CSRF ➜ Extension Bypass ➜ RCE | El Professor Qais | [Read More](https://medium.com/p/0b772a37cc64) |
+| Fri, 06 Jun 2025 12:37:34 GMT | WHY CYBERSECURITY OFTEN FAILS: THE HIDDEN BATTLE BETWEEN SECURITY AND USABILITY | Kryptic_Fhrank | [Read More](https://medium.com/p/b73d66e0c1aa) |
 | Fri, 06 Jun 2025 12:35:21 GMT | When Being a Man Means Breaking Down | Joeybags | [Read More](https://medium.com/p/38fad83fc840) |
 | Fri, 06 Jun 2025 12:32:01 GMT | Top 11 Highest Paying Cybersecurity Certifications in 2025 | Amelia Miller | [Read More](https://medium.com/p/d6337cd17ed4) |
 | Fri, 06 Jun 2025 12:29:40 GMT | The perk you’ve been sleeping on | Daily Drop | [Read More](https://medium.com/p/6c7a6eb142c6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 08:40:20 GMT | HTB Sherlocks — CrownJewel-1 | Fatimahasan | [Read More](https://medium.com/p/68b9d9c7c0bf) |
 | Fri, 06 Jun 2025 08:32:46 GMT | Track the Hacks: Introduction to File Forensic | byuda | [Read More](https://medium.com/p/c99263e96319) |
 | Fri, 06 Jun 2025 08:32:22 GMT | 5 SQL INJECTION – IN DEPTH: How I Earned a Bounty for a Full Database Dump | Anonysec Academy | [Read More](https://medium.com/p/a5c9305a6514) |
-| Fri, 06 Jun 2025 08:28:47 GMT | Part 2: Building a Near-Production-Ready Secure OPC UA System: From Development to Deployment | cakpolat | [Read More](https://medium.com/p/3fbec0e6a372) |
-| Fri, 06 Jun 2025 08:27:19 GMT | TryHackMe Agent Sudo Walkthrough: Mastering Linux Privilege Escalation with Sudo Rights | Amegh A | [Read More](https://medium.com/p/fe8456aeace0) |
-| Fri, 06 Jun 2025 08:25:44 GMT | 10 Best Cybersecurity Companies That You Can Trust in 2025 | SecureSlate | [Read More](https://medium.com/p/14ca327366d8) |
-| Fri, 06 Jun 2025 08:22:59 GMT | Hardening Linux pada Remote Tools SSH: Panduan Keamanan Lengkap | rootkiddo | [Read More](https://medium.com/p/b2dd43edb3bc) |
-| Fri, 06 Jun 2025 08:21:34 GMT | OSINT + WEB + CRYPTO + FORENSICS COMBINED WRITEUP FOR CYBER SIMBA INTRO CTF | i4m_x | [Read More](https://medium.com/p/9e89b665ebde) |
-| Fri, 06 Jun 2025 08:17:59 GMT | ⚔️ Advanced & Powerful Google Dorks for Ethical Hackers (2025) | Amegh A | [Read More](https://medium.com/p/d4d7c559273a) |
-| Fri, 06 Jun 2025 08:16:19 GMT | Why HTTPS Matters: Capturing Login Information with Tshark | Frost | [Read More](https://medium.com/p/12d7818a667d) |
-| Fri, 06 Jun 2025 08:13:03 GMT | Top 25 Google Dorks for OSINT & Ethical Hacking (Updated 2025) | Amegh A | [Read More](https://medium.com/p/2055886be138) |
-| Fri, 06 Jun 2025 08:09:09 GMT | The AI Arms Race: How Artificial Intelligence is Reshaping Cybersecurity Forever | Jaime | [Read More](https://medium.com/p/8a328c0932b9) |
-| Fri, 06 Jun 2025 08:08:23 GMT | Top 25 Google Dorks for OSINT & Ethical Hacking (Updated 2025) | Amegh Ayiratt | [Read More](https://medium.com/p/da2b1035e5f4) |
-| Fri, 06 Jun 2025 08:07:39 GMT | Top Cybersecurity Threats Brisbane SMEs Face in 2025 | Elevate | [Read More](https://medium.com/p/baee18eacfe3) |
-| Fri, 06 Jun 2025 08:06:06 GMT | Why Real-Time Detection at the User Level Is Now Table Stakes | Ronit Yadav | [Read More](https://medium.com/p/ff9fbab43cc2) |
-| Fri, 06 Jun 2025 08:03:45 GMT | Why I Spend 70% of My Time on Recon | Krypto | [Read More](https://medium.com/p/e8eee226aed3) |
-| Fri, 06 Jun 2025 08:02:57 GMT | ICS/SCADA: The Industrial Brainpower (and a Hacker Magnet!) | Galihabraa | [Read More](https://medium.com/p/73f5f77de816) |
-| Fri, 06 Jun 2025 08:02:09 GMT | The Senior Architect’s Guide to Zero-Trust Security in Cloud-Native Environments: Essential… | Mohamed ElEmam | [Read More](https://medium.com/p/a98cab585708) |
-| Fri, 06 Jun 2025 08:00:04 GMT | Why VAPT is Essential in Cybersecurity | Ankit Cloudiops | [Read More](https://medium.com/p/6289f06ea437) |
-| Fri, 06 Jun 2025 07:53:21 GMT | INE Security Junior Penetration Tester — eJPT | Babatunde Ojo | [Read More](https://medium.com/p/1da0b803dc35) |
-| Fri, 06 Jun 2025 07:46:16 GMT | Building Trust in AI Agents: What We Can Learn From SOAR’s Adoption Path | sqdrew | [Read More](https://medium.com/p/31a6d614556a) |
-| Fri, 06 Jun 2025 07:42:08 GMT | Hacking the Hierarchy: Why Developer-Managers Trump the Admin Army | Namir Sagheenanajar | [Read More](https://medium.com/p/e70d8ea9dba1) |
