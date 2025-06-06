@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 11:04:06 GMT | Race Condition Rumble: How I Bought 100 Products for the Price of One ️️ | Iski | [Read More](https://medium.com/p/fb73f8477249) |
+| Fri, 06 Jun 2025 11:03:48 GMT | CTF — Reverse Engineering using Ghidra and GDB | Reeti Agarwal | [Read More](https://medium.com/p/eb9b1c682264) |
+| Fri, 06 Jun 2025 11:00:58 GMT | The Best Reconciliation Software for Banks and Businesses to Thrive in 2025 | Kosh AI | [Read More](https://medium.com/p/37811f9e1b47) |
+| Fri, 06 Jun 2025 10:58:02 GMT | Zanzibar : Google Consistent, Scalable & Global Authorization System | Tusharkothari | [Read More](https://medium.com/p/2faf1a35b746) |
+| Fri, 06 Jun 2025 10:56:04 GMT | Times when Threat Actors Attack Industries through their Control Systems | Andika Pratama | [Read More](https://medium.com/p/a98972ad5c01) |
+| Fri, 06 Jun 2025 10:47:04 GMT | Alternative Mobiles — independent replacements for Android- and iOS-based smartphones | 0trust0day | [Read More](https://medium.com/p/38179714a7f4) |
+| Fri, 06 Jun 2025 10:46:15 GMT | How to deploy Amazon Inspector2 at scale using Terraform. | Thomas Pepper | [Read More](https://medium.com/p/829243c327a8) |
+| Fri, 06 Jun 2025 10:45:22 GMT | The Price of Free | Munish Mehta | [Read More](https://medium.com/p/53f71e77c74c) |
+| Fri, 06 Jun 2025 10:42:54 GMT | What’s Wrong with the Cybersecurity Vendor Landscape | Joe | [Read More](https://medium.com/p/91477559c5ba) |
+| Fri, 06 Jun 2025 10:41:54 GMT | Fake Bitdefender Site Spreads Password-Stealing Malware | SafetyDetectives Research Team | [Read More](https://medium.com/p/58a43d0cdacc) |
+| Fri, 06 Jun 2025 10:40:17 GMT | raydium.io Review - Revealing How To Recover Your Money | Lennox Murray | [Read More](https://medium.com/p/ccb6877e4a9b) |
 | Fri, 06 Jun 2025 10:39:09 GMT | IDOR + Stored XSS Bypass Leads to Account Takeover | Yahia Sherif | [Read More](https://medium.com/p/b92dca468b11) |
+| Fri, 06 Jun 2025 10:35:05 GMT | มารู้จัก OWASP Mobile Top 10 | Natpakun Vitayavanit | [Read More](https://medium.com/p/1182e1902000) |
 | Fri, 06 Jun 2025 10:34:27 GMT | Cyber Infra Armor Private Limited — Your Trusted Cybersecurity Partner️ | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/e012b84ecce4) |
 | Fri, 06 Jun 2025 10:31:25 GMT | Zero-Trust Architecture: A Paradigm Shift in Cybersecurity | Aditya Bhuyan | [Read More](https://medium.com/p/837f7c2ac731) |
 | Fri, 06 Jun 2025 10:31:03 GMT | When Dating Apps Become Kidnapping Tools | Karl Buhl | [Read More](https://medium.com/p/cef81a782cce) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 05:48:33 GMT | Financial Sector Cybersecurity Threats & Internship Scope | Internshipgate | [Read More](https://medium.com/p/41909b0d352e) |
 | Fri, 06 Jun 2025 05:47:15 GMT | Navigating the Top Regulatory Frameworks for Indian FinTechs | COMPASS | [Read More](https://medium.com/p/8af547d89a82) |
 | Fri, 06 Jun 2025 05:46:07 GMT | 10 Practical API Hacking Tips That Will Save You Time | Pranieth Chandrasekara | [Read More](https://medium.com/p/838ab59a9179) |
-| Fri, 06 Jun 2025 05:40:24 GMT | Are Smart Phones Listening to Us? | Kailash Dinesh | [Read More](https://medium.com/p/8209584434aa) |
-| Fri, 06 Jun 2025 05:37:19 GMT | From Cybersecurity Intern to Security Analyst: Career Path | Internshipgate | [Read More](https://medium.com/p/ea042b95f796) |
-| Fri, 06 Jun 2025 05:35:14 GMT | One Click Account takeover | Isha Sangpal | [Read More](https://medium.com/p/38db9005533c) |
-| Fri, 06 Jun 2025 05:34:02 GMT | Why Penetration Testing is Critical
-for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9a9bc6360093) |
-| Fri, 06 Jun 2025 05:30:37 GMT | Quantum Computing vs. AI: The Next Cybersecurity Arms Race | Phanish Lakkarasu | [Read More](https://medium.com/p/90b276d8190c) |
-| Fri, 06 Jun 2025 05:28:20 GMT | You Can Be Seen Without Performing | YOU CAN | [Read More](https://medium.com/p/43dbecae15b5) |
-| Fri, 06 Jun 2025 05:16:12 GMT | The Unavoidable Reality of Software Bugs | Davor Pavlekovic | [Read More](https://medium.com/p/275e463572b8) |
-| Fri, 06 Jun 2025 05:16:11 GMT | Why I’m Preparing for OSCP After Years of Theory and Breaks | Sivaaditya | [Read More](https://medium.com/p/6f125dbdec67) |
-| Fri, 06 Jun 2025 05:11:19 GMT | How I Hacked 100+ Accounts Using Just XSS | Ibtissam hammadi | [Read More](https://medium.com/p/7cd61aa785c9) |
-| Fri, 06 Jun 2025 05:10:15 GMT | Part 3: How to Become a Pentester in 2025:Practical Practice: Labs & CTFs | Anezaneo | [Read More](https://medium.com/p/c218a22404d3) |
-| Fri, 06 Jun 2025 05:05:08 GMT | How Simple RECON Earned Me ₹XX,000 at Zerodha | Swarnim Bandekar | [Read More](https://medium.com/p/3172aea39c3e) |
-| Fri, 06 Jun 2025 05:03:16 GMT | SOC AUTOMATION — Part 4 | Satyam Pathania | [Read More](https://medium.com/p/47dfd7c311e5) |
