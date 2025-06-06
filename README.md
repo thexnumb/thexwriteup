@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 15:37:06 GMT | Bash Secrets I Learned From 10 Years of Production Hell | Heinancabouly | [Read More](https://medium.com/p/93fe1dbff12a) |
+| Fri, 06 Jun 2025 15:35:41 GMT | 30 Days of Cyber Security — Day 11: Perintah Dasar Linux & Tools di Kali Linux | Indra Rahmat Maulidi | [Read More](https://medium.com/p/c020581c804b) |
+| Fri, 06 Jun 2025 15:32:43 GMT | Why 89% of Bug Bounty Hunters Fail at API Security Testing (And the GraphQL Enumeration Technique… | Andrei Ivan | [Read More](https://medium.com/p/d5688e04439d) |
+| Fri, 06 Jun 2025 15:21:41 GMT | Organizational Development: The System to Build Systems | Don Gunter | [Read More](https://medium.com/p/139d86853b81) |
+| Fri, 06 Jun 2025 15:18:03 GMT | Unfinished Conversations. | Derog Atori | [Read More](https://medium.com/p/2bc4b6aae11a) |
 | Fri, 06 Jun 2025 15:12:24 GMT | Kioptrix Level 3 (VulnHub) Walkthrough | ma40ou | [Read More](https://medium.com/p/0f44327f61fc) |
+| Fri, 06 Jun 2025 15:09:14 GMT | Auth0 vs OAuth2 — What’s the Difference? Pros & Cons Explained with Use Cases | Radhika Parashar | [Read More](https://medium.com/p/865fa4b4bdef) |
 | Fri, 06 Jun 2025 15:08:03 GMT | The Silent Security Crisis: Why Your Edge AI Systems Are Walking Targets | Andrei Ivan | [Read More](https://medium.com/p/6eda36ca2af9) |
 | Fri, 06 Jun 2025 15:06:24 GMT | Tutorial: Mythic Apollo with BallisKit MacroPack and ShellcodePack | Emeric | [Read More](https://medium.com/p/7129b2550765) |
 | Fri, 06 Jun 2025 15:04:33 GMT | The Days I Didn’t Want to Be Here And the Quiet Fight to Stay | Nelly | [Read More](https://medium.com/p/25f7cb3fb5fb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 11:00:58 GMT | The Best Reconciliation Software for Banks and Businesses to Thrive in 2025 | Kosh AI | [Read More](https://medium.com/p/37811f9e1b47) |
 | Fri, 06 Jun 2025 10:58:02 GMT | Zanzibar : Google Consistent, Scalable & Global Authorization System | Tusharkothari | [Read More](https://medium.com/p/2faf1a35b746) |
 | Fri, 06 Jun 2025 10:56:04 GMT | Times when Threat Actors Attack Industries through their Control Systems | Andika Pratama | [Read More](https://medium.com/p/a98972ad5c01) |
-| Fri, 06 Jun 2025 10:47:04 GMT | Alternative Mobiles — independent replacements for Android- and iOS-based smartphones | 0trust0day | [Read More](https://medium.com/p/38179714a7f4) |
-| Fri, 06 Jun 2025 10:46:15 GMT | How to deploy Amazon Inspector2 at scale using Terraform. | Thomas Pepper | [Read More](https://medium.com/p/829243c327a8) |
-| Fri, 06 Jun 2025 10:45:22 GMT | The Price of Free | Munish Mehta | [Read More](https://medium.com/p/53f71e77c74c) |
-| Fri, 06 Jun 2025 10:42:54 GMT | What’s Wrong with the Cybersecurity Vendor Landscape | Joe | [Read More](https://medium.com/p/91477559c5ba) |
-| Fri, 06 Jun 2025 10:41:54 GMT | Fake Bitdefender Site Spreads Password-Stealing Malware | SafetyDetectives Research Team | [Read More](https://medium.com/p/58a43d0cdacc) |
-| Fri, 06 Jun 2025 10:40:17 GMT | raydium.io Review - Revealing How To Recover Your Money | Lennox Murray | [Read More](https://medium.com/p/ccb6877e4a9b) |
