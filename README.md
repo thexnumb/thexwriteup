@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 05:16:12 GMT | The Unavoidable Reality of Software Bugs | Davor Pavlekovic | [Read More](https://medium.com/p/275e463572b8) |
+| Fri, 06 Jun 2025 05:16:11 GMT | Why I’m Preparing for OSCP After Years of Theory and Breaks | Sivaaditya | [Read More](https://medium.com/p/6f125dbdec67) |
+| Fri, 06 Jun 2025 05:11:19 GMT | How I Hacked 100+ Accounts Using Just XSS | Ibtissam hammadi | [Read More](https://medium.com/p/7cd61aa785c9) |
+| Fri, 06 Jun 2025 05:10:15 GMT | Part 3: How to Become a Pentester in 2025:Practical Practice: Labs & CTFs | Anezaneo | [Read More](https://medium.com/p/c218a22404d3) |
+| Fri, 06 Jun 2025 05:05:08 GMT | How Simple RECON Earned Me ₹XX,000 at Zerodha | Swarnim Bandekar | [Read More](https://medium.com/p/3172aea39c3e) |
+| Fri, 06 Jun 2025 05:03:16 GMT | SOC AUTOMATION — Part 4 | Satyam Pathania | [Read More](https://medium.com/p/47dfd7c311e5) |
+| Fri, 06 Jun 2025 05:02:42 GMT | A Step-by-Step Plan to Secure Web Backends with XAMPP (Part 1/3) | Nanditha Harish Bhat | [Read More](https://medium.com/p/6971d01467d2) |
+| Fri, 06 Jun 2025 05:01:51 GMT | OSED: SEH-Based Stack Overflow #2 | Ahmet Göker | [Read More](https://medium.com/p/7ca2f1763960) |
+| Fri, 06 Jun 2025 04:53:27 GMT | OSED: Buffer Overflow #1 | Ahmet Göker | [Read More](https://medium.com/p/42247a5af7e8) |
+| Fri, 06 Jun 2025 04:36:04 GMT | Your OTP Isn’t Safe | Munish Mehta | [Read More](https://medium.com/p/4b67f80485ec) |
 | Fri, 06 Jun 2025 04:32:30 GMT | Hacking Tools Running Commands. | Rishav anand | [Read More](https://medium.com/p/7c2d249dbc18) |
+| Fri, 06 Jun 2025 04:31:27 GMT | Taking Ownership of a Silverstripe Website: A Technical Audit Checklist | Sunny Side Up | [Read More](https://medium.com/p/21e2ae1c00d1) |
+| Fri, 06 Jun 2025 04:29:17 GMT | Python Automation Series — Day 3 | Pavan V | [Read More](https://medium.com/p/467855542cc8) |
 | Fri, 06 Jun 2025 04:06:34 GMT | A Guide to SMB Enumeration Using Metasploit and Smbclient | Iftikhar Zaidi | [Read More](https://medium.com/p/cb5f3dd0dcc9) |
 | Fri, 06 Jun 2025 03:52:39 GMT | The Importance of Cybersecurity and Today’s Most Critical Cyber Threats | Professor Lucius | [Read More](https://medium.com/p/e4997e8e2f8a) |
 | Fri, 06 Jun 2025 03:49:12 GMT | ICS and SCADA Explanation and Attacks | Farrel Aditya | [Read More](https://medium.com/p/abc7c75bac88) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 17:57:11 GMT | Strengthening the Backbone of Critical Infrastructure: ICS/SCADA Cybersecurity | Akhdan Arif | [Read More](https://medium.com/p/8e64566a30eb) |
 | Thu, 05 Jun 2025 17:53:28 GMT | Picke Rick — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/1e38b98ab0fa) |
 | Thu, 05 Jun 2025 17:46:35 GMT | They Tried to Scam Me—This Is How I Outsmarted Them | Troy Steele | [Read More](https://medium.com/p/7c74a86131e2) |
-| Thu, 05 Jun 2025 17:40:49 GMT | Ukraine War: The Lesser-Known News 6/5/25 | Kevin Fitzgerald | [Read More](https://medium.com/p/2d74181c35c1) |
-| Thu, 05 Jun 2025 17:36:39 GMT | “Guardians of Joy” We Don’t Just Secure Events — We Safeguard Experiences | Metropolitan Security Services | [Read More](https://medium.com/p/150af7e70e4b) |
-| Thu, 05 Jun 2025 17:25:19 GMT | Explaining Machine Learning Like You’re 5 — Because Complicated is Boring | Devangi Gamage | [Read More](https://medium.com/p/9ecdef17723e) |
-| Thu, 05 Jun 2025 17:16:40 GMT | Caltech Achieves Hyper-Entanglement: A Quantum Breakthrough with Major Implications | QuantumGenie | [Read More](https://medium.com/p/6ff8eef93d3e) |
-| Thu, 05 Jun 2025 17:12:22 GMT | Best iPad Kiosk App: Top Picks for Your Business Needs | Vantage MDM | [Read More](https://medium.com/p/2b78eba9d405) |
-| Thu, 05 Jun 2025 17:11:41 GMT | Caltech Achieves Hyper-Entanglement: A Quantum Breakthrough with Major Implications | Luis F. Gil | [Read More](https://medium.com/p/7e02772d9fd2) |
-| Thu, 05 Jun 2025 17:11:21 GMT | Visual Monitoring Solutions brings you the next level of security with 24/7 Live CCTV Monitoring. | Visual Monitoring Solutions | [Read More](https://medium.com/p/c440c4d43d47) |
-| Thu, 05 Jun 2025 17:09:29 GMT | NUS MComp (InfoSec) Course Review AY24/25 S2 | Justin Ng | [Read More](https://medium.com/p/8077506cf9e8) |
-| Thu, 05 Jun 2025 17:08:33 GMT | Why Ethical Hacking Is the Skill Every Modern Organization Needs | Amelia Miller | [Read More](https://medium.com/p/8135625a742a) |
-| Thu, 05 Jun 2025 17:03:50 GMT | Exploiting Golden Eye 1 HTB | Nextk | [Read More](https://medium.com/p/f992042fc057) |
-| Thu, 05 Jun 2025 17:01:28 GMT | If You Don’t Understand Quantum Yet, You’re About to Feel It | Rahul Mishra | [Read More](https://medium.com/p/831bba7df81c) |
-| Thu, 05 Jun 2025 16:53:51 GMT | Ghost Code: The Weird Malware That Broke a Small Business’s Systems in 2025 | Noel | [Read More](https://medium.com/p/67fd9284af4d) |
