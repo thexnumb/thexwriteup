@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 21:16:38 GMT | Why “Authenticity” Now Feels Like a Costume | Cat Milton | [Read More](https://medium.com/p/916543b97858) |
+| Fri, 06 Jun 2025 21:15:55 GMT | Déploiement d’un SOC complet (Wazuh-TheHive-Cortex-Misp-Shuffle)sur un environnement local à… | ahmed fathallah | [Read More](https://medium.com/p/f240a45d8279) |
+| Fri, 06 Jun 2025 21:13:54 GMT | ADCS Attack Series: Abusing ESC9 for Privilege Escalation via Weak Certificate Mapping | Nairuz Abulhul | [Read More](https://medium.com/p/d625aceb5942) |
+| Fri, 06 Jun 2025 21:11:52 GMT | Key challenges of hybrid cloud adoption 2025 | IT_Engineer | [Read More](https://medium.com/p/2eab0e1f8552) |
+| Fri, 06 Jun 2025 21:10:00 GMT | ️ Living Off the Land Attacks: The Invisible Threat Inside Your Network | Ekene Joseph | [Read More](https://medium.com/p/1ec06d78d94b) |
+| Fri, 06 Jun 2025 20:57:40 GMT | From ‘Are we crazy?’ to RBAC | Vineet Sarpal | [Read More](https://medium.com/p/093120970b16) |
+| Fri, 06 Jun 2025 20:54:39 GMT | **Bubblemaps: The Sherlock Holmes of Blockchain Transparency** | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/4f7748fdd4ad) |
+| Fri, 06 Jun 2025 20:54:21 GMT | Best-in-Class AI Solutions for Fraud, Risk and Compliance | Peter Bordes | [Read More](https://medium.com/p/754fdd18c91e) |
+| Fri, 06 Jun 2025 20:52:11 GMT | How I Found a Secondary SQL Injection in a Top 3 Gaming Platform | Waleed Osama | [Read More](https://medium.com/p/abdd4eb461a7) |
+| Fri, 06 Jun 2025 20:50:28 GMT | Defensive Looping | Mi'kail Eli'yah | [Read More](https://medium.com/p/6cfce07c35de) |
+| Fri, 06 Jun 2025 20:40:50 GMT | Did You Know Someone Can Hijack Your Router or Mobile privacy in 10 Seconds? | Sayeed Al Amodi | [Read More](https://medium.com/p/b826ad73cb23) |
+| Fri, 06 Jun 2025 20:37:06 GMT | “What’s Hiding Inside Your Files? The Invisible Threats of the Digital Era” | Fatul Ramdani | [Read More](https://medium.com/p/c26e06668c69) |
+| Fri, 06 Jun 2025 20:36:05 GMT | Kenalan Dengan Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition… | Ardhan Dimas Nuryadin | [Read More](https://medium.com/p/32b912cc7a98) |
 | Fri, 06 Jun 2025 20:31:43 GMT | The Complexity of Cybersecurity Frameworks is a Threat to Cybersecurity Resilience and Compliance… | Armandoseay | [Read More](https://medium.com/p/8a7072a18f92) |
 | Fri, 06 Jun 2025 20:31:23 GMT | THM — Disgruntled Writeup (Linux Forensics) | Shamar Isaac | [Read More](https://medium.com/p/774169b6d068) |
 | Fri, 06 Jun 2025 20:30:20 GMT | How I Found My First Real Bug — and It Got Accepted! | Youssef El-Sibai | [Read More](https://medium.com/p/a13e15b86a3d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 14:54:35 GMT | WhatsApp's Silent Privacy Crisis: The Hidden Glitches Undermining User Trust | Marav | [Read More](https://medium.com/p/3ec18beba17f) |
 | Fri, 06 Jun 2025 14:50:23 GMT | ️ Python Security Best Practices — Locking Down Dependencies with safety | Priyanshu Rajput | [Read More](https://medium.com/p/3eba0cdd131f) |
 | Fri, 06 Jun 2025 14:49:01 GMT | FOREXPROVIDER: TARGETING DEVELOPERS AT WARP-VELOCITY IN THE FINANCIAL SECTOR | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/203f6547cd37) |
-| Fri, 06 Jun 2025 14:46:54 GMT | “Trying to heal is sometimes far more exhausting than just being unwell. “ | Esmanur Şen | [Read More](https://medium.com/p/8507b69353c0) |
-| Fri, 06 Jun 2025 14:46:37 GMT | How a Coffee Shop Wi-Fi Got Her Passport, Flight, and Identity | Sam Galope | [Read More](https://medium.com/p/f33b90c39173) |
-| Fri, 06 Jun 2025 14:43:10 GMT | The Daily Tech Digest: 06 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/5aad7490b452) |
-| Fri, 06 Jun 2025 14:42:28 GMT | Memecahkan Kode Rahasia: Tools Brute Force Password | Adi Ramadhani | [Read More](https://medium.com/p/fad83ac1030b) |
-| Fri, 06 Jun 2025 14:42:05 GMT | You’re worth helping. Here’s why | Home | [Read More](https://medium.com/p/b3789941af48) |
-| Fri, 06 Jun 2025 14:38:36 GMT | Bug Bounty-Forget Coding (For Now): The 3 Essential Skills to Find Your First Bug | Vivek PS | [Read More](https://medium.com/p/2b51543d6c11) |
-| Fri, 06 Jun 2025 14:36:38 GMT | Navigating AI Threats with Enterprise Browser: The Role of MCP and Security Guardrails | Mammoth Cyber | [Read More](https://medium.com/p/29bf7c0a6ea2) |
-| Fri, 06 Jun 2025 14:30:02 GMT | 86 Million AT&T Records for Sale on Dark Web | Ronit Yadav | [Read More](https://medium.com/p/2d96dc3e4d05) |
-| Fri, 06 Jun 2025 14:25:12 GMT | Understanding ICS/SCADA: The Invisible Backbone of Our World and Its Vulnerabilities | Bumi Arya Dirangga | [Read More](https://medium.com/p/2424baa14317) |
-| Fri, 06 Jun 2025 14:23:27 GMT | VulnOSv2 Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/90be034e10a3) |
-| Fri, 06 Jun 2025 14:20:28 GMT | Bad Git Security Practices: Bandit30 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/e80da049e2fb) |
-| Fri, 06 Jun 2025 14:18:29 GMT | Pengertian ICS dan SCADA | Ahmadfaizabdillah | [Read More](https://medium.com/p/b70b88ae5bea) |
-| Fri, 06 Jun 2025 14:18:20 GMT | Airport Security Robotics | Presslink Media | [Read More](https://medium.com/p/05fb655d9d6a) |
