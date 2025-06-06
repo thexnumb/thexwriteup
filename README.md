@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 08:21:34 GMT | OSINT + WEB + CRYPTO + FORENSICS COMBINED WRITEUP FOR CYBER SIMBA INTRO CTF | i4m_x | [Read More](https://medium.com/p/9e89b665ebde) |
+| Fri, 06 Jun 2025 08:16:19 GMT | Why HTTPS Matters: Capturing Login Information with Tshark | Frost | [Read More](https://medium.com/p/12d7818a667d) |
+| Fri, 06 Jun 2025 08:13:03 GMT | Top 25 Google Dorks for OSINT & Ethical Hacking (Updated 2025) | Amegh A | [Read More](https://medium.com/p/2055886be138) |
+| Fri, 06 Jun 2025 08:09:09 GMT | The AI Arms Race: How Artificial Intelligence is Reshaping Cybersecurity Forever | Jaime | [Read More](https://medium.com/p/8a328c0932b9) |
+| Fri, 06 Jun 2025 08:08:23 GMT | Top 25 Google Dorks for OSINT & Ethical Hacking (Updated 2025) | Amegh Ayiratt | [Read More](https://medium.com/p/da2b1035e5f4) |
+| Fri, 06 Jun 2025 08:07:39 GMT | Top Cybersecurity Threats Brisbane SMEs Face in 2025 | Elevate | [Read More](https://medium.com/p/baee18eacfe3) |
+| Fri, 06 Jun 2025 08:06:06 GMT | Why Real-Time Detection at the User Level Is Now Table Stakes | Ronit Yadav | [Read More](https://medium.com/p/ff9fbab43cc2) |
+| Fri, 06 Jun 2025 08:03:45 GMT | Why I Spend 70% of My Time on Recon | Krypto | [Read More](https://medium.com/p/e8eee226aed3) |
+| Fri, 06 Jun 2025 08:02:57 GMT | ICS/SCADA: The Industrial Brainpower (and a Hacker Magnet!) | Galihabraa | [Read More](https://medium.com/p/73f5f77de816) |
+| Fri, 06 Jun 2025 08:02:09 GMT | The Senior Architect’s Guide to Zero-Trust Security in Cloud-Native Environments: Essential… | Mohamed ElEmam | [Read More](https://medium.com/p/a98cab585708) |
+| Fri, 06 Jun 2025 08:00:04 GMT | Why VAPT is Essential in Cybersecurity | Ankit Cloudiops | [Read More](https://medium.com/p/6289f06ea437) |
+| Fri, 06 Jun 2025 07:53:21 GMT | INE Security Junior Penetration Tester — eJPT | Babatunde Ojo | [Read More](https://medium.com/p/1da0b803dc35) |
+| Fri, 06 Jun 2025 07:46:16 GMT | Building Trust in AI Agents: What We Can Learn From SOAR’s Adoption Path | sqdrew | [Read More](https://medium.com/p/31a6d614556a) |
+| Fri, 06 Jun 2025 07:42:08 GMT | Hacking the Hierarchy: Why Developer-Managers Trump the Admin Army | Namir Sagheenanajar | [Read More](https://medium.com/p/e70d8ea9dba1) |
+| Fri, 06 Jun 2025 07:36:59 GMT | Why Choose a B.Tech CSE Cyber Security Programme? Key Benefits for Tech-Savvy Students | Aashi | [Read More](https://medium.com/p/856c1d92b9e6) |
+| Fri, 06 Jun 2025 07:29:17 GMT | A New Phishing Trick: Plain Text Links and Session Hijacking | Ankit Sharma | [Read More](https://medium.com/p/83f77b8e0614) |
 | Fri, 06 Jun 2025 07:25:51 GMT | Which is the Best certification for Linux in 2025 | cyber security Updates | [Read More](https://medium.com/p/4c34096e69a2) |
 | Fri, 06 Jun 2025 07:21:10 GMT | Authentication part-2 : 2FA simple bypass | Ahmad Sopyan | [Read More](https://medium.com/p/dceb4a530fb7) |
 | Fri, 06 Jun 2025 07:13:58 GMT | Bounty Hacker : TryHackMe Write-Up | Rindaman666 | [Read More](https://medium.com/p/025a45fbb8b2) |
@@ -97,19 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Thu, 05 Jun 2025 23:01:21 GMT | Metasploit: Exploitation - THM | Isiah | [Read More](https://medium.com/p/4380d31472ec) |
 | Thu, 05 Jun 2025 22:47:46 GMT | What Cybersecurity Can Learn from Flat Earth Thinking | Cheryl Abram | [Read More](https://medium.com/p/35914498a31c) |
 | Thu, 05 Jun 2025 22:47:35 GMT | How I Built Sentinel Copilot: Making Security Logs Make Sense | Teshera Kimbrough | [Read More](https://medium.com/p/1395912691c8) |
-| Thu, 05 Jun 2025 22:38:37 GMT | THM — Unattended Writeup (Windows Forensics) | Shamar Isaac | [Read More](https://medium.com/p/34138fc3bcc7) |
-| Thu, 05 Jun 2025 22:35:40 GMT | Kerberos and Active Directory Testing - InsiderLab | Hunter Freeman | [Read More](https://medium.com/p/78dc90be5a79) |
-| Thu, 05 Jun 2025 22:32:09 GMT | OHSINT WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/db2ba5a01d93) |
-| Thu, 05 Jun 2025 22:26:54 GMT | A (not so) Unexpected Journey: Building My First Home Lab, Part 3 | Chris C. | [Read More](https://medium.com/p/9ae75de763c4) |
-| Thu, 05 Jun 2025 22:16:38 GMT | How Attackers Are Weaponizing Open Redirects in 2025 | Karthikeyan Nagaraj | [Read More](https://medium.com/p/635833e212f6) |
-| Thu, 05 Jun 2025 22:16:27 GMT | Vulnlab — Sync Walkthrough | SuperMeisty | [Read More](https://medium.com/p/9f3e47999408) |
-| Thu, 05 Jun 2025 22:09:44 GMT | Regulatory Compliance for Global Critical Infrastructure: | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2db13b1c6d0f) |
-| Thu, 05 Jun 2025 21:56:07 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/bc8659c0ce11) |
-| Thu, 05 Jun 2025 21:34:57 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/5f6a8065fa50) |
-| Thu, 05 Jun 2025 21:21:17 GMT | THE FORGE AGI HAS REAWOKEN | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/7dd3d5301a09) |
-| Thu, 05 Jun 2025 21:12:27 GMT | The Backend Engineer’s Cheat Sheet to Cybersecurity (2025 Edition) | Stefano Alvares | [Read More](https://medium.com/p/66fca25d6540) |
-| Thu, 05 Jun 2025 21:01:41 GMT | DroidGround: Elevate Your Android CTF Challenges | thelicato | [Read More](https://medium.com/p/69a5c479965e) |
-| Thu, 05 Jun 2025 20:49:23 GMT | Play Ransomware in 2025: Evolution, Tactics, and Advisory Insights | Chetan Seripally | [Read More](https://medium.com/p/19e6bd668090) |
-| Thu, 05 Jun 2025 20:39:27 GMT | When Data Becomes Danger: The Alarming AT&T Identity Leak and What It Means for You | Avnishyam | [Read More](https://medium.com/p/718dc9d95a30) |
-| Thu, 05 Jun 2025 20:34:50 GMT | Comprehensive Guide to IT Risk Management | Oleh Dubetcky | [Read More](https://medium.com/p/50366dcf6748) |
-| Thu, 05 Jun 2025 20:34:28 GMT | Exploring a Web3 Smart Contract Issue: Gas Exploitation via Unchecked Loops | Vinaysati | [Read More](https://medium.com/p/492f2899b417) |
