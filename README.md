@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 17:37:04 GMT | TheHackersLabs — Merchan | APS88 | [Read More](https://medium.com/p/98bdea98563f) |
+| Fri, 06 Jun 2025 17:26:38 GMT | The Future of Cloud Security with Microsoft Defender for Cloud | Techridge Solutions | [Read More](https://medium.com/p/7df1426d20c1) |
+| Fri, 06 Jun 2025 17:19:13 GMT | Cybersecurity News Review — Week 23 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f87adcee0bb1) |
+| Fri, 06 Jun 2025 17:15:39 GMT | The History and Adoption of MITRE ATT&CK and D3FEND | Fayyaz Rajpari | [Read More](https://medium.com/p/dabc652524f8) |
+| Fri, 06 Jun 2025 17:15:35 GMT | Why Ransomware Targets Server Backup Files — And How to Protect Them | Sundeep Maan | [Read More](https://medium.com/p/46e2644b2ff6) |
+| Fri, 06 Jun 2025 17:15:29 GMT | Puppy HTB — Full Walkthrough | Gh0stSp10iT | [Read More](https://medium.com/p/cb5d1d9e8ba2) |
 | Fri, 06 Jun 2025 17:07:17 GMT | One Site Wasn’t Enough… So I Took Them All  (Thanks, Business Logic Bug) | Rahul | [Read More](https://medium.com/p/8eba7c4688e0) |
 | Fri, 06 Jun 2025 17:04:05 GMT | How to Find Malicious Traffic with Wireshark (Beginner’s Guide) | Tejprakash | [Read More](https://medium.com/p/b558f6c8032d) |
 | Fri, 06 Jun 2025 17:02:13 GMT | 資安 x 潛水 x 風險管理：綠島的 Open Water Dive 開放水域潛水員證照訓練心得 | Kuro Huang | [Read More](https://medium.com/p/d7bf423cc281) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 12:35:21 GMT | When Being a Man Means Breaking Down | Joeybags | [Read More](https://medium.com/p/38fad83fc840) |
 | Fri, 06 Jun 2025 12:32:01 GMT | Top 11 Highest Paying Cybersecurity Certifications in 2025 | Amelia Miller | [Read More](https://medium.com/p/d6337cd17ed4) |
 | Fri, 06 Jun 2025 12:29:40 GMT | The perk you’ve been sleeping on | Daily Drop | [Read More](https://medium.com/p/6c7a6eb142c6) |
-| Fri, 06 Jun 2025 12:28:15 GMT | INFO - PENJELASAN ICS/SCADA DAN SERANGANNYA | InREXnA | [Read More](https://medium.com/p/eae67892e8eb) |
-| Fri, 06 Jun 2025 12:26:51 GMT | Not Every Bug Deserves an Automated Test — and That’s Okay | Paulo Rogério Moreira Rocha | [Read More](https://medium.com/p/5b254757cde9) |
-| Fri, 06 Jun 2025 12:26:04 GMT | How to Choose the Best Contract Tool for Success in 2025 | Rob Wynn | [Read More](https://medium.com/p/a8cbf6d8b508) |
-| Fri, 06 Jun 2025 12:21:23 GMT | Bithumb Review - This Is How I Recover My Money | Jenson Cameron | [Read More](https://medium.com/p/91c434a31b87) |
-| Fri, 06 Jun 2025 12:19:56 GMT | Here’s How I Recover My Money From Bithumb | Jenson Cameron | [Read More](https://medium.com/p/b79cc32dbbc4) |
-| Fri, 06 Jun 2025 12:17:38 GMT | The Blackflies Demand Ritual Sacrifice | Yours Truly, D. | [Read More](https://medium.com/p/73d0ab3df47f) |
