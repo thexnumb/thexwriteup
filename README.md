@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 18:43:23 GMT | The AI Wave: How to Stay Ahead of the Curve | Praveen Xavier | [Read More](https://medium.com/p/633706357b56) |
+| Fri, 06 Jun 2025 18:40:04 GMT | The Psychology Behind High-Converting Content | Zorawar Ali Khan | [Read More](https://medium.com/p/7054bed4de8d) |
+| Fri, 06 Jun 2025 18:33:13 GMT | Earned $100 in 2 Minutes — Finding an Open Redirect Vulnerability | Buvaneshvaran K | [Read More](https://medium.com/p/1d8a67da4eac) |
 | Fri, 06 Jun 2025 18:10:53 GMT | TryHackMe Write-up: Investigating with Splunk | Robert Onyango | [Read More](https://medium.com/p/8cf9c2f31f90) |
 | Fri, 06 Jun 2025 18:07:24 GMT | Still Soft | maple syrup fox | [Read More](https://medium.com/p/8e1a23e6adbc) |
 | Fri, 06 Jun 2025 18:02:34 GMT | CTF Day(9) | Ahmed Narmer | [Read More](https://medium.com/p/4a085ec154e8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 13:12:34 GMT | Prompt 1: Generate Recon Workflow | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d0e2bbdccd0b) |
 | Fri, 06 Jun 2025 13:09:23 GMT | The Ethics of Hacking: Is Hacking Always a Crime? | Association of Computing Students (ACS) | [Read More](https://medium.com/p/8655649f0d88) |
 | Fri, 06 Jun 2025 13:04:43 GMT | How to Install Metasploit on Termux (Simple and Safe Guide) | Kambetastephano | [Read More](https://medium.com/p/d0229abc2798) |
-| Fri, 06 Jun 2025 13:03:33 GMT | Healing Systems in Vulnerable Communities: Reflections on a Global Conversation | @Place Matters | [Read More](https://medium.com/p/3db8adba45f1) |
-| Fri, 06 Jun 2025 13:02:14 GMT | Automate Your Compliance Workflows with Peris.ai | Peris.ai Cybersecurity | [Read More](https://medium.com/p/a1fcb59d8851) |
-| Fri, 06 Jun 2025 12:56:26 GMT | Golang Security: Best Practices for Safe Applications | Brooksolivia | [Read More](https://medium.com/p/7bbb7fbd8f63) |
