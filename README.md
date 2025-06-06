@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 10:19:10 GMT | Moonacy protocol Review 2025 - Is It Legit Or Not? | Mohammed Mackenzie | [Read More](https://medium.com/p/8294b5fc6eb6) |
+| Fri, 06 Jun 2025 10:17:56 GMT | How I Found Open Redirect in VDP using LLM | yee-yore | [Read More](https://medium.com/p/402d06360636) |
+| Fri, 06 Jun 2025 10:17:30 GMT | Broker — HTB Writeup | Timss | [Read More](https://medium.com/p/891133ccb20e) |
+| Fri, 06 Jun 2025 10:15:35 GMT | Here’s How I Recover My Money From My Moonacy protocol | Mohammed Mackenzie | [Read More](https://medium.com/p/41f0894770f1) |
+| Fri, 06 Jun 2025 10:13:27 GMT | DC-1: Vulnhub Walkthrough | Chikleet Arora | [Read More](https://medium.com/p/878c94996a18) |
+| Fri, 06 Jun 2025 10:12:53 GMT | Who benefits from the cloud security service the most? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/c3fd0bf2c6a1) |
+| Fri, 06 Jun 2025 10:12:04 GMT | The Token Delivery Dilemma: Body vs Cookie vs Header — Which Won’t Get You Hacked? | Aniket Agrawal | [Read More](https://medium.com/p/e187ed0e9a05) |
+| Fri, 06 Jun 2025 10:08:53 GMT | who can I run to? | Nadine | [Read More](https://medium.com/p/c4a8bd1382dc) |
+| Fri, 06 Jun 2025 10:08:14 GMT | Phala Network и PublicAI объединяются, чтобы обеспечить прозрачность и безопасность приватности… | Phala Network RU | [Read More](https://medium.com/p/021fb2a1dc29) |
+| Fri, 06 Jun 2025 10:07:22 GMT | What Is Cybersecurity and Why Is It Crucial for Your Business | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/7f29d4c2d8da) |
+| Fri, 06 Jun 2025 10:04:14 GMT | Fortify Your PHP Apps with ModSecurity on Apache | Roman Huliak | [Read More](https://medium.com/p/df63d330d274) |
+| Fri, 06 Jun 2025 10:04:03 GMT | Why Cyber Insurance Is No Longer Optional: A Specialist’s Perspective | Varsha Nair | [Read More](https://medium.com/p/6744b43c9382) |
+| Fri, 06 Jun 2025 10:01:09 GMT | Effortless File Sharing on Linux: A Practical Guide to NFS with Hands on Lab. | Rupesh Sharma | [Read More](https://medium.com/p/073752e10373) |
+| Fri, 06 Jun 2025 09:58:22 GMT | Building My First Python Pentest Tools — One Step Closer to OSCP | Laura Trafford | [Read More](https://medium.com/p/2085819fda9c) |
+| Fri, 06 Jun 2025 09:53:47 GMT | Summer Internship in Penetration Testing Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/3ae887178fa5) |
+| Fri, 06 Jun 2025 09:37:22 GMT | An essential element of organizational Cyber Defense | 0trust0day | [Read More](https://medium.com/p/7d336e523c8b) |
 | Fri, 06 Jun 2025 09:33:31 GMT | Gridinsoft.com Review — A Dangerous Scam Disguised as Antivirus Software | Balint Robert | [Read More](https://medium.com/p/d37134b73b0e) |
 | Fri, 06 Jun 2025 09:31:41 GMT | Crypto Event Attendees: Are You Putting Your Assets at Risk? | CoinGen | [Read More](https://medium.com/p/5b264b967495) |
 | Fri, 06 Jun 2025 09:30:21 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/ab8d3467668d) |
@@ -97,19 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Fri, 06 Jun 2025 04:29:17 GMT | Python Automation Series — Day 3 | Pavan V | [Read More](https://medium.com/p/467855542cc8) |
 | Fri, 06 Jun 2025 04:06:34 GMT | A Guide to SMB Enumeration Using Metasploit and Smbclient | Iftikhar Zaidi | [Read More](https://medium.com/p/cb5f3dd0dcc9) |
 | Fri, 06 Jun 2025 03:52:39 GMT | The Importance of Cybersecurity and Today’s Most Critical Cyber Threats | Professor Lucius | [Read More](https://medium.com/p/e4997e8e2f8a) |
-| Fri, 06 Jun 2025 03:49:12 GMT | ICS and SCADA Explanation and Attacks | Farrel Aditya | [Read More](https://medium.com/p/abc7c75bac88) |
-| Fri, 06 Jun 2025 03:45:56 GMT | How to Avoid Fines from Sales Call Breaches (ACL + GDPR) | Komplya | [Read More](https://medium.com/p/200a1fe72574) |
-| Fri, 06 Jun 2025 03:43:06 GMT | Who Inherits Your TikTok? Planning for Your Offline Afterlife | Tina Ginn | [Read More](https://medium.com/p/bffb310c3f5b) |
-| Fri, 06 Jun 2025 03:34:16 GMT | For Some Foolish Reason… | reina | [Read More](https://medium.com/p/ebb91dc37375) |
-| Fri, 06 Jun 2025 03:32:12 GMT | When Hackers Get Hacked: The Everest Leak Site Breach | Deven Chhajed | [Read More](https://medium.com/p/3577d80b1bff) |
-| Fri, 06 Jun 2025 03:27:08 GMT | OT Security for CNI Leaders: Safeguarding Infrastructure in a Hyperconnected World | WayneReidUK | [Read More](https://medium.com/p/700b813bcf94) |
-| Fri, 06 Jun 2025 03:17:29 GMT | So, what else is there to do? | reina | [Read More](https://medium.com/p/75c8d3123a56) |
-| Fri, 06 Jun 2025 03:16:50 GMT | Certified SOC Analyst: Your Gateway to Cybersecurity Excellence | Cybernous Infosec consulting | [Read More](https://medium.com/p/ddf7afb4a9bb) |
-| Fri, 06 Jun 2025 02:52:54 GMT | I Didn’t Mean to Say It in the Staff Meeting, But I Did | Dan Foster | [Read More](https://medium.com/p/d5e89a619be1) |
-| Fri, 06 Jun 2025 02:46:06 GMT | Cheers to 24 | Sincerely, Teneyah T. | [Read More](https://medium.com/p/e1bb906623bb) |
-| Fri, 06 Jun 2025 02:43:55 GMT | Digital IDs: Your Freedom, Barcoded and Sold | DoDoStorm | [Read More](https://medium.com/p/06cf13da1f37) |
-| Fri, 06 Jun 2025 02:37:51 GMT | “Can a Simple NPM Install Drain Your Ethereum Wallet?” | Cyber-AppSec | [Read More](https://medium.com/p/0b0c74fc8f27) |
-| Fri, 06 Jun 2025 02:36:57 GMT | CRTP with GOAD Labs (Part 2) AS-REPROASTING Attack | Kareem Mostafa | [Read More](https://medium.com/p/012e1198834c) |
-| Fri, 06 Jun 2025 02:36:25 GMT | How LLM-as-a-Judge Compounds Improvements to Threat Intelligence | Michael Rico | [Read More](https://medium.com/p/37b080dd41f3) |
-| Fri, 06 Jun 2025 02:35:15 GMT | Understanding the Technology That Powers Modern Life | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/42b925f562d0) |
-| Fri, 06 Jun 2025 02:27:04 GMT | What Happens When a Glucose Monitor Gets Hacked? A Blueprint for Securing Mobile Medical Devices | Biswajeet Poddar | [Read More](https://medium.com/p/4299a6dbec63) |
