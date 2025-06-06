@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 02:52:54 GMT | I Didn’t Mean to Say It in the Staff Meeting, But I Did | Dan Foster | [Read More](https://medium.com/p/d5e89a619be1) |
+| Fri, 06 Jun 2025 02:46:06 GMT | Cheers to 24 | Sincerely, Teneyah T. | [Read More](https://medium.com/p/e1bb906623bb) |
+| Fri, 06 Jun 2025 02:43:55 GMT | Digital IDs: Your Freedom, Barcoded and Sold | DoDoStorm | [Read More](https://medium.com/p/06cf13da1f37) |
+| Fri, 06 Jun 2025 02:37:51 GMT | “Can a Simple NPM Install Drain Your Ethereum Wallet?” | Cyber-AppSec | [Read More](https://medium.com/p/0b0c74fc8f27) |
+| Fri, 06 Jun 2025 02:36:57 GMT | CRTP with GOAD Labs (Part 2) AS-REPROASTING Attack | Kareem Mostafa | [Read More](https://medium.com/p/012e1198834c) |
+| Fri, 06 Jun 2025 02:36:25 GMT | How LLM-as-a-Judge Compounds Improvements to Threat Intelligence | Michael Rico | [Read More](https://medium.com/p/37b080dd41f3) |
+| Fri, 06 Jun 2025 02:35:15 GMT | Understanding the Technology That Powers Modern Life | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/42b925f562d0) |
+| Fri, 06 Jun 2025 02:27:04 GMT | What Happens When a Glucose Monitor Gets Hacked? A Blueprint for Securing Mobile Medical Devices | Biswajeet Poddar | [Read More](https://medium.com/p/4299a6dbec63) |
+| Fri, 06 Jun 2025 02:15:10 GMT | The GRC Delusion: Why “Non-Technical” Governance is a Risk in Itself | Dinesh Dino | [Read More](https://medium.com/p/e5f89f016787) |
+| Fri, 06 Jun 2025 02:09:21 GMT | Google Issues Critical New Threat Advisory Take Action Now | Nauman khan | [Read More](https://medium.com/p/3a10ef5ce90c) |
+| Fri, 06 Jun 2025 02:02:25 GMT | Oxford Quantum Circuits Unveils Bold Roadmap to 50,000 Logical Qubits by 2034 | QuantumGenie | [Read More](https://medium.com/p/71f13d7dfc20) |
+| Fri, 06 Jun 2025 02:01:40 GMT | Mengenal ICS/SCADA | Mohamad Axel A. | [Read More](https://medium.com/p/6e2546e280b2) |
+| Fri, 06 Jun 2025 01:48:52 GMT | Thinking about PG Resourced Box PE - Writeup-half, Walkthrough-half | David | [Read More](https://medium.com/p/3d9c05d6a5eb) |
 | Fri, 06 Jun 2025 01:35:42 GMT | BEC Persistence and Data Exfiltration Techniques | Kijo Ninja | [Read More](https://medium.com/p/67e5926812a0) |
 | Fri, 06 Jun 2025 01:29:44 GMT | Defending iPhones Against Pulse-Based Attacks: A Cybersecurity Guide | Rah Tech Wiz (she, her) | [Read More](https://medium.com/p/c522ceb34877) |
 | Fri, 06 Jun 2025 01:17:29 GMT | Vibe-coding’s evil twin? | ArchBeat | [Read More](https://medium.com/p/d5af40a7f968) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 16:44:28 GMT | Root ME @~~ TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/9f47e0443ead) |
 | Thu, 05 Jun 2025 16:39:21 GMT | Xeggex Review 2025 | Kelvin mark | [Read More](https://medium.com/p/483a1ff84b0e) |
 | Thu, 05 Jun 2025 16:38:31 GMT | Memahami ICS/SCADA (Industrial Control Systems)/ (Supervisory Control and Data Acquisition) | rdtyy | [Read More](https://medium.com/p/e9fc4664c218) |
-| Thu, 05 Jun 2025 16:31:47 GMT | About BioGuardian NanoTech
-Advanced BLE Security & Nanonet Analysis Platform | polliville | [Read More](https://medium.com/p/61e5fe4375b2) |
-| Thu, 05 Jun 2025 16:28:58 GMT | Essential Basic CLI Commands for a Cybersecurity Analyst’s Daily Workflow | Mubashir Rahman | [Read More](https://medium.com/p/dd5346366740) |
-| Thu, 05 Jun 2025 16:16:32 GMT | Wise Anti Malware: Comprehensive Protection Against Modern Threats | SafeAeon Inc. | [Read More](https://medium.com/p/2c5b7f800287) |
-| Thu, 05 Jun 2025 16:16:22 GMT | Over The Wire — bandit level 0–10 | Isha Sangpal | [Read More](https://medium.com/p/f86bc733cf9d) |
-| Thu, 05 Jun 2025 16:08:32 GMT | How I got into Cybersecurity | EOLO | [Read More](https://medium.com/p/38b4702c6118) |
-| Thu, 05 Jun 2025 16:06:02 GMT | ✅ How to Download and Install Kali Linux on VirtualBox in Windows 10 [Step-by-Step Guide] | Ekene Joseph | [Read More](https://medium.com/p/75eec3624caa) |
-| Thu, 05 Jun 2025 16:02:29 GMT | [HTB] LinkVortex writeup | ywc | [Read More](https://medium.com/p/48e6b5ea8455) |
-| Thu, 05 Jun 2025 15:56:13 GMT | SOC104 — Malware Detected - Let’s Defend | Sohan Kanna D | [Read More](https://medium.com/p/f72730059017) |
-| Thu, 05 Jun 2025 15:50:06 GMT | Top 5 Benefits of Hiring Virtual Chief Information Security Officer (vCISO) Services for Small… | Executive Solutions USA | [Read More](https://medium.com/p/2b5cdd5caadf) |
-| Thu, 05 Jun 2025 15:48:42 GMT | n8n tutorial : Setup an AI WhatsApp Agent from Scratch | ari | [Read More](https://medium.com/p/9efff7a411d5) |
-| Thu, 05 Jun 2025 15:42:30 GMT | 30 Days of Cyber Security — Day 10: Basic Security Hardening on Kali Linux — Mengamankan “Senjata”… | Indra Rahmat Maulidi | [Read More](https://medium.com/p/5dcc74572104) |
-| Thu, 05 Jun 2025 15:42:19 GMT | SCP vs Rsync: Which Linux File Transfer Tool Should You Use? | Ashish Singh | [Read More](https://medium.com/p/6cf845d63f11) |
-| Thu, 05 Jun 2025 15:40:20 GMT | Her Eyes | Simrah Jahan | [Read More](https://medium.com/p/d86fc8fe7147) |
