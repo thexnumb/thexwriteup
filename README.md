@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 22:25:25 GMT | The Rise of AI in Lending: How Renown Lending is Shaping the Future of Finance | Kalpi Prasad - Renown Lending | [Read More](https://medium.com/p/334ee3ceafc6) |
 | Fri, 06 Jun 2025 22:18:08 GMT | Bypassing Web Application Firewalls: Techniques That Still Work | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4514d999c1fb) |
 | Fri, 06 Jun 2025 21:57:43 GMT | The Complete Travel Banking Guide 2025: Cards, Apps & Security | Travel4Fun4U | [Read More](https://medium.com/p/222d6731e8f9) |
 | Fri, 06 Jun 2025 21:57:24 GMT | Auslagerungsmanagement 2025: Der strategische Leitfaden für resiliente Compliance und operative… | Philip Hansen | [Read More](https://medium.com/p/c22df428b271) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 15:03:00 GMT | I am a pentester and currently employed, but I was spying on my ex-company. | Cybr | [Read More](https://medium.com/p/c429e6305ea3) |
 | Fri, 06 Jun 2025 15:02:19 GMT | Installation of Kali Linux on Virtual Box | Very Lazy Tech | [Read More](https://medium.com/p/42c3a7043056) |
 | Fri, 06 Jun 2025 15:02:16 GMT | Land Grabbers Are Real. Here’s How to Protect Your Property | Cinalis | [Read More](https://medium.com/p/a38711f6d5a8) |
-| Fri, 06 Jun 2025 15:02:16 GMT | The Role of Tiering in Data Backup and Disaster Recovery in Phoenix | Blue Fox Group | [Read More](https://medium.com/p/59737961eea1) |
