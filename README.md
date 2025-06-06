@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 20:23:28 GMT | Digital Battle Lines: A Pen Tester’s Take on June 6, 2025’s Cybersecurity Turmoil | Inforsecpro | [Read More](https://medium.com/p/6566405de4ce) |
+| Fri, 06 Jun 2025 20:13:25 GMT | Cyber Siege Unveiled: A Pen Tester’s Deep Dive into June 6, 2025’s Digital Chaos | hackerguy | [Read More](https://medium.com/p/58943b62dd49) |
+| Fri, 06 Jun 2025 19:58:28 GMT | CTF Day(10) | Ahmed Narmer | [Read More](https://medium.com/p/9203d4e6a9c6) |
+| Fri, 06 Jun 2025 19:57:01 GMT | Wireshark Beginner’s Guide (Comprehensive) | Analyst Atlas | [Read More](https://medium.com/p/1d96ec99613d) |
+| Fri, 06 Jun 2025 19:39:15 GMT | How I Spot a Suspicious Process on My Linux Server (Before It Does Damage) | Faruk Ahmed | [Read More](https://medium.com/p/b9092ce88f6f) |
 | Fri, 06 Jun 2025 19:30:07 GMT | Inside the Mind of the Enemy: What Drives Cyber Threat Actors and Why Proactive Defense Is… | Jair Abrego Cubilla | [Read More](https://medium.com/p/01ced0d34099) |
 | Fri, 06 Jun 2025 19:24:59 GMT | Applying OT safety culture to build a resilient CTI culture | Ian Lane | [Read More](https://medium.com/p/702006734d99) |
 | Fri, 06 Jun 2025 19:24:44 GMT | Defeating AV/EDRs: Advanced Evasion Techniques | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d389fb21478d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 14:04:55 GMT | Getting to Know the BSD Family: OpenBSD’s Role in Cybersecurity | Dhimas Lanang Nugroho | [Read More](https://medium.com/p/764ad1e26100) |
 | Fri, 06 Jun 2025 14:00:26 GMT | Cyber Briefing: 2025.06.06 | CyberMaterial | [Read More](https://medium.com/p/8e002a4ca8aa) |
 | Fri, 06 Jun 2025 13:55:26 GMT | Brooklyn Nine-Nine - TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/3d7a08c2151d) |
-| Fri, 06 Jun 2025 13:55:11 GMT | Metasploit 101: Senjata Rahasia Ethical Hacker | LunarX | [Read More](https://medium.com/p/2b446c090b38) |
-| Fri, 06 Jun 2025 13:53:19 GMT | Ironcorp | Tom | [Read More](https://medium.com/p/c1406556792c) |
-| Fri, 06 Jun 2025 13:49:55 GMT | The $4.88 Million Wake-Up Call: What Every Founder and CISO Must Know | Ronit Yadav | [Read More](https://medium.com/p/9ed0a4e2f484) |
-| Fri, 06 Jun 2025 13:49:52 GMT | How Modern Penetration Testing Tools Are Evolving to Tackle API and Cloud Threats | Sam Bishop | [Read More](https://medium.com/p/f42eb6f37a01) |
-| Fri, 06 Jun 2025 13:45:53 GMT | What Is ICS/SCADA, Type Of Attack, Historical Attack, And How To Prevent | jankoviche | [Read More](https://medium.com/p/e1eb3cee91e8) |
