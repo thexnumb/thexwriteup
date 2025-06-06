@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 06:25:34 GMT | The Corix Partners Friday Reading List — June 6, 2025 | JC Gaillard | [Read More](https://medium.com/p/88e1d410c8d9) |
+| Fri, 06 Jun 2025 06:25:01 GMT | How Neo Banks Empower Startups & How ITIO Innovex Helps You Launch One | Harshvardhan Singh | [Read More](https://medium.com/p/9197dee1033a) |
+| Fri, 06 Jun 2025 06:24:06 GMT | Understanding Cyber Security: A Comprehensive Overview for the Digital Age | certifiedethicalhacker | [Read More](https://medium.com/p/e5425a6de575) |
+| Fri, 06 Jun 2025 06:19:50 GMT | How a Tiny Click Nearly Took Down Our System | Tanish  Dewase! | [Read More](https://medium.com/p/bcd666eb57ae) |
+| Fri, 06 Jun 2025 06:16:36 GMT | Securing Your AKS Cluster with Gatekeeper (Open Policy Agent) | Sridhar | [Read More](https://medium.com/p/2b2c23893ea9) |
+| Fri, 06 Jun 2025 06:07:57 GMT | Is That Reward Really Yours? Uncovering Illicit Point Redemptions | Ruthie Owen-Moreno | [Read More](https://medium.com/p/e417930e4e21) |
+| Fri, 06 Jun 2025 06:05:50 GMT | How Platform Engineering Is Changing Software Development | Redblox.io | [Read More](https://medium.com/p/7b7504c8d627) |
+| Fri, 06 Jun 2025 06:00:50 GMT | Today’s Top Cyber Intelligence Highlights — Jun 06, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/bdad8493f3d5) |
+| Fri, 06 Jun 2025 05:57:35 GMT | BUG- First AI Powered, Voice Control, Ethical Hacking Device | Top DIY Electronics | [Read More](https://medium.com/p/817132a71f41) |
+| Fri, 06 Jun 2025 05:52:00 GMT | Ethical Hacking & Legal Considerations for Interns | Internshipgate | [Read More](https://medium.com/p/73b64a67e46d) |
+| Fri, 06 Jun 2025 05:51:15 GMT | Solution Of Lab: Unprotected admin functionality | SourceFul Space | [Read More](https://medium.com/p/0807ffba7c4a) |
+| Fri, 06 Jun 2025 05:48:33 GMT | Financial Sector Cybersecurity Threats & Internship Scope | Internshipgate | [Read More](https://medium.com/p/41909b0d352e) |
+| Fri, 06 Jun 2025 05:47:15 GMT | Navigating the Top Regulatory Frameworks for Indian FinTechs | COMPASS | [Read More](https://medium.com/p/8af547d89a82) |
+| Fri, 06 Jun 2025 05:46:07 GMT | 10 Practical API Hacking Tips That Will Save You Time | Pranieth Chandrasekara | [Read More](https://medium.com/p/838ab59a9179) |
+| Fri, 06 Jun 2025 05:40:24 GMT | Are Smart Phones Listening to Us? | Kailash Dinesh | [Read More](https://medium.com/p/8209584434aa) |
 | Fri, 06 Jun 2025 05:37:19 GMT | From Cybersecurity Intern to Security Analyst: Career Path | Internshipgate | [Read More](https://medium.com/p/ea042b95f796) |
 | Fri, 06 Jun 2025 05:35:14 GMT | One Click Account takeover | Isha Sangpal | [Read More](https://medium.com/p/38db9005533c) |
 | Fri, 06 Jun 2025 05:34:02 GMT | Why Penetration Testing is Critical
@@ -98,18 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Thu, 05 Jun 2025 19:40:36 GMT | Cyber Frontlines: A Pen Tester’s Dive into June 5, 2025’s Digital Warzone | hackerguy | [Read More](https://medium.com/p/0e4246d9b4a9) |
 | Thu, 05 Jun 2025 19:35:08 GMT | Why We Use CISO Assistant: An Open-Source GRC Tool That Actually Works | Rommel Jay Gadil | [Read More](https://medium.com/p/0c1f5f41bd1e) |
 | Thu, 05 Jun 2025 19:29:17 GMT | Digital Trenches: A Pen Tester’s Take on June 5, 2025’s Cybersecurity Inferno | Inforsecpro | [Read More](https://medium.com/p/025cf7628b48) |
-| Thu, 05 Jun 2025 19:16:15 GMT | Day 19 of #60DaysofGRC: Why Third Party Risk Management Is a Must-Have Program | Brittney Ginther | [Read More](https://medium.com/p/ce611b8b5262) |
-| Thu, 05 Jun 2025 19:15:57 GMT | Secrets Management in DevOps: Keeping Credentials Safe in a CI/CD World | Sandesh Kumar | [Read More](https://medium.com/p/61a8cb75f22c) |
-| Thu, 05 Jun 2025 18:57:56 GMT | Menjelajahi Wazuh Dashboard — Membaca Laporan dari ‘Mata-Mata’ Anda | Sigit Adi Irianto | [Read More](https://medium.com/p/094223db6599) |
-| Thu, 05 Jun 2025 18:56:47 GMT | Lessons from Pop Mart’s Chaotic Labubu Restocks | Theresa McFarlane | [Read More](https://medium.com/p/c7b8f8f3ff18) |
-| Thu, 05 Jun 2025 18:55:15 GMT | Breaking the Matrix: A Pen Tester’s Take on June 2025’s Cybersecurity Firestorm | Pentestjunkie07 | [Read More](https://medium.com/p/ac8baa241aab) |
-| Thu, 05 Jun 2025 18:52:42 GMT | S3 Enumeration Basics (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/6e1df9ecbb07) |
-| Thu, 05 Jun 2025 18:49:00 GMT | SOC Analysis of Event 316: SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing —… | Ray Maiden | [Read More](https://medium.com/p/e009b9066772) |
-| Thu, 05 Jun 2025 18:44:49 GMT | Intro to AWS IAM Enumeration (ACRTP) | Makayla Ferrell | [Read More](https://medium.com/p/c0e140ebc9d8) |
-| Thu, 05 Jun 2025 18:35:49 GMT | The Growing Importance of Cybersecurity in the Digital Age. | Hassan Magar | [Read More](https://medium.com/p/97384b834391) |
-| Thu, 05 Jun 2025 18:31:34 GMT | What is a VP²N, and What makes it a better VPN? | Chuck Wade | [Read More](https://medium.com/p/dfe47002d833) |
-| Thu, 05 Jun 2025 18:21:47 GMT | Logsensor️‍♂️ | Zer0-Crypt0 | [Read More](https://medium.com/p/9d9f2750b2bd) |
-| Thu, 05 Jun 2025 18:18:36 GMT | Drittparteienmanagement revolutionieren: Der strategische Leitfaden für sichere… | Philip Hansen | [Read More](https://medium.com/p/380e3a6a6a37) |
-| Thu, 05 Jun 2025 18:17:51 GMT | Certified Appsec Practitioner V2 (CAP) Review 2025 | Ittiwat | [Read More](https://medium.com/p/3dbdcd7beb8c) |
-| Thu, 05 Jun 2025 18:09:21 GMT | Unveiling Network Secrets: How to Analyze PCAP Files Like a Pro with NetworkMiner | Mubashir Rahman | [Read More](https://medium.com/p/a7b4093e99e3) |
-| Thu, 05 Jun 2025 18:05:36 GMT | When AI Lies, Hackers Win: The Rise of Slopsquatting in the Software Supply Chain | aditya nandedkar | [Read More](https://medium.com/p/42b4cc98de52) |
