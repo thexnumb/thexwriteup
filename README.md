@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 05:37:19 GMT | From Cybersecurity Intern to Security Analyst: Career Path | Internshipgate | [Read More](https://medium.com/p/ea042b95f796) |
+| Fri, 06 Jun 2025 05:35:14 GMT | One Click Account takeover | Isha Sangpal | [Read More](https://medium.com/p/38db9005533c) |
+| Fri, 06 Jun 2025 05:34:02 GMT | Why Penetration Testing is Critical
+for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9a9bc6360093) |
+| Fri, 06 Jun 2025 05:30:37 GMT | Quantum Computing vs. AI: The Next Cybersecurity Arms Race | Phanish Lakkarasu | [Read More](https://medium.com/p/90b276d8190c) |
+| Fri, 06 Jun 2025 05:28:20 GMT | You Can Be Seen Without Performing | YOU CAN | [Read More](https://medium.com/p/43dbecae15b5) |
 | Fri, 06 Jun 2025 05:16:12 GMT | The Unavoidable Reality of Software Bugs | Davor Pavlekovic | [Read More](https://medium.com/p/275e463572b8) |
 | Fri, 06 Jun 2025 05:16:11 GMT | Why I’m Preparing for OSCP After Years of Theory and Breaks | Sivaaditya | [Read More](https://medium.com/p/6f125dbdec67) |
 | Fri, 06 Jun 2025 05:11:19 GMT | How I Hacked 100+ Accounts Using Just XSS | Ibtissam hammadi | [Read More](https://medium.com/p/7cd61aa785c9) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Jun 2025 18:17:51 GMT | Certified Appsec Practitioner V2 (CAP) Review 2025 | Ittiwat | [Read More](https://medium.com/p/3dbdcd7beb8c) |
 | Thu, 05 Jun 2025 18:09:21 GMT | Unveiling Network Secrets: How to Analyze PCAP Files Like a Pro with NetworkMiner | Mubashir Rahman | [Read More](https://medium.com/p/a7b4093e99e3) |
 | Thu, 05 Jun 2025 18:05:36 GMT | When AI Lies, Hackers Win: The Rise of Slopsquatting in the Software Supply Chain | aditya nandedkar | [Read More](https://medium.com/p/42b4cc98de52) |
-| Thu, 05 Jun 2025 18:04:38 GMT | Outsmart Root Detection & Play Integrity: Run Any App on a Rooted Android | redhunter1444 | [Read More](https://medium.com/p/481d8d0f4904) |
-| Thu, 05 Jun 2025 18:03:09 GMT | How I Hacked My Way Through CEHv13 — Legally | Poornima Mahajan | [Read More](https://medium.com/p/56b0180fd058) |
-| Thu, 05 Jun 2025 17:57:11 GMT | Strengthening the Backbone of Critical Infrastructure: ICS/SCADA Cybersecurity | Akhdan Arif | [Read More](https://medium.com/p/8e64566a30eb) |
-| Thu, 05 Jun 2025 17:53:28 GMT | Picke Rick — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/1e38b98ab0fa) |
-| Thu, 05 Jun 2025 17:46:35 GMT | They Tried to Scam Me—This Is How I Outsmarted Them | Troy Steele | [Read More](https://medium.com/p/7c74a86131e2) |
