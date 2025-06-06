@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 07:25:51 GMT | Which is the Best certification for Linux in 2025 | cyber security Updates | [Read More](https://medium.com/p/4c34096e69a2) |
+| Fri, 06 Jun 2025 07:21:10 GMT | Authentication part-2 : 2FA simple bypass | Ahmad Sopyan | [Read More](https://medium.com/p/dceb4a530fb7) |
+| Fri, 06 Jun 2025 07:13:58 GMT | Bounty Hacker : TryHackMe Write-Up | Rindaman666 | [Read More](https://medium.com/p/025a45fbb8b2) |
 | Fri, 06 Jun 2025 07:11:09 GMT | What’s Really in a Security Audit? | Outsoft | [Read More](https://medium.com/p/45984e9e326f) |
 | Fri, 06 Jun 2025 07:09:30 GMT | ประจำวันศุกร์ที่ 6 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2b96c730ccf2) |
 | Fri, 06 Jun 2025 07:05:08 GMT | Choosing the Best Video Surveillance System for Your Needs | iTech Monitoring | [Read More](https://medium.com/p/2aae9f3a4a68) |
@@ -110,6 +113,3 @@ for Healthcare | OptiSol Business Solutions | [Read More](https://medium.com/p/9
 | Thu, 05 Jun 2025 20:39:27 GMT | When Data Becomes Danger: The Alarming AT&T Identity Leak and What It Means for You | Avnishyam | [Read More](https://medium.com/p/718dc9d95a30) |
 | Thu, 05 Jun 2025 20:34:50 GMT | Comprehensive Guide to IT Risk Management | Oleh Dubetcky | [Read More](https://medium.com/p/50366dcf6748) |
 | Thu, 05 Jun 2025 20:34:28 GMT | Exploring a Web3 Smart Contract Issue: Gas Exploitation via Unchecked Loops | Vinaysati | [Read More](https://medium.com/p/492f2899b417) |
-| Thu, 05 Jun 2025 20:27:06 GMT | Is it possible to recover my money from Nicehash | Sarah | [Read More](https://medium.com/p/c9c16355f870) |
-| Thu, 05 Jun 2025 20:22:02 GMT | Os hackers se importam comigo? | Nidaime Pedro | [Read More](https://medium.com/p/ac81d120c7ee) |
-| Thu, 05 Jun 2025 20:21:15 GMT | Mastering Cybersecurity: Earn Money and Protect Your Site | Ali_Ahmad | [Read More](https://medium.com/p/d85aae136a9f) |
