@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 17:07:17 GMT | One Site Wasn’t Enough… So I Took Them All  (Thanks, Business Logic Bug) | Rahul | [Read More](https://medium.com/p/8eba7c4688e0) |
+| Fri, 06 Jun 2025 17:04:05 GMT | How to Find Malicious Traffic with Wireshark (Beginner’s Guide) | Tejprakash | [Read More](https://medium.com/p/b558f6c8032d) |
+| Fri, 06 Jun 2025 17:02:13 GMT | 資安 x 潛水 x 風險管理：綠島的 Open Water Dive 開放水域潛水員證照訓練心得 | Kuro Huang | [Read More](https://medium.com/p/d7bf423cc281) |
+| Fri, 06 Jun 2025 16:50:15 GMT | CTF Day(8) | Ahmed Narmer | [Read More](https://medium.com/p/2498149057a6) |
 | Fri, 06 Jun 2025 16:42:08 GMT | Linux Hardening: Best Practices for Securing Your System | Zallnugraha | [Read More](https://medium.com/p/e3df7e4c6029) |
 | Fri, 06 Jun 2025 16:36:01 GMT | Cracking Passwords with Hashcat: Wordlist, Mask, and Hybrid Attacks Explained | Esra Kayhan | [Read More](https://medium.com/p/01f246615dcc) |
 | Fri, 06 Jun 2025 16:32:29 GMT | Brute Force Winbox MikroTik via MAC Address | Hasan Basyri | [Read More](https://medium.com/p/e0c28551819a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 12:21:23 GMT | Bithumb Review - This Is How I Recover My Money | Jenson Cameron | [Read More](https://medium.com/p/91c434a31b87) |
 | Fri, 06 Jun 2025 12:19:56 GMT | Here’s How I Recover My Money From Bithumb | Jenson Cameron | [Read More](https://medium.com/p/b79cc32dbbc4) |
 | Fri, 06 Jun 2025 12:17:38 GMT | The Blackflies Demand Ritual Sacrifice | Yours Truly, D. | [Read More](https://medium.com/p/73d0ab3df47f) |
-| Fri, 06 Jun 2025 12:15:41 GMT | How LLM-as-a-Judge Evaluation Improves Threat Intelligence | Michael Rico | [Read More](https://medium.com/p/784eb8394135) |
-| Fri, 06 Jun 2025 12:15:37 GMT | MD2PDF -tryhackme ctf -2025 | L4V4NY4  AGR3 | [Read More](https://medium.com/p/efc17335f97e) |
-| Fri, 06 Jun 2025 12:14:13 GMT | Application Security Posture Management — Transforming Risk Management | Akanksha | [Read More](https://medium.com/p/8450948dd7b8) |
-| Fri, 06 Jun 2025 12:01:39 GMT | T-Mobile 2025 Data Breach: What Went Wrong and How It Could Have Been Prevented | Ronit Yadav | [Read More](https://medium.com/p/2dbe31b61d83) |
