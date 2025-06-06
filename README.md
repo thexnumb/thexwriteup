@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Jun 2025 18:10:53 GMT | TryHackMe Write-up: Investigating with Splunk | Robert Onyango | [Read More](https://medium.com/p/8cf9c2f31f90) |
+| Fri, 06 Jun 2025 18:07:24 GMT | Still Soft | maple syrup fox | [Read More](https://medium.com/p/8e1a23e6adbc) |
+| Fri, 06 Jun 2025 18:02:34 GMT | CTF Day(9) | Ahmed Narmer | [Read More](https://medium.com/p/4a085ec154e8) |
+| Fri, 06 Jun 2025 18:00:17 GMT | Security in and around MCP: Part 1 — OAuth in MCP | Maia Iyer | [Read More](https://medium.com/p/3f15fed0dd6e) |
+| Fri, 06 Jun 2025 17:58:00 GMT | **A Step-by-Step Guide to Building and Troubleshooting a Multi-Block Corporate Network** | Daniel | [Read More](https://medium.com/p/bf38a51e84ac) |
+| Fri, 06 Jun 2025 17:53:22 GMT | The Weekly Threat Round-up 01/06/2025–06/06/2025 | RileyHv | [Read More](https://medium.com/p/55af84e32feb) |
+| Fri, 06 Jun 2025 17:38:00 GMT | ICS & SCADA: Siapa Sangka Sistem Industri Bisa Jadi Sasaran Hacker? | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/67afb34fd825) |
 | Fri, 06 Jun 2025 17:37:04 GMT | TheHackersLabs — Merchan | APS88 | [Read More](https://medium.com/p/98bdea98563f) |
+| Fri, 06 Jun 2025 17:35:28 GMT | Why On-Chain Analytics Should Be Part of Every Security Strategy | Decrypt0 | [Read More](https://medium.com/p/61980168e26c) |
 | Fri, 06 Jun 2025 17:26:38 GMT | The Future of Cloud Security with Microsoft Defender for Cloud | Techridge Solutions | [Read More](https://medium.com/p/7df1426d20c1) |
 | Fri, 06 Jun 2025 17:19:13 GMT | Cybersecurity News Review — Week 23 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f87adcee0bb1) |
 | Fri, 06 Jun 2025 17:15:39 GMT | The History and Adoption of MITRE ATT&CK and D3FEND | Fayyaz Rajpari | [Read More](https://medium.com/p/dabc652524f8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 13:03:33 GMT | Healing Systems in Vulnerable Communities: Reflections on a Global Conversation | @Place Matters | [Read More](https://medium.com/p/3db8adba45f1) |
 | Fri, 06 Jun 2025 13:02:14 GMT | Automate Your Compliance Workflows with Peris.ai | Peris.ai Cybersecurity | [Read More](https://medium.com/p/a1fcb59d8851) |
 | Fri, 06 Jun 2025 12:56:26 GMT | Golang Security: Best Practices for Safe Applications | Brooksolivia | [Read More](https://medium.com/p/7bbb7fbd8f63) |
-| Fri, 06 Jun 2025 12:56:16 GMT | Day 02 — SOC Home Lab Setup: Install Splunk & Load Logs Using MITRE-Based Sysmon Rules for Threat… | Nesar Uddin | [Read More](https://medium.com/p/6abb8680458a) |
-| Fri, 06 Jun 2025 12:51:46 GMT | Tokemak - Sherlock Defi 06/2023 Audit - High Severity finding - Always be careful when adding… | lodelux | [Read More](https://medium.com/p/eb8b5f2b4f83) |
-| Fri, 06 Jun 2025 12:51:21 GMT | Greedy Algorithm in Python | fijrisalwa | [Read More](https://medium.com/p/411e25083fb8) |
-| Fri, 06 Jun 2025 12:42:59 GMT | Critical Bug Chaining: Upload Form ➜ CSRF ➜ Extension Bypass ➜ RCE | El Professor Qais | [Read More](https://medium.com/p/0b772a37cc64) |
-| Fri, 06 Jun 2025 12:37:34 GMT | WHY CYBERSECURITY OFTEN FAILS: THE HIDDEN BATTLE BETWEEN SECURITY AND USABILITY | Kryptic_Fhrank | [Read More](https://medium.com/p/b73d66e0c1aa) |
-| Fri, 06 Jun 2025 12:35:21 GMT | When Being a Man Means Breaking Down | Joeybags | [Read More](https://medium.com/p/38fad83fc840) |
-| Fri, 06 Jun 2025 12:32:01 GMT | Top 11 Highest Paying Cybersecurity Certifications in 2025 | Amelia Miller | [Read More](https://medium.com/p/d6337cd17ed4) |
-| Fri, 06 Jun 2025 12:29:40 GMT | The perk you’ve been sleeping on | Daily Drop | [Read More](https://medium.com/p/6c7a6eb142c6) |
