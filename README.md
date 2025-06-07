@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 05:25:11 GMT | Server Hardening: Upaya Preventif Mengelola Risiko Siber | himawanazmi | [Read More](https://medium.com/p/6f872cae84da) |
+| Sat, 07 Jun 2025 05:23:27 GMT | ️ Broken Access Control — The Silent Gatekeeper Flaw (OWASP Top 10) | Sirivantesy | [Read More](https://medium.com/p/9f5c1b2a7a92) |
+| Sat, 07 Jun 2025 05:21:41 GMT | From Zero to Enterprise: A Deep Dive Into Cisco Network Configuration | Tonny Blair | [Read More](https://medium.com/p/ca81f0dd364e) |
+| Sat, 07 Jun 2025 05:16:25 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintai Infrastruktur Kritis | DhiyaaSheva | [Read More](https://medium.com/p/742b50919fb7) |
 | Sat, 07 Jun 2025 05:07:32 GMT | From Crust to Connection: A Beginner’s Guide to the OSI Model | Sirivantesy | [Read More](https://medium.com/p/700d7a79b588) |
 | Sat, 07 Jun 2025 05:05:52 GMT | Keep Saying ‘I Deserve Better’ Then Settle for the Same Bullsh*t Every Time | X-Plain | [Read More](https://medium.com/p/474ec8a3e759) |
 | Sat, 07 Jun 2025 05:02:45 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Simarjot Singh Maan | [Read More](https://medium.com/p/6d790f9bc601) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 19:02:44 GMT | Netflix Docuseries “Web of Lies: Death by SWAT” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/3db679e6f535) |
 | Fri, 06 Jun 2025 19:02:14 GMT | The Not-So-Secret Secrets of 2025: Are Your Passwords This Predictable? | Cyber Kavy | [Read More](https://medium.com/p/e33e072630e5) |
 | Fri, 06 Jun 2025 18:58:06 GMT | When Cyber Attacks Hit Your Bottom Line: Why Resilience Is Your New Competitive Edge | david cahn | [Read More](https://medium.com/p/e7026d8b2f54) |
-| Fri, 06 Jun 2025 18:46:44 GMT | The unlit eye and the broken wall | Net User File | [Read More](https://medium.com/p/e13d4fe11082) |
-| Fri, 06 Jun 2025 18:43:34 GMT | GIAC Security Essentials Certification Update — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/993803221b8f) |
-| Fri, 06 Jun 2025 18:43:23 GMT | The AI Wave: How to Stay Ahead of the Curve | Praveen Xavier | [Read More](https://medium.com/p/633706357b56) |
-| Fri, 06 Jun 2025 18:40:04 GMT | The Psychology Behind High-Converting Content | Zorawar Ali Khan | [Read More](https://medium.com/p/7054bed4de8d) |
