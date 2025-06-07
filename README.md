@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 10:13:37 GMT | 5 Digital Mindset Principles to Outsmart Online Scams | Divya Dangroshiya | [Read More](https://medium.com/p/f9475446a067) |
+| Sat, 07 Jun 2025 10:03:11 GMT | Dokumentasi Hardening SSH pada Kali Linux | Irfan Syarifudin | [Read More](https://medium.com/p/5be17d1e6279) |
+| Sat, 07 Jun 2025 10:02:14 GMT | You want to become a penetration tester? Learn this first. | Niklas Heringer | [Read More](https://medium.com/p/1152764748f7) |
+| Sat, 07 Jun 2025 09:59:47 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 5] | Aditya Bhatt | [Read More](https://medium.com/p/2791be30bd17) |
+| Sat, 07 Jun 2025 09:53:50 GMT | Uncovering the crypto trading bot (MEV) malware and full analysis | Mohammed Dief | [Read More](https://medium.com/p/f562eda467a1) |
+| Sat, 07 Jun 2025 09:52:09 GMT | PsExec Hunt Lab — Cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/6fcf181ac31d) |
+| Sat, 07 Jun 2025 09:45:15 GMT | $1,000 Bounty for Bypassing Restrictions via Modified HTTP Request | Gaurrav Luthra | [Read More](https://medium.com/p/8a195a72ded7) |
+| Sat, 07 Jun 2025 09:43:48 GMT | B.Tech in Cyber Security and Digital Forensics: Securing the Digital Future in Pune | Sourabh More | [Read More](https://medium.com/p/650b245a3c68) |
+| Sat, 07 Jun 2025 09:41:21 GMT | What Is XSS(Cross Site Scripting)? | Mejbankadir | [Read More](https://medium.com/p/2a2466eb0da7) |
+| Sat, 07 Jun 2025 09:38:12 GMT | Best Cybersecurity Courses for Beginners | cyber security Updates | [Read More](https://medium.com/p/d5c54060df7b) |
 | Sat, 07 Jun 2025 09:37:36 GMT | Artificial Intelligence: Ethical Considerations That Every Techie Should Know | FACE Prep Campus | [Read More](https://medium.com/p/e00de7de5ebf) |
 | Sat, 07 Jun 2025 09:25:03 GMT | ️ Hardening Linux ala Anak Security: Quick Tips untuk Meningkatkan Keamanan Sistem Linux | Ardhan Dimas Nuryadin | [Read More](https://medium.com/p/256cba6c8095) |
 | Sat, 07 Jun 2025 09:20:36 GMT | Zero Trust in 2025: Why You Can’t Trust Anyone in Cybersecurity | Tech Security | [Read More](https://medium.com/p/31900c2510c0) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 01:30:50 GMT | How a TryHackMe Box Gaslit Me Until C Saved the Day (Blog-CTF) | Ahengjnr | [Read More](https://medium.com/p/4ce01b7f636a) |
 | Sat, 07 Jun 2025 00:46:06 GMT | Dokumentasi Hardening SSH | Mukti Badriyan | [Read More](https://medium.com/p/a89401d87863) |
 | Sat, 07 Jun 2025 00:44:00 GMT | What happens when you generate a certificate for secure transmission of data | Prakash Valluri | [Read More](https://medium.com/p/0ef00b98eedc) |
-| Fri, 06 Jun 2025 23:58:34 GMT | The inadvertent inclusion of The Atlantic editor-in-chief Jeffrey Goldberg in a Signal group chat… | Vydaraureleus | [Read More](https://medium.com/p/e5e7a03286c3) |
-| Fri, 06 Jun 2025 23:32:21 GMT | Data Governance with Snowflake and GenAI | Abhishek Kumar Gupta | [Read More](https://medium.com/p/070157b93ad4) |
-| Fri, 06 Jun 2025 23:30:01 GMT | Quantifying Cyber Financial Impact: Step-by-Step Guide with Triangular Distribution | Mehdi | [Read More](https://medium.com/p/5204a23f7dc1) |
-| Fri, 06 Jun 2025 23:28:27 GMT | Beyond the Breach: A Legal Expert’s Guide to Surviving Cyber Threats in the AI Era | Frank Gullo | [Read More](https://medium.com/p/9f12ed72c52b) |
-| Fri, 06 Jun 2025 23:04:00 GMT | HTB’s “Administrator” Machine Walkthrough | ma40ou | [Read More](https://medium.com/p/f2151bd1c43a) |
-| Fri, 06 Jun 2025 22:52:02 GMT | A New Risk: Thought Time Bombs | Wrangler | [Read More](https://medium.com/p/4c121f056b94) |
-| Fri, 06 Jun 2025 22:48:32 GMT | Okay, But Are You Allowed? | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/6bdfc195eacf) |
-| Fri, 06 Jun 2025 22:35:07 GMT | The AI Agent That Almost Became a Corporate Spy | Nwosu Rosemary | [Read More](https://medium.com/p/a41a7ea21c3e) |
-| Fri, 06 Jun 2025 22:33:37 GMT | Mastering Suricata: A Practical Guide to Inline IPS Deployment | ierdnA | [Read More](https://medium.com/p/95d3e57f36f0) |
-| Fri, 06 Jun 2025 22:25:25 GMT | The Rise of AI in Lending: How Renown Lending is Shaping the Future of Finance | Kalpi Prasad - Renown Lending | [Read More](https://medium.com/p/334ee3ceafc6) |
