@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 14:37:14 GMT | Crop Breaker — BruteForce tools for PDF & ZIP | AjiPangesstu | [Read More](https://medium.com/p/1f319d5aaf52) |
+| Sat, 07 Jun 2025 14:36:26 GMT | Designed to Defend: How YagminAI Embodies Secure-by-Design AI | Pete Yagmin | [Read More](https://medium.com/p/a8dbdc83619f) |
+| Sat, 07 Jun 2025 14:27:25 GMT | How to Use SocialBox in Termux: A Beginner-Friendly Guide | Kambetastephano | [Read More](https://medium.com/p/8f285a5aedd6) |
+| Sat, 07 Jun 2025 14:26:28 GMT | Minimum Viable Security, Part 1: What to Fix Before Your Product Goes Live | Rajesh Kanade | [Read More](https://medium.com/p/ec9b4ca9e416) |
 | Sat, 07 Jun 2025 14:17:00 GMT | The Exploitation of Trust Relationships | 0zn0g | [Read More](https://medium.com/p/1f3a343f8d84) |
 | Sat, 07 Jun 2025 14:14:46 GMT | Friday Edition — Threat Actor Activity | SecurityPulse News | [Read More](https://medium.com/p/2b6a07c080b9) |
 | Sat, 07 Jun 2025 14:11:35 GMT | Consent Theater: How Privacy Notices Lie to Your Face | MrsNo1Special | [Read More](https://medium.com/p/6ee4a7f14050) |
+| Sat, 07 Jun 2025 14:11:06 GMT | Brute Force Non IP-Based (ZIP Attack) | Noa | [Read More](https://medium.com/p/cb02a42aec13) |
 | Sat, 07 Jun 2025 14:09:22 GMT | The Pentester’s Arsenal: 25 Commands That Actually Work in 2025 | Saikat Paul | [Read More](https://medium.com/p/90d9dd2f51eb) |
 | Sat, 07 Jun 2025 14:09:08 GMT | ICS/SCADA | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/5c095230f887) |
 | Sat, 07 Jun 2025 14:06:29 GMT | Cybersecurity and Climate: When Disasters Become Digital Entry Points | MrsNo1Special | [Read More](https://medium.com/p/dfba0ffcfc51) |
@@ -108,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 08:17:18 GMT | ATM Security Guard Services in Delhi NCR: 24x7 Protection for Your Financial Safety | Anshikaaa | [Read More](https://medium.com/p/d285b255afec) |
 | Sat, 07 Jun 2025 08:16:54 GMT | Vibe Coding in Cyber-Security -The Future of Hacking with AI - Trae,Cursor,windsurf,AI Driven… | Mejbankadir | [Read More](https://medium.com/p/4516a28eede4) |
 | Sat, 07 Jun 2025 08:08:43 GMT | Cyber Threats: How Powerful Are Attacks on ICS/SCADA Systems? | HETSHI | [Read More](https://medium.com/p/caebb6d398a1) |
-| Sat, 07 Jun 2025 08:03:55 GMT | Identity in the Hands of the Citizen | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/7d2506a8a596) |
-| Sat, 07 Jun 2025 07:48:09 GMT | Claim $DORK Tokens  in No Time | Courtney
- Wilson | [Read More](https://medium.com/p/38f3b249f0bd) |
-| Sat, 07 Jun 2025 07:47:54 GMT | Track the Hacks: A Forensic Dive into SSTV Signals — Real Case File Forensic | byuda | [Read More](https://medium.com/p/6a6c18703f07) |
-| Sat, 07 Jun 2025 07:46:04 GMT | Fortifying SSH: A Practical Guide to Hardening Linux SSH | Bumi Arya Dirangga | [Read More](https://medium.com/p/9175fbf9f62e) |
-| Sat, 07 Jun 2025 07:42:17 GMT | Why Today’s Most Popular Accounts Are at Risk | Amritanshu Prashar | [Read More](https://medium.com/p/8f16cf2b0e63) |
