@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 03:52:07 GMT | From Disaster to Recovery in Minutes: 50 Essential Cron Jobs | Saikat Paul | [Read More](https://medium.com/p/5914a4554615) |
+| Sat, 07 Jun 2025 03:39:35 GMT | How to Secure Your Web Application with an SSL Certificate | Sachini Weerakkody | [Read More](https://medium.com/p/73aef2318cbc) |
+| Sat, 07 Jun 2025 03:35:56 GMT | Brute Force File ZIP dengan Python: Panduan Lengkap dari Nol untuk Pemula | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/30b45368dff7) |
+| Sat, 07 Jun 2025 03:25:13 GMT | If you listen to birds, every day will have a song in it. | Anote Jonathan | [Read More](https://medium.com/p/b88d81b10608) |
+| Sat, 07 Jun 2025 03:19:37 GMT | Day 88: Understanding Security Data Lakes | Bl@ckC!pH3r | [Read More](https://medium.com/p/2150df581a4b) |
+| Sat, 07 Jun 2025 03:11:41 GMT | Day 81: Top SOC Use Cases You Need to Know | Bl@ckC!pH3r | [Read More](https://medium.com/p/d7195e7c52cb) |
+| Sat, 07 Jun 2025 03:10:32 GMT | Day 80: Staying Strong — How to Avoid Burnout in Cybersecurity | Bl@ckC!pH3r | [Read More](https://medium.com/p/2ebf1fa01d86) |
 | Sat, 07 Jun 2025 03:08:43 GMT | Day 78: Personal Branding for Beginners | Bl@ckC!pH3r | [Read More](https://medium.com/p/8dbc70ac7c67) |
 | Sat, 07 Jun 2025 02:56:22 GMT | ADS (Automated Driving System) Security | Utsav Sapkota | [Read More](https://medium.com/p/dfca53c08b80) |
 | Sat, 07 Jun 2025 02:55:42 GMT | Windows 11 CVE Exposure and Hacker Exploitation of Unpatched Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/d88f109fa3f2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 17:35:28 GMT | Why On-Chain Analytics Should Be Part of Every Security Strategy | Decrypt0 | [Read More](https://medium.com/p/61980168e26c) |
 | Fri, 06 Jun 2025 17:26:38 GMT | The Future of Cloud Security with Microsoft Defender for Cloud | Techridge Solutions | [Read More](https://medium.com/p/7df1426d20c1) |
 | Fri, 06 Jun 2025 17:19:13 GMT | Cybersecurity News Review — Week 23 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f87adcee0bb1) |
-| Fri, 06 Jun 2025 17:15:39 GMT | The History and Adoption of MITRE ATT&CK and D3FEND | Fayyaz Rajpari | [Read More](https://medium.com/p/dabc652524f8) |
-| Fri, 06 Jun 2025 17:15:35 GMT | Why Ransomware Targets Server Backup Files — And How to Protect Them | Sundeep Maan | [Read More](https://medium.com/p/46e2644b2ff6) |
-| Fri, 06 Jun 2025 17:15:29 GMT | Puppy HTB — Full Walkthrough | Gh0stSp10iT | [Read More](https://medium.com/p/cb5d1d9e8ba2) |
-| Fri, 06 Jun 2025 17:07:17 GMT | One Site Wasn’t Enough… So I Took Them All  (Thanks, Business Logic Bug) | Rahul | [Read More](https://medium.com/p/8eba7c4688e0) |
-| Fri, 06 Jun 2025 17:04:05 GMT | How to Find Malicious Traffic with Wireshark (Beginner’s Guide) | Tejprakash | [Read More](https://medium.com/p/b558f6c8032d) |
-| Fri, 06 Jun 2025 17:02:13 GMT | 資安 x 潛水 x 風險管理：綠島的 Open Water Dive 開放水域潛水員證照訓練心得 | Kuro Huang | [Read More](https://medium.com/p/d7bf423cc281) |
-| Fri, 06 Jun 2025 16:50:15 GMT | CTF Day(8) | Ahmed Narmer | [Read More](https://medium.com/p/2498149057a6) |
