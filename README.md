@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 03:08:43 GMT | Day 78: Personal Branding for Beginners | Bl@ckC!pH3r | [Read More](https://medium.com/p/8dbc70ac7c67) |
+| Sat, 07 Jun 2025 02:56:22 GMT | ADS (Automated Driving System) Security | Utsav Sapkota | [Read More](https://medium.com/p/dfca53c08b80) |
+| Sat, 07 Jun 2025 02:55:42 GMT | Windows 11 CVE Exposure and Hacker Exploitation of Unpatched Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/d88f109fa3f2) |
+| Sat, 07 Jun 2025 02:54:23 GMT | SIEM Adoption Across Leading Markets in Asia | David SEHYEON Baek | [Read More](https://medium.com/p/08bb8c01d2bd) |
+| Sat, 07 Jun 2025 02:51:40 GMT | The Fragility of Cloud-Based Cybersecurity — Beyond the Cases of CrowdStrike and SentinelOne | David SEHYEON Baek | [Read More](https://medium.com/p/f0d35941977d) |
+| Sat, 07 Jun 2025 02:49:12 GMT | How Dark Web Markets and Underground Platforms Are Transforming in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/0401e19ab2ed) |
+| Sat, 07 Jun 2025 02:47:58 GMT | Hacking Techniques and Real-World WhatsApp Security Breaches | David SEHYEON Baek | [Read More](https://medium.com/p/e06d1db64352) |
+| Sat, 07 Jun 2025 02:46:11 GMT | North Korean Hackers Target Cryptocurrency Developers Through LinkedIn Recruitment Scams | David SEHYEON Baek | [Read More](https://medium.com/p/904a9bc15dbf) |
+| Sat, 07 Jun 2025 02:37:30 GMT | Smart Building & Facility Management with Blockchain–Edge Fusion | A-STAR7_DOCTOR | [Read More](https://medium.com/p/003a95d0d6bd) |
+| Sat, 07 Jun 2025 02:32:13 GMT | Deepfake Detection: The Next Frontier in Cybersecurity | Parth Patel | [Read More](https://medium.com/p/c1c9ea33d0af) |
+| Sat, 07 Jun 2025 02:30:16 GMT | THM Billing Walkthrough | Victor Khattar (PentaK) | [Read More](https://medium.com/p/1948789b2d96) |
+| Sat, 07 Jun 2025 02:16:59 GMT | Quarter Parking Lot Moon | Daniela Králová | [Read More](https://medium.com/p/1be98537dd05) |
+| Sat, 07 Jun 2025 02:11:37 GMT | Why Deloitte Faces Ongoing Risk from Infostealer Malware — Insights from a Real Incident | David SEHYEON Baek | [Read More](https://medium.com/p/b7f33e1a47e0) |
+| Sat, 07 Jun 2025 02:09:31 GMT | Cybersecurity Challenges and Incidents in Vodafone’s Global Operations | David SEHYEON Baek | [Read More](https://medium.com/p/3cd70b807b57) |
+| Sat, 07 Jun 2025 02:08:37 GMT | CIA vs DAD Triad | Mr.Cool | [Read More](https://medium.com/p/99f0f6684997) |
+| Sat, 07 Jun 2025 02:06:52 GMT | The 2016 Cyberattack on Thailand’s Ministry of Foreign Affairs | David SEHYEON Baek | [Read More](https://medium.com/p/54475915846c) |
+| Sat, 07 Jun 2025 02:05:57 GMT | Cryptocurrencies and NFTs in the Post-Quantum Era | Max Rolando Menéndez Barreras | [Read More](https://medium.com/p/669875749ce9) |
 | Sat, 07 Jun 2025 01:32:22 GMT | L’ascension du Vibe Hacking : la nouvelle menace de l’IA | L'ABESTIT | [Read More](https://medium.com/p/6d913e2e9f79) |
 | Sat, 07 Jun 2025 01:31:50 GMT | Les arnaques deepfake bouleversent la réalité : attention danger ! | L'ABESTIT | [Read More](https://medium.com/p/27ba51d50ad1) |
 | Sat, 07 Jun 2025 01:30:50 GMT | How a TryHackMe Box Gaslit Me Until C Saved the Day (Blog-CTF) | Ahengjnr | [Read More](https://medium.com/p/4ce01b7f636a) |
@@ -56,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 20:18:24 GMT | ClickFix Attack: An In-Depth Analysis of Its Mechanisms, Impacts, and Mitigation Strategies | Simon Augustine | [Read More](https://medium.com/p/a2d8a6acbbfd) |
 | Fri, 06 Jun 2025 20:16:39 GMT | Don’t Scan Random QR Codes | StillHere | [Read More](https://medium.com/p/3c07796b1115) |
 | Fri, 06 Jun 2025 20:13:25 GMT | Cyber Siege Unveiled: A Pen Tester’s Deep Dive into June 6, 2025’s Digital Chaos | hackerguy | [Read More](https://medium.com/p/58943b62dd49) |
+| Fri, 06 Jun 2025 20:00:17 GMT | Hire an Ethical Hacker to Expose Infidelity: A 2025 Guide — CyberSpac3 | Victor Palumbo | [Read More](https://medium.com/p/6161037d8cc4) |
 | Fri, 06 Jun 2025 19:58:28 GMT | CTF Day(10) | Ahmed Narmer | [Read More](https://medium.com/p/9203d4e6a9c6) |
 | Fri, 06 Jun 2025 19:57:01 GMT | Wireshark Beginner’s Guide (Comprehensive) | Analyst Atlas | [Read More](https://medium.com/p/1d96ec99613d) |
 | Fri, 06 Jun 2025 19:39:15 GMT | How I Spot a Suspicious Process on My Linux Server (Before It Does Damage) | Faruk Ahmed | [Read More](https://medium.com/p/b9092ce88f6f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 17:04:05 GMT | How to Find Malicious Traffic with Wireshark (Beginner’s Guide) | Tejprakash | [Read More](https://medium.com/p/b558f6c8032d) |
 | Fri, 06 Jun 2025 17:02:13 GMT | 資安 x 潛水 x 風險管理：綠島的 Open Water Dive 開放水域潛水員證照訓練心得 | Kuro Huang | [Read More](https://medium.com/p/d7bf423cc281) |
 | Fri, 06 Jun 2025 16:50:15 GMT | CTF Day(8) | Ahmed Narmer | [Read More](https://medium.com/p/2498149057a6) |
-| Fri, 06 Jun 2025 16:42:08 GMT | Linux Hardening: Best Practices for Securing Your System | Zallnugraha | [Read More](https://medium.com/p/e3df7e4c6029) |
-| Fri, 06 Jun 2025 16:36:01 GMT | Cracking Passwords with Hashcat: Wordlist, Mask, and Hybrid Attacks Explained | Esra Kayhan | [Read More](https://medium.com/p/01f246615dcc) |
-| Fri, 06 Jun 2025 16:32:29 GMT | Brute Force Winbox MikroTik via MAC Address | Hasan Basyri | [Read More](https://medium.com/p/e0c28551819a) |
-| Fri, 06 Jun 2025 16:30:39 GMT | Cybersecurity Essentials by EC-Council #NAIYANNOOR | Naiyan Noor | [Read More](https://medium.com/p/3685070a5598) |
-| Fri, 06 Jun 2025 16:25:51 GMT | 7 Obvious Signs Top Email Scammers Use to Contact You | Tom Handy | [Read More](https://medium.com/p/bc91f5dc4f6d) |
-| Fri, 06 Jun 2025 16:24:12 GMT | This Is How You Should Secure Your Spring Cloud Applications After the CVE-2025–41235 Patch | DevTrendsDaily | [Read More](https://medium.com/p/0b6ddd1a2e9b) |
-| Fri, 06 Jun 2025 16:21:52 GMT | How I recover my money from Henxminer | Gina | [Read More](https://medium.com/p/6351ef57d2b0) |
-| Fri, 06 Jun 2025 16:14:25 GMT | Technicity Chronicle: 10 Essential Cybersecurity Tips For 2025 | Faisal Khan | [Read More](https://medium.com/p/2ec73dcc994c) |
-| Fri, 06 Jun 2025 16:05:16 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/be3c84d22dc2) |
-| Fri, 06 Jun 2025 16:04:37 GMT | Machine Identity Attacks: The $15K Vulnerability Class Nobody’s Testing | Andrei Ivan | [Read More](https://medium.com/p/25653be0df28) |
-| Fri, 06 Jun 2025 16:04:28 GMT | Hack the Box — Archetype | Anthony M. Bahn | [Read More](https://medium.com/p/cc77c15954f1) |
-| Fri, 06 Jun 2025 16:02:11 GMT | Demystifying API Authentication — Part1 | Leela Kumili | [Read More](https://medium.com/p/8ba791ff45aa) |
-| Fri, 06 Jun 2025 16:02:09 GMT | From Educator to CyberDev: My Journey into Cybersecurity (How I'd Do It in 2025) | Devore McIntosh | [Read More](https://medium.com/p/ed2ecac29105) |
-| Fri, 06 Jun 2025 15:51:27 GMT | Teardrop DDoS Attack Guide: Mitigate & Navigate | SafeAeon Inc. | [Read More](https://medium.com/p/cd9e21276be6) |
-| Fri, 06 Jun 2025 15:47:27 GMT | Lespion Lab — CyberDefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/9cc06a4e437b) |
-| Fri, 06 Jun 2025 15:47:21 GMT | ️‍♂️ GitHub Dorking for Bug Bounty: Hackers' Hidden Playground | 127.0.0.1 | [Read More](https://medium.com/p/b21732fcc00d) |
-| Fri, 06 Jun 2025 15:45:55 GMT | MYSQL SECURITY HARDENING GUIDE | Defri Wanda | [Read More](https://medium.com/p/dcf811adeaa1) |
-| Fri, 06 Jun 2025 15:42:02 GMT | PwnOS 1: A Complete Black-Box Pentest Walkthrough | ma40ou | [Read More](https://medium.com/p/65fc39d20487) |
