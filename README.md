@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 22:29:18 GMT | RedTiger: Advanced Automated XSS Vulnerability Testing Tool | medjahdi | [Read More](https://medium.com/p/a506706767dc) |
 | Sat, 07 Jun 2025 22:04:31 GMT | TryHackMe — NetSec Challenge (Medium Difficulty) | Saassoso | [Read More](https://medium.com/p/3b4dcbc82847) |
 | Sat, 07 Jun 2025 21:56:37 GMT | The Stego Chronicles: Achieving Perfect Undetectability in An Imperfect Digital World | Ian Barwise | [Read More](https://medium.com/p/92e77544beb9) |
 | Sat, 07 Jun 2025 21:53:52 GMT | SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing | Raynard Waits | [Read More](https://medium.com/p/16d264f37bcf) |
@@ -113,4 +114,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 14:26:28 GMT | Minimum Viable Security, Part 1: What to Fix Before Your Product Goes Live | Rajesh Kanade | [Read More](https://medium.com/p/ec9b4ca9e416) |
 | Sat, 07 Jun 2025 14:17:00 GMT | The Exploitation of Trust Relationships | 0zn0g | [Read More](https://medium.com/p/1f3a343f8d84) |
 | Sat, 07 Jun 2025 14:14:46 GMT | Friday Edition — Threat Actor Activity | SecurityPulse News | [Read More](https://medium.com/p/2b6a07c080b9) |
-| Sat, 07 Jun 2025 14:11:35 GMT | Consent Theater: How Privacy Notices Lie to Your Face | MrsNo1Special | [Read More](https://medium.com/p/6ee4a7f14050) |
