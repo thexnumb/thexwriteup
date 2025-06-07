@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 08:21:06 GMT | Abuse-ception: How I Turned the Abuse Report Feature Into a Mass Email Spammer | Iski | [Read More](https://medium.com/p/38b38a4c3c36) |
+| Sat, 07 Jun 2025 08:17:18 GMT | ATM Security Guard Services in Delhi NCR: 24x7 Protection for Your Financial Safety | Anshikaaa | [Read More](https://medium.com/p/d285b255afec) |
+| Sat, 07 Jun 2025 08:16:54 GMT | Vibe Coding in Cyber-Security -The Future of Hacking with AI - Trae,Cursor,windsurf,AI Driven… | Mejbankadir | [Read More](https://medium.com/p/4516a28eede4) |
+| Sat, 07 Jun 2025 08:08:43 GMT | Cyber Threats: How Powerful Are Attacks on ICS/SCADA Systems? | HETSHI | [Read More](https://medium.com/p/caebb6d398a1) |
+| Sat, 07 Jun 2025 08:03:55 GMT | Identity in the Hands of the Citizen | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/7d2506a8a596) |
+| Sat, 07 Jun 2025 07:48:09 GMT | Claim $DORK Tokens  in No Time | Courtney
+ Wilson | [Read More](https://medium.com/p/38f3b249f0bd) |
+| Sat, 07 Jun 2025 07:47:54 GMT | Track the Hacks: A Forensic Dive into SSTV Signals — Real Case File Forensic | byuda | [Read More](https://medium.com/p/6a6c18703f07) |
+| Sat, 07 Jun 2025 07:46:04 GMT | Fortifying SSH: A Practical Guide to Hardening Linux SSH | Bumi Arya Dirangga | [Read More](https://medium.com/p/9175fbf9f62e) |
+| Sat, 07 Jun 2025 07:42:17 GMT | Why Today’s Most Popular Accounts Are at Risk | Amritanshu Prashar | [Read More](https://medium.com/p/8f16cf2b0e63) |
 | Sat, 07 Jun 2025 07:27:24 GMT | Network Penetration Testing is the process of simulating  network infrastructure to discover… | GABBYTECH | [Read More](https://medium.com/p/50d38ff3dc48) |
 | Sat, 07 Jun 2025 07:26:13 GMT | Catching LOLBins in Action: Practical Detection Queries | Paritosh | [Read More](https://medium.com/p/f848a65dc82c) |
 | Sat, 07 Jun 2025 07:16:12 GMT | HARDENING UMUM SISTEM LINUX | My Ego | [Read More](https://medium.com/p/4d3351322f3b) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 21:11:52 GMT | Key challenges of hybrid cloud adoption 2025 | IT_Engineer | [Read More](https://medium.com/p/2eab0e1f8552) |
 | Fri, 06 Jun 2025 21:10:00 GMT | ️ Living Off the Land Attacks: The Invisible Threat Inside Your Network | Ekene Joseph | [Read More](https://medium.com/p/1ec06d78d94b) |
 | Fri, 06 Jun 2025 20:57:40 GMT | From ‘Are we crazy?’ to RBAC | Vineet Sarpal | [Read More](https://medium.com/p/093120970b16) |
-| Fri, 06 Jun 2025 20:54:39 GMT | **Bubblemaps: The Sherlock Holmes of Blockchain Transparency** | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/4f7748fdd4ad) |
-| Fri, 06 Jun 2025 20:54:21 GMT | Best-in-Class AI Solutions for Fraud, Risk and Compliance | Peter Bordes | [Read More](https://medium.com/p/754fdd18c91e) |
-| Fri, 06 Jun 2025 20:52:11 GMT | How I Found a Secondary SQL Injection in a Top 3 Gaming Platform | Waleed Osama | [Read More](https://medium.com/p/abdd4eb461a7) |
-| Fri, 06 Jun 2025 20:50:28 GMT | Defensive Looping | Mi'kail Eli'yah | [Read More](https://medium.com/p/6cfce07c35de) |
-| Fri, 06 Jun 2025 20:40:50 GMT | Did You Know Someone Can Hijack Your Router or Mobile privacy in 10 Seconds? | Sayeed Al Amodi | [Read More](https://medium.com/p/b826ad73cb23) |
-| Fri, 06 Jun 2025 20:37:06 GMT | “What’s Hiding Inside Your Files? The Invisible Threats of the Digital Era” | Fatul Ramdani | [Read More](https://medium.com/p/c26e06668c69) |
-| Fri, 06 Jun 2025 20:36:05 GMT | Kenalan Dengan Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition… | Ardhan Dimas Nuryadin | [Read More](https://medium.com/p/32b912cc7a98) |
-| Fri, 06 Jun 2025 20:31:43 GMT | The Complexity of Cybersecurity Frameworks is a Threat to Cybersecurity Resilience and Compliance… | Armandoseay | [Read More](https://medium.com/p/8a7072a18f92) |
-| Fri, 06 Jun 2025 20:31:23 GMT | THM — Disgruntled Writeup (Linux Forensics) | Shamar Isaac | [Read More](https://medium.com/p/774169b6d068) |
