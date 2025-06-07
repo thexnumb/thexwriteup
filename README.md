@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 15:35:21 GMT | How to Configure a Firewall for Maximum Security: A Complete Guide | Ekene Joseph | [Read More](https://medium.com/p/f4a9f1178041) |
+| Sat, 07 Jun 2025 15:15:31 GMT | ID | LonomiaO | [Read More](https://medium.com/p/786f7387f0a5) |
+| Sat, 07 Jun 2025 15:12:45 GMT | Cybersecurity Threats in 2025: Persistent Risks | Orgito | [Read More](https://medium.com/p/afe1e442a73c) |
 | Sat, 07 Jun 2025 15:12:09 GMT | Beginner’s Luck? I Found Remote Code Execution on a .GOV Site While Learning ✨ | El Professor Qais | [Read More](https://medium.com/p/a15cc2001a4e) |
+| Sat, 07 Jun 2025 15:10:36 GMT | Zero Trust Networks: A Revolutionary New Cybersecurity Paradigm | Mazhar Imran | [Read More](https://medium.com/p/f6752dc63b69) |
 | Sat, 07 Jun 2025 15:09:23 GMT | Travel to Thrive: Exploring the World’s Happiest, Healthiest, and Safest Countries in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/068921552aa8) |
 | Sat, 07 Jun 2025 15:08:28 GMT | How To Claim $BOUNTY  Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/c3607a711d75) |
 | Sat, 07 Jun 2025 15:06:56 GMT | Housekeeping & Security: Go Your Own Speed | EXLITY | [Read More](https://medium.com/p/6534219cab7b) |
@@ -110,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 09:45:15 GMT | $1,000 Bounty for Bypassing Restrictions via Modified HTTP Request | Gaurrav Luthra | [Read More](https://medium.com/p/8a195a72ded7) |
 | Sat, 07 Jun 2025 09:43:48 GMT | B.Tech in Cyber Security and Digital Forensics: Securing the Digital Future in Pune | Sourabh More | [Read More](https://medium.com/p/650b245a3c68) |
 | Sat, 07 Jun 2025 09:41:21 GMT | What Is XSS(Cross Site Scripting)? | Mejbankadir | [Read More](https://medium.com/p/2a2466eb0da7) |
-| Sat, 07 Jun 2025 09:38:12 GMT | Best Cybersecurity Courses for Beginners | cyber security Updates | [Read More](https://medium.com/p/d5c54060df7b) |
-| Sat, 07 Jun 2025 09:37:36 GMT | Artificial Intelligence: Ethical Considerations That Every Techie Should Know | FACE Prep Campus | [Read More](https://medium.com/p/e00de7de5ebf) |
-| Sat, 07 Jun 2025 09:25:03 GMT | ️ Hardening Linux ala Anak Security: Quick Tips untuk Meningkatkan Keamanan Sistem Linux | Ardhan Dimas Nuryadin | [Read More](https://medium.com/p/256cba6c8095) |
-| Sat, 07 Jun 2025 09:20:36 GMT | Zero Trust in 2025: Why You Can’t Trust Anyone in Cybersecurity | Tech Security | [Read More](https://medium.com/p/31900c2510c0) |
