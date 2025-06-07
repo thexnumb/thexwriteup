@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 18:02:10 GMT | Crypto kidnappings, Courtroom data wars, and TikTok’s AI power play: The Week in Focus by Hiswai | Qandeel Akhtar | [Read More](https://medium.com/p/240f5b68d07b) |
+| Sat, 07 Jun 2025 17:52:34 GMT | The BADBOX Botnet Returns: A Silent Invasion Through Your Smart Devices | Siva Gunasekaran | [Read More](https://medium.com/p/8fd8ba427f59) |
 | Sat, 07 Jun 2025 17:34:19 GMT | Post‑Quantum Cryptography Takes Center Stage at Infosecurity Europe 2025 | QuantumGenie | [Read More](https://medium.com/p/3887d87dce1d) |
+| Sat, 07 Jun 2025 17:30:00 GMT | Uso de Dependências Diretas e indiretas | Perla C. S | [Read More](https://medium.com/p/378b3c341637) |
 | Sat, 07 Jun 2025 17:29:38 GMT | Control and oversight of Autonomous AI Agents in economic systems | Tamerlan | [Read More](https://medium.com/p/09f58bfb297a) |
 | Sat, 07 Jun 2025 17:23:05 GMT | Securing the Future | Ed-it Editions | [Read More](https://medium.com/p/383858782134) |
 | Sat, 07 Jun 2025 17:18:00 GMT | Here’s How I Recover My Money From RAIZ INVEST AUSTRALIA LIMITED | Seth Jamieson | [Read More](https://medium.com/p/778f04a7d7a4) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 12:07:06 GMT | Corporate Greed Chronicles: Proctor and Gamble’s Layoff Masquerade | Namir Sagheenanajar | [Read More](https://medium.com/p/922ab64bef6e) |
 | Sat, 07 Jun 2025 12:03:07 GMT | Claude Goes to Washington: Anthropic’s New AI Models for National Security ️ | Ismail Tasdelen | [Read More](https://medium.com/p/6800ff555674) |
 | Sat, 07 Jun 2025 12:01:20 GMT | Reverse Shell Practice | Hunter Yoo | [Read More](https://medium.com/p/c5e1891f2269) |
-| Sat, 07 Jun 2025 12:00:32 GMT | Unmasking the Shadow Gangs: How Criminal Networks Fabricate Terrorism to Silence Security Experts | SIMKRA | [Read More](https://medium.com/p/7c3e424b734b) |
-| Sat, 07 Jun 2025 12:00:02 GMT | Italy’s Spyware Scandal: The Paragon Affair That Shook Italian Democracy | Ismail Tasdelen | [Read More](https://medium.com/p/81497ae1802e) |
-| Sat, 07 Jun 2025 11:56:07 GMT | The KiranaPro Data Disaster: A Cautionary Tale of Cyber Security Gone Wrong | Ismail Tasdelen | [Read More](https://medium.com/p/549f296fd3f6) |
