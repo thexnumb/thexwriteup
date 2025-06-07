@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 21:03:05 GMT | Saturday Edition — General Cyber News Summary | SecurityPulse News | [Read More](https://medium.com/p/74e8b66be578) |
+| Sat, 07 Jun 2025 21:02:37 GMT | TTAT+ Meets Generative AI: Securing the Next Frontier of Automated Threat Generation | Jeffrey Nickle | [Read More](https://medium.com/p/7603835b8469) |
+| Sat, 07 Jun 2025 20:54:20 GMT | VULNERABILITY | Gbemisola Lanre-Sobona | [Read More](https://medium.com/p/a066e3fa47ea) |
 | Sat, 07 Jun 2025 20:32:13 GMT | Cross-Site Scripting (XSS) Exploitation Techniques | musayyab sharif | [Read More](https://medium.com/p/0f6d7f6d0d6e) |
+| Sat, 07 Jun 2025 20:30:21 GMT | Navigating Directories and Reading Files on Linux | Allison Dimkpa | [Read More](https://medium.com/p/0c3968d79601) |
 | Sat, 07 Jun 2025 20:12:02 GMT | OPSEC: The Philosophy of Being Ostensible. | Eziyo | [Read More](https://medium.com/p/e878936f6028) |
 | Sat, 07 Jun 2025 20:10:43 GMT | Web Cache Deception Vulnerability Explained with Examples | Monika sharma | [Read More](https://medium.com/p/2a9654445383) |
 | Sat, 07 Jun 2025 20:03:33 GMT | Service URLs: The Hidden Gateways in Your Attack Surface | Dzianis Skliar | [Read More](https://medium.com/p/cb22fcc74884) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 14:02:18 GMT | Evasion with ProtectMyTooling | Lord Murak | [Read More](https://medium.com/p/028e48f9d9a8) |
 | Sat, 07 Jun 2025 13:59:27 GMT | Windows 10 Extended Security Updates (ESU): Simplified - VBM | Marcus Spencer | [Read More](https://medium.com/p/0708dcc3b23c) |
 | Sat, 07 Jun 2025 13:49:15 GMT | 20 Brutal Reasons Why You’re Not Getting That First Cybersecurity Job | Saikat Paul | [Read More](https://medium.com/p/4e20008e52f8) |
-| Sat, 07 Jun 2025 13:46:21 GMT | How 10M AI call center stolen identities could change your cybersecurity policy | NeoRusI | [Read More](https://medium.com/p/73c94fd3d704) |
-| Sat, 07 Jun 2025 13:45:00 GMT | Building Resilient Cybersecurity Tools: How to Handle API Rate Limits | Michael Rico | [Read More](https://medium.com/p/c56c361bddb8) |
-| Sat, 07 Jun 2025 13:43:51 GMT | Facing GRC Challenges Head-On: Proactive Beats Perfect | Brittney Ginther | [Read More](https://medium.com/p/b49cb44d16ea) |
-| Sat, 07 Jun 2025 13:42:09 GMT | My Personal Experience with Hackviser’s Certified Associate Penetration Tester (CAPT) | Van Emerson Francisco | [Read More](https://medium.com/p/a80afbf563cd) |
