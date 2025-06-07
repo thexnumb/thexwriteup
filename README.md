@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 09:37:36 GMT | Artificial Intelligence: Ethical Considerations That Every Techie Should Know | FACE Prep Campus | [Read More](https://medium.com/p/e00de7de5ebf) |
+| Sat, 07 Jun 2025 09:25:03 GMT | ️ Hardening Linux ala Anak Security: Quick Tips untuk Meningkatkan Keamanan Sistem Linux | Ardhan Dimas Nuryadin | [Read More](https://medium.com/p/256cba6c8095) |
+| Sat, 07 Jun 2025 09:20:36 GMT | Zero Trust in 2025: Why You Can’t Trust Anyone in Cybersecurity | Tech Security | [Read More](https://medium.com/p/31900c2510c0) |
 | Sat, 07 Jun 2025 09:17:21 GMT | The $200M Romance Scam Empire: How Funnull Technology Built a Crypto Fraud Infrastructure | Ismail Tasdelen | [Read More](https://medium.com/p/e5bf4f688925) |
 | Sat, 07 Jun 2025 09:08:48 GMT | The JINX-0132 Cryptojacking Campaign: How Attackers Are Weaponizing DevOps Tools for Crypto Mining… | Ismail Tasdelen | [Read More](https://medium.com/p/39c78e5002e6) |
 | Sat, 07 Jun 2025 09:04:28 GMT | HTTP Headers | Ace | [Read More](https://medium.com/p/25f1fc90ee5a) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 22:35:07 GMT | The AI Agent That Almost Became a Corporate Spy | Nwosu Rosemary | [Read More](https://medium.com/p/a41a7ea21c3e) |
 | Fri, 06 Jun 2025 22:33:37 GMT | Mastering Suricata: A Practical Guide to Inline IPS Deployment | ierdnA | [Read More](https://medium.com/p/95d3e57f36f0) |
 | Fri, 06 Jun 2025 22:25:25 GMT | The Rise of AI in Lending: How Renown Lending is Shaping the Future of Finance | Kalpi Prasad - Renown Lending | [Read More](https://medium.com/p/334ee3ceafc6) |
-| Fri, 06 Jun 2025 22:18:08 GMT | Bypassing Web Application Firewalls: Techniques That Still Work | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4514d999c1fb) |
-| Fri, 06 Jun 2025 21:57:43 GMT | The Complete Travel Banking Guide 2025: Cards, Apps & Security | Travel4Fun4U | [Read More](https://medium.com/p/222d6731e8f9) |
-| Fri, 06 Jun 2025 21:57:24 GMT | Auslagerungsmanagement 2025: Der strategische Leitfaden für resiliente Compliance und operative… | Philip Hansen | [Read More](https://medium.com/p/c22df428b271) |
