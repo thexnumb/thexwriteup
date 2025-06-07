@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 16:01:58 GMT | Day 15: More CSRF | Nile Okomo | [Read More](https://medium.com/p/543cc7310347) |
+| Sat, 07 Jun 2025 15:59:51 GMT | Data Privacy Basics: What It Means and Why You Should Care Today | Hitesh Said | [Read More](https://medium.com/p/42189555ab9f) |
+| Sat, 07 Jun 2025 15:54:16 GMT | JavaScript for Hackers: The Ultimate Guide for Offensive Security | Very Lazy Tech | [Read More](https://medium.com/p/5631473baa22) |
+| Sat, 07 Jun 2025 15:52:52 GMT | Tools ZIP Brute Force Sederhana | Ris | [Read More](https://medium.com/p/01f8e5dbef17) |
+| Sat, 07 Jun 2025 15:51:34 GMT | When “Simple” Coding Challenges Hide Malware | TheNewAutonomy | [Read More](https://medium.com/p/c589dd68d1ee) |
+| Sat, 07 Jun 2025 15:50:32 GMT | Zero Trust in the Context of Application Security | The Hackers Meetup | [Read More](https://medium.com/p/07976c4e378a) |
+| Sat, 07 Jun 2025 15:46:56 GMT | I Thought It Was Just an Email Field… It Became Full Stored XSS | Lucfie | [Read More](https://medium.com/p/716ff308853f) |
+| Sat, 07 Jun 2025 15:42:56 GMT | API Keys in Web3: Powerful Tools, Real Risks | TradeLink | [Read More](https://medium.com/p/c37fe8518b80) |
+| Sat, 07 Jun 2025 15:39:59 GMT | Burp Suite 101: Menyadap Web seperti Ethical Hacker | LunarX | [Read More](https://medium.com/p/f29eeb2ea950) |
 | Sat, 07 Jun 2025 15:35:21 GMT | How to Configure a Firewall for Maximum Security: A Complete Guide | Ekene Joseph | [Read More](https://medium.com/p/f4a9f1178041) |
+| Sat, 07 Jun 2025 15:33:29 GMT | Facebook has once again shown that it knows no limits in its efforts to spy on users | J.J. Salomoun | [Read More](https://medium.com/p/d6c7dffbec22) |
 | Sat, 07 Jun 2025 15:15:31 GMT | ID | LonomiaO | [Read More](https://medium.com/p/786f7387f0a5) |
 | Sat, 07 Jun 2025 15:12:45 GMT | Cybersecurity Threats in 2025: Persistent Risks | Orgito | [Read More](https://medium.com/p/afe1e442a73c) |
 | Sat, 07 Jun 2025 15:12:09 GMT | Beginner’s Luck? I Found Remote Code Execution on a .GOV Site While Learning ✨ | El Professor Qais | [Read More](https://medium.com/p/a15cc2001a4e) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 10:39:00 GMT | Implementing Custom Network Routes in Azure Virtual Network | Balamurugan | [Read More](https://medium.com/p/5ba33c621372) |
 | Sat, 07 Jun 2025 10:33:52 GMT | How to Secure Your AI’s Brain: Designing a Safer Model Context Protocol (MCP) (Introduction) | Yann Jouanin | [Read More](https://medium.com/p/4d50a5a5c04f) |
 | Sat, 07 Jun 2025 10:33:52 GMT | Beyond the Inbox: Understanding the Rise of AiTM Phishing | Saransh Mahajan | [Read More](https://medium.com/p/3ec6f95ce744) |
-| Sat, 07 Jun 2025 10:30:42 GMT | Apa itu Linux Hardening? | Irfanbayu | [Read More](https://medium.com/p/c1d33cee2b4c) |
-| Sat, 07 Jun 2025 10:13:37 GMT | 5 Digital Mindset Principles to Outsmart Online Scams | Divya Dangroshiya | [Read More](https://medium.com/p/f9475446a067) |
-| Sat, 07 Jun 2025 10:03:11 GMT | Dokumentasi Hardening SSH pada Kali Linux | Irfan Syarifudin | [Read More](https://medium.com/p/5be17d1e6279) |
-| Sat, 07 Jun 2025 10:02:14 GMT | You want to become a penetration tester? Learn this first. | Niklas Heringer | [Read More](https://medium.com/p/1152764748f7) |
-| Sat, 07 Jun 2025 09:59:47 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 5] | Aditya Bhatt | [Read More](https://medium.com/p/2791be30bd17) |
-| Sat, 07 Jun 2025 09:53:50 GMT | Uncovering the crypto trading bot (MEV) malware and full analysis | Mohammed Dief | [Read More](https://medium.com/p/f562eda467a1) |
-| Sat, 07 Jun 2025 09:52:09 GMT | PsExec Hunt Lab — Cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/6fcf181ac31d) |
-| Sat, 07 Jun 2025 09:45:15 GMT | $1,000 Bounty for Bypassing Restrictions via Modified HTTP Request | Gaurrav Luthra | [Read More](https://medium.com/p/8a195a72ded7) |
-| Sat, 07 Jun 2025 09:43:48 GMT | B.Tech in Cyber Security and Digital Forensics: Securing the Digital Future in Pune | Sourabh More | [Read More](https://medium.com/p/650b245a3c68) |
-| Sat, 07 Jun 2025 09:41:21 GMT | What Is XSS(Cross Site Scripting)? | Mejbankadir | [Read More](https://medium.com/p/2a2466eb0da7) |
