@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 14:17:00 GMT | The Exploitation of Trust Relationships | 0zn0g | [Read More](https://medium.com/p/1f3a343f8d84) |
+| Sat, 07 Jun 2025 14:14:46 GMT | Friday Edition — Threat Actor Activity | SecurityPulse News | [Read More](https://medium.com/p/2b6a07c080b9) |
+| Sat, 07 Jun 2025 14:11:35 GMT | Consent Theater: How Privacy Notices Lie to Your Face | MrsNo1Special | [Read More](https://medium.com/p/6ee4a7f14050) |
+| Sat, 07 Jun 2025 14:09:22 GMT | The Pentester’s Arsenal: 25 Commands That Actually Work in 2025 | Saikat Paul | [Read More](https://medium.com/p/90d9dd2f51eb) |
+| Sat, 07 Jun 2025 14:09:08 GMT | ICS/SCADA | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/5c095230f887) |
+| Sat, 07 Jun 2025 14:06:29 GMT | Cybersecurity and Climate: When Disasters Become Digital Entry Points | MrsNo1Special | [Read More](https://medium.com/p/dfba0ffcfc51) |
+| Sat, 07 Jun 2025 14:02:18 GMT | Evasion with ProtectMyTooling | Lord Murak | [Read More](https://medium.com/p/028e48f9d9a8) |
+| Sat, 07 Jun 2025 13:59:27 GMT | Windows 10 Extended Security Updates (ESU): Simplified - VBM | Marcus Spencer | [Read More](https://medium.com/p/0708dcc3b23c) |
+| Sat, 07 Jun 2025 13:49:15 GMT | 20 Brutal Reasons Why You’re Not Getting That First Cybersecurity Job | Saikat Paul | [Read More](https://medium.com/p/4e20008e52f8) |
+| Sat, 07 Jun 2025 13:46:21 GMT | How 10M AI call center stolen identities could change your cybersecurity policy | NeoRusI | [Read More](https://medium.com/p/73c94fd3d704) |
+| Sat, 07 Jun 2025 13:45:00 GMT | Building Resilient Cybersecurity Tools: How to Handle API Rate Limits | Michael Rico | [Read More](https://medium.com/p/c56c361bddb8) |
+| Sat, 07 Jun 2025 13:43:51 GMT | Facing GRC Challenges Head-On: Proactive Beats Perfect | Brittney Ginther | [Read More](https://medium.com/p/b49cb44d16ea) |
+| Sat, 07 Jun 2025 13:42:09 GMT | My Personal Experience with Hackviser’s Certified Associate Penetration Tester (CAPT) | Van Emerson Francisco | [Read More](https://medium.com/p/a80afbf563cd) |
+| Sat, 07 Jun 2025 13:39:37 GMT | Thompson TryHackMe walkthrough | M Gebril | [Read More](https://medium.com/p/09b8dd4f24e3) |
 | Sat, 07 Jun 2025 13:32:01 GMT | Blurred and Exposed: How Your Digital Reflexes Reveal More Than You Think | MrsNo1Special | [Read More](https://medium.com/p/267be8cd78a9) |
 | Sat, 07 Jun 2025 13:28:44 GMT | A Life Lived Upside Down | Isha | [Read More](https://medium.com/p/eac7ae15a11e) |
 | Sat, 07 Jun 2025 13:26:45 GMT | How Can I Recover My Money From Inertix ? | Thomaseilliamsh | [Read More](https://medium.com/p/a532a9fe042a) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 07:47:54 GMT | Track the Hacks: A Forensic Dive into SSTV Signals — Real Case File Forensic | byuda | [Read More](https://medium.com/p/6a6c18703f07) |
 | Sat, 07 Jun 2025 07:46:04 GMT | Fortifying SSH: A Practical Guide to Hardening Linux SSH | Bumi Arya Dirangga | [Read More](https://medium.com/p/9175fbf9f62e) |
 | Sat, 07 Jun 2025 07:42:17 GMT | Why Today’s Most Popular Accounts Are at Risk | Amritanshu Prashar | [Read More](https://medium.com/p/8f16cf2b0e63) |
-| Sat, 07 Jun 2025 07:27:24 GMT | Network Penetration Testing is the process of simulating  network infrastructure to discover… | GABBYTECH | [Read More](https://medium.com/p/50d38ff3dc48) |
-| Sat, 07 Jun 2025 07:26:13 GMT | Catching LOLBins in Action: Practical Detection Queries | Paritosh | [Read More](https://medium.com/p/f848a65dc82c) |
-| Sat, 07 Jun 2025 07:16:12 GMT | HARDENING UMUM SISTEM LINUX | My Ego | [Read More](https://medium.com/p/4d3351322f3b) |
-| Sat, 07 Jun 2025 07:13:50 GMT | Claiming Multiplier Live now for Bounty: Act now to earn 5x $BNTY rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/8db752ded799) |
-| Sat, 07 Jun 2025 07:05:12 GMT | Phantom Quorum: Unmasking Duplicate Signatures in Committee Attestations | gajnithehero | [Read More](https://medium.com/p/1851f55e286e) |
-| Sat, 07 Jun 2025 07:04:57 GMT | From Naxalbari to Bastar: The Rise, Spread, and Decline of Left-Wing Extremism | Aditya Ojha | [Read More](https://medium.com/p/d1e7fea92e83) |
-| Sat, 07 Jun 2025 07:02:17 GMT | BNF Bank’s Gone Wrong System Update | Alan C. Bonnici | [Read More](https://medium.com/p/3d9b57e5aa29) |
-| Sat, 07 Jun 2025 07:00:04 GMT | Secure by Design: Embedding Security into Your Architecture from Day One | Mike Attara | [Read More](https://medium.com/p/20b02fddae5d) |
-| Sat, 07 Jun 2025 06:59:05 GMT | Student to Solopreneur: My Roadmap to Earning Online While Studying | Anshika Prajapati | [Read More](https://medium.com/p/cba6699f56fd) |
-| Sat, 07 Jun 2025 06:32:49 GMT | How I Found a Critical Vulnerability on a GOV.MY Web App — And Reported It Responsibly | El Professor Qais | [Read More](https://medium.com/p/e48f27296a01) |
-| Sat, 07 Jun 2025 06:30:01 GMT | Retail Security Guards in Delhi NCR: Essential for Theft Prevention | Anshikaaa | [Read More](https://medium.com/p/f3560e7f1a4c) |
-| Sat, 07 Jun 2025 06:25:05 GMT | Why Central Monitoring Services Are Essential For Business Security | Jane Tang | [Read More](https://medium.com/p/cacb9dc5f78f) |
-| Sat, 07 Jun 2025 06:19:04 GMT | Cloud Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/dbeb8f511652) |
-| Sat, 07 Jun 2025 06:18:05 GMT | Industrial Control Systems (ICS) and SCADA: Operations, Vulnerabilities, and Cyber Defense… | Steven Juliano | [Read More](https://medium.com/p/fd4515117c4f) |
