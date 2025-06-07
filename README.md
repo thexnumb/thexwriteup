@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 19:11:47 GMT | System Hardening Security for the Privacy Conscious | Malik Vero | [Read More](https://medium.com/p/0a2e1f4f39bd) |
+| Sat, 07 Jun 2025 19:10:28 GMT | North Korean Hackers Might Be Faking DeFi’s Popularity, Here’s How They’re Doing It | CoinGen | [Read More](https://medium.com/p/e9c40ff93a08) |
+| Sat, 07 Jun 2025 19:05:49 GMT | Comprehensive Guide to IDOR and Access Control Testing | Infohack | [Read More](https://medium.com/p/d40bf8266f5b) |
+| Sat, 07 Jun 2025 18:59:39 GMT | Cyber Kill Chain | rkn | [Read More](https://medium.com/p/32d5f13e8f37) |
+| Sat, 07 Jun 2025 18:54:26 GMT | I Feel Like an Alien Among Humans | Charleston Li | [Read More](https://medium.com/p/2966b0574d32) |
+| Sat, 07 Jun 2025 18:53:00 GMT | AI-Powered Malware Is Already Here — And Your Antivirus Is Useless Against It | Areeba Shahbaz | [Read More](https://medium.com/p/c22f6c05d2bd) |
+| Sat, 07 Jun 2025 18:51:28 GMT | Anti Malware | Igor Berner | [Read More](https://medium.com/p/0af7f8f4e980) |
+| Sat, 07 Jun 2025 18:45:07 GMT | Understanding ICS/SCADA In Cybersecurity — Foundation of Security | Hammam Awis Zukimi | [Read More](https://medium.com/p/578ef4df84cb) |
 | Sat, 07 Jun 2025 18:41:13 GMT | Winbox MAC Brute Force Login Tool untuk Router MikroTik | Hafidzah | [Read More](https://medium.com/p/0743b7287195) |
 | Sat, 07 Jun 2025 18:37:33 GMT | Investigate Web Attack — Let’s Defend Writeup | V0idd | [Read More](https://medium.com/p/d650ff9c4d40) |
 | Sat, 07 Jun 2025 18:21:24 GMT | Why You Need a VPN: Protect Your Privacy Online | Natarajan C K | [Read More](https://medium.com/p/170183964205) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 12:51:14 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintainya | Naufal Hilmy Mahdy | [Read More](https://medium.com/p/aad0188d8b34) |
 | Sat, 07 Jun 2025 12:43:00 GMT | Turning Django REST Framework into a Black Box: A Step-by-Step Guide with PyArmor, Docker, and… | Pranav Dixit | [Read More](https://medium.com/p/8160ba48eaa1) |
 | Sat, 07 Jun 2025 12:40:47 GMT | JSS Group — Best Security Company in Mumbai & India | Digital Bhushan Kadam | [Read More](https://medium.com/p/d9c7ac03374f) |
-| Sat, 07 Jun 2025 12:39:28 GMT | JWT Security Nightmare: Why My “Bulletproof” Authentication System Left Users Exposed to Token… | Nandakishore P | [Read More](https://medium.com/p/404a100dfc6e) |
-| Sat, 07 Jun 2025 12:33:36 GMT | AMSI Patching | LordShen | [Read More](https://medium.com/p/6908c47951aa) |
-| Sat, 07 Jun 2025 12:29:32 GMT | Are MCP Servers Insecure? A Deep Dive into Enterprise Security Challenges and Solutions for 2025 | Ragnar Heil | [Read More](https://medium.com/p/af376aea0a54) |
-| Sat, 07 Jun 2025 12:28:05 GMT | CARA HARDENING LINUX DENGAN REMOTE TOOLS SSH | Elsandro Rivalito | [Read More](https://medium.com/p/8f77c09f1113) |
-| Sat, 07 Jun 2025 12:15:44 GMT | Top 10 AI-Powered Tools Every Bug Bounty Hunter Should Try in 2025 | Andrei Ivan | [Read More](https://medium.com/p/3af6cfc6212e) |
-| Sat, 07 Jun 2025 12:12:30 GMT | Hardening Linux — Securing The SSH | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/f941b4e9a614) |
-| Sat, 07 Jun 2025 12:07:57 GMT | The Dark Side of “I’m Human” Clicks: How Atomic macOS Stealer is Hijacking Apple Users Through Fake… | Ismail Tasdelen | [Read More](https://medium.com/p/c6aa74bdac16) |
-| Sat, 07 Jun 2025 12:07:06 GMT | The Relentless Tide of Technology and the Digital Future | Simon Peter Chibole | [Read More](https://medium.com/p/7061ab99fb1e) |
