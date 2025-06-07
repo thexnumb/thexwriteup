@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 23:28:51 GMT | Keep Hackers Out: Password and Account Policies That Work | Adam Jikat | [Read More](https://medium.com/p/633017654601) |
 | Sat, 07 Jun 2025 23:13:30 GMT | Car Parking Shades Suppliers | Car Park Shades Suppliers 0543839003 | [Read More](https://medium.com/p/ee70000c3aac) |
 | Sat, 07 Jun 2025 22:55:33 GMT | Rebuilding the Future of Open-Source Penetration Testing: The LEGION2 Renaissance | Igor Dunaev | [Read More](https://medium.com/p/26ac4ec87e3d) |
 | Sat, 07 Jun 2025 22:48:52 GMT | What Dating After Divorce Taught Me About True Vulnerability Online | Renee Lynn Frojo | [Read More](https://medium.com/p/85af253171bb) |
@@ -113,4 +114,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
  Clark | [Read More](https://medium.com/p/d2d55a82ff96) |
 | Sat, 07 Jun 2025 14:43:32 GMT | The Day I Learned Cybersecurity Touches Us All | Tukur Waziri | [Read More](https://medium.com/p/611bf06472a0) |
 | Sat, 07 Jun 2025 14:37:14 GMT | Crop Breaker — BruteForce tools for PDF & ZIP | AjiPangesstu | [Read More](https://medium.com/p/1f319d5aaf52) |
-| Sat, 07 Jun 2025 14:36:26 GMT | Designed to Defend: How YagminAI Embodies Secure-by-Design AI | Pete Yagmin | [Read More](https://medium.com/p/a8dbdc83619f) |
