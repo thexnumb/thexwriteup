@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 21:33:46 GMT | Segurança na perspectiva dos devs, com Snyk | Pedro Brasileiro | [Read More](https://medium.com/p/4518d560a25c) |
+| Sat, 07 Jun 2025 21:07:01 GMT | Shellcode Injection Methods for Windows | LordShen | [Read More](https://medium.com/p/6dde1c8253b0) |
 | Sat, 07 Jun 2025 21:03:05 GMT | Saturday Edition — General Cyber News Summary | SecurityPulse News | [Read More](https://medium.com/p/74e8b66be578) |
 | Sat, 07 Jun 2025 21:02:37 GMT | TTAT+ Meets Generative AI: Securing the Next Frontier of Automated Threat Generation | Jeffrey Nickle | [Read More](https://medium.com/p/7603835b8469) |
 | Sat, 07 Jun 2025 20:54:20 GMT | VULNERABILITY | Gbemisola Lanre-Sobona | [Read More](https://medium.com/p/a066e3fa47ea) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 14:09:08 GMT | ICS/SCADA | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/5c095230f887) |
 | Sat, 07 Jun 2025 14:06:29 GMT | Cybersecurity and Climate: When Disasters Become Digital Entry Points | MrsNo1Special | [Read More](https://medium.com/p/dfba0ffcfc51) |
 | Sat, 07 Jun 2025 14:02:18 GMT | Evasion with ProtectMyTooling | Lord Murak | [Read More](https://medium.com/p/028e48f9d9a8) |
-| Sat, 07 Jun 2025 13:59:27 GMT | Windows 10 Extended Security Updates (ESU): Simplified - VBM | Marcus Spencer | [Read More](https://medium.com/p/0708dcc3b23c) |
-| Sat, 07 Jun 2025 13:49:15 GMT | 20 Brutal Reasons Why You’re Not Getting That First Cybersecurity Job | Saikat Paul | [Read More](https://medium.com/p/4e20008e52f8) |
