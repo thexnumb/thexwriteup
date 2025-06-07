@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 17:34:19 GMT | Post‑Quantum Cryptography Takes Center Stage at Infosecurity Europe 2025 | QuantumGenie | [Read More](https://medium.com/p/3887d87dce1d) |
+| Sat, 07 Jun 2025 17:29:38 GMT | Control and oversight of Autonomous AI Agents in economic systems | Tamerlan | [Read More](https://medium.com/p/09f58bfb297a) |
+| Sat, 07 Jun 2025 17:23:05 GMT | Securing the Future | Ed-it Editions | [Read More](https://medium.com/p/383858782134) |
+| Sat, 07 Jun 2025 17:18:00 GMT | Here’s How I Recover My Money From RAIZ INVEST AUSTRALIA LIMITED | Seth Jamieson | [Read More](https://medium.com/p/778f04a7d7a4) |
+| Sat, 07 Jun 2025 17:14:29 GMT | Analisis Sistem ICS/SCADA dan Studi Kasus Serangan Siber Night Dragon pada Infrastruktur Industri | byuda | [Read More](https://medium.com/p/125e053cc3d4) |
 | Sat, 07 Jun 2025 17:13:12 GMT | The Business Case for Investing in Blockchain Security Early | Decrypt0 | [Read More](https://medium.com/p/d4f281912b69) |
 | Sat, 07 Jun 2025 17:09:02 GMT | JWT: How I turned a Regular User into an Admin in 3 Steps | 0xPedrop | [Read More](https://medium.com/p/48e66c61f621) |
 | Sat, 07 Jun 2025 17:07:03 GMT | ️‍♂️ Staying Anonymous on Kali Linux with Proxychains and VPN | Esra Kayhan | [Read More](https://medium.com/p/906dead79317) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 12:00:32 GMT | Unmasking the Shadow Gangs: How Criminal Networks Fabricate Terrorism to Silence Security Experts | SIMKRA | [Read More](https://medium.com/p/7c3e424b734b) |
 | Sat, 07 Jun 2025 12:00:02 GMT | Italy’s Spyware Scandal: The Paragon Affair That Shook Italian Democracy | Ismail Tasdelen | [Read More](https://medium.com/p/81497ae1802e) |
 | Sat, 07 Jun 2025 11:56:07 GMT | The KiranaPro Data Disaster: A Cautionary Tale of Cyber Security Gone Wrong | Ismail Tasdelen | [Read More](https://medium.com/p/549f296fd3f6) |
-| Sat, 07 Jun 2025 11:52:35 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/1e2f928dbca1) |
-| Sat, 07 Jun 2025 11:52:22 GMT | SSC Stenographer Recruitment 2025: 261 पदों के लिए ऑनलाइन आवेदन करें | Gurwant Dhillor | [Read More](https://medium.com/p/f543697bc7c8) |
-| Sat, 07 Jun 2025 11:51:14 GMT | You Don’t Need to Be a Genius to Be a Hacker. Just Be Curious. | Sumanth Yerranagula | [Read More](https://medium.com/p/72adbae62969) |
-| Sat, 07 Jun 2025 11:45:13 GMT | RXSS in uncalled function | Sevada797 | [Read More](https://medium.com/p/f6eb14bc5bd6) |
-| Sat, 07 Jun 2025 11:41:56 GMT | Business logic allows any user to be blocked from creating an account | JEETPAL | [Read More](https://medium.com/p/6a7ab7013ccc) |
