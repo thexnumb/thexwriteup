@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 10:40:49 GMT | Enumeration: The Key to Finding and Exploiting Vulnerabilities | sixxish | [Read More](https://medium.com/p/4c36829ea6b0) |
+| Sat, 07 Jun 2025 10:33:52 GMT | How to Secure Your AI’s Brain: Designing a Safer Model Context Protocol (MCP) (Introduction) | Yann Jouanin | [Read More](https://medium.com/p/4d50a5a5c04f) |
+| Sat, 07 Jun 2025 10:30:42 GMT | Apa itu Linux Hardening? | Irfanbayu | [Read More](https://medium.com/p/c1d33cee2b4c) |
 | Sat, 07 Jun 2025 10:13:37 GMT | 5 Digital Mindset Principles to Outsmart Online Scams | Divya Dangroshiya | [Read More](https://medium.com/p/f9475446a067) |
 | Sat, 07 Jun 2025 10:03:11 GMT | Dokumentasi Hardening SSH pada Kali Linux | Irfan Syarifudin | [Read More](https://medium.com/p/5be17d1e6279) |
 | Sat, 07 Jun 2025 10:02:14 GMT | You want to become a penetration tester? Learn this first. | Niklas Heringer | [Read More](https://medium.com/p/1152764748f7) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 02:05:57 GMT | Cryptocurrencies and NFTs in the Post-Quantum Era | Max Rolando Menéndez Barreras | [Read More](https://medium.com/p/669875749ce9) |
 | Sat, 07 Jun 2025 01:32:22 GMT | L’ascension du Vibe Hacking : la nouvelle menace de l’IA | L'ABESTIT | [Read More](https://medium.com/p/6d913e2e9f79) |
 | Sat, 07 Jun 2025 01:31:50 GMT | Les arnaques deepfake bouleversent la réalité : attention danger ! | L'ABESTIT | [Read More](https://medium.com/p/27ba51d50ad1) |
-| Sat, 07 Jun 2025 01:30:50 GMT | How a TryHackMe Box Gaslit Me Until C Saved the Day (Blog-CTF) | Ahengjnr | [Read More](https://medium.com/p/4ce01b7f636a) |
-| Sat, 07 Jun 2025 00:46:06 GMT | Dokumentasi Hardening SSH | Mukti Badriyan | [Read More](https://medium.com/p/a89401d87863) |
-| Sat, 07 Jun 2025 00:44:00 GMT | What happens when you generate a certificate for secure transmission of data | Prakash Valluri | [Read More](https://medium.com/p/0ef00b98eedc) |
