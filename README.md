@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 05:07:32 GMT | From Crust to Connection: A Beginner’s Guide to the OSI Model | Sirivantesy | [Read More](https://medium.com/p/700d7a79b588) |
+| Sat, 07 Jun 2025 05:05:52 GMT | Keep Saying ‘I Deserve Better’ Then Settle for the Same Bullsh*t Every Time | X-Plain | [Read More](https://medium.com/p/474ec8a3e759) |
+| Sat, 07 Jun 2025 05:02:45 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Simarjot Singh Maan | [Read More](https://medium.com/p/6d790f9bc601) |
+| Sat, 07 Jun 2025 04:57:34 GMT | Python Automation Series — Day 4 | Pavan V | [Read More](https://medium.com/p/297afe51f31f) |
+| Sat, 07 Jun 2025 04:52:46 GMT | Apa Itu ICS/SCADA? Apakah ICS/SCADA Bisa Diserang? | DzakySN | [Read More](https://medium.com/p/93eff593a4a8) |
+| Sat, 07 Jun 2025 04:47:41 GMT | How Cyber Threat Intelligence Fits Into Cyber Security | Arachne Digital | [Read More](https://medium.com/p/62befbbe9f83) |
 | Sat, 07 Jun 2025 04:32:03 GMT | How to Claim $BUGS for Bugs Bunny | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/4a41fc25619f) |
 | Sat, 07 Jun 2025 04:24:26 GMT | Hunter XP: A Complete Digital Forensics Case Study on Cybercrime, Blackmail & Stalking | Sujal Adhikari | [Read More](https://medium.com/p/40d72b8f59b7) |
 | Sat, 07 Jun 2025 04:16:21 GMT | Lab 25 — Using the route command to display network information on Linux | Hassen Hannachi | [Read More](https://medium.com/p/c0718b784e63) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 18:43:34 GMT | GIAC Security Essentials Certification Update — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/993803221b8f) |
 | Fri, 06 Jun 2025 18:43:23 GMT | The AI Wave: How to Stay Ahead of the Curve | Praveen Xavier | [Read More](https://medium.com/p/633706357b56) |
 | Fri, 06 Jun 2025 18:40:04 GMT | The Psychology Behind High-Converting Content | Zorawar Ali Khan | [Read More](https://medium.com/p/7054bed4de8d) |
-| Fri, 06 Jun 2025 18:33:13 GMT | Earned $100 in 2 Minutes — Finding an Open Redirect Vulnerability | Buvaneshvaran K | [Read More](https://medium.com/p/1d8a67da4eac) |
-| Fri, 06 Jun 2025 18:10:53 GMT | TryHackMe Write-up: Investigating with Splunk | Robert Onyango | [Read More](https://medium.com/p/8cf9c2f31f90) |
-| Fri, 06 Jun 2025 18:07:24 GMT | Still Soft | maple syrup fox | [Read More](https://medium.com/p/8e1a23e6adbc) |
-| Fri, 06 Jun 2025 18:02:34 GMT | CTF Day(9) | Ahmed Narmer | [Read More](https://medium.com/p/4a085ec154e8) |
-| Fri, 06 Jun 2025 18:00:17 GMT | Security in and around MCP: Part 1 — OAuth in MCP | Maia Iyer | [Read More](https://medium.com/p/3f15fed0dd6e) |
-| Fri, 06 Jun 2025 17:58:00 GMT | **A Step-by-Step Guide to Building and Troubleshooting a Multi-Block Corporate Network** | Daniel | [Read More](https://medium.com/p/bf38a51e84ac) |
