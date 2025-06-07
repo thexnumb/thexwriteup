@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 09:17:21 GMT | The $200M Romance Scam Empire: How Funnull Technology Built a Crypto Fraud Infrastructure | Ismail Tasdelen | [Read More](https://medium.com/p/e5bf4f688925) |
+| Sat, 07 Jun 2025 09:08:48 GMT | The JINX-0132 Cryptojacking Campaign: How Attackers Are Weaponizing DevOps Tools for Crypto Mining… | Ismail Tasdelen | [Read More](https://medium.com/p/39c78e5002e6) |
+| Sat, 07 Jun 2025 09:04:28 GMT | HTTP Headers | Ace | [Read More](https://medium.com/p/25f1fc90ee5a) |
+| Sat, 07 Jun 2025 08:57:53 GMT | The Importance of CCTV Cameras in Today’s Generation | Nestrondigitalhub | [Read More](https://medium.com/p/115b96889fd3) |
+| Sat, 07 Jun 2025 08:49:30 GMT | Fake User Onboarding Is Costing You — Here’s How to Stop It | OnSefy AI | [Read More](https://medium.com/p/2f6043005780) |
+| Sat, 07 Jun 2025 08:45:56 GMT | Design Flaw on OTP endpoint leads to Create Fake Accounts — A Subtle Yet Dangerous Flaw in User… | Aman Banga | [Read More](https://medium.com/p/c511dfab89e0) |
+| Sat, 07 Jun 2025 08:39:29 GMT | When AI Meets Classified: Anthropic’s Secret Weapon for National Security | Nanthakumar | [Read More](https://medium.com/p/34e88651becc) |
+| Sat, 07 Jun 2025 08:35:10 GMT | Membuat Tools Brute-Force PDF Menggunakan Python dan PikePDF | Nizar Kurnia Alfaizi | [Read More](https://medium.com/p/0ffdcf3f5dce) |
+| Sat, 07 Jun 2025 08:35:05 GMT | TryHackMe ‘Source’ Otağı: Webmin Zəifliyinin İstismarı ilə Sistemə Sızma | Yaqubnasibov | [Read More](https://medium.com/p/4b7e2bda8b90) |
 | Sat, 07 Jun 2025 08:21:06 GMT | Abuse-ception: How I Turned the Abuse Report Feature Into a Mass Email Spammer | Iski | [Read More](https://medium.com/p/38b38a4c3c36) |
 | Sat, 07 Jun 2025 08:17:18 GMT | ATM Security Guard Services in Delhi NCR: 24x7 Protection for Your Financial Safety | Anshikaaa | [Read More](https://medium.com/p/d285b255afec) |
 | Sat, 07 Jun 2025 08:16:54 GMT | Vibe Coding in Cyber-Security -The Future of Hacking with AI - Trae,Cursor,windsurf,AI Driven… | Mejbankadir | [Read More](https://medium.com/p/4516a28eede4) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 22:18:08 GMT | Bypassing Web Application Firewalls: Techniques That Still Work | Karthikeyan Nagaraj | [Read More](https://medium.com/p/4514d999c1fb) |
 | Fri, 06 Jun 2025 21:57:43 GMT | The Complete Travel Banking Guide 2025: Cards, Apps & Security | Travel4Fun4U | [Read More](https://medium.com/p/222d6731e8f9) |
 | Fri, 06 Jun 2025 21:57:24 GMT | Auslagerungsmanagement 2025: Der strategische Leitfaden für resiliente Compliance und operative… | Philip Hansen | [Read More](https://medium.com/p/c22df428b271) |
-| Fri, 06 Jun 2025 21:57:02 GMT | Business Continuity & Resilience Roadmap 2025: Der ultimative Leitfaden für krisenresistente… | Philip Hansen | [Read More](https://medium.com/p/001faa85036c) |
-| Fri, 06 Jun 2025 21:56:49 GMT | Roadmap zum Erfolg: Standard-Software-Implementierung meistern [Kostenloses Implementation-Kit] | Philip Hansen | [Read More](https://medium.com/p/be8771c9ea70) |
-| Fri, 06 Jun 2025 21:38:37 GMT | Tired of missing important moments on your security cameras? | Visual Monitoring Solutions | [Read More](https://medium.com/p/20bf7dba2183) |
-| Fri, 06 Jun 2025 21:16:38 GMT | Why “Authenticity” Now Feels Like a Costume | Cat Milton | [Read More](https://medium.com/p/916543b97858) |
-| Fri, 06 Jun 2025 21:15:55 GMT | Déploiement d’un SOC complet (Wazuh-TheHive-Cortex-Misp-Shuffle)sur un environnement local à… | ahmed fathallah | [Read More](https://medium.com/p/f240a45d8279) |
-| Fri, 06 Jun 2025 21:13:54 GMT | ADCS Attack Series: Abusing ESC9 for Privilege Escalation via Weak Certificate Mapping | Nairuz Abulhul | [Read More](https://medium.com/p/d625aceb5942) |
-| Fri, 06 Jun 2025 21:11:52 GMT | Key challenges of hybrid cloud adoption 2025 | IT_Engineer | [Read More](https://medium.com/p/2eab0e1f8552) |
-| Fri, 06 Jun 2025 21:10:00 GMT | ️ Living Off the Land Attacks: The Invisible Threat Inside Your Network | Ekene Joseph | [Read More](https://medium.com/p/1ec06d78d94b) |
-| Fri, 06 Jun 2025 20:57:40 GMT | From ‘Are we crazy?’ to RBAC | Vineet Sarpal | [Read More](https://medium.com/p/093120970b16) |
