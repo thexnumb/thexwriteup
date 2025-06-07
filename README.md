@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 15:12:09 GMT | Beginner’s Luck? I Found Remote Code Execution on a .GOV Site While Learning ✨ | El Professor Qais | [Read More](https://medium.com/p/a15cc2001a4e) |
+| Sat, 07 Jun 2025 15:09:23 GMT | Travel to Thrive: Exploring the World’s Happiest, Healthiest, and Safest Countries in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/068921552aa8) |
+| Sat, 07 Jun 2025 15:08:28 GMT | How To Claim $BOUNTY  Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/c3607a711d75) |
+| Sat, 07 Jun 2025 15:06:56 GMT | Housekeeping & Security: Go Your Own Speed | EXLITY | [Read More](https://medium.com/p/6534219cab7b) |
+| Sat, 07 Jun 2025 15:00:21 GMT | The Real Skillset for OT Red Teaming | Seemant Bisht | [Read More](https://medium.com/p/a2f09144a5da) |
+| Sat, 07 Jun 2025 14:59:32 GMT | 30 Days of Cyber Security — Day 12: HTTP dan HTTPS | Indra Rahmat Maulidi | [Read More](https://medium.com/p/4c80e82aa4a2) |
+| Sat, 07 Jun 2025 14:56:06 GMT | Self Epiphany | Miracle Omokaro | [Read More](https://medium.com/p/cf72d1f0e724) |
+| Sat, 07 Jun 2025 14:56:04 GMT | Surrendering to Vulnerability | Keycee | [Read More](https://medium.com/p/e9e2aac39565) |
+| Sat, 07 Jun 2025 14:50:10 GMT | Your 2025 Guide to Preventing Cybersecurity Threats as a Freelancer or Small Business Owner | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/24b1a68671a5) |
+| Sat, 07 Jun 2025 14:46:42 GMT | ️ Hardening SSH di Linux: Amankan Remote Access Sebelum Diserang Hacker! | Agilseftian | [Read More](https://medium.com/p/a3b8c38fac01) |
+| Sat, 07 Jun 2025 14:46:02 GMT | Broken Authentication (A02:2021) | Badal kathayat | [Read More](https://medium.com/p/019f6a048d48) |
+| Sat, 07 Jun 2025 14:44:50 GMT | Claim $CVE  in Minutes | Lucas
+ Clark | [Read More](https://medium.com/p/d2d55a82ff96) |
+| Sat, 07 Jun 2025 14:43:32 GMT | The Day I Learned Cybersecurity Touches Us All | Tukur Waziri | [Read More](https://medium.com/p/611bf06472a0) |
 | Sat, 07 Jun 2025 14:37:14 GMT | Crop Breaker — BruteForce tools for PDF & ZIP | AjiPangesstu | [Read More](https://medium.com/p/1f319d5aaf52) |
 | Sat, 07 Jun 2025 14:36:26 GMT | Designed to Defend: How YagminAI Embodies Secure-by-Design AI | Pete Yagmin | [Read More](https://medium.com/p/a8dbdc83619f) |
 | Sat, 07 Jun 2025 14:27:25 GMT | How to Use SocialBox in Termux: A Beginner-Friendly Guide | Kambetastephano | [Read More](https://medium.com/p/8f285a5aedd6) |
@@ -100,16 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 09:37:36 GMT | Artificial Intelligence: Ethical Considerations That Every Techie Should Know | FACE Prep Campus | [Read More](https://medium.com/p/e00de7de5ebf) |
 | Sat, 07 Jun 2025 09:25:03 GMT | ️ Hardening Linux ala Anak Security: Quick Tips untuk Meningkatkan Keamanan Sistem Linux | Ardhan Dimas Nuryadin | [Read More](https://medium.com/p/256cba6c8095) |
 | Sat, 07 Jun 2025 09:20:36 GMT | Zero Trust in 2025: Why You Can’t Trust Anyone in Cybersecurity | Tech Security | [Read More](https://medium.com/p/31900c2510c0) |
-| Sat, 07 Jun 2025 09:17:21 GMT | The $200M Romance Scam Empire: How Funnull Technology Built a Crypto Fraud Infrastructure | Ismail Tasdelen | [Read More](https://medium.com/p/e5bf4f688925) |
-| Sat, 07 Jun 2025 09:08:48 GMT | The JINX-0132 Cryptojacking Campaign: How Attackers Are Weaponizing DevOps Tools for Crypto Mining… | Ismail Tasdelen | [Read More](https://medium.com/p/39c78e5002e6) |
-| Sat, 07 Jun 2025 09:04:28 GMT | HTTP Headers | Ace | [Read More](https://medium.com/p/25f1fc90ee5a) |
-| Sat, 07 Jun 2025 08:57:53 GMT | The Importance of CCTV Cameras in Today’s Generation | Nestrondigitalhub | [Read More](https://medium.com/p/115b96889fd3) |
-| Sat, 07 Jun 2025 08:49:30 GMT | Fake User Onboarding Is Costing You — Here’s How to Stop It | OnSefy AI | [Read More](https://medium.com/p/2f6043005780) |
-| Sat, 07 Jun 2025 08:45:56 GMT | Design Flaw on OTP endpoint leads to Create Fake Accounts — A Subtle Yet Dangerous Flaw in User… | Aman Banga | [Read More](https://medium.com/p/c511dfab89e0) |
-| Sat, 07 Jun 2025 08:39:29 GMT | When AI Meets Classified: Anthropic’s Secret Weapon for National Security | Nanthakumar | [Read More](https://medium.com/p/34e88651becc) |
-| Sat, 07 Jun 2025 08:35:10 GMT | Membuat Tools Brute-Force PDF Menggunakan Python dan PikePDF | Nizar Kurnia Alfaizi | [Read More](https://medium.com/p/0ffdcf3f5dce) |
-| Sat, 07 Jun 2025 08:35:05 GMT | TryHackMe ‘Source’ Otağı: Webmin Zəifliyinin İstismarı ilə Sistemə Sızma | Yaqubnasibov | [Read More](https://medium.com/p/4b7e2bda8b90) |
-| Sat, 07 Jun 2025 08:21:06 GMT | Abuse-ception: How I Turned the Abuse Report Feature Into a Mass Email Spammer | Iski | [Read More](https://medium.com/p/38b38a4c3c36) |
-| Sat, 07 Jun 2025 08:17:18 GMT | ATM Security Guard Services in Delhi NCR: 24x7 Protection for Your Financial Safety | Anshikaaa | [Read More](https://medium.com/p/d285b255afec) |
-| Sat, 07 Jun 2025 08:16:54 GMT | Vibe Coding in Cyber-Security -The Future of Hacking with AI - Trae,Cursor,windsurf,AI Driven… | Mejbankadir | [Read More](https://medium.com/p/4516a28eede4) |
-| Sat, 07 Jun 2025 08:08:43 GMT | Cyber Threats: How Powerful Are Attacks on ICS/SCADA Systems? | HETSHI | [Read More](https://medium.com/p/caebb6d398a1) |
