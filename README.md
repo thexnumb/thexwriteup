@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 07:13:50 GMT | Claiming Multiplier Live now for Bounty: Act now to earn 5x $BNTY rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/8db752ded799) |
+| Sat, 07 Jun 2025 07:05:12 GMT | Phantom Quorum: Unmasking Duplicate Signatures in Committee Attestations | gajnithehero | [Read More](https://medium.com/p/1851f55e286e) |
+| Sat, 07 Jun 2025 07:04:57 GMT | From Naxalbari to Bastar: The Rise, Spread, and Decline of Left-Wing Extremism | Aditya Ojha | [Read More](https://medium.com/p/d1e7fea92e83) |
+| Sat, 07 Jun 2025 07:02:17 GMT | BNF Bank’s Gone Wrong System Update | Alan C. Bonnici | [Read More](https://medium.com/p/3d9b57e5aa29) |
+| Sat, 07 Jun 2025 07:00:04 GMT | Secure by Design: Embedding Security into Your Architecture from Day One | Mike Attara | [Read More](https://medium.com/p/20b02fddae5d) |
+| Sat, 07 Jun 2025 06:59:05 GMT | Student to Solopreneur: My Roadmap to Earning Online While Studying | Anshika Prajapati | [Read More](https://medium.com/p/cba6699f56fd) |
 | Sat, 07 Jun 2025 06:32:49 GMT | How I Found a Critical Vulnerability on a GOV.MY Web App — And Reported It Responsibly | El Professor Qais | [Read More](https://medium.com/p/e48f27296a01) |
 | Sat, 07 Jun 2025 06:30:01 GMT | Retail Security Guards in Delhi NCR: Essential for Theft Prevention | Anshikaaa | [Read More](https://medium.com/p/f3560e7f1a4c) |
 | Sat, 07 Jun 2025 06:25:05 GMT | Why Central Monitoring Services Are Essential For Business Security | Jane Tang | [Read More](https://medium.com/p/cacb9dc5f78f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 20:30:20 GMT | How I Found My First Real Bug — and It Got Accepted! | Youssef El-Sibai | [Read More](https://medium.com/p/a13e15b86a3d) |
 | Fri, 06 Jun 2025 20:30:17 GMT | Hacking the Storm: A Pen Tester’s Take on June 6, 2025’s Cybersecurity Frenzy | Pentestjunkie07 | [Read More](https://medium.com/p/b24544149dc0) |
 | Fri, 06 Jun 2025 20:23:28 GMT | Digital Battle Lines: A Pen Tester’s Take on June 6, 2025’s Cybersecurity Turmoil | Inforsecpro | [Read More](https://medium.com/p/6566405de4ce) |
-| Fri, 06 Jun 2025 20:22:14 GMT | From RXSS to ATO: Bypassing WAF with a Simple POST Trick | Muntadhar M. Ahmed | [Read More](https://medium.com/p/1abbe945c952) |
-| Fri, 06 Jun 2025 20:19:42 GMT | The Crime Lab — Cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/110fd625145c) |
-| Fri, 06 Jun 2025 20:18:24 GMT | ClickFix Attack: An In-Depth Analysis of Its Mechanisms, Impacts, and Mitigation Strategies | Simon Augustine | [Read More](https://medium.com/p/a2d8a6acbbfd) |
-| Fri, 06 Jun 2025 20:16:39 GMT | Don’t Scan Random QR Codes | StillHere | [Read More](https://medium.com/p/3c07796b1115) |
-| Fri, 06 Jun 2025 20:13:25 GMT | Cyber Siege Unveiled: A Pen Tester’s Deep Dive into June 6, 2025’s Digital Chaos | hackerguy | [Read More](https://medium.com/p/58943b62dd49) |
-| Fri, 06 Jun 2025 20:00:17 GMT | Hire an Ethical Hacker to Expose Infidelity: A 2025 Guide — CyberSpac3 | Victor Palumbo | [Read More](https://medium.com/p/6161037d8cc4) |
