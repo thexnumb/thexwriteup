@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 06:19:04 GMT | Cloud Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/dbeb8f511652) |
+| Sat, 07 Jun 2025 06:18:05 GMT | Industrial Control Systems (ICS) and SCADA: Operations, Vulnerabilities, and Cyber Defense… | Steven Juliano | [Read More](https://medium.com/p/fd4515117c4f) |
+| Sat, 07 Jun 2025 06:14:43 GMT | Breach in the Cloud Writeup — PwnedLabs | Shounak Das | [Read More](https://medium.com/p/aa85b0f53462) |
+| Sat, 07 Jun 2025 06:11:25 GMT | Exploring Computer Forensics and Anti-Forensic Data Storage Techniques | Victor O. Alvarez | [Read More](https://medium.com/p/9355d4e58564) |
+| Sat, 07 Jun 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Jun 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/989fc27a2221) |
+| Sat, 07 Jun 2025 05:56:20 GMT | Understanding Cryptography: The Art of Secure Communication | Vansh Khandelwal | [Read More](https://medium.com/p/3f13127bf2a2) |
+| Sat, 07 Jun 2025 05:56:09 GMT | The Windows Security Journey — Hotpatching | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/12ffb5d3e80a) |
+| Sat, 07 Jun 2025 05:49:53 GMT | 21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About | Satyam Pathania | [Read More](https://medium.com/p/b02fa72cc057) |
+| Sat, 07 Jun 2025 05:47:43 GMT | $7,500 Bug: Exposing Any HackerOne User’s Email via Private Program Invite | Monika sharma | [Read More](https://medium.com/p/de6fd6b3b6c8) |
+| Sat, 07 Jun 2025 05:47:43 GMT | Netlas Dorking - Part 1 | AbhirupKonwar | [Read More](https://medium.com/p/c847fac73c7b) |
+| Sat, 07 Jun 2025 05:43:25 GMT | Guide To Hardening Linux | Daarin | [Read More](https://medium.com/p/acb35a3c0c19) |
 | Sat, 07 Jun 2025 05:25:11 GMT | Server Hardening: Upaya Preventif Mengelola Risiko Siber | himawanazmi | [Read More](https://medium.com/p/6f872cae84da) |
 | Sat, 07 Jun 2025 05:23:27 GMT | ️ Broken Access Control — The Silent Gatekeeper Flaw (OWASP Top 10) | Sirivantesy | [Read More](https://medium.com/p/9f5c1b2a7a92) |
 | Sat, 07 Jun 2025 05:21:41 GMT | From Zero to Enterprise: A Deep Dive Into Cisco Network Configuration | Tonny Blair | [Read More](https://medium.com/p/ca81f0dd364e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 19:57:01 GMT | Wireshark Beginner’s Guide (Comprehensive) | Analyst Atlas | [Read More](https://medium.com/p/1d96ec99613d) |
 | Fri, 06 Jun 2025 19:39:15 GMT | How I Spot a Suspicious Process on My Linux Server (Before It Does Damage) | Faruk Ahmed | [Read More](https://medium.com/p/b9092ce88f6f) |
 | Fri, 06 Jun 2025 19:30:07 GMT | Inside the Mind of the Enemy: What Drives Cyber Threat Actors and Why Proactive Defense Is… | Jair Abrego Cubilla | [Read More](https://medium.com/p/01ced0d34099) |
-| Fri, 06 Jun 2025 19:24:59 GMT | Applying OT safety culture to build a resilient CTI culture | Ian Lane | [Read More](https://medium.com/p/702006734d99) |
-| Fri, 06 Jun 2025 19:24:44 GMT | Defeating AV/EDRs: Advanced Evasion Techniques | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d389fb21478d) |
-| Fri, 06 Jun 2025 19:15:44 GMT | Simple Hardening SSH di Debian 12 | Ris | [Read More](https://medium.com/p/e6891b220194) |
-| Fri, 06 Jun 2025 19:13:54 GMT | Russia’s Escalating Digital Iron Curtain: New Data Laws and Their Geopolitical Fallout | CCD-IS | [Read More](https://medium.com/p/b7869f6a40db) |
-| Fri, 06 Jun 2025 19:12:42 GMT | Welcome to the very first edition of homelaby! | homelaby | [Read More](https://medium.com/p/44339759b30f) |
-| Fri, 06 Jun 2025 19:03:22 GMT | Is Using Public Wi-Fi Safe? | Savvy Cyber Kids | [Read More](https://medium.com/p/73c7b59451e0) |
-| Fri, 06 Jun 2025 19:03:03 GMT | Sextortion & Teens: Why This Topic Should Be On Every Parent’s Radar Now & Forever | Savvy Cyber Kids | [Read More](https://medium.com/p/22c8f171176c) |
-| Fri, 06 Jun 2025 19:02:53 GMT | Why should you use a password manager? | alphaBEE | [Read More](https://medium.com/p/90dea15d633c) |
-| Fri, 06 Jun 2025 19:02:44 GMT | Netflix Docuseries “Web of Lies: Death by SWAT” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/3db679e6f535) |
-| Fri, 06 Jun 2025 19:02:14 GMT | The Not-So-Secret Secrets of 2025: Are Your Passwords This Predictable? | Cyber Kavy | [Read More](https://medium.com/p/e33e072630e5) |
-| Fri, 06 Jun 2025 18:58:06 GMT | When Cyber Attacks Hit Your Bottom Line: Why Resilience Is Your New Competitive Edge | david cahn | [Read More](https://medium.com/p/e7026d8b2f54) |
