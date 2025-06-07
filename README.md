@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 04:32:03 GMT | How to Claim $BUGS for Bugs Bunny | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/4a41fc25619f) |
 | Sat, 07 Jun 2025 04:24:26 GMT | Hunter XP: A Complete Digital Forensics Case Study on Cybercrime, Blackmail & Stalking | Sujal Adhikari | [Read More](https://medium.com/p/40d72b8f59b7) |
 | Sat, 07 Jun 2025 04:16:21 GMT | Lab 25 — Using the route command to display network information on Linux | Hassen Hannachi | [Read More](https://medium.com/p/c0718b784e63) |
 | Sat, 07 Jun 2025 04:12:53 GMT | Unmasking the Invisible Threat: Understanding and Protecting Against Crypto Dusting Attacks | pwned | [Read More](https://medium.com/p/378412484474) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 18:02:34 GMT | CTF Day(9) | Ahmed Narmer | [Read More](https://medium.com/p/4a085ec154e8) |
 | Fri, 06 Jun 2025 18:00:17 GMT | Security in and around MCP: Part 1 — OAuth in MCP | Maia Iyer | [Read More](https://medium.com/p/3f15fed0dd6e) |
 | Fri, 06 Jun 2025 17:58:00 GMT | **A Step-by-Step Guide to Building and Troubleshooting a Multi-Block Corporate Network** | Daniel | [Read More](https://medium.com/p/bf38a51e84ac) |
-| Fri, 06 Jun 2025 17:53:22 GMT | The Weekly Threat Round-up 01/06/2025–06/06/2025 | RileyHv | [Read More](https://medium.com/p/55af84e32feb) |
