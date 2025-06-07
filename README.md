@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 16:39:12 GMT | Spear Phishing - The Targeted Cyberattack You Need to Watch Out For | Phani Kanuri | [Read More](https://medium.com/p/374ef717bc73) |
+| Sat, 07 Jun 2025 16:36:31 GMT | Hardening linux sederhana | Richardgreynardi | [Read More](https://medium.com/p/cd81ab6aa982) |
+| Sat, 07 Jun 2025 16:30:57 GMT | Phishing Attacks-The Digital Con Game You Need to Avoid | Phani Kanuri | [Read More](https://medium.com/p/33128f276287) |
+| Sat, 07 Jun 2025 16:27:59 GMT | Day 56 ️: Learning Bash Scripting — Understanding Functions | Agarwaldaksh | [Read More](https://medium.com/p/72e64a6bcdd6) |
+| Sat, 07 Jun 2025 16:25:04 GMT | Cybersecurity Case Study 2: WannaCry — The Global Ransomware Outbreak | Agarwaldaksh | [Read More](https://medium.com/p/e78f4b3235fe) |
+| Sat, 07 Jun 2025 16:22:15 GMT | Kali GPT: The Future of AI-Driven Cybersecurity Tools in Kali Linux | Ekene Joseph | [Read More](https://medium.com/p/544824b878ea) |
+| Sat, 07 Jun 2025 16:19:41 GMT | CoPilot Now Speaks MITRE: A Smarter Way to Understand Threats | SOCFortress | [Read More](https://medium.com/p/f678709f497c) |
+| Sat, 07 Jun 2025 16:19:31 GMT | Cybersecurity: Protecting Yourself in a Digital World | Phani Kanuri | [Read More](https://medium.com/p/28fe9938a8a5) |
+| Sat, 07 Jun 2025 16:15:56 GMT | How to Secure Your Linux Device with Basic Hardening Techniques | Fauzan Putra Ramadhan | [Read More](https://medium.com/p/df2237044f8e) |
 | Sat, 07 Jun 2025 16:01:58 GMT | Day 15: More CSRF | Nile Okomo | [Read More](https://medium.com/p/543cc7310347) |
 | Sat, 07 Jun 2025 15:59:51 GMT | Data Privacy Basics: What It Means and Why You Should Care Today | Hitesh Said | [Read More](https://medium.com/p/42189555ab9f) |
+| Sat, 07 Jun 2025 15:59:13 GMT | Pemahaman ICS/SCADA dan Ancaman Serangan Siber terhadap Sistem Industri | Yogi Fadhil Fachrurrozi | [Read More](https://medium.com/p/e915d02150ba) |
 | Sat, 07 Jun 2025 15:54:16 GMT | JavaScript for Hackers: The Ultimate Guide for Offensive Security | Very Lazy Tech | [Read More](https://medium.com/p/5631473baa22) |
 | Sat, 07 Jun 2025 15:52:52 GMT | Tools ZIP Brute Force Sederhana | Ris | [Read More](https://medium.com/p/01f8e5dbef17) |
 | Sat, 07 Jun 2025 15:51:34 GMT | When “Simple” Coding Challenges Hide Malware | TheNewAutonomy | [Read More](https://medium.com/p/c589dd68d1ee) |
@@ -103,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 11:23:46 GMT | Understanding Misconfiguration Exploits: A Beginner’s Guide to Offensive Security Thinking. | Corey Jones | [Read More](https://medium.com/p/ec86f812e6fb) |
 | Sat, 07 Jun 2025 11:19:27 GMT | SSH Hardening on Kali Linux | Noa | [Read More](https://medium.com/p/ae154156f399) |
 | Sat, 07 Jun 2025 10:59:13 GMT | Vulnerability Analysis: Unlocking the Secrets to Bypass Security | sixxish | [Read More](https://medium.com/p/f4fb6be72ffa) |
-| Sat, 07 Jun 2025 10:53:52 GMT | Massive detection of unused service accounts on Google Cloud | Alvaro Martinez Muñoz ✅ | [Read More](https://medium.com/p/bd70542e5ef3) |
-| Sat, 07 Jun 2025 10:52:48 GMT | Best Practices for Securing an AWS Environment | Ravi Kyada | [Read More](https://medium.com/p/3da746a2a810) |
-| Sat, 07 Jun 2025 10:50:43 GMT | Claim $BNTY tokens by Bounty with This Crypto Guide within Minutes | Oscar
- Morris | [Read More](https://medium.com/p/9c7b085b86e7) |
-| Sat, 07 Jun 2025 10:49:14 GMT | [Deep Dive] into R8: Shrinking, Optimizing, and Obfuscating Your Android App | tahn98 | [Read More](https://medium.com/p/327f4642a90a) |
-| Sat, 07 Jun 2025 10:47:45 GMT | The Rise of EvilGPT: A New Challenge in Cybersecurity | A Kafili | [Read More](https://medium.com/p/d2c979e02d4d) |
-| Sat, 07 Jun 2025 10:47:03 GMT | Excessive Agency in LLMs — OWASP Top 10 LLMs | Akanksha | [Read More](https://medium.com/p/9cda6506707e) |
-| Sat, 07 Jun 2025 10:40:49 GMT | Enumeration: The Key to Finding and Exploiting Vulnerabilities | sixxish | [Read More](https://medium.com/p/4c36829ea6b0) |
-| Sat, 07 Jun 2025 10:39:00 GMT | Implementing Custom Network Routes in Azure Virtual Network | Balamurugan | [Read More](https://medium.com/p/5ba33c621372) |
-| Sat, 07 Jun 2025 10:33:52 GMT | How to Secure Your AI’s Brain: Designing a Safer Model Context Protocol (MCP) (Introduction) | Yann Jouanin | [Read More](https://medium.com/p/4d50a5a5c04f) |
-| Sat, 07 Jun 2025 10:33:52 GMT | Beyond the Inbox: Understanding the Rise of AiTM Phishing | Saransh Mahajan | [Read More](https://medium.com/p/3ec6f95ce744) |
