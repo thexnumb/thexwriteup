@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 13:23:37 GMT | Cross-Border Rail Cargo Authentication via Interoperable DLT | A-STAR7_DOCTOR | [Read More](https://medium.com/p/f16f0e642fb4) |
+| Sat, 07 Jun 2025 13:23:25 GMT | Membongkar Kunci Rahasia JWT dari Nol dengan Gobruter | Dzulfiqar Ali Rasyid | [Read More](https://medium.com/p/c7091f3db53d) |
+| Sat, 07 Jun 2025 13:15:12 GMT | Telegram analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/4bcb25143668) |
+| Sat, 07 Jun 2025 13:11:06 GMT | How Hackers Hack WordPress Sites - TryHackMe All In One Room Walkthrough | MatSec | [Read More](https://medium.com/p/8820f0a0eec9) |
+| Sat, 07 Jun 2025 13:02:12 GMT | Viral Deception: How AI-Driven TikTok Scams Are Spreading Malware Worldwide | Peris.ai Cybersecurity | [Read More](https://medium.com/p/bf0422c69316) |
+| Sat, 07 Jun 2025 12:58:05 GMT | NahamCon 2025 CTF Writeup | Harish Sivaraman | [Read More](https://medium.com/p/c87be2850378) |
+| Sat, 07 Jun 2025 12:57:40 GMT | Naked truth. | Suhani Kandakatlla | [Read More](https://medium.com/p/42c49c025508) |
+| Sat, 07 Jun 2025 12:54:54 GMT | Hardening SSH & NGINX: Make Your Server Stronger | HETSHI | [Read More](https://medium.com/p/d6ee6acfa047) |
+| Sat, 07 Jun 2025 12:54:51 GMT | Claim $BOUNTY  Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/2f92e17c205b) |
+| Sat, 07 Jun 2025 12:51:14 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintainya | Naufal Hilmy Mahdy | [Read More](https://medium.com/p/aad0188d8b34) |
+| Sat, 07 Jun 2025 12:43:00 GMT | Turning Django REST Framework into a Black Box: A Step-by-Step Guide with PyArmor, Docker, and… | Pranav Dixit | [Read More](https://medium.com/p/8160ba48eaa1) |
+| Sat, 07 Jun 2025 12:40:47 GMT | JSS Group — Best Security Company in Mumbai & India | Digital Bhushan Kadam | [Read More](https://medium.com/p/d9c7ac03374f) |
+| Sat, 07 Jun 2025 12:39:28 GMT | JWT Security Nightmare: Why My “Bulletproof” Authentication System Left Users Exposed to Token… | Nandakishore P | [Read More](https://medium.com/p/404a100dfc6e) |
+| Sat, 07 Jun 2025 12:33:36 GMT | AMSI Patching | LordShen | [Read More](https://medium.com/p/6908c47951aa) |
 | Sat, 07 Jun 2025 12:29:32 GMT | Are MCP Servers Insecure? A Deep Dive into Enterprise Security Challenges and Solutions for 2025 | Ragnar Heil | [Read More](https://medium.com/p/af376aea0a54) |
 | Sat, 07 Jun 2025 12:28:05 GMT | CARA HARDENING LINUX DENGAN REMOTE TOOLS SSH | Elsandro Rivalito | [Read More](https://medium.com/p/8f77c09f1113) |
 | Sat, 07 Jun 2025 12:15:44 GMT | Top 10 AI-Powered Tools Every Bug Bounty Hunter Should Try in 2025 | Andrei Ivan | [Read More](https://medium.com/p/3af6cfc6212e) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 06:11:25 GMT | Exploring Computer Forensics and Anti-Forensic Data Storage Techniques | Victor O. Alvarez | [Read More](https://medium.com/p/9355d4e58564) |
 | Sat, 07 Jun 2025 06:00:33 GMT | Today’s Top Cyber Intelligence Highlights — Jun 07, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/989fc27a2221) |
 | Sat, 07 Jun 2025 05:56:20 GMT | Understanding Cryptography: The Art of Secure Communication | Vansh Khandelwal | [Read More](https://medium.com/p/3f13127bf2a2) |
-| Sat, 07 Jun 2025 05:56:09 GMT | The Windows Security Journey — Hotpatching | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/12ffb5d3e80a) |
-| Sat, 07 Jun 2025 05:49:53 GMT | 21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About | Satyam Pathania | [Read More](https://medium.com/p/b02fa72cc057) |
-| Sat, 07 Jun 2025 05:47:43 GMT | $7,500 Bug: Exposing Any HackerOne User’s Email via Private Program Invite | Monika sharma | [Read More](https://medium.com/p/de6fd6b3b6c8) |
-| Sat, 07 Jun 2025 05:47:43 GMT | Netlas Dorking - Part 1 | AbhirupKonwar | [Read More](https://medium.com/p/c847fac73c7b) |
-| Sat, 07 Jun 2025 05:43:25 GMT | Guide To Hardening Linux | Daarin | [Read More](https://medium.com/p/acb35a3c0c19) |
-| Sat, 07 Jun 2025 05:25:11 GMT | Server Hardening: Upaya Preventif Mengelola Risiko Siber | himawanazmi | [Read More](https://medium.com/p/6f872cae84da) |
-| Sat, 07 Jun 2025 05:23:33 GMT | Mengenal ICS/SCADA: Sistem Vital Industri dan Ancaman Siber yang Mengintai | Dzakwan Efendi | [Read More](https://medium.com/p/d6fad3248df2) |
-| Sat, 07 Jun 2025 05:23:27 GMT | ️ Broken Access Control — The Silent Gatekeeper Flaw (OWASP Top 10) | Sirivantesy | [Read More](https://medium.com/p/9f5c1b2a7a92) |
-| Sat, 07 Jun 2025 05:21:41 GMT | From Zero to Enterprise: A Deep Dive Into Cisco Network Configuration | Tonny Blair | [Read More](https://medium.com/p/ca81f0dd364e) |
-| Sat, 07 Jun 2025 05:16:25 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintai Infrastruktur Kritis | DhiyaaSheva | [Read More](https://medium.com/p/742b50919fb7) |
-| Sat, 07 Jun 2025 05:07:32 GMT | From Crust to Connection: A Beginner’s Guide to the OSI Model | Sirivantesy | [Read More](https://medium.com/p/700d7a79b588) |
-| Sat, 07 Jun 2025 05:05:52 GMT | Keep Saying ‘I Deserve Better’ Then Settle for the Same Bullsh*t Every Time | X-Plain | [Read More](https://medium.com/p/474ec8a3e759) |
-| Sat, 07 Jun 2025 05:02:45 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Simarjot Singh Maan | [Read More](https://medium.com/p/6d790f9bc601) |
-| Sat, 07 Jun 2025 04:57:34 GMT | Python Automation Series — Day 4 | Pavan V | [Read More](https://medium.com/p/297afe51f31f) |
