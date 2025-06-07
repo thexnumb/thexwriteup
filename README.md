@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 04:24:26 GMT | Hunter XP: A Complete Digital Forensics Case Study on Cybercrime, Blackmail & Stalking | Sujal Adhikari | [Read More](https://medium.com/p/40d72b8f59b7) |
+| Sat, 07 Jun 2025 04:16:21 GMT | Lab 25 — Using the route command to display network information on Linux | Hassen Hannachi | [Read More](https://medium.com/p/c0718b784e63) |
+| Sat, 07 Jun 2025 04:12:53 GMT | Unmasking the Invisible Threat: Understanding and Protecting Against Crypto Dusting Attacks | pwned | [Read More](https://medium.com/p/378412484474) |
+| Sat, 07 Jun 2025 04:07:40 GMT | Beyond the Moat: Why Zero Trust is Your New Cybersecurity Imperative | pwned | [Read More](https://medium.com/p/181840bde9c7) |
+| Sat, 07 Jun 2025 03:53:15 GMT | IT Courses in Bangalore | Reddylikitha | [Read More](https://medium.com/p/17ea4b8c0ce2) |
 | Sat, 07 Jun 2025 03:52:07 GMT | From Disaster to Recovery in Minutes: 50 Essential Cron Jobs | Saikat Paul | [Read More](https://medium.com/p/5914a4554615) |
 | Sat, 07 Jun 2025 03:39:35 GMT | How to Secure Your Web Application with an SSL Certificate | Sachini Weerakkody | [Read More](https://medium.com/p/73aef2318cbc) |
 | Sat, 07 Jun 2025 03:35:56 GMT | Brute Force File ZIP dengan Python: Panduan Lengkap dari Nol untuk Pemula | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/30b45368dff7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 18:00:17 GMT | Security in and around MCP: Part 1 — OAuth in MCP | Maia Iyer | [Read More](https://medium.com/p/3f15fed0dd6e) |
 | Fri, 06 Jun 2025 17:58:00 GMT | **A Step-by-Step Guide to Building and Troubleshooting a Multi-Block Corporate Network** | Daniel | [Read More](https://medium.com/p/bf38a51e84ac) |
 | Fri, 06 Jun 2025 17:53:22 GMT | The Weekly Threat Round-up 01/06/2025–06/06/2025 | RileyHv | [Read More](https://medium.com/p/55af84e32feb) |
-| Fri, 06 Jun 2025 17:38:00 GMT | ICS & SCADA: Siapa Sangka Sistem Industri Bisa Jadi Sasaran Hacker? | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/67afb34fd825) |
-| Fri, 06 Jun 2025 17:37:04 GMT | TheHackersLabs — Merchan | APS88 | [Read More](https://medium.com/p/98bdea98563f) |
-| Fri, 06 Jun 2025 17:35:28 GMT | Why On-Chain Analytics Should Be Part of Every Security Strategy | Decrypt0 | [Read More](https://medium.com/p/61980168e26c) |
-| Fri, 06 Jun 2025 17:26:38 GMT | The Future of Cloud Security with Microsoft Defender for Cloud | Techridge Solutions | [Read More](https://medium.com/p/7df1426d20c1) |
-| Fri, 06 Jun 2025 17:19:13 GMT | Cybersecurity News Review — Week 23 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/f87adcee0bb1) |
