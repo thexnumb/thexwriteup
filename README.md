@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 23:13:30 GMT | Car Parking Shades Suppliers | Car Park Shades Suppliers 0543839003 | [Read More](https://medium.com/p/ee70000c3aac) |
+| Sat, 07 Jun 2025 22:55:33 GMT | Rebuilding the Future of Open-Source Penetration Testing: The LEGION2 Renaissance | Igor Dunaev | [Read More](https://medium.com/p/26ac4ec87e3d) |
+| Sat, 07 Jun 2025 22:48:52 GMT | What Dating After Divorce Taught Me About True Vulnerability Online | Renee Lynn Frojo | [Read More](https://medium.com/p/85af253171bb) |
+| Sat, 07 Jun 2025 22:47:45 GMT | First Blood with Metasploit — Week 1 of “Script Kitty to Pro Hacker” | Jesse Ridley | [Read More](https://medium.com/p/67ac1e809de3) |
 | Sat, 07 Jun 2025 22:29:18 GMT | RedTiger: Advanced Automated XSS Vulnerability Testing Tool | medjahdi | [Read More](https://medium.com/p/a506706767dc) |
 | Sat, 07 Jun 2025 22:04:31 GMT | TryHackMe — NetSec Challenge (Medium Difficulty) | Saassoso | [Read More](https://medium.com/p/3b4dcbc82847) |
 | Sat, 07 Jun 2025 21:56:37 GMT | The Stego Chronicles: Achieving Perfect Undetectability in An Imperfect Digital World | Ian Barwise | [Read More](https://medium.com/p/92e77544beb9) |
@@ -110,7 +114,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 14:43:32 GMT | The Day I Learned Cybersecurity Touches Us All | Tukur Waziri | [Read More](https://medium.com/p/611bf06472a0) |
 | Sat, 07 Jun 2025 14:37:14 GMT | Crop Breaker — BruteForce tools for PDF & ZIP | AjiPangesstu | [Read More](https://medium.com/p/1f319d5aaf52) |
 | Sat, 07 Jun 2025 14:36:26 GMT | Designed to Defend: How YagminAI Embodies Secure-by-Design AI | Pete Yagmin | [Read More](https://medium.com/p/a8dbdc83619f) |
-| Sat, 07 Jun 2025 14:27:25 GMT | How to Use SocialBox in Termux: A Beginner-Friendly Guide | Kambetastephano | [Read More](https://medium.com/p/8f285a5aedd6) |
-| Sat, 07 Jun 2025 14:26:28 GMT | Minimum Viable Security, Part 1: What to Fix Before Your Product Goes Live | Rajesh Kanade | [Read More](https://medium.com/p/ec9b4ca9e416) |
-| Sat, 07 Jun 2025 14:17:00 GMT | The Exploitation of Trust Relationships | 0zn0g | [Read More](https://medium.com/p/1f3a343f8d84) |
-| Sat, 07 Jun 2025 14:14:46 GMT | Friday Edition — Threat Actor Activity | SecurityPulse News | [Read More](https://medium.com/p/2b6a07c080b9) |
