@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 17:13:12 GMT | The Business Case for Investing in Blockchain Security Early | Decrypt0 | [Read More](https://medium.com/p/d4f281912b69) |
+| Sat, 07 Jun 2025 17:09:02 GMT | JWT: How I turned a Regular User into an Admin in 3 Steps | 0xPedrop | [Read More](https://medium.com/p/48e66c61f621) |
+| Sat, 07 Jun 2025 17:07:03 GMT | ️‍♂️ Staying Anonymous on Kali Linux with Proxychains and VPN | Esra Kayhan | [Read More](https://medium.com/p/906dead79317) |
+| Sat, 07 Jun 2025 17:03:51 GMT | Step into the World of $LFI  and Start Building Your Crypto Portfolio | $LFI (LunaFi) | [Read More](https://medium.com/p/c0dab19c0389) |
+| Sat, 07 Jun 2025 17:02:45 GMT | From Service to Cyber Sentinel: Navigating the Military-to-Cybersecurity Transition in Public and… | Jeffrey Nickle | [Read More](https://medium.com/p/8577828af5e5) |
+| Sat, 07 Jun 2025 16:55:41 GMT | Situational Vulnerability: It Could Happen to You (and Probably Has) | Jura Glo | [Read More](https://medium.com/p/4d2d3f6f5ec7) |
+| Sat, 07 Jun 2025 16:49:30 GMT | AI and data privacy concerns | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e47f72f261a7) |
+| Sat, 07 Jun 2025 16:45:22 GMT | Simple Debian Server Hardening With SSH & UFW | Fachri | [Read More](https://medium.com/p/48151f4629ab) |
+| Sat, 07 Jun 2025 16:42:33 GMT | WHAT ARE ICS AND SCADA? | Daarin | [Read More](https://medium.com/p/8dcc7e053ad1) |
 | Sat, 07 Jun 2025 16:39:12 GMT | Spear Phishing - The Targeted Cyberattack You Need to Watch Out For | Phani Kanuri | [Read More](https://medium.com/p/374ef717bc73) |
 | Sat, 07 Jun 2025 16:36:31 GMT | Hardening linux sederhana | Richardgreynardi | [Read More](https://medium.com/p/cd81ab6aa982) |
 | Sat, 07 Jun 2025 16:30:57 GMT | Phishing Attacks-The Digital Con Game You Need to Avoid | Phani Kanuri | [Read More](https://medium.com/p/33128f276287) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 11:51:14 GMT | You Don’t Need to Be a Genius to Be a Hacker. Just Be Curious. | Sumanth Yerranagula | [Read More](https://medium.com/p/72adbae62969) |
 | Sat, 07 Jun 2025 11:45:13 GMT | RXSS in uncalled function | Sevada797 | [Read More](https://medium.com/p/f6eb14bc5bd6) |
 | Sat, 07 Jun 2025 11:41:56 GMT | Business logic allows any user to be blocked from creating an account | JEETPAL | [Read More](https://medium.com/p/6a7ab7013ccc) |
-| Sat, 07 Jun 2025 11:40:55 GMT | Pwning Photographer (Vulnhub Walkthrough) | Calvaryhasarrived | [Read More](https://medium.com/p/56552cde5f32) |
-| Sat, 07 Jun 2025 11:33:14 GMT | Rising Optimism in Cybersecurity Stocks: Palo Alto Networks and Zscaler | EngineerInvests | [Read More](https://medium.com/p/92681a0d45ed) |
-| Sat, 07 Jun 2025 11:30:17 GMT | Historical Risk Management and Its Influence on Modern Cybersecurity | Bassam Shahin | [Read More](https://medium.com/p/814dc9b9cca2) |
-| Sat, 07 Jun 2025 11:25:23 GMT | Residential Security Services in Delhi NCR: Smart Protection for Modern Living | Anshikaaa | [Read More](https://medium.com/p/99c62f53b9b0) |
-| Sat, 07 Jun 2025 11:25:02 GMT | Business Logic Flaws: A Bug Hunter’s Handbook | Gr3yG05T | [Read More](https://medium.com/p/293f6a89a7f4) |
-| Sat, 07 Jun 2025 11:24:55 GMT | เมื่อ LLM ก็มีช่องโหว่! เจาะลึก OWASP Top 10 for LLM Applications 2025 | ACIS Professional Center | [Read More](https://medium.com/p/8fafa65c18da) |
-| Sat, 07 Jun 2025 11:23:46 GMT | Understanding Misconfiguration Exploits: A Beginner’s Guide to Offensive Security Thinking. | Corey Jones | [Read More](https://medium.com/p/ec86f812e6fb) |
-| Sat, 07 Jun 2025 11:19:27 GMT | SSH Hardening on Kali Linux | Noa | [Read More](https://medium.com/p/ae154156f399) |
-| Sat, 07 Jun 2025 10:59:13 GMT | Vulnerability Analysis: Unlocking the Secrets to Bypass Security | sixxish | [Read More](https://medium.com/p/f4fb6be72ffa) |
