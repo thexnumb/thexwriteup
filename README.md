@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 18:41:13 GMT | Winbox MAC Brute Force Login Tool untuk Router MikroTik | Hafidzah | [Read More](https://medium.com/p/0743b7287195) |
+| Sat, 07 Jun 2025 18:37:33 GMT | Investigate Web Attack — Let’s Defend Writeup | V0idd | [Read More](https://medium.com/p/d650ff9c4d40) |
+| Sat, 07 Jun 2025 18:21:24 GMT | Why You Need a VPN: Protect Your Privacy Online | Natarajan C K | [Read More](https://medium.com/p/170183964205) |
 | Sat, 07 Jun 2025 18:02:10 GMT | Crypto kidnappings, Courtroom data wars, and TikTok’s AI power play: The Week in Focus by Hiswai | Qandeel Akhtar | [Read More](https://medium.com/p/240f5b68d07b) |
 | Sat, 07 Jun 2025 17:52:34 GMT | The BADBOX Botnet Returns: A Silent Invasion Through Your Smart Devices | Siva Gunasekaran | [Read More](https://medium.com/p/8fd8ba427f59) |
 | Sat, 07 Jun 2025 17:34:19 GMT | Post‑Quantum Cryptography Takes Center Stage at Infosecurity Europe 2025 | QuantumGenie | [Read More](https://medium.com/p/3887d87dce1d) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 12:12:30 GMT | Hardening Linux — Securing The SSH | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/f941b4e9a614) |
 | Sat, 07 Jun 2025 12:07:57 GMT | The Dark Side of “I’m Human” Clicks: How Atomic macOS Stealer is Hijacking Apple Users Through Fake… | Ismail Tasdelen | [Read More](https://medium.com/p/c6aa74bdac16) |
 | Sat, 07 Jun 2025 12:07:06 GMT | The Relentless Tide of Technology and the Digital Future | Simon Peter Chibole | [Read More](https://medium.com/p/7061ab99fb1e) |
-| Sat, 07 Jun 2025 12:07:06 GMT | Corporate Greed Chronicles: Proctor and Gamble’s Layoff Masquerade | Namir Sagheenanajar | [Read More](https://medium.com/p/922ab64bef6e) |
-| Sat, 07 Jun 2025 12:03:07 GMT | Claude Goes to Washington: Anthropic’s New AI Models for National Security ️ | Ismail Tasdelen | [Read More](https://medium.com/p/6800ff555674) |
-| Sat, 07 Jun 2025 12:01:20 GMT | Reverse Shell Practice | Hunter Yoo | [Read More](https://medium.com/p/c5e1891f2269) |
