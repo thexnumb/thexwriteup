@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 19:25:47 GMT | Wait, Why Is This User Hitting the API Every Hour? | Rishita Trivedi | [Read More](https://medium.com/p/c7f22f4bd9f4) |
+| Sat, 07 Jun 2025 19:24:50 GMT | Tracing Code Like a Hacker: Intro to Reverse Engineering | Mark Babcock | [Read More](https://medium.com/p/963168f29ffc) |
+| Sat, 07 Jun 2025 19:21:03 GMT | ✅ The Ultimate SOC 2 Compliance Checklist: A Guide for Security and GRC Teams | Kenneth Thomas Baidoo | [Read More](https://medium.com/p/32ddb47c2d77) |
+| Sat, 07 Jun 2025 19:16:20 GMT | Love Doesn’t Ask You to Disappear | Caleb Dempsey | [Read More](https://medium.com/p/dc2ff0b56785) |
 | Sat, 07 Jun 2025 19:11:47 GMT | System Hardening Security for the Privacy Conscious | Malik Vero | [Read More](https://medium.com/p/0a2e1f4f39bd) |
 | Sat, 07 Jun 2025 19:10:28 GMT | North Korean Hackers Might Be Faking DeFi’s Popularity, Here’s How They’re Doing It | CoinGen | [Read More](https://medium.com/p/e9c40ff93a08) |
 | Sat, 07 Jun 2025 19:05:49 GMT | Comprehensive Guide to IDOR and Access Control Testing | Infohack | [Read More](https://medium.com/p/d40bf8266f5b) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 12:58:05 GMT | NahamCon 2025 CTF Writeup | Harish Sivaraman | [Read More](https://medium.com/p/c87be2850378) |
 | Sat, 07 Jun 2025 12:57:40 GMT | Naked truth. | Suhani Kandakatlla | [Read More](https://medium.com/p/42c49c025508) |
 | Sat, 07 Jun 2025 12:54:54 GMT | Hardening SSH & NGINX: Make Your Server Stronger | HETSHI | [Read More](https://medium.com/p/d6ee6acfa047) |
-| Sat, 07 Jun 2025 12:54:51 GMT | Claim $BOUNTY  Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/2f92e17c205b) |
-| Sat, 07 Jun 2025 12:51:14 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintainya | Naufal Hilmy Mahdy | [Read More](https://medium.com/p/aad0188d8b34) |
-| Sat, 07 Jun 2025 12:43:00 GMT | Turning Django REST Framework into a Black Box: A Step-by-Step Guide with PyArmor, Docker, and… | Pranav Dixit | [Read More](https://medium.com/p/8160ba48eaa1) |
-| Sat, 07 Jun 2025 12:40:47 GMT | JSS Group — Best Security Company in Mumbai & India | Digital Bhushan Kadam | [Read More](https://medium.com/p/d9c7ac03374f) |
