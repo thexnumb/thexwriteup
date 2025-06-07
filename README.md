@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 01:32:22 GMT | L’ascension du Vibe Hacking : la nouvelle menace de l’IA | L'ABESTIT | [Read More](https://medium.com/p/6d913e2e9f79) |
+| Sat, 07 Jun 2025 01:31:50 GMT | Les arnaques deepfake bouleversent la réalité : attention danger ! | L'ABESTIT | [Read More](https://medium.com/p/27ba51d50ad1) |
+| Sat, 07 Jun 2025 01:30:50 GMT | How a TryHackMe Box Gaslit Me Until C Saved the Day (Blog-CTF) | Ahengjnr | [Read More](https://medium.com/p/4ce01b7f636a) |
+| Sat, 07 Jun 2025 00:46:06 GMT | Dokumentasi Hardening SSH | Mukti Badriyan | [Read More](https://medium.com/p/a89401d87863) |
+| Sat, 07 Jun 2025 00:44:00 GMT | What happens when you generate a certificate for secure transmission of data | Prakash Valluri | [Read More](https://medium.com/p/0ef00b98eedc) |
+| Fri, 06 Jun 2025 23:58:34 GMT | The inadvertent inclusion of The Atlantic editor-in-chief Jeffrey Goldberg in a Signal group chat… | Vydaraureleus | [Read More](https://medium.com/p/e5e7a03286c3) |
 | Fri, 06 Jun 2025 23:32:21 GMT | Data Governance with Snowflake and GenAI | Abhishek Kumar Gupta | [Read More](https://medium.com/p/070157b93ad4) |
 | Fri, 06 Jun 2025 23:30:01 GMT | Quantifying Cyber Financial Impact: Step-by-Step Guide with Triangular Distribution | Mehdi | [Read More](https://medium.com/p/5204a23f7dc1) |
 | Fri, 06 Jun 2025 23:28:27 GMT | Beyond the Breach: A Legal Expert’s Guide to Surviving Cyber Threats in the AI Era | Frank Gullo | [Read More](https://medium.com/p/9f12ed72c52b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 15:47:21 GMT | ️‍♂️ GitHub Dorking for Bug Bounty: Hackers' Hidden Playground | 127.0.0.1 | [Read More](https://medium.com/p/b21732fcc00d) |
 | Fri, 06 Jun 2025 15:45:55 GMT | MYSQL SECURITY HARDENING GUIDE | Defri Wanda | [Read More](https://medium.com/p/dcf811adeaa1) |
 | Fri, 06 Jun 2025 15:42:02 GMT | PwnOS 1: A Complete Black-Box Pentest Walkthrough | ma40ou | [Read More](https://medium.com/p/65fc39d20487) |
-| Fri, 06 Jun 2025 15:37:06 GMT | Bash Secrets I Learned From 10 Years of Production Hell | Heinancabouly | [Read More](https://medium.com/p/93fe1dbff12a) |
-| Fri, 06 Jun 2025 15:35:41 GMT | 30 Days of Cyber Security — Day 11: Perintah Dasar Linux & Tools di Kali Linux | Indra Rahmat Maulidi | [Read More](https://medium.com/p/c020581c804b) |
-| Fri, 06 Jun 2025 15:32:43 GMT | Why 89% of Bug Bounty Hunters Fail at API Security Testing (And the GraphQL Enumeration Technique… | Andrei Ivan | [Read More](https://medium.com/p/d5688e04439d) |
-| Fri, 06 Jun 2025 15:21:41 GMT | Organizational Development: The System to Build Systems | Don Gunter | [Read More](https://medium.com/p/139d86853b81) |
-| Fri, 06 Jun 2025 15:18:03 GMT | Unfinished Conversations. | Derog Atori | [Read More](https://medium.com/p/2bc4b6aae11a) |
-| Fri, 06 Jun 2025 15:12:24 GMT | Kioptrix Level 3 (VulnHub) Walkthrough | ma40ou | [Read More](https://medium.com/p/0f44327f61fc) |
