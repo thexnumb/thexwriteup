@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 07:27:24 GMT | Network Penetration Testing is the process of simulating  network infrastructure to discover… | GABBYTECH | [Read More](https://medium.com/p/50d38ff3dc48) |
+| Sat, 07 Jun 2025 07:26:13 GMT | Catching LOLBins in Action: Practical Detection Queries | Paritosh | [Read More](https://medium.com/p/f848a65dc82c) |
+| Sat, 07 Jun 2025 07:16:12 GMT | HARDENING UMUM SISTEM LINUX | My Ego | [Read More](https://medium.com/p/4d3351322f3b) |
 | Sat, 07 Jun 2025 07:13:50 GMT | Claiming Multiplier Live now for Bounty: Act now to earn 5x $BNTY rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/8db752ded799) |
 | Sat, 07 Jun 2025 07:05:12 GMT | Phantom Quorum: Unmasking Duplicate Signatures in Committee Attestations | gajnithehero | [Read More](https://medium.com/p/1851f55e286e) |
 | Sat, 07 Jun 2025 07:04:57 GMT | From Naxalbari to Bastar: The Rise, Spread, and Decline of Left-Wing Extremism | Aditya Ojha | [Read More](https://medium.com/p/d1e7fea92e83) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 20:36:05 GMT | Kenalan Dengan Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition… | Ardhan Dimas Nuryadin | [Read More](https://medium.com/p/32b912cc7a98) |
 | Fri, 06 Jun 2025 20:31:43 GMT | The Complexity of Cybersecurity Frameworks is a Threat to Cybersecurity Resilience and Compliance… | Armandoseay | [Read More](https://medium.com/p/8a7072a18f92) |
 | Fri, 06 Jun 2025 20:31:23 GMT | THM — Disgruntled Writeup (Linux Forensics) | Shamar Isaac | [Read More](https://medium.com/p/774169b6d068) |
-| Fri, 06 Jun 2025 20:30:20 GMT | How I Found My First Real Bug — and It Got Accepted! | Youssef El-Sibai | [Read More](https://medium.com/p/a13e15b86a3d) |
-| Fri, 06 Jun 2025 20:30:17 GMT | Hacking the Storm: A Pen Tester’s Take on June 6, 2025’s Cybersecurity Frenzy | Pentestjunkie07 | [Read More](https://medium.com/p/b24544149dc0) |
-| Fri, 06 Jun 2025 20:23:28 GMT | Digital Battle Lines: A Pen Tester’s Take on June 6, 2025’s Cybersecurity Turmoil | Inforsecpro | [Read More](https://medium.com/p/6566405de4ce) |
