@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 06:32:49 GMT | How I Found a Critical Vulnerability on a GOV.MY Web App — And Reported It Responsibly | El Professor Qais | [Read More](https://medium.com/p/e48f27296a01) |
+| Sat, 07 Jun 2025 06:30:01 GMT | Retail Security Guards in Delhi NCR: Essential for Theft Prevention | Anshikaaa | [Read More](https://medium.com/p/f3560e7f1a4c) |
+| Sat, 07 Jun 2025 06:25:05 GMT | Why Central Monitoring Services Are Essential For Business Security | Jane Tang | [Read More](https://medium.com/p/cacb9dc5f78f) |
 | Sat, 07 Jun 2025 06:19:04 GMT | Cloud Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/dbeb8f511652) |
 | Sat, 07 Jun 2025 06:18:05 GMT | Industrial Control Systems (ICS) and SCADA: Operations, Vulnerabilities, and Cyber Defense… | Steven Juliano | [Read More](https://medium.com/p/fd4515117c4f) |
 | Sat, 07 Jun 2025 06:14:43 GMT | Breach in the Cloud Writeup — PwnedLabs | Shounak Das | [Read More](https://medium.com/p/aa85b0f53462) |
@@ -24,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 05:47:43 GMT | Netlas Dorking - Part 1 | AbhirupKonwar | [Read More](https://medium.com/p/c847fac73c7b) |
 | Sat, 07 Jun 2025 05:43:25 GMT | Guide To Hardening Linux | Daarin | [Read More](https://medium.com/p/acb35a3c0c19) |
 | Sat, 07 Jun 2025 05:25:11 GMT | Server Hardening: Upaya Preventif Mengelola Risiko Siber | himawanazmi | [Read More](https://medium.com/p/6f872cae84da) |
+| Sat, 07 Jun 2025 05:23:33 GMT | Mengenal ICS/SCADA: Sistem Vital Industri dan Ancaman Siber yang Mengintai | Dzakwan Efendi | [Read More](https://medium.com/p/d6fad3248df2) |
 | Sat, 07 Jun 2025 05:23:27 GMT | ️ Broken Access Control — The Silent Gatekeeper Flaw (OWASP Top 10) | Sirivantesy | [Read More](https://medium.com/p/9f5c1b2a7a92) |
 | Sat, 07 Jun 2025 05:21:41 GMT | From Zero to Enterprise: A Deep Dive Into Cisco Network Configuration | Tonny Blair | [Read More](https://medium.com/p/ca81f0dd364e) |
 | Sat, 07 Jun 2025 05:16:25 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintai Infrastruktur Kritis | DhiyaaSheva | [Read More](https://medium.com/p/742b50919fb7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Jun 2025 20:16:39 GMT | Don’t Scan Random QR Codes | StillHere | [Read More](https://medium.com/p/3c07796b1115) |
 | Fri, 06 Jun 2025 20:13:25 GMT | Cyber Siege Unveiled: A Pen Tester’s Deep Dive into June 6, 2025’s Digital Chaos | hackerguy | [Read More](https://medium.com/p/58943b62dd49) |
 | Fri, 06 Jun 2025 20:00:17 GMT | Hire an Ethical Hacker to Expose Infidelity: A 2025 Guide — CyberSpac3 | Victor Palumbo | [Read More](https://medium.com/p/6161037d8cc4) |
-| Fri, 06 Jun 2025 19:58:28 GMT | CTF Day(10) | Ahmed Narmer | [Read More](https://medium.com/p/9203d4e6a9c6) |
-| Fri, 06 Jun 2025 19:57:01 GMT | Wireshark Beginner’s Guide (Comprehensive) | Analyst Atlas | [Read More](https://medium.com/p/1d96ec99613d) |
-| Fri, 06 Jun 2025 19:39:15 GMT | How I Spot a Suspicious Process on My Linux Server (Before It Does Damage) | Faruk Ahmed | [Read More](https://medium.com/p/b9092ce88f6f) |
-| Fri, 06 Jun 2025 19:30:07 GMT | Inside the Mind of the Enemy: What Drives Cyber Threat Actors and Why Proactive Defense Is… | Jair Abrego Cubilla | [Read More](https://medium.com/p/01ced0d34099) |
