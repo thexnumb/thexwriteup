@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 12:29:32 GMT | Are MCP Servers Insecure? A Deep Dive into Enterprise Security Challenges and Solutions for 2025 | Ragnar Heil | [Read More](https://medium.com/p/af376aea0a54) |
+| Sat, 07 Jun 2025 12:28:05 GMT | CARA HARDENING LINUX DENGAN REMOTE TOOLS SSH | Elsandro Rivalito | [Read More](https://medium.com/p/8f77c09f1113) |
+| Sat, 07 Jun 2025 12:15:44 GMT | Top 10 AI-Powered Tools Every Bug Bounty Hunter Should Try in 2025 | Andrei Ivan | [Read More](https://medium.com/p/3af6cfc6212e) |
+| Sat, 07 Jun 2025 12:12:30 GMT | Hardening Linux — Securing The SSH | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/f941b4e9a614) |
+| Sat, 07 Jun 2025 12:07:57 GMT | The Dark Side of “I’m Human” Clicks: How Atomic macOS Stealer is Hijacking Apple Users Through Fake… | Ismail Tasdelen | [Read More](https://medium.com/p/c6aa74bdac16) |
+| Sat, 07 Jun 2025 12:07:06 GMT | The Relentless Tide of Technology and the Digital Future | Simon Peter Chibole | [Read More](https://medium.com/p/7061ab99fb1e) |
+| Sat, 07 Jun 2025 12:07:06 GMT | Corporate Greed Chronicles: Proctor and Gamble’s Layoff Masquerade | Namir Sagheenanajar | [Read More](https://medium.com/p/922ab64bef6e) |
+| Sat, 07 Jun 2025 12:03:07 GMT | Claude Goes to Washington: Anthropic’s New AI Models for National Security ️ | Ismail Tasdelen | [Read More](https://medium.com/p/6800ff555674) |
+| Sat, 07 Jun 2025 12:01:20 GMT | Reverse Shell Practice | Hunter Yoo | [Read More](https://medium.com/p/c5e1891f2269) |
+| Sat, 07 Jun 2025 12:00:32 GMT | Unmasking the Shadow Gangs: How Criminal Networks Fabricate Terrorism to Silence Security Experts | SIMKRA | [Read More](https://medium.com/p/7c3e424b734b) |
+| Sat, 07 Jun 2025 12:00:02 GMT | Italy’s Spyware Scandal: The Paragon Affair That Shook Italian Democracy | Ismail Tasdelen | [Read More](https://medium.com/p/81497ae1802e) |
+| Sat, 07 Jun 2025 11:56:07 GMT | The KiranaPro Data Disaster: A Cautionary Tale of Cyber Security Gone Wrong | Ismail Tasdelen | [Read More](https://medium.com/p/549f296fd3f6) |
+| Sat, 07 Jun 2025 11:52:35 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/1e2f928dbca1) |
+| Sat, 07 Jun 2025 11:52:22 GMT | SSC Stenographer Recruitment 2025: 261 पदों के लिए ऑनलाइन आवेदन करें | Gurwant Dhillor | [Read More](https://medium.com/p/f543697bc7c8) |
+| Sat, 07 Jun 2025 11:51:14 GMT | You Don’t Need to Be a Genius to Be a Hacker. Just Be Curious. | Sumanth Yerranagula | [Read More](https://medium.com/p/72adbae62969) |
+| Sat, 07 Jun 2025 11:45:13 GMT | RXSS in uncalled function | Sevada797 | [Read More](https://medium.com/p/f6eb14bc5bd6) |
+| Sat, 07 Jun 2025 11:41:56 GMT | Business logic allows any user to be blocked from creating an account | JEETPAL | [Read More](https://medium.com/p/6a7ab7013ccc) |
+| Sat, 07 Jun 2025 11:40:55 GMT | Pwning Photographer (Vulnhub Walkthrough) | Calvaryhasarrived | [Read More](https://medium.com/p/56552cde5f32) |
 | Sat, 07 Jun 2025 11:33:14 GMT | Rising Optimism in Cybersecurity Stocks: Palo Alto Networks and Zscaler | EngineerInvests | [Read More](https://medium.com/p/92681a0d45ed) |
 | Sat, 07 Jun 2025 11:30:17 GMT | Historical Risk Management and Its Influence on Modern Cybersecurity | Bassam Shahin | [Read More](https://medium.com/p/814dc9b9cca2) |
 | Sat, 07 Jun 2025 11:25:23 GMT | Residential Security Services in Delhi NCR: Smart Protection for Modern Living | Anshikaaa | [Read More](https://medium.com/p/99c62f53b9b0) |
@@ -96,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 05:05:52 GMT | Keep Saying ‘I Deserve Better’ Then Settle for the Same Bullsh*t Every Time | X-Plain | [Read More](https://medium.com/p/474ec8a3e759) |
 | Sat, 07 Jun 2025 05:02:45 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Simarjot Singh Maan | [Read More](https://medium.com/p/6d790f9bc601) |
 | Sat, 07 Jun 2025 04:57:34 GMT | Python Automation Series — Day 4 | Pavan V | [Read More](https://medium.com/p/297afe51f31f) |
-| Sat, 07 Jun 2025 04:52:46 GMT | Apa Itu ICS/SCADA? Apakah ICS/SCADA Bisa Diserang? | DzakySN | [Read More](https://medium.com/p/93eff593a4a8) |
-| Sat, 07 Jun 2025 04:47:41 GMT | How Cyber Threat Intelligence Fits Into Cyber Security | Arachne Digital | [Read More](https://medium.com/p/62befbbe9f83) |
-| Sat, 07 Jun 2025 04:32:03 GMT | How to Claim $BUGS for Bugs Bunny | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/4a41fc25619f) |
-| Sat, 07 Jun 2025 04:24:26 GMT | Hunter XP: A Complete Digital Forensics Case Study on Cybercrime, Blackmail & Stalking | Sujal Adhikari | [Read More](https://medium.com/p/40d72b8f59b7) |
-| Sat, 07 Jun 2025 04:16:21 GMT | Lab 25 — Using the route command to display network information on Linux | Hassen Hannachi | [Read More](https://medium.com/p/c0718b784e63) |
-| Sat, 07 Jun 2025 04:12:53 GMT | Unmasking the Invisible Threat: Understanding and Protecting Against Crypto Dusting Attacks | pwned | [Read More](https://medium.com/p/378412484474) |
-| Sat, 07 Jun 2025 04:07:40 GMT | Beyond the Moat: Why Zero Trust is Your New Cybersecurity Imperative | pwned | [Read More](https://medium.com/p/181840bde9c7) |
-| Sat, 07 Jun 2025 03:53:15 GMT | IT Courses in Bangalore | Reddylikitha | [Read More](https://medium.com/p/17ea4b8c0ce2) |
-| Sat, 07 Jun 2025 03:52:07 GMT | From Disaster to Recovery in Minutes: 50 Essential Cron Jobs | Saikat Paul | [Read More](https://medium.com/p/5914a4554615) |
-| Sat, 07 Jun 2025 03:39:35 GMT | How to Secure Your Web Application with an SSL Certificate | Sachini Weerakkody | [Read More](https://medium.com/p/73aef2318cbc) |
-| Sat, 07 Jun 2025 03:35:56 GMT | Brute Force File ZIP dengan Python: Panduan Lengkap dari Nol untuk Pemula | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/30b45368dff7) |
-| Sat, 07 Jun 2025 03:25:13 GMT | If you listen to birds, every day will have a song in it. | Anote Jonathan | [Read More](https://medium.com/p/b88d81b10608) |
-| Sat, 07 Jun 2025 03:19:37 GMT | Day 88: Understanding Security Data Lakes | Bl@ckC!pH3r | [Read More](https://medium.com/p/2150df581a4b) |
-| Sat, 07 Jun 2025 03:11:41 GMT | Day 81: Top SOC Use Cases You Need to Know | Bl@ckC!pH3r | [Read More](https://medium.com/p/d7195e7c52cb) |
-| Sat, 07 Jun 2025 03:10:32 GMT | Day 80: Staying Strong — How to Avoid Burnout in Cybersecurity | Bl@ckC!pH3r | [Read More](https://medium.com/p/2ebf1fa01d86) |
-| Sat, 07 Jun 2025 03:08:43 GMT | Day 78: Personal Branding for Beginners | Bl@ckC!pH3r | [Read More](https://medium.com/p/8dbc70ac7c67) |
-| Sat, 07 Jun 2025 02:56:22 GMT | ADS (Automated Driving System) Security | Utsav Sapkota | [Read More](https://medium.com/p/dfca53c08b80) |
-| Sat, 07 Jun 2025 02:55:42 GMT | Windows 11 CVE Exposure and Hacker Exploitation of Unpatched Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/d88f109fa3f2) |
