@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 22:04:31 GMT | TryHackMe — NetSec Challenge (Medium Difficulty) | Saassoso | [Read More](https://medium.com/p/3b4dcbc82847) |
+| Sat, 07 Jun 2025 21:56:37 GMT | The Stego Chronicles: Achieving Perfect Undetectability in An Imperfect Digital World | Ian Barwise | [Read More](https://medium.com/p/92e77544beb9) |
+| Sat, 07 Jun 2025 21:53:52 GMT | SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing | Raynard Waits | [Read More](https://medium.com/p/16d264f37bcf) |
+| Sat, 07 Jun 2025 21:35:23 GMT | An Ultimate Guide for Mobile App Development — Part 3 | ILHAM ASGARLI | [Read More](https://medium.com/p/c8ef26e117a9) |
 | Sat, 07 Jun 2025 21:33:46 GMT | Segurança na perspectiva dos devs, com Snyk | Pedro Brasileiro | [Read More](https://medium.com/p/4518d560a25c) |
+| Sat, 07 Jun 2025 21:33:12 GMT | TLS-Resilient Monitoring for Open5GS in Secure
+and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://medium.com/p/39405a041237) |
 | Sat, 07 Jun 2025 21:07:01 GMT | Shellcode Injection Methods for Windows | LordShen | [Read More](https://medium.com/p/6dde1c8253b0) |
 | Sat, 07 Jun 2025 21:03:05 GMT | Saturday Edition — General Cyber News Summary | SecurityPulse News | [Read More](https://medium.com/p/74e8b66be578) |
 | Sat, 07 Jun 2025 21:02:37 GMT | TTAT+ Meets Generative AI: Securing the Next Frontier of Automated Threat Generation | Jeffrey Nickle | [Read More](https://medium.com/p/7603835b8469) |
@@ -108,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 14:17:00 GMT | The Exploitation of Trust Relationships | 0zn0g | [Read More](https://medium.com/p/1f3a343f8d84) |
 | Sat, 07 Jun 2025 14:14:46 GMT | Friday Edition — Threat Actor Activity | SecurityPulse News | [Read More](https://medium.com/p/2b6a07c080b9) |
 | Sat, 07 Jun 2025 14:11:35 GMT | Consent Theater: How Privacy Notices Lie to Your Face | MrsNo1Special | [Read More](https://medium.com/p/6ee4a7f14050) |
-| Sat, 07 Jun 2025 14:11:06 GMT | Brute Force Non IP-Based (ZIP Attack) | Noa | [Read More](https://medium.com/p/cb02a42aec13) |
-| Sat, 07 Jun 2025 14:09:22 GMT | The Pentester’s Arsenal: 25 Commands That Actually Work in 2025 | Saikat Paul | [Read More](https://medium.com/p/90d9dd2f51eb) |
-| Sat, 07 Jun 2025 14:09:08 GMT | ICS/SCADA | Fahrul Dwi Anugrah | [Read More](https://medium.com/p/5c095230f887) |
-| Sat, 07 Jun 2025 14:06:29 GMT | Cybersecurity and Climate: When Disasters Become Digital Entry Points | MrsNo1Special | [Read More](https://medium.com/p/dfba0ffcfc51) |
-| Sat, 07 Jun 2025 14:02:18 GMT | Evasion with ProtectMyTooling | Lord Murak | [Read More](https://medium.com/p/028e48f9d9a8) |
