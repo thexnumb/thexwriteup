@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 20:12:02 GMT | OPSEC: The Philosophy of Being Ostensible. | Eziyo | [Read More](https://medium.com/p/e878936f6028) |
+| Sat, 07 Jun 2025 20:10:43 GMT | Web Cache Deception Vulnerability Explained with Examples | Monika sharma | [Read More](https://medium.com/p/2a9654445383) |
+| Sat, 07 Jun 2025 20:03:33 GMT | Service URLs: The Hidden Gateways in Your Attack Surface | Dzianis Skliar | [Read More](https://medium.com/p/cb22fcc74884) |
+| Sat, 07 Jun 2025 20:03:14 GMT | $3,000 Bug: HackerOne for Jira Plugin Exposed JWT to Unauthorized Users | Monika sharma | [Read More](https://medium.com/p/f1fcb08abde2) |
+| Sat, 07 Jun 2025 20:00:43 GMT | Interface Statistics and Masquerade Connections | Saksham Sharma. | [Read More](https://medium.com/p/8b5179813695) |
+| Sat, 07 Jun 2025 19:54:39 GMT | TURNING NUCLEI INTO A GOLD MINE! | Tenebris Venator | [Read More](https://medium.com/p/ba2ae1020015) |
+| Sat, 07 Jun 2025 19:50:39 GMT | Technical Analysis and OSINT-based Research of CVE-2017–7921 in Hikvision IP Cameras | hacker_might | [Read More](https://medium.com/p/6ff140a814a3) |
+| Sat, 07 Jun 2025 19:47:04 GMT | What Is DNS? A Beginner’s Guide to the Domain Name System | Mainekdeveloper | [Read More](https://medium.com/p/7ae20127446f) |
+| Sat, 07 Jun 2025 19:42:43 GMT | Why I Think Like a Hacker Before Writing Any Code | Yusufhan Saçak | [Read More](https://medium.com/p/b1fb872d15ca) |
+| Sat, 07 Jun 2025 19:41:33 GMT | My Virtual HomeLab: Active Directory — Part Two | Cybersec with Hemmars | [Read More](https://medium.com/p/b636c9a9ea34) |
+| Sat, 07 Jun 2025 19:41:10 GMT | $150 Bounty: How a 6-Digit Code Bypass Led to a Permanent Account Lockout on Evernote | Monika sharma | [Read More](https://medium.com/p/8d78e10557f4) |
+| Sat, 07 Jun 2025 19:35:56 GMT | How to Install, Configure & Run Fail2Ban on Linux (A Practical Guide) | Roman Huliak | [Read More](https://medium.com/p/60e600256705) |
 | Sat, 07 Jun 2025 19:25:47 GMT | Wait, Why Is This User Hitting the API Every Hour? | Rishita Trivedi | [Read More](https://medium.com/p/c7f22f4bd9f4) |
 | Sat, 07 Jun 2025 19:24:50 GMT | Tracing Code Like a Hacker: Intro to Reverse Engineering | Mark Babcock | [Read More](https://medium.com/p/963168f29ffc) |
 | Sat, 07 Jun 2025 19:21:03 GMT | ✅ The Ultimate SOC 2 Compliance Checklist: A Guide for Security and GRC Teams | Kenneth Thomas Baidoo | [Read More](https://medium.com/p/32ddb47c2d77) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 13:43:51 GMT | Facing GRC Challenges Head-On: Proactive Beats Perfect | Brittney Ginther | [Read More](https://medium.com/p/b49cb44d16ea) |
 | Sat, 07 Jun 2025 13:42:09 GMT | My Personal Experience with Hackviser’s Certified Associate Penetration Tester (CAPT) | Van Emerson Francisco | [Read More](https://medium.com/p/a80afbf563cd) |
 | Sat, 07 Jun 2025 13:39:37 GMT | Thompson TryHackMe walkthrough | M Gebril | [Read More](https://medium.com/p/09b8dd4f24e3) |
-| Sat, 07 Jun 2025 13:32:01 GMT | Blurred and Exposed: How Your Digital Reflexes Reveal More Than You Think | MrsNo1Special | [Read More](https://medium.com/p/267be8cd78a9) |
-| Sat, 07 Jun 2025 13:28:44 GMT | A Life Lived Upside Down | Isha | [Read More](https://medium.com/p/eac7ae15a11e) |
-| Sat, 07 Jun 2025 13:26:45 GMT | How Can I Recover My Money From Inertix ? | Thomaseilliamsh | [Read More](https://medium.com/p/a532a9fe042a) |
-| Sat, 07 Jun 2025 13:23:37 GMT | Cross-Border Rail Cargo Authentication via Interoperable DLT | A-STAR7_DOCTOR | [Read More](https://medium.com/p/f16f0e642fb4) |
-| Sat, 07 Jun 2025 13:23:25 GMT | Membongkar Kunci Rahasia JWT dari Nol dengan Gobruter | Dzulfiqar Ali Rasyid | [Read More](https://medium.com/p/c7091f3db53d) |
-| Sat, 07 Jun 2025 13:20:44 GMT | For The Days That Don’t Look Like Much. | Kabeerabusari | [Read More](https://medium.com/p/295e1a817070) |
-| Sat, 07 Jun 2025 13:15:12 GMT | Telegram analysis tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/4bcb25143668) |
-| Sat, 07 Jun 2025 13:11:06 GMT | How Hackers Hack WordPress Sites - TryHackMe All In One Room Walkthrough | MatSec | [Read More](https://medium.com/p/8820f0a0eec9) |
-| Sat, 07 Jun 2025 13:02:12 GMT | Viral Deception: How AI-Driven TikTok Scams Are Spreading Malware Worldwide | Peris.ai Cybersecurity | [Read More](https://medium.com/p/bf0422c69316) |
-| Sat, 07 Jun 2025 12:58:05 GMT | NahamCon 2025 CTF Writeup | Harish Sivaraman | [Read More](https://medium.com/p/c87be2850378) |
-| Sat, 07 Jun 2025 12:57:40 GMT | Naked truth. | Suhani Kandakatlla | [Read More](https://medium.com/p/42c49c025508) |
-| Sat, 07 Jun 2025 12:54:54 GMT | Hardening SSH & NGINX: Make Your Server Stronger | HETSHI | [Read More](https://medium.com/p/d6ee6acfa047) |
