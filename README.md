@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 11:33:14 GMT | Rising Optimism in Cybersecurity Stocks: Palo Alto Networks and Zscaler | EngineerInvests | [Read More](https://medium.com/p/92681a0d45ed) |
+| Sat, 07 Jun 2025 11:30:17 GMT | Historical Risk Management and Its Influence on Modern Cybersecurity | Bassam Shahin | [Read More](https://medium.com/p/814dc9b9cca2) |
+| Sat, 07 Jun 2025 11:25:23 GMT | Residential Security Services in Delhi NCR: Smart Protection for Modern Living | Anshikaaa | [Read More](https://medium.com/p/99c62f53b9b0) |
+| Sat, 07 Jun 2025 11:25:02 GMT | Business Logic Flaws: A Bug Hunter’s Handbook | Gr3yG05T | [Read More](https://medium.com/p/293f6a89a7f4) |
+| Sat, 07 Jun 2025 11:24:55 GMT | เมื่อ LLM ก็มีช่องโหว่! เจาะลึก OWASP Top 10 for LLM Applications 2025 | ACIS Professional Center | [Read More](https://medium.com/p/8fafa65c18da) |
+| Sat, 07 Jun 2025 11:23:46 GMT | Understanding Misconfiguration Exploits: A Beginner’s Guide to Offensive Security Thinking. | Corey Jones | [Read More](https://medium.com/p/ec86f812e6fb) |
+| Sat, 07 Jun 2025 11:19:27 GMT | SSH Hardening on Kali Linux | Noa | [Read More](https://medium.com/p/ae154156f399) |
 | Sat, 07 Jun 2025 10:59:13 GMT | Vulnerability Analysis: Unlocking the Secrets to Bypass Security | sixxish | [Read More](https://medium.com/p/f4fb6be72ffa) |
 | Sat, 07 Jun 2025 10:53:52 GMT | Massive detection of unused service accounts on Google Cloud | Alvaro Martinez Muñoz ✅ | [Read More](https://medium.com/p/bd70542e5ef3) |
 | Sat, 07 Jun 2025 10:52:48 GMT | Best Practices for Securing an AWS Environment | Ravi Kyada | [Read More](https://medium.com/p/3da746a2a810) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 03:08:43 GMT | Day 78: Personal Branding for Beginners | Bl@ckC!pH3r | [Read More](https://medium.com/p/8dbc70ac7c67) |
 | Sat, 07 Jun 2025 02:56:22 GMT | ADS (Automated Driving System) Security | Utsav Sapkota | [Read More](https://medium.com/p/dfca53c08b80) |
 | Sat, 07 Jun 2025 02:55:42 GMT | Windows 11 CVE Exposure and Hacker Exploitation of Unpatched Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/d88f109fa3f2) |
-| Sat, 07 Jun 2025 02:54:23 GMT | SIEM Adoption Across Leading Markets in Asia | David SEHYEON Baek | [Read More](https://medium.com/p/08bb8c01d2bd) |
-| Sat, 07 Jun 2025 02:51:40 GMT | The Fragility of Cloud-Based Cybersecurity — Beyond the Cases of CrowdStrike and SentinelOne | David SEHYEON Baek | [Read More](https://medium.com/p/f0d35941977d) |
-| Sat, 07 Jun 2025 02:49:12 GMT | How Dark Web Markets and Underground Platforms Are Transforming in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/0401e19ab2ed) |
-| Sat, 07 Jun 2025 02:47:58 GMT | Hacking Techniques and Real-World WhatsApp Security Breaches | David SEHYEON Baek | [Read More](https://medium.com/p/e06d1db64352) |
-| Sat, 07 Jun 2025 02:46:11 GMT | North Korean Hackers Target Cryptocurrency Developers Through LinkedIn Recruitment Scams | David SEHYEON Baek | [Read More](https://medium.com/p/904a9bc15dbf) |
-| Sat, 07 Jun 2025 02:37:30 GMT | Smart Building & Facility Management with Blockchain–Edge Fusion | A-STAR7_DOCTOR | [Read More](https://medium.com/p/003a95d0d6bd) |
-| Sat, 07 Jun 2025 02:32:13 GMT | Deepfake Detection: The Next Frontier in Cybersecurity | Parth Patel | [Read More](https://medium.com/p/c1c9ea33d0af) |
