@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Jun 2025 10:59:13 GMT | Vulnerability Analysis: Unlocking the Secrets to Bypass Security | sixxish | [Read More](https://medium.com/p/f4fb6be72ffa) |
+| Sat, 07 Jun 2025 10:53:52 GMT | Massive detection of unused service accounts on Google Cloud | Alvaro Martinez Muñoz ✅ | [Read More](https://medium.com/p/bd70542e5ef3) |
+| Sat, 07 Jun 2025 10:52:48 GMT | Best Practices for Securing an AWS Environment | Ravi Kyada | [Read More](https://medium.com/p/3da746a2a810) |
+| Sat, 07 Jun 2025 10:50:43 GMT | Claim $BNTY tokens by Bounty with This Crypto Guide within Minutes | Oscar
+ Morris | [Read More](https://medium.com/p/9c7b085b86e7) |
+| Sat, 07 Jun 2025 10:49:14 GMT | [Deep Dive] into R8: Shrinking, Optimizing, and Obfuscating Your Android App | tahn98 | [Read More](https://medium.com/p/327f4642a90a) |
+| Sat, 07 Jun 2025 10:47:45 GMT | The Rise of EvilGPT: A New Challenge in Cybersecurity | A Kafili | [Read More](https://medium.com/p/d2c979e02d4d) |
+| Sat, 07 Jun 2025 10:47:03 GMT | Excessive Agency in LLMs — OWASP Top 10 LLMs | Akanksha | [Read More](https://medium.com/p/9cda6506707e) |
 | Sat, 07 Jun 2025 10:40:49 GMT | Enumeration: The Key to Finding and Exploiting Vulnerabilities | sixxish | [Read More](https://medium.com/p/4c36829ea6b0) |
+| Sat, 07 Jun 2025 10:39:00 GMT | Implementing Custom Network Routes in Azure Virtual Network | Balamurugan | [Read More](https://medium.com/p/5ba33c621372) |
 | Sat, 07 Jun 2025 10:33:52 GMT | How to Secure Your AI’s Brain: Designing a Safer Model Context Protocol (MCP) (Introduction) | Yann Jouanin | [Read More](https://medium.com/p/4d50a5a5c04f) |
+| Sat, 07 Jun 2025 10:33:52 GMT | Beyond the Inbox: Understanding the Rise of AiTM Phishing | Saransh Mahajan | [Read More](https://medium.com/p/3ec6f95ce744) |
 | Sat, 07 Jun 2025 10:30:42 GMT | Apa itu Linux Hardening? | Irfanbayu | [Read More](https://medium.com/p/c1d33cee2b4c) |
 | Sat, 07 Jun 2025 10:13:37 GMT | 5 Digital Mindset Principles to Outsmart Online Scams | Divya Dangroshiya | [Read More](https://medium.com/p/f9475446a067) |
 | Sat, 07 Jun 2025 10:03:11 GMT | Dokumentasi Hardening SSH pada Kali Linux | Irfan Syarifudin | [Read More](https://medium.com/p/5be17d1e6279) |
@@ -104,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 02:46:11 GMT | North Korean Hackers Target Cryptocurrency Developers Through LinkedIn Recruitment Scams | David SEHYEON Baek | [Read More](https://medium.com/p/904a9bc15dbf) |
 | Sat, 07 Jun 2025 02:37:30 GMT | Smart Building & Facility Management with Blockchain–Edge Fusion | A-STAR7_DOCTOR | [Read More](https://medium.com/p/003a95d0d6bd) |
 | Sat, 07 Jun 2025 02:32:13 GMT | Deepfake Detection: The Next Frontier in Cybersecurity | Parth Patel | [Read More](https://medium.com/p/c1c9ea33d0af) |
-| Sat, 07 Jun 2025 02:30:16 GMT | THM Billing Walkthrough | Victor Khattar (PentaK) | [Read More](https://medium.com/p/1948789b2d96) |
-| Sat, 07 Jun 2025 02:16:59 GMT | Quarter Parking Lot Moon | Daniela Králová | [Read More](https://medium.com/p/1be98537dd05) |
-| Sat, 07 Jun 2025 02:11:37 GMT | Why Deloitte Faces Ongoing Risk from Infostealer Malware — Insights from a Real Incident | David SEHYEON Baek | [Read More](https://medium.com/p/b7f33e1a47e0) |
-| Sat, 07 Jun 2025 02:09:31 GMT | Cybersecurity Challenges and Incidents in Vodafone’s Global Operations | David SEHYEON Baek | [Read More](https://medium.com/p/3cd70b807b57) |
-| Sat, 07 Jun 2025 02:08:37 GMT | CIA vs DAD Triad | Mr.Cool | [Read More](https://medium.com/p/99f0f6684997) |
-| Sat, 07 Jun 2025 02:06:52 GMT | The 2016 Cyberattack on Thailand’s Ministry of Foreign Affairs | David SEHYEON Baek | [Read More](https://medium.com/p/54475915846c) |
-| Sat, 07 Jun 2025 02:05:57 GMT | Cryptocurrencies and NFTs in the Post-Quantum Era | Max Rolando Menéndez Barreras | [Read More](https://medium.com/p/669875749ce9) |
-| Sat, 07 Jun 2025 01:32:22 GMT | L’ascension du Vibe Hacking : la nouvelle menace de l’IA | L'ABESTIT | [Read More](https://medium.com/p/6d913e2e9f79) |
-| Sat, 07 Jun 2025 01:31:50 GMT | Les arnaques deepfake bouleversent la réalité : attention danger ! | L'ABESTIT | [Read More](https://medium.com/p/27ba51d50ad1) |
