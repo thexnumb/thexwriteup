@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 08:33:09 GMT | Session Management and How It Can Go Wrong | Pranieth Chandrasekara | [Read More](https://medium.com/p/389b5c86de00) |
+| Sun, 08 Jun 2025 08:33:05 GMT | Trump Threatens Musk as Starlink Breach Exposes White House to Espionage | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/6c79511921aa) |
+| Sun, 08 Jun 2025 08:32:10 GMT | Kostenloser Digital-Readiness-Leitfaden für 2025 (mit sofort umsetzbarer Strategie-Roadmap) | Philip Hansen | [Read More](https://medium.com/p/4db3b2605e26) |
+| Sun, 08 Jun 2025 08:31:34 GMT | Digitale Transformation 2025 meistern: Der strategische Leitfaden für Bedarfsanalyse und… | Philip Hansen | [Read More](https://medium.com/p/347c48910e24) |
+| Sun, 08 Jun 2025 08:18:29 GMT | Minimal Apache HTTP Server 2.4 Hardening on Linux: A CIS Benchmark Approach | Muhammad Zidan | [Read More](https://medium.com/p/4673d353de13) |
+| Sun, 08 Jun 2025 08:17:18 GMT | Open-source AI models are revolutionising cybersecurity, powering everything from scam/fraud… | Garegin Margaryan | [Read More](https://medium.com/p/46bed461c492) |
+| Sun, 08 Jun 2025 08:16:27 GMT | Federated Learning (FL): The Privacy nuances for Anti-Scam/Fraud solution providers | Garegin Margaryan | [Read More](https://medium.com/p/dfa487880fdb) |
 | Sun, 08 Jun 2025 08:13:25 GMT | Identity Shouldn’t Be Forced | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0a184ed200fb) |
 | Sun, 08 Jun 2025 08:10:09 GMT | Fully Homomorphic Encryption (FHE) & AI & EU Privacy Regulations: Limitations and Opportunities in… | Garegin Margaryan | [Read More](https://medium.com/p/e7f8c80257b8) |
 | Sun, 08 Jun 2025 08:09:06 GMT | Stolen Property resources for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/2100b4322344) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 23:33:07 GMT | Strengthening Cybersecurity Defenses: Introducing ID-Spoofer for Linux Infrastructure Testing | Igor Dunaev | [Read More](https://medium.com/p/57c2b04258fa) |
 | Sat, 07 Jun 2025 23:32:22 GMT | Cloud Infrastructure Entitlement Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/1cd68eb39f7f) |
 | Sat, 07 Jun 2025 23:28:51 GMT | Keep Hackers Out: Password and Account Policies That Work | Adam Jikat | [Read More](https://medium.com/p/633017654601) |
-| Sat, 07 Jun 2025 23:13:30 GMT | Car Parking Shades Suppliers | Car Park Shades Suppliers 0543839003 | [Read More](https://medium.com/p/ee70000c3aac) |
-| Sat, 07 Jun 2025 22:55:33 GMT | Rebuilding the Future of Open-Source Penetration Testing: The LEGION2 Renaissance | Igor Dunaev | [Read More](https://medium.com/p/26ac4ec87e3d) |
-| Sat, 07 Jun 2025 22:48:52 GMT | What Dating After Divorce Taught Me About True Vulnerability Online | Renee Lynn Frojo | [Read More](https://medium.com/p/85af253171bb) |
-| Sat, 07 Jun 2025 22:47:45 GMT | First Blood with Metasploit — Week 1 of “Script Kitty to Pro Hacker” | Jesse Ridley | [Read More](https://medium.com/p/67ac1e809de3) |
-| Sat, 07 Jun 2025 22:29:18 GMT | RedTiger: Advanced Automated XSS Vulnerability Testing Tool | medjahdi | [Read More](https://medium.com/p/a506706767dc) |
-| Sat, 07 Jun 2025 22:04:31 GMT | TryHackMe — NetSec Challenge (Medium Difficulty) | Saassoso | [Read More](https://medium.com/p/3b4dcbc82847) |
-| Sat, 07 Jun 2025 21:56:37 GMT | The Stego Chronicles: Achieving Perfect Undetectability in An Imperfect Digital World | Ian Barwise | [Read More](https://medium.com/p/92e77544beb9) |
