@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 23:12:28 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/319ae133ee09) |
+| Sun, 08 Jun 2025 23:02:15 GMT | Julio Rene Alfonso Segura — OmniScriptum Publishing | Julio Rene Alfonso Segura | [Read More](https://medium.com/p/349fa93e3b93) |
 | Sun, 08 Jun 2025 22:34:27 GMT | CTF Writeup — TJCTF 2025 — mouse-trail | embossdotar | [Read More](https://medium.com/p/eb37a18a372e) |
+| Sun, 08 Jun 2025 22:32:17 GMT | BLASTER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2f1ad1de0160) |
 | Sun, 08 Jun 2025 22:29:27 GMT | Shifting IT & Security In-House: My Blueprint | 9purp0s3 - Steven | [Read More](https://medium.com/p/229ea250ba39) |
 | Sun, 08 Jun 2025 22:27:23 GMT | Cybersecurity Foundations Mastered Officially ISC2 CC Certified | Lucywillaim | [Read More](https://medium.com/p/2fc9460c575d) |
 | Sun, 08 Jun 2025 22:17:20 GMT | How to Build a Scalable Network Security Architecture for Enterprises | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ac21d52fc469) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 16:00:20 GMT | The English Rules for SOC Analysts | Tyler Wall | [Read More](https://medium.com/p/7280021700b2) |
 | Sun, 08 Jun 2025 15:47:38 GMT | The Good, The Bad and The Ugly of AI | Mahmudur R Manna | [Read More](https://medium.com/p/4fa9ee42b789) |
 | Sun, 08 Jun 2025 15:46:37 GMT | The Pressure to Be “Okay” All the Time | Kondapalli Koyal | [Read More](https://medium.com/p/47c05b97de0d) |
-| Sun, 08 Jun 2025 15:46:26 GMT | Tryhackme: Lookup Walkthrough | Hunyejohn | [Read More](https://medium.com/p/f55af0ede5f7) |
-| Sun, 08 Jun 2025 15:37:50 GMT | Information Management: Intelligence That Powers Business Decisions | Don Gunter | [Read More](https://medium.com/p/ee82063db4c1) |
-| Sun, 08 Jun 2025 15:34:05 GMT | Kali GPT: The AI Cyber Companion Built for Hackers, Not Bloggers | CyberTechAjju | [Read More](https://medium.com/p/a72406655952) |
