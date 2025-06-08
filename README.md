@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 14:13:10 GMT | 10 Common Cybersecurity Threats (and How You Can Stay Safe) | P T | [Read More](https://medium.com/p/bfba23ef5778) |
+| Sun, 08 Jun 2025 14:10:34 GMT | Designing for Zero Trust: UX in the Age of Digital Skepticism | MrsNo1Special | [Read More](https://medium.com/p/d793b32fbbce) |
+| Sun, 08 Jun 2025 14:09:30 GMT | Thompson TryHackMe walkthrough | Mohamed Gebril | [Read More](https://medium.com/p/d1ad5faf8317) |
+| Sun, 08 Jun 2025 14:06:26 GMT | Two-Tier Web App Deployment on AWS using EC2, Route 53, RDS and ALB | Akuphe Dieudonne | [Read More](https://medium.com/p/2bcb0498d844) |
+| Sun, 08 Jun 2025 14:02:12 GMT | I’m Not OK | Tate | [Read More](https://medium.com/p/47aaec4e7b04) |
+| Sun, 08 Jun 2025 14:01:50 GMT | How I Learned to Stop Worrying and Love My Known Hosts | Akhshy Ganesh | [Read More](https://medium.com/p/b645d42b3a27) |
+| Sun, 08 Jun 2025 13:58:18 GMT | Track the Hacks: Unveiling the Archive’s Secret Through File Forensics | byuda | [Read More](https://medium.com/p/b1f9678fdcca) |
+| Sun, 08 Jun 2025 13:57:47 GMT | Dark Patterns, Deeper Holes: How UX is Weaponized in Cybercrime | MrsNo1Special | [Read More](https://medium.com/p/e812407ad55d) |
+| Sun, 08 Jun 2025 13:56:22 GMT | How I Use auditd to Catch Hidden Changes on My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/f8c275b769a0) |
+| Sun, 08 Jun 2025 13:55:00 GMT | TryHackMe-Basic Pentesting Room Writeup | santosh gadekar | [Read More](https://medium.com/p/076f8d1cc051) |
+| Sun, 08 Jun 2025 13:52:39 GMT | Quick Analysis of WanaCrypt0r Malware Part 1 | Haithamaljabbari | [Read More](https://medium.com/p/c47b95b4aa3b) |
+| Sun, 08 Jun 2025 13:51:51 GMT | Here’s How I Recover My Money From Forex Steam | kaylin walker | [Read More](https://medium.com/p/91e6a3a34158) |
+| Sun, 08 Jun 2025 13:51:13 GMT | {7zFORCE}Brute-Force Tool for ZIP/RAR Using Batch Script and 7-Zip | Kaffahrizal | [Read More](https://medium.com/p/93b3861d4271) |
+| Sun, 08 Jun 2025 13:45:59 GMT | A Dime in Time | MrsNo1Special | [Read More](https://medium.com/p/5e085fd0e214) |
+| Sun, 08 Jun 2025 13:44:06 GMT | Kali GPT: The AI Co-Pilot Revolutionizing Penetration Testing on Kali Linux | EL_Cazad0r | [Read More](https://medium.com/p/335d7ecf65b4) |
 | Sun, 08 Jun 2025 13:41:47 GMT | Hacking AWS SNS: CloudGoat’s sns_secrets Lab Walkthrough | Susovan Garai (@vulnxpert) | [Read More](https://medium.com/p/970fc40efa80) |
+| Sun, 08 Jun 2025 13:35:22 GMT | American Narcissism XLIX: What Happens in a Relationship with a Narcissist Before Trauma-Bonding | E Schwartzreich | [Read More](https://medium.com/p/dc8eb49964c7) |
 | Sun, 08 Jun 2025 13:31:21 GMT | Modern Payments, Modern Keys: Why Key Management Matters in Banking and Fintech | Ashwin Sharma | [Read More](https://medium.com/p/08def1a5ac1f) |
 | Sun, 08 Jun 2025 13:30:39 GMT | Membuat Tools Brute Force Winbox via MAC Address dengan Python dan PyAutoGUI | LunarX | [Read More](https://medium.com/p/db0cfce846f0) |
 | Sun, 08 Jun 2025 13:26:27 GMT | A Practical Guide to Hardening Your Ubuntu 24.04 | Abdul Khakim | [Read More](https://medium.com/p/066626fb9728) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 08:58:30 GMT | Mengenal ICS/SCADA: Sistem Vital Industri yang Rentan Diserang | Princex. | [Read More](https://medium.com/p/3f795535eb21) |
 | Sun, 08 Jun 2025 08:56:31 GMT | ICS/SCADA | Abdul Khakim | [Read More](https://medium.com/p/b043d913a34d) |
 | Sun, 08 Jun 2025 08:50:15 GMT | Cracking SSH with Python — Building a Brute Force Tool Using Paramiko | Hammam Awis Zukimi | [Read More](https://medium.com/p/234b1fb6302c) |
-| Sun, 08 Jun 2025 08:49:06 GMT | What is Social Engineering? Real-World Examples That’ll Blow Your Mind | Ivo Pereira | [Read More](https://medium.com/p/41b98c236281) |
-| Sun, 08 Jun 2025 08:48:55 GMT | GraphQL Security: Preventing Query Depth and Rate Limiting Attacks | Rizqi Mulki | [Read More](https://medium.com/p/c0a1d479628e) |
-| Sun, 08 Jun 2025 08:43:22 GMT | Cyber Journey: End-to-End CI /CD Pipeline Part 1 (Framework) | Gabriel Walker-Zuniga | [Read More](https://medium.com/p/70dee766c944) |
-| Sun, 08 Jun 2025 08:33:09 GMT | Session Management and How It Can Go Wrong | Pranieth Chandrasekara | [Read More](https://medium.com/p/389b5c86de00) |
-| Sun, 08 Jun 2025 08:33:05 GMT | Trump Threatens Musk as Starlink Breach Exposes White House to Espionage | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/6c79511921aa) |
-| Sun, 08 Jun 2025 08:32:10 GMT | Kostenloser Digital-Readiness-Leitfaden für 2025 (mit sofort umsetzbarer Strategie-Roadmap) | Philip Hansen | [Read More](https://medium.com/p/4db3b2605e26) |
-| Sun, 08 Jun 2025 08:31:53 GMT | Integration von Standardsoftware: Der strategische Wegweiser für nachhaltige Digitalisierung in… | Philip Hansen | [Read More](https://medium.com/p/4e63219f2ddf) |
-| Sun, 08 Jun 2025 08:31:34 GMT | Digitale Transformation 2025 meistern: Der strategische Leitfaden für Bedarfsanalyse und… | Philip Hansen | [Read More](https://medium.com/p/347c48910e24) |
-| Sun, 08 Jun 2025 08:18:29 GMT | Minimal Apache HTTP Server 2.4 Hardening on Linux: A CIS Benchmark Approach | Muhammad Zidan | [Read More](https://medium.com/p/4673d353de13) |
-| Sun, 08 Jun 2025 08:17:18 GMT | Open-source AI models are revolutionising cybersecurity, powering everything from scam/fraud… | Garegin Margaryan | [Read More](https://medium.com/p/46bed461c492) |
-| Sun, 08 Jun 2025 08:16:27 GMT | Federated Learning (FL): The Privacy nuances for Anti-Scam/Fraud solution providers | Garegin Margaryan | [Read More](https://medium.com/p/dfa487880fdb) |
-| Sun, 08 Jun 2025 08:13:25 GMT | Identity Shouldn’t Be Forced | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0a184ed200fb) |
-| Sun, 08 Jun 2025 08:10:09 GMT | Fully Homomorphic Encryption (FHE) & AI & EU Privacy Regulations: Limitations and Opportunities in… | Garegin Margaryan | [Read More](https://medium.com/p/e7f8c80257b8) |
-| Sun, 08 Jun 2025 08:09:06 GMT | Stolen Property resources for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/2100b4322344) |
-| Sun, 08 Jun 2025 08:00:48 GMT | IPv4 Address Classes Explained: A Comprehensive Guide to Class A, B, C, D, and E | Amol Shinde | [Read More](https://medium.com/p/4d29116c452b) |
-| Sun, 08 Jun 2025 08:00:34 GMT | 10 ways I introduce vulnerability into my writing without being a wet towel | Alex Mathers | [Read More](https://medium.com/p/ab0896b3919e) |
