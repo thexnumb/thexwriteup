@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 15:17:10 GMT | Caesar Cipher CLI Tool with Brute-force | Rommel | [Read More](https://medium.com/p/4ab5e030e17c) |
+| Sun, 08 Jun 2025 15:11:48 GMT | I Thought I Couldn’t Feel This Again | A girl with a thousand feelings | [Read More](https://medium.com/p/f5778f417ec3) |
+| Sun, 08 Jun 2025 15:11:39 GMT | Membangun Tools Cyber Pertama Saya: Proyek Reconnaissance dengan Python | Latansa Bima Amanta | [Read More](https://medium.com/p/c9cc13576b6e) |
+| Sun, 08 Jun 2025 15:10:49 GMT | Membangun Alat Brute Force Winbox Berbasis MAC Address: Panduan Lengkap untuk Praktisi… | Fakihabdulwahab | [Read More](https://medium.com/p/010f8944f8d7) |
+| Sun, 08 Jun 2025 15:09:42 GMT | Navigating and Growing in Cybersecurity as a College student | aflame | [Read More](https://medium.com/p/2bdfb1ba371d) |
+| Sun, 08 Jun 2025 15:09:25 GMT | Shadow AI vs. Shadow IT | Tal Eliyahu | [Read More](https://medium.com/p/0de01156f428) |
+| Sun, 08 Jun 2025 15:08:04 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Karantara | [Read More](https://medium.com/p/51db5e65bc42) |
+| Sun, 08 Jun 2025 15:07:36 GMT | Bruteforce .zip and .rar in linux | Richardgreynardi | [Read More](https://medium.com/p/1e8e0c2f030c) |
+| Sun, 08 Jun 2025 15:01:59 GMT | The Future is Simple: Why AI & Tools Still Miss the Dumbest Bugs | Akash Ghosh | [Read More](https://medium.com/p/8e2072eff5a6) |
+| Sun, 08 Jun 2025 14:57:36 GMT | The KiranaPro Breach: A Cautionary Tale in Startup Security Missteps | CyberLucifer | [Read More](https://medium.com/p/9a833b7e722b) |
+| Sun, 08 Jun 2025 14:53:17 GMT | Membangun Tools Brute Force Login Sangat Sederhana Menggunakan Python | Irfan Syarifudin | [Read More](https://medium.com/p/229d35a0d2c2) |
+| Sun, 08 Jun 2025 14:48:08 GMT | You are Perfect | Mywords | [Read More](https://medium.com/p/2837a99bb2c5) |
+| Sun, 08 Jun 2025 14:47:15 GMT | The Rise of Confidential Computing: Why Data Privacy Needs a Rethink | Luthfisuccess | [Read More](https://medium.com/p/b4431d2a0d22) |
+| Sun, 08 Jun 2025 14:43:43 GMT | My First Reflected XSS: A Beginner’s Journey in Bug Bounty Hunting | Karan | [Read More](https://medium.com/p/5515224c30bc) |
+| Sun, 08 Jun 2025 14:42:11 GMT | Model Theft in LLMs- OWASP Top 10 LLMs | Akanksha | [Read More](https://medium.com/p/17cc65136394) |
+| Sun, 08 Jun 2025 14:41:42 GMT | What goes under Foundational Security Concepts | Igor Berner | [Read More](https://medium.com/p/baf0c16db248) |
 | Sun, 08 Jun 2025 14:36:25 GMT | Introducing HellRush: An Educational DDoS Simulation Toolkit for Network Security Professionals | medjahdi | [Read More](https://medium.com/p/85d12b4265fe) |
 | Sun, 08 Jun 2025 14:30:19 GMT | Simple Bruteforce Login Tools | Andi Fauzan | [Read More](https://medium.com/p/1ed872f4e13e) |
 | Sun, 08 Jun 2025 14:30:13 GMT | Scalability of Cryptocurrencies: Are They Ready for Global Reserve Status? | Imali | [Read More](https://medium.com/p/ce18ba217227) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 10:17:07 GMT | Testing ZIP Encryption with a Simple Brute Force Tool (AES-256 Focus) | sultanrk | [Read More](https://medium.com/p/274f6d49b895) |
 | Sun, 08 Jun 2025 10:16:57 GMT | From Default to Defensive: The Essential 2025 Guide to Hardening Kali Linux | sultanrk | [Read More](https://medium.com/p/8fd0fe372d3e) |
 | Sun, 08 Jun 2025 10:16:49 GMT | Choosing Between Two Security Geniuses: My Deep Dive into Dahua’s Best PTZ Camera | Rara | [Read More](https://medium.com/p/a242ff940754) |
-| Sun, 08 Jun 2025 10:16:40 GMT | When Hackers Hit the Real World: How ICS/SCADA Attacks Disrupt More Than Just Screens | sultanrk | [Read More](https://medium.com/p/42ba79296d1a) |
-| Sun, 08 Jun 2025 10:16:36 GMT | Claim $BUGS tokens by Bugs Bunny with This Crypto Guide within Minutes | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/2ea3ce910c19) |
-| Sun, 08 Jun 2025 10:08:52 GMT | Hacking the Future 2: How I Passed the CompTIA Security+ (SY0–701) Exam. | Andrew (Ocee) Onaulogho | [Read More](https://medium.com/p/1e00fb7a563d) |
-| Sun, 08 Jun 2025 10:07:42 GMT | Mengenal ICS/SCADA dan Bahaya serangannya. | Tiorajin | [Read More](https://medium.com/p/35c547b10c37) |
-| Sun, 08 Jun 2025 10:07:01 GMT | Day 89: Securing the SOC Itself — Tackling Internal Risks Like a Pro | Bl@ckC!pH3r | [Read More](https://medium.com/p/ba9e2b37d9da) |
-| Sun, 08 Jun 2025 10:05:49 GMT | Fixed Lens or Zoom? Choosing Between Two Smart Dahua Cameras That Actually Get the Job Done | Rara | [Read More](https://medium.com/p/3316387f4ec4) |
-| Sun, 08 Jun 2025 10:02:16 GMT | How I Earned a Bounty Using VirusTotal Recon | Vikas Anand | [Read More](https://medium.com/p/93024ee964ed) |
-| Sun, 08 Jun 2025 09:55:07 GMT | ESC1 AD CS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/ff86bff6ae64) |
-| Sun, 08 Jun 2025 09:33:25 GMT | Beyond Encryption: Why Symbolica Aegis™ Redefines Sovereign AI Defense | Mohamed Ibrahim | [Read More](https://medium.com/p/1981553f7c98) |
-| Sun, 08 Jun 2025 09:33:08 GMT | Agents as the New Apps: Infrastructure, Identity, and Autonomy in the Age of AI | Mykola Vasyk | [Read More](https://medium.com/p/6347c7b82c0d) |
-| Sun, 08 Jun 2025 09:30:20 GMT | Gerbang Pertahanan Digital Anda: Menggali Firewall IDS dengan SNORT | Donysetyon | [Read More](https://medium.com/p/6dc7557da4c7) |
-| Sun, 08 Jun 2025 09:28:14 GMT | How To Claim $BNTY Tokens | $BNTY (Bounty) | [Read More](https://medium.com/p/ea45bbfa3895) |
-| Sun, 08 Jun 2025 09:28:13 GMT | Too Much, But Never Not Enough | Amy Writes | [Read More](https://medium.com/p/5199c5011f76) |
-| Sun, 08 Jun 2025 09:26:23 GMT | Introduction to securing the future in AI systems | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/1106cf1fad13) |
-| Sun, 08 Jun 2025 09:07:29 GMT | Cloud Security Pt 1 : | Momodou Ceesay | [Read More](https://medium.com/p/7411a283299e) |
-| Sun, 08 Jun 2025 09:03:24 GMT | TryHackMe Include | Niteesh Deshmukh | [Read More](https://medium.com/p/93fa0505cd53) |
