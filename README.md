@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 17:10:09 GMT | Why “Know Before You Clone” Should Be Every Developer’s Mantra | Travis Felder | [Read More](https://medium.com/p/f19eecf22e28) |
+| Sun, 08 Jun 2025 17:08:44 GMT | Cybersec : MariaDB, round2 | The consistent voice | [Read More](https://medium.com/p/813a2792950b) |
+| Sun, 08 Jun 2025 17:08:12 GMT | Hardening SSH Nonaktifkan Root Login(Remote Access) | Mohamad Axel A. | [Read More](https://medium.com/p/913f182ba6b1) |
+| Sun, 08 Jun 2025 16:58:48 GMT | Time to Evolve: Why Migrating from Okta Classic to Identity Engine is a Security Must | Fran NM | [Read More](https://medium.com/p/eb1734f2cb06) |
+| Sun, 08 Jun 2025 16:58:38 GMT | Prendre conscience de son potentiel : Oser la cybersécurité sans coder ! | Cyber Uncoded | [Read More](https://medium.com/p/c21cf1760811) |
+| Sun, 08 Jun 2025 16:52:48 GMT | How to protect your data from phishing attacks | Tobias Mathew | [Read More](https://medium.com/p/b678aa62dab8) |
+| Sun, 08 Jun 2025 16:48:38 GMT | My Experience with Kali GPT — The AI That Helps You Hack (Legally) | Tharindu Damith | [Read More](https://medium.com/p/d06eb3ef33d7) |
+| Sun, 08 Jun 2025 16:46:11 GMT | Passkeys - Passwordless Authentication | Divyesh P K | [Read More](https://medium.com/p/46e7ff59c912) |
+| Sun, 08 Jun 2025 16:45:09 GMT | Phishing Attack Overview | Tobias Mathew | [Read More](https://medium.com/p/cb85066eb21b) |
 | Sun, 08 Jun 2025 16:39:51 GMT | TJCTF2025 — Web Challenges | Karim Qassem (Hush0x01) | [Read More](https://medium.com/p/8f119e210d1c) |
+| Sun, 08 Jun 2025 16:39:15 GMT | Ask LLM to Jailbreak LLM | restdone | [Read More](https://medium.com/p/553096dca2a5) |
 | Sun, 08 Jun 2025 16:37:40 GMT | Limited Labour Laws for Foreign Domestic Workers (FDWs) in Singapore | A | [Read More](https://medium.com/p/18c1dcc1f4b9) |
 | Sun, 08 Jun 2025 16:23:22 GMT | ‍ Is Hackintosh Still Worth It? The State of Hackintosh in 2025 | Nesan | [Read More](https://medium.com/p/ccf1a8ad9d79) |
 | Sun, 08 Jun 2025 16:23:13 GMT | Day 57: Bash Scripting- Exit Codes, exit, $?, and set -euo pipefail | Agarwaldaksh | [Read More](https://medium.com/p/cc477a4ef601) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 12:32:12 GMT | What Really Drives a CVSS Score? Breaking Down the Base Metrics | Anthony Mukwaya | [Read More](https://medium.com/p/2de073b6ab09) |
 | Sun, 08 Jun 2025 12:28:38 GMT | Panduan Lengkap Hardening SSH di Linux | Darmayanti | [Read More](https://medium.com/p/7b988c2a8223) |
 | Sun, 08 Jun 2025 12:28:22 GMT | Stuxnet: Siber Savaşın İlk Dijital Silahı | Mustafa Caliskan | [Read More](https://medium.com/p/d62f8acac117) |
-| Sun, 08 Jun 2025 12:28:11 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintainya | Rendizar Satria | [Read More](https://medium.com/p/71256890a822) |
-| Sun, 08 Jun 2025 12:26:00 GMT | Membuat Tools Brute Force Password PDF dengan Python di Kali Linux | SltnBM | [Read More](https://medium.com/p/3d27efbc700d) |
-| Sun, 08 Jun 2025 12:13:43 GMT | Installing Metasploitable 2 in VirtualBox for Your Cybersecurity Lab | Abyss | [Read More](https://medium.com/p/217b69144960) |
-| Sun, 08 Jun 2025 12:10:57 GMT | 2025 statistics about AI agents, software supply chain security, and DMARC adoption | CyberSecStats | [Read More](https://medium.com/p/b1feafb32447) |
-| Sun, 08 Jun 2025 12:06:17 GMT | Truster. Damn Vulnerable Defi V4 solutions series | Jorge Zerpa | [Read More](https://medium.com/p/a30f4bee6f05) |
-| Sun, 08 Jun 2025 12:05:38 GMT | Walkthrough Information Disclosure in Version Control System, Portswigger | Norbert Ephraim | [Read More](https://medium.com/p/4b44fc3139eb) |
-| Sun, 08 Jun 2025 12:03:31 GMT | A (Basic) Introduction to Software & Network Security | 0s & 1s — All About Software | [Read More](https://medium.com/p/8c554417af11) |
-| Sun, 08 Jun 2025 12:02:36 GMT | WannaCry Nedir? Büyük Fidye Yazılımı Saldırısının Ardındaki Gerçekler | Mustafa Caliskan | [Read More](https://medium.com/p/8a0ebba753df) |
-| Sun, 08 Jun 2025 12:00:54 GMT | 15 outils OSINT incontournables à maîtriser en 2025 | Marc Barbezat | [Read More](https://medium.com/p/d2d231c34d73) |
-| Sun, 08 Jun 2025 11:59:57 GMT | The Rise of Dark Web Freelancers: Hackers for Hire Are Just a Click Away | Sandesh Kumar | [Read More](https://medium.com/p/ee6bde6bf6cf) |
