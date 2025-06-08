@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 03:23:31 GMT | When Deleted Isn’t Gone — Privacy Risks in Electronics Repair | David SEHYEON Baek | [Read More](https://medium.com/p/c0a055e9d422) |
+| Sun, 08 Jun 2025 03:21:34 GMT | Serverless Security: AWS Lambda Cold Start Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/84461bb7b51a) |
+| Sun, 08 Jun 2025 03:21:29 GMT | Deloitte’s Recurring Cybersecurity Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/10d24eaf68b6) |
+| Sun, 08 Jun 2025 03:19:56 GMT | Emerging Cyber Threats and Attack Vectors to Watch in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/24763e5f1a6d) |
+| Sun, 08 Jun 2025 03:18:47 GMT | “Membuat Script Bruteforce Zip Dengan Python3” | Velskynotfound | [Read More](https://medium.com/p/86ac1711a02d) |
+| Sun, 08 Jun 2025 03:18:23 GMT | EDRKillShifter: The Emerging Threat of Advanced EDR Bypass Tools in Ransomware Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/7fd315cfe0a4) |
+| Sun, 08 Jun 2025 03:16:18 GMT | How Dark Web Markets and Underground Platforms Are Transforming in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/2f142d2b0d7b) |
+| Sun, 08 Jun 2025 03:05:43 GMT | Reclaiming AI: How to Host Your Own LLM with Ollama, Docker, and Open WebUI | Suhith Ghanathay | [Read More](https://medium.com/p/7ed41dd8c23d) |
+| Sun, 08 Jun 2025 02:58:28 GMT | Memahami ICS/SCADA: Tulang Punggung Dunia Industri Modern | Muhammad Rangga Pratama | [Read More](https://medium.com/p/dae2c297d9a0) |
+| Sun, 08 Jun 2025 02:39:36 GMT | SSH Mastery: Cara Ampuh Mengamankan Remote Access Server Kamu | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/95c68360998c) |
+| Sun, 08 Jun 2025 02:25:55 GMT | Securing the Digital Frontier: Enhancing Canada’s Cyber Defence Posture | Centre for International and Defence Policy | [Read More](https://medium.com/p/83f8a7a2dd66) |
+| Sun, 08 Jun 2025 02:20:19 GMT | What I show isn’t me: Hiding in words, but hints are visible. | justanapple | [Read More](https://medium.com/p/786c512b49c2) |
+| Sun, 08 Jun 2025 02:09:54 GMT | PostgreSQL 17 Authentication: How pg_hba.conf Controls Access Like a Firewall | Jeyaram Ayyalusamy | [Read More](https://medium.com/p/cd9a25272a98) |
+| Sun, 08 Jun 2025 01:55:19 GMT | The Strength You Overlook Because It Comes Too Naturally | Maddie Grewal | [Read More](https://medium.com/p/170210764a2c) |
 | Sun, 08 Jun 2025 01:45:22 GMT | Otentikasi Dua Faktor (2FA) | Mukti Badriyan | [Read More](https://medium.com/p/cf4a30658f43) |
 | Sun, 08 Jun 2025 01:44:27 GMT | Membuat Tools Brute Force PIN 4 Digit di Kali Linux | nairawr | [Read More](https://medium.com/p/317257a51a48) |
 | Sun, 08 Jun 2025 01:29:33 GMT | Postfish (Proving Grounds) — OSEP-Focused Write-Up | Amatheusfeitosam | [Read More](https://medium.com/p/323a018b0fe4) |
@@ -99,17 +113,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 16:22:15 GMT | Kali GPT: The Future of AI-Driven Cybersecurity Tools in Kali Linux | Ekene Joseph | [Read More](https://medium.com/p/544824b878ea) |
 | Sat, 07 Jun 2025 16:19:41 GMT | CoPilot Now Speaks MITRE: A Smarter Way to Understand Threats | SOCFortress | [Read More](https://medium.com/p/f678709f497c) |
 | Sat, 07 Jun 2025 16:19:31 GMT | Cybersecurity: Protecting Yourself in a Digital World | Phani Kanuri | [Read More](https://medium.com/p/28fe9938a8a5) |
-| Sat, 07 Jun 2025 16:15:56 GMT | How to Secure Your Linux Device with Basic Hardening Techniques | Fauzan Putra Ramadhan | [Read More](https://medium.com/p/df2237044f8e) |
-| Sat, 07 Jun 2025 16:01:58 GMT | Day 15: More CSRF | Nile Okomo | [Read More](https://medium.com/p/543cc7310347) |
-| Sat, 07 Jun 2025 15:59:51 GMT | Data Privacy Basics: What It Means and Why You Should Care Today | Hitesh Said | [Read More](https://medium.com/p/42189555ab9f) |
-| Sat, 07 Jun 2025 15:59:13 GMT | Pemahaman ICS/SCADA dan Ancaman Serangan Siber terhadap Sistem Industri | Yogi Fadhil Fachrurrozi | [Read More](https://medium.com/p/e915d02150ba) |
-| Sat, 07 Jun 2025 15:54:16 GMT | JavaScript for Hackers: The Ultimate Guide for Offensive Security | Very Lazy Tech | [Read More](https://medium.com/p/5631473baa22) |
-| Sat, 07 Jun 2025 15:52:52 GMT | Tools ZIP Brute Force Sederhana | Ris | [Read More](https://medium.com/p/01f8e5dbef17) |
-| Sat, 07 Jun 2025 15:51:34 GMT | When “Simple” Coding Challenges Hide Malware | TheNewAutonomy | [Read More](https://medium.com/p/c589dd68d1ee) |
-| Sat, 07 Jun 2025 15:50:32 GMT | Zero Trust in the Context of Application Security | The Hackers Meetup | [Read More](https://medium.com/p/07976c4e378a) |
-| Sat, 07 Jun 2025 15:46:56 GMT | I Thought It Was Just an Email Field… It Became Full Stored XSS | Lucfie | [Read More](https://medium.com/p/716ff308853f) |
-| Sat, 07 Jun 2025 15:42:56 GMT | API Keys in Web3: Powerful Tools, Real Risks | TradeLink | [Read More](https://medium.com/p/c37fe8518b80) |
-| Sat, 07 Jun 2025 15:39:59 GMT | Burp Suite 101: Menyadap Web seperti Ethical Hacker | LunarX | [Read More](https://medium.com/p/f29eeb2ea950) |
-| Sat, 07 Jun 2025 15:35:21 GMT | How to Configure a Firewall for Maximum Security: A Complete Guide | Ekene Joseph | [Read More](https://medium.com/p/f4a9f1178041) |
-| Sat, 07 Jun 2025 15:33:29 GMT | Facebook has once again shown that it knows no limits in its efforts to spy on users | J.J. Salomoun | [Read More](https://medium.com/p/d6c7dffbec22) |
-| Sat, 07 Jun 2025 15:15:31 GMT | ID | LonomiaO | [Read More](https://medium.com/p/786f7387f0a5) |
