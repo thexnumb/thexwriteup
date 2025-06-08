@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 19:10:21 GMT | DEADLY INTENTIONS | Boluwatife Lash | [Read More](https://medium.com/p/c8fcb9ee80e4) |
+| Sun, 08 Jun 2025 19:10:00 GMT | Supply-Chain Malware Targets Popular NPM & PyPI Packages in GlueStack Attack | Ronit Yadav | [Read More](https://medium.com/p/5cec43cf2a6a) |
+| Sun, 08 Jun 2025 19:07:05 GMT | ArchCrack: A Simple Brute-Force Tool for Archive Passwords | Steven Juliano | [Read More](https://medium.com/p/48aa917c4720) |
+| Sun, 08 Jun 2025 19:05:07 GMT | My Cyber Security Journey Begins: Why I’m Starting With Linux | Okoye Munachi | [Read More](https://medium.com/p/462ce5d04937) |
+| Sun, 08 Jun 2025 18:53:56 GMT | Day 16: Even More CSRF | Nile Okomo | [Read More](https://medium.com/p/a4eb96ae9254) |
+| Sun, 08 Jun 2025 18:52:10 GMT | What Is Open Redirect? The Simple Bug With Dangerous Consequences | Parsa Mahmoudi | [Read More](https://medium.com/p/5ae606e0324a) |
+| Sun, 08 Jun 2025 18:48:40 GMT | Microsandbox: Solving the Code Execution Security Dilemma | Simardeep Singh | [Read More](https://medium.com/p/4e3ea9138ef8) |
+| Sun, 08 Jun 2025 18:45:07 GMT | Cybersecurity & Insurance: The Unlikely Partnership Businesses Can’t Ignore | Seema Nair | [Read More](https://medium.com/p/44e4b173e0fc) |
+| Sun, 08 Jun 2025 18:41:35 GMT | Simulasi Brute Force Login dan Implementasi Lockout Protection dengan Python dan Flask | Muhammad Idham Cholid | [Read More](https://medium.com/p/52f2d20bb452) |
 | Sun, 08 Jun 2025 18:27:41 GMT | Port Scanning with Linux: Identify Open and Closed Ports Easily | Natarajan C K | [Read More](https://medium.com/p/3b843c1fc452) |
 | Sun, 08 Jun 2025 18:21:48 GMT | The Silent Leak: Unseen Threats Lurking in GenAI Prompts | Avnishyam | [Read More](https://medium.com/p/f61d067a5e10) |
 | Sun, 08 Jun 2025 18:15:42 GMT | Cyber Threat Analyzer Using LLMs and Cloud | Surya G | [Read More](https://medium.com/p/5fb39fb80b4c) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 14:02:12 GMT | I’m Not OK | Tate | [Read More](https://medium.com/p/47aaec4e7b04) |
 | Sun, 08 Jun 2025 14:01:50 GMT | How I Learned to Stop Worrying and Love My Known Hosts | Akhshy Ganesh | [Read More](https://medium.com/p/b645d42b3a27) |
 | Sun, 08 Jun 2025 13:58:18 GMT | Track the Hacks: Unveiling the Archive’s Secret Through File Forensics | byuda | [Read More](https://medium.com/p/b1f9678fdcca) |
-| Sun, 08 Jun 2025 13:57:47 GMT | Dark Patterns, Deeper Holes: How UX is Weaponized in Cybercrime | MrsNo1Special | [Read More](https://medium.com/p/e812407ad55d) |
-| Sun, 08 Jun 2025 13:56:22 GMT | How I Use auditd to Catch Hidden Changes on My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/f8c275b769a0) |
-| Sun, 08 Jun 2025 13:55:00 GMT | TryHackMe-Basic Pentesting Room Writeup | santosh gadekar | [Read More](https://medium.com/p/076f8d1cc051) |
-| Sun, 08 Jun 2025 13:52:39 GMT | Quick Analysis of WanaCrypt0r Malware Part 1 | Haithamaljabbari | [Read More](https://medium.com/p/c47b95b4aa3b) |
-| Sun, 08 Jun 2025 13:51:51 GMT | Here’s How I Recover My Money From Forex Steam | kaylin walker | [Read More](https://medium.com/p/91e6a3a34158) |
-| Sun, 08 Jun 2025 13:51:13 GMT | {7zFORCE}Brute-Force Tool for ZIP/RAR Using Batch Script and 7-Zip | Kaffahrizal | [Read More](https://medium.com/p/93b3861d4271) |
-| Sun, 08 Jun 2025 13:45:59 GMT | A Dime in Time | MrsNo1Special | [Read More](https://medium.com/p/5e085fd0e214) |
-| Sun, 08 Jun 2025 13:44:06 GMT | Kali GPT: The AI Co-Pilot Revolutionizing Penetration Testing on Kali Linux | EL_Cazad0r | [Read More](https://medium.com/p/335d7ecf65b4) |
-| Sun, 08 Jun 2025 13:41:47 GMT | Hacking AWS SNS: CloudGoat’s sns_secrets Lab Walkthrough | Susovan Garai (@vulnxpert) | [Read More](https://medium.com/p/970fc40efa80) |
