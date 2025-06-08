@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 09:28:14 GMT | How To Claim $BNTY Tokens | $BNTY (Bounty) | [Read More](https://medium.com/p/ea45bbfa3895) |
+| Sun, 08 Jun 2025 09:28:13 GMT | Too Much, But Never Not Enough | Amy Writes | [Read More](https://medium.com/p/5199c5011f76) |
+| Sun, 08 Jun 2025 09:26:23 GMT | Introduction to securing the future in AI systems | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/1106cf1fad13) |
 | Sun, 08 Jun 2025 09:07:29 GMT | Cloud Security Pt 1 : | Momodou Ceesay | [Read More](https://medium.com/p/7411a283299e) |
 | Sun, 08 Jun 2025 09:03:24 GMT | TryHackMe Include | Niteesh Deshmukh | [Read More](https://medium.com/p/93fa0505cd53) |
 | Sun, 08 Jun 2025 09:01:32 GMT | picoCTF —what’s a net cat | Rohit Chaudhary | [Read More](https://medium.com/p/31fc13bb3dff) |
@@ -98,6 +101,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 03:21:34 GMT | Serverless Security: AWS Lambda Cold Start Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/84461bb7b51a) |
 | Sun, 08 Jun 2025 03:21:29 GMT | Deloitte’s Recurring Cybersecurity Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/10d24eaf68b6) |
 | Sun, 08 Jun 2025 03:19:56 GMT | Emerging Cyber Threats and Attack Vectors to Watch in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/24763e5f1a6d) |
+| Sun, 08 Jun 2025 03:19:23 GMT | Mengenal ICS SCADA: Sistem Pengendali Industri dan Potensi Ancaman Siber | Daffa Raihan Sugiharto | [Read More](https://medium.com/p/7ca659f8d8f3) |
 | Sun, 08 Jun 2025 03:18:47 GMT | “Membuat Script Bruteforce Zip Dengan Python3” | Velskynotfound | [Read More](https://medium.com/p/86ac1711a02d) |
 | Sun, 08 Jun 2025 03:18:23 GMT | EDRKillShifter: The Emerging Threat of Advanced EDR Bypass Tools in Ransomware Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/7fd315cfe0a4) |
 | Sun, 08 Jun 2025 03:16:18 GMT | How Dark Web Markets and Underground Platforms Are Transforming in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/2f142d2b0d7b) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 02:09:54 GMT | PostgreSQL 17 Authentication: How pg_hba.conf Controls Access Like a Firewall | Jeyaram Ayyalusamy | [Read More](https://medium.com/p/cd9a25272a98) |
 | Sun, 08 Jun 2025 01:55:19 GMT | The Strength You Overlook Because It Comes Too Naturally | Maddie Grewal | [Read More](https://medium.com/p/170210764a2c) |
 | Sun, 08 Jun 2025 01:45:22 GMT | Otentikasi Dua Faktor (2FA) | Mukti Badriyan | [Read More](https://medium.com/p/cf4a30658f43) |
-| Sun, 08 Jun 2025 01:44:27 GMT | Membuat Tools Brute Force PIN 4 Digit di Kali Linux | nairawr | [Read More](https://medium.com/p/317257a51a48) |
-| Sun, 08 Jun 2025 01:29:33 GMT | Postfish (Proving Grounds) — OSEP-Focused Write-Up | Amatheusfeitosam | [Read More](https://medium.com/p/323a018b0fe4) |
-| Sun, 08 Jun 2025 01:28:13 GMT | Unlock the Potential of $BOUNTY and Earn Big with ChainBounty | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/208c7d7f4a5d) |
-| Sun, 08 Jun 2025 01:11:26 GMT | The Man in the Middle Owns the Truth | Thomas F McGeehan V | [Read More](https://medium.com/p/0ed169e816f2) |
