@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 22:34:27 GMT | CTF Writeup — TJCTF 2025 — mouse-trail | embossdotar | [Read More](https://medium.com/p/eb37a18a372e) |
+| Sun, 08 Jun 2025 22:29:27 GMT | Shifting IT & Security In-House: My Blueprint | 9purp0s3 - Steven | [Read More](https://medium.com/p/229ea250ba39) |
+| Sun, 08 Jun 2025 22:27:23 GMT | Cybersecurity Foundations Mastered Officially ISC2 CC Certified | Lucywillaim | [Read More](https://medium.com/p/2fc9460c575d) |
+| Sun, 08 Jun 2025 22:17:20 GMT | How to Build a Scalable Network Security Architecture for Enterprises | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ac21d52fc469) |
 | Sun, 08 Jun 2025 22:02:35 GMT | I Mastered Linux Crushing this Free Challenge! | Daniel. Alegria Lino | [Read More](https://medium.com/p/129d30ec9ee1) |
 | Sun, 08 Jun 2025 22:02:13 GMT | Firewalls Against Oblivion: The Invisible Defenders of Ukraine | Philip Laureano | [Read More](https://medium.com/p/af51aa2d7bf6) |
+| Sun, 08 Jun 2025 21:45:49 GMT | ¿Cuándo vas a gritar? | ruoye | [Read More](https://medium.com/p/f41e43907801) |
 | Sun, 08 Jun 2025 21:45:07 GMT | From Rejections to Accomplishment: Landing My First Cybersecurity Internship in USA | Henil Gandhi | [Read More](https://medium.com/p/285eea628a9a) |
 | Sun, 08 Jun 2025 21:44:53 GMT | AI for Cybersecurity with Labs | Tyler Wall | [Read More](https://medium.com/p/5f78a2db570d) |
 | Sun, 08 Jun 2025 21:29:25 GMT | Demystifying Industrial Tech: Why Zero Trust Matters on the Shop Floor | Thomas Rauch | [Read More](https://medium.com/p/93e8ab96626c) |
@@ -107,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 15:46:26 GMT | Tryhackme: Lookup Walkthrough | Hunyejohn | [Read More](https://medium.com/p/f55af0ede5f7) |
 | Sun, 08 Jun 2025 15:37:50 GMT | Information Management: Intelligence That Powers Business Decisions | Don Gunter | [Read More](https://medium.com/p/ee82063db4c1) |
 | Sun, 08 Jun 2025 15:34:05 GMT | Kali GPT: The AI Cyber Companion Built for Hackers, Not Bloggers | CyberTechAjju | [Read More](https://medium.com/p/a72406655952) |
-| Sun, 08 Jun 2025 15:31:01 GMT | Mass Message Injection and IDOR in Account Verification | Vikas Anand | [Read More](https://medium.com/p/c599b729321d) |
-| Sun, 08 Jun 2025 15:30:55 GMT | Maximize Your Earnings by Collecting $BUG  Quickly and Easily | Gavin
- Wright | [Read More](https://medium.com/p/7889730d7a5c) |
-| Sun, 08 Jun 2025 15:27:05 GMT | Smart Systems, Real Threats: What You Need to Know About ICS & SCADA | Laura Puspa | [Read More](https://medium.com/p/81446e13b024) |
-| Sun, 08 Jun 2025 15:17:10 GMT | Caesar Cipher CLI Tool with Brute-force | Rommel | [Read More](https://medium.com/p/4ab5e030e17c) |
-| Sun, 08 Jun 2025 15:11:48 GMT | I Thought I Couldn’t Feel This Again | A girl with a thousand feelings | [Read More](https://medium.com/p/f5778f417ec3) |
