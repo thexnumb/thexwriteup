@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 07:13:27 GMT | Story of a Cyber Newbie | CosmicByte | [Read More](https://medium.com/p/81dd7c92ff26) |
+| Sun, 08 Jun 2025 07:12:11 GMT | BADBOX 2.0: They’re Using Your Internet. Your IP. Your Identity. And You Have No Clue. | Bipin Kareparambil | [Read More](https://medium.com/p/15db99c20cde) |
+| Sun, 08 Jun 2025 07:08:56 GMT | If You Work from Home, You Should Know These Cybersecurity Basics | Foye | [Read More](https://medium.com/p/cdc4b8655b0d) |
+| Sun, 08 Jun 2025 06:43:28 GMT | ️ Network Penetration Testing in 2025: Why Firewalls Alone Won’t Save You | Smdefencerabbit | [Read More](https://medium.com/p/f3c6767c267f) |
 | Sun, 08 Jun 2025 06:38:25 GMT | Top 10 Essential Ethical Hacker Tools Everyone Should Know | cyber security Updates | [Read More](https://medium.com/p/bfa178572b22) |
 | Sun, 08 Jun 2025 06:31:45 GMT | Splunk | Amalpp | [Read More](https://medium.com/p/bfd03a61693b) |
 | Sun, 08 Jun 2025 06:30:58 GMT | Machine Learning Models Under Cyber Attacks: Emerging Threats in 2025 | Chaitanya Appani | [Read More](https://medium.com/p/618379b3be58) |
+| Sun, 08 Jun 2025 06:29:18 GMT | Melindungi Benteng Digital Anda: Panduan Komprehensif Keamanan Linux dengan Firewall, Patching, dan… | Donysetyon | [Read More](https://medium.com/p/a88af966e51b) |
 | Sun, 08 Jun 2025 06:24:48 GMT | Most Used Linux Commands | The Commoness | [Read More](https://medium.com/p/6f36286c1af3) |
 | Sun, 08 Jun 2025 06:23:47 GMT | Building a CTF Lab with LFI bug vulnerability using ExpressJS | Zamh Putra | [Read More](https://medium.com/p/1ad33ce59bd8) |
 | Sun, 08 Jun 2025 06:19:40 GMT | Safe Data Practices for AI Training & Inference - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/b04ba1cb4105) |
@@ -109,8 +114,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 20:32:13 GMT | Cross-Site Scripting (XSS) Exploitation Techniques | musayyab sharif | [Read More](https://medium.com/p/0f6d7f6d0d6e) |
 | Sat, 07 Jun 2025 20:30:21 GMT | Navigating Directories and Reading Files on Linux | Allison Dimkpa | [Read More](https://medium.com/p/0c3968d79601) |
 | Sat, 07 Jun 2025 20:12:02 GMT | OPSEC: The Philosophy of Being Ostensible. | Eziyo | [Read More](https://medium.com/p/e878936f6028) |
-| Sat, 07 Jun 2025 20:10:43 GMT | Web Cache Deception Vulnerability Explained with Examples | Monika sharma | [Read More](https://medium.com/p/2a9654445383) |
-| Sat, 07 Jun 2025 20:03:33 GMT | Service URLs: The Hidden Gateways in Your Attack Surface | Dzianis Skliar | [Read More](https://medium.com/p/cb22fcc74884) |
-| Sat, 07 Jun 2025 20:03:14 GMT | $3,000 Bug: HackerOne for Jira Plugin Exposed JWT to Unauthorized Users | Monika sharma | [Read More](https://medium.com/p/f1fcb08abde2) |
-| Sat, 07 Jun 2025 20:00:43 GMT | Interface Statistics and Masquerade Connections | Saksham Sharma. | [Read More](https://medium.com/p/8b5179813695) |
-| Sat, 07 Jun 2025 19:54:39 GMT | TURNING NUCLEI INTO A GOLD MINE! | Tenebris Venator | [Read More](https://medium.com/p/ba2ae1020015) |
