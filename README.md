@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 15:34:05 GMT | Kali GPT: The AI Cyber Companion Built for Hackers, Not Bloggers | CyberTechAjju | [Read More](https://medium.com/p/a72406655952) |
+| Sun, 08 Jun 2025 15:31:01 GMT | Mass Message Injection and IDOR in Account Verification | Vikas Anand | [Read More](https://medium.com/p/c599b729321d) |
+| Sun, 08 Jun 2025 15:30:55 GMT | Maximize Your Earnings by Collecting $BUG  Quickly and Easily | Gavin
+ Wright | [Read More](https://medium.com/p/7889730d7a5c) |
+| Sun, 08 Jun 2025 15:27:05 GMT | Smart Systems, Real Threats: What You Need to Know About ICS & SCADA | Laura Puspa | [Read More](https://medium.com/p/81446e13b024) |
 | Sun, 08 Jun 2025 15:17:10 GMT | Caesar Cipher CLI Tool with Brute-force | Rommel | [Read More](https://medium.com/p/4ab5e030e17c) |
 | Sun, 08 Jun 2025 15:11:48 GMT | I Thought I Couldn’t Feel This Again | A girl with a thousand feelings | [Read More](https://medium.com/p/f5778f417ec3) |
 | Sun, 08 Jun 2025 15:11:39 GMT | Membangun Tools Cyber Pertama Saya: Proyek Reconnaissance dengan Python | Latansa Bima Amanta | [Read More](https://medium.com/p/c9cc13576b6e) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 10:25:29 GMT | Data’s Demands: The Specialized Toolkit and Architectures You Need | Max Levko | [Read More](https://medium.com/p/856431b8cac5) |
 | Sun, 08 Jun 2025 10:24:10 GMT | Splunk(Part 2) | Amalpp | [Read More](https://medium.com/p/eb3b8f8e175f) |
 | Sun, 08 Jun 2025 10:23:12 GMT | the art of holding back | vi | [Read More](https://medium.com/p/6fa6630661f9) |
-| Sun, 08 Jun 2025 10:22:39 GMT | Daily dose of Chart : 08 June 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/931240bd8ac1) |
-| Sun, 08 Jun 2025 10:17:07 GMT | Testing ZIP Encryption with a Simple Brute Force Tool (AES-256 Focus) | sultanrk | [Read More](https://medium.com/p/274f6d49b895) |
-| Sun, 08 Jun 2025 10:16:57 GMT | From Default to Defensive: The Essential 2025 Guide to Hardening Kali Linux | sultanrk | [Read More](https://medium.com/p/8fd0fe372d3e) |
-| Sun, 08 Jun 2025 10:16:49 GMT | Choosing Between Two Security Geniuses: My Deep Dive into Dahua’s Best PTZ Camera | Rara | [Read More](https://medium.com/p/a242ff940754) |
