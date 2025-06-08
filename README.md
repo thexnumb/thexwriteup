@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 09:07:29 GMT | Cloud Security Pt 1 : | Momodou Ceesay | [Read More](https://medium.com/p/7411a283299e) |
+| Sun, 08 Jun 2025 09:03:24 GMT | TryHackMe Include | Niteesh Deshmukh | [Read More](https://medium.com/p/93fa0505cd53) |
+| Sun, 08 Jun 2025 09:01:32 GMT | picoCTF —what’s a net cat | Rohit Chaudhary | [Read More](https://medium.com/p/31fc13bb3dff) |
+| Sun, 08 Jun 2025 09:00:58 GMT | Securing Against File Upload Vulnerabilities: Methods, Examples, and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/b0080b7847d5) |
+| Sun, 08 Jun 2025 09:00:53 GMT | Securing Against File Upload Vulnerabilities: Methods, Examples, and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/56711d22fd2b) |
+| Sun, 08 Jun 2025 08:58:30 GMT | Mengenal ICS/SCADA: Sistem Vital Industri yang Rentan Diserang | Princex. | [Read More](https://medium.com/p/3f795535eb21) |
+| Sun, 08 Jun 2025 08:56:31 GMT | ICS/SCADA | Abdul Khakim | [Read More](https://medium.com/p/b043d913a34d) |
+| Sun, 08 Jun 2025 08:50:15 GMT | Cracking SSH with Python — Building a Brute Force Tool Using Paramiko | Hammam Awis Zukimi | [Read More](https://medium.com/p/234b1fb6302c) |
+| Sun, 08 Jun 2025 08:49:06 GMT | What is Social Engineering? Real-World Examples That’ll Blow Your Mind | Ivo Pereira | [Read More](https://medium.com/p/41b98c236281) |
+| Sun, 08 Jun 2025 08:48:55 GMT | GraphQL Security: Preventing Query Depth and Rate Limiting Attacks | Rizqi Mulki | [Read More](https://medium.com/p/c0a1d479628e) |
+| Sun, 08 Jun 2025 08:43:22 GMT | Cyber Journey: End-to-End CI /CD Pipeline Part 1 (Framework) | Gabriel Walker-Zuniga | [Read More](https://medium.com/p/70dee766c944) |
 | Sun, 08 Jun 2025 08:33:09 GMT | Session Management and How It Can Go Wrong | Pranieth Chandrasekara | [Read More](https://medium.com/p/389b5c86de00) |
 | Sun, 08 Jun 2025 08:33:05 GMT | Trump Threatens Musk as Starlink Breach Exposes White House to Espionage | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/6c79511921aa) |
 | Sun, 08 Jun 2025 08:32:10 GMT | Kostenloser Digital-Readiness-Leitfaden für 2025 (mit sofort umsetzbarer Strategie-Roadmap) | Philip Hansen | [Read More](https://medium.com/p/4db3b2605e26) |
+| Sun, 08 Jun 2025 08:31:53 GMT | Integration von Standardsoftware: Der strategische Wegweiser für nachhaltige Digitalisierung in… | Philip Hansen | [Read More](https://medium.com/p/4e63219f2ddf) |
 | Sun, 08 Jun 2025 08:31:34 GMT | Digitale Transformation 2025 meistern: Der strategische Leitfaden für Bedarfsanalyse und… | Philip Hansen | [Read More](https://medium.com/p/347c48910e24) |
 | Sun, 08 Jun 2025 08:18:29 GMT | Minimal Apache HTTP Server 2.4 Hardening on Linux: A CIS Benchmark Approach | Muhammad Zidan | [Read More](https://medium.com/p/4673d353de13) |
 | Sun, 08 Jun 2025 08:17:18 GMT | Open-source AI models are revolutionising cybersecurity, powering everything from scam/fraud… | Garegin Margaryan | [Read More](https://medium.com/p/46bed461c492) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 01:29:33 GMT | Postfish (Proving Grounds) — OSEP-Focused Write-Up | Amatheusfeitosam | [Read More](https://medium.com/p/323a018b0fe4) |
 | Sun, 08 Jun 2025 01:28:13 GMT | Unlock the Potential of $BOUNTY and Earn Big with ChainBounty | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/208c7d7f4a5d) |
 | Sun, 08 Jun 2025 01:11:26 GMT | The Man in the Middle Owns the Truth | Thomas F McGeehan V | [Read More](https://medium.com/p/0ed169e816f2) |
-| Sun, 08 Jun 2025 01:02:13 GMT | The Fear of Being Fully Seen | Isaac Liang | [Read More](https://medium.com/p/b28c1c163aca) |
-| Sun, 08 Jun 2025 00:47:44 GMT | [IT Security-hoquyettam] Bypass windows 11 local admin account | hoquyettam-tamhq2-0962996876 | [Read More](https://medium.com/p/25db2f2f0835) |
-| Sun, 08 Jun 2025 00:34:24 GMT | How to Claim $LFI Easily | $LFI (LunaFi) | [Read More](https://medium.com/p/f3517c73a25f) |
-| Sun, 08 Jun 2025 00:31:22 GMT | Exploring the Comfort of Momcozy Muslin Swaddle Blankets | Felixbec | [Read More](https://medium.com/p/dd71cb0d8fa0) |
-| Sun, 08 Jun 2025 00:18:53 GMT | The Four Pillars of Cryptographic Security | Raviteja Mureboina | [Read More](https://medium.com/p/6fccb4092b58) |
-| Sun, 08 Jun 2025 00:06:04 GMT | Ancaman Serangan ICS/SCADA dalam Dunia Industri | fahrifel | [Read More](https://medium.com/p/688f326982ff) |
-| Sun, 08 Jun 2025 00:02:12 GMT | Complete Linux Guide to Cybersecurity: Essential Commands, Permissions, and Distributions | JPablo13 | [Read More](https://medium.com/p/1bc62ee2a270) |
-| Sat, 07 Jun 2025 23:39:59 GMT | An Ultimate Guide for Mobile App Development — Part 4 | ILHAM ASGARLI | [Read More](https://medium.com/p/5e55022a1609) |
-| Sat, 07 Jun 2025 23:39:52 GMT | Quantum Communication in Space | Kareena Shah | [Read More](https://medium.com/p/adbd0b3841ad) |
-| Sat, 07 Jun 2025 23:33:07 GMT | Strengthening Cybersecurity Defenses: Introducing ID-Spoofer for Linux Infrastructure Testing | Igor Dunaev | [Read More](https://medium.com/p/57c2b04258fa) |
-| Sat, 07 Jun 2025 23:32:22 GMT | Cloud Infrastructure Entitlement Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/1cd68eb39f7f) |
-| Sat, 07 Jun 2025 23:28:51 GMT | Keep Hackers Out: Password and Account Policies That Work | Adam Jikat | [Read More](https://medium.com/p/633017654601) |
