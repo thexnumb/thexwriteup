@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 19:28:27 GMT | The Latency Bug That Only Appeared in Production | ThreadSafe Diaries | [Read More](https://medium.com/p/15b4c094732e) |
+| Sun, 08 Jun 2025 19:23:32 GMT | Assertion101 writeup — Proving ground — complete writeup. | Priyanshu | [Read More](https://medium.com/p/1b81f3ce36b2) |
+| Sun, 08 Jun 2025 19:15:51 GMT | I’m Back: Why Your Two-Factor Authentication Isn’t Protecting You | Ayas Ismail | [Read More](https://medium.com/p/0b6bad7f2e91) |
+| Sun, 08 Jun 2025 19:12:48 GMT | Is Cyber Security Hard? Tips to Make It Easier to Learn | Simplilearn | [Read More](https://medium.com/p/871a7517103b) |
+| Sun, 08 Jun 2025 19:10:46 GMT | Hacktivism: The Impact of Hackers on Modern Society | Xaliq Həsənov | [Read More](https://medium.com/p/83ef06a68231) |
 | Sun, 08 Jun 2025 19:10:21 GMT | DEADLY INTENTIONS | Boluwatife Lash | [Read More](https://medium.com/p/c8fcb9ee80e4) |
+| Sun, 08 Jun 2025 19:10:12 GMT | Brute-Forcing MikroTik MAC-Winbox: A Practical Python Tool | Abdul Khakim | [Read More](https://medium.com/p/ab00f69c8f89) |
 | Sun, 08 Jun 2025 19:10:00 GMT | Supply-Chain Malware Targets Popular NPM & PyPI Packages in GlueStack Attack | Ronit Yadav | [Read More](https://medium.com/p/5cec43cf2a6a) |
 | Sun, 08 Jun 2025 19:07:05 GMT | ArchCrack: A Simple Brute-Force Tool for Archive Passwords | Steven Juliano | [Read More](https://medium.com/p/48aa917c4720) |
 | Sun, 08 Jun 2025 19:05:07 GMT | My Cyber Security Journey Begins: Why I’m Starting With Linux | Okoye Munachi | [Read More](https://medium.com/p/462ce5d04937) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 14:17:37 GMT | Here’s How I Recover My Money From Danxdex | Ali stewart | [Read More](https://medium.com/p/ca4131292c02) |
 | Sun, 08 Jun 2025 14:13:10 GMT | 10 Common Cybersecurity Threats (and How You Can Stay Safe) | P T | [Read More](https://medium.com/p/bfba23ef5778) |
 | Sun, 08 Jun 2025 14:10:34 GMT | Designing for Zero Trust: UX in the Age of Digital Skepticism | MrsNo1Special | [Read More](https://medium.com/p/d793b32fbbce) |
-| Sun, 08 Jun 2025 14:09:48 GMT | Incident Response: What It Really Means | Igor Berner | [Read More](https://medium.com/p/f32481abb50b) |
-| Sun, 08 Jun 2025 14:09:30 GMT | Thompson TryHackMe walkthrough | Mohamed Gebril | [Read More](https://medium.com/p/d1ad5faf8317) |
-| Sun, 08 Jun 2025 14:06:26 GMT | Two-Tier Web App Deployment on AWS using EC2, Route 53, RDS and ALB | Akuphe Dieudonne | [Read More](https://medium.com/p/2bcb0498d844) |
-| Sun, 08 Jun 2025 14:02:12 GMT | I’m Not OK | Tate | [Read More](https://medium.com/p/47aaec4e7b04) |
-| Sun, 08 Jun 2025 14:01:50 GMT | How I Learned to Stop Worrying and Love My Known Hosts | Akhshy Ganesh | [Read More](https://medium.com/p/b645d42b3a27) |
-| Sun, 08 Jun 2025 13:58:18 GMT | Track the Hacks: Unveiling the Archive’s Secret Through File Forensics | byuda | [Read More](https://medium.com/p/b1f9678fdcca) |
