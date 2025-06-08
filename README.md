@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 08:13:25 GMT | Identity Shouldn’t Be Forced | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0a184ed200fb) |
+| Sun, 08 Jun 2025 08:10:09 GMT | Fully Homomorphic Encryption (FHE) & AI & EU Privacy Regulations: Limitations and Opportunities in… | Garegin Margaryan | [Read More](https://medium.com/p/e7f8c80257b8) |
+| Sun, 08 Jun 2025 08:09:06 GMT | Stolen Property resources for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/2100b4322344) |
+| Sun, 08 Jun 2025 08:00:48 GMT | IPv4 Address Classes Explained: A Comprehensive Guide to Class A, B, C, D, and E | Amol Shinde | [Read More](https://medium.com/p/4d29116c452b) |
+| Sun, 08 Jun 2025 08:00:34 GMT | 10 ways I introduce vulnerability into my writing without being a wet towel | Alex Mathers | [Read More](https://medium.com/p/ab0896b3919e) |
+| Sun, 08 Jun 2025 07:52:26 GMT | ICE — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/f781a978259b) |
+| Sun, 08 Jun 2025 07:52:10 GMT | A Lesson in Wi-Fi Security: Think Before You Connect | Amritanshu Prashar | [Read More](https://medium.com/p/d762accde768) |
+| Sun, 08 Jun 2025 07:50:59 GMT | Cybersecurity Tools Used by Ethical Hacking Experts | Manisha Chaudhary | [Read More](https://medium.com/p/400ce8172261) |
+| Sun, 08 Jun 2025 07:48:37 GMT | Command Injection Via File Inclusion Vulnerability: Natas29 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/16c801259edf) |
+| Sun, 08 Jun 2025 07:46:36 GMT | Firewall Penjaga Gerbang Jaringan Pribadimu | Mukti Badriyan | [Read More](https://medium.com/p/b65d01e4f890) |
+| Sun, 08 Jun 2025 07:40:59 GMT | Perkenalan Cyber Security | Rafficiputra | [Read More](https://medium.com/p/f3b6e1effe9d) |
 | Sun, 08 Jun 2025 07:13:27 GMT | Story of a Cyber Newbie | CosmicByte | [Read More](https://medium.com/p/81dd7c92ff26) |
 | Sun, 08 Jun 2025 07:12:11 GMT | BADBOX 2.0: They’re Using Your Internet. Your IP. Your Identity. And You Have No Clue. | Bipin Kareparambil | [Read More](https://medium.com/p/15db99c20cde) |
 | Sun, 08 Jun 2025 07:08:56 GMT | If You Work from Home, You Should Know These Cybersecurity Basics | Foye | [Read More](https://medium.com/p/cdc4b8655b0d) |
@@ -102,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Jun 2025 22:29:18 GMT | RedTiger: Advanced Automated XSS Vulnerability Testing Tool | medjahdi | [Read More](https://medium.com/p/a506706767dc) |
 | Sat, 07 Jun 2025 22:04:31 GMT | TryHackMe — NetSec Challenge (Medium Difficulty) | Saassoso | [Read More](https://medium.com/p/3b4dcbc82847) |
 | Sat, 07 Jun 2025 21:56:37 GMT | The Stego Chronicles: Achieving Perfect Undetectability in An Imperfect Digital World | Ian Barwise | [Read More](https://medium.com/p/92e77544beb9) |
-| Sat, 07 Jun 2025 21:53:52 GMT | SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing | Raynard Waits | [Read More](https://medium.com/p/16d264f37bcf) |
-| Sat, 07 Jun 2025 21:35:23 GMT | An Ultimate Guide for Mobile App Development — Part 3 | ILHAM ASGARLI | [Read More](https://medium.com/p/c8ef26e117a9) |
-| Sat, 07 Jun 2025 21:33:46 GMT | Segurança na perspectiva dos devs, com Snyk | Pedro Brasileiro | [Read More](https://medium.com/p/4518d560a25c) |
-| Sat, 07 Jun 2025 21:33:12 GMT | TLS-Resilient Monitoring for Open5GS in Secure
-and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://medium.com/p/39405a041237) |
-| Sat, 07 Jun 2025 21:07:01 GMT | Shellcode Injection Methods for Windows | LordShen | [Read More](https://medium.com/p/6dde1c8253b0) |
-| Sat, 07 Jun 2025 21:03:05 GMT | Saturday Edition — General Cyber News Summary | SecurityPulse News | [Read More](https://medium.com/p/74e8b66be578) |
-| Sat, 07 Jun 2025 21:02:37 GMT | TTAT+ Meets Generative AI: Securing the Next Frontier of Automated Threat Generation | Jeffrey Nickle | [Read More](https://medium.com/p/7603835b8469) |
-| Sat, 07 Jun 2025 20:54:20 GMT | VULNERABILITY | Gbemisola Lanre-Sobona | [Read More](https://medium.com/p/a066e3fa47ea) |
-| Sat, 07 Jun 2025 20:32:13 GMT | Cross-Site Scripting (XSS) Exploitation Techniques | musayyab sharif | [Read More](https://medium.com/p/0f6d7f6d0d6e) |
-| Sat, 07 Jun 2025 20:30:21 GMT | Navigating Directories and Reading Files on Linux | Allison Dimkpa | [Read More](https://medium.com/p/0c3968d79601) |
-| Sat, 07 Jun 2025 20:12:02 GMT | OPSEC: The Philosophy of Being Ostensible. | Eziyo | [Read More](https://medium.com/p/e878936f6028) |
