@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 22:02:35 GMT | I Mastered Linux Crushing this Free Challenge! | Daniel. Alegria Lino | [Read More](https://medium.com/p/129d30ec9ee1) |
+| Sun, 08 Jun 2025 22:02:13 GMT | Firewalls Against Oblivion: The Invisible Defenders of Ukraine | Philip Laureano | [Read More](https://medium.com/p/af51aa2d7bf6) |
+| Sun, 08 Jun 2025 21:45:07 GMT | From Rejections to Accomplishment: Landing My First Cybersecurity Internship in USA | Henil Gandhi | [Read More](https://medium.com/p/285eea628a9a) |
+| Sun, 08 Jun 2025 21:44:53 GMT | AI for Cybersecurity with Labs | Tyler Wall | [Read More](https://medium.com/p/5f78a2db570d) |
+| Sun, 08 Jun 2025 21:29:25 GMT | Demystifying Industrial Tech: Why Zero Trust Matters on the Shop Floor | Thomas Rauch | [Read More](https://medium.com/p/93e8ab96626c) |
 | Sun, 08 Jun 2025 21:24:56 GMT | [Hack The Box Web Challenge] Insomnia Write Up | fnwn | [Read More](https://medium.com/p/d9a0b82d8377) |
 | Sun, 08 Jun 2025 21:22:04 GMT | Data Protection Deep Dive Series — One Week, One Theme at a Time | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/ea08bd10f6bd) |
 | Sun, 08 Jun 2025 21:19:42 GMT | When the Keys No Longer Fit: Why OAuth 2.0 Must Evolve for the Age of AI Agents | Mahmudu@xphereinfo | [Read More](https://medium.com/p/8a10f2ed6489) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 15:27:05 GMT | Smart Systems, Real Threats: What You Need to Know About ICS & SCADA | Laura Puspa | [Read More](https://medium.com/p/81446e13b024) |
 | Sun, 08 Jun 2025 15:17:10 GMT | Caesar Cipher CLI Tool with Brute-force | Rommel | [Read More](https://medium.com/p/4ab5e030e17c) |
 | Sun, 08 Jun 2025 15:11:48 GMT | I Thought I Couldn’t Feel This Again | A girl with a thousand feelings | [Read More](https://medium.com/p/f5778f417ec3) |
-| Sun, 08 Jun 2025 15:11:39 GMT | Membangun Tools Cyber Pertama Saya: Proyek Reconnaissance dengan Python | Latansa Bima Amanta | [Read More](https://medium.com/p/c9cc13576b6e) |
-| Sun, 08 Jun 2025 15:10:49 GMT | Membangun Alat Brute Force Winbox Berbasis MAC Address: Panduan Lengkap untuk Praktisi… | Fakihabdulwahab | [Read More](https://medium.com/p/010f8944f8d7) |
-| Sun, 08 Jun 2025 15:09:42 GMT | Navigating and Growing in Cybersecurity as a College student | aflame | [Read More](https://medium.com/p/2bdfb1ba371d) |
-| Sun, 08 Jun 2025 15:09:25 GMT | Shadow AI vs. Shadow IT | Tal Eliyahu | [Read More](https://medium.com/p/0de01156f428) |
-| Sun, 08 Jun 2025 15:08:04 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Karantara | [Read More](https://medium.com/p/51db5e65bc42) |
