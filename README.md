@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 06:24:48 GMT | Most Used Linux Commands | The Commoness | [Read More](https://medium.com/p/6f36286c1af3) |
+| Sun, 08 Jun 2025 06:23:47 GMT | Building a CTF Lab with LFI bug vulnerability using ExpressJS | Zamh Putra | [Read More](https://medium.com/p/1ad33ce59bd8) |
+| Sun, 08 Jun 2025 06:19:40 GMT | Safe Data Practices for AI Training & Inference - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/b04ba1cb4105) |
+| Sun, 08 Jun 2025 06:17:34 GMT | Delete Every App On Your Smartphone That’s On This List | Kajal Sharma | [Read More](https://medium.com/p/a00729e0fe28) |
+| Sun, 08 Jun 2025 06:16:58 GMT | How To Claim $CVE Tokens  in No Time | Lucas
+ Clark | [Read More](https://medium.com/p/27f00940e6b2) |
+| Sun, 08 Jun 2025 06:16:19 GMT | Beyond Passwords: The Future of Identity Verification | Devi prasad Guda | [Read More](https://medium.com/p/e4ba03e06e3f) |
+| Sun, 08 Jun 2025 06:14:42 GMT | How I Accidentally Found a Dark Web Forum Selling Stolen Health Records | Sandesh Kumar | [Read More](https://medium.com/p/763649b84106) |
+| Sun, 08 Jun 2025 06:08:45 GMT | From Security Guard to SaaS Founder: How I Built My Own Guard Patrol System | Ben Winter | [Read More](https://medium.com/p/65244c67c3df) |
+| Sun, 08 Jun 2025 06:06:12 GMT | MAC-Level Access: Creating a Brute Force Tool for MikroTik Winbox | Bumi Aryadirangga | [Read More](https://medium.com/p/a8b2d0c0092b) |
+| Sun, 08 Jun 2025 06:04:23 GMT | Hack The Box — Backfire - WriteUp | pythonic01 | [Read More](https://medium.com/p/e2821e611163) |
+| Sun, 08 Jun 2025 06:02:32 GMT | Top 10 AI Tools Revolutionizing Work in 2025 | Pihu | [Read More](https://medium.com/p/8b29fec9d94a) |
+| Sun, 08 Jun 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jun 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/387cd762c2bc) |
+| Sun, 08 Jun 2025 05:58:59 GMT | Phishing Email Analysis | Jasmehr Kaur | [Read More](https://medium.com/p/18f0b65305cc) |
+| Sun, 08 Jun 2025 05:50:41 GMT | Deep Dive into SSTI: Finding and Exploiting Server-Side Template Injection Like a Pro | Shah kaif | [Read More](https://medium.com/p/bd018ee7ab69) |
+| Sun, 08 Jun 2025 05:50:06 GMT | Importance of Third Party Secu | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/efa8b88da596) |
+| Sun, 08 Jun 2025 05:41:35 GMT | I reproduced a $10,000 bug | phoenixcatalan | [Read More](https://medium.com/p/28466603e45e) |
+| Sun, 08 Jun 2025 05:40:38 GMT | Lab: SQL injection vulnerability allowing login bypass - Portswigger | Sornphut Kwanthongtham | [Read More](https://medium.com/p/261f31aa42fd) |
+| Sun, 08 Jun 2025 05:40:02 GMT | Secure Frontend Applications with Content Security Policy | Prashant Puri | [Read More](https://medium.com/p/1226ea700fc7) |
+| Sun, 08 Jun 2025 05:39:44 GMT | Authentication part-3 : Password reset broken logic | Ahmad Sopyan | [Read More](https://medium.com/p/e043181b55da) |
+| Sun, 08 Jun 2025 05:39:24 GMT | $1,000 Bug: Firefox Account Deletion Without 2FA or Authorization | Monika sharma | [Read More](https://medium.com/p/e7a6c5bfd028) |
 | Sun, 08 Jun 2025 05:13:24 GMT | Threat Hunting vs. Threat Detection: Key Differences & Real Use Cases | Paritosh | [Read More](https://medium.com/p/f62aa80a71ec) |
 | Sun, 08 Jun 2025 04:56:45 GMT | No, a MacBook Camera Cover Won’t Stop Hackers from Watching What You’re Doing | Faizan Saghir | [Read More](https://medium.com/p/f9eaaf69a795) |
 | Sun, 08 Jun 2025 04:55:24 GMT | Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data - Portswigger | Sornphut Kwanthongtham | [Read More](https://medium.com/p/bdc3145ca636) |
@@ -93,23 +114,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 19:47:04 GMT | What Is DNS? A Beginner’s Guide to the Domain Name System | Mainekdeveloper | [Read More](https://medium.com/p/7ae20127446f) |
 | Sat, 07 Jun 2025 19:42:43 GMT | Why I Think Like a Hacker Before Writing Any Code | Yusufhan Saçak | [Read More](https://medium.com/p/b1fb872d15ca) |
 | Sat, 07 Jun 2025 19:41:33 GMT | My Virtual HomeLab: Active Directory — Part Two | Cybersec with Hemmars | [Read More](https://medium.com/p/b636c9a9ea34) |
-| Sat, 07 Jun 2025 19:41:10 GMT | $150 Bounty: How a 6-Digit Code Bypass Led to a Permanent Account Lockout on Evernote | Monika sharma | [Read More](https://medium.com/p/8d78e10557f4) |
-| Sat, 07 Jun 2025 19:35:56 GMT | How to Install, Configure & Run Fail2Ban on Linux (A Practical Guide) | Roman Huliak | [Read More](https://medium.com/p/60e600256705) |
-| Sat, 07 Jun 2025 19:25:47 GMT | Wait, Why Is This User Hitting the API Every Hour? | Rishita Trivedi | [Read More](https://medium.com/p/c7f22f4bd9f4) |
-| Sat, 07 Jun 2025 19:24:50 GMT | Tracing Code Like a Hacker: Intro to Reverse Engineering | Mark Babcock | [Read More](https://medium.com/p/963168f29ffc) |
-| Sat, 07 Jun 2025 19:21:03 GMT | ✅ The Ultimate SOC 2 Compliance Checklist: A Guide for Security and GRC Teams | Kenneth Thomas Baidoo | [Read More](https://medium.com/p/32ddb47c2d77) |
-| Sat, 07 Jun 2025 19:16:20 GMT | Love Doesn’t Ask You to Disappear | Caleb Dempsey | [Read More](https://medium.com/p/dc2ff0b56785) |
-| Sat, 07 Jun 2025 19:11:47 GMT | System Hardening Security for the Privacy Conscious | Malik Vero | [Read More](https://medium.com/p/0a2e1f4f39bd) |
-| Sat, 07 Jun 2025 19:10:28 GMT | North Korean Hackers Might Be Faking DeFi’s Popularity, Here’s How They’re Doing It | CoinGen | [Read More](https://medium.com/p/e9c40ff93a08) |
-| Sat, 07 Jun 2025 19:05:49 GMT | Comprehensive Guide to IDOR and Access Control Testing | Infohack | [Read More](https://medium.com/p/d40bf8266f5b) |
-| Sat, 07 Jun 2025 18:59:39 GMT | Cyber Kill Chain | rkn | [Read More](https://medium.com/p/32d5f13e8f37) |
-| Sat, 07 Jun 2025 18:54:26 GMT | I Feel Like an Alien Among Humans | Charleston Li | [Read More](https://medium.com/p/2966b0574d32) |
-| Sat, 07 Jun 2025 18:53:00 GMT | AI-Powered Malware Is Already Here — And Your Antivirus Is Useless Against It | Areeba Shahbaz | [Read More](https://medium.com/p/c22f6c05d2bd) |
-| Sat, 07 Jun 2025 18:51:28 GMT | Anti Malware | Igor Berner | [Read More](https://medium.com/p/0af7f8f4e980) |
-| Sat, 07 Jun 2025 18:45:07 GMT | Understanding ICS/SCADA In Cybersecurity — Foundation of Security | Hammam Awis Zukimi | [Read More](https://medium.com/p/578ef4df84cb) |
-| Sat, 07 Jun 2025 18:41:13 GMT | Winbox MAC Brute Force Login Tool untuk Router MikroTik | Hafidzah | [Read More](https://medium.com/p/0743b7287195) |
-| Sat, 07 Jun 2025 18:37:33 GMT | Investigate Web Attack — Let’s Defend Writeup | V0idd | [Read More](https://medium.com/p/d650ff9c4d40) |
-| Sat, 07 Jun 2025 18:21:24 GMT | Why You Need a VPN: Protect Your Privacy Online | Natarajan C K | [Read More](https://medium.com/p/170183964205) |
-| Sat, 07 Jun 2025 18:02:10 GMT | Crypto kidnappings, Courtroom data wars, and TikTok’s AI power play: The Week in Focus by Hiswai | Qandeel Akhtar | [Read More](https://medium.com/p/240f5b68d07b) |
-| Sat, 07 Jun 2025 17:52:34 GMT | The BADBOX Botnet Returns: A Silent Invasion Through Your Smart Devices | Siva Gunasekaran | [Read More](https://medium.com/p/8fd8ba427f59) |
-| Sat, 07 Jun 2025 17:34:19 GMT | Post‑Quantum Cryptography Takes Center Stage at Infosecurity Europe 2025 | QuantumGenie | [Read More](https://medium.com/p/3887d87dce1d) |
