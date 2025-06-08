@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 10:25:29 GMT | Data’s Demands: The Specialized Toolkit and Architectures You Need | Max Levko | [Read More](https://medium.com/p/856431b8cac5) |
+| Sun, 08 Jun 2025 10:24:10 GMT | Splunk(Part 2) | Amalpp | [Read More](https://medium.com/p/eb3b8f8e175f) |
+| Sun, 08 Jun 2025 10:23:12 GMT | the art of holding back | vi | [Read More](https://medium.com/p/6fa6630661f9) |
+| Sun, 08 Jun 2025 10:22:39 GMT | Daily dose of Chart : 08 June 2025 | Rabishankar Biswal | [Read More](https://medium.com/p/931240bd8ac1) |
+| Sun, 08 Jun 2025 10:17:07 GMT | Testing ZIP Encryption with a Simple Brute Force Tool (AES-256 Focus) | sultanrk | [Read More](https://medium.com/p/274f6d49b895) |
+| Sun, 08 Jun 2025 10:16:57 GMT | From Default to Defensive: The Essential 2025 Guide to Hardening Kali Linux | sultanrk | [Read More](https://medium.com/p/8fd0fe372d3e) |
+| Sun, 08 Jun 2025 10:16:49 GMT | Choosing Between Two Security Geniuses: My Deep Dive into Dahua’s Best PTZ Camera | Rara | [Read More](https://medium.com/p/a242ff940754) |
+| Sun, 08 Jun 2025 10:16:40 GMT | When Hackers Hit the Real World: How ICS/SCADA Attacks Disrupt More Than Just Screens | sultanrk | [Read More](https://medium.com/p/42ba79296d1a) |
+| Sun, 08 Jun 2025 10:16:36 GMT | Claim $BUGS tokens by Bugs Bunny with This Crypto Guide within Minutes | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/2ea3ce910c19) |
 | Sun, 08 Jun 2025 10:08:52 GMT | Hacking the Future 2: How I Passed the CompTIA Security+ (SY0–701) Exam. | Andrew (Ocee) Onaulogho | [Read More](https://medium.com/p/1e00fb7a563d) |
 | Sun, 08 Jun 2025 10:07:42 GMT | Mengenal ICS/SCADA dan Bahaya serangannya. | Tiorajin | [Read More](https://medium.com/p/35c547b10c37) |
 | Sun, 08 Jun 2025 10:07:01 GMT | Day 89: Securing the SOC Itself — Tackling Internal Risks Like a Pro | Bl@ckC!pH3r | [Read More](https://medium.com/p/ba9e2b37d9da) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 03:32:46 GMT | Gray Hat Hackers and the Dangerous Intersection of Legitimate Cybersecurity Work and Criminal… | David SEHYEON Baek | [Read More](https://medium.com/p/3806a151e518) |
 | Sun, 08 Jun 2025 03:32:09 GMT | Inside the Shadows: Medialand Breach Exposes Bulletproof Hosting Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/57a5f6c7461e) |
 | Sun, 08 Jun 2025 03:29:24 GMT | North Korea’s Cyber Warfare Program | David SEHYEON Baek | [Read More](https://medium.com/p/3bf68a7fdb6b) |
-| Sun, 08 Jun 2025 03:26:27 GMT | Status and Development of Entropy-Based Ransomware Detection Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/b58bd49a9bcd) |
-| Sun, 08 Jun 2025 03:25:01 GMT | Email: The Hacker’s Preferred Gateway to System Infection | David SEHYEON Baek | [Read More](https://medium.com/p/ebcd2100e58f) |
-| Sun, 08 Jun 2025 03:23:31 GMT | When Deleted Isn’t Gone — Privacy Risks in Electronics Repair | David SEHYEON Baek | [Read More](https://medium.com/p/c0a055e9d422) |
-| Sun, 08 Jun 2025 03:21:34 GMT | Serverless Security: AWS Lambda Cold Start Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/84461bb7b51a) |
-| Sun, 08 Jun 2025 03:21:29 GMT | Deloitte’s Recurring Cybersecurity Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/10d24eaf68b6) |
-| Sun, 08 Jun 2025 03:19:56 GMT | Emerging Cyber Threats and Attack Vectors to Watch in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/24763e5f1a6d) |
-| Sun, 08 Jun 2025 03:19:23 GMT | Mengenal ICS SCADA: Sistem Pengendali Industri dan Potensi Ancaman Siber | Daffa Raihan Sugiharto | [Read More](https://medium.com/p/7ca659f8d8f3) |
-| Sun, 08 Jun 2025 03:18:47 GMT | “Membuat Script Bruteforce Zip Dengan Python3” | Velskynotfound | [Read More](https://medium.com/p/86ac1711a02d) |
-| Sun, 08 Jun 2025 03:18:23 GMT | EDRKillShifter: The Emerging Threat of Advanced EDR Bypass Tools in Ransomware Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/7fd315cfe0a4) |
