@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 13:09:00 GMT | How to Become a Data Engineer in 2025: Skills, Tools, and Career Advice | Nicholas Krimmel | [Read More](https://medium.com/p/5a846e889ba2) |
+| Sun, 08 Jun 2025 13:04:22 GMT | Membuat Tools Brute Force Sederhana | Mukti Badriyan | [Read More](https://medium.com/p/5a70ba05c129) |
+| Sun, 08 Jun 2025 13:04:11 GMT | HOW TO HARDEN A LINUX SERVER WITH A FOCUS ON WEB SERVER SECURITY | Toni Mendrofa | [Read More](https://medium.com/p/e44881a245c9) |
+| Sun, 08 Jun 2025 13:02:09 GMT | Scaling SaaS Securely with Peris.ai’s Modular Security Platform | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0337094ef2cf) |
+| Sun, 08 Jun 2025 12:59:04 GMT | Linux Hardening Baby Steps with SELinux | AcidicWealth | [Read More](https://medium.com/p/fd70bbbb9cfe) |
+| Sun, 08 Jun 2025 12:56:15 GMT | Me? Vulnerable? Yeah… About That. | Joel Atuhaire | [Read More](https://medium.com/p/008ffe469799) |
+| Sun, 08 Jun 2025 12:53:26 GMT | Carbanak: Dijital Banka Soygunlarının Ustası | Mustafa Caliskan | [Read More](https://medium.com/p/119b6b573352) |
+| Sun, 08 Jun 2025 12:52:01 GMT | Menyelami ICS & SCADA: Infrastruktur Vital yang Terancam | Fay | [Read More](https://medium.com/p/59edfd161552) |
+| Sun, 08 Jun 2025 12:50:41 GMT | Shadows of Surveillance | Tales of Nyx | [Read More](https://medium.com/p/4aa5b4213f93) |
+| Sun, 08 Jun 2025 12:46:45 GMT | Is this thing on? | nihilsec | [Read More](https://medium.com/p/aaca953ba8cb) |
+| Sun, 08 Jun 2025 12:44:35 GMT | Side Entrance. Damn Vulnerable Defi V4 solutions series | Jorge Zerpa | [Read More](https://medium.com/p/7eb12b291ba7) |
+| Sun, 08 Jun 2025 12:43:59 GMT | Let’sDefend: SOC 138 — Malware — Event ID: 77 | V0idd | [Read More](https://medium.com/p/7753dd73901a) |
+| Sun, 08 Jun 2025 12:39:27 GMT | Stop Tipping: Why I’m Putting My Wallet Back in My Pocket | Wayne Weiner D.Ed. | [Read More](https://medium.com/p/07020ac908d2) |
 | Sun, 08 Jun 2025 12:33:57 GMT | How I wrote a “Phishing Detection” tool | Sadra Bakhtiari | [Read More](https://medium.com/p/538a9900406b) |
+| Sun, 08 Jun 2025 12:32:12 GMT | What Really Drives a CVSS Score? Breaking Down the Base Metrics | Anthony Mukwaya | [Read More](https://medium.com/p/2de073b6ab09) |
 | Sun, 08 Jun 2025 12:28:38 GMT | Panduan Lengkap Hardening SSH di Linux | Darmayanti | [Read More](https://medium.com/p/7b988c2a8223) |
 | Sun, 08 Jun 2025 12:28:22 GMT | Stuxnet: Siber Savaşın İlk Dijital Silahı | Mustafa Caliskan | [Read More](https://medium.com/p/d62f8acac117) |
 | Sun, 08 Jun 2025 12:28:11 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintainya | Rendizar Satria | [Read More](https://medium.com/p/71256890a822) |
@@ -98,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 07:40:59 GMT | Perkenalan Cyber Security | Rafficiputra | [Read More](https://medium.com/p/f3b6e1effe9d) |
 | Sun, 08 Jun 2025 07:13:27 GMT | Story of a Cyber Newbie | CosmicByte | [Read More](https://medium.com/p/81dd7c92ff26) |
 | Sun, 08 Jun 2025 07:12:11 GMT | BADBOX 2.0: They’re Using Your Internet. Your IP. Your Identity. And You Have No Clue. | Bipin Kareparambil | [Read More](https://medium.com/p/15db99c20cde) |
-| Sun, 08 Jun 2025 07:08:56 GMT | If You Work from Home, You Should Know These Cybersecurity Basics | Foye | [Read More](https://medium.com/p/cdc4b8655b0d) |
-| Sun, 08 Jun 2025 06:43:28 GMT | ️ Network Penetration Testing in 2025: Why Firewalls Alone Won’t Save You | Smdefencerabbit | [Read More](https://medium.com/p/f3c6767c267f) |
-| Sun, 08 Jun 2025 06:38:25 GMT | Top 10 Essential Ethical Hacker Tools Everyone Should Know | cyber security Updates | [Read More](https://medium.com/p/bfa178572b22) |
-| Sun, 08 Jun 2025 06:31:45 GMT | Splunk | Amalpp | [Read More](https://medium.com/p/bfd03a61693b) |
-| Sun, 08 Jun 2025 06:30:58 GMT | Machine Learning Models Under Cyber Attacks: Emerging Threats in 2025 | Chaitanya Appani | [Read More](https://medium.com/p/618379b3be58) |
-| Sun, 08 Jun 2025 06:29:18 GMT | Melindungi Benteng Digital Anda: Panduan Komprehensif Keamanan Linux dengan Firewall, Patching, dan… | Donysetyon | [Read More](https://medium.com/p/a88af966e51b) |
-| Sun, 08 Jun 2025 06:24:48 GMT | Most Used Linux Commands | The Commoness | [Read More](https://medium.com/p/6f36286c1af3) |
-| Sun, 08 Jun 2025 06:23:47 GMT | Building a CTF Lab with LFI bug vulnerability using ExpressJS | Zamh Putra | [Read More](https://medium.com/p/1ad33ce59bd8) |
-| Sun, 08 Jun 2025 06:19:40 GMT | Safe Data Practices for AI Training & Inference - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/b04ba1cb4105) |
-| Sun, 08 Jun 2025 06:17:34 GMT | Delete Every App On Your Smartphone That’s On This List | Kajal Sharma | [Read More](https://medium.com/p/a00729e0fe28) |
-| Sun, 08 Jun 2025 06:16:58 GMT | How To Claim $CVE Tokens  in No Time | Lucas
- Clark | [Read More](https://medium.com/p/27f00940e6b2) |
-| Sun, 08 Jun 2025 06:16:19 GMT | Beyond Passwords: The Future of Identity Verification | Devi prasad Guda | [Read More](https://medium.com/p/e4ba03e06e3f) |
-| Sun, 08 Jun 2025 06:14:42 GMT | How I Accidentally Found a Dark Web Forum Selling Stolen Health Records | Sandesh Kumar | [Read More](https://medium.com/p/763649b84106) |
-| Sun, 08 Jun 2025 06:08:45 GMT | From Security Guard to SaaS Founder: How I Built My Own Guard Patrol System | Ben Winter | [Read More](https://medium.com/p/65244c67c3df) |
