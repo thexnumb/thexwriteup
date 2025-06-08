@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 10:08:52 GMT | Hacking the Future 2: How I Passed the CompTIA Security+ (SY0–701) Exam. | Andrew (Ocee) Onaulogho | [Read More](https://medium.com/p/1e00fb7a563d) |
+| Sun, 08 Jun 2025 10:07:42 GMT | Mengenal ICS/SCADA dan Bahaya serangannya. | Tiorajin | [Read More](https://medium.com/p/35c547b10c37) |
+| Sun, 08 Jun 2025 10:07:01 GMT | Day 89: Securing the SOC Itself — Tackling Internal Risks Like a Pro | Bl@ckC!pH3r | [Read More](https://medium.com/p/ba9e2b37d9da) |
+| Sun, 08 Jun 2025 10:05:49 GMT | Fixed Lens or Zoom? Choosing Between Two Smart Dahua Cameras That Actually Get the Job Done | Rara | [Read More](https://medium.com/p/3316387f4ec4) |
+| Sun, 08 Jun 2025 10:02:16 GMT | How I Earned a Bounty Using VirusTotal Recon | Vikas Anand | [Read More](https://medium.com/p/93024ee964ed) |
+| Sun, 08 Jun 2025 09:55:07 GMT | ESC1 AD CS Misconfigurations exploitation — Active Directory Pentesting | 0xc4t | [Read More](https://medium.com/p/ff86bff6ae64) |
+| Sun, 08 Jun 2025 09:33:25 GMT | Beyond Encryption: Why Symbolica Aegis™ Redefines Sovereign AI Defense | Mohamed Ibrahim | [Read More](https://medium.com/p/1981553f7c98) |
+| Sun, 08 Jun 2025 09:33:08 GMT | Agents as the New Apps: Infrastructure, Identity, and Autonomy in the Age of AI | Mykola Vasyk | [Read More](https://medium.com/p/6347c7b82c0d) |
+| Sun, 08 Jun 2025 09:30:20 GMT | Gerbang Pertahanan Digital Anda: Menggali Firewall IDS dengan SNORT | Donysetyon | [Read More](https://medium.com/p/6dc7557da4c7) |
 | Sun, 08 Jun 2025 09:28:14 GMT | How To Claim $BNTY Tokens | $BNTY (Bounty) | [Read More](https://medium.com/p/ea45bbfa3895) |
 | Sun, 08 Jun 2025 09:28:13 GMT | Too Much, But Never Not Enough | Amy Writes | [Read More](https://medium.com/p/5199c5011f76) |
 | Sun, 08 Jun 2025 09:26:23 GMT | Introduction to securing the future in AI systems | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/1106cf1fad13) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 03:19:23 GMT | Mengenal ICS SCADA: Sistem Pengendali Industri dan Potensi Ancaman Siber | Daffa Raihan Sugiharto | [Read More](https://medium.com/p/7ca659f8d8f3) |
 | Sun, 08 Jun 2025 03:18:47 GMT | “Membuat Script Bruteforce Zip Dengan Python3” | Velskynotfound | [Read More](https://medium.com/p/86ac1711a02d) |
 | Sun, 08 Jun 2025 03:18:23 GMT | EDRKillShifter: The Emerging Threat of Advanced EDR Bypass Tools in Ransomware Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/7fd315cfe0a4) |
-| Sun, 08 Jun 2025 03:16:18 GMT | How Dark Web Markets and Underground Platforms Are Transforming in 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/2f142d2b0d7b) |
-| Sun, 08 Jun 2025 03:05:43 GMT | Reclaiming AI: How to Host Your Own LLM with Ollama, Docker, and Open WebUI | Suhith Ghanathay | [Read More](https://medium.com/p/7ed41dd8c23d) |
-| Sun, 08 Jun 2025 02:58:28 GMT | Memahami ICS/SCADA: Tulang Punggung Dunia Industri Modern | Muhammad Rangga Pratama | [Read More](https://medium.com/p/dae2c297d9a0) |
-| Sun, 08 Jun 2025 02:39:36 GMT | SSH Mastery: Cara Ampuh Mengamankan Remote Access Server Kamu | Luthfan Hashfi Naufal | [Read More](https://medium.com/p/95c68360998c) |
-| Sun, 08 Jun 2025 02:25:55 GMT | Securing the Digital Frontier: Enhancing Canada’s Cyber Defence Posture | Centre for International and Defence Policy | [Read More](https://medium.com/p/83f8a7a2dd66) |
-| Sun, 08 Jun 2025 02:20:19 GMT | What I show isn’t me: Hiding in words, but hints are visible. | justanapple | [Read More](https://medium.com/p/786c512b49c2) |
-| Sun, 08 Jun 2025 02:09:54 GMT | PostgreSQL 17 Authentication: How pg_hba.conf Controls Access Like a Firewall | Jeyaram Ayyalusamy | [Read More](https://medium.com/p/cd9a25272a98) |
-| Sun, 08 Jun 2025 01:55:19 GMT | The Strength You Overlook Because It Comes Too Naturally | Maddie Grewal | [Read More](https://medium.com/p/170210764a2c) |
-| Sun, 08 Jun 2025 01:45:22 GMT | Otentikasi Dua Faktor (2FA) | Mukti Badriyan | [Read More](https://medium.com/p/cf4a30658f43) |
