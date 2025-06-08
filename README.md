@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 05:13:24 GMT | Threat Hunting vs. Threat Detection: Key Differences & Real Use Cases | Paritosh | [Read More](https://medium.com/p/f62aa80a71ec) |
 | Sun, 08 Jun 2025 04:56:45 GMT | No, a MacBook Camera Cover Won’t Stop Hackers from Watching What You’re Doing | Faizan Saghir | [Read More](https://medium.com/p/f9eaaf69a795) |
 | Sun, 08 Jun 2025 04:55:24 GMT | Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data - Portswigger | Sornphut Kwanthongtham | [Read More](https://medium.com/p/bdc3145ca636) |
 | Sun, 08 Jun 2025 04:50:25 GMT | Unlocking the Mystery of Encrypted Traffic: The Power of TLS Inspection | Techleadgurdeepgill | [Read More](https://medium.com/p/269d889e011a) |
@@ -112,4 +113,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 18:02:10 GMT | Crypto kidnappings, Courtroom data wars, and TikTok’s AI power play: The Week in Focus by Hiswai | Qandeel Akhtar | [Read More](https://medium.com/p/240f5b68d07b) |
 | Sat, 07 Jun 2025 17:52:34 GMT | The BADBOX Botnet Returns: A Silent Invasion Through Your Smart Devices | Siva Gunasekaran | [Read More](https://medium.com/p/8fd8ba427f59) |
 | Sat, 07 Jun 2025 17:34:19 GMT | Post‑Quantum Cryptography Takes Center Stage at Infosecurity Europe 2025 | QuantumGenie | [Read More](https://medium.com/p/3887d87dce1d) |
-| Sat, 07 Jun 2025 17:30:00 GMT | Uso de Dependências Diretas e indiretas | Perla C. S | [Read More](https://medium.com/p/378b3c341637) |
