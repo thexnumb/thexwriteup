@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 16:39:51 GMT | TJCTF2025 — Web Challenges | Karim Qassem (Hush0x01) | [Read More](https://medium.com/p/8f119e210d1c) |
+| Sun, 08 Jun 2025 16:37:40 GMT | Limited Labour Laws for Foreign Domestic Workers (FDWs) in Singapore | A | [Read More](https://medium.com/p/18c1dcc1f4b9) |
+| Sun, 08 Jun 2025 16:23:22 GMT | ‍ Is Hackintosh Still Worth It? The State of Hackintosh in 2025 | Nesan | [Read More](https://medium.com/p/ccf1a8ad9d79) |
+| Sun, 08 Jun 2025 16:23:13 GMT | Day 57: Bash Scripting- Exit Codes, exit, $?, and set -euo pipefail | Agarwaldaksh | [Read More](https://medium.com/p/cc477a4ef601) |
 | Sun, 08 Jun 2025 16:20:49 GMT | ICS dan SCADA: Sistem Penting di Balik Industri Modern | Riansatria | [Read More](https://medium.com/p/37a6443311ed) |
 | Sun, 08 Jun 2025 16:20:15 GMT | Brute Force Password File RAR pada Kali Linux | Rendizar Satria | [Read More](https://medium.com/p/f097ef988d4c) |
 | Sun, 08 Jun 2025 16:19:13 GMT | Menembus Login URL dengan Brute Force: Eksperimen Edukasi Menggunakan Python | Salhanchynt | [Read More](https://medium.com/p/3154ab92f6cb) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 12:02:36 GMT | WannaCry Nedir? Büyük Fidye Yazılımı Saldırısının Ardındaki Gerçekler | Mustafa Caliskan | [Read More](https://medium.com/p/8a0ebba753df) |
 | Sun, 08 Jun 2025 12:00:54 GMT | 15 outils OSINT incontournables à maîtriser en 2025 | Marc Barbezat | [Read More](https://medium.com/p/d2d231c34d73) |
 | Sun, 08 Jun 2025 11:59:57 GMT | The Rise of Dark Web Freelancers: Hackers for Hire Are Just a Click Away | Sandesh Kumar | [Read More](https://medium.com/p/ee6bde6bf6cf) |
-| Sun, 08 Jun 2025 11:55:45 GMT | Active Directory Credential Dumping and thefting Techniques and Detection | Parviz Salmanov | [Read More](https://medium.com/p/1cfb573787f5) |
-| Sun, 08 Jun 2025 11:30:26 GMT | AI and Automation in Ethical Hacking: The Future of Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/e9b79cd1ed90) |
-| Sun, 08 Jun 2025 11:29:53 GMT | Trump Administration Reshapes U.S. Cybersecurity Policy with New Executive Order | Tech Thrilled | [Read More](https://medium.com/p/b5c02e47ec5d) |
-| Sun, 08 Jun 2025 11:28:26 GMT | The Protocol that Secures the Modern Internet | Dyane Fulgencio | [Read More](https://medium.com/p/5863c0dfe278) |
