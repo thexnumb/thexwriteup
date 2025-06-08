@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 18:21:48 GMT | The Silent Leak: Unseen Threats Lurking in GenAI Prompts | Avnishyam | [Read More](https://medium.com/p/f61d067a5e10) |
+| Sun, 08 Jun 2025 18:15:42 GMT | Cyber Threat Analyzer Using LLMs and Cloud | Surya G | [Read More](https://medium.com/p/5fb39fb80b4c) |
+| Sun, 08 Jun 2025 18:12:38 GMT | The Quiet Weapon in Crypto Auditing: Securing Digital Assets Beyond the Ledger | Victor Greenstein, JD, MBA, CFE | [Read More](https://medium.com/p/275843fe985e) |
+| Sun, 08 Jun 2025 18:04:56 GMT | Hardening SSH Linux | Alyyusyawal | [Read More](https://medium.com/p/46dcb911b076) |
+| Sun, 08 Jun 2025 18:04:37 GMT | Is anyone Using AI for Bug Triage and Bug Assignment to Developers ? | Parvathi Reddy | [Read More](https://medium.com/p/276f5d0340be) |
+| Sun, 08 Jun 2025 18:04:03 GMT | How to manually hunt for F5 Big-IP RCE (CVE 2020–5902, CVE2022–1388) | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/da78fb0a562e) |
+| Sun, 08 Jun 2025 18:03:04 GMT | Silent Breach Lab Walkthrough | Hadiramr | [Read More](https://medium.com/p/306a40c0d6a2) |
+| Sun, 08 Jun 2025 18:01:15 GMT | From Medical Records to Remote Shells: Exploiting OpenEMR (CVE-2018–17179) | CyberQuestor | [Read More](https://medium.com/p/7fdcbbb85b13) |
+| Sun, 08 Jun 2025 17:56:49 GMT | Why I Write: Learning the Language of the World | Upagya Halder | [Read More](https://medium.com/p/53adbf23ed93) |
+| Sun, 08 Jun 2025 17:52:27 GMT | Strutted HTB Walkthrough | Qinncade | [Read More](https://medium.com/p/31bd09097eb0) |
+| Sun, 08 Jun 2025 17:49:22 GMT | Cybersecurity in MedTech: A Roundup of Innovative Tools and Resources | Manish Kumar | [Read More](https://medium.com/p/90cf81263a8f) |
+| Sun, 08 Jun 2025 17:47:13 GMT | The 5 Cybersecurity Jobs That Are Disappearing Fast : POST # 165 | Monty Excel | [Read More](https://medium.com/p/1f1703b3230b) |
+| Sun, 08 Jun 2025 17:45:57 GMT | In 2025, Building From Scratch Is a Red Flag — The Real Technical Challenges Start After the Code | Ilakian Puvanendra | [Read More](https://medium.com/p/0db5f14040d0) |
+| Sun, 08 Jun 2025 17:40:17 GMT | SOC102 — Proxy — Suspicious URL Detected - Event ID: 32 | Cyril Philipp Abajar | [Read More](https://medium.com/p/714e1079ac58) |
 | Sun, 08 Jun 2025 17:34:21 GMT | Telnet Exploit on Metasploitable 2 Port 23 | Kizito Arinze Chukwu | [Read More](https://medium.com/p/0a9ec4aa498b) |
 | Sun, 08 Jun 2025 17:31:14 GMT | General Foundation Models and Their General Problems | Mayank Kumar | [Read More](https://medium.com/p/75255ff5bfa4) |
 | Sun, 08 Jun 2025 17:30:06 GMT | Food is more political than you think. | Archita N | [Read More](https://medium.com/p/29eb83299db1) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 13:44:06 GMT | Kali GPT: The AI Co-Pilot Revolutionizing Penetration Testing on Kali Linux | EL_Cazad0r | [Read More](https://medium.com/p/335d7ecf65b4) |
 | Sun, 08 Jun 2025 13:41:47 GMT | Hacking AWS SNS: CloudGoat’s sns_secrets Lab Walkthrough | Susovan Garai (@vulnxpert) | [Read More](https://medium.com/p/970fc40efa80) |
 | Sun, 08 Jun 2025 13:35:22 GMT | American Narcissism XLIX: What Happens in a Relationship with a Narcissist Before Trauma-Bonding | E Schwartzreich | [Read More](https://medium.com/p/dc8eb49964c7) |
-| Sun, 08 Jun 2025 13:31:21 GMT | Modern Payments, Modern Keys: Why Key Management Matters in Banking and Fintech | Ashwin Sharma | [Read More](https://medium.com/p/08def1a5ac1f) |
-| Sun, 08 Jun 2025 13:30:39 GMT | Membuat Tools Brute Force Winbox via MAC Address dengan Python dan PyAutoGUI | LunarX | [Read More](https://medium.com/p/db0cfce846f0) |
-| Sun, 08 Jun 2025 13:26:27 GMT | A Practical Guide to Hardening Your Ubuntu 24.04 | Abdul Khakim | [Read More](https://medium.com/p/066626fb9728) |
-| Sun, 08 Jun 2025 13:25:57 GMT | WebSocket Wizardry: How a Forgotten Channel Let Me Sniff Private Chats in Real-Time ️‍♂️ | Iski | [Read More](https://medium.com/p/c8ccde8eee0f) |
-| Sun, 08 Jun 2025 13:25:04 GMT | Pharmaceutical Cold Chain Compliance with Global DLT: Reinventing Trust, Temperature, and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b2137285dd61) |
-| Sun, 08 Jun 2025 13:22:56 GMT | API Security Best Practices in 2025: What Developers Must Know | Sandhya Harshakumar | [Read More](https://medium.com/p/faf6d945ef98) |
-| Sun, 08 Jun 2025 13:21:26 GMT | Pengenalan ke Dunia ICS/SCADA | AcidicWealth | [Read More](https://medium.com/p/759db72d9fbe) |
-| Sun, 08 Jun 2025 13:09:00 GMT | How to Become a Data Engineer in 2025: Skills, Tools, and Career Advice | Nicholas Krimmel | [Read More](https://medium.com/p/5a846e889ba2) |
-| Sun, 08 Jun 2025 13:04:22 GMT | Membuat Tools Brute Force Sederhana | Mukti Badriyan | [Read More](https://medium.com/p/5a70ba05c129) |
-| Sun, 08 Jun 2025 13:04:11 GMT | HOW TO HARDEN A LINUX SERVER WITH A FOCUS ON WEB SERVER SECURITY | Toni Mendrofa | [Read More](https://medium.com/p/e44881a245c9) |
-| Sun, 08 Jun 2025 13:02:09 GMT | Scaling SaaS Securely with Peris.ai’s Modular Security Platform | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0337094ef2cf) |
-| Sun, 08 Jun 2025 12:59:04 GMT | Linux Hardening Baby Steps with SELinux | AcidicWealth | [Read More](https://medium.com/p/fd70bbbb9cfe) |
-| Sun, 08 Jun 2025 12:56:15 GMT | Me? Vulnerable? Yeah… About That. | Joel Atuhaire | [Read More](https://medium.com/p/008ffe469799) |
-| Sun, 08 Jun 2025 12:53:26 GMT | Carbanak: Dijital Banka Soygunlarının Ustası | Mustafa Caliskan | [Read More](https://medium.com/p/119b6b573352) |
