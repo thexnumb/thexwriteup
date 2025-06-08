@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 04:56:45 GMT | No, a MacBook Camera Cover Won’t Stop Hackers from Watching What You’re Doing | Faizan Saghir | [Read More](https://medium.com/p/f9eaaf69a795) |
+| Sun, 08 Jun 2025 04:55:24 GMT | Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data - Portswigger | Sornphut Kwanthongtham | [Read More](https://medium.com/p/bdc3145ca636) |
+| Sun, 08 Jun 2025 04:50:25 GMT | Unlocking the Mystery of Encrypted Traffic: The Power of TLS Inspection | Techleadgurdeepgill | [Read More](https://medium.com/p/269d889e011a) |
+| Sun, 08 Jun 2025 04:48:05 GMT | 1 Million Android Devices Infected in Global Cyber Threat | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/92fc1499f370) |
 | Sun, 08 Jun 2025 04:46:10 GMT | 30 Days of Cyber Security — Day 13: Mengenal Burp Suite | Indra Rahmat Maulidi | [Read More](https://medium.com/p/217ac6e5c60c) |
 | Sun, 08 Jun 2025 04:24:32 GMT | AI in 2025: Future Career Opportunities and Emerging Roles | Naveen Pandey | [Read More](https://medium.com/p/14b414344dd0) |
 | Sun, 08 Jun 2025 04:22:26 GMT | Linux Hardening-SSH & Firewall | Ivo Arlian | [Read More](https://medium.com/p/c2fe9beae282) |
@@ -109,7 +113,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 17:52:34 GMT | The BADBOX Botnet Returns: A Silent Invasion Through Your Smart Devices | Siva Gunasekaran | [Read More](https://medium.com/p/8fd8ba427f59) |
 | Sat, 07 Jun 2025 17:34:19 GMT | Post‑Quantum Cryptography Takes Center Stage at Infosecurity Europe 2025 | QuantumGenie | [Read More](https://medium.com/p/3887d87dce1d) |
 | Sat, 07 Jun 2025 17:30:00 GMT | Uso de Dependências Diretas e indiretas | Perla C. S | [Read More](https://medium.com/p/378b3c341637) |
-| Sat, 07 Jun 2025 17:29:38 GMT | Control and oversight of Autonomous AI Agents in economic systems | Tamerlan | [Read More](https://medium.com/p/09f58bfb297a) |
-| Sat, 07 Jun 2025 17:23:05 GMT | Securing the Future | Ed-it Editions | [Read More](https://medium.com/p/383858782134) |
-| Sat, 07 Jun 2025 17:18:00 GMT | Here’s How I Recover My Money From RAIZ INVEST AUSTRALIA LIMITED | Seth Jamieson | [Read More](https://medium.com/p/778f04a7d7a4) |
-| Sat, 07 Jun 2025 17:14:29 GMT | Analisis Sistem ICS/SCADA dan Studi Kasus Serangan Siber Night Dragon pada Infrastruktur Industri | byuda | [Read More](https://medium.com/p/125e053cc3d4) |
