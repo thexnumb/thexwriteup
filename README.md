@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 23:23:51 GMT | When should you perform attestation in confidential VMs | ijlal | [Read More](https://medium.com/p/830c9c80ea55) |
+| Sun, 08 Jun 2025 23:17:06 GMT | Day 12: The Anthropic’s MCP as a Data Agent - Security (Part 7) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/96adda7efc98) |
 | Sun, 08 Jun 2025 23:12:28 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/319ae133ee09) |
 | Sun, 08 Jun 2025 23:02:15 GMT | Julio Rene Alfonso Segura — OmniScriptum Publishing | Julio Rene Alfonso Segura | [Read More](https://medium.com/p/349fa93e3b93) |
 | Sun, 08 Jun 2025 22:34:27 GMT | CTF Writeup — TJCTF 2025 — mouse-trail | embossdotar | [Read More](https://medium.com/p/eb37a18a372e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 16:03:37 GMT | TTPs on-path Source Supply Chain of Computer Information Systems | Wilfred Achila | [Read More](https://medium.com/p/374c33ebb0ed) |
 | Sun, 08 Jun 2025 16:01:41 GMT | 50 Linux Pentesting One-Liners: The Ultimate Cheat Sheet for Fast Recon, Enumeration & Exploitation | Pratham Shah | [Read More](https://medium.com/p/6545238be131) |
 | Sun, 08 Jun 2025 16:00:20 GMT | The English Rules for SOC Analysts | Tyler Wall | [Read More](https://medium.com/p/7280021700b2) |
-| Sun, 08 Jun 2025 15:47:38 GMT | The Good, The Bad and The Ugly of AI | Mahmudur R Manna | [Read More](https://medium.com/p/4fa9ee42b789) |
-| Sun, 08 Jun 2025 15:46:37 GMT | The Pressure to Be “Okay” All the Time | Kondapalli Koyal | [Read More](https://medium.com/p/47c05b97de0d) |
