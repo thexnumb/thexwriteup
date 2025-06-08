@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 21:24:56 GMT | [Hack The Box Web Challenge] Insomnia Write Up | fnwn | [Read More](https://medium.com/p/d9a0b82d8377) |
+| Sun, 08 Jun 2025 21:22:04 GMT | Data Protection Deep Dive Series — One Week, One Theme at a Time | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/ea08bd10f6bd) |
+| Sun, 08 Jun 2025 21:19:42 GMT | When the Keys No Longer Fit: Why OAuth 2.0 Must Evolve for the Age of AI Agents | Mahmudu@xphereinfo | [Read More](https://medium.com/p/8a10f2ed6489) |
+| Sun, 08 Jun 2025 21:17:30 GMT | Chief Hacking Officer | Robert Vamosi | [Read More](https://medium.com/p/fad1720f1d82) |
 | Sun, 08 Jun 2025 21:06:03 GMT | Defending the Unknown in OT Security | Robert Vamosi | [Read More](https://medium.com/p/71b3d9851e63) |
 | Sun, 08 Jun 2025 20:53:39 GMT | HTTP vs HTTPS: Məlumatlarınız Necə Oğurlana Bilər? - Canlı Eksperimentlə Sübut! | Nijat Aliyev | [Read More](https://medium.com/p/b653eb7ba0dc) |
 | Sun, 08 Jun 2025 20:41:30 GMT | Comebacks, Clashes & Cyber Heists: The Week That Was | Nikhil | [Read More](https://medium.com/p/3c5e11d2144f) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 15:09:42 GMT | Navigating and Growing in Cybersecurity as a College student | aflame | [Read More](https://medium.com/p/2bdfb1ba371d) |
 | Sun, 08 Jun 2025 15:09:25 GMT | Shadow AI vs. Shadow IT | Tal Eliyahu | [Read More](https://medium.com/p/0de01156f428) |
 | Sun, 08 Jun 2025 15:08:04 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Karantara | [Read More](https://medium.com/p/51db5e65bc42) |
-| Sun, 08 Jun 2025 15:07:36 GMT | Bruteforce .zip and .rar in linux | Richardgreynardi | [Read More](https://medium.com/p/1e8e0c2f030c) |
-| Sun, 08 Jun 2025 15:01:59 GMT | The Future is Simple: Why AI & Tools Still Miss the Dumbest Bugs | Akash Ghosh | [Read More](https://medium.com/p/8e2072eff5a6) |
-| Sun, 08 Jun 2025 14:57:36 GMT | The KiranaPro Breach: A Cautionary Tale in Startup Security Missteps | CyberLucifer | [Read More](https://medium.com/p/9a833b7e722b) |
-| Sun, 08 Jun 2025 14:53:17 GMT | Membangun Tools Brute Force Login Sangat Sederhana Menggunakan Python | Irfan Syarifudin | [Read More](https://medium.com/p/229d35a0d2c2) |
