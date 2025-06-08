@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 03:42:09 GMT | Lazy Admin— TryHackMe — CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/7c23ceabf382) |
+| Sun, 08 Jun 2025 03:39:12 GMT | Cybersecurity Insights from the 2025 Cisco Cybersecurity Readiness Index | David SEHYEON Baek | [Read More](https://medium.com/p/7e1500d1d314) |
+| Sun, 08 Jun 2025 03:37:29 GMT | Cybersecurity Challenges in ASEAN — Analysis and Strategic Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/ccf1d2defa19) |
+| Sun, 08 Jun 2025 03:35:15 GMT | What Infostealers Really Steal — And What Hackers Do With It | David SEHYEON Baek | [Read More](https://medium.com/p/eded95625fac) |
+| Sun, 08 Jun 2025 03:34:52 GMT | Security Principles TryHackMe | Hammad Zahid | [Read More](https://medium.com/p/5977cc462b61) |
+| Sun, 08 Jun 2025 03:32:46 GMT | Gray Hat Hackers and the Dangerous Intersection of Legitimate Cybersecurity Work and Criminal… | David SEHYEON Baek | [Read More](https://medium.com/p/3806a151e518) |
+| Sun, 08 Jun 2025 03:32:09 GMT | Inside the Shadows: Medialand Breach Exposes Bulletproof Hosting Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/57a5f6c7461e) |
+| Sun, 08 Jun 2025 03:29:24 GMT | North Korea’s Cyber Warfare Program | David SEHYEON Baek | [Read More](https://medium.com/p/3bf68a7fdb6b) |
+| Sun, 08 Jun 2025 03:26:27 GMT | Status and Development of Entropy-Based Ransomware Detection Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/b58bd49a9bcd) |
+| Sun, 08 Jun 2025 03:25:01 GMT | Email: The Hacker’s Preferred Gateway to System Infection | David SEHYEON Baek | [Read More](https://medium.com/p/ebcd2100e58f) |
 | Sun, 08 Jun 2025 03:23:31 GMT | When Deleted Isn’t Gone — Privacy Risks in Electronics Repair | David SEHYEON Baek | [Read More](https://medium.com/p/c0a055e9d422) |
 | Sun, 08 Jun 2025 03:21:34 GMT | Serverless Security: AWS Lambda Cold Start Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/84461bb7b51a) |
 | Sun, 08 Jun 2025 03:21:29 GMT | Deloitte’s Recurring Cybersecurity Vulnerabilities | David SEHYEON Baek | [Read More](https://medium.com/p/10d24eaf68b6) |
@@ -103,13 +113,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 17:02:45 GMT | From Service to Cyber Sentinel: Navigating the Military-to-Cybersecurity Transition in Public and… | Jeffrey Nickle | [Read More](https://medium.com/p/8577828af5e5) |
 | Sat, 07 Jun 2025 16:55:41 GMT | Situational Vulnerability: It Could Happen to You (and Probably Has) | Jura Glo | [Read More](https://medium.com/p/4d2d3f6f5ec7) |
 | Sat, 07 Jun 2025 16:49:30 GMT | AI and data privacy concerns | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e47f72f261a7) |
-| Sat, 07 Jun 2025 16:45:22 GMT | Simple Debian Server Hardening With SSH & UFW | Fachri | [Read More](https://medium.com/p/48151f4629ab) |
-| Sat, 07 Jun 2025 16:42:33 GMT | WHAT ARE ICS AND SCADA? | Daarin | [Read More](https://medium.com/p/8dcc7e053ad1) |
-| Sat, 07 Jun 2025 16:39:12 GMT | Spear Phishing - The Targeted Cyberattack You Need to Watch Out For | Phani Kanuri | [Read More](https://medium.com/p/374ef717bc73) |
-| Sat, 07 Jun 2025 16:36:31 GMT | Hardening linux sederhana | Richardgreynardi | [Read More](https://medium.com/p/cd81ab6aa982) |
-| Sat, 07 Jun 2025 16:30:57 GMT | Phishing Attacks-The Digital Con Game You Need to Avoid | Phani Kanuri | [Read More](https://medium.com/p/33128f276287) |
-| Sat, 07 Jun 2025 16:27:59 GMT | Day 56 ️: Learning Bash Scripting — Understanding Functions | Agarwaldaksh | [Read More](https://medium.com/p/72e64a6bcdd6) |
-| Sat, 07 Jun 2025 16:25:04 GMT | Cybersecurity Case Study 2: WannaCry — The Global Ransomware Outbreak | Agarwaldaksh | [Read More](https://medium.com/p/e78f4b3235fe) |
-| Sat, 07 Jun 2025 16:22:15 GMT | Kali GPT: The Future of AI-Driven Cybersecurity Tools in Kali Linux | Ekene Joseph | [Read More](https://medium.com/p/544824b878ea) |
-| Sat, 07 Jun 2025 16:19:41 GMT | CoPilot Now Speaks MITRE: A Smarter Way to Understand Threats | SOCFortress | [Read More](https://medium.com/p/f678709f497c) |
-| Sat, 07 Jun 2025 16:19:31 GMT | Cybersecurity: Protecting Yourself in a Digital World | Phani Kanuri | [Read More](https://medium.com/p/28fe9938a8a5) |
