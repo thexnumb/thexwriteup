@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 13:41:47 GMT | Hacking AWS SNS: CloudGoat’s sns_secrets Lab Walkthrough | Susovan Garai (@vulnxpert) | [Read More](https://medium.com/p/970fc40efa80) |
+| Sun, 08 Jun 2025 13:31:21 GMT | Modern Payments, Modern Keys: Why Key Management Matters in Banking and Fintech | Ashwin Sharma | [Read More](https://medium.com/p/08def1a5ac1f) |
+| Sun, 08 Jun 2025 13:30:39 GMT | Membuat Tools Brute Force Winbox via MAC Address dengan Python dan PyAutoGUI | LunarX | [Read More](https://medium.com/p/db0cfce846f0) |
+| Sun, 08 Jun 2025 13:26:27 GMT | A Practical Guide to Hardening Your Ubuntu 24.04 | Abdul Khakim | [Read More](https://medium.com/p/066626fb9728) |
+| Sun, 08 Jun 2025 13:25:57 GMT | WebSocket Wizardry: How a Forgotten Channel Let Me Sniff Private Chats in Real-Time ️‍♂️ | Iski | [Read More](https://medium.com/p/c8ccde8eee0f) |
+| Sun, 08 Jun 2025 13:25:04 GMT | Pharmaceutical Cold Chain Compliance with Global DLT: Reinventing Trust, Temperature, and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/b2137285dd61) |
+| Sun, 08 Jun 2025 13:22:56 GMT | API Security Best Practices in 2025: What Developers Must Know | Sandhya Harshakumar | [Read More](https://medium.com/p/faf6d945ef98) |
+| Sun, 08 Jun 2025 13:21:26 GMT | Pengenalan ke Dunia ICS/SCADA | AcidicWealth | [Read More](https://medium.com/p/759db72d9fbe) |
 | Sun, 08 Jun 2025 13:09:00 GMT | How to Become a Data Engineer in 2025: Skills, Tools, and Career Advice | Nicholas Krimmel | [Read More](https://medium.com/p/5a846e889ba2) |
 | Sun, 08 Jun 2025 13:04:22 GMT | Membuat Tools Brute Force Sederhana | Mukti Badriyan | [Read More](https://medium.com/p/5a70ba05c129) |
 | Sun, 08 Jun 2025 13:04:11 GMT | HOW TO HARDEN A LINUX SERVER WITH A FOCUS ON WEB SERVER SECURITY | Toni Mendrofa | [Read More](https://medium.com/p/e44881a245c9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 08:09:06 GMT | Stolen Property resources for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/2100b4322344) |
 | Sun, 08 Jun 2025 08:00:48 GMT | IPv4 Address Classes Explained: A Comprehensive Guide to Class A, B, C, D, and E | Amol Shinde | [Read More](https://medium.com/p/4d29116c452b) |
 | Sun, 08 Jun 2025 08:00:34 GMT | 10 ways I introduce vulnerability into my writing without being a wet towel | Alex Mathers | [Read More](https://medium.com/p/ab0896b3919e) |
-| Sun, 08 Jun 2025 07:52:26 GMT | ICE — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/f781a978259b) |
-| Sun, 08 Jun 2025 07:52:10 GMT | A Lesson in Wi-Fi Security: Think Before You Connect | Amritanshu Prashar | [Read More](https://medium.com/p/d762accde768) |
-| Sun, 08 Jun 2025 07:50:59 GMT | Cybersecurity Tools Used by Ethical Hacking Experts | Manisha Chaudhary | [Read More](https://medium.com/p/400ce8172261) |
-| Sun, 08 Jun 2025 07:48:37 GMT | Command Injection Via File Inclusion Vulnerability: Natas29 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/16c801259edf) |
-| Sun, 08 Jun 2025 07:46:36 GMT | Firewall Penjaga Gerbang Jaringan Pribadimu | Mukti Badriyan | [Read More](https://medium.com/p/b65d01e4f890) |
-| Sun, 08 Jun 2025 07:40:59 GMT | Perkenalan Cyber Security | Rafficiputra | [Read More](https://medium.com/p/f3b6e1effe9d) |
-| Sun, 08 Jun 2025 07:13:27 GMT | Story of a Cyber Newbie | CosmicByte | [Read More](https://medium.com/p/81dd7c92ff26) |
-| Sun, 08 Jun 2025 07:12:11 GMT | BADBOX 2.0: They’re Using Your Internet. Your IP. Your Identity. And You Have No Clue. | Bipin Kareparambil | [Read More](https://medium.com/p/15db99c20cde) |
