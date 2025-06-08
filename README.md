@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 20:37:44 GMT | Spotting CVE-2025–23016 with Ghidra | Craig Young | [Read More](https://medium.com/p/533a084dac42) |
+| Sun, 08 Jun 2025 20:27:30 GMT | Trends in Social Engineering in Ghana: A National Wake-Up Call | Benjamin Makafui Jackson | [Read More](https://medium.com/p/d65d5e3f0f18) |
+| Sun, 08 Jun 2025 20:22:49 GMT | 09052028942 | شماره خاله #شماره خاله تهران #خاله09052028942 | [Read More](https://medium.com/p/7dbbd85ad0c8) |
+| Sun, 08 Jun 2025 20:22:24 GMT | ️ Web Security 101: Understanding and Defending Against CSRF Attacks | Manoj Prabhakar | [Read More](https://medium.com/p/da7a0fd270b3) |
+| Sun, 08 Jun 2025 20:20:50 GMT | The Idealist’s Architecture Decision: Cross-Tenant Access — Part 5 | Jenny 秋 | [Read More](https://medium.com/p/3646a0e11fad) |
 | Sun, 08 Jun 2025 19:57:54 GMT | TheHackersLabs — OfusPingu | APS88 | [Read More](https://medium.com/p/d01d2a3d050d) |
 | Sun, 08 Jun 2025 19:41:03 GMT | Agentic AI in Security Operations Center (SOC) | whoami | [Read More](https://medium.com/p/b5c1b927d411) |
 | Sun, 08 Jun 2025 19:38:00 GMT | Immutable Insights: Understanding Blockchain's Enduring Impact | Kishan Kesari Gupta | [Read More](https://medium.com/p/2e451263176a) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 14:47:15 GMT | The Rise of Confidential Computing: Why Data Privacy Needs a Rethink | Luthfisuccess | [Read More](https://medium.com/p/b4431d2a0d22) |
 | Sun, 08 Jun 2025 14:43:43 GMT | My First Reflected XSS: A Beginner’s Journey in Bug Bounty Hunting | Karan | [Read More](https://medium.com/p/5515224c30bc) |
 | Sun, 08 Jun 2025 14:42:11 GMT | Model Theft in LLMs- OWASP Top 10 LLMs | Akanksha | [Read More](https://medium.com/p/17cc65136394) |
-| Sun, 08 Jun 2025 14:41:42 GMT | What goes under Foundational Security Concepts | Igor Berner | [Read More](https://medium.com/p/baf0c16db248) |
-| Sun, 08 Jun 2025 14:36:25 GMT | Introducing HellRush: An Educational DDoS Simulation Toolkit for Network Security Professionals | medjahdi | [Read More](https://medium.com/p/85d12b4265fe) |
-| Sun, 08 Jun 2025 14:30:19 GMT | Simple Bruteforce Login Tools | Andi Fauzan | [Read More](https://medium.com/p/1ed872f4e13e) |
-| Sun, 08 Jun 2025 14:30:13 GMT | Scalability of Cryptocurrencies: Are They Ready for Global Reserve Status? | Imali | [Read More](https://medium.com/p/ce18ba217227) |
-| Sun, 08 Jun 2025 14:19:21 GMT | Danxdex Reviews - This Is How To Recover Your Money | Ali stewart | [Read More](https://medium.com/p/4729e04a04a3) |
