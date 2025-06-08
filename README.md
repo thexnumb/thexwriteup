@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 14:36:25 GMT | Introducing HellRush: An Educational DDoS Simulation Toolkit for Network Security Professionals | medjahdi | [Read More](https://medium.com/p/85d12b4265fe) |
+| Sun, 08 Jun 2025 14:30:19 GMT | Simple Bruteforce Login Tools | Andi Fauzan | [Read More](https://medium.com/p/1ed872f4e13e) |
+| Sun, 08 Jun 2025 14:30:13 GMT | Scalability of Cryptocurrencies: Are They Ready for Global Reserve Status? | Imali | [Read More](https://medium.com/p/ce18ba217227) |
+| Sun, 08 Jun 2025 14:19:21 GMT | Danxdex Reviews - This Is How To Recover Your Money | Ali stewart | [Read More](https://medium.com/p/4729e04a04a3) |
+| Sun, 08 Jun 2025 14:17:37 GMT | Here’s How I Recover My Money From Danxdex | Ali stewart | [Read More](https://medium.com/p/ca4131292c02) |
 | Sun, 08 Jun 2025 14:13:10 GMT | 10 Common Cybersecurity Threats (and How You Can Stay Safe) | P T | [Read More](https://medium.com/p/bfba23ef5778) |
 | Sun, 08 Jun 2025 14:10:34 GMT | Designing for Zero Trust: UX in the Age of Digital Skepticism | MrsNo1Special | [Read More](https://medium.com/p/d793b32fbbce) |
+| Sun, 08 Jun 2025 14:09:48 GMT | Incident Response: What It Really Means | Igor Berner | [Read More](https://medium.com/p/f32481abb50b) |
 | Sun, 08 Jun 2025 14:09:30 GMT | Thompson TryHackMe walkthrough | Mohamed Gebril | [Read More](https://medium.com/p/d1ad5faf8317) |
 | Sun, 08 Jun 2025 14:06:26 GMT | Two-Tier Web App Deployment on AWS using EC2, Route 53, RDS and ALB | Akuphe Dieudonne | [Read More](https://medium.com/p/2bcb0498d844) |
 | Sun, 08 Jun 2025 14:02:12 GMT | I’m Not OK | Tate | [Read More](https://medium.com/p/47aaec4e7b04) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 09:26:23 GMT | Introduction to securing the future in AI systems | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/1106cf1fad13) |
 | Sun, 08 Jun 2025 09:07:29 GMT | Cloud Security Pt 1 : | Momodou Ceesay | [Read More](https://medium.com/p/7411a283299e) |
 | Sun, 08 Jun 2025 09:03:24 GMT | TryHackMe Include | Niteesh Deshmukh | [Read More](https://medium.com/p/93fa0505cd53) |
-| Sun, 08 Jun 2025 09:01:32 GMT | picoCTF —what’s a net cat | Rohit Chaudhary | [Read More](https://medium.com/p/31fc13bb3dff) |
-| Sun, 08 Jun 2025 09:00:58 GMT | Securing Against File Upload Vulnerabilities: Methods, Examples, and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/b0080b7847d5) |
-| Sun, 08 Jun 2025 09:00:53 GMT | Securing Against File Upload Vulnerabilities: Methods, Examples, and Best Practices | Anh Trần Tuấn | [Read More](https://medium.com/p/56711d22fd2b) |
-| Sun, 08 Jun 2025 08:58:30 GMT | Mengenal ICS/SCADA: Sistem Vital Industri yang Rentan Diserang | Princex. | [Read More](https://medium.com/p/3f795535eb21) |
-| Sun, 08 Jun 2025 08:56:31 GMT | ICS/SCADA | Abdul Khakim | [Read More](https://medium.com/p/b043d913a34d) |
-| Sun, 08 Jun 2025 08:50:15 GMT | Cracking SSH with Python — Building a Brute Force Tool Using Paramiko | Hammam Awis Zukimi | [Read More](https://medium.com/p/234b1fb6302c) |
