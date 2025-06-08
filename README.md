@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 18:27:41 GMT | Port Scanning with Linux: Identify Open and Closed Ports Easily | Natarajan C K | [Read More](https://medium.com/p/3b843c1fc452) |
 | Sun, 08 Jun 2025 18:21:48 GMT | The Silent Leak: Unseen Threats Lurking in GenAI Prompts | Avnishyam | [Read More](https://medium.com/p/f61d067a5e10) |
 | Sun, 08 Jun 2025 18:15:42 GMT | Cyber Threat Analyzer Using LLMs and Cloud | Surya G | [Read More](https://medium.com/p/5fb39fb80b4c) |
 | Sun, 08 Jun 2025 18:12:38 GMT | The Quiet Weapon in Crypto Auditing: Securing Digital Assets Beyond the Ledger | Victor Greenstein, JD, MBA, CFE | [Read More](https://medium.com/p/275843fe985e) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 13:45:59 GMT | A Dime in Time | MrsNo1Special | [Read More](https://medium.com/p/5e085fd0e214) |
 | Sun, 08 Jun 2025 13:44:06 GMT | Kali GPT: The AI Co-Pilot Revolutionizing Penetration Testing on Kali Linux | EL_Cazad0r | [Read More](https://medium.com/p/335d7ecf65b4) |
 | Sun, 08 Jun 2025 13:41:47 GMT | Hacking AWS SNS: CloudGoat’s sns_secrets Lab Walkthrough | Susovan Garai (@vulnxpert) | [Read More](https://medium.com/p/970fc40efa80) |
-| Sun, 08 Jun 2025 13:35:22 GMT | American Narcissism XLIX: What Happens in a Relationship with a Narcissist Before Trauma-Bonding | E Schwartzreich | [Read More](https://medium.com/p/dc8eb49964c7) |
