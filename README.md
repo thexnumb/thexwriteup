@@ -12,11 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 17:34:21 GMT | Telnet Exploit on Metasploitable 2 Port 23 | Kizito Arinze Chukwu | [Read More](https://medium.com/p/0a9ec4aa498b) |
+| Sun, 08 Jun 2025 17:31:14 GMT | General Foundation Models and Their General Problems | Mayank Kumar | [Read More](https://medium.com/p/75255ff5bfa4) |
+| Sun, 08 Jun 2025 17:30:06 GMT | Food is more political than you think. | Archita N | [Read More](https://medium.com/p/29eb83299db1) |
+| Sun, 08 Jun 2025 17:29:21 GMT | Unlocking Deeper Security Insights: Introducing AI SSH/DB/K8 Session Analysis | Border0 | [Read More](https://medium.com/p/7217fbd61adf) |
+| Sun, 08 Jun 2025 17:24:53 GMT | Eksperimen Brute Force MAC Address: Membedah Sistem Keamanan Jaringan Tingkat Data Link | Dzakwan Efendi | [Read More](https://medium.com/p/63b1a58433d8) |
+| Sun, 08 Jun 2025 17:22:13 GMT | Blue → TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/247577d7dfb1) |
+| Sun, 08 Jun 2025 17:17:06 GMT | Bash Scripting — Tryhackme | Fuad Hasan | [Read More](https://medium.com/p/42c3a0cdbddb) |
+| Sun, 08 Jun 2025 17:14:05 GMT | CompTIA A+ Certification: A Comprehensive Guide for Professionals | Mazhar Imran | [Read More](https://medium.com/p/c038b305469d) |
+| Sun, 08 Jun 2025 17:12:16 GMT | Recovernest Social media account recovery services | Tobias Mathew | [Read More](https://medium.com/p/37d3498bcd7f) |
 | Sun, 08 Jun 2025 17:10:09 GMT | Why “Know Before You Clone” Should Be Every Developer’s Mantra | Travis Felder | [Read More](https://medium.com/p/f19eecf22e28) |
 | Sun, 08 Jun 2025 17:08:44 GMT | Cybersec : MariaDB, round2 | The consistent voice | [Read More](https://medium.com/p/813a2792950b) |
 | Sun, 08 Jun 2025 17:08:12 GMT | Hardening SSH Nonaktifkan Root Login(Remote Access) | Mohamad Axel A. | [Read More](https://medium.com/p/913f182ba6b1) |
 | Sun, 08 Jun 2025 16:58:48 GMT | Time to Evolve: Why Migrating from Okta Classic to Identity Engine is a Security Must | Fran NM | [Read More](https://medium.com/p/eb1734f2cb06) |
 | Sun, 08 Jun 2025 16:58:38 GMT | Prendre conscience de son potentiel : Oser la cybersécurité sans coder ! | Cyber Uncoded | [Read More](https://medium.com/p/c21cf1760811) |
+| Sun, 08 Jun 2025 16:53:03 GMT | Hardening Linux — Iptables & Fail2ban | AjiPangesstu | [Read More](https://medium.com/p/9ccc4bee0623) |
 | Sun, 08 Jun 2025 16:52:48 GMT | How to protect your data from phishing attacks | Tobias Mathew | [Read More](https://medium.com/p/b678aa62dab8) |
 | Sun, 08 Jun 2025 16:48:38 GMT | My Experience with Kali GPT — The AI That Helps You Hack (Legally) | Tharindu Damith | [Read More](https://medium.com/p/d06eb3ef33d7) |
 | Sun, 08 Jun 2025 16:46:11 GMT | Passkeys - Passwordless Authentication | Divyesh P K | [Read More](https://medium.com/p/46e7ff59c912) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 12:59:04 GMT | Linux Hardening Baby Steps with SELinux | AcidicWealth | [Read More](https://medium.com/p/fd70bbbb9cfe) |
 | Sun, 08 Jun 2025 12:56:15 GMT | Me? Vulnerable? Yeah… About That. | Joel Atuhaire | [Read More](https://medium.com/p/008ffe469799) |
 | Sun, 08 Jun 2025 12:53:26 GMT | Carbanak: Dijital Banka Soygunlarının Ustası | Mustafa Caliskan | [Read More](https://medium.com/p/119b6b573352) |
-| Sun, 08 Jun 2025 12:52:01 GMT | Menyelami ICS & SCADA: Infrastruktur Vital yang Terancam | Fay | [Read More](https://medium.com/p/59edfd161552) |
-| Sun, 08 Jun 2025 12:50:41 GMT | Shadows of Surveillance | Tales of Nyx | [Read More](https://medium.com/p/4aa5b4213f93) |
-| Sun, 08 Jun 2025 12:46:45 GMT | Is this thing on? | nihilsec | [Read More](https://medium.com/p/aaca953ba8cb) |
-| Sun, 08 Jun 2025 12:44:35 GMT | Side Entrance. Damn Vulnerable Defi V4 solutions series | Jorge Zerpa | [Read More](https://medium.com/p/7eb12b291ba7) |
-| Sun, 08 Jun 2025 12:43:59 GMT | Let’sDefend: SOC 138 — Malware — Event ID: 77 | V0idd | [Read More](https://medium.com/p/7753dd73901a) |
-| Sun, 08 Jun 2025 12:39:27 GMT | Stop Tipping: Why I’m Putting My Wallet Back in My Pocket | Wayne Weiner D.Ed. | [Read More](https://medium.com/p/07020ac908d2) |
-| Sun, 08 Jun 2025 12:33:57 GMT | How I wrote a “Phishing Detection” tool | Sadra Bakhtiari | [Read More](https://medium.com/p/538a9900406b) |
-| Sun, 08 Jun 2025 12:32:12 GMT | What Really Drives a CVSS Score? Breaking Down the Base Metrics | Anthony Mukwaya | [Read More](https://medium.com/p/2de073b6ab09) |
-| Sun, 08 Jun 2025 12:28:38 GMT | Panduan Lengkap Hardening SSH di Linux | Darmayanti | [Read More](https://medium.com/p/7b988c2a8223) |
-| Sun, 08 Jun 2025 12:28:22 GMT | Stuxnet: Siber Savaşın İlk Dijital Silahı | Mustafa Caliskan | [Read More](https://medium.com/p/d62f8acac117) |
