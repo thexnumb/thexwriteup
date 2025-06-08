@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 16:20:49 GMT | ICS dan SCADA: Sistem Penting di Balik Industri Modern | Riansatria | [Read More](https://medium.com/p/37a6443311ed) |
+| Sun, 08 Jun 2025 16:20:15 GMT | Brute Force Password File RAR pada Kali Linux | Rendizar Satria | [Read More](https://medium.com/p/f097ef988d4c) |
+| Sun, 08 Jun 2025 16:19:13 GMT | Menembus Login URL dengan Brute Force: Eksperimen Edukasi Menggunakan Python | Salhanchynt | [Read More](https://medium.com/p/3154ab92f6cb) |
+| Sun, 08 Jun 2025 16:17:58 GMT | The Internet Never Forgets | Wahid Najim | [Read More](https://medium.com/p/659d68810a94) |
+| Sun, 08 Jun 2025 16:16:49 GMT | RPC | Paintesteur | [Read More](https://medium.com/p/0fc11ad5ac3f) |
+| Sun, 08 Jun 2025 16:15:13 GMT | The Linux Concept Journey — Kernel Parameters | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b6f9741ac62e) |
+| Sun, 08 Jun 2025 16:13:03 GMT | Documentasi Hardening Linux Remote Via SSH | Riansatria | [Read More](https://medium.com/p/da680152315a) |
+| Sun, 08 Jun 2025 16:08:54 GMT | Burp Suite di Medan Tempur: Pecahkan Tantangan picoCTF introToBurp! | LunarX | [Read More](https://medium.com/p/846b2bc6d69c) |
+| Sun, 08 Jun 2025 16:08:43 GMT | Active Directory 101: Building a Secure Foundation for Enterprise IT | Odiomonafe Jamal . A | [Read More](https://medium.com/p/0a594e9aa71a) |
+| Sun, 08 Jun 2025 16:06:19 GMT | CI/CD Pipeline Security: DevSecOps Best Practices for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/6cc1946f3f13) |
+| Sun, 08 Jun 2025 16:04:36 GMT | Exploiting LLM Excessive Agency: Lessons from BSides Bangalore | Juhie Chandra | [Read More](https://medium.com/p/0fd8586a57f3) |
+| Sun, 08 Jun 2025 16:04:23 GMT | Membuat Tool Brute Force untuk Login ke Web testphp.vulnweb.com | Adnan Musthafa Al amin | [Read More](https://medium.com/p/ed390139a41d) |
+| Sun, 08 Jun 2025 16:03:37 GMT | TTPs on-path Source Supply Chain of Computer Information Systems | Wilfred Achila | [Read More](https://medium.com/p/374c33ebb0ed) |
+| Sun, 08 Jun 2025 16:01:41 GMT | 50 Linux Pentesting One-Liners: The Ultimate Cheat Sheet for Fast Recon, Enumeration & Exploitation | Pratham Shah | [Read More](https://medium.com/p/6545238be131) |
+| Sun, 08 Jun 2025 16:00:20 GMT | The English Rules for SOC Analysts | Tyler Wall | [Read More](https://medium.com/p/7280021700b2) |
+| Sun, 08 Jun 2025 15:47:38 GMT | The Good, The Bad and The Ugly of AI | Mahmudur R Manna | [Read More](https://medium.com/p/4fa9ee42b789) |
+| Sun, 08 Jun 2025 15:46:37 GMT | The Pressure to Be “Okay” All the Time | Kondapalli Koyal | [Read More](https://medium.com/p/47c05b97de0d) |
+| Sun, 08 Jun 2025 15:46:26 GMT | Tryhackme: Lookup Walkthrough | Hunyejohn | [Read More](https://medium.com/p/f55af0ede5f7) |
+| Sun, 08 Jun 2025 15:37:50 GMT | Information Management: Intelligence That Powers Business Decisions | Don Gunter | [Read More](https://medium.com/p/ee82063db4c1) |
 | Sun, 08 Jun 2025 15:34:05 GMT | Kali GPT: The AI Cyber Companion Built for Hackers, Not Bloggers | CyberTechAjju | [Read More](https://medium.com/p/a72406655952) |
 | Sun, 08 Jun 2025 15:31:01 GMT | Mass Message Injection and IDOR in Account Verification | Vikas Anand | [Read More](https://medium.com/p/c599b729321d) |
 | Sun, 08 Jun 2025 15:30:55 GMT | Maximize Your Earnings by Collecting $BUG  Quickly and Easily | Gavin
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 11:30:26 GMT | AI and Automation in Ethical Hacking: The Future of Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/e9b79cd1ed90) |
 | Sun, 08 Jun 2025 11:29:53 GMT | Trump Administration Reshapes U.S. Cybersecurity Policy with New Executive Order | Tech Thrilled | [Read More](https://medium.com/p/b5c02e47ec5d) |
 | Sun, 08 Jun 2025 11:28:26 GMT | The Protocol that Secures the Modern Internet | Dyane Fulgencio | [Read More](https://medium.com/p/5863c0dfe278) |
-| Sun, 08 Jun 2025 11:22:10 GMT | eJPT - 3.1 System/Host Based Attacks (I) | Hammaad M | [Read More](https://medium.com/p/f0f5d7b9a1b3) |
-| Sun, 08 Jun 2025 11:19:07 GMT | KeySnatcherX: Ide Tools Brute Force Buat Latihan Cybersecurity | Honeylemondrink | [Read More](https://medium.com/p/706c8261467d) |
-| Sun, 08 Jun 2025 11:18:18 GMT | HARDENING LINUX FTP SERVER | cakaras | [Read More](https://medium.com/p/cccac66fabdb) |
-| Sun, 08 Jun 2025 11:14:39 GMT | How I Found Bug in Dutch Government and Never got the Swag | Vikas Anand | [Read More](https://medium.com/p/7e161f115974) |
-| Sun, 08 Jun 2025 11:08:17 GMT | Try Hack Me: Crack the hash Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/9ff7c111504e) |
-| Sun, 08 Jun 2025 11:08:15 GMT | The Hidden Security Crisis in Agentic AI Development: Why Your Next AI Assistant Might Be Your… | Ali | [Read More](https://medium.com/p/dbc733096d56) |
-| Sun, 08 Jun 2025 11:06:49 GMT | Security risks of AI systems | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/259854a5d806) |
-| Sun, 08 Jun 2025 11:03:52 GMT | Burnout Is a Security Flaw: What SecOps Teams & Sub Teachers Have in Common | Code & Kif | [Read More](https://medium.com/p/3b88e182a9af) |
-| Sun, 08 Jun 2025 11:02:57 GMT | I know your bank!……. | Snooptsz | [Read More](https://medium.com/p/a53ba7c035be) |
-| Sun, 08 Jun 2025 11:01:52 GMT | Mengenal Elliptic Curve Cryptography dan Keamanan Web3 di Era Blockchain | Dennis Satriani Sucipto Putra | [Read More](https://medium.com/p/260a7248da05) |
-| Sun, 08 Jun 2025 11:00:31 GMT | Quantum Threats Are Coming: Your Guide to Post-Quantum Cryptography in 2025 | Tech Security | [Read More](https://medium.com/p/bf06ea0f9551) |
-| Sun, 08 Jun 2025 10:59:31 GMT | Introducing Kali GPT: AI-Powered Offensive Security is Here | Taha Ex | [Read More](https://medium.com/p/b03e298b0915) |
-| Sun, 08 Jun 2025 10:51:17 GMT | AI Is Listening to Your Passwords — And It’s 93% Accurate | Tirupati Rao | [Read More](https://medium.com/p/57e609eeb6e5) |
-| Sun, 08 Jun 2025 10:50:41 GMT | 94 Billion Cookies Stolen: Is the Internet a Bakery or a Crime Scene? | FrostFoe | [Read More](https://medium.com/p/866bb653905f) |
-| Sun, 08 Jun 2025 10:47:05 GMT | Hacking AWS Elastic Beanstalk: CloudGoat’s beanstalk_secrets Lab Walkthrough | Susovan Garai (@vulnxpert) | [Read More](https://medium.com/p/a21135c6579e) |
-| Sun, 08 Jun 2025 10:42:18 GMT | How To Instantly Claim $LFI | $LFI (LunaFi) | [Read More](https://medium.com/p/317c393586cd) |
-| Sun, 08 Jun 2025 10:25:29 GMT | Data’s Demands: The Specialized Toolkit and Architectures You Need | Max Levko | [Read More](https://medium.com/p/856431b8cac5) |
-| Sun, 08 Jun 2025 10:24:10 GMT | Splunk(Part 2) | Amalpp | [Read More](https://medium.com/p/eb3b8f8e175f) |
-| Sun, 08 Jun 2025 10:23:12 GMT | the art of holding back | vi | [Read More](https://medium.com/p/6fa6630661f9) |
