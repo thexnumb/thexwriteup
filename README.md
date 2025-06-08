@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 21:06:03 GMT | Defending the Unknown in OT Security | Robert Vamosi | [Read More](https://medium.com/p/71b3d9851e63) |
+| Sun, 08 Jun 2025 20:53:39 GMT | HTTP vs HTTPS: Məlumatlarınız Necə Oğurlana Bilər? - Canlı Eksperimentlə Sübut! | Nijat Aliyev | [Read More](https://medium.com/p/b653eb7ba0dc) |
+| Sun, 08 Jun 2025 20:41:30 GMT | Comebacks, Clashes & Cyber Heists: The Week That Was | Nikhil | [Read More](https://medium.com/p/3c5e11d2144f) |
 | Sun, 08 Jun 2025 20:37:44 GMT | Spotting CVE-2025–23016 with Ghidra | Craig Young | [Read More](https://medium.com/p/533a084dac42) |
+| Sun, 08 Jun 2025 20:34:27 GMT | Mastering Suricata: How to Build a Hands-On Inline IPS with Real-Time Threat Intel | ierdnA | [Read More](https://medium.com/p/e4bbb59d6d44) |
 | Sun, 08 Jun 2025 20:27:30 GMT | Trends in Social Engineering in Ghana: A National Wake-Up Call | Benjamin Makafui Jackson | [Read More](https://medium.com/p/d65d5e3f0f18) |
 | Sun, 08 Jun 2025 20:22:49 GMT | 09052028942 | شماره خاله #شماره خاله تهران #خاله09052028942 | [Read More](https://medium.com/p/7dbbd85ad0c8) |
 | Sun, 08 Jun 2025 20:22:24 GMT | ️ Web Security 101: Understanding and Defending Against CSRF Attacks | Manoj Prabhakar | [Read More](https://medium.com/p/da7a0fd270b3) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 15:01:59 GMT | The Future is Simple: Why AI & Tools Still Miss the Dumbest Bugs | Akash Ghosh | [Read More](https://medium.com/p/8e2072eff5a6) |
 | Sun, 08 Jun 2025 14:57:36 GMT | The KiranaPro Breach: A Cautionary Tale in Startup Security Missteps | CyberLucifer | [Read More](https://medium.com/p/9a833b7e722b) |
 | Sun, 08 Jun 2025 14:53:17 GMT | Membangun Tools Brute Force Login Sangat Sederhana Menggunakan Python | Irfan Syarifudin | [Read More](https://medium.com/p/229d35a0d2c2) |
-| Sun, 08 Jun 2025 14:48:08 GMT | You are Perfect | Mywords | [Read More](https://medium.com/p/2837a99bb2c5) |
-| Sun, 08 Jun 2025 14:47:15 GMT | The Rise of Confidential Computing: Why Data Privacy Needs a Rethink | Luthfisuccess | [Read More](https://medium.com/p/b4431d2a0d22) |
-| Sun, 08 Jun 2025 14:43:43 GMT | My First Reflected XSS: A Beginner’s Journey in Bug Bounty Hunting | Karan | [Read More](https://medium.com/p/5515224c30bc) |
-| Sun, 08 Jun 2025 14:42:11 GMT | Model Theft in LLMs- OWASP Top 10 LLMs | Akanksha | [Read More](https://medium.com/p/17cc65136394) |
