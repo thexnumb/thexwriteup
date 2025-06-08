@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 12:33:57 GMT | How I wrote a “Phishing Detection” tool | Sadra Bakhtiari | [Read More](https://medium.com/p/538a9900406b) |
+| Sun, 08 Jun 2025 12:28:38 GMT | Panduan Lengkap Hardening SSH di Linux | Darmayanti | [Read More](https://medium.com/p/7b988c2a8223) |
+| Sun, 08 Jun 2025 12:28:22 GMT | Stuxnet: Siber Savaşın İlk Dijital Silahı | Mustafa Caliskan | [Read More](https://medium.com/p/d62f8acac117) |
+| Sun, 08 Jun 2025 12:28:11 GMT | Mengenal ICS/SCADA dan Ancaman Siber yang Mengintainya | Rendizar Satria | [Read More](https://medium.com/p/71256890a822) |
+| Sun, 08 Jun 2025 12:26:00 GMT | Membuat Tools Brute Force Password PDF dengan Python di Kali Linux | SltnBM | [Read More](https://medium.com/p/3d27efbc700d) |
+| Sun, 08 Jun 2025 12:13:43 GMT | Installing Metasploitable 2 in VirtualBox for Your Cybersecurity Lab | Abyss | [Read More](https://medium.com/p/217b69144960) |
+| Sun, 08 Jun 2025 12:10:57 GMT | 2025 statistics about AI agents, software supply chain security, and DMARC adoption | CyberSecStats | [Read More](https://medium.com/p/b1feafb32447) |
+| Sun, 08 Jun 2025 12:06:17 GMT | Truster. Damn Vulnerable Defi V4 solutions series | Jorge Zerpa | [Read More](https://medium.com/p/a30f4bee6f05) |
+| Sun, 08 Jun 2025 12:05:38 GMT | Walkthrough Information Disclosure in Version Control System, Portswigger | Norbert Ephraim | [Read More](https://medium.com/p/4b44fc3139eb) |
+| Sun, 08 Jun 2025 12:03:31 GMT | A (Basic) Introduction to Software & Network Security | 0s & 1s — All About Software | [Read More](https://medium.com/p/8c554417af11) |
+| Sun, 08 Jun 2025 12:02:36 GMT | WannaCry Nedir? Büyük Fidye Yazılımı Saldırısının Ardındaki Gerçekler | Mustafa Caliskan | [Read More](https://medium.com/p/8a0ebba753df) |
+| Sun, 08 Jun 2025 12:00:54 GMT | 15 outils OSINT incontournables à maîtriser en 2025 | Marc Barbezat | [Read More](https://medium.com/p/d2d231c34d73) |
+| Sun, 08 Jun 2025 11:59:57 GMT | The Rise of Dark Web Freelancers: Hackers for Hire Are Just a Click Away | Sandesh Kumar | [Read More](https://medium.com/p/ee6bde6bf6cf) |
+| Sun, 08 Jun 2025 11:55:45 GMT | Active Directory Credential Dumping and thefting Techniques and Detection | Parviz Salmanov | [Read More](https://medium.com/p/1cfb573787f5) |
 | Sun, 08 Jun 2025 11:30:26 GMT | AI and Automation in Ethical Hacking: The Future of Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/e9b79cd1ed90) |
 | Sun, 08 Jun 2025 11:29:53 GMT | Trump Administration Reshapes U.S. Cybersecurity Policy with New Executive Order | Tech Thrilled | [Read More](https://medium.com/p/b5c02e47ec5d) |
 | Sun, 08 Jun 2025 11:28:26 GMT | The Protocol that Secures the Modern Internet | Dyane Fulgencio | [Read More](https://medium.com/p/5863c0dfe278) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 06:16:19 GMT | Beyond Passwords: The Future of Identity Verification | Devi prasad Guda | [Read More](https://medium.com/p/e4ba03e06e3f) |
 | Sun, 08 Jun 2025 06:14:42 GMT | How I Accidentally Found a Dark Web Forum Selling Stolen Health Records | Sandesh Kumar | [Read More](https://medium.com/p/763649b84106) |
 | Sun, 08 Jun 2025 06:08:45 GMT | From Security Guard to SaaS Founder: How I Built My Own Guard Patrol System | Ben Winter | [Read More](https://medium.com/p/65244c67c3df) |
-| Sun, 08 Jun 2025 06:06:12 GMT | MAC-Level Access: Creating a Brute Force Tool for MikroTik Winbox | Bumi Aryadirangga | [Read More](https://medium.com/p/a8b2d0c0092b) |
-| Sun, 08 Jun 2025 06:04:23 GMT | Hack The Box — Backfire - WriteUp | pythonic01 | [Read More](https://medium.com/p/e2821e611163) |
-| Sun, 08 Jun 2025 06:02:32 GMT | Top 10 AI Tools Revolutionizing Work in 2025 | Pihu | [Read More](https://medium.com/p/8b29fec9d94a) |
-| Sun, 08 Jun 2025 06:00:30 GMT | Today’s Top Cyber Intelligence Highlights — Jun 08, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/387cd762c2bc) |
-| Sun, 08 Jun 2025 05:58:59 GMT | Phishing Email Analysis | Jasmehr Kaur | [Read More](https://medium.com/p/18f0b65305cc) |
-| Sun, 08 Jun 2025 05:50:41 GMT | Deep Dive into SSTI: Finding and Exploiting Server-Side Template Injection Like a Pro | Shah kaif | [Read More](https://medium.com/p/bd018ee7ab69) |
-| Sun, 08 Jun 2025 05:50:06 GMT | Importance of Third Party Secu | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/efa8b88da596) |
-| Sun, 08 Jun 2025 05:41:35 GMT | I reproduced a $10,000 bug | phoenixcatalan | [Read More](https://medium.com/p/28466603e45e) |
-| Sun, 08 Jun 2025 05:40:38 GMT | Lab: SQL injection vulnerability allowing login bypass - Portswigger | Sornphut Kwanthongtham | [Read More](https://medium.com/p/261f31aa42fd) |
-| Sun, 08 Jun 2025 05:40:02 GMT | Secure Frontend Applications with Content Security Policy | Prashant Puri | [Read More](https://medium.com/p/1226ea700fc7) |
-| Sun, 08 Jun 2025 05:39:44 GMT | Authentication part-3 : Password reset broken logic | Ahmad Sopyan | [Read More](https://medium.com/p/e043181b55da) |
-| Sun, 08 Jun 2025 05:39:24 GMT | $1,000 Bug: Firefox Account Deletion Without 2FA or Authorization | Monika sharma | [Read More](https://medium.com/p/e7a6c5bfd028) |
-| Sun, 08 Jun 2025 05:13:24 GMT | Threat Hunting vs. Threat Detection: Key Differences & Real Use Cases | Paritosh | [Read More](https://medium.com/p/f62aa80a71ec) |
-| Sun, 08 Jun 2025 04:56:45 GMT | No, a MacBook Camera Cover Won’t Stop Hackers from Watching What You’re Doing | Faizan Saghir | [Read More](https://medium.com/p/f9eaaf69a795) |
