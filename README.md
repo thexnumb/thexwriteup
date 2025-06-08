@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 04:46:10 GMT | 30 Days of Cyber Security — Day 13: Mengenal Burp Suite | Indra Rahmat Maulidi | [Read More](https://medium.com/p/217ac6e5c60c) |
+| Sun, 08 Jun 2025 04:24:32 GMT | AI in 2025: Future Career Opportunities and Emerging Roles | Naveen Pandey | [Read More](https://medium.com/p/14b414344dd0) |
+| Sun, 08 Jun 2025 04:22:26 GMT | Linux Hardening-SSH & Firewall | Ivo Arlian | [Read More](https://medium.com/p/c2fe9beae282) |
+| Sun, 08 Jun 2025 04:21:01 GMT | Ketika Disuruh Periksa Laporan, Ternyata di-Password Mending di Brute Force | nikyfadyla | [Read More](https://medium.com/p/088aae436e0c) |
+| Sun, 08 Jun 2025 04:18:04 GMT | Central Bank Digital Currency (CBDC) for Cross-Border Infrastructure Financing | A-STAR7_DOCTOR | [Read More](https://medium.com/p/5d1b7e9b9f7c) |
+| Sun, 08 Jun 2025 04:02:23 GMT | FBI Busts Chinese Scientists Smuggling Deadly Fungus That Could Wipe Out Billions in U.S. Crops | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/955f843fcf5f) |
+| Sun, 08 Jun 2025 04:02:23 GMT | What Is Single Sign-On (SSO) and How It Works | Ramesh Fadatare | [Read More](https://medium.com/p/596b4c0423fb) |
 | Sun, 08 Jun 2025 03:42:09 GMT | Lazy Admin— TryHackMe — CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/7c23ceabf382) |
 | Sun, 08 Jun 2025 03:39:12 GMT | Cybersecurity Insights from the 2025 Cisco Cybersecurity Readiness Index | David SEHYEON Baek | [Read More](https://medium.com/p/7e1500d1d314) |
 | Sun, 08 Jun 2025 03:37:29 GMT | Cybersecurity Challenges in ASEAN — Analysis and Strategic Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/ccf1d2defa19) |
@@ -106,10 +113,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 17:23:05 GMT | Securing the Future | Ed-it Editions | [Read More](https://medium.com/p/383858782134) |
 | Sat, 07 Jun 2025 17:18:00 GMT | Here’s How I Recover My Money From RAIZ INVEST AUSTRALIA LIMITED | Seth Jamieson | [Read More](https://medium.com/p/778f04a7d7a4) |
 | Sat, 07 Jun 2025 17:14:29 GMT | Analisis Sistem ICS/SCADA dan Studi Kasus Serangan Siber Night Dragon pada Infrastruktur Industri | byuda | [Read More](https://medium.com/p/125e053cc3d4) |
-| Sat, 07 Jun 2025 17:13:12 GMT | The Business Case for Investing in Blockchain Security Early | Decrypt0 | [Read More](https://medium.com/p/d4f281912b69) |
-| Sat, 07 Jun 2025 17:09:02 GMT | JWT: How I turned a Regular User into an Admin in 3 Steps | 0xPedrop | [Read More](https://medium.com/p/48e66c61f621) |
-| Sat, 07 Jun 2025 17:07:03 GMT | ️‍♂️ Staying Anonymous on Kali Linux with Proxychains and VPN | Esra Kayhan | [Read More](https://medium.com/p/906dead79317) |
-| Sat, 07 Jun 2025 17:03:51 GMT | Step into the World of $LFI  and Start Building Your Crypto Portfolio | $LFI (LunaFi) | [Read More](https://medium.com/p/c0dab19c0389) |
-| Sat, 07 Jun 2025 17:02:45 GMT | From Service to Cyber Sentinel: Navigating the Military-to-Cybersecurity Transition in Public and… | Jeffrey Nickle | [Read More](https://medium.com/p/8577828af5e5) |
-| Sat, 07 Jun 2025 16:55:41 GMT | Situational Vulnerability: It Could Happen to You (and Probably Has) | Jura Glo | [Read More](https://medium.com/p/4d2d3f6f5ec7) |
-| Sat, 07 Jun 2025 16:49:30 GMT | AI and data privacy concerns | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/e47f72f261a7) |
