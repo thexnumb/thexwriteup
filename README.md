@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 06:38:25 GMT | Top 10 Essential Ethical Hacker Tools Everyone Should Know | cyber security Updates | [Read More](https://medium.com/p/bfa178572b22) |
+| Sun, 08 Jun 2025 06:31:45 GMT | Splunk | Amalpp | [Read More](https://medium.com/p/bfd03a61693b) |
+| Sun, 08 Jun 2025 06:30:58 GMT | Machine Learning Models Under Cyber Attacks: Emerging Threats in 2025 | Chaitanya Appani | [Read More](https://medium.com/p/618379b3be58) |
 | Sun, 08 Jun 2025 06:24:48 GMT | Most Used Linux Commands | The Commoness | [Read More](https://medium.com/p/6f36286c1af3) |
 | Sun, 08 Jun 2025 06:23:47 GMT | Building a CTF Lab with LFI bug vulnerability using ExpressJS | Zamh Putra | [Read More](https://medium.com/p/1ad33ce59bd8) |
 | Sun, 08 Jun 2025 06:19:40 GMT | Safe Data Practices for AI Training & Inference - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/b04ba1cb4105) |
@@ -43,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 04:22:26 GMT | Linux Hardening-SSH & Firewall | Ivo Arlian | [Read More](https://medium.com/p/c2fe9beae282) |
 | Sun, 08 Jun 2025 04:21:01 GMT | Ketika Disuruh Periksa Laporan, Ternyata di-Password Mending di Brute Force | nikyfadyla | [Read More](https://medium.com/p/088aae436e0c) |
 | Sun, 08 Jun 2025 04:18:04 GMT | Central Bank Digital Currency (CBDC) for Cross-Border Infrastructure Financing | A-STAR7_DOCTOR | [Read More](https://medium.com/p/5d1b7e9b9f7c) |
+| Sun, 08 Jun 2025 04:14:21 GMT | Ketahui Ancaman Keamanan pada Sistem ICS/SCADA | Adnan Musthafa Al amin | [Read More](https://medium.com/p/09a4e14e7e45) |
 | Sun, 08 Jun 2025 04:02:23 GMT | FBI Busts Chinese Scientists Smuggling Deadly Fungus That Could Wipe Out Billions in U.S. Crops | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/955f843fcf5f) |
 | Sun, 08 Jun 2025 04:02:23 GMT | What Is Single Sign-On (SSO) and How It Works | Ramesh Fadatare | [Read More](https://medium.com/p/596b4c0423fb) |
 | Sun, 08 Jun 2025 03:42:09 GMT | Lazy Admin— TryHackMe — CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/7c23ceabf382) |
@@ -110,7 +114,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 20:03:14 GMT | $3,000 Bug: HackerOne for Jira Plugin Exposed JWT to Unauthorized Users | Monika sharma | [Read More](https://medium.com/p/f1fcb08abde2) |
 | Sat, 07 Jun 2025 20:00:43 GMT | Interface Statistics and Masquerade Connections | Saksham Sharma. | [Read More](https://medium.com/p/8b5179813695) |
 | Sat, 07 Jun 2025 19:54:39 GMT | TURNING NUCLEI INTO A GOLD MINE! | Tenebris Venator | [Read More](https://medium.com/p/ba2ae1020015) |
-| Sat, 07 Jun 2025 19:50:39 GMT | Technical Analysis and OSINT-based Research of CVE-2017–7921 in Hikvision IP Cameras | hacker_might | [Read More](https://medium.com/p/6ff140a814a3) |
-| Sat, 07 Jun 2025 19:47:04 GMT | What Is DNS? A Beginner’s Guide to the Domain Name System | Mainekdeveloper | [Read More](https://medium.com/p/7ae20127446f) |
-| Sat, 07 Jun 2025 19:42:43 GMT | Why I Think Like a Hacker Before Writing Any Code | Yusufhan Saçak | [Read More](https://medium.com/p/b1fb872d15ca) |
-| Sat, 07 Jun 2025 19:41:33 GMT | My Virtual HomeLab: Active Directory — Part Two | Cybersec with Hemmars | [Read More](https://medium.com/p/b636c9a9ea34) |
