@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 19:57:54 GMT | TheHackersLabs — OfusPingu | APS88 | [Read More](https://medium.com/p/d01d2a3d050d) |
+| Sun, 08 Jun 2025 19:41:03 GMT | Agentic AI in Security Operations Center (SOC) | whoami | [Read More](https://medium.com/p/b5c1b927d411) |
+| Sun, 08 Jun 2025 19:38:00 GMT | Immutable Insights: Understanding Blockchain's Enduring Impact | Kishan Kesari Gupta | [Read More](https://medium.com/p/2e451263176a) |
 | Sun, 08 Jun 2025 19:28:27 GMT | The Latency Bug That Only Appeared in Production | ThreadSafe Diaries | [Read More](https://medium.com/p/15b4c094732e) |
 | Sun, 08 Jun 2025 19:23:32 GMT | Assertion101 writeup — Proving ground — complete writeup. | Priyanshu | [Read More](https://medium.com/p/1b81f3ce36b2) |
 | Sun, 08 Jun 2025 19:15:51 GMT | I’m Back: Why Your Two-Factor Authentication Isn’t Protecting You | Ayas Ismail | [Read More](https://medium.com/p/0b6bad7f2e91) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 14:30:19 GMT | Simple Bruteforce Login Tools | Andi Fauzan | [Read More](https://medium.com/p/1ed872f4e13e) |
 | Sun, 08 Jun 2025 14:30:13 GMT | Scalability of Cryptocurrencies: Are They Ready for Global Reserve Status? | Imali | [Read More](https://medium.com/p/ce18ba217227) |
 | Sun, 08 Jun 2025 14:19:21 GMT | Danxdex Reviews - This Is How To Recover Your Money | Ali stewart | [Read More](https://medium.com/p/4729e04a04a3) |
-| Sun, 08 Jun 2025 14:17:37 GMT | Here’s How I Recover My Money From Danxdex | Ali stewart | [Read More](https://medium.com/p/ca4131292c02) |
-| Sun, 08 Jun 2025 14:13:10 GMT | 10 Common Cybersecurity Threats (and How You Can Stay Safe) | P T | [Read More](https://medium.com/p/bfba23ef5778) |
-| Sun, 08 Jun 2025 14:10:34 GMT | Designing for Zero Trust: UX in the Age of Digital Skepticism | MrsNo1Special | [Read More](https://medium.com/p/d793b32fbbce) |
