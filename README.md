@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 11:14:39 GMT | How I Found Bug in Dutch Government and Never got the Swag | Vikas Anand | [Read More](https://medium.com/p/7e161f115974) |
+| Sun, 08 Jun 2025 11:08:17 GMT | Try Hack Me: Crack the hash Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/9ff7c111504e) |
+| Sun, 08 Jun 2025 11:08:15 GMT | The Hidden Security Crisis in Agentic AI Development: Why Your Next AI Assistant Might Be Your… | Ali | [Read More](https://medium.com/p/dbc733096d56) |
+| Sun, 08 Jun 2025 11:06:49 GMT | Security risks of AI systems | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/259854a5d806) |
+| Sun, 08 Jun 2025 11:03:52 GMT | Burnout Is a Security Flaw: What SecOps Teams & Sub Teachers Have in Common | Code & Kif | [Read More](https://medium.com/p/3b88e182a9af) |
+| Sun, 08 Jun 2025 11:02:57 GMT | I know your bank!……. | Snooptsz | [Read More](https://medium.com/p/a53ba7c035be) |
+| Sun, 08 Jun 2025 11:01:52 GMT | Mengenal Elliptic Curve Cryptography dan Keamanan Web3 di Era Blockchain | Dennis Satriani Sucipto Putra | [Read More](https://medium.com/p/260a7248da05) |
+| Sun, 08 Jun 2025 11:00:31 GMT | Quantum Threats Are Coming: Your Guide to Post-Quantum Cryptography in 2025 | Tech Security | [Read More](https://medium.com/p/bf06ea0f9551) |
+| Sun, 08 Jun 2025 10:59:31 GMT | Introducing Kali GPT: AI-Powered Offensive Security is Here | Taha Ex | [Read More](https://medium.com/p/b03e298b0915) |
+| Sun, 08 Jun 2025 10:51:17 GMT | AI Is Listening to Your Passwords — And It’s 93% Accurate | Tirupati Rao | [Read More](https://medium.com/p/57e609eeb6e5) |
+| Sun, 08 Jun 2025 10:50:41 GMT | 94 Billion Cookies Stolen: Is the Internet a Bakery or a Crime Scene? | FrostFoe | [Read More](https://medium.com/p/866bb653905f) |
+| Sun, 08 Jun 2025 10:47:05 GMT | Hacking AWS Elastic Beanstalk: CloudGoat’s beanstalk_secrets Lab Walkthrough | Susovan Garai (@vulnxpert) | [Read More](https://medium.com/p/a21135c6579e) |
+| Sun, 08 Jun 2025 10:42:18 GMT | How To Instantly Claim $LFI | $LFI (LunaFi) | [Read More](https://medium.com/p/317c393586cd) |
 | Sun, 08 Jun 2025 10:25:29 GMT | Data’s Demands: The Specialized Toolkit and Architectures You Need | Max Levko | [Read More](https://medium.com/p/856431b8cac5) |
 | Sun, 08 Jun 2025 10:24:10 GMT | Splunk(Part 2) | Amalpp | [Read More](https://medium.com/p/eb3b8f8e175f) |
 | Sun, 08 Jun 2025 10:23:12 GMT | the art of holding back | vi | [Read More](https://medium.com/p/6fa6630661f9) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 04:46:10 GMT | 30 Days of Cyber Security — Day 13: Mengenal Burp Suite | Indra Rahmat Maulidi | [Read More](https://medium.com/p/217ac6e5c60c) |
 | Sun, 08 Jun 2025 04:24:32 GMT | AI in 2025: Future Career Opportunities and Emerging Roles | Naveen Pandey | [Read More](https://medium.com/p/14b414344dd0) |
 | Sun, 08 Jun 2025 04:22:26 GMT | Linux Hardening-SSH & Firewall | Ivo Arlian | [Read More](https://medium.com/p/c2fe9beae282) |
-| Sun, 08 Jun 2025 04:21:01 GMT | Ketika Disuruh Periksa Laporan, Ternyata di-Password Mending di Brute Force | nikyfadyla | [Read More](https://medium.com/p/088aae436e0c) |
-| Sun, 08 Jun 2025 04:18:04 GMT | Central Bank Digital Currency (CBDC) for Cross-Border Infrastructure Financing | A-STAR7_DOCTOR | [Read More](https://medium.com/p/5d1b7e9b9f7c) |
-| Sun, 08 Jun 2025 04:14:21 GMT | Ketahui Ancaman Keamanan pada Sistem ICS/SCADA | Adnan Musthafa Al amin | [Read More](https://medium.com/p/09a4e14e7e45) |
-| Sun, 08 Jun 2025 04:02:23 GMT | FBI Busts Chinese Scientists Smuggling Deadly Fungus That Could Wipe Out Billions in U.S. Crops | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/955f843fcf5f) |
-| Sun, 08 Jun 2025 04:02:23 GMT | What Is Single Sign-On (SSO) and How It Works | Ramesh Fadatare | [Read More](https://medium.com/p/596b4c0423fb) |
-| Sun, 08 Jun 2025 03:42:09 GMT | Lazy Admin— TryHackMe — CTF Writeup | 5kullk3r | [Read More](https://medium.com/p/7c23ceabf382) |
-| Sun, 08 Jun 2025 03:39:12 GMT | Cybersecurity Insights from the 2025 Cisco Cybersecurity Readiness Index | David SEHYEON Baek | [Read More](https://medium.com/p/7e1500d1d314) |
-| Sun, 08 Jun 2025 03:37:29 GMT | Cybersecurity Challenges in ASEAN — Analysis and Strategic Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/ccf1d2defa19) |
-| Sun, 08 Jun 2025 03:35:15 GMT | What Infostealers Really Steal — And What Hackers Do With It | David SEHYEON Baek | [Read More](https://medium.com/p/eded95625fac) |
-| Sun, 08 Jun 2025 03:34:52 GMT | Security Principles TryHackMe | Hammad Zahid | [Read More](https://medium.com/p/5977cc462b61) |
-| Sun, 08 Jun 2025 03:32:46 GMT | Gray Hat Hackers and the Dangerous Intersection of Legitimate Cybersecurity Work and Criminal… | David SEHYEON Baek | [Read More](https://medium.com/p/3806a151e518) |
-| Sun, 08 Jun 2025 03:32:09 GMT | Inside the Shadows: Medialand Breach Exposes Bulletproof Hosting Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/57a5f6c7461e) |
-| Sun, 08 Jun 2025 03:29:24 GMT | North Korea’s Cyber Warfare Program | David SEHYEON Baek | [Read More](https://medium.com/p/3bf68a7fdb6b) |
