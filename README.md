@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 11:30:26 GMT | AI and Automation in Ethical Hacking: The Future of Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/e9b79cd1ed90) |
+| Sun, 08 Jun 2025 11:29:53 GMT | Trump Administration Reshapes U.S. Cybersecurity Policy with New Executive Order | Tech Thrilled | [Read More](https://medium.com/p/b5c02e47ec5d) |
+| Sun, 08 Jun 2025 11:28:26 GMT | The Protocol that Secures the Modern Internet | Dyane Fulgencio | [Read More](https://medium.com/p/5863c0dfe278) |
+| Sun, 08 Jun 2025 11:22:10 GMT | eJPT - 3.1 System/Host Based Attacks (I) | Hammaad M | [Read More](https://medium.com/p/f0f5d7b9a1b3) |
+| Sun, 08 Jun 2025 11:19:07 GMT | KeySnatcherX: Ide Tools Brute Force Buat Latihan Cybersecurity | Honeylemondrink | [Read More](https://medium.com/p/706c8261467d) |
+| Sun, 08 Jun 2025 11:18:18 GMT | HARDENING LINUX FTP SERVER | cakaras | [Read More](https://medium.com/p/cccac66fabdb) |
 | Sun, 08 Jun 2025 11:14:39 GMT | How I Found Bug in Dutch Government and Never got the Swag | Vikas Anand | [Read More](https://medium.com/p/7e161f115974) |
 | Sun, 08 Jun 2025 11:08:17 GMT | Try Hack Me: Crack the hash Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/9ff7c111504e) |
 | Sun, 08 Jun 2025 11:08:15 GMT | The Hidden Security Crisis in Agentic AI Development: Why Your Next AI Assistant Might Be Your… | Ali | [Read More](https://medium.com/p/dbc733096d56) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 05:39:24 GMT | $1,000 Bug: Firefox Account Deletion Without 2FA or Authorization | Monika sharma | [Read More](https://medium.com/p/e7a6c5bfd028) |
 | Sun, 08 Jun 2025 05:13:24 GMT | Threat Hunting vs. Threat Detection: Key Differences & Real Use Cases | Paritosh | [Read More](https://medium.com/p/f62aa80a71ec) |
 | Sun, 08 Jun 2025 04:56:45 GMT | No, a MacBook Camera Cover Won’t Stop Hackers from Watching What You’re Doing | Faizan Saghir | [Read More](https://medium.com/p/f9eaaf69a795) |
-| Sun, 08 Jun 2025 04:55:24 GMT | Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data - Portswigger | Sornphut Kwanthongtham | [Read More](https://medium.com/p/bdc3145ca636) |
-| Sun, 08 Jun 2025 04:50:25 GMT | Unlocking the Mystery of Encrypted Traffic: The Power of TLS Inspection | Techleadgurdeepgill | [Read More](https://medium.com/p/269d889e011a) |
-| Sun, 08 Jun 2025 04:48:05 GMT | 1 Million Android Devices Infected in Global Cyber Threat | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/92fc1499f370) |
-| Sun, 08 Jun 2025 04:46:10 GMT | 30 Days of Cyber Security — Day 13: Mengenal Burp Suite | Indra Rahmat Maulidi | [Read More](https://medium.com/p/217ac6e5c60c) |
-| Sun, 08 Jun 2025 04:24:32 GMT | AI in 2025: Future Career Opportunities and Emerging Roles | Naveen Pandey | [Read More](https://medium.com/p/14b414344dd0) |
-| Sun, 08 Jun 2025 04:22:26 GMT | Linux Hardening-SSH & Firewall | Ivo Arlian | [Read More](https://medium.com/p/c2fe9beae282) |
