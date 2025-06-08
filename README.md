@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Jun 2025 01:45:22 GMT | Otentikasi Dua Faktor (2FA) | Mukti Badriyan | [Read More](https://medium.com/p/cf4a30658f43) |
+| Sun, 08 Jun 2025 01:44:27 GMT | Membuat Tools Brute Force PIN 4 Digit di Kali Linux | nairawr | [Read More](https://medium.com/p/317257a51a48) |
+| Sun, 08 Jun 2025 01:29:33 GMT | Postfish (Proving Grounds) — OSEP-Focused Write-Up | Amatheusfeitosam | [Read More](https://medium.com/p/323a018b0fe4) |
+| Sun, 08 Jun 2025 01:28:13 GMT | Unlock the Potential of $BOUNTY and Earn Big with ChainBounty | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/208c7d7f4a5d) |
+| Sun, 08 Jun 2025 01:11:26 GMT | The Man in the Middle Owns the Truth | Thomas F McGeehan V | [Read More](https://medium.com/p/0ed169e816f2) |
+| Sun, 08 Jun 2025 01:02:13 GMT | The Fear of Being Fully Seen | Isaac Liang | [Read More](https://medium.com/p/b28c1c163aca) |
+| Sun, 08 Jun 2025 00:47:44 GMT | [IT Security-hoquyettam] Bypass windows 11 local admin account | hoquyettam-tamhq2-0962996876 | [Read More](https://medium.com/p/25db2f2f0835) |
+| Sun, 08 Jun 2025 00:34:24 GMT | How to Claim $LFI Easily | $LFI (LunaFi) | [Read More](https://medium.com/p/f3517c73a25f) |
+| Sun, 08 Jun 2025 00:31:22 GMT | Exploring the Comfort of Momcozy Muslin Swaddle Blankets | Felixbec | [Read More](https://medium.com/p/dd71cb0d8fa0) |
+| Sun, 08 Jun 2025 00:18:53 GMT | The Four Pillars of Cryptographic Security | Raviteja Mureboina | [Read More](https://medium.com/p/6fccb4092b58) |
+| Sun, 08 Jun 2025 00:06:04 GMT | Ancaman Serangan ICS/SCADA dalam Dunia Industri | fahrifel | [Read More](https://medium.com/p/688f326982ff) |
+| Sun, 08 Jun 2025 00:02:12 GMT | Complete Linux Guide to Cybersecurity: Essential Commands, Permissions, and Distributions | JPablo13 | [Read More](https://medium.com/p/1bc62ee2a270) |
+| Sat, 07 Jun 2025 23:39:59 GMT | An Ultimate Guide for Mobile App Development — Part 4 | ILHAM ASGARLI | [Read More](https://medium.com/p/5e55022a1609) |
+| Sat, 07 Jun 2025 23:39:52 GMT | Quantum Communication in Space | Kareena Shah | [Read More](https://medium.com/p/adbd0b3841ad) |
+| Sat, 07 Jun 2025 23:33:07 GMT | Strengthening Cybersecurity Defenses: Introducing ID-Spoofer for Linux Infrastructure Testing | Igor Dunaev | [Read More](https://medium.com/p/57c2b04258fa) |
+| Sat, 07 Jun 2025 23:32:22 GMT | Cloud Infrastructure Entitlement Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/1cd68eb39f7f) |
 | Sat, 07 Jun 2025 23:28:51 GMT | Keep Hackers Out: Password and Account Policies That Work | Adam Jikat | [Read More](https://medium.com/p/633017654601) |
 | Sat, 07 Jun 2025 23:13:30 GMT | Car Parking Shades Suppliers | Car Park Shades Suppliers 0543839003 | [Read More](https://medium.com/p/ee70000c3aac) |
 | Sat, 07 Jun 2025 22:55:33 GMT | Rebuilding the Future of Open-Source Penetration Testing: The LEGION2 Renaissance | Igor Dunaev | [Read More](https://medium.com/p/26ac4ec87e3d) |
@@ -97,20 +113,3 @@ and Low-Footprint 5G Deployments | Oleksii Biletskyi | [Read More](https://mediu
 | Sat, 07 Jun 2025 15:35:21 GMT | How to Configure a Firewall for Maximum Security: A Complete Guide | Ekene Joseph | [Read More](https://medium.com/p/f4a9f1178041) |
 | Sat, 07 Jun 2025 15:33:29 GMT | Facebook has once again shown that it knows no limits in its efforts to spy on users | J.J. Salomoun | [Read More](https://medium.com/p/d6c7dffbec22) |
 | Sat, 07 Jun 2025 15:15:31 GMT | ID | LonomiaO | [Read More](https://medium.com/p/786f7387f0a5) |
-| Sat, 07 Jun 2025 15:12:45 GMT | Cybersecurity Threats in 2025: Persistent Risks | Orgito | [Read More](https://medium.com/p/afe1e442a73c) |
-| Sat, 07 Jun 2025 15:12:09 GMT | Beginner’s Luck? I Found Remote Code Execution on a .GOV Site While Learning ✨ | El Professor Qais | [Read More](https://medium.com/p/a15cc2001a4e) |
-| Sat, 07 Jun 2025 15:10:36 GMT | Zero Trust Networks: A Revolutionary New Cybersecurity Paradigm | Mazhar Imran | [Read More](https://medium.com/p/f6752dc63b69) |
-| Sat, 07 Jun 2025 15:09:23 GMT | Travel to Thrive: Exploring the World’s Happiest, Healthiest, and Safest Countries in 2025 | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/068921552aa8) |
-| Sat, 07 Jun 2025 15:08:28 GMT | How To Claim $BOUNTY  Today | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/c3607a711d75) |
-| Sat, 07 Jun 2025 15:06:56 GMT | Housekeeping & Security: Go Your Own Speed | EXLITY | [Read More](https://medium.com/p/6534219cab7b) |
-| Sat, 07 Jun 2025 15:00:21 GMT | The Real Skillset for OT Red Teaming | Seemant Bisht | [Read More](https://medium.com/p/a2f09144a5da) |
-| Sat, 07 Jun 2025 14:59:32 GMT | 30 Days of Cyber Security — Day 12: HTTP dan HTTPS | Indra Rahmat Maulidi | [Read More](https://medium.com/p/4c80e82aa4a2) |
-| Sat, 07 Jun 2025 14:56:06 GMT | Self Epiphany | Miracle Omokaro | [Read More](https://medium.com/p/cf72d1f0e724) |
-| Sat, 07 Jun 2025 14:56:04 GMT | Surrendering to Vulnerability | Keycee | [Read More](https://medium.com/p/e9e2aac39565) |
-| Sat, 07 Jun 2025 14:50:10 GMT | Your 2025 Guide to Preventing Cybersecurity Threats as a Freelancer or Small Business Owner | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/24b1a68671a5) |
-| Sat, 07 Jun 2025 14:46:42 GMT | ️ Hardening SSH di Linux: Amankan Remote Access Sebelum Diserang Hacker! | Agilseftian | [Read More](https://medium.com/p/a3b8c38fac01) |
-| Sat, 07 Jun 2025 14:46:02 GMT | Broken Authentication (A02:2021) | Badal kathayat | [Read More](https://medium.com/p/019f6a048d48) |
-| Sat, 07 Jun 2025 14:44:50 GMT | Claim $CVE  in Minutes | Lucas
- Clark | [Read More](https://medium.com/p/d2d55a82ff96) |
-| Sat, 07 Jun 2025 14:43:32 GMT | The Day I Learned Cybersecurity Touches Us All | Tukur Waziri | [Read More](https://medium.com/p/611bf06472a0) |
-| Sat, 07 Jun 2025 14:37:14 GMT | Crop Breaker — BruteForce tools for PDF & ZIP | AjiPangesstu | [Read More](https://medium.com/p/1f319d5aaf52) |
