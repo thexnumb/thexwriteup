@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 18:21:14 GMT | Intro to Cold System Forensics | Isiah | [Read More](https://medium.com/p/fa115c5fd169) |
+| Mon, 09 Jun 2025 18:15:30 GMT | MIME Sniffing Unmasked: How Browsers Misjudge Files and Create Risks | Natarajan C K | [Read More](https://medium.com/p/1612a26972e0) |
+| Mon, 09 Jun 2025 18:10:55 GMT | Claim $DORK Tokens | $DORK (DORK) | [Read More](https://medium.com/p/c8d0e3129c0f) |
+| Mon, 09 Jun 2025 18:04:34 GMT | Why Are Action Men Afraid of Spa Days? | Shane Driver | [Read More](https://medium.com/p/b92fe465302b) |
+| Mon, 09 Jun 2025 17:57:24 GMT | Securing the Future: Understanding and Preventing Web Attacks | Miracle Chibuzo | [Read More](https://medium.com/p/0709a8f40f23) |
+| Mon, 09 Jun 2025 17:53:39 GMT | ️Web3 Security Weekly — June 2–8, 2025 | Null Return | [Read More](https://medium.com/p/c26fac1ecd43) |
+| Mon, 09 Jun 2025 17:50:32 GMT | How to get back your disabled Instagram Account | Tobias Mathew | [Read More](https://medium.com/p/1d7057158879) |
+| Mon, 09 Jun 2025 17:45:35 GMT | Hack The Box: Valentine | Songül Kızılay | [Read More](https://medium.com/p/261815f7fc87) |
+| Mon, 09 Jun 2025 17:43:01 GMT | It’s Never Too Late to Learn (A short personal story) | Wizardo | [Read More](https://medium.com/p/32085fb4ec7c) |
+| Mon, 09 Jun 2025 17:41:06 GMT | The Complete Guide to PHP Functions That Can Cause Local File Inclusion (LFI) Vulnerabilities… | Zoningxtr | [Read More](https://medium.com/p/7e1115ece1ea) |
+| Mon, 09 Jun 2025 17:39:01 GMT | Bitdefender Free Trial: Experience Premium Protection for 90 Days | Tech2Advise | [Read More](https://medium.com/p/33116cf3f267) |
 | Mon, 09 Jun 2025 17:36:37 GMT | Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter | hacker_might | [Read More](https://medium.com/p/b309956402f8) |
+| Mon, 09 Jun 2025 17:36:05 GMT | Disabled social media account recovery | Tobias Mathew | [Read More](https://medium.com/p/8f5b29ecbeda) |
 | Mon, 09 Jun 2025 17:24:18 GMT | Call Your People | Damilola Abiodun | [Read More](https://medium.com/p/8401bd61dca9) |
 | Mon, 09 Jun 2025 17:21:58 GMT | The True Cost of a Weak Login: What One Breach Can Do to a Growing Business | Dr. Shashi Karhail | [Read More](https://medium.com/p/a5044a9bd606) |
 | Mon, 09 Jun 2025 17:21:08 GMT | Drhackarr Project Introduction — How I Built My Own Red Team Framework | Samuel Rbsh | [Read More](https://medium.com/p/97b513b1c716) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 13:20:38 GMT | Early Findings: How a Verification Bug Led to the $8M ALEX Protocol Exploit | Evgenii | [Read More](https://medium.com/p/4378f4c1ac52) |
 | Mon, 09 Jun 2025 13:18:48 GMT | China’s Massive Data Breach 2025: 4 Billion Records Exposed — What You Need to Know | Technijian | [Read More](https://medium.com/p/8753c90ea2be) |
 | Mon, 09 Jun 2025 13:18:35 GMT | How to install GO LANG and Run from anywhere in the system (Manually). | Zuri | [Read More](https://medium.com/p/bc8552555b85) |
-| Mon, 09 Jun 2025 13:16:26 GMT | AI in Penetration Testing : How AI Is Revolutionizing Penetration Testing in Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/a87cc2a132c2) |
-| Mon, 09 Jun 2025 13:11:01 GMT | DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Chirag Vyas | [Read More](https://medium.com/p/ec1e76460c05) |
-| Mon, 09 Jun 2025 13:02:23 GMT | Think Before You Click: How Fake CAPTCHA Tests Are Installing Malware | Peris.ai Cybersecurity | [Read More](https://medium.com/p/21850daa8145) |
-| Mon, 09 Jun 2025 13:02:17 GMT | 4 Surprising Things Pi-hole Blocks (Besides Just Ads) | Mohamad MERHI | [Read More](https://medium.com/p/cddc9ce4a26a) |
-| Mon, 09 Jun 2025 12:56:30 GMT | What Is SaaS Operations Management and Why Does It Matter in 2025 | Arun Jyothi | [Read More](https://medium.com/p/1a34ab4e0c5e) |
-| Mon, 09 Jun 2025 12:54:33 GMT | Snort | Amalpp | [Read More](https://medium.com/p/5da833ba0a16) |
-| Mon, 09 Jun 2025 12:54:20 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzalezablerta | [Read More](https://medium.com/p/abe7dae0f972) |
-| Mon, 09 Jun 2025 12:51:48 GMT | The Future of Privacy Management | Goismo AB | [Read More](https://medium.com/p/de1890e96a23) |
-| Mon, 09 Jun 2025 12:51:38 GMT | Entenda a diferença e como Gerenciar suas APIs e Application Keys no Datadog | Eduardo Amaral | [Read More](https://medium.com/p/460c44305f78) |
-| Mon, 09 Jun 2025 12:43:04 GMT | Top 10 companies offering crypto-backed insurance products | Payal Purbhoo | [Read More](https://medium.com/p/328ea58e1d1d) |
-| Mon, 09 Jun 2025 12:42:16 GMT | ECC & Web3 Cryptography: Pilar Keamanan Internet Masa Depan dan Ancaman yang Mengintai | Janukhi Bisyri | [Read More](https://medium.com/p/3295dc12f396) |
-| Mon, 09 Jun 2025 12:39:38 GMT | The Role of Cyber Risk Assessment & Planning in Compliance and Data Protection | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/79caed3ebbde) |
