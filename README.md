@@ -12,12 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 08:20:26 GMT | HR’s Role in Cybersecurity Awareness & Digital Hygiene | Mausam Gutgutia | [Read More](https://medium.com/p/f0bfe84300a7) |
+| Mon, 09 Jun 2025 08:17:48 GMT | this isn’t what i wanted. maybe, tomorrow? | kitty | [Read More](https://medium.com/p/7eae1193021a) |
+| Mon, 09 Jun 2025 08:12:19 GMT | Part 1 — Setting up Active Directory | Bat Otgonbayar | [Read More](https://medium.com/p/c59677048c92) |
+| Mon, 09 Jun 2025 08:07:24 GMT | Study at a Leading Australian University for International Students — Apply Today! | AIST | [Read More](https://medium.com/p/671ed9bbd61e) |
+| Mon, 09 Jun 2025 08:02:48 GMT | Baggage Scanner Machine — The Backbone of Security Operations | Pentagonengineers | [Read More](https://medium.com/p/3b4c1c0742b4) |
+| Mon, 09 Jun 2025 08:02:25 GMT | Access your home or office network resources while you are away with Tailscale | David Garcia | [Read More](https://medium.com/p/c9688dc03595) |
+| Mon, 09 Jun 2025 07:46:50 GMT | Firewall and IDS/IPS Evasion — Easy Lab Nmap | Varkeythms | [Read More](https://medium.com/p/22ffffa3cac2) |
+| Mon, 09 Jun 2025 07:46:45 GMT | Monitor Private HackerOne Programs Using Wayback Machine — How I Caught a High Severity Bug on Day… | Ibraheem EL-Mougy | [Read More](https://medium.com/p/01bc94373115) |
+| Mon, 09 Jun 2025 07:46:08 GMT | MITRE ATT&CK-Based Detection Engineering: Focus on Persistence | Paritosh | [Read More](https://medium.com/p/07279d1617b6) |
+| Mon, 09 Jun 2025 07:45:37 GMT | Where Can I Find Top Cybersecurity Solutions for Small Businesses in Massachusetts? | Elliman Technologies | [Read More](https://medium.com/p/373a48922c73) |
+| Mon, 09 Jun 2025 07:43:13 GMT | Strengthening India’s Cyber Shield: Key Takeaways from AmCham’s Cyber Security Roundtable with Dr. | Amcham India | [Read More](https://medium.com/p/d151a367cfdc) |
+| Mon, 09 Jun 2025 07:41:14 GMT | Why MFA Alone Isn’t Enough Anymore | Sec with Sun | [Read More](https://medium.com/p/4c787e05606b) |
 | Mon, 09 Jun 2025 07:37:37 GMT | What is Phishing in Cybersecurity? | Saurabh | [Read More](https://medium.com/p/a1352c896de4) |
 | Mon, 09 Jun 2025 07:37:22 GMT | Malicious File/Script Download Attempt | Ritchy Tran | [Read More](https://medium.com/p/c3311498399e) |
 | Mon, 09 Jun 2025 07:37:14 GMT | Cyber Security Degree vs Certificate | Crawsec | [Read More](https://medium.com/p/f034faaaa3ac) |
+| Mon, 09 Jun 2025 07:37:04 GMT | The Algorithmic Abyss: When AI Upends the American Dream | Namir Sagheenanajar | [Read More](https://medium.com/p/e1bcbe363a8c) |
 | Mon, 09 Jun 2025 07:36:40 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/d80612bdaa97) |
 | Mon, 09 Jun 2025 07:34:00 GMT | Summer Internships Training in Cyber Security [2025] | cyber security Updates | [Read More](https://medium.com/p/29103be52ccf) |
 | Mon, 09 Jun 2025 07:32:27 GMT | Networking, Cybersecurity, and IT Infrastructure: The Digital Backbone of Modern Enterprises | Manjeet Singh | [Read More](https://medium.com/p/4a9d31dbb10c) |
+| Mon, 09 Jun 2025 07:31:26 GMT | Mirai Malware Targets Unpatched TBK DVRs in Global Botnet Campaign | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/8d75e136b2e2) |
+| Mon, 09 Jun 2025 07:29:25 GMT | Everything You Need to Know About Crimsafe Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/e03f7fc14783) |
 | Mon, 09 Jun 2025 07:29:11 GMT | ประจำวันจันทร์ที่ 9 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7709a51b6fd6) |
 | Mon, 09 Jun 2025 07:26:21 GMT | Gemini Canvas is Magic for Rapid Prototyping | Will Cheung | [Read More](https://medium.com/p/babbde6ac25f) |
 | Mon, 09 Jun 2025 07:25:29 GMT | ISC2 Certified in Cybersecurity CC exam | Erkan Kavas | [Read More](https://medium.com/p/86cccb3d976d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 02:34:49 GMT | Unmasking the Secrets of Hashing: A Simple Way to Crack Hashes Using Python | IndoHajk | [Read More](https://medium.com/p/d72903b88578) |
 | Mon, 09 Jun 2025 02:32:29 GMT | Time Is a Bug: Exploiting Trials Without Touching a Single Tool | StrangeRwhite | [Read More](https://medium.com/p/9a019bda8c02) |
 | Mon, 09 Jun 2025 02:18:11 GMT | 30 Days of Cyber Security — Day 14: CTF Pertama di PicoCTF | Indra Rahmat Maulidi | [Read More](https://medium.com/p/2fb817c304e0) |
-| Mon, 09 Jun 2025 02:14:35 GMT | Passwords Are Broken. Identity Is the New Perimeter. | Mark Babcock | [Read More](https://medium.com/p/77b6fa625d07) |
-| Mon, 09 Jun 2025 02:02:33 GMT | Im back I guess.. | scr1++y | [Read More](https://medium.com/p/b76111be6ec4) |
-| Mon, 09 Jun 2025 02:02:25 GMT | RST TI Report Digest: 09 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/2462107ebb7e) |
-| Mon, 09 Jun 2025 02:02:16 GMT | A simple Bug Bounty Recon & Exploitation Workflow — A Field Guide | d1lv3rdn4 | [Read More](https://medium.com/p/3061fd0acfc9) |
-| Mon, 09 Jun 2025 01:57:40 GMT | Captcha’s and AI | Gonçalo Lourenço | [Read More](https://medium.com/p/3289c45a5106) |
-| Mon, 09 Jun 2025 01:50:09 GMT | The Role of Cloud Solutions in Ontario in Supporting Remote Work | Zeta Sky | [Read More](https://medium.com/p/ef14d5c4fcf6) |
-| Mon, 09 Jun 2025 01:43:58 GMT | ToolHive Tutorial: Securely Deploy and Manage MCP Servers | Pawan Jaiswal | [Read More](https://medium.com/p/9d44ed541e6e) |
-| Mon, 09 Jun 2025 01:32:30 GMT | System Hacking 101: The Complete Guide to Gaining Unauthorized Access | sixxish | [Read More](https://medium.com/p/6f8582c59a63) |
-| Mon, 09 Jun 2025 01:22:25 GMT | Apa Itu CVE? (Common Vulnerabilities and Exposures) | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/04d50074a63f) |
-| Mon, 09 Jun 2025 01:12:12 GMT | How a Springfield Cybersecurity Company Helps Secure Cloud Networks from Modern Threats | PCnet | [Read More](https://medium.com/p/d0c73baeb2a0) |
-| Mon, 09 Jun 2025 01:09:28 GMT | Bitcoin Is Not Digital Gold — It’s the World’s Strongest Decentralized Security Market | 曲明 | [Read More](https://medium.com/p/a04c48ecce37) |
-| Mon, 09 Jun 2025 01:07:34 GMT | How I Bypassed HackerOne’s 2FA in 5 Seconds | Ibtissam hammadi | [Read More](https://medium.com/p/77b517f9e770) |
-| Mon, 09 Jun 2025 01:05:59 GMT | Top 10 AWS Services Developers Use Every Day ‍ | Jaytech | [Read More](https://medium.com/p/01aa0065bb9b) |
-| Mon, 09 Jun 2025 01:02:25 GMT | How Retail Stores Are Boosting Experiences with Autonomous AI | iOmniscient | [Read More](https://medium.com/p/312c8dc74a58) |
-| Mon, 09 Jun 2025 00:48:32 GMT | From data to arms — reframing information design pedagogy | Kem-Laurin Lubin, Ph.D-C | [Read More](https://medium.com/p/2441c71ffc5e) |
