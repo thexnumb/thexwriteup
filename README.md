@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 03:00:08 GMT | $500 OTP Bypass: Found It, Proved It, Then… | Kailasv | [Read More](https://medium.com/p/3930c9e45d4f) |
+| Mon, 09 Jun 2025 02:52:18 GMT | HTB Academy — Information Gathering Web Edition (skill assessment) | BotsiCat | [Read More](https://medium.com/p/39ad5d294b3c) |
+| Mon, 09 Jun 2025 02:34:49 GMT | Unmasking the Secrets of Hashing: A Simple Way to Crack Hashes Using Python | IndoHajk | [Read More](https://medium.com/p/d72903b88578) |
+| Mon, 09 Jun 2025 02:32:29 GMT | Time Is a Bug: Exploiting Trials Without Touching a Single Tool | StrangeRwhite | [Read More](https://medium.com/p/9a019bda8c02) |
+| Mon, 09 Jun 2025 02:18:11 GMT | 30 Days of Cyber Security — Day 14: CTF Pertama di PicoCTF | Indra Rahmat Maulidi | [Read More](https://medium.com/p/2fb817c304e0) |
+| Mon, 09 Jun 2025 02:14:35 GMT | Passwords Are Broken. Identity Is the New Perimeter. | Mark Babcock | [Read More](https://medium.com/p/77b6fa625d07) |
+| Mon, 09 Jun 2025 02:02:33 GMT | Im back I guess.. | scr1++y | [Read More](https://medium.com/p/b76111be6ec4) |
+| Mon, 09 Jun 2025 02:02:25 GMT | RST TI Report Digest: 09 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/2462107ebb7e) |
+| Mon, 09 Jun 2025 02:02:16 GMT | A simple Bug Bounty Recon & Exploitation Workflow — A Field Guide | d1lv3rdn4 | [Read More](https://medium.com/p/3061fd0acfc9) |
+| Mon, 09 Jun 2025 01:57:40 GMT | Captcha’s and AI | Gonçalo Lourenço | [Read More](https://medium.com/p/3289c45a5106) |
+| Mon, 09 Jun 2025 01:50:09 GMT | The Role of Cloud Solutions in Ontario in Supporting Remote Work | Zeta Sky | [Read More](https://medium.com/p/ef14d5c4fcf6) |
 | Mon, 09 Jun 2025 01:43:58 GMT | ToolHive Tutorial: Securely Deploy and Manage MCP Servers | Pawan Jaiswal | [Read More](https://medium.com/p/9d44ed541e6e) |
 | Mon, 09 Jun 2025 01:32:30 GMT | System Hacking 101: The Complete Guide to Gaining Unauthorized Access | sixxish | [Read More](https://medium.com/p/6f8582c59a63) |
 | Mon, 09 Jun 2025 01:22:25 GMT | Apa Itu CVE? (Common Vulnerabilities and Exposures) | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/04d50074a63f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 17:14:05 GMT | CompTIA A+ Certification: A Comprehensive Guide for Professionals | Mazhar Imran | [Read More](https://medium.com/p/c038b305469d) |
 | Sun, 08 Jun 2025 17:12:16 GMT | Recovernest Social media account recovery services | Tobias Mathew | [Read More](https://medium.com/p/37d3498bcd7f) |
 | Sun, 08 Jun 2025 17:10:09 GMT | Why “Know Before You Clone” Should Be Every Developer’s Mantra | Travis Felder | [Read More](https://medium.com/p/f19eecf22e28) |
-| Sun, 08 Jun 2025 17:08:44 GMT | Cybersec : MariaDB, round2 | The consistent voice | [Read More](https://medium.com/p/813a2792950b) |
-| Sun, 08 Jun 2025 17:08:12 GMT | Hardening SSH Nonaktifkan Root Login(Remote Access) | Mohamad Axel A. | [Read More](https://medium.com/p/913f182ba6b1) |
-| Sun, 08 Jun 2025 16:58:48 GMT | Time to Evolve: Why Migrating from Okta Classic to Identity Engine is a Security Must | Fran NM | [Read More](https://medium.com/p/eb1734f2cb06) |
-| Sun, 08 Jun 2025 16:58:38 GMT | Prendre conscience de son potentiel : Oser la cybersécurité sans coder ! | Cyber Uncoded | [Read More](https://medium.com/p/c21cf1760811) |
-| Sun, 08 Jun 2025 16:53:03 GMT | Hardening Linux — Iptables & Fail2ban | AjiPangesstu | [Read More](https://medium.com/p/9ccc4bee0623) |
-| Sun, 08 Jun 2025 16:52:48 GMT | How to protect your data from phishing attacks | Tobias Mathew | [Read More](https://medium.com/p/b678aa62dab8) |
-| Sun, 08 Jun 2025 16:48:38 GMT | My Experience with Kali GPT — The AI That Helps You Hack (Legally) | Tharindu Damith | [Read More](https://medium.com/p/d06eb3ef33d7) |
-| Sun, 08 Jun 2025 16:46:11 GMT | Passkeys - Passwordless Authentication | Divyesh P K | [Read More](https://medium.com/p/46e7ff59c912) |
-| Sun, 08 Jun 2025 16:45:09 GMT | Phishing Attack Overview | Tobias Mathew | [Read More](https://medium.com/p/cb85066eb21b) |
-| Sun, 08 Jun 2025 16:39:51 GMT | TJCTF2025 — Web Challenges | Karim Qassem (Hush0x01) | [Read More](https://medium.com/p/8f119e210d1c) |
-| Sun, 08 Jun 2025 16:39:15 GMT | Ask LLM to Jailbreak LLM | restdone | [Read More](https://medium.com/p/553096dca2a5) |
