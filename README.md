@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 20:11:43 GMT | Shift Left, Stay Local: Using AI Models in DevSecOps | Dave Patten | [Read More](https://medium.com/p/8f337b7112ca) |
+| Mon, 09 Jun 2025 20:11:13 GMT | Parol xeshlash algoritmini Argon2 ga yangilang. | Murodali Narzullayev | [Read More](https://medium.com/p/2a0c6699a7ca) |
+| Mon, 09 Jun 2025 19:59:08 GMT | RateFin Investment — Mauritius’s Biggest Online Scam of 2025 | Xcyber Squad | [Read More](https://medium.com/p/e2bdfebc8708) |
+| Mon, 09 Jun 2025 19:50:10 GMT | If Only Things Were Simple | Isha | [Read More](https://medium.com/p/e33fe7c2d995) |
+| Mon, 09 Jun 2025 19:48:53 GMT | Pixel Tracking Threats in Emails: Are You Being Watched? | Akshay Chauhan | [Read More](https://medium.com/p/7a5bc91954af) |
 | Mon, 09 Jun 2025 19:35:15 GMT | SQL injection | Davidmichael Ross | [Read More](https://medium.com/p/32fe2bafcb0a) |
 | Mon, 09 Jun 2025 19:35:05 GMT | Agentic AI: Power, Promise, and Peril (with a Side of Paranoia) | Richard Wilder | [Read More](https://medium.com/p/e2ea412eb132) |
+| Mon, 09 Jun 2025 19:31:59 GMT | Hacking APIs: Exploiting Shadow APIs and Forgotten Endpoints | Israel Aráoz Severiche | [Read More](https://medium.com/p/9930c78e7c2d) |
 | Mon, 09 Jun 2025 19:25:40 GMT | BehindTheScreens: Ransomware Surge, Data Leaks, and Global Cyber Clashes (June 2–9, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/2f8c8bf4ac35) |
 | Mon, 09 Jun 2025 19:24:33 GMT | What Is Penetration Testing? Tools, Techniques, and Why It Matters | 0b1d1 | [Read More](https://medium.com/p/cb08746e86de) |
 | Mon, 09 Jun 2025 19:16:58 GMT | Online Predators: How They Target Your Child (Real Warning Signs Every Parent Must Know) | Kinky | [Read More](https://medium.com/p/75f665b6cf60) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 14:15:24 GMT | AI’s Trojan Horse | Thomas Rauch | [Read More](https://medium.com/p/0d644a3f5e40) |
 | Mon, 09 Jun 2025 14:13:43 GMT | Samsung to Delete Inactive Accounts — Log in Before It’s Gone! | Hamid Reza Razeghi | [Read More](https://medium.com/p/63e5c4b392df) |
 | Mon, 09 Jun 2025 14:08:08 GMT | Troubleshooting Kerberos SessionError: KRB_AP_ERR_SKEW(Clock skew too great) | Diyara | [Read More](https://medium.com/p/ccc81490c372) |
-| Mon, 09 Jun 2025 14:07:12 GMT | Is Your Business Ready for Today’s Cybersecurity Challenges? | Infotechmontrealwsi | [Read More](https://medium.com/p/fcff2a5c39d7) |
-| Mon, 09 Jun 2025 14:02:15 GMT | How I Built My Cybersecurity Homelab as a College Student | Maniraj Chahal | [Read More](https://medium.com/p/5d843fd77e29) |
-| Mon, 09 Jun 2025 14:01:31 GMT | Libertatea de a fi Vulnerabil | Rahmanov Irina | [Read More](https://medium.com/p/9858e1cfb629) |
-| Mon, 09 Jun 2025 13:59:22 GMT | Cyber Briefing: 2025.06.09 | CyberMaterial | [Read More](https://medium.com/p/772e59009c7b) |
-| Mon, 09 Jun 2025 13:56:37 GMT | Maritime tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/304437a1299f) |
-| Mon, 09 Jun 2025 13:49:05 GMT | Initial Access Brokers: The Hidden Architects of Modern Cyberattacks | Loginsoft | [Read More](https://medium.com/p/537c11c9d2ed) |
