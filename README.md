@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 11:32:39 GMT | Markup HTB Walkthrough as OSCP preparation | Qinncade | [Read More](https://medium.com/p/d1f1a6327cf6) |
+| Mon, 09 Jun 2025 11:22:24 GMT | HTML Injection in Traveler Profiles | Ehtesham Ul Haq | [Read More](https://medium.com/p/e251be22dc7d) |
+| Mon, 09 Jun 2025 11:17:22 GMT | Ethical Hacking Fundamentals for Software Quality Engineers: Key Terminologies, Network Overview… | Dimuth C Bandara | [Read More](https://medium.com/p/bb34c5212f65) |
+| Mon, 09 Jun 2025 11:17:20 GMT | Best Career in Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/cec3e65dd21b) |
+| Mon, 09 Jun 2025 11:16:40 GMT | Cybercrime Universities of the Dark Web: How Hackers Learn, Train, and Recruit | Sandesh Kumar | [Read More](https://medium.com/p/1f78e3707afb) |
 | Mon, 09 Jun 2025 11:05:55 GMT | Web Application VAPT Services: Why Every Business Needs It | StrongBox IT | [Read More](https://medium.com/p/99b4b56987c5) |
 | Mon, 09 Jun 2025 11:05:53 GMT | Top 6 Mistakes Businesses Make Without Managed IT Support | Elevate | [Read More](https://medium.com/p/f0ade125ac52) |
 | Mon, 09 Jun 2025 11:03:24 GMT | Xavfsizlikni Django koddan tashqarida saqlang. | Murodali Narzullayev | [Read More](https://medium.com/p/6bce1330a26a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 06:30:01 GMT | My Internship at Startecon: From Python to Pranks and Everything In Between | SampradaKhadka | [Read More](https://medium.com/p/2fb20e3995a6) |
 | Mon, 09 Jun 2025 06:27:39 GMT | Victoria’s Secret Cyber Incident Disrupts Online and In-Store Services | SafetyDetectives Research Team | [Read More](https://medium.com/p/f0098ea60812) |
 | Mon, 09 Jun 2025 06:23:48 GMT | Kriptografi ECC dan WEB3 | Aji Gelar | [Read More](https://medium.com/p/180d20b7e103) |
-| Mon, 09 Jun 2025 06:22:49 GMT | Cybersecurity in Modern IT Architecture: Cloud, Serverless, SCADA, and Beyond | unica 02 | [Read More](https://medium.com/p/81ee229cab72) |
-| Mon, 09 Jun 2025 06:16:07 GMT | A Brief Guide To ECC, Web3 Cryptography, and Threats | Daarin | [Read More](https://medium.com/p/2f5460bc3dcb) |
-| Mon, 09 Jun 2025 06:12:30 GMT | 50 Command Line Tools You Wish You Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/833908ca951e) |
-| Mon, 09 Jun 2025 06:03:50 GMT | How I Earned $26.91 on Medium Just by Sharing My Bug Bounty Journey | Vivek PS | [Read More](https://medium.com/p/776a6b25ce28) |
-| Mon, 09 Jun 2025 06:00:32 GMT | Exploring Draeneg: A Powerful Network Application for Analysis and Troubleshooting | Govind Goyal | [Read More](https://medium.com/p/50c2460756d3) |
