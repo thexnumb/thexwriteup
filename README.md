@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 20:32:12 GMT | DOM-Based XSS Exploitation in jQuery Selector | musayyab sharif | [Read More](https://medium.com/p/21a996b9dd43) |
+| Mon, 09 Jun 2025 20:27:26 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 6] | Aditya Bhatt | [Read More](https://medium.com/p/1d48459744f6) |
 | Mon, 09 Jun 2025 20:11:43 GMT | Shift Left, Stay Local: Using AI Models in DevSecOps | Dave Patten | [Read More](https://medium.com/p/8f337b7112ca) |
 | Mon, 09 Jun 2025 20:11:13 GMT | Parol xeshlash algoritmini Argon2 ga yangilang. | Murodali Narzullayev | [Read More](https://medium.com/p/2a0c6699a7ca) |
 | Mon, 09 Jun 2025 19:59:08 GMT | RateFin Investment — Mauritius’s Biggest Online Scam of 2025 | Xcyber Squad | [Read More](https://medium.com/p/e2bdfebc8708) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 14:19:56 GMT | Simple bruteforce file zip using Rust | Dimas Fajar Kurniawan | [Read More](https://medium.com/p/3336e494fc1d) |
 | Mon, 09 Jun 2025 14:19:35 GMT | Internal Penetration Test Report | Amatheusfeitosam | [Read More](https://medium.com/p/a0ef83f3448d) |
 | Mon, 09 Jun 2025 14:15:24 GMT | AI’s Trojan Horse | Thomas Rauch | [Read More](https://medium.com/p/0d644a3f5e40) |
-| Mon, 09 Jun 2025 14:13:43 GMT | Samsung to Delete Inactive Accounts — Log in Before It’s Gone! | Hamid Reza Razeghi | [Read More](https://medium.com/p/63e5c4b392df) |
-| Mon, 09 Jun 2025 14:08:08 GMT | Troubleshooting Kerberos SessionError: KRB_AP_ERR_SKEW(Clock skew too great) | Diyara | [Read More](https://medium.com/p/ccc81490c372) |
