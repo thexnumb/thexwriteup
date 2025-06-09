@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 13:30:51 GMT | Can You Really Trust Third‑Party Scripts? Here’s How to Find Out | Sanjeevani Bhandari | [Read More](https://medium.com/p/c3bc68b4de80) |
+| Mon, 09 Jun 2025 13:27:56 GMT | Emotions Are Not Weakness: A Personal Story and Psychological Insight | Sathya Durga | [Read More](https://medium.com/p/5696a68173bb) |
+| Mon, 09 Jun 2025 13:25:43 GMT | The Great Digital Exodus: What the SK Telecom Data Breach Teaches Us About Customer Trust in the… | Technijian | [Read More](https://medium.com/p/6f2d1b0d6f36) |
+| Mon, 09 Jun 2025 13:20:47 GMT | How to Land your First Cyber Security Gig | Isaiah Illy | [Read More](https://medium.com/p/06cc97db6975) |
+| Mon, 09 Jun 2025 13:20:38 GMT | Early Findings: How a Verification Bug Led to the $8M ALEX Protocol Exploit | Evgenii | [Read More](https://medium.com/p/4378f4c1ac52) |
+| Mon, 09 Jun 2025 13:18:48 GMT | China’s Massive Data Breach 2025: 4 Billion Records Exposed — What You Need to Know | Technijian | [Read More](https://medium.com/p/8753c90ea2be) |
+| Mon, 09 Jun 2025 13:18:35 GMT | How to install GO LANG and Run from anywhere in the system (Manually). | Zuri | [Read More](https://medium.com/p/bc8552555b85) |
+| Mon, 09 Jun 2025 13:16:26 GMT | AI in Penetration Testing : How AI Is Revolutionizing Penetration Testing in Cybersecurity | Ekene Joseph | [Read More](https://medium.com/p/a87cc2a132c2) |
+| Mon, 09 Jun 2025 13:11:01 GMT | DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | Chirag Vyas | [Read More](https://medium.com/p/ec1e76460c05) |
+| Mon, 09 Jun 2025 13:02:23 GMT | Think Before You Click: How Fake CAPTCHA Tests Are Installing Malware | Peris.ai Cybersecurity | [Read More](https://medium.com/p/21850daa8145) |
+| Mon, 09 Jun 2025 13:02:17 GMT | 4 Surprising Things Pi-hole Blocks (Besides Just Ads) | Mohamad MERHI | [Read More](https://medium.com/p/cddc9ce4a26a) |
+| Mon, 09 Jun 2025 12:56:30 GMT | What Is SaaS Operations Management and Why Does It Matter in 2025 | Arun Jyothi | [Read More](https://medium.com/p/1a34ab4e0c5e) |
+| Mon, 09 Jun 2025 12:54:33 GMT | Snort | Amalpp | [Read More](https://medium.com/p/5da833ba0a16) |
+| Mon, 09 Jun 2025 12:54:20 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzalezablerta | [Read More](https://medium.com/p/abe7dae0f972) |
+| Mon, 09 Jun 2025 12:51:48 GMT | The Future of Privacy Management | Goismo AB | [Read More](https://medium.com/p/de1890e96a23) |
+| Mon, 09 Jun 2025 12:43:04 GMT | Top 10 companies offering crypto-backed insurance products | Payal Purbhoo | [Read More](https://medium.com/p/328ea58e1d1d) |
+| Mon, 09 Jun 2025 12:42:16 GMT | ECC & Web3 Cryptography: Pilar Keamanan Internet Masa Depan dan Ancaman yang Mengintai | Janukhi Bisyri | [Read More](https://medium.com/p/3295dc12f396) |
+| Mon, 09 Jun 2025 12:39:38 GMT | The Role of Cyber Risk Assessment & Planning in Compliance and Data Protection | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/79caed3ebbde) |
 | Mon, 09 Jun 2025 12:36:09 GMT | Cloudflare R2 File Upload & Delete Service with AWS S3-compatible API (Express.js & Multer) | Eva Sabrina | [Read More](https://medium.com/p/714a2bb47fde) |
 | Mon, 09 Jun 2025 12:32:12 GMT | Best Reconciliation Software for Small Businesses: Save Time and Money | Kosh AI | [Read More](https://medium.com/p/49ef2c4d67ae) |
 | Mon, 09 Jun 2025 12:26:28 GMT | Why Cybersecurity Governance Is Now a Boardroom Responsibility | GoTrust Tech | [Read More](https://medium.com/p/2f87371289ca) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 08:12:19 GMT | Part 1 — Setting up Active Directory | Bat Otgonbayar | [Read More](https://medium.com/p/c59677048c92) |
 | Mon, 09 Jun 2025 08:07:24 GMT | Study at a Leading Australian University for International Students — Apply Today! | AIST | [Read More](https://medium.com/p/671ed9bbd61e) |
 | Mon, 09 Jun 2025 08:02:48 GMT | Baggage Scanner Machine — The Backbone of Security Operations | Pentagonengineers | [Read More](https://medium.com/p/3b4c1c0742b4) |
-| Mon, 09 Jun 2025 08:02:25 GMT | Access your home or office network resources while you are away with Tailscale | David Garcia | [Read More](https://medium.com/p/c9688dc03595) |
-| Mon, 09 Jun 2025 07:46:50 GMT | Firewall and IDS/IPS Evasion — Easy Lab Nmap | Varkeythms | [Read More](https://medium.com/p/22ffffa3cac2) |
-| Mon, 09 Jun 2025 07:46:45 GMT | Monitor Private HackerOne Programs Using Wayback Machine — How I Caught a High Severity Bug on Day… | Ibraheem EL-Mougy | [Read More](https://medium.com/p/01bc94373115) |
-| Mon, 09 Jun 2025 07:46:08 GMT | MITRE ATT&CK-Based Detection Engineering: Focus on Persistence | Paritosh | [Read More](https://medium.com/p/07279d1617b6) |
-| Mon, 09 Jun 2025 07:45:37 GMT | Where Can I Find Top Cybersecurity Solutions for Small Businesses in Massachusetts? | Elliman Technologies | [Read More](https://medium.com/p/373a48922c73) |
-| Mon, 09 Jun 2025 07:43:13 GMT | Strengthening India’s Cyber Shield: Key Takeaways from AmCham’s Cyber Security Roundtable with Dr. | Amcham India | [Read More](https://medium.com/p/d151a367cfdc) |
-| Mon, 09 Jun 2025 07:41:14 GMT | Why MFA Alone Isn’t Enough Anymore | Sec with Sun | [Read More](https://medium.com/p/4c787e05606b) |
-| Mon, 09 Jun 2025 07:37:37 GMT | What is Phishing in Cybersecurity? | Saurabh | [Read More](https://medium.com/p/a1352c896de4) |
-| Mon, 09 Jun 2025 07:37:22 GMT | Malicious File/Script Download Attempt | Ritchy Tran | [Read More](https://medium.com/p/c3311498399e) |
-| Mon, 09 Jun 2025 07:37:14 GMT | Cyber Security Degree vs Certificate | Crawsec | [Read More](https://medium.com/p/f034faaaa3ac) |
-| Mon, 09 Jun 2025 07:37:04 GMT | The Algorithmic Abyss: When AI Upends the American Dream | Namir Sagheenanajar | [Read More](https://medium.com/p/e1bcbe363a8c) |
-| Mon, 09 Jun 2025 07:36:40 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/d80612bdaa97) |
-| Mon, 09 Jun 2025 07:34:00 GMT | Summer Internships Training in Cyber Security [2025] | cyber security Updates | [Read More](https://medium.com/p/29103be52ccf) |
-| Mon, 09 Jun 2025 07:32:27 GMT | Networking, Cybersecurity, and IT Infrastructure: The Digital Backbone of Modern Enterprises | Manjeet Singh | [Read More](https://medium.com/p/4a9d31dbb10c) |
-| Mon, 09 Jun 2025 07:31:26 GMT | Mirai Malware Targets Unpatched TBK DVRs in Global Botnet Campaign | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/8d75e136b2e2) |
-| Mon, 09 Jun 2025 07:29:25 GMT | Everything You Need to Know About Crimsafe Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/e03f7fc14783) |
-| Mon, 09 Jun 2025 07:29:11 GMT | ประจำวันจันทร์ที่ 9 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7709a51b6fd6) |
-| Mon, 09 Jun 2025 07:26:21 GMT | Gemini Canvas is Magic for Rapid Prototyping | Will Cheung | [Read More](https://medium.com/p/babbde6ac25f) |
