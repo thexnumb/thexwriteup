@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 21:38:58 GMT | The Virtualization of Workstations: Why Red Teamers Must Learn to Hack the Cloud Desktop | Yua Mikanana | [Read More](https://medium.com/p/e391ac858ea6) |
+| Mon, 09 Jun 2025 21:25:35 GMT | MalwareGPT: The Dark Side of AI — How Cybercriminals Are Weaponizing Language Models | Ekene Joseph | [Read More](https://medium.com/p/be6e6c463ed1) |
 | Mon, 09 Jun 2025 20:49:12 GMT | A Complete Guide to Security Guard Jackets, Uniforms, and Accessories | Prouniformsusa | [Read More](https://medium.com/p/988b9c879f23) |
 | Mon, 09 Jun 2025 20:45:02 GMT | Easy IDOR lead to dislosed PII data leakage{Name, Username, Password} | Abhishek  (Bug Hunter) | [Read More](https://medium.com/p/053c2783f8a6) |
 | Mon, 09 Jun 2025 20:44:44 GMT | Ghost Files for Inter Process Communication | S12 - 0x12Dark Development | [Read More](https://medium.com/p/131dd9147450) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 14:37:02 GMT | Practical study material OSWP Part 1: WPA2-PSK Walkthrough | Nol White Hat | [Read More](https://medium.com/p/cd4d869ae784) |
 | Mon, 09 Jun 2025 14:36:19 GMT | Practical study material OSWP Part 2: WPA2-MGT Walkthrough | Nol White Hat | [Read More](https://medium.com/p/d87d11a77aa8) |
 | Mon, 09 Jun 2025 14:35:02 GMT | Practical study material OSWP Part 3: WEP Walkthrough | Nol White Hat | [Read More](https://medium.com/p/5dd2fe8ae176) |
-| Mon, 09 Jun 2025 14:31:50 GMT | CTF Write-up: MacLock (Certified Cyber Defenders | itsGir | [Read More](https://medium.com/p/b0fef014e96f) |
-| Mon, 09 Jun 2025 14:30:57 GMT | Open Is More Secure: The Case for Open Source in Government Cybersecurity | Fen Labalme | [Read More](https://medium.com/p/491095ae934c) |
