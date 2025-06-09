@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 17:11:21 GMT | From Hunger to Hacker: How a Zomato Order Earned Me ₹25K” | praveen p | [Read More](https://medium.com/p/706b879c2bce) |
+| Mon, 09 Jun 2025 17:06:35 GMT | How Dare You Dictate My Security! Debunk to Debank! | Guy Valdez ♱ | [Read More](https://medium.com/p/a58101140c17) |
+| Mon, 09 Jun 2025 17:04:53 GMT | Lo que la IA nunca atacará: La red energética | Carlos Uraga | [Read More](https://medium.com/p/70802e04d238) |
+| Mon, 09 Jun 2025 17:03:04 GMT | Understanding RISC-V Privilege Modes: Isolation, Security, and Software Control | Wadix Technologies | [Read More](https://medium.com/p/29d8a93453d4) |
+| Mon, 09 Jun 2025 16:57:51 GMT | 5 Valuable Lessons I Learned Moving from Bug Bounty Hunter to Security Consultant | Mrunal chawda | [Read More](https://medium.com/p/1a202db85fd1) |
+| Mon, 09 Jun 2025 16:56:28 GMT | Day 58 : Bash Scripting Command-Line Arguments & getopts | Agarwaldaksh | [Read More](https://medium.com/p/fc2dedb3e49f) |
+| Mon, 09 Jun 2025 16:52:36 GMT | Dominik Stahlberg Wins Our Hack the Box Challenge | Rena Wilmar | [Read More](https://medium.com/p/d77f034e7a08) |
+| Mon, 09 Jun 2025 16:52:18 GMT | Data Leakage Protection: Safeguarding Sensitive Information | SafeAeon Inc. | [Read More](https://medium.com/p/0344c810b381) |
+| Mon, 09 Jun 2025 16:51:40 GMT | Operation Phantom Enigma: A Silent Cyberstorm Brews in Latin America | Siva Gunasekaran | [Read More](https://medium.com/p/64f1f474221a) |
+| Mon, 09 Jun 2025 16:50:13 GMT | Recently Interviewed on The Hedge Podcast … | Karl Buhl | [Read More](https://medium.com/p/e286f9e7fdec) |
 | Mon, 09 Jun 2025 16:44:55 GMT | TryHackMe - Billing | haxer | [Read More](https://medium.com/p/7d2d22374ec8) |
 | Mon, 09 Jun 2025 16:44:03 GMT | Proactive Threat Management: Building a Resilient Defense | SafeAeon Inc. | [Read More](https://medium.com/p/21852165e8d5) |
 | Mon, 09 Jun 2025 16:42:24 GMT | IonQ Acquires Oxford Ionics for $1.08 Billion: A Bold Leap Toward Fault‑Tolerant Quantum Computing | QuantumGenie | [Read More](https://medium.com/p/6b43fc02894c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 12:32:12 GMT | Best Reconciliation Software for Small Businesses: Save Time and Money | Kosh AI | [Read More](https://medium.com/p/49ef2c4d67ae) |
 | Mon, 09 Jun 2025 12:26:28 GMT | Why Cybersecurity Governance Is Now a Boardroom Responsibility | GoTrust Tech | [Read More](https://medium.com/p/2f87371289ca) |
 | Mon, 09 Jun 2025 12:26:15 GMT | I Am Quitting Social Media Completely! (Deepfakes phobia) | Olamide Joy Akinlolu | [Read More](https://medium.com/p/05ee37d25e26) |
-| Mon, 09 Jun 2025 12:23:32 GMT | TEST #2 — From SPF to XSS: Full-Spectrum Recon on WordPress Targets | D4m.sh | [Read More](https://medium.com/p/4f8512c930d4) |
-| Mon, 09 Jun 2025 12:19:32 GMT | Navigating the Cyber Storm: Everything Businesses Should Know About Today’s CTI Trends | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/cbeab10103c5) |
-| Mon, 09 Jun 2025 12:10:04 GMT | Why BFSI Organizations Must Prioritize Routine VAPT Audits? | Microscan Communications | [Read More](https://medium.com/p/4573d7c37a21) |
-| Mon, 09 Jun 2025 12:08:28 GMT | Our VAPT Services | StrongBox IT | [Read More](https://medium.com/p/6df740f2b32f) |
-| Mon, 09 Jun 2025 12:08:06 GMT | Perl DBI Unsafe Escaping: Natas30 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/2e21a6f07321) |
-| Mon, 09 Jun 2025 11:54:30 GMT | Emergency Chrome Patch: Lessons in Cyber Hygiene | Magdaline Arianda | [Read More](https://medium.com/p/335fa519ae87) |
-| Mon, 09 Jun 2025 11:52:09 GMT | Part Series: Mastering Administrative Units in Microsoft Entra | Oludolamu Onimole | [Read More](https://medium.com/p/7aa46b589ebc) |
-| Mon, 09 Jun 2025 11:52:07 GMT | Securing APIs: OAuth2, JWT, and API Keys | Vaibhav Jain | [Read More](https://medium.com/p/457c1466be44) |
-| Mon, 09 Jun 2025 11:50:25 GMT | 101 Ways to Conquer the Cyber Frontier: Your Game-Changing Guide to Cybersecurity in 2025! | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/2a9453284867) |
-| Mon, 09 Jun 2025 11:49:45 GMT | How to get HTTPS for free | Punnyartha Banerjee | [Read More](https://medium.com/p/460a619ecb15) |
