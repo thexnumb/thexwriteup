@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 12:36:09 GMT | Cloudflare R2 File Upload & Delete Service with AWS S3-compatible API (Express.js & Multer) | Eva Sabrina | [Read More](https://medium.com/p/714a2bb47fde) |
+| Mon, 09 Jun 2025 12:32:12 GMT | Best Reconciliation Software for Small Businesses: Save Time and Money | Kosh AI | [Read More](https://medium.com/p/49ef2c4d67ae) |
+| Mon, 09 Jun 2025 12:26:28 GMT | Why Cybersecurity Governance Is Now a Boardroom Responsibility | GoTrust Tech | [Read More](https://medium.com/p/2f87371289ca) |
+| Mon, 09 Jun 2025 12:26:15 GMT | I Am Quitting Social Media Completely! (Deepfakes phobia) | Olamide Joy Akinlolu | [Read More](https://medium.com/p/05ee37d25e26) |
+| Mon, 09 Jun 2025 12:23:32 GMT | TEST #2 — From SPF to XSS: Full-Spectrum Recon on WordPress Targets | D4m.sh | [Read More](https://medium.com/p/4f8512c930d4) |
+| Mon, 09 Jun 2025 12:19:32 GMT | Navigating the Cyber Storm: Everything Businesses Should Know About Today’s CTI Trends | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/cbeab10103c5) |
+| Mon, 09 Jun 2025 12:10:04 GMT | Why BFSI Organizations Must Prioritize Routine VAPT Audits? | Microscan Communications | [Read More](https://medium.com/p/4573d7c37a21) |
+| Mon, 09 Jun 2025 12:08:28 GMT | Our VAPT Services | StrongBox IT | [Read More](https://medium.com/p/6df740f2b32f) |
+| Mon, 09 Jun 2025 12:08:06 GMT | Perl DBI Unsafe Escaping: Natas30 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/2e21a6f07321) |
+| Mon, 09 Jun 2025 11:54:30 GMT | Emergency Chrome Patch: Lessons in Cyber Hygiene | Magdaline Arianda | [Read More](https://medium.com/p/335fa519ae87) |
+| Mon, 09 Jun 2025 11:52:09 GMT | Part Series: Mastering Administrative Units in Microsoft Entra | Oludolamu Onimole | [Read More](https://medium.com/p/7aa46b589ebc) |
+| Mon, 09 Jun 2025 11:52:07 GMT | Securing APIs: OAuth2, JWT, and API Keys | Vaibhav Jain | [Read More](https://medium.com/p/457c1466be44) |
+| Mon, 09 Jun 2025 11:50:25 GMT | 101 Ways to Conquer the Cyber Frontier: Your Game-Changing Guide to Cybersecurity in 2025! | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/2a9453284867) |
+| Mon, 09 Jun 2025 11:49:45 GMT | How to get HTTPS for free | Punnyartha Banerjee | [Read More](https://medium.com/p/460a619ecb15) |
+| Mon, 09 Jun 2025 11:47:54 GMT | SIDHistory Abuse in Parent-Child Trust relationship | Evyeveline | [Read More](https://medium.com/p/0697c5890551) |
+| Mon, 09 Jun 2025 11:42:31 GMT | How I Found an $8,427 JS Security Bug in 30 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/1c37d97bdae1) |
+| Mon, 09 Jun 2025 11:38:31 GMT | Digital Watermarking: A Comprehensive Analysis of Techniques, Applications, and Future Directions… | Divyanshu Ranjan Singh | [Read More](https://medium.com/p/4aab7081ef91) |
 | Mon, 09 Jun 2025 11:32:39 GMT | Markup HTB Walkthrough as OSCP preparation | Qinncade | [Read More](https://medium.com/p/d1f1a6327cf6) |
 | Mon, 09 Jun 2025 11:22:24 GMT | HTML Injection in Traveler Profiles | Ehtesham Ul Haq | [Read More](https://medium.com/p/e251be22dc7d) |
 | Mon, 09 Jun 2025 11:17:22 GMT | Ethical Hacking Fundamentals for Software Quality Engineers: Key Terminologies, Network Overview… | Dimuth C Bandara | [Read More](https://medium.com/p/bb34c5212f65) |
@@ -36,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 10:23:32 GMT | Setting Up Windows 10 VM-1 for Your Cybersecurity Lab | Abyss | [Read More](https://medium.com/p/3b4ea6ef7489) |
 | Mon, 09 Jun 2025 10:22:08 GMT | Role of AI in Cybersecurity: Friend or Foe? | FACE Prep Campus | [Read More](https://medium.com/p/3c9ea2ff96fe) |
 | Mon, 09 Jun 2025 10:21:37 GMT | Top reasons to use Custom Built Gaming Computers Canberra — A Precise Overview | Eserve Infotech | [Read More](https://medium.com/p/b94390541dd1) |
+| Mon, 09 Jun 2025 10:19:38 GMT | E shock you? Why Your Night Watchman Needs a "Smart" Upgrade! | Naza Raymond (TEKNNUKU) | [Read More](https://medium.com/p/77e7c7d22f53) |
 | Mon, 09 Jun 2025 10:19:23 GMT | AI-Powered Cyber Threats in 2025: The Rise of Autonomous Attack Agents and the Collapse of… | Chetan Seripally | [Read More](https://medium.com/p/ce80a5f05afa) |
 | Mon, 09 Jun 2025 10:11:46 GMT | Let’s Talk About HTTP — The Backbone of the Web (And a Goldmine for DFIR Folks) | Dean | [Read More](https://medium.com/p/1cf3341dc51f) |
 | Mon, 09 Jun 2025 10:11:02 GMT | How Criminals Use Dead Drops and Covert Channels on the Dark Web | Sandesh Kumar | [Read More](https://medium.com/p/622167c2c830) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 07:29:25 GMT | Everything You Need to Know About Crimsafe Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/e03f7fc14783) |
 | Mon, 09 Jun 2025 07:29:11 GMT | ประจำวันจันทร์ที่ 9 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7709a51b6fd6) |
 | Mon, 09 Jun 2025 07:26:21 GMT | Gemini Canvas is Magic for Rapid Prototyping | Will Cheung | [Read More](https://medium.com/p/babbde6ac25f) |
-| Mon, 09 Jun 2025 07:25:29 GMT | ISC2 Certified in Cybersecurity CC exam | Erkan Kavas | [Read More](https://medium.com/p/86cccb3d976d) |
-| Mon, 09 Jun 2025 07:25:18 GMT | The Ultimate Guide to Finding Reliable Commercial CCTV Camera Suppliers in Chennai | Slsecuritysystems | [Read More](https://medium.com/p/46a0894a84d6) |
-| Mon, 09 Jun 2025 07:25:13 GMT | Popular X-Ray Baggage Scanner Machines for High-Security Zones | Pentagonengineers | [Read More](https://medium.com/p/caaf8d8c0b4d) |
-| Mon, 09 Jun 2025 07:16:06 GMT | What It Means to Be a Man Now | Jason Li | [Read More](https://medium.com/p/da554d2feea5) |
-| Mon, 09 Jun 2025 07:08:15 GMT | Data Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f019816d82c7) |
-| Mon, 09 Jun 2025 07:04:51 GMT | Passwords Are Fading Biometrics Are In | Arpana | [Read More](https://medium.com/p/bc2e2c52ab41) |
-| Mon, 09 Jun 2025 07:00:11 GMT | Meta Eyes Massive $10B+ Investment in Scale AI: The Next Leap in Generative Intelligence | Tech Thrilled | [Read More](https://medium.com/p/bcfc4536f64d) |
-| Mon, 09 Jun 2025 06:56:42 GMT | Security Audits in Delhi NCR: The Silent Armor of Your Business & Life | Anshikaaa | [Read More](https://medium.com/p/b8ec396e4d0e) |
-| Mon, 09 Jun 2025 06:50:36 GMT | Every day, SWIFT-connected systems process billions of dollars in transactions globally, which… | Biz Serve IT | [Read More](https://medium.com/p/07e3d5d9b08f) |
-| Mon, 09 Jun 2025 06:39:21 GMT | Custom App Development in Riyadh — A Smart Business Move. | Five Programmers | [Read More](https://medium.com/p/29a2ee8e72ca) |
-| Mon, 09 Jun 2025 06:38:59 GMT | What Is the Role of Artificial Intelligence in Enhancing 5G Cybersecurity? | Anshul Goyal | [Read More](https://medium.com/p/8b10cb740002) |
-| Mon, 09 Jun 2025 06:38:00 GMT | OverTheWire(Bandit) Labs | Gopal Mohan | [Read More](https://medium.com/p/ff3f42d7ddf8) |
-| Mon, 09 Jun 2025 06:37:23 GMT | Securing Financial Transactions with SWIFT CSCF Control 2.9 | Biz Serve IT | [Read More](https://medium.com/p/3c1918c34f24) |
-| Mon, 09 Jun 2025 06:36:24 GMT | How Fast Are Cyber Threats Exploiting New Vulnerabilities in 2025? | Zeron | [Read More](https://medium.com/p/aad27c6f5c22) |
-| Mon, 09 Jun 2025 06:32:30 GMT | Stay Ahead of Hackers: Why Understanding Penetration Testing Services Is Essential for Every… | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/65d883d7313d) |
-| Mon, 09 Jun 2025 06:30:01 GMT | My Internship at Startecon: From Python to Pranks and Everything In Between | SampradaKhadka | [Read More](https://medium.com/p/2fb20e3995a6) |
-| Mon, 09 Jun 2025 06:27:39 GMT | Victoria’s Secret Cyber Incident Disrupts Online and In-Store Services | SafetyDetectives Research Team | [Read More](https://medium.com/p/f0098ea60812) |
-| Mon, 09 Jun 2025 06:23:48 GMT | Kriptografi ECC dan WEB3 | Aji Gelar | [Read More](https://medium.com/p/180d20b7e103) |
