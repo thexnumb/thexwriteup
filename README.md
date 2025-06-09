@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 06:22:49 GMT | Cybersecurity in Modern IT Architecture: Cloud, Serverless, SCADA, and Beyond | unica 02 | [Read More](https://medium.com/p/81ee229cab72) |
+| Mon, 09 Jun 2025 06:16:07 GMT | A Brief Guide To ECC, Web3 Cryptography, and Threats | Daarin | [Read More](https://medium.com/p/2f5460bc3dcb) |
+| Mon, 09 Jun 2025 06:12:30 GMT | 50 Command Line Tools You Wish You Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/833908ca951e) |
+| Mon, 09 Jun 2025 06:03:50 GMT | How I Earned $26.91 on Medium Just by Sharing My Bug Bounty Journey | Vivek PS | [Read More](https://medium.com/p/776a6b25ce28) |
+| Mon, 09 Jun 2025 06:00:32 GMT | Exploring Draeneg: A Powerful Network Application for Analysis and Troubleshooting | Govind Goyal | [Read More](https://medium.com/p/50c2460756d3) |
+| Mon, 09 Jun 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Jun 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f6798877a222) |
+| Mon, 09 Jun 2025 05:57:03 GMT | Top Diploma Programmes in Information Technology | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/82f90e5367c1) |
+| Mon, 09 Jun 2025 05:55:19 GMT | Authentication part-4 : Username enumeration via subtly different responses | Ahmad Sopyan | [Read More](https://medium.com/p/2222f6e8f360) |
+| Mon, 09 Jun 2025 05:54:51 GMT | OpenID Connect Extended Authentication Profile (EAP)- A Technical Guide for Phishing-Resistant… | Vijay K Soni | [Read More](https://medium.com/p/aa7d4f712032) |
+| Mon, 09 Jun 2025 05:52:15 GMT | How I Implemented Microsoft’s Data Protection in AKS: Real-World Lessons from Production | Sridhar | [Read More](https://medium.com/p/4dec6cb23d01) |
+| Mon, 09 Jun 2025 05:47:48 GMT | Grammarly Might Be the Most Polite Keylogger Ever Made | Anthony Lam | [Read More](https://medium.com/p/05027b4c54d1) |
+| Mon, 09 Jun 2025 05:43:14 GMT | Why In-House Isn’t Always the Best Strategy in Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/26ce93cab5b8) |
+| Mon, 09 Jun 2025 05:42:58 GMT | The 4chan PDF Hack — A Comprehensive Security Analysis | David SEHYEON Baek | [Read More](https://medium.com/p/90fba6b8f294) |
+| Mon, 09 Jun 2025 05:42:42 GMT | FBI and CISA Release Joint Advisory on LummaC2 Malware Amid Global Takedown Operation | David SEHYEON Baek | [Read More](https://medium.com/p/03a017cd9063) |
+| Mon, 09 Jun 2025 05:42:24 GMT | Dissecting the Russian GRU’s Escalating Espionage Campaign Targeting Global Logistics and… | David SEHYEON Baek | [Read More](https://medium.com/p/72684c19fb28) |
+| Mon, 09 Jun 2025 05:42:09 GMT | Fortinet Strengthens SASE Portfolio with Strategic Acquisition of Israeli SaaS Security Pioneer… | David SEHYEON Baek | [Read More](https://medium.com/p/df4e2563277b) |
+| Mon, 09 Jun 2025 05:41:52 GMT | Global Cybersecurity Threat Landscape — April 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/fa9b6bb1e103) |
+| Mon, 09 Jun 2025 05:39:44 GMT | Plan Ahead This Eid: Secure Your Valuables with Vintage Vaults Before the Summer Rush | Vintage Vaults | [Read More](https://medium.com/p/1fac9c03f752) |
 | Mon, 09 Jun 2025 05:36:45 GMT | Everything You Need to Know About XSS — with AI Prompts | Narendar Battula (nArEn) | [Read More](https://medium.com/p/438a76ed695f) |
 | Mon, 09 Jun 2025 05:34:23 GMT | Bypassing Rewrite Rules in Web Servers + WAF Bypass for bug Bounties | d1lv3rdn4 | [Read More](https://medium.com/p/ec885c1b2630) |
 | Mon, 09 Jun 2025 05:33:02 GMT | Antivirus Says You’re Clean? Cool Story, Bro — Let’s Ask Sysmon | Aniruddha Ramane | [Read More](https://medium.com/p/650830df997a) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 21:29:25 GMT | Demystifying Industrial Tech: Why Zero Trust Matters on the Shop Floor | Thomas Rauch | [Read More](https://medium.com/p/93e8ab96626c) |
 | Sun, 08 Jun 2025 21:24:56 GMT | [Hack The Box Web Challenge] Insomnia Write Up | fnwn | [Read More](https://medium.com/p/d9a0b82d8377) |
 | Sun, 08 Jun 2025 21:22:04 GMT | Data Protection Deep Dive Series — One Week, One Theme at a Time | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/ea08bd10f6bd) |
-| Sun, 08 Jun 2025 21:19:42 GMT | When the Keys No Longer Fit: Why OAuth 2.0 Must Evolve for the Age of AI Agents | Mahmudu@xphereinfo | [Read More](https://medium.com/p/8a10f2ed6489) |
-| Sun, 08 Jun 2025 21:17:30 GMT | Chief Hacking Officer | Robert Vamosi | [Read More](https://medium.com/p/fad1720f1d82) |
-| Sun, 08 Jun 2025 21:06:03 GMT | Defending the Unknown in OT Security | Robert Vamosi | [Read More](https://medium.com/p/71b3d9851e63) |
-| Sun, 08 Jun 2025 20:53:39 GMT | HTTP vs HTTPS: Məlumatlarınız Necə Oğurlana Bilər? - Canlı Eksperimentlə Sübut! | Nijat Aliyev | [Read More](https://medium.com/p/b653eb7ba0dc) |
-| Sun, 08 Jun 2025 20:41:30 GMT | Comebacks, Clashes & Cyber Heists: The Week That Was | Nikhil | [Read More](https://medium.com/p/3c5e11d2144f) |
-| Sun, 08 Jun 2025 20:37:44 GMT | Spotting CVE-2025–23016 with Ghidra | Craig Young | [Read More](https://medium.com/p/533a084dac42) |
-| Sun, 08 Jun 2025 20:34:27 GMT | Mastering Suricata: How to Build a Hands-On Inline IPS with Real-Time Threat Intel | ierdnA | [Read More](https://medium.com/p/e4bbb59d6d44) |
-| Sun, 08 Jun 2025 20:27:30 GMT | Trends in Social Engineering in Ghana: A National Wake-Up Call | Benjamin Makafui Jackson | [Read More](https://medium.com/p/d65d5e3f0f18) |
-| Sun, 08 Jun 2025 20:22:49 GMT | 09052028942 | شماره خاله #شماره خاله تهران #خاله09052028942 | [Read More](https://medium.com/p/7dbbd85ad0c8) |
-| Sun, 08 Jun 2025 20:22:24 GMT | ️ Web Security 101: Understanding and Defending Against CSRF Attacks | Manoj Prabhakar | [Read More](https://medium.com/p/da7a0fd270b3) |
-| Sun, 08 Jun 2025 20:20:50 GMT | The Idealist’s Architecture Decision: Cross-Tenant Access — Part 5 | Jenny 秋 | [Read More](https://medium.com/p/3646a0e11fad) |
-| Sun, 08 Jun 2025 19:57:54 GMT | TheHackersLabs — OfusPingu | APS88 | [Read More](https://medium.com/p/d01d2a3d050d) |
-| Sun, 08 Jun 2025 19:41:03 GMT | Agentic AI in Security Operations Center (SOC) | whoami | [Read More](https://medium.com/p/b5c1b927d411) |
-| Sun, 08 Jun 2025 19:38:00 GMT | Immutable Insights: Understanding Blockchain's Enduring Impact | Kishan Kesari Gupta | [Read More](https://medium.com/p/2e451263176a) |
-| Sun, 08 Jun 2025 19:28:27 GMT | The Latency Bug That Only Appeared in Production | ThreadSafe Diaries | [Read More](https://medium.com/p/15b4c094732e) |
-| Sun, 08 Jun 2025 19:23:32 GMT | Assertion101 writeup — Proving ground — complete writeup. | Priyanshu | [Read More](https://medium.com/p/1b81f3ce36b2) |
-| Sun, 08 Jun 2025 19:15:51 GMT | I’m Back: Why Your Two-Factor Authentication Isn’t Protecting You | Ayas Ismail | [Read More](https://medium.com/p/0b6bad7f2e91) |
-| Sun, 08 Jun 2025 19:12:48 GMT | Is Cyber Security Hard? Tips to Make It Easier to Learn | Simplilearn | [Read More](https://medium.com/p/871a7517103b) |
