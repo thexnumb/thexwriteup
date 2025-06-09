@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 04:50:45 GMT | Lex Algorithmi, Lex Imperfecta? The Limits of Legal Translation in the EU AI Act | Danish | [Read More](https://medium.com/p/9b5bfa36caa7) |
+| Mon, 09 Jun 2025 04:49:53 GMT | Lab Rats: 5 More Essentials For Your RF Hack Lab | Investigator515 | [Read More](https://medium.com/p/599c0906b4d0) |
+| Mon, 09 Jun 2025 04:48:37 GMT | Security in the Intelligent Age — Cyber Security Law, Regulation and Policy. | Harsha Madushanka | [Read More](https://medium.com/p/1f2812f88b8a) |
+| Mon, 09 Jun 2025 04:47:43 GMT | PicoCTF writeup — Java code analysis!?! | Mohammed Waseem Ahmed | [Read More](https://medium.com/p/2eead1ac07a7) |
+| Mon, 09 Jun 2025 04:37:55 GMT | Exploring DiskView: A Visual Insight Into Disk Usage and Fragmentation | Govind Goyal | [Read More](https://medium.com/p/4479c47f015e) |
+| Mon, 09 Jun 2025 04:37:46 GMT | Best Cyber Security Courses for Freelancers and Consultants in India | Mikemiike | [Read More](https://medium.com/p/fed03906ffb7) |
+| Mon, 09 Jun 2025 04:37:19 GMT | Security is a Habit: Becoming a Security Enabler in a Zero Trust World | Heenashree Khandelwal | [Read More](https://medium.com/p/37d3d958475e) |
+| Mon, 09 Jun 2025 04:32:23 GMT | Why Microsoft Office 365 E5 Is the Smartest Choice for Enterprise Security and Productivity in 2025 | Roshan Karki | [Read More](https://medium.com/p/132881b9d4f7) |
+| Mon, 09 Jun 2025 04:31:55 GMT | Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It | MrLoser | [Read More](https://medium.com/p/372a35573d55) |
+| Mon, 09 Jun 2025 04:20:49 GMT | How to communicate privately over text messages, Facebook, WhatsApp and Gmail | DemLabs | [Read More](https://medium.com/p/fdc95afd9289) |
+| Mon, 09 Jun 2025 04:19:06 GMT | Boost Your Cybersecurity Career with CISSP Training Online at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/78e80e6edbb1) |
+| Mon, 09 Jun 2025 04:10:15 GMT | My Laptop Died, So I Hacked with My Phone. No Excuse | 127.0.0.1 | [Read More](https://medium.com/p/8dc8d030e43e) |
+| Mon, 09 Jun 2025 04:03:25 GMT | Building Your Own Test Environment For Pentesting | Pavandeep Kaur | [Read More](https://medium.com/p/b88ec28434ef) |
 | Mon, 09 Jun 2025 03:59:09 GMT | How Phishing Attacks Exploit Subdomains to Deceive Users | William Ma | [Read More](https://medium.com/p/5ed741002c07) |
 | Mon, 09 Jun 2025 03:55:06 GMT | Has Technology Outgrown the People It’s Supposed to Help? | C. Valentine | [Read More](https://medium.com/p/d6ad52e029ab) |
 | Mon, 09 Jun 2025 03:54:17 GMT | eBPF: Modern Day Linux Observability and Security | ompatil | [Read More](https://medium.com/p/0231d48c02ad) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 18:27:41 GMT | Port Scanning with Linux: Identify Open and Closed Ports Easily | Natarajan C K | [Read More](https://medium.com/p/3b843c1fc452) |
 | Sun, 08 Jun 2025 18:21:48 GMT | The Silent Leak: Unseen Threats Lurking in GenAI Prompts | Avnishyam | [Read More](https://medium.com/p/f61d067a5e10) |
 | Sun, 08 Jun 2025 18:15:42 GMT | Cyber Threat Analyzer Using LLMs and Cloud | Surya G | [Read More](https://medium.com/p/5fb39fb80b4c) |
-| Sun, 08 Jun 2025 18:12:38 GMT | The Quiet Weapon in Crypto Auditing: Securing Digital Assets Beyond the Ledger | Victor Greenstein, JD, MBA, CFE | [Read More](https://medium.com/p/275843fe985e) |
-| Sun, 08 Jun 2025 18:04:56 GMT | Hardening SSH Linux | Alyyusyawal | [Read More](https://medium.com/p/46dcb911b076) |
-| Sun, 08 Jun 2025 18:04:37 GMT | Is anyone Using AI for Bug Triage and Bug Assignment to Developers ? | Parvathi Reddy | [Read More](https://medium.com/p/276f5d0340be) |
-| Sun, 08 Jun 2025 18:04:03 GMT | How to manually hunt for F5 Big-IP RCE (CVE 2020–5902, CVE2022–1388) | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/da78fb0a562e) |
-| Sun, 08 Jun 2025 18:03:04 GMT | Silent Breach Lab Walkthrough | Hadiramr | [Read More](https://medium.com/p/306a40c0d6a2) |
-| Sun, 08 Jun 2025 18:01:15 GMT | From Medical Records to Remote Shells: Exploiting OpenEMR (CVE-2018–17179) | CyberQuestor | [Read More](https://medium.com/p/7fdcbbb85b13) |
-| Sun, 08 Jun 2025 17:56:49 GMT | Why I Write: Learning the Language of the World | Upagya Halder | [Read More](https://medium.com/p/53adbf23ed93) |
-| Sun, 08 Jun 2025 17:52:27 GMT | Strutted HTB Walkthrough | Qinncade | [Read More](https://medium.com/p/31bd09097eb0) |
-| Sun, 08 Jun 2025 17:49:22 GMT | Cybersecurity in MedTech: A Roundup of Innovative Tools and Resources | Manish Kumar | [Read More](https://medium.com/p/90cf81263a8f) |
-| Sun, 08 Jun 2025 17:47:13 GMT | The 5 Cybersecurity Jobs That Are Disappearing Fast : POST # 165 | Monty Excel | [Read More](https://medium.com/p/1f1703b3230b) |
-| Sun, 08 Jun 2025 17:45:57 GMT | In 2025, Building From Scratch Is a Red Flag — The Real Technical Challenges Start After the Code | Ilakian Puvanendra | [Read More](https://medium.com/p/0db5f14040d0) |
-| Sun, 08 Jun 2025 17:40:17 GMT | SOC102 — Proxy — Suspicious URL Detected - Event ID: 32 | Cyril Philipp Abajar | [Read More](https://medium.com/p/714e1079ac58) |
-| Sun, 08 Jun 2025 17:34:21 GMT | Telnet Exploit on Metasploitable 2 Port 23 | Kizito Arinze Chukwu | [Read More](https://medium.com/p/0a9ec4aa498b) |
