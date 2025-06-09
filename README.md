@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 22:29:43 GMT | The M&S Breach: A Wake-Up Call for Teams Still Chasing Malware | Natalie Torrijos | [Read More](https://medium.com/p/e7cd9a74cdb3) |
+| Mon, 09 Jun 2025 22:23:33 GMT | Data Encryption Standard (DES) | Raviteja Mureboina | [Read More](https://medium.com/p/45918edbef13) |
+| Mon, 09 Jun 2025 22:22:39 GMT | Hacking the Frontlines: A Pen Tester’s Take on June 9, 2025 Cybersecurity Threats | hackerguy | [Read More](https://medium.com/p/6ee6dca91299) |
+| Mon, 09 Jun 2025 22:16:39 GMT | Automating Subdomain Enumeration: Tools and Techniques that Scale | Karthikeyan Nagaraj | [Read More](https://medium.com/p/caceadf70c03) |
 | Mon, 09 Jun 2025 22:10:58 GMT | The girl who’s too good to be true | Christypeace | [Read More](https://medium.com/p/080a0bafbcd8) |
+| Mon, 09 Jun 2025 22:10:40 GMT | GraphQL Role Escalation and Data Exposure | Omer Mohsen | [Read More](https://medium.com/p/4cc340431289) |
 | Mon, 09 Jun 2025 22:06:25 GMT | Hacking the Headlines: A Pen Tester’s Take on June 9, 2025 Cybersecurity Events | Pentestjunkie07 | [Read More](https://medium.com/p/a47ff03e6ffd) |
 | Mon, 09 Jun 2025 22:03:57 GMT | Streamlining Threat Intelligence Reporting with GenAI: from Theory to Practical Success | Awalin Sopan | [Read More](https://medium.com/p/58b91df4f233) |
 | Mon, 09 Jun 2025 22:03:33 GMT | Zabbix İzleme Sistemi ile Grafana Görselleştirme ve Telegram Uyarı Entegrasyonu | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/d35245112d9f) |
+| Mon, 09 Jun 2025 21:58:47 GMT | Hack for a Billion: How I Simulated the Collapse of Apple Without Writing a Single Line of Code | Obmanwikobmanwik | [Read More](https://medium.com/p/82dad7f1d5e8) |
 | Mon, 09 Jun 2025 21:55:06 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/1345b1f6aaea) |
 | Mon, 09 Jun 2025 21:46:12 GMT | PentestGPT: The Future of Automated Penetration Testing with AI | Ekene Joseph | [Read More](https://medium.com/p/256799a378ae) |
 | Mon, 09 Jun 2025 21:41:40 GMT | Mastering Threat Intelligence in Wazuh: A Step-by-Step Guide with OTX Integration | ierdnA | [Read More](https://medium.com/p/f0180b72747b) |
@@ -38,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 19:25:40 GMT | BehindTheScreens: Ransomware Surge, Data Leaks, and Global Cyber Clashes (June 2–9, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/2f8c8bf4ac35) |
 | Mon, 09 Jun 2025 19:24:33 GMT | What Is Penetration Testing? Tools, Techniques, and Why It Matters | 0b1d1 | [Read More](https://medium.com/p/cb08746e86de) |
 | Mon, 09 Jun 2025 19:16:58 GMT | Online Predators: How They Target Your Child (Real Warning Signs Every Parent Must Know) | Kinky | [Read More](https://medium.com/p/75f665b6cf60) |
+| Mon, 09 Jun 2025 19:14:36 GMT | Cảnh báo: Các gói độc hại trên PyPI, npm và RubyGems — Chúng ta cần hành động ngay! | Khue Pham | [Read More](https://medium.com/p/ab2362f831fe) |
 | Mon, 09 Jun 2025 19:02:57 GMT | Mac Hunt THM - Writeup | Domon | [Read More](https://medium.com/p/bbdaed316031) |
 | Mon, 09 Jun 2025 18:48:36 GMT | Precision Underwriting: How AI Is Reshaping Risk Assessment and Pricing in P&C Insurance | Nivedita Rahul | [Read More](https://medium.com/p/db2fa9871077) |
 | Mon, 09 Jun 2025 18:43:18 GMT | XSS in Hidden Input Without User Interaction | Mahmoud Gamal | [Read More](https://medium.com/p/acbd530c89b6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 15:02:09 GMT | Proactive Defense: How Phoenix Network Security Uses Analytics to Stop Threats | Blue Fox Group | [Read More](https://medium.com/p/493ce52f1257) |
 | Mon, 09 Jun 2025 15:01:06 GMT | The Ache for Substance | Brianna O'Keefe | [Read More](https://medium.com/p/e6a09314681c) |
 | Mon, 09 Jun 2025 14:59:46 GMT | He’s Not Emotionally Unavailable, He’s Just Tired of Being Used for Stability and Sex | X-Plain | [Read More](https://medium.com/p/739d52b0e309) |
-| Mon, 09 Jun 2025 14:58:18 GMT | Data Annotation for Security & Surveillance | Andrew Hudson | [Read More](https://medium.com/p/2e4d72a61476) |
-| Mon, 09 Jun 2025 14:58:12 GMT | Our API Keys Leaked in a Git Repo — Here’s How We Cleaned It Up | ThreadSafe Diaries | [Read More](https://medium.com/p/81a4171ab9db) |
-| Mon, 09 Jun 2025 14:57:46 GMT | The 48-Hour Digital Death: How KiranaPro Lost Everything in India’s Most Catastrophic Startup… | NeuralNiki | [Read More](https://medium.com/p/19da721d0210) |
-| Mon, 09 Jun 2025 14:57:01 GMT | So You Want to Be a SOC Analyst Reloaded? (Part 1) | Cristhian Azuero | [Read More](https://medium.com/p/18ca16feeec7) |
-| Mon, 09 Jun 2025 14:51:15 GMT | Why Most Multi-Cloud Security Strategies Are Doomed to Fail (And How to Build One That Actually… | Andrei Ivan | [Read More](https://medium.com/p/9052ad9c1d69) |
-| Mon, 09 Jun 2025 14:49:09 GMT | OWASP Top 10: 10 “Dosa Besar” Aplikasi Web | LunarX | [Read More](https://medium.com/p/0105b5c0e91d) |
-| Mon, 09 Jun 2025 14:47:03 GMT | How a Market Survey Cost My Nanny Her Job | Sam Galope | [Read More](https://medium.com/p/30dccb2018e9) |
