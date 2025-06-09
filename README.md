@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 05:21:45 GMT | How a Simple Git Leak Led to AWS Keys & Database Credentials | TheRoyHunter313 | [Read More](https://medium.com/p/1f24ed5bd665) |
+| Mon, 09 Jun 2025 05:20:08 GMT | My Career Transformation: From M&E Expert to IT Support Specialist | Simon A. Augustine | [Read More](https://medium.com/p/951a74ada7af) |
+| Mon, 09 Jun 2025 05:10:15 GMT | Logistics Security Robotics | Presslink Media | [Read More](https://medium.com/p/2f03a707b928) |
+| Mon, 09 Jun 2025 05:04:02 GMT | How I bypassed the same open redirect endpoint not once, not twice… but FOUR times | Ektu_Hacker/SANDIP | [Read More](https://medium.com/p/1299a56c75f4) |
+| Mon, 09 Jun 2025 05:03:03 GMT | What is RAAS and Why Should You Be Alert? | Certera | [Read More](https://medium.com/p/b4c025295239) |
+| Mon, 09 Jun 2025 05:02:39 GMT | 25 Linux Pipe Combinations That Will Blow your Mind | Saikat Paul | [Read More](https://medium.com/p/31b48a82e1ee) |
+| Mon, 09 Jun 2025 04:57:46 GMT | CyberTalents CTF Writeups — My Real-World Exploitation Journey (2024) | Ibraheem EL-Mougy | [Read More](https://medium.com/p/251c6dd7cf7f) |
+| Mon, 09 Jun 2025 04:56:29 GMT | OWASP TOP 10? | Janod Abesekara | [Read More](https://medium.com/p/32aabdc15fad) |
 | Mon, 09 Jun 2025 04:50:45 GMT | Lex Algorithmi, Lex Imperfecta? The Limits of Legal Translation in the EU AI Act | Danish | [Read More](https://medium.com/p/9b5bfa36caa7) |
 | Mon, 09 Jun 2025 04:49:53 GMT | Lab Rats: 5 More Essentials For Your RF Hack Lab | Investigator515 | [Read More](https://medium.com/p/599c0906b4d0) |
 | Mon, 09 Jun 2025 04:48:37 GMT | Security in the Intelligent Age — Cyber Security Law, Regulation and Policy. | Harsha Madushanka | [Read More](https://medium.com/p/1f2812f88b8a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 19:10:00 GMT | Supply-Chain Malware Targets Popular NPM & PyPI Packages in GlueStack Attack | Ronit Yadav | [Read More](https://medium.com/p/5cec43cf2a6a) |
 | Sun, 08 Jun 2025 19:07:05 GMT | ArchCrack: A Simple Brute-Force Tool for Archive Passwords | Steven Juliano | [Read More](https://medium.com/p/48aa917c4720) |
 | Sun, 08 Jun 2025 19:05:07 GMT | My Cyber Security Journey Begins: Why I’m Starting With Linux | Okoye Munachi | [Read More](https://medium.com/p/462ce5d04937) |
-| Sun, 08 Jun 2025 18:53:56 GMT | Day 16: Even More CSRF | Nile Okomo | [Read More](https://medium.com/p/a4eb96ae9254) |
-| Sun, 08 Jun 2025 18:52:10 GMT | What Is Open Redirect? The Simple Bug With Dangerous Consequences | Parsa Mahmoudi | [Read More](https://medium.com/p/5ae606e0324a) |
-| Sun, 08 Jun 2025 18:48:40 GMT | Microsandbox: Solving the Code Execution Security Dilemma | Simardeep Singh | [Read More](https://medium.com/p/4e3ea9138ef8) |
-| Sun, 08 Jun 2025 18:45:07 GMT | Cybersecurity & Insurance: The Unlikely Partnership Businesses Can’t Ignore | Seema Nair | [Read More](https://medium.com/p/44e4b173e0fc) |
-| Sun, 08 Jun 2025 18:41:35 GMT | Simulasi Brute Force Login dan Implementasi Lockout Protection dengan Python dan Flask | Muhammad Idham Cholid | [Read More](https://medium.com/p/52f2d20bb452) |
-| Sun, 08 Jun 2025 18:27:41 GMT | Port Scanning with Linux: Identify Open and Closed Ports Easily | Natarajan C K | [Read More](https://medium.com/p/3b843c1fc452) |
-| Sun, 08 Jun 2025 18:21:48 GMT | The Silent Leak: Unseen Threats Lurking in GenAI Prompts | Avnishyam | [Read More](https://medium.com/p/f61d067a5e10) |
-| Sun, 08 Jun 2025 18:15:42 GMT | Cyber Threat Analyzer Using LLMs and Cloud | Surya G | [Read More](https://medium.com/p/5fb39fb80b4c) |
