@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 16:26:59 GMT | Top Cybersecurity Companies Making Waves in 2025 | John Cafe | [Read More](https://medium.com/p/0e1b828a6faa) |
+| Mon, 09 Jun 2025 16:14:19 GMT | Mastering PHP Security: Protecting Your Applications Like a Pro | Ann R. | [Read More](https://medium.com/p/40f4bf38c79c) |
+| Mon, 09 Jun 2025 16:09:45 GMT | Lesson Learned? | Ahmed Mounir | [Read More](https://medium.com/p/d3defba09ab6) |
+| Mon, 09 Jun 2025 16:08:16 GMT | How to Implement Blockchain Technology for Cybersecurity in IT | Jhon Smith | [Read More](https://medium.com/p/91448466d7e0) |
+| Mon, 09 Jun 2025 16:05:39 GMT | Teens and Cyberbullying | Riaz Laghari | [Read More](https://medium.com/p/ece1d2d55f37) |
+| Mon, 09 Jun 2025 15:58:48 GMT | How I Passed the CompTIA CySA+ on My First Try (with No Prior CompTIA Certs or SOC Experience) | Brittney Ginther | [Read More](https://medium.com/p/13bc82a84241) |
+| Mon, 09 Jun 2025 15:57:19 GMT | Skandova Review - Is It Possible To Recover Your Money From Skandova? | Conor Mackay | [Read More](https://medium.com/p/bacaa18fbb74) |
+| Mon, 09 Jun 2025 15:55:46 GMT | Passive Recon with DevTools: Extract URL Paths | Vijay Kumar Gupta | [Read More](https://medium.com/p/b20584fab44a) |
+| Mon, 09 Jun 2025 15:49:07 GMT | Challenge: Crack the Hash (THM) - Write-Up #2 | D4m.sh | [Read More](https://medium.com/p/ffa4e917fb37) |
+| Mon, 09 Jun 2025 15:47:08 GMT | Here’s How I Recover My Money From Tradeeuglobal | Lawrence wilson | [Read More](https://medium.com/p/16e7b5b91d0b) |
+| Mon, 09 Jun 2025 15:42:11 GMT | GraphQL Gatecrash: When an Introspection Query Opened the Whole Backend ️ | Iski | [Read More](https://medium.com/p/5ec2a74ac20a) |
+| Mon, 09 Jun 2025 15:41:50 GMT | BOLT — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/6a1cc10ffc27) |
+| Mon, 09 Jun 2025 15:37:44 GMT | Cyber Security In the Cloud | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/1f03200a6c55) |
 | Mon, 09 Jun 2025 15:32:19 GMT | s3 bucket and firebase misconfigurtion Part-1 | DOD cyber solutions | [Read More](https://medium.com/p/76c15c90628f) |
 | Mon, 09 Jun 2025 15:30:35 GMT | Cybersecurity in Social Tech: Safeguarding the Digital Public Square | Grace James kaka | [Read More](https://medium.com/p/2d3cd266c7f0) |
 | Mon, 09 Jun 2025 15:29:06 GMT |  | NexusWeawerInitiative | [Read More](https://medium.com/p/8850e6762bc1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 11:22:24 GMT | HTML Injection in Traveler Profiles | Ehtesham Ul Haq | [Read More](https://medium.com/p/e251be22dc7d) |
 | Mon, 09 Jun 2025 11:17:22 GMT | Ethical Hacking Fundamentals for Software Quality Engineers: Key Terminologies, Network Overview… | Dimuth C Bandara | [Read More](https://medium.com/p/bb34c5212f65) |
 | Mon, 09 Jun 2025 11:17:20 GMT | Best Career in Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/cec3e65dd21b) |
-| Mon, 09 Jun 2025 11:16:40 GMT | Cybercrime Universities of the Dark Web: How Hackers Learn, Train, and Recruit | Sandesh Kumar | [Read More](https://medium.com/p/1f78e3707afb) |
-| Mon, 09 Jun 2025 11:05:55 GMT | Web Application VAPT Services: Why Every Business Needs It | StrongBox IT | [Read More](https://medium.com/p/99b4b56987c5) |
-| Mon, 09 Jun 2025 11:05:53 GMT | Top 6 Mistakes Businesses Make Without Managed IT Support | Elevate | [Read More](https://medium.com/p/f0ade125ac52) |
-| Mon, 09 Jun 2025 11:03:24 GMT | Xavfsizlikni Django koddan tashqarida saqlang. | Murodali Narzullayev | [Read More](https://medium.com/p/6bce1330a26a) |
-| Mon, 09 Jun 2025 11:02:29 GMT | Quantelix’s Digital Finance Essentials: Mastering Skills for Indonesia’s Cashless Revolution | Quantelix Financial Intelligence Academy | [Read More](https://medium.com/p/0c811d103d6a) |
-| Mon, 09 Jun 2025 11:00:42 GMT | Best cybersecurity consulting services | StrongBox IT | [Read More](https://medium.com/p/eddef3beb252) |
-| Mon, 09 Jun 2025 11:00:41 GMT | 21 AWS Cloud Security Strategies To Transform Your Business by 2025 | SecureSlate | [Read More](https://medium.com/p/9e83d6fd1095) |
-| Mon, 09 Jun 2025 11:00:01 GMT | Why URL Scanning Is Key to Web Safety: A 2025 Guide | Judit babu | [Read More](https://medium.com/p/c1cfdde7364e) |
-| Mon, 09 Jun 2025 10:58:45 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/8b5f9387979b) |
-| Mon, 09 Jun 2025 10:54:37 GMT | TEST #1: Exploiting Insecure API Endpoints | D4m.sh | [Read More](https://medium.com/p/6ce4a0c990e2) |
-| Mon, 09 Jun 2025 10:52:55 GMT | I Broke Into /etc/passwd Using Path Traversal | Sumanth Yerranagula | [Read More](https://medium.com/p/71047fe37fa3) |
-| Mon, 09 Jun 2025 10:50:18 GMT | Oversharing Isn’t Always Openness | Dilara | [Read More](https://medium.com/p/48c6b50c0e09) |
-| Mon, 09 Jun 2025 10:49:42 GMT | Cybersecurity: Your Ultimate Shield in 2025 — A Game-Changer You Can’t Afford to Ignore! | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/00a9950b6f0e) |
