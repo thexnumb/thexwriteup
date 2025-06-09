@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 07:08:15 GMT | Data Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f019816d82c7) |
+| Mon, 09 Jun 2025 07:04:51 GMT | Passwords Are Fading Biometrics Are In | Arpana | [Read More](https://medium.com/p/bc2e2c52ab41) |
+| Mon, 09 Jun 2025 07:00:11 GMT | Meta Eyes Massive $10B+ Investment in Scale AI: The Next Leap in Generative Intelligence | Tech Thrilled | [Read More](https://medium.com/p/bcfc4536f64d) |
+| Mon, 09 Jun 2025 06:56:42 GMT | Security Audits in Delhi NCR: The Silent Armor of Your Business & Life | Anshikaaa | [Read More](https://medium.com/p/b8ec396e4d0e) |
+| Mon, 09 Jun 2025 06:50:36 GMT | Every day, SWIFT-connected systems process billions of dollars in transactions globally, which… | Biz Serve IT | [Read More](https://medium.com/p/07e3d5d9b08f) |
+| Mon, 09 Jun 2025 06:39:21 GMT | Custom App Development in Riyadh — A Smart Business Move. | Five Programmers | [Read More](https://medium.com/p/29a2ee8e72ca) |
+| Mon, 09 Jun 2025 06:38:59 GMT | What Is the Role of Artificial Intelligence in Enhancing 5G Cybersecurity? | Anshul Goyal | [Read More](https://medium.com/p/8b10cb740002) |
+| Mon, 09 Jun 2025 06:38:00 GMT | OverTheWire(Bandit) Labs | Gopal Mohan | [Read More](https://medium.com/p/ff3f42d7ddf8) |
+| Mon, 09 Jun 2025 06:37:23 GMT | Securing Financial Transactions with SWIFT CSCF Control 2.9 | Biz Serve IT | [Read More](https://medium.com/p/3c1918c34f24) |
+| Mon, 09 Jun 2025 06:36:24 GMT | How Fast Are Cyber Threats Exploiting New Vulnerabilities in 2025? | Zeron | [Read More](https://medium.com/p/aad27c6f5c22) |
+| Mon, 09 Jun 2025 06:32:30 GMT | Stay Ahead of Hackers: Why Understanding Penetration Testing Services Is Essential for Every… | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/65d883d7313d) |
+| Mon, 09 Jun 2025 06:30:01 GMT | My Internship at Startecon: From Python to Pranks and Everything In Between | SampradaKhadka | [Read More](https://medium.com/p/2fb20e3995a6) |
+| Mon, 09 Jun 2025 06:27:39 GMT | Victoria’s Secret Cyber Incident Disrupts Online and In-Store Services | SafetyDetectives Research Team | [Read More](https://medium.com/p/f0098ea60812) |
+| Mon, 09 Jun 2025 06:23:48 GMT | Kriptografi ECC dan WEB3 | Aji Gelar | [Read More](https://medium.com/p/180d20b7e103) |
 | Mon, 09 Jun 2025 06:22:49 GMT | Cybersecurity in Modern IT Architecture: Cloud, Serverless, SCADA, and Beyond | unica 02 | [Read More](https://medium.com/p/81ee229cab72) |
 | Mon, 09 Jun 2025 06:16:07 GMT | A Brief Guide To ECC, Web3 Cryptography, and Threats | Daarin | [Read More](https://medium.com/p/2f5460bc3dcb) |
 | Mon, 09 Jun 2025 06:12:30 GMT | 50 Command Line Tools You Wish You Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/833908ca951e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 23:23:51 GMT | When should you perform attestation in confidential VMs | ijlal | [Read More](https://medium.com/p/830c9c80ea55) |
 | Sun, 08 Jun 2025 23:17:06 GMT | Day 12: The Anthropic’s MCP as a Data Agent - Security (Part 7) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/96adda7efc98) |
 | Sun, 08 Jun 2025 23:12:28 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/319ae133ee09) |
-| Sun, 08 Jun 2025 23:02:15 GMT | Julio Rene Alfonso Segura — OmniScriptum Publishing | Julio Rene Alfonso Segura | [Read More](https://medium.com/p/349fa93e3b93) |
-| Sun, 08 Jun 2025 22:34:27 GMT | CTF Writeup — TJCTF 2025 — mouse-trail | embossdotar | [Read More](https://medium.com/p/eb37a18a372e) |
-| Sun, 08 Jun 2025 22:32:17 GMT | BLASTER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/2f1ad1de0160) |
-| Sun, 08 Jun 2025 22:29:27 GMT | Shifting IT & Security In-House: My Blueprint | 9purp0s3 - Steven | [Read More](https://medium.com/p/229ea250ba39) |
-| Sun, 08 Jun 2025 22:27:23 GMT | Cybersecurity Foundations Mastered Officially ISC2 CC Certified | Lucywillaim | [Read More](https://medium.com/p/2fc9460c575d) |
-| Sun, 08 Jun 2025 22:17:20 GMT | How to Build a Scalable Network Security Architecture for Enterprises | Karthikeyan Nagaraj | [Read More](https://medium.com/p/ac21d52fc469) |
-| Sun, 08 Jun 2025 22:02:35 GMT | I Mastered Linux Crushing this Free Challenge! | Daniel. Alegria Lino | [Read More](https://medium.com/p/129d30ec9ee1) |
-| Sun, 08 Jun 2025 22:02:13 GMT | Firewalls Against Oblivion: The Invisible Defenders of Ukraine | Philip Laureano | [Read More](https://medium.com/p/af51aa2d7bf6) |
-| Sun, 08 Jun 2025 21:45:49 GMT | ¿Cuándo vas a gritar? | ruoye | [Read More](https://medium.com/p/f41e43907801) |
-| Sun, 08 Jun 2025 21:45:07 GMT | From Rejections to Accomplishment: Landing My First Cybersecurity Internship in USA | Henil Gandhi | [Read More](https://medium.com/p/285eea628a9a) |
-| Sun, 08 Jun 2025 21:44:53 GMT | AI for Cybersecurity with Labs | Tyler Wall | [Read More](https://medium.com/p/5f78a2db570d) |
-| Sun, 08 Jun 2025 21:29:25 GMT | Demystifying Industrial Tech: Why Zero Trust Matters on the Shop Floor | Thomas Rauch | [Read More](https://medium.com/p/93e8ab96626c) |
-| Sun, 08 Jun 2025 21:24:56 GMT | [Hack The Box Web Challenge] Insomnia Write Up | fnwn | [Read More](https://medium.com/p/d9a0b82d8377) |
-| Sun, 08 Jun 2025 21:22:04 GMT | Data Protection Deep Dive Series — One Week, One Theme at a Time | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/ea08bd10f6bd) |
