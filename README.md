@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 01:43:58 GMT | ToolHive Tutorial: Securely Deploy and Manage MCP Servers | Pawan Jaiswal | [Read More](https://medium.com/p/9d44ed541e6e) |
+| Mon, 09 Jun 2025 01:32:30 GMT | System Hacking 101: The Complete Guide to Gaining Unauthorized Access | sixxish | [Read More](https://medium.com/p/6f8582c59a63) |
+| Mon, 09 Jun 2025 01:22:25 GMT | Apa Itu CVE? (Common Vulnerabilities and Exposures) | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/04d50074a63f) |
+| Mon, 09 Jun 2025 01:12:12 GMT | How a Springfield Cybersecurity Company Helps Secure Cloud Networks from Modern Threats | PCnet | [Read More](https://medium.com/p/d0c73baeb2a0) |
+| Mon, 09 Jun 2025 01:09:28 GMT | Bitcoin Is Not Digital Gold — It’s the World’s Strongest Decentralized Security Market | 曲明 | [Read More](https://medium.com/p/a04c48ecce37) |
+| Mon, 09 Jun 2025 01:07:34 GMT | How I Bypassed HackerOne’s 2FA in 5 Seconds | Ibtissam hammadi | [Read More](https://medium.com/p/77b517f9e770) |
+| Mon, 09 Jun 2025 01:05:59 GMT | Top 10 AWS Services Developers Use Every Day ‍ | Jaytech | [Read More](https://medium.com/p/01aa0065bb9b) |
+| Mon, 09 Jun 2025 01:02:25 GMT | How Retail Stores Are Boosting Experiences with Autonomous AI | iOmniscient | [Read More](https://medium.com/p/312c8dc74a58) |
+| Mon, 09 Jun 2025 00:48:32 GMT | From data to arms — reframing information design pedagogy | Kem-Laurin Lubin, Ph.D-C | [Read More](https://medium.com/p/2441c71ffc5e) |
+| Mon, 09 Jun 2025 00:45:31 GMT | Threats awareness is mandatory for vulnerability prioritization | Hisashi Yamaguchi | [Read More](https://medium.com/p/8e85da853cf3) |
+| Mon, 09 Jun 2025 00:45:21 GMT | Booking open for Everest Base Cam | Zen Explore Nepal | [Read More](https://medium.com/p/1f81b9bb57d8) |
+| Mon, 09 Jun 2025 00:34:47 GMT | Documentation: Hardening Linux Remote Tools — SSH | IndoHajk | [Read More](https://medium.com/p/76c07daa4aeb) |
+| Mon, 09 Jun 2025 00:33:51 GMT | Finally , Got Certified with EJpt Certification | Mr Horbio | [Read More](https://medium.com/p/7c136db7dea7) |
+| Mon, 09 Jun 2025 00:32:45 GMT | Behind the Shop: How a Simple SQLi in the Products Page Gave Me Full Access on Database | Waleed Osama | [Read More](https://medium.com/p/7f7a1d8b0223) |
+| Mon, 09 Jun 2025 00:05:59 GMT | Kurby DC — Easy Windows | neo mask | [Read More](https://medium.com/p/21b22cbb799b) |
+| Mon, 09 Jun 2025 00:04:55 GMT | Why Traditional Security Frameworks Are Failing Against AI Threats (And What Actually Works) | Andrei Ivan | [Read More](https://medium.com/p/62e2c58be930) |
+| Mon, 09 Jun 2025 00:00:30 GMT | CTF Writeup — TJCTF 2025 — guess-my-number | embossdotar | [Read More](https://medium.com/p/754847f18a48) |
+| Sun, 08 Jun 2025 23:48:49 GMT | HackTheBox - Nibbles | jniket | [Read More](https://medium.com/p/f7edf907e166) |
 | Sun, 08 Jun 2025 23:23:51 GMT | When should you perform attestation in confidential VMs | ijlal | [Read More](https://medium.com/p/830c9c80ea55) |
 | Sun, 08 Jun 2025 23:17:06 GMT | Day 12: The Anthropic’s MCP as a Data Agent - Security (Part 7) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/96adda7efc98) |
 | Sun, 08 Jun 2025 23:12:28 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/319ae133ee09) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 16:45:09 GMT | Phishing Attack Overview | Tobias Mathew | [Read More](https://medium.com/p/cb85066eb21b) |
 | Sun, 08 Jun 2025 16:39:51 GMT | TJCTF2025 — Web Challenges | Karim Qassem (Hush0x01) | [Read More](https://medium.com/p/8f119e210d1c) |
 | Sun, 08 Jun 2025 16:39:15 GMT | Ask LLM to Jailbreak LLM | restdone | [Read More](https://medium.com/p/553096dca2a5) |
-| Sun, 08 Jun 2025 16:37:40 GMT | Limited Labour Laws for Foreign Domestic Workers (FDWs) in Singapore | A | [Read More](https://medium.com/p/18c1dcc1f4b9) |
-| Sun, 08 Jun 2025 16:23:22 GMT | ‍ Is Hackintosh Still Worth It? The State of Hackintosh in 2025 | Nesan | [Read More](https://medium.com/p/ccf1a8ad9d79) |
-| Sun, 08 Jun 2025 16:23:13 GMT | Day 57: Bash Scripting- Exit Codes, exit, $?, and set -euo pipefail | Agarwaldaksh | [Read More](https://medium.com/p/cc477a4ef601) |
-| Sun, 08 Jun 2025 16:20:49 GMT | ICS dan SCADA: Sistem Penting di Balik Industri Modern | Riansatria | [Read More](https://medium.com/p/37a6443311ed) |
-| Sun, 08 Jun 2025 16:20:15 GMT | Brute Force Password File RAR pada Kali Linux | Rendizar Satria | [Read More](https://medium.com/p/f097ef988d4c) |
-| Sun, 08 Jun 2025 16:19:13 GMT | Menembus Login URL dengan Brute Force: Eksperimen Edukasi Menggunakan Python | Salhanchynt | [Read More](https://medium.com/p/3154ab92f6cb) |
-| Sun, 08 Jun 2025 16:17:58 GMT | The Internet Never Forgets | Wahid Najim | [Read More](https://medium.com/p/659d68810a94) |
-| Sun, 08 Jun 2025 16:16:49 GMT | RPC | Paintesteur | [Read More](https://medium.com/p/0fc11ad5ac3f) |
-| Sun, 08 Jun 2025 16:15:13 GMT | The Linux Concept Journey — Kernel Parameters | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b6f9741ac62e) |
-| Sun, 08 Jun 2025 16:13:03 GMT | Documentasi Hardening Linux Remote Via SSH | Riansatria | [Read More](https://medium.com/p/da680152315a) |
-| Sun, 08 Jun 2025 16:08:54 GMT | Burp Suite di Medan Tempur: Pecahkan Tantangan picoCTF introToBurp! | LunarX | [Read More](https://medium.com/p/846b2bc6d69c) |
-| Sun, 08 Jun 2025 16:08:43 GMT | Active Directory 101: Building a Secure Foundation for Enterprise IT | Odiomonafe Jamal . A | [Read More](https://medium.com/p/0a594e9aa71a) |
-| Sun, 08 Jun 2025 16:06:19 GMT | CI/CD Pipeline Security: DevSecOps Best Practices for 2025 | Rizqi Mulki | [Read More](https://medium.com/p/6cc1946f3f13) |
-| Sun, 08 Jun 2025 16:04:36 GMT | Exploiting LLM Excessive Agency: Lessons from BSides Bangalore | Juhie Chandra | [Read More](https://medium.com/p/0fd8586a57f3) |
-| Sun, 08 Jun 2025 16:04:23 GMT | Membuat Tool Brute Force untuk Login ke Web testphp.vulnweb.com | Adnan Musthafa Al amin | [Read More](https://medium.com/p/ed390139a41d) |
-| Sun, 08 Jun 2025 16:03:37 GMT | TTPs on-path Source Supply Chain of Computer Information Systems | Wilfred Achila | [Read More](https://medium.com/p/374c33ebb0ed) |
-| Sun, 08 Jun 2025 16:01:41 GMT | 50 Linux Pentesting One-Liners: The Ultimate Cheat Sheet for Fast Recon, Enumeration & Exploitation | Pratham Shah | [Read More](https://medium.com/p/6545238be131) |
-| Sun, 08 Jun 2025 16:00:20 GMT | The English Rules for SOC Analysts | Tyler Wall | [Read More](https://medium.com/p/7280021700b2) |
