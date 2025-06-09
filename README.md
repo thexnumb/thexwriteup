@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 23:06:42 GMT | From Math to Market: How Dilithium & Falcon Forge Compact, Quantum-Safe Signatures | PinakashieldTech OÜ | [Read More](https://medium.com/p/4496690de0d8) |
+| Mon, 09 Jun 2025 23:05:41 GMT | 09039689679 | شماره خاله #شماره خاله تهران #خاله09052028942 | [Read More](https://medium.com/p/a0e8922577d4) |
+| Mon, 09 Jun 2025 22:42:11 GMT | 60 Abscences and a Pulse | maple syrup fox | [Read More](https://medium.com/p/7ce09d1a7410) |
+| Mon, 09 Jun 2025 22:31:43 GMT | Unmasking the Chaos: A Pen Tester’s View on June 9, 2025 Cybersecurity Events | Inforsecpro | [Read More](https://medium.com/p/4cb5bdf94aca) |
 | Mon, 09 Jun 2025 22:29:43 GMT | The M&S Breach: A Wake-Up Call for Teams Still Chasing Malware | Natalie Torrijos | [Read More](https://medium.com/p/e7cd9a74cdb3) |
 | Mon, 09 Jun 2025 22:23:33 GMT | Data Encryption Standard (DES) | Raviteja Mureboina | [Read More](https://medium.com/p/45918edbef13) |
 | Mon, 09 Jun 2025 22:22:39 GMT | Hacking the Frontlines: A Pen Tester’s Take on June 9, 2025 Cybersecurity Threats | hackerguy | [Read More](https://medium.com/p/6ee6dca91299) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 15:11:31 GMT | On-Demand Osquery Execution via Wazuh Active Response | Yash Patel | [Read More](https://medium.com/p/752ecdde5205) |
 | Mon, 09 Jun 2025 15:07:24 GMT | Hardening Enterprise Linux — Essential Security Measures Every Security Engineer Must Know | Hantz Jermain | [Read More](https://medium.com/p/e63e85b71cbc) |
 | Mon, 09 Jun 2025 15:04:28 GMT | Here Is How I Recover My Money From Tastytrade | Junior McDonald | [Read More](https://medium.com/p/23c16aff1ae6) |
-| Mon, 09 Jun 2025 15:04:04 GMT | How to Integrate GPT with Kali Linux for Smarter Hacking Workflows | Michael Yeibo | [Read More](https://medium.com/p/7c330f199a5e) |
-| Mon, 09 Jun 2025 15:02:09 GMT | Proactive Defense: How Phoenix Network Security Uses Analytics to Stop Threats | Blue Fox Group | [Read More](https://medium.com/p/493ce52f1257) |
-| Mon, 09 Jun 2025 15:01:06 GMT | The Ache for Substance | Brianna O'Keefe | [Read More](https://medium.com/p/e6a09314681c) |
-| Mon, 09 Jun 2025 14:59:46 GMT | He’s Not Emotionally Unavailable, He’s Just Tired of Being Used for Stability and Sex | X-Plain | [Read More](https://medium.com/p/739d52b0e309) |
