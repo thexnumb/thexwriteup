@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 14:40:01 GMT | Not Every Bug is a Blocker — How I Prioritize Issues | Higor Mesquita | [Read More](https://medium.com/p/a0f6c3dbdb47) |
+| Mon, 09 Jun 2025 14:37:02 GMT | Practical study material OSWP Part 1: WPA2-PSK Walkthrough | Nol White Hat | [Read More](https://medium.com/p/cd4d869ae784) |
+| Mon, 09 Jun 2025 14:36:19 GMT | Practical study material OSWP Part 2: WPA2-MGT Walkthrough | Nol White Hat | [Read More](https://medium.com/p/d87d11a77aa8) |
+| Mon, 09 Jun 2025 14:35:02 GMT | Practical study material OSWP Part 3: WEP Walkthrough | Nol White Hat | [Read More](https://medium.com/p/5dd2fe8ae176) |
+| Mon, 09 Jun 2025 14:31:50 GMT | CTF Write-up: MacLock (Certified Cyber Defenders | itsGir | [Read More](https://medium.com/p/b0fef014e96f) |
+| Mon, 09 Jun 2025 14:30:57 GMT | Open Is More Secure: The Case for Open Source in Government Cybersecurity | Fen Labalme | [Read More](https://medium.com/p/491095ae934c) |
+| Mon, 09 Jun 2025 14:29:36 GMT | Exlity = Excellence in Motion | EXLITY | [Read More](https://medium.com/p/75340be7bc25) |
+| Mon, 09 Jun 2025 14:19:56 GMT | Simple bruteforce file zip using Rust | Dimas Fajar Kurniawan | [Read More](https://medium.com/p/3336e494fc1d) |
 | Mon, 09 Jun 2025 14:19:35 GMT | Internal Penetration Test Report | Amatheusfeitosam | [Read More](https://medium.com/p/a0ef83f3448d) |
 | Mon, 09 Jun 2025 14:15:24 GMT | AI’s Trojan Horse | Thomas Rauch | [Read More](https://medium.com/p/0d644a3f5e40) |
 | Mon, 09 Jun 2025 14:13:43 GMT | Samsung to Delete Inactive Accounts — Log in Before It’s Gone! | Hamid Reza Razeghi | [Read More](https://medium.com/p/63e5c4b392df) |
@@ -25,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 13:44:52 GMT | Cryptocurrency in 2025: Navigating New Regulations and Maximizing Digital Wallet Security | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/3f31284c38a6) |
 | Mon, 09 Jun 2025 13:42:53 GMT | Understanding Hypervisors: Type 1 vs Type 2 – A Clear Guide to Virtualization | Zeli | [Read More](https://medium.com/p/f0374052b210) |
 | Mon, 09 Jun 2025 13:42:35 GMT | Application Security in 2025: Trends, Threats, and How EDSPL Stays Ahead | saurabh cyberinfomines | [Read More](https://medium.com/p/8ad086b674d5) |
+| Mon, 09 Jun 2025 13:33:53 GMT | Privilege Escalation Melalui Manipulasi Role di program hackerone | cakaras | [Read More](https://medium.com/p/a8924c2b0e28) |
 | Mon, 09 Jun 2025 13:30:51 GMT | Can You Really Trust Third‑Party Scripts? Here’s How to Find Out | Sanjeevani Bhandari | [Read More](https://medium.com/p/c3bc68b4de80) |
 | Mon, 09 Jun 2025 13:27:56 GMT | Emotions Are Not Weakness: A Personal Story and Psychological Insight | Sathya Durga | [Read More](https://medium.com/p/5696a68173bb) |
 | Mon, 09 Jun 2025 13:25:43 GMT | The Great Digital Exodus: What the SK Telecom Data Breach Teaches Us About Customer Trust in the… | Technijian | [Read More](https://medium.com/p/6f2d1b0d6f36) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 09:36:06 GMT | How Can Companies Benefit from Hiring Ethical Hackers | Medora Grasser | [Read More](https://medium.com/p/e246d3c86561) |
 | Mon, 09 Jun 2025 09:26:37 GMT | Comparing Mobile App Development Firms in Dubai — What Every Business Should Know. | Five Programmers | [Read More](https://medium.com/p/81dfee29239f) |
 | Mon, 09 Jun 2025 09:22:19 GMT | The Daily Tech Digest: 09 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6ec3cced8d25) |
-| Mon, 09 Jun 2025 09:19:56 GMT | Naked truth. | Suhani Kandakatlla | [Read More](https://medium.com/p/03eeaa8c42cb) |
-| Mon, 09 Jun 2025 09:17:45 GMT | Mengawasi Aset Digital dengan File Integrity Monitoring (FIM) di Wazuh | Sigit Adi Irianto | [Read More](https://medium.com/p/a04181d69598) |
-| Mon, 09 Jun 2025 09:12:58 GMT | Understanding ECC and Web3 Cryptography: Strengths and Threats | Rezaaditria | [Read More](https://medium.com/p/3db93c55cda3) |
-| Mon, 09 Jun 2025 09:07:41 GMT | Running Docker in Docker (DinD): Power Move or a Dangerous Hack? | Sandesh Kumar | [Read More](https://medium.com/p/ea6c4dca57f6) |
-| Mon, 09 Jun 2025 09:07:23 GMT | Tryhackme Network Services room | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/017013dab69f) |
-| Mon, 09 Jun 2025 09:05:39 GMT | Smart URL Scanning: Protecting the Web from Hidden Threats | Judit babu | [Read More](https://medium.com/p/9707c9f565fb) |
-| Mon, 09 Jun 2025 09:02:39 GMT | Should I Stop Caring and Let IP Address Reputation Sort Them Out? | Peter Hansteen | [Read More](https://medium.com/p/23e48a5d7be8) |
-| Mon, 09 Jun 2025 09:02:20 GMT | Is Your Kubernetes Cluster Running on Trust? Why Image Verification Is No Longer Optional | Chimbu Chinnadurai | [Read More](https://medium.com/p/a0da6c99d9f5) |
-| Mon, 09 Jun 2025 09:02:20 GMT | Win Big With These GRC Frameworks | Harry West | [Read More](https://medium.com/p/b26fa54766bf) |
