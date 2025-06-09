@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 03:59:09 GMT | How Phishing Attacks Exploit Subdomains to Deceive Users | William Ma | [Read More](https://medium.com/p/5ed741002c07) |
+| Mon, 09 Jun 2025 03:55:06 GMT | Has Technology Outgrown the People It’s Supposed to Help? | C. Valentine | [Read More](https://medium.com/p/d6ad52e029ab) |
+| Mon, 09 Jun 2025 03:54:17 GMT | eBPF: Modern Day Linux Observability and Security | ompatil | [Read More](https://medium.com/p/0231d48c02ad) |
+| Mon, 09 Jun 2025 03:49:40 GMT | Why Cyber Security Development Is Essential for Business Growth and Continuity? | Webtrills | [Read More](https://medium.com/p/37cb6eab0898) |
+| Mon, 09 Jun 2025 03:36:39 GMT | Smart Building & Facility Management with Blockchain–Edge Fusion: The New Era of Secure, Autonomous… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/5d4e758a4a5c) |
+| Mon, 09 Jun 2025 03:36:24 GMT | It Wasn’t a Hack — We Just Forgot to Secure It | Sec with Sun | [Read More](https://medium.com/p/bbbfa47eca62) |
+| Mon, 09 Jun 2025 03:32:12 GMT | Behind the Breach: The Silent Siege on Sensata Technologies | Deven Chhajed | [Read More](https://medium.com/p/34ca90a51b6f) |
+| Mon, 09 Jun 2025 03:31:17 GMT | The Silent Threat in Your Smart Enterprise: Why IoT Security Can’t Be Tomorrow’s Problem | Biswajeet Poddar | [Read More](https://medium.com/p/b54fdbc1dee8) |
+| Mon, 09 Jun 2025 03:26:28 GMT | “Phishing, Explained Simply: Why One Click Can Compromise a Whole Organization” | Sec with Sun | [Read More](https://medium.com/p/b432bef4c4bb) |
 | Mon, 09 Jun 2025 03:00:08 GMT | $500 OTP Bypass: Found It, Proved It, Then… | Kailasv | [Read More](https://medium.com/p/3930c9e45d4f) |
 | Mon, 09 Jun 2025 02:52:18 GMT | HTB Academy — Information Gathering Web Edition (skill assessment) | BotsiCat | [Read More](https://medium.com/p/39ad5d294b3c) |
 | Mon, 09 Jun 2025 02:34:49 GMT | Unmasking the Secrets of Hashing: A Simple Way to Crack Hashes Using Python | IndoHajk | [Read More](https://medium.com/p/d72903b88578) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 17:45:57 GMT | In 2025, Building From Scratch Is a Red Flag — The Real Technical Challenges Start After the Code | Ilakian Puvanendra | [Read More](https://medium.com/p/0db5f14040d0) |
 | Sun, 08 Jun 2025 17:40:17 GMT | SOC102 — Proxy — Suspicious URL Detected - Event ID: 32 | Cyril Philipp Abajar | [Read More](https://medium.com/p/714e1079ac58) |
 | Sun, 08 Jun 2025 17:34:21 GMT | Telnet Exploit on Metasploitable 2 Port 23 | Kizito Arinze Chukwu | [Read More](https://medium.com/p/0a9ec4aa498b) |
-| Sun, 08 Jun 2025 17:31:14 GMT | General Foundation Models and Their General Problems | Mayank Kumar | [Read More](https://medium.com/p/75255ff5bfa4) |
-| Sun, 08 Jun 2025 17:30:06 GMT | Food is more political than you think. | Archita N | [Read More](https://medium.com/p/29eb83299db1) |
-| Sun, 08 Jun 2025 17:29:21 GMT | Unlocking Deeper Security Insights: Introducing AI SSH/DB/K8 Session Analysis | Border0 | [Read More](https://medium.com/p/7217fbd61adf) |
-| Sun, 08 Jun 2025 17:24:53 GMT | Eksperimen Brute Force MAC Address: Membedah Sistem Keamanan Jaringan Tingkat Data Link | Dzakwan Efendi | [Read More](https://medium.com/p/63b1a58433d8) |
-| Sun, 08 Jun 2025 17:22:13 GMT | Blue → TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/247577d7dfb1) |
-| Sun, 08 Jun 2025 17:17:06 GMT | Bash Scripting — Tryhackme | Fuad Hasan | [Read More](https://medium.com/p/42c3a0cdbddb) |
-| Sun, 08 Jun 2025 17:14:05 GMT | CompTIA A+ Certification: A Comprehensive Guide for Professionals | Mazhar Imran | [Read More](https://medium.com/p/c038b305469d) |
-| Sun, 08 Jun 2025 17:12:16 GMT | Recovernest Social media account recovery services | Tobias Mathew | [Read More](https://medium.com/p/37d3498bcd7f) |
-| Sun, 08 Jun 2025 17:10:09 GMT | Why “Know Before You Clone” Should Be Every Developer’s Mantra | Travis Felder | [Read More](https://medium.com/p/f19eecf22e28) |
