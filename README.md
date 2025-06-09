@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 09:43:04 GMT | What People in India Think vs. What Really Happens in Forensics | RFCSINDIA | [Read More](https://medium.com/p/3d5f8fa2ffd7) |
+| Mon, 09 Jun 2025 09:36:06 GMT | How Can Companies Benefit from Hiring Ethical Hackers | Medora Grasser | [Read More](https://medium.com/p/e246d3c86561) |
+| Mon, 09 Jun 2025 09:26:37 GMT | Comparing Mobile App Development Firms in Dubai — What Every Business Should Know. | Five Programmers | [Read More](https://medium.com/p/81dfee29239f) |
+| Mon, 09 Jun 2025 09:22:19 GMT | The Daily Tech Digest: 09 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6ec3cced8d25) |
+| Mon, 09 Jun 2025 09:19:56 GMT | Naked truth. | Suhani Kandakatlla | [Read More](https://medium.com/p/03eeaa8c42cb) |
 | Mon, 09 Jun 2025 09:17:45 GMT | Mengawasi Aset Digital dengan File Integrity Monitoring (FIM) di Wazuh | Sigit Adi Irianto | [Read More](https://medium.com/p/a04181d69598) |
+| Mon, 09 Jun 2025 09:12:58 GMT | Understanding ECC and Web3 Cryptography: Strengths and Threats | Rezaaditria | [Read More](https://medium.com/p/3db93c55cda3) |
 | Mon, 09 Jun 2025 09:07:41 GMT | Running Docker in Docker (DinD): Power Move or a Dangerous Hack? | Sandesh Kumar | [Read More](https://medium.com/p/ea6c4dca57f6) |
 | Mon, 09 Jun 2025 09:07:23 GMT | Tryhackme Network Services room | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/017013dab69f) |
 | Mon, 09 Jun 2025 09:05:39 GMT | Smart URL Scanning: Protecting the Web from Hidden Threats | Judit babu | [Read More](https://medium.com/p/9707c9f565fb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 04:47:43 GMT | PicoCTF writeup — Java code analysis!?! | Mohammed Waseem Ahmed | [Read More](https://medium.com/p/2eead1ac07a7) |
 | Mon, 09 Jun 2025 04:37:55 GMT | Exploring DiskView: A Visual Insight Into Disk Usage and Fragmentation | Govind Goyal | [Read More](https://medium.com/p/4479c47f015e) |
 | Mon, 09 Jun 2025 04:37:46 GMT | Best Cyber Security Courses for Freelancers and Consultants in India | Mikemiike | [Read More](https://medium.com/p/fed03906ffb7) |
-| Mon, 09 Jun 2025 04:37:19 GMT | Security is a Habit: Becoming a Security Enabler in a Zero Trust World | Heenashree Khandelwal | [Read More](https://medium.com/p/37d3d958475e) |
-| Mon, 09 Jun 2025 04:32:23 GMT | Why Microsoft Office 365 E5 Is the Smartest Choice for Enterprise Security and Productivity in 2025 | Roshan Karki | [Read More](https://medium.com/p/132881b9d4f7) |
-| Mon, 09 Jun 2025 04:31:55 GMT | Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It | MrLoser | [Read More](https://medium.com/p/372a35573d55) |
-| Mon, 09 Jun 2025 04:20:49 GMT | How to communicate privately over text messages, Facebook, WhatsApp and Gmail | DemLabs | [Read More](https://medium.com/p/fdc95afd9289) |
-| Mon, 09 Jun 2025 04:19:06 GMT | Boost Your Cybersecurity Career with CISSP Training Online at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/78e80e6edbb1) |
-| Mon, 09 Jun 2025 04:10:15 GMT | My Laptop Died, So I Hacked with My Phone. No Excuse | 127.0.0.1 | [Read More](https://medium.com/p/8dc8d030e43e) |
