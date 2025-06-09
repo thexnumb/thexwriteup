@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 22:10:58 GMT | The girl who’s too good to be true | Christypeace | [Read More](https://medium.com/p/080a0bafbcd8) |
+| Mon, 09 Jun 2025 22:06:25 GMT | Hacking the Headlines: A Pen Tester’s Take on June 9, 2025 Cybersecurity Events | Pentestjunkie07 | [Read More](https://medium.com/p/a47ff03e6ffd) |
+| Mon, 09 Jun 2025 22:03:57 GMT | Streamlining Threat Intelligence Reporting with GenAI: from Theory to Practical Success | Awalin Sopan | [Read More](https://medium.com/p/58b91df4f233) |
+| Mon, 09 Jun 2025 22:03:33 GMT | Zabbix İzleme Sistemi ile Grafana Görselleştirme ve Telegram Uyarı Entegrasyonu | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/d35245112d9f) |
+| Mon, 09 Jun 2025 21:55:06 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/1345b1f6aaea) |
+| Mon, 09 Jun 2025 21:46:12 GMT | PentestGPT: The Future of Automated Penetration Testing with AI | Ekene Joseph | [Read More](https://medium.com/p/256799a378ae) |
+| Mon, 09 Jun 2025 21:41:40 GMT | Mastering Threat Intelligence in Wazuh: A Step-by-Step Guide with OTX Integration | ierdnA | [Read More](https://medium.com/p/f0180b72747b) |
 | Mon, 09 Jun 2025 21:38:58 GMT | The Virtualization of Workstations: Why Red Teamers Must Learn to Hack the Cloud Desktop | Yua Mikanana | [Read More](https://medium.com/p/e391ac858ea6) |
 | Mon, 09 Jun 2025 21:25:35 GMT | MalwareGPT: The Dark Side of AI — How Cybercriminals Are Weaponizing Language Models | Ekene Joseph | [Read More](https://medium.com/p/be6e6c463ed1) |
 | Mon, 09 Jun 2025 20:49:12 GMT | A Complete Guide to Security Guard Jackets, Uniforms, and Accessories | Prouniformsusa | [Read More](https://medium.com/p/988b9c879f23) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 14:51:15 GMT | Why Most Multi-Cloud Security Strategies Are Doomed to Fail (And How to Build One That Actually… | Andrei Ivan | [Read More](https://medium.com/p/9052ad9c1d69) |
 | Mon, 09 Jun 2025 14:49:09 GMT | OWASP Top 10: 10 “Dosa Besar” Aplikasi Web | LunarX | [Read More](https://medium.com/p/0105b5c0e91d) |
 | Mon, 09 Jun 2025 14:47:03 GMT | How a Market Survey Cost My Nanny Her Job | Sam Galope | [Read More](https://medium.com/p/30dccb2018e9) |
-| Mon, 09 Jun 2025 14:46:45 GMT | One-Minute Facts: The Beetles That Went to Court | CarolF | [Read More](https://medium.com/p/6e500d72ee43) |
-| Mon, 09 Jun 2025 14:41:38 GMT | Harden Kubernetes Workloads on OCI (OKE) with Kyverno Runtime Policies | Ron Sevet (‫רון סבט‬‎) | [Read More](https://medium.com/p/35959a0e7d7f) |
-| Mon, 09 Jun 2025 14:40:01 GMT | Not Every Bug is a Blocker — How I Prioritize Issues | Higor Mesquita | [Read More](https://medium.com/p/a0f6c3dbdb47) |
-| Mon, 09 Jun 2025 14:37:31 GMT | The Icarus in me | Aanya Singhani | [Read More](https://medium.com/p/bf93d111bef7) |
-| Mon, 09 Jun 2025 14:37:02 GMT | Practical study material OSWP Part 1: WPA2-PSK Walkthrough | Nol White Hat | [Read More](https://medium.com/p/cd4d869ae784) |
-| Mon, 09 Jun 2025 14:36:19 GMT | Practical study material OSWP Part 2: WPA2-MGT Walkthrough | Nol White Hat | [Read More](https://medium.com/p/d87d11a77aa8) |
-| Mon, 09 Jun 2025 14:35:02 GMT | Practical study material OSWP Part 3: WEP Walkthrough | Nol White Hat | [Read More](https://medium.com/p/5dd2fe8ae176) |
