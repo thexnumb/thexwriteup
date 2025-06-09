@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 11:05:55 GMT | Web Application VAPT Services: Why Every Business Needs It | StrongBox IT | [Read More](https://medium.com/p/99b4b56987c5) |
+| Mon, 09 Jun 2025 11:05:53 GMT | Top 6 Mistakes Businesses Make Without Managed IT Support | Elevate | [Read More](https://medium.com/p/f0ade125ac52) |
+| Mon, 09 Jun 2025 11:03:24 GMT | Xavfsizlikni Django koddan tashqarida saqlang. | Murodali Narzullayev | [Read More](https://medium.com/p/6bce1330a26a) |
+| Mon, 09 Jun 2025 11:02:29 GMT | Quantelix’s Digital Finance Essentials: Mastering Skills for Indonesia’s Cashless Revolution | Quantelix Financial Intelligence Academy | [Read More](https://medium.com/p/0c811d103d6a) |
+| Mon, 09 Jun 2025 11:00:42 GMT | Best cybersecurity consulting services | StrongBox IT | [Read More](https://medium.com/p/eddef3beb252) |
+| Mon, 09 Jun 2025 11:00:41 GMT | 21 AWS Cloud Security Strategies To Transform Your Business by 2025 | SecureSlate | [Read More](https://medium.com/p/9e83d6fd1095) |
+| Mon, 09 Jun 2025 11:00:01 GMT | Why URL Scanning Is Key to Web Safety: A 2025 Guide | Judit babu | [Read More](https://medium.com/p/c1cfdde7364e) |
+| Mon, 09 Jun 2025 10:58:45 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/8b5f9387979b) |
+| Mon, 09 Jun 2025 10:54:37 GMT | TEST #1: Exploiting Insecure API Endpoints | D4m.sh | [Read More](https://medium.com/p/6ce4a0c990e2) |
+| Mon, 09 Jun 2025 10:52:55 GMT | I Broke Into /etc/passwd Using Path Traversal | Sumanth Yerranagula | [Read More](https://medium.com/p/71047fe37fa3) |
+| Mon, 09 Jun 2025 10:50:18 GMT | Oversharing Isn’t Always Openness | Dilara | [Read More](https://medium.com/p/48c6b50c0e09) |
+| Mon, 09 Jun 2025 10:49:42 GMT | Cybersecurity: Your Ultimate Shield in 2025 — A Game-Changer You Can’t Afford to Ignore! | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/00a9950b6f0e) |
+| Mon, 09 Jun 2025 10:43:39 GMT | [CyberSec] Sysmon On-Demand for Enhanced Visibility During Incident Investigation | Pietro Romano / SecBeret | [Read More](https://medium.com/p/1c398ca5033b) |
 | Mon, 09 Jun 2025 10:43:28 GMT | How Private Companies Can Help Mumbai’s Security | Protectone | [Read More](https://medium.com/p/b59043290e06) |
 | Mon, 09 Jun 2025 10:36:45 GMT | WWDC 2025: Privacy is Why Apple Intelligence Ought to Succeed | Zoe Lim Yi Qing | [Read More](https://medium.com/p/fd8f2100e745) |
 | Mon, 09 Jun 2025 10:33:03 GMT | [CyberSec] Email-Based Attacks: Techniques, Tactics, and Detection | Pietro Romano / SecBeret | [Read More](https://medium.com/p/a3276332f3cd) |
@@ -44,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 09:02:39 GMT | Should I Stop Caring and Let IP Address Reputation Sort Them Out? | Peter Hansteen | [Read More](https://medium.com/p/23e48a5d7be8) |
 | Mon, 09 Jun 2025 09:02:20 GMT | Is Your Kubernetes Cluster Running on Trust? Why Image Verification Is No Longer Optional | Chimbu Chinnadurai | [Read More](https://medium.com/p/a0da6c99d9f5) |
 | Mon, 09 Jun 2025 09:02:20 GMT | Win Big With These GRC Frameworks | Harry West | [Read More](https://medium.com/p/b26fa54766bf) |
+| Mon, 09 Jun 2025 09:00:58 GMT | Kosovo’s success over Serbia’s hybrid warfare ― defending sovereignty, constitutional order and… | Uncensored Reporter | [Read More](https://medium.com/p/34e0cdb4e6ff) |
 | Mon, 09 Jun 2025 08:58:39 GMT | Your Bug Bounty VPS with AI Automation | Mahetagaurang | [Read More](https://medium.com/p/10e657f613ee) |
 | Mon, 09 Jun 2025 08:51:28 GMT | Why Employee Engagement Might Be Your Most Powerful and Cost-Effective Security Control | Jenny Feneley | [Read More](https://medium.com/p/3ba31cc98c32) |
 | Mon, 09 Jun 2025 08:50:05 GMT | Building Trust in AI: Securing the UK Government’s Cloud Future with Cyber Resilience | WayneReidUK | [Read More](https://medium.com/p/0856e5310dfe) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 06:12:30 GMT | 50 Command Line Tools You Wish You Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/833908ca951e) |
 | Mon, 09 Jun 2025 06:03:50 GMT | How I Earned $26.91 on Medium Just by Sharing My Bug Bounty Journey | Vivek PS | [Read More](https://medium.com/p/776a6b25ce28) |
 | Mon, 09 Jun 2025 06:00:32 GMT | Exploring Draeneg: A Powerful Network Application for Analysis and Troubleshooting | Govind Goyal | [Read More](https://medium.com/p/50c2460756d3) |
-| Mon, 09 Jun 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Jun 09, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/f6798877a222) |
-| Mon, 09 Jun 2025 05:57:03 GMT | Top Diploma Programmes in Information Technology | School of Business & Technology London (SBTL) | [Read More](https://medium.com/p/82f90e5367c1) |
-| Mon, 09 Jun 2025 05:55:19 GMT | Authentication part-4 : Username enumeration via subtly different responses | Ahmad Sopyan | [Read More](https://medium.com/p/2222f6e8f360) |
-| Mon, 09 Jun 2025 05:54:51 GMT | OpenID Connect Extended Authentication Profile (EAP)- A Technical Guide for Phishing-Resistant… | Vijay K Soni | [Read More](https://medium.com/p/aa7d4f712032) |
-| Mon, 09 Jun 2025 05:52:15 GMT | How I Implemented Microsoft’s Data Protection in AKS: Real-World Lessons from Production | Sridhar | [Read More](https://medium.com/p/4dec6cb23d01) |
-| Mon, 09 Jun 2025 05:47:48 GMT | Grammarly Might Be the Most Polite Keylogger Ever Made | Anthony Lam | [Read More](https://medium.com/p/05027b4c54d1) |
-| Mon, 09 Jun 2025 05:43:14 GMT | Why In-House Isn’t Always the Best Strategy in Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/26ce93cab5b8) |
-| Mon, 09 Jun 2025 05:42:58 GMT | The 4chan PDF Hack — A Comprehensive Security Analysis | David SEHYEON Baek | [Read More](https://medium.com/p/90fba6b8f294) |
-| Mon, 09 Jun 2025 05:42:42 GMT | FBI and CISA Release Joint Advisory on LummaC2 Malware Amid Global Takedown Operation | David SEHYEON Baek | [Read More](https://medium.com/p/03a017cd9063) |
-| Mon, 09 Jun 2025 05:42:24 GMT | Dissecting the Russian GRU’s Escalating Espionage Campaign Targeting Global Logistics and… | David SEHYEON Baek | [Read More](https://medium.com/p/72684c19fb28) |
-| Mon, 09 Jun 2025 05:42:09 GMT | Fortinet Strengthens SASE Portfolio with Strategic Acquisition of Israeli SaaS Security Pioneer… | David SEHYEON Baek | [Read More](https://medium.com/p/df4e2563277b) |
-| Mon, 09 Jun 2025 05:41:52 GMT | Global Cybersecurity Threat Landscape — April 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/fa9b6bb1e103) |
-| Mon, 09 Jun 2025 05:39:44 GMT | Plan Ahead This Eid: Secure Your Valuables with Vintage Vaults Before the Summer Rush | Vintage Vaults | [Read More](https://medium.com/p/1fac9c03f752) |
-| Mon, 09 Jun 2025 05:36:45 GMT | Everything You Need to Know About XSS — with AI Prompts | Narendar Battula (nArEn) | [Read More](https://medium.com/p/438a76ed695f) |
