@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 23:22:24 GMT | The Secret Code of the Future: ECC, Web3 Cryptography, and Why Hackers Want to Crack It | Galihabraa | [Read More](https://medium.com/p/e8fc58e23af7) |
+| Mon, 09 Jun 2025 23:17:04 GMT | Day 9: The Anthropic’s MCP as a Data Agent — Use-cases(Part 4) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/4ede7e435bc1) |
 | Mon, 09 Jun 2025 23:06:42 GMT | From Math to Market: How Dilithium & Falcon Forge Compact, Quantum-Safe Signatures | PinakashieldTech OÜ | [Read More](https://medium.com/p/4496690de0d8) |
 | Mon, 09 Jun 2025 23:05:41 GMT | 09039689679 | شماره خاله #شماره خاله تهران #خاله09052028942 | [Read More](https://medium.com/p/a0e8922577d4) |
 | Mon, 09 Jun 2025 22:42:11 GMT | 60 Abscences and a Pulse | maple syrup fox | [Read More](https://medium.com/p/7ce09d1a7410) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 15:19:19 GMT | Attacks and Defenses in Robust Machine Learning | Maria Johnsen | [Read More](https://medium.com/p/bd69f434fb6d) |
 | Mon, 09 Jun 2025 15:16:03 GMT | Stop Using Clunky Tokens: The Fun & Simple Guide to SSH Keys on GitHub | Irving Caamal | [Read More](https://medium.com/p/bd33fc911ff6) |
 | Mon, 09 Jun 2025 15:11:31 GMT | On-Demand Osquery Execution via Wazuh Active Response | Yash Patel | [Read More](https://medium.com/p/752ecdde5205) |
-| Mon, 09 Jun 2025 15:07:24 GMT | Hardening Enterprise Linux — Essential Security Measures Every Security Engineer Must Know | Hantz Jermain | [Read More](https://medium.com/p/e63e85b71cbc) |
-| Mon, 09 Jun 2025 15:04:28 GMT | Here Is How I Recover My Money From Tastytrade | Junior McDonald | [Read More](https://medium.com/p/23c16aff1ae6) |
