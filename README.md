@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 19:35:15 GMT | SQL injection | Davidmichael Ross | [Read More](https://medium.com/p/32fe2bafcb0a) |
+| Mon, 09 Jun 2025 19:35:05 GMT | Agentic AI: Power, Promise, and Peril (with a Side of Paranoia) | Richard Wilder | [Read More](https://medium.com/p/e2ea412eb132) |
+| Mon, 09 Jun 2025 19:25:40 GMT | BehindTheScreens: Ransomware Surge, Data Leaks, and Global Cyber Clashes (June 2–9, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/2f8c8bf4ac35) |
+| Mon, 09 Jun 2025 19:24:33 GMT | What Is Penetration Testing? Tools, Techniques, and Why It Matters | 0b1d1 | [Read More](https://medium.com/p/cb08746e86de) |
+| Mon, 09 Jun 2025 19:16:58 GMT | Online Predators: How They Target Your Child (Real Warning Signs Every Parent Must Know) | Kinky | [Read More](https://medium.com/p/75f665b6cf60) |
 | Mon, 09 Jun 2025 19:02:57 GMT | Mac Hunt THM - Writeup | Domon | [Read More](https://medium.com/p/bbdaed316031) |
 | Mon, 09 Jun 2025 18:48:36 GMT | Precision Underwriting: How AI Is Reshaping Risk Assessment and Pricing in P&C Insurance | Nivedita Rahul | [Read More](https://medium.com/p/db2fa9871077) |
 | Mon, 09 Jun 2025 18:43:18 GMT | XSS in Hidden Input Without User Interaction | Mahmoud Gamal | [Read More](https://medium.com/p/acbd530c89b6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 13:59:22 GMT | Cyber Briefing: 2025.06.09 | CyberMaterial | [Read More](https://medium.com/p/772e59009c7b) |
 | Mon, 09 Jun 2025 13:56:37 GMT | Maritime tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/304437a1299f) |
 | Mon, 09 Jun 2025 13:49:05 GMT | Initial Access Brokers: The Hidden Architects of Modern Cyberattacks | Loginsoft | [Read More](https://medium.com/p/537c11c9d2ed) |
-| Mon, 09 Jun 2025 13:44:52 GMT | Cryptocurrency in 2025: Navigating New Regulations and Maximizing Digital Wallet Security | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/3f31284c38a6) |
-| Mon, 09 Jun 2025 13:42:53 GMT | Understanding Hypervisors: Type 1 vs Type 2 – A Clear Guide to Virtualization | Zeli | [Read More](https://medium.com/p/f0374052b210) |
-| Mon, 09 Jun 2025 13:42:35 GMT | Application Security in 2025: Trends, Threats, and How EDSPL Stays Ahead | saurabh cyberinfomines | [Read More](https://medium.com/p/8ad086b674d5) |
-| Mon, 09 Jun 2025 13:33:53 GMT | Privilege Escalation Melalui Manipulasi Role di program hackerone | cakaras | [Read More](https://medium.com/p/a8924c2b0e28) |
-| Mon, 09 Jun 2025 13:30:51 GMT | Can You Really Trust Third‑Party Scripts? Here’s How to Find Out | Sanjeevani Bhandari | [Read More](https://medium.com/p/c3bc68b4de80) |
