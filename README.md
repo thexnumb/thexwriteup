@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 07:37:37 GMT | What is Phishing in Cybersecurity? | Saurabh | [Read More](https://medium.com/p/a1352c896de4) |
+| Mon, 09 Jun 2025 07:37:22 GMT | Malicious File/Script Download Attempt | Ritchy Tran | [Read More](https://medium.com/p/c3311498399e) |
+| Mon, 09 Jun 2025 07:37:14 GMT | Cyber Security Degree vs Certificate | Crawsec | [Read More](https://medium.com/p/f034faaaa3ac) |
+| Mon, 09 Jun 2025 07:36:40 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/d80612bdaa97) |
+| Mon, 09 Jun 2025 07:34:00 GMT | Summer Internships Training in Cyber Security [2025] | cyber security Updates | [Read More](https://medium.com/p/29103be52ccf) |
+| Mon, 09 Jun 2025 07:32:27 GMT | Networking, Cybersecurity, and IT Infrastructure: The Digital Backbone of Modern Enterprises | Manjeet Singh | [Read More](https://medium.com/p/4a9d31dbb10c) |
+| Mon, 09 Jun 2025 07:29:11 GMT | ประจำวันจันทร์ที่ 9 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/7709a51b6fd6) |
+| Mon, 09 Jun 2025 07:26:21 GMT | Gemini Canvas is Magic for Rapid Prototyping | Will Cheung | [Read More](https://medium.com/p/babbde6ac25f) |
+| Mon, 09 Jun 2025 07:25:29 GMT | ISC2 Certified in Cybersecurity CC exam | Erkan Kavas | [Read More](https://medium.com/p/86cccb3d976d) |
+| Mon, 09 Jun 2025 07:25:18 GMT | The Ultimate Guide to Finding Reliable Commercial CCTV Camera Suppliers in Chennai | Slsecuritysystems | [Read More](https://medium.com/p/46a0894a84d6) |
+| Mon, 09 Jun 2025 07:25:13 GMT | Popular X-Ray Baggage Scanner Machines for High-Security Zones | Pentagonengineers | [Read More](https://medium.com/p/caaf8d8c0b4d) |
+| Mon, 09 Jun 2025 07:16:06 GMT | What It Means to Be a Man Now | Jason Li | [Read More](https://medium.com/p/da554d2feea5) |
 | Mon, 09 Jun 2025 07:08:15 GMT | Data Security Posture Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f019816d82c7) |
 | Mon, 09 Jun 2025 07:04:51 GMT | Passwords Are Fading Biometrics Are In | Arpana | [Read More](https://medium.com/p/bc2e2c52ab41) |
 | Mon, 09 Jun 2025 07:00:11 GMT | Meta Eyes Massive $10B+ Investment in Scale AI: The Next Leap in Generative Intelligence | Tech Thrilled | [Read More](https://medium.com/p/bcfc4536f64d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 01:05:59 GMT | Top 10 AWS Services Developers Use Every Day ‍ | Jaytech | [Read More](https://medium.com/p/01aa0065bb9b) |
 | Mon, 09 Jun 2025 01:02:25 GMT | How Retail Stores Are Boosting Experiences with Autonomous AI | iOmniscient | [Read More](https://medium.com/p/312c8dc74a58) |
 | Mon, 09 Jun 2025 00:48:32 GMT | From data to arms — reframing information design pedagogy | Kem-Laurin Lubin, Ph.D-C | [Read More](https://medium.com/p/2441c71ffc5e) |
-| Mon, 09 Jun 2025 00:45:31 GMT | Threats awareness is mandatory for vulnerability prioritization | Hisashi Yamaguchi | [Read More](https://medium.com/p/8e85da853cf3) |
-| Mon, 09 Jun 2025 00:45:21 GMT | Booking open for Everest Base Cam | Zen Explore Nepal | [Read More](https://medium.com/p/1f81b9bb57d8) |
-| Mon, 09 Jun 2025 00:34:47 GMT | Documentation: Hardening Linux Remote Tools — SSH | IndoHajk | [Read More](https://medium.com/p/76c07daa4aeb) |
-| Mon, 09 Jun 2025 00:33:51 GMT | Finally , Got Certified with EJpt Certification | Mr Horbio | [Read More](https://medium.com/p/7c136db7dea7) |
-| Mon, 09 Jun 2025 00:32:45 GMT | Behind the Shop: How a Simple SQLi in the Products Page Gave Me Full Access on Database | Waleed Osama | [Read More](https://medium.com/p/7f7a1d8b0223) |
-| Mon, 09 Jun 2025 00:05:59 GMT | Kurby DC — Easy Windows | neo mask | [Read More](https://medium.com/p/21b22cbb799b) |
-| Mon, 09 Jun 2025 00:04:55 GMT | Why Traditional Security Frameworks Are Failing Against AI Threats (And What Actually Works) | Andrei Ivan | [Read More](https://medium.com/p/62e2c58be930) |
-| Mon, 09 Jun 2025 00:00:30 GMT | CTF Writeup — TJCTF 2025 — guess-my-number | embossdotar | [Read More](https://medium.com/p/754847f18a48) |
-| Sun, 08 Jun 2025 23:48:49 GMT | HackTheBox - Nibbles | jniket | [Read More](https://medium.com/p/f7edf907e166) |
-| Sun, 08 Jun 2025 23:23:51 GMT | When should you perform attestation in confidential VMs | ijlal | [Read More](https://medium.com/p/830c9c80ea55) |
-| Sun, 08 Jun 2025 23:17:06 GMT | Day 12: The Anthropic’s MCP as a Data Agent - Security (Part 7) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/96adda7efc98) |
-| Sun, 08 Jun 2025 23:12:28 GMT | Collection of Healthcare Technology/Medtech Industry News and Biomedical Engineering Development —… | Willies Wu | [Read More](https://medium.com/p/319ae133ee09) |
