@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 09:17:45 GMT | Mengawasi Aset Digital dengan File Integrity Monitoring (FIM) di Wazuh | Sigit Adi Irianto | [Read More](https://medium.com/p/a04181d69598) |
+| Mon, 09 Jun 2025 09:07:41 GMT | Running Docker in Docker (DinD): Power Move or a Dangerous Hack? | Sandesh Kumar | [Read More](https://medium.com/p/ea6c4dca57f6) |
+| Mon, 09 Jun 2025 09:07:23 GMT | Tryhackme Network Services room | Faruq Aremu - P4thF!nd3r | [Read More](https://medium.com/p/017013dab69f) |
+| Mon, 09 Jun 2025 09:05:39 GMT | Smart URL Scanning: Protecting the Web from Hidden Threats | Judit babu | [Read More](https://medium.com/p/9707c9f565fb) |
+| Mon, 09 Jun 2025 09:02:39 GMT | Should I Stop Caring and Let IP Address Reputation Sort Them Out? | Peter Hansteen | [Read More](https://medium.com/p/23e48a5d7be8) |
+| Mon, 09 Jun 2025 09:02:20 GMT | Is Your Kubernetes Cluster Running on Trust? Why Image Verification Is No Longer Optional | Chimbu Chinnadurai | [Read More](https://medium.com/p/a0da6c99d9f5) |
+| Mon, 09 Jun 2025 09:02:20 GMT | Win Big With These GRC Frameworks | Harry West | [Read More](https://medium.com/p/b26fa54766bf) |
+| Mon, 09 Jun 2025 08:58:39 GMT | Your Bug Bounty VPS with AI Automation | Mahetagaurang | [Read More](https://medium.com/p/10e657f613ee) |
+| Mon, 09 Jun 2025 08:51:28 GMT | Why Employee Engagement Might Be Your Most Powerful and Cost-Effective Security Control | Jenny Feneley | [Read More](https://medium.com/p/3ba31cc98c32) |
+| Mon, 09 Jun 2025 08:50:05 GMT | Building Trust in AI: Securing the UK Government’s Cloud Future with Cyber Resilience | WayneReidUK | [Read More](https://medium.com/p/0856e5310dfe) |
+| Mon, 09 Jun 2025 08:49:46 GMT | What to Expect from Professional Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/d51748429d64) |
+| Mon, 09 Jun 2025 08:43:26 GMT | Intelligente Automatisierung 2025: Der ultimative Leitfaden für Smart Operations — Inklusive… | Philip Hansen | [Read More](https://medium.com/p/1546e76346c1) |
+| Mon, 09 Jun 2025 08:41:17 GMT | Die Workflow-Automation Revolution 2025: Wie führende Unternehmen 50% ihrer Prozesse transformieren | Philip Hansen | [Read More](https://medium.com/p/a96e45d07720) |
+| Mon, 09 Jun 2025 08:33:31 GMT | Stored Procedure, Function, and Trigger in Database | fijrisalwa | [Read More](https://medium.com/p/78344f9e5d0b) |
+| Mon, 09 Jun 2025 08:32:10 GMT | When Sharing Your Truth Feels Like Giving It Away | Emma Robertson - Pattern-oriented coach + writer | [Read More](https://medium.com/p/873b3a4a3907) |
 | Mon, 09 Jun 2025 08:20:26 GMT | HR’s Role in Cybersecurity Awareness & Digital Hygiene | Mausam Gutgutia | [Read More](https://medium.com/p/f0bfe84300a7) |
 | Mon, 09 Jun 2025 08:17:48 GMT | this isn’t what i wanted. maybe, tomorrow? | kitty | [Read More](https://medium.com/p/7eae1193021a) |
 | Mon, 09 Jun 2025 08:12:19 GMT | Part 1 — Setting up Active Directory | Bat Otgonbayar | [Read More](https://medium.com/p/c59677048c92) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 04:20:49 GMT | How to communicate privately over text messages, Facebook, WhatsApp and Gmail | DemLabs | [Read More](https://medium.com/p/fdc95afd9289) |
 | Mon, 09 Jun 2025 04:19:06 GMT | Boost Your Cybersecurity Career with CISSP Training Online at Cybernous | Cybernous Infosec consulting | [Read More](https://medium.com/p/78e80e6edbb1) |
 | Mon, 09 Jun 2025 04:10:15 GMT | My Laptop Died, So I Hacked with My Phone. No Excuse | 127.0.0.1 | [Read More](https://medium.com/p/8dc8d030e43e) |
-| Mon, 09 Jun 2025 04:03:25 GMT | Building Your Own Test Environment For Pentesting | Pavandeep Kaur | [Read More](https://medium.com/p/b88ec28434ef) |
-| Mon, 09 Jun 2025 03:59:09 GMT | How Phishing Attacks Exploit Subdomains to Deceive Users | William Ma | [Read More](https://medium.com/p/5ed741002c07) |
-| Mon, 09 Jun 2025 03:55:06 GMT | Has Technology Outgrown the People It’s Supposed to Help? | C. Valentine | [Read More](https://medium.com/p/d6ad52e029ab) |
-| Mon, 09 Jun 2025 03:54:17 GMT | eBPF: Modern Day Linux Observability and Security | ompatil | [Read More](https://medium.com/p/0231d48c02ad) |
-| Mon, 09 Jun 2025 03:49:40 GMT | Why Cyber Security Development Is Essential for Business Growth and Continuity? | Webtrills | [Read More](https://medium.com/p/37cb6eab0898) |
-| Mon, 09 Jun 2025 03:36:39 GMT | Smart Building & Facility Management with Blockchain–Edge Fusion: The New Era of Secure, Autonomous… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/5d4e758a4a5c) |
-| Mon, 09 Jun 2025 03:36:24 GMT | It Wasn’t a Hack — We Just Forgot to Secure It | Sec with Sun | [Read More](https://medium.com/p/bbbfa47eca62) |
-| Mon, 09 Jun 2025 03:32:12 GMT | Behind the Breach: The Silent Siege on Sensata Technologies | Deven Chhajed | [Read More](https://medium.com/p/34ca90a51b6f) |
-| Mon, 09 Jun 2025 03:31:17 GMT | The Silent Threat in Your Smart Enterprise: Why IoT Security Can’t Be Tomorrow’s Problem | Biswajeet Poddar | [Read More](https://medium.com/p/b54fdbc1dee8) |
-| Mon, 09 Jun 2025 03:26:28 GMT | “Phishing, Explained Simply: Why One Click Can Compromise a Whole Organization” | Sec with Sun | [Read More](https://medium.com/p/b432bef4c4bb) |
-| Mon, 09 Jun 2025 03:00:08 GMT | $500 OTP Bypass: Found It, Proved It, Then… | Kailasv | [Read More](https://medium.com/p/3930c9e45d4f) |
-| Mon, 09 Jun 2025 02:52:18 GMT | HTB Academy — Information Gathering Web Edition (skill assessment) | BotsiCat | [Read More](https://medium.com/p/39ad5d294b3c) |
-| Mon, 09 Jun 2025 02:34:49 GMT | Unmasking the Secrets of Hashing: A Simple Way to Crack Hashes Using Python | IndoHajk | [Read More](https://medium.com/p/d72903b88578) |
-| Mon, 09 Jun 2025 02:32:29 GMT | Time Is a Bug: Exploiting Trials Without Touching a Single Tool | StrangeRwhite | [Read More](https://medium.com/p/9a019bda8c02) |
-| Mon, 09 Jun 2025 02:18:11 GMT | 30 Days of Cyber Security — Day 14: CTF Pertama di PicoCTF | Indra Rahmat Maulidi | [Read More](https://medium.com/p/2fb817c304e0) |
