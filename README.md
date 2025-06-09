@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 19:02:57 GMT | Mac Hunt THM - Writeup | Domon | [Read More](https://medium.com/p/bbdaed316031) |
+| Mon, 09 Jun 2025 18:48:36 GMT | Precision Underwriting: How AI Is Reshaping Risk Assessment and Pricing in P&C Insurance | Nivedita Rahul | [Read More](https://medium.com/p/db2fa9871077) |
 | Mon, 09 Jun 2025 18:43:18 GMT | XSS in Hidden Input Without User Interaction | Mahmoud Gamal | [Read More](https://medium.com/p/acbd530c89b6) |
 | Mon, 09 Jun 2025 18:39:05 GMT | XSS Unleashed: Exploiting & Defending Cross-Site Scripting in the Wild | 0b1d1 | [Read More](https://medium.com/p/e026ea5e05e9) |
 | Mon, 09 Jun 2025 18:26:55 GMT | Inside a Failed Breach: How SentinelOne Became a Strategic Target of Chinese Cyber Espionage | Chetan Seripally | [Read More](https://medium.com/p/277fbe0d0647) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 13:42:35 GMT | Application Security in 2025: Trends, Threats, and How EDSPL Stays Ahead | saurabh cyberinfomines | [Read More](https://medium.com/p/8ad086b674d5) |
 | Mon, 09 Jun 2025 13:33:53 GMT | Privilege Escalation Melalui Manipulasi Role di program hackerone | cakaras | [Read More](https://medium.com/p/a8924c2b0e28) |
 | Mon, 09 Jun 2025 13:30:51 GMT | Can You Really Trust Third‑Party Scripts? Here’s How to Find Out | Sanjeevani Bhandari | [Read More](https://medium.com/p/c3bc68b4de80) |
-| Mon, 09 Jun 2025 13:27:56 GMT | Emotions Are Not Weakness: A Personal Story and Psychological Insight | Sathya Durga | [Read More](https://medium.com/p/5696a68173bb) |
-| Mon, 09 Jun 2025 13:25:43 GMT | The Great Digital Exodus: What the SK Telecom Data Breach Teaches Us About Customer Trust in the… | Technijian | [Read More](https://medium.com/p/6f2d1b0d6f36) |
