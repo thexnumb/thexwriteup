@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 14:19:35 GMT | Internal Penetration Test Report | Amatheusfeitosam | [Read More](https://medium.com/p/a0ef83f3448d) |
+| Mon, 09 Jun 2025 14:15:24 GMT | AI’s Trojan Horse | Thomas Rauch | [Read More](https://medium.com/p/0d644a3f5e40) |
+| Mon, 09 Jun 2025 14:13:43 GMT | Samsung to Delete Inactive Accounts — Log in Before It’s Gone! | Hamid Reza Razeghi | [Read More](https://medium.com/p/63e5c4b392df) |
+| Mon, 09 Jun 2025 14:08:08 GMT | Troubleshooting Kerberos SessionError: KRB_AP_ERR_SKEW(Clock skew too great) | Diyara | [Read More](https://medium.com/p/ccc81490c372) |
+| Mon, 09 Jun 2025 14:07:12 GMT | Is Your Business Ready for Today’s Cybersecurity Challenges? | Infotechmontrealwsi | [Read More](https://medium.com/p/fcff2a5c39d7) |
+| Mon, 09 Jun 2025 14:02:15 GMT | How I Built My Cybersecurity Homelab as a College Student | Maniraj Chahal | [Read More](https://medium.com/p/5d843fd77e29) |
+| Mon, 09 Jun 2025 14:01:31 GMT | Libertatea de a fi Vulnerabil | Rahmanov Irina | [Read More](https://medium.com/p/9858e1cfb629) |
+| Mon, 09 Jun 2025 13:59:22 GMT | Cyber Briefing: 2025.06.09 | CyberMaterial | [Read More](https://medium.com/p/772e59009c7b) |
+| Mon, 09 Jun 2025 13:56:37 GMT | Maritime tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/304437a1299f) |
+| Mon, 09 Jun 2025 13:49:05 GMT | Initial Access Brokers: The Hidden Architects of Modern Cyberattacks | Loginsoft | [Read More](https://medium.com/p/537c11c9d2ed) |
+| Mon, 09 Jun 2025 13:44:52 GMT | Cryptocurrency in 2025: Navigating New Regulations and Maximizing Digital Wallet Security | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/3f31284c38a6) |
+| Mon, 09 Jun 2025 13:42:53 GMT | Understanding Hypervisors: Type 1 vs Type 2 – A Clear Guide to Virtualization | Zeli | [Read More](https://medium.com/p/f0374052b210) |
+| Mon, 09 Jun 2025 13:42:35 GMT | Application Security in 2025: Trends, Threats, and How EDSPL Stays Ahead | saurabh cyberinfomines | [Read More](https://medium.com/p/8ad086b674d5) |
 | Mon, 09 Jun 2025 13:30:51 GMT | Can You Really Trust Third‑Party Scripts? Here’s How to Find Out | Sanjeevani Bhandari | [Read More](https://medium.com/p/c3bc68b4de80) |
 | Mon, 09 Jun 2025 13:27:56 GMT | Emotions Are Not Weakness: A Personal Story and Psychological Insight | Sathya Durga | [Read More](https://medium.com/p/5696a68173bb) |
 | Mon, 09 Jun 2025 13:25:43 GMT | The Great Digital Exodus: What the SK Telecom Data Breach Teaches Us About Customer Trust in the… | Technijian | [Read More](https://medium.com/p/6f2d1b0d6f36) |
@@ -27,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 12:54:33 GMT | Snort | Amalpp | [Read More](https://medium.com/p/5da833ba0a16) |
 | Mon, 09 Jun 2025 12:54:20 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzalezablerta | [Read More](https://medium.com/p/abe7dae0f972) |
 | Mon, 09 Jun 2025 12:51:48 GMT | The Future of Privacy Management | Goismo AB | [Read More](https://medium.com/p/de1890e96a23) |
+| Mon, 09 Jun 2025 12:51:38 GMT | Entenda a diferença e como Gerenciar suas APIs e Application Keys no Datadog | Eduardo Amaral | [Read More](https://medium.com/p/460c44305f78) |
 | Mon, 09 Jun 2025 12:43:04 GMT | Top 10 companies offering crypto-backed insurance products | Payal Purbhoo | [Read More](https://medium.com/p/328ea58e1d1d) |
 | Mon, 09 Jun 2025 12:42:16 GMT | ECC & Web3 Cryptography: Pilar Keamanan Internet Masa Depan dan Ancaman yang Mengintai | Janukhi Bisyri | [Read More](https://medium.com/p/3295dc12f396) |
 | Mon, 09 Jun 2025 12:39:38 GMT | The Role of Cyber Risk Assessment & Planning in Compliance and Data Protection | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/79caed3ebbde) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 09:02:39 GMT | Should I Stop Caring and Let IP Address Reputation Sort Them Out? | Peter Hansteen | [Read More](https://medium.com/p/23e48a5d7be8) |
 | Mon, 09 Jun 2025 09:02:20 GMT | Is Your Kubernetes Cluster Running on Trust? Why Image Verification Is No Longer Optional | Chimbu Chinnadurai | [Read More](https://medium.com/p/a0da6c99d9f5) |
 | Mon, 09 Jun 2025 09:02:20 GMT | Win Big With These GRC Frameworks | Harry West | [Read More](https://medium.com/p/b26fa54766bf) |
-| Mon, 09 Jun 2025 09:00:58 GMT | Kosovo’s success over Serbia’s hybrid warfare ― defending sovereignty, constitutional order and… | Uncensored Reporter | [Read More](https://medium.com/p/34e0cdb4e6ff) |
-| Mon, 09 Jun 2025 08:58:39 GMT | Your Bug Bounty VPS with AI Automation | Mahetagaurang | [Read More](https://medium.com/p/10e657f613ee) |
-| Mon, 09 Jun 2025 08:51:28 GMT | Why Employee Engagement Might Be Your Most Powerful and Cost-Effective Security Control | Jenny Feneley | [Read More](https://medium.com/p/3ba31cc98c32) |
-| Mon, 09 Jun 2025 08:50:05 GMT | Building Trust in AI: Securing the UK Government’s Cloud Future with Cyber Resilience | WayneReidUK | [Read More](https://medium.com/p/0856e5310dfe) |
-| Mon, 09 Jun 2025 08:49:46 GMT | What to Expect from Professional Event Security Services in Singapore | Jane Tang | [Read More](https://medium.com/p/d51748429d64) |
-| Mon, 09 Jun 2025 08:43:26 GMT | Intelligente Automatisierung 2025: Der ultimative Leitfaden für Smart Operations — Inklusive… | Philip Hansen | [Read More](https://medium.com/p/1546e76346c1) |
-| Mon, 09 Jun 2025 08:41:17 GMT | Die Workflow-Automation Revolution 2025: Wie führende Unternehmen 50% ihrer Prozesse transformieren | Philip Hansen | [Read More](https://medium.com/p/a96e45d07720) |
-| Mon, 09 Jun 2025 08:33:31 GMT | Stored Procedure, Function, and Trigger in Database | fijrisalwa | [Read More](https://medium.com/p/78344f9e5d0b) |
-| Mon, 09 Jun 2025 08:32:10 GMT | When Sharing Your Truth Feels Like Giving It Away | Emma Robertson - Pattern-oriented coach + writer | [Read More](https://medium.com/p/873b3a4a3907) |
-| Mon, 09 Jun 2025 08:20:26 GMT | HR’s Role in Cybersecurity Awareness & Digital Hygiene | Mausam Gutgutia | [Read More](https://medium.com/p/f0bfe84300a7) |
-| Mon, 09 Jun 2025 08:17:48 GMT | this isn’t what i wanted. maybe, tomorrow? | kitty | [Read More](https://medium.com/p/7eae1193021a) |
-| Mon, 09 Jun 2025 08:12:19 GMT | Part 1 — Setting up Active Directory | Bat Otgonbayar | [Read More](https://medium.com/p/c59677048c92) |
-| Mon, 09 Jun 2025 08:07:24 GMT | Study at a Leading Australian University for International Students — Apply Today! | AIST | [Read More](https://medium.com/p/671ed9bbd61e) |
-| Mon, 09 Jun 2025 08:02:48 GMT | Baggage Scanner Machine — The Backbone of Security Operations | Pentagonengineers | [Read More](https://medium.com/p/3b4c1c0742b4) |
