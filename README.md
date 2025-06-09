@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 16:44:55 GMT | TryHackMe - Billing | haxer | [Read More](https://medium.com/p/7d2d22374ec8) |
+| Mon, 09 Jun 2025 16:44:03 GMT | Proactive Threat Management: Building a Resilient Defense | SafeAeon Inc. | [Read More](https://medium.com/p/21852165e8d5) |
+| Mon, 09 Jun 2025 16:42:24 GMT | IonQ Acquires Oxford Ionics for $1.08 Billion: A Bold Leap Toward Fault‑Tolerant Quantum Computing | QuantumGenie | [Read More](https://medium.com/p/6b43fc02894c) |
+| Mon, 09 Jun 2025 16:36:42 GMT | IBM Cloud Security Hub Wins 2025 Fortress Cybersecurity Award | Bill Grady | [Read More](https://medium.com/p/a11d6cb22adb) |
+| Mon, 09 Jun 2025 16:32:01 GMT | Unlocking Cybersecurity Automation with AI + Offensive Tooling | Shadow Packet | [Read More](https://medium.com/p/6e8c1fe0b7fd) |
+| Mon, 09 Jun 2025 16:29:55 GMT | SOC Audit Checklist: Ensuring Robust Security Operations | SafeAeon Inc. | [Read More](https://medium.com/p/bf03d43a8f74) |
 | Mon, 09 Jun 2025 16:26:59 GMT | Top Cybersecurity Companies Making Waves in 2025 | John Cafe | [Read More](https://medium.com/p/0e1b828a6faa) |
+| Mon, 09 Jun 2025 16:22:25 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/4cfe36b9f0f7) |
 | Mon, 09 Jun 2025 16:14:19 GMT | Mastering PHP Security: Protecting Your Applications Like a Pro | Ann R. | [Read More](https://medium.com/p/40f4bf38c79c) |
 | Mon, 09 Jun 2025 16:09:45 GMT | Lesson Learned? | Ahmed Mounir | [Read More](https://medium.com/p/d3defba09ab6) |
 | Mon, 09 Jun 2025 16:08:16 GMT | How to Implement Blockchain Technology for Cybersecurity in IT | Jhon Smith | [Read More](https://medium.com/p/91448466d7e0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 11:52:07 GMT | Securing APIs: OAuth2, JWT, and API Keys | Vaibhav Jain | [Read More](https://medium.com/p/457c1466be44) |
 | Mon, 09 Jun 2025 11:50:25 GMT | 101 Ways to Conquer the Cyber Frontier: Your Game-Changing Guide to Cybersecurity in 2025! | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/2a9453284867) |
 | Mon, 09 Jun 2025 11:49:45 GMT | How to get HTTPS for free | Punnyartha Banerjee | [Read More](https://medium.com/p/460a619ecb15) |
-| Mon, 09 Jun 2025 11:47:54 GMT | SIDHistory Abuse in Parent-Child Trust relationship | Evyeveline | [Read More](https://medium.com/p/0697c5890551) |
-| Mon, 09 Jun 2025 11:42:31 GMT | How I Found an $8,427 JS Security Bug in 30 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/1c37d97bdae1) |
-| Mon, 09 Jun 2025 11:38:31 GMT | Digital Watermarking: A Comprehensive Analysis of Techniques, Applications, and Future Directions… | Divyanshu Ranjan Singh | [Read More](https://medium.com/p/4aab7081ef91) |
-| Mon, 09 Jun 2025 11:32:39 GMT | Markup HTB Walkthrough as OSCP preparation | Qinncade | [Read More](https://medium.com/p/d1f1a6327cf6) |
-| Mon, 09 Jun 2025 11:22:24 GMT | HTML Injection in Traveler Profiles | Ehtesham Ul Haq | [Read More](https://medium.com/p/e251be22dc7d) |
-| Mon, 09 Jun 2025 11:17:22 GMT | Ethical Hacking Fundamentals for Software Quality Engineers: Key Terminologies, Network Overview… | Dimuth C Bandara | [Read More](https://medium.com/p/bb34c5212f65) |
-| Mon, 09 Jun 2025 11:17:20 GMT | Best Career in Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/cec3e65dd21b) |
