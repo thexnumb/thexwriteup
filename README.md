@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 20:49:12 GMT | A Complete Guide to Security Guard Jackets, Uniforms, and Accessories | Prouniformsusa | [Read More](https://medium.com/p/988b9c879f23) |
+| Mon, 09 Jun 2025 20:45:02 GMT | Easy IDOR lead to dislosed PII data leakage{Name, Username, Password} | Abhishek  (Bug Hunter) | [Read More](https://medium.com/p/053c2783f8a6) |
+| Mon, 09 Jun 2025 20:44:44 GMT | Ghost Files for Inter Process Communication | S12 - 0x12Dark Development | [Read More](https://medium.com/p/131dd9147450) |
+| Mon, 09 Jun 2025 20:42:04 GMT | Day 17: Crazy common web vulnerabilities | Nile Okomo | [Read More](https://medium.com/p/9b69c5668292) |
 | Mon, 09 Jun 2025 20:32:12 GMT | DOM-Based XSS Exploitation in jQuery Selector | musayyab sharif | [Read More](https://medium.com/p/21a996b9dd43) |
 | Mon, 09 Jun 2025 20:27:26 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 6] | Aditya Bhatt | [Read More](https://medium.com/p/1d48459744f6) |
 | Mon, 09 Jun 2025 20:11:43 GMT | Shift Left, Stay Local: Using AI Models in DevSecOps | Dave Patten | [Read More](https://medium.com/p/8f337b7112ca) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 14:35:02 GMT | Practical study material OSWP Part 3: WEP Walkthrough | Nol White Hat | [Read More](https://medium.com/p/5dd2fe8ae176) |
 | Mon, 09 Jun 2025 14:31:50 GMT | CTF Write-up: MacLock (Certified Cyber Defenders | itsGir | [Read More](https://medium.com/p/b0fef014e96f) |
 | Mon, 09 Jun 2025 14:30:57 GMT | Open Is More Secure: The Case for Open Source in Government Cybersecurity | Fen Labalme | [Read More](https://medium.com/p/491095ae934c) |
-| Mon, 09 Jun 2025 14:29:36 GMT | Exlity = Excellence in Motion | EXLITY | [Read More](https://medium.com/p/75340be7bc25) |
-| Mon, 09 Jun 2025 14:19:56 GMT | Simple bruteforce file zip using Rust | Dimas Fajar Kurniawan | [Read More](https://medium.com/p/3336e494fc1d) |
-| Mon, 09 Jun 2025 14:19:35 GMT | Internal Penetration Test Report | Amatheusfeitosam | [Read More](https://medium.com/p/a0ef83f3448d) |
-| Mon, 09 Jun 2025 14:15:24 GMT | AI’s Trojan Horse | Thomas Rauch | [Read More](https://medium.com/p/0d644a3f5e40) |
