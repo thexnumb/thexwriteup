@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 15:32:19 GMT | s3 bucket and firebase misconfigurtion Part-1 | DOD cyber solutions | [Read More](https://medium.com/p/76c15c90628f) |
+| Mon, 09 Jun 2025 15:30:35 GMT | Cybersecurity in Social Tech: Safeguarding the Digital Public Square | Grace James kaka | [Read More](https://medium.com/p/2d3cd266c7f0) |
+| Mon, 09 Jun 2025 15:29:06 GMT |  | NexusWeawerInitiative | [Read More](https://medium.com/p/8850e6762bc1) |
+| Mon, 09 Jun 2025 15:28:31 GMT | You Can Change Your IP Address — But What About Your MAC Address? | Soni Kumar | [Read More](https://medium.com/p/c94ce1cf12a9) |
+| Mon, 09 Jun 2025 15:23:30 GMT | Your Data’s Been Leaked — What Now? | @NSConsumers | [Read More](https://medium.com/p/fcf15b17667b) |
 | Mon, 09 Jun 2025 15:22:32 GMT | Open-Source AI in Security Operations: Case Studies from the Frontlines | Andrei Ivan | [Read More](https://medium.com/p/654fd26d078d) |
+| Mon, 09 Jun 2025 15:19:19 GMT | Attacks and Defenses in Robust Machine Learning | Maria Johnsen | [Read More](https://medium.com/p/bd69f434fb6d) |
 | Mon, 09 Jun 2025 15:16:03 GMT | Stop Using Clunky Tokens: The Fun & Simple Guide to SSH Keys on GitHub | Irving Caamal | [Read More](https://medium.com/p/bd33fc911ff6) |
 | Mon, 09 Jun 2025 15:11:31 GMT | On-Demand Osquery Execution via Wazuh Active Response | Yash Patel | [Read More](https://medium.com/p/752ecdde5205) |
 | Mon, 09 Jun 2025 15:07:24 GMT | Hardening Enterprise Linux — Essential Security Measures Every Security Engineer Must Know | Hantz Jermain | [Read More](https://medium.com/p/e63e85b71cbc) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 10:52:55 GMT | I Broke Into /etc/passwd Using Path Traversal | Sumanth Yerranagula | [Read More](https://medium.com/p/71047fe37fa3) |
 | Mon, 09 Jun 2025 10:50:18 GMT | Oversharing Isn’t Always Openness | Dilara | [Read More](https://medium.com/p/48c6b50c0e09) |
 | Mon, 09 Jun 2025 10:49:42 GMT | Cybersecurity: Your Ultimate Shield in 2025 — A Game-Changer You Can’t Afford to Ignore! | Dr Ratneshwar Prasad Sinha | [Read More](https://medium.com/p/00a9950b6f0e) |
-| Mon, 09 Jun 2025 10:43:39 GMT | [CyberSec] Sysmon On-Demand for Enhanced Visibility During Incident Investigation | Pietro Romano / SecBeret | [Read More](https://medium.com/p/1c398ca5033b) |
-| Mon, 09 Jun 2025 10:43:28 GMT | How Private Companies Can Help Mumbai’s Security | Protectone | [Read More](https://medium.com/p/b59043290e06) |
-| Mon, 09 Jun 2025 10:36:45 GMT | WWDC 2025: Privacy is Why Apple Intelligence Ought to Succeed | Zoe Lim Yi Qing | [Read More](https://medium.com/p/fd8f2100e745) |
-| Mon, 09 Jun 2025 10:33:03 GMT | [CyberSec] Email-Based Attacks: Techniques, Tactics, and Detection | Pietro Romano / SecBeret | [Read More](https://medium.com/p/a3276332f3cd) |
-| Mon, 09 Jun 2025 10:23:32 GMT | Setting Up Windows 10 VM-1 for Your Cybersecurity Lab | Abyss | [Read More](https://medium.com/p/3b4ea6ef7489) |
-| Mon, 09 Jun 2025 10:22:08 GMT | Role of AI in Cybersecurity: Friend or Foe? | FACE Prep Campus | [Read More](https://medium.com/p/3c9ea2ff96fe) |
