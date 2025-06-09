@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 18:43:18 GMT | XSS in Hidden Input Without User Interaction | Mahmoud Gamal | [Read More](https://medium.com/p/acbd530c89b6) |
+| Mon, 09 Jun 2025 18:39:05 GMT | XSS Unleashed: Exploiting & Defending Cross-Site Scripting in the Wild | 0b1d1 | [Read More](https://medium.com/p/e026ea5e05e9) |
+| Mon, 09 Jun 2025 18:26:55 GMT | Inside a Failed Breach: How SentinelOne Became a Strategic Target of Chinese Cyber Espionage | Chetan Seripally | [Read More](https://medium.com/p/277fbe0d0647) |
 | Mon, 09 Jun 2025 18:21:14 GMT | Intro to Cold System Forensics | Isiah | [Read More](https://medium.com/p/fa115c5fd169) |
+| Mon, 09 Jun 2025 18:18:50 GMT | Whimsy & Order Tasky Part 2: Dari Temporary Memory ke Penyimpanan Permanen | Zifa Tea Azzahra | [Read More](https://medium.com/p/f4c3a9e44c0a) |
 | Mon, 09 Jun 2025 18:15:30 GMT | MIME Sniffing Unmasked: How Browsers Misjudge Files and Create Risks | Natarajan C K | [Read More](https://medium.com/p/1612a26972e0) |
 | Mon, 09 Jun 2025 18:10:55 GMT | Claim $DORK Tokens | $DORK (DORK) | [Read More](https://medium.com/p/c8d0e3129c0f) |
 | Mon, 09 Jun 2025 18:04:34 GMT | Why Are Action Men Afraid of Spa Days? | Shane Driver | [Read More](https://medium.com/p/b92fe465302b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 13:30:51 GMT | Can You Really Trust Third‑Party Scripts? Here’s How to Find Out | Sanjeevani Bhandari | [Read More](https://medium.com/p/c3bc68b4de80) |
 | Mon, 09 Jun 2025 13:27:56 GMT | Emotions Are Not Weakness: A Personal Story and Psychological Insight | Sathya Durga | [Read More](https://medium.com/p/5696a68173bb) |
 | Mon, 09 Jun 2025 13:25:43 GMT | The Great Digital Exodus: What the SK Telecom Data Breach Teaches Us About Customer Trust in the… | Technijian | [Read More](https://medium.com/p/6f2d1b0d6f36) |
-| Mon, 09 Jun 2025 13:20:47 GMT | How to Land your First Cyber Security Gig | Isaiah Illy | [Read More](https://medium.com/p/06cc97db6975) |
-| Mon, 09 Jun 2025 13:20:38 GMT | Early Findings: How a Verification Bug Led to the $8M ALEX Protocol Exploit | Evgenii | [Read More](https://medium.com/p/4378f4c1ac52) |
-| Mon, 09 Jun 2025 13:18:48 GMT | China’s Massive Data Breach 2025: 4 Billion Records Exposed — What You Need to Know | Technijian | [Read More](https://medium.com/p/8753c90ea2be) |
-| Mon, 09 Jun 2025 13:18:35 GMT | How to install GO LANG and Run from anywhere in the system (Manually). | Zuri | [Read More](https://medium.com/p/bc8552555b85) |
