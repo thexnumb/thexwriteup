@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 15:22:32 GMT | Open-Source AI in Security Operations: Case Studies from the Frontlines | Andrei Ivan | [Read More](https://medium.com/p/654fd26d078d) |
+| Mon, 09 Jun 2025 15:16:03 GMT | Stop Using Clunky Tokens: The Fun & Simple Guide to SSH Keys on GitHub | Irving Caamal | [Read More](https://medium.com/p/bd33fc911ff6) |
+| Mon, 09 Jun 2025 15:11:31 GMT | On-Demand Osquery Execution via Wazuh Active Response | Yash Patel | [Read More](https://medium.com/p/752ecdde5205) |
+| Mon, 09 Jun 2025 15:07:24 GMT | Hardening Enterprise Linux — Essential Security Measures Every Security Engineer Must Know | Hantz Jermain | [Read More](https://medium.com/p/e63e85b71cbc) |
+| Mon, 09 Jun 2025 15:04:28 GMT | Here Is How I Recover My Money From Tastytrade | Junior McDonald | [Read More](https://medium.com/p/23c16aff1ae6) |
+| Mon, 09 Jun 2025 15:04:04 GMT | How to Integrate GPT with Kali Linux for Smarter Hacking Workflows | Michael Yeibo | [Read More](https://medium.com/p/7c330f199a5e) |
+| Mon, 09 Jun 2025 15:02:09 GMT | Proactive Defense: How Phoenix Network Security Uses Analytics to Stop Threats | Blue Fox Group | [Read More](https://medium.com/p/493ce52f1257) |
+| Mon, 09 Jun 2025 15:01:06 GMT | The Ache for Substance | Brianna O'Keefe | [Read More](https://medium.com/p/e6a09314681c) |
+| Mon, 09 Jun 2025 14:59:46 GMT | He’s Not Emotionally Unavailable, He’s Just Tired of Being Used for Stability and Sex | X-Plain | [Read More](https://medium.com/p/739d52b0e309) |
+| Mon, 09 Jun 2025 14:58:18 GMT | Data Annotation for Security & Surveillance | Andrew Hudson | [Read More](https://medium.com/p/2e4d72a61476) |
+| Mon, 09 Jun 2025 14:58:12 GMT | Our API Keys Leaked in a Git Repo — Here’s How We Cleaned It Up | ThreadSafe Diaries | [Read More](https://medium.com/p/81a4171ab9db) |
+| Mon, 09 Jun 2025 14:57:46 GMT | The 48-Hour Digital Death: How KiranaPro Lost Everything in India’s Most Catastrophic Startup… | NeuralNiki | [Read More](https://medium.com/p/19da721d0210) |
+| Mon, 09 Jun 2025 14:57:01 GMT | So You Want to Be a SOC Analyst Reloaded? (Part 1) | Cristhian Azuero | [Read More](https://medium.com/p/18ca16feeec7) |
+| Mon, 09 Jun 2025 14:51:15 GMT | Why Most Multi-Cloud Security Strategies Are Doomed to Fail (And How to Build One That Actually… | Andrei Ivan | [Read More](https://medium.com/p/9052ad9c1d69) |
+| Mon, 09 Jun 2025 14:49:09 GMT | OWASP Top 10: 10 “Dosa Besar” Aplikasi Web | LunarX | [Read More](https://medium.com/p/0105b5c0e91d) |
+| Mon, 09 Jun 2025 14:47:03 GMT | How a Market Survey Cost My Nanny Her Job | Sam Galope | [Read More](https://medium.com/p/30dccb2018e9) |
+| Mon, 09 Jun 2025 14:46:45 GMT | One-Minute Facts: The Beetles That Went to Court | CarolF | [Read More](https://medium.com/p/6e500d72ee43) |
+| Mon, 09 Jun 2025 14:41:38 GMT | Harden Kubernetes Workloads on OCI (OKE) with Kyverno Runtime Policies | Ron Sevet (‫רון סבט‬‎) | [Read More](https://medium.com/p/35959a0e7d7f) |
 | Mon, 09 Jun 2025 14:40:01 GMT | Not Every Bug is a Blocker — How I Prioritize Issues | Higor Mesquita | [Read More](https://medium.com/p/a0f6c3dbdb47) |
+| Mon, 09 Jun 2025 14:37:31 GMT | The Icarus in me | Aanya Singhani | [Read More](https://medium.com/p/bf93d111bef7) |
 | Mon, 09 Jun 2025 14:37:02 GMT | Practical study material OSWP Part 1: WPA2-PSK Walkthrough | Nol White Hat | [Read More](https://medium.com/p/cd4d869ae784) |
 | Mon, 09 Jun 2025 14:36:19 GMT | Practical study material OSWP Part 2: WPA2-MGT Walkthrough | Nol White Hat | [Read More](https://medium.com/p/d87d11a77aa8) |
 | Mon, 09 Jun 2025 14:35:02 GMT | Practical study material OSWP Part 3: WEP Walkthrough | Nol White Hat | [Read More](https://medium.com/p/5dd2fe8ae176) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 10:33:03 GMT | [CyberSec] Email-Based Attacks: Techniques, Tactics, and Detection | Pietro Romano / SecBeret | [Read More](https://medium.com/p/a3276332f3cd) |
 | Mon, 09 Jun 2025 10:23:32 GMT | Setting Up Windows 10 VM-1 for Your Cybersecurity Lab | Abyss | [Read More](https://medium.com/p/3b4ea6ef7489) |
 | Mon, 09 Jun 2025 10:22:08 GMT | Role of AI in Cybersecurity: Friend or Foe? | FACE Prep Campus | [Read More](https://medium.com/p/3c9ea2ff96fe) |
-| Mon, 09 Jun 2025 10:21:37 GMT | Top reasons to use Custom Built Gaming Computers Canberra — A Precise Overview | Eserve Infotech | [Read More](https://medium.com/p/b94390541dd1) |
-| Mon, 09 Jun 2025 10:19:38 GMT | E shock you? Why Your Night Watchman Needs a "Smart" Upgrade! | Naza Raymond (TEKNNUKU) | [Read More](https://medium.com/p/77e7c7d22f53) |
-| Mon, 09 Jun 2025 10:19:23 GMT | AI-Powered Cyber Threats in 2025: The Rise of Autonomous Attack Agents and the Collapse of… | Chetan Seripally | [Read More](https://medium.com/p/ce80a5f05afa) |
-| Mon, 09 Jun 2025 10:11:46 GMT | Let’s Talk About HTTP — The Backbone of the Web (And a Goldmine for DFIR Folks) | Dean | [Read More](https://medium.com/p/1cf3341dc51f) |
-| Mon, 09 Jun 2025 10:11:02 GMT | How Criminals Use Dead Drops and Covert Channels on the Dark Web | Sandesh Kumar | [Read More](https://medium.com/p/622167c2c830) |
-| Mon, 09 Jun 2025 10:07:22 GMT | Firewall 101: Why can’t Businesses afford to ignore firewalls? | Rabia Riaz | [Read More](https://medium.com/p/bdd140557963) |
-| Mon, 09 Jun 2025 10:06:49 GMT | Some Cloud Storage Providers Can Access Your Files: Can Yours? | Karl Buhl | [Read More](https://medium.com/p/3ec065eb25b3) |
-| Mon, 09 Jun 2025 10:06:09 GMT | Hide Messages with Python: A Steganography Tutorial | Quietdebugger | [Read More](https://medium.com/p/b7507f8adc70) |
-| Mon, 09 Jun 2025 10:05:10 GMT | Use After Free exploit ?? | xpl0dec | [Read More](https://medium.com/p/638a9e51b5a2) |
-| Mon, 09 Jun 2025 09:52:00 GMT | Free Cybersecurity Learning: Releasing my Workshop Slides! | Udit | [Read More](https://medium.com/p/bcb7329e0e13) |
-| Mon, 09 Jun 2025 09:50:26 GMT | Ransomware and phishing statistics by industry in May 2025, and vulnerability trends | CyberSecStats | [Read More](https://medium.com/p/a8c75aabad2a) |
-| Mon, 09 Jun 2025 09:50:17 GMT | SSH Brute-Force Attack Lab: Learn It. Stop It | 0b1d1 | [Read More](https://medium.com/p/04e5943c3a5b) |
-| Mon, 09 Jun 2025 09:47:51 GMT | Shadows on WeChat: The Disinformation Web | Tales of Nyx | [Read More](https://medium.com/p/68431f164fec) |
-| Mon, 09 Jun 2025 09:45:44 GMT | USDe Is Now Live on TON — Fully Powered by STON.fi | Johnsonineme | [Read More](https://medium.com/p/11174ced1fe2) |
-| Mon, 09 Jun 2025 09:43:52 GMT | Why Post-Quantum Cryptography Matters & How to Implement NIST’s Standards (2025 Update) | Tausif Ali | [Read More](https://medium.com/p/150465496ef3) |
-| Mon, 09 Jun 2025 09:43:04 GMT | What People in India Think vs. What Really Happens in Forensics | RFCSINDIA | [Read More](https://medium.com/p/3d5f8fa2ffd7) |
-| Mon, 09 Jun 2025 09:36:06 GMT | How Can Companies Benefit from Hiring Ethical Hackers | Medora Grasser | [Read More](https://medium.com/p/e246d3c86561) |
-| Mon, 09 Jun 2025 09:26:37 GMT | Comparing Mobile App Development Firms in Dubai — What Every Business Should Know. | Five Programmers | [Read More](https://medium.com/p/81dfee29239f) |
-| Mon, 09 Jun 2025 09:22:19 GMT | The Daily Tech Digest: 09 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/6ec3cced8d25) |
