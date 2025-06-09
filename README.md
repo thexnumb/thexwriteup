@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 10:43:28 GMT | How Private Companies Can Help Mumbai’s Security | Protectone | [Read More](https://medium.com/p/b59043290e06) |
+| Mon, 09 Jun 2025 10:36:45 GMT | WWDC 2025: Privacy is Why Apple Intelligence Ought to Succeed | Zoe Lim Yi Qing | [Read More](https://medium.com/p/fd8f2100e745) |
+| Mon, 09 Jun 2025 10:33:03 GMT | [CyberSec] Email-Based Attacks: Techniques, Tactics, and Detection | Pietro Romano / SecBeret | [Read More](https://medium.com/p/a3276332f3cd) |
+| Mon, 09 Jun 2025 10:23:32 GMT | Setting Up Windows 10 VM-1 for Your Cybersecurity Lab | Abyss | [Read More](https://medium.com/p/3b4ea6ef7489) |
+| Mon, 09 Jun 2025 10:22:08 GMT | Role of AI in Cybersecurity: Friend or Foe? | FACE Prep Campus | [Read More](https://medium.com/p/3c9ea2ff96fe) |
+| Mon, 09 Jun 2025 10:21:37 GMT | Top reasons to use Custom Built Gaming Computers Canberra — A Precise Overview | Eserve Infotech | [Read More](https://medium.com/p/b94390541dd1) |
+| Mon, 09 Jun 2025 10:19:23 GMT | AI-Powered Cyber Threats in 2025: The Rise of Autonomous Attack Agents and the Collapse of… | Chetan Seripally | [Read More](https://medium.com/p/ce80a5f05afa) |
+| Mon, 09 Jun 2025 10:11:46 GMT | Let’s Talk About HTTP — The Backbone of the Web (And a Goldmine for DFIR Folks) | Dean | [Read More](https://medium.com/p/1cf3341dc51f) |
 | Mon, 09 Jun 2025 10:11:02 GMT | How Criminals Use Dead Drops and Covert Channels on the Dark Web | Sandesh Kumar | [Read More](https://medium.com/p/622167c2c830) |
 | Mon, 09 Jun 2025 10:07:22 GMT | Firewall 101: Why can’t Businesses afford to ignore firewalls? | Rabia Riaz | [Read More](https://medium.com/p/bdd140557963) |
 | Mon, 09 Jun 2025 10:06:49 GMT | Some Cloud Storage Providers Can Access Your Files: Can Yours? | Karl Buhl | [Read More](https://medium.com/p/3ec065eb25b3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 05:41:52 GMT | Global Cybersecurity Threat Landscape — April 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/fa9b6bb1e103) |
 | Mon, 09 Jun 2025 05:39:44 GMT | Plan Ahead This Eid: Secure Your Valuables with Vintage Vaults Before the Summer Rush | Vintage Vaults | [Read More](https://medium.com/p/1fac9c03f752) |
 | Mon, 09 Jun 2025 05:36:45 GMT | Everything You Need to Know About XSS — with AI Prompts | Narendar Battula (nArEn) | [Read More](https://medium.com/p/438a76ed695f) |
-| Mon, 09 Jun 2025 05:34:23 GMT | Bypassing Rewrite Rules in Web Servers + WAF Bypass for bug Bounties | d1lv3rdn4 | [Read More](https://medium.com/p/ec885c1b2630) |
-| Mon, 09 Jun 2025 05:33:02 GMT | Antivirus Says You’re Clean? Cool Story, Bro — Let’s Ask Sysmon | Aniruddha Ramane | [Read More](https://medium.com/p/650830df997a) |
-| Mon, 09 Jun 2025 05:27:51 GMT | The Biggest Mystery the Internet ever witnessed… | Maaz Shaikh | [Read More](https://medium.com/p/6b7e81295489) |
-| Mon, 09 Jun 2025 05:24:36 GMT | From Raw Logs to Automated Alerts: Building an AI-Powered Threat Detection Pipeline | Menelik | [Read More](https://medium.com/p/a303bf255b7d) |
-| Mon, 09 Jun 2025 05:21:45 GMT | How a Simple Git Leak Led to AWS Keys & Database Credentials | TheRoyHunter313 | [Read More](https://medium.com/p/1f24ed5bd665) |
-| Mon, 09 Jun 2025 05:21:39 GMT | The IAM Revolution: New Tools & Trends Shaping Identity Security in the AI Era (May 2025 Roundup) | Siva Desetti | [Read More](https://medium.com/p/da7a9594b01b) |
-| Mon, 09 Jun 2025 05:20:08 GMT | My Career Transformation: From M&E Expert to IT Support Specialist | Simon A. Augustine | [Read More](https://medium.com/p/951a74ada7af) |
-| Mon, 09 Jun 2025 05:10:15 GMT | Logistics Security Robotics | Presslink Media | [Read More](https://medium.com/p/2f03a707b928) |
