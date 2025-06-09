@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 05:36:45 GMT | Everything You Need to Know About XSS — with AI Prompts | Narendar Battula (nArEn) | [Read More](https://medium.com/p/438a76ed695f) |
+| Mon, 09 Jun 2025 05:34:23 GMT | Bypassing Rewrite Rules in Web Servers + WAF Bypass for bug Bounties | d1lv3rdn4 | [Read More](https://medium.com/p/ec885c1b2630) |
+| Mon, 09 Jun 2025 05:33:02 GMT | Antivirus Says You’re Clean? Cool Story, Bro — Let’s Ask Sysmon | Aniruddha Ramane | [Read More](https://medium.com/p/650830df997a) |
+| Mon, 09 Jun 2025 05:27:51 GMT | The Biggest Mystery the Internet ever witnessed… | Maaz Shaikh | [Read More](https://medium.com/p/6b7e81295489) |
+| Mon, 09 Jun 2025 05:24:36 GMT | From Raw Logs to Automated Alerts: Building an AI-Powered Threat Detection Pipeline | Menelik | [Read More](https://medium.com/p/a303bf255b7d) |
 | Mon, 09 Jun 2025 05:21:45 GMT | How a Simple Git Leak Led to AWS Keys & Database Credentials | TheRoyHunter313 | [Read More](https://medium.com/p/1f24ed5bd665) |
+| Mon, 09 Jun 2025 05:21:39 GMT | The IAM Revolution: New Tools & Trends Shaping Identity Security in the AI Era (May 2025 Roundup) | Siva Desetti | [Read More](https://medium.com/p/da7a9594b01b) |
 | Mon, 09 Jun 2025 05:20:08 GMT | My Career Transformation: From M&E Expert to IT Support Specialist | Simon A. Augustine | [Read More](https://medium.com/p/951a74ada7af) |
 | Mon, 09 Jun 2025 05:10:15 GMT | Logistics Security Robotics | Presslink Media | [Read More](https://medium.com/p/2f03a707b928) |
 | Mon, 09 Jun 2025 05:04:02 GMT | How I bypassed the same open redirect endpoint not once, not twice… but FOUR times | Ektu_Hacker/SANDIP | [Read More](https://medium.com/p/1299a56c75f4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Jun 2025 19:23:32 GMT | Assertion101 writeup — Proving ground — complete writeup. | Priyanshu | [Read More](https://medium.com/p/1b81f3ce36b2) |
 | Sun, 08 Jun 2025 19:15:51 GMT | I’m Back: Why Your Two-Factor Authentication Isn’t Protecting You | Ayas Ismail | [Read More](https://medium.com/p/0b6bad7f2e91) |
 | Sun, 08 Jun 2025 19:12:48 GMT | Is Cyber Security Hard? Tips to Make It Easier to Learn | Simplilearn | [Read More](https://medium.com/p/871a7517103b) |
-| Sun, 08 Jun 2025 19:10:46 GMT | Hacktivism: The Impact of Hackers on Modern Society | Xaliq Həsənov | [Read More](https://medium.com/p/83ef06a68231) |
-| Sun, 08 Jun 2025 19:10:21 GMT | DEADLY INTENTIONS | Boluwatife Lash | [Read More](https://medium.com/p/c8fcb9ee80e4) |
-| Sun, 08 Jun 2025 19:10:12 GMT | Brute-Forcing MikroTik MAC-Winbox: A Practical Python Tool | Abdul Khakim | [Read More](https://medium.com/p/ab00f69c8f89) |
-| Sun, 08 Jun 2025 19:10:00 GMT | Supply-Chain Malware Targets Popular NPM & PyPI Packages in GlueStack Attack | Ronit Yadav | [Read More](https://medium.com/p/5cec43cf2a6a) |
-| Sun, 08 Jun 2025 19:07:05 GMT | ArchCrack: A Simple Brute-Force Tool for Archive Passwords | Steven Juliano | [Read More](https://medium.com/p/48aa917c4720) |
-| Sun, 08 Jun 2025 19:05:07 GMT | My Cyber Security Journey Begins: Why I’m Starting With Linux | Okoye Munachi | [Read More](https://medium.com/p/462ce5d04937) |
