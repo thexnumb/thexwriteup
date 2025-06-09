@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Jun 2025 17:36:37 GMT | Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter | hacker_might | [Read More](https://medium.com/p/b309956402f8) |
+| Mon, 09 Jun 2025 17:24:18 GMT | Call Your People | Damilola Abiodun | [Read More](https://medium.com/p/8401bd61dca9) |
+| Mon, 09 Jun 2025 17:21:58 GMT | The True Cost of a Weak Login: What One Breach Can Do to a Growing Business | Dr. Shashi Karhail | [Read More](https://medium.com/p/a5044a9bd606) |
+| Mon, 09 Jun 2025 17:21:08 GMT | Drhackarr Project Introduction — How I Built My Own Red Team Framework | Samuel Rbsh | [Read More](https://medium.com/p/97b513b1c716) |
 | Mon, 09 Jun 2025 17:11:21 GMT | From Hunger to Hacker: How a Zomato Order Earned Me ₹25K” | praveen p | [Read More](https://medium.com/p/706b879c2bce) |
 | Mon, 09 Jun 2025 17:06:35 GMT | How Dare You Dictate My Security! Debunk to Debank! | Guy Valdez ♱ | [Read More](https://medium.com/p/a58101140c17) |
 | Mon, 09 Jun 2025 17:04:53 GMT | Lo que la IA nunca atacará: La red energética | Carlos Uraga | [Read More](https://medium.com/p/70802e04d238) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 12:43:04 GMT | Top 10 companies offering crypto-backed insurance products | Payal Purbhoo | [Read More](https://medium.com/p/328ea58e1d1d) |
 | Mon, 09 Jun 2025 12:42:16 GMT | ECC & Web3 Cryptography: Pilar Keamanan Internet Masa Depan dan Ancaman yang Mengintai | Janukhi Bisyri | [Read More](https://medium.com/p/3295dc12f396) |
 | Mon, 09 Jun 2025 12:39:38 GMT | The Role of Cyber Risk Assessment & Planning in Compliance and Data Protection | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/79caed3ebbde) |
-| Mon, 09 Jun 2025 12:36:09 GMT | Cloudflare R2 File Upload & Delete Service with AWS S3-compatible API (Express.js & Multer) | Eva Sabrina | [Read More](https://medium.com/p/714a2bb47fde) |
-| Mon, 09 Jun 2025 12:32:12 GMT | Best Reconciliation Software for Small Businesses: Save Time and Money | Kosh AI | [Read More](https://medium.com/p/49ef2c4d67ae) |
-| Mon, 09 Jun 2025 12:26:28 GMT | Why Cybersecurity Governance Is Now a Boardroom Responsibility | GoTrust Tech | [Read More](https://medium.com/p/2f87371289ca) |
-| Mon, 09 Jun 2025 12:26:15 GMT | I Am Quitting Social Media Completely! (Deepfakes phobia) | Olamide Joy Akinlolu | [Read More](https://medium.com/p/05ee37d25e26) |
