@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 22:02:33 GMT | Evil Twin attacks with eaphammer | anonymous howtos | [Read More](https://medium.com/p/dcdbedf6ab7f) |
+| Tue, 10 Jun 2025 22:00:57 GMT | The First Glyph | Obmanwikobmanwik | [Read More](https://medium.com/p/524c78f96494) |
+| Tue, 10 Jun 2025 21:54:30 GMT | Why Threat Agents Must be Included in Cybersecurity Risk Assessments | Matthew.Rosenquist | [Read More](https://medium.com/p/848d31db17dc) |
+| Tue, 10 Jun 2025 21:51:57 GMT | What GRC Actually Needs from AI (And What It Doesn’t) | Nikita Gupta | [Read More](https://medium.com/p/85aba9b302b6) |
+| Tue, 10 Jun 2025 21:51:34 GMT | How the System Starts to See Differently | Obmanwikobmanwik | [Read More](https://medium.com/p/8ea96edef7bb) |
+| Tue, 10 Jun 2025 21:42:21 GMT | Why Your CI Pipeline Needs Network Security (And How We Built It) | Depot | [Read More](https://medium.com/p/d80b4a416555) |
+| Tue, 10 Jun 2025 21:42:19 GMT | How to know you are (and not) a fit for Cybersecurity | Rifqi Ardia Ramadhan | [Read More](https://medium.com/p/1aa7af0db483) |
+| Tue, 10 Jun 2025 21:34:38 GMT | Jen Ellis of NextJenSecurity Joins CVE Board | CVE Program Blog | [Read More](https://medium.com/p/6c9ff4eded4c) |
+| Tue, 10 Jun 2025 21:29:12 GMT | Fractals Beyond Reality | Obmanwikobmanwik | [Read More](https://medium.com/p/41d2884cd27e) |
+| Tue, 10 Jun 2025 21:29:09 GMT | Best Crypto Asset Recovery Service | Thomasbrant | [Read More](https://medium.com/p/114d17151d3c) |
 | Tue, 10 Jun 2025 21:23:25 GMT | Five Ways to Protect Your Crypto: Simple Steps | Arx Locker | [Read More](https://medium.com/p/0eee8488c083) |
 | Tue, 10 Jun 2025 21:07:00 GMT | Modbus TCP üzerinden Endüstriyel Sistemlere Erişim : Modbus Slave ortamı | Tekin Emre | [Read More](https://medium.com/p/15554fa7175a) |
 | Tue, 10 Jun 2025 21:02:48 GMT | LummaC2 Uncovered: Detection Strategies for a Growing Stealer Threat | Rick Martin | [Read More](https://medium.com/p/03496681dd83) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 15:53:04 GMT | WANTED: One Brave Soul to Become Follower #100 | Bobby | [Read More](https://medium.com/p/79268d0fd1b9) |
 | Tue, 10 Jun 2025 15:51:11 GMT | Retail Under Siege: Why the Browser Is the New Cyber Battleground | Mary Yang | [Read More](https://medium.com/p/6ecfb690154b) |
 | Tue, 10 Jun 2025 15:49:49 GMT | Asset Inventory & Configuration Management | Igor Berner | [Read More](https://medium.com/p/299744c158fc) |
-| Tue, 10 Jun 2025 15:46:22 GMT | Managed Security Service Providers in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/1b5a3411535a) |
-| Tue, 10 Jun 2025 15:36:03 GMT | Understanding Browser Attacks: Threats and Defenses | SafeAeon Inc. | [Read More](https://medium.com/p/ed411f96984c) |
-| Tue, 10 Jun 2025 15:35:07 GMT | Nmap Crash Course For Ethical Hackers | Rohit Chaudhary | [Read More](https://medium.com/p/fe2b5c45fffb) |
-| Tue, 10 Jun 2025 15:31:51 GMT | GZR Observer Daily — Jun 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ea048119a069) |
-| Tue, 10 Jun 2025 15:27:01 GMT | Careers in Cyber Securi | Gokulkanagaraj | [Read More](https://medium.com/p/da1553c1305f) |
-| Tue, 10 Jun 2025 15:20:16 GMT | Post-Quantum Cryptography: Securing Our Digital Future | Orange Digital Center | [Read More](https://medium.com/p/281644baaa29) |
-| Tue, 10 Jun 2025 15:15:25 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Taraschiffmacher | [Read More](https://medium.com/p/796d57c46fbf) |
-| Tue, 10 Jun 2025 15:14:04 GMT | How to handle exceptions in Java♨️? | Hari Prasad | [Read More](https://medium.com/p/ce8a49faf1e5) |
-| Tue, 10 Jun 2025 15:02:57 GMT | c2Pac: Prototyping C2 Channels Like a Thug | Tom O'Neill | [Read More](https://medium.com/p/5716f36797c3) |
-| Tue, 10 Jun 2025 15:02:13 GMT | Authentication vs. Authorization: Understanding the Key Security Differences | PCnet | [Read More](https://medium.com/p/8a648b204c0a) |
