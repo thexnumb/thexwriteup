@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 16:42:11 GMT | The Life You Post vs. The Life You Live | Sera Dawn | [Read More](https://medium.com/p/8e7d1bdbb2b0) |
+| Tue, 10 Jun 2025 16:32:01 GMT | Kali GPT: An Offensive Security Assist That Cuts Through the Noise | cybrNK | [Read More](https://medium.com/p/651e227b7d01) |
+| Tue, 10 Jun 2025 16:29:18 GMT | Reliable. Accountable. In Control. Every Shift, Every Site. | EXLITY | [Read More](https://medium.com/p/16a44da2c22e) |
+| Tue, 10 Jun 2025 16:23:03 GMT | ️Day 59: Bash Scripting -Mastering String and Array Manipulation | Agarwaldaksh | [Read More](https://medium.com/p/61348829565a) |
 | Tue, 10 Jun 2025 16:20:32 GMT | Backup Storage Strategies | Igor Berner | [Read More](https://medium.com/p/abedb26f7e1d) |
 | Tue, 10 Jun 2025 16:16:12 GMT | Dark Web Monitoring by MSPs | SafeAeon Inc. | [Read More](https://medium.com/p/e1213e45f266) |
 | Tue, 10 Jun 2025 16:05:58 GMT | Inside NIST’s June 2025 Meeting: Where US Tech Policy Gets Personal | Maurizio Morri | [Read More](https://medium.com/p/2ecb82fd547a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 09:46:47 GMT | Introduction: Diploma in Information Security Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/29a1631ef68c) |
 | Tue, 10 Jun 2025 09:27:04 GMT | The Double-Edged Sword: How AI Empowers Both Cyber Attackers and Defenders | Paul Sherman | [Read More](https://medium.com/p/64e7d3e72f72) |
 | Tue, 10 Jun 2025 09:25:35 GMT | Trusted Crypto recovery specialist — Crypto Recovery Option | Robertjoness | [Read More](https://medium.com/p/0a7c9b58c2bf) |
-| Tue, 10 Jun 2025 09:17:59 GMT | Practical Recommendations for Firewall Proxy Implementation: A Guide to Securing Your Virtual… | zainal Abidin | [Read More](https://medium.com/p/f60a252b9067) |
-| Tue, 10 Jun 2025 09:12:27 GMT | How to Recover Scammed USDT/BITCOIN | Robertjoness | [Read More](https://medium.com/p/73d63b1f6956) |
-| Tue, 10 Jun 2025 09:11:03 GMT | Respiracion | Camila Forame | [Read More](https://medium.com/p/db152a098995) |
-| Tue, 10 Jun 2025 09:09:41 GMT | AI and Bug Bounty: The Future of Cybersecurity and How to Stay Sane | Mahetagaurang | [Read More](https://medium.com/p/e8de0d311e9b) |
