@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 08:15:42 GMT | Demystifying ECC, Web3 Cryptography and Their Evolving Threats | Bumi Aryadirangga | [Read More](https://medium.com/p/d61a84676e05) |
+| Tue, 10 Jun 2025 08:11:08 GMT | Meet Kali GPT: The Future of Penetration Testing with AI-Powered Intelligence | Laibakhalid | [Read More](https://medium.com/p/d05a363d2d15) |
+| Tue, 10 Jun 2025 08:10:59 GMT | Building Enterprise-Grade, Secure Applications With OpenFGA And Terraform | Maurice Ackel | [Read More](https://medium.com/p/4033e88f294f) |
+| Tue, 10 Jun 2025 08:06:46 GMT | ️ 5 Essential Nmap Commands Every Beginner Bug Bounty Hunter Must Know | Soumyashree Sahoo | [Read More](https://medium.com/p/4fee04e1a70a) |
+| Tue, 10 Jun 2025 08:04:39 GMT | eJPT - 3.1 System/Host Based Attacks (II) | Hammaad M | [Read More](https://medium.com/p/bc9c5b7adfdf) |
+| Tue, 10 Jun 2025 08:02:25 GMT | Damn Vulnerable DeFi — #03 Truster | 0xByteKnight | [Read More](https://medium.com/p/751c5528450b) |
+| Tue, 10 Jun 2025 08:01:38 GMT | Ghost in the Network | Tide Foundation | [Read More](https://medium.com/p/51b73b17fe50) |
+| Tue, 10 Jun 2025 07:58:42 GMT | Inside the EthCC Token Engineering Track: The Annual Gathering for Cryptoeconomic Innovation | Angela Kreitenweis | [Read More](https://medium.com/p/4b1c0c84e9a1) |
+| Tue, 10 Jun 2025 07:55:55 GMT | CVSS: Tingkat Keparahan Sebuah Kerentanan | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/97507a425fd2) |
+| Tue, 10 Jun 2025 07:53:35 GMT | Found Critical Vulnerability: Unauthorized Access to Customer Support Emails and Data via… | Ravindra | [Read More](https://medium.com/p/a3a1c0a42e23) |
+| Tue, 10 Jun 2025 07:52:16 GMT | How to Prevent Implementation-Level Vulnerabilities: SQL Injection, XSS, and Buffer Overflow… | Maurice Lichtenberg | [Read More](https://medium.com/p/321682613f31) |
+| Tue, 10 Jun 2025 07:51:19 GMT | ประจำวันอังคารที่ 10 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/35aa7c4d100a) |
+| Tue, 10 Jun 2025 07:42:50 GMT | Microsoft OneDrive Flaw Could Expose Entire Cloud Storage | SafetyDetectives Research Team | [Read More](https://medium.com/p/ef59f30af255) |
+| Tue, 10 Jun 2025 07:39:48 GMT | Cache-Busting Bonanza: How I Bypassed Rate Limits Using HTTP Weirdness | Iski | [Read More](https://medium.com/p/6d0d137cb7d7) |
 | Tue, 10 Jun 2025 07:31:16 GMT | Weekly Cybersecurity Recap: Chrome 0-Day, Data Wipers, Misused Tools & Zero-Click iPhone Attacks… | Navigtech | [Read More](https://medium.com/p/c4a38689f183) |
 | Tue, 10 Jun 2025 07:30:31 GMT | EXAMPLE TOOLS BRUTE FORCE LOGIN WINBOX ADDRESS DENGAN PYTHON | My Ego | [Read More](https://medium.com/p/303857c6082b) |
 | Tue, 10 Jun 2025 07:27:43 GMT | Cybersecurity and You! | Amaya Uththara Weerawardhana | [Read More](https://medium.com/p/2fafcdbc43f1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 00:49:46 GMT | Malware Unmasked | Ed-it Editions | [Read More](https://medium.com/p/c98964bb6103) |
 | Tue, 10 Jun 2025 00:21:57 GMT | From Command to Collaboration: A Leadership Evolution in Cybersecurity | Yaroslav | [Read More](https://medium.com/p/3078f1d8cd17) |
 | Tue, 10 Jun 2025 00:21:16 GMT | How Threat-Savvy Companies Can Defend Against Data Breaches | Financial Poise | [Read More](https://medium.com/p/3223df67f834) |
-| Tue, 10 Jun 2025 00:05:37 GMT | We’ve all heard the same privacy advice over and over again: | Lydiah Muigwa | [Read More](https://medium.com/p/3259652b1a93) |
-| Mon, 09 Jun 2025 23:22:24 GMT | The Secret Code of the Future: ECC, Web3 Cryptography, and Why Hackers Want to Crack It | Galihabraa | [Read More](https://medium.com/p/e8fc58e23af7) |
-| Mon, 09 Jun 2025 23:17:04 GMT | Day 9: The Anthropic’s MCP as a Data Agent — Use-cases(Part 4) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/4ede7e435bc1) |
-| Mon, 09 Jun 2025 23:06:42 GMT | From Math to Market: How Dilithium & Falcon Forge Compact, Quantum-Safe Signatures | PinakashieldTech OÜ | [Read More](https://medium.com/p/4496690de0d8) |
-| Mon, 09 Jun 2025 23:05:41 GMT | 09039689679 | شماره خاله #شماره خاله تهران #خاله09052028942 | [Read More](https://medium.com/p/a0e8922577d4) |
-| Mon, 09 Jun 2025 22:42:11 GMT | 60 Abscences and a Pulse | maple syrup fox | [Read More](https://medium.com/p/7ce09d1a7410) |
-| Mon, 09 Jun 2025 22:31:43 GMT | Unmasking the Chaos: A Pen Tester’s View on June 9, 2025 Cybersecurity Events | Inforsecpro | [Read More](https://medium.com/p/4cb5bdf94aca) |
-| Mon, 09 Jun 2025 22:29:43 GMT | The M&S Breach: A Wake-Up Call for Teams Still Chasing Malware | Natalie Torrijos | [Read More](https://medium.com/p/e7cd9a74cdb3) |
-| Mon, 09 Jun 2025 22:23:33 GMT | Data Encryption Standard (DES) | Raviteja Mureboina | [Read More](https://medium.com/p/45918edbef13) |
-| Mon, 09 Jun 2025 22:22:39 GMT | Hacking the Frontlines: A Pen Tester’s Take on June 9, 2025 Cybersecurity Threats | hackerguy | [Read More](https://medium.com/p/6ee6dca91299) |
-| Mon, 09 Jun 2025 22:16:39 GMT | Automating Subdomain Enumeration: Tools and Techniques that Scale | Karthikeyan Nagaraj | [Read More](https://medium.com/p/caceadf70c03) |
-| Mon, 09 Jun 2025 22:10:58 GMT | The girl who’s too good to be true | Christypeace | [Read More](https://medium.com/p/080a0bafbcd8) |
-| Mon, 09 Jun 2025 22:10:40 GMT | GraphQL Role Escalation and Data Exposure | Omer Mohsen | [Read More](https://medium.com/p/4cc340431289) |
-| Mon, 09 Jun 2025 22:06:25 GMT | Hacking the Headlines: A Pen Tester’s Take on June 9, 2025 Cybersecurity Events | Pentestjunkie07 | [Read More](https://medium.com/p/a47ff03e6ffd) |
