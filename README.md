@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 11:26:52 GMT | Detecting Deepfakes with OpenCV: A Technical Guide for Real-Time Video Analysis | Aditya Subhedar | [Read More](https://medium.com/p/4a82748689aa) |
+| Tue, 10 Jun 2025 11:25:20 GMT | Critical Google Security Flaw Exposes Millions of Users’ Phone Numbers Through Brute-Force Attack | Technijian | [Read More](https://medium.com/p/61c1e19f653f) |
+| Tue, 10 Jun 2025 11:21:28 GMT | Urgent Cyber Threats to Indian Sectors: What Zeron’s Advisory Reveals | Zeron | [Read More](https://medium.com/p/bc1643ad6ba9) |
+| Tue, 10 Jun 2025 11:20:43 GMT | Journey in Cybersecurity 2.0 | Naman Badlani | [Read More](https://medium.com/p/0f5b2be869e2) |
 | Tue, 10 Jun 2025 11:02:14 GMT | How Reverse Image Search Works and Why It Matters (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/7fe8dfc86121) |
 | Tue, 10 Jun 2025 10:38:26 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/ba7fbddb2669) |
 | Tue, 10 Jun 2025 10:34:09 GMT | A Guide to Kali GPT: Your New Cyber-Sidekick! | Gideon Bakel | [Read More](https://medium.com/p/77dfc397bc1b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Jun 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9e3b94d5c266) |
 | Tue, 10 Jun 2025 06:00:16 GMT | 30 Days of Cyber Security — Day 15: Client-side vs Server-side Vulnerability | Indra Rahmat Maulidi | [Read More](https://medium.com/p/668826570d5d) |
 | Tue, 10 Jun 2025 05:52:10 GMT | Personal SQL Cheatsheet | Shadem | [Read More](https://medium.com/p/441b03ed7487) |
-| Tue, 10 Jun 2025 05:46:25 GMT | PoisonedCredentials — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/00cc7f27285e) |
-| Tue, 10 Jun 2025 05:45:24 GMT | OSCP/OSCP+ Journey — This is Not Just About Technical (In English) | Justakazh | [Read More](https://medium.com/p/0437a15a8f84) |
-| Tue, 10 Jun 2025 05:25:52 GMT | Organizational Roles, Responsibilities, and Authorities (Clause 5.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/b3bb3c9b6064) |
-| Tue, 10 Jun 2025 05:22:26 GMT | Cybersecurity Career Guide: Proven Pathways to Long-Term Success | leo lisa | [Read More](https://medium.com/p/f6960ea49d33) |
