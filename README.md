@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 07:11:49 GMT | What Are Security Robots? | Marcus Koehnlein | [Read More](https://medium.com/p/15e290cc9df4) |
+| Tue, 10 Jun 2025 07:04:42 GMT | Why Threat Actors Target the Energy Sector | David SEHYEON Baek | [Read More](https://medium.com/p/e5faf939434c) |
+| Tue, 10 Jun 2025 07:03:53 GMT | Worst-Case Scenarios of AI Platform Account Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/faa1d031a650) |
+| Tue, 10 Jun 2025 07:03:33 GMT | DragonForce, The Cybercrime Syndicate Behind High-Profile Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/2a4f9391a5b8) |
+| Tue, 10 Jun 2025 07:03:15 GMT | Malaysia’s 2025 Ransomware Epidemic is Just Scratching the Surface | David SEHYEON Baek | [Read More](https://medium.com/p/40ff3e2b3c6b) |
+| Tue, 10 Jun 2025 07:02:56 GMT | “Let Me Send It to You by Email — It’s Confidential!” Why That’s a Red Flag in Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/c7d7e1dcb854) |
+| Tue, 10 Jun 2025 07:02:34 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/15b9de13a0ce) |
+| Tue, 10 Jun 2025 07:02:00 GMT | CRACK THE CODE: What Every Hacker Color Really Means | Satyam Kumar | [Read More](https://medium.com/p/cb161c8c1e1e) |
+| Tue, 10 Jun 2025 07:00:53 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/b0b9680780f0) |
+| Tue, 10 Jun 2025 07:00:37 GMT | Building a Cybersecurity Nerve Center for the Modern Age, Next-Gen SIEM | David SEHYEON Baek | [Read More](https://medium.com/p/fe4dc22d5f60) |
+| Tue, 10 Jun 2025 07:00:07 GMT | Why Threat Actor Analysis is Essential in Modern Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/71e8258bbae6) |
+| Tue, 10 Jun 2025 06:59:49 GMT | How a 141-Year-Old British Giant, Marks & Spencer, Was Brought Down by a Social Engineering-Driven… | David SEHYEON Baek | [Read More](https://medium.com/p/171c14c51c36) |
+| Tue, 10 Jun 2025 06:59:31 GMT | The Most Cyber-Vulnerable Countries to Work From | David SEHYEON Baek | [Read More](https://medium.com/p/e924775f631b) |
+| Tue, 10 Jun 2025 06:58:52 GMT | CrowdStrike Outage Litigation and Investigations Since July 2024 Until May 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/09f5fc31b1cd) |
+| Tue, 10 Jun 2025 06:58:04 GMT | Account Takeover with OAuth Misconfiguration. | matitanium | [Read More](https://medium.com/p/d6b384649930) |
+| Tue, 10 Jun 2025 06:53:13 GMT | Top Benefits of Hiring Traffic Marshal Services | Jane Tang | [Read More](https://medium.com/p/c980a3234a52) |
+| Tue, 10 Jun 2025 06:50:13 GMT | Could XSS Be the Hidden Key to Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/f316d985dd6a) |
+| Tue, 10 Jun 2025 06:49:10 GMT | OSWE Web Hacking Tips (IPPSEC): Java Reversing #2 | Anezaneo | [Read More](https://medium.com/p/7b17f7aeccc7) |
+| Tue, 10 Jun 2025 06:49:03 GMT | Crafting Standalone Python Proof of Concept Exploits | Pampuna | [Read More](https://medium.com/p/5e02317134db) |
+| Tue, 10 Jun 2025 06:48:13 GMT | $560 Bounty: How Twitter’s Android App Leaked User Location | Monika sharma | [Read More](https://medium.com/p/698a8f4d4b18) |
+| Tue, 10 Jun 2025 06:44:21 GMT | An In-Depth Look at the Burgeoning FPGA Security Market | Jay Dharmadhikari | [Read More](https://medium.com/p/903a76c51658) |
+| Tue, 10 Jun 2025 06:42:59 GMT | Red Team Tactics and Their Detection Counterparts: A Purple Team Guide | Paritosh | [Read More](https://medium.com/p/a20c18ea4402) |
+| Tue, 10 Jun 2025 06:42:07 GMT | Hacking My Own SSH Server: A Real-World Brute Force Attack Lab You Can Try at Home | Elizabeth Akindele | [Read More](https://medium.com/p/c93bbc0a91cf) |
+| Tue, 10 Jun 2025 06:36:50 GMT | The WannaCry Wake-Up Call: Is Your Business Prepared for the Next Ransomware Attack? | Ryan kennedy | [Read More](https://medium.com/p/c1cc9dcad491) |
+| Tue, 10 Jun 2025 06:34:42 GMT | ETHICAL HACKING: | sathya narayanan | [Read More](https://medium.com/p/957eef2fb327) |
+| Tue, 10 Jun 2025 06:27:04 GMT | Security issues in JWT Tokens | Monethic.io | [Read More](https://medium.com/p/d98b1afca423) |
 | Tue, 10 Jun 2025 06:15:51 GMT | Intro to Platform Engineering: What it is and Why it Matters Now | Abhishek Sharma | [Read More](https://medium.com/p/385f438e1883) |
 | Tue, 10 Jun 2025 06:14:46 GMT | Access Control in Solidity: Beyond onlyOwner | XV Dev Labs | [Read More](https://medium.com/p/fb7f9f8a7764) |
 | Tue, 10 Jun 2025 06:12:56 GMT | Kali GPT — An AI-Powered Offensive Security Assistant | Shana Buhaisa | [Read More](https://medium.com/p/43e4477cbc65) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 21:46:12 GMT | PentestGPT: The Future of Automated Penetration Testing with AI | Ekene Joseph | [Read More](https://medium.com/p/256799a378ae) |
 | Mon, 09 Jun 2025 21:41:40 GMT | Mastering Threat Intelligence in Wazuh: A Step-by-Step Guide with OTX Integration | ierdnA | [Read More](https://medium.com/p/f0180b72747b) |
 | Mon, 09 Jun 2025 21:38:58 GMT | The Virtualization of Workstations: Why Red Teamers Must Learn to Hack the Cloud Desktop | Yua Mikanana | [Read More](https://medium.com/p/e391ac858ea6) |
-| Mon, 09 Jun 2025 21:25:35 GMT | MalwareGPT: The Dark Side of AI — How Cybercriminals Are Weaponizing Language Models | Ekene Joseph | [Read More](https://medium.com/p/be6e6c463ed1) |
-| Mon, 09 Jun 2025 20:49:12 GMT | A Complete Guide to Security Guard Jackets, Uniforms, and Accessories | Prouniformsusa | [Read More](https://medium.com/p/988b9c879f23) |
-| Mon, 09 Jun 2025 20:45:02 GMT | Easy IDOR lead to dislosed PII data leakage{Name, Username, Password} | Abhishek  (Bug Hunter) | [Read More](https://medium.com/p/053c2783f8a6) |
-| Mon, 09 Jun 2025 20:44:44 GMT | Ghost Files for Inter Process Communication | S12 - 0x12Dark Development | [Read More](https://medium.com/p/131dd9147450) |
-| Mon, 09 Jun 2025 20:42:04 GMT | Day 17: Crazy common web vulnerabilities | Nile Okomo | [Read More](https://medium.com/p/9b69c5668292) |
-| Mon, 09 Jun 2025 20:32:12 GMT | DOM-Based XSS Exploitation in jQuery Selector | musayyab sharif | [Read More](https://medium.com/p/21a996b9dd43) |
-| Mon, 09 Jun 2025 20:27:26 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 6] | Aditya Bhatt | [Read More](https://medium.com/p/1d48459744f6) |
-| Mon, 09 Jun 2025 20:11:43 GMT | Shift Left, Stay Local: Using AI Models in DevSecOps | Dave Patten | [Read More](https://medium.com/p/8f337b7112ca) |
-| Mon, 09 Jun 2025 20:11:13 GMT | Parol xeshlash algoritmini Argon2 ga yangilang. | Murodali Narzullayev | [Read More](https://medium.com/p/2a0c6699a7ca) |
-| Mon, 09 Jun 2025 19:59:08 GMT | RateFin Investment — Mauritius’s Biggest Online Scam of 2025 | Xcyber Squad | [Read More](https://medium.com/p/e2bdfebc8708) |
-| Mon, 09 Jun 2025 19:50:10 GMT | If Only Things Were Simple | Isha | [Read More](https://medium.com/p/e33fe7c2d995) |
-| Mon, 09 Jun 2025 19:48:53 GMT | Pixel Tracking Threats in Emails: Are You Being Watched? | Akshay Chauhan | [Read More](https://medium.com/p/7a5bc91954af) |
-| Mon, 09 Jun 2025 19:35:15 GMT | SQL injection | Davidmichael Ross | [Read More](https://medium.com/p/32fe2bafcb0a) |
-| Mon, 09 Jun 2025 19:35:05 GMT | Agentic AI: Power, Promise, and Peril (with a Side of Paranoia) | Richard Wilder | [Read More](https://medium.com/p/e2ea412eb132) |
-| Mon, 09 Jun 2025 19:31:59 GMT | Hacking APIs: Exploiting Shadow APIs and Forgotten Endpoints | Israel Aráoz Severiche | [Read More](https://medium.com/p/9930c78e7c2d) |
-| Mon, 09 Jun 2025 19:25:40 GMT | BehindTheScreens: Ransomware Surge, Data Leaks, and Global Cyber Clashes (June 2–9, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/2f8c8bf4ac35) |
-| Mon, 09 Jun 2025 19:24:33 GMT | What Is Penetration Testing? Tools, Techniques, and Why It Matters | 0b1d1 | [Read More](https://medium.com/p/cb08746e86de) |
-| Mon, 09 Jun 2025 19:16:58 GMT | Online Predators: How They Target Your Child (Real Warning Signs Every Parent Must Know) | Kinky | [Read More](https://medium.com/p/75f665b6cf60) |
-| Mon, 09 Jun 2025 19:14:36 GMT | Cảnh báo: Các gói độc hại trên PyPI, npm và RubyGems — Chúng ta cần hành động ngay! | Khue Pham | [Read More](https://medium.com/p/ab2362f831fe) |
-| Mon, 09 Jun 2025 19:02:57 GMT | Mac Hunt THM - Writeup | Domon | [Read More](https://medium.com/p/bbdaed316031) |
-| Mon, 09 Jun 2025 18:48:36 GMT | Precision Underwriting: How AI Is Reshaping Risk Assessment and Pricing in P&C Insurance | Nivedita Rahul | [Read More](https://medium.com/p/db2fa9871077) |
-| Mon, 09 Jun 2025 18:43:18 GMT | XSS in Hidden Input Without User Interaction | Mahmoud Gamal | [Read More](https://medium.com/p/acbd530c89b6) |
-| Mon, 09 Jun 2025 18:39:05 GMT | XSS Unleashed: Exploiting & Defending Cross-Site Scripting in the Wild | 0b1d1 | [Read More](https://medium.com/p/e026ea5e05e9) |
-| Mon, 09 Jun 2025 18:26:55 GMT | Inside a Failed Breach: How SentinelOne Became a Strategic Target of Chinese Cyber Espionage | Chetan Seripally | [Read More](https://medium.com/p/277fbe0d0647) |
-| Mon, 09 Jun 2025 18:21:14 GMT | Intro to Cold System Forensics | Isiah | [Read More](https://medium.com/p/fa115c5fd169) |
-| Mon, 09 Jun 2025 18:18:50 GMT | Whimsy & Order Tasky Part 2: Dari Temporary Memory ke Penyimpanan Permanen | Zifa Tea Azzahra | [Read More](https://medium.com/p/f4c3a9e44c0a) |
