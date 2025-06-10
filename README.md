@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 09:12:27 GMT | How to Recover Scammed USDT/BITCOIN | Robertjoness | [Read More](https://medium.com/p/73d63b1f6956) |
+| Tue, 10 Jun 2025 09:11:03 GMT | Respiracion | Camila Forame | [Read More](https://medium.com/p/db152a098995) |
+| Tue, 10 Jun 2025 09:09:41 GMT | AI and Bug Bounty: The Future of Cybersecurity and How to Stay Sane | Mahetagaurang | [Read More](https://medium.com/p/e8de0d311e9b) |
+| Tue, 10 Jun 2025 09:09:11 GMT | Elevate Your Trading with WhiteBIT’s “Boost Your Portfolio” Promo! | WhiteBIT | [Read More](https://medium.com/p/b275610beb0f) |
+| Tue, 10 Jun 2025 09:02:20 GMT | Build a GRC Program That Works | Harry West | [Read More](https://medium.com/p/fbf7a96c14ce) |
+| Tue, 10 Jun 2025 09:00:42 GMT | How Managed Detection and Response (MDR) Enhances Your Cybersecurity Posture: Real-World Advantages | Gargiben | [Read More](https://medium.com/p/f81e85808fde) |
+| Tue, 10 Jun 2025 09:00:20 GMT | Intelligent Process Mining 2025: Der ultimative Leitfaden für intelligente Prozessoptimierung | Philip Hansen | [Read More](https://medium.com/p/5fc6ae635343) |
+| Tue, 10 Jun 2025 09:00:18 GMT | Top Cybersecurity Frameworks and Standards You Should Know in 2025 | Madhavaraman | [Read More](https://medium.com/p/1d950886107f) |
+| Tue, 10 Jun 2025 09:00:01 GMT | Cognitive Automation 2025: Der ultimative Business-Leitfaden für Führungskräfte (+ exklusive… | Philip Hansen | [Read More](https://medium.com/p/3787eb4127f9) |
+| Tue, 10 Jun 2025 08:59:34 GMT | Intelligent Automation 2025: Der Strategische Wegweiser für Geschäftsführer zur… | Philip Hansen | [Read More](https://medium.com/p/2259c53936e6) |
+| Tue, 10 Jun 2025 08:54:22 GMT | Hash Functions Explained : Types & Examples | Shubhamitaliya | [Read More](https://medium.com/p/2d751e52eed9) |
+| Tue, 10 Jun 2025 08:52:15 GMT | Top 50 Kali Linux Tools: Comprehensive Guide for Security Professionals | Okan Yıldız | [Read More](https://medium.com/p/7bc8752d55b7) |
 | Tue, 10 Jun 2025 08:50:35 GMT | Upload2Own: How SQL Injection and File Upload Flaws Lead to Remote Code Execution | Adarsh Kumar | [Read More](https://medium.com/p/4e243e8312ea) |
 | Tue, 10 Jun 2025 08:38:38 GMT | DUTCH VERSION | Cora Westerink | [Read More](https://medium.com/p/4a7ee4b1efbd) |
 | Tue, 10 Jun 2025 08:34:24 GMT | Newspaper and News Search tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/664e84182251) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 03:42:42 GMT | Cara Mengatasi Wazuh Agent Active Tapi Log Tidak Terbaca | Haldian | [Read More](https://medium.com/p/1efe1782849f) |
 | Tue, 10 Jun 2025 03:42:22 GMT | BLUEPRINT — THM CTF — WRITEUP | 5kullk3r | [Read More](https://medium.com/p/bc77044228e4) |
 | Tue, 10 Jun 2025 03:32:18 GMT | The Silent Attack That Cost Millions: Unpacking the IKEA Operator’s Ransomware Ordeal | Deven Chhajed | [Read More](https://medium.com/p/e57039f7146d) |
-| Tue, 10 Jun 2025 03:22:31 GMT | OAuth Misuse: How Broken Flows and Open Redirects Lead to Account Hijack | Monika sharma | [Read More](https://medium.com/p/9f280680aab5) |
-| Tue, 10 Jun 2025 03:22:25 GMT | Windows PowerShell Event Logging | Daouda Diallo | [Read More](https://medium.com/p/ac201a79a011) |
-| Tue, 10 Jun 2025 03:03:38 GMT | Introduction to Wazuh | Ismail Hakim | [Read More](https://medium.com/p/9cd8195e42ac) |
-| Tue, 10 Jun 2025 02:26:25 GMT | Crypto Agility: Why it Matters in a Post-Quantum World | Syeda Chowdhury | [Read More](https://medium.com/p/6ea4430c9153) |
-| Tue, 10 Jun 2025 02:21:30 GMT | CyberGym: Evaluating AI Agents’ Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | YouShin kim | [Read More](https://medium.com/p/53fcd63578e9) |
-| Tue, 10 Jun 2025 01:57:27 GMT | Ethical Hacking Fundamentals for Software Quality Engineers: Key Terminologies, Network Overview… | Dimuth C Bandara | [Read More](https://medium.com/p/f57d7b7b4be5) |
-| Tue, 10 Jun 2025 01:54:31 GMT | Credit Card Scams in 2025: The Dark Web’s Open Secret | Internet Exposed | [Read More](https://medium.com/p/2fdeea8a7b30) |
-| Tue, 10 Jun 2025 01:52:09 GMT | Managing Symmetric Key Storage and Destruction | Raviteja Mureboina | [Read More](https://medium.com/p/08702c18b3e2) |
-| Tue, 10 Jun 2025 01:32:30 GMT | Brain-Computer Interface (BCI) Hacking & Neurodefense: The Next Cybersecurity Frontier | A-STAR7_DOCTOR | [Read More](https://medium.com/p/16dd64c630e6) |
-| Tue, 10 Jun 2025 01:29:09 GMT | Get $RECON  and Enjoy Instant Crypto Rewards | $RECON (Recon Solana) | [Read More](https://medium.com/p/ea4970370531) |
-| Tue, 10 Jun 2025 01:26:19 GMT | “Is Your Code Hiding a Crypto Heist? Inside the Most Dangerous Open-Source Attacks of 2025” | Cyber-AppSec | [Read More](https://medium.com/p/fce40afd61ec) |
-| Tue, 10 Jun 2025 01:13:17 GMT | Knowing Elliptic Curve Cryptography (ECC) and Web3 Cryptography as a Security Decentralization | Irfanbayu | [Read More](https://medium.com/p/bacf13860a88) |
