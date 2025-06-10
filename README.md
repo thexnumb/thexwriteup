@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 19:06:02 GMT | Visualizing Security and Correlating Events with Kibana Dashboards | Esra Kayhan | [Read More](https://medium.com/p/21bf94a9f9ef) |
+| Tue, 10 Jun 2025 19:05:29 GMT | The Invisible Threat: How LLM Plugins Could Become a New Frontier for Stealthy Cyber Attacks | Shannon Harrell Jr. | [Read More](https://medium.com/p/d4b2613ea09d) |
+| Tue, 10 Jun 2025 19:05:26 GMT | The ILOVEYOU Virus: When the First Social Engineering Attack Broke the Internet | Sneha Patil | [Read More](https://medium.com/p/5108782bf2d5) |
+| Tue, 10 Jun 2025 18:58:45 GMT | Gravity | Fatal Serendipity | [Read More](https://medium.com/p/f7dbc8836583) |
+| Tue, 10 Jun 2025 18:55:33 GMT | 7 CIS Security Best Practices I Apply on Every Linux Server I Set Up | Faruk Ahmed | [Read More](https://medium.com/p/8a8e723a4281) |
+| Tue, 10 Jun 2025 18:52:08 GMT | The problem with Pentest deliverables no one talks about | Kristi Shehu | [Read More](https://medium.com/p/a58ea1e7d616) |
 | Tue, 10 Jun 2025 18:46:47 GMT | Aftershocks: What Cyberattacks Leave Behind | MrsNo1Special | [Read More](https://medium.com/p/11e9ac9c9bdb) |
 | Tue, 10 Jun 2025 18:43:53 GMT | Digital Doppelgängers: The Deepfake Security Crisis | MrsNo1Special | [Read More](https://medium.com/p/eed95a682c7a) |
+| Tue, 10 Jun 2025 18:43:11 GMT | Tusk Infostealer Lab — Cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/372b2cb0eca5) |
+| Tue, 10 Jun 2025 18:42:58 GMT | AI Powered Recon: How Generative AI is Changing Pentesting Prep | Rishabh Shrivastava | [Read More](https://medium.com/p/104e3915ed4c) |
 | Tue, 10 Jun 2025 18:41:04 GMT | Hacking EPMD | RE4PER | [Read More](https://medium.com/p/f869f1685321) |
 | Tue, 10 Jun 2025 18:37:11 GMT | HELP! | Praise Ejiro | [Read More](https://medium.com/p/10aaa06d3b01) |
 | Tue, 10 Jun 2025 18:25:50 GMT | The Windows Security Journey — Group Managed Service Account (gMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/467bd387f5a6) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 13:11:35 GMT | BADBOX 2.0: Global Supply Chain Botnet Targeting Off-Brand Android Devices and Home Networks | Wes Young | [Read More](https://medium.com/p/8814b5814f81) |
 | Tue, 10 Jun 2025 13:08:34 GMT | How can the cybersecurity course offered by Edcited help me land a decent job in the cybersecurity… | Edcited | [Read More](https://medium.com/p/bf4d558dc37c) |
 | Tue, 10 Jun 2025 13:02:29 GMT | Peris.ai Playbooks: The New First Responder in Cyber Defense | Peris.ai Cybersecurity | [Read More](https://medium.com/p/bdb05b979d34) |
-| Tue, 10 Jun 2025 13:02:25 GMT | The Power of Passwords | Ed-it Editions | [Read More](https://medium.com/p/1b991b3c59d7) |
-| Tue, 10 Jun 2025 13:01:42 GMT | How I Made $4,260 Bypassing a Simple Username Bug | Ibtissam hammadi | [Read More](https://medium.com/p/d969868025c7) |
-| Tue, 10 Jun 2025 13:01:38 GMT | Overconfident employees: Your hidden cyber security threat? | Zack Calloway | [Read More](https://medium.com/p/81ab824fd515) |
-| Tue, 10 Jun 2025 12:52:17 GMT | Software Security: Best Practices for Robust and Secure Applications | Brooksolivia | [Read More](https://medium.com/p/b66f51ba8265) |
-| Tue, 10 Jun 2025 12:44:26 GMT | AI — Blessing Or Curse? | Frank Islam & Ed Crego | [Read More](https://medium.com/p/4dac19bbd2f3) |
-| Tue, 10 Jun 2025 12:37:33 GMT | Digital Detectives | Munish Mehta | [Read More](https://medium.com/p/1dc353987caf) |
-| Tue, 10 Jun 2025 12:30:21 GMT | The Secret World of ICS/SCADA and Why It’s a Hacker’s Dream | Hasiholanabdullah | [Read More](https://medium.com/p/972ba8ed778c) |
-| Tue, 10 Jun 2025 12:29:55 GMT | Understanding ECC and Web3 Cryptography: The Foundation of Security in the Blockchain World | IndoHajk | [Read More](https://medium.com/p/e01775faca67) |
