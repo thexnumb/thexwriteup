@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 15:15:25 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Taraschiffmacher | [Read More](https://medium.com/p/796d57c46fbf) |
+| Tue, 10 Jun 2025 15:14:04 GMT | How to handle exceptions in Java♨️? | Hari Prasad | [Read More](https://medium.com/p/ce8a49faf1e5) |
+| Tue, 10 Jun 2025 15:02:57 GMT | c2Pac: Prototyping C2 Channels Like a Thug | Tom O'Neill | [Read More](https://medium.com/p/5716f36797c3) |
+| Tue, 10 Jun 2025 15:02:13 GMT | Authentication vs. Authorization: Understanding the Key Security Differences | PCnet | [Read More](https://medium.com/p/8a648b204c0a) |
+| Tue, 10 Jun 2025 15:01:55 GMT | Hacking APIs: Enumeration and Recon Techniques for Modern APIs | Israel Aráoz Severiche | [Read More](https://medium.com/p/5fa3eac4817b) |
+| Tue, 10 Jun 2025 14:46:37 GMT | JSON Web Token (JWT) Security: Latest Attack Methods and Countermeasures | Rizqi Mulki | [Read More](https://medium.com/p/3c0169e3ba6d) |
+| Tue, 10 Jun 2025 14:42:49 GMT | What the Heck Is a Content Security Policy (CSP)? | Sanjeevani Bhandari | [Read More](https://medium.com/p/b18502e17464) |
 | Tue, 10 Jun 2025 14:38:28 GMT | Cross-Site Scripting (XSS) Evolution: New Payload Techniques | Rizqi Mulki | [Read More](https://medium.com/p/a305bc00c51d) |
+| Tue, 10 Jun 2025 14:38:25 GMT | Langkah Darurat Pertama Setelah Terkena Malware | Mukti Badriyan | [Read More](https://medium.com/p/1ad0e97ce796) |
+| Tue, 10 Jun 2025 14:37:21 GMT | Real-World Corporate Phishing Case: How did it all start? | Evs | [Read More](https://medium.com/p/d9658fe631ad) |
 | Tue, 10 Jun 2025 14:32:26 GMT | Mobile App Security: Flutter vs React Native Vulnerability Comparison | Rizqi Mulki | [Read More](https://medium.com/p/14c67cfd7d73) |
 | Tue, 10 Jun 2025 14:26:17 GMT | Production checklist for any nodejs developer | Dmytro Khirnyi | [Read More](https://medium.com/p/952862af7988) |
 | Tue, 10 Jun 2025 14:24:26 GMT | Leveraging Windows Event Logs for Effective Threat Hunting | BlackMamba | [Read More](https://medium.com/p/ca6be52e93e1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 08:38:38 GMT | DUTCH VERSION | Cora Westerink | [Read More](https://medium.com/p/4a7ee4b1efbd) |
 | Tue, 10 Jun 2025 08:34:24 GMT | Newspaper and News Search tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/664e84182251) |
 | Tue, 10 Jun 2025 08:27:53 GMT | A Rootkit- A deadly malware that infects Operating System | Bridget | [Read More](https://medium.com/p/a1fb445e9b22) |
-| Tue, 10 Jun 2025 08:15:42 GMT | Demystifying ECC, Web3 Cryptography and Their Evolving Threats | Bumi Aryadirangga | [Read More](https://medium.com/p/d61a84676e05) |
-| Tue, 10 Jun 2025 08:11:08 GMT | Meet Kali GPT: The Future of Penetration Testing with AI-Powered Intelligence | Laibakhalid | [Read More](https://medium.com/p/d05a363d2d15) |
-| Tue, 10 Jun 2025 08:10:59 GMT | Building Enterprise-Grade, Secure Applications With OpenFGA And Terraform | Maurice Ackel | [Read More](https://medium.com/p/4033e88f294f) |
-| Tue, 10 Jun 2025 08:06:46 GMT | ️ 5 Essential Nmap Commands Every Beginner Bug Bounty Hunter Must Know | Soumyashree Sahoo | [Read More](https://medium.com/p/4fee04e1a70a) |
-| Tue, 10 Jun 2025 08:04:39 GMT | eJPT - 3.1 System/Host Based Attacks (II) | Hammaad M | [Read More](https://medium.com/p/bc9c5b7adfdf) |
-| Tue, 10 Jun 2025 08:02:25 GMT | Damn Vulnerable DeFi — #03 Truster | 0xByteKnight | [Read More](https://medium.com/p/751c5528450b) |
-| Tue, 10 Jun 2025 08:01:38 GMT | Ghost in the Network | Tide Foundation | [Read More](https://medium.com/p/51b73b17fe50) |
-| Tue, 10 Jun 2025 07:58:42 GMT | Inside the EthCC Token Engineering Track: The Annual Gathering for Cryptoeconomic Innovation | Angela Kreitenweis | [Read More](https://medium.com/p/4b1c0c84e9a1) |
-| Tue, 10 Jun 2025 07:55:55 GMT | CVSS: Tingkat Keparahan Sebuah Kerentanan | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/97507a425fd2) |
