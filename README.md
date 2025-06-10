@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 01:32:30 GMT | Brain-Computer Interface (BCI) Hacking & Neurodefense: The Next Cybersecurity Frontier | A-STAR7_DOCTOR | [Read More](https://medium.com/p/16dd64c630e6) |
+| Tue, 10 Jun 2025 01:29:09 GMT | Get $RECON  and Enjoy Instant Crypto Rewards | $RECON (Recon Solana) | [Read More](https://medium.com/p/ea4970370531) |
+| Tue, 10 Jun 2025 01:26:19 GMT | “Is Your Code Hiding a Crypto Heist? Inside the Most Dangerous Open-Source Attacks of 2025” | Cyber-AppSec | [Read More](https://medium.com/p/fce40afd61ec) |
+| Tue, 10 Jun 2025 01:13:17 GMT | Knowing Elliptic Curve Cryptography (ECC) and Web3 Cryptography as a Security Decentralization | Irfanbayu | [Read More](https://medium.com/p/bacf13860a88) |
+| Tue, 10 Jun 2025 01:12:02 GMT | Oski — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/2993534691bd) |
+| Tue, 10 Jun 2025 00:49:46 GMT | Malware Unmasked | Ed-it Editions | [Read More](https://medium.com/p/c98964bb6103) |
+| Tue, 10 Jun 2025 00:21:57 GMT | From Command to Collaboration: A Leadership Evolution in Cybersecurity | Yaroslav | [Read More](https://medium.com/p/3078f1d8cd17) |
+| Tue, 10 Jun 2025 00:21:16 GMT | How Threat-Savvy Companies Can Defend Against Data Breaches | Financial Poise | [Read More](https://medium.com/p/3223df67f834) |
+| Tue, 10 Jun 2025 00:05:37 GMT | We’ve all heard the same privacy advice over and over again: | Lydiah Muigwa | [Read More](https://medium.com/p/3259652b1a93) |
 | Mon, 09 Jun 2025 23:22:24 GMT | The Secret Code of the Future: ECC, Web3 Cryptography, and Why Hackers Want to Crack It | Galihabraa | [Read More](https://medium.com/p/e8fc58e23af7) |
 | Mon, 09 Jun 2025 23:17:04 GMT | Day 9: The Anthropic’s MCP as a Data Agent — Use-cases(Part 4) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/4ede7e435bc1) |
 | Mon, 09 Jun 2025 23:06:42 GMT | From Math to Market: How Dilithium & Falcon Forge Compact, Quantum-Safe Signatures | PinakashieldTech OÜ | [Read More](https://medium.com/p/4496690de0d8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 15:42:11 GMT | GraphQL Gatecrash: When an Introspection Query Opened the Whole Backend ️ | Iski | [Read More](https://medium.com/p/5ec2a74ac20a) |
 | Mon, 09 Jun 2025 15:41:50 GMT | BOLT — TryHackMe Walkthrough | Cypher.One | [Read More](https://medium.com/p/6a1cc10ffc27) |
 | Mon, 09 Jun 2025 15:37:44 GMT | Cyber Security In the Cloud | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/1f03200a6c55) |
-| Mon, 09 Jun 2025 15:32:19 GMT | s3 bucket and firebase misconfigurtion Part-1 | DOD cyber solutions | [Read More](https://medium.com/p/76c15c90628f) |
-| Mon, 09 Jun 2025 15:30:35 GMT | Cybersecurity in Social Tech: Safeguarding the Digital Public Square | Grace James kaka | [Read More](https://medium.com/p/2d3cd266c7f0) |
-| Mon, 09 Jun 2025 15:29:06 GMT |  | NexusWeawerInitiative | [Read More](https://medium.com/p/8850e6762bc1) |
-| Mon, 09 Jun 2025 15:28:31 GMT | You Can Change Your IP Address — But What About Your MAC Address? | Soni Kumar | [Read More](https://medium.com/p/c94ce1cf12a9) |
-| Mon, 09 Jun 2025 15:23:30 GMT | Your Data’s Been Leaked — What Now? | @NSConsumers | [Read More](https://medium.com/p/fcf15b17667b) |
-| Mon, 09 Jun 2025 15:22:32 GMT | Open-Source AI in Security Operations: Case Studies from the Frontlines | Andrei Ivan | [Read More](https://medium.com/p/654fd26d078d) |
-| Mon, 09 Jun 2025 15:19:19 GMT | Attacks and Defenses in Robust Machine Learning | Maria Johnsen | [Read More](https://medium.com/p/bd69f434fb6d) |
-| Mon, 09 Jun 2025 15:16:03 GMT | Stop Using Clunky Tokens: The Fun & Simple Guide to SSH Keys on GitHub | Irving Caamal | [Read More](https://medium.com/p/bd33fc911ff6) |
-| Mon, 09 Jun 2025 15:11:31 GMT | On-Demand Osquery Execution via Wazuh Active Response | Yash Patel | [Read More](https://medium.com/p/752ecdde5205) |
