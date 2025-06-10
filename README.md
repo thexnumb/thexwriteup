@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 23:11:31 GMT | “CVE List Keyword Search” on CVE.ORG Website Updated | CVE Program Blog | [Read More](https://medium.com/p/2729451c3b61) |
+| Tue, 10 Jun 2025 23:04:19 GMT | Innovative Tips for Smart Home Enthusiasts | Fausettirenia | [Read More](https://medium.com/p/85d0f8828136) |
+| Tue, 10 Jun 2025 23:02:55 GMT | Artificial Intelligence and Cyber Security | Mateo Cruz | [Read More](https://medium.com/p/ef21efe4f059) |
 | Tue, 10 Jun 2025 22:17:28 GMT | Phishing Incident Response | Azeez Wasiu Babatunde | [Read More](https://medium.com/p/ee5a3c18652f) |
 | Tue, 10 Jun 2025 22:16:41 GMT | Maintaining Persistence After Exploiting Network Services: A Red Teamer’s Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/187dc81e0e08) |
 | Tue, 10 Jun 2025 22:02:33 GMT | Evil Twin attacks with eaphammer | anonymous howtos | [Read More](https://medium.com/p/dcdbedf6ab7f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 16:23:03 GMT | ️Day 59: Bash Scripting -Mastering String and Array Manipulation | Agarwaldaksh | [Read More](https://medium.com/p/61348829565a) |
 | Tue, 10 Jun 2025 16:20:32 GMT | Backup Storage Strategies | Igor Berner | [Read More](https://medium.com/p/abedb26f7e1d) |
 | Tue, 10 Jun 2025 16:16:12 GMT | Dark Web Monitoring by MSPs | SafeAeon Inc. | [Read More](https://medium.com/p/e1213e45f266) |
-| Tue, 10 Jun 2025 16:05:58 GMT | Inside NIST’s June 2025 Meeting: Where US Tech Policy Gets Personal | Maurizio Morri | [Read More](https://medium.com/p/2ecb82fd547a) |
-| Tue, 10 Jun 2025 16:02:35 GMT | สรุปใจความสำคัญจาก Artificial Intelligence and Cybersecurity: Balancing Risks and Rewards | Rachata Watthanawong | [Read More](https://medium.com/p/cebad16a7b73) |
-| Tue, 10 Jun 2025 15:53:04 GMT | WANTED: One Brave Soul to Become Follower #100 | Bobby | [Read More](https://medium.com/p/79268d0fd1b9) |
