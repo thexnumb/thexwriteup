@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 10:22:02 GMT | Customers Asked to Upload Files—This Plugin Solved Everything | Andrea Goodwin | [Read More](https://medium.com/p/95a3374e4e22) |
+| Tue, 10 Jun 2025 10:14:51 GMT | How the 2017 Equifax Breach Exposed 147 Million People | Sanchitamishra | [Read More](https://medium.com/p/49a55eb4662e) |
+| Tue, 10 Jun 2025 10:14:43 GMT | Introducing ICSrank V2: Multi-Engine Search for ICS/OT OSINT | Sulaiman Alhasawi | [Read More](https://medium.com/p/4713dabd9029) |
+| Tue, 10 Jun 2025 10:12:23 GMT | Dijital Dünyada İz Sürmek: Bir OSINT CTF (Capture The Flag) Senaryosu | Aycanurguc | [Read More](https://medium.com/p/3d69829a4f83) |
+| Tue, 10 Jun 2025 10:11:43 GMT | HackTheBox Emdee five for life Challenge Writeup & Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/5896369932a3) |
+| Tue, 10 Jun 2025 10:09:35 GMT | Brave Lab | Jesús García Rubias | [Read More](https://medium.com/p/4d7d8f3da243) |
+| Tue, 10 Jun 2025 10:09:25 GMT | Proof-of-Concept Exploit Released for Fortinet 0-Day Vulnerability (CVE-2024–21762) | Infoziant | [Read More](https://medium.com/p/70fe962fed84) |
+| Tue, 10 Jun 2025 10:08:56 GMT | Securing the Future: Advanced Security Systems for Commercial Buildings | Jessica Louise | [Read More](https://medium.com/p/2a0f520a3230) |
+| Tue, 10 Jun 2025 10:00:31 GMT | Network Analysis Ransomware(Blue team labs) | Amalpp | [Read More](https://medium.com/p/a477f8084759) |
+| Tue, 10 Jun 2025 09:50:00 GMT | “CTF Challenge: Web Exploitation on a Linux Server — AUB | Qasim Ali | [Read More](https://medium.com/p/894cde46eaf5) |
+| Tue, 10 Jun 2025 09:49:58 GMT | Threats to consider when integrating Digital ID solutions into your organization | Szymon Chadam | [Read More](https://medium.com/p/88cca3ac0d70) |
+| Tue, 10 Jun 2025 09:48:38 GMT | Construction Site Surveillance: 7 Reasons to Invest in Remote Video Monitoring | Ivis Constructionsurveillance | [Read More](https://medium.com/p/724e6f55c493) |
+| Tue, 10 Jun 2025 09:47:52 GMT | From RXSS to ATO: Bypassing WAF with a Simple POST Trick | Muntadhar M. Ahmed | [Read More](https://medium.com/p/a27ed30cf62b) |
+| Tue, 10 Jun 2025 09:46:47 GMT | Introduction: Diploma in Information Security Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/29a1631ef68c) |
 | Tue, 10 Jun 2025 09:27:04 GMT | The Double-Edged Sword: How AI Empowers Both Cyber Attackers and Defenders | Paul Sherman | [Read More](https://medium.com/p/64e7d3e72f72) |
 | Tue, 10 Jun 2025 09:25:35 GMT | Trusted Crypto recovery specialist — Crypto Recovery Option | Robertjoness | [Read More](https://medium.com/p/0a7c9b58c2bf) |
 | Tue, 10 Jun 2025 09:17:59 GMT | Practical Recommendations for Firewall Proxy Implementation: A Guide to Securing Your Virtual… | zainal Abidin | [Read More](https://medium.com/p/f60a252b9067) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 05:00:12 GMT | How a Star Wars Fan Site Became the CIA’s Most Costly Digital Blunder | Roman Huliak | [Read More](https://medium.com/p/5ee92a5459de) |
 | Tue, 10 Jun 2025 05:00:08 GMT | $250 Bounty: How I Tricked the Nextcloud Android App Into Uploading Its Own Sensitive Files | Monika sharma | [Read More](https://medium.com/p/b481703e05cf) |
 | Tue, 10 Jun 2025 04:59:58 GMT | The Cybersecurity Crisis of 2025: How a Smart Lamp Nearly Crippled X Business | Noel | [Read More](https://medium.com/p/5f40198931f9) |
-| Tue, 10 Jun 2025 04:59:53 GMT | Hacked by a Picture Frame? The Shocking Cybersecurity Incident of 2025 | Noel | [Read More](https://medium.com/p/e4093c525582) |
-| Tue, 10 Jun 2025 04:59:47 GMT | 10 Juicy Prompts to Help You Think Like a SOC Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/18ee46fc3560) |
-| Tue, 10 Jun 2025 04:58:43 GMT | Foreign Function & Memory API in Java — Unlocking Native Interoperability in a Safer Way | Radhika Parashar | [Read More](https://medium.com/p/7d999ae74547) |
-| Tue, 10 Jun 2025 04:55:06 GMT | How To Convert an Old PC/Laptop Into Home Lab. | Cybotechacks | [Read More](https://medium.com/p/d5e8a2d0298f) |
-| Tue, 10 Jun 2025 04:54:06 GMT | FONDASI TAK TERGANTIKAN : POLA PIKIR OFFENSIVE UNTUK ERA CYBER 2035+ | Dito Gianto | [Read More](https://medium.com/p/ab8b62dee72f) |
-| Tue, 10 Jun 2025 04:46:59 GMT | OSCP/OSCP+ Journey — This is Not Just About Technical (in Bahasa) | Justakazh | [Read More](https://medium.com/p/f6a688572ad5) |
-| Tue, 10 Jun 2025 04:40:43 GMT | Top Information Technology Colleges in Bangalore | Jahnavi Desai | [Read More](https://medium.com/p/4fd5d276d3ad) |
-| Tue, 10 Jun 2025 04:24:45 GMT | Fixing SSL Errors in Oracle Cloud: A Step-by-Step Guide | Naman Raghuwanshi | [Read More](https://medium.com/p/1c6e11023e4b) |
-| Tue, 10 Jun 2025 04:16:23 GMT | Think You Deleted That File? Think Again. | HealerLogs | [Read More](https://medium.com/p/db8904a0fa72) |
-| Tue, 10 Jun 2025 04:07:46 GMT | Timing Attacks: Why Your Code Might Be Leaking Secrets | Olha Stefanishyna | [Read More](https://medium.com/p/800782fee8cd) |
-| Tue, 10 Jun 2025 04:07:45 GMT | PHP Clean Code Guidelines: Improve Code Quality and Maintainability | Tara Prasad Routray | [Read More](https://medium.com/p/144d3d2fa1cc) |
-| Tue, 10 Jun 2025 03:56:01 GMT | Securing Transactions with Smart Authentication: How Declarative Approach Makes It Simple | Ranjan Khanna | [Read More](https://medium.com/p/cd09ede9d95c) |
-| Tue, 10 Jun 2025 03:46:01 GMT | Fake ChatGPT Sites Can Put Your Data And Devices At Risk — Here’s How To Spot Them | Kajal Sharma | [Read More](https://medium.com/p/3b93986ff287) |
-| Tue, 10 Jun 2025 03:45:11 GMT | True Rejection Happens When We Never Dare To Ask | Donny Kurniawan | [Read More](https://medium.com/p/a69fe33a4ef0) |
