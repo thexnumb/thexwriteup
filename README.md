@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 11:02:14 GMT | How Reverse Image Search Works and Why It Matters (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/7fe8dfc86121) |
 | Tue, 10 Jun 2025 10:38:26 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/ba7fbddb2669) |
 | Tue, 10 Jun 2025 10:34:09 GMT | A Guide to Kali GPT: Your New Cyber-Sidekick! | Gideon Bakel | [Read More](https://medium.com/p/77dfc397bc1b) |
 | Tue, 10 Jun 2025 10:32:37 GMT | The Marriott Hotel Data Breach: What Went Wrong? | Sanchitamishra | [Read More](https://medium.com/p/ee6f835c70f7) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 05:45:24 GMT | OSCP/OSCP+ Journey — This is Not Just About Technical (In English) | Justakazh | [Read More](https://medium.com/p/0437a15a8f84) |
 | Tue, 10 Jun 2025 05:25:52 GMT | Organizational Roles, Responsibilities, and Authorities (Clause 5.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/b3bb3c9b6064) |
 | Tue, 10 Jun 2025 05:22:26 GMT | Cybersecurity Career Guide: Proven Pathways to Long-Term Success | leo lisa | [Read More](https://medium.com/p/f6960ea49d33) |
-| Tue, 10 Jun 2025 05:11:07 GMT | How Managed IT Services Enhance Cybersecurity for Modern Enterprises | Wepsol | [Read More](https://medium.com/p/5c07d2d26e8c) |
