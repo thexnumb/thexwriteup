@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 16:20:32 GMT | Backup Storage Strategies | Igor Berner | [Read More](https://medium.com/p/abedb26f7e1d) |
+| Tue, 10 Jun 2025 16:16:12 GMT | Dark Web Monitoring by MSPs | SafeAeon Inc. | [Read More](https://medium.com/p/e1213e45f266) |
+| Tue, 10 Jun 2025 16:05:58 GMT | Inside NIST’s June 2025 Meeting: Where US Tech Policy Gets Personal | Maurizio Morri | [Read More](https://medium.com/p/2ecb82fd547a) |
+| Tue, 10 Jun 2025 16:02:35 GMT | สรุปใจความสำคัญจาก Artificial Intelligence and Cybersecurity: Balancing Risks and Rewards | Rachata Watthanawong | [Read More](https://medium.com/p/cebad16a7b73) |
+| Tue, 10 Jun 2025 15:53:04 GMT | WANTED: One Brave Soul to Become Follower #100 | Bobby | [Read More](https://medium.com/p/79268d0fd1b9) |
+| Tue, 10 Jun 2025 15:51:11 GMT | Retail Under Siege: Why the Browser Is the New Cyber Battleground | Mary Yang | [Read More](https://medium.com/p/6ecfb690154b) |
+| Tue, 10 Jun 2025 15:49:49 GMT | Asset Inventory & Configuration Management | Igor Berner | [Read More](https://medium.com/p/299744c158fc) |
+| Tue, 10 Jun 2025 15:46:22 GMT | Managed Security Service Providers in Cybersecurity | SafeAeon Inc. | [Read More](https://medium.com/p/1b5a3411535a) |
 | Tue, 10 Jun 2025 15:36:03 GMT | Understanding Browser Attacks: Threats and Defenses | SafeAeon Inc. | [Read More](https://medium.com/p/ed411f96984c) |
 | Tue, 10 Jun 2025 15:35:07 GMT | Nmap Crash Course For Ethical Hackers | Rohit Chaudhary | [Read More](https://medium.com/p/fe2b5c45fffb) |
 | Tue, 10 Jun 2025 15:31:51 GMT | GZR Observer Daily — Jun 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ea048119a069) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 09:12:27 GMT | How to Recover Scammed USDT/BITCOIN | Robertjoness | [Read More](https://medium.com/p/73d63b1f6956) |
 | Tue, 10 Jun 2025 09:11:03 GMT | Respiracion | Camila Forame | [Read More](https://medium.com/p/db152a098995) |
 | Tue, 10 Jun 2025 09:09:41 GMT | AI and Bug Bounty: The Future of Cybersecurity and How to Stay Sane | Mahetagaurang | [Read More](https://medium.com/p/e8de0d311e9b) |
-| Tue, 10 Jun 2025 09:09:11 GMT | Elevate Your Trading with WhiteBIT’s “Boost Your Portfolio” Promo! | WhiteBIT | [Read More](https://medium.com/p/b275610beb0f) |
-| Tue, 10 Jun 2025 09:02:20 GMT | Build a GRC Program That Works | Harry West | [Read More](https://medium.com/p/fbf7a96c14ce) |
-| Tue, 10 Jun 2025 09:00:42 GMT | How Managed Detection and Response (MDR) Enhances Your Cybersecurity Posture: Real-World Advantages | Gargiben | [Read More](https://medium.com/p/f81e85808fde) |
-| Tue, 10 Jun 2025 09:00:20 GMT | Intelligent Process Mining 2025: Der ultimative Leitfaden für intelligente Prozessoptimierung | Philip Hansen | [Read More](https://medium.com/p/5fc6ae635343) |
-| Tue, 10 Jun 2025 09:00:18 GMT | Top Cybersecurity Frameworks and Standards You Should Know in 2025 | Madhavaraman | [Read More](https://medium.com/p/1d950886107f) |
-| Tue, 10 Jun 2025 09:00:01 GMT | Cognitive Automation 2025: Der ultimative Business-Leitfaden für Führungskräfte (+ exklusive… | Philip Hansen | [Read More](https://medium.com/p/3787eb4127f9) |
-| Tue, 10 Jun 2025 08:59:34 GMT | Intelligent Automation 2025: Der Strategische Wegweiser für Geschäftsführer zur… | Philip Hansen | [Read More](https://medium.com/p/2259c53936e6) |
-| Tue, 10 Jun 2025 08:54:22 GMT | Hash Functions Explained : Types & Examples | Shubhamitaliya | [Read More](https://medium.com/p/2d751e52eed9) |
