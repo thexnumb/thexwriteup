@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 12:30:21 GMT | The Secret World of ICS/SCADA and Why It’s a Hacker’s Dream | Hasiholanabdullah | [Read More](https://medium.com/p/972ba8ed778c) |
+| Tue, 10 Jun 2025 12:29:55 GMT | Understanding ECC and Web3 Cryptography: The Foundation of Security in the Blockchain World | IndoHajk | [Read More](https://medium.com/p/e01775faca67) |
+| Tue, 10 Jun 2025 12:26:55 GMT | Build a CTF lab on Docker with Privilege escalation and SSH Bruteforce vuln | Zamh Putra | [Read More](https://medium.com/p/032726faf290) |
+| Tue, 10 Jun 2025 12:18:01 GMT | Trump Reverses Course on Federal Cybersecurity Policy | Saravanan R | [Read More](https://medium.com/p/24cc85eae0ee) |
+| Tue, 10 Jun 2025 12:14:50 GMT | Security Services Geelong | Sureshvirtual | [Read More](https://medium.com/p/7e5da4fd463f) |
+| Tue, 10 Jun 2025 12:10:46 GMT | Protecting Patient Data: Healthcare Cybersecurity Solutions for a Safer Future | ER Tech Pros | [Read More](https://medium.com/p/80da2becaa7d) |
+| Tue, 10 Jun 2025 12:08:40 GMT | Trump’s Cybersecurity Executive Order Marks Significant Policy Shift | Akash P | [Read More](https://medium.com/p/4ec5de169bda) |
+| Tue, 10 Jun 2025 12:06:49 GMT | Security Services Melbourne | Sureshvirtual | [Read More](https://medium.com/p/53e36af1b200) |
+| Tue, 10 Jun 2025 12:02:14 GMT | Reality of Realty: Unlocking the Definition of “Luxury”: What Truly Makes a Home Luxurious? | Valerie Davenport | [Read More](https://medium.com/p/c889d0ecd7e0) |
+| Tue, 10 Jun 2025 12:00:25 GMT | How to Configure Burpsuite with Firefox | Waleed Ramzan | [Read More](https://medium.com/p/a1cabd6b61ca) |
+| Tue, 10 Jun 2025 11:57:35 GMT | THM : Daily Bugle | sw0rdf1sh | [Read More](https://medium.com/p/b3e8e8de91b5) |
+| Tue, 10 Jun 2025 11:56:20 GMT | [LOG_01] Info Overload & Meaningful Machines | Calvin Sass | [Read More](https://medium.com/p/74a3c12017ab) |
+| Tue, 10 Jun 2025 11:45:57 GMT | The Daily Tech Digest: 10 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6b377b82714) |
+| Tue, 10 Jun 2025 11:35:52 GMT | When Smart Turns Sinister: A Decade of AI Abuse You Shouldn’t Ignore | Katherine Garrod | [Read More](https://medium.com/p/e8632ae9bc67) |
 | Tue, 10 Jun 2025 11:26:52 GMT | Detecting Deepfakes with OpenCV: A Technical Guide for Real-Time Video Analysis | Aditya Subhedar | [Read More](https://medium.com/p/4a82748689aa) |
 | Tue, 10 Jun 2025 11:25:20 GMT | Critical Google Security Flaw Exposes Millions of Users’ Phone Numbers Through Brute-Force Attack | Technijian | [Read More](https://medium.com/p/61c1e19f653f) |
 | Tue, 10 Jun 2025 11:21:28 GMT | Urgent Cyber Threats to Indian Sectors: What Zeron’s Advisory Reveals | Zeron | [Read More](https://medium.com/p/bc1643ad6ba9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 06:49:10 GMT | OSWE Web Hacking Tips (IPPSEC): Java Reversing #2 | Anezaneo | [Read More](https://medium.com/p/7b17f7aeccc7) |
 | Tue, 10 Jun 2025 06:49:03 GMT | Crafting Standalone Python Proof of Concept Exploits | Pampuna | [Read More](https://medium.com/p/5e02317134db) |
 | Tue, 10 Jun 2025 06:48:13 GMT | $560 Bounty: How Twitter’s Android App Leaked User Location | Monika sharma | [Read More](https://medium.com/p/698a8f4d4b18) |
-| Tue, 10 Jun 2025 06:44:21 GMT | An In-Depth Look at the Burgeoning FPGA Security Market | Jay Dharmadhikari | [Read More](https://medium.com/p/903a76c51658) |
-| Tue, 10 Jun 2025 06:42:59 GMT | Red Team Tactics and Their Detection Counterparts: A Purple Team Guide | Paritosh | [Read More](https://medium.com/p/a20c18ea4402) |
-| Tue, 10 Jun 2025 06:42:07 GMT | Hacking My Own SSH Server: A Real-World Brute Force Attack Lab You Can Try at Home | Elizabeth Akindele | [Read More](https://medium.com/p/c93bbc0a91cf) |
-| Tue, 10 Jun 2025 06:36:50 GMT | The WannaCry Wake-Up Call: Is Your Business Prepared for the Next Ransomware Attack? | Ryan kennedy | [Read More](https://medium.com/p/c1cc9dcad491) |
-| Tue, 10 Jun 2025 06:34:42 GMT | ETHICAL HACKING: | sathya narayanan | [Read More](https://medium.com/p/957eef2fb327) |
-| Tue, 10 Jun 2025 06:27:04 GMT | Security issues in JWT Tokens | Monethic.io | [Read More](https://medium.com/p/d98b1afca423) |
-| Tue, 10 Jun 2025 06:15:51 GMT | Intro to Platform Engineering: What it is and Why it Matters Now | Abhishek Sharma | [Read More](https://medium.com/p/385f438e1883) |
-| Tue, 10 Jun 2025 06:14:46 GMT | Access Control in Solidity: Beyond onlyOwner | XV Dev Labs | [Read More](https://medium.com/p/fb7f9f8a7764) |
-| Tue, 10 Jun 2025 06:12:56 GMT | Kali GPT — An AI-Powered Offensive Security Assistant | Shana Buhaisa | [Read More](https://medium.com/p/43e4477cbc65) |
-| Tue, 10 Jun 2025 06:11:16 GMT | What Happens if a Crypto Reserve Currency Is Hacked or Crashes? | Imali | [Read More](https://medium.com/p/10cad252a08c) |
-| Tue, 10 Jun 2025 06:06:24 GMT | Marks & Spencer Hacklendi: 2025’in En Ses Getiren Siber Saldırısından Çıkarılması Gereken Dersler | Buteksoft | [Read More](https://medium.com/p/d629c568d2b9) |
-| Tue, 10 Jun 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Jun 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9e3b94d5c266) |
-| Tue, 10 Jun 2025 06:00:16 GMT | 30 Days of Cyber Security — Day 15: Client-side vs Server-side Vulnerability | Indra Rahmat Maulidi | [Read More](https://medium.com/p/668826570d5d) |
-| Tue, 10 Jun 2025 05:52:10 GMT | Personal SQL Cheatsheet | Shadem | [Read More](https://medium.com/p/441b03ed7487) |
