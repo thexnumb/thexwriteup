@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 04:46:59 GMT | OSCP/OSCP+ Journey — This is Not Just About Technical (in Bahasa) | Justakazh | [Read More](https://medium.com/p/f6a688572ad5) |
+| Tue, 10 Jun 2025 04:24:45 GMT | Fixing SSL Errors in Oracle Cloud: A Step-by-Step Guide | Naman Raghuwanshi | [Read More](https://medium.com/p/1c6e11023e4b) |
+| Tue, 10 Jun 2025 04:16:23 GMT | Think You Deleted That File? Think Again. | HealerLogs | [Read More](https://medium.com/p/db8904a0fa72) |
+| Tue, 10 Jun 2025 04:07:46 GMT | Timing Attacks: Why Your Code Might Be Leaking Secrets | Olha Stefanishyna | [Read More](https://medium.com/p/800782fee8cd) |
+| Tue, 10 Jun 2025 04:07:45 GMT | PHP Clean Code Guidelines: Improve Code Quality and Maintainability | Tara Prasad Routray | [Read More](https://medium.com/p/144d3d2fa1cc) |
+| Tue, 10 Jun 2025 03:56:01 GMT | Securing Transactions with Smart Authentication: How Declarative Approach Makes It Simple | Ranjan Khanna | [Read More](https://medium.com/p/cd09ede9d95c) |
 | Tue, 10 Jun 2025 03:46:01 GMT | Fake ChatGPT Sites Can Put Your Data And Devices At Risk — Here’s How To Spot Them | Kajal Sharma | [Read More](https://medium.com/p/3b93986ff287) |
 | Tue, 10 Jun 2025 03:45:11 GMT | True Rejection Happens When We Never Dare To Ask | Donny Kurniawan | [Read More](https://medium.com/p/a69fe33a4ef0) |
 | Tue, 10 Jun 2025 03:42:42 GMT | Cara Mengatasi Wazuh Agent Active Tapi Log Tidak Terbaca | Haldian | [Read More](https://medium.com/p/1efe1782849f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 16:51:40 GMT | Operation Phantom Enigma: A Silent Cyberstorm Brews in Latin America | Siva Gunasekaran | [Read More](https://medium.com/p/64f1f474221a) |
 | Mon, 09 Jun 2025 16:50:13 GMT | Recently Interviewed on The Hedge Podcast … | Karl Buhl | [Read More](https://medium.com/p/e286f9e7fdec) |
 | Mon, 09 Jun 2025 16:44:55 GMT | TryHackMe - Billing | haxer | [Read More](https://medium.com/p/7d2d22374ec8) |
-| Mon, 09 Jun 2025 16:44:03 GMT | Proactive Threat Management: Building a Resilient Defense | SafeAeon Inc. | [Read More](https://medium.com/p/21852165e8d5) |
-| Mon, 09 Jun 2025 16:42:24 GMT | IonQ Acquires Oxford Ionics for $1.08 Billion: A Bold Leap Toward Fault‑Tolerant Quantum Computing | QuantumGenie | [Read More](https://medium.com/p/6b43fc02894c) |
-| Mon, 09 Jun 2025 16:36:42 GMT | IBM Cloud Security Hub Wins 2025 Fortress Cybersecurity Award | Bill Grady | [Read More](https://medium.com/p/a11d6cb22adb) |
-| Mon, 09 Jun 2025 16:32:01 GMT | Unlocking Cybersecurity Automation with AI + Offensive Tooling | Shadow Packet | [Read More](https://medium.com/p/6e8c1fe0b7fd) |
-| Mon, 09 Jun 2025 16:29:55 GMT | SOC Audit Checklist: Ensuring Robust Security Operations | SafeAeon Inc. | [Read More](https://medium.com/p/bf03d43a8f74) |
-| Mon, 09 Jun 2025 16:26:59 GMT | Top Cybersecurity Companies Making Waves in 2025 | John Cafe | [Read More](https://medium.com/p/0e1b828a6faa) |
