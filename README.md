@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 20:26:34 GMT | The $10K/Month Bug Bounty Machine: A Step-by-Step Guide to Building a Collaborative Recon Pipeline… | Andrei Ivan | [Read More](https://medium.com/p/7b1d357ddd5d) |
+| Tue, 10 Jun 2025 20:24:20 GMT | The Forger’s Art | Thomas F McGeehan V | [Read More](https://medium.com/p/9148eb508406) |
+| Tue, 10 Jun 2025 20:19:13 GMT | MobileHackingLab — Post Board | Mason Schmidt | [Read More](https://medium.com/p/ad3f7f6a2aea) |
 | Tue, 10 Jun 2025 20:11:55 GMT | Exploiting the DC-01 Machine: | Abdullah Khalid | [Read More](https://medium.com/p/a467e0329919) |
+| Tue, 10 Jun 2025 20:10:28 GMT | Crafting a Fully Undetectable Windows Payload Using C: A Red Team Perspective | Aman | [Read More](https://medium.com/p/5c986d1a303b) |
 | Tue, 10 Jun 2025 20:00:13 GMT | What is Outside of Time and Space? | Upāsaka Asoka | [Read More](https://medium.com/p/d322abcdb3d4) |
 | Tue, 10 Jun 2025 19:56:10 GMT | I Broke Into Cybersecurity Without a CS Degree — Here’s the Unfiltered Truth | Nigam | [Read More](https://medium.com/p/d320b5d8a474) |
 | Tue, 10 Jun 2025 19:47:23 GMT | CTF Writeup — TJCTF 2025 — hidden-message | embossdotar | [Read More](https://medium.com/p/124ce00a4001) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 14:14:55 GMT | Bug Bounty for Beginners: The Real Talk Guide (No BS Edition) | Telynor | [Read More](https://medium.com/p/b47f8e92efb5) |
 | Tue, 10 Jun 2025 14:12:59 GMT | Tips Aman Berselancar Internet VPN dan Keamanan Wi-Fi Publik | Mukti Badriyan | [Read More](https://medium.com/p/f9828f19da62) |
 | Tue, 10 Jun 2025 14:09:53 GMT | THM — Boogeyman 1 Writeup | Shamar Isaac | [Read More](https://medium.com/p/9b67b942754e) |
-| Tue, 10 Jun 2025 14:04:56 GMT | How CROC Leverages Vision One CREM to Transform Cyber Risk Strategy into Operational Reality | Juan Pablo Castro | [Read More](https://medium.com/p/b063c46714fc) |
-| Tue, 10 Jun 2025 14:03:19 GMT | Cyber Security Toolkit | Munish Mehta | [Read More](https://medium.com/p/f528ef846e25) |
-| Tue, 10 Jun 2025 14:02:21 GMT | Hacking Smarter with LLaMA: Bringing Open-Source AI to Cybersecurity Workflows | Michael Yeibo | [Read More](https://medium.com/p/d0de2d659bb6) |
-| Tue, 10 Jun 2025 14:00:25 GMT | Cyber Briefing: 2025.06.10 | CyberMaterial | [Read More](https://medium.com/p/1b44e6ef340f) |
