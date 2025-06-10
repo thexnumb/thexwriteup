@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 08:50:35 GMT | Upload2Own: How SQL Injection and File Upload Flaws Lead to Remote Code Execution | Adarsh Kumar | [Read More](https://medium.com/p/4e243e8312ea) |
+| Tue, 10 Jun 2025 08:38:38 GMT | DUTCH VERSION | Cora Westerink | [Read More](https://medium.com/p/4a7ee4b1efbd) |
+| Tue, 10 Jun 2025 08:34:24 GMT | Newspaper and News Search tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/664e84182251) |
+| Tue, 10 Jun 2025 08:27:53 GMT | A Rootkit- A deadly malware that infects Operating System | Bridget | [Read More](https://medium.com/p/a1fb445e9b22) |
 | Tue, 10 Jun 2025 08:15:42 GMT | Demystifying ECC, Web3 Cryptography and Their Evolving Threats | Bumi Aryadirangga | [Read More](https://medium.com/p/d61a84676e05) |
 | Tue, 10 Jun 2025 08:11:08 GMT | Meet Kali GPT: The Future of Penetration Testing with AI-Powered Intelligence | Laibakhalid | [Read More](https://medium.com/p/d05a363d2d15) |
 | Tue, 10 Jun 2025 08:10:59 GMT | Building Enterprise-Grade, Secure Applications With OpenFGA And Terraform | Maurice Ackel | [Read More](https://medium.com/p/4033e88f294f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 01:29:09 GMT | Get $RECON  and Enjoy Instant Crypto Rewards | $RECON (Recon Solana) | [Read More](https://medium.com/p/ea4970370531) |
 | Tue, 10 Jun 2025 01:26:19 GMT | “Is Your Code Hiding a Crypto Heist? Inside the Most Dangerous Open-Source Attacks of 2025” | Cyber-AppSec | [Read More](https://medium.com/p/fce40afd61ec) |
 | Tue, 10 Jun 2025 01:13:17 GMT | Knowing Elliptic Curve Cryptography (ECC) and Web3 Cryptography as a Security Decentralization | Irfanbayu | [Read More](https://medium.com/p/bacf13860a88) |
-| Tue, 10 Jun 2025 01:12:02 GMT | Oski — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/2993534691bd) |
-| Tue, 10 Jun 2025 00:49:46 GMT | Malware Unmasked | Ed-it Editions | [Read More](https://medium.com/p/c98964bb6103) |
-| Tue, 10 Jun 2025 00:21:57 GMT | From Command to Collaboration: A Leadership Evolution in Cybersecurity | Yaroslav | [Read More](https://medium.com/p/3078f1d8cd17) |
-| Tue, 10 Jun 2025 00:21:16 GMT | How Threat-Savvy Companies Can Defend Against Data Breaches | Financial Poise | [Read More](https://medium.com/p/3223df67f834) |
