@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 07:31:16 GMT | Weekly Cybersecurity Recap: Chrome 0-Day, Data Wipers, Misused Tools & Zero-Click iPhone Attacks… | Navigtech | [Read More](https://medium.com/p/c4a38689f183) |
+| Tue, 10 Jun 2025 07:30:31 GMT | EXAMPLE TOOLS BRUTE FORCE LOGIN WINBOX ADDRESS DENGAN PYTHON | My Ego | [Read More](https://medium.com/p/303857c6082b) |
+| Tue, 10 Jun 2025 07:27:43 GMT | Cybersecurity and You! | Amaya Uththara Weerawardhana | [Read More](https://medium.com/p/2fafcdbc43f1) |
+| Tue, 10 Jun 2025 07:24:04 GMT | Qualcomm Windows senior security Engineer - Interview experience | OS Dev | [Read More](https://medium.com/p/5ed4f7e08ff7) |
+| Tue, 10 Jun 2025 07:16:32 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/16088942a167) |
 | Tue, 10 Jun 2025 07:11:49 GMT | What Are Security Robots? | Marcus Koehnlein | [Read More](https://medium.com/p/15e290cc9df4) |
+| Tue, 10 Jun 2025 07:09:22 GMT | Rubber Ducky USB: How Hackers Hijack Systems with a Flash Drive | Nanda Siddhardha | [Read More](https://medium.com/p/56b7eda7505e) |
+| Tue, 10 Jun 2025 07:08:49 GMT | Web3 Explanation For Dummies | Raja Ubaid Fawwaz | [Read More](https://medium.com/p/99bc4340436b) |
 | Tue, 10 Jun 2025 07:04:42 GMT | Why Threat Actors Target the Energy Sector | David SEHYEON Baek | [Read More](https://medium.com/p/e5faf939434c) |
 | Tue, 10 Jun 2025 07:03:53 GMT | Worst-Case Scenarios of AI Platform Account Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/faa1d031a650) |
 | Tue, 10 Jun 2025 07:03:33 GMT | DragonForce, The Cybercrime Syndicate Behind High-Profile Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/2a4f9391a5b8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 22:10:58 GMT | The girl who’s too good to be true | Christypeace | [Read More](https://medium.com/p/080a0bafbcd8) |
 | Mon, 09 Jun 2025 22:10:40 GMT | GraphQL Role Escalation and Data Exposure | Omer Mohsen | [Read More](https://medium.com/p/4cc340431289) |
 | Mon, 09 Jun 2025 22:06:25 GMT | Hacking the Headlines: A Pen Tester’s Take on June 9, 2025 Cybersecurity Events | Pentestjunkie07 | [Read More](https://medium.com/p/a47ff03e6ffd) |
-| Mon, 09 Jun 2025 22:03:57 GMT | Streamlining Threat Intelligence Reporting with GenAI: from Theory to Practical Success | Awalin Sopan | [Read More](https://medium.com/p/58b91df4f233) |
-| Mon, 09 Jun 2025 22:03:33 GMT | Zabbix İzleme Sistemi ile Grafana Görselleştirme ve Telegram Uyarı Entegrasyonu | Muhammed Aziz Özaltın | [Read More](https://medium.com/p/d35245112d9f) |
-| Mon, 09 Jun 2025 21:58:47 GMT | Hack for a Billion: How I Simulated the Collapse of Apple Without Writing a Single Line of Code | Obmanwikobmanwik | [Read More](https://medium.com/p/82dad7f1d5e8) |
-| Mon, 09 Jun 2025 21:55:06 GMT | Cybersecurity — Interviews, Project Portfolios & Certifications (Your competitive edge) | Franklin Rhodes | [Read More](https://medium.com/p/1345b1f6aaea) |
-| Mon, 09 Jun 2025 21:46:12 GMT | PentestGPT: The Future of Automated Penetration Testing with AI | Ekene Joseph | [Read More](https://medium.com/p/256799a378ae) |
-| Mon, 09 Jun 2025 21:41:40 GMT | Mastering Threat Intelligence in Wazuh: A Step-by-Step Guide with OTX Integration | ierdnA | [Read More](https://medium.com/p/f0180b72747b) |
-| Mon, 09 Jun 2025 21:38:58 GMT | The Virtualization of Workstations: Why Red Teamers Must Learn to Hack the Cloud Desktop | Yua Mikanana | [Read More](https://medium.com/p/e391ac858ea6) |
