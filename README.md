@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 06:15:51 GMT | Intro to Platform Engineering: What it is and Why it Matters Now | Abhishek Sharma | [Read More](https://medium.com/p/385f438e1883) |
+| Tue, 10 Jun 2025 06:14:46 GMT | Access Control in Solidity: Beyond onlyOwner | XV Dev Labs | [Read More](https://medium.com/p/fb7f9f8a7764) |
+| Tue, 10 Jun 2025 06:12:56 GMT | Kali GPT — An AI-Powered Offensive Security Assistant | Shana Buhaisa | [Read More](https://medium.com/p/43e4477cbc65) |
+| Tue, 10 Jun 2025 06:11:16 GMT | What Happens if a Crypto Reserve Currency Is Hacked or Crashes? | Imali | [Read More](https://medium.com/p/10cad252a08c) |
+| Tue, 10 Jun 2025 06:06:24 GMT | Marks & Spencer Hacklendi: 2025’in En Ses Getiren Siber Saldırısından Çıkarılması Gereken Dersler | Buteksoft | [Read More](https://medium.com/p/d629c568d2b9) |
+| Tue, 10 Jun 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Jun 10, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/9e3b94d5c266) |
+| Tue, 10 Jun 2025 06:00:16 GMT | 30 Days of Cyber Security — Day 15: Client-side vs Server-side Vulnerability | Indra Rahmat Maulidi | [Read More](https://medium.com/p/668826570d5d) |
+| Tue, 10 Jun 2025 05:52:10 GMT | Personal SQL Cheatsheet | Shadem | [Read More](https://medium.com/p/441b03ed7487) |
+| Tue, 10 Jun 2025 05:46:25 GMT | PoisonedCredentials — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/00cc7f27285e) |
+| Tue, 10 Jun 2025 05:45:24 GMT | OSCP/OSCP+ Journey — This is Not Just About Technical (In English) | Justakazh | [Read More](https://medium.com/p/0437a15a8f84) |
 | Tue, 10 Jun 2025 05:25:52 GMT | Organizational Roles, Responsibilities, and Authorities (Clause 5.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/b3bb3c9b6064) |
 | Tue, 10 Jun 2025 05:22:26 GMT | Cybersecurity Career Guide: Proven Pathways to Long-Term Success | leo lisa | [Read More](https://medium.com/p/f6960ea49d33) |
 | Tue, 10 Jun 2025 05:11:07 GMT | How Managed IT Services Enhance Cybersecurity for Modern Enterprises | Wepsol | [Read More](https://medium.com/p/5c07d2d26e8c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 18:26:55 GMT | Inside a Failed Breach: How SentinelOne Became a Strategic Target of Chinese Cyber Espionage | Chetan Seripally | [Read More](https://medium.com/p/277fbe0d0647) |
 | Mon, 09 Jun 2025 18:21:14 GMT | Intro to Cold System Forensics | Isiah | [Read More](https://medium.com/p/fa115c5fd169) |
 | Mon, 09 Jun 2025 18:18:50 GMT | Whimsy & Order Tasky Part 2: Dari Temporary Memory ke Penyimpanan Permanen | Zifa Tea Azzahra | [Read More](https://medium.com/p/f4c3a9e44c0a) |
-| Mon, 09 Jun 2025 18:15:30 GMT | MIME Sniffing Unmasked: How Browsers Misjudge Files and Create Risks | Natarajan C K | [Read More](https://medium.com/p/1612a26972e0) |
-| Mon, 09 Jun 2025 18:10:55 GMT | Claim $DORK Tokens | $DORK (DORK) | [Read More](https://medium.com/p/c8d0e3129c0f) |
-| Mon, 09 Jun 2025 18:04:34 GMT | Why Are Action Men Afraid of Spa Days? | Shane Driver | [Read More](https://medium.com/p/b92fe465302b) |
-| Mon, 09 Jun 2025 17:57:24 GMT | Securing the Future: Understanding and Preventing Web Attacks | Miracle Chibuzo | [Read More](https://medium.com/p/0709a8f40f23) |
-| Mon, 09 Jun 2025 17:53:39 GMT | ️Web3 Security Weekly — June 2–8, 2025 | Null Return | [Read More](https://medium.com/p/c26fac1ecd43) |
-| Mon, 09 Jun 2025 17:50:32 GMT | How to get back your disabled Instagram Account | Tobias Mathew | [Read More](https://medium.com/p/1d7057158879) |
-| Mon, 09 Jun 2025 17:45:35 GMT | Hack The Box: Valentine | Songül Kızılay | [Read More](https://medium.com/p/261815f7fc87) |
-| Mon, 09 Jun 2025 17:43:01 GMT | It’s Never Too Late to Learn (A short personal story) | Wizardo | [Read More](https://medium.com/p/32085fb4ec7c) |
-| Mon, 09 Jun 2025 17:41:06 GMT | The Complete Guide to PHP Functions That Can Cause Local File Inclusion (LFI) Vulnerabilities… | Zoningxtr | [Read More](https://medium.com/p/7e1115ece1ea) |
-| Mon, 09 Jun 2025 17:39:01 GMT | Bitdefender Free Trial: Experience Premium Protection for 90 Days | Tech2Advise | [Read More](https://medium.com/p/33116cf3f267) |
