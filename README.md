@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 13:33:09 GMT | Track the Hacks: Cracking the Wire – Introduction to Network Forensics | byuda | [Read More](https://medium.com/p/4aa5baae0c48) |
+| Tue, 10 Jun 2025 13:26:34 GMT | Why Vulnerability Assessment and Penetration Testing Is Essential for Cybersecurity | Ahad me | [Read More](https://medium.com/p/46f87cd4f3de) |
+| Tue, 10 Jun 2025 13:16:36 GMT | Debug Logs to Admin Panel Access | CYB3RC4T | [Read More](https://medium.com/p/23d746ffd498) |
+| Tue, 10 Jun 2025 13:13:17 GMT | The Psychology of a Phishing Click: Why Smart People Still Fall for It | Cybersecurity Umbrella | [Read More](https://medium.com/p/b07adcff0e62) |
+| Tue, 10 Jun 2025 13:11:35 GMT | BADBOX 2.0: Global Supply Chain Botnet Targeting Off-Brand Android Devices and Home Networks | Wes Young | [Read More](https://medium.com/p/8814b5814f81) |
+| Tue, 10 Jun 2025 13:08:34 GMT | How can the cybersecurity course offered by Edcited help me land a decent job in the cybersecurity… | Edcited | [Read More](https://medium.com/p/bf4d558dc37c) |
+| Tue, 10 Jun 2025 13:02:29 GMT | Peris.ai Playbooks: The New First Responder in Cyber Defense | Peris.ai Cybersecurity | [Read More](https://medium.com/p/bdb05b979d34) |
+| Tue, 10 Jun 2025 13:02:25 GMT | The Power of Passwords | Ed-it Editions | [Read More](https://medium.com/p/1b991b3c59d7) |
+| Tue, 10 Jun 2025 13:01:42 GMT | How I Made $4,260 Bypassing a Simple Username Bug | Ibtissam hammadi | [Read More](https://medium.com/p/d969868025c7) |
+| Tue, 10 Jun 2025 13:01:38 GMT | Overconfident employees: Your hidden cyber security threat? | Zack Calloway | [Read More](https://medium.com/p/81ab824fd515) |
+| Tue, 10 Jun 2025 12:52:17 GMT | Software Security: Best Practices for Robust and Secure Applications | Brooksolivia | [Read More](https://medium.com/p/b66f51ba8265) |
+| Tue, 10 Jun 2025 12:44:26 GMT | AI — Blessing Or Curse? | Frank Islam & Ed Crego | [Read More](https://medium.com/p/4dac19bbd2f3) |
+| Tue, 10 Jun 2025 12:37:33 GMT | Digital Detectives | Munish Mehta | [Read More](https://medium.com/p/1dc353987caf) |
 | Tue, 10 Jun 2025 12:30:21 GMT | The Secret World of ICS/SCADA and Why It’s a Hacker’s Dream | Hasiholanabdullah | [Read More](https://medium.com/p/972ba8ed778c) |
 | Tue, 10 Jun 2025 12:29:55 GMT | Understanding ECC and Web3 Cryptography: The Foundation of Security in the Blockchain World | IndoHajk | [Read More](https://medium.com/p/e01775faca67) |
 | Tue, 10 Jun 2025 12:26:55 GMT | Build a CTF lab on Docker with Privilege escalation and SSH Bruteforce vuln | Zamh Putra | [Read More](https://medium.com/p/032726faf290) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 07:03:15 GMT | Malaysia’s 2025 Ransomware Epidemic is Just Scratching the Surface | David SEHYEON Baek | [Read More](https://medium.com/p/40ff3e2b3c6b) |
 | Tue, 10 Jun 2025 07:02:56 GMT | “Let Me Send It to You by Email — It’s Confidential!” Why That’s a Red Flag in Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/c7d7e1dcb854) |
 | Tue, 10 Jun 2025 07:02:34 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/15b9de13a0ce) |
-| Tue, 10 Jun 2025 07:02:00 GMT | CRACK THE CODE: What Every Hacker Color Really Means | Satyam Kumar | [Read More](https://medium.com/p/cb161c8c1e1e) |
-| Tue, 10 Jun 2025 07:00:53 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/b0b9680780f0) |
-| Tue, 10 Jun 2025 07:00:37 GMT | Building a Cybersecurity Nerve Center for the Modern Age, Next-Gen SIEM | David SEHYEON Baek | [Read More](https://medium.com/p/fe4dc22d5f60) |
-| Tue, 10 Jun 2025 07:00:07 GMT | Why Threat Actor Analysis is Essential in Modern Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/71e8258bbae6) |
-| Tue, 10 Jun 2025 06:59:49 GMT | How a 141-Year-Old British Giant, Marks & Spencer, Was Brought Down by a Social Engineering-Driven… | David SEHYEON Baek | [Read More](https://medium.com/p/171c14c51c36) |
-| Tue, 10 Jun 2025 06:59:31 GMT | The Most Cyber-Vulnerable Countries to Work From | David SEHYEON Baek | [Read More](https://medium.com/p/e924775f631b) |
-| Tue, 10 Jun 2025 06:58:52 GMT | CrowdStrike Outage Litigation and Investigations Since July 2024 Until May 2025 | David SEHYEON Baek | [Read More](https://medium.com/p/09f5fc31b1cd) |
-| Tue, 10 Jun 2025 06:58:04 GMT | Account Takeover with OAuth Misconfiguration. | matitanium | [Read More](https://medium.com/p/d6b384649930) |
-| Tue, 10 Jun 2025 06:53:13 GMT | Top Benefits of Hiring Traffic Marshal Services | Jane Tang | [Read More](https://medium.com/p/c980a3234a52) |
-| Tue, 10 Jun 2025 06:50:13 GMT | Could XSS Be the Hidden Key to Account Takeover | Ibtissam hammadi | [Read More](https://medium.com/p/f316d985dd6a) |
-| Tue, 10 Jun 2025 06:49:10 GMT | OSWE Web Hacking Tips (IPPSEC): Java Reversing #2 | Anezaneo | [Read More](https://medium.com/p/7b17f7aeccc7) |
-| Tue, 10 Jun 2025 06:49:03 GMT | Crafting Standalone Python Proof of Concept Exploits | Pampuna | [Read More](https://medium.com/p/5e02317134db) |
-| Tue, 10 Jun 2025 06:48:13 GMT | $560 Bounty: How Twitter’s Android App Leaked User Location | Monika sharma | [Read More](https://medium.com/p/698a8f4d4b18) |
