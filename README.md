@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 18:24:18 GMT | What I Learned About DNS Spoofing and ARP Poisoning | Prateek Savanur | [Read More](https://medium.com/p/4ee7dd60c935) |
+| Tue, 10 Jun 2025 18:18:54 GMT | Book Launch Announcement | Bobby | [Read More](https://medium.com/p/50c48d11c9da) |
+| Tue, 10 Jun 2025 18:17:47 GMT | Conscious AI: What if they hate being alive? | Michelle Harwood | [Read More](https://medium.com/p/cfce1620bbaa) |
+| Tue, 10 Jun 2025 18:16:20 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | Shivprasad Lavhat | [Read More](https://medium.com/p/79bc008d9a3a) |
+| Tue, 10 Jun 2025 18:10:30 GMT | How Browsers Share Your Browsing Path — And How to Take Back Control | Natarajan C K | [Read More](https://medium.com/p/02af932172fa) |
+| Tue, 10 Jun 2025 18:09:34 GMT | Securing Your Ruby Apps with bundler-audit | Germán Giménez Silva | [Read More](https://medium.com/p/880719d2f9a1) |
+| Tue, 10 Jun 2025 18:03:49 GMT | SIM Card Swapping: The Silent Cyber Heist | Anonymode | [Read More](https://medium.com/p/0b086c3ab73e) |
+| Tue, 10 Jun 2025 18:03:45 GMT | The Role of Networking in the Internet of Things(IoT) | Mazhar Imran | [Read More](https://medium.com/p/7a585665b44b) |
+| Tue, 10 Jun 2025 17:52:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/a0dd3c1ffe22) |
+| Tue, 10 Jun 2025 17:47:47 GMT | Comprehensive Phishing Email Analysis Guide | Venkatesh | [Read More](https://medium.com/p/90533c39858b) |
+| Tue, 10 Jun 2025 17:46:33 GMT | SBOM and Penetration Testing: How They Work Together to Strengthen Supply Chain Security | Black Lock | [Read More](https://medium.com/p/597e27af1db3) |
+| Tue, 10 Jun 2025 17:44:53 GMT | Open Shortest Path First (OSPF) — The Automated Routing Protocol. | Joanorifha | [Read More](https://medium.com/p/983490e13339) |
+| Tue, 10 Jun 2025 17:42:16 GMT | LinkedIn’s New Daily Game “Pinpoint” – Can You Guess the Connection? | Chordiyajiya | [Read More](https://medium.com/p/0cb235d3f04f) |
+| Tue, 10 Jun 2025 17:39:23 GMT | How Managed IT Services Can Boost Startup Scalability | Rapidise Inc | [Read More](https://medium.com/p/96a6534483ef) |
 | Tue, 10 Jun 2025 17:29:04 GMT | Config Editor Lab — Mobile Hacking Lab | Mahmoudelmansory | [Read More](https://medium.com/p/ddcf1a28683a) |
 | Tue, 10 Jun 2025 17:22:37 GMT | Top Cybersecurity Compliance Requirements in NZ and How to Meet Them with Pen Testing | Black Lock | [Read More](https://medium.com/p/1dd16c1addfe) |
 | Tue, 10 Jun 2025 17:21:28 GMT | Why Every Remote Developer Should Use a VPN in 2025 (And You Should Too) | The Minimalist Coder | [Read More](https://medium.com/p/b47d48f8218a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 12:08:40 GMT | Trump’s Cybersecurity Executive Order Marks Significant Policy Shift | Akash P | [Read More](https://medium.com/p/4ec5de169bda) |
 | Tue, 10 Jun 2025 12:06:49 GMT | Security Services Melbourne | Sureshvirtual | [Read More](https://medium.com/p/53e36af1b200) |
 | Tue, 10 Jun 2025 12:02:14 GMT | Reality of Realty: Unlocking the Definition of “Luxury”: What Truly Makes a Home Luxurious? | Valerie Davenport | [Read More](https://medium.com/p/c889d0ecd7e0) |
-| Tue, 10 Jun 2025 12:00:25 GMT | How to Configure Burpsuite with Firefox | Waleed Ramzan | [Read More](https://medium.com/p/a1cabd6b61ca) |
-| Tue, 10 Jun 2025 11:57:35 GMT | THM : Daily Bugle | sw0rdf1sh | [Read More](https://medium.com/p/b3e8e8de91b5) |
-| Tue, 10 Jun 2025 11:56:20 GMT | [LOG_01] Info Overload & Meaningful Machines | Calvin Sass | [Read More](https://medium.com/p/74a3c12017ab) |
-| Tue, 10 Jun 2025 11:45:57 GMT | The Daily Tech Digest: 10 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/f6b377b82714) |
-| Tue, 10 Jun 2025 11:35:52 GMT | When Smart Turns Sinister: A Decade of AI Abuse You Shouldn’t Ignore | Katherine Garrod | [Read More](https://medium.com/p/e8632ae9bc67) |
-| Tue, 10 Jun 2025 11:26:52 GMT | Detecting Deepfakes with OpenCV: A Technical Guide for Real-Time Video Analysis | Aditya Subhedar | [Read More](https://medium.com/p/4a82748689aa) |
-| Tue, 10 Jun 2025 11:25:20 GMT | Critical Google Security Flaw Exposes Millions of Users’ Phone Numbers Through Brute-Force Attack | Technijian | [Read More](https://medium.com/p/61c1e19f653f) |
-| Tue, 10 Jun 2025 11:21:28 GMT | Urgent Cyber Threats to Indian Sectors: What Zeron’s Advisory Reveals | Zeron | [Read More](https://medium.com/p/bc1643ad6ba9) |
-| Tue, 10 Jun 2025 11:20:43 GMT | Journey in Cybersecurity 2.0 | Naman Badlani | [Read More](https://medium.com/p/0f5b2be869e2) |
-| Tue, 10 Jun 2025 11:02:14 GMT | How Reverse Image Search Works and Why It Matters (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/7fe8dfc86121) |
-| Tue, 10 Jun 2025 10:38:26 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/ba7fbddb2669) |
-| Tue, 10 Jun 2025 10:34:09 GMT | A Guide to Kali GPT: Your New Cyber-Sidekick! | Gideon Bakel | [Read More](https://medium.com/p/77dfc397bc1b) |
-| Tue, 10 Jun 2025 10:32:37 GMT | The Marriott Hotel Data Breach: What Went Wrong? | Sanchitamishra | [Read More](https://medium.com/p/ee6f835c70f7) |
-| Tue, 10 Jun 2025 10:31:28 GMT | How I Built an “Early Warning System” for My AWS Account with CloudTrail and CloudWatch | Aashishchaudhari | [Read More](https://medium.com/p/ba81eb4ea3ad) |
