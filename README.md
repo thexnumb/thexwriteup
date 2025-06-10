@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 15:36:03 GMT | Understanding Browser Attacks: Threats and Defenses | SafeAeon Inc. | [Read More](https://medium.com/p/ed411f96984c) |
+| Tue, 10 Jun 2025 15:35:07 GMT | Nmap Crash Course For Ethical Hackers | Rohit Chaudhary | [Read More](https://medium.com/p/fe2b5c45fffb) |
+| Tue, 10 Jun 2025 15:31:51 GMT | GZR Observer Daily — Jun 10, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/ea048119a069) |
+| Tue, 10 Jun 2025 15:27:01 GMT | Careers in Cyber Securi | Gokulkanagaraj | [Read More](https://medium.com/p/da1553c1305f) |
+| Tue, 10 Jun 2025 15:20:16 GMT | Post-Quantum Cryptography: Securing Our Digital Future | Orange Digital Center | [Read More](https://medium.com/p/281644baaa29) |
 | Tue, 10 Jun 2025 15:15:25 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Taraschiffmacher | [Read More](https://medium.com/p/796d57c46fbf) |
 | Tue, 10 Jun 2025 15:14:04 GMT | How to handle exceptions in Java♨️? | Hari Prasad | [Read More](https://medium.com/p/ce8a49faf1e5) |
 | Tue, 10 Jun 2025 15:02:57 GMT | c2Pac: Prototyping C2 Channels Like a Thug | Tom O'Neill | [Read More](https://medium.com/p/5716f36797c3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 09:00:01 GMT | Cognitive Automation 2025: Der ultimative Business-Leitfaden für Führungskräfte (+ exklusive… | Philip Hansen | [Read More](https://medium.com/p/3787eb4127f9) |
 | Tue, 10 Jun 2025 08:59:34 GMT | Intelligent Automation 2025: Der Strategische Wegweiser für Geschäftsführer zur… | Philip Hansen | [Read More](https://medium.com/p/2259c53936e6) |
 | Tue, 10 Jun 2025 08:54:22 GMT | Hash Functions Explained : Types & Examples | Shubhamitaliya | [Read More](https://medium.com/p/2d751e52eed9) |
-| Tue, 10 Jun 2025 08:52:15 GMT | Top 50 Kali Linux Tools: Comprehensive Guide for Security Professionals | Okan Yıldız | [Read More](https://medium.com/p/7bc8752d55b7) |
-| Tue, 10 Jun 2025 08:50:35 GMT | Upload2Own: How SQL Injection and File Upload Flaws Lead to Remote Code Execution | Adarsh Kumar | [Read More](https://medium.com/p/4e243e8312ea) |
-| Tue, 10 Jun 2025 08:38:38 GMT | DUTCH VERSION | Cora Westerink | [Read More](https://medium.com/p/4a7ee4b1efbd) |
-| Tue, 10 Jun 2025 08:34:24 GMT | Newspaper and News Search tools for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/664e84182251) |
-| Tue, 10 Jun 2025 08:27:53 GMT | A Rootkit- A deadly malware that infects Operating System | Bridget | [Read More](https://medium.com/p/a1fb445e9b22) |
