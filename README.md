@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 21:07:00 GMT | Modbus TCP üzerinden Endüstriyel Sistemlere Erişim : Modbus Slave ortamı | Tekin Emre | [Read More](https://medium.com/p/15554fa7175a) |
+| Tue, 10 Jun 2025 21:02:48 GMT | LummaC2 Uncovered: Detection Strategies for a Growing Stealer Threat | Rick Martin | [Read More](https://medium.com/p/03496681dd83) |
+| Tue, 10 Jun 2025 21:00:27 GMT | How i built a Vulnerability Assessment AI Model with Keras & Gemini Embeddings | Naebi Sede | [Read More](https://medium.com/p/71b9fa093777) |
+| Tue, 10 Jun 2025 20:49:50 GMT | On The Collapse of American Civil Society | Filin | [Read More](https://medium.com/p/262157f89760) |
+| Tue, 10 Jun 2025 20:49:21 GMT | How Discord Bans Users on a Server | Nube Colectiva | [Read More](https://medium.com/p/ebbeded97834) |
+| Tue, 10 Jun 2025 20:47:18 GMT | How to get information about phone number using kali linux? | Cyril Cyriac | [Read More](https://medium.com/p/1f3d70ac72c8) |
+| Tue, 10 Jun 2025 20:46:43 GMT | Cybersecurity Built In, Not Bolted On | Rahul Kaklotar | [Read More](https://medium.com/p/9d19497bb2ce) |
+| Tue, 10 Jun 2025 20:46:43 GMT | NIS2 Compliance vs. Good Cybersecurity: Understanding the Crucial Differences | J Bodys | [Read More](https://medium.com/p/6f0c7cf5ec9e) |
+| Tue, 10 Jun 2025 20:46:43 GMT | ¿Cuál es el significado del software libre? | Tiziano Mass | [Read More](https://medium.com/p/1da6dfaa9bbb) |
+| Tue, 10 Jun 2025 20:45:51 GMT | Cyber Risk Analysis: Types, Calculation Methods, and Real-World Examples | Robertpurpose | [Read More](https://medium.com/p/da2d8afe6837) |
+| Tue, 10 Jun 2025 20:43:53 GMT | Introduction to Penetration Testing and Methodologies | Tharindu Damith | [Read More](https://medium.com/p/cc649b4768bc) |
+| Tue, 10 Jun 2025 20:43:30 GMT | Damn Vulnerable DeFi — #04 Side Entrance | 0xByteKnight | [Read More](https://medium.com/p/0c13e6d48258) |
 | Tue, 10 Jun 2025 20:26:34 GMT | The $10K/Month Bug Bounty Machine: A Step-by-Step Guide to Building a Collaborative Recon Pipeline… | Andrei Ivan | [Read More](https://medium.com/p/7b1d357ddd5d) |
 | Tue, 10 Jun 2025 20:24:20 GMT | The Forger’s Art | Thomas F McGeehan V | [Read More](https://medium.com/p/9148eb508406) |
 | Tue, 10 Jun 2025 20:19:13 GMT | MobileHackingLab — Post Board | Mason Schmidt | [Read More](https://medium.com/p/ad3f7f6a2aea) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 15:02:57 GMT | c2Pac: Prototyping C2 Channels Like a Thug | Tom O'Neill | [Read More](https://medium.com/p/5716f36797c3) |
 | Tue, 10 Jun 2025 15:02:13 GMT | Authentication vs. Authorization: Understanding the Key Security Differences | PCnet | [Read More](https://medium.com/p/8a648b204c0a) |
 | Tue, 10 Jun 2025 15:01:55 GMT | Hacking APIs: Enumeration and Recon Techniques for Modern APIs | Israel Aráoz Severiche | [Read More](https://medium.com/p/5fa3eac4817b) |
-| Tue, 10 Jun 2025 14:46:37 GMT | JSON Web Token (JWT) Security: Latest Attack Methods and Countermeasures | Rizqi Mulki | [Read More](https://medium.com/p/3c0169e3ba6d) |
-| Tue, 10 Jun 2025 14:42:49 GMT | What the Heck Is a Content Security Policy (CSP)? | Sanjeevani Bhandari | [Read More](https://medium.com/p/b18502e17464) |
-| Tue, 10 Jun 2025 14:38:28 GMT | Cross-Site Scripting (XSS) Evolution: New Payload Techniques | Rizqi Mulki | [Read More](https://medium.com/p/a305bc00c51d) |
-| Tue, 10 Jun 2025 14:38:25 GMT | Langkah Darurat Pertama Setelah Terkena Malware | Mukti Badriyan | [Read More](https://medium.com/p/1ad0e97ce796) |
-| Tue, 10 Jun 2025 14:37:21 GMT | Real-World Corporate Phishing Case: How did it all start? | Evs | [Read More](https://medium.com/p/d9658fe631ad) |
-| Tue, 10 Jun 2025 14:32:26 GMT | Mobile App Security: Flutter vs React Native Vulnerability Comparison | Rizqi Mulki | [Read More](https://medium.com/p/14c67cfd7d73) |
-| Tue, 10 Jun 2025 14:26:17 GMT | Production checklist for any nodejs developer | Dmytro Khirnyi | [Read More](https://medium.com/p/952862af7988) |
-| Tue, 10 Jun 2025 14:24:26 GMT | Leveraging Windows Event Logs for Effective Threat Hunting | BlackMamba | [Read More](https://medium.com/p/ca6be52e93e1) |
-| Tue, 10 Jun 2025 14:19:14 GMT | Securing your secrets using Terraform ephemeral resources | Jack Roper | [Read More](https://medium.com/p/dff453f25de0) |
-| Tue, 10 Jun 2025 14:14:55 GMT | Bug Bounty for Beginners: The Real Talk Guide (No BS Edition) | Telynor | [Read More](https://medium.com/p/b47f8e92efb5) |
-| Tue, 10 Jun 2025 14:12:59 GMT | Tips Aman Berselancar Internet VPN dan Keamanan Wi-Fi Publik | Mukti Badriyan | [Read More](https://medium.com/p/f9828f19da62) |
-| Tue, 10 Jun 2025 14:09:53 GMT | THM — Boogeyman 1 Writeup | Shamar Isaac | [Read More](https://medium.com/p/9b67b942754e) |
