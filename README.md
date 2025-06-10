@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 21:23:25 GMT | Five Ways to Protect Your Crypto: Simple Steps | Arx Locker | [Read More](https://medium.com/p/0eee8488c083) |
 | Tue, 10 Jun 2025 21:07:00 GMT | Modbus TCP üzerinden Endüstriyel Sistemlere Erişim : Modbus Slave ortamı | Tekin Emre | [Read More](https://medium.com/p/15554fa7175a) |
 | Tue, 10 Jun 2025 21:02:48 GMT | LummaC2 Uncovered: Detection Strategies for a Growing Stealer Threat | Rick Martin | [Read More](https://medium.com/p/03496681dd83) |
 | Tue, 10 Jun 2025 21:00:27 GMT | How i built a Vulnerability Assessment AI Model with Keras & Gemini Embeddings | Naebi Sede | [Read More](https://medium.com/p/71b9fa093777) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 15:14:04 GMT | How to handle exceptions in Java♨️? | Hari Prasad | [Read More](https://medium.com/p/ce8a49faf1e5) |
 | Tue, 10 Jun 2025 15:02:57 GMT | c2Pac: Prototyping C2 Channels Like a Thug | Tom O'Neill | [Read More](https://medium.com/p/5716f36797c3) |
 | Tue, 10 Jun 2025 15:02:13 GMT | Authentication vs. Authorization: Understanding the Key Security Differences | PCnet | [Read More](https://medium.com/p/8a648b204c0a) |
-| Tue, 10 Jun 2025 15:01:55 GMT | Hacking APIs: Enumeration and Recon Techniques for Modern APIs | Israel Aráoz Severiche | [Read More](https://medium.com/p/5fa3eac4817b) |
