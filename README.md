@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 19:33:29 GMT | Embracing Smart Living with SwitchBot | Elika | [Read More](https://medium.com/p/b234229ed395) |
+| Tue, 10 Jun 2025 19:32:02 GMT | Boost Your UX Research with Gen AI: Use Cases to Consider for Today’s Researcher | Mark Thompson-Kolar | [Read More](https://medium.com/p/1e591fd27c22) |
+| Tue, 10 Jun 2025 19:20:19 GMT | Google Cyber Security or CompTIA Security+? Here’s What Recruiters Are REALLY Looking For | Motasem Hamdan | [Read More](https://medium.com/p/16acddd7664a) |
+| Tue, 10 Jun 2025 19:12:44 GMT | The Ultimate Penetration Testing Methodology | Kalsariya Dharmesh | [Read More](https://medium.com/p/da4f8ebc6da3) |
+| Tue, 10 Jun 2025 19:12:33 GMT | Welcome to the Five Insights Blog | Jude | [Read More](https://medium.com/p/b926a4bc570c) |
 | Tue, 10 Jun 2025 19:06:02 GMT | Visualizing Security and Correlating Events with Kibana Dashboards | Esra Kayhan | [Read More](https://medium.com/p/21bf94a9f9ef) |
 | Tue, 10 Jun 2025 19:05:29 GMT | The Invisible Threat: How LLM Plugins Could Become a New Frontier for Stealthy Cyber Attacks | Shannon Harrell Jr. | [Read More](https://medium.com/p/d4b2613ea09d) |
 | Tue, 10 Jun 2025 19:05:26 GMT | The ILOVEYOU Virus: When the First Social Engineering Attack Broke the Internet | Sneha Patil | [Read More](https://medium.com/p/5108782bf2d5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 13:33:09 GMT | Track the Hacks: Cracking the Wire – Introduction to Network Forensics | byuda | [Read More](https://medium.com/p/4aa5baae0c48) |
 | Tue, 10 Jun 2025 13:26:34 GMT | Why Vulnerability Assessment and Penetration Testing Is Essential for Cybersecurity | Ahad me | [Read More](https://medium.com/p/46f87cd4f3de) |
 | Tue, 10 Jun 2025 13:22:35 GMT | Your Toaster Is Smarter Than You | John Cooksey | [Read More](https://medium.com/p/610d30490cae) |
-| Tue, 10 Jun 2025 13:16:36 GMT | Debug Logs to Admin Panel Access | CYB3RC4T | [Read More](https://medium.com/p/23d746ffd498) |
-| Tue, 10 Jun 2025 13:13:17 GMT | The Psychology of a Phishing Click: Why Smart People Still Fall for It | Cybersecurity Umbrella | [Read More](https://medium.com/p/b07adcff0e62) |
-| Tue, 10 Jun 2025 13:11:35 GMT | BADBOX 2.0: Global Supply Chain Botnet Targeting Off-Brand Android Devices and Home Networks | Wes Young | [Read More](https://medium.com/p/8814b5814f81) |
-| Tue, 10 Jun 2025 13:08:34 GMT | How can the cybersecurity course offered by Edcited help me land a decent job in the cybersecurity… | Edcited | [Read More](https://medium.com/p/bf4d558dc37c) |
-| Tue, 10 Jun 2025 13:02:29 GMT | Peris.ai Playbooks: The New First Responder in Cyber Defense | Peris.ai Cybersecurity | [Read More](https://medium.com/p/bdb05b979d34) |
