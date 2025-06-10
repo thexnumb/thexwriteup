@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 05:25:52 GMT | Organizational Roles, Responsibilities, and Authorities (Clause 5.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/b3bb3c9b6064) |
+| Tue, 10 Jun 2025 05:22:26 GMT | Cybersecurity Career Guide: Proven Pathways to Long-Term Success | leo lisa | [Read More](https://medium.com/p/f6960ea49d33) |
 | Tue, 10 Jun 2025 05:11:07 GMT | How Managed IT Services Enhance Cybersecurity for Modern Enterprises | Wepsol | [Read More](https://medium.com/p/5c07d2d26e8c) |
 | Tue, 10 Jun 2025 05:07:45 GMT | Flag Vault - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/6138ed556cf2) |
 | Tue, 10 Jun 2025 05:02:17 GMT | Linux Shell vs Docker Runners for HIPAA-Compliant CI/CD: What’s the Best Choice for Production? | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/db441371930d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 17:43:01 GMT | It’s Never Too Late to Learn (A short personal story) | Wizardo | [Read More](https://medium.com/p/32085fb4ec7c) |
 | Mon, 09 Jun 2025 17:41:06 GMT | The Complete Guide to PHP Functions That Can Cause Local File Inclusion (LFI) Vulnerabilities… | Zoningxtr | [Read More](https://medium.com/p/7e1115ece1ea) |
 | Mon, 09 Jun 2025 17:39:01 GMT | Bitdefender Free Trial: Experience Premium Protection for 90 Days | Tech2Advise | [Read More](https://medium.com/p/33116cf3f267) |
-| Mon, 09 Jun 2025 17:36:37 GMT | Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter | hacker_might | [Read More](https://medium.com/p/b309956402f8) |
-| Mon, 09 Jun 2025 17:36:05 GMT | Disabled social media account recovery | Tobias Mathew | [Read More](https://medium.com/p/8f5b29ecbeda) |
