@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 14:14:55 GMT | Bug Bounty for Beginners: The Real Talk Guide (No BS Edition) | Telynor | [Read More](https://medium.com/p/b47f8e92efb5) |
+| Tue, 10 Jun 2025 14:12:59 GMT | Tips Aman Berselancar Internet VPN dan Keamanan Wi-Fi Publik | Mukti Badriyan | [Read More](https://medium.com/p/f9828f19da62) |
+| Tue, 10 Jun 2025 14:09:53 GMT | THM — Boogeyman 1 Writeup | Shamar Isaac | [Read More](https://medium.com/p/9b67b942754e) |
+| Tue, 10 Jun 2025 14:04:56 GMT | How CROC Leverages Vision One CREM to Transform Cyber Risk Strategy into Operational Reality | Juan Pablo Castro | [Read More](https://medium.com/p/b063c46714fc) |
+| Tue, 10 Jun 2025 14:03:19 GMT | Cyber Security Toolkit | Munish Mehta | [Read More](https://medium.com/p/f528ef846e25) |
+| Tue, 10 Jun 2025 14:02:21 GMT | Hacking Smarter with LLaMA: Bringing Open-Source AI to Cybersecurity Workflows | Michael Yeibo | [Read More](https://medium.com/p/d0de2d659bb6) |
+| Tue, 10 Jun 2025 14:00:25 GMT | Cyber Briefing: 2025.06.10 | CyberMaterial | [Read More](https://medium.com/p/1b44e6ef340f) |
+| Tue, 10 Jun 2025 13:56:11 GMT | “We thought he was just quiet. Then we found access logs to our internal accounts.” | Mariiatata | [Read More](https://medium.com/p/c5d389757482) |
+| Tue, 10 Jun 2025 13:52:53 GMT | ️ Secure Your Infrastructure: WireGuard VPN + SSH Key Management Guide for Devs | Ege Bilge | [Read More](https://medium.com/p/f88cb8602c62) |
+| Tue, 10 Jun 2025 13:48:23 GMT | Make CTEM Work: How We Built a Pentest Reporting Platform to Keep Up With Real-World Risk | Luis Abreu from Cyver | [Read More](https://medium.com/p/794dce805dcf) |
+| Tue, 10 Jun 2025 13:47:36 GMT | Easy Reverse Engineering Challenge on Hack The Box | Firas Meddeb | [Read More](https://medium.com/p/c0a4bf57df85) |
+| Tue, 10 Jun 2025 13:47:08 GMT | OAuth 2.0 Explained! - How OAuth 2.0 Works with a Real-World Example | Ramesh Fadatare | [Read More](https://medium.com/p/c03adc0d9419) |
+| Tue, 10 Jun 2025 13:45:44 GMT | Ultimate credit card power couple | Daily Drop | [Read More](https://medium.com/p/e9fb9057105d) |
 | Tue, 10 Jun 2025 13:33:09 GMT | Track the Hacks: Cracking the Wire – Introduction to Network Forensics | byuda | [Read More](https://medium.com/p/4aa5baae0c48) |
 | Tue, 10 Jun 2025 13:26:34 GMT | Why Vulnerability Assessment and Penetration Testing Is Essential for Cybersecurity | Ahad me | [Read More](https://medium.com/p/46f87cd4f3de) |
+| Tue, 10 Jun 2025 13:22:35 GMT | Your Toaster Is Smarter Than You | John Cooksey | [Read More](https://medium.com/p/610d30490cae) |
 | Tue, 10 Jun 2025 13:16:36 GMT | Debug Logs to Admin Panel Access | CYB3RC4T | [Read More](https://medium.com/p/23d746ffd498) |
 | Tue, 10 Jun 2025 13:13:17 GMT | The Psychology of a Phishing Click: Why Smart People Still Fall for It | Cybersecurity Umbrella | [Read More](https://medium.com/p/b07adcff0e62) |
 | Tue, 10 Jun 2025 13:11:35 GMT | BADBOX 2.0: Global Supply Chain Botnet Targeting Off-Brand Android Devices and Home Networks | Wes Young | [Read More](https://medium.com/p/8814b5814f81) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 07:51:19 GMT | ประจำวันอังคารที่ 10 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/35aa7c4d100a) |
 | Tue, 10 Jun 2025 07:42:50 GMT | Microsoft OneDrive Flaw Could Expose Entire Cloud Storage | SafetyDetectives Research Team | [Read More](https://medium.com/p/ef59f30af255) |
 | Tue, 10 Jun 2025 07:39:48 GMT | Cache-Busting Bonanza: How I Bypassed Rate Limits Using HTTP Weirdness | Iski | [Read More](https://medium.com/p/6d0d137cb7d7) |
-| Tue, 10 Jun 2025 07:31:16 GMT | Weekly Cybersecurity Recap: Chrome 0-Day, Data Wipers, Misused Tools & Zero-Click iPhone Attacks… | Navigtech | [Read More](https://medium.com/p/c4a38689f183) |
-| Tue, 10 Jun 2025 07:30:31 GMT | EXAMPLE TOOLS BRUTE FORCE LOGIN WINBOX ADDRESS DENGAN PYTHON | My Ego | [Read More](https://medium.com/p/303857c6082b) |
-| Tue, 10 Jun 2025 07:27:43 GMT | Cybersecurity and You! | Amaya Uththara Weerawardhana | [Read More](https://medium.com/p/2fafcdbc43f1) |
-| Tue, 10 Jun 2025 07:24:04 GMT | Qualcomm Windows senior security Engineer - Interview experience | OS Dev | [Read More](https://medium.com/p/5ed4f7e08ff7) |
-| Tue, 10 Jun 2025 07:16:32 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/16088942a167) |
-| Tue, 10 Jun 2025 07:11:49 GMT | What Are Security Robots? | Marcus Koehnlein | [Read More](https://medium.com/p/15e290cc9df4) |
-| Tue, 10 Jun 2025 07:09:22 GMT | Rubber Ducky USB: How Hackers Hijack Systems with a Flash Drive | Nanda Siddhardha | [Read More](https://medium.com/p/56b7eda7505e) |
-| Tue, 10 Jun 2025 07:08:49 GMT | Web3 Explanation For Dummies | Raja Ubaid Fawwaz | [Read More](https://medium.com/p/99bc4340436b) |
-| Tue, 10 Jun 2025 07:04:42 GMT | Why Threat Actors Target the Energy Sector | David SEHYEON Baek | [Read More](https://medium.com/p/e5faf939434c) |
-| Tue, 10 Jun 2025 07:03:53 GMT | Worst-Case Scenarios of AI Platform Account Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/faa1d031a650) |
-| Tue, 10 Jun 2025 07:03:33 GMT | DragonForce, The Cybercrime Syndicate Behind High-Profile Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/2a4f9391a5b8) |
-| Tue, 10 Jun 2025 07:03:15 GMT | Malaysia’s 2025 Ransomware Epidemic is Just Scratching the Surface | David SEHYEON Baek | [Read More](https://medium.com/p/40ff3e2b3c6b) |
-| Tue, 10 Jun 2025 07:02:56 GMT | “Let Me Send It to You by Email — It’s Confidential!” Why That’s a Red Flag in Cybersecurity | David SEHYEON Baek | [Read More](https://medium.com/p/c7d7e1dcb854) |
-| Tue, 10 Jun 2025 07:02:34 GMT | Protecting Your Smartphone Against Hackers and Spyware | David SEHYEON Baek | [Read More](https://medium.com/p/15b9de13a0ce) |
