@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 17:08:01 GMT | 0x01: Introduction to Active Directory Pentesting | Aswin Krishna PB | [Read More](https://medium.com/p/fa4576634f27) |
+| Tue, 10 Jun 2025 17:05:54 GMT | How I Got $$$$ for Bypassing a PIN Lock in an Android App | Kyrillos nady | [Read More](https://medium.com/p/6c1b48f615e3) |
+| Tue, 10 Jun 2025 17:04:56 GMT | Syria: 6 Months After Assad | PHD - Politics, History, Diplomacy | [Read More](https://medium.com/p/6a6f0a776fa1) |
+| Tue, 10 Jun 2025 17:00:00 GMT | Tools Bruteforce Login Page menggunakan Python | Ahmadfaizabdillah | [Read More](https://medium.com/p/fc9b2738fb68) |
+| Tue, 10 Jun 2025 16:57:11 GMT | IBM Unveils Next-Generation Quantum Processor, Ushering In a New Era of Computation | QuantumGenie | [Read More](https://medium.com/p/08c120b6acbc) |
+| Tue, 10 Jun 2025 16:53:27 GMT | DoS vs. DDoS: The Silent Killers of the Internet | SACHIN PV | [Read More](https://medium.com/p/3cd3610066c8) |
+| Tue, 10 Jun 2025 16:49:17 GMT | Just Found Out About D’CENT’s New Campaign: Map Protocol | Varun Jain | [Read More](https://medium.com/p/37105a4e1ca7) |
+| Tue, 10 Jun 2025 16:46:56 GMT | Six Months as a Detection Engineer: What I’ve Learned (and Unlearned) | Rick Martin | [Read More](https://medium.com/p/7ace2e5b536f) |
+| Tue, 10 Jun 2025 16:44:44 GMT | ️ Tech Simplified: Why Building a 100% Secure App Is a Myth | Manorath Khanna | [Read More](https://medium.com/p/543a114cdcb3) |
 | Tue, 10 Jun 2025 16:42:11 GMT | The Life You Post vs. The Life You Live | Sera Dawn | [Read More](https://medium.com/p/8e7d1bdbb2b0) |
+| Tue, 10 Jun 2025 16:41:11 GMT | Risk Management in Cybersecurity: The GRC Superpower You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/b4b85f725ceb) |
+| Tue, 10 Jun 2025 16:40:55 GMT | Social Media: The New Concern for Cybersecurity | Kayla Manalu | [Read More](https://medium.com/p/1a4c4891b387) |
 | Tue, 10 Jun 2025 16:32:01 GMT | Kali GPT: An Offensive Security Assist That Cuts Through the Noise | cybrNK | [Read More](https://medium.com/p/651e227b7d01) |
 | Tue, 10 Jun 2025 16:29:18 GMT | Reliable. Accountable. In Control. Every Shift, Every Site. | EXLITY | [Read More](https://medium.com/p/16a44da2c22e) |
 | Tue, 10 Jun 2025 16:23:03 GMT | ️Day 59: Bash Scripting -Mastering String and Array Manipulation | Agarwaldaksh | [Read More](https://medium.com/p/61348829565a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 10:14:43 GMT | Introducing ICSrank V2: Multi-Engine Search for ICS/OT OSINT | Sulaiman Alhasawi | [Read More](https://medium.com/p/4713dabd9029) |
 | Tue, 10 Jun 2025 10:12:23 GMT | Dijital Dünyada İz Sürmek: Bir OSINT CTF (Capture The Flag) Senaryosu | Aycanurguc | [Read More](https://medium.com/p/3d69829a4f83) |
 | Tue, 10 Jun 2025 10:11:43 GMT | HackTheBox Emdee five for life Challenge Writeup & Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/5896369932a3) |
-| Tue, 10 Jun 2025 10:09:35 GMT | Brave Lab | Jesús García Rubias | [Read More](https://medium.com/p/4d7d8f3da243) |
-| Tue, 10 Jun 2025 10:09:25 GMT | Proof-of-Concept Exploit Released for Fortinet 0-Day Vulnerability (CVE-2024–21762) | Infoziant | [Read More](https://medium.com/p/70fe962fed84) |
-| Tue, 10 Jun 2025 10:08:56 GMT | Securing the Future: Advanced Security Systems for Commercial Buildings | Jessica Louise | [Read More](https://medium.com/p/2a0f520a3230) |
-| Tue, 10 Jun 2025 10:00:31 GMT | Network Analysis Ransomware(Blue team labs) | Amalpp | [Read More](https://medium.com/p/a477f8084759) |
-| Tue, 10 Jun 2025 09:50:00 GMT | “CTF Challenge: Web Exploitation on a Linux Server — AUB | Qasim Ali | [Read More](https://medium.com/p/894cde46eaf5) |
-| Tue, 10 Jun 2025 09:49:58 GMT | Threats to consider when integrating Digital ID solutions into your organization | Szymon Chadam | [Read More](https://medium.com/p/88cca3ac0d70) |
-| Tue, 10 Jun 2025 09:48:38 GMT | Construction Site Surveillance: 7 Reasons to Invest in Remote Video Monitoring | Ivis Constructionsurveillance | [Read More](https://medium.com/p/724e6f55c493) |
-| Tue, 10 Jun 2025 09:47:52 GMT | From RXSS to ATO: Bypassing WAF with a Simple POST Trick | Muntadhar M. Ahmed | [Read More](https://medium.com/p/a27ed30cf62b) |
-| Tue, 10 Jun 2025 09:46:47 GMT | Introduction: Diploma in Information Security Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/29a1631ef68c) |
-| Tue, 10 Jun 2025 09:27:04 GMT | The Double-Edged Sword: How AI Empowers Both Cyber Attackers and Defenders | Paul Sherman | [Read More](https://medium.com/p/64e7d3e72f72) |
-| Tue, 10 Jun 2025 09:25:35 GMT | Trusted Crypto recovery specialist — Crypto Recovery Option | Robertjoness | [Read More](https://medium.com/p/0a7c9b58c2bf) |
