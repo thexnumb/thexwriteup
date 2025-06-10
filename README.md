@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 09:27:04 GMT | The Double-Edged Sword: How AI Empowers Both Cyber Attackers and Defenders | Paul Sherman | [Read More](https://medium.com/p/64e7d3e72f72) |
+| Tue, 10 Jun 2025 09:25:35 GMT | Trusted Crypto recovery specialist — Crypto Recovery Option | Robertjoness | [Read More](https://medium.com/p/0a7c9b58c2bf) |
+| Tue, 10 Jun 2025 09:17:59 GMT | Practical Recommendations for Firewall Proxy Implementation: A Guide to Securing Your Virtual… | zainal Abidin | [Read More](https://medium.com/p/f60a252b9067) |
 | Tue, 10 Jun 2025 09:12:27 GMT | How to Recover Scammed USDT/BITCOIN | Robertjoness | [Read More](https://medium.com/p/73d63b1f6956) |
 | Tue, 10 Jun 2025 09:11:03 GMT | Respiracion | Camila Forame | [Read More](https://medium.com/p/db152a098995) |
 | Tue, 10 Jun 2025 09:09:41 GMT | AI and Bug Bounty: The Future of Cybersecurity and How to Stay Sane | Mahetagaurang | [Read More](https://medium.com/p/e8de0d311e9b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 03:56:01 GMT | Securing Transactions with Smart Authentication: How Declarative Approach Makes It Simple | Ranjan Khanna | [Read More](https://medium.com/p/cd09ede9d95c) |
 | Tue, 10 Jun 2025 03:46:01 GMT | Fake ChatGPT Sites Can Put Your Data And Devices At Risk — Here’s How To Spot Them | Kajal Sharma | [Read More](https://medium.com/p/3b93986ff287) |
 | Tue, 10 Jun 2025 03:45:11 GMT | True Rejection Happens When We Never Dare To Ask | Donny Kurniawan | [Read More](https://medium.com/p/a69fe33a4ef0) |
-| Tue, 10 Jun 2025 03:42:42 GMT | Cara Mengatasi Wazuh Agent Active Tapi Log Tidak Terbaca | Haldian | [Read More](https://medium.com/p/1efe1782849f) |
-| Tue, 10 Jun 2025 03:42:22 GMT | BLUEPRINT — THM CTF — WRITEUP | 5kullk3r | [Read More](https://medium.com/p/bc77044228e4) |
-| Tue, 10 Jun 2025 03:32:18 GMT | The Silent Attack That Cost Millions: Unpacking the IKEA Operator’s Ransomware Ordeal | Deven Chhajed | [Read More](https://medium.com/p/e57039f7146d) |
