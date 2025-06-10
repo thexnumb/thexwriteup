@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 17:29:04 GMT | Config Editor Lab — Mobile Hacking Lab | Mahmoudelmansory | [Read More](https://medium.com/p/ddcf1a28683a) |
+| Tue, 10 Jun 2025 17:22:37 GMT | Top Cybersecurity Compliance Requirements in NZ and How to Meet Them with Pen Testing | Black Lock | [Read More](https://medium.com/p/1dd16c1addfe) |
+| Tue, 10 Jun 2025 17:21:28 GMT | Why Every Remote Developer Should Use a VPN in 2025 (And You Should Too) | The Minimalist Coder | [Read More](https://medium.com/p/b47d48f8218a) |
+| Tue, 10 Jun 2025 17:20:17 GMT | Elliptic Curve Cryptography (ECC) dalam Web3: Dasar, Cara Kerja, Implementasi, dan Ancaman | himawanazmi | [Read More](https://medium.com/p/8e8904166eba) |
+| Tue, 10 Jun 2025 17:16:51 GMT | Tusk Infostealer Lab | Jesús García Rubias | [Read More](https://medium.com/p/0715253c904d) |
+| Tue, 10 Jun 2025 17:16:24 GMT | How to Detect Vulnerable JavaScript Libraries with Retire.js | Nishanthan | [Read More](https://medium.com/p/9a8d44c52753) |
+| Tue, 10 Jun 2025 17:10:24 GMT | The Resume Trap: How FIN6 Is Using Fake Job Hunts to Breach Networks | Siva Gunasekaran | [Read More](https://medium.com/p/bf6881e2ed87) |
+| Tue, 10 Jun 2025 17:09:03 GMT | 2025–2026 Cybersecurity Trends | Rodion Orets | [Read More](https://medium.com/p/6c43964d3227) |
 | Tue, 10 Jun 2025 17:08:01 GMT | 0x01: Introduction to Active Directory Pentesting | Aswin Krishna PB | [Read More](https://medium.com/p/fa4576634f27) |
 | Tue, 10 Jun 2025 17:05:54 GMT | How I Got $$$$ for Bypassing a PIN Lock in an Android App | Kyrillos nady | [Read More](https://medium.com/p/6c1b48f615e3) |
 | Tue, 10 Jun 2025 17:04:56 GMT | Syria: 6 Months After Assad | PHD - Politics, History, Diplomacy | [Read More](https://medium.com/p/6a6f0a776fa1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 10:34:09 GMT | A Guide to Kali GPT: Your New Cyber-Sidekick! | Gideon Bakel | [Read More](https://medium.com/p/77dfc397bc1b) |
 | Tue, 10 Jun 2025 10:32:37 GMT | The Marriott Hotel Data Breach: What Went Wrong? | Sanchitamishra | [Read More](https://medium.com/p/ee6f835c70f7) |
 | Tue, 10 Jun 2025 10:31:28 GMT | How I Built an “Early Warning System” for My AWS Account with CloudTrail and CloudWatch | Aashishchaudhari | [Read More](https://medium.com/p/ba81eb4ea3ad) |
-| Tue, 10 Jun 2025 10:25:07 GMT | OSINT Tool You Shouldn’t Ignore: Visualize Hidden Connections Like a Pro | Elie Attieh | [Read More](https://medium.com/p/19b4db43b8a4) |
-| Tue, 10 Jun 2025 10:25:01 GMT | Love That Betrays | reina | [Read More](https://medium.com/p/53a80b88741c) |
-| Tue, 10 Jun 2025 10:22:02 GMT | Customers Asked to Upload Files—This Plugin Solved Everything | Andrea Goodwin | [Read More](https://medium.com/p/95a3374e4e22) |
-| Tue, 10 Jun 2025 10:16:33 GMT | Top 10 Cyber Security Testing Companies USA 2025 — QASource | timothy joseph | [Read More](https://medium.com/p/66e9e6c2fe52) |
-| Tue, 10 Jun 2025 10:14:51 GMT | How the 2017 Equifax Breach Exposed 147 Million People | Sanchitamishra | [Read More](https://medium.com/p/49a55eb4662e) |
-| Tue, 10 Jun 2025 10:14:43 GMT | Introducing ICSrank V2: Multi-Engine Search for ICS/OT OSINT | Sulaiman Alhasawi | [Read More](https://medium.com/p/4713dabd9029) |
-| Tue, 10 Jun 2025 10:12:23 GMT | Dijital Dünyada İz Sürmek: Bir OSINT CTF (Capture The Flag) Senaryosu | Aycanurguc | [Read More](https://medium.com/p/3d69829a4f83) |
-| Tue, 10 Jun 2025 10:11:43 GMT | HackTheBox Emdee five for life Challenge Writeup & Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/5896369932a3) |
