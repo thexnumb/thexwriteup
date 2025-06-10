@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 10:38:26 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/ba7fbddb2669) |
+| Tue, 10 Jun 2025 10:34:09 GMT | A Guide to Kali GPT: Your New Cyber-Sidekick! | Gideon Bakel | [Read More](https://medium.com/p/77dfc397bc1b) |
+| Tue, 10 Jun 2025 10:32:37 GMT | The Marriott Hotel Data Breach: What Went Wrong? | Sanchitamishra | [Read More](https://medium.com/p/ee6f835c70f7) |
+| Tue, 10 Jun 2025 10:31:28 GMT | How I Built an “Early Warning System” for My AWS Account with CloudTrail and CloudWatch | Aashishchaudhari | [Read More](https://medium.com/p/ba81eb4ea3ad) |
+| Tue, 10 Jun 2025 10:25:07 GMT | OSINT Tool You Shouldn’t Ignore: Visualize Hidden Connections Like a Pro | Elie Attieh | [Read More](https://medium.com/p/19b4db43b8a4) |
+| Tue, 10 Jun 2025 10:25:01 GMT | Love That Betrays | reina | [Read More](https://medium.com/p/53a80b88741c) |
 | Tue, 10 Jun 2025 10:22:02 GMT | Customers Asked to Upload Files—This Plugin Solved Everything | Andrea Goodwin | [Read More](https://medium.com/p/95a3374e4e22) |
+| Tue, 10 Jun 2025 10:16:33 GMT | Top 10 Cyber Security Testing Companies USA 2025 — QASource | timothy joseph | [Read More](https://medium.com/p/66e9e6c2fe52) |
 | Tue, 10 Jun 2025 10:14:51 GMT | How the 2017 Equifax Breach Exposed 147 Million People | Sanchitamishra | [Read More](https://medium.com/p/49a55eb4662e) |
 | Tue, 10 Jun 2025 10:14:43 GMT | Introducing ICSrank V2: Multi-Engine Search for ICS/OT OSINT | Sulaiman Alhasawi | [Read More](https://medium.com/p/4713dabd9029) |
 | Tue, 10 Jun 2025 10:12:23 GMT | Dijital Dünyada İz Sürmek: Bir OSINT CTF (Capture The Flag) Senaryosu | Aycanurguc | [Read More](https://medium.com/p/3d69829a4f83) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 05:25:52 GMT | Organizational Roles, Responsibilities, and Authorities (Clause 5.3 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/b3bb3c9b6064) |
 | Tue, 10 Jun 2025 05:22:26 GMT | Cybersecurity Career Guide: Proven Pathways to Long-Term Success | leo lisa | [Read More](https://medium.com/p/f6960ea49d33) |
 | Tue, 10 Jun 2025 05:11:07 GMT | How Managed IT Services Enhance Cybersecurity for Modern Enterprises | Wepsol | [Read More](https://medium.com/p/5c07d2d26e8c) |
-| Tue, 10 Jun 2025 05:07:45 GMT | Flag Vault - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/6138ed556cf2) |
-| Tue, 10 Jun 2025 05:02:17 GMT | Linux Shell vs Docker Runners for HIPAA-Compliant CI/CD: What’s the Best Choice for Production? | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/db441371930d) |
-| Tue, 10 Jun 2025 05:00:19 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in Oman | Tekhabeeb | [Read More](https://medium.com/p/99a5eef6f752) |
-| Tue, 10 Jun 2025 05:00:16 GMT | Grafana CVE-2025–4123 - Open Redirect - XSS - SSRF | RivuDon | [Read More](https://medium.com/p/8fa24bb26d5d) |
-| Tue, 10 Jun 2025 05:00:12 GMT | How a Star Wars Fan Site Became the CIA’s Most Costly Digital Blunder | Roman Huliak | [Read More](https://medium.com/p/5ee92a5459de) |
-| Tue, 10 Jun 2025 05:00:08 GMT | $250 Bounty: How I Tricked the Nextcloud Android App Into Uploading Its Own Sensitive Files | Monika sharma | [Read More](https://medium.com/p/b481703e05cf) |
-| Tue, 10 Jun 2025 04:59:58 GMT | The Cybersecurity Crisis of 2025: How a Smart Lamp Nearly Crippled X Business | Noel | [Read More](https://medium.com/p/5f40198931f9) |
