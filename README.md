@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 03:46:01 GMT | Fake ChatGPT Sites Can Put Your Data And Devices At Risk — Here’s How To Spot Them | Kajal Sharma | [Read More](https://medium.com/p/3b93986ff287) |
+| Tue, 10 Jun 2025 03:45:11 GMT | True Rejection Happens When We Never Dare To Ask | Donny Kurniawan | [Read More](https://medium.com/p/a69fe33a4ef0) |
+| Tue, 10 Jun 2025 03:42:42 GMT | Cara Mengatasi Wazuh Agent Active Tapi Log Tidak Terbaca | Haldian | [Read More](https://medium.com/p/1efe1782849f) |
+| Tue, 10 Jun 2025 03:42:22 GMT | BLUEPRINT — THM CTF — WRITEUP | 5kullk3r | [Read More](https://medium.com/p/bc77044228e4) |
+| Tue, 10 Jun 2025 03:32:18 GMT | The Silent Attack That Cost Millions: Unpacking the IKEA Operator’s Ransomware Ordeal | Deven Chhajed | [Read More](https://medium.com/p/e57039f7146d) |
+| Tue, 10 Jun 2025 03:22:31 GMT | OAuth Misuse: How Broken Flows and Open Redirects Lead to Account Hijack | Monika sharma | [Read More](https://medium.com/p/9f280680aab5) |
+| Tue, 10 Jun 2025 03:22:25 GMT | Windows PowerShell Event Logging | Daouda Diallo | [Read More](https://medium.com/p/ac201a79a011) |
 | Tue, 10 Jun 2025 03:03:38 GMT | Introduction to Wazuh | Ismail Hakim | [Read More](https://medium.com/p/9cd8195e42ac) |
 | Tue, 10 Jun 2025 02:26:25 GMT | Crypto Agility: Why it Matters in a Post-Quantum World | Syeda Chowdhury | [Read More](https://medium.com/p/6ea4430c9153) |
 | Tue, 10 Jun 2025 02:21:30 GMT | CyberGym: Evaluating AI Agents’ Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | YouShin kim | [Read More](https://medium.com/p/53fcd63578e9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 16:32:01 GMT | Unlocking Cybersecurity Automation with AI + Offensive Tooling | Shadow Packet | [Read More](https://medium.com/p/6e8c1fe0b7fd) |
 | Mon, 09 Jun 2025 16:29:55 GMT | SOC Audit Checklist: Ensuring Robust Security Operations | SafeAeon Inc. | [Read More](https://medium.com/p/bf03d43a8f74) |
 | Mon, 09 Jun 2025 16:26:59 GMT | Top Cybersecurity Companies Making Waves in 2025 | John Cafe | [Read More](https://medium.com/p/0e1b828a6faa) |
-| Mon, 09 Jun 2025 16:22:25 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/4cfe36b9f0f7) |
-| Mon, 09 Jun 2025 16:14:19 GMT | Mastering PHP Security: Protecting Your Applications Like a Pro | Ann R. | [Read More](https://medium.com/p/40f4bf38c79c) |
-| Mon, 09 Jun 2025 16:09:45 GMT | Lesson Learned? | Ahmed Mounir | [Read More](https://medium.com/p/d3defba09ab6) |
-| Mon, 09 Jun 2025 16:08:16 GMT | How to Implement Blockchain Technology for Cybersecurity in IT | Jhon Smith | [Read More](https://medium.com/p/91448466d7e0) |
-| Mon, 09 Jun 2025 16:05:39 GMT | Teens and Cyberbullying | Riaz Laghari | [Read More](https://medium.com/p/ece1d2d55f37) |
-| Mon, 09 Jun 2025 15:58:48 GMT | How I Passed the CompTIA CySA+ on My First Try (with No Prior CompTIA Certs or SOC Experience) | Brittney Ginther | [Read More](https://medium.com/p/13bc82a84241) |
-| Mon, 09 Jun 2025 15:57:19 GMT | Skandova Review - Is It Possible To Recover Your Money From Skandova? | Conor Mackay | [Read More](https://medium.com/p/bacaa18fbb74) |
