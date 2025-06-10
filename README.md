@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 05:11:07 GMT | How Managed IT Services Enhance Cybersecurity for Modern Enterprises | Wepsol | [Read More](https://medium.com/p/5c07d2d26e8c) |
+| Tue, 10 Jun 2025 05:07:45 GMT | Flag Vault - TryHackMe - Walkthough | Sornphut Kwanthongtham | [Read More](https://medium.com/p/6138ed556cf2) |
+| Tue, 10 Jun 2025 05:02:17 GMT | Linux Shell vs Docker Runners for HIPAA-Compliant CI/CD: What’s the Best Choice for Production? | Madhan Karthik Ramasamy | [Read More](https://medium.com/p/db441371930d) |
+| Tue, 10 Jun 2025 05:00:19 GMT | Secure Your Property: Video Analytics for Fire and Smoke Detection in Oman | Tekhabeeb | [Read More](https://medium.com/p/99a5eef6f752) |
+| Tue, 10 Jun 2025 05:00:16 GMT | Grafana CVE-2025–4123 - Open Redirect - XSS - SSRF | RivuDon | [Read More](https://medium.com/p/8fa24bb26d5d) |
+| Tue, 10 Jun 2025 05:00:12 GMT | How a Star Wars Fan Site Became the CIA’s Most Costly Digital Blunder | Roman Huliak | [Read More](https://medium.com/p/5ee92a5459de) |
+| Tue, 10 Jun 2025 05:00:08 GMT | $250 Bounty: How I Tricked the Nextcloud Android App Into Uploading Its Own Sensitive Files | Monika sharma | [Read More](https://medium.com/p/b481703e05cf) |
+| Tue, 10 Jun 2025 04:59:58 GMT | The Cybersecurity Crisis of 2025: How a Smart Lamp Nearly Crippled X Business | Noel | [Read More](https://medium.com/p/5f40198931f9) |
+| Tue, 10 Jun 2025 04:59:53 GMT | Hacked by a Picture Frame? The Shocking Cybersecurity Incident of 2025 | Noel | [Read More](https://medium.com/p/e4093c525582) |
+| Tue, 10 Jun 2025 04:59:47 GMT | 10 Juicy Prompts to Help You Think Like a SOC Analyst | Bl@ckC!pH3r | [Read More](https://medium.com/p/18ee46fc3560) |
+| Tue, 10 Jun 2025 04:58:43 GMT | Foreign Function & Memory API in Java — Unlocking Native Interoperability in a Safer Way | Radhika Parashar | [Read More](https://medium.com/p/7d999ae74547) |
+| Tue, 10 Jun 2025 04:55:06 GMT | How To Convert an Old PC/Laptop Into Home Lab. | Cybotechacks | [Read More](https://medium.com/p/d5e8a2d0298f) |
+| Tue, 10 Jun 2025 04:54:06 GMT | FONDASI TAK TERGANTIKAN : POLA PIKIR OFFENSIVE UNTUK ERA CYBER 2035+ | Dito Gianto | [Read More](https://medium.com/p/ab8b62dee72f) |
 | Tue, 10 Jun 2025 04:46:59 GMT | OSCP/OSCP+ Journey — This is Not Just About Technical (in Bahasa) | Justakazh | [Read More](https://medium.com/p/f6a688572ad5) |
+| Tue, 10 Jun 2025 04:40:43 GMT | Top Information Technology Colleges in Bangalore | Jahnavi Desai | [Read More](https://medium.com/p/4fd5d276d3ad) |
 | Tue, 10 Jun 2025 04:24:45 GMT | Fixing SSL Errors in Oracle Cloud: A Step-by-Step Guide | Naman Raghuwanshi | [Read More](https://medium.com/p/1c6e11023e4b) |
 | Tue, 10 Jun 2025 04:16:23 GMT | Think You Deleted That File? Think Again. | HealerLogs | [Read More](https://medium.com/p/db8904a0fa72) |
 | Tue, 10 Jun 2025 04:07:46 GMT | Timing Attacks: Why Your Code Might Be Leaking Secrets | Olha Stefanishyna | [Read More](https://medium.com/p/800782fee8cd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Jun 2025 17:39:01 GMT | Bitdefender Free Trial: Experience Premium Protection for 90 Days | Tech2Advise | [Read More](https://medium.com/p/33116cf3f267) |
 | Mon, 09 Jun 2025 17:36:37 GMT | Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter | hacker_might | [Read More](https://medium.com/p/b309956402f8) |
 | Mon, 09 Jun 2025 17:36:05 GMT | Disabled social media account recovery | Tobias Mathew | [Read More](https://medium.com/p/8f5b29ecbeda) |
-| Mon, 09 Jun 2025 17:24:18 GMT | Call Your People | Damilola Abiodun | [Read More](https://medium.com/p/8401bd61dca9) |
-| Mon, 09 Jun 2025 17:21:58 GMT | The True Cost of a Weak Login: What One Breach Can Do to a Growing Business | Dr. Shashi Karhail | [Read More](https://medium.com/p/a5044a9bd606) |
-| Mon, 09 Jun 2025 17:21:08 GMT | Drhackarr Project Introduction — How I Built My Own Red Team Framework | Samuel Rbsh | [Read More](https://medium.com/p/97b513b1c716) |
-| Mon, 09 Jun 2025 17:11:21 GMT | From Hunger to Hacker: How a Zomato Order Earned Me ₹25K” | praveen p | [Read More](https://medium.com/p/706b879c2bce) |
-| Mon, 09 Jun 2025 17:06:35 GMT | How Dare You Dictate My Security! Debunk to Debank! | Guy Valdez ♱ | [Read More](https://medium.com/p/a58101140c17) |
-| Mon, 09 Jun 2025 17:04:53 GMT | Lo que la IA nunca atacará: La red energética | Carlos Uraga | [Read More](https://medium.com/p/70802e04d238) |
-| Mon, 09 Jun 2025 17:03:04 GMT | Understanding RISC-V Privilege Modes: Isolation, Security, and Software Control | Wadix Technologies | [Read More](https://medium.com/p/29d8a93453d4) |
-| Mon, 09 Jun 2025 16:57:51 GMT | 5 Valuable Lessons I Learned Moving from Bug Bounty Hunter to Security Consultant | Mrunal chawda | [Read More](https://medium.com/p/1a202db85fd1) |
-| Mon, 09 Jun 2025 16:56:28 GMT | Day 58 : Bash Scripting Command-Line Arguments & getopts | Agarwaldaksh | [Read More](https://medium.com/p/fc2dedb3e49f) |
-| Mon, 09 Jun 2025 16:52:36 GMT | Dominik Stahlberg Wins Our Hack the Box Challenge | Rena Wilmar | [Read More](https://medium.com/p/d77f034e7a08) |
-| Mon, 09 Jun 2025 16:52:18 GMT | Data Leakage Protection: Safeguarding Sensitive Information | SafeAeon Inc. | [Read More](https://medium.com/p/0344c810b381) |
-| Mon, 09 Jun 2025 16:51:40 GMT | Operation Phantom Enigma: A Silent Cyberstorm Brews in Latin America | Siva Gunasekaran | [Read More](https://medium.com/p/64f1f474221a) |
-| Mon, 09 Jun 2025 16:50:13 GMT | Recently Interviewed on The Hedge Podcast … | Karl Buhl | [Read More](https://medium.com/p/e286f9e7fdec) |
-| Mon, 09 Jun 2025 16:44:55 GMT | TryHackMe - Billing | haxer | [Read More](https://medium.com/p/7d2d22374ec8) |
