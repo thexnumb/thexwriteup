@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 14:38:28 GMT | Cross-Site Scripting (XSS) Evolution: New Payload Techniques | Rizqi Mulki | [Read More](https://medium.com/p/a305bc00c51d) |
+| Tue, 10 Jun 2025 14:32:26 GMT | Mobile App Security: Flutter vs React Native Vulnerability Comparison | Rizqi Mulki | [Read More](https://medium.com/p/14c67cfd7d73) |
+| Tue, 10 Jun 2025 14:26:17 GMT | Production checklist for any nodejs developer | Dmytro Khirnyi | [Read More](https://medium.com/p/952862af7988) |
+| Tue, 10 Jun 2025 14:24:26 GMT | Leveraging Windows Event Logs for Effective Threat Hunting | BlackMamba | [Read More](https://medium.com/p/ca6be52e93e1) |
+| Tue, 10 Jun 2025 14:19:14 GMT | Securing your secrets using Terraform ephemeral resources | Jack Roper | [Read More](https://medium.com/p/dff453f25de0) |
 | Tue, 10 Jun 2025 14:14:55 GMT | Bug Bounty for Beginners: The Real Talk Guide (No BS Edition) | Telynor | [Read More](https://medium.com/p/b47f8e92efb5) |
 | Tue, 10 Jun 2025 14:12:59 GMT | Tips Aman Berselancar Internet VPN dan Keamanan Wi-Fi Publik | Mukti Badriyan | [Read More](https://medium.com/p/f9828f19da62) |
 | Tue, 10 Jun 2025 14:09:53 GMT | THM — Boogeyman 1 Writeup | Shamar Isaac | [Read More](https://medium.com/p/9b67b942754e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 08:01:38 GMT | Ghost in the Network | Tide Foundation | [Read More](https://medium.com/p/51b73b17fe50) |
 | Tue, 10 Jun 2025 07:58:42 GMT | Inside the EthCC Token Engineering Track: The Annual Gathering for Cryptoeconomic Innovation | Angela Kreitenweis | [Read More](https://medium.com/p/4b1c0c84e9a1) |
 | Tue, 10 Jun 2025 07:55:55 GMT | CVSS: Tingkat Keparahan Sebuah Kerentanan | Muhammad Akhtar Khawarizmi | [Read More](https://medium.com/p/97507a425fd2) |
-| Tue, 10 Jun 2025 07:53:35 GMT | Found Critical Vulnerability: Unauthorized Access to Customer Support Emails and Data via… | Ravindra | [Read More](https://medium.com/p/a3a1c0a42e23) |
-| Tue, 10 Jun 2025 07:52:16 GMT | How to Prevent Implementation-Level Vulnerabilities: SQL Injection, XSS, and Buffer Overflow… | Maurice Lichtenberg | [Read More](https://medium.com/p/321682613f31) |
-| Tue, 10 Jun 2025 07:51:19 GMT | ประจำวันอังคารที่ 10 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/35aa7c4d100a) |
-| Tue, 10 Jun 2025 07:42:50 GMT | Microsoft OneDrive Flaw Could Expose Entire Cloud Storage | SafetyDetectives Research Team | [Read More](https://medium.com/p/ef59f30af255) |
-| Tue, 10 Jun 2025 07:39:48 GMT | Cache-Busting Bonanza: How I Bypassed Rate Limits Using HTTP Weirdness | Iski | [Read More](https://medium.com/p/6d0d137cb7d7) |
