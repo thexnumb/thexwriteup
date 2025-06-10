@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 20:11:55 GMT | Exploiting the DC-01 Machine: | Abdullah Khalid | [Read More](https://medium.com/p/a467e0329919) |
+| Tue, 10 Jun 2025 20:00:13 GMT | What is Outside of Time and Space? | Upāsaka Asoka | [Read More](https://medium.com/p/d322abcdb3d4) |
+| Tue, 10 Jun 2025 19:56:10 GMT | I Broke Into Cybersecurity Without a CS Degree — Here’s the Unfiltered Truth | Nigam | [Read More](https://medium.com/p/d320b5d8a474) |
+| Tue, 10 Jun 2025 19:47:23 GMT | CTF Writeup — TJCTF 2025 — hidden-message | embossdotar | [Read More](https://medium.com/p/124ce00a4001) |
+| Tue, 10 Jun 2025 19:46:00 GMT | How I’m Turning My IT Knowledge Into Online Income (And How You Can Too) | Denis Afful | [Read More](https://medium.com/p/4dd6be2590f4) |
+| Tue, 10 Jun 2025 19:40:47 GMT | Deploying AI/ML Network Security Applications at Enterprise Scale | Five Insights | [Read More](https://medium.com/p/590fcc37a2c5) |
+| Tue, 10 Jun 2025 19:37:39 GMT | ESTÁ BIEN NO ESTAR BIEN | Laura Cervantes | [Read More](https://medium.com/p/29413248b88b) |
+| Tue, 10 Jun 2025 19:36:32 GMT | You’ve Been Hacked By Your Brain: The Psychology of Digital Manipulation | Kgupta | [Read More](https://medium.com/p/e62cfbb85675) |
 | Tue, 10 Jun 2025 19:33:29 GMT | Embracing Smart Living with SwitchBot | Elika | [Read More](https://medium.com/p/b234229ed395) |
+| Tue, 10 Jun 2025 19:33:08 GMT | Security Review to Secure Your Digital Assets with XEye Security | Cybersectoworld | [Read More](https://medium.com/p/a9372c9fa70c) |
 | Tue, 10 Jun 2025 19:32:02 GMT | Boost Your UX Research with Gen AI: Use Cases to Consider for Today’s Researcher | Mark Thompson-Kolar | [Read More](https://medium.com/p/1e591fd27c22) |
 | Tue, 10 Jun 2025 19:20:19 GMT | Google Cyber Security or CompTIA Security+? Here’s What Recruiters Are REALLY Looking For | Motasem Hamdan | [Read More](https://medium.com/p/16acddd7664a) |
 | Tue, 10 Jun 2025 19:12:44 GMT | The Ultimate Penetration Testing Methodology | Kalsariya Dharmesh | [Read More](https://medium.com/p/da4f8ebc6da3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 14:03:19 GMT | Cyber Security Toolkit | Munish Mehta | [Read More](https://medium.com/p/f528ef846e25) |
 | Tue, 10 Jun 2025 14:02:21 GMT | Hacking Smarter with LLaMA: Bringing Open-Source AI to Cybersecurity Workflows | Michael Yeibo | [Read More](https://medium.com/p/d0de2d659bb6) |
 | Tue, 10 Jun 2025 14:00:25 GMT | Cyber Briefing: 2025.06.10 | CyberMaterial | [Read More](https://medium.com/p/1b44e6ef340f) |
-| Tue, 10 Jun 2025 13:56:11 GMT | “We thought he was just quiet. Then we found access logs to our internal accounts.” | Mariiatata | [Read More](https://medium.com/p/c5d389757482) |
-| Tue, 10 Jun 2025 13:52:53 GMT | ️ Secure Your Infrastructure: WireGuard VPN + SSH Key Management Guide for Devs | Ege Bilge | [Read More](https://medium.com/p/f88cb8602c62) |
-| Tue, 10 Jun 2025 13:48:23 GMT | Make CTEM Work: How We Built a Pentest Reporting Platform to Keep Up With Real-World Risk | Luis Abreu from Cyver | [Read More](https://medium.com/p/794dce805dcf) |
-| Tue, 10 Jun 2025 13:47:36 GMT | Easy Reverse Engineering Challenge on Hack The Box | Firas Meddeb | [Read More](https://medium.com/p/c0a4bf57df85) |
-| Tue, 10 Jun 2025 13:47:08 GMT | OAuth 2.0 Explained! - How OAuth 2.0 Works with a Real-World Example | Ramesh Fadatare | [Read More](https://medium.com/p/c03adc0d9419) |
-| Tue, 10 Jun 2025 13:45:44 GMT | Ultimate credit card power couple | Daily Drop | [Read More](https://medium.com/p/e9fb9057105d) |
-| Tue, 10 Jun 2025 13:33:09 GMT | Track the Hacks: Cracking the Wire – Introduction to Network Forensics | byuda | [Read More](https://medium.com/p/4aa5baae0c48) |
-| Tue, 10 Jun 2025 13:26:34 GMT | Why Vulnerability Assessment and Penetration Testing Is Essential for Cybersecurity | Ahad me | [Read More](https://medium.com/p/46f87cd4f3de) |
-| Tue, 10 Jun 2025 13:22:35 GMT | Your Toaster Is Smarter Than You | John Cooksey | [Read More](https://medium.com/p/610d30490cae) |
