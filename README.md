@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Jun 2025 18:46:47 GMT | Aftershocks: What Cyberattacks Leave Behind | MrsNo1Special | [Read More](https://medium.com/p/11e9ac9c9bdb) |
+| Tue, 10 Jun 2025 18:43:53 GMT | Digital Doppelgängers: The Deepfake Security Crisis | MrsNo1Special | [Read More](https://medium.com/p/eed95a682c7a) |
+| Tue, 10 Jun 2025 18:41:04 GMT | Hacking EPMD | RE4PER | [Read More](https://medium.com/p/f869f1685321) |
+| Tue, 10 Jun 2025 18:37:11 GMT | HELP! | Praise Ejiro | [Read More](https://medium.com/p/10aaa06d3b01) |
+| Tue, 10 Jun 2025 18:25:50 GMT | The Windows Security Journey — Group Managed Service Account (gMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/467bd387f5a6) |
 | Tue, 10 Jun 2025 18:24:18 GMT | What I Learned About DNS Spoofing and ARP Poisoning | Prateek Savanur | [Read More](https://medium.com/p/4ee7dd60c935) |
+| Tue, 10 Jun 2025 18:23:45 GMT | Excellent Crypto Recovery Service | Arlene Gibbs | [Read More](https://medium.com/p/cc78bdfe29fc) |
 | Tue, 10 Jun 2025 18:18:54 GMT | Book Launch Announcement | Bobby | [Read More](https://medium.com/p/50c48d11c9da) |
+| Tue, 10 Jun 2025 18:18:54 GMT | Multi-Cloud Strategy: What They Don’t Tell You in the Sales Pitch | Heinancabouly | [Read More](https://medium.com/p/c1f8d4957ed5) |
 | Tue, 10 Jun 2025 18:17:47 GMT | Conscious AI: What if they hate being alive? | Michelle Harwood | [Read More](https://medium.com/p/cfce1620bbaa) |
 | Tue, 10 Jun 2025 18:16:20 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | Shivprasad Lavhat | [Read More](https://medium.com/p/79bc008d9a3a) |
 | Tue, 10 Jun 2025 18:10:30 GMT | How Browsers Share Your Browsing Path — And How to Take Back Control | Natarajan C K | [Read More](https://medium.com/p/02af932172fa) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 12:37:33 GMT | Digital Detectives | Munish Mehta | [Read More](https://medium.com/p/1dc353987caf) |
 | Tue, 10 Jun 2025 12:30:21 GMT | The Secret World of ICS/SCADA and Why It’s a Hacker’s Dream | Hasiholanabdullah | [Read More](https://medium.com/p/972ba8ed778c) |
 | Tue, 10 Jun 2025 12:29:55 GMT | Understanding ECC and Web3 Cryptography: The Foundation of Security in the Blockchain World | IndoHajk | [Read More](https://medium.com/p/e01775faca67) |
-| Tue, 10 Jun 2025 12:26:55 GMT | Build a CTF lab on Docker with Privilege escalation and SSH Bruteforce vuln | Zamh Putra | [Read More](https://medium.com/p/032726faf290) |
-| Tue, 10 Jun 2025 12:18:01 GMT | Trump Reverses Course on Federal Cybersecurity Policy | Saravanan R | [Read More](https://medium.com/p/24cc85eae0ee) |
-| Tue, 10 Jun 2025 12:14:50 GMT | Security Services Geelong | Sureshvirtual | [Read More](https://medium.com/p/7e5da4fd463f) |
-| Tue, 10 Jun 2025 12:10:46 GMT | Protecting Patient Data: Healthcare Cybersecurity Solutions for a Safer Future | ER Tech Pros | [Read More](https://medium.com/p/80da2becaa7d) |
-| Tue, 10 Jun 2025 12:08:40 GMT | Trump’s Cybersecurity Executive Order Marks Significant Policy Shift | Akash P | [Read More](https://medium.com/p/4ec5de169bda) |
-| Tue, 10 Jun 2025 12:06:49 GMT | Security Services Melbourne | Sureshvirtual | [Read More](https://medium.com/p/53e36af1b200) |
-| Tue, 10 Jun 2025 12:02:14 GMT | Reality of Realty: Unlocking the Definition of “Luxury”: What Truly Makes a Home Luxurious? | Valerie Davenport | [Read More](https://medium.com/p/c889d0ecd7e0) |
