@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 15:27:46 GMT | Vibe Hacking Explained: Protecting Your Systems from One-Click AI Attacks | Rishabh Shrivastava | [Read More](https://medium.com/p/4cb08a6ad6d5) |
+| Wed, 11 Jun 2025 15:18:00 GMT | Emotional vulnerability leads to strong, meaningful, and deep connections. | Ifrah | [Read More](https://medium.com/p/84a9b5999629) |
 | Wed, 11 Jun 2025 15:17:45 GMT | €300 just by bug race condition | Zeta | [Read More](https://medium.com/p/9ad2d912921f) |
 | Wed, 11 Jun 2025 15:14:04 GMT | My CyberUK 2025 Experience | Dan Hartley | [Read More](https://medium.com/p/c3d258b6105b) |
 | Wed, 11 Jun 2025 15:11:58 GMT | The Hidden War: How AI-to-AI Attack Vectors Are Reshaping Cybersecurity | Eric Zietlow | [Read More](https://medium.com/p/fe37afcd20d5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 09:56:20 GMT | How to Protect Your Data Online: A Complete Guide | Shabnam Turk | [Read More](https://medium.com/p/b681b628ed6e) |
 | Wed, 11 Jun 2025 09:41:30 GMT | ⚠️ Actively Exploited Windows WebDAV 0-Day Vulnerability Exposes Systems to NTLM Credential Theft | Infoziant | [Read More](https://medium.com/p/46096ba3f9aa) |
 | Wed, 11 Jun 2025 09:38:49 GMT | How to Build Your First Hacking Home Lab — Without Burning Your Wallet (or Your House) | cybrNK | [Read More](https://medium.com/p/3007879ce58a) |
-| Wed, 11 Jun 2025 09:35:26 GMT | BRIDGING THE GAP: IT and OT COMPLIANCE COLLABORATION | Cisogenemarketing | [Read More](https://medium.com/p/a80bf806537e) |
-| Wed, 11 Jun 2025 09:31:35 GMT | How to install GO LANG and Run from anywhere in the system (Automated). | Zuri | [Read More](https://medium.com/p/b456ac3f57db) |
