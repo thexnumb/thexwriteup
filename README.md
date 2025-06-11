@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 15:17:45 GMT | €300 just by bug race condition | Zeta | [Read More](https://medium.com/p/9ad2d912921f) |
+| Wed, 11 Jun 2025 15:14:04 GMT | My CyberUK 2025 Experience | Dan Hartley | [Read More](https://medium.com/p/c3d258b6105b) |
+| Wed, 11 Jun 2025 15:11:58 GMT | The Hidden War: How AI-to-AI Attack Vectors Are Reshaping Cybersecurity | Eric Zietlow | [Read More](https://medium.com/p/fe37afcd20d5) |
+| Wed, 11 Jun 2025 15:11:58 GMT | Day 19: Even More and More CSRF | Nile Okomo | [Read More](https://medium.com/p/39656ed27a46) |
+| Wed, 11 Jun 2025 15:10:11 GMT | Essential Cybersecurity Solutions to Protect Your Business in 2025 | Spearhead Technology | [Read More](https://medium.com/p/08fe065c8107) |
+| Wed, 11 Jun 2025 15:05:48 GMT | Sensitive File Paths to Target with LFI | Zoningxtr | [Read More](https://medium.com/p/f66588368676) |
+| Wed, 11 Jun 2025 15:05:12 GMT | ️ Course Feedback: Google – Foundations of Cybersecurity | Aasif Tyagi | [Read More](https://medium.com/p/73290c4422d6) |
+| Wed, 11 Jun 2025 14:59:48 GMT | How to Record Request Logs on AWS API Gateway | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/12e3335839bd) |
+| Wed, 11 Jun 2025 14:58:25 GMT | Why Rule Management Is Breaking Your Firewall — and What to Do About It! | Rampart AI™ | [Read More](https://medium.com/p/aa6c3bd9c3fe) |
+| Wed, 11 Jun 2025 14:52:58 GMT | Hidden in Headers: The Power of Misused Referer, Origin, and Host Headers | Monika sharma | [Read More](https://medium.com/p/b8b1a598b1c5) |
+| Wed, 11 Jun 2025 14:52:53 GMT | THM — Bounty Hacker Writeup | Kostas Ereksonas | [Read More](https://medium.com/p/e05ce7ae2259) |
+| Wed, 11 Jun 2025 14:52:42 GMT | Top 3 Next-Generation Firewall (NGFW) Challenges and How to Solve Them with AI | Rampart AI™ | [Read More](https://medium.com/p/a21c390154d0) |
+| Wed, 11 Jun 2025 14:52:05 GMT | SIEM? Wazuh? EDR? #Day_3 | Richardgreynardi | [Read More](https://medium.com/p/2e2a63edfd16) |
+| Wed, 11 Jun 2025 14:50:25 GMT | Local File Disclosure (LFD) Attacks Explained: The Silent Data Leak You Never Saw Coming… | Zoningxtr | [Read More](https://medium.com/p/f473f73a05fb) |
+| Wed, 11 Jun 2025 14:48:42 GMT | Can 5G SUPI Concealment really ensure Forward Secrecy? | Shubham Kumar | [Read More](https://medium.com/p/20983ee5ab96) |
 | Wed, 11 Jun 2025 14:33:05 GMT | Crypto Mining Security: Simple Questions, Straight-Up Answers | Yvoren Stowe | [Read More](https://medium.com/p/ba694eefc6c2) |
 | Wed, 11 Jun 2025 14:31:24 GMT | More privacy on VPN? Think again. | George Chen | [Read More](https://medium.com/p/e762684053c1) |
 | Wed, 11 Jun 2025 14:26:55 GMT | DEEP PHISHING: How Cybercriminals Fool Even Smart Professionals | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/72ce22d5d434) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 09:38:49 GMT | How to Build Your First Hacking Home Lab — Without Burning Your Wallet (or Your House) | cybrNK | [Read More](https://medium.com/p/3007879ce58a) |
 | Wed, 11 Jun 2025 09:35:26 GMT | BRIDGING THE GAP: IT and OT COMPLIANCE COLLABORATION | Cisogenemarketing | [Read More](https://medium.com/p/a80bf806537e) |
 | Wed, 11 Jun 2025 09:31:35 GMT | How to install GO LANG and Run from anywhere in the system (Automated). | Zuri | [Read More](https://medium.com/p/b456ac3f57db) |
-| Wed, 11 Jun 2025 09:29:43 GMT | Legit and Reputable Companies Offering Sponsorship and Accommodation for IT Professionals | Vanessa Delich | [Read More](https://medium.com/p/4dab14ee42ad) |
-| Wed, 11 Jun 2025 09:24:45 GMT | The Window Room | Emmanuella Abason | [Read More](https://medium.com/p/870eac26969d) |
-| Wed, 11 Jun 2025 09:22:38 GMT | ️ AutoRecon — Automated Recon for Red Team Ops & CTF Warfare | 0b1d1 | [Read More](https://medium.com/p/dd1c441ce483) |
-| Wed, 11 Jun 2025 09:20:36 GMT | UAHighCTF — TryHackMe Walkthrough | ABDULLAH N KAMARUDHEEN | [Read More](https://medium.com/p/41f8852dea29) |
-| Wed, 11 Jun 2025 09:19:18 GMT | Cybersecurity Mistakes That Can Get You Hacked in 2025 | Taiyab Lokhandwala | [Read More](https://medium.com/p/e960f9acca62) |
-| Wed, 11 Jun 2025 09:11:10 GMT | Master the Game: CTFs as Your Hacking Playground ‍☠️ | 0b1d1 | [Read More](https://medium.com/p/c934cb5b193a) |
-| Wed, 11 Jun 2025 09:11:07 GMT | Why We Chose TopDevelopers.co to Showcase Aarya Infosmart’s Expertise | Aarya Infosmart | [Read More](https://medium.com/p/e3e1f7ec7782) |
-| Wed, 11 Jun 2025 09:11:06 GMT | Linkable Identifiers Missing | Sachin Ajjaplar | [Read More](https://medium.com/p/19f83f2bd6bf) |
-| Wed, 11 Jun 2025 09:08:03 GMT | Yeah, I know — you thought I gave up on the 100 Days Cybersecurity Challenge, but no, I’m not a… | Peacewillie | [Read More](https://medium.com/p/a874f3eded27) |
-| Wed, 11 Jun 2025 09:07:22 GMT | STALKERWARE : Let Someone Secretly Spy on Your Phone — Velpula Bharath | KLEAP Institute of Information Security | [Read More](https://medium.com/p/55019298800b) |
-| Wed, 11 Jun 2025 09:05:25 GMT | Apa itu Blue Team? Apa itu SOC? | Richardgreynardi | [Read More](https://medium.com/p/b757ac5a482d) |
-| Wed, 11 Jun 2025 09:03:14 GMT | ประจำวันพุธที่ 11 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/6383eb1a777e) |
-| Wed, 11 Jun 2025 09:01:41 GMT | Who Owns What in Your GRC Plan? | Harry West | [Read More](https://medium.com/p/d303ce500b93) |
-| Wed, 11 Jun 2025 09:00:13 GMT | Navigating the Digital Frontier: Cybersecurity and Project Management with Cheyanne Mallas | Mallascheyanne | [Read More](https://medium.com/p/162b3b8a6b52) |
-| Wed, 11 Jun 2025 08:58:48 GMT | The Human Factor: The Greatest Threat to Interney Security | Cyber Timi | [Read More](https://medium.com/p/c84ec9751335) |
