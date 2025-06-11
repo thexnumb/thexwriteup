@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 20:13:59 GMT | 20+ Lesser-Known Linux Commands Every Hacker & Sysadmin Should Master | Very Lazy Tech | [Read More](https://medium.com/p/9f247b206aa5) |
+| Wed, 11 Jun 2025 20:08:57 GMT | Printed QR Code Hacking in 2025: The Invisible Threat You Must Know! | Aditya sunny | [Read More](https://medium.com/p/721acc07a352) |
+| Wed, 11 Jun 2025 20:08:08 GMT | From Zero to Free Credits: Abusing a Referral System Like a Lazy Genius | MostReal | [Read More](https://medium.com/p/fc2d6b674754) |
+| Wed, 11 Jun 2025 19:56:38 GMT | ️ Falcon (CrowdStrike)-Based SOC Integrations and Use Cases | Esra Kayhan | [Read More](https://medium.com/p/b79b2c7558e0) |
+| Wed, 11 Jun 2025 19:56:36 GMT | The Hidden Costs of Legacy Construction Software: When to Upgrade for Better ROI | AlterSquare | [Read More](https://medium.com/p/8474e240841e) |
+| Wed, 11 Jun 2025 19:51:27 GMT | Getting Started with Velociraptor: Lightweight Log Collection | Hariharan | [Read More](https://medium.com/p/91e8399206ef) |
+| Wed, 11 Jun 2025 19:50:28 GMT | Project — pfSense Firewall Setup | Okeke Ugochukwu Chidiebele | [Read More](https://medium.com/p/49ff6a6ccaa3) |
+| Wed, 11 Jun 2025 19:42:55 GMT | Update your chromium based browser NOW! | Iftiaj | [Read More](https://medium.com/p/837f836e8e7b) |
+| Wed, 11 Jun 2025 19:40:36 GMT | PostgreSQL in Docker: The Mysterious ‘No Space Left on Device’ Error (and How to Fix It on macOS) | Komal Bagwe | [Read More](https://medium.com/p/ee7371d4eae8) |
+| Wed, 11 Jun 2025 19:38:54 GMT | HOW I WOULD START BUG BOUNTY IN MID 2025!? | Tenebris Venator | [Read More](https://medium.com/p/3cdbd3f726fb) |
+| Wed, 11 Jun 2025 19:30:05 GMT | Is Your AI Implementation Causing Data Breaches? | Chris Gambill - Gambill Data | [Read More](https://medium.com/p/44d13175757b) |
 | Wed, 11 Jun 2025 19:28:16 GMT | Busqueda — HTB | 0xChryy | [Read More](https://medium.com/p/ccc87a7bc0e8) |
 | Wed, 11 Jun 2025 19:28:14 GMT | Quantum at a Turning Point: Nvidia CEO Declares Industry at ‘Inflection Point’ | QuantumGenie | [Read More](https://medium.com/p/c1a419e8a43d) |
 | Wed, 11 Jun 2025 19:25:57 GMT | The Complete Business Analysis Fundamentals Course + CERT Eğitim Serüvenim Part-2 | Merve Dürül | [Read More](https://medium.com/p/842c4ecda4a3) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 14:18:33 GMT | Inside the Cloud Lockdown: Dissecting a Ransomware Attack on AWS | KingOfPiratez | [Read More](https://medium.com/p/f1371a15eed9) |
 | Wed, 11 Jun 2025 14:12:07 GMT | KC7 Inside Encryptodera: Post-Investigation | Trey Hopkins | [Read More](https://medium.com/p/2ad38c87ea76) |
 | Wed, 11 Jun 2025 14:10:12 GMT | False Alarms: Why Most Security Notifications Backfire | MrsNo1Special | [Read More](https://medium.com/p/5842d6068981) |
-| Wed, 11 Jun 2025 14:10:04 GMT | The Invisible Fortress: How ECC and Web3 Cryptography Guard Our Digital Treasures (and Their… | Fakihabdulwahab | [Read More](https://medium.com/p/71868473abfa) |
-| Wed, 11 Jun 2025 14:09:38 GMT | A list of Paste sites for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/dc8cb7465067) |
-| Wed, 11 Jun 2025 14:08:32 GMT | SQL Security Best Practices: Protecting Your Data the Right Way | SQL Mentor | [Read More](https://medium.com/p/df459823ff4c) |
-| Wed, 11 Jun 2025 14:08:28 GMT | Are Organizations Prepared for a Post-Quantum World? | Zachary Neal | [Read More](https://medium.com/p/139a30984ccc) |
-| Wed, 11 Jun 2025 14:07:46 GMT | ️ WAF Bypass Teknikleri: Filtreleri Aşmak İçin Karanlık Sanat | Onur Civan | [Read More](https://medium.com/p/1158fef298c2) |
-| Wed, 11 Jun 2025 14:07:38 GMT | Goodbye VPNs: Securing Developer Workspaces with Enterprise Browsers | Mammoth Cyber | [Read More](https://medium.com/p/65ca1e5a1280) |
-| Wed, 11 Jun 2025 14:05:33 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/3dfb5ae98c9c) |
-| Wed, 11 Jun 2025 14:05:08 GMT | The rise of e-commerce has revolutionized global shopping, but it has also increased the risk of… | Ramesh M | [Read More](https://medium.com/p/5f1de1cb6572) |
-| Wed, 11 Jun 2025 14:04:57 GMT | Phishing Internal Users via Microsoft 365 SMTP Relay | Mark Roy | [Read More](https://medium.com/p/d2925d7236ef) |
-| Wed, 11 Jun 2025 14:02:47 GMT | How Security Can Shape the Future of FinTech | abdeldayemnour | [Read More](https://medium.com/p/2aa7e6ddad10) |
-| Wed, 11 Jun 2025 14:02:43 GMT | Metasploitable 2 Exploitation (Part 1) | Maniraj Chahal | [Read More](https://medium.com/p/a05eeeccf683) |
