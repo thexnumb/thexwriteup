@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 10:08:13 GMT | OAuth2verdrive: How Broken Token Exchange Let Me Log in as Any User | Iski | [Read More](https://medium.com/p/3f211de93bf1) |
+| Wed, 11 Jun 2025 10:05:22 GMT | Hybrid vs. Multi-Cloud Transformation: Choosing the Right Strategy for Your Business | IPSpecialist | [Read More](https://medium.com/p/5bc5f6fdf0e9) |
+| Wed, 11 Jun 2025 09:56:20 GMT | How to Protect Your Data Online: A Complete Guide | Shabnam Turk | [Read More](https://medium.com/p/b681b628ed6e) |
 | Wed, 11 Jun 2025 09:41:30 GMT | ⚠️ Actively Exploited Windows WebDAV 0-Day Vulnerability Exposes Systems to NTLM Credential Theft | Infoziant | [Read More](https://medium.com/p/46096ba3f9aa) |
 | Wed, 11 Jun 2025 09:38:49 GMT | How to Build Your First Hacking Home Lab — Without Burning Your Wallet (or Your House) | cybrNK | [Read More](https://medium.com/p/3007879ce58a) |
 | Wed, 11 Jun 2025 09:35:26 GMT | BRIDGING THE GAP: IT and OT COMPLIANCE COLLABORATION | Cisogenemarketing | [Read More](https://medium.com/p/a80bf806537e) |
@@ -110,6 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 03:33:47 GMT | OverTheWire Natas Level 12— Level 24 | k1dd05z | [Read More](https://medium.com/p/2536b19f0958) |
 | Wed, 11 Jun 2025 03:32:34 GMT | Navigating the Digital Fault Line: Inside the Laboratory Services Cooperative (LSC) Data Breach | Deven Chhajed | [Read More](https://medium.com/p/56a3c1aa0208) |
 | Wed, 11 Jun 2025 03:21:51 GMT | What if Every Call You Make Is Already Being Recorded? | Reid Madduxx | [Read More](https://medium.com/p/dc4b37e97b0c) |
-| Wed, 11 Jun 2025 03:14:42 GMT | Forest is an easy-level Windows machine on Hack The Box, designed to introduce players to… | Ro0fC4t | [Read More](https://medium.com/p/f04f1096f591) |
-| Wed, 11 Jun 2025 02:31:36 GMT | The (IoT) :- Today’s Revolution & Tomorrow’s Tech Frontier | LEANSIMCORP | [Read More](https://medium.com/p/005d85331c44) |
-| Wed, 11 Jun 2025 02:28:59 GMT | Evasion in Pieces: Reconstructing Tools in Memory to Slip Past EDR | awpsec | [Read More](https://medium.com/p/db58e6d7295e) |
