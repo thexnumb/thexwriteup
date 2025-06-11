@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 21:12:02 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss | Aditya Bhatt | [Read More](https://medium.com/p/7a8baf3cf085) |
+| Wed, 11 Jun 2025 21:08:54 GMT | Snag Exclusive BOUNTY Through ChainBounty's Launch Bonus | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/4edb0a985aea) |
+| Wed, 11 Jun 2025 21:01:05 GMT | Digital Battlegrounds | Pentestjunkie07 | [Read More](https://medium.com/p/e44023908833) |
+| Wed, 11 Jun 2025 20:58:36 GMT | Mehr Privatsphäre beim Surfen: Europäische DNS-Server im Überblick | Arpad Vasarhelyi | [Read More](https://medium.com/p/e358aecda0c8) |
+| Wed, 11 Jun 2025 20:56:36 GMT | How to Fortify Cloudflare Against Brute-Force and Credential Stuffing Attacks​ | Bits Kingdom | [Read More](https://medium.com/p/b1181258e984) |
+| Wed, 11 Jun 2025 20:48:38 GMT | The Deadly Mistake Hiding in Your Git Repo Right Now | Daggie Blanqx | [Read More](https://medium.com/p/d7a1d7c6174d) |
+| Wed, 11 Jun 2025 20:42:47 GMT | Post-Pandemic Permission Slips and the Lost Art of Civic Reorientation | Peter Hillier | [Read More](https://medium.com/p/ac84bd552821) |
 | Wed, 11 Jun 2025 20:33:50 GMT | How to get into bug bounties — A list of resources V2.0 | Thexssrat | [Read More](https://medium.com/p/f01eb6bef0e4) |
 | Wed, 11 Jun 2025 20:28:48 GMT | Zero-Day Exploits: The Hidden Cyber Threat That Strikes Without Warning | Akshay Chauhan | [Read More](https://medium.com/p/730d278af0bc) |
 | Wed, 11 Jun 2025 20:24:21 GMT | Understanding Cyber Security Issues in Critical Infrastructure and the Energy Sector | Caleb Hopkins | [Read More](https://medium.com/p/da45e3dc7fb7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 14:52:53 GMT | THM — Bounty Hacker Writeup | Kostas Ereksonas | [Read More](https://medium.com/p/e05ce7ae2259) |
 | Wed, 11 Jun 2025 14:52:42 GMT | Top 3 Next-Generation Firewall (NGFW) Challenges and How to Solve Them with AI | Rampart AI™ | [Read More](https://medium.com/p/a21c390154d0) |
 | Wed, 11 Jun 2025 14:52:05 GMT | SIEM? Wazuh? EDR? #Day_3 | Richardgreynardi | [Read More](https://medium.com/p/2e2a63edfd16) |
-| Wed, 11 Jun 2025 14:50:25 GMT | Local File Disclosure (LFD) Attacks Explained: The Silent Data Leak You Never Saw Coming… | Zoningxtr | [Read More](https://medium.com/p/f473f73a05fb) |
-| Wed, 11 Jun 2025 14:48:42 GMT | Can 5G SUPI Concealment really ensure Forward Secrecy? | Shubham Kumar | [Read More](https://medium.com/p/20983ee5ab96) |
-| Wed, 11 Jun 2025 14:33:05 GMT | Crypto Mining Security: Simple Questions, Straight-Up Answers | Yvoren Stowe | [Read More](https://medium.com/p/ba694eefc6c2) |
-| Wed, 11 Jun 2025 14:31:24 GMT | More privacy on VPN? Think again. | George Chen | [Read More](https://medium.com/p/e762684053c1) |
-| Wed, 11 Jun 2025 14:26:55 GMT | DEEP PHISHING: How Cybercriminals Fool Even Smart Professionals | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/72ce22d5d434) |
-| Wed, 11 Jun 2025 14:23:28 GMT | Cyber Briefing: 2025.06.11 | CyberMaterial | [Read More](https://medium.com/p/27af893aa042) |
-| Wed, 11 Jun 2025 14:21:24 GMT | States with the most identity theft | Consumer Attorneys PLLC | [Read More](https://medium.com/p/449443c68ac4) |
