@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 06:17:05 GMT | Securing the Python Ecosystem with Chainguard Malware Resistant Libraries | Py-Core Python Programming | [Read More](https://medium.com/p/533bf492551b) |
+| Wed, 11 Jun 2025 06:11:18 GMT | Want to Deter Crime and Enhance Safety? | Emilyeliza | [Read More](https://medium.com/p/5448fca543f6) |
+| Wed, 11 Jun 2025 06:02:40 GMT | Architects, Don’t Skip Leg Day: Fitness Functions Matter | Oscar van der Leij | [Read More](https://medium.com/p/ef16ab9ed012) |
+| Wed, 11 Jun 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — Jun 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8f647eac8d75) |
+| Wed, 11 Jun 2025 05:57:26 GMT | Authentication part-5 : Username enumeration via response timing | Ahmad Sopyan | [Read More](https://medium.com/p/9b362f24393e) |
+| Wed, 11 Jun 2025 05:55:09 GMT | How AI and ML Integration Shapes the Future of IT Security | MIT School of Distance Education | [Read More](https://medium.com/p/50afe1414639) |
+| Wed, 11 Jun 2025 05:51:00 GMT | Mengupas ICS/SCADA: Sistem Industri yang Rentan Diserang Hacker | Muhammad Fikri Fahrezi | [Read More](https://medium.com/p/d8aca46b82d0) |
+| Wed, 11 Jun 2025 05:50:14 GMT | DevSecOps: Making Security a Feature, Not a Friction | Aayushi Sinha | [Read More](https://medium.com/p/e8c39c05c782) |
+| Wed, 11 Jun 2025 05:49:37 GMT | 332 Incredible Headlines With Over 10,000 Claps Each" | S Anuradha | [Read More](https://medium.com/p/2fa600baa3d0) |
+| Wed, 11 Jun 2025 05:39:32 GMT | How to buy a robot | Marcus Koehnlein | [Read More](https://medium.com/p/ebf038a1b9c2) |
 | Wed, 11 Jun 2025 05:35:25 GMT | Top 100+ Web Vulnerabilities, Categorised Into Various Types | Ssali Prosper Yasin | [Read More](https://medium.com/p/62130b6d5bb1) |
 | Wed, 11 Jun 2025 05:09:44 GMT | How a Simple Port Scan Led to a $500 Google Reward | Jebarson Immanuel | [Read More](https://medium.com/p/39d80e2e3fef) |
 | Wed, 11 Jun 2025 05:06:45 GMT | You Don’t Have to Be the Strong One All the Time. | LILLY | [Read More](https://medium.com/p/92847edd5e80) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 19:06:02 GMT | Visualizing Security and Correlating Events with Kibana Dashboards | Esra Kayhan | [Read More](https://medium.com/p/21bf94a9f9ef) |
 | Tue, 10 Jun 2025 19:05:29 GMT | The Invisible Threat: How LLM Plugins Could Become a New Frontier for Stealthy Cyber Attacks | Shannon Harrell Jr. | [Read More](https://medium.com/p/d4b2613ea09d) |
 | Tue, 10 Jun 2025 19:05:26 GMT | The ILOVEYOU Virus: When the First Social Engineering Attack Broke the Internet | Sneha Patil | [Read More](https://medium.com/p/5108782bf2d5) |
-| Tue, 10 Jun 2025 18:58:45 GMT | Gravity | Fatal Serendipity | [Read More](https://medium.com/p/f7dbc8836583) |
-| Tue, 10 Jun 2025 18:55:33 GMT | 7 CIS Security Best Practices I Apply on Every Linux Server I Set Up | Faruk Ahmed | [Read More](https://medium.com/p/8a8e723a4281) |
-| Tue, 10 Jun 2025 18:52:08 GMT | The problem with Pentest deliverables no one talks about | Kristi Shehu | [Read More](https://medium.com/p/a58ea1e7d616) |
-| Tue, 10 Jun 2025 18:46:47 GMT | Aftershocks: What Cyberattacks Leave Behind | MrsNo1Special | [Read More](https://medium.com/p/11e9ac9c9bdb) |
-| Tue, 10 Jun 2025 18:43:53 GMT | Digital Doppelgängers: The Deepfake Security Crisis | MrsNo1Special | [Read More](https://medium.com/p/eed95a682c7a) |
-| Tue, 10 Jun 2025 18:43:11 GMT | Tusk Infostealer Lab — Cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/372b2cb0eca5) |
-| Tue, 10 Jun 2025 18:42:58 GMT | AI Powered Recon: How Generative AI is Changing Pentesting Prep | Rishabh Shrivastava | [Read More](https://medium.com/p/104e3915ed4c) |
-| Tue, 10 Jun 2025 18:41:04 GMT | Hacking EPMD | RE4PER | [Read More](https://medium.com/p/f869f1685321) |
-| Tue, 10 Jun 2025 18:37:11 GMT | HELP! | Praise Ejiro | [Read More](https://medium.com/p/10aaa06d3b01) |
-| Tue, 10 Jun 2025 18:25:50 GMT | The Windows Security Journey — Group Managed Service Account (gMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/467bd387f5a6) |
