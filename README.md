@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 11:11:52 GMT | Web3 Cryptography: Penjelasan Lengkap | Ivo Arlian | [Read More](https://medium.com/p/e98a3ff6987c) |
+| Wed, 11 Jun 2025 11:09:13 GMT | Who needs Incident Remediation Service today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/413091ddb3d3) |
+| Wed, 11 Jun 2025 11:08:15 GMT | The WPA2 Reality Check: Common Attacks and Modern Defenses | Richard Mader | [Read More](https://medium.com/p/ce649930c4ba) |
+| Wed, 11 Jun 2025 11:07:45 GMT | When Your React Native File Uploads Turn Your App Into a Frozen Potato | Ankit | [Read More](https://medium.com/p/898b8e1054e4) |
+| Wed, 11 Jun 2025 11:00:57 GMT | Digital Certificates. What are they? Why are they important? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/987e570b7184) |
+| Wed, 11 Jun 2025 10:59:47 GMT | How Does a Pentester Know Where to Look for LFI? | Zoningxtr | [Read More](https://medium.com/p/d1a8d9fb1451) |
+| Wed, 11 Jun 2025 10:56:33 GMT | Authorization Bypass | VAISHALI KUMARI | [Read More](https://medium.com/p/9ff4f88118d7) |
+| Wed, 11 Jun 2025 10:52:16 GMT | Cloud Sentinel Side-Story: “System Logs & Shadow Shells” | Tyron Flagg | [Read More](https://medium.com/p/79a247c3c59b) |
+| Wed, 11 Jun 2025 10:49:57 GMT | I Tried Every Code Editor So You Don’t Have To (Spoiler: The Winner Surprised Me) | Saikat Paul | [Read More](https://medium.com/p/615d8b1a7c9d) |
+| Wed, 11 Jun 2025 10:49:41 GMT | Threats terhadap ECC | Ivo Arlian | [Read More](https://medium.com/p/380bb747157b) |
+| Wed, 11 Jun 2025 10:47:46 GMT | Top 10 Cybersecurity Best Practices Every Employee Should Follow | West Advanced Technologies Inc | [Read More](https://medium.com/p/7fba3f1800ec) |
 | Wed, 11 Jun 2025 10:39:55 GMT | Enhancing Safety: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/28845ff2f8c5) |
 | Wed, 11 Jun 2025 10:39:18 GMT | Essential Pentesting Tools for Effective Recon and Enumeration | Hades | [Read More](https://medium.com/p/4263a5821c33) |
 | Wed, 11 Jun 2025 10:37:41 GMT | Apa itu Elliptic Curve Cryptography (ECC) ? | Ivo Arlian | [Read More](https://medium.com/p/846974ad34e7) |
@@ -102,14 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 05:51:00 GMT | Mengupas ICS/SCADA: Sistem Industri yang Rentan Diserang Hacker | Muhammad Fikri Fahrezi | [Read More](https://medium.com/p/d8aca46b82d0) |
 | Wed, 11 Jun 2025 05:50:14 GMT | DevSecOps: Making Security a Feature, Not a Friction | Aayushi Sinha | [Read More](https://medium.com/p/e8c39c05c782) |
 | Wed, 11 Jun 2025 05:49:37 GMT | 332 Incredible Headlines With Over 10,000 Claps Each" | S Anuradha | [Read More](https://medium.com/p/2fa600baa3d0) |
-| Wed, 11 Jun 2025 05:39:32 GMT | How to buy a robot | Marcus Koehnlein | [Read More](https://medium.com/p/ebf038a1b9c2) |
-| Wed, 11 Jun 2025 05:35:25 GMT | Top 100+ Web Vulnerabilities, Categorised Into Various Types | Ssali Prosper Yasin | [Read More](https://medium.com/p/62130b6d5bb1) |
-| Wed, 11 Jun 2025 05:09:44 GMT | How a Simple Port Scan Led to a $500 Google Reward | Jebarson Immanuel | [Read More](https://medium.com/p/39d80e2e3fef) |
-| Wed, 11 Jun 2025 05:06:45 GMT | You Don’t Have to Be the Strong One All the Time. | LILLY | [Read More](https://medium.com/p/92847edd5e80) |
-| Wed, 11 Jun 2025 04:53:34 GMT | Hello, I’m Sharisha Davis – Building My Next Chapter | Sharisha Davis | [Read More](https://medium.com/p/e4ce732a8b26) |
-| Wed, 11 Jun 2025 04:52:13 GMT | Why Customized CRM Is Your Secret Weapon | Fantechlabs Ca | [Read More](https://medium.com/p/7c1f8663c1eb) |
-| Wed, 11 Jun 2025 04:46:20 GMT | FOFA Dorking - Part 5 | AbhirupKonwar | [Read More](https://medium.com/p/4f0516273a0d) |
-| Wed, 11 Jun 2025 04:36:01 GMT | The Clock’s Ticking: How SOC KPIs Reveal Security Gaps | The Hackers Meetup | [Read More](https://medium.com/p/23bc3cd14e4c) |
-| Wed, 11 Jun 2025 04:34:23 GMT | Mengenal Hash MD5, SHA1, SHA256, dan NTLM | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/23886c8fc6bb) |
-| Wed, 11 Jun 2025 04:26:15 GMT | PowerShell Logging — Recording the Output of Your Scripts | Anthony Miller | [Read More](https://medium.com/p/9f14e2bda74c) |
-| Wed, 11 Jun 2025 04:25:38 GMT | Exploring 10 Innovative Approaches in Cyber Security App Development | Webtrills | [Read More](https://medium.com/p/3b74f1d3cb6c) |
