@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 09:41:30 GMT | ⚠️ Actively Exploited Windows WebDAV 0-Day Vulnerability Exposes Systems to NTLM Credential Theft | Infoziant | [Read More](https://medium.com/p/46096ba3f9aa) |
+| Wed, 11 Jun 2025 09:38:49 GMT | How to Build Your First Hacking Home Lab — Without Burning Your Wallet (or Your House) | cybrNK | [Read More](https://medium.com/p/3007879ce58a) |
+| Wed, 11 Jun 2025 09:35:26 GMT | BRIDGING THE GAP: IT and OT COMPLIANCE COLLABORATION | Cisogenemarketing | [Read More](https://medium.com/p/a80bf806537e) |
+| Wed, 11 Jun 2025 09:31:35 GMT | How to install GO LANG and Run from anywhere in the system (Automated). | Zuri | [Read More](https://medium.com/p/b456ac3f57db) |
+| Wed, 11 Jun 2025 09:29:43 GMT | Legit and Reputable Companies Offering Sponsorship and Accommodation for IT Professionals | Vanessa Delich | [Read More](https://medium.com/p/4dab14ee42ad) |
+| Wed, 11 Jun 2025 09:24:45 GMT | The Window Room | Emmanuella Abason | [Read More](https://medium.com/p/870eac26969d) |
+| Wed, 11 Jun 2025 09:22:38 GMT | ️ AutoRecon — Automated Recon for Red Team Ops & CTF Warfare | 0b1d1 | [Read More](https://medium.com/p/dd1c441ce483) |
+| Wed, 11 Jun 2025 09:20:36 GMT | UAHighCTF — TryHackMe Walkthrough | ABDULLAH N KAMARUDHEEN | [Read More](https://medium.com/p/41f8852dea29) |
 | Wed, 11 Jun 2025 09:19:18 GMT | Cybersecurity Mistakes That Can Get You Hacked in 2025 | Taiyab Lokhandwala | [Read More](https://medium.com/p/e960f9acca62) |
 | Wed, 11 Jun 2025 09:11:10 GMT | Master the Game: CTFs as Your Hacking Playground ‍☠️ | 0b1d1 | [Read More](https://medium.com/p/c934cb5b193a) |
+| Wed, 11 Jun 2025 09:11:07 GMT | Why We Chose TopDevelopers.co to Showcase Aarya Infosmart’s Expertise | Aarya Infosmart | [Read More](https://medium.com/p/e3e1f7ec7782) |
 | Wed, 11 Jun 2025 09:11:06 GMT | Linkable Identifiers Missing | Sachin Ajjaplar | [Read More](https://medium.com/p/19f83f2bd6bf) |
 | Wed, 11 Jun 2025 09:08:03 GMT | Yeah, I know — you thought I gave up on the 100 Days Cybersecurity Challenge, but no, I’m not a… | Peacewillie | [Read More](https://medium.com/p/a874f3eded27) |
 | Wed, 11 Jun 2025 09:07:22 GMT | STALKERWARE : Let Someone Secretly Spy on Your Phone — Velpula Bharath | KLEAP Institute of Information Security | [Read More](https://medium.com/p/55019298800b) |
@@ -104,12 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 03:14:42 GMT | Forest is an easy-level Windows machine on Hack The Box, designed to introduce players to… | Ro0fC4t | [Read More](https://medium.com/p/f04f1096f591) |
 | Wed, 11 Jun 2025 02:31:36 GMT | The (IoT) :- Today’s Revolution & Tomorrow’s Tech Frontier | LEANSIMCORP | [Read More](https://medium.com/p/005d85331c44) |
 | Wed, 11 Jun 2025 02:28:59 GMT | Evasion in Pieces: Reconstructing Tools in Memory to Slip Past EDR | awpsec | [Read More](https://medium.com/p/db58e6d7295e) |
-| Wed, 11 Jun 2025 02:22:16 GMT | eJPT Zero to Hero: System-Host Based Attacks CTF 2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/406053caea9b) |
-| Wed, 11 Jun 2025 02:13:35 GMT | Mastering Nmap: A Deep Dive into Network Scanning Techniques — Part 2 | Seshu | [Read More](https://medium.com/p/d68f09193ede) |
-| Wed, 11 Jun 2025 02:02:11 GMT | AI Is Taking Over Your Commute: Self-Driving Cars, Smart Traffic & More! | Payaam Raza | [Read More](https://medium.com/p/c8cfccea424c) |
-| Wed, 11 Jun 2025 01:57:49 GMT | SOC205 EventID:231 — Malicious Macro has been executed — letsdefend.io | Jonathan Alphonse | [Read More](https://medium.com/p/ee62b5102307) |
-| Wed, 11 Jun 2025 01:32:31 GMT | Cyber Threat Intelligence and the Surface Web | mimo | [Read More](https://medium.com/p/d34042564279) |
-| Wed, 11 Jun 2025 01:30:22 GMT | Title: Her Silence Was a Mirror | Ghost In Gold Ink | [Read More](https://medium.com/p/3d54a39ba6fe) |
-| Wed, 11 Jun 2025 01:29:37 GMT | Why Japanese Companies Rely So Heavily on Consultants? | Shige Tanimoto | [Read More](https://medium.com/p/dd172c570dbd) |
-| Wed, 11 Jun 2025 01:22:52 GMT | How a Single Cyberattack Brought an Entire Supply Chain to Its Knees | Intermax Pty Ltd | [Read More](https://medium.com/p/460a266c4ba0) |
-| Wed, 11 Jun 2025 00:20:39 GMT | How Meta’s Bug Bounty Triage Fails Security Researchers — And Why It Matters | D Johnston | [Read More](https://medium.com/p/7dc3d8d56b16) |
