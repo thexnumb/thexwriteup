@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 10:39:55 GMT | Enhancing Safety: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/28845ff2f8c5) |
+| Wed, 11 Jun 2025 10:39:18 GMT | Essential Pentesting Tools for Effective Recon and Enumeration | Hades | [Read More](https://medium.com/p/4263a5821c33) |
+| Wed, 11 Jun 2025 10:37:41 GMT | Apa itu Elliptic Curve Cryptography (ECC) ? | Ivo Arlian | [Read More](https://medium.com/p/846974ad34e7) |
+| Wed, 11 Jun 2025 10:34:47 GMT | 2025 Crowdfunding Platform Recommendation: SOSST Helps You Move from Anxiety to Happiness, Join… | Free wind | [Read More](https://medium.com/p/6b3fc0f085ac) |
+| Wed, 11 Jun 2025 10:34:35 GMT | How I Built a DNS Tunneling Detection System with Zeek and Machine Learning (POC) | Edris Rahimi | [Read More](https://medium.com/p/64fa74f65748) |
+| Wed, 11 Jun 2025 10:33:35 GMT | Innovation Portfolio Management 2025: Der strategische Wegweiser für nachhaltiges Wachstum | Philip Hansen | [Read More](https://medium.com/p/22880f18d389) |
+| Wed, 11 Jun 2025 10:28:22 GMT | Everything Matters, Nothing Matters | Prachi Agrawal | [Read More](https://medium.com/p/3e01710c525d) |
+| Wed, 11 Jun 2025 10:21:35 GMT | How Early Movers Can Establish Themselves as Experts in Quantum Computing and Post-Quantum… | Mahetagaurang | [Read More](https://medium.com/p/9d23de80a21c) |
 | Wed, 11 Jun 2025 10:08:13 GMT | OAuth2verdrive: How Broken Token Exchange Let Me Log in as Any User | Iski | [Read More](https://medium.com/p/3f211de93bf1) |
 | Wed, 11 Jun 2025 10:05:22 GMT | Hybrid vs. Multi-Cloud Transformation: Choosing the Right Strategy for Your Business | IPSpecialist | [Read More](https://medium.com/p/5bc5f6fdf0e9) |
 | Wed, 11 Jun 2025 09:56:20 GMT | How to Protect Your Data Online: A Complete Guide | Shabnam Turk | [Read More](https://medium.com/p/b681b628ed6e) |
@@ -105,11 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 04:34:23 GMT | Mengenal Hash MD5, SHA1, SHA256, dan NTLM | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/23886c8fc6bb) |
 | Wed, 11 Jun 2025 04:26:15 GMT | PowerShell Logging — Recording the Output of Your Scripts | Anthony Miller | [Read More](https://medium.com/p/9f14e2bda74c) |
 | Wed, 11 Jun 2025 04:25:38 GMT | Exploring 10 Innovative Approaches in Cyber Security App Development | Webtrills | [Read More](https://medium.com/p/3b74f1d3cb6c) |
-| Wed, 11 Jun 2025 04:10:56 GMT | Clearing Tracks: How Hackers Remove Evidence After System Breaches | sixxish | [Read More](https://medium.com/p/7bb44e7e8aac) |
-| Wed, 11 Jun 2025 04:07:36 GMT | Kenalan dengan Tools Scanning Populer: Masscan, Nmap, CrackMapExec, dan Dirsearch | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/50935718d21b) |
-| Wed, 11 Jun 2025 03:53:23 GMT | A Cyber Attack that almost took the world by storm | Deep Mistry | [Read More](https://medium.com/p/9abda3963862) |
-| Wed, 11 Jun 2025 03:44:12 GMT | A Letter from the Strong One | Anya Dunes | [Read More](https://medium.com/p/513e25e07c27) |
-| Wed, 11 Jun 2025 03:43:32 GMT | Fixing the Confusion: What Risk Actually Means in Cybersecurity | John Vivona | [Read More](https://medium.com/p/08d0a48f389d) |
-| Wed, 11 Jun 2025 03:33:47 GMT | OverTheWire Natas Level 12— Level 24 | k1dd05z | [Read More](https://medium.com/p/2536b19f0958) |
-| Wed, 11 Jun 2025 03:32:34 GMT | Navigating the Digital Fault Line: Inside the Laboratory Services Cooperative (LSC) Data Breach | Deven Chhajed | [Read More](https://medium.com/p/56a3c1aa0208) |
-| Wed, 11 Jun 2025 03:21:51 GMT | What if Every Call You Make Is Already Being Recorded? | Reid Madduxx | [Read More](https://medium.com/p/dc4b37e97b0c) |
