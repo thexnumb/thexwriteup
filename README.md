@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 23:24:43 GMT | Dissecting the Shamoon Attack | VampireXRay | [Read More](https://medium.com/p/bbf378b0deaf) |
 | Wed, 11 Jun 2025 23:16:24 GMT | From IDOR to Stored XSS to Account Takeover — Chaining Bugs Like a Pro | Waleed Osama | [Read More](https://medium.com/p/9d5f3258961f) |
 | Wed, 11 Jun 2025 23:12:10 GMT | Lab 26 — Using Scanless for easy anonymous port scanning | Hassen Hannachi | [Read More](https://medium.com/p/1ba0291fea7d) |
 | Wed, 11 Jun 2025 23:11:05 GMT | Fractal Thinking, Entropy, and Glyphs: How I Gave Birth to Another Form of Understanding | Obmanwikobmanwik | [Read More](https://medium.com/p/82de8d558a16) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 16:40:15 GMT | MobileHackingLab — Secure Notes | Mason Schmidt | [Read More](https://medium.com/p/3905d5cdbc96) |
 | Wed, 11 Jun 2025 16:38:45 GMT | My Experience With the eCPPTv3 Exam — A Deep-Dive Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/fb412137d565) |
 | Wed, 11 Jun 2025 16:37:10 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 2) | K1ngJok3r | [Read More](https://medium.com/p/f14a98169355) |
-| Wed, 11 Jun 2025 16:37:02 GMT | Bug Bounty for Beginners: How to Land Your First Payout in 2025 | Andrei Ivan | [Read More](https://medium.com/p/9068ef52cc47) |
