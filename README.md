@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 22:11:51 GMT | Dive into 2025’s Hacking Hellscape | Inforsecpro | [Read More](https://medium.com/p/6d7d1512f592) |
+| Wed, 11 Jun 2025 22:06:09 GMT | Web Application Penetration Testing | 0xLuk3 | [Read More](https://medium.com/p/16bb5e212905) |
+| Wed, 11 Jun 2025 22:05:53 GMT | How to Stay Safe in Crypto 2025: 7 Common Scams and How to Avoid Them | Lolia Banigo | [Read More](https://medium.com/p/3ffb0b32c675) |
+| Wed, 11 Jun 2025 22:02:43 GMT | Day 1: “Detecting Failed Login Attempts on Linux” | Amy Huynh | [Read More](https://medium.com/p/45acf608f31f) |
+| Wed, 11 Jun 2025 21:50:13 GMT | Symfony SecurityBundle — Part 1 | Siavash | [Read More](https://medium.com/p/3cd8a35a6db7) |
+| Wed, 11 Jun 2025 21:50:06 GMT | I took the eJPT exam. Here are my thoughts | sundown | [Read More](https://medium.com/p/c4a66e7b8952) |
+| Wed, 11 Jun 2025 21:48:28 GMT | Adobe’s Security Updates: Addressing 254 Vulnerabilities in AEM and More | Cybersectoworld | [Read More](https://medium.com/p/1215dfb3591b) |
+| Wed, 11 Jun 2025 21:44:41 GMT | 3ID Machine VulNyx Official_Writeup | TirexV2 | [Read More](https://medium.com/p/61df65607b5a) |
+| Wed, 11 Jun 2025 21:39:50 GMT | How to recover an X account suspended due to violation | Tobias Mathew | [Read More](https://medium.com/p/7a1f121ad90f) |
 | Wed, 11 Jun 2025 21:35:00 GMT | iTDigit Burkina : Innover au service du digital et de la sécurité au Burkina Faso | iTDigit Burkina | [Read More](https://medium.com/p/ae3db2a7afdd) |
 | Wed, 11 Jun 2025 21:26:15 GMT | Caught in the Air | Pentestjunkie07 | [Read More](https://medium.com/p/0d9e2c54c131) |
 | Wed, 11 Jun 2025 21:24:37 GMT | Exploring the Best in Maternal and Baby Products: Momcozy’s Video Baby Monitor | Saffgsadfdsf | [Read More](https://medium.com/p/7f3dad32d29e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 15:27:46 GMT | Vibe Hacking Explained: Protecting Your Systems from One-Click AI Attacks | Rishabh Shrivastava | [Read More](https://medium.com/p/4cb08a6ad6d5) |
 | Wed, 11 Jun 2025 15:18:00 GMT | Emotional vulnerability leads to strong, meaningful, and deep connections. | Ifrah | [Read More](https://medium.com/p/84a9b5999629) |
 | Wed, 11 Jun 2025 15:17:45 GMT | €300 just by bug race condition | Zeta | [Read More](https://medium.com/p/9ad2d912921f) |
-| Wed, 11 Jun 2025 15:14:04 GMT | My CyberUK 2025 Experience | Dan Hartley | [Read More](https://medium.com/p/c3d258b6105b) |
-| Wed, 11 Jun 2025 15:11:58 GMT | The Hidden War: How AI-to-AI Attack Vectors Are Reshaping Cybersecurity | Eric Zietlow | [Read More](https://medium.com/p/fe37afcd20d5) |
-| Wed, 11 Jun 2025 15:11:58 GMT | Day 19: Even More and More CSRF | Nile Okomo | [Read More](https://medium.com/p/39656ed27a46) |
-| Wed, 11 Jun 2025 15:10:11 GMT | Essential Cybersecurity Solutions to Protect Your Business in 2025 | Spearhead Technology | [Read More](https://medium.com/p/08fe065c8107) |
-| Wed, 11 Jun 2025 15:05:48 GMT | Sensitive File Paths to Target with LFI | Zoningxtr | [Read More](https://medium.com/p/f66588368676) |
-| Wed, 11 Jun 2025 15:05:12 GMT | ️ Course Feedback: Google – Foundations of Cybersecurity | Aasif Tyagi | [Read More](https://medium.com/p/73290c4422d6) |
-| Wed, 11 Jun 2025 14:59:48 GMT | How to Record Request Logs on AWS API Gateway | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/12e3335839bd) |
-| Wed, 11 Jun 2025 14:58:25 GMT | Why Rule Management Is Breaking Your Firewall — and What to Do About It! | Rampart AI™ | [Read More](https://medium.com/p/aa6c3bd9c3fe) |
-| Wed, 11 Jun 2025 14:52:58 GMT | Hidden in Headers: The Power of Misused Referer, Origin, and Host Headers | Monika sharma | [Read More](https://medium.com/p/b8b1a598b1c5) |
