@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 05:09:44 GMT | How a Simple Port Scan Led to a $500 Google Reward | Jebarson Immanuel | [Read More](https://medium.com/p/39d80e2e3fef) |
+| Wed, 11 Jun 2025 05:06:45 GMT | You Don’t Have to Be the Strong One All the Time. | LILLY | [Read More](https://medium.com/p/92847edd5e80) |
+| Wed, 11 Jun 2025 04:53:34 GMT | Hello, I’m Sharisha Davis – Building My Next Chapter | Sharisha Davis | [Read More](https://medium.com/p/e4ce732a8b26) |
+| Wed, 11 Jun 2025 04:52:13 GMT | Why Customized CRM Is Your Secret Weapon | Fantechlabs Ca | [Read More](https://medium.com/p/7c1f8663c1eb) |
+| Wed, 11 Jun 2025 04:46:20 GMT | FOFA Dorking - Part 5 | AbhirupKonwar | [Read More](https://medium.com/p/4f0516273a0d) |
+| Wed, 11 Jun 2025 04:36:01 GMT | The Clock’s Ticking: How SOC KPIs Reveal Security Gaps | The Hackers Meetup | [Read More](https://medium.com/p/23bc3cd14e4c) |
 | Wed, 11 Jun 2025 04:34:23 GMT | Mengenal Hash MD5, SHA1, SHA256, dan NTLM | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/23886c8fc6bb) |
 | Wed, 11 Jun 2025 04:26:15 GMT | PowerShell Logging — Recording the Output of Your Scripts | Anthony Miller | [Read More](https://medium.com/p/9f14e2bda74c) |
 | Wed, 11 Jun 2025 04:25:38 GMT | Exploring 10 Innovative Approaches in Cyber Security App Development | Webtrills | [Read More](https://medium.com/p/3b74f1d3cb6c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 18:37:11 GMT | HELP! | Praise Ejiro | [Read More](https://medium.com/p/10aaa06d3b01) |
 | Tue, 10 Jun 2025 18:25:50 GMT | The Windows Security Journey — Group Managed Service Account (gMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/467bd387f5a6) |
 | Tue, 10 Jun 2025 18:24:18 GMT | What I Learned About DNS Spoofing and ARP Poisoning | Prateek Savanur | [Read More](https://medium.com/p/4ee7dd60c935) |
-| Tue, 10 Jun 2025 18:23:45 GMT | Excellent Crypto Recovery Service | Arlene Gibbs | [Read More](https://medium.com/p/cc78bdfe29fc) |
-| Tue, 10 Jun 2025 18:18:54 GMT | Book Launch Announcement | Bobby | [Read More](https://medium.com/p/50c48d11c9da) |
-| Tue, 10 Jun 2025 18:18:54 GMT | Multi-Cloud Strategy: What They Don’t Tell You in the Sales Pitch | Heinancabouly | [Read More](https://medium.com/p/c1f8d4957ed5) |
-| Tue, 10 Jun 2025 18:17:47 GMT | Conscious AI: What if they hate being alive? | Michelle Harwood | [Read More](https://medium.com/p/cfce1620bbaa) |
-| Tue, 10 Jun 2025 18:16:20 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | Shivprasad Lavhat | [Read More](https://medium.com/p/79bc008d9a3a) |
-| Tue, 10 Jun 2025 18:10:30 GMT | How Browsers Share Your Browsing Path — And How to Take Back Control | Natarajan C K | [Read More](https://medium.com/p/02af932172fa) |
