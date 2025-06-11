@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 08:44:55 GMT | To create an 8-character password that includes at least one uppercase letter, one special… | Case Converter | [Read More](https://medium.com/p/4aec876ecd64) |
+| Wed, 11 Jun 2025 08:38:52 GMT | Establishing Business Resilience — Positioning BCM at the Core of an Interdisciplinary Leadership… | Matthias | [Read More](https://medium.com/p/68f9fc103bfe) |
+| Wed, 11 Jun 2025 08:37:10 GMT | Actions to Address Risks and Opportunities (Clause 6.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/02066fa346c5) |
+| Wed, 11 Jun 2025 08:33:09 GMT | Tiny Habits | Sage Sunlight | [Read More](https://medium.com/p/cf5e961da278) |
 | Wed, 11 Jun 2025 08:28:37 GMT | How I Earned My First $200 Bounty | Mdsafiulislam | [Read More](https://medium.com/p/f3cc3826f5f5) |
 | Wed, 11 Jun 2025 08:24:54 GMT | APIs Are Eating the World But Who’s Securing the Cutlery? | Ozonuwe Onyenike | [Read More](https://medium.com/p/881841984e69) |
 | Wed, 11 Jun 2025 08:22:32 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/0b61265b0027) |
@@ -109,7 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Tue, 10 Jun 2025 23:21:40 GMT | Free Top 20 Cybersecurity Courses | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/7bd6a759213a) |
 | Tue, 10 Jun 2025 23:11:31 GMT | “CVE List Keyword Search” on CVE.ORG Website Updated | CVE Program Blog | [Read More](https://medium.com/p/2729451c3b61) |
 | Tue, 10 Jun 2025 23:04:19 GMT | Innovative Tips for Smart Home Enthusiasts | Fausettirenia | [Read More](https://medium.com/p/85d0f8828136) |
-| Tue, 10 Jun 2025 23:02:55 GMT | Artificial Intelligence and Cyber Security | Mateo Cruz | [Read More](https://medium.com/p/ef21efe4f059) |
-| Tue, 10 Jun 2025 22:48:32 GMT | Um Guia Prático de Como Proteger Suas Contas | Pedro Costa | [Read More](https://medium.com/p/1049f7adc720) |
-| Tue, 10 Jun 2025 22:17:28 GMT | Phishing Incident Response | Azeez Wasiu Babatunde | [Read More](https://medium.com/p/ee5a3c18652f) |
-| Tue, 10 Jun 2025 22:16:41 GMT | Maintaining Persistence After Exploiting Network Services: A Red Teamer’s Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/187dc81e0e08) |
