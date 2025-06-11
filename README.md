@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 01:32:31 GMT | Cyber Threat Intelligence and the Surface Web | mimo | [Read More](https://medium.com/p/d34042564279) |
+| Wed, 11 Jun 2025 01:30:22 GMT | Title: Her Silence Was a Mirror | Ghost In Gold Ink | [Read More](https://medium.com/p/3d54a39ba6fe) |
+| Wed, 11 Jun 2025 01:29:37 GMT | Why Japanese Companies Rely So Heavily on Consultants? | Shige Tanimoto | [Read More](https://medium.com/p/dd172c570dbd) |
+| Wed, 11 Jun 2025 01:22:52 GMT | How a Single Cyberattack Brought an Entire Supply Chain to Its Knees | Intermax Pty Ltd | [Read More](https://medium.com/p/460a266c4ba0) |
+| Wed, 11 Jun 2025 00:20:39 GMT | How Meta’s Bug Bounty Triage Fails Security Researchers — And Why It Matters | D Johnston | [Read More](https://medium.com/p/7dc3d8d56b16) |
+| Wed, 11 Jun 2025 00:18:58 GMT | Even RSA Can be Broken? — RSA Encryption Explained with CTF Walkthrough | EvenBaba | [Read More](https://medium.com/p/980543cf2a2c) |
+| Wed, 11 Jun 2025 00:13:27 GMT | Drone Fleet Management & Geofencing via Smart Contracts | A-STAR7_DOCTOR | [Read More](https://medium.com/p/3f965fde28fa) |
+| Wed, 11 Jun 2025 00:04:40 GMT | How I Discovered JS Execution Through CSTI and DOM XSS | Ibtissam hammadi | [Read More](https://medium.com/p/09024676692b) |
+| Wed, 11 Jun 2025 00:02:25 GMT | eJPT Zero to Hero: System-Host Based Attacks CTF 1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/ac2db55f29f7) |
+| Wed, 11 Jun 2025 00:01:09 GMT | Securing Your Model Context Protocol (MCP) for AI: A Critical Imperative | Dilip Uthiriaraj | [Read More](https://medium.com/p/bf0052422b5e) |
+| Tue, 10 Jun 2025 23:56:28 GMT | Perl Ultimate Vulnerability in CGI & Opening Pipes Part II: Natas32 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/b3cdf6efe220) |
+| Tue, 10 Jun 2025 23:41:43 GMT | How One Cyber Espionage Group Infiltrated 70+ Organizations Without Anyone Noticing — Are You Next?” | Cyber-AppSec | [Read More](https://medium.com/p/d4e1dedf1fb3) |
+| Tue, 10 Jun 2025 23:40:14 GMT | How Gen AI is Revolutionizing Cyber Attack Strategies | Yash Patel | [Read More](https://medium.com/p/6ea6adbbf116) |
+| Tue, 10 Jun 2025 23:34:42 GMT | Data Security and Data Privacy | Agha Mustafa Ali Khan Qizilbash | [Read More](https://medium.com/p/71c174380f5f) |
 | Tue, 10 Jun 2025 23:21:40 GMT | Free Top 20 Cybersecurity Courses | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/7bd6a759213a) |
 | Tue, 10 Jun 2025 23:11:31 GMT | “CVE List Keyword Search” on CVE.ORG Website Updated | CVE Program Blog | [Read More](https://medium.com/p/2729451c3b61) |
 | Tue, 10 Jun 2025 23:04:19 GMT | Innovative Tips for Smart Home Enthusiasts | Fausettirenia | [Read More](https://medium.com/p/85d0f8828136) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 17:10:24 GMT | The Resume Trap: How FIN6 Is Using Fake Job Hunts to Breach Networks | Siva Gunasekaran | [Read More](https://medium.com/p/bf6881e2ed87) |
 | Tue, 10 Jun 2025 17:09:03 GMT | 2025–2026 Cybersecurity Trends | Rodion Orets | [Read More](https://medium.com/p/6c43964d3227) |
 | Tue, 10 Jun 2025 17:08:01 GMT | 0x01: Introduction to Active Directory Pentesting | Aswin Krishna PB | [Read More](https://medium.com/p/fa4576634f27) |
-| Tue, 10 Jun 2025 17:05:54 GMT | How I Got $$$$ for Bypassing a PIN Lock in an Android App | Kyrillos nady | [Read More](https://medium.com/p/6c1b48f615e3) |
-| Tue, 10 Jun 2025 17:04:56 GMT | Syria: 6 Months After Assad | PHD - Politics, History, Diplomacy | [Read More](https://medium.com/p/6a6f0a776fa1) |
-| Tue, 10 Jun 2025 17:00:00 GMT | Tools Bruteforce Login Page menggunakan Python | Ahmadfaizabdillah | [Read More](https://medium.com/p/fc9b2738fb68) |
-| Tue, 10 Jun 2025 16:57:11 GMT | IBM Unveils Next-Generation Quantum Processor, Ushering In a New Era of Computation | QuantumGenie | [Read More](https://medium.com/p/08c120b6acbc) |
-| Tue, 10 Jun 2025 16:53:27 GMT | DoS vs. DDoS: The Silent Killers of the Internet | SACHIN PV | [Read More](https://medium.com/p/3cd3610066c8) |
-| Tue, 10 Jun 2025 16:49:17 GMT | Just Found Out About D’CENT’s New Campaign: Map Protocol | Varun Jain | [Read More](https://medium.com/p/37105a4e1ca7) |
-| Tue, 10 Jun 2025 16:46:56 GMT | Six Months as a Detection Engineer: What I’ve Learned (and Unlearned) | Rick Martin | [Read More](https://medium.com/p/7ace2e5b536f) |
-| Tue, 10 Jun 2025 16:44:44 GMT | ️ Tech Simplified: Why Building a 100% Secure App Is a Myth | Manorath Khanna | [Read More](https://medium.com/p/543a114cdcb3) |
-| Tue, 10 Jun 2025 16:42:11 GMT | The Life You Post vs. The Life You Live | Sera Dawn | [Read More](https://medium.com/p/8e7d1bdbb2b0) |
-| Tue, 10 Jun 2025 16:41:11 GMT | Risk Management in Cybersecurity: The GRC Superpower You Need to Know | Brittney Ginther | [Read More](https://medium.com/p/b4b85f725ceb) |
-| Tue, 10 Jun 2025 16:40:55 GMT | Social Media: The New Concern for Cybersecurity | Kayla Manalu | [Read More](https://medium.com/p/1a4c4891b387) |
-| Tue, 10 Jun 2025 16:32:01 GMT | Kali GPT: An Offensive Security Assist That Cuts Through the Noise | cybrNK | [Read More](https://medium.com/p/651e227b7d01) |
-| Tue, 10 Jun 2025 16:29:18 GMT | Reliable. Accountable. In Control. Every Shift, Every Site. | EXLITY | [Read More](https://medium.com/p/16a44da2c22e) |
-| Tue, 10 Jun 2025 16:23:03 GMT | ️Day 59: Bash Scripting -Mastering String and Array Manipulation | Agarwaldaksh | [Read More](https://medium.com/p/61348829565a) |
