@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 21:35:00 GMT | iTDigit Burkina : Innover au service du digital et de la sécurité au Burkina Faso | iTDigit Burkina | [Read More](https://medium.com/p/ae3db2a7afdd) |
+| Wed, 11 Jun 2025 21:26:15 GMT | Caught in the Air | Pentestjunkie07 | [Read More](https://medium.com/p/0d9e2c54c131) |
+| Wed, 11 Jun 2025 21:24:37 GMT | Exploring the Best in Maternal and Baby Products: Momcozy’s Video Baby Monitor | Saffgsadfdsf | [Read More](https://medium.com/p/7f3dad32d29e) |
 | Wed, 11 Jun 2025 21:12:02 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss | Aditya Bhatt | [Read More](https://medium.com/p/7a8baf3cf085) |
 | Wed, 11 Jun 2025 21:08:54 GMT | Snag Exclusive BOUNTY Through ChainBounty's Launch Bonus | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/4edb0a985aea) |
 | Wed, 11 Jun 2025 21:01:05 GMT | Digital Battlegrounds | Pentestjunkie07 | [Read More](https://medium.com/p/e44023908833) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 14:59:48 GMT | How to Record Request Logs on AWS API Gateway | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/12e3335839bd) |
 | Wed, 11 Jun 2025 14:58:25 GMT | Why Rule Management Is Breaking Your Firewall — and What to Do About It! | Rampart AI™ | [Read More](https://medium.com/p/aa6c3bd9c3fe) |
 | Wed, 11 Jun 2025 14:52:58 GMT | Hidden in Headers: The Power of Misused Referer, Origin, and Host Headers | Monika sharma | [Read More](https://medium.com/p/b8b1a598b1c5) |
-| Wed, 11 Jun 2025 14:52:53 GMT | THM — Bounty Hacker Writeup | Kostas Ereksonas | [Read More](https://medium.com/p/e05ce7ae2259) |
-| Wed, 11 Jun 2025 14:52:42 GMT | Top 3 Next-Generation Firewall (NGFW) Challenges and How to Solve Them with AI | Rampart AI™ | [Read More](https://medium.com/p/a21c390154d0) |
-| Wed, 11 Jun 2025 14:52:05 GMT | SIEM? Wazuh? EDR? #Day_3 | Richardgreynardi | [Read More](https://medium.com/p/2e2a63edfd16) |
