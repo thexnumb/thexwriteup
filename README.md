@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 07:21:11 GMT | How Hackers Achieve Invisible Persistence in Active Directory: Shadow Credentials &… | Anezaneo | [Read More](https://medium.com/p/6b53a6c85e74) |
+| Wed, 11 Jun 2025 07:19:58 GMT | Parameter Pollution: How to Hunt Silent Access Bugs | Monika sharma | [Read More](https://medium.com/p/922863d0498e) |
+| Wed, 11 Jun 2025 07:10:48 GMT | PJPT Certification with Zero Work Experience: Here’s My Story | Athiwat Tiprasaharn | [Read More](https://medium.com/p/284ac9efcdaa) |
+| Wed, 11 Jun 2025 07:07:01 GMT | Hiding Secrets with AI: How Machine Learning Is Transforming Steganography | Anushka | [Read More](https://medium.com/p/17205165f37c) |
+| Wed, 11 Jun 2025 07:04:56 GMT | How I Discovered Sensitive API Keys & Auth Tokens in Public JavaScript Files — A Recon Journey | TehanG07 | [Read More](https://medium.com/p/01cc33e27b9e) |
+| Wed, 11 Jun 2025 07:01:44 GMT | Industrial Plant Security | Presslink Media | [Read More](https://medium.com/p/219fbd0edab1) |
+| Wed, 11 Jun 2025 07:00:07 GMT | Inside the OWASP AIVSS | David Campbell | [Read More](https://medium.com/p/4a19b429717c) |
+| Wed, 11 Jun 2025 06:51:50 GMT | How I Hunted Secret Express.js Endpoints With ffuf and Nuclei (And Found Some Spicy Stuff) | Rahimuddin Alrashel | [Read More](https://medium.com/p/7f4939a1ed56) |
+| Wed, 11 Jun 2025 06:51:39 GMT | The DPRK, Cryptocurrency, and Bombs | Yoihen Elangbam | [Read More](https://medium.com/p/1706704d4f9a) |
+| Wed, 11 Jun 2025 06:51:29 GMT | A Simple Passive Recon to Find Some Bugs | Faxcl | [Read More](https://medium.com/p/aa34b6265820) |
+| Wed, 11 Jun 2025 06:50:56 GMT | Mimicking the Brain, Fooling the System: Why Investors Should Pay Attention to the Next… | Tarana Kochhar | [Read More](https://medium.com/p/1bebc6d58fff) |
+| Wed, 11 Jun 2025 06:48:21 GMT | The systematic persecution of arrests of Kosovo citizens by the Serbian regime, international… | Uncensored Reporter | [Read More](https://medium.com/p/304d0f589a69) |
+| Wed, 11 Jun 2025 06:39:22 GMT | Bayside Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/cba81d527027) |
+| Wed, 11 Jun 2025 06:33:01 GMT | Why Background Checks Matter More Than Ever in 2025 | Mariiatata | [Read More](https://medium.com/p/12345b1d0b47) |
+| Wed, 11 Jun 2025 06:31:38 GMT | Quick Signs That a Photo Has Been Edited or Faked (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/6f4e68dd999c) |
+| Wed, 11 Jun 2025 06:25:32 GMT | Türkiye’s First Cybersecurity Law: A Critical Step Toward National Cyber Sovereignty | Cyber Juris | [Read More](https://medium.com/p/0530751f4596) |
+| Wed, 11 Jun 2025 06:23:40 GMT | Tokenization: The Future of Everything You Own | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4d1cf3e514e3) |
 | Wed, 11 Jun 2025 06:17:05 GMT | Securing the Python Ecosystem with Chainguard Malware Resistant Libraries | Py-Core Python Programming | [Read More](https://medium.com/p/533bf492551b) |
 | Wed, 11 Jun 2025 06:11:18 GMT | Want to Deter Crime and Enhance Safety? | Emilyeliza | [Read More](https://medium.com/p/5448fca543f6) |
 | Wed, 11 Jun 2025 06:02:40 GMT | Architects, Don’t Skip Leg Day: Fitness Functions Matter | Oscar van der Leij | [Read More](https://medium.com/p/ef16ab9ed012) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 20:24:20 GMT | The Forger’s Art | Thomas F McGeehan V | [Read More](https://medium.com/p/9148eb508406) |
 | Tue, 10 Jun 2025 20:19:13 GMT | MobileHackingLab — Post Board | Mason Schmidt | [Read More](https://medium.com/p/ad3f7f6a2aea) |
 | Tue, 10 Jun 2025 20:11:55 GMT | Exploiting the DC-01 Machine: | Abdullah Khalid | [Read More](https://medium.com/p/a467e0329919) |
-| Tue, 10 Jun 2025 20:10:28 GMT | Crafting a Fully Undetectable Windows Payload Using C: A Red Team Perspective | Aman | [Read More](https://medium.com/p/5c986d1a303b) |
-| Tue, 10 Jun 2025 20:00:13 GMT | What is Outside of Time and Space? | Upāsaka Asoka | [Read More](https://medium.com/p/d322abcdb3d4) |
-| Tue, 10 Jun 2025 19:56:10 GMT | I Broke Into Cybersecurity Without a CS Degree — Here’s the Unfiltered Truth | Nigam | [Read More](https://medium.com/p/d320b5d8a474) |
-| Tue, 10 Jun 2025 19:47:23 GMT | CTF Writeup — TJCTF 2025 — hidden-message | embossdotar | [Read More](https://medium.com/p/124ce00a4001) |
-| Tue, 10 Jun 2025 19:46:00 GMT | How I’m Turning My IT Knowledge Into Online Income (And How You Can Too) | Denis Afful | [Read More](https://medium.com/p/4dd6be2590f4) |
-| Tue, 10 Jun 2025 19:40:47 GMT | Deploying AI/ML Network Security Applications at Enterprise Scale | Five Insights | [Read More](https://medium.com/p/590fcc37a2c5) |
-| Tue, 10 Jun 2025 19:37:39 GMT | ESTÁ BIEN NO ESTAR BIEN | Laura Cervantes | [Read More](https://medium.com/p/29413248b88b) |
-| Tue, 10 Jun 2025 19:36:32 GMT | You’ve Been Hacked By Your Brain: The Psychology of Digital Manipulation | Kgupta | [Read More](https://medium.com/p/e62cfbb85675) |
-| Tue, 10 Jun 2025 19:33:29 GMT | Embracing Smart Living with SwitchBot | Elika | [Read More](https://medium.com/p/b234229ed395) |
-| Tue, 10 Jun 2025 19:33:08 GMT | Security Review to Secure Your Digital Assets with XEye Security | Cybersectoworld | [Read More](https://medium.com/p/a9372c9fa70c) |
-| Tue, 10 Jun 2025 19:32:02 GMT | Boost Your UX Research with Gen AI: Use Cases to Consider for Today’s Researcher | Mark Thompson-Kolar | [Read More](https://medium.com/p/1e591fd27c22) |
-| Tue, 10 Jun 2025 19:20:19 GMT | Google Cyber Security or CompTIA Security+? Here’s What Recruiters Are REALLY Looking For | Motasem Hamdan | [Read More](https://medium.com/p/16acddd7664a) |
-| Tue, 10 Jun 2025 19:12:44 GMT | The Ultimate Penetration Testing Methodology | Kalsariya Dharmesh | [Read More](https://medium.com/p/da4f8ebc6da3) |
-| Tue, 10 Jun 2025 19:12:33 GMT | Welcome to the Five Insights Blog | Jude | [Read More](https://medium.com/p/b926a4bc570c) |
-| Tue, 10 Jun 2025 19:06:02 GMT | Visualizing Security and Correlating Events with Kibana Dashboards | Esra Kayhan | [Read More](https://medium.com/p/21bf94a9f9ef) |
-| Tue, 10 Jun 2025 19:05:29 GMT | The Invisible Threat: How LLM Plugins Could Become a New Frontier for Stealthy Cyber Attacks | Shannon Harrell Jr. | [Read More](https://medium.com/p/d4b2613ea09d) |
-| Tue, 10 Jun 2025 19:05:26 GMT | The ILOVEYOU Virus: When the First Social Engineering Attack Broke the Internet | Sneha Patil | [Read More](https://medium.com/p/5108782bf2d5) |
