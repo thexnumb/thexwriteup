@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 19:00:35 GMT | Sécuriser les applications open source à grande échelle : Les cinq principes fondamentaux | Soufien CHEIKH | [Read More](https://medium.com/p/d48b1d04286a) |
+| Wed, 11 Jun 2025 18:56:23 GMT | Tell me all of your sad stories | Your NativeFriend | [Read More](https://medium.com/p/2bd26151d3e8) |
+| Wed, 11 Jun 2025 18:54:58 GMT | Cracking the Clock: How I Took Over Any Account Using a Timestamp Leak | Ritik Verma | [Read More](https://medium.com/p/516fc88c0113) |
+| Wed, 11 Jun 2025 18:48:33 GMT | Wait for the Drift mod…….. | Hooknspeed Recovery Thiruvananthapuram | [Read More](https://medium.com/p/e3f90e87a2a4) |
+| Wed, 11 Jun 2025 18:43:41 GMT | 0X02 : Reconnaissance & Scanning | Aswin Krishna PB | [Read More](https://medium.com/p/211e7003d06e) |
+| Wed, 11 Jun 2025 18:42:26 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/3592d92c0e20) |
+| Wed, 11 Jun 2025 18:32:25 GMT | The Hidden World of the Deep Web — Beyond What Google Shows You | Hafizbilaltariq | [Read More](https://medium.com/p/01d20c955223) |
+| Wed, 11 Jun 2025 18:31:03 GMT | Fixing the Linux Network Interface | Cy3erS@up | [Read More](https://medium.com/p/6c5a09192b01) |
 | Wed, 11 Jun 2025 18:28:02 GMT | Get your OpenAI API Key and let’s explore together | 46 | [Read More](https://medium.com/p/b5a35f78e2d5) |
+| Wed, 11 Jun 2025 18:27:05 GMT | The Windows Security Journey — Standalone Managed Service Account (sMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1fa129a97e8a) |
 | Wed, 11 Jun 2025 18:19:35 GMT | Laravel SentinelLog: Supercharge Your App Security with Next-Level Authentication! | Harry Es Pant | [Read More](https://medium.com/p/f1a9ce07ad9b) |
 | Wed, 11 Jun 2025 18:19:17 GMT | Bloktan: Cybersecurity and IT Services Tailored for Real-World Risk | Authors Avenger | [Read More](https://medium.com/p/e0998c3472df) |
 | Wed, 11 Jun 2025 18:17:40 GMT | How QR Codes are the New Phishing Attack Vector (and how hackers use them to trick you) | Subigya Ghimire | [Read More](https://medium.com/p/6194ffbdd286) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 13:36:40 GMT | How WiFi Geotagging Saved My Workflow When Working Off the Grid | Sam Galope | [Read More](https://medium.com/p/a7ac270e75ef) |
 | Wed, 11 Jun 2025 13:36:12 GMT | Day 22: What Is Risk in GRC? Let’s Talk Strategic, Compliance, and Cyber Threats | Brittney Ginther | [Read More](https://medium.com/p/4f07d2d019d8) |
 | Wed, 11 Jun 2025 13:30:31 GMT | Amos hiding in GitHub | Jason Reaves | [Read More](https://medium.com/p/199eabea6605) |
-| Wed, 11 Jun 2025 13:27:17 GMT | Part 1: Setting Up crAPI — A Hands-On Guide to API Hacking & Security Testing | Mihir Sathvara | [Read More](https://medium.com/p/c333e9631406) |
-| Wed, 11 Jun 2025 13:26:07 GMT | How Did I Find 3 SQLi Vulnerabilities With Just a Repeater | Ibtissam hammadi | [Read More](https://medium.com/p/3e1f7f451ae9) |
-| Wed, 11 Jun 2025 13:22:34 GMT | CIA Triad: The Most Basic Principle in Cybersecurity | Akhmad Diponegoro | [Read More](https://medium.com/p/2a2082aded5c) |
-| Wed, 11 Jun 2025 13:16:49 GMT | The Invisible Threats: Data & Security Risks in Online Payments | Goismo AB | [Read More](https://medium.com/p/43a86d6ee7cf) |
-| Wed, 11 Jun 2025 13:12:40 GMT | The Algorithm’s Blind Spot: Why Bias in Cybersecurity Tools Puts Your Business at Risk | Pegasus Technology Solutions | [Read More](https://medium.com/p/50cc17e84d3f) |
-| Wed, 11 Jun 2025 13:06:46 GMT | Professional Mobile Patrol and Static Guard Services | Professional UK Services | [Read More](https://medium.com/p/540ae02aa6dd) |
-| Wed, 11 Jun 2025 13:06:30 GMT | Why StrongBox IT Is the Best VAPT Service Provider for Your Business | StrongBox IT | [Read More](https://medium.com/p/755e6fb9fa25) |
-| Wed, 11 Jun 2025 13:02:44 GMT | The Myth of “Too Small to Hack” | Peris.ai Cybersecurity | [Read More](https://medium.com/p/077f119a0d66) |
-| Wed, 11 Jun 2025 13:02:11 GMT | CTF Writeup — CyberSecure-X 1.0 | purrsistant | [Read More](https://medium.com/p/8b4d647ad4d7) |
