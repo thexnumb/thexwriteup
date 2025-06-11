@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 14:12:07 GMT | KC7 Inside Encryptodera: Post-Investigation | Trey Hopkins | [Read More](https://medium.com/p/2ad38c87ea76) |
+| Wed, 11 Jun 2025 14:10:12 GMT | False Alarms: Why Most Security Notifications Backfire | MrsNo1Special | [Read More](https://medium.com/p/5842d6068981) |
+| Wed, 11 Jun 2025 14:10:04 GMT | The Invisible Fortress: How ECC and Web3 Cryptography Guard Our Digital Treasures (and Their… | Fakihabdulwahab | [Read More](https://medium.com/p/71868473abfa) |
+| Wed, 11 Jun 2025 14:09:38 GMT | A list of Paste sites for OSINT investigators | loyalonlytoday | [Read More](https://medium.com/p/dc8cb7465067) |
+| Wed, 11 Jun 2025 14:08:32 GMT | SQL Security Best Practices: Protecting Your Data the Right Way | SQL Mentor | [Read More](https://medium.com/p/df459823ff4c) |
+| Wed, 11 Jun 2025 14:08:28 GMT | Are Organizations Prepared for a Post-Quantum World? | Zachary Neal | [Read More](https://medium.com/p/139a30984ccc) |
+| Wed, 11 Jun 2025 14:07:46 GMT | ️ WAF Bypass Teknikleri: Filtreleri Aşmak İçin Karanlık Sanat | Onur Civan | [Read More](https://medium.com/p/1158fef298c2) |
+| Wed, 11 Jun 2025 14:07:38 GMT | Goodbye VPNs: Securing Developer Workspaces with Enterprise Browsers | Mammoth Cyber | [Read More](https://medium.com/p/65ca1e5a1280) |
+| Wed, 11 Jun 2025 14:05:33 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/3dfb5ae98c9c) |
+| Wed, 11 Jun 2025 14:05:08 GMT | The rise of e-commerce has revolutionized global shopping, but it has also increased the risk of… | Ramesh M | [Read More](https://medium.com/p/5f1de1cb6572) |
+| Wed, 11 Jun 2025 14:04:57 GMT | Phishing Internal Users via Microsoft 365 SMTP Relay | Mark Roy | [Read More](https://medium.com/p/d2925d7236ef) |
+| Wed, 11 Jun 2025 14:02:47 GMT | How Security Can Shape the Future of FinTech | abdeldayemnour | [Read More](https://medium.com/p/2aa7e6ddad10) |
+| Wed, 11 Jun 2025 14:02:43 GMT | Metasploitable 2 Exploitation (Part 1) | Maniraj Chahal | [Read More](https://medium.com/p/a05eeeccf683) |
+| Wed, 11 Jun 2025 13:41:21 GMT | ThreatVector: Elevating Cybersecurity for Modern Businesses | ThreatVector | [Read More](https://medium.com/p/d78f8629909a) |
+| Wed, 11 Jun 2025 13:39:21 GMT | Sovereign Cloud and Data Sovereignty: Why Your Organization Needs Control | Sjoukje Zaal | [Read More](https://medium.com/p/016fa81af7fa) |
+| Wed, 11 Jun 2025 13:36:40 GMT | How WiFi Geotagging Saved My Workflow When Working Off the Grid | Sam Galope | [Read More](https://medium.com/p/a7ac270e75ef) |
+| Wed, 11 Jun 2025 13:36:12 GMT | Day 22: What Is Risk in GRC? Let’s Talk Strategic, Compliance, and Cyber Threats | Brittney Ginther | [Read More](https://medium.com/p/4f07d2d019d8) |
+| Wed, 11 Jun 2025 13:30:31 GMT | Amos hiding in GitHub | Jason Reaves | [Read More](https://medium.com/p/199eabea6605) |
 | Wed, 11 Jun 2025 13:27:17 GMT | Part 1: Setting Up crAPI — A Hands-On Guide to API Hacking & Security Testing | Mihir Sathvara | [Read More](https://medium.com/p/c333e9631406) |
 | Wed, 11 Jun 2025 13:26:07 GMT | How Did I Find 3 SQLi Vulnerabilities With Just a Repeater | Ibtissam hammadi | [Read More](https://medium.com/p/3e1f7f451ae9) |
 | Wed, 11 Jun 2025 13:22:34 GMT | CIA Triad: The Most Basic Principle in Cybersecurity | Akhmad Diponegoro | [Read More](https://medium.com/p/2a2082aded5c) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 08:33:09 GMT | Tiny Habits | Sage Sunlight | [Read More](https://medium.com/p/cf5e961da278) |
 | Wed, 11 Jun 2025 08:28:37 GMT | How I Earned My First $200 Bounty | Mdsafiulislam | [Read More](https://medium.com/p/f3cc3826f5f5) |
 | Wed, 11 Jun 2025 08:24:54 GMT | APIs Are Eating the World But Who’s Securing the Cutlery? | Ozonuwe Onyenike | [Read More](https://medium.com/p/881841984e69) |
-| Wed, 11 Jun 2025 08:22:32 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/0b61265b0027) |
-| Wed, 11 Jun 2025 08:19:19 GMT | Crashing the Internet: A Deep Dive into DoS and DDoS Attacks | Leroyanand | [Read More](https://medium.com/p/a8df60661fac) |
-| Wed, 11 Jun 2025 08:16:59 GMT | Top 10 Questions to Ask Your Blockchain Security Auditor | Decrypt0 | [Read More](https://medium.com/p/cc372356bda1) |
-| Wed, 11 Jun 2025 08:16:19 GMT | Quantum Computers, the Jewels of Computing and Fearsome Weapons of War | Galaxy_Nasa | [Read More](https://medium.com/p/cf24d698289e) |
-| Wed, 11 Jun 2025 08:15:58 GMT | AI Penetration Testing Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/732a9b4e5318) |
-| Wed, 11 Jun 2025 08:14:54 GMT | Why Your Linux Machine is Probably Less Secure Than You Think (And How to Fix It) | Saikat Paul | [Read More](https://medium.com/p/c4034ab58129) |
-| Wed, 11 Jun 2025 08:10:32 GMT | The Container Wars: Why Your AI Models Don’t Care About Docker vs Podman (But You Should) | Saikat Paul | [Read More](https://medium.com/p/8b5b897ab75d) |
-| Wed, 11 Jun 2025 08:02:34 GMT | Why use machine learning in cybersecurity? | Bhuvana Medicherla | [Read More](https://medium.com/p/3b21dc7d8431) |
-| Wed, 11 Jun 2025 08:02:27 GMT | Are Your Systems Secure? Best Penetration Testing Services in Dubai | RedTeamsaniga Suresh | [Read More](https://medium.com/p/1b61e23255f2) |
-| Wed, 11 Jun 2025 07:59:09 GMT | Your Personal AI Assistant: How to Run ChatGPT-Level Models on Ubuntu (Without Paying a Cent) | Saikat Paul | [Read More](https://medium.com/p/be92ada12dea) |
-| Wed, 11 Jun 2025 07:57:45 GMT | Why Mobile Patrol Services Are the Smartest Way to Secure Your Property 24/7? | Sumintra | [Read More](https://medium.com/p/a53f5cceed84) |
-| Wed, 11 Jun 2025 07:57:38 GMT | Farewell, My Shell
-Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More](https://medium.com/p/c6723b21d6a3) |
-| Wed, 11 Jun 2025 07:52:36 GMT | Corporate Absurdities: The Rise of Sanctioned Ineptitude | Namir Sagheenanajar | [Read More](https://medium.com/p/7e0fbb141e44) |
-| Wed, 11 Jun 2025 07:51:53 GMT | Blockchain for Brain Signal Provenance | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ddf29908686a) |
-| Wed, 11 Jun 2025 07:51:45 GMT | Best Practices for Prompt Engineering: Real Tips I Wish I Knew Before Automating DevOps | AbdulRahman Mostafa | [Read More](https://medium.com/p/389d91cc6231) |
-| Wed, 11 Jun 2025 07:44:27 GMT | Protect Your Business with VAPT Services in Dubai | RedTeamsaniga Suresh | [Read More](https://medium.com/p/3356e5d74df8) |
-| Wed, 11 Jun 2025 07:35:33 GMT | The Daily Tech Digest: 11 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8c208140c615) |
-| Wed, 11 Jun 2025 07:34:15 GMT | Shadows of the | Tales of Nyx | [Read More](https://medium.com/p/cf8da0969913) |
