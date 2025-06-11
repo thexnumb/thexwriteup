@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 19:28:16 GMT | Busqueda — HTB | 0xChryy | [Read More](https://medium.com/p/ccc87a7bc0e8) |
+| Wed, 11 Jun 2025 19:28:14 GMT | Quantum at a Turning Point: Nvidia CEO Declares Industry at ‘Inflection Point’ | QuantumGenie | [Read More](https://medium.com/p/c1a419e8a43d) |
+| Wed, 11 Jun 2025 19:25:57 GMT | The Complete Business Analysis Fundamentals Course + CERT Eğitim Serüvenim Part-2 | Merve Dürül | [Read More](https://medium.com/p/842c4ecda4a3) |
+| Wed, 11 Jun 2025 19:12:40 GMT | EchoLeak: The Zero-Click Data Exfiltration Flaw Shaking Microsoft Copilot | Ronit Yadav | [Read More](https://medium.com/p/42997bd8258d) |
 | Wed, 11 Jun 2025 19:00:35 GMT | Sécuriser les applications open source à grande échelle : Les cinq principes fondamentaux | Soufien CHEIKH | [Read More](https://medium.com/p/d48b1d04286a) |
 | Wed, 11 Jun 2025 18:56:23 GMT | Tell me all of your sad stories | Your NativeFriend | [Read More](https://medium.com/p/2bd26151d3e8) |
 | Wed, 11 Jun 2025 18:54:58 GMT | Cracking the Clock: How I Took Over Any Account Using a Timestamp Leak | Ritik Verma | [Read More](https://medium.com/p/516fc88c0113) |
@@ -25,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 18:19:35 GMT | Laravel SentinelLog: Supercharge Your App Security with Next-Level Authentication! | Harry Es Pant | [Read More](https://medium.com/p/f1a9ce07ad9b) |
 | Wed, 11 Jun 2025 18:19:17 GMT | Bloktan: Cybersecurity and IT Services Tailored for Real-World Risk | Authors Avenger | [Read More](https://medium.com/p/e0998c3472df) |
 | Wed, 11 Jun 2025 18:17:40 GMT | How QR Codes are the New Phishing Attack Vector (and how hackers use them to trick you) | Subigya Ghimire | [Read More](https://medium.com/p/6194ffbdd286) |
+| Wed, 11 Jun 2025 18:09:33 GMT | ম্যালওয়্যার ডেভেলপমেন্ট ক্যারিয়ার কমপ্লিট গাইডলাইন | Shahriar Galib | [Read More](https://medium.com/p/b3e9a0e4a6b8) |
 | Wed, 11 Jun 2025 18:08:49 GMT | Facebook और Google — कौन रखता है हम पर नज़र? | SaadeAala RS | [Read More](https://medium.com/p/c9f89bcfb7df) |
 | Wed, 11 Jun 2025 18:06:39 GMT | Evri Delivery Scams Explained: What Every UK Consumer Should Know | Sammcmullen | [Read More](https://medium.com/p/91f05298a7ac) |
 | Wed, 11 Jun 2025 18:02:40 GMT | How to Test AI Bias — A Practical Guide | Himanshunya | [Read More](https://medium.com/p/b3e09b70eb52) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 14:04:57 GMT | Phishing Internal Users via Microsoft 365 SMTP Relay | Mark Roy | [Read More](https://medium.com/p/d2925d7236ef) |
 | Wed, 11 Jun 2025 14:02:47 GMT | How Security Can Shape the Future of FinTech | abdeldayemnour | [Read More](https://medium.com/p/2aa7e6ddad10) |
 | Wed, 11 Jun 2025 14:02:43 GMT | Metasploitable 2 Exploitation (Part 1) | Maniraj Chahal | [Read More](https://medium.com/p/a05eeeccf683) |
-| Wed, 11 Jun 2025 13:41:21 GMT | ThreatVector: Elevating Cybersecurity for Modern Businesses | ThreatVector | [Read More](https://medium.com/p/d78f8629909a) |
-| Wed, 11 Jun 2025 13:39:21 GMT | Sovereign Cloud and Data Sovereignty: Why Your Organization Needs Control | Sjoukje Zaal | [Read More](https://medium.com/p/016fa81af7fa) |
-| Wed, 11 Jun 2025 13:36:40 GMT | How WiFi Geotagging Saved My Workflow When Working Off the Grid | Sam Galope | [Read More](https://medium.com/p/a7ac270e75ef) |
-| Wed, 11 Jun 2025 13:36:12 GMT | Day 22: What Is Risk in GRC? Let’s Talk Strategic, Compliance, and Cyber Threats | Brittney Ginther | [Read More](https://medium.com/p/4f07d2d019d8) |
-| Wed, 11 Jun 2025 13:30:31 GMT | Amos hiding in GitHub | Jason Reaves | [Read More](https://medium.com/p/199eabea6605) |
