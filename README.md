@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 16:21:43 GMT | Terraform Secrets: Keep Your Sensitive Data Safe (and Sound). | David Washington | [Read More](https://medium.com/p/77201ca25923) |
+| Wed, 11 Jun 2025 16:16:45 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 1) | K1ngJok3r | [Read More](https://medium.com/p/718c001ec809) |
+| Wed, 11 Jun 2025 16:15:19 GMT | How Scammers Fake Crypto Transactions in 2025 — What You Need to Know | Nap Ove | [Read More](https://medium.com/p/7d0a2b8230a3) |
+| Wed, 11 Jun 2025 16:10:00 GMT | Exposing Your IP: What the HTTP Remote Address Really Reveals | Natarajan C K | [Read More](https://medium.com/p/56a46984c694) |
+| Wed, 11 Jun 2025 16:04:21 GMT | The Docker Build That Secretly Embedded AWS Keys in Every Image | Rudra | [Read More](https://medium.com/p/2dfdacbd6a71) |
+| Wed, 11 Jun 2025 16:01:51 GMT | CyberArk Integration in Microservice Architecture | Pattanaikansuman | [Read More](https://medium.com/p/daa39d3d48c2) |
+| Wed, 11 Jun 2025 15:58:55 GMT | Let’s be honest — if you’ve worked in Facility Management or any service industry, you’ve… | EXLITY | [Read More](https://medium.com/p/6531db24eb6d) |
+| Wed, 11 Jun 2025 15:55:19 GMT | Build Your Mini AI SOC — All on a Shoestring Budget | Abdellaoui Ahmed | [Read More](https://medium.com/p/8e2b8b0c445f) |
+| Wed, 11 Jun 2025 15:43:54 GMT | Detecting Malicious Infrastructure Through SSL/TLS Certificates | Sukant Kumar | [Read More](https://medium.com/p/512f5039553d) |
+| Wed, 11 Jun 2025 15:41:30 GMT | Cybersecurity Threat Hunting Runbook: Detecting APT38/Lazarus Group Activities | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/3242b113bf04) |
+| Wed, 11 Jun 2025 15:40:16 GMT | Initial Access in Red Team Operations | Lord Murak | [Read More](https://medium.com/p/93e57d75c389) |
 | Wed, 11 Jun 2025 15:27:46 GMT | Vibe Hacking Explained: Protecting Your Systems from One-Click AI Attacks | Rishabh Shrivastava | [Read More](https://medium.com/p/4cb08a6ad6d5) |
 | Wed, 11 Jun 2025 15:18:00 GMT | Emotional vulnerability leads to strong, meaningful, and deep connections. | Ifrah | [Read More](https://medium.com/p/84a9b5999629) |
 | Wed, 11 Jun 2025 15:17:45 GMT | €300 just by bug race condition | Zeta | [Read More](https://medium.com/p/9ad2d912921f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 10:47:46 GMT | Top 10 Cybersecurity Best Practices Every Employee Should Follow | West Advanced Technologies Inc | [Read More](https://medium.com/p/7fba3f1800ec) |
 | Wed, 11 Jun 2025 10:39:55 GMT | Enhancing Safety: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/28845ff2f8c5) |
 | Wed, 11 Jun 2025 10:39:18 GMT | Essential Pentesting Tools for Effective Recon and Enumeration | Hades | [Read More](https://medium.com/p/4263a5821c33) |
-| Wed, 11 Jun 2025 10:37:41 GMT | Apa itu Elliptic Curve Cryptography (ECC) ? | Ivo Arlian | [Read More](https://medium.com/p/846974ad34e7) |
-| Wed, 11 Jun 2025 10:34:47 GMT | 2025 Crowdfunding Platform Recommendation: SOSST Helps You Move from Anxiety to Happiness, Join… | Free wind | [Read More](https://medium.com/p/6b3fc0f085ac) |
-| Wed, 11 Jun 2025 10:34:35 GMT | How I Built a DNS Tunneling Detection System with Zeek and Machine Learning (POC) | Edris Rahimi | [Read More](https://medium.com/p/64fa74f65748) |
-| Wed, 11 Jun 2025 10:33:35 GMT | Innovation Portfolio Management 2025: Der strategische Wegweiser für nachhaltiges Wachstum | Philip Hansen | [Read More](https://medium.com/p/22880f18d389) |
-| Wed, 11 Jun 2025 10:28:22 GMT | Everything Matters, Nothing Matters | Prachi Agrawal | [Read More](https://medium.com/p/3e01710c525d) |
-| Wed, 11 Jun 2025 10:21:35 GMT | How Early Movers Can Establish Themselves as Experts in Quantum Computing and Post-Quantum… | Mahetagaurang | [Read More](https://medium.com/p/9d23de80a21c) |
-| Wed, 11 Jun 2025 10:08:13 GMT | OAuth2verdrive: How Broken Token Exchange Let Me Log in as Any User | Iski | [Read More](https://medium.com/p/3f211de93bf1) |
-| Wed, 11 Jun 2025 10:05:22 GMT | Hybrid vs. Multi-Cloud Transformation: Choosing the Right Strategy for Your Business | IPSpecialist | [Read More](https://medium.com/p/5bc5f6fdf0e9) |
-| Wed, 11 Jun 2025 09:56:20 GMT | How to Protect Your Data Online: A Complete Guide | Shabnam Turk | [Read More](https://medium.com/p/b681b628ed6e) |
-| Wed, 11 Jun 2025 09:41:30 GMT | ⚠️ Actively Exploited Windows WebDAV 0-Day Vulnerability Exposes Systems to NTLM Credential Theft | Infoziant | [Read More](https://medium.com/p/46096ba3f9aa) |
-| Wed, 11 Jun 2025 09:38:49 GMT | How to Build Your First Hacking Home Lab — Without Burning Your Wallet (or Your House) | cybrNK | [Read More](https://medium.com/p/3007879ce58a) |
