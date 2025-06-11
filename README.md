@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 17:10:54 GMT | Designing Spear Phishing Attacks Using Behavioral Psychology and Neuroscience | matitanium | [Read More](https://medium.com/p/a260301391fb) |
+| Wed, 11 Jun 2025 17:08:28 GMT | Domain Enumeration with ldapdomaindump -- Active Directory Pentesting -- Part 8. | Muhammadhuzaifa | [Read More](https://medium.com/p/c4e36368c0e5) |
+| Wed, 11 Jun 2025 17:07:59 GMT | TryHackMe Write-up: PS Eclipse | Robert Onyango | [Read More](https://medium.com/p/7c9d021c52e7) |
+| Wed, 11 Jun 2025 17:00:23 GMT | What Comes After .pizza? Exploring the Next Wave of New gTLDs in 2026 | Marc McCutcheon | [Read More](https://medium.com/p/ca0815702b67) |
+| Wed, 11 Jun 2025 16:56:12 GMT | Track the Hacks: Zip Trap in the Stream — Network Forensic Case | byuda | [Read More](https://medium.com/p/42b4562d1850) |
+| Wed, 11 Jun 2025 16:54:54 GMT | Bengaluru couple loses ₹4.75 crore in ‘digital arrest’ fraud, two from Hyderabad held | Hacker news 07 | [Read More](https://medium.com/p/009444bfdd4d) |
+| Wed, 11 Jun 2025 16:54:49 GMT | eJPT Zero to Hero: CTF Network-Based Attacks | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/bd72135dce31) |
+| Wed, 11 Jun 2025 16:53:55 GMT | Así Recuperé Mi Dinero de Eronto.io | Lisa | [Read More](https://medium.com/p/2d7c11f6b252) |
+| Wed, 11 Jun 2025 16:50:59 GMT | The Electric Race Heats Up: Why Legacy Automakers Are Catching Up With Tesla | Lakshika | [Read More](https://medium.com/p/32c1f2d2c7a5) |
+| Wed, 11 Jun 2025 16:50:21 GMT | Day 60: Bash Scripting — File I/O for Cybersecurity Tasks | Agarwaldaksh | [Read More](https://medium.com/p/eff1690c8e7d) |
+| Wed, 11 Jun 2025 16:42:17 GMT | 5 Key Benefits of Managed SIEM Every Business Should Know | Smdefencerabbit | [Read More](https://medium.com/p/acfb208c91a2) |
 | Wed, 11 Jun 2025 16:42:05 GMT | How a Simple RECON Earned Me ₹XX,000 | Swarnim Bandekar | [Read More](https://medium.com/p/4282805d2eac) |
+| Wed, 11 Jun 2025 16:40:15 GMT | MobileHackingLab — Secure Notes | Mason Schmidt | [Read More](https://medium.com/p/3905d5cdbc96) |
 | Wed, 11 Jun 2025 16:38:45 GMT | My Experience With the eCPPTv3 Exam — A Deep-Dive Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/fb412137d565) |
 | Wed, 11 Jun 2025 16:37:10 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 2) | K1ngJok3r | [Read More](https://medium.com/p/f14a98169355) |
 | Wed, 11 Jun 2025 16:37:02 GMT | Bug Bounty for Beginners: How to Land Your First Payout in 2025 | Andrei Ivan | [Read More](https://medium.com/p/9068ef52cc47) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 12:01:50 GMT | Why I Don’t Use LocalStorage for Tokens — And What I Do Instead | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/0f61b943a87f) |
 | Wed, 11 Jun 2025 12:00:55 GMT | Texas DOT Breach: 300,000 Crash Reports Exposed | Saravanan R | [Read More](https://medium.com/p/52947604638f) |
 | Wed, 11 Jun 2025 11:56:16 GMT | Ethernaut #1 “Fallback”: How to exploit the receive function | Paul Ilvez | [Read More](https://medium.com/p/6bfd6c19a35) |
-| Wed, 11 Jun 2025 11:50:22 GMT | $647M Stolen — The May 2025 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/0abd96e06935) |
-| Wed, 11 Jun 2025 11:47:34 GMT | SolarWinds Hack: How 4,032 Lines of Code Compromised a Nation | 127.0.0.1 | [Read More](https://medium.com/p/070182a8d81c) |
-| Wed, 11 Jun 2025 11:45:56 GMT | AI Data Security Crisis: The Hidden Time Bomb Threatening Every Organization in 2025 | Technijian | [Read More](https://medium.com/p/5bd78b78be76) |
-| Wed, 11 Jun 2025 11:43:47 GMT | Bypassing Open Redirect Filters Using Creative URL Manipulation | Abdelrahman Fathy | [Read More](https://medium.com/p/b43aa3a61cc8) |
-| Wed, 11 Jun 2025 11:42:51 GMT | Remote Code Execution: Critical Security Flaw | Monika sharma | [Read More](https://medium.com/p/9bc9b71b8b49) |
-| Wed, 11 Jun 2025 11:31:03 GMT | SQL Injection for Beginners to Advanced: Including RCE (Remote Code Execution) | VAISHALI KUMARI | [Read More](https://medium.com/p/5e79a3fa1bbb) |
-| Wed, 11 Jun 2025 11:11:52 GMT | Web3 Cryptography: Penjelasan Lengkap | Ivo Arlian | [Read More](https://medium.com/p/e98a3ff6987c) |
-| Wed, 11 Jun 2025 11:09:13 GMT | Who needs Incident Remediation Service today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/413091ddb3d3) |
-| Wed, 11 Jun 2025 11:08:15 GMT | The WPA2 Reality Check: Common Attacks and Modern Defenses | Richard Mader | [Read More](https://medium.com/p/ce649930c4ba) |
-| Wed, 11 Jun 2025 11:07:45 GMT | When Your React Native File Uploads Turn Your App Into a Frozen Potato | Ankit | [Read More](https://medium.com/p/898b8e1054e4) |
-| Wed, 11 Jun 2025 11:00:57 GMT | Digital Certificates. What are they? Why are they important? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/987e570b7184) |
-| Wed, 11 Jun 2025 10:59:47 GMT | How Does a Pentester Know Where to Look for LFI? | Zoningxtr | [Read More](https://medium.com/p/d1a8d9fb1451) |
