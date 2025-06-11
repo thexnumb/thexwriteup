@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 05:35:25 GMT | Top 100+ Web Vulnerabilities, Categorised Into Various Types | Ssali Prosper Yasin | [Read More](https://medium.com/p/62130b6d5bb1) |
 | Wed, 11 Jun 2025 05:09:44 GMT | How a Simple Port Scan Led to a $500 Google Reward | Jebarson Immanuel | [Read More](https://medium.com/p/39d80e2e3fef) |
 | Wed, 11 Jun 2025 05:06:45 GMT | You Don’t Have to Be the Strong One All the Time. | LILLY | [Read More](https://medium.com/p/92847edd5e80) |
 | Wed, 11 Jun 2025 04:53:34 GMT | Hello, I’m Sharisha Davis – Building My Next Chapter | Sharisha Davis | [Read More](https://medium.com/p/e4ce732a8b26) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 18:41:04 GMT | Hacking EPMD | RE4PER | [Read More](https://medium.com/p/f869f1685321) |
 | Tue, 10 Jun 2025 18:37:11 GMT | HELP! | Praise Ejiro | [Read More](https://medium.com/p/10aaa06d3b01) |
 | Tue, 10 Jun 2025 18:25:50 GMT | The Windows Security Journey — Group Managed Service Account (gMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/467bd387f5a6) |
-| Tue, 10 Jun 2025 18:24:18 GMT | What I Learned About DNS Spoofing and ARP Poisoning | Prateek Savanur | [Read More](https://medium.com/p/4ee7dd60c935) |
