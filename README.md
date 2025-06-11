@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 11:31:03 GMT | SQL Injection for Beginners to Advanced: Including RCE (Remote Code Execution) | VAISHALI KUMARI | [Read More](https://medium.com/p/5e79a3fa1bbb) |
 | Wed, 11 Jun 2025 11:11:52 GMT | Web3 Cryptography: Penjelasan Lengkap | Ivo Arlian | [Read More](https://medium.com/p/e98a3ff6987c) |
 | Wed, 11 Jun 2025 11:09:13 GMT | Who needs Incident Remediation Service today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/413091ddb3d3) |
 | Wed, 11 Jun 2025 11:08:15 GMT | The WPA2 Reality Check: Common Attacks and Modern Defenses | Richard Mader | [Read More](https://medium.com/p/ce649930c4ba) |
@@ -112,4 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 05:55:09 GMT | How AI and ML Integration Shapes the Future of IT Security | MIT School of Distance Education | [Read More](https://medium.com/p/50afe1414639) |
 | Wed, 11 Jun 2025 05:51:00 GMT | Mengupas ICS/SCADA: Sistem Industri yang Rentan Diserang Hacker | Muhammad Fikri Fahrezi | [Read More](https://medium.com/p/d8aca46b82d0) |
 | Wed, 11 Jun 2025 05:50:14 GMT | DevSecOps: Making Security a Feature, Not a Friction | Aayushi Sinha | [Read More](https://medium.com/p/e8c39c05c782) |
-| Wed, 11 Jun 2025 05:49:37 GMT | 332 Incredible Headlines With Over 10,000 Claps Each" | S Anuradha | [Read More](https://medium.com/p/2fa600baa3d0) |
