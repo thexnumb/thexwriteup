@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 07:35:33 GMT | The Daily Tech Digest: 11 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8c208140c615) |
+| Wed, 11 Jun 2025 07:34:15 GMT | Shadows of the | Tales of Nyx | [Read More](https://medium.com/p/cf8da0969913) |
+| Wed, 11 Jun 2025 07:30:57 GMT | TryHackMe - Multi-Factor Authentication - WriteUp | Axoloth | [Read More](https://medium.com/p/c7b6ac99a0fa) |
+| Wed, 11 Jun 2025 07:27:08 GMT | Top e-Commerce Fraud Trends and How Prevention Tools Are Evolving in 2025 | Gargiben | [Read More](https://medium.com/p/08c5ab952405) |
+| Wed, 11 Jun 2025 07:26:36 GMT | MIND HUNTER: Can You Crack The Code? | Saikat Paul | [Read More](https://medium.com/p/788bea88f4a2) |
+| Wed, 11 Jun 2025 07:26:15 GMT | Cyber Threats Rising? Dubai’s Best Company Acts Fast | RedTeamsaniga Suresh | [Read More](https://medium.com/p/e19bd45598d0) |
+| Wed, 11 Jun 2025 07:25:52 GMT | How to Secure Your FinTech App from Cyber Threats in 2025 | OptiSol Business Solutions | [Read More](https://medium.com/p/abd802204196) |
+| Wed, 11 Jun 2025 07:23:35 GMT | What Happens When You Enter the Wrong Password on Your Phone — and Why That 30-Second Delay Matters | Jiya Agrawal | [Read More](https://medium.com/p/753cab8ed853) |
+| Wed, 11 Jun 2025 07:22:43 GMT | How to Ask ChatGPT Smarter Questions and Avoid Made-Up Answers | Karcey | [Read More](https://medium.com/p/20309c0f9ce6) |
 | Wed, 11 Jun 2025 07:21:11 GMT | How Hackers Achieve Invisible Persistence in Active Directory: Shadow Credentials &… | Anezaneo | [Read More](https://medium.com/p/6b53a6c85e74) |
 | Wed, 11 Jun 2025 07:19:58 GMT | Parameter Pollution: How to Hunt Silent Access Bugs | Monika sharma | [Read More](https://medium.com/p/922863d0498e) |
 | Wed, 11 Jun 2025 07:10:48 GMT | PJPT Certification with Zero Work Experience: Here’s My Story | Athiwat Tiprasaharn | [Read More](https://medium.com/p/284ac9efcdaa) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 20:49:21 GMT | How Discord Bans Users on a Server | Nube Colectiva | [Read More](https://medium.com/p/ebbeded97834) |
 | Tue, 10 Jun 2025 20:47:18 GMT | How to get information about phone number using kali linux? | Cyril Cyriac | [Read More](https://medium.com/p/1f3d70ac72c8) |
 | Tue, 10 Jun 2025 20:46:43 GMT | Cybersecurity Built In, Not Bolted On | Rahul Kaklotar | [Read More](https://medium.com/p/9d19497bb2ce) |
-| Tue, 10 Jun 2025 20:46:43 GMT | NIS2 Compliance vs. Good Cybersecurity: Understanding the Crucial Differences | J Bodys | [Read More](https://medium.com/p/6f0c7cf5ec9e) |
-| Tue, 10 Jun 2025 20:46:43 GMT | ¿Cuál es el significado del software libre? | Tiziano Mass | [Read More](https://medium.com/p/1da6dfaa9bbb) |
-| Tue, 10 Jun 2025 20:45:51 GMT | Cyber Risk Analysis: Types, Calculation Methods, and Real-World Examples | Robertpurpose | [Read More](https://medium.com/p/da2d8afe6837) |
-| Tue, 10 Jun 2025 20:43:53 GMT | Introduction to Penetration Testing and Methodologies | Tharindu Damith | [Read More](https://medium.com/p/cc649b4768bc) |
-| Tue, 10 Jun 2025 20:43:30 GMT | Damn Vulnerable DeFi — #04 Side Entrance | 0xByteKnight | [Read More](https://medium.com/p/0c13e6d48258) |
-| Tue, 10 Jun 2025 20:26:34 GMT | The $10K/Month Bug Bounty Machine: A Step-by-Step Guide to Building a Collaborative Recon Pipeline… | Andrei Ivan | [Read More](https://medium.com/p/7b1d357ddd5d) |
-| Tue, 10 Jun 2025 20:24:20 GMT | The Forger’s Art | Thomas F McGeehan V | [Read More](https://medium.com/p/9148eb508406) |
-| Tue, 10 Jun 2025 20:19:13 GMT | MobileHackingLab — Post Board | Mason Schmidt | [Read More](https://medium.com/p/ad3f7f6a2aea) |
-| Tue, 10 Jun 2025 20:11:55 GMT | Exploiting the DC-01 Machine: | Abdullah Khalid | [Read More](https://medium.com/p/a467e0329919) |
