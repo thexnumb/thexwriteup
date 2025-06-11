@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 12:40:22 GMT | The Book That Tried to Save the Internet | Abdul-mu'min Omotola | [Read More](https://medium.com/p/4ba8de20d660) |
+| Wed, 11 Jun 2025 12:38:29 GMT | You Need Only One Reason to Learn Cybersecurity in 2025 | Himanshu Gupta | [Read More](https://medium.com/p/ea4e73ab9077) |
+| Wed, 11 Jun 2025 12:25:53 GMT | His Private Key Is with Me Now ¯\_(ツ)_/¯ : Man in The Middle on TLS 1.2 Connection in C | Taehoon Yoon | [Read More](https://medium.com/p/59add7e9efe0) |
+| Wed, 11 Jun 2025 12:20:35 GMT | Beyond the Hype: I Analyzed 3 Real-World LLM Prompt Injection Attacks | Andrei Ivan | [Read More](https://medium.com/p/61660aabc840) |
+| Wed, 11 Jun 2025 12:17:31 GMT | How Cybersecurity Is Shaping Software Development in Saudi Arabia | Techgropse | [Read More](https://medium.com/p/33f25d99e654) |
+| Wed, 11 Jun 2025 12:12:14 GMT | Cybersecurity Lab Setup Using Splunk and Snort | Amalpp | [Read More](https://medium.com/p/396e2933a6c0) |
+| Wed, 11 Jun 2025 12:12:11 GMT | Header: Hackers Steal 300,000 Texas Crash Reports in Cyberattack | MohitV | [Read More](https://medium.com/p/2a20735d7250) |
+| Wed, 11 Jun 2025 12:06:57 GMT | Texas DOT’s Crash Data Rodeo: Hackers Snag 300,000 Reports | Akash P | [Read More](https://medium.com/p/bb6362972f0d) |
+| Wed, 11 Jun 2025 12:06:53 GMT | If you’ve scrolled through LinkedIn recently, you might have noticed something new — a little… | Chordiyajiya | [Read More](https://medium.com/p/24d6162c321c) |
+| Wed, 11 Jun 2025 12:01:50 GMT | Why I Don’t Use LocalStorage for Tokens — And What I Do Instead | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/0f61b943a87f) |
+| Wed, 11 Jun 2025 12:00:55 GMT | Texas DOT Breach: 300,000 Crash Reports Exposed | Saravanan R | [Read More](https://medium.com/p/52947604638f) |
+| Wed, 11 Jun 2025 11:56:16 GMT | Ethernaut #1 “Fallback”: How to exploit the receive function | Paul Ilvez | [Read More](https://medium.com/p/6bfd6c19a35) |
+| Wed, 11 Jun 2025 11:50:22 GMT | $647M Stolen — The May 2025 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/0abd96e06935) |
+| Wed, 11 Jun 2025 11:47:34 GMT | SolarWinds Hack: How 4,032 Lines of Code Compromised a Nation | 127.0.0.1 | [Read More](https://medium.com/p/070182a8d81c) |
+| Wed, 11 Jun 2025 11:45:56 GMT | AI Data Security Crisis: The Hidden Time Bomb Threatening Every Organization in 2025 | Technijian | [Read More](https://medium.com/p/5bd78b78be76) |
+| Wed, 11 Jun 2025 11:43:47 GMT | Bypassing Open Redirect Filters Using Creative URL Manipulation | Abdelrahman Fathy | [Read More](https://medium.com/p/b43aa3a61cc8) |
+| Wed, 11 Jun 2025 11:42:51 GMT | Remote Code Execution: Critical Security Flaw | Monika sharma | [Read More](https://medium.com/p/9bc9b71b8b49) |
 | Wed, 11 Jun 2025 11:31:03 GMT | SQL Injection for Beginners to Advanced: Including RCE (Remote Code Execution) | VAISHALI KUMARI | [Read More](https://medium.com/p/5e79a3fa1bbb) |
 | Wed, 11 Jun 2025 11:11:52 GMT | Web3 Cryptography: Penjelasan Lengkap | Ivo Arlian | [Read More](https://medium.com/p/e98a3ff6987c) |
 | Wed, 11 Jun 2025 11:09:13 GMT | Who needs Incident Remediation Service today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/413091ddb3d3) |
@@ -96,20 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 07:01:44 GMT | Industrial Plant Security | Presslink Media | [Read More](https://medium.com/p/219fbd0edab1) |
 | Wed, 11 Jun 2025 07:00:07 GMT | Inside the OWASP AIVSS | David Campbell | [Read More](https://medium.com/p/4a19b429717c) |
 | Wed, 11 Jun 2025 06:51:50 GMT | How I Hunted Secret Express.js Endpoints With ffuf and Nuclei (And Found Some Spicy Stuff) | Rahimuddin Alrashel | [Read More](https://medium.com/p/7f4939a1ed56) |
-| Wed, 11 Jun 2025 06:51:39 GMT | The DPRK, Cryptocurrency, and Bombs | Yoihen Elangbam | [Read More](https://medium.com/p/1706704d4f9a) |
-| Wed, 11 Jun 2025 06:51:29 GMT | A Simple Passive Recon to Find Some Bugs | Faxcl | [Read More](https://medium.com/p/aa34b6265820) |
-| Wed, 11 Jun 2025 06:50:56 GMT | Mimicking the Brain, Fooling the System: Why Investors Should Pay Attention to the Next… | Tarana Kochhar | [Read More](https://medium.com/p/1bebc6d58fff) |
-| Wed, 11 Jun 2025 06:48:21 GMT | The systematic persecution of arrests of Kosovo citizens by the Serbian regime, international… | Uncensored Reporter | [Read More](https://medium.com/p/304d0f589a69) |
-| Wed, 11 Jun 2025 06:39:22 GMT | Bayside Security Screens | Brisbane Security Screens | [Read More](https://medium.com/p/cba81d527027) |
-| Wed, 11 Jun 2025 06:33:01 GMT | Why Background Checks Matter More Than Ever in 2025 | Mariiatata | [Read More](https://medium.com/p/12345b1d0b47) |
-| Wed, 11 Jun 2025 06:31:38 GMT | Quick Signs That a Photo Has Been Edited or Faked (Basic) | Ingvar Pavlovich | [Read More](https://medium.com/p/6f4e68dd999c) |
-| Wed, 11 Jun 2025 06:25:32 GMT | Türkiye’s First Cybersecurity Law: A Critical Step Toward National Cyber Sovereignty | Cyber Juris | [Read More](https://medium.com/p/0530751f4596) |
-| Wed, 11 Jun 2025 06:23:40 GMT | Tokenization: The Future of Everything You Own | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/4d1cf3e514e3) |
-| Wed, 11 Jun 2025 06:17:05 GMT | Securing the Python Ecosystem with Chainguard Malware Resistant Libraries | Py-Core Python Programming | [Read More](https://medium.com/p/533bf492551b) |
-| Wed, 11 Jun 2025 06:11:18 GMT | Want to Deter Crime and Enhance Safety? | Emilyeliza | [Read More](https://medium.com/p/5448fca543f6) |
-| Wed, 11 Jun 2025 06:02:40 GMT | Architects, Don’t Skip Leg Day: Fitness Functions Matter | Oscar van der Leij | [Read More](https://medium.com/p/ef16ab9ed012) |
-| Wed, 11 Jun 2025 06:00:27 GMT | Today’s Top Cyber Intelligence Highlights — Jun 11, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8f647eac8d75) |
-| Wed, 11 Jun 2025 05:57:26 GMT | Authentication part-5 : Username enumeration via response timing | Ahmad Sopyan | [Read More](https://medium.com/p/9b362f24393e) |
-| Wed, 11 Jun 2025 05:55:09 GMT | How AI and ML Integration Shapes the Future of IT Security | MIT School of Distance Education | [Read More](https://medium.com/p/50afe1414639) |
-| Wed, 11 Jun 2025 05:51:00 GMT | Mengupas ICS/SCADA: Sistem Industri yang Rentan Diserang Hacker | Muhammad Fikri Fahrezi | [Read More](https://medium.com/p/d8aca46b82d0) |
-| Wed, 11 Jun 2025 05:50:14 GMT | DevSecOps: Making Security a Feature, Not a Friction | Aayushi Sinha | [Read More](https://medium.com/p/e8c39c05c782) |
