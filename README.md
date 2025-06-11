@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 16:42:05 GMT | How a Simple RECON Earned Me ₹XX,000 | Swarnim Bandekar | [Read More](https://medium.com/p/4282805d2eac) |
+| Wed, 11 Jun 2025 16:38:45 GMT | My Experience With the eCPPTv3 Exam — A Deep-Dive Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/fb412137d565) |
+| Wed, 11 Jun 2025 16:37:10 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 2) | K1ngJok3r | [Read More](https://medium.com/p/f14a98169355) |
+| Wed, 11 Jun 2025 16:37:02 GMT | Bug Bounty for Beginners: How to Land Your First Payout in 2025 | Andrei Ivan | [Read More](https://medium.com/p/9068ef52cc47) |
+| Wed, 11 Jun 2025 16:36:21 GMT | CTF Writeup — TJCTF 2025 — loopy | embossdotar | [Read More](https://medium.com/p/5fdade94f7fa) |
+| Wed, 11 Jun 2025 16:34:13 GMT | The Quiet Beauty of Silence | Stefanie K | [Read More](https://medium.com/p/5b6038104927) |
+| Wed, 11 Jun 2025 16:28:47 GMT | Flash Coins & Fake Transactions: What You Need to Know | Nap Ove | [Read More](https://medium.com/p/8024a53bea55) |
 | Wed, 11 Jun 2025 16:21:43 GMT | Terraform Secrets: Keep Your Sensitive Data Safe (and Sound). | David Washington | [Read More](https://medium.com/p/77201ca25923) |
 | Wed, 11 Jun 2025 16:16:45 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 1) | K1ngJok3r | [Read More](https://medium.com/p/718c001ec809) |
 | Wed, 11 Jun 2025 16:15:19 GMT | How Scammers Fake Crypto Transactions in 2025 — What You Need to Know | Nap Ove | [Read More](https://medium.com/p/7d0a2b8230a3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 11:07:45 GMT | When Your React Native File Uploads Turn Your App Into a Frozen Potato | Ankit | [Read More](https://medium.com/p/898b8e1054e4) |
 | Wed, 11 Jun 2025 11:00:57 GMT | Digital Certificates. What are they? Why are they important? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/987e570b7184) |
 | Wed, 11 Jun 2025 10:59:47 GMT | How Does a Pentester Know Where to Look for LFI? | Zoningxtr | [Read More](https://medium.com/p/d1a8d9fb1451) |
-| Wed, 11 Jun 2025 10:56:33 GMT | Authorization Bypass | VAISHALI KUMARI | [Read More](https://medium.com/p/9ff4f88118d7) |
-| Wed, 11 Jun 2025 10:52:16 GMT | Cloud Sentinel Side-Story: “System Logs & Shadow Shells” | Tyron Flagg | [Read More](https://medium.com/p/79a247c3c59b) |
-| Wed, 11 Jun 2025 10:49:57 GMT | I Tried Every Code Editor So You Don’t Have To (Spoiler: The Winner Surprised Me) | Saikat Paul | [Read More](https://medium.com/p/615d8b1a7c9d) |
-| Wed, 11 Jun 2025 10:49:41 GMT | Threats terhadap ECC | Ivo Arlian | [Read More](https://medium.com/p/380bb747157b) |
-| Wed, 11 Jun 2025 10:47:46 GMT | Top 10 Cybersecurity Best Practices Every Employee Should Follow | West Advanced Technologies Inc | [Read More](https://medium.com/p/7fba3f1800ec) |
-| Wed, 11 Jun 2025 10:39:55 GMT | Enhancing Safety: The Growing Importance of Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/28845ff2f8c5) |
-| Wed, 11 Jun 2025 10:39:18 GMT | Essential Pentesting Tools for Effective Recon and Enumeration | Hades | [Read More](https://medium.com/p/4263a5821c33) |
