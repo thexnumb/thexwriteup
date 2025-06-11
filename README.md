@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 22:34:22 GMT | Not All Test Labs Are Equal: How to Choose a Trustworthy Testing Vendor | Medcrypt | [Read More](https://medium.com/p/29c5e71a042e) |
+| Wed, 11 Jun 2025 22:30:26 GMT | “HACKERONE” I Didn’t Break It — I Just Showed It Was Already Fragile | Obmanwikobmanwik | [Read More](https://medium.com/p/07fbef692e2c) |
+| Wed, 11 Jun 2025 22:26:18 GMT | Be careful with the “Fintechee” Chinese crypto platform | Abzaileo45 | [Read More](https://medium.com/p/176bc9a1e705) |
+| Wed, 11 Jun 2025 22:19:38 GMT | Why Cybersecurity Is So Lucrative for Criminals and How We Can Fight Back – Osita Oparaugo, Esq | GetBundi | [Read More](https://medium.com/p/74ad3915654e) |
+| Wed, 11 Jun 2025 22:16:40 GMT | Top 20 Automation Scripts for Ethical Hackers and Security Analysts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1f5a0954d481) |
 | Wed, 11 Jun 2025 22:11:51 GMT | Dive into 2025’s Hacking Hellscape | Inforsecpro | [Read More](https://medium.com/p/6d7d1512f592) |
 | Wed, 11 Jun 2025 22:06:09 GMT | Web Application Penetration Testing | 0xLuk3 | [Read More](https://medium.com/p/16bb5e212905) |
 | Wed, 11 Jun 2025 22:05:53 GMT | How to Stay Safe in Crypto 2025: 7 Common Scams and How to Avoid Them | Lolia Banigo | [Read More](https://medium.com/p/3ffb0b32c675) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 15:58:55 GMT | Let’s be honest — if you’ve worked in Facility Management or any service industry, you’ve… | EXLITY | [Read More](https://medium.com/p/6531db24eb6d) |
 | Wed, 11 Jun 2025 15:55:19 GMT | Build Your Mini AI SOC — All on a Shoestring Budget | Abdellaoui Ahmed | [Read More](https://medium.com/p/8e2b8b0c445f) |
 | Wed, 11 Jun 2025 15:43:54 GMT | Detecting Malicious Infrastructure Through SSL/TLS Certificates | Sukant Kumar | [Read More](https://medium.com/p/512f5039553d) |
-| Wed, 11 Jun 2025 15:41:30 GMT | Cybersecurity Threat Hunting Runbook: Detecting APT38/Lazarus Group Activities | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/3242b113bf04) |
-| Wed, 11 Jun 2025 15:40:16 GMT | Initial Access in Red Team Operations | Lord Murak | [Read More](https://medium.com/p/93e57d75c389) |
-| Wed, 11 Jun 2025 15:27:46 GMT | Vibe Hacking Explained: Protecting Your Systems from One-Click AI Attacks | Rishabh Shrivastava | [Read More](https://medium.com/p/4cb08a6ad6d5) |
-| Wed, 11 Jun 2025 15:18:00 GMT | Emotional vulnerability leads to strong, meaningful, and deep connections. | Ifrah | [Read More](https://medium.com/p/84a9b5999629) |
-| Wed, 11 Jun 2025 15:17:45 GMT | €300 just by bug race condition | Zeta | [Read More](https://medium.com/p/9ad2d912921f) |
