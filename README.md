@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 03:44:12 GMT | A Letter from the Strong One | Anya Dunes | [Read More](https://medium.com/p/513e25e07c27) |
+| Wed, 11 Jun 2025 03:43:32 GMT | Fixing the Confusion: What Risk Actually Means in Cybersecurity | John Vivona | [Read More](https://medium.com/p/08d0a48f389d) |
+| Wed, 11 Jun 2025 03:33:47 GMT | OverTheWire Natas Level 12— Level 24 | k1dd05z | [Read More](https://medium.com/p/2536b19f0958) |
+| Wed, 11 Jun 2025 03:32:34 GMT | Navigating the Digital Fault Line: Inside the Laboratory Services Cooperative (LSC) Data Breach | Deven Chhajed | [Read More](https://medium.com/p/56a3c1aa0208) |
+| Wed, 11 Jun 2025 03:21:51 GMT | What if Every Call You Make Is Already Being Recorded? | Reid Madduxx | [Read More](https://medium.com/p/dc4b37e97b0c) |
 | Wed, 11 Jun 2025 03:14:42 GMT | Forest is an easy-level Windows machine on Hack The Box, designed to introduce players to… | Ro0fC4t | [Read More](https://medium.com/p/f04f1096f591) |
 | Wed, 11 Jun 2025 02:31:36 GMT | The (IoT) :- Today’s Revolution & Tomorrow’s Tech Frontier | LEANSIMCORP | [Read More](https://medium.com/p/005d85331c44) |
 | Wed, 11 Jun 2025 02:28:59 GMT | Evasion in Pieces: Reconstructing Tools in Memory to Slip Past EDR | awpsec | [Read More](https://medium.com/p/db58e6d7295e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 17:52:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/a0dd3c1ffe22) |
 | Tue, 10 Jun 2025 17:47:47 GMT | Comprehensive Phishing Email Analysis Guide | Venkatesh | [Read More](https://medium.com/p/90533c39858b) |
 | Tue, 10 Jun 2025 17:46:33 GMT | SBOM and Penetration Testing: How They Work Together to Strengthen Supply Chain Security | Black Lock | [Read More](https://medium.com/p/597e27af1db3) |
-| Tue, 10 Jun 2025 17:44:53 GMT | Open Shortest Path First (OSPF) — The Automated Routing Protocol. | Joanorifha | [Read More](https://medium.com/p/983490e13339) |
-| Tue, 10 Jun 2025 17:42:16 GMT | LinkedIn’s New Daily Game “Pinpoint” – Can You Guess the Connection? | Chordiyajiya | [Read More](https://medium.com/p/0cb235d3f04f) |
-| Tue, 10 Jun 2025 17:39:23 GMT | How Managed IT Services Can Boost Startup Scalability | Rapidise Inc | [Read More](https://medium.com/p/96a6534483ef) |
-| Tue, 10 Jun 2025 17:29:04 GMT | Config Editor Lab — Mobile Hacking Lab | Mahmoudelmansory | [Read More](https://medium.com/p/ddcf1a28683a) |
-| Tue, 10 Jun 2025 17:22:37 GMT | Top Cybersecurity Compliance Requirements in NZ and How to Meet Them with Pen Testing | Black Lock | [Read More](https://medium.com/p/1dd16c1addfe) |
