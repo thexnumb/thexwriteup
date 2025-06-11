@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 08:28:37 GMT | How I Earned My First $200 Bounty | Mdsafiulislam | [Read More](https://medium.com/p/f3cc3826f5f5) |
+| Wed, 11 Jun 2025 08:24:54 GMT | APIs Are Eating the World But Who’s Securing the Cutlery? | Ozonuwe Onyenike | [Read More](https://medium.com/p/881841984e69) |
+| Wed, 11 Jun 2025 08:22:32 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/0b61265b0027) |
+| Wed, 11 Jun 2025 08:19:19 GMT | Crashing the Internet: A Deep Dive into DoS and DDoS Attacks | Leroyanand | [Read More](https://medium.com/p/a8df60661fac) |
+| Wed, 11 Jun 2025 08:16:59 GMT | Top 10 Questions to Ask Your Blockchain Security Auditor | Decrypt0 | [Read More](https://medium.com/p/cc372356bda1) |
+| Wed, 11 Jun 2025 08:16:19 GMT | Quantum Computers, the Jewels of Computing and Fearsome Weapons of War | Galaxy_Nasa | [Read More](https://medium.com/p/cf24d698289e) |
+| Wed, 11 Jun 2025 08:15:58 GMT | AI Penetration Testing Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/732a9b4e5318) |
+| Wed, 11 Jun 2025 08:14:54 GMT | Why Your Linux Machine is Probably Less Secure Than You Think (And How to Fix It) | Saikat Paul | [Read More](https://medium.com/p/c4034ab58129) |
+| Wed, 11 Jun 2025 08:10:32 GMT | The Container Wars: Why Your AI Models Don’t Care About Docker vs Podman (But You Should) | Saikat Paul | [Read More](https://medium.com/p/8b5b897ab75d) |
+| Wed, 11 Jun 2025 08:02:34 GMT | Why use machine learning in cybersecurity? | Bhuvana Medicherla | [Read More](https://medium.com/p/3b21dc7d8431) |
+| Wed, 11 Jun 2025 08:02:27 GMT | Are Your Systems Secure? Best Penetration Testing Services in Dubai | RedTeamsaniga Suresh | [Read More](https://medium.com/p/1b61e23255f2) |
+| Wed, 11 Jun 2025 07:59:09 GMT | Your Personal AI Assistant: How to Run ChatGPT-Level Models on Ubuntu (Without Paying a Cent) | Saikat Paul | [Read More](https://medium.com/p/be92ada12dea) |
+| Wed, 11 Jun 2025 07:57:45 GMT | Why Mobile Patrol Services Are the Smartest Way to Secure Your Property 24/7? | Sumintra | [Read More](https://medium.com/p/a53f5cceed84) |
+| Wed, 11 Jun 2025 07:57:38 GMT | Farewell, My Shell
+Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More](https://medium.com/p/c6723b21d6a3) |
+| Wed, 11 Jun 2025 07:52:36 GMT | Corporate Absurdities: The Rise of Sanctioned Ineptitude | Namir Sagheenanajar | [Read More](https://medium.com/p/7e0fbb141e44) |
+| Wed, 11 Jun 2025 07:51:53 GMT | Blockchain for Brain Signal Provenance | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ddf29908686a) |
+| Wed, 11 Jun 2025 07:51:45 GMT | Best Practices for Prompt Engineering: Real Tips I Wish I Knew Before Automating DevOps | AbdulRahman Mostafa | [Read More](https://medium.com/p/389d91cc6231) |
+| Wed, 11 Jun 2025 07:44:27 GMT | Protect Your Business with VAPT Services in Dubai | RedTeamsaniga Suresh | [Read More](https://medium.com/p/3356e5d74df8) |
 | Wed, 11 Jun 2025 07:35:33 GMT | The Daily Tech Digest: 11 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8c208140c615) |
 | Wed, 11 Jun 2025 07:34:15 GMT | Shadows of the | Tales of Nyx | [Read More](https://medium.com/p/cf8da0969913) |
 | Wed, 11 Jun 2025 07:30:57 GMT | TryHackMe - Multi-Factor Authentication - WriteUp | Axoloth | [Read More](https://medium.com/p/c7b6ac99a0fa) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 22:48:32 GMT | Um Guia Prático de Como Proteger Suas Contas | Pedro Costa | [Read More](https://medium.com/p/1049f7adc720) |
 | Tue, 10 Jun 2025 22:17:28 GMT | Phishing Incident Response | Azeez Wasiu Babatunde | [Read More](https://medium.com/p/ee5a3c18652f) |
 | Tue, 10 Jun 2025 22:16:41 GMT | Maintaining Persistence After Exploiting Network Services: A Red Teamer’s Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/187dc81e0e08) |
-| Tue, 10 Jun 2025 22:02:33 GMT | Evil Twin attacks with eaphammer | anonymous howtos | [Read More](https://medium.com/p/dcdbedf6ab7f) |
-| Tue, 10 Jun 2025 22:00:57 GMT | The First Glyph | Obmanwikobmanwik | [Read More](https://medium.com/p/524c78f96494) |
-| Tue, 10 Jun 2025 21:54:30 GMT | Why Threat Agents Must be Included in Cybersecurity Risk Assessments | Matthew.Rosenquist | [Read More](https://medium.com/p/848d31db17dc) |
-| Tue, 10 Jun 2025 21:51:57 GMT | What GRC Actually Needs from AI (And What It Doesn’t) | Nikita Gupta | [Read More](https://medium.com/p/85aba9b302b6) |
-| Tue, 10 Jun 2025 21:51:34 GMT | How the System Starts to See Differently | Obmanwikobmanwik | [Read More](https://medium.com/p/8ea96edef7bb) |
-| Tue, 10 Jun 2025 21:42:21 GMT | Why Your CI Pipeline Needs Network Security (And How We Built It) | Depot | [Read More](https://medium.com/p/d80b4a416555) |
-| Tue, 10 Jun 2025 21:42:19 GMT | How to know you are (and not) a fit for Cybersecurity | Rifqi Ardia Ramadhan | [Read More](https://medium.com/p/1aa7af0db483) |
-| Tue, 10 Jun 2025 21:34:38 GMT | Jen Ellis of NextJenSecurity Joins CVE Board | CVE Program Blog | [Read More](https://medium.com/p/6c9ff4eded4c) |
-| Tue, 10 Jun 2025 21:29:12 GMT | Fractals Beyond Reality | Obmanwikobmanwik | [Read More](https://medium.com/p/41d2884cd27e) |
-| Tue, 10 Jun 2025 21:29:09 GMT | Best Crypto Asset Recovery Service | Thomasbrant | [Read More](https://medium.com/p/114d17151d3c) |
-| Tue, 10 Jun 2025 21:23:25 GMT | Five Ways to Protect Your Crypto: Simple Steps | Arx Locker | [Read More](https://medium.com/p/0eee8488c083) |
-| Tue, 10 Jun 2025 21:07:00 GMT | Modbus TCP üzerinden Endüstriyel Sistemlere Erişim : Modbus Slave ortamı | Tekin Emre | [Read More](https://medium.com/p/15554fa7175a) |
-| Tue, 10 Jun 2025 21:02:48 GMT | LummaC2 Uncovered: Detection Strategies for a Growing Stealer Threat | Rick Martin | [Read More](https://medium.com/p/03496681dd83) |
-| Tue, 10 Jun 2025 21:00:27 GMT | How i built a Vulnerability Assessment AI Model with Keras & Gemini Embeddings | Naebi Sede | [Read More](https://medium.com/p/71b9fa093777) |
-| Tue, 10 Jun 2025 20:49:50 GMT | On The Collapse of American Civil Society | Filin | [Read More](https://medium.com/p/262157f89760) |
-| Tue, 10 Jun 2025 20:49:21 GMT | How Discord Bans Users on a Server | Nube Colectiva | [Read More](https://medium.com/p/ebbeded97834) |
-| Tue, 10 Jun 2025 20:47:18 GMT | How to get information about phone number using kali linux? | Cyril Cyriac | [Read More](https://medium.com/p/1f3d70ac72c8) |
-| Tue, 10 Jun 2025 20:46:43 GMT | Cybersecurity Built In, Not Bolted On | Rahul Kaklotar | [Read More](https://medium.com/p/9d19497bb2ce) |
