@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 17:35:08 GMT | Wise Anti Malware: Your First Line of Defense Against New Threats | SafeAeon Inc. | [Read More](https://medium.com/p/e1750d1ac3d1) |
+| Wed, 11 Jun 2025 17:25:30 GMT | 24/724×7 SOC: Your Shield Against Around-the-Clock Threats | SafeAeon Inc. | [Read More](https://medium.com/p/88e71ddd7624) |
+| Wed, 11 Jun 2025 17:23:15 GMT | Reseña de Rontoxm.com - Así Recuperé Mi Dinero | Isco Patricio | [Read More](https://medium.com/p/3bf5c3e1ee30) |
+| Wed, 11 Jun 2025 17:22:33 GMT | OverTheWire: Wargames — Bandit Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/41483f6abd01) |
 | Wed, 11 Jun 2025 17:10:54 GMT | Designing Spear Phishing Attacks Using Behavioral Psychology and Neuroscience | matitanium | [Read More](https://medium.com/p/a260301391fb) |
 | Wed, 11 Jun 2025 17:08:28 GMT | Domain Enumeration with ldapdomaindump -- Active Directory Pentesting -- Part 8. | Muhammadhuzaifa | [Read More](https://medium.com/p/c4e36368c0e5) |
+| Wed, 11 Jun 2025 17:08:10 GMT | Rule Eight — What Tech Can Learn from John Cage’s Rule 8 | IBK Trevor | [Read More](https://medium.com/p/ed2ded456a17) |
 | Wed, 11 Jun 2025 17:07:59 GMT | TryHackMe Write-up: PS Eclipse | Robert Onyango | [Read More](https://medium.com/p/7c9d021c52e7) |
 | Wed, 11 Jun 2025 17:00:23 GMT | What Comes After .pizza? Exploring the Next Wave of New gTLDs in 2026 | Marc McCutcheon | [Read More](https://medium.com/p/ca0815702b67) |
 | Wed, 11 Jun 2025 16:56:12 GMT | Track the Hacks: Zip Trap in the Stream — Network Forensic Case | byuda | [Read More](https://medium.com/p/42b4562d1850) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 12:17:31 GMT | How Cybersecurity Is Shaping Software Development in Saudi Arabia | Techgropse | [Read More](https://medium.com/p/33f25d99e654) |
 | Wed, 11 Jun 2025 12:12:14 GMT | Cybersecurity Lab Setup Using Splunk and Snort | Amalpp | [Read More](https://medium.com/p/396e2933a6c0) |
 | Wed, 11 Jun 2025 12:12:11 GMT | Header: Hackers Steal 300,000 Texas Crash Reports in Cyberattack | MohitV | [Read More](https://medium.com/p/2a20735d7250) |
-| Wed, 11 Jun 2025 12:06:57 GMT | Texas DOT’s Crash Data Rodeo: Hackers Snag 300,000 Reports | Akash P | [Read More](https://medium.com/p/bb6362972f0d) |
-| Wed, 11 Jun 2025 12:06:53 GMT | If you’ve scrolled through LinkedIn recently, you might have noticed something new — a little… | Chordiyajiya | [Read More](https://medium.com/p/24d6162c321c) |
-| Wed, 11 Jun 2025 12:01:50 GMT | Why I Don’t Use LocalStorage for Tokens — And What I Do Instead | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/0f61b943a87f) |
-| Wed, 11 Jun 2025 12:00:55 GMT | Texas DOT Breach: 300,000 Crash Reports Exposed | Saravanan R | [Read More](https://medium.com/p/52947604638f) |
-| Wed, 11 Jun 2025 11:56:16 GMT | Ethernaut #1 “Fallback”: How to exploit the receive function | Paul Ilvez | [Read More](https://medium.com/p/6bfd6c19a35) |
