@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 03:14:42 GMT | Forest is an easy-level Windows machine on Hack The Box, designed to introduce players to… | Ro0fC4t | [Read More](https://medium.com/p/f04f1096f591) |
+| Wed, 11 Jun 2025 02:31:36 GMT | The (IoT) :- Today’s Revolution & Tomorrow’s Tech Frontier | LEANSIMCORP | [Read More](https://medium.com/p/005d85331c44) |
+| Wed, 11 Jun 2025 02:28:59 GMT | Evasion in Pieces: Reconstructing Tools in Memory to Slip Past EDR | awpsec | [Read More](https://medium.com/p/db58e6d7295e) |
+| Wed, 11 Jun 2025 02:22:16 GMT | eJPT Zero to Hero: System-Host Based Attacks CTF 2 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/406053caea9b) |
+| Wed, 11 Jun 2025 02:13:35 GMT | Mastering Nmap: A Deep Dive into Network Scanning Techniques — Part 2 | Seshu | [Read More](https://medium.com/p/d68f09193ede) |
+| Wed, 11 Jun 2025 02:02:11 GMT | AI Is Taking Over Your Commute: Self-Driving Cars, Smart Traffic & More! | Payaam Raza | [Read More](https://medium.com/p/c8cfccea424c) |
+| Wed, 11 Jun 2025 01:57:49 GMT | SOC205 EventID:231 — Malicious Macro has been executed — letsdefend.io | Jonathan Alphonse | [Read More](https://medium.com/p/ee62b5102307) |
 | Wed, 11 Jun 2025 01:32:31 GMT | Cyber Threat Intelligence and the Surface Web | mimo | [Read More](https://medium.com/p/d34042564279) |
 | Wed, 11 Jun 2025 01:30:22 GMT | Title: Her Silence Was a Mirror | Ghost In Gold Ink | [Read More](https://medium.com/p/3d54a39ba6fe) |
 | Wed, 11 Jun 2025 01:29:37 GMT | Why Japanese Companies Rely So Heavily on Consultants? | Shige Tanimoto | [Read More](https://medium.com/p/dd172c570dbd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 17:39:23 GMT | How Managed IT Services Can Boost Startup Scalability | Rapidise Inc | [Read More](https://medium.com/p/96a6534483ef) |
 | Tue, 10 Jun 2025 17:29:04 GMT | Config Editor Lab — Mobile Hacking Lab | Mahmoudelmansory | [Read More](https://medium.com/p/ddcf1a28683a) |
 | Tue, 10 Jun 2025 17:22:37 GMT | Top Cybersecurity Compliance Requirements in NZ and How to Meet Them with Pen Testing | Black Lock | [Read More](https://medium.com/p/1dd16c1addfe) |
-| Tue, 10 Jun 2025 17:21:28 GMT | Why Every Remote Developer Should Use a VPN in 2025 (And You Should Too) | The Minimalist Coder | [Read More](https://medium.com/p/b47d48f8218a) |
-| Tue, 10 Jun 2025 17:20:17 GMT | Elliptic Curve Cryptography (ECC) dalam Web3: Dasar, Cara Kerja, Implementasi, dan Ancaman | himawanazmi | [Read More](https://medium.com/p/8e8904166eba) |
-| Tue, 10 Jun 2025 17:16:51 GMT | Tusk Infostealer Lab | Jesús García Rubias | [Read More](https://medium.com/p/0715253c904d) |
-| Tue, 10 Jun 2025 17:16:24 GMT | How to Detect Vulnerable JavaScript Libraries with Retire.js | Nishanthan | [Read More](https://medium.com/p/9a8d44c52753) |
-| Tue, 10 Jun 2025 17:10:24 GMT | The Resume Trap: How FIN6 Is Using Fake Job Hunts to Breach Networks | Siva Gunasekaran | [Read More](https://medium.com/p/bf6881e2ed87) |
-| Tue, 10 Jun 2025 17:09:03 GMT | 2025–2026 Cybersecurity Trends | Rodion Orets | [Read More](https://medium.com/p/6c43964d3227) |
-| Tue, 10 Jun 2025 17:08:01 GMT | 0x01: Introduction to Active Directory Pentesting | Aswin Krishna PB | [Read More](https://medium.com/p/fa4576634f27) |
