@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 20:33:50 GMT | How to get into bug bounties — A list of resources V2.0 | Thexssrat | [Read More](https://medium.com/p/f01eb6bef0e4) |
+| Wed, 11 Jun 2025 20:28:48 GMT | Zero-Day Exploits: The Hidden Cyber Threat That Strikes Without Warning | Akshay Chauhan | [Read More](https://medium.com/p/730d278af0bc) |
+| Wed, 11 Jun 2025 20:24:21 GMT | Understanding Cyber Security Issues in Critical Infrastructure and the Energy Sector | Caleb Hopkins | [Read More](https://medium.com/p/da45e3dc7fb7) |
+| Wed, 11 Jun 2025 20:23:48 GMT | Reliable Security Services in Winnipeg by Central Protection | Jennawilliams | [Read More](https://medium.com/p/a721e4d52c3a) |
+| Wed, 11 Jun 2025 20:22:27 GMT | How to Talk to AI Like a Human | VTKL | [Read More](https://medium.com/p/adc11b7bdfec) |
 | Wed, 11 Jun 2025 20:13:59 GMT | 20+ Lesser-Known Linux Commands Every Hacker & Sysadmin Should Master | Very Lazy Tech | [Read More](https://medium.com/p/9f247b206aa5) |
 | Wed, 11 Jun 2025 20:08:57 GMT | Printed QR Code Hacking in 2025: The Invisible Threat You Must Know! | Aditya sunny | [Read More](https://medium.com/p/721acc07a352) |
 | Wed, 11 Jun 2025 20:08:08 GMT | From Zero to Free Credits: Abusing a Referral System Like a Lazy Genius | MostReal | [Read More](https://medium.com/p/fc2d6b674754) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 14:26:55 GMT | DEEP PHISHING: How Cybercriminals Fool Even Smart Professionals | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/72ce22d5d434) |
 | Wed, 11 Jun 2025 14:23:28 GMT | Cyber Briefing: 2025.06.11 | CyberMaterial | [Read More](https://medium.com/p/27af893aa042) |
 | Wed, 11 Jun 2025 14:21:24 GMT | States with the most identity theft | Consumer Attorneys PLLC | [Read More](https://medium.com/p/449443c68ac4) |
-| Wed, 11 Jun 2025 14:20:48 GMT | What Leaked LockBit Screenshots Reveal About Building a Criminal Empire with Startup Precision and… | David SEHYEON Baek | [Read More](https://medium.com/p/b4a5ee8179dd) |
-| Wed, 11 Jun 2025 14:19:12 GMT | The Sky Race | Mark King | [Read More](https://medium.com/p/d860ce2b32bf) |
-| Wed, 11 Jun 2025 14:18:33 GMT | Inside the Cloud Lockdown: Dissecting a Ransomware Attack on AWS | KingOfPiratez | [Read More](https://medium.com/p/f1371a15eed9) |
-| Wed, 11 Jun 2025 14:12:07 GMT | KC7 Inside Encryptodera: Post-Investigation | Trey Hopkins | [Read More](https://medium.com/p/2ad38c87ea76) |
-| Wed, 11 Jun 2025 14:10:12 GMT | False Alarms: Why Most Security Notifications Backfire | MrsNo1Special | [Read More](https://medium.com/p/5842d6068981) |
