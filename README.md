@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 09:19:18 GMT | Cybersecurity Mistakes That Can Get You Hacked in 2025 | Taiyab Lokhandwala | [Read More](https://medium.com/p/e960f9acca62) |
+| Wed, 11 Jun 2025 09:11:10 GMT | Master the Game: CTFs as Your Hacking Playground ‍☠️ | 0b1d1 | [Read More](https://medium.com/p/c934cb5b193a) |
+| Wed, 11 Jun 2025 09:11:06 GMT | Linkable Identifiers Missing | Sachin Ajjaplar | [Read More](https://medium.com/p/19f83f2bd6bf) |
+| Wed, 11 Jun 2025 09:08:03 GMT | Yeah, I know — you thought I gave up on the 100 Days Cybersecurity Challenge, but no, I’m not a… | Peacewillie | [Read More](https://medium.com/p/a874f3eded27) |
+| Wed, 11 Jun 2025 09:07:22 GMT | STALKERWARE : Let Someone Secretly Spy on Your Phone — Velpula Bharath | KLEAP Institute of Information Security | [Read More](https://medium.com/p/55019298800b) |
+| Wed, 11 Jun 2025 09:05:25 GMT | Apa itu Blue Team? Apa itu SOC? | Richardgreynardi | [Read More](https://medium.com/p/b757ac5a482d) |
+| Wed, 11 Jun 2025 09:03:14 GMT | ประจำวันพุธที่ 11 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/6383eb1a777e) |
+| Wed, 11 Jun 2025 09:01:41 GMT | Who Owns What in Your GRC Plan? | Harry West | [Read More](https://medium.com/p/d303ce500b93) |
+| Wed, 11 Jun 2025 09:00:13 GMT | Navigating the Digital Frontier: Cybersecurity and Project Management with Cheyanne Mallas | Mallascheyanne | [Read More](https://medium.com/p/162b3b8a6b52) |
+| Wed, 11 Jun 2025 08:58:48 GMT | The Human Factor: The Greatest Threat to Interney Security | Cyber Timi | [Read More](https://medium.com/p/c84ec9751335) |
+| Wed, 11 Jun 2025 08:51:50 GMT | The Secret AWS Limit That Took Down Our Global Deployment | Rudra | [Read More](https://medium.com/p/ffa80d12ee06) |
+| Wed, 11 Jun 2025 08:50:52 GMT | Boot, Bounce, Vanish: How I Disappeared with a $5 USB and TAILS OS. | Aren Redd | [Read More](https://medium.com/p/2b49d1824ae1) |
 | Wed, 11 Jun 2025 08:44:55 GMT | To create an 8-character password that includes at least one uppercase letter, one special… | Case Converter | [Read More](https://medium.com/p/4aec876ecd64) |
 | Wed, 11 Jun 2025 08:38:52 GMT | Establishing Business Resilience — Positioning BCM at the Core of an Interdisciplinary Leadership… | Matthias | [Read More](https://medium.com/p/68f9fc103bfe) |
 | Wed, 11 Jun 2025 08:37:10 GMT | Actions to Address Risks and Opportunities (Clause 6.1 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/02066fa346c5) |
@@ -101,15 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 01:29:37 GMT | Why Japanese Companies Rely So Heavily on Consultants? | Shige Tanimoto | [Read More](https://medium.com/p/dd172c570dbd) |
 | Wed, 11 Jun 2025 01:22:52 GMT | How a Single Cyberattack Brought an Entire Supply Chain to Its Knees | Intermax Pty Ltd | [Read More](https://medium.com/p/460a266c4ba0) |
 | Wed, 11 Jun 2025 00:20:39 GMT | How Meta’s Bug Bounty Triage Fails Security Researchers — And Why It Matters | D Johnston | [Read More](https://medium.com/p/7dc3d8d56b16) |
-| Wed, 11 Jun 2025 00:18:58 GMT | Even RSA Can be Broken? — RSA Encryption Explained with CTF Walkthrough | EvenBaba | [Read More](https://medium.com/p/980543cf2a2c) |
-| Wed, 11 Jun 2025 00:13:27 GMT | Drone Fleet Management & Geofencing via Smart Contracts | A-STAR7_DOCTOR | [Read More](https://medium.com/p/3f965fde28fa) |
-| Wed, 11 Jun 2025 00:04:40 GMT | How I Discovered JS Execution Through CSTI and DOM XSS | Ibtissam hammadi | [Read More](https://medium.com/p/09024676692b) |
-| Wed, 11 Jun 2025 00:02:25 GMT | eJPT Zero to Hero: System-Host Based Attacks CTF 1 | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/ac2db55f29f7) |
-| Wed, 11 Jun 2025 00:01:09 GMT | Securing Your Model Context Protocol (MCP) for AI: A Critical Imperative | Dilip Uthiriaraj | [Read More](https://medium.com/p/bf0052422b5e) |
-| Tue, 10 Jun 2025 23:56:28 GMT | Perl Ultimate Vulnerability in CGI & Opening Pipes Part II: Natas32 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/b3cdf6efe220) |
-| Tue, 10 Jun 2025 23:41:43 GMT | How One Cyber Espionage Group Infiltrated 70+ Organizations Without Anyone Noticing — Are You Next?” | Cyber-AppSec | [Read More](https://medium.com/p/d4e1dedf1fb3) |
-| Tue, 10 Jun 2025 23:40:14 GMT | How Gen AI is Revolutionizing Cyber Attack Strategies | Yash Patel | [Read More](https://medium.com/p/6ea6adbbf116) |
-| Tue, 10 Jun 2025 23:34:42 GMT | Data Security and Data Privacy | Agha Mustafa Ali Khan Qizilbash | [Read More](https://medium.com/p/71c174380f5f) |
-| Tue, 10 Jun 2025 23:21:40 GMT | Free Top 20 Cybersecurity Courses | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/7bd6a759213a) |
-| Tue, 10 Jun 2025 23:11:31 GMT | “CVE List Keyword Search” on CVE.ORG Website Updated | CVE Program Blog | [Read More](https://medium.com/p/2729451c3b61) |
-| Tue, 10 Jun 2025 23:04:19 GMT | Innovative Tips for Smart Home Enthusiasts | Fausettirenia | [Read More](https://medium.com/p/85d0f8828136) |
