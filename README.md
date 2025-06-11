@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 18:28:02 GMT | Get your OpenAI API Key and let’s explore together | 46 | [Read More](https://medium.com/p/b5a35f78e2d5) |
+| Wed, 11 Jun 2025 18:19:35 GMT | Laravel SentinelLog: Supercharge Your App Security with Next-Level Authentication! | Harry Es Pant | [Read More](https://medium.com/p/f1a9ce07ad9b) |
+| Wed, 11 Jun 2025 18:19:17 GMT | Bloktan: Cybersecurity and IT Services Tailored for Real-World Risk | Authors Avenger | [Read More](https://medium.com/p/e0998c3472df) |
+| Wed, 11 Jun 2025 18:17:40 GMT | How QR Codes are the New Phishing Attack Vector (and how hackers use them to trick you) | Subigya Ghimire | [Read More](https://medium.com/p/6194ffbdd286) |
+| Wed, 11 Jun 2025 18:08:49 GMT | Facebook और Google — कौन रखता है हम पर नज़र? | SaadeAala RS | [Read More](https://medium.com/p/c9f89bcfb7df) |
+| Wed, 11 Jun 2025 18:06:39 GMT | Evri Delivery Scams Explained: What Every UK Consumer Should Know | Sammcmullen | [Read More](https://medium.com/p/91f05298a7ac) |
+| Wed, 11 Jun 2025 18:02:40 GMT | How to Test AI Bias — A Practical Guide | Himanshunya | [Read More](https://medium.com/p/b3e09b70eb52) |
+| Wed, 11 Jun 2025 18:02:12 GMT | AI Testing + CI/CD — The Practical Example That Every Tester Must Know | Himanshunya | [Read More](https://medium.com/p/58d241b15282) |
+| Wed, 11 Jun 2025 18:02:02 GMT | The How & Why I Started Reading Hacking Books (And Why You Should Too) | SoBatista | [Read More](https://medium.com/p/784413583c94) |
+| Wed, 11 Jun 2025 18:00:21 GMT | Are You Accidentally Exposing Your API Keys? | Sanjeevani Bhandari | [Read More](https://medium.com/p/cbee357dcee9) |
+| Wed, 11 Jun 2025 17:51:38 GMT | How My Snowboard Startup Taught Me More Than Any MBA Ever Could | Ivan Rados | [Read More](https://medium.com/p/2ced5a0252b0) |
+| Wed, 11 Jun 2025 17:46:35 GMT | I Set My Standards So Impossibly High That I Keep Falling Short | Charleston Li | [Read More](https://medium.com/p/a6fc9cd8d729) |
+| Wed, 11 Jun 2025 17:43:36 GMT | DLP as a Service: Scalable Data Protection for Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/7caf12ec100d) |
 | Wed, 11 Jun 2025 17:35:08 GMT | Wise Anti Malware: Your First Line of Defense Against New Threats | SafeAeon Inc. | [Read More](https://medium.com/p/e1750d1ac3d1) |
 | Wed, 11 Jun 2025 17:25:30 GMT | 24/724×7 SOC: Your Shield Against Around-the-Clock Threats | SafeAeon Inc. | [Read More](https://medium.com/p/88e71ddd7624) |
 | Wed, 11 Jun 2025 17:23:15 GMT | Reseña de Rontoxm.com - Así Recuperé Mi Dinero | Isco Patricio | [Read More](https://medium.com/p/3bf5c3e1ee30) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 13:06:30 GMT | Why StrongBox IT Is the Best VAPT Service Provider for Your Business | StrongBox IT | [Read More](https://medium.com/p/755e6fb9fa25) |
 | Wed, 11 Jun 2025 13:02:44 GMT | The Myth of “Too Small to Hack” | Peris.ai Cybersecurity | [Read More](https://medium.com/p/077f119a0d66) |
 | Wed, 11 Jun 2025 13:02:11 GMT | CTF Writeup — CyberSecure-X 1.0 | purrsistant | [Read More](https://medium.com/p/8b4d647ad4d7) |
-| Wed, 11 Jun 2025 13:00:25 GMT | To You Who Can’t Say, “Help Me”: Did You Really Believe Them When They Said, “I’m Okay”? | Pacific Soul | [Read More](https://medium.com/p/4d032a114851) |
-| Wed, 11 Jun 2025 12:59:12 GMT | Oracle Cloud Got Hit- Lessons in Data Protection and Disclosure | Tsaaro Consulting | [Read More](https://medium.com/p/0234e72de935) |
-| Wed, 11 Jun 2025 12:57:34 GMT | Digital Signatures: The Backbone of Secure File Sharing | Hamid Musayev | [Read More](https://medium.com/p/2062f68706f4) |
-| Wed, 11 Jun 2025 12:55:53 GMT | Web Investigation Cyberdefenders WriteUp | Andry Maulana | [Read More](https://medium.com/p/14e5b3335a94) |
-| Wed, 11 Jun 2025 12:55:06 GMT | Do Vehicle Fleets Need Security Guards? Absolutely — Here’s Why | Sentrysofficers | [Read More](https://medium.com/p/b0309732df2a) |
-| Wed, 11 Jun 2025 12:53:38 GMT | NoName writeup — proving ground — complete writeup | Priyanshu | [Read More](https://medium.com/p/a141a51e5689) |
-| Wed, 11 Jun 2025 12:40:22 GMT | The Book That Tried to Save the Internet | Abdul-mu'min Omotola | [Read More](https://medium.com/p/4ba8de20d660) |
-| Wed, 11 Jun 2025 12:38:29 GMT | You Need Only One Reason to Learn Cybersecurity in 2025 | Himanshu Gupta | [Read More](https://medium.com/p/ea4e73ab9077) |
-| Wed, 11 Jun 2025 12:25:53 GMT | His Private Key Is with Me Now ¯\_(ツ)_/¯ : Man in The Middle on TLS 1.2 Connection in C | Taehoon Yoon | [Read More](https://medium.com/p/59add7e9efe0) |
-| Wed, 11 Jun 2025 12:20:35 GMT | Beyond the Hype: I Analyzed 3 Real-World LLM Prompt Injection Attacks | Andrei Ivan | [Read More](https://medium.com/p/61660aabc840) |
-| Wed, 11 Jun 2025 12:17:31 GMT | How Cybersecurity Is Shaping Software Development in Saudi Arabia | Techgropse | [Read More](https://medium.com/p/33f25d99e654) |
-| Wed, 11 Jun 2025 12:12:14 GMT | Cybersecurity Lab Setup Using Splunk and Snort | Amalpp | [Read More](https://medium.com/p/396e2933a6c0) |
-| Wed, 11 Jun 2025 12:12:11 GMT | Header: Hackers Steal 300,000 Texas Crash Reports in Cyberattack | MohitV | [Read More](https://medium.com/p/2a20735d7250) |
