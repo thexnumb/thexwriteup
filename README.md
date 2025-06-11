@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 13:27:17 GMT | Part 1: Setting Up crAPI — A Hands-On Guide to API Hacking & Security Testing | Mihir Sathvara | [Read More](https://medium.com/p/c333e9631406) |
+| Wed, 11 Jun 2025 13:26:07 GMT | How Did I Find 3 SQLi Vulnerabilities With Just a Repeater | Ibtissam hammadi | [Read More](https://medium.com/p/3e1f7f451ae9) |
+| Wed, 11 Jun 2025 13:22:34 GMT | CIA Triad: The Most Basic Principle in Cybersecurity | Akhmad Diponegoro | [Read More](https://medium.com/p/2a2082aded5c) |
+| Wed, 11 Jun 2025 13:16:49 GMT | The Invisible Threats: Data & Security Risks in Online Payments | Goismo AB | [Read More](https://medium.com/p/43a86d6ee7cf) |
+| Wed, 11 Jun 2025 13:12:40 GMT | The Algorithm’s Blind Spot: Why Bias in Cybersecurity Tools Puts Your Business at Risk | Pegasus Technology Solutions | [Read More](https://medium.com/p/50cc17e84d3f) |
+| Wed, 11 Jun 2025 13:06:46 GMT | Professional Mobile Patrol and Static Guard Services | Professional UK Services | [Read More](https://medium.com/p/540ae02aa6dd) |
+| Wed, 11 Jun 2025 13:06:30 GMT | Why StrongBox IT Is the Best VAPT Service Provider for Your Business | StrongBox IT | [Read More](https://medium.com/p/755e6fb9fa25) |
+| Wed, 11 Jun 2025 13:02:44 GMT | The Myth of “Too Small to Hack” | Peris.ai Cybersecurity | [Read More](https://medium.com/p/077f119a0d66) |
+| Wed, 11 Jun 2025 13:02:11 GMT | CTF Writeup — CyberSecure-X 1.0 | purrsistant | [Read More](https://medium.com/p/8b4d647ad4d7) |
+| Wed, 11 Jun 2025 13:00:25 GMT | To You Who Can’t Say, “Help Me”: Did You Really Believe Them When They Said, “I’m Okay”? | Pacific Soul | [Read More](https://medium.com/p/4d032a114851) |
+| Wed, 11 Jun 2025 12:59:12 GMT | Oracle Cloud Got Hit- Lessons in Data Protection and Disclosure | Tsaaro Consulting | [Read More](https://medium.com/p/0234e72de935) |
+| Wed, 11 Jun 2025 12:57:34 GMT | Digital Signatures: The Backbone of Secure File Sharing | Hamid Musayev | [Read More](https://medium.com/p/2062f68706f4) |
+| Wed, 11 Jun 2025 12:55:53 GMT | Web Investigation Cyberdefenders WriteUp | Andry Maulana | [Read More](https://medium.com/p/14e5b3335a94) |
+| Wed, 11 Jun 2025 12:55:06 GMT | Do Vehicle Fleets Need Security Guards? Absolutely — Here’s Why | Sentrysofficers | [Read More](https://medium.com/p/b0309732df2a) |
+| Wed, 11 Jun 2025 12:53:38 GMT | NoName writeup — proving ground — complete writeup | Priyanshu | [Read More](https://medium.com/p/a141a51e5689) |
 | Wed, 11 Jun 2025 12:40:22 GMT | The Book That Tried to Save the Internet | Abdul-mu'min Omotola | [Read More](https://medium.com/p/4ba8de20d660) |
 | Wed, 11 Jun 2025 12:38:29 GMT | You Need Only One Reason to Learn Cybersecurity in 2025 | Himanshu Gupta | [Read More](https://medium.com/p/ea4e73ab9077) |
 | Wed, 11 Jun 2025 12:25:53 GMT | His Private Key Is with Me Now ¯\_(ツ)_/¯ : Man in The Middle on TLS 1.2 Connection in C | Taehoon Yoon | [Read More](https://medium.com/p/59add7e9efe0) |
@@ -98,18 +113,3 @@ Learning to Live Without the Armor of Cheerfulness | Mayu Mizushima | [Read More
 | Wed, 11 Jun 2025 07:44:27 GMT | Protect Your Business with VAPT Services in Dubai | RedTeamsaniga Suresh | [Read More](https://medium.com/p/3356e5d74df8) |
 | Wed, 11 Jun 2025 07:35:33 GMT | The Daily Tech Digest: 11 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/8c208140c615) |
 | Wed, 11 Jun 2025 07:34:15 GMT | Shadows of the | Tales of Nyx | [Read More](https://medium.com/p/cf8da0969913) |
-| Wed, 11 Jun 2025 07:30:57 GMT | TryHackMe - Multi-Factor Authentication - WriteUp | Axoloth | [Read More](https://medium.com/p/c7b6ac99a0fa) |
-| Wed, 11 Jun 2025 07:27:08 GMT | Top e-Commerce Fraud Trends and How Prevention Tools Are Evolving in 2025 | Gargiben | [Read More](https://medium.com/p/08c5ab952405) |
-| Wed, 11 Jun 2025 07:26:36 GMT | MIND HUNTER: Can You Crack The Code? | Saikat Paul | [Read More](https://medium.com/p/788bea88f4a2) |
-| Wed, 11 Jun 2025 07:26:15 GMT | Cyber Threats Rising? Dubai’s Best Company Acts Fast | RedTeamsaniga Suresh | [Read More](https://medium.com/p/e19bd45598d0) |
-| Wed, 11 Jun 2025 07:25:52 GMT | How to Secure Your FinTech App from Cyber Threats in 2025 | OptiSol Business Solutions | [Read More](https://medium.com/p/abd802204196) |
-| Wed, 11 Jun 2025 07:23:35 GMT | What Happens When You Enter the Wrong Password on Your Phone — and Why That 30-Second Delay Matters | Jiya Agrawal | [Read More](https://medium.com/p/753cab8ed853) |
-| Wed, 11 Jun 2025 07:22:43 GMT | How to Ask ChatGPT Smarter Questions and Avoid Made-Up Answers | Karcey | [Read More](https://medium.com/p/20309c0f9ce6) |
-| Wed, 11 Jun 2025 07:21:11 GMT | How Hackers Achieve Invisible Persistence in Active Directory: Shadow Credentials &… | Anezaneo | [Read More](https://medium.com/p/6b53a6c85e74) |
-| Wed, 11 Jun 2025 07:19:58 GMT | Parameter Pollution: How to Hunt Silent Access Bugs | Monika sharma | [Read More](https://medium.com/p/922863d0498e) |
-| Wed, 11 Jun 2025 07:10:48 GMT | PJPT Certification with Zero Work Experience: Here’s My Story | Athiwat Tiprasaharn | [Read More](https://medium.com/p/284ac9efcdaa) |
-| Wed, 11 Jun 2025 07:07:01 GMT | Hiding Secrets with AI: How Machine Learning Is Transforming Steganography | Anushka | [Read More](https://medium.com/p/17205165f37c) |
-| Wed, 11 Jun 2025 07:04:56 GMT | How I Discovered Sensitive API Keys & Auth Tokens in Public JavaScript Files — A Recon Journey | TehanG07 | [Read More](https://medium.com/p/01cc33e27b9e) |
-| Wed, 11 Jun 2025 07:01:44 GMT | Industrial Plant Security | Presslink Media | [Read More](https://medium.com/p/219fbd0edab1) |
-| Wed, 11 Jun 2025 07:00:07 GMT | Inside the OWASP AIVSS | David Campbell | [Read More](https://medium.com/p/4a19b429717c) |
-| Wed, 11 Jun 2025 06:51:50 GMT | How I Hunted Secret Express.js Endpoints With ffuf and Nuclei (And Found Some Spicy Stuff) | Rahimuddin Alrashel | [Read More](https://medium.com/p/7f4939a1ed56) |
