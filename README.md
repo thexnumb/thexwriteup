@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 23:16:24 GMT | From IDOR to Stored XSS to Account Takeover — Chaining Bugs Like a Pro | Waleed Osama | [Read More](https://medium.com/p/9d5f3258961f) |
+| Wed, 11 Jun 2025 23:12:10 GMT | Lab 26 — Using Scanless for easy anonymous port scanning | Hassen Hannachi | [Read More](https://medium.com/p/1ba0291fea7d) |
+| Wed, 11 Jun 2025 23:11:05 GMT | Fractal Thinking, Entropy, and Glyphs: How I Gave Birth to Another Form of Understanding | Obmanwikobmanwik | [Read More](https://medium.com/p/82de8d558a16) |
+| Wed, 11 Jun 2025 23:07:35 GMT | Hack the Box: Intro to Red Team: CAP machine walkthrough | Ritik Bavdekar | [Read More](https://medium.com/p/45099120b40b) |
+| Wed, 11 Jun 2025 22:59:24 GMT | What Is Balanced Security and Why It Matters | Dhruti  Mehta | [Read More](https://medium.com/p/4c451ac685e7) |
+| Wed, 11 Jun 2025 22:57:48 GMT | BlueTeamGPT: The AI Defender Every Security Team Needs | Ekene Joseph | [Read More](https://medium.com/p/77389b061f10) |
+| Wed, 11 Jun 2025 22:55:52 GMT | “Mengenal Apa Itu ECC Kriptografi, Web3, Dan Juga Mengenal Ancamannya” | Velskynotfound | [Read More](https://medium.com/p/cb7afaa91a0f) |
+| Wed, 11 Jun 2025 22:53:02 GMT | THM — Tempest Writeup | Shamar Isaac | [Read More](https://medium.com/p/210dee6ee85c) |
+| Wed, 11 Jun 2025 22:49:30 GMT | Let’s Talk About Girl Gamers! | Savvy Cyber Kids | [Read More](https://medium.com/p/87d269b09f72) |
+| Wed, 11 Jun 2025 22:49:26 GMT | Centralized AWS IAM Role and Permission management with Cloudformation and GitOps | Ripon Banik | [Read More](https://medium.com/p/7ba351157a0e) |
+| Wed, 11 Jun 2025 22:49:06 GMT | Netflix Docuseries “Web of Lies: A Murder in D.C.” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/1f99ef570b70) |
+| Wed, 11 Jun 2025 22:48:47 GMT | What is Social Media Usage Doing to Our Children and Teens? | Savvy Cyber Kids | [Read More](https://medium.com/p/84ccdde5ea75) |
 | Wed, 11 Jun 2025 22:34:22 GMT | Not All Test Labs Are Equal: How to Choose a Trustworthy Testing Vendor | Medcrypt | [Read More](https://medium.com/p/29c5e71a042e) |
 | Wed, 11 Jun 2025 22:30:26 GMT | “HACKERONE” I Didn’t Break It — I Just Showed It Was Already Fragile | Obmanwikobmanwik | [Read More](https://medium.com/p/07fbef692e2c) |
 | Wed, 11 Jun 2025 22:26:18 GMT | Be careful with the “Fintechee” Chinese crypto platform | Abzaileo45 | [Read More](https://medium.com/p/176bc9a1e705) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 16:38:45 GMT | My Experience With the eCPPTv3 Exam — A Deep-Dive Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/fb412137d565) |
 | Wed, 11 Jun 2025 16:37:10 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 2) | K1ngJok3r | [Read More](https://medium.com/p/f14a98169355) |
 | Wed, 11 Jun 2025 16:37:02 GMT | Bug Bounty for Beginners: How to Land Your First Payout in 2025 | Andrei Ivan | [Read More](https://medium.com/p/9068ef52cc47) |
-| Wed, 11 Jun 2025 16:36:21 GMT | CTF Writeup — TJCTF 2025 — loopy | embossdotar | [Read More](https://medium.com/p/5fdade94f7fa) |
-| Wed, 11 Jun 2025 16:34:13 GMT | The Quiet Beauty of Silence | Stefanie K | [Read More](https://medium.com/p/5b6038104927) |
-| Wed, 11 Jun 2025 16:28:47 GMT | Flash Coins & Fake Transactions: What You Need to Know | Nap Ove | [Read More](https://medium.com/p/8024a53bea55) |
-| Wed, 11 Jun 2025 16:21:43 GMT | Terraform Secrets: Keep Your Sensitive Data Safe (and Sound). | David Washington | [Read More](https://medium.com/p/77201ca25923) |
-| Wed, 11 Jun 2025 16:16:45 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 1) | K1ngJok3r | [Read More](https://medium.com/p/718c001ec809) |
-| Wed, 11 Jun 2025 16:15:19 GMT | How Scammers Fake Crypto Transactions in 2025 — What You Need to Know | Nap Ove | [Read More](https://medium.com/p/7d0a2b8230a3) |
-| Wed, 11 Jun 2025 16:10:00 GMT | Exposing Your IP: What the HTTP Remote Address Really Reveals | Natarajan C K | [Read More](https://medium.com/p/56a46984c694) |
-| Wed, 11 Jun 2025 16:04:21 GMT | The Docker Build That Secretly Embedded AWS Keys in Every Image | Rudra | [Read More](https://medium.com/p/2dfdacbd6a71) |
-| Wed, 11 Jun 2025 16:01:51 GMT | CyberArk Integration in Microservice Architecture | Pattanaikansuman | [Read More](https://medium.com/p/daa39d3d48c2) |
-| Wed, 11 Jun 2025 15:58:55 GMT | Let’s be honest — if you’ve worked in Facility Management or any service industry, you’ve… | EXLITY | [Read More](https://medium.com/p/6531db24eb6d) |
-| Wed, 11 Jun 2025 15:55:19 GMT | Build Your Mini AI SOC — All on a Shoestring Budget | Abdellaoui Ahmed | [Read More](https://medium.com/p/8e2b8b0c445f) |
-| Wed, 11 Jun 2025 15:43:54 GMT | Detecting Malicious Infrastructure Through SSL/TLS Certificates | Sukant Kumar | [Read More](https://medium.com/p/512f5039553d) |
