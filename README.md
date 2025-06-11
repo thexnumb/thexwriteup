@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Jun 2025 04:34:23 GMT | Mengenal Hash MD5, SHA1, SHA256, dan NTLM | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/23886c8fc6bb) |
+| Wed, 11 Jun 2025 04:26:15 GMT | PowerShell Logging — Recording the Output of Your Scripts | Anthony Miller | [Read More](https://medium.com/p/9f14e2bda74c) |
+| Wed, 11 Jun 2025 04:25:38 GMT | Exploring 10 Innovative Approaches in Cyber Security App Development | Webtrills | [Read More](https://medium.com/p/3b74f1d3cb6c) |
+| Wed, 11 Jun 2025 04:10:56 GMT | Clearing Tracks: How Hackers Remove Evidence After System Breaches | sixxish | [Read More](https://medium.com/p/7bb44e7e8aac) |
+| Wed, 11 Jun 2025 04:07:36 GMT | Kenalan dengan Tools Scanning Populer: Masscan, Nmap, CrackMapExec, dan Dirsearch | Putranta Wisnu Wardhana | [Read More](https://medium.com/p/50935718d21b) |
+| Wed, 11 Jun 2025 03:53:23 GMT | A Cyber Attack that almost took the world by storm | Deep Mistry | [Read More](https://medium.com/p/9abda3963862) |
 | Wed, 11 Jun 2025 03:44:12 GMT | A Letter from the Strong One | Anya Dunes | [Read More](https://medium.com/p/513e25e07c27) |
 | Wed, 11 Jun 2025 03:43:32 GMT | Fixing the Confusion: What Risk Actually Means in Cybersecurity | John Vivona | [Read More](https://medium.com/p/08d0a48f389d) |
 | Wed, 11 Jun 2025 03:33:47 GMT | OverTheWire Natas Level 12— Level 24 | k1dd05z | [Read More](https://medium.com/p/2536b19f0958) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Jun 2025 18:17:47 GMT | Conscious AI: What if they hate being alive? | Michelle Harwood | [Read More](https://medium.com/p/cfce1620bbaa) |
 | Tue, 10 Jun 2025 18:16:20 GMT | Assessment Methodologies: Vulnerability Assessment CTF 1 | Shivprasad Lavhat | [Read More](https://medium.com/p/79bc008d9a3a) |
 | Tue, 10 Jun 2025 18:10:30 GMT | How Browsers Share Your Browsing Path — And How to Take Back Control | Natarajan C K | [Read More](https://medium.com/p/02af932172fa) |
-| Tue, 10 Jun 2025 18:09:34 GMT | Securing Your Ruby Apps with bundler-audit | Germán Giménez Silva | [Read More](https://medium.com/p/880719d2f9a1) |
-| Tue, 10 Jun 2025 18:03:49 GMT | SIM Card Swapping: The Silent Cyber Heist | Anonymode | [Read More](https://medium.com/p/0b086c3ab73e) |
-| Tue, 10 Jun 2025 18:03:45 GMT | The Role of Networking in the Internet of Things(IoT) | Mazhar Imran | [Read More](https://medium.com/p/7a585665b44b) |
-| Tue, 10 Jun 2025 17:52:22 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/a0dd3c1ffe22) |
-| Tue, 10 Jun 2025 17:47:47 GMT | Comprehensive Phishing Email Analysis Guide | Venkatesh | [Read More](https://medium.com/p/90533c39858b) |
-| Tue, 10 Jun 2025 17:46:33 GMT | SBOM and Penetration Testing: How They Work Together to Strengthen Supply Chain Security | Black Lock | [Read More](https://medium.com/p/597e27af1db3) |
