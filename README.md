@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 06:31:45 GMT | Cybersecurity Requirements for Medical Device Software Under EU MDR and MDCG Guidance | SEO Agency | [Read More](https://medium.com/p/00cb5b8651eb) |
+| Thu, 12 Jun 2025 06:20:05 GMT | The Day Our Accountant Almost Cost Us Everything | Business agroup | [Read More](https://medium.com/p/561ee83395d5) |
+| Thu, 12 Jun 2025 06:19:39 GMT | SOC Incident and Response Plan for Ransomware | Aaron Gabriel Morales | [Read More](https://medium.com/p/e95ad43b7bcf) |
+| Thu, 12 Jun 2025 06:14:38 GMT | GraphQL in the Wild: Recon to RCE via Introspection, Nested Queries & Batching Attacks | Monika sharma | [Read More](https://medium.com/p/dbd2d704fbdf) |
+| Thu, 12 Jun 2025 06:13:50 GMT | Urgent: CVE-2025–47273 Exposes Python SetupTools — Here’s How to Stay Secure | M Sadewa Wicaksana | [Read More](https://medium.com/p/843a183a02dc) |
+| Thu, 12 Jun 2025 06:13:06 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 3 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/14128a447743) |
+| Thu, 12 Jun 2025 06:12:40 GMT | How One Video Boosted My Cybersecurity YouTube Channel | Taimur Ijlal | [Read More](https://medium.com/p/48a7ca7308f4) |
+| Thu, 12 Jun 2025 06:12:13 GMT | Secure Your Bank’s Future with Professional Bank Security Guard Services in Gurgaon | vervesecurity. | [Read More](https://medium.com/p/3507db5d72ee) |
+| Thu, 12 Jun 2025 06:11:02 GMT | A classic file based IDOR on NIELIT portal | Adithya M S | [Read More](https://medium.com/p/064604c7fc62) |
+| Thu, 12 Jun 2025 06:10:49 GMT | How SOC 2 Compliance Builds Trust for FinTech Companies in the U.S. | Ampcus Cyber | [Read More](https://medium.com/p/7edf1c4763f5) |
+| Thu, 12 Jun 2025 06:10:24 GMT | Hakrawler Tutorial: Fast Web Crawler for Bug Bounty | Pawan Jaiswal | [Read More](https://medium.com/p/8d334848dd85) |
+| Thu, 12 Jun 2025 06:08:43 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 2 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2c271bdc1a4d) |
+| Thu, 12 Jun 2025 06:08:14 GMT | Path Traversal: Portswigger Lab Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/7f61dd044452) |
+| Thu, 12 Jun 2025 06:08:01 GMT | How to Build a Cybersecurity Portfolio as an Intern | Internshipgate | [Read More](https://medium.com/p/8f25d9d58fb3) |
+| Thu, 12 Jun 2025 06:04:55 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2960dbcd480a) |
+| Thu, 12 Jun 2025 06:04:21 GMT | How I hacked Karnataka NIC portal with a simple SQL injection | Adithya M S | [Read More](https://medium.com/p/073f064ad99e) |
+| Thu, 12 Jun 2025 06:02:15 GMT | Bypassing Authentication: A Critical Flaw in Basecamp’s | Monika sharma | [Read More](https://medium.com/p/849d9fadf39f) |
+| Thu, 12 Jun 2025 06:01:33 GMT | The Future of Cybersecurity Jobs: What Interns Should Know | Internshipgate | [Read More](https://medium.com/p/3c81fac52abb) |
+| Thu, 12 Jun 2025 05:59:31 GMT | The Flag API Key — 247CTF solution writeup | Adithya M S | [Read More](https://medium.com/p/aa3764baadcb) |
+| Thu, 12 Jun 2025 05:57:59 GMT | Erie Insurance Systems Hit by Cyberattack, Millions Affected | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/2ac18dc026ba) |
+| Thu, 12 Jun 2025 05:41:15 GMT | EXPLAINER Policy Debate: Border Fencing in Nigeria | Sgshehu | [Read More](https://medium.com/p/73ee53e871f8) |
 | Thu, 12 Jun 2025 05:34:08 GMT | SVGs — Why Your “Images” Might Be More Dangerous Than You Think | Akanksha | [Read More](https://medium.com/p/8f84ba43afc9) |
 | Thu, 12 Jun 2025 05:29:16 GMT | Top Legitimate Crypto Recovery Companies You Can Trust With Your Scammed Coins | Robertjoness | [Read More](https://medium.com/p/11397a922b48) |
 | Thu, 12 Jun 2025 05:27:49 GMT | Wireless Penetration Testing with Aircrack-ng | Tanush Kushwah | [Read More](https://medium.com/p/114e1f1c397f) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 21:24:37 GMT | Exploring the Best in Maternal and Baby Products: Momcozy’s Video Baby Monitor | Saffgsadfdsf | [Read More](https://medium.com/p/7f3dad32d29e) |
 | Wed, 11 Jun 2025 21:12:02 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss | Aditya Bhatt | [Read More](https://medium.com/p/7a8baf3cf085) |
 | Wed, 11 Jun 2025 21:08:54 GMT | Snag Exclusive BOUNTY Through ChainBounty's Launch Bonus | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/4edb0a985aea) |
-| Wed, 11 Jun 2025 21:01:05 GMT | Digital Battlegrounds | Pentestjunkie07 | [Read More](https://medium.com/p/e44023908833) |
-| Wed, 11 Jun 2025 20:58:36 GMT | Mehr Privatsphäre beim Surfen: Europäische DNS-Server im Überblick | Arpad Vasarhelyi | [Read More](https://medium.com/p/e358aecda0c8) |
-| Wed, 11 Jun 2025 20:56:36 GMT | How to Fortify Cloudflare Against Brute-Force and Credential Stuffing Attacks​ | Bits Kingdom | [Read More](https://medium.com/p/b1181258e984) |
-| Wed, 11 Jun 2025 20:48:38 GMT | The Deadly Mistake Hiding in Your Git Repo Right Now | Daggie Blanqx | [Read More](https://medium.com/p/d7a1d7c6174d) |
-| Wed, 11 Jun 2025 20:42:47 GMT | Post-Pandemic Permission Slips and the Lost Art of Civic Reorientation | Peter Hillier | [Read More](https://medium.com/p/ac84bd552821) |
-| Wed, 11 Jun 2025 20:33:50 GMT | How to get into bug bounties — A list of resources V2.0 | Thexssrat | [Read More](https://medium.com/p/f01eb6bef0e4) |
-| Wed, 11 Jun 2025 20:28:48 GMT | Zero-Day Exploits: The Hidden Cyber Threat That Strikes Without Warning | Akshay Chauhan | [Read More](https://medium.com/p/730d278af0bc) |
-| Wed, 11 Jun 2025 20:24:21 GMT | Understanding Cyber Security Issues in Critical Infrastructure and the Energy Sector | Caleb Hopkins | [Read More](https://medium.com/p/da45e3dc7fb7) |
-| Wed, 11 Jun 2025 20:23:48 GMT | Reliable Security Services in Winnipeg by Central Protection | Jennawilliams | [Read More](https://medium.com/p/a721e4d52c3a) |
-| Wed, 11 Jun 2025 20:22:27 GMT | How to Talk to AI Like a Human | VTKL | [Read More](https://medium.com/p/adc11b7bdfec) |
-| Wed, 11 Jun 2025 20:13:59 GMT | 20+ Lesser-Known Linux Commands Every Hacker & Sysadmin Should Master | Very Lazy Tech | [Read More](https://medium.com/p/9f247b206aa5) |
-| Wed, 11 Jun 2025 20:08:57 GMT | Printed QR Code Hacking in 2025: The Invisible Threat You Must Know! | Aditya sunny | [Read More](https://medium.com/p/721acc07a352) |
-| Wed, 11 Jun 2025 20:08:08 GMT | From Zero to Free Credits: Abusing a Referral System Like a Lazy Genius | MostReal | [Read More](https://medium.com/p/fc2d6b674754) |
-| Wed, 11 Jun 2025 19:56:38 GMT | ️ Falcon (CrowdStrike)-Based SOC Integrations and Use Cases | Esra Kayhan | [Read More](https://medium.com/p/b79b2c7558e0) |
-| Wed, 11 Jun 2025 19:56:36 GMT | The Hidden Costs of Legacy Construction Software: When to Upgrade for Better ROI | AlterSquare | [Read More](https://medium.com/p/8474e240841e) |
-| Wed, 11 Jun 2025 19:51:27 GMT | Getting Started with Velociraptor: Lightweight Log Collection | Hariharan | [Read More](https://medium.com/p/91e8399206ef) |
-| Wed, 11 Jun 2025 19:50:28 GMT | Project — pfSense Firewall Setup | Okeke Ugochukwu Chidiebele | [Read More](https://medium.com/p/49ff6a6ccaa3) |
-| Wed, 11 Jun 2025 19:42:55 GMT | Update your chromium based browser NOW! | Iftiaj | [Read More](https://medium.com/p/837f836e8e7b) |
-| Wed, 11 Jun 2025 19:40:36 GMT | PostgreSQL in Docker: The Mysterious ‘No Space Left on Device’ Error (and How to Fix It on macOS) | Komal Bagwe | [Read More](https://medium.com/p/ee7371d4eae8) |
-| Wed, 11 Jun 2025 19:38:54 GMT | HOW I WOULD START BUG BOUNTY IN MID 2025!? | Tenebris Venator | [Read More](https://medium.com/p/3cdbd3f726fb) |
-| Wed, 11 Jun 2025 19:30:05 GMT | Is Your AI Implementation Causing Data Breaches? | Chris Gambill - Gambill Data | [Read More](https://medium.com/p/44d13175757b) |
