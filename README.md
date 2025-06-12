@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 02:59:34 GMT | LetsDefend — SOC176 Walkthrough (RDP Brute Force) | Joshua Chua | [Read More](https://medium.com/p/002cb34a415a) |
+| Thu, 12 Jun 2025 02:54:23 GMT | 5 Future-Proof Tech Skills You Should Start Learning Now (Before 2030) | iswarya writes | [Read More](https://medium.com/p/00bfb2e849ab) |
+| Thu, 12 Jun 2025 02:22:22 GMT | Mastering Subdomain Enumeration with Amass: A Complete Guide for Ethical Hackers | YoungerSibling | [Read More](https://medium.com/p/276d6e915e51) |
+| Thu, 12 Jun 2025 02:12:37 GMT | New Fixed Server-Level Roles SQL Server 2022 | Pradeepa Pakkirisamy Krishnamoorthy | [Read More](https://medium.com/p/1d4f8f3c7d5e) |
+| Thu, 12 Jun 2025 02:06:03 GMT | FundOnion Reviews : How I Reclaimed My Funds | Gegav | [Read More](https://medium.com/p/6ec951fc6d5c) |
+| Thu, 12 Jun 2025 02:03:26 GMT | Here’s How I Recover My Money From FundOnion | Gegav | [Read More](https://medium.com/p/09a3de27fe6d) |
+| Thu, 12 Jun 2025 01:48:22 GMT | Crypto Phishing is Evolving , Here’s How to Protect Your Assets in 2025 | Safeguard Capital | [Read More](https://medium.com/p/6c9f94353e87) |
 | Thu, 12 Jun 2025 01:41:47 GMT | HTB Machine Escape Two Walkthrough | ma40ou | [Read More](https://medium.com/p/a08e563709ff) |
 | Thu, 12 Jun 2025 01:31:35 GMT | Exploring the Smart Home Industry with SwitchBot’s Smart Deadbolt | rdowns | [Read More](https://medium.com/p/44068629a592) |
 | Thu, 12 Jun 2025 01:30:57 GMT | How to Install Kali Linux in VMWare using ISO or VMDK #Day_6 | Richardgreynardi | [Read More](https://medium.com/p/bcb2cf9a1c4e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 18:00:21 GMT | Are You Accidentally Exposing Your API Keys? | Sanjeevani Bhandari | [Read More](https://medium.com/p/cbee357dcee9) |
 | Wed, 11 Jun 2025 17:51:38 GMT | How My Snowboard Startup Taught Me More Than Any MBA Ever Could | Ivan Rados | [Read More](https://medium.com/p/2ced5a0252b0) |
 | Wed, 11 Jun 2025 17:46:35 GMT | I Set My Standards So Impossibly High That I Keep Falling Short | Charleston Li | [Read More](https://medium.com/p/a6fc9cd8d729) |
-| Wed, 11 Jun 2025 17:43:36 GMT | DLP as a Service: Scalable Data Protection for Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/7caf12ec100d) |
-| Wed, 11 Jun 2025 17:35:08 GMT | Wise Anti Malware: Your First Line of Defense Against New Threats | SafeAeon Inc. | [Read More](https://medium.com/p/e1750d1ac3d1) |
-| Wed, 11 Jun 2025 17:25:30 GMT | 24/724×7 SOC: Your Shield Against Around-the-Clock Threats | SafeAeon Inc. | [Read More](https://medium.com/p/88e71ddd7624) |
-| Wed, 11 Jun 2025 17:23:15 GMT | Reseña de Rontoxm.com - Así Recuperé Mi Dinero | Isco Patricio | [Read More](https://medium.com/p/3bf5c3e1ee30) |
-| Wed, 11 Jun 2025 17:22:33 GMT | OverTheWire: Wargames — Bandit Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/41483f6abd01) |
-| Wed, 11 Jun 2025 17:10:54 GMT | Designing Spear Phishing Attacks Using Behavioral Psychology and Neuroscience | matitanium | [Read More](https://medium.com/p/a260301391fb) |
-| Wed, 11 Jun 2025 17:08:28 GMT | Domain Enumeration with ldapdomaindump -- Active Directory Pentesting -- Part 8. | Muhammadhuzaifa | [Read More](https://medium.com/p/c4e36368c0e5) |
