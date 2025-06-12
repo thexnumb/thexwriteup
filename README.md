@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 01:41:47 GMT | HTB Machine Escape Two Walkthrough | ma40ou | [Read More](https://medium.com/p/a08e563709ff) |
+| Thu, 12 Jun 2025 01:31:35 GMT | Exploring the Smart Home Industry with SwitchBot’s Smart Deadbolt | rdowns | [Read More](https://medium.com/p/44068629a592) |
+| Thu, 12 Jun 2025 01:30:57 GMT | How to Install Kali Linux in VMWare using ISO or VMDK #Day_6 | Richardgreynardi | [Read More](https://medium.com/p/bcb2cf9a1c4e) |
+| Thu, 12 Jun 2025 01:24:12 GMT | The Rise of Agentic AI in Security: Risks, Strategies, and Governance | Aishwarya Srinivasan | [Read More](https://medium.com/p/7527249debfe) |
+| Thu, 12 Jun 2025 01:22:33 GMT | Code HTB Walkthrough | ma40ou | [Read More](https://medium.com/p/aea6b48e92c5) |
+| Thu, 12 Jun 2025 01:17:10 GMT | Quick 3: What is CORS (Cross-Origin Resource Sharing)? | Asish M Madhu | [Read More](https://medium.com/p/c3835b1b2411) |
+| Thu, 12 Jun 2025 01:17:00 GMT | Deep-Fake Threats on Fast-Forward, Defences in Slow Motion: A Look At The Provenance Gap | Milos | [Read More](https://medium.com/p/edf84a95992a) |
+| Thu, 12 Jun 2025 01:12:58 GMT | “Planning” HTB’s Machine Walkthrough | ma40ou | [Read More](https://medium.com/p/e7c029169a0e) |
+| Thu, 12 Jun 2025 01:04:39 GMT | Meet ROAM: The App That Keeps You Connected, Anywhere | kikidjanimm | [Read More](https://medium.com/p/011c06b3fb6e) |
+| Thu, 12 Jun 2025 00:49:37 GMT | Intro to LAN - THM | Isiah | [Read More](https://medium.com/p/cf25babd423d) |
+| Thu, 12 Jun 2025 00:43:48 GMT | ️ CVE-2021–41773 — Exploiting Apache 2.4.49: Path Traversal to Remote Code Execution (RCE) | CyberQuestor | [Read More](https://medium.com/p/2ab23c5837cd) |
+| Thu, 12 Jun 2025 00:42:22 GMT | THM — Boogeyman 2 Writeup | Shamar Isaac | [Read More](https://medium.com/p/850ba4c508e0) |
+| Thu, 12 Jun 2025 00:30:10 GMT | The Wight of Unspoken Emotion | Analuisacarrilloi | [Read More](https://medium.com/p/49a374e9dec6) |
+| Wed, 11 Jun 2025 23:43:37 GMT | Exposed: 40,000 Security Cameras Streaming Live to the Internet! | Cyber-AppSec | [Read More](https://medium.com/p/bc98a5d14546) |
 | Wed, 11 Jun 2025 23:24:43 GMT | Dissecting the Shamoon Attack | VampireXRay | [Read More](https://medium.com/p/bbf378b0deaf) |
 | Wed, 11 Jun 2025 23:16:24 GMT | From IDOR to Stored XSS to Account Takeover — Chaining Bugs Like a Pro | Waleed Osama | [Read More](https://medium.com/p/9d5f3258961f) |
 | Wed, 11 Jun 2025 23:12:10 GMT | Lab 26 — Using Scanless for easy anonymous port scanning | Hassen Hannachi | [Read More](https://medium.com/p/1ba0291fea7d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 17:22:33 GMT | OverTheWire: Wargames — Bandit Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/41483f6abd01) |
 | Wed, 11 Jun 2025 17:10:54 GMT | Designing Spear Phishing Attacks Using Behavioral Psychology and Neuroscience | matitanium | [Read More](https://medium.com/p/a260301391fb) |
 | Wed, 11 Jun 2025 17:08:28 GMT | Domain Enumeration with ldapdomaindump -- Active Directory Pentesting -- Part 8. | Muhammadhuzaifa | [Read More](https://medium.com/p/c4e36368c0e5) |
-| Wed, 11 Jun 2025 17:08:10 GMT | Rule Eight — What Tech Can Learn from John Cage’s Rule 8 | IBK Trevor | [Read More](https://medium.com/p/ed2ded456a17) |
-| Wed, 11 Jun 2025 17:07:59 GMT | TryHackMe Write-up: PS Eclipse | Robert Onyango | [Read More](https://medium.com/p/7c9d021c52e7) |
-| Wed, 11 Jun 2025 17:00:23 GMT | What Comes After .pizza? Exploring the Next Wave of New gTLDs in 2026 | Marc McCutcheon | [Read More](https://medium.com/p/ca0815702b67) |
-| Wed, 11 Jun 2025 16:56:12 GMT | Track the Hacks: Zip Trap in the Stream — Network Forensic Case | byuda | [Read More](https://medium.com/p/42b4562d1850) |
-| Wed, 11 Jun 2025 16:54:54 GMT | Bengaluru couple loses ₹4.75 crore in ‘digital arrest’ fraud, two from Hyderabad held | Hacker news 07 | [Read More](https://medium.com/p/009444bfdd4d) |
-| Wed, 11 Jun 2025 16:54:49 GMT | eJPT Zero to Hero: CTF Network-Based Attacks | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/bd72135dce31) |
-| Wed, 11 Jun 2025 16:53:55 GMT | Así Recuperé Mi Dinero de Eronto.io | Lisa | [Read More](https://medium.com/p/2d7c11f6b252) |
-| Wed, 11 Jun 2025 16:50:59 GMT | The Electric Race Heats Up: Why Legacy Automakers Are Catching Up With Tesla | Lakshika | [Read More](https://medium.com/p/32c1f2d2c7a5) |
-| Wed, 11 Jun 2025 16:50:21 GMT | Day 60: Bash Scripting — File I/O for Cybersecurity Tasks | Agarwaldaksh | [Read More](https://medium.com/p/eff1690c8e7d) |
-| Wed, 11 Jun 2025 16:42:17 GMT | 5 Key Benefits of Managed SIEM Every Business Should Know | Smdefencerabbit | [Read More](https://medium.com/p/acfb208c91a2) |
-| Wed, 11 Jun 2025 16:42:05 GMT | How a Simple RECON Earned Me ₹XX,000 | Swarnim Bandekar | [Read More](https://medium.com/p/4282805d2eac) |
-| Wed, 11 Jun 2025 16:40:15 GMT | MobileHackingLab — Secure Notes | Mason Schmidt | [Read More](https://medium.com/p/3905d5cdbc96) |
-| Wed, 11 Jun 2025 16:38:45 GMT | My Experience With the eCPPTv3 Exam — A Deep-Dive Review | Mohamed Abdulhamid | [Read More](https://medium.com/p/fb412137d565) |
-| Wed, 11 Jun 2025 16:37:10 GMT | Inside PageVault: A Pentester’s Approach to Thunder Cipher’s Boot2Root Lab (Part 2) | K1ngJok3r | [Read More](https://medium.com/p/f14a98169355) |
