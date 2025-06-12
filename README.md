@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 15:20:40 GMT | How Books Taught Me to Cry | alley | [Read More](https://medium.com/p/7917aa83865c) |
+| Thu, 12 Jun 2025 15:20:04 GMT | Out of Control Bots | Tanishasamanta | [Read More](https://medium.com/p/3d81fb3c1e21) |
+| Thu, 12 Jun 2025 15:19:42 GMT | 10 Dark web sites you didn’t know exist. | Khadim | [Read More](https://medium.com/p/22434ea8e3c0) |
+| Thu, 12 Jun 2025 15:18:35 GMT | The Hidden Code: Psychology as the Key to Digital Investigations | NOF Consulting | [Read More](https://medium.com/p/9ff544ede5a8) |
+| Thu, 12 Jun 2025 15:16:41 GMT | Why an Email Leak Is Just the Tip of the Iceberg (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/7e7654f7067b) |
 | Thu, 12 Jun 2025 15:10:20 GMT | How Does One CVE Lead to XSS, Redirect, and SSRF | Ibtissam hammadi | [Read More](https://medium.com/p/6a3507bc3b58) |
 | Thu, 12 Jun 2025 15:06:46 GMT | Think Before You Click: Cyber Training at Air University | Muhammad Inam Abbasi | [Read More](https://medium.com/p/56934cd35a5f) |
 | Thu, 12 Jun 2025 15:02:40 GMT | Ransomware Prevention Strategies from a Network Security Analyst in Phoenix, AZ | Blue Fox Group | [Read More](https://medium.com/p/a345aaf7b56c) |
@@ -55,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 13:02:51 GMT | Fake Contacts, Real Danger: Inside the Android Malware That Poses as Your Bank | Peris.ai Cybersecurity | [Read More](https://medium.com/p/baaba094a993) |
 | Thu, 12 Jun 2025 12:56:36 GMT | Securing Microservices with C# Records: The Immutability Advantage | Herbert Moroni Gois | [Read More](https://medium.com/p/0a7a4f09adbf) |
 | Thu, 12 Jun 2025 12:55:54 GMT | The 8 Types of Business Risks Every GRC Analyst Needs to Understand | Brittney Ginther | [Read More](https://medium.com/p/9f85585890ec) |
+| Thu, 12 Jun 2025 12:46:17 GMT | ️ 2025’te Türkiye'de VPN Kullanmak: Hangi VPN Gerçekten İşe Yarıyor? | inovasyonn | [Read More](https://medium.com/p/49d9ef2d40a3) |
 | Thu, 12 Jun 2025 12:43:15 GMT | Robofinder : A good tool for bughunters | loyalonlytoday | [Read More](https://medium.com/p/b351ca318291) |
 | Thu, 12 Jun 2025 12:36:18 GMT | Navigating the AI-Powered Cyber Storm: A Practical Survival Guide for Your Business in June 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/f391df8b35ec) |
 | Thu, 12 Jun 2025 12:35:20 GMT | What is Zero Trust Architecture? Principles & Implementation Guide | priyankayadav | [Read More](https://medium.com/p/e6757c5bef40) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 09:37:55 GMT | LetsDefend: SOC137 — Malicious File/Script Download Attempt | V0idd | [Read More](https://medium.com/p/58c7ccd725d5) |
 | Thu, 12 Jun 2025 09:35:55 GMT | Day 9/100 task was to use “cat and less” commands to explore /var/log logs and identify different… | Peacewillie | [Read More](https://medium.com/p/ec882fc0e739) |
 | Thu, 12 Jun 2025 09:31:31 GMT | The Weight of Almost Belonging | Tami | [Read More](https://medium.com/p/cbd7338433af) |
-| Thu, 12 Jun 2025 09:27:54 GMT | Supply Chain & FP&A Success for Leading CPG Firm - KloudPortal Discover how KloudPortal… | Rockeykrammer | [Read More](https://medium.com/p/6042d7b61ef6) |
-| Thu, 12 Jun 2025 09:24:43 GMT | What to Expect from a Security Agency in Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/bede16fe6757) |
-| Thu, 12 Jun 2025 09:22:07 GMT | Get to Know 0xTeabag | 0xTeabag | [Read More](https://medium.com/p/66f93c603c55) |
-| Thu, 12 Jun 2025 09:19:28 GMT | ⚠️ CVE-2025–32710: Critical RCE Vulnerability in Windows Remote Desktop Gateway — Patch Now Before… | Infoziant | [Read More](https://medium.com/p/ea75587f1245) |
-| Thu, 12 Jun 2025 09:15:43 GMT | Unlock Your Share of DORK's Reward Drop and Enjoy maximum benefits | $DORK (DORK) | [Read More](https://medium.com/p/b3fda8e04326) |
-| Thu, 12 Jun 2025 09:02:42 GMT | Overcome These GRC Hurdles Today | Harry West | [Read More](https://medium.com/p/d798f06a9b09) |
