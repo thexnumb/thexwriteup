@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 22:12:08 GMT | Exploring the Benefits of Smart Doors with SwitchBot in the Smart Home Industry | samanthanorman1622 | [Read More](https://medium.com/p/2a7bef1935bb) |
+| Thu, 12 Jun 2025 21:52:42 GMT | Beyond the OS: The Rise of Firmware-Level Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/d2bd77d52dc0) |
+| Thu, 12 Jun 2025 21:51:47 GMT | Unlock Exclusive BOUNTY Through ChainBounty's Community Drop | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/a6a5e9928941) |
 | Thu, 12 Jun 2025 21:12:34 GMT | Security Considerations for ML in Financial Services | Eden | [Read More](https://medium.com/p/f5fa263a6cb5) |
 | Thu, 12 Jun 2025 21:08:53 GMT | OWASP Top 10 for Backend Engineers: What You’re Probably Ignoring (But Shouldn’t) | Stefano Alvares | [Read More](https://medium.com/p/a11b87eb4b0c) |
 | Thu, 12 Jun 2025 20:56:28 GMT | Generating ECDSA Certificates and Signing Them With Your Own Certificate Authority Using OpenSSL | Elliot Michael Keavney | [Read More](https://medium.com/p/930b46def3ef) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 14:48:22 GMT | Phishing & SEO : le combo qui peut ruiner ton site… même si tu penses être prudent | Sebastien Grillot | [Read More](https://medium.com/p/6b7b7c582268) |
 | Thu, 12 Jun 2025 14:47:22 GMT | Analisis Ancaman Siber di Industri E-Commerce: Studi Kasus Bukalapak, Tokopedia, dan RedMart. | Dinda Rintic Rose | [Read More](https://medium.com/p/0ec7fc2be335) |
 | Thu, 12 Jun 2025 14:43:13 GMT | Part 14 — How I Run My Entire Digital Life on a Raspberry Pi: Host Your Own Secure Chat Server for… | Levente Csikor | [Read More](https://medium.com/p/7ab58f678a4f) |
-| Thu, 12 Jun 2025 14:42:48 GMT | Web3 Cryptography: Understanding ECC and Its Threats | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/22f6e68502ad) |
-| Thu, 12 Jun 2025 14:40:54 GMT | LinkedIn’s Pinpoint Puzzle — Today’s Theme: Forms of ID! | Chordiyajiya | [Read More](https://medium.com/p/075269700f1a) |
-| Thu, 12 Jun 2025 14:36:58 GMT | HTTP Parameter pollution | Chandana Priya | [Read More](https://medium.com/p/bad2fda0ef6f) |
