@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 18:38:28 GMT | Script Executor: Streamlining Task Automation | SafeAeon Inc. | [Read More](https://medium.com/p/974b0458d565) |
+| Thu, 12 Jun 2025 18:35:21 GMT | Packets & Frames — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/6fb8402386bb) |
+| Thu, 12 Jun 2025 18:31:08 GMT | My OSCP journey: From Uncertainty to Certification | Porkballs | [Read More](https://medium.com/p/c45ed579dd62) |
+| Thu, 12 Jun 2025 18:26:02 GMT | How AI Is Getting Into the Hacking Field (And What That Might Mean for Us) | S4vz4d | [Read More](https://medium.com/p/bfc79c9e06b0) |
+| Thu, 12 Jun 2025 18:22:16 GMT | OSI Model — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/68feb7ffa136) |
 | Thu, 12 Jun 2025 18:20:09 GMT | I hope I told you this. | writes and wongs | [Read More](https://medium.com/p/3dac52a1454d) |
+| Thu, 12 Jun 2025 18:18:12 GMT | Exploiting Broken Client-side Access Control: Unlocking Premium Access | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/5ac12d8262cd) |
+| Thu, 12 Jun 2025 18:18:00 GMT | RSA Conference 2025 Overview | SafeAeon Inc. | [Read More](https://medium.com/p/108e9f5fe10d) |
 | Thu, 12 Jun 2025 18:02:39 GMT | The Illusion of Protection | Malik Vero | [Read More](https://medium.com/p/b0682600b38d) |
 | Thu, 12 Jun 2025 17:58:02 GMT | Common Golang mistakes that hurt programmers | Kirubakaran | [Read More](https://medium.com/p/e97fb98b1501) |
 | Thu, 12 Jun 2025 17:52:40 GMT | Tutorial - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/0c4fb9ede7d0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 13:02:54 GMT | Security+ SY0–701 — Week 3 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/0e369dbdef19) |
 | Thu, 12 Jun 2025 13:02:51 GMT | Fake Contacts, Real Danger: Inside the Android Malware That Poses as Your Bank | Peris.ai Cybersecurity | [Read More](https://medium.com/p/baaba094a993) |
 | Thu, 12 Jun 2025 12:56:36 GMT | Securing Microservices with C# Records: The Immutability Advantage | Herbert Moroni Gois | [Read More](https://medium.com/p/0a7a4f09adbf) |
-| Thu, 12 Jun 2025 12:55:54 GMT | The 8 Types of Business Risks Every GRC Analyst Needs to Understand | Brittney Ginther | [Read More](https://medium.com/p/9f85585890ec) |
-| Thu, 12 Jun 2025 12:46:17 GMT | ️ 2025’te Türkiye'de VPN Kullanmak: Hangi VPN Gerçekten İşe Yarıyor? | inovasyonn | [Read More](https://medium.com/p/49d9ef2d40a3) |
-| Thu, 12 Jun 2025 12:43:15 GMT | Robofinder : A good tool for bughunters | loyalonlytoday | [Read More](https://medium.com/p/b351ca318291) |
-| Thu, 12 Jun 2025 12:36:18 GMT | Navigating the AI-Powered Cyber Storm: A Practical Survival Guide for Your Business in June 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/f391df8b35ec) |
-| Thu, 12 Jun 2025 12:35:20 GMT | What is Zero Trust Architecture? Principles & Implementation Guide | priyankayadav | [Read More](https://medium.com/p/e6757c5bef40) |
-| Thu, 12 Jun 2025 12:30:41 GMT | OpenAI Bans Hacker Tied ChatGPT Accounts After Discovering Misuse by Nation State Groups | Saravanan R | [Read More](https://medium.com/p/5ac75ae94e3c) |
-| Thu, 12 Jun 2025 12:29:30 GMT | Your Digital Front Door Is Unlocked. Here’s How to Secure It. | PC & Tech News | [Read More](https://medium.com/p/50e5af9a0e29) |
