@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 11:03:24 GMT | The Hidden Web: How Bing Dorks Reveal What Google Won’t Show You | Intellectsy | [Read More](https://medium.com/p/a3c87bfac6f2) |
+| Thu, 12 Jun 2025 11:02:44 GMT | What the hell is Kerberos? | EOLO | [Read More](https://medium.com/p/c352bef8d098) |
+| Thu, 12 Jun 2025 11:02:42 GMT | Vexcash Review - This Is How I Got My Money Back. | Dorothy Purdy | [Read More](https://medium.com/p/d93b0fdffea1) |
+| Thu, 12 Jun 2025 11:01:12 GMT | Advanced Biometrics Authentication Systems in Maryland by ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/647436299025) |
+| Thu, 12 Jun 2025 10:58:19 GMT | BRabbit Lab | Jesús García Rubias | [Read More](https://medium.com/p/fce045e25cd1) |
+| Thu, 12 Jun 2025 10:56:54 GMT | ECC and Web3 Cryptography as well as its threats. | Eilcxtvrzfmicyqqmo | [Read More](https://medium.com/p/30aac1a8cd56) |
+| Thu, 12 Jun 2025 10:54:04 GMT | A Complete Guide to Communications Platform as a Service | Gauri Kale | [Read More](https://medium.com/p/9517b2eb2f66) |
+| Thu, 12 Jun 2025 10:53:29 GMT | Understanding and Preventing CSRF Attacks in PHP Applications | Roman Huliak | [Read More](https://medium.com/p/ad7bc74c5ef7) |
+| Thu, 12 Jun 2025 10:52:49 GMT | Ruby’s Security Crisis: When Obsolescence Meets Exploits | Yash Batra | [Read More](https://medium.com/p/50d62c8a2e4d) |
 | Thu, 12 Jun 2025 10:38:27 GMT | SkyTower Walkthrough — Gaining Root Access | Rohan UK | [Read More](https://medium.com/p/44658ae9c021) |
 | Thu, 12 Jun 2025 10:36:29 GMT | Crack the Code: A Beginner’s Guide to Wi-Fi Hacking with Aircrack-ng | Poduthasnevin | [Read More](https://medium.com/p/a1b2fdf10838) |
 | Thu, 12 Jun 2025 10:33:30 GMT | Amadey Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/0fe40e21e9f8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 06:12:40 GMT | How One Video Boosted My Cybersecurity YouTube Channel | Taimur Ijlal | [Read More](https://medium.com/p/48a7ca7308f4) |
 | Thu, 12 Jun 2025 06:12:13 GMT | Secure Your Bank’s Future with Professional Bank Security Guard Services in Gurgaon | vervesecurity. | [Read More](https://medium.com/p/3507db5d72ee) |
 | Thu, 12 Jun 2025 06:11:02 GMT | A classic file based IDOR on NIELIT portal | Adithya M S | [Read More](https://medium.com/p/064604c7fc62) |
-| Thu, 12 Jun 2025 06:10:49 GMT | How SOC 2 Compliance Builds Trust for FinTech Companies in the U.S. | Ampcus Cyber | [Read More](https://medium.com/p/7edf1c4763f5) |
-| Thu, 12 Jun 2025 06:10:24 GMT | Hakrawler Tutorial: Fast Web Crawler for Bug Bounty | Pawan Jaiswal | [Read More](https://medium.com/p/8d334848dd85) |
-| Thu, 12 Jun 2025 06:08:43 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 2 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2c271bdc1a4d) |
-| Thu, 12 Jun 2025 06:08:14 GMT | Path Traversal: Portswigger Lab Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/7f61dd044452) |
-| Thu, 12 Jun 2025 06:08:01 GMT | How to Build a Cybersecurity Portfolio as an Intern | Internshipgate | [Read More](https://medium.com/p/8f25d9d58fb3) |
-| Thu, 12 Jun 2025 06:04:55 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/2960dbcd480a) |
-| Thu, 12 Jun 2025 06:04:21 GMT | How I hacked Karnataka NIC portal with a simple SQL injection | Adithya M S | [Read More](https://medium.com/p/073f064ad99e) |
-| Thu, 12 Jun 2025 06:02:15 GMT | Bypassing Authentication: A Critical Flaw in Basecamp’s | Monika sharma | [Read More](https://medium.com/p/849d9fadf39f) |
-| Thu, 12 Jun 2025 06:01:33 GMT | The Future of Cybersecurity Jobs: What Interns Should Know | Internshipgate | [Read More](https://medium.com/p/3c81fac52abb) |
