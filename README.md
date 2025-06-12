@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 12:36:18 GMT | Navigating the AI-Powered Cyber Storm: A Practical Survival Guide for Your Business in June 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/f391df8b35ec) |
+| Thu, 12 Jun 2025 12:35:20 GMT | What is Zero Trust Architecture? Principles & Implementation Guide | priyankayadav | [Read More](https://medium.com/p/e6757c5bef40) |
+| Thu, 12 Jun 2025 12:30:41 GMT | OpenAI Bans Hacker Tied ChatGPT Accounts After Discovering Misuse by Nation State Groups | Saravanan R | [Read More](https://medium.com/p/5ac75ae94e3c) |
+| Thu, 12 Jun 2025 12:29:30 GMT | Your Digital Front Door Is Unlocked. Here’s How to Secure It. | PC & Tech News | [Read More](https://medium.com/p/50e5af9a0e29) |
+| Thu, 12 Jun 2025 12:28:23 GMT | ChatGPT: Now Banned in the Hacker Hall of Fame | MohitV | [Read More](https://medium.com/p/5ec045f6570b) |
+| Thu, 12 Jun 2025 12:26:30 GMT | OpenAI Disables ChatGPT Accounts Linked to State-Sponsored Cyber Operations | Akash P | [Read More](https://medium.com/p/003a71a552a3) |
+| Thu, 12 Jun 2025 12:25:40 GMT | Go’s Philosophy: Building Secure Systems | Ganesh | [Read More](https://medium.com/p/42a8d5360ea5) |
+| Thu, 12 Jun 2025 12:22:27 GMT | What is my IP address? https://randompasswordgenerator.uk/random-ip-address-generator/ | Tahashaikhseo | [Read More](https://medium.com/p/5dad3f3127fa) |
+| Thu, 12 Jun 2025 12:18:06 GMT | Apprise Cyber and BMC Solutions Form Cybersecurity Partnership | Muhammad Inam Abbasi | [Read More](https://medium.com/p/ea2c1242b547) |
+| Thu, 12 Jun 2025 12:12:30 GMT | Here’s How I Recover My Money From Accsmktoptions | José Garcia | [Read More](https://medium.com/p/4851182f62e5) |
+| Thu, 12 Jun 2025 12:11:18 GMT | Why AI Is the Backbone of Modern Threat Detection and Incident Response | Sophia | [Read More](https://medium.com/p/3f1aa24ff1c5) |
+| Thu, 12 Jun 2025 12:08:09 GMT | ️ Static Malware Analysis 101: Understanding Threats Without Execution | Selim Oguz Şahin | [Read More](https://medium.com/p/1c6282d1661e) |
+| Thu, 12 Jun 2025 12:01:13 GMT | Setting Up a Malware Analysis Lab with Flare VM | Selim Oguz Şahin | [Read More](https://medium.com/p/2aa53a5a9ff1) |
+| Thu, 12 Jun 2025 11:59:38 GMT | The Bizarre Origin of CAPTCHA — And What It’s Really Protecting You From | Hafizbilaltariq | [Read More](https://medium.com/p/858ca0dfaefc) |
+| Thu, 12 Jun 2025 11:45:27 GMT | Building a Secure OTP-Based Auth API Using Spring Boot | Shiv Rane | [Read More](https://medium.com/p/14c7ff574f5a) |
+| Thu, 12 Jun 2025 11:45:19 GMT | ? | Hafizbilaltariq | [Read More](https://medium.com/p/62ae82abaa1f) |
+| Thu, 12 Jun 2025 11:42:00 GMT | New Affordable Penetration Testing — Could Transform UK SME Cybersecurity Defence | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/8d6f4040a34d) |
 | Thu, 12 Jun 2025 11:31:15 GMT | Elevate Your Expertise: The PG Diploma in Information Technology at Eleskills.com | bikash Gochhayat | [Read More](https://medium.com/p/5684df0b487d) |
 | Thu, 12 Jun 2025 11:29:19 GMT | How AI is Learning to Think Like Humans — And What That Means for Us. | Hafizbilaltariq | [Read More](https://medium.com/p/059405098034) |
 | Thu, 12 Jun 2025 11:27:03 GMT | Web Application Firewall | Amalpp | [Read More](https://medium.com/p/d8b75f5f0a9d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 07:02:44 GMT | Critical CVEs Patched in Easy2Patch E2P-20250614 Catalog | Easy2Patch | [Read More](https://medium.com/p/6082670862cf) |
 | Thu, 12 Jun 2025 07:02:11 GMT | 5DATA INC: Expert Mobile Testing - Top QA Solutions | Bharathig | [Read More](https://medium.com/p/942e79aa8f31) |
 | Thu, 12 Jun 2025 07:01:01 GMT | A Beginner’s Roadmap to Cybersecurity — What You Need to Learn and Why It Matters | Abhay Patel | [Read More](https://medium.com/p/b54e647215f4) |
-| Thu, 12 Jun 2025 06:58:30 GMT | Best Institute for Red Hat RHCE Course In Delhi | cyber security Updates | [Read More](https://medium.com/p/75655ad45859) |
-| Thu, 12 Jun 2025 06:54:46 GMT | Building the Right Team Starts with the Right Checks | Mariiatata | [Read More](https://medium.com/p/a4cde9c39890) |
-| Thu, 12 Jun 2025 06:53:21 GMT | Title: The PasswordsMatrix: How My High School Matrix Curiosity Turned into a Cool Security Idea | Urjith | [Read More](https://medium.com/p/ec9e9a9f0cda) |
-| Thu, 12 Jun 2025 06:51:27 GMT | How I Gained Root via LFI and a CVE in Backdrop CMS — Hack The Box ‘Dog’ Write-Up | Raihan shamnad | [Read More](https://medium.com/p/f3c2427dbd18) |
-| Thu, 12 Jun 2025 06:50:02 GMT | ️ When Spiders Phish and Cats Rebrand: Welcome to the Ransomware Multiverse | NickyCammarata | [Read More](https://medium.com/p/c02f07fba65f) |
-| Thu, 12 Jun 2025 06:48:46 GMT | Top Security Guard Companies in Pune Ranked | United Guard Force India | [Read More](https://medium.com/p/472b6958be73) |
-| Thu, 12 Jun 2025 06:47:23 GMT | Smart Cities: Leveraging Technology for Urban Development | Les Ottolenghi | [Read More](https://medium.com/p/15eedeb695f6) |
-| Thu, 12 Jun 2025 06:44:29 GMT | Why Every Business Needs a Strong Penetration Testing Report — A Guide by CyberNX | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/e7a3f6cfb693) |
-| Thu, 12 Jun 2025 06:43:55 GMT | “I Was Wrongfully Accused — Here’s What It Taught Me About the Legal System” | S Anuradha | [Read More](https://medium.com/p/45e35c831d6e) |
-| Thu, 12 Jun 2025 06:39:41 GMT | KakaoTalk alternative messenger — SECURET, a safe messenger without censorship! | SAYCOIN | [Read More](https://medium.com/p/690bfbeedbda) |
-| Thu, 12 Jun 2025 06:38:04 GMT | CRQ: The New Backbone of Cyber Risk Management | Zeron | [Read More](https://medium.com/p/6894d39e074f) |
-| Thu, 12 Jun 2025 06:35:07 GMT | ✍Global Firewall as a Service Market Size, Share, Key Players, Trends, Sales, Supply, Demand… | Mreed | [Read More](https://medium.com/p/db781f610baa) |
-| Thu, 12 Jun 2025 06:31:45 GMT | Cybersecurity Requirements for Medical Device Software Under EU MDR and MDCG Guidance | SEO Agency | [Read More](https://medium.com/p/00cb5b8651eb) |
-| Thu, 12 Jun 2025 06:27:46 GMT | The Hidden Danger in the Cloud: S3 Buckets & Random URLs | Yash Virendra Prajapati | [Read More](https://medium.com/p/74d8461f2888) |
-| Thu, 12 Jun 2025 06:20:05 GMT | The Day Our Accountant Almost Cost Us Everything | Business agroup | [Read More](https://medium.com/p/561ee83395d5) |
-| Thu, 12 Jun 2025 06:19:39 GMT | SOC Incident and Response Plan for Ransomware | Aaron Gabriel Morales | [Read More](https://medium.com/p/e95ad43b7bcf) |
-| Thu, 12 Jun 2025 06:14:38 GMT | GraphQL in the Wild: Recon to RCE via Introspection, Nested Queries & Batching Attacks | Monika sharma | [Read More](https://medium.com/p/dbd2d704fbdf) |
