@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 15:10:20 GMT | How Does One CVE Lead to XSS, Redirect, and SSRF | Ibtissam hammadi | [Read More](https://medium.com/p/6a3507bc3b58) |
+| Thu, 12 Jun 2025 15:06:46 GMT | Think Before You Click: Cyber Training at Air University | Muhammad Inam Abbasi | [Read More](https://medium.com/p/56934cd35a5f) |
+| Thu, 12 Jun 2025 15:02:40 GMT | Ransomware Prevention Strategies from a Network Security Analyst in Phoenix, AZ | Blue Fox Group | [Read More](https://medium.com/p/a345aaf7b56c) |
+| Thu, 12 Jun 2025 15:01:16 GMT | Here’s a detailed guide to claiming the Best Wallet ($BEST) airdrop, along with safe practices and… | Rujitoken | [Read More](https://medium.com/p/77e48510a650) |
+| Thu, 12 Jun 2025 14:57:44 GMT | How to prepare for CISSP Test | Jin | [Read More](https://medium.com/p/52de7a3e6726) |
+| Thu, 12 Jun 2025 14:57:33 GMT | Here’s the definitive, up-to-date guide to claiming your BTCBULL reward tokens and Bitcoin… | Rujitoken | [Read More](https://medium.com/p/2de304fa4674) |
+| Thu, 12 Jun 2025 14:51:34 GMT | ️ API04:2023 — Unrestricted Resource Consumption | Suhel Kathi | [Read More](https://medium.com/p/8da600e29c57) |
+| Thu, 12 Jun 2025 14:48:22 GMT | Phishing & SEO : le combo qui peut ruiner ton site… même si tu penses être prudent | Sebastien Grillot | [Read More](https://medium.com/p/6b7b7c582268) |
+| Thu, 12 Jun 2025 14:47:22 GMT | Analisis Ancaman Siber di Industri E-Commerce: Studi Kasus Bukalapak, Tokopedia, dan RedMart. | Dinda Rintic Rose | [Read More](https://medium.com/p/0ec7fc2be335) |
 | Thu, 12 Jun 2025 14:43:13 GMT | Part 14 — How I Run My Entire Digital Life on a Raspberry Pi: Host Your Own Secure Chat Server for… | Levente Csikor | [Read More](https://medium.com/p/7ab58f678a4f) |
 | Thu, 12 Jun 2025 14:42:48 GMT | Web3 Cryptography: Understanding ECC and Its Threats | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/22f6e68502ad) |
 | Thu, 12 Jun 2025 14:40:54 GMT | LinkedIn’s Pinpoint Puzzle — Today’s Theme: Forms of ID! | Chordiyajiya | [Read More](https://medium.com/p/075269700f1a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 09:19:28 GMT | ⚠️ CVE-2025–32710: Critical RCE Vulnerability in Windows Remote Desktop Gateway — Patch Now Before… | Infoziant | [Read More](https://medium.com/p/ea75587f1245) |
 | Thu, 12 Jun 2025 09:15:43 GMT | Unlock Your Share of DORK's Reward Drop and Enjoy maximum benefits | $DORK (DORK) | [Read More](https://medium.com/p/b3fda8e04326) |
 | Thu, 12 Jun 2025 09:02:42 GMT | Overcome These GRC Hurdles Today | Harry West | [Read More](https://medium.com/p/d798f06a9b09) |
-| Thu, 12 Jun 2025 09:00:08 GMT | ECC dan Web3 Cryptography dan Threatnya | Riski Hidayat | [Read More](https://medium.com/p/ca966c1d67b0) |
-| Thu, 12 Jun 2025 08:56:51 GMT | Beyond Firewalls: Why Traditional Security Measures Aren’t Enough in 2025 | Vatsamistry | [Read More](https://medium.com/p/5d1bd9c9589a) |
-| Thu, 12 Jun 2025 08:56:33 GMT | Into the Binary: Bypassing Native SSL Pinning in a Mobile Game | George Joseph | [Read More](https://medium.com/p/3423b9c094e1) |
-| Thu, 12 Jun 2025 08:53:56 GMT | Fortifying the Future: How Robust Cybersecurity Fuels Fintech Profitability | Sakshi Dwivedi | [Read More](https://medium.com/p/b970b0c37e95) |
-| Thu, 12 Jun 2025 08:40:36 GMT | Israel ‘Poised to Strike’ Iran: US Media Reveals Imminent Attack Plans 2025 | sania maryam | [Read More](https://medium.com/p/eaaa379a7725) |
-| Thu, 12 Jun 2025 08:40:04 GMT | Random IP address generator for testing | Tahashaikhseo | [Read More](https://medium.com/p/1d1a96d7226e) |
-| Thu, 12 Jun 2025 08:38:58 GMT | Why Microsoft 365 Business Premium Is the Best Plan for SMBs in 2025 | Roshan Karki | [Read More](https://medium.com/p/ce4ce87ff51a) |
-| Thu, 12 Jun 2025 08:37:52 GMT | Cryptocurrency Mining Threat: Dero Malware Found on Unsecured Docker APIs | Criminal IP | [Read More](https://medium.com/p/4424ce340105) |
-| Thu, 12 Jun 2025 08:34:59 GMT | Dipping My Fingers Back into the CTF World - CSC CTF ‘25 WriteUp | Lia Eu - midn8 | [Read More](https://medium.com/p/83fa0fd1c916) |
