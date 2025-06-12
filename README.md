@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 22:36:59 GMT | When Machines Meet Mayhem: AI’s Battle against Modern Cyber Threats | Anjum | [Read More](https://medium.com/p/0692331e6b8a) |
+| Thu, 12 Jun 2025 22:31:02 GMT | IGNITE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/504d6c3a3fb4) |
+| Thu, 12 Jun 2025 22:30:06 GMT | CTF Day(11) | Ahmed Narmer | [Read More](https://medium.com/p/0e8420294f32) |
+| Thu, 12 Jun 2025 22:21:07 GMT | I Signed Up for the Cyber Games. I’m Not a Coder. Here’s What I Learned | TxRattler | [Read More](https://medium.com/p/e2a1916d0e23) |
+| Thu, 12 Jun 2025 22:17:05 GMT | Advanced Directory Enumeration with FFUF and Custom Wordlists | Karthikeyan Nagaraj | [Read More](https://medium.com/p/49915142983b) |
 | Thu, 12 Jun 2025 22:12:08 GMT | Exploring the Benefits of Smart Doors with SwitchBot in the Smart Home Industry | samanthanorman1622 | [Read More](https://medium.com/p/2a7bef1935bb) |
 | Thu, 12 Jun 2025 21:52:42 GMT | Beyond the OS: The Rise of Firmware-Level Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/d2bd77d52dc0) |
 | Thu, 12 Jun 2025 21:51:47 GMT | Unlock Exclusive BOUNTY Through ChainBounty's Community Drop | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/a6a5e9928941) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 15:02:40 GMT | Ransomware Prevention Strategies from a Network Security Analyst in Phoenix, AZ | Blue Fox Group | [Read More](https://medium.com/p/a345aaf7b56c) |
 | Thu, 12 Jun 2025 15:01:16 GMT | Here’s a detailed guide to claiming the Best Wallet ($BEST) airdrop, along with safe practices and… | Rujitoken | [Read More](https://medium.com/p/77e48510a650) |
 | Thu, 12 Jun 2025 14:57:44 GMT | How to prepare for CISSP Test | Jin | [Read More](https://medium.com/p/52de7a3e6726) |
-| Thu, 12 Jun 2025 14:57:33 GMT | Here’s the definitive, up-to-date guide to claiming your BTCBULL reward tokens and Bitcoin… | Rujitoken | [Read More](https://medium.com/p/2de304fa4674) |
-| Thu, 12 Jun 2025 14:51:34 GMT | ️ API04:2023 — Unrestricted Resource Consumption | Suhel Kathi | [Read More](https://medium.com/p/8da600e29c57) |
-| Thu, 12 Jun 2025 14:48:22 GMT | Phishing & SEO : le combo qui peut ruiner ton site… même si tu penses être prudent | Sebastien Grillot | [Read More](https://medium.com/p/6b7b7c582268) |
-| Thu, 12 Jun 2025 14:47:22 GMT | Analisis Ancaman Siber di Industri E-Commerce: Studi Kasus Bukalapak, Tokopedia, dan RedMart. | Dinda Rintic Rose | [Read More](https://medium.com/p/0ec7fc2be335) |
-| Thu, 12 Jun 2025 14:43:13 GMT | Part 14 — How I Run My Entire Digital Life on a Raspberry Pi: Host Your Own Secure Chat Server for… | Levente Csikor | [Read More](https://medium.com/p/7ab58f678a4f) |
