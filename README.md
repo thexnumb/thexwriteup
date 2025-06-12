@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 23:30:20 GMT | Official Biography: @SPYDIRBYTE | ADanielHill | [Read More](https://medium.com/p/5bd97bb1c4f8) |
+| Thu, 12 Jun 2025 23:28:12 GMT | Cracking TCMSec’s PNPT on my first attempt — while earning my very first cybersecurity… | Ritik Bavdekar | [Read More](https://medium.com/p/74c698b8636d) |
+| Thu, 12 Jun 2025 23:26:54 GMT | A Woman Found a Suspicious Phone Buried in Her Lawn | Kelly Carmichael | [Read More](https://medium.com/p/7eae0321a44f) |
+| Thu, 12 Jun 2025 23:26:39 GMT | Why the Adult World Is So Lonely — And What You Can Do About It | Wilson Igbasi | [Read More](https://medium.com/p/a579caacfde2) |
 | Thu, 12 Jun 2025 23:05:26 GMT | Pasqal Charts Bold Course: Roadmap to 10,000 Qubits and Fault-Tolerant Quantum Computing | QuantumGenie | [Read More](https://medium.com/p/3056a00ce397) |
 | Thu, 12 Jun 2025 22:58:07 GMT | AI-Powered Zero Trust: Automating Threat Response and Insider Detection | Christopher | [Read More](https://medium.com/p/76f65796b03c) |
 | Thu, 12 Jun 2025 22:36:59 GMT | When Machines Meet Mayhem: AI’s Battle against Modern Cyber Threats | Anjum | [Read More](https://medium.com/p/0692331e6b8a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 15:20:04 GMT | Out of Control Bots | Tanishasamanta | [Read More](https://medium.com/p/3d81fb3c1e21) |
 | Thu, 12 Jun 2025 15:19:42 GMT | 10 Dark web sites you didn’t know exist. | Khadim | [Read More](https://medium.com/p/22434ea8e3c0) |
 | Thu, 12 Jun 2025 15:18:35 GMT | The Hidden Code: Psychology as the Key to Digital Investigations | NOF Consulting | [Read More](https://medium.com/p/9ff544ede5a8) |
-| Thu, 12 Jun 2025 15:16:41 GMT | Why an Email Leak Is Just the Tip of the Iceberg (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/7e7654f7067b) |
-| Thu, 12 Jun 2025 15:10:20 GMT | How Does One CVE Lead to XSS, Redirect, and SSRF | Ibtissam hammadi | [Read More](https://medium.com/p/6a3507bc3b58) |
-| Thu, 12 Jun 2025 15:06:46 GMT | Think Before You Click: Cyber Training at Air University | Muhammad Inam Abbasi | [Read More](https://medium.com/p/56934cd35a5f) |
-| Thu, 12 Jun 2025 15:02:40 GMT | Ransomware Prevention Strategies from a Network Security Analyst in Phoenix, AZ | Blue Fox Group | [Read More](https://medium.com/p/a345aaf7b56c) |
