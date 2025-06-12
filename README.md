@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 19:21:38 GMT | Alarm Fatigue Management and Noise Reduction Techniques | Esra Kayhan | [Read More](https://medium.com/p/b8cb36de0439) |
+| Thu, 12 Jun 2025 19:07:21 GMT | Sivanandh CC: The Visionary Behind RECILENS — A Company Redefining Cybersecurity and Digital… | Official Writer | [Read More](https://medium.com/p/424b6d807bb8) |
+| Thu, 12 Jun 2025 19:06:52 GMT | SmartAttack Uses Smartwatch Ultrasonic Channels to Breach Air-Gapped PCs | Ronit Yadav | [Read More](https://medium.com/p/546f72708726) |
+| Thu, 12 Jun 2025 19:04:56 GMT | Securing the IoT Frontier: Safeguarding 27 Billion Devices in 2025 | Chetan Seripally | [Read More](https://medium.com/p/82a5936134a8) |
 | Thu, 12 Jun 2025 18:57:42 GMT | Open Redirect Nedir? | SilverXCyber | [Read More](https://medium.com/p/519cc1897d0a) |
 | Thu, 12 Jun 2025 18:56:37 GMT | SAP Disaster Recovery: Step by Step Guide to Planning, Implementation & Best Practices | Techridge Solutions | [Read More](https://medium.com/p/f2a2adb625b6) |
 | Thu, 12 Jun 2025 18:47:34 GMT | flashing CryptoCurrency Available in 2025 | FLASH_CRYPTO | [Read More](https://medium.com/p/ad8e4ea09090) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 13:23:08 GMT | Cloud Colonialism? | Etnik | [Read More](https://medium.com/p/abba71b466e7) |
 | Thu, 12 Jun 2025 13:14:03 GMT | Stealth Falcon just left SOC dads an early Father’s Day present | Wes Young | [Read More](https://medium.com/p/806eda92de11) |
 | Thu, 12 Jun 2025 13:13:49 GMT | Authorization & Certificates Demystified — Part 1 | Anmol Sehgal | [Read More](https://medium.com/p/d7e70e1b0232) |
-| Thu, 12 Jun 2025 13:11:31 GMT | Fileless Malware: How Attackers Use Familiar Tools to Stay Hidden | Ramsey Consulting Services | [Read More](https://medium.com/p/3362aeba2b71) |
-| Thu, 12 Jun 2025 13:06:17 GMT | Selecting the right Security Software to enhance the business experience. | Juarait Digital | [Read More](https://medium.com/p/e23275983d77) |
-| Thu, 12 Jun 2025 13:05:07 GMT | Front-Running Flaws? Patch Them Before Hackers Do! | Ancilar Technologies | [Read More](https://medium.com/p/5435fa7cb58a) |
-| Thu, 12 Jun 2025 13:04:29 GMT | The Rhythm of Our Own Drum | Nelly | [Read More](https://medium.com/p/b6f65b1aa4f7) |
