@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 09:19:28 GMT | ⚠️ CVE-2025–32710: Critical RCE Vulnerability in Windows Remote Desktop Gateway — Patch Now Before… | Infoziant | [Read More](https://medium.com/p/ea75587f1245) |
+| Thu, 12 Jun 2025 09:15:43 GMT | Unlock Your Share of DORK's Reward Drop and Enjoy maximum benefits | $DORK (DORK) | [Read More](https://medium.com/p/b3fda8e04326) |
+| Thu, 12 Jun 2025 09:02:42 GMT | Overcome These GRC Hurdles Today | Harry West | [Read More](https://medium.com/p/d798f06a9b09) |
+| Thu, 12 Jun 2025 09:00:08 GMT | ECC dan Web3 Cryptography dan Threatnya | Riski Hidayat | [Read More](https://medium.com/p/ca966c1d67b0) |
+| Thu, 12 Jun 2025 08:56:51 GMT | Beyond Firewalls: Why Traditional Security Measures Aren’t Enough in 2025 | Vatsamistry | [Read More](https://medium.com/p/5d1bd9c9589a) |
+| Thu, 12 Jun 2025 08:56:33 GMT | Into the Binary: Bypassing Native SSL Pinning in a Mobile Game | George Joseph | [Read More](https://medium.com/p/3423b9c094e1) |
+| Thu, 12 Jun 2025 08:53:56 GMT | Fortifying the Future: How Robust Cybersecurity Fuels Fintech Profitability | Sakshi Dwivedi | [Read More](https://medium.com/p/b970b0c37e95) |
 | Thu, 12 Jun 2025 08:40:36 GMT | Israel ‘Poised to Strike’ Iran: US Media Reveals Imminent Attack Plans 2025 | sania maryam | [Read More](https://medium.com/p/eaaa379a7725) |
+| Thu, 12 Jun 2025 08:40:04 GMT | Random IP address generator for testing | Tahashaikhseo | [Read More](https://medium.com/p/1d1a96d7226e) |
 | Thu, 12 Jun 2025 08:38:58 GMT | Why Microsoft 365 Business Premium Is the Best Plan for SMBs in 2025 | Roshan Karki | [Read More](https://medium.com/p/ce4ce87ff51a) |
 | Thu, 12 Jun 2025 08:37:52 GMT | Cryptocurrency Mining Threat: Dero Malware Found on Unsecured Docker APIs | Criminal IP | [Read More](https://medium.com/p/4424ce340105) |
 | Thu, 12 Jun 2025 08:34:59 GMT | Dipping My Fingers Back into the CTF World - CSC CTF ‘25 WriteUp | Lia Eu - midn8 | [Read More](https://medium.com/p/83fa0fd1c916) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 04:14:56 GMT | Have you ever stopped to think how your message on WhatsApp or your favorite YouTube video… | HealerLogs | [Read More](https://medium.com/p/2e10d62a4ca1) |
 | Thu, 12 Jun 2025 04:13:25 GMT | Cybersecurity Best Practices for Remote Workforces | Les Ottolenghi | [Read More](https://medium.com/p/5ec83d9dd96a) |
 | Thu, 12 Jun 2025 04:06:01 GMT | CyberArk Integration in Microservice Architecture | Pattanaikansuman | [Read More](https://medium.com/p/d31b680ed9bb) |
-| Thu, 12 Jun 2025 04:02:17 GMT | Dedicated Server for Ecommerce: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/10a8528a979e) |
-| Thu, 12 Jun 2025 03:56:50 GMT | Essential 8: A Must-Know for Australian Business Owners in 2025 | cyber ethos | [Read More](https://medium.com/p/33aa5e210a5f) |
-| Thu, 12 Jun 2025 03:46:46 GMT | The Architect’s Cybersecurity Checklist: Protecting Your Intellectual Property | Jacky Kapadia | [Read More](https://medium.com/p/07ee722c82b3) |
-| Thu, 12 Jun 2025 03:31:36 GMT | When Security Backfires: Dissecting the Shopware SQL Injection Flaw | Deven Chhajed | [Read More](https://medium.com/p/322a419647f6) |
-| Thu, 12 Jun 2025 03:31:04 GMT | Understanding HMAC: A Deep Dive into Hash-Based Message Authentication Codes | Jagadhiswaran D | [Read More](https://medium.com/p/7751a7db9241) |
-| Thu, 12 Jun 2025 03:18:19 GMT | The Hidden Guardians: How Prime Numbers Quietly Protect Your Digital Life | Techscribe Central | [Read More](https://medium.com/p/8f5fe7e35874) |
-| Thu, 12 Jun 2025 03:03:02 GMT | SOC 2 Penetration Testing in 2025: Why ‘Good Enough’ Security Could Cost You Everything | Biswajeet Poddar | [Read More](https://medium.com/p/d6b114e4516f) |
-| Thu, 12 Jun 2025 02:59:34 GMT | LetsDefend — SOC176 Walkthrough (RDP Brute Force) | Joshua Chua | [Read More](https://medium.com/p/002cb34a415a) |
