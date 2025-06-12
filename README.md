@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 03:46:46 GMT | The Architect’s Cybersecurity Checklist: Protecting Your Intellectual Property | Jacky Kapadia | [Read More](https://medium.com/p/07ee722c82b3) |
+| Thu, 12 Jun 2025 03:31:36 GMT | When Security Backfires: Dissecting the Shopware SQL Injection Flaw | Deven Chhajed | [Read More](https://medium.com/p/322a419647f6) |
+| Thu, 12 Jun 2025 03:31:04 GMT | Understanding HMAC: A Deep Dive into Hash-Based Message Authentication Codes | Jagadhiswaran D | [Read More](https://medium.com/p/7751a7db9241) |
+| Thu, 12 Jun 2025 03:18:19 GMT | The Hidden Guardians: How Prime Numbers Quietly Protect Your Digital Life | Techscribe Central | [Read More](https://medium.com/p/8f5fe7e35874) |
+| Thu, 12 Jun 2025 03:03:02 GMT | SOC 2 Penetration Testing in 2025: Why ‘Good Enough’ Security Could Cost You Everything | Biswajeet Poddar | [Read More](https://medium.com/p/d6b114e4516f) |
 | Thu, 12 Jun 2025 02:59:34 GMT | LetsDefend — SOC176 Walkthrough (RDP Brute Force) | Joshua Chua | [Read More](https://medium.com/p/002cb34a415a) |
 | Thu, 12 Jun 2025 02:54:23 GMT | 5 Future-Proof Tech Skills You Should Start Learning Now (Before 2030) | iswarya writes | [Read More](https://medium.com/p/00bfb2e849ab) |
 | Thu, 12 Jun 2025 02:22:22 GMT | Mastering Subdomain Enumeration with Amass: A Complete Guide for Ethical Hackers | YoungerSibling | [Read More](https://medium.com/p/276d6e915e51) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 18:08:49 GMT | Facebook और Google — कौन रखता है हम पर नज़र? | SaadeAala RS | [Read More](https://medium.com/p/c9f89bcfb7df) |
 | Wed, 11 Jun 2025 18:06:39 GMT | Evri Delivery Scams Explained: What Every UK Consumer Should Know | Sammcmullen | [Read More](https://medium.com/p/91f05298a7ac) |
 | Wed, 11 Jun 2025 18:02:40 GMT | How to Test AI Bias — A Practical Guide | Himanshunya | [Read More](https://medium.com/p/b3e09b70eb52) |
-| Wed, 11 Jun 2025 18:02:12 GMT | AI Testing + CI/CD — The Practical Example That Every Tester Must Know | Himanshunya | [Read More](https://medium.com/p/58d241b15282) |
-| Wed, 11 Jun 2025 18:02:02 GMT | The How & Why I Started Reading Hacking Books (And Why You Should Too) | SoBatista | [Read More](https://medium.com/p/784413583c94) |
-| Wed, 11 Jun 2025 18:00:21 GMT | Are You Accidentally Exposing Your API Keys? | Sanjeevani Bhandari | [Read More](https://medium.com/p/cbee357dcee9) |
-| Wed, 11 Jun 2025 17:51:38 GMT | How My Snowboard Startup Taught Me More Than Any MBA Ever Could | Ivan Rados | [Read More](https://medium.com/p/2ced5a0252b0) |
-| Wed, 11 Jun 2025 17:46:35 GMT | I Set My Standards So Impossibly High That I Keep Falling Short | Charleston Li | [Read More](https://medium.com/p/a6fc9cd8d729) |
