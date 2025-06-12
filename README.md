@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 16:14:31 GMT | JavaScript Security: Prototype Pollution in Node.js Applications | Rizqi Mulki | [Read More](https://medium.com/p/0015246e4a1e) |
+| Thu, 12 Jun 2025 16:14:17 GMT | ️ Day 61: Bash Scripting — Mastering Regex, Grep, Sed, and Awk | Agarwaldaksh | [Read More](https://medium.com/p/a85b515c964f) |
+| Thu, 12 Jun 2025 16:12:53 GMT | ️ Understanding Prompt Injection: The New Security Frontier in the Age of AI | Abhishek Kumar Gupta | [Read More](https://medium.com/p/61f401dd78eb) |
+| Thu, 12 Jun 2025 16:11:43 GMT | Abstraction, Virtualization & Hypervisors | Igor Berner | [Read More](https://medium.com/p/666a4770067b) |
+| Thu, 12 Jun 2025 16:09:49 GMT | Hack Happens. Are You Ready to Respond? | Abdelaziz moustakim | [Read More](https://medium.com/p/49c7abeb6879) |
+| Thu, 12 Jun 2025 16:01:37 GMT | TryHackMe-Lookup CTF | Kaan Ekşi | [Read More](https://medium.com/p/39d89beef943) |
+| Thu, 12 Jun 2025 15:58:49 GMT | Go Language Security: Concurrency-Related Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/2cf6ea6e3bfa) |
+| Thu, 12 Jun 2025 15:53:32 GMT | When Propaganda Meets Payload: The Silent War Against the Free Press | cynic4L | [Read More](https://medium.com/p/2ade0793b63b) |
+| Thu, 12 Jun 2025 15:52:58 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzale | [Read More](https://medium.com/p/ff87b918e489) |
+| Thu, 12 Jun 2025 15:49:31 GMT | Python Security: Pickle Deserialization and Remote Code Execution | Rizqi Mulki | [Read More](https://medium.com/p/6561781e1efa) |
+| Thu, 12 Jun 2025 15:49:07 GMT | Day 20: Search Skills For Ethical Hackers | Nile Okomo | [Read More](https://medium.com/p/c661a8899150) |
+| Thu, 12 Jun 2025 15:47:07 GMT | From Tokens to Trust: Understanding JWTs Through a Real-Life Analogy | Natarajan C K | [Read More](https://medium.com/p/d0118a8a7266) |
+| Thu, 12 Jun 2025 15:37:12 GMT | Securing AI-Driven Development: Cursor, MCP, and the Case for Mammoth Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/d1e93be52a21) |
 | Thu, 12 Jun 2025 15:20:40 GMT | How Books Taught Me to Cry | alley | [Read More](https://medium.com/p/7917aa83865c) |
 | Thu, 12 Jun 2025 15:20:04 GMT | Out of Control Bots | Tanishasamanta | [Read More](https://medium.com/p/3d81fb3c1e21) |
 | Thu, 12 Jun 2025 15:19:42 GMT | 10 Dark web sites you didn’t know exist. | Khadim | [Read More](https://medium.com/p/22434ea8e3c0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 10:32:53 GMT | Top Cybersecurity & Forensics Services in India — Cyber Infra Armor | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/a0b27f7cb96a) |
 | Thu, 12 Jun 2025 10:21:51 GMT | The Future of Cybersecurity In Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/9629e660cbed) |
 | Thu, 12 Jun 2025 10:21:09 GMT | Ensuring Cybersecurity and Data Privacy: The Vital Role of MCA Professionals | Poddar Group of Institutions | [Read More](https://medium.com/p/b076847cb195) |
-| Thu, 12 Jun 2025 10:20:51 GMT | Why CISSP Training Online Is the Smartest Way to Achieve Your CISSP Certification | Cybernous Infosec consulting | [Read More](https://medium.com/p/afeb8b8b121a) |
-| Thu, 12 Jun 2025 10:19:21 GMT | phpmailer vs PHPMailer: My Windows and Linux server experience | Amaziro Stanley Ehuchie | [Read More](https://medium.com/p/107a625e3aef) |
-| Thu, 12 Jun 2025 10:12:20 GMT | „Изкуственият интелект — новото лице на фалшивите новини“ | Anita Stoyanova | [Read More](https://medium.com/p/6121f00c8f3a) |
-| Thu, 12 Jun 2025 10:11:51 GMT | The Top 5 Security Threats to Watch for in 2025 | Group 24/7 Security Services | [Read More](https://medium.com/p/a4b0ce22809d) |
-| Thu, 12 Jun 2025 10:09:28 GMT | Information Disclosure via GraphQL in Production | Ehtesham Ul Haq | [Read More](https://medium.com/p/64c62c9dbe4c) |
-| Thu, 12 Jun 2025 10:06:28 GMT | Stop Network Hijacks: A Hacker’s Guide to DNS & DHCP Pen Testing | Saikat Paul | [Read More](https://medium.com/p/c6c215ef4c50) |
-| Thu, 12 Jun 2025 09:57:13 GMT | security services narre warren | Sureshvirtual | [Read More](https://medium.com/p/30899e317a35) |
-| Thu, 12 Jun 2025 09:52:31 GMT | TryHackMe PT1 Exam Review: Is It Really for Juniors? | Athiwat Tiprasaharn | [Read More](https://medium.com/p/6a9540ccf3d8) |
-| Thu, 12 Jun 2025 09:45:46 GMT | TryHackMe SAL1 Exam Review: My First-Ever SOC Analyst Experience | Athiwat Tiprasaharn | [Read More](https://medium.com/p/2b4422f8a999) |
-| Thu, 12 Jun 2025 09:39:33 GMT | What is a secure digital identity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/d6b62ecc108d) |
-| Thu, 12 Jun 2025 09:37:55 GMT | LetsDefend: SOC137 — Malicious File/Script Download Attempt | V0idd | [Read More](https://medium.com/p/58c7ccd725d5) |
-| Thu, 12 Jun 2025 09:35:55 GMT | Day 9/100 task was to use “cat and less” commands to explore /var/log logs and identify different… | Peacewillie | [Read More](https://medium.com/p/ec882fc0e739) |
-| Thu, 12 Jun 2025 09:31:31 GMT | The Weight of Almost Belonging | Tami | [Read More](https://medium.com/p/cbd7338433af) |
