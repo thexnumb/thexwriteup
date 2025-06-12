@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 23:05:26 GMT | Pasqal Charts Bold Course: Roadmap to 10,000 Qubits and Fault-Tolerant Quantum Computing | QuantumGenie | [Read More](https://medium.com/p/3056a00ce397) |
+| Thu, 12 Jun 2025 22:58:07 GMT | AI-Powered Zero Trust: Automating Threat Response and Insider Detection | Christopher | [Read More](https://medium.com/p/76f65796b03c) |
 | Thu, 12 Jun 2025 22:36:59 GMT | When Machines Meet Mayhem: AI’s Battle against Modern Cyber Threats | Anjum | [Read More](https://medium.com/p/0692331e6b8a) |
 | Thu, 12 Jun 2025 22:31:02 GMT | IGNITE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/504d6c3a3fb4) |
 | Thu, 12 Jun 2025 22:30:06 GMT | CTF Day(11) | Ahmed Narmer | [Read More](https://medium.com/p/0e8420294f32) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 15:10:20 GMT | How Does One CVE Lead to XSS, Redirect, and SSRF | Ibtissam hammadi | [Read More](https://medium.com/p/6a3507bc3b58) |
 | Thu, 12 Jun 2025 15:06:46 GMT | Think Before You Click: Cyber Training at Air University | Muhammad Inam Abbasi | [Read More](https://medium.com/p/56934cd35a5f) |
 | Thu, 12 Jun 2025 15:02:40 GMT | Ransomware Prevention Strategies from a Network Security Analyst in Phoenix, AZ | Blue Fox Group | [Read More](https://medium.com/p/a345aaf7b56c) |
-| Thu, 12 Jun 2025 15:01:16 GMT | Here’s a detailed guide to claiming the Best Wallet ($BEST) airdrop, along with safe practices and… | Rujitoken | [Read More](https://medium.com/p/77e48510a650) |
-| Thu, 12 Jun 2025 14:57:44 GMT | How to prepare for CISSP Test | Jin | [Read More](https://medium.com/p/52de7a3e6726) |
