@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 05:19:51 GMT | Install DWVA server untuk simulasi Wazuh #Day_8 | Richardgreynardi | [Read More](https://medium.com/p/74bccea26945) |
+| Thu, 12 Jun 2025 05:09:03 GMT | How Modern Banks Can Proactively Detect and Dismantle Advanced Persistent Threats (APT) —… | Pushpak Sharma | [Read More](https://medium.com/p/6f3da3ce8d85) |
+| Thu, 12 Jun 2025 05:05:37 GMT | Understanding Network Traffic and OSI Layers 3 & 4: A Practical Overview | Samira Fallah | [Read More](https://medium.com/p/8cece2efa421) |
+| Thu, 12 Jun 2025 05:05:16 GMT | Threat Hunting AsyncRAT C2 Servers Using OSINT | AbhirupKonwar | [Read More](https://medium.com/p/6b1cd1706d2b) |
+| Thu, 12 Jun 2025 05:02:43 GMT | Hunting with LOLBins : How to Detect Living-off-the-Land Attacks | Anas404 | [Read More](https://medium.com/p/cac64d2bd5c2) |
+| Thu, 12 Jun 2025 05:02:39 GMT | Smarter Shields: AI’s Role in Defending Against Zero-Day Threats | IEEE Computer Society SBC of IIT | [Read More](https://medium.com/p/9f84348ed7b8) |
+| Thu, 12 Jun 2025 04:54:29 GMT | Stop Storing Secrets in Plain Text! Fix It in 5 Minutes with SecureStorage | Harish Srinivas SR | [Read More](https://medium.com/p/e5e75cf41310) |
+| Thu, 12 Jun 2025 04:50:18 GMT | Endpoint Hell and the Art of Surviving Chaos You Can’t Control | Code & Kif | [Read More](https://medium.com/p/97115055291d) |
+| Thu, 12 Jun 2025 04:47:47 GMT | 9 Ways Cybersecurity Shapes the Future of Financial Services | Olivier Gillier | [Read More](https://medium.com/p/ae8128c40acb) |
+| Thu, 12 Jun 2025 04:44:57 GMT | Kickstarting My Journey into Cybersecurity & Ethical Hacking | Darshan | [Read More](https://medium.com/p/c9b779c0c043) |
+| Thu, 12 Jun 2025 04:39:42 GMT | Your Loyalty Card Might Be Loyal to Hackers (and So Might Your Cat App) | Tina Ginn | [Read More](https://medium.com/p/15d959da406f) |
 | Thu, 12 Jun 2025 04:21:24 GMT | Advanced HTTP Request Smuggling (HRS) Exploitation Guide | Shah kaif | [Read More](https://medium.com/p/53ceadd5ac19) |
 | Thu, 12 Jun 2025 04:15:39 GMT | Cyber Threats on Wheels: When Smart Cars Become Targets | Bayu Prasetyo | [Read More](https://medium.com/p/1ff096a8618f) |
 | Thu, 12 Jun 2025 04:14:56 GMT | Have you ever stopped to think how your message on WhatsApp or your favorite YouTube video… | HealerLogs | [Read More](https://medium.com/p/2e10d62a4ca1) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 19:28:16 GMT | Busqueda — HTB | 0xChryy | [Read More](https://medium.com/p/ccc87a7bc0e8) |
 | Wed, 11 Jun 2025 19:28:14 GMT | Quantum at a Turning Point: Nvidia CEO Declares Industry at ‘Inflection Point’ | QuantumGenie | [Read More](https://medium.com/p/c1a419e8a43d) |
 | Wed, 11 Jun 2025 19:25:57 GMT | The Complete Business Analysis Fundamentals Course + CERT Eğitim Serüvenim Part-2 | Merve Dürül | [Read More](https://medium.com/p/842c4ecda4a3) |
-| Wed, 11 Jun 2025 19:12:40 GMT | EchoLeak: The Zero-Click Data Exfiltration Flaw Shaking Microsoft Copilot | Ronit Yadav | [Read More](https://medium.com/p/42997bd8258d) |
-| Wed, 11 Jun 2025 19:00:35 GMT | Sécuriser les applications open source à grande échelle : Les cinq principes fondamentaux | Soufien CHEIKH | [Read More](https://medium.com/p/d48b1d04286a) |
-| Wed, 11 Jun 2025 18:56:23 GMT | Tell me all of your sad stories | Your NativeFriend | [Read More](https://medium.com/p/2bd26151d3e8) |
-| Wed, 11 Jun 2025 18:54:58 GMT | Cracking the Clock: How I Took Over Any Account Using a Timestamp Leak | Ritik Verma | [Read More](https://medium.com/p/516fc88c0113) |
-| Wed, 11 Jun 2025 18:48:33 GMT | Wait for the Drift mod…….. | Hooknspeed Recovery Thiruvananthapuram | [Read More](https://medium.com/p/e3f90e87a2a4) |
-| Wed, 11 Jun 2025 18:43:41 GMT | 0X02 : Reconnaissance & Scanning | Aswin Krishna PB | [Read More](https://medium.com/p/211e7003d06e) |
-| Wed, 11 Jun 2025 18:42:26 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/3592d92c0e20) |
-| Wed, 11 Jun 2025 18:32:25 GMT | The Hidden World of the Deep Web — Beyond What Google Shows You | Hafizbilaltariq | [Read More](https://medium.com/p/01d20c955223) |
-| Wed, 11 Jun 2025 18:31:03 GMT | Fixing the Linux Network Interface | Cy3erS@up | [Read More](https://medium.com/p/6c5a09192b01) |
-| Wed, 11 Jun 2025 18:28:02 GMT | Get your OpenAI API Key and let’s explore together | 46 | [Read More](https://medium.com/p/b5a35f78e2d5) |
-| Wed, 11 Jun 2025 18:27:05 GMT | The Windows Security Journey — Standalone Managed Service Account (sMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1fa129a97e8a) |
