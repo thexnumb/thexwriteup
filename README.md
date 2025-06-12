@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 11:31:15 GMT | Elevate Your Expertise: The PG Diploma in Information Technology at Eleskills.com | bikash Gochhayat | [Read More](https://medium.com/p/5684df0b487d) |
+| Thu, 12 Jun 2025 11:29:19 GMT | How AI is Learning to Think Like Humans — And What That Means for Us. | Hafizbilaltariq | [Read More](https://medium.com/p/059405098034) |
+| Thu, 12 Jun 2025 11:27:03 GMT | Web Application Firewall | Amalpp | [Read More](https://medium.com/p/d8b75f5f0a9d) |
+| Thu, 12 Jun 2025 11:14:11 GMT | How to Create, Encrypt and Password-Protect a PDF Document | LearningPages | [Read More](https://medium.com/p/bcee4047816c) |
+| Thu, 12 Jun 2025 11:11:12 GMT | The Rise of Data Privacy in the Middle East: A Strategic Shift Towards Accountability | Moupia Roy Chowdhury | [Read More](https://medium.com/p/d8d35acf4c12) |
 | Thu, 12 Jun 2025 11:03:24 GMT | The Hidden Web: How Bing Dorks Reveal What Google Won’t Show You | Intellectsy | [Read More](https://medium.com/p/a3c87bfac6f2) |
 | Thu, 12 Jun 2025 11:02:44 GMT | What the hell is Kerberos? | EOLO | [Read More](https://medium.com/p/c352bef8d098) |
 | Thu, 12 Jun 2025 11:02:42 GMT | Vexcash Review - This Is How I Got My Money Back. | Dorothy Purdy | [Read More](https://medium.com/p/d93b0fdffea1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 06:20:05 GMT | The Day Our Accountant Almost Cost Us Everything | Business agroup | [Read More](https://medium.com/p/561ee83395d5) |
 | Thu, 12 Jun 2025 06:19:39 GMT | SOC Incident and Response Plan for Ransomware | Aaron Gabriel Morales | [Read More](https://medium.com/p/e95ad43b7bcf) |
 | Thu, 12 Jun 2025 06:14:38 GMT | GraphQL in the Wild: Recon to RCE via Introspection, Nested Queries & Batching Attacks | Monika sharma | [Read More](https://medium.com/p/dbd2d704fbdf) |
-| Thu, 12 Jun 2025 06:13:50 GMT | Urgent: CVE-2025–47273 Exposes Python SetupTools — Here’s How to Stay Secure | M Sadewa Wicaksana | [Read More](https://medium.com/p/843a183a02dc) |
-| Thu, 12 Jun 2025 06:13:06 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 3 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/14128a447743) |
-| Thu, 12 Jun 2025 06:12:40 GMT | How One Video Boosted My Cybersecurity YouTube Channel | Taimur Ijlal | [Read More](https://medium.com/p/48a7ca7308f4) |
-| Thu, 12 Jun 2025 06:12:13 GMT | Secure Your Bank’s Future with Professional Bank Security Guard Services in Gurgaon | vervesecurity. | [Read More](https://medium.com/p/3507db5d72ee) |
-| Thu, 12 Jun 2025 06:11:02 GMT | A classic file based IDOR on NIELIT portal | Adithya M S | [Read More](https://medium.com/p/064604c7fc62) |
