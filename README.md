@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 20:15:33 GMT | Scenium RWA: Learn & Join In #4 — RWA Security: Risks & Best Practices | Scenium | [Read More](https://medium.com/p/2206771b89b4) |
+| Thu, 12 Jun 2025 20:13:13 GMT | Setting up a home lab for Penetration testing and Ethical hacking simulations | Dr. Ummulkhair Abdulkarim | [Read More](https://medium.com/p/f76bea09d4d4) |
+| Thu, 12 Jun 2025 20:07:04 GMT | JA4 in Action: Detecting Bots, Malware, and Fake Browsers at the TLS Level | Ishak Antar | [Read More](https://medium.com/p/3ccd890fbce9) |
+| Thu, 12 Jun 2025 20:06:24 GMT | Building Beluga in the Belly of the Storm | Dr. Noor N. AyToghlo | [Read More](https://medium.com/p/7097c885f2a7) |
+| Thu, 12 Jun 2025 20:06:10 GMT | What is an API? A Simple Guide for Beginners | GABBYTECH | [Read More](https://medium.com/p/bf3429553880) |
+| Thu, 12 Jun 2025 20:00:40 GMT | Recruitment Ransomware: How FIN6’s Malicious Resumes Are Weaponizing HR Trust | Ronit Yadav | [Read More](https://medium.com/p/e939646b35db) |
+| Thu, 12 Jun 2025 19:49:06 GMT | Playful Desperation | Eric V. Kirk | [Read More](https://medium.com/p/dd5b67bdc0b5) |
+| Thu, 12 Jun 2025 19:45:39 GMT | Silent Breach Lab — CyberDefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/69eb533a372c) |
+| Thu, 12 Jun 2025 19:45:14 GMT | Scanned and Scammed: Inside a QR Code Spear Phishing Attack | HDK | [Read More](https://medium.com/p/aaf49011a929) |
+| Thu, 12 Jun 2025 19:43:22 GMT | Unlock a Healthier You: The Jaw-Dropping Benefits of Fish Oil & Why Nature’s Bounty Fish Oil Omega… | RETROGURU | [Read More](https://medium.com/p/6a32d5fe87b7) |
 | Thu, 12 Jun 2025 19:21:38 GMT | Alarm Fatigue Management and Noise Reduction Techniques | Esra Kayhan | [Read More](https://medium.com/p/b8cb36de0439) |
 | Thu, 12 Jun 2025 19:07:21 GMT | Sivanandh CC: The Visionary Behind RECILENS — A Company Redefining Cybersecurity and Digital… | Official Writer | [Read More](https://medium.com/p/424b6d807bb8) |
 | Thu, 12 Jun 2025 19:06:52 GMT | SmartAttack Uses Smartwatch Ultrasonic Channels to Breach Air-Gapped PCs | Ronit Yadav | [Read More](https://medium.com/p/546f72708726) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 13:59:27 GMT | Cyber Briefing: 2025.06.12 | CyberMaterial | [Read More](https://medium.com/p/eaedebb1ed93) |
 | Thu, 12 Jun 2025 13:59:20 GMT | A Hacker’s Guide to Documentation | Hydsec | [Read More](https://medium.com/p/cd2b7d0a6bca) |
 | Thu, 12 Jun 2025 13:58:55 GMT | Purple Team: Kolaborasi Red dan Blue Team Demi Keamanan Siber yang Tangguh | Dzakwan Efendi | [Read More](https://medium.com/p/f1d5a41bc985) |
-| Thu, 12 Jun 2025 13:57:02 GMT | HatchTechs Leading IT Solutions Provider in the UK | HatchTechsUK | [Read More](https://medium.com/p/600e100bbfe4) |
-| Thu, 12 Jun 2025 13:42:15 GMT | Corporate Greed Chronicles: Google’s Buyouts, Trading Talent for Wall Street Likes | Namir Sagheenanajar | [Read More](https://medium.com/p/57ba4295c68e) |
-| Thu, 12 Jun 2025 13:41:15 GMT | Flash Coins & Fake Transactions: What You Need to Know | Faviy | [Read More](https://medium.com/p/54ea18ee434f) |
-| Thu, 12 Jun 2025 13:40:27 GMT | Writing Into the Void (And Still Showing Up Anyway) | Amanur | [Read More](https://medium.com/p/3e572c3e5117) |
-| Thu, 12 Jun 2025 13:34:33 GMT | ️ Node.js Security Essentials — Helmet, CSRF, Rate-Limiting & Dependency Audits | Priyanshu Rajput | [Read More](https://medium.com/p/70d2ba6ea984) |
-| Thu, 12 Jun 2025 13:27:55 GMT | Broken Access Control: Vertical privilege escalation part-1 | p7ihu2_Zer0 | [Read More](https://medium.com/p/a025152c941a) |
-| Thu, 12 Jun 2025 13:23:46 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know | Faviy | [Read More](https://medium.com/p/1c1a8a1976f4) |
-| Thu, 12 Jun 2025 13:23:08 GMT | Cloud Colonialism? | Etnik | [Read More](https://medium.com/p/abba71b466e7) |
-| Thu, 12 Jun 2025 13:14:03 GMT | Stealth Falcon just left SOC dads an early Father’s Day present | Wes Young | [Read More](https://medium.com/p/806eda92de11) |
-| Thu, 12 Jun 2025 13:13:49 GMT | Authorization & Certificates Demystified — Part 1 | Anmol Sehgal | [Read More](https://medium.com/p/d7e70e1b0232) |
