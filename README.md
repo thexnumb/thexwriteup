@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 10:21:51 GMT | The Future of Cybersecurity In Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/9629e660cbed) |
+| Thu, 12 Jun 2025 10:12:20 GMT | „Изкуственият интелект — новото лице на фалшивите новини“ | Anita Stoyanova | [Read More](https://medium.com/p/6121f00c8f3a) |
+| Thu, 12 Jun 2025 10:11:51 GMT | The Top 5 Security Threats to Watch for in 2025 | Group 24/7 Security Services | [Read More](https://medium.com/p/a4b0ce22809d) |
+| Thu, 12 Jun 2025 10:09:28 GMT | Information Disclosure via GraphQL in Production | Ehtesham Ul Haq | [Read More](https://medium.com/p/64c62c9dbe4c) |
+| Thu, 12 Jun 2025 10:06:28 GMT | Stop Network Hijacks: A Hacker’s Guide to DNS & DHCP Pen Testing | Saikat Paul | [Read More](https://medium.com/p/c6c215ef4c50) |
+| Thu, 12 Jun 2025 09:57:13 GMT | security services narre warren | Sureshvirtual | [Read More](https://medium.com/p/30899e317a35) |
+| Thu, 12 Jun 2025 09:52:31 GMT | TryHackMe PT1 Exam Review: Is It Really for Juniors? | Athiwat Tiprasaharn | [Read More](https://medium.com/p/6a9540ccf3d8) |
+| Thu, 12 Jun 2025 09:45:46 GMT | TryHackMe SAL1 Exam Review: My First-Ever SOC Analyst Experience | Athiwat Tiprasaharn | [Read More](https://medium.com/p/2b4422f8a999) |
+| Thu, 12 Jun 2025 09:39:33 GMT | What is a secure digital identity? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/d6b62ecc108d) |
 | Thu, 12 Jun 2025 09:37:55 GMT | LetsDefend: SOC137 — Malicious File/Script Download Attempt | V0idd | [Read More](https://medium.com/p/58c7ccd725d5) |
 | Thu, 12 Jun 2025 09:35:55 GMT | Day 9/100 task was to use “cat and less” commands to explore /var/log logs and identify different… | Peacewillie | [Read More](https://medium.com/p/ec882fc0e739) |
 | Thu, 12 Jun 2025 09:31:31 GMT | The Weight of Almost Belonging | Tami | [Read More](https://medium.com/p/cbd7338433af) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 05:29:16 GMT | Top Legitimate Crypto Recovery Companies You Can Trust With Your Scammed Coins | Robertjoness | [Read More](https://medium.com/p/11397a922b48) |
 | Thu, 12 Jun 2025 05:27:49 GMT | Wireless Penetration Testing with Aircrack-ng | Tanush Kushwah | [Read More](https://medium.com/p/114e1f1c397f) |
 | Thu, 12 Jun 2025 05:19:51 GMT | Install DWVA server untuk simulasi Wazuh #Day_8 | Richardgreynardi | [Read More](https://medium.com/p/74bccea26945) |
-| Thu, 12 Jun 2025 05:09:03 GMT | How Modern Banks Can Proactively Detect and Dismantle Advanced Persistent Threats (APT) —… | Pushpak Sharma | [Read More](https://medium.com/p/6f3da3ce8d85) |
-| Thu, 12 Jun 2025 05:05:37 GMT | Understanding Network Traffic and OSI Layers 3 & 4: A Practical Overview | Samira Fallah | [Read More](https://medium.com/p/8cece2efa421) |
-| Thu, 12 Jun 2025 05:05:16 GMT | Threat Hunting AsyncRAT C2 Servers Using OSINT | AbhirupKonwar | [Read More](https://medium.com/p/6b1cd1706d2b) |
-| Thu, 12 Jun 2025 05:02:43 GMT | Hunting with LOLBins : How to Detect Living-off-the-Land Attacks | Anas404 | [Read More](https://medium.com/p/cac64d2bd5c2) |
-| Thu, 12 Jun 2025 05:02:39 GMT | Smarter Shields: AI’s Role in Defending Against Zero-Day Threats | IEEE Computer Society SBC of IIT | [Read More](https://medium.com/p/9f84348ed7b8) |
-| Thu, 12 Jun 2025 04:54:29 GMT | Stop Storing Secrets in Plain Text! Fix It in 5 Minutes with SecureStorage | Harish Srinivas SR | [Read More](https://medium.com/p/e5e75cf41310) |
-| Thu, 12 Jun 2025 04:50:18 GMT | Endpoint Hell and the Art of Surviving Chaos You Can’t Control | Code & Kif | [Read More](https://medium.com/p/97115055291d) |
-| Thu, 12 Jun 2025 04:47:47 GMT | 9 Ways Cybersecurity Shapes the Future of Financial Services | Olivier Gillier | [Read More](https://medium.com/p/ae8128c40acb) |
-| Thu, 12 Jun 2025 04:44:57 GMT | Kickstarting My Journey into Cybersecurity & Ethical Hacking | Darshan | [Read More](https://medium.com/p/c9b779c0c043) |
