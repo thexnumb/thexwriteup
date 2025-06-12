@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 07:04:53 GMT | The Future of Payments? To CBDC or Not to CBDC. That is the question | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/6dc7b8c6bc99) |
+| Thu, 12 Jun 2025 07:02:44 GMT | Critical CVEs Patched in Easy2Patch E2P-20250614 Catalog | Easy2Patch | [Read More](https://medium.com/p/6082670862cf) |
+| Thu, 12 Jun 2025 07:02:11 GMT | 5DATA INC: Expert Mobile Testing - Top QA Solutions | Bharathig | [Read More](https://medium.com/p/942e79aa8f31) |
+| Thu, 12 Jun 2025 07:01:01 GMT | A Beginner’s Roadmap to Cybersecurity — What You Need to Learn and Why It Matters | Abhay Patel | [Read More](https://medium.com/p/b54e647215f4) |
+| Thu, 12 Jun 2025 06:58:30 GMT | Best Institute for Red Hat RHCE Course In Delhi | cyber security Updates | [Read More](https://medium.com/p/75655ad45859) |
+| Thu, 12 Jun 2025 06:54:46 GMT | Building the Right Team Starts with the Right Checks | Mariiatata | [Read More](https://medium.com/p/a4cde9c39890) |
+| Thu, 12 Jun 2025 06:53:21 GMT | Title: The PasswordsMatrix: How My High School Matrix Curiosity Turned into a Cool Security Idea | Urjith | [Read More](https://medium.com/p/ec9e9a9f0cda) |
+| Thu, 12 Jun 2025 06:51:27 GMT | How I Gained Root via LFI and a CVE in Backdrop CMS — Hack The Box ‘Dog’ Write-Up | Raihan shamnad | [Read More](https://medium.com/p/f3c2427dbd18) |
+| Thu, 12 Jun 2025 06:50:02 GMT | ️ When Spiders Phish and Cats Rebrand: Welcome to the Ransomware Multiverse | NickyCammarata | [Read More](https://medium.com/p/c02f07fba65f) |
+| Thu, 12 Jun 2025 06:48:46 GMT | Top Security Guard Companies in Pune Ranked | United Guard Force India | [Read More](https://medium.com/p/472b6958be73) |
+| Thu, 12 Jun 2025 06:47:23 GMT | Smart Cities: Leveraging Technology for Urban Development | Les Ottolenghi | [Read More](https://medium.com/p/15eedeb695f6) |
+| Thu, 12 Jun 2025 06:44:29 GMT | Why Every Business Needs a Strong Penetration Testing Report — A Guide by CyberNX | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/e7a3f6cfb693) |
+| Thu, 12 Jun 2025 06:43:55 GMT | “I Was Wrongfully Accused — Here’s What It Taught Me About the Legal System” | S Anuradha | [Read More](https://medium.com/p/45e35c831d6e) |
+| Thu, 12 Jun 2025 06:39:41 GMT | KakaoTalk alternative messenger — SECURET, a safe messenger without censorship! | SAYCOIN | [Read More](https://medium.com/p/690bfbeedbda) |
+| Thu, 12 Jun 2025 06:38:04 GMT | CRQ: The New Backbone of Cyber Risk Management | Zeron | [Read More](https://medium.com/p/6894d39e074f) |
+| Thu, 12 Jun 2025 06:35:07 GMT | ✍Global Firewall as a Service Market Size, Share, Key Players, Trends, Sales, Supply, Demand… | Mreed | [Read More](https://medium.com/p/db781f610baa) |
 | Thu, 12 Jun 2025 06:31:45 GMT | Cybersecurity Requirements for Medical Device Software Under EU MDR and MDCG Guidance | SEO Agency | [Read More](https://medium.com/p/00cb5b8651eb) |
+| Thu, 12 Jun 2025 06:27:46 GMT | The Hidden Danger in the Cloud: S3 Buckets & Random URLs | Yash Virendra Prajapati | [Read More](https://medium.com/p/74d8461f2888) |
 | Thu, 12 Jun 2025 06:20:05 GMT | The Day Our Accountant Almost Cost Us Everything | Business agroup | [Read More](https://medium.com/p/561ee83395d5) |
 | Thu, 12 Jun 2025 06:19:39 GMT | SOC Incident and Response Plan for Ransomware | Aaron Gabriel Morales | [Read More](https://medium.com/p/e95ad43b7bcf) |
 | Thu, 12 Jun 2025 06:14:38 GMT | GraphQL in the Wild: Recon to RCE via Introspection, Nested Queries & Batching Attacks | Monika sharma | [Read More](https://medium.com/p/dbd2d704fbdf) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 22:48:47 GMT | What is Social Media Usage Doing to Our Children and Teens? | Savvy Cyber Kids | [Read More](https://medium.com/p/84ccdde5ea75) |
 | Wed, 11 Jun 2025 22:34:22 GMT | Not All Test Labs Are Equal: How to Choose a Trustworthy Testing Vendor | Medcrypt | [Read More](https://medium.com/p/29c5e71a042e) |
 | Wed, 11 Jun 2025 22:30:26 GMT | “HACKERONE” I Didn’t Break It — I Just Showed It Was Already Fragile | Obmanwikobmanwik | [Read More](https://medium.com/p/07fbef692e2c) |
-| Wed, 11 Jun 2025 22:26:18 GMT | Be careful with the “Fintechee” Chinese crypto platform | Abzaileo45 | [Read More](https://medium.com/p/176bc9a1e705) |
-| Wed, 11 Jun 2025 22:19:38 GMT | Why Cybersecurity Is So Lucrative for Criminals and How We Can Fight Back – Osita Oparaugo, Esq | GetBundi | [Read More](https://medium.com/p/74ad3915654e) |
-| Wed, 11 Jun 2025 22:16:40 GMT | Top 20 Automation Scripts for Ethical Hackers and Security Analysts | Karthikeyan Nagaraj | [Read More](https://medium.com/p/1f5a0954d481) |
-| Wed, 11 Jun 2025 22:11:51 GMT | Dive into 2025’s Hacking Hellscape | Inforsecpro | [Read More](https://medium.com/p/6d7d1512f592) |
-| Wed, 11 Jun 2025 22:06:09 GMT | Web Application Penetration Testing | 0xLuk3 | [Read More](https://medium.com/p/16bb5e212905) |
-| Wed, 11 Jun 2025 22:05:53 GMT | How to Stay Safe in Crypto 2025: 7 Common Scams and How to Avoid Them | Lolia Banigo | [Read More](https://medium.com/p/3ffb0b32c675) |
-| Wed, 11 Jun 2025 22:02:43 GMT | Day 1: “Detecting Failed Login Attempts on Linux” | Amy Huynh | [Read More](https://medium.com/p/45acf608f31f) |
-| Wed, 11 Jun 2025 21:50:13 GMT | Symfony SecurityBundle — Part 1 | Siavash | [Read More](https://medium.com/p/3cd8a35a6db7) |
-| Wed, 11 Jun 2025 21:50:06 GMT | I took the eJPT exam. Here are my thoughts | sundown | [Read More](https://medium.com/p/c4a66e7b8952) |
-| Wed, 11 Jun 2025 21:48:28 GMT | Adobe’s Security Updates: Addressing 254 Vulnerabilities in AEM and More | Cybersectoworld | [Read More](https://medium.com/p/1215dfb3591b) |
-| Wed, 11 Jun 2025 21:44:41 GMT | 3ID Machine VulNyx Official_Writeup | TirexV2 | [Read More](https://medium.com/p/61df65607b5a) |
-| Wed, 11 Jun 2025 21:39:50 GMT | How to recover an X account suspended due to violation | Tobias Mathew | [Read More](https://medium.com/p/7a1f121ad90f) |
-| Wed, 11 Jun 2025 21:35:00 GMT | iTDigit Burkina : Innover au service du digital et de la sécurité au Burkina Faso | iTDigit Burkina | [Read More](https://medium.com/p/ae3db2a7afdd) |
-| Wed, 11 Jun 2025 21:26:15 GMT | Caught in the Air | Pentestjunkie07 | [Read More](https://medium.com/p/0d9e2c54c131) |
-| Wed, 11 Jun 2025 21:24:37 GMT | Exploring the Best in Maternal and Baby Products: Momcozy’s Video Baby Monitor | Saffgsadfdsf | [Read More](https://medium.com/p/7f3dad32d29e) |
-| Wed, 11 Jun 2025 21:12:02 GMT | Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss | Aditya Bhatt | [Read More](https://medium.com/p/7a8baf3cf085) |
-| Wed, 11 Jun 2025 21:08:54 GMT | Snag Exclusive BOUNTY Through ChainBounty's Launch Bonus | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/4edb0a985aea) |
