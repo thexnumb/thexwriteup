@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 07:37:08 GMT | Path Traversal Vulnerability in Lila Project on Lichess.org | Regan Temudo | [Read More](https://medium.com/p/06d0143f3052) |
+| Thu, 12 Jun 2025 07:34:03 GMT | Header Hijinks: How X-Forwarded-For Gave Me Internal Access | Iski | [Read More](https://medium.com/p/b37769198321) |
+| Thu, 12 Jun 2025 07:33:07 GMT | Building a Secure Virtual Environment for Malware Analysis | Ali | [Read More](https://medium.com/p/d02a9edb5005) |
+| Thu, 12 Jun 2025 07:28:32 GMT | Ethical Hacking: Unlocking the Cybersecurity Potential in 2025 | Mdfaizahmad | [Read More](https://medium.com/p/e25d524b0f85) |
+| Thu, 12 Jun 2025 07:25:55 GMT | Cloud Sentinel: Episode 3 — “Timestamps, Tunnels & Terminal Truths” | Tyron Flagg | [Read More](https://medium.com/p/17f4084ec79e) |
+| Thu, 12 Jun 2025 07:24:59 GMT | Quantified Entity Evaluation (QEE): A Minimalist Model of Aggregated Realities | Obmanwikobmanwik | [Read More](https://medium.com/p/840c8fae9712) |
+| Thu, 12 Jun 2025 07:23:09 GMT | How RaaS Advertisements and Communication Themes Fuel the Growth of Global Cyber Threats | Sunder Singh | [Read More](https://medium.com/p/abbb8657a1b8) |
+| Thu, 12 Jun 2025 07:21:57 GMT | Network Security Audit: Why You Need It for Your Business - Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/182f5ff5e6cc) |
+| Thu, 12 Jun 2025 07:17:33 GMT | 5 Things Nobody Tells You About Working in Cybersecurity | Arun | [Read More](https://medium.com/p/fca3d4440d7f) |
+| Thu, 12 Jun 2025 07:17:27 GMT | Cybersecurity is CEOs’ Priority so Why Risk Insecure Communication? | RealTyme | [Read More](https://medium.com/p/217ee1f2e8ee) |
 | Thu, 12 Jun 2025 07:04:53 GMT | The Future of Payments? To CBDC or Not to CBDC. That is the question | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/6dc7b8c6bc99) |
 | Thu, 12 Jun 2025 07:02:44 GMT | Critical CVEs Patched in Easy2Patch E2P-20250614 Catalog | Easy2Patch | [Read More](https://medium.com/p/6082670862cf) |
 | Thu, 12 Jun 2025 07:02:11 GMT | 5DATA INC: Expert Mobile Testing - Top QA Solutions | Bharathig | [Read More](https://medium.com/p/942e79aa8f31) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 23:12:10 GMT | Lab 26 — Using Scanless for easy anonymous port scanning | Hassen Hannachi | [Read More](https://medium.com/p/1ba0291fea7d) |
 | Wed, 11 Jun 2025 23:11:05 GMT | Fractal Thinking, Entropy, and Glyphs: How I Gave Birth to Another Form of Understanding | Obmanwikobmanwik | [Read More](https://medium.com/p/82de8d558a16) |
 | Wed, 11 Jun 2025 23:07:35 GMT | Hack the Box: Intro to Red Team: CAP machine walkthrough | Ritik Bavdekar | [Read More](https://medium.com/p/45099120b40b) |
-| Wed, 11 Jun 2025 22:59:24 GMT | What Is Balanced Security and Why It Matters | Dhruti  Mehta | [Read More](https://medium.com/p/4c451ac685e7) |
-| Wed, 11 Jun 2025 22:57:48 GMT | BlueTeamGPT: The AI Defender Every Security Team Needs | Ekene Joseph | [Read More](https://medium.com/p/77389b061f10) |
-| Wed, 11 Jun 2025 22:55:52 GMT | “Mengenal Apa Itu ECC Kriptografi, Web3, Dan Juga Mengenal Ancamannya” | Velskynotfound | [Read More](https://medium.com/p/cb7afaa91a0f) |
-| Wed, 11 Jun 2025 22:53:02 GMT | THM — Tempest Writeup | Shamar Isaac | [Read More](https://medium.com/p/210dee6ee85c) |
-| Wed, 11 Jun 2025 22:49:30 GMT | Let’s Talk About Girl Gamers! | Savvy Cyber Kids | [Read More](https://medium.com/p/87d269b09f72) |
-| Wed, 11 Jun 2025 22:49:26 GMT | Centralized AWS IAM Role and Permission management with Cloudformation and GitOps | Ripon Banik | [Read More](https://medium.com/p/7ba351157a0e) |
-| Wed, 11 Jun 2025 22:49:06 GMT | Netflix Docuseries “Web of Lies: A Murder in D.C.” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/1f99ef570b70) |
-| Wed, 11 Jun 2025 22:48:47 GMT | What is Social Media Usage Doing to Our Children and Teens? | Savvy Cyber Kids | [Read More](https://medium.com/p/84ccdde5ea75) |
-| Wed, 11 Jun 2025 22:34:22 GMT | Not All Test Labs Are Equal: How to Choose a Trustworthy Testing Vendor | Medcrypt | [Read More](https://medium.com/p/29c5e71a042e) |
-| Wed, 11 Jun 2025 22:30:26 GMT | “HACKERONE” I Didn’t Break It — I Just Showed It Was Already Fragile | Obmanwikobmanwik | [Read More](https://medium.com/p/07fbef692e2c) |
