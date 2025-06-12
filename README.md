@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 08:40:36 GMT | Israel ‘Poised to Strike’ Iran: US Media Reveals Imminent Attack Plans 2025 | sania maryam | [Read More](https://medium.com/p/eaaa379a7725) |
+| Thu, 12 Jun 2025 08:38:58 GMT | Why Microsoft 365 Business Premium Is the Best Plan for SMBs in 2025 | Roshan Karki | [Read More](https://medium.com/p/ce4ce87ff51a) |
+| Thu, 12 Jun 2025 08:37:52 GMT | Cryptocurrency Mining Threat: Dero Malware Found on Unsecured Docker APIs | Criminal IP | [Read More](https://medium.com/p/4424ce340105) |
+| Thu, 12 Jun 2025 08:34:59 GMT | Dipping My Fingers Back into the CTF World - CSC CTF ‘25 WriteUp | Lia Eu - midn8 | [Read More](https://medium.com/p/83fa0fd1c916) |
+| Thu, 12 Jun 2025 08:28:13 GMT | The Growing Cybersecurity Threat in Modern Supply Chains | Jenny Feneley | [Read More](https://medium.com/p/60d4cda53385) |
 | Thu, 12 Jun 2025 08:26:08 GMT | Cracking the Code: Password Attacks & the Linux Authentication Process | Nz | [Read More](https://medium.com/p/e1b4bccda34a) |
 | Thu, 12 Jun 2025 08:25:56 GMT | How I Bypassed a CAPTCHA Without Solving It | Mazen ibrahim | [Read More](https://medium.com/p/7c5c85ee71f0) |
+| Thu, 12 Jun 2025 08:23:23 GMT | How To Receive Free $RECON: A Comprehensive Guide by Recon Solana | $RECON (Recon Solana) | [Read More](https://medium.com/p/8185a3f00dcb) |
 | Thu, 12 Jun 2025 08:18:40 GMT | The Daily Tech Digest: 12 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/af82e6f67570) |
 | Thu, 12 Jun 2025 08:12:40 GMT | Guarding the Edge: Securing AI in a Smarter World | Amritanshu Prashar | [Read More](https://medium.com/p/003aeaefa729) |
 | Thu, 12 Jun 2025 08:09:42 GMT | How Much Does A Fire Watch Service Cost In California | Golden Agoh | [Read More](https://medium.com/p/3066d64dd0a4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 03:18:19 GMT | The Hidden Guardians: How Prime Numbers Quietly Protect Your Digital Life | Techscribe Central | [Read More](https://medium.com/p/8f5fe7e35874) |
 | Thu, 12 Jun 2025 03:03:02 GMT | SOC 2 Penetration Testing in 2025: Why ‘Good Enough’ Security Could Cost You Everything | Biswajeet Poddar | [Read More](https://medium.com/p/d6b114e4516f) |
 | Thu, 12 Jun 2025 02:59:34 GMT | LetsDefend — SOC176 Walkthrough (RDP Brute Force) | Joshua Chua | [Read More](https://medium.com/p/002cb34a415a) |
-| Thu, 12 Jun 2025 02:54:23 GMT | 5 Future-Proof Tech Skills You Should Start Learning Now (Before 2030) | iswarya writes | [Read More](https://medium.com/p/00bfb2e849ab) |
-| Thu, 12 Jun 2025 02:22:22 GMT | Mastering Subdomain Enumeration with Amass: A Complete Guide for Ethical Hackers | YoungerSibling | [Read More](https://medium.com/p/276d6e915e51) |
-| Thu, 12 Jun 2025 02:12:37 GMT | New Fixed Server-Level Roles SQL Server 2022 | Pradeepa Pakkirisamy Krishnamoorthy | [Read More](https://medium.com/p/1d4f8f3c7d5e) |
-| Thu, 12 Jun 2025 02:06:03 GMT | FundOnion Reviews : How I Reclaimed My Funds | Gegav | [Read More](https://medium.com/p/6ec951fc6d5c) |
-| Thu, 12 Jun 2025 02:03:26 GMT | Here’s How I Recover My Money From FundOnion | Gegav | [Read More](https://medium.com/p/09a3de27fe6d) |
-| Thu, 12 Jun 2025 01:48:22 GMT | Crypto Phishing is Evolving , Here’s How to Protect Your Assets in 2025 | Safeguard Capital | [Read More](https://medium.com/p/6c9f94353e87) |
