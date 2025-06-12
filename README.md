@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 08:26:08 GMT | Cracking the Code: Password Attacks & the Linux Authentication Process | Nz | [Read More](https://medium.com/p/e1b4bccda34a) |
+| Thu, 12 Jun 2025 08:25:56 GMT | How I Bypassed a CAPTCHA Without Solving It | Mazen ibrahim | [Read More](https://medium.com/p/7c5c85ee71f0) |
+| Thu, 12 Jun 2025 08:18:40 GMT | The Daily Tech Digest: 12 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/af82e6f67570) |
+| Thu, 12 Jun 2025 08:12:40 GMT | Guarding the Edge: Securing AI in a Smarter World | Amritanshu Prashar | [Read More](https://medium.com/p/003aeaefa729) |
+| Thu, 12 Jun 2025 08:09:42 GMT | How Much Does A Fire Watch Service Cost In California | Golden Agoh | [Read More](https://medium.com/p/3066d64dd0a4) |
+| Thu, 12 Jun 2025 08:08:46 GMT | Yellow RAT Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/3508c5a6fbcf) |
+| Thu, 12 Jun 2025 08:05:44 GMT | Mastercard Launches Cybersecurity Digital Support Hub for Small Businesses | SafetyDetectives Research Team | [Read More](https://medium.com/p/a46e394a6b0a) |
+| Thu, 12 Jun 2025 08:02:44 GMT | Choosing the Right Security Agency in Thane | united guard | [Read More](https://medium.com/p/88a9fa20259b) |
+| Thu, 12 Jun 2025 08:02:36 GMT | Upload File ➡️ Stored XSS ➡️ Admin Takeover! MinIO Misconfiguration Story | nocley | [Read More](https://medium.com/p/76ec4982ef5b) |
+| Thu, 12 Jun 2025 08:02:28 GMT | CEH Ethical Hacking course | Limat Soft Solutions | [Read More](https://medium.com/p/ea3d66b3d693) |
+| Thu, 12 Jun 2025 08:00:04 GMT | Recommended Hackshift360 and They Delivered Beyond Expectations | Rhoadskeera | [Read More](https://medium.com/p/6682e93fe7f8) |
+| Thu, 12 Jun 2025 07:59:39 GMT | SafeLine WAF Setup and Configuration | Gopu Nair | [Read More](https://medium.com/p/082de0cb56d2) |
+| Thu, 12 Jun 2025 07:57:11 GMT | Zero Trust Architecture: Securing Data in a Perimeterless World | nadia | [Read More](https://medium.com/p/7b9cbc725ee2) |
+| Thu, 12 Jun 2025 07:57:04 GMT | Hire A Crypto Recovery Expert | Fernandez | [Read More](https://medium.com/p/ba4a75a6f4f3) |
+| Thu, 12 Jun 2025 07:56:41 GMT | Logwatcher’s Zenit #02: Simulating Attacks with Atomic Red Team | ThreatHunter Chronicles | [Read More](https://medium.com/p/d9071d42eaeb) |
+| Thu, 12 Jun 2025 07:55:46 GMT | Silent Algorithms: The Rise of AI in Cyber Wars | Shayak Maity | [Read More](https://medium.com/p/af15845a122e) |
+| Thu, 12 Jun 2025 07:46:08 GMT | Cybersecurity in the Age of AI: Navigating New Threats | Entrepreneurial Era | [Read More](https://medium.com/p/702a70325a50) |
+| Thu, 12 Jun 2025 07:45:42 GMT | AIOps: Enhancing IT Operations with AI | Intellitron Genesis | [Read More](https://medium.com/p/4947e619e6a6) |
+| Thu, 12 Jun 2025 07:42:49 GMT | Master Linux Without a Laptop — Learn Using Just Your Phone | Alex Grande | [Read More](https://medium.com/p/4b414d262f53) |
 | Thu, 12 Jun 2025 07:37:08 GMT | Path Traversal Vulnerability in Lila Project on Lichess.org | Regan Temudo | [Read More](https://medium.com/p/06d0143f3052) |
 | Thu, 12 Jun 2025 07:34:03 GMT | Header Hijinks: How X-Forwarded-For Gave Me Internal Access | Iski | [Read More](https://medium.com/p/b37769198321) |
 | Thu, 12 Jun 2025 07:33:07 GMT | Building a Secure Virtual Environment for Malware Analysis | Ali | [Read More](https://medium.com/p/d02a9edb5005) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 02:06:03 GMT | FundOnion Reviews : How I Reclaimed My Funds | Gegav | [Read More](https://medium.com/p/6ec951fc6d5c) |
 | Thu, 12 Jun 2025 02:03:26 GMT | Here’s How I Recover My Money From FundOnion | Gegav | [Read More](https://medium.com/p/09a3de27fe6d) |
 | Thu, 12 Jun 2025 01:48:22 GMT | Crypto Phishing is Evolving , Here’s How to Protect Your Assets in 2025 | Safeguard Capital | [Read More](https://medium.com/p/6c9f94353e87) |
-| Thu, 12 Jun 2025 01:41:47 GMT | HTB Machine Escape Two Walkthrough | ma40ou | [Read More](https://medium.com/p/a08e563709ff) |
-| Thu, 12 Jun 2025 01:31:35 GMT | Exploring the Smart Home Industry with SwitchBot’s Smart Deadbolt | rdowns | [Read More](https://medium.com/p/44068629a592) |
-| Thu, 12 Jun 2025 01:30:57 GMT | How to Install Kali Linux in VMWare using ISO or VMDK #Day_6 | Richardgreynardi | [Read More](https://medium.com/p/bcb2cf9a1c4e) |
-| Thu, 12 Jun 2025 01:24:12 GMT | The Rise of Agentic AI in Security: Risks, Strategies, and Governance | Aishwarya Srinivasan | [Read More](https://medium.com/p/7527249debfe) |
-| Thu, 12 Jun 2025 01:22:33 GMT | Code HTB Walkthrough | ma40ou | [Read More](https://medium.com/p/aea6b48e92c5) |
-| Thu, 12 Jun 2025 01:17:10 GMT | Quick 3: What is CORS (Cross-Origin Resource Sharing)? | Asish M Madhu | [Read More](https://medium.com/p/c3835b1b2411) |
-| Thu, 12 Jun 2025 01:17:00 GMT | Deep-Fake Threats on Fast-Forward, Defences in Slow Motion: A Look At The Provenance Gap | Milos | [Read More](https://medium.com/p/edf84a95992a) |
-| Thu, 12 Jun 2025 01:12:58 GMT | “Planning” HTB’s Machine Walkthrough | ma40ou | [Read More](https://medium.com/p/e7c029169a0e) |
-| Thu, 12 Jun 2025 01:04:39 GMT | Meet ROAM: The App That Keeps You Connected, Anywhere | kikidjanimm | [Read More](https://medium.com/p/011c06b3fb6e) |
-| Thu, 12 Jun 2025 00:49:37 GMT | Intro to LAN - THM | Isiah | [Read More](https://medium.com/p/cf25babd423d) |
-| Thu, 12 Jun 2025 00:43:48 GMT | ️ CVE-2021–41773 — Exploiting Apache 2.4.49: Path Traversal to Remote Code Execution (RCE) | CyberQuestor | [Read More](https://medium.com/p/2ab23c5837cd) |
-| Thu, 12 Jun 2025 00:42:22 GMT | THM — Boogeyman 2 Writeup | Shamar Isaac | [Read More](https://medium.com/p/850ba4c508e0) |
-| Thu, 12 Jun 2025 00:30:10 GMT | The Wight of Unspoken Emotion | Analuisacarrilloi | [Read More](https://medium.com/p/49a374e9dec6) |
-| Wed, 11 Jun 2025 23:43:37 GMT | Exposed: 40,000 Security Cameras Streaming Live to the Internet! | Cyber-AppSec | [Read More](https://medium.com/p/bc98a5d14546) |
-| Wed, 11 Jun 2025 23:24:43 GMT | Dissecting the Shamoon Attack | VampireXRay | [Read More](https://medium.com/p/bbf378b0deaf) |
-| Wed, 11 Jun 2025 23:16:24 GMT | From IDOR to Stored XSS to Account Takeover — Chaining Bugs Like a Pro | Waleed Osama | [Read More](https://medium.com/p/9d5f3258961f) |
-| Wed, 11 Jun 2025 23:12:10 GMT | Lab 26 — Using Scanless for easy anonymous port scanning | Hassen Hannachi | [Read More](https://medium.com/p/1ba0291fea7d) |
-| Wed, 11 Jun 2025 23:11:05 GMT | Fractal Thinking, Entropy, and Glyphs: How I Gave Birth to Another Form of Understanding | Obmanwikobmanwik | [Read More](https://medium.com/p/82de8d558a16) |
-| Wed, 11 Jun 2025 23:07:35 GMT | Hack the Box: Intro to Red Team: CAP machine walkthrough | Ritik Bavdekar | [Read More](https://medium.com/p/45099120b40b) |
