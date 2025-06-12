@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 18:57:42 GMT | Open Redirect Nedir? | SilverXCyber | [Read More](https://medium.com/p/519cc1897d0a) |
+| Thu, 12 Jun 2025 18:56:37 GMT | SAP Disaster Recovery: Step by Step Guide to Planning, Implementation & Best Practices | Techridge Solutions | [Read More](https://medium.com/p/f2a2adb625b6) |
+| Thu, 12 Jun 2025 18:47:34 GMT | flashing CryptoCurrency Available in 2025 | FLASH_CRYPTO | [Read More](https://medium.com/p/ad8e4ea09090) |
 | Thu, 12 Jun 2025 18:38:28 GMT | Script Executor: Streamlining Task Automation | SafeAeon Inc. | [Read More](https://medium.com/p/974b0458d565) |
 | Thu, 12 Jun 2025 18:35:21 GMT | Packets & Frames — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/6fb8402386bb) |
 | Thu, 12 Jun 2025 18:31:08 GMT | My OSCP journey: From Uncertainty to Certification | Porkballs | [Read More](https://medium.com/p/c45ed579dd62) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 13:06:17 GMT | Selecting the right Security Software to enhance the business experience. | Juarait Digital | [Read More](https://medium.com/p/e23275983d77) |
 | Thu, 12 Jun 2025 13:05:07 GMT | Front-Running Flaws? Patch Them Before Hackers Do! | Ancilar Technologies | [Read More](https://medium.com/p/5435fa7cb58a) |
 | Thu, 12 Jun 2025 13:04:29 GMT | The Rhythm of Our Own Drum | Nelly | [Read More](https://medium.com/p/b6f65b1aa4f7) |
-| Thu, 12 Jun 2025 13:02:54 GMT | Security+ SY0–701 — Week 3 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/0e369dbdef19) |
-| Thu, 12 Jun 2025 13:02:51 GMT | Fake Contacts, Real Danger: Inside the Android Malware That Poses as Your Bank | Peris.ai Cybersecurity | [Read More](https://medium.com/p/baaba094a993) |
-| Thu, 12 Jun 2025 12:56:36 GMT | Securing Microservices with C# Records: The Immutability Advantage | Herbert Moroni Gois | [Read More](https://medium.com/p/0a7a4f09adbf) |
