@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 05:34:08 GMT | SVGs — Why Your “Images” Might Be More Dangerous Than You Think | Akanksha | [Read More](https://medium.com/p/8f84ba43afc9) |
+| Thu, 12 Jun 2025 05:29:16 GMT | Top Legitimate Crypto Recovery Companies You Can Trust With Your Scammed Coins | Robertjoness | [Read More](https://medium.com/p/11397a922b48) |
+| Thu, 12 Jun 2025 05:27:49 GMT | Wireless Penetration Testing with Aircrack-ng | Tanush Kushwah | [Read More](https://medium.com/p/114e1f1c397f) |
 | Thu, 12 Jun 2025 05:19:51 GMT | Install DWVA server untuk simulasi Wazuh #Day_8 | Richardgreynardi | [Read More](https://medium.com/p/74bccea26945) |
 | Thu, 12 Jun 2025 05:09:03 GMT | How Modern Banks Can Proactively Detect and Dismantle Advanced Persistent Threats (APT) —… | Pushpak Sharma | [Read More](https://medium.com/p/6f3da3ce8d85) |
 | Thu, 12 Jun 2025 05:05:37 GMT | Understanding Network Traffic and OSI Layers 3 & 4: A Practical Overview | Samira Fallah | [Read More](https://medium.com/p/8cece2efa421) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 19:40:36 GMT | PostgreSQL in Docker: The Mysterious ‘No Space Left on Device’ Error (and How to Fix It on macOS) | Komal Bagwe | [Read More](https://medium.com/p/ee7371d4eae8) |
 | Wed, 11 Jun 2025 19:38:54 GMT | HOW I WOULD START BUG BOUNTY IN MID 2025!? | Tenebris Venator | [Read More](https://medium.com/p/3cdbd3f726fb) |
 | Wed, 11 Jun 2025 19:30:05 GMT | Is Your AI Implementation Causing Data Breaches? | Chris Gambill - Gambill Data | [Read More](https://medium.com/p/44d13175757b) |
-| Wed, 11 Jun 2025 19:28:16 GMT | Busqueda — HTB | 0xChryy | [Read More](https://medium.com/p/ccc87a7bc0e8) |
-| Wed, 11 Jun 2025 19:28:14 GMT | Quantum at a Turning Point: Nvidia CEO Declares Industry at ‘Inflection Point’ | QuantumGenie | [Read More](https://medium.com/p/c1a419e8a43d) |
-| Wed, 11 Jun 2025 19:25:57 GMT | The Complete Business Analysis Fundamentals Course + CERT Eğitim Serüvenim Part-2 | Merve Dürül | [Read More](https://medium.com/p/842c4ecda4a3) |
