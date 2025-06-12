@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 13:23:46 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know | Faviy | [Read More](https://medium.com/p/1c1a8a1976f4) |
+| Thu, 12 Jun 2025 13:23:08 GMT | Cloud Colonialism? | Etnik | [Read More](https://medium.com/p/abba71b466e7) |
+| Thu, 12 Jun 2025 13:14:03 GMT | Stealth Falcon just left SOC dads an early Father’s Day present | Wes Young | [Read More](https://medium.com/p/806eda92de11) |
+| Thu, 12 Jun 2025 13:13:49 GMT | Authorization & Certificates Demystified — Part 1 | Anmol Sehgal | [Read More](https://medium.com/p/d7e70e1b0232) |
+| Thu, 12 Jun 2025 13:11:31 GMT | Fileless Malware: How Attackers Use Familiar Tools to Stay Hidden | Ramsey Consulting Services | [Read More](https://medium.com/p/3362aeba2b71) |
+| Thu, 12 Jun 2025 13:06:17 GMT | Selecting the right Security Software to enhance the business experience. | Juarait Digital | [Read More](https://medium.com/p/e23275983d77) |
+| Thu, 12 Jun 2025 13:05:07 GMT | Front-Running Flaws? Patch Them Before Hackers Do! | Ancilar Technologies | [Read More](https://medium.com/p/5435fa7cb58a) |
+| Thu, 12 Jun 2025 13:04:29 GMT | The Rhythm of Our Own Drum | Nelly | [Read More](https://medium.com/p/b6f65b1aa4f7) |
+| Thu, 12 Jun 2025 13:02:54 GMT | Security+ SY0–701 — Week 3 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/0e369dbdef19) |
+| Thu, 12 Jun 2025 13:02:51 GMT | Fake Contacts, Real Danger: Inside the Android Malware That Poses as Your Bank | Peris.ai Cybersecurity | [Read More](https://medium.com/p/baaba094a993) |
+| Thu, 12 Jun 2025 12:56:36 GMT | Securing Microservices with C# Records: The Immutability Advantage | Herbert Moroni Gois | [Read More](https://medium.com/p/0a7a4f09adbf) |
+| Thu, 12 Jun 2025 12:55:54 GMT | The 8 Types of Business Risks Every GRC Analyst Needs to Understand | Brittney Ginther | [Read More](https://medium.com/p/9f85585890ec) |
+| Thu, 12 Jun 2025 12:43:15 GMT | Robofinder : A good tool for bughunters | loyalonlytoday | [Read More](https://medium.com/p/b351ca318291) |
 | Thu, 12 Jun 2025 12:36:18 GMT | Navigating the AI-Powered Cyber Storm: A Practical Survival Guide for Your Business in June 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/f391df8b35ec) |
 | Thu, 12 Jun 2025 12:35:20 GMT | What is Zero Trust Architecture? Principles & Implementation Guide | priyankayadav | [Read More](https://medium.com/p/e6757c5bef40) |
 | Thu, 12 Jun 2025 12:30:41 GMT | OpenAI Bans Hacker Tied ChatGPT Accounts After Discovering Misuse by Nation State Groups | Saravanan R | [Read More](https://medium.com/p/5ac75ae94e3c) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 07:45:42 GMT | AIOps: Enhancing IT Operations with AI | Intellitron Genesis | [Read More](https://medium.com/p/4947e619e6a6) |
 | Thu, 12 Jun 2025 07:42:49 GMT | Master Linux Without a Laptop — Learn Using Just Your Phone | Alex Grande | [Read More](https://medium.com/p/4b414d262f53) |
 | Thu, 12 Jun 2025 07:37:08 GMT | Path Traversal Vulnerability in Lila Project on Lichess.org | Regan Temudo | [Read More](https://medium.com/p/06d0143f3052) |
-| Thu, 12 Jun 2025 07:34:03 GMT | Header Hijinks: How X-Forwarded-For Gave Me Internal Access | Iski | [Read More](https://medium.com/p/b37769198321) |
-| Thu, 12 Jun 2025 07:33:07 GMT | Building a Secure Virtual Environment for Malware Analysis | Ali | [Read More](https://medium.com/p/d02a9edb5005) |
-| Thu, 12 Jun 2025 07:28:32 GMT | Ethical Hacking: Unlocking the Cybersecurity Potential in 2025 | Mdfaizahmad | [Read More](https://medium.com/p/e25d524b0f85) |
-| Thu, 12 Jun 2025 07:25:55 GMT | Cloud Sentinel: Episode 3 — “Timestamps, Tunnels & Terminal Truths” | Tyron Flagg | [Read More](https://medium.com/p/17f4084ec79e) |
-| Thu, 12 Jun 2025 07:24:59 GMT | Quantified Entity Evaluation (QEE): A Minimalist Model of Aggregated Realities | Obmanwikobmanwik | [Read More](https://medium.com/p/840c8fae9712) |
-| Thu, 12 Jun 2025 07:23:09 GMT | How RaaS Advertisements and Communication Themes Fuel the Growth of Global Cyber Threats | Sunder Singh | [Read More](https://medium.com/p/abbb8657a1b8) |
-| Thu, 12 Jun 2025 07:21:57 GMT | Network Security Audit: Why You Need It for Your Business - Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/182f5ff5e6cc) |
-| Thu, 12 Jun 2025 07:17:33 GMT | 5 Things Nobody Tells You About Working in Cybersecurity | Arun | [Read More](https://medium.com/p/fca3d4440d7f) |
-| Thu, 12 Jun 2025 07:17:27 GMT | Cybersecurity is CEOs’ Priority so Why Risk Insecure Communication? | RealTyme | [Read More](https://medium.com/p/217ee1f2e8ee) |
-| Thu, 12 Jun 2025 07:04:53 GMT | The Future of Payments? To CBDC or Not to CBDC. That is the question | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/6dc7b8c6bc99) |
-| Thu, 12 Jun 2025 07:02:44 GMT | Critical CVEs Patched in Easy2Patch E2P-20250614 Catalog | Easy2Patch | [Read More](https://medium.com/p/6082670862cf) |
-| Thu, 12 Jun 2025 07:02:11 GMT | 5DATA INC: Expert Mobile Testing - Top QA Solutions | Bharathig | [Read More](https://medium.com/p/942e79aa8f31) |
-| Thu, 12 Jun 2025 07:01:01 GMT | A Beginner’s Roadmap to Cybersecurity — What You Need to Learn and Why It Matters | Abhay Patel | [Read More](https://medium.com/p/b54e647215f4) |
