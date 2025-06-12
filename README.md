@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 17:37:38 GMT | Hack The Box Writeup — OpenAdmin | Simardeep Singh | [Read More](https://medium.com/p/f09da9c7ee0c) |
+| Thu, 12 Jun 2025 17:30:55 GMT | Utilising Context Augmentation in LLMs for Bug Bounty | Spectat0rguy | [Read More](https://medium.com/p/c41a0c03f4b8) |
+| Thu, 12 Jun 2025 17:28:22 GMT | **عنوان القصة: "العودة إلى الديار.. رحلة الفقد والتعويض"** | Tasneem Masalhe | [Read More](https://medium.com/p/7f969fc2ec62) |
+| Thu, 12 Jun 2025 17:28:14 GMT | TryHackMe “Hammer” Writeup | Mariam Elmenabbawy | [Read More](https://medium.com/p/e83ef0a78874) |
+| Thu, 12 Jun 2025 17:26:10 GMT | Are You Prepared for the Next Wave of Healthcare Cyber Threats? | IT_Engineer | [Read More](https://medium.com/p/466524cb97e6) |
+| Thu, 12 Jun 2025 17:22:24 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/1b8114955a24) |
+| Thu, 12 Jun 2025 17:22:03 GMT | Penetration Testing: Kioptrix Level 1 | Hunter Yoo | [Read More](https://medium.com/p/2368b126a24e) |
 | Thu, 12 Jun 2025 17:14:35 GMT | SYN Flood & Ping of Death Demonstration — Denial of Service (DoS) Attacks in Practice | Rohan UK | [Read More](https://medium.com/p/5bdc965c5ff2) |
+| Thu, 12 Jun 2025 17:12:53 GMT | Weaponizing Bookmarklets for Passive Recon: Wayback Machine, VirusTotal & AlienVault | Jai Lani | [Read More](https://medium.com/p/9f4a736a1c8f) |
 | Thu, 12 Jun 2025 17:07:29 GMT | THM — Boogeyman 3 Writeup | Shamar Isaac | [Read More](https://medium.com/p/41466bbd8c4d) |
+| Thu, 12 Jun 2025 17:06:06 GMT | Who Am I | Amer Sebaihi | [Read More](https://medium.com/p/d51ce6857ad5) |
 | Thu, 12 Jun 2025 17:05:39 GMT | How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame | Michaeltanoto | [Read More](https://medium.com/p/537b6a2c01be) |
 | Thu, 12 Jun 2025 17:01:14 GMT | TryHackMe Mr Robot Writeup | 0xamaan | [Read More](https://medium.com/p/2da7454525d9) |
 | Thu, 12 Jun 2025 16:53:15 GMT | Track the Hacks: Echoes of Exfiltration — Network Forensic Case | byuda | [Read More](https://medium.com/p/c129fe4ad6ae) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 12:12:30 GMT | Here’s How I Recover My Money From Accsmktoptions | José Garcia | [Read More](https://medium.com/p/4851182f62e5) |
 | Thu, 12 Jun 2025 12:11:18 GMT | Why AI Is the Backbone of Modern Threat Detection and Incident Response | Sophia | [Read More](https://medium.com/p/3f1aa24ff1c5) |
 | Thu, 12 Jun 2025 12:08:09 GMT | ️ Static Malware Analysis 101: Understanding Threats Without Execution | Selim Oguz Şahin | [Read More](https://medium.com/p/1c6282d1661e) |
-| Thu, 12 Jun 2025 12:01:13 GMT | Setting Up a Malware Analysis Lab with Flare VM | Selim Oguz Şahin | [Read More](https://medium.com/p/2aa53a5a9ff1) |
-| Thu, 12 Jun 2025 11:59:38 GMT | The Bizarre Origin of CAPTCHA — And What It’s Really Protecting You From | Hafizbilaltariq | [Read More](https://medium.com/p/858ca0dfaefc) |
-| Thu, 12 Jun 2025 11:45:27 GMT | Building a Secure OTP-Based Auth API Using Spring Boot | Shiv Rane | [Read More](https://medium.com/p/14c7ff574f5a) |
-| Thu, 12 Jun 2025 11:45:19 GMT | ? | Hafizbilaltariq | [Read More](https://medium.com/p/62ae82abaa1f) |
-| Thu, 12 Jun 2025 11:42:00 GMT | New Affordable Penetration Testing — Could Transform UK SME Cybersecurity Defence | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/8d6f4040a34d) |
-| Thu, 12 Jun 2025 11:31:15 GMT | Elevate Your Expertise: The PG Diploma in Information Technology at Eleskills.com | bikash Gochhayat | [Read More](https://medium.com/p/5684df0b487d) |
-| Thu, 12 Jun 2025 11:29:19 GMT | How AI is Learning to Think Like Humans — And What That Means for Us. | Hafizbilaltariq | [Read More](https://medium.com/p/059405098034) |
-| Thu, 12 Jun 2025 11:27:03 GMT | Web Application Firewall | Amalpp | [Read More](https://medium.com/p/d8b75f5f0a9d) |
-| Thu, 12 Jun 2025 11:14:11 GMT | How to Create, Encrypt and Password-Protect a PDF Document | LearningPages | [Read More](https://medium.com/p/bcee4047816c) |
