@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 09:37:55 GMT | LetsDefend: SOC137 — Malicious File/Script Download Attempt | V0idd | [Read More](https://medium.com/p/58c7ccd725d5) |
+| Thu, 12 Jun 2025 09:35:55 GMT | Day 9/100 task was to use “cat and less” commands to explore /var/log logs and identify different… | Peacewillie | [Read More](https://medium.com/p/ec882fc0e739) |
+| Thu, 12 Jun 2025 09:31:31 GMT | The Weight of Almost Belonging | Tami | [Read More](https://medium.com/p/cbd7338433af) |
+| Thu, 12 Jun 2025 09:27:54 GMT | Supply Chain & FP&A Success for Leading CPG Firm - KloudPortal Discover how KloudPortal… | Rockeykrammer | [Read More](https://medium.com/p/6042d7b61ef6) |
+| Thu, 12 Jun 2025 09:24:43 GMT | What to Expect from a Security Agency in Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/bede16fe6757) |
+| Thu, 12 Jun 2025 09:22:07 GMT | Get to Know 0xTeabag | 0xTeabag | [Read More](https://medium.com/p/66f93c603c55) |
 | Thu, 12 Jun 2025 09:19:28 GMT | ⚠️ CVE-2025–32710: Critical RCE Vulnerability in Windows Remote Desktop Gateway — Patch Now Before… | Infoziant | [Read More](https://medium.com/p/ea75587f1245) |
 | Thu, 12 Jun 2025 09:15:43 GMT | Unlock Your Share of DORK's Reward Drop and Enjoy maximum benefits | $DORK (DORK) | [Read More](https://medium.com/p/b3fda8e04326) |
 | Thu, 12 Jun 2025 09:02:42 GMT | Overcome These GRC Hurdles Today | Harry West | [Read More](https://medium.com/p/d798f06a9b09) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 04:50:18 GMT | Endpoint Hell and the Art of Surviving Chaos You Can’t Control | Code & Kif | [Read More](https://medium.com/p/97115055291d) |
 | Thu, 12 Jun 2025 04:47:47 GMT | 9 Ways Cybersecurity Shapes the Future of Financial Services | Olivier Gillier | [Read More](https://medium.com/p/ae8128c40acb) |
 | Thu, 12 Jun 2025 04:44:57 GMT | Kickstarting My Journey into Cybersecurity & Ethical Hacking | Darshan | [Read More](https://medium.com/p/c9b779c0c043) |
-| Thu, 12 Jun 2025 04:39:42 GMT | Your Loyalty Card Might Be Loyal to Hackers (and So Might Your Cat App) | Tina Ginn | [Read More](https://medium.com/p/15d959da406f) |
-| Thu, 12 Jun 2025 04:21:24 GMT | Advanced HTTP Request Smuggling (HRS) Exploitation Guide | Shah kaif | [Read More](https://medium.com/p/53ceadd5ac19) |
-| Thu, 12 Jun 2025 04:15:39 GMT | Cyber Threats on Wheels: When Smart Cars Become Targets | Bayu Prasetyo | [Read More](https://medium.com/p/1ff096a8618f) |
-| Thu, 12 Jun 2025 04:14:56 GMT | Have you ever stopped to think how your message on WhatsApp or your favorite YouTube video… | HealerLogs | [Read More](https://medium.com/p/2e10d62a4ca1) |
-| Thu, 12 Jun 2025 04:13:25 GMT | Cybersecurity Best Practices for Remote Workforces | Les Ottolenghi | [Read More](https://medium.com/p/5ec83d9dd96a) |
-| Thu, 12 Jun 2025 04:06:01 GMT | CyberArk Integration in Microservice Architecture | Pattanaikansuman | [Read More](https://medium.com/p/d31b680ed9bb) |
