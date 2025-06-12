@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 14:43:13 GMT | Part 14 — How I Run My Entire Digital Life on a Raspberry Pi: Host Your Own Secure Chat Server for… | Levente Csikor | [Read More](https://medium.com/p/7ab58f678a4f) |
+| Thu, 12 Jun 2025 14:42:48 GMT | Web3 Cryptography: Understanding ECC and Its Threats | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/22f6e68502ad) |
+| Thu, 12 Jun 2025 14:40:54 GMT | LinkedIn’s Pinpoint Puzzle — Today’s Theme: Forms of ID! | Chordiyajiya | [Read More](https://medium.com/p/075269700f1a) |
+| Thu, 12 Jun 2025 14:36:58 GMT | HTTP Parameter pollution | Chandana Priya | [Read More](https://medium.com/p/bad2fda0ef6f) |
+| Thu, 12 Jun 2025 14:27:16 GMT | Vision: Reinvent the system and the computern 1.2 | Damian Treil | [Read More](https://medium.com/p/07601c1396f2) |
+| Thu, 12 Jun 2025 14:21:21 GMT | KaliGPT: The Cybersecurity Sidekick You Wish You Had During That 3AM Incident | Saikat Paul | [Read More](https://medium.com/p/2fbb2bc43c5f) |
+| Thu, 12 Jun 2025 14:17:48 GMT | Write Without Fear. Edit Without Mercy. | Gursahib Singh | [Read More](https://medium.com/p/9cadc9fe842e) |
 | Thu, 12 Jun 2025 14:14:08 GMT | API Security in 2025: The Most Overlooked Vulnerabilities | Andrei Ivan | [Read More](https://medium.com/p/88f513ea347c) |
+| Thu, 12 Jun 2025 14:13:12 GMT | Quantum Computing Explained: You Don’t Need a PhD to Prepare for the Quantum Era (Part 2) | Not Theoretical | [Read More](https://medium.com/p/9ac37bf711fa) |
+| Thu, 12 Jun 2025 14:12:12 GMT | [TryHackMe] hacking DVWA (part 1) | digistam | [Read More](https://medium.com/p/94a0d4b0b29e) |
 | Thu, 12 Jun 2025 14:09:38 GMT | Effective Stink Bugs Control: How to Protect Your Home From Brown Marmorated Stink Bugs | Emily Dawson | [Read More](https://medium.com/p/3701740e2d1f) |
 | Thu, 12 Jun 2025 14:09:28 GMT | SaaS Security: How Bug Bounty Hunters Are Keeping the Cloud Safe | Andrei Ivan | [Read More](https://medium.com/p/03d93aef749a) |
 | Thu, 12 Jun 2025 14:05:59 GMT | The Quantum Way of Recon: Why I Stopped Copying Recon Methods and Built My Own | clipper | [Read More](https://medium.com/p/b9e9fddcd756) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 08:38:58 GMT | Why Microsoft 365 Business Premium Is the Best Plan for SMBs in 2025 | Roshan Karki | [Read More](https://medium.com/p/ce4ce87ff51a) |
 | Thu, 12 Jun 2025 08:37:52 GMT | Cryptocurrency Mining Threat: Dero Malware Found on Unsecured Docker APIs | Criminal IP | [Read More](https://medium.com/p/4424ce340105) |
 | Thu, 12 Jun 2025 08:34:59 GMT | Dipping My Fingers Back into the CTF World - CSC CTF ‘25 WriteUp | Lia Eu - midn8 | [Read More](https://medium.com/p/83fa0fd1c916) |
-| Thu, 12 Jun 2025 08:28:13 GMT | The Growing Cybersecurity Threat in Modern Supply Chains | Jenny Feneley | [Read More](https://medium.com/p/60d4cda53385) |
-| Thu, 12 Jun 2025 08:26:08 GMT | Cracking the Code: Password Attacks & the Linux Authentication Process | Nz | [Read More](https://medium.com/p/e1b4bccda34a) |
-| Thu, 12 Jun 2025 08:25:56 GMT | How I Bypassed a CAPTCHA Without Solving It | Mazen ibrahim | [Read More](https://medium.com/p/7c5c85ee71f0) |
-| Thu, 12 Jun 2025 08:23:23 GMT | How To Receive Free $RECON: A Comprehensive Guide by Recon Solana | $RECON (Recon Solana) | [Read More](https://medium.com/p/8185a3f00dcb) |
-| Thu, 12 Jun 2025 08:18:40 GMT | The Daily Tech Digest: 12 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/af82e6f67570) |
-| Thu, 12 Jun 2025 08:12:40 GMT | Guarding the Edge: Securing AI in a Smarter World | Amritanshu Prashar | [Read More](https://medium.com/p/003aeaefa729) |
-| Thu, 12 Jun 2025 08:09:42 GMT | How Much Does A Fire Watch Service Cost In California | Golden Agoh | [Read More](https://medium.com/p/3066d64dd0a4) |
-| Thu, 12 Jun 2025 08:08:46 GMT | Yellow RAT Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/3508c5a6fbcf) |
-| Thu, 12 Jun 2025 08:05:44 GMT | Mastercard Launches Cybersecurity Digital Support Hub for Small Businesses | SafetyDetectives Research Team | [Read More](https://medium.com/p/a46e394a6b0a) |
