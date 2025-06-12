@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 04:21:24 GMT | Advanced HTTP Request Smuggling (HRS) Exploitation Guide | Shah kaif | [Read More](https://medium.com/p/53ceadd5ac19) |
+| Thu, 12 Jun 2025 04:15:39 GMT | Cyber Threats on Wheels: When Smart Cars Become Targets | Bayu Prasetyo | [Read More](https://medium.com/p/1ff096a8618f) |
+| Thu, 12 Jun 2025 04:14:56 GMT | Have you ever stopped to think how your message on WhatsApp or your favorite YouTube video… | HealerLogs | [Read More](https://medium.com/p/2e10d62a4ca1) |
+| Thu, 12 Jun 2025 04:13:25 GMT | Cybersecurity Best Practices for Remote Workforces | Les Ottolenghi | [Read More](https://medium.com/p/5ec83d9dd96a) |
+| Thu, 12 Jun 2025 04:06:01 GMT | CyberArk Integration in Microservice Architecture | Pattanaikansuman | [Read More](https://medium.com/p/d31b680ed9bb) |
+| Thu, 12 Jun 2025 04:02:17 GMT | Dedicated Server for Ecommerce: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/10a8528a979e) |
+| Thu, 12 Jun 2025 03:56:50 GMT | Essential 8: A Must-Know for Australian Business Owners in 2025 | cyber ethos | [Read More](https://medium.com/p/33aa5e210a5f) |
 | Thu, 12 Jun 2025 03:46:46 GMT | The Architect’s Cybersecurity Checklist: Protecting Your Intellectual Property | Jacky Kapadia | [Read More](https://medium.com/p/07ee722c82b3) |
 | Thu, 12 Jun 2025 03:31:36 GMT | When Security Backfires: Dissecting the Shopware SQL Injection Flaw | Deven Chhajed | [Read More](https://medium.com/p/322a419647f6) |
 | Thu, 12 Jun 2025 03:31:04 GMT | Understanding HMAC: A Deep Dive into Hash-Based Message Authentication Codes | Jagadhiswaran D | [Read More](https://medium.com/p/7751a7db9241) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Jun 2025 18:31:03 GMT | Fixing the Linux Network Interface | Cy3erS@up | [Read More](https://medium.com/p/6c5a09192b01) |
 | Wed, 11 Jun 2025 18:28:02 GMT | Get your OpenAI API Key and let’s explore together | 46 | [Read More](https://medium.com/p/b5a35f78e2d5) |
 | Wed, 11 Jun 2025 18:27:05 GMT | The Windows Security Journey — Standalone Managed Service Account (sMSA) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/1fa129a97e8a) |
-| Wed, 11 Jun 2025 18:19:35 GMT | Laravel SentinelLog: Supercharge Your App Security with Next-Level Authentication! | Harry Es Pant | [Read More](https://medium.com/p/f1a9ce07ad9b) |
-| Wed, 11 Jun 2025 18:19:17 GMT | Bloktan: Cybersecurity and IT Services Tailored for Real-World Risk | Authors Avenger | [Read More](https://medium.com/p/e0998c3472df) |
-| Wed, 11 Jun 2025 18:17:40 GMT | How QR Codes are the New Phishing Attack Vector (and how hackers use them to trick you) | Subigya Ghimire | [Read More](https://medium.com/p/6194ffbdd286) |
-| Wed, 11 Jun 2025 18:09:33 GMT | ম্যালওয়্যার ডেভেলপমেন্ট ক্যারিয়ার কমপ্লিট গাইডলাইন | Shahriar Galib | [Read More](https://medium.com/p/b3e9a0e4a6b8) |
-| Wed, 11 Jun 2025 18:08:49 GMT | Facebook और Google — कौन रखता है हम पर नज़र? | SaadeAala RS | [Read More](https://medium.com/p/c9f89bcfb7df) |
-| Wed, 11 Jun 2025 18:06:39 GMT | Evri Delivery Scams Explained: What Every UK Consumer Should Know | Sammcmullen | [Read More](https://medium.com/p/91f05298a7ac) |
-| Wed, 11 Jun 2025 18:02:40 GMT | How to Test AI Bias — A Practical Guide | Himanshunya | [Read More](https://medium.com/p/b3e09b70eb52) |
