@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 10:38:27 GMT | SkyTower Walkthrough — Gaining Root Access | Rohan UK | [Read More](https://medium.com/p/44658ae9c021) |
+| Thu, 12 Jun 2025 10:36:29 GMT | Crack the Code: A Beginner’s Guide to Wi-Fi Hacking with Aircrack-ng | Poduthasnevin | [Read More](https://medium.com/p/a1b2fdf10838) |
+| Thu, 12 Jun 2025 10:33:30 GMT | Amadey Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/0fe40e21e9f8) |
+| Thu, 12 Jun 2025 10:32:53 GMT | Top Cybersecurity & Forensics Services in India — Cyber Infra Armor | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/a0b27f7cb96a) |
 | Thu, 12 Jun 2025 10:21:51 GMT | The Future of Cybersecurity In Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/9629e660cbed) |
+| Thu, 12 Jun 2025 10:21:09 GMT | Ensuring Cybersecurity and Data Privacy: The Vital Role of MCA Professionals | Poddar Group of Institutions | [Read More](https://medium.com/p/b076847cb195) |
+| Thu, 12 Jun 2025 10:20:51 GMT | Why CISSP Training Online Is the Smartest Way to Achieve Your CISSP Certification | Cybernous Infosec consulting | [Read More](https://medium.com/p/afeb8b8b121a) |
+| Thu, 12 Jun 2025 10:19:21 GMT | phpmailer vs PHPMailer: My Windows and Linux server experience | Amaziro Stanley Ehuchie | [Read More](https://medium.com/p/107a625e3aef) |
 | Thu, 12 Jun 2025 10:12:20 GMT | „Изкуственият интелект — новото лице на фалшивите новини“ | Anita Stoyanova | [Read More](https://medium.com/p/6121f00c8f3a) |
 | Thu, 12 Jun 2025 10:11:51 GMT | The Top 5 Security Threats to Watch for in 2025 | Group 24/7 Security Services | [Read More](https://medium.com/p/a4b0ce22809d) |
 | Thu, 12 Jun 2025 10:09:28 GMT | Information Disclosure via GraphQL in Production | Ehtesham Ul Haq | [Read More](https://medium.com/p/64c62c9dbe4c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 06:04:21 GMT | How I hacked Karnataka NIC portal with a simple SQL injection | Adithya M S | [Read More](https://medium.com/p/073f064ad99e) |
 | Thu, 12 Jun 2025 06:02:15 GMT | Bypassing Authentication: A Critical Flaw in Basecamp’s | Monika sharma | [Read More](https://medium.com/p/849d9fadf39f) |
 | Thu, 12 Jun 2025 06:01:33 GMT | The Future of Cybersecurity Jobs: What Interns Should Know | Internshipgate | [Read More](https://medium.com/p/3c81fac52abb) |
-| Thu, 12 Jun 2025 05:59:31 GMT | The Flag API Key — 247CTF solution writeup | Adithya M S | [Read More](https://medium.com/p/aa3764baadcb) |
-| Thu, 12 Jun 2025 05:57:59 GMT | Erie Insurance Systems Hit by Cyberattack, Millions Affected | WIRE TOR - The Ethical Hacking Services | [Read More](https://medium.com/p/2ac18dc026ba) |
-| Thu, 12 Jun 2025 05:41:15 GMT | EXPLAINER Policy Debate: Border Fencing in Nigeria | Sgshehu | [Read More](https://medium.com/p/73ee53e871f8) |
-| Thu, 12 Jun 2025 05:34:08 GMT | SVGs — Why Your “Images” Might Be More Dangerous Than You Think | Akanksha | [Read More](https://medium.com/p/8f84ba43afc9) |
-| Thu, 12 Jun 2025 05:29:16 GMT | Top Legitimate Crypto Recovery Companies You Can Trust With Your Scammed Coins | Robertjoness | [Read More](https://medium.com/p/11397a922b48) |
-| Thu, 12 Jun 2025 05:27:49 GMT | Wireless Penetration Testing with Aircrack-ng | Tanush Kushwah | [Read More](https://medium.com/p/114e1f1c397f) |
-| Thu, 12 Jun 2025 05:19:51 GMT | Install DWVA server untuk simulasi Wazuh #Day_8 | Richardgreynardi | [Read More](https://medium.com/p/74bccea26945) |
