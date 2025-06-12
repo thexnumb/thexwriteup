@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 18:20:09 GMT | I hope I told you this. | writes and wongs | [Read More](https://medium.com/p/3dac52a1454d) |
+| Thu, 12 Jun 2025 18:02:39 GMT | The Illusion of Protection | Malik Vero | [Read More](https://medium.com/p/b0682600b38d) |
+| Thu, 12 Jun 2025 17:58:02 GMT | Common Golang mistakes that hurt programmers | Kirubakaran | [Read More](https://medium.com/p/e97fb98b1501) |
+| Thu, 12 Jun 2025 17:52:40 GMT | Tutorial - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/0c4fb9ede7d0) |
+| Thu, 12 Jun 2025 17:51:05 GMT | Here’s a comprehensive look at the recent public clash—variable tensions and thawing—between Donald… | Asnaf Ktk | [Read More](https://medium.com/p/00c737aae9f3) |
+| Thu, 12 Jun 2025 17:46:39 GMT | Security threats for web application | Coding-Practice | [Read More](https://medium.com/p/f00ee63a5f85) |
+| Thu, 12 Jun 2025 17:42:20 GMT | The Rise of AI-Powered Cyberattacks: Are You Ready for the New Digital Battlefield? | Piyoosh Rai | [Read More](https://medium.com/p/63b6371ecd9f) |
 | Thu, 12 Jun 2025 17:37:38 GMT | Hack The Box Writeup — OpenAdmin | Simardeep Singh | [Read More](https://medium.com/p/f09da9c7ee0c) |
+| Thu, 12 Jun 2025 17:34:23 GMT | Understanding AI Agents | Aastha Thakker | [Read More](https://medium.com/p/665362a5666f) |
 | Thu, 12 Jun 2025 17:30:55 GMT | Utilising Context Augmentation in LLMs for Bug Bounty | Spectat0rguy | [Read More](https://medium.com/p/c41a0c03f4b8) |
 | Thu, 12 Jun 2025 17:28:22 GMT | **عنوان القصة: "العودة إلى الديار.. رحلة الفقد والتعويض"** | Tasneem Masalhe | [Read More](https://medium.com/p/7f969fc2ec62) |
 | Thu, 12 Jun 2025 17:28:14 GMT | TryHackMe “Hammer” Writeup | Mariam Elmenabbawy | [Read More](https://medium.com/p/e83ef0a78874) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 12:35:20 GMT | What is Zero Trust Architecture? Principles & Implementation Guide | priyankayadav | [Read More](https://medium.com/p/e6757c5bef40) |
 | Thu, 12 Jun 2025 12:30:41 GMT | OpenAI Bans Hacker Tied ChatGPT Accounts After Discovering Misuse by Nation State Groups | Saravanan R | [Read More](https://medium.com/p/5ac75ae94e3c) |
 | Thu, 12 Jun 2025 12:29:30 GMT | Your Digital Front Door Is Unlocked. Here’s How to Secure It. | PC & Tech News | [Read More](https://medium.com/p/50e5af9a0e29) |
-| Thu, 12 Jun 2025 12:28:23 GMT | ChatGPT: Now Banned in the Hacker Hall of Fame | MohitV | [Read More](https://medium.com/p/5ec045f6570b) |
-| Thu, 12 Jun 2025 12:26:30 GMT | OpenAI Disables ChatGPT Accounts Linked to State-Sponsored Cyber Operations | Akash P | [Read More](https://medium.com/p/003a71a552a3) |
-| Thu, 12 Jun 2025 12:25:40 GMT | Go’s Philosophy: Building Secure Systems | Ganesh | [Read More](https://medium.com/p/42a8d5360ea5) |
-| Thu, 12 Jun 2025 12:22:27 GMT | What is my IP address? https://randompasswordgenerator.uk/random-ip-address-generator/ | Tahashaikhseo | [Read More](https://medium.com/p/5dad3f3127fa) |
-| Thu, 12 Jun 2025 12:18:06 GMT | Apprise Cyber and BMC Solutions Form Cybersecurity Partnership | Muhammad Inam Abbasi | [Read More](https://medium.com/p/ea2c1242b547) |
-| Thu, 12 Jun 2025 12:12:30 GMT | Here’s How I Recover My Money From Accsmktoptions | José Garcia | [Read More](https://medium.com/p/4851182f62e5) |
-| Thu, 12 Jun 2025 12:11:18 GMT | Why AI Is the Backbone of Modern Threat Detection and Incident Response | Sophia | [Read More](https://medium.com/p/3f1aa24ff1c5) |
-| Thu, 12 Jun 2025 12:08:09 GMT | ️ Static Malware Analysis 101: Understanding Threats Without Execution | Selim Oguz Şahin | [Read More](https://medium.com/p/1c6282d1661e) |
