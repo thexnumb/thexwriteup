@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 21:12:34 GMT | Security Considerations for ML in Financial Services | Eden | [Read More](https://medium.com/p/f5fa263a6cb5) |
+| Thu, 12 Jun 2025 21:08:53 GMT | OWASP Top 10 for Backend Engineers: What You’re Probably Ignoring (But Shouldn’t) | Stefano Alvares | [Read More](https://medium.com/p/a11b87eb4b0c) |
 | Thu, 12 Jun 2025 20:56:28 GMT | Generating ECDSA Certificates and Signing Them With Your Own Certificate Authority Using OpenSSL | Elliot Michael Keavney | [Read More](https://medium.com/p/930b46def3ef) |
 | Thu, 12 Jun 2025 20:55:42 GMT | Your Domain is Talking Behind Your Back (And Hackers Might Be Listening) | Solo Recon | [Read More](https://medium.com/p/66589cffbd0c) |
 | Thu, 12 Jun 2025 20:55:28 GMT | Ghostly Hollowing Crypter: Evading AV and EDR | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0369a3d3114c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 14:42:48 GMT | Web3 Cryptography: Understanding ECC and Its Threats | Hafidz Ahlaqul Anbiya | [Read More](https://medium.com/p/22f6e68502ad) |
 | Thu, 12 Jun 2025 14:40:54 GMT | LinkedIn’s Pinpoint Puzzle — Today’s Theme: Forms of ID! | Chordiyajiya | [Read More](https://medium.com/p/075269700f1a) |
 | Thu, 12 Jun 2025 14:36:58 GMT | HTTP Parameter pollution | Chandana Priya | [Read More](https://medium.com/p/bad2fda0ef6f) |
-| Thu, 12 Jun 2025 14:27:16 GMT | Vision: Reinvent the system and the computern 1.2 | Damian Treil | [Read More](https://medium.com/p/07601c1396f2) |
-| Thu, 12 Jun 2025 14:21:21 GMT | KaliGPT: The Cybersecurity Sidekick You Wish You Had During That 3AM Incident | Saikat Paul | [Read More](https://medium.com/p/2fbb2bc43c5f) |
