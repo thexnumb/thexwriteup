@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 16:40:39 GMT | Gmail Knows Too Much About Me — That’s Why I Moved to ProtonMail | Anshul Kumar | [Read More](https://medium.com/p/9aa91486b349) |
+| Thu, 12 Jun 2025 16:37:53 GMT | Secrets management is shifting, and here’s how to stay ahead. | Amber Britton | [Read More](https://medium.com/p/6c2a80b67670) |
+| Thu, 12 Jun 2025 16:27:02 GMT | Who’s Responsible When AI Fails? | Ismailshuaib | [Read More](https://medium.com/p/e91c41dbb890) |
+| Thu, 12 Jun 2025 16:25:57 GMT | Ketika Bank Terbesar Dunia Jadi Korban Ransomware: ICBC London | Anisa Bintang Maharani | [Read More](https://medium.com/p/1dd07c8be78f) |
+| Thu, 12 Jun 2025 16:22:57 GMT | Your Boss Just Called. It Wasn’t Your Boss. | Daulet | [Read More](https://medium.com/p/6aa75eb0a238) |
+| Thu, 12 Jun 2025 16:21:30 GMT | The Machine vs. Machine War: Why AI-to-AI Attacks Will Break Every Security Tool You Own | Eric Zietlow | [Read More](https://medium.com/p/76ee2d2dd98c) |
+| Thu, 12 Jun 2025 16:21:01 GMT | TryHackMe Mr Robot CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/4e4e6293bc41) |
+| Thu, 12 Jun 2025 16:17:57 GMT | Important Http response code | The Commoness | [Read More](https://medium.com/p/b6bed030161b) |
+| Thu, 12 Jun 2025 16:15:22 GMT | AI in Cyberattacks: How Artificial Intelligence Is Powering Modern Threats | HackerVault | [Read More](https://medium.com/p/dba8f988795e) |
 | Thu, 12 Jun 2025 16:14:31 GMT | JavaScript Security: Prototype Pollution in Node.js Applications | Rizqi Mulki | [Read More](https://medium.com/p/0015246e4a1e) |
 | Thu, 12 Jun 2025 16:14:17 GMT | ️ Day 61: Bash Scripting — Mastering Regex, Grep, Sed, and Awk | Agarwaldaksh | [Read More](https://medium.com/p/a85b515c964f) |
 | Thu, 12 Jun 2025 16:12:53 GMT | ️ Understanding Prompt Injection: The New Security Frontier in the Age of AI | Abhishek Kumar Gupta | [Read More](https://medium.com/p/61f401dd78eb) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 11:01:12 GMT | Advanced Biometrics Authentication Systems in Maryland by ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/647436299025) |
 | Thu, 12 Jun 2025 10:58:19 GMT | BRabbit Lab | Jesús García Rubias | [Read More](https://medium.com/p/fce045e25cd1) |
 | Thu, 12 Jun 2025 10:56:54 GMT | ECC and Web3 Cryptography as well as its threats. | Eilcxtvrzfmicyqqmo | [Read More](https://medium.com/p/30aac1a8cd56) |
-| Thu, 12 Jun 2025 10:54:04 GMT | A Complete Guide to Communications Platform as a Service | Gauri Kale | [Read More](https://medium.com/p/9517b2eb2f66) |
-| Thu, 12 Jun 2025 10:53:29 GMT | Understanding and Preventing CSRF Attacks in PHP Applications | Roman Huliak | [Read More](https://medium.com/p/ad7bc74c5ef7) |
-| Thu, 12 Jun 2025 10:52:49 GMT | Ruby’s Security Crisis: When Obsolescence Meets Exploits | Yash Batra | [Read More](https://medium.com/p/50d62c8a2e4d) |
-| Thu, 12 Jun 2025 10:38:27 GMT | SkyTower Walkthrough — Gaining Root Access | Rohan UK | [Read More](https://medium.com/p/44658ae9c021) |
-| Thu, 12 Jun 2025 10:36:29 GMT | Crack the Code: A Beginner’s Guide to Wi-Fi Hacking with Aircrack-ng | Poduthasnevin | [Read More](https://medium.com/p/a1b2fdf10838) |
-| Thu, 12 Jun 2025 10:33:30 GMT | Amadey Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/0fe40e21e9f8) |
-| Thu, 12 Jun 2025 10:32:53 GMT | Top Cybersecurity & Forensics Services in India — Cyber Infra Armor | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/a0b27f7cb96a) |
-| Thu, 12 Jun 2025 10:21:51 GMT | The Future of Cybersecurity In Saudi Arabia | Bluechip Advanced Technologies | [Read More](https://medium.com/p/9629e660cbed) |
-| Thu, 12 Jun 2025 10:21:09 GMT | Ensuring Cybersecurity and Data Privacy: The Vital Role of MCA Professionals | Poddar Group of Institutions | [Read More](https://medium.com/p/b076847cb195) |
