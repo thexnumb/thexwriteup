@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 20:34:29 GMT | The Traveling Agent: Detecting Malicious Drift in Agent Toolchains | Tomer Wetzler | [Read More](https://medium.com/p/79280c01d5ac) |
+| Thu, 12 Jun 2025 20:31:28 GMT | SigmaHunter Challenge #1 — Detecting PsExec Service Installation via SMB | Ahmed Nosir | [Read More](https://medium.com/p/8195e584abc1) |
+| Thu, 12 Jun 2025 20:23:22 GMT | Shodan Dorking for Hackers: Easy CVEs and How I Found Them | A0X_Trojan | [Read More](https://medium.com/p/ecf6c56e7075) |
+| Thu, 12 Jun 2025 20:18:49 GMT | ️ Comprehensive Guide to Ubuntu System Hardening with USG | Mubashir Rahman | [Read More](https://medium.com/p/70f8f3679a14) |
+| Thu, 12 Jun 2025 20:18:35 GMT | The Digital Moat: Why the Air Gap no longer protects Industrial Systems | Thomas Rauch | [Read More](https://medium.com/p/a333fdd66ba3) |
 | Thu, 12 Jun 2025 20:15:33 GMT | Scenium RWA: Learn & Join In #4 — RWA Security: Risks & Best Practices | Scenium | [Read More](https://medium.com/p/2206771b89b4) |
 | Thu, 12 Jun 2025 20:13:13 GMT | Setting up a home lab for Penetration testing and Ethical hacking simulations | Dr. Ummulkhair Abdulkarim | [Read More](https://medium.com/p/f76bea09d4d4) |
 | Thu, 12 Jun 2025 20:07:04 GMT | JA4 in Action: Detecting Bots, Malware, and Fake Browsers at the TLS Level | Ishak Antar | [Read More](https://medium.com/p/3ccd890fbce9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 14:13:12 GMT | Quantum Computing Explained: You Don’t Need a PhD to Prepare for the Quantum Era (Part 2) | Not Theoretical | [Read More](https://medium.com/p/9ac37bf711fa) |
 | Thu, 12 Jun 2025 14:12:12 GMT | [TryHackMe] hacking DVWA (part 1) | digistam | [Read More](https://medium.com/p/94a0d4b0b29e) |
 | Thu, 12 Jun 2025 14:09:38 GMT | Effective Stink Bugs Control: How to Protect Your Home From Brown Marmorated Stink Bugs | Emily Dawson | [Read More](https://medium.com/p/3701740e2d1f) |
-| Thu, 12 Jun 2025 14:09:28 GMT | SaaS Security: How Bug Bounty Hunters Are Keeping the Cloud Safe | Andrei Ivan | [Read More](https://medium.com/p/03d93aef749a) |
-| Thu, 12 Jun 2025 14:05:59 GMT | The Quantum Way of Recon: Why I Stopped Copying Recon Methods and Built My Own | clipper | [Read More](https://medium.com/p/b9e9fddcd756) |
-| Thu, 12 Jun 2025 13:59:27 GMT | Cyber Briefing: 2025.06.12 | CyberMaterial | [Read More](https://medium.com/p/eaedebb1ed93) |
-| Thu, 12 Jun 2025 13:59:20 GMT | A Hacker’s Guide to Documentation | Hydsec | [Read More](https://medium.com/p/cd2b7d0a6bca) |
-| Thu, 12 Jun 2025 13:58:55 GMT | Purple Team: Kolaborasi Red dan Blue Team Demi Keamanan Siber yang Tangguh | Dzakwan Efendi | [Read More](https://medium.com/p/f1d5a41bc985) |
