@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 17:14:35 GMT | SYN Flood & Ping of Death Demonstration — Denial of Service (DoS) Attacks in Practice | Rohan UK | [Read More](https://medium.com/p/5bdc965c5ff2) |
+| Thu, 12 Jun 2025 17:07:29 GMT | THM — Boogeyman 3 Writeup | Shamar Isaac | [Read More](https://medium.com/p/41466bbd8c4d) |
+| Thu, 12 Jun 2025 17:05:39 GMT | How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame | Michaeltanoto | [Read More](https://medium.com/p/537b6a2c01be) |
+| Thu, 12 Jun 2025 17:01:14 GMT | TryHackMe Mr Robot Writeup | 0xamaan | [Read More](https://medium.com/p/2da7454525d9) |
+| Thu, 12 Jun 2025 16:53:15 GMT | Track the Hacks: Echoes of Exfiltration — Network Forensic Case | byuda | [Read More](https://medium.com/p/c129fe4ad6ae) |
+| Thu, 12 Jun 2025 16:51:29 GMT | False Alarms: Why Most Security Notifications Backfire | MrsNo1Special | [Read More](https://medium.com/p/87fbc6c031e1) |
+| Thu, 12 Jun 2025 16:46:41 GMT | The Chat Trap: A Red Team’s Path to Domain Compromise | Cyberowl | [Read More](https://medium.com/p/f01a9df2624d) |
 | Thu, 12 Jun 2025 16:40:39 GMT | Gmail Knows Too Much About Me — That’s Why I Moved to ProtonMail | Anshul Kumar | [Read More](https://medium.com/p/9aa91486b349) |
 | Thu, 12 Jun 2025 16:37:53 GMT | Secrets management is shifting, and here’s how to stay ahead. | Amber Britton | [Read More](https://medium.com/p/6c2a80b67670) |
 | Thu, 12 Jun 2025 16:27:02 GMT | Who’s Responsible When AI Fails? | Ismailshuaib | [Read More](https://medium.com/p/e91c41dbb890) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 11:29:19 GMT | How AI is Learning to Think Like Humans — And What That Means for Us. | Hafizbilaltariq | [Read More](https://medium.com/p/059405098034) |
 | Thu, 12 Jun 2025 11:27:03 GMT | Web Application Firewall | Amalpp | [Read More](https://medium.com/p/d8b75f5f0a9d) |
 | Thu, 12 Jun 2025 11:14:11 GMT | How to Create, Encrypt and Password-Protect a PDF Document | LearningPages | [Read More](https://medium.com/p/bcee4047816c) |
-| Thu, 12 Jun 2025 11:11:12 GMT | The Rise of Data Privacy in the Middle East: A Strategic Shift Towards Accountability | Moupia Roy Chowdhury | [Read More](https://medium.com/p/d8d35acf4c12) |
-| Thu, 12 Jun 2025 11:03:24 GMT | The Hidden Web: How Bing Dorks Reveal What Google Won’t Show You | Intellectsy | [Read More](https://medium.com/p/a3c87bfac6f2) |
-| Thu, 12 Jun 2025 11:02:44 GMT | What the hell is Kerberos? | EOLO | [Read More](https://medium.com/p/c352bef8d098) |
-| Thu, 12 Jun 2025 11:02:42 GMT | Vexcash Review - This Is How I Got My Money Back. | Dorothy Purdy | [Read More](https://medium.com/p/d93b0fdffea1) |
-| Thu, 12 Jun 2025 11:01:12 GMT | Advanced Biometrics Authentication Systems in Maryland by ICS Security Solutions | Katheryne | [Read More](https://medium.com/p/647436299025) |
-| Thu, 12 Jun 2025 10:58:19 GMT | BRabbit Lab | Jesús García Rubias | [Read More](https://medium.com/p/fce045e25cd1) |
-| Thu, 12 Jun 2025 10:56:54 GMT | ECC and Web3 Cryptography as well as its threats. | Eilcxtvrzfmicyqqmo | [Read More](https://medium.com/p/30aac1a8cd56) |
