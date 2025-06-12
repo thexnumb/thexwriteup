@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 20:56:28 GMT | Generating ECDSA Certificates and Signing Them With Your Own Certificate Authority Using OpenSSL | Elliot Michael Keavney | [Read More](https://medium.com/p/930b46def3ef) |
+| Thu, 12 Jun 2025 20:55:42 GMT | Your Domain is Talking Behind Your Back (And Hackers Might Be Listening) | Solo Recon | [Read More](https://medium.com/p/66589cffbd0c) |
+| Thu, 12 Jun 2025 20:55:28 GMT | Ghostly Hollowing Crypter: Evading AV and EDR | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0369a3d3114c) |
+| Thu, 12 Jun 2025 20:45:41 GMT | Day 2: “Detecting Port Scans with Wireshark” | Amy Huynh | [Read More](https://medium.com/p/c55fe984b7c6) |
+| Thu, 12 Jun 2025 20:45:03 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/e95d105ff27c) |
 | Thu, 12 Jun 2025 20:34:29 GMT | The Traveling Agent: Detecting Malicious Drift in Agent Toolchains | Tomer Wetzler | [Read More](https://medium.com/p/79280c01d5ac) |
 | Thu, 12 Jun 2025 20:31:28 GMT | SigmaHunter Challenge #1 — Detecting PsExec Service Installation via SMB | Ahmed Nosir | [Read More](https://medium.com/p/8195e584abc1) |
 | Thu, 12 Jun 2025 20:23:22 GMT | Shodan Dorking for Hackers: Easy CVEs and How I Found Them | A0X_Trojan | [Read More](https://medium.com/p/ecf6c56e7075) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 14:36:58 GMT | HTTP Parameter pollution | Chandana Priya | [Read More](https://medium.com/p/bad2fda0ef6f) |
 | Thu, 12 Jun 2025 14:27:16 GMT | Vision: Reinvent the system and the computern 1.2 | Damian Treil | [Read More](https://medium.com/p/07601c1396f2) |
 | Thu, 12 Jun 2025 14:21:21 GMT | KaliGPT: The Cybersecurity Sidekick You Wish You Had During That 3AM Incident | Saikat Paul | [Read More](https://medium.com/p/2fbb2bc43c5f) |
-| Thu, 12 Jun 2025 14:17:48 GMT | Write Without Fear. Edit Without Mercy. | Gursahib Singh | [Read More](https://medium.com/p/9cadc9fe842e) |
-| Thu, 12 Jun 2025 14:14:08 GMT | API Security in 2025: The Most Overlooked Vulnerabilities | Andrei Ivan | [Read More](https://medium.com/p/88f513ea347c) |
-| Thu, 12 Jun 2025 14:13:12 GMT | Quantum Computing Explained: You Don’t Need a PhD to Prepare for the Quantum Era (Part 2) | Not Theoretical | [Read More](https://medium.com/p/9ac37bf711fa) |
-| Thu, 12 Jun 2025 14:12:12 GMT | [TryHackMe] hacking DVWA (part 1) | digistam | [Read More](https://medium.com/p/94a0d4b0b29e) |
-| Thu, 12 Jun 2025 14:09:38 GMT | Effective Stink Bugs Control: How to Protect Your Home From Brown Marmorated Stink Bugs | Emily Dawson | [Read More](https://medium.com/p/3701740e2d1f) |
