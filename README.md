@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Jun 2025 14:14:08 GMT | API Security in 2025: The Most Overlooked Vulnerabilities | Andrei Ivan | [Read More](https://medium.com/p/88f513ea347c) |
+| Thu, 12 Jun 2025 14:09:38 GMT | Effective Stink Bugs Control: How to Protect Your Home From Brown Marmorated Stink Bugs | Emily Dawson | [Read More](https://medium.com/p/3701740e2d1f) |
+| Thu, 12 Jun 2025 14:09:28 GMT | SaaS Security: How Bug Bounty Hunters Are Keeping the Cloud Safe | Andrei Ivan | [Read More](https://medium.com/p/03d93aef749a) |
+| Thu, 12 Jun 2025 14:05:59 GMT | The Quantum Way of Recon: Why I Stopped Copying Recon Methods and Built My Own | clipper | [Read More](https://medium.com/p/b9e9fddcd756) |
+| Thu, 12 Jun 2025 13:59:27 GMT | Cyber Briefing: 2025.06.12 | CyberMaterial | [Read More](https://medium.com/p/eaedebb1ed93) |
+| Thu, 12 Jun 2025 13:59:20 GMT | A Hacker’s Guide to Documentation | Hydsec | [Read More](https://medium.com/p/cd2b7d0a6bca) |
+| Thu, 12 Jun 2025 13:58:55 GMT | Purple Team: Kolaborasi Red dan Blue Team Demi Keamanan Siber yang Tangguh | Dzakwan Efendi | [Read More](https://medium.com/p/f1d5a41bc985) |
+| Thu, 12 Jun 2025 13:57:02 GMT | HatchTechs Leading IT Solutions Provider in the UK | HatchTechsUK | [Read More](https://medium.com/p/600e100bbfe4) |
+| Thu, 12 Jun 2025 13:42:15 GMT | Corporate Greed Chronicles: Google’s Buyouts, Trading Talent for Wall Street Likes | Namir Sagheenanajar | [Read More](https://medium.com/p/57ba4295c68e) |
+| Thu, 12 Jun 2025 13:41:15 GMT | Flash Coins & Fake Transactions: What You Need to Know | Faviy | [Read More](https://medium.com/p/54ea18ee434f) |
+| Thu, 12 Jun 2025 13:40:27 GMT | Writing Into the Void (And Still Showing Up Anyway) | Amanur | [Read More](https://medium.com/p/3e572c3e5117) |
+| Thu, 12 Jun 2025 13:34:33 GMT | ️ Node.js Security Essentials — Helmet, CSRF, Rate-Limiting & Dependency Audits | Priyanshu Rajput | [Read More](https://medium.com/p/70d2ba6ea984) |
+| Thu, 12 Jun 2025 13:27:55 GMT | Broken Access Control: Vertical privilege escalation part-1 | p7ihu2_Zer0 | [Read More](https://medium.com/p/a025152c941a) |
 | Thu, 12 Jun 2025 13:23:46 GMT | How Scammers Fake Crypto Transactions in 2025 – What You Need to Know | Faviy | [Read More](https://medium.com/p/1c1a8a1976f4) |
 | Thu, 12 Jun 2025 13:23:08 GMT | Cloud Colonialism? | Etnik | [Read More](https://medium.com/p/abba71b466e7) |
 | Thu, 12 Jun 2025 13:14:03 GMT | Stealth Falcon just left SOC dads an early Father’s Day present | Wes Young | [Read More](https://medium.com/p/806eda92de11) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 08:09:42 GMT | How Much Does A Fire Watch Service Cost In California | Golden Agoh | [Read More](https://medium.com/p/3066d64dd0a4) |
 | Thu, 12 Jun 2025 08:08:46 GMT | Yellow RAT Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/3508c5a6fbcf) |
 | Thu, 12 Jun 2025 08:05:44 GMT | Mastercard Launches Cybersecurity Digital Support Hub for Small Businesses | SafetyDetectives Research Team | [Read More](https://medium.com/p/a46e394a6b0a) |
-| Thu, 12 Jun 2025 08:02:44 GMT | Choosing the Right Security Agency in Thane | united guard | [Read More](https://medium.com/p/88a9fa20259b) |
-| Thu, 12 Jun 2025 08:02:36 GMT | Upload File ➡️ Stored XSS ➡️ Admin Takeover! MinIO Misconfiguration Story | nocley | [Read More](https://medium.com/p/76ec4982ef5b) |
-| Thu, 12 Jun 2025 08:02:28 GMT | CEH Ethical Hacking course | Limat Soft Solutions | [Read More](https://medium.com/p/ea3d66b3d693) |
-| Thu, 12 Jun 2025 08:00:04 GMT | Recommended Hackshift360 and They Delivered Beyond Expectations | Rhoadskeera | [Read More](https://medium.com/p/6682e93fe7f8) |
-| Thu, 12 Jun 2025 07:59:39 GMT | SafeLine WAF Setup and Configuration | Gopu Nair | [Read More](https://medium.com/p/082de0cb56d2) |
-| Thu, 12 Jun 2025 07:57:11 GMT | Zero Trust Architecture: Securing Data in a Perimeterless World | nadia | [Read More](https://medium.com/p/7b9cbc725ee2) |
-| Thu, 12 Jun 2025 07:57:04 GMT | Hire A Crypto Recovery Expert | Fernandez | [Read More](https://medium.com/p/ba4a75a6f4f3) |
-| Thu, 12 Jun 2025 07:56:41 GMT | Logwatcher’s Zenit #02: Simulating Attacks with Atomic Red Team | ThreatHunter Chronicles | [Read More](https://medium.com/p/d9071d42eaeb) |
-| Thu, 12 Jun 2025 07:55:46 GMT | Silent Algorithms: The Rise of AI in Cyber Wars | Shayak Maity | [Read More](https://medium.com/p/af15845a122e) |
-| Thu, 12 Jun 2025 07:46:08 GMT | Cybersecurity in the Age of AI: Navigating New Threats | Entrepreneurial Era | [Read More](https://medium.com/p/702a70325a50) |
-| Thu, 12 Jun 2025 07:45:42 GMT | AIOps: Enhancing IT Operations with AI | Intellitron Genesis | [Read More](https://medium.com/p/4947e619e6a6) |
-| Thu, 12 Jun 2025 07:42:49 GMT | Master Linux Without a Laptop — Learn Using Just Your Phone | Alex Grande | [Read More](https://medium.com/p/4b414d262f53) |
-| Thu, 12 Jun 2025 07:37:08 GMT | Path Traversal Vulnerability in Lila Project on Lichess.org | Regan Temudo | [Read More](https://medium.com/p/06d0143f3052) |
