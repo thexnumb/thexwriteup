@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 09:18:13 GMT | What is a cyber incident response service? | Ziya Zoe | [Read More](https://medium.com/p/8a252d29e42f) |
+| Fri, 13 Jun 2025 09:16:58 GMT | Is Your Remote Developer Actually a North Korean Operative? | David SEHYEON Baek | [Read More](https://medium.com/p/365db92d4f46) |
+| Fri, 13 Jun 2025 09:14:55 GMT | Splunk Çalışmalarım -6 Regex Kullanımı | Mehmetfiliz | [Read More](https://medium.com/p/5a26672796d9) |
+| Fri, 13 Jun 2025 09:12:40 GMT | North Korea Builds Its Cyber Army Starting with Gifted Children | David SEHYEON Baek | [Read More](https://medium.com/p/6d5270ad1778) |
+| Fri, 13 Jun 2025 09:07:21 GMT |  | Smart Money Management | [Read More](https://medium.com/p/b5769babeb47) |
+| Fri, 13 Jun 2025 09:05:30 GMT | CVE-2025–4230: PAN-OS Admin Command Injection Vulnerability Exposes Enterprise Firewall… | Infoziant | [Read More](https://medium.com/p/239fe2aee9b2) |
+| Fri, 13 Jun 2025 09:02:38 GMT | GRC Tools That Make Life Easier | Harry West | [Read More](https://medium.com/p/81fbb3b96f85) |
+| Fri, 13 Jun 2025 08:58:19 GMT | SEO for Security Companies: Boosting Visibility and Winning More Clients | Deeksha Thakur | [Read More](https://medium.com/p/4c0f805fa662) |
+| Fri, 13 Jun 2025 08:57:25 GMT | OT/IoT Security | Jaiswal Siddharth | [Read More](https://medium.com/p/a3166199d19c) |
+| Fri, 13 Jun 2025 08:55:31 GMT | The Memory Leak That Only Happened on Leap Day: A Kernel Bug That Surfaced Every 4 Years | Rudra | [Read More](https://medium.com/p/d3dc51de9b96) |
+| Fri, 13 Jun 2025 08:53:46 GMT | How Volt Typhoon Evades Detection and Why Even the U.S. Experts Struggle to Respond | David SEHYEON Baek | [Read More](https://medium.com/p/706f2bfbdad8) |
+| Fri, 13 Jun 2025 08:51:26 GMT | Security summary of KubeCon + CloudNativeCon 2025 | Irori | [Read More](https://medium.com/p/21e8c04b81a3) |
+| Fri, 13 Jun 2025 08:51:20 GMT | Sanalın Yedeği Gerçeğe Döndü: Fiziksel Arşiv Dijital Dünyanın Yeni Güvencesi | Tuzsuz Ofis Günlükleri | [Read More](https://medium.com/p/efa104963431) |
 | Fri, 13 Jun 2025 08:48:04 GMT | How LockBit “Revolutionized” the Ransomware Ecosystem with Its Business Model and Product Strategy… | David SEHYEON Baek | [Read More](https://medium.com/p/cfd325ed884c) |
 | Fri, 13 Jun 2025 08:43:17 GMT | How GitHub’s SLSA Framework and Artifact Attestations Combat Modern Threats | David SEHYEON Baek | [Read More](https://medium.com/p/d9bdd1a7f375) |
 | Fri, 13 Jun 2025 08:42:06 GMT | How I Built a “Digital Inspector” for My AWS Account with AWS Config | Aashishchaudhari | [Read More](https://medium.com/p/703159d15be9) |
@@ -101,16 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 04:27:24 GMT | Securing Web Applications with Custom WAF using OpenResty | Parminder Singh | [Read More](https://medium.com/p/6e968e6ad56f) |
 | Fri, 13 Jun 2025 04:18:38 GMT | Rethinking Container Security: It’s time to shift-right beyond CVE scans | 0x90@master | [Read More](https://medium.com/p/dbcbc0e65761) |
 | Fri, 13 Jun 2025 04:15:16 GMT | How Digital Marketing Can Revolutionize Small and Medium Businesses in Kerala | Akhilchandcs | [Read More](https://medium.com/p/122dea4a3ebc) |
-| Fri, 13 Jun 2025 04:13:05 GMT | The Future of Cybersecurity: What Lies Ahead in the Digital Age | Omanberners | [Read More](https://medium.com/p/b606fd6eab36) |
-| Fri, 13 Jun 2025 04:12:04 GMT | CipherMQ; a new generation Message Broker written by Rust | Mohammad Fozouni | [Read More](https://medium.com/p/d6af5f3f8eff) |
-| Fri, 13 Jun 2025 04:01:40 GMT | Mastering ping and traceroute for Ethical Hacking: How I Map Network Paths Like a Pro | YoungerSibling | [Read More](https://medium.com/p/e8f6c48ba57f) |
-| Fri, 13 Jun 2025 04:01:33 GMT | CTF Day(13) | Ahmed Narmer | [Read More](https://medium.com/p/2ad289797f14) |
-| Fri, 13 Jun 2025 04:01:05 GMT | Understanding MCP(Model Context Protocol), Its Power, and Perils | Akanksha | [Read More](https://medium.com/p/d789a1d5dd91) |
-| Fri, 13 Jun 2025 04:00:51 GMT | Path Traversal Vulnerability Explained: How Hackers Climb Your Server’s Directory Tree | Zoningxtr | [Read More](https://medium.com/p/c027af069407) |
-| Fri, 13 Jun 2025 03:54:25 GMT | Exploring the Smart Home Industry: SwitchBot’s Innovative Smart Lock Solutions | Dgfsdfsfds | [Read More](https://medium.com/p/809e9b1a72aa) |
-| Fri, 13 Jun 2025 03:51:00 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology SectorCase Study: Mula Mutha River… | Rutikayerpude | [Read More](https://medium.com/p/e9ab5a2d05cb) |
-| Fri, 13 Jun 2025 03:50:55 GMT | Dissecting Cryptography: From the Eliptic Curve (ECC) to the Web3 Era | Steven Juliano | [Read More](https://medium.com/p/3ea36c883bc4) |
-| Fri, 13 Jun 2025 03:50:48 GMT | Why Cybersecurity Is a Business Imperative in 2025 | Mamekam | [Read More](https://medium.com/p/6567a13deb02) |
-| Fri, 13 Jun 2025 03:49:27 GMT | Should AI Be Open Source? Here’s the Chilling Truth | Rahul Mishra | [Read More](https://medium.com/p/79ab08e1b7b8) |
-| Fri, 13 Jun 2025 03:48:56 GMT | Elliptic Curve Cryptography (ECC) & Web3: Panduan Serius Tapi Santai Biar Nggak Kudet di Dunia… | Ahmad Ubaidillah | [Read More](https://medium.com/p/94d50062bdba) |
-| Fri, 13 Jun 2025 03:40:47 GMT | You are worth melting and crying for. I am okay, don’t worry! | Heidi lai | [Read More](https://medium.com/p/7c36fc9959fa) |
