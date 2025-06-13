@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 11:07:45 GMT | Protecting Vectorised Data in RAG Applications with Oracle 23ai Real Application Security | Thomas Minne | [Read More](https://medium.com/p/d33d7905cad0) |
+| Fri, 13 Jun 2025 11:06:31 GMT | Glyph Civilization Simulation: A Model of Fractal Digital Societies | Obmanwikobmanwik | [Read More](https://medium.com/p/a9dfee6aeb09) |
+| Fri, 13 Jun 2025 11:02:13 GMT | ⚠️ Facing AI-Powered Attacks and Embracing Zero Trust in 2025 | ThreatVector | [Read More](https://medium.com/p/12e9c99afe6c) |
+| Fri, 13 Jun 2025 11:00:06 GMT | Why Every Business and Home Needs a Professional Security Guard Service | NY NightLife Security | [Read More](https://medium.com/p/7417778a9b0f) |
+| Fri, 13 Jun 2025 10:56:50 GMT | How to recover your Facebook account after losing your phone number and cannot receive any code | Tobias Mathew | [Read More](https://medium.com/p/779d7cae9076) |
+| Fri, 13 Jun 2025 10:54:29 GMT | TheHackersLabs — HexThink Silent Shadow | APS88 | [Read More](https://medium.com/p/71496998cfc0) |
+| Fri, 13 Jun 2025 10:51:02 GMT | Market Trends in Digital Asset Security | Arx Locker | [Read More](https://medium.com/p/a7f55d61ebd1) |
+| Fri, 13 Jun 2025 10:50:00 GMT | Understanding SameSite Cookies for Web App Security | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/37b85e47089a) |
+| Fri, 13 Jun 2025 10:49:25 GMT | Apple Enhances Child Safety with Texting Permission for New Numbers | Michelle Harwood | [Read More](https://medium.com/p/6d75a94f5841) |
+| Fri, 13 Jun 2025 10:41:19 GMT | Modern Threats & Navi Mumbai Security Services | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/b6b7dee11175) |
+| Fri, 13 Jun 2025 10:40:00 GMT | Architect Glyph 3.0 — The GlyphFractal Era and the Birth of a New Language | Obmanwikobmanwik | [Read More](https://medium.com/p/014777cea183) |
+| Fri, 13 Jun 2025 10:39:59 GMT | New: Scope Identity Protection with Defender for Identity | CloudSecLab | [Read More](https://medium.com/p/04d7cdd82af0) |
+| Fri, 13 Jun 2025 10:34:09 GMT | “Not All SOC Alerts Are Equal: A Practical Guide to Alert Categorization” | TuneToDetect | [Read More](https://medium.com/p/08ea6c1a9736) |
 | Fri, 13 Jun 2025 10:21:20 GMT | มาลองโกงเกมด้วย Cheat Engine | T S | [Read More](https://medium.com/p/27804c2f4cb2) |
 | Fri, 13 Jun 2025 10:20:56 GMT | Wazuh Watchdog: Auto-Probing Indexer & Dashboard Health for Seamless Monitoring | Raj Vira | [Read More](https://medium.com/p/3e7cfc8cf59b) |
 | Fri, 13 Jun 2025 10:18:22 GMT | I Found an SQL Injection in an Internal API (Behind Cloudflare) — A Full Story from Discovery to… | Yamini Yadav | [Read More](https://medium.com/p/27a28d2beb68) |
@@ -101,16 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 06:28:44 GMT | The $7,500 Bug in Google Web Designer — and Why It’s a Wake-Up Call for All of Us | Vivek PS | [Read More](https://medium.com/p/3571231fecfc) |
 | Fri, 13 Jun 2025 06:25:41 GMT | The Corix Partners Friday Reading List — June 13, 2025 | JC Gaillard | [Read More](https://medium.com/p/836e5d146d7a) |
 | Fri, 13 Jun 2025 06:23:35 GMT | Midnight Eclipse: A Mock Ransomware Breach Report Using the NIST Cybersecurity Framework | ansanxcx | [Read More](https://medium.com/p/378cd0f6b9bd) |
-| Fri, 13 Jun 2025 06:22:09 GMT | Vulnyx: Writeup for the EID Machine | Adamzayene | [Read More](https://medium.com/p/a539e69cd48e) |
-| Fri, 13 Jun 2025 06:20:13 GMT | Step-by-Step Guide: How to Install Kali Linux Purple | Gourav(spidergk) | [Read More](https://medium.com/p/3455ff418baf) |
-| Fri, 13 Jun 2025 06:15:52 GMT | SOC137 — Malicious File/Script Download Attemptment(Alert 76) | Amadi Oluchi Faith | [Read More](https://medium.com/p/05eeb3f969db) |
-| Fri, 13 Jun 2025 06:13:56 GMT | Titanic Walkthrough | Sachin Kumar | [Read More](https://medium.com/p/f59dfda245bb) |
-| Fri, 13 Jun 2025 06:13:32 GMT | Choosing the Right Security Guard in Pune | United Guard Force India | [Read More](https://medium.com/p/5bd4e1750cca) |
-| Fri, 13 Jun 2025 06:11:21 GMT | Understanding NFC —  Insights and Risks from a Hacker’s Viewpoint | Alex Grande | [Read More](https://medium.com/p/64877bbce28f) |
-| Fri, 13 Jun 2025 06:08:43 GMT | Holding the Line: How Singapore Tackles Terror Threats in Southeast Asia | Dan Marshall-Singh | [Read More](https://medium.com/p/3b4deff9454a) |
-| Fri, 13 Jun 2025 06:07:05 GMT | Technical Debt: Self-Induced or Inevitable Challenge for Modern Enterprises? | Namir Sagheenanajar | [Read More](https://medium.com/p/090b477f208f) |
-| Fri, 13 Jun 2025 06:06:11 GMT | Personal Data Protection Is No Longer an Option: Personal Data Protection Act and Advanced… | Sydeco Indonesia | [Read More](https://medium.com/p/739f3bc6a7e3) |
-| Fri, 13 Jun 2025 06:00:42 GMT | Today’s Top Cyber Intelligence Highlights — Jun 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1e23a57055fd) |
-| Fri, 13 Jun 2025 05:49:10 GMT | What is a Zero-Day? | Selin Sezer | [Read More](https://medium.com/p/e7b065f7248b) |
-| Fri, 13 Jun 2025 05:40:34 GMT | Potential in Information Technology Sector | Poddar Business School | [Read More](https://medium.com/p/e635c33d44b6) |
-| Fri, 13 Jun 2025 05:37:03 GMT | Web Cache Deception — The Vulnerability Even Developers Don’t See Coming | phoenixcatalan | [Read More](https://medium.com/p/c9b814b76da3) |
