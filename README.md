@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 22:32:48 GMT | AI and Deepfake Threats: A Security Professional’s Perspective | Austin Gomez | [Read More](https://medium.com/p/482cc4b17873) |
+| Fri, 13 Jun 2025 22:24:00 GMT | How Hackers Exploit RDP: What you Need to Know to Protect Yourself | Cywarr | [Read More](https://medium.com/p/d773fc52f2d5) |
+| Fri, 13 Jun 2025 22:23:37 GMT | Sudo & LD_PRELOAD | Kaan Ekşi | [Read More](https://medium.com/p/85c250f255ba) |
+| Fri, 13 Jun 2025 22:21:37 GMT | Beware: Physical Letter Scams Targeting Executives Pretend to Be BianLian Group | Austin Gomez | [Read More](https://medium.com/p/6abba720f3b4) |
+| Fri, 13 Jun 2025 22:21:08 GMT | Enterprise Network Security Architecture Using Cisco Packet Tracer | Ahmed Nabil | [Read More](https://medium.com/p/f8c060fabbe5) |
 | Fri, 13 Jun 2025 22:16:36 GMT | Understanding the MITRE ATT&CK Framework: A Beginner to Pro Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c8a2fe0de30e) |
 | Fri, 13 Jun 2025 22:02:11 GMT | ️ DarkGate Malware: A Network Forensics Investigation Using Wireshark & NetworkMiner | Chirag Ghotikar | [Read More](https://medium.com/p/7fea5d94e23e) |
 | Fri, 13 Jun 2025 21:57:13 GMT | WordPress Brute Force Attack Analysis: Deviasi Challenge Write-Up | Ikhwanushofa Effendi | [Read More](https://medium.com/p/2c6efd330018) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 14:46:31 GMT | The 2024 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/a7c621589510) |
 | Fri, 13 Jun 2025 14:44:58 GMT | Unlimited Store Credit: Finding an Economy-Breaking Bug in a Digital Storefront’s Discord Bot | Van Kevindo | [Read More](https://medium.com/p/6518b32e9ffa) |
 | Fri, 13 Jun 2025 14:44:09 GMT | Metadata in End-to-End Encryption: Achilles’ Heel or Shield? | Tal Be'ery | [Read More](https://medium.com/p/bbea643bfce7) |
-| Fri, 13 Jun 2025 14:42:53 GMT | Malda Hack: No Validation And Full Access | Evgenii | [Read More](https://medium.com/p/75ac787aae28) |
-| Fri, 13 Jun 2025 14:36:03 GMT | Nothing screams ‘prime phishing grounds’ like a nationwide outage. | Mia Kotalik | [Read More](https://medium.com/p/f0b63b1caef9) |
-| Fri, 13 Jun 2025 14:33:25 GMT | The True Dangers of Young Teenagers on Instagram | Savvy Cyber Kids | [Read More](https://medium.com/p/d4ff00333976) |
-| Fri, 13 Jun 2025 14:33:03 GMT | You Are The Disinformation You Eat | Savvy Cyber Kids | [Read More](https://medium.com/p/b211e3823b1c) |
-| Fri, 13 Jun 2025 14:32:31 GMT | Digital Permanence and Bullying | Savvy Cyber Kids | [Read More](https://medium.com/p/987094ce4ebb) |
