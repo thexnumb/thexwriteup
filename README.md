@@ -12,9 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 17:07:46 GMT | Identity and Access Management (IAM) Setup with Keycloak | Halimah Olaolohun Abdul-Azeez | [Read More](https://medium.com/p/6c615bfea1a8) |
+| Fri, 13 Jun 2025 17:06:28 GMT | Cybersecurity Career Path: What I’m Learning as a Student | Chordiyajiya | [Read More](https://medium.com/p/5497a50e6948) |
+| Fri, 13 Jun 2025 17:01:35 GMT | Exposing an OAuth Token Weakness in Amazon’s Mobile App: A Responsible Disclosure Journey | C. Oscar Lawshea | [Read More](https://medium.com/p/3b967ab8134f) |
+| Fri, 13 Jun 2025 16:55:10 GMT | Friendly Fire: When Gamified UX Undermines Cybersecurity | MrsNo1Special | [Read More](https://medium.com/p/045036ea084d) |
 | Fri, 13 Jun 2025 16:44:29 GMT | The AI Ghost in the Machine: Hacking Zero-Trust Supply Chains from the Attacker’s Mindset (with… | Dwaipyan Mandal | [Read More](https://medium.com/p/dac1426750f1) |
 | Fri, 13 Jun 2025 16:44:21 GMT | Before You Build, Think About This | Vichaar Tech | [Read More](https://medium.com/p/fb42f1a6d287) |
 | Fri, 13 Jun 2025 16:43:29 GMT | AI Agents as Attack Vectors: Deconstructing GitHub MCP Exploit & Proposing ASOF Architecture. | Saad Khalid | [Read More](https://medium.com/p/5fe6b9e5fe93) |
+| Fri, 13 Jun 2025 16:42:25 GMT | What is Defender for Cloud and How Does It Work? | Techridge Solutions | [Read More](https://medium.com/p/08330019fb85) |
 | Fri, 13 Jun 2025 16:36:12 GMT | Cybersecurity News Review — Week 24 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/e92e788c7d09) |
 | Fri, 13 Jun 2025 16:34:30 GMT | Conquering Procrastination on the Road to CCNA | Sec Savvy | [Read More](https://medium.com/p/c6effc49c846) |
 | Fri, 13 Jun 2025 16:33:30 GMT | What Is a Firewall? Your Cybersecurity Castle Gatekeeper | Pavithraa Deenadayalan | [Read More](https://medium.com/p/84398028cc8c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 12:28:16 GMT | Think Before You Download: ViperSoftX Malware Hidden in Pirated eBooks and Cracked Software | Jon C | [Read More](https://medium.com/p/5f1c40b326fd) |
 | Fri, 13 Jun 2025 12:27:02 GMT | I Tricked a Web App Into Leaking /etc/passwd  (PortSwigger Lab) | Sumanth Yerranagula | [Read More](https://medium.com/p/d4f68835ffe1) |
 | Fri, 13 Jun 2025 12:22:26 GMT | How to Build a Custom Security Baseline in Microsoft Defender for Endpoint (MDE) | Shivam Mathur | [Read More](https://medium.com/p/4f3fe4c912d1) |
-| Fri, 13 Jun 2025 12:17:50 GMT | Best VAPT Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/97de142f600e) |
-| Fri, 13 Jun 2025 12:16:45 GMT | No Less Than This Flower | Blake Alan | [Read More](https://medium.com/p/81c45ed7fa66) |
-| Fri, 13 Jun 2025 12:15:12 GMT | TryHackMe-Skynet CTF | Kaan Ekşi | [Read More](https://medium.com/p/ebbdf0aef81d) |
-| Fri, 13 Jun 2025 12:06:41 GMT | Statistics and trends about AI in SecOps, cloud usage, and VEC attacks fro June 2025 | CyberSecStats | [Read More](https://medium.com/p/e17ddee194fa) |
-| Fri, 13 Jun 2025 11:34:17 GMT | Chasing a Valid in the Stars: My First NASA.gov Find | MostReal | [Read More](https://medium.com/p/cecdb9c29c35) |
