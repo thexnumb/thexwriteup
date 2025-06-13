@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 06:22:09 GMT | Vulnyx: Writeup for the EID Machine | Adamzayene | [Read More](https://medium.com/p/a539e69cd48e) |
+| Fri, 13 Jun 2025 06:20:13 GMT | Step-by-Step Guide: How to Install Kali Linux Purple | Gourav(spidergk) | [Read More](https://medium.com/p/3455ff418baf) |
+| Fri, 13 Jun 2025 06:15:52 GMT | SOC137 — Malicious File/Script Download Attemptment(Alert 76) | Amadi Oluchi Faith | [Read More](https://medium.com/p/05eeb3f969db) |
+| Fri, 13 Jun 2025 06:13:56 GMT | Titanic Walkthrough | Sachin Kumar | [Read More](https://medium.com/p/f59dfda245bb) |
+| Fri, 13 Jun 2025 06:13:32 GMT | Choosing the Right Security Guard in Pune | United Guard Force India | [Read More](https://medium.com/p/5bd4e1750cca) |
+| Fri, 13 Jun 2025 06:11:21 GMT | Understanding NFC —  Insights and Risks from a Hacker’s Viewpoint | Alex Grande | [Read More](https://medium.com/p/64877bbce28f) |
+| Fri, 13 Jun 2025 06:08:43 GMT | Holding the Line: How Singapore Tackles Terror Threats in Southeast Asia | Dan Marshall-Singh | [Read More](https://medium.com/p/3b4deff9454a) |
+| Fri, 13 Jun 2025 06:07:05 GMT | Technical Debt: Self-Induced or Inevitable Challenge for Modern Enterprises? | Namir Sagheenanajar | [Read More](https://medium.com/p/090b477f208f) |
+| Fri, 13 Jun 2025 06:06:11 GMT | Personal Data Protection Is No Longer an Option: Personal Data Protection Act and Advanced… | Sydeco Indonesia | [Read More](https://medium.com/p/739f3bc6a7e3) |
+| Fri, 13 Jun 2025 06:00:42 GMT | Today’s Top Cyber Intelligence Highlights — Jun 13, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/1e23a57055fd) |
+| Fri, 13 Jun 2025 05:49:10 GMT | What is a Zero-Day? | Selin Sezer | [Read More](https://medium.com/p/e7b065f7248b) |
+| Fri, 13 Jun 2025 05:40:34 GMT | Potential in Information Technology Sector | Poddar Business School | [Read More](https://medium.com/p/e635c33d44b6) |
 | Fri, 13 Jun 2025 05:37:03 GMT | Web Cache Deception — The Vulnerability Even Developers Don’t See Coming | phoenixcatalan | [Read More](https://medium.com/p/c9b814b76da3) |
 | Fri, 13 Jun 2025 05:35:16 GMT | Enhancing Safety with Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/004a0a6267c9) |
 | Fri, 13 Jun 2025 05:32:29 GMT | $7,500 Bounty: Exposed Any User’s Email on HackerOne | Monika sharma | [Read More](https://medium.com/p/2d19bb2a214c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 20:13:13 GMT | Setting up a home lab for Penetration testing and Ethical hacking simulations | Dr. Ummulkhair Abdulkarim | [Read More](https://medium.com/p/f76bea09d4d4) |
 | Thu, 12 Jun 2025 20:07:04 GMT | JA4 in Action: Detecting Bots, Malware, and Fake Browsers at the TLS Level | Ishak Antar | [Read More](https://medium.com/p/3ccd890fbce9) |
 | Thu, 12 Jun 2025 20:06:24 GMT | Building Beluga in the Belly of the Storm | Dr. Noor N. AyToghlo | [Read More](https://medium.com/p/7097c885f2a7) |
-| Thu, 12 Jun 2025 20:06:10 GMT | What is an API? A Simple Guide for Beginners | GABBYTECH | [Read More](https://medium.com/p/bf3429553880) |
-| Thu, 12 Jun 2025 20:00:40 GMT | Recruitment Ransomware: How FIN6’s Malicious Resumes Are Weaponizing HR Trust | Ronit Yadav | [Read More](https://medium.com/p/e939646b35db) |
-| Thu, 12 Jun 2025 19:49:06 GMT | Playful Desperation | Eric V. Kirk | [Read More](https://medium.com/p/dd5b67bdc0b5) |
-| Thu, 12 Jun 2025 19:45:39 GMT | Silent Breach Lab — CyberDefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/69eb533a372c) |
-| Thu, 12 Jun 2025 19:45:14 GMT | Scanned and Scammed: Inside a QR Code Spear Phishing Attack | HDK | [Read More](https://medium.com/p/aaf49011a929) |
-| Thu, 12 Jun 2025 19:43:22 GMT | Unlock a Healthier You: The Jaw-Dropping Benefits of Fish Oil & Why Nature’s Bounty Fish Oil Omega… | RETROGURU | [Read More](https://medium.com/p/6a32d5fe87b7) |
-| Thu, 12 Jun 2025 19:21:38 GMT | Alarm Fatigue Management and Noise Reduction Techniques | Esra Kayhan | [Read More](https://medium.com/p/b8cb36de0439) |
-| Thu, 12 Jun 2025 19:07:21 GMT | Sivanandh CC: The Visionary Behind RECILENS — A Company Redefining Cybersecurity and Digital… | Official Writer | [Read More](https://medium.com/p/424b6d807bb8) |
-| Thu, 12 Jun 2025 19:06:52 GMT | SmartAttack Uses Smartwatch Ultrasonic Channels to Breach Air-Gapped PCs | Ronit Yadav | [Read More](https://medium.com/p/546f72708726) |
-| Thu, 12 Jun 2025 19:04:56 GMT | Securing the IoT Frontier: Safeguarding 27 Billion Devices in 2025 | Chetan Seripally | [Read More](https://medium.com/p/82a5936134a8) |
-| Thu, 12 Jun 2025 18:57:42 GMT | Open Redirect Nedir? | SilverXCyber | [Read More](https://medium.com/p/519cc1897d0a) |
-| Thu, 12 Jun 2025 18:56:37 GMT | SAP Disaster Recovery: Step by Step Guide to Planning, Implementation & Best Practices | Techridge Solutions | [Read More](https://medium.com/p/f2a2adb625b6) |
