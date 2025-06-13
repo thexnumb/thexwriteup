@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 10:20:56 GMT | Wazuh Watchdog: Auto-Probing Indexer & Dashboard Health for Seamless Monitoring | Raj Vira | [Read More](https://medium.com/p/3e7cfc8cf59b) |
+| Fri, 13 Jun 2025 10:18:22 GMT | I Found an SQL Injection in an Internal API (Behind Cloudflare) — A Full Story from Discovery to… | Yamini Yadav | [Read More](https://medium.com/p/27a28d2beb68) |
+| Fri, 13 Jun 2025 10:17:07 GMT | Permission Creep and the Curious Case of Jobcase: Why Are We Even Allowing This? | Cevher Dogan | [Read More](https://medium.com/p/61f6e424f838) |
+| Fri, 13 Jun 2025 10:14:08 GMT | Mobile App Reverse Engineer Toolkit | Ali Okan Yüksel | [Read More](https://medium.com/p/f0aabbede0ec) |
+| Fri, 13 Jun 2025 10:08:02 GMT | Cybersecurity Audit Checklist: The Risk of Free Online Tools | Liam Corwin | [Read More](https://medium.com/p/608d0f61724d) |
+| Fri, 13 Jun 2025 09:54:23 GMT | Hotel Security Guard Services: Protecting Guests, Staff & Property Around the Clock | Sumintra | [Read More](https://medium.com/p/26bc53b1311b) |
+| Fri, 13 Jun 2025 09:53:44 GMT | Securing Flutter Apps | Adarsh Vijayan P | [Read More](https://medium.com/p/37e4bffc718b) |
+| Fri, 13 Jun 2025 09:52:06 GMT | Implementing the shift left approach to application security for mid-sized organizations | cyber_pix | [Read More](https://medium.com/p/2a9737b22238) |
+| Fri, 13 Jun 2025 09:46:02 GMT | Why is cyber recovery planning important today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/6dc6b899bb1e) |
+| Fri, 13 Jun 2025 09:33:46 GMT | AI Security in Enterprise | Vlad Koval | [Read More](https://medium.com/p/9376a93db8a1) |
 | Fri, 13 Jun 2025 09:30:05 GMT | Why IT Certifications Are a Smart Career Move in Today’s Digital World? | Access Computer Training | [Read More](https://medium.com/p/844d503a1b83) |
 | Fri, 13 Jun 2025 09:29:30 GMT | Brute- it Oversimplified Walkthrough -TryHackMe | Adhiyan | [Read More](https://medium.com/p/26cc6a4d17ee) |
 | Fri, 13 Jun 2025 09:24:16 GMT | Weak Regex, Big Mess: How I Escaped Input Validation with One Tiny Character | Iski | [Read More](https://medium.com/p/9ead1deccffa) |
@@ -104,13 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 05:37:03 GMT | Web Cache Deception — The Vulnerability Even Developers Don’t See Coming | phoenixcatalan | [Read More](https://medium.com/p/c9b814b76da3) |
 | Fri, 13 Jun 2025 05:35:16 GMT | Enhancing Safety with Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/004a0a6267c9) |
 | Fri, 13 Jun 2025 05:32:29 GMT | $7,500 Bounty: Exposed Any User’s Email on HackerOne | Monika sharma | [Read More](https://medium.com/p/2d19bb2a214c) |
-| Fri, 13 Jun 2025 05:31:32 GMT | AKS Security with CrowdStrike Falcon: Production-Ready YAML Configurations and Lessons Learned | Sridhar | [Read More](https://medium.com/p/4c752e3b466c) |
-| Fri, 13 Jun 2025 05:31:32 GMT | My OSCP+ Journey: From Hack The Box to Certified Ethical Hacker! | Yamini Yadav | [Read More](https://medium.com/p/8b2d92e1e8ce) |
-| Fri, 13 Jun 2025 05:22:20 GMT | This New Google Ads Feature Can Explode Your YouTube Channel — Here’s How | Ashik Imman | [Read More](https://medium.com/p/0433a41b9b91) |
-| Fri, 13 Jun 2025 05:18:20 GMT | Weeks of Watching, One Moment of Madness: A 2-Minute Hunt That Brought It All Down | Gokuleswaran B | [Read More](https://medium.com/p/41f181a1cbc9) |
-| Fri, 13 Jun 2025 05:09:26 GMT | UAC-0219's Malware Analysis | Johnlery | [Read More](https://medium.com/p/e8885758305d) |
-| Fri, 13 Jun 2025 05:01:14 GMT | The Future is Secure: Start with Ethical Hacking Classes in Pune | Pratiksha Madake | [Read More](https://medium.com/p/eba72b95a7fd) |
-| Fri, 13 Jun 2025 04:59:23 GMT | Cybersecurity In Digital Transformation: Why It’s Critical For Business Success | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/bfce3c2b68fe) |
-| Fri, 13 Jun 2025 04:57:49 GMT | AI-Enabled Cybersecurity for Smart Cities and Critical Infrastructure | Phanish Lakkarasu | [Read More](https://medium.com/p/168f1ebd3f58) |
-| Fri, 13 Jun 2025 04:56:48 GMT | Why Hiring Professional Event Security Is Crucial | Jane Tang | [Read More](https://medium.com/p/2e19a4990149) |
-| Fri, 13 Jun 2025 04:54:54 GMT | Plenty of Phish in the Sea | Akash Dutta Gupta | [Read More](https://medium.com/p/d00bec7709ee) |
