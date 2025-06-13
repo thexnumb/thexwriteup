@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 22:16:36 GMT | Understanding the MITRE ATT&CK Framework: A Beginner to Pro Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c8a2fe0de30e) |
+| Fri, 13 Jun 2025 22:02:11 GMT | ️ DarkGate Malware: A Network Forensics Investigation Using Wireshark & NetworkMiner | Chirag Ghotikar | [Read More](https://medium.com/p/7fea5d94e23e) |
+| Fri, 13 Jun 2025 21:57:13 GMT | WordPress Brute Force Attack Analysis: Deviasi Challenge Write-Up | Ikhwanushofa Effendi | [Read More](https://medium.com/p/2c6efd330018) |
+| Fri, 13 Jun 2025 21:46:35 GMT | The Loneliness of Being the ‘Strong One’: Why Always Being Everyone’s Rock Is Crushing You | Divya Poojari | [Read More](https://medium.com/p/171f4442d95e) |
+| Fri, 13 Jun 2025 21:42:57 GMT | Cloud Journey Reflections | Imane Qouti | [Read More](https://medium.com/p/f9887c87571b) |
 | Fri, 13 Jun 2025 21:24:40 GMT | Friday Edition — Threat Actor Activity — 13/06/25 | SecurityPulse News | [Read More](https://medium.com/p/b98610373406) |
 | Fri, 13 Jun 2025 21:18:34 GMT | Top 3 Cybersecurity News This Week | Wale Adedeji | [Read More](https://medium.com/p/2151b3fb8c08) |
 | Fri, 13 Jun 2025 21:16:32 GMT | Top 10 unsolved cybersecurity issues with evolving AI based solutions | Kiran Maraju | [Read More](https://medium.com/p/390d250d3826) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 14:33:25 GMT | The True Dangers of Young Teenagers on Instagram | Savvy Cyber Kids | [Read More](https://medium.com/p/d4ff00333976) |
 | Fri, 13 Jun 2025 14:33:03 GMT | You Are The Disinformation You Eat | Savvy Cyber Kids | [Read More](https://medium.com/p/b211e3823b1c) |
 | Fri, 13 Jun 2025 14:32:31 GMT | Digital Permanence and Bullying | Savvy Cyber Kids | [Read More](https://medium.com/p/987094ce4ebb) |
-| Fri, 13 Jun 2025 14:30:10 GMT | Crafting the Perfect Malware: A Deep Dive into the Hacker’s Playbook :- P1 | Yusuf | [Read More](https://medium.com/p/9584d7c177e5) |
-| Fri, 13 Jun 2025 14:29:13 GMT | Check How I Recover My Money From Elite Echelon LLC | Craig Fountain | [Read More](https://medium.com/p/f07c07a4ed50) |
-| Fri, 13 Jun 2025 14:28:13 GMT | ️ Securing File Uploads in 2025: Proven Methods, Real Vulnerabilities & Best Practices | CodeTalks | [Read More](https://medium.com/p/3e8e65bb5425) |
-| Fri, 13 Jun 2025 14:25:54 GMT | Ultion KeyTag Explained: How It Tracks Your Keys and Boosts Home Security | Lock Fitter | [Read More](https://medium.com/p/743186d1c9d0) |
-| Fri, 13 Jun 2025 14:22:42 GMT | Defending Your PHP Applications Against XSS Attacks: A Developer’s Complete Guide | Roman Huliak | [Read More](https://medium.com/p/afc4df03b10c) |
