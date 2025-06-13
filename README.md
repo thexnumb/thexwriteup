@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 20:31:32 GMT | Exploiting the ‘Accaademy001’ Vulnerable Machine | musayyab sharif | [Read More](https://medium.com/p/1b4a922e1968) |
+| Fri, 13 Jun 2025 20:26:13 GMT | Traffic Analysis Essentials - THM | Isiah | [Read More](https://medium.com/p/527ca2b98c42) |
+| Fri, 13 Jun 2025 20:25:36 GMT | 247CTF | löca | [Read More](https://medium.com/p/ceaa2ad26aca) |
 | Fri, 13 Jun 2025 20:19:49 GMT | We need to talk about Cybersecurity Certifications.. | Steve Faust | [Read More](https://medium.com/p/e60f16e73074) |
 | Fri, 13 Jun 2025 20:14:56 GMT | Lumma Stealer | Maged Anas | [Read More](https://medium.com/p/cf736ea0df67) |
 | Fri, 13 Jun 2025 20:11:00 GMT | Day 2: Log Analysis Basics: Windows Security Logs - 30 Days SOC Challenge | Abdullah Asim | [Read More](https://medium.com/p/fda752ca074e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 13:53:14 GMT | HTB’s Machine “Hospital Walkthrough” | ma40ou | [Read More](https://medium.com/p/300ca92acb15) |
 | Fri, 13 Jun 2025 13:51:01 GMT | Part 3: Exploiting BOLA — How I Accessed Other Users’ Data in crAPI | Mihir Sathvara | [Read More](https://medium.com/p/d199251e6049) |
 | Fri, 13 Jun 2025 13:50:50 GMT | TryHackMe Anonymous — Walkthrough | mauzware | [Read More](https://medium.com/p/3274358bc52e) |
-| Fri, 13 Jun 2025 13:49:38 GMT | Quick Ways to Locate Your Files & Downloads in Termux | Alex Grande | [Read More](https://medium.com/p/4d1b2e355542) |
-| Fri, 13 Jun 2025 13:44:57 GMT | Ghauri: The SQLi Beast You Need in Your Bug Bounty Arsenal | Mohebawichewi | [Read More](https://medium.com/p/b0031e2d88ae) |
-| Fri, 13 Jun 2025 13:41:44 GMT | Professional Security Services: Your Trusted Partner in Safety | Professional UK Services | [Read More](https://medium.com/p/b9d42d172419) |
