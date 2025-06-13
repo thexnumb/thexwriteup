@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 14:36:03 GMT | Nothing screams ‘prime phishing grounds’ like a nationwide outage. | Mia Kotalik | [Read More](https://medium.com/p/f0b63b1caef9) |
+| Fri, 13 Jun 2025 14:33:25 GMT | The True Dangers of Young Teenagers on Instagram | Savvy Cyber Kids | [Read More](https://medium.com/p/d4ff00333976) |
+| Fri, 13 Jun 2025 14:33:03 GMT | You Are The Disinformation You Eat | Savvy Cyber Kids | [Read More](https://medium.com/p/b211e3823b1c) |
+| Fri, 13 Jun 2025 14:32:31 GMT | Digital Permanence and Bullying | Savvy Cyber Kids | [Read More](https://medium.com/p/987094ce4ebb) |
+| Fri, 13 Jun 2025 14:30:10 GMT | Crafting the Perfect Malware: A Deep Dive into the Hacker’s Playbook :- P1 | Yusuf | [Read More](https://medium.com/p/9584d7c177e5) |
+| Fri, 13 Jun 2025 14:29:13 GMT | Check How I Recover My Money From Elite Echelon LLC | Craig Fountain | [Read More](https://medium.com/p/f07c07a4ed50) |
+| Fri, 13 Jun 2025 14:28:13 GMT | ️ Securing File Uploads in 2025: Proven Methods, Real Vulnerabilities & Best Practices | CodeTalks | [Read More](https://medium.com/p/3e8e65bb5425) |
+| Fri, 13 Jun 2025 14:25:54 GMT | Ultion KeyTag Explained: How It Tracks Your Keys and Boosts Home Security | Lock Fitter | [Read More](https://medium.com/p/743186d1c9d0) |
+| Fri, 13 Jun 2025 14:22:42 GMT | Defending Your PHP Applications Against XSS Attacks: A Developer’s Complete Guide | Roman Huliak | [Read More](https://medium.com/p/afc4df03b10c) |
+| Fri, 13 Jun 2025 14:22:14 GMT | The $3.4M Wake-Up Call: Securing AI-Driven Manufacturing Systems | NeoRusI | [Read More](https://medium.com/p/1657a5dbab9f) |
+| Fri, 13 Jun 2025 14:22:00 GMT | ✅ How I Passed the PNPT on My First Try (2025)—Real Tips from a Beginner-Turned-Pentester | Manzjson | [Read More](https://medium.com/p/1eccc2731b4c) |
+| Fri, 13 Jun 2025 14:21:59 GMT | MITRE ATT&CK Framework | Sh3nobi | [Read More](https://medium.com/p/6815baaa2fce) |
 | Fri, 13 Jun 2025 14:14:04 GMT | Cybersecurity Challenges in the Modern IT Landscape | Emmanuel Jafaru | [Read More](https://medium.com/p/0d3f98e899f4) |
 | Fri, 13 Jun 2025 14:09:31 GMT | Try Hack Me: Wgel CTF Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/e14e400fb4b8) |
 | Fri, 13 Jun 2025 14:02:58 GMT | From Firewalls to Firefights: Cybersecurity Lessons from the Military | MrsNo1Special | [Read More](https://medium.com/p/af27963216a4) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 09:16:58 GMT | Is Your Remote Developer Actually a North Korean Operative? | David SEHYEON Baek | [Read More](https://medium.com/p/365db92d4f46) |
 | Fri, 13 Jun 2025 09:14:55 GMT | Splunk Çalışmalarım -6 Regex Kullanımı | Mehmetfiliz | [Read More](https://medium.com/p/5a26672796d9) |
 | Fri, 13 Jun 2025 09:12:40 GMT | North Korea Builds Its Cyber Army Starting with Gifted Children | David SEHYEON Baek | [Read More](https://medium.com/p/6d5270ad1778) |
-| Fri, 13 Jun 2025 09:12:06 GMT | Understanding CCTV Specifications: What You Need to Know Before Installing | Nestrondigitalhub | [Read More](https://medium.com/p/67e0b8cfcb5a) |
-| Fri, 13 Jun 2025 09:07:21 GMT |  | Smart Money Management | [Read More](https://medium.com/p/b5769babeb47) |
-| Fri, 13 Jun 2025 09:05:30 GMT | CVE-2025–4230: PAN-OS Admin Command Injection Vulnerability Exposes Enterprise Firewall… | Infoziant | [Read More](https://medium.com/p/239fe2aee9b2) |
-| Fri, 13 Jun 2025 09:02:38 GMT | GRC Tools That Make Life Easier | Harry West | [Read More](https://medium.com/p/81fbb3b96f85) |
-| Fri, 13 Jun 2025 08:58:19 GMT | SEO for Security Companies: Boosting Visibility and Winning More Clients | Deeksha Thakur | [Read More](https://medium.com/p/4c0f805fa662) |
-| Fri, 13 Jun 2025 08:57:25 GMT | OT/IoT Security | Jaiswal Siddharth | [Read More](https://medium.com/p/a3166199d19c) |
-| Fri, 13 Jun 2025 08:55:31 GMT | The Memory Leak That Only Happened on Leap Day: A Kernel Bug That Surfaced Every 4 Years | Rudra | [Read More](https://medium.com/p/d3dc51de9b96) |
-| Fri, 13 Jun 2025 08:53:46 GMT | How Volt Typhoon Evades Detection and Why Even the U.S. Experts Struggle to Respond | David SEHYEON Baek | [Read More](https://medium.com/p/706f2bfbdad8) |
-| Fri, 13 Jun 2025 08:51:26 GMT | Security summary of KubeCon + CloudNativeCon 2025 | Irori | [Read More](https://medium.com/p/21e8c04b81a3) |
-| Fri, 13 Jun 2025 08:51:20 GMT | Sanalın Yedeği Gerçeğe Döndü: Fiziksel Arşiv Dijital Dünyanın Yeni Güvencesi | Tuzsuz Ofis Günlükleri | [Read More](https://medium.com/p/efa104963431) |
-| Fri, 13 Jun 2025 08:48:04 GMT | How LockBit “Revolutionized” the Ransomware Ecosystem with Its Business Model and Product Strategy… | David SEHYEON Baek | [Read More](https://medium.com/p/cfd325ed884c) |
-| Fri, 13 Jun 2025 08:43:17 GMT | How GitHub’s SLSA Framework and Artifact Attestations Combat Modern Threats | David SEHYEON Baek | [Read More](https://medium.com/p/d9bdd1a7f375) |
