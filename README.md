@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 09:30:05 GMT | Why IT Certifications Are a Smart Career Move in Today’s Digital World? | Access Computer Training | [Read More](https://medium.com/p/844d503a1b83) |
+| Fri, 13 Jun 2025 09:29:30 GMT | Brute- it Oversimplified Walkthrough -TryHackMe | Adhiyan | [Read More](https://medium.com/p/26cc6a4d17ee) |
+| Fri, 13 Jun 2025 09:24:16 GMT | Weak Regex, Big Mess: How I Escaped Input Validation with One Tiny Character | Iski | [Read More](https://medium.com/p/9ead1deccffa) |
+| Fri, 13 Jun 2025 09:22:27 GMT | Hunting Obfuscated PowerShell Attacks with SigmaHunter: EXE Drops in Temp Folder | Ahmed Nosir | [Read More](https://medium.com/p/150572552ffe) |
 | Fri, 13 Jun 2025 09:18:13 GMT | What is a cyber incident response service? | Ziya Zoe | [Read More](https://medium.com/p/8a252d29e42f) |
 | Fri, 13 Jun 2025 09:16:58 GMT | Is Your Remote Developer Actually a North Korean Operative? | David SEHYEON Baek | [Read More](https://medium.com/p/365db92d4f46) |
 | Fri, 13 Jun 2025 09:14:55 GMT | Splunk Çalışmalarım -6 Regex Kullanımı | Mehmetfiliz | [Read More](https://medium.com/p/5a26672796d9) |
 | Fri, 13 Jun 2025 09:12:40 GMT | North Korea Builds Its Cyber Army Starting with Gifted Children | David SEHYEON Baek | [Read More](https://medium.com/p/6d5270ad1778) |
+| Fri, 13 Jun 2025 09:12:06 GMT | Understanding CCTV Specifications: What You Need to Know Before Installing | Nestrondigitalhub | [Read More](https://medium.com/p/67e0b8cfcb5a) |
 | Fri, 13 Jun 2025 09:07:21 GMT |  | Smart Money Management | [Read More](https://medium.com/p/b5769babeb47) |
 | Fri, 13 Jun 2025 09:05:30 GMT | CVE-2025–4230: PAN-OS Admin Command Injection Vulnerability Exposes Enterprise Firewall… | Infoziant | [Read More](https://medium.com/p/239fe2aee9b2) |
 | Fri, 13 Jun 2025 09:02:38 GMT | GRC Tools That Make Life Easier | Harry West | [Read More](https://medium.com/p/81fbb3b96f85) |
@@ -109,8 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 04:57:49 GMT | AI-Enabled Cybersecurity for Smart Cities and Critical Infrastructure | Phanish Lakkarasu | [Read More](https://medium.com/p/168f1ebd3f58) |
 | Fri, 13 Jun 2025 04:56:48 GMT | Why Hiring Professional Event Security Is Crucial | Jane Tang | [Read More](https://medium.com/p/2e19a4990149) |
 | Fri, 13 Jun 2025 04:54:54 GMT | Plenty of Phish in the Sea | Akash Dutta Gupta | [Read More](https://medium.com/p/d00bec7709ee) |
-| Fri, 13 Jun 2025 04:47:33 GMT | Reversing LFI + RFI in WordPress Plugin | AbhirupKonwar | [Read More](https://medium.com/p/87b27fdb6b3b) |
-| Fri, 13 Jun 2025 04:27:40 GMT | Portswigger Labs: Web LLM Attacks | Chris-M | [Read More](https://medium.com/p/e7028806b2a5) |
-| Fri, 13 Jun 2025 04:27:24 GMT | Securing Web Applications with Custom WAF using OpenResty | Parminder Singh | [Read More](https://medium.com/p/6e968e6ad56f) |
-| Fri, 13 Jun 2025 04:18:38 GMT | Rethinking Container Security: It’s time to shift-right beyond CVE scans | 0x90@master | [Read More](https://medium.com/p/dbcbc0e65761) |
-| Fri, 13 Jun 2025 04:15:16 GMT | How Digital Marketing Can Revolutionize Small and Medium Businesses in Kerala | Akhilchandcs | [Read More](https://medium.com/p/122dea4a3ebc) |
