@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 10:21:20 GMT | มาลองโกงเกมด้วย Cheat Engine | T S | [Read More](https://medium.com/p/27804c2f4cb2) |
 | Fri, 13 Jun 2025 10:20:56 GMT | Wazuh Watchdog: Auto-Probing Indexer & Dashboard Health for Seamless Monitoring | Raj Vira | [Read More](https://medium.com/p/3e7cfc8cf59b) |
 | Fri, 13 Jun 2025 10:18:22 GMT | I Found an SQL Injection in an Internal API (Behind Cloudflare) — A Full Story from Discovery to… | Yamini Yadav | [Read More](https://medium.com/p/27a28d2beb68) |
+| Fri, 13 Jun 2025 10:17:59 GMT | Is my old Seed Phrase still a security risk after moving assets to a new wallet? | UnionKey | [Read More](https://medium.com/p/d3750d1e8078) |
 | Fri, 13 Jun 2025 10:17:07 GMT | Permission Creep and the Curious Case of Jobcase: Why Are We Even Allowing This? | Cevher Dogan | [Read More](https://medium.com/p/61f6e424f838) |
 | Fri, 13 Jun 2025 10:14:08 GMT | Mobile App Reverse Engineer Toolkit | Ali Okan Yüksel | [Read More](https://medium.com/p/f0aabbede0ec) |
 | Fri, 13 Jun 2025 10:08:02 GMT | Cybersecurity Audit Checklist: The Risk of Free Online Tools | Liam Corwin | [Read More](https://medium.com/p/608d0f61724d) |
@@ -112,5 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 05:49:10 GMT | What is a Zero-Day? | Selin Sezer | [Read More](https://medium.com/p/e7b065f7248b) |
 | Fri, 13 Jun 2025 05:40:34 GMT | Potential in Information Technology Sector | Poddar Business School | [Read More](https://medium.com/p/e635c33d44b6) |
 | Fri, 13 Jun 2025 05:37:03 GMT | Web Cache Deception — The Vulnerability Even Developers Don’t See Coming | phoenixcatalan | [Read More](https://medium.com/p/c9b814b76da3) |
-| Fri, 13 Jun 2025 05:35:16 GMT | Enhancing Safety with Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/004a0a6267c9) |
-| Fri, 13 Jun 2025 05:32:29 GMT | $7,500 Bounty: Exposed Any User’s Email on HackerOne | Monika sharma | [Read More](https://medium.com/p/2d19bb2a214c) |
