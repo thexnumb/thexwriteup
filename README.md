@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 08:48:04 GMT | How LockBit “Revolutionized” the Ransomware Ecosystem with Its Business Model and Product Strategy… | David SEHYEON Baek | [Read More](https://medium.com/p/cfd325ed884c) |
+| Fri, 13 Jun 2025 08:43:17 GMT | How GitHub’s SLSA Framework and Artifact Attestations Combat Modern Threats | David SEHYEON Baek | [Read More](https://medium.com/p/d9bdd1a7f375) |
+| Fri, 13 Jun 2025 08:42:06 GMT | How I Built a “Digital Inspector” for My AWS Account with AWS Config | Aashishchaudhari | [Read More](https://medium.com/p/703159d15be9) |
+| Fri, 13 Jun 2025 08:30:30 GMT | PORTS USED FOR BACKDOOR ENTRY IN CEH | The Commoness | [Read More](https://medium.com/p/b255bb2b94e9) |
+| Fri, 13 Jun 2025 08:27:50 GMT | 1 Trillion Bits and No Reaction: The Irony of Innovation Deafness | Obmanwikobmanwik | [Read More](https://medium.com/p/327ab9fb9039) |
+| Fri, 13 Jun 2025 08:26:04 GMT | Elliptic Curve Cryptography (ECC) dan Web3 Cryptography: Pengertian, Keamanan, dan Ancaman yang… | wesembo | [Read More](https://medium.com/p/5c46190222b8) |
+| Fri, 13 Jun 2025 08:25:57 GMT | Key Steps Involved in Web App Penetration Testing | Qualysec Technology | [Read More](https://medium.com/p/beff47999ca9) |
+| Fri, 13 Jun 2025 08:24:18 GMT | Top 12 Cybersecurity Metrics and KPIs Every Smart Business Tracks | SecureSlate | [Read More](https://medium.com/p/d8fbd064a4ba) |
 | Fri, 13 Jun 2025 08:22:38 GMT | Issue #229 — Terraform State, Ephemeral Resources, Super Mario Game on AWS EKS, depends_on… | Anton Babenko | [Read More](https://medium.com/p/ac58459d7a41) |
+| Fri, 13 Jun 2025 08:21:09 GMT | CASH TEAM
+WELCOME TO THE BIG LEAGUE
+ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezablerta | [Read More](https://medium.com/p/857c0572cde5) |
 | Fri, 13 Jun 2025 08:20:23 GMT | I Fooled the Filters: Homoglyph Username Bypass Vulnerability — An Overlooked Threat in Major… | Aman Bhuiyan | [Read More](https://medium.com/p/dd5f8cc63ba6) |
 | Fri, 13 Jun 2025 08:16:23 GMT | From Rural Roots to Global Revolutions: My Journey as a Polymath & Tech Visionary | Inayat Hussain | [Read More](https://medium.com/p/e14d97dea1dc) |
 | Fri, 13 Jun 2025 08:14:50 GMT | AI Wrote the First Draft – But I Built the Policy That Mattered | Code & Kif | [Read More](https://medium.com/p/7b888c359c98) |
@@ -103,12 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 03:49:27 GMT | Should AI Be Open Source? Here’s the Chilling Truth | Rahul Mishra | [Read More](https://medium.com/p/79ab08e1b7b8) |
 | Fri, 13 Jun 2025 03:48:56 GMT | Elliptic Curve Cryptography (ECC) & Web3: Panduan Serius Tapi Santai Biar Nggak Kudet di Dunia… | Ahmad Ubaidillah | [Read More](https://medium.com/p/94d50062bdba) |
 | Fri, 13 Jun 2025 03:40:47 GMT | You are worth melting and crying for. I am okay, don’t worry! | Heidi lai | [Read More](https://medium.com/p/7c36fc9959fa) |
-| Fri, 13 Jun 2025 03:37:04 GMT | How to Secure Your AI MVP Before Launch | Civil Learning | [Read More](https://medium.com/p/909beae265c6) |
-| Fri, 13 Jun 2025 03:37:04 GMT | What Mapping WiFi Taught Me About Digital Inequality | Sam Galope | [Read More](https://medium.com/p/3e8da1a27311) |
-| Fri, 13 Jun 2025 03:31:31 GMT | CERT-IN Compliance for AI Code Security: Unlocking Trust with Automated Code Reviews | Panto AI | [Read More](https://medium.com/p/26e352ba8240) |
-| Fri, 13 Jun 2025 03:31:31 GMT | Ghost Tap: The Invisible Hack Hijacking Apple Pay and Google Wallet | Deven Chhajed | [Read More](https://medium.com/p/099599dd539c) |
-| Fri, 13 Jun 2025 03:27:07 GMT | VPN and Gear: Your Ultimate Shield for Remote Work Security | zainal Abidin | [Read More](https://medium.com/p/39a191c76f04) |
-| Fri, 13 Jun 2025 03:25:43 GMT | CTF Day(12) | Ahmed Narmer | [Read More](https://medium.com/p/df893a7035fe) |
-| Fri, 13 Jun 2025 03:14:57 GMT | Kerberos Attacking and Defending  Simplified: A Practical Guide | codesterzz | [Read More](https://medium.com/p/8d2512601977) |
-| Fri, 13 Jun 2025 02:55:46 GMT | ECC dan Web3 Cryptography: Kunci Masa Depan atau Target Ancaman? | dapit | [Read More](https://medium.com/p/4d5b9ebb0b1a) |
-| Fri, 13 Jun 2025 02:36:50 GMT | Effective Network Scanning with Nmap: A Practical Workflow | Sam Hilliard | [Read More](https://medium.com/p/13c20d08ac68) |
