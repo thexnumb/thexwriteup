@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 20:19:49 GMT | We need to talk about Cybersecurity Certifications.. | Steve Faust | [Read More](https://medium.com/p/e60f16e73074) |
+| Fri, 13 Jun 2025 20:14:56 GMT | Lumma Stealer | Maged Anas | [Read More](https://medium.com/p/cf736ea0df67) |
+| Fri, 13 Jun 2025 20:11:00 GMT | Day 2: Log Analysis Basics: Windows Security Logs - 30 Days SOC Challenge | Abdullah Asim | [Read More](https://medium.com/p/fda752ca074e) |
+| Fri, 13 Jun 2025 19:55:15 GMT | From Zero to $100K in Cybersecurity in 90 Days: A Realistic, Actionable Plan | Krish_cyber | [Read More](https://medium.com/p/69edb195d925) |
+| Fri, 13 Jun 2025 19:41:55 GMT | How to Test “Forgot Password” for Bugs — A Guide for BB Hunters & Pentesters | Medusa | [Read More](https://medium.com/p/4d3043007714) |
+| Fri, 13 Jun 2025 19:37:53 GMT | From Bug Bounty Blahs to Breakthroughs: Navigating the “Never Enough” Trap in Cyber | Leviiatan | [Read More](https://medium.com/p/fcb212072068) |
+| Fri, 13 Jun 2025 19:32:44 GMT | Log Normalization and Correlation Rule Development in SIEMs | Esra Kayhan | [Read More](https://medium.com/p/ff624eb23ace) |
 | Fri, 13 Jun 2025 19:26:43 GMT | ¿Qué es el Bug Bounty y por qué es tan lucrativo? | Tiziano Mass | [Read More](https://medium.com/p/9d10d204542b) |
 | Fri, 13 Jun 2025 19:17:25 GMT | Your Personal Digital Fortress: Simple Steps to Rock Your Online Safety Think about it: how much… | Emmanuel Okon | [Read More](https://medium.com/p/f1b92298d4bd) |
 | Fri, 13 Jun 2025 19:16:49 GMT | Building Trustworthy Chatbots: Privacy Protection and Risk Mitigation Strategies | Eden Hgb | [Read More](https://medium.com/p/2975e169f9f1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 13:49:38 GMT | Quick Ways to Locate Your Files & Downloads in Termux | Alex Grande | [Read More](https://medium.com/p/4d1b2e355542) |
 | Fri, 13 Jun 2025 13:44:57 GMT | Ghauri: The SQLi Beast You Need in Your Bug Bounty Arsenal | Mohebawichewi | [Read More](https://medium.com/p/b0031e2d88ae) |
 | Fri, 13 Jun 2025 13:41:44 GMT | Professional Security Services: Your Trusted Partner in Safety | Professional UK Services | [Read More](https://medium.com/p/b9d42d172419) |
-| Fri, 13 Jun 2025 13:41:12 GMT | Detecting SSH Brute Force Attacks Using Wazuh and ELK Stack (Home SOC Lab Simulation) | Manish Rawat | [Read More](https://medium.com/p/ca74357c1c6a) |
-| Fri, 13 Jun 2025 13:34:55 GMT | Cloud-native security tools: Are they enough? | Cloud4C Services | [Read More](https://medium.com/p/1af22d64cb97) |
-| Fri, 13 Jun 2025 13:25:06 GMT | File Inclusion Prevention Techniques | ma40ou | [Read More](https://medium.com/p/41c5a602e634) |
-| Fri, 13 Jun 2025 13:24:30 GMT | Write Without Fear. Edit Without Mercy. | Gursahib Singh | [Read More](https://medium.com/p/74459041e48d) |
-| Fri, 13 Jun 2025 13:23:49 GMT | Why I Check for Hidden Processes Every Week on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/bccc5d9196ed) |
-| Fri, 13 Jun 2025 13:22:56 GMT | DevSecOps do Zero com TFlint, Checkov, Terraform, GitHub Actions & AWS | DevOps from Zero! | [Read More](https://medium.com/p/0161e3cb5506) |
-| Fri, 13 Jun 2025 13:20:37 GMT | Netscape’s Legacy: Leviathan0 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/20016c801df2) |
