@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 15:08:07 GMT | Mastering Ubuntu: A Complete Command-Line Guide for Beginners and Beyond | Ushani Saubhagya | [Read More](https://medium.com/p/30ac0641d21e) |
+| Fri, 13 Jun 2025 15:04:55 GMT | From LFI to LFD: Exploiting PHP Wrappers to Steal Sensitive Data Like a Pro ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/ec7385b49ea1) |
+| Fri, 13 Jun 2025 15:02:48 GMT | The Logistics Advantage: Cloud Consulting Services in Ontario Fuel Supply Chain AI | Zeta Sky | [Read More](https://medium.com/p/ef48d63e2d39) |
+| Fri, 13 Jun 2025 14:56:24 GMT | CoinFlip Review - This Is How I Recover My Money | April MacFarlane | [Read More](https://medium.com/p/5cabbbd7138d) |
+| Fri, 13 Jun 2025 14:52:36 GMT | Battery-Free Smart Locks: Energy Harvesting Solutions | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/a343e106659f) |
+| Fri, 13 Jun 2025 14:49:00 GMT | EchoLeak Copilot Vulnerability Highlights Broader AI Security Concerns | PatentRiff | [Read More](https://medium.com/p/00e9d498021f) |
+| Fri, 13 Jun 2025 14:46:31 GMT | The 2024 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/a7c621589510) |
+| Fri, 13 Jun 2025 14:44:58 GMT | Unlimited Store Credit: Finding an Economy-Breaking Bug in a Digital Storefront’s Discord Bot | Van Kevindo | [Read More](https://medium.com/p/6518b32e9ffa) |
+| Fri, 13 Jun 2025 14:44:09 GMT | Metadata in End-to-End Encryption: Achilles’ Heel or Shield? | Tal Be'ery | [Read More](https://medium.com/p/bbea643bfce7) |
+| Fri, 13 Jun 2025 14:42:53 GMT | Malda Hack: No Validation And Full Access | Evgenii | [Read More](https://medium.com/p/75ac787aae28) |
 | Fri, 13 Jun 2025 14:36:03 GMT | Nothing screams ‘prime phishing grounds’ like a nationwide outage. | Mia Kotalik | [Read More](https://medium.com/p/f0b63b1caef9) |
 | Fri, 13 Jun 2025 14:33:25 GMT | The True Dangers of Young Teenagers on Instagram | Savvy Cyber Kids | [Read More](https://medium.com/p/d4ff00333976) |
 | Fri, 13 Jun 2025 14:33:03 GMT | You Are The Disinformation You Eat | Savvy Cyber Kids | [Read More](https://medium.com/p/b211e3823b1c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 09:54:23 GMT | Hotel Security Guard Services: Protecting Guests, Staff & Property Around the Clock | Sumintra | [Read More](https://medium.com/p/26bc53b1311b) |
 | Fri, 13 Jun 2025 09:53:44 GMT | Securing Flutter Apps | Adarsh Vijayan P | [Read More](https://medium.com/p/37e4bffc718b) |
 | Fri, 13 Jun 2025 09:52:06 GMT | Implementing the shift left approach to application security for mid-sized organizations | cyber_pix | [Read More](https://medium.com/p/2a9737b22238) |
-| Fri, 13 Jun 2025 09:46:02 GMT | Why is cyber recovery planning important today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/6dc6b899bb1e) |
-| Fri, 13 Jun 2025 09:33:46 GMT | AI Security in Enterprise | Vlad Koval | [Read More](https://medium.com/p/9376a93db8a1) |
-| Fri, 13 Jun 2025 09:30:05 GMT | Why IT Certifications Are a Smart Career Move in Today’s Digital World? | Access Computer Training | [Read More](https://medium.com/p/844d503a1b83) |
-| Fri, 13 Jun 2025 09:29:30 GMT | Brute- it Oversimplified Walkthrough -TryHackMe | Adhiyan | [Read More](https://medium.com/p/26cc6a4d17ee) |
-| Fri, 13 Jun 2025 09:24:16 GMT | Weak Regex, Big Mess: How I Escaped Input Validation with One Tiny Character | Iski | [Read More](https://medium.com/p/9ead1deccffa) |
-| Fri, 13 Jun 2025 09:22:27 GMT | Hunting Obfuscated PowerShell Attacks with SigmaHunter: EXE Drops in Temp Folder | Ahmed Nosir | [Read More](https://medium.com/p/150572552ffe) |
-| Fri, 13 Jun 2025 09:18:13 GMT | What is a cyber incident response service? | Ziya Zoe | [Read More](https://medium.com/p/8a252d29e42f) |
-| Fri, 13 Jun 2025 09:16:58 GMT | Is Your Remote Developer Actually a North Korean Operative? | David SEHYEON Baek | [Read More](https://medium.com/p/365db92d4f46) |
-| Fri, 13 Jun 2025 09:14:55 GMT | Splunk Çalışmalarım -6 Regex Kullanımı | Mehmetfiliz | [Read More](https://medium.com/p/5a26672796d9) |
-| Fri, 13 Jun 2025 09:12:40 GMT | North Korea Builds Its Cyber Army Starting with Gifted Children | David SEHYEON Baek | [Read More](https://medium.com/p/6d5270ad1778) |
