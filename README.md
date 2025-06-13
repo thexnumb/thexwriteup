@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 12:31:03 GMT | Detect Vulnerabilities With Nuclei AI | loyalonlytoday | [Read More](https://medium.com/p/59105992e798) |
+| Fri, 13 Jun 2025 12:28:54 GMT | Cybersecurity SOC Analyst Lab — Email Analysis (Phishing) | rkn | [Read More](https://medium.com/p/757a80f66d48) |
+| Fri, 13 Jun 2025 12:28:48 GMT | Help Bug Hunters: Contribute to the “Unfriendly Bug Bounty Programs” Repository | adityaax | [Read More](https://medium.com/p/87fbd4d4f6d4) |
+| Fri, 13 Jun 2025 12:28:28 GMT | I read IMO Guidelines on Maritime Cyber Risk Management so you don’t have to | Mert Kurtulmuş | [Read More](https://medium.com/p/1ab1631934c0) |
+| Fri, 13 Jun 2025 12:28:16 GMT | Think Before You Download: ViperSoftX Malware Hidden in Pirated eBooks and Cracked Software | Jon C | [Read More](https://medium.com/p/5f1c40b326fd) |
+| Fri, 13 Jun 2025 12:27:02 GMT | I Tricked a Web App Into Leaking /etc/passwd  (PortSwigger Lab) | Sumanth Yerranagula | [Read More](https://medium.com/p/d4f68835ffe1) |
+| Fri, 13 Jun 2025 12:22:26 GMT | How to Build a Custom Security Baseline in Microsoft Defender for Endpoint (MDE) | Shivam Mathur | [Read More](https://medium.com/p/4f3fe4c912d1) |
+| Fri, 13 Jun 2025 12:17:50 GMT | Best VAPT Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/97de142f600e) |
+| Fri, 13 Jun 2025 12:16:45 GMT | No Less Than This Flower | Blake Alan | [Read More](https://medium.com/p/81c45ed7fa66) |
+| Fri, 13 Jun 2025 12:15:12 GMT | TryHackMe-Skynet CTF | Kaan Ekşi | [Read More](https://medium.com/p/ebbdf0aef81d) |
+| Fri, 13 Jun 2025 12:06:41 GMT | Statistics and trends about AI in SecOps, cloud usage, and VEC attacks fro June 2025 | CyberSecStats | [Read More](https://medium.com/p/e17ddee194fa) |
 | Fri, 13 Jun 2025 11:34:17 GMT | Chasing a Valid in the Stars: My First NASA.gov Find | MostReal | [Read More](https://medium.com/p/cecdb9c29c35) |
 | Fri, 13 Jun 2025 11:32:36 GMT | I Wasn’t Okay, But I Didn’t Know How to Say It | ink between | [Read More](https://medium.com/p/a308b1a88371) |
 | Fri, 13 Jun 2025 11:31:55 GMT | A Step-by-Step Guide to Multi-Factor Authentication (MFA) | Richard Dosumu | [Read More](https://medium.com/p/c501b56edc32) |
@@ -103,14 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 07:30:19 GMT | The $500 Facebook Bug That Taught Me the Real Meaning of Respect | Vivek PS | [Read More](https://medium.com/p/383d48be16ae) |
 | Fri, 13 Jun 2025 07:30:13 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 6 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d7ff06747919) |
 | Fri, 13 Jun 2025 07:29:34 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 3 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1e15006573c4) |
-| Fri, 13 Jun 2025 07:28:45 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5dd6a7a460b1) |
-| Fri, 13 Jun 2025 07:25:58 GMT | StrongBox IT — The Most Trusted VAPT Service Provider in India | StrongBox IT | [Read More](https://medium.com/p/d15658898477) |
-| Fri, 13 Jun 2025 07:20:12 GMT | Why I Built ObfusEngine ? | Vibhasdutta | [Read More](https://medium.com/p/3ede602b81f4) |
-| Fri, 13 Jun 2025 07:17:18 GMT | TXT; USA 6162021156 CC CVV DUMP PAYPAL CASHAPP ZELLE VENMO BANK WU TRANSFERS CLONED CARDS ATM CC… | Gonzale | [Read More](https://medium.com/p/a35934d7eb2f) |
-| Fri, 13 Jun 2025 07:17:17 GMT | From Upload to Exploit: Understanding Web Shell Attacks | Surya Teja | [Read More](https://medium.com/p/59b55ed7c7a4) |
-| Fri, 13 Jun 2025 07:17:07 GMT | What Is the Most Durable Information Storage Medium in History? | Go4Know | [Read More](https://medium.com/p/703421b21cba) |
-| Fri, 13 Jun 2025 07:13:36 GMT | Fortinet SD-WAN | Jaiswal Siddharth | [Read More](https://medium.com/p/14cac0ff57f0) |
-| Fri, 13 Jun 2025 07:11:48 GMT | AAVE Exploit: So Easy That it’s Hard Not To Hack | Evgenii | [Read More](https://medium.com/p/12aec22d4bce) |
-| Fri, 13 Jun 2025 07:11:46 GMT | How to Choose the Best Penetration Testing Course in Delhi? | cyber security Updates | [Read More](https://medium.com/p/89bd54d2d863) |
-| Fri, 13 Jun 2025 07:07:43 GMT | ประจำวันศุกร์ที่ 13 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/980c7738baf1) |
-| Fri, 13 Jun 2025 07:02:54 GMT | Cybersecurity in 2035: Navigating a Digital Landscape of Trust and Threat | Fook Hwa Tan | [Read More](https://medium.com/p/4ba621940c61) |
