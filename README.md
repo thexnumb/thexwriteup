@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 14:14:04 GMT | Cybersecurity Challenges in the Modern IT Landscape | Emmanuel Jafaru | [Read More](https://medium.com/p/0d3f98e899f4) |
+| Fri, 13 Jun 2025 14:09:31 GMT | Try Hack Me: Wgel CTF Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/e14e400fb4b8) |
+| Fri, 13 Jun 2025 14:02:58 GMT | From Firewalls to Firefights: Cybersecurity Lessons from the Military | MrsNo1Special | [Read More](https://medium.com/p/af27963216a4) |
+| Fri, 13 Jun 2025 14:01:58 GMT | Hacktivists and Cyberarmies: The New Geopolitical Battlefield | MrsNo1Special | [Read More](https://medium.com/p/0d587f1e91da) |
+| Fri, 13 Jun 2025 13:58:53 GMT | Cyber Briefing: 2025.06.13 | CyberMaterial | [Read More](https://medium.com/p/645ed58f3074) |
+| Fri, 13 Jun 2025 13:58:45 GMT | API Keys vs. Bearer Tokens: What’s the Deal and When Should You Use Them? | Shrusti Sangodkar | [Read More](https://medium.com/p/4c8498047f1e) |
+| Fri, 13 Jun 2025 13:53:14 GMT | HTB’s Machine “Hospital Walkthrough” | ma40ou | [Read More](https://medium.com/p/300ca92acb15) |
+| Fri, 13 Jun 2025 13:51:01 GMT | Part 3: Exploiting BOLA — How I Accessed Other Users’ Data in crAPI | Mihir Sathvara | [Read More](https://medium.com/p/d199251e6049) |
+| Fri, 13 Jun 2025 13:50:50 GMT | TryHackMe Anonymous — Walkthrough | mauzware | [Read More](https://medium.com/p/3274358bc52e) |
+| Fri, 13 Jun 2025 13:49:38 GMT | Quick Ways to Locate Your Files & Downloads in Termux | Alex Grande | [Read More](https://medium.com/p/4d1b2e355542) |
+| Fri, 13 Jun 2025 13:44:57 GMT | Ghauri: The SQLi Beast You Need in Your Bug Bounty Arsenal | Mohebawichewi | [Read More](https://medium.com/p/b0031e2d88ae) |
+| Fri, 13 Jun 2025 13:41:44 GMT | Professional Security Services: Your Trusted Partner in Safety | Professional UK Services | [Read More](https://medium.com/p/b9d42d172419) |
+| Fri, 13 Jun 2025 13:41:12 GMT | Detecting SSH Brute Force Attacks Using Wazuh and ELK Stack (Home SOC Lab Simulation) | Manish Rawat | [Read More](https://medium.com/p/ca74357c1c6a) |
+| Fri, 13 Jun 2025 13:34:55 GMT | Cloud-native security tools: Are they enough? | Cloud4C Services | [Read More](https://medium.com/p/1af22d64cb97) |
 | Fri, 13 Jun 2025 13:25:06 GMT | File Inclusion Prevention Techniques | ma40ou | [Read More](https://medium.com/p/41c5a602e634) |
 | Fri, 13 Jun 2025 13:24:30 GMT | Write Without Fear. Edit Without Mercy. | Gursahib Singh | [Read More](https://medium.com/p/74459041e48d) |
 | Fri, 13 Jun 2025 13:23:49 GMT | Why I Check for Hidden Processes Every Week on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/bccc5d9196ed) |
@@ -98,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 08:51:20 GMT | Sanalın Yedeği Gerçeğe Döndü: Fiziksel Arşiv Dijital Dünyanın Yeni Güvencesi | Tuzsuz Ofis Günlükleri | [Read More](https://medium.com/p/efa104963431) |
 | Fri, 13 Jun 2025 08:48:04 GMT | How LockBit “Revolutionized” the Ransomware Ecosystem with Its Business Model and Product Strategy… | David SEHYEON Baek | [Read More](https://medium.com/p/cfd325ed884c) |
 | Fri, 13 Jun 2025 08:43:17 GMT | How GitHub’s SLSA Framework and Artifact Attestations Combat Modern Threats | David SEHYEON Baek | [Read More](https://medium.com/p/d9bdd1a7f375) |
-| Fri, 13 Jun 2025 08:42:06 GMT | How I Built a “Digital Inspector” for My AWS Account with AWS Config | Aashishchaudhari | [Read More](https://medium.com/p/703159d15be9) |
-| Fri, 13 Jun 2025 08:30:30 GMT | PORTS USED FOR BACKDOOR ENTRY IN CEH | The Commoness | [Read More](https://medium.com/p/b255bb2b94e9) |
-| Fri, 13 Jun 2025 08:27:50 GMT | 1 Trillion Bits and No Reaction: The Irony of Innovation Deafness | Obmanwikobmanwik | [Read More](https://medium.com/p/327ab9fb9039) |
-| Fri, 13 Jun 2025 08:26:04 GMT | Elliptic Curve Cryptography (ECC) dan Web3 Cryptography: Pengertian, Keamanan, dan Ancaman yang… | wesembo | [Read More](https://medium.com/p/5c46190222b8) |
-| Fri, 13 Jun 2025 08:25:57 GMT | Key Steps Involved in Web App Penetration Testing | Qualysec Technology | [Read More](https://medium.com/p/beff47999ca9) |
-| Fri, 13 Jun 2025 08:24:18 GMT | Top 12 Cybersecurity Metrics and KPIs Every Smart Business Tracks | SecureSlate | [Read More](https://medium.com/p/d8fbd064a4ba) |
-| Fri, 13 Jun 2025 08:22:38 GMT | Issue #229 — Terraform State, Ephemeral Resources, Super Mario Game on AWS EKS, depends_on… | Anton Babenko | [Read More](https://medium.com/p/ac58459d7a41) |
-| Fri, 13 Jun 2025 08:21:09 GMT | CASH TEAM
-WELCOME TO THE BIG LEAGUE
-ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezablerta | [Read More](https://medium.com/p/857c0572cde5) |
-| Fri, 13 Jun 2025 08:20:23 GMT | I Fooled the Filters: Homoglyph Username Bypass Vulnerability — An Overlooked Threat in Major… | Aman Bhuiyan | [Read More](https://medium.com/p/dd5f8cc63ba6) |
-| Fri, 13 Jun 2025 08:16:23 GMT | From Rural Roots to Global Revolutions: My Journey as a Polymath & Tech Visionary | Inayat Hussain | [Read More](https://medium.com/p/e14d97dea1dc) |
-| Fri, 13 Jun 2025 08:14:50 GMT | AI Wrote the First Draft – But I Built the Policy That Mattered | Code & Kif | [Read More](https://medium.com/p/7b888c359c98) |
-| Fri, 13 Jun 2025 08:14:40 GMT | Study Abroad at the Best RIC Universities — Your Global Future Starts Here! | royalinternational | [Read More](https://medium.com/p/6696a997bed1) |
-| Fri, 13 Jun 2025 08:13:50 GMT | The Daily Tech Digest: 13 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d24af4691f7b) |
-| Fri, 13 Jun 2025 08:12:41 GMT | NVIDIA Multi-Instance GPU (MIG): How to Split a Single GPU for Multiple Workloads Securely | StackGpu | [Read More](https://medium.com/p/17b8f58f5b70) |
