@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 16:44:29 GMT | The AI Ghost in the Machine: Hacking Zero-Trust Supply Chains from the Attacker’s Mindset (with… | Dwaipyan Mandal | [Read More](https://medium.com/p/dac1426750f1) |
+| Fri, 13 Jun 2025 16:44:21 GMT | Before You Build, Think About This | Vichaar Tech | [Read More](https://medium.com/p/fb42f1a6d287) |
+| Fri, 13 Jun 2025 16:43:29 GMT | AI Agents as Attack Vectors: Deconstructing GitHub MCP Exploit & Proposing ASOF Architecture. | Saad Khalid | [Read More](https://medium.com/p/5fe6b9e5fe93) |
+| Fri, 13 Jun 2025 16:36:12 GMT | Cybersecurity News Review — Week 24 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/e92e788c7d09) |
+| Fri, 13 Jun 2025 16:34:30 GMT | Conquering Procrastination on the Road to CCNA | Sec Savvy | [Read More](https://medium.com/p/c6effc49c846) |
+| Fri, 13 Jun 2025 16:33:30 GMT | What Is a Firewall? Your Cybersecurity Castle Gatekeeper | Pavithraa Deenadayalan | [Read More](https://medium.com/p/84398028cc8c) |
+| Fri, 13 Jun 2025 16:32:30 GMT | Creating a personal VPN using GCP and Terraform | Aditya47x | [Read More](https://medium.com/p/da0feb8896f8) |
+| Fri, 13 Jun 2025 16:31:12 GMT | The Vulnerability Paradox | Hector Gael Bañales Quiñones | [Read More](https://medium.com/p/2dc3cbc6cf11) |
+| Fri, 13 Jun 2025 16:29:38 GMT | Emotional Polaroids | Fe Stepka | [Read More](https://medium.com/p/1082f2ce54aa) |
+| Fri, 13 Jun 2025 16:28:30 GMT | How to Use QR Codes for Multi-Tenant Building Access | Joven A Rodrigues | [Read More](https://medium.com/p/fb873ed74d37) |
+| Fri, 13 Jun 2025 16:27:57 GMT | ️ Day 62: Bash Scripting — Logging & Debugging in Bash | Agarwaldaksh | [Read More](https://medium.com/p/5a27ea8b208c) |
+| Fri, 13 Jun 2025 16:27:43 GMT | Integrātz Appoints Edwin Ojeda as Chief Revenue Officer | Safaque Kagdi | [Read More](https://medium.com/p/3fcdd338ade3) |
+| Fri, 13 Jun 2025 16:26:37 GMT | Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware | Ronit Yadav | [Read More](https://medium.com/p/d2dbbd606691) |
+| Fri, 13 Jun 2025 16:23:36 GMT | What Is Cyber Resilience and Why Should We Care? - Day 24 of #60DaysofGRC | Brittney Ginther | [Read More](https://medium.com/p/2ca37df30730) |
+| Fri, 13 Jun 2025 16:22:26 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/2ed9cfa15760) |
+| Fri, 13 Jun 2025 16:17:37 GMT | The BigBlueButton Fortress: How I Defended Students on an EdTech Platform from Digital Pirates… | Freddy D. Alvarez | [Read More](https://medium.com/p/d7f6611f17c1) |
 | Fri, 13 Jun 2025 16:15:52 GMT | When Vulnerability Sits Beside You | Rahma Imtiaz | [Read More](https://medium.com/p/ffe3c9dd6ab6) |
+| Fri, 13 Jun 2025 16:12:46 GMT | Cleartext Protocols 101: How to Connect Anonymously to FTP, Telnet, and Rsync | january1073 | [Read More](https://medium.com/p/2c1001dcbdb0) |
 | Fri, 13 Jun 2025 16:08:35 GMT | Memahami Elliptic Curve Cryptography (ECC) dan Web3 Cryptography Beserta Ancaman Keamanannya | Firhansanad | [Read More](https://medium.com/p/c547712bc619) |
 | Fri, 13 Jun 2025 15:58:56 GMT | Enterprise-Level Identity Auth in a Self-Hosted WAF, SafeLine (and it’s Free) | Maverick Steel | [Read More](https://medium.com/p/b6dbd4f2a67b) |
 | Fri, 13 Jun 2025 15:55:53 GMT | SQL & NoSQL Injection in Node.js: Attacks Developers Often Miss | Bhupesh kumar | [Read More](https://medium.com/p/cb490c0636fb) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 12:15:12 GMT | TryHackMe-Skynet CTF | Kaan Ekşi | [Read More](https://medium.com/p/ebbdf0aef81d) |
 | Fri, 13 Jun 2025 12:06:41 GMT | Statistics and trends about AI in SecOps, cloud usage, and VEC attacks fro June 2025 | CyberSecStats | [Read More](https://medium.com/p/e17ddee194fa) |
 | Fri, 13 Jun 2025 11:34:17 GMT | Chasing a Valid in the Stars: My First NASA.gov Find | MostReal | [Read More](https://medium.com/p/cecdb9c29c35) |
-| Fri, 13 Jun 2025 11:32:36 GMT | I Wasn’t Okay, But I Didn’t Know How to Say It | ink between | [Read More](https://medium.com/p/a308b1a88371) |
-| Fri, 13 Jun 2025 11:31:55 GMT | A Step-by-Step Guide to Multi-Factor Authentication (MFA) | Richard Dosumu | [Read More](https://medium.com/p/c501b56edc32) |
-| Fri, 13 Jun 2025 11:30:39 GMT | From Dashboard to Deposition: Why Auto Brands Need Compliance Now. | Goismo AB | [Read More](https://medium.com/p/35786270b6f1) |
-| Fri, 13 Jun 2025 11:26:33 GMT | What Does a Cyber Security Consultant Really Do? Insights from Industry Experts | Arptech | [Read More](https://medium.com/p/5add288ddc2c) |
-| Fri, 13 Jun 2025 11:20:47 GMT | How AI-Powered CCTV Is Revolutionizing Security in India! | Sumintra | [Read More](https://medium.com/p/87d0fb0ad98d) |
-| Fri, 13 Jun 2025 11:17:33 GMT | How to recover your old Snapchat Account with a forgotten username and password | Tobias Mathew | [Read More](https://medium.com/p/e67670fce091) |
-| Fri, 13 Jun 2025 11:17:25 GMT | ️ Responsible Disclosure - Aadhaar Data Exposure | Ayush Patel | [Read More](https://medium.com/p/aa574ccb13ae) |
-| Fri, 13 Jun 2025 11:13:35 GMT | Cyber Threat Highlights: From Mirai Botnet Abuse to KEV-Worthy Critical Flaws | Loginsoft | [Read More](https://medium.com/p/b3bf5be06057) |
-| Fri, 13 Jun 2025 11:13:17 GMT | Comprehensive Research Report: Securing Cross-Chain Bridges in Blockchain | Abubakar zubair | [Read More](https://medium.com/p/acff41d0d650) |
-| Fri, 13 Jun 2025 11:11:20 GMT | CRLF Injection to Stored XSS via Cookie Poisoning | Srilakivarma | [Read More](https://medium.com/p/f7df1b790fe4) |
-| Fri, 13 Jun 2025 11:07:45 GMT | Protecting Vectorised Data in RAG Applications with Oracle 23ai Real Application Security | Thomas Minne | [Read More](https://medium.com/p/d33d7905cad0) |
-| Fri, 13 Jun 2025 11:06:31 GMT | Glyph Civilization Simulation: A Model of Fractal Digital Societies | Obmanwikobmanwik | [Read More](https://medium.com/p/a9dfee6aeb09) |
-| Fri, 13 Jun 2025 11:02:13 GMT | ⚠️ Facing AI-Powered Attacks and Embracing Zero Trust in 2025 | ThreatVector | [Read More](https://medium.com/p/12e9c99afe6c) |
-| Fri, 13 Jun 2025 11:00:06 GMT | Why Every Business and Home Needs a Professional Security Guard Service | NY NightLife Security | [Read More](https://medium.com/p/7417778a9b0f) |
-| Fri, 13 Jun 2025 10:56:50 GMT | How to recover your Facebook account after losing your phone number and cannot receive any code | Tobias Mathew | [Read More](https://medium.com/p/779d7cae9076) |
-| Fri, 13 Jun 2025 10:54:29 GMT | TheHackersLabs — HexThink Silent Shadow | APS88 | [Read More](https://medium.com/p/71496998cfc0) |
-| Fri, 13 Jun 2025 10:51:02 GMT | Market Trends in Digital Asset Security | Arx Locker | [Read More](https://medium.com/p/a7f55d61ebd1) |
