@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 04:27:40 GMT | Portswigger Labs: Web LLM Attacks | Chris-M | [Read More](https://medium.com/p/e7028806b2a5) |
+| Fri, 13 Jun 2025 04:27:24 GMT | Securing Web Applications with Custom WAF using OpenResty | Parminder Singh | [Read More](https://medium.com/p/6e968e6ad56f) |
+| Fri, 13 Jun 2025 04:18:38 GMT | Rethinking Container Security: It’s time to shift-right beyond CVE scans | 0x90@master | [Read More](https://medium.com/p/dbcbc0e65761) |
+| Fri, 13 Jun 2025 04:15:16 GMT | How Digital Marketing Can Revolutionize Small and Medium Businesses in Kerala | Akhilchandcs | [Read More](https://medium.com/p/122dea4a3ebc) |
+| Fri, 13 Jun 2025 04:13:05 GMT | The Future of Cybersecurity: What Lies Ahead in the Digital Age | Omanberners | [Read More](https://medium.com/p/b606fd6eab36) |
+| Fri, 13 Jun 2025 04:12:04 GMT | CipherMQ; a new generation Message Broker written by Rust | Mohammad Fozouni | [Read More](https://medium.com/p/d6af5f3f8eff) |
+| Fri, 13 Jun 2025 04:01:40 GMT | Mastering ping and traceroute for Ethical Hacking: How I Map Network Paths Like a Pro | YoungerSibling | [Read More](https://medium.com/p/e8f6c48ba57f) |
+| Fri, 13 Jun 2025 04:01:33 GMT | CTF Day(13) | Ahmed Narmer | [Read More](https://medium.com/p/2ad289797f14) |
+| Fri, 13 Jun 2025 04:01:05 GMT | Understanding MCP(Model Context Protocol), Its Power, and Perils | Akanksha | [Read More](https://medium.com/p/d789a1d5dd91) |
+| Fri, 13 Jun 2025 04:00:51 GMT | Path Traversal Vulnerability Explained: How Hackers Climb Your Server’s Directory Tree | Zoningxtr | [Read More](https://medium.com/p/c027af069407) |
+| Fri, 13 Jun 2025 03:54:25 GMT | Exploring the Smart Home Industry: SwitchBot’s Innovative Smart Lock Solutions | Dgfsdfsfds | [Read More](https://medium.com/p/809e9b1a72aa) |
 | Fri, 13 Jun 2025 03:51:00 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology SectorCase Study: Mula Mutha River… | Rutikayerpude | [Read More](https://medium.com/p/e9ab5a2d05cb) |
 | Fri, 13 Jun 2025 03:50:55 GMT | Dissecting Cryptography: From the Eliptic Curve (ECC) to the Web3 Era | Steven Juliano | [Read More](https://medium.com/p/3ea36c883bc4) |
 | Fri, 13 Jun 2025 03:50:48 GMT | Why Cybersecurity Is a Business Imperative in 2025 | Mamekam | [Read More](https://medium.com/p/6567a13deb02) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 17:52:40 GMT | Tutorial - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/0c4fb9ede7d0) |
 | Thu, 12 Jun 2025 17:51:05 GMT | Here’s a comprehensive look at the recent public clash—variable tensions and thawing—between Donald… | Asnaf Ktk | [Read More](https://medium.com/p/00c737aae9f3) |
 | Thu, 12 Jun 2025 17:46:39 GMT | Security threats for web application | Coding-Practice | [Read More](https://medium.com/p/f00ee63a5f85) |
-| Thu, 12 Jun 2025 17:42:20 GMT | The Rise of AI-Powered Cyberattacks: Are You Ready for the New Digital Battlefield? | Piyoosh Rai | [Read More](https://medium.com/p/63b6371ecd9f) |
-| Thu, 12 Jun 2025 17:37:38 GMT | Hack The Box Writeup — OpenAdmin | Simardeep Singh | [Read More](https://medium.com/p/f09da9c7ee0c) |
-| Thu, 12 Jun 2025 17:34:23 GMT | Understanding AI Agents | Aastha Thakker | [Read More](https://medium.com/p/665362a5666f) |
-| Thu, 12 Jun 2025 17:30:55 GMT | Utilising Context Augmentation in LLMs for Bug Bounty | Spectat0rguy | [Read More](https://medium.com/p/c41a0c03f4b8) |
-| Thu, 12 Jun 2025 17:28:22 GMT | **عنوان القصة: "العودة إلى الديار.. رحلة الفقد والتعويض"** | Tasneem Masalhe | [Read More](https://medium.com/p/7f969fc2ec62) |
-| Thu, 12 Jun 2025 17:28:14 GMT | TryHackMe “Hammer” Writeup | Mariam Elmenabbawy | [Read More](https://medium.com/p/e83ef0a78874) |
-| Thu, 12 Jun 2025 17:26:10 GMT | Are You Prepared for the Next Wave of Healthcare Cyber Threats? | IT_Engineer | [Read More](https://medium.com/p/466524cb97e6) |
-| Thu, 12 Jun 2025 17:22:24 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/1b8114955a24) |
-| Thu, 12 Jun 2025 17:22:03 GMT | Penetration Testing: Kioptrix Level 1 | Hunter Yoo | [Read More](https://medium.com/p/2368b126a24e) |
-| Thu, 12 Jun 2025 17:14:35 GMT | SYN Flood & Ping of Death Demonstration — Denial of Service (DoS) Attacks in Practice | Rohan UK | [Read More](https://medium.com/p/5bdc965c5ff2) |
-| Thu, 12 Jun 2025 17:12:53 GMT | Weaponizing Bookmarklets for Passive Recon: Wayback Machine, VirusTotal & AlienVault | Jai Lani | [Read More](https://medium.com/p/9f4a736a1c8f) |
