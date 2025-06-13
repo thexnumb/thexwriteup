@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 01:44:35 GMT | Cracking the Cloud: Breaking into AWS via Elastic Beanstalk | Fakharsaleem | [Read More](https://medium.com/p/bab033ce5397) |
+| Fri, 13 Jun 2025 01:42:05 GMT | Book forthcoming: How decentralised digital security is organised | Kelsie Nabben | [Read More](https://medium.com/p/749d9480362b) |
+| Fri, 13 Jun 2025 00:38:50 GMT | How We Automated Our Access Audits Across Slack, Discord, and Notion (And Why You Should Too) | Sri Chand Myla | [Read More](https://medium.com/p/7e9e5f61659e) |
+| Fri, 13 Jun 2025 00:32:22 GMT | Managing Tailscale Network Access with ACLs | Mithun Rosinth | [Read More](https://medium.com/p/e2989b550e27) |
+| Fri, 13 Jun 2025 00:11:41 GMT | Automate Security Operations with Cortex by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f65a425205e7) |
+| Fri, 13 Jun 2025 00:03:31 GMT | ZERO | - | [Read More](https://medium.com/p/32eebe68f639) |
+| Fri, 13 Jun 2025 00:02:00 GMT | Explorando JSON Web Tokens ( JWT) — Desafio Final | Sérgio Corrêa | [Read More](https://medium.com/p/ca1483920d8c) |
+| Fri, 13 Jun 2025 00:01:31 GMT | Understanding OAuth 2.0 in Plain English (With Code Examples) | Tjeperi | [Read More](https://medium.com/p/a7f606dbc4de) |
+| Thu, 12 Jun 2025 23:53:40 GMT | From now on, using ChatGPT is a danger | Chris Galleta | [Read More](https://medium.com/p/f62da1023aad) |
+| Thu, 12 Jun 2025 23:50:41 GMT | Security for ML in Financial Services | Eden Hgb | [Read More](https://medium.com/p/2e918c650159) |
+| Thu, 12 Jun 2025 23:38:08 GMT | A partir de ahora, usar ChatGPT es un peligro | Chris Galleta | [Read More](https://medium.com/p/2defa246cf88) |
 | Thu, 12 Jun 2025 23:30:20 GMT | Official Biography: @SPYDIRBYTE | ADanielHill | [Read More](https://medium.com/p/5bd97bb1c4f8) |
 | Thu, 12 Jun 2025 23:28:12 GMT | Cracking TCMSec’s PNPT on my first attempt — while earning my very first cybersecurity… | Ritik Bavdekar | [Read More](https://medium.com/p/74c698b8636d) |
 | Thu, 12 Jun 2025 23:26:54 GMT | A Woman Found a Suspicious Phone Buried in Her Lawn | Kelly Carmichael | [Read More](https://medium.com/p/7eae0321a44f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 16:11:43 GMT | Abstraction, Virtualization & Hypervisors | Igor Berner | [Read More](https://medium.com/p/666a4770067b) |
 | Thu, 12 Jun 2025 16:09:49 GMT | Hack Happens. Are You Ready to Respond? | Abdelaziz moustakim | [Read More](https://medium.com/p/49c7abeb6879) |
 | Thu, 12 Jun 2025 16:01:37 GMT | TryHackMe-Lookup CTF | Kaan Ekşi | [Read More](https://medium.com/p/39d89beef943) |
-| Thu, 12 Jun 2025 15:58:49 GMT | Go Language Security: Concurrency-Related Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/2cf6ea6e3bfa) |
-| Thu, 12 Jun 2025 15:53:32 GMT | When Propaganda Meets Payload: The Silent War Against the Free Press | cynic4L | [Read More](https://medium.com/p/2ade0793b63b) |
-| Thu, 12 Jun 2025 15:52:58 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonzale | [Read More](https://medium.com/p/ff87b918e489) |
-| Thu, 12 Jun 2025 15:49:31 GMT | Python Security: Pickle Deserialization and Remote Code Execution | Rizqi Mulki | [Read More](https://medium.com/p/6561781e1efa) |
-| Thu, 12 Jun 2025 15:49:07 GMT | Day 20: Search Skills For Ethical Hackers | Nile Okomo | [Read More](https://medium.com/p/c661a8899150) |
-| Thu, 12 Jun 2025 15:47:07 GMT | From Tokens to Trust: Understanding JWTs Through a Real-Life Analogy | Natarajan C K | [Read More](https://medium.com/p/d0118a8a7266) |
-| Thu, 12 Jun 2025 15:37:12 GMT | Securing AI-Driven Development: Cursor, MCP, and the Case for Mammoth Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/d1e93be52a21) |
-| Thu, 12 Jun 2025 15:20:40 GMT | How Books Taught Me to Cry | alley | [Read More](https://medium.com/p/7917aa83865c) |
-| Thu, 12 Jun 2025 15:20:04 GMT | Out of Control Bots | Tanishasamanta | [Read More](https://medium.com/p/3d81fb3c1e21) |
-| Thu, 12 Jun 2025 15:19:42 GMT | 10 Dark web sites you didn’t know exist. | Khadim | [Read More](https://medium.com/p/22434ea8e3c0) |
-| Thu, 12 Jun 2025 15:18:35 GMT | The Hidden Code: Psychology as the Key to Digital Investigations | NOF Consulting | [Read More](https://medium.com/p/9ff544ede5a8) |
