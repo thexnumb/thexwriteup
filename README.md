@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 05:37:03 GMT | Web Cache Deception — The Vulnerability Even Developers Don’t See Coming | phoenixcatalan | [Read More](https://medium.com/p/c9b814b76da3) |
+| Fri, 13 Jun 2025 05:35:16 GMT | Enhancing Safety with Professional Security Guard Services in India | Ciss India | [Read More](https://medium.com/p/004a0a6267c9) |
+| Fri, 13 Jun 2025 05:32:29 GMT | $7,500 Bounty: Exposed Any User’s Email on HackerOne | Monika sharma | [Read More](https://medium.com/p/2d19bb2a214c) |
+| Fri, 13 Jun 2025 05:31:32 GMT | AKS Security with CrowdStrike Falcon: Production-Ready YAML Configurations and Lessons Learned | Sridhar | [Read More](https://medium.com/p/4c752e3b466c) |
+| Fri, 13 Jun 2025 05:31:32 GMT | My OSCP+ Journey: From Hack The Box to Certified Ethical Hacker! | Yamini Yadav | [Read More](https://medium.com/p/8b2d92e1e8ce) |
+| Fri, 13 Jun 2025 05:22:20 GMT | This New Google Ads Feature Can Explode Your YouTube Channel — Here’s How | Ashik Imman | [Read More](https://medium.com/p/0433a41b9b91) |
+| Fri, 13 Jun 2025 05:18:20 GMT | Weeks of Watching, One Moment of Madness: A 2-Minute Hunt That Brought It All Down | Gokuleswaran B | [Read More](https://medium.com/p/41f181a1cbc9) |
 | Fri, 13 Jun 2025 05:09:26 GMT | UAC-0219's Malware Analysis | Johnlery | [Read More](https://medium.com/p/e8885758305d) |
 | Fri, 13 Jun 2025 05:01:14 GMT | The Future is Secure: Start with Ethical Hacking Classes in Pune | Pratiksha Madake | [Read More](https://medium.com/p/eba72b95a7fd) |
 | Fri, 13 Jun 2025 04:59:23 GMT | Cybersecurity In Digital Transformation: Why It’s Critical For Business Success | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/bfce3c2b68fe) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 19:04:56 GMT | Securing the IoT Frontier: Safeguarding 27 Billion Devices in 2025 | Chetan Seripally | [Read More](https://medium.com/p/82a5936134a8) |
 | Thu, 12 Jun 2025 18:57:42 GMT | Open Redirect Nedir? | SilverXCyber | [Read More](https://medium.com/p/519cc1897d0a) |
 | Thu, 12 Jun 2025 18:56:37 GMT | SAP Disaster Recovery: Step by Step Guide to Planning, Implementation & Best Practices | Techridge Solutions | [Read More](https://medium.com/p/f2a2adb625b6) |
-| Thu, 12 Jun 2025 18:47:34 GMT | flashing CryptoCurrency Available in 2025 | FLASH_CRYPTO | [Read More](https://medium.com/p/ad8e4ea09090) |
-| Thu, 12 Jun 2025 18:38:28 GMT | Script Executor: Streamlining Task Automation | SafeAeon Inc. | [Read More](https://medium.com/p/974b0458d565) |
-| Thu, 12 Jun 2025 18:35:21 GMT | Packets & Frames — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/6fb8402386bb) |
-| Thu, 12 Jun 2025 18:31:08 GMT | My OSCP journey: From Uncertainty to Certification | Porkballs | [Read More](https://medium.com/p/c45ed579dd62) |
-| Thu, 12 Jun 2025 18:26:02 GMT | How AI Is Getting Into the Hacking Field (And What That Might Mean for Us) | S4vz4d | [Read More](https://medium.com/p/bfc79c9e06b0) |
-| Thu, 12 Jun 2025 18:22:16 GMT | OSI Model — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/68feb7ffa136) |
-| Thu, 12 Jun 2025 18:20:09 GMT | I hope I told you this. | writes and wongs | [Read More](https://medium.com/p/3dac52a1454d) |
