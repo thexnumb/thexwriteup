@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 13:25:06 GMT | File Inclusion Prevention Techniques | ma40ou | [Read More](https://medium.com/p/41c5a602e634) |
+| Fri, 13 Jun 2025 13:24:30 GMT | Write Without Fear. Edit Without Mercy. | Gursahib Singh | [Read More](https://medium.com/p/74459041e48d) |
+| Fri, 13 Jun 2025 13:23:49 GMT | Why I Check for Hidden Processes Every Week on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/bccc5d9196ed) |
+| Fri, 13 Jun 2025 13:22:56 GMT | DevSecOps do Zero com TFlint, Checkov, Terraform, GitHub Actions & AWS | DevOps from Zero! | [Read More](https://medium.com/p/0161e3cb5506) |
+| Fri, 13 Jun 2025 13:20:37 GMT | Netscape’s Legacy: Leviathan0 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/20016c801df2) |
+| Fri, 13 Jun 2025 13:19:02 GMT | No-Cap: Securing Docker Containers — The Critical Role of Linux Capabilities | Marshall Humble | [Read More](https://medium.com/p/990969be9d15) |
+| Fri, 13 Jun 2025 13:18:50 GMT | The Weekly Threat Round-up 09/06/2025–13/06/2025 | RileyHv | [Read More](https://medium.com/p/40836b31beea) |
+| Fri, 13 Jun 2025 13:17:50 GMT | Shadows of Discontent | Tales of Nyx | [Read More](https://medium.com/p/c1daa916ecc5) |
+| Fri, 13 Jun 2025 13:14:22 GMT | Children of the Algorithm: Teaching Cyber Empathy to the Next Gen | MrsNo1Special | [Read More](https://medium.com/p/4aaaf6a65809) |
+| Fri, 13 Jun 2025 13:05:13 GMT | Blank Filling: A Coping Strategy… | Erin Schaden | [Read More](https://medium.com/p/f69e5b29c399) |
+| Fri, 13 Jun 2025 13:02:43 GMT | What Happens When Your Threat Intelligence Is Too Slow? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/adfdd4c2d31b) |
+| Fri, 13 Jun 2025 12:56:41 GMT | How i found SQL injection in live website | Priyanshu | [Read More](https://medium.com/p/481c1a042405) |
+| Fri, 13 Jun 2025 12:54:00 GMT | When Love Feels Conditional: A Woman’s Quiet Battle for Recognition in Her Own Home | Naturally_kind | [Read More](https://medium.com/p/afb207046805) |
+| Fri, 13 Jun 2025 12:53:48 GMT | I Don’t Know How to Be Loved Without Performing — And I’m Finally Admitting That Out Loud | In Progress Diaries | [Read More](https://medium.com/p/7536b8593332) |
+| Fri, 13 Jun 2025 12:50:45 GMT | Unlock Ultimate Security with Advanced Access Control Systems | ALPHA CAPITAL SECURITY SYSTEMS LLC | [Read More](https://medium.com/p/f94f7ea17fee) |
+| Fri, 13 Jun 2025 12:48:03 GMT | How Hackers Steal Logins with Broken OAuth | Ibtissam hammadi | [Read More](https://medium.com/p/f1386f2d78f6) |
+| Fri, 13 Jun 2025 12:47:54 GMT | The Blind Spot in AI: Why the Next Disruption Won’t Come from Where You’re Looking | Ogu Ahaneku | [Read More](https://medium.com/p/154562e7039e) |
+| Fri, 13 Jun 2025 12:47:12 GMT | What Love Can Teach Us About Ourselves | Bright Flow | [Read More](https://medium.com/p/df997e921f92) |
+| Fri, 13 Jun 2025 12:43:34 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/a4262f4b47dd) |
 | Fri, 13 Jun 2025 12:31:03 GMT | Detect Vulnerabilities With Nuclei AI | loyalonlytoday | [Read More](https://medium.com/p/59105992e798) |
 | Fri, 13 Jun 2025 12:28:54 GMT | Cybersecurity SOC Analyst Lab — Email Analysis (Phishing) | rkn | [Read More](https://medium.com/p/757a80f66d48) |
 | Fri, 13 Jun 2025 12:28:48 GMT | Help Bug Hunters: Contribute to the “Unfriendly Bug Bounty Programs” Repository | adityaax | [Read More](https://medium.com/p/87fbd4d4f6d4) |
@@ -95,22 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 08:14:40 GMT | Study Abroad at the Best RIC Universities — Your Global Future Starts Here! | royalinternational | [Read More](https://medium.com/p/6696a997bed1) |
 | Fri, 13 Jun 2025 08:13:50 GMT | The Daily Tech Digest: 13 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d24af4691f7b) |
 | Fri, 13 Jun 2025 08:12:41 GMT | NVIDIA Multi-Instance GPU (MIG): How to Split a Single GPU for Multiple Workloads Securely | StackGpu | [Read More](https://medium.com/p/17b8f58f5b70) |
-| Fri, 13 Jun 2025 08:10:31 GMT | The Most Underrated 0-Click Account Takeover Using Punycode IDN Attacks | coffinxp | [Read More](https://medium.com/p/c0afdb74a3dc) |
-| Fri, 13 Jun 2025 08:07:33 GMT | Dijital Kalede Nöbet Tutanlar : SOC’un Derinliklerine Yolculuk | Cyber Web | [Read More](https://medium.com/p/a7597d25a7fa) |
-| Fri, 13 Jun 2025 08:02:40 GMT | Spring Security Serialization Issues: What You Need to Know and How to Fix Them | Vikrant Dheer | [Read More](https://medium.com/p/bf3156073ce7) |
-| Fri, 13 Jun 2025 08:00:08 GMT | “ Logs Don’t Lie: My Virtual Cyber Crime Investigation Experience” | Nimit Ahir | [Read More](https://medium.com/p/0da19c2a4932) |
-| Fri, 13 Jun 2025 07:59:57 GMT | How do you expose API endpoints? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/f33d503b4cf5) |
-| Fri, 13 Jun 2025 07:57:00 GMT | Plugin XSS Insecure Code Review | AbhirupKonwar | [Read More](https://medium.com/p/9fbe7d0864ad) |
-| Fri, 13 Jun 2025 07:55:53 GMT | Security for Schools & Colleges in Thane | united guard | [Read More](https://medium.com/p/16a1ec81e279) |
-| Fri, 13 Jun 2025 07:53:11 GMT | Part Three — A Practical Guide to Automate Threat Analysis: Virus Total | Jade Hill | [Read More](https://medium.com/p/718efdd927a5) |
-| Fri, 13 Jun 2025 07:48:31 GMT | Digitale Innovation Management: Wie führende Unternehmen 2025 mit KI-gestützten Strategien 340% ROI… | Philip Hansen | [Read More](https://medium.com/p/3c6e41b5e310) |
-| Fri, 13 Jun 2025 07:47:31 GMT | Forma company wins the grand prize for the security messenger SECURET for the third year in a row!!! | SAYCOIN | [Read More](https://medium.com/p/9a5f283babaf) |
-| Fri, 13 Jun 2025 07:45:59 GMT | Ancaman dalam Web3 Cryptography | Ivo Arlian | [Read More](https://medium.com/p/29c60dc5f754) |
-| Fri, 13 Jun 2025 07:44:29 GMT | Prozessautomatisierung 2025: Der ultimative strategische Leitfaden für nachhaltigen… | Philip Hansen | [Read More](https://medium.com/p/eba2da9a5fbd) |
-| Fri, 13 Jun 2025 07:42:23 GMT | How VPN Encryption Works — Explained Like You’re 5 (But Cooler) | Cloudbric VPN | [Read More](https://medium.com/p/91b0ca14ecc2) |
-| Fri, 13 Jun 2025 07:37:34 GMT | Flutter Device ID: Persistent Device Identification Across App Installs with persistent_device_id… | Mael Toukap | [Read More](https://medium.com/p/57fca7743d0d) |
-| Fri, 13 Jun 2025 07:32:37 GMT | Hack The Box Writeup — Doctor | Simardeep Singh | [Read More](https://medium.com/p/dcab32f3516b) |
-| Fri, 13 Jun 2025 07:32:02 GMT | Planetary Chain of Custody: Securing Martian Mining Data with Blockchain | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0b0441f46e7b) |
-| Fri, 13 Jun 2025 07:30:19 GMT | The $500 Facebook Bug That Taught Me the Real Meaning of Respect | Vivek PS | [Read More](https://medium.com/p/383d48be16ae) |
-| Fri, 13 Jun 2025 07:30:13 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 6 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d7ff06747919) |
-| Fri, 13 Jun 2025 07:29:34 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 3 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1e15006573c4) |
