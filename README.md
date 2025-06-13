@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 21:18:34 GMT | Top 3 Cybersecurity News This Week | Wale Adedeji | [Read More](https://medium.com/p/2151b3fb8c08) |
+| Fri, 13 Jun 2025 21:16:32 GMT | Top 10 unsolved cybersecurity issues with evolving AI based solutions | Kiran Maraju | [Read More](https://medium.com/p/390d250d3826) |
+| Fri, 13 Jun 2025 20:58:49 GMT | War Studies Research №3: Using Monty Python and the Holy Grail to Consider Postmodernism and Modern… | Ben Zweibelson, PhD | [Read More](https://medium.com/p/0e9a96fc1a31) |
+| Fri, 13 Jun 2025 20:57:32 GMT | What Hackers Know About You — and You Don’t | Code With Hannan | [Read More](https://medium.com/p/d7c1ffbc7bad) |
+| Fri, 13 Jun 2025 20:54:51 GMT | Why I Chose Cybersecurity as aHobby (And Haw You can too) | YOUSSEF | [Read More](https://medium.com/p/ccb2758c665f) |
+| Fri, 13 Jun 2025 20:54:48 GMT | WPAD (Web Proxy Auto-Discovery Protocol) | Kiber Təhlükəsizlik | [Read More](https://medium.com/p/105dee09db8a) |
+| Fri, 13 Jun 2025 20:52:22 GMT | Behind the Scenes of Phishing Attacks: How Hackers Trick You and What You Can Do About It | David Ajuzie | [Read More](https://medium.com/p/0b52df34ac2d) |
+| Fri, 13 Jun 2025 20:49:31 GMT | HTB Linux Lame | Erik137 | [Read More](https://medium.com/p/d2982abde8bf) |
+| Fri, 13 Jun 2025 20:48:54 GMT | Account Takeover via Facebook OAuth Misconfiguration | Ahmed Elghazaly | [Read More](https://medium.com/p/f5eb1a943873) |
+| Fri, 13 Jun 2025 20:47:40 GMT | Optimizing Cybersecurity: Integrating Lean Six Sigma with Risk Assessment and Infrastructure… | Robertpurpose | [Read More](https://medium.com/p/b09476692c15) |
+| Fri, 13 Jun 2025 20:38:43 GMT | Why Passwordless Authentication Pays: The Economics of Modern Security | Deepak Gupta | [Read More](https://medium.com/p/f86ddb9271e4) |
 | Fri, 13 Jun 2025 20:31:32 GMT | Exploiting the ‘Accaademy001’ Vulnerable Machine | musayyab sharif | [Read More](https://medium.com/p/1b4a922e1968) |
 | Fri, 13 Jun 2025 20:26:13 GMT | Traffic Analysis Essentials - THM | Isiah | [Read More](https://medium.com/p/527ca2b98c42) |
 | Fri, 13 Jun 2025 20:25:36 GMT | 247CTF | löca | [Read More](https://medium.com/p/ceaa2ad26aca) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 14:25:54 GMT | Ultion KeyTag Explained: How It Tracks Your Keys and Boosts Home Security | Lock Fitter | [Read More](https://medium.com/p/743186d1c9d0) |
 | Fri, 13 Jun 2025 14:22:42 GMT | Defending Your PHP Applications Against XSS Attacks: A Developer’s Complete Guide | Roman Huliak | [Read More](https://medium.com/p/afc4df03b10c) |
 | Fri, 13 Jun 2025 14:22:14 GMT | The $3.4M Wake-Up Call: Securing AI-Driven Manufacturing Systems | NeoRusI | [Read More](https://medium.com/p/1657a5dbab9f) |
-| Fri, 13 Jun 2025 14:22:00 GMT | ✅ How I Passed the PNPT on My First Try (2025)—Real Tips from a Beginner-Turned-Pentester | Manzjson | [Read More](https://medium.com/p/1eccc2731b4c) |
-| Fri, 13 Jun 2025 14:21:59 GMT | MITRE ATT&CK Framework | Sh3nobi | [Read More](https://medium.com/p/6815baaa2fce) |
-| Fri, 13 Jun 2025 14:14:04 GMT | Cybersecurity Challenges in the Modern IT Landscape | Emmanuel Jafaru | [Read More](https://medium.com/p/0d3f98e899f4) |
-| Fri, 13 Jun 2025 14:09:31 GMT | Try Hack Me: Wgel CTF Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/e14e400fb4b8) |
-| Fri, 13 Jun 2025 14:02:58 GMT | From Firewalls to Firefights: Cybersecurity Lessons from the Military | MrsNo1Special | [Read More](https://medium.com/p/af27963216a4) |
-| Fri, 13 Jun 2025 14:01:58 GMT | Hacktivists and Cyberarmies: The New Geopolitical Battlefield | MrsNo1Special | [Read More](https://medium.com/p/0d587f1e91da) |
-| Fri, 13 Jun 2025 13:58:53 GMT | Cyber Briefing: 2025.06.13 | CyberMaterial | [Read More](https://medium.com/p/645ed58f3074) |
-| Fri, 13 Jun 2025 13:58:45 GMT | API Keys vs. Bearer Tokens: What’s the Deal and When Should You Use Them? | Shrusti Sangodkar | [Read More](https://medium.com/p/4c8498047f1e) |
-| Fri, 13 Jun 2025 13:53:14 GMT | HTB’s Machine “Hospital Walkthrough” | ma40ou | [Read More](https://medium.com/p/300ca92acb15) |
-| Fri, 13 Jun 2025 13:51:01 GMT | Part 3: Exploiting BOLA — How I Accessed Other Users’ Data in crAPI | Mihir Sathvara | [Read More](https://medium.com/p/d199251e6049) |
-| Fri, 13 Jun 2025 13:50:50 GMT | TryHackMe Anonymous — Walkthrough | mauzware | [Read More](https://medium.com/p/3274358bc52e) |
