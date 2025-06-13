@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 19:26:43 GMT | ¿Qué es el Bug Bounty y por qué es tan lucrativo? | Tiziano Mass | [Read More](https://medium.com/p/9d10d204542b) |
+| Fri, 13 Jun 2025 19:17:25 GMT | Your Personal Digital Fortress: Simple Steps to Rock Your Online Safety Think about it: how much… | Emmanuel Okon | [Read More](https://medium.com/p/f1b92298d4bd) |
+| Fri, 13 Jun 2025 19:16:49 GMT | Building Trustworthy Chatbots: Privacy Protection and Risk Mitigation Strategies | Eden Hgb | [Read More](https://medium.com/p/2975e169f9f1) |
+| Fri, 13 Jun 2025 19:09:13 GMT | 6 Real-World Tips to Secure Your Docker Containers in Production | Mihir Rajput | [Read More](https://medium.com/p/bc38808cca06) |
 | Fri, 13 Jun 2025 19:02:57 GMT | Fuzzing Behind the WAF | t3ngu42 | [Read More](https://medium.com/p/617e71e586ab) |
 | Fri, 13 Jun 2025 19:01:33 GMT | Are you human? Gotcha! | Cyber Kavy | [Read More](https://medium.com/p/8ecd1a3fd49b) |
 | Fri, 13 Jun 2025 18:58:46 GMT | Validate Your Security Detection Rules | SOCFortress | [Read More](https://medium.com/p/23e90a256ae8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 13:23:49 GMT | Why I Check for Hidden Processes Every Week on My Linux Servers (And You Should Too) | Faruk Ahmed | [Read More](https://medium.com/p/bccc5d9196ed) |
 | Fri, 13 Jun 2025 13:22:56 GMT | DevSecOps do Zero com TFlint, Checkov, Terraform, GitHub Actions & AWS | DevOps from Zero! | [Read More](https://medium.com/p/0161e3cb5506) |
 | Fri, 13 Jun 2025 13:20:37 GMT | Netscape’s Legacy: Leviathan0 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/20016c801df2) |
-| Fri, 13 Jun 2025 13:19:02 GMT | No-Cap: Securing Docker Containers — The Critical Role of Linux Capabilities | Marshall Humble | [Read More](https://medium.com/p/990969be9d15) |
-| Fri, 13 Jun 2025 13:18:50 GMT | The Weekly Threat Round-up 09/06/2025–13/06/2025 | RileyHv | [Read More](https://medium.com/p/40836b31beea) |
-| Fri, 13 Jun 2025 13:17:50 GMT | Shadows of Discontent | Tales of Nyx | [Read More](https://medium.com/p/c1daa916ecc5) |
-| Fri, 13 Jun 2025 13:14:22 GMT | Children of the Algorithm: Teaching Cyber Empathy to the Next Gen | MrsNo1Special | [Read More](https://medium.com/p/4aaaf6a65809) |
