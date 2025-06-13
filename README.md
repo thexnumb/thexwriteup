@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 11:34:17 GMT | Chasing a Valid in the Stars: My First NASA.gov Find | MostReal | [Read More](https://medium.com/p/cecdb9c29c35) |
+| Fri, 13 Jun 2025 11:32:36 GMT | I Wasn’t Okay, But I Didn’t Know How to Say It | ink between | [Read More](https://medium.com/p/a308b1a88371) |
+| Fri, 13 Jun 2025 11:31:55 GMT | A Step-by-Step Guide to Multi-Factor Authentication (MFA) | Richard Dosumu | [Read More](https://medium.com/p/c501b56edc32) |
+| Fri, 13 Jun 2025 11:30:39 GMT | From Dashboard to Deposition: Why Auto Brands Need Compliance Now. | Goismo AB | [Read More](https://medium.com/p/35786270b6f1) |
+| Fri, 13 Jun 2025 11:26:33 GMT | What Does a Cyber Security Consultant Really Do? Insights from Industry Experts | Arptech | [Read More](https://medium.com/p/5add288ddc2c) |
+| Fri, 13 Jun 2025 11:20:47 GMT | How AI-Powered CCTV Is Revolutionizing Security in India! | Sumintra | [Read More](https://medium.com/p/87d0fb0ad98d) |
+| Fri, 13 Jun 2025 11:17:33 GMT | How to recover your old Snapchat Account with a forgotten username and password | Tobias Mathew | [Read More](https://medium.com/p/e67670fce091) |
+| Fri, 13 Jun 2025 11:17:25 GMT | ️ Responsible Disclosure - Aadhaar Data Exposure | Ayush Patel | [Read More](https://medium.com/p/aa574ccb13ae) |
+| Fri, 13 Jun 2025 11:13:35 GMT | Cyber Threat Highlights: From Mirai Botnet Abuse to KEV-Worthy Critical Flaws | Loginsoft | [Read More](https://medium.com/p/b3bf5be06057) |
+| Fri, 13 Jun 2025 11:13:17 GMT | Comprehensive Research Report: Securing Cross-Chain Bridges in Blockchain | Abubakar zubair | [Read More](https://medium.com/p/acff41d0d650) |
+| Fri, 13 Jun 2025 11:11:20 GMT | CRLF Injection to Stored XSS via Cookie Poisoning | Srilakivarma | [Read More](https://medium.com/p/f7df1b790fe4) |
 | Fri, 13 Jun 2025 11:07:45 GMT | Protecting Vectorised Data in RAG Applications with Oracle 23ai Real Application Security | Thomas Minne | [Read More](https://medium.com/p/d33d7905cad0) |
 | Fri, 13 Jun 2025 11:06:31 GMT | Glyph Civilization Simulation: A Model of Fractal Digital Societies | Obmanwikobmanwik | [Read More](https://medium.com/p/a9dfee6aeb09) |
 | Fri, 13 Jun 2025 11:02:13 GMT | ⚠️ Facing AI-Powered Attacks and Embracing Zero Trust in 2025 | ThreatVector | [Read More](https://medium.com/p/12e9c99afe6c) |
@@ -103,14 +114,3 @@ ALBERT’S CASH TEAM SERVICE WORLDWIDE(GET RICH NOW/SOLVE ALL… | Gonzalezabler
 | Fri, 13 Jun 2025 07:11:46 GMT | How to Choose the Best Penetration Testing Course in Delhi? | cyber security Updates | [Read More](https://medium.com/p/89bd54d2d863) |
 | Fri, 13 Jun 2025 07:07:43 GMT | ประจำวันศุกร์ที่ 13 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/980c7738baf1) |
 | Fri, 13 Jun 2025 07:02:54 GMT | Cybersecurity in 2035: Navigating a Digital Landscape of Trust and Threat | Fook Hwa Tan | [Read More](https://medium.com/p/4ba621940c61) |
-| Fri, 13 Jun 2025 07:02:37 GMT | Can I say something? | Heidi lai | [Read More](https://medium.com/p/2f554ae92bfb) |
-| Fri, 13 Jun 2025 06:56:23 GMT | You know that feeling when you stand in front of someone, your soul stripped bare, and you can… | Niha thakashin | [Read More](https://medium.com/p/a3a53e6dc59e) |
-| Fri, 13 Jun 2025 06:52:54 GMT | How Digital Marketing Can Revolutionize Small and Medium Businesses in Kerala | Akhilchandcs | [Read More](https://medium.com/p/e95ea4a61995) |
-| Fri, 13 Jun 2025 06:44:19 GMT | Bypass WAF dengan Trik Sederhana: Cara Hacker Mengecoh Sistem Keamanan | Bonar | [Read More](https://medium.com/p/130469762dfd) |
-| Fri, 13 Jun 2025 06:42:53 GMT | The Quiet Revolution in Checkout Security | Nuraycan Cekic | [Read More](https://medium.com/p/bc9cb3b19036) |
-| Fri, 13 Jun 2025 06:42:16 GMT | How facebook, Instagram Turned Your Android Phone Into a Surveillance Device | Shailesh Kumar Mishra | [Read More](https://medium.com/p/912d1118eb1b) |
-| Fri, 13 Jun 2025 06:37:25 GMT | SQL Injection Explained Simply (With Real Examples) | Shahzeb Khan | [Read More](https://medium.com/p/49ea4c2247b7) |
-| Fri, 13 Jun 2025 06:31:48 GMT | Five Unexpected Ways Scientists Can Save Democracy in 2025 | Lakshika | [Read More](https://medium.com/p/89199a4ac767) |
-| Fri, 13 Jun 2025 06:28:44 GMT | The $7,500 Bug in Google Web Designer — and Why It’s a Wake-Up Call for All of Us | Vivek PS | [Read More](https://medium.com/p/3571231fecfc) |
-| Fri, 13 Jun 2025 06:25:41 GMT | The Corix Partners Friday Reading List — June 13, 2025 | JC Gaillard | [Read More](https://medium.com/p/836e5d146d7a) |
-| Fri, 13 Jun 2025 06:23:35 GMT | Midnight Eclipse: A Mock Ransomware Breach Report Using the NIST Cybersecurity Framework | ansanxcx | [Read More](https://medium.com/p/378cd0f6b9bd) |
