@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 18:29:05 GMT | Multi-Factor Authentication (MFA) and HIPAA: What’s Required and What’s Smart | Medcurity | [Read More](https://medium.com/p/ffb01ea8a569) |
+| Fri, 13 Jun 2025 18:26:18 GMT | TryHackMe Write-up: Wireshark — The Basics | Robert Onyango | [Read More](https://medium.com/p/fc31af63f029) |
+| Fri, 13 Jun 2025 18:17:51 GMT | Talented, Family-Funded Cybercriminals: The Real Story Behind Smoke-Data | Robert K. McMichen | [Read More](https://medium.com/p/0f6fbaeb6362) |
+| Fri, 13 Jun 2025 18:17:36 GMT | Setup a Pentesting Lab | SACHIN PV | [Read More](https://medium.com/p/1a39cdaeb2e7) |
+| Fri, 13 Jun 2025 18:12:14 GMT | From LFI to RCE via Log Poisoning: Hack Servers with Just Your Browser Headers ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/d0e708014e3f) |
+| Fri, 13 Jun 2025 18:06:13 GMT | The Cyber Fallout: How Operation Rising Lion Rewrote Modern Warfare | CCD-IS | [Read More](https://medium.com/p/a50104cc3899) |
+| Fri, 13 Jun 2025 18:03:54 GMT | TryHackMe Write-up: Wireshark 101 | Robert Onyango | [Read More](https://medium.com/p/6396d355f679) |
+| Fri, 13 Jun 2025 17:57:43 GMT | If LinkedIn, GitHub, and Google Went Down — Then What? | Achanandhi M | [Read More](https://medium.com/p/9fa06ae807b4) |
+| Fri, 13 Jun 2025 17:57:42 GMT | Designing Secure Systems with Node.js: A Beginner’s Take on Aware Design Patterns | Abdulrahmen benfarhat | [Read More](https://medium.com/p/bde47a771f18) |
 | Fri, 13 Jun 2025 17:07:46 GMT | Identity and Access Management (IAM) Setup with Keycloak | Halimah Olaolohun Abdul-Azeez | [Read More](https://medium.com/p/6c615bfea1a8) |
 | Fri, 13 Jun 2025 17:06:28 GMT | Cybersecurity Career Path: What I’m Learning as a Student | Chordiyajiya | [Read More](https://medium.com/p/5497a50e6948) |
 | Fri, 13 Jun 2025 17:01:35 GMT | Exposing an OAuth Token Weakness in Amazon’s Mobile App: A Responsible Disclosure Journey | C. Oscar Lawshea | [Read More](https://medium.com/p/3b967ab8134f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 12:50:45 GMT | Unlock Ultimate Security with Advanced Access Control Systems | ALPHA CAPITAL SECURITY SYSTEMS LLC | [Read More](https://medium.com/p/f94f7ea17fee) |
 | Fri, 13 Jun 2025 12:48:03 GMT | How Hackers Steal Logins with Broken OAuth | Ibtissam hammadi | [Read More](https://medium.com/p/f1386f2d78f6) |
 | Fri, 13 Jun 2025 12:47:54 GMT | The Blind Spot in AI: Why the Next Disruption Won’t Come from Where You’re Looking | Ogu Ahaneku | [Read More](https://medium.com/p/154562e7039e) |
-| Fri, 13 Jun 2025 12:47:12 GMT | What Love Can Teach Us About Ourselves | Bright Flow | [Read More](https://medium.com/p/df997e921f92) |
-| Fri, 13 Jun 2025 12:43:34 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/a4262f4b47dd) |
-| Fri, 13 Jun 2025 12:31:03 GMT | Detect Vulnerabilities With Nuclei AI | loyalonlytoday | [Read More](https://medium.com/p/59105992e798) |
-| Fri, 13 Jun 2025 12:28:54 GMT | Cybersecurity SOC Analyst Lab — Email Analysis (Phishing) | rkn | [Read More](https://medium.com/p/757a80f66d48) |
-| Fri, 13 Jun 2025 12:28:48 GMT | Help Bug Hunters: Contribute to the “Unfriendly Bug Bounty Programs” Repository | adityaax | [Read More](https://medium.com/p/87fbd4d4f6d4) |
-| Fri, 13 Jun 2025 12:28:28 GMT | I read IMO Guidelines on Maritime Cyber Risk Management so you don’t have to | Mert Kurtulmuş | [Read More](https://medium.com/p/1ab1631934c0) |
-| Fri, 13 Jun 2025 12:28:16 GMT | Think Before You Download: ViperSoftX Malware Hidden in Pirated eBooks and Cracked Software | Jon C | [Read More](https://medium.com/p/5f1c40b326fd) |
-| Fri, 13 Jun 2025 12:27:02 GMT | I Tricked a Web App Into Leaking /etc/passwd  (PortSwigger Lab) | Sumanth Yerranagula | [Read More](https://medium.com/p/d4f68835ffe1) |
-| Fri, 13 Jun 2025 12:22:26 GMT | How to Build a Custom Security Baseline in Microsoft Defender for Endpoint (MDE) | Shivam Mathur | [Read More](https://medium.com/p/4f3fe4c912d1) |
