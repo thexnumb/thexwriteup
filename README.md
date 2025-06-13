@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 02:36:50 GMT | Effective Network Scanning with Nmap: A Practical Workflow | Sam Hilliard | [Read More](https://medium.com/p/13c20d08ac68) |
+| Fri, 13 Jun 2025 02:27:35 GMT | I Built 7 Malicious AI Servers and Here’s What I Learned About MCP Security | Dipesh Bhardwaj | [Read More](https://medium.com/p/69006d28caa5) |
+| Fri, 13 Jun 2025 02:19:53 GMT | Hack the Box: Intro to Red Team: Paper machine walkthrough | Ritik Bavdekar | [Read More](https://medium.com/p/049768787750) |
+| Fri, 13 Jun 2025 02:17:54 GMT | Discreet and Professional Remote Access Service When I Needed It Most | Joao Hermano | [Read More](https://medium.com/p/bfa184313098) |
+| Fri, 13 Jun 2025 02:17:02 GMT | You might want to think twice before downloading that resume. | Cyber-AppSec | [Read More](https://medium.com/p/3887b1f7bbf0) |
+| Fri, 13 Jun 2025 02:04:23 GMT | How Can I Make My Emails HIPAA Compliant? | Gil Vidals | [Read More](https://medium.com/p/aa65601a8cc9) |
+| Fri, 13 Jun 2025 01:54:54 GMT | Data Protection in China | Haitao Wang | [Read More](https://medium.com/p/6591a817ef13) |
 | Fri, 13 Jun 2025 01:44:35 GMT | Cracking the Cloud: Breaking into AWS via Elastic Beanstalk | Fakharsaleem | [Read More](https://medium.com/p/bab033ce5397) |
 | Fri, 13 Jun 2025 01:42:05 GMT | Book forthcoming: How decentralised digital security is organised | Kelsie Nabben | [Read More](https://medium.com/p/749d9480362b) |
 | Fri, 13 Jun 2025 00:38:50 GMT | How We Automated Our Access Audits Across Slack, Discord, and Notion (And Why You Should Too) | Sri Chand Myla | [Read More](https://medium.com/p/7e9e5f61659e) |
 | Fri, 13 Jun 2025 00:32:22 GMT | Managing Tailscale Network Access with ACLs | Mithun Rosinth | [Read More](https://medium.com/p/e2989b550e27) |
+| Fri, 13 Jun 2025 00:20:08 GMT | Certified Penetration Testing Specialist (CPTS) Review - by Panzer262 | Panzer262 | [Read More](https://medium.com/p/3be7eebc28cf) |
 | Fri, 13 Jun 2025 00:11:41 GMT | Automate Security Operations with Cortex by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f65a425205e7) |
 | Fri, 13 Jun 2025 00:03:31 GMT | ZERO | - | [Read More](https://medium.com/p/32eebe68f639) |
 | Fri, 13 Jun 2025 00:02:00 GMT | Explorando JSON Web Tokens ( JWT) — Desafio Final | Sérgio Corrêa | [Read More](https://medium.com/p/ca1483920d8c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 16:22:57 GMT | Your Boss Just Called. It Wasn’t Your Boss. | Daulet | [Read More](https://medium.com/p/6aa75eb0a238) |
 | Thu, 12 Jun 2025 16:21:30 GMT | The Machine vs. Machine War: Why AI-to-AI Attacks Will Break Every Security Tool You Own | Eric Zietlow | [Read More](https://medium.com/p/76ee2d2dd98c) |
 | Thu, 12 Jun 2025 16:21:01 GMT | TryHackMe Mr Robot CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/4e4e6293bc41) |
-| Thu, 12 Jun 2025 16:17:57 GMT | Important Http response code | The Commoness | [Read More](https://medium.com/p/b6bed030161b) |
-| Thu, 12 Jun 2025 16:15:22 GMT | AI in Cyberattacks: How Artificial Intelligence Is Powering Modern Threats | HackerVault | [Read More](https://medium.com/p/dba8f988795e) |
-| Thu, 12 Jun 2025 16:14:31 GMT | JavaScript Security: Prototype Pollution in Node.js Applications | Rizqi Mulki | [Read More](https://medium.com/p/0015246e4a1e) |
-| Thu, 12 Jun 2025 16:14:17 GMT | ️ Day 61: Bash Scripting — Mastering Regex, Grep, Sed, and Awk | Agarwaldaksh | [Read More](https://medium.com/p/a85b515c964f) |
-| Thu, 12 Jun 2025 16:12:53 GMT | ️ Understanding Prompt Injection: The New Security Frontier in the Age of AI | Abhishek Kumar Gupta | [Read More](https://medium.com/p/61f401dd78eb) |
-| Thu, 12 Jun 2025 16:11:43 GMT | Abstraction, Virtualization & Hypervisors | Igor Berner | [Read More](https://medium.com/p/666a4770067b) |
-| Thu, 12 Jun 2025 16:09:49 GMT | Hack Happens. Are You Ready to Respond? | Abdelaziz moustakim | [Read More](https://medium.com/p/49c7abeb6879) |
-| Thu, 12 Jun 2025 16:01:37 GMT | TryHackMe-Lookup CTF | Kaan Ekşi | [Read More](https://medium.com/p/39d89beef943) |
