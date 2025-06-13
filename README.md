@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 05:09:26 GMT | UAC-0219's Malware Analysis | Johnlery | [Read More](https://medium.com/p/e8885758305d) |
+| Fri, 13 Jun 2025 05:01:14 GMT | The Future is Secure: Start with Ethical Hacking Classes in Pune | Pratiksha Madake | [Read More](https://medium.com/p/eba72b95a7fd) |
+| Fri, 13 Jun 2025 04:59:23 GMT | Cybersecurity In Digital Transformation: Why It’s Critical For Business Success | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/bfce3c2b68fe) |
+| Fri, 13 Jun 2025 04:57:49 GMT | AI-Enabled Cybersecurity for Smart Cities and Critical Infrastructure | Phanish Lakkarasu | [Read More](https://medium.com/p/168f1ebd3f58) |
+| Fri, 13 Jun 2025 04:56:48 GMT | Why Hiring Professional Event Security Is Crucial | Jane Tang | [Read More](https://medium.com/p/2e19a4990149) |
+| Fri, 13 Jun 2025 04:54:54 GMT | Plenty of Phish in the Sea | Akash Dutta Gupta | [Read More](https://medium.com/p/d00bec7709ee) |
+| Fri, 13 Jun 2025 04:47:33 GMT | Reversing LFI + RFI in WordPress Plugin | AbhirupKonwar | [Read More](https://medium.com/p/87b27fdb6b3b) |
 | Fri, 13 Jun 2025 04:27:40 GMT | Portswigger Labs: Web LLM Attacks | Chris-M | [Read More](https://medium.com/p/e7028806b2a5) |
 | Fri, 13 Jun 2025 04:27:24 GMT | Securing Web Applications with Custom WAF using OpenResty | Parminder Singh | [Read More](https://medium.com/p/6e968e6ad56f) |
 | Fri, 13 Jun 2025 04:18:38 GMT | Rethinking Container Security: It’s time to shift-right beyond CVE scans | 0x90@master | [Read More](https://medium.com/p/dbcbc0e65761) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 18:26:02 GMT | How AI Is Getting Into the Hacking Field (And What That Might Mean for Us) | S4vz4d | [Read More](https://medium.com/p/bfc79c9e06b0) |
 | Thu, 12 Jun 2025 18:22:16 GMT | OSI Model — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/68feb7ffa136) |
 | Thu, 12 Jun 2025 18:20:09 GMT | I hope I told you this. | writes and wongs | [Read More](https://medium.com/p/3dac52a1454d) |
-| Thu, 12 Jun 2025 18:18:12 GMT | Exploiting Broken Client-side Access Control: Unlocking Premium Access | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/5ac12d8262cd) |
-| Thu, 12 Jun 2025 18:18:00 GMT | RSA Conference 2025 Overview | SafeAeon Inc. | [Read More](https://medium.com/p/108e9f5fe10d) |
-| Thu, 12 Jun 2025 18:02:39 GMT | The Illusion of Protection | Malik Vero | [Read More](https://medium.com/p/b0682600b38d) |
-| Thu, 12 Jun 2025 17:58:02 GMT | Common Golang mistakes that hurt programmers | Kirubakaran | [Read More](https://medium.com/p/e97fb98b1501) |
-| Thu, 12 Jun 2025 17:52:40 GMT | Tutorial - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/0c4fb9ede7d0) |
-| Thu, 12 Jun 2025 17:51:05 GMT | Here’s a comprehensive look at the recent public clash—variable tensions and thawing—between Donald… | Asnaf Ktk | [Read More](https://medium.com/p/00c737aae9f3) |
-| Thu, 12 Jun 2025 17:46:39 GMT | Security threats for web application | Coding-Practice | [Read More](https://medium.com/p/f00ee63a5f85) |
