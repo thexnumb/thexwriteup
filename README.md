@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 15:39:30 GMT | Lock, Key and Code: Unpacking Digital Signing and Cryptography | Natarajan C K | [Read More](https://medium.com/p/1316d1a5b995) |
+| Fri, 13 Jun 2025 15:38:02 GMT | TryHackMe - Linux Memory Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/48d773e17fe4) |
+| Fri, 13 Jun 2025 15:35:12 GMT | Internal Password Spraying from Linux: Attacking Active Directory | Shaheer Yasir | [Read More](https://medium.com/p/c2b79c5348ff) |
+| Fri, 13 Jun 2025 15:27:45 GMT | Rangeforce: Incident Response- Website Defacement | Pwnedproof | [Read More](https://medium.com/p/a805c5762c12) |
+| Fri, 13 Jun 2025 15:23:26 GMT | OpenAI & Mattel: Crafting the Future of AI‑Powered Play | Tech Thrilled | [Read More](https://medium.com/p/c18b2e63d1d2) |
+| Fri, 13 Jun 2025 15:18:44 GMT | Securing the Cloud: A Detailed Look at the Future of Data Privacy | Amdnewaz | [Read More](https://medium.com/p/1a0b5b82c0c4) |
+| Fri, 13 Jun 2025 15:17:57 GMT | OSI’s Game of Thrones: Defending the Cyber Kingdom, Layer by Layer | Ankit Vaghamshi | [Read More](https://medium.com/p/921a3b469532) |
+| Fri, 13 Jun 2025 15:10:38 GMT | 2 Star Security Door Handle Guide: Why It’s the Essential Upgrade for Your Home | Lock Fitter | [Read More](https://medium.com/p/403551fbdf15) |
 | Fri, 13 Jun 2025 15:08:07 GMT | Mastering Ubuntu: A Complete Command-Line Guide for Beginners and Beyond | Ushani Saubhagya | [Read More](https://medium.com/p/30ac0641d21e) |
 | Fri, 13 Jun 2025 15:04:55 GMT | From LFI to LFD: Exploiting PHP Wrappers to Steal Sensitive Data Like a Pro ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/ec7385b49ea1) |
 | Fri, 13 Jun 2025 15:02:48 GMT | The Logistics Advantage: Cloud Consulting Services in Ontario Fuel Supply Chain AI | Zeta Sky | [Read More](https://medium.com/p/ef48d63e2d39) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 10:34:09 GMT | “Not All SOC Alerts Are Equal: A Practical Guide to Alert Categorization” | TuneToDetect | [Read More](https://medium.com/p/08ea6c1a9736) |
 | Fri, 13 Jun 2025 10:21:20 GMT | มาลองโกงเกมด้วย Cheat Engine | T S | [Read More](https://medium.com/p/27804c2f4cb2) |
 | Fri, 13 Jun 2025 10:20:56 GMT | Wazuh Watchdog: Auto-Probing Indexer & Dashboard Health for Seamless Monitoring | Raj Vira | [Read More](https://medium.com/p/3e7cfc8cf59b) |
-| Fri, 13 Jun 2025 10:18:22 GMT | I Found an SQL Injection in an Internal API (Behind Cloudflare) — A Full Story from Discovery to… | Yamini Yadav | [Read More](https://medium.com/p/27a28d2beb68) |
-| Fri, 13 Jun 2025 10:17:59 GMT | Is my old Seed Phrase still a security risk after moving assets to a new wallet? | UnionKey | [Read More](https://medium.com/p/d3750d1e8078) |
-| Fri, 13 Jun 2025 10:17:07 GMT | Permission Creep and the Curious Case of Jobcase: Why Are We Even Allowing This? | Cevher Dogan | [Read More](https://medium.com/p/61f6e424f838) |
-| Fri, 13 Jun 2025 10:14:08 GMT | Mobile App Reverse Engineer Toolkit | Ali Okan Yüksel | [Read More](https://medium.com/p/f0aabbede0ec) |
-| Fri, 13 Jun 2025 10:08:02 GMT | Cybersecurity Audit Checklist: The Risk of Free Online Tools | Liam Corwin | [Read More](https://medium.com/p/608d0f61724d) |
-| Fri, 13 Jun 2025 09:54:23 GMT | Hotel Security Guard Services: Protecting Guests, Staff & Property Around the Clock | Sumintra | [Read More](https://medium.com/p/26bc53b1311b) |
-| Fri, 13 Jun 2025 09:53:44 GMT | Securing Flutter Apps | Adarsh Vijayan P | [Read More](https://medium.com/p/37e4bffc718b) |
-| Fri, 13 Jun 2025 09:52:06 GMT | Implementing the shift left approach to application security for mid-sized organizations | cyber_pix | [Read More](https://medium.com/p/2a9737b22238) |
