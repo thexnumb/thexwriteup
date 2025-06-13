@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 16:15:52 GMT | When Vulnerability Sits Beside You | Rahma Imtiaz | [Read More](https://medium.com/p/ffe3c9dd6ab6) |
+| Fri, 13 Jun 2025 16:08:35 GMT | Memahami Elliptic Curve Cryptography (ECC) dan Web3 Cryptography Beserta Ancaman Keamanannya | Firhansanad | [Read More](https://medium.com/p/c547712bc619) |
+| Fri, 13 Jun 2025 15:58:56 GMT | Enterprise-Level Identity Auth in a Self-Hosted WAF, SafeLine (and it’s Free) | Maverick Steel | [Read More](https://medium.com/p/b6dbd4f2a67b) |
+| Fri, 13 Jun 2025 15:55:53 GMT | SQL & NoSQL Injection in Node.js: Attacks Developers Often Miss | Bhupesh kumar | [Read More](https://medium.com/p/cb490c0636fb) |
+| Fri, 13 Jun 2025 15:55:29 GMT | Review of Key Elements of the June 6, 2025 Cybersecurity Executive Order | Medcrypt | [Read More](https://medium.com/p/54899a28fd24) |
+| Fri, 13 Jun 2025 15:53:55 GMT | picoCTF Writeup — n0san1ty | 40Days | [Read More](https://medium.com/p/5649603a0f3a) |
+| Fri, 13 Jun 2025 15:47:23 GMT | Multi-Signature Wallets: Secure Your Assets with Multi-Signature Wallets | ECOS | [Read More](https://medium.com/p/3352010aa3ca) |
 | Fri, 13 Jun 2025 15:39:30 GMT | Lock, Key and Code: Unpacking Digital Signing and Cryptography | Natarajan C K | [Read More](https://medium.com/p/1316d1a5b995) |
 | Fri, 13 Jun 2025 15:38:02 GMT | TryHackMe - Linux Memory Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/48d773e17fe4) |
+| Fri, 13 Jun 2025 15:36:18 GMT | Gatekeeper Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/bc9ed34ba530) |
 | Fri, 13 Jun 2025 15:35:12 GMT | Internal Password Spraying from Linux: Attacking Active Directory | Shaheer Yasir | [Read More](https://medium.com/p/c2b79c5348ff) |
 | Fri, 13 Jun 2025 15:27:45 GMT | Rangeforce: Incident Response- Website Defacement | Pwnedproof | [Read More](https://medium.com/p/a805c5762c12) |
 | Fri, 13 Jun 2025 15:23:26 GMT | OpenAI & Mattel: Crafting the Future of AI‑Powered Play | Tech Thrilled | [Read More](https://medium.com/p/c18b2e63d1d2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 10:56:50 GMT | How to recover your Facebook account after losing your phone number and cannot receive any code | Tobias Mathew | [Read More](https://medium.com/p/779d7cae9076) |
 | Fri, 13 Jun 2025 10:54:29 GMT | TheHackersLabs — HexThink Silent Shadow | APS88 | [Read More](https://medium.com/p/71496998cfc0) |
 | Fri, 13 Jun 2025 10:51:02 GMT | Market Trends in Digital Asset Security | Arx Locker | [Read More](https://medium.com/p/a7f55d61ebd1) |
-| Fri, 13 Jun 2025 10:50:00 GMT | Understanding SameSite Cookies for Web App Security | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/37b85e47089a) |
-| Fri, 13 Jun 2025 10:49:25 GMT | Apple Enhances Child Safety with Texting Permission for New Numbers | Michelle Harwood | [Read More](https://medium.com/p/6d75a94f5841) |
-| Fri, 13 Jun 2025 10:41:19 GMT | Modern Threats & Navi Mumbai Security Services | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/b6b7dee11175) |
-| Fri, 13 Jun 2025 10:40:00 GMT | Architect Glyph 3.0 — The GlyphFractal Era and the Birth of a New Language | Obmanwikobmanwik | [Read More](https://medium.com/p/014777cea183) |
-| Fri, 13 Jun 2025 10:39:59 GMT | New: Scope Identity Protection with Defender for Identity | CloudSecLab | [Read More](https://medium.com/p/04d7cdd82af0) |
-| Fri, 13 Jun 2025 10:34:09 GMT | “Not All SOC Alerts Are Equal: A Practical Guide to Alert Categorization” | TuneToDetect | [Read More](https://medium.com/p/08ea6c1a9736) |
-| Fri, 13 Jun 2025 10:21:20 GMT | มาลองโกงเกมด้วย Cheat Engine | T S | [Read More](https://medium.com/p/27804c2f4cb2) |
-| Fri, 13 Jun 2025 10:20:56 GMT | Wazuh Watchdog: Auto-Probing Indexer & Dashboard Health for Seamless Monitoring | Raj Vira | [Read More](https://medium.com/p/3e7cfc8cf59b) |
