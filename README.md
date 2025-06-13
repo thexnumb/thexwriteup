@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 03:51:00 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology SectorCase Study: Mula Mutha River… | Rutikayerpude | [Read More](https://medium.com/p/e9ab5a2d05cb) |
+| Fri, 13 Jun 2025 03:50:55 GMT | Dissecting Cryptography: From the Eliptic Curve (ECC) to the Web3 Era | Steven Juliano | [Read More](https://medium.com/p/3ea36c883bc4) |
+| Fri, 13 Jun 2025 03:50:48 GMT | Why Cybersecurity Is a Business Imperative in 2025 | Mamekam | [Read More](https://medium.com/p/6567a13deb02) |
+| Fri, 13 Jun 2025 03:49:27 GMT | Should AI Be Open Source? Here’s the Chilling Truth | Rahul Mishra | [Read More](https://medium.com/p/79ab08e1b7b8) |
+| Fri, 13 Jun 2025 03:48:56 GMT | Elliptic Curve Cryptography (ECC) & Web3: Panduan Serius Tapi Santai Biar Nggak Kudet di Dunia… | Ahmad Ubaidillah | [Read More](https://medium.com/p/94d50062bdba) |
+| Fri, 13 Jun 2025 03:40:47 GMT | You are worth melting and crying for. I am okay, don’t worry! | Heidi lai | [Read More](https://medium.com/p/7c36fc9959fa) |
+| Fri, 13 Jun 2025 03:37:04 GMT | How to Secure Your AI MVP Before Launch | Civil Learning | [Read More](https://medium.com/p/909beae265c6) |
+| Fri, 13 Jun 2025 03:37:04 GMT | What Mapping WiFi Taught Me About Digital Inequality | Sam Galope | [Read More](https://medium.com/p/3e8da1a27311) |
+| Fri, 13 Jun 2025 03:31:31 GMT | CERT-IN Compliance for AI Code Security: Unlocking Trust with Automated Code Reviews | Panto AI | [Read More](https://medium.com/p/26e352ba8240) |
+| Fri, 13 Jun 2025 03:31:31 GMT | Ghost Tap: The Invisible Hack Hijacking Apple Pay and Google Wallet | Deven Chhajed | [Read More](https://medium.com/p/099599dd539c) |
+| Fri, 13 Jun 2025 03:27:07 GMT | VPN and Gear: Your Ultimate Shield for Remote Work Security | zainal Abidin | [Read More](https://medium.com/p/39a191c76f04) |
+| Fri, 13 Jun 2025 03:25:43 GMT | CTF Day(12) | Ahmed Narmer | [Read More](https://medium.com/p/df893a7035fe) |
+| Fri, 13 Jun 2025 03:14:57 GMT | Kerberos Attacking and Defending  Simplified: A Practical Guide | codesterzz | [Read More](https://medium.com/p/8d2512601977) |
+| Fri, 13 Jun 2025 02:55:46 GMT | ECC dan Web3 Cryptography: Kunci Masa Depan atau Target Ancaman? | dapit | [Read More](https://medium.com/p/4d5b9ebb0b1a) |
 | Fri, 13 Jun 2025 02:36:50 GMT | Effective Network Scanning with Nmap: A Practical Workflow | Sam Hilliard | [Read More](https://medium.com/p/13c20d08ac68) |
 | Fri, 13 Jun 2025 02:27:35 GMT | I Built 7 Malicious AI Servers and Here’s What I Learned About MCP Security | Dipesh Bhardwaj | [Read More](https://medium.com/p/69006d28caa5) |
 | Fri, 13 Jun 2025 02:19:53 GMT | Hack the Box: Intro to Red Team: Paper machine walkthrough | Ritik Bavdekar | [Read More](https://medium.com/p/049768787750) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 17:22:03 GMT | Penetration Testing: Kioptrix Level 1 | Hunter Yoo | [Read More](https://medium.com/p/2368b126a24e) |
 | Thu, 12 Jun 2025 17:14:35 GMT | SYN Flood & Ping of Death Demonstration — Denial of Service (DoS) Attacks in Practice | Rohan UK | [Read More](https://medium.com/p/5bdc965c5ff2) |
 | Thu, 12 Jun 2025 17:12:53 GMT | Weaponizing Bookmarklets for Passive Recon: Wayback Machine, VirusTotal & AlienVault | Jai Lani | [Read More](https://medium.com/p/9f4a736a1c8f) |
-| Thu, 12 Jun 2025 17:07:29 GMT | THM — Boogeyman 3 Writeup | Shamar Isaac | [Read More](https://medium.com/p/41466bbd8c4d) |
-| Thu, 12 Jun 2025 17:06:06 GMT | Who Am I | Amer Sebaihi | [Read More](https://medium.com/p/d51ce6857ad5) |
-| Thu, 12 Jun 2025 17:05:39 GMT | How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame | Michaeltanoto | [Read More](https://medium.com/p/537b6a2c01be) |
-| Thu, 12 Jun 2025 17:01:14 GMT | TryHackMe Mr Robot Writeup | 0xamaan | [Read More](https://medium.com/p/2da7454525d9) |
-| Thu, 12 Jun 2025 16:53:15 GMT | Track the Hacks: Echoes of Exfiltration — Network Forensic Case | byuda | [Read More](https://medium.com/p/c129fe4ad6ae) |
-| Thu, 12 Jun 2025 16:51:29 GMT | False Alarms: Why Most Security Notifications Backfire | MrsNo1Special | [Read More](https://medium.com/p/87fbc6c031e1) |
-| Thu, 12 Jun 2025 16:46:41 GMT | The Chat Trap: A Red Team’s Path to Domain Compromise | Cyberowl | [Read More](https://medium.com/p/f01a9df2624d) |
-| Thu, 12 Jun 2025 16:40:39 GMT | Gmail Knows Too Much About Me — That’s Why I Moved to ProtonMail | Anshul Kumar | [Read More](https://medium.com/p/9aa91486b349) |
-| Thu, 12 Jun 2025 16:37:53 GMT | Secrets management is shifting, and here’s how to stay ahead. | Amber Britton | [Read More](https://medium.com/p/6c2a80b67670) |
-| Thu, 12 Jun 2025 16:27:02 GMT | Who’s Responsible When AI Fails? | Ismailshuaib | [Read More](https://medium.com/p/e91c41dbb890) |
-| Thu, 12 Jun 2025 16:25:57 GMT | Ketika Bank Terbesar Dunia Jadi Korban Ransomware: ICBC London | Anisa Bintang Maharani | [Read More](https://medium.com/p/1dd07c8be78f) |
-| Thu, 12 Jun 2025 16:22:57 GMT | Your Boss Just Called. It Wasn’t Your Boss. | Daulet | [Read More](https://medium.com/p/6aa75eb0a238) |
-| Thu, 12 Jun 2025 16:21:30 GMT | The Machine vs. Machine War: Why AI-to-AI Attacks Will Break Every Security Tool You Own | Eric Zietlow | [Read More](https://medium.com/p/76ee2d2dd98c) |
-| Thu, 12 Jun 2025 16:21:01 GMT | TryHackMe Mr Robot CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/4e4e6293bc41) |
