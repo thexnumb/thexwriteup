@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 21:24:40 GMT | Friday Edition — Threat Actor Activity — 13/06/25 | SecurityPulse News | [Read More](https://medium.com/p/b98610373406) |
 | Fri, 13 Jun 2025 21:18:34 GMT | Top 3 Cybersecurity News This Week | Wale Adedeji | [Read More](https://medium.com/p/2151b3fb8c08) |
 | Fri, 13 Jun 2025 21:16:32 GMT | Top 10 unsolved cybersecurity issues with evolving AI based solutions | Kiran Maraju | [Read More](https://medium.com/p/390d250d3826) |
 | Fri, 13 Jun 2025 20:58:49 GMT | War Studies Research №3: Using Monty Python and the Holy Grail to Consider Postmodernism and Modern… | Ben Zweibelson, PhD | [Read More](https://medium.com/p/0e9a96fc1a31) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 14:28:13 GMT | ️ Securing File Uploads in 2025: Proven Methods, Real Vulnerabilities & Best Practices | CodeTalks | [Read More](https://medium.com/p/3e8e65bb5425) |
 | Fri, 13 Jun 2025 14:25:54 GMT | Ultion KeyTag Explained: How It Tracks Your Keys and Boosts Home Security | Lock Fitter | [Read More](https://medium.com/p/743186d1c9d0) |
 | Fri, 13 Jun 2025 14:22:42 GMT | Defending Your PHP Applications Against XSS Attacks: A Developer’s Complete Guide | Roman Huliak | [Read More](https://medium.com/p/afc4df03b10c) |
-| Fri, 13 Jun 2025 14:22:14 GMT | The $3.4M Wake-Up Call: Securing AI-Driven Manufacturing Systems | NeoRusI | [Read More](https://medium.com/p/1657a5dbab9f) |
