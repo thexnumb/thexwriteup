@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 07:17:17 GMT | From Upload to Exploit: Understanding Web Shell Attacks | Surya Teja | [Read More](https://medium.com/p/59b55ed7c7a4) |
+| Fri, 13 Jun 2025 07:13:36 GMT | Fortinet SD-WAN | Jaiswal Siddharth | [Read More](https://medium.com/p/14cac0ff57f0) |
+| Fri, 13 Jun 2025 07:11:48 GMT | AAVE Exploit: So Easy That it’s Hard Not To Hack | Evgenii | [Read More](https://medium.com/p/12aec22d4bce) |
+| Fri, 13 Jun 2025 07:11:46 GMT | How to Choose the Best Penetration Testing Course in Delhi? | cyber security Updates | [Read More](https://medium.com/p/89bd54d2d863) |
+| Fri, 13 Jun 2025 07:07:43 GMT | ประจำวันศุกร์ที่ 13 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/980c7738baf1) |
+| Fri, 13 Jun 2025 07:02:54 GMT | Cybersecurity in 2035: Navigating a Digital Landscape of Trust and Threat | Fook Hwa Tan | [Read More](https://medium.com/p/4ba621940c61) |
+| Fri, 13 Jun 2025 07:02:37 GMT | Can I say something? | Heidi lai | [Read More](https://medium.com/p/2f554ae92bfb) |
+| Fri, 13 Jun 2025 06:56:23 GMT | You know that feeling when you stand in front of someone, your soul stripped bare, and you can… | Niha thakashin | [Read More](https://medium.com/p/a3a53e6dc59e) |
+| Fri, 13 Jun 2025 06:52:54 GMT | How Digital Marketing Can Revolutionize Small and Medium Businesses in Kerala | Akhilchandcs | [Read More](https://medium.com/p/e95ea4a61995) |
+| Fri, 13 Jun 2025 06:44:19 GMT | Bypass WAF dengan Trik Sederhana: Cara Hacker Mengecoh Sistem Keamanan | Bonar | [Read More](https://medium.com/p/130469762dfd) |
+| Fri, 13 Jun 2025 06:42:53 GMT | The Quiet Revolution in Checkout Security | Nuraycan Cekic | [Read More](https://medium.com/p/bc9cb3b19036) |
+| Fri, 13 Jun 2025 06:42:16 GMT | How facebook, Instagram Turned Your Android Phone Into a Surveillance Device | Shailesh Kumar Mishra | [Read More](https://medium.com/p/912d1118eb1b) |
+| Fri, 13 Jun 2025 06:37:25 GMT | SQL Injection Explained Simply (With Real Examples) | Shahzeb Khan | [Read More](https://medium.com/p/49ea4c2247b7) |
+| Fri, 13 Jun 2025 06:31:48 GMT | Five Unexpected Ways Scientists Can Save Democracy in 2025 | Lakshika | [Read More](https://medium.com/p/89199a4ac767) |
+| Fri, 13 Jun 2025 06:28:44 GMT | The $7,500 Bug in Google Web Designer — and Why It’s a Wake-Up Call for All of Us | Vivek PS | [Read More](https://medium.com/p/3571231fecfc) |
+| Fri, 13 Jun 2025 06:25:41 GMT | The Corix Partners Friday Reading List — June 13, 2025 | JC Gaillard | [Read More](https://medium.com/p/836e5d146d7a) |
+| Fri, 13 Jun 2025 06:23:35 GMT | Midnight Eclipse: A Mock Ransomware Breach Report Using the NIST Cybersecurity Framework | ansanxcx | [Read More](https://medium.com/p/378cd0f6b9bd) |
 | Fri, 13 Jun 2025 06:22:09 GMT | Vulnyx: Writeup for the EID Machine | Adamzayene | [Read More](https://medium.com/p/a539e69cd48e) |
 | Fri, 13 Jun 2025 06:20:13 GMT | Step-by-Step Guide: How to Install Kali Linux Purple | Gourav(spidergk) | [Read More](https://medium.com/p/3455ff418baf) |
 | Fri, 13 Jun 2025 06:15:52 GMT | SOC137 — Malicious File/Script Download Attemptment(Alert 76) | Amadi Oluchi Faith | [Read More](https://medium.com/p/05eeb3f969db) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 22:17:05 GMT | Advanced Directory Enumeration with FFUF and Custom Wordlists | Karthikeyan Nagaraj | [Read More](https://medium.com/p/49915142983b) |
 | Thu, 12 Jun 2025 22:12:08 GMT | Exploring the Benefits of Smart Doors with SwitchBot in the Smart Home Industry | samanthanorman1622 | [Read More](https://medium.com/p/2a7bef1935bb) |
 | Thu, 12 Jun 2025 21:52:42 GMT | Beyond the OS: The Rise of Firmware-Level Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/d2bd77d52dc0) |
-| Thu, 12 Jun 2025 21:51:47 GMT | Unlock Exclusive BOUNTY Through ChainBounty's Community Drop | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/a6a5e9928941) |
-| Thu, 12 Jun 2025 21:12:34 GMT | Security Considerations for ML in Financial Services | Eden | [Read More](https://medium.com/p/f5fa263a6cb5) |
-| Thu, 12 Jun 2025 21:08:53 GMT | OWASP Top 10 for Backend Engineers: What You’re Probably Ignoring (But Shouldn’t) | Stefano Alvares | [Read More](https://medium.com/p/a11b87eb4b0c) |
-| Thu, 12 Jun 2025 20:56:28 GMT | Generating ECDSA Certificates and Signing Them With Your Own Certificate Authority Using OpenSSL | Elliot Michael Keavney | [Read More](https://medium.com/p/930b46def3ef) |
-| Thu, 12 Jun 2025 20:55:42 GMT | Your Domain is Talking Behind Your Back (And Hackers Might Be Listening) | Solo Recon | [Read More](https://medium.com/p/66589cffbd0c) |
-| Thu, 12 Jun 2025 20:55:28 GMT | Ghostly Hollowing Crypter: Evading AV and EDR | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0369a3d3114c) |
-| Thu, 12 Jun 2025 20:45:41 GMT | Day 2: “Detecting Port Scans with Wireshark” | Amy Huynh | [Read More](https://medium.com/p/c55fe984b7c6) |
-| Thu, 12 Jun 2025 20:45:03 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, SAP, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/e95d105ff27c) |
-| Thu, 12 Jun 2025 20:34:29 GMT | The Traveling Agent: Detecting Malicious Drift in Agent Toolchains | Tomer Wetzler | [Read More](https://medium.com/p/79280c01d5ac) |
-| Thu, 12 Jun 2025 20:31:28 GMT | SigmaHunter Challenge #1 — Detecting PsExec Service Installation via SMB | Ahmed Nosir | [Read More](https://medium.com/p/8195e584abc1) |
-| Thu, 12 Jun 2025 20:23:22 GMT | Shodan Dorking for Hackers: Easy CVEs and How I Found Them | A0X_Trojan | [Read More](https://medium.com/p/ecf6c56e7075) |
-| Thu, 12 Jun 2025 20:18:49 GMT | ️ Comprehensive Guide to Ubuntu System Hardening with USG | Mubashir Rahman | [Read More](https://medium.com/p/70f8f3679a14) |
-| Thu, 12 Jun 2025 20:18:35 GMT | The Digital Moat: Why the Air Gap no longer protects Industrial Systems | Thomas Rauch | [Read More](https://medium.com/p/a333fdd66ba3) |
-| Thu, 12 Jun 2025 20:15:33 GMT | Scenium RWA: Learn & Join In #4 — RWA Security: Risks & Best Practices | Scenium | [Read More](https://medium.com/p/2206771b89b4) |
-| Thu, 12 Jun 2025 20:13:13 GMT | Setting up a home lab for Penetration testing and Ethical hacking simulations | Dr. Ummulkhair Abdulkarim | [Read More](https://medium.com/p/f76bea09d4d4) |
-| Thu, 12 Jun 2025 20:07:04 GMT | JA4 in Action: Detecting Bots, Malware, and Fake Browsers at the TLS Level | Ishak Antar | [Read More](https://medium.com/p/3ccd890fbce9) |
-| Thu, 12 Jun 2025 20:06:24 GMT | Building Beluga in the Belly of the Storm | Dr. Noor N. AyToghlo | [Read More](https://medium.com/p/7097c885f2a7) |
