@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 08:22:38 GMT | Issue #229 — Terraform State, Ephemeral Resources, Super Mario Game on AWS EKS, depends_on… | Anton Babenko | [Read More](https://medium.com/p/ac58459d7a41) |
+| Fri, 13 Jun 2025 08:20:23 GMT | I Fooled the Filters: Homoglyph Username Bypass Vulnerability — An Overlooked Threat in Major… | Aman Bhuiyan | [Read More](https://medium.com/p/dd5f8cc63ba6) |
+| Fri, 13 Jun 2025 08:16:23 GMT | From Rural Roots to Global Revolutions: My Journey as a Polymath & Tech Visionary | Inayat Hussain | [Read More](https://medium.com/p/e14d97dea1dc) |
+| Fri, 13 Jun 2025 08:14:50 GMT | AI Wrote the First Draft – But I Built the Policy That Mattered | Code & Kif | [Read More](https://medium.com/p/7b888c359c98) |
+| Fri, 13 Jun 2025 08:14:40 GMT | Study Abroad at the Best RIC Universities — Your Global Future Starts Here! | royalinternational | [Read More](https://medium.com/p/6696a997bed1) |
+| Fri, 13 Jun 2025 08:13:50 GMT | The Daily Tech Digest: 13 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/d24af4691f7b) |
+| Fri, 13 Jun 2025 08:12:41 GMT | NVIDIA Multi-Instance GPU (MIG): How to Split a Single GPU for Multiple Workloads Securely | StackGpu | [Read More](https://medium.com/p/17b8f58f5b70) |
+| Fri, 13 Jun 2025 08:10:31 GMT | The Most Underrated 0-Click Account Takeover Using Punycode IDN Attacks | coffinxp | [Read More](https://medium.com/p/c0afdb74a3dc) |
+| Fri, 13 Jun 2025 08:07:33 GMT | Dijital Kalede Nöbet Tutanlar : SOC’un Derinliklerine Yolculuk | Cyber Web | [Read More](https://medium.com/p/a7597d25a7fa) |
+| Fri, 13 Jun 2025 08:02:40 GMT | Spring Security Serialization Issues: What You Need to Know and How to Fix Them | Vikrant Dheer | [Read More](https://medium.com/p/bf3156073ce7) |
+| Fri, 13 Jun 2025 08:00:08 GMT | “ Logs Don’t Lie: My Virtual Cyber Crime Investigation Experience” | Nimit Ahir | [Read More](https://medium.com/p/0da19c2a4932) |
+| Fri, 13 Jun 2025 07:59:57 GMT | How do you expose API endpoints? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/f33d503b4cf5) |
+| Fri, 13 Jun 2025 07:57:00 GMT | Plugin XSS Insecure Code Review | AbhirupKonwar | [Read More](https://medium.com/p/9fbe7d0864ad) |
+| Fri, 13 Jun 2025 07:55:53 GMT | Security for Schools & Colleges in Thane | united guard | [Read More](https://medium.com/p/16a1ec81e279) |
+| Fri, 13 Jun 2025 07:53:11 GMT | Part Three — A Practical Guide to Automate Threat Analysis: Virus Total | Jade Hill | [Read More](https://medium.com/p/718efdd927a5) |
+| Fri, 13 Jun 2025 07:48:31 GMT | Digitale Innovation Management: Wie führende Unternehmen 2025 mit KI-gestützten Strategien 340% ROI… | Philip Hansen | [Read More](https://medium.com/p/3c6e41b5e310) |
+| Fri, 13 Jun 2025 07:47:31 GMT | Forma company wins the grand prize for the security messenger SECURET for the third year in a row!!! | SAYCOIN | [Read More](https://medium.com/p/9a5f283babaf) |
+| Fri, 13 Jun 2025 07:45:59 GMT | Ancaman dalam Web3 Cryptography | Ivo Arlian | [Read More](https://medium.com/p/29c60dc5f754) |
+| Fri, 13 Jun 2025 07:44:29 GMT | Prozessautomatisierung 2025: Der ultimative strategische Leitfaden für nachhaltigen… | Philip Hansen | [Read More](https://medium.com/p/eba2da9a5fbd) |
+| Fri, 13 Jun 2025 07:42:23 GMT | How VPN Encryption Works — Explained Like You’re 5 (But Cooler) | Cloudbric VPN | [Read More](https://medium.com/p/91b0ca14ecc2) |
+| Fri, 13 Jun 2025 07:37:34 GMT | Flutter Device ID: Persistent Device Identification Across App Installs with persistent_device_id… | Mael Toukap | [Read More](https://medium.com/p/57fca7743d0d) |
+| Fri, 13 Jun 2025 07:32:37 GMT | Hack The Box Writeup — Doctor | Simardeep Singh | [Read More](https://medium.com/p/dcab32f3516b) |
 | Fri, 13 Jun 2025 07:32:02 GMT | Planetary Chain of Custody: Securing Martian Mining Data with Blockchain | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0b0441f46e7b) |
 | Fri, 13 Jun 2025 07:30:19 GMT | The $500 Facebook Bug That Taught Me the Real Meaning of Respect | Vivek PS | [Read More](https://medium.com/p/383d48be16ae) |
 | Fri, 13 Jun 2025 07:30:13 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 6 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d7ff06747919) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 03:14:57 GMT | Kerberos Attacking and Defending  Simplified: A Practical Guide | codesterzz | [Read More](https://medium.com/p/8d2512601977) |
 | Fri, 13 Jun 2025 02:55:46 GMT | ECC dan Web3 Cryptography: Kunci Masa Depan atau Target Ancaman? | dapit | [Read More](https://medium.com/p/4d5b9ebb0b1a) |
 | Fri, 13 Jun 2025 02:36:50 GMT | Effective Network Scanning with Nmap: A Practical Workflow | Sam Hilliard | [Read More](https://medium.com/p/13c20d08ac68) |
-| Fri, 13 Jun 2025 02:27:35 GMT | I Built 7 Malicious AI Servers and Here’s What I Learned About MCP Security | Dipesh Bhardwaj | [Read More](https://medium.com/p/69006d28caa5) |
-| Fri, 13 Jun 2025 02:19:53 GMT | Hack the Box: Intro to Red Team: Paper machine walkthrough | Ritik Bavdekar | [Read More](https://medium.com/p/049768787750) |
-| Fri, 13 Jun 2025 02:17:54 GMT | Discreet and Professional Remote Access Service When I Needed It Most | Joao Hermano | [Read More](https://medium.com/p/bfa184313098) |
-| Fri, 13 Jun 2025 02:17:02 GMT | You might want to think twice before downloading that resume. | Cyber-AppSec | [Read More](https://medium.com/p/3887b1f7bbf0) |
-| Fri, 13 Jun 2025 02:04:23 GMT | How Can I Make My Emails HIPAA Compliant? | Gil Vidals | [Read More](https://medium.com/p/aa65601a8cc9) |
-| Fri, 13 Jun 2025 01:54:54 GMT | Data Protection in China | Haitao Wang | [Read More](https://medium.com/p/6591a817ef13) |
-| Fri, 13 Jun 2025 01:44:35 GMT | Cracking the Cloud: Breaking into AWS via Elastic Beanstalk | Fakharsaleem | [Read More](https://medium.com/p/bab033ce5397) |
-| Fri, 13 Jun 2025 01:42:05 GMT | Book forthcoming: How decentralised digital security is organised | Kelsie Nabben | [Read More](https://medium.com/p/749d9480362b) |
-| Fri, 13 Jun 2025 00:38:50 GMT | How We Automated Our Access Audits Across Slack, Discord, and Notion (And Why You Should Too) | Sri Chand Myla | [Read More](https://medium.com/p/7e9e5f61659e) |
-| Fri, 13 Jun 2025 00:32:22 GMT | Managing Tailscale Network Access with ACLs | Mithun Rosinth | [Read More](https://medium.com/p/e2989b550e27) |
-| Fri, 13 Jun 2025 00:20:08 GMT | Certified Penetration Testing Specialist (CPTS) Review - by Panzer262 | Panzer262 | [Read More](https://medium.com/p/3be7eebc28cf) |
-| Fri, 13 Jun 2025 00:11:41 GMT | Automate Security Operations with Cortex by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f65a425205e7) |
-| Fri, 13 Jun 2025 00:03:31 GMT | ZERO | - | [Read More](https://medium.com/p/32eebe68f639) |
-| Fri, 13 Jun 2025 00:02:00 GMT | Explorando JSON Web Tokens ( JWT) — Desafio Final | Sérgio Corrêa | [Read More](https://medium.com/p/ca1483920d8c) |
-| Fri, 13 Jun 2025 00:01:31 GMT | Understanding OAuth 2.0 in Plain English (With Code Examples) | Tjeperi | [Read More](https://medium.com/p/a7f606dbc4de) |
-| Thu, 12 Jun 2025 23:53:40 GMT | From now on, using ChatGPT is a danger | Chris Galleta | [Read More](https://medium.com/p/f62da1023aad) |
-| Thu, 12 Jun 2025 23:50:41 GMT | Security for ML in Financial Services | Eden Hgb | [Read More](https://medium.com/p/2e918c650159) |
-| Thu, 12 Jun 2025 23:38:08 GMT | A partir de ahora, usar ChatGPT es un peligro | Chris Galleta | [Read More](https://medium.com/p/2defa246cf88) |
-| Thu, 12 Jun 2025 23:30:20 GMT | Official Biography: @SPYDIRBYTE | ADanielHill | [Read More](https://medium.com/p/5bd97bb1c4f8) |
-| Thu, 12 Jun 2025 23:28:12 GMT | Cracking TCMSec’s PNPT on my first attempt — while earning my very first cybersecurity… | Ritik Bavdekar | [Read More](https://medium.com/p/74c698b8636d) |
-| Thu, 12 Jun 2025 23:26:54 GMT | A Woman Found a Suspicious Phone Buried in Her Lawn | Kelly Carmichael | [Read More](https://medium.com/p/7eae0321a44f) |
-| Thu, 12 Jun 2025 23:26:39 GMT | Why the Adult World Is So Lonely — And What You Can Do About It | Wilson Igbasi | [Read More](https://medium.com/p/a579caacfde2) |
