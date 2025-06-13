@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 23:15:11 GMT | Container Escape Techniques: Breaking Out of the Digital Jail | zerOiQ | [Read More](https://medium.com/p/ad06962c5292) |
+| Fri, 13 Jun 2025 23:09:46 GMT | THM — What is Networking? | Mohamed Hamdi (Offensiv3) | [Read More](https://medium.com/p/ea4fde599859) |
 | Fri, 13 Jun 2025 22:32:48 GMT | AI and Deepfake Threats: A Security Professional’s Perspective | Austin Gomez | [Read More](https://medium.com/p/482cc4b17873) |
 | Fri, 13 Jun 2025 22:24:00 GMT | How Hackers Exploit RDP: What you Need to Know to Protect Yourself | Cywarr | [Read More](https://medium.com/p/d773fc52f2d5) |
 | Fri, 13 Jun 2025 22:23:37 GMT | Sudo & LD_PRELOAD | Kaan Ekşi | [Read More](https://medium.com/p/85c250f255ba) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 14:52:36 GMT | Battery-Free Smart Locks: Energy Harvesting Solutions | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/a343e106659f) |
 | Fri, 13 Jun 2025 14:49:00 GMT | EchoLeak Copilot Vulnerability Highlights Broader AI Security Concerns | PatentRiff | [Read More](https://medium.com/p/00e9d498021f) |
 | Fri, 13 Jun 2025 14:46:31 GMT | The 2024 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/a7c621589510) |
-| Fri, 13 Jun 2025 14:44:58 GMT | Unlimited Store Credit: Finding an Economy-Breaking Bug in a Digital Storefront’s Discord Bot | Van Kevindo | [Read More](https://medium.com/p/6518b32e9ffa) |
-| Fri, 13 Jun 2025 14:44:09 GMT | Metadata in End-to-End Encryption: Achilles’ Heel or Shield? | Tal Be'ery | [Read More](https://medium.com/p/bbea643bfce7) |
