@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 19:02:57 GMT | Fuzzing Behind the WAF | t3ngu42 | [Read More](https://medium.com/p/617e71e586ab) |
+| Fri, 13 Jun 2025 19:01:33 GMT | Are you human? Gotcha! | Cyber Kavy | [Read More](https://medium.com/p/8ecd1a3fd49b) |
+| Fri, 13 Jun 2025 18:58:46 GMT | Validate Your Security Detection Rules | SOCFortress | [Read More](https://medium.com/p/23e90a256ae8) |
+| Fri, 13 Jun 2025 18:58:04 GMT | KALI GPT — Your AI Assistant for Ethical Hacking | Babar Ali Jamali | [Read More](https://medium.com/p/b63dffc4bf97) |
+| Fri, 13 Jun 2025 18:48:44 GMT | Beyond the Tabletop: Introducing Our New Incident Response Readiness Review | Medcrypt | [Read More](https://medium.com/p/29079895c496) |
+| Fri, 13 Jun 2025 18:46:12 GMT | Hacking the Human Firewall: Psychological Exploits in Ethical Hacking and Defence Training | Esom Eze | [Read More](https://medium.com/p/00fde5b890cc) |
+| Fri, 13 Jun 2025 18:31:04 GMT | BITTHEBYTE EAGLE(Linux System Hacking) | The Commoness | [Read More](https://medium.com/p/407da60893d4) |
 | Fri, 13 Jun 2025 18:29:05 GMT | Multi-Factor Authentication (MFA) and HIPAA: What’s Required and What’s Smart | Medcurity | [Read More](https://medium.com/p/ffb01ea8a569) |
 | Fri, 13 Jun 2025 18:26:18 GMT | TryHackMe Write-up: Wireshark — The Basics | Robert Onyango | [Read More](https://medium.com/p/fc31af63f029) |
+| Fri, 13 Jun 2025 18:25:16 GMT | Fine-Tuning PolyCoder on the Devign Dataset for Vulnerability Detection | Wasi Ullah | [Read More](https://medium.com/p/e1345f05c2ce) |
 | Fri, 13 Jun 2025 18:17:51 GMT | Talented, Family-Funded Cybercriminals: The Real Story Behind Smoke-Data | Robert K. McMichen | [Read More](https://medium.com/p/0f6fbaeb6362) |
 | Fri, 13 Jun 2025 18:17:36 GMT | Setup a Pentesting Lab | SACHIN PV | [Read More](https://medium.com/p/1a39cdaeb2e7) |
 | Fri, 13 Jun 2025 18:12:14 GMT | From LFI to RCE via Log Poisoning: Hack Servers with Just Your Browser Headers ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/d0e708014e3f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 13:18:50 GMT | The Weekly Threat Round-up 09/06/2025–13/06/2025 | RileyHv | [Read More](https://medium.com/p/40836b31beea) |
 | Fri, 13 Jun 2025 13:17:50 GMT | Shadows of Discontent | Tales of Nyx | [Read More](https://medium.com/p/c1daa916ecc5) |
 | Fri, 13 Jun 2025 13:14:22 GMT | Children of the Algorithm: Teaching Cyber Empathy to the Next Gen | MrsNo1Special | [Read More](https://medium.com/p/4aaaf6a65809) |
-| Fri, 13 Jun 2025 13:05:13 GMT | Blank Filling: A Coping Strategy… | Erin Schaden | [Read More](https://medium.com/p/f69e5b29c399) |
-| Fri, 13 Jun 2025 13:02:43 GMT | What Happens When Your Threat Intelligence Is Too Slow? | Peris.ai Cybersecurity | [Read More](https://medium.com/p/adfdd4c2d31b) |
-| Fri, 13 Jun 2025 12:56:41 GMT | How i found SQL injection in live website | Priyanshu | [Read More](https://medium.com/p/481c1a042405) |
-| Fri, 13 Jun 2025 12:54:00 GMT | When Love Feels Conditional: A Woman’s Quiet Battle for Recognition in Her Own Home | Naturally_kind | [Read More](https://medium.com/p/afb207046805) |
-| Fri, 13 Jun 2025 12:53:48 GMT | I Don’t Know How to Be Loved Without Performing — And I’m Finally Admitting That Out Loud | In Progress Diaries | [Read More](https://medium.com/p/7536b8593332) |
-| Fri, 13 Jun 2025 12:50:45 GMT | Unlock Ultimate Security with Advanced Access Control Systems | ALPHA CAPITAL SECURITY SYSTEMS LLC | [Read More](https://medium.com/p/f94f7ea17fee) |
-| Fri, 13 Jun 2025 12:48:03 GMT | How Hackers Steal Logins with Broken OAuth | Ibtissam hammadi | [Read More](https://medium.com/p/f1386f2d78f6) |
-| Fri, 13 Jun 2025 12:47:54 GMT | The Blind Spot in AI: Why the Next Disruption Won’t Come from Where You’re Looking | Ogu Ahaneku | [Read More](https://medium.com/p/154562e7039e) |
