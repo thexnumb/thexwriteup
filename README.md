@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Jun 2025 07:32:02 GMT | Planetary Chain of Custody: Securing Martian Mining Data with Blockchain | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0b0441f46e7b) |
+| Fri, 13 Jun 2025 07:30:19 GMT | The $500 Facebook Bug That Taught Me the Real Meaning of Respect | Vivek PS | [Read More](https://medium.com/p/383d48be16ae) |
+| Fri, 13 Jun 2025 07:30:13 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 6 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/d7ff06747919) |
+| Fri, 13 Jun 2025 07:29:34 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 3 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/1e15006573c4) |
+| Fri, 13 Jun 2025 07:28:45 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/5dd6a7a460b1) |
+| Fri, 13 Jun 2025 07:25:58 GMT | StrongBox IT — The Most Trusted VAPT Service Provider in India | StrongBox IT | [Read More](https://medium.com/p/d15658898477) |
+| Fri, 13 Jun 2025 07:20:12 GMT | Why I Built ObfusEngine ? | Vibhasdutta | [Read More](https://medium.com/p/3ede602b81f4) |
+| Fri, 13 Jun 2025 07:17:18 GMT | TXT; USA 6162021156 CC CVV DUMP PAYPAL CASHAPP ZELLE VENMO BANK WU TRANSFERS CLONED CARDS ATM CC… | Gonzale | [Read More](https://medium.com/p/a35934d7eb2f) |
 | Fri, 13 Jun 2025 07:17:17 GMT | From Upload to Exploit: Understanding Web Shell Attacks | Surya Teja | [Read More](https://medium.com/p/59b55ed7c7a4) |
+| Fri, 13 Jun 2025 07:17:07 GMT | What Is the Most Durable Information Storage Medium in History? | Go4Know | [Read More](https://medium.com/p/703421b21cba) |
 | Fri, 13 Jun 2025 07:13:36 GMT | Fortinet SD-WAN | Jaiswal Siddharth | [Read More](https://medium.com/p/14cac0ff57f0) |
 | Fri, 13 Jun 2025 07:11:48 GMT | AAVE Exploit: So Easy That it’s Hard Not To Hack | Evgenii | [Read More](https://medium.com/p/12aec22d4bce) |
 | Fri, 13 Jun 2025 07:11:46 GMT | How to Choose the Best Penetration Testing Course in Delhi? | cyber security Updates | [Read More](https://medium.com/p/89bd54d2d863) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Jun 2025 23:28:12 GMT | Cracking TCMSec’s PNPT on my first attempt — while earning my very first cybersecurity… | Ritik Bavdekar | [Read More](https://medium.com/p/74c698b8636d) |
 | Thu, 12 Jun 2025 23:26:54 GMT | A Woman Found a Suspicious Phone Buried in Her Lawn | Kelly Carmichael | [Read More](https://medium.com/p/7eae0321a44f) |
 | Thu, 12 Jun 2025 23:26:39 GMT | Why the Adult World Is So Lonely — And What You Can Do About It | Wilson Igbasi | [Read More](https://medium.com/p/a579caacfde2) |
-| Thu, 12 Jun 2025 23:05:26 GMT | Pasqal Charts Bold Course: Roadmap to 10,000 Qubits and Fault-Tolerant Quantum Computing | QuantumGenie | [Read More](https://medium.com/p/3056a00ce397) |
-| Thu, 12 Jun 2025 22:58:07 GMT | AI-Powered Zero Trust: Automating Threat Response and Insider Detection | Christopher | [Read More](https://medium.com/p/76f65796b03c) |
-| Thu, 12 Jun 2025 22:36:59 GMT | When Machines Meet Mayhem: AI’s Battle against Modern Cyber Threats | Anjum | [Read More](https://medium.com/p/0692331e6b8a) |
-| Thu, 12 Jun 2025 22:31:02 GMT | IGNITE WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/504d6c3a3fb4) |
-| Thu, 12 Jun 2025 22:30:06 GMT | CTF Day(11) | Ahmed Narmer | [Read More](https://medium.com/p/0e8420294f32) |
-| Thu, 12 Jun 2025 22:21:07 GMT | I Signed Up for the Cyber Games. I’m Not a Coder. Here’s What I Learned | TxRattler | [Read More](https://medium.com/p/e2a1916d0e23) |
-| Thu, 12 Jun 2025 22:17:05 GMT | Advanced Directory Enumeration with FFUF and Custom Wordlists | Karthikeyan Nagaraj | [Read More](https://medium.com/p/49915142983b) |
-| Thu, 12 Jun 2025 22:12:08 GMT | Exploring the Benefits of Smart Doors with SwitchBot in the Smart Home Industry | samanthanorman1622 | [Read More](https://medium.com/p/2a7bef1935bb) |
-| Thu, 12 Jun 2025 21:52:42 GMT | Beyond the OS: The Rise of Firmware-Level Cyber Attacks | Akshay Chauhan | [Read More](https://medium.com/p/d2bd77d52dc0) |
