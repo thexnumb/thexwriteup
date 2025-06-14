@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 13:10:05 GMT | Inside Active Directory: What Happens After the Breach | Ailnenisaisathwik | [Read More](https://medium.com/p/7c1c0e6952d0) |
+| Sat, 14 Jun 2025 13:02:44 GMT | The Malware Behind the Mask: Fake AI Tools Targeting Tech & Marketing Teams | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d0964b0fee5c) |
+| Sat, 14 Jun 2025 12:57:07 GMT | Day 25 of #60DaysofGRC: What Are Risk Data Sources and Why Do They Matter So Much? | Brittney Ginther | [Read More](https://medium.com/p/33b346e6f7b7) |
+| Sat, 14 Jun 2025 12:55:43 GMT | I Tried 7 Cybersecurity Labs — Only 3 Were Worth My Time | Nigam | [Read More](https://medium.com/p/f358781445c3) |
+| Sat, 14 Jun 2025 12:45:16 GMT | 5 Effective Tactics to Recover from Missed Bugs in Software Testing | Asher Hartwell | [Read More](https://medium.com/p/fbb2b3bc240e) |
+| Sat, 14 Jun 2025 12:41:34 GMT | N7 Web Application CTF Walkthrough: A Step-by-Step Pentesting | Sahl | [Read More](https://medium.com/p/156d04fb7b6d) |
+| Sat, 14 Jun 2025 12:38:48 GMT | Why SSL Is Essential for Any Website | Shubham Pathak | [Read More](https://medium.com/p/c7c18f78bc80) |
+| Sat, 14 Jun 2025 12:37:47 GMT | Frosty Key Shares | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0e007bca963e) |
+| Sat, 14 Jun 2025 12:35:01 GMT | Guidelines for Artifact Collection: Doing Investigations the Right Way | Jaymar Lagrimas | [Read More](https://medium.com/p/f458eabee45d) |
 | Sat, 14 Jun 2025 12:30:44 GMT | Membongkar Fondasi Framework Frontend: Template Engine, Data Binding, dan Dependency Injection | Bagaskara adhi pradana | [Read More](https://medium.com/p/6dc4751c1996) |
+| Sat, 14 Jun 2025 12:27:49 GMT | ️ Ferramentas Gratuitas para Diagnóstico e Monitorização de Redes | Rúben da luz | [Read More](https://medium.com/p/94b69421a656) |
 | Sat, 14 Jun 2025 12:23:14 GMT | Mastering "Tcpdump": Your Command-Line Network Detective (For Beginners) | Kallabharath | [Read More](https://medium.com/p/265c64e408d8) |
 | Sat, 14 Jun 2025 12:21:34 GMT | Getting Started with Kali Linux: A Beginner’s Guide to Ethical Hacking | Techrefreshing | [Read More](https://medium.com/p/b76bd37d2362) |
 | Sat, 14 Jun 2025 12:20:51 GMT | Trusted Security Guard Company San Jose for Complete Protection | Direct Guard Services | [Read More](https://medium.com/p/e582b8e5d7b5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 06:10:04 GMT | How to Create Your Very Own Azure Active Directory Tenant | Saikat Paul | [Read More](https://medium.com/p/3d6f38cc3631) |
 | Sat, 14 Jun 2025 06:07:50 GMT | From HTTP to HTTPS: A Tiny Shift That Transformed the Web | Bayu Prasetyo | [Read More](https://medium.com/p/7bd35974ccba) |
 | Sat, 14 Jun 2025 06:01:23 GMT | Demystifying Identity Management (IDM): The Backbone of Modern Digital Security | Rajkumar Govindasamy | [Read More](https://medium.com/p/dbb9a03790ab) |
-| Sat, 14 Jun 2025 06:00:36 GMT | The Ultimate Guide to Network Penetration Testing and Security (Complete Network Security… | sixxish | [Read More](https://medium.com/p/c5cf4b2185f1) |
-| Sat, 14 Jun 2025 06:00:36 GMT | Huellas Digitales, Reconocimiento Pasivo | diego  calvo orozco | [Read More](https://medium.com/p/3b2db2f1d64b) |
-| Sat, 14 Jun 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Jun 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/de0e9363601f) |
-| Sat, 14 Jun 2025 05:59:26 GMT | How a ₹1 Flipkart Hack Sparked My Cybersecurity Journey (Part 1) | Vinoth Dayalan | [Read More](https://medium.com/p/3397afc424e5) |
-| Sat, 14 Jun 2025 05:43:01 GMT | ⚙️Complete Bug Bounty Tool List ⚙️ | Bl@ckC!pH3r | [Read More](https://medium.com/p/feade4710911) |
-| Sat, 14 Jun 2025 05:35:08 GMT | Earn Good Money via PayPal cashapp Bank western Union Zelle Transfer and Cloned Cards Atm cvv vbv… | Gonzalezablerta | [Read More](https://medium.com/p/07a12a2a1e34) |
-| Sat, 14 Jun 2025 05:34:36 GMT | LLM Security & Red Teaming | Tejas Shinkar | [Read More](https://medium.com/p/4dd8980696e5) |
-| Sat, 14 Jun 2025 05:33:29 GMT | Intro to OSINT Tools | Devni Dharmasooriya | [Read More](https://medium.com/p/9d7ef2a5c1cb) |
-| Sat, 14 Jun 2025 05:29:29 GMT | Enhancing Security with SwitchBot Apartment Door Lock | Eo | [Read More](https://medium.com/p/428598e672e4) |
-| Sat, 14 Jun 2025 05:23:21 GMT | Web Application Security: Safeguarding Your Digital Presence | Rishi Anand | [Read More](https://medium.com/p/eb518522c9b3) |
