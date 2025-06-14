@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 05:35:08 GMT | Earn Good Money via PayPal cashapp Bank western Union Zelle Transfer and Cloned Cards Atm cvv vbv… | Gonzalezablerta | [Read More](https://medium.com/p/07a12a2a1e34) |
+| Sat, 14 Jun 2025 05:34:36 GMT | LLM Security & Red Teaming | Tejas Shinkar | [Read More](https://medium.com/p/4dd8980696e5) |
+| Sat, 14 Jun 2025 05:33:29 GMT | Intro to OSINT Tools | Devni Dharmasooriya | [Read More](https://medium.com/p/9d7ef2a5c1cb) |
+| Sat, 14 Jun 2025 05:29:29 GMT | Enhancing Security with SwitchBot Apartment Door Lock | Eo | [Read More](https://medium.com/p/428598e672e4) |
+| Sat, 14 Jun 2025 05:23:21 GMT | Web Application Security: Safeguarding Your Digital Presence | Rishi Anand | [Read More](https://medium.com/p/eb518522c9b3) |
+| Sat, 14 Jun 2025 05:17:30 GMT | E2E Fraud Threat Assessment: Software Deployment & Update Supply Chain | Ipek.sec | [Read More](https://medium.com/p/d8f0a304bc73) |
+| Sat, 14 Jun 2025 05:15:11 GMT | E2E Fraud Threat Assessment: Employee Expense Reimbursement Process | Ipek.sec | [Read More](https://medium.com/p/b98dc0c7d840) |
 | Sat, 14 Jun 2025 05:08:40 GMT | Top Website Security Tips: How to Keep Your Website Safe from Hackers | Webcart | [Read More](https://medium.com/p/72137cb10062) |
 | Sat, 14 Jun 2025 05:08:32 GMT | Building a Password Strength Classifier | Devni Dharmasooriya | [Read More](https://medium.com/p/56b5d227da4c) |
 | Sat, 14 Jun 2025 05:03:33 GMT | Best Career Paths in the IT Department after 12th | Evision Technoserve | [Read More](https://medium.com/p/eb142ed06c1a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 18:25:16 GMT | Fine-Tuning PolyCoder on the Devign Dataset for Vulnerability Detection | Wasi Ullah | [Read More](https://medium.com/p/e1345f05c2ce) |
 | Fri, 13 Jun 2025 18:17:51 GMT | Talented, Family-Funded Cybercriminals: The Real Story Behind Smoke-Data | Robert K. McMichen | [Read More](https://medium.com/p/0f6fbaeb6362) |
 | Fri, 13 Jun 2025 18:17:36 GMT | Setup a Pentesting Lab | SACHIN PV | [Read More](https://medium.com/p/1a39cdaeb2e7) |
-| Fri, 13 Jun 2025 18:12:14 GMT | From LFI to RCE via Log Poisoning: Hack Servers with Just Your Browser Headers ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/d0e708014e3f) |
-| Fri, 13 Jun 2025 18:06:13 GMT | The Cyber Fallout: How Operation Rising Lion Rewrote Modern Warfare | CCD-IS | [Read More](https://medium.com/p/a50104cc3899) |
-| Fri, 13 Jun 2025 18:03:54 GMT | TryHackMe Write-up: Wireshark 101 | Robert Onyango | [Read More](https://medium.com/p/6396d355f679) |
-| Fri, 13 Jun 2025 17:57:43 GMT | If LinkedIn, GitHub, and Google Went Down — Then What? | Achanandhi M | [Read More](https://medium.com/p/9fa06ae807b4) |
-| Fri, 13 Jun 2025 17:57:42 GMT | Designing Secure Systems with Node.js: A Beginner’s Take on Aware Design Patterns | Abdulrahmen benfarhat | [Read More](https://medium.com/p/bde47a771f18) |
-| Fri, 13 Jun 2025 17:07:46 GMT | Identity and Access Management (IAM) Setup with Keycloak | Halimah Olaolohun Abdul-Azeez | [Read More](https://medium.com/p/6c615bfea1a8) |
-| Fri, 13 Jun 2025 17:06:28 GMT | Cybersecurity Career Path: What I’m Learning as a Student | Chordiyajiya | [Read More](https://medium.com/p/5497a50e6948) |
