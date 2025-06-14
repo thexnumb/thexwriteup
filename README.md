@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 19:12:58 GMT | Mobile Phones and Cancer Risk | Khalig Hesenov | [Read More](https://medium.com/p/28ed4d481042) |
 | Sat, 14 Jun 2025 19:06:00 GMT | ECC dan Web3 Cryptography: Pondasi Keamanan Digital di Era Desentralisasi | Darmayanti | [Read More](https://medium.com/p/2c655be0e4a3) |
 | Sat, 14 Jun 2025 19:01:55 GMT | The Importance of Information Warfare in Modern Times | Akul Malhotra | [Read More](https://medium.com/p/8f66e63cdd74) |
 | Sat, 14 Jun 2025 18:51:04 GMT | Exposing Sensitive Data via Web Cache Deception | Ahmed Elghazaly | [Read More](https://medium.com/p/23bc41756746) |
@@ -90,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 12:21:34 GMT | Getting Started with Kali Linux: A Beginner’s Guide to Ethical Hacking | Techrefreshing | [Read More](https://medium.com/p/b76bd37d2362) |
 | Sat, 14 Jun 2025 12:20:51 GMT | Trusted Security Guard Company San Jose for Complete Protection | Direct Guard Services | [Read More](https://medium.com/p/e582b8e5d7b5) |
 | Sat, 14 Jun 2025 12:17:56 GMT | ALGOFACT Is Now ISO/IEC 27001 Certified: A New Era of Information Security Excellence | ALGOFACT | [Read More](https://medium.com/p/e4d2d35abeaa) |
+| Sat, 14 Jun 2025 12:14:04 GMT | Apa itu ECC dan WEB3 Cryptography dan ancaman nya? | Rangga Eka | [Read More](https://medium.com/p/8ca1f3f8e4d8) |
 | Sat, 14 Jun 2025 12:12:22 GMT | Why Discord Is Highly Vulnerable to Hacking | David SEHYEON Baek | [Read More](https://medium.com/p/815cbfc2a6ce) |
 | Sat, 14 Jun 2025 12:09:18 GMT | Waspada Email Phishing: Kenali & Lindungi Diri dari Penipuan Online | Imanuel G R Mailangkay | [Read More](https://medium.com/p/42538344f3b8) |
 | Sat, 14 Jun 2025 12:06:53 GMT | Elliptic Curve Cryptography and Web3: Navigating the Future of Digital Security | Surya Saputra | [Read More](https://medium.com/p/4088cfb3bb84) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 11:23:55 GMT | Goodnight Echoes | Boluwatife Lash | [Read More](https://medium.com/p/0f4603573c5a) |
 | Sat, 14 Jun 2025 11:14:03 GMT | SOC EXPLAINED - TryHackMe SOC Fundamentals | Motasem Hamdan | [Read More](https://medium.com/p/50c2f02708d6) |
 | Sat, 14 Jun 2025 11:13:00 GMT | Ethical Hacking Course for Working Professionals | Crawsec | [Read More](https://medium.com/p/0e2f88c9b727) |
-| Sat, 14 Jun 2025 11:11:52 GMT | Platform Engineering in 2025: Why 80% of Enterprises Are Making the Shift | Cesar Schneider | [Read More](https://medium.com/p/b8b4c6124c51) |
-| Sat, 14 Jun 2025 11:04:11 GMT | Top 8 Cybersecurity Domains Every Professional Should Master in 2025 | Judit babu | [Read More](https://medium.com/p/f957bb9383bf) |
