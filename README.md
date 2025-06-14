@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 21:06:57 GMT | Why Your Data Isn’t as Safe as You Think — The Hidden Risks of Cloud Storage | Hafizbilaltariq | [Read More](https://medium.com/p/b81db5b6459a) |
+| Sat, 14 Jun 2025 20:59:05 GMT | What Happens to Your Data After You Die? The Truth About Digital Death | Hafizbilaltariq | [Read More](https://medium.com/p/edaecba2b5ea) |
+| Sat, 14 Jun 2025 20:42:04 GMT | sa ilalim ng kahel na langit | Letters from J | [Read More](https://medium.com/p/87a03ae01aa3) |
 | Sat, 14 Jun 2025 20:25:06 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/588de47882b1) |
 | Sat, 14 Jun 2025 20:21:46 GMT | Why OpenAI Is That “Toxic Ex” You Need to Stay Away From | Chris Galleta | [Read More](https://medium.com/p/e17f33cdf9c7) |
 | Sat, 14 Jun 2025 20:21:13 GMT | Threat Intelligence Starter Pack | BowTiesAreCool | [Read More](https://medium.com/p/34fb335d1f07) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 11:56:04 GMT | “I just need to break through the firewall to access the mainframe” ….and other lies. | Phiri Brian | [Read More](https://medium.com/p/299f07d8dfa9) |
 | Sat, 14 Jun 2025 11:53:47 GMT | Die Zukunft der Innovation meistern: Der ultimative Roadmap für digitale Transformation 2025 | Philip Hansen | [Read More](https://medium.com/p/7547c6643f9c) |
 | Sat, 14 Jun 2025 11:52:50 GMT | Design Thinking in der Digitalen Transformation: Der Strategische Wegweiser für Führungskräfte… | Philip Hansen | [Read More](https://medium.com/p/946aa7de9744) |
-| Sat, 14 Jun 2025 11:52:38 GMT | Obfuscated Threats in Plain Sight How JSFireTruck and HelloTDS Exploit Trust to Spread Malware | Siva Gunasekaran | [Read More](https://medium.com/p/3cecf455d864) |
-| Sat, 14 Jun 2025 11:52:17 GMT | Submit your request for Promo Here | DeepDive4learn | [Read More](https://medium.com/p/41325c63abc7) |
-| Sat, 14 Jun 2025 11:42:36 GMT | Portswigger Web Security: File Path Traversal Simple Case | Liam Chambers | [Read More](https://medium.com/p/08aace4ad863) |
