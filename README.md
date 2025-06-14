@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 12:30:44 GMT | Membongkar Fondasi Framework Frontend: Template Engine, Data Binding, dan Dependency Injection | Bagaskara adhi pradana | [Read More](https://medium.com/p/6dc4751c1996) |
+| Sat, 14 Jun 2025 12:23:14 GMT | Mastering "Tcpdump": Your Command-Line Network Detective (For Beginners) | Kallabharath | [Read More](https://medium.com/p/265c64e408d8) |
+| Sat, 14 Jun 2025 12:21:34 GMT | Getting Started with Kali Linux: A Beginner’s Guide to Ethical Hacking | Techrefreshing | [Read More](https://medium.com/p/b76bd37d2362) |
+| Sat, 14 Jun 2025 12:20:51 GMT | Trusted Security Guard Company San Jose for Complete Protection | Direct Guard Services | [Read More](https://medium.com/p/e582b8e5d7b5) |
+| Sat, 14 Jun 2025 12:17:56 GMT | ALGOFACT Is Now ISO/IEC 27001 Certified: A New Era of Information Security Excellence | ALGOFACT | [Read More](https://medium.com/p/e4d2d35abeaa) |
+| Sat, 14 Jun 2025 12:12:22 GMT | Why Discord Is Highly Vulnerable to Hacking | David SEHYEON Baek | [Read More](https://medium.com/p/815cbfc2a6ce) |
+| Sat, 14 Jun 2025 12:09:18 GMT | Waspada Email Phishing: Kenali & Lindungi Diri dari Penipuan Online | Imanuel G R Mailangkay | [Read More](https://medium.com/p/42538344f3b8) |
+| Sat, 14 Jun 2025 12:06:53 GMT | Elliptic Curve Cryptography and Web3: Navigating the Future of Digital Security | Surya Saputra | [Read More](https://medium.com/p/4088cfb3bb84) |
+| Sat, 14 Jun 2025 12:04:45 GMT | Tracing Shared Library Calls: Leviathan 1 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ef4affa1ac3a) |
+| Sat, 14 Jun 2025 11:58:37 GMT | Account Takeover in Android App (OTP Bypass) | TheRoyHunter313 | [Read More](https://medium.com/p/81d4428f0bc2) |
+| Sat, 14 Jun 2025 11:56:04 GMT | “I just need to break through the firewall to access the mainframe” ….and other lies. | Phiri Brian | [Read More](https://medium.com/p/299f07d8dfa9) |
+| Sat, 14 Jun 2025 11:53:47 GMT | Die Zukunft der Innovation meistern: Der ultimative Roadmap für digitale Transformation 2025 | Philip Hansen | [Read More](https://medium.com/p/7547c6643f9c) |
+| Sat, 14 Jun 2025 11:52:50 GMT | Design Thinking in der Digitalen Transformation: Der Strategische Wegweiser für Führungskräfte… | Philip Hansen | [Read More](https://medium.com/p/946aa7de9744) |
+| Sat, 14 Jun 2025 11:52:38 GMT | Obfuscated Threats in Plain Sight How JSFireTruck and HelloTDS Exploit Trust to Spread Malware | Siva Gunasekaran | [Read More](https://medium.com/p/3cecf455d864) |
+| Sat, 14 Jun 2025 11:52:17 GMT | Submit your request for Promo Here | DeepDive4learn | [Read More](https://medium.com/p/41325c63abc7) |
+| Sat, 14 Jun 2025 11:42:36 GMT | Portswigger Web Security: File Path Traversal Simple Case | Liam Chambers | [Read More](https://medium.com/p/08aace4ad863) |
+| Sat, 14 Jun 2025 11:41:11 GMT | ADVANCED BUG BOUNTY RECON PLAYBOOK (2025) | Bl@ckC!pH3r | [Read More](https://medium.com/p/3f1e7dbe3c97) |
+| Sat, 14 Jun 2025 11:38:58 GMT | A Beginner’s Guide to the Cybersecurity Capability Maturity Model (C2M2) | Fimber Elemuwa | [Read More](https://medium.com/p/09fe0a66acbf) |
+| Sat, 14 Jun 2025 11:33:25 GMT | TOGAF Enterprise Architect Interview Questions and Answers. | Sumant Khapre | [Read More](https://medium.com/p/c61da63f6f11) |
 | Sat, 14 Jun 2025 11:29:50 GMT | SIEM Buyer’s Guide: Separating Hype from Reality | Soteria Cybersecurity | [Read More](https://medium.com/p/d173fa1caef8) |
 | Sat, 14 Jun 2025 11:26:56 GMT | Cyber security and ethical hacking | Tech Access | [Read More](https://medium.com/p/6824201c5f99) |
 | Sat, 14 Jun 2025 11:25:21 GMT | ETHICAL CONSIDERATIONS vurses MATHEMATICAL MODELS | Luka Obuya | [Read More](https://medium.com/p/7e08c62f5414) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 05:33:29 GMT | Intro to OSINT Tools | Devni Dharmasooriya | [Read More](https://medium.com/p/9d7ef2a5c1cb) |
 | Sat, 14 Jun 2025 05:29:29 GMT | Enhancing Security with SwitchBot Apartment Door Lock | Eo | [Read More](https://medium.com/p/428598e672e4) |
 | Sat, 14 Jun 2025 05:23:21 GMT | Web Application Security: Safeguarding Your Digital Presence | Rishi Anand | [Read More](https://medium.com/p/eb518522c9b3) |
-| Sat, 14 Jun 2025 05:17:30 GMT | E2E Fraud Threat Assessment: Software Deployment & Update Supply Chain | Ipek.sec | [Read More](https://medium.com/p/d8f0a304bc73) |
-| Sat, 14 Jun 2025 05:15:11 GMT | E2E Fraud Threat Assessment: Employee Expense Reimbursement Process | Ipek.sec | [Read More](https://medium.com/p/b98dc0c7d840) |
-| Sat, 14 Jun 2025 05:08:40 GMT | Top Website Security Tips: How to Keep Your Website Safe from Hackers | Webcart | [Read More](https://medium.com/p/72137cb10062) |
-| Sat, 14 Jun 2025 05:08:32 GMT | Building a Password Strength Classifier | Devni Dharmasooriya | [Read More](https://medium.com/p/56b5d227da4c) |
-| Sat, 14 Jun 2025 05:03:33 GMT | Best Career Paths in the IT Department after 12th | Evision Technoserve | [Read More](https://medium.com/p/eb142ed06c1a) |
-| Sat, 14 Jun 2025 04:51:40 GMT | My First 3 Bug Bounty Reports — From Zero to Real-World Findings | Sanskruti | [Read More](https://medium.com/p/218daa967194) |
-| Sat, 14 Jun 2025 04:43:12 GMT | Learn Azure OIDC | Saikat Paul | [Read More](https://medium.com/p/94c62f01acf7) |
-| Sat, 14 Jun 2025 04:36:01 GMT | Understanding SOC 2 Audit: A Deep Dive into TSC and COSO Framework | The Hackers Meetup | [Read More](https://medium.com/p/5058cb591bb8) |
-| Sat, 14 Jun 2025 04:30:51 GMT | Exploiting Android Components in Seconds | Sandeep Wawdane | [Read More](https://medium.com/p/ea6b6f06f86d) |
-| Sat, 14 Jun 2025 04:25:45 GMT | Understanding OIDC in Minutes | Saikat Paul | [Read More](https://medium.com/p/e9f97cd005db) |
-| Sat, 14 Jun 2025 04:22:24 GMT | How I Passed CompTIA Security+ in 21 Days on a $10 Budget — While Working Full-Time | Maisam Noyan | [Read More](https://medium.com/p/3c79267e09ac) |
-| Sat, 14 Jun 2025 04:06:22 GMT | Oops! That App You Love Might Be Spying on You | Tina Ginn | [Read More](https://medium.com/p/bc7e3a8847de) |
-| Sat, 14 Jun 2025 04:01:35 GMT | How to Use sslscan to Perform In-Depth SSL/TLS Security Scans | YoungerSibling | [Read More](https://medium.com/p/9ef2c81704b6) |
-| Sat, 14 Jun 2025 03:59:49 GMT | Future of Cybersecurity: How Ethical Hacking and Quantum Computing Will Define the Next Digital Era | Eve serra | [Read More](https://medium.com/p/d1dc33eab3a8) |
-| Sat, 14 Jun 2025 03:58:34 GMT | MaAvatar: Step Into a New World of Web3 Expression and Empowerment | Chris | [Read More](https://medium.com/p/9918a94e9776) |
-| Sat, 14 Jun 2025 03:51:27 GMT | The Hidden Cost of Free: How AI, Apps, and Crypto Are Exploiting Your Data, Especially in Africa… | Tony Cletus | [Read More](https://medium.com/p/eb0d425d6fc0) |
-| Sat, 14 Jun 2025 03:49:57 GMT | Why I Don’t Suggest People to Get into Cybersecurity (Unless…) | Vipul Sonule | [Read More](https://medium.com/p/ecb511b5da44) |
-| Sat, 14 Jun 2025 03:31:32 GMT | Shadows of Suspicion: How Hackers Breached the Financial Firewall | Deven Chhajed | [Read More](https://medium.com/p/8cc14ebb5b57) |
-| Sat, 14 Jun 2025 03:31:23 GMT | The Tools I Use Every Day That Would Get Me Fired If I Had a Job | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4ec6c90f34f7) |
