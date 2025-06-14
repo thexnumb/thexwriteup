@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 21:21:34 GMT | AppSec Best Practices to Build Security into Your Development Lifecycle | Devi prasad Guda | [Read More](https://medium.com/p/5b20f47b6ca1) |
+| Sat, 14 Jun 2025 21:14:15 GMT | Call Security | Kay Flanagan | [Read More](https://medium.com/p/046e61e33bce) |
 | Sat, 14 Jun 2025 21:06:57 GMT | Why Your Data Isn’t as Safe as You Think — The Hidden Risks of Cloud Storage | Hafizbilaltariq | [Read More](https://medium.com/p/b81db5b6459a) |
 | Sat, 14 Jun 2025 20:59:05 GMT | What Happens to Your Data After You Die? The Truth About Digital Death | Hafizbilaltariq | [Read More](https://medium.com/p/edaecba2b5ea) |
 | Sat, 14 Jun 2025 20:42:04 GMT | sa ilalim ng kahel na langit | Letters from J | [Read More](https://medium.com/p/87a03ae01aa3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 12:04:45 GMT | Tracing Shared Library Calls: Leviathan 1 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ef4affa1ac3a) |
 | Sat, 14 Jun 2025 11:58:37 GMT | Account Takeover in Android App (OTP Bypass) | TheRoyHunter313 | [Read More](https://medium.com/p/81d4428f0bc2) |
 | Sat, 14 Jun 2025 11:56:04 GMT | “I just need to break through the firewall to access the mainframe” ….and other lies. | Phiri Brian | [Read More](https://medium.com/p/299f07d8dfa9) |
-| Sat, 14 Jun 2025 11:53:47 GMT | Die Zukunft der Innovation meistern: Der ultimative Roadmap für digitale Transformation 2025 | Philip Hansen | [Read More](https://medium.com/p/7547c6643f9c) |
-| Sat, 14 Jun 2025 11:52:50 GMT | Design Thinking in der Digitalen Transformation: Der Strategische Wegweiser für Führungskräfte… | Philip Hansen | [Read More](https://medium.com/p/946aa7de9744) |
