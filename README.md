@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 03:51:27 GMT | The Hidden Cost of Free: How AI, Apps, and Crypto Are Exploiting Your Data, Especially in Africa… | Tony Cletus | [Read More](https://medium.com/p/eb0d425d6fc0) |
+| Sat, 14 Jun 2025 03:49:57 GMT | Why I Don’t Suggest People to Get into Cybersecurity (Unless…) | Vipul Sonule | [Read More](https://medium.com/p/ecb511b5da44) |
+| Sat, 14 Jun 2025 03:31:32 GMT | Shadows of Suspicion: How Hackers Breached the Financial Firewall | Deven Chhajed | [Read More](https://medium.com/p/8cc14ebb5b57) |
+| Sat, 14 Jun 2025 03:31:23 GMT | The Tools I Use Every Day That Would Get Me Fired If I Had a Job | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4ec6c90f34f7) |
+| Sat, 14 Jun 2025 03:28:43 GMT | Uncovering Secrets in the Cloud: A Complete Guide to CloudGoat’s sns_secrets Scenario | Fakharsaleem | [Read More](https://medium.com/p/280096b1db41) |
+| Sat, 14 Jun 2025 03:27:28 GMT | Choose the BEST Career Path in the IT Department After B.Tech | Evision Technoserve | [Read More](https://medium.com/p/fc1eba19bbfd) |
+| Sat, 14 Jun 2025 03:08:51 GMT | Cyber Scams: Types, Tactics, and Prevention Strategies | Badal Mehra | [Read More](https://medium.com/p/47744a953fb4) |
 | Sat, 14 Jun 2025 03:06:01 GMT | Practical Phishing & Threat Analysis for Everyone | Harishkumar Pillai | [Read More](https://medium.com/p/a36aa7e8fefb) |
 | Sat, 14 Jun 2025 03:01:40 GMT | From Alert to Action: How I Handled a Fake Port Scan in My SOC Lab | Manish Rawat | [Read More](https://medium.com/p/b518aa8ad2f9) |
 | Sat, 14 Jun 2025 02:53:27 GMT | Powerful XSS Automation: Combining GF Patterns, Waybackurls, and Dalfox Scanning | イズミー | [Read More](https://medium.com/p/c25fb5d15055) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 16:31:12 GMT | The Vulnerability Paradox | Hector Gael Bañales Quiñones | [Read More](https://medium.com/p/2dc3cbc6cf11) |
 | Fri, 13 Jun 2025 16:29:38 GMT | Emotional Polaroids | Fe Stepka | [Read More](https://medium.com/p/1082f2ce54aa) |
 | Fri, 13 Jun 2025 16:28:30 GMT | How to Use QR Codes for Multi-Tenant Building Access | Joven A Rodrigues | [Read More](https://medium.com/p/fb873ed74d37) |
-| Fri, 13 Jun 2025 16:27:57 GMT | ️ Day 62: Bash Scripting — Logging & Debugging in Bash | Agarwaldaksh | [Read More](https://medium.com/p/5a27ea8b208c) |
-| Fri, 13 Jun 2025 16:27:43 GMT | Integrātz Appoints Edwin Ojeda as Chief Revenue Officer | Safaque Kagdi | [Read More](https://medium.com/p/3fcdd338ade3) |
-| Fri, 13 Jun 2025 16:26:37 GMT | Apple Zero-Click Flaw in Messages Exploited to Spy on Journalists Using Paragon Spyware | Ronit Yadav | [Read More](https://medium.com/p/d2dbbd606691) |
-| Fri, 13 Jun 2025 16:23:36 GMT | What Is Cyber Resilience and Why Should We Care? - Day 24 of #60DaysofGRC | Brittney Ginther | [Read More](https://medium.com/p/2ca37df30730) |
-| Fri, 13 Jun 2025 16:22:26 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/2ed9cfa15760) |
-| Fri, 13 Jun 2025 16:17:37 GMT | The BigBlueButton Fortress: How I Defended Students on an EdTech Platform from Digital Pirates… | Freddy D. Alvarez | [Read More](https://medium.com/p/d7f6611f17c1) |
-| Fri, 13 Jun 2025 16:15:52 GMT | When Vulnerability Sits Beside You | Rahma Imtiaz | [Read More](https://medium.com/p/ffe3c9dd6ab6) |
