@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 09:33:48 GMT | Top 5 Ways Guards Prevent Theft & Vandalism | United Guard Force India | [Read More](https://medium.com/p/a35028584362) |
+| Sat, 14 Jun 2025 09:25:03 GMT | Security Best Practices for Java Microservices: From Authentication to Secure Configuration | Devrim Ozcay | [Read More](https://medium.com/p/a2018e7021cc) |
+| Sat, 14 Jun 2025 09:24:46 GMT | How to Get 1000+ HQ Backlinks for Your Startup with Startories | Startories | [Read More](https://medium.com/p/0b7ea092e868) |
 | Sat, 14 Jun 2025 09:17:44 GMT | Defect vs Error vs Discrepancy: What’s the Difference in Software Testing? | Sourojit Das | [Read More](https://medium.com/p/dbcb05598ed1) |
 | Sat, 14 Jun 2025 09:16:23 GMT | “Security Automation Made Easy: Scripts to Save Time and Reduce Risk” | Divya Mewada | [Read More](https://medium.com/p/d415a9a2a277) |
 | Sat, 14 Jun 2025 09:14:57 GMT | Cloud Control at Scale: Building Reliable Infrastructure with AI | Ageddes | [Read More](https://medium.com/p/f4e7f636d8c3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 23:51:41 GMT | VPNs and Privacy: Your Last Defense in the Age of AI Surveillance | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/00aad89b7d2f) |
 | Fri, 13 Jun 2025 23:39:25 GMT | How to Protect Your Home or Business in Times of Unrest | PRL Style | [Read More](https://medium.com/p/6c1119e4bd4e) |
 | Fri, 13 Jun 2025 23:15:11 GMT | Container Escape Techniques: Breaking Out of the Digital Jail | zerOiQ | [Read More](https://medium.com/p/ad06962c5292) |
-| Fri, 13 Jun 2025 23:09:46 GMT | THM — What is Networking? | Mohamed Hamdi (Offensiv3) | [Read More](https://medium.com/p/ea4fde599859) |
-| Fri, 13 Jun 2025 22:32:48 GMT | AI and Deepfake Threats: A Security Professional’s Perspective | Austin Gomez | [Read More](https://medium.com/p/482cc4b17873) |
-| Fri, 13 Jun 2025 22:24:00 GMT | How Hackers Exploit RDP: What you Need to Know to Protect Yourself | Cywarr | [Read More](https://medium.com/p/d773fc52f2d5) |
