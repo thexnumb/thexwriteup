@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 01:23:22 GMT | Social Engineering & Cyber Crime: Gabungan Psikologi dan Biologi | Alfajri Hulvi, S.T., M.Kom | [Read More](https://medium.com/p/eabb9a0e572f) |
+| Sat, 14 Jun 2025 01:13:32 GMT | Aviate. Navigate. Communicate. | Mohan Thomas | [Read More](https://medium.com/p/87cc148aa497) |
+| Sat, 14 Jun 2025 00:45:18 GMT | Penggunaan Masscan, Nmap, CrackMapExec, dan Dirsearch dalam Cybersecurity | Dzakwan Efendi | [Read More](https://medium.com/p/103b5f429e82) |
+| Sat, 14 Jun 2025 00:43:04 GMT | A Ransomware Attack Strikes Every Twenty-One Seconds | David SEHYEON Baek | [Read More](https://medium.com/p/22ef10ae884e) |
+| Sat, 14 Jun 2025 00:34:02 GMT | Understanding Firewalls: From Packet Filtering to Next-Generation Protection | Mazhar Imran | [Read More](https://medium.com/p/277dbfbd2393) |
+| Sat, 14 Jun 2025 00:26:21 GMT | Elliptic Curve Cryptography (ECC) dan Ancaman Kriptografi di Dunia Web3 - Task 1 Weeks 3 | Dzakwan Efendi | [Read More](https://medium.com/p/346edcb3d391) |
+| Sat, 14 Jun 2025 00:21:34 GMT | How to Find and Exploit Jenkins Unauthenticated RCE via Shodan | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/0bf0242e559e) |
+| Sat, 14 Jun 2025 00:21:10 GMT | Model-Level Attacks and How to Defend Against Them - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/5e27437f4553) |
+| Sat, 14 Jun 2025 00:13:35 GMT | Exoplanetary Blockchain for Terraforming Log Integrity | A-STAR7_DOCTOR | [Read More](https://medium.com/p/836cee14f046) |
+| Sat, 14 Jun 2025 00:06:45 GMT | From Vulnerability to Victory: The New Era of Cyber Defense and Resilience | JustinJabo | [Read More](https://medium.com/p/fc9f630d1378) |
+| Sat, 14 Jun 2025 00:06:37 GMT | Threat Intelligence Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b3351b396529) |
+| Fri, 13 Jun 2025 23:51:41 GMT | VPNs and Privacy: Your Last Defense in the Age of AI Surveillance | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/00aad89b7d2f) |
+| Fri, 13 Jun 2025 23:39:25 GMT | How to Protect Your Home or Business in Times of Unrest | PRL Style | [Read More](https://medium.com/p/6c1119e4bd4e) |
 | Fri, 13 Jun 2025 23:15:11 GMT | Container Escape Techniques: Breaking Out of the Digital Jail | zerOiQ | [Read More](https://medium.com/p/ad06962c5292) |
 | Fri, 13 Jun 2025 23:09:46 GMT | THM — What is Networking? | Mohamed Hamdi (Offensiv3) | [Read More](https://medium.com/p/ea4fde599859) |
 | Fri, 13 Jun 2025 22:32:48 GMT | AI and Deepfake Threats: A Security Professional’s Perspective | Austin Gomez | [Read More](https://medium.com/p/482cc4b17873) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 15:39:30 GMT | Lock, Key and Code: Unpacking Digital Signing and Cryptography | Natarajan C K | [Read More](https://medium.com/p/1316d1a5b995) |
 | Fri, 13 Jun 2025 15:38:02 GMT | TryHackMe - Linux Memory Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/48d773e17fe4) |
 | Fri, 13 Jun 2025 15:36:18 GMT | Gatekeeper Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/bc9ed34ba530) |
-| Fri, 13 Jun 2025 15:35:12 GMT | Internal Password Spraying from Linux: Attacking Active Directory | Shaheer Yasir | [Read More](https://medium.com/p/c2b79c5348ff) |
-| Fri, 13 Jun 2025 15:27:45 GMT | Rangeforce: Incident Response- Website Defacement | Pwnedproof | [Read More](https://medium.com/p/a805c5762c12) |
-| Fri, 13 Jun 2025 15:23:26 GMT | OpenAI & Mattel: Crafting the Future of AI‑Powered Play | Tech Thrilled | [Read More](https://medium.com/p/c18b2e63d1d2) |
-| Fri, 13 Jun 2025 15:18:44 GMT | Securing the Cloud: A Detailed Look at the Future of Data Privacy | Amdnewaz | [Read More](https://medium.com/p/1a0b5b82c0c4) |
-| Fri, 13 Jun 2025 15:17:57 GMT | OSI’s Game of Thrones: Defending the Cyber Kingdom, Layer by Layer | Ankit Vaghamshi | [Read More](https://medium.com/p/921a3b469532) |
-| Fri, 13 Jun 2025 15:10:38 GMT | 2 Star Security Door Handle Guide: Why It’s the Essential Upgrade for Your Home | Lock Fitter | [Read More](https://medium.com/p/403551fbdf15) |
-| Fri, 13 Jun 2025 15:08:07 GMT | Mastering Ubuntu: A Complete Command-Line Guide for Beginners and Beyond | Ushani Saubhagya | [Read More](https://medium.com/p/30ac0641d21e) |
-| Fri, 13 Jun 2025 15:04:55 GMT | From LFI to LFD: Exploiting PHP Wrappers to Steal Sensitive Data Like a Pro ️‍♂️ | Zoningxtr | [Read More](https://medium.com/p/ec7385b49ea1) |
-| Fri, 13 Jun 2025 15:02:48 GMT | The Logistics Advantage: Cloud Consulting Services in Ontario Fuel Supply Chain AI | Zeta Sky | [Read More](https://medium.com/p/ef48d63e2d39) |
-| Fri, 13 Jun 2025 14:56:24 GMT | CoinFlip Review - This Is How I Recover My Money | April MacFarlane | [Read More](https://medium.com/p/5cabbbd7138d) |
-| Fri, 13 Jun 2025 14:52:36 GMT | Battery-Free Smart Locks: Energy Harvesting Solutions | Smartopert - Smart-Home.Guru | [Read More](https://medium.com/p/a343e106659f) |
-| Fri, 13 Jun 2025 14:49:00 GMT | EchoLeak Copilot Vulnerability Highlights Broader AI Security Concerns | PatentRiff | [Read More](https://medium.com/p/00e9d498021f) |
-| Fri, 13 Jun 2025 14:46:31 GMT | The 2024 Crypto Crime Report | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/a7c621589510) |
