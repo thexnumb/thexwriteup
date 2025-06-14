@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 16:29:57 GMT | Top 5 Dark Web .onion Links You Should Check Right Now | adityaax | [Read More](https://medium.com/p/25cbcb39618f) |
+| Sat, 14 Jun 2025 16:28:58 GMT | Day 63: Bash Scripting — Functions and Modularity | Agarwaldaksh | [Read More](https://medium.com/p/254d17ed9c73) |
+| Sat, 14 Jun 2025 16:28:40 GMT | How I Got into NASA’s Hall of Fame in Just 4 Hours Using a Simple Google Dork (As a Beginner) | Uday | [Read More](https://medium.com/p/6409fdbc5e72) |
+| Sat, 14 Jun 2025 16:24:09 GMT | When Everyone’s Talking but No One’s Saying Anything | Sumer Lynch - The Hidden Blueprint | [Read More](https://medium.com/p/49586a5a7332) |
 | Sat, 14 Jun 2025 16:12:45 GMT | CVE-2025–45878,CVE-2025–45879 and CVE-2025–45880 Showcase | Marco Nappi | [Read More](https://medium.com/p/67c0e64cc981) |
 | Sat, 14 Jun 2025 16:12:04 GMT | MY JOURNEY BUILDING MY FIRST OFFICE NETWORK | iYÁOmarv_ | [Read More](https://medium.com/p/3e54a5a993cf) |
 | Sat, 14 Jun 2025 16:08:03 GMT | Fortifying the Human Firewall: Mastering Human-Centric Cybersecurity in 2025 | Chetan Seripally | [Read More](https://medium.com/p/e37c999a95a5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 09:51:53 GMT | Decoding the Hill Cipher in Python: Linear Algebra Meets Cryptography | Devansh  Kushwaha | [Read More](https://medium.com/p/aee0e2630a6d) |
 | Sat, 14 Jun 2025 09:48:20 GMT | When One Bug Isn't Enough: Finding a Full House of Vulnerabilities | Yousef Muhammedelkhir | [Read More](https://medium.com/p/68e2d30d9534) |
 | Sat, 14 Jun 2025 09:41:49 GMT | "The Impact of the Iran-Israel Conflict on the Tech World" | Ayeshainam | [Read More](https://medium.com/p/91494120c372) |
-| Sat, 14 Jun 2025 09:37:24 GMT | Free Burpsuite Course With Live Bug Bounty | AJAK Cyber Academy | [Read More](https://medium.com/p/5514586a32fe) |
-| Sat, 14 Jun 2025 09:36:50 GMT | “You Are Already Hacked… You Just Don’t Know It Yet” - Mejbankadir - Be cyber aware - Mejbankadir… | Mejbankadir | [Read More](https://medium.com/p/12347b591986) |
-| Sat, 14 Jun 2025 09:33:48 GMT | Top 5 Ways Guards Prevent Theft & Vandalism | United Guard Force India | [Read More](https://medium.com/p/a35028584362) |
-| Sat, 14 Jun 2025 09:25:03 GMT | Security Best Practices for Java Microservices: From Authentication to Secure Configuration | Devrim Ozcay | [Read More](https://medium.com/p/a2018e7021cc) |
