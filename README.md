@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 06:22:07 GMT | Authentication part-6 : Broken brute-force protection, IP block | Ahmad Sopyan | [Read More](https://medium.com/p/ecbb6f63779f) |
+| Sat, 14 Jun 2025 06:18:56 GMT | From Risk to Reality: The Board’s New Cyber Mandate | JC Gaillard | [Read More](https://medium.com/p/97bcf558f6d0) |
+| Sat, 14 Jun 2025 06:12:28 GMT | Exploring the Smart Home Revolution with SwitchBot | rachel849481 | [Read More](https://medium.com/p/05382fb6fd1d) |
+| Sat, 14 Jun 2025 06:10:29 GMT | Qualities of a Trusted Security Company in Pune | United Guard Force India | [Read More](https://medium.com/p/d65491c99488) |
+| Sat, 14 Jun 2025 06:10:04 GMT | How to Create Your Very Own Azure Active Directory Tenant | Saikat Paul | [Read More](https://medium.com/p/3d6f38cc3631) |
+| Sat, 14 Jun 2025 06:07:50 GMT | From HTTP to HTTPS: A Tiny Shift That Transformed the Web | Bayu Prasetyo | [Read More](https://medium.com/p/7bd35974ccba) |
+| Sat, 14 Jun 2025 06:01:23 GMT | Demystifying Identity Management (IDM): The Backbone of Modern Digital Security | Rajkumar Govindasamy | [Read More](https://medium.com/p/dbb9a03790ab) |
+| Sat, 14 Jun 2025 06:00:36 GMT | The Ultimate Guide to Network Penetration Testing and Security (Complete Network Security… | sixxish | [Read More](https://medium.com/p/c5cf4b2185f1) |
+| Sat, 14 Jun 2025 06:00:36 GMT | Huellas Digitales, Reconocimiento Pasivo | diego  calvo orozco | [Read More](https://medium.com/p/3b2db2f1d64b) |
+| Sat, 14 Jun 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Jun 14, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/de0e9363601f) |
+| Sat, 14 Jun 2025 05:59:26 GMT | How a ₹1 Flipkart Hack Sparked My Cybersecurity Journey (Part 1) | Vinoth Dayalan | [Read More](https://medium.com/p/3397afc424e5) |
+| Sat, 14 Jun 2025 05:43:01 GMT | ⚙️Complete Bug Bounty Tool List ⚙️ | Bl@ckC!pH3r | [Read More](https://medium.com/p/feade4710911) |
 | Sat, 14 Jun 2025 05:35:08 GMT | Earn Good Money via PayPal cashapp Bank western Union Zelle Transfer and Cloned Cards Atm cvv vbv… | Gonzalezablerta | [Read More](https://medium.com/p/07a12a2a1e34) |
 | Sat, 14 Jun 2025 05:34:36 GMT | LLM Security & Red Teaming | Tejas Shinkar | [Read More](https://medium.com/p/4dd8980696e5) |
 | Sat, 14 Jun 2025 05:33:29 GMT | Intro to OSINT Tools | Devni Dharmasooriya | [Read More](https://medium.com/p/9d7ef2a5c1cb) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 19:17:25 GMT | Your Personal Digital Fortress: Simple Steps to Rock Your Online Safety Think about it: how much… | Emmanuel Okon | [Read More](https://medium.com/p/f1b92298d4bd) |
 | Fri, 13 Jun 2025 19:16:49 GMT | Building Trustworthy Chatbots: Privacy Protection and Risk Mitigation Strategies | Eden Hgb | [Read More](https://medium.com/p/2975e169f9f1) |
 | Fri, 13 Jun 2025 19:09:13 GMT | 6 Real-World Tips to Secure Your Docker Containers in Production | Mihir Rajput | [Read More](https://medium.com/p/bc38808cca06) |
-| Fri, 13 Jun 2025 19:02:57 GMT | Fuzzing Behind the WAF | t3ngu42 | [Read More](https://medium.com/p/617e71e586ab) |
-| Fri, 13 Jun 2025 19:01:33 GMT | Are you human? Gotcha! | Cyber Kavy | [Read More](https://medium.com/p/8ecd1a3fd49b) |
-| Fri, 13 Jun 2025 18:58:46 GMT | Validate Your Security Detection Rules | SOCFortress | [Read More](https://medium.com/p/23e90a256ae8) |
-| Fri, 13 Jun 2025 18:58:04 GMT | KALI GPT — Your AI Assistant for Ethical Hacking | Babar Ali Jamali | [Read More](https://medium.com/p/b63dffc4bf97) |
-| Fri, 13 Jun 2025 18:48:44 GMT | Beyond the Tabletop: Introducing Our New Incident Response Readiness Review | Medcrypt | [Read More](https://medium.com/p/29079895c496) |
-| Fri, 13 Jun 2025 18:46:12 GMT | Hacking the Human Firewall: Psychological Exploits in Ethical Hacking and Defence Training | Esom Eze | [Read More](https://medium.com/p/00fde5b890cc) |
-| Fri, 13 Jun 2025 18:31:04 GMT | BITTHEBYTE EAGLE(Linux System Hacking) | The Commoness | [Read More](https://medium.com/p/407da60893d4) |
-| Fri, 13 Jun 2025 18:29:05 GMT | Multi-Factor Authentication (MFA) and HIPAA: What’s Required and What’s Smart | Medcurity | [Read More](https://medium.com/p/ffb01ea8a569) |
-| Fri, 13 Jun 2025 18:26:18 GMT | TryHackMe Write-up: Wireshark — The Basics | Robert Onyango | [Read More](https://medium.com/p/fc31af63f029) |
-| Fri, 13 Jun 2025 18:25:16 GMT | Fine-Tuning PolyCoder on the Devign Dataset for Vulnerability Detection | Wasi Ullah | [Read More](https://medium.com/p/e1345f05c2ce) |
-| Fri, 13 Jun 2025 18:17:51 GMT | Talented, Family-Funded Cybercriminals: The Real Story Behind Smoke-Data | Robert K. McMichen | [Read More](https://medium.com/p/0f6fbaeb6362) |
-| Fri, 13 Jun 2025 18:17:36 GMT | Setup a Pentesting Lab | SACHIN PV | [Read More](https://medium.com/p/1a39cdaeb2e7) |
