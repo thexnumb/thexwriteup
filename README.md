@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 08:33:42 GMT | The Anatomy of an RCE Attack : The Hacker’s Big Score | 127.0.0.1 | [Read More](https://medium.com/p/a22fa2f2dbc6) |
+| Sat, 14 Jun 2025 08:23:51 GMT | Quantum-Safe Web Development: How to Future-Proof Your Code Before It's Too Late | Amaka okoye | [Read More](https://medium.com/p/afc39467894c) |
+| Sat, 14 Jun 2025 08:22:23 GMT | Why Automation Fails After a Certain Point in IT? | Pavan Pathak | [Read More](https://medium.com/p/51d84d9b7870) |
+| Sat, 14 Jun 2025 08:16:36 GMT | ️ The Misuse of Data: What I Learned About Real-World Cyber Threats During My Training | Amritanshu Prashar | [Read More](https://medium.com/p/401de5df93b9) |
 | Sat, 14 Jun 2025 08:10:32 GMT | Top Benefits of Studying Computer Science or Information Technology | Purvitahanda | [Read More](https://medium.com/p/c6e0879007b2) |
 | Sat, 14 Jun 2025 08:10:11 GMT | CISSP Exam Cost in 2025 | Limat Soft Solutions | [Read More](https://medium.com/p/94b9485f6467) |
 | Sat, 14 Jun 2025 08:08:01 GMT | Getting hung up onto something that was no longer there — a grudge lodged in my heart, carried… | writes and wongs | [Read More](https://medium.com/p/a2dc76b7943a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 22:16:36 GMT | Understanding the MITRE ATT&CK Framework: A Beginner to Pro Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c8a2fe0de30e) |
 | Fri, 13 Jun 2025 22:02:11 GMT | ️ DarkGate Malware: A Network Forensics Investigation Using Wireshark & NetworkMiner | Chirag Ghotikar | [Read More](https://medium.com/p/7fea5d94e23e) |
 | Fri, 13 Jun 2025 21:57:13 GMT | WordPress Brute Force Attack Analysis: Deviasi Challenge Write-Up | Ikhwanushofa Effendi | [Read More](https://medium.com/p/2c6efd330018) |
-| Fri, 13 Jun 2025 21:46:35 GMT | The Loneliness of Being the ‘Strong One’: Why Always Being Everyone’s Rock Is Crushing You | Divya Poojari | [Read More](https://medium.com/p/171f4442d95e) |
-| Fri, 13 Jun 2025 21:42:57 GMT | Cloud Journey Reflections | Imane Qouti | [Read More](https://medium.com/p/f9887c87571b) |
-| Fri, 13 Jun 2025 21:24:40 GMT | Friday Edition — Threat Actor Activity — 13/06/25 | SecurityPulse News | [Read More](https://medium.com/p/b98610373406) |
-| Fri, 13 Jun 2025 21:18:34 GMT | Top 3 Cybersecurity News This Week | Wale Adedeji | [Read More](https://medium.com/p/2151b3fb8c08) |
