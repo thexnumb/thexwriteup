@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 13:31:06 GMT | Zero Trust in Practice: Securing Internal Microservice Communication | Jusuf Topic | [Read More](https://medium.com/p/e5cffb6c16ed) |
+| Sat, 14 Jun 2025 13:22:36 GMT | Idea: Reversing Centralization — Web 1.5 | Damian Treil | [Read More](https://medium.com/p/400edf4d926c) |
+| Sat, 14 Jun 2025 13:20:55 GMT | Medical Cybersecurity: The Silent War Inside Our Hospitals | Amol Rangari | [Read More](https://medium.com/p/dc1d67371c3b) |
+| Sat, 14 Jun 2025 13:17:08 GMT | Psst…I’m Still Waiting | KACHE | [Read More](https://medium.com/p/402ba5575fdd) |
 | Sat, 14 Jun 2025 13:10:05 GMT | Inside Active Directory: What Happens After the Breach | Ailnenisaisathwik | [Read More](https://medium.com/p/7c1c0e6952d0) |
 | Sat, 14 Jun 2025 13:02:44 GMT | The Malware Behind the Mask: Fake AI Tools Targeting Tech & Marketing Teams | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d0964b0fee5c) |
 | Sat, 14 Jun 2025 12:57:07 GMT | Day 25 of #60DaysofGRC: What Are Risk Data Sources and Why Do They Matter So Much? | Brittney Ginther | [Read More](https://medium.com/p/33b346e6f7b7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 06:19:06 GMT | Tor Browser: A Gateway to True Anonymity or a Shortcut to Crime? | Bayu Prasetyo | [Read More](https://medium.com/p/54e7d72b1916) |
 | Sat, 14 Jun 2025 06:18:56 GMT | From Risk to Reality: The Board’s New Cyber Mandate | JC Gaillard | [Read More](https://medium.com/p/97bcf558f6d0) |
 | Sat, 14 Jun 2025 06:12:28 GMT | Exploring the Smart Home Revolution with SwitchBot | rachel849481 | [Read More](https://medium.com/p/05382fb6fd1d) |
-| Sat, 14 Jun 2025 06:10:29 GMT | Qualities of a Trusted Security Company in Pune | United Guard Force India | [Read More](https://medium.com/p/d65491c99488) |
-| Sat, 14 Jun 2025 06:10:04 GMT | How to Create Your Very Own Azure Active Directory Tenant | Saikat Paul | [Read More](https://medium.com/p/3d6f38cc3631) |
-| Sat, 14 Jun 2025 06:07:50 GMT | From HTTP to HTTPS: A Tiny Shift That Transformed the Web | Bayu Prasetyo | [Read More](https://medium.com/p/7bd35974ccba) |
-| Sat, 14 Jun 2025 06:01:23 GMT | Demystifying Identity Management (IDM): The Backbone of Modern Digital Security | Rajkumar Govindasamy | [Read More](https://medium.com/p/dbb9a03790ab) |
