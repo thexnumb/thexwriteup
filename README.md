@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 07:03:00 GMT | The Uncharted Waters of My Heart | Nelly | [Read More](https://medium.com/p/77fd7972bdb9) |
+| Sat, 14 Jun 2025 07:01:32 GMT | Let Me Say No to SMS: Why I Want  More Control Over My Own Security | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/0481dbc4e536) |
+| Sat, 14 Jun 2025 06:56:27 GMT | Things we’ve forgotten about the GDPR | Dave Levy | [Read More](https://medium.com/p/f050593fbe59) |
+| Sat, 14 Jun 2025 06:49:16 GMT | The Ultimate Guide to Network Penetration Testing and Security (Complete Network Security… | sixxish | [Read More](https://medium.com/p/321ec39e1509) |
+| Sat, 14 Jun 2025 06:48:50 GMT | IDOR Vulnerability — Sadə Səhv, Böyük Təhlükə | Nijat Aliyev | [Read More](https://medium.com/p/b1dd3d24ed15) |
+| Sat, 14 Jun 2025 06:46:36 GMT | Shift Left, Ship Secure: Building a Bulletproof DevSecOps Pipeline (Bitbucket + Node.js + AWS) | Tim Murkomen | [Read More](https://medium.com/p/2fa978b82522) |
 | Sat, 14 Jun 2025 06:38:18 GMT | AI Endpoint OSINT using FOFA | AbhirupKonwar | [Read More](https://medium.com/p/835bdb0c50de) |
 | Sat, 14 Jun 2025 06:35:14 GMT | The Dark Reality of Crime: A Glimpse into the Unknown | Aarohi Pandey | [Read More](https://medium.com/p/0cc5067d85e4) |
 | Sat, 14 Jun 2025 06:30:58 GMT | Credential Dumping with rundll32.exe :  A Deep Dive into comsvcs.dll & debugcore.dll Exploits | Vinay Gurjar | [Read More](https://medium.com/p/1b1dc203278c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 20:31:32 GMT | Exploiting the ‘Accaademy001’ Vulnerable Machine | musayyab sharif | [Read More](https://medium.com/p/1b4a922e1968) |
 | Fri, 13 Jun 2025 20:26:13 GMT | Traffic Analysis Essentials - THM | Isiah | [Read More](https://medium.com/p/527ca2b98c42) |
 | Fri, 13 Jun 2025 20:25:36 GMT | 247CTF | löca | [Read More](https://medium.com/p/ceaa2ad26aca) |
-| Fri, 13 Jun 2025 20:19:49 GMT | We need to talk about Cybersecurity Certifications.. | Steve Faust | [Read More](https://medium.com/p/e60f16e73074) |
-| Fri, 13 Jun 2025 20:14:56 GMT | Lumma Stealer | Maged Anas | [Read More](https://medium.com/p/cf736ea0df67) |
-| Fri, 13 Jun 2025 20:11:00 GMT | Day 2: Log Analysis Basics: Windows Security Logs - 30 Days SOC Challenge | Abdullah Asim | [Read More](https://medium.com/p/fda752ca074e) |
-| Fri, 13 Jun 2025 19:55:15 GMT | From Zero to $100K in Cybersecurity in 90 Days: A Realistic, Actionable Plan | Krish_cyber | [Read More](https://medium.com/p/69edb195d925) |
-| Fri, 13 Jun 2025 19:41:55 GMT | How to Test “Forgot Password” for Bugs — A Guide for BB Hunters & Pentesters | Medusa | [Read More](https://medium.com/p/4d3043007714) |
-| Fri, 13 Jun 2025 19:37:53 GMT | From Bug Bounty Blahs to Breakthroughs: Navigating the “Never Enough” Trap in Cyber | Leviiatan | [Read More](https://medium.com/p/fcb212072068) |
