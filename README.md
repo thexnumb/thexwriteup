@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 22:29:02 GMT | How to Install Nextcloud Server on Nginx and Secure It using Self-Signed SSL without a Domain Name | Danis Nurmansyah | [Read More](https://medium.com/p/9a0e6ad1386d) |
+| Sat, 14 Jun 2025 22:27:25 GMT | TryHackMe HA Joker CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/ea9bc2179008) |
+| Sat, 14 Jun 2025 22:18:04 GMT | Exploring the Future of Smart Homes with SwitchBot | moorebrian5700 | [Read More](https://medium.com/p/8c5d77f9ba91) |
+| Sat, 14 Jun 2025 22:17:06 GMT | Implementing Micro-Segmentation: The Next Step Beyond Zero Trust | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9834948ac9e8) |
 | Sat, 14 Jun 2025 22:05:40 GMT | Exploring SIEM and security fundamentals on Tryhackme Rooms. | Abel caleb | [Read More](https://medium.com/p/bf65c0b3858f) |
 | Sat, 14 Jun 2025 21:51:45 GMT | Risk and Vulnerability | Elle | [Read More](https://medium.com/p/0f0e6fbc737a) |
 | Sat, 14 Jun 2025 21:41:58 GMT | How a Midnight Doubt Sparked a Cybersecurity Spiral: Malware, Memory & Modern Threats | Ashit Mallick | [Read More](https://medium.com/p/e50e4e98551c) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 12:23:14 GMT | Mastering "Tcpdump": Your Command-Line Network Detective (For Beginners) | Kallabharath | [Read More](https://medium.com/p/265c64e408d8) |
 | Sat, 14 Jun 2025 12:21:34 GMT | Getting Started with Kali Linux: A Beginner’s Guide to Ethical Hacking | Techrefreshing | [Read More](https://medium.com/p/b76bd37d2362) |
 | Sat, 14 Jun 2025 12:20:51 GMT | Trusted Security Guard Company San Jose for Complete Protection | Direct Guard Services | [Read More](https://medium.com/p/e582b8e5d7b5) |
-| Sat, 14 Jun 2025 12:17:56 GMT | ALGOFACT Is Now ISO/IEC 27001 Certified: A New Era of Information Security Excellence | ALGOFACT | [Read More](https://medium.com/p/e4d2d35abeaa) |
-| Sat, 14 Jun 2025 12:14:04 GMT | Apa itu ECC dan WEB3 Cryptography dan ancaman nya? | Rangga Eka | [Read More](https://medium.com/p/8ca1f3f8e4d8) |
-| Sat, 14 Jun 2025 12:12:22 GMT | Why Discord Is Highly Vulnerable to Hacking | David SEHYEON Baek | [Read More](https://medium.com/p/815cbfc2a6ce) |
-| Sat, 14 Jun 2025 12:09:18 GMT | Waspada Email Phishing: Kenali & Lindungi Diri dari Penipuan Online | Imanuel G R Mailangkay | [Read More](https://medium.com/p/42538344f3b8) |
