@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 03:06:01 GMT | Practical Phishing & Threat Analysis for Everyone | Harishkumar Pillai | [Read More](https://medium.com/p/a36aa7e8fefb) |
+| Sat, 14 Jun 2025 03:01:40 GMT | From Alert to Action: How I Handled a Fake Port Scan in My SOC Lab | Manish Rawat | [Read More](https://medium.com/p/b518aa8ad2f9) |
+| Sat, 14 Jun 2025 02:53:27 GMT | Powerful XSS Automation: Combining GF Patterns, Waybackurls, and Dalfox Scanning | イズミー | [Read More](https://medium.com/p/c25fb5d15055) |
+| Sat, 14 Jun 2025 02:47:50 GMT | STOP SCROLLING!!!! You Should’ve Updated Your Chrome 0 Days Ago (CVE-2025–5419) | itsShotgun | [Read More](https://medium.com/p/f1cd6846afe5) |
+| Sat, 14 Jun 2025 02:35:12 GMT | Zero Trust Bukan Cuma Istilah!Cara Baru Lindungi Sistemmu | Dzakwan Efendi | [Read More](https://medium.com/p/7b2cdc2d696c) |
+| Sat, 14 Jun 2025 02:34:10 GMT | Exploring the Smart Home Industry: SwitchBot’s Innovative Smart Lock Solutions | Ozsena | [Read More](https://medium.com/p/00beb0e16188) |
+| Sat, 14 Jun 2025 02:11:22 GMT | AI, Cybersecurity & Startups: The Last Chance for Pakistan’s Economic Revolution | Inayat Hussain | [Read More](https://medium.com/p/42c1aadb9bb4) |
+| Sat, 14 Jun 2025 02:06:38 GMT | Breaking Digital Poverty  How Pakistani Youth Can Build Tech Careers with No Capital | Inayat Hussain | [Read More](https://medium.com/p/8f2ab899f06d) |
+| Sat, 14 Jun 2025 02:03:31 GMT | Day 21: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/76893762234e) |
+| Sat, 14 Jun 2025 01:57:12 GMT | Snapchat: Built for Hackers, Sponsored by Their Own API | A Verity | [Read More](https://medium.com/p/ed9e02ac46ea) |
 | Sat, 14 Jun 2025 01:23:22 GMT | Social Engineering & Cyber Crime: Gabungan Psikologi dan Biologi | Alfajri Hulvi, S.T., M.Kom | [Read More](https://medium.com/p/eabb9a0e572f) |
 | Sat, 14 Jun 2025 01:13:32 GMT | Aviate. Navigate. Communicate. | Mohan Thomas | [Read More](https://medium.com/p/87cc148aa497) |
 | Sat, 14 Jun 2025 00:45:18 GMT | Penggunaan Masscan, Nmap, CrackMapExec, dan Dirsearch dalam Cybersecurity | Dzakwan Efendi | [Read More](https://medium.com/p/103b5f429e82) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 16:22:26 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/2ed9cfa15760) |
 | Fri, 13 Jun 2025 16:17:37 GMT | The BigBlueButton Fortress: How I Defended Students on an EdTech Platform from Digital Pirates… | Freddy D. Alvarez | [Read More](https://medium.com/p/d7f6611f17c1) |
 | Fri, 13 Jun 2025 16:15:52 GMT | When Vulnerability Sits Beside You | Rahma Imtiaz | [Read More](https://medium.com/p/ffe3c9dd6ab6) |
-| Fri, 13 Jun 2025 16:12:46 GMT | Cleartext Protocols 101: How to Connect Anonymously to FTP, Telnet, and Rsync | january1073 | [Read More](https://medium.com/p/2c1001dcbdb0) |
-| Fri, 13 Jun 2025 16:08:35 GMT | Memahami Elliptic Curve Cryptography (ECC) dan Web3 Cryptography Beserta Ancaman Keamanannya | Firhansanad | [Read More](https://medium.com/p/c547712bc619) |
-| Fri, 13 Jun 2025 15:58:56 GMT | Enterprise-Level Identity Auth in a Self-Hosted WAF, SafeLine (and it’s Free) | Maverick Steel | [Read More](https://medium.com/p/b6dbd4f2a67b) |
-| Fri, 13 Jun 2025 15:55:53 GMT | SQL & NoSQL Injection in Node.js: Attacks Developers Often Miss | Bhupesh kumar | [Read More](https://medium.com/p/cb490c0636fb) |
-| Fri, 13 Jun 2025 15:55:29 GMT | Review of Key Elements of the June 6, 2025 Cybersecurity Executive Order | Medcrypt | [Read More](https://medium.com/p/54899a28fd24) |
-| Fri, 13 Jun 2025 15:53:55 GMT | picoCTF Writeup — n0san1ty | 40Days | [Read More](https://medium.com/p/5649603a0f3a) |
-| Fri, 13 Jun 2025 15:47:23 GMT | Multi-Signature Wallets: Secure Your Assets with Multi-Signature Wallets | ECOS | [Read More](https://medium.com/p/3352010aa3ca) |
-| Fri, 13 Jun 2025 15:39:30 GMT | Lock, Key and Code: Unpacking Digital Signing and Cryptography | Natarajan C K | [Read More](https://medium.com/p/1316d1a5b995) |
-| Fri, 13 Jun 2025 15:38:02 GMT | TryHackMe - Linux Memory Analysis - WriteUp | Axoloth | [Read More](https://medium.com/p/48d773e17fe4) |
-| Fri, 13 Jun 2025 15:36:18 GMT | Gatekeeper Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/bc9ed34ba530) |
