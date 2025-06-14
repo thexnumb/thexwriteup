@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 18:10:27 GMT | EDR Atlatma Teknikleri: User-Mode’da PEB Manipülasyonu | Pınar Taşgın | [Read More](https://medium.com/p/4598b58afbad) |
+| Sat, 14 Jun 2025 18:07:32 GMT | Cybersecurity Risks in Digital Asset Funds — And How to Protect Your Investors | CV5 Capital | [Read More](https://medium.com/p/1872bc128e51) |
+| Sat, 14 Jun 2025 18:02:49 GMT | Telegram leaks@ablertgonzalez PayPal bank Cashapp western union Zelle Venmo Transfer dumps tracks… | Albert Gonzalez | [Read More](https://medium.com/p/bbe8e04eb542) |
+| Sat, 14 Jun 2025 18:02:12 GMT | Java Full Stack Developer Roadmap (2025 Edition) | Dakshina | [Read More](https://medium.com/p/ba2314c04007) |
+| Sat, 14 Jun 2025 17:41:49 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/b1aceabebd63) |
+| Sat, 14 Jun 2025 17:26:15 GMT | Mastering Prompt Engineering for LangChain, LangGraph, and AI Agent Applications | Omar Santos | [Read More](https://medium.com/p/e26d85a55f13) |
 | Sat, 14 Jun 2025 17:21:43 GMT | Weekly Roundup — June 14th 2025 | litwtch | [Read More](https://medium.com/p/dc69956e4aa0) |
 | Sat, 14 Jun 2025 17:06:00 GMT | Hire Professional Hackers Near You | Oliver michaelEpl | [Read More](https://medium.com/p/fd7882750650) |
 | Sat, 14 Jun 2025 16:54:43 GMT | CyberDefenders — DanaBot Lab | jon | [Read More](https://medium.com/p/9e075c91aac3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 10:36:24 GMT | ️‍♂️ I Found a Telegram Bot That Handles Fake Emails Like a Pro (And I Had to Talk About It) | PanicAtTheKernel | [Read More](https://medium.com/p/895032f6e3f3) |
 | Sat, 14 Jun 2025 10:34:41 GMT | Understanding ITGC | Anvitha sri | [Read More](https://medium.com/p/4b2388a81160) |
 | Sat, 14 Jun 2025 10:34:34 GMT | Exploring the Benefits of SwitchBot’s Retrofit Smart Door Lock | Ralap Theresa | [Read More](https://medium.com/p/44d78718c377) |
-| Sat, 14 Jun 2025 10:29:53 GMT | How to Choose the Best Cyber Security Course in Bangalore | Ravi Raj | [Read More](https://medium.com/p/55d2404e914c) |
-| Sat, 14 Jun 2025 10:22:38 GMT | How to Recover a Suspended Instagram Account (Even If You Can’t Log In) | Amegh A | [Read More](https://medium.com/p/1edd64322a48) |
-| Sat, 14 Jun 2025 10:18:11 GMT | The European Hackers Who Thought They Were Untouchable in Phuket | David SEHYEON Baek | [Read More](https://medium.com/p/8d0719c72109) |
-| Sat, 14 Jun 2025 10:11:31 GMT | Comparing JWT Authentication Strategies: HTTP-Only Cookies vs LocalStorage | Nijat Aliyev | [Read More](https://medium.com/p/05254ed99722) |
-| Sat, 14 Jun 2025 10:10:27 GMT | Zero-Downtime Deployments: The Ansible Strategy That Never Fails | Saikat Paul | [Read More](https://medium.com/p/1689f96a7439) |
-| Sat, 14 Jun 2025 10:09:55 GMT | A Hacker's Notebook: Real Techniques from the World of Bug Bounty (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/b7272595e681) |
