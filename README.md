@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 07:32:35 GMT | HackTheBox Writeup — Academy | Simardeep Singh | [Read More](https://medium.com/p/688ce5cfd087) |
+| Sat, 14 Jun 2025 07:28:28 GMT | Ghosts in the Network: What Your Digital Footprint Reveals? | Amaya Uththara Weerawardhana | [Read More](https://medium.com/p/0ce57e8b63e5) |
+| Sat, 14 Jun 2025 07:20:21 GMT | Beginner to Advanced Ethical Hacking Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f77b24072706) |
+| Sat, 14 Jun 2025 07:19:58 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2d7e7214cfbe) |
 | Sat, 14 Jun 2025 07:03:00 GMT | The Uncharted Waters of My Heart | Nelly | [Read More](https://medium.com/p/77fd7972bdb9) |
 | Sat, 14 Jun 2025 07:01:32 GMT | Let Me Say No to SMS: Why I Want  More Control Over My Own Security | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/0481dbc4e536) |
 | Sat, 14 Jun 2025 06:56:27 GMT | Things we’ve forgotten about the GDPR | Dave Levy | [Read More](https://medium.com/p/f050593fbe59) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 20:49:31 GMT | HTB Linux Lame | Erik137 | [Read More](https://medium.com/p/d2982abde8bf) |
 | Fri, 13 Jun 2025 20:48:54 GMT | Account Takeover via Facebook OAuth Misconfiguration | Ahmed Elghazaly | [Read More](https://medium.com/p/f5eb1a943873) |
 | Fri, 13 Jun 2025 20:47:40 GMT | Optimizing Cybersecurity: Integrating Lean Six Sigma with Risk Assessment and Infrastructure… | Robertpurpose | [Read More](https://medium.com/p/b09476692c15) |
-| Fri, 13 Jun 2025 20:38:43 GMT | Why Passwordless Authentication Pays: The Economics of Modern Security | Deepak Gupta | [Read More](https://medium.com/p/f86ddb9271e4) |
-| Fri, 13 Jun 2025 20:31:32 GMT | Exploiting the ‘Accaademy001’ Vulnerable Machine | musayyab sharif | [Read More](https://medium.com/p/1b4a922e1968) |
-| Fri, 13 Jun 2025 20:26:13 GMT | Traffic Analysis Essentials - THM | Isiah | [Read More](https://medium.com/p/527ca2b98c42) |
-| Fri, 13 Jun 2025 20:25:36 GMT | 247CTF | löca | [Read More](https://medium.com/p/ceaa2ad26aca) |
