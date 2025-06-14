@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 14:34:48 GMT | ACTRY Write-Up: In-Depth Analysis of Unauthorized Access Attempt | Ikhwanushofa Effendi | [Read More](https://medium.com/p/dfe0b1022daa) |
+| Sat, 14 Jun 2025 14:33:39 GMT | “Kibercinayətkarların Ən Güclü Silahı — C2 İnfrastrukturu və Onun Aşkarlanması” | Hasan Azizov | [Read More](https://medium.com/p/8360801b1653) |
+| Sat, 14 Jun 2025 14:29:31 GMT | Basic SOC Lab Setup on VirtualBox (Win10/11 + Kali Linux) | Hammad Zahid | [Read More](https://medium.com/p/0723f55ae99f) |
+| Sat, 14 Jun 2025 14:24:28 GMT | 7 Cara asyik tapi santai buat mulai Belajar IT | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/5e43feda691c) |
+| Sat, 14 Jun 2025 14:21:15 GMT | Remote attacker to execute arbitrary code | Marco Bytes | [Read More](https://medium.com/p/d96aa9370c77) |
+| Sat, 14 Jun 2025 14:20:45 GMT | Kali GPT: The AI-Powered Game-Changer for Cybersecurity Professionals | Itsmeanzee | [Read More](https://medium.com/p/fc9d4a5f6dbf) |
+| Sat, 14 Jun 2025 14:19:24 GMT | Protected Actions: Shielding Sensitive Operations with Protected Actions in Microsoft Entra | Oludolamu Onimole | [Read More](https://medium.com/p/a89df58f916d) |
+| Sat, 14 Jun 2025 14:16:27 GMT | Setup for Reverse Engineers | Lord Murak | [Read More](https://medium.com/p/090c5ddf868f) |
 | Sat, 14 Jun 2025 14:15:50 GMT | React Security: Client-Side Template Injection Prevention | Rizqi Mulki | [Read More](https://medium.com/p/3da34d827245) |
+| Sat, 14 Jun 2025 14:12:14 GMT | What Your Firewall Isn’t Telling You: Hidden Security Gaps Modern Businesses Can’t Ignore | saurabh cyberinfomines | [Read More](https://medium.com/p/a0b8b7e0b488) |
 | Sat, 14 Jun 2025 14:10:42 GMT | OAuth 2.0 Security: PKCE Implementation and Common Misconfigurations | Rizqi Mulki | [Read More](https://medium.com/p/49a61389e3ad) |
 | Sat, 14 Jun 2025 14:06:48 GMT | SCode Obfuscation vs Security: When Hiding Code Actually Hurts | Rizqi Mulki | [Read More](https://medium.com/p/8462ea1a7536) |
 | Sat, 14 Jun 2025 14:05:01 GMT | Why I Believe Real-Time Payments Are Fintech’s Biggest Innovation | Anastassiya Bayeva | [Read More](https://medium.com/p/15be7c13dac3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 07:51:08 GMT | Why Thane Gated Communities Trust Security Services | united guard | [Read More](https://medium.com/p/238782307b26) |
 | Sat, 14 Jun 2025 07:49:49 GMT | $500 Bounty: XSS via javascript: URLs | Monika sharma | [Read More](https://medium.com/p/a04900631701) |
 | Sat, 14 Jun 2025 07:33:06 GMT | I Hacked a Web App’s Email System with Just One Click  (CSRF Bypass Explained) | Sumanth Yerranagula | [Read More](https://medium.com/p/119ca32dbbda) |
-| Sat, 14 Jun 2025 07:32:35 GMT | HackTheBox Writeup — Academy | Simardeep Singh | [Read More](https://medium.com/p/688ce5cfd087) |
-| Sat, 14 Jun 2025 07:28:28 GMT | Ghosts in the Network: What Your Digital Footprint Reveals? | Amaya Uththara Weerawardhana | [Read More](https://medium.com/p/0ce57e8b63e5) |
-| Sat, 14 Jun 2025 07:20:21 GMT | Beginner to Advanced Ethical Hacking Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f77b24072706) |
-| Sat, 14 Jun 2025 07:19:58 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/2d7e7214cfbe) |
-| Sat, 14 Jun 2025 07:03:00 GMT | The Uncharted Waters of My Heart | Nelly | [Read More](https://medium.com/p/77fd7972bdb9) |
-| Sat, 14 Jun 2025 07:01:32 GMT | Let Me Say No to SMS: Why I Want  More Control Over My Own Security | Anthony (Tony/Pcunix) Lawrence | [Read More](https://medium.com/p/0481dbc4e536) |
-| Sat, 14 Jun 2025 06:56:27 GMT | Things we’ve forgotten about the GDPR | Dave Levy | [Read More](https://medium.com/p/f050593fbe59) |
-| Sat, 14 Jun 2025 06:49:16 GMT | The Ultimate Guide to Network Penetration Testing and Security (Complete Network Security… | sixxish | [Read More](https://medium.com/p/321ec39e1509) |
-| Sat, 14 Jun 2025 06:48:50 GMT | IDOR Vulnerability — Sadə Səhv, Böyük Təhlükə | Nijat Aliyev | [Read More](https://medium.com/p/b1dd3d24ed15) |
