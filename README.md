@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 20:25:06 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/588de47882b1) |
+| Sat, 14 Jun 2025 20:21:46 GMT | Why OpenAI Is That “Toxic Ex” You Need to Stay Away From | Chris Galleta | [Read More](https://medium.com/p/e17f33cdf9c7) |
+| Sat, 14 Jun 2025 20:21:13 GMT | Threat Intelligence Starter Pack | BowTiesAreCool | [Read More](https://medium.com/p/34fb335d1f07) |
+| Sat, 14 Jun 2025 20:21:13 GMT | Are You Getting the Most Out of Your IT Services? See What Mace IT Offers | Susan Clinton | [Read More](https://medium.com/p/da614c029eb3) |
+| Sat, 14 Jun 2025 20:15:08 GMT | Day 22: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/349f463157e9) |
 | Sat, 14 Jun 2025 20:05:12 GMT | In reading… | Melissa Ann Tanksley | [Read More](https://medium.com/p/e3466da99e44) |
 | Sat, 14 Jun 2025 19:48:33 GMT | SAFEPAY Ransomware Disrupts Liberty-Township Municipal Systems in Ohio | Ronit Yadav | [Read More](https://medium.com/p/d516599ded9f) |
 | Sat, 14 Jun 2025 19:36:36 GMT | Automated Alert Response with SOAR Platforms: Examples of XSOAR and TheHive | Esra Kayhan | [Read More](https://medium.com/p/72ba173b6a62) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 11:52:38 GMT | Obfuscated Threats in Plain Sight How JSFireTruck and HelloTDS Exploit Trust to Spread Malware | Siva Gunasekaran | [Read More](https://medium.com/p/3cecf455d864) |
 | Sat, 14 Jun 2025 11:52:17 GMT | Submit your request for Promo Here | DeepDive4learn | [Read More](https://medium.com/p/41325c63abc7) |
 | Sat, 14 Jun 2025 11:42:36 GMT | Portswigger Web Security: File Path Traversal Simple Case | Liam Chambers | [Read More](https://medium.com/p/08aace4ad863) |
-| Sat, 14 Jun 2025 11:41:11 GMT | ADVANCED BUG BOUNTY RECON PLAYBOOK (2025) | Bl@ckC!pH3r | [Read More](https://medium.com/p/3f1e7dbe3c97) |
-| Sat, 14 Jun 2025 11:38:58 GMT | A Beginner’s Guide to the Cybersecurity Capability Maturity Model (C2M2) | Fimber Elemuwa | [Read More](https://medium.com/p/09fe0a66acbf) |
-| Sat, 14 Jun 2025 11:33:25 GMT | TOGAF Enterprise Architect Interview Questions and Answers. | Sumant Khapre | [Read More](https://medium.com/p/c61da63f6f11) |
-| Sat, 14 Jun 2025 11:29:50 GMT | SIEM Buyer’s Guide: Separating Hype from Reality | Soteria Cybersecurity | [Read More](https://medium.com/p/d173fa1caef8) |
-| Sat, 14 Jun 2025 11:26:56 GMT | Cyber security and ethical hacking | Tech Access | [Read More](https://medium.com/p/6824201c5f99) |
