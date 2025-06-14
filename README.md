@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 04:22:24 GMT | How I Passed CompTIA Security+ in 21 Days on a $10 Budget — While Working Full-Time | Maisam Noyan | [Read More](https://medium.com/p/3c79267e09ac) |
+| Sat, 14 Jun 2025 04:06:22 GMT | Oops! That App You Love Might Be Spying on You | Tina Ginn | [Read More](https://medium.com/p/bc7e3a8847de) |
+| Sat, 14 Jun 2025 04:01:35 GMT | How to Use sslscan to Perform In-Depth SSL/TLS Security Scans | YoungerSibling | [Read More](https://medium.com/p/9ef2c81704b6) |
+| Sat, 14 Jun 2025 03:59:49 GMT | Future of Cybersecurity: How Ethical Hacking and Quantum Computing Will Define the Next Digital Era | Eve serra | [Read More](https://medium.com/p/d1dc33eab3a8) |
+| Sat, 14 Jun 2025 03:58:34 GMT | MaAvatar: Step Into a New World of Web3 Expression and Empowerment | Chris | [Read More](https://medium.com/p/9918a94e9776) |
 | Sat, 14 Jun 2025 03:51:27 GMT | The Hidden Cost of Free: How AI, Apps, and Crypto Are Exploiting Your Data, Especially in Africa… | Tony Cletus | [Read More](https://medium.com/p/eb0d425d6fc0) |
 | Sat, 14 Jun 2025 03:49:57 GMT | Why I Don’t Suggest People to Get into Cybersecurity (Unless…) | Vipul Sonule | [Read More](https://medium.com/p/ecb511b5da44) |
 | Sat, 14 Jun 2025 03:31:32 GMT | Shadows of Suspicion: How Hackers Breached the Financial Firewall | Deven Chhajed | [Read More](https://medium.com/p/8cc14ebb5b57) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 16:42:25 GMT | What is Defender for Cloud and How Does It Work? | Techridge Solutions | [Read More](https://medium.com/p/08330019fb85) |
 | Fri, 13 Jun 2025 16:36:12 GMT | Cybersecurity News Review — Week 24 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/e92e788c7d09) |
 | Fri, 13 Jun 2025 16:34:30 GMT | Conquering Procrastination on the Road to CCNA | Sec Savvy | [Read More](https://medium.com/p/c6effc49c846) |
-| Fri, 13 Jun 2025 16:33:30 GMT | What Is a Firewall? Your Cybersecurity Castle Gatekeeper | Pavithraa Deenadayalan | [Read More](https://medium.com/p/84398028cc8c) |
-| Fri, 13 Jun 2025 16:32:30 GMT | Creating a personal VPN using GCP and Terraform | Aditya47x | [Read More](https://medium.com/p/da0feb8896f8) |
-| Fri, 13 Jun 2025 16:31:12 GMT | The Vulnerability Paradox | Hector Gael Bañales Quiñones | [Read More](https://medium.com/p/2dc3cbc6cf11) |
-| Fri, 13 Jun 2025 16:29:38 GMT | Emotional Polaroids | Fe Stepka | [Read More](https://medium.com/p/1082f2ce54aa) |
-| Fri, 13 Jun 2025 16:28:30 GMT | How to Use QR Codes for Multi-Tenant Building Access | Joven A Rodrigues | [Read More](https://medium.com/p/fb873ed74d37) |
