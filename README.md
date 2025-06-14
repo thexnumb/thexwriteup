@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 04:36:01 GMT | Understanding SOC 2 Audit: A Deep Dive into TSC and COSO Framework | The Hackers Meetup | [Read More](https://medium.com/p/5058cb591bb8) |
+| Sat, 14 Jun 2025 04:30:51 GMT | Exploiting Android Components in Seconds | Sandeep Wawdane | [Read More](https://medium.com/p/ea6b6f06f86d) |
+| Sat, 14 Jun 2025 04:25:45 GMT | Understanding OIDC in Minutes | Saikat Paul | [Read More](https://medium.com/p/e9f97cd005db) |
 | Sat, 14 Jun 2025 04:22:24 GMT | How I Passed CompTIA Security+ in 21 Days on a $10 Budget — While Working Full-Time | Maisam Noyan | [Read More](https://medium.com/p/3c79267e09ac) |
 | Sat, 14 Jun 2025 04:06:22 GMT | Oops! That App You Love Might Be Spying on You | Tina Ginn | [Read More](https://medium.com/p/bc7e3a8847de) |
 | Sat, 14 Jun 2025 04:01:35 GMT | How to Use sslscan to Perform In-Depth SSL/TLS Security Scans | YoungerSibling | [Read More](https://medium.com/p/9ef2c81704b6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 16:44:29 GMT | The AI Ghost in the Machine: Hacking Zero-Trust Supply Chains from the Attacker’s Mindset (with… | Dwaipyan Mandal | [Read More](https://medium.com/p/dac1426750f1) |
 | Fri, 13 Jun 2025 16:44:21 GMT | Before You Build, Think About This | Vichaar Tech | [Read More](https://medium.com/p/fb42f1a6d287) |
 | Fri, 13 Jun 2025 16:43:29 GMT | AI Agents as Attack Vectors: Deconstructing GitHub MCP Exploit & Proposing ASOF Architecture. | Saad Khalid | [Read More](https://medium.com/p/5fe6b9e5fe93) |
-| Fri, 13 Jun 2025 16:42:25 GMT | What is Defender for Cloud and How Does It Work? | Techridge Solutions | [Read More](https://medium.com/p/08330019fb85) |
-| Fri, 13 Jun 2025 16:36:12 GMT | Cybersecurity News Review — Week 24 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/e92e788c7d09) |
-| Fri, 13 Jun 2025 16:34:30 GMT | Conquering Procrastination on the Road to CCNA | Sec Savvy | [Read More](https://medium.com/p/c6effc49c846) |
