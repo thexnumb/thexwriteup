@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 20:05:12 GMT | In reading… | Melissa Ann Tanksley | [Read More](https://medium.com/p/e3466da99e44) |
+| Sat, 14 Jun 2025 19:48:33 GMT | SAFEPAY Ransomware Disrupts Liberty-Township Municipal Systems in Ohio | Ronit Yadav | [Read More](https://medium.com/p/d516599ded9f) |
+| Sat, 14 Jun 2025 19:36:36 GMT | Automated Alert Response with SOAR Platforms: Examples of XSOAR and TheHive | Esra Kayhan | [Read More](https://medium.com/p/72ba173b6a62) |
+| Sat, 14 Jun 2025 19:36:03 GMT | Bug Bounty Guide: Finding and Exploiting Leaked .git/ Directories | Medusa | [Read More](https://medium.com/p/1e05dc520bf5) |
 | Sat, 14 Jun 2025 19:12:58 GMT | Mobile Phones and Cancer Risk | Khalig Hesenov | [Read More](https://medium.com/p/28ed4d481042) |
 | Sat, 14 Jun 2025 19:06:00 GMT | ECC dan Web3 Cryptography: Pondasi Keamanan Digital di Era Desentralisasi | Darmayanti | [Read More](https://medium.com/p/2c655be0e4a3) |
 | Sat, 14 Jun 2025 19:01:55 GMT | The Importance of Information Warfare in Modern Times | Akul Malhotra | [Read More](https://medium.com/p/8f66e63cdd74) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 11:33:25 GMT | TOGAF Enterprise Architect Interview Questions and Answers. | Sumant Khapre | [Read More](https://medium.com/p/c61da63f6f11) |
 | Sat, 14 Jun 2025 11:29:50 GMT | SIEM Buyer’s Guide: Separating Hype from Reality | Soteria Cybersecurity | [Read More](https://medium.com/p/d173fa1caef8) |
 | Sat, 14 Jun 2025 11:26:56 GMT | Cyber security and ethical hacking | Tech Access | [Read More](https://medium.com/p/6824201c5f99) |
-| Sat, 14 Jun 2025 11:25:21 GMT | ETHICAL CONSIDERATIONS vurses MATHEMATICAL MODELS | Luka Obuya | [Read More](https://medium.com/p/7e08c62f5414) |
-| Sat, 14 Jun 2025 11:23:55 GMT | Goodnight Echoes | Boluwatife Lash | [Read More](https://medium.com/p/0f4603573c5a) |
-| Sat, 14 Jun 2025 11:14:03 GMT | SOC EXPLAINED - TryHackMe SOC Fundamentals | Motasem Hamdan | [Read More](https://medium.com/p/50c2f02708d6) |
-| Sat, 14 Jun 2025 11:13:00 GMT | Ethical Hacking Course for Working Professionals | Crawsec | [Read More](https://medium.com/p/0e2f88c9b727) |
