@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 14:15:50 GMT | React Security: Client-Side Template Injection Prevention | Rizqi Mulki | [Read More](https://medium.com/p/3da34d827245) |
+| Sat, 14 Jun 2025 14:10:42 GMT | OAuth 2.0 Security: PKCE Implementation and Common Misconfigurations | Rizqi Mulki | [Read More](https://medium.com/p/49a61389e3ad) |
+| Sat, 14 Jun 2025 14:06:48 GMT | SCode Obfuscation vs Security: When Hiding Code Actually Hurts | Rizqi Mulki | [Read More](https://medium.com/p/8462ea1a7536) |
+| Sat, 14 Jun 2025 14:05:01 GMT | Why I Believe Real-Time Payments Are Fintech’s Biggest Innovation | Anastassiya Bayeva | [Read More](https://medium.com/p/15be7c13dac3) |
+| Sat, 14 Jun 2025 14:03:52 GMT | Shodan.io on TryHackMe (In Short) | Divita Jain | [Read More](https://medium.com/p/bfd660454e47) |
+| Sat, 14 Jun 2025 13:51:13 GMT | Phishing_Bypass_2FA-Awareness | SoNaJaa_!! | [Read More](https://medium.com/p/5bf919063d52) |
+| Sat, 14 Jun 2025 13:47:00 GMT | Gourlex: A must-needed tool for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/d33dec8720b1) |
+| Sat, 14 Jun 2025 13:45:00 GMT | Stop Exposing Your Data: How to Secure Azure Databricks the Right Way | Camille Fully | [Read More](https://medium.com/p/0ce8f4e2526e) |
+| Sat, 14 Jun 2025 13:44:04 GMT | How I Built a “Security Camera” for My AWS Account with CloudTrail | Aashishchaudhari | [Read More](https://medium.com/p/573f7f850f43) |
 | Sat, 14 Jun 2025 13:31:06 GMT | Zero Trust in Practice: Securing Internal Microservice Communication | Jusuf Topic | [Read More](https://medium.com/p/e5cffb6c16ed) |
 | Sat, 14 Jun 2025 13:22:36 GMT | Idea: Reversing Centralization — Web 1.5 | Damian Treil | [Read More](https://medium.com/p/400edf4d926c) |
 | Sat, 14 Jun 2025 13:20:55 GMT | Medical Cybersecurity: The Silent War Inside Our Hospitals | Amol Rangari | [Read More](https://medium.com/p/dc1d67371c3b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 06:56:27 GMT | Things we’ve forgotten about the GDPR | Dave Levy | [Read More](https://medium.com/p/f050593fbe59) |
 | Sat, 14 Jun 2025 06:49:16 GMT | The Ultimate Guide to Network Penetration Testing and Security (Complete Network Security… | sixxish | [Read More](https://medium.com/p/321ec39e1509) |
 | Sat, 14 Jun 2025 06:48:50 GMT | IDOR Vulnerability — Sadə Səhv, Böyük Təhlükə | Nijat Aliyev | [Read More](https://medium.com/p/b1dd3d24ed15) |
-| Sat, 14 Jun 2025 06:46:36 GMT | Shift Left, Ship Secure: Building a Bulletproof DevSecOps Pipeline (Bitbucket + Node.js + AWS) | Tim Murkomen | [Read More](https://medium.com/p/2fa978b82522) |
-| Sat, 14 Jun 2025 06:38:18 GMT | AI Endpoint OSINT using FOFA | AbhirupKonwar | [Read More](https://medium.com/p/835bdb0c50de) |
-| Sat, 14 Jun 2025 06:35:14 GMT | The Dark Reality of Crime: A Glimpse into the Unknown | Aarohi Pandey | [Read More](https://medium.com/p/0cc5067d85e4) |
-| Sat, 14 Jun 2025 06:30:58 GMT | Credential Dumping with rundll32.exe :  A Deep Dive into comsvcs.dll & debugcore.dll Exploits | Vinay Gurjar | [Read More](https://medium.com/p/1b1dc203278c) |
-| Sat, 14 Jun 2025 06:29:01 GMT | you can win the battle, but you’ll never win the war | rein | [Read More](https://medium.com/p/452b4880c8f2) |
-| Sat, 14 Jun 2025 06:22:07 GMT | Authentication part-6 : Broken brute-force protection, IP block | Ahmad Sopyan | [Read More](https://medium.com/p/ecbb6f63779f) |
-| Sat, 14 Jun 2025 06:19:06 GMT | Tor Browser: A Gateway to True Anonymity or a Shortcut to Crime? | Bayu Prasetyo | [Read More](https://medium.com/p/54e7d72b1916) |
-| Sat, 14 Jun 2025 06:18:56 GMT | From Risk to Reality: The Board’s New Cyber Mandate | JC Gaillard | [Read More](https://medium.com/p/97bcf558f6d0) |
-| Sat, 14 Jun 2025 06:12:28 GMT | Exploring the Smart Home Revolution with SwitchBot | rachel849481 | [Read More](https://medium.com/p/05382fb6fd1d) |
