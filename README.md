@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 05:08:40 GMT | Top Website Security Tips: How to Keep Your Website Safe from Hackers | Webcart | [Read More](https://medium.com/p/72137cb10062) |
+| Sat, 14 Jun 2025 05:08:32 GMT | Building a Password Strength Classifier | Devni Dharmasooriya | [Read More](https://medium.com/p/56b5d227da4c) |
+| Sat, 14 Jun 2025 05:03:33 GMT | Best Career Paths in the IT Department after 12th | Evision Technoserve | [Read More](https://medium.com/p/eb142ed06c1a) |
+| Sat, 14 Jun 2025 04:51:40 GMT | My First 3 Bug Bounty Reports — From Zero to Real-World Findings | Sanskruti | [Read More](https://medium.com/p/218daa967194) |
+| Sat, 14 Jun 2025 04:43:12 GMT | Learn Azure OIDC | Saikat Paul | [Read More](https://medium.com/p/94c62f01acf7) |
 | Sat, 14 Jun 2025 04:36:01 GMT | Understanding SOC 2 Audit: A Deep Dive into TSC and COSO Framework | The Hackers Meetup | [Read More](https://medium.com/p/5058cb591bb8) |
 | Sat, 14 Jun 2025 04:30:51 GMT | Exploiting Android Components in Seconds | Sandeep Wawdane | [Read More](https://medium.com/p/ea6b6f06f86d) |
 | Sat, 14 Jun 2025 04:25:45 GMT | Understanding OIDC in Minutes | Saikat Paul | [Read More](https://medium.com/p/e9f97cd005db) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 17:57:42 GMT | Designing Secure Systems with Node.js: A Beginner’s Take on Aware Design Patterns | Abdulrahmen benfarhat | [Read More](https://medium.com/p/bde47a771f18) |
 | Fri, 13 Jun 2025 17:07:46 GMT | Identity and Access Management (IAM) Setup with Keycloak | Halimah Olaolohun Abdul-Azeez | [Read More](https://medium.com/p/6c615bfea1a8) |
 | Fri, 13 Jun 2025 17:06:28 GMT | Cybersecurity Career Path: What I’m Learning as a Student | Chordiyajiya | [Read More](https://medium.com/p/5497a50e6948) |
-| Fri, 13 Jun 2025 17:01:35 GMT | Exposing an OAuth Token Weakness in Amazon’s Mobile App: A Responsible Disclosure Journey | C. Oscar Lawshea | [Read More](https://medium.com/p/3b967ab8134f) |
-| Fri, 13 Jun 2025 16:55:10 GMT | Friendly Fire: When Gamified UX Undermines Cybersecurity | MrsNo1Special | [Read More](https://medium.com/p/045036ea084d) |
-| Fri, 13 Jun 2025 16:44:29 GMT | The AI Ghost in the Machine: Hacking Zero-Trust Supply Chains from the Attacker’s Mindset (with… | Dwaipyan Mandal | [Read More](https://medium.com/p/dac1426750f1) |
-| Fri, 13 Jun 2025 16:44:21 GMT | Before You Build, Think About This | Vichaar Tech | [Read More](https://medium.com/p/fb42f1a6d287) |
-| Fri, 13 Jun 2025 16:43:29 GMT | AI Agents as Attack Vectors: Deconstructing GitHub MCP Exploit & Proposing ASOF Architecture. | Saad Khalid | [Read More](https://medium.com/p/5fe6b9e5fe93) |
