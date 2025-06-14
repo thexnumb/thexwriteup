@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 10:34:41 GMT | Understanding ITGC | Anvitha sri | [Read More](https://medium.com/p/4b2388a81160) |
+| Sat, 14 Jun 2025 10:34:34 GMT | Exploring the Benefits of SwitchBot’s Retrofit Smart Door Lock | Ralap Theresa | [Read More](https://medium.com/p/44d78718c377) |
+| Sat, 14 Jun 2025 10:29:53 GMT | How to Choose the Best Cyber Security Course in Bangalore | Ravi Raj | [Read More](https://medium.com/p/55d2404e914c) |
+| Sat, 14 Jun 2025 10:22:38 GMT | How to Recover a Suspended Instagram Account (Even If You Can’t Log In) | Amegh A | [Read More](https://medium.com/p/1edd64322a48) |
+| Sat, 14 Jun 2025 10:18:11 GMT | The European Hackers Who Thought They Were Untouchable in Phuket | David SEHYEON Baek | [Read More](https://medium.com/p/8d0719c72109) |
 | Sat, 14 Jun 2025 10:11:31 GMT | Comparing JWT Authentication Strategies: HTTP-Only Cookies vs LocalStorage | Nijat Aliyev | [Read More](https://medium.com/p/05254ed99722) |
 | Sat, 14 Jun 2025 10:10:27 GMT | Zero-Downtime Deployments: The Ansible Strategy That Never Fails | Saikat Paul | [Read More](https://medium.com/p/1689f96a7439) |
 | Sat, 14 Jun 2025 10:09:55 GMT | A Hacker's Notebook: Real Techniques from the World of Bug Bounty (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/b7272595e681) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 02:34:10 GMT | Exploring the Smart Home Industry: SwitchBot’s Innovative Smart Lock Solutions | Ozsena | [Read More](https://medium.com/p/00beb0e16188) |
 | Sat, 14 Jun 2025 02:11:22 GMT | AI, Cybersecurity & Startups: The Last Chance for Pakistan’s Economic Revolution | Inayat Hussain | [Read More](https://medium.com/p/42c1aadb9bb4) |
 | Sat, 14 Jun 2025 02:06:38 GMT | Breaking Digital Poverty  How Pakistani Youth Can Build Tech Careers with No Capital | Inayat Hussain | [Read More](https://medium.com/p/8f2ab899f06d) |
-| Sat, 14 Jun 2025 02:03:31 GMT | Day 21: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/76893762234e) |
-| Sat, 14 Jun 2025 01:57:12 GMT | Snapchat: Built for Hackers, Sponsored by Their Own API | A Verity | [Read More](https://medium.com/p/ed9e02ac46ea) |
-| Sat, 14 Jun 2025 01:23:22 GMT | Social Engineering & Cyber Crime: Gabungan Psikologi dan Biologi | Alfajri Hulvi, S.T., M.Kom | [Read More](https://medium.com/p/eabb9a0e572f) |
-| Sat, 14 Jun 2025 01:13:32 GMT | Aviate. Navigate. Communicate. | Mohan Thomas | [Read More](https://medium.com/p/87cc148aa497) |
-| Sat, 14 Jun 2025 00:45:18 GMT | Penggunaan Masscan, Nmap, CrackMapExec, dan Dirsearch dalam Cybersecurity | Dzakwan Efendi | [Read More](https://medium.com/p/103b5f429e82) |
