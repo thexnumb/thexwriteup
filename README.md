@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 08:10:32 GMT | Top Benefits of Studying Computer Science or Information Technology | Purvitahanda | [Read More](https://medium.com/p/c6e0879007b2) |
+| Sat, 14 Jun 2025 08:10:11 GMT | CISSP Exam Cost in 2025 | Limat Soft Solutions | [Read More](https://medium.com/p/94b9485f6467) |
+| Sat, 14 Jun 2025 08:08:01 GMT | Getting hung up onto something that was no longer there — a grudge lodged in my heart, carried… | writes and wongs | [Read More](https://medium.com/p/a2dc76b7943a) |
+| Sat, 14 Jun 2025 08:01:40 GMT | OWASP Top 10–2020 vs. 2025: Was hat sich geändert? | mertes.dev | [Read More](https://medium.com/p/007e461e5f74) |
+| Sat, 14 Jun 2025 08:01:04 GMT | The Invisible Skill Most Ethical Hackers Skip (And Why It’s Costing Them Everything) | TechCapacity | [Read More](https://medium.com/p/bda9cb9b46ea) |
+| Sat, 14 Jun 2025 07:54:26 GMT | I Almost Missed This WAF Bypass Here is What I Learned | Rahimuddin Alrashel | [Read More](https://medium.com/p/9c471867b2aa) |
+| Sat, 14 Jun 2025 07:51:08 GMT | Why Thane Gated Communities Trust Security Services | united guard | [Read More](https://medium.com/p/238782307b26) |
+| Sat, 14 Jun 2025 07:49:49 GMT | $500 Bounty: XSS via javascript: URLs | Monika sharma | [Read More](https://medium.com/p/a04900631701) |
+| Sat, 14 Jun 2025 07:33:06 GMT | I Hacked a Web App’s Email System with Just One Click  (CSRF Bypass Explained) | Sumanth Yerranagula | [Read More](https://medium.com/p/119ca32dbbda) |
 | Sat, 14 Jun 2025 07:32:35 GMT | HackTheBox Writeup — Academy | Simardeep Singh | [Read More](https://medium.com/p/688ce5cfd087) |
 | Sat, 14 Jun 2025 07:28:28 GMT | Ghosts in the Network: What Your Digital Footprint Reveals? | Amaya Uththara Weerawardhana | [Read More](https://medium.com/p/0ce57e8b63e5) |
 | Sat, 14 Jun 2025 07:20:21 GMT | Beginner to Advanced Ethical Hacking Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/f77b24072706) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 21:42:57 GMT | Cloud Journey Reflections | Imane Qouti | [Read More](https://medium.com/p/f9887c87571b) |
 | Fri, 13 Jun 2025 21:24:40 GMT | Friday Edition — Threat Actor Activity — 13/06/25 | SecurityPulse News | [Read More](https://medium.com/p/b98610373406) |
 | Fri, 13 Jun 2025 21:18:34 GMT | Top 3 Cybersecurity News This Week | Wale Adedeji | [Read More](https://medium.com/p/2151b3fb8c08) |
-| Fri, 13 Jun 2025 21:16:32 GMT | Top 10 unsolved cybersecurity issues with evolving AI based solutions | Kiran Maraju | [Read More](https://medium.com/p/390d250d3826) |
-| Fri, 13 Jun 2025 20:58:49 GMT | War Studies Research №3: Using Monty Python and the Holy Grail to Consider Postmodernism and Modern… | Ben Zweibelson, PhD | [Read More](https://medium.com/p/0e9a96fc1a31) |
-| Fri, 13 Jun 2025 20:57:32 GMT | What Hackers Know About You — and You Don’t | Code With Hannan | [Read More](https://medium.com/p/d7c1ffbc7bad) |
-| Fri, 13 Jun 2025 20:54:51 GMT | Why I Chose Cybersecurity as aHobby (And Haw You can too) | YOUSSEF | [Read More](https://medium.com/p/ccb2758c665f) |
-| Fri, 13 Jun 2025 20:54:48 GMT | WPAD (Web Proxy Auto-Discovery Protocol) | Kiber Təhlükəsizlik | [Read More](https://medium.com/p/105dee09db8a) |
-| Fri, 13 Jun 2025 20:52:22 GMT | Behind the Scenes of Phishing Attacks: How Hackers Trick You and What You Can Do About It | David Ajuzie | [Read More](https://medium.com/p/0b52df34ac2d) |
-| Fri, 13 Jun 2025 20:49:31 GMT | HTB Linux Lame | Erik137 | [Read More](https://medium.com/p/d2982abde8bf) |
-| Fri, 13 Jun 2025 20:48:54 GMT | Account Takeover via Facebook OAuth Misconfiguration | Ahmed Elghazaly | [Read More](https://medium.com/p/f5eb1a943873) |
-| Fri, 13 Jun 2025 20:47:40 GMT | Optimizing Cybersecurity: Integrating Lean Six Sigma with Risk Assessment and Infrastructure… | Robertpurpose | [Read More](https://medium.com/p/b09476692c15) |
