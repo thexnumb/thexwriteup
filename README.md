@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 19:06:00 GMT | ECC dan Web3 Cryptography: Pondasi Keamanan Digital di Era Desentralisasi | Darmayanti | [Read More](https://medium.com/p/2c655be0e4a3) |
+| Sat, 14 Jun 2025 19:01:55 GMT | The Importance of Information Warfare in Modern Times | Akul Malhotra | [Read More](https://medium.com/p/8f66e63cdd74) |
+| Sat, 14 Jun 2025 18:51:04 GMT | Exposing Sensitive Data via Web Cache Deception | Ahmed Elghazaly | [Read More](https://medium.com/p/23bc41756746) |
+| Sat, 14 Jun 2025 18:47:44 GMT | i think i’m finally meeting myself | The Life Draft | [Read More](https://medium.com/p/e3e8d17a372a) |
 | Sat, 14 Jun 2025 18:10:27 GMT | EDR Atlatma Teknikleri: User-Mode’da PEB Manipülasyonu | Pınar Taşgın | [Read More](https://medium.com/p/4598b58afbad) |
 | Sat, 14 Jun 2025 18:07:32 GMT | Cybersecurity Risks in Digital Asset Funds — And How to Protect Your Investors | CV5 Capital | [Read More](https://medium.com/p/1872bc128e51) |
 | Sat, 14 Jun 2025 18:02:49 GMT | Telegram leaks@ablertgonzalez PayPal bank Cashapp western union Zelle Venmo Transfer dumps tracks… | Albert Gonzalez | [Read More](https://medium.com/p/bbe8e04eb542) |
@@ -67,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 13:45:00 GMT | Stop Exposing Your Data: How to Secure Azure Databricks the Right Way | Camille Fully | [Read More](https://medium.com/p/0ce8f4e2526e) |
 | Sat, 14 Jun 2025 13:44:04 GMT | How I Built a “Security Camera” for My AWS Account with CloudTrail | Aashishchaudhari | [Read More](https://medium.com/p/573f7f850f43) |
 | Sat, 14 Jun 2025 13:31:06 GMT | Zero Trust in Practice: Securing Internal Microservice Communication | Jusuf Topic | [Read More](https://medium.com/p/e5cffb6c16ed) |
+| Sat, 14 Jun 2025 13:22:49 GMT | Bypass IP Whitelisting by Abusing Trusted Flows | Kabi_777 | [Read More](https://medium.com/p/069f1aa415c0) |
 | Sat, 14 Jun 2025 13:22:36 GMT | Idea: Reversing Centralization — Web 1.5 | Damian Treil | [Read More](https://medium.com/p/400edf4d926c) |
 | Sat, 14 Jun 2025 13:20:55 GMT | Medical Cybersecurity: The Silent War Inside Our Hospitals | Amol Rangari | [Read More](https://medium.com/p/dc1d67371c3b) |
 | Sat, 14 Jun 2025 13:17:08 GMT | Psst…I’m Still Waiting | KACHE | [Read More](https://medium.com/p/402ba5575fdd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 11:13:00 GMT | Ethical Hacking Course for Working Professionals | Crawsec | [Read More](https://medium.com/p/0e2f88c9b727) |
 | Sat, 14 Jun 2025 11:11:52 GMT | Platform Engineering in 2025: Why 80% of Enterprises Are Making the Shift | Cesar Schneider | [Read More](https://medium.com/p/b8b4c6124c51) |
 | Sat, 14 Jun 2025 11:04:11 GMT | Top 8 Cybersecurity Domains Every Professional Should Master in 2025 | Judit babu | [Read More](https://medium.com/p/f957bb9383bf) |
-| Sat, 14 Jun 2025 11:03:04 GMT | How to Decode Windows Security Logs Like a Pro Investigator | Bl@ckC!pH3r | [Read More](https://medium.com/p/aee068a512ca) |
-| Sat, 14 Jun 2025 11:02:37 GMT | Resource-based Policy for DynamoDB Table | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/65f0979c9e60) |
-| Sat, 14 Jun 2025 10:36:24 GMT | ️‍♂️ I Found a Telegram Bot That Handles Fake Emails Like a Pro (And I Had to Talk About It) | PanicAtTheKernel | [Read More](https://medium.com/p/895032f6e3f3) |
-| Sat, 14 Jun 2025 10:34:41 GMT | Understanding ITGC | Anvitha sri | [Read More](https://medium.com/p/4b2388a81160) |
-| Sat, 14 Jun 2025 10:34:34 GMT | Exploring the Benefits of SwitchBot’s Retrofit Smart Door Lock | Ralap Theresa | [Read More](https://medium.com/p/44d78718c377) |
