@@ -12,11 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 23:11:47 GMT | Crypto Security in 2025: Are You Prepared? | Novikov Kirill | [Read More](https://medium.com/p/bf668e59197a) |
+| Sat, 14 Jun 2025 23:10:10 GMT | Embrace the Future with SwitchBot’s Digital Smart Door Lock | marc605830 | [Read More](https://medium.com/p/2a1e73c8926f) |
+| Sat, 14 Jun 2025 22:51:35 GMT | Mauzware’s TryHackMe CTF Walkthrough Playlist | mauzware | [Read More](https://medium.com/p/668b6309573f) |
+| Sat, 14 Jun 2025 22:46:44 GMT | How I Turned RFI Into RCE in 48 Hours for Just $200 | Ibtissam hammadi | [Read More](https://medium.com/p/215b4be27425) |
+| Sat, 14 Jun 2025 22:31:30 GMT | Cosmic Downtime Simulation for Blockchain Resilience: Stress Testing the Immutable in a Mutable… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a18515a5e308) |
 | Sat, 14 Jun 2025 22:29:02 GMT | How to Install Nextcloud Server on Nginx and Secure It using Self-Signed SSL without a Domain Name | Danis Nurmansyah | [Read More](https://medium.com/p/9a0e6ad1386d) |
 | Sat, 14 Jun 2025 22:27:25 GMT | TryHackMe HA Joker CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/ea9bc2179008) |
 | Sat, 14 Jun 2025 22:18:04 GMT | Exploring the Future of Smart Homes with SwitchBot | moorebrian5700 | [Read More](https://medium.com/p/8c5d77f9ba91) |
 | Sat, 14 Jun 2025 22:17:06 GMT | Implementing Micro-Segmentation: The Next Step Beyond Zero Trust | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9834948ac9e8) |
 | Sat, 14 Jun 2025 22:05:40 GMT | Exploring SIEM and security fundamentals on Tryhackme Rooms. | Abel caleb | [Read More](https://medium.com/p/bf65c0b3858f) |
+| Sat, 14 Jun 2025 22:00:56 GMT | Human to Human | Lucy Hughes | [Read More](https://medium.com/p/a955a454cd18) |
 | Sat, 14 Jun 2025 21:51:45 GMT | Risk and Vulnerability | Elle | [Read More](https://medium.com/p/0f0e6fbc737a) |
 | Sat, 14 Jun 2025 21:41:58 GMT | How a Midnight Doubt Sparked a Cybersecurity Spiral: Malware, Memory & Modern Threats | Ashit Mallick | [Read More](https://medium.com/p/e50e4e98551c) |
 | Sat, 14 Jun 2025 21:38:34 GMT | The Complete Kubernetes Service Accounts Guide: From Basics to Advanced Enterprise Implementation | Salwan Mohamed | [Read More](https://medium.com/p/28f9c629e21f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 12:41:34 GMT | N7 Web Application CTF Walkthrough: A Step-by-Step Pentesting | Sahl | [Read More](https://medium.com/p/156d04fb7b6d) |
 | Sat, 14 Jun 2025 12:38:48 GMT | Why SSL Is Essential for Any Website | Shubham Pathak | [Read More](https://medium.com/p/c7c18f78bc80) |
 | Sat, 14 Jun 2025 12:37:47 GMT | Frosty Key Shares | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0e007bca963e) |
-| Sat, 14 Jun 2025 12:35:01 GMT | Guidelines for Artifact Collection: Doing Investigations the Right Way | Jaymar Lagrimas | [Read More](https://medium.com/p/f458eabee45d) |
-| Sat, 14 Jun 2025 12:30:44 GMT | Membongkar Fondasi Framework Frontend: Template Engine, Data Binding, dan Dependency Injection | Bagaskara adhi pradana | [Read More](https://medium.com/p/6dc4751c1996) |
-| Sat, 14 Jun 2025 12:27:49 GMT | ️ Ferramentas Gratuitas para Diagnóstico e Monitorização de Redes | Rúben da luz | [Read More](https://medium.com/p/94b69421a656) |
-| Sat, 14 Jun 2025 12:23:14 GMT | Mastering "Tcpdump": Your Command-Line Network Detective (For Beginners) | Kallabharath | [Read More](https://medium.com/p/265c64e408d8) |
-| Sat, 14 Jun 2025 12:21:34 GMT | Getting Started with Kali Linux: A Beginner’s Guide to Ethical Hacking | Techrefreshing | [Read More](https://medium.com/p/b76bd37d2362) |
-| Sat, 14 Jun 2025 12:20:51 GMT | Trusted Security Guard Company San Jose for Complete Protection | Direct Guard Services | [Read More](https://medium.com/p/e582b8e5d7b5) |
