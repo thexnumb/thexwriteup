@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 17:06:00 GMT | Hire Professional Hackers Near You | Oliver michaelEpl | [Read More](https://medium.com/p/fd7882750650) |
+| Sat, 14 Jun 2025 16:54:43 GMT | CyberDefenders — DanaBot Lab | jon | [Read More](https://medium.com/p/9e075c91aac3) |
+| Sat, 14 Jun 2025 16:53:20 GMT | CyberDefenders — Red Stealer Blue Team Lab | jon | [Read More](https://medium.com/p/71af611d059c) |
+| Sat, 14 Jun 2025 16:48:39 GMT | Siber Saldırı Analizi — 4 | Ali Ekber KARA | [Read More](https://medium.com/p/6e9e1bbe2ada) |
+| Sat, 14 Jun 2025 16:44:01 GMT | Escaping the Matrix — Reclaiming Autonomy in the Age of Digital Control | Pentestiverse | [Read More](https://medium.com/p/c2733c01d49d) |
 | Sat, 14 Jun 2025 16:29:57 GMT | Top 5 Dark Web .onion Links You Should Check Right Now | adityaax | [Read More](https://medium.com/p/25cbcb39618f) |
 | Sat, 14 Jun 2025 16:28:58 GMT | Day 63: Bash Scripting — Functions and Modularity | Agarwaldaksh | [Read More](https://medium.com/p/254d17ed9c73) |
 | Sat, 14 Jun 2025 16:28:40 GMT | How I Got into NASA’s Hall of Fame in Just 4 Hours Using a Simple Google Dork (As a Beginner) | Uday | [Read More](https://medium.com/p/6409fdbc5e72) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 10:10:27 GMT | Zero-Downtime Deployments: The Ansible Strategy That Never Fails | Saikat Paul | [Read More](https://medium.com/p/1689f96a7439) |
 | Sat, 14 Jun 2025 10:09:55 GMT | A Hacker's Notebook: Real Techniques from the World of Bug Bounty (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/b7272595e681) |
 | Sat, 14 Jun 2025 10:06:31 GMT | How the Tropical Paradise of Bali Became the Stage for a Transnational Crime Crackdown | David SEHYEON Baek | [Read More](https://medium.com/p/ad8f74987eb8) |
-| Sat, 14 Jun 2025 09:54:01 GMT | Linux Memory Analysis - Tryhackme | Aaron | [Read More](https://medium.com/p/ca62220d0d86) |
-| Sat, 14 Jun 2025 09:52:33 GMT | Learn Ethical Hacking: Start a Cyber Career Now | Muskan | [Read More](https://medium.com/p/95b9e86a3e2c) |
-| Sat, 14 Jun 2025 09:51:53 GMT | Decoding the Hill Cipher in Python: Linear Algebra Meets Cryptography | Devansh  Kushwaha | [Read More](https://medium.com/p/aee0e2630a6d) |
-| Sat, 14 Jun 2025 09:48:20 GMT | When One Bug Isn't Enough: Finding a Full House of Vulnerabilities | Yousef Muhammedelkhir | [Read More](https://medium.com/p/68e2d30d9534) |
-| Sat, 14 Jun 2025 09:41:49 GMT | "The Impact of the Iran-Israel Conflict on the Tech World" | Ayeshainam | [Read More](https://medium.com/p/91494120c372) |
