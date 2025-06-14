@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 10:11:31 GMT | Comparing JWT Authentication Strategies: HTTP-Only Cookies vs LocalStorage | Nijat Aliyev | [Read More](https://medium.com/p/05254ed99722) |
+| Sat, 14 Jun 2025 10:10:27 GMT | Zero-Downtime Deployments: The Ansible Strategy That Never Fails | Saikat Paul | [Read More](https://medium.com/p/1689f96a7439) |
+| Sat, 14 Jun 2025 10:09:55 GMT | A Hacker's Notebook: Real Techniques from the World of Bug Bounty (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/b7272595e681) |
+| Sat, 14 Jun 2025 10:06:31 GMT | How the Tropical Paradise of Bali Became the Stage for a Transnational Crime Crackdown | David SEHYEON Baek | [Read More](https://medium.com/p/ad8f74987eb8) |
+| Sat, 14 Jun 2025 09:54:01 GMT | Linux Memory Analysis - Tryhackme | Aaron | [Read More](https://medium.com/p/ca62220d0d86) |
+| Sat, 14 Jun 2025 09:52:33 GMT | Learn Ethical Hacking: Start a Cyber Career Now | Muskan | [Read More](https://medium.com/p/95b9e86a3e2c) |
+| Sat, 14 Jun 2025 09:51:53 GMT | Decoding the Hill Cipher in Python: Linear Algebra Meets Cryptography | Devansh  Kushwaha | [Read More](https://medium.com/p/aee0e2630a6d) |
+| Sat, 14 Jun 2025 09:48:20 GMT | When One Bug Isn't Enough: Finding a Full House of Vulnerabilities | Yousef Muhammedelkhir | [Read More](https://medium.com/p/68e2d30d9534) |
+| Sat, 14 Jun 2025 09:41:49 GMT | "The Impact of the Iran-Israel Conflict on the Tech World" | Ayeshainam | [Read More](https://medium.com/p/91494120c372) |
+| Sat, 14 Jun 2025 09:37:24 GMT | Free Burpsuite Course With Live Bug Bounty | AJAK Cyber Academy | [Read More](https://medium.com/p/5514586a32fe) |
+| Sat, 14 Jun 2025 09:36:50 GMT | “You Are Already Hacked… You Just Don’t Know It Yet” - Mejbankadir - Be cyber aware - Mejbankadir… | Mejbankadir | [Read More](https://medium.com/p/12347b591986) |
 | Sat, 14 Jun 2025 09:33:48 GMT | Top 5 Ways Guards Prevent Theft & Vandalism | United Guard Force India | [Read More](https://medium.com/p/a35028584362) |
 | Sat, 14 Jun 2025 09:25:03 GMT | Security Best Practices for Java Microservices: From Authentication to Secure Configuration | Devrim Ozcay | [Read More](https://medium.com/p/a2018e7021cc) |
 | Sat, 14 Jun 2025 09:24:46 GMT | How to Get 1000+ HQ Backlinks for Your Startup with Startories | Startories | [Read More](https://medium.com/p/0b7ea092e868) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 01:23:22 GMT | Social Engineering & Cyber Crime: Gabungan Psikologi dan Biologi | Alfajri Hulvi, S.T., M.Kom | [Read More](https://medium.com/p/eabb9a0e572f) |
 | Sat, 14 Jun 2025 01:13:32 GMT | Aviate. Navigate. Communicate. | Mohan Thomas | [Read More](https://medium.com/p/87cc148aa497) |
 | Sat, 14 Jun 2025 00:45:18 GMT | Penggunaan Masscan, Nmap, CrackMapExec, dan Dirsearch dalam Cybersecurity | Dzakwan Efendi | [Read More](https://medium.com/p/103b5f429e82) |
-| Sat, 14 Jun 2025 00:43:04 GMT | A Ransomware Attack Strikes Every Twenty-One Seconds | David SEHYEON Baek | [Read More](https://medium.com/p/22ef10ae884e) |
-| Sat, 14 Jun 2025 00:34:02 GMT | Understanding Firewalls: From Packet Filtering to Next-Generation Protection | Mazhar Imran | [Read More](https://medium.com/p/277dbfbd2393) |
-| Sat, 14 Jun 2025 00:26:21 GMT | Elliptic Curve Cryptography (ECC) dan Ancaman Kriptografi di Dunia Web3 - Task 1 Weeks 3 | Dzakwan Efendi | [Read More](https://medium.com/p/346edcb3d391) |
-| Sat, 14 Jun 2025 00:21:34 GMT | How to Find and Exploit Jenkins Unauthenticated RCE via Shodan | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/0bf0242e559e) |
-| Sat, 14 Jun 2025 00:21:10 GMT | Model-Level Attacks and How to Defend Against Them - AI Security series | Syed Mohammed Faham | [Read More](https://medium.com/p/5e27437f4553) |
-| Sat, 14 Jun 2025 00:13:35 GMT | Exoplanetary Blockchain for Terraforming Log Integrity | A-STAR7_DOCTOR | [Read More](https://medium.com/p/836cee14f046) |
-| Sat, 14 Jun 2025 00:06:45 GMT | From Vulnerability to Victory: The New Era of Cyber Defense and Resilience | JustinJabo | [Read More](https://medium.com/p/fc9f630d1378) |
-| Sat, 14 Jun 2025 00:06:37 GMT | Threat Intelligence Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b3351b396529) |
-| Fri, 13 Jun 2025 23:51:41 GMT | VPNs and Privacy: Your Last Defense in the Age of AI Surveillance | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/00aad89b7d2f) |
-| Fri, 13 Jun 2025 23:39:25 GMT | How to Protect Your Home or Business in Times of Unrest | PRL Style | [Read More](https://medium.com/p/6c1119e4bd4e) |
-| Fri, 13 Jun 2025 23:15:11 GMT | Container Escape Techniques: Breaking Out of the Digital Jail | zerOiQ | [Read More](https://medium.com/p/ad06962c5292) |
