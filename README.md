@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 22:05:40 GMT | Exploring SIEM and security fundamentals on Tryhackme Rooms. | Abel caleb | [Read More](https://medium.com/p/bf65c0b3858f) |
+| Sat, 14 Jun 2025 21:51:45 GMT | Risk and Vulnerability | Elle | [Read More](https://medium.com/p/0f0e6fbc737a) |
+| Sat, 14 Jun 2025 21:41:58 GMT | How a Midnight Doubt Sparked a Cybersecurity Spiral: Malware, Memory & Modern Threats | Ashit Mallick | [Read More](https://medium.com/p/e50e4e98551c) |
+| Sat, 14 Jun 2025 21:38:34 GMT | The Complete Kubernetes Service Accounts Guide: From Basics to Advanced Enterprise Implementation | Salwan Mohamed | [Read More](https://medium.com/p/28f9c629e21f) |
 | Sat, 14 Jun 2025 21:21:34 GMT | AppSec Best Practices to Build Security into Your Development Lifecycle | Devi prasad Guda | [Read More](https://medium.com/p/5b20f47b6ca1) |
 | Sat, 14 Jun 2025 21:14:15 GMT | Call Security | Kay Flanagan | [Read More](https://medium.com/p/046e61e33bce) |
 | Sat, 14 Jun 2025 21:06:57 GMT | Why Your Data Isn’t as Safe as You Think — The Hidden Risks of Cloud Storage | Hafizbilaltariq | [Read More](https://medium.com/p/b81db5b6459a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 12:14:04 GMT | Apa itu ECC dan WEB3 Cryptography dan ancaman nya? | Rangga Eka | [Read More](https://medium.com/p/8ca1f3f8e4d8) |
 | Sat, 14 Jun 2025 12:12:22 GMT | Why Discord Is Highly Vulnerable to Hacking | David SEHYEON Baek | [Read More](https://medium.com/p/815cbfc2a6ce) |
 | Sat, 14 Jun 2025 12:09:18 GMT | Waspada Email Phishing: Kenali & Lindungi Diri dari Penipuan Online | Imanuel G R Mailangkay | [Read More](https://medium.com/p/42538344f3b8) |
-| Sat, 14 Jun 2025 12:06:53 GMT | Elliptic Curve Cryptography and Web3: Navigating the Future of Digital Security | Surya Saputra | [Read More](https://medium.com/p/4088cfb3bb84) |
-| Sat, 14 Jun 2025 12:04:45 GMT | Tracing Shared Library Calls: Leviathan 1 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ef4affa1ac3a) |
-| Sat, 14 Jun 2025 11:58:37 GMT | Account Takeover in Android App (OTP Bypass) | TheRoyHunter313 | [Read More](https://medium.com/p/81d4428f0bc2) |
-| Sat, 14 Jun 2025 11:56:04 GMT | “I just need to break through the firewall to access the mainframe” ….and other lies. | Phiri Brian | [Read More](https://medium.com/p/299f07d8dfa9) |
