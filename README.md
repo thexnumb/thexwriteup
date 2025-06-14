@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 15:27:53 GMT | Setup LAMP; | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/b900f1654f90) |
+| Sat, 14 Jun 2025 15:14:20 GMT | DC: 7— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/c5a09a7a4925) |
+| Sat, 14 Jun 2025 15:11:59 GMT | Hardening Web Server; Apache. | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/7e8404ebc308) |
+| Sat, 14 Jun 2025 15:08:04 GMT | From Panic to Prevention — My first encounter with a Cyber Attack. | Akshat | [Read More](https://medium.com/p/bd5cae372467) |
 | Sat, 14 Jun 2025 15:06:44 GMT | How I Banned Any User for 24 Hours Using a Simple CSRF Attack | TakiasSec | [Read More](https://medium.com/p/388fec74f497) |
+| Sat, 14 Jun 2025 14:53:12 GMT | Memahami ECC & Kriptografi Web3: Kunci Keamanan Blockchain dan Ancaman yang Mengintai | My Ego | [Read More](https://medium.com/p/02cca5f00b5f) |
 | Sat, 14 Jun 2025 14:48:47 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity (2025 List) | cyberwinx | [Read More](https://medium.com/p/f2cce6375aa2) |
 | Sat, 14 Jun 2025 14:45:19 GMT | How How Artificial Intelligence Will Change the Finance Industries | Anastassiya Bayeva | [Read More](https://medium.com/p/e72f14a014c5) |
 | Sat, 14 Jun 2025 14:37:43 GMT | Don't Get Hooked This Summer: Spot a Phishing Scam Before It Spots You | O. J. Okpabi | [Read More](https://medium.com/p/ea51184239b4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 08:23:51 GMT | Quantum-Safe Web Development: How to Future-Proof Your Code Before It's Too Late | Amaka okoye | [Read More](https://medium.com/p/afc39467894c) |
 | Sat, 14 Jun 2025 08:22:23 GMT | Why Automation Fails After a Certain Point in IT? | Pavan Pathak | [Read More](https://medium.com/p/51d84d9b7870) |
 | Sat, 14 Jun 2025 08:16:36 GMT | ️ The Misuse of Data: What I Learned About Real-World Cyber Threats During My Training | Amritanshu Prashar | [Read More](https://medium.com/p/401de5df93b9) |
-| Sat, 14 Jun 2025 08:10:32 GMT | Top Benefits of Studying Computer Science or Information Technology | Purvitahanda | [Read More](https://medium.com/p/c6e0879007b2) |
-| Sat, 14 Jun 2025 08:10:11 GMT | CISSP Exam Cost in 2025 | Limat Soft Solutions | [Read More](https://medium.com/p/94b9485f6467) |
-| Sat, 14 Jun 2025 08:08:01 GMT | Getting hung up onto something that was no longer there — a grudge lodged in my heart, carried… | writes and wongs | [Read More](https://medium.com/p/a2dc76b7943a) |
-| Sat, 14 Jun 2025 08:01:40 GMT | OWASP Top 10–2020 vs. 2025: Was hat sich geändert? | mertes.dev | [Read More](https://medium.com/p/007e461e5f74) |
-| Sat, 14 Jun 2025 08:01:04 GMT | The Invisible Skill Most Ethical Hackers Skip (And Why It’s Costing Them Everything) | TechCapacity | [Read More](https://medium.com/p/bda9cb9b46ea) |
