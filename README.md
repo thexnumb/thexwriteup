@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 15:06:44 GMT | How I Banned Any User for 24 Hours Using a Simple CSRF Attack | TakiasSec | [Read More](https://medium.com/p/388fec74f497) |
+| Sat, 14 Jun 2025 14:48:47 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity (2025 List) | cyberwinx | [Read More](https://medium.com/p/f2cce6375aa2) |
+| Sat, 14 Jun 2025 14:45:19 GMT | How How Artificial Intelligence Will Change the Finance Industries | Anastassiya Bayeva | [Read More](https://medium.com/p/e72f14a014c5) |
+| Sat, 14 Jun 2025 14:37:43 GMT | Don't Get Hooked This Summer: Spot a Phishing Scam Before It Spots You | O. J. Okpabi | [Read More](https://medium.com/p/ea51184239b4) |
 | Sat, 14 Jun 2025 14:34:48 GMT | ACTRY Write-Up: In-Depth Analysis of Unauthorized Access Attempt | Ikhwanushofa Effendi | [Read More](https://medium.com/p/dfe0b1022daa) |
 | Sat, 14 Jun 2025 14:33:39 GMT | “Kibercinayətkarların Ən Güclü Silahı — C2 İnfrastrukturu və Onun Aşkarlanması” | Hasan Azizov | [Read More](https://medium.com/p/8360801b1653) |
 | Sat, 14 Jun 2025 14:29:31 GMT | Basic SOC Lab Setup on VirtualBox (Win10/11 + Kali Linux) | Hammad Zahid | [Read More](https://medium.com/p/0723f55ae99f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 08:08:01 GMT | Getting hung up onto something that was no longer there — a grudge lodged in my heart, carried… | writes and wongs | [Read More](https://medium.com/p/a2dc76b7943a) |
 | Sat, 14 Jun 2025 08:01:40 GMT | OWASP Top 10–2020 vs. 2025: Was hat sich geändert? | mertes.dev | [Read More](https://medium.com/p/007e461e5f74) |
 | Sat, 14 Jun 2025 08:01:04 GMT | The Invisible Skill Most Ethical Hackers Skip (And Why It’s Costing Them Everything) | TechCapacity | [Read More](https://medium.com/p/bda9cb9b46ea) |
-| Sat, 14 Jun 2025 07:54:26 GMT | I Almost Missed This WAF Bypass Here is What I Learned | Rahimuddin Alrashel | [Read More](https://medium.com/p/9c471867b2aa) |
-| Sat, 14 Jun 2025 07:51:08 GMT | Why Thane Gated Communities Trust Security Services | united guard | [Read More](https://medium.com/p/238782307b26) |
-| Sat, 14 Jun 2025 07:49:49 GMT | $500 Bounty: XSS via javascript: URLs | Monika sharma | [Read More](https://medium.com/p/a04900631701) |
-| Sat, 14 Jun 2025 07:33:06 GMT | I Hacked a Web App’s Email System with Just One Click  (CSRF Bypass Explained) | Sumanth Yerranagula | [Read More](https://medium.com/p/119ca32dbbda) |
