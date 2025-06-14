@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 17:21:43 GMT | Weekly Roundup — June 14th 2025 | litwtch | [Read More](https://medium.com/p/dc69956e4aa0) |
 | Sat, 14 Jun 2025 17:06:00 GMT | Hire Professional Hackers Near You | Oliver michaelEpl | [Read More](https://medium.com/p/fd7882750650) |
 | Sat, 14 Jun 2025 16:54:43 GMT | CyberDefenders — DanaBot Lab | jon | [Read More](https://medium.com/p/9e075c91aac3) |
 | Sat, 14 Jun 2025 16:53:20 GMT | CyberDefenders — Red Stealer Blue Team Lab | jon | [Read More](https://medium.com/p/71af611d059c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 10:11:31 GMT | Comparing JWT Authentication Strategies: HTTP-Only Cookies vs LocalStorage | Nijat Aliyev | [Read More](https://medium.com/p/05254ed99722) |
 | Sat, 14 Jun 2025 10:10:27 GMT | Zero-Downtime Deployments: The Ansible Strategy That Never Fails | Saikat Paul | [Read More](https://medium.com/p/1689f96a7439) |
 | Sat, 14 Jun 2025 10:09:55 GMT | A Hacker's Notebook: Real Techniques from the World of Bug Bounty (2025 Edition) | Very Lazy Tech | [Read More](https://medium.com/p/b7272595e681) |
-| Sat, 14 Jun 2025 10:06:31 GMT | How the Tropical Paradise of Bali Became the Stage for a Transnational Crime Crackdown | David SEHYEON Baek | [Read More](https://medium.com/p/ad8f74987eb8) |
