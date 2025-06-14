@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 06:38:18 GMT | AI Endpoint OSINT using FOFA | AbhirupKonwar | [Read More](https://medium.com/p/835bdb0c50de) |
+| Sat, 14 Jun 2025 06:35:14 GMT | The Dark Reality of Crime: A Glimpse into the Unknown | Aarohi Pandey | [Read More](https://medium.com/p/0cc5067d85e4) |
+| Sat, 14 Jun 2025 06:30:58 GMT | Credential Dumping with rundll32.exe :  A Deep Dive into comsvcs.dll & debugcore.dll Exploits | Vinay Gurjar | [Read More](https://medium.com/p/1b1dc203278c) |
+| Sat, 14 Jun 2025 06:29:01 GMT | you can win the battle, but you’ll never win the war | rein | [Read More](https://medium.com/p/452b4880c8f2) |
 | Sat, 14 Jun 2025 06:22:07 GMT | Authentication part-6 : Broken brute-force protection, IP block | Ahmad Sopyan | [Read More](https://medium.com/p/ecbb6f63779f) |
+| Sat, 14 Jun 2025 06:19:06 GMT | Tor Browser: A Gateway to True Anonymity or a Shortcut to Crime? | Bayu Prasetyo | [Read More](https://medium.com/p/54e7d72b1916) |
 | Sat, 14 Jun 2025 06:18:56 GMT | From Risk to Reality: The Board’s New Cyber Mandate | JC Gaillard | [Read More](https://medium.com/p/97bcf558f6d0) |
 | Sat, 14 Jun 2025 06:12:28 GMT | Exploring the Smart Home Revolution with SwitchBot | rachel849481 | [Read More](https://medium.com/p/05382fb6fd1d) |
 | Sat, 14 Jun 2025 06:10:29 GMT | Qualities of a Trusted Security Company in Pune | United Guard Force India | [Read More](https://medium.com/p/d65491c99488) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 19:55:15 GMT | From Zero to $100K in Cybersecurity in 90 Days: A Realistic, Actionable Plan | Krish_cyber | [Read More](https://medium.com/p/69edb195d925) |
 | Fri, 13 Jun 2025 19:41:55 GMT | How to Test “Forgot Password” for Bugs — A Guide for BB Hunters & Pentesters | Medusa | [Read More](https://medium.com/p/4d3043007714) |
 | Fri, 13 Jun 2025 19:37:53 GMT | From Bug Bounty Blahs to Breakthroughs: Navigating the “Never Enough” Trap in Cyber | Leviiatan | [Read More](https://medium.com/p/fcb212072068) |
-| Fri, 13 Jun 2025 19:32:44 GMT | Log Normalization and Correlation Rule Development in SIEMs | Esra Kayhan | [Read More](https://medium.com/p/ff624eb23ace) |
-| Fri, 13 Jun 2025 19:26:43 GMT | ¿Qué es el Bug Bounty y por qué es tan lucrativo? | Tiziano Mass | [Read More](https://medium.com/p/9d10d204542b) |
-| Fri, 13 Jun 2025 19:17:25 GMT | Your Personal Digital Fortress: Simple Steps to Rock Your Online Safety Think about it: how much… | Emmanuel Okon | [Read More](https://medium.com/p/f1b92298d4bd) |
-| Fri, 13 Jun 2025 19:16:49 GMT | Building Trustworthy Chatbots: Privacy Protection and Risk Mitigation Strategies | Eden Hgb | [Read More](https://medium.com/p/2975e169f9f1) |
-| Fri, 13 Jun 2025 19:09:13 GMT | 6 Real-World Tips to Secure Your Docker Containers in Production | Mihir Rajput | [Read More](https://medium.com/p/bc38808cca06) |
