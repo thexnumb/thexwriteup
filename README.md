@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 09:17:44 GMT | Defect vs Error vs Discrepancy: What’s the Difference in Software Testing? | Sourojit Das | [Read More](https://medium.com/p/dbcb05598ed1) |
+| Sat, 14 Jun 2025 09:16:23 GMT | “Security Automation Made Easy: Scripts to Save Time and Reduce Risk” | Divya Mewada | [Read More](https://medium.com/p/d415a9a2a277) |
+| Sat, 14 Jun 2025 09:14:57 GMT | Cloud Control at Scale: Building Reliable Infrastructure with AI | Ageddes | [Read More](https://medium.com/p/f4e7f636d8c3) |
+| Sat, 14 Jun 2025 09:09:42 GMT | Exploring the Benefits of Automated Shutters with SwitchBot | Dfgvcsadfgss | [Read More](https://medium.com/p/d3b6fdf6351b) |
+| Sat, 14 Jun 2025 09:03:55 GMT | ️ Week 6 of Recess: Powering Communication Through Servers and VoIP | Trevor Mukunzi | [Read More](https://medium.com/p/c1cc851aef79) |
+| Sat, 14 Jun 2025 08:48:09 GMT | [TR] SUID (Set User ID) | Kaan Ekşi | [Read More](https://medium.com/p/456546770dff) |
 | Sat, 14 Jun 2025 08:33:42 GMT | The Anatomy of an RCE Attack : The Hacker’s Big Score | 127.0.0.1 | [Read More](https://medium.com/p/a22fa2f2dbc6) |
 | Sat, 14 Jun 2025 08:23:51 GMT | Quantum-Safe Web Development: How to Future-Proof Your Code Before It's Too Late | Amaka okoye | [Read More](https://medium.com/p/afc39467894c) |
 | Sat, 14 Jun 2025 08:22:23 GMT | Why Automation Fails After a Certain Point in IT? | Pavan Pathak | [Read More](https://medium.com/p/51d84d9b7870) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Jun 2025 23:09:46 GMT | THM — What is Networking? | Mohamed Hamdi (Offensiv3) | [Read More](https://medium.com/p/ea4fde599859) |
 | Fri, 13 Jun 2025 22:32:48 GMT | AI and Deepfake Threats: A Security Professional’s Perspective | Austin Gomez | [Read More](https://medium.com/p/482cc4b17873) |
 | Fri, 13 Jun 2025 22:24:00 GMT | How Hackers Exploit RDP: What you Need to Know to Protect Yourself | Cywarr | [Read More](https://medium.com/p/d773fc52f2d5) |
-| Fri, 13 Jun 2025 22:23:37 GMT | Sudo & LD_PRELOAD | Kaan Ekşi | [Read More](https://medium.com/p/85c250f255ba) |
-| Fri, 13 Jun 2025 22:21:37 GMT | Beware: Physical Letter Scams Targeting Executives Pretend to Be BianLian Group | Austin Gomez | [Read More](https://medium.com/p/6abba720f3b4) |
-| Fri, 13 Jun 2025 22:21:08 GMT | Enterprise Network Security Architecture Using Cisco Packet Tracer | Ahmed Nabil | [Read More](https://medium.com/p/f8c060fabbe5) |
-| Fri, 13 Jun 2025 22:16:36 GMT | Understanding the MITRE ATT&CK Framework: A Beginner to Pro Guide | Karthikeyan Nagaraj | [Read More](https://medium.com/p/c8a2fe0de30e) |
-| Fri, 13 Jun 2025 22:02:11 GMT | ️ DarkGate Malware: A Network Forensics Investigation Using Wireshark & NetworkMiner | Chirag Ghotikar | [Read More](https://medium.com/p/7fea5d94e23e) |
-| Fri, 13 Jun 2025 21:57:13 GMT | WordPress Brute Force Attack Analysis: Deviasi Challenge Write-Up | Ikhwanushofa Effendi | [Read More](https://medium.com/p/2c6efd330018) |
