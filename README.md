@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 11:29:50 GMT | SIEM Buyer’s Guide: Separating Hype from Reality | Soteria Cybersecurity | [Read More](https://medium.com/p/d173fa1caef8) |
+| Sat, 14 Jun 2025 11:26:56 GMT | Cyber security and ethical hacking | Tech Access | [Read More](https://medium.com/p/6824201c5f99) |
+| Sat, 14 Jun 2025 11:25:21 GMT | ETHICAL CONSIDERATIONS vurses MATHEMATICAL MODELS | Luka Obuya | [Read More](https://medium.com/p/7e08c62f5414) |
+| Sat, 14 Jun 2025 11:23:55 GMT | Goodnight Echoes | Boluwatife Lash | [Read More](https://medium.com/p/0f4603573c5a) |
 | Sat, 14 Jun 2025 11:14:03 GMT | SOC EXPLAINED - TryHackMe SOC Fundamentals | Motasem Hamdan | [Read More](https://medium.com/p/50c2f02708d6) |
 | Sat, 14 Jun 2025 11:13:00 GMT | Ethical Hacking Course for Working Professionals | Crawsec | [Read More](https://medium.com/p/0e2f88c9b727) |
 | Sat, 14 Jun 2025 11:11:52 GMT | Platform Engineering in 2025: Why 80% of Enterprises Are Making the Shift | Cesar Schneider | [Read More](https://medium.com/p/b8b4c6124c51) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 03:49:57 GMT | Why I Don’t Suggest People to Get into Cybersecurity (Unless…) | Vipul Sonule | [Read More](https://medium.com/p/ecb511b5da44) |
 | Sat, 14 Jun 2025 03:31:32 GMT | Shadows of Suspicion: How Hackers Breached the Financial Firewall | Deven Chhajed | [Read More](https://medium.com/p/8cc14ebb5b57) |
 | Sat, 14 Jun 2025 03:31:23 GMT | The Tools I Use Every Day That Would Get Me Fired If I Had a Job | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4ec6c90f34f7) |
-| Sat, 14 Jun 2025 03:28:43 GMT | Uncovering Secrets in the Cloud: A Complete Guide to CloudGoat’s sns_secrets Scenario | Fakharsaleem | [Read More](https://medium.com/p/280096b1db41) |
-| Sat, 14 Jun 2025 03:27:28 GMT | Choose the BEST Career Path in the IT Department After B.Tech | Evision Technoserve | [Read More](https://medium.com/p/fc1eba19bbfd) |
-| Sat, 14 Jun 2025 03:08:51 GMT | Cyber Scams: Types, Tactics, and Prevention Strategies | Badal Mehra | [Read More](https://medium.com/p/47744a953fb4) |
-| Sat, 14 Jun 2025 03:06:01 GMT | Practical Phishing & Threat Analysis for Everyone | Harishkumar Pillai | [Read More](https://medium.com/p/a36aa7e8fefb) |
