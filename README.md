@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 11:14:03 GMT | SOC EXPLAINED - TryHackMe SOC Fundamentals | Motasem Hamdan | [Read More](https://medium.com/p/50c2f02708d6) |
+| Sat, 14 Jun 2025 11:13:00 GMT | Ethical Hacking Course for Working Professionals | Crawsec | [Read More](https://medium.com/p/0e2f88c9b727) |
+| Sat, 14 Jun 2025 11:11:52 GMT | Platform Engineering in 2025: Why 80% of Enterprises Are Making the Shift | Cesar Schneider | [Read More](https://medium.com/p/b8b4c6124c51) |
+| Sat, 14 Jun 2025 11:04:11 GMT | Top 8 Cybersecurity Domains Every Professional Should Master in 2025 | Judit babu | [Read More](https://medium.com/p/f957bb9383bf) |
+| Sat, 14 Jun 2025 11:03:04 GMT | How to Decode Windows Security Logs Like a Pro Investigator | Bl@ckC!pH3r | [Read More](https://medium.com/p/aee068a512ca) |
+| Sat, 14 Jun 2025 11:02:37 GMT | Resource-based Policy for DynamoDB Table | Carlos Biagolini-Jr. | [Read More](https://medium.com/p/65f0979c9e60) |
+| Sat, 14 Jun 2025 10:36:24 GMT | ️‍♂️ I Found a Telegram Bot That Handles Fake Emails Like a Pro (And I Had to Talk About It) | PanicAtTheKernel | [Read More](https://medium.com/p/895032f6e3f3) |
 | Sat, 14 Jun 2025 10:34:41 GMT | Understanding ITGC | Anvitha sri | [Read More](https://medium.com/p/4b2388a81160) |
 | Sat, 14 Jun 2025 10:34:34 GMT | Exploring the Benefits of SwitchBot’s Retrofit Smart Door Lock | Ralap Theresa | [Read More](https://medium.com/p/44d78718c377) |
 | Sat, 14 Jun 2025 10:29:53 GMT | How to Choose the Best Cyber Security Course in Bangalore | Ravi Raj | [Read More](https://medium.com/p/55d2404e914c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 03:27:28 GMT | Choose the BEST Career Path in the IT Department After B.Tech | Evision Technoserve | [Read More](https://medium.com/p/fc1eba19bbfd) |
 | Sat, 14 Jun 2025 03:08:51 GMT | Cyber Scams: Types, Tactics, and Prevention Strategies | Badal Mehra | [Read More](https://medium.com/p/47744a953fb4) |
 | Sat, 14 Jun 2025 03:06:01 GMT | Practical Phishing & Threat Analysis for Everyone | Harishkumar Pillai | [Read More](https://medium.com/p/a36aa7e8fefb) |
-| Sat, 14 Jun 2025 03:01:40 GMT | From Alert to Action: How I Handled a Fake Port Scan in My SOC Lab | Manish Rawat | [Read More](https://medium.com/p/b518aa8ad2f9) |
-| Sat, 14 Jun 2025 02:53:27 GMT | Powerful XSS Automation: Combining GF Patterns, Waybackurls, and Dalfox Scanning | イズミー | [Read More](https://medium.com/p/c25fb5d15055) |
-| Sat, 14 Jun 2025 02:47:50 GMT | STOP SCROLLING!!!! You Should’ve Updated Your Chrome 0 Days Ago (CVE-2025–5419) | itsShotgun | [Read More](https://medium.com/p/f1cd6846afe5) |
-| Sat, 14 Jun 2025 02:35:12 GMT | Zero Trust Bukan Cuma Istilah!Cara Baru Lindungi Sistemmu | Dzakwan Efendi | [Read More](https://medium.com/p/7b2cdc2d696c) |
-| Sat, 14 Jun 2025 02:34:10 GMT | Exploring the Smart Home Industry: SwitchBot’s Innovative Smart Lock Solutions | Ozsena | [Read More](https://medium.com/p/00beb0e16188) |
-| Sat, 14 Jun 2025 02:11:22 GMT | AI, Cybersecurity & Startups: The Last Chance for Pakistan’s Economic Revolution | Inayat Hussain | [Read More](https://medium.com/p/42c1aadb9bb4) |
-| Sat, 14 Jun 2025 02:06:38 GMT | Breaking Digital Poverty  How Pakistani Youth Can Build Tech Careers with No Capital | Inayat Hussain | [Read More](https://medium.com/p/8f2ab899f06d) |
