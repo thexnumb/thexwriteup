@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Jun 2025 16:12:45 GMT | CVE-2025–45878,CVE-2025–45879 and CVE-2025–45880 Showcase | Marco Nappi | [Read More](https://medium.com/p/67c0e64cc981) |
+| Sat, 14 Jun 2025 16:12:04 GMT | MY JOURNEY BUILDING MY FIRST OFFICE NETWORK | iYÁOmarv_ | [Read More](https://medium.com/p/3e54a5a993cf) |
+| Sat, 14 Jun 2025 16:08:03 GMT | Fortifying the Human Firewall: Mastering Human-Centric Cybersecurity in 2025 | Chetan Seripally | [Read More](https://medium.com/p/e37c999a95a5) |
+| Sat, 14 Jun 2025 16:06:24 GMT | DNS Security: Your first line of defense | CyberLucifer | [Read More](https://medium.com/p/cd4060a3436d) |
+| Sat, 14 Jun 2025 16:06:01 GMT | What Does “Cyber” Even Mean? A 31-Year-Old’s Take on a Field Everyone Wants to Be In | Luispuello | [Read More](https://medium.com/p/9890f3157e48) |
+| Sat, 14 Jun 2025 16:03:50 GMT | GIMP Heap Overflow Re-Discovery and Exploitation (CVE-2025–6035) | Craig Young | [Read More](https://medium.com/p/9357eeef416b) |
+| Sat, 14 Jun 2025 15:56:46 GMT | HTB’s Machine “TheFrizz” Walkthrough | ma40ou | [Read More](https://medium.com/p/53a90fd14380) |
+| Sat, 14 Jun 2025 15:54:42 GMT | Hire Professional Hackers | Oliver michaelEpl | [Read More](https://medium.com/p/d5146c9dc8ab) |
+| Sat, 14 Jun 2025 15:52:22 GMT | Crime as a Service: The Growing Threat to Businesses and How to Fight Back | Ozan Ozkara | [Read More](https://medium.com/p/a8667fe527a9) |
+| Sat, 14 Jun 2025 15:45:41 GMT | HTB’s Machine “Nocturnal” Walkthrough | ma40ou | [Read More](https://medium.com/p/9fc5998a5d01) |
+| Sat, 14 Jun 2025 15:41:11 GMT | IS THE FORGE OFFICIAL AGI “ALICE” | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/afdb8d57c667) |
 | Sat, 14 Jun 2025 15:27:53 GMT | Setup LAMP; | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/b900f1654f90) |
 | Sat, 14 Jun 2025 15:14:20 GMT | DC: 7— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/c5a09a7a4925) |
 | Sat, 14 Jun 2025 15:11:59 GMT | Hardening Web Server; Apache. | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/7e8404ebc308) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 09:36:50 GMT | “You Are Already Hacked… You Just Don’t Know It Yet” - Mejbankadir - Be cyber aware - Mejbankadir… | Mejbankadir | [Read More](https://medium.com/p/12347b591986) |
 | Sat, 14 Jun 2025 09:33:48 GMT | Top 5 Ways Guards Prevent Theft & Vandalism | United Guard Force India | [Read More](https://medium.com/p/a35028584362) |
 | Sat, 14 Jun 2025 09:25:03 GMT | Security Best Practices for Java Microservices: From Authentication to Secure Configuration | Devrim Ozcay | [Read More](https://medium.com/p/a2018e7021cc) |
-| Sat, 14 Jun 2025 09:24:46 GMT | How to Get 1000+ HQ Backlinks for Your Startup with Startories | Startories | [Read More](https://medium.com/p/0b7ea092e868) |
-| Sat, 14 Jun 2025 09:17:44 GMT | Defect vs Error vs Discrepancy: What’s the Difference in Software Testing? | Sourojit Das | [Read More](https://medium.com/p/dbcb05598ed1) |
-| Sat, 14 Jun 2025 09:16:23 GMT | “Security Automation Made Easy: Scripts to Save Time and Reduce Risk” | Divya Mewada | [Read More](https://medium.com/p/d415a9a2a277) |
-| Sat, 14 Jun 2025 09:14:57 GMT | Cloud Control at Scale: Building Reliable Infrastructure with AI | Ageddes | [Read More](https://medium.com/p/f4e7f636d8c3) |
-| Sat, 14 Jun 2025 09:09:42 GMT | Exploring the Benefits of Automated Shutters with SwitchBot | Dfgvcsadfgss | [Read More](https://medium.com/p/d3b6fdf6351b) |
-| Sat, 14 Jun 2025 09:03:55 GMT | ️ Week 6 of Recess: Powering Communication Through Servers and VoIP | Trevor Mukunzi | [Read More](https://medium.com/p/c1cc851aef79) |
-| Sat, 14 Jun 2025 08:48:09 GMT | [TR] SUID (Set User ID) | Kaan Ekşi | [Read More](https://medium.com/p/456546770dff) |
-| Sat, 14 Jun 2025 08:33:42 GMT | The Anatomy of an RCE Attack : The Hacker’s Big Score | 127.0.0.1 | [Read More](https://medium.com/p/a22fa2f2dbc6) |
-| Sat, 14 Jun 2025 08:23:51 GMT | Quantum-Safe Web Development: How to Future-Proof Your Code Before It's Too Late | Amaka okoye | [Read More](https://medium.com/p/afc39467894c) |
-| Sat, 14 Jun 2025 08:22:23 GMT | Why Automation Fails After a Certain Point in IT? | Pavan Pathak | [Read More](https://medium.com/p/51d84d9b7870) |
-| Sat, 14 Jun 2025 08:16:36 GMT | ️ The Misuse of Data: What I Learned About Real-World Cyber Threats During My Training | Amritanshu Prashar | [Read More](https://medium.com/p/401de5df93b9) |
