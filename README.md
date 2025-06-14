@@ -38,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 20:15:08 GMT | Day 22: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/349f463157e9) |
 | Sat, 14 Jun 2025 20:05:12 GMT | In reading… | Melissa Ann Tanksley | [Read More](https://medium.com/p/e3466da99e44) |
 | Sat, 14 Jun 2025 19:48:33 GMT | SAFEPAY Ransomware Disrupts Liberty-Township Municipal Systems in Ohio | Ronit Yadav | [Read More](https://medium.com/p/d516599ded9f) |
+| Sat, 14 Jun 2025 19:39:30 GMT | «Կուղբ» (Bebras) 21-րդ համաժողով | Gohar Khachatryan | [Read More](https://medium.com/p/b747690b0a26) |
 | Sat, 14 Jun 2025 19:36:36 GMT | Automated Alert Response with SOAR Platforms: Examples of XSOAR and TheHive | Esra Kayhan | [Read More](https://medium.com/p/72ba173b6a62) |
 | Sat, 14 Jun 2025 19:36:03 GMT | Bug Bounty Guide: Finding and Exploiting Leaked .git/ Directories | Medusa | [Read More](https://medium.com/p/1e05dc520bf5) |
 | Sat, 14 Jun 2025 19:12:58 GMT | Mobile Phones and Cancer Risk | Khalig Hesenov | [Read More](https://medium.com/p/28ed4d481042) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 12:45:16 GMT | 5 Effective Tactics to Recover from Missed Bugs in Software Testing | Asher Hartwell | [Read More](https://medium.com/p/fbb2b3bc240e) |
 | Sat, 14 Jun 2025 12:41:34 GMT | N7 Web Application CTF Walkthrough: A Step-by-Step Pentesting | Sahl | [Read More](https://medium.com/p/156d04fb7b6d) |
 | Sat, 14 Jun 2025 12:38:48 GMT | Why SSL Is Essential for Any Website | Shubham Pathak | [Read More](https://medium.com/p/c7c18f78bc80) |
-| Sat, 14 Jun 2025 12:37:47 GMT | Frosty Key Shares | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/0e007bca963e) |
