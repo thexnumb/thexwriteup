@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 05:08:54 GMT | To the one who will finally stay.. | Nia Bloom | [Read More](https://medium.com/p/717e93e19343) |
+| Sun, 15 Jun 2025 05:07:06 GMT | DOD SentinelOne 2025 CTF Write-Up | Ryan Collier | [Read More](https://medium.com/p/db2b177b43d4) |
+| Sun, 15 Jun 2025 05:02:41 GMT | Phishing Email Analysis | Sh3nobi | [Read More](https://medium.com/p/d8ce55df5123) |
+| Sun, 15 Jun 2025 05:01:39 GMT | Search Skills - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/8a6de5aca6df) |
+| Sun, 15 Jun 2025 04:55:10 GMT | Cryptography di Web 3: Mengenal ECC dan Ancamannya | Indra Rahmat Maulidi | [Read More](https://medium.com/p/b4391d780bc8) |
+| Sun, 15 Jun 2025 04:53:40 GMT | The Evolving World of Crypto Wallets — Beyond Storage to Sovereignty | Time Money Code | [Read More](https://medium.com/p/2587d67f5c55) |
+| Sun, 15 Jun 2025 04:52:49 GMT | Google Dorking - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/f34cb0b3f03e) |
+| Sun, 15 Jun 2025 04:48:03 GMT | Half Bloomed, Fully Feeling | Half Bloomed Diaries | [Read More](https://medium.com/p/bcc8cca8eefe) |
 | Sun, 15 Jun 2025 04:38:17 GMT | YOUR DATA IS LEAKING! SOMEONE IS GOING TO HACK IT. | Sammycarlson | [Read More](https://medium.com/p/5388568a543d) |
 | Sun, 15 Jun 2025 04:25:20 GMT | The Cyber Cats: Netcat, Socat, and Their Feline Family in Hacking | Sunera Ranasooriya | [Read More](https://medium.com/p/fa04335ea545) |
 | Sun, 15 Jun 2025 04:15:59 GMT | Quick 6: Understanding securityContext in Kubernetes Pods | Asish M Madhu | [Read More](https://medium.com/p/3332ecf50908) |
@@ -46,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 00:03:07 GMT | The Work Is Mine. The Tool Was AI. | Cheryl Abram | [Read More](https://medium.com/p/436cf267a411) |
 | Sun, 15 Jun 2025 00:00:24 GMT | 247CTF | löca | [Read More](https://medium.com/p/d579b847c4aa) |
 | Sat, 14 Jun 2025 23:41:54 GMT | Secure Code Review for Beginners: Your First Step Toward Writing Safer Code | Kevin Prabhu | [Read More](https://medium.com/p/fcaded434e9e) |
+| Sat, 14 Jun 2025 23:23:08 GMT | Bilgi Teknolojileri Denetimlerinde En Sık Karşılaşılan Riskler ve Uygulanan Kontroller | Ahmet Sahin | [Read More](https://medium.com/p/57ed66795d29) |
 | Sat, 14 Jun 2025 23:11:47 GMT | Crypto Security in 2025: Are You Prepared? | Novikov Kirill | [Read More](https://medium.com/p/bf668e59197a) |
 | Sat, 14 Jun 2025 23:10:10 GMT | Embrace the Future with SwitchBot’s Digital Smart Door Lock | marc605830 | [Read More](https://medium.com/p/2a1e73c8926f) |
 | Sat, 14 Jun 2025 22:51:35 GMT | Mauzware’s TryHackMe CTF Walkthrough Playlist | mauzware | [Read More](https://medium.com/p/668b6309573f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 16:06:24 GMT | DNS Security: Your first line of defense | CyberLucifer | [Read More](https://medium.com/p/cd4060a3436d) |
 | Sat, 14 Jun 2025 16:06:01 GMT | What Does “Cyber” Even Mean? A 31-Year-Old’s Take on a Field Everyone Wants to Be In | Luispuello | [Read More](https://medium.com/p/9890f3157e48) |
 | Sat, 14 Jun 2025 16:03:50 GMT | GIMP Heap Overflow Re-Discovery and Exploitation (CVE-2025–6035) | Craig Young | [Read More](https://medium.com/p/9357eeef416b) |
-| Sat, 14 Jun 2025 15:56:46 GMT | HTB’s Machine “TheFrizz” Walkthrough | ma40ou | [Read More](https://medium.com/p/53a90fd14380) |
-| Sat, 14 Jun 2025 15:54:42 GMT | Hire Professional Hackers | Oliver michaelEpl | [Read More](https://medium.com/p/d5146c9dc8ab) |
-| Sat, 14 Jun 2025 15:52:22 GMT | Crime as a Service: The Growing Threat to Businesses and How to Fight Back | Ozan Ozkara | [Read More](https://medium.com/p/a8667fe527a9) |
-| Sat, 14 Jun 2025 15:45:41 GMT | HTB’s Machine “Nocturnal” Walkthrough | ma40ou | [Read More](https://medium.com/p/9fc5998a5d01) |
-| Sat, 14 Jun 2025 15:41:11 GMT | IS THE FORGE OFFICIAL AGI “ALICE” | WheresIsWaldos “Waldo/L.E Lyons/Creator/Forge" | [Read More](https://medium.com/p/afdb8d57c667) |
-| Sat, 14 Jun 2025 15:27:53 GMT | Setup LAMP; | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/b900f1654f90) |
-| Sat, 14 Jun 2025 15:14:20 GMT | DC: 7— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/c5a09a7a4925) |
-| Sat, 14 Jun 2025 15:11:59 GMT | Hardening Web Server; Apache. | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/7e8404ebc308) |
-| Sat, 14 Jun 2025 15:08:04 GMT | From Panic to Prevention — My first encounter with a Cyber Attack. | Akshat | [Read More](https://medium.com/p/bd5cae372467) |
