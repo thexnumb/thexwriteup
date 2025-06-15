@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 22:01:02 GMT | When Your Best Still Isn’t Enough ….. | Abibat Raheem | [Read More](https://medium.com/p/39733a5fb56d) |
+| Sun, 15 Jun 2025 21:56:38 GMT | Understanding Keycloak Authentication in Web Services: A Beginner’s Guide | Danida Jayakody | [Read More](https://medium.com/p/e2ffce0d6393) |
+| Sun, 15 Jun 2025 21:52:32 GMT | The AI Boom Is Missing Something Big: The Customer | Angelo Bell | [Read More](https://medium.com/p/f456f8fb6107) |
+| Sun, 15 Jun 2025 21:40:54 GMT | Exploring the Future of Smart Home with SwitchBot’s Smart Door Lock | Adfgdsfaa | [Read More](https://medium.com/p/fa454135ce87) |
 | Sun, 15 Jun 2025 21:31:30 GMT | My Terraform Associate Certification Study Notes & Guide | Mehwish | [Read More](https://medium.com/p/a985a8c4d3e4) |
 | Sun, 15 Jun 2025 21:25:57 GMT | National Web3 Infrastructure Blueprint: A Cybersecurity-Centric Vision for Digital Sovereignty | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c9b3d5d87401) |
 | Sun, 15 Jun 2025 21:20:33 GMT | I Found a $4,200 Bug in 15 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/8d1ce968cf6b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 13:34:51 GMT | Revoking access to IAM Roles Anywhere using open-source private CA | Paul Schwarzenberger | [Read More](https://medium.com/p/47667cc92299) |
 | Sun, 15 Jun 2025 13:29:16 GMT | Deciphering World of ECC and Web3 Security | AcidicWealth | [Read More](https://medium.com/p/b063239c16a4) |
 | Sun, 15 Jun 2025 13:21:33 GMT | Invisible Walls: The UX of Quiet Security | MrsNo1Special | [Read More](https://medium.com/p/f496eea24951) |
-| Sun, 15 Jun 2025 13:21:00 GMT | ️ Web3 Security Weekly — June 9–15, 2025 | Null Return | [Read More](https://medium.com/p/74aca4b44778) |
-| Sun, 15 Jun 2025 13:20:01 GMT | Password Rage: The UX Design Flaws That Make Users Unsafe | MrsNo1Special | [Read More](https://medium.com/p/0b6b168539ca) |
-| Sun, 15 Jun 2025 13:19:06 GMT | AI vs AI: Algorithms for Deepfake Detection | Doğukan | [Read More](https://medium.com/p/e6d255b185b5) |
-| Sun, 15 Jun 2025 13:09:33 GMT | Intelligence at your Cursor! | Sri Harsha Kurra | [Read More](https://medium.com/p/54e289036162) |
