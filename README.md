@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 18:30:28 GMT | Subdomain Enumeration with Sublist3r: Uncovering the Hidden Layers | YooZy | [Read More](https://medium.com/p/7b7b83e9f238) |
+| Sun, 15 Jun 2025 18:24:27 GMT | Digital Twins and Industry 4.0: The Virtual Revolution | travelsmarthacks.site | [Read More](https://medium.com/p/a4ddc73ad9d6) |
+| Sun, 15 Jun 2025 18:22:25 GMT | Cybersecurity in the Age of Hyperautomation & Ambient AI | travelsmarthacks.site | [Read More](https://medium.com/p/38cacc326842) |
 | Sun, 15 Jun 2025 18:07:13 GMT | Un mot sur le community management | Lwanzo | [Read More](https://medium.com/p/2d6543a50e4d) |
 | Sun, 15 Jun 2025 18:06:52 GMT | How a Simple IDOR that causes PII Disclosure | Ananth | [Read More](https://medium.com/p/6ef5845f2be9) |
 | Sun, 15 Jun 2025 18:00:40 GMT | The fall of the Pocket Calculator | Soumyankar Mohapatra | [Read More](https://medium.com/p/c62920f46a57) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 11:47:06 GMT | Understanding Security Attacks on Embedded Systems | Nikheel Vishwas Savant | [Read More](https://medium.com/p/d26e3c850f99) |
 | Sun, 15 Jun 2025 11:40:46 GMT | Boss of the SOC V1 | ibrahim KADIKIRAN | [Read More](https://medium.com/p/720c9606a261) |
 | Sun, 15 Jun 2025 11:35:35 GMT | 10 Strategi Jitu Jadi Network Engineer Expert Incaran Perusahaan Besar. | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/12640386e0b8) |
-| Sun, 15 Jun 2025 11:22:34 GMT | The Silent Hero of Cybersecurity: Patch Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/3b8719a126ed) |
-| Sun, 15 Jun 2025 11:19:47 GMT | A Cyberweapon Beyond Ransomware: NOT_PETYA by Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/6724cf1e972a) |
-| Sun, 15 Jun 2025 11:11:43 GMT | I got an email from my own email, sextortion! | Karan Bhatti | [Read More](https://medium.com/p/2ffff3aff39e) |
