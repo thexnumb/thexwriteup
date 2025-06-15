@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 23:27:13 GMT | I’m Back: Why Your Two-Factor Authentication Isn’t Protecting You | Ayas Ismail | [Read More](https://medium.com/p/17c28b2e9d5b) |
+| Sun, 15 Jun 2025 23:23:18 GMT | My HackerOne 30/26 CTFs Process | Gabriel Pires | [Read More](https://medium.com/p/ebb0e47be5df) |
 | Sun, 15 Jun 2025 23:02:41 GMT | CyberDefenders — Oski Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/eb22207a4efc) |
 | Sun, 15 Jun 2025 22:55:28 GMT | Testing in Detection Engineering — Part 1 | Bill Mahony | [Read More](https://medium.com/p/4b9a0be238b6) |
 | Sun, 15 Jun 2025 22:54:07 GMT | Die ultimative Roadmap zur digitalen Transformation: Warum 73% der KMU scheitern — und wie Sie… | Philip Hansen | [Read More](https://medium.com/p/76f4060257dc) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 14:01:44 GMT | A Cyberattack Disrupted Whole Foods’ Supply Chain — Here’s What Happened | Brittney Ginther | [Read More](https://medium.com/p/cd118751f7ef) |
 | Sun, 15 Jun 2025 14:00:09 GMT | When PHP’s readfile() Goes Rogue: Exploiting LFI and SSRF in a SaaS Environment | Avihay Eldad | [Read More](https://medium.com/p/ada2ea1ea6f4) |
 | Sun, 15 Jun 2025 13:57:01 GMT | Setting Up A SOC Homelab with Active Directory and Wazuh | Salman Ahmed | [Read More](https://medium.com/p/af76687b271f) |
-| Sun, 15 Jun 2025 13:54:59 GMT | How Do Websites Remember You? Let’s Talk Cookies. | Vaibhav Singh | [Read More](https://medium.com/p/0aaf323f3cc7) |
-| Sun, 15 Jun 2025 13:54:02 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/6db303f527a9) |
