@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 11:22:34 GMT | The Silent Hero of Cybersecurity: Patch Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/3b8719a126ed) |
+| Sun, 15 Jun 2025 11:19:47 GMT | A Cyberweapon Beyond Ransomware: NOT_PETYA by Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/6724cf1e972a) |
 | Sun, 15 Jun 2025 11:11:43 GMT | I got an email from my own email, sextortion! | Karan Bhatti | [Read More](https://medium.com/p/2ffff3aff39e) |
 | Sun, 15 Jun 2025 11:09:41 GMT | Phantom Clicks and Ghost Traffic: Ad Fraud Meets Cybercrime | MrsNo1Special | [Read More](https://medium.com/p/81e5f8bbd4a4) |
 | Sun, 15 Jun 2025 11:05:47 GMT | naabu: powerful portscanning tool for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/758860a6526b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 03:32:37 GMT | Navigating the Uncharted Waters: Inside the Alleged WooCommerce Data Breach | Deven Chhajed | [Read More](https://medium.com/p/1a66cc561a53) |
 | Sun, 15 Jun 2025 03:28:14 GMT | The Rise of Play Ransomware: A New Standard of Cyber Threat Collaboration | Akilnath Bodipudi | [Read More](https://medium.com/p/c44e9f33b6d7) |
 | Sun, 15 Jun 2025 03:18:10 GMT | The Epidemic of Fake Virtue: Who Really Benefits from America’s Border Chaos? | Mahesh Chookolingo | [Read More](https://medium.com/p/3b45ef836ddf) |
-| Sun, 15 Jun 2025 03:12:41 GMT | CTF Day(15) | Ahmed Narmer | [Read More](https://medium.com/p/8cb969b06d79) |
-| Sun, 15 Jun 2025 03:01:37 GMT | Ransomware Explained: How It Works and How to Stay Protected | Ivo Pereira | [Read More](https://medium.com/p/cb99a03f045b) |
