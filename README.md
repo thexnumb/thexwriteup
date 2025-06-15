@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 14:11:46 GMT | XML-RPC Open, phpinfo() Public — But They Came to Hire from My College | AIwolfie | [Read More](https://medium.com/p/975acdc04f8c) |
+| Sun, 15 Jun 2025 14:10:50 GMT | TryHackMe Tokyo Ghould — Walkthrough | mauzware | [Read More](https://medium.com/p/f24b96ccfbd5) |
+| Sun, 15 Jun 2025 14:01:44 GMT | A Cyberattack Disrupted Whole Foods’ Supply Chain — Here’s What Happened | Brittney Ginther | [Read More](https://medium.com/p/cd118751f7ef) |
+| Sun, 15 Jun 2025 14:00:09 GMT | When PHP’s readfile() Goes Rogue: Exploiting LFI and SSRF in a SaaS Environment | Avihay Eldad | [Read More](https://medium.com/p/ada2ea1ea6f4) |
+| Sun, 15 Jun 2025 13:57:01 GMT | Setting Up A SOC Homelab with Active Directory and Wazuh | Salman Ahmed | [Read More](https://medium.com/p/af76687b271f) |
+| Sun, 15 Jun 2025 13:54:59 GMT | How Do Websites Remember You? Let’s Talk Cookies. | Vaibhav Singh | [Read More](https://medium.com/p/0aaf323f3cc7) |
+| Sun, 15 Jun 2025 13:54:02 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/6db303f527a9) |
+| Sun, 15 Jun 2025 13:53:28 GMT | Dari Titik ke Token: Mengenal Elliptic Curve Cryptography (ECC), Kriptografi Web3, dan Ancaman… | cakaras | [Read More](https://medium.com/p/ba47699bc506) |
+| Sun, 15 Jun 2025 13:50:17 GMT | HackTheBox - Photobomb | jniket | [Read More](https://medium.com/p/5471c7f25640) |
+| Sun, 15 Jun 2025 13:48:57 GMT | Post-Exploitation with Meterpreter: A Beginner’s Guide to Windows Hacking on TryHackMe. | N4rn!4n_142 | [Read More](https://medium.com/p/6a1164d75238) |
+| Sun, 15 Jun 2025 13:44:14 GMT | Reset-THM | MRX.0 | [Read More](https://medium.com/p/af6c04c5b4e8) |
+| Sun, 15 Jun 2025 13:38:56 GMT | DFRWS 2008 Writeup | Salman Ahmed | [Read More](https://medium.com/p/e0eeb9a3d444) |
 | Sun, 15 Jun 2025 13:37:23 GMT | Intermediate Lab Environment Part 2.2b: Install Windows VM-2 | Abyss | [Read More](https://medium.com/p/f5bc0a4aac52) |
+| Sun, 15 Jun 2025 13:34:51 GMT | Revoking access to IAM Roles Anywhere using open-source private CA | Paul Schwarzenberger | [Read More](https://medium.com/p/47667cc92299) |
 | Sun, 15 Jun 2025 13:29:16 GMT | Deciphering World of ECC and Web3 Security | AcidicWealth | [Read More](https://medium.com/p/b063239c16a4) |
 | Sun, 15 Jun 2025 13:21:33 GMT | Invisible Walls: The UX of Quiet Security | MrsNo1Special | [Read More](https://medium.com/p/f496eea24951) |
 | Sun, 15 Jun 2025 13:21:00 GMT | ️ Web3 Security Weekly — June 9–15, 2025 | Null Return | [Read More](https://medium.com/p/74aca4b44778) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 07:11:52 GMT | Your Smart Contract Is Safe… Until It Isn’t !! | Recover Right | [Read More](https://medium.com/p/2df1920dcb21) |
 | Sun, 15 Jun 2025 07:08:39 GMT | Linux basic for Hacker Summary | Sachin Kumar | [Read More](https://medium.com/p/e56679329908) |
 | Sun, 15 Jun 2025 07:01:11 GMT | ️ How AI is Transforming Cybersecurity — And Why That Matters | Mithilaesh Jayakumar | [Read More](https://medium.com/p/d0b3cf5dcb01) |
-| Sun, 15 Jun 2025 06:58:36 GMT | Fondasi Security Blockchain Modern (ECC dan Web3 Cryptography) | DzakySN | [Read More](https://medium.com/p/1ff0a9eec82d) |
-| Sun, 15 Jun 2025 06:54:10 GMT | Mengenal ECC dan Web3 Cryptography: Keamanan dan Ancaman di Baliknya | RootKitty7 | [Read More](https://medium.com/p/6e6e0d8c6a24) |
-| Sun, 15 Jun 2025 06:52:59 GMT | Hacking Windows 7 using kali linux | The Commoness | [Read More](https://medium.com/p/d95bd973f265) |
-| Sun, 15 Jun 2025 06:47:35 GMT | Cyber Kill Chain | Roshinni Gandhi | [Read More](https://medium.com/p/ed91a0ae3222) |
-| Sun, 15 Jun 2025 06:34:55 GMT | IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control | hackersatty | [Read More](https://medium.com/p/172e116bc733) |
-| Sun, 15 Jun 2025 06:32:37 GMT | This Week in Cybersecurity: Top Threats, Breaches & Breakdowns | Rishabh Shrivastava | [Read More](https://medium.com/p/77f8274f6bda) |
-| Sun, 15 Jun 2025 06:29:42 GMT | The Windows Concept Journey — Server Manager | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b0c30419ba77) |
-| Sun, 15 Jun 2025 06:21:13 GMT | CTF Day(16) | Ahmed Narmer | [Read More](https://medium.com/p/ebb36a6cb1ee) |
-| Sun, 15 Jun 2025 06:19:42 GMT | Security and Privacy Checklist: 2025 Edition | Saikat Paul | [Read More](https://medium.com/p/f08a178ee105) |
-| Sun, 15 Jun 2025 06:04:08 GMT | SMB (Server Message Block) Protocol — Complete Analysis and Enumeration Guide | Sarthak Mali | [Read More](https://medium.com/p/7c961c8ddbf2) |
-| Sun, 15 Jun 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Jun 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ae40ac6af0f2) |
-| Sun, 15 Jun 2025 05:55:20 GMT | FTP Security Assessment — Complete Study Notes | Sarthak Mali | [Read More](https://medium.com/p/6aeadd3dd574) |
-| Sun, 15 Jun 2025 05:54:27 GMT | Network Forensics: Snake KeyLogger Infection via SMTP Exfiltration | Nazmul Arafin Refat | [Read More](https://medium.com/p/2f111e24c14a) |
