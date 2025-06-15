@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 20:48:35 GMT | I Don’t Want to Love You Because I Love You | Abibat Raheem | [Read More](https://medium.com/p/7da96f07cf8e) |
+| Sun, 15 Jun 2025 20:40:58 GMT | "Unbreakable Facebook: Introducing 'Mate' – The AI Revolution in Account Security" | "Book of Ideas" | [Read More](https://medium.com/p/c01c8b19a7de) |
+| Sun, 15 Jun 2025 20:40:25 GMT | A Beginner’s Guide to Cracking WPA/WPA2 Wi-Fi Passwords Using Aircrack-ng | Nohiro Hazel Nayottama Rafid Hirmeison | [Read More](https://medium.com/p/46e4925b4c32) |
 | Sun, 15 Jun 2025 20:27:38 GMT | When SIEM, MDR, SOC, and IAM Won’t Save You from Ransomware | 0trust0day | [Read More](https://medium.com/p/27e451c4e933) |
 | Sun, 15 Jun 2025 20:17:51 GMT | Saying “I Don’t Know” Is the Most Honest Thing I’ve Done | Dilara | [Read More](https://medium.com/p/e747ae02f55d) |
 | Sun, 15 Jun 2025 20:08:49 GMT | So… What’s Inside the Box? (Spoiler: Not a Cat) | CyferNest Sec | [Read More](https://medium.com/p/4a2716374c9e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 12:34:08 GMT | Data Security and Privacy | Tobias Mathew | [Read More](https://medium.com/p/93d90ee3accb) |
 | Sun, 15 Jun 2025 12:32:01 GMT | Indonesia’s Need for Enhanced Cybersecurity Measures Amid International Cybercrime Takedown Efforts | MITRE Doggy | [Read More](https://medium.com/p/cb4b313c5f5e) |
 | Sun, 15 Jun 2025 12:31:32 GMT | Testing out some shell scripting about an overview of system firewall rules, duration for the… | Tyrik Emptage | [Read More](https://medium.com/p/771a011103d2) |
-| Sun, 15 Jun 2025 12:30:26 GMT | Caught in the Click: Android Malware Disguised as ICICI Bank | Santhosh Kumar C | [Read More](https://medium.com/p/5643d3836b1a) |
-| Sun, 15 Jun 2025 12:25:10 GMT | Application and Platform Security | Tobias Mathew | [Read More](https://medium.com/p/02dd7c6c453c) |
-| Sun, 15 Jun 2025 12:21:35 GMT | Face ID, Touch ID, and Beyond: Implementing Secure Biometric Authentication in iOS Native Apps… | The Expert Developer | [Read More](https://medium.com/p/fc4b86269ae1) |
