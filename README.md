@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 20:17:51 GMT | Saying “I Don’t Know” Is the Most Honest Thing I’ve Done | Dilara | [Read More](https://medium.com/p/e747ae02f55d) |
+| Sun, 15 Jun 2025 20:08:49 GMT | So… What’s Inside the Box? (Spoiler: Not a Cat) | CyferNest Sec | [Read More](https://medium.com/p/4a2716374c9e) |
+| Sun, 15 Jun 2025 19:53:30 GMT | CEH Certification Cost: Detailed Breakdown | Simplilearn | [Read More](https://medium.com/p/51a295c9b5dd) |
+| Sun, 15 Jun 2025 19:50:21 GMT | Quantum Boom: Surge in Tech Deals & Funding Marks a Turning Point in 2025 | QuantumGenie | [Read More](https://medium.com/p/963a1e750358) |
+| Sun, 15 Jun 2025 19:42:11 GMT | QUIC & HTTP3 — The Future Of The Internet Transport Layer? | Ace | [Read More](https://medium.com/p/a59ccbfe4ee0) |
+| Sun, 15 Jun 2025 19:41:50 GMT | Triangulace dat ve výzkumu a tvorba person (a co si z toho vzít, když to nejde podle plánu | Sarka Princova | [Read More](https://medium.com/p/822c79624cbb) |
+| Sun, 15 Jun 2025 19:30:21 GMT | Hidden Path — Step-by-Step Write-Up of an HTB Web Challenge | Saurabh | [Read More](https://medium.com/p/ecdc35c09d7d) |
 | Sun, 15 Jun 2025 19:22:38 GMT | “Why IDORs Are Everywhere — And How to Find Them” | Het Patel | [Read More](https://medium.com/p/3ba45128e0f3) |
 | Sun, 15 Jun 2025 19:20:38 GMT | I’m Starting a Daily Cybersecurity Series — From 0 | 0X595 | [Read More](https://medium.com/p/65f09ca0aa1b) |
 | Sun, 15 Jun 2025 19:20:01 GMT | The dark side of Python: Why eval() and exec() are security nightmares | Roman Huliak | [Read More](https://medium.com/p/36b9406dc140) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 12:25:10 GMT | Application and Platform Security | Tobias Mathew | [Read More](https://medium.com/p/02dd7c6c453c) |
 | Sun, 15 Jun 2025 12:21:35 GMT | Face ID, Touch ID, and Beyond: Implementing Secure Biometric Authentication in iOS Native Apps… | The Expert Developer | [Read More](https://medium.com/p/fc4b86269ae1) |
 | Sun, 15 Jun 2025 12:18:58 GMT | Inside the Ransomware Underground: Unpatched RMMs, Employee Spying Tools, and the LockBit Leak | CyDhaal | [Read More](https://medium.com/p/0e2176a63235) |
-| Sun, 15 Jun 2025 12:16:04 GMT | Information Security | Tobias Mathew | [Read More](https://medium.com/p/c0ac5411f3ee) |
-| Sun, 15 Jun 2025 12:15:53 GMT | AI vs Hackers Can Machine Learning Really Stop Cyber Attacks? | Land2Cyber | [Read More](https://medium.com/p/a37e3761984e) |
-| Sun, 15 Jun 2025 12:14:46 GMT | SYSMON | rkn | [Read More](https://medium.com/p/0e4267cc7491) |
-| Sun, 15 Jun 2025 12:07:08 GMT | Part 3: Touching the Wire | An0n | [Read More](https://medium.com/p/0683b1f6035f) |
-| Sun, 15 Jun 2025 12:04:50 GMT | [Hack The Box CTF] Backfire Write Up | fnwn | [Read More](https://medium.com/p/0d00315a46e1) |
-| Sun, 15 Jun 2025 12:03:14 GMT | Cognitive Timeout: Escaping the Password Prison | MrsNo1Special | [Read More](https://medium.com/p/b79dbd276005) |
-| Sun, 15 Jun 2025 12:01:34 GMT | The Trust Trap: When Power Demands Loyalty That Kills | Just Here for the Lulz | [Read More](https://medium.com/p/35bdc6132a39) |
