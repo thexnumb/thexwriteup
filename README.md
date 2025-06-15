@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 09:16:38 GMT | Day 10: The Anthropic’s MCP as a Data Agent — Use-cases(Part 5) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/b905343e19e1) |
+| Sun, 15 Jun 2025 09:16:26 GMT | [TryHackMe] hacking DVWA (part 2) | digistam | [Read More](https://medium.com/p/8ca83c0639ae) |
+| Sun, 15 Jun 2025 09:12:32 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | Taimur Ijlal | [Read More](https://medium.com/p/94b39a75b788) |
+| Sun, 15 Jun 2025 09:05:36 GMT | Blockchain apps just got more secured. | Mendeleev | [Read More](https://medium.com/p/bbcf6f3cce5a) |
+| Sun, 15 Jun 2025 08:56:17 GMT | Privasi Online Itu Penting, Data Apa Saja yang Rentan Dicuri? | Mukti Badriyan | [Read More](https://medium.com/p/09b80950f1e8) |
+| Sun, 15 Jun 2025 08:52:33 GMT | How to Choose the Right Firewall License for Your Business | Arpaliz | [Read More](https://medium.com/p/8b940abe6fba) |
+| Sun, 15 Jun 2025 08:35:08 GMT | Where to Find Your Target Market: A Strategic Guide for Small Businesses | LyannaMori | [Read More](https://medium.com/p/e7a130ba3f5a) |
 | Sun, 15 Jun 2025 08:19:03 GMT | ECC & Web3 Cryptography Threats | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/7b1b86c3278b) |
 | Sun, 15 Jun 2025 08:17:35 GMT | Exploring the Benefits of Baby Carrier Wraps with Momcozy | Ohlsenbukexisux | [Read More](https://medium.com/p/7d33ade311d6) |
 | Sun, 15 Jun 2025 08:17:17 GMT | Mengenal Jejak di Balik Memory Dump: Write-up CTF “Poison*d” | ph4se.vox | [Read More](https://medium.com/p/6d74b34e5bf7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 22:31:30 GMT | Cosmic Downtime Simulation for Blockchain Resilience: Stress Testing the Immutable in a Mutable… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a18515a5e308) |
 | Sat, 14 Jun 2025 22:29:02 GMT | How to Install Nextcloud Server on Nginx and Secure It using Self-Signed SSL without a Domain Name | Danis Nurmansyah | [Read More](https://medium.com/p/9a0e6ad1386d) |
 | Sat, 14 Jun 2025 22:27:25 GMT | TryHackMe HA Joker CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/ea9bc2179008) |
-| Sat, 14 Jun 2025 22:18:04 GMT | Exploring the Future of Smart Homes with SwitchBot | moorebrian5700 | [Read More](https://medium.com/p/8c5d77f9ba91) |
-| Sat, 14 Jun 2025 22:17:06 GMT | Implementing Micro-Segmentation: The Next Step Beyond Zero Trust | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9834948ac9e8) |
-| Sat, 14 Jun 2025 22:05:40 GMT | Exploring SIEM and security fundamentals on Tryhackme Rooms. | Abel caleb | [Read More](https://medium.com/p/bf65c0b3858f) |
-| Sat, 14 Jun 2025 22:00:56 GMT | Human to Human | Lucy Hughes | [Read More](https://medium.com/p/a955a454cd18) |
-| Sat, 14 Jun 2025 21:51:45 GMT | Risk and Vulnerability | Elle | [Read More](https://medium.com/p/0f0e6fbc737a) |
-| Sat, 14 Jun 2025 21:41:58 GMT | How a Midnight Doubt Sparked a Cybersecurity Spiral: Malware, Memory & Modern Threats | Ashit Mallick | [Read More](https://medium.com/p/e50e4e98551c) |
-| Sat, 14 Jun 2025 21:38:34 GMT | The Complete Kubernetes Service Accounts Guide: From Basics to Advanced Enterprise Implementation | Salwan Mohamed | [Read More](https://medium.com/p/28f9c629e21f) |
