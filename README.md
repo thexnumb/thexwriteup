@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 16:11:36 GMT | The Smart Penalty Mechanism: How Viewing a Hoax Could Cost You | Julian Andy Mangkulla | [Read More](https://medium.com/p/0de69380c55f) |
+| Sun, 15 Jun 2025 16:08:02 GMT | WebStrike Blue Team Lab (CyberDefenders) | ByteSlayer | [Read More](https://medium.com/p/baae354a0eac) |
+| Sun, 15 Jun 2025 16:03:53 GMT | File Name as Payload for Successful Command Injection: Leviathan2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/7620187bb35a) |
+| Sun, 15 Jun 2025 16:03:50 GMT | Why AI Still Sucks at Being Human (And Probably Always Will) | Payaam Raza | [Read More](https://medium.com/p/ad04a380a26d) |
+| Sun, 15 Jun 2025 15:54:14 GMT | Inner Freedom vs. State Security: Rudin’s Cold War Wisdom Revisited | Josephine Schwab | [Read More](https://medium.com/p/a9e7c07b45ba) |
+| Sun, 15 Jun 2025 15:52:58 GMT | What AI Still Can’t Do (And Why Humans Aren’t Replaceable Yet) | Payaam Raza | [Read More](https://medium.com/p/a6977341f1c6) |
+| Sun, 15 Jun 2025 15:46:45 GMT | How to Manage Your Social Media Privacy Like a Pro | Hitesh Said | [Read More](https://medium.com/p/2e4bab37d523) |
+| Sun, 15 Jun 2025 15:45:42 GMT | Proving Grounds Play: Gaara Walkthrough | Ancava | [Read More](https://medium.com/p/b0349573136e) |
 | Sun, 15 Jun 2025 15:39:51 GMT | How I Leaked Data of Cryptocurreny Human Proofing Site. | NnFace | [Read More](https://medium.com/p/a46bf69cf350) |
 | Sun, 15 Jun 2025 15:34:40 GMT | When You’re Most Afraid, Jump | Meli | [Read More](https://medium.com/p/06b7f6315328) |
 | Sun, 15 Jun 2025 15:31:37 GMT | From Mid-Level to Tech Lead: The Unspoken Path to Senior Developer | Neha Gupta | [Read More](https://medium.com/p/c552d68665fe) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 09:28:16 GMT | ️‍♂️ Mastering “Wireshark”: A Visual Network Forensics Guide (Part 1 of 3 — Introduction) | Kallabharath | [Read More](https://medium.com/p/a8506eca76c8) |
 | Sun, 15 Jun 2025 09:27:36 GMT | Malware-as-a-Service: When Hacking Becomes Subscription-Based | MrsNo1Special | [Read More](https://medium.com/p/37ccc14bd716) |
 | Sun, 15 Jun 2025 09:16:38 GMT | Day 10: The Anthropic’s MCP as a Data Agent — Use-cases(Part 5) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/b905343e19e1) |
-| Sun, 15 Jun 2025 09:16:26 GMT | [TryHackMe] hacking DVWA (part 2) | digistam | [Read More](https://medium.com/p/8ca83c0639ae) |
-| Sun, 15 Jun 2025 09:12:32 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | Taimur Ijlal | [Read More](https://medium.com/p/94b39a75b788) |
-| Sun, 15 Jun 2025 09:05:36 GMT | Blockchain apps just got more secured. | Mendeleev | [Read More](https://medium.com/p/bbcf6f3cce5a) |
-| Sun, 15 Jun 2025 08:56:17 GMT | Privasi Online Itu Penting, Data Apa Saja yang Rentan Dicuri? | Mukti Badriyan | [Read More](https://medium.com/p/09b80950f1e8) |
-| Sun, 15 Jun 2025 08:52:33 GMT | How to Choose the Right Firewall License for Your Business | Arpaliz | [Read More](https://medium.com/p/8b940abe6fba) |
-| Sun, 15 Jun 2025 08:35:08 GMT | Where to Find Your Target Market: A Strategic Guide for Small Businesses | LyannaMori | [Read More](https://medium.com/p/e7a130ba3f5a) |
-| Sun, 15 Jun 2025 08:19:03 GMT | ECC & Web3 Cryptography Threats | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/7b1b86c3278b) |
-| Sun, 15 Jun 2025 08:17:35 GMT | Exploring the Benefits of Baby Carrier Wraps with Momcozy | Ohlsenbukexisux | [Read More](https://medium.com/p/7d33ade311d6) |
