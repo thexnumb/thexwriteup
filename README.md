@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 15:09:47 GMT | Understanding ECC, Web3 Cryptography, andThreats | AjiPangesstu | [Read More](https://medium.com/p/add3f8fd1dc8) |
+| Sun, 15 Jun 2025 15:08:59 GMT | Gibberlink Mode: The Future of Stealth Communication or the Ultimate Hacker’s Tool? | Nanda Siddhardha | [Read More](https://medium.com/p/57c5d2a4a478) |
+| Sun, 15 Jun 2025 15:05:31 GMT | Huffed, Puffed, and Logged In! | Archisha | [Read More](https://medium.com/p/ffd10c59939b) |
+| Sun, 15 Jun 2025 15:02:38 GMT | Maximizing Cloud Security with Springfield Cybersecurity Services | PCnet | [Read More](https://medium.com/p/dd46ce6d7f5c) |
+| Sun, 15 Jun 2025 15:01:05 GMT | Introduction to Malware Analysis Course — From Beginner to Pro | S12 - 0x12Dark Development | [Read More](https://medium.com/p/3b6d7696a319) |
+| Sun, 15 Jun 2025 14:59:16 GMT | From Security+ to Securing AI: The Cyber Career Path You Can’t Afford to Ignore | Brian Mora | [Read More](https://medium.com/p/5eba173daec2) |
+| Sun, 15 Jun 2025 14:46:56 GMT | Executive Decision-Making in Crisis Simulation: Forging Resilience Before the Fire | Jeffrey Nickle | [Read More](https://medium.com/p/4bca4c7e99b5) |
+| Sun, 15 Jun 2025 14:37:25 GMT | ECC DAN WEB3 CRYPTOGRAPHY SERTA CARA MENANGGULANGI ANCAMAN NYA | Sandylintang | [Read More](https://medium.com/p/e71eecaad8e0) |
+| Sun, 15 Jun 2025 14:34:14 GMT | Fortifying Your Microservices: A Complete Guide to SQL Injection Prevention | TechWealthBuzz | [Read More](https://medium.com/p/e52e19869302) |
 | Sun, 15 Jun 2025 14:27:56 GMT | Mastering XSS: How I Turned Bugs into  with Real Bug Bounty Finds! | Krish_cyber | [Read More](https://medium.com/p/92a6efc0ef69) |
 | Sun, 15 Jun 2025 14:23:55 GMT | ️‍♂️ The Silent War No One Sees: Why APT Simulation Is Non‑Negotiable | ThreatVector | [Read More](https://medium.com/p/addb75bb41fb) |
 | Sun, 15 Jun 2025 14:21:07 GMT | Memahami Elliptic Curve Cryptography (ECC) dan Keamanan Kriptografi Web3 | NafyCat69 | [Read More](https://medium.com/p/2c685cb58e0d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 08:15:29 GMT | Moving from Google to Proton. Sort of. | Steve Dunn | [Read More](https://medium.com/p/1a2f92b4c807) |
 | Sun, 15 Jun 2025 08:14:46 GMT | Understanding ECC and Web3 Cryptography: A Deep Dive into Their Mechanics and Potential Threats | Zallnugraha | [Read More](https://medium.com/p/766ebd67395b) |
 | Sun, 15 Jun 2025 08:10:45 GMT | Mengenal ECC: Teknologi di Balik Keamanan Wallet dan Web3 | Rio Adi Setiono | [Read More](https://medium.com/p/260b2f4c6ae8) |
-| Sun, 15 Jun 2025 08:04:47 GMT | Wireshark for Dummies | Sagarathod | [Read More](https://medium.com/p/ff7ebf8a17ef) |
-| Sun, 15 Jun 2025 08:03:55 GMT | Lab: Exploiting server-side parameter pollution in a REST URL | Mukilan Baskaran | [Read More](https://medium.com/p/97396fd4e958) |
-| Sun, 15 Jun 2025 08:00:50 GMT | SQL Injection Detection via ORDER BY or LIMIT Clauses in MYSQL | Kaz Research | [Read More](https://medium.com/p/b895dfcb95a5) |
-| Sun, 15 Jun 2025 07:52:03 GMT | GOP vs. Sony: A Cyberattack That Changed Corporate Security Forever | Akshat | [Read More](https://medium.com/p/a185cdc7195b) |
-| Sun, 15 Jun 2025 07:48:29 GMT | Mengenal ECC dan Web3 Serta Ancamannya | Fay | [Read More](https://medium.com/p/0632c018b861) |
-| Sun, 15 Jun 2025 07:32:46 GMT | It’s Okay to Be Vulnerable with the Father | Tomiwa | [Read More](https://medium.com/p/cbe9c8e26ef2) |
-| Sun, 15 Jun 2025 07:32:37 GMT | HackTheBox Writeup — Laboratory | Simardeep Singh | [Read More](https://medium.com/p/5b08814d2ce9) |
-| Sun, 15 Jun 2025 07:24:41 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4da6086dd356) |
-| Sun, 15 Jun 2025 07:24:15 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81f1bbfb326a) |
