@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 12:25:10 GMT | Application and Platform Security | Tobias Mathew | [Read More](https://medium.com/p/02dd7c6c453c) |
+| Sun, 15 Jun 2025 12:21:35 GMT | Face ID, Touch ID, and Beyond: Implementing Secure Biometric Authentication in iOS Native Apps… | The Expert Developer | [Read More](https://medium.com/p/fc4b86269ae1) |
+| Sun, 15 Jun 2025 12:18:58 GMT | Inside the Ransomware Underground: Unpatched RMMs, Employee Spying Tools, and the LockBit Leak | CyDhaal | [Read More](https://medium.com/p/0e2176a63235) |
+| Sun, 15 Jun 2025 12:16:04 GMT | Information Security | Tobias Mathew | [Read More](https://medium.com/p/c0ac5411f3ee) |
+| Sun, 15 Jun 2025 12:15:53 GMT | AI vs Hackers Can Machine Learning Really Stop Cyber Attacks? | Land2Cyber | [Read More](https://medium.com/p/a37e3761984e) |
+| Sun, 15 Jun 2025 12:14:46 GMT | SYSMON | rkn | [Read More](https://medium.com/p/0e4267cc7491) |
+| Sun, 15 Jun 2025 12:07:08 GMT | Part 3: Touching the Wire | An0n | [Read More](https://medium.com/p/0683b1f6035f) |
+| Sun, 15 Jun 2025 12:04:50 GMT | [Hack The Box CTF] Backfire Write Up | fnwn | [Read More](https://medium.com/p/0d00315a46e1) |
+| Sun, 15 Jun 2025 12:03:14 GMT | Cognitive Timeout: Escaping the Password Prison | MrsNo1Special | [Read More](https://medium.com/p/b79dbd276005) |
+| Sun, 15 Jun 2025 12:01:34 GMT | The Trust Trap: When Power Demands Loyalty That Kills | Just Here for the Lulz | [Read More](https://medium.com/p/35bdc6132a39) |
+| Sun, 15 Jun 2025 11:57:04 GMT | Linux Firewalls: Everything You Need to Know About in 2025 | Ashish Singh | [Read More](https://medium.com/p/202fdbc7e2f9) |
+| Sun, 15 Jun 2025 11:51:27 GMT | BloodHound Configuration | Dante | [Read More](https://medium.com/p/4b3d0197e465) |
+| Sun, 15 Jun 2025 11:50:59 GMT | Ongoing Charity, Benefit and Loss | MAG | [Read More](https://medium.com/p/4a244f19cc09) |
+| Sun, 15 Jun 2025 11:47:06 GMT | Understanding Security Attacks on Embedded Systems | Nikheel Vishwas Savant | [Read More](https://medium.com/p/d26e3c850f99) |
+| Sun, 15 Jun 2025 11:40:46 GMT | Boss of the SOC V1 | ibrahim KADIKIRAN | [Read More](https://medium.com/p/720c9606a261) |
+| Sun, 15 Jun 2025 11:35:35 GMT | 10 Strategi Jitu Jadi Network Engineer Expert Incaran Perusahaan Besar. | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/12640386e0b8) |
 | Sun, 15 Jun 2025 11:22:34 GMT | The Silent Hero of Cybersecurity: Patch Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/3b8719a126ed) |
 | Sun, 15 Jun 2025 11:19:47 GMT | A Cyberweapon Beyond Ransomware: NOT_PETYA by Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/6724cf1e972a) |
 | Sun, 15 Jun 2025 11:11:43 GMT | I got an email from my own email, sextortion! | Karan Bhatti | [Read More](https://medium.com/p/2ffff3aff39e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 05:07:06 GMT | DOD SentinelOne 2025 CTF Write-Up | Ryan Collier | [Read More](https://medium.com/p/db2b177b43d4) |
 | Sun, 15 Jun 2025 05:02:41 GMT | Phishing Email Analysis | Sh3nobi | [Read More](https://medium.com/p/d8ce55df5123) |
 | Sun, 15 Jun 2025 05:01:39 GMT | Search Skills - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/8a6de5aca6df) |
-| Sun, 15 Jun 2025 04:55:10 GMT | Cryptography di Web 3: Mengenal ECC dan Ancamannya | Indra Rahmat Maulidi | [Read More](https://medium.com/p/b4391d780bc8) |
-| Sun, 15 Jun 2025 04:53:40 GMT | The Evolving World of Crypto Wallets — Beyond Storage to Sovereignty | Time Money Code | [Read More](https://medium.com/p/2587d67f5c55) |
-| Sun, 15 Jun 2025 04:52:49 GMT | Google Dorking - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/f34cb0b3f03e) |
-| Sun, 15 Jun 2025 04:48:03 GMT | Half Bloomed, Fully Feeling | Half Bloomed Diaries | [Read More](https://medium.com/p/bcc8cca8eefe) |
-| Sun, 15 Jun 2025 04:38:17 GMT | YOUR DATA IS LEAKING! SOMEONE IS GOING TO HACK IT. | Sammycarlson | [Read More](https://medium.com/p/5388568a543d) |
-| Sun, 15 Jun 2025 04:25:20 GMT | The Cyber Cats: Netcat, Socat, and Their Feline Family in Hacking | Sunera Ranasooriya | [Read More](https://medium.com/p/fa04335ea545) |
-| Sun, 15 Jun 2025 04:15:59 GMT | Quick 6: Understanding securityContext in Kubernetes Pods | Asish M Madhu | [Read More](https://medium.com/p/3332ecf50908) |
-| Sun, 15 Jun 2025 04:06:24 GMT | How i Get NASA Recognition, India Book of Records & Hall of Fame at 19 | Bitex aka Karan Vaniya | [Read More](https://medium.com/p/280e69ab51a5) |
-| Sun, 15 Jun 2025 04:00:04 GMT | Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/b1c7333e599d) |
-| Sun, 15 Jun 2025 03:58:40 GMT | FOFA Dorking - Part 6 | AbhirupKonwar | [Read More](https://medium.com/p/15fd4e18a67f) |
-| Sun, 15 Jun 2025 03:49:04 GMT | I Played a Cybersecurity Capture the Flag Game Over SSH — Here’s What I Learned | Tanner Sexton | [Read More](https://medium.com/p/25bc34cb8215) |
-| Sun, 15 Jun 2025 03:42:37 GMT | AGENT T-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/6beb3a173c13) |
-| Sun, 15 Jun 2025 03:32:38 GMT | Privacy vs Convenience: Are Smart Cars Watching Us Too Closely? | Nishal S K | [Read More](https://medium.com/p/0ec5a0e30e09) |
-| Sun, 15 Jun 2025 03:32:37 GMT | Navigating the Uncharted Waters: Inside the Alleged WooCommerce Data Breach | Deven Chhajed | [Read More](https://medium.com/p/1a66cc561a53) |
-| Sun, 15 Jun 2025 03:28:14 GMT | The Rise of Play Ransomware: A New Standard of Cyber Threat Collaboration | Akilnath Bodipudi | [Read More](https://medium.com/p/c44e9f33b6d7) |
-| Sun, 15 Jun 2025 03:18:10 GMT | The Epidemic of Fake Virtue: Who Really Benefits from America’s Border Chaos? | Mahesh Chookolingo | [Read More](https://medium.com/p/3b45ef836ddf) |
