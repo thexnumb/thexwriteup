@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 17:23:06 GMT | Business Continuity and Disaster Recovery (Fastly Outage Lessons, Part 2) | Taiwo Tomiwa | [Read More](https://medium.com/p/d538c5d5e4f8) |
+| Sun, 15 Jun 2025 17:11:53 GMT | Exploring the Exciting World of Smart Door Locks with SwitchBot! | Johnmessi | [Read More](https://medium.com/p/9946c63aa14d) |
+| Sun, 15 Jun 2025 17:11:24 GMT | How I Chained Recon and IDOR to Access 100's of Credit Cards | Bhagavan Bollina | [Read More](https://medium.com/p/0ca50eb82a74) |
+| Sun, 15 Jun 2025 17:10:16 GMT | “Who Signed This? You Did. With Cosign.” | Shashank N | [Read More](https://medium.com/p/c4bb77d5b431) |
 | Sun, 15 Jun 2025 16:59:53 GMT | Log Snare Write-Up: Hacking Your Way to Another Org’s Admin Panel | ZEROSEC | [Read More](https://medium.com/p/219499da8a1e) |
 | Sun, 15 Jun 2025 16:57:25 GMT | Stop Begging Your Agents to Behave. Build It to Be Secure. | Prasad Vispute | [Read More](https://medium.com/p/1e1af3237065) |
 | Sun, 15 Jun 2025 16:54:33 GMT | Case Study of Designing a Financial Management App Interface for Students Using the Design Thinking… | Irfansetiawan | [Read More](https://medium.com/p/6296b49a624a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 10:47:40 GMT | #  HackTheBox — Environment Machine Write-up | Vinitmalik | [Read More](https://medium.com/p/d9da1654084b) |
 | Sun, 15 Jun 2025 10:46:53 GMT | Forgot Your Ubuntu Password? Here’s How I Reset Mine. | easyhacking | [Read More](https://medium.com/p/ba81ed6c3308) |
 | Sun, 15 Jun 2025 10:42:28 GMT | I Tried to Hack Myself for 30 Days — Here’s What Scared Me Most | reviewraccoon | [Read More](https://medium.com/p/57d791e7133a) |
-| Sun, 15 Jun 2025 10:38:09 GMT | ☁️ Cloudy With a Chance of Secrets: How Terraform State Files Exposed the Infrastructure ️ | Iski | [Read More](https://medium.com/p/c78bd156a4f4) |
-| Sun, 15 Jun 2025 10:38:09 GMT | Putting Theory into Practice: My Hands-On AWS IAM Security Workout | Aashishchaudhari | [Read More](https://medium.com/p/57ba26e3e269) |
-| Sun, 15 Jun 2025 10:37:27 GMT | How I Investigated Nothing — and Still Learned Everything - OSINT Project 1 | A S Kshatriya | [Read More](https://medium.com/p/975de719f971) |
-| Sun, 15 Jun 2025 10:34:53 GMT | A Work In Progress | Utenwojo Abraham | [Read More](https://medium.com/p/0f329f12c641) |
