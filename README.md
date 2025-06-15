@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 10:08:34 GMT | ECC dan Web3 Cryptography dan Threatnya | Ewaldo Prakasa | [Read More](https://medium.com/p/7bf1fdcf3c90) |
+| Sun, 15 Jun 2025 10:03:27 GMT | Why Cybersecurity Threats Matter in 2025 | Tech Fact | [Read More](https://medium.com/p/bf35d6340670) |
+| Sun, 15 Jun 2025 09:50:11 GMT | Beginner Friendly “BLUE” TryHackMe Room — Write Up | Jatin Gahlot | [Read More](https://medium.com/p/2fb50d41bce8) |
+| Sun, 15 Jun 2025 09:49:49 GMT | HIRE CRYPTO RECOVERY OPTION FOR STOLEN CRYPTO AND BITCOIN RECOVERY | Robertjoness | [Read More](https://medium.com/p/4d12462b6339) |
+| Sun, 15 Jun 2025 09:47:28 GMT | Why Your Spring Boot App is One Security Breach Away from Disaster (And How RBAC Can Save It) | harsh shah | [Read More](https://medium.com/p/c469f4b2aa2d) |
+| Sun, 15 Jun 2025 09:47:27 GMT | Mengenal ECC dan Web3 Cryptography: Perlindungan Digital di Era Blockchain | Rendizar Satria | [Read More](https://medium.com/p/241615e0bb54) |
+| Sun, 15 Jun 2025 09:45:31 GMT | I need a hacker to recover my stolen/scammed  bitcoin/usdt/eth with a crypto recovery expert … | Robertjoness | [Read More](https://medium.com/p/18f39eff566c) |
+| Sun, 15 Jun 2025 09:43:12 GMT | SOC Analyst Career: Teams You’ll Work With in Cybersecurity | Azhariqbal | [Read More](https://medium.com/p/8b2c9a1d95ea) |
+| Sun, 15 Jun 2025 09:41:14 GMT | Kenalan Sama ECC dan Kriptografi Web3 — Aman Gak Sih Dunia Blockchain? | Arya Mahardika | [Read More](https://medium.com/p/6c7de752b225) |
 | Sun, 15 Jun 2025 09:28:16 GMT | ️‍♂️ Mastering “Wireshark”: A Visual Network Forensics Guide (Part 1 of 3 — Introduction) | Kallabharath | [Read More](https://medium.com/p/a8506eca76c8) |
 | Sun, 15 Jun 2025 09:27:36 GMT | Malware-as-a-Service: When Hacking Becomes Subscription-Based | MrsNo1Special | [Read More](https://medium.com/p/37ccc14bd716) |
 | Sun, 15 Jun 2025 09:16:38 GMT | Day 10: The Anthropic’s MCP as a Data Agent — Use-cases(Part 5) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/b905343e19e1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 00:15:25 GMT | Directory Brute-Forcing with Gobuster: A Deep-Dive Guide for Real Hackers | YooZy | [Read More](https://medium.com/p/49e06d6e0e48) |
 | Sun, 15 Jun 2025 00:12:33 GMT | Good Recon, Easy XSS — A Simple Reflected Find in Online Games Platform | Waleed Osama | [Read More](https://medium.com/p/1f51516537ed) |
 | Sun, 15 Jun 2025 00:06:32 GMT | 2 — Penetration Test Report  — Internal Engagement | Amatheusfeitosam | [Read More](https://medium.com/p/5278aea05dd5) |
-| Sun, 15 Jun 2025 00:03:07 GMT | The Work Is Mine. The Tool Was AI. | Cheryl Abram | [Read More](https://medium.com/p/436cf267a411) |
-| Sun, 15 Jun 2025 00:00:24 GMT | 247CTF | löca | [Read More](https://medium.com/p/d579b847c4aa) |
-| Sat, 14 Jun 2025 23:41:54 GMT | Secure Code Review for Beginners: Your First Step Toward Writing Safer Code | Kevin Prabhu | [Read More](https://medium.com/p/fcaded434e9e) |
-| Sat, 14 Jun 2025 23:23:08 GMT | Bilgi Teknolojileri Denetimlerinde En Sık Karşılaşılan Riskler ve Uygulanan Kontroller | Ahmet Sahin | [Read More](https://medium.com/p/57ed66795d29) |
-| Sat, 14 Jun 2025 23:11:47 GMT | Crypto Security in 2025: Are You Prepared? | Novikov Kirill | [Read More](https://medium.com/p/bf668e59197a) |
-| Sat, 14 Jun 2025 23:10:10 GMT | Embrace the Future with SwitchBot’s Digital Smart Door Lock | marc605830 | [Read More](https://medium.com/p/2a1e73c8926f) |
-| Sat, 14 Jun 2025 22:51:35 GMT | Mauzware’s TryHackMe CTF Walkthrough Playlist | mauzware | [Read More](https://medium.com/p/668b6309573f) |
-| Sat, 14 Jun 2025 22:46:44 GMT | How I Turned RFI Into RCE in 48 Hours for Just $200 | Ibtissam hammadi | [Read More](https://medium.com/p/215b4be27425) |
-| Sat, 14 Jun 2025 22:31:30 GMT | Cosmic Downtime Simulation for Blockchain Resilience: Stress Testing the Immutable in a Mutable… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a18515a5e308) |
