@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 23:02:41 GMT | CyberDefenders — Oski Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/eb22207a4efc) |
+| Sun, 15 Jun 2025 22:55:28 GMT | Testing in Detection Engineering — Part 1 | Bill Mahony | [Read More](https://medium.com/p/4b9a0be238b6) |
+| Sun, 15 Jun 2025 22:54:07 GMT | Die ultimative Roadmap zur digitalen Transformation: Warum 73% der KMU scheitern — und wie Sie… | Philip Hansen | [Read More](https://medium.com/p/76f4060257dc) |
+| Sun, 15 Jun 2025 22:52:27 GMT | Die 2025 Roadmap für digitale Geschäftsmodell-Innovation: Der ultimative Leitfaden für den… | Philip Hansen | [Read More](https://medium.com/p/2b8f47016c66) |
+| Sun, 15 Jun 2025 22:43:55 GMT | How to make a Domain Controller without a GUI | Ross Andrews | [Read More](https://medium.com/p/faa7151e0986) |
 | Sun, 15 Jun 2025 22:35:50 GMT | 2025 Cyber Sentinel Challenge — Hoasted Toasted Write-Up | Caleb Streit | [Read More](https://medium.com/p/f7d134192ff9) |
 | Sun, 15 Jun 2025 22:31:33 GMT | OPACITY WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/ccf8b827714c) |
 | Sun, 15 Jun 2025 22:16:37 GMT | Banner Grabbing in 2025: Still a Goldmine for Attackers? | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b08b21ec723a) |
+| Sun, 15 Jun 2025 22:10:37 GMT | Day 23: Just Operating Systems | Nile Okomo | [Read More](https://medium.com/p/0377a18ca3c7) |
 | Sun, 15 Jun 2025 22:01:02 GMT | When Your Best Still Isn’t Enough ….. | Abibat Raheem | [Read More](https://medium.com/p/39733a5fb56d) |
 | Sun, 15 Jun 2025 21:56:38 GMT | Understanding Keycloak Authentication in Web Services: A Beginner’s Guide | Danida Jayakody | [Read More](https://medium.com/p/e2ffce0d6393) |
 | Sun, 15 Jun 2025 21:52:32 GMT | The AI Boom Is Missing Something Big: The Customer | Angelo Bell | [Read More](https://medium.com/p/f456f8fb6107) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 13:57:01 GMT | Setting Up A SOC Homelab with Active Directory and Wazuh | Salman Ahmed | [Read More](https://medium.com/p/af76687b271f) |
 | Sun, 15 Jun 2025 13:54:59 GMT | How Do Websites Remember You? Let’s Talk Cookies. | Vaibhav Singh | [Read More](https://medium.com/p/0aaf323f3cc7) |
 | Sun, 15 Jun 2025 13:54:02 GMT | I will write chemical engineering resume, industrial processes technical reports resume | Belllucky | [Read More](https://medium.com/p/6db303f527a9) |
-| Sun, 15 Jun 2025 13:53:28 GMT | Dari Titik ke Token: Mengenal Elliptic Curve Cryptography (ECC), Kriptografi Web3, dan Ancaman… | cakaras | [Read More](https://medium.com/p/ba47699bc506) |
-| Sun, 15 Jun 2025 13:50:17 GMT | HackTheBox - Photobomb | jniket | [Read More](https://medium.com/p/5471c7f25640) |
-| Sun, 15 Jun 2025 13:48:57 GMT | Post-Exploitation with Meterpreter: A Beginner’s Guide to Windows Hacking on TryHackMe. | N4rn!4n_142 | [Read More](https://medium.com/p/6a1164d75238) |
-| Sun, 15 Jun 2025 13:44:14 GMT | Reset-THM | MRX.0 | [Read More](https://medium.com/p/af6c04c5b4e8) |
-| Sun, 15 Jun 2025 13:38:56 GMT | DFRWS 2008 Writeup | Salman Ahmed | [Read More](https://medium.com/p/e0eeb9a3d444) |
-| Sun, 15 Jun 2025 13:37:23 GMT | Intermediate Lab Environment Part 2.2b: Install Windows VM-2 | Abyss | [Read More](https://medium.com/p/f5bc0a4aac52) |
