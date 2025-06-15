@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 16:59:53 GMT | Log Snare Write-Up: Hacking Your Way to Another Org’s Admin Panel | ZEROSEC | [Read More](https://medium.com/p/219499da8a1e) |
+| Sun, 15 Jun 2025 16:57:25 GMT | Stop Begging Your Agents to Behave. Build It to Be Secure. | Prasad Vispute | [Read More](https://medium.com/p/1e1af3237065) |
+| Sun, 15 Jun 2025 16:54:33 GMT | Case Study of Designing a Financial Management App Interface for Students Using the Design Thinking… | Irfansetiawan | [Read More](https://medium.com/p/6296b49a624a) |
+| Sun, 15 Jun 2025 16:53:44 GMT | TryHackMe - Supplemental Memory - WriteUp | Axoloth | [Read More](https://medium.com/p/2012ab44892b) |
+| Sun, 15 Jun 2025 16:52:34 GMT | Secure Docker Images With Vulnerability Scanning . | Salilshaikh | [Read More](https://medium.com/p/4edacd5789fd) |
 | Sun, 15 Jun 2025 16:47:33 GMT | Cap HTB Walkthrough: Exploiting IDOR and Linux Capabilities for Root Access | Regan Temudo | [Read More](https://medium.com/p/ac57fee85794) |
+| Sun, 15 Jun 2025 16:43:48 GMT | The Dark Side of Public Cloud Networking | Monika sharma | [Read More](https://medium.com/p/9073a5a2c36a) |
 | Sun, 15 Jun 2025 16:39:53 GMT | Shodan Dorks for OSINT, Recon, and Bug Bounty | Bl@ckC!pH3r | [Read More](https://medium.com/p/a01832a0fbce) |
 | Sun, 15 Jun 2025 16:39:19 GMT | How LinkedIn Exposed Millions of Email Addresses via Voyager API | Monika sharma | [Read More](https://medium.com/p/bc09140625b9) |
 | Sun, 15 Jun 2025 16:37:07 GMT | The Russo-Chinese Cyber Axis and Germany’s Strategic Reckoning | SIMKRA | [Read More](https://medium.com/p/dd4860adab9c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 10:38:09 GMT | Putting Theory into Practice: My Hands-On AWS IAM Security Workout | Aashishchaudhari | [Read More](https://medium.com/p/57ba26e3e269) |
 | Sun, 15 Jun 2025 10:37:27 GMT | How I Investigated Nothing — and Still Learned Everything - OSINT Project 1 | A S Kshatriya | [Read More](https://medium.com/p/975de719f971) |
 | Sun, 15 Jun 2025 10:34:53 GMT | A Work In Progress | Utenwojo Abraham | [Read More](https://medium.com/p/0f329f12c641) |
-| Sun, 15 Jun 2025 10:31:02 GMT | A Practical Guide to CoAP Protocol Setup in IoT Using the Cooja Simulator | Mirza Akhi | [Read More](https://medium.com/p/b5ecef2d1956) |
-| Sun, 15 Jun 2025 10:25:40 GMT | ZTNA vs VPN-What’s Right for Modern Cybersecurity? | Janith Sandamal | [Read More](https://medium.com/p/4302d0e4f8ff) |
-| Sun, 15 Jun 2025 10:24:35 GMT | Why Many African Companies Overlook Cybersecurity in Protecting Customer Data | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/3fa6b6cb714c) |
-| Sun, 15 Jun 2025 10:22:59 GMT | Day 17: Pre-Flight to AI-Flight: Enforcing Cockpit-Level Checklists & Guardrails for Agentic AI | LAKSHMI VENKATESH | [Read More](https://medium.com/p/3ed39a22481c) |
-| Sun, 15 Jun 2025 10:08:34 GMT | ECC dan Web3 Cryptography dan Threatnya | Ewaldo Prakasa | [Read More](https://medium.com/p/7bf1fdcf3c90) |
-| Sun, 15 Jun 2025 10:03:27 GMT | Why Cybersecurity Threats Matter in 2025 | Tech Fact | [Read More](https://medium.com/p/bf35d6340670) |
