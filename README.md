@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 19:22:38 GMT | “Why IDORs Are Everywhere — And How to Find Them” | Het Patel | [Read More](https://medium.com/p/3ba45128e0f3) |
+| Sun, 15 Jun 2025 19:20:38 GMT | I’m Starting a Daily Cybersecurity Series — From 0 | 0X595 | [Read More](https://medium.com/p/65f09ca0aa1b) |
+| Sun, 15 Jun 2025 19:20:01 GMT | The dark side of Python: Why eval() and exec() are security nightmares | Roman Huliak | [Read More](https://medium.com/p/36b9406dc140) |
 | Sun, 15 Jun 2025 19:06:14 GMT | A Guide to Cyber Warfare | Ricardo Newman | [Read More](https://medium.com/p/792b3a64e6b8) |
+| Sun, 15 Jun 2025 19:04:11 GMT | Supplemental Memory - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7e0d74cd1a75) |
 | Sun, 15 Jun 2025 18:57:24 GMT | ‍ FunBox ScriptKiddie FollowAlong | This Chronoz | [Read More](https://medium.com/p/3bd75cd85f42) |
 | Sun, 15 Jun 2025 18:30:28 GMT | Subdomain Enumeration with Sublist3r: Uncovering the Hidden Layers | YooZy | [Read More](https://medium.com/p/7b7b83e9f238) |
 | Sun, 15 Jun 2025 18:24:27 GMT | Digital Twins and Industry 4.0: The Virtual Revolution | travelsmarthacks.site | [Read More](https://medium.com/p/a4ddc73ad9d6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 12:04:50 GMT | [Hack The Box CTF] Backfire Write Up | fnwn | [Read More](https://medium.com/p/0d00315a46e1) |
 | Sun, 15 Jun 2025 12:03:14 GMT | Cognitive Timeout: Escaping the Password Prison | MrsNo1Special | [Read More](https://medium.com/p/b79dbd276005) |
 | Sun, 15 Jun 2025 12:01:34 GMT | The Trust Trap: When Power Demands Loyalty That Kills | Just Here for the Lulz | [Read More](https://medium.com/p/35bdc6132a39) |
-| Sun, 15 Jun 2025 11:57:04 GMT | Linux Firewalls: Everything You Need to Know About in 2025 | Ashish Singh | [Read More](https://medium.com/p/202fdbc7e2f9) |
-| Sun, 15 Jun 2025 11:51:27 GMT | BloodHound Configuration | Dante | [Read More](https://medium.com/p/4b3d0197e465) |
-| Sun, 15 Jun 2025 11:50:59 GMT | Ongoing Charity, Benefit and Loss | MAG | [Read More](https://medium.com/p/4a244f19cc09) |
-| Sun, 15 Jun 2025 11:47:06 GMT | Understanding Security Attacks on Embedded Systems | Nikheel Vishwas Savant | [Read More](https://medium.com/p/d26e3c850f99) |
