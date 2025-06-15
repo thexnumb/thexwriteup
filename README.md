@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 11:11:43 GMT | I got an email from my own email, sextortion! | Karan Bhatti | [Read More](https://medium.com/p/2ffff3aff39e) |
+| Sun, 15 Jun 2025 11:09:41 GMT | Phantom Clicks and Ghost Traffic: Ad Fraud Meets Cybercrime | MrsNo1Special | [Read More](https://medium.com/p/81e5f8bbd4a4) |
+| Sun, 15 Jun 2025 11:05:47 GMT | naabu: powerful portscanning tool for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/758860a6526b) |
+| Sun, 15 Jun 2025 11:02:07 GMT | A cool approach to cooldown peroids | 0x40saoirse | [Read More](https://medium.com/p/c24ccbb918ee) |
+| Sun, 15 Jun 2025 10:59:00 GMT | Mastering Wireshark: A Visual Network Forensics Guide | Kallabharath | [Read More](https://medium.com/p/9bf6891397d0) |
+| Sun, 15 Jun 2025 10:51:50 GMT | Fuzzing Like a Ghost: My Misadventures with FFUF, Tor and the Elusive .onion | Rahimuddin Alrashel | [Read More](https://medium.com/p/dfd531f05cb8) |
+| Sun, 15 Jun 2025 10:47:40 GMT | #  HackTheBox — Environment Machine Write-up | Vinitmalik | [Read More](https://medium.com/p/d9da1654084b) |
+| Sun, 15 Jun 2025 10:46:53 GMT | Forgot Your Ubuntu Password? Here’s How I Reset Mine. | easyhacking | [Read More](https://medium.com/p/ba81ed6c3308) |
 | Sun, 15 Jun 2025 10:42:28 GMT | I Tried to Hack Myself for 30 Days — Here’s What Scared Me Most | reviewraccoon | [Read More](https://medium.com/p/57d791e7133a) |
 | Sun, 15 Jun 2025 10:38:09 GMT | ☁️ Cloudy With a Chance of Secrets: How Terraform State Files Exposed the Infrastructure ️ | Iski | [Read More](https://medium.com/p/c78bd156a4f4) |
 | Sun, 15 Jun 2025 10:38:09 GMT | Putting Theory into Practice: My Hands-On AWS IAM Security Workout | Aashishchaudhari | [Read More](https://medium.com/p/57ba26e3e269) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 03:18:10 GMT | The Epidemic of Fake Virtue: Who Really Benefits from America’s Border Chaos? | Mahesh Chookolingo | [Read More](https://medium.com/p/3b45ef836ddf) |
 | Sun, 15 Jun 2025 03:12:41 GMT | CTF Day(15) | Ahmed Narmer | [Read More](https://medium.com/p/8cb969b06d79) |
 | Sun, 15 Jun 2025 03:01:37 GMT | Ransomware Explained: How It Works and How to Stay Protected | Ivo Pereira | [Read More](https://medium.com/p/cb99a03f045b) |
-| Sun, 15 Jun 2025 02:48:23 GMT | I Don’t Know How to Love Myself | yeoni | [Read More](https://medium.com/p/0d7df630e31c) |
-| Sun, 15 Jun 2025 02:46:36 GMT | Step by Step Risk Management under ISO27001:2022 | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/b3b5d93000c1) |
-| Sun, 15 Jun 2025 02:32:36 GMT | OpenVPN - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/5d715b90fd55) |
-| Sun, 15 Jun 2025 02:29:25 GMT | Why Ethical Hackers Are the Future of Global Cybersecurity | Inayat Hussain | [Read More](https://medium.com/p/9d0d42908613) |
-| Sun, 15 Jun 2025 02:25:19 GMT | OSINT On Screen: Movies and Shows That Reveal the Power of Digital Investigation | The OSINT Observer | [Read More](https://medium.com/p/f585304531d9) |
-| Sun, 15 Jun 2025 02:25:10 GMT | How to Fix Termux Update Errors by Changing Mirrors… | Alex Grande | [Read More](https://medium.com/p/abf4ea4c4972) |
-| Sun, 15 Jun 2025 02:05:33 GMT | Cyber PTSD: What Happens After a Digital Attack? | MrsNo1Special | [Read More](https://medium.com/p/a617948a8917) |
-| Sun, 15 Jun 2025 01:23:19 GMT | Introduction to ECC and Web3 Cryptography | HETSHI | [Read More](https://medium.com/p/5b0522159f0e) |
