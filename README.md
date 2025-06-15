@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 19:06:14 GMT | A Guide to Cyber Warfare | Ricardo Newman | [Read More](https://medium.com/p/792b3a64e6b8) |
+| Sun, 15 Jun 2025 18:57:24 GMT | ‍ FunBox ScriptKiddie FollowAlong | This Chronoz | [Read More](https://medium.com/p/3bd75cd85f42) |
 | Sun, 15 Jun 2025 18:30:28 GMT | Subdomain Enumeration with Sublist3r: Uncovering the Hidden Layers | YooZy | [Read More](https://medium.com/p/7b7b83e9f238) |
 | Sun, 15 Jun 2025 18:24:27 GMT | Digital Twins and Industry 4.0: The Virtual Revolution | travelsmarthacks.site | [Read More](https://medium.com/p/a4ddc73ad9d6) |
 | Sun, 15 Jun 2025 18:22:25 GMT | Cybersecurity in the Age of Hyperautomation & Ambient AI | travelsmarthacks.site | [Read More](https://medium.com/p/38cacc326842) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 11:51:27 GMT | BloodHound Configuration | Dante | [Read More](https://medium.com/p/4b3d0197e465) |
 | Sun, 15 Jun 2025 11:50:59 GMT | Ongoing Charity, Benefit and Loss | MAG | [Read More](https://medium.com/p/4a244f19cc09) |
 | Sun, 15 Jun 2025 11:47:06 GMT | Understanding Security Attacks on Embedded Systems | Nikheel Vishwas Savant | [Read More](https://medium.com/p/d26e3c850f99) |
-| Sun, 15 Jun 2025 11:40:46 GMT | Boss of the SOC V1 | ibrahim KADIKIRAN | [Read More](https://medium.com/p/720c9606a261) |
-| Sun, 15 Jun 2025 11:35:35 GMT | 10 Strategi Jitu Jadi Network Engineer Expert Incaran Perusahaan Besar. | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/12640386e0b8) |
