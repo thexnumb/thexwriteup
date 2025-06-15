@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 04:00:04 GMT | Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/b1c7333e599d) |
+| Sun, 15 Jun 2025 03:58:40 GMT | FOFA Dorking - Part 6 | AbhirupKonwar | [Read More](https://medium.com/p/15fd4e18a67f) |
+| Sun, 15 Jun 2025 03:49:04 GMT | I Played a Cybersecurity Capture the Flag Game Over SSH — Here’s What I Learned | Tanner Sexton | [Read More](https://medium.com/p/25bc34cb8215) |
+| Sun, 15 Jun 2025 03:42:37 GMT | AGENT T-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/6beb3a173c13) |
+| Sun, 15 Jun 2025 03:32:38 GMT | Privacy vs Convenience: Are Smart Cars Watching Us Too Closely? | Nishal S K | [Read More](https://medium.com/p/0ec5a0e30e09) |
+| Sun, 15 Jun 2025 03:32:37 GMT | Navigating the Uncharted Waters: Inside the Alleged WooCommerce Data Breach | Deven Chhajed | [Read More](https://medium.com/p/1a66cc561a53) |
+| Sun, 15 Jun 2025 03:28:14 GMT | The Rise of Play Ransomware: A New Standard of Cyber Threat Collaboration | Akilnath Bodipudi | [Read More](https://medium.com/p/c44e9f33b6d7) |
+| Sun, 15 Jun 2025 03:18:10 GMT | The Epidemic of Fake Virtue: Who Really Benefits from America’s Border Chaos? | Mahesh Chookolingo | [Read More](https://medium.com/p/3b45ef836ddf) |
 | Sun, 15 Jun 2025 03:12:41 GMT | CTF Day(15) | Ahmed Narmer | [Read More](https://medium.com/p/8cb969b06d79) |
 | Sun, 15 Jun 2025 03:01:37 GMT | Ransomware Explained: How It Works and How to Stay Protected | Ivo Pereira | [Read More](https://medium.com/p/cb99a03f045b) |
 | Sun, 15 Jun 2025 02:48:23 GMT | I Don’t Know How to Love Myself | yeoni | [Read More](https://medium.com/p/0d7df630e31c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 14:53:12 GMT | Memahami ECC & Kriptografi Web3: Kunci Keamanan Blockchain dan Ancaman yang Mengintai | My Ego | [Read More](https://medium.com/p/02cca5f00b5f) |
 | Sat, 14 Jun 2025 14:48:47 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity (2025 List) | cyberwinx | [Read More](https://medium.com/p/f2cce6375aa2) |
 | Sat, 14 Jun 2025 14:45:19 GMT | How How Artificial Intelligence Will Change the Finance Industries | Anastassiya Bayeva | [Read More](https://medium.com/p/e72f14a014c5) |
-| Sat, 14 Jun 2025 14:37:43 GMT | Don't Get Hooked This Summer: Spot a Phishing Scam Before It Spots You | O. J. Okpabi | [Read More](https://medium.com/p/ea51184239b4) |
-| Sat, 14 Jun 2025 14:34:48 GMT | ACTRY Write-Up: In-Depth Analysis of Unauthorized Access Attempt | Ikhwanushofa Effendi | [Read More](https://medium.com/p/dfe0b1022daa) |
-| Sat, 14 Jun 2025 14:33:39 GMT | “Kibercinayətkarların Ən Güclü Silahı — C2 İnfrastrukturu və Onun Aşkarlanması” | Hasan Azizov | [Read More](https://medium.com/p/8360801b1653) |
-| Sat, 14 Jun 2025 14:29:31 GMT | Basic SOC Lab Setup on VirtualBox (Win10/11 + Kali Linux) | Hammad Zahid | [Read More](https://medium.com/p/0723f55ae99f) |
-| Sat, 14 Jun 2025 14:24:28 GMT | 7 Cara asyik tapi santai buat mulai Belajar IT | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/5e43feda691c) |
-| Sat, 14 Jun 2025 14:21:15 GMT | Remote attacker to execute arbitrary code | Marco Bytes | [Read More](https://medium.com/p/d96aa9370c77) |
-| Sat, 14 Jun 2025 14:20:45 GMT | Kali GPT: The AI-Powered Game-Changer for Cybersecurity Professionals | Itsmeanzee | [Read More](https://medium.com/p/fc9d4a5f6dbf) |
-| Sat, 14 Jun 2025 14:19:24 GMT | Protected Actions: Shielding Sensitive Operations with Protected Actions in Microsoft Entra | Oludolamu Onimole | [Read More](https://medium.com/p/a89df58f916d) |
