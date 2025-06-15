@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 05:27:50 GMT | LLM Prompt Ideas for Red Teamers | AbhirupKonwar | [Read More](https://medium.com/p/4cf7837a3511) |
+| Sun, 15 Jun 2025 05:26:37 GMT | Race Condition in Upload Quota — Free Storage via Parallel Uploads | MostReal | [Read More](https://medium.com/p/8919949da8da) |
+| Sun, 15 Jun 2025 05:25:55 GMT | $10,000 Authentication Bypass at Uber | Monika sharma | [Read More](https://medium.com/p/c091c7733662) |
+| Sun, 15 Jun 2025 05:25:45 GMT | Subdomain Takeover in the Age of SaaS: Going Beyond CNAMEs | Monika sharma | [Read More](https://medium.com/p/62cff97b0d0e) |
+| Sun, 15 Jun 2025 05:25:31 GMT | I Found 50+ Exploitable Devices in 1 Hour Using Shodan Dorking | Ibtissam hammadi | [Read More](https://medium.com/p/49e825ca0f3e) |
+| Sun, 15 Jun 2025 05:25:14 GMT | A classic file based IDOR on a government institute application portal | Adithya M S | [Read More](https://medium.com/p/b9f2b1d73035) |
+| Sun, 15 Jun 2025 05:25:00 GMT | How To Find Your 1st Bug For Bug Bounty Hunters (Step-by-Step Guide) — Guaranteed Result | Vipul Sonule | [Read More](https://medium.com/p/fd80642a6b7b) |
+| Sun, 15 Jun 2025 05:14:32 GMT | Which Coding Path Should You Choose in 2025? (Web, App, Cloud, or AI/ML?) | Aakash Bansal | [Read More](https://medium.com/p/dfabee70ee11) |
 | Sun, 15 Jun 2025 05:08:54 GMT | To the one who will finally stay.. | Nia Bloom | [Read More](https://medium.com/p/717e93e19343) |
 | Sun, 15 Jun 2025 05:07:06 GMT | DOD SentinelOne 2025 CTF Write-Up | Ryan Collier | [Read More](https://medium.com/p/db2b177b43d4) |
 | Sun, 15 Jun 2025 05:02:41 GMT | Phishing Email Analysis | Sh3nobi | [Read More](https://medium.com/p/d8ce55df5123) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 16:44:01 GMT | Escaping the Matrix — Reclaiming Autonomy in the Age of Digital Control | Pentestiverse | [Read More](https://medium.com/p/c2733c01d49d) |
 | Sat, 14 Jun 2025 16:29:57 GMT | Top 5 Dark Web .onion Links You Should Check Right Now | adityaax | [Read More](https://medium.com/p/25cbcb39618f) |
 | Sat, 14 Jun 2025 16:28:58 GMT | Day 63: Bash Scripting — Functions and Modularity | Agarwaldaksh | [Read More](https://medium.com/p/254d17ed9c73) |
-| Sat, 14 Jun 2025 16:28:40 GMT | How I Got into NASA’s Hall of Fame in Just 4 Hours Using a Simple Google Dork (As a Beginner) | Uday | [Read More](https://medium.com/p/6409fdbc5e72) |
-| Sat, 14 Jun 2025 16:24:09 GMT | When Everyone’s Talking but No One’s Saying Anything | Sumer Lynch - The Hidden Blueprint | [Read More](https://medium.com/p/49586a5a7332) |
-| Sat, 14 Jun 2025 16:12:45 GMT | CVE-2025–45878,CVE-2025–45879 and CVE-2025–45880 Showcase | Marco Nappi | [Read More](https://medium.com/p/67c0e64cc981) |
-| Sat, 14 Jun 2025 16:12:04 GMT | MY JOURNEY BUILDING MY FIRST OFFICE NETWORK | iYÁOmarv_ | [Read More](https://medium.com/p/3e54a5a993cf) |
-| Sat, 14 Jun 2025 16:08:03 GMT | Fortifying the Human Firewall: Mastering Human-Centric Cybersecurity in 2025 | Chetan Seripally | [Read More](https://medium.com/p/e37c999a95a5) |
-| Sat, 14 Jun 2025 16:06:24 GMT | DNS Security: Your first line of defense | CyberLucifer | [Read More](https://medium.com/p/cd4060a3436d) |
-| Sat, 14 Jun 2025 16:06:01 GMT | What Does “Cyber” Even Mean? A 31-Year-Old’s Take on a Field Everyone Wants to Be In | Luispuello | [Read More](https://medium.com/p/9890f3157e48) |
-| Sat, 14 Jun 2025 16:03:50 GMT | GIMP Heap Overflow Re-Discovery and Exploitation (CVE-2025–6035) | Craig Young | [Read More](https://medium.com/p/9357eeef416b) |
