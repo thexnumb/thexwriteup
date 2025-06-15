@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 21:31:30 GMT | My Terraform Associate Certification Study Notes & Guide | Mehwish | [Read More](https://medium.com/p/a985a8c4d3e4) |
+| Sun, 15 Jun 2025 21:25:57 GMT | National Web3 Infrastructure Blueprint: A Cybersecurity-Centric Vision for Digital Sovereignty | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c9b3d5d87401) |
+| Sun, 15 Jun 2025 21:20:33 GMT | I Found a $4,200 Bug in 15 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/8d1ce968cf6b) |
+| Sun, 15 Jun 2025 21:15:43 GMT | LLM Guardrail Bypass: Practical Attacks with LLMBUS | Onurcan Genç | [Read More](https://medium.com/p/27b4d0dea36d) |
+| Sun, 15 Jun 2025 21:11:53 GMT | OffSec Web Expert (OSWE) 2025 Review | Khang Nguyen | [Read More](https://medium.com/p/1426aea77a21) |
+| Sun, 15 Jun 2025 21:09:28 GMT | Real-Time Typing Tracker (Keylogger) with Firebase and Tkinter — EXE + Mobile UI Lightweight… | Muhasinahamed | [Read More](https://medium.com/p/4a156ab7df49) |
 | Sun, 15 Jun 2025 20:48:35 GMT | I Don’t Want to Love You Because I Love You | Abibat Raheem | [Read More](https://medium.com/p/7da96f07cf8e) |
 | Sun, 15 Jun 2025 20:40:58 GMT | "Unbreakable Facebook: Introducing 'Mate' – The AI Revolution in Account Security" | "Book of Ideas" | [Read More](https://medium.com/p/c01c8b19a7de) |
 | Sun, 15 Jun 2025 20:40:25 GMT | A Beginner’s Guide to Cracking WPA/WPA2 Wi-Fi Passwords Using Aircrack-ng | Nohiro Hazel Nayottama Rafid Hirmeison | [Read More](https://medium.com/p/46e4925b4c32) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 13:20:01 GMT | Password Rage: The UX Design Flaws That Make Users Unsafe | MrsNo1Special | [Read More](https://medium.com/p/0b6b168539ca) |
 | Sun, 15 Jun 2025 13:19:06 GMT | AI vs AI: Algorithms for Deepfake Detection | Doğukan | [Read More](https://medium.com/p/e6d255b185b5) |
 | Sun, 15 Jun 2025 13:09:33 GMT | Intelligence at your Cursor! | Sri Harsha Kurra | [Read More](https://medium.com/p/54e289036162) |
-| Sun, 15 Jun 2025 12:55:25 GMT | Cyber Security Roadmap 2025 — From Beginner to Pro | Yuvraj Gupta | [Read More](https://medium.com/p/96153899de9a) |
-| Sun, 15 Jun 2025 12:48:26 GMT | When Machines Whisper, we listen, learn, and interfere (if needed). | Talex Maxim (taimax13) | [Read More](https://medium.com/p/651417ed36ee) |
-| Sun, 15 Jun 2025 12:34:30 GMT | Why Security Is Step One in AWS: This is my Intro to the Well-Architected Pillar | Jose Pico | [Read More](https://medium.com/p/bb7adcbe6ec7) |
-| Sun, 15 Jun 2025 12:34:08 GMT | Data Security and Privacy | Tobias Mathew | [Read More](https://medium.com/p/93d90ee3accb) |
-| Sun, 15 Jun 2025 12:32:01 GMT | Indonesia’s Need for Enhanced Cybersecurity Measures Amid International Cybercrime Takedown Efforts | MITRE Doggy | [Read More](https://medium.com/p/cb4b313c5f5e) |
-| Sun, 15 Jun 2025 12:31:32 GMT | Testing out some shell scripting about an overview of system firewall rules, duration for the… | Tyrik Emptage | [Read More](https://medium.com/p/771a011103d2) |
