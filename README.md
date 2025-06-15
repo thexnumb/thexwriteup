@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 16:47:33 GMT | Cap HTB Walkthrough: Exploiting IDOR and Linux Capabilities for Root Access | Regan Temudo | [Read More](https://medium.com/p/ac57fee85794) |
+| Sun, 15 Jun 2025 16:39:53 GMT | Shodan Dorks for OSINT, Recon, and Bug Bounty | Bl@ckC!pH3r | [Read More](https://medium.com/p/a01832a0fbce) |
+| Sun, 15 Jun 2025 16:39:19 GMT | How LinkedIn Exposed Millions of Email Addresses via Voyager API | Monika sharma | [Read More](https://medium.com/p/bc09140625b9) |
+| Sun, 15 Jun 2025 16:37:07 GMT | The Russo-Chinese Cyber Axis and Germany’s Strategic Reckoning | SIMKRA | [Read More](https://medium.com/p/dd4860adab9c) |
+| Sun, 15 Jun 2025 16:34:21 GMT | Cybersecurity Gone Wild: The Emoji Ransomware Attack That Took Down a Small Accounting Firm | Noel | [Read More](https://medium.com/p/981ebbee248a) |
+| Sun, 15 Jun 2025 16:30:58 GMT | 10 Prompts to Build a Threat Intel Report Like a Pro | Bl@ckC!pH3r | [Read More](https://medium.com/p/454e03f9550c) |
+| Sun, 15 Jun 2025 16:30:14 GMT | Your Antivirus Can’t Stop This: The Cybersecurity Breach That Started With a Font | Noel | [Read More](https://medium.com/p/c141830bbb0b) |
+| Sun, 15 Jun 2025 16:27:18 GMT | Kriptografi ECC dan Web3: Teknologi Masa Depan beserta Ancaman yang Menghadang | Hasan Basyri | [Read More](https://medium.com/p/77e7cdf3d995) |
+| Sun, 15 Jun 2025 16:22:22 GMT | Albert Gonzales: 170 Milyon Kartlık Siber Vurgun | Umut Bulut | [Read More](https://medium.com/p/f5461706943b) |
+| Sun, 15 Jun 2025 16:19:53 GMT | Platform: TryHackMe Tool Used: Parrot OS (Linux) | Vikash Yadav | [Read More](https://medium.com/p/d379c0776ba7) |
 | Sun, 15 Jun 2025 16:11:36 GMT | The Smart Penalty Mechanism: How Viewing a Hoax Could Cost You | Julian Andy Mangkulla | [Read More](https://medium.com/p/0de69380c55f) |
 | Sun, 15 Jun 2025 16:08:02 GMT | WebStrike Blue Team Lab (CyberDefenders) | ByteSlayer | [Read More](https://medium.com/p/baae354a0eac) |
 | Sun, 15 Jun 2025 16:03:53 GMT | File Name as Payload for Successful Command Injection: Leviathan2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/7620187bb35a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 10:22:59 GMT | Day 17: Pre-Flight to AI-Flight: Enforcing Cockpit-Level Checklists & Guardrails for Agentic AI | LAKSHMI VENKATESH | [Read More](https://medium.com/p/3ed39a22481c) |
 | Sun, 15 Jun 2025 10:08:34 GMT | ECC dan Web3 Cryptography dan Threatnya | Ewaldo Prakasa | [Read More](https://medium.com/p/7bf1fdcf3c90) |
 | Sun, 15 Jun 2025 10:03:27 GMT | Why Cybersecurity Threats Matter in 2025 | Tech Fact | [Read More](https://medium.com/p/bf35d6340670) |
-| Sun, 15 Jun 2025 09:50:11 GMT | Beginner Friendly “BLUE” TryHackMe Room — Write Up | Jatin Gahlot | [Read More](https://medium.com/p/2fb50d41bce8) |
-| Sun, 15 Jun 2025 09:49:49 GMT | HIRE CRYPTO RECOVERY OPTION FOR STOLEN CRYPTO AND BITCOIN RECOVERY | Robertjoness | [Read More](https://medium.com/p/4d12462b6339) |
-| Sun, 15 Jun 2025 09:47:28 GMT | Why Your Spring Boot App is One Security Breach Away from Disaster (And How RBAC Can Save It) | harsh shah | [Read More](https://medium.com/p/c469f4b2aa2d) |
-| Sun, 15 Jun 2025 09:47:27 GMT | Mengenal ECC dan Web3 Cryptography: Perlindungan Digital di Era Blockchain | Rendizar Satria | [Read More](https://medium.com/p/241615e0bb54) |
-| Sun, 15 Jun 2025 09:45:31 GMT | I need a hacker to recover my stolen/scammed  bitcoin/usdt/eth with a crypto recovery expert … | Robertjoness | [Read More](https://medium.com/p/18f39eff566c) |
-| Sun, 15 Jun 2025 09:43:12 GMT | SOC Analyst Career: Teams You’ll Work With in Cybersecurity | Azhariqbal | [Read More](https://medium.com/p/8b2c9a1d95ea) |
-| Sun, 15 Jun 2025 09:41:14 GMT | Kenalan Sama ECC dan Kriptografi Web3 — Aman Gak Sih Dunia Blockchain? | Arya Mahardika | [Read More](https://medium.com/p/6c7de752b225) |
-| Sun, 15 Jun 2025 09:28:16 GMT | ️‍♂️ Mastering “Wireshark”: A Visual Network Forensics Guide (Part 1 of 3 — Introduction) | Kallabharath | [Read More](https://medium.com/p/a8506eca76c8) |
-| Sun, 15 Jun 2025 09:27:36 GMT | Malware-as-a-Service: When Hacking Becomes Subscription-Based | MrsNo1Special | [Read More](https://medium.com/p/37ccc14bd716) |
-| Sun, 15 Jun 2025 09:16:38 GMT | Day 10: The Anthropic’s MCP as a Data Agent — Use-cases(Part 5) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/b905343e19e1) |
