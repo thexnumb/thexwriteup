@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 13:37:23 GMT | Intermediate Lab Environment Part 2.2b: Install Windows VM-2 | Abyss | [Read More](https://medium.com/p/f5bc0a4aac52) |
+| Sun, 15 Jun 2025 13:29:16 GMT | Deciphering World of ECC and Web3 Security | AcidicWealth | [Read More](https://medium.com/p/b063239c16a4) |
+| Sun, 15 Jun 2025 13:21:33 GMT | Invisible Walls: The UX of Quiet Security | MrsNo1Special | [Read More](https://medium.com/p/f496eea24951) |
+| Sun, 15 Jun 2025 13:21:00 GMT | ️ Web3 Security Weekly — June 9–15, 2025 | Null Return | [Read More](https://medium.com/p/74aca4b44778) |
+| Sun, 15 Jun 2025 13:20:01 GMT | Password Rage: The UX Design Flaws That Make Users Unsafe | MrsNo1Special | [Read More](https://medium.com/p/0b6b168539ca) |
+| Sun, 15 Jun 2025 13:19:06 GMT | AI vs AI: Algorithms for Deepfake Detection | Doğukan | [Read More](https://medium.com/p/e6d255b185b5) |
 | Sun, 15 Jun 2025 13:09:33 GMT | Intelligence at your Cursor! | Sri Harsha Kurra | [Read More](https://medium.com/p/54e289036162) |
 | Sun, 15 Jun 2025 12:55:25 GMT | Cyber Security Roadmap 2025 — From Beginner to Pro | Yuvraj Gupta | [Read More](https://medium.com/p/96153899de9a) |
 | Sun, 15 Jun 2025 12:48:26 GMT | When Machines Whisper, we listen, learn, and interfere (if needed). | Talex Maxim (taimax13) | [Read More](https://medium.com/p/651417ed36ee) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Jun 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ae40ac6af0f2) |
 | Sun, 15 Jun 2025 05:55:20 GMT | FTP Security Assessment — Complete Study Notes | Sarthak Mali | [Read More](https://medium.com/p/6aeadd3dd574) |
 | Sun, 15 Jun 2025 05:54:27 GMT | Network Forensics: Snake KeyLogger Infection via SMTP Exfiltration | Nazmul Arafin Refat | [Read More](https://medium.com/p/2f111e24c14a) |
-| Sun, 15 Jun 2025 05:43:04 GMT | The Joke Was on Me | Ms. Anon | [Read More](https://medium.com/p/59f139c4d257) |
-| Sun, 15 Jun 2025 05:40:54 GMT | Telnet Enumeration_HTB_MEOW | Sarthak Mali | [Read More](https://medium.com/p/2bce6ad33a45) |
-| Sun, 15 Jun 2025 05:27:50 GMT | LLM Prompt Ideas for Red Teamers | AbhirupKonwar | [Read More](https://medium.com/p/4cf7837a3511) |
-| Sun, 15 Jun 2025 05:26:37 GMT | Race Condition in Upload Quota — Free Storage via Parallel Uploads | MostReal | [Read More](https://medium.com/p/8919949da8da) |
-| Sun, 15 Jun 2025 05:25:55 GMT | $10,000 Authentication Bypass at Uber | Monika sharma | [Read More](https://medium.com/p/c091c7733662) |
-| Sun, 15 Jun 2025 05:25:45 GMT | Subdomain Takeover in the Age of SaaS: Going Beyond CNAMEs | Monika sharma | [Read More](https://medium.com/p/62cff97b0d0e) |
