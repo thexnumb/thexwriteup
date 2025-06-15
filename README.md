@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 07:32:46 GMT | It’s Okay to Be Vulnerable with the Father | Tomiwa | [Read More](https://medium.com/p/cbe9c8e26ef2) |
+| Sun, 15 Jun 2025 07:32:37 GMT | HackTheBox Writeup — Laboratory | Simardeep Singh | [Read More](https://medium.com/p/5b08814d2ce9) |
+| Sun, 15 Jun 2025 07:24:41 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4da6086dd356) |
+| Sun, 15 Jun 2025 07:24:15 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81f1bbfb326a) |
+| Sun, 15 Jun 2025 07:23:30 GMT | Part 7: Bug Bounty Write-Up Strategies for BOLA | Narendar Battula (nArEn) | [Read More](https://medium.com/p/435f42bc218f) |
 | Sun, 15 Jun 2025 07:11:52 GMT | Your Smart Contract Is Safe… Until It Isn’t !! | Recover Right | [Read More](https://medium.com/p/2df1920dcb21) |
 | Sun, 15 Jun 2025 07:08:39 GMT | Linux basic for Hacker Summary | Sachin Kumar | [Read More](https://medium.com/p/e56679329908) |
 | Sun, 15 Jun 2025 07:01:11 GMT | ️ How AI is Transforming Cybersecurity — And Why That Matters | Mithilaesh Jayakumar | [Read More](https://medium.com/p/d0b3cf5dcb01) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 20:21:13 GMT | Are You Getting the Most Out of Your IT Services? See What Mace IT Offers | Susan Clinton | [Read More](https://medium.com/p/da614c029eb3) |
 | Sat, 14 Jun 2025 20:15:08 GMT | Day 22: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/349f463157e9) |
 | Sat, 14 Jun 2025 20:05:12 GMT | In reading… | Melissa Ann Tanksley | [Read More](https://medium.com/p/e3466da99e44) |
-| Sat, 14 Jun 2025 19:48:33 GMT | SAFEPAY Ransomware Disrupts Liberty-Township Municipal Systems in Ohio | Ronit Yadav | [Read More](https://medium.com/p/d516599ded9f) |
-| Sat, 14 Jun 2025 19:39:30 GMT | «Կուղբ» (Bebras) 21-րդ համաժողով | Gohar Khachatryan | [Read More](https://medium.com/p/b747690b0a26) |
-| Sat, 14 Jun 2025 19:36:36 GMT | Automated Alert Response with SOAR Platforms: Examples of XSOAR and TheHive | Esra Kayhan | [Read More](https://medium.com/p/72ba173b6a62) |
-| Sat, 14 Jun 2025 19:36:03 GMT | Bug Bounty Guide: Finding and Exploiting Leaked .git/ Directories | Medusa | [Read More](https://medium.com/p/1e05dc520bf5) |
-| Sat, 14 Jun 2025 19:12:58 GMT | Mobile Phones and Cancer Risk | Khalig Hesenov | [Read More](https://medium.com/p/28ed4d481042) |
