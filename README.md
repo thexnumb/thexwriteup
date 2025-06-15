@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 01:23:19 GMT | Introduction to ECC and Web3 Cryptography | HETSHI | [Read More](https://medium.com/p/5b0522159f0e) |
+| Sun, 15 Jun 2025 01:18:10 GMT | Exploring Smart Home Innovations with SwitchBot’s Wireless Door Lock | shelleyheath1115 | [Read More](https://medium.com/p/550a6815373a) |
+| Sun, 15 Jun 2025 01:12:27 GMT | CTF Day(14) | Ahmed Narmer | [Read More](https://medium.com/p/92ac971b0139) |
+| Sun, 15 Jun 2025 00:50:00 GMT | Scanning Tools | Abdul Khakim | [Read More](https://medium.com/p/fe1bbe2a14b0) |
+| Sun, 15 Jun 2025 00:36:44 GMT | What I Learned from IBM Skills Build: Network Security Fundamentals (Module 6 Recap) | Samiur | [Read More](https://medium.com/p/5fddb02696e4) |
+| Sun, 15 Jun 2025 00:33:34 GMT | ECC - Web3 and The Threats | Abdul Khakim | [Read More](https://medium.com/p/26a2b0216520) |
+| Sun, 15 Jun 2025 00:32:37 GMT | Kali Linux: The Ultimate OS for Hackers & Pen Testers | Kandarp Trivedi | [Read More](https://medium.com/p/d2c16279c3cf) |
+| Sun, 15 Jun 2025 00:15:25 GMT | Directory Brute-Forcing with Gobuster: A Deep-Dive Guide for Real Hackers | YooZy | [Read More](https://medium.com/p/49e06d6e0e48) |
+| Sun, 15 Jun 2025 00:12:33 GMT | Good Recon, Easy XSS — A Simple Reflected Find in Online Games Platform | Waleed Osama | [Read More](https://medium.com/p/1f51516537ed) |
+| Sun, 15 Jun 2025 00:06:32 GMT | 2 — Penetration Test Report  — Internal Engagement | Amatheusfeitosam | [Read More](https://medium.com/p/5278aea05dd5) |
+| Sun, 15 Jun 2025 00:03:07 GMT | The Work Is Mine. The Tool Was AI. | Cheryl Abram | [Read More](https://medium.com/p/436cf267a411) |
+| Sun, 15 Jun 2025 00:00:24 GMT | 247CTF | löca | [Read More](https://medium.com/p/d579b847c4aa) |
+| Sat, 14 Jun 2025 23:41:54 GMT | Secure Code Review for Beginners: Your First Step Toward Writing Safer Code | Kevin Prabhu | [Read More](https://medium.com/p/fcaded434e9e) |
 | Sat, 14 Jun 2025 23:11:47 GMT | Crypto Security in 2025: Are You Prepared? | Novikov Kirill | [Read More](https://medium.com/p/bf668e59197a) |
 | Sat, 14 Jun 2025 23:10:10 GMT | Embrace the Future with SwitchBot’s Digital Smart Door Lock | marc605830 | [Read More](https://medium.com/p/2a1e73c8926f) |
 | Sat, 14 Jun 2025 22:51:35 GMT | Mauzware’s TryHackMe CTF Walkthrough Playlist | mauzware | [Read More](https://medium.com/p/668b6309573f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 13:51:13 GMT | Phishing_Bypass_2FA-Awareness | SoNaJaa_!! | [Read More](https://medium.com/p/5bf919063d52) |
 | Sat, 14 Jun 2025 13:47:00 GMT | Gourlex: A must-needed tool for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/d33dec8720b1) |
 | Sat, 14 Jun 2025 13:45:00 GMT | Stop Exposing Your Data: How to Secure Azure Databricks the Right Way | Camille Fully | [Read More](https://medium.com/p/0ce8f4e2526e) |
-| Sat, 14 Jun 2025 13:44:04 GMT | How I Built a “Security Camera” for My AWS Account with CloudTrail | Aashishchaudhari | [Read More](https://medium.com/p/573f7f850f43) |
-| Sat, 14 Jun 2025 13:31:06 GMT | Zero Trust in Practice: Securing Internal Microservice Communication | Jusuf Topic | [Read More](https://medium.com/p/e5cffb6c16ed) |
-| Sat, 14 Jun 2025 13:22:49 GMT | Bypass IP Whitelisting by Abusing Trusted Flows | Kabi_777 | [Read More](https://medium.com/p/069f1aa415c0) |
-| Sat, 14 Jun 2025 13:22:36 GMT | Idea: Reversing Centralization — Web 1.5 | Damian Treil | [Read More](https://medium.com/p/400edf4d926c) |
-| Sat, 14 Jun 2025 13:20:55 GMT | Medical Cybersecurity: The Silent War Inside Our Hospitals | Amol Rangari | [Read More](https://medium.com/p/dc1d67371c3b) |
-| Sat, 14 Jun 2025 13:17:08 GMT | Psst…I’m Still Waiting | KACHE | [Read More](https://medium.com/p/402ba5575fdd) |
-| Sat, 14 Jun 2025 13:10:05 GMT | Inside Active Directory: What Happens After the Breach | Ailnenisaisathwik | [Read More](https://medium.com/p/7c1c0e6952d0) |
-| Sat, 14 Jun 2025 13:02:44 GMT | The Malware Behind the Mask: Fake AI Tools Targeting Tech & Marketing Teams | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d0964b0fee5c) |
-| Sat, 14 Jun 2025 12:57:07 GMT | Day 25 of #60DaysofGRC: What Are Risk Data Sources and Why Do They Matter So Much? | Brittney Ginther | [Read More](https://medium.com/p/33b346e6f7b7) |
-| Sat, 14 Jun 2025 12:55:43 GMT | I Tried 7 Cybersecurity Labs — Only 3 Were Worth My Time | Nigam | [Read More](https://medium.com/p/f358781445c3) |
-| Sat, 14 Jun 2025 12:45:16 GMT | 5 Effective Tactics to Recover from Missed Bugs in Software Testing | Asher Hartwell | [Read More](https://medium.com/p/fbb2b3bc240e) |
-| Sat, 14 Jun 2025 12:41:34 GMT | N7 Web Application CTF Walkthrough: A Step-by-Step Pentesting | Sahl | [Read More](https://medium.com/p/156d04fb7b6d) |
-| Sat, 14 Jun 2025 12:38:48 GMT | Why SSL Is Essential for Any Website | Shubham Pathak | [Read More](https://medium.com/p/c7c18f78bc80) |
