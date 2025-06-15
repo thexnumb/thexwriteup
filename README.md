@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 13:09:33 GMT | Intelligence at your Cursor! | Sri Harsha Kurra | [Read More](https://medium.com/p/54e289036162) |
+| Sun, 15 Jun 2025 12:55:25 GMT | Cyber Security Roadmap 2025 — From Beginner to Pro | Yuvraj Gupta | [Read More](https://medium.com/p/96153899de9a) |
+| Sun, 15 Jun 2025 12:48:26 GMT | When Machines Whisper, we listen, learn, and interfere (if needed). | Talex Maxim (taimax13) | [Read More](https://medium.com/p/651417ed36ee) |
+| Sun, 15 Jun 2025 12:34:30 GMT | Why Security Is Step One in AWS: This is my Intro to the Well-Architected Pillar | Jose Pico | [Read More](https://medium.com/p/bb7adcbe6ec7) |
+| Sun, 15 Jun 2025 12:34:08 GMT | Data Security and Privacy | Tobias Mathew | [Read More](https://medium.com/p/93d90ee3accb) |
+| Sun, 15 Jun 2025 12:32:01 GMT | Indonesia’s Need for Enhanced Cybersecurity Measures Amid International Cybercrime Takedown Efforts | MITRE Doggy | [Read More](https://medium.com/p/cb4b313c5f5e) |
+| Sun, 15 Jun 2025 12:31:32 GMT | Testing out some shell scripting about an overview of system firewall rules, duration for the… | Tyrik Emptage | [Read More](https://medium.com/p/771a011103d2) |
+| Sun, 15 Jun 2025 12:30:26 GMT | Caught in the Click: Android Malware Disguised as ICICI Bank | Santhosh Kumar C | [Read More](https://medium.com/p/5643d3836b1a) |
 | Sun, 15 Jun 2025 12:25:10 GMT | Application and Platform Security | Tobias Mathew | [Read More](https://medium.com/p/02dd7c6c453c) |
 | Sun, 15 Jun 2025 12:21:35 GMT | Face ID, Touch ID, and Beyond: Implementing Secure Biometric Authentication in iOS Native Apps… | The Expert Developer | [Read More](https://medium.com/p/fc4b86269ae1) |
 | Sun, 15 Jun 2025 12:18:58 GMT | Inside the Ransomware Underground: Unpatched RMMs, Employee Spying Tools, and the LockBit Leak | CyDhaal | [Read More](https://medium.com/p/0e2176a63235) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 05:26:37 GMT | Race Condition in Upload Quota — Free Storage via Parallel Uploads | MostReal | [Read More](https://medium.com/p/8919949da8da) |
 | Sun, 15 Jun 2025 05:25:55 GMT | $10,000 Authentication Bypass at Uber | Monika sharma | [Read More](https://medium.com/p/c091c7733662) |
 | Sun, 15 Jun 2025 05:25:45 GMT | Subdomain Takeover in the Age of SaaS: Going Beyond CNAMEs | Monika sharma | [Read More](https://medium.com/p/62cff97b0d0e) |
-| Sun, 15 Jun 2025 05:25:31 GMT | I Found 50+ Exploitable Devices in 1 Hour Using Shodan Dorking | Ibtissam hammadi | [Read More](https://medium.com/p/49e825ca0f3e) |
-| Sun, 15 Jun 2025 05:25:14 GMT | A classic file based IDOR on a government institute application portal | Adithya M S | [Read More](https://medium.com/p/b9f2b1d73035) |
-| Sun, 15 Jun 2025 05:25:00 GMT | How To Find Your 1st Bug For Bug Bounty Hunters (Step-by-Step Guide) — Guaranteed Result | Vipul Sonule | [Read More](https://medium.com/p/fd80642a6b7b) |
-| Sun, 15 Jun 2025 05:14:32 GMT | Which Coding Path Should You Choose in 2025? (Web, App, Cloud, or AI/ML?) | Aakash Bansal | [Read More](https://medium.com/p/dfabee70ee11) |
-| Sun, 15 Jun 2025 05:08:54 GMT | To the one who will finally stay.. | Nia Bloom | [Read More](https://medium.com/p/717e93e19343) |
-| Sun, 15 Jun 2025 05:07:06 GMT | DOD SentinelOne 2025 CTF Write-Up | Ryan Collier | [Read More](https://medium.com/p/db2b177b43d4) |
-| Sun, 15 Jun 2025 05:02:41 GMT | Phishing Email Analysis | Sh3nobi | [Read More](https://medium.com/p/d8ce55df5123) |
-| Sun, 15 Jun 2025 05:01:39 GMT | Search Skills - TryHackMe | Gaurav Mukherjee | [Read More](https://medium.com/p/8a6de5aca6df) |
