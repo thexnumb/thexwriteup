@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 07:11:52 GMT | Your Smart Contract Is Safe… Until It Isn’t !! | Recover Right | [Read More](https://medium.com/p/2df1920dcb21) |
+| Sun, 15 Jun 2025 07:08:39 GMT | Linux basic for Hacker Summary | Sachin Kumar | [Read More](https://medium.com/p/e56679329908) |
+| Sun, 15 Jun 2025 07:01:11 GMT | ️ How AI is Transforming Cybersecurity — And Why That Matters | Mithilaesh Jayakumar | [Read More](https://medium.com/p/d0b3cf5dcb01) |
+| Sun, 15 Jun 2025 06:58:36 GMT | Fondasi Security Blockchain Modern (ECC dan Web3 Cryptography) | DzakySN | [Read More](https://medium.com/p/1ff0a9eec82d) |
+| Sun, 15 Jun 2025 06:54:10 GMT | Mengenal ECC dan Web3 Cryptography: Keamanan dan Ancaman di Baliknya | RootKitty7 | [Read More](https://medium.com/p/6e6e0d8c6a24) |
+| Sun, 15 Jun 2025 06:52:59 GMT | Hacking Windows 7 using kali linux | The Commoness | [Read More](https://medium.com/p/d95bd973f265) |
+| Sun, 15 Jun 2025 06:47:35 GMT | Cyber Kill Chain | Roshinni Gandhi | [Read More](https://medium.com/p/ed91a0ae3222) |
 | Sun, 15 Jun 2025 06:34:55 GMT | IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control | hackersatty | [Read More](https://medium.com/p/172e116bc733) |
 | Sun, 15 Jun 2025 06:32:37 GMT | This Week in Cybersecurity: Top Threats, Breaches & Breakdowns | Rishabh Shrivastava | [Read More](https://medium.com/p/77f8274f6bda) |
 | Sun, 15 Jun 2025 06:29:42 GMT | The Windows Concept Journey — Server Manager | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b0c30419ba77) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 19:36:36 GMT | Automated Alert Response with SOAR Platforms: Examples of XSOAR and TheHive | Esra Kayhan | [Read More](https://medium.com/p/72ba173b6a62) |
 | Sat, 14 Jun 2025 19:36:03 GMT | Bug Bounty Guide: Finding and Exploiting Leaked .git/ Directories | Medusa | [Read More](https://medium.com/p/1e05dc520bf5) |
 | Sat, 14 Jun 2025 19:12:58 GMT | Mobile Phones and Cancer Risk | Khalig Hesenov | [Read More](https://medium.com/p/28ed4d481042) |
-| Sat, 14 Jun 2025 19:06:00 GMT | ECC dan Web3 Cryptography: Pondasi Keamanan Digital di Era Desentralisasi | Darmayanti | [Read More](https://medium.com/p/2c655be0e4a3) |
-| Sat, 14 Jun 2025 19:01:55 GMT | The Importance of Information Warfare in Modern Times | Akul Malhotra | [Read More](https://medium.com/p/8f66e63cdd74) |
-| Sat, 14 Jun 2025 18:51:04 GMT | Exposing Sensitive Data via Web Cache Deception | Ahmed Elghazaly | [Read More](https://medium.com/p/23bc41756746) |
-| Sat, 14 Jun 2025 18:47:44 GMT | i think i’m finally meeting myself | The Life Draft | [Read More](https://medium.com/p/e3e8d17a372a) |
-| Sat, 14 Jun 2025 18:10:27 GMT | EDR Atlatma Teknikleri: User-Mode’da PEB Manipülasyonu | Pınar Taşgın | [Read More](https://medium.com/p/4598b58afbad) |
-| Sat, 14 Jun 2025 18:07:32 GMT | Cybersecurity Risks in Digital Asset Funds — And How to Protect Your Investors | CV5 Capital | [Read More](https://medium.com/p/1872bc128e51) |
-| Sat, 14 Jun 2025 18:02:49 GMT | Telegram leaks@ablertgonzalez PayPal bank Cashapp western union Zelle Venmo Transfer dumps tracks… | Albert Gonzalez | [Read More](https://medium.com/p/bbe8e04eb542) |
