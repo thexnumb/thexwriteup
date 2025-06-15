@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 18:07:13 GMT | Un mot sur le community management | Lwanzo | [Read More](https://medium.com/p/2d6543a50e4d) |
+| Sun, 15 Jun 2025 18:06:52 GMT | How a Simple IDOR that causes PII Disclosure | Ananth | [Read More](https://medium.com/p/6ef5845f2be9) |
+| Sun, 15 Jun 2025 18:00:40 GMT | The fall of the Pocket Calculator | Soumyankar Mohapatra | [Read More](https://medium.com/p/c62920f46a57) |
+| Sun, 15 Jun 2025 17:58:59 GMT | Rust C2 Powered By Tor | Zarkones Xena | [Read More](https://medium.com/p/e0481f0871c0) |
+| Sun, 15 Jun 2025 17:57:27 GMT | Day 64: Automating Cybersecurity Tasks with Cron Jobs in Bash | Agarwaldaksh | [Read More](https://medium.com/p/335e6c32c0dc) |
+| Sun, 15 Jun 2025 17:52:37 GMT | Vaultless Tokenization: The Illusion of Security — Why It’s Just Awful Encryption | Karthik | [Read More](https://medium.com/p/a819f5bc6805) |
+| Sun, 15 Jun 2025 17:31:33 GMT | Episode VI — “The Locked Port & The Firewall Code” Troubleshoot Network Connectivity on Linux | Tyron Flagg | [Read More](https://medium.com/p/f0475b01aa86) |
 | Sun, 15 Jun 2025 17:23:06 GMT | Business Continuity and Disaster Recovery (Fastly Outage Lessons, Part 2) | Taiwo Tomiwa | [Read More](https://medium.com/p/d538c5d5e4f8) |
 | Sun, 15 Jun 2025 17:11:53 GMT | Exploring the Exciting World of Smart Door Locks with SwitchBot! | Johnmessi | [Read More](https://medium.com/p/9946c63aa14d) |
 | Sun, 15 Jun 2025 17:11:24 GMT | How I Chained Recon and IDOR to Access 100's of Credit Cards | Bhagavan Bollina | [Read More](https://medium.com/p/0ca50eb82a74) |
@@ -23,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 16:52:34 GMT | Secure Docker Images With Vulnerability Scanning . | Salilshaikh | [Read More](https://medium.com/p/4edacd5789fd) |
 | Sun, 15 Jun 2025 16:47:33 GMT | Cap HTB Walkthrough: Exploiting IDOR and Linux Capabilities for Root Access | Regan Temudo | [Read More](https://medium.com/p/ac57fee85794) |
 | Sun, 15 Jun 2025 16:43:48 GMT | The Dark Side of Public Cloud Networking | Monika sharma | [Read More](https://medium.com/p/9073a5a2c36a) |
+| Sun, 15 Jun 2025 16:41:20 GMT | Mengenal ECC dan Web3 Cryptography serta Ancaman yang Mengintai | SltnBM | [Read More](https://medium.com/p/2e850828220f) |
 | Sun, 15 Jun 2025 16:39:53 GMT | Shodan Dorks for OSINT, Recon, and Bug Bounty | Bl@ckC!pH3r | [Read More](https://medium.com/p/a01832a0fbce) |
 | Sun, 15 Jun 2025 16:39:19 GMT | How LinkedIn Exposed Millions of Email Addresses via Voyager API | Monika sharma | [Read More](https://medium.com/p/bc09140625b9) |
 | Sun, 15 Jun 2025 16:37:07 GMT | The Russo-Chinese Cyber Axis and Germany’s Strategic Reckoning | SIMKRA | [Read More](https://medium.com/p/dd4860adab9c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 11:22:34 GMT | The Silent Hero of Cybersecurity: Patch Management | Justice Humphrey Ugochukwu | [Read More](https://medium.com/p/3b8719a126ed) |
 | Sun, 15 Jun 2025 11:19:47 GMT | A Cyberweapon Beyond Ransomware: NOT_PETYA by Isabella Kelly | Cyber Valkyries | [Read More](https://medium.com/p/6724cf1e972a) |
 | Sun, 15 Jun 2025 11:11:43 GMT | I got an email from my own email, sextortion! | Karan Bhatti | [Read More](https://medium.com/p/2ffff3aff39e) |
-| Sun, 15 Jun 2025 11:09:41 GMT | Phantom Clicks and Ghost Traffic: Ad Fraud Meets Cybercrime | MrsNo1Special | [Read More](https://medium.com/p/81e5f8bbd4a4) |
-| Sun, 15 Jun 2025 11:05:47 GMT | naabu: powerful portscanning tool for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/758860a6526b) |
-| Sun, 15 Jun 2025 11:02:07 GMT | A cool approach to cooldown peroids | 0x40saoirse | [Read More](https://medium.com/p/c24ccbb918ee) |
-| Sun, 15 Jun 2025 10:59:00 GMT | Mastering Wireshark: A Visual Network Forensics Guide | Kallabharath | [Read More](https://medium.com/p/9bf6891397d0) |
-| Sun, 15 Jun 2025 10:51:50 GMT | Fuzzing Like a Ghost: My Misadventures with FFUF, Tor and the Elusive .onion | Rahimuddin Alrashel | [Read More](https://medium.com/p/dfd531f05cb8) |
-| Sun, 15 Jun 2025 10:47:40 GMT | #  HackTheBox — Environment Machine Write-up | Vinitmalik | [Read More](https://medium.com/p/d9da1654084b) |
-| Sun, 15 Jun 2025 10:46:53 GMT | Forgot Your Ubuntu Password? Here’s How I Reset Mine. | easyhacking | [Read More](https://medium.com/p/ba81ed6c3308) |
-| Sun, 15 Jun 2025 10:42:28 GMT | I Tried to Hack Myself for 30 Days — Here’s What Scared Me Most | reviewraccoon | [Read More](https://medium.com/p/57d791e7133a) |
