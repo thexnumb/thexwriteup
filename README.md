@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 03:12:41 GMT | CTF Day(15) | Ahmed Narmer | [Read More](https://medium.com/p/8cb969b06d79) |
+| Sun, 15 Jun 2025 03:01:37 GMT | Ransomware Explained: How It Works and How to Stay Protected | Ivo Pereira | [Read More](https://medium.com/p/cb99a03f045b) |
+| Sun, 15 Jun 2025 02:48:23 GMT | I Don’t Know How to Love Myself | yeoni | [Read More](https://medium.com/p/0d7df630e31c) |
+| Sun, 15 Jun 2025 02:46:36 GMT | Step by Step Risk Management under ISO27001:2022 | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/b3b5d93000c1) |
+| Sun, 15 Jun 2025 02:32:36 GMT | OpenVPN - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/5d715b90fd55) |
+| Sun, 15 Jun 2025 02:29:25 GMT | Why Ethical Hackers Are the Future of Global Cybersecurity | Inayat Hussain | [Read More](https://medium.com/p/9d0d42908613) |
+| Sun, 15 Jun 2025 02:25:19 GMT | OSINT On Screen: Movies and Shows That Reveal the Power of Digital Investigation | The OSINT Observer | [Read More](https://medium.com/p/f585304531d9) |
+| Sun, 15 Jun 2025 02:25:10 GMT | How to Fix Termux Update Errors by Changing Mirrors… | Alex Grande | [Read More](https://medium.com/p/abf4ea4c4972) |
+| Sun, 15 Jun 2025 02:05:33 GMT | Cyber PTSD: What Happens After a Digital Attack? | MrsNo1Special | [Read More](https://medium.com/p/a617948a8917) |
 | Sun, 15 Jun 2025 01:23:19 GMT | Introduction to ECC and Web3 Cryptography | HETSHI | [Read More](https://medium.com/p/5b0522159f0e) |
 | Sun, 15 Jun 2025 01:18:10 GMT | Exploring Smart Home Innovations with SwitchBot’s Wireless Door Lock | shelleyheath1115 | [Read More](https://medium.com/p/550a6815373a) |
 | Sun, 15 Jun 2025 01:12:27 GMT | CTF Day(14) | Ahmed Narmer | [Read More](https://medium.com/p/92ac971b0139) |
@@ -42,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 21:21:34 GMT | AppSec Best Practices to Build Security into Your Development Lifecycle | Devi prasad Guda | [Read More](https://medium.com/p/5b20f47b6ca1) |
 | Sat, 14 Jun 2025 21:14:15 GMT | Call Security | Kay Flanagan | [Read More](https://medium.com/p/046e61e33bce) |
 | Sat, 14 Jun 2025 21:06:57 GMT | Why Your Data Isn’t as Safe as You Think — The Hidden Risks of Cloud Storage | Hafizbilaltariq | [Read More](https://medium.com/p/b81db5b6459a) |
+| Sat, 14 Jun 2025 20:59:54 GMT | Quando o Chão Treme e Ninguém Vê | Igor Alcântara | [Read More](https://medium.com/p/1b09dd2e6265) |
 | Sat, 14 Jun 2025 20:59:05 GMT | What Happens to Your Data After You Die? The Truth About Digital Death | Hafizbilaltariq | [Read More](https://medium.com/p/edaecba2b5ea) |
 | Sat, 14 Jun 2025 20:42:04 GMT | sa ilalim ng kahel na langit | Letters from J | [Read More](https://medium.com/p/87a03ae01aa3) |
 | Sat, 14 Jun 2025 20:25:06 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/588de47882b1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 14:21:15 GMT | Remote attacker to execute arbitrary code | Marco Bytes | [Read More](https://medium.com/p/d96aa9370c77) |
 | Sat, 14 Jun 2025 14:20:45 GMT | Kali GPT: The AI-Powered Game-Changer for Cybersecurity Professionals | Itsmeanzee | [Read More](https://medium.com/p/fc9d4a5f6dbf) |
 | Sat, 14 Jun 2025 14:19:24 GMT | Protected Actions: Shielding Sensitive Operations with Protected Actions in Microsoft Entra | Oludolamu Onimole | [Read More](https://medium.com/p/a89df58f916d) |
-| Sat, 14 Jun 2025 14:16:27 GMT | Setup for Reverse Engineers | Lord Murak | [Read More](https://medium.com/p/090c5ddf868f) |
-| Sat, 14 Jun 2025 14:15:50 GMT | React Security: Client-Side Template Injection Prevention | Rizqi Mulki | [Read More](https://medium.com/p/3da34d827245) |
-| Sat, 14 Jun 2025 14:12:14 GMT | What Your Firewall Isn’t Telling You: Hidden Security Gaps Modern Businesses Can’t Ignore | saurabh cyberinfomines | [Read More](https://medium.com/p/a0b8b7e0b488) |
-| Sat, 14 Jun 2025 14:10:42 GMT | OAuth 2.0 Security: PKCE Implementation and Common Misconfigurations | Rizqi Mulki | [Read More](https://medium.com/p/49a61389e3ad) |
-| Sat, 14 Jun 2025 14:06:48 GMT | SCode Obfuscation vs Security: When Hiding Code Actually Hurts | Rizqi Mulki | [Read More](https://medium.com/p/8462ea1a7536) |
-| Sat, 14 Jun 2025 14:05:01 GMT | Why I Believe Real-Time Payments Are Fintech’s Biggest Innovation | Anastassiya Bayeva | [Read More](https://medium.com/p/15be7c13dac3) |
-| Sat, 14 Jun 2025 14:03:52 GMT | Shodan.io on TryHackMe (In Short) | Divita Jain | [Read More](https://medium.com/p/bfd660454e47) |
-| Sat, 14 Jun 2025 13:51:13 GMT | Phishing_Bypass_2FA-Awareness | SoNaJaa_!! | [Read More](https://medium.com/p/5bf919063d52) |
-| Sat, 14 Jun 2025 13:47:00 GMT | Gourlex: A must-needed tool for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/d33dec8720b1) |
-| Sat, 14 Jun 2025 13:45:00 GMT | Stop Exposing Your Data: How to Secure Azure Databricks the Right Way | Camille Fully | [Read More](https://medium.com/p/0ce8f4e2526e) |
