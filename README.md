@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 09:28:16 GMT | ️‍♂️ Mastering “Wireshark”: A Visual Network Forensics Guide (Part 1 of 3 — Introduction) | Kallabharath | [Read More](https://medium.com/p/a8506eca76c8) |
+| Sun, 15 Jun 2025 09:27:36 GMT | Malware-as-a-Service: When Hacking Becomes Subscription-Based | MrsNo1Special | [Read More](https://medium.com/p/37ccc14bd716) |
 | Sun, 15 Jun 2025 09:16:38 GMT | Day 10: The Anthropic’s MCP as a Data Agent — Use-cases(Part 5) | LAKSHMI VENKATESH | [Read More](https://medium.com/p/b905343e19e1) |
 | Sun, 15 Jun 2025 09:16:26 GMT | [TryHackMe] hacking DVWA (part 2) | digistam | [Read More](https://medium.com/p/8ca83c0639ae) |
 | Sun, 15 Jun 2025 09:12:32 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | Taimur Ijlal | [Read More](https://medium.com/p/94b39a75b788) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 22:51:35 GMT | Mauzware’s TryHackMe CTF Walkthrough Playlist | mauzware | [Read More](https://medium.com/p/668b6309573f) |
 | Sat, 14 Jun 2025 22:46:44 GMT | How I Turned RFI Into RCE in 48 Hours for Just $200 | Ibtissam hammadi | [Read More](https://medium.com/p/215b4be27425) |
 | Sat, 14 Jun 2025 22:31:30 GMT | Cosmic Downtime Simulation for Blockchain Resilience: Stress Testing the Immutable in a Mutable… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a18515a5e308) |
-| Sat, 14 Jun 2025 22:29:02 GMT | How to Install Nextcloud Server on Nginx and Secure It using Self-Signed SSL without a Domain Name | Danis Nurmansyah | [Read More](https://medium.com/p/9a0e6ad1386d) |
-| Sat, 14 Jun 2025 22:27:25 GMT | TryHackMe HA Joker CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/ea9bc2179008) |
