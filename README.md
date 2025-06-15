@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 10:42:28 GMT | I Tried to Hack Myself for 30 Days — Here’s What Scared Me Most | reviewraccoon | [Read More](https://medium.com/p/57d791e7133a) |
+| Sun, 15 Jun 2025 10:38:09 GMT | ☁️ Cloudy With a Chance of Secrets: How Terraform State Files Exposed the Infrastructure ️ | Iski | [Read More](https://medium.com/p/c78bd156a4f4) |
+| Sun, 15 Jun 2025 10:38:09 GMT | Putting Theory into Practice: My Hands-On AWS IAM Security Workout | Aashishchaudhari | [Read More](https://medium.com/p/57ba26e3e269) |
+| Sun, 15 Jun 2025 10:37:27 GMT | How I Investigated Nothing — and Still Learned Everything - OSINT Project 1 | A S Kshatriya | [Read More](https://medium.com/p/975de719f971) |
+| Sun, 15 Jun 2025 10:34:53 GMT | A Work In Progress | Utenwojo Abraham | [Read More](https://medium.com/p/0f329f12c641) |
+| Sun, 15 Jun 2025 10:31:02 GMT | A Practical Guide to CoAP Protocol Setup in IoT Using the Cooja Simulator | Mirza Akhi | [Read More](https://medium.com/p/b5ecef2d1956) |
+| Sun, 15 Jun 2025 10:25:40 GMT | ZTNA vs VPN-What’s Right for Modern Cybersecurity? | Janith Sandamal | [Read More](https://medium.com/p/4302d0e4f8ff) |
+| Sun, 15 Jun 2025 10:24:35 GMT | Why Many African Companies Overlook Cybersecurity in Protecting Customer Data | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/3fa6b6cb714c) |
+| Sun, 15 Jun 2025 10:22:59 GMT | Day 17: Pre-Flight to AI-Flight: Enforcing Cockpit-Level Checklists & Guardrails for Agentic AI | LAKSHMI VENKATESH | [Read More](https://medium.com/p/3ed39a22481c) |
 | Sun, 15 Jun 2025 10:08:34 GMT | ECC dan Web3 Cryptography dan Threatnya | Ewaldo Prakasa | [Read More](https://medium.com/p/7bf1fdcf3c90) |
 | Sun, 15 Jun 2025 10:03:27 GMT | Why Cybersecurity Threats Matter in 2025 | Tech Fact | [Read More](https://medium.com/p/bf35d6340670) |
 | Sun, 15 Jun 2025 09:50:11 GMT | Beginner Friendly “BLUE” TryHackMe Room — Write Up | Jatin Gahlot | [Read More](https://medium.com/p/2fb50d41bce8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 02:25:10 GMT | How to Fix Termux Update Errors by Changing Mirrors… | Alex Grande | [Read More](https://medium.com/p/abf4ea4c4972) |
 | Sun, 15 Jun 2025 02:05:33 GMT | Cyber PTSD: What Happens After a Digital Attack? | MrsNo1Special | [Read More](https://medium.com/p/a617948a8917) |
 | Sun, 15 Jun 2025 01:23:19 GMT | Introduction to ECC and Web3 Cryptography | HETSHI | [Read More](https://medium.com/p/5b0522159f0e) |
-| Sun, 15 Jun 2025 01:18:10 GMT | Exploring Smart Home Innovations with SwitchBot’s Wireless Door Lock | shelleyheath1115 | [Read More](https://medium.com/p/550a6815373a) |
-| Sun, 15 Jun 2025 01:12:27 GMT | CTF Day(14) | Ahmed Narmer | [Read More](https://medium.com/p/92ac971b0139) |
-| Sun, 15 Jun 2025 00:50:00 GMT | Scanning Tools | Abdul Khakim | [Read More](https://medium.com/p/fe1bbe2a14b0) |
-| Sun, 15 Jun 2025 00:36:44 GMT | What I Learned from IBM Skills Build: Network Security Fundamentals (Module 6 Recap) | Samiur | [Read More](https://medium.com/p/5fddb02696e4) |
-| Sun, 15 Jun 2025 00:33:34 GMT | ECC - Web3 and The Threats | Abdul Khakim | [Read More](https://medium.com/p/26a2b0216520) |
-| Sun, 15 Jun 2025 00:32:37 GMT | Kali Linux: The Ultimate OS for Hackers & Pen Testers | Kandarp Trivedi | [Read More](https://medium.com/p/d2c16279c3cf) |
-| Sun, 15 Jun 2025 00:15:25 GMT | Directory Brute-Forcing with Gobuster: A Deep-Dive Guide for Real Hackers | YooZy | [Read More](https://medium.com/p/49e06d6e0e48) |
-| Sun, 15 Jun 2025 00:12:33 GMT | Good Recon, Easy XSS — A Simple Reflected Find in Online Games Platform | Waleed Osama | [Read More](https://medium.com/p/1f51516537ed) |
-| Sun, 15 Jun 2025 00:06:32 GMT | 2 — Penetration Test Report  — Internal Engagement | Amatheusfeitosam | [Read More](https://medium.com/p/5278aea05dd5) |
