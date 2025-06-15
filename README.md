@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 15:39:51 GMT | How I Leaked Data of Cryptocurreny Human Proofing Site. | NnFace | [Read More](https://medium.com/p/a46bf69cf350) |
+| Sun, 15 Jun 2025 15:34:40 GMT | When You’re Most Afraid, Jump | Meli | [Read More](https://medium.com/p/06b7f6315328) |
+| Sun, 15 Jun 2025 15:31:37 GMT | From Mid-Level to Tech Lead: The Unspoken Path to Senior Developer | Neha Gupta | [Read More](https://medium.com/p/c552d68665fe) |
+| Sun, 15 Jun 2025 15:28:19 GMT | Unlock Gmail's Power: From Beginner to EXPERT | Papaspyrou Alexandros | [Read More](https://medium.com/p/e4b7aa5aefa1) |
+| Sun, 15 Jun 2025 15:24:46 GMT | Kali GPT: The AI Revolution in Cybersecurity and Penetration Testing | Zrhmz | [Read More](https://medium.com/p/95827275e643) |
 | Sun, 15 Jun 2025 15:09:47 GMT | Understanding ECC, Web3 Cryptography, andThreats | AjiPangesstu | [Read More](https://medium.com/p/add3f8fd1dc8) |
 | Sun, 15 Jun 2025 15:08:59 GMT | Gibberlink Mode: The Future of Stealth Communication or the Ultimate Hacker’s Tool? | Nanda Siddhardha | [Read More](https://medium.com/p/57c5d2a4a478) |
 | Sun, 15 Jun 2025 15:05:31 GMT | Huffed, Puffed, and Logged In! | Archisha | [Read More](https://medium.com/p/ffd10c59939b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 08:35:08 GMT | Where to Find Your Target Market: A Strategic Guide for Small Businesses | LyannaMori | [Read More](https://medium.com/p/e7a130ba3f5a) |
 | Sun, 15 Jun 2025 08:19:03 GMT | ECC & Web3 Cryptography Threats | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/7b1b86c3278b) |
 | Sun, 15 Jun 2025 08:17:35 GMT | Exploring the Benefits of Baby Carrier Wraps with Momcozy | Ohlsenbukexisux | [Read More](https://medium.com/p/7d33ade311d6) |
-| Sun, 15 Jun 2025 08:17:17 GMT | Mengenal Jejak di Balik Memory Dump: Write-up CTF “Poison*d” | ph4se.vox | [Read More](https://medium.com/p/6d74b34e5bf7) |
-| Sun, 15 Jun 2025 08:16:58 GMT | Building Security from the Ground Up: Why MDR and SSDLC Should Work Together | Smdefencerabbit | [Read More](https://medium.com/p/a32efd722b01) |
-| Sun, 15 Jun 2025 08:15:29 GMT | Moving from Google to Proton. Sort of. | Steve Dunn | [Read More](https://medium.com/p/1a2f92b4c807) |
-| Sun, 15 Jun 2025 08:14:46 GMT | Understanding ECC and Web3 Cryptography: A Deep Dive into Their Mechanics and Potential Threats | Zallnugraha | [Read More](https://medium.com/p/766ebd67395b) |
-| Sun, 15 Jun 2025 08:10:45 GMT | Mengenal ECC: Teknologi di Balik Keamanan Wallet dan Web3 | Rio Adi Setiono | [Read More](https://medium.com/p/260b2f4c6ae8) |
