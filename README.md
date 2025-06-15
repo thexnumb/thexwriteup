@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 14:27:56 GMT | Mastering XSS: How I Turned Bugs into  with Real Bug Bounty Finds! | Krish_cyber | [Read More](https://medium.com/p/92a6efc0ef69) |
+| Sun, 15 Jun 2025 14:23:55 GMT | ️‍♂️ The Silent War No One Sees: Why APT Simulation Is Non‑Negotiable | ThreatVector | [Read More](https://medium.com/p/addb75bb41fb) |
+| Sun, 15 Jun 2025 14:21:07 GMT | Memahami Elliptic Curve Cryptography (ECC) dan Keamanan Kriptografi Web3 | NafyCat69 | [Read More](https://medium.com/p/2c685cb58e0d) |
+| Sun, 15 Jun 2025 14:18:51 GMT | The Resonant Mirror: A Call for Global Security Beyond Borders | Luis Daniel Maldonado Fonken | [Read More](https://medium.com/p/36dfe7a3b922) |
 | Sun, 15 Jun 2025 14:11:46 GMT | XML-RPC Open, phpinfo() Public — But They Came to Hire from My College | AIwolfie | [Read More](https://medium.com/p/975acdc04f8c) |
 | Sun, 15 Jun 2025 14:10:50 GMT | TryHackMe Tokyo Ghould — Walkthrough | mauzware | [Read More](https://medium.com/p/f24b96ccfbd5) |
 | Sun, 15 Jun 2025 14:01:44 GMT | A Cyberattack Disrupted Whole Foods’ Supply Chain — Here’s What Happened | Brittney Ginther | [Read More](https://medium.com/p/cd118751f7ef) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 07:32:37 GMT | HackTheBox Writeup — Laboratory | Simardeep Singh | [Read More](https://medium.com/p/5b08814d2ce9) |
 | Sun, 15 Jun 2025 07:24:41 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4da6086dd356) |
 | Sun, 15 Jun 2025 07:24:15 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/81f1bbfb326a) |
-| Sun, 15 Jun 2025 07:23:30 GMT | Part 7: Bug Bounty Write-Up Strategies for BOLA | Narendar Battula (nArEn) | [Read More](https://medium.com/p/435f42bc218f) |
-| Sun, 15 Jun 2025 07:11:52 GMT | Your Smart Contract Is Safe… Until It Isn’t !! | Recover Right | [Read More](https://medium.com/p/2df1920dcb21) |
-| Sun, 15 Jun 2025 07:08:39 GMT | Linux basic for Hacker Summary | Sachin Kumar | [Read More](https://medium.com/p/e56679329908) |
-| Sun, 15 Jun 2025 07:01:11 GMT | ️ How AI is Transforming Cybersecurity — And Why That Matters | Mithilaesh Jayakumar | [Read More](https://medium.com/p/d0b3cf5dcb01) |
