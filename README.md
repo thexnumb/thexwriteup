@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 04:38:17 GMT | YOUR DATA IS LEAKING! SOMEONE IS GOING TO HACK IT. | Sammycarlson | [Read More](https://medium.com/p/5388568a543d) |
+| Sun, 15 Jun 2025 04:25:20 GMT | The Cyber Cats: Netcat, Socat, and Their Feline Family in Hacking | Sunera Ranasooriya | [Read More](https://medium.com/p/fa04335ea545) |
+| Sun, 15 Jun 2025 04:15:59 GMT | Quick 6: Understanding securityContext in Kubernetes Pods | Asish M Madhu | [Read More](https://medium.com/p/3332ecf50908) |
+| Sun, 15 Jun 2025 04:06:24 GMT | How i Get NASA Recognition, India Book of Records & Hall of Fame at 19 | Bitex aka Karan Vaniya | [Read More](https://medium.com/p/280e69ab51a5) |
 | Sun, 15 Jun 2025 04:00:04 GMT | Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover | 0xRedFox29 | [Read More](https://medium.com/p/b1c7333e599d) |
 | Sun, 15 Jun 2025 03:58:40 GMT | FOFA Dorking - Part 6 | AbhirupKonwar | [Read More](https://medium.com/p/15fd4e18a67f) |
 | Sun, 15 Jun 2025 03:49:04 GMT | I Played a Cybersecurity Capture the Flag Game Over SSH — Here’s What I Learned | Tanner Sexton | [Read More](https://medium.com/p/25bc34cb8215) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 15:14:20 GMT | DC: 7— VulnHub (CTF Çözümü) | Rac Adilov | [Read More](https://medium.com/p/c5a09a7a4925) |
 | Sat, 14 Jun 2025 15:11:59 GMT | Hardening Web Server; Apache. | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/7e8404ebc308) |
 | Sat, 14 Jun 2025 15:08:04 GMT | From Panic to Prevention — My first encounter with a Cyber Attack. | Akshat | [Read More](https://medium.com/p/bd5cae372467) |
-| Sat, 14 Jun 2025 15:06:44 GMT | How I Banned Any User for 24 Hours Using a Simple CSRF Attack | TakiasSec | [Read More](https://medium.com/p/388fec74f497) |
-| Sat, 14 Jun 2025 14:53:12 GMT | Memahami ECC & Kriptografi Web3: Kunci Keamanan Blockchain dan Ancaman yang Mengintai | My Ego | [Read More](https://medium.com/p/02cca5f00b5f) |
-| Sat, 14 Jun 2025 14:48:47 GMT | 350+ Free TryHackMe Rooms to Learn Ethical Hacking & Cybersecurity (2025 List) | cyberwinx | [Read More](https://medium.com/p/f2cce6375aa2) |
-| Sat, 14 Jun 2025 14:45:19 GMT | How How Artificial Intelligence Will Change the Finance Industries | Anastassiya Bayeva | [Read More](https://medium.com/p/e72f14a014c5) |
