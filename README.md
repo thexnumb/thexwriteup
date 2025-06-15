@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 06:34:55 GMT | IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control | hackersatty | [Read More](https://medium.com/p/172e116bc733) |
+| Sun, 15 Jun 2025 06:32:37 GMT | This Week in Cybersecurity: Top Threats, Breaches & Breakdowns | Rishabh Shrivastava | [Read More](https://medium.com/p/77f8274f6bda) |
+| Sun, 15 Jun 2025 06:29:42 GMT | The Windows Concept Journey — Server Manager | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b0c30419ba77) |
+| Sun, 15 Jun 2025 06:21:13 GMT | CTF Day(16) | Ahmed Narmer | [Read More](https://medium.com/p/ebb36a6cb1ee) |
 | Sun, 15 Jun 2025 06:19:42 GMT | Security and Privacy Checklist: 2025 Edition | Saikat Paul | [Read More](https://medium.com/p/f08a178ee105) |
 | Sun, 15 Jun 2025 06:04:08 GMT | SMB (Server Message Block) Protocol — Complete Analysis and Enumeration Guide | Sarthak Mali | [Read More](https://medium.com/p/7c961c8ddbf2) |
 | Sun, 15 Jun 2025 06:00:31 GMT | Today’s Top Cyber Intelligence Highlights — Jun 15, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/ae40ac6af0f2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 18:10:27 GMT | EDR Atlatma Teknikleri: User-Mode’da PEB Manipülasyonu | Pınar Taşgın | [Read More](https://medium.com/p/4598b58afbad) |
 | Sat, 14 Jun 2025 18:07:32 GMT | Cybersecurity Risks in Digital Asset Funds — And How to Protect Your Investors | CV5 Capital | [Read More](https://medium.com/p/1872bc128e51) |
 | Sat, 14 Jun 2025 18:02:49 GMT | Telegram leaks@ablertgonzalez PayPal bank Cashapp western union Zelle Venmo Transfer dumps tracks… | Albert Gonzalez | [Read More](https://medium.com/p/bbe8e04eb542) |
-| Sat, 14 Jun 2025 18:02:12 GMT | Java Full Stack Developer Roadmap (2025 Edition) | Dakshina | [Read More](https://medium.com/p/ba2314c04007) |
-| Sat, 14 Jun 2025 17:41:49 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/b1aceabebd63) |
-| Sat, 14 Jun 2025 17:26:15 GMT | Mastering Prompt Engineering for LangChain, LangGraph, and AI Agent Applications | Omar Santos | [Read More](https://medium.com/p/e26d85a55f13) |
-| Sat, 14 Jun 2025 17:21:43 GMT | Weekly Roundup — June 14th 2025 | litwtch | [Read More](https://medium.com/p/dc69956e4aa0) |
