@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 22:35:50 GMT | 2025 Cyber Sentinel Challenge — Hoasted Toasted Write-Up | Caleb Streit | [Read More](https://medium.com/p/f7d134192ff9) |
+| Sun, 15 Jun 2025 22:31:33 GMT | OPACITY WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/ccf8b827714c) |
+| Sun, 15 Jun 2025 22:16:37 GMT | Banner Grabbing in 2025: Still a Goldmine for Attackers? | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b08b21ec723a) |
 | Sun, 15 Jun 2025 22:01:02 GMT | When Your Best Still Isn’t Enough ….. | Abibat Raheem | [Read More](https://medium.com/p/39733a5fb56d) |
 | Sun, 15 Jun 2025 21:56:38 GMT | Understanding Keycloak Authentication in Web Services: A Beginner’s Guide | Danida Jayakody | [Read More](https://medium.com/p/e2ffce0d6393) |
 | Sun, 15 Jun 2025 21:52:32 GMT | The AI Boom Is Missing Something Big: The Customer | Angelo Bell | [Read More](https://medium.com/p/f456f8fb6107) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 13:44:14 GMT | Reset-THM | MRX.0 | [Read More](https://medium.com/p/af6c04c5b4e8) |
 | Sun, 15 Jun 2025 13:38:56 GMT | DFRWS 2008 Writeup | Salman Ahmed | [Read More](https://medium.com/p/e0eeb9a3d444) |
 | Sun, 15 Jun 2025 13:37:23 GMT | Intermediate Lab Environment Part 2.2b: Install Windows VM-2 | Abyss | [Read More](https://medium.com/p/f5bc0a4aac52) |
-| Sun, 15 Jun 2025 13:34:51 GMT | Revoking access to IAM Roles Anywhere using open-source private CA | Paul Schwarzenberger | [Read More](https://medium.com/p/47667cc92299) |
-| Sun, 15 Jun 2025 13:29:16 GMT | Deciphering World of ECC and Web3 Security | AcidicWealth | [Read More](https://medium.com/p/b063239c16a4) |
-| Sun, 15 Jun 2025 13:21:33 GMT | Invisible Walls: The UX of Quiet Security | MrsNo1Special | [Read More](https://medium.com/p/f496eea24951) |
