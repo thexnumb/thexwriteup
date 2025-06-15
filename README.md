@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 08:15:29 GMT | Moving from Google to Proton. Sort of. | Steve Dunn | [Read More](https://medium.com/p/1a2f92b4c807) |
+| Sun, 15 Jun 2025 08:10:45 GMT | Mengenal ECC: Teknologi di Balik Keamanan Wallet dan Web3 | Rio Adi Setiono | [Read More](https://medium.com/p/260b2f4c6ae8) |
+| Sun, 15 Jun 2025 08:04:47 GMT | Wireshark for Dummies | Sagarathod | [Read More](https://medium.com/p/ff7ebf8a17ef) |
+| Sun, 15 Jun 2025 08:03:55 GMT | Lab: Exploiting server-side parameter pollution in a REST URL | Mukilan Baskaran | [Read More](https://medium.com/p/97396fd4e958) |
+| Sun, 15 Jun 2025 08:00:50 GMT | SQL Injection Detection via ORDER BY or LIMIT Clauses in MYSQL | Kaz Research | [Read More](https://medium.com/p/b895dfcb95a5) |
+| Sun, 15 Jun 2025 07:52:03 GMT | GOP vs. Sony: A Cyberattack That Changed Corporate Security Forever | Akshat | [Read More](https://medium.com/p/a185cdc7195b) |
+| Sun, 15 Jun 2025 07:48:29 GMT | Mengenal ECC dan Web3 Serta Ancamannya | Fay | [Read More](https://medium.com/p/0632c018b861) |
 | Sun, 15 Jun 2025 07:32:46 GMT | It’s Okay to Be Vulnerable with the Father | Tomiwa | [Read More](https://medium.com/p/cbe9c8e26ef2) |
 | Sun, 15 Jun 2025 07:32:37 GMT | HackTheBox Writeup — Laboratory | Simardeep Singh | [Read More](https://medium.com/p/5b08814d2ce9) |
 | Sun, 15 Jun 2025 07:24:41 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/4da6086dd356) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 21:06:57 GMT | Why Your Data Isn’t as Safe as You Think — The Hidden Risks of Cloud Storage | Hafizbilaltariq | [Read More](https://medium.com/p/b81db5b6459a) |
 | Sat, 14 Jun 2025 20:59:54 GMT | Quando o Chão Treme e Ninguém Vê | Igor Alcântara | [Read More](https://medium.com/p/1b09dd2e6265) |
 | Sat, 14 Jun 2025 20:59:05 GMT | What Happens to Your Data After You Die? The Truth About Digital Death | Hafizbilaltariq | [Read More](https://medium.com/p/edaecba2b5ea) |
-| Sat, 14 Jun 2025 20:42:04 GMT | sa ilalim ng kahel na langit | Letters from J | [Read More](https://medium.com/p/87a03ae01aa3) |
-| Sat, 14 Jun 2025 20:25:06 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 1] | Aditya Bhatt | [Read More](https://medium.com/p/588de47882b1) |
-| Sat, 14 Jun 2025 20:21:46 GMT | Why OpenAI Is That “Toxic Ex” You Need to Stay Away From | Chris Galleta | [Read More](https://medium.com/p/e17f33cdf9c7) |
-| Sat, 14 Jun 2025 20:21:13 GMT | Threat Intelligence Starter Pack | BowTiesAreCool | [Read More](https://medium.com/p/34fb335d1f07) |
-| Sat, 14 Jun 2025 20:21:13 GMT | Are You Getting the Most Out of Your IT Services? See What Mace IT Offers | Susan Clinton | [Read More](https://medium.com/p/da614c029eb3) |
-| Sat, 14 Jun 2025 20:15:08 GMT | Day 22: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/349f463157e9) |
-| Sat, 14 Jun 2025 20:05:12 GMT | In reading… | Melissa Ann Tanksley | [Read More](https://medium.com/p/e3466da99e44) |
