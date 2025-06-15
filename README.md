@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Jun 2025 08:19:03 GMT | ECC & Web3 Cryptography Threats | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/7b1b86c3278b) |
+| Sun, 15 Jun 2025 08:17:35 GMT | Exploring the Benefits of Baby Carrier Wraps with Momcozy | Ohlsenbukexisux | [Read More](https://medium.com/p/7d33ade311d6) |
+| Sun, 15 Jun 2025 08:17:17 GMT | Mengenal Jejak di Balik Memory Dump: Write-up CTF “Poison*d” | ph4se.vox | [Read More](https://medium.com/p/6d74b34e5bf7) |
+| Sun, 15 Jun 2025 08:16:58 GMT | Building Security from the Ground Up: Why MDR and SSDLC Should Work Together | Smdefencerabbit | [Read More](https://medium.com/p/a32efd722b01) |
 | Sun, 15 Jun 2025 08:15:29 GMT | Moving from Google to Proton. Sort of. | Steve Dunn | [Read More](https://medium.com/p/1a2f92b4c807) |
+| Sun, 15 Jun 2025 08:14:46 GMT | Understanding ECC and Web3 Cryptography: A Deep Dive into Their Mechanics and Potential Threats | Zallnugraha | [Read More](https://medium.com/p/766ebd67395b) |
 | Sun, 15 Jun 2025 08:10:45 GMT | Mengenal ECC: Teknologi di Balik Keamanan Wallet dan Web3 | Rio Adi Setiono | [Read More](https://medium.com/p/260b2f4c6ae8) |
 | Sun, 15 Jun 2025 08:04:47 GMT | Wireshark for Dummies | Sagarathod | [Read More](https://medium.com/p/ff7ebf8a17ef) |
 | Sun, 15 Jun 2025 08:03:55 GMT | Lab: Exploiting server-side parameter pollution in a REST URL | Mukilan Baskaran | [Read More](https://medium.com/p/97396fd4e958) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Jun 2025 21:51:45 GMT | Risk and Vulnerability | Elle | [Read More](https://medium.com/p/0f0e6fbc737a) |
 | Sat, 14 Jun 2025 21:41:58 GMT | How a Midnight Doubt Sparked a Cybersecurity Spiral: Malware, Memory & Modern Threats | Ashit Mallick | [Read More](https://medium.com/p/e50e4e98551c) |
 | Sat, 14 Jun 2025 21:38:34 GMT | The Complete Kubernetes Service Accounts Guide: From Basics to Advanced Enterprise Implementation | Salwan Mohamed | [Read More](https://medium.com/p/28f9c629e21f) |
-| Sat, 14 Jun 2025 21:21:34 GMT | AppSec Best Practices to Build Security into Your Development Lifecycle | Devi prasad Guda | [Read More](https://medium.com/p/5b20f47b6ca1) |
-| Sat, 14 Jun 2025 21:14:15 GMT | Call Security | Kay Flanagan | [Read More](https://medium.com/p/046e61e33bce) |
-| Sat, 14 Jun 2025 21:06:57 GMT | Why Your Data Isn’t as Safe as You Think — The Hidden Risks of Cloud Storage | Hafizbilaltariq | [Read More](https://medium.com/p/b81db5b6459a) |
-| Sat, 14 Jun 2025 20:59:54 GMT | Quando o Chão Treme e Ninguém Vê | Igor Alcântara | [Read More](https://medium.com/p/1b09dd2e6265) |
-| Sat, 14 Jun 2025 20:59:05 GMT | What Happens to Your Data After You Die? The Truth About Digital Death | Hafizbilaltariq | [Read More](https://medium.com/p/edaecba2b5ea) |
