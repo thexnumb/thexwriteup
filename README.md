@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 07:17:47 GMT | Why Generic Terms of Service Can’t Protect Your SaaS Business | Tos Lawyer | [Read More](https://medium.com/p/3e94ad350b4b) |
+| Mon, 16 Jun 2025 07:17:19 GMT | How To Set Up an Apache Web-Based Server in Linux | Raymond Ebonine | [Read More](https://medium.com/p/dc870ba2dc0b) |
+| Mon, 16 Jun 2025 07:10:43 GMT | Elliptic Curve Cryptography (ECC) dan Web3 Cryptography | M. Naufal R. | [Read More](https://medium.com/p/0492ee6f653c) |
+| Mon, 16 Jun 2025 07:09:17 GMT | Activate Windows (legally) for your cybersecurity labs | Guillermo Pineda | [Read More](https://medium.com/p/e344d6e13701) |
+| Mon, 16 Jun 2025 06:57:19 GMT | This Makes Hacking TOO Easy - Flipper Zero | Your Teck | [Read More](https://medium.com/p/f15cd1e149a3) |
+| Mon, 16 Jun 2025 06:45:34 GMT | Think Like a Hacker, Act Like a Team: Rethinking Security Across Departments | Ben Kemp | [Read More](https://medium.com/p/b2cd6b6be1ff) |
+| Mon, 16 Jun 2025 06:42:15 GMT | Using Heuristics to Detect Malicious Pages | Bhuvana Medicherla | [Read More](https://medium.com/p/3e4ea1b24e79) |
+| Mon, 16 Jun 2025 06:41:52 GMT | Data Breaches & SaaS Contracts: Who’s Liable When Things Go Wrong? | Tos Lawyer | [Read More](https://medium.com/p/d75e98bbd2a3) |
+| Mon, 16 Jun 2025 06:41:36 GMT | Love, Shame, & Vulnerability | Chirka Deshi | [Read More](https://medium.com/p/1443eba2ea99) |
+| Mon, 16 Jun 2025 06:40:21 GMT | Can I join cybersecurity after the 12th? | cyber security Updates | [Read More](https://medium.com/p/e4da0bac5083) |
+| Mon, 16 Jun 2025 06:40:01 GMT | Voices in the Crowd: When Consensus Becomes a Cyber Risk | Ben Kemp | [Read More](https://medium.com/p/6159b00a69e4) |
+| Mon, 16 Jun 2025 06:34:22 GMT | With a Fraudulent Claim, the Contestability Period Reigns | Angelica Jimenez | [Read More](https://medium.com/p/19847509636e) |
+| Mon, 16 Jun 2025 06:33:24 GMT | Week 1: Top 5 Regulations and Why They Matter | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/d9b9e9238076) |
 | Mon, 16 Jun 2025 06:28:53 GMT | HUNTR — Bug Bounty Platform for AI/ML | AbhirupKonwar | [Read More](https://medium.com/p/c0e4413a7bec) |
+| Mon, 16 Jun 2025 06:28:07 GMT | Why Dark Web Monitoring Is the Cybersecurity Essential Businesses Can’t Ignore in 2025 | Smdefencerabbit | [Read More](https://medium.com/p/810cfb630f5f) |
 | Mon, 16 Jun 2025 06:27:45 GMT | Penetration Testing Service: Benefits & Importance | StrongBox IT | [Read More](https://medium.com/p/4af48c6cb21f) |
 | Mon, 16 Jun 2025 06:14:46 GMT | How Penetration Tests Keep Your Project Safe — Cherrypick’s Experience with ISO 27001 and Crypto… | Cherrypick Studio | [Read More](https://medium.com/p/1e15ac2dc844) |
 | Mon, 16 Jun 2025 06:13:42 GMT | DSP vs Accelerator: Which is Better for Executing Security Algorithms? | Geeky Vartika | [Read More](https://medium.com/p/c4aeca0faba3) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 20:40:58 GMT | "Unbreakable Facebook: Introducing 'Mate' – The AI Revolution in Account Security" | "Book of Ideas" | [Read More](https://medium.com/p/c01c8b19a7de) |
 | Sun, 15 Jun 2025 20:40:25 GMT | A Beginner’s Guide to Cracking WPA/WPA2 Wi-Fi Passwords Using Aircrack-ng | Nohiro Hazel Nayottama Rafid Hirmeison | [Read More](https://medium.com/p/46e4925b4c32) |
 | Sun, 15 Jun 2025 20:27:38 GMT | When SIEM, MDR, SOC, and IAM Won’t Save You from Ransomware | 0trust0day | [Read More](https://medium.com/p/27e451c4e933) |
-| Sun, 15 Jun 2025 20:17:51 GMT | Saying “I Don’t Know” Is the Most Honest Thing I’ve Done | Dilara | [Read More](https://medium.com/p/e747ae02f55d) |
-| Sun, 15 Jun 2025 20:08:49 GMT | So… What’s Inside the Box? (Spoiler: Not a Cat) | CyferNest Sec | [Read More](https://medium.com/p/4a2716374c9e) |
-| Sun, 15 Jun 2025 19:53:30 GMT | CEH Certification Cost: Detailed Breakdown | Simplilearn | [Read More](https://medium.com/p/51a295c9b5dd) |
-| Sun, 15 Jun 2025 19:50:21 GMT | Quantum Boom: Surge in Tech Deals & Funding Marks a Turning Point in 2025 | QuantumGenie | [Read More](https://medium.com/p/963a1e750358) |
-| Sun, 15 Jun 2025 19:42:11 GMT | QUIC & HTTP3 — The Future Of The Internet Transport Layer? | Ace | [Read More](https://medium.com/p/a59ccbfe4ee0) |
-| Sun, 15 Jun 2025 19:41:50 GMT | Triangulace dat ve výzkumu a tvorba person (a co si z toho vzít, když to nejde podle plánu | Sarka Princova | [Read More](https://medium.com/p/822c79624cbb) |
-| Sun, 15 Jun 2025 19:30:21 GMT | Hidden Path — Step-by-Step Write-Up of an HTB Web Challenge | Saurabh | [Read More](https://medium.com/p/ecdc35c09d7d) |
-| Sun, 15 Jun 2025 19:22:38 GMT | “Why IDORs Are Everywhere — And How to Find Them” | Het Patel | [Read More](https://medium.com/p/3ba45128e0f3) |
-| Sun, 15 Jun 2025 19:20:38 GMT | I’m Starting a Daily Cybersecurity Series — From 0 | 0X595 | [Read More](https://medium.com/p/65f09ca0aa1b) |
-| Sun, 15 Jun 2025 19:20:01 GMT | The dark side of Python: Why eval() and exec() are security nightmares | Roman Huliak | [Read More](https://medium.com/p/36b9406dc140) |
-| Sun, 15 Jun 2025 19:06:14 GMT | A Guide to Cyber Warfare | Ricardo Newman | [Read More](https://medium.com/p/792b3a64e6b8) |
-| Sun, 15 Jun 2025 19:04:11 GMT | Supplemental Memory - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7e0d74cd1a75) |
-| Sun, 15 Jun 2025 18:57:24 GMT | ‍ FunBox ScriptKiddie FollowAlong | This Chronoz | [Read More](https://medium.com/p/3bd75cd85f42) |
-| Sun, 15 Jun 2025 18:30:28 GMT | Subdomain Enumeration with Sublist3r: Uncovering the Hidden Layers | YooZy | [Read More](https://medium.com/p/7b7b83e9f238) |
