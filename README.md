@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 09:43:12 GMT | i missed the way how u peeled oranges for me | Letters from J | [Read More](https://medium.com/p/a0ef0ca9ad03) |
+| Mon, 16 Jun 2025 09:37:01 GMT | Trusted Cyber Security Solution Providers | InfutrixTechnologies | [Read More](https://medium.com/p/3ed0ceaf1727) |
+| Mon, 16 Jun 2025 09:36:00 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap [Part-1] | Shubhreet Dhaliwal | [Read More](https://medium.com/p/6d4f537b438e) |
+| Mon, 16 Jun 2025 09:22:46 GMT | ⚡️ How I Made EC2 SSH Access Instant with Aliases in PowerShell and Git Bash | JiokeCloudSec | [Read More](https://medium.com/p/5a9ca6eb2704) |
+| Mon, 16 Jun 2025 09:21:30 GMT | CyberChef 101: A Quick Guide to The Most Versatile Cyber Tool | Adam Goss | [Read More](https://medium.com/p/24c83a146e5b) |
 | Mon, 16 Jun 2025 09:11:58 GMT | Avoid Microsoft 365 Lockouts Set Up Break Glass Accounts | Mark O | [Read More](https://medium.com/p/d3093eb0ce29) |
 | Mon, 16 Jun 2025 09:06:07 GMT | IT Audits Made Easy: 5 Steps You Must Know Now | SecureSlate | [Read More](https://medium.com/p/de12b9fa0abe) |
 | Mon, 16 Jun 2025 09:03:13 GMT | SIA Bug Bounty Program: Hunt Bugs, Earn Rewards, and Become a Community Legend! | SIANEXX | [Read More](https://medium.com/p/100b294f4536) |
 | Mon, 16 Jun 2025 09:01:44 GMT | How to Optimise Your GRC Fast | Harry West | [Read More](https://medium.com/p/4e8041e96a31) |
+| Mon, 16 Jun 2025 09:00:43 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap | Pratham Sharma | [Read More](https://medium.com/p/fda4deca601e) |
 | Mon, 16 Jun 2025 08:46:39 GMT | Detecting and Preventing Advanced Threats with AI Security️ | WebClues Infotech | [Read More](https://medium.com/p/753e931f6da2) |
 | Mon, 16 Jun 2025 08:44:03 GMT | Smart CCTV: Intelligent Surveillance for the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/a68eb28edaac) |
 | Mon, 16 Jun 2025 08:43:58 GMT | Is Your Business Truly Prepared for the Unexpected? | The Knowledge Academy | [Read More](https://medium.com/p/fa68eba4dc92) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 03:32:39 GMT | On-Premise AI Code Reviews: Boost Code Quality and Security for Enterprise Teams | Panto AI | [Read More](https://medium.com/p/407d72ab8762) |
 | Mon, 16 Jun 2025 03:17:53 GMT | Methodology အကြောင်းအာချောင်ကွန်တန့် | Eternal Htut :3 | [Read More](https://medium.com/p/c727209ed2e5) |
 | Mon, 16 Jun 2025 02:47:59 GMT | How I found the best LLM Model for my AI PenTesting Framework | Mauricio Giraldo | [Read More](https://medium.com/p/ee5aae0d0103) |
-| Mon, 16 Jun 2025 02:44:12 GMT | Beyond Deepfakes and Ransomware: Is Quantum the Biggest Threat of 2025? | QNu Labs | [Read More](https://medium.com/p/2b573d4f21c7) |
-| Mon, 16 Jun 2025 02:38:03 GMT | Men Don’t Cry. That’s Why Breakups Hit Them Harder | Katya Koval | [Read More](https://medium.com/p/f9b2a91e5d44) |
-| Mon, 16 Jun 2025 02:14:18 GMT | India-Russia Cybersecurity Partnership, Cyber Allies or Strategic Risk? | David SEHYEON Baek | [Read More](https://medium.com/p/9e7512b4d6b4) |
-| Mon, 16 Jun 2025 02:12:48 GMT | 8 Cybersecurity Color Teams To Be Aware Of | Brandon Ingram | [Read More](https://medium.com/p/04bbe50c0aa1) |
-| Mon, 16 Jun 2025 02:02:14 GMT | When the Light Dims: Who Really Sees You? | Breaux CJ | [Read More](https://medium.com/p/5dd50cf6ab94) |
-| Mon, 16 Jun 2025 01:59:45 GMT | The Ache of Incompletion | Olabanke Goriola | [Read More](https://medium.com/p/7ff91b09e15d) |
