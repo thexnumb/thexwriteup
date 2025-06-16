@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 16:48:04 GMT | BehindTheScreens: Silent Storms and Loud Breaches(June 9–16, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/ff685bd55207) |
+| Mon, 16 Jun 2025 16:45:54 GMT | ️ Day 65 — Signal Trapping in Bash: Secure Exit and Cleanup | Agarwaldaksh | [Read More](https://medium.com/p/dcf77fff07eb) |
+| Mon, 16 Jun 2025 16:40:54 GMT | Stop the Phishing Flood: The IAM Strategy That Makes Hackers Give Up | Dr. Shashi Karhail | [Read More](https://medium.com/p/4e9f27adbd5c) |
+| Mon, 16 Jun 2025 16:38:20 GMT | Pre-Training Neural Networks is Not Always Beneficial | Five Insights | [Read More](https://medium.com/p/1c3f34a0cd89) |
+| Mon, 16 Jun 2025 16:36:10 GMT | 10 Practical Tips to Protect Yourself from AI Photo Morphing and Deepfakes Online | Er Raj Aryan | [Read More](https://medium.com/p/d3e4ebf8c270) |
+| Mon, 16 Jun 2025 16:35:56 GMT | My Worst Day in Hunting bugs - Mejbankadir -Mejbankadir — Ethical Hacker - SMH Tech — Mejbankadir. | Mejbankadir | [Read More](https://medium.com/p/752a443e7f14) |
+| Mon, 16 Jun 2025 16:35:33 GMT | Dark Web Monitoring Services to Safe Your Business Online | SafeAeon Inc. | [Read More](https://medium.com/p/64af98c4cfc5) |
+| Mon, 16 Jun 2025 16:30:02 GMT | ️Desmistificando SCA, SAST, DAST | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/bed5ee173caf) |
+| Mon, 16 Jun 2025 16:27:50 GMT | Understanding the 11 Most Common Types of Cyber Attacks | Robertpurpose | [Read More](https://medium.com/p/1227b9a1e487) |
+| Mon, 16 Jun 2025 16:27:23 GMT | “Malware — The Invisible Intruder in Your Digital Life”
+ Picture this… | Deepak Rohilla | [Read More](https://medium.com/p/edc59fa10b5a) |
+| Mon, 16 Jun 2025 16:26:37 GMT | Hire Hackers | Lionello bellucci | [Read More](https://medium.com/p/27b723c31a35) |
+| Mon, 16 Jun 2025 16:19:32 GMT | Muutuda: Meetod. Édouard Louis | Darian Calvarion | [Read More](https://medium.com/p/ffdae94e2889) |
 | Mon, 16 Jun 2025 16:17:57 GMT | How I Found A JWT Token Vulnerability that Led to Full Account Takeover | Umanhonlen Gabriel | [Read More](https://medium.com/p/a2b6385b7c5c) |
 | Mon, 16 Jun 2025 16:15:37 GMT | The Middle East on the Brink of Nuclear Catastrophe | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/5172c1797761) |
 | Mon, 16 Jun 2025 16:13:56 GMT | Open Policy Agent on AKS: Securing Clusters with Real-World Policies | Riyaselokar | [Read More](https://medium.com/p/55e4d94343c4) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 12:22:36 GMT | HTB 2Million — A Clue-Based Walk-through to Build Your Pen-testing Skills | zer0_bugs | [Read More](https://medium.com/p/d1c915e25ff8) |
 | Mon, 16 Jun 2025 12:21:40 GMT | NATO defense contractors hit with sophisticated malware campaign. June 16, 2025 | Inforsecpro | [Read More](https://medium.com/p/9c6f5834b2ed) |
 | Mon, 16 Jun 2025 12:20:37 GMT | Meta and Yandex Violating Android Users Privacy | Nitin Garg | [Read More](https://medium.com/p/fc526a6b477e) |
-| Mon, 16 Jun 2025 12:18:15 GMT | Smart Yet Cautious Money Management | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/7354130febca) |
-| Mon, 16 Jun 2025 12:17:49 GMT | Menciptakan SOC Kontemporer dengan Tools Open-Source: Pendekatan yang Terjangkau namun Efektif | Donysetyon | [Read More](https://medium.com/p/06c67b64ef60) |
-| Mon, 16 Jun 2025 12:16:21 GMT | How Much Does a Mobile Security Trailer Cost? [Rental vs Purchase] | IVIS Security | [Read More](https://medium.com/p/aafd28869096) |
-| Mon, 16 Jun 2025 12:15:59 GMT | Next‑Gen MFA: Moving Beyond SMS and OTPs in 2025 | GoTrust Tech | [Read More](https://medium.com/p/e2c652d2c3e6) |
-| Mon, 16 Jun 2025 12:15:08 GMT | Safeguarding Healthcare: Lessons from the 2025 Ocuco Data Breach and Strategies for Resilience | Chetan Seripally | [Read More](https://medium.com/p/9d199a51e64f) |
-| Mon, 16 Jun 2025 12:14:57 GMT | Understanding the 4 Core Data Classification Categories | Ampcus Cyber | [Read More](https://medium.com/p/e2cdc81540a0) |
-| Mon, 16 Jun 2025 12:09:49 GMT | Gain Exclusive BUGS Through Bugs Bunny's Reward Drop | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/dcf6b773876d) |
-| Mon, 16 Jun 2025 12:01:40 GMT | Cookie, Cache, dan Riwayat Penjelajahan, Perlukah Dihapus Rutin? | Mukti Badriyan | [Read More](https://medium.com/p/28a7a2c38e00) |
-| Mon, 16 Jun 2025 11:59:09 GMT | 35 Must-Have Ethical Hacking Tools for Cybersecurity Experts | Simplilearn | [Read More](https://medium.com/p/afdcd2b204d7) |
-| Mon, 16 Jun 2025 11:51:30 GMT | Preventing Secret Leaks Across All GitHub Repos with Morph in 5 Minutes | Vlad Lezhnin | [Read More](https://medium.com/p/319deb986931) |
-| Mon, 16 Jun 2025 11:32:13 GMT | Was it something I said? If AI prompting is an art, then I’m far from Bob Ross. | Pat Snyder | [Read More](https://medium.com/p/3e9c30b584b5) |
-| Mon, 16 Jun 2025 11:26:05 GMT | Enhancing Cyber Defense with Security Orchestration and Automation (SOAR) | Vinay Jadhav | [Read More](https://medium.com/p/e01dc2a0a303) |
