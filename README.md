@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 22:10:38 GMT | Global Cybercrime Cartels: More Dangerous Than Nation-States? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/54b70f8ca74a) |
+| Mon, 16 Jun 2025 22:00:08 GMT | Kali Linux 2025.2 Is Here: BloodHound CE, CARsenal, and 13 New Tools for Offensive Security Pros | Taha Ex | [Read More](https://medium.com/p/90c1d3b7f35d) |
+| Mon, 16 Jun 2025 21:59:36 GMT | LetsDefend: SOC338 — Lumma Stealer via DLL Side-Loading (Click Fix Phishing) | V0idd | [Read More](https://medium.com/p/330167c790be) |
+| Mon, 16 Jun 2025 21:54:01 GMT | DORK Announces Bonus Rollout: Pocket DORK Today | $DORK (DORK) | [Read More](https://medium.com/p/f5e933f8c0fd) |
+| Mon, 16 Jun 2025 21:40:18 GMT | 10 Container Security Best Practices for Engineering Teams | ActiveState | [Read More](https://medium.com/p/be9dee6d9ccd) |
+| Mon, 16 Jun 2025 21:32:28 GMT | RESILIENCE IN THE DARK: STORIES OF HOPE FROM THOSE WHO SUFFER IN SILENCE | Fedude Annie | [Read More](https://medium.com/p/895151b6552e) |
 | Mon, 16 Jun 2025 21:30:17 GMT | One Bug Leads to Two Bounties: The Simple Trick That Could Make You Rich | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/46bb1107c98c) |
 | Mon, 16 Jun 2025 21:19:05 GMT | Entre SELECTs e Segredos: Desvendando o Information_Schema em CTFs e Pentests | Sérgio Corrêa | [Read More](https://medium.com/p/ee0ad6d5c3a6) |
 | Mon, 16 Jun 2025 21:10:41 GMT | Still Clicking: Why Phishing Scams Keep Winning in Nigeria (And What You Can Do About It) | O. J. Okpabi | [Read More](https://medium.com/p/81cf83b4f1b5) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 16:26:37 GMT | Hire Hackers | Lionello bellucci | [Read More](https://medium.com/p/27b723c31a35) |
 | Mon, 16 Jun 2025 16:19:32 GMT | Muutuda: Meetod. Édouard Louis | Darian Calvarion | [Read More](https://medium.com/p/ffdae94e2889) |
 | Mon, 16 Jun 2025 16:17:57 GMT | How I Found A JWT Token Vulnerability that Led to Full Account Takeover | Umanhonlen Gabriel | [Read More](https://medium.com/p/a2b6385b7c5c) |
-| Mon, 16 Jun 2025 16:15:37 GMT | The Middle East on the Brink of Nuclear Catastrophe | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/5172c1797761) |
-| Mon, 16 Jun 2025 16:13:56 GMT | Open Policy Agent on AKS: Securing Clusters with Real-World Policies | Riyaselokar | [Read More](https://medium.com/p/55e4d94343c4) |
-| Mon, 16 Jun 2025 16:11:31 GMT | “Smart? Maybe. Secure? Nope.” — The Dark Side of Cheap IoT Devices | Uladzislau Bayouski | [Read More](https://medium.com/p/c0efc0501a17) |
-| Mon, 16 Jun 2025 16:11:26 GMT | Path Traversal to AWS credentials to S3 — Walkthrough | mauzware | [Read More](https://medium.com/p/5cd6a406fb3c) |
-| Mon, 16 Jun 2025 16:11:11 GMT | Managing OT DMZ Security with Containers | Pieter Geelen | [Read More](https://medium.com/p/fb691450b97b) |
-| Mon, 16 Jun 2025 16:04:44 GMT | Cyberwarfare — Non kinetic Warfare | Kartheek | [Read More](https://medium.com/p/2812f143a85b) |
