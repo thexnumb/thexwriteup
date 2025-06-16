@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 08:46:39 GMT | Detecting and Preventing Advanced Threats with AI Security️ | WebClues Infotech | [Read More](https://medium.com/p/753e931f6da2) |
+| Mon, 16 Jun 2025 08:44:03 GMT | Smart CCTV: Intelligent Surveillance for the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/a68eb28edaac) |
+| Mon, 16 Jun 2025 08:43:58 GMT | Is Your Business Truly Prepared for the Unexpected? | The Knowledge Academy | [Read More](https://medium.com/p/fa68eba4dc92) |
+| Mon, 16 Jun 2025 08:43:39 GMT | Inside Zeus Malware — A Step-by-Step Network Traffic Analysis | Amina Moallim | [Read More](https://medium.com/p/941809b2d832) |
+| Mon, 16 Jun 2025 08:43:01 GMT | Security Guards California: My Experience Securing a Construction Site | Ca security Guards | [Read More](https://medium.com/p/3826bdb70749) |
+| Mon, 16 Jun 2025 08:41:05 GMT | TryHackMe — Valley | TheSocialHacker | [Read More](https://medium.com/p/7140c15710e9) |
+| Mon, 16 Jun 2025 08:37:26 GMT | eJPT - 3.3 The Metasploit Framework (I) | Hammaad M | [Read More](https://medium.com/p/ba7bab845e7f) |
+| Mon, 16 Jun 2025 08:30:06 GMT | Write-Up Pentest WiFi Menggunakan Aircrack-ng & Adapter TP-Link WN725N Murah Meriah | Fadhlurrohman | [Read More](https://medium.com/p/ee30d48b1757) |
 | Mon, 16 Jun 2025 08:26:35 GMT | ️‍♂️ The Rise of Mobile Spyware: How Mobile Forensics Is Catching Hidden Surveillance Apps | Amritanshu Prashar | [Read More](https://medium.com/p/5b0505addb32) |
 | Mon, 16 Jun 2025 08:17:58 GMT | Are You Safe with Current Cyber Security in UAE? | Sparx Digital | [Read More](https://medium.com/p/bafe89b6df4d) |
 | Mon, 16 Jun 2025 08:16:07 GMT | How I Took Control of My Data Encryption with AWS KMS | Aashishchaudhari | [Read More](https://medium.com/p/bf0bccc1b51e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 01:35:58 GMT | ODMs and PLAs: The Future of Metrics in Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/77b48e8b1953) |
 | Mon, 16 Jun 2025 01:32:26 GMT | Waldo: Your Self-Hosted GeoIP Toolkit with a UI, REST API, and MCP | Shashank Mayya | [Read More](https://medium.com/p/874f0b6e0bab) |
 | Mon, 16 Jun 2025 01:21:20 GMT | How I Passed the eJPT on My First Try (and What Might Help You Too) | Aria Akbariyeh | [Read More](https://medium.com/p/2302d63cc9a2) |
-| Mon, 16 Jun 2025 01:06:11 GMT | Menyala Kembali WireGuard VPN di Ubuntu Server setelah mati lampu (restart server) Kita secara… | Haldian | [Read More](https://medium.com/p/c48fabe4e121) |
-| Mon, 16 Jun 2025 01:05:57 GMT | Monkey Patching in Python: A Powerful Tool (That You Should Use Cautiously) | Chaitanya V | [Read More](https://medium.com/p/c0e61a4ad059) |
-| Mon, 16 Jun 2025 00:57:40 GMT | How Quitting My Toxic Job Helped Me Stop Impulse Spending and Heal My Relationship with Money | Angie Hawkins | [Read More](https://medium.com/p/d20251a715f4) |
-| Mon, 16 Jun 2025 00:48:05 GMT | Corrigindo o erro “The cable cannot be connected to that port” na aplicação Cisco Packet Tracer. | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/ac650573a614) |
-| Mon, 16 Jun 2025 00:27:18 GMT | Mastering Wireshark: A Visual Network Forensics Guide | Kallabharath | [Read More](https://medium.com/p/ffd0aa8e5b36) |
-| Mon, 16 Jun 2025 00:23:13 GMT | The Beauty of Slow Burn Relationships in Modern Dating | Lubov Demchuk | [Read More](https://medium.com/p/269dea670653) |
-| Sun, 15 Jun 2025 23:59:43 GMT | Hands-On with Termux —  Storage Setup, File Downloads, and File System Exploration. | Alex Grande | [Read More](https://medium.com/p/fd4f4995df25) |
-| Sun, 15 Jun 2025 23:54:35 GMT | Apache James Server 2.3.2 — Authenticated Remote Code Execution (Exploit-DB 50347) | CyberQuestor | [Read More](https://medium.com/p/779a21ca0ec8) |
