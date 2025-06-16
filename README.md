@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 06:28:53 GMT | HUNTR — Bug Bounty Platform for AI/ML | AbhirupKonwar | [Read More](https://medium.com/p/c0e4413a7bec) |
+| Mon, 16 Jun 2025 06:27:45 GMT | Penetration Testing Service: Benefits & Importance | StrongBox IT | [Read More](https://medium.com/p/4af48c6cb21f) |
+| Mon, 16 Jun 2025 06:14:46 GMT | How Penetration Tests Keep Your Project Safe — Cherrypick’s Experience with ISO 27001 and Crypto… | Cherrypick Studio | [Read More](https://medium.com/p/1e15ac2dc844) |
+| Mon, 16 Jun 2025 06:13:42 GMT | DSP vs Accelerator: Which is Better for Executing Security Algorithms? | Geeky Vartika | [Read More](https://medium.com/p/c4aeca0faba3) |
+| Mon, 16 Jun 2025 06:01:41 GMT | Data Protection is Not Just a Box-Checking Exercise — It’s a Crucial Step Towards Cyber… | GlobalSign | [Read More](https://medium.com/p/9fa3a8861eda) |
+| Mon, 16 Jun 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Jun 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/86bbfecd885d) |
+| Mon, 16 Jun 2025 05:50:59 GMT | Exploiting Blind SQL Injection Using Out-of-Band (OAST) Techniques | Onyx | [Read More](https://medium.com/p/9168339a7e38) |
+| Mon, 16 Jun 2025 05:47:35 GMT | Discovering SQLMC: A Lightweight Tool for Fast SQL Injection Discovery | Yamini Yadav | [Read More](https://medium.com/p/a4042040a932) |
+| Mon, 16 Jun 2025 05:40:58 GMT | Cybersecurity News: Hackers Attack Governments, Steal Data, and Use AI | Dekodei | [Read More](https://medium.com/p/5332197dbbe6) |
 | Mon, 16 Jun 2025 05:31:58 GMT | From a 7.2 CGPA to a Cybersecurity Role at NPCI — My Real Story(Part 2) | Vinoth Dayalan | [Read More](https://medium.com/p/1a3d20da032e) |
 | Mon, 16 Jun 2025 05:30:52 GMT | Building Reproducible ML Pipelines with DVC and GitLab | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0ab768eadb89) |
 | Mon, 16 Jun 2025 05:30:45 GMT | Kali Linux Fundamentals and Basic Operations: A Practical Exercise | Zelvy Fauzan | [Read More](https://medium.com/p/4f32cefe74b4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 19:04:11 GMT | Supplemental Memory - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/7e0d74cd1a75) |
 | Sun, 15 Jun 2025 18:57:24 GMT | ‍ FunBox ScriptKiddie FollowAlong | This Chronoz | [Read More](https://medium.com/p/3bd75cd85f42) |
 | Sun, 15 Jun 2025 18:30:28 GMT | Subdomain Enumeration with Sublist3r: Uncovering the Hidden Layers | YooZy | [Read More](https://medium.com/p/7b7b83e9f238) |
-| Sun, 15 Jun 2025 18:24:27 GMT | Digital Twins and Industry 4.0: The Virtual Revolution | travelsmarthacks.site | [Read More](https://medium.com/p/a4ddc73ad9d6) |
-| Sun, 15 Jun 2025 18:22:25 GMT | Cybersecurity in the Age of Hyperautomation & Ambient AI | travelsmarthacks.site | [Read More](https://medium.com/p/38cacc326842) |
-| Sun, 15 Jun 2025 18:07:13 GMT | Un mot sur le community management | Lwanzo | [Read More](https://medium.com/p/2d6543a50e4d) |
-| Sun, 15 Jun 2025 18:06:52 GMT | How a Simple IDOR that causes PII Disclosure | Ananth | [Read More](https://medium.com/p/6ef5845f2be9) |
-| Sun, 15 Jun 2025 18:00:40 GMT | The fall of the Pocket Calculator | Soumyankar Mohapatra | [Read More](https://medium.com/p/c62920f46a57) |
-| Sun, 15 Jun 2025 17:58:59 GMT | Rust C2 Powered By Tor | Zarkones Xena | [Read More](https://medium.com/p/e0481f0871c0) |
-| Sun, 15 Jun 2025 17:57:27 GMT | Day 64: Automating Cybersecurity Tasks with Cron Jobs in Bash | Agarwaldaksh | [Read More](https://medium.com/p/335e6c32c0dc) |
-| Sun, 15 Jun 2025 17:52:37 GMT | Vaultless Tokenization: The Illusion of Security — Why It’s Just Awful Encryption | Karthik | [Read More](https://medium.com/p/a819f5bc6805) |
-| Sun, 15 Jun 2025 17:31:33 GMT | Episode VI — “The Locked Port & The Firewall Code” Troubleshoot Network Connectivity on Linux | Tyron Flagg | [Read More](https://medium.com/p/f0475b01aa86) |
