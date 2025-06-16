@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 20:11:28 GMT | Getting Started in Bug Bounty Hunting in 2025: A Practical Guide for Beginners | Rishabh Shrivastava | [Read More](https://medium.com/p/247d35d31939) |
+| Mon, 16 Jun 2025 20:03:38 GMT | Exploring the Benefits of Smart Lock Front Door Solutions with SwitchBot | Garddickens | [Read More](https://medium.com/p/0321f6276750) |
+| Mon, 16 Jun 2025 20:02:27 GMT | Why NIST’s 19 Zero Trust Examples Matter (And How to Use Them) | Brittney Ginther | [Read More](https://medium.com/p/7f8af82020ad) |
+| Mon, 16 Jun 2025 19:54:49 GMT | Snowflake Agents for Cybersecurity | Jake Berkowsky | [Read More](https://medium.com/p/f79e9ae07ac4) |
+| Mon, 16 Jun 2025 19:52:24 GMT | I’ve Moved — Here’s Where to Find Me Now | Tony Martin-Vegue | [Read More](https://medium.com/p/9a7300bda97a) |
+| Mon, 16 Jun 2025 19:50:52 GMT | RangeForce Lab — Website Defacement Attacks | Hassen Hannachi | [Read More](https://medium.com/p/3f2807fe3429) |
+| Mon, 16 Jun 2025 19:48:03 GMT | A Hacker’s Journey to NASA’s Hall of Fame | okBoss | [Read More](https://medium.com/p/864bb633a155) |
+| Mon, 16 Jun 2025 19:48:03 GMT | Temp Email SignUp getting blocked ? | AbhirupKonwar | [Read More](https://medium.com/p/ac55032448b9) |
+| Mon, 16 Jun 2025 19:47:06 GMT | Anomalous Behavior Detection for SOC: Advanced Monitoring Techniques with UEBA | Esra Kayhan | [Read More](https://medium.com/p/aa47d4ca647d) |
+| Mon, 16 Jun 2025 19:40:25 GMT | Day One in SAP: What to Expect in Your First SAP Job | 2iResourcing | [Read More](https://medium.com/p/bf48c311243e) |
+| Mon, 16 Jun 2025 19:29:14 GMT | Microsoft Installs Emergency Update On Windows PCs | IT_Engineer | [Read More](https://medium.com/p/bfb4d13071d6) |
 | Mon, 16 Jun 2025 19:28:41 GMT | Governing AI Agents with Unity Catalog | AI on Databricks | [Read More](https://medium.com/p/a8c8f2074095) |
 | Mon, 16 Jun 2025 19:20:19 GMT | Cyber world throug my EYES | Abhinav A | [Read More](https://medium.com/p/3998f39f80fe) |
 | Mon, 16 Jun 2025 19:18:04 GMT | What Actually Happened During the Recent Google Cloud Outage | Mrinal Joshi | [Read More](https://medium.com/p/0cb46e1b8f00) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 15:19:16 GMT | Anti Looter Kit Review: Secure Your Properties In 2025 | Anti-Looter Kit | [Read More](https://medium.com/p/7242b2e0e0f4) |
 | Mon, 16 Jun 2025 15:17:33 GMT | Operation: Linux Agency (TryHackMe) | Chikleet Arora | [Read More](https://medium.com/p/e7070fa946bc) |
 | Mon, 16 Jun 2025 15:16:36 GMT | Generative AI Jailbreaks: Catching Up with the Latest Exploits | Kijo Ninja | [Read More](https://medium.com/p/158df5cd1ea6) |
-| Mon, 16 Jun 2025 15:12:40 GMT | First course out! | Udit | [Read More](https://medium.com/p/d37fb2ad5db6) |
-| Mon, 16 Jun 2025 15:07:16 GMT | Why Most Insurance CIO s Fail at Risk Management | Miguel Edwards | [Read More](https://medium.com/p/b9042eef871e) |
-| Mon, 16 Jun 2025 15:02:43 GMT | Balancing Speed and Quality: The Real Challenge of QA | Higor Mesquita | [Read More](https://medium.com/p/f344d510cf84) |
-| Mon, 16 Jun 2025 15:00:17 GMT | TLS Handshake in Secure Communication: How It Protects Your Data Online | HackerVault | [Read More](https://medium.com/p/61f75a7be495) |
-| Mon, 16 Jun 2025 14:57:43 GMT | « Don’t phish me! | Reconnect | [Read More](https://medium.com/p/0aff491fab7b) |
-| Mon, 16 Jun 2025 14:55:22 GMT | Setup Proxychains — WSL Ubuntu (Debian) | Mainul Hasan | [Read More](https://medium.com/p/cefd429b6914) |
-| Mon, 16 Jun 2025 14:55:21 GMT | Why Biometrics Will Change How We Protect Crypto | Arx Locker | [Read More](https://medium.com/p/c6620a30e724) |
-| Mon, 16 Jun 2025 14:54:14 GMT | WaveScan — A Modular and Smart Web Security Scanner Made in Bash | Percio Castelo Branco | [Read More](https://medium.com/p/c32db8d0997b) |
-| Mon, 16 Jun 2025 14:43:55 GMT | Tracing Shared Library Calls Part II: Leviathan 3 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ca4b6143ae1a) |
-| Mon, 16 Jun 2025 14:43:34 GMT | When Dreams Wait and Motherhood Weighs heavy. | Olivia Amarachi Njiribeako | [Read More](https://medium.com/p/e271760cd42d) |
-| Mon, 16 Jun 2025 14:43:24 GMT | Exploring Smart Locks for Front Doors with SwitchBot | Suleymanbaltacifod | [Read More](https://medium.com/p/51164de40943) |
