@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 07:32:36 GMT | Extending Your Network — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/76ee00b3d69f) |
+| Mon, 16 Jun 2025 07:31:37 GMT | HackTheBox Writeup — Luanne | Simardeep Singh | [Read More](https://medium.com/p/83f9fbdbbe45) |
+| Mon, 16 Jun 2025 07:31:36 GMT | $$ Mass Hunting with FOFA Dorking | It4chis3c | [Read More](https://medium.com/p/ad733f90a49e) |
+| Mon, 16 Jun 2025 07:28:04 GMT | Exploring the Smart Home Revolution with SwitchBot’s Home Lock | lauren685607 | [Read More](https://medium.com/p/8769923ec9df) |
+| Mon, 16 Jun 2025 07:26:38 GMT | Threat Modeling for Backend Engineers: Thinking Like an Attacker Without Losing Your Mind | Stefano Alvares | [Read More](https://medium.com/p/6d48ad69384a) |
+| Mon, 16 Jun 2025 07:25:38 GMT | Cyber Fraud A Major Concern For Common Man Even Of Having Cybersecurity How to prevent It | Yogeshdeshpande | [Read More](https://medium.com/p/64e9b855186b) |
+| Mon, 16 Jun 2025 07:21:55 GMT | Setup LEMP; | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/5671340f3fc1) |
 | Mon, 16 Jun 2025 07:17:47 GMT | Why Generic Terms of Service Can’t Protect Your SaaS Business | Tos Lawyer | [Read More](https://medium.com/p/3e94ad350b4b) |
 | Mon, 16 Jun 2025 07:17:19 GMT | How To Set Up an Apache Web-Based Server in Linux | Raymond Ebonine | [Read More](https://medium.com/p/dc870ba2dc0b) |
 | Mon, 16 Jun 2025 07:10:43 GMT | Elliptic Curve Cryptography (ECC) dan Web3 Cryptography | M. Naufal R. | [Read More](https://medium.com/p/0492ee6f653c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 21:31:30 GMT | My Terraform Associate Certification Study Notes & Guide | Mehwish | [Read More](https://medium.com/p/a985a8c4d3e4) |
 | Sun, 15 Jun 2025 21:25:57 GMT | National Web3 Infrastructure Blueprint: A Cybersecurity-Centric Vision for Digital Sovereignty | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c9b3d5d87401) |
 | Sun, 15 Jun 2025 21:20:33 GMT | I Found a $4,200 Bug in 15 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/8d1ce968cf6b) |
-| Sun, 15 Jun 2025 21:15:43 GMT | LLM Guardrail Bypass: Practical Attacks with LLMBUS | Onurcan Genç | [Read More](https://medium.com/p/27b4d0dea36d) |
-| Sun, 15 Jun 2025 21:11:53 GMT | OffSec Web Expert (OSWE) 2025 Review | Khang Nguyen | [Read More](https://medium.com/p/1426aea77a21) |
-| Sun, 15 Jun 2025 21:09:28 GMT | Real-Time Typing Tracker (Keylogger) with Firebase and Tkinter — EXE + Mobile UI Lightweight… | Muhasinahamed | [Read More](https://medium.com/p/4a156ab7df49) |
-| Sun, 15 Jun 2025 20:48:35 GMT | I Don’t Want to Love You Because I Love You | Abibat Raheem | [Read More](https://medium.com/p/7da96f07cf8e) |
-| Sun, 15 Jun 2025 20:40:58 GMT | "Unbreakable Facebook: Introducing 'Mate' – The AI Revolution in Account Security" | "Book of Ideas" | [Read More](https://medium.com/p/c01c8b19a7de) |
-| Sun, 15 Jun 2025 20:40:25 GMT | A Beginner’s Guide to Cracking WPA/WPA2 Wi-Fi Passwords Using Aircrack-ng | Nohiro Hazel Nayottama Rafid Hirmeison | [Read More](https://medium.com/p/46e4925b4c32) |
-| Sun, 15 Jun 2025 20:27:38 GMT | When SIEM, MDR, SOC, and IAM Won’t Save You from Ransomware | 0trust0day | [Read More](https://medium.com/p/27e451c4e933) |
