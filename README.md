@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 11:15:47 GMT | They see all of me | Semilore Omoregie | [Read More](https://medium.com/p/dc3079031472) |
+| Mon, 16 Jun 2025 11:11:51 GMT | How I Cracked a Linux Password | Frost | [Read More](https://medium.com/p/fc10795209ed) |
+| Mon, 16 Jun 2025 11:07:43 GMT | chaos: Find subdomains easily | loyalonlytoday | [Read More](https://medium.com/p/5742dc6cd24c) |
+| Mon, 16 Jun 2025 11:04:49 GMT | The Cybersecurity Landscape: Emerging Trends | CloudSecLab | [Read More](https://medium.com/p/d3f6c9a5931b) |
+| Mon, 16 Jun 2025 11:04:17 GMT | Bug Announces Bonus Rollout: Pocket BUG Today | $BUG (Bug) | [Read More](https://medium.com/p/fe13aa9f92d3) |
+| Mon, 16 Jun 2025 11:03:52 GMT | Asmara-loka, cinta kasih-dunia (alam). | talitha | [Read More](https://medium.com/p/780693e07e14) |
+| Mon, 16 Jun 2025 11:01:43 GMT | Manxel HRMS: Simplifying HR for Modern Businesses | Wasfayounus | [Read More](https://medium.com/p/81ba77993cbb) |
+| Mon, 16 Jun 2025 10:59:05 GMT | Capture Exclusive CVE Through Curvance's Bonus Rollout | $CVE (Curvance) | [Read More](https://medium.com/p/860f9c44f9f1) |
+| Mon, 16 Jun 2025 10:53:42 GMT | ️ One Click Can Cost You Everything — Here’s Why Cybersecurity Matters | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/27f9064ff728) |
+| Mon, 16 Jun 2025 10:50:47 GMT | B.Tech in Cyber Security vs Computer Science: Which Should You Choose? | DYPU Navi Mumbai | [Read More](https://medium.com/p/a7e0988f671d) |
+| Mon, 16 Jun 2025 10:46:28 GMT | The Silent Architect of Bonds: How Much of Ourselves Must We Show to Truly Connect? | Antoine Mekhail | [Read More](https://medium.com/p/ef362c6607ab) |
+| Mon, 16 Jun 2025 10:45:35 GMT | AirCrack-ng | Pretty_Knight | [Read More](https://medium.com/p/44217fb9c10c) |
+| Mon, 16 Jun 2025 10:42:04 GMT | How to Verify and Secure ChainBounty $BOUNTY Token Claims Against Scams | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/b67c78e17fca) |
 | Mon, 16 Jun 2025 10:35:22 GMT | Why Background Checks Are No Longer Optional for HR — They’re a Must | Mariiatata | [Read More](https://medium.com/p/c4bd4463433c) |
+| Mon, 16 Jun 2025 10:35:19 GMT | PCI DSS for Crypto Exchanges: What You Must Know in 2025 | Uday Kumar | [Read More](https://medium.com/p/3da18763c8bf) |
 | Mon, 16 Jun 2025 10:33:45 GMT | Trend Micro Patches Multiple Critical Vulnerabilities in Apex Central and Endpoint Encryption… | Infoziant | [Read More](https://medium.com/p/d744e86bdb80) |
 | Mon, 16 Jun 2025 10:32:37 GMT | 7 Essential Cybersecurity Tools I Wish I’d Learned From Day One (Beginner’s Guide) | Dhanush N | [Read More](https://medium.com/p/a9cc7fe5da98) |
 | Mon, 16 Jun 2025 10:30:54 GMT | Building PhishSOC and Winning at HackIITK 2025 Experience | Aarsh Chaurasia | [Read More](https://medium.com/p/15e9c1cc708c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 06:34:22 GMT | With a Fraudulent Claim, the Contestability Period Reigns | Angelica Jimenez | [Read More](https://medium.com/p/19847509636e) |
 | Mon, 16 Jun 2025 06:33:24 GMT | Week 1: Top 5 Regulations and Why They Matter | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/d9b9e9238076) |
 | Mon, 16 Jun 2025 06:28:53 GMT | HUNTR — Bug Bounty Platform for AI/ML | AbhirupKonwar | [Read More](https://medium.com/p/c0e4413a7bec) |
-| Mon, 16 Jun 2025 06:28:07 GMT | Why Dark Web Monitoring Is the Cybersecurity Essential Businesses Can’t Ignore in 2025 | Smdefencerabbit | [Read More](https://medium.com/p/810cfb630f5f) |
-| Mon, 16 Jun 2025 06:27:45 GMT | Penetration Testing Service: Benefits & Importance | StrongBox IT | [Read More](https://medium.com/p/4af48c6cb21f) |
-| Mon, 16 Jun 2025 06:14:46 GMT | How Penetration Tests Keep Your Project Safe — Cherrypick’s Experience with ISO 27001 and Crypto… | Cherrypick Studio | [Read More](https://medium.com/p/1e15ac2dc844) |
-| Mon, 16 Jun 2025 06:13:42 GMT | DSP vs Accelerator: Which is Better for Executing Security Algorithms? | Geeky Vartika | [Read More](https://medium.com/p/c4aeca0faba3) |
-| Mon, 16 Jun 2025 06:01:41 GMT | Data Protection is Not Just a Box-Checking Exercise — It’s a Crucial Step Towards Cyber… | GlobalSign | [Read More](https://medium.com/p/9fa3a8861eda) |
-| Mon, 16 Jun 2025 06:00:34 GMT | Today’s Top Cyber Intelligence Highlights — Jun 16, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/86bbfecd885d) |
-| Mon, 16 Jun 2025 05:50:59 GMT | Exploiting Blind SQL Injection Using Out-of-Band (OAST) Techniques | Onyx | [Read More](https://medium.com/p/9168339a7e38) |
-| Mon, 16 Jun 2025 05:47:35 GMT | Discovering SQLMC: A Lightweight Tool for Fast SQL Injection Discovery | Yamini Yadav | [Read More](https://medium.com/p/a4042040a932) |
-| Mon, 16 Jun 2025 05:40:58 GMT | Cybersecurity News: Hackers Attack Governments, Steal Data, and Use AI | Dekodei | [Read More](https://medium.com/p/5332197dbbe6) |
-| Mon, 16 Jun 2025 05:31:58 GMT | From a 7.2 CGPA to a Cybersecurity Role at NPCI — My Real Story(Part 2) | Vinoth Dayalan | [Read More](https://medium.com/p/1a3d20da032e) |
-| Mon, 16 Jun 2025 05:30:52 GMT | Building Reproducible ML Pipelines with DVC and GitLab | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0ab768eadb89) |
-| Mon, 16 Jun 2025 05:30:45 GMT | Kali Linux Fundamentals and Basic Operations: A Practical Exercise | Zelvy Fauzan | [Read More](https://medium.com/p/4f32cefe74b4) |
-| Mon, 16 Jun 2025 05:30:40 GMT | Exploring the Future of Smart Locks for Your Front Door with SwitchBot | andrew924046 | [Read More](https://medium.com/p/bc6867b7fccc) |
-| Mon, 16 Jun 2025 05:28:56 GMT | Cyberattacks on Critical Infrastructure: A New Frontline in Geopolitics, Terrorism, and AI Warfare | Sanjeev Rattan | [Read More](https://medium.com/p/568d4db7623e) |
