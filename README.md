@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 17:35:00 GMT | --Hackertest.net--Walkthrough-- --Level 1–6-- | Mankiran Johar | [Read More](https://medium.com/p/e5c54917e33e) |
+| Mon, 16 Jun 2025 17:32:35 GMT | Texnologiya Nəhəngləri Gizlicə Sizi Necə İzləmiş Ola Bilər? | Hasan Azizov | [Read More](https://medium.com/p/8da3ace43ba4) |
+| Mon, 16 Jun 2025 17:29:44 GMT | A New Era in Advertising: Fully AI-Generated $2,000 Ad Airs During NBA Finals | Tech Thrilled | [Read More](https://medium.com/p/09adb851ef5c) |
+| Mon, 16 Jun 2025 17:28:11 GMT | Whimsy Bookshelf — Belajar menyimpan data ke SQLite database | Zifa Tea Azzahra | [Read More](https://medium.com/p/63092afe0845) |
+| Mon, 16 Jun 2025 17:18:23 GMT | Energy Cybersecurity: Securing Critical Infrastructure in the Digital Age | Devashverma | [Read More](https://medium.com/p/96df298a9f97) |
+| Mon, 16 Jun 2025 17:14:42 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/eb1f3dbb1f0c) |
+| Mon, 16 Jun 2025 17:10:43 GMT | National Public Data Breach: How 2.9 Billion Records Were Exposed | Nexanet | [Read More](https://medium.com/p/761e353138de) |
 | Mon, 16 Jun 2025 17:09:23 GMT | Embrace the slow life for when the apocalypse comes (or when China attacks) | Christopher Johnston | [Read More](https://medium.com/p/386b3049508a) |
 | Mon, 16 Jun 2025 17:01:04 GMT | Why My ADHD Brain Is Actually Ready for Quantum Computing (When Yours Might Not Be) | Raymond Brunell | [Read More](https://medium.com/p/1691f2e352d0) |
 | Mon, 16 Jun 2025 16:58:47 GMT | VulnHub Noob Machine — Adım Adım Çözüm Anlatımı | Furkan Doğmuş | [Read More](https://medium.com/p/e9b67146f9d6) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 13:02:19 GMT | How I Found 5+ HackerOne Vulnerabilities (Legally) | Ibtissam hammadi | [Read More](https://medium.com/p/65ebb95b9826) |
 | Mon, 16 Jun 2025 13:01:13 GMT | Interchain Labs, Asymmetric Research, and Security Alliance Publish Report on Contained DPRK-Linked… | Interchain | [Read More](https://medium.com/p/0501b0fe585e) |
 | Mon, 16 Jun 2025 12:58:31 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5e566d78f83f) |
-| Mon, 16 Jun 2025 12:45:02 GMT | File Upload With React Native Document Picker Updated: How to Use the New Package | Anazrasak | [Read More](https://medium.com/p/45d4a4302b56) |
-| Mon, 16 Jun 2025 12:42:14 GMT | Cybersec 101: Credentials Harvesting using laZagne | theurikarue | [Read More](https://medium.com/p/62730afbaf33) |
-| Mon, 16 Jun 2025 12:41:47 GMT | Unifying the Graph: Why We Introduced an Ontology in Cartography | jychp | [Read More](https://medium.com/p/33b9301de22d) |
-| Mon, 16 Jun 2025 12:41:27 GMT | Under the willow tree — Unconditional love for the narcissist | jmbo | [Read More](https://medium.com/p/9cc6ca84dad0) |
-| Mon, 16 Jun 2025 12:39:50 GMT | The Best Home Security Camera | Phil Ryan | [Read More](https://medium.com/p/22d869f4b489) |
-| Mon, 16 Jun 2025 12:38:40 GMT | Troubleshooting Raspberry Pi Home SOC with the Elastic Stack | One Equals One | [Read More](https://medium.com/p/0e26c71f3159) |
-| Mon, 16 Jun 2025 12:37:25 GMT | The Real Reason We Avoid Joy | Author Kristine Benevento | [Read More](https://medium.com/p/af07d27dc2c4) |
