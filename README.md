@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 15:32:40 GMT | Mind the Resilience Gap — Because Attackers Already Are | Milos | [Read More](https://medium.com/p/3f5b6136d7bf) |
+| Mon, 16 Jun 2025 15:29:02 GMT | What Healing Actually Looks Like |  | [Read More](https://medium.com/p/1d3b6cfdaa7d) |
+| Mon, 16 Jun 2025 15:28:15 GMT | Scaling DevSecOps Across the DoD: Lessons From the Latest SEI Study | Mike Bynum | [Read More](https://medium.com/p/761fd3f0c364) |
+| Mon, 16 Jun 2025 15:27:04 GMT | From Nobody to Noticed: 108 Days to Change My Life with Code, Cybersecurity & Web3 | Fury | [Read More](https://medium.com/p/73532f253374) |
+| Mon, 16 Jun 2025 15:25:55 GMT | Can a Beginner Hack a Cheap Walmart Streaming Box?(Part 1) | Blackism | [Read More](https://medium.com/p/ef419aad2897) |
 | Mon, 16 Jun 2025 15:19:16 GMT | Anti Looter Kit Review: Secure Your Properties In 2025 | Anti-Looter Kit | [Read More](https://medium.com/p/7242b2e0e0f4) |
 | Mon, 16 Jun 2025 15:17:33 GMT | Operation: Linux Agency (TryHackMe) | Chikleet Arora | [Read More](https://medium.com/p/e7070fa946bc) |
 | Mon, 16 Jun 2025 15:16:36 GMT | Generative AI Jailbreaks: Catching Up with the Latest Exploits | Kijo Ninja | [Read More](https://medium.com/p/158df5cd1ea6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 11:03:52 GMT | Asmara-loka, cinta kasih-dunia (alam). | talitha | [Read More](https://medium.com/p/780693e07e14) |
 | Mon, 16 Jun 2025 11:01:43 GMT | Manxel HRMS: Simplifying HR for Modern Businesses | Wasfayounus | [Read More](https://medium.com/p/81ba77993cbb) |
 | Mon, 16 Jun 2025 10:59:05 GMT | Capture Exclusive CVE Through Curvance's Bonus Rollout | $CVE (Curvance) | [Read More](https://medium.com/p/860f9c44f9f1) |
-| Mon, 16 Jun 2025 10:53:42 GMT | ️ One Click Can Cost You Everything — Here’s Why Cybersecurity Matters | Cyber Infra Armor Pvt. Ltd. | [Read More](https://medium.com/p/27f9064ff728) |
-| Mon, 16 Jun 2025 10:50:47 GMT | B.Tech in Cyber Security vs Computer Science: Which Should You Choose? | DYPU Navi Mumbai | [Read More](https://medium.com/p/a7e0988f671d) |
-| Mon, 16 Jun 2025 10:46:28 GMT | The Silent Architect of Bonds: How Much of Ourselves Must We Show to Truly Connect? | Antoine Mekhail | [Read More](https://medium.com/p/ef362c6607ab) |
-| Mon, 16 Jun 2025 10:45:35 GMT | AirCrack-ng | Pretty_Knight | [Read More](https://medium.com/p/44217fb9c10c) |
-| Mon, 16 Jun 2025 10:42:04 GMT | How to Verify and Secure ChainBounty $BOUNTY Token Claims Against Scams | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/b67c78e17fca) |
