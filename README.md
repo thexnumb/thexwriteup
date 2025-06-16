@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 09:11:58 GMT | Avoid Microsoft 365 Lockouts Set Up Break Glass Accounts | Mark O | [Read More](https://medium.com/p/d3093eb0ce29) |
+| Mon, 16 Jun 2025 09:06:07 GMT | IT Audits Made Easy: 5 Steps You Must Know Now | SecureSlate | [Read More](https://medium.com/p/de12b9fa0abe) |
+| Mon, 16 Jun 2025 09:03:13 GMT | SIA Bug Bounty Program: Hunt Bugs, Earn Rewards, and Become a Community Legend! | SIANEXX | [Read More](https://medium.com/p/100b294f4536) |
+| Mon, 16 Jun 2025 09:01:44 GMT | How to Optimise Your GRC Fast | Harry West | [Read More](https://medium.com/p/4e8041e96a31) |
 | Mon, 16 Jun 2025 08:46:39 GMT | Detecting and Preventing Advanced Threats with AI Security️ | WebClues Infotech | [Read More](https://medium.com/p/753e931f6da2) |
 | Mon, 16 Jun 2025 08:44:03 GMT | Smart CCTV: Intelligent Surveillance for the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/a68eb28edaac) |
 | Mon, 16 Jun 2025 08:43:58 GMT | Is Your Business Truly Prepared for the Unexpected? | The Knowledge Academy | [Read More](https://medium.com/p/fa68eba4dc92) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 02:12:48 GMT | 8 Cybersecurity Color Teams To Be Aware Of | Brandon Ingram | [Read More](https://medium.com/p/04bbe50c0aa1) |
 | Mon, 16 Jun 2025 02:02:14 GMT | When the Light Dims: Who Really Sees You? | Breaux CJ | [Read More](https://medium.com/p/5dd50cf6ab94) |
 | Mon, 16 Jun 2025 01:59:45 GMT | The Ache of Incompletion | Olabanke Goriola | [Read More](https://medium.com/p/7ff91b09e15d) |
-| Mon, 16 Jun 2025 01:52:22 GMT | Lab 27 — Directory Traversal | Hassen Hannachi | [Read More](https://medium.com/p/48466a9ececa) |
-| Mon, 16 Jun 2025 01:35:58 GMT | ODMs and PLAs: The Future of Metrics in Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/77b48e8b1953) |
-| Mon, 16 Jun 2025 01:32:26 GMT | Waldo: Your Self-Hosted GeoIP Toolkit with a UI, REST API, and MCP | Shashank Mayya | [Read More](https://medium.com/p/874f0b6e0bab) |
-| Mon, 16 Jun 2025 01:21:20 GMT | How I Passed the eJPT on My First Try (and What Might Help You Too) | Aria Akbariyeh | [Read More](https://medium.com/p/2302d63cc9a2) |
