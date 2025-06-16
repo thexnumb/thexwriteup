@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 13:32:18 GMT | IIS Security Hardening | Mehmet Ali Sentürk | [Read More](https://medium.com/p/e13e2690c738) |
+| Mon, 16 Jun 2025 13:24:51 GMT | Robots in Border Security | Presslink Media | [Read More](https://medium.com/p/941a08554fd3) |
+| Mon, 16 Jun 2025 13:22:44 GMT | What I Learned from My First Real-World Tech Internship | Manoj Adhikari | [Read More](https://medium.com/p/ec5bab818c0e) |
+| Mon, 16 Jun 2025 13:18:47 GMT | The BlackLock Breakdown: Tools, Tactics and the Rivalry that Brought it Down | Loginsoft | [Read More](https://medium.com/p/021c4a520f9a) |
+| Mon, 16 Jun 2025 13:15:34 GMT | Stop Leaking Secrets: Use git-secrets | MouliVeera | [Read More](https://medium.com/p/2f8c00338d2e) |
+| Mon, 16 Jun 2025 13:13:13 GMT | CybElevating Cyber Security Management Services with Siemba’s AI‑Driven CTEM | Siemba | [Read More](https://medium.com/p/e0da39b58039) |
+| Mon, 16 Jun 2025 13:11:39 GMT | Quantum Computer-X: A Real-World Look at the Future of Computing | CodeWithYog | [Read More](https://medium.com/p/a6d5d6daa87e) |
+| Mon, 16 Jun 2025 13:08:57 GMT | Technology refers tp the application of scientific knoledge. | Hussainali | [Read More](https://medium.com/p/91f185c4efbb) |
+| Mon, 16 Jun 2025 13:03:57 GMT | Network Monitoring with Termux: Practical Approaches to Mobile Security | Halildeniz | [Read More](https://medium.com/p/933aa069e9d3) |
+| Mon, 16 Jun 2025 13:02:37 GMT | Hidden Threats: How Malicious Browser Extensions Are Hijacking Your Banking Data | Peris.ai Cybersecurity | [Read More](https://medium.com/p/7c662a8ccbe7) |
+| Mon, 16 Jun 2025 13:02:19 GMT | How I Found 5+ HackerOne Vulnerabilities (Legally) | Ibtissam hammadi | [Read More](https://medium.com/p/65ebb95b9826) |
+| Mon, 16 Jun 2025 13:01:13 GMT | Interchain Labs, Asymmetric Research, and Security Alliance Publish Report on Contained DPRK-Linked… | Interchain | [Read More](https://medium.com/p/0501b0fe585e) |
+| Mon, 16 Jun 2025 12:58:31 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5e566d78f83f) |
 | Mon, 16 Jun 2025 12:45:02 GMT | File Upload With React Native Document Picker Updated: How to Use the New Package | Anazrasak | [Read More](https://medium.com/p/45d4a4302b56) |
+| Mon, 16 Jun 2025 12:42:14 GMT | Cybersec 101: Credentials Harvesting using laZagne | theurikarue | [Read More](https://medium.com/p/62730afbaf33) |
+| Mon, 16 Jun 2025 12:41:47 GMT | Unifying the Graph: Why We Introduced an Ontology in Cartography | jychp | [Read More](https://medium.com/p/33b9301de22d) |
+| Mon, 16 Jun 2025 12:41:27 GMT | Under the willow tree — Unconditional love for the narcissist | jmbo | [Read More](https://medium.com/p/9cc6ca84dad0) |
 | Mon, 16 Jun 2025 12:39:50 GMT | The Best Home Security Camera | Phil Ryan | [Read More](https://medium.com/p/22d869f4b489) |
+| Mon, 16 Jun 2025 12:38:40 GMT | Troubleshooting Raspberry Pi Home SOC with the Elastic Stack | One Equals One | [Read More](https://medium.com/p/0e26c71f3159) |
+| Mon, 16 Jun 2025 12:37:25 GMT | The Real Reason We Avoid Joy | Author Kristine Benevento | [Read More](https://medium.com/p/af07d27dc2c4) |
+| Mon, 16 Jun 2025 12:36:31 GMT | MoonPeak Cyber Havoc. June 16, 2025 | Pentestjunkie07 | [Read More](https://medium.com/p/a983c6a33e00) |
 | Mon, 16 Jun 2025 12:32:57 GMT | Getting started with Hashcat: Password Recovery | Taji Abdullah | [Read More](https://medium.com/p/7a266c53fdd4) |
 | Mon, 16 Jun 2025 12:32:39 GMT | The Impact of Reconciliation Automation on Financial Reporting Speed | Kosh AI | [Read More](https://medium.com/p/682cf9ff1a66) |
 | Mon, 16 Jun 2025 12:31:20 GMT | Who Inherits Your Digital Life? Why Every Platform Needs a Next-of-Kin Policy | Jovworie Tanshi | [Read More](https://medium.com/p/3cda332b396f) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 09:01:44 GMT | How to Optimise Your GRC Fast | Harry West | [Read More](https://medium.com/p/4e8041e96a31) |
 | Mon, 16 Jun 2025 09:00:43 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap | Pratham Sharma | [Read More](https://medium.com/p/fda4deca601e) |
 | Mon, 16 Jun 2025 08:46:39 GMT | Detecting and Preventing Advanced Threats with AI Security️ | WebClues Infotech | [Read More](https://medium.com/p/753e931f6da2) |
-| Mon, 16 Jun 2025 08:44:03 GMT | Smart CCTV: Intelligent Surveillance for the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/a68eb28edaac) |
-| Mon, 16 Jun 2025 08:43:58 GMT | Is Your Business Truly Prepared for the Unexpected? | The Knowledge Academy | [Read More](https://medium.com/p/fa68eba4dc92) |
-| Mon, 16 Jun 2025 08:43:39 GMT | Inside Zeus Malware — A Step-by-Step Network Traffic Analysis | Amina Moallim | [Read More](https://medium.com/p/941809b2d832) |
-| Mon, 16 Jun 2025 08:43:01 GMT | Security Guards California: My Experience Securing a Construction Site | Ca security Guards | [Read More](https://medium.com/p/3826bdb70749) |
-| Mon, 16 Jun 2025 08:41:05 GMT | TryHackMe — Valley | TheSocialHacker | [Read More](https://medium.com/p/7140c15710e9) |
-| Mon, 16 Jun 2025 08:37:26 GMT | eJPT - 3.3 The Metasploit Framework (I) | Hammaad M | [Read More](https://medium.com/p/ba7bab845e7f) |
-| Mon, 16 Jun 2025 08:30:06 GMT | Write-Up Pentest WiFi Menggunakan Aircrack-ng & Adapter TP-Link WN725N Murah Meriah | Fadhlurrohman | [Read More](https://medium.com/p/ee30d48b1757) |
-| Mon, 16 Jun 2025 08:26:35 GMT | ️‍♂️ The Rise of Mobile Spyware: How Mobile Forensics Is Catching Hidden Surveillance Apps | Amritanshu Prashar | [Read More](https://medium.com/p/5b0505addb32) |
-| Mon, 16 Jun 2025 08:17:58 GMT | Are You Safe with Current Cyber Security in UAE? | Sparx Digital | [Read More](https://medium.com/p/bafe89b6df4d) |
-| Mon, 16 Jun 2025 08:16:07 GMT | How I Took Control of My Data Encryption with AWS KMS | Aashishchaudhari | [Read More](https://medium.com/p/bf0bccc1b51e) |
-| Mon, 16 Jun 2025 08:05:30 GMT | SOC138 — Detected Suspicious Xls File(Alert 77) | Amadi Oluchi Faith | [Read More](https://medium.com/p/81ab6e947ef7) |
-| Mon, 16 Jun 2025 08:05:22 GMT | From isolation to intimidation: Understanding North Korea’s Role in East Asia’s Security Dilemma | We Are Living in Art ᝰ✍ | [Read More](https://medium.com/p/fcdb31d0f279) |
-| Mon, 16 Jun 2025 08:03:58 GMT | The Future of Monitoring: Exploring the $15B Multi-Dimensional Interconnected Monitoring Service… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/6a222524987c) |
-| Mon, 16 Jun 2025 08:02:41 GMT | The $10K Terraform Mistake: How a Manual IAM Change Crashed Logging & Spiked Your AWS Bill | Mohamed ElEmam | [Read More](https://medium.com/p/9bf6dfdc03e1) |
-| Mon, 16 Jun 2025 08:01:06 GMT | Token Tunnels: How Misused Refresh Tokens Let Me Hijack Sessions Forever ️ | Iski | [Read More](https://medium.com/p/de63e1adb8a3) |
-| Mon, 16 Jun 2025 08:00:14 GMT | The Importance of ISO Certified Cybersecurity | Snskies | [Read More](https://medium.com/p/a1496701a796) |
-| Mon, 16 Jun 2025 07:59:54 GMT | AWS IAM Management Best Practices: Structured Approaches for Scalable Access Control | Deepak Gupta | [Read More](https://medium.com/p/a54e30fd73ca) |
-| Mon, 16 Jun 2025 07:59:38 GMT | ”Harbor” ile tespit edilen bulguları Dynatrace ile zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/ea8164ae8931) |
-| Mon, 16 Jun 2025 07:51:57 GMT | 13 Mobile Hacking Tools Every Cyber Warrior Should Know (And Use Responsibly) | Aren Redd | [Read More](https://medium.com/p/c03b38b6f44c) |
