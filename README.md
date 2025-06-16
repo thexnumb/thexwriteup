@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 17:09:23 GMT | Embrace the slow life for when the apocalypse comes (or when China attacks) | Christopher Johnston | [Read More](https://medium.com/p/386b3049508a) |
+| Mon, 16 Jun 2025 17:01:04 GMT | Why My ADHD Brain Is Actually Ready for Quantum Computing (When Yours Might Not Be) | Raymond Brunell | [Read More](https://medium.com/p/1691f2e352d0) |
+| Mon, 16 Jun 2025 16:58:47 GMT | VulnHub Noob Machine — Adım Adım Çözüm Anlatımı | Furkan Doğmuş | [Read More](https://medium.com/p/e9b67146f9d6) |
+| Mon, 16 Jun 2025 16:56:42 GMT | Haq.ai is Live | Devin Clary | [Read More](https://medium.com/p/1037fd669a0a) |
+| Mon, 16 Jun 2025 16:52:59 GMT | HIPAA Compliance Success Key: What Every Organization Must Know | SafeAeon Inc. | [Read More](https://medium.com/p/bd0ef176656b) |
+| Mon, 16 Jun 2025 16:52:07 GMT | Why Hackers Hack People, Not Just Computers | Myles Sherman | [Read More](https://medium.com/p/1a4c844429d2) |
+| Mon, 16 Jun 2025 16:50:10 GMT | SOAR x EDR Integration for Automated Incident Alerting & Response: PART II | Godspower Melariri-okwu | [Read More](https://medium.com/p/b7a814b7dfc9) |
 | Mon, 16 Jun 2025 16:48:04 GMT | BehindTheScreens: Silent Storms and Loud Breaches(June 9–16, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/ff685bd55207) |
+| Mon, 16 Jun 2025 16:46:52 GMT | WebStrike - CyberDefenders Lab Walkthrough | Solvenite | [Read More](https://medium.com/p/154d376d8171) |
+| Mon, 16 Jun 2025 16:46:21 GMT | ️ Blue Team Hat Certificate: Importance, Story & Meaning | Midhun Thomas PT | [Read More](https://medium.com/p/07dc1caac60f) |
 | Mon, 16 Jun 2025 16:45:54 GMT | ️ Day 65 — Signal Trapping in Bash: Secure Exit and Cleanup | Agarwaldaksh | [Read More](https://medium.com/p/dcf77fff07eb) |
 | Mon, 16 Jun 2025 16:40:54 GMT | Stop the Phishing Flood: The IAM Strategy That Makes Hackers Give Up | Dr. Shashi Karhail | [Read More](https://medium.com/p/4e9f27adbd5c) |
 | Mon, 16 Jun 2025 16:38:20 GMT | Pre-Training Neural Networks is Not Always Beneficial | Five Insights | [Read More](https://medium.com/p/1c3f34a0cd89) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 12:39:50 GMT | The Best Home Security Camera | Phil Ryan | [Read More](https://medium.com/p/22d869f4b489) |
 | Mon, 16 Jun 2025 12:38:40 GMT | Troubleshooting Raspberry Pi Home SOC with the Elastic Stack | One Equals One | [Read More](https://medium.com/p/0e26c71f3159) |
 | Mon, 16 Jun 2025 12:37:25 GMT | The Real Reason We Avoid Joy | Author Kristine Benevento | [Read More](https://medium.com/p/af07d27dc2c4) |
-| Mon, 16 Jun 2025 12:36:31 GMT | MoonPeak Cyber Havoc. June 16, 2025 | Pentestjunkie07 | [Read More](https://medium.com/p/a983c6a33e00) |
-| Mon, 16 Jun 2025 12:32:57 GMT | Getting started with Hashcat: Password Recovery | Taji Abdullah | [Read More](https://medium.com/p/7a266c53fdd4) |
-| Mon, 16 Jun 2025 12:32:39 GMT | The Impact of Reconciliation Automation on Financial Reporting Speed | Kosh AI | [Read More](https://medium.com/p/682cf9ff1a66) |
-| Mon, 16 Jun 2025 12:31:20 GMT | Who Inherits Your Digital Life? Why Every Platform Needs a Next-of-Kin Policy | Jovworie Tanshi | [Read More](https://medium.com/p/3cda332b396f) |
-| Mon, 16 Jun 2025 12:25:20 GMT | Building a Containerized Web Application Firewall (WAF) with ModSecurity and NGINX Using Docker | Yash Patel | [Read More](https://medium.com/p/cb1b2aa55145) |
-| Mon, 16 Jun 2025 12:24:21 GMT | No One Will Save You Except Yourself | Federico Rossi | [Read More](https://medium.com/p/63d5b4c18ac5) |
-| Mon, 16 Jun 2025 12:22:36 GMT | HTB 2Million — A Clue-Based Walk-through to Build Your Pen-testing Skills | zer0_bugs | [Read More](https://medium.com/p/d1c915e25ff8) |
-| Mon, 16 Jun 2025 12:21:40 GMT | NATO defense contractors hit with sophisticated malware campaign. June 16, 2025 | Inforsecpro | [Read More](https://medium.com/p/9c6f5834b2ed) |
-| Mon, 16 Jun 2025 12:20:37 GMT | Meta and Yandex Violating Android Users Privacy | Nitin Garg | [Read More](https://medium.com/p/fc526a6b477e) |
