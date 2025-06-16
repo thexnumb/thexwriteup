@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 23:31:36 GMT | Unit 42 Managed XSIAM by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e46ac6e5c46a) |
+| Mon, 16 Jun 2025 23:28:45 GMT | Outpouring… | Boma J | [Read More](https://medium.com/p/3b76d1b2947e) |
+| Mon, 16 Jun 2025 23:27:23 GMT | “My Wardriving Setup: Laptop and TP-Link Adapter” | Canonminibeast | [Read More](https://medium.com/p/860354698d84) |
 | Mon, 16 Jun 2025 23:01:35 GMT | ‘NetworkError’ is ambiguous for type lookup in this context | Jerry PM | [Read More](https://medium.com/p/12c80991d3d5) |
 | Mon, 16 Jun 2025 22:42:50 GMT | The Fear Isn’t Love. It’s Getting It Wrong — Again. | Ckan Johnson | [Read More](https://medium.com/p/9128505c1a2a) |
 | Mon, 16 Jun 2025 22:39:27 GMT | DNS: The Underestimated Attack Surface in Networking | Monika sharma | [Read More](https://medium.com/p/b418f8ced713) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 16:40:54 GMT | Stop the Phishing Flood: The IAM Strategy That Makes Hackers Give Up | Dr. Shashi Karhail | [Read More](https://medium.com/p/4e9f27adbd5c) |
 | Mon, 16 Jun 2025 16:38:20 GMT | Pre-Training Neural Networks is Not Always Beneficial | Five Insights | [Read More](https://medium.com/p/1c3f34a0cd89) |
 | Mon, 16 Jun 2025 16:36:10 GMT | 10 Practical Tips to Protect Yourself from AI Photo Morphing and Deepfakes Online | Er Raj Aryan | [Read More](https://medium.com/p/d3e4ebf8c270) |
-| Mon, 16 Jun 2025 16:35:56 GMT | My Worst Day in Hunting bugs - Mejbankadir -Mejbankadir — Ethical Hacker - SMH Tech — Mejbankadir. | Mejbankadir | [Read More](https://medium.com/p/752a443e7f14) |
-| Mon, 16 Jun 2025 16:35:33 GMT | Dark Web Monitoring Services to Safe Your Business Online | SafeAeon Inc. | [Read More](https://medium.com/p/64af98c4cfc5) |
-| Mon, 16 Jun 2025 16:30:02 GMT | ️Desmistificando SCA, SAST, DAST | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/bed5ee173caf) |
