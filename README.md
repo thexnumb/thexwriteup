@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 03:17:53 GMT | Methodology အကြောင်းအာချောင်ကွန်တန့် | Eternal Htut :3 | [Read More](https://medium.com/p/c727209ed2e5) |
+| Mon, 16 Jun 2025 02:47:59 GMT | How I found the best LLM Model for my AI PenTesting Framework | Mauricio Giraldo | [Read More](https://medium.com/p/ee5aae0d0103) |
+| Mon, 16 Jun 2025 02:44:12 GMT | Beyond Deepfakes and Ransomware: Is Quantum the Biggest Threat of 2025? | QNu Labs | [Read More](https://medium.com/p/2b573d4f21c7) |
+| Mon, 16 Jun 2025 02:38:03 GMT | Men Don’t Cry. That’s Why Breakups Hit Them Harder | Katya Koval | [Read More](https://medium.com/p/f9b2a91e5d44) |
+| Mon, 16 Jun 2025 02:14:18 GMT | India-Russia Cybersecurity Partnership, Cyber Allies or Strategic Risk? | David SEHYEON Baek | [Read More](https://medium.com/p/9e7512b4d6b4) |
+| Mon, 16 Jun 2025 02:12:48 GMT | 8 Cybersecurity Color Teams To Be Aware Of | Brandon Ingram | [Read More](https://medium.com/p/04bbe50c0aa1) |
+| Mon, 16 Jun 2025 02:02:14 GMT | When the Light Dims: Who Really Sees You? | Breaux CJ | [Read More](https://medium.com/p/5dd50cf6ab94) |
+| Mon, 16 Jun 2025 01:59:45 GMT | The Ache of Incompletion | Olabanke Goriola | [Read More](https://medium.com/p/7ff91b09e15d) |
+| Mon, 16 Jun 2025 01:52:22 GMT | Lab 27 — Directory Traversal | Hassen Hannachi | [Read More](https://medium.com/p/48466a9ececa) |
 | Mon, 16 Jun 2025 01:35:58 GMT | ODMs and PLAs: The Future of Metrics in Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/77b48e8b1953) |
 | Mon, 16 Jun 2025 01:32:26 GMT | Waldo: Your Self-Hosted GeoIP Toolkit with a UI, REST API, and MCP | Shashank Mayya | [Read More](https://medium.com/p/874f0b6e0bab) |
 | Mon, 16 Jun 2025 01:21:20 GMT | How I Passed the eJPT on My First Try (and What Might Help You Too) | Aria Akbariyeh | [Read More](https://medium.com/p/2302d63cc9a2) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 15:45:42 GMT | Proving Grounds Play: Gaara Walkthrough | Ancava | [Read More](https://medium.com/p/b0349573136e) |
 | Sun, 15 Jun 2025 15:39:51 GMT | How I Leaked Data of Cryptocurreny Human Proofing Site. | NnFace | [Read More](https://medium.com/p/a46bf69cf350) |
 | Sun, 15 Jun 2025 15:34:40 GMT | When You’re Most Afraid, Jump | Meli | [Read More](https://medium.com/p/06b7f6315328) |
-| Sun, 15 Jun 2025 15:31:37 GMT | From Mid-Level to Tech Lead: The Unspoken Path to Senior Developer | Neha Gupta | [Read More](https://medium.com/p/c552d68665fe) |
-| Sun, 15 Jun 2025 15:28:19 GMT | Unlock Gmail's Power: From Beginner to EXPERT | Papaspyrou Alexandros | [Read More](https://medium.com/p/e4b7aa5aefa1) |
-| Sun, 15 Jun 2025 15:24:46 GMT | Kali GPT: The AI Revolution in Cybersecurity and Penetration Testing | Zrhmz | [Read More](https://medium.com/p/95827275e643) |
-| Sun, 15 Jun 2025 15:09:47 GMT | Understanding ECC, Web3 Cryptography, andThreats | AjiPangesstu | [Read More](https://medium.com/p/add3f8fd1dc8) |
-| Sun, 15 Jun 2025 15:08:59 GMT | Gibberlink Mode: The Future of Stealth Communication or the Ultimate Hacker’s Tool? | Nanda Siddhardha | [Read More](https://medium.com/p/57c5d2a4a478) |
-| Sun, 15 Jun 2025 15:05:31 GMT | Huffed, Puffed, and Logged In! | Archisha | [Read More](https://medium.com/p/ffd10c59939b) |
-| Sun, 15 Jun 2025 15:02:38 GMT | Maximizing Cloud Security with Springfield Cybersecurity Services | PCnet | [Read More](https://medium.com/p/dd46ce6d7f5c) |
-| Sun, 15 Jun 2025 15:01:05 GMT | Introduction to Malware Analysis Course — From Beginner to Pro | S12 - 0x12Dark Development | [Read More](https://medium.com/p/3b6d7696a319) |
-| Sun, 15 Jun 2025 14:59:16 GMT | From Security+ to Securing AI: The Cyber Career Path You Can’t Afford to Ignore | Brian Mora | [Read More](https://medium.com/p/5eba173daec2) |
