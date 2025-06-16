@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 21:30:17 GMT | One Bug Leads to Two Bounties: The Simple Trick That Could Make You Rich | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/46bb1107c98c) |
+| Mon, 16 Jun 2025 21:19:05 GMT | Entre SELECTs e Segredos: Desvendando o Information_Schema em CTFs e Pentests | Sérgio Corrêa | [Read More](https://medium.com/p/ee0ad6d5c3a6) |
 | Mon, 16 Jun 2025 21:10:41 GMT | Still Clicking: Why Phishing Scams Keep Winning in Nigeria (And What You Can Do About It) | O. J. Okpabi | [Read More](https://medium.com/p/81cf83b4f1b5) |
+| Mon, 16 Jun 2025 21:09:03 GMT | Mathematical Logic in Hacking | Dr. Sam Fouad | [Read More](https://medium.com/p/7e514991628e) |
 | Mon, 16 Jun 2025 21:04:19 GMT | Project [REDACTED] | CyberPrincipals | [Read More](https://medium.com/p/e30eab7b3278) |
 | Mon, 16 Jun 2025 21:03:39 GMT | Building a Real-World DevSecOps Pipeline with AI + Flask App Showcase for T2S | Emmanuel | [Read More](https://medium.com/p/3127c6e2645f) |
 | Mon, 16 Jun 2025 20:50:41 GMT | Treasure rollout Secrets: How to Harvest BUGS for top-tier returns | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/24a594c68a93) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 16:11:26 GMT | Path Traversal to AWS credentials to S3 — Walkthrough | mauzware | [Read More](https://medium.com/p/5cd6a406fb3c) |
 | Mon, 16 Jun 2025 16:11:11 GMT | Managing OT DMZ Security with Containers | Pieter Geelen | [Read More](https://medium.com/p/fb691450b97b) |
 | Mon, 16 Jun 2025 16:04:44 GMT | Cyberwarfare — Non kinetic Warfare | Kartheek | [Read More](https://medium.com/p/2812f143a85b) |
-| Mon, 16 Jun 2025 16:04:19 GMT | Securing Kubernetes: An OSI Layer-by-Layer Breakdown | Oladele | [Read More](https://medium.com/p/6adf5e165580) |
-| Mon, 16 Jun 2025 15:59:37 GMT | “Create, Engage, Earn: Dive into Roam’s 2025 Community Bounty” | Sigus | [Read More](https://medium.com/p/034bbc0fe494) |
-| Mon, 16 Jun 2025 15:54:49 GMT | HTB — Offshore Prolab Review | x0n1 | [Read More](https://medium.com/p/54147cea7630) |
