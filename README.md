@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 22:17:06 GMT | Credential Dumping & Lateral Movement in Modern Windows Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eac16dc78c36) |
+| Mon, 16 Jun 2025 22:16:11 GMT | ISC CC Cybersecurity Certification: Everything You Need to Know | saol | [Read More](https://medium.com/p/2c1f33c799d3) |
 | Mon, 16 Jun 2025 22:10:38 GMT | Global Cybercrime Cartels: More Dangerous Than Nation-States? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/54b70f8ca74a) |
 | Mon, 16 Jun 2025 22:00:08 GMT | Kali Linux 2025.2 Is Here: BloodHound CE, CARsenal, and 13 New Tools for Offensive Security Pros | Taha Ex | [Read More](https://medium.com/p/90c1d3b7f35d) |
 | Mon, 16 Jun 2025 21:59:36 GMT | LetsDefend: SOC338 — Lumma Stealer via DLL Side-Loading (Click Fix Phishing) | V0idd | [Read More](https://medium.com/p/330167c790be) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 16:27:23 GMT | “Malware — The Invisible Intruder in Your Digital Life”
  Picture this… | Deepak Rohilla | [Read More](https://medium.com/p/edc59fa10b5a) |
 | Mon, 16 Jun 2025 16:26:37 GMT | Hire Hackers | Lionello bellucci | [Read More](https://medium.com/p/27b723c31a35) |
-| Mon, 16 Jun 2025 16:19:32 GMT | Muutuda: Meetod. Édouard Louis | Darian Calvarion | [Read More](https://medium.com/p/ffdae94e2889) |
-| Mon, 16 Jun 2025 16:17:57 GMT | How I Found A JWT Token Vulnerability that Led to Full Account Takeover | Umanhonlen Gabriel | [Read More](https://medium.com/p/a2b6385b7c5c) |
