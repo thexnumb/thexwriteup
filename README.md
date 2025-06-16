@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 05:31:58 GMT | From a 7.2 CGPA to a Cybersecurity Role at NPCI — My Real Story(Part 2) | Vinoth Dayalan | [Read More](https://medium.com/p/1a3d20da032e) |
+| Mon, 16 Jun 2025 05:30:52 GMT | Building Reproducible ML Pipelines with DVC and GitLab | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0ab768eadb89) |
+| Mon, 16 Jun 2025 05:30:45 GMT | Kali Linux Fundamentals and Basic Operations: A Practical Exercise | Zelvy Fauzan | [Read More](https://medium.com/p/4f32cefe74b4) |
+| Mon, 16 Jun 2025 05:30:40 GMT | Exploring the Future of Smart Locks for Your Front Door with SwitchBot | andrew924046 | [Read More](https://medium.com/p/bc6867b7fccc) |
+| Mon, 16 Jun 2025 05:28:56 GMT | Cyberattacks on Critical Infrastructure: A New Frontline in Geopolitics, Terrorism, and AI Warfare | Sanjeev Rattan | [Read More](https://medium.com/p/568d4db7623e) |
+| Mon, 16 Jun 2025 05:19:24 GMT | Kali Linux Fundamentals and Basic Operations: A Resume | Zelvy Fauzan | [Read More](https://medium.com/p/e527a011af7b) |
 | Mon, 16 Jun 2025 05:16:06 GMT | Advanced Bug Bounty Recon Playbook (2025 Edition) — PART 2 | Bl@ckC!pH3r | [Read More](https://medium.com/p/39faaf2b7fc2) |
 | Mon, 16 Jun 2025 05:09:30 GMT | Linux Fundamentals: A Resume | Zelvy Fauzan | [Read More](https://medium.com/p/7e8a080de0f1) |
 | Mon, 16 Jun 2025 05:03:45 GMT | RST TI Report Digest: 16 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/fccf30fd48a2) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 17:57:27 GMT | Day 64: Automating Cybersecurity Tasks with Cron Jobs in Bash | Agarwaldaksh | [Read More](https://medium.com/p/335e6c32c0dc) |
 | Sun, 15 Jun 2025 17:52:37 GMT | Vaultless Tokenization: The Illusion of Security — Why It’s Just Awful Encryption | Karthik | [Read More](https://medium.com/p/a819f5bc6805) |
 | Sun, 15 Jun 2025 17:31:33 GMT | Episode VI — “The Locked Port & The Firewall Code” Troubleshoot Network Connectivity on Linux | Tyron Flagg | [Read More](https://medium.com/p/f0475b01aa86) |
-| Sun, 15 Jun 2025 17:23:06 GMT | Business Continuity and Disaster Recovery (Fastly Outage Lessons, Part 2) | Taiwo Tomiwa | [Read More](https://medium.com/p/d538c5d5e4f8) |
-| Sun, 15 Jun 2025 17:11:53 GMT | Exploring the Exciting World of Smart Door Locks with SwitchBot! | Johnmessi | [Read More](https://medium.com/p/9946c63aa14d) |
-| Sun, 15 Jun 2025 17:11:24 GMT | How I Chained Recon and IDOR to Access 100's of Credit Cards | Bhagavan Bollina | [Read More](https://medium.com/p/0ca50eb82a74) |
-| Sun, 15 Jun 2025 17:10:16 GMT | “Who Signed This? You Did. With Cosign.” | Shashank N | [Read More](https://medium.com/p/c4bb77d5b431) |
-| Sun, 15 Jun 2025 16:59:53 GMT | Log Snare Write-Up: Hacking Your Way to Another Org’s Admin Panel | ZEROSEC | [Read More](https://medium.com/p/219499da8a1e) |
-| Sun, 15 Jun 2025 16:57:25 GMT | Stop Begging Your Agents to Behave. Build It to Be Secure. | Prasad Vispute | [Read More](https://medium.com/p/1e1af3237065) |
