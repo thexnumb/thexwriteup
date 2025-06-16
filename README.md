@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 04:32:41 GMT | How to Run SQLMAP from Anywhere in Windows CMD (Complete Setup Guide) | Zuri | [Read More](https://medium.com/p/eee9d61f6303) |
+| Mon, 16 Jun 2025 04:32:41 GMT | Fiserv Bets Big on Stablecoins — Are We Entering a New Era of Payment Processing? | Akilnath Bodipudi | [Read More](https://medium.com/p/3d425bece966) |
+| Mon, 16 Jun 2025 04:26:10 GMT | Ways to Stop Hacks Through the Back Door: Supply Chain Attack Strategies | Tech Security | [Read More](https://medium.com/p/c51706e57699) |
+| Mon, 16 Jun 2025 04:22:51 GMT | Most Breaches Aren’t Caused by Hackers — They’re Caused by Us | Sec with Sun | [Read More](https://medium.com/p/2644f09f37ce) |
+| Mon, 16 Jun 2025 04:20:17 GMT | Mastering Audio Processing & Streaming in Flutter | AlexCodeX | [Read More](https://medium.com/p/8a6ea13698d4) |
+| Mon, 16 Jun 2025 04:19:18 GMT | Cybersecurity & Climate Infrastructure: A Ticking Time Bomb | A-STAR7_DOCTOR | [Read More](https://medium.com/p/bea5d453aaef) |
+| Mon, 16 Jun 2025 04:10:41 GMT | ประจำวันจันทร์ที่ 16 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/72928d5e18b0) |
+| Mon, 16 Jun 2025 04:10:05 GMT | PXP {WEB EXPLOITATION} -- CYBERSIMBA LABS | i4m_x | [Read More](https://medium.com/p/c7fe0f07c4e3) |
+| Mon, 16 Jun 2025 04:07:57 GMT | Automating My Android Pentesting Lab Setup | Michael Cooter | [Read More](https://medium.com/p/01bea2c24ff4) |
+| Mon, 16 Jun 2025 04:07:37 GMT | 9 Different Types of CCTV Cameras | The Quirer | [Read More](https://medium.com/p/59dce65e5097) |
+| Mon, 16 Jun 2025 04:02:41 GMT | Securing AI PCs: What Every Red Teamer Should Know | Rishabh Shrivastava | [Read More](https://medium.com/p/91d04aefb5d2) |
 | Mon, 16 Jun 2025 03:54:00 GMT | JSFireTruck Unleashed: The Untold Story Behind 269,000 Infections — A Strategic Wake-Up Call for… | Biswajeet Poddar | [Read More](https://medium.com/p/9fc370a14377) |
 | Mon, 16 Jun 2025 03:52:59 GMT | How I Got a Reverse Connection from the RIT Website | Tamilselvan A K | [Read More](https://medium.com/p/275dc41216af) |
 | Mon, 16 Jun 2025 03:43:46 GMT | The Security Risks of Using Online PDF Tools | Moonshrine | [Read More](https://medium.com/p/f8b046682e06) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 16:41:20 GMT | Mengenal ECC dan Web3 Cryptography serta Ancaman yang Mengintai | SltnBM | [Read More](https://medium.com/p/2e850828220f) |
 | Sun, 15 Jun 2025 16:39:53 GMT | Shodan Dorks for OSINT, Recon, and Bug Bounty | Bl@ckC!pH3r | [Read More](https://medium.com/p/a01832a0fbce) |
 | Sun, 15 Jun 2025 16:39:19 GMT | How LinkedIn Exposed Millions of Email Addresses via Voyager API | Monika sharma | [Read More](https://medium.com/p/bc09140625b9) |
-| Sun, 15 Jun 2025 16:37:07 GMT | The Russo-Chinese Cyber Axis and Germany’s Strategic Reckoning | SIMKRA | [Read More](https://medium.com/p/dd4860adab9c) |
-| Sun, 15 Jun 2025 16:34:21 GMT | Cybersecurity Gone Wild: The Emoji Ransomware Attack That Took Down a Small Accounting Firm | Noel | [Read More](https://medium.com/p/981ebbee248a) |
-| Sun, 15 Jun 2025 16:30:58 GMT | 10 Prompts to Build a Threat Intel Report Like a Pro | Bl@ckC!pH3r | [Read More](https://medium.com/p/454e03f9550c) |
-| Sun, 15 Jun 2025 16:30:14 GMT | Your Antivirus Can’t Stop This: The Cybersecurity Breach That Started With a Font | Noel | [Read More](https://medium.com/p/c141830bbb0b) |
-| Sun, 15 Jun 2025 16:27:18 GMT | Kriptografi ECC dan Web3: Teknologi Masa Depan beserta Ancaman yang Menghadang | Hasan Basyri | [Read More](https://medium.com/p/77e7cdf3d995) |
-| Sun, 15 Jun 2025 16:22:22 GMT | Albert Gonzales: 170 Milyon Kartlık Siber Vurgun | Umut Bulut | [Read More](https://medium.com/p/f5461706943b) |
-| Sun, 15 Jun 2025 16:19:53 GMT | Platform: TryHackMe Tool Used: Parrot OS (Linux) | Vikash Yadav | [Read More](https://medium.com/p/d379c0776ba7) |
-| Sun, 15 Jun 2025 16:11:36 GMT | The Smart Penalty Mechanism: How Viewing a Hoax Could Cost You | Julian Andy Mangkulla | [Read More](https://medium.com/p/0de69380c55f) |
-| Sun, 15 Jun 2025 16:08:02 GMT | WebStrike Blue Team Lab (CyberDefenders) | ByteSlayer | [Read More](https://medium.com/p/baae354a0eac) |
-| Sun, 15 Jun 2025 16:03:53 GMT | File Name as Payload for Successful Command Injection: Leviathan2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/7620187bb35a) |
-| Sun, 15 Jun 2025 16:03:50 GMT | Why AI Still Sucks at Being Human (And Probably Always Will) | Payaam Raza | [Read More](https://medium.com/p/ad04a380a26d) |
