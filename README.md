@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 08:26:35 GMT | ️‍♂️ The Rise of Mobile Spyware: How Mobile Forensics Is Catching Hidden Surveillance Apps | Amritanshu Prashar | [Read More](https://medium.com/p/5b0505addb32) |
+| Mon, 16 Jun 2025 08:17:58 GMT | Are You Safe with Current Cyber Security in UAE? | Sparx Digital | [Read More](https://medium.com/p/bafe89b6df4d) |
+| Mon, 16 Jun 2025 08:16:07 GMT | How I Took Control of My Data Encryption with AWS KMS | Aashishchaudhari | [Read More](https://medium.com/p/bf0bccc1b51e) |
+| Mon, 16 Jun 2025 08:05:30 GMT | SOC138 — Detected Suspicious Xls File(Alert 77) | Amadi Oluchi Faith | [Read More](https://medium.com/p/81ab6e947ef7) |
+| Mon, 16 Jun 2025 08:05:22 GMT | From isolation to intimidation: Understanding North Korea’s Role in East Asia’s Security Dilemma | We Are Living in Art ᝰ✍ | [Read More](https://medium.com/p/fcdb31d0f279) |
+| Mon, 16 Jun 2025 08:03:58 GMT | The Future of Monitoring: Exploring the $15B Multi-Dimensional Interconnected Monitoring Service… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/6a222524987c) |
+| Mon, 16 Jun 2025 08:02:41 GMT | The $10K Terraform Mistake: How a Manual IAM Change Crashed Logging & Spiked Your AWS Bill | Mohamed ElEmam | [Read More](https://medium.com/p/9bf6dfdc03e1) |
+| Mon, 16 Jun 2025 08:01:06 GMT | Token Tunnels: How Misused Refresh Tokens Let Me Hijack Sessions Forever ️ | Iski | [Read More](https://medium.com/p/de63e1adb8a3) |
+| Mon, 16 Jun 2025 08:00:14 GMT | The Importance of ISO Certified Cybersecurity | Snskies | [Read More](https://medium.com/p/a1496701a796) |
+| Mon, 16 Jun 2025 07:59:54 GMT | AWS IAM Management Best Practices: Structured Approaches for Scalable Access Control | Deepak Gupta | [Read More](https://medium.com/p/a54e30fd73ca) |
+| Mon, 16 Jun 2025 07:59:38 GMT | ”Harbor” ile tespit edilen bulguları Dynatrace ile zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/ea8164ae8931) |
+| Mon, 16 Jun 2025 07:51:57 GMT | 13 Mobile Hacking Tools Every Cyber Warrior Should Know (And Use Responsibly) | Aren Redd | [Read More](https://medium.com/p/c03b38b6f44c) |
+| Mon, 16 Jun 2025 07:48:31 GMT | Data Leakage in AI Systems | Vlad Koval | [Read More](https://medium.com/p/be0de5186e9c) |
+| Mon, 16 Jun 2025 07:46:52 GMT | How I Leaked Data of Cryptocurreny Human Proofing Site. | NnFace | [Read More](https://medium.com/p/47b1bc53943c) |
+| Mon, 16 Jun 2025 07:44:11 GMT | I Vibe‑Coded My Way Into a Broken Android with ChatGPT & Python | hiruthicSha | [Read More](https://medium.com/p/5f1425e5ce7b) |
+| Mon, 16 Jun 2025 07:43:38 GMT | The Dark Web War and Cybercrime: Whats the Connection between both? | Rehab Mushtaq | [Read More](https://medium.com/p/3df861be3fb2) |
+| Mon, 16 Jun 2025 07:40:51 GMT | How a Simple Redirect Led to a $550 XSS Vulnerability | Ehtesham Ul Haq | [Read More](https://medium.com/p/b3e0ff045607) |
+| Mon, 16 Jun 2025 07:40:43 GMT | A Journey to Cyber Security Maturity and Resilience | jb | [Read More](https://medium.com/p/75f1eb6d9833) |
+| Mon, 16 Jun 2025 07:37:17 GMT | Is Identity really all that important? | jb | [Read More](https://medium.com/p/0c1ad6ba705d) |
 | Mon, 16 Jun 2025 07:32:36 GMT | Extending Your Network — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/76ee00b3d69f) |
 | Mon, 16 Jun 2025 07:31:37 GMT | HackTheBox Writeup — Luanne | Simardeep Singh | [Read More](https://medium.com/p/83f9fbdbbe45) |
 | Mon, 16 Jun 2025 07:31:36 GMT | $$ Mass Hunting with FOFA Dorking | It4chis3c | [Read More](https://medium.com/p/ad733f90a49e) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 00:23:13 GMT | The Beauty of Slow Burn Relationships in Modern Dating | Lubov Demchuk | [Read More](https://medium.com/p/269dea670653) |
 | Sun, 15 Jun 2025 23:59:43 GMT | Hands-On with Termux —  Storage Setup, File Downloads, and File System Exploration. | Alex Grande | [Read More](https://medium.com/p/fd4f4995df25) |
 | Sun, 15 Jun 2025 23:54:35 GMT | Apache James Server 2.3.2 — Authenticated Remote Code Execution (Exploit-DB 50347) | CyberQuestor | [Read More](https://medium.com/p/779a21ca0ec8) |
-| Sun, 15 Jun 2025 23:50:15 GMT | Hacked Between Sips: The Cyber Slip That Could Happen to Any Teen | Swikritinarang | [Read More](https://medium.com/p/a6895a0c5147) |
-| Sun, 15 Jun 2025 23:27:13 GMT | I’m Back: Why Your Two-Factor Authentication Isn’t Protecting You | Ayas Ismail | [Read More](https://medium.com/p/17c28b2e9d5b) |
-| Sun, 15 Jun 2025 23:23:18 GMT | My HackerOne 30/26 CTFs Process | Gabriel Pires | [Read More](https://medium.com/p/ebb0e47be5df) |
-| Sun, 15 Jun 2025 23:02:41 GMT | CyberDefenders — Oski Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/eb22207a4efc) |
-| Sun, 15 Jun 2025 22:55:28 GMT | Testing in Detection Engineering — Part 1 | Bill Mahony | [Read More](https://medium.com/p/4b9a0be238b6) |
-| Sun, 15 Jun 2025 22:54:07 GMT | Die ultimative Roadmap zur digitalen Transformation: Warum 73% der KMU scheitern — und wie Sie… | Philip Hansen | [Read More](https://medium.com/p/76f4060257dc) |
-| Sun, 15 Jun 2025 22:52:27 GMT | Die 2025 Roadmap für digitale Geschäftsmodell-Innovation: Der ultimative Leitfaden für den… | Philip Hansen | [Read More](https://medium.com/p/2b8f47016c66) |
-| Sun, 15 Jun 2025 22:43:55 GMT | How to make a Domain Controller without a GUI | Ross Andrews | [Read More](https://medium.com/p/faa7151e0986) |
-| Sun, 15 Jun 2025 22:35:50 GMT | 2025 Cyber Sentinel Challenge — Hoasted Toasted Write-Up | Caleb Streit | [Read More](https://medium.com/p/f7d134192ff9) |
-| Sun, 15 Jun 2025 22:31:33 GMT | OPACITY WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/ccf8b827714c) |
-| Sun, 15 Jun 2025 22:16:37 GMT | Banner Grabbing in 2025: Still a Goldmine for Attackers? | Karthikeyan Nagaraj | [Read More](https://medium.com/p/b08b21ec723a) |
-| Sun, 15 Jun 2025 22:10:37 GMT | Day 23: Just Operating Systems | Nile Okomo | [Read More](https://medium.com/p/0377a18ca3c7) |
-| Sun, 15 Jun 2025 22:01:02 GMT | When Your Best Still Isn’t Enough ….. | Abibat Raheem | [Read More](https://medium.com/p/39733a5fb56d) |
-| Sun, 15 Jun 2025 21:56:38 GMT | Understanding Keycloak Authentication in Web Services: A Beginner’s Guide | Danida Jayakody | [Read More](https://medium.com/p/e2ffce0d6393) |
-| Sun, 15 Jun 2025 21:52:32 GMT | The AI Boom Is Missing Something Big: The Customer | Angelo Bell | [Read More](https://medium.com/p/f456f8fb6107) |
-| Sun, 15 Jun 2025 21:40:54 GMT | Exploring the Future of Smart Home with SwitchBot’s Smart Door Lock | Adfgdsfaa | [Read More](https://medium.com/p/fa454135ce87) |
-| Sun, 15 Jun 2025 21:31:30 GMT | My Terraform Associate Certification Study Notes & Guide | Mehwish | [Read More](https://medium.com/p/a985a8c4d3e4) |
-| Sun, 15 Jun 2025 21:25:57 GMT | National Web3 Infrastructure Blueprint: A Cybersecurity-Centric Vision for Digital Sovereignty | A-STAR7_DOCTOR | [Read More](https://medium.com/p/c9b3d5d87401) |
-| Sun, 15 Jun 2025 21:20:33 GMT | I Found a $4,200 Bug in 15 Minutes | Ibtissam hammadi | [Read More](https://medium.com/p/8d1ce968cf6b) |
