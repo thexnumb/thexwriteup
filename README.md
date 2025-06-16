@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 20:40:25 GMT | Installing and Using YARA Malware Detector | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c36b6aaf2eec) |
+| Mon, 16 Jun 2025 20:38:20 GMT | Remind Task — Teman Pintar Mahasiswa dalam Mengatur Tugas dan Waktu | Fachrizal P | [Read More](https://medium.com/p/71861e6d8841) |
+| Mon, 16 Jun 2025 20:37:00 GMT | Vishing Story: A Fictional Tale about a Very Real Problem | Herd Security | [Read More](https://medium.com/p/94d40f508a9f) |
+| Mon, 16 Jun 2025 20:32:05 GMT | Integration of Zero Trust Architecture, SIEM, and AI Chatbot for Reducing SOC Workload | Alohoutaderonald | [Read More](https://medium.com/p/9cd34e9ed57a) |
+| Mon, 16 Jun 2025 20:29:57 GMT | Nmap ile Zaafiyet Tarama | Ali Karaoglan | [Read More](https://medium.com/p/1634f7b89f2d) |
+| Mon, 16 Jun 2025 20:25:01 GMT | Burpsuite | Ali Karaoglan | [Read More](https://medium.com/p/77365fa36a1b) |
+| Mon, 16 Jun 2025 20:23:03 GMT | TryHackMe — Volatility Essentials Walkthrough | Yacrb | [Read More](https://medium.com/p/f0b485ac8d46) |
+| Mon, 16 Jun 2025 20:22:34 GMT | Securing your Backend | Ashutosh Karna | [Read More](https://medium.com/p/c54e00831e4e) |
 | Mon, 16 Jun 2025 20:11:28 GMT | Getting Started in Bug Bounty Hunting in 2025: A Practical Guide for Beginners | Rishabh Shrivastava | [Read More](https://medium.com/p/247d35d31939) |
 | Mon, 16 Jun 2025 20:03:38 GMT | Exploring the Benefits of Smart Lock Front Door Solutions with SwitchBot | Garddickens | [Read More](https://medium.com/p/0321f6276750) |
 | Mon, 16 Jun 2025 20:02:27 GMT | Why NIST’s 19 Zero Trust Examples Matter (And How to Use Them) | Brittney Ginther | [Read More](https://medium.com/p/7f8af82020ad) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 15:40:41 GMT | “The Silent Price of Freelancing Freedom” | Pavan | [Read More](https://medium.com/p/42ee8ad5be65) |
 | Mon, 16 Jun 2025 15:40:33 GMT | I’m guilty of a points & miles crime | Daily Drop | [Read More](https://medium.com/p/a45e0dafe77e) |
 | Mon, 16 Jun 2025 15:32:40 GMT | Mind the Resilience Gap — Because Attackers Already Are | Milos | [Read More](https://medium.com/p/3f5b6136d7bf) |
-| Mon, 16 Jun 2025 15:30:23 GMT | On Being Strong | Tim Wiesnerer | [Read More](https://medium.com/p/529a34a37360) |
-| Mon, 16 Jun 2025 15:29:02 GMT | What Healing Actually Looks Like |  | [Read More](https://medium.com/p/1d3b6cfdaa7d) |
-| Mon, 16 Jun 2025 15:28:15 GMT | Scaling DevSecOps Across the DoD: Lessons From the Latest SEI Study | Mike Bynum | [Read More](https://medium.com/p/761fd3f0c364) |
-| Mon, 16 Jun 2025 15:27:04 GMT | From Nobody to Noticed: 108 Days to Change My Life with Code, Cybersecurity & Web3 | Fury | [Read More](https://medium.com/p/73532f253374) |
-| Mon, 16 Jun 2025 15:25:55 GMT | Can a Beginner Hack a Cheap Walmart Streaming Box?(Part 1) | Blackism | [Read More](https://medium.com/p/ef419aad2897) |
-| Mon, 16 Jun 2025 15:19:16 GMT | Anti Looter Kit Review: Secure Your Properties In 2025 | Anti-Looter Kit | [Read More](https://medium.com/p/7242b2e0e0f4) |
-| Mon, 16 Jun 2025 15:17:33 GMT | Operation: Linux Agency (TryHackMe) | Chikleet Arora | [Read More](https://medium.com/p/e7070fa946bc) |
-| Mon, 16 Jun 2025 15:16:36 GMT | Generative AI Jailbreaks: Catching Up with the Latest Exploits | Kijo Ninja | [Read More](https://medium.com/p/158df5cd1ea6) |
