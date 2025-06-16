@@ -12,9 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 10:23:53 GMT | Why Most PHP Auth Systems Are Just Fancy Session Leaks? | Asian Digital Hub | [Read More](https://medium.com/p/ff6d448fafab) |
+| Mon, 16 Jun 2025 10:20:15 GMT | Transform with Confidence: PiLog’s Data Quality Management | Ruhi | [Read More](https://medium.com/p/95e8f56f17fb) |
+| Mon, 16 Jun 2025 10:19:41 GMT | The $328 Million Question: Building Privacy-Preserving Stablecoins That Actually Work | Serhan Bahar (swb) | [Read More](https://medium.com/p/2346243abce1) |
+| Mon, 16 Jun 2025 10:16:05 GMT | EchoLeak: The First Zero-Click Command Injection Vulnerability in Microsoft 365 Copilot | Surya Teja | [Read More](https://medium.com/p/5a8579bb8f79) |
+| Mon, 16 Jun 2025 10:10:56 GMT | VAPT Service Providers in India | StrongBox IT | [Read More](https://medium.com/p/b95fa8bba8c0) |
+| Mon, 16 Jun 2025 10:06:02 GMT | How IT Helps You Get More Done with Less Staff | CyberSolvings | [Read More](https://medium.com/p/7287107a6471) |
+| Mon, 16 Jun 2025 10:02:28 GMT | Secure Your Hiring: How HR Should Handle Word & PDF Resumes | Saipuneeth Gundamraju | [Read More](https://medium.com/p/3f01dec846d9) |
+| Mon, 16 Jun 2025 10:01:28 GMT | Capture Your Share of Bugs Bunny's Launch Bonus and Enjoy bonus tokens | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/1a4693908c12) |
+| Mon, 16 Jun 2025 09:54:53 GMT | My People. | Jo | [Read More](https://medium.com/p/8ed495a160c3) |
+| Mon, 16 Jun 2025 09:54:12 GMT | When Windows Wounds You: Dissecting the SMB Client Zero‑Day (CVE‑2025‑33073) | cybrNK | [Read More](https://medium.com/p/24833aac38f3) |
+| Mon, 16 Jun 2025 09:52:58 GMT | Perform System Configuration Gap Analysis | Gamuchirai | [Read More](https://medium.com/p/4830554d506b) |
+| Mon, 16 Jun 2025 09:51:56 GMT | Malware in the Code: How Threat Actors Are Weaponizing Open-Source Packages in Multi-Stage Attacks | CyDhaal | [Read More](https://medium.com/p/48bfe76050db) |
+| Mon, 16 Jun 2025 09:50:45 GMT | Claim Your Share of Curvance's Distribution Wave and Enjoy exclusive bonuses | $CVE (Curvance) | [Read More](https://medium.com/p/d0db3291c350) |
+| Mon, 16 Jun 2025 09:49:08 GMT | Remote Access Isn’t Just a Feature, It’s Closure | Antoinesilvester | [Read More](https://medium.com/p/001f378f5166) |
+| Mon, 16 Jun 2025 09:45:15 GMT | Understanding the Key Factors Shaping the Future of IT Leadership | Gauravinsightss | [Read More](https://medium.com/p/288810e77f23) |
 | Mon, 16 Jun 2025 09:43:12 GMT | i missed the way how u peeled oranges for me | Letters from J | [Read More](https://medium.com/p/a0ef0ca9ad03) |
+| Mon, 16 Jun 2025 09:38:59 GMT | Still Coding for User Roles? Let Your PHP App Infer Access Contextually | Asian Digital Hub | [Read More](https://medium.com/p/91b0ad712078) |
+| Mon, 16 Jun 2025 09:38:38 GMT | Privacy in a Connected World: Navigating Smart Home Security | OKOS - Home Automation | [Read More](https://medium.com/p/0b674c1b20d1) |
 | Mon, 16 Jun 2025 09:37:01 GMT | Trusted Cyber Security Solution Providers | InfutrixTechnologies | [Read More](https://medium.com/p/3ed0ceaf1727) |
 | Mon, 16 Jun 2025 09:36:00 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap [Part-1] | Shubhreet Dhaliwal | [Read More](https://medium.com/p/6d4f537b438e) |
+| Mon, 16 Jun 2025 09:35:11 GMT | Building “Izanami: The Endless Loop” — A CTF Game with Amazon Q | 0xshr00msz | [Read More](https://medium.com/p/08c9b860c0b3) |
 | Mon, 16 Jun 2025 09:22:46 GMT | ⚡️ How I Made EC2 SSH Access Instant with Aliases in PowerShell and Git Bash | JiokeCloudSec | [Read More](https://medium.com/p/5a9ca6eb2704) |
 | Mon, 16 Jun 2025 09:21:30 GMT | CyberChef 101: A Quick Guide to The Most Versatile Cyber Tool | Adam Goss | [Read More](https://medium.com/p/24c83a146e5b) |
 | Mon, 16 Jun 2025 09:11:58 GMT | Avoid Microsoft 365 Lockouts Set Up Break Glass Accounts | Mark O | [Read More](https://medium.com/p/d3093eb0ce29) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 04:50:01 GMT | What caused the recent outage on Elon Musk’s social media platform X? | Lamidi Idris Olamide | [Read More](https://medium.com/p/476926976f87) |
 | Mon, 16 Jun 2025 04:46:41 GMT | Exploring the Smart Home Revolution with SwitchBot! | Afqwexvc | [Read More](https://medium.com/p/0359d0b761ea) |
 | Mon, 16 Jun 2025 04:32:41 GMT | How to Run SQLMAP from Anywhere in Windows CMD (Complete Setup Guide) | Zuri | [Read More](https://medium.com/p/eee9d61f6303) |
-| Mon, 16 Jun 2025 04:32:41 GMT | Fiserv Bets Big on Stablecoins — Are We Entering a New Era of Payment Processing? | Akilnath Bodipudi | [Read More](https://medium.com/p/3d425bece966) |
-| Mon, 16 Jun 2025 04:26:10 GMT | Ways to Stop Hacks Through the Back Door: Supply Chain Attack Strategies | Tech Security | [Read More](https://medium.com/p/c51706e57699) |
-| Mon, 16 Jun 2025 04:22:51 GMT | Most Breaches Aren’t Caused by Hackers — They’re Caused by Us | Sec with Sun | [Read More](https://medium.com/p/2644f09f37ce) |
-| Mon, 16 Jun 2025 04:20:17 GMT | Mastering Audio Processing & Streaming in Flutter | AlexCodeX | [Read More](https://medium.com/p/8a6ea13698d4) |
-| Mon, 16 Jun 2025 04:19:18 GMT | Cybersecurity & Climate Infrastructure: A Ticking Time Bomb | A-STAR7_DOCTOR | [Read More](https://medium.com/p/bea5d453aaef) |
-| Mon, 16 Jun 2025 04:10:41 GMT | ประจำวันจันทร์ที่ 16 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/72928d5e18b0) |
-| Mon, 16 Jun 2025 04:10:05 GMT | PXP {WEB EXPLOITATION} -- CYBERSIMBA LABS | i4m_x | [Read More](https://medium.com/p/c7fe0f07c4e3) |
-| Mon, 16 Jun 2025 04:07:57 GMT | Automating My Android Pentesting Lab Setup | Michael Cooter | [Read More](https://medium.com/p/01bea2c24ff4) |
-| Mon, 16 Jun 2025 04:07:37 GMT | 9 Different Types of CCTV Cameras | The Quirer | [Read More](https://medium.com/p/59dce65e5097) |
-| Mon, 16 Jun 2025 04:02:41 GMT | Securing AI PCs: What Every Red Teamer Should Know | Rishabh Shrivastava | [Read More](https://medium.com/p/91d04aefb5d2) |
-| Mon, 16 Jun 2025 03:54:00 GMT | JSFireTruck Unleashed: The Untold Story Behind 269,000 Infections — A Strategic Wake-Up Call for… | Biswajeet Poddar | [Read More](https://medium.com/p/9fc370a14377) |
-| Mon, 16 Jun 2025 03:52:59 GMT | How I Got a Reverse Connection from the RIT Website | Tamilselvan A K | [Read More](https://medium.com/p/275dc41216af) |
-| Mon, 16 Jun 2025 03:43:46 GMT | The Security Risks of Using Online PDF Tools | Moonshrine | [Read More](https://medium.com/p/f8b046682e06) |
-| Mon, 16 Jun 2025 03:39:34 GMT | Why BYOD and Third-Party Access Are the Silent Threats in Hybrid Work — and How Mammoth Cyber… | Mammoth Cyber | [Read More](https://medium.com/p/0b24a4c52ed0) |
-| Mon, 16 Jun 2025 03:32:40 GMT | Why Rapido’s OTP Never Changes — A Backend Developer’s Curious Deep Dive | surya M | [Read More](https://medium.com/p/f0a6042df0c8) |
-| Mon, 16 Jun 2025 03:32:39 GMT | On-Premise AI Code Reviews: Boost Code Quality and Security for Enterprise Teams | Panto AI | [Read More](https://medium.com/p/407d72ab8762) |
-| Mon, 16 Jun 2025 03:17:53 GMT | Methodology အကြောင်းအာချောင်ကွန်တန့် | Eternal Htut :3 | [Read More](https://medium.com/p/c727209ed2e5) |
-| Mon, 16 Jun 2025 02:47:59 GMT | How I found the best LLM Model for my AI PenTesting Framework | Mauricio Giraldo | [Read More](https://medium.com/p/ee5aae0d0103) |
