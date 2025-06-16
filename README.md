@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 23:01:35 GMT | ‘NetworkError’ is ambiguous for type lookup in this context | Jerry PM | [Read More](https://medium.com/p/12c80991d3d5) |
+| Mon, 16 Jun 2025 22:42:50 GMT | The Fear Isn’t Love. It’s Getting It Wrong — Again. | Ckan Johnson | [Read More](https://medium.com/p/9128505c1a2a) |
+| Mon, 16 Jun 2025 22:39:27 GMT | DNS: The Underestimated Attack Surface in Networking | Monika sharma | [Read More](https://medium.com/p/b418f8ced713) |
 | Mon, 16 Jun 2025 22:17:06 GMT | Credential Dumping & Lateral Movement in Modern Windows Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eac16dc78c36) |
 | Mon, 16 Jun 2025 22:16:11 GMT | ISC CC Cybersecurity Certification: Everything You Need to Know | saol | [Read More](https://medium.com/p/2c1f33c799d3) |
 | Mon, 16 Jun 2025 22:10:38 GMT | Global Cybercrime Cartels: More Dangerous Than Nation-States? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/54b70f8ca74a) |
@@ -109,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 16:35:56 GMT | My Worst Day in Hunting bugs - Mejbankadir -Mejbankadir — Ethical Hacker - SMH Tech — Mejbankadir. | Mejbankadir | [Read More](https://medium.com/p/752a443e7f14) |
 | Mon, 16 Jun 2025 16:35:33 GMT | Dark Web Monitoring Services to Safe Your Business Online | SafeAeon Inc. | [Read More](https://medium.com/p/64af98c4cfc5) |
 | Mon, 16 Jun 2025 16:30:02 GMT | ️Desmistificando SCA, SAST, DAST | DevSecOps from Zero!‍️ | [Read More](https://medium.com/p/bed5ee173caf) |
-| Mon, 16 Jun 2025 16:27:50 GMT | Understanding the 11 Most Common Types of Cyber Attacks | Robertpurpose | [Read More](https://medium.com/p/1227b9a1e487) |
-| Mon, 16 Jun 2025 16:27:23 GMT | “Malware — The Invisible Intruder in Your Digital Life”
- Picture this… | Deepak Rohilla | [Read More](https://medium.com/p/edc59fa10b5a) |
-| Mon, 16 Jun 2025 16:26:37 GMT | Hire Hackers | Lionello bellucci | [Read More](https://medium.com/p/27b723c31a35) |
