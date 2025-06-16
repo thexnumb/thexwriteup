@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 12:45:02 GMT | File Upload With React Native Document Picker Updated: How to Use the New Package | Anazrasak | [Read More](https://medium.com/p/45d4a4302b56) |
+| Mon, 16 Jun 2025 12:39:50 GMT | The Best Home Security Camera | Phil Ryan | [Read More](https://medium.com/p/22d869f4b489) |
+| Mon, 16 Jun 2025 12:32:57 GMT | Getting started with Hashcat: Password Recovery | Taji Abdullah | [Read More](https://medium.com/p/7a266c53fdd4) |
+| Mon, 16 Jun 2025 12:32:39 GMT | The Impact of Reconciliation Automation on Financial Reporting Speed | Kosh AI | [Read More](https://medium.com/p/682cf9ff1a66) |
+| Mon, 16 Jun 2025 12:31:20 GMT | Who Inherits Your Digital Life? Why Every Platform Needs a Next-of-Kin Policy | Jovworie Tanshi | [Read More](https://medium.com/p/3cda332b396f) |
+| Mon, 16 Jun 2025 12:25:20 GMT | Building a Containerized Web Application Firewall (WAF) with ModSecurity and NGINX Using Docker | Yash Patel | [Read More](https://medium.com/p/cb1b2aa55145) |
+| Mon, 16 Jun 2025 12:24:21 GMT | No One Will Save You Except Yourself | Federico Rossi | [Read More](https://medium.com/p/63d5b4c18ac5) |
+| Mon, 16 Jun 2025 12:22:36 GMT | HTB 2Million — A Clue-Based Walk-through to Build Your Pen-testing Skills | zer0_bugs | [Read More](https://medium.com/p/d1c915e25ff8) |
+| Mon, 16 Jun 2025 12:21:40 GMT | NATO defense contractors hit with sophisticated malware campaign. June 16, 2025 | Inforsecpro | [Read More](https://medium.com/p/9c6f5834b2ed) |
+| Mon, 16 Jun 2025 12:20:37 GMT | Meta and Yandex Violating Android Users Privacy | Nitin Garg | [Read More](https://medium.com/p/fc526a6b477e) |
+| Mon, 16 Jun 2025 12:18:15 GMT | Smart Yet Cautious Money Management | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/7354130febca) |
+| Mon, 16 Jun 2025 12:16:21 GMT | How Much Does a Mobile Security Trailer Cost? [Rental vs Purchase] | IVIS Security | [Read More](https://medium.com/p/aafd28869096) |
+| Mon, 16 Jun 2025 12:15:59 GMT | Next‑Gen MFA: Moving Beyond SMS and OTPs in 2025 | GoTrust Tech | [Read More](https://medium.com/p/e2c652d2c3e6) |
+| Mon, 16 Jun 2025 12:15:08 GMT | Safeguarding Healthcare: Lessons from the 2025 Ocuco Data Breach and Strategies for Resilience | Chetan Seripally | [Read More](https://medium.com/p/9d199a51e64f) |
+| Mon, 16 Jun 2025 12:14:57 GMT | Understanding the 4 Core Data Classification Categories | Ampcus Cyber | [Read More](https://medium.com/p/e2cdc81540a0) |
+| Mon, 16 Jun 2025 12:09:49 GMT | Gain Exclusive BUGS Through Bugs Bunny's Reward Drop | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/dcf6b773876d) |
+| Mon, 16 Jun 2025 12:01:40 GMT | Cookie, Cache, dan Riwayat Penjelajahan, Perlukah Dihapus Rutin? | Mukti Badriyan | [Read More](https://medium.com/p/28a7a2c38e00) |
+| Mon, 16 Jun 2025 11:59:09 GMT | 35 Must-Have Ethical Hacking Tools for Cybersecurity Experts | Simplilearn | [Read More](https://medium.com/p/afdcd2b204d7) |
+| Mon, 16 Jun 2025 11:51:30 GMT | Preventing Secret Leaks Across All GitHub Repos with Morph in 5 Minutes | Vlad Lezhnin | [Read More](https://medium.com/p/319deb986931) |
+| Mon, 16 Jun 2025 11:32:13 GMT | Was it something I said? If AI prompting is an art, then I’m far from Bob Ross. | Pat Snyder | [Read More](https://medium.com/p/3e9c30b584b5) |
 | Mon, 16 Jun 2025 11:26:05 GMT | Enhancing Cyber Defense with Security Orchestration and Automation (SOAR) | Vinay Jadhav | [Read More](https://medium.com/p/e01dc2a0a303) |
 | Mon, 16 Jun 2025 11:24:06 GMT | Privilege Escalation in AWS via Key Rotation — A Cloudgoat Scenario Walkthrough | Ojasveer Singh Saini | [Read More](https://medium.com/p/42a0db68a430) |
 | Mon, 16 Jun 2025 11:19:14 GMT | What is cybersecurity risk assessment exactly? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8f14064caf59) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 07:59:54 GMT | AWS IAM Management Best Practices: Structured Approaches for Scalable Access Control | Deepak Gupta | [Read More](https://medium.com/p/a54e30fd73ca) |
 | Mon, 16 Jun 2025 07:59:38 GMT | ”Harbor” ile tespit edilen bulguları Dynatrace ile zenginleştirin | Perform Yazılım | [Read More](https://medium.com/p/ea8164ae8931) |
 | Mon, 16 Jun 2025 07:51:57 GMT | 13 Mobile Hacking Tools Every Cyber Warrior Should Know (And Use Responsibly) | Aren Redd | [Read More](https://medium.com/p/c03b38b6f44c) |
-| Mon, 16 Jun 2025 07:48:31 GMT | Data Leakage in AI Systems | Vlad Koval | [Read More](https://medium.com/p/be0de5186e9c) |
-| Mon, 16 Jun 2025 07:46:52 GMT | How I Leaked Data of Cryptocurreny Human Proofing Site. | NnFace | [Read More](https://medium.com/p/47b1bc53943c) |
-| Mon, 16 Jun 2025 07:44:11 GMT | I Vibe‑Coded My Way Into a Broken Android with ChatGPT & Python | hiruthicSha | [Read More](https://medium.com/p/5f1425e5ce7b) |
-| Mon, 16 Jun 2025 07:43:38 GMT | The Dark Web War and Cybercrime: Whats the Connection between both? | Rehab Mushtaq | [Read More](https://medium.com/p/3df861be3fb2) |
-| Mon, 16 Jun 2025 07:40:51 GMT | How a Simple Redirect Led to a $550 XSS Vulnerability | Ehtesham Ul Haq | [Read More](https://medium.com/p/b3e0ff045607) |
-| Mon, 16 Jun 2025 07:40:43 GMT | A Journey to Cyber Security Maturity and Resilience | jb | [Read More](https://medium.com/p/75f1eb6d9833) |
-| Mon, 16 Jun 2025 07:37:17 GMT | Is Identity really all that important? | jb | [Read More](https://medium.com/p/0c1ad6ba705d) |
-| Mon, 16 Jun 2025 07:32:36 GMT | Extending Your Network — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/76ee00b3d69f) |
-| Mon, 16 Jun 2025 07:31:37 GMT | HackTheBox Writeup — Luanne | Simardeep Singh | [Read More](https://medium.com/p/83f9fbdbbe45) |
-| Mon, 16 Jun 2025 07:31:36 GMT | $$ Mass Hunting with FOFA Dorking | It4chis3c | [Read More](https://medium.com/p/ad733f90a49e) |
-| Mon, 16 Jun 2025 07:28:04 GMT | Exploring the Smart Home Revolution with SwitchBot’s Home Lock | lauren685607 | [Read More](https://medium.com/p/8769923ec9df) |
-| Mon, 16 Jun 2025 07:26:38 GMT | Threat Modeling for Backend Engineers: Thinking Like an Attacker Without Losing Your Mind | Stefano Alvares | [Read More](https://medium.com/p/6d48ad69384a) |
-| Mon, 16 Jun 2025 07:25:38 GMT | Cyber Fraud A Major Concern For Common Man Even Of Having Cybersecurity How to prevent It | Yogeshdeshpande | [Read More](https://medium.com/p/64e9b855186b) |
-| Mon, 16 Jun 2025 07:21:55 GMT | Setup LEMP; | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/5671340f3fc1) |
-| Mon, 16 Jun 2025 07:17:47 GMT | Why Generic Terms of Service Can’t Protect Your SaaS Business | Tos Lawyer | [Read More](https://medium.com/p/3e94ad350b4b) |
-| Mon, 16 Jun 2025 07:17:19 GMT | How To Set Up an Apache Web-Based Server in Linux | Raymond Ebonine | [Read More](https://medium.com/p/dc870ba2dc0b) |
-| Mon, 16 Jun 2025 07:10:43 GMT | Elliptic Curve Cryptography (ECC) dan Web3 Cryptography | M. Naufal R. | [Read More](https://medium.com/p/0492ee6f653c) |
-| Mon, 16 Jun 2025 07:09:17 GMT | Activate Windows (legally) for your cybersecurity labs | Guillermo Pineda | [Read More](https://medium.com/p/e344d6e13701) |
-| Mon, 16 Jun 2025 06:57:19 GMT | This Makes Hacking TOO Easy - Flipper Zero | Your Teck | [Read More](https://medium.com/p/f15cd1e149a3) |
-| Mon, 16 Jun 2025 06:45:34 GMT | Think Like a Hacker, Act Like a Team: Rethinking Security Across Departments | Ben Kemp | [Read More](https://medium.com/p/b2cd6b6be1ff) |
