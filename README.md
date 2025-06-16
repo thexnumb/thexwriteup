@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 14:37:59 GMT | My Journey: From Curious Beginner to Developer | Shimanta Chakraborty | [Read More](https://medium.com/p/78d7c4267ab1) |
+| Mon, 16 Jun 2025 14:37:08 GMT | Jamf Pro and Mammoth Cyber Enterprise Browser: Securing iOS BYOD Without Compromising Privacy | Mammoth Cyber | [Read More](https://medium.com/p/4de3036a8ba3) |
+| Mon, 16 Jun 2025 14:35:01 GMT | Day 26: The Art (and Science) of Risk: Qualitative vs. Quantitative Analysis | Brittney Ginther | [Read More](https://medium.com/p/48ad6ac36a5f) |
+| Mon, 16 Jun 2025 14:33:01 GMT | Neighbour-TryHackMe: 5 Minute Hacks | Ekabashen | [Read More](https://medium.com/p/6ed247fa7232) |
+| Mon, 16 Jun 2025 14:31:21 GMT | Tusk Infostealer — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/4889b8de0caf) |
+| Mon, 16 Jun 2025 14:29:50 GMT | Part 12: BOLA Detection in Mobile Apps and Single-Page Applications (SPAs) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/69c0843b35b4) |
+| Mon, 16 Jun 2025 14:29:33 GMT | ⚠️ Part 11: Common Misconceptions and Pitfalls When Testing for BOLA | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a83218fbbbcc) |
+| Mon, 16 Jun 2025 14:25:02 GMT | Ahmed Emad Amar: A Libyan Actor and Tech Entrepreneur Bridging Art and National Digital Security. | Ahmed Amar | [Read More](https://medium.com/p/877b3065e55a) |
 | Mon, 16 Jun 2025 14:19:38 GMT | Alien Fruit Flies. | Robert Cormack | [Read More](https://medium.com/p/9ae34d86abb6) |
 | Mon, 16 Jun 2025 14:09:40 GMT | VanHelsing Ransomware: A Deep Dive into a 2025 Cyber Threat | Muhammad Saad Hanif | [Read More](https://medium.com/p/10ac9cb1e03b) |
 | Mon, 16 Jun 2025 14:06:02 GMT | Warzone to Webzone: How Cyber Is Now a Battlefield in Modern Conflict | Cybersecurity Umbrella | [Read More](https://medium.com/p/a01e8eaef6fc) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 10:10:56 GMT | VAPT Service Providers in India | StrongBox IT | [Read More](https://medium.com/p/b95fa8bba8c0) |
 | Mon, 16 Jun 2025 10:06:02 GMT | How IT Helps You Get More Done with Less Staff | CyberSolvings | [Read More](https://medium.com/p/7287107a6471) |
 | Mon, 16 Jun 2025 10:02:28 GMT | Secure Your Hiring: How HR Should Handle Word & PDF Resumes | Saipuneeth Gundamraju | [Read More](https://medium.com/p/3f01dec846d9) |
-| Mon, 16 Jun 2025 10:01:28 GMT | Capture Your Share of Bugs Bunny's Launch Bonus and Enjoy bonus tokens | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/1a4693908c12) |
-| Mon, 16 Jun 2025 09:54:53 GMT | My People. | Jo | [Read More](https://medium.com/p/8ed495a160c3) |
-| Mon, 16 Jun 2025 09:54:12 GMT | When Windows Wounds You: Dissecting the SMB Client Zero‑Day (CVE‑2025‑33073) | cybrNK | [Read More](https://medium.com/p/24833aac38f3) |
-| Mon, 16 Jun 2025 09:52:58 GMT | Perform System Configuration Gap Analysis | Gamuchirai | [Read More](https://medium.com/p/4830554d506b) |
-| Mon, 16 Jun 2025 09:51:56 GMT | Malware in the Code: How Threat Actors Are Weaponizing Open-Source Packages in Multi-Stage Attacks | CyDhaal | [Read More](https://medium.com/p/48bfe76050db) |
-| Mon, 16 Jun 2025 09:50:45 GMT | Claim Your Share of Curvance's Distribution Wave and Enjoy exclusive bonuses | $CVE (Curvance) | [Read More](https://medium.com/p/d0db3291c350) |
-| Mon, 16 Jun 2025 09:49:08 GMT | Remote Access Isn’t Just a Feature, It’s Closure | Antoinesilvester | [Read More](https://medium.com/p/001f378f5166) |
-| Mon, 16 Jun 2025 09:45:15 GMT | Understanding the Key Factors Shaping the Future of IT Leadership | Gauravinsightss | [Read More](https://medium.com/p/288810e77f23) |
