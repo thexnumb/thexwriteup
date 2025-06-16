@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 19:06:22 GMT | Offensive AI: The New Era of Hacking Azure and Beyond | Mister Chriss | [Read More](https://medium.com/p/123051319aef) |
+| Mon, 16 Jun 2025 19:05:15 GMT | Cross-Cloud Agent Ecosystems: How AWS, Azure, and GCP Are Shaping MCP, A2A, and Secure Agent… | Dave Patten | [Read More](https://medium.com/p/088fcc57ee7c) |
+| Mon, 16 Jun 2025 19:03:33 GMT | Why to Choose Cybersecurity as a Career? | Samridhi | [Read More](https://medium.com/p/2241a868fb2c) |
+| Mon, 16 Jun 2025 19:00:40 GMT | Why Managing Risk, Especially Cybersecurity Risk, Is a Moral Imperative | Jenny Feneley | [Read More](https://medium.com/p/e2573c8bac58) |
+| Mon, 16 Jun 2025 19:00:26 GMT | Understanding known_hosts in SSH — Like You're 5 | Imrohitrao | [Read More](https://medium.com/p/d362232685ba) |
+| Mon, 16 Jun 2025 18:57:48 GMT | Man-in-the-Middle Attack - Packets Sniffing - Ettercap | Alibinazam | [Read More](https://medium.com/p/db82502f0227) |
+| Mon, 16 Jun 2025 18:57:10 GMT | Google AI Mode for OSINT | AbhirupKonwar | [Read More](https://medium.com/p/7264ad64a817) |
+| Mon, 16 Jun 2025 18:51:40 GMT | The Evolving Landscape of Virtual Security Operations Centers (vSOCs) in India: Market Dynamics… | vSOCBox.COM | [Read More](https://medium.com/p/834d2ea25688) |
+| Mon, 16 Jun 2025 18:50:31 GMT | How to Secure WordPress on Ubuntu with Nginx (OWASP-Based Security Best Practices) | Muhammad Rafay | [Read More](https://medium.com/p/56963d197c59) |
+| Mon, 16 Jun 2025 18:48:16 GMT | ClickFix and Havoc: How Phishing Commands Hijack Corporate Systems | Nexanet | [Read More](https://medium.com/p/cafbb540132a) |
+| Mon, 16 Jun 2025 18:46:09 GMT | HTTP vs HTTPS: The Hacker’s Perspective | YooZy | [Read More](https://medium.com/p/1cfe3e0a9c7e) |
+| Mon, 16 Jun 2025 18:42:51 GMT | # The Hidden Costs of Skipping Vulnerability Assessments: A 2025 Business Risk Analysis | Mohammad | [Read More](https://medium.com/p/c85c8563411f) |
+| Mon, 16 Jun 2025 18:40:58 GMT | 0x03: Enumeration In GOAD | Aswin Krishna PB | [Read More](https://medium.com/p/295a58725b70) |
+| Mon, 16 Jun 2025 18:39:52 GMT | G’day, Tech Heads! Your Weekly IT Wave Report! | Mohammed Brückner | [Read More](https://medium.com/p/b409103a4740) |
+| Mon, 16 Jun 2025 18:36:54 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 2] | Aditya Bhatt | [Read More](https://medium.com/p/e6f4f9e21584) |
+| Mon, 16 Jun 2025 18:29:13 GMT | The World of Cybersecurity: Protecting the Digital Frontier | Naman Soni | [Read More](https://medium.com/p/b8f9fa9a7f8d) |
+| Mon, 16 Jun 2025 18:28:54 GMT | AI Is Everywhere — But What’s Protecting Us? | Rupesh Kumar | [Read More](https://medium.com/p/7930c056ac95) |
+| Mon, 16 Jun 2025 18:28:20 GMT | Being Vulnerable: The Power They Never Told You About | Milocamilo | [Read More](https://medium.com/p/fe08d5934dc3) |
 | Mon, 16 Jun 2025 18:23:26 GMT | CTF Write-up: Tusk Infostealer (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/3e361895642a) |
 | Mon, 16 Jun 2025 18:18:15 GMT | Generative AI Is on Everyone’s Lips But Few Know How to Use It Safely | Meshulash | [Read More](https://medium.com/p/1a4b1e0e82b6) |
 | Mon, 16 Jun 2025 18:13:44 GMT | Day 1/100: How the Web Works (Before You Hack It) | 0X595 | [Read More](https://medium.com/p/bdaf7b2eca98) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 14:40:47 GMT | What Is Reverse Engineering? Explained: From Concept to Code | amol pawar | [Read More](https://medium.com/p/70f4788d9240) |
 | Mon, 16 Jun 2025 14:37:59 GMT | My Journey: From Curious Beginner to Developer | Shimanta Chakraborty | [Read More](https://medium.com/p/78d7c4267ab1) |
 | Mon, 16 Jun 2025 14:37:08 GMT | Jamf Pro and Mammoth Cyber Enterprise Browser: Securing iOS BYOD Without Compromising Privacy | Mammoth Cyber | [Read More](https://medium.com/p/4de3036a8ba3) |
-| Mon, 16 Jun 2025 14:35:01 GMT | Day 26: The Art (and Science) of Risk: Qualitative vs. Quantitative Analysis | Brittney Ginther | [Read More](https://medium.com/p/48ad6ac36a5f) |
-| Mon, 16 Jun 2025 14:33:01 GMT | Neighbour-TryHackMe: 5 Minute Hacks | Ekabashen | [Read More](https://medium.com/p/6ed247fa7232) |
-| Mon, 16 Jun 2025 14:31:21 GMT | Tusk Infostealer — Threat Intelligence | Tiziano Mass | [Read More](https://medium.com/p/4889b8de0caf) |
-| Mon, 16 Jun 2025 14:29:50 GMT | Part 12: BOLA Detection in Mobile Apps and Single-Page Applications (SPAs) | Narendar Battula (nArEn) | [Read More](https://medium.com/p/69c0843b35b4) |
-| Mon, 16 Jun 2025 14:29:33 GMT | ⚠️ Part 11: Common Misconceptions and Pitfalls When Testing for BOLA | Narendar Battula (nArEn) | [Read More](https://medium.com/p/a83218fbbbcc) |
-| Mon, 16 Jun 2025 14:25:02 GMT | Ahmed Emad Amar: A Libyan Actor and Tech Entrepreneur Bridging Art and National Digital Security. | Ahmed Amar | [Read More](https://medium.com/p/877b3065e55a) |
-| Mon, 16 Jun 2025 14:19:38 GMT | Alien Fruit Flies. | Robert Cormack | [Read More](https://medium.com/p/9ae34d86abb6) |
-| Mon, 16 Jun 2025 14:09:40 GMT | VanHelsing Ransomware: A Deep Dive into a 2025 Cyber Threat | Muhammad Saad Hanif | [Read More](https://medium.com/p/10ac9cb1e03b) |
-| Mon, 16 Jun 2025 14:06:02 GMT | Warzone to Webzone: How Cyber Is Now a Battlefield in Modern Conflict | Cybersecurity Umbrella | [Read More](https://medium.com/p/a01e8eaef6fc) |
-| Mon, 16 Jun 2025 14:04:11 GMT | You may often come across the CVE abbreviation in articles about various vulnerabilities and… | Imane AGOULZI | [Read More](https://medium.com/p/75f4c38a460c) |
-| Mon, 16 Jun 2025 14:01:49 GMT | Choosing the Right Plan on 0xTeabag: Free vs. Enterprise | 0xTeabag | [Read More](https://medium.com/p/d6d65c7bd5f0) |
-| Mon, 16 Jun 2025 14:01:17 GMT | Rooting Kioptrix Level 1: My first Vulnhub Challenge Walkthrough | Bridget | [Read More](https://medium.com/p/abe06e56b5e8) |
-| Mon, 16 Jun 2025 14:00:00 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/b9278454b4c3) |
-| Mon, 16 Jun 2025 13:59:53 GMT | Archetyp Darknet Market Dismantled in Major European–U.S. Operation | Vicki Taylor | [Read More](https://medium.com/p/3bfdb27b0301) |
-| Mon, 16 Jun 2025 13:53:25 GMT | Encrypted Client Hello (ECH) Matters — A Double-Edged Sword | Akanksha | [Read More](https://medium.com/p/aac9049151b2) |
-| Mon, 16 Jun 2025 13:53:07 GMT |  | Federico Rossi | [Read More](https://medium.com/p/b2dcfc39804c) |
-| Mon, 16 Jun 2025 13:44:07 GMT | Why I Never Trust Pre-Installed Packages on Linux or Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/c7da9ab86e13) |
-| Mon, 16 Jun 2025 13:39:35 GMT | You Are The Legend — Madunix, RIP! | Wentz Wu | [Read More](https://medium.com/p/749b3a8e2c67) |
