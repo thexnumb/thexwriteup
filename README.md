@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 19:28:41 GMT | Governing AI Agents with Unity Catalog | AI on Databricks | [Read More](https://medium.com/p/a8c8f2074095) |
+| Mon, 16 Jun 2025 19:20:19 GMT | Cyber world throug my EYES | Abhinav A | [Read More](https://medium.com/p/3998f39f80fe) |
+| Mon, 16 Jun 2025 19:18:04 GMT | What Actually Happened During the Recent Google Cloud Outage | Mrinal Joshi | [Read More](https://medium.com/p/0cb46e1b8f00) |
+| Mon, 16 Jun 2025 19:16:46 GMT | Top 15 Cybersecurity Best Practices for DevOps and Cloud Environments | Code With Hannan | [Read More](https://medium.com/p/9746493fa09f) |
+| Mon, 16 Jun 2025 19:13:41 GMT | Content Security Policies & Finding Useful Errors | Jeremiah Campbell | [Read More](https://medium.com/p/ce6cbb8ded07) |
 | Mon, 16 Jun 2025 19:06:22 GMT | Offensive AI: The New Era of Hacking Azure and Beyond | Mister Chriss | [Read More](https://medium.com/p/123051319aef) |
 | Mon, 16 Jun 2025 19:05:15 GMT | Cross-Cloud Agent Ecosystems: How AWS, Azure, and GCP Are Shaping MCP, A2A, and Secure Agent… | Dave Patten | [Read More](https://medium.com/p/088fcc57ee7c) |
 | Mon, 16 Jun 2025 19:03:33 GMT | Why to Choose Cybersecurity as a Career? | Samridhi | [Read More](https://medium.com/p/2241a868fb2c) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 14:43:55 GMT | Tracing Shared Library Calls Part II: Leviathan 3 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ca4b6143ae1a) |
 | Mon, 16 Jun 2025 14:43:34 GMT | When Dreams Wait and Motherhood Weighs heavy. | Olivia Amarachi Njiribeako | [Read More](https://medium.com/p/e271760cd42d) |
 | Mon, 16 Jun 2025 14:43:24 GMT | Exploring Smart Locks for Front Doors with SwitchBot | Suleymanbaltacifod | [Read More](https://medium.com/p/51164de40943) |
-| Mon, 16 Jun 2025 14:42:43 GMT | Güvenlik Modelleri | Burak Menteşe | [Read More](https://medium.com/p/ab0bc396c344) |
-| Mon, 16 Jun 2025 14:42:00 GMT | Ransomware 101: Everything You Need to Know to Stay Protected | amol pawar | [Read More](https://medium.com/p/9f3cc4ccca0f) |
-| Mon, 16 Jun 2025 14:40:47 GMT | What Is Reverse Engineering? Explained: From Concept to Code | amol pawar | [Read More](https://medium.com/p/70f4788d9240) |
-| Mon, 16 Jun 2025 14:37:59 GMT | My Journey: From Curious Beginner to Developer | Shimanta Chakraborty | [Read More](https://medium.com/p/78d7c4267ab1) |
-| Mon, 16 Jun 2025 14:37:08 GMT | Jamf Pro and Mammoth Cyber Enterprise Browser: Securing iOS BYOD Without Compromising Privacy | Mammoth Cyber | [Read More](https://medium.com/p/4de3036a8ba3) |
