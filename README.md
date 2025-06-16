@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 11:26:05 GMT | Enhancing Cyber Defense with Security Orchestration and Automation (SOAR) | Vinay Jadhav | [Read More](https://medium.com/p/e01dc2a0a303) |
+| Mon, 16 Jun 2025 11:24:06 GMT | Privilege Escalation in AWS via Key Rotation — A Cloudgoat Scenario Walkthrough | Ojasveer Singh Saini | [Read More](https://medium.com/p/42a0db68a430) |
+| Mon, 16 Jun 2025 11:19:14 GMT | What is cybersecurity risk assessment exactly? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8f14064caf59) |
 | Mon, 16 Jun 2025 11:15:47 GMT | They see all of me | Semilore Omoregie | [Read More](https://medium.com/p/dc3079031472) |
 | Mon, 16 Jun 2025 11:11:51 GMT | How I Cracked a Linux Password | Frost | [Read More](https://medium.com/p/fc10795209ed) |
+| Mon, 16 Jun 2025 11:11:10 GMT | Advanced Cyber Threat Intelligence for Protection | DeXpose | [Read More](https://medium.com/p/fedf36e74486) |
+| Mon, 16 Jun 2025 11:11:02 GMT | No More Public URLs: How I Secured My S3 Website with CloudFront and OAC | Paula Louvani | [Read More](https://medium.com/p/a00d4d423013) |
+| Mon, 16 Jun 2025 11:10:38 GMT | How AI Endpoint Security in London Empowers SMBs to Fight Evolving Cyber Threats | Fiora Hart | [Read More](https://medium.com/p/7005d0a6556b) |
 | Mon, 16 Jun 2025 11:07:43 GMT | chaos: Find subdomains easily | loyalonlytoday | [Read More](https://medium.com/p/5742dc6cd24c) |
+| Mon, 16 Jun 2025 11:07:11 GMT | Building a Raspberry Pi Home SOC with the Elastic Stack | One Equals One | [Read More](https://medium.com/p/c66ed50b8e8d) |
+| Mon, 16 Jun 2025 11:06:54 GMT | Securing Kuwait’s Financial Future: Data Center Trust in Every Transaction | Habeeb | [Read More](https://medium.com/p/54e4b87029a7) |
 | Mon, 16 Jun 2025 11:04:49 GMT | The Cybersecurity Landscape: Emerging Trends | CloudSecLab | [Read More](https://medium.com/p/d3f6c9a5931b) |
 | Mon, 16 Jun 2025 11:04:17 GMT | Bug Announces Bonus Rollout: Pocket BUG Today | $BUG (Bug) | [Read More](https://medium.com/p/fe13aa9f92d3) |
 | Mon, 16 Jun 2025 11:03:52 GMT | Asmara-loka, cinta kasih-dunia (alam). | talitha | [Read More](https://medium.com/p/780693e07e14) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 07:09:17 GMT | Activate Windows (legally) for your cybersecurity labs | Guillermo Pineda | [Read More](https://medium.com/p/e344d6e13701) |
 | Mon, 16 Jun 2025 06:57:19 GMT | This Makes Hacking TOO Easy - Flipper Zero | Your Teck | [Read More](https://medium.com/p/f15cd1e149a3) |
 | Mon, 16 Jun 2025 06:45:34 GMT | Think Like a Hacker, Act Like a Team: Rethinking Security Across Departments | Ben Kemp | [Read More](https://medium.com/p/b2cd6b6be1ff) |
-| Mon, 16 Jun 2025 06:42:15 GMT | Using Heuristics to Detect Malicious Pages | Bhuvana Medicherla | [Read More](https://medium.com/p/3e4ea1b24e79) |
-| Mon, 16 Jun 2025 06:41:52 GMT | Data Breaches & SaaS Contracts: Who’s Liable When Things Go Wrong? | Tos Lawyer | [Read More](https://medium.com/p/d75e98bbd2a3) |
-| Mon, 16 Jun 2025 06:41:36 GMT | Love, Shame, & Vulnerability | Chirka Deshi | [Read More](https://medium.com/p/1443eba2ea99) |
-| Mon, 16 Jun 2025 06:40:21 GMT | Can I join cybersecurity after the 12th? | cyber security Updates | [Read More](https://medium.com/p/e4da0bac5083) |
-| Mon, 16 Jun 2025 06:40:01 GMT | Voices in the Crowd: When Consensus Becomes a Cyber Risk | Ben Kemp | [Read More](https://medium.com/p/6159b00a69e4) |
-| Mon, 16 Jun 2025 06:34:22 GMT | With a Fraudulent Claim, the Contestability Period Reigns | Angelica Jimenez | [Read More](https://medium.com/p/19847509636e) |
-| Mon, 16 Jun 2025 06:33:24 GMT | Week 1: Top 5 Regulations and Why They Matter | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/d9b9e9238076) |
-| Mon, 16 Jun 2025 06:28:53 GMT | HUNTR — Bug Bounty Platform for AI/ML | AbhirupKonwar | [Read More](https://medium.com/p/c0e4413a7bec) |
