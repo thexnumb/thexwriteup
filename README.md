@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 15:19:16 GMT | Anti Looter Kit Review: Secure Your Properties In 2025 | Anti-Looter Kit | [Read More](https://medium.com/p/7242b2e0e0f4) |
+| Mon, 16 Jun 2025 15:17:33 GMT | Operation: Linux Agency (TryHackMe) | Chikleet Arora | [Read More](https://medium.com/p/e7070fa946bc) |
+| Mon, 16 Jun 2025 15:16:36 GMT | Generative AI Jailbreaks: Catching Up with the Latest Exploits | Kijo Ninja | [Read More](https://medium.com/p/158df5cd1ea6) |
+| Mon, 16 Jun 2025 15:12:40 GMT | First course out! | Udit | [Read More](https://medium.com/p/d37fb2ad5db6) |
+| Mon, 16 Jun 2025 15:07:16 GMT | Why Most Insurance CIO s Fail at Risk Management | Miguel Edwards | [Read More](https://medium.com/p/b9042eef871e) |
+| Mon, 16 Jun 2025 15:02:43 GMT | Balancing Speed and Quality: The Real Challenge of QA | Higor Mesquita | [Read More](https://medium.com/p/f344d510cf84) |
+| Mon, 16 Jun 2025 15:00:17 GMT | TLS Handshake in Secure Communication: How It Protects Your Data Online | HackerVault | [Read More](https://medium.com/p/61f75a7be495) |
+| Mon, 16 Jun 2025 14:57:43 GMT | « Don’t phish me! | Reconnect | [Read More](https://medium.com/p/0aff491fab7b) |
+| Mon, 16 Jun 2025 14:55:22 GMT | Setup Proxychains — WSL Ubuntu (Debian) | Mainul Hasan | [Read More](https://medium.com/p/cefd429b6914) |
+| Mon, 16 Jun 2025 14:55:21 GMT | Why Biometrics Will Change How We Protect Crypto | Arx Locker | [Read More](https://medium.com/p/c6620a30e724) |
+| Mon, 16 Jun 2025 14:54:14 GMT | WaveScan — A Modular and Smart Web Security Scanner Made in Bash | Percio Castelo Branco | [Read More](https://medium.com/p/c32db8d0997b) |
+| Mon, 16 Jun 2025 14:43:55 GMT | Tracing Shared Library Calls Part II: Leviathan 3 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/ca4b6143ae1a) |
+| Mon, 16 Jun 2025 14:43:34 GMT | When Dreams Wait and Motherhood Weighs heavy. | Olivia Amarachi Njiribeako | [Read More](https://medium.com/p/e271760cd42d) |
+| Mon, 16 Jun 2025 14:43:24 GMT | Exploring Smart Locks for Front Doors with SwitchBot | Suleymanbaltacifod | [Read More](https://medium.com/p/51164de40943) |
+| Mon, 16 Jun 2025 14:42:43 GMT | Güvenlik Modelleri | Burak Menteşe | [Read More](https://medium.com/p/ab0bc396c344) |
+| Mon, 16 Jun 2025 14:42:00 GMT | Ransomware 101: Everything You Need to Know to Stay Protected | amol pawar | [Read More](https://medium.com/p/9f3cc4ccca0f) |
+| Mon, 16 Jun 2025 14:40:47 GMT | What Is Reverse Engineering? Explained: From Concept to Code | amol pawar | [Read More](https://medium.com/p/70f4788d9240) |
 | Mon, 16 Jun 2025 14:37:59 GMT | My Journey: From Curious Beginner to Developer | Shimanta Chakraborty | [Read More](https://medium.com/p/78d7c4267ab1) |
 | Mon, 16 Jun 2025 14:37:08 GMT | Jamf Pro and Mammoth Cyber Enterprise Browser: Securing iOS BYOD Without Compromising Privacy | Mammoth Cyber | [Read More](https://medium.com/p/4de3036a8ba3) |
 | Mon, 16 Jun 2025 14:35:01 GMT | Day 26: The Art (and Science) of Risk: Qualitative vs. Quantitative Analysis | Brittney Ginther | [Read More](https://medium.com/p/48ad6ac36a5f) |
@@ -64,6 +81,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 12:21:40 GMT | NATO defense contractors hit with sophisticated malware campaign. June 16, 2025 | Inforsecpro | [Read More](https://medium.com/p/9c6f5834b2ed) |
 | Mon, 16 Jun 2025 12:20:37 GMT | Meta and Yandex Violating Android Users Privacy | Nitin Garg | [Read More](https://medium.com/p/fc526a6b477e) |
 | Mon, 16 Jun 2025 12:18:15 GMT | Smart Yet Cautious Money Management | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/7354130febca) |
+| Mon, 16 Jun 2025 12:17:49 GMT | Menciptakan SOC Kontemporer dengan Tools Open-Source: Pendekatan yang Terjangkau namun Efektif | Donysetyon | [Read More](https://medium.com/p/06c67b64ef60) |
 | Mon, 16 Jun 2025 12:16:21 GMT | How Much Does a Mobile Security Trailer Cost? [Rental vs Purchase] | IVIS Security | [Read More](https://medium.com/p/aafd28869096) |
 | Mon, 16 Jun 2025 12:15:59 GMT | Next‑Gen MFA: Moving Beyond SMS and OTPs in 2025 | GoTrust Tech | [Read More](https://medium.com/p/e2c652d2c3e6) |
 | Mon, 16 Jun 2025 12:15:08 GMT | Safeguarding Healthcare: Lessons from the 2025 Ocuco Data Breach and Strategies for Resilience | Chetan Seripally | [Read More](https://medium.com/p/9d199a51e64f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 10:46:28 GMT | The Silent Architect of Bonds: How Much of Ourselves Must We Show to Truly Connect? | Antoine Mekhail | [Read More](https://medium.com/p/ef362c6607ab) |
 | Mon, 16 Jun 2025 10:45:35 GMT | AirCrack-ng | Pretty_Knight | [Read More](https://medium.com/p/44217fb9c10c) |
 | Mon, 16 Jun 2025 10:42:04 GMT | How to Verify and Secure ChainBounty $BOUNTY Token Claims Against Scams | $BOUNTY (ChainBounty) | [Read More](https://medium.com/p/b67c78e17fca) |
-| Mon, 16 Jun 2025 10:35:22 GMT | Why Background Checks Are No Longer Optional for HR — They’re a Must | Mariiatata | [Read More](https://medium.com/p/c4bd4463433c) |
-| Mon, 16 Jun 2025 10:35:19 GMT | PCI DSS for Crypto Exchanges: What You Must Know in 2025 | Uday Kumar | [Read More](https://medium.com/p/3da18763c8bf) |
-| Mon, 16 Jun 2025 10:33:45 GMT | Trend Micro Patches Multiple Critical Vulnerabilities in Apex Central and Endpoint Encryption… | Infoziant | [Read More](https://medium.com/p/d744e86bdb80) |
-| Mon, 16 Jun 2025 10:32:37 GMT | 7 Essential Cybersecurity Tools I Wish I’d Learned From Day One (Beginner’s Guide) | Dhanush N | [Read More](https://medium.com/p/a9cc7fe5da98) |
-| Mon, 16 Jun 2025 10:30:54 GMT | Building PhishSOC and Winning at HackIITK 2025 Experience | Aarsh Chaurasia | [Read More](https://medium.com/p/15e9c1cc708c) |
-| Mon, 16 Jun 2025 10:30:07 GMT | How Facebook and Instagram Are Changing in 2025 | Hafizbilaltariq | [Read More](https://medium.com/p/d8267203533c) |
-| Mon, 16 Jun 2025 10:28:18 GMT | Chinese Apps Are Harvesting Deeply Personal U.S. | Karl Buhl | [Read More](https://medium.com/p/21b201d6148e) |
-| Mon, 16 Jun 2025 10:26:17 GMT | Did Iran shoot down three F-35? | Aly | [Read More](https://medium.com/p/7fb8b74c8398) |
-| Mon, 16 Jun 2025 10:23:53 GMT | Why Most PHP Auth Systems Are Just Fancy Session Leaks? | Asian Digital Hub | [Read More](https://medium.com/p/ff6d448fafab) |
-| Mon, 16 Jun 2025 10:22:50 GMT | Seamless Migration Starts with Solid Data Quality Management | Ruhi | [Read More](https://medium.com/p/7b5995d34042) |
-| Mon, 16 Jun 2025 10:22:27 GMT | From Concept to Crypto Empire — The Ultimate Guide to Crypto Exchange Development in 2025 | Adelinageorge | [Read More](https://medium.com/p/32e268d981d8) |
-| Mon, 16 Jun 2025 10:20:15 GMT | Transform with Confidence: PiLog’s Data Quality Management | Ruhi | [Read More](https://medium.com/p/95e8f56f17fb) |
-| Mon, 16 Jun 2025 10:19:47 GMT | How Application Penetration Testing Helps You Stay One Step Ahead of Hackers | SmartCLOUD Australia | [Read More](https://medium.com/p/c4cc437a0ff5) |
-| Mon, 16 Jun 2025 10:19:41 GMT | The $328 Million Question: Building Privacy-Preserving Stablecoins That Actually Work | Serhan Bahar (swb) | [Read More](https://medium.com/p/2346243abce1) |
-| Mon, 16 Jun 2025 10:16:05 GMT | EchoLeak: The First Zero-Click Command Injection Vulnerability in Microsoft 365 Copilot | Surya Teja | [Read More](https://medium.com/p/5a8579bb8f79) |
-| Mon, 16 Jun 2025 10:10:56 GMT | VAPT Service Providers in India | StrongBox IT | [Read More](https://medium.com/p/b95fa8bba8c0) |
-| Mon, 16 Jun 2025 10:06:02 GMT | How IT Helps You Get More Done with Less Staff | CyberSolvings | [Read More](https://medium.com/p/7287107a6471) |
-| Mon, 16 Jun 2025 10:02:28 GMT | Secure Your Hiring: How HR Should Handle Word & PDF Resumes | Saipuneeth Gundamraju | [Read More](https://medium.com/p/3f01dec846d9) |
