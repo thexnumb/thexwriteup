@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 01:35:58 GMT | ODMs and PLAs: The Future of Metrics in Cybersecurity | Juan Pablo Castro | [Read More](https://medium.com/p/77b48e8b1953) |
+| Mon, 16 Jun 2025 01:32:26 GMT | Waldo: Your Self-Hosted GeoIP Toolkit with a UI, REST API, and MCP | Shashank Mayya | [Read More](https://medium.com/p/874f0b6e0bab) |
+| Mon, 16 Jun 2025 01:21:20 GMT | How I Passed the eJPT on My First Try (and What Might Help You Too) | Aria Akbariyeh | [Read More](https://medium.com/p/2302d63cc9a2) |
+| Mon, 16 Jun 2025 01:06:11 GMT | Menyala Kembali WireGuard VPN di Ubuntu Server setelah mati lampu (restart server) Kita secara… | Haldian | [Read More](https://medium.com/p/c48fabe4e121) |
+| Mon, 16 Jun 2025 01:05:57 GMT | Monkey Patching in Python: A Powerful Tool (That You Should Use Cautiously) | Chaitanya V | [Read More](https://medium.com/p/c0e61a4ad059) |
+| Mon, 16 Jun 2025 00:57:40 GMT | How Quitting My Toxic Job Helped Me Stop Impulse Spending and Heal My Relationship with Money | Angie Hawkins | [Read More](https://medium.com/p/d20251a715f4) |
+| Mon, 16 Jun 2025 00:48:05 GMT | Corrigindo o erro “The cable cannot be connected to that port” na aplicação Cisco Packet Tracer. | Lucas Novaes Antonio Filgueiras | [Read More](https://medium.com/p/ac650573a614) |
+| Mon, 16 Jun 2025 00:27:18 GMT | Mastering Wireshark: A Visual Network Forensics Guide | Kallabharath | [Read More](https://medium.com/p/ffd0aa8e5b36) |
+| Mon, 16 Jun 2025 00:23:13 GMT | The Beauty of Slow Burn Relationships in Modern Dating | Lubov Demchuk | [Read More](https://medium.com/p/269dea670653) |
+| Sun, 15 Jun 2025 23:59:43 GMT | Hands-On with Termux —  Storage Setup, File Downloads, and File System Exploration. | Alex Grande | [Read More](https://medium.com/p/fd4f4995df25) |
+| Sun, 15 Jun 2025 23:54:35 GMT | Apache James Server 2.3.2 — Authenticated Remote Code Execution (Exploit-DB 50347) | CyberQuestor | [Read More](https://medium.com/p/779a21ca0ec8) |
+| Sun, 15 Jun 2025 23:50:15 GMT | Hacked Between Sips: The Cyber Slip That Could Happen to Any Teen | Swikritinarang | [Read More](https://medium.com/p/a6895a0c5147) |
 | Sun, 15 Jun 2025 23:27:13 GMT | I’m Back: Why Your Two-Factor Authentication Isn’t Protecting You | Ayas Ismail | [Read More](https://medium.com/p/17c28b2e9d5b) |
 | Sun, 15 Jun 2025 23:23:18 GMT | My HackerOne 30/26 CTFs Process | Gabriel Pires | [Read More](https://medium.com/p/ebb0e47be5df) |
 | Sun, 15 Jun 2025 23:02:41 GMT | CyberDefenders — Oski Lab Walkthrough | Drew Arpino | [Read More](https://medium.com/p/eb22207a4efc) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 15:02:38 GMT | Maximizing Cloud Security with Springfield Cybersecurity Services | PCnet | [Read More](https://medium.com/p/dd46ce6d7f5c) |
 | Sun, 15 Jun 2025 15:01:05 GMT | Introduction to Malware Analysis Course — From Beginner to Pro | S12 - 0x12Dark Development | [Read More](https://medium.com/p/3b6d7696a319) |
 | Sun, 15 Jun 2025 14:59:16 GMT | From Security+ to Securing AI: The Cyber Career Path You Can’t Afford to Ignore | Brian Mora | [Read More](https://medium.com/p/5eba173daec2) |
-| Sun, 15 Jun 2025 14:46:56 GMT | Executive Decision-Making in Crisis Simulation: Forging Resilience Before the Fire | Jeffrey Nickle | [Read More](https://medium.com/p/4bca4c7e99b5) |
-| Sun, 15 Jun 2025 14:37:25 GMT | ECC DAN WEB3 CRYPTOGRAPHY SERTA CARA MENANGGULANGI ANCAMAN NYA | Sandylintang | [Read More](https://medium.com/p/e71eecaad8e0) |
-| Sun, 15 Jun 2025 14:34:14 GMT | Fortifying Your Microservices: A Complete Guide to SQL Injection Prevention | TechWealthBuzz | [Read More](https://medium.com/p/e52e19869302) |
-| Sun, 15 Jun 2025 14:27:56 GMT | Mastering XSS: How I Turned Bugs into  with Real Bug Bounty Finds! | Krish_cyber | [Read More](https://medium.com/p/92a6efc0ef69) |
-| Sun, 15 Jun 2025 14:23:55 GMT | ️‍♂️ The Silent War No One Sees: Why APT Simulation Is Non‑Negotiable | ThreatVector | [Read More](https://medium.com/p/addb75bb41fb) |
-| Sun, 15 Jun 2025 14:21:07 GMT | Memahami Elliptic Curve Cryptography (ECC) dan Keamanan Kriptografi Web3 | NafyCat69 | [Read More](https://medium.com/p/2c685cb58e0d) |
-| Sun, 15 Jun 2025 14:18:51 GMT | The Resonant Mirror: A Call for Global Security Beyond Borders | Luis Daniel Maldonado Fonken | [Read More](https://medium.com/p/36dfe7a3b922) |
-| Sun, 15 Jun 2025 14:11:46 GMT | XML-RPC Open, phpinfo() Public — But They Came to Hire from My College | AIwolfie | [Read More](https://medium.com/p/975acdc04f8c) |
-| Sun, 15 Jun 2025 14:10:50 GMT | TryHackMe Tokyo Ghould — Walkthrough | mauzware | [Read More](https://medium.com/p/f24b96ccfbd5) |
-| Sun, 15 Jun 2025 14:01:44 GMT | A Cyberattack Disrupted Whole Foods’ Supply Chain — Here’s What Happened | Brittney Ginther | [Read More](https://medium.com/p/cd118751f7ef) |
-| Sun, 15 Jun 2025 14:00:09 GMT | When PHP’s readfile() Goes Rogue: Exploiting LFI and SSRF in a SaaS Environment | Avihay Eldad | [Read More](https://medium.com/p/ada2ea1ea6f4) |
-| Sun, 15 Jun 2025 13:57:01 GMT | Setting Up A SOC Homelab with Active Directory and Wazuh | Salman Ahmed | [Read More](https://medium.com/p/af76687b271f) |
