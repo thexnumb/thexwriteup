@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 10:35:22 GMT | Why Background Checks Are No Longer Optional for HR — They’re a Must | Mariiatata | [Read More](https://medium.com/p/c4bd4463433c) |
+| Mon, 16 Jun 2025 10:33:45 GMT | Trend Micro Patches Multiple Critical Vulnerabilities in Apex Central and Endpoint Encryption… | Infoziant | [Read More](https://medium.com/p/d744e86bdb80) |
+| Mon, 16 Jun 2025 10:32:37 GMT | 7 Essential Cybersecurity Tools I Wish I’d Learned From Day One (Beginner’s Guide) | Dhanush N | [Read More](https://medium.com/p/a9cc7fe5da98) |
+| Mon, 16 Jun 2025 10:30:54 GMT | Building PhishSOC and Winning at HackIITK 2025 Experience | Aarsh Chaurasia | [Read More](https://medium.com/p/15e9c1cc708c) |
+| Mon, 16 Jun 2025 10:30:07 GMT | How Facebook and Instagram Are Changing in 2025 | Hafizbilaltariq | [Read More](https://medium.com/p/d8267203533c) |
+| Mon, 16 Jun 2025 10:28:18 GMT | Chinese Apps Are Harvesting Deeply Personal U.S. | Karl Buhl | [Read More](https://medium.com/p/21b201d6148e) |
+| Mon, 16 Jun 2025 10:26:17 GMT | Did Iran shoot down three F-35? | Aly | [Read More](https://medium.com/p/7fb8b74c8398) |
 | Mon, 16 Jun 2025 10:23:53 GMT | Why Most PHP Auth Systems Are Just Fancy Session Leaks? | Asian Digital Hub | [Read More](https://medium.com/p/ff6d448fafab) |
+| Mon, 16 Jun 2025 10:22:50 GMT | Seamless Migration Starts with Solid Data Quality Management | Ruhi | [Read More](https://medium.com/p/7b5995d34042) |
+| Mon, 16 Jun 2025 10:22:27 GMT | From Concept to Crypto Empire — The Ultimate Guide to Crypto Exchange Development in 2025 | Adelinageorge | [Read More](https://medium.com/p/32e268d981d8) |
 | Mon, 16 Jun 2025 10:20:15 GMT | Transform with Confidence: PiLog’s Data Quality Management | Ruhi | [Read More](https://medium.com/p/95e8f56f17fb) |
+| Mon, 16 Jun 2025 10:19:47 GMT | How Application Penetration Testing Helps You Stay One Step Ahead of Hackers | SmartCLOUD Australia | [Read More](https://medium.com/p/c4cc437a0ff5) |
 | Mon, 16 Jun 2025 10:19:41 GMT | The $328 Million Question: Building Privacy-Preserving Stablecoins That Actually Work | Serhan Bahar (swb) | [Read More](https://medium.com/p/2346243abce1) |
 | Mon, 16 Jun 2025 10:16:05 GMT | EchoLeak: The First Zero-Click Command Injection Vulnerability in Microsoft 365 Copilot | Surya Teja | [Read More](https://medium.com/p/5a8579bb8f79) |
 | Mon, 16 Jun 2025 10:10:56 GMT | VAPT Service Providers in India | StrongBox IT | [Read More](https://medium.com/p/b95fa8bba8c0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 05:30:45 GMT | Kali Linux Fundamentals and Basic Operations: A Practical Exercise | Zelvy Fauzan | [Read More](https://medium.com/p/4f32cefe74b4) |
 | Mon, 16 Jun 2025 05:30:40 GMT | Exploring the Future of Smart Locks for Your Front Door with SwitchBot | andrew924046 | [Read More](https://medium.com/p/bc6867b7fccc) |
 | Mon, 16 Jun 2025 05:28:56 GMT | Cyberattacks on Critical Infrastructure: A New Frontline in Geopolitics, Terrorism, and AI Warfare | Sanjeev Rattan | [Read More](https://medium.com/p/568d4db7623e) |
-| Mon, 16 Jun 2025 05:19:24 GMT | Kali Linux Fundamentals and Basic Operations: A Resume | Zelvy Fauzan | [Read More](https://medium.com/p/e527a011af7b) |
-| Mon, 16 Jun 2025 05:16:06 GMT | Advanced Bug Bounty Recon Playbook (2025 Edition) — PART 2 | Bl@ckC!pH3r | [Read More](https://medium.com/p/39faaf2b7fc2) |
-| Mon, 16 Jun 2025 05:09:30 GMT | Linux Fundamentals: A Resume | Zelvy Fauzan | [Read More](https://medium.com/p/7e8a080de0f1) |
-| Mon, 16 Jun 2025 05:03:45 GMT | RST TI Report Digest: 16 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/fccf30fd48a2) |
-| Mon, 16 Jun 2025 05:02:00 GMT | Attack Surface Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/69701cd6d7dc) |
-| Mon, 16 Jun 2025 04:57:10 GMT | Get $BNTY  and Enjoy Instant Crypto Rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/ffd3eb535a4a) |
-| Mon, 16 Jun 2025 04:51:36 GMT | The AI Threat of AI: When Artificial Intelligence Becomes Both Predator and Prey | Rakesh patel | [Read More](https://medium.com/p/b1cbe6b78f7d) |
-| Mon, 16 Jun 2025 04:50:01 GMT | What caused the recent outage on Elon Musk’s social media platform X? | Lamidi Idris Olamide | [Read More](https://medium.com/p/476926976f87) |
-| Mon, 16 Jun 2025 04:46:41 GMT | Exploring the Smart Home Revolution with SwitchBot! | Afqwexvc | [Read More](https://medium.com/p/0359d0b761ea) |
-| Mon, 16 Jun 2025 04:32:41 GMT | How to Run SQLMAP from Anywhere in Windows CMD (Complete Setup Guide) | Zuri | [Read More](https://medium.com/p/eee9d61f6303) |
