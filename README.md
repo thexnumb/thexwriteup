@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 16:17:57 GMT | How I Found A JWT Token Vulnerability that Led to Full Account Takeover | Umanhonlen Gabriel | [Read More](https://medium.com/p/a2b6385b7c5c) |
+| Mon, 16 Jun 2025 16:15:37 GMT | The Middle East on the Brink of Nuclear Catastrophe | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/5172c1797761) |
+| Mon, 16 Jun 2025 16:13:56 GMT | Open Policy Agent on AKS: Securing Clusters with Real-World Policies | Riyaselokar | [Read More](https://medium.com/p/55e4d94343c4) |
+| Mon, 16 Jun 2025 16:11:31 GMT | “Smart? Maybe. Secure? Nope.” — The Dark Side of Cheap IoT Devices | Uladzislau Bayouski | [Read More](https://medium.com/p/c0efc0501a17) |
+| Mon, 16 Jun 2025 16:11:26 GMT | Path Traversal to AWS credentials to S3 — Walkthrough | mauzware | [Read More](https://medium.com/p/5cd6a406fb3c) |
+| Mon, 16 Jun 2025 16:11:11 GMT | Managing OT DMZ Security with Containers | Pieter Geelen | [Read More](https://medium.com/p/fb691450b97b) |
+| Mon, 16 Jun 2025 16:04:44 GMT | Cyberwarfare — Non kinetic Warfare | Kartheek | [Read More](https://medium.com/p/2812f143a85b) |
+| Mon, 16 Jun 2025 16:04:19 GMT | Securing Kubernetes: An OSI Layer-by-Layer Breakdown | Oladele | [Read More](https://medium.com/p/6adf5e165580) |
+| Mon, 16 Jun 2025 15:59:37 GMT | “Create, Engage, Earn: Dive into Roam’s 2025 Community Bounty” | Sigus | [Read More](https://medium.com/p/034bbc0fe494) |
+| Mon, 16 Jun 2025 15:54:49 GMT | HTB — Offshore Prolab Review | x0n1 | [Read More](https://medium.com/p/54147cea7630) |
+| Mon, 16 Jun 2025 15:49:38 GMT | Dark Patterns: The Silent Psychological Warfare Tech Giants Wage Against You | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/249ad36e758e) |
+| Mon, 16 Jun 2025 15:49:15 GMT | Offensive Cyber Countermeasures | Lionello bellucci | [Read More](https://medium.com/p/9f9fab02e470) |
+| Mon, 16 Jun 2025 15:40:41 GMT | “The Silent Price of Freelancing Freedom” | Pavan | [Read More](https://medium.com/p/42ee8ad5be65) |
+| Mon, 16 Jun 2025 15:40:33 GMT | I’m guilty of a points & miles crime | Daily Drop | [Read More](https://medium.com/p/a45e0dafe77e) |
 | Mon, 16 Jun 2025 15:32:40 GMT | Mind the Resilience Gap — Because Attackers Already Are | Milos | [Read More](https://medium.com/p/3f5b6136d7bf) |
+| Mon, 16 Jun 2025 15:30:23 GMT | On Being Strong | Tim Wiesnerer | [Read More](https://medium.com/p/529a34a37360) |
 | Mon, 16 Jun 2025 15:29:02 GMT | What Healing Actually Looks Like |  | [Read More](https://medium.com/p/1d3b6cfdaa7d) |
 | Mon, 16 Jun 2025 15:28:15 GMT | Scaling DevSecOps Across the DoD: Lessons From the Latest SEI Study | Mike Bynum | [Read More](https://medium.com/p/761fd3f0c364) |
 | Mon, 16 Jun 2025 15:27:04 GMT | From Nobody to Noticed: 108 Days to Change My Life with Code, Cybersecurity & Web3 | Fury | [Read More](https://medium.com/p/73532f253374) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 11:51:30 GMT | Preventing Secret Leaks Across All GitHub Repos with Morph in 5 Minutes | Vlad Lezhnin | [Read More](https://medium.com/p/319deb986931) |
 | Mon, 16 Jun 2025 11:32:13 GMT | Was it something I said? If AI prompting is an art, then I’m far from Bob Ross. | Pat Snyder | [Read More](https://medium.com/p/3e9c30b584b5) |
 | Mon, 16 Jun 2025 11:26:05 GMT | Enhancing Cyber Defense with Security Orchestration and Automation (SOAR) | Vinay Jadhav | [Read More](https://medium.com/p/e01dc2a0a303) |
-| Mon, 16 Jun 2025 11:24:06 GMT | Privilege Escalation in AWS via Key Rotation — A Cloudgoat Scenario Walkthrough | Ojasveer Singh Saini | [Read More](https://medium.com/p/42a0db68a430) |
-| Mon, 16 Jun 2025 11:19:14 GMT | What is cybersecurity risk assessment exactly? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8f14064caf59) |
-| Mon, 16 Jun 2025 11:15:47 GMT | They see all of me | Semilore Omoregie | [Read More](https://medium.com/p/dc3079031472) |
-| Mon, 16 Jun 2025 11:11:51 GMT | How I Cracked a Linux Password | Frost | [Read More](https://medium.com/p/fc10795209ed) |
-| Mon, 16 Jun 2025 11:11:10 GMT | Advanced Cyber Threat Intelligence for Protection | DeXpose | [Read More](https://medium.com/p/fedf36e74486) |
-| Mon, 16 Jun 2025 11:11:02 GMT | No More Public URLs: How I Secured My S3 Website with CloudFront and OAC | Paula Louvani | [Read More](https://medium.com/p/a00d4d423013) |
-| Mon, 16 Jun 2025 11:10:38 GMT | How AI Endpoint Security in London Empowers SMBs to Fight Evolving Cyber Threats | Fiora Hart | [Read More](https://medium.com/p/7005d0a6556b) |
-| Mon, 16 Jun 2025 11:07:43 GMT | chaos: Find subdomains easily | loyalonlytoday | [Read More](https://medium.com/p/5742dc6cd24c) |
-| Mon, 16 Jun 2025 11:07:11 GMT | Building a Raspberry Pi Home SOC with the Elastic Stack | One Equals One | [Read More](https://medium.com/p/c66ed50b8e8d) |
-| Mon, 16 Jun 2025 11:06:54 GMT | Securing Kuwait’s Financial Future: Data Center Trust in Every Transaction | Habeeb | [Read More](https://medium.com/p/54e4b87029a7) |
-| Mon, 16 Jun 2025 11:04:49 GMT | The Cybersecurity Landscape: Emerging Trends | CloudSecLab | [Read More](https://medium.com/p/d3f6c9a5931b) |
-| Mon, 16 Jun 2025 11:04:17 GMT | Bug Announces Bonus Rollout: Pocket BUG Today | $BUG (Bug) | [Read More](https://medium.com/p/fe13aa9f92d3) |
-| Mon, 16 Jun 2025 11:03:52 GMT | Asmara-loka, cinta kasih-dunia (alam). | talitha | [Read More](https://medium.com/p/780693e07e14) |
-| Mon, 16 Jun 2025 11:01:43 GMT | Manxel HRMS: Simplifying HR for Modern Businesses | Wasfayounus | [Read More](https://medium.com/p/81ba77993cbb) |
-| Mon, 16 Jun 2025 10:59:05 GMT | Capture Exclusive CVE Through Curvance's Bonus Rollout | $CVE (Curvance) | [Read More](https://medium.com/p/860f9c44f9f1) |
