@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 05:16:06 GMT | Advanced Bug Bounty Recon Playbook (2025 Edition) — PART 2 | Bl@ckC!pH3r | [Read More](https://medium.com/p/39faaf2b7fc2) |
+| Mon, 16 Jun 2025 05:09:30 GMT | Linux Fundamentals: A Resume | Zelvy Fauzan | [Read More](https://medium.com/p/7e8a080de0f1) |
+| Mon, 16 Jun 2025 05:03:45 GMT | RST TI Report Digest: 16 Jun 2025 | RST Cloud | [Read More](https://medium.com/p/fccf30fd48a2) |
+| Mon, 16 Jun 2025 05:02:00 GMT | Attack Surface Management by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/69701cd6d7dc) |
+| Mon, 16 Jun 2025 04:57:10 GMT | Get $BNTY  and Enjoy Instant Crypto Rewards | $BNTY (Bounty) | [Read More](https://medium.com/p/ffd3eb535a4a) |
+| Mon, 16 Jun 2025 04:51:36 GMT | The AI Threat of AI: When Artificial Intelligence Becomes Both Predator and Prey | Rakesh patel | [Read More](https://medium.com/p/b1cbe6b78f7d) |
+| Mon, 16 Jun 2025 04:50:01 GMT | What caused the recent outage on Elon Musk’s social media platform X? | Lamidi Idris Olamide | [Read More](https://medium.com/p/476926976f87) |
+| Mon, 16 Jun 2025 04:46:41 GMT | Exploring the Smart Home Revolution with SwitchBot! | Afqwexvc | [Read More](https://medium.com/p/0359d0b761ea) |
 | Mon, 16 Jun 2025 04:32:41 GMT | How to Run SQLMAP from Anywhere in Windows CMD (Complete Setup Guide) | Zuri | [Read More](https://medium.com/p/eee9d61f6303) |
 | Mon, 16 Jun 2025 04:32:41 GMT | Fiserv Bets Big on Stablecoins — Are We Entering a New Era of Payment Processing? | Akilnath Bodipudi | [Read More](https://medium.com/p/3d425bece966) |
 | Mon, 16 Jun 2025 04:26:10 GMT | Ways to Stop Hacks Through the Back Door: Supply Chain Attack Strategies | Tech Security | [Read More](https://medium.com/p/c51706e57699) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 17:10:16 GMT | “Who Signed This? You Did. With Cosign.” | Shashank N | [Read More](https://medium.com/p/c4bb77d5b431) |
 | Sun, 15 Jun 2025 16:59:53 GMT | Log Snare Write-Up: Hacking Your Way to Another Org’s Admin Panel | ZEROSEC | [Read More](https://medium.com/p/219499da8a1e) |
 | Sun, 15 Jun 2025 16:57:25 GMT | Stop Begging Your Agents to Behave. Build It to Be Secure. | Prasad Vispute | [Read More](https://medium.com/p/1e1af3237065) |
-| Sun, 15 Jun 2025 16:54:33 GMT | Case Study of Designing a Financial Management App Interface for Students Using the Design Thinking… | Irfansetiawan | [Read More](https://medium.com/p/6296b49a624a) |
-| Sun, 15 Jun 2025 16:53:44 GMT | TryHackMe - Supplemental Memory - WriteUp | Axoloth | [Read More](https://medium.com/p/2012ab44892b) |
-| Sun, 15 Jun 2025 16:52:34 GMT | Secure Docker Images With Vulnerability Scanning . | Salilshaikh | [Read More](https://medium.com/p/4edacd5789fd) |
-| Sun, 15 Jun 2025 16:47:33 GMT | Cap HTB Walkthrough: Exploiting IDOR and Linux Capabilities for Root Access | Regan Temudo | [Read More](https://medium.com/p/ac57fee85794) |
-| Sun, 15 Jun 2025 16:43:48 GMT | The Dark Side of Public Cloud Networking | Monika sharma | [Read More](https://medium.com/p/9073a5a2c36a) |
-| Sun, 15 Jun 2025 16:41:20 GMT | Mengenal ECC dan Web3 Cryptography serta Ancaman yang Mengintai | SltnBM | [Read More](https://medium.com/p/2e850828220f) |
-| Sun, 15 Jun 2025 16:39:53 GMT | Shodan Dorks for OSINT, Recon, and Bug Bounty | Bl@ckC!pH3r | [Read More](https://medium.com/p/a01832a0fbce) |
-| Sun, 15 Jun 2025 16:39:19 GMT | How LinkedIn Exposed Millions of Email Addresses via Voyager API | Monika sharma | [Read More](https://medium.com/p/bc09140625b9) |
