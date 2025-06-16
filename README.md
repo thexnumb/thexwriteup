@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 14:19:38 GMT | Alien Fruit Flies. | Robert Cormack | [Read More](https://medium.com/p/9ae34d86abb6) |
+| Mon, 16 Jun 2025 14:09:40 GMT | VanHelsing Ransomware: A Deep Dive into a 2025 Cyber Threat | Muhammad Saad Hanif | [Read More](https://medium.com/p/10ac9cb1e03b) |
+| Mon, 16 Jun 2025 14:06:02 GMT | Warzone to Webzone: How Cyber Is Now a Battlefield in Modern Conflict | Cybersecurity Umbrella | [Read More](https://medium.com/p/a01e8eaef6fc) |
+| Mon, 16 Jun 2025 14:04:11 GMT | You may often come across the CVE abbreviation in articles about various vulnerabilities and… | Imane AGOULZI | [Read More](https://medium.com/p/75f4c38a460c) |
+| Mon, 16 Jun 2025 14:01:49 GMT | Choosing the Right Plan on 0xTeabag: Free vs. Enterprise | 0xTeabag | [Read More](https://medium.com/p/d6d65c7bd5f0) |
+| Mon, 16 Jun 2025 14:01:17 GMT | Rooting Kioptrix Level 1: My first Vulnhub Challenge Walkthrough | Bridget | [Read More](https://medium.com/p/abe06e56b5e8) |
+| Mon, 16 Jun 2025 14:00:00 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/b9278454b4c3) |
+| Mon, 16 Jun 2025 13:59:53 GMT | Archetyp Darknet Market Dismantled in Major European–U.S. Operation | Vicki Taylor | [Read More](https://medium.com/p/3bfdb27b0301) |
+| Mon, 16 Jun 2025 13:53:25 GMT | Encrypted Client Hello (ECH) Matters — A Double-Edged Sword | Akanksha | [Read More](https://medium.com/p/aac9049151b2) |
+| Mon, 16 Jun 2025 13:53:07 GMT |  | Federico Rossi | [Read More](https://medium.com/p/b2dcfc39804c) |
+| Mon, 16 Jun 2025 13:44:07 GMT | Why I Never Trust Pre-Installed Packages on Linux or Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/c7da9ab86e13) |
+| Mon, 16 Jun 2025 13:39:35 GMT | You Are The Legend — Madunix, RIP! | Wentz Wu | [Read More](https://medium.com/p/749b3a8e2c67) |
+| Mon, 16 Jun 2025 13:33:58 GMT | Cyber Briefing: 2025–06–16 | CyberMaterial | [Read More](https://medium.com/p/0378698e7dd4) |
+| Mon, 16 Jun 2025 13:33:20 GMT | Fortifying Your Digital Frontier: Why Partnering with a Cyber Security Company is Non-Negotiable | Prismberrytechnologies | [Read More](https://medium.com/p/d2f847d34709) |
 | Mon, 16 Jun 2025 13:32:18 GMT | IIS Security Hardening | Mehmet Ali Sentürk | [Read More](https://medium.com/p/e13e2690c738) |
 | Mon, 16 Jun 2025 13:24:51 GMT | Robots in Border Security | Presslink Media | [Read More](https://medium.com/p/941a08554fd3) |
 | Mon, 16 Jun 2025 13:22:44 GMT | What I Learned from My First Real-World Tech Internship | Manoj Adhikari | [Read More](https://medium.com/p/ec5bab818c0e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 09:50:45 GMT | Claim Your Share of Curvance's Distribution Wave and Enjoy exclusive bonuses | $CVE (Curvance) | [Read More](https://medium.com/p/d0db3291c350) |
 | Mon, 16 Jun 2025 09:49:08 GMT | Remote Access Isn’t Just a Feature, It’s Closure | Antoinesilvester | [Read More](https://medium.com/p/001f378f5166) |
 | Mon, 16 Jun 2025 09:45:15 GMT | Understanding the Key Factors Shaping the Future of IT Leadership | Gauravinsightss | [Read More](https://medium.com/p/288810e77f23) |
-| Mon, 16 Jun 2025 09:43:12 GMT | i missed the way how u peeled oranges for me | Letters from J | [Read More](https://medium.com/p/a0ef0ca9ad03) |
-| Mon, 16 Jun 2025 09:38:59 GMT | Still Coding for User Roles? Let Your PHP App Infer Access Contextually | Asian Digital Hub | [Read More](https://medium.com/p/91b0ad712078) |
-| Mon, 16 Jun 2025 09:38:38 GMT | Privacy in a Connected World: Navigating Smart Home Security | OKOS - Home Automation | [Read More](https://medium.com/p/0b674c1b20d1) |
-| Mon, 16 Jun 2025 09:37:01 GMT | Trusted Cyber Security Solution Providers | InfutrixTechnologies | [Read More](https://medium.com/p/3ed0ceaf1727) |
-| Mon, 16 Jun 2025 09:36:00 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap [Part-1] | Shubhreet Dhaliwal | [Read More](https://medium.com/p/6d4f537b438e) |
-| Mon, 16 Jun 2025 09:35:11 GMT | Building “Izanami: The Endless Loop” — A CTF Game with Amazon Q | 0xshr00msz | [Read More](https://medium.com/p/08c9b860c0b3) |
-| Mon, 16 Jun 2025 09:22:46 GMT | ⚡️ How I Made EC2 SSH Access Instant with Aliases in PowerShell and Git Bash | JiokeCloudSec | [Read More](https://medium.com/p/5a9ca6eb2704) |
-| Mon, 16 Jun 2025 09:21:30 GMT | CyberChef 101: A Quick Guide to The Most Versatile Cyber Tool | Adam Goss | [Read More](https://medium.com/p/24c83a146e5b) |
-| Mon, 16 Jun 2025 09:11:58 GMT | Avoid Microsoft 365 Lockouts Set Up Break Glass Accounts | Mark O | [Read More](https://medium.com/p/d3093eb0ce29) |
-| Mon, 16 Jun 2025 09:06:07 GMT | IT Audits Made Easy: 5 Steps You Must Know Now | SecureSlate | [Read More](https://medium.com/p/de12b9fa0abe) |
-| Mon, 16 Jun 2025 09:03:13 GMT | SIA Bug Bounty Program: Hunt Bugs, Earn Rewards, and Become a Community Legend! | SIANEXX | [Read More](https://medium.com/p/100b294f4536) |
-| Mon, 16 Jun 2025 09:01:44 GMT | How to Optimise Your GRC Fast | Harry West | [Read More](https://medium.com/p/4e8041e96a31) |
-| Mon, 16 Jun 2025 09:00:43 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap | Pratham Sharma | [Read More](https://medium.com/p/fda4deca601e) |
-| Mon, 16 Jun 2025 08:46:39 GMT | Detecting and Preventing Advanced Threats with AI Security️ | WebClues Infotech | [Read More](https://medium.com/p/753e931f6da2) |
