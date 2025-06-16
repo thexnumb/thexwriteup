@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 03:54:00 GMT | JSFireTruck Unleashed: The Untold Story Behind 269,000 Infections — A Strategic Wake-Up Call for… | Biswajeet Poddar | [Read More](https://medium.com/p/9fc370a14377) |
+| Mon, 16 Jun 2025 03:52:59 GMT | How I Got a Reverse Connection from the RIT Website | Tamilselvan A K | [Read More](https://medium.com/p/275dc41216af) |
+| Mon, 16 Jun 2025 03:43:46 GMT | The Security Risks of Using Online PDF Tools | Moonshrine | [Read More](https://medium.com/p/f8b046682e06) |
+| Mon, 16 Jun 2025 03:39:34 GMT | Why BYOD and Third-Party Access Are the Silent Threats in Hybrid Work — and How Mammoth Cyber… | Mammoth Cyber | [Read More](https://medium.com/p/0b24a4c52ed0) |
+| Mon, 16 Jun 2025 03:32:40 GMT | Why Rapido’s OTP Never Changes — A Backend Developer’s Curious Deep Dive | surya M | [Read More](https://medium.com/p/f0a6042df0c8) |
+| Mon, 16 Jun 2025 03:32:39 GMT | On-Premise AI Code Reviews: Boost Code Quality and Security for Enterprise Teams | Panto AI | [Read More](https://medium.com/p/407d72ab8762) |
 | Mon, 16 Jun 2025 03:17:53 GMT | Methodology အကြောင်းအာချောင်ကွန်တန့် | Eternal Htut :3 | [Read More](https://medium.com/p/c727209ed2e5) |
 | Mon, 16 Jun 2025 02:47:59 GMT | How I found the best LLM Model for my AI PenTesting Framework | Mauricio Giraldo | [Read More](https://medium.com/p/ee5aae0d0103) |
 | Mon, 16 Jun 2025 02:44:12 GMT | Beyond Deepfakes and Ransomware: Is Quantum the Biggest Threat of 2025? | QNu Labs | [Read More](https://medium.com/p/2b573d4f21c7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Jun 2025 16:08:02 GMT | WebStrike Blue Team Lab (CyberDefenders) | ByteSlayer | [Read More](https://medium.com/p/baae354a0eac) |
 | Sun, 15 Jun 2025 16:03:53 GMT | File Name as Payload for Successful Command Injection: Leviathan2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/7620187bb35a) |
 | Sun, 15 Jun 2025 16:03:50 GMT | Why AI Still Sucks at Being Human (And Probably Always Will) | Payaam Raza | [Read More](https://medium.com/p/ad04a380a26d) |
-| Sun, 15 Jun 2025 15:54:14 GMT | Inner Freedom vs. State Security: Rudin’s Cold War Wisdom Revisited | Josephine Schwab | [Read More](https://medium.com/p/a9e7c07b45ba) |
-| Sun, 15 Jun 2025 15:52:58 GMT | What AI Still Can’t Do (And Why Humans Aren’t Replaceable Yet) | Payaam Raza | [Read More](https://medium.com/p/a6977341f1c6) |
-| Sun, 15 Jun 2025 15:46:45 GMT | How to Manage Your Social Media Privacy Like a Pro | Hitesh Said | [Read More](https://medium.com/p/2e4bab37d523) |
-| Sun, 15 Jun 2025 15:45:42 GMT | Proving Grounds Play: Gaara Walkthrough | Ancava | [Read More](https://medium.com/p/b0349573136e) |
-| Sun, 15 Jun 2025 15:39:51 GMT | How I Leaked Data of Cryptocurreny Human Proofing Site. | NnFace | [Read More](https://medium.com/p/a46bf69cf350) |
-| Sun, 15 Jun 2025 15:34:40 GMT | When You’re Most Afraid, Jump | Meli | [Read More](https://medium.com/p/06b7f6315328) |
