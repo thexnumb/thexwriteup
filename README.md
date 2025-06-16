@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 21:10:41 GMT | Still Clicking: Why Phishing Scams Keep Winning in Nigeria (And What You Can Do About It) | O. J. Okpabi | [Read More](https://medium.com/p/81cf83b4f1b5) |
+| Mon, 16 Jun 2025 21:04:19 GMT | Project [REDACTED] | CyberPrincipals | [Read More](https://medium.com/p/e30eab7b3278) |
+| Mon, 16 Jun 2025 21:03:39 GMT | Building a Real-World DevSecOps Pipeline with AI + Flask App Showcase for T2S | Emmanuel | [Read More](https://medium.com/p/3127c6e2645f) |
+| Mon, 16 Jun 2025 20:50:41 GMT | Treasure rollout Secrets: How to Harvest BUGS for top-tier returns | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/24a594c68a93) |
+| Mon, 16 Jun 2025 20:47:36 GMT | Mitigating Risks in Supply Chains | Tyler Wall | [Read More](https://medium.com/p/b6e1a2a04086) |
 | Mon, 16 Jun 2025 20:40:25 GMT | Installing and Using YARA Malware Detector | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c36b6aaf2eec) |
 | Mon, 16 Jun 2025 20:38:20 GMT | Remind Task — Teman Pintar Mahasiswa dalam Mengatur Tugas dan Waktu | Fachrizal P | [Read More](https://medium.com/p/71861e6d8841) |
 | Mon, 16 Jun 2025 20:37:00 GMT | Vishing Story: A Fictional Tale about a Very Real Problem | Herd Security | [Read More](https://medium.com/p/94d40f508a9f) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 16:04:19 GMT | Securing Kubernetes: An OSI Layer-by-Layer Breakdown | Oladele | [Read More](https://medium.com/p/6adf5e165580) |
 | Mon, 16 Jun 2025 15:59:37 GMT | “Create, Engage, Earn: Dive into Roam’s 2025 Community Bounty” | Sigus | [Read More](https://medium.com/p/034bbc0fe494) |
 | Mon, 16 Jun 2025 15:54:49 GMT | HTB — Offshore Prolab Review | x0n1 | [Read More](https://medium.com/p/54147cea7630) |
-| Mon, 16 Jun 2025 15:49:38 GMT | Dark Patterns: The Silent Psychological Warfare Tech Giants Wage Against You | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/249ad36e758e) |
-| Mon, 16 Jun 2025 15:49:15 GMT | Offensive Cyber Countermeasures | Lionello bellucci | [Read More](https://medium.com/p/9f9fab02e470) |
-| Mon, 16 Jun 2025 15:40:41 GMT | “The Silent Price of Freelancing Freedom” | Pavan | [Read More](https://medium.com/p/42ee8ad5be65) |
-| Mon, 16 Jun 2025 15:40:33 GMT | I’m guilty of a points & miles crime | Daily Drop | [Read More](https://medium.com/p/a45e0dafe77e) |
-| Mon, 16 Jun 2025 15:32:40 GMT | Mind the Resilience Gap — Because Attackers Already Are | Milos | [Read More](https://medium.com/p/3f5b6136d7bf) |
