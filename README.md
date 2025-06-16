@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Jun 2025 18:23:26 GMT | CTF Write-up: Tusk Infostealer (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/3e361895642a) |
+| Mon, 16 Jun 2025 18:18:15 GMT | Generative AI Is on Everyone’s Lips But Few Know How to Use It Safely | Meshulash | [Read More](https://medium.com/p/1a4b1e0e82b6) |
+| Mon, 16 Jun 2025 18:13:44 GMT | Day 1/100: How the Web Works (Before You Hack It) | 0X595 | [Read More](https://medium.com/p/bdaf7b2eca98) |
+| Mon, 16 Jun 2025 18:12:24 GMT | Kioptrix #1.1 | Nihad Alizada | [Read More](https://medium.com/p/d040673eb0e3) |
+| Mon, 16 Jun 2025 18:12:22 GMT | From Errors to Exploits: A Manual Dive into SQL Injection (Part 2) | Aaftab A. Kadavaikar | [Read More](https://medium.com/p/a60ca6ee1807) |
+| Mon, 16 Jun 2025 18:08:26 GMT | The Dark Side of Chat Apps: How Hackers Use Telegram & Discord to Control Infected Devices | Subigya Ghimire | [Read More](https://medium.com/p/cf39919da4c3) |
+| Mon, 16 Jun 2025 18:06:09 GMT | One Breach Away: Why Every City Must Take Cybersecurity Seriously — Before It’s Too Late | Ted Rogers | [Read More](https://medium.com/p/086d65df9d8c) |
+| Mon, 16 Jun 2025 18:05:48 GMT | The Modern IT Management Stack: Unified Endpoint, Mobile Device, Remote Monitoring, and Patch… | Lokesh Baskar | [Read More](https://medium.com/p/a8cde3f74bd4) |
+| Mon, 16 Jun 2025 18:05:47 GMT | It Starts From Noise | Ushafa Wuakera | [Read More](https://medium.com/p/01b6e84ebebd) |
+| Mon, 16 Jun 2025 18:02:48 GMT | CROSS SITE REQUEST FORGERY — CSRF | Chandana Priya | [Read More](https://medium.com/p/7c5dec4273d2) |
+| Mon, 16 Jun 2025 17:57:03 GMT | Securing AI Agents: Authentication, Authorization, and Defense | Kuntal | [Read More](https://medium.com/p/d7f64a25aa09) |
+| Mon, 16 Jun 2025 17:52:59 GMT | Apache Benchmark (ab) — Stress-Test Your Web App in Minutes | Nnamdi Clement Azubuike | [Read More](https://medium.com/p/c8790a12111b) |
+| Mon, 16 Jun 2025 17:52:37 GMT | Cyber Security vs. Ethical Hacking: A Beginner’s Guide to Understanding the Differences | Mainekdeveloper | [Read More](https://medium.com/p/669d61b4a50e) |
+| Mon, 16 Jun 2025 17:50:29 GMT | What is crypto analysis and how does it work? | Millennials Mania | [Read More](https://medium.com/p/829f3f4f14fe) |
+| Mon, 16 Jun 2025 17:45:13 GMT | Exactly what is Cyber Security ? | saran | [Read More](https://medium.com/p/8046c2409551) |
 | Mon, 16 Jun 2025 17:35:00 GMT | --Hackertest.net--Walkthrough-- --Level 1–6-- | Mankiran Johar | [Read More](https://medium.com/p/e5c54917e33e) |
 | Mon, 16 Jun 2025 17:32:35 GMT | Texnologiya Nəhəngləri Gizlicə Sizi Necə İzləmiş Ola Bilər? | Hasan Azizov | [Read More](https://medium.com/p/8da3ace43ba4) |
 | Mon, 16 Jun 2025 17:29:44 GMT | A New Era in Advertising: Fully AI-Generated $2,000 Ad Airs During NBA Finals | Tech Thrilled | [Read More](https://medium.com/p/09adb851ef5c) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 13:53:07 GMT |  | Federico Rossi | [Read More](https://medium.com/p/b2dcfc39804c) |
 | Mon, 16 Jun 2025 13:44:07 GMT | Why I Never Trust Pre-Installed Packages on Linux or Ubuntu Servers | Faruk Ahmed | [Read More](https://medium.com/p/c7da9ab86e13) |
 | Mon, 16 Jun 2025 13:39:35 GMT | You Are The Legend — Madunix, RIP! | Wentz Wu | [Read More](https://medium.com/p/749b3a8e2c67) |
-| Mon, 16 Jun 2025 13:33:58 GMT | Cyber Briefing: 2025–06–16 | CyberMaterial | [Read More](https://medium.com/p/0378698e7dd4) |
-| Mon, 16 Jun 2025 13:33:20 GMT | Fortifying Your Digital Frontier: Why Partnering with a Cyber Security Company is Non-Negotiable | Prismberrytechnologies | [Read More](https://medium.com/p/d2f847d34709) |
-| Mon, 16 Jun 2025 13:32:18 GMT | IIS Security Hardening | Mehmet Ali Sentürk | [Read More](https://medium.com/p/e13e2690c738) |
-| Mon, 16 Jun 2025 13:24:51 GMT | Robots in Border Security | Presslink Media | [Read More](https://medium.com/p/941a08554fd3) |
-| Mon, 16 Jun 2025 13:22:44 GMT | What I Learned from My First Real-World Tech Internship | Manoj Adhikari | [Read More](https://medium.com/p/ec5bab818c0e) |
-| Mon, 16 Jun 2025 13:18:47 GMT | The BlackLock Breakdown: Tools, Tactics and the Rivalry that Brought it Down | Loginsoft | [Read More](https://medium.com/p/021c4a520f9a) |
-| Mon, 16 Jun 2025 13:15:34 GMT | Stop Leaking Secrets: Use git-secrets | MouliVeera | [Read More](https://medium.com/p/2f8c00338d2e) |
-| Mon, 16 Jun 2025 13:13:13 GMT | CybElevating Cyber Security Management Services with Siemba’s AI‑Driven CTEM | Siemba | [Read More](https://medium.com/p/e0da39b58039) |
-| Mon, 16 Jun 2025 13:11:39 GMT | Quantum Computer-X: A Real-World Look at the Future of Computing | CodeWithYog | [Read More](https://medium.com/p/a6d5d6daa87e) |
-| Mon, 16 Jun 2025 13:08:57 GMT | Technology refers tp the application of scientific knoledge. | Hussainali | [Read More](https://medium.com/p/91f185c4efbb) |
-| Mon, 16 Jun 2025 13:03:57 GMT | Network Monitoring with Termux: Practical Approaches to Mobile Security | Halildeniz | [Read More](https://medium.com/p/933aa069e9d3) |
-| Mon, 16 Jun 2025 13:02:37 GMT | Hidden Threats: How Malicious Browser Extensions Are Hijacking Your Banking Data | Peris.ai Cybersecurity | [Read More](https://medium.com/p/7c662a8ccbe7) |
-| Mon, 16 Jun 2025 13:02:19 GMT | How I Found 5+ HackerOne Vulnerabilities (Legally) | Ibtissam hammadi | [Read More](https://medium.com/p/65ebb95b9826) |
-| Mon, 16 Jun 2025 13:01:13 GMT | Interchain Labs, Asymmetric Research, and Security Alliance Publish Report on Contained DPRK-Linked… | Interchain | [Read More](https://medium.com/p/0501b0fe585e) |
-| Mon, 16 Jun 2025 12:58:31 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/5e566d78f83f) |
