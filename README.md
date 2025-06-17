@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 22:03:06 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/1b71ac99d486) |
+| Tue, 17 Jun 2025 22:00:12 GMT | Skynet writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/d454d0dd51b6) |
+| Tue, 17 Jun 2025 21:52:19 GMT | No Country For Cyber Novices | O. J. Okpabi | [Read More](https://medium.com/p/4e0476f07595) |
+| Tue, 17 Jun 2025 21:42:00 GMT | The Journey from Manual Checks to Automated Reports | Indranilchakrabortysc | [Read More](https://medium.com/p/386c6b9c0f96) |
+| Tue, 17 Jun 2025 21:41:00 GMT | Hardening Active Directory: A Practical Guide Every IT and Cybersecurity Pro Should Know | Odiomonafe Jamal . A | [Read More](https://medium.com/p/32276f95ea9a) |
+| Tue, 17 Jun 2025 21:38:17 GMT | How I Caught a Trojan Using DNS Traffic in Wireshark | Rima | [Read More](https://medium.com/p/6fd460d00e89) |
 | Tue, 17 Jun 2025 21:37:10 GMT | HackTheBox “Down” Walkthrough - TheHiker | TheHiker | [Read More](https://medium.com/p/189802e3e5b8) |
+| Tue, 17 Jun 2025 21:33:06 GMT | what can I do to recover my money from Ultima Markets ? | Emily Owen | [Read More](https://medium.com/p/0fe78cc6ae9e) |
 | Tue, 17 Jun 2025 21:26:13 GMT | The Security Bot Just Took Action. Without Asking. | Thomas Rauch | [Read More](https://medium.com/p/e23bd2273127) |
 | Tue, 17 Jun 2025 21:25:22 GMT | Digital Sovereignty vs Global Internet Freedom: The Invisible War That Will Shape the 21st Century | A-STAR7_DOCTOR | [Read More](https://medium.com/p/cc76aa1db0d0) |
 | Tue, 17 Jun 2025 21:22:01 GMT | Shifting Security Left Is Not a Checkbox -It’s a Mindset | Ancil Mohammed | [Read More](https://medium.com/p/e83c1ff28566) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 15:48:53 GMT | 10 Things Cybersecurity Experts Should Do in the Evening Instead of Watching Netflix | Vijay Kumar Gupta | [Read More](https://medium.com/p/f61ff0b32b67) |
 | Tue, 17 Jun 2025 15:46:08 GMT | Pwning DC-2 | Calvaryhasarrived | [Read More](https://medium.com/p/35a86e747fc7) |
 | Tue, 17 Jun 2025 15:46:00 GMT | TwoMillion HTB writeup | Prabhat Kumar Thakur | [Read More](https://medium.com/p/6ef68d28e738) |
-| Tue, 17 Jun 2025 15:39:15 GMT | Choosing the Right Zero Trust Vendor: What to Know Before You Commit | SafeAeon Inc. | [Read More](https://medium.com/p/1beee34ad7bb) |
-| Tue, 17 Jun 2025 15:37:56 GMT | < Hello_Anbu_Black_Ops /> | AnbuBlackOps | [Read More](https://medium.com/p/b96fd9b523d5) |
-| Tue, 17 Jun 2025 15:33:19 GMT | Responsible Disclosure: Exposed Credentials in goverment site | Dharanis | [Read More](https://medium.com/p/61245f1c29f4) |
-| Tue, 17 Jun 2025 15:31:53 GMT | Healthcare Security Robotics | Presslink Media | [Read More](https://medium.com/p/b6286de4bc05) |
-| Tue, 17 Jun 2025 15:31:38 GMT | Building a Responsible AI Pipeline: Your Starter Kit with Open Source Tools | Roberto Nava | [Read More](https://medium.com/p/a4f2eea8b29a) |
-| Tue, 17 Jun 2025 15:31:22 GMT | A Funny Encounter with Security: No Man’s Land | Jeanclaude | [Read More](https://medium.com/p/a6c43af44ca1) |
-| Tue, 17 Jun 2025 15:30:13 GMT | SOC Analysis of Event 189: SOC227 — For this investigation, I focused on another alert marked as… | Ray Maiden | [Read More](https://medium.com/p/a93fcddfd0e7) |
