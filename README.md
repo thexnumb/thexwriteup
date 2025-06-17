@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 09:17:43 GMT | ️ Hire a Security Guard in Delhi: Protect Your Business with Professionals | Sumintra | [Read More](https://medium.com/p/b5620b1d7dbf) |
+| Tue, 17 Jun 2025 09:03:16 GMT | Cyber Security Training Institute in Kochi — Learn with Industry Experts at Techmindz | Krishcochin | [Read More](https://medium.com/p/1f3a17dc30b1) |
+| Tue, 17 Jun 2025 09:03:03 GMT | Critical Apache Tomcat Vulnerabilities Disclosed: Millions of Servers at Risk | Infoziant | [Read More](https://medium.com/p/045b90c2ec17) |
+| Tue, 17 Jun 2025 09:01:08 GMT | Web Application Security: A Comprehensive Breakdown of Common Vulnerabilities and Mitigation | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/568d576a637d) |
+| Tue, 17 Jun 2025 09:01:08 GMT | How to Measure GRC Success Right | Harry West | [Read More](https://medium.com/p/a6efa3c153d7) |
+| Tue, 17 Jun 2025 09:00:45 GMT | Why Cybersecurity Is the Backbone of Quality Management in 2025 | Harsha Bussiness | [Read More](https://medium.com/p/5adda2e6c7cf) |
+| Tue, 17 Jun 2025 08:57:52 GMT | CCSP Certification: Cloud Security Evolution 2025 | Boris Gigovic | [Read More](https://medium.com/p/1c44cfc8daed) |
+| Tue, 17 Jun 2025 08:57:05 GMT | Hack Like a Pro: The Ultimate Hacker’s Reading List (2025 Edition) | Aren Redd | [Read More](https://medium.com/p/4eebef14b261) |
+| Tue, 17 Jun 2025 08:52:08 GMT | Defamation and the Indian Constitution: Between Dignity, Dissent, and Democratic Tension | Prabhat Dwivedi | [Read More](https://medium.com/p/897d9465a293) |
+| Tue, 17 Jun 2025 08:50:37 GMT | Insecure Deserialization in Symfony: A Real Threat | Pentest_Testing_Corp | [Read More](https://medium.com/p/b867df4b66ab) |
+| Tue, 17 Jun 2025 08:49:33 GMT | Why Cyber Security Awareness Training is a Must-Have for Modern Businesses | watchur6 | [Read More](https://medium.com/p/0ce0d52873ac) |
+| Tue, 17 Jun 2025 08:44:13 GMT | Stop Chasing Alerts, Start Spotting Anomalies: The SOC Guide to UEBA and Advanced Threat Detection | Saikat Paul | [Read More](https://medium.com/p/640bffef9d0b) |
 | Tue, 17 Jun 2025 08:39:43 GMT | Top Mistakes When Hiring Thane Security Agencies | united guard | [Read More](https://medium.com/p/a5c1773503f7) |
 | Tue, 17 Jun 2025 08:36:26 GMT | How Indonesian Businesses Are Saving Millions Through Smart Fleet Technology | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/faa18ed8c73b) |
 | Tue, 17 Jun 2025 08:35:20 GMT | Bicep Snapshot ✨ | Brian Veldman | [Read More](https://medium.com/p/478c7329328e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 03:56:21 GMT | Network Forensics Blog: Packet-Level Investigation of Emotet and TrickBot PCAP using Wireshark and… | Manmeet Singh | [Read More](https://medium.com/p/c8eb99a9a1a0) |
 | Tue, 17 Jun 2025 03:49:23 GMT | How to Set Up GitHub Login in SafeLine | Quella | [Read More](https://medium.com/p/10d53577bc12) |
 | Tue, 17 Jun 2025 03:46:12 GMT | CyberDefenders Endpoint Forensics -SpottedInTheWild Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/447153f619c1) |
-| Tue, 17 Jun 2025 03:42:49 GMT | How I Discovered Mirai’s Botnet Hygiene: A Look Inside Process Killing in IoT Malware | Abhinav pandey | [Read More](https://medium.com/p/27742a6317fd) |
-| Tue, 17 Jun 2025 03:42:39 GMT | CYBER HEROES-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/496ed006ae92) |
-| Tue, 17 Jun 2025 03:42:36 GMT | API Rate Limiting: Advanced Techniques to Prevent DDoS Attacks | Rizqi Mulki | [Read More](https://medium.com/p/adcdcc72a5b6) |
-| Tue, 17 Jun 2025 03:42:09 GMT | Memory Forensics Investigation using FTK imager, Autopsy and Volatility | Manmeet Singh | [Read More](https://medium.com/p/39772c4dc7d9) |
-| Tue, 17 Jun 2025 03:40:57 GMT | HoloXit on Smart Pole — A Comprehensive Security and Surveillance Solution for Remote Coastal and… | HoloXit | [Read More](https://medium.com/p/e0c3ade720d1) |
-| Tue, 17 Jun 2025 03:39:34 GMT | Fact Check: No, Israel’s Missile Wasn’t Hacked by the Syrian Electronic Army | FrostFoe | [Read More](https://medium.com/p/ceaf9ea5b1a9) |
-| Tue, 17 Jun 2025 03:34:51 GMT | 7 WAYS HACKERS TRICK YOUR EMPLOYEES (AND HOW TO STOP THEM) | handev.code | [Read More](https://medium.com/p/40cbdf81ae48) |
-| Tue, 17 Jun 2025 03:34:16 GMT | HoloXit at the Smart Pole — Modernizing Oil Palm Plantation Security and Operations in Sumatra and… | HoloXit | [Read More](https://medium.com/p/440a30007b87) |
-| Tue, 17 Jun 2025 03:31:35 GMT | Setting Up SQL Server — Creating and Restoring ARCOS Databases | Amrit Sinha | [Read More](https://medium.com/p/36cfd737ab99) |
-| Tue, 17 Jun 2025 03:31:34 GMT | AkiraBot: The AI-Powered Spam Bot That Outsmarted 80,000+ Websites | Deven Chhajed | [Read More](https://medium.com/p/8b417729233b) |
-| Tue, 17 Jun 2025 03:28:16 GMT | “Zero trust” architecture is the norm in enterprise security | Radiant Living Tips | [Read More](https://medium.com/p/2e46d628e678) |
-| Tue, 17 Jun 2025 03:09:22 GMT | Comprehensive Overview of Common Web Application Vulnerabilities | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/821c078989f4) |
