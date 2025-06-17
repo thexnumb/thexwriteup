@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 11:32:18 GMT | 5 AI Agents. 1 Week. All Built By a Cross-Functional Security Team | David Usher | [Read More](https://medium.com/p/2e6745c057ee) |
+| Tue, 17 Jun 2025 11:30:02 GMT | Top Security Companies That Keep the Internet Safe | Kambetastephano | [Read More](https://medium.com/p/7b60a76a32e1) |
+| Tue, 17 Jun 2025 11:27:52 GMT | Top Security, Housekeeping & Facility Management Services in Hyderabad - BSFMS | Be Secure Facility Management Services | [Read More](https://medium.com/p/dea2993050ee) |
+| Tue, 17 Jun 2025 11:23:50 GMT | Hack Club Summer of Making 2025: Code, Create & Win Prizes! | omprakash | [Read More](https://medium.com/p/78abca1b76c7) |
+| Tue, 17 Jun 2025 11:22:27 GMT | Streamlining Threat Intelligence Reporting with GenAI: from Theory to Practical Success | Awalin Sopan | [Read More](https://medium.com/p/f9242e4d9870) |
+| Tue, 17 Jun 2025 11:19:23 GMT | First Post: Welcome to The Hacker’s Lens | Rohia Munavar | [Read More](https://medium.com/p/35819a9d44c1) |
+| Tue, 17 Jun 2025 11:17:08 GMT | Geofencing Explained: A QA and Security Take on Location-Based Triggers. | Az.Sk. | [Read More](https://medium.com/p/5c8b14c9edf6) |
 | Tue, 17 Jun 2025 11:16:55 GMT | Stop Thinking Like a Victim: 10 Hacker Tactics Every Security Professional Must Know | Saikat Paul | [Read More](https://medium.com/p/4fcd3e0b2c2d) |
 | Tue, 17 Jun 2025 11:15:23 GMT | Cyber Security for Small Companies: How to Stay Safe Without Big Budgets | Kambetastephano | [Read More](https://medium.com/p/437be0c618e0) |
+| Tue, 17 Jun 2025 11:09:05 GMT | The Little One Who Believed / Part 2: The Moment One Rolled | HerbTouch by Damin | [Read More](https://medium.com/p/266b65b08e86) |
 | Tue, 17 Jun 2025 11:06:31 GMT | Securely Inject Secrets into Angular Environment Files using Azure Key Vault + Classic Azure… | Sunita Rawat | [Read More](https://medium.com/p/3ad2ca17616c) |
 | Tue, 17 Jun 2025 11:01:44 GMT | iOS Swift Secure Auditing: A Comprehensive Guide for 2025 | Manoj Gadamsetty | [Read More](https://medium.com/p/efb289313c2a) |
 | Tue, 17 Jun 2025 10:55:10 GMT | The Expanding Scope of Cybersecurity in the Digital Age | Vishnu | [Read More](https://medium.com/p/2f001c7871ee) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 06:20:33 GMT | DevSecOps and QA: Testing Is Not Just About “Does It Work?” | İlay İnan Ünal | [Read More](https://medium.com/p/ffa1ef50b55a) |
 | Tue, 17 Jun 2025 06:20:18 GMT | DevSecOps ve QA: Test Etmek Sadece “Çalışıyor mu?” Sorusu Değildir | İlay İnan Ünal | [Read More](https://medium.com/p/76820747a499) |
 | Tue, 17 Jun 2025 06:18:47 GMT | Modular Terraform Architecture: Environments, Remote State & Beyond | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4ec294dc1f61) |
-| Tue, 17 Jun 2025 06:17:33 GMT | Terraform Commands | Ramkrushna Maheshwar | [Read More](https://medium.com/p/76c4622aceea) |
-| Tue, 17 Jun 2025 06:16:08 GMT | Terraform Basics | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4239f9bef563) |
-| Tue, 17 Jun 2025 06:12:27 GMT | The Growing Cybersecurity Insurance Market | Shunham Choudhry | [Read More](https://medium.com/p/de75d9900a55) |
-| Tue, 17 Jun 2025 06:11:49 GMT | gRPC FOFA Dork Recon for Pentest | AbhirupKonwar | [Read More](https://medium.com/p/cd69b127a326) |
-| Tue, 17 Jun 2025 06:10:13 GMT | The future internet with Quantum Computing | Dr. Ch. Jayanth Babu | [Read More](https://medium.com/p/fa59c216e13b) |
-| Tue, 17 Jun 2025 06:10:01 GMT | The Digital Pulse: Recent IT Advancements Shaping Our World | bikash Gochhayat | [Read More](https://medium.com/p/43e0afdf5427) |
-| Tue, 17 Jun 2025 06:05:00 GMT | Aviation Cybersecurity: What Every Aircraft Owner Should Know in 2025 | Yash Shah | [Read More](https://medium.com/p/d3733f112866) |
-| Tue, 17 Jun 2025 06:02:22 GMT | We Don’t Need More Cybersecurity Experts. We Need Better Ones. | Sarthak Agrawal | [Read More](https://medium.com/p/db6c5bb44356) |
