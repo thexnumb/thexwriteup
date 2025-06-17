@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 15:33:19 GMT | Responsible Disclosure: Exposed Credentials in goverment site | Dharanis | [Read More](https://medium.com/p/61245f1c29f4) |
+| Tue, 17 Jun 2025 15:31:38 GMT | Building a Responsible AI Pipeline: Your Starter Kit with Open Source Tools | Roberto Nava | [Read More](https://medium.com/p/a4f2eea8b29a) |
+| Tue, 17 Jun 2025 15:31:22 GMT | A Funny Encounter with Security: No Man’s Land | Jeanclaude | [Read More](https://medium.com/p/a6c43af44ca1) |
+| Tue, 17 Jun 2025 15:30:13 GMT | SOC Analysis of Event 189: SOC227 — For this investigation, I focused on another alert marked as… | Ray Maiden | [Read More](https://medium.com/p/a93fcddfd0e7) |
+| Tue, 17 Jun 2025 15:29:20 GMT | TryHackMe somesint room | Ahmedelshoura | [Read More](https://medium.com/p/5ed1050e7848) |
+| Tue, 17 Jun 2025 15:29:09 GMT | How to Avoid Tailgating in Cybersecurity: Best Practices to Keep Threats Out | SafeAeon Inc. | [Read More](https://medium.com/p/9de3b959f108) |
+| Tue, 17 Jun 2025 15:26:13 GMT | Best HWID Spoofer 2025 — Undetected HWID Changer for Valorant, Apex, Rust & More | Cheato | [Read More](https://medium.com/p/890b45da5882) |
+| Tue, 17 Jun 2025 15:22:45 GMT | How to Install and Run Ghidra on macOS ARM (Apple Silicon) — Full Guide for Reverse Engineers | Prashant Khatri | [Read More](https://medium.com/p/dfe36ce61990) |
 | Tue, 17 Jun 2025 15:18:09 GMT | Easy Custom Headers For Your Bug Bounty Tooling | t3ngu42 | [Read More](https://medium.com/p/d4620a01e313) |
 | Tue, 17 Jun 2025 15:17:46 GMT | YOUR HOLE CAREER WILL BE FINISHED? YOUR ARE HECKED! | Jacksonjhon | [Read More](https://medium.com/p/6b07563bc0aa) |
 | Tue, 17 Jun 2025 15:17:16 GMT | SIM Swap Saldırıları: Telefon Numaranız Nasıl Bir Siber Silaha Dönüşebilir? | Umut Bulut | [Read More](https://medium.com/p/061054acba8b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 10:49:19 GMT | AI-Powered Cyber Threats & Deepfake Defense: A 2025 Security Guide | Shivam Mathur | [Read More](https://medium.com/p/9f895f1b4014) |
 | Tue, 17 Jun 2025 10:47:42 GMT | From Username to Identity Using OSINT | Aleon akibo | [Read More](https://medium.com/p/82d6b04b7bf1) |
 | Tue, 17 Jun 2025 10:44:14 GMT | Why Leading Brands Choose Briskinfosec for ISO 27001 Compliance in 2025 | Briskinfosec Technology and Consulting Pvt Ltd | [Read More](https://medium.com/p/2f07101bdbe0) |
-| Tue, 17 Jun 2025 10:42:36 GMT | I Just Earned My CCNA | Diogo Neto | [Read More](https://medium.com/p/bc755158e402) |
-| Tue, 17 Jun 2025 10:40:42 GMT | Cyber Security Is the Future — Learn It Now with Osiz Labs | Osiz Labs | [Read More](https://medium.com/p/05722ce32c26) |
-| Tue, 17 Jun 2025 10:31:13 GMT | Learn AWS Lambda by Solving a $1M Security Problem | Akhilesh Mishra | [Read More](https://medium.com/p/2440f82757e3) |
-| Tue, 17 Jun 2025 10:30:04 GMT | Cloud Project 1-Creating a Static Website Using Amazon S3 | Frederick Osei | [Read More](https://medium.com/p/fa435e563d09) |
-| Tue, 17 Jun 2025 10:27:20 GMT | Choose the Best Long-Term Security Agency Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/81335dd54d68) |
-| Tue, 17 Jun 2025 10:23:38 GMT | Configuring a Network and Its Security in a Small Office/Home Office: A Practical Demonstration | Zelvy Fauzan | [Read More](https://medium.com/p/bf4bfcf6e2fa) |
-| Tue, 17 Jun 2025 10:23:27 GMT | “You’re never gonna make it here in Germany” my host mom screamed at me. | Miles Silarde | [Read More](https://medium.com/p/c668c3e0d32b) |
-| Tue, 17 Jun 2025 10:22:42 GMT | HTML Injection: The Overlooked Exploit Every Developer Should Know | Rajat Patel | [Read More](https://medium.com/p/038d80f21e94) |
