@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 11:16:55 GMT | Stop Thinking Like a Victim: 10 Hacker Tactics Every Security Professional Must Know | Saikat Paul | [Read More](https://medium.com/p/4fcd3e0b2c2d) |
+| Tue, 17 Jun 2025 11:15:23 GMT | Cyber Security for Small Companies: How to Stay Safe Without Big Budgets | Kambetastephano | [Read More](https://medium.com/p/437be0c618e0) |
+| Tue, 17 Jun 2025 11:06:31 GMT | Securely Inject Secrets into Angular Environment Files using Azure Key Vault + Classic Azure… | Sunita Rawat | [Read More](https://medium.com/p/3ad2ca17616c) |
+| Tue, 17 Jun 2025 11:01:44 GMT | iOS Swift Secure Auditing: A Comprehensive Guide for 2025 | Manoj Gadamsetty | [Read More](https://medium.com/p/efb289313c2a) |
+| Tue, 17 Jun 2025 10:55:10 GMT | The Expanding Scope of Cybersecurity in the Digital Age | Vishnu | [Read More](https://medium.com/p/2f001c7871ee) |
+| Tue, 17 Jun 2025 10:53:06 GMT | The BIG Auto shift. | Goismo AB | [Read More](https://medium.com/p/7f0fa99df2a6) |
+| Tue, 17 Jun 2025 10:50:35 GMT | Simple XXE Vulnerability POC | ravikiran | [Read More](https://medium.com/p/1880476d3882) |
+| Tue, 17 Jun 2025 10:50:22 GMT | OPENVAS, THE RIGHT WAY ! | lukewago | [Read More](https://medium.com/p/7f80fd1990b3) |
+| Tue, 17 Jun 2025 10:49:19 GMT | AI-Powered Cyber Threats & Deepfake Defense: A 2025 Security Guide | Shivam Mathur | [Read More](https://medium.com/p/9f895f1b4014) |
+| Tue, 17 Jun 2025 10:47:42 GMT | From Username to Identity Using OSINT | Aleon akibo | [Read More](https://medium.com/p/82d6b04b7bf1) |
+| Tue, 17 Jun 2025 10:44:14 GMT | Why Leading Brands Choose Briskinfosec for ISO 27001 Compliance in 2025 | Briskinfosec Technology and Consulting Pvt Ltd | [Read More](https://medium.com/p/2f07101bdbe0) |
 | Tue, 17 Jun 2025 10:42:36 GMT | I Just Earned My CCNA | Diogo Neto | [Read More](https://medium.com/p/bc755158e402) |
 | Tue, 17 Jun 2025 10:40:42 GMT | Cyber Security Is the Future — Learn It Now with Osiz Labs | Osiz Labs | [Read More](https://medium.com/p/05722ce32c26) |
 | Tue, 17 Jun 2025 10:31:13 GMT | Learn AWS Lambda by Solving a $1M Security Problem | Akhilesh Mishra | [Read More](https://medium.com/p/2440f82757e3) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 06:10:01 GMT | The Digital Pulse: Recent IT Advancements Shaping Our World | bikash Gochhayat | [Read More](https://medium.com/p/43e0afdf5427) |
 | Tue, 17 Jun 2025 06:05:00 GMT | Aviation Cybersecurity: What Every Aircraft Owner Should Know in 2025 | Yash Shah | [Read More](https://medium.com/p/d3733f112866) |
 | Tue, 17 Jun 2025 06:02:22 GMT | We Don’t Need More Cybersecurity Experts. We Need Better Ones. | Sarthak Agrawal | [Read More](https://medium.com/p/db6c5bb44356) |
-| Tue, 17 Jun 2025 06:00:41 GMT | Today’s Top Cyber Intelligence Highlights — Jun 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/adf82e99fbfb) |
-| Tue, 17 Jun 2025 05:59:55 GMT | Why Pune Societies Choose Private Security Guards | United Guard Force India | [Read More](https://medium.com/p/6b162e11e187) |
-| Tue, 17 Jun 2025 05:54:59 GMT | An IS Case Analysis of Amazon vs. Shein and Temu: Realigning IT for Platform Advantage | Arden Vale | [Read More](https://medium.com/p/5ad6c81084d9) |
-| Tue, 17 Jun 2025 05:53:50 GMT | Is OSS secure enough? | Sylvain Gibier | [Read More](https://medium.com/p/a6cf77293f3c) |
-| Tue, 17 Jun 2025 05:50:52 GMT | Deploying My FastAPI Service to AWS ECS Fargate: Lessons, Pitfalls, and Breakthroughs | Vallab Karanam | [Read More](https://medium.com/p/434e311d38a9) |
-| Tue, 17 Jun 2025 05:47:42 GMT | Proxy Misconfiguration + SSRF: How I Chained Two Bugs Into Internal Admin Panel Access | Monika sharma | [Read More](https://medium.com/p/cf0e43bf79e4) |
-| Tue, 17 Jun 2025 05:44:53 GMT | “Nothing to Hide, Nothing to Fear” | Alex Einfelt | [Read More](https://medium.com/p/711383afe7cf) |
-| Tue, 17 Jun 2025 05:41:11 GMT | Remote Code Execution in Pentaho Business Server | Monika sharma | [Read More](https://medium.com/p/d5abb6529f73) |
-| Tue, 17 Jun 2025 05:40:37 GMT | Benefits of Penetration Testing: Prevention is Less Costly Than Cure | StrongBox IT | [Read More](https://medium.com/p/54dd2c7035bf) |
-| Tue, 17 Jun 2025 05:37:58 GMT | CTF Day(17) | Ahmed Narmer | [Read More](https://medium.com/p/24ec4fd7a7e5) |
-| Tue, 17 Jun 2025 05:34:22 GMT | Outdoor Asset Protection: Smart Strategies to Secure Your Site | Sukhwinder | [Read More](https://medium.com/p/b274c2423747) |
