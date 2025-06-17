@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 08:39:43 GMT | Top Mistakes When Hiring Thane Security Agencies | united guard | [Read More](https://medium.com/p/a5c1773503f7) |
+| Tue, 17 Jun 2025 08:36:26 GMT | How Indonesian Businesses Are Saving Millions Through Smart Fleet Technology | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/faa18ed8c73b) |
+| Tue, 17 Jun 2025 08:35:20 GMT | Bicep Snapshot ✨ | Brian Veldman | [Read More](https://medium.com/p/478c7329328e) |
+| Tue, 17 Jun 2025 08:32:37 GMT | Bug Bounty: The Harsh Truth (My Story) | Karthikeyan | [Read More](https://medium.com/p/a0858f984344) |
+| Tue, 17 Jun 2025 08:31:54 GMT | Investigating Relay Scams: What’s New in Your Spam? | Rishika Desai | [Read More](https://medium.com/p/ba05259af985) |
+| Tue, 17 Jun 2025 08:28:21 GMT | Become a Certified Cloud Security Engineer: Your Ultimate Guide to EC-Council’s Cloud Security… | Shreyashettyctr | [Read More](https://medium.com/p/877675550e85) |
 | Tue, 17 Jun 2025 08:21:32 GMT | Turn Your Raspberry Pi Pico into a USB Rubber Ducky (5-Minute Setup) | Agape HearTs | [Read More](https://medium.com/p/5767da9432c6) |
+| Tue, 17 Jun 2025 08:18:51 GMT | Sosyal Medya Dolandırıcılıkları: Göz Açıp Kapayıncaya Kadar! | Fatma Öner | [Read More](https://medium.com/p/ebc295ec8af6) |
 | Tue, 17 Jun 2025 08:10:40 GMT | Where Have I Been?! | Richard Atanasov | [Read More](https://medium.com/p/843650f73dbc) |
 | Tue, 17 Jun 2025 08:09:08 GMT | Forbidden but Not Forgotten: How an HTTP 403 Made Me a Superadmin | Iski | [Read More](https://medium.com/p/6f769c4a9952) |
 | Tue, 17 Jun 2025 08:05:05 GMT | The Daily Tech Digest: 17 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ece136392c45) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 03:31:34 GMT | AkiraBot: The AI-Powered Spam Bot That Outsmarted 80,000+ Websites | Deven Chhajed | [Read More](https://medium.com/p/8b417729233b) |
 | Tue, 17 Jun 2025 03:28:16 GMT | “Zero trust” architecture is the norm in enterprise security | Radiant Living Tips | [Read More](https://medium.com/p/2e46d628e678) |
 | Tue, 17 Jun 2025 03:09:22 GMT | Comprehensive Overview of Common Web Application Vulnerabilities | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/821c078989f4) |
-| Tue, 17 Jun 2025 03:05:43 GMT | HTB Sherlock — Loggy (Easy) | shawty | [Read More](https://medium.com/p/ee2bce95a1dc) |
-| Tue, 17 Jun 2025 03:03:25 GMT | Anatomy of an AgentTesla Loader: Deobfuscation, Custom Encryption, and Active Defenses | Pudimcaro | [Read More](https://medium.com/p/dbe8284d9870) |
-| Tue, 17 Jun 2025 02:57:38 GMT | Breaking In — Behind the Exploit (Understanding and executing cyber attacks demonstration) — Part 2 | Kushaniihalapathirana | [Read More](https://medium.com/p/3c55c0c79524) |
-| Tue, 17 Jun 2025 02:39:29 GMT | Quantum & Cybersecurity: When Hackers Stop Using Locks and Start Using Superfast Math Magic | Jai Advani | [Read More](https://medium.com/p/d39a7619940d) |
-| Tue, 17 Jun 2025 02:12:21 GMT | The Cyber Vanguard: Blaise Metreweli and the Strategic Recalibration of MI6 in the Digital Age | CCD-IS | [Read More](https://medium.com/p/e60a8c74a9ec) |
-| Tue, 17 Jun 2025 02:06:08 GMT | DoD Cyber Sentinel One 2025 CTF Write-Up of a Couple Flags | Madan Sharma | [Read More](https://medium.com/p/a668538a32d0) |
-| Tue, 17 Jun 2025 01:52:05 GMT | Implementing Agentic RAG Architecture for Machine Learning Threat Detection | Michael Rico | [Read More](https://medium.com/p/35be7f340ec0) |
