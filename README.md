@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 16:45:10 GMT | Why Backend Engineers Should Care About Prompt Injection Attacks | Pranav Prakash | [Read More](https://medium.com/p/3adbd75f0cc5) |
+| Tue, 17 Jun 2025 16:37:28 GMT | Why Securing Non-Human Identities Should Be a Top Priority in 2025 | TheReviewHive | [Read More](https://medium.com/p/fbe7d09bb08d) |
+| Tue, 17 Jun 2025 16:35:26 GMT | Risk is Everywhere: How Prioritization and the Risk Matrix Help Us Focus on What Matters Most | Brittney Ginther | [Read More](https://medium.com/p/534eac1df3ac) |
+| Tue, 17 Jun 2025 16:29:24 GMT | How I Passed and Became an AWS Certified Cloud Practitioner on My First Try | Abdisamad Yusuf | [Read More](https://medium.com/p/1e1cf9c82861) |
+| Tue, 17 Jun 2025 16:23:11 GMT | How AI Is Making Your Healthcare Smarter, Safer, and Just for You | Payaam Raza | [Read More](https://medium.com/p/b53247eaad03) |
 | Tue, 17 Jun 2025 16:15:21 GMT | From 0.0.0.0/0 to Locked Down | Hiranmayi | [Read More](https://medium.com/p/8596f198b27f) |
 | Tue, 17 Jun 2025 16:14:57 GMT | Towards Measurable Security in Agentic AI | Gauri Sharma | [Read More](https://medium.com/p/2d0cc4147fe8) |
 | Tue, 17 Jun 2025 16:12:27 GMT | TryHackMe’s Blue CTF Writeup/Walkthrough | Benedict Agno | [Read More](https://medium.com/p/c2243d8fe0fc) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 11:54:51 GMT | Why Virtual CISOs Are the Smartest Cybersecurity Move for 2025 | DefenceRabbit | [Read More](https://medium.com/p/e8c66ae099df) |
 | Tue, 17 Jun 2025 11:53:19 GMT | Securing Saudi Arabia’s Digital Transformation: How Dsquare Global is Defending the Kingdom’s… | Dsquare Global Analytics | [Read More](https://medium.com/p/588492f18906) |
 | Tue, 17 Jun 2025 11:45:19 GMT | The Future of International Cyber Treaties: Is a Digital Geneva Convention Possible? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/e3ee60c8163a) |
-| Tue, 17 Jun 2025 11:40:17 GMT | How to Check If a Link Is Safe: A Simple Guide for Everyone | Hassan Khattak | [Read More](https://medium.com/p/3083f442730a) |
-| Tue, 17 Jun 2025 11:32:18 GMT | 5 AI Agents. 1 Week. All Built By a Cross-Functional Security Team | David Usher | [Read More](https://medium.com/p/2e6745c057ee) |
-| Tue, 17 Jun 2025 11:30:02 GMT | Top Security Companies That Keep the Internet Safe | Kambetastephano | [Read More](https://medium.com/p/7b60a76a32e1) |
-| Tue, 17 Jun 2025 11:27:52 GMT | Top Security, Housekeeping & Facility Management Services in Hyderabad - BSFMS | Be Secure Facility Management Services | [Read More](https://medium.com/p/dea2993050ee) |
-| Tue, 17 Jun 2025 11:23:50 GMT | Hack Club Summer of Making 2025: Code, Create & Win Prizes! | omprakash | [Read More](https://medium.com/p/78abca1b76c7) |
