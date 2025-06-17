@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 20:19:48 GMT | I HACKED THE ADMIN WITH A SOCIAL LOGIN | Sumanth Yerranagula | [Read More](https://medium.com/p/5d7f496c51b8) |
+| Tue, 17 Jun 2025 20:04:51 GMT | INTERPOL Takes Down a Infostealers Operation | Matthew.Rosenquist | [Read More](https://medium.com/p/c9633077f1c8) |
+| Tue, 17 Jun 2025 20:04:04 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/3d39d34b02bf) |
+| Tue, 17 Jun 2025 20:00:04 GMT | Kali Linux — Post Update Message about sshd_config file | Bob Malin | [Read More](https://medium.com/p/622943826e3c) |
+| Tue, 17 Jun 2025 19:58:25 GMT | “Do you know the formula for perfect wine? Can you predict the best World Cup team?” ⚽ | M H | [Read More](https://medium.com/p/927b70baf507) |
+| Tue, 17 Jun 2025 19:51:53 GMT | BUY NONE DETECTED COUNTERFEIT BILLS ($,€,£)…CONTACT ME ON WHATSAPP: +351924885536 | Alialsward | [Read More](https://medium.com/p/eb805d12785c) |
+| Tue, 17 Jun 2025 19:49:31 GMT | Think about it: He’s telling his troops to think beyond the command. | M H | [Read More](https://medium.com/p/cf53f82492c7) |
+| Tue, 17 Jun 2025 19:37:05 GMT | My First P1 on VDP program — Subdomain Takeover That Hit Critical | Ousski | [Read More](https://medium.com/p/c043565eb469) |
 | Tue, 17 Jun 2025 19:36:19 GMT | Day 2/100: Networking Concepts | 0X595 | [Read More](https://medium.com/p/2ebf1360ad16) |
 | Tue, 17 Jun 2025 19:34:37 GMT | Cyber Hygiene for the Hustler | O. J. Okpabi | [Read More](https://medium.com/p/68800c2f5783) |
 | Tue, 17 Jun 2025 19:33:13 GMT | Labyrinth Linguist — Step-by-Step Write-Up of an HTB Web Challenge | Saurabh | [Read More](https://medium.com/p/950c89e7460c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 14:40:40 GMT | The First 20 Git Commands I Type in Every New Project (and Why They Matter) | Saikat Paul | [Read More](https://medium.com/p/62e23ff3d9cc) |
 | Tue, 17 Jun 2025 14:40:38 GMT | How to Block Apps on Android and Restrict Internet Access | Eva John | [Read More](https://medium.com/p/48e621f79400) |
 | Tue, 17 Jun 2025 14:38:37 GMT | Your CISO is ignoring the Consumer Agent Threat | Steve Jones | [Read More](https://medium.com/p/0cdad275d78f) |
-| Tue, 17 Jun 2025 14:37:37 GMT | When Zero Becomes Hero: Cracking Ethernaut’s Force Challenge #7 | Martin Pál | [Read More](https://medium.com/p/95522da7770a) |
-| Tue, 17 Jun 2025 14:31:19 GMT | Why I Chose Cybersecurity: Week 1 of My Learning Journey | Anuu | [Read More](https://medium.com/p/336dbe49dee6) |
-| Tue, 17 Jun 2025 14:17:56 GMT | Nikola Vujović ― instrument of the BIA and the Serbian Orthodox Church in Vučić’s strategy to… | Uncensored Reporter | [Read More](https://medium.com/p/a8fe366020f5) |
-| Tue, 17 Jun 2025 14:16:59 GMT | JWT in Interviews: How to Sound Smarter Than You Actually Are | Pudari Madhavi | [Read More](https://medium.com/p/e47674c661cc) |
-| Tue, 17 Jun 2025 14:16:58 GMT | Hacking AWS Beanstalk — Cloudgoat Scenario | Aravind S V | [Read More](https://medium.com/p/4da1fac6a4cf) |
-| Tue, 17 Jun 2025 14:13:38 GMT | Demystifying SIEM: How I Built a Real-Time AI Detection Pipeline in Pure Python | Ahmed Sobhi Ali | [Read More](https://medium.com/p/24ee10974587) |
-| Tue, 17 Jun 2025 14:12:07 GMT | Threat Hunting: Your Digital Neighborhood Watch Against Hidden Adversaries | Aj | [Read More](https://medium.com/p/1e56d029a0b0) |
-| Tue, 17 Jun 2025 14:12:00 GMT | AuthGuardian: My Splunk-Powered Journey into Authentication Log Analysis & Security Monitoring | Yug Shah | [Read More](https://medium.com/p/9564e8dfe47e) |
