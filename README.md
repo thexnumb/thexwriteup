@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 19:08:09 GMT | First | Abster Teknologi Indonesia | [Read More](https://medium.com/p/035ecc618dca) |
+| Tue, 17 Jun 2025 19:06:35 GMT | Beware of the Fake Job Scam: Deep Dive into qubitsinfotechsolution.tech | NIkhil Kumar | [Read More](https://medium.com/p/84057a202409) |
+| Tue, 17 Jun 2025 19:06:02 GMT | How Credential Dumpers Work: Building an LSASS Memory Extractor in C | Moataz Osama | [Read More](https://medium.com/p/9bc00fe978c0) |
+| Tue, 17 Jun 2025 18:37:07 GMT | TryHackMe: Benign — Logs, Lies, and LOLBINs -WalkThrough. | Seshu | [Read More](https://medium.com/p/d63db5db362d) |
+| Tue, 17 Jun 2025 18:36:36 GMT | Beyond Shifting Left: Securing the Full Software Lifecycle | Sophia | [Read More](https://medium.com/p/49d7f6930f2d) |
+| Tue, 17 Jun 2025 18:30:06 GMT | Simulators, REST, and MQTT — My First Real Lessons in IoT Design | Varnith | [Read More](https://medium.com/p/55fd0b2c1550) |
 | Tue, 17 Jun 2025 18:14:24 GMT | Zomato Security Breaches (2015 & 2017): Lessons Learned and Changes Implemented | Haresh Vidja | [Read More](https://medium.com/p/9cf82cbb8577) |
 | Tue, 17 Jun 2025 18:08:57 GMT | TryHackMe One Piece CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/19f7d19d9a2e) |
 | Tue, 17 Jun 2025 17:59:47 GMT | The Part of You That No One Knows | Iqra Arshad | [Read More](https://medium.com/p/33fcdd45c7f1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 13:34:09 GMT | From Error to Solution: A Complete Guide to Installing Screenshot Monitor on Linux (Ubuntu/Pop!_OS) | Luiz Paulo Coutinho | [Read More](https://medium.com/p/69a6a44503e7) |
 | Tue, 17 Jun 2025 13:30:22 GMT | Best AI-powered assistants for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/52d01c95802c) |
 | Tue, 17 Jun 2025 13:29:36 GMT | Finding the Right IT Service Provider: A Smart Business Move | Nexgits | [Read More](https://medium.com/p/e9771801e854) |
-| Tue, 17 Jun 2025 13:28:30 GMT | What Makes EDSPL’s SOC the Nerve Center of 24x7 Cyber Defense? | saurabh cyberinfomines | [Read More](https://medium.com/p/0038f431101e) |
-| Tue, 17 Jun 2025 13:26:59 GMT | Cybersecurity for the Rest of Us: Phishing — It’s Not Just for Grandpa’s Bass Boat | Bryan Zimmerman | [Read More](https://medium.com/p/f408e731ab25) |
-| Tue, 17 Jun 2025 13:25:52 GMT | Hackers Don’t Just Break Code — They Break Human Behavior | David SEHYEON Baek | [Read More](https://medium.com/p/fc88af9baddb) |
-| Tue, 17 Jun 2025 13:24:19 GMT | Three steps to post-quantum cryptography | Thoughtworks | [Read More](https://medium.com/p/8e68e39270f9) |
-| Tue, 17 Jun 2025 13:23:57 GMT | Worst-Case Scenarios of AI Platform Account Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/62c16d09ea0b) |
-| Tue, 17 Jun 2025 13:22:42 GMT | How AI is Transforming Federal Cybersecurity: Proven Use Cases from NR Labs | Michael Fraser | [Read More](https://medium.com/p/52f60657cc96) |
