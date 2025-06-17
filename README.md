@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 07:35:09 GMT | Technavors Security Launches AppSec as a Service: Redefining the Future of Application Security | Technavors Security | [Read More](https://medium.com/p/4cac73307f60) |
+| Tue, 17 Jun 2025 07:28:27 GMT | AI-Driven Cybersecurity: How Robustix Labs Can Help Protect Your Organisation | Seb AGUELE | [Read More](https://medium.com/p/b47161989168) |
+| Tue, 17 Jun 2025 07:27:15 GMT | How to Install OpenCTI on Fedora: A Beginner-Friendly, Step-by-Step Guide | cybrNK | [Read More](https://medium.com/p/3402358b4144) |
+| Tue, 17 Jun 2025 07:27:09 GMT | Knowing the truth | Iharshrajput | [Read More](https://medium.com/p/602e750a8ec3) |
+| Tue, 17 Jun 2025 07:26:14 GMT | AI-Driven FinTech Cybersecurity: Can Your Platform Survive the Next Big Breach in 2025? | Alice Jones | [Read More](https://medium.com/p/e6f890fd9c18) |
+| Tue, 17 Jun 2025 07:19:35 GMT | Understanding Reconnaissance and Vulnerability Scanning in Cybersecurity | Darshan | [Read More](https://medium.com/p/dce5365f1a50) |
 | Tue, 17 Jun 2025 07:07:41 GMT | Essential Elements of a PIPEDA-Compliant Privacy Policy | Tsaaro Consulting | [Read More](https://medium.com/p/738101926fa5) |
 | Tue, 17 Jun 2025 07:06:16 GMT | SIEM & It’s Importance in Security for Organizations | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/a3d41eb5edc8) |
 | Tue, 17 Jun 2025 07:00:01 GMT | ประจำวันอังคารที่ 17 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c922c74d7522) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 01:16:17 GMT | Tuesday Morning Threat Report: June 17, 2025 | Mark Maguire | [Read More](https://medium.com/p/f3418c465a47) |
 | Tue, 17 Jun 2025 01:16:05 GMT | ️ Examples of Top Red Team Tools for 2025 | Ekene Joseph | [Read More](https://medium.com/p/9ba46b3d3da8) |
 | Tue, 17 Jun 2025 00:58:09 GMT | DAST TryHackMe Walkthrough - TryHackMe Writeup - THM | Angie | [Read More](https://medium.com/p/0b5e900f662e) |
-| Tue, 17 Jun 2025 00:06:32 GMT | RedTeamGPT: How AI Is Revolutionizing Offensive Security & Red Team Operations | Ekene Joseph | [Read More](https://medium.com/p/11d7f0167ca6) |
-| Tue, 17 Jun 2025 00:01:36 GMT | Cómo Usar Subfinder para Bug Bounty: Guía Completa con Ejemplos y Tips Avanzados | JPablo13 | [Read More](https://medium.com/p/d9260eeb06a1) |
-| Mon, 16 Jun 2025 23:48:42 GMT | Reflected XSS Exposed: How a Simple Query Parameter Exposed Informatica’s | Monika sharma | [Read More](https://medium.com/p/6d5b495d9fd6) |
-| Mon, 16 Jun 2025 23:48:29 GMT | Fuzzing Hidden HTTP Methods for Admin Access | Monika sharma | [Read More](https://medium.com/p/ff83f3db6083) |
-| Mon, 16 Jun 2025 23:48:23 GMT | ️‍♂️ From Curiosity to Creation: How We Built an OSINT Tool for Real-World Investigations | Vinoth Dayalan | [Read More](https://medium.com/p/4b58a5b911ca) |
-| Mon, 16 Jun 2025 23:45:47 GMT | Stop Storing Secrets Wrong: The Right Way to Encrypt Data in Android | Chamod Lakmal | [Read More](https://medium.com/p/f396e57a2f97) |
