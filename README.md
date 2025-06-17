@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 04:35:56 GMT | Security Is Not Privacy: Why Your Phone Is Designed to Protect Itself, Not You | Charan.S | [Read More](https://medium.com/p/6e218e7981ee) |
+| Tue, 17 Jun 2025 04:32:42 GMT | Part 3: The Secure Handshake — Configuring Oracle Wallets for HTTPS Calls | Rohit Mittel | [Read More](https://medium.com/p/20538bd9f167) |
+| Tue, 17 Jun 2025 04:16:19 GMT | Splunk: Exploring SPL TryHackMe | AsmaaAli | [Read More](https://medium.com/p/f4d2bf274d81) |
+| Tue, 17 Jun 2025 04:13:17 GMT | Recorriendo el “Footprinting Lab — Hard” de HTB | RobertZone | [Read More](https://medium.com/p/a6e156553669) |
+| Tue, 17 Jun 2025 04:10:03 GMT | Low-Code/No-Code Platform Security: Hidden Risks in Visual Development | Rizqi Mulki | [Read More](https://medium.com/p/21d8ceb64ede) |
+| Tue, 17 Jun 2025 04:05:14 GMT | Secure Software Development Lifecycle (SSDLC): 2025 Framework Update | Rizqi Mulki | [Read More](https://medium.com/p/1557d0920a70) |
+| Tue, 17 Jun 2025 03:57:51 GMT | Privacy Issues in Cybersecurity: How Residential Proxies Can Solve Them | Lucas | [Read More](https://medium.com/p/e49513b4ca4b) |
+| Tue, 17 Jun 2025 03:56:59 GMT | Instant $LFI : Your Path to Earning Passive Income | ongbir | [Read More](https://medium.com/p/6948548ccd9e) |
+| Tue, 17 Jun 2025 03:56:21 GMT | Network Forensics Blog: Packet-Level Investigation of Emotet and TrickBot PCAP using Wireshark and… | Manmeet Singh | [Read More](https://medium.com/p/c8eb99a9a1a0) |
 | Tue, 17 Jun 2025 03:49:23 GMT | How to Set Up GitHub Login in SafeLine | Quella | [Read More](https://medium.com/p/10d53577bc12) |
 | Tue, 17 Jun 2025 03:46:12 GMT | CyberDefenders Endpoint Forensics -SpottedInTheWild Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/447153f619c1) |
 | Tue, 17 Jun 2025 03:42:49 GMT | How I Discovered Mirai’s Botnet Hygiene: A Look Inside Process Killing in IoT Malware | Abhinav pandey | [Read More](https://medium.com/p/27742a6317fd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 19:00:40 GMT | Why Managing Risk, Especially Cybersecurity Risk, Is a Moral Imperative | Jenny Feneley | [Read More](https://medium.com/p/e2573c8bac58) |
 | Mon, 16 Jun 2025 19:00:26 GMT | Understanding known_hosts in SSH — Like You're 5 | Imrohitrao | [Read More](https://medium.com/p/d362232685ba) |
 | Mon, 16 Jun 2025 18:57:48 GMT | Man-in-the-Middle Attack - Packets Sniffing - Ettercap | Alibinazam | [Read More](https://medium.com/p/db82502f0227) |
-| Mon, 16 Jun 2025 18:57:10 GMT | Google AI Mode for OSINT | AbhirupKonwar | [Read More](https://medium.com/p/7264ad64a817) |
-| Mon, 16 Jun 2025 18:51:40 GMT | The Evolving Landscape of Virtual Security Operations Centers (vSOCs) in India: Market Dynamics… | vSOCBox.COM | [Read More](https://medium.com/p/834d2ea25688) |
-| Mon, 16 Jun 2025 18:50:31 GMT | How to Secure WordPress on Ubuntu with Nginx (OWASP-Based Security Best Practices) | Muhammad Rafay | [Read More](https://medium.com/p/56963d197c59) |
-| Mon, 16 Jun 2025 18:48:16 GMT | ClickFix and Havoc: How Phishing Commands Hijack Corporate Systems | Nexanet | [Read More](https://medium.com/p/cafbb540132a) |
-| Mon, 16 Jun 2025 18:46:09 GMT | HTTP vs HTTPS: The Hacker’s Perspective | YooZy | [Read More](https://medium.com/p/1cfe3e0a9c7e) |
-| Mon, 16 Jun 2025 18:42:51 GMT | # The Hidden Costs of Skipping Vulnerability Assessments: A 2025 Business Risk Analysis | Mohammad | [Read More](https://medium.com/p/c85c8563411f) |
-| Mon, 16 Jun 2025 18:40:58 GMT | 0x03: Enumeration In GOAD | Aswin Krishna PB | [Read More](https://medium.com/p/295a58725b70) |
-| Mon, 16 Jun 2025 18:39:52 GMT | G’day, Tech Heads! Your Weekly IT Wave Report! | Mohammed Brückner | [Read More](https://medium.com/p/b409103a4740) |
-| Mon, 16 Jun 2025 18:36:54 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 2] | Aditya Bhatt | [Read More](https://medium.com/p/e6f4f9e21584) |
