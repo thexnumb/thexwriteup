@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 21:37:10 GMT | HackTheBox “Down” Walkthrough - TheHiker | TheHiker | [Read More](https://medium.com/p/189802e3e5b8) |
+| Tue, 17 Jun 2025 21:26:13 GMT | The Security Bot Just Took Action. Without Asking. | Thomas Rauch | [Read More](https://medium.com/p/e23bd2273127) |
+| Tue, 17 Jun 2025 21:25:22 GMT | Digital Sovereignty vs Global Internet Freedom: The Invisible War That Will Shape the 21st Century | A-STAR7_DOCTOR | [Read More](https://medium.com/p/cc76aa1db0d0) |
+| Tue, 17 Jun 2025 21:22:01 GMT | Shifting Security Left Is Not a Checkbox -It’s a Mindset | Ancil Mohammed | [Read More](https://medium.com/p/e83c1ff28566) |
+| Tue, 17 Jun 2025 21:21:21 GMT | Styling a Custom File Uploader with Tailwind CSS and Django | Hex Shift | [Read More](https://medium.com/p/783ec92f1d51) |
+| Tue, 17 Jun 2025 21:20:08 GMT | how do I get my money out from ImToken ? | Carin Johnny | [Read More](https://medium.com/p/df082d06fa9e) |
 | Tue, 17 Jun 2025 21:18:35 GMT | 6 Powerful Benefits of Strong Cyber Hygiene: Rebooting Your Online Defense | Techridge Solutions | [Read More](https://medium.com/p/ff2239256dc9) |
+| Tue, 17 Jun 2025 21:17:30 GMT | is it possible to recover my money from ImToken ? | Carin Johnny | [Read More](https://medium.com/p/ce0dcccf0ce0) |
+| Tue, 17 Jun 2025 21:15:03 GMT | RangeForce Lab — Perimeter Compromise Exercise | Hassen Hannachi | [Read More](https://medium.com/p/be78679ddc8e) |
 | Tue, 17 Jun 2025 21:11:32 GMT | Securing Docker Images with Sigstore Cosign | Grigor Khachatryan | [Read More](https://medium.com/p/208a19801b72) |
 | Tue, 17 Jun 2025 21:02:26 GMT | Cybersecurity in the Health Sector: Protecting Our Most Valuable Information | Coderslab | [Read More](https://medium.com/p/b2544d1c90c2) |
 | Tue, 17 Jun 2025 20:48:27 GMT | ActiveState Intelligent Remediation: Gartner Security Insights | ActiveState | [Read More](https://medium.com/p/14ca610a4869) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 15:31:38 GMT | Building a Responsible AI Pipeline: Your Starter Kit with Open Source Tools | Roberto Nava | [Read More](https://medium.com/p/a4f2eea8b29a) |
 | Tue, 17 Jun 2025 15:31:22 GMT | A Funny Encounter with Security: No Man’s Land | Jeanclaude | [Read More](https://medium.com/p/a6c43af44ca1) |
 | Tue, 17 Jun 2025 15:30:13 GMT | SOC Analysis of Event 189: SOC227 — For this investigation, I focused on another alert marked as… | Ray Maiden | [Read More](https://medium.com/p/a93fcddfd0e7) |
-| Tue, 17 Jun 2025 15:29:20 GMT | TryHackMe somesint room | Ahmedelshoura | [Read More](https://medium.com/p/5ed1050e7848) |
-| Tue, 17 Jun 2025 15:29:09 GMT | How to Avoid Tailgating in Cybersecurity: Best Practices to Keep Threats Out | SafeAeon Inc. | [Read More](https://medium.com/p/9de3b959f108) |
-| Tue, 17 Jun 2025 15:26:13 GMT | Best HWID Spoofer 2025 — Undetected HWID Changer for Valorant, Apex, Rust & More | Cheato | [Read More](https://medium.com/p/890b45da5882) |
-| Tue, 17 Jun 2025 15:22:45 GMT | How to Install and Run Ghidra on macOS ARM (Apple Silicon) — Full Guide for Reverse Engineers | Prashant Khatri | [Read More](https://medium.com/p/dfe36ce61990) |
-| Tue, 17 Jun 2025 15:18:09 GMT | Easy Custom Headers For Your Bug Bounty Tooling | t3ngu42 | [Read More](https://medium.com/p/d4620a01e313) |
-| Tue, 17 Jun 2025 15:17:46 GMT | YOUR HOLE CAREER WILL BE FINISHED? YOUR ARE HECKED! | Jacksonjhon | [Read More](https://medium.com/p/6b07563bc0aa) |
-| Tue, 17 Jun 2025 15:17:16 GMT | SIM Swap Saldırıları: Telefon Numaranız Nasıl Bir Siber Silaha Dönüşebilir? | Umut Bulut | [Read More](https://medium.com/p/061054acba8b) |
-| Tue, 17 Jun 2025 15:11:04 GMT | How AI Enhances Open Source Software Compliance for Government | OpenTeams | [Read More](https://medium.com/p/898796ed2cfd) |
