@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 09:37:32 GMT | SHA Hash Generator: What It Is, How It Works & Why It Matters | Scoutnewstuff | [Read More](https://medium.com/p/541a530caedb) |
+| Tue, 17 Jun 2025 09:31:37 GMT | Why 92% of Organisations Have AI Security Blind Spots (And How to Fix Them) | Paul Sherman | [Read More](https://medium.com/p/0540880f0f3a) |
+| Tue, 17 Jun 2025 09:27:19 GMT | Sneaking Past Digital Gates: The Magic of Double URL Encoding | Rahimuddin Alrashel | [Read More](https://medium.com/p/304333342084) |
+| Tue, 17 Jun 2025 09:21:52 GMT | The Little One Who Believed / Part 1: The Fall & The Joining | HerbTouch by Damin | [Read More](https://medium.com/p/68d663893f52) |
+| Tue, 17 Jun 2025 09:21:34 GMT | The Dark Psychology of Social Engineering: How Cybercriminals Trick You into Giving Up Sensitive… | Cyber Timi | [Read More](https://medium.com/p/bcb374d42e4b) |
+| Tue, 17 Jun 2025 09:19:48 GMT | Monitoring Administrative Actions in Microsoft Defender for Endpoint: Ensuring Compliance… | Microsoft Cloud Buzz | [Read More](https://medium.com/p/12c46d314b21) |
+| Tue, 17 Jun 2025 09:18:34 GMT | How In-App Protection Enables Enterprises to Combat Rising Security Risks | Gargiben | [Read More](https://medium.com/p/3948856cea95) |
+| Tue, 17 Jun 2025 09:18:23 GMT | Lost in the Maze: Sitting With the Question, Who Am I? | What I'm Learning | [Read More](https://medium.com/p/4a3725afe93c) |
 | Tue, 17 Jun 2025 09:17:43 GMT | ️ Hire a Security Guard in Delhi: Protect Your Business with Professionals | Sumintra | [Read More](https://medium.com/p/b5620b1d7dbf) |
+| Tue, 17 Jun 2025 09:15:32 GMT | Tracing Shared Library Calls Part III: Leviathan 4–6 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/f083551ee73f) |
 | Tue, 17 Jun 2025 09:03:16 GMT | Cyber Security Training Institute in Kochi — Learn with Industry Experts at Techmindz | Krishcochin | [Read More](https://medium.com/p/1f3a17dc30b1) |
 | Tue, 17 Jun 2025 09:03:03 GMT | Critical Apache Tomcat Vulnerabilities Disclosed: Millions of Servers at Risk | Infoziant | [Read More](https://medium.com/p/045b90c2ec17) |
 | Tue, 17 Jun 2025 09:01:08 GMT | Web Application Security: A Comprehensive Breakdown of Common Vulnerabilities and Mitigation | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/568d576a637d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 04:40:03 GMT | Episode 4 — ShellGPT in Cybersecurity: Your Terminal’s Silent Sentinel | murali pala | [Read More](https://medium.com/p/0d409ab53163) |
 | Tue, 17 Jun 2025 04:35:56 GMT | Security Is Not Privacy: Why Your Phone Is Designed to Protect Itself, Not You | Charan.S | [Read More](https://medium.com/p/6e218e7981ee) |
 | Tue, 17 Jun 2025 04:32:42 GMT | Part 3: The Secure Handshake — Configuring Oracle Wallets for HTTPS Calls | Rohit Mittel | [Read More](https://medium.com/p/20538bd9f167) |
-| Tue, 17 Jun 2025 04:16:19 GMT | Splunk: Exploring SPL TryHackMe | AsmaaAli | [Read More](https://medium.com/p/f4d2bf274d81) |
-| Tue, 17 Jun 2025 04:13:17 GMT | Recorriendo el “Footprinting Lab — Hard” de HTB | RobertZone | [Read More](https://medium.com/p/a6e156553669) |
-| Tue, 17 Jun 2025 04:10:03 GMT | Low-Code/No-Code Platform Security: Hidden Risks in Visual Development | Rizqi Mulki | [Read More](https://medium.com/p/21d8ceb64ede) |
-| Tue, 17 Jun 2025 04:05:14 GMT | Secure Software Development Lifecycle (SSDLC): 2025 Framework Update | Rizqi Mulki | [Read More](https://medium.com/p/1557d0920a70) |
-| Tue, 17 Jun 2025 03:57:51 GMT | Privacy Issues in Cybersecurity: How Residential Proxies Can Solve Them | Lucas | [Read More](https://medium.com/p/e49513b4ca4b) |
-| Tue, 17 Jun 2025 03:56:59 GMT | Instant $LFI : Your Path to Earning Passive Income | ongbir | [Read More](https://medium.com/p/6948548ccd9e) |
-| Tue, 17 Jun 2025 03:56:21 GMT | Network Forensics Blog: Packet-Level Investigation of Emotet and TrickBot PCAP using Wireshark and… | Manmeet Singh | [Read More](https://medium.com/p/c8eb99a9a1a0) |
-| Tue, 17 Jun 2025 03:49:23 GMT | How to Set Up GitHub Login in SafeLine | Quella | [Read More](https://medium.com/p/10d53577bc12) |
-| Tue, 17 Jun 2025 03:46:12 GMT | CyberDefenders Endpoint Forensics -SpottedInTheWild Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/447153f619c1) |
