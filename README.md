@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 08:21:32 GMT | Turn Your Raspberry Pi Pico into a USB Rubber Ducky (5-Minute Setup) | Agape HearTs | [Read More](https://medium.com/p/5767da9432c6) |
+| Tue, 17 Jun 2025 08:10:40 GMT | Where Have I Been?! | Richard Atanasov | [Read More](https://medium.com/p/843650f73dbc) |
+| Tue, 17 Jun 2025 08:09:08 GMT | Forbidden but Not Forgotten: How an HTTP 403 Made Me a Superadmin | Iski | [Read More](https://medium.com/p/6f769c4a9952) |
+| Tue, 17 Jun 2025 08:05:05 GMT | The Daily Tech Digest: 17 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ece136392c45) |
+| Tue, 17 Jun 2025 08:03:18 GMT | Cyber Awareness in 2025: The Skill You Can’t Afford to Ignore | Vaishnavs | [Read More](https://medium.com/p/ece64985bafb) |
+| Tue, 17 Jun 2025 08:02:19 GMT | Locked Down and Leveled Up: Hardening My Home Lab by Creating a Domain Controller with Tiered… | Saikat Paul | [Read More](https://medium.com/p/c63464860e6c) |
+| Tue, 17 Jun 2025 07:59:50 GMT | The Daily Tech Digest: 16 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0579eb000db7) |
+| Tue, 17 Jun 2025 07:52:21 GMT | Why You (Yes, You) Might Need a Blogspot in 2025 | Shimanta Chakraborty | [Read More](https://medium.com/p/780dece70af3) |
+| Tue, 17 Jun 2025 07:51:30 GMT | How to Get Cybersecurity Companies Email List — Your Best Lead Generation Solution | B2B Data Insider | [Read More](https://medium.com/p/d79beb712f04) |
+| Tue, 17 Jun 2025 07:47:35 GMT | What is a Proxy Server? The middleman of the internet | Bridget | [Read More](https://medium.com/p/8757e3136549) |
 | Tue, 17 Jun 2025 07:35:09 GMT | Technavors Security Launches AppSec as a Service: Redefining the Future of Application Security | Technavors Security | [Read More](https://medium.com/p/4cac73307f60) |
 | Tue, 17 Jun 2025 07:28:27 GMT | AI-Driven Cybersecurity: How Robustix Labs Can Help Protect Your Organisation | Seb AGUELE | [Read More](https://medium.com/p/b47161989168) |
 | Tue, 17 Jun 2025 07:27:15 GMT | How to Install OpenCTI on Fedora: A Beginner-Friendly, Step-by-Step Guide | cybrNK | [Read More](https://medium.com/p/3402358b4144) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 02:12:21 GMT | The Cyber Vanguard: Blaise Metreweli and the Strategic Recalibration of MI6 in the Digital Age | CCD-IS | [Read More](https://medium.com/p/e60a8c74a9ec) |
 | Tue, 17 Jun 2025 02:06:08 GMT | DoD Cyber Sentinel One 2025 CTF Write-Up of a Couple Flags | Madan Sharma | [Read More](https://medium.com/p/a668538a32d0) |
 | Tue, 17 Jun 2025 01:52:05 GMT | Implementing Agentic RAG Architecture for Machine Learning Threat Detection | Michael Rico | [Read More](https://medium.com/p/35be7f340ec0) |
-| Tue, 17 Jun 2025 01:46:42 GMT | Why I’m Writing on Medium: Cloud, AI, and Beyond | Saurabh Yadav | [Read More](https://medium.com/p/aa8726f303ee) |
-| Tue, 17 Jun 2025 01:44:34 GMT | WHY DIGITAL SECURITY SYSTEMS FAIL: AN ETHICAL HACKER’S PERSPECTIVE | handev.code | [Read More](https://medium.com/p/a08821df81f1) |
-| Tue, 17 Jun 2025 01:41:15 GMT | Prepared Database Queries: Bind by Position vs Bind by Name | Christopher Jones | [Read More](https://medium.com/p/14999f0ccca2) |
-| Tue, 17 Jun 2025 01:38:43 GMT | TryHackMe: Light — Walkthrough | 4A696E | [Read More](https://medium.com/p/9fbd63bb4099) |
-| Tue, 17 Jun 2025 01:31:13 GMT | c2Pac: Using Named Pipes for C2 Operations | Tom O'Neill | [Read More](https://medium.com/p/956fb2ffdc08) |
-| Tue, 17 Jun 2025 01:18:47 GMT | Why Security Checklists Alone Are Insufficient for the Zero Trust Era | David A. Bray | [Read More](https://medium.com/p/79034ca0792f) |
-| Tue, 17 Jun 2025 01:18:35 GMT | Introduction — Fileless Malware | Kunal Rajour | [Read More](https://medium.com/p/961d00c8ab0c) |
-| Tue, 17 Jun 2025 01:16:17 GMT | Tuesday Morning Threat Report: June 17, 2025 | Mark Maguire | [Read More](https://medium.com/p/f3418c465a47) |
-| Tue, 17 Jun 2025 01:16:05 GMT | ️ Examples of Top Red Team Tools for 2025 | Ekene Joseph | [Read More](https://medium.com/p/9ba46b3d3da8) |
-| Tue, 17 Jun 2025 00:58:09 GMT | DAST TryHackMe Walkthrough - TryHackMe Writeup - THM | Angie | [Read More](https://medium.com/p/0b5e900f662e) |
