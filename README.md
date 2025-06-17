@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 18:14:24 GMT | Zomato Security Breaches (2015 & 2017): Lessons Learned and Changes Implemented | Haresh Vidja | [Read More](https://medium.com/p/9cf82cbb8577) |
+| Tue, 17 Jun 2025 18:08:57 GMT | TryHackMe One Piece CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/19f7d19d9a2e) |
+| Tue, 17 Jun 2025 17:59:47 GMT | The Part of You That No One Knows | Iqra Arshad | [Read More](https://medium.com/p/33fcdd45c7f1) |
+| Tue, 17 Jun 2025 17:59:29 GMT | Cyber security programs for startups in the AI age | Enrique Cano | [Read More](https://medium.com/p/235172e9cc7f) |
+| Tue, 17 Jun 2025 17:57:08 GMT | Alarm Fatigue Management and  Noise Reduction Techniques in SOC Environments | Esra Kayhan | [Read More](https://medium.com/p/4667629ac8eb) |
+| Tue, 17 Jun 2025 17:56:37 GMT | 5 Ways Asset Identification Supports Stronger Cybersecurity Practices | Xaltius | [Read More](https://medium.com/p/4a4a24db3944) |
+| Tue, 17 Jun 2025 17:56:34 GMT | Security Operations Center (SOC): Structure, Roles, and Responsibilities | Mosarof Hossain | [Read More](https://medium.com/p/0ca223dd05d3) |
+| Tue, 17 Jun 2025 17:53:33 GMT | How Gamification Can Transform Cybersecurity Awareness Training | Xaltius | [Read More](https://medium.com/p/1e90c7e62ee2) |
+| Tue, 17 Jun 2025 17:52:20 GMT | # Why I Chose the Name ZeroDayDiva | ZeroDayDiva | [Read More](https://medium.com/p/953105b58a61) |
+| Tue, 17 Jun 2025 17:51:51 GMT | When the ZKJ Token Went on a Crazy Rollercoaster: Liquidity Attacks, Wintermute, and a Massive… | CoinGen | [Read More](https://medium.com/p/4c91700d6f4d) |
+| Tue, 17 Jun 2025 17:51:09 GMT | Day 66: Bash Scripting — Mastering File Permissions & ACLs in Linux | Agarwaldaksh | [Read More](https://medium.com/p/be2010899d27) |
+| Tue, 17 Jun 2025 17:50:26 GMT | Demystifying AI in Cybersecurity | Vasanth Sankar | [Read More](https://medium.com/p/d7e3960b1711) |
+| Tue, 17 Jun 2025 17:50:07 GMT | Detecting Malicious URLs Using LSTM and Google’s BERT Models | Xaltius | [Read More](https://medium.com/p/6a0d7700cc22) |
 | Tue, 17 Jun 2025 17:42:41 GMT | JavaScript, JWTs and the Key That Shouldn’t Exist | Aditya Bhatt | [Read More](https://medium.com/p/d97c01d0ce9e) |
 | Tue, 17 Jun 2025 17:34:08 GMT | Why Smart People Are Secretly Using VPNs (And You Should Too) | Rahulmarcellino | [Read More](https://medium.com/p/5d128eb195d8) |
 | Tue, 17 Jun 2025 17:32:40 GMT | Shadow AI: The Hidden Threat Lurking in Your Organization’s Tech Stack | Piyoosh Rai | [Read More](https://medium.com/p/686923b35aa0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 13:24:19 GMT | Three steps to post-quantum cryptography | Thoughtworks | [Read More](https://medium.com/p/8e68e39270f9) |
 | Tue, 17 Jun 2025 13:23:57 GMT | Worst-Case Scenarios of AI Platform Account Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/62c16d09ea0b) |
 | Tue, 17 Jun 2025 13:22:42 GMT | How AI is Transforming Federal Cybersecurity: Proven Use Cases from NR Labs | Michael Fraser | [Read More](https://medium.com/p/52f60657cc96) |
-| Tue, 17 Jun 2025 13:22:09 GMT | Mastering chattr and lsattr: The Definitive Guide to Linux File Attributes | Ashish Singh | [Read More](https://medium.com/p/34eefb1b32e2) |
-| Tue, 17 Jun 2025 13:21:51 GMT | Chinese, North Korean, and Russian State-Sponsored Cyber Operations | David SEHYEON Baek | [Read More](https://medium.com/p/c6a8c0dcd07a) |
-| Tue, 17 Jun 2025 13:19:02 GMT | Cybersecurity for the Rest of Us: Your Password Sucks (And Mine Used To, Too) | Bryan Zimmerman | [Read More](https://medium.com/p/b3e15158c206) |
-| Tue, 17 Jun 2025 13:15:37 GMT | Still think Iranian ops are all espionage and no cha-ching? | Wes Young | [Read More](https://medium.com/p/2ab7a0cccfe1) |
-| Tue, 17 Jun 2025 13:12:58 GMT | How to Hack Any WAF with Just One cURL Command | Ibtissam hammadi | [Read More](https://medium.com/p/7f91ffa9c942) |
-| Tue, 17 Jun 2025 13:12:36 GMT | Penetration Testing Company | StrongBox IT | [Read More](https://medium.com/p/337f82e4e895) |
-| Tue, 17 Jun 2025 13:07:09 GMT | Beyond the Buzzword: Why Systems Security Engineering Delivers More Than Zero Trust Ever Could | Peter Hillier | [Read More](https://medium.com/p/e60065804d0d) |
-| Tue, 17 Jun 2025 13:04:34 GMT | Spot a Reliable Security Agency in Mumbai Easily | United Guard Force India | [Read More](https://medium.com/p/4416eb2abdb0) |
-| Tue, 17 Jun 2025 13:03:56 GMT | Reconnaissance Using Nmap | Zelvy Fauzan | [Read More](https://medium.com/p/898fb652822c) |
-| Tue, 17 Jun 2025 12:57:43 GMT | IoT Cihazlarında Görünmeyen Tehlike: Bir Güvenlik Testinin Anatomisi | Servet | [Read More](https://medium.com/p/cb5bd30577af) |
-| Tue, 17 Jun 2025 12:47:10 GMT | Archetyp Market — Everything Comes to an End | Vicki Taylor | [Read More](https://medium.com/p/db6b874d2ff7) |
-| Tue, 17 Jun 2025 12:41:01 GMT | Who I Am When No One Is Watching Me | Kakoli Aster♡ | [Read More](https://medium.com/p/a6781f667072) |
-| Tue, 17 Jun 2025 12:39:04 GMT | How I Found an Open Redirect in a Login Endpoint (and Why It Matters) | TakiasSec | [Read More](https://medium.com/p/49afaf7109df) |
