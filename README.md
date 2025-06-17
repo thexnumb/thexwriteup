@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 07:07:41 GMT | Essential Elements of a PIPEDA-Compliant Privacy Policy | Tsaaro Consulting | [Read More](https://medium.com/p/738101926fa5) |
+| Tue, 17 Jun 2025 07:06:16 GMT | SIEM & It’s Importance in Security for Organizations | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/a3d41eb5edc8) |
+| Tue, 17 Jun 2025 07:00:01 GMT | ประจำวันอังคารที่ 17 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c922c74d7522) |
+| Tue, 17 Jun 2025 06:56:07 GMT | AI MEET HACKING — KALI GPT ⚠️ | Vedant Patil | [Read More](https://medium.com/p/0d726e73b733) |
+| Tue, 17 Jun 2025 06:54:35 GMT | How PQCaaS Makes Your HSMs More Secure, Cost Effective, and Lightweight | ExeQuantum | [Read More](https://medium.com/p/f20b598d4d97) |
+| Tue, 17 Jun 2025 06:54:18 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/55d0472ab358) |
+| Tue, 17 Jun 2025 06:50:40 GMT | Level Up in Cybersecurity: Why CCIE Security v6 Might Be the Most Practical Certification You… | Safarisprz01 | [Read More](https://medium.com/p/505ebef3e5f0) |
+| Tue, 17 Jun 2025 06:49:02 GMT | The Workforce Incubator: A Business Model for Learning While Earning in the Age of AI | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/b27431bda3f7) |
+| Tue, 17 Jun 2025 06:43:42 GMT | ️ Why Human Security Guards Are Still the Real MVPs of Modern Security? | Sumintra | [Read More](https://medium.com/p/ac2a6e9c2904) |
+| Tue, 17 Jun 2025 06:42:44 GMT | Cybersecurity Certifications: Which One is Right for You? | TCCI Computer Coaching | [Read More](https://medium.com/p/a158751ceadd) |
+| Tue, 17 Jun 2025 06:37:19 GMT | Preparing for the Future: Why Quantum Computing-Resistant Cryptography Matters | Gauravinsightss | [Read More](https://medium.com/p/2afc3c699eba) |
+| Tue, 17 Jun 2025 06:32:39 GMT | I Carried Hope Like a Secret | Half Bloomed Diaries | [Read More](https://medium.com/p/9f511c6c2ecf) |
+| Tue, 17 Jun 2025 06:32:39 GMT | The Role of AI in Digital Transformation: GameChanger or Hype | Payoda Technology Inc | [Read More](https://medium.com/p/44b2b301e2b3) |
+| Tue, 17 Jun 2025 06:29:51 GMT | How to Backup Your WordPress Website the Right Way (And Why You Absolutely Should) | vwthemes | [Read More](https://medium.com/p/f745a5063b8e) |
 | Tue, 17 Jun 2025 06:20:33 GMT | DevSecOps and QA: Testing Is Not Just About “Does It Work?” | İlay İnan Ünal | [Read More](https://medium.com/p/ffa1ef50b55a) |
 | Tue, 17 Jun 2025 06:20:18 GMT | DevSecOps ve QA: Test Etmek Sadece “Çalışıyor mu?” Sorusu Değildir | İlay İnan Ünal | [Read More](https://medium.com/p/76820747a499) |
 | Tue, 17 Jun 2025 06:18:47 GMT | Modular Terraform Architecture: Environments, Remote State & Beyond | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4ec294dc1f61) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 23:48:29 GMT | Fuzzing Hidden HTTP Methods for Admin Access | Monika sharma | [Read More](https://medium.com/p/ff83f3db6083) |
 | Mon, 16 Jun 2025 23:48:23 GMT | ️‍♂️ From Curiosity to Creation: How We Built an OSINT Tool for Real-World Investigations | Vinoth Dayalan | [Read More](https://medium.com/p/4b58a5b911ca) |
 | Mon, 16 Jun 2025 23:45:47 GMT | Stop Storing Secrets Wrong: The Right Way to Encrypt Data in Android | Chamod Lakmal | [Read More](https://medium.com/p/f396e57a2f97) |
-| Mon, 16 Jun 2025 23:43:00 GMT | Rethinking Hiring: Why Cybersecurity Leadership Starts with Talent | Yaroslav | [Read More](https://medium.com/p/4bd95166b3e4) |
-| Mon, 16 Jun 2025 23:34:48 GMT | When Everyone’s Talking But No One’s Saying Anything | Sumer Lynch - The Hidden Blueprint | [Read More](https://medium.com/p/d2830c1abd4f) |
-| Mon, 16 Jun 2025 23:31:36 GMT | Unit 42 Managed XSIAM by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e46ac6e5c46a) |
-| Mon, 16 Jun 2025 23:28:45 GMT | Outpouring… | Boma J | [Read More](https://medium.com/p/3b76d1b2947e) |
-| Mon, 16 Jun 2025 23:27:23 GMT | “My Wardriving Setup: Laptop and TP-Link Adapter” | Canonminibeast | [Read More](https://medium.com/p/860354698d84) |
-| Mon, 16 Jun 2025 23:01:35 GMT | ‘NetworkError’ is ambiguous for type lookup in this context | Jerry PM | [Read More](https://medium.com/p/12c80991d3d5) |
-| Mon, 16 Jun 2025 22:42:50 GMT | The Fear Isn’t Love. It’s Getting It Wrong — Again. | Ckan Johnson | [Read More](https://medium.com/p/9128505c1a2a) |
-| Mon, 16 Jun 2025 22:39:27 GMT | DNS: The Underestimated Attack Surface in Networking | Monika sharma | [Read More](https://medium.com/p/b418f8ced713) |
-| Mon, 16 Jun 2025 22:17:06 GMT | Credential Dumping & Lateral Movement in Modern Windows Environments | Karthikeyan Nagaraj | [Read More](https://medium.com/p/eac16dc78c36) |
-| Mon, 16 Jun 2025 22:16:11 GMT | ISC CC Cybersecurity Certification: Everything You Need to Know | saol | [Read More](https://medium.com/p/2c1f33c799d3) |
-| Mon, 16 Jun 2025 22:10:38 GMT | Global Cybercrime Cartels: More Dangerous Than Nation-States? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/54b70f8ca74a) |
-| Mon, 16 Jun 2025 22:00:08 GMT | Kali Linux 2025.2 Is Here: BloodHound CE, CARsenal, and 13 New Tools for Offensive Security Pros | Taha Ex | [Read More](https://medium.com/p/90c1d3b7f35d) |
-| Mon, 16 Jun 2025 21:59:36 GMT | LetsDefend: SOC338 — Lumma Stealer via DLL Side-Loading (Click Fix Phishing) | V0idd | [Read More](https://medium.com/p/330167c790be) |
-| Mon, 16 Jun 2025 21:54:01 GMT | DORK Announces Bonus Rollout: Pocket DORK Today | $DORK (DORK) | [Read More](https://medium.com/p/f5e933f8c0fd) |
