@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 15:18:09 GMT | Easy Custom Headers For Your Bug Bounty Tooling | t3ngu42 | [Read More](https://medium.com/p/d4620a01e313) |
+| Tue, 17 Jun 2025 15:17:46 GMT | YOUR HOLE CAREER WILL BE FINISHED? YOUR ARE HECKED! | Jacksonjhon | [Read More](https://medium.com/p/6b07563bc0aa) |
+| Tue, 17 Jun 2025 15:17:16 GMT | SIM Swap Saldırıları: Telefon Numaranız Nasıl Bir Siber Silaha Dönüşebilir? | Umut Bulut | [Read More](https://medium.com/p/061054acba8b) |
+| Tue, 17 Jun 2025 15:11:04 GMT | How AI Enhances Open Source Software Compliance for Government | OpenTeams | [Read More](https://medium.com/p/898796ed2cfd) |
+| Tue, 17 Jun 2025 15:06:41 GMT | Metasploit: Introduction - Tryhackme | Orgeismail | [Read More](https://medium.com/p/b0c03cac5d28) |
+| Tue, 17 Jun 2025 15:05:46 GMT | Learning Ethical Hacking and Penetration Testing until I get my first cybersecurity Internship in… | Chandra Kamal Singh | [Read More](https://medium.com/p/91d412092275) |
+| Tue, 17 Jun 2025 15:05:43 GMT | Unlocking the Cybersecurity Job Market: From Fresher to Expert in 2025 | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/1333522c5e7a) |
+| Tue, 17 Jun 2025 15:00:03 GMT | Building Secure PHP Applications: Best Practices for Web Security | Ann R. | [Read More](https://medium.com/p/a43756fee9f6) |
+| Tue, 17 Jun 2025 14:56:26 GMT | CORS Errors in Laravel: Who’s to Blame and How to Fix Them Like a Pro! | zeeshan habib | [Read More](https://medium.com/p/08066bceb6b5) |
+| Tue, 17 Jun 2025 14:53:28 GMT | Videos from “CVE/FIRST VulnCon 2025” Now Available | CVE Program Blog | [Read More](https://medium.com/p/ae43e3c20329) |
+| Tue, 17 Jun 2025 14:52:48 GMT | Am I Not Enough? | Muskan Zahid | [Read More](https://medium.com/p/e78cfe2e81a9) |
+| Tue, 17 Jun 2025 14:44:44 GMT | Monitoring the Dark Web to Protect Your Business | Adefemi Onanuga | [Read More](https://medium.com/p/349d6fa81ead) |
+| Tue, 17 Jun 2025 14:44:30 GMT | ️ How to Check If a Website or Link Is Harmful or Dangerous — Tools & Techniques | Kshahabaj | [Read More](https://medium.com/p/078e03b40a89) |
+| Tue, 17 Jun 2025 14:42:22 GMT | THM — Basic Pentesting | Kostas Ereksonas | [Read More](https://medium.com/p/8b2b0913afe5) |
+| Tue, 17 Jun 2025 14:40:40 GMT | The First 20 Git Commands I Type in Every New Project (and Why They Matter) | Saikat Paul | [Read More](https://medium.com/p/62e23ff3d9cc) |
 | Tue, 17 Jun 2025 14:40:38 GMT | How to Block Apps on Android and Restrict Internet Access | Eva John | [Read More](https://medium.com/p/48e621f79400) |
+| Tue, 17 Jun 2025 14:38:37 GMT | Your CISO is ignoring the Consumer Agent Threat | Steve Jones | [Read More](https://medium.com/p/0cdad275d78f) |
+| Tue, 17 Jun 2025 14:37:37 GMT | When Zero Becomes Hero: Cracking Ethernaut’s Force Challenge #7 | Martin Pál | [Read More](https://medium.com/p/95522da7770a) |
 | Tue, 17 Jun 2025 14:31:19 GMT | Why I Chose Cybersecurity: Week 1 of My Learning Journey | Anuu | [Read More](https://medium.com/p/336dbe49dee6) |
 | Tue, 17 Jun 2025 14:17:56 GMT | Nikola Vujović ― instrument of the BIA and the Serbian Orthodox Church in Vučić’s strategy to… | Uncensored Reporter | [Read More](https://medium.com/p/a8fe366020f5) |
 | Tue, 17 Jun 2025 14:16:59 GMT | JWT in Interviews: How to Sound Smarter Than You Actually Are | Pudari Madhavi | [Read More](https://medium.com/p/e47674c661cc) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 10:23:38 GMT | Configuring a Network and Its Security in a Small Office/Home Office: A Practical Demonstration | Zelvy Fauzan | [Read More](https://medium.com/p/bf4bfcf6e2fa) |
 | Tue, 17 Jun 2025 10:23:27 GMT | “You’re never gonna make it here in Germany” my host mom screamed at me. | Miles Silarde | [Read More](https://medium.com/p/c668c3e0d32b) |
 | Tue, 17 Jun 2025 10:22:42 GMT | HTML Injection: The Overlooked Exploit Every Developer Should Know | Rajat Patel | [Read More](https://medium.com/p/038d80f21e94) |
-| Tue, 17 Jun 2025 10:22:27 GMT | Rate Limit Bypass: Techniques, Real-World Examples, and How to Defend Against It | Rajat Patel | [Read More](https://medium.com/p/5fd0d82673db) |
-| Tue, 17 Jun 2025 10:10:25 GMT | Why DevSecOps is the Future: Integrating Security into the CI/CD Pipeline | Shreyashettyctr | [Read More](https://medium.com/p/eacb5da2274c) |
-| Tue, 17 Jun 2025 10:06:49 GMT | Your First Line of Defense: How Cybersecurity Consulting Services Secure Endpoints and Networks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/fdd1524cd1d2) |
-| Tue, 17 Jun 2025 10:05:15 GMT | How I Stopped Hardcoding Passwords: My Hands-On Journey with AWS Secrets Manager | Aashishchaudhari | [Read More](https://medium.com/p/554d42121007) |
-| Tue, 17 Jun 2025 10:02:00 GMT | Recon: FOFA və Shodan ilə Dorking (Bölüm 3) | Zeynalxan Quliyev | [Read More](https://medium.com/p/637ef1684ae5) |
-| Tue, 17 Jun 2025 09:59:24 GMT | Setup Process Of Top NSPM Solutions | Skycloud - NSPM | [Read More](https://medium.com/p/cc587a7f7146) |
-| Tue, 17 Jun 2025 09:57:56 GMT | Stop Building Insecure Apps: 7 Hidden Security Traps in Low-Code/No-Code Platforms | Saikat Paul | [Read More](https://medium.com/p/4db7c12e223f) |
-| Tue, 17 Jun 2025 09:56:20 GMT | MITM Attacks and SSL Bypass Techniques in Kali Linux: Complete Technical Guide | Okan Yıldız | [Read More](https://medium.com/p/bf8be245a58c) |
-| Tue, 17 Jun 2025 09:50:43 GMT | Top Cyber Security in India | Plm | [Read More](https://medium.com/p/f73304d944f0) |
-| Tue, 17 Jun 2025 09:46:49 GMT | Print Security in 2025: The Invisible Threat Lurking in Every Office | Doceo | [Read More](https://medium.com/p/e92e2c70ed01) |
-| Tue, 17 Jun 2025 09:45:43 GMT | Ethical Hacking and Cyber Security Course in Delhi, India | Manisha Chaudhary | [Read More](https://medium.com/p/f464441272e1) |
-| Tue, 17 Jun 2025 09:43:04 GMT | AI Governance & Generative AI Risks: A Cybersecurity Expert’s Perspective | Ekene Joseph | [Read More](https://medium.com/p/f269c8c448c0) |
-| Tue, 17 Jun 2025 09:37:32 GMT | SHA Hash Generator: What It Is, How It Works & Why It Matters | Scoutnewstuff | [Read More](https://medium.com/p/541a530caedb) |
-| Tue, 17 Jun 2025 09:31:37 GMT | Why 92% of Organisations Have AI Security Blind Spots (And How to Fix Them) | Paul Sherman | [Read More](https://medium.com/p/0540880f0f3a) |
-| Tue, 17 Jun 2025 09:27:19 GMT | Sneaking Past Digital Gates: The Magic of Double URL Encoding | Rahimuddin Alrashel | [Read More](https://medium.com/p/304333342084) |
-| Tue, 17 Jun 2025 09:21:52 GMT | The Little One Who Believed / Part 1: The Fall & The Joining | HerbTouch by Damin | [Read More](https://medium.com/p/68d663893f52) |
-| Tue, 17 Jun 2025 09:21:34 GMT | The Dark Psychology of Social Engineering: How Cybercriminals Trick You into Giving Up Sensitive… | Cyber Timi | [Read More](https://medium.com/p/bcb374d42e4b) |
