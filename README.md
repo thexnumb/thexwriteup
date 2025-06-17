@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 16:15:21 GMT | From 0.0.0.0/0 to Locked Down | Hiranmayi | [Read More](https://medium.com/p/8596f198b27f) |
+| Tue, 17 Jun 2025 16:14:57 GMT | Towards Measurable Security in Agentic AI | Gauri Sharma | [Read More](https://medium.com/p/2d0cc4147fe8) |
+| Tue, 17 Jun 2025 16:12:27 GMT | TryHackMe’s Blue CTF Writeup/Walkthrough | Benedict Agno | [Read More](https://medium.com/p/c2243d8fe0fc) |
+| Tue, 17 Jun 2025 16:08:55 GMT | Effective Key Holding Services for Enhanced Security | Travel time | [Read More](https://medium.com/p/d63d4c86d1a8) |
+| Tue, 17 Jun 2025 16:00:43 GMT | Read This Before You Click That Suspicious Email Link: How to Outsmart Phishing Scams Like a… | Saikat Paul | [Read More](https://medium.com/p/9977be38c769) |
+| Tue, 17 Jun 2025 15:54:46 GMT | Email Security Checklist: 10 Must-Follow Steps to Keep Your Inbox Safe | SafeAeon Inc. | [Read More](https://medium.com/p/80e67ae55299) |
+| Tue, 17 Jun 2025 15:54:45 GMT | Automating HTTPS with Docker, Nginx & Certbot | Ashish Singh | [Read More](https://medium.com/p/7f5078857eee) |
+| Tue, 17 Jun 2025 15:53:45 GMT | Challenge: ICE - Write-Up #4 (THM) | D4m.sh | [Read More](https://medium.com/p/a4b89bfb6cb3) |
+| Tue, 17 Jun 2025 15:49:40 GMT | Build Your Own SOC Home Lab with Security Onion | Venkatesh | [Read More](https://medium.com/p/c0e7ccaf6cc1) |
+| Tue, 17 Jun 2025 15:48:53 GMT | 10 Things Cybersecurity Experts Should Do in the Evening Instead of Watching Netflix | Vijay Kumar Gupta | [Read More](https://medium.com/p/f61ff0b32b67) |
+| Tue, 17 Jun 2025 15:46:08 GMT | Pwning DC-2 | Calvaryhasarrived | [Read More](https://medium.com/p/35a86e747fc7) |
+| Tue, 17 Jun 2025 15:46:00 GMT | TwoMillion HTB writeup | Prabhat Kumar Thakur | [Read More](https://medium.com/p/6ef68d28e738) |
+| Tue, 17 Jun 2025 15:39:15 GMT | Choosing the Right Zero Trust Vendor: What to Know Before You Commit | SafeAeon Inc. | [Read More](https://medium.com/p/1beee34ad7bb) |
+| Tue, 17 Jun 2025 15:37:56 GMT | < Hello_Anbu_Black_Ops /> | AnbuBlackOps | [Read More](https://medium.com/p/b96fd9b523d5) |
 | Tue, 17 Jun 2025 15:33:19 GMT | Responsible Disclosure: Exposed Credentials in goverment site | Dharanis | [Read More](https://medium.com/p/61245f1c29f4) |
+| Tue, 17 Jun 2025 15:31:53 GMT | Healthcare Security Robotics | Presslink Media | [Read More](https://medium.com/p/b6286de4bc05) |
 | Tue, 17 Jun 2025 15:31:38 GMT | Building a Responsible AI Pipeline: Your Starter Kit with Open Source Tools | Roberto Nava | [Read More](https://medium.com/p/a4f2eea8b29a) |
 | Tue, 17 Jun 2025 15:31:22 GMT | A Funny Encounter with Security: No Man’s Land | Jeanclaude | [Read More](https://medium.com/p/a6c43af44ca1) |
 | Tue, 17 Jun 2025 15:30:13 GMT | SOC Analysis of Event 189: SOC227 — For this investigation, I focused on another alert marked as… | Ray Maiden | [Read More](https://medium.com/p/a93fcddfd0e7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 11:30:02 GMT | Top Security Companies That Keep the Internet Safe | Kambetastephano | [Read More](https://medium.com/p/7b60a76a32e1) |
 | Tue, 17 Jun 2025 11:27:52 GMT | Top Security, Housekeeping & Facility Management Services in Hyderabad - BSFMS | Be Secure Facility Management Services | [Read More](https://medium.com/p/dea2993050ee) |
 | Tue, 17 Jun 2025 11:23:50 GMT | Hack Club Summer of Making 2025: Code, Create & Win Prizes! | omprakash | [Read More](https://medium.com/p/78abca1b76c7) |
-| Tue, 17 Jun 2025 11:22:27 GMT | Streamlining Threat Intelligence Reporting with GenAI: from Theory to Practical Success | Awalin Sopan | [Read More](https://medium.com/p/f9242e4d9870) |
-| Tue, 17 Jun 2025 11:19:23 GMT | First Post: Welcome to The Hacker’s Lens | Rohia Munavar | [Read More](https://medium.com/p/35819a9d44c1) |
-| Tue, 17 Jun 2025 11:17:08 GMT | Geofencing Explained: A QA and Security Take on Location-Based Triggers. | Az.Sk. | [Read More](https://medium.com/p/5c8b14c9edf6) |
-| Tue, 17 Jun 2025 11:16:55 GMT | Stop Thinking Like a Victim: 10 Hacker Tactics Every Security Professional Must Know | Saikat Paul | [Read More](https://medium.com/p/4fcd3e0b2c2d) |
-| Tue, 17 Jun 2025 11:15:23 GMT | Cyber Security for Small Companies: How to Stay Safe Without Big Budgets | Kambetastephano | [Read More](https://medium.com/p/437be0c618e0) |
-| Tue, 17 Jun 2025 11:09:05 GMT | The Little One Who Believed / Part 2: The Moment One Rolled | HerbTouch by Damin | [Read More](https://medium.com/p/266b65b08e86) |
-| Tue, 17 Jun 2025 11:06:31 GMT | Securely Inject Secrets into Angular Environment Files using Azure Key Vault + Classic Azure… | Sunita Rawat | [Read More](https://medium.com/p/3ad2ca17616c) |
-| Tue, 17 Jun 2025 11:01:44 GMT | iOS Swift Secure Auditing: A Comprehensive Guide for 2025 | Manoj Gadamsetty | [Read More](https://medium.com/p/efb289313c2a) |
-| Tue, 17 Jun 2025 10:55:10 GMT | The Expanding Scope of Cybersecurity in the Digital Age | Vishnu | [Read More](https://medium.com/p/2f001c7871ee) |
-| Tue, 17 Jun 2025 10:53:06 GMT | The BIG Auto shift. | Goismo AB | [Read More](https://medium.com/p/7f0fa99df2a6) |
-| Tue, 17 Jun 2025 10:50:35 GMT | Simple XXE Vulnerability POC | ravikiran | [Read More](https://medium.com/p/1880476d3882) |
-| Tue, 17 Jun 2025 10:50:22 GMT | OPENVAS, THE RIGHT WAY ! | lukewago | [Read More](https://medium.com/p/7f80fd1990b3) |
-| Tue, 17 Jun 2025 10:49:19 GMT | AI-Powered Cyber Threats & Deepfake Defense: A 2025 Security Guide | Shivam Mathur | [Read More](https://medium.com/p/9f895f1b4014) |
-| Tue, 17 Jun 2025 10:47:42 GMT | From Username to Identity Using OSINT | Aleon akibo | [Read More](https://medium.com/p/82d6b04b7bf1) |
-| Tue, 17 Jun 2025 10:44:14 GMT | Why Leading Brands Choose Briskinfosec for ISO 27001 Compliance in 2025 | Briskinfosec Technology and Consulting Pvt Ltd | [Read More](https://medium.com/p/2f07101bdbe0) |
