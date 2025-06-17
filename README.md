@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 14:40:38 GMT | How to Block Apps on Android and Restrict Internet Access | Eva John | [Read More](https://medium.com/p/48e621f79400) |
+| Tue, 17 Jun 2025 14:31:19 GMT | Why I Chose Cybersecurity: Week 1 of My Learning Journey | Anuu | [Read More](https://medium.com/p/336dbe49dee6) |
 | Tue, 17 Jun 2025 14:17:56 GMT | Nikola Vujović ― instrument of the BIA and the Serbian Orthodox Church in Vučić’s strategy to… | Uncensored Reporter | [Read More](https://medium.com/p/a8fe366020f5) |
 | Tue, 17 Jun 2025 14:16:59 GMT | JWT in Interviews: How to Sound Smarter Than You Actually Are | Pudari Madhavi | [Read More](https://medium.com/p/e47674c661cc) |
 | Tue, 17 Jun 2025 14:16:58 GMT | Hacking AWS Beanstalk — Cloudgoat Scenario | Aravind S V | [Read More](https://medium.com/p/4da1fac6a4cf) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 09:27:19 GMT | Sneaking Past Digital Gates: The Magic of Double URL Encoding | Rahimuddin Alrashel | [Read More](https://medium.com/p/304333342084) |
 | Tue, 17 Jun 2025 09:21:52 GMT | The Little One Who Believed / Part 1: The Fall & The Joining | HerbTouch by Damin | [Read More](https://medium.com/p/68d663893f52) |
 | Tue, 17 Jun 2025 09:21:34 GMT | The Dark Psychology of Social Engineering: How Cybercriminals Trick You into Giving Up Sensitive… | Cyber Timi | [Read More](https://medium.com/p/bcb374d42e4b) |
-| Tue, 17 Jun 2025 09:19:48 GMT | Monitoring Administrative Actions in Microsoft Defender for Endpoint: Ensuring Compliance… | Microsoft Cloud Buzz | [Read More](https://medium.com/p/12c46d314b21) |
-| Tue, 17 Jun 2025 09:18:34 GMT | How In-App Protection Enables Enterprises to Combat Rising Security Risks | Gargiben | [Read More](https://medium.com/p/3948856cea95) |
