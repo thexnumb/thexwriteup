@@ -12,9 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 06:20:33 GMT | DevSecOps and QA: Testing Is Not Just About “Does It Work?” | İlay İnan Ünal | [Read More](https://medium.com/p/ffa1ef50b55a) |
+| Tue, 17 Jun 2025 06:20:18 GMT | DevSecOps ve QA: Test Etmek Sadece “Çalışıyor mu?” Sorusu Değildir | İlay İnan Ünal | [Read More](https://medium.com/p/76820747a499) |
+| Tue, 17 Jun 2025 06:18:47 GMT | Modular Terraform Architecture: Environments, Remote State & Beyond | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4ec294dc1f61) |
+| Tue, 17 Jun 2025 06:17:33 GMT | Terraform Commands | Ramkrushna Maheshwar | [Read More](https://medium.com/p/76c4622aceea) |
+| Tue, 17 Jun 2025 06:16:08 GMT | Terraform Basics | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4239f9bef563) |
+| Tue, 17 Jun 2025 06:12:27 GMT | The Growing Cybersecurity Insurance Market | Shunham Choudhry | [Read More](https://medium.com/p/de75d9900a55) |
+| Tue, 17 Jun 2025 06:11:49 GMT | gRPC FOFA Dork Recon for Pentest | AbhirupKonwar | [Read More](https://medium.com/p/cd69b127a326) |
+| Tue, 17 Jun 2025 06:10:13 GMT | The future internet with Quantum Computing | Dr. Ch. Jayanth Babu | [Read More](https://medium.com/p/fa59c216e13b) |
+| Tue, 17 Jun 2025 06:10:01 GMT | The Digital Pulse: Recent IT Advancements Shaping Our World | bikash Gochhayat | [Read More](https://medium.com/p/43e0afdf5427) |
+| Tue, 17 Jun 2025 06:05:00 GMT | Aviation Cybersecurity: What Every Aircraft Owner Should Know in 2025 | Yash Shah | [Read More](https://medium.com/p/d3733f112866) |
+| Tue, 17 Jun 2025 06:02:22 GMT | We Don’t Need More Cybersecurity Experts. We Need Better Ones. | Sarthak Agrawal | [Read More](https://medium.com/p/db6c5bb44356) |
+| Tue, 17 Jun 2025 06:00:41 GMT | Today’s Top Cyber Intelligence Highlights — Jun 17, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/adf82e99fbfb) |
+| Tue, 17 Jun 2025 05:59:55 GMT | Why Pune Societies Choose Private Security Guards | United Guard Force India | [Read More](https://medium.com/p/6b162e11e187) |
+| Tue, 17 Jun 2025 05:54:59 GMT | An IS Case Analysis of Amazon vs. Shein and Temu: Realigning IT for Platform Advantage | Arden Vale | [Read More](https://medium.com/p/5ad6c81084d9) |
+| Tue, 17 Jun 2025 05:53:50 GMT | Is OSS secure enough? | Sylvain Gibier | [Read More](https://medium.com/p/a6cf77293f3c) |
+| Tue, 17 Jun 2025 05:50:52 GMT | Deploying My FastAPI Service to AWS ECS Fargate: Lessons, Pitfalls, and Breakthroughs | Vallab Karanam | [Read More](https://medium.com/p/434e311d38a9) |
+| Tue, 17 Jun 2025 05:47:42 GMT | Proxy Misconfiguration + SSRF: How I Chained Two Bugs Into Internal Admin Panel Access | Monika sharma | [Read More](https://medium.com/p/cf0e43bf79e4) |
+| Tue, 17 Jun 2025 05:44:53 GMT | “Nothing to Hide, Nothing to Fear” | Alex Einfelt | [Read More](https://medium.com/p/711383afe7cf) |
 | Tue, 17 Jun 2025 05:41:11 GMT | Remote Code Execution in Pentaho Business Server | Monika sharma | [Read More](https://medium.com/p/d5abb6529f73) |
+| Tue, 17 Jun 2025 05:40:37 GMT | Benefits of Penetration Testing: Prevention is Less Costly Than Cure | StrongBox IT | [Read More](https://medium.com/p/54dd2c7035bf) |
 | Tue, 17 Jun 2025 05:37:58 GMT | CTF Day(17) | Ahmed Narmer | [Read More](https://medium.com/p/24ec4fd7a7e5) |
 | Tue, 17 Jun 2025 05:34:22 GMT | Outdoor Asset Protection: Smart Strategies to Secure Your Site | Sukhwinder | [Read More](https://medium.com/p/b274c2423747) |
+| Tue, 17 Jun 2025 05:32:39 GMT | How Precision Errors in UI Can Slip Through Automation — A Real-World Case Study | Gaurav Khurana | [Read More](https://medium.com/p/2316f04b763b) |
 | Tue, 17 Jun 2025 05:29:12 GMT | Stealers | umbraXsecure | [Read More](https://medium.com/p/8560bc735b89) |
 | Tue, 17 Jun 2025 05:28:21 GMT | Why OSCP Is Essential for Cybersecurity Professionals in 2025 | ThreatVector | [Read More](https://medium.com/p/962a2d69754f) |
 | Tue, 17 Jun 2025 05:23:37 GMT | Letting Go of “Being Put-Together” and Learning to Accept Help | mizuka | [Read More](https://medium.com/p/b08b290191ce) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 22:00:08 GMT | Kali Linux 2025.2 Is Here: BloodHound CE, CARsenal, and 13 New Tools for Offensive Security Pros | Taha Ex | [Read More](https://medium.com/p/90c1d3b7f35d) |
 | Mon, 16 Jun 2025 21:59:36 GMT | LetsDefend: SOC338 — Lumma Stealer via DLL Side-Loading (Click Fix Phishing) | V0idd | [Read More](https://medium.com/p/330167c790be) |
 | Mon, 16 Jun 2025 21:54:01 GMT | DORK Announces Bonus Rollout: Pocket DORK Today | $DORK (DORK) | [Read More](https://medium.com/p/f5e933f8c0fd) |
-| Mon, 16 Jun 2025 21:40:18 GMT | 10 Container Security Best Practices for Engineering Teams | ActiveState | [Read More](https://medium.com/p/be9dee6d9ccd) |
-| Mon, 16 Jun 2025 21:32:28 GMT | RESILIENCE IN THE DARK: STORIES OF HOPE FROM THOSE WHO SUFFER IN SILENCE | Fedude Annie | [Read More](https://medium.com/p/895151b6552e) |
-| Mon, 16 Jun 2025 21:30:17 GMT | One Bug Leads to Two Bounties: The Simple Trick That Could Make You Rich | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/46bb1107c98c) |
-| Mon, 16 Jun 2025 21:19:05 GMT | Entre SELECTs e Segredos: Desvendando o Information_Schema em CTFs e Pentests | Sérgio Corrêa | [Read More](https://medium.com/p/ee0ad6d5c3a6) |
-| Mon, 16 Jun 2025 21:10:41 GMT | Still Clicking: Why Phishing Scams Keep Winning in Nigeria (And What You Can Do About It) | O. J. Okpabi | [Read More](https://medium.com/p/81cf83b4f1b5) |
-| Mon, 16 Jun 2025 21:09:03 GMT | Mathematical Logic in Hacking | Dr. Sam Fouad | [Read More](https://medium.com/p/7e514991628e) |
-| Mon, 16 Jun 2025 21:04:19 GMT | Project [REDACTED] | CyberPrincipals | [Read More](https://medium.com/p/e30eab7b3278) |
-| Mon, 16 Jun 2025 21:03:39 GMT | Building a Real-World DevSecOps Pipeline with AI + Flask App Showcase for T2S | Emmanuel | [Read More](https://medium.com/p/3127c6e2645f) |
-| Mon, 16 Jun 2025 20:50:41 GMT | Treasure rollout Secrets: How to Harvest BUGS for top-tier returns | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/24a594c68a93) |
-| Mon, 16 Jun 2025 20:47:36 GMT | Mitigating Risks in Supply Chains | Tyler Wall | [Read More](https://medium.com/p/b6e1a2a04086) |
-| Mon, 16 Jun 2025 20:40:25 GMT | Installing and Using YARA Malware Detector | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c36b6aaf2eec) |
-| Mon, 16 Jun 2025 20:38:20 GMT | Remind Task — Teman Pintar Mahasiswa dalam Mengatur Tugas dan Waktu | Fachrizal P | [Read More](https://medium.com/p/71861e6d8841) |
-| Mon, 16 Jun 2025 20:37:00 GMT | Vishing Story: A Fictional Tale about a Very Real Problem | Herd Security | [Read More](https://medium.com/p/94d40f508a9f) |
-| Mon, 16 Jun 2025 20:32:05 GMT | Integration of Zero Trust Architecture, SIEM, and AI Chatbot for Reducing SOC Workload | Alohoutaderonald | [Read More](https://medium.com/p/9cd34e9ed57a) |
-| Mon, 16 Jun 2025 20:29:57 GMT | Nmap ile Zaafiyet Tarama | Ali Karaoglan | [Read More](https://medium.com/p/1634f7b89f2d) |
-| Mon, 16 Jun 2025 20:25:01 GMT | Burpsuite | Ali Karaoglan | [Read More](https://medium.com/p/77365fa36a1b) |
-| Mon, 16 Jun 2025 20:23:03 GMT | TryHackMe — Volatility Essentials Walkthrough | Yacrb | [Read More](https://medium.com/p/f0b485ac8d46) |
-| Mon, 16 Jun 2025 20:22:34 GMT | Securing your Backend | Ashutosh Karna | [Read More](https://medium.com/p/c54e00831e4e) |
-| Mon, 16 Jun 2025 20:11:28 GMT | Getting Started in Bug Bounty Hunting in 2025: A Practical Guide for Beginners | Rishabh Shrivastava | [Read More](https://medium.com/p/247d35d31939) |
-| Mon, 16 Jun 2025 20:03:38 GMT | Exploring the Benefits of Smart Lock Front Door Solutions with SwitchBot | Garddickens | [Read More](https://medium.com/p/0321f6276750) |
