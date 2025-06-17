@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 22:25:21 GMT | Week 1: Top 5 Regulations and Why They Matter | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/a02237be8971) |
+| Tue, 17 Jun 2025 22:23:50 GMT | Investigating Suspicious URLs — Tools that you need to know as SOC Analyst | Ayyappan Subramanian | [Read More](https://medium.com/p/1af045302be2) |
+| Tue, 17 Jun 2025 22:20:09 GMT | Identifying North Korean Kimsuky (APT43) Infrastructure | LCSC-IE | [Read More](https://medium.com/p/b6817a58a65b) |
+| Tue, 17 Jun 2025 22:17:08 GMT | From Recon to Report: Automate Your Pentesting Workflow With Python | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe0721ff66c9) |
 | Tue, 17 Jun 2025 22:03:06 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/1b71ac99d486) |
 | Tue, 17 Jun 2025 22:00:12 GMT | Skynet writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/d454d0dd51b6) |
 | Tue, 17 Jun 2025 21:52:19 GMT | No Country For Cyber Novices | O. J. Okpabi | [Read More](https://medium.com/p/4e0476f07595) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 15:54:46 GMT | Email Security Checklist: 10 Must-Follow Steps to Keep Your Inbox Safe | SafeAeon Inc. | [Read More](https://medium.com/p/80e67ae55299) |
 | Tue, 17 Jun 2025 15:54:45 GMT | Automating HTTPS with Docker, Nginx & Certbot | Ashish Singh | [Read More](https://medium.com/p/7f5078857eee) |
 | Tue, 17 Jun 2025 15:53:45 GMT | Challenge: ICE - Write-Up #4 (THM) | D4m.sh | [Read More](https://medium.com/p/a4b89bfb6cb3) |
-| Tue, 17 Jun 2025 15:49:40 GMT | Build Your Own SOC Home Lab with Security Onion | Venkatesh | [Read More](https://medium.com/p/c0e7ccaf6cc1) |
-| Tue, 17 Jun 2025 15:48:53 GMT | 10 Things Cybersecurity Experts Should Do in the Evening Instead of Watching Netflix | Vijay Kumar Gupta | [Read More](https://medium.com/p/f61ff0b32b67) |
-| Tue, 17 Jun 2025 15:46:08 GMT | Pwning DC-2 | Calvaryhasarrived | [Read More](https://medium.com/p/35a86e747fc7) |
-| Tue, 17 Jun 2025 15:46:00 GMT | TwoMillion HTB writeup | Prabhat Kumar Thakur | [Read More](https://medium.com/p/6ef68d28e738) |
