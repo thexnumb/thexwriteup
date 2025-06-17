@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 05:41:11 GMT | Remote Code Execution in Pentaho Business Server | Monika sharma | [Read More](https://medium.com/p/d5abb6529f73) |
+| Tue, 17 Jun 2025 05:37:58 GMT | CTF Day(17) | Ahmed Narmer | [Read More](https://medium.com/p/24ec4fd7a7e5) |
+| Tue, 17 Jun 2025 05:34:22 GMT | Outdoor Asset Protection: Smart Strategies to Secure Your Site | Sukhwinder | [Read More](https://medium.com/p/b274c2423747) |
+| Tue, 17 Jun 2025 05:29:12 GMT | Stealers | umbraXsecure | [Read More](https://medium.com/p/8560bc735b89) |
+| Tue, 17 Jun 2025 05:28:21 GMT | Why OSCP Is Essential for Cybersecurity Professionals in 2025 | ThreatVector | [Read More](https://medium.com/p/962a2d69754f) |
+| Tue, 17 Jun 2025 05:23:37 GMT | Letting Go of “Being Put-Together” and Learning to Accept Help | mizuka | [Read More](https://medium.com/p/b08b290191ce) |
+| Tue, 17 Jun 2025 05:22:28 GMT | いつも120%”で生きてきた私が、力を抜く練習を始めた理由 | mizuka | [Read More](https://medium.com/p/f1fa4d6a7b4f) |
+| Tue, 17 Jun 2025 05:21:21 GMT | Beware! Old Discord Invites Are the New Malware Party Crashers | Akash P | [Read More](https://medium.com/p/3a88bd527b62) |
+| Tue, 17 Jun 2025 05:20:01 GMT | Expired Discord Invite Links Used to Deliver Malware Targeting Crypto Wallets | MohitV | [Read More](https://medium.com/p/12661313f11b) |
+| Tue, 17 Jun 2025 05:18:25 GMT | Discord Invite Link Hijacking: A Sophisticated Malware Campaign Targeting Crypto Users | Srinivasps | [Read More](https://medium.com/p/748a908ede55) |
 | Tue, 17 Jun 2025 05:12:22 GMT | Top 30 Hidden PowerShell Modules for Security Automation | Bl@ckC!pH3r | [Read More](https://medium.com/p/7913c01464e9) |
 | Tue, 17 Jun 2025 05:02:46 GMT | Why You Should be Testing Your Detection Rules — Part 1 | Bill Mahony | [Read More](https://medium.com/p/ab6f74fc5116) |
 | Tue, 17 Jun 2025 05:01:35 GMT | AWS Security Guide: Part 2 | SonnieCodes | [Read More](https://medium.com/p/aa993ac3595d) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 20:22:34 GMT | Securing your Backend | Ashutosh Karna | [Read More](https://medium.com/p/c54e00831e4e) |
 | Mon, 16 Jun 2025 20:11:28 GMT | Getting Started in Bug Bounty Hunting in 2025: A Practical Guide for Beginners | Rishabh Shrivastava | [Read More](https://medium.com/p/247d35d31939) |
 | Mon, 16 Jun 2025 20:03:38 GMT | Exploring the Benefits of Smart Lock Front Door Solutions with SwitchBot | Garddickens | [Read More](https://medium.com/p/0321f6276750) |
-| Mon, 16 Jun 2025 20:02:27 GMT | Why NIST’s 19 Zero Trust Examples Matter (And How to Use Them) | Brittney Ginther | [Read More](https://medium.com/p/7f8af82020ad) |
-| Mon, 16 Jun 2025 19:54:49 GMT | Snowflake Agents for Cybersecurity | Jake Berkowsky | [Read More](https://medium.com/p/f79e9ae07ac4) |
-| Mon, 16 Jun 2025 19:52:24 GMT | I’ve Moved — Here’s Where to Find Me Now | Tony Martin-Vegue | [Read More](https://medium.com/p/9a7300bda97a) |
-| Mon, 16 Jun 2025 19:50:52 GMT | RangeForce Lab — Website Defacement Attacks | Hassen Hannachi | [Read More](https://medium.com/p/3f2807fe3429) |
-| Mon, 16 Jun 2025 19:48:03 GMT | A Hacker’s Journey to NASA’s Hall of Fame | okBoss | [Read More](https://medium.com/p/864bb633a155) |
-| Mon, 16 Jun 2025 19:48:03 GMT | Temp Email SignUp getting blocked ? | AbhirupKonwar | [Read More](https://medium.com/p/ac55032448b9) |
-| Mon, 16 Jun 2025 19:47:06 GMT | Anomalous Behavior Detection for SOC: Advanced Monitoring Techniques with UEBA | Esra Kayhan | [Read More](https://medium.com/p/aa47d4ca647d) |
-| Mon, 16 Jun 2025 19:40:25 GMT | Day One in SAP: What to Expect in Your First SAP Job | 2iResourcing | [Read More](https://medium.com/p/bf48c311243e) |
-| Mon, 16 Jun 2025 19:29:14 GMT | Microsoft Installs Emergency Update On Windows PCs | IT_Engineer | [Read More](https://medium.com/p/bfb4d13071d6) |
-| Mon, 16 Jun 2025 19:28:41 GMT | Governing AI Agents with Unity Catalog | AI on Databricks | [Read More](https://medium.com/p/a8c8f2074095) |
