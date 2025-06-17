@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 05:12:22 GMT | Top 30 Hidden PowerShell Modules for Security Automation | Bl@ckC!pH3r | [Read More](https://medium.com/p/7913c01464e9) |
+| Tue, 17 Jun 2025 05:02:46 GMT | Why You Should be Testing Your Detection Rules — Part 1 | Bill Mahony | [Read More](https://medium.com/p/ab6f74fc5116) |
+| Tue, 17 Jun 2025 05:01:35 GMT | AWS Security Guide: Part 2 | SonnieCodes | [Read More](https://medium.com/p/aa993ac3595d) |
+| Tue, 17 Jun 2025 05:01:34 GMT | From AI Attacks to Deepfake Scams: 2025’s Cyber Threat List | Neetu Varma | [Read More](https://medium.com/p/9c4bf68b667c) |
+| Tue, 17 Jun 2025 05:01:13 GMT | Server‑Side Parameter Pollution: Hijacking Query Strings for Admin‑Level Access | Bash Overflow | [Read More](https://medium.com/p/c4048a15974f) |
+| Tue, 17 Jun 2025 04:58:33 GMT | 10 Stages of a Cyber Breach… and the Tools Used to Pull It Off | Travis Ray Caverhill | [Read More](https://medium.com/p/a709a0b10ddf) |
+| Tue, 17 Jun 2025 04:56:22 GMT | Smart Home Security in 2025: Affordable Upgrades to Protect What Matters Most | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/d88a06981fb9) |
+| Tue, 17 Jun 2025 04:56:12 GMT | “Tangem 1.0 vs 2.0: A Complete Breakdown of Features, Security, and Performance” | Sam smith | [Read More](https://medium.com/p/1b4efb4b9160) |
+| Tue, 17 Jun 2025 04:51:20 GMT | Top Mistakes Businesses Make in Cybersecurity Risk Assessments and How to Fix Them | Opinnate | [Read More](https://medium.com/p/5088031c312d) |
+| Tue, 17 Jun 2025 04:40:03 GMT | Episode 4 — ShellGPT in Cybersecurity: Your Terminal’s Silent Sentinel | murali pala | [Read More](https://medium.com/p/0d409ab53163) |
 | Tue, 17 Jun 2025 04:35:56 GMT | Security Is Not Privacy: Why Your Phone Is Designed to Protect Itself, Not You | Charan.S | [Read More](https://medium.com/p/6e218e7981ee) |
 | Tue, 17 Jun 2025 04:32:42 GMT | Part 3: The Secure Handshake — Configuring Oracle Wallets for HTTPS Calls | Rohit Mittel | [Read More](https://medium.com/p/20538bd9f167) |
 | Tue, 17 Jun 2025 04:16:19 GMT | Splunk: Exploring SPL TryHackMe | AsmaaAli | [Read More](https://medium.com/p/f4d2bf274d81) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 19:40:25 GMT | Day One in SAP: What to Expect in Your First SAP Job | 2iResourcing | [Read More](https://medium.com/p/bf48c311243e) |
 | Mon, 16 Jun 2025 19:29:14 GMT | Microsoft Installs Emergency Update On Windows PCs | IT_Engineer | [Read More](https://medium.com/p/bfb4d13071d6) |
 | Mon, 16 Jun 2025 19:28:41 GMT | Governing AI Agents with Unity Catalog | AI on Databricks | [Read More](https://medium.com/p/a8c8f2074095) |
-| Mon, 16 Jun 2025 19:20:19 GMT | Cyber world throug my EYES | Abhinav A | [Read More](https://medium.com/p/3998f39f80fe) |
-| Mon, 16 Jun 2025 19:18:04 GMT | What Actually Happened During the Recent Google Cloud Outage | Mrinal Joshi | [Read More](https://medium.com/p/0cb46e1b8f00) |
-| Mon, 16 Jun 2025 19:16:46 GMT | Top 15 Cybersecurity Best Practices for DevOps and Cloud Environments | Code With Hannan | [Read More](https://medium.com/p/9746493fa09f) |
-| Mon, 16 Jun 2025 19:13:41 GMT | Content Security Policies & Finding Useful Errors | Jeremiah Campbell | [Read More](https://medium.com/p/ce6cbb8ded07) |
-| Mon, 16 Jun 2025 19:06:22 GMT | Offensive AI: The New Era of Hacking Azure and Beyond | Mister Chriss | [Read More](https://medium.com/p/123051319aef) |
-| Mon, 16 Jun 2025 19:05:15 GMT | Cross-Cloud Agent Ecosystems: How AWS, Azure, and GCP Are Shaping MCP, A2A, and Secure Agent… | Dave Patten | [Read More](https://medium.com/p/088fcc57ee7c) |
-| Mon, 16 Jun 2025 19:03:33 GMT | Why to Choose Cybersecurity as a Career? | Samridhi | [Read More](https://medium.com/p/2241a868fb2c) |
-| Mon, 16 Jun 2025 19:00:40 GMT | Why Managing Risk, Especially Cybersecurity Risk, Is a Moral Imperative | Jenny Feneley | [Read More](https://medium.com/p/e2573c8bac58) |
-| Mon, 16 Jun 2025 19:00:26 GMT | Understanding known_hosts in SSH — Like You're 5 | Imrohitrao | [Read More](https://medium.com/p/d362232685ba) |
-| Mon, 16 Jun 2025 18:57:48 GMT | Man-in-the-Middle Attack - Packets Sniffing - Ettercap | Alibinazam | [Read More](https://medium.com/p/db82502f0227) |
