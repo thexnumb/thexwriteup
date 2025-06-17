@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 10:10:25 GMT | Why DevSecOps is the Future: Integrating Security into the CI/CD Pipeline | Shreyashettyctr | [Read More](https://medium.com/p/eacb5da2274c) |
+| Tue, 17 Jun 2025 10:06:49 GMT | Your First Line of Defense: How Cybersecurity Consulting Services Secure Endpoints and Networks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/fdd1524cd1d2) |
+| Tue, 17 Jun 2025 10:05:15 GMT | How I Stopped Hardcoding Passwords: My Hands-On Journey with AWS Secrets Manager | Aashishchaudhari | [Read More](https://medium.com/p/554d42121007) |
+| Tue, 17 Jun 2025 10:02:00 GMT | Recon: FOFA və Shodan ilə Dorking (Bölüm 3) | Zeynalxan Quliyev | [Read More](https://medium.com/p/637ef1684ae5) |
+| Tue, 17 Jun 2025 09:59:24 GMT | Setup Process Of Top NSPM Solutions | Skycloud - NSPM | [Read More](https://medium.com/p/cc587a7f7146) |
+| Tue, 17 Jun 2025 09:57:56 GMT | Stop Building Insecure Apps: 7 Hidden Security Traps in Low-Code/No-Code Platforms | Saikat Paul | [Read More](https://medium.com/p/4db7c12e223f) |
+| Tue, 17 Jun 2025 09:56:20 GMT | MITM Attacks and SSL Bypass Techniques in Kali Linux: Complete Technical Guide | Okan Yıldız | [Read More](https://medium.com/p/bf8be245a58c) |
+| Tue, 17 Jun 2025 09:50:43 GMT | Top Cyber Security in India | Plm | [Read More](https://medium.com/p/f73304d944f0) |
+| Tue, 17 Jun 2025 09:46:49 GMT | Print Security in 2025: The Invisible Threat Lurking in Every Office | Doceo | [Read More](https://medium.com/p/e92e2c70ed01) |
+| Tue, 17 Jun 2025 09:45:43 GMT | Ethical Hacking and Cyber Security Course in Delhi, India | Manisha Chaudhary | [Read More](https://medium.com/p/f464441272e1) |
+| Tue, 17 Jun 2025 09:43:04 GMT | AI Governance & Generative AI Risks: A Cybersecurity Expert’s Perspective | Ekene Joseph | [Read More](https://medium.com/p/f269c8c448c0) |
 | Tue, 17 Jun 2025 09:37:32 GMT | SHA Hash Generator: What It Is, How It Works & Why It Matters | Scoutnewstuff | [Read More](https://medium.com/p/541a530caedb) |
 | Tue, 17 Jun 2025 09:31:37 GMT | Why 92% of Organisations Have AI Security Blind Spots (And How to Fix Them) | Paul Sherman | [Read More](https://medium.com/p/0540880f0f3a) |
 | Tue, 17 Jun 2025 09:27:19 GMT | Sneaking Past Digital Gates: The Magic of Double URL Encoding | Rahimuddin Alrashel | [Read More](https://medium.com/p/304333342084) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 05:20:01 GMT | Expired Discord Invite Links Used to Deliver Malware Targeting Crypto Wallets | MohitV | [Read More](https://medium.com/p/12661313f11b) |
 | Tue, 17 Jun 2025 05:18:25 GMT | Discord Invite Link Hijacking: A Sophisticated Malware Campaign Targeting Crypto Users | Srinivasps | [Read More](https://medium.com/p/748a908ede55) |
 | Tue, 17 Jun 2025 05:12:22 GMT | Top 30 Hidden PowerShell Modules for Security Automation | Bl@ckC!pH3r | [Read More](https://medium.com/p/7913c01464e9) |
-| Tue, 17 Jun 2025 05:02:46 GMT | Why You Should be Testing Your Detection Rules — Part 1 | Bill Mahony | [Read More](https://medium.com/p/ab6f74fc5116) |
-| Tue, 17 Jun 2025 05:01:35 GMT | AWS Security Guide: Part 2 | SonnieCodes | [Read More](https://medium.com/p/aa993ac3595d) |
-| Tue, 17 Jun 2025 05:01:34 GMT | From AI Attacks to Deepfake Scams: 2025’s Cyber Threat List | Neetu Varma | [Read More](https://medium.com/p/9c4bf68b667c) |
-| Tue, 17 Jun 2025 05:01:13 GMT | Server‑Side Parameter Pollution: Hijacking Query Strings for Admin‑Level Access | Bash Overflow | [Read More](https://medium.com/p/c4048a15974f) |
-| Tue, 17 Jun 2025 04:58:33 GMT | 10 Stages of a Cyber Breach… and the Tools Used to Pull It Off | Travis Ray Caverhill | [Read More](https://medium.com/p/a709a0b10ddf) |
-| Tue, 17 Jun 2025 04:56:22 GMT | Smart Home Security in 2025: Affordable Upgrades to Protect What Matters Most | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/d88a06981fb9) |
-| Tue, 17 Jun 2025 04:56:12 GMT | “Tangem 1.0 vs 2.0: A Complete Breakdown of Features, Security, and Performance” | Sam smith | [Read More](https://medium.com/p/1b4efb4b9160) |
-| Tue, 17 Jun 2025 04:51:20 GMT | Top Mistakes Businesses Make in Cybersecurity Risk Assessments and How to Fix Them | Opinnate | [Read More](https://medium.com/p/5088031c312d) |
-| Tue, 17 Jun 2025 04:40:03 GMT | Episode 4 — ShellGPT in Cybersecurity: Your Terminal’s Silent Sentinel | murali pala | [Read More](https://medium.com/p/0d409ab53163) |
-| Tue, 17 Jun 2025 04:35:56 GMT | Security Is Not Privacy: Why Your Phone Is Designed to Protect Itself, Not You | Charan.S | [Read More](https://medium.com/p/6e218e7981ee) |
-| Tue, 17 Jun 2025 04:32:42 GMT | Part 3: The Secure Handshake — Configuring Oracle Wallets for HTTPS Calls | Rohit Mittel | [Read More](https://medium.com/p/20538bd9f167) |
