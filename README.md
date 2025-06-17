@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 03:09:22 GMT | Comprehensive Overview of Common Web Application Vulnerabilities | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/821c078989f4) |
+| Tue, 17 Jun 2025 03:05:43 GMT | HTB Sherlock — Loggy (Easy) | shawty | [Read More](https://medium.com/p/ee2bce95a1dc) |
+| Tue, 17 Jun 2025 03:03:25 GMT | Anatomy of an AgentTesla Loader: Deobfuscation, Custom Encryption, and Active Defenses | Pudimcaro | [Read More](https://medium.com/p/dbe8284d9870) |
+| Tue, 17 Jun 2025 02:57:38 GMT | Breaking In — Behind the Exploit (Understanding and executing cyber attacks demonstration) — Part 2 | Kushaniihalapathirana | [Read More](https://medium.com/p/3c55c0c79524) |
+| Tue, 17 Jun 2025 02:39:29 GMT | Quantum & Cybersecurity: When Hackers Stop Using Locks and Start Using Superfast Math Magic | Jai Advani | [Read More](https://medium.com/p/d39a7619940d) |
+| Tue, 17 Jun 2025 02:12:21 GMT | The Cyber Vanguard: Blaise Metreweli and the Strategic Recalibration of MI6 in the Digital Age | CCD-IS | [Read More](https://medium.com/p/e60a8c74a9ec) |
+| Tue, 17 Jun 2025 02:06:08 GMT | DoD Cyber Sentinel One 2025 CTF Write-Up of a Couple Flags | Madan Sharma | [Read More](https://medium.com/p/a668538a32d0) |
+| Tue, 17 Jun 2025 01:52:05 GMT | Implementing Agentic RAG Architecture for Machine Learning Threat Detection | Michael Rico | [Read More](https://medium.com/p/35be7f340ec0) |
 | Tue, 17 Jun 2025 01:46:42 GMT | Why I’m Writing on Medium: Cloud, AI, and Beyond | Saurabh Yadav | [Read More](https://medium.com/p/aa8726f303ee) |
+| Tue, 17 Jun 2025 01:44:34 GMT | WHY DIGITAL SECURITY SYSTEMS FAIL: AN ETHICAL HACKER’S PERSPECTIVE | handev.code | [Read More](https://medium.com/p/a08821df81f1) |
 | Tue, 17 Jun 2025 01:41:15 GMT | Prepared Database Queries: Bind by Position vs Bind by Name | Christopher Jones | [Read More](https://medium.com/p/14999f0ccca2) |
 | Tue, 17 Jun 2025 01:38:43 GMT | TryHackMe: Light — Walkthrough | 4A696E | [Read More](https://medium.com/p/9fbd63bb4099) |
 | Tue, 17 Jun 2025 01:31:13 GMT | c2Pac: Using Named Pipes for C2 Operations | Tom O'Neill | [Read More](https://medium.com/p/956fb2ffdc08) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 18:05:48 GMT | The Modern IT Management Stack: Unified Endpoint, Mobile Device, Remote Monitoring, and Patch… | Lokesh Baskar | [Read More](https://medium.com/p/a8cde3f74bd4) |
 | Mon, 16 Jun 2025 18:05:47 GMT | It Starts From Noise | Ushafa Wuakera | [Read More](https://medium.com/p/01b6e84ebebd) |
 | Mon, 16 Jun 2025 18:02:48 GMT | CROSS SITE REQUEST FORGERY — CSRF | Chandana Priya | [Read More](https://medium.com/p/7c5dec4273d2) |
-| Mon, 16 Jun 2025 17:57:03 GMT | Securing AI Agents: Authentication, Authorization, and Defense | Kuntal | [Read More](https://medium.com/p/d7f64a25aa09) |
-| Mon, 16 Jun 2025 17:52:59 GMT | Apache Benchmark (ab) — Stress-Test Your Web App in Minutes | Nnamdi Clement Azubuike | [Read More](https://medium.com/p/c8790a12111b) |
-| Mon, 16 Jun 2025 17:52:37 GMT | Cyber Security vs. Ethical Hacking: A Beginner’s Guide to Understanding the Differences | Mainekdeveloper | [Read More](https://medium.com/p/669d61b4a50e) |
-| Mon, 16 Jun 2025 17:50:29 GMT | What is crypto analysis and how does it work? | Millennials Mania | [Read More](https://medium.com/p/829f3f4f14fe) |
-| Mon, 16 Jun 2025 17:45:13 GMT | Exactly what is Cyber Security ? | saran | [Read More](https://medium.com/p/8046c2409551) |
-| Mon, 16 Jun 2025 17:35:00 GMT | --Hackertest.net--Walkthrough-- --Level 1–6-- | Mankiran Johar | [Read More](https://medium.com/p/e5c54917e33e) |
-| Mon, 16 Jun 2025 17:32:35 GMT | Texnologiya Nəhəngləri Gizlicə Sizi Necə İzləmiş Ola Bilər? | Hasan Azizov | [Read More](https://medium.com/p/8da3ace43ba4) |
-| Mon, 16 Jun 2025 17:29:44 GMT | A New Era in Advertising: Fully AI-Generated $2,000 Ad Airs During NBA Finals | Tech Thrilled | [Read More](https://medium.com/p/09adb851ef5c) |
-| Mon, 16 Jun 2025 17:28:11 GMT | Whimsy Bookshelf — Belajar menyimpan data ke SQLite database | Zifa Tea Azzahra | [Read More](https://medium.com/p/63092afe0845) |
