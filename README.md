@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 17:42:41 GMT | JavaScript, JWTs and the Key That Shouldn’t Exist | Aditya Bhatt | [Read More](https://medium.com/p/d97c01d0ce9e) |
+| Tue, 17 Jun 2025 17:34:08 GMT | Why Smart People Are Secretly Using VPNs (And You Should Too) | Rahulmarcellino | [Read More](https://medium.com/p/5d128eb195d8) |
+| Tue, 17 Jun 2025 17:32:40 GMT | Shadow AI: The Hidden Threat Lurking in Your Organization’s Tech Stack | Piyoosh Rai | [Read More](https://medium.com/p/686923b35aa0) |
+| Tue, 17 Jun 2025 17:28:16 GMT | Tools by MITRE ATT&CK Guide | Andrey Pautov | [Read More](https://medium.com/p/77c4d947ba36) |
+| Tue, 17 Jun 2025 17:26:46 GMT | Cyber Security for Oil and Gas Infrastructure: Challenges and Solutions | Nathan | [Read More](https://medium.com/p/8b493d25b124) |
+| Tue, 17 Jun 2025 17:22:46 GMT | Cycles That Drive Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/16f233cc311e) |
 | Tue, 17 Jun 2025 17:12:46 GMT | I Undressed, but Not Just My Clothes | Her Bedroom Gallery | [Read More](https://medium.com/p/2dcf95052d43) |
 | Tue, 17 Jun 2025 17:06:34 GMT | TryHackMe - Roundcube: CVE-2025-49113 - WriteUp | Axoloth | [Read More](https://medium.com/p/f2dfcdfa765f) |
 | Tue, 17 Jun 2025 17:04:37 GMT | TCM Practical Network Penetration Tester (PNPT) Study Notes & Guide & Review | Motasem Hamdan | [Read More](https://medium.com/p/d494064edbfe) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 12:47:10 GMT | Archetyp Market — Everything Comes to an End | Vicki Taylor | [Read More](https://medium.com/p/db6b874d2ff7) |
 | Tue, 17 Jun 2025 12:41:01 GMT | Who I Am When No One Is Watching Me | Kakoli Aster♡ | [Read More](https://medium.com/p/a6781f667072) |
 | Tue, 17 Jun 2025 12:39:04 GMT | How I Found an Open Redirect in a Login Endpoint (and Why It Matters) | TakiasSec | [Read More](https://medium.com/p/49afaf7109df) |
-| Tue, 17 Jun 2025 12:38:41 GMT | One Click to Collapse: Chaining Logic Flaw + CSRF to Take Down a SaaS Organization | CANITEY | [Read More](https://medium.com/p/7d58736fc6f9) |
-| Tue, 17 Jun 2025 12:35:51 GMT | Day 24: How do CPUs run programs | Nile Okomo | [Read More](https://medium.com/p/33418e3e55cb) |
-| Tue, 17 Jun 2025 12:26:02 GMT | I Hacked an Account Just by Tweaking an Email  (OAuth Implicit Flow Bypass) | Sumanth Yerranagula | [Read More](https://medium.com/p/e80bac47f19b) |
-| Tue, 17 Jun 2025 12:18:28 GMT | Data Lake Building Blocks — Part II | Ashish K | [Read More](https://medium.com/p/23a490102825) |
-| Tue, 17 Jun 2025 12:12:39 GMT | Outdated Software Cost This Retailer Thousands — Is Your Business Next? | Noel | [Read More](https://medium.com/p/e72cac747757) |
-| Tue, 17 Jun 2025 12:11:11 GMT | Securing Your Digital Wealth: Flitaa’s Commitment to Your Crypto Safety | Flitaa | [Read More](https://medium.com/p/b74f28676450) |
