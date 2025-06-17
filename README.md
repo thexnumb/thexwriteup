@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 20:41:02 GMT | Ignoring NIS2: What’s the Real Risk to Your Business? | J Bodys | [Read More](https://medium.com/p/a6e8b27ad847) |
+| Tue, 17 Jun 2025 20:40:54 GMT | is it possible to recover my money from Bitforex? | Lillian Mick | [Read More](https://medium.com/p/88425640b5fe) |
+| Tue, 17 Jun 2025 20:36:48 GMT | how do I get money out of Bitforex ? | Lillian Mick | [Read More](https://medium.com/p/531b03de5d35) |
+| Tue, 17 Jun 2025 20:33:06 GMT | Golden Ticket: A Hacker’s Passport to Unlimited Access | Sai Sathwik Ailneni | [Read More](https://medium.com/p/9269fc80921b) |
+| Tue, 17 Jun 2025 20:32:43 GMT | CSRF Vulnerabilities and Exploitation Techniques | musayyab sharif | [Read More](https://medium.com/p/759bec4a868f) |
+| Tue, 17 Jun 2025 20:25:10 GMT | Designing A Tech Company — My story on building Xerxes Enterprises & Xerxes Apollo. | The Architect Reaper | [Read More](https://medium.com/p/88e5dab6c1bc) |
+| Tue, 17 Jun 2025 20:20:19 GMT | أدوات الاختراق الأخلاقي: درعك السيبراني | Hbsca | [Read More](https://medium.com/p/978af3e4d1a4) |
 | Tue, 17 Jun 2025 20:19:48 GMT | I HACKED THE ADMIN WITH A SOCIAL LOGIN | Sumanth Yerranagula | [Read More](https://medium.com/p/5d7f496c51b8) |
+| Tue, 17 Jun 2025 20:12:45 GMT | Online Love, Real Scams | O. J. Okpabi | [Read More](https://medium.com/p/5b7a8d897767) |
 | Tue, 17 Jun 2025 20:04:51 GMT | INTERPOL Takes Down a Infostealers Operation | Matthew.Rosenquist | [Read More](https://medium.com/p/c9633077f1c8) |
 | Tue, 17 Jun 2025 20:04:04 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/3d39d34b02bf) |
 | Tue, 17 Jun 2025 20:00:04 GMT | Kali Linux — Post Update Message about sshd_config file | Bob Malin | [Read More](https://medium.com/p/622943826e3c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 15:05:43 GMT | Unlocking the Cybersecurity Job Market: From Fresher to Expert in 2025 | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/1333522c5e7a) |
 | Tue, 17 Jun 2025 15:00:03 GMT | Building Secure PHP Applications: Best Practices for Web Security | Ann R. | [Read More](https://medium.com/p/a43756fee9f6) |
 | Tue, 17 Jun 2025 14:56:26 GMT | CORS Errors in Laravel: Who’s to Blame and How to Fix Them Like a Pro! | zeeshan habib | [Read More](https://medium.com/p/08066bceb6b5) |
-| Tue, 17 Jun 2025 14:53:28 GMT | Videos from “CVE/FIRST VulnCon 2025” Now Available | CVE Program Blog | [Read More](https://medium.com/p/ae43e3c20329) |
-| Tue, 17 Jun 2025 14:52:48 GMT | Am I Not Enough? | Muskan Zahid | [Read More](https://medium.com/p/e78cfe2e81a9) |
-| Tue, 17 Jun 2025 14:44:44 GMT | Monitoring the Dark Web to Protect Your Business | Adefemi Onanuga | [Read More](https://medium.com/p/349d6fa81ead) |
-| Tue, 17 Jun 2025 14:44:30 GMT | ️ How to Check If a Website or Link Is Harmful or Dangerous — Tools & Techniques | Kshahabaj | [Read More](https://medium.com/p/078e03b40a89) |
-| Tue, 17 Jun 2025 14:42:22 GMT | THM — Basic Pentesting | Kostas Ereksonas | [Read More](https://medium.com/p/8b2b0913afe5) |
-| Tue, 17 Jun 2025 14:40:40 GMT | The First 20 Git Commands I Type in Every New Project (and Why They Matter) | Saikat Paul | [Read More](https://medium.com/p/62e23ff3d9cc) |
-| Tue, 17 Jun 2025 14:40:38 GMT | How to Block Apps on Android and Restrict Internet Access | Eva John | [Read More](https://medium.com/p/48e621f79400) |
-| Tue, 17 Jun 2025 14:38:37 GMT | Your CISO is ignoring the Consumer Agent Threat | Steve Jones | [Read More](https://medium.com/p/0cdad275d78f) |
