@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 01:46:42 GMT | Why I’m Writing on Medium: Cloud, AI, and Beyond | Saurabh Yadav | [Read More](https://medium.com/p/aa8726f303ee) |
+| Tue, 17 Jun 2025 01:41:15 GMT | Prepared Database Queries: Bind by Position vs Bind by Name | Christopher Jones | [Read More](https://medium.com/p/14999f0ccca2) |
+| Tue, 17 Jun 2025 01:38:43 GMT | TryHackMe: Light — Walkthrough | 4A696E | [Read More](https://medium.com/p/9fbd63bb4099) |
+| Tue, 17 Jun 2025 01:31:13 GMT | c2Pac: Using Named Pipes for C2 Operations | Tom O'Neill | [Read More](https://medium.com/p/956fb2ffdc08) |
+| Tue, 17 Jun 2025 01:18:47 GMT | Why Security Checklists Alone Are Insufficient for the Zero Trust Era | David A. Bray | [Read More](https://medium.com/p/79034ca0792f) |
+| Tue, 17 Jun 2025 01:18:35 GMT | Introduction — Fileless Malware | Kunal Rajour | [Read More](https://medium.com/p/961d00c8ab0c) |
+| Tue, 17 Jun 2025 01:16:17 GMT | Tuesday Morning Threat Report: June 17, 2025 | Mark Maguire | [Read More](https://medium.com/p/f3418c465a47) |
+| Tue, 17 Jun 2025 01:16:05 GMT | ️ Examples of Top Red Team Tools for 2025 | Ekene Joseph | [Read More](https://medium.com/p/9ba46b3d3da8) |
+| Tue, 17 Jun 2025 00:58:09 GMT | DAST TryHackMe Walkthrough - TryHackMe Writeup - THM | Angie | [Read More](https://medium.com/p/0b5e900f662e) |
+| Tue, 17 Jun 2025 00:06:32 GMT | RedTeamGPT: How AI Is Revolutionizing Offensive Security & Red Team Operations | Ekene Joseph | [Read More](https://medium.com/p/11d7f0167ca6) |
+| Tue, 17 Jun 2025 00:01:36 GMT | Cómo Usar Subfinder para Bug Bounty: Guía Completa con Ejemplos y Tips Avanzados | JPablo13 | [Read More](https://medium.com/p/d9260eeb06a1) |
+| Mon, 16 Jun 2025 23:48:42 GMT | Reflected XSS Exposed: How a Simple Query Parameter Exposed Informatica’s | Monika sharma | [Read More](https://medium.com/p/6d5b495d9fd6) |
+| Mon, 16 Jun 2025 23:48:29 GMT | Fuzzing Hidden HTTP Methods for Admin Access | Monika sharma | [Read More](https://medium.com/p/ff83f3db6083) |
+| Mon, 16 Jun 2025 23:48:23 GMT | ️‍♂️ From Curiosity to Creation: How We Built an OSINT Tool for Real-World Investigations | Vinoth Dayalan | [Read More](https://medium.com/p/4b58a5b911ca) |
+| Mon, 16 Jun 2025 23:45:47 GMT | Stop Storing Secrets Wrong: The Right Way to Encrypt Data in Android | Chamod Lakmal | [Read More](https://medium.com/p/f396e57a2f97) |
+| Mon, 16 Jun 2025 23:43:00 GMT | Rethinking Hiring: Why Cybersecurity Leadership Starts with Talent | Yaroslav | [Read More](https://medium.com/p/4bd95166b3e4) |
+| Mon, 16 Jun 2025 23:34:48 GMT | When Everyone’s Talking But No One’s Saying Anything | Sumer Lynch - The Hidden Blueprint | [Read More](https://medium.com/p/d2830c1abd4f) |
 | Mon, 16 Jun 2025 23:31:36 GMT | Unit 42 Managed XSIAM by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/e46ac6e5c46a) |
 | Mon, 16 Jun 2025 23:28:45 GMT | Outpouring… | Boma J | [Read More](https://medium.com/p/3b76d1b2947e) |
 | Mon, 16 Jun 2025 23:27:23 GMT | “My Wardriving Setup: Laptop and TP-Link Adapter” | Canonminibeast | [Read More](https://medium.com/p/860354698d84) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 17:32:35 GMT | Texnologiya Nəhəngləri Gizlicə Sizi Necə İzləmiş Ola Bilər? | Hasan Azizov | [Read More](https://medium.com/p/8da3ace43ba4) |
 | Mon, 16 Jun 2025 17:29:44 GMT | A New Era in Advertising: Fully AI-Generated $2,000 Ad Airs During NBA Finals | Tech Thrilled | [Read More](https://medium.com/p/09adb851ef5c) |
 | Mon, 16 Jun 2025 17:28:11 GMT | Whimsy Bookshelf — Belajar menyimpan data ke SQLite database | Zifa Tea Azzahra | [Read More](https://medium.com/p/63092afe0845) |
-| Mon, 16 Jun 2025 17:18:23 GMT | Energy Cybersecurity: Securing Critical Infrastructure in the Digital Age | Devashverma | [Read More](https://medium.com/p/96df298a9f97) |
-| Mon, 16 Jun 2025 17:14:42 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/eb1f3dbb1f0c) |
-| Mon, 16 Jun 2025 17:10:43 GMT | National Public Data Breach: How 2.9 Billion Records Were Exposed | Nexanet | [Read More](https://medium.com/p/761e353138de) |
-| Mon, 16 Jun 2025 17:09:23 GMT | Embrace the slow life for when the apocalypse comes (or when China attacks) | Christopher Johnston | [Read More](https://medium.com/p/386b3049508a) |
-| Mon, 16 Jun 2025 17:01:04 GMT | Why My ADHD Brain Is Actually Ready for Quantum Computing (When Yours Might Not Be) | Raymond Brunell | [Read More](https://medium.com/p/1691f2e352d0) |
-| Mon, 16 Jun 2025 16:58:47 GMT | VulnHub Noob Machine — Adım Adım Çözüm Anlatımı | Furkan Doğmuş | [Read More](https://medium.com/p/e9b67146f9d6) |
-| Mon, 16 Jun 2025 16:56:42 GMT | Haq.ai is Live | Devin Clary | [Read More](https://medium.com/p/1037fd669a0a) |
-| Mon, 16 Jun 2025 16:52:59 GMT | HIPAA Compliance Success Key: What Every Organization Must Know | SafeAeon Inc. | [Read More](https://medium.com/p/bd0ef176656b) |
-| Mon, 16 Jun 2025 16:52:07 GMT | Why Hackers Hack People, Not Just Computers | Myles Sherman | [Read More](https://medium.com/p/1a4c844429d2) |
-| Mon, 16 Jun 2025 16:50:10 GMT | SOAR x EDR Integration for Automated Incident Alerting & Response: PART II | Godspower Melariri-okwu | [Read More](https://medium.com/p/b7a814b7dfc9) |
-| Mon, 16 Jun 2025 16:48:04 GMT | BehindTheScreens: Silent Storms and Loud Breaches(June 9–16, 2025) | Sam - Behind The Screens | [Read More](https://medium.com/p/ff685bd55207) |
-| Mon, 16 Jun 2025 16:46:52 GMT | WebStrike - CyberDefenders Lab Walkthrough | Solvenite | [Read More](https://medium.com/p/154d376d8171) |
-| Mon, 16 Jun 2025 16:46:21 GMT | ️ Blue Team Hat Certificate: Importance, Story & Meaning | Midhun Thomas PT | [Read More](https://medium.com/p/07dc1caac60f) |
-| Mon, 16 Jun 2025 16:45:54 GMT | ️ Day 65 — Signal Trapping in Bash: Secure Exit and Cleanup | Agarwaldaksh | [Read More](https://medium.com/p/dcf77fff07eb) |
-| Mon, 16 Jun 2025 16:40:54 GMT | Stop the Phishing Flood: The IAM Strategy That Makes Hackers Give Up | Dr. Shashi Karhail | [Read More](https://medium.com/p/4e9f27adbd5c) |
-| Mon, 16 Jun 2025 16:38:20 GMT | Pre-Training Neural Networks is Not Always Beneficial | Five Insights | [Read More](https://medium.com/p/1c3f34a0cd89) |
-| Mon, 16 Jun 2025 16:36:10 GMT | 10 Practical Tips to Protect Yourself from AI Photo Morphing and Deepfakes Online | Er Raj Aryan | [Read More](https://medium.com/p/d3e4ebf8c270) |
