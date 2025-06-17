@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 23:29:33 GMT | Critical .NET and .NET Framework Updates Issued in June 2025: Addressing a Remote Code Execution | Max | [Read More](https://medium.com/p/2f5ace9fa079) |
+| Tue, 17 Jun 2025 23:28:23 GMT | No, Don’t Stop the Bleeding | Wesley Belleman | [Read More](https://medium.com/p/e5b7d184f7bb) |
+| Tue, 17 Jun 2025 23:21:28 GMT | Meta Pool security incident on mpETH contract on Ethereum | metapool.near | [Read More](https://medium.com/p/ba7a328d45c6) |
 | Tue, 17 Jun 2025 23:04:49 GMT | ISO 27001 Certification? Here’s Your Survival Guide | Max Secure | [Read More](https://medium.com/p/e64388fcb339) |
 | Tue, 17 Jun 2025 22:36:35 GMT | Switching from QA to Security in my 40s | JVANVS | [Read More](https://medium.com/p/960ce96dbe8f) |
 | Tue, 17 Jun 2025 22:25:21 GMT | Week 1: Top 5 Regulations and Why They Matter | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/a02237be8971) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 16:23:11 GMT | How AI Is Making Your Healthcare Smarter, Safer, and Just for You | Payaam Raza | [Read More](https://medium.com/p/b53247eaad03) |
 | Tue, 17 Jun 2025 16:15:21 GMT | From 0.0.0.0/0 to Locked Down | Hiranmayi | [Read More](https://medium.com/p/8596f198b27f) |
 | Tue, 17 Jun 2025 16:14:57 GMT | Towards Measurable Security in Agentic AI | Gauri Sharma | [Read More](https://medium.com/p/2d0cc4147fe8) |
-| Tue, 17 Jun 2025 16:12:27 GMT | TryHackMe’s Blue CTF Writeup/Walkthrough | Benedict Agno | [Read More](https://medium.com/p/c2243d8fe0fc) |
-| Tue, 17 Jun 2025 16:08:55 GMT | Effective Key Holding Services for Enhanced Security | Travel time | [Read More](https://medium.com/p/d63d4c86d1a8) |
-| Tue, 17 Jun 2025 16:00:43 GMT | Read This Before You Click That Suspicious Email Link: How to Outsmart Phishing Scams Like a… | Saikat Paul | [Read More](https://medium.com/p/9977be38c769) |
