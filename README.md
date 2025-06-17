@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 13:30:22 GMT | Best AI-powered assistants for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/52d01c95802c) |
+| Tue, 17 Jun 2025 13:29:36 GMT | Finding the Right IT Service Provider: A Smart Business Move | Nexgits | [Read More](https://medium.com/p/e9771801e854) |
+| Tue, 17 Jun 2025 13:28:30 GMT | What Makes EDSPL’s SOC the Nerve Center of 24x7 Cyber Defense? | saurabh cyberinfomines | [Read More](https://medium.com/p/0038f431101e) |
+| Tue, 17 Jun 2025 13:26:59 GMT | Cybersecurity for the Rest of Us: Phishing — It’s Not Just for Grandpa’s Bass Boat | Bryan Zimmerman | [Read More](https://medium.com/p/f408e731ab25) |
+| Tue, 17 Jun 2025 13:25:52 GMT | Hackers Don’t Just Break Code — They Break Human Behavior | David SEHYEON Baek | [Read More](https://medium.com/p/fc88af9baddb) |
+| Tue, 17 Jun 2025 13:24:19 GMT | Three steps to post-quantum cryptography | Thoughtworks | [Read More](https://medium.com/p/8e68e39270f9) |
+| Tue, 17 Jun 2025 13:23:57 GMT | Worst-Case Scenarios of AI Platform Account Hacks | David SEHYEON Baek | [Read More](https://medium.com/p/62c16d09ea0b) |
+| Tue, 17 Jun 2025 13:22:42 GMT | How AI is Transforming Federal Cybersecurity: Proven Use Cases from NR Labs | Michael Fraser | [Read More](https://medium.com/p/52f60657cc96) |
+| Tue, 17 Jun 2025 13:22:09 GMT | Mastering chattr and lsattr: The Definitive Guide to Linux File Attributes | Ashish Singh | [Read More](https://medium.com/p/34eefb1b32e2) |
+| Tue, 17 Jun 2025 13:21:51 GMT | Chinese, North Korean, and Russian State-Sponsored Cyber Operations | David SEHYEON Baek | [Read More](https://medium.com/p/c6a8c0dcd07a) |
+| Tue, 17 Jun 2025 13:19:02 GMT | Cybersecurity for the Rest of Us: Your Password Sucks (And Mine Used To, Too) | Bryan Zimmerman | [Read More](https://medium.com/p/b3e15158c206) |
+| Tue, 17 Jun 2025 13:15:37 GMT | Still think Iranian ops are all espionage and no cha-ching? | Wes Young | [Read More](https://medium.com/p/2ab7a0cccfe1) |
+| Tue, 17 Jun 2025 13:12:58 GMT | How to Hack Any WAF with Just One cURL Command | Ibtissam hammadi | [Read More](https://medium.com/p/7f91ffa9c942) |
+| Tue, 17 Jun 2025 13:12:36 GMT | Penetration Testing Company | StrongBox IT | [Read More](https://medium.com/p/337f82e4e895) |
+| Tue, 17 Jun 2025 13:07:09 GMT | Beyond the Buzzword: Why Systems Security Engineering Delivers More Than Zero Trust Ever Could | Peter Hillier | [Read More](https://medium.com/p/e60065804d0d) |
+| Tue, 17 Jun 2025 13:04:34 GMT | Spot a Reliable Security Agency in Mumbai Easily | United Guard Force India | [Read More](https://medium.com/p/4416eb2abdb0) |
+| Tue, 17 Jun 2025 13:03:56 GMT | Reconnaissance Using Nmap | Zelvy Fauzan | [Read More](https://medium.com/p/898fb652822c) |
+| Tue, 17 Jun 2025 12:57:43 GMT | IoT Cihazlarında Görünmeyen Tehlike: Bir Güvenlik Testinin Anatomisi | Servet | [Read More](https://medium.com/p/cb5bd30577af) |
+| Tue, 17 Jun 2025 12:47:10 GMT | Archetyp Market — Everything Comes to an End | Vicki Taylor | [Read More](https://medium.com/p/db6b874d2ff7) |
+| Tue, 17 Jun 2025 12:41:01 GMT | Who I Am When No One Is Watching Me | Kakoli Aster♡ | [Read More](https://medium.com/p/a6781f667072) |
 | Tue, 17 Jun 2025 12:39:04 GMT | How I Found an Open Redirect in a Login Endpoint (and Why It Matters) | TakiasSec | [Read More](https://medium.com/p/49afaf7109df) |
 | Tue, 17 Jun 2025 12:35:51 GMT | Day 24: How do CPUs run programs | Nile Okomo | [Read More](https://medium.com/p/33418e3e55cb) |
 | Tue, 17 Jun 2025 12:26:02 GMT | I Hacked an Account Just by Tweaking an Email  (OAuth Implicit Flow Bypass) | Sumanth Yerranagula | [Read More](https://medium.com/p/e80bac47f19b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 08:36:26 GMT | How Indonesian Businesses Are Saving Millions Through Smart Fleet Technology | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/faa18ed8c73b) |
 | Tue, 17 Jun 2025 08:35:20 GMT | Bicep Snapshot ✨ | Brian Veldman | [Read More](https://medium.com/p/478c7329328e) |
 | Tue, 17 Jun 2025 08:32:37 GMT | Bug Bounty: The Harsh Truth (My Story) | Karthikeyan | [Read More](https://medium.com/p/a0858f984344) |
-| Tue, 17 Jun 2025 08:31:54 GMT | Investigating Relay Scams: What’s New in Your Spam? | Rishika Desai | [Read More](https://medium.com/p/ba05259af985) |
-| Tue, 17 Jun 2025 08:28:21 GMT | Become a Certified Cloud Security Engineer: Your Ultimate Guide to EC-Council’s Cloud Security… | Shreyashettyctr | [Read More](https://medium.com/p/877675550e85) |
-| Tue, 17 Jun 2025 08:21:32 GMT | Turn Your Raspberry Pi Pico into a USB Rubber Ducky (5-Minute Setup) | Agape HearTs | [Read More](https://medium.com/p/5767da9432c6) |
-| Tue, 17 Jun 2025 08:18:51 GMT | Sosyal Medya Dolandırıcılıkları: Göz Açıp Kapayıncaya Kadar! | Fatma Öner | [Read More](https://medium.com/p/ebc295ec8af6) |
-| Tue, 17 Jun 2025 08:10:40 GMT | Where Have I Been?! | Richard Atanasov | [Read More](https://medium.com/p/843650f73dbc) |
-| Tue, 17 Jun 2025 08:09:08 GMT | Forbidden but Not Forgotten: How an HTTP 403 Made Me a Superadmin | Iski | [Read More](https://medium.com/p/6f769c4a9952) |
-| Tue, 17 Jun 2025 08:05:05 GMT | The Daily Tech Digest: 17 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/ece136392c45) |
-| Tue, 17 Jun 2025 08:03:18 GMT | Cyber Awareness in 2025: The Skill You Can’t Afford to Ignore | Vaishnavs | [Read More](https://medium.com/p/ece64985bafb) |
-| Tue, 17 Jun 2025 08:02:19 GMT | Locked Down and Leveled Up: Hardening My Home Lab by Creating a Domain Controller with Tiered… | Saikat Paul | [Read More](https://medium.com/p/c63464860e6c) |
-| Tue, 17 Jun 2025 07:59:50 GMT | The Daily Tech Digest: 16 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/0579eb000db7) |
-| Tue, 17 Jun 2025 07:52:21 GMT | Why You (Yes, You) Might Need a Blogspot in 2025 | Shimanta Chakraborty | [Read More](https://medium.com/p/780dece70af3) |
-| Tue, 17 Jun 2025 07:51:30 GMT | How to Get Cybersecurity Companies Email List — Your Best Lead Generation Solution | B2B Data Insider | [Read More](https://medium.com/p/d79beb712f04) |
-| Tue, 17 Jun 2025 07:47:35 GMT | What is a Proxy Server? The middleman of the internet | Bridget | [Read More](https://medium.com/p/8757e3136549) |
-| Tue, 17 Jun 2025 07:35:09 GMT | Technavors Security Launches AppSec as a Service: Redefining the Future of Application Security | Technavors Security | [Read More](https://medium.com/p/4cac73307f60) |
-| Tue, 17 Jun 2025 07:28:27 GMT | AI-Driven Cybersecurity: How Robustix Labs Can Help Protect Your Organisation | Seb AGUELE | [Read More](https://medium.com/p/b47161989168) |
-| Tue, 17 Jun 2025 07:27:15 GMT | How to Install OpenCTI on Fedora: A Beginner-Friendly, Step-by-Step Guide | cybrNK | [Read More](https://medium.com/p/3402358b4144) |
-| Tue, 17 Jun 2025 07:27:09 GMT | Knowing the truth | Iharshrajput | [Read More](https://medium.com/p/602e750a8ec3) |
-| Tue, 17 Jun 2025 07:26:14 GMT | AI-Driven FinTech Cybersecurity: Can Your Platform Survive the Next Big Breach in 2025? | Alice Jones | [Read More](https://medium.com/p/e6f890fd9c18) |
-| Tue, 17 Jun 2025 07:19:35 GMT | Understanding Reconnaissance and Vulnerability Scanning in Cybersecurity | Darshan | [Read More](https://medium.com/p/dce5365f1a50) |
-| Tue, 17 Jun 2025 07:07:41 GMT | Essential Elements of a PIPEDA-Compliant Privacy Policy | Tsaaro Consulting | [Read More](https://medium.com/p/738101926fa5) |
