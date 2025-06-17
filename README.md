@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 19:36:19 GMT | Day 2/100: Networking Concepts | 0X595 | [Read More](https://medium.com/p/2ebf1360ad16) |
+| Tue, 17 Jun 2025 19:34:37 GMT | Cyber Hygiene for the Hustler | O. J. Okpabi | [Read More](https://medium.com/p/68800c2f5783) |
+| Tue, 17 Jun 2025 19:33:13 GMT | Labyrinth Linguist — Step-by-Step Write-Up of an HTB Web Challenge | Saurabh | [Read More](https://medium.com/p/950c89e7460c) |
+| Tue, 17 Jun 2025 19:31:58 GMT | Anubis Ransomware: A Comprehensive Analysis of a Lethal Cyber Threat | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/afc5e2e09e16) |
+| Tue, 17 Jun 2025 19:27:32 GMT | The Future of Cybersecurity: Trends You Can’t Ignore | Yatin | [Read More](https://medium.com/p/7c96b41da511) |
+| Tue, 17 Jun 2025 19:27:23 GMT | Hack the Hunt: Operationalizing the OODA Loop in Cybersecurity | Mike Rebultan | [Read More](https://medium.com/p/7ce0e6cf5907) |
+| Tue, 17 Jun 2025 19:24:44 GMT | InjuredAndroid Android CTF write-up, Part I | Francesco Masi | [Read More](https://medium.com/p/7394ffd33ba7) |
+| Tue, 17 Jun 2025 19:23:10 GMT | Container security at scale: Building untrusted images safely | Depot | [Read More](https://medium.com/p/d05ab3932695) |
+| Tue, 17 Jun 2025 19:21:22 GMT | Siber Güvenliğe Giriş — 6 (Örnek AĞ TOPOLOJİSİ | Emre TOPUZ | [Read More](https://medium.com/p/ec30ea36e3f7) |
+| Tue, 17 Jun 2025 19:21:03 GMT | Unpacking Your Credit Card Payment: The High-Tech Ballet Behind Every Tap and Swipe | Gokul Kannan | [Read More](https://medium.com/p/fb8f3e3ae676) |
+| Tue, 17 Jun 2025 19:17:23 GMT | The Ultimate Guide to Default Credentials, Custom Wordlists & Hash Cracking Techniques | Very Lazy Tech | [Read More](https://medium.com/p/66e64cbebd4e) |
+| Tue, 17 Jun 2025 19:11:50 GMT | “Maybe we should wash our hands?” | M H | [Read More](https://medium.com/p/f8476248ce7d) |
+| Tue, 17 Jun 2025 19:11:45 GMT | How Spring Security Prevents Clickjacking: A Comprehensive Guide | Umesh Kumar Yadav | [Read More](https://medium.com/p/8e02be66dc9a) |
 | Tue, 17 Jun 2025 19:08:09 GMT | First | Abster Teknologi Indonesia | [Read More](https://medium.com/p/035ecc618dca) |
 | Tue, 17 Jun 2025 19:06:35 GMT | Beware of the Fake Job Scam: Deep Dive into qubitsinfotechsolution.tech | NIkhil Kumar | [Read More](https://medium.com/p/84057a202409) |
 | Tue, 17 Jun 2025 19:06:02 GMT | How Credential Dumpers Work: Building an LSASS Memory Extractor in C | Moataz Osama | [Read More](https://medium.com/p/9bc00fe978c0) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 14:13:38 GMT | Demystifying SIEM: How I Built a Real-Time AI Detection Pipeline in Pure Python | Ahmed Sobhi Ali | [Read More](https://medium.com/p/24ee10974587) |
 | Tue, 17 Jun 2025 14:12:07 GMT | Threat Hunting: Your Digital Neighborhood Watch Against Hidden Adversaries | Aj | [Read More](https://medium.com/p/1e56d029a0b0) |
 | Tue, 17 Jun 2025 14:12:00 GMT | AuthGuardian: My Splunk-Powered Journey into Authentication Log Analysis & Security Monitoring | Yug Shah | [Read More](https://medium.com/p/9564e8dfe47e) |
-| Tue, 17 Jun 2025 14:11:45 GMT | Authentication vs Authorization in APIs: Know the Difference | Code Crack | [Read More](https://medium.com/p/3025870d31cd) |
-| Tue, 17 Jun 2025 14:04:53 GMT | Protecting Your Digital Footprint During Protests: A Guide for Kenyan Techies | Kennedy Kimtai Langat | [Read More](https://medium.com/p/98b1060bfe46) |
-| Tue, 17 Jun 2025 14:01:44 GMT | Securing the future of remote patient monitoring: how AI can help — and why trust matters | Ana Wagner Oroz | [Read More](https://medium.com/p/201ff0217e90) |
-| Tue, 17 Jun 2025 14:01:43 GMT | Early Testing Prevents Expensive Mistakes Pt. 1 | Zoe Mercado | [Read More](https://medium.com/p/620f39f4ddad) |
-| Tue, 17 Jun 2025 14:00:37 GMT | Cyber Briefing: 2025.06.17 | CyberMaterial | [Read More](https://medium.com/p/54ae6206600f) |
-| Tue, 17 Jun 2025 13:51:08 GMT | Does Your Smile Hide Your Storm? | Preeta | [Read More](https://medium.com/p/4119f82999c1) |
-| Tue, 17 Jun 2025 13:45:42 GMT | A Beginner’s Guide to Writing Secure Code | Mahabubur Rahman | [Read More](https://medium.com/p/4afbaf80ec3e) |
-| Tue, 17 Jun 2025 13:37:47 GMT | Why Front Desk Security Is a Smart Investment for Brampton Office Buildings | Diligent Security Services | [Read More](https://medium.com/p/34f182b75286) |
-| Tue, 17 Jun 2025 13:36:26 GMT | Cloud Pentest Walkthrough: S3 Misconfig + SSRF to EC2 Metadata Extraction | AarushGaur | [Read More](https://medium.com/p/1cc641a12348) |
-| Tue, 17 Jun 2025 13:34:35 GMT | Hacking AI: 6 Battle-Tested Ways to Defend Your Chatbot | Akshay Sapra | [Read More](https://medium.com/p/ec12117a931b) |
-| Tue, 17 Jun 2025 13:34:09 GMT | From Error to Solution: A Complete Guide to Installing Screenshot Monitor on Linux (Ubuntu/Pop!_OS) | Luiz Paulo Coutinho | [Read More](https://medium.com/p/69a6a44503e7) |
-| Tue, 17 Jun 2025 13:30:22 GMT | Best AI-powered assistants for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/52d01c95802c) |
-| Tue, 17 Jun 2025 13:29:36 GMT | Finding the Right IT Service Provider: A Smart Business Move | Nexgits | [Read More](https://medium.com/p/e9771801e854) |
