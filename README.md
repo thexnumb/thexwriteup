@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 17:12:46 GMT | I Undressed, but Not Just My Clothes | Her Bedroom Gallery | [Read More](https://medium.com/p/2dcf95052d43) |
+| Tue, 17 Jun 2025 17:06:34 GMT | TryHackMe - Roundcube: CVE-2025-49113 - WriteUp | Axoloth | [Read More](https://medium.com/p/f2dfcdfa765f) |
+| Tue, 17 Jun 2025 17:04:37 GMT | TCM Practical Network Penetration Tester (PNPT) Study Notes & Guide & Review | Motasem Hamdan | [Read More](https://medium.com/p/d494064edbfe) |
+| Tue, 17 Jun 2025 17:04:01 GMT | Best cyber security course in India | Online course provider- Data science, AI, etc | [Read More](https://medium.com/p/9cbfb2f76bf6) |
+| Tue, 17 Jun 2025 16:59:55 GMT | Balancing Automation and Security: A Guide for SMBs Using n8n, Make, and Zapier | Keith Foster | [Read More](https://medium.com/p/9e98479339a0) |
+| Tue, 17 Jun 2025 16:59:44 GMT | Don’t Get Played | Eina Schroeder | [Read More](https://medium.com/p/dc0322f9db3b) |
+| Tue, 17 Jun 2025 16:58:20 GMT | Security Champions Aren’t Just for Devs — Why You Need Them in QA, Ops, and Product | Security Consulting Blogspot | [Read More](https://medium.com/p/ed8a7746e6f8) |
+| Tue, 17 Jun 2025 16:51:13 GMT | One Click Away: Why Cybersecurity Awareness Must Be Ongoing | Ben Kemp | [Read More](https://medium.com/p/655663392fa0) |
+| Tue, 17 Jun 2025 16:50:48 GMT | Why Start a Cyber Security Career in 2025? | Online course provider- Data science, AI, etc | [Read More](https://medium.com/p/9995673fc76f) |
 | Tue, 17 Jun 2025 16:45:10 GMT | Why Backend Engineers Should Care About Prompt Injection Attacks | Pranav Prakash | [Read More](https://medium.com/p/3adbd75f0cc5) |
 | Tue, 17 Jun 2025 16:37:28 GMT | Why Securing Non-Human Identities Should Be a Top Priority in 2025 | TheReviewHive | [Read More](https://medium.com/p/fbe7d09bb08d) |
 | Tue, 17 Jun 2025 16:35:26 GMT | Risk is Everywhere: How Prioritization and the Risk Matrix Help Us Focus on What Matters Most | Brittney Ginther | [Read More](https://medium.com/p/534eac1df3ac) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 12:18:28 GMT | Data Lake Building Blocks — Part II | Ashish K | [Read More](https://medium.com/p/23a490102825) |
 | Tue, 17 Jun 2025 12:12:39 GMT | Outdated Software Cost This Retailer Thousands — Is Your Business Next? | Noel | [Read More](https://medium.com/p/e72cac747757) |
 | Tue, 17 Jun 2025 12:11:11 GMT | Securing Your Digital Wealth: Flitaa’s Commitment to Your Crypto Safety | Flitaa | [Read More](https://medium.com/p/b74f28676450) |
-| Tue, 17 Jun 2025 12:10:29 GMT | WARNING: This 2025 Cybersecurity Glitch Turned Real Files Into Digital Nightmares | Noel | [Read More](https://medium.com/p/90d540bce46c) |
-| Tue, 17 Jun 2025 12:07:59 GMT | Boost Your Career with Cybersecurity Certification | Springlearn | [Read More](https://medium.com/p/bb4fc6fa7450) |
-| Tue, 17 Jun 2025 12:05:09 GMT | Uncovering huzoxhu4.f6q5–3d Software: What You Should Know | Backlinksexpert | [Read More](https://medium.com/p/2f616b3458db) |
-| Tue, 17 Jun 2025 12:02:03 GMT | The AI Reckoning in Cybersecurity: Why Architecture, Governance, and Talent Are the Real… | Pratyush Goel | [Read More](https://medium.com/p/194f8f4f2afa) |
-| Tue, 17 Jun 2025 11:56:06 GMT | How To Join an Ethical Hacking Course? | The Drop Organization | [Read More](https://medium.com/p/4e0be7b91b66) |
-| Tue, 17 Jun 2025 11:55:20 GMT | The Programming Languages That Will Be Obsolete by 2026: Act fast on Migration | Saikat Paul | [Read More](https://medium.com/p/6239b498dcaf) |
-| Tue, 17 Jun 2025 11:54:51 GMT | Why Virtual CISOs Are the Smartest Cybersecurity Move for 2025 | DefenceRabbit | [Read More](https://medium.com/p/e8c66ae099df) |
-| Tue, 17 Jun 2025 11:53:19 GMT | Securing Saudi Arabia’s Digital Transformation: How Dsquare Global is Defending the Kingdom’s… | Dsquare Global Analytics | [Read More](https://medium.com/p/588492f18906) |
-| Tue, 17 Jun 2025 11:45:19 GMT | The Future of International Cyber Treaties: Is a Digital Geneva Convention Possible? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/e3ee60c8163a) |
