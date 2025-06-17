@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 10:42:36 GMT | I Just Earned My CCNA | Diogo Neto | [Read More](https://medium.com/p/bc755158e402) |
+| Tue, 17 Jun 2025 10:40:42 GMT | Cyber Security Is the Future — Learn It Now with Osiz Labs | Osiz Labs | [Read More](https://medium.com/p/05722ce32c26) |
+| Tue, 17 Jun 2025 10:31:13 GMT | Learn AWS Lambda by Solving a $1M Security Problem | Akhilesh Mishra | [Read More](https://medium.com/p/2440f82757e3) |
+| Tue, 17 Jun 2025 10:30:04 GMT | Cloud Project 1-Creating a Static Website Using Amazon S3 | Frederick Osei | [Read More](https://medium.com/p/fa435e563d09) |
+| Tue, 17 Jun 2025 10:27:20 GMT | Choose the Best Long-Term Security Agency Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/81335dd54d68) |
+| Tue, 17 Jun 2025 10:23:38 GMT | Configuring a Network and Its Security in a Small Office/Home Office: A Practical Demonstration | Zelvy Fauzan | [Read More](https://medium.com/p/bf4bfcf6e2fa) |
+| Tue, 17 Jun 2025 10:23:27 GMT | “You’re never gonna make it here in Germany” my host mom screamed at me. | Miles Silarde | [Read More](https://medium.com/p/c668c3e0d32b) |
+| Tue, 17 Jun 2025 10:22:42 GMT | HTML Injection: The Overlooked Exploit Every Developer Should Know | Rajat Patel | [Read More](https://medium.com/p/038d80f21e94) |
+| Tue, 17 Jun 2025 10:22:27 GMT | Rate Limit Bypass: Techniques, Real-World Examples, and How to Defend Against It | Rajat Patel | [Read More](https://medium.com/p/5fd0d82673db) |
 | Tue, 17 Jun 2025 10:10:25 GMT | Why DevSecOps is the Future: Integrating Security into the CI/CD Pipeline | Shreyashettyctr | [Read More](https://medium.com/p/eacb5da2274c) |
 | Tue, 17 Jun 2025 10:06:49 GMT | Your First Line of Defense: How Cybersecurity Consulting Services Secure Endpoints and Networks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/fdd1524cd1d2) |
 | Tue, 17 Jun 2025 10:05:15 GMT | How I Stopped Hardcoding Passwords: My Hands-On Journey with AWS Secrets Manager | Aashishchaudhari | [Read More](https://medium.com/p/554d42121007) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 05:40:37 GMT | Benefits of Penetration Testing: Prevention is Less Costly Than Cure | StrongBox IT | [Read More](https://medium.com/p/54dd2c7035bf) |
 | Tue, 17 Jun 2025 05:37:58 GMT | CTF Day(17) | Ahmed Narmer | [Read More](https://medium.com/p/24ec4fd7a7e5) |
 | Tue, 17 Jun 2025 05:34:22 GMT | Outdoor Asset Protection: Smart Strategies to Secure Your Site | Sukhwinder | [Read More](https://medium.com/p/b274c2423747) |
-| Tue, 17 Jun 2025 05:32:39 GMT | How Precision Errors in UI Can Slip Through Automation — A Real-World Case Study | Gaurav Khurana | [Read More](https://medium.com/p/2316f04b763b) |
-| Tue, 17 Jun 2025 05:29:12 GMT | Stealers | umbraXsecure | [Read More](https://medium.com/p/8560bc735b89) |
-| Tue, 17 Jun 2025 05:28:21 GMT | Why OSCP Is Essential for Cybersecurity Professionals in 2025 | ThreatVector | [Read More](https://medium.com/p/962a2d69754f) |
-| Tue, 17 Jun 2025 05:23:37 GMT | Letting Go of “Being Put-Together” and Learning to Accept Help | mizuka | [Read More](https://medium.com/p/b08b290191ce) |
-| Tue, 17 Jun 2025 05:22:28 GMT | いつも120%”で生きてきた私が、力を抜く練習を始めた理由 | mizuka | [Read More](https://medium.com/p/f1fa4d6a7b4f) |
-| Tue, 17 Jun 2025 05:21:21 GMT | Beware! Old Discord Invites Are the New Malware Party Crashers | Akash P | [Read More](https://medium.com/p/3a88bd527b62) |
-| Tue, 17 Jun 2025 05:20:01 GMT | Expired Discord Invite Links Used to Deliver Malware Targeting Crypto Wallets | MohitV | [Read More](https://medium.com/p/12661313f11b) |
-| Tue, 17 Jun 2025 05:18:25 GMT | Discord Invite Link Hijacking: A Sophisticated Malware Campaign Targeting Crypto Users | Srinivasps | [Read More](https://medium.com/p/748a908ede55) |
-| Tue, 17 Jun 2025 05:12:22 GMT | Top 30 Hidden PowerShell Modules for Security Automation | Bl@ckC!pH3r | [Read More](https://medium.com/p/7913c01464e9) |
