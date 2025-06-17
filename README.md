@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 12:39:04 GMT | How I Found an Open Redirect in a Login Endpoint (and Why It Matters) | TakiasSec | [Read More](https://medium.com/p/49afaf7109df) |
+| Tue, 17 Jun 2025 12:35:51 GMT | Day 24: How do CPUs run programs | Nile Okomo | [Read More](https://medium.com/p/33418e3e55cb) |
+| Tue, 17 Jun 2025 12:26:02 GMT | I Hacked an Account Just by Tweaking an Email  (OAuth Implicit Flow Bypass) | Sumanth Yerranagula | [Read More](https://medium.com/p/e80bac47f19b) |
+| Tue, 17 Jun 2025 12:18:28 GMT | Data Lake Building Blocks — Part II | Ashish K | [Read More](https://medium.com/p/23a490102825) |
+| Tue, 17 Jun 2025 12:12:39 GMT | Outdated Software Cost This Retailer Thousands — Is Your Business Next? | Noel | [Read More](https://medium.com/p/e72cac747757) |
+| Tue, 17 Jun 2025 12:11:11 GMT | Securing Your Digital Wealth: Flitaa’s Commitment to Your Crypto Safety | Flitaa | [Read More](https://medium.com/p/b74f28676450) |
+| Tue, 17 Jun 2025 12:10:29 GMT | WARNING: This 2025 Cybersecurity Glitch Turned Real Files Into Digital Nightmares | Noel | [Read More](https://medium.com/p/90d540bce46c) |
+| Tue, 17 Jun 2025 12:07:59 GMT | Boost Your Career with Cybersecurity Certification | Springlearn | [Read More](https://medium.com/p/bb4fc6fa7450) |
+| Tue, 17 Jun 2025 12:05:09 GMT | Uncovering huzoxhu4.f6q5–3d Software: What You Should Know | Backlinksexpert | [Read More](https://medium.com/p/2f616b3458db) |
+| Tue, 17 Jun 2025 12:02:03 GMT | The AI Reckoning in Cybersecurity: Why Architecture, Governance, and Talent Are the Real… | Pratyush Goel | [Read More](https://medium.com/p/194f8f4f2afa) |
+| Tue, 17 Jun 2025 11:56:06 GMT | How To Join an Ethical Hacking Course? | The Drop Organization | [Read More](https://medium.com/p/4e0be7b91b66) |
+| Tue, 17 Jun 2025 11:55:20 GMT | The Programming Languages That Will Be Obsolete by 2026: Act fast on Migration | Saikat Paul | [Read More](https://medium.com/p/6239b498dcaf) |
+| Tue, 17 Jun 2025 11:54:51 GMT | Why Virtual CISOs Are the Smartest Cybersecurity Move for 2025 | DefenceRabbit | [Read More](https://medium.com/p/e8c66ae099df) |
+| Tue, 17 Jun 2025 11:53:19 GMT | Securing Saudi Arabia’s Digital Transformation: How Dsquare Global is Defending the Kingdom’s… | Dsquare Global Analytics | [Read More](https://medium.com/p/588492f18906) |
+| Tue, 17 Jun 2025 11:45:19 GMT | The Future of International Cyber Treaties: Is a Digital Geneva Convention Possible? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/e3ee60c8163a) |
+| Tue, 17 Jun 2025 11:40:17 GMT | How to Check If a Link Is Safe: A Simple Guide for Everyone | Hassan Khattak | [Read More](https://medium.com/p/3083f442730a) |
 | Tue, 17 Jun 2025 11:32:18 GMT | 5 AI Agents. 1 Week. All Built By a Cross-Functional Security Team | David Usher | [Read More](https://medium.com/p/2e6745c057ee) |
 | Tue, 17 Jun 2025 11:30:02 GMT | Top Security Companies That Keep the Internet Safe | Kambetastephano | [Read More](https://medium.com/p/7b60a76a32e1) |
 | Tue, 17 Jun 2025 11:27:52 GMT | Top Security, Housekeeping & Facility Management Services in Hyderabad - BSFMS | Be Secure Facility Management Services | [Read More](https://medium.com/p/dea2993050ee) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 07:26:14 GMT | AI-Driven FinTech Cybersecurity: Can Your Platform Survive the Next Big Breach in 2025? | Alice Jones | [Read More](https://medium.com/p/e6f890fd9c18) |
 | Tue, 17 Jun 2025 07:19:35 GMT | Understanding Reconnaissance and Vulnerability Scanning in Cybersecurity | Darshan | [Read More](https://medium.com/p/dce5365f1a50) |
 | Tue, 17 Jun 2025 07:07:41 GMT | Essential Elements of a PIPEDA-Compliant Privacy Policy | Tsaaro Consulting | [Read More](https://medium.com/p/738101926fa5) |
-| Tue, 17 Jun 2025 07:06:16 GMT | SIEM & It’s Importance in Security for Organizations | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/a3d41eb5edc8) |
-| Tue, 17 Jun 2025 07:00:01 GMT | ประจำวันอังคารที่ 17 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c922c74d7522) |
-| Tue, 17 Jun 2025 06:56:07 GMT | AI MEET HACKING — KALI GPT ⚠️ | Vedant Patil | [Read More](https://medium.com/p/0d726e73b733) |
-| Tue, 17 Jun 2025 06:54:35 GMT | How PQCaaS Makes Your HSMs More Secure, Cost Effective, and Lightweight | ExeQuantum | [Read More](https://medium.com/p/f20b598d4d97) |
-| Tue, 17 Jun 2025 06:54:18 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/55d0472ab358) |
-| Tue, 17 Jun 2025 06:50:40 GMT | Level Up in Cybersecurity: Why CCIE Security v6 Might Be the Most Practical Certification You… | Safarisprz01 | [Read More](https://medium.com/p/505ebef3e5f0) |
-| Tue, 17 Jun 2025 06:49:02 GMT | The Workforce Incubator: A Business Model for Learning While Earning in the Age of AI | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/b27431bda3f7) |
-| Tue, 17 Jun 2025 06:43:42 GMT | ️ Why Human Security Guards Are Still the Real MVPs of Modern Security? | Sumintra | [Read More](https://medium.com/p/ac2a6e9c2904) |
-| Tue, 17 Jun 2025 06:42:44 GMT | Cybersecurity Certifications: Which One is Right for You? | TCCI Computer Coaching | [Read More](https://medium.com/p/a158751ceadd) |
-| Tue, 17 Jun 2025 06:37:19 GMT | Preparing for the Future: Why Quantum Computing-Resistant Cryptography Matters | Gauravinsightss | [Read More](https://medium.com/p/2afc3c699eba) |
-| Tue, 17 Jun 2025 06:32:39 GMT | I Carried Hope Like a Secret | Half Bloomed Diaries | [Read More](https://medium.com/p/9f511c6c2ecf) |
-| Tue, 17 Jun 2025 06:32:39 GMT | The Role of AI in Digital Transformation: GameChanger or Hype | Payoda Technology Inc | [Read More](https://medium.com/p/44b2b301e2b3) |
-| Tue, 17 Jun 2025 06:29:51 GMT | How to Backup Your WordPress Website the Right Way (And Why You Absolutely Should) | vwthemes | [Read More](https://medium.com/p/f745a5063b8e) |
-| Tue, 17 Jun 2025 06:20:33 GMT | DevSecOps and QA: Testing Is Not Just About “Does It Work?” | İlay İnan Ünal | [Read More](https://medium.com/p/ffa1ef50b55a) |
-| Tue, 17 Jun 2025 06:20:18 GMT | DevSecOps ve QA: Test Etmek Sadece “Çalışıyor mu?” Sorusu Değildir | İlay İnan Ünal | [Read More](https://medium.com/p/76820747a499) |
-| Tue, 17 Jun 2025 06:18:47 GMT | Modular Terraform Architecture: Environments, Remote State & Beyond | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4ec294dc1f61) |
