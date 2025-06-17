@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 14:17:56 GMT | Nikola Vujović ― instrument of the BIA and the Serbian Orthodox Church in Vučić’s strategy to… | Uncensored Reporter | [Read More](https://medium.com/p/a8fe366020f5) |
+| Tue, 17 Jun 2025 14:16:59 GMT | JWT in Interviews: How to Sound Smarter Than You Actually Are | Pudari Madhavi | [Read More](https://medium.com/p/e47674c661cc) |
+| Tue, 17 Jun 2025 14:16:58 GMT | Hacking AWS Beanstalk — Cloudgoat Scenario | Aravind S V | [Read More](https://medium.com/p/4da1fac6a4cf) |
+| Tue, 17 Jun 2025 14:13:38 GMT | Demystifying SIEM: How I Built a Real-Time AI Detection Pipeline in Pure Python | Ahmed Sobhi Ali | [Read More](https://medium.com/p/24ee10974587) |
+| Tue, 17 Jun 2025 14:12:07 GMT | Threat Hunting: Your Digital Neighborhood Watch Against Hidden Adversaries | Aj | [Read More](https://medium.com/p/1e56d029a0b0) |
+| Tue, 17 Jun 2025 14:12:00 GMT | AuthGuardian: My Splunk-Powered Journey into Authentication Log Analysis & Security Monitoring | Yug Shah | [Read More](https://medium.com/p/9564e8dfe47e) |
+| Tue, 17 Jun 2025 14:11:45 GMT | Authentication vs Authorization in APIs: Know the Difference | Code Crack | [Read More](https://medium.com/p/3025870d31cd) |
+| Tue, 17 Jun 2025 14:04:53 GMT | Protecting Your Digital Footprint During Protests: A Guide for Kenyan Techies | Kennedy Kimtai Langat | [Read More](https://medium.com/p/98b1060bfe46) |
+| Tue, 17 Jun 2025 14:01:44 GMT | Securing the future of remote patient monitoring: how AI can help — and why trust matters | Ana Wagner Oroz | [Read More](https://medium.com/p/201ff0217e90) |
+| Tue, 17 Jun 2025 14:01:43 GMT | Early Testing Prevents Expensive Mistakes Pt. 1 | Zoe Mercado | [Read More](https://medium.com/p/620f39f4ddad) |
+| Tue, 17 Jun 2025 14:00:37 GMT | Cyber Briefing: 2025.06.17 | CyberMaterial | [Read More](https://medium.com/p/54ae6206600f) |
+| Tue, 17 Jun 2025 13:51:08 GMT | Does Your Smile Hide Your Storm? | Preeta | [Read More](https://medium.com/p/4119f82999c1) |
+| Tue, 17 Jun 2025 13:45:42 GMT | A Beginner’s Guide to Writing Secure Code | Mahabubur Rahman | [Read More](https://medium.com/p/4afbaf80ec3e) |
+| Tue, 17 Jun 2025 13:37:47 GMT | Why Front Desk Security Is a Smart Investment for Brampton Office Buildings | Diligent Security Services | [Read More](https://medium.com/p/34f182b75286) |
+| Tue, 17 Jun 2025 13:36:26 GMT | Cloud Pentest Walkthrough: S3 Misconfig + SSRF to EC2 Metadata Extraction | AarushGaur | [Read More](https://medium.com/p/1cc641a12348) |
+| Tue, 17 Jun 2025 13:34:35 GMT | Hacking AI: 6 Battle-Tested Ways to Defend Your Chatbot | Akshay Sapra | [Read More](https://medium.com/p/ec12117a931b) |
+| Tue, 17 Jun 2025 13:34:09 GMT | From Error to Solution: A Complete Guide to Installing Screenshot Monitor on Linux (Ubuntu/Pop!_OS) | Luiz Paulo Coutinho | [Read More](https://medium.com/p/69a6a44503e7) |
 | Tue, 17 Jun 2025 13:30:22 GMT | Best AI-powered assistants for bug hunters | loyalonlytoday | [Read More](https://medium.com/p/52d01c95802c) |
 | Tue, 17 Jun 2025 13:29:36 GMT | Finding the Right IT Service Provider: A Smart Business Move | Nexgits | [Read More](https://medium.com/p/e9771801e854) |
 | Tue, 17 Jun 2025 13:28:30 GMT | What Makes EDSPL’s SOC the Nerve Center of 24x7 Cyber Defense? | saurabh cyberinfomines | [Read More](https://medium.com/p/0038f431101e) |
@@ -33,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 12:47:10 GMT | Archetyp Market — Everything Comes to an End | Vicki Taylor | [Read More](https://medium.com/p/db6b874d2ff7) |
 | Tue, 17 Jun 2025 12:41:01 GMT | Who I Am When No One Is Watching Me | Kakoli Aster♡ | [Read More](https://medium.com/p/a6781f667072) |
 | Tue, 17 Jun 2025 12:39:04 GMT | How I Found an Open Redirect in a Login Endpoint (and Why It Matters) | TakiasSec | [Read More](https://medium.com/p/49afaf7109df) |
+| Tue, 17 Jun 2025 12:38:41 GMT | One Click to Collapse: Chaining Logic Flaw + CSRF to Take Down a SaaS Organization | CANITEY | [Read More](https://medium.com/p/7d58736fc6f9) |
 | Tue, 17 Jun 2025 12:35:51 GMT | Day 24: How do CPUs run programs | Nile Okomo | [Read More](https://medium.com/p/33418e3e55cb) |
 | Tue, 17 Jun 2025 12:26:02 GMT | I Hacked an Account Just by Tweaking an Email  (OAuth Implicit Flow Bypass) | Sumanth Yerranagula | [Read More](https://medium.com/p/e80bac47f19b) |
 | Tue, 17 Jun 2025 12:18:28 GMT | Data Lake Building Blocks — Part II | Ashish K | [Read More](https://medium.com/p/23a490102825) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 09:21:34 GMT | The Dark Psychology of Social Engineering: How Cybercriminals Trick You into Giving Up Sensitive… | Cyber Timi | [Read More](https://medium.com/p/bcb374d42e4b) |
 | Tue, 17 Jun 2025 09:19:48 GMT | Monitoring Administrative Actions in Microsoft Defender for Endpoint: Ensuring Compliance… | Microsoft Cloud Buzz | [Read More](https://medium.com/p/12c46d314b21) |
 | Tue, 17 Jun 2025 09:18:34 GMT | How In-App Protection Enables Enterprises to Combat Rising Security Risks | Gargiben | [Read More](https://medium.com/p/3948856cea95) |
-| Tue, 17 Jun 2025 09:18:23 GMT | Lost in the Maze: Sitting With the Question, Who Am I? | What I'm Learning | [Read More](https://medium.com/p/4a3725afe93c) |
-| Tue, 17 Jun 2025 09:17:43 GMT | ️ Hire a Security Guard in Delhi: Protect Your Business with Professionals | Sumintra | [Read More](https://medium.com/p/b5620b1d7dbf) |
-| Tue, 17 Jun 2025 09:15:32 GMT | Tracing Shared Library Calls Part III: Leviathan 4–6 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/f083551ee73f) |
-| Tue, 17 Jun 2025 09:03:16 GMT | Cyber Security Training Institute in Kochi — Learn with Industry Experts at Techmindz | Krishcochin | [Read More](https://medium.com/p/1f3a17dc30b1) |
-| Tue, 17 Jun 2025 09:03:03 GMT | Critical Apache Tomcat Vulnerabilities Disclosed: Millions of Servers at Risk | Infoziant | [Read More](https://medium.com/p/045b90c2ec17) |
-| Tue, 17 Jun 2025 09:01:08 GMT | Web Application Security: A Comprehensive Breakdown of Common Vulnerabilities and Mitigation | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/568d576a637d) |
-| Tue, 17 Jun 2025 09:01:08 GMT | How to Measure GRC Success Right | Harry West | [Read More](https://medium.com/p/a6efa3c153d7) |
-| Tue, 17 Jun 2025 09:00:45 GMT | Why Cybersecurity Is the Backbone of Quality Management in 2025 | Harsha Bussiness | [Read More](https://medium.com/p/5adda2e6c7cf) |
-| Tue, 17 Jun 2025 08:57:52 GMT | CCSP Certification: Cloud Security Evolution 2025 | Boris Gigovic | [Read More](https://medium.com/p/1c44cfc8daed) |
-| Tue, 17 Jun 2025 08:57:05 GMT | Hack Like a Pro: The Ultimate Hacker’s Reading List (2025 Edition) | Aren Redd | [Read More](https://medium.com/p/4eebef14b261) |
-| Tue, 17 Jun 2025 08:52:08 GMT | Defamation and the Indian Constitution: Between Dignity, Dissent, and Democratic Tension | Prabhat Dwivedi | [Read More](https://medium.com/p/897d9465a293) |
-| Tue, 17 Jun 2025 08:50:37 GMT | Insecure Deserialization in Symfony: A Real Threat | Pentest_Testing_Corp | [Read More](https://medium.com/p/b867df4b66ab) |
-| Tue, 17 Jun 2025 08:49:33 GMT | Why Cyber Security Awareness Training is a Must-Have for Modern Businesses | watchur6 | [Read More](https://medium.com/p/0ce0d52873ac) |
-| Tue, 17 Jun 2025 08:44:13 GMT | Stop Chasing Alerts, Start Spotting Anomalies: The SOC Guide to UEBA and Advanced Threat Detection | Saikat Paul | [Read More](https://medium.com/p/640bffef9d0b) |
-| Tue, 17 Jun 2025 08:39:43 GMT | Top Mistakes When Hiring Thane Security Agencies | united guard | [Read More](https://medium.com/p/a5c1773503f7) |
-| Tue, 17 Jun 2025 08:36:26 GMT | How Indonesian Businesses Are Saving Millions Through Smart Fleet Technology | Nicolaus Hansel Handoyo | [Read More](https://medium.com/p/faa18ed8c73b) |
-| Tue, 17 Jun 2025 08:35:20 GMT | Bicep Snapshot ✨ | Brian Veldman | [Read More](https://medium.com/p/478c7329328e) |
-| Tue, 17 Jun 2025 08:32:37 GMT | Bug Bounty: The Harsh Truth (My Story) | Karthikeyan | [Read More](https://medium.com/p/a0858f984344) |
