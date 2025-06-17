@@ -12,10 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 23:04:49 GMT | ISO 27001 Certification? Here’s Your Survival Guide | Max Secure | [Read More](https://medium.com/p/e64388fcb339) |
+| Tue, 17 Jun 2025 22:36:35 GMT | Switching from QA to Security in my 40s | JVANVS | [Read More](https://medium.com/p/960ce96dbe8f) |
 | Tue, 17 Jun 2025 22:25:21 GMT | Week 1: Top 5 Regulations and Why They Matter | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/a02237be8971) |
 | Tue, 17 Jun 2025 22:23:50 GMT | Investigating Suspicious URLs — Tools that you need to know as SOC Analyst | Ayyappan Subramanian | [Read More](https://medium.com/p/1af045302be2) |
 | Tue, 17 Jun 2025 22:20:09 GMT | Identifying North Korean Kimsuky (APT43) Infrastructure | LCSC-IE | [Read More](https://medium.com/p/b6817a58a65b) |
 | Tue, 17 Jun 2025 22:17:08 GMT | From Recon to Report: Automate Your Pentesting Workflow With Python | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe0721ff66c9) |
+| Tue, 17 Jun 2025 22:05:39 GMT | The Trap Coded with Personal Data: Targeted Smart Contract Attacks | LESSIOPG | [Read More](https://medium.com/p/636441590177) |
 | Tue, 17 Jun 2025 22:03:06 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/1b71ac99d486) |
 | Tue, 17 Jun 2025 22:00:12 GMT | Skynet writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/d454d0dd51b6) |
 | Tue, 17 Jun 2025 21:52:19 GMT | No Country For Cyber Novices | O. J. Okpabi | [Read More](https://medium.com/p/4e0476f07595) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 16:12:27 GMT | TryHackMe’s Blue CTF Writeup/Walkthrough | Benedict Agno | [Read More](https://medium.com/p/c2243d8fe0fc) |
 | Tue, 17 Jun 2025 16:08:55 GMT | Effective Key Holding Services for Enhanced Security | Travel time | [Read More](https://medium.com/p/d63d4c86d1a8) |
 | Tue, 17 Jun 2025 16:00:43 GMT | Read This Before You Click That Suspicious Email Link: How to Outsmart Phishing Scams Like a… | Saikat Paul | [Read More](https://medium.com/p/9977be38c769) |
-| Tue, 17 Jun 2025 15:54:46 GMT | Email Security Checklist: 10 Must-Follow Steps to Keep Your Inbox Safe | SafeAeon Inc. | [Read More](https://medium.com/p/80e67ae55299) |
-| Tue, 17 Jun 2025 15:54:45 GMT | Automating HTTPS with Docker, Nginx & Certbot | Ashish Singh | [Read More](https://medium.com/p/7f5078857eee) |
-| Tue, 17 Jun 2025 15:53:45 GMT | Challenge: ICE - Write-Up #4 (THM) | D4m.sh | [Read More](https://medium.com/p/a4b89bfb6cb3) |
