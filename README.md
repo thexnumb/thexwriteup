@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Jun 2025 03:49:23 GMT | How to Set Up GitHub Login in SafeLine | Quella | [Read More](https://medium.com/p/10d53577bc12) |
+| Tue, 17 Jun 2025 03:46:12 GMT | CyberDefenders Endpoint Forensics -SpottedInTheWild Lab | Girithar Ram Ravindran | [Read More](https://medium.com/p/447153f619c1) |
+| Tue, 17 Jun 2025 03:42:49 GMT | How I Discovered Mirai’s Botnet Hygiene: A Look Inside Process Killing in IoT Malware | Abhinav pandey | [Read More](https://medium.com/p/27742a6317fd) |
+| Tue, 17 Jun 2025 03:42:39 GMT | CYBER HEROES-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/496ed006ae92) |
+| Tue, 17 Jun 2025 03:42:36 GMT | API Rate Limiting: Advanced Techniques to Prevent DDoS Attacks | Rizqi Mulki | [Read More](https://medium.com/p/adcdcc72a5b6) |
+| Tue, 17 Jun 2025 03:42:09 GMT | Memory Forensics Investigation using FTK imager, Autopsy and Volatility | Manmeet Singh | [Read More](https://medium.com/p/39772c4dc7d9) |
+| Tue, 17 Jun 2025 03:40:57 GMT | HoloXit on Smart Pole — A Comprehensive Security and Surveillance Solution for Remote Coastal and… | HoloXit | [Read More](https://medium.com/p/e0c3ade720d1) |
+| Tue, 17 Jun 2025 03:39:34 GMT | Fact Check: No, Israel’s Missile Wasn’t Hacked by the Syrian Electronic Army | FrostFoe | [Read More](https://medium.com/p/ceaf9ea5b1a9) |
+| Tue, 17 Jun 2025 03:34:51 GMT | 7 WAYS HACKERS TRICK YOUR EMPLOYEES (AND HOW TO STOP THEM) | handev.code | [Read More](https://medium.com/p/40cbdf81ae48) |
+| Tue, 17 Jun 2025 03:34:16 GMT | HoloXit at the Smart Pole — Modernizing Oil Palm Plantation Security and Operations in Sumatra and… | HoloXit | [Read More](https://medium.com/p/440a30007b87) |
+| Tue, 17 Jun 2025 03:31:35 GMT | Setting Up SQL Server — Creating and Restoring ARCOS Databases | Amrit Sinha | [Read More](https://medium.com/p/36cfd737ab99) |
+| Tue, 17 Jun 2025 03:31:34 GMT | AkiraBot: The AI-Powered Spam Bot That Outsmarted 80,000+ Websites | Deven Chhajed | [Read More](https://medium.com/p/8b417729233b) |
+| Tue, 17 Jun 2025 03:28:16 GMT | “Zero trust” architecture is the norm in enterprise security | Radiant Living Tips | [Read More](https://medium.com/p/2e46d628e678) |
 | Tue, 17 Jun 2025 03:09:22 GMT | Comprehensive Overview of Common Web Application Vulnerabilities | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/821c078989f4) |
 | Tue, 17 Jun 2025 03:05:43 GMT | HTB Sherlock — Loggy (Easy) | shawty | [Read More](https://medium.com/p/ee2bce95a1dc) |
 | Tue, 17 Jun 2025 03:03:25 GMT | Anatomy of an AgentTesla Loader: Deobfuscation, Custom Encryption, and Active Defenses | Pudimcaro | [Read More](https://medium.com/p/dbe8284d9870) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Jun 2025 18:40:58 GMT | 0x03: Enumeration In GOAD | Aswin Krishna PB | [Read More](https://medium.com/p/295a58725b70) |
 | Mon, 16 Jun 2025 18:39:52 GMT | G’day, Tech Heads! Your Weekly IT Wave Report! | Mohammed Brückner | [Read More](https://medium.com/p/b409103a4740) |
 | Mon, 16 Jun 2025 18:36:54 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 2] | Aditya Bhatt | [Read More](https://medium.com/p/e6f4f9e21584) |
-| Mon, 16 Jun 2025 18:29:13 GMT | The World of Cybersecurity: Protecting the Digital Frontier | Naman Soni | [Read More](https://medium.com/p/b8f9fa9a7f8d) |
-| Mon, 16 Jun 2025 18:28:54 GMT | AI Is Everywhere — But What’s Protecting Us? | Rupesh Kumar | [Read More](https://medium.com/p/7930c056ac95) |
-| Mon, 16 Jun 2025 18:28:20 GMT | Being Vulnerable: The Power They Never Told You About | Milocamilo | [Read More](https://medium.com/p/fe08d5934dc3) |
-| Mon, 16 Jun 2025 18:23:26 GMT | CTF Write-up: Tusk Infostealer (Certified Cyber Defenders) | itsGir | [Read More](https://medium.com/p/3e361895642a) |
-| Mon, 16 Jun 2025 18:18:15 GMT | Generative AI Is on Everyone’s Lips But Few Know How to Use It Safely | Meshulash | [Read More](https://medium.com/p/1a4b1e0e82b6) |
-| Mon, 16 Jun 2025 18:13:44 GMT | Day 1/100: How the Web Works (Before You Hack It) | 0X595 | [Read More](https://medium.com/p/bdaf7b2eca98) |
-| Mon, 16 Jun 2025 18:12:24 GMT | Kioptrix #1.1 | Nihad Alizada | [Read More](https://medium.com/p/d040673eb0e3) |
-| Mon, 16 Jun 2025 18:12:22 GMT | From Errors to Exploits: A Manual Dive into SQL Injection (Part 2) | Aaftab A. Kadavaikar | [Read More](https://medium.com/p/a60ca6ee1807) |
-| Mon, 16 Jun 2025 18:08:26 GMT | The Dark Side of Chat Apps: How Hackers Use Telegram & Discord to Control Infected Devices | Subigya Ghimire | [Read More](https://medium.com/p/cf39919da4c3) |
-| Mon, 16 Jun 2025 18:06:09 GMT | One Breach Away: Why Every City Must Take Cybersecurity Seriously — Before It’s Too Late | Ted Rogers | [Read More](https://medium.com/p/086d65df9d8c) |
-| Mon, 16 Jun 2025 18:05:48 GMT | The Modern IT Management Stack: Unified Endpoint, Mobile Device, Remote Monitoring, and Patch… | Lokesh Baskar | [Read More](https://medium.com/p/a8cde3f74bd4) |
-| Mon, 16 Jun 2025 18:05:47 GMT | It Starts From Noise | Ushafa Wuakera | [Read More](https://medium.com/p/01b6e84ebebd) |
-| Mon, 16 Jun 2025 18:02:48 GMT | CROSS SITE REQUEST FORGERY — CSRF | Chandana Priya | [Read More](https://medium.com/p/7c5dec4273d2) |
