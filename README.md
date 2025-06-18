@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 16:18:49 GMT | “Unfiltered Talk” — How Target Chatbot Let Me Redecorate Their Website | Shah kaif | [Read More](https://medium.com/p/693150c9a9e5) |
+| Wed, 18 Jun 2025 16:17:08 GMT | Nobody Teaches This Part of GRC | A D | [Read More](https://medium.com/p/ededb435e870) |
+| Wed, 18 Jun 2025 16:15:54 GMT | 10      2025 … | Fraoula | [Read More](https://medium.com/p/a8d3038e9e8f) |
+| Wed, 18 Jun 2025 16:15:05 GMT | Why IT Support Experience Builds the Perfect Foundation for a Cybersecurity Career | Taimur Ijlal | [Read More](https://medium.com/p/41879ff7efe8) |
+| Wed, 18 Jun 2025 16:08:38 GMT | Secrets, Tokens, and API Keys: How to Manage Them Safely in 2025 | Pranav Prakash | [Read More](https://medium.com/p/823b60db6980) |
+| Wed, 18 Jun 2025 16:08:10 GMT | Frequently used Nmap Scanning commands | The Commoness | [Read More](https://medium.com/p/5aa23e490806) |
+| Wed, 18 Jun 2025 16:07:23 GMT | How to Prevent AI Supply Chain Attacks? | Practical DevSecOps | [Read More](https://medium.com/p/5ed761ed927b) |
+| Wed, 18 Jun 2025 16:06:04 GMT | Simple Substitution Cipher: Krypton 0–2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/5d82daa8555d) |
+| Wed, 18 Jun 2025 16:04:07 GMT | Yok Ngebrute Force RAR! | Daniel Martin | [Read More](https://medium.com/p/b82e7266402f) |
+| Wed, 18 Jun 2025 16:02:23 GMT | Echoes of Safer Days: The Lingering Unanswered Questions | Rahma Isah | [Read More](https://medium.com/p/278b081a2fd8) |
+| Wed, 18 Jun 2025 16:01:44 GMT | Crying in Public Is Not Weakness - It’s a Radical Act of Healing | LA Adkins | [Read More](https://medium.com/p/deecb3f67c40) |
+| Wed, 18 Jun 2025 16:01:08 GMT | Calling The Video Game Industry — Toxic Waste Clean-Up on Aisle Everywhere | Savvy Cyber Kids | [Read More](https://medium.com/p/bbc30b70682c) |
+| Wed, 18 Jun 2025 16:00:48 GMT | How Kids FEEL About Their Online Worlds Is More Important Than What They Do Online | Savvy Cyber Kids | [Read More](https://medium.com/p/b4520ff661ff) |
+| Wed, 18 Jun 2025 16:00:02 GMT | TryHackMe 0day — Walkthrough | mauzware | [Read More](https://medium.com/p/6010fe9c4766) |
+| Wed, 18 Jun 2025 15:59:14 GMT | The Vanity Address Affair: The Iranian Crypto Exchange Hack | Tal Be'ery | [Read More](https://medium.com/p/a6047259f268) |
+| Wed, 18 Jun 2025 15:53:36 GMT | Day #28 of #60DaysofGRC: Risk Appetite vs Risk Tolerance (And Spicy Chips ) | Brittney Ginther | [Read More](https://medium.com/p/8848e49a4509) |
+| Wed, 18 Jun 2025 15:51:51 GMT | HF 2019-Linux | Pranavsuresh | [Read More](https://medium.com/p/a1d5cb3a0cb5) |
+| Wed, 18 Jun 2025 15:51:23 GMT | AV & EDR Bypass Techniques (Part 1): Real-World Tricks Hackers Use to Stay Undetected | Very Lazy Tech | [Read More](https://medium.com/p/12bfbc930fbb) |
+| Wed, 18 Jun 2025 15:43:52 GMT | Best HWID Spoofer 2025 — My Take as a Researcher Testing HWID Changers | Levi Shekelstein | [Read More](https://medium.com/p/ce362dbd8258) |
 | Wed, 18 Jun 2025 15:34:02 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6229d82aa4b6) |
 | Wed, 18 Jun 2025 15:33:51 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 14 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/82007437261b) |
 | Wed, 18 Jun 2025 15:33:42 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e21f99db1ad8) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 10:43:15 GMT | Tracing the Shadows: How a Single Phishing Domain Revealed a Hidden Threat Infrastructure | h3xstone | [Read More](https://medium.com/p/400e451895a5) |
 | Wed, 18 Jun 2025 10:42:37 GMT | How to Use a Burner Email Address And When You Should | Karl Buhl | [Read More](https://medium.com/p/7cd1fc82bc79) |
 | Wed, 18 Jun 2025 10:40:37 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 3] | Aditya Bhatt | [Read More](https://medium.com/p/2bea07098768) |
-| Wed, 18 Jun 2025 10:39:15 GMT | HTTP Proxy + Host Header Injection → Account Takeover | Monika sharma | [Read More](https://medium.com/p/3cac52cec817) |
-| Wed, 18 Jun 2025 10:39:04 GMT | Catching Malware That Hides From Task Manager | Bl@ckC!pH3r | [Read More](https://medium.com/p/0a66b4341680) |
-| Wed, 18 Jun 2025 10:38:25 GMT | My Virtual HomeLab: Active Directory — Part Three | Cybersec with Hemmars | [Read More](https://medium.com/p/7229a1edbcf1) |
-| Wed, 18 Jun 2025 10:37:58 GMT | Introduction to OSINT — Challenge Walkthrough | Nirjallama | [Read More](https://medium.com/p/b26f0a0bf30e) |
-| Wed, 18 Jun 2025 10:35:31 GMT | The future of Document management Systems is not bright | Shaun Turner | [Read More](https://medium.com/p/ae9ffa885da1) |
-| Wed, 18 Jun 2025 10:35:19 GMT | The Quantum Leap in Cybersecurity | Aju | [Read More](https://medium.com/p/88b3edc781ad) |
-| Wed, 18 Jun 2025 10:32:56 GMT | Online Doctorate in Cybersecurity — Lead the Future of Digital Security | Mbaprofessional | [Read More](https://medium.com/p/97b46cfe126a) |
-| Wed, 18 Jun 2025 10:31:42 GMT | I HIJACKED ADMIN VIA OAUTH  (PortSwigger Lab Walkthrough) | Sumanth Yerranagula | [Read More](https://medium.com/p/05f3f22925d6) |
-| Wed, 18 Jun 2025 10:22:14 GMT | Fileless Malware: The Ghost in Your Machine | zerOiQ | [Read More](https://medium.com/p/6dbeb7eba566) |
-| Wed, 18 Jun 2025 10:21:13 GMT | HTB CDSA: Study Smart, Defend Strong | daftneb | [Read More](https://medium.com/p/c26166fff488) |
-| Wed, 18 Jun 2025 10:03:48 GMT | Networking series 3: Deploying a 3-tier architecture with Terraform, HashiCorp Vault, AWS cloud | olawale owolabi kareem | [Read More](https://medium.com/p/3d5f73b4c617) |
-| Wed, 18 Jun 2025 09:57:45 GMT | The Vulnerability of Leadership | Dennis Hambeukers | [Read More](https://medium.com/p/7e2a491eb54e) |
-| Wed, 18 Jun 2025 09:56:18 GMT | Why Your Browser Might Be Hurting Your Game — and How to Fix It | Elfarissimustapha | [Read More](https://medium.com/p/0eb9e195b823) |
-| Wed, 18 Jun 2025 09:55:15 GMT | Two Critical NetScaler ADC & Gateway Vulnerabilities Expose Enterprises to Data Breach Risks | Infoziant | [Read More](https://medium.com/p/9e88f70a7836) |
-| Wed, 18 Jun 2025 09:52:06 GMT | Unlock Growth With GRC Maturity | Harry West | [Read More](https://medium.com/p/f1b4bdb7f230) |
-| Wed, 18 Jun 2025 09:48:58 GMT | Every Time You Sign Up on a New Website, This Is What Happens Behind the Scenes (It’s Scary…) | Vedant Patil | [Read More](https://medium.com/p/6dd1f4131bdc) |
-| Wed, 18 Jun 2025 09:46:57 GMT | Web Hacking Techniques: Unmasking 2025’s Top | BusinessUpside | [Read More](https://medium.com/p/83248cef7904) |
-| Wed, 18 Jun 2025 09:45:02 GMT | AI & Cybersecurity: Navigating the Future Safely & Ethically | Century Solutions Group | [Read More](https://medium.com/p/2f95eacf9b58) |
-| Wed, 18 Jun 2025 09:37:35 GMT | Advanced Cyber Threat Intelligence: Mapping the Israel-Iran Digital Battlefield Using ZoomEye | ZoomEye | [Read More](https://medium.com/p/43a051557848) |
