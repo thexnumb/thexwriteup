@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 08:52:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Mngsqntraining | [Read More](https://medium.com/p/9fbaa36b4eb9) |
+| Wed, 18 Jun 2025 08:41:43 GMT | The Daily Tech Digest: 18 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e9c3c0face4b) |
+| Wed, 18 Jun 2025 08:41:17 GMT | Reumaclysm | Acid & Rain Grey | [Read More](https://medium.com/p/9d31b276bf63) |
+| Wed, 18 Jun 2025 08:39:28 GMT | ประจำวันพุธที่ 18 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/db43cca37522) |
+| Wed, 18 Jun 2025 08:34:12 GMT | Under the Hood of jq: A Deep Dive into the Code Quality & Security of a Beloved JSON Processor | Camillo Pachmann | [Read More](https://medium.com/p/a81f120a3fce) |
+| Wed, 18 Jun 2025 08:30:53 GMT | Behavior Before Volume: A Smarter Approach to Alert Tuning | Siddhant Mishra | [Read More](https://medium.com/p/2dad80da1c03) |
 | Wed, 18 Jun 2025 08:27:03 GMT | EC Council CEH v13 AI Training and Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/bd39337ca179) |
 | Wed, 18 Jun 2025 08:22:42 GMT | Understanding Syn Flood Attacks: A Deep Dive | Mohamed Gebril | [Read More](https://medium.com/p/4242a007b705) |
 | Wed, 18 Jun 2025 08:21:53 GMT | Lockbit Ransomware Analysis with ANY.RUN | Motasem Hamdan | [Read More](https://medium.com/p/c89cdc604d28) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 01:47:08 GMT | Cyberwarfare Simulations Between Nations: Training in the Modern Cyber Range | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2f6174e34dee) |
 | Wed, 18 Jun 2025 01:35:20 GMT | Desvendando o OWASP AIVSS: Um Framework para Segurança de IA | Fernando Silva | [Read More](https://medium.com/p/728d3962a918) |
 | Wed, 18 Jun 2025 01:05:06 GMT | Why I Started This Cybersecurity Blog: For the People Who Feel Left Behind | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/fb7f2acc6f45) |
-| Wed, 18 Jun 2025 01:04:34 GMT | Securing the Black Sea : The Role of Peaceful Nuclear Cooperation in Regional Security Dynamics | Atiyah Hijriyanti | [Read More](https://medium.com/p/a9468ff94d42) |
-| Wed, 18 Jun 2025 00:15:50 GMT | Casefile: XIS10CIAL (Marc Streefland) GPT Pentest Investigation | mikesploit | [Read More](https://medium.com/p/1f3c21b2aa86) |
-| Wed, 18 Jun 2025 00:05:54 GMT | Smart Caching and DDoS Mitigation with AWS CloudFront: A Practical Guide for Modern Web Apps | Harsh Singhal | [Read More](https://medium.com/p/40600a76ece1) |
-| Wed, 18 Jun 2025 00:02:38 GMT | How to Use Subfinder for Bug Bounty: Complete Guide with Examples and Advanced Tips | JPablo13 | [Read More](https://medium.com/p/779596c456bc) |
-| Tue, 17 Jun 2025 23:52:26 GMT | Scaling Smart: Why GDPR Compliance is a Secret Weapon for SaaS Growth | Zachary Neal | [Read More](https://medium.com/p/05568db10972) |
-| Tue, 17 Jun 2025 23:37:50 GMT | Caltech Scientists Achieve Hyper-Entanglement in Atomic Motion: A Quantum Leap in Control and… | QuantumGenie | [Read More](https://medium.com/p/17462b975d6c) |
