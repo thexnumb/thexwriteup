@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 03:45:17 GMT | Building Trust: Cybersecurity Across The Architectural Workflow | Jacky Kapadia | [Read More](https://medium.com/p/72fa98be9278) |
+| Wed, 18 Jun 2025 03:35:01 GMT | Iranian Cyberattacks Targeting Israel's Anti-Missile Systems: A New Front in the Conflict | CCD-IS | [Read More](https://medium.com/p/a233b26a20bd) |
+| Wed, 18 Jun 2025 03:33:42 GMT | CTF Day(18) | Ahmed Narmer | [Read More](https://medium.com/p/36150509f6cc) |
+| Wed, 18 Jun 2025 03:32:36 GMT | Fake mParivahan App Scam: How WhatsApp Messages Are Tricking Users and Stealing Data | Deven Chhajed | [Read More](https://medium.com/p/0f4df466701f) |
+| Wed, 18 Jun 2025 03:30:03 GMT | Docker Networking and Firewalls: A Complete Security Guide (Part 1) | Ashish Singh | [Read More](https://medium.com/p/fcf5d8443fe4) |
+| Wed, 18 Jun 2025 03:26:31 GMT | Integrating Facebook Login with Auth0 using Terraform: A Mixed Experience | Mark Tinderholt | [Read More](https://medium.com/p/b6ea96f47605) |
+| Wed, 18 Jun 2025 03:11:06 GMT | Common attacks and their effectiveness | Thuong To | [Read More](https://medium.com/p/b0c5ce0fe3ee) |
 | Wed, 18 Jun 2025 02:57:07 GMT | The Psychology of the Click: Real-World Phishing Attack Simulation Using Zphisher | VidyaRao008 | [Read More](https://medium.com/p/634c6b1473d6) |
 | Wed, 18 Jun 2025 02:56:00 GMT | Multi-Step Process with No Access Control on One Step | Bash Overflow | [Read More](https://medium.com/p/a17dba1a4415) |
 | Wed, 18 Jun 2025 02:55:00 GMT | Easy install, Easy configuration: ClamAV for Linux | Dr. Jake | [Read More](https://medium.com/p/d70c09c81271) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 17:57:08 GMT | Alarm Fatigue Management and  Noise Reduction Techniques in SOC Environments | Esra Kayhan | [Read More](https://medium.com/p/4667629ac8eb) |
 | Tue, 17 Jun 2025 17:56:37 GMT | 5 Ways Asset Identification Supports Stronger Cybersecurity Practices | Xaltius | [Read More](https://medium.com/p/4a4a24db3944) |
 | Tue, 17 Jun 2025 17:56:34 GMT | Security Operations Center (SOC): Structure, Roles, and Responsibilities | Mosarof Hossain | [Read More](https://medium.com/p/0ca223dd05d3) |
-| Tue, 17 Jun 2025 17:53:33 GMT | How Gamification Can Transform Cybersecurity Awareness Training | Xaltius | [Read More](https://medium.com/p/1e90c7e62ee2) |
-| Tue, 17 Jun 2025 17:52:20 GMT | # Why I Chose the Name ZeroDayDiva | ZeroDayDiva | [Read More](https://medium.com/p/953105b58a61) |
-| Tue, 17 Jun 2025 17:51:51 GMT | When the ZKJ Token Went on a Crazy Rollercoaster: Liquidity Attacks, Wintermute, and a Massive… | CoinGen | [Read More](https://medium.com/p/4c91700d6f4d) |
-| Tue, 17 Jun 2025 17:51:09 GMT | Day 66: Bash Scripting — Mastering File Permissions & ACLs in Linux | Agarwaldaksh | [Read More](https://medium.com/p/be2010899d27) |
-| Tue, 17 Jun 2025 17:50:26 GMT | Demystifying AI in Cybersecurity | Vasanth Sankar | [Read More](https://medium.com/p/d7e3960b1711) |
-| Tue, 17 Jun 2025 17:50:07 GMT | Detecting Malicious URLs Using LSTM and Google’s BERT Models | Xaltius | [Read More](https://medium.com/p/6a0d7700cc22) |
-| Tue, 17 Jun 2025 17:42:41 GMT | JavaScript, JWTs and the Key That Shouldn’t Exist | Aditya Bhatt | [Read More](https://medium.com/p/d97c01d0ce9e) |
