@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 10:03:48 GMT | Networking series 3: Deploying a 3-tier architecture with Terraform, HashiCorp Vault, AWS cloud | olawale owolabi kareem | [Read More](https://medium.com/p/3d5f73b4c617) |
+| Wed, 18 Jun 2025 09:57:45 GMT | The Vulnerability of Leadership | Dennis Hambeukers | [Read More](https://medium.com/p/7e2a491eb54e) |
+| Wed, 18 Jun 2025 09:56:18 GMT | Why Your Browser Might Be Hurting Your Game — and How to Fix It | Elfarissimustapha | [Read More](https://medium.com/p/0eb9e195b823) |
+| Wed, 18 Jun 2025 09:55:15 GMT | Two Critical NetScaler ADC & Gateway Vulnerabilities Expose Enterprises to Data Breach Risks | Infoziant | [Read More](https://medium.com/p/9e88f70a7836) |
+| Wed, 18 Jun 2025 09:52:06 GMT | Unlock Growth With GRC Maturity | Harry West | [Read More](https://medium.com/p/f1b4bdb7f230) |
+| Wed, 18 Jun 2025 09:48:58 GMT | Every Time You Sign Up on a New Website, This Is What Happens Behind the Scenes (It’s Scary…) | Vedant Patil | [Read More](https://medium.com/p/6dd1f4131bdc) |
+| Wed, 18 Jun 2025 09:46:57 GMT | Web Hacking Techniques: Unmasking 2025’s Top | BusinessUpside | [Read More](https://medium.com/p/83248cef7904) |
+| Wed, 18 Jun 2025 09:45:02 GMT | AI & Cybersecurity: Navigating the Future Safely & Ethically | Century Solutions Group | [Read More](https://medium.com/p/2f95eacf9b58) |
+| Wed, 18 Jun 2025 09:37:35 GMT | Advanced Cyber Threat Intelligence: Mapping the Israel-Iran Digital Battlefield Using ZoomEye | ZoomEye | [Read More](https://medium.com/p/43a051557848) |
+| Wed, 18 Jun 2025 09:35:28 GMT | MS Sentinel: Introduction | Dhruvish Rathod | [Read More](https://medium.com/p/e5618bd0491b) |
 | Wed, 18 Jun 2025 09:32:58 GMT | The Nobitex Hack: A Comprehensive Analysis of Iran’s Largest Crypto Exchange Breach | MemeCoins Tools | [Read More](https://medium.com/p/7b949712daea) |
 | Wed, 18 Jun 2025 09:25:41 GMT | Building My First Mini SIEM with FastAPI — A Brute Force Detection API That Actually Works | Suryansh Sharma | [Read More](https://medium.com/p/65b0090eb41c) |
 | Wed, 18 Jun 2025 09:25:15 GMT | Why Smart Businesses Are Automating Operations | CyberSolvings | [Read More](https://medium.com/p/122b7b4e8dfe) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 04:36:02 GMT | Builder of the Foundations of Cybersecurity: Ralph C Merkle | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/676202f6e54a) |
 | Wed, 18 Jun 2025 04:26:56 GMT | Increased Safety: Oman Deploys Facial Recognition for Public Security | Tekhabeeb | [Read More](https://medium.com/p/5db31ca8b46e) |
 | Wed, 18 Jun 2025 04:26:10 GMT | Click Account Takeover (ATO) | Rishav anand | [Read More](https://medium.com/p/532065b4696d) |
-| Wed, 18 Jun 2025 04:23:53 GMT | MFA Everywhere: A Security engineer’s 10000 ft. view | Bhooshan Gadkari | [Read More](https://medium.com/p/674622a9e299) |
-| Wed, 18 Jun 2025 04:17:17 GMT | AI Spots Intruder! What Happens When AI Spots an Intruder in Seconds? | Ivis Constructionsurveillance | [Read More](https://medium.com/p/e197d189e51e) |
-| Wed, 18 Jun 2025 04:15:01 GMT | Swipe Left on Logic: What Hinge Teaches Us About Type I and Type II Errors | Divya | [Read More](https://medium.com/p/f974f3e9bac4) |
-| Wed, 18 Jun 2025 04:12:06 GMT | BI.ZONE Bug Bounty Platform | AbhirupKonwar | [Read More](https://medium.com/p/c1c3a6619696) |
-| Wed, 18 Jun 2025 04:11:56 GMT | How to Use Digital Wallets Safely: Avoiding Scams and Securing Your Money in a Cashless Society | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/186077883b47) |
-| Wed, 18 Jun 2025 04:11:30 GMT | Attacktive Directory (THM) write up | Dante | [Read More](https://medium.com/p/10056bb5c6f5) |
-| Wed, 18 Jun 2025 04:01:14 GMT | Securing the Digital Age: The Rise of Quantum-Resistant Algorithms | Vikaschoudhary16 | [Read More](https://medium.com/p/2c6d6f8a903d) |
-| Wed, 18 Jun 2025 03:45:17 GMT | Building Trust: Cybersecurity Across The Architectural Workflow | Jacky Kapadia | [Read More](https://medium.com/p/72fa98be9278) |
-| Wed, 18 Jun 2025 03:35:01 GMT | Iranian Cyberattacks Targeting Israel's Anti-Missile Systems: A New Front in the Conflict | CCD-IS | [Read More](https://medium.com/p/a233b26a20bd) |
-| Wed, 18 Jun 2025 03:33:42 GMT | CTF Day(18) | Ahmed Narmer | [Read More](https://medium.com/p/36150509f6cc) |
