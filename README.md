@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 15:08:00 GMT | Setting Up Local Server for Remote Access via Tailscale — yang mau Remote Server dari mana saja… | Syafa Asgani | [Read More](https://medium.com/p/7154a10ba61e) |
+| Wed, 18 Jun 2025 15:06:30 GMT | How I Designed My Own OAuth2 Authorization Server (And When You Should Too) | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/c6e8b562e638) |
+| Wed, 18 Jun 2025 15:05:32 GMT | Czech Republic at a Crossroads Between Western Freedom and Eastern Despotism | Martin Prochazka | [Read More](https://medium.com/p/1e2df5a8522b) |
+| Wed, 18 Jun 2025 15:02:46 GMT | . Cybersecurity at a Crossroads: Inside the Nobitex Hack & the Evolving Threat Landscape of 2025 | Zyntrio Tech Report | [Read More](https://medium.com/p/b08c0da90090) |
+| Wed, 18 Jun 2025 15:02:40 GMT | Ponder This: The Scam That Won’t Stay Silent | Surviving the Grind with Soul Unnie | [Read More](https://medium.com/p/ba7e38d9e3dc) |
+| Wed, 18 Jun 2025 15:02:40 GMT | How I Catch Bugs Before the Users Do: Tips for Test Case Design | Higor Mesquita | [Read More](https://medium.com/p/b6edfc9f7128) |
+| Wed, 18 Jun 2025 14:55:04 GMT | How Artificial Intelligence Empowers Modern Attacks | David SEHYEON Baek | [Read More](https://medium.com/p/e58d864752a1) |
+| Wed, 18 Jun 2025 14:49:09 GMT | Day 29: Elastic Defend Setup | Mikey O. | [Read More](https://medium.com/p/7bb4f64e3064) |
+| Wed, 18 Jun 2025 14:47:08 GMT | The Psychology of Security | Kara Davis | [Read More](https://medium.com/p/4a4a1e37f4c1) |
+| Wed, 18 Jun 2025 14:44:13 GMT | Sunset Walkthrough -Vulnhub | Pranavsuresh | [Read More](https://medium.com/p/f13aad625c6f) |
+| Wed, 18 Jun 2025 14:42:37 GMT | 3 Things He Must Give You to Prove His Love (Beyond Words) | Yuenie-kate | [Read More](https://medium.com/p/a42a4915aeef) |
+| Wed, 18 Jun 2025 14:37:05 GMT | Day 28: Investigating Mythic Agent | Mikey O. | [Read More](https://medium.com/p/77695cda4c34) |
 | Wed, 18 Jun 2025 14:22:32 GMT | The 2:47 AM Call That Changed How I Think About Cybersecurity | Zahir black | [Read More](https://medium.com/p/d6c120db4c63) |
 | Wed, 18 Jun 2025 14:19:14 GMT | Day 27: Investigating RDP Brute-force Attack | Mikey O. | [Read More](https://medium.com/p/30feed82a602) |
 | Wed, 18 Jun 2025 14:19:05 GMT | Why Small Businesses Can’t Ignore Cybersecurity in 2025 | DefenceRabbit | [Read More](https://medium.com/p/060c0161fc78) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 09:25:41 GMT | Building My First Mini SIEM with FastAPI — A Brute Force Detection API That Actually Works | Suryansh Sharma | [Read More](https://medium.com/p/65b0090eb41c) |
 | Wed, 18 Jun 2025 09:25:15 GMT | Why Smart Businesses Are Automating Operations | CyberSolvings | [Read More](https://medium.com/p/122b7b4e8dfe) |
 | Wed, 18 Jun 2025 09:21:47 GMT | The Future of Red Teaming in the Age of AI: Adapt or Become Obsolete | Yua Mikanana | [Read More](https://medium.com/p/0533332633fd) |
-| Wed, 18 Jun 2025 09:15:04 GMT | Meta Pool $27M June Hack: A technical breakdown | lodelux | [Read More](https://medium.com/p/057cf44e850c) |
-| Wed, 18 Jun 2025 09:02:25 GMT | Detecting Web Attacks | Sh3nobi | [Read More](https://medium.com/p/d8ed1a05bf2e) |
-| Wed, 18 Jun 2025 09:02:06 GMT | Top 3 Free WAFs for Developers in 2025 (with Setup Guide) | Maverick Steel | [Read More](https://medium.com/p/c3f9102fb41c) |
-| Wed, 18 Jun 2025 09:00:18 GMT | Data: The New Black Fuel Driving Cybersecurity | Chirag Singh | [Read More](https://medium.com/p/110c7f26da3f) |
-| Wed, 18 Jun 2025 08:57:15 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Transindo Training | [Read More](https://medium.com/p/352e8d7d8d46) |
-| Wed, 18 Jun 2025 08:56:47 GMT | From Curious Clicker to Ethical Hacker Pro — Your Cyber Journey Starts Now! | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/b8afb79731f9) |
-| Wed, 18 Jun 2025 08:56:36 GMT | Hacking Toppo — VulnHub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/5022cac80407) |
-| Wed, 18 Jun 2025 08:55:57 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Mngfarzanatraining | [Read More](https://medium.com/p/7edb3bbddf73) |
-| Wed, 18 Jun 2025 08:54:42 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Farzana Training | [Read More](https://medium.com/p/a426aed80427) |
-| Wed, 18 Jun 2025 08:54:11 GMT | Here’s Why I think prompt engineering is about to become increasingly difficult in the future. | M F Petje | [Read More](https://medium.com/p/ea9c3267cfe5) |
-| Wed, 18 Jun 2025 08:53:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Sqnbangunindonesia | [Read More](https://medium.com/p/21b811d5a6f9) |
-| Wed, 18 Jun 2025 08:53:15 GMT | 14 — SOC104 — Malware Detected | Amadi Oluchi Faith | [Read More](https://medium.com/p/3ccc6dc5ae59) |
