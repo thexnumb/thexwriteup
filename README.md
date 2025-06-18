@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 18:23:02 GMT | Part 4: Exploiting Broken Auth — How I Got In Without a Password | TraceX0 | [Read More](https://medium.com/p/978d5e3be2b3) |
+| Wed, 18 Jun 2025 18:23:01 GMT | Ethical Hacking: Building Your Cybersecurity Career Path | Boris Gigovic | [Read More](https://medium.com/p/ca8f0f546d8d) |
+| Wed, 18 Jun 2025 18:22:31 GMT | Why Identity and Access Management Is No Longer Optional in Modern SaaS | David Brown | [Read More](https://medium.com/p/ad8907bd05df) |
+| Wed, 18 Jun 2025 18:18:30 GMT | “Who Let the Pods Out?” | Tarun Agarwal | [Read More](https://medium.com/p/0bdfbf7afd32) |
+| Wed, 18 Jun 2025 18:18:12 GMT | SILENT SCREAM: BREAKING THE STIGMA AROUND MENTAL HEALTH | Fedude Annie | [Read More](https://medium.com/p/471d3ae5d584) |
+| Wed, 18 Jun 2025 18:16:16 GMT | eCIR Exam Review (eCIR vs ECIH) | Adham Hisham | [Read More](https://medium.com/p/2edd97f3c7e8) |
+| Wed, 18 Jun 2025 18:15:47 GMT | Best Security Practices for FileMaker 2025: Protecting Your Data | Jeffrey Henry | [Read More](https://medium.com/p/ce18d6583cf6) |
+| Wed, 18 Jun 2025 18:08:36 GMT | Haven1: Redefining DeFi with Security and Trust ️ | Zen Kairos | [Read More](https://medium.com/p/d1a23601bae1) |
+| Wed, 18 Jun 2025 18:06:06 GMT | Meowsterio: Weaponizing ClickOnce in 2025 | g0njxa | [Read More](https://medium.com/p/8c2595a817c8) |
+| Wed, 18 Jun 2025 18:00:23 GMT | The Dark Side of Being a Scorpio (Nobody Talks About This) | Wilson Igbasi | [Read More](https://medium.com/p/53c5598e6678) |
+| Wed, 18 Jun 2025 17:59:20 GMT | Giving life context. | Dunw1ch | [Read More](https://medium.com/p/b029825b68c2) |
+| Wed, 18 Jun 2025 17:57:11 GMT | Penetration Testing: The Digital Pest Control | Mayuresh Chaubal | [Read More](https://medium.com/p/1f2dca7d2c44) |
+| Wed, 18 Jun 2025 17:56:50 GMT | Linux basic for Hacker Summary | Sachin Kumar | [Read More](https://medium.com/p/74c253c8bdad) |
+| Wed, 18 Jun 2025 17:50:21 GMT | Weekly Data Breach Statistics (June 10, 2025 — June 17, 2025) | Alexandre Vandamme | [Read More](https://medium.com/p/7ec4eccef918) |
+| Wed, 18 Jun 2025 17:44:47 GMT | Safeguarding Your Secrets: 6 Data Desensitization Solutions for Large Enterprises (with Spring… | Umesh Kumar Yadav | [Read More](https://medium.com/p/eed3612012f1) |
 | Wed, 18 Jun 2025 17:42:08 GMT | Advanced AI Ethical Hacking Course: The Future of Cybersecurity | TheCertExpert | [Read More](https://medium.com/p/25df282b6caa) |
+| Wed, 18 Jun 2025 17:39:21 GMT | Bug Bounty Blueprint 2025: Real Method to Land Your First Payout (No Fluff) | Rishabh Shrivastava | [Read More](https://medium.com/p/b0e4aa2c28dd) |
 | Wed, 18 Jun 2025 17:36:54 GMT | Inside the GodFather Malware’s New Virtual Reality: A Wake-Up Call for Mobile Financial Security | Avnishyam | [Read More](https://medium.com/p/047f9aea6b4b) |
 | Wed, 18 Jun 2025 17:33:40 GMT | Safeguarding Your Secrets: 6 Data Desensitization Solutions Large Companies Use to Combat Insider… | Umesh Kumar Yadav | [Read More](https://medium.com/p/7b6426655953) |
 | Wed, 18 Jun 2025 17:29:54 GMT | How to capture, store, and index information, Old School Style | Len Galasso | [Read More](https://medium.com/p/dd24338cd063) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 12:51:46 GMT | Strengthening Your Cyber Defenses: A Deep Dive into the NIST Cybersecurity Framework | Sakshi Dwivedi | [Read More](https://medium.com/p/e2cda945a436) |
 | Wed, 18 Jun 2025 12:47:08 GMT | AI-Powered Cyber Attacks: The Governance Gap We Can’t Ignore | John Davies | [Read More](https://medium.com/p/82c8fdc39d31) |
 | Wed, 18 Jun 2025 12:40:51 GMT | I Earned $7,000 from Bug Bounties — But $0 from My Startup Idea | Vivek PS | [Read More](https://medium.com/p/5dd02262b2f7) |
-| Wed, 18 Jun 2025 12:37:28 GMT | “Creating a Security-First Culture: Why Every Company Needs One” | Cybersecurity Umbrella | [Read More](https://medium.com/p/02f995e3763f) |
-| Wed, 18 Jun 2025 12:36:25 GMT | I didn’t know my API was exposed — until it was too late. | Needa Ansari | [Read More](https://medium.com/p/ba65d72f9cd0) |
-| Wed, 18 Jun 2025 12:33:48 GMT | Anubis Ransomware: The Alarming New Threat That Doesn’t Just Lock Files — It Destroys Them | Secucenter | [Read More](https://medium.com/p/0d1e611c43b6) |
-| Wed, 18 Jun 2025 12:30:48 GMT | What Are Combo Lists? How Leaked Passwords Fuel Cybercrime | Tanzeel Siddiqui | [Read More](https://medium.com/p/4d931b63dacb) |
-| Wed, 18 Jun 2025 12:29:26 GMT | Who Owns Your Driving Data? The Fight Over Automotive Privacy | Goismo AB | [Read More](https://medium.com/p/9ceb20ad97a7) |
-| Wed, 18 Jun 2025 12:20:05 GMT | Enhancing Business Safety and Connectivity with Structured Cabling and Cyber Security in Odisha | Khatore IT Solutions | [Read More](https://medium.com/p/394fdf36c0c9) |
-| Wed, 18 Jun 2025 12:10:12 GMT | Staying Safe from Modern Phishing Attacks: A Guide for BoldSign Users | Reethika Moovendhan | [Read More](https://medium.com/p/3c8608938c55) |
-| Wed, 18 Jun 2025 12:10:07 GMT | Inside the Android App: Breaking Insecure Crypto in SharedPreferences | 0xZox | [Read More](https://medium.com/p/4350a796df19) |
-| Wed, 18 Jun 2025 12:06:40 GMT | From SNS to Secrets: Hacking Through AWS Misconfigurations — CloudGoat Scenario | Aravind S V | [Read More](https://medium.com/p/bd152e658275) |
-| Wed, 18 Jun 2025 12:05:30 GMT | MalDev for Android: Comprehensive APK Analysis and Malware development | Lord Murak | [Read More](https://medium.com/p/183629b9594c) |
-| Wed, 18 Jun 2025 12:03:57 GMT | Unseen Vulnerability in LLM Tools: Lessons from the AgentSmith Incident | Hari Rahul | [Read More](https://medium.com/p/04cf48ec6b4f) |
-| Wed, 18 Jun 2025 12:02:07 GMT | Pwning Sunset Dawn — VulnHub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/9f4b627b35b9) |
-| Wed, 18 Jun 2025 12:01:44 GMT | Authentication part-7 : Username enumeration via account lock | Ahmad Sopyan | [Read More](https://medium.com/p/6e8ade1396e9) |
-| Wed, 18 Jun 2025 12:01:10 GMT | AgentSmith Exposed: What the LangSmith Vulnerability Teaches Us About Agent Risk | Srinivasps | [Read More](https://medium.com/p/15943ea1e862) |
-| Wed, 18 Jun 2025 11:58:52 GMT | 5 Server Mistakes That Nearly Destroyed My Client's Business (€47K in Damages) | Jean Patrick Payette | [Read More](https://medium.com/p/3e19e1f8210a) |
-| Wed, 18 Jun 2025 11:56:39 GMT | One Click, One Slip: Inside the AgentSmith LLM Bug | Saravanan R | [Read More](https://medium.com/p/6bf75dc2bd9d) |
