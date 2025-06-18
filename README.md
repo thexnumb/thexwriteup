@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 10:44:17 GMT | DNS Misconfig + Web Cache Deception → Sensitive Data Exposure | Monika sharma | [Read More](https://medium.com/p/6a243542f545) |
+| Wed, 18 Jun 2025 10:43:15 GMT | Tracing the Shadows: How a Single Phishing Domain Revealed a Hidden Threat Infrastructure | h3xstone | [Read More](https://medium.com/p/400e451895a5) |
+| Wed, 18 Jun 2025 10:42:37 GMT | How to Use a Burner Email Address And When You Should | Karl Buhl | [Read More](https://medium.com/p/7cd1fc82bc79) |
+| Wed, 18 Jun 2025 10:40:37 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 3] | Aditya Bhatt | [Read More](https://medium.com/p/2bea07098768) |
+| Wed, 18 Jun 2025 10:39:15 GMT | HTTP Proxy + Host Header Injection → Account Takeover | Monika sharma | [Read More](https://medium.com/p/3cac52cec817) |
+| Wed, 18 Jun 2025 10:39:04 GMT | Catching Malware That Hides From Task Manager | Bl@ckC!pH3r | [Read More](https://medium.com/p/0a66b4341680) |
+| Wed, 18 Jun 2025 10:38:25 GMT | My Virtual HomeLab: Active Directory — Part Three | Cybersec with Hemmars | [Read More](https://medium.com/p/7229a1edbcf1) |
+| Wed, 18 Jun 2025 10:35:31 GMT | The future of Document management Systems is not bright | Shaun Turner | [Read More](https://medium.com/p/ae9ffa885da1) |
+| Wed, 18 Jun 2025 10:35:19 GMT | The Quantum Leap in Cybersecurity | Aju | [Read More](https://medium.com/p/88b3edc781ad) |
+| Wed, 18 Jun 2025 10:32:56 GMT | Online Doctorate in Cybersecurity — Lead the Future of Digital Security | Mbaprofessional | [Read More](https://medium.com/p/97b46cfe126a) |
+| Wed, 18 Jun 2025 10:31:42 GMT | I HIJACKED ADMIN VIA OAUTH  (PortSwigger Lab Walkthrough) | Sumanth Yerranagula | [Read More](https://medium.com/p/05f3f22925d6) |
+| Wed, 18 Jun 2025 10:22:14 GMT | Fileless Malware: The Ghost in Your Machine | zerOiQ | [Read More](https://medium.com/p/6dbeb7eba566) |
+| Wed, 18 Jun 2025 10:21:13 GMT | HTB CDSA: Study Smart, Defend Strong | daftneb | [Read More](https://medium.com/p/c26166fff488) |
 | Wed, 18 Jun 2025 10:03:48 GMT | Networking series 3: Deploying a 3-tier architecture with Terraform, HashiCorp Vault, AWS cloud | olawale owolabi kareem | [Read More](https://medium.com/p/3d5f73b4c617) |
 | Wed, 18 Jun 2025 09:57:45 GMT | The Vulnerability of Leadership | Dennis Hambeukers | [Read More](https://medium.com/p/7e2a491eb54e) |
 | Wed, 18 Jun 2025 09:56:18 GMT | Why Your Browser Might Be Hurting Your Game — and How to Fix It | Elfarissimustapha | [Read More](https://medium.com/p/0eb9e195b823) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 06:09:41 GMT | Why Top Security Services and Security Guard Services in Mumbai Are Essential for Urban Safety | Ciss India | [Read More](https://medium.com/p/2f4669cf7567) |
 | Wed, 18 Jun 2025 06:02:48 GMT | The Rise of Quantum Computing: How It Impacts Cybersecurity & Encryption. | Sennovate | [Read More](https://medium.com/p/37a7ffa01ee5) |
 | Wed, 18 Jun 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Jun 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a47c7ceb2102) |
-| Wed, 18 Jun 2025 05:59:02 GMT | Guarding the Digital Realm: B.Tech Cyber Security at ADYPU Pune | Sourabh More | [Read More](https://medium.com/p/49c33d76d1db) |
-| Wed, 18 Jun 2025 05:57:50 GMT | The Role of Cyber Security Services in Protecting Remote Work Environments | flyonit au | [Read More](https://medium.com/p/389a42562fc7) |
-| Wed, 18 Jun 2025 05:51:56 GMT | Fighting Deepfakes: Why a Proactive Defense is Key | Rijal s | [Read More](https://medium.com/p/91d7b4ad108d) |
-| Wed, 18 Jun 2025 05:34:16 GMT | The Future of Payment System Security: Navigating Regulations and Compliance | Kishore Challa | [Read More](https://medium.com/p/be333c209146) |
-| Wed, 18 Jun 2025 05:19:55 GMT | Anubis RaaS: The Rise of Destructive Ransomware With a Dual-Extortion Twist | CyDhaal | [Read More](https://medium.com/p/29b56c3da45a) |
-| Wed, 18 Jun 2025 05:15:36 GMT | When the CEO Emails You: Inside the Anatomy of a Corporate Phishing Scam | David SEHYEON Baek | [Read More](https://medium.com/p/7984f3ec6e37) |
-| Wed, 18 Jun 2025 05:02:42 GMT | AWS Security Guide: Part 3 | SonnieCodes | [Read More](https://medium.com/p/df9e9ab2bf09) |
-| Wed, 18 Jun 2025 04:57:12 GMT | The Price of Choosing What You Love | zhhh_nova | [Read More](https://medium.com/p/b72fe5f296c6) |
-| Wed, 18 Jun 2025 04:49:03 GMT | How I Found a Location Spoofing Vulnerability in a Chrome Extension | MostReal | [Read More](https://medium.com/p/6b53c56548ad) |
-| Wed, 18 Jun 2025 04:48:52 GMT | Turning Footprints Into Blueprints: OSINT in Real Attacks | Dracky4u | [Read More](https://medium.com/p/1a8fc13424a0) |
-| Wed, 18 Jun 2025 04:36:02 GMT | Builder of the Foundations of Cybersecurity: Ralph C Merkle | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/676202f6e54a) |
-| Wed, 18 Jun 2025 04:26:56 GMT | Increased Safety: Oman Deploys Facial Recognition for Public Security | Tekhabeeb | [Read More](https://medium.com/p/5db31ca8b46e) |
-| Wed, 18 Jun 2025 04:26:10 GMT | Click Account Takeover (ATO) | Rishav anand | [Read More](https://medium.com/p/532065b4696d) |
