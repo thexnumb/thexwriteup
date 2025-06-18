@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 21:03:16 GMT | Penetration Testing Cloudflare Malware Threats. June 18, 2025: | Inforsecpro | [Read More](https://medium.com/p/2135c405b39b) |
+| Wed, 18 Jun 2025 21:00:24 GMT | Brainpan1 — Buffer Overflow Write-up | Link | [Read More](https://medium.com/p/34b32f1d511f) |
+| Wed, 18 Jun 2025 21:00:18 GMT | Cybersecurity: Is It a Good Career Choice, and How to Get Started? | Areebatariq | [Read More](https://medium.com/p/50bbb11282b2) |
+| Wed, 18 Jun 2025 20:58:58 GMT | Day 1 of 21 — Start with TryHackMe | Myshawne Stallings | [Read More](https://medium.com/p/0fea3878d0fc) |
+| Wed, 18 Jun 2025 20:43:20 GMT | I PWNED A STOCK CHECKER USING ;whoami IN A POST REQUEST | Sumanth Yerranagula | [Read More](https://medium.com/p/099a5ad36fe5) |
+| Wed, 18 Jun 2025 20:42:23 GMT | Cybersecurity Analyst — 10 Best Practices, Portals & Career Development | Franklin Rhodes | [Read More](https://medium.com/p/eef9e446f8e6) |
 | Wed, 18 Jun 2025 20:29:51 GMT | From Packets to Proof: A Step-by-Step Network Forensics Investigation | Mohammed | [Read More](https://medium.com/p/ee6b24e134e2) |
 | Wed, 18 Jun 2025 20:29:48 GMT | lifting Social Media Account Ban, Simplified | Tobias Mathew | [Read More](https://medium.com/p/07d82e682164) |
 | Wed, 18 Jun 2025 20:27:09 GMT | Grouped, Clicked, and Visualized — Building Real Control for Our IoT Hub | Varnith | [Read More](https://medium.com/p/d1db94088fa9) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 15:33:42 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e21f99db1ad8) |
 | Wed, 18 Jun 2025 15:31:46 GMT | Our Information is Broken and AI Will Only Make It Worse | Randy Schwartz | [Read More](https://medium.com/p/7973d63a6ad0) |
 | Wed, 18 Jun 2025 15:27:32 GMT | TryHackMe - Volatility Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/f9238c56b6de) |
-| Wed, 18 Jun 2025 15:08:00 GMT | Setting Up Local Server for Remote Access via Tailscale — yang mau Remote Server dari mana saja… | Syafa Asgani | [Read More](https://medium.com/p/7154a10ba61e) |
-| Wed, 18 Jun 2025 15:06:30 GMT | How I Designed My Own OAuth2 Authorization Server (And When You Should Too) | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/c6e8b562e638) |
-| Wed, 18 Jun 2025 15:05:32 GMT | Czech Republic at a Crossroads Between Western Freedom and Eastern Despotism | Martin Prochazka | [Read More](https://medium.com/p/1e2df5a8522b) |
-| Wed, 18 Jun 2025 15:02:46 GMT | . Cybersecurity at a Crossroads: Inside the Nobitex Hack & the Evolving Threat Landscape of 2025 | Zyntrio Tech Report | [Read More](https://medium.com/p/b08c0da90090) |
-| Wed, 18 Jun 2025 15:02:40 GMT | Ponder This: The Scam That Won’t Stay Silent | Surviving the Grind with Soul Unnie | [Read More](https://medium.com/p/ba7e38d9e3dc) |
-| Wed, 18 Jun 2025 15:02:40 GMT | How I Catch Bugs Before the Users Do: Tips for Test Case Design | Higor Mesquita | [Read More](https://medium.com/p/b6edfc9f7128) |
