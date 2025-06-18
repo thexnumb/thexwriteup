@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 11:15:21 GMT | Understanding Polymorphism  - Java | Hari Prasad | [Read More](https://medium.com/p/3b5027fe716c) |
+| Wed, 18 Jun 2025 11:14:46 GMT | YOUR WEBSITE IS GOING TO BE HAC!KED BY ANYONE. SO, STAY ALERT | Jacksonjhon | [Read More](https://medium.com/p/9194bf6903be) |
+| Wed, 18 Jun 2025 11:13:03 GMT | CYBER: A Unified Operating System for Autonomous Robotic Intelligence | Rahul Raj | [Read More](https://medium.com/p/89182aa7e2d7) |
+| Wed, 18 Jun 2025 11:12:37 GMT | Stealthy Code Execution via NtMapViewOfSection + RtlCreateUserThread + Hidden Entry Stub | LordShen | [Read More](https://medium.com/p/5947c9a87726) |
+| Wed, 18 Jun 2025 11:11:56 GMT | Is AI Fighting Hackers — Or Helping Them? | Wisdom Smith | [Read More](https://medium.com/p/1b1cf0ff2e22) |
+| Wed, 18 Jun 2025 11:07:41 GMT | Protect Your Brand: The Business Case for Penetration Testing Services | SmartCLOUD Australia | [Read More](https://medium.com/p/39423cad404c) |
+| Wed, 18 Jun 2025 11:07:08 GMT | We Built an IoT Backend with Spring Boot — And Somehow Made It Talk MQTT | Varnith | [Read More](https://medium.com/p/83ab4e6453a3) |
+| Wed, 18 Jun 2025 10:54:20 GMT | The True Price of ‘Free’: How You’re Paying Without Knowing | Giri Babu | [Read More](https://medium.com/p/7b45f599b767) |
+| Wed, 18 Jun 2025 10:49:05 GMT | Build a Password Cracker Using Python | Frost | [Read More](https://medium.com/p/9caadb8c72f1) |
+| Wed, 18 Jun 2025 10:48:51 GMT | From LFI to RCE via /proc/self/environ – Shell Access via Headers | Zoningxtr | [Read More](https://medium.com/p/1f22e18c65db) |
 | Wed, 18 Jun 2025 10:44:17 GMT | DNS Misconfig + Web Cache Deception → Sensitive Data Exposure | Monika sharma | [Read More](https://medium.com/p/6a243542f545) |
 | Wed, 18 Jun 2025 10:43:15 GMT | Tracing the Shadows: How a Single Phishing Domain Revealed a Hidden Threat Infrastructure | h3xstone | [Read More](https://medium.com/p/400e451895a5) |
 | Wed, 18 Jun 2025 10:42:37 GMT | How to Use a Burner Email Address And When You Should | Karl Buhl | [Read More](https://medium.com/p/7cd1fc82bc79) |
@@ -19,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 10:39:15 GMT | HTTP Proxy + Host Header Injection → Account Takeover | Monika sharma | [Read More](https://medium.com/p/3cac52cec817) |
 | Wed, 18 Jun 2025 10:39:04 GMT | Catching Malware That Hides From Task Manager | Bl@ckC!pH3r | [Read More](https://medium.com/p/0a66b4341680) |
 | Wed, 18 Jun 2025 10:38:25 GMT | My Virtual HomeLab: Active Directory — Part Three | Cybersec with Hemmars | [Read More](https://medium.com/p/7229a1edbcf1) |
+| Wed, 18 Jun 2025 10:37:58 GMT | Introduction to OSINT — Challenge Walkthrough | Nirjallama | [Read More](https://medium.com/p/b26f0a0bf30e) |
 | Wed, 18 Jun 2025 10:35:31 GMT | The future of Document management Systems is not bright | Shaun Turner | [Read More](https://medium.com/p/ae9ffa885da1) |
 | Wed, 18 Jun 2025 10:35:19 GMT | The Quantum Leap in Cybersecurity | Aju | [Read More](https://medium.com/p/88b3edc781ad) |
 | Wed, 18 Jun 2025 10:32:56 GMT | Online Doctorate in Cybersecurity — Lead the Future of Digital Security | Mbaprofessional | [Read More](https://medium.com/p/97b46cfe126a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 06:41:54 GMT | How Great Products Are Made!! | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/b6a0bf9c620f) |
 | Wed, 18 Jun 2025 06:40:42 GMT | Emotional Generosity | Flaminia Catalli | [Read More](https://medium.com/p/56cff7cd8d45) |
 | Wed, 18 Jun 2025 06:39:05 GMT | Why Choosing Professional Alarm Response Is Smarter Than DIY Monitoring | Sentrysofficers | [Read More](https://medium.com/p/332cd8785848) |
-| Wed, 18 Jun 2025 06:36:11 GMT | Beyond Static: Intelligent Caching & DDoS Mitigation with AWS CloudFront | Harsh Singhal | [Read More](https://medium.com/p/35df2c2450a9) |
-| Wed, 18 Jun 2025 06:31:03 GMT | How I Passed CompTIA Security+ & Network+ Without Professional Cybersecurity Experience. | Harjot Singh | [Read More](https://medium.com/p/42a85fcfd21c) |
-| Wed, 18 Jun 2025 06:24:02 GMT | How to Become Ethical Hacker after 12th in India? | cyber security Updates | [Read More](https://medium.com/p/f37649c8d0ab) |
-| Wed, 18 Jun 2025 06:22:37 GMT | When Session Fixation Meets Session Confusion: A Case of Cross-User Control | Erkan Kavas | [Read More](https://medium.com/p/bb2cd0d478e8) |
-| Wed, 18 Jun 2025 06:22:29 GMT | How I hacked a State Results NIC portal with a simple SQL injection | Adithya M S | [Read More](https://medium.com/p/e095725a091e) |
-| Wed, 18 Jun 2025 06:21:55 GMT | How I Hacked Accounts Using Host Header Injection in Password Reset Link — $$$$ | Pratik Dabhi | [Read More](https://medium.com/p/2774431eed89) |
-| Wed, 18 Jun 2025 06:20:59 GMT | Critical SQL Injection Flaw Found in E-cology — RCE Possible | AerieWhole123 | [Read More](https://medium.com/p/812cd049544b) |
-| Wed, 18 Jun 2025 06:16:31 GMT | What Is Attack Surface Management? A Critical Guide for Enterprise Security | Zeron | [Read More](https://medium.com/p/9063716410d7) |
-| Wed, 18 Jun 2025 06:09:41 GMT | Why Top Security Services and Security Guard Services in Mumbai Are Essential for Urban Safety | Ciss India | [Read More](https://medium.com/p/2f4669cf7567) |
-| Wed, 18 Jun 2025 06:02:48 GMT | The Rise of Quantum Computing: How It Impacts Cybersecurity & Encryption. | Sennovate | [Read More](https://medium.com/p/37a7ffa01ee5) |
-| Wed, 18 Jun 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Jun 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a47c7ceb2102) |
