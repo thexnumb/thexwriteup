@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 09:32:58 GMT | The Nobitex Hack: A Comprehensive Analysis of Iran’s Largest Crypto Exchange Breach | MemeCoins Tools | [Read More](https://medium.com/p/7b949712daea) |
+| Wed, 18 Jun 2025 09:25:41 GMT | Building My First Mini SIEM with FastAPI — A Brute Force Detection API That Actually Works | Suryansh Sharma | [Read More](https://medium.com/p/65b0090eb41c) |
+| Wed, 18 Jun 2025 09:25:15 GMT | Why Smart Businesses Are Automating Operations | CyberSolvings | [Read More](https://medium.com/p/122b7b4e8dfe) |
+| Wed, 18 Jun 2025 09:21:47 GMT | The Future of Red Teaming in the Age of AI: Adapt or Become Obsolete | Yua Mikanana | [Read More](https://medium.com/p/0533332633fd) |
 | Wed, 18 Jun 2025 09:15:04 GMT | Meta Pool $27M June Hack: A technical breakdown | lodelux | [Read More](https://medium.com/p/057cf44e850c) |
 | Wed, 18 Jun 2025 09:02:25 GMT | Detecting Web Attacks | Sh3nobi | [Read More](https://medium.com/p/d8ed1a05bf2e) |
 | Wed, 18 Jun 2025 09:02:06 GMT | Top 3 Free WAFs for Developers in 2025 (with Setup Guide) | Maverick Steel | [Read More](https://medium.com/p/c3f9102fb41c) |
@@ -25,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 08:53:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Sqnbangunindonesia | [Read More](https://medium.com/p/21b811d5a6f9) |
 | Wed, 18 Jun 2025 08:53:15 GMT | 14 — SOC104 — Malware Detected | Amadi Oluchi Faith | [Read More](https://medium.com/p/3ccc6dc5ae59) |
 | Wed, 18 Jun 2025 08:52:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Mngsqntraining | [Read More](https://medium.com/p/9fbaa36b4eb9) |
+| Wed, 18 Jun 2025 08:51:11 GMT | OSI ve TCP/IP Katmanları: İnternetin Perde Arkasını Katman Katman Keşfetmek | Beyza Sıla Gökmen | [Read More](https://medium.com/p/8f41546ec4b1) |
 | Wed, 18 Jun 2025 08:46:12 GMT | Improve your endpoint security with CrowdSec — An Open Source platform | Abishek S | [Read More](https://medium.com/p/a782221b4542) |
 | Wed, 18 Jun 2025 08:41:43 GMT | The Daily Tech Digest: 18 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e9c3c0face4b) |
 | Wed, 18 Jun 2025 08:41:17 GMT | Reumaclysm | Acid & Rain Grey | [Read More](https://medium.com/p/9d31b276bf63) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 03:45:17 GMT | Building Trust: Cybersecurity Across The Architectural Workflow | Jacky Kapadia | [Read More](https://medium.com/p/72fa98be9278) |
 | Wed, 18 Jun 2025 03:35:01 GMT | Iranian Cyberattacks Targeting Israel's Anti-Missile Systems: A New Front in the Conflict | CCD-IS | [Read More](https://medium.com/p/a233b26a20bd) |
 | Wed, 18 Jun 2025 03:33:42 GMT | CTF Day(18) | Ahmed Narmer | [Read More](https://medium.com/p/36150509f6cc) |
-| Wed, 18 Jun 2025 03:32:36 GMT | Fake mParivahan App Scam: How WhatsApp Messages Are Tricking Users and Stealing Data | Deven Chhajed | [Read More](https://medium.com/p/0f4df466701f) |
-| Wed, 18 Jun 2025 03:30:03 GMT | Docker Networking and Firewalls: A Complete Security Guide (Part 1) | Ashish Singh | [Read More](https://medium.com/p/fcf5d8443fe4) |
-| Wed, 18 Jun 2025 03:26:31 GMT | Integrating Facebook Login with Auth0 using Terraform: A Mixed Experience | Mark Tinderholt | [Read More](https://medium.com/p/b6ea96f47605) |
-| Wed, 18 Jun 2025 03:11:06 GMT | Common attacks and their effectiveness | Thuong To | [Read More](https://medium.com/p/b0c5ce0fe3ee) |
-| Wed, 18 Jun 2025 02:57:07 GMT | The Psychology of the Click: Real-World Phishing Attack Simulation Using Zphisher | VidyaRao008 | [Read More](https://medium.com/p/634c6b1473d6) |
