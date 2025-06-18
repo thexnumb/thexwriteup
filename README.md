@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 11:32:36 GMT | Bludgeoned Buzzwords: Cloud-First | Namir Sagheenanajar | [Read More](https://medium.com/p/6b91a7b7b0a8) |
+| Wed, 18 Jun 2025 11:30:43 GMT | The CIA Triad: The Three Pillars of Information Security | Prajwal Ahluwalia | [Read More](https://medium.com/p/5d318c00864a) |
+| Wed, 18 Jun 2025 11:28:08 GMT | AI Detection Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7f08d46c196b) |
+| Wed, 18 Jun 2025 11:25:24 GMT | Passkeys at the Protocol Layer: Eliminating Passwords with Asymmetric Authentication | Michael P. Di Fulvio | [Read More](https://medium.com/p/341df3b42c4e) |
+| Wed, 18 Jun 2025 11:21:59 GMT | Digital Rajasthan: Rathore’s Vision Through IT, Communications & Skill Development | soumya jain | [Read More](https://medium.com/p/a0d12e457c1e) |
+| Wed, 18 Jun 2025 11:18:45 GMT | In today’s fast-moving digital world, data breaches have become one of the biggest threats… | Sureshnextwebi | [Read More](https://medium.com/p/fe6a2145a51a) |
 | Wed, 18 Jun 2025 11:15:21 GMT | Understanding Polymorphism  - Java | Hari Prasad | [Read More](https://medium.com/p/3b5027fe716c) |
 | Wed, 18 Jun 2025 11:14:46 GMT | YOUR WEBSITE IS GOING TO BE HAC!KED BY ANYONE. SO, STAY ALERT | Jacksonjhon | [Read More](https://medium.com/p/9194bf6903be) |
 | Wed, 18 Jun 2025 11:13:03 GMT | CYBER: A Unified Operating System for Autonomous Robotic Intelligence | Rahul Raj | [Read More](https://medium.com/p/89182aa7e2d7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 06:57:27 GMT | Key Differences Between Vulnerability Assessment and Penetration Testing | StrongBox IT | [Read More](https://medium.com/p/407abc61bd4b) |
 | Wed, 18 Jun 2025 06:56:02 GMT | Creating an OTP Text View with Auto-Fill Support in Jetpack Compose | Karishma Agrawal | [Read More](https://medium.com/p/ab3dd50ae074) |
 | Wed, 18 Jun 2025 06:51:56 GMT | Free charging ports in public places! Possible conduit for cybercrime! | SAYCOIN | [Read More](https://medium.com/p/f0bbc6d427ad) |
-| Wed, 18 Jun 2025 06:50:13 GMT | Mosaic, Not Monolith | rquadauqr | [Read More](https://medium.com/p/06b141493fdb) |
-| Wed, 18 Jun 2025 06:49:52 GMT | Top Armed Security Guards in the USA — Direct Guard Services | Direct Guard Services | [Read More](https://medium.com/p/1efdfc48c4be) |
-| Wed, 18 Jun 2025 06:45:52 GMT | The Windows Security Journey — EFS (Encrypted File System) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3e2d319530ca) |
-| Wed, 18 Jun 2025 06:41:54 GMT | How Great Products Are Made!! | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/b6a0bf9c620f) |
-| Wed, 18 Jun 2025 06:40:42 GMT | Emotional Generosity | Flaminia Catalli | [Read More](https://medium.com/p/56cff7cd8d45) |
-| Wed, 18 Jun 2025 06:39:05 GMT | Why Choosing Professional Alarm Response Is Smarter Than DIY Monitoring | Sentrysofficers | [Read More](https://medium.com/p/332cd8785848) |
