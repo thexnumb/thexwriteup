@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 09:15:04 GMT | Meta Pool $27M June Hack: A technical breakdown | lodelux | [Read More](https://medium.com/p/057cf44e850c) |
+| Wed, 18 Jun 2025 09:02:25 GMT | Detecting Web Attacks | Sh3nobi | [Read More](https://medium.com/p/d8ed1a05bf2e) |
+| Wed, 18 Jun 2025 09:02:06 GMT | Top 3 Free WAFs for Developers in 2025 (with Setup Guide) | Maverick Steel | [Read More](https://medium.com/p/c3f9102fb41c) |
+| Wed, 18 Jun 2025 09:00:18 GMT | Data: The New Black Fuel Driving Cybersecurity | Chirag Singh | [Read More](https://medium.com/p/110c7f26da3f) |
+| Wed, 18 Jun 2025 08:57:15 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Transindo Training | [Read More](https://medium.com/p/352e8d7d8d46) |
+| Wed, 18 Jun 2025 08:56:47 GMT | From Curious Clicker to Ethical Hacker Pro — Your Cyber Journey Starts Now! | Foryanto Jaya Wiguna | [Read More](https://medium.com/p/b8afb79731f9) |
+| Wed, 18 Jun 2025 08:56:36 GMT | Hacking Toppo — VulnHub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/5022cac80407) |
+| Wed, 18 Jun 2025 08:55:57 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Mngfarzanatraining | [Read More](https://medium.com/p/7edb3bbddf73) |
+| Wed, 18 Jun 2025 08:54:42 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Farzana Training | [Read More](https://medium.com/p/a426aed80427) |
+| Wed, 18 Jun 2025 08:54:11 GMT | Here’s Why I think prompt engineering is about to become increasingly difficult in the future. | M F Petje | [Read More](https://medium.com/p/ea9c3267cfe5) |
+| Wed, 18 Jun 2025 08:53:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Sqnbangunindonesia | [Read More](https://medium.com/p/21b811d5a6f9) |
+| Wed, 18 Jun 2025 08:53:15 GMT | 14 — SOC104 — Malware Detected | Amadi Oluchi Faith | [Read More](https://medium.com/p/3ccc6dc5ae59) |
 | Wed, 18 Jun 2025 08:52:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Mngsqntraining | [Read More](https://medium.com/p/9fbaa36b4eb9) |
+| Wed, 18 Jun 2025 08:46:12 GMT | Improve your endpoint security with CrowdSec — An Open Source platform | Abishek S | [Read More](https://medium.com/p/a782221b4542) |
 | Wed, 18 Jun 2025 08:41:43 GMT | The Daily Tech Digest: 18 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e9c3c0face4b) |
 | Wed, 18 Jun 2025 08:41:17 GMT | Reumaclysm | Acid & Rain Grey | [Read More](https://medium.com/p/9d31b276bf63) |
 | Wed, 18 Jun 2025 08:39:28 GMT | ประจำวันพุธที่ 18 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/db43cca37522) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 03:26:31 GMT | Integrating Facebook Login with Auth0 using Terraform: A Mixed Experience | Mark Tinderholt | [Read More](https://medium.com/p/b6ea96f47605) |
 | Wed, 18 Jun 2025 03:11:06 GMT | Common attacks and their effectiveness | Thuong To | [Read More](https://medium.com/p/b0c5ce0fe3ee) |
 | Wed, 18 Jun 2025 02:57:07 GMT | The Psychology of the Click: Real-World Phishing Attack Simulation Using Zphisher | VidyaRao008 | [Read More](https://medium.com/p/634c6b1473d6) |
-| Wed, 18 Jun 2025 02:56:00 GMT | Multi-Step Process with No Access Control on One Step | Bash Overflow | [Read More](https://medium.com/p/a17dba1a4415) |
-| Wed, 18 Jun 2025 02:55:00 GMT | Easy install, Easy configuration: ClamAV for Linux | Dr. Jake | [Read More](https://medium.com/p/d70c09c81271) |
-| Wed, 18 Jun 2025 02:54:40 GMT | Seamless Sign-In: Automating Microsoft Personal Account Authentication with Auth0 and Entra ID via… | Mark Tinderholt | [Read More](https://medium.com/p/f925a95a517f) |
-| Wed, 18 Jun 2025 02:46:20 GMT | SafeLine 7.1 Adds Custom NGINX Location Support — Here’s How to Use It | AerieWhole123 | [Read More](https://medium.com/p/392b3f72b7f8) |
-| Wed, 18 Jun 2025 02:38:44 GMT | How I’m Learning Cybersecurity for Free (And You Can Too) | ZeroDayDiva | [Read More](https://medium.com/p/134f779bbdef) |
-| Wed, 18 Jun 2025 02:38:40 GMT | Stepping into Ethical Hacking — Day 2 : Virtualization and Virtual Box | Nitin Kudal | [Read More](https://medium.com/p/780d3014a171) |
-| Wed, 18 Jun 2025 02:29:07 GMT | Highlights - Security New Features in April & May 2025 | Lara Lee | [Read More](https://medium.com/p/1da956406a78) |
-| Wed, 18 Jun 2025 02:25:25 GMT | Mission: Cyber Possible—How I Learned Cybersecurity with NIST and IAM policies and… | Arjun Santhosh | [Read More](https://medium.com/p/572ed0f2d4e9) |
-| Wed, 18 Jun 2025 02:18:53 GMT | What My Dog Taught Me About Detection & Response | Code & Kif | [Read More](https://medium.com/p/c8bc6ee98417) |
-| Wed, 18 Jun 2025 01:48:24 GMT | ️ Top 5 Cybersecurity Threats Facing SMBs in 2025 | Jesse Ridley | [Read More](https://medium.com/p/e08141188813) |
-| Wed, 18 Jun 2025 01:47:08 GMT | Cyberwarfare Simulations Between Nations: Training in the Modern Cyber Range | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2f6174e34dee) |
-| Wed, 18 Jun 2025 01:35:20 GMT | Desvendando o OWASP AIVSS: Um Framework para Segurança de IA | Fernando Silva | [Read More](https://medium.com/p/728d3962a918) |
-| Wed, 18 Jun 2025 01:05:06 GMT | Why I Started This Cybersecurity Blog: For the People Who Feel Left Behind | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/fb7f2acc6f45) |
