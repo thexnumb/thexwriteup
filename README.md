@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 05:15:36 GMT | When the CEO Emails You: Inside the Anatomy of a Corporate Phishing Scam | David SEHYEON Baek | [Read More](https://medium.com/p/7984f3ec6e37) |
+| Wed, 18 Jun 2025 05:02:42 GMT | AWS Security Guide: Part 3 | SonnieCodes | [Read More](https://medium.com/p/df9e9ab2bf09) |
+| Wed, 18 Jun 2025 04:57:12 GMT | The Price of Choosing What You Love | zhhh_nova | [Read More](https://medium.com/p/b72fe5f296c6) |
+| Wed, 18 Jun 2025 04:49:03 GMT | How I Found a Location Spoofing Vulnerability in a Chrome Extension | MostReal | [Read More](https://medium.com/p/6b53c56548ad) |
+| Wed, 18 Jun 2025 04:48:52 GMT | Turning Footprints Into Blueprints: OSINT in Real Attacks | Dracky4u | [Read More](https://medium.com/p/1a8fc13424a0) |
 | Wed, 18 Jun 2025 04:36:02 GMT | Builder of the Foundations of Cybersecurity: Ralph C Merkle | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/676202f6e54a) |
 | Wed, 18 Jun 2025 04:26:56 GMT | Increased Safety: Oman Deploys Facial Recognition for Public Security | Tekhabeeb | [Read More](https://medium.com/p/5db31ca8b46e) |
 | Wed, 18 Jun 2025 04:26:10 GMT | Click Account Takeover (ATO) | Rishav anand | [Read More](https://medium.com/p/532065b4696d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 19:21:22 GMT | Siber Güvenliğe Giriş — 6 (Örnek AĞ TOPOLOJİSİ | Emre TOPUZ | [Read More](https://medium.com/p/ec30ea36e3f7) |
 | Tue, 17 Jun 2025 19:21:03 GMT | Unpacking Your Credit Card Payment: The High-Tech Ballet Behind Every Tap and Swipe | Gokul Kannan | [Read More](https://medium.com/p/fb8f3e3ae676) |
 | Tue, 17 Jun 2025 19:17:23 GMT | The Ultimate Guide to Default Credentials, Custom Wordlists & Hash Cracking Techniques | Very Lazy Tech | [Read More](https://medium.com/p/66e64cbebd4e) |
-| Tue, 17 Jun 2025 19:11:50 GMT | “Maybe we should wash our hands?” | M H | [Read More](https://medium.com/p/f8476248ce7d) |
-| Tue, 17 Jun 2025 19:11:45 GMT | How Spring Security Prevents Clickjacking: A Comprehensive Guide | Umesh Kumar Yadav | [Read More](https://medium.com/p/8e02be66dc9a) |
-| Tue, 17 Jun 2025 19:08:09 GMT | First | Abster Teknologi Indonesia | [Read More](https://medium.com/p/035ecc618dca) |
-| Tue, 17 Jun 2025 19:06:35 GMT | Beware of the Fake Job Scam: Deep Dive into qubitsinfotechsolution.tech | NIkhil Kumar | [Read More](https://medium.com/p/84057a202409) |
-| Tue, 17 Jun 2025 19:06:02 GMT | How Credential Dumpers Work: Building an LSASS Memory Extractor in C | Moataz Osama | [Read More](https://medium.com/p/9bc00fe978c0) |
