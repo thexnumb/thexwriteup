@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 22:51:24 GMT | Dear Romantic Girl: Your Softness Is Not a Liability | ᴍᴇʀ ♡ | [Read More](https://medium.com/p/9c9218c3ed69) |
+| Wed, 18 Jun 2025 22:46:54 GMT | CYBER KILL CHAIN | Ahmedhezema | [Read More](https://medium.com/p/3b4a283272e8) |
 | Wed, 18 Jun 2025 22:25:18 GMT | Zero to Carnegie Mellon in 5 months | Kriti Srivastava | [Read More](https://medium.com/p/9faddc112575) |
 | Wed, 18 Jun 2025 22:18:51 GMT | When Crypto Becomes Collateral: The Ninety Million Dollar Burn of Nobitex | Travis Murphy | [Read More](https://medium.com/p/899e4c35a03f) |
 | Wed, 18 Jun 2025 22:18:27 GMT | 5 Lessons Learned as Incident Commander of the Biggest Security Incident of My Career | Ryan G. Cox | [Read More](https://medium.com/p/46498f61dae6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 16:04:07 GMT | Yok Ngebrute Force RAR! | Daniel Martin | [Read More](https://medium.com/p/b82e7266402f) |
 | Wed, 18 Jun 2025 16:02:23 GMT | Echoes of Safer Days: The Lingering Unanswered Questions | Rahma Isah | [Read More](https://medium.com/p/278b081a2fd8) |
 | Wed, 18 Jun 2025 16:01:44 GMT | Crying in Public Is Not Weakness - It’s a Radical Act of Healing | LA Adkins | [Read More](https://medium.com/p/deecb3f67c40) |
-| Wed, 18 Jun 2025 16:01:08 GMT | Calling The Video Game Industry — Toxic Waste Clean-Up on Aisle Everywhere | Savvy Cyber Kids | [Read More](https://medium.com/p/bbc30b70682c) |
-| Wed, 18 Jun 2025 16:00:48 GMT | How Kids FEEL About Their Online Worlds Is More Important Than What They Do Online | Savvy Cyber Kids | [Read More](https://medium.com/p/b4520ff661ff) |
