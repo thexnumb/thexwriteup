@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 06:22:37 GMT | When Session Fixation Meets Session Confusion: A Case of Cross-User Control | Erkan Kavas | [Read More](https://medium.com/p/bb2cd0d478e8) |
+| Wed, 18 Jun 2025 06:22:29 GMT | How I hacked a State Results NIC portal with a simple SQL injection | Adithya M S | [Read More](https://medium.com/p/e095725a091e) |
+| Wed, 18 Jun 2025 06:21:55 GMT | How I Hacked Accounts Using Host Header Injection in Password Reset Link — $$$$ | Pratik Dabhi | [Read More](https://medium.com/p/2774431eed89) |
+| Wed, 18 Jun 2025 06:20:59 GMT | Critical SQL Injection Flaw Found in E-cology — RCE Possible | AerieWhole123 | [Read More](https://medium.com/p/812cd049544b) |
+| Wed, 18 Jun 2025 06:16:31 GMT | What Is Attack Surface Management? A Critical Guide for Enterprise Security | Zeron | [Read More](https://medium.com/p/9063716410d7) |
+| Wed, 18 Jun 2025 06:09:41 GMT | Why Top Security Services and Security Guard Services in Mumbai Are Essential for Urban Safety | Ciss India | [Read More](https://medium.com/p/2f4669cf7567) |
+| Wed, 18 Jun 2025 06:02:48 GMT | The Rise of Quantum Computing: How It Impacts Cybersecurity & Encryption. | Sennovate | [Read More](https://medium.com/p/37a7ffa01ee5) |
+| Wed, 18 Jun 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Jun 18, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a47c7ceb2102) |
+| Wed, 18 Jun 2025 05:59:02 GMT | Guarding the Digital Realm: B.Tech Cyber Security at ADYPU Pune | Sourabh More | [Read More](https://medium.com/p/49c33d76d1db) |
+| Wed, 18 Jun 2025 05:57:50 GMT | The Role of Cyber Security Services in Protecting Remote Work Environments | flyonit au | [Read More](https://medium.com/p/389a42562fc7) |
+| Wed, 18 Jun 2025 05:51:56 GMT | Fighting Deepfakes: Why a Proactive Defense is Key | Rijal s | [Read More](https://medium.com/p/91d7b4ad108d) |
 | Wed, 18 Jun 2025 05:34:16 GMT | The Future of Payment System Security: Navigating Regulations and Compliance | Kishore Challa | [Read More](https://medium.com/p/be333c209146) |
 | Wed, 18 Jun 2025 05:19:55 GMT | Anubis RaaS: The Rise of Destructive Ransomware With a Dual-Extortion Twist | CyDhaal | [Read More](https://medium.com/p/29b56c3da45a) |
 | Wed, 18 Jun 2025 05:15:36 GMT | When the CEO Emails You: Inside the Anatomy of a Corporate Phishing Scam | David SEHYEON Baek | [Read More](https://medium.com/p/7984f3ec6e37) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 20:00:04 GMT | Kali Linux — Post Update Message about sshd_config file | Bob Malin | [Read More](https://medium.com/p/622943826e3c) |
 | Tue, 17 Jun 2025 19:58:25 GMT | “Do you know the formula for perfect wine? Can you predict the best World Cup team?” ⚽ | M H | [Read More](https://medium.com/p/927b70baf507) |
 | Tue, 17 Jun 2025 19:51:53 GMT | BUY NONE DETECTED COUNTERFEIT BILLS ($,€,£)…CONTACT ME ON WHATSAPP: +351924885536 | Alialsward | [Read More](https://medium.com/p/eb805d12785c) |
-| Tue, 17 Jun 2025 19:49:31 GMT | Think about it: He’s telling his troops to think beyond the command. | M H | [Read More](https://medium.com/p/cf53f82492c7) |
-| Tue, 17 Jun 2025 19:37:05 GMT | My First P1 on VDP program — Subdomain Takeover That Hit Critical | Ousski | [Read More](https://medium.com/p/c043565eb469) |
-| Tue, 17 Jun 2025 19:36:19 GMT | Day 2/100: Networking Concepts | 0X595 | [Read More](https://medium.com/p/2ebf1360ad16) |
-| Tue, 17 Jun 2025 19:34:37 GMT | Cyber Hygiene for the Hustler | O. J. Okpabi | [Read More](https://medium.com/p/68800c2f5783) |
-| Tue, 17 Jun 2025 19:33:13 GMT | Labyrinth Linguist — Step-by-Step Write-Up of an HTB Web Challenge | Saurabh | [Read More](https://medium.com/p/950c89e7460c) |
-| Tue, 17 Jun 2025 19:31:58 GMT | Anubis Ransomware: A Comprehensive Analysis of a Lethal Cyber Threat | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/afc5e2e09e16) |
-| Tue, 17 Jun 2025 19:27:32 GMT | The Future of Cybersecurity: Trends You Can’t Ignore | Yatin | [Read More](https://medium.com/p/7c96b41da511) |
-| Tue, 17 Jun 2025 19:27:23 GMT | Hack the Hunt: Operationalizing the OODA Loop in Cybersecurity | Mike Rebultan | [Read More](https://medium.com/p/7ce0e6cf5907) |
-| Tue, 17 Jun 2025 19:24:44 GMT | InjuredAndroid Android CTF write-up, Part I | Francesco Masi | [Read More](https://medium.com/p/7394ffd33ba7) |
-| Tue, 17 Jun 2025 19:23:10 GMT | Container security at scale: Building untrusted images safely | Depot | [Read More](https://medium.com/p/d05ab3932695) |
-| Tue, 17 Jun 2025 19:21:22 GMT | Siber Güvenliğe Giriş — 6 (Örnek AĞ TOPOLOJİSİ | Emre TOPUZ | [Read More](https://medium.com/p/ec30ea36e3f7) |
