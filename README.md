@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 19:14:51 GMT | The Malware Zoo: Spotting the Wildest Threats Online | Shekhar Saxena | [Read More](https://medium.com/p/0053f22cfb4e) |
+| Wed, 18 Jun 2025 19:06:53 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | Code With Hannan | [Read More](https://medium.com/p/b1175dc15f32) |
+| Wed, 18 Jun 2025 19:00:56 GMT | Universities: A Top Target for Phishing | urlDNA | [Read More](https://medium.com/p/820c5439b187) |
+| Wed, 18 Jun 2025 18:57:40 GMT | Different Types of Checkmarx Findings and Common Fix Techniques | Samarth Arun Narula | [Read More](https://medium.com/p/6d1d606d9494) |
+| Wed, 18 Jun 2025 18:46:55 GMT | Retail theft? Employee behavior? Customer service? | Visual Monitoring Solutions | [Read More](https://medium.com/p/f4f2cac5b617) |
+| Wed, 18 Jun 2025 18:38:32 GMT | Rooting Kioptrix — Level 1 - A Beginner-Friendly Pentest Challenge | Jsar | [Read More](https://medium.com/p/115161bfcc96) |
+| Wed, 18 Jun 2025 18:38:14 GMT | The Critical Vulnerability That “Didn’t Exist” — How Certifix “Solved” the Issue by Denial | arsenii9 | [Read More](https://medium.com/p/7075ac37fec5) |
+| Wed, 18 Jun 2025 18:34:20 GMT | Day 25: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/a8e64164fb98) |
+| Wed, 18 Jun 2025 18:26:01 GMT | Cryptocurrency, Cyberwarfare, and Shadows: The $90 Million Message Behind the Nobitex Breach | Siva Gunasekaran | [Read More](https://medium.com/p/f4353eb6f8fd) |
+| Wed, 18 Jun 2025 18:24:15 GMT | Meta Pool’s $27M Blunder, But Hacker Walks Away with Just $132K — What Really Happened? | CoinGen | [Read More](https://medium.com/p/b41b85e332c1) |
 | Wed, 18 Jun 2025 18:23:02 GMT | Part 4: Exploiting Broken Auth — How I Got In Without a Password | TraceX0 | [Read More](https://medium.com/p/978d5e3be2b3) |
 | Wed, 18 Jun 2025 18:23:01 GMT | Ethical Hacking: Building Your Cybersecurity Career Path | Boris Gigovic | [Read More](https://medium.com/p/ca8f0f546d8d) |
 | Wed, 18 Jun 2025 18:22:31 GMT | Why Identity and Access Management Is No Longer Optional in Modern SaaS | David Brown | [Read More](https://medium.com/p/ad8907bd05df) |
+| Wed, 18 Jun 2025 18:22:30 GMT | When Crypto Gets Political, Nobitex Hack Rocks Iran Amid $81M Breach | CoinGen | [Read More](https://medium.com/p/fdbdbeb9738c) |
 | Wed, 18 Jun 2025 18:18:30 GMT | “Who Let the Pods Out?” | Tarun Agarwal | [Read More](https://medium.com/p/0bdfbf7afd32) |
 | Wed, 18 Jun 2025 18:18:12 GMT | SILENT SCREAM: BREAKING THE STIGMA AROUND MENTAL HEALTH | Fedude Annie | [Read More](https://medium.com/p/471d3ae5d584) |
 | Wed, 18 Jun 2025 18:16:16 GMT | eCIR Exam Review (eCIR vs ECIH) | Adham Hisham | [Read More](https://medium.com/p/2edd97f3c7e8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 13:43:54 GMT | TryHackMe Volatility Essentials Walkthrough | k40t1k | [Read More](https://medium.com/p/2dd20a0243c0) |
 | Wed, 18 Jun 2025 13:42:12 GMT | Beyond VDI and Ready for Enterprise AI Access: Rethinking BYOD and Contractor Access for the… | Mammoth Cyber | [Read More](https://medium.com/p/34087a12378a) |
 | Wed, 18 Jun 2025 13:35:12 GMT | AssessFirst Chronicles — On the path to ISO 27001: Raising awareness and training teams (episode 6) | Rebecca Cottignies | [Read More](https://medium.com/p/76e536affac6) |
-| Wed, 18 Jun 2025 13:28:35 GMT | How Do HTTP Headers Make or Break Security | Ibtissam hammadi | [Read More](https://medium.com/p/d9b6a5c4eb45) |
-| Wed, 18 Jun 2025 13:18:27 GMT | When banks become battlefields: Lessons from the June 17 Cyber-Strike on Iran’s Central Bank | Martin Abramov | [Read More](https://medium.com/p/a9ae27ef27ca) |
-| Wed, 18 Jun 2025 13:12:40 GMT | Here’s How I Recover My Money From Lucrorfx | Thomas Hayes | [Read More](https://medium.com/p/406e7e014e65) |
-| Wed, 18 Jun 2025 13:08:55 GMT | Some Days… | Zariel's Blog | [Read More](https://medium.com/p/1cb7f7533289) |
-| Wed, 18 Jun 2025 13:02:44 GMT | Why Manual Containment Fails and How Peris.ai Automates Response | Peris.ai Cybersecurity | [Read More](https://medium.com/p/a9e0baf782d0) |
-| Wed, 18 Jun 2025 13:02:40 GMT | The CTI Dispatch | Uddip Ranjan Das | [Read More](https://medium.com/p/52395a76c618) |
-| Wed, 18 Jun 2025 13:02:40 GMT | The Deepfake Crime Wave: How AI-Powered Scams Are Terrifying Victims | Shannon Arrington | [Read More](https://medium.com/p/8b1187a1b12e) |
-| Wed, 18 Jun 2025 12:57:01 GMT | Unmasking the Shadows: Detecting and Analyzing Advanced Persistent Threats (APT) in the Global… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/9a7e21ac8cc6) |
-| Wed, 18 Jun 2025 12:51:46 GMT | Strengthening Your Cyber Defenses: A Deep Dive into the NIST Cybersecurity Framework | Sakshi Dwivedi | [Read More](https://medium.com/p/e2cda945a436) |
-| Wed, 18 Jun 2025 12:47:08 GMT | AI-Powered Cyber Attacks: The Governance Gap We Can’t Ignore | John Davies | [Read More](https://medium.com/p/82c8fdc39d31) |
-| Wed, 18 Jun 2025 12:40:51 GMT | I Earned $7,000 from Bug Bounties — But $0 from My Startup Idea | Vivek PS | [Read More](https://medium.com/p/5dd02262b2f7) |
