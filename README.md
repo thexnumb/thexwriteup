@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 19:32:25 GMT | Unmasking BYOD Security Risks: Your Expert Guide from Top IT Support Provider | IT_Engineer | [Read More](https://medium.com/p/b57a793608c6) |
+| Wed, 18 Jun 2025 19:30:07 GMT | IOC Extractor — A Simple Tool for SOC Teams to Export IOCs from PDFs to Excel | Shahrukh Khan | [Read More](https://medium.com/p/b94ab18a32ef) |
+| Wed, 18 Jun 2025 19:17:46 GMT | What’s an IP Address Anyway? A Complete Beginner’s Guide | Sourav kumawat | [Read More](https://medium.com/p/6ea78eb1b869) |
 | Wed, 18 Jun 2025 19:14:51 GMT | The Malware Zoo: Spotting the Wildest Threats Online | Shekhar Saxena | [Read More](https://medium.com/p/0053f22cfb4e) |
 | Wed, 18 Jun 2025 19:06:53 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | Code With Hannan | [Read More](https://medium.com/p/b1175dc15f32) |
+| Wed, 18 Jun 2025 19:06:00 GMT | Kali Linux Klasörleri | Ahmet Şimşek | [Read More](https://medium.com/p/320449b1460c) |
 | Wed, 18 Jun 2025 19:00:56 GMT | Universities: A Top Target for Phishing | urlDNA | [Read More](https://medium.com/p/820c5439b187) |
 | Wed, 18 Jun 2025 18:57:40 GMT | Different Types of Checkmarx Findings and Common Fix Techniques | Samarth Arun Narula | [Read More](https://medium.com/p/6d1d606d9494) |
 | Wed, 18 Jun 2025 18:46:55 GMT | Retail theft? Employee behavior? Customer service? | Visual Monitoring Solutions | [Read More](https://medium.com/p/f4f2cac5b617) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 14:01:48 GMT | FOFA Dorking - Part 7 | AbhirupKonwar | [Read More](https://medium.com/p/cc8a92941838) |
 | Wed, 18 Jun 2025 13:59:41 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/44766a8a4646) |
 | Wed, 18 Jun 2025 13:57:09 GMT | Vulnerability in Nonprofit Leadership: The Quiet Strength That Changes Everything | Incubrighter | [Read More](https://medium.com/p/1d40236d1281) |
-| Wed, 18 Jun 2025 13:44:26 GMT | From XSS Alert to Recognition: Lessons from My First SOC Investigation on LetsDefend! | Gift Afortu | [Read More](https://medium.com/p/f086afb65ff7) |
-| Wed, 18 Jun 2025 13:43:54 GMT | TryHackMe Volatility Essentials Walkthrough | k40t1k | [Read More](https://medium.com/p/2dd20a0243c0) |
-| Wed, 18 Jun 2025 13:42:12 GMT | Beyond VDI and Ready for Enterprise AI Access: Rethinking BYOD and Contractor Access for the… | Mammoth Cyber | [Read More](https://medium.com/p/34087a12378a) |
-| Wed, 18 Jun 2025 13:35:12 GMT | AssessFirst Chronicles — On the path to ISO 27001: Raising awareness and training teams (episode 6) | Rebecca Cottignies | [Read More](https://medium.com/p/76e536affac6) |
