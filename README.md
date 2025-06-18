@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 12:33:48 GMT | Anubis Ransomware: The Alarming New Threat That Doesn’t Just Lock Files — It Destroys Them | Secucenter | [Read More](https://medium.com/p/0d1e611c43b6) |
+| Wed, 18 Jun 2025 12:30:48 GMT | What Are Combo Lists? How Leaked Passwords Fuel Cybercrime | Tanzeel Siddiqui | [Read More](https://medium.com/p/4d931b63dacb) |
+| Wed, 18 Jun 2025 12:29:26 GMT | Who Owns Your Driving Data? The Fight Over Automotive Privacy | Goismo AB | [Read More](https://medium.com/p/9ceb20ad97a7) |
+| Wed, 18 Jun 2025 12:20:05 GMT | Enhancing Business Safety and Connectivity with Structured Cabling and Cyber Security in Odisha | Khatore IT Solutions | [Read More](https://medium.com/p/394fdf36c0c9) |
+| Wed, 18 Jun 2025 12:10:12 GMT | Staying Safe from Modern Phishing Attacks: A Guide for BoldSign Users | Reethika Moovendhan | [Read More](https://medium.com/p/3c8608938c55) |
+| Wed, 18 Jun 2025 12:10:07 GMT | Inside the Android App: Breaking Insecure Crypto in SharedPreferences | 0xZox | [Read More](https://medium.com/p/4350a796df19) |
+| Wed, 18 Jun 2025 12:06:40 GMT | From SNS to Secrets: Hacking Through AWS Misconfigurations — CloudGoat Scenario | Aravind S V | [Read More](https://medium.com/p/bd152e658275) |
+| Wed, 18 Jun 2025 12:05:30 GMT | MalDev for Android: Comprehensive APK Analysis and Malware development | Lord Murak | [Read More](https://medium.com/p/183629b9594c) |
+| Wed, 18 Jun 2025 12:03:57 GMT | Unseen Vulnerability in LLM Tools: Lessons from the AgentSmith Incident | Hari Rahul | [Read More](https://medium.com/p/04cf48ec6b4f) |
+| Wed, 18 Jun 2025 12:02:07 GMT | Pwning Sunset Dawn — VulnHub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/9f4b627b35b9) |
+| Wed, 18 Jun 2025 12:01:44 GMT | Authentication part-7 : Username enumeration via account lock | Ahmad Sopyan | [Read More](https://medium.com/p/6e8ade1396e9) |
+| Wed, 18 Jun 2025 12:01:10 GMT | AgentSmith Exposed: What the LangSmith Vulnerability Teaches Us About Agent Risk | Srinivasps | [Read More](https://medium.com/p/15943ea1e862) |
+| Wed, 18 Jun 2025 11:58:52 GMT | 5 Server Mistakes That Nearly Destroyed My Client's Business (€47K in Damages) | Jean Patrick Payette | [Read More](https://medium.com/p/3e19e1f8210a) |
+| Wed, 18 Jun 2025 11:56:39 GMT | One Click, One Slip: Inside the AgentSmith LLM Bug | Saravanan R | [Read More](https://medium.com/p/6bf75dc2bd9d) |
+| Wed, 18 Jun 2025 11:52:54 GMT | From Intended to Silently Fixed: My Investigation into Instagram’s Email Verification Oversight | Vyom Jaal | [Read More](https://medium.com/p/b3fc467b5d15) |
+| Wed, 18 Jun 2025 11:52:30 GMT | “DOUBLEWIN189” | Melianiimelda | [Read More](https://medium.com/p/ad98416e7ca6) |
+| Wed, 18 Jun 2025 11:42:50 GMT | Understanding Content Security Policy | Jeevan | [Read More](https://medium.com/p/8b5b178cf530) |
 | Wed, 18 Jun 2025 11:32:36 GMT | Bludgeoned Buzzwords: Cloud-First | Namir Sagheenanajar | [Read More](https://medium.com/p/6b91a7b7b0a8) |
 | Wed, 18 Jun 2025 11:30:43 GMT | The CIA Triad: The Three Pillars of Information Security | Prajwal Ahluwalia | [Read More](https://medium.com/p/5d318c00864a) |
 | Wed, 18 Jun 2025 11:28:08 GMT | AI Detection Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7f08d46c196b) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 07:54:33 GMT | Curl Like a Hacker: How Ethical Hackers Use Curl to Outsmart Web Defenses | Saikat Paul | [Read More](https://medium.com/p/5b9319923b7f) |
 | Wed, 18 Jun 2025 07:51:11 GMT | How Cybersecurity AI Tools Analyze Millions of Threats Per Second | Sanchitamishra | [Read More](https://medium.com/p/281c781604cd) |
 | Wed, 18 Jun 2025 07:49:49 GMT | The Top 5 Challenges Faced by EdTech Companies | Idera Dev Tools | [Read More](https://medium.com/p/0835d0df4db0) |
-| Wed, 18 Jun 2025 07:44:36 GMT | What I learnt from speaking at 17+ information security conferences | Pramod Rana (@IAmVarchashva) | [Read More](https://medium.com/p/6f67a6fd9a01) |
-| Wed, 18 Jun 2025 07:32:56 GMT | OAuth 2.0 Working & Vulnerabilities | Anandhu K | [Read More](https://medium.com/p/98606053c713) |
-| Wed, 18 Jun 2025 07:26:54 GMT | Bounty Hacker - Try Hack Me - Complete Walkthrough | Avrodip Joy | [Read More](https://medium.com/p/1930650a0d0d) |
-| Wed, 18 Jun 2025 07:26:09 GMT | Attacking RDP | Fatimahasan | [Read More](https://medium.com/p/b7b8154b5f3c) |
-| Wed, 18 Jun 2025 07:23:46 GMT | Vibe Coding Security Tools using Google AI Studio | AbhirupKonwar | [Read More](https://medium.com/p/057f1eb497a4) |
-| Wed, 18 Jun 2025 07:21:29 GMT | THM SOC Simulator: Phishing Unfolding | Rwaby Alhumidi | [Read More](https://medium.com/p/4d1eb10a980a) |
-| Wed, 18 Jun 2025 07:18:58 GMT | A Technical Dive into Attack & Defense of AWS EC2 Security. | Dhyan Sagar | [Read More](https://medium.com/p/f681f43d57b2) |
-| Wed, 18 Jun 2025 07:17:48 GMT | Cortex XSIAM by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/cdce62579b42) |
-| Wed, 18 Jun 2025 07:12:22 GMT | Blockchain Security Beyond Crypto: Your Data’s Unbreakable Bodyguard | Aj | [Read More](https://medium.com/p/5aa96c0e0d33) |
-| Wed, 18 Jun 2025 07:12:06 GMT | Why VAPT Testing is Crucial for Every Modern Organization | StrongBox IT | [Read More](https://medium.com/p/ae3568c4e9db) |
-| Wed, 18 Jun 2025 07:10:47 GMT | DarkFuzz: The Ultimate Fuzzing Powerhouse for Web Security | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/963a8b34e349) |
-| Wed, 18 Jun 2025 07:07:19 GMT | What is DNS? How does the DNS Works? | GOPI S | [Read More](https://medium.com/p/3e14dd94e2f5) |
-| Wed, 18 Jun 2025 07:06:48 GMT | “AI and Data Authentication: Securing the Digital Future” | Shivani kumari | [Read More](https://medium.com/p/0f9a348d051b) |
-| Wed, 18 Jun 2025 07:02:22 GMT | Just Connect This Wi-Fi, Your Account Will be Mine! | Johnstri | [Read More](https://medium.com/p/ba81695320d1) |
-| Wed, 18 Jun 2025 06:57:27 GMT | Key Differences Between Vulnerability Assessment and Penetration Testing | StrongBox IT | [Read More](https://medium.com/p/407abc61bd4b) |
-| Wed, 18 Jun 2025 06:56:02 GMT | Creating an OTP Text View with Auto-Fill Support in Jetpack Compose | Karishma Agrawal | [Read More](https://medium.com/p/ab3dd50ae074) |
-| Wed, 18 Jun 2025 06:51:56 GMT | Free charging ports in public places! Possible conduit for cybercrime! | SAYCOIN | [Read More](https://medium.com/p/f0bbc6d427ad) |
