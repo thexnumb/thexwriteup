@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 13:28:35 GMT | How Do HTTP Headers Make or Break Security | Ibtissam hammadi | [Read More](https://medium.com/p/d9b6a5c4eb45) |
+| Wed, 18 Jun 2025 13:18:27 GMT | When banks become battlefields: Lessons from the June 17 Cyber-Strike on Iran’s Central Bank | Martin Abramov | [Read More](https://medium.com/p/a9ae27ef27ca) |
+| Wed, 18 Jun 2025 13:12:40 GMT | Here’s How I Recover My Money From Lucrorfx | Thomas Hayes | [Read More](https://medium.com/p/406e7e014e65) |
+| Wed, 18 Jun 2025 13:08:55 GMT | Some Days… | Zariel's Blog | [Read More](https://medium.com/p/1cb7f7533289) |
+| Wed, 18 Jun 2025 13:02:44 GMT | Why Manual Containment Fails and How Peris.ai Automates Response | Peris.ai Cybersecurity | [Read More](https://medium.com/p/a9e0baf782d0) |
+| Wed, 18 Jun 2025 13:02:40 GMT | The CTI Dispatch | Uddip Ranjan Das | [Read More](https://medium.com/p/52395a76c618) |
+| Wed, 18 Jun 2025 13:02:40 GMT | The Deepfake Crime Wave: How AI-Powered Scams Are Terrifying Victims | Shannon Arrington | [Read More](https://medium.com/p/8b1187a1b12e) |
+| Wed, 18 Jun 2025 12:57:01 GMT | Unmasking the Shadows: Detecting and Analyzing Advanced Persistent Threats (APT) in the Global… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/9a7e21ac8cc6) |
+| Wed, 18 Jun 2025 12:51:46 GMT | Strengthening Your Cyber Defenses: A Deep Dive into the NIST Cybersecurity Framework | Sakshi Dwivedi | [Read More](https://medium.com/p/e2cda945a436) |
+| Wed, 18 Jun 2025 12:47:08 GMT | AI-Powered Cyber Attacks: The Governance Gap We Can’t Ignore | John Davies | [Read More](https://medium.com/p/82c8fdc39d31) |
+| Wed, 18 Jun 2025 12:40:51 GMT | I Earned $7,000 from Bug Bounties — But $0 from My Startup Idea | Vivek PS | [Read More](https://medium.com/p/5dd02262b2f7) |
+| Wed, 18 Jun 2025 12:37:28 GMT | “Creating a Security-First Culture: Why Every Company Needs One” | Cybersecurity Umbrella | [Read More](https://medium.com/p/02f995e3763f) |
+| Wed, 18 Jun 2025 12:36:25 GMT | I didn’t know my API was exposed — until it was too late. | Needa Ansari | [Read More](https://medium.com/p/ba65d72f9cd0) |
 | Wed, 18 Jun 2025 12:33:48 GMT | Anubis Ransomware: The Alarming New Threat That Doesn’t Just Lock Files — It Destroys Them | Secucenter | [Read More](https://medium.com/p/0d1e611c43b6) |
 | Wed, 18 Jun 2025 12:30:48 GMT | What Are Combo Lists? How Leaked Passwords Fuel Cybercrime | Tanzeel Siddiqui | [Read More](https://medium.com/p/4d931b63dacb) |
 | Wed, 18 Jun 2025 12:29:26 GMT | Who Owns Your Driving Data? The Fight Over Automotive Privacy | Goismo AB | [Read More](https://medium.com/p/9ceb20ad97a7) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 08:15:18 GMT | Exposing services with Nginx, Ansible, and Cloudflare | Drake | [Read More](https://medium.com/p/34be6797a9cb) |
 | Wed, 18 Jun 2025 08:13:17 GMT | What is OWASP? A Quick Overview Before We Dive into the Top 10 (0/10) | Mrinal Joshi | [Read More](https://medium.com/p/9ac84b5f2180) |
 | Wed, 18 Jun 2025 08:10:41 GMT | How Security Enhances IT Infrastructure | TabTree IT Consulting Company | [Read More](https://medium.com/p/d217e3e08b81) |
-| Wed, 18 Jun 2025 08:09:25 GMT | The Battle Between AI Hackers & AI Defenders: Who’s Winning in 2025? | Sanchitamishra | [Read More](https://medium.com/p/c350e8cb1336) |
-| Wed, 18 Jun 2025 08:08:59 GMT | Signed, Sealed, Delivered: How I Replayed Signed URLs to Steal Everything ✍️ | Iski | [Read More](https://medium.com/p/df28cbe93b34) |
-| Wed, 18 Jun 2025 08:08:27 GMT | Cybersecurity Laws and Regulations | Priyansha Madhwal | [Read More](https://medium.com/p/5a0fa07894fe) |
-| Wed, 18 Jun 2025 08:06:33 GMT | Understanding Domain Generation Algorithms (DGA): The Stealth Tactic Behind Modern Malware | Rezaaditria | [Read More](https://medium.com/p/1cbe3e5d2642) |
-| Wed, 18 Jun 2025 08:04:21 GMT | Safeguard Your Digital Assets with Cyber Security Services from GTechnohubb | Gtechnohubb PVT LTD | [Read More](https://medium.com/p/1e2ebc21b837) |
-| Wed, 18 Jun 2025 08:02:41 GMT | The Ultimate Fusion: Linux, Ubuntu, and Cybersecurity | Faruk Ahmed | [Read More](https://medium.com/p/449877563bc7) |
-| Wed, 18 Jun 2025 07:59:44 GMT | How Applications Modernization Enhances Performance, Security, and Scalability | Jack Ryan | [Read More](https://medium.com/p/02cb6593cb9f) |
-| Wed, 18 Jun 2025 07:59:01 GMT | BT Denetiminde Kullanılan Raporlama Araçları ve Teknikler | Ahmet Sahin | [Read More](https://medium.com/p/f660fd11bf55) |
-| Wed, 18 Jun 2025 07:57:34 GMT | Empowering Business Operations with Tailored Information Technology (IT) Services - All Services… | Samiksha R | [Read More](https://medium.com/p/2cebb0f379cc) |
-| Wed, 18 Jun 2025 07:56:13 GMT | The Rise of Cybersecurity Experts in a Digitally-Driven World | AGC Amritsar - Best Engineering College | [Read More](https://medium.com/p/1978cb12dba2) |
-| Wed, 18 Jun 2025 07:54:33 GMT | Curl Like a Hacker: How Ethical Hackers Use Curl to Outsmart Web Defenses | Saikat Paul | [Read More](https://medium.com/p/5b9319923b7f) |
-| Wed, 18 Jun 2025 07:51:11 GMT | How Cybersecurity AI Tools Analyze Millions of Threats Per Second | Sanchitamishra | [Read More](https://medium.com/p/281c781604cd) |
-| Wed, 18 Jun 2025 07:49:49 GMT | The Top 5 Challenges Faced by EdTech Companies | Idera Dev Tools | [Read More](https://medium.com/p/0835d0df4db0) |
