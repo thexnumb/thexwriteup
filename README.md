@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 05:34:16 GMT | The Future of Payment System Security: Navigating Regulations and Compliance | Kishore Challa | [Read More](https://medium.com/p/be333c209146) |
+| Wed, 18 Jun 2025 05:19:55 GMT | Anubis RaaS: The Rise of Destructive Ransomware With a Dual-Extortion Twist | CyDhaal | [Read More](https://medium.com/p/29b56c3da45a) |
 | Wed, 18 Jun 2025 05:15:36 GMT | When the CEO Emails You: Inside the Anatomy of a Corporate Phishing Scam | David SEHYEON Baek | [Read More](https://medium.com/p/7984f3ec6e37) |
 | Wed, 18 Jun 2025 05:02:42 GMT | AWS Security Guide: Part 3 | SonnieCodes | [Read More](https://medium.com/p/df9e9ab2bf09) |
 | Wed, 18 Jun 2025 04:57:12 GMT | The Price of Choosing What You Love | zhhh_nova | [Read More](https://medium.com/p/b72fe5f296c6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 19:24:44 GMT | InjuredAndroid Android CTF write-up, Part I | Francesco Masi | [Read More](https://medium.com/p/7394ffd33ba7) |
 | Tue, 17 Jun 2025 19:23:10 GMT | Container security at scale: Building untrusted images safely | Depot | [Read More](https://medium.com/p/d05ab3932695) |
 | Tue, 17 Jun 2025 19:21:22 GMT | Siber Güvenliğe Giriş — 6 (Örnek AĞ TOPOLOJİSİ | Emre TOPUZ | [Read More](https://medium.com/p/ec30ea36e3f7) |
-| Tue, 17 Jun 2025 19:21:03 GMT | Unpacking Your Credit Card Payment: The High-Tech Ballet Behind Every Tap and Swipe | Gokul Kannan | [Read More](https://medium.com/p/fb8f3e3ae676) |
-| Tue, 17 Jun 2025 19:17:23 GMT | The Ultimate Guide to Default Credentials, Custom Wordlists & Hash Cracking Techniques | Very Lazy Tech | [Read More](https://medium.com/p/66e64cbebd4e) |
