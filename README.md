@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 02:57:07 GMT | The Psychology of the Click: Real-World Phishing Attack Simulation Using Zphisher | VidyaRao008 | [Read More](https://medium.com/p/634c6b1473d6) |
+| Wed, 18 Jun 2025 02:56:00 GMT | Multi-Step Process with No Access Control on One Step | Bash Overflow | [Read More](https://medium.com/p/a17dba1a4415) |
+| Wed, 18 Jun 2025 02:55:00 GMT | Easy install, Easy configuration: ClamAV for Linux | Dr. Jake | [Read More](https://medium.com/p/d70c09c81271) |
+| Wed, 18 Jun 2025 02:54:40 GMT | Seamless Sign-In: Automating Microsoft Personal Account Authentication with Auth0 and Entra ID via… | Mark Tinderholt | [Read More](https://medium.com/p/f925a95a517f) |
+| Wed, 18 Jun 2025 02:46:20 GMT | SafeLine 7.1 Adds Custom NGINX Location Support — Here’s How to Use It | AerieWhole123 | [Read More](https://medium.com/p/392b3f72b7f8) |
+| Wed, 18 Jun 2025 02:38:44 GMT | How I’m Learning Cybersecurity for Free (And You Can Too) | ZeroDayDiva | [Read More](https://medium.com/p/134f779bbdef) |
+| Wed, 18 Jun 2025 02:38:40 GMT | Stepping into Ethical Hacking — Day 2 : Virtualization and Virtual Box | Nitin Kudal | [Read More](https://medium.com/p/780d3014a171) |
+| Wed, 18 Jun 2025 02:29:07 GMT | Highlights - Security New Features in April & May 2025 | Lara Lee | [Read More](https://medium.com/p/1da956406a78) |
+| Wed, 18 Jun 2025 02:25:25 GMT | Mission: Cyber Possible—How I Learned Cybersecurity with NIST and IAM policies and… | Arjun Santhosh | [Read More](https://medium.com/p/572ed0f2d4e9) |
+| Wed, 18 Jun 2025 02:18:53 GMT | What My Dog Taught Me About Detection & Response | Code & Kif | [Read More](https://medium.com/p/c8bc6ee98417) |
+| Wed, 18 Jun 2025 01:48:24 GMT | ️ Top 5 Cybersecurity Threats Facing SMBs in 2025 | Jesse Ridley | [Read More](https://medium.com/p/e08141188813) |
+| Wed, 18 Jun 2025 01:47:08 GMT | Cyberwarfare Simulations Between Nations: Training in the Modern Cyber Range | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2f6174e34dee) |
 | Wed, 18 Jun 2025 01:35:20 GMT | Desvendando o OWASP AIVSS: Um Framework para Segurança de IA | Fernando Silva | [Read More](https://medium.com/p/728d3962a918) |
 | Wed, 18 Jun 2025 01:05:06 GMT | Why I Started This Cybersecurity Blog: For the People Who Feel Left Behind | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/fb7f2acc6f45) |
 | Wed, 18 Jun 2025 01:04:34 GMT | Securing the Black Sea : The Role of Peaceful Nuclear Cooperation in Regional Security Dynamics | Atiyah Hijriyanti | [Read More](https://medium.com/p/a9468ff94d42) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 17:50:26 GMT | Demystifying AI in Cybersecurity | Vasanth Sankar | [Read More](https://medium.com/p/d7e3960b1711) |
 | Tue, 17 Jun 2025 17:50:07 GMT | Detecting Malicious URLs Using LSTM and Google’s BERT Models | Xaltius | [Read More](https://medium.com/p/6a0d7700cc22) |
 | Tue, 17 Jun 2025 17:42:41 GMT | JavaScript, JWTs and the Key That Shouldn’t Exist | Aditya Bhatt | [Read More](https://medium.com/p/d97c01d0ce9e) |
-| Tue, 17 Jun 2025 17:34:08 GMT | Why Smart People Are Secretly Using VPNs (And You Should Too) | Rahulmarcellino | [Read More](https://medium.com/p/5d128eb195d8) |
-| Tue, 17 Jun 2025 17:32:40 GMT | Shadow AI: The Hidden Threat Lurking in Your Organization’s Tech Stack | Piyoosh Rai | [Read More](https://medium.com/p/686923b35aa0) |
-| Tue, 17 Jun 2025 17:28:16 GMT | Tools by MITRE ATT&CK Guide | Andrey Pautov | [Read More](https://medium.com/p/77c4d947ba36) |
-| Tue, 17 Jun 2025 17:26:46 GMT | Cyber Security for Oil and Gas Infrastructure: Challenges and Solutions | Nathan | [Read More](https://medium.com/p/8b493d25b124) |
-| Tue, 17 Jun 2025 17:22:46 GMT | Cycles That Drive Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/16f233cc311e) |
-| Tue, 17 Jun 2025 17:12:46 GMT | I Undressed, but Not Just My Clothes | Her Bedroom Gallery | [Read More](https://medium.com/p/2dcf95052d43) |
-| Tue, 17 Jun 2025 17:06:34 GMT | TryHackMe - Roundcube: CVE-2025-49113 - WriteUp | Axoloth | [Read More](https://medium.com/p/f2dfcdfa765f) |
-| Tue, 17 Jun 2025 17:04:37 GMT | TCM Practical Network Penetration Tester (PNPT) Study Notes & Guide & Review | Motasem Hamdan | [Read More](https://medium.com/p/d494064edbfe) |
-| Tue, 17 Jun 2025 17:04:01 GMT | Best cyber security course in India | Online course provider- Data science, AI, etc | [Read More](https://medium.com/p/9cbfb2f76bf6) |
-| Tue, 17 Jun 2025 16:59:55 GMT | Balancing Automation and Security: A Guide for SMBs Using n8n, Make, and Zapier | Keith Foster | [Read More](https://medium.com/p/9e98479339a0) |
-| Tue, 17 Jun 2025 16:59:44 GMT | Don’t Get Played | Eina Schroeder | [Read More](https://medium.com/p/dc0322f9db3b) |
-| Tue, 17 Jun 2025 16:58:20 GMT | Security Champions Aren’t Just for Devs — Why You Need Them in QA, Ops, and Product | Security Consulting Blogspot | [Read More](https://medium.com/p/ed8a7746e6f8) |
