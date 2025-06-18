@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 17:42:08 GMT | Advanced AI Ethical Hacking Course: The Future of Cybersecurity | TheCertExpert | [Read More](https://medium.com/p/25df282b6caa) |
+| Wed, 18 Jun 2025 17:36:54 GMT | Inside the GodFather Malware’s New Virtual Reality: A Wake-Up Call for Mobile Financial Security | Avnishyam | [Read More](https://medium.com/p/047f9aea6b4b) |
+| Wed, 18 Jun 2025 17:33:40 GMT | Safeguarding Your Secrets: 6 Data Desensitization Solutions Large Companies Use to Combat Insider… | Umesh Kumar Yadav | [Read More](https://medium.com/p/7b6426655953) |
+| Wed, 18 Jun 2025 17:29:54 GMT | How to capture, store, and index information, Old School Style | Len Galasso | [Read More](https://medium.com/p/dd24338cd063) |
+| Wed, 18 Jun 2025 17:25:17 GMT | Top 6 Real-World Network Misconfigurations That Hackers Exploit Easily | Shadow Packet | [Read More](https://medium.com/p/257bbd32b658) |
+| Wed, 18 Jun 2025 17:23:11 GMT | How One Parameter Exposed IRCTC User Data | Rohan Kar | [Read More](https://medium.com/p/04669ae0f6a6) |
+| Wed, 18 Jun 2025 17:19:02 GMT | Exploring the Smart Home Revolution with SwitchBot | Ohlsenbukexisux | [Read More](https://medium.com/p/8f8b75469267) |
+| Wed, 18 Jun 2025 17:13:42 GMT | Gone In The Morning | Ìyàndá Apènàolà Àpésìnolà Àyìndé | [Read More](https://medium.com/p/ae3d5392118c) |
 | Wed, 18 Jun 2025 17:09:39 GMT | Rooting Keoptrix - Level 1 - A Beginner-Friendly Pentest Challenge | Jsar | [Read More](https://medium.com/p/9c76624a87d2) |
 | Wed, 18 Jun 2025 17:07:27 GMT | Mental toolkit for beginners of practical forensics and threat hunting. | Steven Carbuhn | [Read More](https://medium.com/p/dc070d8b506e) |
 | Wed, 18 Jun 2025 17:03:09 GMT | TryHackMe — Billing - ESP - | APS88 | [Read More](https://medium.com/p/cbb06bdac1b1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 12:01:10 GMT | AgentSmith Exposed: What the LangSmith Vulnerability Teaches Us About Agent Risk | Srinivasps | [Read More](https://medium.com/p/15943ea1e862) |
 | Wed, 18 Jun 2025 11:58:52 GMT | 5 Server Mistakes That Nearly Destroyed My Client's Business (€47K in Damages) | Jean Patrick Payette | [Read More](https://medium.com/p/3e19e1f8210a) |
 | Wed, 18 Jun 2025 11:56:39 GMT | One Click, One Slip: Inside the AgentSmith LLM Bug | Saravanan R | [Read More](https://medium.com/p/6bf75dc2bd9d) |
-| Wed, 18 Jun 2025 11:52:54 GMT | From Intended to Silently Fixed: My Investigation into Instagram’s Email Verification Oversight | Vyom Jaal | [Read More](https://medium.com/p/b3fc467b5d15) |
-| Wed, 18 Jun 2025 11:52:30 GMT | “DOUBLEWIN189” | Melianiimelda | [Read More](https://medium.com/p/ad98416e7ca6) |
-| Wed, 18 Jun 2025 11:42:50 GMT | Understanding Content Security Policy | Jeevan | [Read More](https://medium.com/p/8b5b178cf530) |
-| Wed, 18 Jun 2025 11:32:36 GMT | Bludgeoned Buzzwords: Cloud-First | Namir Sagheenanajar | [Read More](https://medium.com/p/6b91a7b7b0a8) |
-| Wed, 18 Jun 2025 11:30:43 GMT | The CIA Triad: The Three Pillars of Information Security | Prajwal Ahluwalia | [Read More](https://medium.com/p/5d318c00864a) |
-| Wed, 18 Jun 2025 11:28:08 GMT | AI Detection Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/7f08d46c196b) |
-| Wed, 18 Jun 2025 11:25:24 GMT | Passkeys at the Protocol Layer: Eliminating Passwords with Asymmetric Authentication | Michael P. Di Fulvio | [Read More](https://medium.com/p/341df3b42c4e) |
-| Wed, 18 Jun 2025 11:21:59 GMT | Digital Rajasthan: Rathore’s Vision Through IT, Communications & Skill Development | soumya jain | [Read More](https://medium.com/p/a0d12e457c1e) |
