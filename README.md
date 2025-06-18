@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 22:11:51 GMT | The Devices are Talking | Alison Kellner | [Read More](https://medium.com/p/a0ac479470e0) |
+| Wed, 18 Jun 2025 22:03:28 GMT | The Future of Blockchain in Systems Engineering | Adeola | [Read More](https://medium.com/p/ca6ab6b8c677) |
+| Wed, 18 Jun 2025 21:57:27 GMT | Digital Forensics with Autopsy: A Comprehensive Guide | Arham khan | [Read More](https://medium.com/p/38420ea576e7) |
+| Wed, 18 Jun 2025 21:43:54 GMT | IIT Delhi Achieves Quantum Breakthrough: Wireless Communication Over 1 Kilometer | QuantumGenie | [Read More](https://medium.com/p/4011a2873b47) |
 | Wed, 18 Jun 2025 21:38:36 GMT | Predatory Sparrow — Nobitex Cyberattack | Pentestjunkie07 | [Read More](https://medium.com/p/67f21c7ae5e4) |
 | Wed, 18 Jun 2025 21:33:10 GMT | The “So, What Now?” Tool for Pentesting: An Update on My Pentesting Assistant. | Glenn Rodney | [Read More](https://medium.com/p/ac69f7311420) |
 | Wed, 18 Jun 2025 21:24:18 GMT | TryHackMe - SQLMap: The Basics — PRACTICAL EXERCISE | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/8f7e6d7d1afa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 15:59:14 GMT | The Vanity Address Affair: The Iranian Crypto Exchange Hack | Tal Be'ery | [Read More](https://medium.com/p/a6047259f268) |
 | Wed, 18 Jun 2025 15:53:36 GMT | Day #28 of #60DaysofGRC: Risk Appetite vs Risk Tolerance (And Spicy Chips ) | Brittney Ginther | [Read More](https://medium.com/p/8848e49a4509) |
 | Wed, 18 Jun 2025 15:51:51 GMT | HF 2019-Linux | Pranavsuresh | [Read More](https://medium.com/p/a1d5cb3a0cb5) |
-| Wed, 18 Jun 2025 15:51:23 GMT | AV & EDR Bypass Techniques (Part 1): Real-World Tricks Hackers Use to Stay Undetected | Very Lazy Tech | [Read More](https://medium.com/p/12bfbc930fbb) |
-| Wed, 18 Jun 2025 15:43:52 GMT | Best HWID Spoofer 2025 — My Take as a Researcher Testing HWID Changers | Levi Shekelstein | [Read More](https://medium.com/p/ce362dbd8258) |
-| Wed, 18 Jun 2025 15:34:02 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6229d82aa4b6) |
-| Wed, 18 Jun 2025 15:33:51 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 14 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/82007437261b) |
