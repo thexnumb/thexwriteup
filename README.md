@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 15:34:02 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6229d82aa4b6) |
+| Wed, 18 Jun 2025 15:33:51 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 14 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/82007437261b) |
+| Wed, 18 Jun 2025 15:33:42 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e21f99db1ad8) |
+| Wed, 18 Jun 2025 15:31:46 GMT | Our Information is Broken and AI Will Only Make It Worse | Randy Schwartz | [Read More](https://medium.com/p/7973d63a6ad0) |
+| Wed, 18 Jun 2025 15:27:32 GMT | TryHackMe - Volatility Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/f9238c56b6de) |
 | Wed, 18 Jun 2025 15:08:00 GMT | Setting Up Local Server for Remote Access via Tailscale — yang mau Remote Server dari mana saja… | Syafa Asgani | [Read More](https://medium.com/p/7154a10ba61e) |
 | Wed, 18 Jun 2025 15:06:30 GMT | How I Designed My Own OAuth2 Authorization Server (And When You Should Too) | Kavindu Kokila (Kavi Castelo) | [Read More](https://medium.com/p/c6e8b562e638) |
 | Wed, 18 Jun 2025 15:05:32 GMT | Czech Republic at a Crossroads Between Western Freedom and Eastern Despotism | Martin Prochazka | [Read More](https://medium.com/p/1e2df5a8522b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 09:46:57 GMT | Web Hacking Techniques: Unmasking 2025’s Top | BusinessUpside | [Read More](https://medium.com/p/83248cef7904) |
 | Wed, 18 Jun 2025 09:45:02 GMT | AI & Cybersecurity: Navigating the Future Safely & Ethically | Century Solutions Group | [Read More](https://medium.com/p/2f95eacf9b58) |
 | Wed, 18 Jun 2025 09:37:35 GMT | Advanced Cyber Threat Intelligence: Mapping the Israel-Iran Digital Battlefield Using ZoomEye | ZoomEye | [Read More](https://medium.com/p/43a051557848) |
-| Wed, 18 Jun 2025 09:35:28 GMT | MS Sentinel: Introduction | Dhruvish Rathod | [Read More](https://medium.com/p/e5618bd0491b) |
-| Wed, 18 Jun 2025 09:32:58 GMT | The Nobitex Hack: A Comprehensive Analysis of Iran’s Largest Crypto Exchange Breach | MemeCoins Tools | [Read More](https://medium.com/p/7b949712daea) |
-| Wed, 18 Jun 2025 09:25:41 GMT | Building My First Mini SIEM with FastAPI — A Brute Force Detection API That Actually Works | Suryansh Sharma | [Read More](https://medium.com/p/65b0090eb41c) |
-| Wed, 18 Jun 2025 09:25:15 GMT | Why Smart Businesses Are Automating Operations | CyberSolvings | [Read More](https://medium.com/p/122b7b4e8dfe) |
-| Wed, 18 Jun 2025 09:21:47 GMT | The Future of Red Teaming in the Age of AI: Adapt or Become Obsolete | Yua Mikanana | [Read More](https://medium.com/p/0533332633fd) |
