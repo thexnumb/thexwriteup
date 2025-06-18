@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 07:32:56 GMT | OAuth 2.0 Working & Vulnerabilities | Anandhu K | [Read More](https://medium.com/p/98606053c713) |
+| Wed, 18 Jun 2025 07:26:54 GMT | Bounty Hacker - Try Hack Me - Complete Walkthrough | Avrodip Joy | [Read More](https://medium.com/p/1930650a0d0d) |
+| Wed, 18 Jun 2025 07:26:09 GMT | Attacking RDP | Fatimahasan | [Read More](https://medium.com/p/b7b8154b5f3c) |
+| Wed, 18 Jun 2025 07:23:46 GMT | Vibe Coding Security Tools using Google AI Studio | AbhirupKonwar | [Read More](https://medium.com/p/057f1eb497a4) |
+| Wed, 18 Jun 2025 07:21:29 GMT | THM SOC Simulator: Phishing Unfolding | Rwaby Alhumidi | [Read More](https://medium.com/p/4d1eb10a980a) |
+| Wed, 18 Jun 2025 07:18:58 GMT | A Technical Dive into Attack & Defense of AWS EC2 Security. | Dhyan Sagar | [Read More](https://medium.com/p/f681f43d57b2) |
+| Wed, 18 Jun 2025 07:17:48 GMT | Cortex XSIAM by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/cdce62579b42) |
 | Wed, 18 Jun 2025 07:12:22 GMT | Blockchain Security Beyond Crypto: Your Data’s Unbreakable Bodyguard | Aj | [Read More](https://medium.com/p/5aa96c0e0d33) |
 | Wed, 18 Jun 2025 07:12:06 GMT | Why VAPT Testing is Crucial for Every Modern Organization | StrongBox IT | [Read More](https://medium.com/p/ae3568c4e9db) |
 | Wed, 18 Jun 2025 07:10:47 GMT | DarkFuzz: The Ultimate Fuzzing Powerhouse for Web Security | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/963a8b34e349) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 21:37:10 GMT | HackTheBox “Down” Walkthrough - TheHiker | TheHiker | [Read More](https://medium.com/p/189802e3e5b8) |
 | Tue, 17 Jun 2025 21:33:06 GMT | what can I do to recover my money from Ultima Markets ? | Emily Owen | [Read More](https://medium.com/p/0fe78cc6ae9e) |
 | Tue, 17 Jun 2025 21:26:13 GMT | The Security Bot Just Took Action. Without Asking. | Thomas Rauch | [Read More](https://medium.com/p/e23bd2273127) |
-| Tue, 17 Jun 2025 21:25:22 GMT | Digital Sovereignty vs Global Internet Freedom: The Invisible War That Will Shape the 21st Century | A-STAR7_DOCTOR | [Read More](https://medium.com/p/cc76aa1db0d0) |
-| Tue, 17 Jun 2025 21:22:01 GMT | Shifting Security Left Is Not a Checkbox -It’s a Mindset | Ancil Mohammed | [Read More](https://medium.com/p/e83c1ff28566) |
-| Tue, 17 Jun 2025 21:21:21 GMT | Styling a Custom File Uploader with Tailwind CSS and Django | Hex Shift | [Read More](https://medium.com/p/783ec92f1d51) |
-| Tue, 17 Jun 2025 21:20:08 GMT | how do I get my money out from ImToken ? | Carin Johnny | [Read More](https://medium.com/p/df082d06fa9e) |
-| Tue, 17 Jun 2025 21:18:35 GMT | 6 Powerful Benefits of Strong Cyber Hygiene: Rebooting Your Online Defense | Techridge Solutions | [Read More](https://medium.com/p/ff2239256dc9) |
-| Tue, 17 Jun 2025 21:17:30 GMT | is it possible to recover my money from ImToken ? | Carin Johnny | [Read More](https://medium.com/p/ce0dcccf0ce0) |
-| Tue, 17 Jun 2025 21:15:03 GMT | RangeForce Lab — Perimeter Compromise Exercise | Hassen Hannachi | [Read More](https://medium.com/p/be78679ddc8e) |
