@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 14:19:14 GMT | Day 27: Investigating RDP Brute-force Attack | Mikey O. | [Read More](https://medium.com/p/30feed82a602) |
+| Wed, 18 Jun 2025 14:19:05 GMT | Why Small Businesses Can’t Ignore Cybersecurity in 2025 | DefenceRabbit | [Read More](https://medium.com/p/060c0161fc78) |
+| Wed, 18 Jun 2025 14:16:44 GMT | Attacking DNS | Fatimahasan | [Read More](https://medium.com/p/ec13c0ddd247) |
+| Wed, 18 Jun 2025 14:06:27 GMT | Cyber Briefing: 2025.06.18 | CyberMaterial | [Read More](https://medium.com/p/a03b18004fb2) |
+| Wed, 18 Jun 2025 14:02:12 GMT | Incident Response Without a Security Team: A Survival Guide for Small Companies | Eric Zietlow | [Read More](https://medium.com/p/e41d61006a6a) |
+| Wed, 18 Jun 2025 14:01:48 GMT | CISSP Journal: My Study Notes | abdeldayemnour | [Read More](https://medium.com/p/ccb2d0c08780) |
+| Wed, 18 Jun 2025 14:01:48 GMT | FOFA Dorking - Part 7 | AbhirupKonwar | [Read More](https://medium.com/p/cc8a92941838) |
+| Wed, 18 Jun 2025 13:59:41 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/44766a8a4646) |
+| Wed, 18 Jun 2025 13:57:09 GMT | Vulnerability in Nonprofit Leadership: The Quiet Strength That Changes Everything | Incubrighter | [Read More](https://medium.com/p/1d40236d1281) |
+| Wed, 18 Jun 2025 13:44:26 GMT | From XSS Alert to Recognition: Lessons from My First SOC Investigation on LetsDefend! | Gift Afortu | [Read More](https://medium.com/p/f086afb65ff7) |
+| Wed, 18 Jun 2025 13:43:54 GMT | TryHackMe Volatility Essentials Walkthrough | k40t1k | [Read More](https://medium.com/p/2dd20a0243c0) |
+| Wed, 18 Jun 2025 13:42:12 GMT | Beyond VDI and Ready for Enterprise AI Access: Rethinking BYOD and Contractor Access for the… | Mammoth Cyber | [Read More](https://medium.com/p/34087a12378a) |
+| Wed, 18 Jun 2025 13:35:12 GMT | AssessFirst Chronicles — On the path to ISO 27001: Raising awareness and training teams (episode 6) | Rebecca Cottignies | [Read More](https://medium.com/p/76e536affac6) |
 | Wed, 18 Jun 2025 13:28:35 GMT | How Do HTTP Headers Make or Break Security | Ibtissam hammadi | [Read More](https://medium.com/p/d9b6a5c4eb45) |
 | Wed, 18 Jun 2025 13:18:27 GMT | When banks become battlefields: Lessons from the June 17 Cyber-Strike on Iran’s Central Bank | Martin Abramov | [Read More](https://medium.com/p/a9ae27ef27ca) |
 | Wed, 18 Jun 2025 13:12:40 GMT | Here’s How I Recover My Money From Lucrorfx | Thomas Hayes | [Read More](https://medium.com/p/406e7e014e65) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 08:53:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Sqnbangunindonesia | [Read More](https://medium.com/p/21b811d5a6f9) |
 | Wed, 18 Jun 2025 08:53:15 GMT | 14 — SOC104 — Malware Detected | Amadi Oluchi Faith | [Read More](https://medium.com/p/3ccc6dc5ae59) |
 | Wed, 18 Jun 2025 08:52:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Mngsqntraining | [Read More](https://medium.com/p/9fbaa36b4eb9) |
-| Wed, 18 Jun 2025 08:51:11 GMT | OSI ve TCP/IP Katmanları: İnternetin Perde Arkasını Katman Katman Keşfetmek | Beyza Sıla Gökmen | [Read More](https://medium.com/p/8f41546ec4b1) |
-| Wed, 18 Jun 2025 08:46:12 GMT | Improve your endpoint security with CrowdSec — An Open Source platform | Abishek S | [Read More](https://medium.com/p/a782221b4542) |
-| Wed, 18 Jun 2025 08:41:43 GMT | The Daily Tech Digest: 18 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/e9c3c0face4b) |
-| Wed, 18 Jun 2025 08:41:17 GMT | Reumaclysm | Acid & Rain Grey | [Read More](https://medium.com/p/9d31b276bf63) |
-| Wed, 18 Jun 2025 08:39:28 GMT | ประจำวันพุธที่ 18 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/db43cca37522) |
-| Wed, 18 Jun 2025 08:34:12 GMT | Under the Hood of jq: A Deep Dive into the Code Quality & Security of a Beloved JSON Processor | Camillo Pachmann | [Read More](https://medium.com/p/a81f120a3fce) |
-| Wed, 18 Jun 2025 08:30:53 GMT | Behavior Before Volume: A Smarter Approach to Alert Tuning | Siddhant Mishra | [Read More](https://medium.com/p/2dad80da1c03) |
-| Wed, 18 Jun 2025 08:27:03 GMT | EC Council CEH v13 AI Training and Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/bd39337ca179) |
-| Wed, 18 Jun 2025 08:22:42 GMT | Understanding Syn Flood Attacks: A Deep Dive | Mohamed Gebril | [Read More](https://medium.com/p/4242a007b705) |
-| Wed, 18 Jun 2025 08:21:53 GMT | Lockbit Ransomware Analysis with ANY.RUN | Motasem Hamdan | [Read More](https://medium.com/p/c89cdc604d28) |
-| Wed, 18 Jun 2025 08:15:18 GMT | Exposing services with Nginx, Ansible, and Cloudflare | Drake | [Read More](https://medium.com/p/34be6797a9cb) |
-| Wed, 18 Jun 2025 08:13:17 GMT | What is OWASP? A Quick Overview Before We Dive into the Top 10 (0/10) | Mrinal Joshi | [Read More](https://medium.com/p/9ac84b5f2180) |
-| Wed, 18 Jun 2025 08:10:41 GMT | How Security Enhances IT Infrastructure | TabTree IT Consulting Company | [Read More](https://medium.com/p/d217e3e08b81) |
