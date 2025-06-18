@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 04:36:02 GMT | Builder of the Foundations of Cybersecurity: Ralph C Merkle | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/676202f6e54a) |
+| Wed, 18 Jun 2025 04:26:56 GMT | Increased Safety: Oman Deploys Facial Recognition for Public Security | Tekhabeeb | [Read More](https://medium.com/p/5db31ca8b46e) |
+| Wed, 18 Jun 2025 04:26:10 GMT | Click Account Takeover (ATO) | Rishav anand | [Read More](https://medium.com/p/532065b4696d) |
+| Wed, 18 Jun 2025 04:23:53 GMT | MFA Everywhere: A Security engineer’s 10000 ft. view | Bhooshan Gadkari | [Read More](https://medium.com/p/674622a9e299) |
+| Wed, 18 Jun 2025 04:17:17 GMT | AI Spots Intruder! What Happens When AI Spots an Intruder in Seconds? | Ivis Constructionsurveillance | [Read More](https://medium.com/p/e197d189e51e) |
+| Wed, 18 Jun 2025 04:15:01 GMT | Swipe Left on Logic: What Hinge Teaches Us About Type I and Type II Errors | Divya | [Read More](https://medium.com/p/f974f3e9bac4) |
+| Wed, 18 Jun 2025 04:12:06 GMT | BI.ZONE Bug Bounty Platform | AbhirupKonwar | [Read More](https://medium.com/p/c1c3a6619696) |
+| Wed, 18 Jun 2025 04:11:56 GMT | How to Use Digital Wallets Safely: Avoiding Scams and Securing Your Money in a Cashless Society | Mohammed Saiful Alam Siddiquee | [Read More](https://medium.com/p/186077883b47) |
+| Wed, 18 Jun 2025 04:11:30 GMT | Attacktive Directory (THM) write up | Dante | [Read More](https://medium.com/p/10056bb5c6f5) |
+| Wed, 18 Jun 2025 04:01:14 GMT | Securing the Digital Age: The Rise of Quantum-Resistant Algorithms | Vikaschoudhary16 | [Read More](https://medium.com/p/2c6d6f8a903d) |
 | Wed, 18 Jun 2025 03:45:17 GMT | Building Trust: Cybersecurity Across The Architectural Workflow | Jacky Kapadia | [Read More](https://medium.com/p/72fa98be9278) |
 | Wed, 18 Jun 2025 03:35:01 GMT | Iranian Cyberattacks Targeting Israel's Anti-Missile Systems: A New Front in the Conflict | CCD-IS | [Read More](https://medium.com/p/a233b26a20bd) |
 | Wed, 18 Jun 2025 03:33:42 GMT | CTF Day(18) | Ahmed Narmer | [Read More](https://medium.com/p/36150509f6cc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 19:08:09 GMT | First | Abster Teknologi Indonesia | [Read More](https://medium.com/p/035ecc618dca) |
 | Tue, 17 Jun 2025 19:06:35 GMT | Beware of the Fake Job Scam: Deep Dive into qubitsinfotechsolution.tech | NIkhil Kumar | [Read More](https://medium.com/p/84057a202409) |
 | Tue, 17 Jun 2025 19:06:02 GMT | How Credential Dumpers Work: Building an LSASS Memory Extractor in C | Moataz Osama | [Read More](https://medium.com/p/9bc00fe978c0) |
-| Tue, 17 Jun 2025 18:37:07 GMT | TryHackMe: Benign — Logs, Lies, and LOLBINs -WalkThrough. | Seshu | [Read More](https://medium.com/p/d63db5db362d) |
-| Tue, 17 Jun 2025 18:36:36 GMT | Beyond Shifting Left: Securing the Full Software Lifecycle | Sophia | [Read More](https://medium.com/p/49d7f6930f2d) |
-| Tue, 17 Jun 2025 18:30:06 GMT | Simulators, REST, and MQTT — My First Real Lessons in IoT Design | Varnith | [Read More](https://medium.com/p/55fd0b2c1550) |
-| Tue, 17 Jun 2025 18:14:24 GMT | Zomato Security Breaches (2015 & 2017): Lessons Learned and Changes Implemented | Haresh Vidja | [Read More](https://medium.com/p/9cf82cbb8577) |
-| Tue, 17 Jun 2025 18:08:57 GMT | TryHackMe One Piece CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/19f7d19d9a2e) |
-| Tue, 17 Jun 2025 17:59:47 GMT | The Part of You That No One Knows | Iqra Arshad | [Read More](https://medium.com/p/33fcdd45c7f1) |
-| Tue, 17 Jun 2025 17:59:29 GMT | Cyber security programs for startups in the AI age | Enrique Cano | [Read More](https://medium.com/p/235172e9cc7f) |
-| Tue, 17 Jun 2025 17:57:08 GMT | Alarm Fatigue Management and  Noise Reduction Techniques in SOC Environments | Esra Kayhan | [Read More](https://medium.com/p/4667629ac8eb) |
-| Tue, 17 Jun 2025 17:56:37 GMT | 5 Ways Asset Identification Supports Stronger Cybersecurity Practices | Xaltius | [Read More](https://medium.com/p/4a4a24db3944) |
-| Tue, 17 Jun 2025 17:56:34 GMT | Security Operations Center (SOC): Structure, Roles, and Responsibilities | Mosarof Hossain | [Read More](https://medium.com/p/0ca223dd05d3) |
