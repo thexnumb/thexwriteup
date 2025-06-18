@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 21:38:36 GMT | Predatory Sparrow — Nobitex Cyberattack | Pentestjunkie07 | [Read More](https://medium.com/p/67f21c7ae5e4) |
+| Wed, 18 Jun 2025 21:33:10 GMT | The “So, What Now?” Tool for Pentesting: An Update on My Pentesting Assistant. | Glenn Rodney | [Read More](https://medium.com/p/ac69f7311420) |
+| Wed, 18 Jun 2025 21:24:18 GMT | TryHackMe - SQLMap: The Basics — PRACTICAL EXERCISE | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/8f7e6d7d1afa) |
 | Wed, 18 Jun 2025 21:03:16 GMT | Penetration Testing Cloudflare Malware Threats. June 18, 2025: | Inforsecpro | [Read More](https://medium.com/p/2135c405b39b) |
 | Wed, 18 Jun 2025 21:00:24 GMT | Brainpan1 — Buffer Overflow Write-up | Link | [Read More](https://medium.com/p/34b32f1d511f) |
 | Wed, 18 Jun 2025 21:00:18 GMT | Cybersecurity: Is It a Good Career Choice, and How to Get Started? | Areebatariq | [Read More](https://medium.com/p/50bbb11282b2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 15:43:52 GMT | Best HWID Spoofer 2025 — My Take as a Researcher Testing HWID Changers | Levi Shekelstein | [Read More](https://medium.com/p/ce362dbd8258) |
 | Wed, 18 Jun 2025 15:34:02 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 1 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/6229d82aa4b6) |
 | Wed, 18 Jun 2025 15:33:51 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part 14 | Narendar Battula (nArEn) | [Read More](https://medium.com/p/82007437261b) |
-| Wed, 18 Jun 2025 15:33:42 GMT | Broken Object Level Authorization (BOLA): Complete Guide — Part | Narendar Battula (nArEn) | [Read More](https://medium.com/p/e21f99db1ad8) |
-| Wed, 18 Jun 2025 15:31:46 GMT | Our Information is Broken and AI Will Only Make It Worse | Randy Schwartz | [Read More](https://medium.com/p/7973d63a6ad0) |
-| Wed, 18 Jun 2025 15:27:32 GMT | TryHackMe - Volatility Essentials - WriteUp | Axoloth | [Read More](https://medium.com/p/f9238c56b6de) |
