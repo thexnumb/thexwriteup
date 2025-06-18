@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 16:45:50 GMT | MacOS Privacy Is a Marketing Lie — Here’s How to Reclaim Control | Andrii | [Read More](https://medium.com/p/ce1cdb76ba17) |
+| Wed, 18 Jun 2025 16:45:30 GMT | False Positives: Not Just a Nuisance… But a Healthy Sign of Detection | Maged Anas | [Read More](https://medium.com/p/7a6a90be88eb) |
+| Wed, 18 Jun 2025 16:44:01 GMT | Modularizing Terraform Projects for a 3-Tier Architecture | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0692d1fda063) |
+| Wed, 18 Jun 2025 16:43:40 GMT | Day 66: Network Scripting in BASH — The Cybersecurity Toolkit | Agarwaldaksh | [Read More](https://medium.com/p/3b780598daeb) |
+| Wed, 18 Jun 2025 16:42:57 GMT | Avoid Race Conditions in Terraform with S3 and DynamoDB Locking | Ramkrushna Maheshwar | [Read More](https://medium.com/p/6f4a8a1d5a9b) |
+| Wed, 18 Jun 2025 16:40:52 GMT | Stop Load Balancing! Use Headless Services in Kubernetes for Stateful Apps | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4c3a867072e2) |
+| Wed, 18 Jun 2025 16:40:40 GMT | AV & EDR Bypass Techniques : Attacking & Defending Windows 101 | Shaheer Yasir | [Read More](https://medium.com/p/ec1fe5e5e811) |
+| Wed, 18 Jun 2025 16:34:24 GMT | Security Is a Business Goal — Not Just an IT Metric | Ben Kemp | [Read More](https://medium.com/p/b2f4b4b17c71) |
+| Wed, 18 Jun 2025 16:31:35 GMT | ADCS Exploitation Part 3: Living Off The Land | Giulio Pierantoni | [Read More](https://medium.com/p/9c6494d6a84e) |
 | Wed, 18 Jun 2025 16:18:49 GMT | “Unfiltered Talk” — How Target Chatbot Let Me Redecorate Their Website | Shah kaif | [Read More](https://medium.com/p/693150c9a9e5) |
 | Wed, 18 Jun 2025 16:17:08 GMT | Nobody Teaches This Part of GRC | A D | [Read More](https://medium.com/p/ededb435e870) |
 | Wed, 18 Jun 2025 16:15:54 GMT | 10      2025 … | Fraoula | [Read More](https://medium.com/p/a8d3038e9e8f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 11:13:03 GMT | CYBER: A Unified Operating System for Autonomous Robotic Intelligence | Rahul Raj | [Read More](https://medium.com/p/89182aa7e2d7) |
 | Wed, 18 Jun 2025 11:12:37 GMT | Stealthy Code Execution via NtMapViewOfSection + RtlCreateUserThread + Hidden Entry Stub | LordShen | [Read More](https://medium.com/p/5947c9a87726) |
 | Wed, 18 Jun 2025 11:11:56 GMT | Is AI Fighting Hackers — Or Helping Them? | Wisdom Smith | [Read More](https://medium.com/p/1b1cf0ff2e22) |
-| Wed, 18 Jun 2025 11:07:41 GMT | Protect Your Brand: The Business Case for Penetration Testing Services | SmartCLOUD Australia | [Read More](https://medium.com/p/39423cad404c) |
-| Wed, 18 Jun 2025 11:07:08 GMT | We Built an IoT Backend with Spring Boot — And Somehow Made It Talk MQTT | Varnith | [Read More](https://medium.com/p/83ab4e6453a3) |
-| Wed, 18 Jun 2025 10:54:20 GMT | The True Price of ‘Free’: How You’re Paying Without Knowing | Giri Babu | [Read More](https://medium.com/p/7b45f599b767) |
-| Wed, 18 Jun 2025 10:49:05 GMT | Build a Password Cracker Using Python | Frost | [Read More](https://medium.com/p/9caadb8c72f1) |
-| Wed, 18 Jun 2025 10:48:51 GMT | From LFI to RCE via /proc/self/environ – Shell Access via Headers | Zoningxtr | [Read More](https://medium.com/p/1f22e18c65db) |
-| Wed, 18 Jun 2025 10:44:17 GMT | DNS Misconfig + Web Cache Deception → Sensitive Data Exposure | Monika sharma | [Read More](https://medium.com/p/6a243542f545) |
-| Wed, 18 Jun 2025 10:43:15 GMT | Tracing the Shadows: How a Single Phishing Domain Revealed a Hidden Threat Infrastructure | h3xstone | [Read More](https://medium.com/p/400e451895a5) |
-| Wed, 18 Jun 2025 10:42:37 GMT | How to Use a Burner Email Address And When You Should | Karl Buhl | [Read More](https://medium.com/p/7cd1fc82bc79) |
-| Wed, 18 Jun 2025 10:40:37 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 3] | Aditya Bhatt | [Read More](https://medium.com/p/2bea07098768) |
