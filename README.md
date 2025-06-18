@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 07:12:22 GMT | Blockchain Security Beyond Crypto: Your Data’s Unbreakable Bodyguard | Aj | [Read More](https://medium.com/p/5aa96c0e0d33) |
+| Wed, 18 Jun 2025 07:12:06 GMT | Why VAPT Testing is Crucial for Every Modern Organization | StrongBox IT | [Read More](https://medium.com/p/ae3568c4e9db) |
+| Wed, 18 Jun 2025 07:10:47 GMT | DarkFuzz: The Ultimate Fuzzing Powerhouse for Web Security | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/963a8b34e349) |
+| Wed, 18 Jun 2025 07:07:19 GMT | What is DNS? How does the DNS Works? | GOPI S | [Read More](https://medium.com/p/3e14dd94e2f5) |
+| Wed, 18 Jun 2025 07:06:48 GMT | “AI and Data Authentication: Securing the Digital Future” | Shivani kumari | [Read More](https://medium.com/p/0f9a348d051b) |
+| Wed, 18 Jun 2025 07:02:22 GMT | Just Connect This Wi-Fi, Your Account Will be Mine! | Johnstri | [Read More](https://medium.com/p/ba81695320d1) |
+| Wed, 18 Jun 2025 06:57:27 GMT | Key Differences Between Vulnerability Assessment and Penetration Testing | StrongBox IT | [Read More](https://medium.com/p/407abc61bd4b) |
+| Wed, 18 Jun 2025 06:56:02 GMT | Creating an OTP Text View with Auto-Fill Support in Jetpack Compose | Karishma Agrawal | [Read More](https://medium.com/p/ab3dd50ae074) |
+| Wed, 18 Jun 2025 06:51:56 GMT | Free charging ports in public places! Possible conduit for cybercrime! | SAYCOIN | [Read More](https://medium.com/p/f0bbc6d427ad) |
+| Wed, 18 Jun 2025 06:50:13 GMT | Mosaic, Not Monolith | rquadauqr | [Read More](https://medium.com/p/06b141493fdb) |
+| Wed, 18 Jun 2025 06:49:52 GMT | Top Armed Security Guards in the USA — Direct Guard Services | Direct Guard Services | [Read More](https://medium.com/p/1efdfc48c4be) |
+| Wed, 18 Jun 2025 06:45:52 GMT | The Windows Security Journey — EFS (Encrypted File System) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3e2d319530ca) |
+| Wed, 18 Jun 2025 06:41:54 GMT | How Great Products Are Made!! | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/b6a0bf9c620f) |
+| Wed, 18 Jun 2025 06:40:42 GMT | Emotional Generosity | Flaminia Catalli | [Read More](https://medium.com/p/56cff7cd8d45) |
+| Wed, 18 Jun 2025 06:39:05 GMT | Why Choosing Professional Alarm Response Is Smarter Than DIY Monitoring | Sentrysofficers | [Read More](https://medium.com/p/332cd8785848) |
+| Wed, 18 Jun 2025 06:36:11 GMT | Beyond Static: Intelligent Caching & DDoS Mitigation with AWS CloudFront | Harsh Singhal | [Read More](https://medium.com/p/35df2c2450a9) |
+| Wed, 18 Jun 2025 06:31:03 GMT | How I Passed CompTIA Security+ & Network+ Without Professional Cybersecurity Experience. | Harjot Singh | [Read More](https://medium.com/p/42a85fcfd21c) |
+| Wed, 18 Jun 2025 06:24:02 GMT | How to Become Ethical Hacker after 12th in India? | cyber security Updates | [Read More](https://medium.com/p/f37649c8d0ab) |
 | Wed, 18 Jun 2025 06:22:37 GMT | When Session Fixation Meets Session Confusion: A Case of Cross-User Control | Erkan Kavas | [Read More](https://medium.com/p/bb2cd0d478e8) |
 | Wed, 18 Jun 2025 06:22:29 GMT | How I hacked a State Results NIC portal with a simple SQL injection | Adithya M S | [Read More](https://medium.com/p/e095725a091e) |
 | Wed, 18 Jun 2025 06:21:55 GMT | How I Hacked Accounts Using Host Header Injection in Password Reset Link — $$$$ | Pratik Dabhi | [Read More](https://medium.com/p/2774431eed89) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 21:18:35 GMT | 6 Powerful Benefits of Strong Cyber Hygiene: Rebooting Your Online Defense | Techridge Solutions | [Read More](https://medium.com/p/ff2239256dc9) |
 | Tue, 17 Jun 2025 21:17:30 GMT | is it possible to recover my money from ImToken ? | Carin Johnny | [Read More](https://medium.com/p/ce0dcccf0ce0) |
 | Tue, 17 Jun 2025 21:15:03 GMT | RangeForce Lab — Perimeter Compromise Exercise | Hassen Hannachi | [Read More](https://medium.com/p/be78679ddc8e) |
-| Tue, 17 Jun 2025 21:11:32 GMT | Securing Docker Images with Sigstore Cosign | Grigor Khachatryan | [Read More](https://medium.com/p/208a19801b72) |
-| Tue, 17 Jun 2025 21:02:26 GMT | Cybersecurity in the Health Sector: Protecting Our Most Valuable Information | Coderslab | [Read More](https://medium.com/p/b2544d1c90c2) |
-| Tue, 17 Jun 2025 20:48:27 GMT | ActiveState Intelligent Remediation: Gartner Security Insights | ActiveState | [Read More](https://medium.com/p/14ca610a4869) |
-| Tue, 17 Jun 2025 20:48:17 GMT | here’s how I recover my money from Fintexpert | Jonas Fellen | [Read More](https://medium.com/p/aa9d97c4b42d) |
-| Tue, 17 Jun 2025 20:41:02 GMT | Ignoring NIS2: What’s the Real Risk to Your Business? | J Bodys | [Read More](https://medium.com/p/a6e8b27ad847) |
-| Tue, 17 Jun 2025 20:40:54 GMT | is it possible to recover my money from Bitforex? | Lillian Mick | [Read More](https://medium.com/p/88425640b5fe) |
-| Tue, 17 Jun 2025 20:36:48 GMT | how do I get money out of Bitforex ? | Lillian Mick | [Read More](https://medium.com/p/531b03de5d35) |
-| Tue, 17 Jun 2025 20:33:06 GMT | Golden Ticket: A Hacker’s Passport to Unlimited Access | Sai Sathwik Ailneni | [Read More](https://medium.com/p/9269fc80921b) |
-| Tue, 17 Jun 2025 20:32:43 GMT | CSRF Vulnerabilities and Exploitation Techniques | musayyab sharif | [Read More](https://medium.com/p/759bec4a868f) |
-| Tue, 17 Jun 2025 20:25:10 GMT | Designing A Tech Company — My story on building Xerxes Enterprises & Xerxes Apollo. | The Architect Reaper | [Read More](https://medium.com/p/88e5dab6c1bc) |
-| Tue, 17 Jun 2025 20:20:19 GMT | أدوات الاختراق الأخلاقي: درعك السيبراني | Hbsca | [Read More](https://medium.com/p/978af3e4d1a4) |
-| Tue, 17 Jun 2025 20:19:48 GMT | I HACKED THE ADMIN WITH A SOCIAL LOGIN | Sumanth Yerranagula | [Read More](https://medium.com/p/5d7f496c51b8) |
-| Tue, 17 Jun 2025 20:12:45 GMT | Online Love, Real Scams | O. J. Okpabi | [Read More](https://medium.com/p/5b7a8d897767) |
-| Tue, 17 Jun 2025 20:04:51 GMT | INTERPOL Takes Down a Infostealers Operation | Matthew.Rosenquist | [Read More](https://medium.com/p/c9633077f1c8) |
-| Tue, 17 Jun 2025 20:04:04 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/3d39d34b02bf) |
-| Tue, 17 Jun 2025 20:00:04 GMT | Kali Linux — Post Update Message about sshd_config file | Bob Malin | [Read More](https://medium.com/p/622943826e3c) |
-| Tue, 17 Jun 2025 19:58:25 GMT | “Do you know the formula for perfect wine? Can you predict the best World Cup team?” ⚽ | M H | [Read More](https://medium.com/p/927b70baf507) |
-| Tue, 17 Jun 2025 19:51:53 GMT | BUY NONE DETECTED COUNTERFEIT BILLS ($,€,£)…CONTACT ME ON WHATSAPP: +351924885536 | Alialsward | [Read More](https://medium.com/p/eb805d12785c) |
