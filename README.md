@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 23:32:21 GMT | The Shocking New Way Hackers Are Jailbreaking AI — And It’s Ridiculously Easy | Cyber-AppSec | [Read More](https://medium.com/p/e77a23c5afc3) |
+| Wed, 18 Jun 2025 23:25:03 GMT | Understanding Phishing: Why do People Keep Falling for It and What Happens if You Do. | Davidtaiwo | [Read More](https://medium.com/p/29aaa8d55a6b) |
+| Wed, 18 Jun 2025 23:23:23 GMT | Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/399dd4b46b37) |
+| Wed, 18 Jun 2025 23:21:52 GMT | My first cyber security walk-through | SPIRIT | [Read More](https://medium.com/p/783617632707) |
 | Wed, 18 Jun 2025 22:51:24 GMT | Dear Romantic Girl: Your Softness Is Not a Liability | ᴍᴇʀ ♡ | [Read More](https://medium.com/p/9c9218c3ed69) |
 | Wed, 18 Jun 2025 22:46:54 GMT | CYBER KILL CHAIN | Ahmedhezema | [Read More](https://medium.com/p/3b4a283272e8) |
 | Wed, 18 Jun 2025 22:25:18 GMT | Zero to Carnegie Mellon in 5 months | Kriti Srivastava | [Read More](https://medium.com/p/9faddc112575) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 16:08:38 GMT | Secrets, Tokens, and API Keys: How to Manage Them Safely in 2025 | Pranav Prakash | [Read More](https://medium.com/p/823b60db6980) |
 | Wed, 18 Jun 2025 16:08:10 GMT | Frequently used Nmap Scanning commands | The Commoness | [Read More](https://medium.com/p/5aa23e490806) |
 | Wed, 18 Jun 2025 16:07:23 GMT | How to Prevent AI Supply Chain Attacks? | Practical DevSecOps | [Read More](https://medium.com/p/5ed761ed927b) |
-| Wed, 18 Jun 2025 16:06:04 GMT | Simple Substitution Cipher: Krypton 0–2 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/5d82daa8555d) |
-| Wed, 18 Jun 2025 16:04:07 GMT | Yok Ngebrute Force RAR! | Daniel Martin | [Read More](https://medium.com/p/b82e7266402f) |
-| Wed, 18 Jun 2025 16:02:23 GMT | Echoes of Safer Days: The Lingering Unanswered Questions | Rahma Isah | [Read More](https://medium.com/p/278b081a2fd8) |
-| Wed, 18 Jun 2025 16:01:44 GMT | Crying in Public Is Not Weakness - It’s a Radical Act of Healing | LA Adkins | [Read More](https://medium.com/p/deecb3f67c40) |
