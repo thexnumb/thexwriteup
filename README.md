@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 08:27:03 GMT | EC Council CEH v13 AI Training and Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/bd39337ca179) |
+| Wed, 18 Jun 2025 08:22:42 GMT | Understanding Syn Flood Attacks: A Deep Dive | Mohamed Gebril | [Read More](https://medium.com/p/4242a007b705) |
+| Wed, 18 Jun 2025 08:21:53 GMT | Lockbit Ransomware Analysis with ANY.RUN | Motasem Hamdan | [Read More](https://medium.com/p/c89cdc604d28) |
+| Wed, 18 Jun 2025 08:15:18 GMT | Exposing services with Nginx, Ansible, and Cloudflare | Drake | [Read More](https://medium.com/p/34be6797a9cb) |
+| Wed, 18 Jun 2025 08:13:17 GMT | What is OWASP? A Quick Overview Before We Dive into the Top 10 (0/10) | Mrinal Joshi | [Read More](https://medium.com/p/9ac84b5f2180) |
+| Wed, 18 Jun 2025 08:10:41 GMT | How Security Enhances IT Infrastructure | TabTree IT Consulting Company | [Read More](https://medium.com/p/d217e3e08b81) |
+| Wed, 18 Jun 2025 08:09:25 GMT | The Battle Between AI Hackers & AI Defenders: Who’s Winning in 2025? | Sanchitamishra | [Read More](https://medium.com/p/c350e8cb1336) |
+| Wed, 18 Jun 2025 08:08:59 GMT | Signed, Sealed, Delivered: How I Replayed Signed URLs to Steal Everything ✍️ | Iski | [Read More](https://medium.com/p/df28cbe93b34) |
+| Wed, 18 Jun 2025 08:08:27 GMT | Cybersecurity Laws and Regulations | Priyansha Madhwal | [Read More](https://medium.com/p/5a0fa07894fe) |
+| Wed, 18 Jun 2025 08:06:33 GMT | Understanding Domain Generation Algorithms (DGA): The Stealth Tactic Behind Modern Malware | Rezaaditria | [Read More](https://medium.com/p/1cbe3e5d2642) |
+| Wed, 18 Jun 2025 08:04:21 GMT | Safeguard Your Digital Assets with Cyber Security Services from GTechnohubb | Gtechnohubb PVT LTD | [Read More](https://medium.com/p/1e2ebc21b837) |
+| Wed, 18 Jun 2025 08:02:41 GMT | The Ultimate Fusion: Linux, Ubuntu, and Cybersecurity | Faruk Ahmed | [Read More](https://medium.com/p/449877563bc7) |
+| Wed, 18 Jun 2025 07:59:44 GMT | How Applications Modernization Enhances Performance, Security, and Scalability | Jack Ryan | [Read More](https://medium.com/p/02cb6593cb9f) |
+| Wed, 18 Jun 2025 07:59:01 GMT | BT Denetiminde Kullanılan Raporlama Araçları ve Teknikler | Ahmet Sahin | [Read More](https://medium.com/p/f660fd11bf55) |
+| Wed, 18 Jun 2025 07:57:34 GMT | Empowering Business Operations with Tailored Information Technology (IT) Services - All Services… | Samiksha R | [Read More](https://medium.com/p/2cebb0f379cc) |
+| Wed, 18 Jun 2025 07:56:13 GMT | The Rise of Cybersecurity Experts in a Digitally-Driven World | AGC Amritsar - Best Engineering College | [Read More](https://medium.com/p/1978cb12dba2) |
+| Wed, 18 Jun 2025 07:54:33 GMT | Curl Like a Hacker: How Ethical Hackers Use Curl to Outsmart Web Defenses | Saikat Paul | [Read More](https://medium.com/p/5b9319923b7f) |
+| Wed, 18 Jun 2025 07:51:11 GMT | How Cybersecurity AI Tools Analyze Millions of Threats Per Second | Sanchitamishra | [Read More](https://medium.com/p/281c781604cd) |
+| Wed, 18 Jun 2025 07:49:49 GMT | The Top 5 Challenges Faced by EdTech Companies | Idera Dev Tools | [Read More](https://medium.com/p/0835d0df4db0) |
+| Wed, 18 Jun 2025 07:44:36 GMT | What I learnt from speaking at 17+ information security conferences | Pramod Rana (@IAmVarchashva) | [Read More](https://medium.com/p/6f67a6fd9a01) |
 | Wed, 18 Jun 2025 07:32:56 GMT | OAuth 2.0 Working & Vulnerabilities | Anandhu K | [Read More](https://medium.com/p/98606053c713) |
 | Wed, 18 Jun 2025 07:26:54 GMT | Bounty Hacker - Try Hack Me - Complete Walkthrough | Avrodip Joy | [Read More](https://medium.com/p/1930650a0d0d) |
 | Wed, 18 Jun 2025 07:26:09 GMT | Attacking RDP | Fatimahasan | [Read More](https://medium.com/p/b7b8154b5f3c) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 00:02:38 GMT | How to Use Subfinder for Bug Bounty: Complete Guide with Examples and Advanced Tips | JPablo13 | [Read More](https://medium.com/p/779596c456bc) |
 | Tue, 17 Jun 2025 23:52:26 GMT | Scaling Smart: Why GDPR Compliance is a Secret Weapon for SaaS Growth | Zachary Neal | [Read More](https://medium.com/p/05568db10972) |
 | Tue, 17 Jun 2025 23:37:50 GMT | Caltech Scientists Achieve Hyper-Entanglement in Atomic Motion: A Quantum Leap in Control and… | QuantumGenie | [Read More](https://medium.com/p/17462b975d6c) |
-| Tue, 17 Jun 2025 23:35:47 GMT | 10 Spring Boot Security Best Practices You Can’t Ignore in 2025 | Jaytech | [Read More](https://medium.com/p/230651ffeeb3) |
-| Tue, 17 Jun 2025 23:29:33 GMT | Critical .NET and .NET Framework Updates Issued in June 2025: Addressing a Remote Code Execution | Max | [Read More](https://medium.com/p/2f5ace9fa079) |
-| Tue, 17 Jun 2025 23:28:23 GMT | No, Don’t Stop the Bleeding | Wesley Belleman | [Read More](https://medium.com/p/e5b7d184f7bb) |
-| Tue, 17 Jun 2025 23:21:28 GMT | Meta Pool security incident on mpETH contract on Ethereum | metapool.near | [Read More](https://medium.com/p/ba7a328d45c6) |
-| Tue, 17 Jun 2025 23:04:49 GMT | ISO 27001 Certification? Here’s Your Survival Guide | Max Secure | [Read More](https://medium.com/p/e64388fcb339) |
-| Tue, 17 Jun 2025 22:36:35 GMT | Switching from QA to Security in my 40s | JVANVS | [Read More](https://medium.com/p/960ce96dbe8f) |
-| Tue, 17 Jun 2025 22:25:21 GMT | Week 1: Top 5 Regulations and Why They Matter | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/a02237be8971) |
-| Tue, 17 Jun 2025 22:23:50 GMT | Investigating Suspicious URLs — Tools that you need to know as SOC Analyst | Ayyappan Subramanian | [Read More](https://medium.com/p/1af045302be2) |
-| Tue, 17 Jun 2025 22:20:09 GMT | Identifying North Korean Kimsuky (APT43) Infrastructure | LCSC-IE | [Read More](https://medium.com/p/b6817a58a65b) |
-| Tue, 17 Jun 2025 22:17:08 GMT | From Recon to Report: Automate Your Pentesting Workflow With Python | Karthikeyan Nagaraj | [Read More](https://medium.com/p/fe0721ff66c9) |
-| Tue, 17 Jun 2025 22:05:39 GMT | The Trap Coded with Personal Data: Targeted Smart Contract Attacks | LESSIOPG | [Read More](https://medium.com/p/636441590177) |
-| Tue, 17 Jun 2025 22:03:06 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/1b71ac99d486) |
-| Tue, 17 Jun 2025 22:00:12 GMT | Skynet writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/d454d0dd51b6) |
-| Tue, 17 Jun 2025 21:52:19 GMT | No Country For Cyber Novices | O. J. Okpabi | [Read More](https://medium.com/p/4e0476f07595) |
-| Tue, 17 Jun 2025 21:42:00 GMT | The Journey from Manual Checks to Automated Reports | Indranilchakrabortysc | [Read More](https://medium.com/p/386c6b9c0f96) |
-| Tue, 17 Jun 2025 21:41:00 GMT | Hardening Active Directory: A Practical Guide Every IT and Cybersecurity Pro Should Know | Odiomonafe Jamal . A | [Read More](https://medium.com/p/32276f95ea9a) |
-| Tue, 17 Jun 2025 21:38:17 GMT | How I Caught a Trojan Using DNS Traffic in Wireshark | Rima | [Read More](https://medium.com/p/6fd460d00e89) |
-| Tue, 17 Jun 2025 21:37:10 GMT | HackTheBox “Down” Walkthrough - TheHiker | TheHiker | [Read More](https://medium.com/p/189802e3e5b8) |
-| Tue, 17 Jun 2025 21:33:06 GMT | what can I do to recover my money from Ultima Markets ? | Emily Owen | [Read More](https://medium.com/p/0fe78cc6ae9e) |
-| Tue, 17 Jun 2025 21:26:13 GMT | The Security Bot Just Took Action. Without Asking. | Thomas Rauch | [Read More](https://medium.com/p/e23bd2273127) |
