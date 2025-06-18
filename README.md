@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 22:25:18 GMT | Zero to Carnegie Mellon in 5 months | Kriti Srivastava | [Read More](https://medium.com/p/9faddc112575) |
+| Wed, 18 Jun 2025 22:18:51 GMT | When Crypto Becomes Collateral: The Ninety Million Dollar Burn of Nobitex | Travis Murphy | [Read More](https://medium.com/p/899e4c35a03f) |
+| Wed, 18 Jun 2025 22:18:27 GMT | 5 Lessons Learned as Incident Commander of the Biggest Security Incident of My Career | Ryan G. Cox | [Read More](https://medium.com/p/46498f61dae6) |
+| Wed, 18 Jun 2025 22:16:37 GMT | Detecting and Exploiting Business Logic Flaws in Real Web Apps | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d6fda7397b55) |
 | Wed, 18 Jun 2025 22:11:51 GMT | The Devices are Talking | Alison Kellner | [Read More](https://medium.com/p/a0ac479470e0) |
 | Wed, 18 Jun 2025 22:03:28 GMT | The Future of Blockchain in Systems Engineering | Adeola | [Read More](https://medium.com/p/ca6ab6b8c677) |
 | Wed, 18 Jun 2025 21:57:27 GMT | Digital Forensics with Autopsy: A Comprehensive Guide | Arham khan | [Read More](https://medium.com/p/38420ea576e7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 16:01:44 GMT | Crying in Public Is Not Weakness - It’s a Radical Act of Healing | LA Adkins | [Read More](https://medium.com/p/deecb3f67c40) |
 | Wed, 18 Jun 2025 16:01:08 GMT | Calling The Video Game Industry — Toxic Waste Clean-Up on Aisle Everywhere | Savvy Cyber Kids | [Read More](https://medium.com/p/bbc30b70682c) |
 | Wed, 18 Jun 2025 16:00:48 GMT | How Kids FEEL About Their Online Worlds Is More Important Than What They Do Online | Savvy Cyber Kids | [Read More](https://medium.com/p/b4520ff661ff) |
-| Wed, 18 Jun 2025 16:00:02 GMT | TryHackMe 0day — Walkthrough | mauzware | [Read More](https://medium.com/p/6010fe9c4766) |
-| Wed, 18 Jun 2025 15:59:14 GMT | The Vanity Address Affair: The Iranian Crypto Exchange Hack | Tal Be'ery | [Read More](https://medium.com/p/a6047259f268) |
-| Wed, 18 Jun 2025 15:53:36 GMT | Day #28 of #60DaysofGRC: Risk Appetite vs Risk Tolerance (And Spicy Chips ) | Brittney Ginther | [Read More](https://medium.com/p/8848e49a4509) |
-| Wed, 18 Jun 2025 15:51:51 GMT | HF 2019-Linux | Pranavsuresh | [Read More](https://medium.com/p/a1d5cb3a0cb5) |
