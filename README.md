@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 14:22:32 GMT | The 2:47 AM Call That Changed How I Think About Cybersecurity | Zahir black | [Read More](https://medium.com/p/d6c120db4c63) |
 | Wed, 18 Jun 2025 14:19:14 GMT | Day 27: Investigating RDP Brute-force Attack | Mikey O. | [Read More](https://medium.com/p/30feed82a602) |
 | Wed, 18 Jun 2025 14:19:05 GMT | Why Small Businesses Can’t Ignore Cybersecurity in 2025 | DefenceRabbit | [Read More](https://medium.com/p/060c0161fc78) |
 | Wed, 18 Jun 2025 14:16:44 GMT | Attacking DNS | Fatimahasan | [Read More](https://medium.com/p/ec13c0ddd247) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 08:54:11 GMT | Here’s Why I think prompt engineering is about to become increasingly difficult in the future. | M F Petje | [Read More](https://medium.com/p/ea9c3267cfe5) |
 | Wed, 18 Jun 2025 08:53:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Sqnbangunindonesia | [Read More](https://medium.com/p/21b811d5a6f9) |
 | Wed, 18 Jun 2025 08:53:15 GMT | 14 — SOC104 — Malware Detected | Amadi Oluchi Faith | [Read More](https://medium.com/p/3ccc6dc5ae59) |
-| Wed, 18 Jun 2025 08:52:20 GMT | TRAINING CYBERSECURITY AWARENESS UNTUK KARYAWAN | Mngsqntraining | [Read More](https://medium.com/p/9fbaa36b4eb9) |
