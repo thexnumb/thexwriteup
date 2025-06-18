@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 01:35:20 GMT | Desvendando o OWASP AIVSS: Um Framework para Segurança de IA | Fernando Silva | [Read More](https://medium.com/p/728d3962a918) |
+| Wed, 18 Jun 2025 01:05:06 GMT | Why I Started This Cybersecurity Blog: For the People Who Feel Left Behind | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/fb7f2acc6f45) |
+| Wed, 18 Jun 2025 01:04:34 GMT | Securing the Black Sea : The Role of Peaceful Nuclear Cooperation in Regional Security Dynamics | Atiyah Hijriyanti | [Read More](https://medium.com/p/a9468ff94d42) |
+| Wed, 18 Jun 2025 00:15:50 GMT | Casefile: XIS10CIAL (Marc Streefland) GPT Pentest Investigation | mikesploit | [Read More](https://medium.com/p/1f3c21b2aa86) |
+| Wed, 18 Jun 2025 00:05:54 GMT | Smart Caching and DDoS Mitigation with AWS CloudFront: A Practical Guide for Modern Web Apps | Harsh Singhal | [Read More](https://medium.com/p/40600a76ece1) |
+| Wed, 18 Jun 2025 00:02:38 GMT | How to Use Subfinder for Bug Bounty: Complete Guide with Examples and Advanced Tips | JPablo13 | [Read More](https://medium.com/p/779596c456bc) |
+| Tue, 17 Jun 2025 23:52:26 GMT | Scaling Smart: Why GDPR Compliance is a Secret Weapon for SaaS Growth | Zachary Neal | [Read More](https://medium.com/p/05568db10972) |
+| Tue, 17 Jun 2025 23:37:50 GMT | Caltech Scientists Achieve Hyper-Entanglement in Atomic Motion: A Quantum Leap in Control and… | QuantumGenie | [Read More](https://medium.com/p/17462b975d6c) |
+| Tue, 17 Jun 2025 23:35:47 GMT | 10 Spring Boot Security Best Practices You Can’t Ignore in 2025 | Jaytech | [Read More](https://medium.com/p/230651ffeeb3) |
 | Tue, 17 Jun 2025 23:29:33 GMT | Critical .NET and .NET Framework Updates Issued in June 2025: Addressing a Remote Code Execution | Max | [Read More](https://medium.com/p/2f5ace9fa079) |
 | Tue, 17 Jun 2025 23:28:23 GMT | No, Don’t Stop the Bleeding | Wesley Belleman | [Read More](https://medium.com/p/e5b7d184f7bb) |
 | Tue, 17 Jun 2025 23:21:28 GMT | Meta Pool security incident on mpETH contract on Ethereum | metapool.near | [Read More](https://medium.com/p/ba7a328d45c6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Jun 2025 16:59:55 GMT | Balancing Automation and Security: A Guide for SMBs Using n8n, Make, and Zapier | Keith Foster | [Read More](https://medium.com/p/9e98479339a0) |
 | Tue, 17 Jun 2025 16:59:44 GMT | Don’t Get Played | Eina Schroeder | [Read More](https://medium.com/p/dc0322f9db3b) |
 | Tue, 17 Jun 2025 16:58:20 GMT | Security Champions Aren’t Just for Devs — Why You Need Them in QA, Ops, and Product | Security Consulting Blogspot | [Read More](https://medium.com/p/ed8a7746e6f8) |
-| Tue, 17 Jun 2025 16:51:13 GMT | One Click Away: Why Cybersecurity Awareness Must Be Ongoing | Ben Kemp | [Read More](https://medium.com/p/655663392fa0) |
-| Tue, 17 Jun 2025 16:50:48 GMT | Why Start a Cyber Security Career in 2025? | Online course provider- Data science, AI, etc | [Read More](https://medium.com/p/9995673fc76f) |
-| Tue, 17 Jun 2025 16:45:10 GMT | Why Backend Engineers Should Care About Prompt Injection Attacks | Pranav Prakash | [Read More](https://medium.com/p/3adbd75f0cc5) |
-| Tue, 17 Jun 2025 16:37:28 GMT | Why Securing Non-Human Identities Should Be a Top Priority in 2025 | TheReviewHive | [Read More](https://medium.com/p/fbe7d09bb08d) |
-| Tue, 17 Jun 2025 16:35:26 GMT | Risk is Everywhere: How Prioritization and the Risk Matrix Help Us Focus on What Matters Most | Brittney Ginther | [Read More](https://medium.com/p/534eac1df3ac) |
-| Tue, 17 Jun 2025 16:29:24 GMT | How I Passed and Became an AWS Certified Cloud Practitioner on My First Try | Abdisamad Yusuf | [Read More](https://medium.com/p/1e1cf9c82861) |
-| Tue, 17 Jun 2025 16:23:11 GMT | How AI Is Making Your Healthcare Smarter, Safer, and Just for You | Payaam Raza | [Read More](https://medium.com/p/b53247eaad03) |
-| Tue, 17 Jun 2025 16:15:21 GMT | From 0.0.0.0/0 to Locked Down | Hiranmayi | [Read More](https://medium.com/p/8596f198b27f) |
-| Tue, 17 Jun 2025 16:14:57 GMT | Towards Measurable Security in Agentic AI | Gauri Sharma | [Read More](https://medium.com/p/2d0cc4147fe8) |
