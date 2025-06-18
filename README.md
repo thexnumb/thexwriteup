@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Jun 2025 20:22:08 GMT | Day 3/100: Understanding Ports | 0X595 | [Read More](https://medium.com/p/b13c313ff695) |
+| Wed, 18 Jun 2025 20:09:02 GMT | SOC Consulting Services for Smarter Cyber Defense | Akshay Chauhan | [Read More](https://medium.com/p/62c1ba5514eb) |
+| Wed, 18 Jun 2025 19:59:26 GMT | APT Attack: What It Is and How to Protect Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/3a618b155c69) |
+| Wed, 18 Jun 2025 19:58:20 GMT | Is Google Dorking Illegal? Know the Legal Risks | Akshay Chauhan | [Read More](https://medium.com/p/ec5095c7add3) |
+| Wed, 18 Jun 2025 19:57:08 GMT | OWASP Top 10 Vulnerability :- | Mainekdeveloper | [Read More](https://medium.com/p/e3c43e318fbb) |
+| Wed, 18 Jun 2025 19:50:54 GMT | State-Sponsored Attackers: What They Are and How You Can Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/31c0b411b78a) |
+| Wed, 18 Jun 2025 19:49:56 GMT | The Growing Importance of Cybersecurity in a Connected World | CtrlAltReflect | [Read More](https://medium.com/p/d666bf3a08a5) |
+| Wed, 18 Jun 2025 19:49:09 GMT | Don’t Rewrite Your Project in Rust — Do This Instead | Jason Thomas | [Read More](https://medium.com/p/c890cba0800a) |
+| Wed, 18 Jun 2025 19:48:49 GMT | Does Anybody Know Me? | Lincoln Grant | [Read More](https://medium.com/p/8a26851eb0f9) |
 | Wed, 18 Jun 2025 19:32:25 GMT | Unmasking BYOD Security Risks: Your Expert Guide from Top IT Support Provider | IT_Engineer | [Read More](https://medium.com/p/b57a793608c6) |
 | Wed, 18 Jun 2025 19:30:07 GMT | IOC Extractor — A Simple Tool for SOC Teams to Export IOCs from PDFs to Excel | Shahrukh Khan | [Read More](https://medium.com/p/b94ab18a32ef) |
+| Wed, 18 Jun 2025 19:29:41 GMT | Decoding Network Mysteries: A Deep Dive into Traffic Analysis with Wireshark | Arham khan | [Read More](https://medium.com/p/8acfd61bc908) |
+| Wed, 18 Jun 2025 19:27:27 GMT | MDM as a Service: Secure, Simplify, and Scale Mobile Device Management | SafeAeon Inc. | [Read More](https://medium.com/p/7fb9500cafcb) |
 | Wed, 18 Jun 2025 19:17:46 GMT | What’s an IP Address Anyway? A Complete Beginner’s Guide | Sourav kumawat | [Read More](https://medium.com/p/6ea78eb1b869) |
 | Wed, 18 Jun 2025 19:14:51 GMT | The Malware Zoo: Spotting the Wildest Threats Online | Shekhar Saxena | [Read More](https://medium.com/p/0053f22cfb4e) |
 | Wed, 18 Jun 2025 19:06:53 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | Code With Hannan | [Read More](https://medium.com/p/b1175dc15f32) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 14:47:08 GMT | The Psychology of Security | Kara Davis | [Read More](https://medium.com/p/4a4a1e37f4c1) |
 | Wed, 18 Jun 2025 14:44:13 GMT | Sunset Walkthrough -Vulnhub | Pranavsuresh | [Read More](https://medium.com/p/f13aad625c6f) |
 | Wed, 18 Jun 2025 14:42:37 GMT | 3 Things He Must Give You to Prove His Love (Beyond Words) | Yuenie-kate | [Read More](https://medium.com/p/a42a4915aeef) |
-| Wed, 18 Jun 2025 14:37:05 GMT | Day 28: Investigating Mythic Agent | Mikey O. | [Read More](https://medium.com/p/77695cda4c34) |
-| Wed, 18 Jun 2025 14:22:32 GMT | The 2:47 AM Call That Changed How I Think About Cybersecurity | Zahir black | [Read More](https://medium.com/p/d6c120db4c63) |
-| Wed, 18 Jun 2025 14:19:14 GMT | Day 27: Investigating RDP Brute-force Attack | Mikey O. | [Read More](https://medium.com/p/30feed82a602) |
-| Wed, 18 Jun 2025 14:19:05 GMT | Why Small Businesses Can’t Ignore Cybersecurity in 2025 | DefenceRabbit | [Read More](https://medium.com/p/060c0161fc78) |
-| Wed, 18 Jun 2025 14:16:44 GMT | Attacking DNS | Fatimahasan | [Read More](https://medium.com/p/ec13c0ddd247) |
-| Wed, 18 Jun 2025 14:06:27 GMT | Cyber Briefing: 2025.06.18 | CyberMaterial | [Read More](https://medium.com/p/a03b18004fb2) |
-| Wed, 18 Jun 2025 14:02:12 GMT | Incident Response Without a Security Team: A Survival Guide for Small Companies | Eric Zietlow | [Read More](https://medium.com/p/e41d61006a6a) |
-| Wed, 18 Jun 2025 14:01:48 GMT | CISSP Journal: My Study Notes | abdeldayemnour | [Read More](https://medium.com/p/ccb2d0c08780) |
-| Wed, 18 Jun 2025 14:01:48 GMT | FOFA Dorking - Part 7 | AbhirupKonwar | [Read More](https://medium.com/p/cc8a92941838) |
-| Wed, 18 Jun 2025 13:59:41 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/44766a8a4646) |
-| Wed, 18 Jun 2025 13:57:09 GMT | Vulnerability in Nonprofit Leadership: The Quiet Strength That Changes Everything | Incubrighter | [Read More](https://medium.com/p/1d40236d1281) |
