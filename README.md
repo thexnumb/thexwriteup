@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 09:42:56 GMT | Intelligent Data Protection by NextGen2AI: Safeguarding the Future of Digital Innovation | NextGen2AI | [Read More](https://medium.com/p/b175c1b546ec) |
+| Thu, 19 Jun 2025 09:34:58 GMT | Your Kid Might Be Bypassing Screen Time App Limits on macOS Using This Trick | 1day | [Read More](https://medium.com/p/0fed8225bf79) |
+| Thu, 19 Jun 2025 09:33:28 GMT | Essential Security Measures for Your New Website | Functioning Media University | [Read More](https://medium.com/p/cd3f37c72265) |
+| Thu, 19 Jun 2025 09:32:38 GMT | Adversarial Minds: Why We’re Still Getting Hacked by Words? a book about human vulnerabilities. | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/f2069ae4ace7) |
+| Thu, 19 Jun 2025 09:19:01 GMT | Why don’t we have portfolios in cybersecurity? | M H | [Read More](https://medium.com/p/93a26d7f9a7a) |
+| Thu, 19 Jun 2025 09:17:50 GMT | Why are cybersecurity interviews still stuck in the dark ages? | M H | [Read More](https://medium.com/p/3e8a1ab2d984) |
+| Thu, 19 Jun 2025 09:16:26 GMT | “Communications is often meritocratic: if you’re good, you will be asked to do more (whatever your… | M H | [Read More](https://medium.com/p/ea71ecd39f06) |
+| Thu, 19 Jun 2025 09:12:36 GMT | From Crashes to Confidence: How Project 7 Taught Me to Think Like a Cybersecurity Engineer | Varnith | [Read More](https://medium.com/p/7d684b0e56e4) |
 | Thu, 19 Jun 2025 09:11:19 GMT | The Man Who Tried to Build Everything | Bytewords | [Read More](https://medium.com/p/79fb8e9ae639) |
 | Thu, 19 Jun 2025 09:06:02 GMT | TAILS Tutorial with a Cyberpunk Twist | Aren Redd | [Read More](https://medium.com/p/560e1a355dea) |
 | Thu, 19 Jun 2025 09:01:41 GMT | Boost Strategy With Smarter GRC | Harry West | [Read More](https://medium.com/p/b471b58b3acb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 01:40:55 GMT | Remote Code Execution via a Base64-Encoded Payload — No Login Needed | Muhammad Waseem | [Read More](https://medium.com/p/81738d6ad332) |
 | Thu, 19 Jun 2025 01:39:09 GMT | Phishing Training Still Isn’t Working, So Why Are We Still Paying for It? | James Davis | [Read More](https://medium.com/p/5cb914c5c395) |
 | Thu, 19 Jun 2025 01:34:00 GMT | AI-Assisted Development: An Analysis of Human Expertise Requirements in Complex Systems | Christoforus Yoga Haryanto | [Read More](https://medium.com/p/d24c942c9a49) |
-| Thu, 19 Jun 2025 01:24:44 GMT | Unmasking the Digital Intruder: A Network Forensics Investigation | Simon A. | [Read More](https://medium.com/p/1612d2cfc6f2) |
-| Thu, 19 Jun 2025 00:53:32 GMT | Network Protocols 101: Categories, Types, and Common Ports Explained | BlueTeam Bytes | [Read More](https://medium.com/p/96e0688ce0ce) |
-| Thu, 19 Jun 2025 00:39:08 GMT | ⚠️ The Hidden Dangers of Using Public Wi-Fi: What You Need to Know | Mustafa ahmed | [Read More](https://medium.com/p/36f5f6853a9f) |
-| Thu, 19 Jun 2025 00:31:35 GMT | The Risk and Gift of Vulnerability | Pratibha Singh | [Read More](https://medium.com/p/6a12130a45ae) |
-| Thu, 19 Jun 2025 00:18:57 GMT | 10 Django Security Mistakes Developers Still Make in 2025 | Priyanshu Rajput | [Read More](https://medium.com/p/5472298aed97) |
-| Thu, 19 Jun 2025 00:12:56 GMT | Europa vid ett historiskt vägskäl | Doldinblick | [Read More](https://medium.com/p/6c77cfe6033a) |
-| Thu, 19 Jun 2025 00:06:10 GMT | How I Hosted a Website on Amazon S3! - NextWork Cloud Project | Angie | [Read More](https://medium.com/p/8b8ba1d53dd2) |
-| Wed, 18 Jun 2025 23:56:02 GMT | Smart Reasons to Hire a Los Angeles Managed IT Service Provider in 2025 | AI Managed IT Services | [Read More](https://medium.com/p/e30e07514749) |
