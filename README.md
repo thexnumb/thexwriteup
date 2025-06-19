@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 19:10:15 GMT | The Great Knowledge Divide: How Smart Systems Might Make Us Collectively Dumber | Dave'Vinci | [Read More](https://medium.com/p/b8abd8bb3c60) |
+| Thu, 19 Jun 2025 19:07:27 GMT | AI, Layoffs, and Leaks: The Tech Headlines. June 2025 | AI With Lil Bro | [Read More](https://medium.com/p/474308e9529a) |
+| Thu, 19 Jun 2025 19:06:11 GMT | What does monogamy mean to you? | Ayaz Ali | [Read More](https://medium.com/p/b10a8dfbe6cc) |
+| Thu, 19 Jun 2025 19:04:08 GMT | The Misinformation Boss Fight: How the Red Queen and Paracelsus Can Help Us Win | CursedLootBox | [Read More](https://medium.com/p/5ae1978cb965) |
+| Thu, 19 Jun 2025 19:02:16 GMT | Join HoF Apple in Just 1 Minute [Bahasa Indonesia] | Rona Febriana | [Read More](https://medium.com/p/7fa016f1a017) |
+| Thu, 19 Jun 2025 19:00:10 GMT | “Biggest Password Breach in History: 16 Billion Apple, Facebook, Google, and Other Accounts Leaked!” | Kanav Sharma | [Read More](https://medium.com/p/fa7ff1f57444) |
 | Thu, 19 Jun 2025 18:38:25 GMT | Optimal VPC Subnetting: High Availability, Security, & Seamless On-Prem Connectivity | Ben Dalton | [Read More](https://medium.com/p/da9937869dc5) |
 | Thu, 19 Jun 2025 18:37:33 GMT | I Built a Real-Time AWS Threat Detector Using GuardDuty — Here’s How It Flagged My Own Kali Attack | AarushGaur | [Read More](https://medium.com/p/d5532180a1d7) |
 | Thu, 19 Jun 2025 18:36:00 GMT | The $100M Crypto Meltdown: Nobitex Source Code Leaked by Hackers | CoinGen | [Read More](https://medium.com/p/ece0d21071dd) |
@@ -107,9 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 12:58:19 GMT | Unlocking the Power of Curve25519, Ed25519 & X25519: The Modern Pillars of Secure and High-Speed… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a3daefbad0a4) |
 | Thu, 19 Jun 2025 12:57:33 GMT | Security+ SY0–701 — Week 4 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/71bbe2790c10) |
 | Thu, 19 Jun 2025 12:47:42 GMT | Day 26: Operating Systems | Nile Okomo | [Read More](https://medium.com/p/6726b932f33c) |
-| Thu, 19 Jun 2025 12:43:25 GMT | Cybersecurity Case Study | Grace Racharmy | [Read More](https://medium.com/p/8e25a74dc6a2) |
-| Thu, 19 Jun 2025 12:43:24 GMT | Volatility Essentials — TryHackMe Write-up | Cismohamed | [Read More](https://medium.com/p/6613ed506041) |
-| Thu, 19 Jun 2025 12:36:37 GMT | Introduction: | Signpostcelfon Intech | [Read More](https://medium.com/p/1d7c65ee51b7) |
-| Thu, 19 Jun 2025 12:36:22 GMT | The Essentials of Vulnerability Management: Protecting Your Digital Assets | Sasikala S | [Read More](https://medium.com/p/6db30933b7ef) |
-| Thu, 19 Jun 2025 12:35:59 GMT | SSRF to Access Redis and Retrieve Admin Token | O. | [Read More](https://medium.com/p/0e22af094709) |
-| Thu, 19 Jun 2025 12:34:17 GMT | Bug Bounty Course in Delhi, India [2025] | Manisha Chaudhary | [Read More](https://medium.com/p/cb11184d930d) |
