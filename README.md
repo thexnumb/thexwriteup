@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 17:37:29 GMT | Oil, Data, and Cyber Wars: The Israel-Iran Crisis and the Blueprint for 21st Century Power | NaveeeN Chendra | [Read More](https://medium.com/p/bc6644668c5f) |
+| Thu, 19 Jun 2025 17:36:08 GMT | Learn Android and Android Hacking | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/c88e1419b5c2) |
+| Thu, 19 Jun 2025 17:34:09 GMT | escaping the “double-quoted” life | amidst | [Read More](https://medium.com/p/555972eb6118) |
+| Thu, 19 Jun 2025 17:31:27 GMT | Iran Imposes Curfew on Crypto Exchanges After $100 Million Nobitex Hack, A New Era of Crypto… | CoinGen | [Read More](https://medium.com/p/327cb886d85e) |
+| Thu, 19 Jun 2025 17:27:16 GMT | ️ Day 68 : Bash Scripting — System Monitoring | Agarwaldaksh | [Read More](https://medium.com/p/b3394a810d75) |
+| Thu, 19 Jun 2025 17:26:40 GMT | HTB -Titanic Walkthrough | Dracky4u | [Read More](https://medium.com/p/7f058cd92ce1) |
+| Thu, 19 Jun 2025 17:20:40 GMT | Windows OS for Cyber Security | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/7563c21b71cc) |
+| Thu, 19 Jun 2025 17:18:16 GMT | How I Protect My Daughters Online: A Busy Mom’s Battle-Tested Strategies | Jyotirupa Sarma | [Read More](https://medium.com/p/91f9fe73ad2b) |
 | Thu, 19 Jun 2025 17:06:48 GMT | FMS Attack POC on Simulated WEP/RC4 | Declan | [Read More](https://medium.com/p/4fd7be4b0640) |
 | Thu, 19 Jun 2025 17:02:11 GMT | A Day in the Life of a SOC Analyst | Aniket Sharma | [Read More](https://medium.com/p/dff95e117de9) |
 | Thu, 19 Jun 2025 16:59:32 GMT | Unveiling CSRF-to-XSS and XXE in a Single Request | nocley | [Read More](https://medium.com/p/b3e260d5477d) |
@@ -105,11 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 11:16:02 GMT | In Limbo: A Dev-Hacker Floating in Mid-Graduation Air | John Paul Medrano | [Read More](https://medium.com/p/8447f127b8a8) |
 | Thu, 19 Jun 2025 11:15:01 GMT | The Courage of Vulnerability | Jennifer Ayo | [Read More](https://medium.com/p/f6d609290d0e) |
 | Thu, 19 Jun 2025 11:14:35 GMT | İnternet Ağları Nasıl Çalışır | Ahmet Şimşek | [Read More](https://medium.com/p/8f0dec924100) |
-| Thu, 19 Jun 2025 11:11:59 GMT | Cloud Security & Identity Threat Detection: Safeguarding the Modern Digital Perimeter | Ekene Joseph | [Read More](https://medium.com/p/4c485ae9fba6) |
-| Thu, 19 Jun 2025 11:09:23 GMT | Cracking CySA+: My Study Plan and Exam Experience | Simardeep Singh | [Read More](https://medium.com/p/3ec9de1dd46c) |
-| Thu, 19 Jun 2025 11:06:56 GMT | The Art and Science of Shellcoding in Modern Exploits | The Hackers Meetup | [Read More](https://medium.com/p/da544c8fafdd) |
-| Thu, 19 Jun 2025 11:05:22 GMT | Android App Security Insight ( Static Analysis) | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/47d1e7fb4c89) |
-| Thu, 19 Jun 2025 11:03:31 GMT | The Quiet Alert That Caught a Stealer: A SOC Analyst’s True Story | Surya Teja | [Read More](https://medium.com/p/6be5c2ec993b) |
-| Thu, 19 Jun 2025 11:02:47 GMT | Zero-Day Exploits & Supply Chain Attacks: Understanding the Threat Through Real-World Cases | Ekene Joseph | [Read More](https://medium.com/p/4a1bd40beaa7) |
-| Thu, 19 Jun 2025 11:00:58 GMT | Unlocking Digital Resilience: How the NIST Cybersecurity Framework Empowers Businesses | Sakshi Dwivedi | [Read More](https://medium.com/p/724ccb5bd626) |
-| Thu, 19 Jun 2025 11:00:39 GMT | SOC335 — CVE-2024–49138 Exploitation Detected — EventID: 313 - LetsDefend walkthrough | Gavin Fernandes | [Read More](https://medium.com/p/9f6c49794f8a) |
