@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 07:39:47 GMT | what should I do to recover my money from CoinMate ? | Glenn Wayne | [Read More](https://medium.com/p/40b3e453fb3b) |
+| Thu, 19 Jun 2025 07:33:55 GMT | Windows Internals: Core Processes | Sle3pyHead ‍ | [Read More](https://medium.com/p/748ec7d65b1b) |
+| Thu, 19 Jun 2025 07:33:32 GMT | Bitvenus reviews: how do I get my money back from Bitvenus | Sinclair Jons | [Read More](https://medium.com/p/c934ed940707) |
+| Thu, 19 Jun 2025 07:32:51 GMT | VPN Connected But Internet Not Working on Mobile? | Digimad.online | [Read More](https://medium.com/p/8e2219b149ec) |
+| Thu, 19 Jun 2025 07:30:55 GMT | A New Dawn in Cybersecurity: Welcome to the Quantum-robust Cloud | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e61f52575e8e) |
+| Thu, 19 Jun 2025 07:27:28 GMT | Defeating Nation-State-Grade DDoS Attacks with Honeypots and Sinkholes: A Strategic Guide for… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/964a2e8a1cea) |
+| Thu, 19 Jun 2025 07:23:49 GMT | Microsoft Is Deleting Your Saved Passwords — Here’s What You Need to Know | TheReviewHive | [Read More](https://medium.com/p/3865f9414a13) |
+| Thu, 19 Jun 2025 07:19:58 GMT | Cybersecurity Best Practices to Secure Remote Workers | Amna Aslam | [Read More](https://medium.com/p/605802b910b2) |
+| Thu, 19 Jun 2025 07:18:25 GMT | Encryption: Your First Line of Defense in the Age of Cybersecurity Threats | Adil | [Read More](https://medium.com/p/7c5937547ca1) |
 | Thu, 19 Jun 2025 07:15:39 GMT | Design QA: The Final Step That Brings Your Design to Life | Pakhi Mangal | [Read More](https://medium.com/p/58d01b62cbaf) |
 | Thu, 19 Jun 2025 07:09:46 GMT | BlackWidow The Best Hacking USB | err0rgod | [Read More](https://medium.com/p/ae484770bdec) |
 | Thu, 19 Jun 2025 07:09:20 GMT | Securing the Future: A Comprehensive Security Assessment Checklist for AI Applications | Jitendar Singh | [Read More](https://medium.com/p/973854bc59fb) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 21:00:24 GMT | Brainpan1 — Buffer Overflow Write-up | Link | [Read More](https://medium.com/p/34b32f1d511f) |
 | Wed, 18 Jun 2025 21:00:18 GMT | Cybersecurity: Is It a Good Career Choice, and How to Get Started? | Areebatariq | [Read More](https://medium.com/p/50bbb11282b2) |
 | Wed, 18 Jun 2025 20:58:58 GMT | Day 1 of 21 — Start with TryHackMe | Myshawne Stallings | [Read More](https://medium.com/p/0fea3878d0fc) |
-| Wed, 18 Jun 2025 20:43:20 GMT | I PWNED A STOCK CHECKER USING ;whoami IN A POST REQUEST | Sumanth Yerranagula | [Read More](https://medium.com/p/099a5ad36fe5) |
-| Wed, 18 Jun 2025 20:42:23 GMT | Cybersecurity Analyst — 10 Best Practices, Portals & Career Development | Franklin Rhodes | [Read More](https://medium.com/p/eef9e446f8e6) |
-| Wed, 18 Jun 2025 20:29:51 GMT | From Packets to Proof: A Step-by-Step Network Forensics Investigation | Mohammed | [Read More](https://medium.com/p/ee6b24e134e2) |
-| Wed, 18 Jun 2025 20:29:48 GMT | lifting Social Media Account Ban, Simplified | Tobias Mathew | [Read More](https://medium.com/p/07d82e682164) |
-| Wed, 18 Jun 2025 20:27:09 GMT | Grouped, Clicked, and Visualized — Building Real Control for Our IoT Hub | Varnith | [Read More](https://medium.com/p/d1db94088fa9) |
-| Wed, 18 Jun 2025 20:23:08 GMT | Inside a Bumblebee Infection (17 Nov 2022): A Minimal-Footprint Network-Forensics Walk-Through | Dhruv Saikia | [Read More](https://medium.com/p/afb021d349c2) |
-| Wed, 18 Jun 2025 20:22:08 GMT | Day 3/100: Understanding Ports | 0X595 | [Read More](https://medium.com/p/b13c313ff695) |
-| Wed, 18 Jun 2025 20:17:54 GMT | Either You Buy the Product… Or You Are the Product | NaveeeN Chendra | [Read More](https://medium.com/p/0fae7e8cd75b) |
-| Wed, 18 Jun 2025 20:09:02 GMT | SOC Consulting Services for Smarter Cyber Defense | Akshay Chauhan | [Read More](https://medium.com/p/62c1ba5514eb) |
