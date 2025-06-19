@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 09:11:19 GMT | The Man Who Tried to Build Everything | Bytewords | [Read More](https://medium.com/p/79fb8e9ae639) |
+| Thu, 19 Jun 2025 09:06:02 GMT | TAILS Tutorial with a Cyberpunk Twist | Aren Redd | [Read More](https://medium.com/p/560e1a355dea) |
+| Thu, 19 Jun 2025 09:01:41 GMT | Boost Strategy With Smarter GRC | Harry West | [Read More](https://medium.com/p/b471b58b3acb) |
+| Thu, 19 Jun 2025 08:56:59 GMT | Spend on Cybersecurity In Singapore and Southeast Asia | Amaira dutta | [Read More](https://medium.com/p/625f0c2b425a) |
+| Thu, 19 Jun 2025 08:46:15 GMT | A Billion-Dollar Company,Brought Down by Programming 101 | Avnessh Kumar | [Read More](https://medium.com/p/5b2c37bc6396) |
+| Thu, 19 Jun 2025 08:45:33 GMT | How Quantum Computing Will Transform IT Consulting | Marketer Jameswill | [Read More](https://medium.com/p/8a401a740eab) |
+| Thu, 19 Jun 2025 08:41:43 GMT | Secure Your Kubernetes Cluster Like a Pro: Step-by-Step Guide with RBAC, Network Policies &… | Surender Gupta | [Read More](https://medium.com/p/5c880e70ce25) |
 | Thu, 19 Jun 2025 08:35:51 GMT | AI in Cybersecurity: What are its pros and cons? | Vinita | [Read More](https://medium.com/p/3213d3b656bd) |
 | Thu, 19 Jun 2025 08:22:21 GMT | Depression Is Not a Sign of Weakness | LucieArt | [Read More](https://medium.com/p/f367b0fbc2d4) |
 | Thu, 19 Jun 2025 08:21:56 GMT | what can I do to recover my money from ViteX ? | Mariah | [Read More](https://medium.com/p/d39a4641bbb0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 00:12:56 GMT | Europa vid ett historiskt vägskäl | Doldinblick | [Read More](https://medium.com/p/6c77cfe6033a) |
 | Thu, 19 Jun 2025 00:06:10 GMT | How I Hosted a Website on Amazon S3! - NextWork Cloud Project | Angie | [Read More](https://medium.com/p/8b8ba1d53dd2) |
 | Wed, 18 Jun 2025 23:56:02 GMT | Smart Reasons to Hire a Los Angeles Managed IT Service Provider in 2025 | AI Managed IT Services | [Read More](https://medium.com/p/e30e07514749) |
-| Wed, 18 Jun 2025 23:55:51 GMT | Windows Memory Forensics — Zeus Banking Trojan Dump | Dhruv Saikia | [Read More](https://medium.com/p/2d6852d7a8dd) |
-| Wed, 18 Jun 2025 23:54:54 GMT | Two IT Careers That Stood the Test of Time | DuckWrites | [Read More](https://medium.com/p/2cd8d5955f6b) |
-| Wed, 18 Jun 2025 23:50:00 GMT | Reverse Engineering the Digital Battlefield: Unmasking Cyberwarfare Malware Like Stuxnet and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ec89c4a7fd8d) |
-| Wed, 18 Jun 2025 23:32:21 GMT | The Shocking New Way Hackers Are Jailbreaking AI — And It’s Ridiculously Easy | Cyber-AppSec | [Read More](https://medium.com/p/e77a23c5afc3) |
-| Wed, 18 Jun 2025 23:25:03 GMT | Understanding Phishing: Why do People Keep Falling for It and What Happens if You Do. | Davidtaiwo | [Read More](https://medium.com/p/29aaa8d55a6b) |
-| Wed, 18 Jun 2025 23:23:23 GMT | Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/399dd4b46b37) |
-| Wed, 18 Jun 2025 23:21:52 GMT | My first cyber security walk-through | SPIRIT | [Read More](https://medium.com/p/783617632707) |
