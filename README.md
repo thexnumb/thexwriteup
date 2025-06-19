@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 19:38:01 GMT | Attacking Email Services | Fatimahasan | [Read More](https://medium.com/p/ab69e2dd5e86) |
+| Thu, 19 Jun 2025 19:33:41 GMT | Reference Architecture for Team AI Productivity | Matt Eland | [Read More](https://medium.com/p/8e4af63e3249) |
+| Thu, 19 Jun 2025 19:27:09 GMT | ️‍️Así analizo CORREOS, USUARIOS, TELÉFONO, DATOS FILTRADOS y PERFILES DIGITALES con… | D4nYeD | [Read More](https://medium.com/p/0bda424d7ff6) |
+| Thu, 19 Jun 2025 19:22:38 GMT | Navigating the Unknowns in M&A Cybersecurity | anthony k | [Read More](https://medium.com/p/453953111b1d) |
+| Thu, 19 Jun 2025 19:22:26 GMT | How to install a Chrome extension that is ‘blocked’ | Vinicius Batistella | [Read More](https://medium.com/p/328849307508) |
 | Thu, 19 Jun 2025 19:10:15 GMT | The Great Knowledge Divide: How Smart Systems Might Make Us Collectively Dumber | Dave'Vinci | [Read More](https://medium.com/p/b8abd8bb3c60) |
+| Thu, 19 Jun 2025 19:08:45 GMT | Ağlara Saldırmak için Ayarlar | Ahmet Şimşek | [Read More](https://medium.com/p/70c8093d5eb2) |
 | Thu, 19 Jun 2025 19:07:27 GMT | AI, Layoffs, and Leaks: The Tech Headlines. June 2025 | AI With Lil Bro | [Read More](https://medium.com/p/474308e9529a) |
 | Thu, 19 Jun 2025 19:06:11 GMT | What does monogamy mean to you? | Ayaz Ali | [Read More](https://medium.com/p/b10a8dfbe6cc) |
 | Thu, 19 Jun 2025 19:04:08 GMT | The Misinformation Boss Fight: How the Red Queen and Paracelsus Can Help Us Win | CursedLootBox | [Read More](https://medium.com/p/5ae1978cb965) |
@@ -107,9 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 13:27:16 GMT | AI Device Risk Summary Demo - Threat Protection - Risk Scoring - Malware Detection - Android & iOS | Talsec | [Read More](https://medium.com/p/5c45fcf32418) |
 | Thu, 19 Jun 2025 13:15:59 GMT | Choosing a Cloud Provider for Fintech: Security, Compliance & Beyond | Dave Seth | [Read More](https://medium.com/p/443a13139696) |
 | Thu, 19 Jun 2025 13:08:27 GMT | Bug Bounty Findings: Unauthorized Addition of Shipping Addresses and Shopping Carts via CSRF | Medusa | [Read More](https://medium.com/p/f62d88071dd6) |
-| Thu, 19 Jun 2025 13:04:31 GMT | Does Over-Securing Really Exist in Cybersecurity? | Timsux Wales | [Read More](https://medium.com/p/e855a3dcc3c3) |
-| Thu, 19 Jun 2025 13:01:33 GMT | Your First Time | Leigh (Gal) Marlar | [Read More](https://medium.com/p/83987b2f7d21) |
-| Thu, 19 Jun 2025 12:59:00 GMT | How Angular Pipes and HTTP Services Can Quietly Leak All Your Data | Herbert Moroni Gois | [Read More](https://medium.com/p/406fee951eaa) |
-| Thu, 19 Jun 2025 12:58:19 GMT | Unlocking the Power of Curve25519, Ed25519 & X25519: The Modern Pillars of Secure and High-Speed… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a3daefbad0a4) |
-| Thu, 19 Jun 2025 12:57:33 GMT | Security+ SY0–701 — Week 4 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/71bbe2790c10) |
-| Thu, 19 Jun 2025 12:47:42 GMT | Day 26: Operating Systems | Nile Okomo | [Read More](https://medium.com/p/6726b932f33c) |
