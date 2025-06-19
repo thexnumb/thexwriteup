@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 22:49:50 GMT | Exploiting JBoss for Remote Code Execution (RCE) — A Step-by-Step Practical Walkthrough | Klasster | [Read More](https://medium.com/p/85eb606e9cfa) |
 | Thu, 19 Jun 2025 22:39:11 GMT | [TR] Linux Capabilities | Kaan Ekşi | [Read More](https://medium.com/p/cb43d710d54f) |
 | Thu, 19 Jun 2025 22:32:38 GMT | DREAMING WRITEUP : TRYHACKME | rizzziom | [Read More](https://medium.com/p/0c59b26688b3) |
 | Thu, 19 Jun 2025 22:30:14 GMT | Best Practices for Airbnb Hosts Using Keyless Locks | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/498660992d2c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 15:51:07 GMT | Find Out What ChatGPT Knows About You — And How To Make It Forget | Kajal Sharma | [Read More](https://medium.com/p/edb7d7ade2a1) |
 | Thu, 19 Jun 2025 15:40:21 GMT | Rocteceurope.com - step by step on How I Recover My Money Back | Celia Henríquez | [Read More](https://medium.com/p/a67ae13192b4) |
 | Thu, 19 Jun 2025 15:39:01 GMT | What Is Wave Browser and Should You Be Concerned? | SafeAeon Inc. | [Read More](https://medium.com/p/027b43d5c9f9) |
-| Thu, 19 Jun 2025 15:33:41 GMT | Apple Enabled Quantum Security | Patrick Pallagi | [Read More](https://medium.com/p/4f240e6f6c20) |
