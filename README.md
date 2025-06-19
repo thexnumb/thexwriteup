@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 22:13:22 GMT | Based Malware is a Solved Problem. We’re Just Using the Wrong Approach | Rijal s | [Read More](https://medium.com/p/6ec534482ad0) |
+| Thu, 19 Jun 2025 21:58:55 GMT | Offsec Proving Grounds Walkthrough — Monster | Anushka Virgaonkar | [Read More](https://medium.com/p/774a871c6ad7) |
+| Thu, 19 Jun 2025 21:51:05 GMT | 0. | Z1ER0 | [Read More](https://medium.com/p/9cf7d907a311) |
+| Thu, 19 Jun 2025 21:46:47 GMT | The Nobitex Hack: Iran, Israel, and the Cyberwar Heating Up | TheCyberSalad | [Read More](https://medium.com/p/cabf94957069) |
+| Thu, 19 Jun 2025 21:41:16 GMT | How Does a Document Management Solution Enhance Service Management? | Continia | [Read More](https://medium.com/p/d7e13aae248d) |
+| Thu, 19 Jun 2025 21:37:29 GMT | Importance of cyber security | Chandanjana | [Read More](https://medium.com/p/a9efad7bcda2) |
 | Thu, 19 Jun 2025 21:24:30 GMT | Weaponized Medical Software | Inforsecpro | [Read More](https://medium.com/p/5bdc9a5ebc65) |
 | Thu, 19 Jun 2025 21:18:52 GMT | The Quantum Revolution: How Tomorrow’s Computers Will Reshape Cryptocurrency | Brendan on Blockchain | [Read More](https://medium.com/p/d44a70b9afd6) |
 | Thu, 19 Jun 2025 20:56:37 GMT | Hacking APIs: Exploit Insecure Deserialization | Israel Aráoz Severiche | [Read More](https://medium.com/p/10335afccde6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 15:27:51 GMT | Crowd Management Solutions: Ensuring Safety and Efficiency | Professional UK Services | [Read More](https://medium.com/p/57c47e66a7c3) |
 | Thu, 19 Jun 2025 15:21:44 GMT | The CISO's Dilemma: Proving Cybersecurity ROI in an AI First World | Eric Zietlow | [Read More](https://medium.com/p/cca8ea688805) |
 | Thu, 19 Jun 2025 15:20:34 GMT | Day 30: Troubleshooting | Mikey O. | [Read More](https://medium.com/p/ea79a8d5132c) |
-| Thu, 19 Jun 2025 15:16:35 GMT | A Jar Full of Trouble: Why pickle.loads() is inherently insecure | Marshall Humble | [Read More](https://medium.com/p/1d8ba0f516c1) |
-| Thu, 19 Jun 2025 15:15:26 GMT | Building a FIPS-Compliant Python Container | Marshall Humble | [Read More](https://medium.com/p/c389bb8465c4) |
-| Thu, 19 Jun 2025 15:13:12 GMT | DOM XSS and JavaScript Logic: Escaping HTML ≠ Escaping Danger | Marshall Humble | [Read More](https://medium.com/p/9d6de6b406e5) |
-| Thu, 19 Jun 2025 15:13:02 GMT | Cross-Origin Data Exposure via Misconfigured Jetpack Endpoint on redacted.fb.com | Gouri Sankar A | [Read More](https://medium.com/p/252f281ce74f) |
-| Thu, 19 Jun 2025 15:02:54 GMT | TryHackMe - Tooling via Browser Automation - WriteUp | Axoloth | [Read More](https://medium.com/p/d2bb7dfad649) |
-| Thu, 19 Jun 2025 15:01:44 GMT | 4 Crucial Steps to Protect Your Business from Subdomain Takeovers | PCnet | [Read More](https://medium.com/p/26570d5077eb) |
