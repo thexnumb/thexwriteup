@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 02:50:14 GMT | How risk assessments uncover hidden cyber threats | Tekclarion | [Read More](https://medium.com/p/a4e51b02d923) |
+| Thu, 19 Jun 2025 02:41:05 GMT | CTF Day(19) | Ahmed Narmer | [Read More](https://medium.com/p/4c7f827aef02) |
+| Thu, 19 Jun 2025 02:40:34 GMT | 10K Records Allegedly from Mac Cloud Provider’s Customers Exposed Online | SafetyDetectives Research Team | [Read More](https://medium.com/p/e8bd0bf4295f) |
+| Thu, 19 Jun 2025 02:39:58 GMT | The Tears We Never Shed | Thesilentscribbler | [Read More](https://medium.com/p/e0f62836e348) |
+| Thu, 19 Jun 2025 02:24:58 GMT | Unearthing Hidden Threats: A Memory Forensics Malware Investigation | Simon A. | [Read More](https://medium.com/p/c50912e04ebb) |
+| Thu, 19 Jun 2025 02:24:05 GMT | UNIX Software: And Hacker Realities | Progsky | [Read More](https://medium.com/p/21b1d4e0a414) |
+| Thu, 19 Jun 2025 02:18:43 GMT | TryHackMe Room Walkthrough - Burp Suite: The Basics | Tijan Hydara | [Read More](https://medium.com/p/bcef4faead27) |
 | Thu, 19 Jun 2025 01:40:55 GMT | Remote Code Execution via a Base64-Encoded Payload — No Login Needed | Muhammad Waseem | [Read More](https://medium.com/p/81738d6ad332) |
 | Thu, 19 Jun 2025 01:39:09 GMT | Phishing Training Still Isn’t Working, So Why Are We Still Paying for It? | James Davis | [Read More](https://medium.com/p/5cb914c5c395) |
 | Thu, 19 Jun 2025 01:34:00 GMT | AI-Assisted Development: An Analysis of Human Expertise Requirements in Complex Systems | Christoforus Yoga Haryanto | [Read More](https://medium.com/p/d24c942c9a49) |
@@ -20,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 00:39:08 GMT | ⚠️ The Hidden Dangers of Using Public Wi-Fi: What You Need to Know | Mustafa ahmed | [Read More](https://medium.com/p/36f5f6853a9f) |
 | Thu, 19 Jun 2025 00:31:35 GMT | The Risk and Gift of Vulnerability | Pratibha Singh | [Read More](https://medium.com/p/6a12130a45ae) |
 | Thu, 19 Jun 2025 00:18:57 GMT | 10 Django Security Mistakes Developers Still Make in 2025 | Priyanshu Rajput | [Read More](https://medium.com/p/5472298aed97) |
+| Thu, 19 Jun 2025 00:12:56 GMT | Europa vid ett historiskt vägskäl | Doldinblick | [Read More](https://medium.com/p/6c77cfe6033a) |
 | Thu, 19 Jun 2025 00:06:10 GMT | How I Hosted a Website on Amazon S3! - NextWork Cloud Project | Angie | [Read More](https://medium.com/p/8b8ba1d53dd2) |
 | Wed, 18 Jun 2025 23:56:02 GMT | Smart Reasons to Hire a Los Angeles Managed IT Service Provider in 2025 | AI Managed IT Services | [Read More](https://medium.com/p/e30e07514749) |
 | Wed, 18 Jun 2025 23:55:51 GMT | Windows Memory Forensics — Zeus Banking Trojan Dump | Dhruv Saikia | [Read More](https://medium.com/p/2d6852d7a8dd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 17:19:02 GMT | Exploring the Smart Home Revolution with SwitchBot | Ohlsenbukexisux | [Read More](https://medium.com/p/8f8b75469267) |
 | Wed, 18 Jun 2025 17:13:42 GMT | Gone In The Morning | Ìyàndá Apènàolà Àpésìnolà Àyìndé | [Read More](https://medium.com/p/ae3d5392118c) |
 | Wed, 18 Jun 2025 17:09:39 GMT | Rooting Keoptrix - Level 1 - A Beginner-Friendly Pentest Challenge | Jsar | [Read More](https://medium.com/p/9c76624a87d2) |
-| Wed, 18 Jun 2025 17:07:27 GMT | Mental toolkit for beginners of practical forensics and threat hunting. | Steven Carbuhn | [Read More](https://medium.com/p/dc070d8b506e) |
-| Wed, 18 Jun 2025 17:03:09 GMT | TryHackMe — Billing - ESP - | APS88 | [Read More](https://medium.com/p/cbb06bdac1b1) |
-| Wed, 18 Jun 2025 17:01:42 GMT | Here’s all you need to know about email security | Jeremy Rivera | [Read More](https://medium.com/p/f77c796b457b) |
-| Wed, 18 Jun 2025 17:01:41 GMT | The Versions of Ourselves We Wear for Others | Łukasz Ratajczak | [Read More](https://medium.com/p/eede0fe41f11) |
-| Wed, 18 Jun 2025 16:55:13 GMT | HIRE WIZARD LARRY BITCOIN RECOVERY EXPERT | Oscar Lambart | [Read More](https://medium.com/p/d1cea812118e) |
-| Wed, 18 Jun 2025 16:45:50 GMT | MacOS Privacy Is a Marketing Lie — Here’s How to Reclaim Control | Andrii | [Read More](https://medium.com/p/ce1cdb76ba17) |
-| Wed, 18 Jun 2025 16:45:30 GMT | False Positives: Not Just a Nuisance… But a Healthy Sign of Detection | Maged Anas | [Read More](https://medium.com/p/7a6a90be88eb) |
-| Wed, 18 Jun 2025 16:44:01 GMT | Modularizing Terraform Projects for a 3-Tier Architecture | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0692d1fda063) |
