@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 08:35:51 GMT | AI in Cybersecurity: What are its pros and cons? | Vinita | [Read More](https://medium.com/p/3213d3b656bd) |
+| Thu, 19 Jun 2025 08:22:21 GMT | Depression Is Not a Sign of Weakness | LucieArt | [Read More](https://medium.com/p/f367b0fbc2d4) |
 | Thu, 19 Jun 2025 08:21:56 GMT | what can I do to recover my money from ViteX ? | Mariah | [Read More](https://medium.com/p/d39a4641bbb0) |
 | Thu, 19 Jun 2025 08:20:45 GMT | Pentesting Simplified — But at What Cost? The KaliGPT Dilemma | Joanorifha | [Read More](https://medium.com/p/4918ab5f8189) |
+| Thu, 19 Jun 2025 08:18:37 GMT | Building a Wiegard MITM Device with ESP07 | Im0nk3yar0und | [Read More](https://medium.com/p/8d94e05e76f6) |
 | Thu, 19 Jun 2025 08:17:33 GMT | অফিস নিরাপত্তায় Magnetic Lock ও ফিঙ্গারপ্রিন্ট ডিভাইস F18 Access Control সিস্টেম ইনস্টলেশন | optimationbd | [Read More](https://medium.com/p/b9d051dd51bb) |
 | Thu, 19 Jun 2025 08:10:46 GMT | is it possible to recover my money from CoinFalcon ? | Victoria Kamal | [Read More](https://medium.com/p/b0082042bce8) |
 | Thu, 19 Jun 2025 08:04:13 GMT | Why Learning Cloud Feels Like Learning 10 Tools at Once | Ahanonye  Anna | [Read More](https://medium.com/p/1db5e2fd7e52) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 23:25:03 GMT | Understanding Phishing: Why do People Keep Falling for It and What Happens if You Do. | Davidtaiwo | [Read More](https://medium.com/p/29aaa8d55a6b) |
 | Wed, 18 Jun 2025 23:23:23 GMT | Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/399dd4b46b37) |
 | Wed, 18 Jun 2025 23:21:52 GMT | My first cyber security walk-through | SPIRIT | [Read More](https://medium.com/p/783617632707) |
-| Wed, 18 Jun 2025 22:51:24 GMT | Dear Romantic Girl: Your Softness Is Not a Liability | ᴍᴇʀ ♡ | [Read More](https://medium.com/p/9c9218c3ed69) |
-| Wed, 18 Jun 2025 22:46:54 GMT | CYBER KILL CHAIN | Ahmedhezema | [Read More](https://medium.com/p/3b4a283272e8) |
-| Wed, 18 Jun 2025 22:25:18 GMT | Zero to Carnegie Mellon in 5 months | Kriti Srivastava | [Read More](https://medium.com/p/9faddc112575) |
