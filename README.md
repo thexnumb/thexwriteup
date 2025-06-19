@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 14:34:26 GMT | Internal CTF | Daxilox | [Read More](https://medium.com/p/bc2a0f80ed8e) |
+| Thu, 19 Jun 2025 14:32:56 GMT | Bug Bounty vs. Responsible Disclosure: What’s the Difference? | Andrei Ivan | [Read More](https://medium.com/p/c66e28b57a27) |
+| Thu, 19 Jun 2025 14:31:50 GMT | THM — Intro to Logs | Shamar Isaac | [Read More](https://medium.com/p/ccb09fad1568) |
+| Thu, 19 Jun 2025 14:27:15 GMT | What Is a Bug Bounty Program?
+A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a25) |
+| Thu, 19 Jun 2025 14:26:00 GMT | Future-Proofing AI Governance: How Mammoth Enterprise Browsers Support ISO/IEC 42001 Compliance | Mammoth Cyber | [Read More](https://medium.com/p/96cc92238ffb) |
 | Thu, 19 Jun 2025 14:01:50 GMT | Wallet Drainers Are Evolving — Here’s How 0xTeabag Stops Them | 0xTeabag | [Read More](https://medium.com/p/cf2de85c082e) |
 | Thu, 19 Jun 2025 14:00:40 GMT | Cyber Briefing: 2025.06.19 | CyberMaterial | [Read More](https://medium.com/p/554e1e542f08) |
 | Thu, 19 Jun 2025 13:54:08 GMT | Station Surveillance Robots | Presslink Media | [Read More](https://medium.com/p/e3aa3224981e) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 08:21:56 GMT | what can I do to recover my money from ViteX ? | Mariah | [Read More](https://medium.com/p/d39a4641bbb0) |
 | Thu, 19 Jun 2025 08:20:45 GMT | Pentesting Simplified — But at What Cost? The KaliGPT Dilemma | Joanorifha | [Read More](https://medium.com/p/4918ab5f8189) |
 | Thu, 19 Jun 2025 08:18:37 GMT | Building a Wiegard MITM Device with ESP07 | Im0nk3yar0und | [Read More](https://medium.com/p/8d94e05e76f6) |
-| Thu, 19 Jun 2025 08:17:33 GMT | অফিস নিরাপত্তায় Magnetic Lock ও ফিঙ্গারপ্রিন্ট ডিভাইস F18 Access Control সিস্টেম ইনস্টলেশন | optimationbd | [Read More](https://medium.com/p/b9d051dd51bb) |
-| Thu, 19 Jun 2025 08:10:46 GMT | is it possible to recover my money from CoinFalcon ? | Victoria Kamal | [Read More](https://medium.com/p/b0082042bce8) |
-| Thu, 19 Jun 2025 08:04:13 GMT | Why Learning Cloud Feels Like Learning 10 Tools at Once | Ahanonye  Anna | [Read More](https://medium.com/p/1db5e2fd7e52) |
-| Thu, 19 Jun 2025 08:01:58 GMT | is Bitonic safe or scam platform? | Tone Phillips | [Read More](https://medium.com/p/230d9a7a4043) |
-| Thu, 19 Jun 2025 07:58:48 GMT | Bitonic Reviews: here’s how I withdraw my money from Bitonic | Tone Phillips | [Read More](https://medium.com/p/47e9092548e8) |
