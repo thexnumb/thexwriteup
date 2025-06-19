@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 11:18:04 GMT | What AI Still Can’t Do — And Maybe Never Will | Hafizbilaltariq | [Read More](https://medium.com/p/25a1407ac514) |
+| Thu, 19 Jun 2025 11:16:02 GMT | In Limbo: A Dev-Hacker Floating in Mid-Graduation Air | John Paul Medrano | [Read More](https://medium.com/p/8447f127b8a8) |
+| Thu, 19 Jun 2025 11:11:59 GMT | Cloud Security & Identity Threat Detection: Safeguarding the Modern Digital Perimeter | Ekene Joseph | [Read More](https://medium.com/p/4c485ae9fba6) |
+| Thu, 19 Jun 2025 11:09:23 GMT | Cracking CySA+: My Study Plan and Exam Experience | Simardeep Singh | [Read More](https://medium.com/p/3ec9de1dd46c) |
+| Thu, 19 Jun 2025 11:06:56 GMT | The Art and Science of Shellcoding in Modern Exploits | The Hackers Meetup | [Read More](https://medium.com/p/da544c8fafdd) |
+| Thu, 19 Jun 2025 11:05:22 GMT | Android App Security Insight ( Static Analysis) | Akanbi Oluwakunle Johnson | [Read More](https://medium.com/p/47d1e7fb4c89) |
+| Thu, 19 Jun 2025 11:03:31 GMT | The Quiet Alert That Caught a Stealer: A SOC Analyst’s True Story | Surya Teja | [Read More](https://medium.com/p/6be5c2ec993b) |
+| Thu, 19 Jun 2025 11:02:47 GMT | Zero-Day Exploits & Supply Chain Attacks: Understanding the Threat Through Real-World Cases | Ekene Joseph | [Read More](https://medium.com/p/4a1bd40beaa7) |
+| Thu, 19 Jun 2025 11:00:58 GMT | Unlocking Digital Resilience: How the NIST Cybersecurity Framework Empowers Businesses | Sakshi Dwivedi | [Read More](https://medium.com/p/724ccb5bd626) |
+| Thu, 19 Jun 2025 11:00:39 GMT | SOC335 — CVE-2024–49138 Exploitation Detected — EventID: 313 - LetsDefend walkthrough | Gavin Fernandes | [Read More](https://medium.com/p/9f6c49794f8a) |
+| Thu, 19 Jun 2025 10:59:56 GMT | Certified Cloud Security Engineer (CCSE) Certification: Your Gateway to a Cloud-Secure Future | Shreyashettyctr | [Read More](https://medium.com/p/af8b8330da9a) |
+| Thu, 19 Jun 2025 10:57:42 GMT | AI-Powered Cyber Attacks & Defenses: The Double-Edged Sword of Intelligent Systems | Ekene Joseph | [Read More](https://medium.com/p/8275aa9e8f87) |
+| Thu, 19 Jun 2025 10:48:06 GMT | Information Security Officer Career Path: Skills, Certifications & Salary Trends | sneha gaikwad | [Read More](https://medium.com/p/a14b4ea96056) |
 | Thu, 19 Jun 2025 10:42:07 GMT | When domain.com is the same as mydomain.com | Phil | [Read More](https://medium.com/p/177029a1593b) |
 | Thu, 19 Jun 2025 10:38:31 GMT | Genealogy Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/8e06b1d6fe69) |
+| Thu, 19 Jun 2025 10:36:12 GMT | #35. Security First: How I Secure My Apps Without Slowing Down Speed | Nicholas Idoko | [Read More](https://medium.com/p/686b80d9a274) |
 | Thu, 19 Jun 2025 10:34:01 GMT | How I Solved Level 5, 6 and 7 of the Gandalf AI Challenge | SV | [Read More](https://medium.com/p/2349df44d031) |
 | Thu, 19 Jun 2025 10:32:09 GMT | Understanding LLM Vulnerabilities | Ravi Sankar Uppala | [Read More](https://medium.com/p/6bed9d0422cd) |
 | Thu, 19 Jun 2025 10:28:50 GMT | Cryptographic Agility: The Security Principle Most Teams Overlook— Until It’s Too Late | StackSnacker | [Read More](https://medium.com/p/76efa16bbef9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — Jun 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/79389f505dd2) |
 | Thu, 19 Jun 2025 05:49:18 GMT | VPS vs VPN: What’s the Difference and When to Use Each? | R1punjay_Singh | [Read More](https://medium.com/p/1ba44750d89b) |
 | Thu, 19 Jun 2025 05:48:44 GMT | Why Managed Security Services Are Essential for Modern Businesses | Adil | [Read More](https://medium.com/p/bab4be63f512) |
-| Thu, 19 Jun 2025 05:46:26 GMT | Setting up a webserver to use HTTPS | Vijayramaraju Kalidindi | [Read More](https://medium.com/p/90faa0757136) |
-| Thu, 19 Jun 2025 05:45:25 GMT | Top 3 Gmail Alternatives You Should Try in 2025 | Chordiyajiya | [Read More](https://medium.com/p/e3e47a461498) |
-| Thu, 19 Jun 2025 05:23:07 GMT | Week 14 Review; Growth, Grit & Gaining Ground in AI and Web 3 | Emmanuel Ngunnzi | [Read More](https://medium.com/p/5f30d0f469e4) |
-| Thu, 19 Jun 2025 05:19:54 GMT | The Unconventional Battlefield: Low-tech attack, High Impact! | Sam | [Read More](https://medium.com/p/5abc1b9971a5) |
-| Thu, 19 Jun 2025 05:06:12 GMT | Why did hackers destroy $90 million in cryptocurrency from Iran’s Nobitex exchange? | Lamidi Idris | [Read More](https://medium.com/p/b9ec1a06d9b2) |
-| Thu, 19 Jun 2025 04:59:51 GMT | I Prompt Engineered ChatGPT Into a Red Team Assistant: A Case Study in Adversarial AI Use | David Milov | [Read More](https://medium.com/p/f46c675f5f87) |
-| Thu, 19 Jun 2025 04:56:32 GMT | RBI Cybersecurity Compliance: A Complete Guide for Financial Institutions | Rinshumishra | [Read More](https://medium.com/p/5b7a43da7f53) |
-| Thu, 19 Jun 2025 04:44:27 GMT | ประจำวันพฤหัสบดีที่ 19 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2ccbd366d8b3) |
-| Thu, 19 Jun 2025 04:36:48 GMT | What Is a Passkey in Gmail and Why You Should Be Using One | TheReviewHive | [Read More](https://medium.com/p/eb4ce9d1fcfe) |
-| Thu, 19 Jun 2025 04:34:30 GMT | When I Don’t Speak | Pratibha Singh | [Read More](https://medium.com/p/75f615d7720d) |
-| Thu, 19 Jun 2025 04:20:31 GMT | 5 Key Strategies for Node.js Application Security | Arunangshu Das | [Read More](https://medium.com/p/286f014f0944) |
-| Thu, 19 Jun 2025 04:14:24 GMT | From Trust Anchors to SPIFFE IDs: Understanding Linkerd’s Automated Identity Pipeline | Ivan (이반) Porta | [Read More](https://medium.com/p/e57a90ce1414) |
-| Thu, 19 Jun 2025 04:04:48 GMT | JavaScript Enumeration for Bug Bounty Hunters | Karthikeyan | [Read More](https://medium.com/p/0e38520492e7) |
-| Thu, 19 Jun 2025 04:02:40 GMT | Understanding Windows API and its use in Malware analysis | OluwapelumiOyerinde | [Read More](https://medium.com/p/5044352fd305) |
