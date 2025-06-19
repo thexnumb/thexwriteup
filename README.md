@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 23:31:40 GMT | Security Operations with Cortex XSOAR: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f8dc45af74e1) |
 | Thu, 19 Jun 2025 22:49:50 GMT | Exploiting JBoss for Remote Code Execution (RCE) — A Step-by-Step Practical Walkthrough | Klasster | [Read More](https://medium.com/p/85eb606e9cfa) |
 | Thu, 19 Jun 2025 22:39:11 GMT | [TR] Linux Capabilities | Kaan Ekşi | [Read More](https://medium.com/p/cb43d710d54f) |
 | Thu, 19 Jun 2025 22:32:38 GMT | DREAMING WRITEUP : TRYHACKME | rizzziom | [Read More](https://medium.com/p/0c59b26688b3) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 15:52:59 GMT | Breaking Monoalphabetic Cipher with Frequency Analysis: Krypton 3 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/be13c236f3e7) |
 | Thu, 19 Jun 2025 15:51:07 GMT | Find Out What ChatGPT Knows About You — And How To Make It Forget | Kajal Sharma | [Read More](https://medium.com/p/edb7d7ade2a1) |
 | Thu, 19 Jun 2025 15:40:21 GMT | Rocteceurope.com - step by step on How I Recover My Money Back | Celia Henríquez | [Read More](https://medium.com/p/a67ae13192b4) |
-| Thu, 19 Jun 2025 15:39:01 GMT | What Is Wave Browser and Should You Be Concerned? | SafeAeon Inc. | [Read More](https://medium.com/p/027b43d5c9f9) |
