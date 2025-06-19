@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 03:56:27 GMT | Security Robot Implementation Model | Marcus Koehnlein | [Read More](https://medium.com/p/31a7bc3359ea) |
+| Thu, 19 Jun 2025 03:56:25 GMT | CVE-2025-23121 Critical Veeam Vulnerability: Backup Servers at Risk from Authenticated RCE Flaw | Bash Overflow | [Read More](https://medium.com/p/cc7e8bf5906e) |
+| Thu, 19 Jun 2025 03:50:35 GMT | Mobile App Pentesting — Part 4: Dynamic Analysis | Tanzeem Khatri | [Read More](https://medium.com/p/3ec6128dac0e) |
+| Thu, 19 Jun 2025 03:39:05 GMT | Why do I keep finding my number on random websites? | pynder.net | [Read More](https://medium.com/p/8de07a179443) |
+| Thu, 19 Jun 2025 03:33:09 GMT | Understanding the Ransomware Attack on DaVita and Its Wider Implications | Deven Chhajed | [Read More](https://medium.com/p/c38d06de28e2) |
+| Thu, 19 Jun 2025 03:33:09 GMT | Services (THM) Write up | Dante | [Read More](https://medium.com/p/c4b5715fd834) |
+| Thu, 19 Jun 2025 03:26:44 GMT | Scam calls much! | pynder.net | [Read More](https://medium.com/p/8fa817e1dc8f) |
 | Thu, 19 Jun 2025 02:50:14 GMT | How risk assessments uncover hidden cyber threats | Tekclarion | [Read More](https://medium.com/p/a4e51b02d923) |
 | Thu, 19 Jun 2025 02:41:05 GMT | CTF Day(19) | Ahmed Narmer | [Read More](https://medium.com/p/4c7f827aef02) |
 | Thu, 19 Jun 2025 02:40:34 GMT | 10K Records Allegedly from Mac Cloud Provider’s Customers Exposed Online | SafetyDetectives Research Team | [Read More](https://medium.com/p/e8bd0bf4295f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 17:42:08 GMT | Advanced AI Ethical Hacking Course: The Future of Cybersecurity | TheCertExpert | [Read More](https://medium.com/p/25df282b6caa) |
 | Wed, 18 Jun 2025 17:39:21 GMT | Bug Bounty Blueprint 2025: Real Method to Land Your First Payout (No Fluff) | Rishabh Shrivastava | [Read More](https://medium.com/p/b0e4aa2c28dd) |
 | Wed, 18 Jun 2025 17:36:54 GMT | Inside the GodFather Malware’s New Virtual Reality: A Wake-Up Call for Mobile Financial Security | Avnishyam | [Read More](https://medium.com/p/047f9aea6b4b) |
-| Wed, 18 Jun 2025 17:33:40 GMT | Safeguarding Your Secrets: 6 Data Desensitization Solutions Large Companies Use to Combat Insider… | Umesh Kumar Yadav | [Read More](https://medium.com/p/7b6426655953) |
-| Wed, 18 Jun 2025 17:29:54 GMT | How to capture, store, and index information, Old School Style | Len Galasso | [Read More](https://medium.com/p/dd24338cd063) |
-| Wed, 18 Jun 2025 17:25:17 GMT | Top 6 Real-World Network Misconfigurations That Hackers Exploit Easily | Shadow Packet | [Read More](https://medium.com/p/257bbd32b658) |
-| Wed, 18 Jun 2025 17:23:11 GMT | How One Parameter Exposed IRCTC User Data | Rohan Kar | [Read More](https://medium.com/p/04669ae0f6a6) |
-| Wed, 18 Jun 2025 17:19:02 GMT | Exploring the Smart Home Revolution with SwitchBot | Ohlsenbukexisux | [Read More](https://medium.com/p/8f8b75469267) |
-| Wed, 18 Jun 2025 17:13:42 GMT | Gone In The Morning | Ìyàndá Apènàolà Àpésìnolà Àyìndé | [Read More](https://medium.com/p/ae3d5392118c) |
-| Wed, 18 Jun 2025 17:09:39 GMT | Rooting Keoptrix - Level 1 - A Beginner-Friendly Pentest Challenge | Jsar | [Read More](https://medium.com/p/9c76624a87d2) |
