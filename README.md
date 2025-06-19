@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 06:22:39 GMT | $33,510 Bounty: Exploiting GitLab’s Hidden Redis Injection | Monika sharma | [Read More](https://medium.com/p/c2639520331b) |
+| Thu, 19 Jun 2025 06:21:44 GMT | How to Actually Learn Hacking in 2025–26: A Practical Guide | Vipul Sonule | [Read More](https://medium.com/p/65c6f057f7c6) |
+| Thu, 19 Jun 2025 06:19:36 GMT | ️ 100 Web App Bugs You Should Be Hunting | Swarnim Bandekar | [Read More](https://medium.com/p/6295f78d6880) |
+| Thu, 19 Jun 2025 06:17:47 GMT | When 404 Said No… But I Said Yes — The Curious Case of 404 Bypass! | Muthu | [Read More](https://medium.com/p/0da929caab51) |
+| Thu, 19 Jun 2025 06:15:00 GMT | WormGPT Returns: Why AI Security Must Be a Foundation, Not an Afterthought | Tayyab Bin Tariq | [Read More](https://medium.com/p/ddc58ffd9a9e) |
+| Thu, 19 Jun 2025 06:14:33 GMT | PicoCTF2025 forensics Ph3nt0m 1ntrud3r | Taha Amine | [Read More](https://medium.com/p/4bd97f91ea2f) |
+| Thu, 19 Jun 2025 06:04:20 GMT | What are the best practices for students to learn a cybersecurity course? | EDTECHLearning | [Read More](https://medium.com/p/9d22d733e8ad) |
+| Thu, 19 Jun 2025 06:02:02 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4059e4015673) |
+| Thu, 19 Jun 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — Jun 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/79389f505dd2) |
+| Thu, 19 Jun 2025 05:49:18 GMT | VPS vs VPN: What’s the Difference and When to Use Each? | R1punjay_Singh | [Read More](https://medium.com/p/1ba44750d89b) |
+| Thu, 19 Jun 2025 05:48:44 GMT | Why Managed Security Services Are Essential for Modern Businesses | Adil | [Read More](https://medium.com/p/bab4be63f512) |
+| Thu, 19 Jun 2025 05:46:26 GMT | Setting up a webserver to use HTTPS | Vijayramaraju Kalidindi | [Read More](https://medium.com/p/90faa0757136) |
+| Thu, 19 Jun 2025 05:45:25 GMT | Top 3 Gmail Alternatives You Should Try in 2025 | Chordiyajiya | [Read More](https://medium.com/p/e3e47a461498) |
 | Thu, 19 Jun 2025 05:23:07 GMT | Week 14 Review; Growth, Grit & Gaining Ground in AI and Web 3 | Emmanuel Ngunnzi | [Read More](https://medium.com/p/5f30d0f469e4) |
 | Thu, 19 Jun 2025 05:19:54 GMT | The Unconventional Battlefield: Low-tech attack, High Impact! | Sam | [Read More](https://medium.com/p/5abc1b9971a5) |
 | Thu, 19 Jun 2025 05:06:12 GMT | Why did hackers destroy $90 million in cryptocurrency from Iran’s Nobitex exchange? | Lamidi Idris | [Read More](https://medium.com/p/b9ec1a06d9b2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 19:06:53 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | Code With Hannan | [Read More](https://medium.com/p/b1175dc15f32) |
 | Wed, 18 Jun 2025 19:06:00 GMT | Kali Linux Klasörleri | Ahmet Şimşek | [Read More](https://medium.com/p/320449b1460c) |
 | Wed, 18 Jun 2025 19:00:56 GMT | Universities: A Top Target for Phishing | urlDNA | [Read More](https://medium.com/p/820c5439b187) |
-| Wed, 18 Jun 2025 18:57:40 GMT | Different Types of Checkmarx Findings and Common Fix Techniques | Samarth Arun Narula | [Read More](https://medium.com/p/6d1d606d9494) |
-| Wed, 18 Jun 2025 18:46:55 GMT | Retail theft? Employee behavior? Customer service? | Visual Monitoring Solutions | [Read More](https://medium.com/p/f4f2cac5b617) |
-| Wed, 18 Jun 2025 18:38:32 GMT | Rooting Kioptrix — Level 1 - A Beginner-Friendly Pentest Challenge | Jsar | [Read More](https://medium.com/p/115161bfcc96) |
-| Wed, 18 Jun 2025 18:38:14 GMT | The Critical Vulnerability That “Didn’t Exist” — How Certifix “Solved” the Issue by Denial | arsenii9 | [Read More](https://medium.com/p/7075ac37fec5) |
-| Wed, 18 Jun 2025 18:34:20 GMT | Day 25: Operating Systems — Linux | Nile Okomo | [Read More](https://medium.com/p/a8e64164fb98) |
-| Wed, 18 Jun 2025 18:26:01 GMT | Cryptocurrency, Cyberwarfare, and Shadows: The $90 Million Message Behind the Nobitex Breach | Siva Gunasekaran | [Read More](https://medium.com/p/f4353eb6f8fd) |
-| Wed, 18 Jun 2025 18:24:15 GMT | Meta Pool’s $27M Blunder, But Hacker Walks Away with Just $132K — What Really Happened? | CoinGen | [Read More](https://medium.com/p/b41b85e332c1) |
-| Wed, 18 Jun 2025 18:23:02 GMT | Part 4: Exploiting Broken Auth — How I Got In Without a Password | TraceX0 | [Read More](https://medium.com/p/978d5e3be2b3) |
-| Wed, 18 Jun 2025 18:23:01 GMT | Ethical Hacking: Building Your Cybersecurity Career Path | Boris Gigovic | [Read More](https://medium.com/p/ca8f0f546d8d) |
-| Wed, 18 Jun 2025 18:22:31 GMT | Why Identity and Access Management Is No Longer Optional in Modern SaaS | David Brown | [Read More](https://medium.com/p/ad8907bd05df) |
-| Wed, 18 Jun 2025 18:22:30 GMT | When Crypto Gets Political, Nobitex Hack Rocks Iran Amid $81M Breach | CoinGen | [Read More](https://medium.com/p/fdbdbeb9738c) |
-| Wed, 18 Jun 2025 18:18:30 GMT | “Who Let the Pods Out?” | Tarun Agarwal | [Read More](https://medium.com/p/0bdfbf7afd32) |
-| Wed, 18 Jun 2025 18:18:12 GMT | SILENT SCREAM: BREAKING THE STIGMA AROUND MENTAL HEALTH | Fedude Annie | [Read More](https://medium.com/p/471d3ae5d584) |
