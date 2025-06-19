@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 04:36:48 GMT | What Is a Passkey in Gmail and Why You Should Be Using One | TheReviewHive | [Read More](https://medium.com/p/eb4ce9d1fcfe) |
+| Thu, 19 Jun 2025 04:34:30 GMT | When I Don’t Speak | Pratibha Singh | [Read More](https://medium.com/p/75f615d7720d) |
+| Thu, 19 Jun 2025 04:20:31 GMT | 5 Key Strategies for Node.js Application Security | Arunangshu Das | [Read More](https://medium.com/p/286f014f0944) |
+| Thu, 19 Jun 2025 04:14:24 GMT | From Trust Anchors to SPIFFE IDs: Understanding Linkerd’s Automated Identity Pipeline | Ivan (이반) Porta | [Read More](https://medium.com/p/e57a90ce1414) |
+| Thu, 19 Jun 2025 04:04:48 GMT | JavaScript Enumeration for Bug Bounty Hunters | Karthikeyan | [Read More](https://medium.com/p/0e38520492e7) |
+| Thu, 19 Jun 2025 04:02:40 GMT | Understanding Windows API and its use in Malware analysis | OluwapelumiOyerinde | [Read More](https://medium.com/p/5044352fd305) |
 | Thu, 19 Jun 2025 03:56:27 GMT | Security Robot Implementation Model | Marcus Koehnlein | [Read More](https://medium.com/p/31a7bc3359ea) |
 | Thu, 19 Jun 2025 03:56:25 GMT | CVE-2025-23121 Critical Veeam Vulnerability: Backup Servers at Risk from Authenticated RCE Flaw | Bash Overflow | [Read More](https://medium.com/p/cc7e8bf5906e) |
+| Thu, 19 Jun 2025 03:54:15 GMT | The Asymmetry That Defines Cybersecurity: Lessons from a Linux Vulnerability and the KEV List | Juan Pablo Castro | [Read More](https://medium.com/p/098228b037d0) |
 | Thu, 19 Jun 2025 03:50:35 GMT | Mobile App Pentesting — Part 4: Dynamic Analysis | Tanzeem Khatri | [Read More](https://medium.com/p/3ec6128dac0e) |
 | Thu, 19 Jun 2025 03:39:05 GMT | Why do I keep finding my number on random websites? | pynder.net | [Read More](https://medium.com/p/8de07a179443) |
 | Thu, 19 Jun 2025 03:33:09 GMT | Understanding the Ransomware Attack on DaVita and Its Wider Implications | Deven Chhajed | [Read More](https://medium.com/p/c38d06de28e2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 18:06:06 GMT | Meowsterio: Weaponizing ClickOnce in 2025 | g0njxa | [Read More](https://medium.com/p/8c2595a817c8) |
 | Wed, 18 Jun 2025 18:00:23 GMT | The Dark Side of Being a Scorpio (Nobody Talks About This) | Wilson Igbasi | [Read More](https://medium.com/p/53c5598e6678) |
 | Wed, 18 Jun 2025 17:59:20 GMT | Giving life context. | Dunw1ch | [Read More](https://medium.com/p/b029825b68c2) |
-| Wed, 18 Jun 2025 17:57:11 GMT | Penetration Testing: The Digital Pest Control | Mayuresh Chaubal | [Read More](https://medium.com/p/1f2dca7d2c44) |
-| Wed, 18 Jun 2025 17:56:50 GMT | Linux basic for Hacker Summary | Sachin Kumar | [Read More](https://medium.com/p/74c253c8bdad) |
-| Wed, 18 Jun 2025 17:50:21 GMT | Weekly Data Breach Statistics (June 10, 2025 — June 17, 2025) | Alexandre Vandamme | [Read More](https://medium.com/p/7ec4eccef918) |
-| Wed, 18 Jun 2025 17:44:47 GMT | Safeguarding Your Secrets: 6 Data Desensitization Solutions for Large Enterprises (with Spring… | Umesh Kumar Yadav | [Read More](https://medium.com/p/eed3612012f1) |
-| Wed, 18 Jun 2025 17:42:08 GMT | Advanced AI Ethical Hacking Course: The Future of Cybersecurity | TheCertExpert | [Read More](https://medium.com/p/25df282b6caa) |
-| Wed, 18 Jun 2025 17:39:21 GMT | Bug Bounty Blueprint 2025: Real Method to Land Your First Payout (No Fluff) | Rishabh Shrivastava | [Read More](https://medium.com/p/b0e4aa2c28dd) |
-| Wed, 18 Jun 2025 17:36:54 GMT | Inside the GodFather Malware’s New Virtual Reality: A Wake-Up Call for Mobile Financial Security | Avnishyam | [Read More](https://medium.com/p/047f9aea6b4b) |
