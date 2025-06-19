@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 10:42:07 GMT | When domain.com is the same as mydomain.com | Phil | [Read More](https://medium.com/p/177029a1593b) |
+| Thu, 19 Jun 2025 10:38:31 GMT | Genealogy Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/8e06b1d6fe69) |
+| Thu, 19 Jun 2025 10:34:01 GMT | How I Solved Level 5, 6 and 7 of the Gandalf AI Challenge | SV | [Read More](https://medium.com/p/2349df44d031) |
+| Thu, 19 Jun 2025 10:32:09 GMT | Understanding LLM Vulnerabilities | Ravi Sankar Uppala | [Read More](https://medium.com/p/6bed9d0422cd) |
+| Thu, 19 Jun 2025 10:28:50 GMT | Cryptographic Agility: The Security Principle Most Teams Overlook— Until It’s Too Late | StackSnacker | [Read More](https://medium.com/p/76efa16bbef9) |
+| Thu, 19 Jun 2025 10:28:14 GMT | Your Windows events can be leaking credentials (or more) | Guillermo Pineda | [Read More](https://medium.com/p/1e72ea5e78fa) |
+| Thu, 19 Jun 2025 10:20:18 GMT | How does a cloud transformation security service work? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/5ce5fbdbd2f9) |
+| Thu, 19 Jun 2025 10:20:05 GMT | The Cybersecurity Crisis: How AI is Changing the Game in 2025 | Simplenight | [Read More](https://medium.com/p/c938a24f61ea) |
+| Thu, 19 Jun 2025 10:15:33 GMT | The Daily Tech Digest: 19 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9953258c6a91) |
 | Thu, 19 Jun 2025 10:15:28 GMT | I Keep Writing, but No One’s Reading. Should I Just Give Up? | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/3bef7151db33) |
 | Thu, 19 Jun 2025 10:12:01 GMT | Why Every DevOps Engineer Must Master Vulnerability Databases (Before It’s Too Late!) | Rsprasangi | [Read More](https://medium.com/p/7f6ca428012c) |
 | Thu, 19 Jun 2025 10:11:12 GMT | Global Privacy Control (GPC): The Secret Browser Setting Every Business Needs | SecureSlate | [Read More](https://medium.com/p/21fdb8a0918a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 04:14:24 GMT | From Trust Anchors to SPIFFE IDs: Understanding Linkerd’s Automated Identity Pipeline | Ivan (이반) Porta | [Read More](https://medium.com/p/e57a90ce1414) |
 | Thu, 19 Jun 2025 04:04:48 GMT | JavaScript Enumeration for Bug Bounty Hunters | Karthikeyan | [Read More](https://medium.com/p/0e38520492e7) |
 | Thu, 19 Jun 2025 04:02:40 GMT | Understanding Windows API and its use in Malware analysis | OluwapelumiOyerinde | [Read More](https://medium.com/p/5044352fd305) |
-| Thu, 19 Jun 2025 03:56:27 GMT | Security Robot Implementation Model | Marcus Koehnlein | [Read More](https://medium.com/p/31a7bc3359ea) |
-| Thu, 19 Jun 2025 03:56:25 GMT | CVE-2025-23121 Critical Veeam Vulnerability: Backup Servers at Risk from Authenticated RCE Flaw | Bash Overflow | [Read More](https://medium.com/p/cc7e8bf5906e) |
-| Thu, 19 Jun 2025 03:54:15 GMT | The Asymmetry That Defines Cybersecurity: Lessons from a Linux Vulnerability and the KEV List | Juan Pablo Castro | [Read More](https://medium.com/p/098228b037d0) |
-| Thu, 19 Jun 2025 03:50:35 GMT | Mobile App Pentesting — Part 4: Dynamic Analysis | Tanzeem Khatri | [Read More](https://medium.com/p/3ec6128dac0e) |
-| Thu, 19 Jun 2025 03:39:05 GMT | Why do I keep finding my number on random websites? | pynder.net | [Read More](https://medium.com/p/8de07a179443) |
-| Thu, 19 Jun 2025 03:33:09 GMT | Understanding the Ransomware Attack on DaVita and Its Wider Implications | Deven Chhajed | [Read More](https://medium.com/p/c38d06de28e2) |
-| Thu, 19 Jun 2025 03:33:09 GMT | Services (THM) Write up | Dante | [Read More](https://medium.com/p/c4b5715fd834) |
-| Thu, 19 Jun 2025 03:26:44 GMT | Scam calls much! | pynder.net | [Read More](https://medium.com/p/8fa817e1dc8f) |
-| Thu, 19 Jun 2025 02:50:14 GMT | How risk assessments uncover hidden cyber threats | Tekclarion | [Read More](https://medium.com/p/a4e51b02d923) |
