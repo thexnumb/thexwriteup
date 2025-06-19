@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 17:06:48 GMT | FMS Attack POC on Simulated WEP/RC4 | Declan | [Read More](https://medium.com/p/4fd7be4b0640) |
+| Thu, 19 Jun 2025 17:02:11 GMT | A Day in the Life of a SOC Analyst | Aniket Sharma | [Read More](https://medium.com/p/dff95e117de9) |
+| Thu, 19 Jun 2025 16:59:32 GMT | Unveiling CSRF-to-XSS and XXE in a Single Request | nocley | [Read More](https://medium.com/p/b3e260d5477d) |
+| Thu, 19 Jun 2025 16:58:56 GMT | Iran’s Potential Cyberattack on America | Pentestjunkie07 | [Read More](https://medium.com/p/f81cdab4a09c) |
+| Thu, 19 Jun 2025 16:51:00 GMT | Pwning NullByte — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/fdac1f5397d9) |
+| Thu, 19 Jun 2025 16:48:30 GMT | Scania Extortion Sparks Alarm on Third-Party Cyber Risk | Avnishyam | [Read More](https://medium.com/p/e5afce69c88a) |
+| Thu, 19 Jun 2025 16:45:51 GMT | How Your Cat Video Travels 10,000 Miles in Milliseconds | Pavithraa Deenadayalan | [Read More](https://medium.com/p/442072d49bd9) |
 | Thu, 19 Jun 2025 16:45:04 GMT | Neden Linux, Hackerların Gözdesi? | Mustafa Şen | [Read More](https://medium.com/p/ba6377b81e87) |
+| Thu, 19 Jun 2025 16:44:38 GMT | bare | aithe | [Read More](https://medium.com/p/83c8da51be27) |
 | Thu, 19 Jun 2025 16:35:19 GMT | Getting Started with Risk Management | Cybersecurity Compliance Without Bullshit (CCWB) | [Read More](https://medium.com/p/c6fbc4a345b3) |
 | Thu, 19 Jun 2025 16:31:30 GMT | I Told Myself I Could Handle It | A.Lneria | [Read More](https://medium.com/p/24d318792e88) |
 | Thu, 19 Jun 2025 16:24:49 GMT | ICS and SCADA Exploitation: Watch Tower : Hack The Box | Tanmay Bhattacharjee | [Read More](https://medium.com/p/5f854f80c5b1) |
@@ -70,6 +78,7 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 12:58:19 GMT | Unlocking the Power of Curve25519, Ed25519 & X25519: The Modern Pillars of Secure and High-Speed… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a3daefbad0a4) |
 | Thu, 19 Jun 2025 12:57:33 GMT | Security+ SY0–701 — Week 4 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/71bbe2790c10) |
 | Thu, 19 Jun 2025 12:47:42 GMT | Day 26: Operating Systems | Nile Okomo | [Read More](https://medium.com/p/6726b932f33c) |
+| Thu, 19 Jun 2025 12:43:25 GMT | Cybersecurity Case Study | Grace Racharmy | [Read More](https://medium.com/p/8e25a74dc6a2) |
 | Thu, 19 Jun 2025 12:43:24 GMT | Volatility Essentials — TryHackMe Write-up | Cismohamed | [Read More](https://medium.com/p/6613ed506041) |
 | Thu, 19 Jun 2025 12:36:37 GMT | Introduction: | Signpostcelfon Intech | [Read More](https://medium.com/p/1d7c65ee51b7) |
 | Thu, 19 Jun 2025 12:36:22 GMT | The Essentials of Vulnerability Management: Protecting Your Digital Assets | Sasikala S | [Read More](https://medium.com/p/6db30933b7ef) |
@@ -104,12 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 11:02:47 GMT | Zero-Day Exploits & Supply Chain Attacks: Understanding the Threat Through Real-World Cases | Ekene Joseph | [Read More](https://medium.com/p/4a1bd40beaa7) |
 | Thu, 19 Jun 2025 11:00:58 GMT | Unlocking Digital Resilience: How the NIST Cybersecurity Framework Empowers Businesses | Sakshi Dwivedi | [Read More](https://medium.com/p/724ccb5bd626) |
 | Thu, 19 Jun 2025 11:00:39 GMT | SOC335 — CVE-2024–49138 Exploitation Detected — EventID: 313 - LetsDefend walkthrough | Gavin Fernandes | [Read More](https://medium.com/p/9f6c49794f8a) |
-| Thu, 19 Jun 2025 10:59:56 GMT | Certified Cloud Security Engineer (CCSE) Certification: Your Gateway to a Cloud-Secure Future | Shreyashettyctr | [Read More](https://medium.com/p/af8b8330da9a) |
-| Thu, 19 Jun 2025 10:57:42 GMT | AI-Powered Cyber Attacks & Defenses: The Double-Edged Sword of Intelligent Systems | Ekene Joseph | [Read More](https://medium.com/p/8275aa9e8f87) |
-| Thu, 19 Jun 2025 10:48:06 GMT | Information Security Officer Career Path: Skills, Certifications & Salary Trends | sneha gaikwad | [Read More](https://medium.com/p/a14b4ea96056) |
-| Thu, 19 Jun 2025 10:42:07 GMT | When domain.com is the same as mydomain.com | Phil | [Read More](https://medium.com/p/177029a1593b) |
-| Thu, 19 Jun 2025 10:38:31 GMT | Genealogy Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/8e06b1d6fe69) |
-| Thu, 19 Jun 2025 10:36:12 GMT | #35. Security First: How I Secure My Apps Without Slowing Down Speed | Nicholas Idoko | [Read More](https://medium.com/p/686b80d9a274) |
-| Thu, 19 Jun 2025 10:34:01 GMT | How I Solved Level 5, 6 and 7 of the Gandalf AI Challenge | SV | [Read More](https://medium.com/p/2349df44d031) |
-| Thu, 19 Jun 2025 10:32:09 GMT | Understanding LLM Vulnerabilities | Ravi Sankar Uppala | [Read More](https://medium.com/p/6bed9d0422cd) |
-| Thu, 19 Jun 2025 10:28:50 GMT | Cryptographic Agility: The Security Principle Most Teams Overlook— Until It’s Too Late | StackSnacker | [Read More](https://medium.com/p/76efa16bbef9) |
