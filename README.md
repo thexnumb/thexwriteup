@@ -12,10 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 10:15:28 GMT | I Keep Writing, but No One’s Reading. Should I Just Give Up? | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/3bef7151db33) |
+| Thu, 19 Jun 2025 10:12:01 GMT | Why Every DevOps Engineer Must Master Vulnerability Databases (Before It’s Too Late!) | Rsprasangi | [Read More](https://medium.com/p/7f6ca428012c) |
+| Thu, 19 Jun 2025 10:11:12 GMT | Global Privacy Control (GPC): The Secret Browser Setting Every Business Needs | SecureSlate | [Read More](https://medium.com/p/21fdb8a0918a) |
+| Thu, 19 Jun 2025 10:11:04 GMT | What Is Cybersecurity? | Rasagnauppula | [Read More](https://medium.com/p/76f7a8691b7f) |
+| Thu, 19 Jun 2025 10:06:37 GMT | What Are PII Dumps? How Your Personal Info Gets Bundled and Sold | Tanzeel Siddiqui | [Read More](https://medium.com/p/338b3b0b79bf) |
+| Thu, 19 Jun 2025 10:03:10 GMT | The Contradictory Craving for Solitude and Validation | Cat Milton | [Read More](https://medium.com/p/c1d96e119475) |
+| Thu, 19 Jun 2025 10:02:56 GMT | ️ Reporting a Vulnerability to the Government of India — My Responsible Disclosure Journey | Anoop P D | [Read More](https://medium.com/p/affe393e9df5) |
+| Thu, 19 Jun 2025 09:51:54 GMT | ⚠️ Critical Linux Vulnerabilities (CVE-2025–6018 & CVE-2025–6019) Allow Root Access Across Major… | Infoziant | [Read More](https://medium.com/p/bc41a9fde9f2) |
 | Thu, 19 Jun 2025 09:42:56 GMT | Intelligent Data Protection by NextGen2AI: Safeguarding the Future of Digital Innovation | NextGen2AI | [Read More](https://medium.com/p/b175c1b546ec) |
 | Thu, 19 Jun 2025 09:34:58 GMT | Your Kid Might Be Bypassing Screen Time App Limits on macOS Using This Trick | 1day | [Read More](https://medium.com/p/0fed8225bf79) |
 | Thu, 19 Jun 2025 09:33:28 GMT | Essential Security Measures for Your New Website | Functioning Media University | [Read More](https://medium.com/p/cd3f37c72265) |
 | Thu, 19 Jun 2025 09:32:38 GMT | Adversarial Minds: Why We’re Still Getting Hacked by Words? a book about human vulnerabilities. | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/f2069ae4ace7) |
+| Thu, 19 Jun 2025 09:30:50 GMT | The solution | saint david | [Read More](https://medium.com/p/b18c8292e7c8) |
 | Thu, 19 Jun 2025 09:19:01 GMT | Why don’t we have portfolios in cybersecurity? | M H | [Read More](https://medium.com/p/93a26d7f9a7a) |
 | Thu, 19 Jun 2025 09:17:50 GMT | Why are cybersecurity interviews still stuck in the dark ages? | M H | [Read More](https://medium.com/p/3e8a1ab2d984) |
 | Thu, 19 Jun 2025 09:16:26 GMT | “Communications is often meritocratic: if you’re good, you will be asked to do more (whatever your… | M H | [Read More](https://medium.com/p/ea71ecd39f06) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 03:33:09 GMT | Services (THM) Write up | Dante | [Read More](https://medium.com/p/c4b5715fd834) |
 | Thu, 19 Jun 2025 03:26:44 GMT | Scam calls much! | pynder.net | [Read More](https://medium.com/p/8fa817e1dc8f) |
 | Thu, 19 Jun 2025 02:50:14 GMT | How risk assessments uncover hidden cyber threats | Tekclarion | [Read More](https://medium.com/p/a4e51b02d923) |
-| Thu, 19 Jun 2025 02:41:05 GMT | CTF Day(19) | Ahmed Narmer | [Read More](https://medium.com/p/4c7f827aef02) |
-| Thu, 19 Jun 2025 02:40:34 GMT | 10K Records Allegedly from Mac Cloud Provider’s Customers Exposed Online | SafetyDetectives Research Team | [Read More](https://medium.com/p/e8bd0bf4295f) |
-| Thu, 19 Jun 2025 02:39:58 GMT | The Tears We Never Shed | Thesilentscribbler | [Read More](https://medium.com/p/e0f62836e348) |
-| Thu, 19 Jun 2025 02:24:58 GMT | Unearthing Hidden Threats: A Memory Forensics Malware Investigation | Simon A. | [Read More](https://medium.com/p/c50912e04ebb) |
-| Thu, 19 Jun 2025 02:24:05 GMT | UNIX Software: And Hacker Realities | Progsky | [Read More](https://medium.com/p/21b1d4e0a414) |
-| Thu, 19 Jun 2025 02:18:43 GMT | TryHackMe Room Walkthrough - Burp Suite: The Basics | Tijan Hydara | [Read More](https://medium.com/p/bcef4faead27) |
-| Thu, 19 Jun 2025 01:40:55 GMT | Remote Code Execution via a Base64-Encoded Payload — No Login Needed | Muhammad Waseem | [Read More](https://medium.com/p/81738d6ad332) |
-| Thu, 19 Jun 2025 01:39:09 GMT | Phishing Training Still Isn’t Working, So Why Are We Still Paying for It? | James Davis | [Read More](https://medium.com/p/5cb914c5c395) |
-| Thu, 19 Jun 2025 01:34:00 GMT | AI-Assisted Development: An Analysis of Human Expertise Requirements in Complex Systems | Christoforus Yoga Haryanto | [Read More](https://medium.com/p/d24c942c9a49) |
