@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 12:34:17 GMT | Bug Bounty Course in Delhi, India [2025] | Manisha Chaudhary | [Read More](https://medium.com/p/cb11184d930d) |
+| Thu, 19 Jun 2025 12:31:34 GMT | Day 3/30 The Ultimate Guide to Detecting Malware with Wireshark | Cyphersilhouette | [Read More](https://medium.com/p/eb123b0e5055) |
+| Thu, 19 Jun 2025 12:27:19 GMT | When Luxury Meets Vulnerability: Analyzing the Dior, Adidas, Victoria’s Secret, and Cartier Data… | Zuri | [Read More](https://medium.com/p/7c800fd389bc) |
+| Thu, 19 Jun 2025 12:25:40 GMT | Are you OpSecxually active? | Mitch - Contango | [Read More](https://medium.com/p/d23b19b2e3f1) |
+| Thu, 19 Jun 2025 12:16:56 GMT | The Largest Credential Breach in History: 16 Billion Stolen Passwords and What You Must Do Now | Technijian | [Read More](https://medium.com/p/268f8175fa98) |
+| Thu, 19 Jun 2025 12:14:18 GMT | The Old Internet Is Dying — And No One Is Noticing | Hafizbilaltariq | [Read More](https://medium.com/p/1ebeb3eebe0f) |
+| Thu, 19 Jun 2025 11:54:24 GMT | 8 Essential Ethical Hacking Tools Every Beginner Should Master | Appin Technology Lab | [Read More](https://medium.com/p/456edd88d3ff) |
+| Thu, 19 Jun 2025 11:50:39 GMT | Simple Tehniques to get Sensitive Data | Hadi Kusuma | [Read More](https://medium.com/p/236f1f448f2e) |
+| Thu, 19 Jun 2025 11:47:02 GMT | Monero: Why It May Fall Short as a Money Laundering Tool | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/457e0fd79f94) |
+| Thu, 19 Jun 2025 11:44:54 GMT | MARVICK Security: Vertrauen, Innovation und kompromisslose Sicherheit in München | Marvick Security | [Read More](https://medium.com/p/214c98167bd6) |
+| Thu, 19 Jun 2025 11:38:55 GMT | KaliGPT: The AI-Powered Offensive Security Assistant for Ethical Hackers | Joseph jr | [Read More](https://medium.com/p/8dc2a2c3609a) |
+| Thu, 19 Jun 2025 11:34:59 GMT | How Your Phone Is Always Listening — And What It’s Doing With That Info | Hafizbilaltariq | [Read More](https://medium.com/p/89245650cd6d) |
 | Thu, 19 Jun 2025 11:33:01 GMT | Publication: Securing the Backbone — Cybersecurity for Critical Infrastructure (ICS/SCADA) | Joseph jr | [Read More](https://medium.com/p/128c59a8ce57) |
 | Thu, 19 Jun 2025 11:31:36 GMT | PDF That Steals Data - The DocDrop Exploit | Jerry Shah (Jerry) | [Read More](https://medium.com/p/03ee20b03b87) |
 | Thu, 19 Jun 2025 11:31:14 GMT | Building Secure from the Start: A Comprehensive DevSecOps Automation Workflow | Ekene Ejike | [Read More](https://medium.com/p/0c52027142bb) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 07:03:25 GMT | Aadhaar Number: Cyber Crime Hub for Scammers and Fraudsters — How Digital Identity shall Fix this… | Ravi Rose | [Read More](https://medium.com/p/2c077801ce43) |
 | Thu, 19 Jun 2025 07:02:02 GMT | Stop Giving Apps Access to Your Gmail — Do This Now | Jack of Everything | [Read More](https://medium.com/p/ee439c15a5f1) |
 | Thu, 19 Jun 2025 07:01:43 GMT | Increasing SIEM Efficiency with Log Normalization Techniques | Esra Kayhan | [Read More](https://medium.com/p/bf3d2be3319c) |
-| Thu, 19 Jun 2025 06:58:57 GMT | Building Your Own Linux Shell: A Beginner’s Adventure in C | Arids Wolfgang | [Read More](https://medium.com/p/962d6364c3d8) |
-| Thu, 19 Jun 2025 06:56:31 GMT | What Are We, Really? | Namitha Leelavathi | [Read More](https://medium.com/p/4b107e2cae33) |
-| Thu, 19 Jun 2025 06:50:45 GMT | What Happened to Victoria’s Secret? Inside the 2025 Cyberattack | Zeron | [Read More](https://medium.com/p/45dd12067c2a) |
-| Thu, 19 Jun 2025 06:48:47 GMT | Weaponizing Uninstallers: A Deep Dive | 106_Sam | [Read More](https://medium.com/p/8c52c1e2a6a0) |
-| Thu, 19 Jun 2025 06:46:18 GMT | The Unified Risk Posture: A CISO’s Guide to Quantified Security & Compliance | Zeron | [Read More](https://medium.com/p/cea5c74256ce) |
-| Thu, 19 Jun 2025 06:44:49 GMT | Why Cybersecurity in Garment ERP Systems Is Crucial in 2025 | Absolute ERP | [Read More](https://medium.com/p/3eea6563ae0c) |
-| Thu, 19 Jun 2025 06:32:38 GMT | Thinking on Thoughts: Communication | Mike Sansone | [Read More](https://medium.com/p/512a26b868aa) |
-| Thu, 19 Jun 2025 06:27:53 GMT | Market Games: How Traders Manipulate DeFi Order Books | Evgenii | [Read More](https://medium.com/p/f15b82308cb9) |
-| Thu, 19 Jun 2025 06:22:39 GMT | $33,510 Bounty: Exploiting GitLab’s Hidden Redis Injection | Monika sharma | [Read More](https://medium.com/p/c2639520331b) |
-| Thu, 19 Jun 2025 06:22:19 GMT | Roundcube: CVE-2025–49113 | Chetan Chinchulkar | [Read More](https://medium.com/p/22ec9ac88bce) |
-| Thu, 19 Jun 2025 06:21:44 GMT | How to Actually Learn Hacking in 2025–26: A Practical Guide | Vipul Sonule | [Read More](https://medium.com/p/65c6f057f7c6) |
-| Thu, 19 Jun 2025 06:19:36 GMT | ️ 100 Web App Bugs You Should Be Hunting | Swarnim Bandekar | [Read More](https://medium.com/p/6295f78d6880) |
