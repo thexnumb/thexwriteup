@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 01:40:55 GMT | Remote Code Execution via a Base64-Encoded Payload — No Login Needed | Muhammad Waseem | [Read More](https://medium.com/p/81738d6ad332) |
+| Thu, 19 Jun 2025 01:39:09 GMT | Phishing Training Still Isn’t Working, So Why Are We Still Paying for It? | James Davis | [Read More](https://medium.com/p/5cb914c5c395) |
+| Thu, 19 Jun 2025 01:34:00 GMT | AI-Assisted Development: An Analysis of Human Expertise Requirements in Complex Systems | Christoforus Yoga Haryanto | [Read More](https://medium.com/p/d24c942c9a49) |
+| Thu, 19 Jun 2025 01:24:44 GMT | Unmasking the Digital Intruder: A Network Forensics Investigation | Simon A. | [Read More](https://medium.com/p/1612d2cfc6f2) |
+| Thu, 19 Jun 2025 00:53:32 GMT | Network Protocols 101: Categories, Types, and Common Ports Explained | BlueTeam Bytes | [Read More](https://medium.com/p/96e0688ce0ce) |
+| Thu, 19 Jun 2025 00:39:08 GMT | ⚠️ The Hidden Dangers of Using Public Wi-Fi: What You Need to Know | Mustafa ahmed | [Read More](https://medium.com/p/36f5f6853a9f) |
+| Thu, 19 Jun 2025 00:31:35 GMT | The Risk and Gift of Vulnerability | Pratibha Singh | [Read More](https://medium.com/p/6a12130a45ae) |
+| Thu, 19 Jun 2025 00:18:57 GMT | 10 Django Security Mistakes Developers Still Make in 2025 | Priyanshu Rajput | [Read More](https://medium.com/p/5472298aed97) |
+| Thu, 19 Jun 2025 00:06:10 GMT | How I Hosted a Website on Amazon S3! - NextWork Cloud Project | Angie | [Read More](https://medium.com/p/8b8ba1d53dd2) |
+| Wed, 18 Jun 2025 23:56:02 GMT | Smart Reasons to Hire a Los Angeles Managed IT Service Provider in 2025 | AI Managed IT Services | [Read More](https://medium.com/p/e30e07514749) |
+| Wed, 18 Jun 2025 23:55:51 GMT | Windows Memory Forensics — Zeus Banking Trojan Dump | Dhruv Saikia | [Read More](https://medium.com/p/2d6852d7a8dd) |
+| Wed, 18 Jun 2025 23:54:54 GMT | Two IT Careers That Stood the Test of Time | DuckWrites | [Read More](https://medium.com/p/2cd8d5955f6b) |
+| Wed, 18 Jun 2025 23:50:00 GMT | Reverse Engineering the Digital Battlefield: Unmasking Cyberwarfare Malware Like Stuxnet and… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/ec89c4a7fd8d) |
 | Wed, 18 Jun 2025 23:32:21 GMT | The Shocking New Way Hackers Are Jailbreaking AI — And It’s Ridiculously Easy | Cyber-AppSec | [Read More](https://medium.com/p/e77a23c5afc3) |
 | Wed, 18 Jun 2025 23:25:03 GMT | Understanding Phishing: Why do People Keep Falling for It and What Happens if You Do. | Davidtaiwo | [Read More](https://medium.com/p/29aaa8d55a6b) |
 | Wed, 18 Jun 2025 23:23:23 GMT | Cybersecurity in 2025: Protecting Your Digital World | Nosheen Butt | [Read More](https://medium.com/p/399dd4b46b37) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 16:45:50 GMT | MacOS Privacy Is a Marketing Lie — Here’s How to Reclaim Control | Andrii | [Read More](https://medium.com/p/ce1cdb76ba17) |
 | Wed, 18 Jun 2025 16:45:30 GMT | False Positives: Not Just a Nuisance… But a Healthy Sign of Detection | Maged Anas | [Read More](https://medium.com/p/7a6a90be88eb) |
 | Wed, 18 Jun 2025 16:44:01 GMT | Modularizing Terraform Projects for a 3-Tier Architecture | Ramkrushna Maheshwar | [Read More](https://medium.com/p/0692d1fda063) |
-| Wed, 18 Jun 2025 16:43:40 GMT | Day 66: Network Scripting in BASH — The Cybersecurity Toolkit | Agarwaldaksh | [Read More](https://medium.com/p/3b780598daeb) |
-| Wed, 18 Jun 2025 16:42:57 GMT | Avoid Race Conditions in Terraform with S3 and DynamoDB Locking | Ramkrushna Maheshwar | [Read More](https://medium.com/p/6f4a8a1d5a9b) |
-| Wed, 18 Jun 2025 16:40:52 GMT | Stop Load Balancing! Use Headless Services in Kubernetes for Stateful Apps | Ramkrushna Maheshwar | [Read More](https://medium.com/p/4c3a867072e2) |
-| Wed, 18 Jun 2025 16:40:40 GMT | AV & EDR Bypass Techniques : Attacking & Defending Windows 101 | Shaheer Yasir | [Read More](https://medium.com/p/ec1fe5e5e811) |
-| Wed, 18 Jun 2025 16:34:24 GMT | Security Is a Business Goal — Not Just an IT Metric | Ben Kemp | [Read More](https://medium.com/p/b2f4b4b17c71) |
-| Wed, 18 Jun 2025 16:31:35 GMT | ADCS Exploitation Part 3: Living Off The Land | Giulio Pierantoni | [Read More](https://medium.com/p/9c6494d6a84e) |
-| Wed, 18 Jun 2025 16:18:49 GMT | “Unfiltered Talk” — How Target Chatbot Let Me Redecorate Their Website | Shah kaif | [Read More](https://medium.com/p/693150c9a9e5) |
-| Wed, 18 Jun 2025 16:17:08 GMT | Nobody Teaches This Part of GRC | A D | [Read More](https://medium.com/p/ededb435e870) |
-| Wed, 18 Jun 2025 16:15:54 GMT | 10      2025 … | Fraoula | [Read More](https://medium.com/p/a8d3038e9e8f) |
-| Wed, 18 Jun 2025 16:15:05 GMT | Why IT Support Experience Builds the Perfect Foundation for a Cybersecurity Career | Taimur Ijlal | [Read More](https://medium.com/p/41879ff7efe8) |
-| Wed, 18 Jun 2025 16:08:38 GMT | Secrets, Tokens, and API Keys: How to Manage Them Safely in 2025 | Pranav Prakash | [Read More](https://medium.com/p/823b60db6980) |
-| Wed, 18 Jun 2025 16:08:10 GMT | Frequently used Nmap Scanning commands | The Commoness | [Read More](https://medium.com/p/5aa23e490806) |
-| Wed, 18 Jun 2025 16:07:23 GMT | How to Prevent AI Supply Chain Attacks? | Practical DevSecOps | [Read More](https://medium.com/p/5ed761ed927b) |
