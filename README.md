@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 15:33:41 GMT | Apple Enabled Quantum Security | Patrick Pallagi | [Read More](https://medium.com/p/4f240e6f6c20) |
+| Thu, 19 Jun 2025 15:31:39 GMT | Yuzu Encryption Keys Are Missing: What It Means and How to Fix It | SafeAeon Inc. | [Read More](https://medium.com/p/eb187e2a1ae2) |
+| Thu, 19 Jun 2025 15:31:03 GMT | Why Do Most Hackers Fail at SSRF Exploitation | Ibtissam hammadi | [Read More](https://medium.com/p/540e1bd6db02) |
+| Thu, 19 Jun 2025 15:27:51 GMT | Crowd Management Solutions: Ensuring Safety and Efficiency | Professional UK Services | [Read More](https://medium.com/p/57c47e66a7c3) |
+| Thu, 19 Jun 2025 15:21:44 GMT | The CISO's Dilemma: Proving Cybersecurity ROI in an AI First World | Eric Zietlow | [Read More](https://medium.com/p/cca8ea688805) |
 | Thu, 19 Jun 2025 15:20:34 GMT | Day 30: Troubleshooting | Mikey O. | [Read More](https://medium.com/p/ea79a8d5132c) |
 | Thu, 19 Jun 2025 15:16:35 GMT | A Jar Full of Trouble: Why pickle.loads() is inherently insecure | Marshall Humble | [Read More](https://medium.com/p/1d8ba0f516c1) |
 | Thu, 19 Jun 2025 15:15:26 GMT | Building a FIPS-Compliant Python Container | Marshall Humble | [Read More](https://medium.com/p/c389bb8465c4) |
@@ -108,8 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 09:51:54 GMT | ⚠️ Critical Linux Vulnerabilities (CVE-2025–6018 & CVE-2025–6019) Allow Root Access Across Major… | Infoziant | [Read More](https://medium.com/p/bc41a9fde9f2) |
 | Thu, 19 Jun 2025 09:42:56 GMT | Intelligent Data Protection by NextGen2AI: Safeguarding the Future of Digital Innovation | NextGen2AI | [Read More](https://medium.com/p/b175c1b546ec) |
 | Thu, 19 Jun 2025 09:34:58 GMT | Your Kid Might Be Bypassing Screen Time App Limits on macOS Using This Trick | 1day | [Read More](https://medium.com/p/0fed8225bf79) |
-| Thu, 19 Jun 2025 09:33:28 GMT | Essential Security Measures for Your New Website | Functioning Media University | [Read More](https://medium.com/p/cd3f37c72265) |
-| Thu, 19 Jun 2025 09:32:38 GMT | Adversarial Minds: Why We’re Still Getting Hacked by Words? a book about human vulnerabilities. | Kai Aizen - SnailSploit | [Read More](https://medium.com/p/f2069ae4ace7) |
-| Thu, 19 Jun 2025 09:30:50 GMT | The solution | saint david | [Read More](https://medium.com/p/b18c8292e7c8) |
-| Thu, 19 Jun 2025 09:19:01 GMT | Why don’t we have portfolios in cybersecurity? | M H | [Read More](https://medium.com/p/93a26d7f9a7a) |
-| Thu, 19 Jun 2025 09:17:50 GMT | Why are cybersecurity interviews still stuck in the dark ages? | M H | [Read More](https://medium.com/p/3e8a1ab2d984) |
