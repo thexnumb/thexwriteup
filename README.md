@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 16:24:49 GMT | ICS and SCADA Exploitation: Watch Tower : Hack The Box | Tanmay Bhattacharjee | [Read More](https://medium.com/p/5f854f80c5b1) |
+| Thu, 19 Jun 2025 16:21:02 GMT | Haziran 2025’te İran’a Yönelik Dev Siber Saldırı: Nobitex ve Sepah Bank Nasıl Hedef Alındı | Lizi Natroshvili | [Read More](https://medium.com/p/068329cba6eb) |
+| Thu, 19 Jun 2025 16:18:08 GMT | Cybersecurity T-Shirts That Understand the Hacker Lifestyle | TechGeeksApparel | [Read More](https://medium.com/p/cf74c5985c5e) |
+| Thu, 19 Jun 2025 16:06:09 GMT | How to Prevent From Cyber Viruses: Simple Steps to Stay Safe Online | SafeAeon Inc. | [Read More](https://medium.com/p/e1055ba79f88) |
+| Thu, 19 Jun 2025 16:04:00 GMT | The Growing Threat of Deepfake Cyberattacks: Lessons from the BlueNoroff Group | Chetan Seripally | [Read More](https://medium.com/p/0ca13620580f) |
+| Thu, 19 Jun 2025 15:59:27 GMT | EchoLeak: The Zero-Click AI Vulnerability That Shook Microsoft Copilot — Analysis & Lessons | AI Rabbit | [Read More](https://medium.com/p/705dcc04c1e1) |
+| Thu, 19 Jun 2025 15:52:59 GMT | Breaking Monoalphabetic Cipher with Frequency Analysis: Krypton 3 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/be13c236f3e7) |
+| Thu, 19 Jun 2025 15:51:07 GMT | Find Out What ChatGPT Knows About You — And How To Make It Forget | Kajal Sharma | [Read More](https://medium.com/p/edb7d7ade2a1) |
+| Thu, 19 Jun 2025 15:40:21 GMT | Rocteceurope.com - step by step on How I Recover My Money Back | Celia Henríquez | [Read More](https://medium.com/p/a67ae13192b4) |
+| Thu, 19 Jun 2025 15:39:01 GMT | What Is Wave Browser and Should You Be Concerned? | SafeAeon Inc. | [Read More](https://medium.com/p/027b43d5c9f9) |
 | Thu, 19 Jun 2025 15:33:41 GMT | Apple Enabled Quantum Security | Patrick Pallagi | [Read More](https://medium.com/p/4f240e6f6c20) |
 | Thu, 19 Jun 2025 15:31:39 GMT | Yuzu Encryption Keys Are Missing: What It Means and How to Fix It | SafeAeon Inc. | [Read More](https://medium.com/p/eb187e2a1ae2) |
 | Thu, 19 Jun 2025 15:31:03 GMT | Why Do Most Hackers Fail at SSRF Exploitation | Ibtissam hammadi | [Read More](https://medium.com/p/540e1bd6db02) |
@@ -103,13 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 10:20:18 GMT | How does a cloud transformation security service work? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/5ce5fbdbd2f9) |
 | Thu, 19 Jun 2025 10:20:05 GMT | The Cybersecurity Crisis: How AI is Changing the Game in 2025 | Simplenight | [Read More](https://medium.com/p/c938a24f61ea) |
 | Thu, 19 Jun 2025 10:15:33 GMT | The Daily Tech Digest: 19 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9953258c6a91) |
-| Thu, 19 Jun 2025 10:15:28 GMT | I Keep Writing, but No One’s Reading. Should I Just Give Up? | Swapnil Agarwal - The Fit Dev | [Read More](https://medium.com/p/3bef7151db33) |
-| Thu, 19 Jun 2025 10:12:01 GMT | Why Every DevOps Engineer Must Master Vulnerability Databases (Before It’s Too Late!) | Rsprasangi | [Read More](https://medium.com/p/7f6ca428012c) |
-| Thu, 19 Jun 2025 10:11:12 GMT | Global Privacy Control (GPC): The Secret Browser Setting Every Business Needs | SecureSlate | [Read More](https://medium.com/p/21fdb8a0918a) |
-| Thu, 19 Jun 2025 10:11:04 GMT | What Is Cybersecurity? | Rasagnauppula | [Read More](https://medium.com/p/76f7a8691b7f) |
-| Thu, 19 Jun 2025 10:06:37 GMT | What Are PII Dumps? How Your Personal Info Gets Bundled and Sold | Tanzeel Siddiqui | [Read More](https://medium.com/p/338b3b0b79bf) |
-| Thu, 19 Jun 2025 10:03:10 GMT | The Contradictory Craving for Solitude and Validation | Cat Milton | [Read More](https://medium.com/p/c1d96e119475) |
-| Thu, 19 Jun 2025 10:02:56 GMT | ️ Reporting a Vulnerability to the Government of India — My Responsible Disclosure Journey | Anoop P D | [Read More](https://medium.com/p/affe393e9df5) |
-| Thu, 19 Jun 2025 09:51:54 GMT | ⚠️ Critical Linux Vulnerabilities (CVE-2025–6018 & CVE-2025–6019) Allow Root Access Across Major… | Infoziant | [Read More](https://medium.com/p/bc41a9fde9f2) |
-| Thu, 19 Jun 2025 09:42:56 GMT | Intelligent Data Protection by NextGen2AI: Safeguarding the Future of Digital Innovation | NextGen2AI | [Read More](https://medium.com/p/b175c1b546ec) |
-| Thu, 19 Jun 2025 09:34:58 GMT | Your Kid Might Be Bypassing Screen Time App Limits on macOS Using This Trick | 1day | [Read More](https://medium.com/p/0fed8225bf79) |
