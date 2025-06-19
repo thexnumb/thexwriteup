@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 11:33:01 GMT | Publication: Securing the Backbone — Cybersecurity for Critical Infrastructure (ICS/SCADA) | Joseph jr | [Read More](https://medium.com/p/128c59a8ce57) |
+| Thu, 19 Jun 2025 11:31:36 GMT | PDF That Steals Data - The DocDrop Exploit | Jerry Shah (Jerry) | [Read More](https://medium.com/p/03ee20b03b87) |
+| Thu, 19 Jun 2025 11:31:14 GMT | Building Secure from the Start: A Comprehensive DevSecOps Automation Workflow | Ekene Ejike | [Read More](https://medium.com/p/0c52027142bb) |
+| Thu, 19 Jun 2025 11:25:25 GMT | Human-Centered Threats: Deepfakes & Social Engineering in the Age of Deception | Joseph jr | [Read More](https://medium.com/p/ad95c8b53eff) |
+| Thu, 19 Jun 2025 11:22:52 GMT | CyberHeroes Walkthrough: Tryhackme | cyber_girlie | [Read More](https://medium.com/p/1bbfb41a43f1) |
+| Thu, 19 Jun 2025 11:21:40 GMT | Cybersecurity Provider in the Middle East — Help AG | Yasinussf | [Read More](https://medium.com/p/729f81e76a01) |
 | Thu, 19 Jun 2025 11:18:04 GMT | What AI Still Can’t Do — And Maybe Never Will | Hafizbilaltariq | [Read More](https://medium.com/p/25a1407ac514) |
 | Thu, 19 Jun 2025 11:16:02 GMT | In Limbo: A Dev-Hacker Floating in Mid-Graduation Air | John Paul Medrano | [Read More](https://medium.com/p/8447f127b8a8) |
+| Thu, 19 Jun 2025 11:15:01 GMT | The Courage of Vulnerability | Jennifer Ayo | [Read More](https://medium.com/p/f6d609290d0e) |
+| Thu, 19 Jun 2025 11:14:35 GMT | İnternet Ağları Nasıl Çalışır | Ahmet Şimşek | [Read More](https://medium.com/p/8f0dec924100) |
 | Thu, 19 Jun 2025 11:11:59 GMT | Cloud Security & Identity Threat Detection: Safeguarding the Modern Digital Perimeter | Ekene Joseph | [Read More](https://medium.com/p/4c485ae9fba6) |
 | Thu, 19 Jun 2025 11:09:23 GMT | Cracking CySA+: My Study Plan and Exam Experience | Simardeep Singh | [Read More](https://medium.com/p/3ec9de1dd46c) |
 | Thu, 19 Jun 2025 11:06:56 GMT | The Art and Science of Shellcoding in Modern Exploits | The Hackers Meetup | [Read More](https://medium.com/p/da544c8fafdd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 06:22:19 GMT | Roundcube: CVE-2025–49113 | Chetan Chinchulkar | [Read More](https://medium.com/p/22ec9ac88bce) |
 | Thu, 19 Jun 2025 06:21:44 GMT | How to Actually Learn Hacking in 2025–26: A Practical Guide | Vipul Sonule | [Read More](https://medium.com/p/65c6f057f7c6) |
 | Thu, 19 Jun 2025 06:19:36 GMT | ️ 100 Web App Bugs You Should Be Hunting | Swarnim Bandekar | [Read More](https://medium.com/p/6295f78d6880) |
-| Thu, 19 Jun 2025 06:17:47 GMT | When 404 Said No… But I Said Yes — The Curious Case of 404 Bypass! | Muthu | [Read More](https://medium.com/p/0da929caab51) |
-| Thu, 19 Jun 2025 06:15:00 GMT | WormGPT Returns: Why AI Security Must Be a Foundation, Not an Afterthought | Tayyab Bin Tariq | [Read More](https://medium.com/p/ddc58ffd9a9e) |
-| Thu, 19 Jun 2025 06:14:33 GMT | PicoCTF2025 forensics Ph3nt0m 1ntrud3r | Taha Amine | [Read More](https://medium.com/p/4bd97f91ea2f) |
-| Thu, 19 Jun 2025 06:04:20 GMT | What are the best practices for students to learn a cybersecurity course? | EDTECHLearning | [Read More](https://medium.com/p/9d22d733e8ad) |
-| Thu, 19 Jun 2025 06:02:02 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/4059e4015673) |
-| Thu, 19 Jun 2025 06:00:37 GMT | Today’s Top Cyber Intelligence Highlights — Jun 19, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/79389f505dd2) |
-| Thu, 19 Jun 2025 05:49:18 GMT | VPS vs VPN: What’s the Difference and When to Use Each? | R1punjay_Singh | [Read More](https://medium.com/p/1ba44750d89b) |
-| Thu, 19 Jun 2025 05:48:44 GMT | Why Managed Security Services Are Essential for Modern Businesses | Adil | [Read More](https://medium.com/p/bab4be63f512) |
