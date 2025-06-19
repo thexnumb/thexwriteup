@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 05:23:07 GMT | Week 14 Review; Growth, Grit & Gaining Ground in AI and Web 3 | Emmanuel Ngunnzi | [Read More](https://medium.com/p/5f30d0f469e4) |
+| Thu, 19 Jun 2025 05:19:54 GMT | The Unconventional Battlefield: Low-tech attack, High Impact! | Sam | [Read More](https://medium.com/p/5abc1b9971a5) |
 | Thu, 19 Jun 2025 05:06:12 GMT | Why did hackers destroy $90 million in cryptocurrency from Iran’s Nobitex exchange? | Lamidi Idris | [Read More](https://medium.com/p/b9ec1a06d9b2) |
 | Thu, 19 Jun 2025 04:59:51 GMT | I Prompt Engineered ChatGPT Into a Red Team Assistant: A Case Study in Adversarial AI Use | David Milov | [Read More](https://medium.com/p/f46c675f5f87) |
 | Thu, 19 Jun 2025 04:56:32 GMT | RBI Cybersecurity Compliance: A Complete Guide for Financial Institutions | Rinshumishra | [Read More](https://medium.com/p/5b7a43da7f53) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 18:22:30 GMT | When Crypto Gets Political, Nobitex Hack Rocks Iran Amid $81M Breach | CoinGen | [Read More](https://medium.com/p/fdbdbeb9738c) |
 | Wed, 18 Jun 2025 18:18:30 GMT | “Who Let the Pods Out?” | Tarun Agarwal | [Read More](https://medium.com/p/0bdfbf7afd32) |
 | Wed, 18 Jun 2025 18:18:12 GMT | SILENT SCREAM: BREAKING THE STIGMA AROUND MENTAL HEALTH | Fedude Annie | [Read More](https://medium.com/p/471d3ae5d584) |
-| Wed, 18 Jun 2025 18:16:16 GMT | eCIR Exam Review (eCIR vs ECIH) | Adham Hisham | [Read More](https://medium.com/p/2edd97f3c7e8) |
-| Wed, 18 Jun 2025 18:15:47 GMT | Best Security Practices for FileMaker 2025: Protecting Your Data | Jeffrey Henry | [Read More](https://medium.com/p/ce18d6583cf6) |
