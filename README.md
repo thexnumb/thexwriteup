@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 22:39:11 GMT | [TR] Linux Capabilities | Kaan Ekşi | [Read More](https://medium.com/p/cb43d710d54f) |
+| Thu, 19 Jun 2025 22:32:38 GMT | DREAMING WRITEUP : TRYHACKME | rizzziom | [Read More](https://medium.com/p/0c59b26688b3) |
+| Thu, 19 Jun 2025 22:30:14 GMT | Best Practices for Airbnb Hosts Using Keyless Locks | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/498660992d2c) |
+| Thu, 19 Jun 2025 22:20:05 GMT | How To Add Wazuh Agent on Linux Endpoint. | Enitan Ogungbade | [Read More](https://medium.com/p/0bfaec69e172) |
+| Thu, 19 Jun 2025 22:17:34 GMT | TCP vs UDP: What Every Cybersecurity Professional Must Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/f707fef9bb5a) |
 | Thu, 19 Jun 2025 22:13:22 GMT | Based Malware is a Solved Problem. We’re Just Using the Wrong Approach | Rijal s | [Read More](https://medium.com/p/6ec534482ad0) |
 | Thu, 19 Jun 2025 21:58:55 GMT | Offsec Proving Grounds Walkthrough — Monster | Anushka Virgaonkar | [Read More](https://medium.com/p/774a871c6ad7) |
 | Thu, 19 Jun 2025 21:51:05 GMT | 0. | Z1ER0 | [Read More](https://medium.com/p/9cf7d907a311) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 15:40:21 GMT | Rocteceurope.com - step by step on How I Recover My Money Back | Celia Henríquez | [Read More](https://medium.com/p/a67ae13192b4) |
 | Thu, 19 Jun 2025 15:39:01 GMT | What Is Wave Browser and Should You Be Concerned? | SafeAeon Inc. | [Read More](https://medium.com/p/027b43d5c9f9) |
 | Thu, 19 Jun 2025 15:33:41 GMT | Apple Enabled Quantum Security | Patrick Pallagi | [Read More](https://medium.com/p/4f240e6f6c20) |
-| Thu, 19 Jun 2025 15:31:39 GMT | Yuzu Encryption Keys Are Missing: What It Means and How to Fix It | SafeAeon Inc. | [Read More](https://medium.com/p/eb187e2a1ae2) |
-| Thu, 19 Jun 2025 15:31:03 GMT | Why Do Most Hackers Fail at SSRF Exploitation | Ibtissam hammadi | [Read More](https://medium.com/p/540e1bd6db02) |
-| Thu, 19 Jun 2025 15:27:51 GMT | Crowd Management Solutions: Ensuring Safety and Efficiency | Professional UK Services | [Read More](https://medium.com/p/57c47e66a7c3) |
-| Thu, 19 Jun 2025 15:21:44 GMT | The CISO's Dilemma: Proving Cybersecurity ROI in an AI First World | Eric Zietlow | [Read More](https://medium.com/p/cca8ea688805) |
-| Thu, 19 Jun 2025 15:20:34 GMT | Day 30: Troubleshooting | Mikey O. | [Read More](https://medium.com/p/ea79a8d5132c) |
