@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 16:45:04 GMT | Neden Linux, Hackerların Gözdesi? | Mustafa Şen | [Read More](https://medium.com/p/ba6377b81e87) |
+| Thu, 19 Jun 2025 16:35:19 GMT | Getting Started with Risk Management | Cybersecurity Compliance Without Bullshit (CCWB) | [Read More](https://medium.com/p/c6fbc4a345b3) |
+| Thu, 19 Jun 2025 16:31:30 GMT | I Told Myself I Could Handle It | A.Lneria | [Read More](https://medium.com/p/24d318792e88) |
 | Thu, 19 Jun 2025 16:24:49 GMT | ICS and SCADA Exploitation: Watch Tower : Hack The Box | Tanmay Bhattacharjee | [Read More](https://medium.com/p/5f854f80c5b1) |
+| Thu, 19 Jun 2025 16:22:08 GMT | AT&T (Amerikan Telefon ve Telgraf) Hacklendi: 88 Milyon Müşteri Verisi Dark Web’de! | Lizi Natroshvili | [Read More](https://medium.com/p/bb3fbea43b13) |
 | Thu, 19 Jun 2025 16:21:02 GMT | Haziran 2025’te İran’a Yönelik Dev Siber Saldırı: Nobitex ve Sepah Bank Nasıl Hedef Alındı | Lizi Natroshvili | [Read More](https://medium.com/p/068329cba6eb) |
 | Thu, 19 Jun 2025 16:18:08 GMT | Cybersecurity T-Shirts That Understand the Hacker Lifestyle | TechGeeksApparel | [Read More](https://medium.com/p/cf74c5985c5e) |
 | Thu, 19 Jun 2025 16:06:09 GMT | How to Prevent From Cyber Viruses: Simple Steps to Stay Safe Online | SafeAeon Inc. | [Read More](https://medium.com/p/e1055ba79f88) |
@@ -109,7 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 10:34:01 GMT | How I Solved Level 5, 6 and 7 of the Gandalf AI Challenge | SV | [Read More](https://medium.com/p/2349df44d031) |
 | Thu, 19 Jun 2025 10:32:09 GMT | Understanding LLM Vulnerabilities | Ravi Sankar Uppala | [Read More](https://medium.com/p/6bed9d0422cd) |
 | Thu, 19 Jun 2025 10:28:50 GMT | Cryptographic Agility: The Security Principle Most Teams Overlook— Until It’s Too Late | StackSnacker | [Read More](https://medium.com/p/76efa16bbef9) |
-| Thu, 19 Jun 2025 10:28:14 GMT | Your Windows events can be leaking credentials (or more) | Guillermo Pineda | [Read More](https://medium.com/p/1e72ea5e78fa) |
-| Thu, 19 Jun 2025 10:20:18 GMT | How does a cloud transformation security service work? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/5ce5fbdbd2f9) |
-| Thu, 19 Jun 2025 10:20:05 GMT | The Cybersecurity Crisis: How AI is Changing the Game in 2025 | Simplenight | [Read More](https://medium.com/p/c938a24f61ea) |
-| Thu, 19 Jun 2025 10:15:33 GMT | The Daily Tech Digest: 19 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/9953258c6a91) |
