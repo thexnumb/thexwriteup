@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 18:20:13 GMT | ️ How to Create a Password You Can Remember (But Hackers Can’t Guess) | Tech Made Simple By NTi | [Read More](https://medium.com/p/d81e44d80537) |
+| Thu, 19 Jun 2025 18:05:15 GMT | From Using Bots to Building One | PanicAtTheKernel | [Read More](https://medium.com/p/32b2ca0c350f) |
+| Thu, 19 Jun 2025 18:02:44 GMT | The Centurion’s Lens: OSINT, Positioning, and the Power of Knowing | Malik Vero | [Read More](https://medium.com/p/a255ffe9693f) |
+| Thu, 19 Jun 2025 17:59:05 GMT | ⚠️Temporal Dead Zone: A Real-Life Bug You Didn’t Know You Wrote | SANDHYA MEHTELE | [Read More](https://medium.com/p/ba116b748199) |
+| Thu, 19 Jun 2025 17:56:40 GMT | 10 Funny Hacker T-Shirts Only Cybersecurity Pros Will Truly Get | TechGeeksApparel | [Read More](https://medium.com/p/ca25de55914e) |
+| Thu, 19 Jun 2025 17:53:03 GMT | Not an Ally | Yvette Soulle | [Read More](https://medium.com/p/687675c395ca) |
+| Thu, 19 Jun 2025 17:51:18 GMT | Empty Shelves, Hidden Threats: The Silent Cyber War on Our Food Supply | Siva Gunasekaran | [Read More](https://medium.com/p/213892b4ed08) |
 | Thu, 19 Jun 2025 17:37:29 GMT | Oil, Data, and Cyber Wars: The Israel-Iran Crisis and the Blueprint for 21st Century Power | NaveeeN Chendra | [Read More](https://medium.com/p/bc6644668c5f) |
 | Thu, 19 Jun 2025 17:36:08 GMT | Learn Android and Android Hacking | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/c88e1419b5c2) |
 | Thu, 19 Jun 2025 17:34:09 GMT | escaping the “double-quoted” life | amidst | [Read More](https://medium.com/p/555972eb6118) |
@@ -106,10 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 11:33:01 GMT | Publication: Securing the Backbone — Cybersecurity for Critical Infrastructure (ICS/SCADA) | Joseph jr | [Read More](https://medium.com/p/128c59a8ce57) |
 | Thu, 19 Jun 2025 11:31:36 GMT | PDF That Steals Data - The DocDrop Exploit | Jerry Shah (Jerry) | [Read More](https://medium.com/p/03ee20b03b87) |
 | Thu, 19 Jun 2025 11:31:14 GMT | Building Secure from the Start: A Comprehensive DevSecOps Automation Workflow | Ekene Ejike | [Read More](https://medium.com/p/0c52027142bb) |
-| Thu, 19 Jun 2025 11:25:25 GMT | Human-Centered Threats: Deepfakes & Social Engineering in the Age of Deception | Joseph jr | [Read More](https://medium.com/p/ad95c8b53eff) |
-| Thu, 19 Jun 2025 11:22:52 GMT | CyberHeroes Walkthrough: Tryhackme | cyber_girlie | [Read More](https://medium.com/p/1bbfb41a43f1) |
-| Thu, 19 Jun 2025 11:21:40 GMT | Cybersecurity Provider in the Middle East — Help AG | Yasinussf | [Read More](https://medium.com/p/729f81e76a01) |
-| Thu, 19 Jun 2025 11:18:04 GMT | What AI Still Can’t Do — And Maybe Never Will | Hafizbilaltariq | [Read More](https://medium.com/p/25a1407ac514) |
-| Thu, 19 Jun 2025 11:16:02 GMT | In Limbo: A Dev-Hacker Floating in Mid-Graduation Air | John Paul Medrano | [Read More](https://medium.com/p/8447f127b8a8) |
-| Thu, 19 Jun 2025 11:15:01 GMT | The Courage of Vulnerability | Jennifer Ayo | [Read More](https://medium.com/p/f6d609290d0e) |
-| Thu, 19 Jun 2025 11:14:35 GMT | İnternet Ağları Nasıl Çalışır | Ahmet Şimşek | [Read More](https://medium.com/p/8f0dec924100) |
