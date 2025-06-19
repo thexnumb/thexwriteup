@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 20:12:27 GMT | Types of Security Services in the UK — Which One Do You Need? | waeventservices.co.uk/ | [Read More](https://medium.com/p/a4c26f264ba9) |
+| Thu, 19 Jun 2025 20:04:49 GMT | EchoLeak: The First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365… | SoumayaJoshi | [Read More](https://medium.com/p/59242c344b1e) |
+| Thu, 19 Jun 2025 20:03:53 GMT | Implementing Shift-Left Security: A Practical DevSecOps Guide | Cesar Schneider | [Read More](https://medium.com/p/8ca1c9666052) |
+| Thu, 19 Jun 2025 20:00:44 GMT | Revolutionizing Remote Collaboration: The Yonda Experience | Yonda | [Read More](https://medium.com/p/598ca000ebd7) |
+| Thu, 19 Jun 2025 19:56:01 GMT | Daily Bugle writeup — TryHacke | 0xH1S | [Read More](https://medium.com/p/6310b617434b) |
+| Thu, 19 Jun 2025 19:54:03 GMT | Calling All Cybersecurity Champions: Conquering Computer Viruses | CFE Consultancy Services | [Read More](https://medium.com/p/fa8f107acac0) |
+| Thu, 19 Jun 2025 19:52:16 GMT | Visibility and Governance of Generative AI Apps | anthony k | [Read More](https://medium.com/p/0901cdfa1b6e) |
+| Thu, 19 Jun 2025 19:49:19 GMT | OpenNetAdmin 18.1.1 — Remote Code Execution (Exploit-DB 47691) | CyberQuestor | [Read More](https://medium.com/p/7c25c9b0ea68) |
+| Thu, 19 Jun 2025 19:48:56 GMT | Video Auditing Explained: Improve Operational Efficiency at Your Business | Karson Corbitt | [Read More](https://medium.com/p/2d8c55d36d43) |
+| Thu, 19 Jun 2025 19:39:26 GMT | When a .url File Can Own You — CVE-2025–33053 Explained | Janindu Dissanayake | [Read More](https://medium.com/p/e8d5a489a0f5) |
 | Thu, 19 Jun 2025 19:38:01 GMT | Attacking Email Services | Fatimahasan | [Read More](https://medium.com/p/ab69e2dd5e86) |
 | Thu, 19 Jun 2025 19:33:41 GMT | Reference Architecture for Team AI Productivity | Matt Eland | [Read More](https://medium.com/p/8e4af63e3249) |
 | Thu, 19 Jun 2025 19:27:09 GMT | ️‍️Así analizo CORREOS, USUARIOS, TELÉFONO, DATOS FILTRADOS y PERFILES DIGITALES con… | D4nYeD | [Read More](https://medium.com/p/0bda424d7ff6) |
@@ -103,13 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 14:00:40 GMT | Cyber Briefing: 2025.06.19 | CyberMaterial | [Read More](https://medium.com/p/554e1e542f08) |
 | Thu, 19 Jun 2025 13:54:08 GMT | Station Surveillance Robots | Presslink Media | [Read More](https://medium.com/p/e3aa3224981e) |
 | Thu, 19 Jun 2025 13:44:16 GMT | YOU ARE IN A TRAP. EVERYONE LEAVES YOU, EVEN YOU CLOSE ONE! DON’T WORRY, THIS ONE ALWAYS HELPS YOU. | Jacksonjhon | [Read More](https://medium.com/p/a3926d9672e4) |
-| Thu, 19 Jun 2025 13:43:58 GMT | Uncovering IAM Blindspots in Google Cloud | Sandeep Agarwal | [Read More](https://medium.com/p/cd584d5f7785) |
-| Thu, 19 Jun 2025 13:42:13 GMT | Handling password-protected PDFs in Javascript | John Pagley | [Read More](https://medium.com/p/f966aa3080dc) |
-| Thu, 19 Jun 2025 13:40:53 GMT | EN 18031 & RED Cybersecurity: A Comprehensive Guide for Manufacturers | Florian Theis | [Read More](https://medium.com/p/daf691155d79) |
-| Thu, 19 Jun 2025 13:39:06 GMT | Mengenal Serangan Phishing: Panduan Keamanan Siber untuk Pemula | Rayasatriatama | [Read More](https://medium.com/p/526b87ad4d82) |
-| Thu, 19 Jun 2025 13:37:03 GMT | Keycloak: The IAM Solution That Keeps You Sane (and Your Hair Intact!) | Mohit Vijay | [Read More](https://medium.com/p/b11da5f2bc79) |
-| Thu, 19 Jun 2025 13:35:33 GMT | ️ How I Got Acknowledged by the Government of Karnataka for Reporting a Public Data Exposure —… | Uday | [Read More](https://medium.com/p/c7037e4a8411) |
-| Thu, 19 Jun 2025 13:32:39 GMT | Videos of Three CWE-Focused Sessions from “VulnCon 2025 Now Available” | CWE Program | [Read More](https://medium.com/p/ed2057a8f341) |
-| Thu, 19 Jun 2025 13:27:16 GMT | AI Device Risk Summary Demo - Threat Protection - Risk Scoring - Malware Detection - Android & iOS | Talsec | [Read More](https://medium.com/p/5c45fcf32418) |
-| Thu, 19 Jun 2025 13:15:59 GMT | Choosing a Cloud Provider for Fintech: Security, Compliance & Beyond | Dave Seth | [Read More](https://medium.com/p/443a13139696) |
-| Thu, 19 Jun 2025 13:08:27 GMT | Bug Bounty Findings: Unauthorized Addition of Shipping Addresses and Shopping Carts via CSRF | Medusa | [Read More](https://medium.com/p/f62d88071dd6) |
