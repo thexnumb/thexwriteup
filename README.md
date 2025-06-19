@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 13:32:39 GMT | Videos of Three CWE-Focused Sessions from “VulnCon 2025 Now Available” | CWE Program | [Read More](https://medium.com/p/ed2057a8f341) |
+| Thu, 19 Jun 2025 13:27:16 GMT | AI Device Risk Summary Demo - Threat Protection - Risk Scoring - Malware Detection - Android & iOS | Talsec | [Read More](https://medium.com/p/5c45fcf32418) |
+| Thu, 19 Jun 2025 13:15:59 GMT | Choosing a Cloud Provider for Fintech: Security, Compliance & Beyond | Dave Seth | [Read More](https://medium.com/p/443a13139696) |
+| Thu, 19 Jun 2025 13:08:27 GMT | Bug Bounty Findings: Unauthorized Addition of Shipping Addresses and Shopping Carts via CSRF | Medusa | [Read More](https://medium.com/p/f62d88071dd6) |
+| Thu, 19 Jun 2025 13:04:31 GMT | Does Over-Securing Really Exist in Cybersecurity? | Timsux Wales | [Read More](https://medium.com/p/e855a3dcc3c3) |
+| Thu, 19 Jun 2025 13:01:33 GMT | Your First Time | Leigh (Gal) Marlar | [Read More](https://medium.com/p/83987b2f7d21) |
+| Thu, 19 Jun 2025 12:59:00 GMT | How Angular Pipes and HTTP Services Can Quietly Leak All Your Data | Herbert Moroni Gois | [Read More](https://medium.com/p/406fee951eaa) |
+| Thu, 19 Jun 2025 12:58:19 GMT | Unlocking the Power of Curve25519, Ed25519 & X25519: The Modern Pillars of Secure and High-Speed… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a3daefbad0a4) |
+| Thu, 19 Jun 2025 12:57:33 GMT | Security+ SY0–701 — Week 4 Recap | Jason Junior Boderebe | [Read More](https://medium.com/p/71bbe2790c10) |
+| Thu, 19 Jun 2025 12:47:42 GMT | Day 26: Operating Systems | Nile Okomo | [Read More](https://medium.com/p/6726b932f33c) |
+| Thu, 19 Jun 2025 12:43:24 GMT | Volatility Essentials — TryHackMe Write-up | Cismohamed | [Read More](https://medium.com/p/6613ed506041) |
+| Thu, 19 Jun 2025 12:36:37 GMT | Introduction: | Signpostcelfon Intech | [Read More](https://medium.com/p/1d7c65ee51b7) |
+| Thu, 19 Jun 2025 12:36:22 GMT | The Essentials of Vulnerability Management: Protecting Your Digital Assets | Sasikala S | [Read More](https://medium.com/p/6db30933b7ef) |
+| Thu, 19 Jun 2025 12:35:59 GMT | SSRF to Access Redis and Retrieve Admin Token | O. | [Read More](https://medium.com/p/0e22af094709) |
 | Thu, 19 Jun 2025 12:34:17 GMT | Bug Bounty Course in Delhi, India [2025] | Manisha Chaudhary | [Read More](https://medium.com/p/cb11184d930d) |
 | Thu, 19 Jun 2025 12:31:34 GMT | Day 3/30 The Ultimate Guide to Detecting Malware with Wireshark | Cyphersilhouette | [Read More](https://medium.com/p/eb123b0e5055) |
 | Thu, 19 Jun 2025 12:27:19 GMT | When Luxury Meets Vulnerability: Analyzing the Dior, Adidas, Victoria’s Secret, and Cartier Data… | Zuri | [Read More](https://medium.com/p/7c800fd389bc) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 07:39:47 GMT | what should I do to recover my money from CoinMate ? | Glenn Wayne | [Read More](https://medium.com/p/40b3e453fb3b) |
 | Thu, 19 Jun 2025 07:35:47 GMT | Top 10 Signs You Need a Security Company Now | United Guard Force India | [Read More](https://medium.com/p/9564ca4c0d8a) |
 | Thu, 19 Jun 2025 07:33:55 GMT | Windows Internals: Core Processes | Sle3pyHead ‍ | [Read More](https://medium.com/p/748ec7d65b1b) |
-| Thu, 19 Jun 2025 07:33:32 GMT | Bitvenus reviews: how do I get my money back from Bitvenus | Sinclair Jons | [Read More](https://medium.com/p/c934ed940707) |
-| Thu, 19 Jun 2025 07:32:51 GMT | VPN Connected But Internet Not Working on Mobile? | Digimad.online | [Read More](https://medium.com/p/8e2219b149ec) |
-| Thu, 19 Jun 2025 07:30:55 GMT | A New Dawn in Cybersecurity: Welcome to the Quantum-robust Cloud | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e61f52575e8e) |
-| Thu, 19 Jun 2025 07:27:28 GMT | Defeating Nation-State-Grade DDoS Attacks with Honeypots and Sinkholes: A Strategic Guide for… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/964a2e8a1cea) |
-| Thu, 19 Jun 2025 07:23:49 GMT | Microsoft Is Deleting Your Saved Passwords — Here’s What You Need to Know | TheReviewHive | [Read More](https://medium.com/p/3865f9414a13) |
-| Thu, 19 Jun 2025 07:19:58 GMT | Cybersecurity Best Practices to Secure Remote Workers | Amna Aslam | [Read More](https://medium.com/p/605802b910b2) |
-| Thu, 19 Jun 2025 07:18:25 GMT | Encryption: Your First Line of Defense in the Age of Cybersecurity Threats | Adil | [Read More](https://medium.com/p/7c5937547ca1) |
-| Thu, 19 Jun 2025 07:15:39 GMT | Design QA: The Final Step That Brings Your Design to Life | Pakhi Mangal | [Read More](https://medium.com/p/58d01b62cbaf) |
-| Thu, 19 Jun 2025 07:09:46 GMT | BlackWidow The Best Hacking USB | err0rgod | [Read More](https://medium.com/p/ae484770bdec) |
-| Thu, 19 Jun 2025 07:09:20 GMT | Securing the Future: A Comprehensive Security Assessment Checklist for AI Applications | Jitendar Singh | [Read More](https://medium.com/p/973854bc59fb) |
-| Thu, 19 Jun 2025 07:08:21 GMT | Why Mobile App Security Deserves a Front Seat | Shaheen Ahamed S | [Read More](https://medium.com/p/e24d82a78219) |
-| Thu, 19 Jun 2025 07:03:25 GMT | Aadhaar Number: Cyber Crime Hub for Scammers and Fraudsters — How Digital Identity shall Fix this… | Ravi Rose | [Read More](https://medium.com/p/2c077801ce43) |
-| Thu, 19 Jun 2025 07:02:02 GMT | Stop Giving Apps Access to Your Gmail — Do This Now | Jack of Everything | [Read More](https://medium.com/p/ee439c15a5f1) |
-| Thu, 19 Jun 2025 07:01:43 GMT | Increasing SIEM Efficiency with Log Normalization Techniques | Esra Kayhan | [Read More](https://medium.com/p/bf3d2be3319c) |
