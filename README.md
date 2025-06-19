@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 15:20:34 GMT | Day 30: Troubleshooting | Mikey O. | [Read More](https://medium.com/p/ea79a8d5132c) |
+| Thu, 19 Jun 2025 15:16:35 GMT | A Jar Full of Trouble: Why pickle.loads() is inherently insecure | Marshall Humble | [Read More](https://medium.com/p/1d8ba0f516c1) |
+| Thu, 19 Jun 2025 15:15:26 GMT | Building a FIPS-Compliant Python Container | Marshall Humble | [Read More](https://medium.com/p/c389bb8465c4) |
+| Thu, 19 Jun 2025 15:13:12 GMT | DOM XSS and JavaScript Logic: Escaping HTML ≠ Escaping Danger | Marshall Humble | [Read More](https://medium.com/p/9d6de6b406e5) |
+| Thu, 19 Jun 2025 15:13:02 GMT | Cross-Origin Data Exposure via Misconfigured Jetpack Endpoint on redacted.fb.com | Gouri Sankar A | [Read More](https://medium.com/p/252f281ce74f) |
+| Thu, 19 Jun 2025 15:02:54 GMT | TryHackMe - Tooling via Browser Automation - WriteUp | Axoloth | [Read More](https://medium.com/p/d2bb7dfad649) |
+| Thu, 19 Jun 2025 15:01:44 GMT | 4 Crucial Steps to Protect Your Business from Subdomain Takeovers | PCnet | [Read More](https://medium.com/p/26570d5077eb) |
+| Thu, 19 Jun 2025 15:01:42 GMT | Data Forensics and Compliance: How Cloud Services in Ontario, CA Close the Gaps | Zeta Sky | [Read More](https://medium.com/p/803c2778a227) |
+| Thu, 19 Jun 2025 14:58:15 GMT | From Thinking to Doing | Animesh Srivastava | [Read More](https://medium.com/p/92dac463f8a4) |
+| Thu, 19 Jun 2025 14:53:14 GMT | Getting Started in Bug Bounty: Tips for Beginners | Andrei Ivan | [Read More](https://medium.com/p/71a4edee8495) |
+| Thu, 19 Jun 2025 14:49:45 GMT | How do I get my money back from Global Finance Limited. | Maja Vuksanović | [Read More](https://medium.com/p/09693290a31d) |
+| Thu, 19 Jun 2025 14:44:03 GMT | AV & EDR Bypass Techniques (Part 2): Real-World Tricks Hackers Use to Stay Undetected | Very Lazy Tech | [Read More](https://medium.com/p/901a422afc11) |
+| Thu, 19 Jun 2025 14:42:17 GMT | The Mysterious /course/course/ Error — A Django Developer’s Debug Journey | Tanish Dewase | [Read More](https://medium.com/p/9452702c357a) |
+| Thu, 19 Jun 2025 14:41:22 GMT | How Are Bug Bounty Rewards Determined? | Andrei Ivan | [Read More](https://medium.com/p/de9d95ad712b) |
 | Thu, 19 Jun 2025 14:34:26 GMT | Internal CTF | Daxilox | [Read More](https://medium.com/p/bc2a0f80ed8e) |
 | Thu, 19 Jun 2025 14:32:56 GMT | Bug Bounty vs. Responsible Disclosure: What’s the Difference? | Andrei Ivan | [Read More](https://medium.com/p/c66e28b57a27) |
 | Thu, 19 Jun 2025 14:31:50 GMT | THM — Intro to Logs | Shamar Isaac | [Read More](https://medium.com/p/ccb09fad1568) |
@@ -99,17 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 09:30:50 GMT | The solution | saint david | [Read More](https://medium.com/p/b18c8292e7c8) |
 | Thu, 19 Jun 2025 09:19:01 GMT | Why don’t we have portfolios in cybersecurity? | M H | [Read More](https://medium.com/p/93a26d7f9a7a) |
 | Thu, 19 Jun 2025 09:17:50 GMT | Why are cybersecurity interviews still stuck in the dark ages? | M H | [Read More](https://medium.com/p/3e8a1ab2d984) |
-| Thu, 19 Jun 2025 09:16:26 GMT | “Communications is often meritocratic: if you’re good, you will be asked to do more (whatever your… | M H | [Read More](https://medium.com/p/ea71ecd39f06) |
-| Thu, 19 Jun 2025 09:12:36 GMT | From Crashes to Confidence: How Project 7 Taught Me to Think Like a Cybersecurity Engineer | Varnith | [Read More](https://medium.com/p/7d684b0e56e4) |
-| Thu, 19 Jun 2025 09:11:19 GMT | The Man Who Tried to Build Everything | Bytewords | [Read More](https://medium.com/p/79fb8e9ae639) |
-| Thu, 19 Jun 2025 09:06:02 GMT | TAILS Tutorial with a Cyberpunk Twist | Aren Redd | [Read More](https://medium.com/p/560e1a355dea) |
-| Thu, 19 Jun 2025 09:01:41 GMT | Boost Strategy With Smarter GRC | Harry West | [Read More](https://medium.com/p/b471b58b3acb) |
-| Thu, 19 Jun 2025 08:56:59 GMT | Spend on Cybersecurity In Singapore and Southeast Asia | Amaira dutta | [Read More](https://medium.com/p/625f0c2b425a) |
-| Thu, 19 Jun 2025 08:46:15 GMT | A Billion-Dollar Company,Brought Down by Programming 101 | Avnessh Kumar | [Read More](https://medium.com/p/5b2c37bc6396) |
-| Thu, 19 Jun 2025 08:45:33 GMT | How Quantum Computing Will Transform IT Consulting | Marketer Jameswill | [Read More](https://medium.com/p/8a401a740eab) |
-| Thu, 19 Jun 2025 08:41:43 GMT | Secure Your Kubernetes Cluster Like a Pro: Step-by-Step Guide with RBAC, Network Policies &… | Surender Gupta | [Read More](https://medium.com/p/5c880e70ce25) |
-| Thu, 19 Jun 2025 08:35:51 GMT | AI in Cybersecurity: What are its pros and cons? | Vinita | [Read More](https://medium.com/p/3213d3b656bd) |
-| Thu, 19 Jun 2025 08:22:21 GMT | Depression Is Not a Sign of Weakness | LucieArt | [Read More](https://medium.com/p/f367b0fbc2d4) |
-| Thu, 19 Jun 2025 08:21:56 GMT | what can I do to recover my money from ViteX ? | Mariah | [Read More](https://medium.com/p/d39a4641bbb0) |
-| Thu, 19 Jun 2025 08:20:45 GMT | Pentesting Simplified — But at What Cost? The KaliGPT Dilemma | Joanorifha | [Read More](https://medium.com/p/4918ab5f8189) |
-| Thu, 19 Jun 2025 08:18:37 GMT | Building a Wiegard MITM Device with ESP07 | Im0nk3yar0und | [Read More](https://medium.com/p/8d94e05e76f6) |
