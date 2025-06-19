@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 07:15:39 GMT | Design QA: The Final Step That Brings Your Design to Life | Pakhi Mangal | [Read More](https://medium.com/p/58d01b62cbaf) |
+| Thu, 19 Jun 2025 07:09:46 GMT | BlackWidow The Best Hacking USB | err0rgod | [Read More](https://medium.com/p/ae484770bdec) |
+| Thu, 19 Jun 2025 07:09:20 GMT | Securing the Future: A Comprehensive Security Assessment Checklist for AI Applications | Jitendar Singh | [Read More](https://medium.com/p/973854bc59fb) |
+| Thu, 19 Jun 2025 07:08:21 GMT | Why Mobile App Security Deserves a Front Seat | Shaheen Ahamed S | [Read More](https://medium.com/p/e24d82a78219) |
+| Thu, 19 Jun 2025 07:03:25 GMT | Aadhaar Number: Cyber Crime Hub for Scammers and Fraudsters — How Digital Identity shall Fix this… | Ravi Rose | [Read More](https://medium.com/p/2c077801ce43) |
+| Thu, 19 Jun 2025 07:02:02 GMT | Stop Giving Apps Access to Your Gmail — Do This Now | Jack of Everything | [Read More](https://medium.com/p/ee439c15a5f1) |
+| Thu, 19 Jun 2025 07:01:43 GMT | Increasing SIEM Efficiency with Log Normalization Techniques | Esra Kayhan | [Read More](https://medium.com/p/bf3d2be3319c) |
+| Thu, 19 Jun 2025 06:58:57 GMT | Building Your Own Linux Shell: A Beginner’s Adventure in C | Arids Wolfgang | [Read More](https://medium.com/p/962d6364c3d8) |
+| Thu, 19 Jun 2025 06:56:31 GMT | What Are We, Really? | Namitha Leelavathi | [Read More](https://medium.com/p/4b107e2cae33) |
+| Thu, 19 Jun 2025 06:50:45 GMT | What Happened to Victoria’s Secret? Inside the 2025 Cyberattack | Zeron | [Read More](https://medium.com/p/45dd12067c2a) |
+| Thu, 19 Jun 2025 06:48:47 GMT | Weaponizing Uninstallers: A Deep Dive | 106_Sam | [Read More](https://medium.com/p/8c52c1e2a6a0) |
+| Thu, 19 Jun 2025 06:46:18 GMT | The Unified Risk Posture: A CISO’s Guide to Quantified Security & Compliance | Zeron | [Read More](https://medium.com/p/cea5c74256ce) |
+| Thu, 19 Jun 2025 06:44:49 GMT | Why Cybersecurity in Garment ERP Systems Is Crucial in 2025 | Absolute ERP | [Read More](https://medium.com/p/3eea6563ae0c) |
+| Thu, 19 Jun 2025 06:32:38 GMT | Thinking on Thoughts: Communication | Mike Sansone | [Read More](https://medium.com/p/512a26b868aa) |
+| Thu, 19 Jun 2025 06:27:53 GMT | Market Games: How Traders Manipulate DeFi Order Books | Evgenii | [Read More](https://medium.com/p/f15b82308cb9) |
 | Thu, 19 Jun 2025 06:22:39 GMT | $33,510 Bounty: Exploiting GitLab’s Hidden Redis Injection | Monika sharma | [Read More](https://medium.com/p/c2639520331b) |
+| Thu, 19 Jun 2025 06:22:19 GMT | Roundcube: CVE-2025–49113 | Chetan Chinchulkar | [Read More](https://medium.com/p/22ec9ac88bce) |
 | Thu, 19 Jun 2025 06:21:44 GMT | How to Actually Learn Hacking in 2025–26: A Practical Guide | Vipul Sonule | [Read More](https://medium.com/p/65c6f057f7c6) |
 | Thu, 19 Jun 2025 06:19:36 GMT | ️ 100 Web App Bugs You Should Be Hunting | Swarnim Bandekar | [Read More](https://medium.com/p/6295f78d6880) |
 | Thu, 19 Jun 2025 06:17:47 GMT | When 404 Said No… But I Said Yes — The Curious Case of 404 Bypass! | Muthu | [Read More](https://medium.com/p/0da929caab51) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 20:22:08 GMT | Day 3/100: Understanding Ports | 0X595 | [Read More](https://medium.com/p/b13c313ff695) |
 | Wed, 18 Jun 2025 20:17:54 GMT | Either You Buy the Product… Or You Are the Product | NaveeeN Chendra | [Read More](https://medium.com/p/0fae7e8cd75b) |
 | Wed, 18 Jun 2025 20:09:02 GMT | SOC Consulting Services for Smarter Cyber Defense | Akshay Chauhan | [Read More](https://medium.com/p/62c1ba5514eb) |
-| Wed, 18 Jun 2025 19:59:26 GMT | APT Attack: What It Is and How to Protect Your Business | SafeAeon Inc. | [Read More](https://medium.com/p/3a618b155c69) |
-| Wed, 18 Jun 2025 19:58:20 GMT | Is Google Dorking Illegal? Know the Legal Risks | Akshay Chauhan | [Read More](https://medium.com/p/ec5095c7add3) |
-| Wed, 18 Jun 2025 19:57:08 GMT | OWASP Top 10 Vulnerability :- | Mainekdeveloper | [Read More](https://medium.com/p/e3c43e318fbb) |
-| Wed, 18 Jun 2025 19:50:54 GMT | State-Sponsored Attackers: What They Are and How You Can Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/31c0b411b78a) |
-| Wed, 18 Jun 2025 19:49:56 GMT | The Growing Importance of Cybersecurity in a Connected World | CtrlAltReflect | [Read More](https://medium.com/p/d666bf3a08a5) |
-| Wed, 18 Jun 2025 19:49:09 GMT | Don’t Rewrite Your Project in Rust — Do This Instead | Jason Thomas | [Read More](https://medium.com/p/c890cba0800a) |
-| Wed, 18 Jun 2025 19:48:49 GMT | Does Anybody Know Me? | Lincoln Grant | [Read More](https://medium.com/p/8a26851eb0f9) |
-| Wed, 18 Jun 2025 19:32:25 GMT | Unmasking BYOD Security Risks: Your Expert Guide from Top IT Support Provider | IT_Engineer | [Read More](https://medium.com/p/b57a793608c6) |
-| Wed, 18 Jun 2025 19:30:07 GMT | IOC Extractor — A Simple Tool for SOC Teams to Export IOCs from PDFs to Excel | Shahrukh Khan | [Read More](https://medium.com/p/b94ab18a32ef) |
-| Wed, 18 Jun 2025 19:29:41 GMT | Decoding Network Mysteries: A Deep Dive into Traffic Analysis with Wireshark | Arham khan | [Read More](https://medium.com/p/8acfd61bc908) |
-| Wed, 18 Jun 2025 19:27:27 GMT | MDM as a Service: Secure, Simplify, and Scale Mobile Device Management | SafeAeon Inc. | [Read More](https://medium.com/p/7fb9500cafcb) |
-| Wed, 18 Jun 2025 19:17:46 GMT | What’s an IP Address Anyway? A Complete Beginner’s Guide | Sourav kumawat | [Read More](https://medium.com/p/6ea78eb1b869) |
-| Wed, 18 Jun 2025 19:14:51 GMT | The Malware Zoo: Spotting the Wildest Threats Online | Shekhar Saxena | [Read More](https://medium.com/p/0053f22cfb4e) |
-| Wed, 18 Jun 2025 19:06:53 GMT | Top 10 Ethical Hacking Projects You Can Build in Your Own Lab | Code With Hannan | [Read More](https://medium.com/p/b1175dc15f32) |
-| Wed, 18 Jun 2025 19:06:00 GMT | Kali Linux Klasörleri | Ahmet Şimşek | [Read More](https://medium.com/p/320449b1460c) |
-| Wed, 18 Jun 2025 19:00:56 GMT | Universities: A Top Target for Phishing | urlDNA | [Read More](https://medium.com/p/820c5439b187) |
