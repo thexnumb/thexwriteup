@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 14:01:50 GMT | Wallet Drainers Are Evolving — Here’s How 0xTeabag Stops Them | 0xTeabag | [Read More](https://medium.com/p/cf2de85c082e) |
+| Thu, 19 Jun 2025 14:00:40 GMT | Cyber Briefing: 2025.06.19 | CyberMaterial | [Read More](https://medium.com/p/554e1e542f08) |
+| Thu, 19 Jun 2025 13:54:08 GMT | Station Surveillance Robots | Presslink Media | [Read More](https://medium.com/p/e3aa3224981e) |
+| Thu, 19 Jun 2025 13:44:16 GMT | YOU ARE IN A TRAP. EVERYONE LEAVES YOU, EVEN YOU CLOSE ONE! DON’T WORRY, THIS ONE ALWAYS HELPS YOU. | Jacksonjhon | [Read More](https://medium.com/p/a3926d9672e4) |
+| Thu, 19 Jun 2025 13:43:58 GMT | Uncovering IAM Blindspots in Google Cloud | Sandeep Agarwal | [Read More](https://medium.com/p/cd584d5f7785) |
+| Thu, 19 Jun 2025 13:42:13 GMT | Handling password-protected PDFs in Javascript | John Pagley | [Read More](https://medium.com/p/f966aa3080dc) |
+| Thu, 19 Jun 2025 13:40:53 GMT | EN 18031 & RED Cybersecurity: A Comprehensive Guide for Manufacturers | Florian Theis | [Read More](https://medium.com/p/daf691155d79) |
+| Thu, 19 Jun 2025 13:37:03 GMT | Keycloak: The IAM Solution That Keeps You Sane (and Your Hair Intact!) | Mohit Vijay | [Read More](https://medium.com/p/b11da5f2bc79) |
+| Thu, 19 Jun 2025 13:35:33 GMT | ️ How I Got Acknowledged by the Government of Karnataka for Reporting a Public Data Exposure —… | Uday | [Read More](https://medium.com/p/c7037e4a8411) |
 | Thu, 19 Jun 2025 13:32:39 GMT | Videos of Three CWE-Focused Sessions from “VulnCon 2025 Now Available” | CWE Program | [Read More](https://medium.com/p/ed2057a8f341) |
 | Thu, 19 Jun 2025 13:27:16 GMT | AI Device Risk Summary Demo - Threat Protection - Risk Scoring - Malware Detection - Android & iOS | Talsec | [Read More](https://medium.com/p/5c45fcf32418) |
 | Thu, 19 Jun 2025 13:15:59 GMT | Choosing a Cloud Provider for Fintech: Security, Compliance & Beyond | Dave Seth | [Read More](https://medium.com/p/443a13139696) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 08:04:13 GMT | Why Learning Cloud Feels Like Learning 10 Tools at Once | Ahanonye  Anna | [Read More](https://medium.com/p/1db5e2fd7e52) |
 | Thu, 19 Jun 2025 08:01:58 GMT | is Bitonic safe or scam platform? | Tone Phillips | [Read More](https://medium.com/p/230d9a7a4043) |
 | Thu, 19 Jun 2025 07:58:48 GMT | Bitonic Reviews: here’s how I withdraw my money from Bitonic | Tone Phillips | [Read More](https://medium.com/p/47e9092548e8) |
-| Thu, 19 Jun 2025 07:57:42 GMT | Parameter Swap Party: When Flipping POST to GET Broke the App | Iski | [Read More](https://medium.com/p/9d4cf3d2de6c) |
-| Thu, 19 Jun 2025 07:57:26 GMT | 10 Best USA Proxy Providers Actually Tested in 2025 | Lucas | [Read More](https://medium.com/p/01799e53fd8e) |
-| Thu, 19 Jun 2025 07:52:28 GMT | The Art of Deception: Social Engineering Attacks, Tools, and Defenses | Darshan | [Read More](https://medium.com/p/7470cc876004) |
-| Thu, 19 Jun 2025 07:50:42 GMT | The Latest Updates to NIST, ISO 27001, and CMMC 2.0 — What You Need to Know | Sennovate | [Read More](https://medium.com/p/e0ec0aef5d92) |
-| Thu, 19 Jun 2025 07:49:21 GMT | Zebpay reviews: here’s how I recover my money from Zebpay | Melissa Gomez | [Read More](https://medium.com/p/efc7d44e6b14) |
-| Thu, 19 Jun 2025 07:43:00 GMT | Fix Weak SSL/TLS Configuration in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/e2fe52508d34) |
-| Thu, 19 Jun 2025 07:39:47 GMT | what should I do to recover my money from CoinMate ? | Glenn Wayne | [Read More](https://medium.com/p/40b3e453fb3b) |
-| Thu, 19 Jun 2025 07:35:47 GMT | Top 10 Signs You Need a Security Company Now | United Guard Force India | [Read More](https://medium.com/p/9564ca4c0d8a) |
-| Thu, 19 Jun 2025 07:33:55 GMT | Windows Internals: Core Processes | Sle3pyHead ‍ | [Read More](https://medium.com/p/748ec7d65b1b) |
