@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 21:24:30 GMT | Weaponized Medical Software | Inforsecpro | [Read More](https://medium.com/p/5bdc9a5ebc65) |
+| Thu, 19 Jun 2025 21:18:52 GMT | The Quantum Revolution: How Tomorrow’s Computers Will Reshape Cryptocurrency | Brendan on Blockchain | [Read More](https://medium.com/p/d44a70b9afd6) |
 | Thu, 19 Jun 2025 20:56:37 GMT | Hacking APIs: Exploit Insecure Deserialization | Israel Aráoz Severiche | [Read More](https://medium.com/p/10335afccde6) |
 | Thu, 19 Jun 2025 20:56:11 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap [Part 2] | Shubhreet Dhaliwal | [Read More](https://medium.com/p/3e61c5866df4) |
 | Thu, 19 Jun 2025 20:55:19 GMT | My Vulnerability Research Highlights | Seth Kraft | [Read More](https://medium.com/p/9195c7f822e6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 15:13:02 GMT | Cross-Origin Data Exposure via Misconfigured Jetpack Endpoint on redacted.fb.com | Gouri Sankar A | [Read More](https://medium.com/p/252f281ce74f) |
 | Thu, 19 Jun 2025 15:02:54 GMT | TryHackMe - Tooling via Browser Automation - WriteUp | Axoloth | [Read More](https://medium.com/p/d2bb7dfad649) |
 | Thu, 19 Jun 2025 15:01:44 GMT | 4 Crucial Steps to Protect Your Business from Subdomain Takeovers | PCnet | [Read More](https://medium.com/p/26570d5077eb) |
-| Thu, 19 Jun 2025 15:01:42 GMT | Data Forensics and Compliance: How Cloud Services in Ontario, CA Close the Gaps | Zeta Sky | [Read More](https://medium.com/p/803c2778a227) |
-| Thu, 19 Jun 2025 14:58:15 GMT | From Thinking to Doing | Animesh Srivastava | [Read More](https://medium.com/p/92dac463f8a4) |
