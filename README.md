@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 20:56:37 GMT | Hacking APIs: Exploit Insecure Deserialization | Israel Aráoz Severiche | [Read More](https://medium.com/p/10335afccde6) |
+| Thu, 19 Jun 2025 20:56:11 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap [Part 2] | Shubhreet Dhaliwal | [Read More](https://medium.com/p/3e61c5866df4) |
+| Thu, 19 Jun 2025 20:55:19 GMT | My Vulnerability Research Highlights | Seth Kraft | [Read More](https://medium.com/p/9195c7f822e6) |
+| Thu, 19 Jun 2025 20:50:40 GMT | ClickHouse Executable Table Abuse by Low Privilege User | Seth Kraft | [Read More](https://medium.com/p/d6729320f4df) |
+| Thu, 19 Jun 2025 20:50:39 GMT | Abuse of Legitimate Tools in Cyberattacks (LOLBins and Living-off-the-Land Techniques) | Akshay Chauhan | [Read More](https://medium.com/p/e7e389143600) |
+| Thu, 19 Jun 2025 20:47:21 GMT | Adding NOPs to shellcode to evade rule-based detection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0cef27c679fa) |
 | Thu, 19 Jun 2025 20:42:36 GMT | Brooklyn Nine-Nine TryHackMe Challenge | musayyab sharif | [Read More](https://medium.com/p/3c815f2138f0) |
 | Thu, 19 Jun 2025 20:36:37 GMT | ✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️ | 0b1d1 | [Read More](https://medium.com/p/a8374b2a25ea) |
 | Thu, 19 Jun 2025 20:32:18 GMT | WebStrike Lab — Cyber Defenders Writeup | JoCo | [Read More](https://medium.com/p/e1c1378dd5b6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 15:01:44 GMT | 4 Crucial Steps to Protect Your Business from Subdomain Takeovers | PCnet | [Read More](https://medium.com/p/26570d5077eb) |
 | Thu, 19 Jun 2025 15:01:42 GMT | Data Forensics and Compliance: How Cloud Services in Ontario, CA Close the Gaps | Zeta Sky | [Read More](https://medium.com/p/803c2778a227) |
 | Thu, 19 Jun 2025 14:58:15 GMT | From Thinking to Doing | Animesh Srivastava | [Read More](https://medium.com/p/92dac463f8a4) |
-| Thu, 19 Jun 2025 14:53:14 GMT | Getting Started in Bug Bounty: Tips for Beginners | Andrei Ivan | [Read More](https://medium.com/p/71a4edee8495) |
-| Thu, 19 Jun 2025 14:49:45 GMT | How do I get my money back from Global Finance Limited. | Maja Vuksanović | [Read More](https://medium.com/p/09693290a31d) |
-| Thu, 19 Jun 2025 14:44:03 GMT | AV & EDR Bypass Techniques (Part 2): Real-World Tricks Hackers Use to Stay Undetected | Very Lazy Tech | [Read More](https://medium.com/p/901a422afc11) |
-| Thu, 19 Jun 2025 14:42:17 GMT | The Mysterious /course/course/ Error — A Django Developer’s Debug Journey | Tanish Dewase | [Read More](https://medium.com/p/9452702c357a) |
-| Thu, 19 Jun 2025 14:41:22 GMT | How Are Bug Bounty Rewards Determined? | Andrei Ivan | [Read More](https://medium.com/p/de9d95ad712b) |
-| Thu, 19 Jun 2025 14:34:26 GMT | Internal CTF | Daxilox | [Read More](https://medium.com/p/bc2a0f80ed8e) |
