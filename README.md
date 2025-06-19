@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 18:38:25 GMT | Optimal VPC Subnetting: High Availability, Security, & Seamless On-Prem Connectivity | Ben Dalton | [Read More](https://medium.com/p/da9937869dc5) |
+| Thu, 19 Jun 2025 18:37:33 GMT | I Built a Real-Time AWS Threat Detector Using GuardDuty — Here’s How It Flagged My Own Kali Attack | AarushGaur | [Read More](https://medium.com/p/d5532180a1d7) |
+| Thu, 19 Jun 2025 18:36:00 GMT | The $100M Crypto Meltdown: Nobitex Source Code Leaked by Hackers | CoinGen | [Read More](https://medium.com/p/ece0d21071dd) |
+| Thu, 19 Jun 2025 18:34:55 GMT | picoCTF WriteUp — Ph4nt0m 1ntrud3r | 40Days | [Read More](https://medium.com/p/b435506ec84d) |
+| Thu, 19 Jun 2025 18:34:09 GMT | Kali Lunix VPN/DNS Kullanımı | Ahmet Şimşek | [Read More](https://medium.com/p/0678ed0d6ed8) |
+| Thu, 19 Jun 2025 18:34:08 GMT | White House Security Systems | Aria | [Read More](https://medium.com/p/a4088013797a) |
+| Thu, 19 Jun 2025 18:33:21 GMT | How to Automate Malicious IP Checking with AbuseIPDB API Using Python | MinHlaingOo | [Read More](https://medium.com/p/7f5778e96f0f) |
+| Thu, 19 Jun 2025 18:31:41 GMT | ¿Qué ataques a las contraseñas existen y cómo pueden prevenirse? | Tiziano Mass | [Read More](https://medium.com/p/2c29c9bc5610) |
+| Thu, 19 Jun 2025 18:30:40 GMT | Spiritual Mimicry: Why Covert Narcissists Infiltrate Mindfulness Communities (And How to Spot Them) | Huzaifa Awan | [Read More](https://medium.com/p/0394258453f6) |
+| Thu, 19 Jun 2025 18:30:11 GMT | The Largest DATA BREACH Ever: How 16 Billion Passwords Got Out and How to Protect Yourself | Vidusha Sanidu | [Read More](https://medium.com/p/285a31416179) |
+| Thu, 19 Jun 2025 18:26:56 GMT | Carnage Room- TryHackMe - Wireshark | Dhwanit Pandya | [Read More](https://medium.com/p/20738a8675e1) |
+| Thu, 19 Jun 2025 18:25:49 GMT | The Silent Killer of Innovation: When Speed Becomes the Enemy | Lakshika | [Read More](https://medium.com/p/4620fcc9dd00) |
 | Thu, 19 Jun 2025 18:20:13 GMT | ️ How to Create a Password You Can Remember (But Hackers Can’t Guess) | Tech Made Simple By NTi | [Read More](https://medium.com/p/d81e44d80537) |
+| Thu, 19 Jun 2025 18:17:42 GMT | AI in Testing is Cool, But Here’s What No One Tells You About Test Data | Lakshika | [Read More](https://medium.com/p/7705495cf9fb) |
 | Thu, 19 Jun 2025 18:05:15 GMT | From Using Bots to Building One | PanicAtTheKernel | [Read More](https://medium.com/p/32b2ca0c350f) |
 | Thu, 19 Jun 2025 18:02:44 GMT | The Centurion’s Lens: OSINT, Positioning, and the Power of Knowing | Malik Vero | [Read More](https://medium.com/p/a255ffe9693f) |
 | Thu, 19 Jun 2025 17:59:05 GMT | ⚠️Temporal Dead Zone: A Real-Life Bug You Didn’t Know You Wrote | SANDHYA MEHTELE | [Read More](https://medium.com/p/ba116b748199) |
@@ -81,6 +94,7 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 13:43:58 GMT | Uncovering IAM Blindspots in Google Cloud | Sandeep Agarwal | [Read More](https://medium.com/p/cd584d5f7785) |
 | Thu, 19 Jun 2025 13:42:13 GMT | Handling password-protected PDFs in Javascript | John Pagley | [Read More](https://medium.com/p/f966aa3080dc) |
 | Thu, 19 Jun 2025 13:40:53 GMT | EN 18031 & RED Cybersecurity: A Comprehensive Guide for Manufacturers | Florian Theis | [Read More](https://medium.com/p/daf691155d79) |
+| Thu, 19 Jun 2025 13:39:06 GMT | Mengenal Serangan Phishing: Panduan Keamanan Siber untuk Pemula | Rayasatriatama | [Read More](https://medium.com/p/526b87ad4d82) |
 | Thu, 19 Jun 2025 13:37:03 GMT | Keycloak: The IAM Solution That Keeps You Sane (and Your Hair Intact!) | Mohit Vijay | [Read More](https://medium.com/p/b11da5f2bc79) |
 | Thu, 19 Jun 2025 13:35:33 GMT | ️ How I Got Acknowledged by the Government of Karnataka for Reporting a Public Data Exposure —… | Uday | [Read More](https://medium.com/p/c7037e4a8411) |
 | Thu, 19 Jun 2025 13:32:39 GMT | Videos of Three CWE-Focused Sessions from “VulnCon 2025 Now Available” | CWE Program | [Read More](https://medium.com/p/ed2057a8f341) |
@@ -99,17 +113,3 @@ A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a
 | Thu, 19 Jun 2025 12:36:22 GMT | The Essentials of Vulnerability Management: Protecting Your Digital Assets | Sasikala S | [Read More](https://medium.com/p/6db30933b7ef) |
 | Thu, 19 Jun 2025 12:35:59 GMT | SSRF to Access Redis and Retrieve Admin Token | O. | [Read More](https://medium.com/p/0e22af094709) |
 | Thu, 19 Jun 2025 12:34:17 GMT | Bug Bounty Course in Delhi, India [2025] | Manisha Chaudhary | [Read More](https://medium.com/p/cb11184d930d) |
-| Thu, 19 Jun 2025 12:31:34 GMT | Day 3/30 The Ultimate Guide to Detecting Malware with Wireshark | Cyphersilhouette | [Read More](https://medium.com/p/eb123b0e5055) |
-| Thu, 19 Jun 2025 12:27:19 GMT | When Luxury Meets Vulnerability: Analyzing the Dior, Adidas, Victoria’s Secret, and Cartier Data… | Zuri | [Read More](https://medium.com/p/7c800fd389bc) |
-| Thu, 19 Jun 2025 12:25:40 GMT | Are you OpSecxually active? | Mitch - Contango | [Read More](https://medium.com/p/d23b19b2e3f1) |
-| Thu, 19 Jun 2025 12:16:56 GMT | The Largest Credential Breach in History: 16 Billion Stolen Passwords and What You Must Do Now | Technijian | [Read More](https://medium.com/p/268f8175fa98) |
-| Thu, 19 Jun 2025 12:14:18 GMT | The Old Internet Is Dying — And No One Is Noticing | Hafizbilaltariq | [Read More](https://medium.com/p/1ebeb3eebe0f) |
-| Thu, 19 Jun 2025 11:54:24 GMT | 8 Essential Ethical Hacking Tools Every Beginner Should Master | Appin Technology Lab | [Read More](https://medium.com/p/456edd88d3ff) |
-| Thu, 19 Jun 2025 11:50:39 GMT | Simple Tehniques to get Sensitive Data | Hadi Kusuma | [Read More](https://medium.com/p/236f1f448f2e) |
-| Thu, 19 Jun 2025 11:47:02 GMT | Monero: Why It May Fall Short as a Money Laundering Tool | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/457e0fd79f94) |
-| Thu, 19 Jun 2025 11:44:54 GMT | MARVICK Security: Vertrauen, Innovation und kompromisslose Sicherheit in München | Marvick Security | [Read More](https://medium.com/p/214c98167bd6) |
-| Thu, 19 Jun 2025 11:38:55 GMT | KaliGPT: The AI-Powered Offensive Security Assistant for Ethical Hackers | Joseph jr | [Read More](https://medium.com/p/8dc2a2c3609a) |
-| Thu, 19 Jun 2025 11:34:59 GMT | How Your Phone Is Always Listening — And What It’s Doing With That Info | Hafizbilaltariq | [Read More](https://medium.com/p/89245650cd6d) |
-| Thu, 19 Jun 2025 11:33:01 GMT | Publication: Securing the Backbone — Cybersecurity for Critical Infrastructure (ICS/SCADA) | Joseph jr | [Read More](https://medium.com/p/128c59a8ce57) |
-| Thu, 19 Jun 2025 11:31:36 GMT | PDF That Steals Data - The DocDrop Exploit | Jerry Shah (Jerry) | [Read More](https://medium.com/p/03ee20b03b87) |
-| Thu, 19 Jun 2025 11:31:14 GMT | Building Secure from the Start: A Comprehensive DevSecOps Automation Workflow | Ekene Ejike | [Read More](https://medium.com/p/0c52027142bb) |
