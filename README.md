@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 08:21:56 GMT | what can I do to recover my money from ViteX ? | Mariah | [Read More](https://medium.com/p/d39a4641bbb0) |
+| Thu, 19 Jun 2025 08:20:45 GMT | Pentesting Simplified — But at What Cost? The KaliGPT Dilemma | Joanorifha | [Read More](https://medium.com/p/4918ab5f8189) |
+| Thu, 19 Jun 2025 08:17:33 GMT | অফিস নিরাপত্তায় Magnetic Lock ও ফিঙ্গারপ্রিন্ট ডিভাইস F18 Access Control সিস্টেম ইনস্টলেশন | optimationbd | [Read More](https://medium.com/p/b9d051dd51bb) |
+| Thu, 19 Jun 2025 08:10:46 GMT | is it possible to recover my money from CoinFalcon ? | Victoria Kamal | [Read More](https://medium.com/p/b0082042bce8) |
+| Thu, 19 Jun 2025 08:04:13 GMT | Why Learning Cloud Feels Like Learning 10 Tools at Once | Ahanonye  Anna | [Read More](https://medium.com/p/1db5e2fd7e52) |
+| Thu, 19 Jun 2025 08:01:58 GMT | is Bitonic safe or scam platform? | Tone Phillips | [Read More](https://medium.com/p/230d9a7a4043) |
+| Thu, 19 Jun 2025 07:58:48 GMT | Bitonic Reviews: here’s how I withdraw my money from Bitonic | Tone Phillips | [Read More](https://medium.com/p/47e9092548e8) |
+| Thu, 19 Jun 2025 07:57:42 GMT | Parameter Swap Party: When Flipping POST to GET Broke the App | Iski | [Read More](https://medium.com/p/9d4cf3d2de6c) |
+| Thu, 19 Jun 2025 07:57:26 GMT | 10 Best USA Proxy Providers Actually Tested in 2025 | Lucas | [Read More](https://medium.com/p/01799e53fd8e) |
+| Thu, 19 Jun 2025 07:52:28 GMT | The Art of Deception: Social Engineering Attacks, Tools, and Defenses | Darshan | [Read More](https://medium.com/p/7470cc876004) |
+| Thu, 19 Jun 2025 07:50:42 GMT | The Latest Updates to NIST, ISO 27001, and CMMC 2.0 — What You Need to Know | Sennovate | [Read More](https://medium.com/p/e0ec0aef5d92) |
+| Thu, 19 Jun 2025 07:49:21 GMT | Zebpay reviews: here’s how I recover my money from Zebpay | Melissa Gomez | [Read More](https://medium.com/p/efc7d44e6b14) |
+| Thu, 19 Jun 2025 07:43:00 GMT | Fix Weak SSL/TLS Configuration in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/e2fe52508d34) |
 | Thu, 19 Jun 2025 07:39:47 GMT | what should I do to recover my money from CoinMate ? | Glenn Wayne | [Read More](https://medium.com/p/40b3e453fb3b) |
+| Thu, 19 Jun 2025 07:35:47 GMT | Top 10 Signs You Need a Security Company Now | United Guard Force India | [Read More](https://medium.com/p/9564ca4c0d8a) |
 | Thu, 19 Jun 2025 07:33:55 GMT | Windows Internals: Core Processes | Sle3pyHead ‍ | [Read More](https://medium.com/p/748ec7d65b1b) |
 | Thu, 19 Jun 2025 07:33:32 GMT | Bitvenus reviews: how do I get my money back from Bitvenus | Sinclair Jons | [Read More](https://medium.com/p/c934ed940707) |
 | Thu, 19 Jun 2025 07:32:51 GMT | VPN Connected But Internet Not Working on Mobile? | Digimad.online | [Read More](https://medium.com/p/8e2219b149ec) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 22:51:24 GMT | Dear Romantic Girl: Your Softness Is Not a Liability | ᴍᴇʀ ♡ | [Read More](https://medium.com/p/9c9218c3ed69) |
 | Wed, 18 Jun 2025 22:46:54 GMT | CYBER KILL CHAIN | Ahmedhezema | [Read More](https://medium.com/p/3b4a283272e8) |
 | Wed, 18 Jun 2025 22:25:18 GMT | Zero to Carnegie Mellon in 5 months | Kriti Srivastava | [Read More](https://medium.com/p/9faddc112575) |
-| Wed, 18 Jun 2025 22:18:51 GMT | When Crypto Becomes Collateral: The Ninety Million Dollar Burn of Nobitex | Travis Murphy | [Read More](https://medium.com/p/899e4c35a03f) |
-| Wed, 18 Jun 2025 22:18:27 GMT | 5 Lessons Learned as Incident Commander of the Biggest Security Incident of My Career | Ryan G. Cox | [Read More](https://medium.com/p/46498f61dae6) |
-| Wed, 18 Jun 2025 22:16:37 GMT | Detecting and Exploiting Business Logic Flaws in Real Web Apps | Karthikeyan Nagaraj | [Read More](https://medium.com/p/d6fda7397b55) |
-| Wed, 18 Jun 2025 22:11:51 GMT | The Devices are Talking | Alison Kellner | [Read More](https://medium.com/p/a0ac479470e0) |
-| Wed, 18 Jun 2025 22:03:28 GMT | The Future of Blockchain in Systems Engineering | Adeola | [Read More](https://medium.com/p/ca6ab6b8c677) |
-| Wed, 18 Jun 2025 21:57:27 GMT | Digital Forensics with Autopsy: A Comprehensive Guide | Arham khan | [Read More](https://medium.com/p/38420ea576e7) |
-| Wed, 18 Jun 2025 21:43:54 GMT | IIT Delhi Achieves Quantum Breakthrough: Wireless Communication Over 1 Kilometer | QuantumGenie | [Read More](https://medium.com/p/4011a2873b47) |
-| Wed, 18 Jun 2025 21:38:36 GMT | Predatory Sparrow — Nobitex Cyberattack | Pentestjunkie07 | [Read More](https://medium.com/p/67f21c7ae5e4) |
-| Wed, 18 Jun 2025 21:33:10 GMT | The “So, What Now?” Tool for Pentesting: An Update on My Pentesting Assistant. | Glenn Rodney | [Read More](https://medium.com/p/ac69f7311420) |
-| Wed, 18 Jun 2025 21:24:18 GMT | TryHackMe - SQLMap: The Basics — PRACTICAL EXERCISE | the Journal of a Cyber Security Enthusiast | [Read More](https://medium.com/p/8f7e6d7d1afa) |
-| Wed, 18 Jun 2025 21:03:16 GMT | Penetration Testing Cloudflare Malware Threats. June 18, 2025: | Inforsecpro | [Read More](https://medium.com/p/2135c405b39b) |
-| Wed, 18 Jun 2025 21:00:24 GMT | Brainpan1 — Buffer Overflow Write-up | Link | [Read More](https://medium.com/p/34b32f1d511f) |
-| Wed, 18 Jun 2025 21:00:18 GMT | Cybersecurity: Is It a Good Career Choice, and How to Get Started? | Areebatariq | [Read More](https://medium.com/p/50bbb11282b2) |
-| Wed, 18 Jun 2025 20:58:58 GMT | Day 1 of 21 — Start with TryHackMe | Myshawne Stallings | [Read More](https://medium.com/p/0fea3878d0fc) |
