@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 05:06:12 GMT | Why did hackers destroy $90 million in cryptocurrency from Iran’s Nobitex exchange? | Lamidi Idris | [Read More](https://medium.com/p/b9ec1a06d9b2) |
+| Thu, 19 Jun 2025 04:59:51 GMT | I Prompt Engineered ChatGPT Into a Red Team Assistant: A Case Study in Adversarial AI Use | David Milov | [Read More](https://medium.com/p/f46c675f5f87) |
+| Thu, 19 Jun 2025 04:56:32 GMT | RBI Cybersecurity Compliance: A Complete Guide for Financial Institutions | Rinshumishra | [Read More](https://medium.com/p/5b7a43da7f53) |
+| Thu, 19 Jun 2025 04:44:27 GMT | ประจำวันพฤหัสบดีที่ 19 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2ccbd366d8b3) |
 | Thu, 19 Jun 2025 04:36:48 GMT | What Is a Passkey in Gmail and Why You Should Be Using One | TheReviewHive | [Read More](https://medium.com/p/eb4ce9d1fcfe) |
 | Thu, 19 Jun 2025 04:34:30 GMT | When I Don’t Speak | Pratibha Singh | [Read More](https://medium.com/p/75f615d7720d) |
 | Thu, 19 Jun 2025 04:20:31 GMT | 5 Key Strategies for Node.js Application Security | Arunangshu Das | [Read More](https://medium.com/p/286f014f0944) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Jun 2025 18:18:12 GMT | SILENT SCREAM: BREAKING THE STIGMA AROUND MENTAL HEALTH | Fedude Annie | [Read More](https://medium.com/p/471d3ae5d584) |
 | Wed, 18 Jun 2025 18:16:16 GMT | eCIR Exam Review (eCIR vs ECIH) | Adham Hisham | [Read More](https://medium.com/p/2edd97f3c7e8) |
 | Wed, 18 Jun 2025 18:15:47 GMT | Best Security Practices for FileMaker 2025: Protecting Your Data | Jeffrey Henry | [Read More](https://medium.com/p/ce18d6583cf6) |
-| Wed, 18 Jun 2025 18:08:36 GMT | Haven1: Redefining DeFi with Security and Trust ️ | Zen Kairos | [Read More](https://medium.com/p/d1a23601bae1) |
-| Wed, 18 Jun 2025 18:06:06 GMT | Meowsterio: Weaponizing ClickOnce in 2025 | g0njxa | [Read More](https://medium.com/p/8c2595a817c8) |
-| Wed, 18 Jun 2025 18:00:23 GMT | The Dark Side of Being a Scorpio (Nobody Talks About This) | Wilson Igbasi | [Read More](https://medium.com/p/53c5598e6678) |
-| Wed, 18 Jun 2025 17:59:20 GMT | Giving life context. | Dunw1ch | [Read More](https://medium.com/p/b029825b68c2) |
