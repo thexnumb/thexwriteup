@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Jun 2025 20:42:36 GMT | Brooklyn Nine-Nine TryHackMe Challenge | musayyab sharif | [Read More](https://medium.com/p/3c815f2138f0) |
+| Thu, 19 Jun 2025 20:36:37 GMT | ✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️ | 0b1d1 | [Read More](https://medium.com/p/a8374b2a25ea) |
+| Thu, 19 Jun 2025 20:32:18 GMT | WebStrike Lab — Cyber Defenders Writeup | JoCo | [Read More](https://medium.com/p/e1c1378dd5b6) |
+| Thu, 19 Jun 2025 20:31:09 GMT | How I Found a Bug in Minutes! | Fuad Aliyev | [Read More](https://medium.com/p/67b55c529ed9) |
+| Thu, 19 Jun 2025 20:31:09 GMT | The Certification Trap: How the Cybersecurity Industry Is Selling Illusions Instead of Skills | Abdul Saboor | [Read More](https://medium.com/p/41911ade87af) |
+| Thu, 19 Jun 2025 20:29:15 GMT | They know (all of) your passwords! | Ismail “Doubl R” Rashad | [Read More](https://medium.com/p/d1121a86e754) |
+| Thu, 19 Jun 2025 20:26:30 GMT | Mastering Background Tasks in Python: My Journey Building a Task Scheduler From Scratch | Abdul Majid | [Read More](https://medium.com/p/fbcb657d735f) |
+| Thu, 19 Jun 2025 20:25:22 GMT | XSS Meets IDOR: A Double Vulnerability Story on a Learning Platform | Het Patel | [Read More](https://medium.com/p/aed3157759e0) |
 | Thu, 19 Jun 2025 20:12:27 GMT | Types of Security Services in the UK — Which One Do You Need? | waeventservices.co.uk/ | [Read More](https://medium.com/p/a4c26f264ba9) |
 | Thu, 19 Jun 2025 20:04:49 GMT | EchoLeak: The First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365… | SoumayaJoshi | [Read More](https://medium.com/p/59242c344b1e) |
 | Thu, 19 Jun 2025 20:03:53 GMT | Implementing Shift-Left Security: A Practical DevSecOps Guide | Cesar Schneider | [Read More](https://medium.com/p/8ca1c9666052) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 14:42:17 GMT | The Mysterious /course/course/ Error — A Django Developer’s Debug Journey | Tanish Dewase | [Read More](https://medium.com/p/9452702c357a) |
 | Thu, 19 Jun 2025 14:41:22 GMT | How Are Bug Bounty Rewards Determined? | Andrei Ivan | [Read More](https://medium.com/p/de9d95ad712b) |
 | Thu, 19 Jun 2025 14:34:26 GMT | Internal CTF | Daxilox | [Read More](https://medium.com/p/bc2a0f80ed8e) |
-| Thu, 19 Jun 2025 14:32:56 GMT | Bug Bounty vs. Responsible Disclosure: What’s the Difference? | Andrei Ivan | [Read More](https://medium.com/p/c66e28b57a27) |
-| Thu, 19 Jun 2025 14:31:50 GMT | THM — Intro to Logs | Shamar Isaac | [Read More](https://medium.com/p/ccb09fad1568) |
-| Thu, 19 Jun 2025 14:27:15 GMT | What Is a Bug Bounty Program?
-A Beginner’s Guide | Andrei Ivan | [Read More](https://medium.com/p/df79084f9a25) |
-| Thu, 19 Jun 2025 14:26:00 GMT | Future-Proofing AI Governance: How Mammoth Enterprise Browsers Support ISO/IEC 42001 Compliance | Mammoth Cyber | [Read More](https://medium.com/p/96cc92238ffb) |
-| Thu, 19 Jun 2025 14:01:50 GMT | Wallet Drainers Are Evolving — Here’s How 0xTeabag Stops Them | 0xTeabag | [Read More](https://medium.com/p/cf2de85c082e) |
-| Thu, 19 Jun 2025 14:00:40 GMT | Cyber Briefing: 2025.06.19 | CyberMaterial | [Read More](https://medium.com/p/554e1e542f08) |
-| Thu, 19 Jun 2025 13:54:08 GMT | Station Surveillance Robots | Presslink Media | [Read More](https://medium.com/p/e3aa3224981e) |
-| Thu, 19 Jun 2025 13:44:16 GMT | YOU ARE IN A TRAP. EVERYONE LEAVES YOU, EVEN YOU CLOSE ONE! DON’T WORRY, THIS ONE ALWAYS HELPS YOU. | Jacksonjhon | [Read More](https://medium.com/p/a3926d9672e4) |
