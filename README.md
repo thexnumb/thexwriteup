@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 19:08:27 GMT | Firewall Pass Through: What It Means and Why It Matters for Network Security | Akshay Chauhan | [Read More](https://medium.com/p/b6f11cb37073) |
+| Fri, 20 Jun 2025 19:01:34 GMT | Artificial Intelligence in Cybersecurity: A Double-Edged Sword in the IoT Era | Oladipo deborah | [Read More](https://medium.com/p/943d4ee41bac) |
+| Fri, 20 Jun 2025 19:01:25 GMT | SIEM, SOAR and XDR — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/e8fa99b67e90) |
 | Fri, 20 Jun 2025 18:49:02 GMT | The Linux Security Journey — Authentication Logs | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6f3f53eda542) |
 | Fri, 20 Jun 2025 18:34:46 GMT | Cybersecurity and the Psychology of Human Error: Understanding Digital Risk Behavior in Youth | Amritleenkaur | [Read More](https://medium.com/p/76a81004bc40) |
 | Fri, 20 Jun 2025 18:32:25 GMT | Over The Wire — bandit level 10–20 | Isha Sangpal | [Read More](https://medium.com/p/3e0ad7d5bd83) |
@@ -29,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 18:03:43 GMT | Sign Up with Google vs Email: What Really Happens Behind the Scenes? | Lithuvarshni | [Read More](https://medium.com/p/dff262039b0d) |
 | Fri, 20 Jun 2025 18:01:12 GMT | Real Eyes. Real Time. Real Protection. | Visual Monitoring Solutions | [Read More](https://medium.com/p/1fb09b45ffe9) |
 | Fri, 20 Jun 2025 18:00:10 GMT | Beyond Passwords: Embracing the Future of Digital Security | Anthony Anaedu | [Read More](https://medium.com/p/7f3f08ef9107) |
+| Fri, 20 Jun 2025 17:56:33 GMT | Apresentando o PRT Honeypot: a primeira aplicação da Cartesi Rollup com sistema antifraude PRT na… | Cartesi Brasil | [Read More](https://medium.com/p/de5750f768f5) |
 | Fri, 20 Jun 2025 17:56:01 GMT | Breaking Polyalphabetic Cipher: Krypton 4 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/c2a8555ac697) |
 | Fri, 20 Jun 2025 17:54:15 GMT | Uncovering a simple signup bug for a three-digit bounty | Mustafa Hatab | [Read More](https://medium.com/p/8b3314343c41) |
 | Fri, 20 Jun 2025 17:50:12 GMT | Social Media Profiling: What It Is and How Cybercriminals Use It Against Your Business | Ramsey Consulting Services | [Read More](https://medium.com/p/593877e81301) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 13:34:32 GMT | Podcast: iOS Keychain vs Android Keystore | Talsec | [Read More](https://medium.com/p/bc724ab70f1b) |
 | Fri, 20 Jun 2025 13:31:34 GMT | 2 Star Security Door Handles — Are They Enough to Stop Burglars? | Lock Fitter | [Read More](https://medium.com/p/b35e3850e4c4) |
 | Fri, 20 Jun 2025 13:30:34 GMT | Safety & Liveness in Formal Verification and how to prove it | Julius Schneider | [Read More](https://medium.com/p/848c8d9cea76) |
-| Fri, 20 Jun 2025 13:29:10 GMT | Buffer Overflow Exploit — Compromising a Linux System via SUID 32-bit Binary | 0xb07 | [Read More](https://medium.com/p/dca97b25eb94) |
-| Fri, 20 Jun 2025 13:24:41 GMT | From Login Page to Full Admin Panel Takeover (Arabic version) | rood | [Read More](https://medium.com/p/da63a22cc09c) |
-| Fri, 20 Jun 2025 13:22:59 GMT | GhostVendors Campaign: The Rise of Fake Shopping Sites | TheReviewHive | [Read More](https://medium.com/p/d6425329cf9b) |
-| Fri, 20 Jun 2025 13:20:35 GMT | From Login Page to Full Admin Panel Takeover | rood | [Read More](https://medium.com/p/46695e45d228) |
