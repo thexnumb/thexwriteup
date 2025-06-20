@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 15:35:55 GMT | Node.js Interview Q&A: Day 12 | Dipak Ahirav | [Read More](https://medium.com/p/88b4742eb2dc) |
+| Fri, 20 Jun 2025 15:28:47 GMT | Cloud Security Tools: Essential Solutions to Protect Your Cloud Environment | SafeAeon Inc. | [Read More](https://medium.com/p/7c09786046b2) |
+| Fri, 20 Jun 2025 15:24:58 GMT | Unlocking Japanese Web Security: My Informational Interview with a Startup Pentester | TokiBando | [Read More](https://medium.com/p/c6a55f2b178e) |
+| Fri, 20 Jun 2025 15:23:12 GMT | Cybersecurity | Nathkumar | [Read More](https://medium.com/p/9cdd797d422e) |
 | Fri, 20 Jun 2025 15:12:35 GMT | My Journey to Achieving the Cyberwarfare Labs Certified Red Team Infra Dev Certification | THAMER ALNAJADAT | [Read More](https://medium.com/p/0995901d4f00) |
 | Fri, 20 Jun 2025 15:10:12 GMT | War Looms in Northern Europe | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/bf85716fcda6) |
 | Fri, 20 Jun 2025 15:06:46 GMT | CVE-2007–2447 Exploitation | Dangesunny | [Read More](https://medium.com/p/e62d6349b6fa) |
@@ -109,7 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 10:16:50 GMT | Morty PwnTillDawn -- 10.150.150.57 Writeup | Ishengoma | [Read More](https://medium.com/p/8dbcbbca2e8f) |
 | Fri, 20 Jun 2025 10:15:28 GMT | The Fear of Being Loved Only for the Mask I Wear | Adam Craig | [Read More](https://medium.com/p/cf8c3f33d790) |
 | Fri, 20 Jun 2025 10:02:07 GMT | What exactly is cyber resilience today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/7b5a49d73144) |
-| Fri, 20 Jun 2025 10:01:43 GMT | The Silent Killers of Cyber Security: Laziness, Legacy and Lost focus. | Rabia Riaz | [Read More](https://medium.com/p/5760b69fa968) |
-| Fri, 20 Jun 2025 09:58:29 GMT | 6 Billion Passwords Leaked: Tech Giants Including Google, Facebook, Apple at Risk — Take Action… | Bug Mohol | [Read More](https://medium.com/p/efe682732062) |
-| Fri, 20 Jun 2025 09:57:37 GMT | Host & Network Penetration Testing The Metasploit Framework CTF 2— eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/70ea747461ad) |
-| Fri, 20 Jun 2025 09:57:32 GMT | Guide: Installing and Using Wazuh for Security Monitoring | De@d$ec | [Read More](https://medium.com/p/f4f0ca816588) |
