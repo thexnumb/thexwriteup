@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 08:25:06 GMT | Firewall Fundamentals | Muhammaddaffa | [Read More](https://medium.com/p/e31fc6bf931e) |
+| Fri, 20 Jun 2025 08:19:46 GMT | How XSS Attacks Work — And How to Stop Them | Quella | [Read More](https://medium.com/p/eee98f112f27) |
+| Fri, 20 Jun 2025 08:19:38 GMT | Wa Tokopedia | Hubungi Layanan WhatsApp Tokopedia | [Read More](https://medium.com/p/0a92028ae4c4) |
+| Fri, 20 Jun 2025 08:17:51 GMT | ️ ExRecon v2.0 — TOR-Based Nmap Automation for Ethical Hackers and Red Teams | Exreconnaissance | [Read More](https://medium.com/p/f8b62ae2fee5) |
+| Fri, 20 Jun 2025 08:14:25 GMT | Crypto Crimes: Not Just Code, But Human Chaos | CoinGen | [Read More](https://medium.com/p/1d0dd969d48b) |
+| Fri, 20 Jun 2025 08:06:17 GMT | Kubernetes, up and sailing..against the odds | Wilfried Bessovi | [Read More](https://medium.com/p/9a1673f6df48) |
+| Fri, 20 Jun 2025 07:58:40 GMT | The €2 Billion Microsoft Office Problem Just Got Worse: We’re Not Just Wasting Money, We’re… | Markus Sandelin | [Read More](https://medium.com/p/0f1c6dd8984a) |
+| Fri, 20 Jun 2025 07:43:05 GMT | API again: Org Takeover | callgh0st | [Read More](https://medium.com/p/a02e6d353027) |
+| Fri, 20 Jun 2025 07:41:34 GMT | Corporate Boondoggles: KISS Your Vendor Bloat Goodbye with C# and In-House Ingenuity | Namir Sagheenanajar | [Read More](https://medium.com/p/4f2193a05567) |
+| Fri, 20 Jun 2025 07:39:29 GMT | Top 10 Python Libraries for Cybersecurity in 2025 | Akshay | [Read More](https://medium.com/p/5a00eb50765d) |
 | Fri, 20 Jun 2025 07:35:48 GMT | How vDOT Rapidly Recovers Peg During Market Volatility | Bifrost | [Read More](https://medium.com/p/6f4edeb92c5e) |
 | Fri, 20 Jun 2025 07:34:27 GMT | HTML Injection: From Discovery to Exploitation | Isha Sangpal | [Read More](https://medium.com/p/efe4a620acf8) |
 | Fri, 20 Jun 2025 07:31:14 GMT | Learn Ethical Hacking and Penetration Testing After 12th: Complete Guide | cyber security Updates | [Read More](https://medium.com/p/1a2a151daf03) |
+| Fri, 20 Jun 2025 07:29:44 GMT | Ethical Hacking Crash Course — Basic to Advanced | Manisha Chaudhary | [Read More](https://medium.com/p/a2584d14d399) |
 | Fri, 20 Jun 2025 07:25:03 GMT | Cybersecurity on ₹0: Free Blogs, Labs, and Channels That Can Get You Started | Shahrukh Sec | [Read More](https://medium.com/p/c8fa922e3d92) |
 | Fri, 20 Jun 2025 07:21:49 GMT | Automating WAF Response with n8n and SafeLine | Maverick Steel | [Read More](https://medium.com/p/3d78ecd93960) |
 | Fri, 20 Jun 2025 07:20:02 GMT | Why Cloud-Based IT Services Are a Game-Changer | CyberSolvings | [Read More](https://medium.com/p/7be2b4087fbc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 00:17:56 GMT | Loud Audiences | Jess Trochet | [Read More](https://medium.com/p/ba0e6d364693) |
 | Fri, 20 Jun 2025 00:08:07 GMT | Exploring Smart Locks in the Smart Home Industry: A Focus on SwitchBot | Thomaslopez | [Read More](https://medium.com/p/aefee342f9ae) |
 | Fri, 20 Jun 2025 00:07:08 GMT | Introductory Researching - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/5e5f55385032) |
-| Fri, 20 Jun 2025 00:01:35 GMT | httpx para Bug Bounty: Guía Completa para Detectar Subdominios y Hosts Activos | JPablo13 | [Read More](https://medium.com/p/e4434cf7fd32) |
-| Thu, 19 Jun 2025 23:31:40 GMT | Security Operations with Cortex XSOAR: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f8dc45af74e1) |
-| Thu, 19 Jun 2025 22:49:50 GMT | Exploiting JBoss for Remote Code Execution (RCE) — A Step-by-Step Practical Walkthrough | Klasster | [Read More](https://medium.com/p/85eb606e9cfa) |
-| Thu, 19 Jun 2025 22:39:11 GMT | [TR] Linux Capabilities | Kaan Ekşi | [Read More](https://medium.com/p/cb43d710d54f) |
-| Thu, 19 Jun 2025 22:32:38 GMT | DREAMING WRITEUP : TRYHACKME | rizzziom | [Read More](https://medium.com/p/0c59b26688b3) |
-| Thu, 19 Jun 2025 22:30:14 GMT | Best Practices for Airbnb Hosts Using Keyless Locks | Dmitriy Lyubarskiy | [Read More](https://medium.com/p/498660992d2c) |
-| Thu, 19 Jun 2025 22:20:05 GMT | How To Add Wazuh Agent on Linux Endpoint. | Enitan Ogungbade | [Read More](https://medium.com/p/0bfaec69e172) |
-| Thu, 19 Jun 2025 22:17:34 GMT | TCP vs UDP: What Every Cybersecurity Professional Must Know | Karthikeyan Nagaraj | [Read More](https://medium.com/p/f707fef9bb5a) |
-| Thu, 19 Jun 2025 22:13:22 GMT | Based Malware is a Solved Problem. We’re Just Using the Wrong Approach | Rijal s | [Read More](https://medium.com/p/6ec534482ad0) |
-| Thu, 19 Jun 2025 21:58:55 GMT | Offsec Proving Grounds Walkthrough — Monster | Anushka Virgaonkar | [Read More](https://medium.com/p/774a871c6ad7) |
-| Thu, 19 Jun 2025 21:51:05 GMT | 0. | Z1ER0 | [Read More](https://medium.com/p/9cf7d907a311) |
