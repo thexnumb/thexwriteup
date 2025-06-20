@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 11:31:41 GMT | Healing Isn’t Pretty, But It’s Honest | ink between | [Read More](https://medium.com/p/1e16f626b96f) |
+| Fri, 20 Jun 2025 11:31:19 GMT | 16 Billion Passwords Leaked: What You Need to Know (And Do Right Now) | Harshuduhan | [Read More](https://medium.com/p/fffd0d38488f) |
+| Fri, 20 Jun 2025 11:29:24 GMT | GetPDF Writeup — Lab walkthrough | Riad Moudjahed | [Read More](https://medium.com/p/77edff62d910) |
+| Fri, 20 Jun 2025 11:27:02 GMT | Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained | Monika sharma | [Read More](https://medium.com/p/3ef0d5be0076) |
+| Fri, 20 Jun 2025 11:23:40 GMT | How I Got 4 EUR for Free by Submitting “null” as a Redeem Code | Adham Heinrich | [Read More](https://medium.com/p/257248184d28) |
+| Fri, 20 Jun 2025 11:22:20 GMT | $1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale | Erkan Kavas | [Read More](https://medium.com/p/7e3f3b672ad7) |
+| Fri, 20 Jun 2025 11:22:00 GMT | Web2 vs Web3 in Bug Bounty: A Beginner’s Guide Told Like a Story | Satyam Pathania | [Read More](https://medium.com/p/cf3f23275edd) |
+| Fri, 20 Jun 2025 11:19:47 GMT | Technical Debt: The Hidden Cost of Your Business’s Digital Future. | Ryan kennedy | [Read More](https://medium.com/p/3d4f29264137) |
 | Fri, 20 Jun 2025 11:17:17 GMT | How I Built a Digital Shield for My Web Application with AWS WAF | Aashishchaudhari | [Read More](https://medium.com/p/147054d1bac7) |
 | Fri, 20 Jun 2025 11:02:38 GMT | The June 2025 Data Breach: A Catastrophic Leak of 16 Billion Login Credentials | Aniket Tegginamath | [Read More](https://medium.com/p/2c7fe3a3018b) |
 | Fri, 20 Jun 2025 11:01:41 GMT | Secure Storage in iOS with Swift: A Practical Guide | Manoj Gadamsetty | [Read More](https://medium.com/p/9db1a4f0eb2a) |
@@ -105,11 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Jun 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/893aed487be1) |
 | Fri, 20 Jun 2025 05:57:05 GMT | Secrets in Your AWS Lambda? Catch Them with Config Rules Before They Catch You | Shubham Verma | [Read More](https://medium.com/p/477f2aa1fd83) |
 | Fri, 20 Jun 2025 05:56:41 GMT | 76 GitHub Accounts. 1 Massive Malware Operation. | Cyber-AppSec | [Read More](https://medium.com/p/0764dccd3390) |
-| Fri, 20 Jun 2025 05:53:57 GMT | How do consumer and enterprise IT antivirus security products protect the customer in 2025? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/02f6132c25cb) |
-| Fri, 20 Jun 2025 05:51:35 GMT | A7 Security Hunters App Now Live on iPhone — Learn Cybersecurity, IT, Networking & More Online! | A7 Security Hunters | [Read More](https://medium.com/p/b1fdea4f804f) |
-| Fri, 20 Jun 2025 05:43:12 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | Tekhabeeb | [Read More](https://medium.com/p/0b632cf908fa) |
-| Fri, 20 Jun 2025 05:40:46 GMT | Bridging the Gap: Why Usable Security is the Missing Link in Your DevSecOps Strategy | Mpandugalang | [Read More](https://medium.com/p/96be39dd4b6a) |
-| Fri, 20 Jun 2025 05:40:27 GMT | Gmail May Block Your Login — Even with the Right Password | IEEE Computer Society VIT | [Read More](https://medium.com/p/ffa3f41a8c12) |
-| Fri, 20 Jun 2025 05:26:42 GMT | Getting Started with CodeQL: Static Analysis for Java Projects | Malindu Kalhara | [Read More](https://medium.com/p/bfe5cb3beda7) |
-| Fri, 20 Jun 2025 05:17:20 GMT | Phishing Analysis 2- Blue Team Lab (BTLO) Walkthrough | Harsh Patel | [Read More](https://medium.com/p/1d8662788e4f) |
-| Fri, 20 Jun 2025 05:16:29 GMT | AI and Cybersecurity in the Internet of Things (IoT): Managing Emerging Threats | Phanish Lakkarasu | [Read More](https://medium.com/p/fc15974a9058) |
