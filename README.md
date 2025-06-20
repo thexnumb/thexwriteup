@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 17:07:24 GMT | Dork Recon to self-learn unique stuff | AbhirupKonwar | [Read More](https://medium.com/p/2c9f78ff5661) |
+| Fri, 20 Jun 2025 17:05:59 GMT | Data Leaked on Dark Web? Secure Your Passwords to be Protected | Hoplon Infosec | [Read More](https://medium.com/p/9728d25b89ed) |
+| Fri, 20 Jun 2025 17:03:49 GMT | How I Deployed a Honeypot on Azure and Built an Attack Map with Microsoft Sentinel | Naveen Kumar Narasimhan | [Read More](https://medium.com/p/d02fa8031c14) |
+| Fri, 20 Jun 2025 16:59:13 GMT | The Dark Side of Pentesting: How Wireless Security Tools Can Be Weaponized | Beth Cochran | [Read More](https://medium.com/p/895e80de357e) |
+| Fri, 20 Jun 2025 16:57:48 GMT | Do All Transfer PayPal Whatsapp : : +1(616) 202–1156 cashapp Bank western union Zelle and close… | Gonzalezablerta | [Read More](https://medium.com/p/be80ee54824c) |
+| Fri, 20 Jun 2025 16:48:50 GMT | How I Made My Kali Linux Terminal Look Awesome in 5 Minutes | Saikat Paul | [Read More](https://medium.com/p/32a666f99301) |
+| Fri, 20 Jun 2025 16:47:37 GMT | Another Insurance Giant Breached: What Aflac’s Security Failure Means for the Entire Industry | Ted Rogers | [Read More](https://medium.com/p/6cc7df6bd594) |
+| Fri, 20 Jun 2025 16:47:28 GMT | Traditional banks spend millions on security. | Serhan Bahar (swb) | [Read More](https://medium.com/p/62f4eac8866c) |
+| Fri, 20 Jun 2025 16:47:00 GMT | ️ Day 69: Bash Scripting — Log Watcher Monitoring Failed Logins | Agarwaldaksh | [Read More](https://medium.com/p/bc29960d8c66) |
+| Fri, 20 Jun 2025 16:46:45 GMT | Building a Professional-Grade DevSecOps Pipeline with Tetragon eBPF Security Monitoring on Azure… | Saraswathi Lakshman | [Read More](https://medium.com/p/6a36b863ee37) |
+| Fri, 20 Jun 2025 16:44:54 GMT | Increased FDNS Site Visits: How to Prepare and Stay Compliant | Emily Parker | [Read More](https://medium.com/p/50aad788768e) |
+| Fri, 20 Jun 2025 16:44:35 GMT | What are website cookies and how do they work? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/3125f21d4894) |
 | Fri, 20 Jun 2025 16:44:25 GMT | $1,000 Bounty: How I Discovered a Parameter Pollution Bug That Leaked Sensitive Data | Monika sharma | [Read More](https://medium.com/p/c5f240b05f5f) |
 | Fri, 20 Jun 2025 16:38:55 GMT | Only&One Story You Need To Do 100% Perfect Bug Bounty Reconnaissance. | NnFace | [Read More](https://medium.com/p/c5a22bbed218) |
 | Fri, 20 Jun 2025 16:38:38 GMT | The Ultimate Red Team Playbook: 20 Attack Techniques That Will Make You a Better Defender | Saikat Paul | [Read More](https://medium.com/p/be5a11ac2585) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 11:50:41 GMT | 16 Billions Google Leaked Password Alert in 2025 | John Miller | [Read More](https://medium.com/p/71d5d6a94868) |
 | Fri, 20 Jun 2025 11:42:01 GMT | A Brief History: Cyberwarfare | Cybawareness | [Read More](https://medium.com/p/c96c5abc3681) |
 | Fri, 20 Jun 2025 11:33:32 GMT | Comparing Top Home Security Camera: Blink Outdoor 4 (newest model),Like-New Ring Spotlight Cam… | Waed saada | [Read More](https://medium.com/p/841f0c05d9eb) |
-| Fri, 20 Jun 2025 11:31:41 GMT | Healing Isn’t Pretty, But It’s Honest | ink between | [Read More](https://medium.com/p/1e16f626b96f) |
-| Fri, 20 Jun 2025 11:31:19 GMT | 16 Billion Passwords Leaked: What You Need to Know (And Do Right Now) | Harshuduhan | [Read More](https://medium.com/p/fffd0d38488f) |
-| Fri, 20 Jun 2025 11:29:24 GMT | GetPDF Writeup — Lab walkthrough | Riad Moudjahed | [Read More](https://medium.com/p/77edff62d910) |
-| Fri, 20 Jun 2025 11:27:02 GMT | Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained | Monika sharma | [Read More](https://medium.com/p/3ef0d5be0076) |
-| Fri, 20 Jun 2025 11:23:40 GMT | How I Got 4 EUR for Free by Submitting “null” as a Redeem Code | Adham Heinrich | [Read More](https://medium.com/p/257248184d28) |
-| Fri, 20 Jun 2025 11:22:20 GMT | $1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale | Erkan Kavas | [Read More](https://medium.com/p/7e3f3b672ad7) |
-| Fri, 20 Jun 2025 11:22:00 GMT | Web2 vs Web3 in Bug Bounty: A Beginner’s Guide Told Like a Story | Satyam Pathania | [Read More](https://medium.com/p/cf3f23275edd) |
-| Fri, 20 Jun 2025 11:19:47 GMT | Technical Debt: The Hidden Cost of Your Business’s Digital Future. | Ryan kennedy | [Read More](https://medium.com/p/3d4f29264137) |
-| Fri, 20 Jun 2025 11:17:17 GMT | How I Built a Digital Shield for My Web Application with AWS WAF | Aashishchaudhari | [Read More](https://medium.com/p/147054d1bac7) |
-| Fri, 20 Jun 2025 11:02:38 GMT | The June 2025 Data Breach: A Catastrophic Leak of 16 Billion Login Credentials | Aniket Tegginamath | [Read More](https://medium.com/p/2c7fe3a3018b) |
-| Fri, 20 Jun 2025 11:01:41 GMT | Secure Storage in iOS with Swift: A Practical Guide | Manoj Gadamsetty | [Read More](https://medium.com/p/9db1a4f0eb2a) |
-| Fri, 20 Jun 2025 11:00:32 GMT | OpenAI Is Now Working With the Government | Manish | [Read More](https://medium.com/p/14759b57cacb) |
