@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 09:01:48 GMT | SOC 2 vs ISO 27001: Which Framework is Right for You? | SecureSlate | [Read More](https://medium.com/p/30249cd93353) |
+| Fri, 20 Jun 2025 09:01:47 GMT | The GRC Automation Flywheel | Harry West | [Read More](https://medium.com/p/8ada4bf1725b) |
+| Fri, 20 Jun 2025 09:01:46 GMT | Advanced Custom Correlation Rule: Detecting Lateral Movement & Privilege Escalation | Esra Kayhan | [Read More](https://medium.com/p/52d36dc5a3b3) |
+| Fri, 20 Jun 2025 09:01:06 GMT | Top Latest Five Gelato strain Urban news | Stguhijgijckyhg Bdtgubonfhfh | [Read More](https://medium.com/p/b305029608d8) |
+| Fri, 20 Jun 2025 08:57:00 GMT | Detecting XSS Attacks with LLM Agents: Reflected, Stored, and DOM-Based Explained - Part1. | Suhana Shaik | [Read More](https://medium.com/p/db4b575d4aa8) |
+| Fri, 20 Jun 2025 08:51:02 GMT | Google, Apple, Facebook Logins Exposed in 2025’s 16 Billion Password Leak — What You Must Do Now | Aaron | [Read More](https://medium.com/p/c8c3abca9bc3) |
+| Fri, 20 Jun 2025 08:50:19 GMT | Kindness is Heavy | Syafina Patriani | [Read More](https://medium.com/p/620289916e3c) |
 | Fri, 20 Jun 2025 08:44:16 GMT | Inside the Mind of a Hacker: The Art and Ethics of Modern Cyber Intrusion | Anonymode | [Read More](https://medium.com/p/f3e0d4f415b1) |
 | Fri, 20 Jun 2025 08:35:34 GMT | The Quiet Revolution: Preparing for a Post-Quantum Cryptographic Era | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0864bfa7caaf) |
 | Fri, 20 Jun 2025 08:25:06 GMT | Firewall Fundamentals | Muhammaddaffa | [Read More](https://medium.com/p/e31fc6bf931e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 01:08:04 GMT | Day #29 of #60DaysofGRC: Risk Registers: What, Why, and How | Brittney Ginther | [Read More](https://medium.com/p/4fa2aae53b0d) |
 | Fri, 20 Jun 2025 01:06:03 GMT | The Digital Ghost: Covert Tactics for Online Manipulation and Character Assassination: | Huzaifa Awan | [Read More](https://medium.com/p/1c0694fb217a) |
 | Fri, 20 Jun 2025 00:50:35 GMT | Decoding the Oracle Cloud-Health Attack: Did legacy gateways expose medical records for millions? | Guy Hammer | [Read More](https://medium.com/p/beaa6c9c83e0) |
-| Fri, 20 Jun 2025 00:48:40 GMT | I Thought GitHub Was for Developers Until I Wrote My First Policy-as-Code | Cheryl Abram | [Read More](https://medium.com/p/35dc0302074b) |
-| Fri, 20 Jun 2025 00:47:28 GMT | Massive Credential Breach: Over 16 Billion User Logins Exposed | Indrajith Bandara | [Read More](https://medium.com/p/1cb39be51e8d) |
-| Fri, 20 Jun 2025 00:45:30 GMT | Cybersecurity for the Rest of Us: Part OWhy Hackers Love Grandma’s Router | Bryan J Zimmerman | [Read More](https://medium.com/p/6166dae524bf) |
-| Fri, 20 Jun 2025 00:37:17 GMT | Solve lab Tusk infostealer from cyberdefenders | Abdelrahman_elkolaly | [Read More](https://medium.com/p/6ab5ca4f10d9) |
-| Fri, 20 Jun 2025 00:33:28 GMT | Nem só de LGPD vive o Direito Cibernético… | esther | [Read More](https://medium.com/p/44cb23c1bc83) |
-| Fri, 20 Jun 2025 00:31:02 GMT | The Day the Internet Held Its Breath: How Cloudflare Defeated a 7.3 Tbps DDoS Monster | Aaron Rose | [Read More](https://medium.com/p/b25318b27c70) |
-| Fri, 20 Jun 2025 00:17:56 GMT | Loud Audiences | Jess Trochet | [Read More](https://medium.com/p/ba0e6d364693) |
