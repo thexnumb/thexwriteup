@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 22:17:10 GMT | Network Access Control (NAC): A Complete Guide for Cybersecurity Teams | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dc329a9793fe) |
+| Fri, 20 Jun 2025 22:15:25 GMT | Ultimate Windows Security Guide: Reduce Your Attack Surface! | Joseph Peter | [Read More](https://medium.com/p/66bc3d85149b) |
+| Fri, 20 Jun 2025 22:08:28 GMT | 5 AWS IAM Mistakes You Can’t Afford to Make (and How to Fix Them) ️ | Amar Begluk | [Read More](https://medium.com/p/bc0a056c8ae3) |
+| Fri, 20 Jun 2025 22:06:12 GMT | How a PDF File Can Expose Your Application’s Real IP (Even with CDN and WAF) | Vedgeta | [Read More](https://medium.com/p/754f4ccd6993) |
+| Fri, 20 Jun 2025 22:04:40 GMT | “The Art of Becoming Lauryn Nzekwe” | Tiffany Renzel | [Read More](https://medium.com/p/4d37a875413c) |
+| Fri, 20 Jun 2025 22:02:26 GMT | Day 2/21 — Cyber Careers | Myshawne Stallings | [Read More](https://medium.com/p/a7f2a23b1e46) |
+| Fri, 20 Jun 2025 21:51:35 GMT | Too Healed to Love? When Self-Work Becomes Self-Sabotage | Divya Poojari | [Read More](https://medium.com/p/6c8669188edf) |
+| Fri, 20 Jun 2025 21:47:15 GMT | Day 5/100 — Understanding Port 21 | 0X595 | [Read More](https://medium.com/p/7808d7d2e1fa) |
+| Fri, 20 Jun 2025 21:46:04 GMT | Hacking/Recovery | Norman Meg | [Read More](https://medium.com/p/1fccebcdb36d) |
+| Fri, 20 Jun 2025 21:39:06 GMT | 100-days Learn 
+Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
+| Fri, 20 Jun 2025 21:34:03 GMT | BASE — How Low Can Your Docker CVEs Go? | Marshall Humble | [Read More](https://medium.com/p/a183baa66b08) |
 | Fri, 20 Jun 2025 21:31:32 GMT | How I Discovered AI’s Dark Side: The Security Crisis Nobody Talks About | Divyansh Bhatia | [Read More](https://medium.com/p/874ee3594da3) |
 | Fri, 20 Jun 2025 21:24:42 GMT | Digital Forensics After Cyberwar: What Must Be Traced? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0369f3368883) |
 | Fri, 20 Jun 2025 21:18:03 GMT | The AI-Cybersecurity Convergence: Enterprise Architecture’s New Mandate | MAHESH KUMAR GADDAM | [Read More](https://medium.com/p/9d5730ddb953) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 16:14:44 GMT | Headway on Training — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/aa7da6a93df2) |
 | Fri, 20 Jun 2025 16:10:21 GMT | Teaching Robots to Talk is dead  Welcome to The Last Mile | Waterfield Tech Conversational AI | [Read More](https://medium.com/p/ceabbffc84a9) |
 | Fri, 20 Jun 2025 16:06:26 GMT | The Quiet Truths Men Share in the Dark | Ms O, Naturally Inspired | [Read More](https://medium.com/p/63f4318014ac) |
-| Fri, 20 Jun 2025 16:03:36 GMT | What is Secure by Design in Cybersecurity? | Protected Harbor | [Read More](https://medium.com/p/8f547c615232) |
-| Fri, 20 Jun 2025 16:02:26 GMT | Architects of Digital Resilience: Mastering Cyber Threats in a Hyperconnected World | JustinJabo | [Read More](https://medium.com/p/e737430cc6ce) |
-| Fri, 20 Jun 2025 16:01:02 GMT | How to Defend Against Email Impersonation Attacks | Protected Harbor | [Read More](https://medium.com/p/bb3dd6d679a1) |
-| Fri, 20 Jun 2025 15:48:20 GMT | Dark Web Monitoring Services: Protect Your Business from the Unknown | SafeAeon Inc. | [Read More](https://medium.com/p/12eb652abbba) |
-| Fri, 20 Jun 2025 15:45:51 GMT | WannaCry Ransomware Analizi | hafsanur | [Read More](https://medium.com/p/d41a66984129) |
-| Fri, 20 Jun 2025 15:38:35 GMT | SOC 2 Compliance Checklist: What You Need to Stay Audit-Ready | SafeAeon Inc. | [Read More](https://medium.com/p/95fb158f70c5) |
-| Fri, 20 Jun 2025 15:35:55 GMT | Node.js Interview Q&A: Day 12 | Dipak Ahirav | [Read More](https://medium.com/p/88b4742eb2dc) |
-| Fri, 20 Jun 2025 15:34:21 GMT | May the Dead Find Liberation from the Memories of the Living | Miloni Rambhiya | [Read More](https://medium.com/p/2b13713769b7) |
-| Fri, 20 Jun 2025 15:28:47 GMT | Cloud Security Tools: Essential Solutions to Protect Your Cloud Environment | SafeAeon Inc. | [Read More](https://medium.com/p/7c09786046b2) |
-| Fri, 20 Jun 2025 15:24:58 GMT | Unlocking Japanese Web Security: My Informational Interview with a Startup Pentester | TokiBando | [Read More](https://medium.com/p/c6a55f2b178e) |
-| Fri, 20 Jun 2025 15:23:12 GMT | Cybersecurity | Nathkumar | [Read More](https://medium.com/p/9cdd797d422e) |
