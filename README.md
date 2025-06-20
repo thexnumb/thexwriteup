@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 09:28:20 GMT | ️ 8 Corporate Security Tips Every Office in Delhi NCR Should Follow | Sumintra | [Read More](https://medium.com/p/66b81603954e) |
+| Fri, 20 Jun 2025 09:24:39 GMT | My Cybersecurity Journey: From Beginner to Ethical Hacker with Cisco | Darshan | [Read More](https://medium.com/p/db6be3a7c917) |
+| Fri, 20 Jun 2025 09:17:14 GMT | What is Metasploit Framework? | The Drop Organization | [Read More](https://medium.com/p/750382beb3a2) |
 | Fri, 20 Jun 2025 09:01:48 GMT | SOC 2 vs ISO 27001: Which Framework is Right for You? | SecureSlate | [Read More](https://medium.com/p/30249cd93353) |
 | Fri, 20 Jun 2025 09:01:47 GMT | The GRC Automation Flywheel | Harry West | [Read More](https://medium.com/p/8ada4bf1725b) |
 | Fri, 20 Jun 2025 09:01:46 GMT | Advanced Custom Correlation Rule: Detecting Lateral Movement & Privilege Escalation | Esra Kayhan | [Read More](https://medium.com/p/52d36dc5a3b3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 01:22:59 GMT | E-Motion (Pt.2) | Hannah Adakanu | [Read More](https://medium.com/p/e616191e56a6) |
 | Fri, 20 Jun 2025 01:16:37 GMT | A Mother’s Love Letter to Wine: Aged to Perfection | Wesley Ann Edmonds | [Read More](https://medium.com/p/9f4062c261c2) |
 | Fri, 20 Jun 2025 01:12:31 GMT | Stop Hunting for Hackers — The Real Threat Is Sitting in Your Meetings | Pascal Leblanc | [Read More](https://medium.com/p/1200d66a8877) |
-| Fri, 20 Jun 2025 01:08:04 GMT | Day #29 of #60DaysofGRC: Risk Registers: What, Why, and How | Brittney Ginther | [Read More](https://medium.com/p/4fa2aae53b0d) |
-| Fri, 20 Jun 2025 01:06:03 GMT | The Digital Ghost: Covert Tactics for Online Manipulation and Character Assassination: | Huzaifa Awan | [Read More](https://medium.com/p/1c0694fb217a) |
-| Fri, 20 Jun 2025 00:50:35 GMT | Decoding the Oracle Cloud-Health Attack: Did legacy gateways expose medical records for millions? | Guy Hammer | [Read More](https://medium.com/p/beaa6c9c83e0) |
