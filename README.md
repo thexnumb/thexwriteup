@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 19:32:26 GMT | Day 27: More Operating Systems | Nile Okomo | [Read More](https://medium.com/p/481a4747ee67) |
+| Fri, 20 Jun 2025 19:29:57 GMT | The Salar de Uyuni Wallpaper: Google’s Forgotten Pixel Bug? | Varun Agarwal | [Read More](https://medium.com/p/a5818b8a9056) |
+| Fri, 20 Jun 2025 19:13:21 GMT | Zero Trust, One Router: Hardening Your Home Lab Like a Cyber Fortress. | Devlink Tips | [Read More](https://medium.com/p/567fc3bdf880) |
+| Fri, 20 Jun 2025 19:13:03 GMT | Policy as Code (PaC) with Terraform, Sentinel, and AWS. | Alex | [Read More](https://medium.com/p/d34f6ac036d3) |
 | Fri, 20 Jun 2025 19:08:27 GMT | Firewall Pass Through: What It Means and Why It Matters for Network Security | Akshay Chauhan | [Read More](https://medium.com/p/b6f11cb37073) |
 | Fri, 20 Jun 2025 19:01:34 GMT | Artificial Intelligence in Cybersecurity: A Double-Edged Sword in the IoT Era | Oladipo deborah | [Read More](https://medium.com/p/943d4ee41bac) |
 | Fri, 20 Jun 2025 19:01:25 GMT | SIEM, SOAR and XDR — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/e8fa99b67e90) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 13:54:40 GMT | Building Intelligence Into the Everyday: My Journey into Embedded Systems at UIRI | Grace Wanja | [Read More](https://medium.com/p/038b0eeb51b3) |
 | Fri, 20 Jun 2025 13:49:28 GMT | when helping doesn’t help | jewel ˙⋆.˚ | [Read More](https://medium.com/p/5da81e1af806) |
 | Fri, 20 Jun 2025 13:43:02 GMT | The Linux Service That Almost Let Attackers Slip In (And How I Found It Just in Time) | Faruk Ahmed | [Read More](https://medium.com/p/07b72a883f78) |
-| Fri, 20 Jun 2025 13:35:30 GMT | ZeeSecure Python Application Deployment Without Exposing Source Code | Ramkrushna Maheshwar | [Read More](https://medium.com/p/84836db33977) |
-| Fri, 20 Jun 2025 13:34:32 GMT | Podcast: iOS Keychain vs Android Keystore | Talsec | [Read More](https://medium.com/p/bc724ab70f1b) |
-| Fri, 20 Jun 2025 13:31:34 GMT | 2 Star Security Door Handles — Are They Enough to Stop Burglars? | Lock Fitter | [Read More](https://medium.com/p/b35e3850e4c4) |
-| Fri, 20 Jun 2025 13:30:34 GMT | Safety & Liveness in Formal Verification and how to prove it | Julius Schneider | [Read More](https://medium.com/p/848c8d9cea76) |
