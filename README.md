@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 16:44:25 GMT | $1,000 Bounty: How I Discovered a Parameter Pollution Bug That Leaked Sensitive Data | Monika sharma | [Read More](https://medium.com/p/c5f240b05f5f) |
+| Fri, 20 Jun 2025 16:38:55 GMT | Only&One Story You Need To Do 100% Perfect Bug Bounty Reconnaissance. | NnFace | [Read More](https://medium.com/p/c5a22bbed218) |
+| Fri, 20 Jun 2025 16:38:38 GMT | The Ultimate Red Team Playbook: 20 Attack Techniques That Will Make You a Better Defender | Saikat Paul | [Read More](https://medium.com/p/be5a11ac2585) |
+| Fri, 20 Jun 2025 16:36:16 GMT | I Cracked the eJPTv2:Here’s What Every Beginner Pentester Needs to Know | Xh081iX | [Read More](https://medium.com/p/308a260bd392) |
+| Fri, 20 Jun 2025 16:36:16 GMT | Time Travel for Hackers | Bl@ckC!pH3r | [Read More](https://medium.com/p/28657b4395d6) |
+| Fri, 20 Jun 2025 16:36:08 GMT | “Cybersecurity : Simple Steps to Stay Safe Online” | Kashifmehmoodrizvi | [Read More](https://medium.com/p/c34915d4f18d) |
+| Fri, 20 Jun 2025 16:31:36 GMT | Welcome to Hotel Obscura: Where Anonymity Checks In Before You Do | Anzalo Quin | [Read More](https://medium.com/p/3054f59515a7) |
+| Fri, 20 Jun 2025 16:31:29 GMT | Beyond the Tabletop: Introducing Our New Incident Response Readiness Review | Medcrypt | [Read More](https://medium.com/p/b60d33a922cf) |
+| Fri, 20 Jun 2025 16:28:13 GMT | Malware Detection: From Theory to Python Implementation | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/3f881084035d) |
+| Fri, 20 Jun 2025 16:25:14 GMT | Cybersecurity News Review — Week 25 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/c08d64d00789) |
 | Fri, 20 Jun 2025 16:14:44 GMT | Headway on Training — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/aa7da6a93df2) |
 | Fri, 20 Jun 2025 16:10:21 GMT | Teaching Robots to Talk is dead  Welcome to The Last Mile | Waterfield Tech Conversational AI | [Read More](https://medium.com/p/ceabbffc84a9) |
 | Fri, 20 Jun 2025 16:06:26 GMT | The Quiet Truths Men Share in the Dark | Ms O, Naturally Inspired | [Read More](https://medium.com/p/63f4318014ac) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 11:02:38 GMT | The June 2025 Data Breach: A Catastrophic Leak of 16 Billion Login Credentials | Aniket Tegginamath | [Read More](https://medium.com/p/2c7fe3a3018b) |
 | Fri, 20 Jun 2025 11:01:41 GMT | Secure Storage in iOS with Swift: A Practical Guide | Manoj Gadamsetty | [Read More](https://medium.com/p/9db1a4f0eb2a) |
 | Fri, 20 Jun 2025 11:00:32 GMT | OpenAI Is Now Working With the Government | Manish | [Read More](https://medium.com/p/14759b57cacb) |
-| Fri, 20 Jun 2025 10:58:18 GMT | Security Report: IDOR Vulnerability in Syfe Bug Bounty Program | Eng_mohaned Ashraf | [Read More](https://medium.com/p/cfee2f7dd9bd) |
-| Fri, 20 Jun 2025 10:58:12 GMT | OpenAI Wins 200 Million Dollar Government Contract | Hari Rahul | [Read More](https://medium.com/p/e492bf4dab74) |
-| Fri, 20 Jun 2025 10:58:03 GMT | ⚙️ Go Tools: Password Hashing with Argon2 Instead of bcrypt | Nikita Rykhlov | [Read More](https://medium.com/p/f9165dc156a0) |
-| Fri, 20 Jun 2025 10:56:33 GMT | OpenAI and the DoD: Transforming National Security Through AI | Srinivasps | [Read More](https://medium.com/p/18cf0cfa117d) |
-| Fri, 20 Jun 2025 10:53:17 GMT | From Exposed Keys to Secure Access: Our Journey to Using AWS Cognito for S3 Access | Mohammed Yasik R | [Read More](https://medium.com/p/0512d99f7970) |
-| Fri, 20 Jun 2025 10:53:05 GMT | About Dockerfiles — Tips and Proofs | Sten Leinasaar | [Read More](https://medium.com/p/aa81538f2f94) |
-| Fri, 20 Jun 2025 10:52:00 GMT | When AWS IAM Policies Stopped Working During Full Moons | Rudra | [Read More](https://medium.com/p/d2708d4c743b) |
-| Fri, 20 Jun 2025 10:48:05 GMT | Advance Your Tech Career with an Advanced Diploma in Information Technology | AIST | [Read More](https://medium.com/p/872a0183bb9c) |
-| Fri, 20 Jun 2025 10:47:43 GMT | The SSH Key That Only Worked at 2 AM: A Bastion Host Mystery | Rudra | [Read More](https://medium.com/p/1f6d6b81215e) |
-| Fri, 20 Jun 2025 10:46:29 GMT | Security in the Age of AI: Building Quantum-Safe Infrastructure for the Future | Tenzro | [Read More](https://medium.com/p/6035aca7e59d) |
