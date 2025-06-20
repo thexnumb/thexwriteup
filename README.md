@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 03:12:40 GMT | Securing API Keys in Flutter: The Right Way to Keep Secrets Safe | Varmavetukuri | [Read More](https://medium.com/p/0cc78d7c9358) |
+| Fri, 20 Jun 2025 03:00:23 GMT | Ollama Exposed: Unauthenticated Access Vulnerability Could Leak Your LLM Models | AerieWhole123 | [Read More](https://medium.com/p/996798a1082f) |
+| Fri, 20 Jun 2025 02:50:23 GMT | The Myth of the Perfect Cybersecurity Tool: Crafting a Unique Security Strategy | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/0c13d6579fbb) |
+| Fri, 20 Jun 2025 02:47:20 GMT | The New Orbit of Conflict: Why Space Cybersecurity is Our Next Battlefield | Ruksana Kabir (Rox) | [Read More](https://medium.com/p/2bcfa8a58f13) |
+| Fri, 20 Jun 2025 02:38:06 GMT | Software Testing VS Penetration Testing | Onurcan Genç | [Read More](https://medium.com/p/7f67af5ef971) |
+| Fri, 20 Jun 2025 02:35:33 GMT | Computer Security — The Morris Worm | Kevin McNamee | [Read More](https://medium.com/p/d7b5ba48e0c6) |
+| Fri, 20 Jun 2025 02:31:05 GMT | COOKIE {WEB} WRITE UP -- SEASON V UNITED STATES CYBER GAMES (SVUSCG) CTF | i4m_x | [Read More](https://medium.com/p/71300908d10e) |
+| Fri, 20 Jun 2025 02:17:45 GMT | From Search to Hall of Fame: Responsible Disclosure of a Grafana Security Flaw | B4LOGI | [Read More](https://medium.com/p/df51598341a1) |
+| Fri, 20 Jun 2025 02:03:53 GMT | Kimsuky Group Targets Academia With Password-Protected Malware Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/e77574de5260) |
 | Fri, 20 Jun 2025 01:37:08 GMT | How Imperfect Women Captivate High-Quality Men: The Art of Controlled Vulnerability | Yuenie-kate | [Read More](https://medium.com/p/3e356eeaa1ab) |
 | Fri, 20 Jun 2025 01:36:03 GMT | Chaining CSRF with Missing Auth and Origin Validation to Hijack User Accounts via Email Change | Samratsitaula | [Read More](https://medium.com/p/119d389f537b) |
 | Fri, 20 Jun 2025 01:22:59 GMT | E-Motion (Pt.2) | Hannah Adakanu | [Read More](https://medium.com/p/e616191e56a6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 17:51:18 GMT | Empty Shelves, Hidden Threats: The Silent Cyber War on Our Food Supply | Siva Gunasekaran | [Read More](https://medium.com/p/213892b4ed08) |
 | Thu, 19 Jun 2025 17:37:29 GMT | Oil, Data, and Cyber Wars: The Israel-Iran Crisis and the Blueprint for 21st Century Power | NaveeeN Chendra | [Read More](https://medium.com/p/bc6644668c5f) |
 | Thu, 19 Jun 2025 17:36:08 GMT | Learn Android and Android Hacking | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/c88e1419b5c2) |
-| Thu, 19 Jun 2025 17:34:09 GMT | escaping the “double-quoted” life | amidst | [Read More](https://medium.com/p/555972eb6118) |
-| Thu, 19 Jun 2025 17:31:27 GMT | Iran Imposes Curfew on Crypto Exchanges After $100 Million Nobitex Hack, A New Era of Crypto… | CoinGen | [Read More](https://medium.com/p/327cb886d85e) |
-| Thu, 19 Jun 2025 17:27:16 GMT | ️ Day 68 : Bash Scripting — System Monitoring | Agarwaldaksh | [Read More](https://medium.com/p/b3394a810d75) |
-| Thu, 19 Jun 2025 17:26:40 GMT | HTB -Titanic Walkthrough | Dracky4u | [Read More](https://medium.com/p/7f058cd92ce1) |
-| Thu, 19 Jun 2025 17:20:40 GMT | Windows OS for Cyber Security | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/7563c21b71cc) |
-| Thu, 19 Jun 2025 17:18:16 GMT | How I Protect My Daughters Online: A Busy Mom’s Battle-Tested Strategies | Jyotirupa Sarma | [Read More](https://medium.com/p/91f9fe73ad2b) |
-| Thu, 19 Jun 2025 17:06:48 GMT | FMS Attack POC on Simulated WEP/RC4 | Declan | [Read More](https://medium.com/p/4fd7be4b0640) |
-| Thu, 19 Jun 2025 17:02:11 GMT | A Day in the Life of a SOC Analyst | Aniket Sharma | [Read More](https://medium.com/p/dff95e117de9) |
-| Thu, 19 Jun 2025 16:59:32 GMT | Unveiling CSRF-to-XSS and XXE in a Single Request | nocley | [Read More](https://medium.com/p/b3e260d5477d) |
