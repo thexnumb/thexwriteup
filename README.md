@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 23:07:23 GMT | The Day Our CISO Got Phished: A Wake-Up Call That Transformed Our Security | Zahir black | [Read More](https://medium.com/p/dab361b6f0ff) |
+| Fri, 20 Jun 2025 23:05:04 GMT | Academy - Parameter Tampering & Manual/Automated & Binary Exploitation | Onurcan Genç | [Read More](https://medium.com/p/b9068a4e18d1) |
+| Fri, 20 Jun 2025 23:00:15 GMT | How the U.S. Government Is Quietly Undermining Free Speech via Cloudflare | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/95cde86af37f) |
+| Fri, 20 Jun 2025 22:55:42 GMT | Case Study: How I Led a Cybersecurity Risk Assessment for a Luxury Design Firm. | Kehinde Babajide | [Read More](https://medium.com/p/5412084062fb) |
+| Fri, 20 Jun 2025 22:37:17 GMT | A Writer’s Approach to Picking You Up in a Bar | Dblkrose | [Read More](https://medium.com/p/2bed58630129) |
 | Fri, 20 Jun 2025 22:17:10 GMT | Network Access Control (NAC): A Complete Guide for Cybersecurity Teams | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dc329a9793fe) |
 | Fri, 20 Jun 2025 22:15:25 GMT | Ultimate Windows Security Guide: Reduce Your Attack Surface! | Joseph Peter | [Read More](https://medium.com/p/66bc3d85149b) |
 | Fri, 20 Jun 2025 22:08:28 GMT | 5 AWS IAM Mistakes You Can’t Afford to Make (and How to Fix Them) ️ | Amar Begluk | [Read More](https://medium.com/p/bc0a056c8ae3) |
@@ -108,8 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 16:36:08 GMT | “Cybersecurity : Simple Steps to Stay Safe Online” | Kashifmehmoodrizvi | [Read More](https://medium.com/p/c34915d4f18d) |
 | Fri, 20 Jun 2025 16:31:36 GMT | Welcome to Hotel Obscura: Where Anonymity Checks In Before You Do | Anzalo Quin | [Read More](https://medium.com/p/3054f59515a7) |
 | Fri, 20 Jun 2025 16:31:29 GMT | Beyond the Tabletop: Introducing Our New Incident Response Readiness Review | Medcrypt | [Read More](https://medium.com/p/b60d33a922cf) |
-| Fri, 20 Jun 2025 16:28:13 GMT | Malware Detection: From Theory to Python Implementation | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/3f881084035d) |
-| Fri, 20 Jun 2025 16:25:14 GMT | Cybersecurity News Review — Week 25 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/c08d64d00789) |
-| Fri, 20 Jun 2025 16:14:44 GMT | Headway on Training — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/aa7da6a93df2) |
-| Fri, 20 Jun 2025 16:10:21 GMT | Teaching Robots to Talk is dead  Welcome to The Last Mile | Waterfield Tech Conversational AI | [Read More](https://medium.com/p/ceabbffc84a9) |
-| Fri, 20 Jun 2025 16:06:26 GMT | The Quiet Truths Men Share in the Dark | Ms O, Naturally Inspired | [Read More](https://medium.com/p/63f4318014ac) |
