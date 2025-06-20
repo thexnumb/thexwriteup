@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 18:28:15 GMT | Title: Cybersecurity and the Psychology of Human Error: Understanding Digital Risk Behavior in… | Amritleenkaur | [Read More](https://medium.com/p/2fe886068cb7) |
+| Fri, 20 Jun 2025 18:26:39 GMT | From Terminal Noob to Global Ranker: My TryHackMe Journey (2022–2025) | Shadow Packet | [Read More](https://medium.com/p/3a183fc89313) |
+| Fri, 20 Jun 2025 18:23:40 GMT | 5 REASONS WHY CHATGPT IS THE ONLY LOYAL FRIEND. | DEBBYWRITE | [Read More](https://medium.com/p/6d66212bfd8a) |
+| Fri, 20 Jun 2025 18:21:08 GMT | The $2.3 Million Data Breach That Could’ve Been Prevented: A Complete Guide to Trino Security | Prem Vishnoi(cloudvala) | [Read More](https://medium.com/p/f478c8bb5cea) |
+| Fri, 20 Jun 2025 18:14:30 GMT | Bug Bounty report: CVE-2020–11993 | Hasan Azizov | [Read More](https://medium.com/p/e3bbca4995df) |
+| Fri, 20 Jun 2025 18:10:52 GMT | What is a Virtual Machine? How it works and why it matters (for beginners) | Zeli | [Read More](https://medium.com/p/5cdc6ff758af) |
+| Fri, 20 Jun 2025 18:09:00 GMT | How Much Time Do You Spend Looking At Ads? | Alex Einfelt | [Read More](https://medium.com/p/9b93059d6d57) |
+| Fri, 20 Jun 2025 18:04:35 GMT | Log Me Maybe: When Log Files Leaked Secrets I Wasn’t Meant to See ️ | Iski | [Read More](https://medium.com/p/a3db4d2624b7) |
+| Fri, 20 Jun 2025 18:03:43 GMT | Sign Up with Google vs Email: What Really Happens Behind the Scenes? | Lithuvarshni | [Read More](https://medium.com/p/dff262039b0d) |
+| Fri, 20 Jun 2025 18:01:12 GMT | Real Eyes. Real Time. Real Protection. | Visual Monitoring Solutions | [Read More](https://medium.com/p/1fb09b45ffe9) |
+| Fri, 20 Jun 2025 18:00:10 GMT | Beyond Passwords: Embracing the Future of Digital Security | Anthony Anaedu | [Read More](https://medium.com/p/7f3f08ef9107) |
+| Fri, 20 Jun 2025 17:56:01 GMT | Breaking Polyalphabetic Cipher: Krypton 4 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/c2a8555ac697) |
+| Fri, 20 Jun 2025 17:54:15 GMT | Uncovering a simple signup bug for a three-digit bounty | Mustafa Hatab | [Read More](https://medium.com/p/8b3314343c41) |
+| Fri, 20 Jun 2025 17:50:12 GMT | Social Media Profiling: What It Is and How Cybercriminals Use It Against Your Business | Ramsey Consulting Services | [Read More](https://medium.com/p/593877e81301) |
 | Fri, 20 Jun 2025 17:40:12 GMT | Security Automation: How I Built a Personalized RSS Threat Feed Tracker using Power Automate and… | Erin Martin | [Read More](https://medium.com/p/e5541cd620ac) |
 | Fri, 20 Jun 2025 17:38:43 GMT | Cyber Proxy War in the Shadow of a U.S. Invasion of Iran | SIMKRA | [Read More](https://medium.com/p/aeac95dd308f) |
 | Fri, 20 Jun 2025 17:37:34 GMT | CVE-2025–0133: Reflected XSS Vulnerability in Palo Alto GlobalProtect Gateway & Portal | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/028128f2f5b9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 13:01:41 GMT | How Peris.ai Uses Hyperautomation to Transform SOC Operations | Peris.ai Cybersecurity | [Read More](https://medium.com/p/1dc39d8460a4) |
 | Fri, 20 Jun 2025 13:00:57 GMT | 4 Easy Ways You Can Create Content to Win More Clients | Joe | [Read More](https://medium.com/p/58e443e53090) |
 | Fri, 20 Jun 2025 12:57:10 GMT | Herz, Hirn und Systemversagen — Warum innere Kohärenz nicht reicht | Annette Jäger | [Read More](https://medium.com/p/5237c15d2b74) |
-| Fri, 20 Jun 2025 12:55:37 GMT | The Compliance Technology Stack: Automating Audit Readiness | Eric Zietlow | [Read More](https://medium.com/p/3ed835079a5f) |
-| Fri, 20 Jun 2025 12:52:31 GMT | Cybersecurity Market Set to Cross USD 424 Billion by 2030 with Strong CAGR | Rakeshnaidu | [Read More](https://medium.com/p/090df6ad3fda) |
-| Fri, 20 Jun 2025 12:51:31 GMT | Event Security Companies Sacramento — All You Should Know | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ca4ca81e9bc0) |
-| Fri, 20 Jun 2025 12:51:25 GMT | Tom Sparks Made His Own VPN Speed Test Website? Hmm… | Johnathon M. Horner | [Read More](https://medium.com/p/ef16cb4d6942) |
-| Fri, 20 Jun 2025 12:51:16 GMT | Bir Açığın Anatomisi: Hacker Bir Zayıflığı Nasıl Fark Eder? | Mustafa Şen | [Read More](https://medium.com/p/1b3058ee35d6) |
-| Fri, 20 Jun 2025 12:46:54 GMT | Top 5 Mistakes Indians Make That Get Them Hacked – And How to Avoid | S Anuradha | [Read More](https://medium.com/p/b0f696912135) |
-| Fri, 20 Jun 2025 12:42:12 GMT | Beyond Roles: The Case for Context-Aware Authorization in Modern Applications | Francis Mwangi | [Read More](https://medium.com/p/c1d7552b42b3) |
-| Fri, 20 Jun 2025 12:41:11 GMT | Got Hacked — Here’s Everything I Learned About Cybersecurity the Hard | S Anuradha | [Read More](https://medium.com/p/e5c8a3dc41ad) |
-| Fri, 20 Jun 2025 12:39:48 GMT | Hashtag(#) Search Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/3546b79595fa) |
-| Fri, 20 Jun 2025 12:28:43 GMT | My Journey as a Cybersecurity Analyst living in Nigeria | Bright-Hart | [Read More](https://medium.com/p/336757fdc761) |
-| Fri, 20 Jun 2025 12:21:25 GMT | TryHackMe — Rooting Bolt | Jsar | [Read More](https://medium.com/p/763f3fb0b4d2) |
-| Fri, 20 Jun 2025 12:10:45 GMT | Bypassing Geolocation Restrictions using AWS EC2 as a Proxy Host (and Integrating with Burp Suite) | dextro | [Read More](https://medium.com/p/8d8f2f98d6ae) |
-| Fri, 20 Jun 2025 12:07:09 GMT | How XSS and OAuth Misconfigs Steal Your Tokens | Ibtissam hammadi | [Read More](https://medium.com/p/63879240fbe2) |
-| Fri, 20 Jun 2025 12:06:39 GMT | The Identity Wars -Ep3 | Amey Rugge | [Read More](https://medium.com/p/bfe68bdecade) |
