@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 14:16:47 GMT | Is Your Smart Home Spying on You? How to Keep Hackers Out | Abdulnuhu | [Read More](https://medium.com/p/73684ff2f6a1) |
+| Fri, 20 Jun 2025 14:06:02 GMT | Why do we need Container Security | Akanksha | [Read More](https://medium.com/p/75784830ceff) |
+| Fri, 20 Jun 2025 14:05:16 GMT | Hardening Your Static API Keys with Time-Based Signatures | naandalist | [Read More](https://medium.com/p/f19db8c1078b) |
+| Fri, 20 Jun 2025 14:04:04 GMT | Israel-Iran Conflict Sets Off Alarm Bells in Pakistan | mahwish qayyum | [Read More](https://medium.com/p/4526214598f7) |
+| Fri, 20 Jun 2025 14:01:55 GMT | Cyber Briefing: 2025.06.20 | CyberMaterial | [Read More](https://medium.com/p/111e1ce968d1) |
+| Fri, 20 Jun 2025 13:54:40 GMT | Building Intelligence Into the Everyday: My Journey into Embedded Systems at UIRI | Grace Wanja | [Read More](https://medium.com/p/038b0eeb51b3) |
+| Fri, 20 Jun 2025 13:49:28 GMT | when helping doesn’t help | jewel ˙⋆.˚ | [Read More](https://medium.com/p/5da81e1af806) |
+| Fri, 20 Jun 2025 13:43:02 GMT | The Linux Service That Almost Let Attackers Slip In (And How I Found It Just in Time) | Faruk Ahmed | [Read More](https://medium.com/p/07b72a883f78) |
+| Fri, 20 Jun 2025 13:35:30 GMT | ZeeSecure Python Application Deployment Without Exposing Source Code | Ramkrushna Maheshwar | [Read More](https://medium.com/p/84836db33977) |
+| Fri, 20 Jun 2025 13:34:32 GMT | Podcast: iOS Keychain vs Android Keystore | Talsec | [Read More](https://medium.com/p/bc724ab70f1b) |
+| Fri, 20 Jun 2025 13:31:34 GMT | 2 Star Security Door Handles — Are They Enough to Stop Burglars? | Lock Fitter | [Read More](https://medium.com/p/b35e3850e4c4) |
+| Fri, 20 Jun 2025 13:30:34 GMT | Safety & Liveness in Formal Verification and how to prove it | Julius Schneider | [Read More](https://medium.com/p/848c8d9cea76) |
 | Fri, 20 Jun 2025 13:29:10 GMT | Buffer Overflow Exploit — Compromising a Linux System via SUID 32-bit Binary | 0xb07 | [Read More](https://medium.com/p/dca97b25eb94) |
 | Fri, 20 Jun 2025 13:24:41 GMT | From Login Page to Full Admin Panel Takeover (Arabic version) | rood | [Read More](https://medium.com/p/da63a22cc09c) |
 | Fri, 20 Jun 2025 13:22:59 GMT | GhostVendors Campaign: The Rise of Fake Shopping Sites | TheReviewHive | [Read More](https://medium.com/p/d6425329cf9b) |
@@ -101,15 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 08:57:00 GMT | Detecting XSS Attacks with LLM Agents: Reflected, Stored, and DOM-Based Explained - Part1. | Suhana Shaik | [Read More](https://medium.com/p/db4b575d4aa8) |
 | Fri, 20 Jun 2025 08:51:02 GMT | Google, Apple, Facebook Logins Exposed in 2025’s 16 Billion Password Leak — What You Must Do Now | Aaron | [Read More](https://medium.com/p/c8c3abca9bc3) |
 | Fri, 20 Jun 2025 08:50:19 GMT | Kindness is Heavy | Syafina Patriani | [Read More](https://medium.com/p/620289916e3c) |
-| Fri, 20 Jun 2025 08:44:16 GMT | Inside the Mind of a Hacker: The Art and Ethics of Modern Cyber Intrusion | Anonymode | [Read More](https://medium.com/p/f3e0d4f415b1) |
-| Fri, 20 Jun 2025 08:35:34 GMT | The Quiet Revolution: Preparing for a Post-Quantum Cryptographic Era | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0864bfa7caaf) |
-| Fri, 20 Jun 2025 08:25:06 GMT | Firewall Fundamentals | Muhammaddaffa | [Read More](https://medium.com/p/e31fc6bf931e) |
-| Fri, 20 Jun 2025 08:19:46 GMT | How XSS Attacks Work — And How to Stop Them | Quella | [Read More](https://medium.com/p/eee98f112f27) |
-| Fri, 20 Jun 2025 08:19:38 GMT | Wa Tokopedia | Hubungi Layanan WhatsApp Tokopedia | [Read More](https://medium.com/p/0a92028ae4c4) |
-| Fri, 20 Jun 2025 08:17:51 GMT | ️ ExRecon v2.0 — TOR-Based Nmap Automation for Ethical Hackers and Red Teams | Exreconnaissance | [Read More](https://medium.com/p/f8b62ae2fee5) |
-| Fri, 20 Jun 2025 08:14:25 GMT | Crypto Crimes: Not Just Code, But Human Chaos | CoinGen | [Read More](https://medium.com/p/1d0dd969d48b) |
-| Fri, 20 Jun 2025 08:06:17 GMT | Kubernetes, up and sailing..against the odds | Wilfried Bessovi | [Read More](https://medium.com/p/9a1673f6df48) |
-| Fri, 20 Jun 2025 07:58:40 GMT | The €2 Billion Microsoft Office Problem Just Got Worse: We’re Not Just Wasting Money, We’re… | Markus Sandelin | [Read More](https://medium.com/p/0f1c6dd8984a) |
-| Fri, 20 Jun 2025 07:43:05 GMT | API again: Org Takeover | callgh0st | [Read More](https://medium.com/p/a02e6d353027) |
-| Fri, 20 Jun 2025 07:41:34 GMT | Corporate Boondoggles: KISS Your Vendor Bloat Goodbye with C# and In-House Ingenuity | Namir Sagheenanajar | [Read More](https://medium.com/p/4f2193a05567) |
-| Fri, 20 Jun 2025 07:39:29 GMT | Top 10 Python Libraries for Cybersecurity in 2025 | Akshay | [Read More](https://medium.com/p/5a00eb50765d) |
