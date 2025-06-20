@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 13:29:10 GMT | Buffer Overflow Exploit — Compromising a Linux System via SUID 32-bit Binary | 0xb07 | [Read More](https://medium.com/p/dca97b25eb94) |
+| Fri, 20 Jun 2025 13:24:41 GMT | From Login Page to Full Admin Panel Takeover (Arabic version) | rood | [Read More](https://medium.com/p/da63a22cc09c) |
+| Fri, 20 Jun 2025 13:22:59 GMT | GhostVendors Campaign: The Rise of Fake Shopping Sites | TheReviewHive | [Read More](https://medium.com/p/d6425329cf9b) |
+| Fri, 20 Jun 2025 13:20:35 GMT | From Login Page to Full Admin Panel Takeover | rood | [Read More](https://medium.com/p/46695e45d228) |
+| Fri, 20 Jun 2025 13:09:06 GMT | Meta Data Breach 2025: What Was Stolen and Why It Matters | Shalomo Agarwarkar | [Read More](https://medium.com/p/17cb13ebfe79) |
+| Fri, 20 Jun 2025 13:08:40 GMT | How Prime Numbers Secure the Internet | Taaha | [Read More](https://medium.com/p/7f123857f785) |
+| Fri, 20 Jun 2025 13:04:52 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/aa4f14445fc3) |
+| Fri, 20 Jun 2025 13:01:41 GMT | How Peris.ai Uses Hyperautomation to Transform SOC Operations | Peris.ai Cybersecurity | [Read More](https://medium.com/p/1dc39d8460a4) |
+| Fri, 20 Jun 2025 13:00:57 GMT | 4 Easy Ways You Can Create Content to Win More Clients | Joe | [Read More](https://medium.com/p/58e443e53090) |
+| Fri, 20 Jun 2025 12:55:37 GMT | The Compliance Technology Stack: Automating Audit Readiness | Eric Zietlow | [Read More](https://medium.com/p/3ed835079a5f) |
+| Fri, 20 Jun 2025 12:52:31 GMT | Cybersecurity Market Set to Cross USD 424 Billion by 2030 with Strong CAGR | Rakeshnaidu | [Read More](https://medium.com/p/090df6ad3fda) |
+| Fri, 20 Jun 2025 12:51:31 GMT | Event Security Companies Sacramento — All You Should Know | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ca4ca81e9bc0) |
+| Fri, 20 Jun 2025 12:51:25 GMT | Tom Sparks Made His Own VPN Speed Test Website? Hmm… | Johnathon M. Horner | [Read More](https://medium.com/p/ef16cb4d6942) |
+| Fri, 20 Jun 2025 12:46:54 GMT | Top 5 Mistakes Indians Make That Get Them Hacked – And How to Avoid | S Anuradha | [Read More](https://medium.com/p/b0f696912135) |
+| Fri, 20 Jun 2025 12:42:12 GMT | Beyond Roles: The Case for Context-Aware Authorization in Modern Applications | Francis Mwangi | [Read More](https://medium.com/p/c1d7552b42b3) |
+| Fri, 20 Jun 2025 12:41:11 GMT | Got Hacked — Here’s Everything I Learned About Cybersecurity the Hard | S Anuradha | [Read More](https://medium.com/p/e5c8a3dc41ad) |
+| Fri, 20 Jun 2025 12:39:48 GMT | Hashtag(#) Search Tools for OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/3546b79595fa) |
 | Fri, 20 Jun 2025 12:28:43 GMT | My Journey as a Cybersecurity Analyst living in Nigeria | Bright-Hart | [Read More](https://medium.com/p/336757fdc761) |
 | Fri, 20 Jun 2025 12:21:25 GMT | TryHackMe — Rooting Bolt | Jsar | [Read More](https://medium.com/p/763f3fb0b4d2) |
 | Fri, 20 Jun 2025 12:10:45 GMT | Bypassing Geolocation Restrictions using AWS EC2 as a Proxy Host (and Integrating with Burp Suite) | dextro | [Read More](https://medium.com/p/8d8f2f98d6ae) |
@@ -96,20 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 07:43:05 GMT | API again: Org Takeover | callgh0st | [Read More](https://medium.com/p/a02e6d353027) |
 | Fri, 20 Jun 2025 07:41:34 GMT | Corporate Boondoggles: KISS Your Vendor Bloat Goodbye with C# and In-House Ingenuity | Namir Sagheenanajar | [Read More](https://medium.com/p/4f2193a05567) |
 | Fri, 20 Jun 2025 07:39:29 GMT | Top 10 Python Libraries for Cybersecurity in 2025 | Akshay | [Read More](https://medium.com/p/5a00eb50765d) |
-| Fri, 20 Jun 2025 07:35:48 GMT | How vDOT Rapidly Recovers Peg During Market Volatility | Bifrost | [Read More](https://medium.com/p/6f4edeb92c5e) |
-| Fri, 20 Jun 2025 07:34:27 GMT | HTML Injection: From Discovery to Exploitation | Isha Sangpal | [Read More](https://medium.com/p/efe4a620acf8) |
-| Fri, 20 Jun 2025 07:31:14 GMT | Learn Ethical Hacking and Penetration Testing After 12th: Complete Guide | cyber security Updates | [Read More](https://medium.com/p/1a2a151daf03) |
-| Fri, 20 Jun 2025 07:29:44 GMT | Ethical Hacking Crash Course — Basic to Advanced | Manisha Chaudhary | [Read More](https://medium.com/p/a2584d14d399) |
-| Fri, 20 Jun 2025 07:25:03 GMT | Cybersecurity on ₹0: Free Blogs, Labs, and Channels That Can Get You Started | Shahrukh Sec | [Read More](https://medium.com/p/c8fa922e3d92) |
-| Fri, 20 Jun 2025 07:21:49 GMT | Automating WAF Response with n8n and SafeLine | Maverick Steel | [Read More](https://medium.com/p/3d78ecd93960) |
-| Fri, 20 Jun 2025 07:20:02 GMT | Why Cloud-Based IT Services Are a Game-Changer | CyberSolvings | [Read More](https://medium.com/p/7be2b4087fbc) |
-| Fri, 20 Jun 2025 07:19:24 GMT | Securing MCP: From Vulnerable to Fortified — Building Secure HTTP-based AI Integrations | Rick Hightower | [Read More](https://medium.com/p/b706b0281e73) |
-| Fri, 20 Jun 2025 07:09:17 GMT | The Agent-Oriented Future: How a New Blueprint Is Turning AI Chaos into Enterprise-Ready Systems | ArXiv In-depth Analysis | [Read More](https://medium.com/p/a0e64e84b58f) |
-| Fri, 20 Jun 2025 07:08:06 GMT | INDONESIA’S EDUCATION SECTOR IS AN EASY TARGET FOR CYBER ATTACKS: Evidence of Attacks Is Growing! | Sydeco Indonesia | [Read More](https://medium.com/p/727a5be052e8) |
-| Fri, 20 Jun 2025 07:06:41 GMT | From Checklists to Culture: Embedding Learning into the DNA of Modern Workplaces | Medora Grasser | [Read More](https://medium.com/p/024f464fca10) |
-| Fri, 20 Jun 2025 06:58:49 GMT | Top Cybersecurity Threats to Watch in 2025 | Les Ottolenghi | [Read More](https://medium.com/p/7ff9f4f4455a) |
-| Fri, 20 Jun 2025 06:58:01 GMT | Quantum threat to RSA and the security of modern internet data transport | Dr. Sougata Pal | [Read More](https://medium.com/p/1a6644079b8e) |
-| Fri, 20 Jun 2025 06:57:39 GMT | The Growing Demand for Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a2582e680ef3) |
-| Fri, 20 Jun 2025 06:54:46 GMT | 2025’s Remote Money Hack: Make Your First $1,000/Month in 30 Days | The Observer’s Pen | [Read More](https://medium.com/p/3dde23b7b106) |
-| Fri, 20 Jun 2025 06:48:49 GMT | Windows Malware: Rootkit Reverse Engineering | dandor2022 | [Read More](https://medium.com/p/4209736fb5f7) |
-| Fri, 20 Jun 2025 06:48:23 GMT | Why Entrance Exams Matter for Computer Science and Cyber Security Careers | Aashi | [Read More](https://medium.com/p/c452f6989026) |
