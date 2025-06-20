@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 15:12:35 GMT | My Journey to Achieving the Cyberwarfare Labs Certified Red Team Infra Dev Certification | THAMER ALNAJADAT | [Read More](https://medium.com/p/0995901d4f00) |
+| Fri, 20 Jun 2025 15:10:12 GMT | War Looms in Northern Europe | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/bf85716fcda6) |
+| Fri, 20 Jun 2025 15:06:46 GMT | CVE-2007–2447 Exploitation | Dangesunny | [Read More](https://medium.com/p/e62d6349b6fa) |
+| Fri, 20 Jun 2025 15:01:43 GMT | Securing the Cloud: Lessons from Leading GCP Migrations in Financial Services | Remya Haridasan | [Read More](https://medium.com/p/a045103121f0) |
+| Fri, 20 Jun 2025 15:01:39 GMT | Top 5 Critical Capabilities of a Detection & Response-Enabled Application Platform | RFA | [Read More](https://medium.com/p/b6aa6b410e28) |
+| Fri, 20 Jun 2025 15:01:11 GMT | What Payment Page Scenarios Trigger PCI DSS 4.0 Requirements — and How Can CISOs Stay Compliant? | Feroot Security | [Read More](https://medium.com/p/e50b8d1f610c) |
+| Fri, 20 Jun 2025 14:57:38 GMT | Securing Payment Pages: PCI DSS 11.6.1 Guide | Feroot Security | [Read More](https://medium.com/p/54dcf58d3656) |
+| Fri, 20 Jun 2025 14:56:24 GMT | How I Made My Kali Linux Terminal Look Awesome in 5 Minutes | MatSec | [Read More](https://medium.com/p/b0b7310d6651) |
+| Fri, 20 Jun 2025 14:53:15 GMT | 16 Billion Passwords Leaked: The Largest Credential Leak in History | Badal Mehra | [Read More](https://medium.com/p/d5ecf02f925f) |
+| Fri, 20 Jun 2025 14:46:07 GMT | CHANGE YOUR PASSWORDS NOW! | Derick David | [Read More](https://medium.com/p/b7052ea38ba5) |
+| Fri, 20 Jun 2025 14:32:13 GMT | Hi! How Have You Been? I Hope You’re Eating Good and Sleeping Well… | Novia Ageng | [Read More](https://medium.com/p/198a04746997) |
 | Fri, 20 Jun 2025 14:29:43 GMT | Should Schools Have Metal Detectors? The Security vs. Safety Dilemma in American Education | 4.0 Schools | [Read More](https://medium.com/p/6af2a98bb1cd) |
 | Fri, 20 Jun 2025 14:26:23 GMT | Massive Data Leak Exposes 16 Billion Credentials — Here’s How to Stay Safe | Jyoti Sing | [Read More](https://medium.com/p/ebccd345863c) |
 | Fri, 20 Jun 2025 14:20:46 GMT | Trust Boundary: Yazılım Mimarisinde Güven Sınırları | Mustafa Dikyar | [Read More](https://medium.com/p/84ebfb8c5f82) |
@@ -102,14 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 09:58:29 GMT | 6 Billion Passwords Leaked: Tech Giants Including Google, Facebook, Apple at Risk — Take Action… | Bug Mohol | [Read More](https://medium.com/p/efe682732062) |
 | Fri, 20 Jun 2025 09:57:37 GMT | Host & Network Penetration Testing The Metasploit Framework CTF 2— eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/70ea747461ad) |
 | Fri, 20 Jun 2025 09:57:32 GMT | Guide: Installing and Using Wazuh for Security Monitoring | De@d$ec | [Read More](https://medium.com/p/f4f0ca816588) |
-| Fri, 20 Jun 2025 09:49:17 GMT | InfoPêxwas: How They Pick Your Digital Pockets Without You Noticing | Dogan Can Bakir | [Read More](https://medium.com/p/ca247d4b5fc0) |
-| Fri, 20 Jun 2025 09:45:15 GMT | Authentication part-8 : 2FA broken logic | Ahmad Sopyan | [Read More](https://medium.com/p/d7ecbc50f7f8) |
-| Fri, 20 Jun 2025 09:44:05 GMT | How Our ‘Secure’ AWS VPC Peering Leaked Secrets via DNS | Rudra | [Read More](https://medium.com/p/72c1bcceb5ce) |
-| Fri, 20 Jun 2025 09:43:57 GMT | VXRL security summit — June 2025 | VXRL | [Read More](https://medium.com/p/334d6303cf75) |
-| Fri, 20 Jun 2025 09:43:04 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/147e1284877f) |
-| Fri, 20 Jun 2025 09:41:19 GMT | You Just Signed Up for a New App — And Boom, You’re Hacked. What Is XSS? | Chimereze! | [Read More](https://medium.com/p/d8b81d3ff0fc) |
-| Fri, 20 Jun 2025 09:40:29 GMT | When Logic Couldn’t Save Me: What My Breakup Taught Me About Feeling Again | Ahmad Ghamloush | [Read More](https://medium.com/p/8be1b39a9070) |
-| Fri, 20 Jun 2025 09:28:20 GMT | ️ 8 Corporate Security Tips Every Office in Delhi NCR Should Follow | Sumintra | [Read More](https://medium.com/p/66b81603954e) |
-| Fri, 20 Jun 2025 09:24:39 GMT | My Cybersecurity Journey: From Beginner to Ethical Hacker with Cisco | Darshan | [Read More](https://medium.com/p/db6be3a7c917) |
-| Fri, 20 Jun 2025 09:17:14 GMT | What is Metasploit Framework? | The Drop Organization | [Read More](https://medium.com/p/750382beb3a2) |
-| Fri, 20 Jun 2025 09:01:48 GMT | SOC 2 vs ISO 27001: Which Framework is Right for You? | SecureSlate | [Read More](https://medium.com/p/30249cd93353) |
