@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 21:18:03 GMT | The AI-Cybersecurity Convergence: Enterprise Architecture’s New Mandate | MAHESH KUMAR GADDAM | [Read More](https://medium.com/p/9d5730ddb953) |
+| Fri, 20 Jun 2025 21:17:54 GMT | They Hacked a Billion-Dollar Company in 7 Minutes—Here’s How You Can Avoid Being Next | The Content Explorer: Ahmed Abdullah | [Read More](https://medium.com/p/769a675356c9) |
+| Fri, 20 Jun 2025 21:10:52 GMT | Unpacking iOS Apps: How to Extract IPA Files from Jailbroken iPhone Using Python | Hary Ft | [Read More](https://medium.com/p/1425a2b18fb2) |
+| Fri, 20 Jun 2025 21:01:59 GMT | Still up? Good. Let’s talk Availability! | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/60d7a62b6008) |
+| Fri, 20 Jun 2025 20:57:03 GMT | How EDRs Detect Threats and How Adversaries Try to Evade Them | R1cH4t | [Read More](https://medium.com/p/ecc07e8b1688) |
+| Fri, 20 Jun 2025 20:56:33 GMT | Your Security is Only as Strong as Your HVAC Guy: A Crash Course in Third-Party Risk | Wale Adedeji | [Read More](https://medium.com/p/cef8686bd35d) |
+| Fri, 20 Jun 2025 20:50:29 GMT | The Hidden Dangers of Logging Out: Why Your Sessions May Still Be Active | Kazi Lamisa | [Read More](https://medium.com/p/f7380a5b33bc) |
 | Fri, 20 Jun 2025 20:34:32 GMT | Dynamic Data Masking : Strength and Weakness | Johan Max | [Read More](https://medium.com/p/e046d1172faf) |
 | Fri, 20 Jun 2025 20:31:32 GMT | The Zombie Streaming Ecosystem: Dead Apps, Fake Updates, and Misinformation Sites in 2025” | Sammcmullen | [Read More](https://medium.com/p/3b6c20a4bb02) |
 | Fri, 20 Jun 2025 20:30:04 GMT | Capture HandShake with Fluxion | anonymous howtos | [Read More](https://medium.com/p/a9cbe8268ef4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 15:23:12 GMT | Cybersecurity | Nathkumar | [Read More](https://medium.com/p/9cdd797d422e) |
 | Fri, 20 Jun 2025 15:12:35 GMT | My Journey to Achieving the Cyberwarfare Labs Certified Red Team Infra Dev Certification | THAMER ALNAJADAT | [Read More](https://medium.com/p/0995901d4f00) |
 | Fri, 20 Jun 2025 15:10:12 GMT | War Looms in Northern Europe | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/bf85716fcda6) |
-| Fri, 20 Jun 2025 15:06:46 GMT | CVE-2007–2447 Exploitation | Dangesunny | [Read More](https://medium.com/p/e62d6349b6fa) |
-| Fri, 20 Jun 2025 15:01:43 GMT | Securing the Cloud: Lessons from Leading GCP Migrations in Financial Services | Remya Haridasan | [Read More](https://medium.com/p/a045103121f0) |
-| Fri, 20 Jun 2025 15:01:39 GMT | Top 5 Critical Capabilities of a Detection & Response-Enabled Application Platform | RFA | [Read More](https://medium.com/p/b6aa6b410e28) |
-| Fri, 20 Jun 2025 15:01:11 GMT | What Payment Page Scenarios Trigger PCI DSS 4.0 Requirements — and How Can CISOs Stay Compliant? | Feroot Security | [Read More](https://medium.com/p/e50b8d1f610c) |
-| Fri, 20 Jun 2025 14:57:38 GMT | Securing Payment Pages: PCI DSS 11.6.1 Guide | Feroot Security | [Read More](https://medium.com/p/54dcf58d3656) |
-| Fri, 20 Jun 2025 14:56:24 GMT | How I Made My Kali Linux Terminal Look Awesome in 5 Minutes | MatSec | [Read More](https://medium.com/p/b0b7310d6651) |
-| Fri, 20 Jun 2025 14:53:15 GMT | 16 Billion Passwords Leaked: The Largest Credential Leak in History | Badal Mehra | [Read More](https://medium.com/p/d5ecf02f925f) |
