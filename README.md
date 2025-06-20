@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 20:34:32 GMT | Dynamic Data Masking : Strength and Weakness | Johan Max | [Read More](https://medium.com/p/e046d1172faf) |
+| Fri, 20 Jun 2025 20:31:32 GMT | The Zombie Streaming Ecosystem: Dead Apps, Fake Updates, and Misinformation Sites in 2025” | Sammcmullen | [Read More](https://medium.com/p/3b6c20a4bb02) |
+| Fri, 20 Jun 2025 20:30:04 GMT | Capture HandShake with Fluxion | anonymous howtos | [Read More](https://medium.com/p/a9cbe8268ef4) |
+| Fri, 20 Jun 2025 20:29:41 GMT | Are You Still Using the Same Password Everywhere? | JayKee | [Read More](https://medium.com/p/cfd7de98ed26) |
+| Fri, 20 Jun 2025 20:28:31 GMT | Modern IT: It’s Not About Tools. It’s About Keeping Your Sanity. | Luis Silva | [Read More](https://medium.com/p/60e6b2f5db07) |
+| Fri, 20 Jun 2025 20:21:00 GMT | Building a Web File Scanner with FastAPI, ClamAV and Docker | Yuxuan | [Read More](https://medium.com/p/a35e695a5795) |
 | Fri, 20 Jun 2025 20:10:07 GMT | Confidential Computing: The Security Foundation for Trusted AI and Autonomous Agentic Systems | Valdez Ladd | [Read More](https://medium.com/p/7e3823eaf857) |
 | Fri, 20 Jun 2025 20:06:15 GMT | Quantum Computing Explained: From Theory to Real-World Use Cases | travelsmarthacks.site | [Read More](https://medium.com/p/d1f33e4e2095) |
 | Fri, 20 Jun 2025 20:01:17 GMT | 16 Billion Passwords Leaked in the Biggest Breach Ever — Change Yours NOW | Areeba Shahbaz | [Read More](https://medium.com/p/17a66f805b6f) |
@@ -59,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 17:32:34 GMT | 3. Detecting Attackers with a Honey User Trap | abdelrahman ahmed amin | [Read More](https://medium.com/p/381bcf1e76a4) |
 | Fri, 20 Jun 2025 17:28:05 GMT | How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | Monika sharma | [Read More](https://medium.com/p/9dbd836c315b) |
 | Fri, 20 Jun 2025 17:27:57 GMT | Why Chrome Desktop Should Prompt for Re-Authentication Before Viewing Passwords — A Security… | RV Sharma | [Read More](https://medium.com/p/235f202069ef) |
+| Fri, 20 Jun 2025 17:22:11 GMT | Desvendando o AWS SSM Parameter Store: Gerenciamento Seguro de Configurações na Nuvem | Vinicius Santos | [Read More](https://medium.com/p/6b7e74e1e658) |
 | Fri, 20 Jun 2025 17:20:36 GMT | This Is How Tech Companies Are Designing You — Not Just Your Apps | Hafizbilaltariq | [Read More](https://medium.com/p/c7905a97b0b6) |
 | Fri, 20 Jun 2025 17:07:24 GMT | Dork Recon to self-learn unique stuff | AbhirupKonwar | [Read More](https://medium.com/p/2c9f78ff5661) |
 | Fri, 20 Jun 2025 17:05:59 GMT | Data Leaked on Dark Web? Secure Your Passwords to be Protected | Hoplon Infosec | [Read More](https://medium.com/p/9728d25b89ed) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 14:57:38 GMT | Securing Payment Pages: PCI DSS 11.6.1 Guide | Feroot Security | [Read More](https://medium.com/p/54dcf58d3656) |
 | Fri, 20 Jun 2025 14:56:24 GMT | How I Made My Kali Linux Terminal Look Awesome in 5 Minutes | MatSec | [Read More](https://medium.com/p/b0b7310d6651) |
 | Fri, 20 Jun 2025 14:53:15 GMT | 16 Billion Passwords Leaked: The Largest Credential Leak in History | Badal Mehra | [Read More](https://medium.com/p/d5ecf02f925f) |
-| Fri, 20 Jun 2025 14:46:07 GMT | CHANGE YOUR PASSWORDS NOW! | Derick David | [Read More](https://medium.com/p/b7052ea38ba5) |
-| Fri, 20 Jun 2025 14:32:13 GMT | Hi! How Have You Been? I Hope You’re Eating Good and Sleeping Well… | Novia Ageng | [Read More](https://medium.com/p/198a04746997) |
-| Fri, 20 Jun 2025 14:29:43 GMT | Should Schools Have Metal Detectors? The Security vs. Safety Dilemma in American Education | 4.0 Schools | [Read More](https://medium.com/p/6af2a98bb1cd) |
-| Fri, 20 Jun 2025 14:26:23 GMT | Massive Data Leak Exposes 16 Billion Credentials — Here’s How to Stay Safe | Jyoti Sing | [Read More](https://medium.com/p/ebccd345863c) |
-| Fri, 20 Jun 2025 14:20:46 GMT | Trust Boundary: Yazılım Mimarisinde Güven Sınırları | Mustafa Dikyar | [Read More](https://medium.com/p/84ebfb8c5f82) |
-| Fri, 20 Jun 2025 14:19:59 GMT | Pyrat walkthrough | Anubhav Bali | [Read More](https://medium.com/p/e98e27b05b73) |
-| Fri, 20 Jun 2025 14:18:02 GMT | LetsDefend: Spice RAT Challenge | V0idd | [Read More](https://medium.com/p/b0fa2112c2b3) |
