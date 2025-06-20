@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 06:14:56 GMT | What is Bug Bounty Hunting ️‍♂️ | Đeepanshu | [Read More](https://medium.com/p/c02d24853e16) |
+| Fri, 20 Jun 2025 06:13:14 GMT | The Corix Partners Friday Reading List — June 20, 2025 | JC Gaillard | [Read More](https://medium.com/p/d1c0c4e155ae) |
+| Fri, 20 Jun 2025 06:06:51 GMT | No, 16 Billion Passwords Didn’t Just Get Leaked — Here’s the Real Story | Sle3pyHead ‍ | [Read More](https://medium.com/p/bba2940fd684) |
+| Fri, 20 Jun 2025 06:06:42 GMT | 16 Billion Passwords Leaked: What You Need to Know About the Internet’s Biggest Data Breach. | eL Njas!™ | [Read More](https://medium.com/p/2629995d349e) |
+| Fri, 20 Jun 2025 06:05:48 GMT | From Request to Verification: The Full Journey of an OTP | Jiya Agrawal | [Read More](https://medium.com/p/c53b5ed23eb2) |
+| Fri, 20 Jun 2025 06:01:38 GMT | Our India’s Education System Faces Digital Attacks: Are We Prepared? | Nivas Kanniah | [Read More](https://medium.com/p/4b20853529c9) |
+| Fri, 20 Jun 2025 06:01:25 GMT | How You Can Use ChatGPT to Supercharge Your Bug Bounty Hunting Workflow | Vinoth Dayalan | [Read More](https://medium.com/p/e65c19021ea1) |
+| Fri, 20 Jun 2025 06:00:40 GMT | Beyond the Build: A Strategic Guide to Choosing Your WordPress Partner in Ahmedabad | IBeam Infosys | [Read More](https://medium.com/p/f390bd79c635) |
+| Fri, 20 Jun 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Jun 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/893aed487be1) |
+| Fri, 20 Jun 2025 05:57:05 GMT | Secrets in Your AWS Lambda? Catch Them with Config Rules Before They Catch You | Shubham Verma | [Read More](https://medium.com/p/477f2aa1fd83) |
+| Fri, 20 Jun 2025 05:56:41 GMT | 76 GitHub Accounts. 1 Massive Malware Operation. | Cyber-AppSec | [Read More](https://medium.com/p/0764dccd3390) |
+| Fri, 20 Jun 2025 05:53:57 GMT | How do consumer and enterprise IT antivirus security products protect the customer in 2025? | Greatworxs - IT Consulting Services | [Read More](https://medium.com/p/02f6132c25cb) |
+| Fri, 20 Jun 2025 05:51:35 GMT | A7 Security Hunters App Now Live on iPhone — Learn Cybersecurity, IT, Networking & More Online! | A7 Security Hunters | [Read More](https://medium.com/p/b1fdea4f804f) |
 | Fri, 20 Jun 2025 05:43:12 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | Tekhabeeb | [Read More](https://medium.com/p/0b632cf908fa) |
 | Fri, 20 Jun 2025 05:40:46 GMT | Bridging the Gap: Why Usable Security is the Missing Link in Your DevSecOps Strategy | Mpandugalang | [Read More](https://medium.com/p/96be39dd4b6a) |
 | Fri, 20 Jun 2025 05:40:27 GMT | Gmail May Block Your Login — Even with the Right Password | IEEE Computer Society VIT | [Read More](https://medium.com/p/ffa3f41a8c12) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 20:12:27 GMT | Types of Security Services in the UK — Which One Do You Need? | waeventservices.co.uk/ | [Read More](https://medium.com/p/a4c26f264ba9) |
 | Thu, 19 Jun 2025 20:04:49 GMT | EchoLeak: The First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365… | SoumayaJoshi | [Read More](https://medium.com/p/59242c344b1e) |
 | Thu, 19 Jun 2025 20:03:53 GMT | Implementing Shift-Left Security: A Practical DevSecOps Guide | Cesar Schneider | [Read More](https://medium.com/p/8ca1c9666052) |
-| Thu, 19 Jun 2025 20:00:44 GMT | Revolutionizing Remote Collaboration: The Yonda Experience | Yonda | [Read More](https://medium.com/p/598ca000ebd7) |
-| Thu, 19 Jun 2025 19:56:01 GMT | Daily Bugle writeup — TryHacke | 0xH1S | [Read More](https://medium.com/p/6310b617434b) |
-| Thu, 19 Jun 2025 19:54:03 GMT | Calling All Cybersecurity Champions: Conquering Computer Viruses | CFE Consultancy Services | [Read More](https://medium.com/p/fa8f107acac0) |
-| Thu, 19 Jun 2025 19:52:16 GMT | Visibility and Governance of Generative AI Apps | anthony k | [Read More](https://medium.com/p/0901cdfa1b6e) |
-| Thu, 19 Jun 2025 19:49:19 GMT | OpenNetAdmin 18.1.1 — Remote Code Execution (Exploit-DB 47691) | CyberQuestor | [Read More](https://medium.com/p/7c25c9b0ea68) |
-| Thu, 19 Jun 2025 19:48:56 GMT | Video Auditing Explained: Improve Operational Efficiency at Your Business | Karson Corbitt | [Read More](https://medium.com/p/2d8c55d36d43) |
-| Thu, 19 Jun 2025 19:39:26 GMT | When a .url File Can Own You — CVE-2025–33053 Explained | Janindu Dissanayake | [Read More](https://medium.com/p/e8d5a489a0f5) |
-| Thu, 19 Jun 2025 19:38:01 GMT | Attacking Email Services | Fatimahasan | [Read More](https://medium.com/p/ab69e2dd5e86) |
-| Thu, 19 Jun 2025 19:33:41 GMT | Reference Architecture for Team AI Productivity | Matt Eland | [Read More](https://medium.com/p/8e4af63e3249) |
-| Thu, 19 Jun 2025 19:27:09 GMT | ️‍️Así analizo CORREOS, USUARIOS, TELÉFONO, DATOS FILTRADOS y PERFILES DIGITALES con… | D4nYeD | [Read More](https://medium.com/p/0bda424d7ff6) |
-| Thu, 19 Jun 2025 19:22:38 GMT | Navigating the Unknowns in M&A Cybersecurity | anthony k | [Read More](https://medium.com/p/453953111b1d) |
-| Thu, 19 Jun 2025 19:22:26 GMT | How to install a Chrome extension that is ‘blocked’ | Vinicius Batistella | [Read More](https://medium.com/p/328849307508) |
-| Thu, 19 Jun 2025 19:10:15 GMT | The Great Knowledge Divide: How Smart Systems Might Make Us Collectively Dumber | Dave'Vinci | [Read More](https://medium.com/p/b8abd8bb3c60) |
