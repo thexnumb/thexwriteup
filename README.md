@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 08:44:16 GMT | Inside the Mind of a Hacker: The Art and Ethics of Modern Cyber Intrusion | Anonymode | [Read More](https://medium.com/p/f3e0d4f415b1) |
+| Fri, 20 Jun 2025 08:35:34 GMT | The Quiet Revolution: Preparing for a Post-Quantum Cryptographic Era | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0864bfa7caaf) |
 | Fri, 20 Jun 2025 08:25:06 GMT | Firewall Fundamentals | Muhammaddaffa | [Read More](https://medium.com/p/e31fc6bf931e) |
 | Fri, 20 Jun 2025 08:19:46 GMT | How XSS Attacks Work — And How to Stop Them | Quella | [Read More](https://medium.com/p/eee98f112f27) |
 | Fri, 20 Jun 2025 08:19:38 GMT | Wa Tokopedia | Hubungi Layanan WhatsApp Tokopedia | [Read More](https://medium.com/p/0a92028ae4c4) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 00:33:28 GMT | Nem só de LGPD vive o Direito Cibernético… | esther | [Read More](https://medium.com/p/44cb23c1bc83) |
 | Fri, 20 Jun 2025 00:31:02 GMT | The Day the Internet Held Its Breath: How Cloudflare Defeated a 7.3 Tbps DDoS Monster | Aaron Rose | [Read More](https://medium.com/p/b25318b27c70) |
 | Fri, 20 Jun 2025 00:17:56 GMT | Loud Audiences | Jess Trochet | [Read More](https://medium.com/p/ba0e6d364693) |
-| Fri, 20 Jun 2025 00:08:07 GMT | Exploring Smart Locks in the Smart Home Industry: A Focus on SwitchBot | Thomaslopez | [Read More](https://medium.com/p/aefee342f9ae) |
-| Fri, 20 Jun 2025 00:07:08 GMT | Introductory Researching - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/5e5f55385032) |
