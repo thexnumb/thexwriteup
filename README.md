@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 11:17:17 GMT | How I Built a Digital Shield for My Web Application with AWS WAF | Aashishchaudhari | [Read More](https://medium.com/p/147054d1bac7) |
+| Fri, 20 Jun 2025 11:02:38 GMT | The June 2025 Data Breach: A Catastrophic Leak of 16 Billion Login Credentials | Aniket Tegginamath | [Read More](https://medium.com/p/2c7fe3a3018b) |
+| Fri, 20 Jun 2025 11:01:41 GMT | Secure Storage in iOS with Swift: A Practical Guide | Manoj Gadamsetty | [Read More](https://medium.com/p/9db1a4f0eb2a) |
+| Fri, 20 Jun 2025 11:00:32 GMT | OpenAI Is Now Working With the Government | Manish | [Read More](https://medium.com/p/14759b57cacb) |
+| Fri, 20 Jun 2025 10:58:18 GMT | Security Report: IDOR Vulnerability in Syfe Bug Bounty Program | Eng_mohaned Ashraf | [Read More](https://medium.com/p/cfee2f7dd9bd) |
+| Fri, 20 Jun 2025 10:58:12 GMT | OpenAI Wins 200 Million Dollar Government Contract | Hari Rahul | [Read More](https://medium.com/p/e492bf4dab74) |
+| Fri, 20 Jun 2025 10:58:03 GMT | ⚙️ Go Tools: Password Hashing with Argon2 Instead of bcrypt | Nikita Rykhlov | [Read More](https://medium.com/p/f9165dc156a0) |
+| Fri, 20 Jun 2025 10:56:33 GMT | OpenAI and the DoD: Transforming National Security Through AI | Srinivasps | [Read More](https://medium.com/p/18cf0cfa117d) |
+| Fri, 20 Jun 2025 10:53:17 GMT | From Exposed Keys to Secure Access: Our Journey to Using AWS Cognito for S3 Access | Mohammed Yasik R | [Read More](https://medium.com/p/0512d99f7970) |
+| Fri, 20 Jun 2025 10:53:05 GMT | About Dockerfiles — Tips and Proofs | Sten Leinasaar | [Read More](https://medium.com/p/aa81538f2f94) |
+| Fri, 20 Jun 2025 10:52:00 GMT | When AWS IAM Policies Stopped Working During Full Moons | Rudra | [Read More](https://medium.com/p/d2708d4c743b) |
+| Fri, 20 Jun 2025 10:48:05 GMT | Advance Your Tech Career with an Advanced Diploma in Information Technology | AIST | [Read More](https://medium.com/p/872a0183bb9c) |
+| Fri, 20 Jun 2025 10:47:43 GMT | The SSH Key That Only Worked at 2 AM: A Bastion Host Mystery | Rudra | [Read More](https://medium.com/p/1f6d6b81215e) |
+| Fri, 20 Jun 2025 10:46:29 GMT | Security in the Age of AI: Building Quantum-Safe Infrastructure for the Future | Tenzro | [Read More](https://medium.com/p/6035aca7e59d) |
+| Fri, 20 Jun 2025 10:42:35 GMT | Hackers Confirm Your Email with Real-Time Database Checks — Can You Recognize the Fake Login Page? | Karl Buhl | [Read More](https://medium.com/p/eda37b260088) |
+| Fri, 20 Jun 2025 10:32:50 GMT | Hackers Are Inside Your Accounts — Here’s The Silent Warning You’re Ignoring | zen | [Read More](https://medium.com/p/f118c4ed33f2) |
 | Fri, 20 Jun 2025 10:29:08 GMT | Linux vs Windows: 
 Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https://medium.com/p/54a10300e93f) |
 | Fri, 20 Jun 2025 10:26:43 GMT | The Moscow Connection: A Strategic Dossier on Russian Influence Within Germany’s SPD | SIMKRA | [Read More](https://medium.com/p/17c92bdf025d) |
@@ -97,19 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 05:26:42 GMT | Getting Started with CodeQL: Static Analysis for Java Projects | Malindu Kalhara | [Read More](https://medium.com/p/bfe5cb3beda7) |
 | Fri, 20 Jun 2025 05:17:20 GMT | Phishing Analysis 2- Blue Team Lab (BTLO) Walkthrough | Harsh Patel | [Read More](https://medium.com/p/1d8662788e4f) |
 | Fri, 20 Jun 2025 05:16:29 GMT | AI and Cybersecurity in the Internet of Things (IoT): Managing Emerging Threats | Phanish Lakkarasu | [Read More](https://medium.com/p/fc15974a9058) |
-| Fri, 20 Jun 2025 05:14:30 GMT | XLMRat Lab — cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/99522de122f5) |
-| Fri, 20 Jun 2025 05:12:30 GMT | puny-code,0-click account takeover | Canonminibeast | [Read More](https://medium.com/p/6345ec46a33b) |
-| Fri, 20 Jun 2025 05:11:36 GMT | Unpacking Baggage and Attachment, Together | Steve Longinidis | [Read More](https://medium.com/p/3fb46f926d4f) |
-| Fri, 20 Jun 2025 05:10:57 GMT | Launch Your Tech Career with SoftApp Technologies! | SoftApp Technologies | [Read More](https://medium.com/p/6f78bb292f86) |
-| Fri, 20 Jun 2025 05:05:29 GMT | Cybersecurity Laws and Regulations | InfosecTrain | [Read More](https://medium.com/p/9fbb87f0e03e) |
-| Fri, 20 Jun 2025 05:02:14 GMT | Mastering Cyber Security Training: A Key to Digital Safety | aaliya khan | [Read More](https://medium.com/p/f432ad760253) |
-| Fri, 20 Jun 2025 04:58:56 GMT | Hoping that God forgives Suicide | Daniel  Chacko | [Read More](https://medium.com/p/5fa5a81ecc61) |
-| Fri, 20 Jun 2025 04:54:24 GMT | DevSecOps CI/CD: Embedding Security at Every Stage of Your Pipeline | Shreyashettyctr | [Read More](https://medium.com/p/3185afcf9e34) |
-| Fri, 20 Jun 2025 04:43:30 GMT | Apa Itu Smart Classroom? Ini Manfaat dan Komponen Penting dalam Smart Classroom | SUHU Professional Training and Consulting | [Read More](https://medium.com/p/3c9083697b1d) |
-| Fri, 20 Jun 2025 04:40:52 GMT | 5G Technology: Transforming Connectivity and Communication | Les Ottolenghi | [Read More](https://medium.com/p/327e6eee71fd) |
-| Fri, 20 Jun 2025 04:37:39 GMT | BERT RANSOMWARE | Rakesh Krishnan | [Read More](https://medium.com/p/b53db2502daf) |
-| Fri, 20 Jun 2025 04:15:20 GMT | In this in-depth conversation, I sit down with Luzi André, Director of SOC at Take-Two Interactive… | cybergriotz | [Read More](https://medium.com/p/ae0f8b71ec71) |
-| Fri, 20 Jun 2025 04:12:50 GMT | infoshyt: Automating OSINT Recon Like a Pro | sixxish | [Read More](https://medium.com/p/6d8418e26e69) |
-| Fri, 20 Jun 2025 04:12:23 GMT | Takk for at du deler dette dyptgående, visjonære prosjektet, Kim Terje. | polliville | [Read More](https://medium.com/p/8610b6a2cff4) |
-| Fri, 20 Jun 2025 04:06:04 GMT | The Stealth Campaign That Turned GitHub into a Trap for Gamers | Cyber-AppSec | [Read More](https://medium.com/p/56e8b31fa283) |
-| Fri, 20 Jun 2025 03:55:01 GMT | AWS Certification vs. CompTIA: Which One Should You Choose First? | Access Computer Training | [Read More](https://medium.com/p/fb00c0336bd3) |
