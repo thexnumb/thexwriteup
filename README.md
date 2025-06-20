@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 01:37:08 GMT | How Imperfect Women Captivate High-Quality Men: The Art of Controlled Vulnerability | Yuenie-kate | [Read More](https://medium.com/p/3e356eeaa1ab) |
+| Fri, 20 Jun 2025 01:36:03 GMT | Chaining CSRF with Missing Auth and Origin Validation to Hijack User Accounts via Email Change | Samratsitaula | [Read More](https://medium.com/p/119d389f537b) |
+| Fri, 20 Jun 2025 01:22:59 GMT | E-Motion (Pt.2) | Hannah Adakanu | [Read More](https://medium.com/p/e616191e56a6) |
+| Fri, 20 Jun 2025 01:16:37 GMT | A Mother’s Love Letter to Wine: Aged to Perfection | Wesley Ann Edmonds | [Read More](https://medium.com/p/9f4062c261c2) |
+| Fri, 20 Jun 2025 01:12:31 GMT | Stop Hunting for Hackers — The Real Threat Is Sitting in Your Meetings | Pascal Leblanc | [Read More](https://medium.com/p/1200d66a8877) |
+| Fri, 20 Jun 2025 01:08:04 GMT | Day #29 of #60DaysofGRC: Risk Registers: What, Why, and How | Brittney Ginther | [Read More](https://medium.com/p/4fa2aae53b0d) |
+| Fri, 20 Jun 2025 01:06:03 GMT | The Digital Ghost: Covert Tactics for Online Manipulation and Character Assassination: | Huzaifa Awan | [Read More](https://medium.com/p/1c0694fb217a) |
+| Fri, 20 Jun 2025 00:50:35 GMT | Decoding the Oracle Cloud-Health Attack: Did legacy gateways expose medical records for millions? | Guy Hammer | [Read More](https://medium.com/p/beaa6c9c83e0) |
+| Fri, 20 Jun 2025 00:48:40 GMT | I Thought GitHub Was for Developers Until I Wrote My First Policy-as-Code | Cheryl Abram | [Read More](https://medium.com/p/35dc0302074b) |
+| Fri, 20 Jun 2025 00:47:28 GMT | Massive Credential Breach: Over 16 Billion User Logins Exposed | Indrajith Bandara | [Read More](https://medium.com/p/1cb39be51e8d) |
+| Fri, 20 Jun 2025 00:45:30 GMT | Cybersecurity for the Rest of Us: Part OWhy Hackers Love Grandma’s Router | Bryan J Zimmerman | [Read More](https://medium.com/p/6166dae524bf) |
+| Fri, 20 Jun 2025 00:37:17 GMT | Solve lab Tusk infostealer from cyberdefenders | Abdelrahman_elkolaly | [Read More](https://medium.com/p/6ab5ca4f10d9) |
+| Fri, 20 Jun 2025 00:33:28 GMT | Nem só de LGPD vive o Direito Cibernético… | esther | [Read More](https://medium.com/p/44cb23c1bc83) |
+| Fri, 20 Jun 2025 00:31:02 GMT | The Day the Internet Held Its Breath: How Cloudflare Defeated a 7.3 Tbps DDoS Monster | Aaron Rose | [Read More](https://medium.com/p/b25318b27c70) |
+| Fri, 20 Jun 2025 00:17:56 GMT | Loud Audiences | Jess Trochet | [Read More](https://medium.com/p/ba0e6d364693) |
+| Fri, 20 Jun 2025 00:08:07 GMT | Exploring Smart Locks in the Smart Home Industry: A Focus on SwitchBot | Thomaslopez | [Read More](https://medium.com/p/aefee342f9ae) |
+| Fri, 20 Jun 2025 00:07:08 GMT | Introductory Researching - TryHackME | Gaurav Mukherjee | [Read More](https://medium.com/p/5e5f55385032) |
+| Fri, 20 Jun 2025 00:01:35 GMT | httpx para Bug Bounty: Guía Completa para Detectar Subdominios y Hosts Activos | JPablo13 | [Read More](https://medium.com/p/e4434cf7fd32) |
 | Thu, 19 Jun 2025 23:31:40 GMT | Security Operations with Cortex XSOAR: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/f8dc45af74e1) |
 | Thu, 19 Jun 2025 22:49:50 GMT | Exploiting JBoss for Remote Code Execution (RCE) — A Step-by-Step Practical Walkthrough | Klasster | [Read More](https://medium.com/p/85eb606e9cfa) |
 | Thu, 19 Jun 2025 22:39:11 GMT | [TR] Linux Capabilities | Kaan Ekşi | [Read More](https://medium.com/p/cb43d710d54f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 17:06:48 GMT | FMS Attack POC on Simulated WEP/RC4 | Declan | [Read More](https://medium.com/p/4fd7be4b0640) |
 | Thu, 19 Jun 2025 17:02:11 GMT | A Day in the Life of a SOC Analyst | Aniket Sharma | [Read More](https://medium.com/p/dff95e117de9) |
 | Thu, 19 Jun 2025 16:59:32 GMT | Unveiling CSRF-to-XSS and XXE in a Single Request | nocley | [Read More](https://medium.com/p/b3e260d5477d) |
-| Thu, 19 Jun 2025 16:58:56 GMT | Iran’s Potential Cyberattack on America | Pentestjunkie07 | [Read More](https://medium.com/p/f81cdab4a09c) |
-| Thu, 19 Jun 2025 16:51:00 GMT | Pwning NullByte — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/fdac1f5397d9) |
-| Thu, 19 Jun 2025 16:48:30 GMT | Scania Extortion Sparks Alarm on Third-Party Cyber Risk | Avnishyam | [Read More](https://medium.com/p/e5afce69c88a) |
-| Thu, 19 Jun 2025 16:45:51 GMT | How Your Cat Video Travels 10,000 Miles in Milliseconds | Pavithraa Deenadayalan | [Read More](https://medium.com/p/442072d49bd9) |
-| Thu, 19 Jun 2025 16:45:04 GMT | Neden Linux, Hackerların Gözdesi? | Mustafa Şen | [Read More](https://medium.com/p/ba6377b81e87) |
-| Thu, 19 Jun 2025 16:44:38 GMT | bare | aithe | [Read More](https://medium.com/p/83c8da51be27) |
-| Thu, 19 Jun 2025 16:35:19 GMT | Getting Started with Risk Management | Cybersecurity Compliance Without Bullshit (CCWB) | [Read More](https://medium.com/p/c6fbc4a345b3) |
-| Thu, 19 Jun 2025 16:31:30 GMT | I Told Myself I Could Handle It | A.Lneria | [Read More](https://medium.com/p/24d318792e88) |
-| Thu, 19 Jun 2025 16:24:49 GMT | ICS and SCADA Exploitation: Watch Tower : Hack The Box | Tanmay Bhattacharjee | [Read More](https://medium.com/p/5f854f80c5b1) |
-| Thu, 19 Jun 2025 16:22:08 GMT | AT&T (Amerikan Telefon ve Telgraf) Hacklendi: 88 Milyon Müşteri Verisi Dark Web’de! | Lizi Natroshvili | [Read More](https://medium.com/p/bb3fbea43b13) |
-| Thu, 19 Jun 2025 16:21:02 GMT | Haziran 2025’te İran’a Yönelik Dev Siber Saldırı: Nobitex ve Sepah Bank Nasıl Hedef Alındı | Lizi Natroshvili | [Read More](https://medium.com/p/068329cba6eb) |
-| Thu, 19 Jun 2025 16:18:08 GMT | Cybersecurity T-Shirts That Understand the Hacker Lifestyle | TechGeeksApparel | [Read More](https://medium.com/p/cf74c5985c5e) |
-| Thu, 19 Jun 2025 16:06:09 GMT | How to Prevent From Cyber Viruses: Simple Steps to Stay Safe Online | SafeAeon Inc. | [Read More](https://medium.com/p/e1055ba79f88) |
-| Thu, 19 Jun 2025 16:04:00 GMT | The Growing Threat of Deepfake Cyberattacks: Lessons from the BlueNoroff Group | Chetan Seripally | [Read More](https://medium.com/p/0ca13620580f) |
-| Thu, 19 Jun 2025 15:59:27 GMT | EchoLeak: The Zero-Click AI Vulnerability That Shook Microsoft Copilot — Analysis & Lessons | AI Rabbit | [Read More](https://medium.com/p/705dcc04c1e1) |
-| Thu, 19 Jun 2025 15:52:59 GMT | Breaking Monoalphabetic Cipher with Frequency Analysis: Krypton 3 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/be13c236f3e7) |
-| Thu, 19 Jun 2025 15:51:07 GMT | Find Out What ChatGPT Knows About You — And How To Make It Forget | Kajal Sharma | [Read More](https://medium.com/p/edb7d7ade2a1) |
-| Thu, 19 Jun 2025 15:40:21 GMT | Rocteceurope.com - step by step on How I Recover My Money Back | Celia Henríquez | [Read More](https://medium.com/p/a67ae13192b4) |
