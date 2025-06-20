@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 03:50:11 GMT | The Largest Password Leak in History: Over 16 Billion Credentials Exposed | CyberTechAjju | [Read More](https://medium.com/p/c66555bf0286) |
+| Fri, 20 Jun 2025 03:43:04 GMT | Is It Strange to Seek Security in This Unpredictable World? | Michael Laitman | [Read More](https://medium.com/p/4a9a181c86ba) |
+| Fri, 20 Jun 2025 03:34:52 GMT | All Been Crypto — Week 20 June 2025 | Bat Tai Chi | [Read More](https://medium.com/p/f0adb9bdd982) |
+| Fri, 20 Jun 2025 03:31:40 GMT | ResolverRAT: The Stealth Malware Campaign Exploiting Healthcare and Pharma | Deven Chhajed | [Read More](https://medium.com/p/f451c768105d) |
+| Fri, 20 Jun 2025 03:28:51 GMT | RangeForce Lab — Perimeter Compromise Challenge | Hassen Hannachi | [Read More](https://medium.com/p/31a893f7c7b3) |
+| Fri, 20 Jun 2025 03:21:33 GMT | How to Set Up LDAP Login for SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/b3e202647824) |
 | Fri, 20 Jun 2025 03:12:40 GMT | Securing API Keys in Flutter: The Right Way to Keep Secrets Safe | Varmavetukuri | [Read More](https://medium.com/p/0cc78d7c9358) |
 | Fri, 20 Jun 2025 03:00:23 GMT | Ollama Exposed: Unauthenticated Access Vulnerability Could Leak Your LLM Models | AerieWhole123 | [Read More](https://medium.com/p/996798a1082f) |
 | Fri, 20 Jun 2025 02:50:23 GMT | The Myth of the Perfect Cybersecurity Tool: Crafting a Unique Security Strategy | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/0c13d6579fbb) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 18:17:42 GMT | AI in Testing is Cool, But Here’s What No One Tells You About Test Data | Lakshika | [Read More](https://medium.com/p/7705495cf9fb) |
 | Thu, 19 Jun 2025 18:05:15 GMT | From Using Bots to Building One | PanicAtTheKernel | [Read More](https://medium.com/p/32b2ca0c350f) |
 | Thu, 19 Jun 2025 18:02:44 GMT | The Centurion’s Lens: OSINT, Positioning, and the Power of Knowing | Malik Vero | [Read More](https://medium.com/p/a255ffe9693f) |
-| Thu, 19 Jun 2025 17:59:05 GMT | ⚠️Temporal Dead Zone: A Real-Life Bug You Didn’t Know You Wrote | SANDHYA MEHTELE | [Read More](https://medium.com/p/ba116b748199) |
-| Thu, 19 Jun 2025 17:56:40 GMT | 10 Funny Hacker T-Shirts Only Cybersecurity Pros Will Truly Get | TechGeeksApparel | [Read More](https://medium.com/p/ca25de55914e) |
-| Thu, 19 Jun 2025 17:53:03 GMT | Not an Ally | Yvette Soulle | [Read More](https://medium.com/p/687675c395ca) |
-| Thu, 19 Jun 2025 17:51:18 GMT | Empty Shelves, Hidden Threats: The Silent Cyber War on Our Food Supply | Siva Gunasekaran | [Read More](https://medium.com/p/213892b4ed08) |
-| Thu, 19 Jun 2025 17:37:29 GMT | Oil, Data, and Cyber Wars: The Israel-Iran Crisis and the Blueprint for 21st Century Power | NaveeeN Chendra | [Read More](https://medium.com/p/bc6644668c5f) |
-| Thu, 19 Jun 2025 17:36:08 GMT | Learn Android and Android Hacking | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/c88e1419b5c2) |
