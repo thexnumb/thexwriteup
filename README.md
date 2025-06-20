@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 14:29:43 GMT | Should Schools Have Metal Detectors? The Security vs. Safety Dilemma in American Education | 4.0 Schools | [Read More](https://medium.com/p/6af2a98bb1cd) |
+| Fri, 20 Jun 2025 14:26:23 GMT | Massive Data Leak Exposes 16 Billion Credentials — Here’s How to Stay Safe | Jyoti Sing | [Read More](https://medium.com/p/ebccd345863c) |
+| Fri, 20 Jun 2025 14:20:46 GMT | Trust Boundary: Yazılım Mimarisinde Güven Sınırları | Mustafa Dikyar | [Read More](https://medium.com/p/84ebfb8c5f82) |
+| Fri, 20 Jun 2025 14:19:59 GMT | Pyrat walkthrough | Anubhav Bali | [Read More](https://medium.com/p/e98e27b05b73) |
+| Fri, 20 Jun 2025 14:18:02 GMT | LetsDefend: Spice RAT Challenge | V0idd | [Read More](https://medium.com/p/b0fa2112c2b3) |
 | Fri, 20 Jun 2025 14:16:47 GMT | Is Your Smart Home Spying on You? How to Keep Hackers Out | Abdulnuhu | [Read More](https://medium.com/p/73684ff2f6a1) |
 | Fri, 20 Jun 2025 14:06:02 GMT | Why do we need Container Security | Akanksha | [Read More](https://medium.com/p/75784830ceff) |
 | Fri, 20 Jun 2025 14:05:16 GMT | Hardening Your Static API Keys with Time-Based Signatures | naandalist | [Read More](https://medium.com/p/f19db8c1078b) |
@@ -37,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 12:52:31 GMT | Cybersecurity Market Set to Cross USD 424 Billion by 2030 with Strong CAGR | Rakeshnaidu | [Read More](https://medium.com/p/090df6ad3fda) |
 | Fri, 20 Jun 2025 12:51:31 GMT | Event Security Companies Sacramento — All You Should Know | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ca4ca81e9bc0) |
 | Fri, 20 Jun 2025 12:51:25 GMT | Tom Sparks Made His Own VPN Speed Test Website? Hmm… | Johnathon M. Horner | [Read More](https://medium.com/p/ef16cb4d6942) |
+| Fri, 20 Jun 2025 12:51:16 GMT | Bir Açığın Anatomisi: Hacker Bir Zayıflığı Nasıl Fark Eder? | Mustafa Şen | [Read More](https://medium.com/p/1b3058ee35d6) |
 | Fri, 20 Jun 2025 12:46:54 GMT | Top 5 Mistakes Indians Make That Get Them Hacked – And How to Avoid | S Anuradha | [Read More](https://medium.com/p/b0f696912135) |
 | Fri, 20 Jun 2025 12:42:12 GMT | Beyond Roles: The Case for Context-Aware Authorization in Modern Applications | Francis Mwangi | [Read More](https://medium.com/p/c1d7552b42b3) |
 | Fri, 20 Jun 2025 12:41:11 GMT | Got Hacked — Here’s Everything I Learned About Cybersecurity the Hard | S Anuradha | [Read More](https://medium.com/p/e5c8a3dc41ad) |
@@ -107,9 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 09:24:39 GMT | My Cybersecurity Journey: From Beginner to Ethical Hacker with Cisco | Darshan | [Read More](https://medium.com/p/db6be3a7c917) |
 | Fri, 20 Jun 2025 09:17:14 GMT | What is Metasploit Framework? | The Drop Organization | [Read More](https://medium.com/p/750382beb3a2) |
 | Fri, 20 Jun 2025 09:01:48 GMT | SOC 2 vs ISO 27001: Which Framework is Right for You? | SecureSlate | [Read More](https://medium.com/p/30249cd93353) |
-| Fri, 20 Jun 2025 09:01:47 GMT | The GRC Automation Flywheel | Harry West | [Read More](https://medium.com/p/8ada4bf1725b) |
-| Fri, 20 Jun 2025 09:01:46 GMT | Advanced Custom Correlation Rule: Detecting Lateral Movement & Privilege Escalation | Esra Kayhan | [Read More](https://medium.com/p/52d36dc5a3b3) |
-| Fri, 20 Jun 2025 09:01:06 GMT | Top Latest Five Gelato strain Urban news | Stguhijgijckyhg Bdtgubonfhfh | [Read More](https://medium.com/p/b305029608d8) |
-| Fri, 20 Jun 2025 08:57:00 GMT | Detecting XSS Attacks with LLM Agents: Reflected, Stored, and DOM-Based Explained - Part1. | Suhana Shaik | [Read More](https://medium.com/p/db4b575d4aa8) |
-| Fri, 20 Jun 2025 08:51:02 GMT | Google, Apple, Facebook Logins Exposed in 2025’s 16 Billion Password Leak — What You Must Do Now | Aaron | [Read More](https://medium.com/p/c8c3abca9bc3) |
-| Fri, 20 Jun 2025 08:50:19 GMT | Kindness is Heavy | Syafina Patriani | [Read More](https://medium.com/p/620289916e3c) |
