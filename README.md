@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 12:28:43 GMT | My Journey as a Cybersecurity Analyst living in Nigeria | Bright-Hart | [Read More](https://medium.com/p/336757fdc761) |
+| Fri, 20 Jun 2025 12:21:25 GMT | TryHackMe — Rooting Bolt | Jsar | [Read More](https://medium.com/p/763f3fb0b4d2) |
+| Fri, 20 Jun 2025 12:10:45 GMT | Bypassing Geolocation Restrictions using AWS EC2 as a Proxy Host (and Integrating with Burp Suite) | dextro | [Read More](https://medium.com/p/8d8f2f98d6ae) |
+| Fri, 20 Jun 2025 12:07:09 GMT | How XSS and OAuth Misconfigs Steal Your Tokens | Ibtissam hammadi | [Read More](https://medium.com/p/63879240fbe2) |
+| Fri, 20 Jun 2025 12:06:39 GMT | The Identity Wars -Ep3 | Amey Rugge | [Read More](https://medium.com/p/bfe68bdecade) |
+| Fri, 20 Jun 2025 12:06:14 GMT | The JVM That Crashed Every 9th Tuesday: A 25-Year-Old Processor Bug Resurfaces | Rudra | [Read More](https://medium.com/p/a3b8417cc449) |
+| Fri, 20 Jun 2025 12:03:22 GMT | 16 Billion Password Leak: Reset Passwords, Enable MFA, Switch to Passkeys | TheReviewHive | [Read More](https://medium.com/p/b888fcdcab2e) |
+| Fri, 20 Jun 2025 12:01:58 GMT | Navigating the Digital Frontier: Why Kali Linux and Cybersecurity Are the Future of Modern Business | Pulse & Perspective | [Read More](https://medium.com/p/dd5bbb5f880c) |
+| Fri, 20 Jun 2025 12:01:49 GMT | This One HTTP Header Trick Let Me Hack Into the Admin Panel — No Passwords Needed! | Afnan Bin Abbas | [Read More](https://medium.com/p/c531e67f8d05) |
+| Fri, 20 Jun 2025 12:01:48 GMT | 16 Billion Passwords Leaked — Is Your Account Safe? | Jai-Techie | [Read More](https://medium.com/p/c3be89c25e67) |
+| Fri, 20 Jun 2025 11:59:41 GMT | Evaluating managed SOCs by their threat attribution capabilities | Cloud4C Services | [Read More](https://medium.com/p/e1551afbc25b) |
+| Fri, 20 Jun 2025 11:57:59 GMT | Top OT Cybersecurity Trends to Watch in 2025 | Shieldworkz | [Read More](https://medium.com/p/389da35a1ef6) |
+| Fri, 20 Jun 2025 11:54:21 GMT | Top 10 Free Threat Intelligence Feeds Every Security Team Should Know | SOCRadar® Extended Cyber Threat Intelligence | [Read More](https://medium.com/p/f65bbb1a2f83) |
+| Fri, 20 Jun 2025 11:54:06 GMT | 16 Billion Credentials Data Breach – How to Check If Your Account or Password Was Leaked | Pranav Bhardwaj | [Read More](https://medium.com/p/db6e7ded4bb9) |
+| Fri, 20 Jun 2025 11:50:41 GMT | 16 Billions Google Leaked Password Alert in 2025 | John Miller | [Read More](https://medium.com/p/71d5d6a94868) |
+| Fri, 20 Jun 2025 11:42:01 GMT | A Brief History: Cyberwarfare | Cybawareness | [Read More](https://medium.com/p/c96c5abc3681) |
+| Fri, 20 Jun 2025 11:33:32 GMT | Comparing Top Home Security Camera: Blink Outdoor 4 (newest model),Like-New Ring Spotlight Cam… | Waed saada | [Read More](https://medium.com/p/841f0c05d9eb) |
 | Fri, 20 Jun 2025 11:31:41 GMT | Healing Isn’t Pretty, But It’s Honest | ink between | [Read More](https://medium.com/p/1e16f626b96f) |
 | Fri, 20 Jun 2025 11:31:19 GMT | 16 Billion Passwords Leaked: What You Need to Know (And Do Right Now) | Harshuduhan | [Read More](https://medium.com/p/fffd0d38488f) |
 | Fri, 20 Jun 2025 11:29:24 GMT | GetPDF Writeup — Lab walkthrough | Riad Moudjahed | [Read More](https://medium.com/p/77edff62d910) |
@@ -96,20 +113,3 @@ Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https:/
 | Fri, 20 Jun 2025 06:54:46 GMT | 2025’s Remote Money Hack: Make Your First $1,000/Month in 30 Days | The Observer’s Pen | [Read More](https://medium.com/p/3dde23b7b106) |
 | Fri, 20 Jun 2025 06:48:49 GMT | Windows Malware: Rootkit Reverse Engineering | dandor2022 | [Read More](https://medium.com/p/4209736fb5f7) |
 | Fri, 20 Jun 2025 06:48:23 GMT | Why Entrance Exams Matter for Computer Science and Cyber Security Careers | Aashi | [Read More](https://medium.com/p/c452f6989026) |
-| Fri, 20 Jun 2025 06:48:13 GMT | Access Control (Erişim Kontrolü) Nedir? Portswigger Lab Çözümleri 1 | ENES KURTULAN | [Read More](https://medium.com/p/3d50b333b76b) |
-| Fri, 20 Jun 2025 06:47:54 GMT | ⚠️ Why 16 Billion Credentials Exposed in Massive Infostealer Leak — How It Happened and How You… | Karan Dhillon | [Read More](https://medium.com/p/0fb8a9a5c80d) |
-| Fri, 20 Jun 2025 06:45:54 GMT | How to Start Bug Bounty in 2025 — Technical Guide with Tools, Tactics & Real Step | Kailasv | [Read More](https://medium.com/p/ccca088f5675) |
-| Fri, 20 Jun 2025 06:42:39 GMT | Cybersecurity Project: Distributed Wazuh Multi-Node Deployment Guide on a Scalable Home Lab | Rupesh Sharma | [Read More](https://medium.com/p/e35f2e2316b7) |
-| Fri, 20 Jun 2025 06:36:25 GMT | Hackers Just Leaked 16 BILLION Logins, Are You at Risk? | Dhanush N | [Read More](https://medium.com/p/84cc351cd0d7) |
-| Fri, 20 Jun 2025 06:31:41 GMT | The Days That Didn’t Make the Highlight Reel | Half Bloomed Diaries | [Read More](https://medium.com/p/ef782faddbe4) |
-| Fri, 20 Jun 2025 06:14:56 GMT | What is Bug Bounty Hunting ️‍♂️ | Đeepanshu | [Read More](https://medium.com/p/c02d24853e16) |
-| Fri, 20 Jun 2025 06:13:14 GMT | The Corix Partners Friday Reading List — June 20, 2025 | JC Gaillard | [Read More](https://medium.com/p/d1c0c4e155ae) |
-| Fri, 20 Jun 2025 06:06:51 GMT | No, 16 Billion Passwords Didn’t Just Get Leaked — Here’s the Real Story | Sle3pyHead ‍ | [Read More](https://medium.com/p/bba2940fd684) |
-| Fri, 20 Jun 2025 06:06:42 GMT | 16 Billion Passwords Leaked: What You Need to Know About the Internet’s Biggest Data Breach. | eL Njas!™ | [Read More](https://medium.com/p/2629995d349e) |
-| Fri, 20 Jun 2025 06:05:48 GMT | From Request to Verification: The Full Journey of an OTP | Jiya Agrawal | [Read More](https://medium.com/p/c53b5ed23eb2) |
-| Fri, 20 Jun 2025 06:01:38 GMT | Our India’s Education System Faces Digital Attacks: Are We Prepared? | Nivas Kanniah | [Read More](https://medium.com/p/4b20853529c9) |
-| Fri, 20 Jun 2025 06:01:25 GMT | How You Can Use ChatGPT to Supercharge Your Bug Bounty Hunting Workflow | Vinoth Dayalan | [Read More](https://medium.com/p/e65c19021ea1) |
-| Fri, 20 Jun 2025 06:00:40 GMT | Beyond the Build: A Strategic Guide to Choosing Your WordPress Partner in Ahmedabad | IBeam Infosys | [Read More](https://medium.com/p/f390bd79c635) |
-| Fri, 20 Jun 2025 06:00:29 GMT | Today’s Top Cyber Intelligence Highlights — Jun 20, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/893aed487be1) |
-| Fri, 20 Jun 2025 05:57:05 GMT | Secrets in Your AWS Lambda? Catch Them with Config Rules Before They Catch You | Shubham Verma | [Read More](https://medium.com/p/477f2aa1fd83) |
-| Fri, 20 Jun 2025 05:56:41 GMT | 76 GitHub Accounts. 1 Massive Malware Operation. | Cyber-AppSec | [Read More](https://medium.com/p/0764dccd3390) |
