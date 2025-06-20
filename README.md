@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 05:12:30 GMT | puny-code,0-click account takeover | Canonminibeast | [Read More](https://medium.com/p/6345ec46a33b) |
+| Fri, 20 Jun 2025 05:11:36 GMT | Unpacking Baggage and Attachment, Together | Steve Longinidis | [Read More](https://medium.com/p/3fb46f926d4f) |
+| Fri, 20 Jun 2025 05:05:29 GMT | Cybersecurity Laws and Regulations | InfosecTrain | [Read More](https://medium.com/p/9fbb87f0e03e) |
+| Fri, 20 Jun 2025 05:02:14 GMT | Mastering Cyber Security Training: A Key to Digital Safety | aaliya khan | [Read More](https://medium.com/p/f432ad760253) |
+| Fri, 20 Jun 2025 04:58:56 GMT | Hoping that God forgives Suicide | Daniel  Chacko | [Read More](https://medium.com/p/5fa5a81ecc61) |
+| Fri, 20 Jun 2025 04:54:24 GMT | DevSecOps CI/CD: Embedding Security at Every Stage of Your Pipeline | Shreyashettyctr | [Read More](https://medium.com/p/3185afcf9e34) |
+| Fri, 20 Jun 2025 04:43:30 GMT | Apa Itu Smart Classroom? Ini Manfaat dan Komponen Penting dalam Smart Classroom | SUHU Professional Training and Consulting | [Read More](https://medium.com/p/3c9083697b1d) |
+| Fri, 20 Jun 2025 04:40:52 GMT | 5G Technology: Transforming Connectivity and Communication | Les Ottolenghi | [Read More](https://medium.com/p/327e6eee71fd) |
+| Fri, 20 Jun 2025 04:37:39 GMT | BERT RANSOMWARE | Rakesh Krishnan | [Read More](https://medium.com/p/b53db2502daf) |
 | Fri, 20 Jun 2025 04:15:20 GMT | In this in-depth conversation, I sit down with Luzi André, Director of SOC at Take-Two Interactive… | cybergriotz | [Read More](https://medium.com/p/ae0f8b71ec71) |
 | Fri, 20 Jun 2025 04:12:50 GMT | infoshyt: Automating OSINT Recon Like a Pro | sixxish | [Read More](https://medium.com/p/6d8418e26e69) |
+| Fri, 20 Jun 2025 04:12:23 GMT | Takk for at du deler dette dyptgående, visjonære prosjektet, Kim Terje. | polliville | [Read More](https://medium.com/p/8610b6a2cff4) |
 | Fri, 20 Jun 2025 04:06:04 GMT | The Stealth Campaign That Turned GitHub into a Trap for Gamers | Cyber-AppSec | [Read More](https://medium.com/p/56e8b31fa283) |
 | Fri, 20 Jun 2025 03:55:01 GMT | AWS Certification vs. CompTIA: Which One Should You Choose First? | Access Computer Training | [Read More](https://medium.com/p/fb00c0336bd3) |
 | Fri, 20 Jun 2025 03:50:11 GMT | The Largest Password Leak in History: Over 16 Billion Credentials Exposed | CyberTechAjju | [Read More](https://medium.com/p/c66555bf0286) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 19:00:10 GMT | “Biggest Password Breach in History: 16 Billion Apple, Facebook, Google, and Other Accounts Leaked!” | Kanav Sharma | [Read More](https://medium.com/p/fa7ff1f57444) |
 | Thu, 19 Jun 2025 18:38:25 GMT | Optimal VPC Subnetting: High Availability, Security, & Seamless On-Prem Connectivity | Ben Dalton | [Read More](https://medium.com/p/da9937869dc5) |
 | Thu, 19 Jun 2025 18:37:33 GMT | I Built a Real-Time AWS Threat Detector Using GuardDuty — Here’s How It Flagged My Own Kali Attack | AarushGaur | [Read More](https://medium.com/p/d5532180a1d7) |
-| Thu, 19 Jun 2025 18:36:00 GMT | The $100M Crypto Meltdown: Nobitex Source Code Leaked by Hackers | CoinGen | [Read More](https://medium.com/p/ece0d21071dd) |
-| Thu, 19 Jun 2025 18:34:55 GMT | picoCTF WriteUp — Ph4nt0m 1ntrud3r | 40Days | [Read More](https://medium.com/p/b435506ec84d) |
-| Thu, 19 Jun 2025 18:34:09 GMT | Kali Lunix VPN/DNS Kullanımı | Ahmet Şimşek | [Read More](https://medium.com/p/0678ed0d6ed8) |
-| Thu, 19 Jun 2025 18:34:08 GMT | White House Security Systems | Aria | [Read More](https://medium.com/p/a4088013797a) |
-| Thu, 19 Jun 2025 18:33:21 GMT | How to Automate Malicious IP Checking with AbuseIPDB API Using Python | MinHlaingOo | [Read More](https://medium.com/p/7f5778e96f0f) |
-| Thu, 19 Jun 2025 18:31:41 GMT | ¿Qué ataques a las contraseñas existen y cómo pueden prevenirse? | Tiziano Mass | [Read More](https://medium.com/p/2c29c9bc5610) |
-| Thu, 19 Jun 2025 18:30:40 GMT | Spiritual Mimicry: Why Covert Narcissists Infiltrate Mindfulness Communities (And How to Spot Them) | Huzaifa Awan | [Read More](https://medium.com/p/0394258453f6) |
-| Thu, 19 Jun 2025 18:30:11 GMT | The Largest DATA BREACH Ever: How 16 Billion Passwords Got Out and How to Protect Yourself | Vidusha Sanidu | [Read More](https://medium.com/p/285a31416179) |
-| Thu, 19 Jun 2025 18:26:56 GMT | Carnage Room- TryHackMe - Wireshark | Dhwanit Pandya | [Read More](https://medium.com/p/20738a8675e1) |
-| Thu, 19 Jun 2025 18:25:49 GMT | The Silent Killer of Innovation: When Speed Becomes the Enemy | Lakshika | [Read More](https://medium.com/p/4620fcc9dd00) |
