@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 16:14:44 GMT | Headway on Training — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/aa7da6a93df2) |
+| Fri, 20 Jun 2025 16:10:21 GMT | Teaching Robots to Talk is dead  Welcome to The Last Mile | Waterfield Tech Conversational AI | [Read More](https://medium.com/p/ceabbffc84a9) |
+| Fri, 20 Jun 2025 16:06:26 GMT | The Quiet Truths Men Share in the Dark | Ms O, Naturally Inspired | [Read More](https://medium.com/p/63f4318014ac) |
+| Fri, 20 Jun 2025 16:03:36 GMT | What is Secure by Design in Cybersecurity? | Protected Harbor | [Read More](https://medium.com/p/8f547c615232) |
+| Fri, 20 Jun 2025 16:02:26 GMT | Architects of Digital Resilience: Mastering Cyber Threats in a Hyperconnected World | JustinJabo | [Read More](https://medium.com/p/e737430cc6ce) |
+| Fri, 20 Jun 2025 16:01:02 GMT | How to Defend Against Email Impersonation Attacks | Protected Harbor | [Read More](https://medium.com/p/bb3dd6d679a1) |
+| Fri, 20 Jun 2025 15:48:20 GMT | Dark Web Monitoring Services: Protect Your Business from the Unknown | SafeAeon Inc. | [Read More](https://medium.com/p/12eb652abbba) |
+| Fri, 20 Jun 2025 15:45:51 GMT | WannaCry Ransomware Analizi | hafsanur | [Read More](https://medium.com/p/d41a66984129) |
+| Fri, 20 Jun 2025 15:38:35 GMT | SOC 2 Compliance Checklist: What You Need to Stay Audit-Ready | SafeAeon Inc. | [Read More](https://medium.com/p/95fb158f70c5) |
 | Fri, 20 Jun 2025 15:35:55 GMT | Node.js Interview Q&A: Day 12 | Dipak Ahirav | [Read More](https://medium.com/p/88b4742eb2dc) |
+| Fri, 20 Jun 2025 15:34:21 GMT | May the Dead Find Liberation from the Memories of the Living | Miloni Rambhiya | [Read More](https://medium.com/p/2b13713769b7) |
 | Fri, 20 Jun 2025 15:28:47 GMT | Cloud Security Tools: Essential Solutions to Protect Your Cloud Environment | SafeAeon Inc. | [Read More](https://medium.com/p/7c09786046b2) |
 | Fri, 20 Jun 2025 15:24:58 GMT | Unlocking Japanese Web Security: My Informational Interview with a Startup Pentester | TokiBando | [Read More](https://medium.com/p/c6a55f2b178e) |
 | Fri, 20 Jun 2025 15:23:12 GMT | Cybersecurity | Nathkumar | [Read More](https://medium.com/p/9cdd797d422e) |
@@ -53,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 13:04:52 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/aa4f14445fc3) |
 | Fri, 20 Jun 2025 13:01:41 GMT | How Peris.ai Uses Hyperautomation to Transform SOC Operations | Peris.ai Cybersecurity | [Read More](https://medium.com/p/1dc39d8460a4) |
 | Fri, 20 Jun 2025 13:00:57 GMT | 4 Easy Ways You Can Create Content to Win More Clients | Joe | [Read More](https://medium.com/p/58e443e53090) |
+| Fri, 20 Jun 2025 12:57:10 GMT | Herz, Hirn und Systemversagen — Warum innere Kohärenz nicht reicht | Annette Jäger | [Read More](https://medium.com/p/5237c15d2b74) |
 | Fri, 20 Jun 2025 12:55:37 GMT | The Compliance Technology Stack: Automating Audit Readiness | Eric Zietlow | [Read More](https://medium.com/p/3ed835079a5f) |
 | Fri, 20 Jun 2025 12:52:31 GMT | Cybersecurity Market Set to Cross USD 424 Billion by 2030 with Strong CAGR | Rakeshnaidu | [Read More](https://medium.com/p/090df6ad3fda) |
 | Fri, 20 Jun 2025 12:51:31 GMT | Event Security Companies Sacramento — All You Should Know | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/ca4ca81e9bc0) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 10:48:05 GMT | Advance Your Tech Career with an Advanced Diploma in Information Technology | AIST | [Read More](https://medium.com/p/872a0183bb9c) |
 | Fri, 20 Jun 2025 10:47:43 GMT | The SSH Key That Only Worked at 2 AM: A Bastion Host Mystery | Rudra | [Read More](https://medium.com/p/1f6d6b81215e) |
 | Fri, 20 Jun 2025 10:46:29 GMT | Security in the Age of AI: Building Quantum-Safe Infrastructure for the Future | Tenzro | [Read More](https://medium.com/p/6035aca7e59d) |
-| Fri, 20 Jun 2025 10:42:35 GMT | Hackers Confirm Your Email with Real-Time Database Checks — Can You Recognize the Fake Login Page? | Karl Buhl | [Read More](https://medium.com/p/eda37b260088) |
-| Fri, 20 Jun 2025 10:32:50 GMT | Hackers Are Inside Your Accounts — Here’s The Silent Warning You’re Ignoring | zen | [Read More](https://medium.com/p/f118c4ed33f2) |
-| Fri, 20 Jun 2025 10:29:08 GMT | Linux vs Windows: 
-Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https://medium.com/p/54a10300e93f) |
-| Fri, 20 Jun 2025 10:26:43 GMT | The Moscow Connection: A Strategic Dossier on Russian Influence Within Germany’s SPD | SIMKRA | [Read More](https://medium.com/p/17c92bdf025d) |
-| Fri, 20 Jun 2025 10:22:31 GMT | Cloud Security plugin for JetBrains IDEs - Dev Diary #2 | Dmitry Protsenko | [Read More](https://medium.com/p/bdd0fd115cbc) |
-| Fri, 20 Jun 2025 10:22:30 GMT | AI in Cybersecurity: The War on Two Fronts | Abdul Saboor | [Read More](https://medium.com/p/86b21dcb9fd4) |
-| Fri, 20 Jun 2025 10:19:16 GMT | What Happens When 16 Billion Passwords Go Public | Sushila Devi | [Read More](https://medium.com/p/a6c8087d831e) |
-| Fri, 20 Jun 2025 10:17:42 GMT | Global Security Testing Market Size, Share, Key Drivers, Growth Opportunities and Global Trends… | Willietorres | [Read More](https://medium.com/p/5625bbaf89ec) |
-| Fri, 20 Jun 2025 10:16:50 GMT | Morty PwnTillDawn -- 10.150.150.57 Writeup | Ishengoma | [Read More](https://medium.com/p/8dbcbbca2e8f) |
-| Fri, 20 Jun 2025 10:15:28 GMT | The Fear of Being Loved Only for the Mask I Wear | Adam Craig | [Read More](https://medium.com/p/cf8c3f33d790) |
-| Fri, 20 Jun 2025 10:02:07 GMT | What exactly is cyber resilience today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/7b5a49d73144) |
