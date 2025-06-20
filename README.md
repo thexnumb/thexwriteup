@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 05:43:12 GMT | Kuwait Focuses on Turnstile Security to Prevent Unauthorized Access | Tekhabeeb | [Read More](https://medium.com/p/0b632cf908fa) |
+| Fri, 20 Jun 2025 05:40:46 GMT | Bridging the Gap: Why Usable Security is the Missing Link in Your DevSecOps Strategy | Mpandugalang | [Read More](https://medium.com/p/96be39dd4b6a) |
+| Fri, 20 Jun 2025 05:40:27 GMT | Gmail May Block Your Login — Even with the Right Password | IEEE Computer Society VIT | [Read More](https://medium.com/p/ffa3f41a8c12) |
+| Fri, 20 Jun 2025 05:26:42 GMT | Getting Started with CodeQL: Static Analysis for Java Projects | Malindu Kalhara | [Read More](https://medium.com/p/bfe5cb3beda7) |
+| Fri, 20 Jun 2025 05:17:20 GMT | Phishing Analysis 2- Blue Team Lab (BTLO) Walkthrough | Harsh Patel | [Read More](https://medium.com/p/1d8662788e4f) |
+| Fri, 20 Jun 2025 05:16:29 GMT | AI and Cybersecurity in the Internet of Things (IoT): Managing Emerging Threats | Phanish Lakkarasu | [Read More](https://medium.com/p/fc15974a9058) |
+| Fri, 20 Jun 2025 05:14:30 GMT | XLMRat Lab — cyberdefenders | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/99522de122f5) |
 | Fri, 20 Jun 2025 05:12:30 GMT | puny-code,0-click account takeover | Canonminibeast | [Read More](https://medium.com/p/6345ec46a33b) |
 | Fri, 20 Jun 2025 05:11:36 GMT | Unpacking Baggage and Attachment, Together | Steve Longinidis | [Read More](https://medium.com/p/3fb46f926d4f) |
+| Fri, 20 Jun 2025 05:10:57 GMT | Launch Your Tech Career with SoftApp Technologies! | SoftApp Technologies | [Read More](https://medium.com/p/6f78bb292f86) |
 | Fri, 20 Jun 2025 05:05:29 GMT | Cybersecurity Laws and Regulations | InfosecTrain | [Read More](https://medium.com/p/9fbb87f0e03e) |
 | Fri, 20 Jun 2025 05:02:14 GMT | Mastering Cyber Security Training: A Key to Digital Safety | aaliya khan | [Read More](https://medium.com/p/f432ad760253) |
 | Fri, 20 Jun 2025 04:58:56 GMT | Hoping that God forgives Suicide | Daniel  Chacko | [Read More](https://medium.com/p/5fa5a81ecc61) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 19:22:38 GMT | Navigating the Unknowns in M&A Cybersecurity | anthony k | [Read More](https://medium.com/p/453953111b1d) |
 | Thu, 19 Jun 2025 19:22:26 GMT | How to install a Chrome extension that is ‘blocked’ | Vinicius Batistella | [Read More](https://medium.com/p/328849307508) |
 | Thu, 19 Jun 2025 19:10:15 GMT | The Great Knowledge Divide: How Smart Systems Might Make Us Collectively Dumber | Dave'Vinci | [Read More](https://medium.com/p/b8abd8bb3c60) |
-| Thu, 19 Jun 2025 19:08:45 GMT | Ağlara Saldırmak için Ayarlar | Ahmet Şimşek | [Read More](https://medium.com/p/70c8093d5eb2) |
-| Thu, 19 Jun 2025 19:07:27 GMT | AI, Layoffs, and Leaks: The Tech Headlines. June 2025 | AI With Lil Bro | [Read More](https://medium.com/p/474308e9529a) |
-| Thu, 19 Jun 2025 19:06:11 GMT | What does monogamy mean to you? | Ayaz Ali | [Read More](https://medium.com/p/b10a8dfbe6cc) |
-| Thu, 19 Jun 2025 19:04:08 GMT | The Misinformation Boss Fight: How the Red Queen and Paracelsus Can Help Us Win | CursedLootBox | [Read More](https://medium.com/p/5ae1978cb965) |
-| Thu, 19 Jun 2025 19:02:16 GMT | Join HoF Apple in Just 1 Minute [Bahasa Indonesia] | Rona Febriana | [Read More](https://medium.com/p/7fa016f1a017) |
-| Thu, 19 Jun 2025 19:00:10 GMT | “Biggest Password Breach in History: 16 Billion Apple, Facebook, Google, and Other Accounts Leaked!” | Kanav Sharma | [Read More](https://medium.com/p/fa7ff1f57444) |
-| Thu, 19 Jun 2025 18:38:25 GMT | Optimal VPC Subnetting: High Availability, Security, & Seamless On-Prem Connectivity | Ben Dalton | [Read More](https://medium.com/p/da9937869dc5) |
-| Thu, 19 Jun 2025 18:37:33 GMT | I Built a Real-Time AWS Threat Detector Using GuardDuty — Here’s How It Flagged My Own Kali Attack | AarushGaur | [Read More](https://medium.com/p/d5532180a1d7) |
