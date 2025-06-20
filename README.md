@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 20:10:07 GMT | Confidential Computing: The Security Foundation for Trusted AI and Autonomous Agentic Systems | Valdez Ladd | [Read More](https://medium.com/p/7e3823eaf857) |
+| Fri, 20 Jun 2025 20:06:15 GMT | Quantum Computing Explained: From Theory to Real-World Use Cases | travelsmarthacks.site | [Read More](https://medium.com/p/d1f33e4e2095) |
+| Fri, 20 Jun 2025 20:01:17 GMT | 16 Billion Passwords Leaked in the Biggest Breach Ever — Change Yours NOW | Areeba Shahbaz | [Read More](https://medium.com/p/17a66f805b6f) |
+| Fri, 20 Jun 2025 20:00:10 GMT | AWSReaper: Cloud Pentesting Practical Techniques for Red Teams | Aditya Bhatt | [Read More](https://medium.com/p/22e91e78a82f) |
+| Fri, 20 Jun 2025 19:57:31 GMT | ✈️ Rewiring JFK Terminal 4: Wipro’s AI-Powered Cloud Strategy Is Building the Future of Smart… | Sibi Aadharsh | [Read More](https://medium.com/p/4173c8f31cfe) |
+| Fri, 20 Jun 2025 19:56:55 GMT | Install Havoc C2 in 2 Minutes on Kali Linux (Quick Guide) | Moïse Aubert | [Read More](https://medium.com/p/a790d9f31898) |
+| Fri, 20 Jun 2025 19:55:02 GMT | Unpacking iOS Apps: How to Extract IPA Files from Jailbroken iPhone Using Python | Hary Ft | [Read More](https://medium.com/p/8f1169d236c2) |
+| Fri, 20 Jun 2025 19:48:49 GMT | The AI Security Revolution: How Machine Learning Prevents $50M Hacks in Real-Time | Chronos Vault | [Read More](https://medium.com/p/981629498d67) |
 | Fri, 20 Jun 2025 19:32:26 GMT | Day 27: More Operating Systems | Nile Okomo | [Read More](https://medium.com/p/481a4747ee67) |
 | Fri, 20 Jun 2025 19:29:57 GMT | The Salar de Uyuni Wallpaper: Google’s Forgotten Pixel Bug? | Varun Agarwal | [Read More](https://medium.com/p/a5818b8a9056) |
 | Fri, 20 Jun 2025 19:13:21 GMT | Zero Trust, One Router: Hardening Your Home Lab Like a Cyber Fortress. | Devlink Tips | [Read More](https://medium.com/p/567fc3bdf880) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 14:20:46 GMT | Trust Boundary: Yazılım Mimarisinde Güven Sınırları | Mustafa Dikyar | [Read More](https://medium.com/p/84ebfb8c5f82) |
 | Fri, 20 Jun 2025 14:19:59 GMT | Pyrat walkthrough | Anubhav Bali | [Read More](https://medium.com/p/e98e27b05b73) |
 | Fri, 20 Jun 2025 14:18:02 GMT | LetsDefend: Spice RAT Challenge | V0idd | [Read More](https://medium.com/p/b0fa2112c2b3) |
-| Fri, 20 Jun 2025 14:16:47 GMT | Is Your Smart Home Spying on You? How to Keep Hackers Out | Abdulnuhu | [Read More](https://medium.com/p/73684ff2f6a1) |
-| Fri, 20 Jun 2025 14:06:02 GMT | Why do we need Container Security | Akanksha | [Read More](https://medium.com/p/75784830ceff) |
-| Fri, 20 Jun 2025 14:05:16 GMT | Hardening Your Static API Keys with Time-Based Signatures | naandalist | [Read More](https://medium.com/p/f19db8c1078b) |
-| Fri, 20 Jun 2025 14:04:04 GMT | Israel-Iran Conflict Sets Off Alarm Bells in Pakistan | mahwish qayyum | [Read More](https://medium.com/p/4526214598f7) |
-| Fri, 20 Jun 2025 14:01:55 GMT | Cyber Briefing: 2025.06.20 | CyberMaterial | [Read More](https://medium.com/p/111e1ce968d1) |
-| Fri, 20 Jun 2025 13:54:40 GMT | Building Intelligence Into the Everyday: My Journey into Embedded Systems at UIRI | Grace Wanja | [Read More](https://medium.com/p/038b0eeb51b3) |
-| Fri, 20 Jun 2025 13:49:28 GMT | when helping doesn’t help | jewel ˙⋆.˚ | [Read More](https://medium.com/p/5da81e1af806) |
-| Fri, 20 Jun 2025 13:43:02 GMT | The Linux Service That Almost Let Attackers Slip In (And How I Found It Just in Time) | Faruk Ahmed | [Read More](https://medium.com/p/07b72a883f78) |
