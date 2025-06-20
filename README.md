@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 23:35:48 GMT | Flagyard CTF — TechShop: Exploiting SSTI to Gain RCE and Read the Flag | Rwx | [Read More](https://medium.com/p/ca161a63809d) |
+| Fri, 20 Jun 2025 23:31:37 GMT | Cortex Xpanse by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b2ec23ba950e) |
 | Fri, 20 Jun 2025 23:07:23 GMT | The Day Our CISO Got Phished: A Wake-Up Call That Transformed Our Security | Zahir black | [Read More](https://medium.com/p/dab361b6f0ff) |
 | Fri, 20 Jun 2025 23:05:04 GMT | Academy - Parameter Tampering & Manual/Automated & Binary Exploitation | Onurcan Genç | [Read More](https://medium.com/p/b9068a4e18d1) |
 | Fri, 20 Jun 2025 23:00:15 GMT | How the U.S. Government Is Quietly Undermining Free Speech via Cloudflare | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/95cde86af37f) |
@@ -111,5 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 16:36:16 GMT | I Cracked the eJPTv2:Here’s What Every Beginner Pentester Needs to Know | Xh081iX | [Read More](https://medium.com/p/308a260bd392) |
 | Fri, 20 Jun 2025 16:36:16 GMT | Time Travel for Hackers | Bl@ckC!pH3r | [Read More](https://medium.com/p/28657b4395d6) |
 | Fri, 20 Jun 2025 16:36:08 GMT | “Cybersecurity : Simple Steps to Stay Safe Online” | Kashifmehmoodrizvi | [Read More](https://medium.com/p/c34915d4f18d) |
-| Fri, 20 Jun 2025 16:31:36 GMT | Welcome to Hotel Obscura: Where Anonymity Checks In Before You Do | Anzalo Quin | [Read More](https://medium.com/p/3054f59515a7) |
-| Fri, 20 Jun 2025 16:31:29 GMT | Beyond the Tabletop: Introducing Our New Incident Response Readiness Review | Medcrypt | [Read More](https://medium.com/p/b60d33a922cf) |
