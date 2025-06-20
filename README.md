@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 04:15:20 GMT | In this in-depth conversation, I sit down with Luzi André, Director of SOC at Take-Two Interactive… | cybergriotz | [Read More](https://medium.com/p/ae0f8b71ec71) |
+| Fri, 20 Jun 2025 04:12:50 GMT | infoshyt: Automating OSINT Recon Like a Pro | sixxish | [Read More](https://medium.com/p/6d8418e26e69) |
+| Fri, 20 Jun 2025 04:06:04 GMT | The Stealth Campaign That Turned GitHub into a Trap for Gamers | Cyber-AppSec | [Read More](https://medium.com/p/56e8b31fa283) |
+| Fri, 20 Jun 2025 03:55:01 GMT | AWS Certification vs. CompTIA: Which One Should You Choose First? | Access Computer Training | [Read More](https://medium.com/p/fb00c0336bd3) |
 | Fri, 20 Jun 2025 03:50:11 GMT | The Largest Password Leak in History: Over 16 Billion Credentials Exposed | CyberTechAjju | [Read More](https://medium.com/p/c66555bf0286) |
 | Fri, 20 Jun 2025 03:43:04 GMT | Is It Strange to Seek Security in This Unpredictable World? | Michael Laitman | [Read More](https://medium.com/p/4a9a181c86ba) |
 | Fri, 20 Jun 2025 03:34:52 GMT | All Been Crypto — Week 20 June 2025 | Bat Tai Chi | [Read More](https://medium.com/p/f0adb9bdd982) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 18:30:11 GMT | The Largest DATA BREACH Ever: How 16 Billion Passwords Got Out and How to Protect Yourself | Vidusha Sanidu | [Read More](https://medium.com/p/285a31416179) |
 | Thu, 19 Jun 2025 18:26:56 GMT | Carnage Room- TryHackMe - Wireshark | Dhwanit Pandya | [Read More](https://medium.com/p/20738a8675e1) |
 | Thu, 19 Jun 2025 18:25:49 GMT | The Silent Killer of Innovation: When Speed Becomes the Enemy | Lakshika | [Read More](https://medium.com/p/4620fcc9dd00) |
-| Thu, 19 Jun 2025 18:20:13 GMT | ️ How to Create a Password You Can Remember (But Hackers Can’t Guess) | Tech Made Simple By NTi | [Read More](https://medium.com/p/d81e44d80537) |
-| Thu, 19 Jun 2025 18:17:42 GMT | AI in Testing is Cool, But Here’s What No One Tells You About Test Data | Lakshika | [Read More](https://medium.com/p/7705495cf9fb) |
-| Thu, 19 Jun 2025 18:05:15 GMT | From Using Bots to Building One | PanicAtTheKernel | [Read More](https://medium.com/p/32b2ca0c350f) |
-| Thu, 19 Jun 2025 18:02:44 GMT | The Centurion’s Lens: OSINT, Positioning, and the Power of Knowing | Malik Vero | [Read More](https://medium.com/p/a255ffe9693f) |
