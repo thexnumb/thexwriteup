@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 07:19:24 GMT | Securing MCP: From Vulnerable to Fortified — Building Secure HTTP-based AI Integrations | Rick Hightower | [Read More](https://medium.com/p/b706b0281e73) |
+| Fri, 20 Jun 2025 07:09:17 GMT | The Agent-Oriented Future: How a New Blueprint Is Turning AI Chaos into Enterprise-Ready Systems | ArXiv In-depth Analysis | [Read More](https://medium.com/p/a0e64e84b58f) |
+| Fri, 20 Jun 2025 07:08:06 GMT | INDONESIA’S EDUCATION SECTOR IS AN EASY TARGET FOR CYBER ATTACKS: Evidence of Attacks Is Growing! | Sydeco Indonesia | [Read More](https://medium.com/p/727a5be052e8) |
+| Fri, 20 Jun 2025 07:06:41 GMT | From Checklists to Culture: Embedding Learning into the DNA of Modern Workplaces | Medora Grasser | [Read More](https://medium.com/p/024f464fca10) |
+| Fri, 20 Jun 2025 06:58:49 GMT | Top Cybersecurity Threats to Watch in 2025 | Les Ottolenghi | [Read More](https://medium.com/p/7ff9f4f4455a) |
+| Fri, 20 Jun 2025 06:58:01 GMT | Quantum threat to RSA and the security of modern internet data transport | Dr. Sougata Pal | [Read More](https://medium.com/p/1a6644079b8e) |
+| Fri, 20 Jun 2025 06:57:39 GMT | The Growing Demand for Security Guard Services and Security Services in India | Ciss India | [Read More](https://medium.com/p/a2582e680ef3) |
+| Fri, 20 Jun 2025 06:54:46 GMT | 2025’s Remote Money Hack: Make Your First $1,000/Month in 30 Days | The Observer’s Pen | [Read More](https://medium.com/p/3dde23b7b106) |
+| Fri, 20 Jun 2025 06:48:49 GMT | Windows Malware: Rootkit Reverse Engineering | dandor2022 | [Read More](https://medium.com/p/4209736fb5f7) |
+| Fri, 20 Jun 2025 06:48:23 GMT | Why Entrance Exams Matter for Computer Science and Cyber Security Careers | Aashi | [Read More](https://medium.com/p/c452f6989026) |
+| Fri, 20 Jun 2025 06:48:13 GMT | Access Control (Erişim Kontrolü) Nedir? Portswigger Lab Çözümleri 1 | ENES KURTULAN | [Read More](https://medium.com/p/3d50b333b76b) |
+| Fri, 20 Jun 2025 06:47:54 GMT | ⚠️ Why 16 Billion Credentials Exposed in Massive Infostealer Leak — How It Happened and How You… | Karan Dhillon | [Read More](https://medium.com/p/0fb8a9a5c80d) |
+| Fri, 20 Jun 2025 06:45:54 GMT | How to Start Bug Bounty in 2025 — Technical Guide with Tools, Tactics & Real Step | Kailasv | [Read More](https://medium.com/p/ccca088f5675) |
+| Fri, 20 Jun 2025 06:42:39 GMT | Cybersecurity Project: Distributed Wazuh Multi-Node Deployment Guide on a Scalable Home Lab | Rupesh Sharma | [Read More](https://medium.com/p/e35f2e2316b7) |
+| Fri, 20 Jun 2025 06:36:25 GMT | Hackers Just Leaked 16 BILLION Logins, Are You at Risk? | Dhanush N | [Read More](https://medium.com/p/84cc351cd0d7) |
+| Fri, 20 Jun 2025 06:31:41 GMT | The Days That Didn’t Make the Highlight Reel | Half Bloomed Diaries | [Read More](https://medium.com/p/ef782faddbe4) |
 | Fri, 20 Jun 2025 06:14:56 GMT | What is Bug Bounty Hunting ️‍♂️ | Đeepanshu | [Read More](https://medium.com/p/c02d24853e16) |
 | Fri, 20 Jun 2025 06:13:14 GMT | The Corix Partners Friday Reading List — June 20, 2025 | JC Gaillard | [Read More](https://medium.com/p/d1c0c4e155ae) |
 | Fri, 20 Jun 2025 06:06:51 GMT | No, 16 Billion Passwords Didn’t Just Get Leaked — Here’s the Real Story | Sle3pyHead ‍ | [Read More](https://medium.com/p/bba2940fd684) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 21:24:30 GMT | Weaponized Medical Software | Inforsecpro | [Read More](https://medium.com/p/5bdc9a5ebc65) |
 | Thu, 19 Jun 2025 21:18:52 GMT | The Quantum Revolution: How Tomorrow’s Computers Will Reshape Cryptocurrency | Brendan on Blockchain | [Read More](https://medium.com/p/d44a70b9afd6) |
 | Thu, 19 Jun 2025 20:56:37 GMT | Hacking APIs: Exploit Insecure Deserialization | Israel Aráoz Severiche | [Read More](https://medium.com/p/10335afccde6) |
-| Thu, 19 Jun 2025 20:56:11 GMT | Evil Twin Unleashed: How the Wi-Fi Pineapple Turns Trust into a Trap [Part 2] | Shubhreet Dhaliwal | [Read More](https://medium.com/p/3e61c5866df4) |
-| Thu, 19 Jun 2025 20:55:19 GMT | My Vulnerability Research Highlights | Seth Kraft | [Read More](https://medium.com/p/9195c7f822e6) |
-| Thu, 19 Jun 2025 20:50:40 GMT | ClickHouse Executable Table Abuse by Low Privilege User | Seth Kraft | [Read More](https://medium.com/p/d6729320f4df) |
-| Thu, 19 Jun 2025 20:50:39 GMT | Abuse of Legitimate Tools in Cyberattacks (LOLBins and Living-off-the-Land Techniques) | Akshay Chauhan | [Read More](https://medium.com/p/e7e389143600) |
-| Thu, 19 Jun 2025 20:47:21 GMT | Adding NOPs to shellcode to evade rule-based detection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0cef27c679fa) |
-| Thu, 19 Jun 2025 20:42:36 GMT | Brooklyn Nine-Nine TryHackMe Challenge | musayyab sharif | [Read More](https://medium.com/p/3c815f2138f0) |
-| Thu, 19 Jun 2025 20:36:37 GMT | ✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️ | 0b1d1 | [Read More](https://medium.com/p/a8374b2a25ea) |
-| Thu, 19 Jun 2025 20:32:18 GMT | WebStrike Lab — Cyber Defenders Writeup | JoCo | [Read More](https://medium.com/p/e1c1378dd5b6) |
-| Thu, 19 Jun 2025 20:31:09 GMT | How I Found a Bug in Minutes! | Fuad Aliyev | [Read More](https://medium.com/p/67b55c529ed9) |
-| Thu, 19 Jun 2025 20:31:09 GMT | The Certification Trap: How the Cybersecurity Industry Is Selling Illusions Instead of Skills | Abdul Saboor | [Read More](https://medium.com/p/41911ade87af) |
-| Thu, 19 Jun 2025 20:29:15 GMT | They know (all of) your passwords! | Ismail “Doubl R” Rashad | [Read More](https://medium.com/p/d1121a86e754) |
-| Thu, 19 Jun 2025 20:26:30 GMT | Mastering Background Tasks in Python: My Journey Building a Task Scheduler From Scratch | Abdul Majid | [Read More](https://medium.com/p/fbcb657d735f) |
-| Thu, 19 Jun 2025 20:25:22 GMT | XSS Meets IDOR: A Double Vulnerability Story on a Learning Platform | Het Patel | [Read More](https://medium.com/p/aed3157759e0) |
-| Thu, 19 Jun 2025 20:12:27 GMT | Types of Security Services in the UK — Which One Do You Need? | waeventservices.co.uk/ | [Read More](https://medium.com/p/a4c26f264ba9) |
-| Thu, 19 Jun 2025 20:04:49 GMT | EchoLeak: The First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365… | SoumayaJoshi | [Read More](https://medium.com/p/59242c344b1e) |
-| Thu, 19 Jun 2025 20:03:53 GMT | Implementing Shift-Left Security: A Practical DevSecOps Guide | Cesar Schneider | [Read More](https://medium.com/p/8ca1c9666052) |
