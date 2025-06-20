@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 10:17:42 GMT | Global Security Testing Market Size, Share, Key Drivers, Growth Opportunities and Global Trends… | Willietorres | [Read More](https://medium.com/p/5625bbaf89ec) |
+| Fri, 20 Jun 2025 10:16:50 GMT | Morty PwnTillDawn -- 10.150.150.57 Writeup | Ishengoma | [Read More](https://medium.com/p/8dbcbbca2e8f) |
+| Fri, 20 Jun 2025 10:15:28 GMT | The Fear of Being Loved Only for the Mask I Wear | Adam Craig | [Read More](https://medium.com/p/cf8c3f33d790) |
+| Fri, 20 Jun 2025 10:02:07 GMT | What exactly is cyber resilience today? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/7b5a49d73144) |
+| Fri, 20 Jun 2025 10:01:43 GMT | The Silent Killers of Cyber Security: Laziness, Legacy and Lost focus. | Rabia Riaz | [Read More](https://medium.com/p/5760b69fa968) |
+| Fri, 20 Jun 2025 09:58:29 GMT | 6 Billion Passwords Leaked: Tech Giants Including Google, Facebook, Apple at Risk — Take Action… | Bug Mohol | [Read More](https://medium.com/p/efe682732062) |
+| Fri, 20 Jun 2025 09:57:37 GMT | Host & Network Penetration Testing The Metasploit Framework CTF 2— eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/70ea747461ad) |
+| Fri, 20 Jun 2025 09:57:32 GMT | Guide: Installing and Using Wazuh for Security Monitoring | De@d$ec | [Read More](https://medium.com/p/f4f0ca816588) |
+| Fri, 20 Jun 2025 09:49:17 GMT | InfoPêxwas: How They Pick Your Digital Pockets Without You Noticing | Dogan Can Bakir | [Read More](https://medium.com/p/ca247d4b5fc0) |
+| Fri, 20 Jun 2025 09:45:15 GMT | Authentication part-8 : 2FA broken logic | Ahmad Sopyan | [Read More](https://medium.com/p/d7ecbc50f7f8) |
+| Fri, 20 Jun 2025 09:44:05 GMT | How Our ‘Secure’ AWS VPC Peering Leaked Secrets via DNS | Rudra | [Read More](https://medium.com/p/72c1bcceb5ce) |
+| Fri, 20 Jun 2025 09:43:57 GMT | VXRL security summit — June 2025 | VXRL | [Read More](https://medium.com/p/334d6303cf75) |
+| Fri, 20 Jun 2025 09:43:04 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/147e1284877f) |
+| Fri, 20 Jun 2025 09:41:19 GMT | You Just Signed Up for a New App — And Boom, You’re Hacked. What Is XSS? | Chimereze! | [Read More](https://medium.com/p/d8b81d3ff0fc) |
+| Fri, 20 Jun 2025 09:40:29 GMT | When Logic Couldn’t Save Me: What My Breakup Taught Me About Feeling Again | Ahmad Ghamloush | [Read More](https://medium.com/p/8be1b39a9070) |
 | Fri, 20 Jun 2025 09:28:20 GMT | ️ 8 Corporate Security Tips Every Office in Delhi NCR Should Follow | Sumintra | [Read More](https://medium.com/p/66b81603954e) |
 | Fri, 20 Jun 2025 09:24:39 GMT | My Cybersecurity Journey: From Beginner to Ethical Hacker with Cisco | Darshan | [Read More](https://medium.com/p/db6be3a7c917) |
 | Fri, 20 Jun 2025 09:17:14 GMT | What is Metasploit Framework? | The Drop Organization | [Read More](https://medium.com/p/750382beb3a2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 03:34:52 GMT | All Been Crypto — Week 20 June 2025 | Bat Tai Chi | [Read More](https://medium.com/p/f0adb9bdd982) |
 | Fri, 20 Jun 2025 03:31:40 GMT | ResolverRAT: The Stealth Malware Campaign Exploiting Healthcare and Pharma | Deven Chhajed | [Read More](https://medium.com/p/f451c768105d) |
 | Fri, 20 Jun 2025 03:28:51 GMT | RangeForce Lab — Perimeter Compromise Challenge | Hassen Hannachi | [Read More](https://medium.com/p/31a893f7c7b3) |
-| Fri, 20 Jun 2025 03:21:33 GMT | How to Set Up LDAP Login for SafeLine WAF | AerieWhole123 | [Read More](https://medium.com/p/b3e202647824) |
-| Fri, 20 Jun 2025 03:12:40 GMT | Securing API Keys in Flutter: The Right Way to Keep Secrets Safe | Varmavetukuri | [Read More](https://medium.com/p/0cc78d7c9358) |
-| Fri, 20 Jun 2025 03:00:23 GMT | Ollama Exposed: Unauthenticated Access Vulnerability Could Leak Your LLM Models | AerieWhole123 | [Read More](https://medium.com/p/996798a1082f) |
-| Fri, 20 Jun 2025 02:50:23 GMT | The Myth of the Perfect Cybersecurity Tool: Crafting a Unique Security Strategy | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/0c13d6579fbb) |
-| Fri, 20 Jun 2025 02:47:20 GMT | The New Orbit of Conflict: Why Space Cybersecurity is Our Next Battlefield | Ruksana Kabir (Rox) | [Read More](https://medium.com/p/2bcfa8a58f13) |
-| Fri, 20 Jun 2025 02:38:06 GMT | Software Testing VS Penetration Testing | Onurcan Genç | [Read More](https://medium.com/p/7f67af5ef971) |
-| Fri, 20 Jun 2025 02:35:33 GMT | Computer Security — The Morris Worm | Kevin McNamee | [Read More](https://medium.com/p/d7b5ba48e0c6) |
-| Fri, 20 Jun 2025 02:31:05 GMT | COOKIE {WEB} WRITE UP -- SEASON V UNITED STATES CYBER GAMES (SVUSCG) CTF | i4m_x | [Read More](https://medium.com/p/71300908d10e) |
-| Fri, 20 Jun 2025 02:17:45 GMT | From Search to Hall of Fame: Responsible Disclosure of a Grafana Security Flaw | B4LOGI | [Read More](https://medium.com/p/df51598341a1) |
-| Fri, 20 Jun 2025 02:03:53 GMT | Kimsuky Group Targets Academia With Password-Protected Malware Campaign | SafetyDetectives Research Team | [Read More](https://medium.com/p/e77574de5260) |
-| Fri, 20 Jun 2025 01:37:08 GMT | How Imperfect Women Captivate High-Quality Men: The Art of Controlled Vulnerability | Yuenie-kate | [Read More](https://medium.com/p/3e356eeaa1ab) |
-| Fri, 20 Jun 2025 01:36:03 GMT | Chaining CSRF with Missing Auth and Origin Validation to Hijack User Accounts via Email Change | Samratsitaula | [Read More](https://medium.com/p/119d389f537b) |
-| Fri, 20 Jun 2025 01:22:59 GMT | E-Motion (Pt.2) | Hannah Adakanu | [Read More](https://medium.com/p/e616191e56a6) |
-| Fri, 20 Jun 2025 01:16:37 GMT | A Mother’s Love Letter to Wine: Aged to Perfection | Wesley Ann Edmonds | [Read More](https://medium.com/p/9f4062c261c2) |
-| Fri, 20 Jun 2025 01:12:31 GMT | Stop Hunting for Hackers — The Real Threat Is Sitting in Your Meetings | Pascal Leblanc | [Read More](https://medium.com/p/1200d66a8877) |
