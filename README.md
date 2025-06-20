@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 07:35:48 GMT | How vDOT Rapidly Recovers Peg During Market Volatility | Bifrost | [Read More](https://medium.com/p/6f4edeb92c5e) |
+| Fri, 20 Jun 2025 07:34:27 GMT | HTML Injection: From Discovery to Exploitation | Isha Sangpal | [Read More](https://medium.com/p/efe4a620acf8) |
+| Fri, 20 Jun 2025 07:31:14 GMT | Learn Ethical Hacking and Penetration Testing After 12th: Complete Guide | cyber security Updates | [Read More](https://medium.com/p/1a2a151daf03) |
+| Fri, 20 Jun 2025 07:25:03 GMT | Cybersecurity on ₹0: Free Blogs, Labs, and Channels That Can Get You Started | Shahrukh Sec | [Read More](https://medium.com/p/c8fa922e3d92) |
+| Fri, 20 Jun 2025 07:21:49 GMT | Automating WAF Response with n8n and SafeLine | Maverick Steel | [Read More](https://medium.com/p/3d78ecd93960) |
+| Fri, 20 Jun 2025 07:20:02 GMT | Why Cloud-Based IT Services Are a Game-Changer | CyberSolvings | [Read More](https://medium.com/p/7be2b4087fbc) |
 | Fri, 20 Jun 2025 07:19:24 GMT | Securing MCP: From Vulnerable to Fortified — Building Secure HTTP-based AI Integrations | Rick Hightower | [Read More](https://medium.com/p/b706b0281e73) |
 | Fri, 20 Jun 2025 07:09:17 GMT | The Agent-Oriented Future: How a New Blueprint Is Turning AI Chaos into Enterprise-Ready Systems | ArXiv In-depth Analysis | [Read More](https://medium.com/p/a0e64e84b58f) |
 | Fri, 20 Jun 2025 07:08:06 GMT | INDONESIA’S EDUCATION SECTOR IS AN EASY TARGET FOR CYBER ATTACKS: Evidence of Attacks Is Growing! | Sydeco Indonesia | [Read More](https://medium.com/p/727a5be052e8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Jun 2025 22:13:22 GMT | Based Malware is a Solved Problem. We’re Just Using the Wrong Approach | Rijal s | [Read More](https://medium.com/p/6ec534482ad0) |
 | Thu, 19 Jun 2025 21:58:55 GMT | Offsec Proving Grounds Walkthrough — Monster | Anushka Virgaonkar | [Read More](https://medium.com/p/774a871c6ad7) |
 | Thu, 19 Jun 2025 21:51:05 GMT | 0. | Z1ER0 | [Read More](https://medium.com/p/9cf7d907a311) |
-| Thu, 19 Jun 2025 21:46:47 GMT | The Nobitex Hack: Iran, Israel, and the Cyberwar Heating Up | TheCyberSalad | [Read More](https://medium.com/p/cabf94957069) |
-| Thu, 19 Jun 2025 21:41:16 GMT | How Does a Document Management Solution Enhance Service Management? | Continia | [Read More](https://medium.com/p/d7e13aae248d) |
-| Thu, 19 Jun 2025 21:37:29 GMT | Importance of cyber security | Chandanjana | [Read More](https://medium.com/p/a9efad7bcda2) |
-| Thu, 19 Jun 2025 21:24:30 GMT | Weaponized Medical Software | Inforsecpro | [Read More](https://medium.com/p/5bdc9a5ebc65) |
-| Thu, 19 Jun 2025 21:18:52 GMT | The Quantum Revolution: How Tomorrow’s Computers Will Reshape Cryptocurrency | Brendan on Blockchain | [Read More](https://medium.com/p/d44a70b9afd6) |
-| Thu, 19 Jun 2025 20:56:37 GMT | Hacking APIs: Exploit Insecure Deserialization | Israel Aráoz Severiche | [Read More](https://medium.com/p/10335afccde6) |
