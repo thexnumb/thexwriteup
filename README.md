@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 21:31:32 GMT | How I Discovered AI’s Dark Side: The Security Crisis Nobody Talks About | Divyansh Bhatia | [Read More](https://medium.com/p/874ee3594da3) |
+| Fri, 20 Jun 2025 21:24:42 GMT | Digital Forensics After Cyberwar: What Must Be Traced? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0369f3368883) |
 | Fri, 20 Jun 2025 21:18:03 GMT | The AI-Cybersecurity Convergence: Enterprise Architecture’s New Mandate | MAHESH KUMAR GADDAM | [Read More](https://medium.com/p/9d5730ddb953) |
 | Fri, 20 Jun 2025 21:17:54 GMT | They Hacked a Billion-Dollar Company in 7 Minutes—Here’s How You Can Avoid Being Next | The Content Explorer: Ahmed Abdullah | [Read More](https://medium.com/p/769a675356c9) |
 | Fri, 20 Jun 2025 21:10:52 GMT | Unpacking iOS Apps: How to Extract IPA Files from Jailbroken iPhone Using Python | Hary Ft | [Read More](https://medium.com/p/1425a2b18fb2) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 15:28:47 GMT | Cloud Security Tools: Essential Solutions to Protect Your Cloud Environment | SafeAeon Inc. | [Read More](https://medium.com/p/7c09786046b2) |
 | Fri, 20 Jun 2025 15:24:58 GMT | Unlocking Japanese Web Security: My Informational Interview with a Startup Pentester | TokiBando | [Read More](https://medium.com/p/c6a55f2b178e) |
 | Fri, 20 Jun 2025 15:23:12 GMT | Cybersecurity | Nathkumar | [Read More](https://medium.com/p/9cdd797d422e) |
-| Fri, 20 Jun 2025 15:12:35 GMT | My Journey to Achieving the Cyberwarfare Labs Certified Red Team Infra Dev Certification | THAMER ALNAJADAT | [Read More](https://medium.com/p/0995901d4f00) |
-| Fri, 20 Jun 2025 15:10:12 GMT | War Looms in Northern Europe | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/bf85716fcda6) |
