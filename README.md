@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 18:49:02 GMT | The Linux Security Journey — Authentication Logs | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6f3f53eda542) |
+| Fri, 20 Jun 2025 18:34:46 GMT | Cybersecurity and the Psychology of Human Error: Understanding Digital Risk Behavior in Youth | Amritleenkaur | [Read More](https://medium.com/p/76a81004bc40) |
+| Fri, 20 Jun 2025 18:32:25 GMT | Over The Wire — bandit level 10–20 | Isha Sangpal | [Read More](https://medium.com/p/3e0ad7d5bd83) |
+| Fri, 20 Jun 2025 18:31:24 GMT | North Korea’s Crypto Job Trap: How Fake Interviews Are Hacking Your Wallet | CoinGen | [Read More](https://medium.com/p/ef5f4939aae3) |
+| Fri, 20 Jun 2025 18:30:05 GMT | The Silent Leak: 16 Billion Passwords Exposed and the Urgent Need for Cyber Hygiene | Avnishyam | [Read More](https://medium.com/p/be341285a621) |
+| Fri, 20 Jun 2025 18:28:32 GMT | Why is doxing so easy? | Padrino Oraèmorto | [Read More](https://medium.com/p/fd441c6158d1) |
 | Fri, 20 Jun 2025 18:28:15 GMT | Title: Cybersecurity and the Psychology of Human Error: Understanding Digital Risk Behavior in… | Amritleenkaur | [Read More](https://medium.com/p/2fe886068cb7) |
 | Fri, 20 Jun 2025 18:26:39 GMT | From Terminal Noob to Global Ranker: My TryHackMe Journey (2022–2025) | Shadow Packet | [Read More](https://medium.com/p/3a183fc89313) |
 | Fri, 20 Jun 2025 18:23:40 GMT | 5 REASONS WHY CHATGPT IS THE ONLY LOYAL FRIEND. | DEBBYWRITE | [Read More](https://medium.com/p/6d66212bfd8a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 13:24:41 GMT | From Login Page to Full Admin Panel Takeover (Arabic version) | rood | [Read More](https://medium.com/p/da63a22cc09c) |
 | Fri, 20 Jun 2025 13:22:59 GMT | GhostVendors Campaign: The Rise of Fake Shopping Sites | TheReviewHive | [Read More](https://medium.com/p/d6425329cf9b) |
 | Fri, 20 Jun 2025 13:20:35 GMT | From Login Page to Full Admin Panel Takeover | rood | [Read More](https://medium.com/p/46695e45d228) |
-| Fri, 20 Jun 2025 13:09:06 GMT | Meta Data Breach 2025: What Was Stolen and Why It Matters | Shalomo Agarwarkar | [Read More](https://medium.com/p/17cb13ebfe79) |
-| Fri, 20 Jun 2025 13:08:40 GMT | How Prime Numbers Secure the Internet | Taaha | [Read More](https://medium.com/p/7f123857f785) |
-| Fri, 20 Jun 2025 13:04:52 GMT | Allite Patrol and Security Services Inc | Allite Patrol and Security Services Inc | [Read More](https://medium.com/p/aa4f14445fc3) |
-| Fri, 20 Jun 2025 13:01:41 GMT | How Peris.ai Uses Hyperautomation to Transform SOC Operations | Peris.ai Cybersecurity | [Read More](https://medium.com/p/1dc39d8460a4) |
-| Fri, 20 Jun 2025 13:00:57 GMT | 4 Easy Ways You Can Create Content to Win More Clients | Joe | [Read More](https://medium.com/p/58e443e53090) |
-| Fri, 20 Jun 2025 12:57:10 GMT | Herz, Hirn und Systemversagen — Warum innere Kohärenz nicht reicht | Annette Jäger | [Read More](https://medium.com/p/5237c15d2b74) |
