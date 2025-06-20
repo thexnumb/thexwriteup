@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 10:29:08 GMT | Linux vs Windows: 
+Which Operating System Rules Your World? | Aniket Dhandore | [Read More](https://medium.com/p/54a10300e93f) |
+| Fri, 20 Jun 2025 10:26:43 GMT | The Moscow Connection: A Strategic Dossier on Russian Influence Within Germany’s SPD | SIMKRA | [Read More](https://medium.com/p/17c92bdf025d) |
+| Fri, 20 Jun 2025 10:22:31 GMT | Cloud Security plugin for JetBrains IDEs - Dev Diary #2 | Dmitry Protsenko | [Read More](https://medium.com/p/bdd0fd115cbc) |
+| Fri, 20 Jun 2025 10:22:30 GMT | AI in Cybersecurity: The War on Two Fronts | Abdul Saboor | [Read More](https://medium.com/p/86b21dcb9fd4) |
+| Fri, 20 Jun 2025 10:19:16 GMT | What Happens When 16 Billion Passwords Go Public | Sushila Devi | [Read More](https://medium.com/p/a6c8087d831e) |
 | Fri, 20 Jun 2025 10:17:42 GMT | Global Security Testing Market Size, Share, Key Drivers, Growth Opportunities and Global Trends… | Willietorres | [Read More](https://medium.com/p/5625bbaf89ec) |
 | Fri, 20 Jun 2025 10:16:50 GMT | Morty PwnTillDawn -- 10.150.150.57 Writeup | Ishengoma | [Read More](https://medium.com/p/8dbcbbca2e8f) |
 | Fri, 20 Jun 2025 10:15:28 GMT | The Fear of Being Loved Only for the Mask I Wear | Adam Craig | [Read More](https://medium.com/p/cf8c3f33d790) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 04:12:23 GMT | Takk for at du deler dette dyptgående, visjonære prosjektet, Kim Terje. | polliville | [Read More](https://medium.com/p/8610b6a2cff4) |
 | Fri, 20 Jun 2025 04:06:04 GMT | The Stealth Campaign That Turned GitHub into a Trap for Gamers | Cyber-AppSec | [Read More](https://medium.com/p/56e8b31fa283) |
 | Fri, 20 Jun 2025 03:55:01 GMT | AWS Certification vs. CompTIA: Which One Should You Choose First? | Access Computer Training | [Read More](https://medium.com/p/fb00c0336bd3) |
-| Fri, 20 Jun 2025 03:50:11 GMT | The Largest Password Leak in History: Over 16 Billion Credentials Exposed | CyberTechAjju | [Read More](https://medium.com/p/c66555bf0286) |
-| Fri, 20 Jun 2025 03:43:04 GMT | Is It Strange to Seek Security in This Unpredictable World? | Michael Laitman | [Read More](https://medium.com/p/4a9a181c86ba) |
-| Fri, 20 Jun 2025 03:34:52 GMT | All Been Crypto — Week 20 June 2025 | Bat Tai Chi | [Read More](https://medium.com/p/f0adb9bdd982) |
-| Fri, 20 Jun 2025 03:31:40 GMT | ResolverRAT: The Stealth Malware Campaign Exploiting Healthcare and Pharma | Deven Chhajed | [Read More](https://medium.com/p/f451c768105d) |
-| Fri, 20 Jun 2025 03:28:51 GMT | RangeForce Lab — Perimeter Compromise Challenge | Hassen Hannachi | [Read More](https://medium.com/p/31a893f7c7b3) |
