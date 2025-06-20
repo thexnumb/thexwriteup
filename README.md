@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Jun 2025 17:40:12 GMT | Security Automation: How I Built a Personalized RSS Threat Feed Tracker using Power Automate and… | Erin Martin | [Read More](https://medium.com/p/e5541cd620ac) |
+| Fri, 20 Jun 2025 17:38:43 GMT | Cyber Proxy War in the Shadow of a U.S. Invasion of Iran | SIMKRA | [Read More](https://medium.com/p/aeac95dd308f) |
+| Fri, 20 Jun 2025 17:37:34 GMT | CVE-2025–0133: Reflected XSS Vulnerability in Palo Alto GlobalProtect Gateway & Portal | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/028128f2f5b9) |
+| Fri, 20 Jun 2025 17:37:00 GMT | The Invisible Hack: Inside the Shadow Process Injection Attack That Stunned a Small Business in… | Noel | [Read More](https://medium.com/p/7e5d98da08ea) |
+| Fri, 20 Jun 2025 17:36:37 GMT | Do You Know About Security Principles? | Mainekdeveloper | [Read More](https://medium.com/p/97e9f4fc6c86) |
+| Fri, 20 Jun 2025 17:36:01 GMT | Blaster — A Brutal Domain Reconnaissance Tool Built with Python | Muhammad Usman Faridi | [Read More](https://medium.com/p/350a52b38d77) |
+| Fri, 20 Jun 2025 17:34:48 GMT | ⚖️ What a Catamaran Cruise Taught Me About the FAIR Risk Model | Brittney Ginther | [Read More](https://medium.com/p/3209d002d9c1) |
+| Fri, 20 Jun 2025 17:32:45 GMT | Hackers Used a Printer to Breach a Company — Here’s How to Stop It from Happening to You | Noel | [Read More](https://medium.com/p/471cf97384fa) |
+| Fri, 20 Jun 2025 17:32:34 GMT | 3. Detecting Attackers with a Honey User Trap | abdelrahman ahmed amin | [Read More](https://medium.com/p/381bcf1e76a4) |
+| Fri, 20 Jun 2025 17:28:05 GMT | How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | Monika sharma | [Read More](https://medium.com/p/9dbd836c315b) |
+| Fri, 20 Jun 2025 17:27:57 GMT | Why Chrome Desktop Should Prompt for Re-Authentication Before Viewing Passwords — A Security… | RV Sharma | [Read More](https://medium.com/p/235f202069ef) |
+| Fri, 20 Jun 2025 17:20:36 GMT | This Is How Tech Companies Are Designing You — Not Just Your Apps | Hafizbilaltariq | [Read More](https://medium.com/p/c7905a97b0b6) |
 | Fri, 20 Jun 2025 17:07:24 GMT | Dork Recon to self-learn unique stuff | AbhirupKonwar | [Read More](https://medium.com/p/2c9f78ff5661) |
 | Fri, 20 Jun 2025 17:05:59 GMT | Data Leaked on Dark Web? Secure Your Passwords to be Protected | Hoplon Infosec | [Read More](https://medium.com/p/9728d25b89ed) |
 | Fri, 20 Jun 2025 17:03:49 GMT | How I Deployed a Honeypot on Azure and Built an Attack Map with Microsoft Sentinel | Naveen Kumar Narasimhan | [Read More](https://medium.com/p/d02fa8031c14) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 12:10:45 GMT | Bypassing Geolocation Restrictions using AWS EC2 as a Proxy Host (and Integrating with Burp Suite) | dextro | [Read More](https://medium.com/p/8d8f2f98d6ae) |
 | Fri, 20 Jun 2025 12:07:09 GMT | How XSS and OAuth Misconfigs Steal Your Tokens | Ibtissam hammadi | [Read More](https://medium.com/p/63879240fbe2) |
 | Fri, 20 Jun 2025 12:06:39 GMT | The Identity Wars -Ep3 | Amey Rugge | [Read More](https://medium.com/p/bfe68bdecade) |
-| Fri, 20 Jun 2025 12:06:14 GMT | The JVM That Crashed Every 9th Tuesday: A 25-Year-Old Processor Bug Resurfaces | Rudra | [Read More](https://medium.com/p/a3b8417cc449) |
-| Fri, 20 Jun 2025 12:03:22 GMT | 16 Billion Password Leak: Reset Passwords, Enable MFA, Switch to Passkeys | TheReviewHive | [Read More](https://medium.com/p/b888fcdcab2e) |
-| Fri, 20 Jun 2025 12:01:58 GMT | Navigating the Digital Frontier: Why Kali Linux and Cybersecurity Are the Future of Modern Business | Pulse & Perspective | [Read More](https://medium.com/p/dd5bbb5f880c) |
-| Fri, 20 Jun 2025 12:01:49 GMT | This One HTTP Header Trick Let Me Hack Into the Admin Panel — No Passwords Needed! | Afnan Bin Abbas | [Read More](https://medium.com/p/c531e67f8d05) |
-| Fri, 20 Jun 2025 12:01:48 GMT | 16 Billion Passwords Leaked — Is Your Account Safe? | Jai-Techie | [Read More](https://medium.com/p/c3be89c25e67) |
-| Fri, 20 Jun 2025 11:59:41 GMT | Evaluating managed SOCs by their threat attribution capabilities | Cloud4C Services | [Read More](https://medium.com/p/e1551afbc25b) |
-| Fri, 20 Jun 2025 11:57:59 GMT | Top OT Cybersecurity Trends to Watch in 2025 | Shieldworkz | [Read More](https://medium.com/p/389da35a1ef6) |
-| Fri, 20 Jun 2025 11:54:21 GMT | Top 10 Free Threat Intelligence Feeds Every Security Team Should Know | SOCRadar® Extended Cyber Threat Intelligence | [Read More](https://medium.com/p/f65bbb1a2f83) |
-| Fri, 20 Jun 2025 11:54:06 GMT | 16 Billion Credentials Data Breach – How to Check If Your Account or Password Was Leaked | Pranav Bhardwaj | [Read More](https://medium.com/p/db6e7ded4bb9) |
-| Fri, 20 Jun 2025 11:50:41 GMT | 16 Billions Google Leaked Password Alert in 2025 | John Miller | [Read More](https://medium.com/p/71d5d6a94868) |
-| Fri, 20 Jun 2025 11:42:01 GMT | A Brief History: Cyberwarfare | Cybawareness | [Read More](https://medium.com/p/c96c5abc3681) |
-| Fri, 20 Jun 2025 11:33:32 GMT | Comparing Top Home Security Camera: Blink Outdoor 4 (newest model),Like-New Ring Spotlight Cam… | Waed saada | [Read More](https://medium.com/p/841f0c05d9eb) |
