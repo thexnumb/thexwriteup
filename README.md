@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 07:33:20 GMT | How To Avoid Scams and Hacks with The Help Of Trust Wallet Security Tools ? | Anytype | [Read More](https://medium.com/p/a0edf67b5516) |
+| Sat, 21 Jun 2025 07:31:16 GMT | BAC — IDOR ($300–$2,500) | Abin | [Read More](https://medium.com/p/a694f1739ce7) |
+| Sat, 21 Jun 2025 07:21:40 GMT | BeHave: Unlocking Your Digital Identity Through How You Type | Ram Bikkina | [Read More](https://medium.com/p/374330451793) |
 | Sat, 21 Jun 2025 07:14:49 GMT | I PWNED A FEEDBACK FORM USING BLIND OS COMMAND INJECTION WITH DNS EXFIL | Sumanth Yerranagula | [Read More](https://medium.com/p/27d0002ad74e) |
 | Sat, 21 Jun 2025 07:01:39 GMT | Becoming Someone You Never Saw as a Child | Łukasz Ratajczak | [Read More](https://medium.com/p/765742c992f5) |
 | Sat, 21 Jun 2025 06:30:22 GMT | ✍Global Software Defined Perimeter Market Size, Share, Strategies, Key Manufacturers, Trends and… | Yamaguchitabithay | [Read More](https://medium.com/p/b049542886ca) |
@@ -110,6 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 20:06:15 GMT | Quantum Computing Explained: From Theory to Real-World Use Cases | travelsmarthacks.site | [Read More](https://medium.com/p/d1f33e4e2095) |
 | Fri, 20 Jun 2025 20:01:17 GMT | 16 Billion Passwords Leaked in the Biggest Breach Ever — Change Yours NOW | Areeba Shahbaz | [Read More](https://medium.com/p/17a66f805b6f) |
 | Fri, 20 Jun 2025 20:00:10 GMT | AWSReaper: Cloud Pentesting Practical Techniques for Red Teams | Aditya Bhatt | [Read More](https://medium.com/p/22e91e78a82f) |
-| Fri, 20 Jun 2025 19:57:31 GMT | ✈️ Rewiring JFK Terminal 4: Wipro’s AI-Powered Cloud Strategy Is Building the Future of Smart… | Sibi Aadharsh | [Read More](https://medium.com/p/4173c8f31cfe) |
-| Fri, 20 Jun 2025 19:56:55 GMT | Install Havoc C2 in 2 Minutes on Kali Linux (Quick Guide) | Moïse Aubert | [Read More](https://medium.com/p/a790d9f31898) |
-| Fri, 20 Jun 2025 19:55:02 GMT | Unpacking iOS Apps: How to Extract IPA Files from Jailbroken iPhone Using Python | Hary Ft | [Read More](https://medium.com/p/8f1169d236c2) |
