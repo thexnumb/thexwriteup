@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 18:15:40 GMT | Companies Are Getting Worse, & (Most) Aren’t Going Anywhere | Alex Einfelt | [Read More](https://medium.com/p/6328dd2410f7) |
+| Sat, 21 Jun 2025 18:14:40 GMT | JWT Authentication using Private and Public Keys | Muyiwa-dev | [Read More](https://medium.com/p/25c1de8fb933) |
+| Sat, 21 Jun 2025 18:12:47 GMT | Docker Scout: Complete Guide for Securing Container Images at Scale | Flavius Dinu | [Read More](https://medium.com/p/5db1c4f14b11) |
+| Sat, 21 Jun 2025 18:09:34 GMT | AI Agents in Cybersecurity: Challenges and Use Cases | noailabs | [Read More](https://medium.com/p/fd5cbd50c3ed) |
+| Sat, 21 Jun 2025 18:05:46 GMT | Securing Linux: Locking Down the Core of Your System | Lince Mathew | [Read More](https://medium.com/p/2ef45dc3dea6) |
+| Sat, 21 Jun 2025 18:01:41 GMT | Breaking in: My Hack The Box Journey from Noob to Hacker (2022–2025) | Shadow Packet | [Read More](https://medium.com/p/e3429b95ad64) |
+| Sat, 21 Jun 2025 17:40:36 GMT | Your mind isn’t neutral. It’s a factory. The question is: are you producing poison or paradise? | Klara Flügel | [Read More](https://medium.com/p/a00d468b272f) |
 | Sat, 21 Jun 2025 17:28:54 GMT | ️ Ransomware Canary Detector — A Lightweight, Early-Warning Tool for Ransomware Defense | ruchir ganatra | [Read More](https://medium.com/p/e47cf1cab4cc) |
 | Sat, 21 Jun 2025 17:27:28 GMT | # The Code and the Blade: Why Omega Browser Isn’t Just Another Privacy-Focused Browser | Omega Browser | [Read More](https://medium.com/p/2ccfb7744413) |
 | Sat, 21 Jun 2025 17:27:25 GMT | Red Team vs Blue Team vs Purple Team: What’s the Difference in Cybersecurity? | Exreconnaissance | [Read More](https://medium.com/p/9b25f8894424) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 12:32:37 GMT | Day 4/30 : Tracking Digital Trails with Maltego — An OSINT Beginner’s Journey | Cyphersilhouette | [Read More](https://medium.com/p/ff5b56b3543f) |
 | Sat, 21 Jun 2025 12:29:53 GMT | How I Found a User Enumeration Flaw Through Password Reset Logic | Gouri Sankar A | [Read More](https://medium.com/p/9b7c01dbf0fe) |
 | Sat, 21 Jun 2025 12:29:04 GMT | Cyber Law in India: Protect Your Digital Rights | Ankitinnjoshi | [Read More](https://medium.com/p/41366ffb8e6b) |
-| Sat, 21 Jun 2025 12:26:48 GMT | The Role of Ethical Hacking in Strengthening Cybersecurity Measures | InaMetaverses | [Read More](https://medium.com/p/5f48e1ba513a) |
-| Sat, 21 Jun 2025 12:25:43 GMT | Understanding CSRF Protection in Laravel: A Security Essential | Alhassan Mohammed | [Read More](https://medium.com/p/a1f24ac05099) |
-| Sat, 21 Jun 2025 12:12:06 GMT | Shanthi IT Solution Launches Comprehensive Cybersecurity Internship Program | Shanthi IT Solution | [Read More](https://medium.com/p/9c1ade93a4b6) |
-| Sat, 21 Jun 2025 11:57:54 GMT | Debugging a Bug I Couldn’t Reproduce — For 3 Days | CodeQuest | [Read More](https://medium.com/p/c6a83f9cba16) |
-| Sat, 21 Jun 2025 11:57:06 GMT | We’re entering an era where quantum computers are no longer science fiction. | Cryon | [Read More](https://medium.com/p/ec7a4fbda0fa) |
-| Sat, 21 Jun 2025 11:53:58 GMT | The Past, the Panic, and the Promise: Choosing Love Anyway | The Veiled Versifier | [Read More](https://medium.com/p/d6b3057c84e6) |
-| Sat, 21 Jun 2025 11:52:05 GMT | Why Warehouse Security Guard Services Are Essential to Protect Your Assets? | Sumintra | [Read More](https://medium.com/p/85a5139703b3) |
