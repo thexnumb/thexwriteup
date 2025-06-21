@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 11:33:01 GMT | Insecure Direct Object Reference (IDOR): A Beginner’s Guide to Finding and Fixing High-Impact… | Andrei Ivan | [Read More](https://medium.com/p/3e777be08ad0) |
+| Sat, 21 Jun 2025 11:32:25 GMT | In the Mask, a Mirror | Adrian | [Read More](https://medium.com/p/5f66818632c4) |
+| Sat, 21 Jun 2025 11:22:51 GMT | A Playbook for Application Security Pentest Reports | Pranieth Chandrasekara | [Read More](https://medium.com/p/a2c9a7f430fc) |
+| Sat, 21 Jun 2025 11:18:05 GMT | The 16 Billion Credential Breach: What Happened, What It Means, and How FrostByte Protects You | FrostByte | [Read More](https://medium.com/p/2ea22680726c) |
+| Sat, 21 Jun 2025 11:11:35 GMT | Capture The Flag: The Cybersecurity Olympics | Regan Temudo | [Read More](https://medium.com/p/133c093b1226) |
 | Sat, 21 Jun 2025 11:07:28 GMT | I PWNED A SEARCH BOX WITH <script>alert(1)</script> | Sumanth Yerranagula | [Read More](https://medium.com/p/21e038602379) |
 | Sat, 21 Jun 2025 11:06:25 GMT | What's New in CSP v3 | appsecwarrior | [Read More](https://medium.com/p/992c44c0425e) |
 | Sat, 21 Jun 2025 11:01:37 GMT | Essential Cybersecurity Tools for 2025: A Deep Dive Across Domains | Manoj Gadamsetty | [Read More](https://medium.com/p/d972f3f4adb0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 04:52:38 GMT | 16 Billion Passwords Leaked? Here’s What Actually Happened | Deven Chhajed | [Read More](https://medium.com/p/3e3625808751) |
 | Sat, 21 Jun 2025 04:44:55 GMT | Pro‑Palestine Activists Breach RAF Brize Norton, Vandalise Military Aircraft | BDCN News Official | [Read More](https://medium.com/p/e37e6b61d0f8) |
 | Sat, 21 Jun 2025 04:38:53 GMT | Controversy Erupts Over Japanese Cybersecurity Firm’s Vulnerability Disclosure Practices | Yasunori Kuji | [Read More](https://medium.com/p/3e3bcb6a24df) |
-| Sat, 21 Jun 2025 04:36:32 GMT | Simplify Kubernetes Security With Kyverno and OPA Gatekeeper | Adetokunbo Ige | [Read More](https://medium.com/p/16394d6e7dc6) |
-| Sat, 21 Jun 2025 04:35:39 GMT | 140 Vulnerability in Web Application that can make you $50- $20,000 | Rishav anand | [Read More](https://medium.com/p/5ec450d4f5ca) |
-| Sat, 21 Jun 2025 04:29:08 GMT | Pengenalan Penetration Testing | life | [Read More](https://medium.com/p/bee6c0e9677d) |
-| Sat, 21 Jun 2025 04:28:18 GMT | What’s a ‘Safe’ Distance? Preparing for Bombs, Drones, and Missiles at Home and Work | Tina Ginn | [Read More](https://medium.com/p/590dd3581dbf) |
-| Sat, 21 Jun 2025 04:27:05 GMT | Penetration Testing | Kuro | [Read More](https://medium.com/p/ac848a04c0dc) |
