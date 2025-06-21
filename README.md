@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 19:11:25 GMT | Sécurité de l’information VS Cybersécurité | Patrick Boucher | [Read More](https://medium.com/p/608748e87942) |
+| Sat, 21 Jun 2025 19:08:31 GMT | Scaling to 1 Million Users in AWS: The Architecture I Wish I Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/235c2a9907d8) |
+| Sat, 21 Jun 2025 19:04:59 GMT | Exploring the Smart Home Industry with SwitchBot: The Future of NFC Door Locks | turnerlaurie5245 | [Read More](https://medium.com/p/53ee08ce7a4a) |
+| Sat, 21 Jun 2025 19:03:23 GMT | CoinMarketCap Hit by Wallet Scam Popup, Here’s What Really Happened ️ | CoinGen | [Read More](https://medium.com/p/3053a001be1e) |
+| Sat, 21 Jun 2025 18:45:31 GMT | Demystifying API Authentication — Part 2 | Leela Kumili | [Read More](https://medium.com/p/4b5ee24a16bf) |
 | Sat, 21 Jun 2025 18:23:31 GMT | Israel’s Iron Dome Fall Flat | mahwish qayyum | [Read More](https://medium.com/p/001767ece8b3) |
 | Sat, 21 Jun 2025 18:18:38 GMT | CTF Day(21) | Ahmed Narmer | [Read More](https://medium.com/p/1609f905029b) |
 | Sat, 21 Jun 2025 18:15:40 GMT | Companies Are Getting Worse, & (Most) Aren’t Going Anywhere | Alex Einfelt | [Read More](https://medium.com/p/6328dd2410f7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 13:06:01 GMT | Two-factor authentication | Ed-it Editions | [Read More](https://medium.com/p/16ec0cb9ee51) |
 | Sat, 21 Jun 2025 13:01:49 GMT | Automating Compliance Evidence: From SSH Logs to UI Screenshots with Python and Doing AI… | Shashank N | [Read More](https://medium.com/p/648c1e34eada) |
 | Sat, 21 Jun 2025 12:59:29 GMT | A Digital Embassy: Who Hosts Your Country in the Cloud? | Jesse Boere | [Read More](https://medium.com/p/9be35ca76eae) |
-| Sat, 21 Jun 2025 12:49:18 GMT | Breaking Polyalphabetic Cipher Part II: Krypton 5 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/85e28ea3b952) |
-| Sat, 21 Jun 2025 12:42:57 GMT | Your Smartwatch Could Be Secretly Recording Right Now — Here’s How to Stop It | Tech Pulse Daily | [Read More](https://medium.com/p/193c3cd0c91e) |
-| Sat, 21 Jun 2025 12:41:58 GMT | The 16 Billion Password Leak: A Wake-Up Call for Global Cyber Hygiene | Chetan Seripally | [Read More](https://medium.com/p/92de325f4920) |
-| Sat, 21 Jun 2025 12:36:58 GMT | SecretShare : Secure, One-Time Access to Secrets (Built with UCANs + Storacha️) | Akash Jana | [Read More](https://medium.com/p/6f01867cc9f0) |
-| Sat, 21 Jun 2025 12:32:37 GMT | Day 4/30 : Tracking Digital Trails with Maltego — An OSINT Beginner’s Journey | Cyphersilhouette | [Read More](https://medium.com/p/ff5b56b3543f) |
