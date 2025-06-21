@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 20:08:22 GMT | PRESTITO ONLINE SENZA CONTROLLO DEL CREDITO: SEMPLIFICA LA TUA VITA CON I NOSTRI SERVIZI….WHATSAPP: | Alialsward | [Read More](https://medium.com/p/44b4030c1ceb) |
+| Sat, 21 Jun 2025 19:58:12 GMT | AWS re: Inforce 2025 - Keynote, Sessions, and My Security Highlights | Sena Yakut | [Read More](https://medium.com/p/afae4aa9778d) |
+| Sat, 21 Jun 2025 19:55:50 GMT | Meditation for Stress Relief: A Beginner’s Friendly Guide | NineTales | [Read More](https://medium.com/p/0dca6a3a78c5) |
+| Sat, 21 Jun 2025 19:54:42 GMT | The risk of not understanding risk. | Steve Faust | [Read More](https://medium.com/p/6a446b28f0a1) |
+| Sat, 21 Jun 2025 19:52:17 GMT | Google Dorking: Smart Search or a Digital Superpower? | Nimit Ahir | [Read More](https://medium.com/p/8ecefd692d0b) |
+| Sat, 21 Jun 2025 19:47:30 GMT | Microsoft Excel LTSC 2024 Vulnerability Leads to Remote Code Execution (RCE) — What You Need to… | Khaleel Khan | [Read More](https://medium.com/p/4f3271964aed) |
+| Sat, 21 Jun 2025 19:46:06 GMT | How I Turned One PoC Into $100K+ in Bounties — The Story of iScan.Today | Arshad Kazmi | [Read More](https://medium.com/p/3fb5250f9198) |
+| Sat, 21 Jun 2025 19:43:00 GMT | IT Service Management with ISO/IEC 20000: A Comprehensive Guide to Service Management Systems | Oleh Dubetcky | [Read More](https://medium.com/p/5fa727040a2e) |
+| Sat, 21 Jun 2025 19:38:25 GMT | The Dead Can’t Speak, But AI Can: Inside the Growing Crimewave Targeting Grieving Families | O. J. Okpabi | [Read More](https://medium.com/p/c89b849670b5) |
 | Sat, 21 Jun 2025 19:29:23 GMT | Discovery of a Vulnerability on Routers through collaboration with a scam-baiter. | Alameen Karim Merali | [Read More](https://medium.com/p/ce3901a1983c) |
 | Sat, 21 Jun 2025 19:24:25 GMT | When Fintech Gets Too Trusting: How I Stumbled Upon a Full-Blown PII Leak in a Nigerian Banking API | PaulHaykeens | [Read More](https://medium.com/p/73d6dbb493a5) |
 | Sat, 21 Jun 2025 19:15:21 GMT | Inside the Misinformation Machine: Lessons from 100 Election Tweets on Digital Trust and Society | Kush Patel | [Read More](https://medium.com/p/f5d71c827794) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 13:53:26 GMT | Date: June 21, 2025 | anonymous howtos | [Read More](https://medium.com/p/f92ddc68441c) |
 | Sat, 21 Jun 2025 13:51:40 GMT | How to Make Him Addicted to You: 3 Feelings Men Can’t Resist | Lucas Brown | [Read More](https://medium.com/p/a161e8c75921) |
 | Sat, 21 Jun 2025 13:50:13 GMT | PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec | Soman Verma | [Read More](https://medium.com/p/abef793f0a4e) |
-| Sat, 21 Jun 2025 13:44:14 GMT | Subdomain Takeover Made Easy: How to Detect Vulnerabilities Using Subdominator and SubSnipe | S Kumar | [Read More](https://medium.com/p/da8bb98a1dd6) |
-| Sat, 21 Jun 2025 13:32:21 GMT | The Importance of a Database Expert Witness in Modern Litigation | Daviss Mason | [Read More](https://medium.com/p/83d38885c009) |
-| Sat, 21 Jun 2025 13:30:00 GMT | Never go to Cybersecurity University, never do any Penetration Testing Certification! | elfgirl_pro | [Read More](https://medium.com/p/c5103a44598f) |
-| Sat, 21 Jun 2025 13:27:33 GMT | Bug Hunting Within the Law: A Friendly Guide | Sarthak Raju Bhingare | [Read More](https://medium.com/p/67c89d7a86dc) |
-| Sat, 21 Jun 2025 13:21:37 GMT | CNAPP Explained: The Smartest Way to Secure Cloud-Native Apps with EDSPL | saurabh cyberinfomines | [Read More](https://medium.com/p/32a0ccd2c576) |
-| Sat, 21 Jun 2025 13:19:09 GMT | I will do resume for software engineer cybersecurity ai ml data and robotic engineer | Karendburke | [Read More](https://medium.com/p/3749dd90629b) |
-| Sat, 21 Jun 2025 13:17:04 GMT | Inside the Equifax Breach: A Case Study On What Went Wrong | Shajal Kumar Chaudhary | [Read More](https://medium.com/p/84c4edf50536) |
-| Sat, 21 Jun 2025 13:16:16 GMT | How to start learning Reverse Engineering with IDA Pro Free? | elfgirl_pro | [Read More](https://medium.com/p/9b7653f28e1c) |
-| Sat, 21 Jun 2025 13:13:34 GMT | Data Scraping Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/65292264ee50) |
