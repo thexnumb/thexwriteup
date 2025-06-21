@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 19:29:23 GMT | Discovery of a Vulnerability on Routers through collaboration with a scam-baiter. | Alameen Karim Merali | [Read More](https://medium.com/p/ce3901a1983c) |
+| Sat, 21 Jun 2025 19:24:25 GMT | When Fintech Gets Too Trusting: How I Stumbled Upon a Full-Blown PII Leak in a Nigerian Banking API | PaulHaykeens | [Read More](https://medium.com/p/73d6dbb493a5) |
+| Sat, 21 Jun 2025 19:15:21 GMT | Inside the Misinformation Machine: Lessons from 100 Election Tweets on Digital Trust and Society | Kush Patel | [Read More](https://medium.com/p/f5d71c827794) |
+| Sat, 21 Jun 2025 19:12:27 GMT | How to recover your hacked account or device | Tobias Mathew | [Read More](https://medium.com/p/1042254c365f) |
 | Sat, 21 Jun 2025 19:11:25 GMT | Sécurité de l’information VS Cybersécurité | Patrick Boucher | [Read More](https://medium.com/p/608748e87942) |
 | Sat, 21 Jun 2025 19:08:31 GMT | Scaling to 1 Million Users in AWS: The Architecture I Wish I Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/235c2a9907d8) |
 | Sat, 21 Jun 2025 19:04:59 GMT | Exploring the Smart Home Industry with SwitchBot: The Future of NFC Door Locks | turnerlaurie5245 | [Read More](https://medium.com/p/53ee08ce7a4a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 13:17:04 GMT | Inside the Equifax Breach: A Case Study On What Went Wrong | Shajal Kumar Chaudhary | [Read More](https://medium.com/p/84c4edf50536) |
 | Sat, 21 Jun 2025 13:16:16 GMT | How to start learning Reverse Engineering with IDA Pro Free? | elfgirl_pro | [Read More](https://medium.com/p/9b7653f28e1c) |
 | Sat, 21 Jun 2025 13:13:34 GMT | Data Scraping Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/65292264ee50) |
-| Sat, 21 Jun 2025 13:08:35 GMT | Try Hack Me: Ignite Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/e3fe76853d2f) |
-| Sat, 21 Jun 2025 13:06:01 GMT | Two-factor authentication | Ed-it Editions | [Read More](https://medium.com/p/16ec0cb9ee51) |
-| Sat, 21 Jun 2025 13:01:49 GMT | Automating Compliance Evidence: From SSH Logs to UI Screenshots with Python and Doing AI… | Shashank N | [Read More](https://medium.com/p/648c1e34eada) |
-| Sat, 21 Jun 2025 12:59:29 GMT | A Digital Embassy: Who Hosts Your Country in the Cloud? | Jesse Boere | [Read More](https://medium.com/p/9be35ca76eae) |
