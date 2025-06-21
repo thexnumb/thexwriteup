@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 08:43:37 GMT | Top 5 Social Engineering Techniques Every Developer Should Know | Mohammad Zafeer | [Read More](https://medium.com/p/72f05b17389b) |
+| Sat, 21 Jun 2025 08:35:03 GMT | The 16 Billion Credential Leak: A Wake-Up Call for Everyone | Salman Saleem | [Read More](https://medium.com/p/d74bbcf0c69c) |
+| Sat, 21 Jun 2025 08:31:01 GMT | From Detection to Response: The Power of SOC Solutions | Abhinav Pathak | [Read More](https://medium.com/p/5f912f794c49) |
+| Sat, 21 Jun 2025 08:30:54 GMT | Security Awareness Without the Eye Rolls: My Approach to Building a Culture That Works | Nishitathakkar | [Read More](https://medium.com/p/6d1689a2caf7) |
+| Sat, 21 Jun 2025 08:23:41 GMT | Security Advisory: Masslogger Fileless Malware via .VBE Scripts | CyberNews Daily | [Read More](https://medium.com/p/af78e26fdcaf) |
+| Sat, 21 Jun 2025 08:23:33 GMT | AWS Config | Arijit Naskar | [Read More](https://medium.com/p/0cf527b9edab) |
 | Sat, 21 Jun 2025 08:23:04 GMT | Automation for Smarter Bug Hunting | Monika sharma | [Read More](https://medium.com/p/8ada52923e81) |
+| Sat, 21 Jun 2025 08:21:21 GMT | Unveiling the Shadows: Detecting Web Attacks as a SOC Analyst (Part 1) | Sh3nobi | [Read More](https://medium.com/p/7ea15764109d) |
+| Sat, 21 Jun 2025 08:21:06 GMT | Build Your Eye-Catching Resume Using JSON Resume | MrXcrypt | [Read More](https://medium.com/p/4b5c81fcc59a) |
 | Sat, 21 Jun 2025 08:20:06 GMT | Latest Concerning Ukraine and the Russian Aggressor From a Few Countries | Ain Stærlingsson — UA | [Read More](https://medium.com/p/a14e074e9a11) |
+| Sat, 21 Jun 2025 08:19:59 GMT | DevSecOps: Integrating Security into DevOps | The Stackmentalist | [Read More](https://medium.com/p/a13fbe71dcad) |
 | Sat, 21 Jun 2025 08:19:53 GMT | $5,000 Bounty: How a Single Malformed UDP Packet Took Down Rootstock’s Blockchain Node (CVE-style… | Monika sharma | [Read More](https://medium.com/p/011cceb94819) |
 | Sat, 21 Jun 2025 08:17:38 GMT | The Hidden Cost of Inaction: Retail Store Security in 2025 | Sukhwinder | [Read More](https://medium.com/p/571a86f8ae42) |
 | Sat, 21 Jun 2025 08:10:10 GMT | TryHackMe — Windows Fundamentals 1 | d353rt_5c0rp10n | [Read More](https://medium.com/p/3afddb0719d9) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Jun 2025 22:15:25 GMT | Ultimate Windows Security Guide: Reduce Your Attack Surface! | Joseph Peter | [Read More](https://medium.com/p/66bc3d85149b) |
 | Fri, 20 Jun 2025 22:08:28 GMT | 5 AWS IAM Mistakes You Can’t Afford to Make (and How to Fix Them) ️ | Amar Begluk | [Read More](https://medium.com/p/bc0a056c8ae3) |
 | Fri, 20 Jun 2025 22:06:12 GMT | How a PDF File Can Expose Your Application’s Real IP (Even with CDN and WAF) | Vedgeta | [Read More](https://medium.com/p/754f4ccd6993) |
-| Fri, 20 Jun 2025 22:04:40 GMT | “The Art of Becoming Lauryn Nzekwe” | Tiffany Renzel | [Read More](https://medium.com/p/4d37a875413c) |
-| Fri, 20 Jun 2025 22:02:26 GMT | Day 2/21 — Cyber Careers | Myshawne Stallings | [Read More](https://medium.com/p/a7f2a23b1e46) |
-| Fri, 20 Jun 2025 21:51:35 GMT | Too Healed to Love? When Self-Work Becomes Self-Sabotage | Divya Poojari | [Read More](https://medium.com/p/6c8669188edf) |
-| Fri, 20 Jun 2025 21:47:15 GMT | Day 5/100 — Understanding Port 21 | 0X595 | [Read More](https://medium.com/p/7808d7d2e1fa) |
-| Fri, 20 Jun 2025 21:46:04 GMT | Hacking/Recovery | Norman Meg | [Read More](https://medium.com/p/1fccebcdb36d) |
-| Fri, 20 Jun 2025 21:39:06 GMT | 100-days Learn 
-Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
-| Fri, 20 Jun 2025 21:34:03 GMT | BASE — How Low Can Your Docker CVEs Go? | Marshall Humble | [Read More](https://medium.com/p/a183baa66b08) |
-| Fri, 20 Jun 2025 21:31:32 GMT | How I Discovered AI’s Dark Side: The Security Crisis Nobody Talks About | Divyansh Bhatia | [Read More](https://medium.com/p/874ee3594da3) |
-| Fri, 20 Jun 2025 21:24:42 GMT | Digital Forensics After Cyberwar: What Must Be Traced? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0369f3368883) |
