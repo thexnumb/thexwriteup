@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 09:13:58 GMT | Critical Webmail Exploit: CVE-2025–49113 in Roundcube - TryHackMe Roundcube | Motasem Hamdan | [Read More](https://medium.com/p/9774c2393b23) |
+| Sat, 21 Jun 2025 09:08:30 GMT | THE RISE OF CYBER LAWSUITS: | LIFE'S MOMENTS AND EVENTS | [Read More](https://medium.com/p/cb608c03184d) |
+| Sat, 21 Jun 2025 09:02:48 GMT | Comparing Alarm Logic Across SIEM Platforms: Splunk vs. IBM QRadar vs. Elastic SIEM | Esra Kayhan | [Read More](https://medium.com/p/ac770345a329) |
+| Sat, 21 Jun 2025 09:02:22 GMT | TryHackMe — Windows Fundamentals 3 | d353rt_5c0rp10n | [Read More](https://medium.com/p/cace9df9fff4) |
+| Sat, 21 Jun 2025 08:52:56 GMT | Best Ethical Hacking Training in Noida - Ducat India | Farzan Ali | [Read More](https://medium.com/p/523d366226b5) |
+| Sat, 21 Jun 2025 08:52:44 GMT | Best Ethical Hacking Training in Noida - Ducat India | Saturday Sunday | [Read More](https://medium.com/p/1033726b8adc) |
+| Sat, 21 Jun 2025 08:51:48 GMT | Advanced Web Security Best Practices: Securing Your Web Apps against Today's Threats | Amaka okoye | [Read More](https://medium.com/p/35a32efd4723) |
+| Sat, 21 Jun 2025 08:51:42 GMT | TryHackMe — Windows Fundamentals 2 | d353rt_5c0rp10n | [Read More](https://medium.com/p/b910e137f794) |
+| Sat, 21 Jun 2025 08:50:08 GMT | How Cybersecurity Detection Engineers Can Leverage AI Tools | Saikat Paul | [Read More](https://medium.com/p/0707d746e229) |
+| Sat, 21 Jun 2025 08:43:45 GMT | The Art of Psychic Attacks: An Analysis of Mind, Power, and Manipulation | Eye Of Unity | [Read More](https://medium.com/p/58111b877c4a) |
 | Sat, 21 Jun 2025 08:43:37 GMT | Top 5 Social Engineering Techniques Every Developer Should Know | Mohammad Zafeer | [Read More](https://medium.com/p/72f05b17389b) |
+| Sat, 21 Jun 2025 08:40:50 GMT | IBM’s Comprehensive Approach to Hybrid Multicloud Security: A Strategic Partnership for Digital… | Alan Hamilton | [Read More](https://medium.com/p/f487bd6ce688) |
+| Sat, 21 Jun 2025 08:39:15 GMT | Mòjà Mòsá | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/8b26dc9da9cf) |
 | Sat, 21 Jun 2025 08:35:03 GMT | The 16 Billion Credential Leak: A Wake-Up Call for Everyone | Salman Saleem | [Read More](https://medium.com/p/d74bbcf0c69c) |
 | Sat, 21 Jun 2025 08:31:01 GMT | From Detection to Response: The Power of SOC Solutions | Abhinav Pathak | [Read More](https://medium.com/p/5f912f794c49) |
 | Sat, 21 Jun 2025 08:30:54 GMT | Security Awareness Without the Eye Rolls: My Approach to Building a Culture That Works | Nishitathakkar | [Read More](https://medium.com/p/6d1689a2caf7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 00:08:16 GMT | From Exploit to Recovery: How 45 ETH Were Saved Thanks to Ethical Hackers | metapool.near | [Read More](https://medium.com/p/77274afdc162) |
 | Sat, 21 Jun 2025 00:01:36 GMT | httpx for Bug Bounty: Complete Guide to Detecting Subdomains and Active Hosts | JPablo13 | [Read More](https://medium.com/p/22fa015dbedd) |
 | Fri, 20 Jun 2025 23:47:43 GMT | AI and Bioweapons | Andrew Hessel | [Read More](https://medium.com/p/20956c0d95c6) |
-| Fri, 20 Jun 2025 23:36:13 GMT | TryHackMe GoldenEye — Walkthrough | mauzware | [Read More](https://medium.com/p/f2623d3c52c5) |
-| Fri, 20 Jun 2025 23:35:48 GMT | Flagyard CTF — TechShop: Exploiting SSTI to Gain RCE and Read the Flag | Rwx | [Read More](https://medium.com/p/ca161a63809d) |
-| Fri, 20 Jun 2025 23:31:37 GMT | Cortex Xpanse by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b2ec23ba950e) |
-| Fri, 20 Jun 2025 23:07:23 GMT | The Day Our CISO Got Phished: A Wake-Up Call That Transformed Our Security | Zahir black | [Read More](https://medium.com/p/dab361b6f0ff) |
-| Fri, 20 Jun 2025 23:05:04 GMT | Academy - Parameter Tampering & Manual/Automated & Binary Exploitation | Onurcan Genç | [Read More](https://medium.com/p/b9068a4e18d1) |
-| Fri, 20 Jun 2025 23:00:15 GMT | How the U.S. Government Is Quietly Undermining Free Speech via Cloudflare | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/95cde86af37f) |
-| Fri, 20 Jun 2025 22:55:42 GMT | Case Study: How I Led a Cybersecurity Risk Assessment for a Luxury Design Firm. | Kehinde Babajide | [Read More](https://medium.com/p/5412084062fb) |
-| Fri, 20 Jun 2025 22:37:17 GMT | A Writer’s Approach to Picking You Up in a Bar | Dblkrose | [Read More](https://medium.com/p/2bed58630129) |
-| Fri, 20 Jun 2025 22:17:10 GMT | Network Access Control (NAC): A Complete Guide for Cybersecurity Teams | Karthikeyan Nagaraj | [Read More](https://medium.com/p/dc329a9793fe) |
-| Fri, 20 Jun 2025 22:15:25 GMT | Ultimate Windows Security Guide: Reduce Your Attack Surface! | Joseph Peter | [Read More](https://medium.com/p/66bc3d85149b) |
-| Fri, 20 Jun 2025 22:08:28 GMT | 5 AWS IAM Mistakes You Can’t Afford to Make (and How to Fix Them) ️ | Amar Begluk | [Read More](https://medium.com/p/bc0a056c8ae3) |
-| Fri, 20 Jun 2025 22:06:12 GMT | How a PDF File Can Expose Your Application’s Real IP (Even with CDN and WAF) | Vedgeta | [Read More](https://medium.com/p/754f4ccd6993) |
