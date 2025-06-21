@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 21:32:37 GMT | Network security: Identifies and blocks attacks | Tobias Mathew | [Read More](https://medium.com/p/dd679986b6f8) |
+| Sat, 21 Jun 2025 21:28:30 GMT | Exploring the Smart Home Industry with SwitchBot Smart Locks | acampos2116 | [Read More](https://medium.com/p/c72021f5b1b7) |
+| Sat, 21 Jun 2025 21:24:22 GMT | How to protect your LLM from system prompt leakage? | Debashis Debnath | [Read More](https://medium.com/p/6b0194502bdc) |
+| Sat, 21 Jun 2025 21:22:01 GMT | Tracing the Invisible: Cross-Border Forensic Analysis through DNS and Global Network Logs | A-STAR7_DOCTOR | [Read More](https://medium.com/p/125cbf7b2573) |
 | Sat, 21 Jun 2025 21:11:37 GMT | Why Most Hackers Fail at Finding Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/daf11b7e074b) |
 | Sat, 21 Jun 2025 21:06:45 GMT | Wazuh Alerting Integration: Real-Time Notifications with NTFY, NGINX, and SSL | Yash Patel | [Read More](https://medium.com/p/f34b27c37df5) |
 | Sat, 21 Jun 2025 20:58:11 GMT | Bypassing Filters via XML Encoding to Perform SQL Injection for Bug Hunting with BurpSuite | Aditya Bhatt | [Read More](https://medium.com/p/1db9b7b486e8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 14:46:54 GMT | Firmware Attack Madness: How Hackers Crippled X Business Across Windows, Linux, and macOS | Noel | [Read More](https://medium.com/p/ef0c878ef3c1) |
 | Sat, 21 Jun 2025 14:46:52 GMT | $3,800 Bounty: How Cache Poisoning Took Down Shopify’s CDN Files — DoS Across Thousands of Stores | Monika sharma | [Read More](https://medium.com/p/f6d7fdc72b26) |
 | Sat, 21 Jun 2025 14:46:45 GMT | Privilege Escalation using Registry Service Escalation on Windows | Ammar Ahmed | [Read More](https://medium.com/p/fac180d5e491) |
-| Sat, 21 Jun 2025 14:44:58 GMT | 10 Real Mobile App Testing Challenges I Faced And How I Solved Them as a QA | Prafulla Mishra | [Read More](https://medium.com/p/42d3967eab2e) |
-| Sat, 21 Jun 2025 14:31:35 GMT | Day #30 of #60DaysofGRC: All’s FAIR in Risk Quantification | Brittney Ginther | [Read More](https://medium.com/p/fc570aa11d4f) |
-| Sat, 21 Jun 2025 14:30:24 GMT | W1seGuy — Hack in 5 Minutes - Write-Up #6 & video (reverse engineering) | D4m.sh | [Read More](https://medium.com/p/6de2d9f63348) |
-| Sat, 21 Jun 2025 14:25:21 GMT | Take Over — Hack in 5 minuts - Write-Up #5 | D4m.sh | [Read More](https://medium.com/p/b0baf7c3fc3e) |
