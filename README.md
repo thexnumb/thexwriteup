@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 11:07:28 GMT | I PWNED A SEARCH BOX WITH <script>alert(1)</script> | Sumanth Yerranagula | [Read More](https://medium.com/p/21e038602379) |
+| Sat, 21 Jun 2025 11:06:25 GMT | What's New in CSP v3 | appsecwarrior | [Read More](https://medium.com/p/992c44c0425e) |
+| Sat, 21 Jun 2025 11:01:37 GMT | Essential Cybersecurity Tools for 2025: A Deep Dive Across Domains | Manoj Gadamsetty | [Read More](https://medium.com/p/d972f3f4adb0) |
+| Sat, 21 Jun 2025 10:56:52 GMT | Iran’s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist | Mejbankadir | [Read More](https://medium.com/p/8616b6bdd279) |
+| Sat, 21 Jun 2025 10:56:28 GMT | GTFO, Root: A Practical Sudo Audit Script for GTFOBins Escapes | Lukasjohannesmoeller | [Read More](https://medium.com/p/efde7745a8a5) |
+| Sat, 21 Jun 2025 10:49:39 GMT | Top 17 Cyber Threat Facts You Can’t Afford to Ignore in 2025 | Err0rr0rre | [Read More](https://medium.com/p/9ae041e44177) |
+| Sat, 21 Jun 2025 10:48:23 GMT | Android Cihazları Hedef Alan Bankacılık Truva Atı: Godfather | Şervan Alkan | [Read More](https://medium.com/p/044777acd751) |
+| Sat, 21 Jun 2025 10:47:07 GMT | Rosetta 2 for Hackers and Reverse Engineers | Harshad Shah | [Read More](https://medium.com/p/b92b93da70dd) |
+| Sat, 21 Jun 2025 10:39:19 GMT | Introduction to SQL Injection Course in Delhi - What is SQL Injection? | Crawsec | [Read More](https://medium.com/p/4094bd27d734) |
+| Sat, 21 Jun 2025 10:39:18 GMT | CyberExam PHP Strikes — CVE-2024–4577 Write-Up | Halil İbrahim Kuş | [Read More](https://medium.com/p/f5dfa1cb7286) |
+| Sat, 21 Jun 2025 10:37:13 GMT | Insider Threats: When the Enemy Within is the Most Dangerous | Pavlović Goran | [Read More](https://medium.com/p/9fedd13e3538) |
 | Sat, 21 Jun 2025 10:32:07 GMT | Cybersecurity and ChatGPT — Use Bots to Fight Bots | Bluechip Advanced Technologies | [Read More](https://medium.com/p/a9bc4754a3db) |
 | Sat, 21 Jun 2025 10:26:35 GMT | UIRI part two… | Jorryn Kirabo | [Read More](https://medium.com/p/897d989e4853) |
 | Sat, 21 Jun 2025 10:25:56 GMT | CoinMarketCap Client-Side Attack: A Comprehensive Analysis by c/side | c/side | [Read More](https://medium.com/p/ce0b58e77dec) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 04:29:08 GMT | Pengenalan Penetration Testing | life | [Read More](https://medium.com/p/bee6c0e9677d) |
 | Sat, 21 Jun 2025 04:28:18 GMT | What’s a ‘Safe’ Distance? Preparing for Bombs, Drones, and Missiles at Home and Work | Tina Ginn | [Read More](https://medium.com/p/590dd3581dbf) |
 | Sat, 21 Jun 2025 04:27:05 GMT | Penetration Testing | Kuro | [Read More](https://medium.com/p/ac848a04c0dc) |
-| Sat, 21 Jun 2025 04:27:00 GMT | Penetration Testing | ester | [Read More](https://medium.com/p/481c7ec900d4) |
-| Sat, 21 Jun 2025 04:20:51 GMT | TakeOver Challenge Room - TryHackMe | Dhwanit Pandya | [Read More](https://medium.com/p/95ebd316dc3f) |
-| Sat, 21 Jun 2025 04:14:03 GMT | Why You Should be Testing Your Detection Rules — Part 2 | Bill Mahony | [Read More](https://medium.com/p/0c485b55bc82) |
-| Sat, 21 Jun 2025 04:05:25 GMT | Cybersecurity Awareness: 16 Billion Passwords Leaked — What You Need To Know! | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/998708247abd) |
-| Sat, 21 Jun 2025 03:46:50 GMT | Quantum-Resistant Cryptography: Preparing for the Post-Quantum Era | Ekene Joseph | [Read More](https://medium.com/p/fa0b36f1f95b) |
-| Sat, 21 Jun 2025 03:38:47 GMT | Exploring the Future of Smart Homes with SwitchBot’s Smart Lock | Mimmmm | [Read More](https://medium.com/p/0fc127632fa2) |
-| Sat, 21 Jun 2025 03:31:41 GMT | Conduent Data Breach: Dissecting the Digital Intrusion That Shook Public Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/f617ceb03932) |
-| Sat, 21 Jun 2025 03:10:41 GMT | What companies have been affected by major cyberattacks in 2025? | Lamidi Idris | [Read More](https://medium.com/p/c7d943a14a1c) |
-| Sat, 21 Jun 2025 03:06:12 GMT | Mastering Microsoft Defender Visibility with PowerShell | Kerpink Williams | [Read More](https://medium.com/p/ad94a082a953) |
-| Sat, 21 Jun 2025 03:02:40 GMT | 2025 Global Nuclear Crisis — Arsenals Surge, Treaties Collapse, Mayhem Looms | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/ed92bf01d895) |
-| Sat, 21 Jun 2025 03:02:39 GMT | 21 Days to Nine Bombs — Inside Iran’s Mountain Nuclear Fortress and Israel’s Strategic Nightmare | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/820114140c09) |
