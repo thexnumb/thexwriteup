@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 07:14:49 GMT | I PWNED A FEEDBACK FORM USING BLIND OS COMMAND INJECTION WITH DNS EXFIL | Sumanth Yerranagula | [Read More](https://medium.com/p/27d0002ad74e) |
+| Sat, 21 Jun 2025 07:01:39 GMT | Becoming Someone You Never Saw as a Child | Łukasz Ratajczak | [Read More](https://medium.com/p/765742c992f5) |
 | Sat, 21 Jun 2025 06:30:22 GMT | ✍Global Software Defined Perimeter Market Size, Share, Strategies, Key Manufacturers, Trends and… | Yamaguchitabithay | [Read More](https://medium.com/p/b049542886ca) |
 | Sat, 21 Jun 2025 06:29:46 GMT | The Windows Security Journey — VBS (Virtual Based Security) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d4d7b1f60475) |
 | Sat, 21 Jun 2025 06:27:28 GMT | Adaptive Security Architecture: A Balanced Approach to Protection and Innovation | Shittu | [Read More](https://medium.com/p/a9313174d225) |
@@ -111,5 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 19:57:31 GMT | ✈️ Rewiring JFK Terminal 4: Wipro’s AI-Powered Cloud Strategy Is Building the Future of Smart… | Sibi Aadharsh | [Read More](https://medium.com/p/4173c8f31cfe) |
 | Fri, 20 Jun 2025 19:56:55 GMT | Install Havoc C2 in 2 Minutes on Kali Linux (Quick Guide) | Moïse Aubert | [Read More](https://medium.com/p/a790d9f31898) |
 | Fri, 20 Jun 2025 19:55:02 GMT | Unpacking iOS Apps: How to Extract IPA Files from Jailbroken iPhone Using Python | Hary Ft | [Read More](https://medium.com/p/8f1169d236c2) |
-| Fri, 20 Jun 2025 19:48:49 GMT | The AI Security Revolution: How Machine Learning Prevents $50M Hacks in Real-Time | Chronos Vault | [Read More](https://medium.com/p/981629498d67) |
-| Fri, 20 Jun 2025 19:32:26 GMT | Day 27: More Operating Systems | Nile Okomo | [Read More](https://medium.com/p/481a4747ee67) |
