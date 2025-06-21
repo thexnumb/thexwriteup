@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 10:18:09 GMT | Understanding Attack Surfaces and Vectors | Richard Dosumu | [Read More](https://medium.com/p/5db1eec03c7e) |
+| Sat, 21 Jun 2025 10:11:01 GMT | Cyber Security Analyst Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/3b53bd9d2b5e) |
+| Sat, 21 Jun 2025 10:07:11 GMT | hm..Looking for some lost pieces | Z1ER0 | [Read More](https://medium.com/p/28061bcc1b1e) |
+| Sat, 21 Jun 2025 10:04:36 GMT | Crypto Wallets and Real-World Danger: The Brutal Rise of Wrench Attacks | CoinGen | [Read More](https://medium.com/p/ffcc30c6b897) |
+| Sat, 21 Jun 2025 09:56:51 GMT | How to Write a Perfect Bug Bounty Report (with Examples) | 127.0.0.1 | [Read More](https://medium.com/p/d6c72dad2ab4) |
+| Sat, 21 Jun 2025 09:51:43 GMT | How to Remove Malware from WordPress & Secure Your Site | ServerAvatar | [Read More](https://medium.com/p/f7ed1f720dc2) |
+| Sat, 21 Jun 2025 09:49:46 GMT | Smart Guarding Techniques for Shopping Malls | United Guard Force India | [Read More](https://medium.com/p/fbcceb4cd3cf) |
+| Sat, 21 Jun 2025 09:48:33 GMT | From Yahoo Boys To AI Boys: How African Scammers Are Leveling Up | O. J. Okpabi | [Read More](https://medium.com/p/0f130f99dcf6) |
+| Sat, 21 Jun 2025 09:42:10 GMT | Hey DevOps, CALMS toi ! | Sylvanus HOUGBEKEY | [Read More](https://medium.com/p/b64d56ef62dd) |
+| Sat, 21 Jun 2025 09:39:56 GMT | The Crime Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/927151c4091e) |
 | Sat, 21 Jun 2025 09:36:02 GMT | The Importance of Proper Planning Before Building a Web Application | Lisa Lusinga | [Read More](https://medium.com/p/2a89288c8c97) |
 | Sat, 21 Jun 2025 09:34:43 GMT | Boost Your Gaming Performance: 10 Optimization Tips That Actually Work | Elfarissimustapha | [Read More](https://medium.com/p/1fa6cf44b0c7) |
 | Sat, 21 Jun 2025 09:34:08 GMT | Understanding the Web’s Most Dangerous XSS and CSRF | SarahW | [Read More](https://medium.com/p/e3b8b1c7498c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 03:02:39 GMT | Cyber Frontlines: How COMCYBER and NATO Battle Disinformation and AI Threats in Modern Warfare | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/bea7fe70be09) |
 | Sat, 21 Jun 2025 02:59:46 GMT | Lecture Notes: Endpoint Security | Yudhistira Nugraha | [Read More](https://medium.com/p/ed9a4cfc6611) |
 | Sat, 21 Jun 2025 02:59:02 GMT | Crush the AD: Your Ultimate Roadmap to Dominating Active Directory in OSCP, PNPT, and PJPT , PT1… | MRX.0 | [Read More](https://medium.com/p/46c59e4b918c) |
-| Sat, 21 Jun 2025 02:39:34 GMT | ##  From Clinical Applications to Cloud Exploits: A Transition into AI Red Teaming and… | David B. Cox | [Read More](https://medium.com/p/a42256416c78) |
-| Sat, 21 Jun 2025 02:32:41 GMT | How to Protect Yourself from Cyber Crime | Paresh Kukadiya | [Read More](https://medium.com/p/0116e9b6e396) |
-| Sat, 21 Jun 2025 02:32:32 GMT | My Conversation with Mr. A: Navigating the Cybersecurity Career Landscape[Informational Interview] | Toki | [Read More](https://medium.com/p/148fe1babe5d) |
-| Sat, 21 Jun 2025 02:10:21 GMT | Security Compliance in the Digital Era: A Must-Have for Every Industry | Rajkumar Govindasamy | [Read More](https://medium.com/p/b0bf8860c744) |
-| Sat, 21 Jun 2025 02:10:10 GMT | How Your Data Science Internship Can Power a Cybersecurity Career [Informational Interview] | Toki | [Read More](https://medium.com/p/a55e62fb7d28) |
-| Sat, 21 Jun 2025 01:41:33 GMT | The Silent War in the Boardroom: When Corporate Power Kills the Human Spirit | Himanshunya | [Read More](https://medium.com/p/e9658c1d25eb) |
-| Sat, 21 Jun 2025 01:29:46 GMT | Automating XSS using Dalfox, GF and Waybackurls | イズミー | [Read More](https://medium.com/p/07bc93d8723d) |
-| Sat, 21 Jun 2025 01:25:05 GMT | A vast collection of 16 billion stolen passwords was uncovered. Here’s what to do. | Adnan Hasan | [Read More](https://medium.com/p/4e31a5feec86) |
-| Sat, 21 Jun 2025 01:16:58 GMT | Automating SQL Injection using Dalfox, GF and Waybackurls | イズミー | [Read More](https://medium.com/p/f6b56176b46f) |
-| Sat, 21 Jun 2025 01:05:35 GMT | Frida Gadget Guide | dotHatab | [Read More](https://medium.com/p/d7aaa1c706fe) |
