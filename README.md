@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 23:24:35 GMT | Snort | Isiah | [Read More](https://medium.com/p/03c82f965a3d) |
+| Sat, 21 Jun 2025 23:15:46 GMT | some of us died a long time ago | astrelune | [Read More](https://medium.com/p/2e31246d148e) |
 | Sat, 21 Jun 2025 23:10:54 GMT | Are HACKERS Watching Your Bank Accounts Right Now? | Priyank Dinesh Gada | [Read More](https://medium.com/p/e0bccf91d335) |
 | Sat, 21 Jun 2025 22:45:33 GMT | Drosera: The Behavioral Firewall for Web3 Security | Leoprince.sats | [Read More](https://medium.com/p/e9f7d7479806) |
 | Sat, 21 Jun 2025 22:39:32 GMT | Why Technical Pitches Get You Delegated | Configr Technologies | [Read More](https://medium.com/p/f3cb62194042) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 15:49:18 GMT | Lock & Key: A Developer’s Guide to Encryption and Decryption in JavaScript | Gaurav Aggarwal | [Read More](https://medium.com/p/ba20927466a2) |
 | Sat, 21 Jun 2025 15:48:30 GMT | What Is a Stresser? A Deep Dive into VIPStresser.net and Traffic Simulation Tools | MiguelPrado | [Read More](https://medium.com/p/676dc92432db) |
 | Sat, 21 Jun 2025 15:45:36 GMT | How I Taught Myself Reverse Engineering by Hacking a Legal CrackMe Binary (No Law Broken) | Renda Zhang | [Read More](https://medium.com/p/88ec186afeb9) |
-| Sat, 21 Jun 2025 15:40:23 GMT | Project Timeline — CCTV Monitoring Service | Visual Monitoring Solutions | [Read More](https://medium.com/p/cfbfbf70b882) |
-| Sat, 21 Jun 2025 15:40:13 GMT | Siber Güvenlik Eğitimi — 1 (Mitre ATT&CK Taktikleri) | Emre TOPUZ | [Read More](https://medium.com/p/8c66735d0be5) |
