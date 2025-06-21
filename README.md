@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 13:27:33 GMT | Bug Hunting Within the Law: A Friendly Guide | Sarthak Raju Bhingare | [Read More](https://medium.com/p/67c89d7a86dc) |
+| Sat, 21 Jun 2025 13:21:37 GMT | CNAPP Explained: The Smartest Way to Secure Cloud-Native Apps with EDSPL | saurabh cyberinfomines | [Read More](https://medium.com/p/32a0ccd2c576) |
+| Sat, 21 Jun 2025 13:19:09 GMT | I will do resume for software engineer cybersecurity ai ml data and robotic engineer | Karendburke | [Read More](https://medium.com/p/3749dd90629b) |
+| Sat, 21 Jun 2025 13:17:04 GMT | Inside the Equifax Breach: A Case Study On What Went Wrong | Shajal Kumar Chaudhary | [Read More](https://medium.com/p/84c4edf50536) |
+| Sat, 21 Jun 2025 13:16:16 GMT | How to start learning Reverse Engineering with IDA Pro Free? | elfgirl_pro | [Read More](https://medium.com/p/9b7653f28e1c) |
+| Sat, 21 Jun 2025 13:13:34 GMT | Data Scraping Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/65292264ee50) |
+| Sat, 21 Jun 2025 13:08:35 GMT | Try Hack Me: Ignite Walkthrough | Vedant Vartak | [Read More](https://medium.com/p/e3fe76853d2f) |
+| Sat, 21 Jun 2025 13:06:01 GMT | Two-factor authentication | Ed-it Editions | [Read More](https://medium.com/p/16ec0cb9ee51) |
+| Sat, 21 Jun 2025 13:01:49 GMT | Automating Compliance Evidence: From SSH Logs to UI Screenshots with Python and Doing AI… | Shashank N | [Read More](https://medium.com/p/648c1e34eada) |
+| Sat, 21 Jun 2025 12:59:29 GMT | A Digital Embassy: Who Hosts Your Country in the Cloud? | Jesse Boere | [Read More](https://medium.com/p/9be35ca76eae) |
+| Sat, 21 Jun 2025 12:49:18 GMT | Breaking Polyalphabetic Cipher Part II: Krypton 5 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/85e28ea3b952) |
+| Sat, 21 Jun 2025 12:42:57 GMT | Your Smartwatch Could Be Secretly Recording Right Now — Here’s How to Stop It | Tech Pulse Daily | [Read More](https://medium.com/p/193c3cd0c91e) |
+| Sat, 21 Jun 2025 12:41:58 GMT | The 16 Billion Password Leak: A Wake-Up Call for Global Cyber Hygiene | Chetan Seripally | [Read More](https://medium.com/p/92de325f4920) |
+| Sat, 21 Jun 2025 12:36:58 GMT | SecretShare : Secure, One-Time Access to Secrets (Built with UCANs + Storacha️) | Akash Jana | [Read More](https://medium.com/p/6f01867cc9f0) |
 | Sat, 21 Jun 2025 12:32:37 GMT | Day 4/30 : Tracking Digital Trails with Maltego — An OSINT Beginner’s Journey | Cyphersilhouette | [Read More](https://medium.com/p/ff5b56b3543f) |
 | Sat, 21 Jun 2025 12:29:53 GMT | How I Found a User Enumeration Flaw Through Password Reset Logic | Gouri Sankar A | [Read More](https://medium.com/p/9b7c01dbf0fe) |
 | Sat, 21 Jun 2025 12:29:04 GMT | Cyber Law in India: Protect Your Digital Rights | Ankitinnjoshi | [Read More](https://medium.com/p/41366ffb8e6b) |
 | Sat, 21 Jun 2025 12:26:48 GMT | The Role of Ethical Hacking in Strengthening Cybersecurity Measures | InaMetaverses | [Read More](https://medium.com/p/5f48e1ba513a) |
+| Sat, 21 Jun 2025 12:25:43 GMT | Understanding CSRF Protection in Laravel: A Security Essential | Alhassan Mohammed | [Read More](https://medium.com/p/a1f24ac05099) |
 | Sat, 21 Jun 2025 12:12:06 GMT | Shanthi IT Solution Launches Comprehensive Cybersecurity Internship Program | Shanthi IT Solution | [Read More](https://medium.com/p/9c1ade93a4b6) |
 | Sat, 21 Jun 2025 11:57:54 GMT | Debugging a Bug I Couldn’t Reproduce — For 3 Days | CodeQuest | [Read More](https://medium.com/p/c6a83f9cba16) |
 | Sat, 21 Jun 2025 11:57:06 GMT | We’re entering an era where quantum computers are no longer science fiction. | Cryon | [Read More](https://medium.com/p/ec7a4fbda0fa) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 07:46:03 GMT | Using ML-DSA in AWS | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3c3644b78d03) |
 | Sat, 21 Jun 2025 07:37:52 GMT | Moving Beyond Spreadsheets: A Platform-Driven Approach to GRC Management | COMPASS | [Read More](https://medium.com/p/ebe2bdd7dbc6) |
 | Sat, 21 Jun 2025 07:36:59 GMT | Still Logged In? Google OAuth’s Secret Backdoor (No Tools Needed!) | StrangeRwhite | [Read More](https://medium.com/p/5d9d964f7a6d) |
-| Sat, 21 Jun 2025 07:36:38 GMT | Top 10 Best Career Options After 12th in Cybersecurity | cyber security Updates | [Read More](https://medium.com/p/39cfd2d6f459) |
-| Sat, 21 Jun 2025 07:33:20 GMT | How To Avoid Scams and Hacks with The Help Of Trust Wallet Security Tools ? | Anytype | [Read More](https://medium.com/p/a0edf67b5516) |
-| Sat, 21 Jun 2025 07:31:16 GMT | BAC — IDOR ($300–$2,500) | Abin | [Read More](https://medium.com/p/a694f1739ce7) |
-| Sat, 21 Jun 2025 07:21:40 GMT | BeHave: Unlocking Your Digital Identity Through How You Type | Ram Bikkina | [Read More](https://medium.com/p/374330451793) |
-| Sat, 21 Jun 2025 07:14:49 GMT | I PWNED A FEEDBACK FORM USING BLIND OS COMMAND INJECTION WITH DNS EXFIL | Sumanth Yerranagula | [Read More](https://medium.com/p/27d0002ad74e) |
-| Sat, 21 Jun 2025 07:01:39 GMT | Becoming Someone You Never Saw as a Child | Łukasz Ratajczak | [Read More](https://medium.com/p/765742c992f5) |
-| Sat, 21 Jun 2025 06:30:22 GMT | ✍Global Software Defined Perimeter Market Size, Share, Strategies, Key Manufacturers, Trends and… | Yamaguchitabithay | [Read More](https://medium.com/p/b049542886ca) |
-| Sat, 21 Jun 2025 06:29:46 GMT | The Windows Security Journey — VBS (Virtual Based Security) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d4d7b1f60475) |
-| Sat, 21 Jun 2025 06:27:28 GMT | Adaptive Security Architecture: A Balanced Approach to Protection and Innovation | Shittu | [Read More](https://medium.com/p/a9313174d225) |
-| Sat, 21 Jun 2025 06:20:29 GMT | ✍Global Critical Information Protection Market Size, Share, Key Players, Trends, Sales, Supply… | Patriciastuckey | [Read More](https://medium.com/p/c52d704c7901) |
-| Sat, 21 Jun 2025 06:19:49 GMT | Exploring the Benefits of SwitchBot’s Smart Lock in the Smart Home Industry | Oibandyopadhyay | [Read More](https://medium.com/p/275aa87dcc70) |
-| Sat, 21 Jun 2025 06:15:30 GMT | Code!..The final Frontier | Noel Katawera | [Read More](https://medium.com/p/072a45d07f77) |
-| Sat, 21 Jun 2025 06:12:49 GMT | Shield Your Ideas: How to Protect Your Brand with Patents and Trademarks | Lucastaylor | [Read More](https://medium.com/p/cf27c78f625a) |
-| Sat, 21 Jun 2025 06:08:38 GMT | Cybersecurity Starts Here: Ethical Hacking Foundation Certification | John  Carter | [Read More](https://medium.com/p/d59fe8a9b5d1) |
-| Sat, 21 Jun 2025 06:02:27 GMT | Threat Alert: Shadow IT is Risking Your Business! | oheneba kwaku annor | [Read More](https://medium.com/p/d18d38caadbb) |
