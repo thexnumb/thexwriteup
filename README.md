@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 16:01:43 GMT | HIW — happy shopping: Como se realiza la venta de stealers en telegram | umbraXsecure | [Read More](https://medium.com/p/6cde85c8a098) |
+| Sat, 21 Jun 2025 16:00:40 GMT | CIA Triad in Cyber Security | Suthakaran Shansuthan | [Read More](https://medium.com/p/04e31e1ed620) |
+| Sat, 21 Jun 2025 15:59:56 GMT | The Perimeter is Dead. Now What? | ZENcurity | [Read More](https://medium.com/p/9c8439bc4dca) |
+| Sat, 21 Jun 2025 15:49:18 GMT | Lock & Key: A Developer’s Guide to Encryption and Decryption in JavaScript | Gaurav Aggarwal | [Read More](https://medium.com/p/ba20927466a2) |
+| Sat, 21 Jun 2025 15:48:30 GMT | What Is a Stresser? A Deep Dive into VIPStresser.net and Traffic Simulation Tools | MiguelPrado | [Read More](https://medium.com/p/676dc92432db) |
+| Sat, 21 Jun 2025 15:45:36 GMT | How I Taught Myself Reverse Engineering by Hacking a Legal CrackMe Binary (No Law Broken) | Renda Zhang | [Read More](https://medium.com/p/88ec186afeb9) |
+| Sat, 21 Jun 2025 15:40:23 GMT | Project Timeline — CCTV Monitoring Service | Visual Monitoring Solutions | [Read More](https://medium.com/p/cfbfbf70b882) |
+| Sat, 21 Jun 2025 15:40:13 GMT | Siber Güvenlik Eğitimi — 1 (Mitre ATT&CK Taktikleri) | Emre TOPUZ | [Read More](https://medium.com/p/8c66735d0be5) |
+| Sat, 21 Jun 2025 15:38:52 GMT | Complete OPNsense Firewall Setup Guide for Home Networks | ThamizhElango Natarajan | [Read More](https://medium.com/p/6353c407bf5c) |
+| Sat, 21 Jun 2025 15:37:20 GMT | David Velez • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/1d90f7d56625) |
+| Sat, 21 Jun 2025 15:29:56 GMT | The Art of Concealment: A Technical Deep Dive into the Top 10 Steganography Tools | James Alejandro | [Read More](https://medium.com/p/a6407a070ab7) |
 | Sat, 21 Jun 2025 15:29:00 GMT | The Hacker Mindset — How to Think Like a Bug Bounty Hunter | Đeepanshu | [Read More](https://medium.com/p/0eb96afa831e) |
 | Sat, 21 Jun 2025 15:15:22 GMT | Titanic Write-up | D_F4u1t | [Read More](https://medium.com/p/b5ec6466b41a) |
 | Sat, 21 Jun 2025 15:10:44 GMT | When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms | TakiasSec | [Read More](https://medium.com/p/4f3d0a68fab0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 10:07:11 GMT | hm..Looking for some lost pieces | Z1ER0 | [Read More](https://medium.com/p/28061bcc1b1e) |
 | Sat, 21 Jun 2025 10:04:36 GMT | Crypto Wallets and Real-World Danger: The Brutal Rise of Wrench Attacks | CoinGen | [Read More](https://medium.com/p/ffcc30c6b897) |
 | Sat, 21 Jun 2025 09:56:51 GMT | How to Write a Perfect Bug Bounty Report (with Examples) | 127.0.0.1 | [Read More](https://medium.com/p/d6c72dad2ab4) |
-| Sat, 21 Jun 2025 09:51:43 GMT | How to Remove Malware from WordPress & Secure Your Site | ServerAvatar | [Read More](https://medium.com/p/f7ed1f720dc2) |
-| Sat, 21 Jun 2025 09:49:46 GMT | Smart Guarding Techniques for Shopping Malls | United Guard Force India | [Read More](https://medium.com/p/fbcceb4cd3cf) |
-| Sat, 21 Jun 2025 09:48:33 GMT | From Yahoo Boys To AI Boys: How African Scammers Are Leveling Up | O. J. Okpabi | [Read More](https://medium.com/p/0f130f99dcf6) |
-| Sat, 21 Jun 2025 09:42:10 GMT | Hey DevOps, CALMS toi ! | Sylvanus HOUGBEKEY | [Read More](https://medium.com/p/b64d56ef62dd) |
-| Sat, 21 Jun 2025 09:39:56 GMT | The Crime Lab — CyberDefenders Lab - Walkthrough — SOC Analyst Tier 1 | Michael Angelo Padua | [Read More](https://medium.com/p/927151c4091e) |
-| Sat, 21 Jun 2025 09:36:02 GMT | The Importance of Proper Planning Before Building a Web Application | Lisa Lusinga | [Read More](https://medium.com/p/2a89288c8c97) |
-| Sat, 21 Jun 2025 09:34:43 GMT | Boost Your Gaming Performance: 10 Optimization Tips That Actually Work | Elfarissimustapha | [Read More](https://medium.com/p/1fa6cf44b0c7) |
-| Sat, 21 Jun 2025 09:34:08 GMT | Understanding the Web’s Most Dangerous XSS and CSRF | SarahW | [Read More](https://medium.com/p/e3b8b1c7498c) |
-| Sat, 21 Jun 2025 09:34:06 GMT | I Built an AI Threat Intel Dashboard to Redefine Modern Cyber Defense | Kerpink Williams | [Read More](https://medium.com/p/412a3c9fa58b) |
-| Sat, 21 Jun 2025 09:30:51 GMT | Building a Local Password Manager with Python | Sai Sathvika Chalasani | [Read More](https://medium.com/p/23a290a35abb) |
-| Sat, 21 Jun 2025 09:23:33 GMT | ⏰ From Time Bombs to Trust Traps: Why Chagu Is Your Shield in the Age of AI-Generated Code | Talex Maxim (taimax13) | [Read More](https://medium.com/p/00bb3016cfbc) |
