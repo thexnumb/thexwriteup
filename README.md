@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 15:15:22 GMT | Titanic Write-up | D_F4u1t | [Read More](https://medium.com/p/b5ec6466b41a) |
+| Sat, 21 Jun 2025 15:10:44 GMT | When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms | TakiasSec | [Read More](https://medium.com/p/4f3d0a68fab0) |
+| Sat, 21 Jun 2025 15:04:43 GMT | PAN-OS CVE-2025–0133 - XSS | RivuDon | [Read More](https://medium.com/p/d7ae25212005) |
+| Sat, 21 Jun 2025 14:59:58 GMT | Light: TryHackMe Writeup | Jad Ghamloush | [Read More](https://medium.com/p/50708e215b37) |
+| Sat, 21 Jun 2025 14:55:09 GMT | Linux Command Line Interface (CLI) — Part 7: Command Types, Quoting & Operators | Bharath | [Read More](https://medium.com/p/3382a3eb7fca) |
+| Sat, 21 Jun 2025 14:53:43 GMT | The Largest Password Leak in History: 16 Billion Credentials Exposed — What It Means for Your… | Cyber Canvas | [Read More](https://medium.com/p/fe4dc0e5697e) |
+| Sat, 21 Jun 2025 14:52:57 GMT | Sharing My Lowest Moment With You! | vibha pathak | [Read More](https://medium.com/p/e0049523a6ed) |
+| Sat, 21 Jun 2025 14:52:48 GMT | What exactly is threat modeling? | Priya | [Read More](https://medium.com/p/affc64837475) |
+| Sat, 21 Jun 2025 14:48:07 GMT | Comprehensive Cyber Threat Intelligence Guide Summary | MinHlaingOo | [Read More](https://medium.com/p/0ddfc48bd51f) |
+| Sat, 21 Jun 2025 14:46:59 GMT | The $100M Nobitex Nightmare: An Analyst’s Breakdown of a Crypto Catastrophe That Shook Iran | Lionel Davey | [Read More](https://medium.com/p/39dab8584149) |
+| Sat, 21 Jun 2025 14:46:54 GMT | Firmware Attack Madness: How Hackers Crippled X Business Across Windows, Linux, and macOS | Noel | [Read More](https://medium.com/p/ef0c878ef3c1) |
+| Sat, 21 Jun 2025 14:46:52 GMT | $3,800 Bounty: How Cache Poisoning Took Down Shopify’s CDN Files — DoS Across Thousands of Stores | Monika sharma | [Read More](https://medium.com/p/f6d7fdc72b26) |
+| Sat, 21 Jun 2025 14:46:45 GMT | Privilege Escalation using Registry Service Escalation on Windows | Ammar Ahmed | [Read More](https://medium.com/p/fac180d5e491) |
+| Sat, 21 Jun 2025 14:44:58 GMT | 10 Real Mobile App Testing Challenges I Faced And How I Solved Them as a QA | Prafulla Mishra | [Read More](https://medium.com/p/42d3967eab2e) |
 | Sat, 21 Jun 2025 14:31:35 GMT | Day #30 of #60DaysofGRC: All’s FAIR in Risk Quantification | Brittney Ginther | [Read More](https://medium.com/p/fc570aa11d4f) |
 | Sat, 21 Jun 2025 14:30:24 GMT | W1seGuy — Hack in 5 Minutes - Write-Up #6 & video (reverse engineering) | D4m.sh | [Read More](https://medium.com/p/6de2d9f63348) |
 | Sat, 21 Jun 2025 14:25:21 GMT | Take Over — Hack in 5 minuts - Write-Up #5 | D4m.sh | [Read More](https://medium.com/p/b0baf7c3fc3e) |
@@ -61,6 +75,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 11:47:18 GMT | Insecure Deserialization: How a Simple Pickle Can Ruin Your Day | Tal Sperling | [Read More](https://medium.com/p/7fbb21c028e1) |
 | Sat, 21 Jun 2025 11:43:51 GMT | The Door I Never Opened | Isha | [Read More](https://medium.com/p/449cdcbcba2d) |
 | Sat, 21 Jun 2025 11:41:52 GMT | 16 Billion Passwords Leaked: Myth vs. Reality | Isaac Muendo | [Read More](https://medium.com/p/8c8ce6a2a1fd) |
+| Sat, 21 Jun 2025 11:36:19 GMT | Titanic — HackTheBox | Abdul Wassay (aka HotPlugin) | [Read More](https://medium.com/p/850d5b72c135) |
 | Sat, 21 Jun 2025 11:33:01 GMT | Insecure Direct Object Reference (IDOR): A Beginner’s Guide to Finding and Fixing High-Impact… | Andrei Ivan | [Read More](https://medium.com/p/3e777be08ad0) |
 | Sat, 21 Jun 2025 11:32:25 GMT | In the Mask, a Mirror | Adrian | [Read More](https://medium.com/p/5f66818632c4) |
 | Sat, 21 Jun 2025 11:22:51 GMT | A Playbook for Application Security Pentest Reports | Pranieth Chandrasekara | [Read More](https://medium.com/p/a2c9a7f430fc) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 09:30:51 GMT | Building a Local Password Manager with Python | Sai Sathvika Chalasani | [Read More](https://medium.com/p/23a290a35abb) |
 | Sat, 21 Jun 2025 09:23:33 GMT | ⏰ From Time Bombs to Trust Traps: Why Chagu Is Your Shield in the Age of AI-Generated Code | Talex Maxim (taimax13) | [Read More](https://medium.com/p/00bb3016cfbc) |
 | Sat, 21 Jun 2025 09:17:00 GMT | How to Make a WiFi Duck Using Arduino Pro Micro & ESP8266 | Shresthaakash | [Read More](https://medium.com/p/df6e25787763) |
-| Sat, 21 Jun 2025 09:13:58 GMT | Critical Webmail Exploit: CVE-2025–49113 in Roundcube - TryHackMe Roundcube | Motasem Hamdan | [Read More](https://medium.com/p/9774c2393b23) |
-| Sat, 21 Jun 2025 09:08:30 GMT | THE RISE OF CYBER LAWSUITS: | LIFE'S MOMENTS AND EVENTS | [Read More](https://medium.com/p/cb608c03184d) |
-| Sat, 21 Jun 2025 09:02:48 GMT | Comparing Alarm Logic Across SIEM Platforms: Splunk vs. IBM QRadar vs. Elastic SIEM | Esra Kayhan | [Read More](https://medium.com/p/ac770345a329) |
-| Sat, 21 Jun 2025 09:02:22 GMT | TryHackMe — Windows Fundamentals 3 | d353rt_5c0rp10n | [Read More](https://medium.com/p/cace9df9fff4) |
-| Sat, 21 Jun 2025 08:52:56 GMT | Best Ethical Hacking Training in Noida - Ducat India | Farzan Ali | [Read More](https://medium.com/p/523d366226b5) |
-| Sat, 21 Jun 2025 08:52:44 GMT | Best Ethical Hacking Training in Noida - Ducat India | Saturday Sunday | [Read More](https://medium.com/p/1033726b8adc) |
-| Sat, 21 Jun 2025 08:51:48 GMT | Advanced Web Security Best Practices: Securing Your Web Apps against Today's Threats | Amaka okoye | [Read More](https://medium.com/p/35a32efd4723) |
-| Sat, 21 Jun 2025 08:51:42 GMT | TryHackMe — Windows Fundamentals 2 | d353rt_5c0rp10n | [Read More](https://medium.com/p/b910e137f794) |
-| Sat, 21 Jun 2025 08:50:08 GMT | How Cybersecurity Detection Engineers Can Leverage AI Tools | Saikat Paul | [Read More](https://medium.com/p/0707d746e229) |
-| Sat, 21 Jun 2025 08:43:45 GMT | The Art of Psychic Attacks: An Analysis of Mind, Power, and Manipulation | Eye Of Unity | [Read More](https://medium.com/p/58111b877c4a) |
-| Sat, 21 Jun 2025 08:43:37 GMT | Top 5 Social Engineering Techniques Every Developer Should Know | Mohammad Zafeer | [Read More](https://medium.com/p/72f05b17389b) |
-| Sat, 21 Jun 2025 08:40:50 GMT | IBM’s Comprehensive Approach to Hybrid Multicloud Security: A Strategic Partnership for Digital… | Alan Hamilton | [Read More](https://medium.com/p/f487bd6ce688) |
-| Sat, 21 Jun 2025 08:39:15 GMT | Mòjà Mòsá | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/8b26dc9da9cf) |
-| Sat, 21 Jun 2025 08:35:03 GMT | The 16 Billion Credential Leak: A Wake-Up Call for Everyone | Salman Saleem | [Read More](https://medium.com/p/d74bbcf0c69c) |
-| Sat, 21 Jun 2025 08:31:01 GMT | From Detection to Response: The Power of SOC Solutions | Abhinav Pathak | [Read More](https://medium.com/p/5f912f794c49) |
