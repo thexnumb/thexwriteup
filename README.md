@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 08:23:04 GMT | Automation for Smarter Bug Hunting | Monika sharma | [Read More](https://medium.com/p/8ada52923e81) |
+| Sat, 21 Jun 2025 08:20:06 GMT | Latest Concerning Ukraine and the Russian Aggressor From a Few Countries | Ain Stærlingsson — UA | [Read More](https://medium.com/p/a14e074e9a11) |
+| Sat, 21 Jun 2025 08:19:53 GMT | $5,000 Bounty: How a Single Malformed UDP Packet Took Down Rootstock’s Blockchain Node (CVE-style… | Monika sharma | [Read More](https://medium.com/p/011cceb94819) |
+| Sat, 21 Jun 2025 08:17:38 GMT | The Hidden Cost of Inaction: Retail Store Security in 2025 | Sukhwinder | [Read More](https://medium.com/p/571a86f8ae42) |
+| Sat, 21 Jun 2025 08:10:10 GMT | TryHackMe — Windows Fundamentals 1 | d353rt_5c0rp10n | [Read More](https://medium.com/p/3afddb0719d9) |
+| Sat, 21 Jun 2025 08:06:02 GMT | Top 5 Security Tips for Warehouses & Storage Units | United Guard Force India | [Read More](https://medium.com/p/9f485d8292e2) |
+| Sat, 21 Jun 2025 08:05:41 GMT | Browser Cookies: What They Are and Why They Matter | Dikshya Shrestha | [Read More](https://medium.com/p/8ad5aadbc616) |
+| Sat, 21 Jun 2025 07:59:08 GMT | Building Quantum-Resistant Zero-Trust Architecture for Next-Generation Crypto Banks: Lessons from… | Serhan Bahar (swb) | [Read More](https://medium.com/p/45fd8057eaa5) |
+| Sat, 21 Jun 2025 07:58:31 GMT | What is JWT token and its claims? | Namrata | [Read More](https://medium.com/p/06ce43b56f74) |
+| Sat, 21 Jun 2025 07:52:16 GMT | DVWA : Reflected XSS : Exploiting From Low to High Security Levels | Muhdfaijas | [Read More](https://medium.com/p/e951bbe8d696) |
+| Sat, 21 Jun 2025 07:49:26 GMT | CTF Day(20) | Ahmed Narmer | [Read More](https://medium.com/p/a1bede54a0e7) |
+| Sat, 21 Jun 2025 07:47:07 GMT | Authentication part-9 : Brute-forcing a stay-logged-in cookie | Ahmad Sopyan | [Read More](https://medium.com/p/2c7867a70d94) |
+| Sat, 21 Jun 2025 07:46:32 GMT | Microsoft Entra ID Tip | Sachin Ajjaplar | [Read More](https://medium.com/p/851afb8818cf) |
+| Sat, 21 Jun 2025 07:46:03 GMT | Using ML-DSA in AWS | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3c3644b78d03) |
+| Sat, 21 Jun 2025 07:37:52 GMT | Moving Beyond Spreadsheets: A Platform-Driven Approach to GRC Management | COMPASS | [Read More](https://medium.com/p/ebe2bdd7dbc6) |
+| Sat, 21 Jun 2025 07:36:59 GMT | Still Logged In? Google OAuth’s Secret Backdoor (No Tools Needed!) | StrangeRwhite | [Read More](https://medium.com/p/5d9d964f7a6d) |
+| Sat, 21 Jun 2025 07:36:38 GMT | Top 10 Best Career Options After 12th in Cybersecurity | cyber security Updates | [Read More](https://medium.com/p/39cfd2d6f459) |
 | Sat, 21 Jun 2025 07:33:20 GMT | How To Avoid Scams and Hacks with The Help Of Trust Wallet Security Tools ? | Anytype | [Read More](https://medium.com/p/a0edf67b5516) |
 | Sat, 21 Jun 2025 07:31:16 GMT | BAC — IDOR ($300–$2,500) | Abin | [Read More](https://medium.com/p/a694f1739ce7) |
 | Sat, 21 Jun 2025 07:21:40 GMT | BeHave: Unlocking Your Digital Identity Through How You Type | Ram Bikkina | [Read More](https://medium.com/p/374330451793) |
@@ -96,20 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 21:34:03 GMT | BASE — How Low Can Your Docker CVEs Go? | Marshall Humble | [Read More](https://medium.com/p/a183baa66b08) |
 | Fri, 20 Jun 2025 21:31:32 GMT | How I Discovered AI’s Dark Side: The Security Crisis Nobody Talks About | Divyansh Bhatia | [Read More](https://medium.com/p/874ee3594da3) |
 | Fri, 20 Jun 2025 21:24:42 GMT | Digital Forensics After Cyberwar: What Must Be Traced? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/0369f3368883) |
-| Fri, 20 Jun 2025 21:18:03 GMT | The AI-Cybersecurity Convergence: Enterprise Architecture’s New Mandate | MAHESH KUMAR GADDAM | [Read More](https://medium.com/p/9d5730ddb953) |
-| Fri, 20 Jun 2025 21:17:54 GMT | They Hacked a Billion-Dollar Company in 7 Minutes—Here’s How You Can Avoid Being Next | The Content Explorer: Ahmed Abdullah | [Read More](https://medium.com/p/769a675356c9) |
-| Fri, 20 Jun 2025 21:10:52 GMT | Unpacking iOS Apps: How to Extract IPA Files from Jailbroken iPhone Using Python | Hary Ft | [Read More](https://medium.com/p/1425a2b18fb2) |
-| Fri, 20 Jun 2025 21:01:59 GMT | Still up? Good. Let’s talk Availability! | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/60d7a62b6008) |
-| Fri, 20 Jun 2025 20:57:03 GMT | How EDRs Detect Threats and How Adversaries Try to Evade Them | R1cH4t | [Read More](https://medium.com/p/ecc07e8b1688) |
-| Fri, 20 Jun 2025 20:56:33 GMT | Your Security is Only as Strong as Your HVAC Guy: A Crash Course in Third-Party Risk | Wale Adedeji | [Read More](https://medium.com/p/cef8686bd35d) |
-| Fri, 20 Jun 2025 20:50:29 GMT | The Hidden Dangers of Logging Out: Why Your Sessions May Still Be Active | Kazi Lamisa | [Read More](https://medium.com/p/f7380a5b33bc) |
-| Fri, 20 Jun 2025 20:34:32 GMT | Dynamic Data Masking : Strength and Weakness | Johan Max | [Read More](https://medium.com/p/e046d1172faf) |
-| Fri, 20 Jun 2025 20:31:32 GMT | The Zombie Streaming Ecosystem: Dead Apps, Fake Updates, and Misinformation Sites in 2025” | Sammcmullen | [Read More](https://medium.com/p/3b6c20a4bb02) |
-| Fri, 20 Jun 2025 20:30:04 GMT | Capture HandShake with Fluxion | anonymous howtos | [Read More](https://medium.com/p/a9cbe8268ef4) |
-| Fri, 20 Jun 2025 20:29:41 GMT | Are You Still Using the Same Password Everywhere? | JayKee | [Read More](https://medium.com/p/cfd7de98ed26) |
-| Fri, 20 Jun 2025 20:28:31 GMT | Modern IT: It’s Not About Tools. It’s About Keeping Your Sanity. | Luis Silva | [Read More](https://medium.com/p/60e6b2f5db07) |
-| Fri, 20 Jun 2025 20:21:00 GMT | Building a Web File Scanner with FastAPI, ClamAV and Docker | Yuxuan | [Read More](https://medium.com/p/a35e695a5795) |
-| Fri, 20 Jun 2025 20:10:07 GMT | Confidential Computing: The Security Foundation for Trusted AI and Autonomous Agentic Systems | Valdez Ladd | [Read More](https://medium.com/p/7e3823eaf857) |
-| Fri, 20 Jun 2025 20:06:15 GMT | Quantum Computing Explained: From Theory to Real-World Use Cases | travelsmarthacks.site | [Read More](https://medium.com/p/d1f33e4e2095) |
-| Fri, 20 Jun 2025 20:01:17 GMT | 16 Billion Passwords Leaked in the Biggest Breach Ever — Change Yours NOW | Areeba Shahbaz | [Read More](https://medium.com/p/17a66f805b6f) |
-| Fri, 20 Jun 2025 20:00:10 GMT | AWSReaper: Cloud Pentesting Practical Techniques for Red Teams | Aditya Bhatt | [Read More](https://medium.com/p/22e91e78a82f) |
