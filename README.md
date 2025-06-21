@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 17:28:54 GMT | ️ Ransomware Canary Detector — A Lightweight, Early-Warning Tool for Ransomware Defense | ruchir ganatra | [Read More](https://medium.com/p/e47cf1cab4cc) |
+| Sat, 21 Jun 2025 17:27:28 GMT | # The Code and the Blade: Why Omega Browser Isn’t Just Another Privacy-Focused Browser | Omega Browser | [Read More](https://medium.com/p/2ccfb7744413) |
+| Sat, 21 Jun 2025 17:27:25 GMT | Red Team vs Blue Team vs Purple Team: What’s the Difference in Cybersecurity? | Exreconnaissance | [Read More](https://medium.com/p/9b25f8894424) |
+| Sat, 21 Jun 2025 17:25:42 GMT | The Prime Collapse: Cybersecurity’s Tipping Point | Ashdc | [Read More](https://medium.com/p/59ee0e5b2340) |
+| Sat, 21 Jun 2025 17:25:39 GMT | Understanding Intrusion Detection Systems: Techniques and Datasets for Modern Cybersecurity | Selin Sezer | [Read More](https://medium.com/p/42afd52e2027) |
+| Sat, 21 Jun 2025 17:25:17 GMT | XLMRat Lab Writeup— CyberDefenders.org | Riad Moudjahed | [Read More](https://medium.com/p/afa3af8e500e) |
+| Sat, 21 Jun 2025 17:23:00 GMT | Avoid These Critical Web App Security Mistakes in Your Next Project | Samad Saiyed | [Read More](https://medium.com/p/5f16edaec4e0) |
+| Sat, 21 Jun 2025 17:21:36 GMT | The Overlooked Weak Spot in Enterprise TLS Security | Akilnath Bodipudi | [Read More](https://medium.com/p/3f5e6db6d109) |
+| Sat, 21 Jun 2025 17:21:06 GMT | Uncover Hidden Endpoints with This Powerful FFUF Oneliner | Mejbaur Bahar Fagun | [Read More](https://medium.com/p/bf26e13805c0) |
+| Sat, 21 Jun 2025 17:17:53 GMT | Weekly Roundup — June 21st 2025 | litwtch | [Read More](https://medium.com/p/dcf9d24dedb4) |
+| Sat, 21 Jun 2025 17:09:48 GMT | Using Favicon Hashes for OSINT Reconnaissanc | Mejbaur Bahar Fagun | [Read More](https://medium.com/p/cefcb8c4ddca) |
+| Sat, 21 Jun 2025 17:08:56 GMT | Understanding CSRF Tokens: When and Why You Need Them in Web Security | Bhanusingh | [Read More](https://medium.com/p/c52dec49b000) |
 | Sat, 21 Jun 2025 17:04:48 GMT | Air Gapped: A Última Fronteira da Segurança Cibernética | T4RUM | [Read More](https://medium.com/p/b7f5787e3dd7) |
 | Sat, 21 Jun 2025 17:03:02 GMT | AI is Not a Silver Bullet: A Realistic Risk and Strategy Analysis for Cybersecurity | Ozan Ozkara | [Read More](https://medium.com/p/388c4dedd508) |
 | Sat, 21 Jun 2025 16:56:42 GMT | How a Simple Bookmark Earned a Two-Digit € Bug Bounty | Erkan Kavas | [Read More](https://medium.com/p/0a956537e5e5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 11:57:06 GMT | We’re entering an era where quantum computers are no longer science fiction. | Cryon | [Read More](https://medium.com/p/ec7a4fbda0fa) |
 | Sat, 21 Jun 2025 11:53:58 GMT | The Past, the Panic, and the Promise: Choosing Love Anyway | The Veiled Versifier | [Read More](https://medium.com/p/d6b3057c84e6) |
 | Sat, 21 Jun 2025 11:52:05 GMT | Why Warehouse Security Guard Services Are Essential to Protect Your Assets? | Sumintra | [Read More](https://medium.com/p/85a5139703b3) |
-| Sat, 21 Jun 2025 11:47:18 GMT | Insecure Deserialization: How a Simple Pickle Can Ruin Your Day | Tal Sperling | [Read More](https://medium.com/p/7fbb21c028e1) |
-| Sat, 21 Jun 2025 11:43:51 GMT | The Door I Never Opened | Isha | [Read More](https://medium.com/p/449cdcbcba2d) |
-| Sat, 21 Jun 2025 11:41:52 GMT | 16 Billion Passwords Leaked: Myth vs. Reality | Isaac Muendo | [Read More](https://medium.com/p/8c8ce6a2a1fd) |
-| Sat, 21 Jun 2025 11:36:19 GMT | Titanic — HackTheBox | Abdul Wassay (aka HotPlugin) | [Read More](https://medium.com/p/850d5b72c135) |
-| Sat, 21 Jun 2025 11:33:01 GMT | Insecure Direct Object Reference (IDOR): A Beginner’s Guide to Finding and Fixing High-Impact… | Andrei Ivan | [Read More](https://medium.com/p/3e777be08ad0) |
-| Sat, 21 Jun 2025 11:32:25 GMT | In the Mask, a Mirror | Adrian | [Read More](https://medium.com/p/5f66818632c4) |
-| Sat, 21 Jun 2025 11:22:51 GMT | A Playbook for Application Security Pentest Reports | Pranieth Chandrasekara | [Read More](https://medium.com/p/a2c9a7f430fc) |
-| Sat, 21 Jun 2025 11:18:05 GMT | The 16 Billion Credential Breach: What Happened, What It Means, and How FrostByte Protects You | FrostByte | [Read More](https://medium.com/p/2ea22680726c) |
-| Sat, 21 Jun 2025 11:11:35 GMT | Capture The Flag: The Cybersecurity Olympics | Regan Temudo | [Read More](https://medium.com/p/133c093b1226) |
-| Sat, 21 Jun 2025 11:07:28 GMT | I PWNED A SEARCH BOX WITH <script>alert(1)</script> | Sumanth Yerranagula | [Read More](https://medium.com/p/21e038602379) |
-| Sat, 21 Jun 2025 11:06:25 GMT | What's New in CSP v3 | appsecwarrior | [Read More](https://medium.com/p/992c44c0425e) |
-| Sat, 21 Jun 2025 11:01:37 GMT | Essential Cybersecurity Tools for 2025: A Deep Dive Across Domains | Manoj Gadamsetty | [Read More](https://medium.com/p/d972f3f4adb0) |
