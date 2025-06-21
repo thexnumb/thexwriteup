@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 13:44:14 GMT | Subdomain Takeover Made Easy: How to Detect Vulnerabilities Using Subdominator and SubSnipe | S Kumar | [Read More](https://medium.com/p/da8bb98a1dd6) |
+| Sat, 21 Jun 2025 13:32:21 GMT | The Importance of a Database Expert Witness in Modern Litigation | Daviss Mason | [Read More](https://medium.com/p/83d38885c009) |
+| Sat, 21 Jun 2025 13:30:00 GMT | Never go to Cybersecurity University, never do any Penetration Testing Certification! | elfgirl_pro | [Read More](https://medium.com/p/c5103a44598f) |
 | Sat, 21 Jun 2025 13:27:33 GMT | Bug Hunting Within the Law: A Friendly Guide | Sarthak Raju Bhingare | [Read More](https://medium.com/p/67c89d7a86dc) |
 | Sat, 21 Jun 2025 13:21:37 GMT | CNAPP Explained: The Smartest Way to Secure Cloud-Native Apps with EDSPL | saurabh cyberinfomines | [Read More](https://medium.com/p/32a0ccd2c576) |
 | Sat, 21 Jun 2025 13:19:09 GMT | I will do resume for software engineer cybersecurity ai ml data and robotic engineer | Karendburke | [Read More](https://medium.com/p/3749dd90629b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 07:49:26 GMT | CTF Day(20) | Ahmed Narmer | [Read More](https://medium.com/p/a1bede54a0e7) |
 | Sat, 21 Jun 2025 07:47:07 GMT | Authentication part-9 : Brute-forcing a stay-logged-in cookie | Ahmad Sopyan | [Read More](https://medium.com/p/2c7867a70d94) |
 | Sat, 21 Jun 2025 07:46:32 GMT | Microsoft Entra ID Tip | Sachin Ajjaplar | [Read More](https://medium.com/p/851afb8818cf) |
-| Sat, 21 Jun 2025 07:46:03 GMT | Using ML-DSA in AWS | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3c3644b78d03) |
-| Sat, 21 Jun 2025 07:37:52 GMT | Moving Beyond Spreadsheets: A Platform-Driven Approach to GRC Management | COMPASS | [Read More](https://medium.com/p/ebe2bdd7dbc6) |
-| Sat, 21 Jun 2025 07:36:59 GMT | Still Logged In? Google OAuth’s Secret Backdoor (No Tools Needed!) | StrangeRwhite | [Read More](https://medium.com/p/5d9d964f7a6d) |
