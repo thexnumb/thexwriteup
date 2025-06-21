@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 09:36:02 GMT | The Importance of Proper Planning Before Building a Web Application | Lisa Lusinga | [Read More](https://medium.com/p/2a89288c8c97) |
+| Sat, 21 Jun 2025 09:34:43 GMT | Boost Your Gaming Performance: 10 Optimization Tips That Actually Work | Elfarissimustapha | [Read More](https://medium.com/p/1fa6cf44b0c7) |
+| Sat, 21 Jun 2025 09:34:08 GMT | Understanding the Web’s Most Dangerous XSS and CSRF | SarahW | [Read More](https://medium.com/p/e3b8b1c7498c) |
+| Sat, 21 Jun 2025 09:34:06 GMT | I Built an AI Threat Intel Dashboard to Redefine Modern Cyber Defense | Kerpink Williams | [Read More](https://medium.com/p/412a3c9fa58b) |
+| Sat, 21 Jun 2025 09:30:51 GMT | Building a Local Password Manager with Python | Sai Sathvika Chalasani | [Read More](https://medium.com/p/23a290a35abb) |
+| Sat, 21 Jun 2025 09:23:33 GMT | ⏰ From Time Bombs to Trust Traps: Why Chagu Is Your Shield in the Age of AI-Generated Code | Talex Maxim (taimax13) | [Read More](https://medium.com/p/00bb3016cfbc) |
+| Sat, 21 Jun 2025 09:17:00 GMT | How to Make a WiFi Duck Using Arduino Pro Micro & ESP8266 | Shresthaakash | [Read More](https://medium.com/p/df6e25787763) |
 | Sat, 21 Jun 2025 09:13:58 GMT | Critical Webmail Exploit: CVE-2025–49113 in Roundcube - TryHackMe Roundcube | Motasem Hamdan | [Read More](https://medium.com/p/9774c2393b23) |
 | Sat, 21 Jun 2025 09:08:30 GMT | THE RISE OF CYBER LAWSUITS: | LIFE'S MOMENTS AND EVENTS | [Read More](https://medium.com/p/cb608c03184d) |
 | Sat, 21 Jun 2025 09:02:48 GMT | Comparing Alarm Logic Across SIEM Platforms: Splunk vs. IBM QRadar vs. Elastic SIEM | Esra Kayhan | [Read More](https://medium.com/p/ac770345a329) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 01:25:05 GMT | A vast collection of 16 billion stolen passwords was uncovered. Here’s what to do. | Adnan Hasan | [Read More](https://medium.com/p/4e31a5feec86) |
 | Sat, 21 Jun 2025 01:16:58 GMT | Automating SQL Injection using Dalfox, GF and Waybackurls | イズミー | [Read More](https://medium.com/p/f6b56176b46f) |
 | Sat, 21 Jun 2025 01:05:35 GMT | Frida Gadget Guide | dotHatab | [Read More](https://medium.com/p/d7aaa1c706fe) |
-| Sat, 21 Jun 2025 01:00:33 GMT | Section IV: Legal Context and the Criminalization of Psychological Targeting | Haley M Slaughter | [Read More](https://medium.com/p/46a1f2f5e2ce) |
-| Sat, 21 Jun 2025 00:39:16 GMT | The Art of Letting Yourself Be Seen | burgundy | [Read More](https://medium.com/p/dc7377f00cf1) |
-| Sat, 21 Jun 2025 00:29:05 GMT | From Data Breaches to Digital Sovereignty in India’s Digital Century | David SEHYEON Baek | [Read More](https://medium.com/p/b8199314ff55) |
-| Sat, 21 Jun 2025 00:14:46 GMT | Full-Scale Cyberwar Simulation: From Reconnaissance to Exfiltration | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a30fee058ba9) |
-| Sat, 21 Jun 2025 00:08:16 GMT | From Exploit to Recovery: How 45 ETH Were Saved Thanks to Ethical Hackers | metapool.near | [Read More](https://medium.com/p/77274afdc162) |
-| Sat, 21 Jun 2025 00:01:36 GMT | httpx for Bug Bounty: Complete Guide to Detecting Subdomains and Active Hosts | JPablo13 | [Read More](https://medium.com/p/22fa015dbedd) |
-| Fri, 20 Jun 2025 23:47:43 GMT | AI and Bioweapons | Andrew Hessel | [Read More](https://medium.com/p/20956c0d95c6) |
