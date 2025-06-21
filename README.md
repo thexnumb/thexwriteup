@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 17:04:48 GMT | Air Gapped: A Última Fronteira da Segurança Cibernética | T4RUM | [Read More](https://medium.com/p/b7f5787e3dd7) |
+| Sat, 21 Jun 2025 17:03:02 GMT | AI is Not a Silver Bullet: A Realistic Risk and Strategy Analysis for Cybersecurity | Ozan Ozkara | [Read More](https://medium.com/p/388c4dedd508) |
+| Sat, 21 Jun 2025 16:56:42 GMT | How a Simple Bookmark Earned a Two-Digit € Bug Bounty | Erkan Kavas | [Read More](https://medium.com/p/0a956537e5e5) |
+| Sat, 21 Jun 2025 16:48:57 GMT | Securing WordPress in 2025: A Reluctant Return to CMS That Time Forgot | Marquiños | [Read More](https://medium.com/p/14cfb7636cf8) |
 | Sat, 21 Jun 2025 16:38:09 GMT | LoRanOS - Operating System to display Hardware Information | Lochithya Hettiarachchi | [Read More](https://medium.com/p/acbe6a0fe8ed) |
 | Sat, 21 Jun 2025 16:35:55 GMT | JavaScript’s Dark Mode Revolution: Why Devs Are Ditching Light UIs Forever | Lakshika | [Read More](https://medium.com/p/20ade157160e) |
 | Sat, 21 Jun 2025 16:35:48 GMT | Gaining Internal Access via Network Pivoting with Ligolo-ng | miquela | [Read More](https://medium.com/p/28c3f167437a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 11:07:28 GMT | I PWNED A SEARCH BOX WITH <script>alert(1)</script> | Sumanth Yerranagula | [Read More](https://medium.com/p/21e038602379) |
 | Sat, 21 Jun 2025 11:06:25 GMT | What's New in CSP v3 | appsecwarrior | [Read More](https://medium.com/p/992c44c0425e) |
 | Sat, 21 Jun 2025 11:01:37 GMT | Essential Cybersecurity Tools for 2025: A Deep Dive Across Domains | Manoj Gadamsetty | [Read More](https://medium.com/p/d972f3f4adb0) |
-| Sat, 21 Jun 2025 10:56:52 GMT | Iran’s State TV Hijacked Mid-Broadcast Amid Geopolitical Tensions; $90M Stolen in Crypto Heist | Mejbankadir | [Read More](https://medium.com/p/8616b6bdd279) |
-| Sat, 21 Jun 2025 10:56:28 GMT | GTFO, Root: A Practical Sudo Audit Script for GTFOBins Escapes | Lukasjohannesmoeller | [Read More](https://medium.com/p/efde7745a8a5) |
-| Sat, 21 Jun 2025 10:49:39 GMT | Top 17 Cyber Threat Facts You Can’t Afford to Ignore in 2025 | Err0rr0rre | [Read More](https://medium.com/p/9ae041e44177) |
-| Sat, 21 Jun 2025 10:48:23 GMT | Android Cihazları Hedef Alan Bankacılık Truva Atı: Godfather | Şervan Alkan | [Read More](https://medium.com/p/044777acd751) |
