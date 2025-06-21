@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 06:19:49 GMT | Exploring the Benefits of SwitchBot’s Smart Lock in the Smart Home Industry | Oibandyopadhyay | [Read More](https://medium.com/p/275aa87dcc70) |
+| Sat, 21 Jun 2025 06:15:30 GMT | Code!..The final Frontier | Noel Katawera | [Read More](https://medium.com/p/072a45d07f77) |
+| Sat, 21 Jun 2025 06:12:49 GMT | Shield Your Ideas: How to Protect Your Brand with Patents and Trademarks | Lucastaylor | [Read More](https://medium.com/p/cf27c78f625a) |
+| Sat, 21 Jun 2025 06:08:38 GMT | Cybersecurity Starts Here: Ethical Hacking Foundation Certification | John  Carter | [Read More](https://medium.com/p/d59fe8a9b5d1) |
+| Sat, 21 Jun 2025 06:02:27 GMT | Threat Alert: Shadow IT is Risking Your Business! | oheneba kwaku annor | [Read More](https://medium.com/p/d18d38caadbb) |
+| Sat, 21 Jun 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Jun 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a833485ec535) |
+| Sat, 21 Jun 2025 05:54:07 GMT | Learn How to Install Kali Linux on Any Android Phone [2025 Guide]! | Keen | [Read More](https://medium.com/p/abc394a8e825) |
+| Sat, 21 Jun 2025 05:45:28 GMT | U.S.–Sweden Technology Safeguards Agreement: A Strategic Win for Cyber Diplomacy | CCD-IS | [Read More](https://medium.com/p/a7325f1a1a48) |
+| Sat, 21 Jun 2025 05:43:30 GMT | Beyond Today: What Top Tech Companies Demand | bikash Gochhayat | [Read More](https://medium.com/p/7405e307ecbc) |
+| Sat, 21 Jun 2025 05:41:49 GMT | I SLOWED DOWN A WEBSITE USING PING ⏳ (Blind OS Command Injection Walkthrough) | Sumanth Yerranagula | [Read More](https://medium.com/p/0b56410b47de) |
+| Sat, 21 Jun 2025 05:40:38 GMT | Cross-Site Scripting (XSS) | life | [Read More](https://medium.com/p/5a499b747646) |
 | Sat, 21 Jun 2025 05:39:37 GMT | Cross-Site Scripting (XSS) | Kuro | [Read More](https://medium.com/p/9d6d7e89d512) |
 | Sat, 21 Jun 2025 05:21:27 GMT | Information Gatering (Reconnaissance) | life | [Read More](https://medium.com/p/a93855e704eb) |
 | Sat, 21 Jun 2025 05:13:34 GMT | Cross-Site Scripting (XSS) | Emaliaanrhyt | [Read More](https://medium.com/p/5895dc55799b) |
@@ -102,14 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 19:13:03 GMT | Policy as Code (PaC) with Terraform, Sentinel, and AWS. | Alex | [Read More](https://medium.com/p/d34f6ac036d3) |
 | Fri, 20 Jun 2025 19:08:27 GMT | Firewall Pass Through: What It Means and Why It Matters for Network Security | Akshay Chauhan | [Read More](https://medium.com/p/b6f11cb37073) |
 | Fri, 20 Jun 2025 19:01:34 GMT | Artificial Intelligence in Cybersecurity: A Double-Edged Sword in the IoT Era | Oladipo deborah | [Read More](https://medium.com/p/943d4ee41bac) |
-| Fri, 20 Jun 2025 19:01:25 GMT | SIEM, SOAR and XDR — aaron597.com | Aaron DeJong | [Read More](https://medium.com/p/e8fa99b67e90) |
-| Fri, 20 Jun 2025 18:49:02 GMT | The Linux Security Journey — Authentication Logs | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6f3f53eda542) |
-| Fri, 20 Jun 2025 18:34:46 GMT | Cybersecurity and the Psychology of Human Error: Understanding Digital Risk Behavior in Youth | Amritleenkaur | [Read More](https://medium.com/p/76a81004bc40) |
-| Fri, 20 Jun 2025 18:32:25 GMT | Over The Wire — bandit level 10–20 | Isha Sangpal | [Read More](https://medium.com/p/3e0ad7d5bd83) |
-| Fri, 20 Jun 2025 18:31:24 GMT | North Korea’s Crypto Job Trap: How Fake Interviews Are Hacking Your Wallet | CoinGen | [Read More](https://medium.com/p/ef5f4939aae3) |
-| Fri, 20 Jun 2025 18:30:05 GMT | The Silent Leak: 16 Billion Passwords Exposed and the Urgent Need for Cyber Hygiene | Avnishyam | [Read More](https://medium.com/p/be341285a621) |
-| Fri, 20 Jun 2025 18:28:32 GMT | Why is doxing so easy? | Padrino Oraèmorto | [Read More](https://medium.com/p/fd441c6158d1) |
-| Fri, 20 Jun 2025 18:28:15 GMT | Title: Cybersecurity and the Psychology of Human Error: Understanding Digital Risk Behavior in… | Amritleenkaur | [Read More](https://medium.com/p/2fe886068cb7) |
-| Fri, 20 Jun 2025 18:26:39 GMT | From Terminal Noob to Global Ranker: My TryHackMe Journey (2022–2025) | Shadow Packet | [Read More](https://medium.com/p/3a183fc89313) |
-| Fri, 20 Jun 2025 18:23:40 GMT | 5 REASONS WHY CHATGPT IS THE ONLY LOYAL FRIEND. | DEBBYWRITE | [Read More](https://medium.com/p/6d66212bfd8a) |
-| Fri, 20 Jun 2025 18:21:08 GMT | The $2.3 Million Data Breach That Could’ve Been Prevented: A Complete Guide to Trino Security | Prem Vishnoi(cloudvala) | [Read More](https://medium.com/p/f478c8bb5cea) |
