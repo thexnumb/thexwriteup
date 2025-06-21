@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 01:29:46 GMT | Automating XSS using Dalfox, GF and Waybackurls | イズミー | [Read More](https://medium.com/p/07bc93d8723d) |
+| Sat, 21 Jun 2025 01:25:05 GMT | A vast collection of 16 billion stolen passwords was uncovered. Here’s what to do. | Adnan Hasan | [Read More](https://medium.com/p/4e31a5feec86) |
+| Sat, 21 Jun 2025 01:16:58 GMT | Automating SQL Injection using Dalfox, GF and Waybackurls | イズミー | [Read More](https://medium.com/p/f6b56176b46f) |
+| Sat, 21 Jun 2025 01:05:35 GMT | Frida Gadget Guide | dotHatab | [Read More](https://medium.com/p/d7aaa1c706fe) |
+| Sat, 21 Jun 2025 01:00:33 GMT | Section IV: Legal Context and the Criminalization of Psychological Targeting | Haley M Slaughter | [Read More](https://medium.com/p/46a1f2f5e2ce) |
+| Sat, 21 Jun 2025 00:39:16 GMT | The Art of Letting Yourself Be Seen | burgundy | [Read More](https://medium.com/p/dc7377f00cf1) |
+| Sat, 21 Jun 2025 00:29:05 GMT | From Data Breaches to Digital Sovereignty in India’s Digital Century | David SEHYEON Baek | [Read More](https://medium.com/p/b8199314ff55) |
+| Sat, 21 Jun 2025 00:14:46 GMT | Full-Scale Cyberwar Simulation: From Reconnaissance to Exfiltration | A-STAR7_DOCTOR | [Read More](https://medium.com/p/a30fee058ba9) |
+| Sat, 21 Jun 2025 00:08:16 GMT | From Exploit to Recovery: How 45 ETH Were Saved Thanks to Ethical Hackers | metapool.near | [Read More](https://medium.com/p/77274afdc162) |
+| Sat, 21 Jun 2025 00:01:36 GMT | httpx for Bug Bounty: Complete Guide to Detecting Subdomains and Active Hosts | JPablo13 | [Read More](https://medium.com/p/22fa015dbedd) |
+| Fri, 20 Jun 2025 23:47:43 GMT | AI and Bioweapons | Andrew Hessel | [Read More](https://medium.com/p/20956c0d95c6) |
+| Fri, 20 Jun 2025 23:36:13 GMT | TryHackMe GoldenEye — Walkthrough | mauzware | [Read More](https://medium.com/p/f2623d3c52c5) |
 | Fri, 20 Jun 2025 23:35:48 GMT | Flagyard CTF — TechShop: Exploiting SSTI to Gain RCE and Read the Flag | Rwx | [Read More](https://medium.com/p/ca161a63809d) |
 | Fri, 20 Jun 2025 23:31:37 GMT | Cortex Xpanse by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/b2ec23ba950e) |
 | Fri, 20 Jun 2025 23:07:23 GMT | The Day Our CISO Got Phished: A Wake-Up Call That Transformed Our Security | Zahir black | [Read More](https://medium.com/p/dab361b6f0ff) |
@@ -101,15 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 16:59:13 GMT | The Dark Side of Pentesting: How Wireless Security Tools Can Be Weaponized | Beth Cochran | [Read More](https://medium.com/p/895e80de357e) |
 | Fri, 20 Jun 2025 16:57:48 GMT | Do All Transfer PayPal Whatsapp : : +1(616) 202–1156 cashapp Bank western union Zelle and close… | Gonzalezablerta | [Read More](https://medium.com/p/be80ee54824c) |
 | Fri, 20 Jun 2025 16:48:50 GMT | How I Made My Kali Linux Terminal Look Awesome in 5 Minutes | Saikat Paul | [Read More](https://medium.com/p/32a666f99301) |
-| Fri, 20 Jun 2025 16:47:37 GMT | Another Insurance Giant Breached: What Aflac’s Security Failure Means for the Entire Industry | Ted Rogers | [Read More](https://medium.com/p/6cc7df6bd594) |
-| Fri, 20 Jun 2025 16:47:28 GMT | Traditional banks spend millions on security. | Serhan Bahar (swb) | [Read More](https://medium.com/p/62f4eac8866c) |
-| Fri, 20 Jun 2025 16:47:00 GMT | ️ Day 69: Bash Scripting — Log Watcher Monitoring Failed Logins | Agarwaldaksh | [Read More](https://medium.com/p/bc29960d8c66) |
-| Fri, 20 Jun 2025 16:46:45 GMT | Building a Professional-Grade DevSecOps Pipeline with Tetragon eBPF Security Monitoring on Azure… | Saraswathi Lakshman | [Read More](https://medium.com/p/6a36b863ee37) |
-| Fri, 20 Jun 2025 16:44:54 GMT | Increased FDNS Site Visits: How to Prepare and Stay Compliant | Emily Parker | [Read More](https://medium.com/p/50aad788768e) |
-| Fri, 20 Jun 2025 16:44:35 GMT | What are website cookies and how do they work? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/3125f21d4894) |
-| Fri, 20 Jun 2025 16:44:25 GMT | $1,000 Bounty: How I Discovered a Parameter Pollution Bug That Leaked Sensitive Data | Monika sharma | [Read More](https://medium.com/p/c5f240b05f5f) |
-| Fri, 20 Jun 2025 16:38:55 GMT | Only&One Story You Need To Do 100% Perfect Bug Bounty Reconnaissance. | NnFace | [Read More](https://medium.com/p/c5a22bbed218) |
-| Fri, 20 Jun 2025 16:38:38 GMT | The Ultimate Red Team Playbook: 20 Attack Techniques That Will Make You a Better Defender | Saikat Paul | [Read More](https://medium.com/p/be5a11ac2585) |
-| Fri, 20 Jun 2025 16:36:16 GMT | I Cracked the eJPTv2:Here’s What Every Beginner Pentester Needs to Know | Xh081iX | [Read More](https://medium.com/p/308a260bd392) |
-| Fri, 20 Jun 2025 16:36:16 GMT | Time Travel for Hackers | Bl@ckC!pH3r | [Read More](https://medium.com/p/28657b4395d6) |
-| Fri, 20 Jun 2025 16:36:08 GMT | “Cybersecurity : Simple Steps to Stay Safe Online” | Kashifmehmoodrizvi | [Read More](https://medium.com/p/c34915d4f18d) |
