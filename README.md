@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 14:15:03 GMT | The cheap Flipper Zero — DIY Flip LieT M5 | Priyank Dinesh Gada | [Read More](https://medium.com/p/7ccb355c3509) |
+| Sat, 21 Jun 2025 14:06:10 GMT | SQLMAP — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/321bf04d4155) |
+| Sat, 21 Jun 2025 14:02:01 GMT | Ghidra Reverse-Engineering on advanced_malware.exe | Lord Murak | [Read More](https://medium.com/p/b9183f3bddbe) |
+| Sat, 21 Jun 2025 13:56:11 GMT | Part 3 — Simulating an APT attack against a modern Bank | Cesaire Njietche Fangang | [Read More](https://medium.com/p/435d3740d257) |
+| Sat, 21 Jun 2025 13:56:10 GMT | Bye-bye Hassle! Here’s an Easy Way to Extract APK from Rooted Android Using Script! | Panggil Aku Paman | [Read More](https://medium.com/p/7f78c774fccf) |
+| Sat, 21 Jun 2025 13:56:01 GMT | TryHackMe - Windows Memory & Network - WriteUp | Axoloth | [Read More](https://medium.com/p/2e6510c2a23c) |
+| Sat, 21 Jun 2025 13:53:26 GMT | Date: June 21, 2025 | anonymous howtos | [Read More](https://medium.com/p/f92ddc68441c) |
+| Sat, 21 Jun 2025 13:51:40 GMT | How to Make Him Addicted to You: 3 Feelings Men Can’t Resist | Lucas Brown | [Read More](https://medium.com/p/a161e8c75921) |
+| Sat, 21 Jun 2025 13:50:13 GMT | PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec | Soman Verma | [Read More](https://medium.com/p/abef793f0a4e) |
 | Sat, 21 Jun 2025 13:44:14 GMT | Subdomain Takeover Made Easy: How to Detect Vulnerabilities Using Subdominator and SubSnipe | S Kumar | [Read More](https://medium.com/p/da8bb98a1dd6) |
 | Sat, 21 Jun 2025 13:32:21 GMT | The Importance of a Database Expert Witness in Modern Litigation | Daviss Mason | [Read More](https://medium.com/p/83d38885c009) |
 | Sat, 21 Jun 2025 13:30:00 GMT | Never go to Cybersecurity University, never do any Penetration Testing Certification! | elfgirl_pro | [Read More](https://medium.com/p/c5103a44598f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 08:19:59 GMT | DevSecOps: Integrating Security into DevOps | The Stackmentalist | [Read More](https://medium.com/p/a13fbe71dcad) |
 | Sat, 21 Jun 2025 08:19:53 GMT | $5,000 Bounty: How a Single Malformed UDP Packet Took Down Rootstock’s Blockchain Node (CVE-style… | Monika sharma | [Read More](https://medium.com/p/011cceb94819) |
 | Sat, 21 Jun 2025 08:17:38 GMT | The Hidden Cost of Inaction: Retail Store Security in 2025 | Sukhwinder | [Read More](https://medium.com/p/571a86f8ae42) |
-| Sat, 21 Jun 2025 08:10:10 GMT | TryHackMe — Windows Fundamentals 1 | d353rt_5c0rp10n | [Read More](https://medium.com/p/3afddb0719d9) |
-| Sat, 21 Jun 2025 08:06:02 GMT | Top 5 Security Tips for Warehouses & Storage Units | United Guard Force India | [Read More](https://medium.com/p/9f485d8292e2) |
-| Sat, 21 Jun 2025 08:05:41 GMT | Browser Cookies: What They Are and Why They Matter | Dikshya Shrestha | [Read More](https://medium.com/p/8ad5aadbc616) |
-| Sat, 21 Jun 2025 07:59:08 GMT | Building Quantum-Resistant Zero-Trust Architecture for Next-Generation Crypto Banks: Lessons from… | Serhan Bahar (swb) | [Read More](https://medium.com/p/45fd8057eaa5) |
-| Sat, 21 Jun 2025 07:58:31 GMT | What is JWT token and its claims? | Namrata | [Read More](https://medium.com/p/06ce43b56f74) |
-| Sat, 21 Jun 2025 07:52:16 GMT | DVWA : Reflected XSS : Exploiting From Low to High Security Levels | Muhdfaijas | [Read More](https://medium.com/p/e951bbe8d696) |
-| Sat, 21 Jun 2025 07:49:26 GMT | CTF Day(20) | Ahmed Narmer | [Read More](https://medium.com/p/a1bede54a0e7) |
-| Sat, 21 Jun 2025 07:47:07 GMT | Authentication part-9 : Brute-forcing a stay-logged-in cookie | Ahmad Sopyan | [Read More](https://medium.com/p/2c7867a70d94) |
-| Sat, 21 Jun 2025 07:46:32 GMT | Microsoft Entra ID Tip | Sachin Ajjaplar | [Read More](https://medium.com/p/851afb8818cf) |
