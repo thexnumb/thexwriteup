@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 12:32:37 GMT | Day 4/30 : Tracking Digital Trails with Maltego — An OSINT Beginner’s Journey | Cyphersilhouette | [Read More](https://medium.com/p/ff5b56b3543f) |
+| Sat, 21 Jun 2025 12:29:53 GMT | How I Found a User Enumeration Flaw Through Password Reset Logic | Gouri Sankar A | [Read More](https://medium.com/p/9b7c01dbf0fe) |
+| Sat, 21 Jun 2025 12:29:04 GMT | Cyber Law in India: Protect Your Digital Rights | Ankitinnjoshi | [Read More](https://medium.com/p/41366ffb8e6b) |
+| Sat, 21 Jun 2025 12:26:48 GMT | The Role of Ethical Hacking in Strengthening Cybersecurity Measures | InaMetaverses | [Read More](https://medium.com/p/5f48e1ba513a) |
+| Sat, 21 Jun 2025 12:12:06 GMT | Shanthi IT Solution Launches Comprehensive Cybersecurity Internship Program | Shanthi IT Solution | [Read More](https://medium.com/p/9c1ade93a4b6) |
+| Sat, 21 Jun 2025 11:57:54 GMT | Debugging a Bug I Couldn’t Reproduce — For 3 Days | CodeQuest | [Read More](https://medium.com/p/c6a83f9cba16) |
+| Sat, 21 Jun 2025 11:57:06 GMT | We’re entering an era where quantum computers are no longer science fiction. | Cryon | [Read More](https://medium.com/p/ec7a4fbda0fa) |
+| Sat, 21 Jun 2025 11:53:58 GMT | The Past, the Panic, and the Promise: Choosing Love Anyway | The Veiled Versifier | [Read More](https://medium.com/p/d6b3057c84e6) |
+| Sat, 21 Jun 2025 11:52:05 GMT | Why Warehouse Security Guard Services Are Essential to Protect Your Assets? | Sumintra | [Read More](https://medium.com/p/85a5139703b3) |
+| Sat, 21 Jun 2025 11:47:18 GMT | Insecure Deserialization: How a Simple Pickle Can Ruin Your Day | Tal Sperling | [Read More](https://medium.com/p/7fbb21c028e1) |
+| Sat, 21 Jun 2025 11:43:51 GMT | The Door I Never Opened | Isha | [Read More](https://medium.com/p/449cdcbcba2d) |
+| Sat, 21 Jun 2025 11:41:52 GMT | 16 Billion Passwords Leaked: Myth vs. Reality | Isaac Muendo | [Read More](https://medium.com/p/8c8ce6a2a1fd) |
 | Sat, 21 Jun 2025 11:33:01 GMT | Insecure Direct Object Reference (IDOR): A Beginner’s Guide to Finding and Fixing High-Impact… | Andrei Ivan | [Read More](https://medium.com/p/3e777be08ad0) |
 | Sat, 21 Jun 2025 11:32:25 GMT | In the Mask, a Mirror | Adrian | [Read More](https://medium.com/p/5f66818632c4) |
 | Sat, 21 Jun 2025 11:22:51 GMT | A Playbook for Application Security Pentest Reports | Pranieth Chandrasekara | [Read More](https://medium.com/p/a2c9a7f430fc) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 06:12:49 GMT | Shield Your Ideas: How to Protect Your Brand with Patents and Trademarks | Lucastaylor | [Read More](https://medium.com/p/cf27c78f625a) |
 | Sat, 21 Jun 2025 06:08:38 GMT | Cybersecurity Starts Here: Ethical Hacking Foundation Certification | John  Carter | [Read More](https://medium.com/p/d59fe8a9b5d1) |
 | Sat, 21 Jun 2025 06:02:27 GMT | Threat Alert: Shadow IT is Risking Your Business! | oheneba kwaku annor | [Read More](https://medium.com/p/d18d38caadbb) |
-| Sat, 21 Jun 2025 06:00:38 GMT | Today’s Top Cyber Intelligence Highlights — Jun 21, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/a833485ec535) |
-| Sat, 21 Jun 2025 05:54:07 GMT | Learn How to Install Kali Linux on Any Android Phone [2025 Guide]! | Keen | [Read More](https://medium.com/p/abc394a8e825) |
-| Sat, 21 Jun 2025 05:45:28 GMT | U.S.–Sweden Technology Safeguards Agreement: A Strategic Win for Cyber Diplomacy | CCD-IS | [Read More](https://medium.com/p/a7325f1a1a48) |
-| Sat, 21 Jun 2025 05:43:30 GMT | Beyond Today: What Top Tech Companies Demand | bikash Gochhayat | [Read More](https://medium.com/p/7405e307ecbc) |
-| Sat, 21 Jun 2025 05:41:49 GMT | I SLOWED DOWN A WEBSITE USING PING ⏳ (Blind OS Command Injection Walkthrough) | Sumanth Yerranagula | [Read More](https://medium.com/p/0b56410b47de) |
-| Sat, 21 Jun 2025 05:40:38 GMT | Cross-Site Scripting (XSS) | life | [Read More](https://medium.com/p/5a499b747646) |
-| Sat, 21 Jun 2025 05:39:37 GMT | Cross-Site Scripting (XSS) | Kuro | [Read More](https://medium.com/p/9d6d7e89d512) |
-| Sat, 21 Jun 2025 05:21:27 GMT | Information Gatering (Reconnaissance) | life | [Read More](https://medium.com/p/a93855e704eb) |
-| Sat, 21 Jun 2025 05:13:34 GMT | Cross-Site Scripting (XSS) | Emaliaanrhyt | [Read More](https://medium.com/p/5895dc55799b) |
-| Sat, 21 Jun 2025 04:52:38 GMT | 16 Billion Passwords Leaked? Here’s What Actually Happened | Deven Chhajed | [Read More](https://medium.com/p/3e3625808751) |
-| Sat, 21 Jun 2025 04:44:55 GMT | Pro‑Palestine Activists Breach RAF Brize Norton, Vandalise Military Aircraft | BDCN News Official | [Read More](https://medium.com/p/e37e6b61d0f8) |
-| Sat, 21 Jun 2025 04:38:53 GMT | Controversy Erupts Over Japanese Cybersecurity Firm’s Vulnerability Disclosure Practices | Yasunori Kuji | [Read More](https://medium.com/p/3e3bcb6a24df) |
