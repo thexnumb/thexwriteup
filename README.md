@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 06:30:22 GMT | ✍Global Software Defined Perimeter Market Size, Share, Strategies, Key Manufacturers, Trends and… | Yamaguchitabithay | [Read More](https://medium.com/p/b049542886ca) |
+| Sat, 21 Jun 2025 06:29:46 GMT | The Windows Security Journey — VBS (Virtual Based Security) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/d4d7b1f60475) |
+| Sat, 21 Jun 2025 06:27:28 GMT | Adaptive Security Architecture: A Balanced Approach to Protection and Innovation | Shittu | [Read More](https://medium.com/p/a9313174d225) |
+| Sat, 21 Jun 2025 06:20:29 GMT | ✍Global Critical Information Protection Market Size, Share, Key Players, Trends, Sales, Supply… | Patriciastuckey | [Read More](https://medium.com/p/c52d704c7901) |
 | Sat, 21 Jun 2025 06:19:49 GMT | Exploring the Benefits of SwitchBot’s Smart Lock in the Smart Home Industry | Oibandyopadhyay | [Read More](https://medium.com/p/275aa87dcc70) |
 | Sat, 21 Jun 2025 06:15:30 GMT | Code!..The final Frontier | Noel Katawera | [Read More](https://medium.com/p/072a45d07f77) |
 | Sat, 21 Jun 2025 06:12:49 GMT | Shield Your Ideas: How to Protect Your Brand with Patents and Trademarks | Lucastaylor | [Read More](https://medium.com/p/cf27c78f625a) |
@@ -31,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 04:38:53 GMT | Controversy Erupts Over Japanese Cybersecurity Firm’s Vulnerability Disclosure Practices | Yasunori Kuji | [Read More](https://medium.com/p/3e3bcb6a24df) |
 | Sat, 21 Jun 2025 04:36:32 GMT | Simplify Kubernetes Security With Kyverno and OPA Gatekeeper | Adetokunbo Ige | [Read More](https://medium.com/p/16394d6e7dc6) |
 | Sat, 21 Jun 2025 04:35:39 GMT | 140 Vulnerability in Web Application that can make you $50- $20,000 | Rishav anand | [Read More](https://medium.com/p/5ec450d4f5ca) |
+| Sat, 21 Jun 2025 04:29:08 GMT | Pengenalan Penetration Testing | life | [Read More](https://medium.com/p/bee6c0e9677d) |
 | Sat, 21 Jun 2025 04:28:18 GMT | What’s a ‘Safe’ Distance? Preparing for Bombs, Drones, and Missiles at Home and Work | Tina Ginn | [Read More](https://medium.com/p/590dd3581dbf) |
 | Sat, 21 Jun 2025 04:27:05 GMT | Penetration Testing | Kuro | [Read More](https://medium.com/p/ac848a04c0dc) |
 | Sat, 21 Jun 2025 04:27:00 GMT | Penetration Testing | ester | [Read More](https://medium.com/p/481c7ec900d4) |
@@ -108,8 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 19:55:02 GMT | Unpacking iOS Apps: How to Extract IPA Files from Jailbroken iPhone Using Python | Hary Ft | [Read More](https://medium.com/p/8f1169d236c2) |
 | Fri, 20 Jun 2025 19:48:49 GMT | The AI Security Revolution: How Machine Learning Prevents $50M Hacks in Real-Time | Chronos Vault | [Read More](https://medium.com/p/981629498d67) |
 | Fri, 20 Jun 2025 19:32:26 GMT | Day 27: More Operating Systems | Nile Okomo | [Read More](https://medium.com/p/481a4747ee67) |
-| Fri, 20 Jun 2025 19:29:57 GMT | The Salar de Uyuni Wallpaper: Google’s Forgotten Pixel Bug? | Varun Agarwal | [Read More](https://medium.com/p/a5818b8a9056) |
-| Fri, 20 Jun 2025 19:13:21 GMT | Zero Trust, One Router: Hardening Your Home Lab Like a Cyber Fortress. | Devlink Tips | [Read More](https://medium.com/p/567fc3bdf880) |
-| Fri, 20 Jun 2025 19:13:03 GMT | Policy as Code (PaC) with Terraform, Sentinel, and AWS. | Alex | [Read More](https://medium.com/p/d34f6ac036d3) |
-| Fri, 20 Jun 2025 19:08:27 GMT | Firewall Pass Through: What It Means and Why It Matters for Network Security | Akshay Chauhan | [Read More](https://medium.com/p/b6f11cb37073) |
-| Fri, 20 Jun 2025 19:01:34 GMT | Artificial Intelligence in Cybersecurity: A Double-Edged Sword in the IoT Era | Oladipo deborah | [Read More](https://medium.com/p/943d4ee41bac) |
