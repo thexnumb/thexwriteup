@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 23:10:54 GMT | Are HACKERS Watching Your Bank Accounts Right Now? | Priyank Dinesh Gada | [Read More](https://medium.com/p/e0bccf91d335) |
+| Sat, 21 Jun 2025 22:45:33 GMT | Drosera: The Behavioral Firewall for Web3 Security | Leoprince.sats | [Read More](https://medium.com/p/e9f7d7479806) |
 | Sat, 21 Jun 2025 22:39:32 GMT | Why Technical Pitches Get You Delegated | Configr Technologies | [Read More](https://medium.com/p/f3cb62194042) |
+| Sat, 21 Jun 2025 22:39:00 GMT | Google’ın Android Güvenlik Stratejisi: Linux Çekirdeğinin Mobil Dünya İçin Yeniden… | Kaan Ekşi | [Read More](https://medium.com/p/d23d5e32af14) |
+| Sat, 21 Jun 2025 22:36:44 GMT | TryHackMe UltraTech — Walkthrough | mauzware | [Read More](https://medium.com/p/20d6553707d3) |
 | Sat, 21 Jun 2025 22:35:04 GMT | The Game v2 - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/a81bbe1842f4) |
 | Sat, 21 Jun 2025 22:26:17 GMT | Darknet Crawling: A Silent Sentinel Against Imminent Cyber Attacks | A-STAR7_DOCTOR | [Read More](https://medium.com/p/235a4d5072b7) |
 | Sat, 21 Jun 2025 22:26:02 GMT | Ransomeware isn’t just for big companies - We learned the hard way. | Lawrence Quesada | [Read More](https://medium.com/p/fc415c18fa47) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 15:45:36 GMT | How I Taught Myself Reverse Engineering by Hacking a Legal CrackMe Binary (No Law Broken) | Renda Zhang | [Read More](https://medium.com/p/88ec186afeb9) |
 | Sat, 21 Jun 2025 15:40:23 GMT | Project Timeline — CCTV Monitoring Service | Visual Monitoring Solutions | [Read More](https://medium.com/p/cfbfbf70b882) |
 | Sat, 21 Jun 2025 15:40:13 GMT | Siber Güvenlik Eğitimi — 1 (Mitre ATT&CK Taktikleri) | Emre TOPUZ | [Read More](https://medium.com/p/8c66735d0be5) |
-| Sat, 21 Jun 2025 15:38:52 GMT | Complete OPNsense Firewall Setup Guide for Home Networks | ThamizhElango Natarajan | [Read More](https://medium.com/p/6353c407bf5c) |
-| Sat, 21 Jun 2025 15:37:20 GMT | David Velez • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/1d90f7d56625) |
-| Sat, 21 Jun 2025 15:29:56 GMT | The Art of Concealment: A Technical Deep Dive into the Top 10 Steganography Tools | James Alejandro | [Read More](https://medium.com/p/a6407a070ab7) |
-| Sat, 21 Jun 2025 15:29:00 GMT | The Hacker Mindset — How to Think Like a Bug Bounty Hunter | Đeepanshu | [Read More](https://medium.com/p/0eb96afa831e) |
