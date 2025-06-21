@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 22:01:36 GMT | When 16 Billion Passwords Went Public: Lessons from the Biggest Leak Yet | SoumayaJoshi | [Read More](https://medium.com/p/2a83e25e3867) |
+| Sat, 21 Jun 2025 21:57:27 GMT | PenTesting: How to Create, Conceal, and Deploy an Affordable & Expendable “BadUSB” | Ricardo S. | [Read More](https://medium.com/p/6cacf520d0e3) |
+| Sat, 21 Jun 2025 21:40:53 GMT | Browser-in-the-Browser: The New Phishing Frontier | zerOiQ | [Read More](https://medium.com/p/614cd3fddab9) |
 | Sat, 21 Jun 2025 21:32:37 GMT | Network security: Identifies and blocks attacks | Tobias Mathew | [Read More](https://medium.com/p/dd679986b6f8) |
 | Sat, 21 Jun 2025 21:28:30 GMT | Exploring the Smart Home Industry with SwitchBot Smart Locks | acampos2116 | [Read More](https://medium.com/p/c72021f5b1b7) |
 | Sat, 21 Jun 2025 21:24:22 GMT | How to protect your LLM from system prompt leakage? | Debashis Debnath | [Read More](https://medium.com/p/6b0194502bdc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 14:52:48 GMT | What exactly is threat modeling? | Priya | [Read More](https://medium.com/p/affc64837475) |
 | Sat, 21 Jun 2025 14:48:07 GMT | Comprehensive Cyber Threat Intelligence Guide Summary | MinHlaingOo | [Read More](https://medium.com/p/0ddfc48bd51f) |
 | Sat, 21 Jun 2025 14:46:59 GMT | The $100M Nobitex Nightmare: An Analyst’s Breakdown of a Crypto Catastrophe That Shook Iran | Lionel Davey | [Read More](https://medium.com/p/39dab8584149) |
-| Sat, 21 Jun 2025 14:46:54 GMT | Firmware Attack Madness: How Hackers Crippled X Business Across Windows, Linux, and macOS | Noel | [Read More](https://medium.com/p/ef0c878ef3c1) |
-| Sat, 21 Jun 2025 14:46:52 GMT | $3,800 Bounty: How Cache Poisoning Took Down Shopify’s CDN Files — DoS Across Thousands of Stores | Monika sharma | [Read More](https://medium.com/p/f6d7fdc72b26) |
-| Sat, 21 Jun 2025 14:46:45 GMT | Privilege Escalation using Registry Service Escalation on Windows | Ammar Ahmed | [Read More](https://medium.com/p/fac180d5e491) |
