@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 14:31:35 GMT | Day #30 of #60DaysofGRC: All’s FAIR in Risk Quantification | Brittney Ginther | [Read More](https://medium.com/p/fc570aa11d4f) |
+| Sat, 21 Jun 2025 14:30:24 GMT | W1seGuy — Hack in 5 Minutes - Write-Up #6 & video (reverse engineering) | D4m.sh | [Read More](https://medium.com/p/6de2d9f63348) |
+| Sat, 21 Jun 2025 14:25:21 GMT | Take Over — Hack in 5 minuts - Write-Up #5 | D4m.sh | [Read More](https://medium.com/p/b0baf7c3fc3e) |
+| Sat, 21 Jun 2025 14:24:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/77a0c68616a9) |
+| Sat, 21 Jun 2025 14:23:13 GMT | 10 ways to make your website more secure (even as a beginner) | Rajashri Bhamare | [Read More](https://medium.com/p/ce00d434499c) |
+| Sat, 21 Jun 2025 14:19:13 GMT | MCP Security Simplified: Leveraging Google OAuth for Authentication | Velu Sankaran | [Read More](https://medium.com/p/475893c51ce0) |
+| Sat, 21 Jun 2025 14:19:01 GMT | Chasing Ghosts: My Journey to Building a Truly Anonymous Messaging System in 2025 | Nick | [Read More](https://medium.com/p/a9b2cfdba806) |
+| Sat, 21 Jun 2025 14:15:11 GMT | Visualizing Hidden Attack Paths with BloodHound: Building an Intentional AD Lab to Hunt Privilege… | Muhammadhuzaifa | [Read More](https://medium.com/p/8439f6fb21a8) |
 | Sat, 21 Jun 2025 14:15:03 GMT | The cheap Flipper Zero — DIY Flip LieT M5 | Priyank Dinesh Gada | [Read More](https://medium.com/p/7ccb355c3509) |
+| Sat, 21 Jun 2025 14:11:41 GMT | Cyber Resilience in Healthcare: More Than Just an IT Concern | Brittney Ginther | [Read More](https://medium.com/p/9121f54a7e82) |
 | Sat, 21 Jun 2025 14:06:10 GMT | SQLMAP — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/321bf04d4155) |
 | Sat, 21 Jun 2025 14:02:01 GMT | Ghidra Reverse-Engineering on advanced_malware.exe | Lord Murak | [Read More](https://medium.com/p/b9183f3bddbe) |
+| Sat, 21 Jun 2025 13:56:28 GMT | The MongoDB Role Pitfalls That Bit Me: Lessons in Multi-Customer Access Control | Hemanth Babu | [Read More](https://medium.com/p/c782ef848632) |
 | Sat, 21 Jun 2025 13:56:11 GMT | Part 3 — Simulating an APT attack against a modern Bank | Cesaire Njietche Fangang | [Read More](https://medium.com/p/435d3740d257) |
 | Sat, 21 Jun 2025 13:56:10 GMT | Bye-bye Hassle! Here’s an Easy Way to Extract APK from Rooted Android Using Script! | Panggil Aku Paman | [Read More](https://medium.com/p/7f78c774fccf) |
 | Sat, 21 Jun 2025 13:56:01 GMT | TryHackMe - Windows Memory & Network - WriteUp | Axoloth | [Read More](https://medium.com/p/2e6510c2a23c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 08:39:15 GMT | Mòjà Mòsá | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/8b26dc9da9cf) |
 | Sat, 21 Jun 2025 08:35:03 GMT | The 16 Billion Credential Leak: A Wake-Up Call for Everyone | Salman Saleem | [Read More](https://medium.com/p/d74bbcf0c69c) |
 | Sat, 21 Jun 2025 08:31:01 GMT | From Detection to Response: The Power of SOC Solutions | Abhinav Pathak | [Read More](https://medium.com/p/5f912f794c49) |
-| Sat, 21 Jun 2025 08:30:54 GMT | Security Awareness Without the Eye Rolls: My Approach to Building a Culture That Works | Nishitathakkar | [Read More](https://medium.com/p/6d1689a2caf7) |
-| Sat, 21 Jun 2025 08:23:41 GMT | Security Advisory: Masslogger Fileless Malware via .VBE Scripts | CyberNews Daily | [Read More](https://medium.com/p/af78e26fdcaf) |
-| Sat, 21 Jun 2025 08:23:33 GMT | AWS Config | Arijit Naskar | [Read More](https://medium.com/p/0cf527b9edab) |
-| Sat, 21 Jun 2025 08:23:04 GMT | Automation for Smarter Bug Hunting | Monika sharma | [Read More](https://medium.com/p/8ada52923e81) |
-| Sat, 21 Jun 2025 08:21:21 GMT | Unveiling the Shadows: Detecting Web Attacks as a SOC Analyst (Part 1) | Sh3nobi | [Read More](https://medium.com/p/7ea15764109d) |
-| Sat, 21 Jun 2025 08:21:06 GMT | Build Your Eye-Catching Resume Using JSON Resume | MrXcrypt | [Read More](https://medium.com/p/4b5c81fcc59a) |
-| Sat, 21 Jun 2025 08:20:06 GMT | Latest Concerning Ukraine and the Russian Aggressor From a Few Countries | Ain Stærlingsson — UA | [Read More](https://medium.com/p/a14e074e9a11) |
-| Sat, 21 Jun 2025 08:19:59 GMT | DevSecOps: Integrating Security into DevOps | The Stackmentalist | [Read More](https://medium.com/p/a13fbe71dcad) |
-| Sat, 21 Jun 2025 08:19:53 GMT | $5,000 Bounty: How a Single Malformed UDP Packet Took Down Rootstock’s Blockchain Node (CVE-style… | Monika sharma | [Read More](https://medium.com/p/011cceb94819) |
-| Sat, 21 Jun 2025 08:17:38 GMT | The Hidden Cost of Inaction: Retail Store Security in 2025 | Sukhwinder | [Read More](https://medium.com/p/571a86f8ae42) |
