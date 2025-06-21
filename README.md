@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 05:13:34 GMT | Cross-Site Scripting (XSS) | Emaliaanrhyt | [Read More](https://medium.com/p/5895dc55799b) |
+| Sat, 21 Jun 2025 04:52:38 GMT | 16 Billion Passwords Leaked? Here’s What Actually Happened | Deven Chhajed | [Read More](https://medium.com/p/3e3625808751) |
+| Sat, 21 Jun 2025 04:44:55 GMT | Pro‑Palestine Activists Breach RAF Brize Norton, Vandalise Military Aircraft | BDCN News Official | [Read More](https://medium.com/p/e37e6b61d0f8) |
+| Sat, 21 Jun 2025 04:38:53 GMT | Controversy Erupts Over Japanese Cybersecurity Firm’s Vulnerability Disclosure Practices | Yasunori Kuji | [Read More](https://medium.com/p/3e3bcb6a24df) |
+| Sat, 21 Jun 2025 04:36:32 GMT | Simplify Kubernetes Security With Kyverno and OPA Gatekeeper | Adetokunbo Ige | [Read More](https://medium.com/p/16394d6e7dc6) |
+| Sat, 21 Jun 2025 04:35:39 GMT | 140 Vulnerability in Web Application that can make you $50- $20,000 | Rishav anand | [Read More](https://medium.com/p/5ec450d4f5ca) |
 | Sat, 21 Jun 2025 04:28:18 GMT | What’s a ‘Safe’ Distance? Preparing for Bombs, Drones, and Missiles at Home and Work | Tina Ginn | [Read More](https://medium.com/p/590dd3581dbf) |
+| Sat, 21 Jun 2025 04:27:05 GMT | Penetration Testing | Kuro | [Read More](https://medium.com/p/ac848a04c0dc) |
+| Sat, 21 Jun 2025 04:27:00 GMT | Penetration Testing | ester | [Read More](https://medium.com/p/481c7ec900d4) |
 | Sat, 21 Jun 2025 04:20:51 GMT | TakeOver Challenge Room - TryHackMe | Dhwanit Pandya | [Read More](https://medium.com/p/95ebd316dc3f) |
 | Sat, 21 Jun 2025 04:14:03 GMT | Why You Should be Testing Your Detection Rules — Part 2 | Bill Mahony | [Read More](https://medium.com/p/0c485b55bc82) |
 | Sat, 21 Jun 2025 04:05:25 GMT | Cybersecurity Awareness: 16 Billion Passwords Leaked — What You Need To Know! | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/998708247abd) |
@@ -105,11 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 18:21:08 GMT | The $2.3 Million Data Breach That Could’ve Been Prevented: A Complete Guide to Trino Security | Prem Vishnoi(cloudvala) | [Read More](https://medium.com/p/f478c8bb5cea) |
 | Fri, 20 Jun 2025 18:14:30 GMT | Bug Bounty report: CVE-2020–11993 | Hasan Azizov | [Read More](https://medium.com/p/e3bbca4995df) |
 | Fri, 20 Jun 2025 18:10:52 GMT | What is a Virtual Machine? How it works and why it matters (for beginners) | Zeli | [Read More](https://medium.com/p/5cdc6ff758af) |
-| Fri, 20 Jun 2025 18:09:00 GMT | How Much Time Do You Spend Looking At Ads? | Alex Einfelt | [Read More](https://medium.com/p/9b93059d6d57) |
-| Fri, 20 Jun 2025 18:04:35 GMT | Log Me Maybe: When Log Files Leaked Secrets I Wasn’t Meant to See ️ | Iski | [Read More](https://medium.com/p/a3db4d2624b7) |
-| Fri, 20 Jun 2025 18:03:43 GMT | Sign Up with Google vs Email: What Really Happens Behind the Scenes? | Lithuvarshni | [Read More](https://medium.com/p/dff262039b0d) |
-| Fri, 20 Jun 2025 18:01:12 GMT | Real Eyes. Real Time. Real Protection. | Visual Monitoring Solutions | [Read More](https://medium.com/p/1fb09b45ffe9) |
-| Fri, 20 Jun 2025 18:00:10 GMT | Beyond Passwords: Embracing the Future of Digital Security | Anthony Anaedu | [Read More](https://medium.com/p/7f3f08ef9107) |
-| Fri, 20 Jun 2025 17:56:33 GMT | Apresentando o PRT Honeypot: a primeira aplicação da Cartesi Rollup com sistema antifraude PRT na… | Cartesi Brasil | [Read More](https://medium.com/p/de5750f768f5) |
-| Fri, 20 Jun 2025 17:56:01 GMT | Breaking Polyalphabetic Cipher: Krypton 4 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/c2a8555ac697) |
-| Fri, 20 Jun 2025 17:54:15 GMT | Uncovering a simple signup bug for a three-digit bounty | Mustafa Hatab | [Read More](https://medium.com/p/8b3314343c41) |
