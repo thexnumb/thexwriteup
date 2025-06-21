@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 21:11:37 GMT | Why Most Hackers Fail at Finding Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/daf11b7e074b) |
+| Sat, 21 Jun 2025 21:06:45 GMT | Wazuh Alerting Integration: Real-Time Notifications with NTFY, NGINX, and SSL | Yash Patel | [Read More](https://medium.com/p/f34b27c37df5) |
+| Sat, 21 Jun 2025 20:58:11 GMT | Bypassing Filters via XML Encoding to Perform SQL Injection for Bug Hunting with BurpSuite | Aditya Bhatt | [Read More](https://medium.com/p/1db9b7b486e8) |
+| Sat, 21 Jun 2025 20:50:41 GMT | From Headache to Handled: How Identity Middleware Simplifies Development | Samadhi Pratheesha | [Read More](https://medium.com/p/69c0b14a7185) |
+| Sat, 21 Jun 2025 20:47:46 GMT | 16 BILLION PASSWORDS LEAKED INCLUDING YOURS (MUST READ) | Jasnoor Singh | [Read More](https://medium.com/p/7f495df30eff) |
+| Sat, 21 Jun 2025 20:42:33 GMT | Logic Issue Allowed  me to Takeover Any User Account | Hamzadzworm | [Read More](https://medium.com/p/5aaa3566e620) |
+| Sat, 21 Jun 2025 20:41:27 GMT | The 16 Billion Password “Breach” That Wasn’t: Debunking the Latest Cybersecurity Headlines | Vishal Kendre | [Read More](https://medium.com/p/6bd62b9a8e3d) |
+| Sat, 21 Jun 2025 20:40:35 GMT | Exploring the Benefits of Automatic Blind Openers in Smart Homes | andrew924046 | [Read More](https://medium.com/p/df69e6e93d69) |
+| Sat, 21 Jun 2025 20:40:29 GMT | Prompt injection, what & how to mitigate? | Debashis Debnath | [Read More](https://medium.com/p/d27c08577528) |
+| Sat, 21 Jun 2025 20:38:38 GMT | Proof-of-Favo: A Hybrid Consensus Architecture for the Mobile Web3 Era | MrFavo | [Read More](https://medium.com/p/bddef5d6f970) |
+| Sat, 21 Jun 2025 20:37:17 GMT | I Am Myself — The Story of SafeGuard.AI | Zubair Arshad Raoter | [Read More](https://medium.com/p/96a9ffc17d87) |
+| Sat, 21 Jun 2025 20:36:36 GMT | The gentle way out. | Moniqua.Fogosa | [Read More](https://medium.com/p/7b6c82b16612) |
 | Sat, 21 Jun 2025 20:35:03 GMT | Adversarial AI Digest — June, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/4ad20950d7bb) |
 | Sat, 21 Jun 2025 20:28:01 GMT | Certifications vs Practice? | Pablo Vergara | [Read More](https://medium.com/p/a41803352175) |
 | Sat, 21 Jun 2025 20:23:23 GMT | How I Bypassed 2FA and Took Over Accounts with a Simple Brute Force Attack | Rishant Arora | [Read More](https://medium.com/p/68ffc5cf5bd0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 14:31:35 GMT | Day #30 of #60DaysofGRC: All’s FAIR in Risk Quantification | Brittney Ginther | [Read More](https://medium.com/p/fc570aa11d4f) |
 | Sat, 21 Jun 2025 14:30:24 GMT | W1seGuy — Hack in 5 Minutes - Write-Up #6 & video (reverse engineering) | D4m.sh | [Read More](https://medium.com/p/6de2d9f63348) |
 | Sat, 21 Jun 2025 14:25:21 GMT | Take Over — Hack in 5 minuts - Write-Up #5 | D4m.sh | [Read More](https://medium.com/p/b0baf7c3fc3e) |
-| Sat, 21 Jun 2025 14:24:04 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/77a0c68616a9) |
-| Sat, 21 Jun 2025 14:23:13 GMT | 10 ways to make your website more secure (even as a beginner) | Rajashri Bhamare | [Read More](https://medium.com/p/ce00d434499c) |
-| Sat, 21 Jun 2025 14:19:13 GMT | MCP Security Simplified: Leveraging Google OAuth for Authentication | Velu Sankaran | [Read More](https://medium.com/p/475893c51ce0) |
-| Sat, 21 Jun 2025 14:19:01 GMT | Chasing Ghosts: My Journey to Building a Truly Anonymous Messaging System in 2025 | Nick | [Read More](https://medium.com/p/a9b2cfdba806) |
-| Sat, 21 Jun 2025 14:15:11 GMT | Visualizing Hidden Attack Paths with BloodHound: Building an Intentional AD Lab to Hunt Privilege… | Muhammadhuzaifa | [Read More](https://medium.com/p/8439f6fb21a8) |
-| Sat, 21 Jun 2025 14:15:03 GMT | The cheap Flipper Zero — DIY Flip LieT M5 | Priyank Dinesh Gada | [Read More](https://medium.com/p/7ccb355c3509) |
-| Sat, 21 Jun 2025 14:11:41 GMT | Cyber Resilience in Healthcare: More Than Just an IT Concern | Brittney Ginther | [Read More](https://medium.com/p/9121f54a7e82) |
-| Sat, 21 Jun 2025 14:06:10 GMT | SQLMAP — Walkthrough Try Hack Me | Ancava | [Read More](https://medium.com/p/321bf04d4155) |
-| Sat, 21 Jun 2025 14:02:01 GMT | Ghidra Reverse-Engineering on advanced_malware.exe | Lord Murak | [Read More](https://medium.com/p/b9183f3bddbe) |
-| Sat, 21 Jun 2025 13:56:28 GMT | The MongoDB Role Pitfalls That Bit Me: Lessons in Multi-Customer Access Control | Hemanth Babu | [Read More](https://medium.com/p/c782ef848632) |
-| Sat, 21 Jun 2025 13:56:11 GMT | Part 3 — Simulating an APT attack against a modern Bank | Cesaire Njietche Fangang | [Read More](https://medium.com/p/435d3740d257) |
-| Sat, 21 Jun 2025 13:56:10 GMT | Bye-bye Hassle! Here’s an Easy Way to Extract APK from Rooted Android Using Script! | Panggil Aku Paman | [Read More](https://medium.com/p/7f78c774fccf) |
