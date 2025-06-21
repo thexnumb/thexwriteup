@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 18:23:31 GMT | Israel’s Iron Dome Fall Flat | mahwish qayyum | [Read More](https://medium.com/p/001767ece8b3) |
+| Sat, 21 Jun 2025 18:18:38 GMT | CTF Day(21) | Ahmed Narmer | [Read More](https://medium.com/p/1609f905029b) |
 | Sat, 21 Jun 2025 18:15:40 GMT | Companies Are Getting Worse, & (Most) Aren’t Going Anywhere | Alex Einfelt | [Read More](https://medium.com/p/6328dd2410f7) |
 | Sat, 21 Jun 2025 18:14:40 GMT | JWT Authentication using Private and Public Keys | Muyiwa-dev | [Read More](https://medium.com/p/25c1de8fb933) |
 | Sat, 21 Jun 2025 18:12:47 GMT | Docker Scout: Complete Guide for Securing Container Images at Scale | Flavius Dinu | [Read More](https://medium.com/p/5db1c4f14b11) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 12:41:58 GMT | The 16 Billion Password Leak: A Wake-Up Call for Global Cyber Hygiene | Chetan Seripally | [Read More](https://medium.com/p/92de325f4920) |
 | Sat, 21 Jun 2025 12:36:58 GMT | SecretShare : Secure, One-Time Access to Secrets (Built with UCANs + Storacha️) | Akash Jana | [Read More](https://medium.com/p/6f01867cc9f0) |
 | Sat, 21 Jun 2025 12:32:37 GMT | Day 4/30 : Tracking Digital Trails with Maltego — An OSINT Beginner’s Journey | Cyphersilhouette | [Read More](https://medium.com/p/ff5b56b3543f) |
-| Sat, 21 Jun 2025 12:29:53 GMT | How I Found a User Enumeration Flaw Through Password Reset Logic | Gouri Sankar A | [Read More](https://medium.com/p/9b7c01dbf0fe) |
-| Sat, 21 Jun 2025 12:29:04 GMT | Cyber Law in India: Protect Your Digital Rights | Ankitinnjoshi | [Read More](https://medium.com/p/41366ffb8e6b) |
