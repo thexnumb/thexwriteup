@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 03:46:50 GMT | Quantum-Resistant Cryptography: Preparing for the Post-Quantum Era | Ekene Joseph | [Read More](https://medium.com/p/fa0b36f1f95b) |
+| Sat, 21 Jun 2025 03:38:47 GMT | Exploring the Future of Smart Homes with SwitchBot’s Smart Lock | Mimmmm | [Read More](https://medium.com/p/0fc127632fa2) |
+| Sat, 21 Jun 2025 03:31:41 GMT | Conduent Data Breach: Dissecting the Digital Intrusion That Shook Public Infrastructure | Deven Chhajed | [Read More](https://medium.com/p/f617ceb03932) |
 | Sat, 21 Jun 2025 03:10:41 GMT | What companies have been affected by major cyberattacks in 2025? | Lamidi Idris | [Read More](https://medium.com/p/c7d943a14a1c) |
 | Sat, 21 Jun 2025 03:06:12 GMT | Mastering Microsoft Defender Visibility with PowerShell | Kerpink Williams | [Read More](https://medium.com/p/ad94a082a953) |
 | Sat, 21 Jun 2025 03:02:40 GMT | 2025 Global Nuclear Crisis — Arsenals Surge, Treaties Collapse, Mayhem Looms | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/ed92bf01d895) |
@@ -110,6 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 17:40:12 GMT | Security Automation: How I Built a Personalized RSS Threat Feed Tracker using Power Automate and… | Erin Martin | [Read More](https://medium.com/p/e5541cd620ac) |
 | Fri, 20 Jun 2025 17:38:43 GMT | Cyber Proxy War in the Shadow of a U.S. Invasion of Iran | SIMKRA | [Read More](https://medium.com/p/aeac95dd308f) |
 | Fri, 20 Jun 2025 17:37:34 GMT | CVE-2025–0133: Reflected XSS Vulnerability in Palo Alto GlobalProtect Gateway & Portal | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/028128f2f5b9) |
-| Fri, 20 Jun 2025 17:37:00 GMT | The Invisible Hack: Inside the Shadow Process Injection Attack That Stunned a Small Business in… | Noel | [Read More](https://medium.com/p/7e5d98da08ea) |
-| Fri, 20 Jun 2025 17:36:37 GMT | Do You Know About Security Principles? | Mainekdeveloper | [Read More](https://medium.com/p/97e9f4fc6c86) |
-| Fri, 20 Jun 2025 17:36:01 GMT | Blaster — A Brutal Domain Reconnaissance Tool Built with Python | Muhammad Usman Faridi | [Read More](https://medium.com/p/350a52b38d77) |
