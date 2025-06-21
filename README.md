@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 03:10:41 GMT | What companies have been affected by major cyberattacks in 2025? | Lamidi Idris | [Read More](https://medium.com/p/c7d943a14a1c) |
+| Sat, 21 Jun 2025 03:06:12 GMT | Mastering Microsoft Defender Visibility with PowerShell | Kerpink Williams | [Read More](https://medium.com/p/ad94a082a953) |
+| Sat, 21 Jun 2025 03:02:40 GMT | 2025 Global Nuclear Crisis — Arsenals Surge, Treaties Collapse, Mayhem Looms | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/ed92bf01d895) |
+| Sat, 21 Jun 2025 03:02:39 GMT | 21 Days to Nine Bombs — Inside Iran’s Mountain Nuclear Fortress and Israel’s Strategic Nightmare | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/820114140c09) |
+| Sat, 21 Jun 2025 03:02:39 GMT | Cyber Frontlines: How COMCYBER and NATO Battle Disinformation and AI Threats in Modern Warfare | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/bea7fe70be09) |
+| Sat, 21 Jun 2025 02:59:46 GMT | Lecture Notes: Endpoint Security | Yudhistira Nugraha | [Read More](https://medium.com/p/ed9a4cfc6611) |
+| Sat, 21 Jun 2025 02:59:02 GMT | Crush the AD: Your Ultimate Roadmap to Dominating Active Directory in OSCP, PNPT, and PJPT , PT1… | MRX.0 | [Read More](https://medium.com/p/46c59e4b918c) |
+| Sat, 21 Jun 2025 02:39:34 GMT | ##  From Clinical Applications to Cloud Exploits: A Transition into AI Red Teaming and… | David B. Cox | [Read More](https://medium.com/p/a42256416c78) |
+| Sat, 21 Jun 2025 02:32:41 GMT | How to Protect Yourself from Cyber Crime | Paresh Kukadiya | [Read More](https://medium.com/p/0116e9b6e396) |
+| Sat, 21 Jun 2025 02:32:32 GMT | My Conversation with Mr. A: Navigating the Cybersecurity Career Landscape[Informational Interview] | Toki | [Read More](https://medium.com/p/148fe1babe5d) |
+| Sat, 21 Jun 2025 02:10:21 GMT | Security Compliance in the Digital Era: A Must-Have for Every Industry | Rajkumar Govindasamy | [Read More](https://medium.com/p/b0bf8860c744) |
+| Sat, 21 Jun 2025 02:10:10 GMT | How Your Data Science Internship Can Power a Cybersecurity Career [Informational Interview] | Toki | [Read More](https://medium.com/p/a55e62fb7d28) |
+| Sat, 21 Jun 2025 01:41:33 GMT | The Silent War in the Boardroom: When Corporate Power Kills the Human Spirit | Himanshunya | [Read More](https://medium.com/p/e9658c1d25eb) |
 | Sat, 21 Jun 2025 01:29:46 GMT | Automating XSS using Dalfox, GF and Waybackurls | イズミー | [Read More](https://medium.com/p/07bc93d8723d) |
 | Sat, 21 Jun 2025 01:25:05 GMT | A vast collection of 16 billion stolen passwords was uncovered. Here’s what to do. | Adnan Hasan | [Read More](https://medium.com/p/4e31a5feec86) |
 | Sat, 21 Jun 2025 01:16:58 GMT | Automating SQL Injection using Dalfox, GF and Waybackurls | イズミー | [Read More](https://medium.com/p/f6b56176b46f) |
@@ -100,16 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 17:37:00 GMT | The Invisible Hack: Inside the Shadow Process Injection Attack That Stunned a Small Business in… | Noel | [Read More](https://medium.com/p/7e5d98da08ea) |
 | Fri, 20 Jun 2025 17:36:37 GMT | Do You Know About Security Principles? | Mainekdeveloper | [Read More](https://medium.com/p/97e9f4fc6c86) |
 | Fri, 20 Jun 2025 17:36:01 GMT | Blaster — A Brutal Domain Reconnaissance Tool Built with Python | Muhammad Usman Faridi | [Read More](https://medium.com/p/350a52b38d77) |
-| Fri, 20 Jun 2025 17:34:48 GMT | ⚖️ What a Catamaran Cruise Taught Me About the FAIR Risk Model | Brittney Ginther | [Read More](https://medium.com/p/3209d002d9c1) |
-| Fri, 20 Jun 2025 17:32:45 GMT | Hackers Used a Printer to Breach a Company — Here’s How to Stop It from Happening to You | Noel | [Read More](https://medium.com/p/471cf97384fa) |
-| Fri, 20 Jun 2025 17:32:34 GMT | 3. Detecting Attackers with a Honey User Trap | abdelrahman ahmed amin | [Read More](https://medium.com/p/381bcf1e76a4) |
-| Fri, 20 Jun 2025 17:28:05 GMT | How $300 Was Earned by Exploiting Sorare’s Captain Logic Flaw | Monika sharma | [Read More](https://medium.com/p/9dbd836c315b) |
-| Fri, 20 Jun 2025 17:27:57 GMT | Why Chrome Desktop Should Prompt for Re-Authentication Before Viewing Passwords — A Security… | RV Sharma | [Read More](https://medium.com/p/235f202069ef) |
-| Fri, 20 Jun 2025 17:22:11 GMT | Desvendando o AWS SSM Parameter Store: Gerenciamento Seguro de Configurações na Nuvem | Vinicius Santos | [Read More](https://medium.com/p/6b7e74e1e658) |
-| Fri, 20 Jun 2025 17:20:36 GMT | This Is How Tech Companies Are Designing You — Not Just Your Apps | Hafizbilaltariq | [Read More](https://medium.com/p/c7905a97b0b6) |
-| Fri, 20 Jun 2025 17:07:24 GMT | Dork Recon to self-learn unique stuff | AbhirupKonwar | [Read More](https://medium.com/p/2c9f78ff5661) |
-| Fri, 20 Jun 2025 17:05:59 GMT | Data Leaked on Dark Web? Secure Your Passwords to be Protected | Hoplon Infosec | [Read More](https://medium.com/p/9728d25b89ed) |
-| Fri, 20 Jun 2025 17:03:49 GMT | How I Deployed a Honeypot on Azure and Built an Attack Map with Microsoft Sentinel | Naveen Kumar Narasimhan | [Read More](https://medium.com/p/d02fa8031c14) |
-| Fri, 20 Jun 2025 16:59:13 GMT | The Dark Side of Pentesting: How Wireless Security Tools Can Be Weaponized | Beth Cochran | [Read More](https://medium.com/p/895e80de357e) |
-| Fri, 20 Jun 2025 16:57:48 GMT | Do All Transfer PayPal Whatsapp : : +1(616) 202–1156 cashapp Bank western union Zelle and close… | Gonzalezablerta | [Read More](https://medium.com/p/be80ee54824c) |
-| Fri, 20 Jun 2025 16:48:50 GMT | How I Made My Kali Linux Terminal Look Awesome in 5 Minutes | Saikat Paul | [Read More](https://medium.com/p/32a666f99301) |
