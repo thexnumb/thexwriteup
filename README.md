@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 22:39:32 GMT | Why Technical Pitches Get You Delegated | Configr Technologies | [Read More](https://medium.com/p/f3cb62194042) |
+| Sat, 21 Jun 2025 22:35:04 GMT | The Game v2 - TryHackMe Write-Up | Andrew Castellano | [Read More](https://medium.com/p/a81bbe1842f4) |
+| Sat, 21 Jun 2025 22:26:17 GMT | Darknet Crawling: A Silent Sentinel Against Imminent Cyber Attacks | A-STAR7_DOCTOR | [Read More](https://medium.com/p/235a4d5072b7) |
+| Sat, 21 Jun 2025 22:26:02 GMT | Ransomeware isn’t just for big companies - We learned the hard way. | Lawrence Quesada | [Read More](https://medium.com/p/fc415c18fa47) |
+| Sat, 21 Jun 2025 22:24:12 GMT | How to Secure Your Side Hustle: A Beginner’s Guide for Freelancers & Solopreneurs | Ayush Jain | [Read More](https://medium.com/p/ddb020d3b9c1) |
+| Sat, 21 Jun 2025 22:16:01 GMT | Nmap Power Techniques: Scan Smarter, Not Harder | Karthikeyan Nagaraj | [Read More](https://medium.com/p/7495bd2ad232) |
+| Sat, 21 Jun 2025 22:15:21 GMT | Microsoft Wallet in Edge is Changing: Here’s What’s Coming - VBM | Marcus Spencer | [Read More](https://medium.com/p/9c7fe8aedf87) |
+| Sat, 21 Jun 2025 22:14:16 GMT | How Post‑Quantum Cryptography Could Have Stopped the $1.5 Billion Bybit Hack | QuantumGenie | [Read More](https://medium.com/p/6dedcf71c531) |
+| Sat, 21 Jun 2025 22:08:35 GMT | Cybersecurity Starter Kit for Small Businesses | Ayush Jain | [Read More](https://medium.com/p/8094504bbd9a) |
 | Sat, 21 Jun 2025 22:01:36 GMT | When 16 Billion Passwords Went Public: Lessons from the Biggest Leak Yet | SoumayaJoshi | [Read More](https://medium.com/p/2a83e25e3867) |
 | Sat, 21 Jun 2025 21:57:27 GMT | PenTesting: How to Create, Conceal, and Deploy an Affordable & Expendable “BadUSB” | Ricardo S. | [Read More](https://medium.com/p/6cacf520d0e3) |
 | Sat, 21 Jun 2025 21:40:53 GMT | Browser-in-the-Browser: The New Phishing Frontier | zerOiQ | [Read More](https://medium.com/p/614cd3fddab9) |
@@ -52,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 19:08:31 GMT | Scaling to 1 Million Users in AWS: The Architecture I Wish I Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/235c2a9907d8) |
 | Sat, 21 Jun 2025 19:04:59 GMT | Exploring the Smart Home Industry with SwitchBot: The Future of NFC Door Locks | turnerlaurie5245 | [Read More](https://medium.com/p/53ee08ce7a4a) |
 | Sat, 21 Jun 2025 19:03:23 GMT | CoinMarketCap Hit by Wallet Scam Popup, Here’s What Really Happened ️ | CoinGen | [Read More](https://medium.com/p/3053a001be1e) |
+| Sat, 21 Jun 2025 18:58:17 GMT | OSCP: Proving Grounds — Payday | Fehzan Vayani | [Read More](https://medium.com/p/6942ad48f071) |
 | Sat, 21 Jun 2025 18:45:31 GMT | Demystifying API Authentication — Part 2 | Leela Kumili | [Read More](https://medium.com/p/4b5ee24a16bf) |
 | Sat, 21 Jun 2025 18:23:31 GMT | Israel’s Iron Dome Fall Flat | mahwish qayyum | [Read More](https://medium.com/p/001767ece8b3) |
 | Sat, 21 Jun 2025 18:18:38 GMT | CTF Day(21) | Ahmed Narmer | [Read More](https://medium.com/p/1609f905029b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 15:37:20 GMT | David Velez • Vegachí • Colombia | Webresultsveg | [Read More](https://medium.com/p/1d90f7d56625) |
 | Sat, 21 Jun 2025 15:29:56 GMT | The Art of Concealment: A Technical Deep Dive into the Top 10 Steganography Tools | James Alejandro | [Read More](https://medium.com/p/a6407a070ab7) |
 | Sat, 21 Jun 2025 15:29:00 GMT | The Hacker Mindset — How to Think Like a Bug Bounty Hunter | Đeepanshu | [Read More](https://medium.com/p/0eb96afa831e) |
-| Sat, 21 Jun 2025 15:15:22 GMT | Titanic Write-up | D_F4u1t | [Read More](https://medium.com/p/b5ec6466b41a) |
-| Sat, 21 Jun 2025 15:10:44 GMT | When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms | TakiasSec | [Read More](https://medium.com/p/4f3d0a68fab0) |
-| Sat, 21 Jun 2025 15:04:43 GMT | PAN-OS CVE-2025–0133 - XSS | RivuDon | [Read More](https://medium.com/p/d7ae25212005) |
-| Sat, 21 Jun 2025 14:59:58 GMT | Light: TryHackMe Writeup | Jad Ghamloush | [Read More](https://medium.com/p/50708e215b37) |
-| Sat, 21 Jun 2025 14:55:09 GMT | Linux Command Line Interface (CLI) — Part 7: Command Types, Quoting & Operators | Bharath | [Read More](https://medium.com/p/3382a3eb7fca) |
-| Sat, 21 Jun 2025 14:53:43 GMT | The Largest Password Leak in History: 16 Billion Credentials Exposed — What It Means for Your… | Cyber Canvas | [Read More](https://medium.com/p/fe4dc0e5697e) |
-| Sat, 21 Jun 2025 14:52:57 GMT | Sharing My Lowest Moment With You! | vibha pathak | [Read More](https://medium.com/p/e0049523a6ed) |
-| Sat, 21 Jun 2025 14:52:48 GMT | What exactly is threat modeling? | Priya | [Read More](https://medium.com/p/affc64837475) |
-| Sat, 21 Jun 2025 14:48:07 GMT | Comprehensive Cyber Threat Intelligence Guide Summary | MinHlaingOo | [Read More](https://medium.com/p/0ddfc48bd51f) |
-| Sat, 21 Jun 2025 14:46:59 GMT | The $100M Nobitex Nightmare: An Analyst’s Breakdown of a Crypto Catastrophe That Shook Iran | Lionel Davey | [Read More](https://medium.com/p/39dab8584149) |
