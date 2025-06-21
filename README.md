@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 15:29:00 GMT | The Hacker Mindset — How to Think Like a Bug Bounty Hunter | Đeepanshu | [Read More](https://medium.com/p/0eb96afa831e) |
 | Sat, 21 Jun 2025 15:15:22 GMT | Titanic Write-up | D_F4u1t | [Read More](https://medium.com/p/b5ec6466b41a) |
 | Sat, 21 Jun 2025 15:10:44 GMT | When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms | TakiasSec | [Read More](https://medium.com/p/4f3d0a68fab0) |
 | Sat, 21 Jun 2025 15:04:43 GMT | PAN-OS CVE-2025–0133 - XSS | RivuDon | [Read More](https://medium.com/p/d7ae25212005) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 09:34:06 GMT | I Built an AI Threat Intel Dashboard to Redefine Modern Cyber Defense | Kerpink Williams | [Read More](https://medium.com/p/412a3c9fa58b) |
 | Sat, 21 Jun 2025 09:30:51 GMT | Building a Local Password Manager with Python | Sai Sathvika Chalasani | [Read More](https://medium.com/p/23a290a35abb) |
 | Sat, 21 Jun 2025 09:23:33 GMT | ⏰ From Time Bombs to Trust Traps: Why Chagu Is Your Shield in the Age of AI-Generated Code | Talex Maxim (taimax13) | [Read More](https://medium.com/p/00bb3016cfbc) |
-| Sat, 21 Jun 2025 09:17:00 GMT | How to Make a WiFi Duck Using Arduino Pro Micro & ESP8266 | Shresthaakash | [Read More](https://medium.com/p/df6e25787763) |
