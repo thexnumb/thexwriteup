@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 16:38:09 GMT | LoRanOS - Operating System to display Hardware Information | Lochithya Hettiarachchi | [Read More](https://medium.com/p/acbe6a0fe8ed) |
+| Sat, 21 Jun 2025 16:35:55 GMT | JavaScript’s Dark Mode Revolution: Why Devs Are Ditching Light UIs Forever | Lakshika | [Read More](https://medium.com/p/20ade157160e) |
+| Sat, 21 Jun 2025 16:35:48 GMT | Gaining Internal Access via Network Pivoting with Ligolo-ng | miquela | [Read More](https://medium.com/p/28c3f167437a) |
+| Sat, 21 Jun 2025 16:35:24 GMT | ️ 5 Free Tools Every Beginner Hacker Must Use in 2025 | NOTHING ANON | [Read More](https://medium.com/p/6d0b30d78945) |
+| Sat, 21 Jun 2025 16:31:37 GMT | Complete Step-by-Step Guide to Clear OSCP Certification: From Zero to Penetration Testing Expert | Saikat Paul | [Read More](https://medium.com/p/b088f7c5d8d5) |
+| Sat, 21 Jun 2025 16:30:54 GMT | JWTs Are Not Session Tokens , Stop Using Them Like One | ThreadSafe Diaries | [Read More](https://medium.com/p/c1901ae8c670) |
+| Sat, 21 Jun 2025 16:29:55 GMT | TI for fun, or more: a more serious OpenCTI | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/d70e6cd7b022) |
+| Sat, 21 Jun 2025 16:23:27 GMT | CIA TRIAD IN CYBER SECURITY | Inkaranabinavan | [Read More](https://medium.com/p/6664e2db197b) |
+| Sat, 21 Jun 2025 16:23:17 GMT | how to claim your SOLAXY ($SOLX) reward tokens now that the presale is over: | Bitcoinpepe | [Read More](https://medium.com/p/f21a6b06d079) |
+| Sat, 21 Jun 2025 16:21:51 GMT | how you can claim your Solaxy ($SOLX) presale and early-user airdrop rewards: | Bitcoinpepe | [Read More](https://medium.com/p/5d737b17e25c) |
+| Sat, 21 Jun 2025 16:19:53 GMT | Here’s an improved and up-to-date guide on how to claim your Solaxy ($SOLX) presale reward tokens: | Bitcoinpepe | [Read More](https://medium.com/p/7cf9c063b9c6) |
+| Sat, 21 Jun 2025 16:15:14 GMT | Cyberworld Series: OWASP Overview | Cyberworld | [Read More](https://medium.com/p/67ad358c20db) |
 | Sat, 21 Jun 2025 16:01:43 GMT | HIW — happy shopping: Como se realiza la venta de stealers en telegram | umbraXsecure | [Read More](https://medium.com/p/6cde85c8a098) |
 | Sat, 21 Jun 2025 16:00:40 GMT | CIA Triad in Cyber Security | Suthakaran Shansuthan | [Read More](https://medium.com/p/04e31e1ed620) |
 | Sat, 21 Jun 2025 15:59:56 GMT | The Perimeter is Dead. Now What? | ZENcurity | [Read More](https://medium.com/p/9c8439bc4dca) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 10:56:28 GMT | GTFO, Root: A Practical Sudo Audit Script for GTFOBins Escapes | Lukasjohannesmoeller | [Read More](https://medium.com/p/efde7745a8a5) |
 | Sat, 21 Jun 2025 10:49:39 GMT | Top 17 Cyber Threat Facts You Can’t Afford to Ignore in 2025 | Err0rr0rre | [Read More](https://medium.com/p/9ae041e44177) |
 | Sat, 21 Jun 2025 10:48:23 GMT | Android Cihazları Hedef Alan Bankacılık Truva Atı: Godfather | Şervan Alkan | [Read More](https://medium.com/p/044777acd751) |
-| Sat, 21 Jun 2025 10:47:07 GMT | Rosetta 2 for Hackers and Reverse Engineers | Harshad Shah | [Read More](https://medium.com/p/b92b93da70dd) |
-| Sat, 21 Jun 2025 10:39:19 GMT | Introduction to SQL Injection Course in Delhi - What is SQL Injection? | Crawsec | [Read More](https://medium.com/p/4094bd27d734) |
-| Sat, 21 Jun 2025 10:39:18 GMT | CyberExam PHP Strikes — CVE-2024–4577 Write-Up | Halil İbrahim Kuş | [Read More](https://medium.com/p/f5dfa1cb7286) |
-| Sat, 21 Jun 2025 10:37:13 GMT | Insider Threats: When the Enemy Within is the Most Dangerous | Pavlović Goran | [Read More](https://medium.com/p/9fedd13e3538) |
-| Sat, 21 Jun 2025 10:32:07 GMT | Cybersecurity and ChatGPT — Use Bots to Fight Bots | Bluechip Advanced Technologies | [Read More](https://medium.com/p/a9bc4754a3db) |
-| Sat, 21 Jun 2025 10:26:35 GMT | UIRI part two… | Jorryn Kirabo | [Read More](https://medium.com/p/897d989e4853) |
-| Sat, 21 Jun 2025 10:25:56 GMT | CoinMarketCap Client-Side Attack: A Comprehensive Analysis by c/side | c/side | [Read More](https://medium.com/p/ce0b58e77dec) |
-| Sat, 21 Jun 2025 10:18:09 GMT | Understanding Attack Surfaces and Vectors | Richard Dosumu | [Read More](https://medium.com/p/5db1eec03c7e) |
-| Sat, 21 Jun 2025 10:11:01 GMT | Cyber Security Analyst Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/3b53bd9d2b5e) |
-| Sat, 21 Jun 2025 10:07:11 GMT | hm..Looking for some lost pieces | Z1ER0 | [Read More](https://medium.com/p/28061bcc1b1e) |
-| Sat, 21 Jun 2025 10:04:36 GMT | Crypto Wallets and Real-World Danger: The Brutal Rise of Wrench Attacks | CoinGen | [Read More](https://medium.com/p/ffcc30c6b897) |
-| Sat, 21 Jun 2025 09:56:51 GMT | How to Write a Perfect Bug Bounty Report (with Examples) | 127.0.0.1 | [Read More](https://medium.com/p/d6c72dad2ab4) |
