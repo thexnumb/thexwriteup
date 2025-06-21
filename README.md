@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 20:35:03 GMT | Adversarial AI Digest — June, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/4ad20950d7bb) |
+| Sat, 21 Jun 2025 20:28:01 GMT | Certifications vs Practice? | Pablo Vergara | [Read More](https://medium.com/p/a41803352175) |
+| Sat, 21 Jun 2025 20:23:23 GMT | How I Bypassed 2FA and Took Over Accounts with a Simple Brute Force Attack | Rishant Arora | [Read More](https://medium.com/p/68ffc5cf5bd0) |
+| Sat, 21 Jun 2025 20:19:07 GMT | US Cyber Open(Season 5) Write-up | Nashtavirs | [Read More](https://medium.com/p/c03a35b11317) |
 | Sat, 21 Jun 2025 20:08:22 GMT | PRESTITO ONLINE SENZA CONTROLLO DEL CREDITO: SEMPLIFICA LA TUA VITA CON I NOSTRI SERVIZI….WHATSAPP: | Alialsward | [Read More](https://medium.com/p/44b4030c1ceb) |
 | Sat, 21 Jun 2025 19:58:12 GMT | AWS re: Inforce 2025 - Keynote, Sessions, and My Security Highlights | Sena Yakut | [Read More](https://medium.com/p/afae4aa9778d) |
 | Sat, 21 Jun 2025 19:55:50 GMT | Meditation for Stress Relief: A Beginner’s Friendly Guide | NineTales | [Read More](https://medium.com/p/0dca6a3a78c5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 13:56:28 GMT | The MongoDB Role Pitfalls That Bit Me: Lessons in Multi-Customer Access Control | Hemanth Babu | [Read More](https://medium.com/p/c782ef848632) |
 | Sat, 21 Jun 2025 13:56:11 GMT | Part 3 — Simulating an APT attack against a modern Bank | Cesaire Njietche Fangang | [Read More](https://medium.com/p/435d3740d257) |
 | Sat, 21 Jun 2025 13:56:10 GMT | Bye-bye Hassle! Here’s an Easy Way to Extract APK from Rooted Android Using Script! | Panggil Aku Paman | [Read More](https://medium.com/p/7f78c774fccf) |
-| Sat, 21 Jun 2025 13:56:01 GMT | TryHackMe - Windows Memory & Network - WriteUp | Axoloth | [Read More](https://medium.com/p/2e6510c2a23c) |
-| Sat, 21 Jun 2025 13:53:26 GMT | Date: June 21, 2025 | anonymous howtos | [Read More](https://medium.com/p/f92ddc68441c) |
-| Sat, 21 Jun 2025 13:51:40 GMT | How to Make Him Addicted to You: 3 Feelings Men Can’t Resist | Lucas Brown | [Read More](https://medium.com/p/a161e8c75921) |
-| Sat, 21 Jun 2025 13:50:13 GMT | PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec | Soman Verma | [Read More](https://medium.com/p/abef793f0a4e) |
