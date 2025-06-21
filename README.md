@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 10:32:07 GMT | Cybersecurity and ChatGPT — Use Bots to Fight Bots | Bluechip Advanced Technologies | [Read More](https://medium.com/p/a9bc4754a3db) |
+| Sat, 21 Jun 2025 10:26:35 GMT | UIRI part two… | Jorryn Kirabo | [Read More](https://medium.com/p/897d989e4853) |
+| Sat, 21 Jun 2025 10:25:56 GMT | CoinMarketCap Client-Side Attack: A Comprehensive Analysis by c/side | c/side | [Read More](https://medium.com/p/ce0b58e77dec) |
 | Sat, 21 Jun 2025 10:18:09 GMT | Understanding Attack Surfaces and Vectors | Richard Dosumu | [Read More](https://medium.com/p/5db1eec03c7e) |
 | Sat, 21 Jun 2025 10:11:01 GMT | Cyber Security Analyst Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/3b53bd9d2b5e) |
 | Sat, 21 Jun 2025 10:07:11 GMT | hm..Looking for some lost pieces | Z1ER0 | [Read More](https://medium.com/p/28061bcc1b1e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 03:06:12 GMT | Mastering Microsoft Defender Visibility with PowerShell | Kerpink Williams | [Read More](https://medium.com/p/ad94a082a953) |
 | Sat, 21 Jun 2025 03:02:40 GMT | 2025 Global Nuclear Crisis — Arsenals Surge, Treaties Collapse, Mayhem Looms | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/ed92bf01d895) |
 | Sat, 21 Jun 2025 03:02:39 GMT | 21 Days to Nine Bombs — Inside Iran’s Mountain Nuclear Fortress and Israel’s Strategic Nightmare | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/820114140c09) |
-| Sat, 21 Jun 2025 03:02:39 GMT | Cyber Frontlines: How COMCYBER and NATO Battle Disinformation and AI Threats in Modern Warfare | Vic Langston - Politics - Economy - Technology | [Read More](https://medium.com/p/bea7fe70be09) |
-| Sat, 21 Jun 2025 02:59:46 GMT | Lecture Notes: Endpoint Security | Yudhistira Nugraha | [Read More](https://medium.com/p/ed9a4cfc6611) |
-| Sat, 21 Jun 2025 02:59:02 GMT | Crush the AD: Your Ultimate Roadmap to Dominating Active Directory in OSCP, PNPT, and PJPT , PT1… | MRX.0 | [Read More](https://medium.com/p/46c59e4b918c) |
