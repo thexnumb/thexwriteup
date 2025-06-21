@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Jun 2025 05:39:37 GMT | Cross-Site Scripting (XSS) | Kuro | [Read More](https://medium.com/p/9d6d7e89d512) |
+| Sat, 21 Jun 2025 05:21:27 GMT | Information Gatering (Reconnaissance) | life | [Read More](https://medium.com/p/a93855e704eb) |
 | Sat, 21 Jun 2025 05:13:34 GMT | Cross-Site Scripting (XSS) | Emaliaanrhyt | [Read More](https://medium.com/p/5895dc55799b) |
 | Sat, 21 Jun 2025 04:52:38 GMT | 16 Billion Passwords Leaked? Here’s What Actually Happened | Deven Chhajed | [Read More](https://medium.com/p/3e3625808751) |
 | Sat, 21 Jun 2025 04:44:55 GMT | Pro‑Palestine Activists Breach RAF Brize Norton, Vandalise Military Aircraft | BDCN News Official | [Read More](https://medium.com/p/e37e6b61d0f8) |
@@ -111,5 +113,3 @@ Bug Bounty Path | sastahacker | [Read More](https://medium.com/p/3298dec2c805) |
 | Fri, 20 Jun 2025 18:26:39 GMT | From Terminal Noob to Global Ranker: My TryHackMe Journey (2022–2025) | Shadow Packet | [Read More](https://medium.com/p/3a183fc89313) |
 | Fri, 20 Jun 2025 18:23:40 GMT | 5 REASONS WHY CHATGPT IS THE ONLY LOYAL FRIEND. | DEBBYWRITE | [Read More](https://medium.com/p/6d66212bfd8a) |
 | Fri, 20 Jun 2025 18:21:08 GMT | The $2.3 Million Data Breach That Could’ve Been Prevented: A Complete Guide to Trino Security | Prem Vishnoi(cloudvala) | [Read More](https://medium.com/p/f478c8bb5cea) |
-| Fri, 20 Jun 2025 18:14:30 GMT | Bug Bounty report: CVE-2020–11993 | Hasan Azizov | [Read More](https://medium.com/p/e3bbca4995df) |
-| Fri, 20 Jun 2025 18:10:52 GMT | What is a Virtual Machine? How it works and why it matters (for beginners) | Zeli | [Read More](https://medium.com/p/5cdc6ff758af) |
