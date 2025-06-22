@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 17:14:30 GMT | Kioptrix4 | Nano | [Read More](https://medium.com/p/85984463b921) |
+| Sun, 22 Jun 2025 17:12:50 GMT | Welcome to the Ultimate Cybersecurity Blog for Hackers, Learners & CTF Warriors! | Nitish Ghormade | [Read More](https://medium.com/p/c8f533a71229) |
+| Sun, 22 Jun 2025 17:08:22 GMT | 5 AI Security Projects to Prove You’re Ready for the Future of Cybersecurity | Taimur Ijlal | [Read More](https://medium.com/p/a8eb8e99dd24) |
+| Sun, 22 Jun 2025 17:08:12 GMT | Ivacy VPN: Affordable Privacy, Flexible Protection, and a Clever Twist on Server Locations | D Johnston | [Read More](https://medium.com/p/fd86e4150aae) |
+| Sun, 22 Jun 2025 17:02:54 GMT | Our Smart Home is Broken. Here’s a Blueprint to Fix Its Security | Rijal s | [Read More](https://medium.com/p/b3992175b916) |
+| Sun, 22 Jun 2025 17:01:40 GMT | Learning to Hold Space: A Journey Through Dreams, Grief, and Presence | Pratibha Singh | [Read More](https://medium.com/p/6b35e054f132) |
+| Sun, 22 Jun 2025 17:01:11 GMT | Building IP-Based Security Controls For Your APIs in WSO2 API Manager | Bernardo Rodrigues | [Read More](https://medium.com/p/1a2e4549a438) |
+| Sun, 22 Jun 2025 16:53:56 GMT | Reflected XSS via File Upload on Sony | dr34m14 | [Read More](https://medium.com/p/0aa0f3295216) |
+| Sun, 22 Jun 2025 16:50:35 GMT | Hack the Prompt, Hack the System — Part 1 | binbashfun | [Read More](https://medium.com/p/64b4f890d59b) |
+| Sun, 22 Jun 2025 16:43:34 GMT | I Said Receiving | Catherine Insler | [Read More](https://medium.com/p/0eb96d6afda1) |
 | Sun, 22 Jun 2025 16:42:38 GMT | TryHackMe — Nmap Room | d353rt_5c0rp10n | [Read More](https://medium.com/p/e560869485d4) |
 | Sun, 22 Jun 2025 16:32:34 GMT | Breaking Polyalphabetic Cipher Part III: Krypton 6 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/673462f53ff8) |
 | Sun, 22 Jun 2025 16:32:14 GMT | Understanding Active Directory | Thwarted Pentesterr | [Read More](https://medium.com/p/4650901b5113) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 09:34:37 GMT | I Found Public Transit Systems Online — It Let Anyone Track Buses and Make Announcements | hacker_might | [Read More](https://medium.com/p/01f7c558f624) |
 | Sun, 22 Jun 2025 09:27:10 GMT | No World for Quiet Men | Mostafa Naguib | [Read More](https://medium.com/p/134e2633429f) |
 | Sun, 22 Jun 2025 09:25:39 GMT | Mastering LazyS3: The Complete Guide for Effortless S3 Management | Binara Wijewickrama | [Read More](https://medium.com/p/36280c904704) |
-| Sun, 22 Jun 2025 09:19:06 GMT | Cloud Security Governance: Your Ultimate Guide to Staying Secure in the Cloud | S3CloudHub | [Read More](https://medium.com/p/2b4d35445f21) |
-| Sun, 22 Jun 2025 09:11:31 GMT | Sniping Flags with Markdown XSS — Warmdown - IERAE CTF 2025 | TraceX0 | [Read More](https://medium.com/p/f179088d6a69) |
-| Sun, 22 Jun 2025 09:08:33 GMT | 16 Billion Passwords Leaked: What Happened and How to Protect Yourself | Tharmithan | [Read More](https://medium.com/p/282816275e48) |
-| Sun, 22 Jun 2025 09:08:10 GMT | A Beginner’s Guide to DevSecOps in CI/CD | Stephen O. Roy | [Read More](https://medium.com/p/663f9cf293c2) |
-| Sun, 22 Jun 2025 09:02:06 GMT | TryHackMe - Race Conditions - WriteUp | Axoloth | [Read More](https://medium.com/p/971cde263fb5) |
-| Sun, 22 Jun 2025 08:46:28 GMT | Golden Ticket Attack: A Cybercriminal’s Backdoor to Your Kingdom! | Alsabah Afshi | [Read More](https://medium.com/p/c77748435c97) |
-| Sun, 22 Jun 2025 08:44:50 GMT | Web Application Penetration Testing: How to Hack Like a Hacker (Before You Find You) | Amaka okoye | [Read More](https://medium.com/p/d3b0007eb151) |
-| Sun, 22 Jun 2025 08:37:01 GMT | I Don’t Know How to Not Be Me | Isha | [Read More](https://medium.com/p/244ba7adfe57) |
-| Sun, 22 Jun 2025 08:28:27 GMT | Profile of TmaqnirXploit and Documented Website Defacements | PERSZ | [Read More](https://medium.com/p/e7209569d8e5) |
-| Sun, 22 Jun 2025 08:11:29 GMT | The Ultimate Nmap Cheatsheet for Hackers | d353rt_5c0rp10n | [Read More](https://medium.com/p/28cf30fad3f4) |
