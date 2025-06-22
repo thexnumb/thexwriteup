@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 18:37:00 GMT | Microsoft Releases Responsible AI Report - VBM | Marcus Spencer | [Read More](https://medium.com/p/2dcc2c0ad028) |
+| Sun, 22 Jun 2025 18:36:03 GMT | Firewall and IDS/IPS Evasion — Medium Lab Nmap | Varkeythms | [Read More](https://medium.com/p/2c76d8c3d31e) |
+| Sun, 22 Jun 2025 18:35:11 GMT | Cybersecurity 101: What It Is and Why It Matters More Than Ever in 2025 | Joy Saha | [Read More](https://medium.com/p/7aef73e50d29) |
+| Sun, 22 Jun 2025 18:33:21 GMT | Productivity Hacks: Ditching Phone Addiction, Planning Your Day, and Staying Focused | ROHIT KUSHWAH | [Read More](https://medium.com/p/55c95aead36a) |
+| Sun, 22 Jun 2025 18:30:31 GMT | Recognizing the Red Flags: How to Identify Militia Extremist Activities on Social Media | AMJAD PERVAIZ BAJWA | [Read More](https://medium.com/p/2b25a1f0fe6d) |
+| Sun, 22 Jun 2025 18:27:29 GMT | What do IAG and IAM mean? My First Steps Learning Identity Governance with SailPoint | Surya Raja | [Read More](https://medium.com/p/c8ae3785baf3) |
+| Sun, 22 Jun 2025 18:22:59 GMT | How Does DDOS Work & How to Prevent It | Ziya DENİZ | [Read More](https://medium.com/p/fe9065d1fd71) |
 | Sun, 22 Jun 2025 18:14:38 GMT | DevOps Tools We Love to Hate (But Can’t Live Without) | Zudonu Osomudeya | [Read More](https://medium.com/p/2603bcf377cf) |
 | Sun, 22 Jun 2025 17:56:44 GMT | Privacy? Not Anymore. | Piyush Aryan | [Read More](https://medium.com/p/f863edb8db49) |
 | Sun, 22 Jun 2025 17:56:00 GMT | Custom Tooling Using Python- TryHackme Room Writeup | Bridget | [Read More](https://medium.com/p/38d73f14e6fd) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 11:52:34 GMT | Gerçek Dünyada Bilgi Toplamak: Recon Sanatı | Mustafa Şen | [Read More](https://medium.com/p/848f9e97e629) |
 | Sun, 22 Jun 2025 11:46:25 GMT | I Am a Log — And I Saw Everything | Yuksel | [Read More](https://medium.com/p/3ef273ae2be1) |
 | Sun, 22 Jun 2025 11:39:21 GMT | Career Scope and Salary After Python Programming Training Course | Manisha Chaudhary | [Read More](https://medium.com/p/687c0f32a617) |
-| Sun, 22 Jun 2025 11:35:58 GMT | The Most Vulnerable Thing in the Future? AI Data Centers. | Priyanshu | [Read More](https://medium.com/p/551d5c161673) |
-| Sun, 22 Jun 2025 11:15:14 GMT | What is Cyber Security? Complete Guide for Beginners and Professionals | Cyber Robot | [Read More](https://medium.com/p/51519671b6a0) |
-| Sun, 22 Jun 2025 11:12:42 GMT | TryHackMe - Smag-Grotto - Walkthrough | Regan Temudo | [Read More](https://medium.com/p/228f41b49837) |
-| Sun, 22 Jun 2025 11:09:59 GMT | How I Found Multiple CVEs in InnoShop ≤0.4.1 | TheHiker | [Read More](https://medium.com/p/12c8f84ad87f) |
-| Sun, 22 Jun 2025 10:55:38 GMT | $420 Bounty: Subdomain Takeover on users.tweetdeck.com | Monika sharma | [Read More](https://medium.com/p/594b4dbd8c58) |
-| Sun, 22 Jun 2025 10:54:36 GMT | Help with AWS ML-DSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e64fa9959c02) |
-| Sun, 22 Jun 2025 10:31:36 GMT | Authentication & Authorization Demystified — With a Real-World Analogy | Natarajan C K | [Read More](https://medium.com/p/b1e75da8adda) |
