@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 08:11:29 GMT | The Ultimate Nmap Cheatsheet for Hackers | d353rt_5c0rp10n | [Read More](https://medium.com/p/28cf30fad3f4) |
+| Sun, 22 Jun 2025 08:10:13 GMT | Windows Security Guide: How Joseph Peter’s Guide helped me set up from home | Chris Amis | [Read More](https://medium.com/p/e2da30b88020) |
+| Sun, 22 Jun 2025 07:55:50 GMT | The Life List: Inspired by a Movie, Written from My Heart | Adewunmi Joy | [Read More](https://medium.com/p/7bf095a79b72) |
+| Sun, 22 Jun 2025 07:55:03 GMT | Easy Research: Evaluation of Usability and Security Perceptions-A Case Study in Sectors Handling… | Barry Sahya | [Read More](https://medium.com/p/390c67472485) |
+| Sun, 22 Jun 2025 07:52:08 GMT | Reflected XSS with WAF Bypass — A Creative Payload That Worked | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/20e44e9ab23d) |
+| Sun, 22 Jun 2025 07:51:07 GMT | HTB Titanic Walkthrough | Gokul Karthik | [Read More](https://medium.com/p/3557be1fb2a4) |
+| Sun, 22 Jun 2025 07:49:49 GMT | The Silent Battles No One Sees | Olanipekun Ayomide | [Read More](https://medium.com/p/975014907f9f) |
+| Sun, 22 Jun 2025 07:49:13 GMT | Cicada : HackTheBox: AD Enum and Priv Esc | Tanmay Bhattacharjee | [Read More](https://medium.com/p/015719a2f753) |
+| Sun, 22 Jun 2025 07:42:55 GMT | Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/60d7fcddf932) |
+| Sun, 22 Jun 2025 07:35:32 GMT | Pentesting as a beginner. | Rana Nasmin | [Read More](https://medium.com/p/feb9226c0cea) |
+| Sun, 22 Jun 2025 07:29:58 GMT | The 16 Billion User Credential Leak: A Global Infostealer Crisis | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/cc3744bbb9de) |
 | Sun, 22 Jun 2025 07:26:59 GMT | My Review on OSWE (WEB-300 2025) | Fabian Lim | [Read More](https://medium.com/p/60467e895bb1) |
 | Sun, 22 Jun 2025 07:25:30 GMT | Conditions: The Hidden Cost of Modern Technology | Sunyatta | [Read More](https://medium.com/p/4455dfea5af0) |
+| Sun, 22 Jun 2025 07:24:13 GMT | Your $4.99 Isn’t Protected by Telegram, but Russian Malware Is | A Verity | [Read More](https://medium.com/p/23e849f251bd) |
 | Sun, 22 Jun 2025 07:23:21 GMT | IDOR to Account Takeover — My $4500 Bug Bounty Journey | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/32e8b13fd60b) |
 | Sun, 22 Jun 2025 07:17:00 GMT | Linux Information Security Auditing And Exploitation Analysis | 武田奈々 | [Read More](https://medium.com/p/fb8e6c58880b) |
 | Sun, 22 Jun 2025 07:02:49 GMT | Developing Sigma Rules for Effective Threat Hunting: A Comprehensive Guide | Esra Kayhan | [Read More](https://medium.com/p/4a3fabd26f0e) |
@@ -101,15 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 20:50:41 GMT | From Headache to Handled: How Identity Middleware Simplifies Development | Samadhi Pratheesha | [Read More](https://medium.com/p/69c0b14a7185) |
 | Sat, 21 Jun 2025 20:47:46 GMT | 16 BILLION PASSWORDS LEAKED INCLUDING YOURS (MUST READ) | Jasnoor Singh | [Read More](https://medium.com/p/7f495df30eff) |
 | Sat, 21 Jun 2025 20:42:33 GMT | Logic Issue Allowed  me to Takeover Any User Account | Hamzadzworm | [Read More](https://medium.com/p/5aaa3566e620) |
-| Sat, 21 Jun 2025 20:41:27 GMT | The 16 Billion Password “Breach” That Wasn’t: Debunking the Latest Cybersecurity Headlines | Vishal Kendre | [Read More](https://medium.com/p/6bd62b9a8e3d) |
-| Sat, 21 Jun 2025 20:40:35 GMT | Exploring the Benefits of Automatic Blind Openers in Smart Homes | andrew924046 | [Read More](https://medium.com/p/df69e6e93d69) |
-| Sat, 21 Jun 2025 20:40:29 GMT | Prompt injection, what & how to mitigate? | Debashis Debnath | [Read More](https://medium.com/p/d27c08577528) |
-| Sat, 21 Jun 2025 20:38:38 GMT | Proof-of-Favo: A Hybrid Consensus Architecture for the Mobile Web3 Era | MrFavo | [Read More](https://medium.com/p/bddef5d6f970) |
-| Sat, 21 Jun 2025 20:37:17 GMT | I Am Myself — The Story of SafeGuard.AI | Zubair Arshad Raoter | [Read More](https://medium.com/p/96a9ffc17d87) |
-| Sat, 21 Jun 2025 20:36:36 GMT | The gentle way out. | Moniqua.Fogosa | [Read More](https://medium.com/p/7b6c82b16612) |
-| Sat, 21 Jun 2025 20:35:03 GMT | Adversarial AI Digest — June, 2025 | Tal Eliyahu | [Read More](https://medium.com/p/4ad20950d7bb) |
-| Sat, 21 Jun 2025 20:28:01 GMT | Certifications vs Practice? | Pablo Vergara | [Read More](https://medium.com/p/a41803352175) |
-| Sat, 21 Jun 2025 20:23:23 GMT | How I Bypassed 2FA and Took Over Accounts with a Simple Brute Force Attack | Rishant Arora | [Read More](https://medium.com/p/68ffc5cf5bd0) |
-| Sat, 21 Jun 2025 20:19:07 GMT | US Cyber Open(Season 5) Write-up | Nashtavirs | [Read More](https://medium.com/p/c03a35b11317) |
-| Sat, 21 Jun 2025 20:08:22 GMT | PRESTITO ONLINE SENZA CONTROLLO DEL CREDITO: SEMPLIFICA LA TUA VITA CON I NOSTRI SERVIZI….WHATSAPP: | Alialsward | [Read More](https://medium.com/p/44b4030c1ceb) |
-| Sat, 21 Jun 2025 19:58:12 GMT | AWS re: Inforce 2025 - Keynote, Sessions, and My Security Highlights | Sena Yakut | [Read More](https://medium.com/p/afae4aa9778d) |
