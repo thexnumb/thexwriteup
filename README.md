@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 14:14:30 GMT | Old But Gold: Legacy AV Evasion Techniques That Still Work (Sometimes) | Very Lazy Tech | [Read More](https://medium.com/p/9c4159ea7bf2) |
+| Sun, 22 Jun 2025 14:08:34 GMT | Reverse Engineering Başlanğıcı: Music Player Analizi(IDA və x32dbg) | Elmin Farzaliyev | [Read More](https://medium.com/p/c400e4b7b95a) |
+| Sun, 22 Jun 2025 14:04:49 GMT | Review — CyberWarFare Labs : Certified Purple Team Analyst [CPTA v2], My First Purple Team… | Chicken0248 | [Read More](https://medium.com/p/789d481cf872) |
+| Sun, 22 Jun 2025 14:00:31 GMT | Security Testing Automation: Integrating Security Scans with Functional Tests | peyman iravani | [Read More](https://medium.com/p/faee52ed72af) |
+| Sun, 22 Jun 2025 13:43:51 GMT | Cyber Hygiene for Humans: 10 Things You Should Already Be Doing | Kaatib Yusuf | [Read More](https://medium.com/p/8d9307ca1eed) |
+| Sun, 22 Jun 2025 13:32:39 GMT | Tokens for Beginners: A Hotel Key | Bugged and Baffled | [Read More](https://medium.com/p/cc646a0fe698) |
 | Sun, 22 Jun 2025 13:24:28 GMT | The Fear of Being Seen | Perpetua | [Read More](https://medium.com/p/456aff65e78f) |
 | Sun, 22 Jun 2025 13:19:55 GMT | Simple manual recon leads to P1 finding and uncovering AWS access and secret keys | Abdalah | [Read More](https://medium.com/p/01739de81633) |
 | Sun, 22 Jun 2025 13:19:21 GMT | Romance, Reality, and the Weight of Mental Health | Ryane | [Read More](https://medium.com/p/1f6b0babd1c7) |
@@ -107,9 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sun, 22 Jun 2025 05:15:06 GMT | The Journey of a Professional Penetration Test | 0xbrijith | [Read More](https://medium.com/p/f8770b617476) |
 | Sun, 22 Jun 2025 05:14:54 GMT | Richards Heuer’s “Psychology of Intelligence Analysis” | Ipek.sec | [Read More](https://medium.com/p/c8c161686de1) |
 | Sun, 22 Jun 2025 04:52:10 GMT | Login Among Massive 16 Billion Data Leak…? (Google , apple , etc) | Mr. MOM | [Read More](https://medium.com/p/827dfe092e2d) |
-| Sun, 22 Jun 2025 04:49:39 GMT | A Step-by-Step HIPAA Compliance Roadmap: Essential Guide for Healthcare Organizations | DefenceRabbit | [Read More](https://medium.com/p/4f47e1e49fe7) |
-| Sun, 22 Jun 2025 04:40:06 GMT | Proving vs. Representing: A Simple Guide to the JWT Bearer and Token Exchange Grants | Yasas Ramanayake | [Read More](https://medium.com/p/f0968a9e2629) |
-| Sun, 22 Jun 2025 04:31:53 GMT | Over 16 Billion Passwords Leaked: Is Your Data Safe? | H R SHAH | [Read More](https://medium.com/p/b18b66dda1a8) |
-| Sun, 22 Jun 2025 04:31:53 GMT | Quantum Computing and Security: What You Need to Know! | hp | [Read More](https://medium.com/p/1f183bf9f94c) |
-| Sun, 22 Jun 2025 04:31:08 GMT | HTB “Getting Started” | ma40ou | [Read More](https://medium.com/p/cecbe03084e9) |
-| Sun, 22 Jun 2025 04:14:54 GMT | From Despair to Triumph | Phillipe Jean | [Read More](https://medium.com/p/52ee8f546163) |
