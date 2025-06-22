@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 22:31:35 GMT | BOUNTY HACKER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/dc7d4665eb7a) |
+| Sun, 22 Jun 2025 22:27:25 GMT | Your Kubernetes Config Is Leaking Secrets Right Now | Rahul Sharma | [Read More](https://medium.com/p/e5f82b82427a) |
+| Sun, 22 Jun 2025 22:26:56 GMT | The One-Byte Mistake That Still Costs Us All | Cfir Aguston | [Read More](https://medium.com/p/d95b38593cdd) |
+| Sun, 22 Jun 2025 22:26:56 GMT | The Hacker’s Guide to Reality | Zeljko Djokic | [Read More](https://medium.com/p/378184bdffc3) |
+| Sun, 22 Jun 2025 22:26:12 GMT | How the Advanced Encryption Standard (AES) Works: A Complete Guide | Luis Santiago | [Read More](https://medium.com/p/d911c71b28f9) |
+| Sun, 22 Jun 2025 22:26:01 GMT | LetsDefend — Port Scan Activity Walkthrough | Javier | [Read More](https://medium.com/p/65d75e16d3fc) |
+| Sun, 22 Jun 2025 22:21:33 GMT | Speed Dating in Tokyo and the Loneliness I Didn’t Expect to Find | Nikhil | [Read More](https://medium.com/p/7ca79efdf5e2) |
+| Sun, 22 Jun 2025 22:17:10 GMT | Data Exfiltration Over DNS, HTTP & Custom Covert Channels | Karthikeyan Nagaraj | [Read More](https://medium.com/p/646d63562c01) |
+| Sun, 22 Jun 2025 22:14:56 GMT | The Strength No One Sees | Mr Cool | [Read More](https://medium.com/p/c86bbcb3c492) |
 | Sun, 22 Jun 2025 21:48:39 GMT | Microsoft’s Azure Quantum Unveils 4D Code Plan to Tame Quantum Errors | QuantumGenie | [Read More](https://medium.com/p/f32a5e751aae) |
 | Sun, 22 Jun 2025 21:44:39 GMT | Threat Casting a Nation State Attack on Critical Infrastructure | Matthew.Rosenquist | [Read More](https://medium.com/p/c9d56466fb4a) |
 | Sun, 22 Jun 2025 21:44:13 GMT | 16 Billion Passwords Leaked: If You’ve Reused a Password Since 2012, Assume It’s Compromised | Tom Smykowski | [Read More](https://medium.com/p/89693d6cd846) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 15:35:29 GMT | Hackthebox Footprinting SMB module Writeup | ma40ou | [Read More](https://medium.com/p/47e7d95c3272) |
 | Sun, 22 Jun 2025 15:32:25 GMT | GZR Observer Daily — Jun 22, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/88f69bcdc45c) |
 | Sun, 22 Jun 2025 15:31:32 GMT | Why Your Password Manager Is Less Secure Than You Think | Sohail Saifi | [Read More](https://medium.com/p/dc1b861d5346) |
-| Sun, 22 Jun 2025 15:21:33 GMT | Supporting Security from the Inside Out: A GRC Perspective | Navigating GRC with Elijah | [Read More](https://medium.com/p/ca9c6eed148a) |
-| Sun, 22 Jun 2025 15:08:39 GMT | Intermediate Lab Environment: Active Directory Setup | Abyss | [Read More](https://medium.com/p/df87d8fcca30) |
-| Sun, 22 Jun 2025 15:04:39 GMT | How Countries Are Using AI in War | Pratham Mahajan | [Read More](https://medium.com/p/d618ee17e401) |
-| Sun, 22 Jun 2025 15:03:29 GMT | Advanced Port Scanning: Pentest Techniques and Real-World Insights | 0xZeroDay | [Read More](https://medium.com/p/d007fec72318) |
-| Sun, 22 Jun 2025 15:01:43 GMT | Shortcuts to Shells: How Symbolic Links Led to Arbitrary File Reads | Iski | [Read More](https://medium.com/p/9ec824b0281c) |
-| Sun, 22 Jun 2025 15:01:41 GMT | Host & Network Penetration Testing Exploitation CTF 2 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/8996af9ac59f) |
-| Sun, 22 Jun 2025 15:00:00 GMT | Hackthebox Footprinting FTP module Writeup | ma40ou | [Read More](https://medium.com/p/7933d10d5f04) |
-| Sun, 22 Jun 2025 14:54:24 GMT | Introducing ng-files-input — Angular File Upload + Preview Component | Sanjib Kumar Mandal | [Read More](https://medium.com/p/21bef2c8e3cc) |
-| Sun, 22 Jun 2025 14:47:24 GMT | Who is a SOC Analyst and What Do They Actually Do? | Kaatib Yusuf | [Read More](https://medium.com/p/7bcadda289a7) |
