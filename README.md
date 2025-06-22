@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 20:20:47 GMT | Leveraging BeEF for Social Engineering: | HemanthKunani | [Read More](https://medium.com/p/f45789a99c22) |
+| Sun, 22 Jun 2025 20:19:58 GMT | Suas GitHub Actions estão seguras? Veja como detectar e corrigir actions vulneráveis. | Matheus Bolela | [Read More](https://medium.com/p/03368d32e3b2) |
+| Sun, 22 Jun 2025 20:17:35 GMT | Middlewares in ASP.NET Core | Şeyma Nur Dalamanlı | [Read More](https://medium.com/p/3dfcf07d537d) |
+| Sun, 22 Jun 2025 20:09:49 GMT | Toll Collection System Vulnerabilities and Hacking — A Technical and Legal Exploration | Aditya sunny | [Read More](https://medium.com/p/306aa3ae27de) |
+| Sun, 22 Jun 2025 19:59:37 GMT | What is a CASB? | Tobiwan Solutions | [Read More](https://medium.com/p/e2c2742d7058) |
+| Sun, 22 Jun 2025 19:46:46 GMT | Dark webs like DuckDuckGo & Tor browser vs Incognito {surfaced browsers like Google} + The… | Clair Unfolds | [Read More](https://medium.com/p/9aa6d963f5de) |
+| Sun, 22 Jun 2025 19:40:58 GMT | Understanding Cloud Terms as a Beginner: What I Thought vs What They Really Mean | Anita Osmani | [Read More](https://medium.com/p/ba8b75542ac1) |
+| Sun, 22 Jun 2025 19:40:45 GMT | How to Store Passwords Securely in a Database | Ahsan Farooq | [Read More](https://medium.com/p/7d9d2af58e38) |
+| Sun, 22 Jun 2025 19:39:11 GMT | TheHackersLabs — WatchStore | APS88 | [Read More](https://medium.com/p/cdf98f32eae2) |
 | Sun, 22 Jun 2025 19:37:17 GMT | Identifying AWS Account ID from a public S3 bucket — PwnedLabs | Shounak Das | [Read More](https://medium.com/p/6e836edb5699) |
+| Sun, 22 Jun 2025 19:37:08 GMT | How Doppler and Datadog Are Redefining Security for the Modern Developer | Cloud Guru | [Read More](https://medium.com/p/694590698be5) |
 | Sun, 22 Jun 2025 19:25:00 GMT | How Maltego is Revolutionizing Connection Mapping in OSINT Investigations | Nazrul Islam Rana | [Read More](https://medium.com/p/65a2c8087645) |
 | Sun, 22 Jun 2025 19:15:55 GMT | the age of yearning | alena | [Read More](https://medium.com/p/088219a99909) |
 | Sun, 22 Jun 2025 19:11:27 GMT | Part 2: Initial Access — From Clickbait to Code Execution | Kunal Rajour | [Read More](https://medium.com/p/3014a81dce66) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 14:10:03 GMT | Understanding Flash Coin (Illusion) and How It’s Used | Vowa | [Read More](https://medium.com/p/d6a06cf37d8c) |
 | Sun, 22 Jun 2025 14:08:34 GMT | Reverse Engineering Başlanğıcı: Music Player Analizi(IDA və x32dbg) | Elmin Farzaliyev | [Read More](https://medium.com/p/c400e4b7b95a) |
 | Sun, 22 Jun 2025 14:04:49 GMT | Review — CyberWarFare Labs : Certified Purple Team Analyst [CPTA v2], My First Purple Team… | Chicken0248 | [Read More](https://medium.com/p/789d481cf872) |
-| Sun, 22 Jun 2025 14:00:31 GMT | Security Testing Automation: Integrating Security Scans with Functional Tests | peyman iravani | [Read More](https://medium.com/p/faee52ed72af) |
-| Sun, 22 Jun 2025 13:43:51 GMT | Cyber Hygiene for Humans: 10 Things You Should Already Be Doing | Kaatib Yusuf | [Read More](https://medium.com/p/8d9307ca1eed) |
-| Sun, 22 Jun 2025 13:32:39 GMT | Tokens for Beginners: A Hotel Key | Bugged and Baffled | [Read More](https://medium.com/p/cc646a0fe698) |
-| Sun, 22 Jun 2025 13:24:28 GMT | The Fear of Being Seen | Perpetua | [Read More](https://medium.com/p/456aff65e78f) |
-| Sun, 22 Jun 2025 13:19:55 GMT | Simple manual recon leads to P1 finding and uncovering AWS access and secret keys | Abdalah | [Read More](https://medium.com/p/01739de81633) |
-| Sun, 22 Jun 2025 13:19:21 GMT | Romance, Reality, and the Weight of Mental Health | Ryane | [Read More](https://medium.com/p/1f6b0babd1c7) |
-| Sun, 22 Jun 2025 13:16:05 GMT | Unmasking the Unseen: How Interactsh Levels Up Your Bug Bounty Game | CypherNova1337 | [Read More](https://medium.com/p/8f1a13ba26e8) |
-| Sun, 22 Jun 2025 13:15:16 GMT | Where are all the baby cockroaches? | John Cumbow | [Read More](https://medium.com/p/ee87c9a2022c) |
-| Sun, 22 Jun 2025 13:01:45 GMT | Exposing Critical Asset Blindspots: Why You Can’t Defend What You Can’t See | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0e0ea23e2b19) |
-| Sun, 22 Jun 2025 12:51:00 GMT | What is N-map? | Tapasvi Madhak | [Read More](https://medium.com/p/77a145e4fdc3) |
