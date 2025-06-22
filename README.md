@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 09:34:37 GMT | I Found Public Transit Systems Online — It Let Anyone Track Buses and Make Announcements | hacker_might | [Read More](https://medium.com/p/01f7c558f624) |
+| Sun, 22 Jun 2025 09:27:10 GMT | No World for Quiet Men | Mostafa Naguib | [Read More](https://medium.com/p/134e2633429f) |
+| Sun, 22 Jun 2025 09:25:39 GMT | Mastering LazyS3: The Complete Guide for Effortless S3 Management | Binara Wijewickrama | [Read More](https://medium.com/p/36280c904704) |
+| Sun, 22 Jun 2025 09:19:06 GMT | Cloud Security Governance: Your Ultimate Guide to Staying Secure in the Cloud | S3CloudHub | [Read More](https://medium.com/p/2b4d35445f21) |
 | Sun, 22 Jun 2025 09:11:31 GMT | Sniping Flags with Markdown XSS — Warmdown - IERAE CTF 2025 | TraceX0 | [Read More](https://medium.com/p/f179088d6a69) |
 | Sun, 22 Jun 2025 09:08:33 GMT | 16 Billion Passwords Leaked: What Happened and How to Protect Yourself | Tharmithan | [Read More](https://medium.com/p/282816275e48) |
 | Sun, 22 Jun 2025 09:08:10 GMT | A Beginner’s Guide to DevSecOps in CI/CD | Stephen O. Roy | [Read More](https://medium.com/p/663f9cf293c2) |
@@ -109,7 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 22:14:16 GMT | How Post‑Quantum Cryptography Could Have Stopped the $1.5 Billion Bybit Hack | QuantumGenie | [Read More](https://medium.com/p/6dedcf71c531) |
 | Sat, 21 Jun 2025 22:08:35 GMT | Cybersecurity Starter Kit for Small Businesses | Ayush Jain | [Read More](https://medium.com/p/8094504bbd9a) |
 | Sat, 21 Jun 2025 22:01:36 GMT | When 16 Billion Passwords Went Public: Lessons from the Biggest Leak Yet | SoumayaJoshi | [Read More](https://medium.com/p/2a83e25e3867) |
-| Sat, 21 Jun 2025 21:57:27 GMT | PenTesting: How to Create, Conceal, and Deploy an Affordable & Expendable “BadUSB” | Ricardo S. | [Read More](https://medium.com/p/6cacf520d0e3) |
-| Sat, 21 Jun 2025 21:40:53 GMT | Browser-in-the-Browser: The New Phishing Frontier | zerOiQ | [Read More](https://medium.com/p/614cd3fddab9) |
-| Sat, 21 Jun 2025 21:32:37 GMT | Network security: Identifies and blocks attacks | Tobias Mathew | [Read More](https://medium.com/p/dd679986b6f8) |
-| Sat, 21 Jun 2025 21:28:30 GMT | Exploring the Smart Home Industry with SwitchBot Smart Locks | acampos2116 | [Read More](https://medium.com/p/c72021f5b1b7) |
