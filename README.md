@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 18:14:38 GMT | DevOps Tools We Love to Hate (But Can’t Live Without) | Zudonu Osomudeya | [Read More](https://medium.com/p/2603bcf377cf) |
+| Sun, 22 Jun 2025 17:56:44 GMT | Privacy? Not Anymore. | Piyush Aryan | [Read More](https://medium.com/p/f863edb8db49) |
+| Sun, 22 Jun 2025 17:56:00 GMT | Custom Tooling Using Python- TryHackme Room Writeup | Bridget | [Read More](https://medium.com/p/38d73f14e6fd) |
+| Sun, 22 Jun 2025 17:55:58 GMT | Hacking/Recoce | Norman Meg | [Read More](https://medium.com/p/f40b8762d1bc) |
+| Sun, 22 Jun 2025 17:54:26 GMT | Why I Stopped Romanticizing Emotional Unavailability | London Wood | [Read More](https://medium.com/p/699c75c83779) |
+| Sun, 22 Jun 2025 17:54:20 GMT | Is the Future of Windows at Risk? | Darshan Naresh Naik | [Read More](https://medium.com/p/e9370c73562c) |
+| Sun, 22 Jun 2025 17:49:22 GMT | Agentic Misalignment in LLMs: When AI Becomes an Insider Threat (A Revealing Anthropic Study) | ParlonsIA | [Read More](https://medium.com/p/b056b14c5e50) |
+| Sun, 22 Jun 2025 17:48:29 GMT | AI vs Reverse Engineering: Will AI make Android R8 obfuscation obsolete? | Gabriel Brasileiro | [Read More](https://medium.com/p/f0ba7cd39ef7) |
+| Sun, 22 Jun 2025 17:47:00 GMT | How To Properly Use Nmap- most imp points. | err0rgod | [Read More](https://medium.com/p/b02b7d74a3dc) |
+| Sun, 22 Jun 2025 17:43:02 GMT | Functions, Modules, and Packages — Organizing Your Code | Vaibhav | [Read More](https://medium.com/p/0186d79b2363) |
 | Sun, 22 Jun 2025 17:33:14 GMT | Your Bug Bounty Toolkit — What You Actually Need to Start Finding Bugs | Đeepanshu | [Read More](https://medium.com/p/10406119233c) |
 | Sun, 22 Jun 2025 17:23:46 GMT | 16 Billion People Got Hacked: Here’s How to Fight Back | Neetrox | [Read More](https://medium.com/p/5c95f0413326) |
+| Sun, 22 Jun 2025 17:23:32 GMT | Control Flow in Python — If Statements, Loops, and Logical Operators | Vaibhav | [Read More](https://medium.com/p/03de53da0e52) |
 | Sun, 22 Jun 2025 17:14:30 GMT | Kioptrix4 | Nano | [Read More](https://medium.com/p/85984463b921) |
 | Sun, 22 Jun 2025 17:12:50 GMT | Welcome to the Ultimate Cybersecurity Blog for Hackers, Learners & CTF Warriors! | Nitish Ghormade | [Read More](https://medium.com/p/c8f533a71229) |
 | Sun, 22 Jun 2025 17:08:22 GMT | 5 AI Security Projects to Prove You’re Ready for the Future of Cybersecurity | Taimur Ijlal | [Read More](https://medium.com/p/a8eb8e99dd24) |
@@ -22,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 17:01:40 GMT | Learning to Hold Space: A Journey Through Dreams, Grief, and Presence | Pratibha Singh | [Read More](https://medium.com/p/6b35e054f132) |
 | Sun, 22 Jun 2025 17:01:11 GMT | Building IP-Based Security Controls For Your APIs in WSO2 API Manager | Bernardo Rodrigues | [Read More](https://medium.com/p/1a2e4549a438) |
 | Sun, 22 Jun 2025 16:53:56 GMT | Reflected XSS via File Upload on Sony | dr34m14 | [Read More](https://medium.com/p/0aa0f3295216) |
+| Sun, 22 Jun 2025 16:51:25 GMT | Crafting Packets with Precision: Building a Custom Network Traffic Generator in Python | Ahmed Sobhi Ali | [Read More](https://medium.com/p/9c67c606838c) |
 | Sun, 22 Jun 2025 16:50:35 GMT | Hack the Prompt, Hack the System — Part 1 | binbashfun | [Read More](https://medium.com/p/64b4f890d59b) |
 | Sun, 22 Jun 2025 16:43:34 GMT | I Said Receiving | Catherine Insler | [Read More](https://medium.com/p/0eb96d6afda1) |
 | Sun, 22 Jun 2025 16:42:38 GMT | TryHackMe — Nmap Room | d353rt_5c0rp10n | [Read More](https://medium.com/p/e560869485d4) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 10:55:38 GMT | $420 Bounty: Subdomain Takeover on users.tweetdeck.com | Monika sharma | [Read More](https://medium.com/p/594b4dbd8c58) |
 | Sun, 22 Jun 2025 10:54:36 GMT | Help with AWS ML-DSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e64fa9959c02) |
 | Sun, 22 Jun 2025 10:31:36 GMT | Authentication & Authorization Demystified — With a Real-World Analogy | Natarajan C K | [Read More](https://medium.com/p/b1e75da8adda) |
-| Sun, 22 Jun 2025 10:27:58 GMT | How I Generated My First Video Using Python and OpenAI’s Sora API | Saikat Paul | [Read More](https://medium.com/p/ad3782f901c8) |
-| Sun, 22 Jun 2025 10:19:39 GMT | Directory Listing Vulnerability Explained: How a Simple Misconfiguration Can Expose Your Secrets | S Kumar | [Read More](https://medium.com/p/2c6a0650925e) |
-| Sun, 22 Jun 2025 10:17:09 GMT | Blue Team Labs Online: Log Analysis — Privilege Escalation | Toki | [Read More](https://medium.com/p/2d59900995c0) |
-| Sun, 22 Jun 2025 10:03:27 GMT | 6. Flask-Based Web Honeypot: Deceiving Attackers at the Front Door | abdelrahman ahmed amin | [Read More](https://medium.com/p/0e6ec932f5f3) |
-| Sun, 22 Jun 2025 10:00:01 GMT | 4. Honeyport: Catching Attackers in the Reconnaissance Phase | abdelrahman ahmed amin | [Read More](https://medium.com/p/837c4418a3d6) |
-| Sun, 22 Jun 2025 09:57:09 GMT | The First Time I Met My Inner Child | Carley Sonders | [Read More](https://medium.com/p/8dd211382b27) |
-| Sun, 22 Jun 2025 09:55:36 GMT | Simple Guide to Custom File Uploads in Laravel Filament | Rosyid Umar | [Read More](https://medium.com/p/1c6725a0896f) |
-| Sun, 22 Jun 2025 09:54:50 GMT | When Cameras Become Cyber Weapons: A Wake-Up Call for Enterprise Security | Chetan Seripally | [Read More](https://medium.com/p/da43edf0bd47) |
-| Sun, 22 Jun 2025 09:52:02 GMT | When Cybersecurity Marketing Kills Real Technical Content | Florian Roth | [Read More](https://medium.com/p/cd049e3bb567) |
-| Sun, 22 Jun 2025 09:46:14 GMT | ️ SkyRecon: My AI-Powered Cybersecurity Dashboard for Real-Time IOC Detection | ruchir ganatra | [Read More](https://medium.com/p/715354c3cafb) |
-| Sun, 22 Jun 2025 09:45:44 GMT | The 2025 Elections in the Philippines Are Over — But the 2028 Campaign Has Already Begun | Data & Policy Blog | [Read More](https://medium.com/p/6ba3391b5562) |
-| Sun, 22 Jun 2025 09:34:37 GMT | I Found Public Transit Systems Online — It Let Anyone Track Buses and Make Announcements | hacker_might | [Read More](https://medium.com/p/01f7c558f624) |
