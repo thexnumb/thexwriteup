@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 05:40:01 GMT | Penetration Testing Interview Questions and Answers — Complete Guide | Ahmad Yousaf | [Read More](https://medium.com/p/748384230cdc) |
+| Sun, 22 Jun 2025 05:30:35 GMT | You’re Probably Missing Out on Docker Scout: The Secret Weapon for Container Security and Insights | Engineer | [Read More](https://medium.com/p/7519027093fd) |
+| Sun, 22 Jun 2025 05:18:04 GMT | The Windows Security Journey — CG (Credentials Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4776775fae85) |
+| Sun, 22 Jun 2025 05:17:35 GMT | Cybersecurity interviews | Ipek.sec | [Read More](https://medium.com/p/82afc983a9c7) |
+| Sun, 22 Jun 2025 05:15:14 GMT | Phishing to Account Takeover | Ipek.sec | [Read More](https://medium.com/p/55627dab80d6) |
 | Sun, 22 Jun 2025 05:15:06 GMT | The Journey of a Professional Penetration Test | 0xbrijith | [Read More](https://medium.com/p/f8770b617476) |
+| Sun, 22 Jun 2025 05:14:54 GMT | Richards Heuer’s “Psychology of Intelligence Analysis” | Ipek.sec | [Read More](https://medium.com/p/c8c161686de1) |
 | Sun, 22 Jun 2025 04:52:10 GMT | Login Among Massive 16 Billion Data Leak…? (Google , apple , etc) | Mr. MOM | [Read More](https://medium.com/p/827dfe092e2d) |
 | Sun, 22 Jun 2025 04:49:39 GMT | A Step-by-Step HIPAA Compliance Roadmap: Essential Guide for Healthcare Organizations | DefenceRabbit | [Read More](https://medium.com/p/4f47e1e49fe7) |
 | Sun, 22 Jun 2025 04:40:06 GMT | Proving vs. Representing: A Simple Guide to the JWT Bearer and Token Exchange Grants | Yasas Ramanayake | [Read More](https://medium.com/p/f0968a9e2629) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 18:14:40 GMT | JWT Authentication using Private and Public Keys | Muyiwa-dev | [Read More](https://medium.com/p/25c1de8fb933) |
 | Sat, 21 Jun 2025 18:12:47 GMT | Docker Scout: Complete Guide for Securing Container Images at Scale | Flavius Dinu | [Read More](https://medium.com/p/5db1c4f14b11) |
 | Sat, 21 Jun 2025 18:09:34 GMT | AI Agents in Cybersecurity: Challenges and Use Cases | noailabs | [Read More](https://medium.com/p/fd5cbd50c3ed) |
-| Sat, 21 Jun 2025 18:05:46 GMT | Securing Linux: Locking Down the Core of Your System | Lince Mathew | [Read More](https://medium.com/p/2ef45dc3dea6) |
-| Sat, 21 Jun 2025 18:01:41 GMT | Breaking in: My Hack The Box Journey from Noob to Hacker (2022–2025) | Shadow Packet | [Read More](https://medium.com/p/e3429b95ad64) |
-| Sat, 21 Jun 2025 17:40:36 GMT | Your mind isn’t neutral. It’s a factory. The question is: are you producing poison or paradise? | Klara Flügel | [Read More](https://medium.com/p/a00d468b272f) |
-| Sat, 21 Jun 2025 17:28:54 GMT | ️ Ransomware Canary Detector — A Lightweight, Early-Warning Tool for Ransomware Defense | ruchir ganatra | [Read More](https://medium.com/p/e47cf1cab4cc) |
-| Sat, 21 Jun 2025 17:27:28 GMT | # The Code and the Blade: Why Omega Browser Isn’t Just Another Privacy-Focused Browser | Omega Browser | [Read More](https://medium.com/p/2ccfb7744413) |
-| Sat, 21 Jun 2025 17:27:25 GMT | Red Team vs Blue Team vs Purple Team: What’s the Difference in Cybersecurity? | Exreconnaissance | [Read More](https://medium.com/p/9b25f8894424) |
