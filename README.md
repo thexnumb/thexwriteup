@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 12:31:36 GMT | ️ Day 5/30 Google Dorking: The Hacker’s Open Secret for Finding Hidden Data | Cyphersilhouette | [Read More](https://medium.com/p/f6d11d586884) |
+| Sun, 22 Jun 2025 12:29:48 GMT | ⚠️ Beware: Fake Charging Cables Now Used to Steal Your Data in Nigeria | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/d5ed6ee652c7) |
+| Sun, 22 Jun 2025 12:12:24 GMT | OSI model VS. TCP/IP model | fasieha mehar | [Read More](https://medium.com/p/a7bce7cc0c0b) |
+| Sun, 22 Jun 2025 12:02:15 GMT | FileTrust.io: The New Era of Decentralized File Storage and Privacy (June 2025 Update) | Alex Habeahan | [Read More](https://medium.com/p/1f45a3f92c67) |
+| Sun, 22 Jun 2025 11:58:23 GMT | About Me — Saaket Shah | Saaket Shah | [Read More](https://medium.com/p/e83cfbf8d9f5) |
+| Sun, 22 Jun 2025 11:52:34 GMT | Gerçek Dünyada Bilgi Toplamak: Recon Sanatı | Mustafa Şen | [Read More](https://medium.com/p/848f9e97e629) |
+| Sun, 22 Jun 2025 11:46:25 GMT | I Am a Log — And I Saw Everything | Yuksel | [Read More](https://medium.com/p/3ef273ae2be1) |
+| Sun, 22 Jun 2025 11:39:21 GMT | Career Scope and Salary After Python Programming Training Course | Manisha Chaudhary | [Read More](https://medium.com/p/687c0f32a617) |
+| Sun, 22 Jun 2025 11:35:58 GMT | The Most Vulnerable Thing in the Future? AI Data Centers. | Priyanshu | [Read More](https://medium.com/p/551d5c161673) |
 | Sun, 22 Jun 2025 11:15:14 GMT | What is Cyber Security? Complete Guide for Beginners and Professionals | Cyber Robot | [Read More](https://medium.com/p/51519671b6a0) |
 | Sun, 22 Jun 2025 11:12:42 GMT | TryHackMe - Smag-Grotto - Walkthrough | Regan Temudo | [Read More](https://medium.com/p/228f41b49837) |
 | Sun, 22 Jun 2025 11:09:59 GMT | How I Found Multiple CVEs in InnoShop ≤0.4.1 | TheHiker | [Read More](https://medium.com/p/12c8f84ad87f) |
@@ -104,12 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sun, 22 Jun 2025 02:23:46 GMT | Why I No Longer Trust Google, Authy, or Microsoft Authenticator | Tara Prasad Routray | [Read More](https://medium.com/p/2b4c0fcde10b) |
 | Sun, 22 Jun 2025 02:09:47 GMT | Relevant TryHackMe Walkthrough | TheSocialHacker | [Read More](https://medium.com/p/c13faf624e38) |
 | Sun, 22 Jun 2025 02:04:21 GMT | Creative THM — Walkthrough | Hunyejohn | [Read More](https://medium.com/p/2b8d8d55e296) |
-| Sun, 22 Jun 2025 02:02:08 GMT | Windows Log Security Analysis: ATT&CK Mapping and Open-Source Tools | me1y | [Read More](https://medium.com/p/4e57f4ff61a2) |
-| Sun, 22 Jun 2025 01:49:13 GMT | Smarter Logs for Smarter SOCs: Threat-Informed Telemetry That Powers AI Agents and Cuts Costs | Arachne Digital | [Read More](https://medium.com/p/c4849cc31c35) |
-| Sun, 22 Jun 2025 01:48:59 GMT | A Call Rooted in Christian Personalism | Stephen Despin | [Read More](https://medium.com/p/6339952ebe08) |
-| Sun, 22 Jun 2025 01:01:38 GMT | The Cyber Threat Landscape Just Erupted: What You Need to Know Now | Akilnath Bodipudi | [Read More](https://medium.com/p/c76dc6f1937c) |
-| Sun, 22 Jun 2025 01:01:20 GMT | The Silent War on Our Networks | David SEHYEON Baek | [Read More](https://medium.com/p/bd5c7b8b7162) |
-| Sun, 22 Jun 2025 00:43:47 GMT | Invisible but Vulnerable: The iOS Tweak That Outsmarted Itself | Zahid | [Read More](https://medium.com/p/b3f3fa45ce21) |
-| Sun, 22 Jun 2025 00:23:52 GMT | Being Loved Isn’t the Same as Being Seen | Jaden | [Read More](https://medium.com/p/c53c19cc22d4) |
-| Sat, 21 Jun 2025 23:57:30 GMT | Why I’m Documenting My Cybersecurity Journey | Goose Gustin | [Read More](https://medium.com/p/2e8bc4147038) |
-| Sat, 21 Jun 2025 23:45:56 GMT | The Hacker Who Fooled the FBI — and Then Helped Stop Cybercrime | Brandon Brasson | [Read More](https://medium.com/p/6db58e8f7bb9) |
