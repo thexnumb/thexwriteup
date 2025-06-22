@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 21:48:39 GMT | Microsoft’s Azure Quantum Unveils 4D Code Plan to Tame Quantum Errors | QuantumGenie | [Read More](https://medium.com/p/f32a5e751aae) |
+| Sun, 22 Jun 2025 21:44:39 GMT | Threat Casting a Nation State Attack on Critical Infrastructure | Matthew.Rosenquist | [Read More](https://medium.com/p/c9d56466fb4a) |
+| Sun, 22 Jun 2025 21:44:13 GMT | 16 Billion Passwords Leaked: If You’ve Reused a Password Since 2012, Assume It’s Compromised | Tom Smykowski | [Read More](https://medium.com/p/89693d6cd846) |
 | Sun, 22 Jun 2025 21:30:00 GMT | The Silent Invasion: How Hackers Are Weaponizing GitHub Against Developers | Freddy Rivero @itsfreddy_rb | [Read More](https://medium.com/p/eb32e7765e85) |
 | Sun, 22 Jun 2025 21:26:39 GMT | How I Find Multiple IDOR Vulnerabilities in a Single Target | Ibtissam hammadi | [Read More](https://medium.com/p/79510b77c8de) |
 | Sun, 22 Jun 2025 21:26:08 GMT | Building a Cyber Shield: Multilayered Defense Inspired by U.S. Cyber Command Tactics | A-STAR7_DOCTOR | [Read More](https://medium.com/p/53cf00389083) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 15:00:00 GMT | Hackthebox Footprinting FTP module Writeup | ma40ou | [Read More](https://medium.com/p/7933d10d5f04) |
 | Sun, 22 Jun 2025 14:54:24 GMT | Introducing ng-files-input — Angular File Upload + Preview Component | Sanjib Kumar Mandal | [Read More](https://medium.com/p/21bef2c8e3cc) |
 | Sun, 22 Jun 2025 14:47:24 GMT | Who is a SOC Analyst and What Do They Actually Do? | Kaatib Yusuf | [Read More](https://medium.com/p/7bcadda289a7) |
-| Sun, 22 Jun 2025 14:42:59 GMT | “Working in cybersecurity means constantly waiting for the next attack. That’s exhausting.” | M H | [Read More](https://medium.com/p/4121e8d7172e) |
-| Sun, 22 Jun 2025 14:28:55 GMT | Week 1 — Learning Basic concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/417434e71752) |
-| Sun, 22 Jun 2025 14:27:35 GMT | Response Manipulation: The Hidden Path to Account Takeover | A0X-Y0S3TREX | [Read More](https://medium.com/p/1f009bb5a676) |
