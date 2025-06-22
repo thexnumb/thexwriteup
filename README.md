@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 11:15:14 GMT | What is Cyber Security? Complete Guide for Beginners and Professionals | Cyber Robot | [Read More](https://medium.com/p/51519671b6a0) |
+| Sun, 22 Jun 2025 11:12:42 GMT | TryHackMe - Smag-Grotto - Walkthrough | Regan Temudo | [Read More](https://medium.com/p/228f41b49837) |
 | Sun, 22 Jun 2025 11:09:59 GMT | How I Found Multiple CVEs in InnoShop ≤0.4.1 | TheHiker | [Read More](https://medium.com/p/12c8f84ad87f) |
 | Sun, 22 Jun 2025 10:55:38 GMT | $420 Bounty: Subdomain Takeover on users.tweetdeck.com | Monika sharma | [Read More](https://medium.com/p/594b4dbd8c58) |
 | Sun, 22 Jun 2025 10:54:36 GMT | Help with AWS ML-DSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e64fa9959c02) |
@@ -111,5 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sun, 22 Jun 2025 00:23:52 GMT | Being Loved Isn’t the Same as Being Seen | Jaden | [Read More](https://medium.com/p/c53c19cc22d4) |
 | Sat, 21 Jun 2025 23:57:30 GMT | Why I’m Documenting My Cybersecurity Journey | Goose Gustin | [Read More](https://medium.com/p/2e8bc4147038) |
 | Sat, 21 Jun 2025 23:45:56 GMT | The Hacker Who Fooled the FBI — and Then Helped Stop Cybercrime | Brandon Brasson | [Read More](https://medium.com/p/6db58e8f7bb9) |
-| Sat, 21 Jun 2025 23:37:02 GMT | Why You Should Use Strong Passwords and Multi-Factor Authentication | Sharika Loganathan | [Read More](https://medium.com/p/6df344f2bc16) |
-| Sat, 21 Jun 2025 23:24:35 GMT | Snort | Isiah | [Read More](https://medium.com/p/03c82f965a3d) |
