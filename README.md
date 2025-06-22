@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 23:26:42 GMT | WinLnk Malware Investigation in MDE — A threat hidden in Plain Sight | Josiah Boateng | [Read More](https://medium.com/p/3067eec921a8) |
+| Sun, 22 Jun 2025 23:24:25 GMT | Fail2Ban: Lightweight but Powerful Protection | Erkan Kavas | [Read More](https://medium.com/p/79f6bf514756) |
+| Sun, 22 Jun 2025 23:20:13 GMT | The Hidden Dangers in Your Contact Forms (And How to Fix Them) | Ali AZARY | [Read More](https://medium.com/p/b7079156eddd) |
+| Sun, 22 Jun 2025 23:19:29 GMT | I Just Caught My First Hackers — With an Azure Honeypot | RAKIP L. | [Read More](https://medium.com/p/3669cc69eb4d) |
+| Sun, 22 Jun 2025 23:15:44 GMT | GitHub Copilot: Your AI Partner for Finding and Fixing Security Bugs | Gagan Bajaj | [Read More](https://medium.com/p/811d11123a1d) |
 | Sun, 22 Jun 2025 23:01:41 GMT | Blue Team Labs Online — The Planet’s Prestige Walkthrough | Drew Arpino | [Read More](https://medium.com/p/e16ee4fd11ed) |
 | Sun, 22 Jun 2025 22:58:03 GMT | Breaking HTTP Basic Auth with Crunch & Nmap— Brute Forcing the PentesterAcademy Challenge | Cybernerddd | [Read More](https://medium.com/p/abc1095e79de) |
 | Sun, 22 Jun 2025 22:54:34 GMT | Shield Your Tech | Ed-it Editions | [Read More](https://medium.com/p/05f9b361360f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 16:05:44 GMT | Understanding and Detecting Windows Services: A Deep Dive for Blue and Red Teams | Abdellaoui Ahmed | [Read More](https://medium.com/p/790b9714e093) |
 | Sun, 22 Jun 2025 16:03:18 GMT | What does Success look like in IT?? | Achanandhi M | [Read More](https://medium.com/p/6b6630b61d69) |
 | Sun, 22 Jun 2025 15:56:58 GMT | ️ Metasploit Guided Project: Exploiting vsftpd 2.3.4 | Rabia Ishtiaq | [Read More](https://medium.com/p/3db0087a97c1) |
-| Sun, 22 Jun 2025 15:54:57 GMT | Inside the Nobitex Breach: What we know so far | CyberLucifer | [Read More](https://medium.com/p/c9d70eb1a5a4) |
-| Sun, 22 Jun 2025 15:52:56 GMT | The Retail Cyber Storm: What the M&S and Co-op Hacks Reveal About Platform Engineering’s Role in… | Gareth Brown | [Read More](https://medium.com/p/9ea6175dddd1) |
-| Sun, 22 Jun 2025 15:51:57 GMT | Ultimate HTTP Testing Kit: 50 Curl and CLI One-Liners to Uncover Hidden Web Vulnerabilities | Pratham Shah | [Read More](https://medium.com/p/716088ae17bf) |
-| Sun, 22 Jun 2025 15:51:53 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e903387f622d) |
-| Sun, 22 Jun 2025 15:50:02 GMT | CrackMapExec--Pass the Hash Attack--Active Directory Pentesting Part 11: | Muhammadhuzaifa | [Read More](https://medium.com/p/ccaff491b65b) |
