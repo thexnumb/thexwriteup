@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 16:14:32 GMT | HackTheBox - Meta | jniket | [Read More](https://medium.com/p/e8cb8ca6c80b) |
+| Sun, 22 Jun 2025 16:12:47 GMT | MCP Security Best Practices | noailabs | [Read More](https://medium.com/p/2148b86fa2e4) |
+| Sun, 22 Jun 2025 16:05:44 GMT | Understanding and Detecting Windows Services: A Deep Dive for Blue and Red Teams | Abdellaoui Ahmed | [Read More](https://medium.com/p/790b9714e093) |
+| Sun, 22 Jun 2025 16:03:18 GMT | What does Success look like in IT?? | Achanandhi M | [Read More](https://medium.com/p/6b6630b61d69) |
+| Sun, 22 Jun 2025 15:56:58 GMT | ️ Metasploit Guided Project: Exploiting vsftpd 2.3.4 | Rabia Ishtiaq | [Read More](https://medium.com/p/3db0087a97c1) |
+| Sun, 22 Jun 2025 15:54:57 GMT | Inside the Nobitex Breach: What we know so far | CyberLucifer | [Read More](https://medium.com/p/c9d70eb1a5a4) |
+| Sun, 22 Jun 2025 15:52:56 GMT | The Retail Cyber Storm: What the M&S and Co-op Hacks Reveal About Platform Engineering’s Role in… | Gareth Brown | [Read More](https://medium.com/p/9ea6175dddd1) |
+| Sun, 22 Jun 2025 15:51:57 GMT | Ultimate HTTP Testing Kit: 50 Curl and CLI One-Liners to Uncover Hidden Web Vulnerabilities | Pratham Shah | [Read More](https://medium.com/p/716088ae17bf) |
+| Sun, 22 Jun 2025 15:51:53 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e903387f622d) |
+| Sun, 22 Jun 2025 15:50:02 GMT | CrackMapExec--Pass the Hash Attack--Active Directory Pentesting Part 11: | Muhammadhuzaifa | [Read More](https://medium.com/p/ccaff491b65b) |
+| Sun, 22 Jun 2025 15:46:27 GMT | THE IMPACT OF MATERNAL LOSS: NAVIGATING GRIEF AND RESPONSIBILITY | Fedude Annie | [Read More](https://medium.com/p/108fe6b68286) |
+| Sun, 22 Jun 2025 15:42:55 GMT | AI at Work: How to Use Generative AI Effectively Without Compromising Security | Dumidu Wijewardana | [Read More](https://medium.com/p/f45783c67609) |
+| Sun, 22 Jun 2025 15:35:29 GMT | Hackthebox Footprinting SMB module Writeup | ma40ou | [Read More](https://medium.com/p/47e7d95c3272) |
+| Sun, 22 Jun 2025 15:32:25 GMT | GZR Observer Daily — Jun 22, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/88f69bcdc45c) |
 | Sun, 22 Jun 2025 15:31:32 GMT | Why Your Password Manager Is Less Secure Than You Think | Sohail Saifi | [Read More](https://medium.com/p/dc1b861d5346) |
 | Sun, 22 Jun 2025 15:21:33 GMT | Supporting Security from the Inside Out: A GRC Perspective | Navigating GRC with Elijah | [Read More](https://medium.com/p/ca9c6eed148a) |
 | Sun, 22 Jun 2025 15:08:39 GMT | Intermediate Lab Environment: Active Directory Setup | Abyss | [Read More](https://medium.com/p/df87d8fcca30) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 07:49:49 GMT | The Silent Battles No One Sees | Olanipekun Ayomide | [Read More](https://medium.com/p/975014907f9f) |
 | Sun, 22 Jun 2025 07:49:13 GMT | Cicada : HackTheBox: AD Enum and Priv Esc | Tanmay Bhattacharjee | [Read More](https://medium.com/p/015719a2f753) |
 | Sun, 22 Jun 2025 07:42:55 GMT | Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/60d7fcddf932) |
-| Sun, 22 Jun 2025 07:35:32 GMT | Pentesting as a beginner. | Rana Nasmin | [Read More](https://medium.com/p/feb9226c0cea) |
-| Sun, 22 Jun 2025 07:29:58 GMT | The 16 Billion User Credential Leak: A Global Infostealer Crisis | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/cc3744bbb9de) |
-| Sun, 22 Jun 2025 07:26:59 GMT | My Review on OSWE (WEB-300 2025) | Fabian Lim | [Read More](https://medium.com/p/60467e895bb1) |
-| Sun, 22 Jun 2025 07:25:30 GMT | Conditions: The Hidden Cost of Modern Technology | Sunyatta | [Read More](https://medium.com/p/4455dfea5af0) |
-| Sun, 22 Jun 2025 07:24:13 GMT | Your $4.99 Isn’t Protected by Telegram, but Russian Malware Is | A Verity | [Read More](https://medium.com/p/23e849f251bd) |
-| Sun, 22 Jun 2025 07:23:21 GMT | IDOR to Account Takeover — My $4500 Bug Bounty Journey | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/32e8b13fd60b) |
-| Sun, 22 Jun 2025 07:17:00 GMT | Linux Information Security Auditing And Exploitation Analysis | 武田奈々 | [Read More](https://medium.com/p/fb8e6c58880b) |
-| Sun, 22 Jun 2025 07:02:49 GMT | Developing Sigma Rules for Effective Threat Hunting: A Comprehensive Guide | Esra Kayhan | [Read More](https://medium.com/p/4a3fabd26f0e) |
-| Sun, 22 Jun 2025 07:02:48 GMT | Everything I Don’t Say, I Weigh Again Each Day | Łukasz Ratajczak | [Read More](https://medium.com/p/6a6e3bbaf87c) |
-| Sun, 22 Jun 2025 06:54:53 GMT | Surgical Strikes, Systemic Wounds: Rethinking the Ethos of Modern Conflict | Dr Sp Mishra | [Read More](https://medium.com/p/fadb64da5af2) |
-| Sun, 22 Jun 2025 06:48:43 GMT | Cryptographic Flaws | Devni Dharmasooriya | [Read More](https://medium.com/p/825b89177f25) |
-| Sun, 22 Jun 2025 06:44:20 GMT | Day 29: What is Privilege Escalation? | Nile Okomo | [Read More](https://medium.com/p/5050489179db) |
-| Sun, 22 Jun 2025 06:38:29 GMT | Authentication Bypass Techniques: Cracking the Gate Without the Key | Santhosh Adiga U | [Read More](https://medium.com/p/31d909809467) |
-| Sun, 22 Jun 2025 06:33:42 GMT | 10 Days of Hell : The Certification That Nearly Broke Me (But Made Me Better) | therealslimshady | [Read More](https://medium.com/p/45ca59462878) |
