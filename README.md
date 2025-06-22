@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 11:09:59 GMT | How I Found Multiple CVEs in InnoShop ≤0.4.1 | TheHiker | [Read More](https://medium.com/p/12c8f84ad87f) |
+| Sun, 22 Jun 2025 10:55:38 GMT | $420 Bounty: Subdomain Takeover on users.tweetdeck.com | Monika sharma | [Read More](https://medium.com/p/594b4dbd8c58) |
+| Sun, 22 Jun 2025 10:54:36 GMT | Help with AWS ML-DSA | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e64fa9959c02) |
 | Sun, 22 Jun 2025 10:31:36 GMT | Authentication & Authorization Demystified — With a Real-World Analogy | Natarajan C K | [Read More](https://medium.com/p/b1e75da8adda) |
 | Sun, 22 Jun 2025 10:27:58 GMT | How I Generated My First Video Using Python and OpenAI’s Sora API | Saikat Paul | [Read More](https://medium.com/p/ad3782f901c8) |
 | Sun, 22 Jun 2025 10:19:39 GMT | Directory Listing Vulnerability Explained: How a Simple Misconfiguration Can Expose Your Secrets | S Kumar | [Read More](https://medium.com/p/2c6a0650925e) |
@@ -110,6 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 23:45:56 GMT | The Hacker Who Fooled the FBI — and Then Helped Stop Cybercrime | Brandon Brasson | [Read More](https://medium.com/p/6db58e8f7bb9) |
 | Sat, 21 Jun 2025 23:37:02 GMT | Why You Should Use Strong Passwords and Multi-Factor Authentication | Sharika Loganathan | [Read More](https://medium.com/p/6df344f2bc16) |
 | Sat, 21 Jun 2025 23:24:35 GMT | Snort | Isiah | [Read More](https://medium.com/p/03c82f965a3d) |
-| Sat, 21 Jun 2025 23:15:46 GMT | some of us died a long time ago | astrelune | [Read More](https://medium.com/p/2e31246d148e) |
-| Sat, 21 Jun 2025 23:10:54 GMT | Are HACKERS Watching Your Bank Accounts Right Now? | Priyank Dinesh Gada | [Read More](https://medium.com/p/e0bccf91d335) |
-| Sat, 21 Jun 2025 22:45:33 GMT | Drosera: The Behavioral Firewall for Web3 Security | Leoprince.sats | [Read More](https://medium.com/p/e9f7d7479806) |
