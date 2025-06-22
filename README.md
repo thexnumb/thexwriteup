@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 05:15:06 GMT | The Journey of a Professional Penetration Test | 0xbrijith | [Read More](https://medium.com/p/f8770b617476) |
+| Sun, 22 Jun 2025 04:52:10 GMT | Login Among Massive 16 Billion Data Leak…? (Google , apple , etc) | Mr. MOM | [Read More](https://medium.com/p/827dfe092e2d) |
+| Sun, 22 Jun 2025 04:49:39 GMT | A Step-by-Step HIPAA Compliance Roadmap: Essential Guide for Healthcare Organizations | DefenceRabbit | [Read More](https://medium.com/p/4f47e1e49fe7) |
+| Sun, 22 Jun 2025 04:40:06 GMT | Proving vs. Representing: A Simple Guide to the JWT Bearer and Token Exchange Grants | Yasas Ramanayake | [Read More](https://medium.com/p/f0968a9e2629) |
+| Sun, 22 Jun 2025 04:31:53 GMT | Over 16 Billion Passwords Leaked: Is Your Data Safe? | H R SHAH | [Read More](https://medium.com/p/b18b66dda1a8) |
+| Sun, 22 Jun 2025 04:31:53 GMT | Quantum Computing and Security: What You Need to Know! | hp | [Read More](https://medium.com/p/1f183bf9f94c) |
+| Sun, 22 Jun 2025 04:31:08 GMT | HTB “Getting Started” | ma40ou | [Read More](https://medium.com/p/cecbe03084e9) |
 | Sun, 22 Jun 2025 04:14:54 GMT | From Despair to Triumph | Phillipe Jean | [Read More](https://medium.com/p/52ee8f546163) |
 | Sun, 22 Jun 2025 03:52:24 GMT | THM: Fusion Corp | Persecure | [Read More](https://medium.com/p/64ab903e8485) |
 | Sun, 22 Jun 2025 03:48:44 GMT | A Simple Guide to Privacy Online | Jeffrey Seathrún Sardina | [Read More](https://medium.com/p/75fcfc063ca8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 17:28:54 GMT | ️ Ransomware Canary Detector — A Lightweight, Early-Warning Tool for Ransomware Defense | ruchir ganatra | [Read More](https://medium.com/p/e47cf1cab4cc) |
 | Sat, 21 Jun 2025 17:27:28 GMT | # The Code and the Blade: Why Omega Browser Isn’t Just Another Privacy-Focused Browser | Omega Browser | [Read More](https://medium.com/p/2ccfb7744413) |
 | Sat, 21 Jun 2025 17:27:25 GMT | Red Team vs Blue Team vs Purple Team: What’s the Difference in Cybersecurity? | Exreconnaissance | [Read More](https://medium.com/p/9b25f8894424) |
-| Sat, 21 Jun 2025 17:25:42 GMT | The Prime Collapse: Cybersecurity’s Tipping Point | Ashdc | [Read More](https://medium.com/p/59ee0e5b2340) |
-| Sat, 21 Jun 2025 17:25:39 GMT | Understanding Intrusion Detection Systems: Techniques and Datasets for Modern Cybersecurity | Selin Sezer | [Read More](https://medium.com/p/42afd52e2027) |
-| Sat, 21 Jun 2025 17:25:17 GMT | XLMRat Lab Writeup— CyberDefenders.org | Riad Moudjahed | [Read More](https://medium.com/p/afa3af8e500e) |
-| Sat, 21 Jun 2025 17:23:00 GMT | Avoid These Critical Web App Security Mistakes in Your Next Project | Samad Saiyed | [Read More](https://medium.com/p/5f16edaec4e0) |
-| Sat, 21 Jun 2025 17:21:36 GMT | The Overlooked Weak Spot in Enterprise TLS Security | Akilnath Bodipudi | [Read More](https://medium.com/p/3f5e6db6d109) |
-| Sat, 21 Jun 2025 17:21:06 GMT | Uncover Hidden Endpoints with This Powerful FFUF Oneliner | Mejbaur Bahar Fagun | [Read More](https://medium.com/p/bf26e13805c0) |
-| Sat, 21 Jun 2025 17:17:53 GMT | Weekly Roundup — June 21st 2025 | litwtch | [Read More](https://medium.com/p/dcf9d24dedb4) |
