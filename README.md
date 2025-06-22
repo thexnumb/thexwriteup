@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 14:28:55 GMT | Week 1 — Learning Basic concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/417434e71752) |
+| Sun, 22 Jun 2025 14:27:35 GMT | Response Manipulation: The Hidden Path to Account Takeover | A0X-Y0S3TREX | [Read More](https://medium.com/p/1f009bb5a676) |
+| Sun, 22 Jun 2025 14:24:37 GMT | They Want Your Story, But Not Your Struggle — The Price of Inspiration | John Okwuose | [Read More](https://medium.com/p/90d25351a888) |
+| Sun, 22 Jun 2025 14:24:17 GMT | Dear AI: You’re Right, We Make No Sense. And That’s What Makes Us Human. | Imogen | [Read More](https://medium.com/p/e06e44aeb967) |
+| Sun, 22 Jun 2025 14:21:05 GMT | Setting Up a Dual-Homed EC2 Instance in AWS with Public and Direct Connect Private Subnets | Suranga Jayalath | [Read More](https://medium.com/p/c6304f958222) |
+| Sun, 22 Jun 2025 14:20:53 GMT | Say My Name: How I Turned an Innocent Profile Form into an HTML Playground | Muthu | [Read More](https://medium.com/p/296ee9917705) |
+| Sun, 22 Jun 2025 14:18:17 GMT | Manual Geolocation Part 1: Spot the Landmark | Joe The OSINT Guy | [Read More](https://medium.com/p/97dc7585e8ca) |
+| Sun, 22 Jun 2025 14:15:50 GMT | Why I Find It Harder to Apologize to People I Love | Home | [Read More](https://medium.com/p/e401d462ee0a) |
 | Sun, 22 Jun 2025 14:14:30 GMT | Old But Gold: Legacy AV Evasion Techniques That Still Work (Sometimes) | Very Lazy Tech | [Read More](https://medium.com/p/9c4159ea7bf2) |
+| Sun, 22 Jun 2025 14:12:10 GMT | Kafka Encryption for Cardholder Data: Solving PCI Challenges with Kroxylicious | Mostafa Hussein | [Read More](https://medium.com/p/acb11d18184d) |
+| Sun, 22 Jun 2025 14:10:03 GMT | Understanding Flash Coin (Illusion) and How It’s Used | Vowa | [Read More](https://medium.com/p/d6a06cf37d8c) |
 | Sun, 22 Jun 2025 14:08:34 GMT | Reverse Engineering Başlanğıcı: Music Player Analizi(IDA və x32dbg) | Elmin Farzaliyev | [Read More](https://medium.com/p/c400e4b7b95a) |
 | Sun, 22 Jun 2025 14:04:49 GMT | Review — CyberWarFare Labs : Certified Purple Team Analyst [CPTA v2], My First Purple Team… | Chicken0248 | [Read More](https://medium.com/p/789d481cf872) |
 | Sun, 22 Jun 2025 14:00:31 GMT | Security Testing Automation: Integrating Security Scans with Functional Tests | peyman iravani | [Read More](https://medium.com/p/faee52ed72af) |
@@ -103,13 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sun, 22 Jun 2025 06:03:08 GMT | From Myth to Microsoft: How Kerberos Keeps Your Domain Secure | Saikat Paul | [Read More](https://medium.com/p/9ba88e74d4ae) |
 | Sun, 22 Jun 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Jun 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/978e96b0153a) |
 | Sun, 22 Jun 2025 05:58:13 GMT | Stored XSS via SVG Upload Bypassing WAF | Faxcl | [Read More](https://medium.com/p/5500719a1a0b) |
-| Sun, 22 Jun 2025 05:46:57 GMT | Linux Basic for Hacker | Sachin Kumar | [Read More](https://medium.com/p/6615241d930b) |
-| Sun, 22 Jun 2025 05:44:33 GMT | Unlocking Trust and Behavior: A Closer Look into Password Manager Adoption Among Indonesian Digital… | Fadhil Pratama | [Read More](https://medium.com/p/13a5b4f28d93) |
-| Sun, 22 Jun 2025 05:40:01 GMT | Penetration Testing Interview Questions and Answers — Complete Guide | Ahmad Yousaf | [Read More](https://medium.com/p/748384230cdc) |
-| Sun, 22 Jun 2025 05:30:35 GMT | You’re Probably Missing Out on Docker Scout: The Secret Weapon for Container Security and Insights | Engineer | [Read More](https://medium.com/p/7519027093fd) |
-| Sun, 22 Jun 2025 05:18:04 GMT | The Windows Security Journey — CG (Credentials Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4776775fae85) |
-| Sun, 22 Jun 2025 05:17:35 GMT | Cybersecurity interviews | Ipek.sec | [Read More](https://medium.com/p/82afc983a9c7) |
-| Sun, 22 Jun 2025 05:15:14 GMT | Phishing to Account Takeover | Ipek.sec | [Read More](https://medium.com/p/55627dab80d6) |
-| Sun, 22 Jun 2025 05:15:06 GMT | The Journey of a Professional Penetration Test | 0xbrijith | [Read More](https://medium.com/p/f8770b617476) |
-| Sun, 22 Jun 2025 05:14:54 GMT | Richards Heuer’s “Psychology of Intelligence Analysis” | Ipek.sec | [Read More](https://medium.com/p/c8c161686de1) |
-| Sun, 22 Jun 2025 04:52:10 GMT | Login Among Massive 16 Billion Data Leak…? (Google , apple , etc) | Mr. MOM | [Read More](https://medium.com/p/827dfe092e2d) |
