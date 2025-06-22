@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 10:31:36 GMT | Authentication & Authorization Demystified — With a Real-World Analogy | Natarajan C K | [Read More](https://medium.com/p/b1e75da8adda) |
+| Sun, 22 Jun 2025 10:27:58 GMT | How I Generated My First Video Using Python and OpenAI’s Sora API | Saikat Paul | [Read More](https://medium.com/p/ad3782f901c8) |
+| Sun, 22 Jun 2025 10:19:39 GMT | Directory Listing Vulnerability Explained: How a Simple Misconfiguration Can Expose Your Secrets | S Kumar | [Read More](https://medium.com/p/2c6a0650925e) |
 | Sun, 22 Jun 2025 10:17:09 GMT | Blue Team Labs Online: Log Analysis — Privilege Escalation | Toki | [Read More](https://medium.com/p/2d59900995c0) |
 | Sun, 22 Jun 2025 10:03:27 GMT | 6. Flask-Based Web Honeypot: Deceiving Attackers at the Front Door | abdelrahman ahmed amin | [Read More](https://medium.com/p/0e6ec932f5f3) |
 | Sun, 22 Jun 2025 10:00:01 GMT | 4. Honeyport: Catching Attackers in the Reconnaissance Phase | abdelrahman ahmed amin | [Read More](https://medium.com/p/837c4418a3d6) |
@@ -110,6 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 23:15:46 GMT | some of us died a long time ago | astrelune | [Read More](https://medium.com/p/2e31246d148e) |
 | Sat, 21 Jun 2025 23:10:54 GMT | Are HACKERS Watching Your Bank Accounts Right Now? | Priyank Dinesh Gada | [Read More](https://medium.com/p/e0bccf91d335) |
 | Sat, 21 Jun 2025 22:45:33 GMT | Drosera: The Behavioral Firewall for Web3 Security | Leoprince.sats | [Read More](https://medium.com/p/e9f7d7479806) |
-| Sat, 21 Jun 2025 22:39:32 GMT | Why Technical Pitches Get You Delegated | Configr Technologies | [Read More](https://medium.com/p/f3cb62194042) |
-| Sat, 21 Jun 2025 22:39:00 GMT | Google’ın Android Güvenlik Stratejisi: Linux Çekirdeğinin Mobil Dünya İçin Yeniden… | Kaan Ekşi | [Read More](https://medium.com/p/d23d5e32af14) |
-| Sat, 21 Jun 2025 22:36:44 GMT | TryHackMe UltraTech — Walkthrough | mauzware | [Read More](https://medium.com/p/20d6553707d3) |
