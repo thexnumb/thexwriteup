@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 01:49:13 GMT | Smarter Logs for Smarter SOCs: Threat-Informed Telemetry That Powers AI Agents and Cuts Costs | Arachne Digital | [Read More](https://medium.com/p/c4849cc31c35) |
+| Sun, 22 Jun 2025 01:01:38 GMT | The Cyber Threat Landscape Just Erupted: What You Need to Know Now | Akilnath Bodipudi | [Read More](https://medium.com/p/c76dc6f1937c) |
+| Sun, 22 Jun 2025 01:01:20 GMT | The Silent War on Our Networks | David SEHYEON Baek | [Read More](https://medium.com/p/bd5c7b8b7162) |
+| Sun, 22 Jun 2025 00:43:47 GMT | Invisible but Vulnerable: The iOS Tweak That Outsmarted Itself | Zahid | [Read More](https://medium.com/p/b3f3fa45ce21) |
+| Sun, 22 Jun 2025 00:23:52 GMT | Being Loved Isn’t the Same as Being Seen | Jaden | [Read More](https://medium.com/p/c53c19cc22d4) |
+| Sat, 21 Jun 2025 23:57:30 GMT | Why I’m Documenting My Cybersecurity Journey | Goose Gustin | [Read More](https://medium.com/p/2e8bc4147038) |
+| Sat, 21 Jun 2025 23:45:56 GMT | The Hacker Who Fooled the FBI — and Then Helped Stop Cybercrime | Brandon Brasson | [Read More](https://medium.com/p/6db58e8f7bb9) |
+| Sat, 21 Jun 2025 23:37:02 GMT | Why You Should Use Strong Passwords and Multi-Factor Authentication | Sharika Loganathan | [Read More](https://medium.com/p/6df344f2bc16) |
 | Sat, 21 Jun 2025 23:24:35 GMT | Snort | Isiah | [Read More](https://medium.com/p/03c82f965a3d) |
 | Sat, 21 Jun 2025 23:15:46 GMT | some of us died a long time ago | astrelune | [Read More](https://medium.com/p/2e31246d148e) |
 | Sat, 21 Jun 2025 23:10:54 GMT | Are HACKERS Watching Your Bank Accounts Right Now? | Priyank Dinesh Gada | [Read More](https://medium.com/p/e0bccf91d335) |
@@ -68,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 19:04:59 GMT | Exploring the Smart Home Industry with SwitchBot: The Future of NFC Door Locks | turnerlaurie5245 | [Read More](https://medium.com/p/53ee08ce7a4a) |
 | Sat, 21 Jun 2025 19:03:23 GMT | CoinMarketCap Hit by Wallet Scam Popup, Here’s What Really Happened ️ | CoinGen | [Read More](https://medium.com/p/3053a001be1e) |
 | Sat, 21 Jun 2025 18:58:17 GMT | OSCP: Proving Grounds — Payday | Fehzan Vayani | [Read More](https://medium.com/p/6942ad48f071) |
+| Sat, 21 Jun 2025 18:48:56 GMT | The Vulnerability of Storytelling | Danish Farhan | [Read More](https://medium.com/p/6add057f9c8f) |
 | Sat, 21 Jun 2025 18:45:31 GMT | Demystifying API Authentication — Part 2 | Leela Kumili | [Read More](https://medium.com/p/4b5ee24a16bf) |
 | Sat, 21 Jun 2025 18:23:31 GMT | Israel’s Iron Dome Fall Flat | mahwish qayyum | [Read More](https://medium.com/p/001767ece8b3) |
 | Sat, 21 Jun 2025 18:18:38 GMT | CTF Day(21) | Ahmed Narmer | [Read More](https://medium.com/p/1609f905029b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 16:29:55 GMT | TI for fun, or more: a more serious OpenCTI | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/d70e6cd7b022) |
 | Sat, 21 Jun 2025 16:23:27 GMT | CIA TRIAD IN CYBER SECURITY | Inkaranabinavan | [Read More](https://medium.com/p/6664e2db197b) |
 | Sat, 21 Jun 2025 16:23:17 GMT | how to claim your SOLAXY ($SOLX) reward tokens now that the presale is over: | Bitcoinpepe | [Read More](https://medium.com/p/f21a6b06d079) |
-| Sat, 21 Jun 2025 16:21:51 GMT | how you can claim your Solaxy ($SOLX) presale and early-user airdrop rewards: | Bitcoinpepe | [Read More](https://medium.com/p/5d737b17e25c) |
-| Sat, 21 Jun 2025 16:19:53 GMT | Here’s an improved and up-to-date guide on how to claim your Solaxy ($SOLX) presale reward tokens: | Bitcoinpepe | [Read More](https://medium.com/p/7cf9c063b9c6) |
-| Sat, 21 Jun 2025 16:15:14 GMT | Cyberworld Series: OWASP Overview | Cyberworld | [Read More](https://medium.com/p/67ad358c20db) |
-| Sat, 21 Jun 2025 16:01:43 GMT | HIW — happy shopping: Como se realiza la venta de stealers en telegram | umbraXsecure | [Read More](https://medium.com/p/6cde85c8a098) |
-| Sat, 21 Jun 2025 16:00:40 GMT | CIA Triad in Cyber Security | Suthakaran Shansuthan | [Read More](https://medium.com/p/04e31e1ed620) |
-| Sat, 21 Jun 2025 15:59:56 GMT | The Perimeter is Dead. Now What? | ZENcurity | [Read More](https://medium.com/p/9c8439bc4dca) |
-| Sat, 21 Jun 2025 15:49:18 GMT | Lock & Key: A Developer’s Guide to Encryption and Decryption in JavaScript | Gaurav Aggarwal | [Read More](https://medium.com/p/ba20927466a2) |
-| Sat, 21 Jun 2025 15:48:30 GMT | What Is a Stresser? A Deep Dive into VIPStresser.net and Traffic Simulation Tools | MiguelPrado | [Read More](https://medium.com/p/676dc92432db) |
-| Sat, 21 Jun 2025 15:45:36 GMT | How I Taught Myself Reverse Engineering by Hacking a Legal CrackMe Binary (No Law Broken) | Renda Zhang | [Read More](https://medium.com/p/88ec186afeb9) |
