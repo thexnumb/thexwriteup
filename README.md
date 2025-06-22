@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 15:08:39 GMT | Intermediate Lab Environment: Active Directory Setup | Abyss | [Read More](https://medium.com/p/df87d8fcca30) |
+| Sun, 22 Jun 2025 15:04:39 GMT | How Countries Are Using AI in War | Pratham Mahajan | [Read More](https://medium.com/p/d618ee17e401) |
+| Sun, 22 Jun 2025 15:03:29 GMT | Advanced Port Scanning: Pentest Techniques and Real-World Insights | 0xZeroDay | [Read More](https://medium.com/p/d007fec72318) |
+| Sun, 22 Jun 2025 15:01:43 GMT | Shortcuts to Shells: How Symbolic Links Led to Arbitrary File Reads | Iski | [Read More](https://medium.com/p/9ec824b0281c) |
+| Sun, 22 Jun 2025 15:01:41 GMT | Host & Network Penetration Testing Exploitation CTF 2 — eJPTv2 | Muhammad Husnain Zargar | [Read More](https://medium.com/p/8996af9ac59f) |
+| Sun, 22 Jun 2025 15:00:00 GMT | Hackthebox Footprinting FTP module Writeup | ma40ou | [Read More](https://medium.com/p/7933d10d5f04) |
+| Sun, 22 Jun 2025 14:54:24 GMT | Introducing ng-files-input — Angular File Upload + Preview Component | Sanjib Kumar Mandal | [Read More](https://medium.com/p/21bef2c8e3cc) |
+| Sun, 22 Jun 2025 14:47:24 GMT | Who is a SOC Analyst and What Do They Actually Do? | Kaatib Yusuf | [Read More](https://medium.com/p/7bcadda289a7) |
+| Sun, 22 Jun 2025 14:42:59 GMT | “Working in cybersecurity means constantly waiting for the next attack. That’s exhausting.” | M H | [Read More](https://medium.com/p/4121e8d7172e) |
 | Sun, 22 Jun 2025 14:28:55 GMT | Week 1 — Learning Basic concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/417434e71752) |
 | Sun, 22 Jun 2025 14:27:35 GMT | Response Manipulation: The Hidden Path to Account Takeover | A0X-Y0S3TREX | [Read More](https://medium.com/p/1f009bb5a676) |
 | Sun, 22 Jun 2025 14:24:37 GMT | They Want Your Story, But Not Your Struggle — The Price of Inspiration | John Okwuose | [Read More](https://medium.com/p/90d25351a888) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 06:33:42 GMT | 10 Days of Hell : The Certification That Nearly Broke Me (But Made Me Better) | therealslimshady | [Read More](https://medium.com/p/45ca59462878) |
 | Sun, 22 Jun 2025 06:32:42 GMT | Understanding the iOS Keychain: Secure Storage for Sensitive Data | Boby Ficher | [Read More](https://medium.com/p/1f53056a1094) |
 | Sun, 22 Jun 2025 06:32:41 GMT | Softness Was Never a Weakness | Half Bloomed Diaries | [Read More](https://medium.com/p/b92342bdcb56) |
-| Sun, 22 Jun 2025 06:29:12 GMT | Invisible Battles: Simulated Offensive Cyber Operations on Adversary Network Infrastructure | A-STAR7_DOCTOR | [Read More](https://medium.com/p/06f3715c860c) |
-| Sun, 22 Jun 2025 06:26:40 GMT | How ACME Device Attestation Brings Hardware-Level Trust to Certificate Management | Akilnath Bodipudi | [Read More](https://medium.com/p/275008986891) |
-| Sun, 22 Jun 2025 06:23:58 GMT | Cloud Security: Managing IT user access to cloud infrastructures using Identity
-and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d8d9) |
-| Sun, 22 Jun 2025 06:18:07 GMT | Why Does Gen Z React This Way? | SparshTech.In | [Read More](https://medium.com/p/7819bff95705) |
-| Sun, 22 Jun 2025 06:16:15 GMT | CORS Misconfigurations in Symfony: Fix & Secure | Pentest_Testing_Corp | [Read More](https://medium.com/p/887acdc513b2) |
-| Sun, 22 Jun 2025 06:10:48 GMT | Day 28: Understanding the Attack Surface | Nile Okomo | [Read More](https://medium.com/p/6b1caff4c656) |
-| Sun, 22 Jun 2025 06:03:08 GMT | From Myth to Microsoft: How Kerberos Keeps Your Domain Secure | Saikat Paul | [Read More](https://medium.com/p/9ba88e74d4ae) |
-| Sun, 22 Jun 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Jun 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/978e96b0153a) |
-| Sun, 22 Jun 2025 05:58:13 GMT | Stored XSS via SVG Upload Bypassing WAF | Faxcl | [Read More](https://medium.com/p/5500719a1a0b) |
