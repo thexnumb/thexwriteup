@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 06:44:20 GMT | Day 29: What is Privilege Escalation? | Nile Okomo | [Read More](https://medium.com/p/5050489179db) |
+| Sun, 22 Jun 2025 06:38:29 GMT | Authentication Bypass Techniques: Cracking the Gate Without the Key | Santhosh Adiga U | [Read More](https://medium.com/p/31d909809467) |
+| Sun, 22 Jun 2025 06:33:42 GMT | 10 Days of Hell : The Certification That Nearly Broke Me (But Made Me Better) | therealslimshady | [Read More](https://medium.com/p/45ca59462878) |
+| Sun, 22 Jun 2025 06:32:42 GMT | Understanding the iOS Keychain: Secure Storage for Sensitive Data | Boby Ficher | [Read More](https://medium.com/p/1f53056a1094) |
+| Sun, 22 Jun 2025 06:32:41 GMT | Softness Was Never a Weakness | Half Bloomed Diaries | [Read More](https://medium.com/p/b92342bdcb56) |
+| Sun, 22 Jun 2025 06:29:12 GMT | Invisible Battles: Simulated Offensive Cyber Operations on Adversary Network Infrastructure | A-STAR7_DOCTOR | [Read More](https://medium.com/p/06f3715c860c) |
 | Sun, 22 Jun 2025 06:26:40 GMT | How ACME Device Attestation Brings Hardware-Level Trust to Certificate Management | Akilnath Bodipudi | [Read More](https://medium.com/p/275008986891) |
 | Sun, 22 Jun 2025 06:23:58 GMT | Cloud Security: Managing IT user access to cloud infrastructures using Identity
 and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d8d9) |
@@ -107,9 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 19:43:00 GMT | IT Service Management with ISO/IEC 20000: A Comprehensive Guide to Service Management Systems | Oleh Dubetcky | [Read More](https://medium.com/p/5fa727040a2e) |
 | Sat, 21 Jun 2025 19:38:25 GMT | The Dead Can’t Speak, But AI Can: Inside the Growing Crimewave Targeting Grieving Families | O. J. Okpabi | [Read More](https://medium.com/p/c89b849670b5) |
 | Sat, 21 Jun 2025 19:29:23 GMT | Discovery of a Vulnerability on Routers through collaboration with a scam-baiter. | Alameen Karim Merali | [Read More](https://medium.com/p/ce3901a1983c) |
-| Sat, 21 Jun 2025 19:24:25 GMT | When Fintech Gets Too Trusting: How I Stumbled Upon a Full-Blown PII Leak in a Nigerian Banking API | PaulHaykeens | [Read More](https://medium.com/p/73d6dbb493a5) |
-| Sat, 21 Jun 2025 19:15:21 GMT | Inside the Misinformation Machine: Lessons from 100 Election Tweets on Digital Trust and Society | Kush Patel | [Read More](https://medium.com/p/f5d71c827794) |
-| Sat, 21 Jun 2025 19:12:27 GMT | How to recover your hacked account or device | Tobias Mathew | [Read More](https://medium.com/p/1042254c365f) |
-| Sat, 21 Jun 2025 19:11:25 GMT | Sécurité de l’information VS Cybersécurité | Patrick Boucher | [Read More](https://medium.com/p/608748e87942) |
-| Sat, 21 Jun 2025 19:08:31 GMT | Scaling to 1 Million Users in AWS: The Architecture I Wish I Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/235c2a9907d8) |
-| Sat, 21 Jun 2025 19:04:59 GMT | Exploring the Smart Home Industry with SwitchBot: The Future of NFC Door Locks | turnerlaurie5245 | [Read More](https://medium.com/p/53ee08ce7a4a) |
