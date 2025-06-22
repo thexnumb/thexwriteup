@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 03:23:17 GMT | Hospital Rooms Bugged by Design: The Growing Smart TV Security Crisis | Travis Ray Caverhill | [Read More](https://medium.com/p/51f1935b25bb) |
+| Sun, 22 Jun 2025 03:10:54 GMT | ️ Inside the $592M Hack | Cyber-AppSec | [Read More](https://medium.com/p/90372a9b076e) |
+| Sun, 22 Jun 2025 03:04:28 GMT | 247CTF | löca | [Read More](https://medium.com/p/fcbb8cfbedba) |
+| Sun, 22 Jun 2025 02:58:41 GMT | Relevant- TryHackMe : walkthrough | santosh gadekar | [Read More](https://medium.com/p/764766492e42) |
+| Sun, 22 Jun 2025 02:57:20 GMT | Today I went through what no professional speaker should ever have to go through | Kriti Srivastava | [Read More](https://medium.com/p/d7ab814b5226) |
+| Sun, 22 Jun 2025 02:23:46 GMT | Why I No Longer Trust Google, Authy, or Microsoft Authenticator | Tara Prasad Routray | [Read More](https://medium.com/p/2b4c0fcde10b) |
+| Sun, 22 Jun 2025 02:09:47 GMT | Relevant TryHackMe Walkthrough | TheSocialHacker | [Read More](https://medium.com/p/c13faf624e38) |
+| Sun, 22 Jun 2025 02:04:21 GMT | Creative THM — Walkthrough | Hunyejohn | [Read More](https://medium.com/p/2b8d8d55e296) |
+| Sun, 22 Jun 2025 02:02:08 GMT | Windows Log Security Analysis: ATT&CK Mapping and Open-Source Tools | me1y | [Read More](https://medium.com/p/4e57f4ff61a2) |
 | Sun, 22 Jun 2025 01:49:13 GMT | Smarter Logs for Smarter SOCs: Threat-Informed Telemetry That Powers AI Agents and Cuts Costs | Arachne Digital | [Read More](https://medium.com/p/c4849cc31c35) |
+| Sun, 22 Jun 2025 01:48:59 GMT | A Call Rooted in Christian Personalism | Stephen Despin | [Read More](https://medium.com/p/6339952ebe08) |
 | Sun, 22 Jun 2025 01:01:38 GMT | The Cyber Threat Landscape Just Erupted: What You Need to Know Now | Akilnath Bodipudi | [Read More](https://medium.com/p/c76dc6f1937c) |
 | Sun, 22 Jun 2025 01:01:20 GMT | The Silent War on Our Networks | David SEHYEON Baek | [Read More](https://medium.com/p/bd5c7b8b7162) |
 | Sun, 22 Jun 2025 00:43:47 GMT | Invisible but Vulnerable: The iOS Tweak That Outsmarted Itself | Zahid | [Read More](https://medium.com/p/b3f3fa45ce21) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 17:04:48 GMT | Air Gapped: A Última Fronteira da Segurança Cibernética | T4RUM | [Read More](https://medium.com/p/b7f5787e3dd7) |
 | Sat, 21 Jun 2025 17:03:02 GMT | AI is Not a Silver Bullet: A Realistic Risk and Strategy Analysis for Cybersecurity | Ozan Ozkara | [Read More](https://medium.com/p/388c4dedd508) |
 | Sat, 21 Jun 2025 16:56:42 GMT | How a Simple Bookmark Earned a Two-Digit € Bug Bounty | Erkan Kavas | [Read More](https://medium.com/p/0a956537e5e5) |
-| Sat, 21 Jun 2025 16:48:57 GMT | Securing WordPress in 2025: A Reluctant Return to CMS That Time Forgot | Marquiños | [Read More](https://medium.com/p/14cfb7636cf8) |
-| Sat, 21 Jun 2025 16:38:09 GMT | LoRanOS - Operating System to display Hardware Information | Lochithya Hettiarachchi | [Read More](https://medium.com/p/acbe6a0fe8ed) |
-| Sat, 21 Jun 2025 16:35:55 GMT | JavaScript’s Dark Mode Revolution: Why Devs Are Ditching Light UIs Forever | Lakshika | [Read More](https://medium.com/p/20ade157160e) |
-| Sat, 21 Jun 2025 16:35:48 GMT | Gaining Internal Access via Network Pivoting with Ligolo-ng | miquela | [Read More](https://medium.com/p/28c3f167437a) |
-| Sat, 21 Jun 2025 16:35:24 GMT | ️ 5 Free Tools Every Beginner Hacker Must Use in 2025 | NOTHING ANON | [Read More](https://medium.com/p/6d0b30d78945) |
-| Sat, 21 Jun 2025 16:31:37 GMT | Complete Step-by-Step Guide to Clear OSCP Certification: From Zero to Penetration Testing Expert | Saikat Paul | [Read More](https://medium.com/p/b088f7c5d8d5) |
-| Sat, 21 Jun 2025 16:30:54 GMT | JWTs Are Not Session Tokens , Stop Using Them Like One | ThreadSafe Diaries | [Read More](https://medium.com/p/c1901ae8c670) |
-| Sat, 21 Jun 2025 16:29:55 GMT | TI for fun, or more: a more serious OpenCTI | Vito Rallo (CRIMSON7) | [Read More](https://medium.com/p/d70e6cd7b022) |
-| Sat, 21 Jun 2025 16:23:27 GMT | CIA TRIAD IN CYBER SECURITY | Inkaranabinavan | [Read More](https://medium.com/p/6664e2db197b) |
-| Sat, 21 Jun 2025 16:23:17 GMT | how to claim your SOLAXY ($SOLX) reward tokens now that the presale is over: | Bitcoinpepe | [Read More](https://medium.com/p/f21a6b06d079) |
