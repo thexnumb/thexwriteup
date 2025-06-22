@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 16:42:38 GMT | TryHackMe — Nmap Room | d353rt_5c0rp10n | [Read More](https://medium.com/p/e560869485d4) |
+| Sun, 22 Jun 2025 16:32:34 GMT | Breaking Polyalphabetic Cipher Part III: Krypton 6 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/673462f53ff8) |
+| Sun, 22 Jun 2025 16:32:14 GMT | Understanding Active Directory | Thwarted Pentesterr | [Read More](https://medium.com/p/4650901b5113) |
+| Sun, 22 Jun 2025 16:31:52 GMT | Legacy Systems and Lasting Threats: What the Oxford City Council Breach Teaches Us | Siva Gunasekaran | [Read More](https://medium.com/p/a1c2cac98266) |
+| Sun, 22 Jun 2025 16:31:26 GMT | Getting Started with Nmap — The Hacker’s Radar | Krish Bharara | [Read More](https://medium.com/p/9712a050acb8) |
+| Sun, 22 Jun 2025 16:30:00 GMT | Introducing the World’s First Unhackable LLM: NuLLgPT | TJ Larson | [Read More](https://medium.com/p/0139345c36cb) |
+| Sun, 22 Jun 2025 16:29:39 GMT | ‍☠️ How to Find Your First Vulnerability in Bug Bounty — A Practical Guide for Beginners | Tenebris Venator | [Read More](https://medium.com/p/987b7c7a7432) |
+| Sun, 22 Jun 2025 16:14:48 GMT | Building a Detection & Response Lab (Part 2): Installing Splunk, Ingesting Logs, and Automating… | Marcus Paulo | [Read More](https://medium.com/p/fef37d5dfbe9) |
 | Sun, 22 Jun 2025 16:14:32 GMT | HackTheBox - Meta | jniket | [Read More](https://medium.com/p/e8cb8ca6c80b) |
 | Sun, 22 Jun 2025 16:12:47 GMT | MCP Security Best Practices | noailabs | [Read More](https://medium.com/p/2148b86fa2e4) |
 | Sun, 22 Jun 2025 16:05:44 GMT | Understanding and Detecting Windows Services: A Deep Dive for Blue and Red Teams | Abdellaoui Ahmed | [Read More](https://medium.com/p/790b9714e093) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 08:37:01 GMT | I Don’t Know How to Not Be Me | Isha | [Read More](https://medium.com/p/244ba7adfe57) |
 | Sun, 22 Jun 2025 08:28:27 GMT | Profile of TmaqnirXploit and Documented Website Defacements | PERSZ | [Read More](https://medium.com/p/e7209569d8e5) |
 | Sun, 22 Jun 2025 08:11:29 GMT | The Ultimate Nmap Cheatsheet for Hackers | d353rt_5c0rp10n | [Read More](https://medium.com/p/28cf30fad3f4) |
-| Sun, 22 Jun 2025 08:10:13 GMT | Windows Security Guide: How Joseph Peter’s Guide helped me set up from home | Chris Amis | [Read More](https://medium.com/p/e2da30b88020) |
-| Sun, 22 Jun 2025 07:55:50 GMT | The Life List: Inspired by a Movie, Written from My Heart | Adewunmi Joy | [Read More](https://medium.com/p/7bf095a79b72) |
-| Sun, 22 Jun 2025 07:55:03 GMT | Easy Research: Evaluation of Usability and Security Perceptions-A Case Study in Sectors Handling… | Barry Sahya | [Read More](https://medium.com/p/390c67472485) |
-| Sun, 22 Jun 2025 07:52:08 GMT | Reflected XSS with WAF Bypass — A Creative Payload That Worked | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/20e44e9ab23d) |
-| Sun, 22 Jun 2025 07:51:07 GMT | HTB Titanic Walkthrough | Gokul Karthik | [Read More](https://medium.com/p/3557be1fb2a4) |
-| Sun, 22 Jun 2025 07:49:49 GMT | The Silent Battles No One Sees | Olanipekun Ayomide | [Read More](https://medium.com/p/975014907f9f) |
-| Sun, 22 Jun 2025 07:49:13 GMT | Cicada : HackTheBox: AD Enum and Priv Esc | Tanmay Bhattacharjee | [Read More](https://medium.com/p/015719a2f753) |
-| Sun, 22 Jun 2025 07:42:55 GMT | Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/60d7fcddf932) |
