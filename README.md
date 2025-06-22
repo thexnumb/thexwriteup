@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 21:30:00 GMT | The Silent Invasion: How Hackers Are Weaponizing GitHub Against Developers | Freddy Rivero @itsfreddy_rb | [Read More](https://medium.com/p/eb32e7765e85) |
+| Sun, 22 Jun 2025 21:26:39 GMT | How I Find Multiple IDOR Vulnerabilities in a Single Target | Ibtissam hammadi | [Read More](https://medium.com/p/79510b77c8de) |
+| Sun, 22 Jun 2025 21:26:08 GMT | Building a Cyber Shield: Multilayered Defense Inspired by U.S. Cyber Command Tactics | A-STAR7_DOCTOR | [Read More](https://medium.com/p/53cf00389083) |
+| Sun, 22 Jun 2025 21:25:15 GMT | From Curious Tinker to Cyber Defender: My Journey into Systems, Cloud, and Security | OtisVJames | [Read More](https://medium.com/p/bc9c2926c945) |
 | Sun, 22 Jun 2025 21:08:35 GMT | One IP, Many People: Why You Can’t Tell Who’s Really Visiting Your Website | embossdotar | [Read More](https://medium.com/p/c40ad4abf9af) |
 | Sun, 22 Jun 2025 21:03:20 GMT | Stop Fighting Corporate VPNs: Bypass GlobalProtect with One SSH Trick | 404 Lost | [Read More](https://medium.com/p/c6403dd25eb5) |
 | Sun, 22 Jun 2025 20:40:52 GMT | ️ Web3 Security Weekly — June 16–22, 2025 | Null Return | [Read More](https://medium.com/p/630301573d6f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 14:42:59 GMT | “Working in cybersecurity means constantly waiting for the next attack. That’s exhausting.” | M H | [Read More](https://medium.com/p/4121e8d7172e) |
 | Sun, 22 Jun 2025 14:28:55 GMT | Week 1 — Learning Basic concepts of Cybersecurity | Aang ‍ | [Read More](https://medium.com/p/417434e71752) |
 | Sun, 22 Jun 2025 14:27:35 GMT | Response Manipulation: The Hidden Path to Account Takeover | A0X-Y0S3TREX | [Read More](https://medium.com/p/1f009bb5a676) |
-| Sun, 22 Jun 2025 14:24:37 GMT | They Want Your Story, But Not Your Struggle — The Price of Inspiration | John Okwuose | [Read More](https://medium.com/p/90d25351a888) |
-| Sun, 22 Jun 2025 14:24:17 GMT | Dear AI: You’re Right, We Make No Sense. And That’s What Makes Us Human. | Imogen | [Read More](https://medium.com/p/e06e44aeb967) |
-| Sun, 22 Jun 2025 14:21:05 GMT | Setting Up a Dual-Homed EC2 Instance in AWS with Public and Direct Connect Private Subnets | Suranga Jayalath | [Read More](https://medium.com/p/c6304f958222) |
-| Sun, 22 Jun 2025 14:20:53 GMT | Say My Name: How I Turned an Innocent Profile Form into an HTML Playground | Muthu | [Read More](https://medium.com/p/296ee9917705) |
