@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 07:02:49 GMT | Developing Sigma Rules for Effective Threat Hunting: A Comprehensive Guide | Esra Kayhan | [Read More](https://medium.com/p/4a3fabd26f0e) |
+| Sun, 22 Jun 2025 07:02:48 GMT | Everything I Don’t Say, I Weigh Again Each Day | Łukasz Ratajczak | [Read More](https://medium.com/p/6a6e3bbaf87c) |
+| Sun, 22 Jun 2025 06:54:53 GMT | Surgical Strikes, Systemic Wounds: Rethinking the Ethos of Modern Conflict | Dr Sp Mishra | [Read More](https://medium.com/p/fadb64da5af2) |
+| Sun, 22 Jun 2025 06:48:43 GMT | Cryptographic Flaws | Devni Dharmasooriya | [Read More](https://medium.com/p/825b89177f25) |
 | Sun, 22 Jun 2025 06:44:20 GMT | Day 29: What is Privilege Escalation? | Nile Okomo | [Read More](https://medium.com/p/5050489179db) |
 | Sun, 22 Jun 2025 06:38:29 GMT | Authentication Bypass Techniques: Cracking the Gate Without the Key | Santhosh Adiga U | [Read More](https://medium.com/p/31d909809467) |
 | Sun, 22 Jun 2025 06:33:42 GMT | 10 Days of Hell : The Certification That Nearly Broke Me (But Made Me Better) | therealslimshady | [Read More](https://medium.com/p/45ca59462878) |
@@ -109,7 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 19:54:42 GMT | The risk of not understanding risk. | Steve Faust | [Read More](https://medium.com/p/6a446b28f0a1) |
 | Sat, 21 Jun 2025 19:52:17 GMT | Google Dorking: Smart Search or a Digital Superpower? | Nimit Ahir | [Read More](https://medium.com/p/8ecefd692d0b) |
 | Sat, 21 Jun 2025 19:47:30 GMT | Microsoft Excel LTSC 2024 Vulnerability Leads to Remote Code Execution (RCE) — What You Need to… | Khaleel Khan | [Read More](https://medium.com/p/4f3271964aed) |
-| Sat, 21 Jun 2025 19:46:06 GMT | How I Turned One PoC Into $100K+ in Bounties — The Story of iScan.Today | Arshad Kazmi | [Read More](https://medium.com/p/3fb5250f9198) |
-| Sat, 21 Jun 2025 19:43:00 GMT | IT Service Management with ISO/IEC 20000: A Comprehensive Guide to Service Management Systems | Oleh Dubetcky | [Read More](https://medium.com/p/5fa727040a2e) |
-| Sat, 21 Jun 2025 19:38:25 GMT | The Dead Can’t Speak, But AI Can: Inside the Growing Crimewave Targeting Grieving Families | O. J. Okpabi | [Read More](https://medium.com/p/c89b849670b5) |
-| Sat, 21 Jun 2025 19:29:23 GMT | Discovery of a Vulnerability on Routers through collaboration with a scam-baiter. | Alameen Karim Merali | [Read More](https://medium.com/p/ce3901a1983c) |
