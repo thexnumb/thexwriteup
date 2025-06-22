@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 13:19:55 GMT | Simple manual recon leads to P1 finding and uncovering AWS access and secret keys | Abdalah | [Read More](https://medium.com/p/01739de81633) |
+| Sun, 22 Jun 2025 13:16:05 GMT | Unmasking the Unseen: How Interactsh Levels Up Your Bug Bounty Game | CypherNova1337 | [Read More](https://medium.com/p/8f1a13ba26e8) |
+| Sun, 22 Jun 2025 13:15:16 GMT | Where are all the baby cockroaches? | John Cumbow | [Read More](https://medium.com/p/ee87c9a2022c) |
+| Sun, 22 Jun 2025 13:01:45 GMT | Exposing Critical Asset Blindspots: Why You Can’t Defend What You Can’t See | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0e0ea23e2b19) |
+| Sun, 22 Jun 2025 12:51:00 GMT | What is N-map? | Tapasvi Madhak | [Read More](https://medium.com/p/77a145e4fdc3) |
+| Sun, 22 Jun 2025 12:50:29 GMT | What is a Subnet Mask? Explained with Example | Nikhat | [Read More](https://medium.com/p/311cf37ed0c1) |
+| Sun, 22 Jun 2025 12:49:25 GMT | Injection Can Be Anywhere | Faxcel | [Read More](https://medium.com/p/4c172681cf30) |
+| Sun, 22 Jun 2025 12:48:05 GMT | Cyber Attacks Explained with Real Life Examples | Tsumit | [Read More](https://medium.com/p/a5e8a0c4cc9d) |
+| Sun, 22 Jun 2025 12:46:23 GMT | What is JWT | Asma Cherifa | [Read More](https://medium.com/p/a27c11c31d42) |
 | Sun, 22 Jun 2025 12:31:36 GMT | ️ Day 5/30 Google Dorking: The Hacker’s Open Secret for Finding Hidden Data | Cyphersilhouette | [Read More](https://medium.com/p/f6d11d586884) |
+| Sun, 22 Jun 2025 12:31:21 GMT | Snyk: Modern dasturlashda xavfsizlik zaifliklarini aniqlash va bartaraf etish | Jakhongir Murtazayev | [Read More](https://medium.com/p/2462c5172742) |
 | Sun, 22 Jun 2025 12:29:48 GMT | ⚠️ Beware: Fake Charging Cables Now Used to Steal Your Data in Nigeria | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/d5ed6ee652c7) |
 | Sun, 22 Jun 2025 12:12:24 GMT | OSI model VS. TCP/IP model | fasieha mehar | [Read More](https://medium.com/p/a7bce7cc0c0b) |
 | Sun, 22 Jun 2025 12:02:15 GMT | FileTrust.io: The New Era of Decentralized File Storage and Privacy (June 2025 Update) | Alex Habeahan | [Read More](https://medium.com/p/1f45a3f92c67) |
@@ -103,13 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sun, 22 Jun 2025 04:14:54 GMT | From Despair to Triumph | Phillipe Jean | [Read More](https://medium.com/p/52ee8f546163) |
 | Sun, 22 Jun 2025 03:52:24 GMT | THM: Fusion Corp | Persecure | [Read More](https://medium.com/p/64ab903e8485) |
 | Sun, 22 Jun 2025 03:48:44 GMT | A Simple Guide to Privacy Online | Jeffrey Seathrún Sardina | [Read More](https://medium.com/p/75fcfc063ca8) |
-| Sun, 22 Jun 2025 03:41:35 GMT | MD2PDF-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/4d1ff9b56435) |
-| Sun, 22 Jun 2025 03:32:41 GMT | When Convenience Becomes a Vulnerability: The Hertz Data Breach Explained | Deven Chhajed | [Read More](https://medium.com/p/d5fcc9f47dcb) |
-| Sun, 22 Jun 2025 03:23:17 GMT | Hospital Rooms Bugged by Design: The Growing Smart TV Security Crisis | Travis Ray Caverhill | [Read More](https://medium.com/p/51f1935b25bb) |
-| Sun, 22 Jun 2025 03:10:54 GMT | ️ Inside the $592M Hack | Cyber-AppSec | [Read More](https://medium.com/p/90372a9b076e) |
-| Sun, 22 Jun 2025 03:04:28 GMT | 247CTF | löca | [Read More](https://medium.com/p/fcbb8cfbedba) |
-| Sun, 22 Jun 2025 02:58:41 GMT | Relevant- TryHackMe : walkthrough | santosh gadekar | [Read More](https://medium.com/p/764766492e42) |
-| Sun, 22 Jun 2025 02:57:20 GMT | Today I went through what no professional speaker should ever have to go through | Kriti Srivastava | [Read More](https://medium.com/p/d7ab814b5226) |
-| Sun, 22 Jun 2025 02:23:46 GMT | Why I No Longer Trust Google, Authy, or Microsoft Authenticator | Tara Prasad Routray | [Read More](https://medium.com/p/2b4c0fcde10b) |
-| Sun, 22 Jun 2025 02:09:47 GMT | Relevant TryHackMe Walkthrough | TheSocialHacker | [Read More](https://medium.com/p/c13faf624e38) |
-| Sun, 22 Jun 2025 02:04:21 GMT | Creative THM — Walkthrough | Hunyejohn | [Read More](https://medium.com/p/2b8d8d55e296) |
