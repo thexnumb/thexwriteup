@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 04:14:54 GMT | From Despair to Triumph | Phillipe Jean | [Read More](https://medium.com/p/52ee8f546163) |
+| Sun, 22 Jun 2025 03:52:24 GMT | THM: Fusion Corp | Persecure | [Read More](https://medium.com/p/64ab903e8485) |
+| Sun, 22 Jun 2025 03:48:44 GMT | A Simple Guide to Privacy Online | Jeffrey Seathrún Sardina | [Read More](https://medium.com/p/75fcfc063ca8) |
+| Sun, 22 Jun 2025 03:41:35 GMT | MD2PDF-TRY HACK ME-ROOM | 5kullk3r | [Read More](https://medium.com/p/4d1ff9b56435) |
+| Sun, 22 Jun 2025 03:32:41 GMT | When Convenience Becomes a Vulnerability: The Hertz Data Breach Explained | Deven Chhajed | [Read More](https://medium.com/p/d5fcc9f47dcb) |
 | Sun, 22 Jun 2025 03:23:17 GMT | Hospital Rooms Bugged by Design: The Growing Smart TV Security Crisis | Travis Ray Caverhill | [Read More](https://medium.com/p/51f1935b25bb) |
 | Sun, 22 Jun 2025 03:10:54 GMT | ️ Inside the $592M Hack | Cyber-AppSec | [Read More](https://medium.com/p/90372a9b076e) |
 | Sun, 22 Jun 2025 03:04:28 GMT | 247CTF | löca | [Read More](https://medium.com/p/fcbb8cfbedba) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 17:21:36 GMT | The Overlooked Weak Spot in Enterprise TLS Security | Akilnath Bodipudi | [Read More](https://medium.com/p/3f5e6db6d109) |
 | Sat, 21 Jun 2025 17:21:06 GMT | Uncover Hidden Endpoints with This Powerful FFUF Oneliner | Mejbaur Bahar Fagun | [Read More](https://medium.com/p/bf26e13805c0) |
 | Sat, 21 Jun 2025 17:17:53 GMT | Weekly Roundup — June 21st 2025 | litwtch | [Read More](https://medium.com/p/dcf9d24dedb4) |
-| Sat, 21 Jun 2025 17:09:48 GMT | Using Favicon Hashes for OSINT Reconnaissanc | Mejbaur Bahar Fagun | [Read More](https://medium.com/p/cefcb8c4ddca) |
-| Sat, 21 Jun 2025 17:08:56 GMT | Understanding CSRF Tokens: When and Why You Need Them in Web Security | Bhanusingh | [Read More](https://medium.com/p/c52dec49b000) |
-| Sat, 21 Jun 2025 17:04:48 GMT | Air Gapped: A Última Fronteira da Segurança Cibernética | T4RUM | [Read More](https://medium.com/p/b7f5787e3dd7) |
-| Sat, 21 Jun 2025 17:03:02 GMT | AI is Not a Silver Bullet: A Realistic Risk and Strategy Analysis for Cybersecurity | Ozan Ozkara | [Read More](https://medium.com/p/388c4dedd508) |
-| Sat, 21 Jun 2025 16:56:42 GMT | How a Simple Bookmark Earned a Two-Digit € Bug Bounty | Erkan Kavas | [Read More](https://medium.com/p/0a956537e5e5) |
