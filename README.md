@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 19:11:27 GMT | Part 2: Initial Access — From Clickbait to Code Execution | Kunal Rajour | [Read More](https://medium.com/p/3014a81dce66) |
+| Sun, 22 Jun 2025 19:07:17 GMT | How Do You Let Go? | Jasmine Ramos | [Read More](https://medium.com/p/347295f69814) |
+| Sun, 22 Jun 2025 19:07:10 GMT | What Does This Mean Governance & Regulation | Mainekdeveloper | [Read More](https://medium.com/p/e9dca75f4107) |
+| Sun, 22 Jun 2025 19:01:33 GMT | Building a Complete 2FA System: From Theory to Implementation | Dacio Bezerra | [Read More](https://medium.com/p/0be626ea391c) |
+| Sun, 22 Jun 2025 18:54:59 GMT | Does Knowing Me More Lead to Loving Me Less? | Sumaiya | [Read More](https://medium.com/p/ff391aaffdb6) |
+| Sun, 22 Jun 2025 18:54:53 GMT | Should Iran Develop Nuclear Weapons? | mahwish qayyum | [Read More](https://medium.com/p/580eed095a85) |
+| Sun, 22 Jun 2025 18:53:54 GMT | A Tech Professional’s Guide to India’s Digital Personal Data Protection (DPDP) Bill | Ankitjangir | [Read More](https://medium.com/p/5a1ee44ead47) |
+| Sun, 22 Jun 2025 18:52:50 GMT | Inside the Mind of an Attacker | Kaatib Yusuf | [Read More](https://medium.com/p/d04dbd36765b) |
+| Sun, 22 Jun 2025 18:47:31 GMT | IDOR Leads to Unauthorized Deletion: How I Earned $500 in Bug Bounty | Medusa | [Read More](https://medium.com/p/335bd6a2c75d) |
+| Sun, 22 Jun 2025 18:43:38 GMT | Bitcoin Bridge or Laundromat? Garden Finance Accused of Washing Dirty Crypto | CoinGen | [Read More](https://medium.com/p/c999bc6b1ed8) |
 | Sun, 22 Jun 2025 18:37:00 GMT | Microsoft Releases Responsible AI Report - VBM | Marcus Spencer | [Read More](https://medium.com/p/2dcc2c0ad028) |
 | Sun, 22 Jun 2025 18:36:03 GMT | Firewall and IDS/IPS Evasion — Medium Lab Nmap | Varkeythms | [Read More](https://medium.com/p/2c76d8c3d31e) |
 | Sun, 22 Jun 2025 18:35:11 GMT | Cybersecurity 101: What It Is and Why It Matters More Than Ever in 2025 | Joy Saha | [Read More](https://medium.com/p/7aef73e50d29) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 12:50:29 GMT | What is a Subnet Mask? Explained with Example | Nikhat | [Read More](https://medium.com/p/311cf37ed0c1) |
 | Sun, 22 Jun 2025 12:49:25 GMT | Injection Can Be Anywhere | Faxcel | [Read More](https://medium.com/p/4c172681cf30) |
 | Sun, 22 Jun 2025 12:48:05 GMT | Cyber Attacks Explained with Real Life Examples | Tsumit | [Read More](https://medium.com/p/a5e8a0c4cc9d) |
-| Sun, 22 Jun 2025 12:46:23 GMT | What is JWT | Asma Cherifa | [Read More](https://medium.com/p/a27c11c31d42) |
-| Sun, 22 Jun 2025 12:31:36 GMT | ️ Day 5/30 Google Dorking: The Hacker’s Open Secret for Finding Hidden Data | Cyphersilhouette | [Read More](https://medium.com/p/f6d11d586884) |
-| Sun, 22 Jun 2025 12:31:21 GMT | Snyk: Modern dasturlashda xavfsizlik zaifliklarini aniqlash va bartaraf etish | Jakhongir Murtazayev | [Read More](https://medium.com/p/2462c5172742) |
-| Sun, 22 Jun 2025 12:29:48 GMT | ⚠️ Beware: Fake Charging Cables Now Used to Steal Your Data in Nigeria | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/d5ed6ee652c7) |
-| Sun, 22 Jun 2025 12:12:24 GMT | OSI model VS. TCP/IP model | fasieha mehar | [Read More](https://medium.com/p/a7bce7cc0c0b) |
-| Sun, 22 Jun 2025 12:02:15 GMT | FileTrust.io: The New Era of Decentralized File Storage and Privacy (June 2025 Update) | Alex Habeahan | [Read More](https://medium.com/p/1f45a3f92c67) |
-| Sun, 22 Jun 2025 11:58:23 GMT | About Me — Saaket Shah | Saaket Shah | [Read More](https://medium.com/p/e83cfbf8d9f5) |
-| Sun, 22 Jun 2025 11:52:34 GMT | Gerçek Dünyada Bilgi Toplamak: Recon Sanatı | Mustafa Şen | [Read More](https://medium.com/p/848f9e97e629) |
-| Sun, 22 Jun 2025 11:46:25 GMT | I Am a Log — And I Saw Everything | Yuksel | [Read More](https://medium.com/p/3ef273ae2be1) |
-| Sun, 22 Jun 2025 11:39:21 GMT | Career Scope and Salary After Python Programming Training Course | Manisha Chaudhary | [Read More](https://medium.com/p/687c0f32a617) |
