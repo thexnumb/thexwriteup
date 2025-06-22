@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 06:26:40 GMT | How ACME Device Attestation Brings Hardware-Level Trust to Certificate Management | Akilnath Bodipudi | [Read More](https://medium.com/p/275008986891) |
+| Sun, 22 Jun 2025 06:23:58 GMT | Cloud Security: Managing IT user access to cloud infrastructures using Identity
+and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d8d9) |
+| Sun, 22 Jun 2025 06:18:07 GMT | Why Does Gen Z React This Way? | SparshTech.In | [Read More](https://medium.com/p/7819bff95705) |
+| Sun, 22 Jun 2025 06:16:15 GMT | CORS Misconfigurations in Symfony: Fix & Secure | Pentest_Testing_Corp | [Read More](https://medium.com/p/887acdc513b2) |
+| Sun, 22 Jun 2025 06:10:48 GMT | Day 28: Understanding the Attack Surface | Nile Okomo | [Read More](https://medium.com/p/6b1caff4c656) |
+| Sun, 22 Jun 2025 06:03:08 GMT | From Myth to Microsoft: How Kerberos Keeps Your Domain Secure | Saikat Paul | [Read More](https://medium.com/p/9ba88e74d4ae) |
+| Sun, 22 Jun 2025 06:00:25 GMT | Today’s Top Cyber Intelligence Highlights — Jun 22, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/978e96b0153a) |
+| Sun, 22 Jun 2025 05:58:13 GMT | Stored XSS via SVG Upload Bypassing WAF | Faxcl | [Read More](https://medium.com/p/5500719a1a0b) |
+| Sun, 22 Jun 2025 05:46:57 GMT | Linux Basic for Hacker | Sachin Kumar | [Read More](https://medium.com/p/6615241d930b) |
+| Sun, 22 Jun 2025 05:44:33 GMT | Unlocking Trust and Behavior: A Closer Look into Password Manager Adoption Among Indonesian Digital… | Fadhil Pratama | [Read More](https://medium.com/p/13a5b4f28d93) |
 | Sun, 22 Jun 2025 05:40:01 GMT | Penetration Testing Interview Questions and Answers — Complete Guide | Ahmad Yousaf | [Read More](https://medium.com/p/748384230cdc) |
 | Sun, 22 Jun 2025 05:30:35 GMT | You’re Probably Missing Out on Docker Scout: The Secret Weapon for Container Security and Insights | Engineer | [Read More](https://medium.com/p/7519027093fd) |
 | Sun, 22 Jun 2025 05:18:04 GMT | The Windows Security Journey — CG (Credentials Guard) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4776775fae85) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Jun 2025 19:11:25 GMT | Sécurité de l’information VS Cybersécurité | Patrick Boucher | [Read More](https://medium.com/p/608748e87942) |
 | Sat, 21 Jun 2025 19:08:31 GMT | Scaling to 1 Million Users in AWS: The Architecture I Wish I Knew Sooner | Saikat Paul | [Read More](https://medium.com/p/235c2a9907d8) |
 | Sat, 21 Jun 2025 19:04:59 GMT | Exploring the Smart Home Industry with SwitchBot: The Future of NFC Door Locks | turnerlaurie5245 | [Read More](https://medium.com/p/53ee08ce7a4a) |
-| Sat, 21 Jun 2025 19:03:23 GMT | CoinMarketCap Hit by Wallet Scam Popup, Here’s What Really Happened ️ | CoinGen | [Read More](https://medium.com/p/3053a001be1e) |
-| Sat, 21 Jun 2025 18:58:17 GMT | OSCP: Proving Grounds — Payday | Fehzan Vayani | [Read More](https://medium.com/p/6942ad48f071) |
-| Sat, 21 Jun 2025 18:48:56 GMT | The Vulnerability of Storytelling | Danish Farhan | [Read More](https://medium.com/p/6add057f9c8f) |
-| Sat, 21 Jun 2025 18:45:31 GMT | Demystifying API Authentication — Part 2 | Leela Kumili | [Read More](https://medium.com/p/4b5ee24a16bf) |
-| Sat, 21 Jun 2025 18:23:31 GMT | Israel’s Iron Dome Fall Flat | mahwish qayyum | [Read More](https://medium.com/p/001767ece8b3) |
-| Sat, 21 Jun 2025 18:18:38 GMT | CTF Day(21) | Ahmed Narmer | [Read More](https://medium.com/p/1609f905029b) |
-| Sat, 21 Jun 2025 18:15:40 GMT | Companies Are Getting Worse, & (Most) Aren’t Going Anywhere | Alex Einfelt | [Read More](https://medium.com/p/6328dd2410f7) |
-| Sat, 21 Jun 2025 18:14:40 GMT | JWT Authentication using Private and Public Keys | Muyiwa-dev | [Read More](https://medium.com/p/25c1de8fb933) |
-| Sat, 21 Jun 2025 18:12:47 GMT | Docker Scout: Complete Guide for Securing Container Images at Scale | Flavius Dinu | [Read More](https://medium.com/p/5db1c4f14b11) |
-| Sat, 21 Jun 2025 18:09:34 GMT | AI Agents in Cybersecurity: Challenges and Use Cases | noailabs | [Read More](https://medium.com/p/fd5cbd50c3ed) |
