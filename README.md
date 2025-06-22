@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 09:11:31 GMT | Sniping Flags with Markdown XSS — Warmdown - IERAE CTF 2025 | TraceX0 | [Read More](https://medium.com/p/f179088d6a69) |
+| Sun, 22 Jun 2025 09:08:33 GMT | 16 Billion Passwords Leaked: What Happened and How to Protect Yourself | Tharmithan | [Read More](https://medium.com/p/282816275e48) |
+| Sun, 22 Jun 2025 09:08:10 GMT | A Beginner’s Guide to DevSecOps in CI/CD | Stephen O. Roy | [Read More](https://medium.com/p/663f9cf293c2) |
+| Sun, 22 Jun 2025 09:02:06 GMT | TryHackMe - Race Conditions - WriteUp | Axoloth | [Read More](https://medium.com/p/971cde263fb5) |
+| Sun, 22 Jun 2025 08:46:28 GMT | Golden Ticket Attack: A Cybercriminal’s Backdoor to Your Kingdom! | Alsabah Afshi | [Read More](https://medium.com/p/c77748435c97) |
 | Sun, 22 Jun 2025 08:44:50 GMT | Web Application Penetration Testing: How to Hack Like a Hacker (Before You Find You) | Amaka okoye | [Read More](https://medium.com/p/d3b0007eb151) |
+| Sun, 22 Jun 2025 08:37:01 GMT | I Don’t Know How to Not Be Me | Isha | [Read More](https://medium.com/p/244ba7adfe57) |
 | Sun, 22 Jun 2025 08:28:27 GMT | Profile of TmaqnirXploit and Documented Website Defacements | PERSZ | [Read More](https://medium.com/p/e7209569d8e5) |
 | Sun, 22 Jun 2025 08:11:29 GMT | The Ultimate Nmap Cheatsheet for Hackers | d353rt_5c0rp10n | [Read More](https://medium.com/p/28cf30fad3f4) |
 | Sun, 22 Jun 2025 08:10:13 GMT | Windows Security Guide: How Joseph Peter’s Guide helped me set up from home | Chris Amis | [Read More](https://medium.com/p/e2da30b88020) |
@@ -107,9 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 21:40:53 GMT | Browser-in-the-Browser: The New Phishing Frontier | zerOiQ | [Read More](https://medium.com/p/614cd3fddab9) |
 | Sat, 21 Jun 2025 21:32:37 GMT | Network security: Identifies and blocks attacks | Tobias Mathew | [Read More](https://medium.com/p/dd679986b6f8) |
 | Sat, 21 Jun 2025 21:28:30 GMT | Exploring the Smart Home Industry with SwitchBot Smart Locks | acampos2116 | [Read More](https://medium.com/p/c72021f5b1b7) |
-| Sat, 21 Jun 2025 21:24:22 GMT | How to protect your LLM from system prompt leakage? | Debashis Debnath | [Read More](https://medium.com/p/6b0194502bdc) |
-| Sat, 21 Jun 2025 21:22:01 GMT | Tracing the Invisible: Cross-Border Forensic Analysis through DNS and Global Network Logs | A-STAR7_DOCTOR | [Read More](https://medium.com/p/125cbf7b2573) |
-| Sat, 21 Jun 2025 21:11:37 GMT | Why Most Hackers Fail at Finding Bugs | Ibtissam hammadi | [Read More](https://medium.com/p/daf11b7e074b) |
-| Sat, 21 Jun 2025 21:06:45 GMT | Wazuh Alerting Integration: Real-Time Notifications with NTFY, NGINX, and SSL | Yash Patel | [Read More](https://medium.com/p/f34b27c37df5) |
-| Sat, 21 Jun 2025 20:58:11 GMT | Bypassing Filters via XML Encoding to Perform SQL Injection for Bug Hunting with BurpSuite | Aditya Bhatt | [Read More](https://medium.com/p/1db9b7b486e8) |
-| Sat, 21 Jun 2025 20:50:41 GMT | From Headache to Handled: How Identity Middleware Simplifies Development | Samadhi Pratheesha | [Read More](https://medium.com/p/69c0b14a7185) |
