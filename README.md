@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 19:37:17 GMT | Identifying AWS Account ID from a public S3 bucket — PwnedLabs | Shounak Das | [Read More](https://medium.com/p/6e836edb5699) |
+| Sun, 22 Jun 2025 19:25:00 GMT | How Maltego is Revolutionizing Connection Mapping in OSINT Investigations | Nazrul Islam Rana | [Read More](https://medium.com/p/65a2c8087645) |
+| Sun, 22 Jun 2025 19:15:55 GMT | the age of yearning | alena | [Read More](https://medium.com/p/088219a99909) |
 | Sun, 22 Jun 2025 19:11:27 GMT | Part 2: Initial Access — From Clickbait to Code Execution | Kunal Rajour | [Read More](https://medium.com/p/3014a81dce66) |
 | Sun, 22 Jun 2025 19:07:17 GMT | How Do You Let Go? | Jasmine Ramos | [Read More](https://medium.com/p/347295f69814) |
 | Sun, 22 Jun 2025 19:07:10 GMT | What Does This Mean Governance & Regulation | Mainekdeveloper | [Read More](https://medium.com/p/e9dca75f4107) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 13:15:16 GMT | Where are all the baby cockroaches? | John Cumbow | [Read More](https://medium.com/p/ee87c9a2022c) |
 | Sun, 22 Jun 2025 13:01:45 GMT | Exposing Critical Asset Blindspots: Why You Can’t Defend What You Can’t See | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0e0ea23e2b19) |
 | Sun, 22 Jun 2025 12:51:00 GMT | What is N-map? | Tapasvi Madhak | [Read More](https://medium.com/p/77a145e4fdc3) |
-| Sun, 22 Jun 2025 12:50:29 GMT | What is a Subnet Mask? Explained with Example | Nikhat | [Read More](https://medium.com/p/311cf37ed0c1) |
-| Sun, 22 Jun 2025 12:49:25 GMT | Injection Can Be Anywhere | Faxcel | [Read More](https://medium.com/p/4c172681cf30) |
-| Sun, 22 Jun 2025 12:48:05 GMT | Cyber Attacks Explained with Real Life Examples | Tsumit | [Read More](https://medium.com/p/a5e8a0c4cc9d) |
