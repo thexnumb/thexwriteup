@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 07:26:59 GMT | My Review on OSWE (WEB-300 2025) | Fabian Lim | [Read More](https://medium.com/p/60467e895bb1) |
+| Sun, 22 Jun 2025 07:25:30 GMT | Conditions: The Hidden Cost of Modern Technology | Sunyatta | [Read More](https://medium.com/p/4455dfea5af0) |
+| Sun, 22 Jun 2025 07:23:21 GMT | IDOR to Account Takeover — My $4500 Bug Bounty Journey | FOYSAL AHMED FAHIM | [Read More](https://medium.com/p/32e8b13fd60b) |
+| Sun, 22 Jun 2025 07:17:00 GMT | Linux Information Security Auditing And Exploitation Analysis | 武田奈々 | [Read More](https://medium.com/p/fb8e6c58880b) |
 | Sun, 22 Jun 2025 07:02:49 GMT | Developing Sigma Rules for Effective Threat Hunting: A Comprehensive Guide | Esra Kayhan | [Read More](https://medium.com/p/4a3fabd26f0e) |
 | Sun, 22 Jun 2025 07:02:48 GMT | Everything I Don’t Say, I Weigh Again Each Day | Łukasz Ratajczak | [Read More](https://medium.com/p/6a6e3bbaf87c) |
 | Sun, 22 Jun 2025 06:54:53 GMT | Surgical Strikes, Systemic Wounds: Rethinking the Ethos of Modern Conflict | Dr Sp Mishra | [Read More](https://medium.com/p/fadb64da5af2) |
@@ -109,7 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sat, 21 Jun 2025 20:19:07 GMT | US Cyber Open(Season 5) Write-up | Nashtavirs | [Read More](https://medium.com/p/c03a35b11317) |
 | Sat, 21 Jun 2025 20:08:22 GMT | PRESTITO ONLINE SENZA CONTROLLO DEL CREDITO: SEMPLIFICA LA TUA VITA CON I NOSTRI SERVIZI….WHATSAPP: | Alialsward | [Read More](https://medium.com/p/44b4030c1ceb) |
 | Sat, 21 Jun 2025 19:58:12 GMT | AWS re: Inforce 2025 - Keynote, Sessions, and My Security Highlights | Sena Yakut | [Read More](https://medium.com/p/afae4aa9778d) |
-| Sat, 21 Jun 2025 19:55:50 GMT | Meditation for Stress Relief: A Beginner’s Friendly Guide | NineTales | [Read More](https://medium.com/p/0dca6a3a78c5) |
-| Sat, 21 Jun 2025 19:54:42 GMT | The risk of not understanding risk. | Steve Faust | [Read More](https://medium.com/p/6a446b28f0a1) |
-| Sat, 21 Jun 2025 19:52:17 GMT | Google Dorking: Smart Search or a Digital Superpower? | Nimit Ahir | [Read More](https://medium.com/p/8ecefd692d0b) |
-| Sat, 21 Jun 2025 19:47:30 GMT | Microsoft Excel LTSC 2024 Vulnerability Leads to Remote Code Execution (RCE) — What You Need to… | Khaleel Khan | [Read More](https://medium.com/p/4f3271964aed) |
