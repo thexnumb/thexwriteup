@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 23:01:41 GMT | Blue Team Labs Online — The Planet’s Prestige Walkthrough | Drew Arpino | [Read More](https://medium.com/p/e16ee4fd11ed) |
+| Sun, 22 Jun 2025 22:58:03 GMT | Breaking HTTP Basic Auth with Crunch & Nmap— Brute Forcing the PentesterAcademy Challenge | Cybernerddd | [Read More](https://medium.com/p/abc1095e79de) |
+| Sun, 22 Jun 2025 22:54:34 GMT | Shield Your Tech | Ed-it Editions | [Read More](https://medium.com/p/05f9b361360f) |
+| Sun, 22 Jun 2025 22:52:25 GMT | ChatGPT Is Burning the Planet One Prompt at a Time | Dr. Shweta Shah | [Read More](https://medium.com/p/6b9c6e03c6e5) |
+| Sun, 22 Jun 2025 22:41:26 GMT | Solving BRabbit Lab | Abdelrahman_elkolaly | [Read More](https://medium.com/p/0ff4ff3b1bad) |
 | Sun, 22 Jun 2025 22:31:35 GMT | BOUNTY HACKER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/dc7d4665eb7a) |
 | Sun, 22 Jun 2025 22:27:25 GMT | Your Kubernetes Config Is Leaking Secrets Right Now | Rahul Sharma | [Read More](https://medium.com/p/e5f82b82427a) |
 | Sun, 22 Jun 2025 22:26:56 GMT | The One-Byte Mistake That Still Costs Us All | Cfir Aguston | [Read More](https://medium.com/p/d95b38593cdd) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 15:51:57 GMT | Ultimate HTTP Testing Kit: 50 Curl and CLI One-Liners to Uncover Hidden Web Vulnerabilities | Pratham Shah | [Read More](https://medium.com/p/716088ae17bf) |
 | Sun, 22 Jun 2025 15:51:53 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/e903387f622d) |
 | Sun, 22 Jun 2025 15:50:02 GMT | CrackMapExec--Pass the Hash Attack--Active Directory Pentesting Part 11: | Muhammadhuzaifa | [Read More](https://medium.com/p/ccaff491b65b) |
-| Sun, 22 Jun 2025 15:46:27 GMT | THE IMPACT OF MATERNAL LOSS: NAVIGATING GRIEF AND RESPONSIBILITY | Fedude Annie | [Read More](https://medium.com/p/108fe6b68286) |
-| Sun, 22 Jun 2025 15:42:55 GMT | AI at Work: How to Use Generative AI Effectively Without Compromising Security | Dumidu Wijewardana | [Read More](https://medium.com/p/f45783c67609) |
-| Sun, 22 Jun 2025 15:35:29 GMT | Hackthebox Footprinting SMB module Writeup | ma40ou | [Read More](https://medium.com/p/47e7d95c3272) |
-| Sun, 22 Jun 2025 15:32:25 GMT | GZR Observer Daily — Jun 22, 2025 | Ninad Bhamburdekar | [Read More](https://medium.com/p/88f69bcdc45c) |
-| Sun, 22 Jun 2025 15:31:32 GMT | Why Your Password Manager Is Less Secure Than You Think | Sohail Saifi | [Read More](https://medium.com/p/dc1b861d5346) |
