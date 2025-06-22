@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 15:31:32 GMT | Why Your Password Manager Is Less Secure Than You Think | Sohail Saifi | [Read More](https://medium.com/p/dc1b861d5346) |
+| Sun, 22 Jun 2025 15:21:33 GMT | Supporting Security from the Inside Out: A GRC Perspective | Navigating GRC with Elijah | [Read More](https://medium.com/p/ca9c6eed148a) |
 | Sun, 22 Jun 2025 15:08:39 GMT | Intermediate Lab Environment: Active Directory Setup | Abyss | [Read More](https://medium.com/p/df87d8fcca30) |
 | Sun, 22 Jun 2025 15:04:39 GMT | How Countries Are Using AI in War | Pratham Mahajan | [Read More](https://medium.com/p/d618ee17e401) |
 | Sun, 22 Jun 2025 15:03:29 GMT | Advanced Port Scanning: Pentest Techniques and Real-World Insights | 0xZeroDay | [Read More](https://medium.com/p/d007fec72318) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 06:44:20 GMT | Day 29: What is Privilege Escalation? | Nile Okomo | [Read More](https://medium.com/p/5050489179db) |
 | Sun, 22 Jun 2025 06:38:29 GMT | Authentication Bypass Techniques: Cracking the Gate Without the Key | Santhosh Adiga U | [Read More](https://medium.com/p/31d909809467) |
 | Sun, 22 Jun 2025 06:33:42 GMT | 10 Days of Hell : The Certification That Nearly Broke Me (But Made Me Better) | therealslimshady | [Read More](https://medium.com/p/45ca59462878) |
-| Sun, 22 Jun 2025 06:32:42 GMT | Understanding the iOS Keychain: Secure Storage for Sensitive Data | Boby Ficher | [Read More](https://medium.com/p/1f53056a1094) |
-| Sun, 22 Jun 2025 06:32:41 GMT | Softness Was Never a Weakness | Half Bloomed Diaries | [Read More](https://medium.com/p/b92342bdcb56) |
