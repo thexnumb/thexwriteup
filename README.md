@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 13:24:28 GMT | The Fear of Being Seen | Perpetua | [Read More](https://medium.com/p/456aff65e78f) |
 | Sun, 22 Jun 2025 13:19:55 GMT | Simple manual recon leads to P1 finding and uncovering AWS access and secret keys | Abdalah | [Read More](https://medium.com/p/01739de81633) |
+| Sun, 22 Jun 2025 13:19:21 GMT | Romance, Reality, and the Weight of Mental Health | Ryane | [Read More](https://medium.com/p/1f6b0babd1c7) |
 | Sun, 22 Jun 2025 13:16:05 GMT | Unmasking the Unseen: How Interactsh Levels Up Your Bug Bounty Game | CypherNova1337 | [Read More](https://medium.com/p/8f1a13ba26e8) |
 | Sun, 22 Jun 2025 13:15:16 GMT | Where are all the baby cockroaches? | John Cumbow | [Read More](https://medium.com/p/ee87c9a2022c) |
 | Sun, 22 Jun 2025 13:01:45 GMT | Exposing Critical Asset Blindspots: Why You Can’t Defend What You Can’t See | Peris.ai Cybersecurity | [Read More](https://medium.com/p/0e0ea23e2b19) |
@@ -111,5 +113,3 @@ and Access… | Igbinigie Osasenaga | [Read More](https://medium.com/p/34231282d
 | Sun, 22 Jun 2025 04:31:53 GMT | Quantum Computing and Security: What You Need to Know! | hp | [Read More](https://medium.com/p/1f183bf9f94c) |
 | Sun, 22 Jun 2025 04:31:08 GMT | HTB “Getting Started” | ma40ou | [Read More](https://medium.com/p/cecbe03084e9) |
 | Sun, 22 Jun 2025 04:14:54 GMT | From Despair to Triumph | Phillipe Jean | [Read More](https://medium.com/p/52ee8f546163) |
-| Sun, 22 Jun 2025 03:52:24 GMT | THM: Fusion Corp | Persecure | [Read More](https://medium.com/p/64ab903e8485) |
-| Sun, 22 Jun 2025 03:48:44 GMT | A Simple Guide to Privacy Online | Jeffrey Seathrún Sardina | [Read More](https://medium.com/p/75fcfc063ca8) |
