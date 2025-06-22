@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 17:33:14 GMT | Your Bug Bounty Toolkit — What You Actually Need to Start Finding Bugs | Đeepanshu | [Read More](https://medium.com/p/10406119233c) |
+| Sun, 22 Jun 2025 17:23:46 GMT | 16 Billion People Got Hacked: Here’s How to Fight Back | Neetrox | [Read More](https://medium.com/p/5c95f0413326) |
 | Sun, 22 Jun 2025 17:14:30 GMT | Kioptrix4 | Nano | [Read More](https://medium.com/p/85984463b921) |
 | Sun, 22 Jun 2025 17:12:50 GMT | Welcome to the Ultimate Cybersecurity Blog for Hackers, Learners & CTF Warriors! | Nitish Ghormade | [Read More](https://medium.com/p/c8f533a71229) |
 | Sun, 22 Jun 2025 17:08:22 GMT | 5 AI Security Projects to Prove You’re Ready for the Future of Cybersecurity | Taimur Ijlal | [Read More](https://medium.com/p/a8eb8e99dd24) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 09:46:14 GMT | ️ SkyRecon: My AI-Powered Cybersecurity Dashboard for Real-Time IOC Detection | ruchir ganatra | [Read More](https://medium.com/p/715354c3cafb) |
 | Sun, 22 Jun 2025 09:45:44 GMT | The 2025 Elections in the Philippines Are Over — But the 2028 Campaign Has Already Begun | Data & Policy Blog | [Read More](https://medium.com/p/6ba3391b5562) |
 | Sun, 22 Jun 2025 09:34:37 GMT | I Found Public Transit Systems Online — It Let Anyone Track Buses and Make Announcements | hacker_might | [Read More](https://medium.com/p/01f7c558f624) |
-| Sun, 22 Jun 2025 09:27:10 GMT | No World for Quiet Men | Mostafa Naguib | [Read More](https://medium.com/p/134e2633429f) |
-| Sun, 22 Jun 2025 09:25:39 GMT | Mastering LazyS3: The Complete Guide for Effortless S3 Management | Binara Wijewickrama | [Read More](https://medium.com/p/36280c904704) |
