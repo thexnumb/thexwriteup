@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Jun 2025 20:36:13 GMT | Why 90% Fail at Bug Bounties (And How You Can Actually Win in 2025) | Rishabh Shrivastava | [Read More](https://medium.com/p/47ada94af783) |
+| Sun, 22 Jun 2025 20:31:33 GMT | Inside India’s Toll Hacking: How FASTag RFID Exploits Are Costing Crores | Aditya sunny | [Read More](https://medium.com/p/11908f6ba4a6) |
+| Sun, 22 Jun 2025 20:22:16 GMT | Hybrid BM25 + Vector Retrieval for Precise Threat Intelligence | Michael Rico | [Read More](https://medium.com/p/a295e43b28e6) |
 | Sun, 22 Jun 2025 20:20:47 GMT | Leveraging BeEF for Social Engineering: | HemanthKunani | [Read More](https://medium.com/p/f45789a99c22) |
 | Sun, 22 Jun 2025 20:19:58 GMT | Suas GitHub Actions estão seguras? Veja como detectar e corrigir actions vulneráveis. | Matheus Bolela | [Read More](https://medium.com/p/03368d32e3b2) |
 | Sun, 22 Jun 2025 20:17:35 GMT | Middlewares in ASP.NET Core | Şeyma Nur Dalamanlı | [Read More](https://medium.com/p/3dfcf07d537d) |
+| Sun, 22 Jun 2025 20:16:05 GMT | Armaxis (Very Easy) Web CTF — Hack the Box | Pr0tag0nist | [Read More](https://medium.com/p/0021c1b9812e) |
 | Sun, 22 Jun 2025 20:09:49 GMT | Toll Collection System Vulnerabilities and Hacking — A Technical and Legal Exploration | Aditya sunny | [Read More](https://medium.com/p/306aa3ae27de) |
 | Sun, 22 Jun 2025 19:59:37 GMT | What is a CASB? | Tobiwan Solutions | [Read More](https://medium.com/p/e2c2742d7058) |
 | Sun, 22 Jun 2025 19:46:46 GMT | Dark webs like DuckDuckGo & Tor browser vs Incognito {surfaced browsers like Google} + The… | Clair Unfolds | [Read More](https://medium.com/p/9aa6d963f5de) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 14:18:17 GMT | Manual Geolocation Part 1: Spot the Landmark | Joe The OSINT Guy | [Read More](https://medium.com/p/97dc7585e8ca) |
 | Sun, 22 Jun 2025 14:15:50 GMT | Why I Find It Harder to Apologize to People I Love | Home | [Read More](https://medium.com/p/e401d462ee0a) |
 | Sun, 22 Jun 2025 14:14:30 GMT | Old But Gold: Legacy AV Evasion Techniques That Still Work (Sometimes) | Very Lazy Tech | [Read More](https://medium.com/p/9c4159ea7bf2) |
-| Sun, 22 Jun 2025 14:12:10 GMT | Kafka Encryption for Cardholder Data: Solving PCI Challenges with Kroxylicious | Mostafa Hussein | [Read More](https://medium.com/p/acb11d18184d) |
-| Sun, 22 Jun 2025 14:10:03 GMT | Understanding Flash Coin (Illusion) and How It’s Used | Vowa | [Read More](https://medium.com/p/d6a06cf37d8c) |
-| Sun, 22 Jun 2025 14:08:34 GMT | Reverse Engineering Başlanğıcı: Music Player Analizi(IDA və x32dbg) | Elmin Farzaliyev | [Read More](https://medium.com/p/c400e4b7b95a) |
-| Sun, 22 Jun 2025 14:04:49 GMT | Review — CyberWarFare Labs : Certified Purple Team Analyst [CPTA v2], My First Purple Team… | Chicken0248 | [Read More](https://medium.com/p/789d481cf872) |
