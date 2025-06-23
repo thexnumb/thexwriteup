@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 09:36:55 GMT | HackTheBox — Netmon Walkthrough | 0xh3x | [Read More](https://medium.com/p/3f6901c6547a) |
+| Mon, 23 Jun 2025 09:32:44 GMT | The Three Most Common OAuth Implementation Mistakes | Albert Starreveld | [Read More](https://medium.com/p/e321f1575f30) |
+| Mon, 23 Jun 2025 09:30:37 GMT | Next Gen AI-Powered Cybersecurity: AI-Native SOC, Next Gen SIEM, MDR, etc. | noailabs | [Read More](https://medium.com/p/2d04be89b820) |
+| Mon, 23 Jun 2025 09:23:35 GMT | How a Simple Misconfigured S3 Bucket Exposed Our Data | Divesh Rajput | [Read More](https://medium.com/p/43c46f4f1237) |
+| Mon, 23 Jun 2025 09:19:39 GMT | Sleepy Pickle: Stealthy threat lurking in your ML Models | Govind Singh | [Read More](https://medium.com/p/1360124357d5) |
 | Mon, 23 Jun 2025 09:12:25 GMT | "My Password Wasn't Enough": Why You Need Multi-Factor Authentication Now More Than Ever | Amaka okoye | [Read More](https://medium.com/p/324a1df0c104) |
 | Mon, 23 Jun 2025 09:00:36 GMT | Hijacking Suspended Threads with APCs and NtAlertResumeThread | LordShen | [Read More](https://medium.com/p/26a83694a0c0) |
 | Mon, 23 Jun 2025 08:58:26 GMT | Red Team vs. Blue Team: Simulating Real-World Cyber Attacks | Akitra | [Read More](https://medium.com/p/bc7aeba0f87d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 02:09:27 GMT | Honey Pots: The Art of Digital Deception in Cybersecurity | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/a1ee316723da) |
 | Mon, 23 Jun 2025 02:06:24 GMT | Inspecting Container Images with Dive — A Practical Guide | Bill WANG | [Read More](https://medium.com/p/344e2d1ec0db) |
 | Mon, 23 Jun 2025 01:49:33 GMT | All Chase bank paypal Venmo Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv… | Gonzalez | [Read More](https://medium.com/p/131046daaffc) |
-| Mon, 23 Jun 2025 01:46:38 GMT | Secure IAM Key Rotation, Storage, and Deletion Pipeline | Akuphe Dieudonne | [Read More](https://medium.com/p/009611fa3e33) |
-| Mon, 23 Jun 2025 01:43:01 GMT | IP Address for Non Techies — A beginner’s guide | Zia Gondal | [Read More](https://medium.com/p/1a06be56c6ae) |
-| Mon, 23 Jun 2025 01:41:35 GMT | The Unspoken Rules of Dating: Initiative Shows True Interest, Indifference Doesn’t Exist | Lilyana | [Read More](https://medium.com/p/e2cd659c55c3) |
-| Mon, 23 Jun 2025 01:35:20 GMT | Secure and Compliant AI in the Enterprise | Jordanne Barrett | [Read More](https://medium.com/p/30a6e264a800) |
-| Mon, 23 Jun 2025 01:23:55 GMT | How to Hack a Database | cyberh4cks.com | [Read More](https://medium.com/p/d51f4ea49775) |
