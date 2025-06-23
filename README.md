@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 17:05:37 GMT | What They Said Over the Phone Still Echoes in My Head | Cwangechi N | [Read More](https://medium.com/p/4bcef4675813) |
+| Mon, 23 Jun 2025 17:02:42 GMT | Pegasus Spyware — Everything You Need to Know | Xaltius | [Read More](https://medium.com/p/03002cfe151f) |
+| Mon, 23 Jun 2025 17:02:13 GMT | Practical Coding in Cyber Security - HackTheBox Coding Challenges | Motasem Hamdan | [Read More](https://medium.com/p/e9f11c9e47cd) |
+| Mon, 23 Jun 2025 17:01:54 GMT | Analysis - Strategic Convergence: Why NATO Should Deepen Maritime Partnerships with Australia and… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/a5e5aa002edb) |
+| Mon, 23 Jun 2025 16:57:34 GMT | Key Services Offered by Cybersecurity Solution Providers Today | James Das | [Read More](https://medium.com/p/82baaabcbdfc) |
+| Mon, 23 Jun 2025 16:57:15 GMT | My Virtual HomeLab: Active Directory — Part Four | Cybersec with Hemmars | [Read More](https://medium.com/p/65c66af79114) |
+| Mon, 23 Jun 2025 16:57:06 GMT | From SQLi Discovery to a $4,500 Reward | Monika sharma | [Read More](https://medium.com/p/ecb709e18842) |
+| Mon, 23 Jun 2025 16:56:20 GMT | $800 Bounty: HTTP Response Header Injection in Shopify’s Pitchfork + Rack 3 | Monika sharma | [Read More](https://medium.com/p/0d95b2560eb1) |
+| Mon, 23 Jun 2025 16:56:05 GMT | Why Google passwords leaked? | Levi Smith | [Read More](https://medium.com/p/c7fcf001f477) |
+| Mon, 23 Jun 2025 16:53:24 GMT | Reddit may soon ask: “Mind if I scan your eye? | Web Designer Depot | [Read More](https://medium.com/p/f3427d2901ce) |
+| Mon, 23 Jun 2025 16:51:04 GMT | CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect (PAN-OS) Exploit Analysis & PoC | krish | [Read More](https://medium.com/p/7468e29fc7a3) |
 | Mon, 23 Jun 2025 16:46:42 GMT | $5,300 Bounty: Critical Flaw in Brave Browser | Monika sharma | [Read More](https://medium.com/p/b569234d11b5) |
 | Mon, 23 Jun 2025 16:37:30 GMT | Use SMART to Predict Storage Problems | ULINK DA Drive Analyzer | [Read More](https://medium.com/p/228d67f2073c) |
 | Mon, 23 Jun 2025 16:35:38 GMT | Keeping It Real | Nimisha Ajaikumar | [Read More](https://medium.com/p/2a3f9bb72048) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 12:24:03 GMT | Scattered Spider’s Widespread Impact on UK Retailers and U.S. Insurance Firms | Hari Rahul | [Read More](https://medium.com/p/3241b3c444e3) |
 | Mon, 23 Jun 2025 12:20:27 GMT | How Do vCISO Services Improve Security? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8dbc7edba7ce) |
 | Mon, 23 Jun 2025 12:16:45 GMT | Siber Güvenlik ve Python | Atasoy | [Read More](https://medium.com/p/f7e134406040) |
-| Mon, 23 Jun 2025 12:12:37 GMT | Securing Our Energy Infrastructure: Cyber in the Era of Green Molecules® | Victor Pascucci III | [Read More](https://medium.com/p/696fb32a7867) |
-| Mon, 23 Jun 2025 12:11:39 GMT | Remote Access under Siege: What the ScreenConnect Zero‑Trust Breach Reveals for Modern Enterprises | Chetan Seripally | [Read More](https://medium.com/p/e9db86124eae) |
-| Mon, 23 Jun 2025 12:09:53 GMT | Cyber Risk Assessment & Planning: A Strategic Guide for Future-Ready Businesses | Sophia | [Read More](https://medium.com/p/45a61dd65c1c) |
-| Mon, 23 Jun 2025 12:07:31 GMT | Building Cybersecurity That Lasts: The Five Pillars of Modern Defense | Diogo | [Read More](https://medium.com/p/ac9c0bcfcc6d) |
-| Mon, 23 Jun 2025 12:00:48 GMT | Why CCTV Installation is the First Step to a Smarter, Safer Property | Zyboseo | [Read More](https://medium.com/p/4b02e0f58225) |
-| Mon, 23 Jun 2025 12:00:16 GMT | 5 Mind-Blowing Things AI Will Be Able to Do by 2030 | Hafizbilaltariq | [Read More](https://medium.com/p/a0df156fd36a) |
-| Mon, 23 Jun 2025 11:59:09 GMT | Fortify Your Next.js App: A Deep Dive into Defense-in-Depth Security | Yusuf Aksoy | [Read More](https://medium.com/p/798f1591968d) |
-| Mon, 23 Jun 2025 11:53:12 GMT | Our Monitoring Setup Lied: How a Hidden 502 Error Nearly Drove Us Crazy | Zudonu Osomudeya | [Read More](https://medium.com/p/301e7c70940d) |
-| Mon, 23 Jun 2025 11:50:37 GMT | Crypto vs. Fiat in Times of War: A Deep Dive into Your Safeguard Strategy | Lorenzo Makoy | [Read More](https://medium.com/p/8357c6312f8a) |
-| Mon, 23 Jun 2025 11:50:11 GMT | Nothing Tastes Anymore | Boluwatife Lash | [Read More](https://medium.com/p/0f08af82b404) |
-| Mon, 23 Jun 2025 11:37:51 GMT | Wading into Escape | Vuotosiderale | [Read More](https://medium.com/p/841cd27e3b77) |
