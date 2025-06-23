@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 12:42:11 GMT | UAC-0001 (APT28) Cyber Attacks on Government Agencies Using BEARDSHELL and COVENANT | SIMKRA | [Read More](https://medium.com/p/964df46004af) |
+| Mon, 23 Jun 2025 12:30:36 GMT | Introducing Secret AI: 100% Private & Local AI on Phone | Secret AI | [Read More](https://medium.com/p/dba20e998d31) |
+| Mon, 23 Jun 2025 12:29:51 GMT | Scattered Spider Is Back, and This Time They Are Targeting Insurance | Manish | [Read More](https://medium.com/p/84f0d06f16f1) |
+| Mon, 23 Jun 2025 12:28:14 GMT | Scattered Spider Now Targeting US Insurance Sector After UK Retail Attack | Srinivasps | [Read More](https://medium.com/p/e09f0ed77ea0) |
+| Mon, 23 Jun 2025 12:26:55 GMT | Pomodoro Technique — Boost your Productivity | Gerald | [Read More](https://medium.com/p/1fed3019c66f) |
+| Mon, 23 Jun 2025 12:24:03 GMT | Scattered Spider’s Widespread Impact on UK Retailers and U.S. Insurance Firms | Hari Rahul | [Read More](https://medium.com/p/3241b3c444e3) |
+| Mon, 23 Jun 2025 12:20:27 GMT | How Do vCISO Services Improve Security? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8dbc7edba7ce) |
+| Mon, 23 Jun 2025 12:16:45 GMT | Siber Güvenlik ve Python | Atasoy | [Read More](https://medium.com/p/f7e134406040) |
+| Mon, 23 Jun 2025 12:12:37 GMT | Securing Our Energy Infrastructure: Cyber in the Era of Green Molecules® | Victor Pascucci III | [Read More](https://medium.com/p/696fb32a7867) |
+| Mon, 23 Jun 2025 12:11:39 GMT | Remote Access under Siege: What the ScreenConnect Zero‑Trust Breach Reveals for Modern Enterprises | Chetan Seripally | [Read More](https://medium.com/p/e9db86124eae) |
+| Mon, 23 Jun 2025 12:09:53 GMT | Cyber Risk Assessment & Planning: A Strategic Guide for Future-Ready Businesses | Sophia | [Read More](https://medium.com/p/45a61dd65c1c) |
+| Mon, 23 Jun 2025 12:07:31 GMT | Building Cybersecurity That Lasts: The Five Pillars of Modern Defense | Diogo | [Read More](https://medium.com/p/ac9c0bcfcc6d) |
+| Mon, 23 Jun 2025 12:00:48 GMT | Why CCTV Installation is the First Step to a Smarter, Safer Property | Zyboseo | [Read More](https://medium.com/p/4b02e0f58225) |
+| Mon, 23 Jun 2025 12:00:16 GMT | 5 Mind-Blowing Things AI Will Be Able to Do by 2030 | Hafizbilaltariq | [Read More](https://medium.com/p/a0df156fd36a) |
+| Mon, 23 Jun 2025 11:59:09 GMT | Fortify Your Next.js App: A Deep Dive into Defense-in-Depth Security | Yusuf Aksoy | [Read More](https://medium.com/p/798f1591968d) |
+| Mon, 23 Jun 2025 11:53:12 GMT | Our Monitoring Setup Lied: How a Hidden 502 Error Nearly Drove Us Crazy | Zudonu Osomudeya | [Read More](https://medium.com/p/301e7c70940d) |
+| Mon, 23 Jun 2025 11:50:37 GMT | Crypto vs. Fiat in Times of War: A Deep Dive into Your Safeguard Strategy | Lorenzo Makoy | [Read More](https://medium.com/p/8357c6312f8a) |
+| Mon, 23 Jun 2025 11:50:11 GMT | Nothing Tastes Anymore | Boluwatife Lash | [Read More](https://medium.com/p/0f08af82b404) |
+| Mon, 23 Jun 2025 11:37:51 GMT | Wading into Escape | Vuotosiderale | [Read More](https://medium.com/p/841cd27e3b77) |
+| Mon, 23 Jun 2025 11:36:44 GMT | Automating Linux Updates at Boot: Secure Your VMs Before They Even Stretch | Rachit Sheth | [Read More](https://medium.com/p/71d3d88dff20) |
 | Mon, 23 Jun 2025 11:30:54 GMT | Stored XSS into HTML context with nothing encoded by PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/fb2c3abfe6bd) |
+| Mon, 23 Jun 2025 11:29:44 GMT | Corporate Event Security: More Than Just Bouncers at the Door | Sumintra | [Read More](https://medium.com/p/490ca26ce7fe) |
 | Mon, 23 Jun 2025 11:29:19 GMT | How the Johari Window Can Transform IT Service Management ? | Fabrice D.Kagame | [Read More](https://medium.com/p/314224212070) |
 | Mon, 23 Jun 2025 11:25:47 GMT | Inside the Microsoft Midnight Blizzard Breach | Taiyab Lokhandwala | [Read More](https://medium.com/p/fdfbb3dad9a9) |
 | Mon, 23 Jun 2025 11:23:02 GMT | Penetration Test Report Sample [Free Download & Guide] | Qualysectechnologies | [Read More](https://medium.com/p/f48109e34eb8) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 06:25:24 GMT | Creating Payloads for the USB Rubber Ducky | Javier Calderon Jr | [Read More](https://medium.com/p/ba75e38b5f4c) |
 | Mon, 23 Jun 2025 06:23:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3b118b82930d) |
 | Mon, 23 Jun 2025 06:21:48 GMT | $7,500 Bounty: Exposed Proxy on Reddit Allowed External Access to Internal Domains | Monika sharma | [Read More](https://medium.com/p/a6abc413d852) |
-| Mon, 23 Jun 2025 06:18:50 GMT | From DevOps to Internal Developer Platforms (IDPs): Why Enterprises Are Building Golden Paths | Abhaya | [Read More](https://medium.com/p/2e77b28b8c7a) |
-| Mon, 23 Jun 2025 06:16:46 GMT | Security 101: Web Güvenliği Serisi (2025 Edition) — Let’s Secure The Web Like Pros | Yusuf Emin IRKI | [Read More](https://medium.com/p/35330c2a4abc) |
-| Mon, 23 Jun 2025 06:14:50 GMT | $2,162 Bounty: CVE-2024–56374 — DoS in Django’s IPv6 Validation | Monika sharma | [Read More](https://medium.com/p/d689da7584b9) |
-| Mon, 23 Jun 2025 06:14:44 GMT | THM - Supplemental Memory | Francesco Pastore | [Read More](https://medium.com/p/7107ef881360) |
-| Mon, 23 Jun 2025 06:14:25 GMT | THM - CAPTCHApocalypse | Francesco Pastore | [Read More](https://medium.com/p/0ddf1766707c) |
-| Mon, 23 Jun 2025 06:13:34 GMT | Top iGaming Software Security Challenges and How to Overcome Them | Betfoc | [Read More](https://medium.com/p/f6522a5469e1) |
-| Mon, 23 Jun 2025 06:13:13 GMT | HelloWorld | Borisab | [Read More](https://medium.com/p/67c52a30d178) |
-| Mon, 23 Jun 2025 06:12:41 GMT | Simplify Device Setup with Apple Business Manager and the Device Enrollment Program | Likith Singh | [Read More](https://medium.com/p/8e114dc9e7b7) |
-| Mon, 23 Jun 2025 06:11:31 GMT | Boost Your Cybersecurity Game! | Cybernous Infosec consulting | [Read More](https://medium.com/p/4d8fad4b6be9) |
-| Mon, 23 Jun 2025 06:05:39 GMT | Understanding Blue Team, Red Team, White Team, and Purple Team in Cybersecurity: Roles, Skills… | cybrNK | [Read More](https://medium.com/p/9261c161d32d) |
-| Mon, 23 Jun 2025 06:03:11 GMT | The Linux Concept Journey — procfs (Proc Filesystem) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f6b2e3aa5550) |
-| Mon, 23 Jun 2025 06:02:38 GMT | Brute Force Detection with Python: How I Parsed Real Linux Logs to Spot Failed SSH Logins | Dhruvish Rathod | [Read More](https://medium.com/p/ae84f7e5a1d1) |
-| Mon, 23 Jun 2025 06:01:18 GMT | SAST scan in your GitHub pipeline | Jeroen Verhaeghe | [Read More](https://medium.com/p/c94d399deab3) |
-| Mon, 23 Jun 2025 06:00:32 GMT | Today’s Top Cyber Intelligence Highlights — Jun 23, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/d7f68d7cf4be) |
-| Mon, 23 Jun 2025 05:51:45 GMT | How I Created a Governance Tool in Under an Hour | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/95a7f2abbcc9) |
-| Mon, 23 Jun 2025 05:43:03 GMT | The Silent XML Trap That Could Compromise Your OTP Security | crązŷrąiɲ | [Read More](https://medium.com/p/23df2938f1eb) |
-| Mon, 23 Jun 2025 05:37:27 GMT | PING and TRACERT (Traceroute) Networking Command Line Tools | Gopal Mohan | [Read More](https://medium.com/p/d20c432439db) |
-| Mon, 23 Jun 2025 05:36:46 GMT | From Awareness to Action: Evolving Security Through Human Risk Management | Thomas Carter | [Read More](https://medium.com/p/dba71590e79a) |
-| Mon, 23 Jun 2025 05:34:00 GMT | Social Engineering: Hacking the Human Mind in the Digital Age | Amol Rangari | [Read More](https://medium.com/p/c2210b7b8e0e) |
-| Mon, 23 Jun 2025 05:29:40 GMT | OWASP Pentest Series (7/12) | TheZeeshanKhan | [Read More](https://medium.com/p/8e2a2af9a30b) |
-| Mon, 23 Jun 2025 05:26:40 GMT | Who Needs Phishing When Your Credentials Are Already for Sale Online? | Marco Camisani Calzolari | [Read More](https://medium.com/p/721750a63c50) |
