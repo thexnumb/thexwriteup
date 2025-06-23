@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 04:35:07 GMT | Conditional Access Policy Explained in Under 5 Minutes (And Why You Should Care) | Saikat Paul | [Read More](https://medium.com/p/c32e3ec03ae4) |
+| Mon, 23 Jun 2025 04:29:17 GMT | Prisma Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/ab7c283d9e62) |
+| Mon, 23 Jun 2025 04:29:04 GMT | How I Stopped the Bots from Hammering My Django Login: A Friendly Guide to Django-Axes | Mwangi Anthony | [Read More](https://medium.com/p/eb9e06edb9a4) |
+| Mon, 23 Jun 2025 04:23:53 GMT | AWS Fortress — Hack The Box Review | Sneh bavarva | [Read More](https://medium.com/p/6fd752e502e8) |
+| Mon, 23 Jun 2025 04:14:17 GMT | Cara Reinstall Wazuh Server Tanpa Ganggu Agent — Aman & Efisien | Haldian | [Read More](https://medium.com/p/036b5d01af72) |
+| Mon, 23 Jun 2025 04:02:13 GMT | ACM Developer’s Digest #1 | ACM MITB | [Read More](https://medium.com/p/24a7122bc268) |
 | Mon, 23 Jun 2025 03:44:06 GMT | Why It Matters Now More Than Ever | Rajputzadi | [Read More](https://medium.com/p/7524d55e403d) |
 | Mon, 23 Jun 2025 03:38:51 GMT | What Is Cybersecurity? | Rasagnaqt33 | [Read More](https://medium.com/p/80e151739c48) |
 | Mon, 23 Jun 2025 03:31:50 GMT | Android’s Silent Reset: Google’s New Auto-Reboot Feature That Locks Down Forensic Access | Deven Chhajed | [Read More](https://medium.com/p/886452357608) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 18:37:00 GMT | Microsoft Releases Responsible AI Report - VBM | Marcus Spencer | [Read More](https://medium.com/p/2dcc2c0ad028) |
 | Sun, 22 Jun 2025 18:36:03 GMT | Firewall and IDS/IPS Evasion — Medium Lab Nmap | Varkeythms | [Read More](https://medium.com/p/2c76d8c3d31e) |
 | Sun, 22 Jun 2025 18:35:11 GMT | Cybersecurity 101: What It Is and Why It Matters More Than Ever in 2025 | Joy Saha | [Read More](https://medium.com/p/7aef73e50d29) |
-| Sun, 22 Jun 2025 18:33:21 GMT | Productivity Hacks: Ditching Phone Addiction, Planning Your Day, and Staying Focused | ROHIT KUSHWAH | [Read More](https://medium.com/p/55c95aead36a) |
-| Sun, 22 Jun 2025 18:30:31 GMT | Recognizing the Red Flags: How to Identify Militia Extremist Activities on Social Media | AMJAD PERVAIZ BAJWA | [Read More](https://medium.com/p/2b25a1f0fe6d) |
-| Sun, 22 Jun 2025 18:27:29 GMT | What do IAG and IAM mean? My First Steps Learning Identity Governance with SailPoint | Surya Raja | [Read More](https://medium.com/p/c8ae3785baf3) |
-| Sun, 22 Jun 2025 18:22:59 GMT | How Does DDOS Work & How to Prevent It | Ziya DENİZ | [Read More](https://medium.com/p/fe9065d1fd71) |
-| Sun, 22 Jun 2025 18:14:38 GMT | DevOps Tools We Love to Hate (But Can’t Live Without) | Zudonu Osomudeya | [Read More](https://medium.com/p/2603bcf377cf) |
-| Sun, 22 Jun 2025 17:56:44 GMT | Privacy? Not Anymore. | Piyush Aryan | [Read More](https://medium.com/p/f863edb8db49) |
