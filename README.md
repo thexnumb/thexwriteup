@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 11:30:54 GMT | Stored XSS into HTML context with nothing encoded by PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/fb2c3abfe6bd) |
+| Mon, 23 Jun 2025 11:29:19 GMT | How the Johari Window Can Transform IT Service Management ? | Fabrice D.Kagame | [Read More](https://medium.com/p/314224212070) |
+| Mon, 23 Jun 2025 11:25:47 GMT | Inside the Microsoft Midnight Blizzard Breach | Taiyab Lokhandwala | [Read More](https://medium.com/p/fdfbb3dad9a9) |
+| Mon, 23 Jun 2025 11:23:02 GMT | Penetration Test Report Sample [Free Download & Guide] | Qualysectechnologies | [Read More](https://medium.com/p/f48109e34eb8) |
+| Mon, 23 Jun 2025 11:21:05 GMT | How YouTube Became My First Programming Classroom | Sawera Jarwar | [Read More](https://medium.com/p/77e7524d159a) |
+| Mon, 23 Jun 2025 11:20:58 GMT | Google Strengthens Cloud Armor with Multi-Layered Defenses Against Layer 7 DDoS Attacks | CyBlog | [Read More](https://medium.com/p/20071b828380) |
+| Mon, 23 Jun 2025 11:19:45 GMT | What Raidu Does?(And Why It Matters) | Raidu Inc | [Read More](https://medium.com/p/9405f66cd747) |
+| Mon, 23 Jun 2025 11:18:02 GMT | How an OAuth Misconfiguration Led to Token Leakage | Ehtesham Ul Haq | [Read More](https://medium.com/p/6b38d3d32f8e) |
+| Mon, 23 Jun 2025 11:17:44 GMT | Welcome to Only Humans | Adam Craig | [Read More](https://medium.com/p/d0e6f56d38ff) |
 | Mon, 23 Jun 2025 11:09:25 GMT | The 16 Billion Password Breach | Ravi Sankar Uppala | [Read More](https://medium.com/p/a8054180a950) |
 | Mon, 23 Jun 2025 11:01:59 GMT | Here’s How I Recover My Money From Fxpig | Christian Cole | [Read More](https://medium.com/p/2e79976b3464) |
 | Mon, 23 Jun 2025 11:01:36 GMT | ️ Windows Event ID Analysis for Attack Detection: A Deep Dive into Key Event Logs | Esra Kayhan | [Read More](https://medium.com/p/81b6bdb12e8f) |
@@ -26,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 10:15:17 GMT | Bank Iran Lumpuh Total! Serangan Hacker Ini Guncang Ekonomi Nasional | Mata Hacker | [Read More](https://medium.com/p/884909b27ffd) |
 | Mon, 23 Jun 2025 10:14:34 GMT | Cloud Consulting by 5Datainc in the USA - Cybersecurity | Greenj | [Read More](https://medium.com/p/8738d885712f) |
 | Mon, 23 Jun 2025 10:09:41 GMT | The AI Detective Agency: How a Team of LLMs Is Outsmarting the Smartest Phishing Scams | ArXiv In-depth Analysis | [Read More](https://medium.com/p/cb458958cb02) |
+| Mon, 23 Jun 2025 10:03:00 GMT | Por que a polícia não traz segurança? | PovCast | [Read More](https://medium.com/p/a500eb253be2) |
 | Mon, 23 Jun 2025 10:02:20 GMT | Cybersecurity in 2025: A Career Guide for Beginners and Career Changers | HamnaAhmad | [Read More](https://medium.com/p/4699955c6568) |
 | Mon, 23 Jun 2025 09:59:34 GMT | Cybersecurity in the Digital Age: Protecting Your Business in the UAE | Yasinussf | [Read More](https://medium.com/p/edfc6d36b6bf) |
 | Mon, 23 Jun 2025 09:53:19 GMT | Are Artists Really Shy? Why Vulnerability ≠ Shyness. | Dilrukshi Mendis | [Read More](https://medium.com/p/fd74b4e039e2) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 05:34:00 GMT | Social Engineering: Hacking the Human Mind in the Digital Age | Amol Rangari | [Read More](https://medium.com/p/c2210b7b8e0e) |
 | Mon, 23 Jun 2025 05:29:40 GMT | OWASP Pentest Series (7/12) | TheZeeshanKhan | [Read More](https://medium.com/p/8e2a2af9a30b) |
 | Mon, 23 Jun 2025 05:26:40 GMT | Who Needs Phishing When Your Credentials Are Already for Sale Online? | Marco Camisani Calzolari | [Read More](https://medium.com/p/721750a63c50) |
-| Mon, 23 Jun 2025 05:23:01 GMT | 80% of Phishing Clues Are in the Header, PhishHound Finds Them with YAML Logic | Yug Shah | [Read More](https://medium.com/p/39e436ee151e) |
-| Mon, 23 Jun 2025 05:20:09 GMT | The Human Firewall: How to Patch Your Mind Against Digital Predation | Victor Yan | [Read More](https://medium.com/p/2aa35b621c9b) |
-| Mon, 23 Jun 2025 05:13:33 GMT | Why HIPAA Compliance is More Than a Legal Requirement: A Path to Building Patient Trust | DefenceRabbit | [Read More](https://medium.com/p/19b8c2bbfa78) |
-| Mon, 23 Jun 2025 05:06:03 GMT | HackTheBox — Jerry Walkthrough | 0xh3x | [Read More](https://medium.com/p/dc09610e50cf) |
-| Mon, 23 Jun 2025 05:05:50 GMT | Stay Ahead of Hackers with Intelligent AI Cybersecurity Tools | Miawilliams | [Read More](https://medium.com/p/77f05ca50257) |
-| Mon, 23 Jun 2025 05:00:57 GMT | The Quiet Ache | Christine Taylor | [Read More](https://medium.com/p/66608bee391c) |
-| Mon, 23 Jun 2025 04:58:36 GMT | TCM Security — Rooting Blackpearl | Jsar | [Read More](https://medium.com/p/8d4f6a9e2ba3) |
-| Mon, 23 Jun 2025 04:51:19 GMT | How a Small IAM Condition Blocked Our Production API | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/b06933338bab) |
-| Mon, 23 Jun 2025 04:35:07 GMT | Conditional Access Policy Explained in Under 5 Minutes (And Why You Should Care) | Saikat Paul | [Read More](https://medium.com/p/c32e3ec03ae4) |
-| Mon, 23 Jun 2025 04:29:17 GMT | Prisma Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/ab7c283d9e62) |
