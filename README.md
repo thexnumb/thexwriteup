@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 21:02:42 GMT | . | Aftab Raja | [Read More](https://medium.com/p/f2abd7a275c6) |
+| Mon, 23 Jun 2025 20:59:09 GMT | Cybersecurity Trends on June 23, 2025 | Inforsecpro | [Read More](https://medium.com/p/d38e8979bc97) |
+| Mon, 23 Jun 2025 20:51:38 GMT | Securing a Side Project with Free Tools | Garret Lacey | [Read More](https://medium.com/p/bf4dd9111359) |
+| Mon, 23 Jun 2025 20:43:39 GMT | SQL Injection Clásico: Exploiting con `UNION SELECT` | Roberto Alfaro | [Read More](https://medium.com/p/0c706208404f) |
 | Mon, 23 Jun 2025 20:18:42 GMT | Breaking Basic RSA Encryption Scheme: picoCTF 2025 Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/651701732477) |
 | Mon, 23 Jun 2025 20:12:41 GMT | An Exploration: The Dark Web | Maria Antonovich | [Read More](https://medium.com/p/425e1da8faef) |
 | Mon, 23 Jun 2025 20:11:36 GMT | Day 30: Sockets and Signals | Nile Okomo | [Read More](https://medium.com/p/02ce50332542) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 14:42:02 GMT | Vulnerability scanning pattern from Pentesting for Reverse Engineering | ELF Pro Free | [Read More](https://medium.com/p/8b1593fcf007) |
 | Mon, 23 Jun 2025 14:40:38 GMT | Just-in-Time VSS: No Key Left Behind | KONG Wallet & Portfolio | [Read More](https://medium.com/p/e2ff6085f0d7) |
 | Mon, 23 Jun 2025 14:31:51 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source — PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/677d9c497fc2) |
-| Mon, 23 Jun 2025 14:26:31 GMT | How Are Companies Using SaaS Management Tools in 2025? | Arun Jyothi | [Read More](https://medium.com/p/775556475ce5) |
-| Mon, 23 Jun 2025 14:25:45 GMT | Setup you own Hacking Lab — Ultimate guide. | err0rgod | [Read More](https://medium.com/p/1b1618d5123d) |
-| Mon, 23 Jun 2025 14:25:10 GMT | Introduction to CAN Protocol Pentesting: Lab Setup, Tools, and Terminology | Vaishali Nagori | [Read More](https://medium.com/p/c4df037b0e92) |
-| Mon, 23 Jun 2025 14:23:33 GMT | Bypass Facebook Business Quarantine — Integrity Safeguards | Gtm Mänôz | [Read More](https://medium.com/p/6eea61ee9eca) |
