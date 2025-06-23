@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 19:33:46 GMT | PipeMagic Trojan: A Stealthy Threat Targeting Windows Systems | Akshay Chauhan | [Read More](https://medium.com/p/0573316a27c2) |
+| Mon, 23 Jun 2025 19:17:35 GMT | Days 3–5 of 21: Networking(3), Blue Team(4), and Red Team(5) Oh My! | Myshawne Stallings | [Read More](https://medium.com/p/3e945fad105d) |
+| Mon, 23 Jun 2025 19:12:19 GMT | IRAN LAUNCHES MULTIWARHEAD KHEIBAR MISSILES AT ISRAELI REGIME | Defence Affairs & Analysis | [Read More](https://medium.com/p/9167388000de) |
 | Mon, 23 Jun 2025 18:57:02 GMT | Metasploitable 2 Hack: Port Taramaları | Mustafa Şen | [Read More](https://medium.com/p/34f25923ba4a) |
 | Mon, 23 Jun 2025 18:46:46 GMT | Understanding Cybersecurity: Beyond the Hollywood Hype | Aaleyah S. Evans | [Read More](https://medium.com/p/6ad6ddf95644) |
 | Mon, 23 Jun 2025 18:41:19 GMT | Building My Home SOC Lab — Chapter 1: The Beginning | Vijayasakith Vijayakanthan | [Read More](https://medium.com/p/c5312bdbf83b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 13:46:36 GMT | 8 Free Tools That Tell You If Your Password Is Already Compromised | TheReviewHive | [Read More](https://medium.com/p/3f22cc1fb716) |
 | Mon, 23 Jun 2025 13:42:30 GMT | Learn Fast or Get Left Behind: Why Speed of Learning Is Your Greatest Advantage | Owoyemi Emmanuel | [Read More](https://medium.com/p/a7911b1a82c0) |
 | Mon, 23 Jun 2025 13:40:13 GMT | Towards Autonomous Cybersecurity: Past, Present, and the AI-Driven Future | Evolution Equity Partners | [Read More](https://medium.com/p/bcd0d53c6cda) |
-| Mon, 23 Jun 2025 13:38:08 GMT | The Digital Door Slam: UX Lessons From Session Expiry | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/f90de32aa61a) |
-| Mon, 23 Jun 2025 13:32:46 GMT | Websites Can Use Your Camera, Mic & Location Without You Knowing — This Chrome Extension Logs It… | LN Das | [Read More](https://medium.com/p/4ce3886dff0b) |
-| Mon, 23 Jun 2025 13:27:09 GMT | Don’t Delete Your Old Posts — They Might Save Someone Else | Shireen Samy  A Tree Hugger | [Read More](https://medium.com/p/dc6fe9b0d3f7) |
