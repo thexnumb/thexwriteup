@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 07:13:45 GMT | Mastering Malware Analysis: A SOC Analyst’s Guide to Dynamic Analysis with AnyRun | Sh3nobi | [Read More](https://medium.com/p/f701afbaefe0) |
+| Mon, 23 Jun 2025 07:09:54 GMT | I Made $1,000 Playing Mobile Games — But Only After Dodging Dozens of Scams | Travis Ray Caverhill | [Read More](https://medium.com/p/45a57f9b3662) |
+| Mon, 23 Jun 2025 07:08:15 GMT | Why Small Businesses Should Embrace Managed Detection and Response (MDR) | Adil | [Read More](https://medium.com/p/aac45b0e3465) |
+| Mon, 23 Jun 2025 07:06:01 GMT | The €2 Billion Document Problem Is Also a National Security Crisis and fixing it would save literal… | Markus Sandelin | [Read More](https://medium.com/p/b34af2686878) |
+| Mon, 23 Jun 2025 07:05:44 GMT | The Daily Tech Digest: 23 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c2fa4d360db3) |
+| Mon, 23 Jun 2025 07:05:37 GMT | Τεράστια διαρροή δεδομένων (Ιούνιος 2025) | Angelos Perlegkas | [Read More](https://medium.com/p/b491e8b18a75) |
+| Mon, 23 Jun 2025 07:02:31 GMT | Cybersecurity for Remote Workers: Closing the Gaps in a Hybrid World | Richard Charles | [Read More](https://medium.com/p/18985a686745) |
+| Mon, 23 Jun 2025 07:01:49 GMT | This Vulnerability can blow your mind. | Rishav anand | [Read More](https://medium.com/p/7cda8b22d5fa) |
+| Mon, 23 Jun 2025 06:50:46 GMT | 16 Billion Password Leak: एक गंभीर खतरा! (June 2025 Update) | Eilixirnas | [Read More](https://medium.com/p/24f7d69d8f4b) |
+| Mon, 23 Jun 2025 06:49:29 GMT | TruAdvantage | Kayvan Yazdi, Iman Oskoorouchi | [Read More](https://medium.com/p/6265ced45489) |
+| Mon, 23 Jun 2025 06:47:01 GMT | Drive Without Fear: How Spartan Aegis Stops Automotive Ransomware Before It Starts | Ted Rogers | [Read More](https://medium.com/p/0e2cf91c549d) |
+| Mon, 23 Jun 2025 06:44:31 GMT | The Real Risk in Penetration Testing: Over-Reliance on Automation | StrongBox IT | [Read More](https://medium.com/p/c74d39701330) |
+| Mon, 23 Jun 2025 06:44:14 GMT | How to Build a Bug Bounty Target List That Actually Gets You Bugs (2025 Guide) | Đeepanshu | [Read More](https://medium.com/p/626fe67497fa) |
+| Mon, 23 Jun 2025 06:34:34 GMT | Rsync Vulnerabilities Open the Door to Remote Exploits | AerieWhole123 | [Read More](https://medium.com/p/db72462f2a65) |
+| Mon, 23 Jun 2025 06:30:51 GMT | Hvordan udnytter vi open source? | Walther Højgaard Diechmann | [Read More](https://medium.com/p/d3a22a651a5a) |
 | Mon, 23 Jun 2025 06:25:24 GMT | Creating Payloads for the USB Rubber Ducky | Javier Calderon Jr | [Read More](https://medium.com/p/ba75e38b5f4c) |
 | Mon, 23 Jun 2025 06:23:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3b118b82930d) |
 | Mon, 23 Jun 2025 06:21:48 GMT | $7,500 Bounty: Exposed Proxy on Reddit Allowed External Access to Internal Domains | Monika sharma | [Read More](https://medium.com/p/a6abc413d852) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 22:41:26 GMT | Solving BRabbit Lab | Abdelrahman_elkolaly | [Read More](https://medium.com/p/0ff4ff3b1bad) |
 | Sun, 22 Jun 2025 22:31:35 GMT | BOUNTY HACKER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/dc7d4665eb7a) |
 | Sun, 22 Jun 2025 22:27:25 GMT | Your Kubernetes Config Is Leaking Secrets Right Now | Rahul Sharma | [Read More](https://medium.com/p/e5f82b82427a) |
-| Sun, 22 Jun 2025 22:26:56 GMT | The One-Byte Mistake That Still Costs Us All | Cfir Aguston | [Read More](https://medium.com/p/d95b38593cdd) |
-| Sun, 22 Jun 2025 22:26:56 GMT | The Hacker’s Guide to Reality | Zeljko Djokic | [Read More](https://medium.com/p/378184bdffc3) |
-| Sun, 22 Jun 2025 22:26:12 GMT | How the Advanced Encryption Standard (AES) Works: A Complete Guide | Luis Santiago | [Read More](https://medium.com/p/d911c71b28f9) |
-| Sun, 22 Jun 2025 22:26:01 GMT | LetsDefend — Port Scan Activity Walkthrough | Javier | [Read More](https://medium.com/p/65d75e16d3fc) |
-| Sun, 22 Jun 2025 22:21:33 GMT | Speed Dating in Tokyo and the Loneliness I Didn’t Expect to Find | Nikhil | [Read More](https://medium.com/p/7ca79efdf5e2) |
-| Sun, 22 Jun 2025 22:17:10 GMT | Data Exfiltration Over DNS, HTTP & Custom Covert Channels | Karthikeyan Nagaraj | [Read More](https://medium.com/p/646d63562c01) |
-| Sun, 22 Jun 2025 22:14:56 GMT | The Strength No One Sees | Mr Cool | [Read More](https://medium.com/p/c86bbcb3c492) |
-| Sun, 22 Jun 2025 21:48:39 GMT | Microsoft’s Azure Quantum Unveils 4D Code Plan to Tame Quantum Errors | QuantumGenie | [Read More](https://medium.com/p/f32a5e751aae) |
-| Sun, 22 Jun 2025 21:44:39 GMT | Threat Casting a Nation State Attack on Critical Infrastructure | Matthew.Rosenquist | [Read More](https://medium.com/p/c9d56466fb4a) |
-| Sun, 22 Jun 2025 21:44:13 GMT | 16 Billion Passwords Leaked: If You’ve Reused a Password Since 2012, Assume It’s Compromised | Tom Smykowski | [Read More](https://medium.com/p/89693d6cd846) |
-| Sun, 22 Jun 2025 21:30:00 GMT | The Silent Invasion: How Hackers Are Weaponizing GitHub Against Developers | Freddy Rivero @itsfreddy_rb | [Read More](https://medium.com/p/eb32e7765e85) |
-| Sun, 22 Jun 2025 21:26:39 GMT | How I Find Multiple IDOR Vulnerabilities in a Single Target | Ibtissam hammadi | [Read More](https://medium.com/p/79510b77c8de) |
-| Sun, 22 Jun 2025 21:26:08 GMT | Building a Cyber Shield: Multilayered Defense Inspired by U.S. Cyber Command Tactics | A-STAR7_DOCTOR | [Read More](https://medium.com/p/53cf00389083) |
-| Sun, 22 Jun 2025 21:25:15 GMT | From Curious Tinker to Cyber Defender: My Journey into Systems, Cloud, and Security | OtisVJames | [Read More](https://medium.com/p/bc9c2926c945) |
-| Sun, 22 Jun 2025 21:08:35 GMT | One IP, Many People: Why You Can’t Tell Who’s Really Visiting Your Website | embossdotar | [Read More](https://medium.com/p/c40ad4abf9af) |
