@@ -12,12 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 18:27:06 GMT | Security In and Around MCP: Part 2 — MCP in Deployment | Maia Iyer | [Read More](https://medium.com/p/65bdd0ba9dc6) |
+| Mon, 23 Jun 2025 18:26:36 GMT | Top 10 Free Ethical Hacking Courses You Can Start Today (2025) | Very Lazy Tech | [Read More](https://medium.com/p/2b557fb062ea) |
+| Mon, 23 Jun 2025 18:19:46 GMT | CVE-2025-49113-Scanner – Security Advisory | Issam Junior | [Read More](https://medium.com/p/417921332d13) |
+| Mon, 23 Jun 2025 18:14:56 GMT | The BTMOB RAT Was Just Leaked — And XCRATS Is Behind It | InfosecObserver | [Read More](https://medium.com/p/c8359811bc53) |
+| Mon, 23 Jun 2025 18:12:47 GMT | Zero-Knowledge Proofs: The Privacy Revolution That’s Reshaping Blockchain Architecture | Martin Pál | [Read More](https://medium.com/p/2a1a41b84070) |
+| Mon, 23 Jun 2025 18:11:38 GMT | Threat Intelligence Digest — Week Ending:June 22nd, 2025 | IndigoINT | [Read More](https://medium.com/p/1c167cf4c3c7) |
+| Mon, 23 Jun 2025 18:10:49 GMT | Why Softness Isn’t a Weakness, Even When the World Says Otherwise | Dilara | [Read More](https://medium.com/p/d638b645e6ea) |
+| Mon, 23 Jun 2025 18:07:43 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/4fb85d4eac91) |
+| Mon, 23 Jun 2025 17:56:51 GMT | From Wild West to Watchtowers: The Evolution of Blockchain Security | mrblockchain22 | [Read More](https://medium.com/p/79ed93a269e7) |
+| Mon, 23 Jun 2025 17:55:31 GMT | Agentic AI in Production? | Roberto Nava | [Read More](https://medium.com/p/b0a9e484229c) |
+| Mon, 23 Jun 2025 17:46:03 GMT | The CIA Triad: Explained! | Rihaz Ramzaan | [Read More](https://medium.com/p/a2993cf68daf) |
+| Mon, 23 Jun 2025 17:45:49 GMT | Hacking Nothing! Unauthorised access to Nothing’s AWS S3 Buckets | Mohammad Kaif | [Read More](https://medium.com/p/15676b698720) |
+| Mon, 23 Jun 2025 17:42:59 GMT | 16 Milyar Hesaplık Veri Sızıntısı: Dijital Dünyanın En Büyük Kabusu | Ömer Rıdvan POLAT | [Read More](https://medium.com/p/865c072d0074) |
 | Mon, 23 Jun 2025 17:35:53 GMT | CAPTCHApocalypse THM - Writeup | Domon | [Read More](https://medium.com/p/ca4119082aa1) |
 | Mon, 23 Jun 2025 17:27:02 GMT | Security Concerns Regarding AI Rise: Why it is Important to be Aware of It | M Talha Sarwar | [Read More](https://medium.com/p/e4338f4ede13) |
 | Mon, 23 Jun 2025 17:26:55 GMT | ## CVE-2025-3248 Scanner – A Powerful Tool to Detect a Critical Exploit | Issam Junior | [Read More](https://medium.com/p/b0c6f581faeb) |
 | Mon, 23 Jun 2025 17:25:52 GMT | chatMDM: AI-Powered Device Management by Codeproof Technologies | Codeproof Technologies | [Read More](https://medium.com/p/3359579d2240) |
 | Mon, 23 Jun 2025 17:18:32 GMT | Understanding the Difference Between Android and iOS Security | Codeproof Technologies | [Read More](https://medium.com/p/2294f7a23ec7) |
 | Mon, 23 Jun 2025 17:15:05 GMT | Echoes in the Code: How Subtle AI Jailbreaks Are Redefining Cyber Risk | Siva Gunasekaran | [Read More](https://medium.com/p/3ba7e079a70e) |
+| Mon, 23 Jun 2025 17:10:18 GMT | 舊 Mac 筆電改造！家用伺服器／工作站架設全攻略 Part 1：安全部署、SSH 遠端連線與螢幕共享實作 | B | [Read More](https://medium.com/p/30743ddcf522) |
 | Mon, 23 Jun 2025 17:05:37 GMT | What They Said Over the Phone Still Echoes in My Head | Cwangechi N | [Read More](https://medium.com/p/4bcef4675813) |
 | Mon, 23 Jun 2025 17:02:42 GMT | Pegasus Spyware — Everything You Need to Know | Xaltius | [Read More](https://medium.com/p/03002cfe151f) |
 | Mon, 23 Jun 2025 17:02:13 GMT | Practical Coding in Cyber Security - HackTheBox Coding Challenges | Motasem Hamdan | [Read More](https://medium.com/p/e9f11c9e47cd) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 13:20:21 GMT | OAuth2 Security: Securing Front-Channel Parameters with PAR | Kunal Sinha | [Read More](https://medium.com/p/d2eb67ee0643) |
 | Mon, 23 Jun 2025 13:14:21 GMT | Your Unsigned Git Commits Are a Security Liability. Here’s how to fix that. | Gonzalo Alcaraz | [Read More](https://medium.com/p/618f31fd4166) |
 | Mon, 23 Jun 2025 13:14:13 GMT | Trademark analysis and brand-monitoring tools for OSINT | loyalonlytoday | [Read More](https://medium.com/p/599f0a426a96) |
-| Mon, 23 Jun 2025 13:08:47 GMT | A Letter to the Voice That Fears Being Seen | Akshat Singh | [Read More](https://medium.com/p/d236aff9bc0c) |
-| Mon, 23 Jun 2025 13:01:46 GMT | 7 Critical API Security Tests to Automate and Prevent Breaches | equinoXQA | [Read More](https://medium.com/p/eeee759adbdb) |
-| Mon, 23 Jun 2025 13:01:46 GMT | 異常行為聚集 × 黑名單擴散偵測：強化鏈上合規與風險管理效能 | Haysen Lin | [Read More](https://medium.com/p/4d9f8c0cf2dc) |
-| Mon, 23 Jun 2025 12:59:24 GMT | Proofpoint PFPT ENTERPRISE P0 EDU MCAFEE V LIGHT USERS LU-B-P0MPE-V-A-303 | sunol tech | [Read More](https://medium.com/p/fe19b602f303) |
-| Mon, 23 Jun 2025 12:59:06 GMT | ️ Saldırgan Gözüyle Login Sistemi: Rate Limiting, 2FA, Password Reset Hataları | Onur Civan | [Read More](https://medium.com/p/90787bb4fe00) |
-| Mon, 23 Jun 2025 12:57:45 GMT | Hormuz Isn’t Closed: Iran’s Bluff, Bombed Bunkers, and the Shipping Reality They Hope You Missed | Chris Kubecka de Medina | [Read More](https://medium.com/p/db3edf09c47d) |
-| Mon, 23 Jun 2025 12:57:33 GMT | What is DevOps Security? | Spacelift | [Read More](https://medium.com/p/515dbb6bb28c) |
-| Mon, 23 Jun 2025 12:54:52 GMT | TryHackMe StuxCTF — Walkthrough | mauzware | [Read More](https://medium.com/p/3a57734a2b81) |
-| Mon, 23 Jun 2025 12:46:44 GMT | Privacy and Security Trends in Social Media for 2024 | Pcdoctorsnettx | [Read More](https://medium.com/p/7e52aa6473a9) |
-| Mon, 23 Jun 2025 12:42:11 GMT | UAC-0001 (APT28) Cyber Attacks on Government Agencies Using BEARDSHELL and COVENANT | SIMKRA | [Read More](https://medium.com/p/964df46004af) |
-| Mon, 23 Jun 2025 12:42:11 GMT | Security is Not Optional: Dear Developers, Your Default Passwords Just Helped Iran Target Missiles | Hasan Rayan | [Read More](https://medium.com/p/8009ceb753fa) |
-| Mon, 23 Jun 2025 12:41:20 GMT | Professional Mobile Patrols: Ensuring Safety Across Multiple Regions with Mobile Patrol Services | Professional UK Services | [Read More](https://medium.com/p/81b4079c8631) |
-| Mon, 23 Jun 2025 12:40:10 GMT | Stay Safe Online: Discover the Latest in Cybersecurity | مقالة ترندية | [Read More](https://medium.com/p/67e4b0e15a5d) |
-| Mon, 23 Jun 2025 12:30:36 GMT | Introducing Secret AI: 100% Private & Local AI on Phone | Secret AI | [Read More](https://medium.com/p/dba20e998d31) |
