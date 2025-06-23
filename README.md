@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 20:12:41 GMT | An Exploration: The Dark Web | Maria Antonovich | [Read More](https://medium.com/p/425e1da8faef) |
+| Mon, 23 Jun 2025 20:11:36 GMT | Day 30: Sockets and Signals | Nile Okomo | [Read More](https://medium.com/p/02ce50332542) |
+| Mon, 23 Jun 2025 20:08:13 GMT | Successful Military Attacks are Driving Nation States to Cyber Options | Matthew.Rosenquist | [Read More](https://medium.com/p/803158366eba) |
+| Mon, 23 Jun 2025 20:00:50 GMT | Hatless Hacker | Yuksel | [Read More](https://medium.com/p/7bcc4c22d6cd) |
+| Mon, 23 Jun 2025 19:59:54 GMT | #OpenToWork vs Resignation Verified : Decoding Candidate Intent | PaperHire | [Read More](https://medium.com/p/6647b6461e32) |
+| Mon, 23 Jun 2025 19:56:57 GMT | InjuredAndroid Android CTF write-up, Part II | Francesco Masi | [Read More](https://medium.com/p/5b8933fd0d33) |
+| Mon, 23 Jun 2025 19:48:51 GMT | The Digital Battlefield: Israel vs Iran Cyber Warfare — A New Front in Middle Eastern Conflict | Andrei Ivan | [Read More](https://medium.com/p/fa07a75ae8f0) |
+| Mon, 23 Jun 2025 19:44:50 GMT | Essential Windows Event IDs for Enterprise Security: SIEM Use Cases, Explanations, and Activation… | Yuksel | [Read More](https://medium.com/p/f22bf14b5bed) |
+| Mon, 23 Jun 2025 19:44:02 GMT | Hacken Token Crashes 99% After Minting Hack — $250K Vanishes in Digital Smoke | CoinGen | [Read More](https://medium.com/p/8cabebaab1c2) |
+| Mon, 23 Jun 2025 19:41:57 GMT | Ticketmaster Data Breach 2024: What Happened and How It Affects Millions | Akshay Chauhan | [Read More](https://medium.com/p/b6f73c041157) |
+| Mon, 23 Jun 2025 19:41:29 GMT | The Cybersecurity Sentinel (June 23) | Franklin Rhodes | [Read More](https://medium.com/p/19a179d820d9) |
 | Mon, 23 Jun 2025 19:33:46 GMT | PipeMagic Trojan: A Stealthy Threat Targeting Windows Systems | Akshay Chauhan | [Read More](https://medium.com/p/0573316a27c2) |
 | Mon, 23 Jun 2025 19:17:35 GMT | Days 3–5 of 21: Networking(3), Blue Team(4), and Red Team(5) Oh My! | Myshawne Stallings | [Read More](https://medium.com/p/3e945fad105d) |
 | Mon, 23 Jun 2025 19:12:19 GMT | IRAN LAUNCHES MULTIWARHEAD KHEIBAR MISSILES AT ISRAELI REGIME | Defence Affairs & Analysis | [Read More](https://medium.com/p/9167388000de) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 14:25:10 GMT | Introduction to CAN Protocol Pentesting: Lab Setup, Tools, and Terminology | Vaishali Nagori | [Read More](https://medium.com/p/c4df037b0e92) |
 | Mon, 23 Jun 2025 14:23:33 GMT | Bypass Facebook Business Quarantine — Integrity Safeguards | Gtm Mänôz | [Read More](https://medium.com/p/6eea61ee9eca) |
 | Mon, 23 Jun 2025 14:14:11 GMT | TryHackMe: Relevant Walkthrough - Easy Windows Box for Beginners | Vikash Yadav | [Read More](https://medium.com/p/3f238c430f25) |
-| Mon, 23 Jun 2025 14:11:55 GMT | Hacking RickdiculouslyEasy — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/4668b6f530af) |
-| Mon, 23 Jun 2025 14:11:00 GMT | Vulnerability scanning pattern for RE | ELF Pro Free | [Read More](https://medium.com/p/f0afc289315c) |
-| Mon, 23 Jun 2025 14:05:04 GMT | Understanding Phishing: Don’t Take the Bait! | s1egfr1ed | [Read More](https://medium.com/p/0fe1e05c479d) |
-| Mon, 23 Jun 2025 14:01:45 GMT | HMRC’s Watching Your Wallets — Here’s How 0xTeabag Protects You | 0xTeabag | [Read More](https://medium.com/p/458b62cd9171) |
-| Mon, 23 Jun 2025 14:01:19 GMT | The Psychology Behind Social Engineering: Why Smart People Fall for Obvious Scams | Zahir black | [Read More](https://medium.com/p/01ca116c343c) |
-| Mon, 23 Jun 2025 13:58:32 GMT | Cyber Briefing: 2025.06.23 | CyberMaterial | [Read More](https://medium.com/p/ccbe9281b8a8) |
-| Mon, 23 Jun 2025 13:57:37 GMT | She Thought Love Was Loud—Until She Fell for His Silence | Ameer hamza | [Read More](https://medium.com/p/1efe50c87d8c) |
-| Mon, 23 Jun 2025 13:48:11 GMT | What is a VPN and What is it Used For? | David Rizzo | [Read More](https://medium.com/p/4e1734e7ce9e) |
-| Mon, 23 Jun 2025 13:46:36 GMT | 8 Free Tools That Tell You If Your Password Is Already Compromised | TheReviewHive | [Read More](https://medium.com/p/3f22cc1fb716) |
-| Mon, 23 Jun 2025 13:42:30 GMT | Learn Fast or Get Left Behind: Why Speed of Learning Is Your Greatest Advantage | Owoyemi Emmanuel | [Read More](https://medium.com/p/a7911b1a82c0) |
-| Mon, 23 Jun 2025 13:40:13 GMT | Towards Autonomous Cybersecurity: Past, Present, and the AI-Driven Future | Evolution Equity Partners | [Read More](https://medium.com/p/bcd0d53c6cda) |
