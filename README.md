@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 14:31:51 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source — PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/677d9c497fc2) |
+| Mon, 23 Jun 2025 14:26:31 GMT | How Are Companies Using SaaS Management Tools in 2025? | Arun Jyothi | [Read More](https://medium.com/p/775556475ce5) |
+| Mon, 23 Jun 2025 14:25:45 GMT | Setup you own Hacking Lab — Ultimate guide. | err0rgod | [Read More](https://medium.com/p/1b1618d5123d) |
+| Mon, 23 Jun 2025 14:25:10 GMT | Introduction to CAN Protocol Pentesting: Lab Setup, Tools, and Terminology | Vaishali Nagori | [Read More](https://medium.com/p/c4df037b0e92) |
+| Mon, 23 Jun 2025 14:23:33 GMT | Bypass Facebook Business Quarantine — Integrity Safeguards | Gtm Mänôz | [Read More](https://medium.com/p/6eea61ee9eca) |
 | Mon, 23 Jun 2025 14:14:11 GMT | TryHackMe: Relevant Walkthrough - Easy Windows Box for Beginners | Vikash Yadav | [Read More](https://medium.com/p/3f238c430f25) |
 | Mon, 23 Jun 2025 14:11:55 GMT | Hacking RickdiculouslyEasy — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/4668b6f530af) |
 | Mon, 23 Jun 2025 14:11:00 GMT | Vulnerability scanning pattern for RE | ELF Pro Free | [Read More](https://medium.com/p/f0afc289315c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 09:00:36 GMT | Hijacking Suspended Threads with APCs and NtAlertResumeThread | LordShen | [Read More](https://medium.com/p/26a83694a0c0) |
 | Mon, 23 Jun 2025 08:58:26 GMT | Red Team vs. Blue Team: Simulating Real-World Cyber Attacks | Akitra | [Read More](https://medium.com/p/bc7aeba0f87d) |
 | Mon, 23 Jun 2025 08:53:24 GMT | AES: The digital safe of our time | FelixFab | [Read More](https://medium.com/p/3d9f599f78ad) |
-| Mon, 23 Jun 2025 08:52:59 GMT | Still Figuring It Out: Navigating Life After a Library and Information Science Degree | Atukpa Gift Ehi | [Read More](https://medium.com/p/3f8eadd66056) |
-| Mon, 23 Jun 2025 08:49:32 GMT | Upload to Root: Exploiting Unrestricted File Uploads and How to Prevent It | Victor Kipkemboi | [Read More](https://medium.com/p/e04c9d7d7ed8) |
-| Mon, 23 Jun 2025 08:33:26 GMT | When Memory Refuses to Forget | Karol Mazurek | [Read More](https://medium.com/p/502d49de5af7) |
-| Mon, 23 Jun 2025 08:19:12 GMT | Top 5 Cybersecurity Threats in 2025 & How to Stay Ahead | Kai Henry | [Read More](https://medium.com/p/6e71ff5d1bd6) |
-| Mon, 23 Jun 2025 08:17:43 GMT | If you have to trick AI to get hired, the system is already broken | Flavia Marques | [Read More](https://medium.com/p/4541cff08254) |
