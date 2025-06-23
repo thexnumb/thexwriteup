@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 10:43:13 GMT | Hackers are bribing Coinbase support agents — And your crypto disappears into their wallet | Karl Buhl | [Read More](https://medium.com/p/8fb7cefb8247) |
+| Mon, 23 Jun 2025 10:31:29 GMT | Here’s How I Recover My Money From XBTFX | Wensley Macaulay | [Read More](https://medium.com/p/7a0736c4ecbc) |
+| Mon, 23 Jun 2025 10:30:11 GMT | Partisia Newsletter: June | Partisia | [Read More](https://medium.com/p/026ddd400367) |
+| Mon, 23 Jun 2025 10:28:48 GMT | Enhance Your Career with Management and Leadership Courses in Australia | royalinternational | [Read More](https://medium.com/p/28a0acbd7c78) |
+| Mon, 23 Jun 2025 10:22:54 GMT | When AI Joins the SOC: My First Experiment in Malware Analysis ! | Char3xPulse | [Read More](https://medium.com/p/86870681e11f) |
 | Mon, 23 Jun 2025 10:17:31 GMT | What Marketers Often Miss About CISO Conversations in the Boardroom | Noorsimar Singh | [Read More](https://medium.com/p/787a97057034) |
 | Mon, 23 Jun 2025 10:15:17 GMT | Bank Iran Lumpuh Total! Serangan Hacker Ini Guncang Ekonomi Nasional | Mata Hacker | [Read More](https://medium.com/p/884909b27ffd) |
 | Mon, 23 Jun 2025 10:14:34 GMT | Cloud Consulting by 5Datainc in the USA - Cybersecurity | Greenj | [Read More](https://medium.com/p/8738d885712f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 04:14:17 GMT | Cara Reinstall Wazuh Server Tanpa Ganggu Agent — Aman & Efisien | Haldian | [Read More](https://medium.com/p/036b5d01af72) |
 | Mon, 23 Jun 2025 04:02:13 GMT | ACM Developer’s Digest #1 | ACM MITB | [Read More](https://medium.com/p/24a7122bc268) |
 | Mon, 23 Jun 2025 03:44:06 GMT | Why It Matters Now More Than Ever | Rajputzadi | [Read More](https://medium.com/p/7524d55e403d) |
-| Mon, 23 Jun 2025 03:38:51 GMT | What Is Cybersecurity? | Rasagnaqt33 | [Read More](https://medium.com/p/80e151739c48) |
-| Mon, 23 Jun 2025 03:31:50 GMT | Android’s Silent Reset: Google’s New Auto-Reboot Feature That Locks Down Forensic Access | Deven Chhajed | [Read More](https://medium.com/p/886452357608) |
-| Mon, 23 Jun 2025 03:31:49 GMT | Mastering Regular Expressions: From Confusion to Clarity | Mrinal Maheshwari | [Read More](https://medium.com/p/316878cd59c2) |
-| Mon, 23 Jun 2025 03:25:50 GMT | Quick 9: Understanding OIDC Workflow with AWS Lambda, API Gateway, Cognito & Google Sign-In | Asish M Madhu | [Read More](https://medium.com/p/cdc1a2b49e83) |
-| Mon, 23 Jun 2025 03:24:47 GMT | Identity, payments, and embeds without third-party cookies | Tryana Adigumilar | [Read More](https://medium.com/p/d27691b12fdc) |
