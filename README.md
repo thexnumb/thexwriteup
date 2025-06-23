@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 05:13:33 GMT | Why HIPAA Compliance is More Than a Legal Requirement: A Path to Building Patient Trust | DefenceRabbit | [Read More](https://medium.com/p/19b8c2bbfa78) |
+| Mon, 23 Jun 2025 05:06:03 GMT | HackTheBox — Jerry Walkthrough | 0xh3x | [Read More](https://medium.com/p/dc09610e50cf) |
+| Mon, 23 Jun 2025 05:05:50 GMT | Stay Ahead of Hackers with Intelligent AI Cybersecurity Tools | Miawilliams | [Read More](https://medium.com/p/77f05ca50257) |
+| Mon, 23 Jun 2025 05:00:57 GMT | The Quiet Ache | Christine Taylor | [Read More](https://medium.com/p/66608bee391c) |
+| Mon, 23 Jun 2025 04:58:36 GMT | TCM Security — Rooting Blackpearl | Jsar | [Read More](https://medium.com/p/8d4f6a9e2ba3) |
+| Mon, 23 Jun 2025 04:51:19 GMT | How a Small IAM Condition Blocked Our Production API | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/b06933338bab) |
 | Mon, 23 Jun 2025 04:35:07 GMT | Conditional Access Policy Explained in Under 5 Minutes (And Why You Should Care) | Saikat Paul | [Read More](https://medium.com/p/c32e3ec03ae4) |
 | Mon, 23 Jun 2025 04:29:17 GMT | Prisma Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/ab7c283d9e62) |
 | Mon, 23 Jun 2025 04:29:04 GMT | How I Stopped the Bots from Hammering My Django Login: A Friendly Guide to Django-Axes | Mwangi Anthony | [Read More](https://medium.com/p/eb9e06edb9a4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 18:54:59 GMT | Does Knowing Me More Lead to Loving Me Less? | Sumaiya | [Read More](https://medium.com/p/ff391aaffdb6) |
 | Sun, 22 Jun 2025 18:54:53 GMT | Should Iran Develop Nuclear Weapons? | mahwish qayyum | [Read More](https://medium.com/p/580eed095a85) |
 | Sun, 22 Jun 2025 18:53:54 GMT | A Tech Professional’s Guide to India’s Digital Personal Data Protection (DPDP) Bill | Ankitjangir | [Read More](https://medium.com/p/5a1ee44ead47) |
-| Sun, 22 Jun 2025 18:52:50 GMT | Inside the Mind of an Attacker | Kaatib Yusuf | [Read More](https://medium.com/p/d04dbd36765b) |
-| Sun, 22 Jun 2025 18:47:31 GMT | IDOR Leads to Unauthorized Deletion: How I Earned $500 in Bug Bounty | Medusa | [Read More](https://medium.com/p/335bd6a2c75d) |
-| Sun, 22 Jun 2025 18:43:38 GMT | Bitcoin Bridge or Laundromat? Garden Finance Accused of Washing Dirty Crypto | CoinGen | [Read More](https://medium.com/p/c999bc6b1ed8) |
-| Sun, 22 Jun 2025 18:37:00 GMT | Microsoft Releases Responsible AI Report - VBM | Marcus Spencer | [Read More](https://medium.com/p/2dcc2c0ad028) |
-| Sun, 22 Jun 2025 18:36:03 GMT | Firewall and IDS/IPS Evasion — Medium Lab Nmap | Varkeythms | [Read More](https://medium.com/p/2c76d8c3d31e) |
-| Sun, 22 Jun 2025 18:35:11 GMT | Cybersecurity 101: What It Is and Why It Matters More Than Ever in 2025 | Joy Saha | [Read More](https://medium.com/p/7aef73e50d29) |
