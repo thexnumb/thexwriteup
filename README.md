@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 13:32:46 GMT | Websites Can Use Your Camera, Mic & Location Without You Knowing — This Chrome Extension Logs It… | LN Das | [Read More](https://medium.com/p/4ce3886dff0b) |
+| Mon, 23 Jun 2025 13:27:09 GMT | Don’t Delete Your Old Posts — They Might Save Someone Else | Shireen Samy  A Tree Hugger | [Read More](https://medium.com/p/dc6fe9b0d3f7) |
+| Mon, 23 Jun 2025 13:21:52 GMT | Can a 403 Page Hack Your Users Secretly | Ibtissam hammadi | [Read More](https://medium.com/p/2f4d5f952dbf) |
+| Mon, 23 Jun 2025 13:20:43 GMT | Security in OAuth2 : protecting against OAuth authorization server mix-up attack | Kunal Sinha | [Read More](https://medium.com/p/5fac8c378a12) |
+| Mon, 23 Jun 2025 13:20:21 GMT | OAuth2 Security: Securing Front-Channel Parameters with PAR | Kunal Sinha | [Read More](https://medium.com/p/d2eb67ee0643) |
+| Mon, 23 Jun 2025 13:14:21 GMT | Your Unsigned Git Commits Are a Security Liability. Here’s how to fix that. | Gonzalo Alcaraz | [Read More](https://medium.com/p/618f31fd4166) |
+| Mon, 23 Jun 2025 13:14:13 GMT | Trademark analysis and brand-monitoring tools for OSINT | loyalonlytoday | [Read More](https://medium.com/p/599f0a426a96) |
+| Mon, 23 Jun 2025 13:08:47 GMT | A Letter to the Voice That Fears Being Seen | Akshat Singh | [Read More](https://medium.com/p/d236aff9bc0c) |
+| Mon, 23 Jun 2025 13:01:46 GMT | 7 Critical API Security Tests to Automate and Prevent Breaches | equinoXQA | [Read More](https://medium.com/p/eeee759adbdb) |
+| Mon, 23 Jun 2025 13:01:46 GMT | 異常行為聚集 × 黑名單擴散偵測：強化鏈上合規與風險管理效能 | Haysen Lin | [Read More](https://medium.com/p/4d9f8c0cf2dc) |
+| Mon, 23 Jun 2025 12:59:24 GMT | Proofpoint PFPT ENTERPRISE P0 EDU MCAFEE V LIGHT USERS LU-B-P0MPE-V-A-303 | sunol tech | [Read More](https://medium.com/p/fe19b602f303) |
+| Mon, 23 Jun 2025 12:59:06 GMT | ️ Saldırgan Gözüyle Login Sistemi: Rate Limiting, 2FA, Password Reset Hataları | Onur Civan | [Read More](https://medium.com/p/90787bb4fe00) |
+| Mon, 23 Jun 2025 12:57:45 GMT | Hormuz Isn’t Closed: Iran’s Bluff, Bombed Bunkers, and the Shipping Reality They Hope You Missed | Chris Kubecka de Medina | [Read More](https://medium.com/p/db3edf09c47d) |
+| Mon, 23 Jun 2025 12:57:33 GMT | What is DevOps Security? | Spacelift | [Read More](https://medium.com/p/515dbb6bb28c) |
+| Mon, 23 Jun 2025 12:54:52 GMT | TryHackMe StuxCTF — Walkthrough | mauzware | [Read More](https://medium.com/p/3a57734a2b81) |
+| Mon, 23 Jun 2025 12:46:44 GMT | Privacy and Security Trends in Social Media for 2024 | Pcdoctorsnettx | [Read More](https://medium.com/p/7e52aa6473a9) |
 | Mon, 23 Jun 2025 12:42:11 GMT | UAC-0001 (APT28) Cyber Attacks on Government Agencies Using BEARDSHELL and COVENANT | SIMKRA | [Read More](https://medium.com/p/964df46004af) |
+| Mon, 23 Jun 2025 12:42:11 GMT | Security is Not Optional: Dear Developers, Your Default Passwords Just Helped Iran Target Missiles | Hasan Rayan | [Read More](https://medium.com/p/8009ceb753fa) |
+| Mon, 23 Jun 2025 12:41:20 GMT | Professional Mobile Patrols: Ensuring Safety Across Multiple Regions with Mobile Patrol Services | Professional UK Services | [Read More](https://medium.com/p/81b4079c8631) |
+| Mon, 23 Jun 2025 12:40:10 GMT | Stay Safe Online: Discover the Latest in Cybersecurity | مقالة ترندية | [Read More](https://medium.com/p/67e4b0e15a5d) |
 | Mon, 23 Jun 2025 12:30:36 GMT | Introducing Secret AI: 100% Private & Local AI on Phone | Secret AI | [Read More](https://medium.com/p/dba20e998d31) |
 | Mon, 23 Jun 2025 12:29:51 GMT | Scattered Spider Is Back, and This Time They Are Targeting Insurance | Manish | [Read More](https://medium.com/p/84f0d06f16f1) |
 | Mon, 23 Jun 2025 12:28:14 GMT | Scattered Spider Now Targeting US Insurance Sector After UK Retail Attack | Srinivasps | [Read More](https://medium.com/p/e09f0ed77ea0) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 07:33:23 GMT | Google Goes For Post Quantum Signatures | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e68f7a071a7a) |
 | Mon, 23 Jun 2025 07:32:27 GMT | Cybersecurity Awareness: Versa Director Vulnerabilities — A Critical Moment for Enterprises. | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/95385fd9f7e2) |
 | Mon, 23 Jun 2025 07:25:12 GMT | My First Valid Bug | Nuhman Jaseel A P | [Read More](https://medium.com/p/e83c871c2ec2) |
-| Mon, 23 Jun 2025 07:17:07 GMT | SQL Injection Is Still a Big Deal — Here’s How to Stop It | AerieWhole123 | [Read More](https://medium.com/p/3318fdaa1fde) |
-| Mon, 23 Jun 2025 07:13:45 GMT | Mastering Malware Analysis: A SOC Analyst’s Guide to Dynamic Analysis with AnyRun | Sh3nobi | [Read More](https://medium.com/p/f701afbaefe0) |
-| Mon, 23 Jun 2025 07:09:54 GMT | I Made $1,000 Playing Mobile Games — But Only After Dodging Dozens of Scams | Travis Ray Caverhill | [Read More](https://medium.com/p/45a57f9b3662) |
-| Mon, 23 Jun 2025 07:08:15 GMT | Why Small Businesses Should Embrace Managed Detection and Response (MDR) | Adil | [Read More](https://medium.com/p/aac45b0e3465) |
-| Mon, 23 Jun 2025 07:06:01 GMT | The €2 Billion Document Problem Is Also a National Security Crisis and fixing it would save literal… | Markus Sandelin | [Read More](https://medium.com/p/b34af2686878) |
-| Mon, 23 Jun 2025 07:05:44 GMT | The Daily Tech Digest: 23 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/c2fa4d360db3) |
-| Mon, 23 Jun 2025 07:05:37 GMT | Τεράστια διαρροή δεδομένων (Ιούνιος 2025) | Angelos Perlegkas | [Read More](https://medium.com/p/b491e8b18a75) |
-| Mon, 23 Jun 2025 07:02:31 GMT | Cybersecurity for Remote Workers: Closing the Gaps in a Hybrid World | Richard Charles | [Read More](https://medium.com/p/18985a686745) |
-| Mon, 23 Jun 2025 07:01:49 GMT | This Vulnerability can blow your mind. | Rishav anand | [Read More](https://medium.com/p/7cda8b22d5fa) |
-| Mon, 23 Jun 2025 06:50:46 GMT | 16 Billion Password Leak: एक गंभीर खतरा! (June 2025 Update) | Eilixirnas | [Read More](https://medium.com/p/24f7d69d8f4b) |
-| Mon, 23 Jun 2025 06:49:29 GMT | TruAdvantage | Kayvan Yazdi, Iman Oskoorouchi | [Read More](https://medium.com/p/6265ced45489) |
-| Mon, 23 Jun 2025 06:47:01 GMT | Drive Without Fear: How Spartan Aegis Stops Automotive Ransomware Before It Starts | Ted Rogers | [Read More](https://medium.com/p/0e2cf91c549d) |
-| Mon, 23 Jun 2025 06:44:31 GMT | The Real Risk in Penetration Testing: Over-Reliance on Automation | StrongBox IT | [Read More](https://medium.com/p/c74d39701330) |
-| Mon, 23 Jun 2025 06:44:14 GMT | How to Build a Bug Bounty Target List That Actually Gets You Bugs (2025 Guide) | Đeepanshu | [Read More](https://medium.com/p/626fe67497fa) |
-| Mon, 23 Jun 2025 06:34:34 GMT | Rsync Vulnerabilities Open the Door to Remote Exploits | AerieWhole123 | [Read More](https://medium.com/p/db72462f2a65) |
-| Mon, 23 Jun 2025 06:30:51 GMT | Hvordan udnytter vi open source? | Walther Højgaard Diechmann | [Read More](https://medium.com/p/d3a22a651a5a) |
-| Mon, 23 Jun 2025 06:25:24 GMT | Creating Payloads for the USB Rubber Ducky | Javier Calderon Jr | [Read More](https://medium.com/p/ba75e38b5f4c) |
-| Mon, 23 Jun 2025 06:23:17 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/3b118b82930d) |
-| Mon, 23 Jun 2025 06:21:48 GMT | $7,500 Bounty: Exposed Proxy on Reddit Allowed External Access to Internal Domains | Monika sharma | [Read More](https://medium.com/p/a6abc413d852) |
