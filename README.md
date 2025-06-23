@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 22:13:00 GMT | How I Find Hidden JavaScript Files (And Why They Matter in Bug Bounty)
+Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7aa0) |
+| Mon, 23 Jun 2025 21:55:26 GMT | Ghost Driver Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a21917010584) |
+| Mon, 23 Jun 2025 21:52:46 GMT | Real-Time Stealer-Log Monitoring with LeakRadar.io: Detect Leaks Before Attackers Do | Alexandre Vandamme | [Read More](https://medium.com/p/44c2ec9687a0) |
+| Mon, 23 Jun 2025 21:42:20 GMT | Embeded malicious commands manipulate AI outputs | Pentestjunkie07 | [Read More](https://medium.com/p/94c5ab8c8418) |
+| Mon, 23 Jun 2025 21:35:03 GMT | Building Security for a Compromised World: Authentication Strategies After the Credential… | Vishal Kendre | [Read More](https://medium.com/p/3eab2cb326b0) |
+| Mon, 23 Jun 2025 21:34:37 GMT | What Happens When the Cord Gets Cut | Bradkinnard | [Read More](https://medium.com/p/a9c38b1174fb) |
 | Mon, 23 Jun 2025 21:32:39 GMT | Linux Firewall Security Best Practices with 3 Proven Methods (iptables, firewalld, UFW) | Ashish Singh | [Read More](https://medium.com/p/fd97051a7f7d) |
 | Mon, 23 Jun 2025 21:28:59 GMT | Fuzzing Everything | pad1ryoshi | [Read More](https://medium.com/p/67ab1c0f4b6a) |
 | Mon, 23 Jun 2025 21:26:25 GMT | Ransomware Architecture In Rust - why stopped after one article | RansomKing | [Read More](https://medium.com/p/2923a9650010) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 15:18:06 GMT | Patch Management | Igor Berner | [Read More](https://medium.com/p/a9b9e3904c88) |
 | Mon, 23 Jun 2025 15:16:50 GMT | Keeping Your Digital Things Safe: Understanding the CIA Triad | Danukalakshitha | [Read More](https://medium.com/p/f515079d916a) |
 | Mon, 23 Jun 2025 15:08:51 GMT | CRITICAL SECURITY ALERT: 16 Billion Login Credentials Exposed in Massive Data Leak | LumenXo Inc. | [Read More](https://medium.com/p/8eb5c7398445) |
-| Mon, 23 Jun 2025 15:05:48 GMT | Practical Windows Commands | Very Lazy Tech | [Read More](https://medium.com/p/ebfd029aa8df) |
-| Mon, 23 Jun 2025 15:03:27 GMT | picoCTF — n0s4n1ty 1 | Robby firdauzy | [Read More](https://medium.com/p/adee2bf166e3) |
-| Mon, 23 Jun 2025 14:56:36 GMT | IPv4 vs IPv6 | Kaniz Sukayna | [Read More](https://medium.com/p/f6a8ff09edfc) |
-| Mon, 23 Jun 2025 14:56:22 GMT | Mastering the Art of Cybersecurity Communication | Yaroslav | [Read More](https://medium.com/p/a27db5801140) |
-| Mon, 23 Jun 2025 14:51:51 GMT | “Hacking 101: A Beginner’s Guide to Virtual Machines, Linux, and Networking” | Christyjohn | [Read More](https://medium.com/p/b68acd575e8e) |
-| Mon, 23 Jun 2025 14:49:12 GMT | CIA Triad in Cyber Security | Dhanushahasheel | [Read More](https://medium.com/p/8c9fce10580e) |
