@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 03:44:06 GMT | Why It Matters Now More Than Ever | Rajputzadi | [Read More](https://medium.com/p/7524d55e403d) |
+| Mon, 23 Jun 2025 03:38:51 GMT | What Is Cybersecurity? | Rasagnaqt33 | [Read More](https://medium.com/p/80e151739c48) |
+| Mon, 23 Jun 2025 03:31:50 GMT | Android’s Silent Reset: Google’s New Auto-Reboot Feature That Locks Down Forensic Access | Deven Chhajed | [Read More](https://medium.com/p/886452357608) |
+| Mon, 23 Jun 2025 03:31:49 GMT | Mastering Regular Expressions: From Confusion to Clarity | Mrinal Maheshwari | [Read More](https://medium.com/p/316878cd59c2) |
+| Mon, 23 Jun 2025 03:25:50 GMT | Quick 9: Understanding OIDC Workflow with AWS Lambda, API Gateway, Cognito & Google Sign-In | Asish M Madhu | [Read More](https://medium.com/p/cdc1a2b49e83) |
+| Mon, 23 Jun 2025 03:24:47 GMT | Identity, payments, and embeds without third-party cookies | Tryana Adigumilar | [Read More](https://medium.com/p/d27691b12fdc) |
 | Mon, 23 Jun 2025 03:11:19 GMT | Your MCP Server Is a Hacker’s Dream (Fix It Before They Do) | Junji Zhi | [Read More](https://medium.com/p/b4d97dfbcd04) |
 | Mon, 23 Jun 2025 03:07:55 GMT | WestJet Investigates Cybersecurity Incident, Flight Operations Unaffected | SafetyDetectives Research Team | [Read More](https://medium.com/p/9199d271b3b8) |
 | Mon, 23 Jun 2025 02:59:16 GMT | Why Data Centers Need Dedicated Hardware NTP Servers: The Critical Foundation of Distributed… | ThamizhElango Natarajan | [Read More](https://medium.com/p/9632515cda14) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 18:22:59 GMT | How Does DDOS Work & How to Prevent It | Ziya DENİZ | [Read More](https://medium.com/p/fe9065d1fd71) |
 | Sun, 22 Jun 2025 18:14:38 GMT | DevOps Tools We Love to Hate (But Can’t Live Without) | Zudonu Osomudeya | [Read More](https://medium.com/p/2603bcf377cf) |
 | Sun, 22 Jun 2025 17:56:44 GMT | Privacy? Not Anymore. | Piyush Aryan | [Read More](https://medium.com/p/f863edb8db49) |
-| Sun, 22 Jun 2025 17:56:00 GMT | Custom Tooling Using Python- TryHackme Room Writeup | Bridget | [Read More](https://medium.com/p/38d73f14e6fd) |
-| Sun, 22 Jun 2025 17:55:58 GMT | Hacking/Recoce | Norman Meg | [Read More](https://medium.com/p/f40b8762d1bc) |
-| Sun, 22 Jun 2025 17:54:26 GMT | Why I Stopped Romanticizing Emotional Unavailability | London Wood | [Read More](https://medium.com/p/699c75c83779) |
-| Sun, 22 Jun 2025 17:54:20 GMT | Is the Future of Windows at Risk? | Darshan Naresh Naik | [Read More](https://medium.com/p/e9370c73562c) |
-| Sun, 22 Jun 2025 17:49:22 GMT | Agentic Misalignment in LLMs: When AI Becomes an Insider Threat (A Revealing Anthropic Study) | ParlonsIA | [Read More](https://medium.com/p/b056b14c5e50) |
-| Sun, 22 Jun 2025 17:48:29 GMT | AI vs Reverse Engineering: Will AI make Android R8 obfuscation obsolete? | Gabriel Brasileiro | [Read More](https://medium.com/p/f0ba7cd39ef7) |
