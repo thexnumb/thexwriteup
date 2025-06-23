@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 16:46:42 GMT | $5,300 Bounty: Critical Flaw in Brave Browser | Monika sharma | [Read More](https://medium.com/p/b569234d11b5) |
+| Mon, 23 Jun 2025 16:37:30 GMT | Use SMART to Predict Storage Problems | ULINK DA Drive Analyzer | [Read More](https://medium.com/p/228d67f2073c) |
+| Mon, 23 Jun 2025 16:35:38 GMT | Keeping It Real | Nimisha Ajaikumar | [Read More](https://medium.com/p/2a3f9bb72048) |
 | Mon, 23 Jun 2025 16:28:02 GMT | The Face of Malware - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/448ac5ea9029) |
+| Mon, 23 Jun 2025 16:25:55 GMT | 16 billion Passwords Leaked: Why Traditional Logins Are Failing and How Rainbow Secure Keeps You… | Dr. Shashi Karhail | [Read More](https://medium.com/p/98d228587b45) |
 | Mon, 23 Jun 2025 16:25:32 GMT | Case Study 3: APT29 and the SolarWinds Supply Chain Breach | Agarwaldaksh | [Read More](https://medium.com/p/68bca3000b3a) |
 | Mon, 23 Jun 2025 16:20:18 GMT | SQL Injection in 2025: Why This Zombie Threat Keeps Rising from the Grave | NickyCammarata | [Read More](https://medium.com/p/29bc6066efd2) |
 | Mon, 23 Jun 2025 16:19:08 GMT | Check How I Recover My Money From Topfx | Joel Quentin | [Read More](https://medium.com/p/3107072a6785) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 11:50:37 GMT | Crypto vs. Fiat in Times of War: A Deep Dive into Your Safeguard Strategy | Lorenzo Makoy | [Read More](https://medium.com/p/8357c6312f8a) |
 | Mon, 23 Jun 2025 11:50:11 GMT | Nothing Tastes Anymore | Boluwatife Lash | [Read More](https://medium.com/p/0f08af82b404) |
 | Mon, 23 Jun 2025 11:37:51 GMT | Wading into Escape | Vuotosiderale | [Read More](https://medium.com/p/841cd27e3b77) |
-| Mon, 23 Jun 2025 11:36:44 GMT | Automating Linux Updates at Boot: Secure Your VMs Before They Even Stretch | Rachit Sheth | [Read More](https://medium.com/p/71d3d88dff20) |
-| Mon, 23 Jun 2025 11:30:54 GMT | Stored XSS into HTML context with nothing encoded by PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/fb2c3abfe6bd) |
-| Mon, 23 Jun 2025 11:29:44 GMT | Corporate Event Security: More Than Just Bouncers at the Door | Sumintra | [Read More](https://medium.com/p/490ca26ce7fe) |
-| Mon, 23 Jun 2025 11:29:19 GMT | How the Johari Window Can Transform IT Service Management ? | Fabrice D.Kagame | [Read More](https://medium.com/p/314224212070) |
