@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 21:32:39 GMT | Linux Firewall Security Best Practices with 3 Proven Methods (iptables, firewalld, UFW) | Ashish Singh | [Read More](https://medium.com/p/fd97051a7f7d) |
+| Mon, 23 Jun 2025 21:28:59 GMT | Fuzzing Everything | pad1ryoshi | [Read More](https://medium.com/p/67ab1c0f4b6a) |
+| Mon, 23 Jun 2025 21:26:25 GMT | Ransomware Architecture In Rust - why stopped after one article | RansomKing | [Read More](https://medium.com/p/2923a9650010) |
+| Mon, 23 Jun 2025 21:24:30 GMT | Inside the Mind of the Attacker: Building Simulated Command & Control (C2) Infrastructure for… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2a61619d6db1) |
 | Mon, 23 Jun 2025 21:02:42 GMT | . | Aftab Raja | [Read More](https://medium.com/p/f2abd7a275c6) |
 | Mon, 23 Jun 2025 20:59:09 GMT | Cybersecurity Trends on June 23, 2025 | Inforsecpro | [Read More](https://medium.com/p/d38e8979bc97) |
 | Mon, 23 Jun 2025 20:51:38 GMT | Securing a Side Project with Free Tools | Garret Lacey | [Read More](https://medium.com/p/bf4dd9111359) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 14:56:22 GMT | Mastering the Art of Cybersecurity Communication | Yaroslav | [Read More](https://medium.com/p/a27db5801140) |
 | Mon, 23 Jun 2025 14:51:51 GMT | “Hacking 101: A Beginner’s Guide to Virtual Machines, Linux, and Networking” | Christyjohn | [Read More](https://medium.com/p/b68acd575e8e) |
 | Mon, 23 Jun 2025 14:49:12 GMT | CIA Triad in Cyber Security | Dhanushahasheel | [Read More](https://medium.com/p/8c9fce10580e) |
-| Mon, 23 Jun 2025 14:48:09 GMT | CAN Protocol Pentesting: Replay, DoS, Fuzzing, and Firehose Attacks | Vaishali Nagori | [Read More](https://medium.com/p/dd541169b53b) |
-| Mon, 23 Jun 2025 14:42:02 GMT | Vulnerability scanning pattern from Pentesting for Reverse Engineering | ELF Pro Free | [Read More](https://medium.com/p/8b1593fcf007) |
-| Mon, 23 Jun 2025 14:40:38 GMT | Just-in-Time VSS: No Key Left Behind | KONG Wallet & Portfolio | [Read More](https://medium.com/p/e2ff6085f0d7) |
-| Mon, 23 Jun 2025 14:31:51 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source — PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/677d9c497fc2) |
