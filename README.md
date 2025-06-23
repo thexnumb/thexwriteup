@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 15:39:00 GMT | Abstraction in Java with real world examples | Hari Prasad | [Read More](https://medium.com/p/c2fca1870429) |
+| Mon, 23 Jun 2025 15:37:23 GMT | What I learned from my first heartbreak | Alex Viner | [Read More](https://medium.com/p/de65647ecc94) |
+| Mon, 23 Jun 2025 15:34:46 GMT | Block Web Filter: Control Internet Access and Improve Online Safety | SafeAeon Inc. | [Read More](https://medium.com/p/ad5ae34466a2) |
+| Mon, 23 Jun 2025 15:32:52 GMT | Inside the MSHTML Exploit: A SOC Analyst’s Walkthrough of CVE-2021–40444 | Sh3nobi | [Read More](https://medium.com/p/5a1b388985b0) |
+| Mon, 23 Jun 2025 15:31:52 GMT | Deep Dive into QRadar’s Parsing Mechanism and Data Flow | Yuksel | [Read More](https://medium.com/p/7aed22340dc4) |
+| Mon, 23 Jun 2025 15:31:22 GMT | PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec | Soman Verma | [Read More](https://medium.com/p/50e07ef54168) |
+| Mon, 23 Jun 2025 15:27:37 GMT | Discover the Benefits of Motorized Curtains by SwitchBot! | Bedonkatonya | [Read More](https://medium.com/p/f9e2777c16aa) |
+| Mon, 23 Jun 2025 15:26:28 GMT | Linux Kernel Güvenlik Mekanizmalarının Evrimi ve Modern Karşılaştırması | Hamza Çağrıcı | [Read More](https://medium.com/p/5f3dc3adff4b) |
+| Mon, 23 Jun 2025 15:23:33 GMT | Change Management | Igor Berner | [Read More](https://medium.com/p/db23d3f28e4a) |
 | Mon, 23 Jun 2025 15:22:08 GMT | ACADEMY MACHINE (HACK THE BOX) | The Commoness | [Read More](https://medium.com/p/8914d373c5f7) |
+| Mon, 23 Jun 2025 15:19:50 GMT | Book Review: This Is How They Tell Me The World Ends by Nicole Perlroth | Travis Weninger | [Read More](https://medium.com/p/ac249bca162d) |
 | Mon, 23 Jun 2025 15:18:06 GMT | Patch Management | Igor Berner | [Read More](https://medium.com/p/a9b9e3904c88) |
 | Mon, 23 Jun 2025 15:16:50 GMT | Keeping Your Digital Things Safe: Understanding the CIA Triad | Danukalakshitha | [Read More](https://medium.com/p/f515079d916a) |
 | Mon, 23 Jun 2025 15:08:51 GMT | CRITICAL SECURITY ALERT: 16 Billion Login Credentials Exposed in Massive Data Leak | LumenXo Inc. | [Read More](https://medium.com/p/8eb5c7398445) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 10:30:11 GMT | Partisia Newsletter: June | Partisia | [Read More](https://medium.com/p/026ddd400367) |
 | Mon, 23 Jun 2025 10:28:48 GMT | Enhance Your Career with Management and Leadership Courses in Australia | royalinternational | [Read More](https://medium.com/p/28a0acbd7c78) |
 | Mon, 23 Jun 2025 10:22:54 GMT | When AI Joins the SOC: My First Experiment in Malware Analysis ! | Char3xPulse | [Read More](https://medium.com/p/86870681e11f) |
-| Mon, 23 Jun 2025 10:17:31 GMT | What Marketers Often Miss About CISO Conversations in the Boardroom | Noorsimar Singh | [Read More](https://medium.com/p/787a97057034) |
-| Mon, 23 Jun 2025 10:15:17 GMT | Bank Iran Lumpuh Total! Serangan Hacker Ini Guncang Ekonomi Nasional | Mata Hacker | [Read More](https://medium.com/p/884909b27ffd) |
-| Mon, 23 Jun 2025 10:14:34 GMT | Cloud Consulting by 5Datainc in the USA - Cybersecurity | Greenj | [Read More](https://medium.com/p/8738d885712f) |
-| Mon, 23 Jun 2025 10:09:41 GMT | The AI Detective Agency: How a Team of LLMs Is Outsmarting the Smartest Phishing Scams | ArXiv In-depth Analysis | [Read More](https://medium.com/p/cb458958cb02) |
-| Mon, 23 Jun 2025 10:03:00 GMT | Por que a polícia não traz segurança? | PovCast | [Read More](https://medium.com/p/a500eb253be2) |
-| Mon, 23 Jun 2025 10:02:20 GMT | Cybersecurity in 2025: A Career Guide for Beginners and Career Changers | HamnaAhmad | [Read More](https://medium.com/p/4699955c6568) |
-| Mon, 23 Jun 2025 09:59:34 GMT | Cybersecurity in the Digital Age: Protecting Your Business in the UAE | Yasinussf | [Read More](https://medium.com/p/edfc6d36b6bf) |
-| Mon, 23 Jun 2025 09:53:19 GMT | Are Artists Really Shy? Why Vulnerability ≠ Shyness. | Dilrukshi Mendis | [Read More](https://medium.com/p/fd74b4e039e2) |
-| Mon, 23 Jun 2025 09:51:16 GMT | Secrets Management in .NET Projects: What You’re Doing Wrong | Kittikawin L. | [Read More](https://medium.com/p/2c0bd3007bf1) |
-| Mon, 23 Jun 2025 09:49:25 GMT | AI & ML in Fraud Detection in Banking Industry | Sayan Bhadra | [Read More](https://medium.com/p/a0db7207bbde) |
