@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 23:13:09 GMT | Crypto Recovery Option: Proffesional Crypto Recovery | Paulgibson | [Read More](https://medium.com/p/09b2c9c40cd4) |
+| Mon, 23 Jun 2025 23:06:41 GMT | Honest Engineering: Why Tech’s Biggest Promises Are Really Bounded Contracts | Darwin Gosal | [Read More](https://medium.com/p/1a8242997f1e) |
+| Mon, 23 Jun 2025 22:59:54 GMT | Top 5 ways to recover funds from crypto scam: Crypto Recovery Option | Paulgibson | [Read More](https://medium.com/p/63b68eb671bd) |
+| Mon, 23 Jun 2025 22:47:09 GMT | First things First — What should you do after installing Termux on your Moblie(Upgrade & Upgrade) | Alex Grande | [Read More](https://medium.com/p/35a0fd1f3985) |
 | Mon, 23 Jun 2025 22:16:39 GMT | SOC Analyst Automation: Scripts Every Analyst Should Be Using | Karthikeyan Nagaraj | [Read More](https://medium.com/p/6e310dea6ad5) |
 | Mon, 23 Jun 2025 22:13:00 GMT | How I Find Hidden JavaScript Files (And Why They Matter in Bug Bounty)
 Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7aa0) |
@@ -109,7 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 15:27:37 GMT | Discover the Benefits of Motorized Curtains by SwitchBot! | Bedonkatonya | [Read More](https://medium.com/p/f9e2777c16aa) |
 | Mon, 23 Jun 2025 15:26:28 GMT | Linux Kernel Güvenlik Mekanizmalarının Evrimi ve Modern Karşılaştırması | Hamza Çağrıcı | [Read More](https://medium.com/p/5f3dc3adff4b) |
 | Mon, 23 Jun 2025 15:23:33 GMT | Change Management | Igor Berner | [Read More](https://medium.com/p/db23d3f28e4a) |
-| Mon, 23 Jun 2025 15:22:08 GMT | ACADEMY MACHINE (HACK THE BOX) | The Commoness | [Read More](https://medium.com/p/8914d373c5f7) |
-| Mon, 23 Jun 2025 15:19:50 GMT | Book Review: This Is How They Tell Me The World Ends by Nicole Perlroth | Travis Weninger | [Read More](https://medium.com/p/ac249bca162d) |
-| Mon, 23 Jun 2025 15:18:06 GMT | Patch Management | Igor Berner | [Read More](https://medium.com/p/a9b9e3904c88) |
-| Mon, 23 Jun 2025 15:16:50 GMT | Keeping Your Digital Things Safe: Understanding the CIA Triad | Danukalakshitha | [Read More](https://medium.com/p/f515079d916a) |
