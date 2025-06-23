@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 10:17:31 GMT | What Marketers Often Miss About CISO Conversations in the Boardroom | Noorsimar Singh | [Read More](https://medium.com/p/787a97057034) |
+| Mon, 23 Jun 2025 10:15:17 GMT | Bank Iran Lumpuh Total! Serangan Hacker Ini Guncang Ekonomi Nasional | Mata Hacker | [Read More](https://medium.com/p/884909b27ffd) |
+| Mon, 23 Jun 2025 10:14:34 GMT | Cloud Consulting by 5Datainc in the USA - Cybersecurity | Greenj | [Read More](https://medium.com/p/8738d885712f) |
+| Mon, 23 Jun 2025 10:09:41 GMT | The AI Detective Agency: How a Team of LLMs Is Outsmarting the Smartest Phishing Scams | ArXiv In-depth Analysis | [Read More](https://medium.com/p/cb458958cb02) |
+| Mon, 23 Jun 2025 10:02:20 GMT | Cybersecurity in 2025: A Career Guide for Beginners and Career Changers | HamnaAhmad | [Read More](https://medium.com/p/4699955c6568) |
+| Mon, 23 Jun 2025 09:59:34 GMT | Cybersecurity in the Digital Age: Protecting Your Business in the UAE | Yasinussf | [Read More](https://medium.com/p/edfc6d36b6bf) |
+| Mon, 23 Jun 2025 09:53:19 GMT | Are Artists Really Shy? Why Vulnerability ≠ Shyness. | Dilrukshi Mendis | [Read More](https://medium.com/p/fd74b4e039e2) |
+| Mon, 23 Jun 2025 09:51:16 GMT | Secrets Management in .NET Projects: What You’re Doing Wrong | Kittikawin L. | [Read More](https://medium.com/p/2c0bd3007bf1) |
+| Mon, 23 Jun 2025 09:49:25 GMT | AI & ML in Fraud Detection in Banking Industry | Sayan Bhadra | [Read More](https://medium.com/p/a0db7207bbde) |
+| Mon, 23 Jun 2025 09:46:02 GMT | How AI is Reshaping Cybersecurity? | Sam Bishop | [Read More](https://medium.com/p/6908f1e06add) |
+| Mon, 23 Jun 2025 09:45:23 GMT | 16 Billion Passwords Leaked: Is Your Digital Marketing Strategy Ready? | Prattush | [Read More](https://medium.com/p/005a3eecd67c) |
+| Mon, 23 Jun 2025 09:43:58 GMT | Beyond the Pipeline: The Untold Principles of DevSecOps Security | Oğulcan Doğan | [Read More](https://medium.com/p/789f25010cdc) |
+| Mon, 23 Jun 2025 09:42:25 GMT | Defense in Depth: Why One Layer of Security Isn’t Enough | Diogo | [Read More](https://medium.com/p/a32799c939f8) |
 | Mon, 23 Jun 2025 09:36:55 GMT | HackTheBox — Netmon Walkthrough | 0xh3x | [Read More](https://medium.com/p/3f6901c6547a) |
 | Mon, 23 Jun 2025 09:32:44 GMT | The Three Most Common OAuth Implementation Mistakes | Albert Starreveld | [Read More](https://medium.com/p/e321f1575f30) |
 | Mon, 23 Jun 2025 09:30:37 GMT | Next Gen AI-Powered Cybersecurity: AI-Native SOC, Next Gen SIEM, MDR, etc. | noailabs | [Read More](https://medium.com/p/2d04be89b820) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 03:31:49 GMT | Mastering Regular Expressions: From Confusion to Clarity | Mrinal Maheshwari | [Read More](https://medium.com/p/316878cd59c2) |
 | Mon, 23 Jun 2025 03:25:50 GMT | Quick 9: Understanding OIDC Workflow with AWS Lambda, API Gateway, Cognito & Google Sign-In | Asish M Madhu | [Read More](https://medium.com/p/cdc1a2b49e83) |
 | Mon, 23 Jun 2025 03:24:47 GMT | Identity, payments, and embeds without third-party cookies | Tryana Adigumilar | [Read More](https://medium.com/p/d27691b12fdc) |
-| Mon, 23 Jun 2025 03:11:19 GMT | Your MCP Server Is a Hacker’s Dream (Fix It Before They Do) | Junji Zhi | [Read More](https://medium.com/p/b4d97dfbcd04) |
-| Mon, 23 Jun 2025 03:07:55 GMT | WestJet Investigates Cybersecurity Incident, Flight Operations Unaffected | SafetyDetectives Research Team | [Read More](https://medium.com/p/9199d271b3b8) |
-| Mon, 23 Jun 2025 02:59:16 GMT | Why Data Centers Need Dedicated Hardware NTP Servers: The Critical Foundation of Distributed… | ThamizhElango Natarajan | [Read More](https://medium.com/p/9632515cda14) |
-| Mon, 23 Jun 2025 02:50:24 GMT | Backbone is good. But data earns trust. | Emmanuel Joshua | [Read More](https://medium.com/p/765c5aa2a094) |
-| Mon, 23 Jun 2025 02:50:21 GMT | The 45-Second Cyber War That Shook the Web | Cyber-AppSec | [Read More](https://medium.com/p/adc436dbbb94) |
-| Mon, 23 Jun 2025 02:47:43 GMT | ADCS Attack Series: Abusing ESC4 via Template ACLs for Privilege Escalation | Nairuz Abulhul | [Read More](https://medium.com/p/98320f0da59a) |
-| Mon, 23 Jun 2025 02:47:02 GMT | The Next War Is Silent: Ransomware, IoT, and the Invisible Battlefield | Lucia trevisani | [Read More](https://medium.com/p/4ca0fc077e69) |
-| Mon, 23 Jun 2025 02:46:12 GMT | ☕ How I Redirected the Entire Startup to evil.com — With One Header | AIwolfie | [Read More](https://medium.com/p/f2eb6faae934) |
-| Mon, 23 Jun 2025 02:34:56 GMT | YARA Rules in Action: Detecting Malware with Custom Signatures | Paritosh | [Read More](https://medium.com/p/fd61633e87c2) |
-| Mon, 23 Jun 2025 02:31:34 GMT | The Hidden Danger of “Vibe Coding”: How a Simple Dependency Led to a Massive Breach | Pentestiverse | [Read More](https://medium.com/p/7eb6f741d369) |
-| Mon, 23 Jun 2025 02:09:27 GMT | Honey Pots: The Art of Digital Deception in Cybersecurity | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/a1ee316723da) |
-| Mon, 23 Jun 2025 02:06:24 GMT | Inspecting Container Images with Dive — A Practical Guide | Bill WANG | [Read More](https://medium.com/p/344e2d1ec0db) |
-| Mon, 23 Jun 2025 01:49:33 GMT | All Chase bank paypal Venmo Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv… | Gonzalez | [Read More](https://medium.com/p/131046daaffc) |
