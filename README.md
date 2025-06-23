@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 11:09:25 GMT | The 16 Billion Password Breach | Ravi Sankar Uppala | [Read More](https://medium.com/p/a8054180a950) |
+| Mon, 23 Jun 2025 11:01:59 GMT | Here’s How I Recover My Money From Fxpig | Christian Cole | [Read More](https://medium.com/p/2e79976b3464) |
+| Mon, 23 Jun 2025 11:01:36 GMT | ️ Windows Event ID Analysis for Attack Detection: A Deep Dive into Key Event Logs | Esra Kayhan | [Read More](https://medium.com/p/81b6bdb12e8f) |
+| Mon, 23 Jun 2025 10:56:31 GMT | Authentication part-10 : Offline password cracking | Ahmad Sopyan | [Read More](https://medium.com/p/18fb252082ec) |
+| Mon, 23 Jun 2025 10:53:25 GMT | What Happens When Robots Are More Human Than Humans? | Ananya Pandey | [Read More](https://medium.com/p/c797e049d488) |
 | Mon, 23 Jun 2025 10:43:13 GMT | Hackers are bribing Coinbase support agents — And your crypto disappears into their wallet | Karl Buhl | [Read More](https://medium.com/p/8fb7cefb8247) |
 | Mon, 23 Jun 2025 10:31:29 GMT | Here’s How I Recover My Money From XBTFX | Wensley Macaulay | [Read More](https://medium.com/p/7a0736c4ecbc) |
 | Mon, 23 Jun 2025 10:30:11 GMT | Partisia Newsletter: June | Partisia | [Read More](https://medium.com/p/026ddd400367) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 04:51:19 GMT | How a Small IAM Condition Blocked Our Production API | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/b06933338bab) |
 | Mon, 23 Jun 2025 04:35:07 GMT | Conditional Access Policy Explained in Under 5 Minutes (And Why You Should Care) | Saikat Paul | [Read More](https://medium.com/p/c32e3ec03ae4) |
 | Mon, 23 Jun 2025 04:29:17 GMT | Prisma Cloud by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/ab7c283d9e62) |
-| Mon, 23 Jun 2025 04:29:04 GMT | How I Stopped the Bots from Hammering My Django Login: A Friendly Guide to Django-Axes | Mwangi Anthony | [Read More](https://medium.com/p/eb9e06edb9a4) |
-| Mon, 23 Jun 2025 04:23:53 GMT | AWS Fortress — Hack The Box Review | Sneh bavarva | [Read More](https://medium.com/p/6fd752e502e8) |
-| Mon, 23 Jun 2025 04:14:17 GMT | Cara Reinstall Wazuh Server Tanpa Ganggu Agent — Aman & Efisien | Haldian | [Read More](https://medium.com/p/036b5d01af72) |
-| Mon, 23 Jun 2025 04:02:13 GMT | ACM Developer’s Digest #1 | ACM MITB | [Read More](https://medium.com/p/24a7122bc268) |
-| Mon, 23 Jun 2025 03:44:06 GMT | Why It Matters Now More Than Ever | Rajputzadi | [Read More](https://medium.com/p/7524d55e403d) |
