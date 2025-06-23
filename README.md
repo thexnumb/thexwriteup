@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 07:25:12 GMT | My First Valid Bug | Nuhman Jaseel A P | [Read More](https://medium.com/p/e83c871c2ec2) |
+| Mon, 23 Jun 2025 07:17:07 GMT | SQL Injection Is Still a Big Deal — Here’s How to Stop It | AerieWhole123 | [Read More](https://medium.com/p/3318fdaa1fde) |
 | Mon, 23 Jun 2025 07:13:45 GMT | Mastering Malware Analysis: A SOC Analyst’s Guide to Dynamic Analysis with AnyRun | Sh3nobi | [Read More](https://medium.com/p/f701afbaefe0) |
 | Mon, 23 Jun 2025 07:09:54 GMT | I Made $1,000 Playing Mobile Games — But Only After Dodging Dozens of Scams | Travis Ray Caverhill | [Read More](https://medium.com/p/45a57f9b3662) |
 | Mon, 23 Jun 2025 07:08:15 GMT | Why Small Businesses Should Embrace Managed Detection and Response (MDR) | Adil | [Read More](https://medium.com/p/aac45b0e3465) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 22:54:34 GMT | Shield Your Tech | Ed-it Editions | [Read More](https://medium.com/p/05f9b361360f) |
 | Sun, 22 Jun 2025 22:52:25 GMT | ChatGPT Is Burning the Planet One Prompt at a Time | Dr. Shweta Shah | [Read More](https://medium.com/p/6b9c6e03c6e5) |
 | Sun, 22 Jun 2025 22:41:26 GMT | Solving BRabbit Lab | Abdelrahman_elkolaly | [Read More](https://medium.com/p/0ff4ff3b1bad) |
-| Sun, 22 Jun 2025 22:31:35 GMT | BOUNTY HACKER WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/dc7d4665eb7a) |
-| Sun, 22 Jun 2025 22:27:25 GMT | Your Kubernetes Config Is Leaking Secrets Right Now | Rahul Sharma | [Read More](https://medium.com/p/e5f82b82427a) |
