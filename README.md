@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 17:35:53 GMT | CAPTCHApocalypse THM - Writeup | Domon | [Read More](https://medium.com/p/ca4119082aa1) |
+| Mon, 23 Jun 2025 17:27:02 GMT | Security Concerns Regarding AI Rise: Why it is Important to be Aware of It | M Talha Sarwar | [Read More](https://medium.com/p/e4338f4ede13) |
+| Mon, 23 Jun 2025 17:26:55 GMT | ## CVE-2025-3248 Scanner – A Powerful Tool to Detect a Critical Exploit | Issam Junior | [Read More](https://medium.com/p/b0c6f581faeb) |
+| Mon, 23 Jun 2025 17:25:52 GMT | chatMDM: AI-Powered Device Management by Codeproof Technologies | Codeproof Technologies | [Read More](https://medium.com/p/3359579d2240) |
+| Mon, 23 Jun 2025 17:18:32 GMT | Understanding the Difference Between Android and iOS Security | Codeproof Technologies | [Read More](https://medium.com/p/2294f7a23ec7) |
+| Mon, 23 Jun 2025 17:15:05 GMT | Echoes in the Code: How Subtle AI Jailbreaks Are Redefining Cyber Risk | Siva Gunasekaran | [Read More](https://medium.com/p/3ba7e079a70e) |
 | Mon, 23 Jun 2025 17:05:37 GMT | What They Said Over the Phone Still Echoes in My Head | Cwangechi N | [Read More](https://medium.com/p/4bcef4675813) |
 | Mon, 23 Jun 2025 17:02:42 GMT | Pegasus Spyware — Everything You Need to Know | Xaltius | [Read More](https://medium.com/p/03002cfe151f) |
 | Mon, 23 Jun 2025 17:02:13 GMT | Practical Coding in Cyber Security - HackTheBox Coding Challenges | Motasem Hamdan | [Read More](https://medium.com/p/e9f11c9e47cd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 12:41:20 GMT | Professional Mobile Patrols: Ensuring Safety Across Multiple Regions with Mobile Patrol Services | Professional UK Services | [Read More](https://medium.com/p/81b4079c8631) |
 | Mon, 23 Jun 2025 12:40:10 GMT | Stay Safe Online: Discover the Latest in Cybersecurity | مقالة ترندية | [Read More](https://medium.com/p/67e4b0e15a5d) |
 | Mon, 23 Jun 2025 12:30:36 GMT | Introducing Secret AI: 100% Private & Local AI on Phone | Secret AI | [Read More](https://medium.com/p/dba20e998d31) |
-| Mon, 23 Jun 2025 12:29:51 GMT | Scattered Spider Is Back, and This Time They Are Targeting Insurance | Manish | [Read More](https://medium.com/p/84f0d06f16f1) |
-| Mon, 23 Jun 2025 12:28:14 GMT | Scattered Spider Now Targeting US Insurance Sector After UK Retail Attack | Srinivasps | [Read More](https://medium.com/p/e09f0ed77ea0) |
-| Mon, 23 Jun 2025 12:26:55 GMT | Pomodoro Technique — Boost your Productivity | Gerald | [Read More](https://medium.com/p/1fed3019c66f) |
-| Mon, 23 Jun 2025 12:24:03 GMT | Scattered Spider’s Widespread Impact on UK Retailers and U.S. Insurance Firms | Hari Rahul | [Read More](https://medium.com/p/3241b3c444e3) |
-| Mon, 23 Jun 2025 12:20:27 GMT | How Do vCISO Services Improve Security? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8dbc7edba7ce) |
-| Mon, 23 Jun 2025 12:16:45 GMT | Siber Güvenlik ve Python | Atasoy | [Read More](https://medium.com/p/f7e134406040) |
