@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 09:12:25 GMT | "My Password Wasn't Enough": Why You Need Multi-Factor Authentication Now More Than Ever | Amaka okoye | [Read More](https://medium.com/p/324a1df0c104) |
+| Mon, 23 Jun 2025 09:00:36 GMT | Hijacking Suspended Threads with APCs and NtAlertResumeThread | LordShen | [Read More](https://medium.com/p/26a83694a0c0) |
+| Mon, 23 Jun 2025 08:58:26 GMT | Red Team vs. Blue Team: Simulating Real-World Cyber Attacks | Akitra | [Read More](https://medium.com/p/bc7aeba0f87d) |
+| Mon, 23 Jun 2025 08:53:24 GMT | AES: The digital safe of our time | FelixFab | [Read More](https://medium.com/p/3d9f599f78ad) |
+| Mon, 23 Jun 2025 08:52:59 GMT | Still Figuring It Out: Navigating Life After a Library and Information Science Degree | Atukpa Gift Ehi | [Read More](https://medium.com/p/3f8eadd66056) |
+| Mon, 23 Jun 2025 08:49:32 GMT | Upload to Root: Exploiting Unrestricted File Uploads and How to Prevent It | Victor Kipkemboi | [Read More](https://medium.com/p/e04c9d7d7ed8) |
+| Mon, 23 Jun 2025 08:33:26 GMT | When Memory Refuses to Forget | Karol Mazurek | [Read More](https://medium.com/p/502d49de5af7) |
 | Mon, 23 Jun 2025 08:19:12 GMT | Top 5 Cybersecurity Threats in 2025 & How to Stay Ahead | Kai Henry | [Read More](https://medium.com/p/6e71ff5d1bd6) |
 | Mon, 23 Jun 2025 08:17:43 GMT | If you have to trick AI to get hired, the system is already broken | Flavia Marques | [Read More](https://medium.com/p/4541cff08254) |
 | Mon, 23 Jun 2025 08:12:07 GMT | Lost and Found: How Deleted User Accounts Were Still Alive in the System ️ | Iski | [Read More](https://medium.com/p/2ca9b1af0749) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 01:41:35 GMT | The Unspoken Rules of Dating: Initiative Shows True Interest, Indifference Doesn’t Exist | Lilyana | [Read More](https://medium.com/p/e2cd659c55c3) |
 | Mon, 23 Jun 2025 01:35:20 GMT | Secure and Compliant AI in the Enterprise | Jordanne Barrett | [Read More](https://medium.com/p/30a6e264a800) |
 | Mon, 23 Jun 2025 01:23:55 GMT | How to Hack a Database | cyberh4cks.com | [Read More](https://medium.com/p/d51f4ea49775) |
-| Mon, 23 Jun 2025 01:20:11 GMT | Penerapan Konsep Framework JavaScript pada Next.js | Almas Indhar Amanullah | [Read More](https://medium.com/p/3d401c503bd6) |
-| Mon, 23 Jun 2025 01:19:10 GMT | PT1 by TryHackMe: Can a True Beginner Survive? | James Seril | [Read More](https://medium.com/p/dc4fbef3a9af) |
-| Mon, 23 Jun 2025 01:13:42 GMT | Dasar-Dasar Framework JavaScript | Almas Indhar Amanullah | [Read More](https://medium.com/p/b532b5af7dc6) |
-| Mon, 23 Jun 2025 01:00:20 GMT | DoD Cyber Sentinel CTF | Chopp_Sueyy | [Read More](https://medium.com/p/4cc363740546) |
-| Mon, 23 Jun 2025 00:58:45 GMT | IBM AskIAM Unleashed: Empowering Identity with Agentic AI | Siva Desetti | [Read More](https://medium.com/p/4cc39c3088c7) |
-| Mon, 23 Jun 2025 00:54:20 GMT | In the shadow of war, what can we believe? | SAYCOIN | [Read More](https://medium.com/p/022c518c4148) |
-| Mon, 23 Jun 2025 00:51:48 GMT | Stop FUD from distracting Cybersecurity Operations | devsecops | [Read More](https://medium.com/p/fddc23f5bcd8) |
