@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 18:57:02 GMT | Metasploitable 2 Hack: Port Taramaları | Mustafa Şen | [Read More](https://medium.com/p/34f25923ba4a) |
+| Mon, 23 Jun 2025 18:46:46 GMT | Understanding Cybersecurity: Beyond the Hollywood Hype | Aaleyah S. Evans | [Read More](https://medium.com/p/6ad6ddf95644) |
+| Mon, 23 Jun 2025 18:41:19 GMT | Building My Home SOC Lab — Chapter 1: The Beginning | Vijayasakith Vijayakanthan | [Read More](https://medium.com/p/c5312bdbf83b) |
+| Mon, 23 Jun 2025 18:31:58 GMT | Why ACME Device Attestation is Reshaping Enterprise Security — Backed by Hard Numbers | Akilnath Bodipudi | [Read More](https://medium.com/p/c140bc89caca) |
 | Mon, 23 Jun 2025 18:27:06 GMT | Security In and Around MCP: Part 2 — MCP in Deployment | Maia Iyer | [Read More](https://medium.com/p/65bdd0ba9dc6) |
+| Mon, 23 Jun 2025 18:26:56 GMT | How North Korea’s BlueNoroff Hijacks Zoom Calls Using AI-Driven Deepfakes | Avnishyam | [Read More](https://medium.com/p/2810620987b3) |
 | Mon, 23 Jun 2025 18:26:36 GMT | Top 10 Free Ethical Hacking Courses You Can Start Today (2025) | Very Lazy Tech | [Read More](https://medium.com/p/2b557fb062ea) |
 | Mon, 23 Jun 2025 18:19:46 GMT | CVE-2025-49113-Scanner – Security Advisory | Issam Junior | [Read More](https://medium.com/p/417921332d13) |
 | Mon, 23 Jun 2025 18:14:56 GMT | The BTMOB RAT Was Just Leaked — And XCRATS Is Behind It | InfosecObserver | [Read More](https://medium.com/p/c8359811bc53) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 13:38:08 GMT | The Digital Door Slam: UX Lessons From Session Expiry | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/f90de32aa61a) |
 | Mon, 23 Jun 2025 13:32:46 GMT | Websites Can Use Your Camera, Mic & Location Without You Knowing — This Chrome Extension Logs It… | LN Das | [Read More](https://medium.com/p/4ce3886dff0b) |
 | Mon, 23 Jun 2025 13:27:09 GMT | Don’t Delete Your Old Posts — They Might Save Someone Else | Shireen Samy  A Tree Hugger | [Read More](https://medium.com/p/dc6fe9b0d3f7) |
-| Mon, 23 Jun 2025 13:21:52 GMT | Can a 403 Page Hack Your Users Secretly | Ibtissam hammadi | [Read More](https://medium.com/p/2f4d5f952dbf) |
-| Mon, 23 Jun 2025 13:20:43 GMT | Security in OAuth2 : protecting against OAuth authorization server mix-up attack | Kunal Sinha | [Read More](https://medium.com/p/5fac8c378a12) |
-| Mon, 23 Jun 2025 13:20:21 GMT | OAuth2 Security: Securing Front-Channel Parameters with PAR | Kunal Sinha | [Read More](https://medium.com/p/d2eb67ee0643) |
-| Mon, 23 Jun 2025 13:14:21 GMT | Your Unsigned Git Commits Are a Security Liability. Here’s how to fix that. | Gonzalo Alcaraz | [Read More](https://medium.com/p/618f31fd4166) |
-| Mon, 23 Jun 2025 13:14:13 GMT | Trademark analysis and brand-monitoring tools for OSINT | loyalonlytoday | [Read More](https://medium.com/p/599f0a426a96) |
