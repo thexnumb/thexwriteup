@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 01:49:33 GMT | All Chase bank paypal Venmo Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv… | Gonzalez | [Read More](https://medium.com/p/131046daaffc) |
+| Mon, 23 Jun 2025 01:46:38 GMT | Secure IAM Key Rotation, Storage, and Deletion Pipeline | Akuphe Dieudonne | [Read More](https://medium.com/p/009611fa3e33) |
+| Mon, 23 Jun 2025 01:43:01 GMT | IP Address for Non Techies — A beginner’s guide | Zia Gondal | [Read More](https://medium.com/p/1a06be56c6ae) |
+| Mon, 23 Jun 2025 01:41:35 GMT | The Unspoken Rules of Dating: Initiative Shows True Interest, Indifference Doesn’t Exist | Lilyana | [Read More](https://medium.com/p/e2cd659c55c3) |
+| Mon, 23 Jun 2025 01:35:20 GMT | Secure and Compliant AI in the Enterprise | Jordanne Barrett | [Read More](https://medium.com/p/30a6e264a800) |
+| Mon, 23 Jun 2025 01:23:55 GMT | How to Hack a Database | cyberh4cks.com | [Read More](https://medium.com/p/d51f4ea49775) |
+| Mon, 23 Jun 2025 01:20:11 GMT | Penerapan Konsep Framework JavaScript pada Next.js | Almas Indhar Amanullah | [Read More](https://medium.com/p/3d401c503bd6) |
+| Mon, 23 Jun 2025 01:19:10 GMT | PT1 by TryHackMe: Can a True Beginner Survive? | James Seril | [Read More](https://medium.com/p/dc4fbef3a9af) |
+| Mon, 23 Jun 2025 01:13:42 GMT | Dasar-Dasar Framework JavaScript | Almas Indhar Amanullah | [Read More](https://medium.com/p/b532b5af7dc6) |
+| Mon, 23 Jun 2025 01:00:20 GMT | DoD Cyber Sentinel CTF | Chopp_Sueyy | [Read More](https://medium.com/p/4cc363740546) |
+| Mon, 23 Jun 2025 00:58:45 GMT | IBM AskIAM Unleashed: Empowering Identity with Agentic AI | Siva Desetti | [Read More](https://medium.com/p/4cc39c3088c7) |
+| Mon, 23 Jun 2025 00:54:20 GMT | In the shadow of war, what can we believe? | SAYCOIN | [Read More](https://medium.com/p/022c518c4148) |
+| Mon, 23 Jun 2025 00:51:48 GMT | Stop FUD from distracting Cybersecurity Operations | devsecops | [Read More](https://medium.com/p/fddc23f5bcd8) |
+| Mon, 23 Jun 2025 00:46:29 GMT | Hackthebox Footprinting MySQL Writeup | ma40ou | [Read More](https://medium.com/p/7bbdf31e1268) |
+| Mon, 23 Jun 2025 00:27:10 GMT | DevSecOps 2025: How We Made Security Everyone’s Favorite Feature | Sneha Rani | [Read More](https://medium.com/p/f9ffc3aba1b8) |
+| Mon, 23 Jun 2025 00:02:34 GMT | Protecting Your Crypto: Different Types of Encryption You Should Know | ecxx.com | [Read More](https://medium.com/p/7824b6381ea0) |
+| Sun, 22 Jun 2025 23:59:31 GMT | Hackviser — ProFTPD 1.3.5 Remote Code Execution (CVE-2015–3306) Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/846416df9adc) |
 | Sun, 22 Jun 2025 23:26:42 GMT | WinLnk Malware Investigation in MDE — A threat hidden in Plain Sight | Josiah Boateng | [Read More](https://medium.com/p/3067eec921a8) |
 | Sun, 22 Jun 2025 23:24:25 GMT | Fail2Ban: Lightweight but Powerful Protection | Erkan Kavas | [Read More](https://medium.com/p/79f6bf514756) |
 | Sun, 22 Jun 2025 23:20:13 GMT | The Hidden Dangers in Your Contact Forms (And How to Fix Them) | Ali AZARY | [Read More](https://medium.com/p/b7079156eddd) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 17:02:54 GMT | Our Smart Home is Broken. Here’s a Blueprint to Fix Its Security | Rijal s | [Read More](https://medium.com/p/b3992175b916) |
 | Sun, 22 Jun 2025 17:01:40 GMT | Learning to Hold Space: A Journey Through Dreams, Grief, and Presence | Pratibha Singh | [Read More](https://medium.com/p/6b35e054f132) |
 | Sun, 22 Jun 2025 17:01:11 GMT | Building IP-Based Security Controls For Your APIs in WSO2 API Manager | Bernardo Rodrigues | [Read More](https://medium.com/p/1a2e4549a438) |
-| Sun, 22 Jun 2025 16:53:56 GMT | Reflected XSS via File Upload on Sony | dr34m14 | [Read More](https://medium.com/p/0aa0f3295216) |
-| Sun, 22 Jun 2025 16:51:25 GMT | Crafting Packets with Precision: Building a Custom Network Traffic Generator in Python | Ahmed Sobhi Ali | [Read More](https://medium.com/p/9c67c606838c) |
-| Sun, 22 Jun 2025 16:50:35 GMT | Hack the Prompt, Hack the System — Part 1 | binbashfun | [Read More](https://medium.com/p/64b4f890d59b) |
-| Sun, 22 Jun 2025 16:43:34 GMT | I Said Receiving | Catherine Insler | [Read More](https://medium.com/p/0eb96d6afda1) |
-| Sun, 22 Jun 2025 16:42:38 GMT | TryHackMe — Nmap Room | d353rt_5c0rp10n | [Read More](https://medium.com/p/e560869485d4) |
-| Sun, 22 Jun 2025 16:32:34 GMT | Breaking Polyalphabetic Cipher Part III: Krypton 6 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/673462f53ff8) |
-| Sun, 22 Jun 2025 16:32:14 GMT | Understanding Active Directory | Thwarted Pentesterr | [Read More](https://medium.com/p/4650901b5113) |
-| Sun, 22 Jun 2025 16:31:52 GMT | Legacy Systems and Lasting Threats: What the Oxford City Council Breach Teaches Us | Siva Gunasekaran | [Read More](https://medium.com/p/a1c2cac98266) |
-| Sun, 22 Jun 2025 16:31:26 GMT | Getting Started with Nmap — The Hacker’s Radar | Krish Bharara | [Read More](https://medium.com/p/9712a050acb8) |
-| Sun, 22 Jun 2025 16:30:00 GMT | Introducing the World’s First Unhackable LLM: NuLLgPT | TJ Larson | [Read More](https://medium.com/p/0139345c36cb) |
-| Sun, 22 Jun 2025 16:29:39 GMT | ‍☠️ How to Find Your First Vulnerability in Bug Bounty — A Practical Guide for Beginners | Tenebris Venator | [Read More](https://medium.com/p/987b7c7a7432) |
-| Sun, 22 Jun 2025 16:14:48 GMT | Building a Detection & Response Lab (Part 2): Installing Splunk, Ingesting Logs, and Automating… | Marcus Paulo | [Read More](https://medium.com/p/fef37d5dfbe9) |
-| Sun, 22 Jun 2025 16:14:32 GMT | HackTheBox - Meta | jniket | [Read More](https://medium.com/p/e8cb8ca6c80b) |
-| Sun, 22 Jun 2025 16:12:47 GMT | MCP Security Best Practices | noailabs | [Read More](https://medium.com/p/2148b86fa2e4) |
-| Sun, 22 Jun 2025 16:05:44 GMT | Understanding and Detecting Windows Services: A Deep Dive for Blue and Red Teams | Abdellaoui Ahmed | [Read More](https://medium.com/p/790b9714e093) |
-| Sun, 22 Jun 2025 16:03:18 GMT | What does Success look like in IT?? | Achanandhi M | [Read More](https://medium.com/p/6b6630b61d69) |
-| Sun, 22 Jun 2025 15:56:58 GMT | ️ Metasploit Guided Project: Exploiting vsftpd 2.3.4 | Rabia Ishtiaq | [Read More](https://medium.com/p/3db0087a97c1) |
