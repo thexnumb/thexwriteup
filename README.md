@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 14:14:11 GMT | TryHackMe: Relevant Walkthrough - Easy Windows Box for Beginners | Vikash Yadav | [Read More](https://medium.com/p/3f238c430f25) |
+| Mon, 23 Jun 2025 14:11:55 GMT | Hacking RickdiculouslyEasy — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/4668b6f530af) |
+| Mon, 23 Jun 2025 14:11:00 GMT | Vulnerability scanning pattern for RE | ELF Pro Free | [Read More](https://medium.com/p/f0afc289315c) |
+| Mon, 23 Jun 2025 14:05:04 GMT | Understanding Phishing: Don’t Take the Bait! | s1egfr1ed | [Read More](https://medium.com/p/0fe1e05c479d) |
+| Mon, 23 Jun 2025 14:01:45 GMT | HMRC’s Watching Your Wallets — Here’s How 0xTeabag Protects You | 0xTeabag | [Read More](https://medium.com/p/458b62cd9171) |
+| Mon, 23 Jun 2025 14:01:19 GMT | The Psychology Behind Social Engineering: Why Smart People Fall for Obvious Scams | Zahir black | [Read More](https://medium.com/p/01ca116c343c) |
+| Mon, 23 Jun 2025 13:58:32 GMT | Cyber Briefing: 2025.06.23 | CyberMaterial | [Read More](https://medium.com/p/ccbe9281b8a8) |
+| Mon, 23 Jun 2025 13:57:37 GMT | She Thought Love Was Loud—Until She Fell for His Silence | Ameer hamza | [Read More](https://medium.com/p/1efe50c87d8c) |
+| Mon, 23 Jun 2025 13:48:11 GMT | What is a VPN and What is it Used For? | David Rizzo | [Read More](https://medium.com/p/4e1734e7ce9e) |
+| Mon, 23 Jun 2025 13:46:36 GMT | 8 Free Tools That Tell You If Your Password Is Already Compromised | TheReviewHive | [Read More](https://medium.com/p/3f22cc1fb716) |
+| Mon, 23 Jun 2025 13:42:30 GMT | Learn Fast or Get Left Behind: Why Speed of Learning Is Your Greatest Advantage | Owoyemi Emmanuel | [Read More](https://medium.com/p/a7911b1a82c0) |
+| Mon, 23 Jun 2025 13:40:13 GMT | Towards Autonomous Cybersecurity: Past, Present, and the AI-Driven Future | Evolution Equity Partners | [Read More](https://medium.com/p/bcd0d53c6cda) |
+| Mon, 23 Jun 2025 13:38:08 GMT | The Digital Door Slam: UX Lessons From Session Expiry | Madhu Sri Sushmitha Chowdary | [Read More](https://medium.com/p/f90de32aa61a) |
 | Mon, 23 Jun 2025 13:32:46 GMT | Websites Can Use Your Camera, Mic & Location Without You Knowing — This Chrome Extension Logs It… | LN Das | [Read More](https://medium.com/p/4ce3886dff0b) |
 | Mon, 23 Jun 2025 13:27:09 GMT | Don’t Delete Your Old Posts — They Might Save Someone Else | Shireen Samy  A Tree Hugger | [Read More](https://medium.com/p/dc6fe9b0d3f7) |
 | Mon, 23 Jun 2025 13:21:52 GMT | Can a 403 Page Hack Your Users Secretly | Ibtissam hammadi | [Read More](https://medium.com/p/2f4d5f952dbf) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 08:33:26 GMT | When Memory Refuses to Forget | Karol Mazurek | [Read More](https://medium.com/p/502d49de5af7) |
 | Mon, 23 Jun 2025 08:19:12 GMT | Top 5 Cybersecurity Threats in 2025 & How to Stay Ahead | Kai Henry | [Read More](https://medium.com/p/6e71ff5d1bd6) |
 | Mon, 23 Jun 2025 08:17:43 GMT | If you have to trick AI to get hired, the system is already broken | Flavia Marques | [Read More](https://medium.com/p/4541cff08254) |
-| Mon, 23 Jun 2025 08:12:07 GMT | Lost and Found: How Deleted User Accounts Were Still Alive in the System ️ | Iski | [Read More](https://medium.com/p/2ca9b1af0749) |
-| Mon, 23 Jun 2025 08:08:34 GMT | Enumerate MySQL database server using UNION SQL injection | digistam | [Read More](https://medium.com/p/6efde4290437) |
-| Mon, 23 Jun 2025 08:06:11 GMT | ️ Critical Buffer Overflow in OpenVPN Windows Driver (CVE-2025–50054) Triggers Denial-of-Service… | Infoziant | [Read More](https://medium.com/p/6e35cd436cd6) |
-| Mon, 23 Jun 2025 08:05:51 GMT | Mastering Nmap: The Ultimate Guide to Port Scanning | Het Patel | [Read More](https://medium.com/p/530d0b0138f9) |
-| Mon, 23 Jun 2025 08:01:45 GMT | Part Four — A Practical Guide to Automate Threat Analysis: Abuse IPDB & Combining the Scripts | Jade Hill | [Read More](https://medium.com/p/1a1b3b03b222) |
-| Mon, 23 Jun 2025 07:58:30 GMT | How to Set Up Config Auto Sync in SafeLine | AerieWhole123 | [Read More](https://medium.com/p/6fec93224045) |
-| Mon, 23 Jun 2025 07:45:31 GMT | Empowering Everyday Safety with Personal Security Equipment | Security Superstore | [Read More](https://medium.com/p/9fa22844f700) |
-| Mon, 23 Jun 2025 07:37:53 GMT | Zero Trust Security: The Cybersecurity Revolution | Oliver Smith | [Read More](https://medium.com/p/1b8f5f3a79fc) |
-| Mon, 23 Jun 2025 07:36:40 GMT | DEVOPS in the Crosshairs: Too Much Hype, Too Little Value? | Namir Sagheenanajar | [Read More](https://medium.com/p/85c04d8217b2) |
-| Mon, 23 Jun 2025 07:33:32 GMT | 8 Effective Ways to Prevent Secrets from Being Committed to Git Repositories | Bronya Korolyova | [Read More](https://medium.com/p/eda149bec431) |
-| Mon, 23 Jun 2025 07:33:23 GMT | Google Goes For Post Quantum Signatures | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e68f7a071a7a) |
-| Mon, 23 Jun 2025 07:32:27 GMT | Cybersecurity Awareness: Versa Director Vulnerabilities — A Critical Moment for Enterprises. | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/95385fd9f7e2) |
-| Mon, 23 Jun 2025 07:25:12 GMT | My First Valid Bug | Nuhman Jaseel A P | [Read More](https://medium.com/p/e83c871c2ec2) |
