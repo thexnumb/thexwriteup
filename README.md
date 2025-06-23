@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 22:16:39 GMT | SOC Analyst Automation: Scripts Every Analyst Should Be Using | Karthikeyan Nagaraj | [Read More](https://medium.com/p/6e310dea6ad5) |
 | Mon, 23 Jun 2025 22:13:00 GMT | How I Find Hidden JavaScript Files (And Why They Matter in Bug Bounty)
 Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7aa0) |
 | Mon, 23 Jun 2025 21:55:26 GMT | Ghost Driver Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a21917010584) |
@@ -112,4 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 15:19:50 GMT | Book Review: This Is How They Tell Me The World Ends by Nicole Perlroth | Travis Weninger | [Read More](https://medium.com/p/ac249bca162d) |
 | Mon, 23 Jun 2025 15:18:06 GMT | Patch Management | Igor Berner | [Read More](https://medium.com/p/a9b9e3904c88) |
 | Mon, 23 Jun 2025 15:16:50 GMT | Keeping Your Digital Things Safe: Understanding the CIA Triad | Danukalakshitha | [Read More](https://medium.com/p/f515079d916a) |
-| Mon, 23 Jun 2025 15:08:51 GMT | CRITICAL SECURITY ALERT: 16 Billion Login Credentials Exposed in Massive Data Leak | LumenXo Inc. | [Read More](https://medium.com/p/8eb5c7398445) |
