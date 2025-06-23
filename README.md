@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 16:28:02 GMT | The Face of Malware - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/448ac5ea9029) |
+| Mon, 23 Jun 2025 16:25:32 GMT | Case Study 3: APT29 and the SolarWinds Supply Chain Breach | Agarwaldaksh | [Read More](https://medium.com/p/68bca3000b3a) |
+| Mon, 23 Jun 2025 16:20:18 GMT | SQL Injection in 2025: Why This Zombie Threat Keeps Rising from the Grave | NickyCammarata | [Read More](https://medium.com/p/29bc6066efd2) |
+| Mon, 23 Jun 2025 16:19:08 GMT | Check How I Recover My Money From Topfx | Joel Quentin | [Read More](https://medium.com/p/3107072a6785) |
+| Mon, 23 Jun 2025 16:16:29 GMT | What is Qualia and Why Does It Matter for AI? | AETOS Systems | [Read More](https://medium.com/p/3185dbbf8d37) |
+| Mon, 23 Jun 2025 16:14:23 GMT | Solving Mysteries: When an Email Seems Too Formal to Be Fake for Financial Investors | Dr Mehmet Yildiz | [Read More](https://medium.com/p/65b7caa5e331) |
+| Mon, 23 Jun 2025 16:14:17 GMT | Here’s How I Recover My Money From Topfx | Joel Quentin | [Read More](https://medium.com/p/dff11746f1f4) |
+| Mon, 23 Jun 2025 16:12:58 GMT | From Lab to Live Fire: Taking TCM Security’s PWPA Certification | Athiwat Tiprasaharn | [Read More](https://medium.com/p/0f5ce7f82964) |
+| Mon, 23 Jun 2025 16:00:29 GMT | AI Coding Assistants: Convenience, Control, and the Hidden Costs | Dave Patten | [Read More](https://medium.com/p/6e1c80256520) |
+| Mon, 23 Jun 2025 15:59:42 GMT | ️Day 40: Fort Knox Meets Silicon Valley! | Kshitij Bajracharya | [Read More](https://medium.com/p/219287451595) |
+| Mon, 23 Jun 2025 15:55:39 GMT | Penetration Testing: Vulnerability (Basic) | Anthony Sigid | [Read More](https://medium.com/p/e48477daf606) |
+| Mon, 23 Jun 2025 15:54:46 GMT | OS Command Injection — When User Input Hijacks the Terminal | SACHIN PV | [Read More](https://medium.com/p/340a8a5315a8) |
+| Mon, 23 Jun 2025 15:54:41 GMT | 1inch launches bug bounty programs | 1inch | [Read More](https://medium.com/p/5e2b08b5cf8c) |
+| Mon, 23 Jun 2025 15:53:13 GMT | US Cyber Open(Season 5) Write-up | Nashtavirs | [Read More](https://medium.com/p/7c30dc87a8b5) |
+| Mon, 23 Jun 2025 15:48:41 GMT | Uncovering Hidden Keys in AWS Beanstalk — A CloudGoat Attack Walkthrough | Mukund | [Read More](https://medium.com/p/ecdbaf3e21d4) |
+| Mon, 23 Jun 2025 15:45:01 GMT | The Power of Cybersecurity Search Engines in Bug Bounty Hunting: A Hacker’s Guide | Uday | [Read More](https://medium.com/p/e328702f2c41) |
+| Mon, 23 Jun 2025 15:44:56 GMT | SOC Risk Management: Why It’s Critical for Cybersecurity Success | SafeAeon Inc. | [Read More](https://medium.com/p/ffd0b40a6e9e) |
 | Mon, 23 Jun 2025 15:39:00 GMT | Abstraction in Java with real world examples | Hari Prasad | [Read More](https://medium.com/p/c2fca1870429) |
 | Mon, 23 Jun 2025 15:37:23 GMT | What I learned from my first heartbreak | Alex Viner | [Read More](https://medium.com/p/de65647ecc94) |
 | Mon, 23 Jun 2025 15:34:46 GMT | Block Web Filter: Control Internet Access and Improve Online Safety | SafeAeon Inc. | [Read More](https://medium.com/p/ad5ae34466a2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 11:30:54 GMT | Stored XSS into HTML context with nothing encoded by PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/fb2c3abfe6bd) |
 | Mon, 23 Jun 2025 11:29:44 GMT | Corporate Event Security: More Than Just Bouncers at the Door | Sumintra | [Read More](https://medium.com/p/490ca26ce7fe) |
 | Mon, 23 Jun 2025 11:29:19 GMT | How the Johari Window Can Transform IT Service Management ? | Fabrice D.Kagame | [Read More](https://medium.com/p/314224212070) |
-| Mon, 23 Jun 2025 11:25:47 GMT | Inside the Microsoft Midnight Blizzard Breach | Taiyab Lokhandwala | [Read More](https://medium.com/p/fdfbb3dad9a9) |
-| Mon, 23 Jun 2025 11:23:02 GMT | Penetration Test Report Sample [Free Download & Guide] | Qualysectechnologies | [Read More](https://medium.com/p/f48109e34eb8) |
-| Mon, 23 Jun 2025 11:21:05 GMT | How YouTube Became My First Programming Classroom | Sawera Jarwar | [Read More](https://medium.com/p/77e7524d159a) |
-| Mon, 23 Jun 2025 11:20:58 GMT | Google Strengthens Cloud Armor with Multi-Layered Defenses Against Layer 7 DDoS Attacks | CyBlog | [Read More](https://medium.com/p/20071b828380) |
-| Mon, 23 Jun 2025 11:19:45 GMT | What Raidu Does?(And Why It Matters) | Raidu Inc | [Read More](https://medium.com/p/9405f66cd747) |
-| Mon, 23 Jun 2025 11:18:02 GMT | How an OAuth Misconfiguration Led to Token Leakage | Ehtesham Ul Haq | [Read More](https://medium.com/p/6b38d3d32f8e) |
-| Mon, 23 Jun 2025 11:17:44 GMT | Welcome to Only Humans | Adam Craig | [Read More](https://medium.com/p/d0e6f56d38ff) |
-| Mon, 23 Jun 2025 11:09:25 GMT | The 16 Billion Password Breach | Ravi Sankar Uppala | [Read More](https://medium.com/p/a8054180a950) |
-| Mon, 23 Jun 2025 11:01:59 GMT | Here’s How I Recover My Money From Fxpig | Christian Cole | [Read More](https://medium.com/p/2e79976b3464) |
-| Mon, 23 Jun 2025 11:01:36 GMT | ️ Windows Event ID Analysis for Attack Detection: A Deep Dive into Key Event Logs | Esra Kayhan | [Read More](https://medium.com/p/81b6bdb12e8f) |
-| Mon, 23 Jun 2025 10:56:31 GMT | Authentication part-10 : Offline password cracking | Ahmad Sopyan | [Read More](https://medium.com/p/18fb252082ec) |
-| Mon, 23 Jun 2025 10:53:25 GMT | What Happens When Robots Are More Human Than Humans? | Ananya Pandey | [Read More](https://medium.com/p/c797e049d488) |
-| Mon, 23 Jun 2025 10:43:13 GMT | Hackers are bribing Coinbase support agents — And your crypto disappears into their wallet | Karl Buhl | [Read More](https://medium.com/p/8fb7cefb8247) |
-| Mon, 23 Jun 2025 10:31:29 GMT | Here’s How I Recover My Money From XBTFX | Wensley Macaulay | [Read More](https://medium.com/p/7a0736c4ecbc) |
-| Mon, 23 Jun 2025 10:30:11 GMT | Partisia Newsletter: June | Partisia | [Read More](https://medium.com/p/026ddd400367) |
-| Mon, 23 Jun 2025 10:28:48 GMT | Enhance Your Career with Management and Leadership Courses in Australia | royalinternational | [Read More](https://medium.com/p/28a0acbd7c78) |
-| Mon, 23 Jun 2025 10:22:54 GMT | When AI Joins the SOC: My First Experiment in Malware Analysis ! | Char3xPulse | [Read More](https://medium.com/p/86870681e11f) |
