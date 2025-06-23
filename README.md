@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 23:30:14 GMT | recklessness. | dita. | [Read More](https://medium.com/p/8a860e8e2112) |
+| Mon, 23 Jun 2025 23:15:34 GMT | Rethinking Hiring: Our Interview Process Is Broken | Yaroslav | [Read More](https://medium.com/p/522cf6364cc5) |
 | Mon, 23 Jun 2025 23:13:09 GMT | Crypto Recovery Option: Proffesional Crypto Recovery | Paulgibson | [Read More](https://medium.com/p/09b2c9c40cd4) |
 | Mon, 23 Jun 2025 23:06:41 GMT | Honest Engineering: Why Tech’s Biggest Promises Are Really Bounded Contracts | Darwin Gosal | [Read More](https://medium.com/p/1a8242997f1e) |
 | Mon, 23 Jun 2025 22:59:54 GMT | Top 5 ways to recover funds from crypto scam: Crypto Recovery Option | Paulgibson | [Read More](https://medium.com/p/63b68eb671bd) |
@@ -111,5 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 15:31:52 GMT | Deep Dive into QRadar’s Parsing Mechanism and Data Flow | Yuksel | [Read More](https://medium.com/p/7aed22340dc4) |
 | Mon, 23 Jun 2025 15:31:22 GMT | PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec | Soman Verma | [Read More](https://medium.com/p/50e07ef54168) |
 | Mon, 23 Jun 2025 15:27:37 GMT | Discover the Benefits of Motorized Curtains by SwitchBot! | Bedonkatonya | [Read More](https://medium.com/p/f9e2777c16aa) |
-| Mon, 23 Jun 2025 15:26:28 GMT | Linux Kernel Güvenlik Mekanizmalarının Evrimi ve Modern Karşılaştırması | Hamza Çağrıcı | [Read More](https://medium.com/p/5f3dc3adff4b) |
-| Mon, 23 Jun 2025 15:23:33 GMT | Change Management | Igor Berner | [Read More](https://medium.com/p/db23d3f28e4a) |
