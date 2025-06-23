@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 03:11:19 GMT | Your MCP Server Is a Hacker’s Dream (Fix It Before They Do) | Junji Zhi | [Read More](https://medium.com/p/b4d97dfbcd04) |
+| Mon, 23 Jun 2025 03:07:55 GMT | WestJet Investigates Cybersecurity Incident, Flight Operations Unaffected | SafetyDetectives Research Team | [Read More](https://medium.com/p/9199d271b3b8) |
+| Mon, 23 Jun 2025 02:59:16 GMT | Why Data Centers Need Dedicated Hardware NTP Servers: The Critical Foundation of Distributed… | ThamizhElango Natarajan | [Read More](https://medium.com/p/9632515cda14) |
+| Mon, 23 Jun 2025 02:50:24 GMT | Backbone is good. But data earns trust. | Emmanuel Joshua | [Read More](https://medium.com/p/765c5aa2a094) |
+| Mon, 23 Jun 2025 02:50:21 GMT | The 45-Second Cyber War That Shook the Web | Cyber-AppSec | [Read More](https://medium.com/p/adc436dbbb94) |
+| Mon, 23 Jun 2025 02:47:43 GMT | ADCS Attack Series: Abusing ESC4 via Template ACLs for Privilege Escalation | Nairuz Abulhul | [Read More](https://medium.com/p/98320f0da59a) |
+| Mon, 23 Jun 2025 02:47:02 GMT | The Next War Is Silent: Ransomware, IoT, and the Invisible Battlefield | Lucia trevisani | [Read More](https://medium.com/p/4ca0fc077e69) |
+| Mon, 23 Jun 2025 02:46:12 GMT | ☕ How I Redirected the Entire Startup to evil.com — With One Header | AIwolfie | [Read More](https://medium.com/p/f2eb6faae934) |
+| Mon, 23 Jun 2025 02:34:56 GMT | YARA Rules in Action: Detecting Malware with Custom Signatures | Paritosh | [Read More](https://medium.com/p/fd61633e87c2) |
+| Mon, 23 Jun 2025 02:31:34 GMT | The Hidden Danger of “Vibe Coding”: How a Simple Dependency Led to a Massive Breach | Pentestiverse | [Read More](https://medium.com/p/7eb6f741d369) |
+| Mon, 23 Jun 2025 02:09:27 GMT | Honey Pots: The Art of Digital Deception in Cybersecurity | Rajendra Bodda, Founder Srida IT | [Read More](https://medium.com/p/a1ee316723da) |
+| Mon, 23 Jun 2025 02:06:24 GMT | Inspecting Container Images with Dive — A Practical Guide | Bill WANG | [Read More](https://medium.com/p/344e2d1ec0db) |
 | Mon, 23 Jun 2025 01:49:33 GMT | All Chase bank paypal Venmo Cashapp western union zelle transfers and logs Cloned Cards cc atm cvv… | Gonzalez | [Read More](https://medium.com/p/131046daaffc) |
 | Mon, 23 Jun 2025 01:46:38 GMT | Secure IAM Key Rotation, Storage, and Deletion Pipeline | Akuphe Dieudonne | [Read More](https://medium.com/p/009611fa3e33) |
 | Mon, 23 Jun 2025 01:43:01 GMT | IP Address for Non Techies — A beginner’s guide | Zia Gondal | [Read More](https://medium.com/p/1a06be56c6ae) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 17:54:20 GMT | Is the Future of Windows at Risk? | Darshan Naresh Naik | [Read More](https://medium.com/p/e9370c73562c) |
 | Sun, 22 Jun 2025 17:49:22 GMT | Agentic Misalignment in LLMs: When AI Becomes an Insider Threat (A Revealing Anthropic Study) | ParlonsIA | [Read More](https://medium.com/p/b056b14c5e50) |
 | Sun, 22 Jun 2025 17:48:29 GMT | AI vs Reverse Engineering: Will AI make Android R8 obfuscation obsolete? | Gabriel Brasileiro | [Read More](https://medium.com/p/f0ba7cd39ef7) |
-| Sun, 22 Jun 2025 17:47:00 GMT | How To Properly Use Nmap- most imp points. | err0rgod | [Read More](https://medium.com/p/b02b7d74a3dc) |
-| Sun, 22 Jun 2025 17:43:02 GMT | Functions, Modules, and Packages — Organizing Your Code | Vaibhav | [Read More](https://medium.com/p/0186d79b2363) |
-| Sun, 22 Jun 2025 17:33:14 GMT | Your Bug Bounty Toolkit — What You Actually Need to Start Finding Bugs | Đeepanshu | [Read More](https://medium.com/p/10406119233c) |
-| Sun, 22 Jun 2025 17:23:46 GMT | 16 Billion People Got Hacked: Here’s How to Fight Back | Neetrox | [Read More](https://medium.com/p/5c95f0413326) |
-| Sun, 22 Jun 2025 17:23:32 GMT | Control Flow in Python — If Statements, Loops, and Logical Operators | Vaibhav | [Read More](https://medium.com/p/03de53da0e52) |
-| Sun, 22 Jun 2025 17:14:30 GMT | Kioptrix4 | Nano | [Read More](https://medium.com/p/85984463b921) |
-| Sun, 22 Jun 2025 17:12:50 GMT | Welcome to the Ultimate Cybersecurity Blog for Hackers, Learners & CTF Warriors! | Nitish Ghormade | [Read More](https://medium.com/p/c8f533a71229) |
-| Sun, 22 Jun 2025 17:08:22 GMT | 5 AI Security Projects to Prove You’re Ready for the Future of Cybersecurity | Taimur Ijlal | [Read More](https://medium.com/p/a8eb8e99dd24) |
-| Sun, 22 Jun 2025 17:08:12 GMT | Ivacy VPN: Affordable Privacy, Flexible Protection, and a Clever Twist on Server Locations | D Johnston | [Read More](https://medium.com/p/fd86e4150aae) |
-| Sun, 22 Jun 2025 17:02:54 GMT | Our Smart Home is Broken. Here’s a Blueprint to Fix Its Security | Rijal s | [Read More](https://medium.com/p/b3992175b916) |
-| Sun, 22 Jun 2025 17:01:40 GMT | Learning to Hold Space: A Journey Through Dreams, Grief, and Presence | Pratibha Singh | [Read More](https://medium.com/p/6b35e054f132) |
-| Sun, 22 Jun 2025 17:01:11 GMT | Building IP-Based Security Controls For Your APIs in WSO2 API Manager | Bernardo Rodrigues | [Read More](https://medium.com/p/1a2e4549a438) |
