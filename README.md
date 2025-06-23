@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 05:37:27 GMT | PING and TRACERT (Traceroute) Networking Command Line Tools | Gopal Mohan | [Read More](https://medium.com/p/d20c432439db) |
+| Mon, 23 Jun 2025 05:36:46 GMT | From Awareness to Action: Evolving Security Through Human Risk Management | Thomas Carter | [Read More](https://medium.com/p/dba71590e79a) |
+| Mon, 23 Jun 2025 05:34:00 GMT | Social Engineering: Hacking the Human Mind in the Digital Age | Amol Rangari | [Read More](https://medium.com/p/c2210b7b8e0e) |
+| Mon, 23 Jun 2025 05:29:40 GMT | OWASP Pentest Series (7/12) | TheZeeshanKhan | [Read More](https://medium.com/p/8e2a2af9a30b) |
+| Mon, 23 Jun 2025 05:26:40 GMT | Who Needs Phishing When Your Credentials Are Already for Sale Online? | Marco Camisani Calzolari | [Read More](https://medium.com/p/721750a63c50) |
+| Mon, 23 Jun 2025 05:23:01 GMT | 80% of Phishing Clues Are in the Header, PhishHound Finds Them with YAML Logic | Yug Shah | [Read More](https://medium.com/p/39e436ee151e) |
+| Mon, 23 Jun 2025 05:20:09 GMT | The Human Firewall: How to Patch Your Mind Against Digital Predation | Victor Yan | [Read More](https://medium.com/p/2aa35b621c9b) |
 | Mon, 23 Jun 2025 05:13:33 GMT | Why HIPAA Compliance is More Than a Legal Requirement: A Path to Building Patient Trust | DefenceRabbit | [Read More](https://medium.com/p/19b8c2bbfa78) |
 | Mon, 23 Jun 2025 05:06:03 GMT | HackTheBox — Jerry Walkthrough | 0xh3x | [Read More](https://medium.com/p/dc09610e50cf) |
 | Mon, 23 Jun 2025 05:05:50 GMT | Stay Ahead of Hackers with Intelligent AI Cybersecurity Tools | Miawilliams | [Read More](https://medium.com/p/77f05ca50257) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Jun 2025 19:37:08 GMT | How Doppler and Datadog Are Redefining Security for the Modern Developer | Cloud Guru | [Read More](https://medium.com/p/694590698be5) |
 | Sun, 22 Jun 2025 19:25:00 GMT | How Maltego is Revolutionizing Connection Mapping in OSINT Investigations | Nazrul Islam Rana | [Read More](https://medium.com/p/65a2c8087645) |
 | Sun, 22 Jun 2025 19:15:55 GMT | the age of yearning | alena | [Read More](https://medium.com/p/088219a99909) |
-| Sun, 22 Jun 2025 19:11:27 GMT | Part 2: Initial Access — From Clickbait to Code Execution | Kunal Rajour | [Read More](https://medium.com/p/3014a81dce66) |
-| Sun, 22 Jun 2025 19:07:17 GMT | How Do You Let Go? | Jasmine Ramos | [Read More](https://medium.com/p/347295f69814) |
-| Sun, 22 Jun 2025 19:07:10 GMT | What Does This Mean Governance & Regulation | Mainekdeveloper | [Read More](https://medium.com/p/e9dca75f4107) |
-| Sun, 22 Jun 2025 19:01:33 GMT | Building a Complete 2FA System: From Theory to Implementation | Dacio Bezerra | [Read More](https://medium.com/p/0be626ea391c) |
-| Sun, 22 Jun 2025 18:54:59 GMT | Does Knowing Me More Lead to Loving Me Less? | Sumaiya | [Read More](https://medium.com/p/ff391aaffdb6) |
-| Sun, 22 Jun 2025 18:54:53 GMT | Should Iran Develop Nuclear Weapons? | mahwish qayyum | [Read More](https://medium.com/p/580eed095a85) |
-| Sun, 22 Jun 2025 18:53:54 GMT | A Tech Professional’s Guide to India’s Digital Personal Data Protection (DPDP) Bill | Ankitjangir | [Read More](https://medium.com/p/5a1ee44ead47) |
