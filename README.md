@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 15:22:08 GMT | ACADEMY MACHINE (HACK THE BOX) | The Commoness | [Read More](https://medium.com/p/8914d373c5f7) |
+| Mon, 23 Jun 2025 15:18:06 GMT | Patch Management | Igor Berner | [Read More](https://medium.com/p/a9b9e3904c88) |
+| Mon, 23 Jun 2025 15:16:50 GMT | Keeping Your Digital Things Safe: Understanding the CIA Triad | Danukalakshitha | [Read More](https://medium.com/p/f515079d916a) |
+| Mon, 23 Jun 2025 15:08:51 GMT | CRITICAL SECURITY ALERT: 16 Billion Login Credentials Exposed in Massive Data Leak | LumenXo Inc. | [Read More](https://medium.com/p/8eb5c7398445) |
+| Mon, 23 Jun 2025 15:05:48 GMT | Practical Windows Commands | Very Lazy Tech | [Read More](https://medium.com/p/ebfd029aa8df) |
+| Mon, 23 Jun 2025 15:03:27 GMT | picoCTF — n0s4n1ty 1 | Robby firdauzy | [Read More](https://medium.com/p/adee2bf166e3) |
+| Mon, 23 Jun 2025 14:56:36 GMT | IPv4 vs IPv6 | Kaniz Sukayna | [Read More](https://medium.com/p/f6a8ff09edfc) |
+| Mon, 23 Jun 2025 14:56:22 GMT | Mastering the Art of Cybersecurity Communication | Yaroslav | [Read More](https://medium.com/p/a27db5801140) |
+| Mon, 23 Jun 2025 14:51:51 GMT | “Hacking 101: A Beginner’s Guide to Virtual Machines, Linux, and Networking” | Christyjohn | [Read More](https://medium.com/p/b68acd575e8e) |
+| Mon, 23 Jun 2025 14:49:12 GMT | CIA Triad in Cyber Security | Dhanushahasheel | [Read More](https://medium.com/p/8c9fce10580e) |
+| Mon, 23 Jun 2025 14:48:09 GMT | CAN Protocol Pentesting: Replay, DoS, Fuzzing, and Firehose Attacks | Vaishali Nagori | [Read More](https://medium.com/p/dd541169b53b) |
+| Mon, 23 Jun 2025 14:42:02 GMT | Vulnerability scanning pattern from Pentesting for Reverse Engineering | ELF Pro Free | [Read More](https://medium.com/p/8b1593fcf007) |
+| Mon, 23 Jun 2025 14:40:38 GMT | Just-in-Time VSS: No Key Left Behind | KONG Wallet & Portfolio | [Read More](https://medium.com/p/e2ff6085f0d7) |
 | Mon, 23 Jun 2025 14:31:51 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source — PortSwigger | Sumanth Yerranagula | [Read More](https://medium.com/p/677d9c497fc2) |
 | Mon, 23 Jun 2025 14:26:31 GMT | How Are Companies Using SaaS Management Tools in 2025? | Arun Jyothi | [Read More](https://medium.com/p/775556475ce5) |
 | Mon, 23 Jun 2025 14:25:45 GMT | Setup you own Hacking Lab — Ultimate guide. | err0rgod | [Read More](https://medium.com/p/1b1618d5123d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 09:53:19 GMT | Are Artists Really Shy? Why Vulnerability ≠ Shyness. | Dilrukshi Mendis | [Read More](https://medium.com/p/fd74b4e039e2) |
 | Mon, 23 Jun 2025 09:51:16 GMT | Secrets Management in .NET Projects: What You’re Doing Wrong | Kittikawin L. | [Read More](https://medium.com/p/2c0bd3007bf1) |
 | Mon, 23 Jun 2025 09:49:25 GMT | AI & ML in Fraud Detection in Banking Industry | Sayan Bhadra | [Read More](https://medium.com/p/a0db7207bbde) |
-| Mon, 23 Jun 2025 09:46:02 GMT | How AI is Reshaping Cybersecurity? | Sam Bishop | [Read More](https://medium.com/p/6908f1e06add) |
-| Mon, 23 Jun 2025 09:45:23 GMT | 16 Billion Passwords Leaked: Is Your Digital Marketing Strategy Ready? | Prattush | [Read More](https://medium.com/p/005a3eecd67c) |
-| Mon, 23 Jun 2025 09:43:58 GMT | Beyond the Pipeline: The Untold Principles of DevSecOps Security | Oğulcan Doğan | [Read More](https://medium.com/p/789f25010cdc) |
-| Mon, 23 Jun 2025 09:42:25 GMT | Defense in Depth: Why One Layer of Security Isn’t Enough | Diogo | [Read More](https://medium.com/p/a32799c939f8) |
-| Mon, 23 Jun 2025 09:36:55 GMT | HackTheBox — Netmon Walkthrough | 0xh3x | [Read More](https://medium.com/p/3f6901c6547a) |
-| Mon, 23 Jun 2025 09:32:44 GMT | The Three Most Common OAuth Implementation Mistakes | Albert Starreveld | [Read More](https://medium.com/p/e321f1575f30) |
-| Mon, 23 Jun 2025 09:30:37 GMT | Next Gen AI-Powered Cybersecurity: AI-Native SOC, Next Gen SIEM, MDR, etc. | noailabs | [Read More](https://medium.com/p/2d04be89b820) |
-| Mon, 23 Jun 2025 09:23:35 GMT | How a Simple Misconfigured S3 Bucket Exposed Our Data | Divesh Rajput | [Read More](https://medium.com/p/43c46f4f1237) |
-| Mon, 23 Jun 2025 09:19:39 GMT | Sleepy Pickle: Stealthy threat lurking in your ML Models | Govind Singh | [Read More](https://medium.com/p/1360124357d5) |
-| Mon, 23 Jun 2025 09:12:25 GMT | "My Password Wasn't Enough": Why You Need Multi-Factor Authentication Now More Than Ever | Amaka okoye | [Read More](https://medium.com/p/324a1df0c104) |
-| Mon, 23 Jun 2025 09:00:36 GMT | Hijacking Suspended Threads with APCs and NtAlertResumeThread | LordShen | [Read More](https://medium.com/p/26a83694a0c0) |
-| Mon, 23 Jun 2025 08:58:26 GMT | Red Team vs. Blue Team: Simulating Real-World Cyber Attacks | Akitra | [Read More](https://medium.com/p/bc7aeba0f87d) |
-| Mon, 23 Jun 2025 08:53:24 GMT | AES: The digital safe of our time | FelixFab | [Read More](https://medium.com/p/3d9f599f78ad) |
