@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Jun 2025 08:19:12 GMT | Top 5 Cybersecurity Threats in 2025 & How to Stay Ahead | Kai Henry | [Read More](https://medium.com/p/6e71ff5d1bd6) |
+| Mon, 23 Jun 2025 08:17:43 GMT | If you have to trick AI to get hired, the system is already broken | Flavia Marques | [Read More](https://medium.com/p/4541cff08254) |
+| Mon, 23 Jun 2025 08:12:07 GMT | Lost and Found: How Deleted User Accounts Were Still Alive in the System ️ | Iski | [Read More](https://medium.com/p/2ca9b1af0749) |
+| Mon, 23 Jun 2025 08:08:34 GMT | Enumerate MySQL database server using UNION SQL injection | digistam | [Read More](https://medium.com/p/6efde4290437) |
+| Mon, 23 Jun 2025 08:06:11 GMT | ️ Critical Buffer Overflow in OpenVPN Windows Driver (CVE-2025–50054) Triggers Denial-of-Service… | Infoziant | [Read More](https://medium.com/p/6e35cd436cd6) |
+| Mon, 23 Jun 2025 08:05:51 GMT | Mastering Nmap: The Ultimate Guide to Port Scanning | Het Patel | [Read More](https://medium.com/p/530d0b0138f9) |
+| Mon, 23 Jun 2025 08:01:45 GMT | Part Four — A Practical Guide to Automate Threat Analysis: Abuse IPDB & Combining the Scripts | Jade Hill | [Read More](https://medium.com/p/1a1b3b03b222) |
+| Mon, 23 Jun 2025 07:58:30 GMT | How to Set Up Config Auto Sync in SafeLine | AerieWhole123 | [Read More](https://medium.com/p/6fec93224045) |
+| Mon, 23 Jun 2025 07:45:31 GMT | Empowering Everyday Safety with Personal Security Equipment | Security Superstore | [Read More](https://medium.com/p/9fa22844f700) |
+| Mon, 23 Jun 2025 07:37:53 GMT | Zero Trust Security: The Cybersecurity Revolution | Oliver Smith | [Read More](https://medium.com/p/1b8f5f3a79fc) |
+| Mon, 23 Jun 2025 07:36:40 GMT | DEVOPS in the Crosshairs: Too Much Hype, Too Little Value? | Namir Sagheenanajar | [Read More](https://medium.com/p/85c04d8217b2) |
+| Mon, 23 Jun 2025 07:33:32 GMT | 8 Effective Ways to Prevent Secrets from Being Committed to Git Repositories | Bronya Korolyova | [Read More](https://medium.com/p/eda149bec431) |
+| Mon, 23 Jun 2025 07:33:23 GMT | Google Goes For Post Quantum Signatures | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e68f7a071a7a) |
+| Mon, 23 Jun 2025 07:32:27 GMT | Cybersecurity Awareness: Versa Director Vulnerabilities — A Critical Moment for Enterprises. | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/95385fd9f7e2) |
 | Mon, 23 Jun 2025 07:25:12 GMT | My First Valid Bug | Nuhman Jaseel A P | [Read More](https://medium.com/p/e83c871c2ec2) |
 | Mon, 23 Jun 2025 07:17:07 GMT | SQL Injection Is Still a Big Deal — Here’s How to Stop It | AerieWhole123 | [Read More](https://medium.com/p/3318fdaa1fde) |
 | Mon, 23 Jun 2025 07:13:45 GMT | Mastering Malware Analysis: A SOC Analyst’s Guide to Dynamic Analysis with AnyRun | Sh3nobi | [Read More](https://medium.com/p/f701afbaefe0) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 00:58:45 GMT | IBM AskIAM Unleashed: Empowering Identity with Agentic AI | Siva Desetti | [Read More](https://medium.com/p/4cc39c3088c7) |
 | Mon, 23 Jun 2025 00:54:20 GMT | In the shadow of war, what can we believe? | SAYCOIN | [Read More](https://medium.com/p/022c518c4148) |
 | Mon, 23 Jun 2025 00:51:48 GMT | Stop FUD from distracting Cybersecurity Operations | devsecops | [Read More](https://medium.com/p/fddc23f5bcd8) |
-| Mon, 23 Jun 2025 00:46:29 GMT | Hackthebox Footprinting MySQL Writeup | ma40ou | [Read More](https://medium.com/p/7bbdf31e1268) |
-| Mon, 23 Jun 2025 00:27:10 GMT | DevSecOps 2025: How We Made Security Everyone’s Favorite Feature | Sneha Rani | [Read More](https://medium.com/p/f9ffc3aba1b8) |
-| Mon, 23 Jun 2025 00:02:34 GMT | Protecting Your Crypto: Different Types of Encryption You Should Know | ecxx.com | [Read More](https://medium.com/p/7824b6381ea0) |
-| Sun, 22 Jun 2025 23:59:31 GMT | Hackviser — ProFTPD 1.3.5 Remote Code Execution (CVE-2015–3306) Write-Up! | Dogukan İSPİRLİ | [Read More](https://medium.com/p/846416df9adc) |
-| Sun, 22 Jun 2025 23:26:42 GMT | WinLnk Malware Investigation in MDE — A threat hidden in Plain Sight | Josiah Boateng | [Read More](https://medium.com/p/3067eec921a8) |
-| Sun, 22 Jun 2025 23:24:25 GMT | Fail2Ban: Lightweight but Powerful Protection | Erkan Kavas | [Read More](https://medium.com/p/79f6bf514756) |
-| Sun, 22 Jun 2025 23:20:13 GMT | The Hidden Dangers in Your Contact Forms (And How to Fix Them) | Ali AZARY | [Read More](https://medium.com/p/b7079156eddd) |
-| Sun, 22 Jun 2025 23:19:29 GMT | I Just Caught My First Hackers — With an Azure Honeypot | RAKIP L. | [Read More](https://medium.com/p/3669cc69eb4d) |
-| Sun, 22 Jun 2025 23:15:44 GMT | GitHub Copilot: Your AI Partner for Finding and Fixing Security Bugs | Gagan Bajaj | [Read More](https://medium.com/p/811d11123a1d) |
-| Sun, 22 Jun 2025 23:01:41 GMT | Blue Team Labs Online — The Planet’s Prestige Walkthrough | Drew Arpino | [Read More](https://medium.com/p/e16ee4fd11ed) |
-| Sun, 22 Jun 2025 22:58:03 GMT | Breaking HTTP Basic Auth with Crunch & Nmap— Brute Forcing the PentesterAcademy Challenge | Cybernerddd | [Read More](https://medium.com/p/abc1095e79de) |
-| Sun, 22 Jun 2025 22:54:34 GMT | Shield Your Tech | Ed-it Editions | [Read More](https://medium.com/p/05f9b361360f) |
-| Sun, 22 Jun 2025 22:52:25 GMT | ChatGPT Is Burning the Planet One Prompt at a Time | Dr. Shweta Shah | [Read More](https://medium.com/p/6b9c6e03c6e5) |
-| Sun, 22 Jun 2025 22:41:26 GMT | Solving BRabbit Lab | Abdelrahman_elkolaly | [Read More](https://medium.com/p/0ff4ff3b1bad) |
