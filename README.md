@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 19:01:56 GMT | How AI and Digital Platforms Serve Kyriarchal Agendas—And How to Build Decentralized Networks for… | A. L. | [Read More](https://medium.com/p/8e7937156110) |
+| Tue, 24 Jun 2025 18:57:00 GMT | The Sticker Shop — TryHackMe Writeups | HacksonAloysis | [Read More](https://medium.com/p/fc560167eb62) |
+| Tue, 24 Jun 2025 18:55:45 GMT | School Holidays Are Here! | Visual Monitoring Solutions | [Read More](https://medium.com/p/00a09baf06ed) |
+| Tue, 24 Jun 2025 18:42:32 GMT | What Happens When You Go to Google.com? | Vishnu prasad | [Read More](https://medium.com/p/0ea49f3cd5ec) |
+| Tue, 24 Jun 2025 18:42:16 GMT | TryHackMe Write-up: Wireshark - Packet Operations | Robert Onyango | [Read More](https://medium.com/p/d37dced1e757) |
+| Tue, 24 Jun 2025 18:29:09 GMT | The Power of Mentorship in Cybersecurity | Victoria C | [Read More](https://medium.com/p/b52e9bcefdb0) |
+| Tue, 24 Jun 2025 18:28:13 GMT | Understanding Vulnerabilities: What They Are and Why They Matter | Sammcmullen | [Read More](https://medium.com/p/9cad6aca45df) |
+| Tue, 24 Jun 2025 18:27:57 GMT | The Kind of Conversations I Crave for | Shalini Jayaprakash | [Read More](https://medium.com/p/b5bd9d84a1b5) |
 | Tue, 24 Jun 2025 18:19:45 GMT | PhenomPoker Legal and Exploit Risk Analysis | Suicide Kings Podcast by @Catalyst Poker | [Read More](https://medium.com/p/6ed9108fa72a) |
 | Tue, 24 Jun 2025 18:19:37 GMT | What is an API? A Deep Dive for Developers & Security Enthusiasts | Root-X-Admin | [Read More](https://medium.com/p/e127327937d5) |
 | Tue, 24 Jun 2025 18:13:39 GMT | How to Protect Your Android App from Reverse Engineering with DexGuard | mohit khandelwal | [Read More](https://medium.com/p/b4e434c2ad4b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 14:18:52 GMT | PicoCTF: Clutter-Overflow | Kenyon Bias | [Read More](https://medium.com/p/883bcfead032) |
 | Tue, 24 Jun 2025 14:17:28 GMT | The 5 Costliest Cybersecurity Incidents of 2024–2025: Lessons, Losses, and Prevention Strategies | Ashvini kumar upadhyay | [Read More](https://medium.com/p/e27eb11477bf) |
 | Tue, 24 Jun 2025 14:07:51 GMT | Why Identity-First Security is the Key to Scalable AI Adoption in 2025 | SecureFLO | [Read More](https://medium.com/p/0f58df720129) |
-| Tue, 24 Jun 2025 14:01:27 GMT | The Netropy Principles, a short Interlude | Peter Hübel | [Read More](https://medium.com/p/ba95eeb74658) |
-| Tue, 24 Jun 2025 14:00:47 GMT | Cyber Briefing: 2025.06.24 | CyberMaterial | [Read More](https://medium.com/p/ebd15b6181b1) |
-| Tue, 24 Jun 2025 13:39:23 GMT | งาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2: Cybersecurity and AI วันที่ 1 | Thanaphum Bubaso | [Read More](https://medium.com/p/0388e0f78777) |
-| Tue, 24 Jun 2025 13:33:03 GMT | LetsDefend — PowerShell Keylogger Walkthrough | El Mehdi Mouhajer | [Read More](https://medium.com/p/85c8e6e775bd) |
-| Tue, 24 Jun 2025 13:31:27 GMT | How to Automate SQLi & XSS Hunting | Ibtissam hammadi | [Read More](https://medium.com/p/9ad7bfbc50b6) |
-| Tue, 24 Jun 2025 13:27:22 GMT | Lookup Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/c2580f588f74) |
-| Tue, 24 Jun 2025 13:27:05 GMT | Top 5 Security Assurances to Check in Alternative HPC Environments — Part 2/2 | WayneReidUK | [Read More](https://medium.com/p/c9b5a634b7f0) |
-| Tue, 24 Jun 2025 13:23:05 GMT | the burden of the eldest | astrelune | [Read More](https://medium.com/p/4653b9f04d20) |
