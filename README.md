@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 09:11:11 GMT | Bank Security Guard Services That Protect Your Financial Future | Sumintra | [Read More](https://medium.com/p/52e853d35c33) |
+| Tue, 24 Jun 2025 09:09:56 GMT | Inside Iran’s Internet Blackout: Cyber Defense or Digital Oppression? | Mohamed Naoui | [Read More](https://medium.com/p/98368f216283) |
+| Tue, 24 Jun 2025 09:09:47 GMT | Langflow RCE Bug Hits AI Devs — Here’s How to Lock It Down | Mr.PlanB | [Read More](https://medium.com/p/7b48e881d500) |
+| Tue, 24 Jun 2025 09:03:26 GMT | How to Become a Professional Cybersecurity Expert — A Roadmap by Koscyber | KOSCYBER | [Read More](https://medium.com/p/665fdba97ce2) |
+| Tue, 24 Jun 2025 09:03:09 GMT | Do you trust bots with your data? | Kevin Brunel | [Read More](https://medium.com/p/ff97e3f505e5) |
+| Tue, 24 Jun 2025 09:01:39 GMT | The Great NATO Defence Spending Illusion | Brian Iselin | [Read More](https://medium.com/p/9a9a2c1ae67b) |
+| Tue, 24 Jun 2025 09:00:22 GMT | How to start a career in IT 2025 | BrokieWorkie | [Read More](https://medium.com/p/21e5872a0b8b) |
+| Tue, 24 Jun 2025 08:59:26 GMT | Unmasking the Manipulators: Identifying and Avoiding Social Engineering Tactics | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/651ffe198871) |
+| Tue, 24 Jun 2025 08:56:39 GMT | Mastering External API Authentication in Salesforce: From Named Credentials to Interface-Driven… | Musa Ndlala | [Read More](https://medium.com/p/c8112d37d731) |
+| Tue, 24 Jun 2025 08:56:39 GMT | Top 5 Cybersecurity Threats You Need to Know in 2025 | Technology Journal | [Read More](https://medium.com/p/e6e5440a3c63) |
+| Tue, 24 Jun 2025 08:53:20 GMT | Decoding Digital Dangers: Common Cybersecurity Threats Explained — Part 2 | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/9010d35a6064) |
+| Tue, 24 Jun 2025 08:51:41 GMT | Serverless, Not Senseless: How I Exploited Cloud Functions to Peek Into the Backend ☁️ | Iski | [Read More](https://medium.com/p/847981fa9e2a) |
+| Tue, 24 Jun 2025 08:51:31 GMT | How Professional Security Services Safeguard Business Continuity | ICORP Security | [Read More](https://medium.com/p/380e9aff81f2) |
+| Tue, 24 Jun 2025 08:49:30 GMT | Decoding Digital Dangers: Common Cybersecurity Threats Explained — Part 1 | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/465589fd6f2e) |
+| Tue, 24 Jun 2025 08:48:29 GMT | China-Linked Salt Typhoon Exploits Open-Source Tools in Stealthy Espionage Campaign | CyBlog | [Read More](https://medium.com/p/2faef742c6e5) |
+| Tue, 24 Jun 2025 08:45:17 GMT | Not a Journal, I Know | Isha | [Read More](https://medium.com/p/e33e5f7b6afd) |
+| Tue, 24 Jun 2025 08:40:53 GMT | Login Service in Java with Spring Boot and Ultra-Secure Password Matching | CodeSculptorX | [Read More](https://medium.com/p/1c5c1f2290a5) |
+| Tue, 24 Jun 2025 08:36:33 GMT | Fix Insufficient Transport Layer Protection in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/e02417763a74) |
+| Tue, 24 Jun 2025 08:36:20 GMT | A Cup Never Filled | Lei | [Read More](https://medium.com/p/ff3c91c9bfbc) |
+| Tue, 24 Jun 2025 08:28:20 GMT | Secure and Innovative Bitcoin Cold Wallet | jacksonkimberly9470 | [Read More](https://medium.com/p/13aaaf465dd6) |
+| Tue, 24 Jun 2025 08:27:08 GMT | Pivoting in OSINT: How to Keep Digging When the Trail Goes Cold | Joe The OSINT Guy | [Read More](https://medium.com/p/bcfe747125b9) |
 | Tue, 24 Jun 2025 08:25:47 GMT | Breaking a monolith : security challenges of migrating a big app to multi-services | Solal Besnard | [Read More](https://medium.com/p/4944609df8b1) |
 | Tue, 24 Jun 2025 08:17:49 GMT | Best Linux Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/00ddf225681e) |
 | Tue, 24 Jun 2025 08:16:55 GMT | What is Cyber Security? A Complete Beginner’s Guide | Simplilearn | [Read More](https://medium.com/p/cc21a33bf59f) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 02:41:26 GMT | Top Security Tips for AI-Driven Applications in 2025: Stay Protected | Afrith Techie | [Read More](https://medium.com/p/732b1229e76e) |
 | Tue, 24 Jun 2025 02:28:25 GMT | I Fell Down a YouTube Rabbit Hole at 2 AM and Discovered People Get Paid to Be Hackers. Legally. | iTheOnlyMe | [Read More](https://medium.com/p/ccb3246601ec) |
 | Tue, 24 Jun 2025 02:28:13 GMT | Week 2: Understanding Data Loss Prevention (DLP) | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/0cff29b71d38) |
-| Tue, 24 Jun 2025 02:25:54 GMT | AIG- Cybersecurity Job Simulation | Shazal Ahmad | [Read More](https://medium.com/p/fe98f5be9b64) |
-| Tue, 24 Jun 2025 02:21:51 GMT | Top-Rated Home Security Cameras You Can Set Up in Minutes | The Tech Bear | [Read More](https://medium.com/p/48a586a6f6fd) |
-| Tue, 24 Jun 2025 02:08:46 GMT | Meet the Open-Source WAF Trusted by Top Engineers to Block Real-World Attacks | Quella | [Read More](https://medium.com/p/3dd77b5eb30b) |
-| Tue, 24 Jun 2025 01:38:52 GMT | Why was Japan so Innovative in the 1900s? The Rise of Sony, Panasonic, Toshiba, …. | Syed Muhammad Ali | [Read More](https://medium.com/p/ba72936db742) |
-| Tue, 24 Jun 2025 01:28:00 GMT | How AI Can Help Us Manage the Overwhelm of Information Overload | Kendall Painley | [Read More](https://medium.com/p/b51015961baa) |
-| Tue, 24 Jun 2025 01:18:56 GMT | Tuesday Morning Threat Report: June 24, 2025 | Mark Maguire | [Read More](https://medium.com/p/12140cb22a0e) |
-| Tue, 24 Jun 2025 01:00:28 GMT | They Hijacked My Digital Life — And No One Believed Me Until Now | Daretoexpose | [Read More](https://medium.com/p/dcb8c522faf2) |
-| Tue, 24 Jun 2025 00:52:41 GMT | AI warfare and AI cyber crime can make you rich in a good way. | Creatix Medium | [Read More](https://medium.com/p/8b899598241e) |
-| Tue, 24 Jun 2025 00:43:39 GMT | New to Crypto? Don’t Just Buy Coins — Learn How to Keep Them Safe | Tina Ginn | [Read More](https://medium.com/p/403040afaa7b) |
-| Tue, 24 Jun 2025 00:22:49 GMT | The Evolution of Ransomware-as-a-Service (RaaS): What You Need to Know in 2025 | Ekene Joseph | [Read More](https://medium.com/p/f154deb9d84d) |
-| Tue, 24 Jun 2025 00:21:23 GMT | Build a Full OAuth2.0 Authorization Server with Spring Boot: A Practical Guide | Umesh Kumar Yadav | [Read More](https://medium.com/p/44906b259052) |
-| Tue, 24 Jun 2025 00:14:00 GMT | Day 13 — How to Deploy and Secure Public IBM Cloud Functions Using Code Engine | Jithendranath Gupta Yenduri | [Read More](https://medium.com/p/e22c4239ad1c) |
-| Tue, 24 Jun 2025 00:11:23 GMT | Day 31 of #60DaysofGRC: Why Threat Modeling is a GRC Superpower | Brittney Ginther | [Read More](https://medium.com/p/4eb0d7f485c9) |
-| Tue, 24 Jun 2025 00:03:14 GMT | Why We Created STAC: Cryptographic Sovereignty in the Quantum Era | ExeQuantum | [Read More](https://medium.com/p/0134bd138f9f) |
-| Tue, 24 Jun 2025 00:01:55 GMT | Nuclei para Bug Bounty: La Guía Definitiva para la Detección de Vulnerabilidades Automatizada | JPablo13 | [Read More](https://medium.com/p/0e0ad42283ec) |
-| Mon, 23 Jun 2025 23:58:07 GMT | Fortifying Your DRF + React Stack: A Software Engineer’s Guide to Modern Web Security | Philip Wawazi | [Read More](https://medium.com/p/399ad0a4ec0b) |
-| Mon, 23 Jun 2025 23:30:14 GMT | recklessness. | dita. | [Read More](https://medium.com/p/8a860e8e2112) |
-| Mon, 23 Jun 2025 23:15:34 GMT | Rethinking Hiring: Our Interview Process Is Broken | Yaroslav | [Read More](https://medium.com/p/522cf6364cc5) |
-| Mon, 23 Jun 2025 23:13:09 GMT | Crypto Recovery Option: Proffesional Crypto Recovery | Paulgibson | [Read More](https://medium.com/p/09b2c9c40cd4) |
-| Mon, 23 Jun 2025 23:06:41 GMT | Honest Engineering: Why Tech’s Biggest Promises Are Really Bounded Contracts | Darwin Gosal | [Read More](https://medium.com/p/1a8242997f1e) |
-| Mon, 23 Jun 2025 22:59:54 GMT | Top 5 ways to recover funds from crypto scam: Crypto Recovery Option | Paulgibson | [Read More](https://medium.com/p/63b68eb671bd) |
