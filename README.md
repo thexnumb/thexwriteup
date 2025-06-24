@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 19:34:15 GMT | New malware alert: SparkKitty is stealing crypto seed phrase screenshots from your phone  iOS &... | CoinGen | [Read More](https://medium.com/p/451b7bc298ae) |
+| Tue, 24 Jun 2025 19:32:04 GMT | Rainbow Tables Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/6bda13113a1c) |
+| Tue, 24 Jun 2025 19:31:57 GMT | 10 things people might tell you not to do, but that can actually be important and transformative… | Muhammad Ibrahim | [Read More](https://medium.com/p/0c958a9a14e3) |
+| Tue, 24 Jun 2025 19:26:55 GMT | If Fear Was a Person | sharonwrites | [Read More](https://medium.com/p/cf1d99c241e8) |
+| Tue, 24 Jun 2025 19:25:25 GMT | Malware Analysis on MockRan.exe | Uodueme | [Read More](https://medium.com/p/ceec2febf947) |
+| Tue, 24 Jun 2025 19:05:56 GMT | Unsafe Scanner Leads to Successful Buffer Overflow Attack: Narnia 0 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/286ed5d10589) |
 | Tue, 24 Jun 2025 19:01:56 GMT | How AI and Digital Platforms Serve Kyriarchal Agendas—And How to Build Decentralized Networks for… | A. L. | [Read More](https://medium.com/p/8e7937156110) |
 | Tue, 24 Jun 2025 18:57:00 GMT | The Sticker Shop — TryHackMe Writeups | HacksonAloysis | [Read More](https://medium.com/p/fc560167eb62) |
 | Tue, 24 Jun 2025 18:55:45 GMT | School Holidays Are Here! | Visual Monitoring Solutions | [Read More](https://medium.com/p/00a09baf06ed) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 14:32:49 GMT | Why I Can’t Say “I Miss You” — Even When I Do | The Veiled Versifier | [Read More](https://medium.com/p/cebbbe00c8af) |
 | Tue, 24 Jun 2025 14:32:03 GMT | What Is a Summer Internship and How to Know If It’s Right for You? | Vijay Kumar Gupta | [Read More](https://medium.com/p/bc711f234699) |
 | Tue, 24 Jun 2025 14:31:32 GMT | 开源的安全悖论 | Revan Zhang | [Read More](https://medium.com/p/39902bc0e0a9) |
-| Tue, 24 Jun 2025 14:27:05 GMT | Can a Python Script Be a Threat Intel Assistant? *I Tried to Build One* | Praful Kalal | [Read More](https://medium.com/p/cc7c6ef16661) |
-| Tue, 24 Jun 2025 14:24:35 GMT | API05:2023 — Broken Function Level Authorization | Suhel Kathi | [Read More](https://medium.com/p/d0435077e022) |
-| Tue, 24 Jun 2025 14:19:17 GMT | What Every Defender Should Know About Core Windows Processes Part-1 | Sourav kumawat | [Read More](https://medium.com/p/1569077d871d) |
-| Tue, 24 Jun 2025 14:18:52 GMT | PicoCTF: Clutter-Overflow | Kenyon Bias | [Read More](https://medium.com/p/883bcfead032) |
-| Tue, 24 Jun 2025 14:17:28 GMT | The 5 Costliest Cybersecurity Incidents of 2024–2025: Lessons, Losses, and Prevention Strategies | Ashvini kumar upadhyay | [Read More](https://medium.com/p/e27eb11477bf) |
-| Tue, 24 Jun 2025 14:07:51 GMT | Why Identity-First Security is the Key to Scalable AI Adoption in 2025 | SecureFLO | [Read More](https://medium.com/p/0f58df720129) |
