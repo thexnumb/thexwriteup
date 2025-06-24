@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 06:26:58 GMT | The Windows Security Journey — HVCI (Hypervisor Protected Code Integrity) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c13f98cac96f) |
+| Tue, 24 Jun 2025 06:23:59 GMT | How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing | Kongsec | [Read More](https://medium.com/p/a03a354df2cf) |
+| Tue, 24 Jun 2025 06:18:30 GMT | Remote File Inclusion (RFI) — Full Breakdown for Beginners | Shah kaif | [Read More](https://medium.com/p/7f89c55e3b2a) |
+| Tue, 24 Jun 2025 06:16:25 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Fuad | [Read More](https://medium.com/p/862b00bc426e) |
+| Tue, 24 Jun 2025 06:07:09 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/57a89bf1c83a) |
+| Tue, 24 Jun 2025 05:59:35 GMT | I started this journey in cybersecurity with nothing but a curious mind, a secondhand laptop, and… | Sanni idris | [Read More](https://medium.com/p/915abac38ffa) |
+| Tue, 24 Jun 2025 05:59:05 GMT | Why is SOC 2 Important? | Securis360 Inc. | [Read More](https://medium.com/p/3c74cd85d3b7) |
+| Tue, 24 Jun 2025 05:59:01 GMT | Gave Up Sugar for 30 Days — Here’s What No One Tells You” | S Anuradha | [Read More](https://medium.com/p/832b674c752e) |
+| Tue, 24 Jun 2025 05:56:00 GMT | I Built Zero Trust While They Were Playing Security Theater | Jason Smith | [Read More](https://medium.com/p/f14a3a519fc6) |
+| Tue, 24 Jun 2025 05:49:54 GMT | The Largest Credential Leak in History: 16 Billion Passwords Exposed — What You Need to Know in… | Stealseek | [Read More](https://medium.com/p/f8963f0b7fd3) |
 | Tue, 24 Jun 2025 05:43:33 GMT | You’re Missing Bugs If You’re Not Reconning Like This | Đeepanshu | [Read More](https://medium.com/p/c037e0fbbb8a) |
+| Tue, 24 Jun 2025 05:41:49 GMT | ️ Stop API Key Leaks Before They Cost You — Meet KeySentry | Aditya Bhatt | [Read More](https://medium.com/p/5521f6c75ab0) |
 | Tue, 24 Jun 2025 05:40:46 GMT | Microsoft Defender as End Point Tool | oheneba kwaku annor | [Read More](https://medium.com/p/2eb709629793) |
 | Tue, 24 Jun 2025 05:31:30 GMT | ️ How I Secured My .NET 8 App — Fixing the Most Common SCA, SAST & DAST Issues | Sunita Rawat | [Read More](https://medium.com/p/bd249f85c96b) |
 | Tue, 24 Jun 2025 05:30:10 GMT | From Jemaah Islamiyah to ISIS: Tracing the Shifting Sands of Extremism in Southeast Asia | Dan Marshall-Singh | [Read More](https://medium.com/p/4ef3bbfae3a3) |
@@ -102,14 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 18:31:58 GMT | Why ACME Device Attestation is Reshaping Enterprise Security — Backed by Hard Numbers | Akilnath Bodipudi | [Read More](https://medium.com/p/c140bc89caca) |
 | Mon, 23 Jun 2025 18:27:06 GMT | Security In and Around MCP: Part 2 — MCP in Deployment | Maia Iyer | [Read More](https://medium.com/p/65bdd0ba9dc6) |
 | Mon, 23 Jun 2025 18:26:56 GMT | How North Korea’s BlueNoroff Hijacks Zoom Calls Using AI-Driven Deepfakes | Avnishyam | [Read More](https://medium.com/p/2810620987b3) |
-| Mon, 23 Jun 2025 18:26:36 GMT | Top 10 Free Ethical Hacking Courses You Can Start Today (2025) | Very Lazy Tech | [Read More](https://medium.com/p/2b557fb062ea) |
-| Mon, 23 Jun 2025 18:19:46 GMT | CVE-2025-49113-Scanner – Security Advisory | Issam Junior | [Read More](https://medium.com/p/417921332d13) |
-| Mon, 23 Jun 2025 18:14:56 GMT | The BTMOB RAT Was Just Leaked — And XCRATS Is Behind It | InfosecObserver | [Read More](https://medium.com/p/c8359811bc53) |
-| Mon, 23 Jun 2025 18:12:47 GMT | Zero-Knowledge Proofs: The Privacy Revolution That’s Reshaping Blockchain Architecture | Martin Pál | [Read More](https://medium.com/p/2a1a41b84070) |
-| Mon, 23 Jun 2025 18:11:38 GMT | Threat Intelligence Digest — Week Ending:June 22nd, 2025 | IndigoINT | [Read More](https://medium.com/p/1c167cf4c3c7) |
-| Mon, 23 Jun 2025 18:10:49 GMT | Why Softness Isn’t a Weakness, Even When the World Says Otherwise | Dilara | [Read More](https://medium.com/p/d638b645e6ea) |
-| Mon, 23 Jun 2025 18:07:43 GMT | I will write a cybersecurity resume, data analyst, data science, IT tech, grc, sap, CV | Kendracomfort4@gmail.com | [Read More](https://medium.com/p/4fb85d4eac91) |
-| Mon, 23 Jun 2025 17:56:51 GMT | From Wild West to Watchtowers: The Evolution of Blockchain Security | mrblockchain22 | [Read More](https://medium.com/p/79ed93a269e7) |
-| Mon, 23 Jun 2025 17:55:31 GMT | Agentic AI in Production? | Roberto Nava | [Read More](https://medium.com/p/b0a9e484229c) |
-| Mon, 23 Jun 2025 17:46:03 GMT | The CIA Triad: Explained! | Rihaz Ramzaan | [Read More](https://medium.com/p/a2993cf68daf) |
-| Mon, 23 Jun 2025 17:45:49 GMT | Hacking Nothing! Unauthorised access to Nothing’s AWS S3 Buckets | Mohammad Kaif | [Read More](https://medium.com/p/15676b698720) |
