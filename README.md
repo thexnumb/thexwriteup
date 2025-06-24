@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 20:11:10 GMT | ️ Inside a Red Team Physical Assessment: From Reception to Domain Access | Saumitra Kulkarni (N0F4C3) | [Read More](https://medium.com/p/d17dfaefcc19) |
+| Tue, 24 Jun 2025 20:00:12 GMT | Role of AI in Threat Detection: Benefits, Use Cases, Best Practices | IT_Engineer | [Read More](https://medium.com/p/21cea14acd22) |
+| Tue, 24 Jun 2025 19:55:28 GMT | Bitwarden — Your Password Manager Buddy | Ayesha | [Read More](https://medium.com/p/f5206c3b3291) |
+| Tue, 24 Jun 2025 19:48:54 GMT | Enabling Fixed DNS over TLS (DoT) on Ubuntu | Salim Amine Bou Aram | [Read More](https://medium.com/p/677479113174) |
+| Tue, 24 Jun 2025 19:42:53 GMT | Autonomous Digital Experience Management by Palo Alto Networks | Juara IT Solutions | [Read More](https://medium.com/p/7a68470902ca) |
+| Tue, 24 Jun 2025 19:37:56 GMT | Bilgisayar Ağlarında IP Atama, Web İletişimi ve Güvenlik Yapıları | Feyzanur Yüksel | [Read More](https://medium.com/p/79ee36602ee1) |
 | Tue, 24 Jun 2025 19:34:15 GMT | New malware alert: SparkKitty is stealing crypto seed phrase screenshots from your phone  iOS &... | CoinGen | [Read More](https://medium.com/p/451b7bc298ae) |
 | Tue, 24 Jun 2025 19:32:04 GMT | Rainbow Tables Explained (Like I’m 5) | TechTales | [Read More](https://medium.com/p/6bda13113a1c) |
 | Tue, 24 Jun 2025 19:31:57 GMT | 10 things people might tell you not to do, but that can actually be important and transformative… | Muhammad Ibrahim | [Read More](https://medium.com/p/0c958a9a14e3) |
+| Tue, 24 Jun 2025 19:28:46 GMT | Why TypeScript Structural Typing Works | Alexander Obregon | [Read More](https://medium.com/p/026de9710737) |
 | Tue, 24 Jun 2025 19:26:55 GMT | If Fear Was a Person | sharonwrites | [Read More](https://medium.com/p/cf1d99c241e8) |
 | Tue, 24 Jun 2025 19:25:25 GMT | Malware Analysis on MockRan.exe | Uodueme | [Read More](https://medium.com/p/ceec2febf947) |
 | Tue, 24 Jun 2025 19:05:56 GMT | Unsafe Scanner Leads to Successful Buffer Overflow Attack: Narnia 0 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/286ed5d10589) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 15:02:38 GMT | Swimming : Should I learn or not | Anujap | [Read More](https://medium.com/p/06ae61414cc3) |
 | Tue, 24 Jun 2025 15:02:35 GMT | Soft Armor. | Jennifer N.C. Purdy | [Read More](https://medium.com/p/07262c9e226c) |
 | Tue, 24 Jun 2025 14:55:17 GMT | The Open Source Security Paradox | Revan Zhang | [Read More](https://medium.com/p/125058fd58ea) |
-| Tue, 24 Jun 2025 14:49:53 GMT | ## TryHackMe — New York Flankees Walkthrough | Sumit M | [Read More](https://medium.com/p/c36196c59712) |
-| Tue, 24 Jun 2025 14:44:49 GMT | “Bank of targets” | Martin Abramov | [Read More](https://medium.com/p/3f4a47e98c80) |
-| Tue, 24 Jun 2025 14:43:00 GMT | Cloud Security: Securing Cloud Infrastructure | Tobias Mathew | [Read More](https://medium.com/p/21c1559d1b4a) |
-| Tue, 24 Jun 2025 14:33:17 GMT | Cyberstition: How Superstition and Cultural Beliefs Fuel Digital Scams | O. J. Okpabi | [Read More](https://medium.com/p/7d1a41b06900) |
-| Tue, 24 Jun 2025 14:32:49 GMT | Why I Can’t Say “I Miss You” — Even When I Do | The Veiled Versifier | [Read More](https://medium.com/p/cebbbe00c8af) |
-| Tue, 24 Jun 2025 14:32:03 GMT | What Is a Summer Internship and How to Know If It’s Right for You? | Vijay Kumar Gupta | [Read More](https://medium.com/p/bc711f234699) |
-| Tue, 24 Jun 2025 14:31:32 GMT | 开源的安全悖论 | Revan Zhang | [Read More](https://medium.com/p/39902bc0e0a9) |
