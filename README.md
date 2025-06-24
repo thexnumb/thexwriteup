@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 01:28:00 GMT | How AI Can Help Us Manage the Overwhelm of Information Overload | Kendall Painley | [Read More](https://medium.com/p/b51015961baa) |
+| Tue, 24 Jun 2025 01:18:56 GMT | Tuesday Morning Threat Report: June 24, 2025 | Mark Maguire | [Read More](https://medium.com/p/12140cb22a0e) |
+| Tue, 24 Jun 2025 01:00:28 GMT | They Hijacked My Digital Life — And No One Believed Me Until Now | Daretoexpose | [Read More](https://medium.com/p/dcb8c522faf2) |
+| Tue, 24 Jun 2025 00:52:41 GMT | AI warfare and AI cyber crime can make you rich in a good way. | Creatix Medium | [Read More](https://medium.com/p/8b899598241e) |
+| Tue, 24 Jun 2025 00:43:39 GMT | New to Crypto? Don’t Just Buy Coins — Learn How to Keep Them Safe | Tina Ginn | [Read More](https://medium.com/p/403040afaa7b) |
+| Tue, 24 Jun 2025 00:22:49 GMT | The Evolution of Ransomware-as-a-Service (RaaS): What You Need to Know in 2025 | Ekene Joseph | [Read More](https://medium.com/p/f154deb9d84d) |
+| Tue, 24 Jun 2025 00:21:23 GMT | Build a Full OAuth2.0 Authorization Server with Spring Boot: A Practical Guide | Umesh Kumar Yadav | [Read More](https://medium.com/p/44906b259052) |
+| Tue, 24 Jun 2025 00:14:00 GMT | Day 13 — How to Deploy and Secure Public IBM Cloud Functions Using Code Engine | Jithendranath Gupta Yenduri | [Read More](https://medium.com/p/e22c4239ad1c) |
+| Tue, 24 Jun 2025 00:11:23 GMT | Day 31 of #60DaysofGRC: Why Threat Modeling is a GRC Superpower | Brittney Ginther | [Read More](https://medium.com/p/4eb0d7f485c9) |
+| Tue, 24 Jun 2025 00:03:14 GMT | Why We Created STAC: Cryptographic Sovereignty in the Quantum Era | ExeQuantum | [Read More](https://medium.com/p/0134bd138f9f) |
+| Mon, 23 Jun 2025 23:58:07 GMT | Fortifying Your DRF + React Stack: A Software Engineer’s Guide to Modern Web Security | Philip Wawazi | [Read More](https://medium.com/p/399ad0a4ec0b) |
 | Mon, 23 Jun 2025 23:30:14 GMT | recklessness. | dita. | [Read More](https://medium.com/p/8a860e8e2112) |
 | Mon, 23 Jun 2025 23:15:34 GMT | Rethinking Hiring: Our Interview Process Is Broken | Yaroslav | [Read More](https://medium.com/p/522cf6364cc5) |
 | Mon, 23 Jun 2025 23:13:09 GMT | Crypto Recovery Option: Proffesional Crypto Recovery | Paulgibson | [Read More](https://medium.com/p/09b2c9c40cd4) |
@@ -102,14 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 15:55:39 GMT | Penetration Testing: Vulnerability (Basic) | Anthony Sigid | [Read More](https://medium.com/p/e48477daf606) |
 | Mon, 23 Jun 2025 15:54:46 GMT | OS Command Injection — When User Input Hijacks the Terminal | SACHIN PV | [Read More](https://medium.com/p/340a8a5315a8) |
 | Mon, 23 Jun 2025 15:54:41 GMT | 1inch launches bug bounty programs | 1inch | [Read More](https://medium.com/p/5e2b08b5cf8c) |
-| Mon, 23 Jun 2025 15:53:13 GMT | US Cyber Open(Season 5) Write-up | Nashtavirs | [Read More](https://medium.com/p/7c30dc87a8b5) |
-| Mon, 23 Jun 2025 15:48:41 GMT | Uncovering Hidden Keys in AWS Beanstalk — A CloudGoat Attack Walkthrough | Mukund | [Read More](https://medium.com/p/ecdbaf3e21d4) |
-| Mon, 23 Jun 2025 15:45:01 GMT | The Power of Cybersecurity Search Engines in Bug Bounty Hunting: A Hacker’s Guide | Uday | [Read More](https://medium.com/p/e328702f2c41) |
-| Mon, 23 Jun 2025 15:44:56 GMT | SOC Risk Management: Why It’s Critical for Cybersecurity Success | SafeAeon Inc. | [Read More](https://medium.com/p/ffd0b40a6e9e) |
-| Mon, 23 Jun 2025 15:39:00 GMT | Abstraction in Java with real world examples | Hari Prasad | [Read More](https://medium.com/p/c2fca1870429) |
-| Mon, 23 Jun 2025 15:37:23 GMT | What I learned from my first heartbreak | Alex Viner | [Read More](https://medium.com/p/de65647ecc94) |
-| Mon, 23 Jun 2025 15:34:46 GMT | Block Web Filter: Control Internet Access and Improve Online Safety | SafeAeon Inc. | [Read More](https://medium.com/p/ad5ae34466a2) |
-| Mon, 23 Jun 2025 15:32:52 GMT | Inside the MSHTML Exploit: A SOC Analyst’s Walkthrough of CVE-2021–40444 | Sh3nobi | [Read More](https://medium.com/p/5a1b388985b0) |
-| Mon, 23 Jun 2025 15:31:52 GMT | Deep Dive into QRadar’s Parsing Mechanism and Data Flow | Yuksel | [Read More](https://medium.com/p/7aed22340dc4) |
-| Mon, 23 Jun 2025 15:31:22 GMT | PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec | Soman Verma | [Read More](https://medium.com/p/50e07ef54168) |
-| Mon, 23 Jun 2025 15:27:37 GMT | Discover the Benefits of Motorized Curtains by SwitchBot! | Bedonkatonya | [Read More](https://medium.com/p/f9e2777c16aa) |
