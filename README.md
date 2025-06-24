@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 05:16:10 GMT | Are Your Amazon EKS Workloads Secure? | Finstein.ai | [Read More](https://medium.com/p/11e5ffb5d768) |
+| Tue, 24 Jun 2025 05:11:06 GMT | Hello, Medium | Jake Murray | [Read More](https://medium.com/p/90fc5f10854d) |
+| Tue, 24 Jun 2025 05:08:25 GMT | SQL injection Nədir? | NatiqSalifov | [Read More](https://medium.com/p/68735120d739) |
+| Tue, 24 Jun 2025 05:05:15 GMT | How I Found an Unauthenticated API in a Popular Open-Source Project Used by Redacted.com | Sumit Chauhan | [Read More](https://medium.com/p/b318ebdaf1c0) |
+| Tue, 24 Jun 2025 04:56:13 GMT | How Multi-Layer Vault Security Really Works — And Why It Matters in Today’s World | Vintage Vaults | [Read More](https://medium.com/p/17994c6a4c6f) |
+| Tue, 24 Jun 2025 04:56:10 GMT | End of Online Anonymity? How Digital Identity Is Changing the Internet | The Tech Journal | [Read More](https://medium.com/p/0ccebec23d75) |
 | Tue, 24 Jun 2025 04:47:43 GMT | Damn Vulnerable Web Application (DVWA); in-depth guide to installing on linux. | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/2c54b5660610) |
+| Tue, 24 Jun 2025 04:47:08 GMT | Revolutionizing Public Transit Access: Turnstile Speed Gates in KSA’s Transportation Hubs | Tekhabeeb | [Read More](https://medium.com/p/30c2e743209e) |
+| Tue, 24 Jun 2025 04:46:54 GMT | Secure and Smart: OAuth2-Powered Google ADK Agents with Integration Connectors for Enterprises. | Olejniczak Lukasz | [Read More](https://medium.com/p/8916028b97ca) |
 | Tue, 24 Jun 2025 04:37:14 GMT | Hype or Revolution? Learn How Blockchain Impacts Cybersecurity in Top Courses in India | offensoacademy | [Read More](https://medium.com/p/227b0a2bc0a0) |
 | Tue, 24 Jun 2025 04:35:46 GMT | Why ZADOVO Chooses EVM PoA: A New Era for Blockchain Development | ZADOVO BLOCKCHAIN | [Read More](https://medium.com/p/cffdce634622) |
 | Tue, 24 Jun 2025 04:24:06 GMT | Hack Before Attack: Cyber Is the Ultimate Weapon Now in Global Wars | Jai Advani | [Read More](https://medium.com/p/0f242dd10c15) |
@@ -105,11 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 17:25:52 GMT | chatMDM: AI-Powered Device Management by Codeproof Technologies | Codeproof Technologies | [Read More](https://medium.com/p/3359579d2240) |
 | Mon, 23 Jun 2025 17:18:32 GMT | Understanding the Difference Between Android and iOS Security | Codeproof Technologies | [Read More](https://medium.com/p/2294f7a23ec7) |
 | Mon, 23 Jun 2025 17:15:05 GMT | Echoes in the Code: How Subtle AI Jailbreaks Are Redefining Cyber Risk | Siva Gunasekaran | [Read More](https://medium.com/p/3ba7e079a70e) |
-| Mon, 23 Jun 2025 17:10:18 GMT | 舊 Mac 筆電改造！家用伺服器／工作站架設全攻略 Part 1：安全部署、SSH 遠端連線與螢幕共享實作 | B | [Read More](https://medium.com/p/30743ddcf522) |
-| Mon, 23 Jun 2025 17:05:37 GMT | What They Said Over the Phone Still Echoes in My Head | Cwangechi N | [Read More](https://medium.com/p/4bcef4675813) |
-| Mon, 23 Jun 2025 17:02:42 GMT | Pegasus Spyware — Everything You Need to Know | Xaltius | [Read More](https://medium.com/p/03002cfe151f) |
-| Mon, 23 Jun 2025 17:02:13 GMT | Practical Coding in Cyber Security - HackTheBox Coding Challenges | Motasem Hamdan | [Read More](https://medium.com/p/e9f11c9e47cd) |
-| Mon, 23 Jun 2025 17:01:54 GMT | Analysis - Strategic Convergence: Why NATO Should Deepen Maritime Partnerships with Australia and… | Institute for the Study of Diplomacy | [Read More](https://medium.com/p/a5e5aa002edb) |
-| Mon, 23 Jun 2025 16:57:34 GMT | Key Services Offered by Cybersecurity Solution Providers Today | James Das | [Read More](https://medium.com/p/82baaabcbdfc) |
-| Mon, 23 Jun 2025 16:57:15 GMT | My Virtual HomeLab: Active Directory — Part Four | Cybersec with Hemmars | [Read More](https://medium.com/p/65c66af79114) |
-| Mon, 23 Jun 2025 16:57:06 GMT | From SQLi Discovery to a $4,500 Reward | Monika sharma | [Read More](https://medium.com/p/ecb709e18842) |
