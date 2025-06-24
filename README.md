@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 11:31:47 GMT | ProGuard vs R8 in Android: A Complete Developer’s Guide | Pinankh Patel | [Read More](https://medium.com/p/db73862b4d0a) |
+| Tue, 24 Jun 2025 11:23:53 GMT | Trump’s Military Action Puts Christians in Perilous Situation | mahwish qayyum | [Read More](https://medium.com/p/530125808558) |
+| Tue, 24 Jun 2025 11:22:58 GMT | The $6.08 Million Question: Why Your FinTech App is a Goldmine for Hackers (And How to Stop Them) | Mayank Saxena | [Read More](https://medium.com/p/82dd44ff6935) |
+| Tue, 24 Jun 2025 11:17:29 GMT | eJPT - 3.4 Exploitation | Hammaad M | [Read More](https://medium.com/p/385d9b72621e) |
+| Tue, 24 Jun 2025 11:12:32 GMT | Strengthening Your Digital Defenses: The Power of Multi-Factor Authentication | Gauravinsightss | [Read More](https://medium.com/p/f7039d2d48a0) |
 | Tue, 24 Jun 2025 11:09:15 GMT | CybersecurityHow Do Online Cybersecurity Courses Help You Deal With Digital Threats In Real Life? | Richard Charles | [Read More](https://medium.com/p/317d39617629) |
 | Tue, 24 Jun 2025 11:06:20 GMT | What Happens When a Healthcare Provider Falls Victim to Ransomware? | Finstein.ai | [Read More](https://medium.com/p/4fae95b14ffd) |
 | Tue, 24 Jun 2025 11:01:36 GMT | Executive Footprints: Why Your Old Profiles Still Matter (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/8bcc2b9f7b2a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 06:35:47 GMT | DNS in Detail — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/eb0375da4bc4) |
 | Tue, 24 Jun 2025 06:33:36 GMT | Automating AWS WAF Rule Updates from GitLab Threat List | Vinayak Pandey | [Read More](https://medium.com/p/e92bd0b4f1e3) |
 | Tue, 24 Jun 2025 06:31:52 GMT | DOM XSS in document.write sink using source location.search — PortSwigger⚡ | Sumanth Yerranagula | [Read More](https://medium.com/p/b36e2c7425a1) |
-| Tue, 24 Jun 2025 06:26:58 GMT | The Windows Security Journey — HVCI (Hypervisor Protected Code Integrity) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c13f98cac96f) |
-| Tue, 24 Jun 2025 06:24:20 GMT | How to Troubleshoot SafeLine License Activation Issues | Quella | [Read More](https://medium.com/p/326fe3bf8c0a) |
-| Tue, 24 Jun 2025 06:23:59 GMT | How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing | Kongsec | [Read More](https://medium.com/p/a03a354df2cf) |
-| Tue, 24 Jun 2025 06:18:30 GMT | Remote File Inclusion (RFI) — Full Breakdown for Beginners | Shah kaif | [Read More](https://medium.com/p/7f89c55e3b2a) |
-| Tue, 24 Jun 2025 06:16:25 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Fuad | [Read More](https://medium.com/p/862b00bc426e) |
