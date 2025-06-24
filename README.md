@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 02:54:34 GMT | Building Custom Cyber Weapons: From Zero-Day Discovery to Payload Delivery | A-STAR7_DOCTOR | [Read More](https://medium.com/p/822d5fdbdda0) |
+| Tue, 24 Jun 2025 02:45:43 GMT | Practical Guide to Using vexctl with Trivy for CVE Scan Reports | Bill WANG | [Read More](https://medium.com/p/041f5686ecc5) |
+| Tue, 24 Jun 2025 02:42:05 GMT | What Are HTTP Headers — And How Do They Keep Your Site Secure? | Quella | [Read More](https://medium.com/p/71865410d611) |
+| Tue, 24 Jun 2025 02:41:26 GMT | Top Security Tips for AI-Driven Applications in 2025: Stay Protected | Afrith Techie | [Read More](https://medium.com/p/732b1229e76e) |
+| Tue, 24 Jun 2025 02:28:25 GMT | I Fell Down a YouTube Rabbit Hole at 2 AM and Discovered People Get Paid to Be Hackers. Legally. | iTheOnlyMe | [Read More](https://medium.com/p/ccb3246601ec) |
+| Tue, 24 Jun 2025 02:28:13 GMT | Week 2: Understanding Data Loss Prevention (DLP) | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/0cff29b71d38) |
+| Tue, 24 Jun 2025 02:25:54 GMT | AIG- Cybersecurity Job Simulation | Shazal Ahmad | [Read More](https://medium.com/p/fe98f5be9b64) |
+| Tue, 24 Jun 2025 02:21:51 GMT | Top-Rated Home Security Cameras You Can Set Up in Minutes | The Tech Bear | [Read More](https://medium.com/p/48a586a6f6fd) |
+| Tue, 24 Jun 2025 02:08:46 GMT | Meet the Open-Source WAF Trusted by Top Engineers to Block Real-World Attacks | Quella | [Read More](https://medium.com/p/3dd77b5eb30b) |
+| Tue, 24 Jun 2025 01:38:52 GMT | Why was Japan so Innovative in the 1900s? The Rise of Sony, Panasonic, Toshiba, …. | Syed Muhammad Ali | [Read More](https://medium.com/p/ba72936db742) |
 | Tue, 24 Jun 2025 01:28:00 GMT | How AI Can Help Us Manage the Overwhelm of Information Overload | Kendall Painley | [Read More](https://medium.com/p/b51015961baa) |
 | Tue, 24 Jun 2025 01:18:56 GMT | Tuesday Morning Threat Report: June 24, 2025 | Mark Maguire | [Read More](https://medium.com/p/12140cb22a0e) |
 | Tue, 24 Jun 2025 01:00:28 GMT | They Hijacked My Digital Life — And No One Believed Me Until Now | Daretoexpose | [Read More](https://medium.com/p/dcb8c522faf2) |
@@ -103,13 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 16:25:55 GMT | 16 billion Passwords Leaked: Why Traditional Logins Are Failing and How Rainbow Secure Keeps You… | Dr. Shashi Karhail | [Read More](https://medium.com/p/98d228587b45) |
 | Mon, 23 Jun 2025 16:25:32 GMT | Case Study 3: APT29 and the SolarWinds Supply Chain Breach | Agarwaldaksh | [Read More](https://medium.com/p/68bca3000b3a) |
 | Mon, 23 Jun 2025 16:20:18 GMT | SQL Injection in 2025: Why This Zombie Threat Keeps Rising from the Grave | NickyCammarata | [Read More](https://medium.com/p/29bc6066efd2) |
-| Mon, 23 Jun 2025 16:19:08 GMT | Check How I Recover My Money From Topfx | Joel Quentin | [Read More](https://medium.com/p/3107072a6785) |
-| Mon, 23 Jun 2025 16:16:29 GMT | What is Qualia and Why Does It Matter for AI? | AETOS Systems | [Read More](https://medium.com/p/3185dbbf8d37) |
-| Mon, 23 Jun 2025 16:14:23 GMT | Solving Mysteries: When an Email Seems Too Formal to Be Fake for Financial Investors | Dr Mehmet Yildiz | [Read More](https://medium.com/p/65b7caa5e331) |
-| Mon, 23 Jun 2025 16:14:17 GMT | Here’s How I Recover My Money From Topfx | Joel Quentin | [Read More](https://medium.com/p/dff11746f1f4) |
-| Mon, 23 Jun 2025 16:12:58 GMT | From Lab to Live Fire: Taking TCM Security’s PWPA Certification | Athiwat Tiprasaharn | [Read More](https://medium.com/p/0f5ce7f82964) |
-| Mon, 23 Jun 2025 16:00:29 GMT | AI Coding Assistants: Convenience, Control, and the Hidden Costs | Dave Patten | [Read More](https://medium.com/p/6e1c80256520) |
-| Mon, 23 Jun 2025 15:59:42 GMT | ️Day 40: Fort Knox Meets Silicon Valley! | Kshitij Bajracharya | [Read More](https://medium.com/p/219287451595) |
-| Mon, 23 Jun 2025 15:55:39 GMT | Penetration Testing: Vulnerability (Basic) | Anthony Sigid | [Read More](https://medium.com/p/e48477daf606) |
-| Mon, 23 Jun 2025 15:54:46 GMT | OS Command Injection — When User Input Hijacks the Terminal | SACHIN PV | [Read More](https://medium.com/p/340a8a5315a8) |
-| Mon, 23 Jun 2025 15:54:41 GMT | 1inch launches bug bounty programs | 1inch | [Read More](https://medium.com/p/5e2b08b5cf8c) |
