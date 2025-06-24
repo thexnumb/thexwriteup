@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 23:27:25 GMT | I am working on my own Chrome Pentesting Extension. | Imran Niaz | [Read More](https://medium.com/p/0adbf48d2046) |
 | Tue, 24 Jun 2025 22:59:25 GMT | The Wi-Fi Kidnap: How Public Networks Are Being Used to Profile and Follow Children | O. J. Okpabi | [Read More](https://medium.com/p/8e26a1707c51) |
 | Tue, 24 Jun 2025 22:49:58 GMT | Phishing-as-a-Service: Cybercrime’s Subscription Revolution | Amrik Singh Hanjra | [Read More](https://medium.com/p/ea98bbef6df7) |
 | Tue, 24 Jun 2025 22:47:51 GMT | The Servant Who Dared to Forget Her Rabbi | The Quiet Ink | [Read More](https://medium.com/p/7a0b377bb2ee) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 16:33:26 GMT | 16 billion passwords leaked: how not to become the next victim | DexNet Technologies | [Read More](https://medium.com/p/3d8ed0fd9949) |
 | Tue, 24 Jun 2025 16:32:49 GMT | Five Titans of API Gateways: A Deep Dive into OpenResty, Kong, Zuul, Zuul 2, and Spring Cloud… | Umesh Kumar Yadav | [Read More](https://medium.com/p/dde987900040) |
 | Tue, 24 Jun 2025 16:31:40 GMT | Phishing, Malware & Ransomware: Know Your Digital Enemies | Joy Saha | [Read More](https://medium.com/p/99d5454d7ef5) |
-| Tue, 24 Jun 2025 16:29:03 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/5dd6ffed0af1) |
