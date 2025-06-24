@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 22:59:25 GMT | The Wi-Fi Kidnap: How Public Networks Are Being Used to Profile and Follow Children | O. J. Okpabi | [Read More](https://medium.com/p/8e26a1707c51) |
+| Tue, 24 Jun 2025 22:49:58 GMT | Phishing-as-a-Service: Cybercrime’s Subscription Revolution | Amrik Singh Hanjra | [Read More](https://medium.com/p/ea98bbef6df7) |
+| Tue, 24 Jun 2025 22:47:51 GMT | The Servant Who Dared to Forget Her Rabbi | The Quiet Ink | [Read More](https://medium.com/p/7a0b377bb2ee) |
+| Tue, 24 Jun 2025 22:44:04 GMT | I Develop my own tools for Pentestign Find subdomain FreeApi EndPoints | Imran Niaz | [Read More](https://medium.com/p/ecdd06865552) |
 | Tue, 24 Jun 2025 22:34:09 GMT | The Unspoken Threat Of Digital Guilt Engineering | O. J. Okpabi | [Read More](https://medium.com/p/d427a979e44e) |
 | Tue, 24 Jun 2025 22:32:19 GMT | Why ‘TRUST-NO-ONE’ Is Your Strongest Defense | Yash Patel | [Read More](https://medium.com/p/82a32e7da73e) |
+| Tue, 24 Jun 2025 22:31:23 GMT | The Child Who Once Was, And Who Could Have Been | The Quiet Ink | [Read More](https://medium.com/p/53df65194c8c) |
 | Tue, 24 Jun 2025 22:31:13 GMT | Information Assurance: Building Cybersecurity That Lasts | Robertpurpose | [Read More](https://medium.com/p/38135ccc3494) |
 | Tue, 24 Jun 2025 22:27:07 GMT | Firebase Auth and Firestore: Brief Overview | Vaibhav Tatkare | [Read More](https://medium.com/p/d7a08a2bebd3) |
 | Tue, 24 Jun 2025 22:17:13 GMT | The Broken Promises of WiFi Security | David Montgomery | [Read More](https://medium.com/p/ab691a2f298f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 16:32:49 GMT | Five Titans of API Gateways: A Deep Dive into OpenResty, Kong, Zuul, Zuul 2, and Spring Cloud… | Umesh Kumar Yadav | [Read More](https://medium.com/p/dde987900040) |
 | Tue, 24 Jun 2025 16:31:40 GMT | Phishing, Malware & Ransomware: Know Your Digital Enemies | Joy Saha | [Read More](https://medium.com/p/99d5454d7ef5) |
 | Tue, 24 Jun 2025 16:29:03 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/5dd6ffed0af1) |
-| Tue, 24 Jun 2025 16:27:53 GMT | No Auth, No Problem? How 184,000 Exposed Ray Dashboards Are Putting AI Infrastructure at Risk | hacker_might | [Read More](https://medium.com/p/fe737116afa8) |
-| Tue, 24 Jun 2025 16:27:13 GMT | cyberdudebivash .We | Iambivash Bn | [Read More](https://medium.com/p/1addf646b815) |
-| Tue, 24 Jun 2025 16:24:14 GMT | PSU Cybersecurity and Data Privacy Days ครั้งที่ 2: Cybersecurity and AI | Thanutham Tuktian | [Read More](https://medium.com/p/cc5158ccbe9c) |
-| Tue, 24 Jun 2025 16:18:27 GMT | Secrets don’t stay small as your stack grows | Amber Britton | [Read More](https://medium.com/p/a5e04b6c5241) |
-| Tue, 24 Jun 2025 16:16:27 GMT | Mobil Uygulamalarda API Güvenliği | selvisongulgozlugol | [Read More](https://medium.com/p/f052fac6ea60) |
