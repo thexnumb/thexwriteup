@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 17:33:56 GMT | Is it possible to recover my money from Ftxstar ? | Harinic | [Read More](https://medium.com/p/d409641fc6d0) |
+| Tue, 24 Jun 2025 17:30:49 GMT | The AI Agent Security Challenge: A New Frontier in Cybersecurity | noailabs | [Read More](https://medium.com/p/a0735b72dff5) |
+| Tue, 24 Jun 2025 17:29:50 GMT | Ftxstar Reviews: how can I get my money back ? | Harinic | [Read More](https://medium.com/p/b22a9748b0d0) |
+| Tue, 24 Jun 2025 17:27:49 GMT | Failure is a Teacher: The Vulnerable Leader’s Approach to Setbacks | Build & Lead (by Tom Dausy) | [Read More](https://medium.com/p/df5a98a33c79) |
+| Tue, 24 Jun 2025 17:25:34 GMT | America’s IT Zone — The Digital Engine of the World | Mim Infas | [Read More](https://medium.com/p/dd34841c4c7c) |
+| Tue, 24 Jun 2025 17:24:56 GMT | 16 Billion Passwords Compromised: Insights into the Google Data Breach and How to Safeguard Your… | Aadhaarkoul | [Read More](https://medium.com/p/54f7be32a3b3) |
+| Tue, 24 Jun 2025 17:24:28 GMT | Service-THM (PT1-Recommended Room) | MRX.0 | [Read More](https://medium.com/p/4df26a66d8d0) |
+| Tue, 24 Jun 2025 17:23:09 GMT | How to Ingest Salesforce Logs into Chronicle SIEM: The Complete Integration Guide | Guduruvenkatsumanth | [Read More](https://medium.com/p/3ac799c85b02) |
+| Tue, 24 Jun 2025 17:21:24 GMT | Warhead: A Deep Dive into Payload Execution through Atom Tables | Vishal Thakur | [Read More](https://medium.com/p/5a0186419225) |
 | Tue, 24 Jun 2025 17:18:48 GMT | Why Quantum Computing isn’t a Sci-Fi Dream, But Your Next Diversifier | Murad NURI | [Read More](https://medium.com/p/faeb5ce2d159) |
 | Tue, 24 Jun 2025 17:16:59 GMT | Lobitcoin review: and how can i get my money back ? | Latijen | [Read More](https://medium.com/p/9779870e52b7) |
 | Tue, 24 Jun 2025 17:14:14 GMT | Incident Lifecycle vs Incident Response Lifecycle: What Most Teams Still Get Wrong! | Aniket Sharma | [Read More](https://medium.com/p/c1ae855d9a70) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 12:43:53 GMT | Built a Free Tool to Check If a Website Is Safe , Here’s How It Works and Why I Made It | Rui Lagos | [Read More](https://medium.com/p/bb3d10183108) |
 | Tue, 24 Jun 2025 12:39:12 GMT | How to Protect Your Privacy on WhatsApp, Instagram & Facebook? | AJIT | [Read More](https://medium.com/p/f3bd2c1939af) |
 | Tue, 24 Jun 2025 12:34:33 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review 2025 | Tunahan TEKEOGLU | [Read More](https://medium.com/p/9142bc97f373) |
-| Tue, 24 Jun 2025 12:31:59 GMT | Reverse Engineering iOS Apps with Hopper Disassembler: From IPA to Jailbreak Detection | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/b913511bfb0d) |
-| Tue, 24 Jun 2025 12:27:08 GMT | Know All Cybersecurity Companies in Germany For Securing Digital Data | Karishma | [Read More](https://medium.com/p/f0c7c472711b) |
-| Tue, 24 Jun 2025 12:17:32 GMT | The Hidden Vulnerability: Why 2FA is Crucial and Magic Links Aren’t Magic | AI Rabbit | [Read More](https://medium.com/p/8a2dba187edd) |
-| Tue, 24 Jun 2025 12:16:20 GMT | HyperLiquid: A New Route for Crypto Money Laundering? | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/a7f1dc713d01) |
-| Tue, 24 Jun 2025 12:11:47 GMT | PentestGPT: The Future of Automated Penetration Testing with AI | Saikat Paul | [Read More](https://medium.com/p/b6bf3b2c77bc) |
-| Tue, 24 Jun 2025 12:02:51 GMT | The Dark Side of Swagger UI: How XSS and HTML Injection Can Compromise APIs | coffinxp | [Read More](https://medium.com/p/1b670972a443) |
-| Tue, 24 Jun 2025 12:02:48 GMT | The Rise of Rogue AI: A Warning We Can’t Ignore | TheReviewHive | [Read More](https://medium.com/p/28fda3347778) |
-| Tue, 24 Jun 2025 12:00:35 GMT | Traits of Top Security Guard Companies in Pune | United Guard Force India | [Read More](https://medium.com/p/b4deeae9a543) |
-| Tue, 24 Jun 2025 11:50:26 GMT | When to Use Cloud Transformation Security Services? | Ziya Zoe | [Read More](https://medium.com/p/c7597187dd80) |
