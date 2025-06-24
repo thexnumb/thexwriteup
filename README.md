@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 07:40:37 GMT | How I Turned a Mall Parking System Into a Real-Time Car Tracker | Héctor Martos | [Read More](https://medium.com/p/da088110979e) |
+| Tue, 24 Jun 2025 07:37:18 GMT | Cybersecurity and National Sovereignty: India’s Policy Readiness | Zenstudy | [Read More](https://medium.com/p/83db6cce1eb7) |
+| Tue, 24 Jun 2025 07:31:52 GMT | Popular Bug Bounty Platforms for Beginners: Your Complete Guide to Getting Started | Andrei Ivan | [Read More](https://medium.com/p/22eb72f3f63f) |
+| Tue, 24 Jun 2025 07:28:22 GMT | Your Digital Fingerprint: How Blockchain Uses Hashing for Ultimate Security | Onwuka David Chukwuka | [Read More](https://medium.com/p/3f83807a9539) |
+| Tue, 24 Jun 2025 07:26:39 GMT | Understanding ASN and Its Role in Web Security | Maverick Steel | [Read More](https://medium.com/p/61f1c86b5b90) |
+| Tue, 24 Jun 2025 07:24:20 GMT | (6510110233)24/6/2568 สิ่งที่ได้รับรู้ | Nut Navaphon | [Read More](https://medium.com/p/451d5ff7617c) |
+| Tue, 24 Jun 2025 07:24:19 GMT | Fortinet Under Fire: New Auth Bypass Bug Actively Exploited (CVE-2024–55591) | AerieWhole123 | [Read More](https://medium.com/p/c14e761a2827) |
 | Tue, 24 Jun 2025 07:17:05 GMT | What If Someone Could Steal All Your Phone Chats In One Click? (That’s Why We Need Blockchain) | Beyond The Lens by Pooja | [Read More](https://medium.com/p/467aa5d337be) |
 | Tue, 24 Jun 2025 07:12:00 GMT | Kerberoasting: From Ticket to Plaintext Passwords | Vinay Gurjar | [Read More](https://medium.com/p/6060bd906965) |
 | Tue, 24 Jun 2025 07:11:42 GMT | Container Security-Part II- Kubernetes -OWASP Top 10 | Akanksha | [Read More](https://medium.com/p/99a340694437) |
@@ -106,10 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 20:59:09 GMT | Cybersecurity Trends on June 23, 2025 | Inforsecpro | [Read More](https://medium.com/p/d38e8979bc97) |
 | Mon, 23 Jun 2025 20:51:38 GMT | Securing a Side Project with Free Tools | Garret Lacey | [Read More](https://medium.com/p/bf4dd9111359) |
 | Mon, 23 Jun 2025 20:43:39 GMT | SQL Injection Clásico: Exploiting con `UNION SELECT` | Roberto Alfaro | [Read More](https://medium.com/p/0c706208404f) |
-| Mon, 23 Jun 2025 20:18:42 GMT | Breaking Basic RSA Encryption Scheme: picoCTF 2025 Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/651701732477) |
-| Mon, 23 Jun 2025 20:12:41 GMT | An Exploration: The Dark Web | Maria Antonovich | [Read More](https://medium.com/p/425e1da8faef) |
-| Mon, 23 Jun 2025 20:11:36 GMT | Day 30: Sockets and Signals | Nile Okomo | [Read More](https://medium.com/p/02ce50332542) |
-| Mon, 23 Jun 2025 20:08:13 GMT | Successful Military Attacks are Driving Nation States to Cyber Options | Matthew.Rosenquist | [Read More](https://medium.com/p/803158366eba) |
-| Mon, 23 Jun 2025 20:00:50 GMT | Hatless Hacker | Yuksel | [Read More](https://medium.com/p/7bcc4c22d6cd) |
-| Mon, 23 Jun 2025 19:59:54 GMT | #OpenToWork vs Resignation Verified : Decoding Candidate Intent | PaperHire | [Read More](https://medium.com/p/6647b6461e32) |
-| Mon, 23 Jun 2025 19:56:57 GMT | InjuredAndroid Android CTF write-up, Part II | Francesco Masi | [Read More](https://medium.com/p/5b8933fd0d33) |
