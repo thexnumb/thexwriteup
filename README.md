@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 22:34:09 GMT | The Unspoken Threat Of Digital Guilt Engineering | O. J. Okpabi | [Read More](https://medium.com/p/d427a979e44e) |
+| Tue, 24 Jun 2025 22:32:19 GMT | Why ‘TRUST-NO-ONE’ Is Your Strongest Defense | Yash Patel | [Read More](https://medium.com/p/82a32e7da73e) |
+| Tue, 24 Jun 2025 22:31:13 GMT | Information Assurance: Building Cybersecurity That Lasts | Robertpurpose | [Read More](https://medium.com/p/38135ccc3494) |
+| Tue, 24 Jun 2025 22:27:07 GMT | Firebase Auth and Firestore: Brief Overview | Vaibhav Tatkare | [Read More](https://medium.com/p/d7a08a2bebd3) |
+| Tue, 24 Jun 2025 22:17:13 GMT | The Broken Promises of WiFi Security | David Montgomery | [Read More](https://medium.com/p/ab691a2f298f) |
+| Tue, 24 Jun 2025 22:16:40 GMT | Web Authentication in Real Life: Sessions, Basic Auth, Tokens… and OAuth 2.0 | Musa Ndlala | [Read More](https://medium.com/p/57e4d41541a5) |
+| Tue, 24 Jun 2025 22:16:40 GMT | Maintaining Access and Lateral Movement in Compromised Networks | Karthikeyan Nagaraj | [Read More](https://medium.com/p/e618df9fdd99) |
 | Tue, 24 Jun 2025 22:02:10 GMT | The Wildest Stage to Talk About Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/495cb486d612) |
 | Tue, 24 Jun 2025 22:01:38 GMT | Verification Links That Do Too Much — And Stick Around Too Long | Kazi Lamisa | [Read More](https://medium.com/p/fac2bccb6e79) |
 | Tue, 24 Jun 2025 21:42:24 GMT | Are Your Chats with LLMs Private? Here’s What I Found. | Omar Kongo | [Read More](https://medium.com/p/631ae004c899) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 16:24:14 GMT | PSU Cybersecurity and Data Privacy Days ครั้งที่ 2: Cybersecurity and AI | Thanutham Tuktian | [Read More](https://medium.com/p/cc5158ccbe9c) |
 | Tue, 24 Jun 2025 16:18:27 GMT | Secrets don’t stay small as your stack grows | Amber Britton | [Read More](https://medium.com/p/a5e04b6c5241) |
 | Tue, 24 Jun 2025 16:16:27 GMT | Mobil Uygulamalarda API Güvenliği | selvisongulgozlugol | [Read More](https://medium.com/p/f052fac6ea60) |
-| Tue, 24 Jun 2025 16:13:54 GMT | War | Toluwani David-King | [Read More](https://medium.com/p/fb3106738aa6) |
-| Tue, 24 Jun 2025 16:12:20 GMT | Why You Need to Care About Business Email Compromises | Jamesoldfield | [Read More](https://medium.com/p/86201ed42349) |
-| Tue, 24 Jun 2025 16:11:01 GMT | Qualys: A Growing, Profitable Cybersecurity Player | Glenn Jørgensen | [Read More](https://medium.com/p/89cf7d72e96d) |
-| Tue, 24 Jun 2025 16:08:34 GMT | Cyber Kill Chain - TryHackMe Writeup - By VALKYRI3 | VALKYRIE | [Read More](https://medium.com/p/20673c1e6d69) |
-| Tue, 24 Jun 2025 16:07:49 GMT | Social Engineering Attacks: What They Are and How to Stay Protected | SafeAeon Inc. | [Read More](https://medium.com/p/d0f5ce3b172c) |
-| Tue, 24 Jun 2025 16:06:43 GMT | Five Eternal Gods of API Gateways: Choosing the Guardian for Your Microservices ✨ | Umesh Kumar Yadav | [Read More](https://medium.com/p/fc31b934c993) |
-| Tue, 24 Jun 2025 16:03:56 GMT | 16 Billion Passwords Leaked: Here’s What You Need to Know (and Do About It) | Rutuja Bendre | [Read More](https://medium.com/p/e3572999b66a) |
