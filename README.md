@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 05:43:33 GMT | You’re Missing Bugs If You’re Not Reconning Like This | Đeepanshu | [Read More](https://medium.com/p/c037e0fbbb8a) |
+| Tue, 24 Jun 2025 05:40:46 GMT | Microsoft Defender as End Point Tool | oheneba kwaku annor | [Read More](https://medium.com/p/2eb709629793) |
+| Tue, 24 Jun 2025 05:31:30 GMT | ️ How I Secured My .NET 8 App — Fixing the Most Common SCA, SAST & DAST Issues | Sunita Rawat | [Read More](https://medium.com/p/bd249f85c96b) |
+| Tue, 24 Jun 2025 05:30:10 GMT | From Jemaah Islamiyah to ISIS: Tracing the Shifting Sands of Extremism in Southeast Asia | Dan Marshall-Singh | [Read More](https://medium.com/p/4ef3bbfae3a3) |
+| Tue, 24 Jun 2025 05:23:25 GMT | Your Business Deserves Better Than a Weak Password | Ezintsha Marketing Team | [Read More](https://medium.com/p/04a010c318c5) |
+| Tue, 24 Jun 2025 05:22:28 GMT | Digital Erasure Survivor: How I Exposed DNS Hijacking, Cloud Theft, and Account Cloning | Daretoexpose | [Read More](https://medium.com/p/9ec1e027adb4) |
 | Tue, 24 Jun 2025 05:16:10 GMT | Are Your Amazon EKS Workloads Secure? | Finstein.ai | [Read More](https://medium.com/p/11e5ffb5d768) |
 | Tue, 24 Jun 2025 05:11:06 GMT | Hello, Medium | Jake Murray | [Read More](https://medium.com/p/90fc5f10854d) |
 | Tue, 24 Jun 2025 05:08:25 GMT | SQL injection Nədir? | NatiqSalifov | [Read More](https://medium.com/p/68735120d739) |
@@ -51,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 00:14:00 GMT | Day 13 — How to Deploy and Secure Public IBM Cloud Functions Using Code Engine | Jithendranath Gupta Yenduri | [Read More](https://medium.com/p/e22c4239ad1c) |
 | Tue, 24 Jun 2025 00:11:23 GMT | Day 31 of #60DaysofGRC: Why Threat Modeling is a GRC Superpower | Brittney Ginther | [Read More](https://medium.com/p/4eb0d7f485c9) |
 | Tue, 24 Jun 2025 00:03:14 GMT | Why We Created STAC: Cryptographic Sovereignty in the Quantum Era | ExeQuantum | [Read More](https://medium.com/p/0134bd138f9f) |
+| Tue, 24 Jun 2025 00:01:55 GMT | Nuclei para Bug Bounty: La Guía Definitiva para la Detección de Vulnerabilidades Automatizada | JPablo13 | [Read More](https://medium.com/p/0e0ad42283ec) |
 | Mon, 23 Jun 2025 23:58:07 GMT | Fortifying Your DRF + React Stack: A Software Engineer’s Guide to Modern Web Security | Philip Wawazi | [Read More](https://medium.com/p/399ad0a4ec0b) |
 | Mon, 23 Jun 2025 23:30:14 GMT | recklessness. | dita. | [Read More](https://medium.com/p/8a860e8e2112) |
 | Mon, 23 Jun 2025 23:15:34 GMT | Rethinking Hiring: Our Interview Process Is Broken | Yaroslav | [Read More](https://medium.com/p/522cf6364cc5) |
@@ -106,10 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 17:55:31 GMT | Agentic AI in Production? | Roberto Nava | [Read More](https://medium.com/p/b0a9e484229c) |
 | Mon, 23 Jun 2025 17:46:03 GMT | The CIA Triad: Explained! | Rihaz Ramzaan | [Read More](https://medium.com/p/a2993cf68daf) |
 | Mon, 23 Jun 2025 17:45:49 GMT | Hacking Nothing! Unauthorised access to Nothing’s AWS S3 Buckets | Mohammad Kaif | [Read More](https://medium.com/p/15676b698720) |
-| Mon, 23 Jun 2025 17:42:59 GMT | 16 Milyar Hesaplık Veri Sızıntısı: Dijital Dünyanın En Büyük Kabusu | Ömer Rıdvan POLAT | [Read More](https://medium.com/p/865c072d0074) |
-| Mon, 23 Jun 2025 17:35:53 GMT | CAPTCHApocalypse THM - Writeup | Domon | [Read More](https://medium.com/p/ca4119082aa1) |
-| Mon, 23 Jun 2025 17:27:02 GMT | Security Concerns Regarding AI Rise: Why it is Important to be Aware of It | M Talha Sarwar | [Read More](https://medium.com/p/e4338f4ede13) |
-| Mon, 23 Jun 2025 17:26:55 GMT | ## CVE-2025-3248 Scanner – A Powerful Tool to Detect a Critical Exploit | Issam Junior | [Read More](https://medium.com/p/b0c6f581faeb) |
-| Mon, 23 Jun 2025 17:25:52 GMT | chatMDM: AI-Powered Device Management by Codeproof Technologies | Codeproof Technologies | [Read More](https://medium.com/p/3359579d2240) |
-| Mon, 23 Jun 2025 17:18:32 GMT | Understanding the Difference Between Android and iOS Security | Codeproof Technologies | [Read More](https://medium.com/p/2294f7a23ec7) |
-| Mon, 23 Jun 2025 17:15:05 GMT | Echoes in the Code: How Subtle AI Jailbreaks Are Redefining Cyber Risk | Siva Gunasekaran | [Read More](https://medium.com/p/3ba7e079a70e) |
