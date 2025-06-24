@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 17:18:48 GMT | Why Quantum Computing isn’t a Sci-Fi Dream, But Your Next Diversifier | Murad NURI | [Read More](https://medium.com/p/faeb5ce2d159) |
+| Tue, 24 Jun 2025 17:16:59 GMT | Lobitcoin review: and how can i get my money back ? | Latijen | [Read More](https://medium.com/p/9779870e52b7) |
+| Tue, 24 Jun 2025 17:14:14 GMT | Incident Lifecycle vs Incident Response Lifecycle: What Most Teams Still Get Wrong! | Aniket Sharma | [Read More](https://medium.com/p/c1ae855d9a70) |
+| Tue, 24 Jun 2025 17:05:49 GMT | Synthetic Identity Fraud: The Hidden Cybercrime Threat You Shouldn’t Ignore | Akshay Chauhan | [Read More](https://medium.com/p/9dbd10696ec9) |
+| Tue, 24 Jun 2025 17:05:44 GMT | Race Condition 101: How I Exploited a Real Bug Bounty Scenario to Break Backend Validation | Kerolos Ayman | [Read More](https://medium.com/p/c39352815f0a) |
+| Tue, 24 Jun 2025 17:03:53 GMT | Opacity— TryHackMe — Walkthrough | m0rd3caii | [Read More](https://medium.com/p/bc3859795c9b) |
+| Tue, 24 Jun 2025 17:02:23 GMT | is Coinstrading legit, how can I get my money back ? | M Ait H Ie Nd I | [Read More](https://medium.com/p/c60714c6ac42) |
+| Tue, 24 Jun 2025 17:00:19 GMT | Online and On Guard: Simple Tech Tips for Smarter Online Learning | Kevin S. | [Read More](https://medium.com/p/59f513c48dbd) |
+| Tue, 24 Jun 2025 16:59:46 GMT | Secure Your React Native App with react-native-keychain | Prem Yathvik | [Read More](https://medium.com/p/06d9e77b7ea2) |
+| Tue, 24 Jun 2025 16:55:49 GMT | is it possible to recover my money from Coinstrading ? | M Ait H Ie Nd I | [Read More](https://medium.com/p/289dbcd2c7fe) |
+| Tue, 24 Jun 2025 16:55:02 GMT | Data Roles | Igor Berner | [Read More](https://medium.com/p/0b59fdea3c24) |
 | Tue, 24 Jun 2025 16:46:42 GMT | In a World of GenAI, File Formats Are So 20th Century | Saikat Paul | [Read More](https://medium.com/p/65db207ebcb1) |
 | Tue, 24 Jun 2025 16:45:59 GMT | what should I do to recoup my money from Cointp4u ? | Halle | [Read More](https://medium.com/p/16cb2f00400c) |
 | Tue, 24 Jun 2025 16:42:06 GMT | here’s how i recover my money from Cointp4u | Halle | [Read More](https://medium.com/p/075adad23b72) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 12:02:48 GMT | The Rise of Rogue AI: A Warning We Can’t Ignore | TheReviewHive | [Read More](https://medium.com/p/28fda3347778) |
 | Tue, 24 Jun 2025 12:00:35 GMT | Traits of Top Security Guard Companies in Pune | United Guard Force India | [Read More](https://medium.com/p/b4deeae9a543) |
 | Tue, 24 Jun 2025 11:50:26 GMT | When to Use Cloud Transformation Security Services? | Ziya Zoe | [Read More](https://medium.com/p/c7597187dd80) |
-| Tue, 24 Jun 2025 11:47:39 GMT | Deep Dive into SailPoint IIQ: Mastering Identity Management and Lifecycle | Surya Raja | [Read More](https://medium.com/p/6ed83f528399) |
-| Tue, 24 Jun 2025 11:31:47 GMT | ProGuard vs R8 in Android: A Complete Developer’s Guide | Pinankh Patel | [Read More](https://medium.com/p/db73862b4d0a) |
-| Tue, 24 Jun 2025 11:31:36 GMT | HackTheBox Writeup — Armageddon | Simardeep Singh | [Read More](https://medium.com/p/a91800448f26) |
-| Tue, 24 Jun 2025 11:23:53 GMT | Trump’s Military Action Puts Christians in Perilous Situation | mahwish qayyum | [Read More](https://medium.com/p/530125808558) |
-| Tue, 24 Jun 2025 11:22:58 GMT | The $6.08 Million Question: Why Your FinTech App is a Goldmine for Hackers (And How to Stop Them) | Mayank Saxena | [Read More](https://medium.com/p/82dd44ff6935) |
-| Tue, 24 Jun 2025 11:17:29 GMT | eJPT - 3.4 Exploitation | Hammaad M | [Read More](https://medium.com/p/385d9b72621e) |
-| Tue, 24 Jun 2025 11:12:32 GMT | Strengthening Your Digital Defenses: The Power of Multi-Factor Authentication | Gauravinsightss | [Read More](https://medium.com/p/f7039d2d48a0) |
-| Tue, 24 Jun 2025 11:09:15 GMT | CybersecurityHow Do Online Cybersecurity Courses Help You Deal With Digital Threats In Real Life? | Richard Charles | [Read More](https://medium.com/p/317d39617629) |
-| Tue, 24 Jun 2025 11:06:20 GMT | What Happens When a Healthcare Provider Falls Victim to Ransomware? | Finstein.ai | [Read More](https://medium.com/p/4fae95b14ffd) |
-| Tue, 24 Jun 2025 11:01:36 GMT | Executive Footprints: Why Your Old Profiles Still Matter (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/8bcc2b9f7b2a) |
-| Tue, 24 Jun 2025 11:00:02 GMT | Your Home Security | Target securitygroup | [Read More](https://medium.com/p/3c698fd8cb83) |
