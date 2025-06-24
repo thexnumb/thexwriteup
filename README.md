@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 10:44:50 GMT | The Daily Tech Digest: 24 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/1cc60004360a) |
+| Tue, 24 Jun 2025 10:36:39 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/5d436f877cd5) |
+| Tue, 24 Jun 2025 10:35:57 GMT | Fraud.net’s collective AI intelligence builds an ever growing fraud prevention moat. | Peter Bordes | [Read More](https://medium.com/p/c623d72d650c) |
+| Tue, 24 Jun 2025 10:35:35 GMT | “picoCTF Challenge Solutions: A Beginner’s Journey” | Harrison Esther | [Read More](https://medium.com/p/29cbb33098f6) |
+| Tue, 24 Jun 2025 10:33:52 GMT | Hacking DC 3 — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/4fdbedceaeb0) |
+| Tue, 24 Jun 2025 10:32:57 GMT | PHP file Upload Security: A complete guide to protecting your web application | Roman Huliak | [Read More](https://medium.com/p/cc769734f38b) |
+| Tue, 24 Jun 2025 10:32:27 GMT | How Masculine Energy Changes When You’re in Love (and Why That’s Not Weak) | Joti's Jot | [Read More](https://medium.com/p/9d7c34753bd5) |
+| Tue, 24 Jun 2025 10:31:31 GMT | “Still Using SHA-256? Here’s What Modern Java Devs Are Doing for Password Security” ‍ | Shubham Vartak | [Read More](https://medium.com/p/9cf973428beb) |
+| Tue, 24 Jun 2025 10:26:04 GMT | Beyond the Firewall: Reinventing Cyber-Defense Services | Silvia | [Read More](https://medium.com/p/218cee2110e9) |
+| Tue, 24 Jun 2025 10:23:59 GMT | India’s Leading Cyber Security Training Program | shaheed noushad | [Read More](https://medium.com/p/4ccaf264e35c) |
 | Tue, 24 Jun 2025 10:18:46 GMT | Ads on WhatsApp? The Change You Can’t Ignore | Atomic Mail | [Read More](https://medium.com/p/1a79a9097654) |
 | Tue, 24 Jun 2025 10:16:27 GMT | Why I’m Building VoiceHub: Listening Is the Bridge Between Customers and Businesses | Krishnamohan Yagneswaran | [Read More](https://medium.com/p/c088c457fdc2) |
 | Tue, 24 Jun 2025 10:13:22 GMT | Mobile App Hacking - Professional Hacking Services | BlackHat | [Read More](https://medium.com/p/43381eda3134) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 05:56:00 GMT | I Built Zero Trust While They Were Playing Security Theater | Jason Smith | [Read More](https://medium.com/p/f14a3a519fc6) |
 | Tue, 24 Jun 2025 05:49:54 GMT | The Largest Credential Leak in History: 16 Billion Passwords Exposed — What You Need to Know in… | Stealseek | [Read More](https://medium.com/p/f8963f0b7fd3) |
 | Tue, 24 Jun 2025 05:43:33 GMT | You’re Missing Bugs If You’re Not Reconning Like This | Đeepanshu | [Read More](https://medium.com/p/c037e0fbbb8a) |
-| Tue, 24 Jun 2025 05:41:49 GMT | ️ Stop API Key Leaks Before They Cost You — Meet KeySentry | Aditya Bhatt | [Read More](https://medium.com/p/5521f6c75ab0) |
-| Tue, 24 Jun 2025 05:40:46 GMT | Microsoft Defender as End Point Tool | oheneba kwaku annor | [Read More](https://medium.com/p/2eb709629793) |
-| Tue, 24 Jun 2025 05:31:30 GMT | ️ How I Secured My .NET 8 App — Fixing the Most Common SCA, SAST & DAST Issues | Sunita Rawat | [Read More](https://medium.com/p/bd249f85c96b) |
-| Tue, 24 Jun 2025 05:30:10 GMT | From Jemaah Islamiyah to ISIS: Tracing the Shifting Sands of Extremism in Southeast Asia | Dan Marshall-Singh | [Read More](https://medium.com/p/4ef3bbfae3a3) |
-| Tue, 24 Jun 2025 05:23:25 GMT | Your Business Deserves Better Than a Weak Password | Ezintsha Marketing Team | [Read More](https://medium.com/p/04a010c318c5) |
-| Tue, 24 Jun 2025 05:22:28 GMT | Digital Erasure Survivor: How I Exposed DNS Hijacking, Cloud Theft, and Account Cloning | Daretoexpose | [Read More](https://medium.com/p/9ec1e027adb4) |
-| Tue, 24 Jun 2025 05:16:10 GMT | Are Your Amazon EKS Workloads Secure? | Finstein.ai | [Read More](https://medium.com/p/11e5ffb5d768) |
-| Tue, 24 Jun 2025 05:11:06 GMT | Hello, Medium | Jake Murray | [Read More](https://medium.com/p/90fc5f10854d) |
-| Tue, 24 Jun 2025 05:08:25 GMT | SQL injection Nədir? | NatiqSalifov | [Read More](https://medium.com/p/68735120d739) |
-| Tue, 24 Jun 2025 05:05:15 GMT | How I Found an Unauthenticated API in a Popular Open-Source Project Used by Redacted.com | Sumit Chauhan | [Read More](https://medium.com/p/b318ebdaf1c0) |
