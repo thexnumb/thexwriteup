@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 14:17:28 GMT | The 5 Costliest Cybersecurity Incidents of 2024–2025: Lessons, Losses, and Prevention Strategies | Ashvini kumar upadhyay | [Read More](https://medium.com/p/e27eb11477bf) |
+| Tue, 24 Jun 2025 14:07:51 GMT | Why Identity-First Security is the Key to Scalable AI Adoption in 2025 | SecureFLO | [Read More](https://medium.com/p/0f58df720129) |
+| Tue, 24 Jun 2025 14:01:27 GMT | The Netropy Principles, a short Interlude | Peter Hübel | [Read More](https://medium.com/p/ba95eeb74658) |
+| Tue, 24 Jun 2025 14:00:47 GMT | Cyber Briefing: 2025.06.24 | CyberMaterial | [Read More](https://medium.com/p/ebd15b6181b1) |
+| Tue, 24 Jun 2025 13:39:23 GMT | งาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2: Cybersecurity and AI วันที่ 1 | Thanaphum Bubaso | [Read More](https://medium.com/p/0388e0f78777) |
 | Tue, 24 Jun 2025 13:33:03 GMT | LetsDefend — PowerShell Keylogger Walkthrough | El Mehdi Mouhajer | [Read More](https://medium.com/p/85c8e6e775bd) |
 | Tue, 24 Jun 2025 13:31:27 GMT | How to Automate SQLi & XSS Hunting | Ibtissam hammadi | [Read More](https://medium.com/p/9ad7bfbc50b6) |
 | Tue, 24 Jun 2025 13:27:22 GMT | Lookup Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/c2580f588f74) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 08:45:17 GMT | Not a Journal, I Know | Isha | [Read More](https://medium.com/p/e33e5f7b6afd) |
 | Tue, 24 Jun 2025 08:40:53 GMT | Login Service in Java with Spring Boot and Ultra-Secure Password Matching | CodeSculptorX | [Read More](https://medium.com/p/1c5c1f2290a5) |
 | Tue, 24 Jun 2025 08:36:33 GMT | Fix Insufficient Transport Layer Protection in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/e02417763a74) |
-| Tue, 24 Jun 2025 08:36:20 GMT | A Cup Never Filled | Lei | [Read More](https://medium.com/p/ff3c91c9bfbc) |
-| Tue, 24 Jun 2025 08:28:20 GMT | Secure and Innovative Bitcoin Cold Wallet | jacksonkimberly9470 | [Read More](https://medium.com/p/13aaaf465dd6) |
-| Tue, 24 Jun 2025 08:27:08 GMT | Pivoting in OSINT: How to Keep Digging When the Trail Goes Cold | Joe The OSINT Guy | [Read More](https://medium.com/p/bcfe747125b9) |
-| Tue, 24 Jun 2025 08:25:47 GMT | Breaking a monolith : security challenges of migrating a big app to multi-services | Solal Besnard | [Read More](https://medium.com/p/4944609df8b1) |
-| Tue, 24 Jun 2025 08:17:49 GMT | Best Linux Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/00ddf225681e) |
