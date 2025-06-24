@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 07:17:05 GMT | What If Someone Could Steal All Your Phone Chats In One Click? (That’s Why We Need Blockchain) | Beyond The Lens by Pooja | [Read More](https://medium.com/p/467aa5d337be) |
+| Tue, 24 Jun 2025 07:12:00 GMT | Kerberoasting: From Ticket to Plaintext Passwords | Vinay Gurjar | [Read More](https://medium.com/p/6060bd906965) |
+| Tue, 24 Jun 2025 07:11:42 GMT | Container Security-Part II- Kubernetes -OWASP Top 10 | Akanksha | [Read More](https://medium.com/p/99a340694437) |
+| Tue, 24 Jun 2025 07:11:13 GMT | Android App Security Checklist: Best Practices for Developers | Kiran Choudhary | [Read More](https://medium.com/p/3929d077183a) |
+| Tue, 24 Jun 2025 07:08:11 GMT | MDE’s DeviceNetworkEvents table [Part 2 — Connection* ActionTypes] | Ethan Bowen | [Read More](https://medium.com/p/1c5ee20d2fc4) |
+| Tue, 24 Jun 2025 07:07:03 GMT | Designing Modular Malware Frameworks à la Equation Group: The Cybersecurity Blueprint You’re Not… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/d6cd9f25c042) |
+| Tue, 24 Jun 2025 07:01:52 GMT | How to Test File Upload Processes in Laravel 12 | andi | [Read More](https://medium.com/p/7bbae23a3890) |
+| Tue, 24 Jun 2025 07:00:45 GMT | Writing Secure Smart Contracts: A Developer’s Guide | Anandi Sheladiya | [Read More](https://medium.com/p/f0499213dde5) |
+| Tue, 24 Jun 2025 06:57:16 GMT | ️ What is Inkjet and Laser Printer | Cost To Cost | [Read More](https://medium.com/p/d348eebcf6dc) |
+| Tue, 24 Jun 2025 06:41:45 GMT | Roundcube: CVE-2025–49113 — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/563df44c1391) |
+| Tue, 24 Jun 2025 06:35:47 GMT | DNS in Detail — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/eb0375da4bc4) |
+| Tue, 24 Jun 2025 06:33:36 GMT | Automating AWS WAF Rule Updates from GitLab Threat List | Vinayak Pandey | [Read More](https://medium.com/p/e92bd0b4f1e3) |
+| Tue, 24 Jun 2025 06:31:52 GMT | DOM XSS in document.write sink using source location.search — PortSwigger⚡ | Sumanth Yerranagula | [Read More](https://medium.com/p/b36e2c7425a1) |
 | Tue, 24 Jun 2025 06:26:58 GMT | The Windows Security Journey — HVCI (Hypervisor Protected Code Integrity) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c13f98cac96f) |
+| Tue, 24 Jun 2025 06:24:20 GMT | How to Troubleshoot SafeLine License Activation Issues | Quella | [Read More](https://medium.com/p/326fe3bf8c0a) |
 | Tue, 24 Jun 2025 06:23:59 GMT | How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing | Kongsec | [Read More](https://medium.com/p/a03a354df2cf) |
 | Tue, 24 Jun 2025 06:18:30 GMT | Remote File Inclusion (RFI) — Full Breakdown for Beginners | Shah kaif | [Read More](https://medium.com/p/7f89c55e3b2a) |
 | Tue, 24 Jun 2025 06:16:25 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Fuad | [Read More](https://medium.com/p/862b00bc426e) |
@@ -99,17 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 20:00:50 GMT | Hatless Hacker | Yuksel | [Read More](https://medium.com/p/7bcc4c22d6cd) |
 | Mon, 23 Jun 2025 19:59:54 GMT | #OpenToWork vs Resignation Verified : Decoding Candidate Intent | PaperHire | [Read More](https://medium.com/p/6647b6461e32) |
 | Mon, 23 Jun 2025 19:56:57 GMT | InjuredAndroid Android CTF write-up, Part II | Francesco Masi | [Read More](https://medium.com/p/5b8933fd0d33) |
-| Mon, 23 Jun 2025 19:48:51 GMT | The Digital Battlefield: Israel vs Iran Cyber Warfare — A New Front in Middle Eastern Conflict | Andrei Ivan | [Read More](https://medium.com/p/fa07a75ae8f0) |
-| Mon, 23 Jun 2025 19:44:50 GMT | Essential Windows Event IDs for Enterprise Security: SIEM Use Cases, Explanations, and Activation… | Yuksel | [Read More](https://medium.com/p/f22bf14b5bed) |
-| Mon, 23 Jun 2025 19:44:02 GMT | Hacken Token Crashes 99% After Minting Hack — $250K Vanishes in Digital Smoke | CoinGen | [Read More](https://medium.com/p/8cabebaab1c2) |
-| Mon, 23 Jun 2025 19:41:57 GMT | Ticketmaster Data Breach 2024: What Happened and How It Affects Millions | Akshay Chauhan | [Read More](https://medium.com/p/b6f73c041157) |
-| Mon, 23 Jun 2025 19:41:29 GMT | The Cybersecurity Sentinel (June 23) | Franklin Rhodes | [Read More](https://medium.com/p/19a179d820d9) |
-| Mon, 23 Jun 2025 19:33:46 GMT | PipeMagic Trojan: A Stealthy Threat Targeting Windows Systems | Akshay Chauhan | [Read More](https://medium.com/p/0573316a27c2) |
-| Mon, 23 Jun 2025 19:17:35 GMT | Days 3–5 of 21: Networking(3), Blue Team(4), and Red Team(5) Oh My! | Myshawne Stallings | [Read More](https://medium.com/p/3e945fad105d) |
-| Mon, 23 Jun 2025 19:12:19 GMT | IRAN LAUNCHES MULTIWARHEAD KHEIBAR MISSILES AT ISRAELI REGIME | Defence Affairs & Analysis | [Read More](https://medium.com/p/9167388000de) |
-| Mon, 23 Jun 2025 18:57:02 GMT | Metasploitable 2 Hack: Port Taramaları | Mustafa Şen | [Read More](https://medium.com/p/34f25923ba4a) |
-| Mon, 23 Jun 2025 18:46:46 GMT | Understanding Cybersecurity: Beyond the Hollywood Hype | Aaleyah S. Evans | [Read More](https://medium.com/p/6ad6ddf95644) |
-| Mon, 23 Jun 2025 18:41:19 GMT | Building My Home SOC Lab — Chapter 1: The Beginning | Vijayasakith Vijayakanthan | [Read More](https://medium.com/p/c5312bdbf83b) |
-| Mon, 23 Jun 2025 18:31:58 GMT | Why ACME Device Attestation is Reshaping Enterprise Security — Backed by Hard Numbers | Akilnath Bodipudi | [Read More](https://medium.com/p/c140bc89caca) |
-| Mon, 23 Jun 2025 18:27:06 GMT | Security In and Around MCP: Part 2 — MCP in Deployment | Maia Iyer | [Read More](https://medium.com/p/65bdd0ba9dc6) |
-| Mon, 23 Jun 2025 18:26:56 GMT | How North Korea’s BlueNoroff Hijacks Zoom Calls Using AI-Driven Deepfakes | Avnishyam | [Read More](https://medium.com/p/2810620987b3) |
