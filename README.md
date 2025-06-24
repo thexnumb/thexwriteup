@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 20:21:34 GMT | Securing PostgreSQL with SSL/TLS: A Comprehensive Implementation Guide | Kerian Amin N | [Read More](https://medium.com/p/9b210be21c3f) |
 | Tue, 24 Jun 2025 20:11:10 GMT | ️ Inside a Red Team Physical Assessment: From Reception to Domain Access | Saumitra Kulkarni (N0F4C3) | [Read More](https://medium.com/p/d17dfaefcc19) |
 | Tue, 24 Jun 2025 20:00:12 GMT | Role of AI in Threat Detection: Benefits, Use Cases, Best Practices | IT_Engineer | [Read More](https://medium.com/p/21cea14acd22) |
 | Tue, 24 Jun 2025 19:55:28 GMT | Bitwarden — Your Password Manager Buddy | Ayesha | [Read More](https://medium.com/p/f5206c3b3291) |
@@ -24,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 19:28:46 GMT | Why TypeScript Structural Typing Works | Alexander Obregon | [Read More](https://medium.com/p/026de9710737) |
 | Tue, 24 Jun 2025 19:26:55 GMT | If Fear Was a Person | sharonwrites | [Read More](https://medium.com/p/cf1d99c241e8) |
 | Tue, 24 Jun 2025 19:25:25 GMT | Malware Analysis on MockRan.exe | Uodueme | [Read More](https://medium.com/p/ceec2febf947) |
+| Tue, 24 Jun 2025 19:22:56 GMT | OWASP Mobile Top 10 (2024): Proteja seu app Android com este guia prático | Ademar Neto | [Read More](https://medium.com/p/59a0e1edc360) |
 | Tue, 24 Jun 2025 19:05:56 GMT | Unsafe Scanner Leads to Successful Buffer Overflow Attack: Narnia 0 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/286ed5d10589) |
 | Tue, 24 Jun 2025 19:01:56 GMT | How AI and Digital Platforms Serve Kyriarchal Agendas—And How to Build Decentralized Networks for… | A. L. | [Read More](https://medium.com/p/8e7937156110) |
 | Tue, 24 Jun 2025 18:57:00 GMT | The Sticker Shop — TryHackMe Writeups | HacksonAloysis | [Read More](https://medium.com/p/fc560167eb62) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 15:04:55 GMT | Quiet Suffering: | Hansdahsneha | [Read More](https://medium.com/p/87068fa466b1) |
 | Tue, 24 Jun 2025 15:04:30 GMT | DDoS-Angriffe auf Apache-Webserver: Was sie sind und wie man sich einfach schützt | RedTeamer IT Security | [Read More](https://medium.com/p/3eacd3f7739a) |
 | Tue, 24 Jun 2025 15:02:38 GMT | Swimming : Should I learn or not | Anujap | [Read More](https://medium.com/p/06ae61414cc3) |
-| Tue, 24 Jun 2025 15:02:35 GMT | Soft Armor. | Jennifer N.C. Purdy | [Read More](https://medium.com/p/07262c9e226c) |
-| Tue, 24 Jun 2025 14:55:17 GMT | The Open Source Security Paradox | Revan Zhang | [Read More](https://medium.com/p/125058fd58ea) |
