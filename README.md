@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 13:33:03 GMT | LetsDefend — PowerShell Keylogger Walkthrough | El Mehdi Mouhajer | [Read More](https://medium.com/p/85c8e6e775bd) |
+| Tue, 24 Jun 2025 13:31:27 GMT | How to Automate SQLi & XSS Hunting | Ibtissam hammadi | [Read More](https://medium.com/p/9ad7bfbc50b6) |
+| Tue, 24 Jun 2025 13:27:22 GMT | Lookup Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/c2580f588f74) |
+| Tue, 24 Jun 2025 13:27:05 GMT | Top 5 Security Assurances to Check in Alternative HPC Environments — Part 2/2 | WayneReidUK | [Read More](https://medium.com/p/c9b5a634b7f0) |
+| Tue, 24 Jun 2025 13:23:05 GMT | the burden of the eldest | astrelune | [Read More](https://medium.com/p/4653b9f04d20) |
+| Tue, 24 Jun 2025 13:21:33 GMT | Cracking password and brute-force for Reverse Engineering | ELF Pro Free | [Read More](https://medium.com/p/732d647e5296) |
+| Tue, 24 Jun 2025 13:17:11 GMT | FreeType Zero-Day Exploited: Paragon Spyware Campaign Targets Systems Through Font Rendering Flaw. | eL Njas!™ | [Read More](https://medium.com/p/e120c2f66486) |
+| Tue, 24 Jun 2025 13:16:49 GMT | Kubernetes Deployment Best Practices: Building a Resilient and Scalable Future | Abhishek Vala | [Read More](https://medium.com/p/85c7921e915e) |
+| Tue, 24 Jun 2025 13:16:27 GMT | The Hidden Danger of Prompt Injection in Agentic LLM Applications | Tom Wilderspin | [Read More](https://medium.com/p/47fe9b183f94) |
+| Tue, 24 Jun 2025 13:14:49 GMT | HOW A PORT SCAN LED TO A VULNERABILITY IN AN FTP SERVICE + TIPS FOR SCANNING | Tenebris Venator | [Read More](https://medium.com/p/17588027d820) |
+| Tue, 24 Jun 2025 13:09:47 GMT | Stop Phishing Scams with Anti-Phishing Codes | Kostadin Georgiev | [Read More](https://medium.com/p/3c6c2be2933e) |
+| Tue, 24 Jun 2025 13:08:27 GMT | I’m loving you anyway. | this is aj trying~ | [Read More](https://medium.com/p/375b2871c99d) |
+| Tue, 24 Jun 2025 13:01:54 GMT | Reducing Analyst Burnout with Smart Alert Prioritization by Peris.ai | Peris.ai Cybersecurity | [Read More](https://medium.com/p/7ae3bd7cf366) |
+| Tue, 24 Jun 2025 13:00:09 GMT | My Thoughts on Cyber5W Certified Digital Forensics Foundations (CCDFF) — a solid foundation exam… | Chicken0248 | [Read More](https://medium.com/p/281a9485c789) |
+| Tue, 24 Jun 2025 12:58:22 GMT | Malware Analysis: KimJongRAT Returns with a Stealthier Stealer Now in PowerShell | Jon C | [Read More](https://medium.com/p/3537682c6b88) |
+| Tue, 24 Jun 2025 12:58:17 GMT | Six Simple Steps to Stay Safe Online | Keir Finlow-Bates | [Read More](https://medium.com/p/4ddec03f8421) |
+| Tue, 24 Jun 2025 12:57:19 GMT | AI-Driven EDR Showdown: Comparative Analysis and Strategic Forecast for US Enterprises in 2026 | Wes Young | [Read More](https://medium.com/p/b746a3897bd4) |
+| Tue, 24 Jun 2025 12:55:06 GMT | Building Enterprise Cybersecurity in 72 Hours: The Zero-Knowledge Revolution | Alex Sofroniev | [Read More](https://medium.com/p/4d70ab538805) |
+| Tue, 24 Jun 2025 12:52:51 GMT | Vega PwnTillDawn -- 10.150.150.222 Write-Up | Ishengoma | [Read More](https://medium.com/p/48802c7e1124) |
+| Tue, 24 Jun 2025 12:46:27 GMT | India’s Quantum Cybersecurity Leap: How Physics Is Making Communication Unhackable | Tilak Upadhyay | [Read More](https://medium.com/p/906af364104f) |
+| Tue, 24 Jun 2025 12:43:53 GMT | Built a Free Tool to Check If a Website Is Safe , Here’s How It Works and Why I Made It | Rui Lagos | [Read More](https://medium.com/p/bb3d10183108) |
+| Tue, 24 Jun 2025 12:39:12 GMT | How to Protect Your Privacy on WhatsApp, Instagram & Facebook? | AJIT | [Read More](https://medium.com/p/f3bd2c1939af) |
+| Tue, 24 Jun 2025 12:34:33 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review 2025 | Tunahan TEKEOGLU | [Read More](https://medium.com/p/9142bc97f373) |
 | Tue, 24 Jun 2025 12:31:59 GMT | Reverse Engineering iOS Apps with Hopper Disassembler: From IPA to Jailbreak Detection | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/b913511bfb0d) |
 | Tue, 24 Jun 2025 12:27:08 GMT | Know All Cybersecurity Companies in Germany For Securing Digital Data | Karishma | [Read More](https://medium.com/p/f0c7c472711b) |
 | Tue, 24 Jun 2025 12:17:32 GMT | The Hidden Vulnerability: Why 2FA is Crucial and Magic Links Aren’t Magic | AI Rabbit | [Read More](https://medium.com/p/8a2dba187edd) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 08:27:08 GMT | Pivoting in OSINT: How to Keep Digging When the Trail Goes Cold | Joe The OSINT Guy | [Read More](https://medium.com/p/bcfe747125b9) |
 | Tue, 24 Jun 2025 08:25:47 GMT | Breaking a monolith : security challenges of migrating a big app to multi-services | Solal Besnard | [Read More](https://medium.com/p/4944609df8b1) |
 | Tue, 24 Jun 2025 08:17:49 GMT | Best Linux Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/00ddf225681e) |
-| Tue, 24 Jun 2025 08:16:55 GMT | What is Cyber Security? A Complete Beginner’s Guide | Simplilearn | [Read More](https://medium.com/p/cc21a33bf59f) |
-| Tue, 24 Jun 2025 08:13:24 GMT | Red vs Blue Team Mini Lab: Hydra vs Wazuh Monitoring | Rafi R | [Read More](https://medium.com/p/264a5ea95525) |
-| Tue, 24 Jun 2025 08:10:01 GMT | Top 10 ISO 27001 Certification Companies Leading Global Security | SecureSlate | [Read More](https://medium.com/p/7fe74df7dd37) |
-| Tue, 24 Jun 2025 08:06:06 GMT | I Thought Being in Charge Meant I Had Control — Until IT Took Over My AI Product | Anil Jangra, MBA | [Read More](https://medium.com/p/d89ae1b307a6) |
-| Tue, 24 Jun 2025 08:02:55 GMT | Europe IT Spending Market Size, Share, Data & Forecast 2034 | Saurabhbadoni | [Read More](https://medium.com/p/f80554233a71) |
-| Tue, 24 Jun 2025 07:59:58 GMT | Online Doctorate in Cybersecurity - Lead Global Cyber Defense Strategies | Mbaprofessional | [Read More](https://medium.com/p/f897eac61183) |
-| Tue, 24 Jun 2025 07:57:54 GMT | Still Using Sessions? Try Fluid Identity Anchors for Stateless PHP | Asian Digital Hub | [Read More](https://medium.com/p/5b1f9ed4fb97) |
-| Tue, 24 Jun 2025 07:48:13 GMT | Understanding OSI and TCP/IP Models Like a Hacker | err0rgod | [Read More](https://medium.com/p/428f52d05891) |
-| Tue, 24 Jun 2025 07:45:05 GMT | A Day in the Life of a Cloud Security Engineer: The Complete Guide | Saikat Paul | [Read More](https://medium.com/p/75ad93fa9581) |
-| Tue, 24 Jun 2025 07:42:53 GMT | WebSocket Attacks — The protocol that dances under your security radar (POC inside) | phoenixcatalan | [Read More](https://medium.com/p/7b327b51c7ba) |
-| Tue, 24 Jun 2025 07:41:41 GMT | Today’s Top Cyber Intelligence Highlights — Jun 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/804660969c80) |
-| Tue, 24 Jun 2025 07:41:15 GMT | The Uppercase Escape: Breaking Endpoint Restrictions via Case-Sensitivity | Muthu | [Read More](https://medium.com/p/075ddd5d14e4) |
-| Tue, 24 Jun 2025 07:41:10 GMT | Blockchain and Web3 Smart Contract Exploits: The Next Frontier in Bug Hunting | Monika sharma | [Read More](https://medium.com/p/f10521fb8cc9) |
-| Tue, 24 Jun 2025 07:40:37 GMT | How I Turned a Mall Parking System Into a Real-Time Car Tracker | Héctor Martos | [Read More](https://medium.com/p/da088110979e) |
-| Tue, 24 Jun 2025 07:37:18 GMT | Cybersecurity and National Sovereignty: India’s Policy Readiness | Zenstudy | [Read More](https://medium.com/p/83db6cce1eb7) |
-| Tue, 24 Jun 2025 07:31:52 GMT | Popular Bug Bounty Platforms for Beginners: Your Complete Guide to Getting Started | Andrei Ivan | [Read More](https://medium.com/p/22eb72f3f63f) |
-| Tue, 24 Jun 2025 07:31:52 GMT | HackTheBox Writeup — Time | Simardeep Singh | [Read More](https://medium.com/p/86f735917942) |
-| Tue, 24 Jun 2025 07:28:22 GMT | Your Digital Fingerprint: How Blockchain Uses Hashing for Ultimate Security | Onwuka David Chukwuka | [Read More](https://medium.com/p/3f83807a9539) |
-| Tue, 24 Jun 2025 07:26:39 GMT | Understanding ASN and Its Role in Web Security | Maverick Steel | [Read More](https://medium.com/p/61f1c86b5b90) |
-| Tue, 24 Jun 2025 07:24:20 GMT | (6510110233)24/6/2568 สิ่งที่ได้รับรู้ | Nut Navaphon | [Read More](https://medium.com/p/451d5ff7617c) |
-| Tue, 24 Jun 2025 07:24:19 GMT | Fortinet Under Fire: New Auth Bypass Bug Actively Exploited (CVE-2024–55591) | AerieWhole123 | [Read More](https://medium.com/p/c14e761a2827) |
-| Tue, 24 Jun 2025 07:17:05 GMT | What If Someone Could Steal All Your Phone Chats In One Click? (That’s Why We Need Blockchain) | Beyond The Lens by Pooja | [Read More](https://medium.com/p/467aa5d337be) |
-| Tue, 24 Jun 2025 07:12:00 GMT | Kerberoasting: From Ticket to Plaintext Passwords | Vinay Gurjar | [Read More](https://medium.com/p/6060bd906965) |
