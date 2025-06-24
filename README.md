@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 15:15:23 GMT | OSCP+ Exam Review: My Journey Through Failure, Preparation, and Passing | Hacker's Perspective | [Read More](https://medium.com/p/53aaed5ef219) |
+| Tue, 24 Jun 2025 15:06:39 GMT | From Pathogens to Phishing | Joe Munene | [Read More](https://medium.com/p/f7a1757f0802) |
+| Tue, 24 Jun 2025 15:04:55 GMT | Quiet Suffering: | Hansdahsneha | [Read More](https://medium.com/p/87068fa466b1) |
+| Tue, 24 Jun 2025 15:04:30 GMT | DDoS-Angriffe auf Apache-Webserver: Was sie sind und wie man sich einfach schützt | RedTeamer IT Security | [Read More](https://medium.com/p/3eacd3f7739a) |
+| Tue, 24 Jun 2025 15:02:38 GMT | Swimming : Should I learn or not | Anujap | [Read More](https://medium.com/p/06ae61414cc3) |
+| Tue, 24 Jun 2025 15:02:35 GMT | Soft Armor. | Jennifer N.C. Purdy | [Read More](https://medium.com/p/07262c9e226c) |
+| Tue, 24 Jun 2025 14:55:17 GMT | The Open Source Security Paradox | Revan Zhang | [Read More](https://medium.com/p/125058fd58ea) |
+| Tue, 24 Jun 2025 14:49:53 GMT | ## TryHackMe — New York Flankees Walkthrough | Sumit M | [Read More](https://medium.com/p/c36196c59712) |
+| Tue, 24 Jun 2025 14:44:49 GMT | “Bank of targets” | Martin Abramov | [Read More](https://medium.com/p/3f4a47e98c80) |
+| Tue, 24 Jun 2025 14:43:00 GMT | Cloud Security: Securing Cloud Infrastructure | Tobias Mathew | [Read More](https://medium.com/p/21c1559d1b4a) |
 | Tue, 24 Jun 2025 14:33:17 GMT | Cyberstition: How Superstition and Cultural Beliefs Fuel Digital Scams | O. J. Okpabi | [Read More](https://medium.com/p/7d1a41b06900) |
 | Tue, 24 Jun 2025 14:32:49 GMT | Why I Can’t Say “I Miss You” — Even When I Do | The Veiled Versifier | [Read More](https://medium.com/p/cebbbe00c8af) |
 | Tue, 24 Jun 2025 14:32:03 GMT | What Is a Summer Internship and How to Know If It’s Right for You? | Vijay Kumar Gupta | [Read More](https://medium.com/p/bc711f234699) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 09:17:49 GMT | TNB’s New Electricity Tariff — Malaysia | MattLifeTech | [Read More](https://medium.com/p/8272fc24adf6) |
 | Tue, 24 Jun 2025 09:14:07 GMT | Cyber Threat Intelligence: Staying Ahead of Attacks | TCCI Computer Coaching | [Read More](https://medium.com/p/e0a49479ad06) |
 | Tue, 24 Jun 2025 09:11:11 GMT | Bank Security Guard Services That Protect Your Financial Future | Sumintra | [Read More](https://medium.com/p/52e853d35c33) |
-| Tue, 24 Jun 2025 09:09:56 GMT | Inside Iran’s Internet Blackout: Cyber Defense or Digital Oppression? | Mohamed Naoui | [Read More](https://medium.com/p/98368f216283) |
-| Tue, 24 Jun 2025 09:09:47 GMT | Langflow RCE Bug Hits AI Devs — Here’s How to Lock It Down | Mr.PlanB | [Read More](https://medium.com/p/7b48e881d500) |
-| Tue, 24 Jun 2025 09:03:26 GMT | How to Become a Professional Cybersecurity Expert — A Roadmap by Koscyber | KOSCYBER | [Read More](https://medium.com/p/665fdba97ce2) |
-| Tue, 24 Jun 2025 09:03:09 GMT | Do you trust bots with your data? | Kevin Brunel | [Read More](https://medium.com/p/ff97e3f505e5) |
-| Tue, 24 Jun 2025 09:01:39 GMT | The Great NATO Defence Spending Illusion | Brian Iselin | [Read More](https://medium.com/p/9a9a2c1ae67b) |
-| Tue, 24 Jun 2025 09:00:22 GMT | How to start a career in IT 2025 | BrokieWorkie | [Read More](https://medium.com/p/21e5872a0b8b) |
-| Tue, 24 Jun 2025 08:59:26 GMT | Unmasking the Manipulators: Identifying and Avoiding Social Engineering Tactics | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/651ffe198871) |
-| Tue, 24 Jun 2025 08:58:09 GMT | Phishing: Jebakan Digital yang Paling Umum dan Cara Menghindarinya | Koswara | [Read More](https://medium.com/p/745a3a1d8e0f) |
-| Tue, 24 Jun 2025 08:56:39 GMT | Mastering External API Authentication in Salesforce: From Named Credentials to Interface-Driven… | Musa Ndlala | [Read More](https://medium.com/p/c8112d37d731) |
-| Tue, 24 Jun 2025 08:56:39 GMT | Top 5 Cybersecurity Threats You Need to Know in 2025 | Technology Journal | [Read More](https://medium.com/p/e6e5440a3c63) |
