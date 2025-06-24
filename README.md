@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 18:19:45 GMT | PhenomPoker Legal and Exploit Risk Analysis | Suicide Kings Podcast by @Catalyst Poker | [Read More](https://medium.com/p/6ed9108fa72a) |
+| Tue, 24 Jun 2025 18:19:37 GMT | What is an API? A Deep Dive for Developers & Security Enthusiasts | Root-X-Admin | [Read More](https://medium.com/p/e127327937d5) |
+| Tue, 24 Jun 2025 18:13:39 GMT | How to Protect Your Android App from Reverse Engineering with DexGuard | mohit khandelwal | [Read More](https://medium.com/p/b4e434c2ad4b) |
+| Tue, 24 Jun 2025 18:12:34 GMT | Weaponizing the Familiar: How File Explorer Is Being Abused for Covert Cyber Attacks | Chetan Seripally | [Read More](https://medium.com/p/5997a14db67d) |
+| Tue, 24 Jun 2025 18:09:40 GMT | Cybersecurity: A Comprehensive Guide for Non-Techies | Avnish singh | [Read More](https://medium.com/p/90dbbed16e73) |
+| Tue, 24 Jun 2025 18:09:35 GMT | Securing Your Angular Applications: What Every Developer Should Know | Davor Pavlekovic | [Read More](https://medium.com/p/9d13e1d64875) |
+| Tue, 24 Jun 2025 18:09:19 GMT | How I Found My First Critical Bug Bounty - Unauthenticated Arbitrary File Upload Lead To LFI via… | terp0x0 | [Read More](https://medium.com/p/5f33c80fc44f) |
+| Tue, 24 Jun 2025 18:04:16 GMT | Hunting Fileless Malware in the Windows Registry | Manuel Arrieta | [Read More](https://medium.com/p/1339ccde00ad) |
+| Tue, 24 Jun 2025 18:01:36 GMT | VIE - Thực hành môn Phân tích Lỗ hổng & Kiểm thử — Đồ án cuối kì | 0click | [Read More](https://medium.com/p/37d0fe621e07) |
+| Tue, 24 Jun 2025 18:00:56 GMT | ISO 27001:2022 Explained — The Ultimate Guide to Modern Information Security | Kshitiz Sharma | [Read More](https://medium.com/p/6f79d881a36e) |
+| Tue, 24 Jun 2025 18:00:30 GMT | What If? — The Blind Date | Liz Sins | [Read More](https://medium.com/p/09f82653349d) |
+| Tue, 24 Jun 2025 17:56:11 GMT | The Firewall of Truth: A Cautionary Tale for Our Industry | Owolabi Pius | [Read More](https://medium.com/p/21b269ff65d1) |
+| Tue, 24 Jun 2025 17:55:10 GMT | Understanding Different Types of Cyber Threats | Harshitkumarvaishnav | [Read More](https://medium.com/p/2218363c31e0) |
+| Tue, 24 Jun 2025 17:49:04 GMT | what can I do to get my money back from Bitcofusion ? | Ficilo | [Read More](https://medium.com/p/dde6819b3fd8) |
+| Tue, 24 Jun 2025 17:48:51 GMT | BCACTF 2025 Write-Up | Mohanad Edrees | [Read More](https://medium.com/p/c803ac53a4db) |
+| Tue, 24 Jun 2025 17:44:47 GMT | Relearning FSRM Skills: Quotas, File Blocking, and VM Restore Mode in Windows Server VM | Tyrik Emptage | [Read More](https://medium.com/p/6752ba60b7c2) |
+| Tue, 24 Jun 2025 17:42:20 GMT | Linux Sysadmin 101: Commands, Concepts & Security You Must Know | Ashish Singh | [Read More](https://medium.com/p/cd193f216e9a) |
+| Tue, 24 Jun 2025 17:34:23 GMT | Elegantly Customizing Spring Cloud OAuth2 Token Return Format with a New Interface | Umesh Kumar Yadav | [Read More](https://medium.com/p/0b8c8ba9d422) |
 | Tue, 24 Jun 2025 17:33:56 GMT | Is it possible to recover my money from Ftxstar ? | Harinic | [Read More](https://medium.com/p/d409641fc6d0) |
 | Tue, 24 Jun 2025 17:30:49 GMT | The AI Agent Security Challenge: A New Frontier in Cybersecurity | noailabs | [Read More](https://medium.com/p/a0735b72dff5) |
 | Tue, 24 Jun 2025 17:29:50 GMT | Ftxstar Reviews: how can I get my money back ? | Harinic | [Read More](https://medium.com/p/b22a9748b0d0) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 13:27:22 GMT | Lookup Walkthrough | Anubhav Bali | [Read More](https://medium.com/p/c2580f588f74) |
 | Tue, 24 Jun 2025 13:27:05 GMT | Top 5 Security Assurances to Check in Alternative HPC Environments — Part 2/2 | WayneReidUK | [Read More](https://medium.com/p/c9b5a634b7f0) |
 | Tue, 24 Jun 2025 13:23:05 GMT | the burden of the eldest | astrelune | [Read More](https://medium.com/p/4653b9f04d20) |
-| Tue, 24 Jun 2025 13:21:33 GMT | Cracking password and brute-force for Reverse Engineering | ELF Pro Free | [Read More](https://medium.com/p/732d647e5296) |
-| Tue, 24 Jun 2025 13:17:11 GMT | FreeType Zero-Day Exploited: Paragon Spyware Campaign Targets Systems Through Font Rendering Flaw. | eL Njas!™ | [Read More](https://medium.com/p/e120c2f66486) |
-| Tue, 24 Jun 2025 13:16:49 GMT | Kubernetes Deployment Best Practices: Building a Resilient and Scalable Future | Abhishek Vala | [Read More](https://medium.com/p/85c7921e915e) |
-| Tue, 24 Jun 2025 13:16:27 GMT | The Hidden Danger of Prompt Injection in Agentic LLM Applications | Tom Wilderspin | [Read More](https://medium.com/p/47fe9b183f94) |
-| Tue, 24 Jun 2025 13:14:49 GMT | HOW A PORT SCAN LED TO A VULNERABILITY IN AN FTP SERVICE + TIPS FOR SCANNING | Tenebris Venator | [Read More](https://medium.com/p/17588027d820) |
-| Tue, 24 Jun 2025 13:09:47 GMT | Stop Phishing Scams with Anti-Phishing Codes | Kostadin Georgiev | [Read More](https://medium.com/p/3c6c2be2933e) |
-| Tue, 24 Jun 2025 13:08:27 GMT | I’m loving you anyway. | this is aj trying~ | [Read More](https://medium.com/p/375b2871c99d) |
-| Tue, 24 Jun 2025 13:01:54 GMT | Reducing Analyst Burnout with Smart Alert Prioritization by Peris.ai | Peris.ai Cybersecurity | [Read More](https://medium.com/p/7ae3bd7cf366) |
-| Tue, 24 Jun 2025 13:00:09 GMT | My Thoughts on Cyber5W Certified Digital Forensics Foundations (CCDFF) — a solid foundation exam… | Chicken0248 | [Read More](https://medium.com/p/281a9485c789) |
-| Tue, 24 Jun 2025 12:58:22 GMT | Malware Analysis: KimJongRAT Returns with a Stealthier Stealer Now in PowerShell | Jon C | [Read More](https://medium.com/p/3537682c6b88) |
-| Tue, 24 Jun 2025 12:58:17 GMT | Six Simple Steps to Stay Safe Online | Keir Finlow-Bates | [Read More](https://medium.com/p/4ddec03f8421) |
-| Tue, 24 Jun 2025 12:57:19 GMT | AI-Driven EDR Showdown: Comparative Analysis and Strategic Forecast for US Enterprises in 2026 | Wes Young | [Read More](https://medium.com/p/b746a3897bd4) |
-| Tue, 24 Jun 2025 12:55:06 GMT | Building Enterprise Cybersecurity in 72 Hours: The Zero-Knowledge Revolution | Alex Sofroniev | [Read More](https://medium.com/p/4d70ab538805) |
-| Tue, 24 Jun 2025 12:52:51 GMT | Vega PwnTillDawn -- 10.150.150.222 Write-Up | Ishengoma | [Read More](https://medium.com/p/48802c7e1124) |
-| Tue, 24 Jun 2025 12:46:27 GMT | India’s Quantum Cybersecurity Leap: How Physics Is Making Communication Unhackable | Tilak Upadhyay | [Read More](https://medium.com/p/906af364104f) |
-| Tue, 24 Jun 2025 12:43:53 GMT | Built a Free Tool to Check If a Website Is Safe , Here’s How It Works and Why I Made It | Rui Lagos | [Read More](https://medium.com/p/bb3d10183108) |
-| Tue, 24 Jun 2025 12:39:12 GMT | How to Protect Your Privacy on WhatsApp, Instagram & Facebook? | AJIT | [Read More](https://medium.com/p/f3bd2c1939af) |
-| Tue, 24 Jun 2025 12:34:33 GMT | Certified AI/ML Pentester (C-AI/MLPen) Exam Review 2025 | Tunahan TEKEOGLU | [Read More](https://medium.com/p/9142bc97f373) |
