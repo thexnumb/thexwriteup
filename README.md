@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 12:31:59 GMT | Reverse Engineering iOS Apps with Hopper Disassembler: From IPA to Jailbreak Detection | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/b913511bfb0d) |
+| Tue, 24 Jun 2025 12:27:08 GMT | Know All Cybersecurity Companies in Germany For Securing Digital Data | Karishma | [Read More](https://medium.com/p/f0c7c472711b) |
+| Tue, 24 Jun 2025 12:17:32 GMT | The Hidden Vulnerability: Why 2FA is Crucial and Magic Links Aren’t Magic | AI Rabbit | [Read More](https://medium.com/p/8a2dba187edd) |
+| Tue, 24 Jun 2025 12:16:20 GMT | HyperLiquid: A New Route for Crypto Money Laundering? | NEFTURE SECURITY I Blockchain Security | [Read More](https://medium.com/p/a7f1dc713d01) |
+| Tue, 24 Jun 2025 12:11:47 GMT | PentestGPT: The Future of Automated Penetration Testing with AI | Saikat Paul | [Read More](https://medium.com/p/b6bf3b2c77bc) |
+| Tue, 24 Jun 2025 12:02:51 GMT | The Dark Side of Swagger UI: How XSS and HTML Injection Can Compromise APIs | coffinxp | [Read More](https://medium.com/p/1b670972a443) |
+| Tue, 24 Jun 2025 12:02:48 GMT | The Rise of Rogue AI: A Warning We Can’t Ignore | TheReviewHive | [Read More](https://medium.com/p/28fda3347778) |
+| Tue, 24 Jun 2025 12:00:35 GMT | Traits of Top Security Guard Companies in Pune | United Guard Force India | [Read More](https://medium.com/p/b4deeae9a543) |
+| Tue, 24 Jun 2025 11:50:26 GMT | When to Use Cloud Transformation Security Services? | Ziya Zoe | [Read More](https://medium.com/p/c7597187dd80) |
+| Tue, 24 Jun 2025 11:47:39 GMT | Deep Dive into SailPoint IIQ: Mastering Identity Management and Lifecycle | Surya Raja | [Read More](https://medium.com/p/6ed83f528399) |
 | Tue, 24 Jun 2025 11:31:47 GMT | ProGuard vs R8 in Android: A Complete Developer’s Guide | Pinankh Patel | [Read More](https://medium.com/p/db73862b4d0a) |
+| Tue, 24 Jun 2025 11:31:36 GMT | HackTheBox Writeup — Armageddon | Simardeep Singh | [Read More](https://medium.com/p/a91800448f26) |
 | Tue, 24 Jun 2025 11:23:53 GMT | Trump’s Military Action Puts Christians in Perilous Situation | mahwish qayyum | [Read More](https://medium.com/p/530125808558) |
 | Tue, 24 Jun 2025 11:22:58 GMT | The $6.08 Million Question: Why Your FinTech App is a Goldmine for Hackers (And How to Stop Them) | Mayank Saxena | [Read More](https://medium.com/p/82dd44ff6935) |
 | Tue, 24 Jun 2025 11:17:29 GMT | eJPT - 3.4 Exploitation | Hammaad M | [Read More](https://medium.com/p/385d9b72621e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 07:24:19 GMT | Fortinet Under Fire: New Auth Bypass Bug Actively Exploited (CVE-2024–55591) | AerieWhole123 | [Read More](https://medium.com/p/c14e761a2827) |
 | Tue, 24 Jun 2025 07:17:05 GMT | What If Someone Could Steal All Your Phone Chats In One Click? (That’s Why We Need Blockchain) | Beyond The Lens by Pooja | [Read More](https://medium.com/p/467aa5d337be) |
 | Tue, 24 Jun 2025 07:12:00 GMT | Kerberoasting: From Ticket to Plaintext Passwords | Vinay Gurjar | [Read More](https://medium.com/p/6060bd906965) |
-| Tue, 24 Jun 2025 07:11:42 GMT | Container Security-Part II- Kubernetes -OWASP Top 10 | Akanksha | [Read More](https://medium.com/p/99a340694437) |
-| Tue, 24 Jun 2025 07:11:13 GMT | Android App Security Checklist: Best Practices for Developers | Kiran Choudhary | [Read More](https://medium.com/p/3929d077183a) |
-| Tue, 24 Jun 2025 07:08:11 GMT | MDE’s DeviceNetworkEvents table [Part 2 — Connection* ActionTypes] | Ethan Bowen | [Read More](https://medium.com/p/1c5ee20d2fc4) |
-| Tue, 24 Jun 2025 07:07:03 GMT | Designing Modular Malware Frameworks à la Equation Group: The Cybersecurity Blueprint You’re Not… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/d6cd9f25c042) |
-| Tue, 24 Jun 2025 07:01:52 GMT | How to Test File Upload Processes in Laravel 12 | andi | [Read More](https://medium.com/p/7bbae23a3890) |
-| Tue, 24 Jun 2025 07:00:45 GMT | Writing Secure Smart Contracts: A Developer’s Guide | Anandi Sheladiya | [Read More](https://medium.com/p/f0499213dde5) |
-| Tue, 24 Jun 2025 06:57:16 GMT | ️ What is Inkjet and Laser Printer | Cost To Cost | [Read More](https://medium.com/p/d348eebcf6dc) |
-| Tue, 24 Jun 2025 06:41:45 GMT | Roundcube: CVE-2025–49113 — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/563df44c1391) |
-| Tue, 24 Jun 2025 06:35:47 GMT | DNS in Detail — TryHackMe | Cheryl Maise Lobo | [Read More](https://medium.com/p/eb0375da4bc4) |
-| Tue, 24 Jun 2025 06:33:36 GMT | Automating AWS WAF Rule Updates from GitLab Threat List | Vinayak Pandey | [Read More](https://medium.com/p/e92bd0b4f1e3) |
-| Tue, 24 Jun 2025 06:31:52 GMT | DOM XSS in document.write sink using source location.search — PortSwigger⚡ | Sumanth Yerranagula | [Read More](https://medium.com/p/b36e2c7425a1) |
