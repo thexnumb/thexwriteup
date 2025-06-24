@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 04:47:43 GMT | Damn Vulnerable Web Application (DVWA); in-depth guide to installing on linux. | Muhammad Dzikry Afandi | [Read More](https://medium.com/p/2c54b5660610) |
+| Tue, 24 Jun 2025 04:37:14 GMT | Hype or Revolution? Learn How Blockchain Impacts Cybersecurity in Top Courses in India | offensoacademy | [Read More](https://medium.com/p/227b0a2bc0a0) |
+| Tue, 24 Jun 2025 04:35:46 GMT | Why ZADOVO Chooses EVM PoA: A New Era for Blockchain Development | ZADOVO BLOCKCHAIN | [Read More](https://medium.com/p/cffdce634622) |
+| Tue, 24 Jun 2025 04:24:06 GMT | Hack Before Attack: Cyber Is the Ultimate Weapon Now in Global Wars | Jai Advani | [Read More](https://medium.com/p/0f242dd10c15) |
+| Tue, 24 Jun 2025 04:15:03 GMT | 16 Billion Passwords Compromised — How Safe Are You? | Rahul Mishra | [Read More](https://medium.com/p/c0acdb0c96e0) |
+| Tue, 24 Jun 2025 04:06:47 GMT | ⚠️ Google Installed This Hidden App Without Your Consent — Here’s How to Remove It | Sal Tech | [Read More](https://medium.com/p/dd5de8dffa19) |
+| Tue, 24 Jun 2025 03:58:38 GMT | The Latest Data Breach Affects Millions — Here's How to Check If You're Exposed and What to Do… | Levi | [Read More](https://medium.com/p/649187e91617) |
+| Tue, 24 Jun 2025 03:56:22 GMT | ประจำวันอังคารที่ 24 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/81b08869b32c) |
+| Tue, 24 Jun 2025 03:56:12 GMT | Exploring the Future of Smart Living: SwitchBot’s Innovative Smart Lock Solutions | Ohlsenbukexisux | [Read More](https://medium.com/p/f876403508c9) |
 | Tue, 24 Jun 2025 03:31:27 GMT | How 4chan Fell to a 13-Year-Old Vulnerability | Deven Chhajed | [Read More](https://medium.com/p/cdb5860081f5) |
 | Tue, 24 Jun 2025 03:29:10 GMT | The Hidden Cybersecurity Superpower You’re Not Using: Asset Management | Biswajeet Poddar | [Read More](https://medium.com/p/6496d8a3b053) |
 | Tue, 24 Jun 2025 02:54:34 GMT | Building Custom Cyber Weapons: From Zero-Day Discovery to Payload Delivery | A-STAR7_DOCTOR | [Read More](https://medium.com/p/822d5fdbdda0) |
@@ -104,12 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 16:57:34 GMT | Key Services Offered by Cybersecurity Solution Providers Today | James Das | [Read More](https://medium.com/p/82baaabcbdfc) |
 | Mon, 23 Jun 2025 16:57:15 GMT | My Virtual HomeLab: Active Directory — Part Four | Cybersec with Hemmars | [Read More](https://medium.com/p/65c66af79114) |
 | Mon, 23 Jun 2025 16:57:06 GMT | From SQLi Discovery to a $4,500 Reward | Monika sharma | [Read More](https://medium.com/p/ecb709e18842) |
-| Mon, 23 Jun 2025 16:56:20 GMT | $800 Bounty: HTTP Response Header Injection in Shopify’s Pitchfork + Rack 3 | Monika sharma | [Read More](https://medium.com/p/0d95b2560eb1) |
-| Mon, 23 Jun 2025 16:56:05 GMT | Why Google passwords leaked? | Levi Smith | [Read More](https://medium.com/p/c7fcf001f477) |
-| Mon, 23 Jun 2025 16:53:24 GMT | Reddit may soon ask: “Mind if I scan your eye? | Web Designer Depot | [Read More](https://medium.com/p/f3427d2901ce) |
-| Mon, 23 Jun 2025 16:51:04 GMT | CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect (PAN-OS) Exploit Analysis & PoC | krish | [Read More](https://medium.com/p/7468e29fc7a3) |
-| Mon, 23 Jun 2025 16:46:42 GMT | $5,300 Bounty: Critical Flaw in Brave Browser | Monika sharma | [Read More](https://medium.com/p/b569234d11b5) |
-| Mon, 23 Jun 2025 16:37:30 GMT | Use SMART to Predict Storage Problems | ULINK DA Drive Analyzer | [Read More](https://medium.com/p/228d67f2073c) |
-| Mon, 23 Jun 2025 16:35:38 GMT | Keeping It Real | Nimisha Ajaikumar | [Read More](https://medium.com/p/2a3f9bb72048) |
-| Mon, 23 Jun 2025 16:28:02 GMT | The Face of Malware - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/448ac5ea9029) |
-| Mon, 23 Jun 2025 16:25:55 GMT | 16 billion Passwords Leaked: Why Traditional Logins Are Failing and How Rainbow Secure Keeps You… | Dr. Shashi Karhail | [Read More](https://medium.com/p/98d228587b45) |
