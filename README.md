@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 21:28:02 GMT | Best Practices: The 6 Prompt Engineering Hacks That Saved My DevOps Sanity (And 180+ Hours) | AbdulRahman Mostafa | [Read More](https://medium.com/p/0e3c4ff4ae83) |
+| Tue, 24 Jun 2025 21:26:41 GMT | Cyberwarfare Targeting Undersea Cables and Satellite Mesh Networks | A-STAR7_DOCTOR | [Read More](https://medium.com/p/1c54ac5949ea) |
+| Tue, 24 Jun 2025 21:22:50 GMT | Inside the Explicit Forward Proxy: Building Secure Layer 4 Forwarding (Pa | Golden Girl Geeks | [Read More](https://medium.com/p/6c8f198cfcf6) |
+| Tue, 24 Jun 2025 21:21:41 GMT | Home Video Surveillance — How Criminals Trick Your Wireless Camera For Less Than 50 € | Ricardo S. | [Read More](https://medium.com/p/15512d7805c7) |
+| Tue, 24 Jun 2025 21:21:22 GMT | Situational Awareness: Manage Your Security Team’s Communications Like the Special Forces Do | Ricardo S. | [Read More](https://medium.com/p/69109a29fe99) |
+| Tue, 24 Jun 2025 21:20:43 GMT | Mastercard Cybersecurity Job Simulation | Shazal Ahmad | [Read More](https://medium.com/p/2a983fbf5b79) |
+| Tue, 24 Jun 2025 21:15:04 GMT | “Who hasn’t?” — Guilt, Shame, and the Mental Maze in the Days After | WhisperingPages | [Read More](https://medium.com/p/7303706c7290) |
 | Tue, 24 Jun 2025 21:02:59 GMT | Psychology and Sex: Unlocking the Secrets of Intimacy and Connection | Adriana - Psychology Lecturer & Mum | [Read More](https://medium.com/p/81096fde7605) |
 | Tue, 24 Jun 2025 21:00:55 GMT | How Secure Is Power BI for Enterprise Data? | Techridge Solutions | [Read More](https://medium.com/p/7e5d242f5f13) |
 | Tue, 24 Jun 2025 21:00:10 GMT | I’m Afraid I’ll Fall in Love One Day | Kaleigh Dugan | [Read More](https://medium.com/p/c121edacfb01) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 15:58:06 GMT | Cybersecurity Trends 2025: Smarter Hacks, Smarter Defenses | InnoveusIT | [Read More](https://medium.com/p/0f929b62e176) |
 | Tue, 24 Jun 2025 15:47:29 GMT | The Smartest Target: Why AI is the Next Battlefield in Healthcare Cybersecurity | Travis Ray Caverhill | [Read More](https://medium.com/p/226fbe4e08d5) |
 | Tue, 24 Jun 2025 15:42:48 GMT | If Nobody Ever Called You “Honey” | maple syrup fox | [Read More](https://medium.com/p/0f5c6a2bc400) |
-| Tue, 24 Jun 2025 15:39:49 GMT | Strengthening Your SOC: The Essential Analyst’s Guide | Jonathan M. | [Read More](https://medium.com/p/3f58702520cf) |
-| Tue, 24 Jun 2025 15:35:49 GMT | #67 — Vitamin Supplements for Personal Bonds | Christian Augspurg | [Read More](https://medium.com/p/900c0b6afcf1) |
-| Tue, 24 Jun 2025 15:35:18 GMT | Is Your Phone Being Hacked? 6 Warning Signs You Should Never Ignore | Sanjuh | [Read More](https://medium.com/p/c020730b278d) |
-| Tue, 24 Jun 2025 15:33:34 GMT | The Homeowner’s Guide to Security Garden Lighting Cambridgeshire | Glowbolt | [Read More](https://medium.com/p/03109459d414) |
-| Tue, 24 Jun 2025 15:32:56 GMT | You’re Not Safe Online Until You Know These 5 Cybersecurity Secrets | Sanjuh | [Read More](https://medium.com/p/a883f06f3db7) |
-| Tue, 24 Jun 2025 15:30:08 GMT | 5 Essential Cybersecurity Tips Every Beginner Should Know | Sanjuh | [Read More](https://medium.com/p/f27687732c9a) |
-| Tue, 24 Jun 2025 15:26:44 GMT | Event Protection Made Easy: Best Security Services Peterborough Offers | Glowbolt | [Read More](https://medium.com/p/106e16b6a617) |
