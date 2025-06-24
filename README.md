@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 21:02:59 GMT | Psychology and Sex: Unlocking the Secrets of Intimacy and Connection | Adriana - Psychology Lecturer & Mum | [Read More](https://medium.com/p/81096fde7605) |
+| Tue, 24 Jun 2025 21:00:55 GMT | How Secure Is Power BI for Enterprise Data? | Techridge Solutions | [Read More](https://medium.com/p/7e5d242f5f13) |
+| Tue, 24 Jun 2025 21:00:10 GMT | I’m Afraid I’ll Fall in Love One Day | Kaleigh Dugan | [Read More](https://medium.com/p/c121edacfb01) |
+| Tue, 24 Jun 2025 20:56:33 GMT | TryHackMe Write-up: Wireshark — Traffic Analysis | Robert Onyango | [Read More](https://medium.com/p/18fb948c32c9) |
+| Tue, 24 Jun 2025 20:51:31 GMT | AI and cybersecurity: Emerging risks for technical organizations | José Fernández Alameda | [Read More](https://medium.com/p/da9bf80b1e33) |
+| Tue, 24 Jun 2025 20:47:11 GMT | The Perfect Illusion: How Deepfakes Are Hijacking Reality | Ibrahim Ali | [Read More](https://medium.com/p/f57c2c4545cc) |
+| Tue, 24 Jun 2025 20:43:05 GMT | Hunting Fileless Malware: A Technical Dive with Sysmon and MITRE ATT&CK | Damag3dRoot | [Read More](https://medium.com/p/971fc0c147f3) |
+| Tue, 24 Jun 2025 20:41:49 GMT | How to Know if Your Business Is “Compliant Enough” Under NIS2 | J Bodys | [Read More](https://medium.com/p/a97145e9f44d) |
 | Tue, 24 Jun 2025 20:21:34 GMT | Securing PostgreSQL with SSL/TLS: A Comprehensive Implementation Guide | Kerian Amin N | [Read More](https://medium.com/p/9b210be21c3f) |
 | Tue, 24 Jun 2025 20:11:10 GMT | ️ Inside a Red Team Physical Assessment: From Reception to Domain Access | Saumitra Kulkarni (N0F4C3) | [Read More](https://medium.com/p/d17dfaefcc19) |
 | Tue, 24 Jun 2025 20:00:12 GMT | Role of AI in Threat Detection: Benefits, Use Cases, Best Practices | IT_Engineer | [Read More](https://medium.com/p/21cea14acd22) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 15:32:56 GMT | You’re Not Safe Online Until You Know These 5 Cybersecurity Secrets | Sanjuh | [Read More](https://medium.com/p/a883f06f3db7) |
 | Tue, 24 Jun 2025 15:30:08 GMT | 5 Essential Cybersecurity Tips Every Beginner Should Know | Sanjuh | [Read More](https://medium.com/p/f27687732c9a) |
 | Tue, 24 Jun 2025 15:26:44 GMT | Event Protection Made Easy: Best Security Services Peterborough Offers | Glowbolt | [Read More](https://medium.com/p/106e16b6a617) |
-| Tue, 24 Jun 2025 15:25:24 GMT | 175k Bonus Points | Chris DeMuth Jr | [Read More](https://medium.com/p/b3bdc291a3d3) |
-| Tue, 24 Jun 2025 15:20:43 GMT | “Deep Dive into Metasploit” | Salma Muhamed | [Read More](https://medium.com/p/acc622678bee) |
-| Tue, 24 Jun 2025 15:20:31 GMT | Cloud Security Misconfigurations: The Silent Cyber Threat | Akitra | [Read More](https://medium.com/p/aea1eb70ddf6) |
-| Tue, 24 Jun 2025 15:15:23 GMT | OSCP+ Exam Review: My Journey Through Failure, Preparation, and Passing | Hacker's Perspective | [Read More](https://medium.com/p/53aaed5ef219) |
-| Tue, 24 Jun 2025 15:06:39 GMT | From Pathogens to Phishing | Joe Munene | [Read More](https://medium.com/p/f7a1757f0802) |
-| Tue, 24 Jun 2025 15:04:55 GMT | Quiet Suffering: | Hansdahsneha | [Read More](https://medium.com/p/87068fa466b1) |
-| Tue, 24 Jun 2025 15:04:30 GMT | DDoS-Angriffe auf Apache-Webserver: Was sie sind und wie man sich einfach schützt | RedTeamer IT Security | [Read More](https://medium.com/p/3eacd3f7739a) |
-| Tue, 24 Jun 2025 15:02:38 GMT | Swimming : Should I learn or not | Anujap | [Read More](https://medium.com/p/06ae61414cc3) |
