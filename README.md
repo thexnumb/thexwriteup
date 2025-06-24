@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 11:09:15 GMT | CybersecurityHow Do Online Cybersecurity Courses Help You Deal With Digital Threats In Real Life? | Richard Charles | [Read More](https://medium.com/p/317d39617629) |
+| Tue, 24 Jun 2025 11:06:20 GMT | What Happens When a Healthcare Provider Falls Victim to Ransomware? | Finstein.ai | [Read More](https://medium.com/p/4fae95b14ffd) |
+| Tue, 24 Jun 2025 11:01:36 GMT | Executive Footprints: Why Your Old Profiles Still Matter (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/8bcc2b9f7b2a) |
+| Tue, 24 Jun 2025 11:00:02 GMT | Your Home Security | Target securitygroup | [Read More](https://medium.com/p/3c698fd8cb83) |
+| Tue, 24 Jun 2025 10:54:31 GMT | TryHackMe Watcher — Walkthrough | mauzware | [Read More](https://medium.com/p/afab576dad15) |
+| Tue, 24 Jun 2025 10:52:40 GMT | Secure Your Communication: Generate and Export GPG Keys via Command Prompt | Deepika | [Read More](https://medium.com/p/e62c5e1d11a0) |
 | Tue, 24 Jun 2025 10:44:50 GMT | The Daily Tech Digest: 24 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/1cc60004360a) |
 | Tue, 24 Jun 2025 10:36:39 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/5d436f877cd5) |
 | Tue, 24 Jun 2025 10:35:57 GMT | Fraud.net’s collective AI intelligence builds an ever growing fraud prevention moat. | Peter Bordes | [Read More](https://medium.com/p/c623d72d650c) |
@@ -51,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 09:01:39 GMT | The Great NATO Defence Spending Illusion | Brian Iselin | [Read More](https://medium.com/p/9a9a2c1ae67b) |
 | Tue, 24 Jun 2025 09:00:22 GMT | How to start a career in IT 2025 | BrokieWorkie | [Read More](https://medium.com/p/21e5872a0b8b) |
 | Tue, 24 Jun 2025 08:59:26 GMT | Unmasking the Manipulators: Identifying and Avoiding Social Engineering Tactics | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/651ffe198871) |
+| Tue, 24 Jun 2025 08:58:09 GMT | Phishing: Jebakan Digital yang Paling Umum dan Cara Menghindarinya | Koswara | [Read More](https://medium.com/p/745a3a1d8e0f) |
 | Tue, 24 Jun 2025 08:56:39 GMT | Mastering External API Authentication in Salesforce: From Named Credentials to Interface-Driven… | Musa Ndlala | [Read More](https://medium.com/p/c8112d37d731) |
 | Tue, 24 Jun 2025 08:56:39 GMT | Top 5 Cybersecurity Threats You Need to Know in 2025 | Technology Journal | [Read More](https://medium.com/p/e6e5440a3c63) |
 | Tue, 24 Jun 2025 08:53:20 GMT | Decoding Digital Dangers: Common Cybersecurity Threats Explained — Part 2 | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/9010d35a6064) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 06:23:59 GMT | How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing | Kongsec | [Read More](https://medium.com/p/a03a354df2cf) |
 | Tue, 24 Jun 2025 06:18:30 GMT | Remote File Inclusion (RFI) — Full Breakdown for Beginners | Shah kaif | [Read More](https://medium.com/p/7f89c55e3b2a) |
 | Tue, 24 Jun 2025 06:16:25 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Fuad | [Read More](https://medium.com/p/862b00bc426e) |
-| Tue, 24 Jun 2025 06:07:09 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/57a89bf1c83a) |
-| Tue, 24 Jun 2025 05:59:35 GMT | I started this journey in cybersecurity with nothing but a curious mind, a secondhand laptop, and… | Sanni idris | [Read More](https://medium.com/p/915abac38ffa) |
-| Tue, 24 Jun 2025 05:59:05 GMT | Why is SOC 2 Important? | Securis360 Inc. | [Read More](https://medium.com/p/3c74cd85d3b7) |
-| Tue, 24 Jun 2025 05:59:01 GMT | Gave Up Sugar for 30 Days — Here’s What No One Tells You” | S Anuradha | [Read More](https://medium.com/p/832b674c752e) |
-| Tue, 24 Jun 2025 05:56:00 GMT | I Built Zero Trust While They Were Playing Security Theater | Jason Smith | [Read More](https://medium.com/p/f14a3a519fc6) |
-| Tue, 24 Jun 2025 05:49:54 GMT | The Largest Credential Leak in History: 16 Billion Passwords Exposed — What You Need to Know in… | Stealseek | [Read More](https://medium.com/p/f8963f0b7fd3) |
-| Tue, 24 Jun 2025 05:43:33 GMT | You’re Missing Bugs If You’re Not Reconning Like This | Đeepanshu | [Read More](https://medium.com/p/c037e0fbbb8a) |
