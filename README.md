@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 14:33:17 GMT | Cyberstition: How Superstition and Cultural Beliefs Fuel Digital Scams | O. J. Okpabi | [Read More](https://medium.com/p/7d1a41b06900) |
+| Tue, 24 Jun 2025 14:32:49 GMT | Why I Can’t Say “I Miss You” — Even When I Do | The Veiled Versifier | [Read More](https://medium.com/p/cebbbe00c8af) |
+| Tue, 24 Jun 2025 14:32:03 GMT | What Is a Summer Internship and How to Know If It’s Right for You? | Vijay Kumar Gupta | [Read More](https://medium.com/p/bc711f234699) |
+| Tue, 24 Jun 2025 14:31:32 GMT | 开源的安全悖论 | Revan Zhang | [Read More](https://medium.com/p/39902bc0e0a9) |
+| Tue, 24 Jun 2025 14:27:05 GMT | Can a Python Script Be a Threat Intel Assistant? *I Tried to Build One* | Praful Kalal | [Read More](https://medium.com/p/cc7c6ef16661) |
+| Tue, 24 Jun 2025 14:24:35 GMT | API05:2023 — Broken Function Level Authorization | Suhel Kathi | [Read More](https://medium.com/p/d0435077e022) |
+| Tue, 24 Jun 2025 14:19:17 GMT | What Every Defender Should Know About Core Windows Processes Part-1 | Sourav kumawat | [Read More](https://medium.com/p/1569077d871d) |
+| Tue, 24 Jun 2025 14:18:52 GMT | PicoCTF: Clutter-Overflow | Kenyon Bias | [Read More](https://medium.com/p/883bcfead032) |
 | Tue, 24 Jun 2025 14:17:28 GMT | The 5 Costliest Cybersecurity Incidents of 2024–2025: Lessons, Losses, and Prevention Strategies | Ashvini kumar upadhyay | [Read More](https://medium.com/p/e27eb11477bf) |
 | Tue, 24 Jun 2025 14:07:51 GMT | Why Identity-First Security is the Key to Scalable AI Adoption in 2025 | SecureFLO | [Read More](https://medium.com/p/0f58df720129) |
 | Tue, 24 Jun 2025 14:01:27 GMT | The Netropy Principles, a short Interlude | Peter Hübel | [Read More](https://medium.com/p/ba95eeb74658) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 08:58:09 GMT | Phishing: Jebakan Digital yang Paling Umum dan Cara Menghindarinya | Koswara | [Read More](https://medium.com/p/745a3a1d8e0f) |
 | Tue, 24 Jun 2025 08:56:39 GMT | Mastering External API Authentication in Salesforce: From Named Credentials to Interface-Driven… | Musa Ndlala | [Read More](https://medium.com/p/c8112d37d731) |
 | Tue, 24 Jun 2025 08:56:39 GMT | Top 5 Cybersecurity Threats You Need to Know in 2025 | Technology Journal | [Read More](https://medium.com/p/e6e5440a3c63) |
-| Tue, 24 Jun 2025 08:53:20 GMT | Decoding Digital Dangers: Common Cybersecurity Threats Explained — Part 2 | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/9010d35a6064) |
-| Tue, 24 Jun 2025 08:51:41 GMT | Serverless, Not Senseless: How I Exploited Cloud Functions to Peek Into the Backend ☁️ | Iski | [Read More](https://medium.com/p/847981fa9e2a) |
-| Tue, 24 Jun 2025 08:51:31 GMT | How Professional Security Services Safeguard Business Continuity | ICORP Security | [Read More](https://medium.com/p/380e9aff81f2) |
-| Tue, 24 Jun 2025 08:49:30 GMT | Decoding Digital Dangers: Common Cybersecurity Threats Explained — Part 1 | Reginald Dion Wilkerson II | [Read More](https://medium.com/p/465589fd6f2e) |
-| Tue, 24 Jun 2025 08:48:29 GMT | China-Linked Salt Typhoon Exploits Open-Source Tools in Stealthy Espionage Campaign | CyBlog | [Read More](https://medium.com/p/2faef742c6e5) |
-| Tue, 24 Jun 2025 08:45:17 GMT | Not a Journal, I Know | Isha | [Read More](https://medium.com/p/e33e5f7b6afd) |
-| Tue, 24 Jun 2025 08:40:53 GMT | Login Service in Java with Spring Boot and Ultra-Secure Password Matching | CodeSculptorX | [Read More](https://medium.com/p/1c5c1f2290a5) |
-| Tue, 24 Jun 2025 08:36:33 GMT | Fix Insufficient Transport Layer Protection in Symfony | Pentest_Testing_Corp | [Read More](https://medium.com/p/e02417763a74) |
