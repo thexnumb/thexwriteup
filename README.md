@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 16:46:42 GMT | In a World of GenAI, File Formats Are So 20th Century | Saikat Paul | [Read More](https://medium.com/p/65db207ebcb1) |
+| Tue, 24 Jun 2025 16:45:59 GMT | what should I do to recoup my money from Cointp4u ? | Halle | [Read More](https://medium.com/p/16cb2f00400c) |
+| Tue, 24 Jun 2025 16:42:06 GMT | here’s how i recover my money from Cointp4u | Halle | [Read More](https://medium.com/p/075adad23b72) |
+| Tue, 24 Jun 2025 16:36:26 GMT | Real or Fake: When Truth Becomes a Digital Illusion | IBC | [Read More](https://medium.com/p/67575fbb8085) |
+| Tue, 24 Jun 2025 16:33:26 GMT | 16 billion passwords leaked: how not to become the next victim | DexNet Technologies | [Read More](https://medium.com/p/3d8ed0fd9949) |
+| Tue, 24 Jun 2025 16:32:49 GMT | Five Titans of API Gateways: A Deep Dive into OpenResty, Kong, Zuul, Zuul 2, and Spring Cloud… | Umesh Kumar Yadav | [Read More](https://medium.com/p/dde987900040) |
+| Tue, 24 Jun 2025 16:31:40 GMT | Phishing, Malware & Ransomware: Know Your Digital Enemies | Joy Saha | [Read More](https://medium.com/p/99d5454d7ef5) |
+| Tue, 24 Jun 2025 16:29:03 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/5dd6ffed0af1) |
+| Tue, 24 Jun 2025 16:27:53 GMT | No Auth, No Problem? How 184,000 Exposed Ray Dashboards Are Putting AI Infrastructure at Risk | hacker_might | [Read More](https://medium.com/p/fe737116afa8) |
+| Tue, 24 Jun 2025 16:27:13 GMT | cyberdudebivash .We | Iambivash Bn | [Read More](https://medium.com/p/1addf646b815) |
+| Tue, 24 Jun 2025 16:24:14 GMT | PSU Cybersecurity and Data Privacy Days ครั้งที่ 2: Cybersecurity and AI | Thanutham Tuktian | [Read More](https://medium.com/p/cc5158ccbe9c) |
 | Tue, 24 Jun 2025 16:18:27 GMT | Secrets don’t stay small as your stack grows | Amber Britton | [Read More](https://medium.com/p/a5e04b6c5241) |
 | Tue, 24 Jun 2025 16:16:27 GMT | Mobil Uygulamalarda API Güvenliği | selvisongulgozlugol | [Read More](https://medium.com/p/f052fac6ea60) |
 | Tue, 24 Jun 2025 16:13:54 GMT | War | Toluwani David-King | [Read More](https://medium.com/p/fb3106738aa6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 11:06:20 GMT | What Happens When a Healthcare Provider Falls Victim to Ransomware? | Finstein.ai | [Read More](https://medium.com/p/4fae95b14ffd) |
 | Tue, 24 Jun 2025 11:01:36 GMT | Executive Footprints: Why Your Old Profiles Still Matter (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/8bcc2b9f7b2a) |
 | Tue, 24 Jun 2025 11:00:02 GMT | Your Home Security | Target securitygroup | [Read More](https://medium.com/p/3c698fd8cb83) |
-| Tue, 24 Jun 2025 10:54:31 GMT | TryHackMe Watcher — Walkthrough | mauzware | [Read More](https://medium.com/p/afab576dad15) |
-| Tue, 24 Jun 2025 10:52:40 GMT | Secure Your Communication: Generate and Export GPG Keys via Command Prompt | Deepika | [Read More](https://medium.com/p/e62c5e1d11a0) |
-| Tue, 24 Jun 2025 10:44:50 GMT | The Daily Tech Digest: 24 June 2025 | Souren Stepanyan | [Read More](https://medium.com/p/1cc60004360a) |
-| Tue, 24 Jun 2025 10:36:39 GMT | Resumen de novedades: Inteligencia Artificial & Tecnologías de Información | Dario Bernabeu | [Read More](https://medium.com/p/5d436f877cd5) |
-| Tue, 24 Jun 2025 10:35:57 GMT | Fraud.net’s collective AI intelligence builds an ever growing fraud prevention moat. | Peter Bordes | [Read More](https://medium.com/p/c623d72d650c) |
-| Tue, 24 Jun 2025 10:35:35 GMT | “picoCTF Challenge Solutions: A Beginner’s Journey” | Harrison Esther | [Read More](https://medium.com/p/29cbb33098f6) |
-| Tue, 24 Jun 2025 10:33:52 GMT | Hacking DC 3 — Vulnhub Walkthrough | Calvaryhasarrived | [Read More](https://medium.com/p/4fdbedceaeb0) |
-| Tue, 24 Jun 2025 10:32:57 GMT | PHP file Upload Security: A complete guide to protecting your web application | Roman Huliak | [Read More](https://medium.com/p/cc769734f38b) |
-| Tue, 24 Jun 2025 10:32:27 GMT | How Masculine Energy Changes When You’re in Love (and Why That’s Not Weak) | Joti's Jot | [Read More](https://medium.com/p/9d7c34753bd5) |
-| Tue, 24 Jun 2025 10:31:31 GMT | “Still Using SHA-256? Here’s What Modern Java Devs Are Doing for Password Security” ‍ | Shubham Vartak | [Read More](https://medium.com/p/9cf973428beb) |
-| Tue, 24 Jun 2025 10:26:04 GMT | Beyond the Firewall: Reinventing Cyber-Defense Services | Silvia | [Read More](https://medium.com/p/218cee2110e9) |
