@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 03:31:27 GMT | How 4chan Fell to a 13-Year-Old Vulnerability | Deven Chhajed | [Read More](https://medium.com/p/cdb5860081f5) |
+| Tue, 24 Jun 2025 03:29:10 GMT | The Hidden Cybersecurity Superpower You’re Not Using: Asset Management | Biswajeet Poddar | [Read More](https://medium.com/p/6496d8a3b053) |
 | Tue, 24 Jun 2025 02:54:34 GMT | Building Custom Cyber Weapons: From Zero-Day Discovery to Payload Delivery | A-STAR7_DOCTOR | [Read More](https://medium.com/p/822d5fdbdda0) |
 | Tue, 24 Jun 2025 02:45:43 GMT | Practical Guide to Using vexctl with Trivy for CVE Scan Reports | Bill WANG | [Read More](https://medium.com/p/041f5686ecc5) |
 | Tue, 24 Jun 2025 02:42:05 GMT | What Are HTTP Headers — And How Do They Keep Your Site Secure? | Quella | [Read More](https://medium.com/p/71865410d611) |
@@ -111,5 +113,3 @@ Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7
 | Mon, 23 Jun 2025 16:35:38 GMT | Keeping It Real | Nimisha Ajaikumar | [Read More](https://medium.com/p/2a3f9bb72048) |
 | Mon, 23 Jun 2025 16:28:02 GMT | The Face of Malware - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/448ac5ea9029) |
 | Mon, 23 Jun 2025 16:25:55 GMT | 16 billion Passwords Leaked: Why Traditional Logins Are Failing and How Rainbow Secure Keeps You… | Dr. Shashi Karhail | [Read More](https://medium.com/p/98d228587b45) |
-| Mon, 23 Jun 2025 16:25:32 GMT | Case Study 3: APT29 and the SolarWinds Supply Chain Breach | Agarwaldaksh | [Read More](https://medium.com/p/68bca3000b3a) |
-| Mon, 23 Jun 2025 16:20:18 GMT | SQL Injection in 2025: Why This Zombie Threat Keeps Rising from the Grave | NickyCammarata | [Read More](https://medium.com/p/29bc6066efd2) |
