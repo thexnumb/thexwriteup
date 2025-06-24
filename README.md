@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 09:42:43 GMT | The Impact of Artificial Intelligence on Cybersecurity: How AI Is Reshaping Threat Detection and… | Folakunmi Adebayo | [Read More](https://medium.com/p/50dd84dcc29a) |
+| Tue, 24 Jun 2025 09:40:32 GMT | Building a Security Operations Center (SOC) Part - I | Intruder | [Read More](https://medium.com/p/4a3e5b1e1419) |
+| Tue, 24 Jun 2025 09:37:41 GMT | Cyber Risk Quantification: Moving Beyond Fear-Based Budgeting | Fintont | [Read More](https://medium.com/p/8d757db514be) |
+| Tue, 24 Jun 2025 09:31:49 GMT | Machine Learning vs Deep Learning in Cybersecurity: A Business Leader’s Guide | Paul Sherman | [Read More](https://medium.com/p/b50bbce4c7d9) |
+| Tue, 24 Jun 2025 09:29:48 GMT | FOFA Dorking - Part 8 | AbhirupKonwar | [Read More](https://medium.com/p/13f2b79af026) |
+| Tue, 24 Jun 2025 09:22:30 GMT | Building Next-Generation Distributed Systems: Performance, Transparency, and Verifiable Computing | Tenzro | [Read More](https://medium.com/p/aa01f2401859) |
+| Tue, 24 Jun 2025 09:21:44 GMT | Infrastructure Management via VMmanager API and Ansible | ISPsystem | [Read More](https://medium.com/p/a7f6fc79a071) |
+| Tue, 24 Jun 2025 09:21:33 GMT | 5 Reasons to Hire a Security Guard for Your Club, Bar, or Private Event | NY NightLife Security | [Read More](https://medium.com/p/333084afdfd2) |
+| Tue, 24 Jun 2025 09:17:49 GMT | TNB’s New Electricity Tariff — Malaysia | MattLifeTech | [Read More](https://medium.com/p/8272fc24adf6) |
+| Tue, 24 Jun 2025 09:14:07 GMT | Cyber Threat Intelligence: Staying Ahead of Attacks | TCCI Computer Coaching | [Read More](https://medium.com/p/e0a49479ad06) |
 | Tue, 24 Jun 2025 09:11:11 GMT | Bank Security Guard Services That Protect Your Financial Future | Sumintra | [Read More](https://medium.com/p/52e853d35c33) |
 | Tue, 24 Jun 2025 09:09:56 GMT | Inside Iran’s Internet Blackout: Cyber Defense or Digital Oppression? | Mohamed Naoui | [Read More](https://medium.com/p/98368f216283) |
 | Tue, 24 Jun 2025 09:09:47 GMT | Langflow RCE Bug Hits AI Devs — Here’s How to Lock It Down | Mr.PlanB | [Read More](https://medium.com/p/7b48e881d500) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Jun 2025 04:15:03 GMT | 16 Billion Passwords Compromised — How Safe Are You? | Rahul Mishra | [Read More](https://medium.com/p/c0acdb0c96e0) |
 | Tue, 24 Jun 2025 04:06:47 GMT | ⚠️ Google Installed This Hidden App Without Your Consent — Here’s How to Remove It | Sal Tech | [Read More](https://medium.com/p/dd5de8dffa19) |
 | Tue, 24 Jun 2025 03:58:38 GMT | The Latest Data Breach Affects Millions — Here's How to Check If You're Exposed and What to Do… | Levi | [Read More](https://medium.com/p/649187e91617) |
-| Tue, 24 Jun 2025 03:56:22 GMT | ประจำวันอังคารที่ 24 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/81b08869b32c) |
-| Tue, 24 Jun 2025 03:56:12 GMT | Exploring the Future of Smart Living: SwitchBot’s Innovative Smart Lock Solutions | Ohlsenbukexisux | [Read More](https://medium.com/p/f876403508c9) |
-| Tue, 24 Jun 2025 03:31:27 GMT | How 4chan Fell to a 13-Year-Old Vulnerability | Deven Chhajed | [Read More](https://medium.com/p/cdb5860081f5) |
-| Tue, 24 Jun 2025 03:29:10 GMT | The Hidden Cybersecurity Superpower You’re Not Using: Asset Management | Biswajeet Poddar | [Read More](https://medium.com/p/6496d8a3b053) |
-| Tue, 24 Jun 2025 02:54:34 GMT | Building Custom Cyber Weapons: From Zero-Day Discovery to Payload Delivery | A-STAR7_DOCTOR | [Read More](https://medium.com/p/822d5fdbdda0) |
-| Tue, 24 Jun 2025 02:45:43 GMT | Practical Guide to Using vexctl with Trivy for CVE Scan Reports | Bill WANG | [Read More](https://medium.com/p/041f5686ecc5) |
-| Tue, 24 Jun 2025 02:42:05 GMT | What Are HTTP Headers — And How Do They Keep Your Site Secure? | Quella | [Read More](https://medium.com/p/71865410d611) |
-| Tue, 24 Jun 2025 02:41:26 GMT | Top Security Tips for AI-Driven Applications in 2025: Stay Protected | Afrith Techie | [Read More](https://medium.com/p/732b1229e76e) |
-| Tue, 24 Jun 2025 02:28:25 GMT | I Fell Down a YouTube Rabbit Hole at 2 AM and Discovered People Get Paid to Be Hackers. Legally. | iTheOnlyMe | [Read More](https://medium.com/p/ccb3246601ec) |
-| Tue, 24 Jun 2025 02:28:13 GMT | Week 2: Understanding Data Loss Prevention (DLP) | Cyber_talks_with_Srikari | [Read More](https://medium.com/p/0cff29b71d38) |
