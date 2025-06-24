@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Jun 2025 08:25:47 GMT | Breaking a monolith : security challenges of migrating a big app to multi-services | Solal Besnard | [Read More](https://medium.com/p/4944609df8b1) |
+| Tue, 24 Jun 2025 08:17:49 GMT | Best Linux Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/00ddf225681e) |
+| Tue, 24 Jun 2025 08:16:55 GMT | What is Cyber Security? A Complete Beginner’s Guide | Simplilearn | [Read More](https://medium.com/p/cc21a33bf59f) |
+| Tue, 24 Jun 2025 08:13:24 GMT | Red vs Blue Team Mini Lab: Hydra vs Wazuh Monitoring | Rafi R | [Read More](https://medium.com/p/264a5ea95525) |
+| Tue, 24 Jun 2025 08:10:01 GMT | Top 10 ISO 27001 Certification Companies Leading Global Security | SecureSlate | [Read More](https://medium.com/p/7fe74df7dd37) |
+| Tue, 24 Jun 2025 08:06:06 GMT | I Thought Being in Charge Meant I Had Control — Until IT Took Over My AI Product | Anil Jangra, MBA | [Read More](https://medium.com/p/d89ae1b307a6) |
+| Tue, 24 Jun 2025 08:02:55 GMT | Europe IT Spending Market Size, Share, Data & Forecast 2034 | Saurabhbadoni | [Read More](https://medium.com/p/f80554233a71) |
+| Tue, 24 Jun 2025 07:59:58 GMT | Online Doctorate in Cybersecurity - Lead Global Cyber Defense Strategies | Mbaprofessional | [Read More](https://medium.com/p/f897eac61183) |
+| Tue, 24 Jun 2025 07:57:54 GMT | Still Using Sessions? Try Fluid Identity Anchors for Stateless PHP | Asian Digital Hub | [Read More](https://medium.com/p/5b1f9ed4fb97) |
+| Tue, 24 Jun 2025 07:48:13 GMT | Understanding OSI and TCP/IP Models Like a Hacker | err0rgod | [Read More](https://medium.com/p/428f52d05891) |
+| Tue, 24 Jun 2025 07:45:05 GMT | A Day in the Life of a Cloud Security Engineer: The Complete Guide | Saikat Paul | [Read More](https://medium.com/p/75ad93fa9581) |
+| Tue, 24 Jun 2025 07:42:53 GMT | WebSocket Attacks — The protocol that dances under your security radar (POC inside) | phoenixcatalan | [Read More](https://medium.com/p/7b327b51c7ba) |
+| Tue, 24 Jun 2025 07:41:41 GMT | Today’s Top Cyber Intelligence Highlights — Jun 24, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/804660969c80) |
+| Tue, 24 Jun 2025 07:41:15 GMT | The Uppercase Escape: Breaking Endpoint Restrictions via Case-Sensitivity | Muthu | [Read More](https://medium.com/p/075ddd5d14e4) |
+| Tue, 24 Jun 2025 07:41:10 GMT | Blockchain and Web3 Smart Contract Exploits: The Next Frontier in Bug Hunting | Monika sharma | [Read More](https://medium.com/p/f10521fb8cc9) |
 | Tue, 24 Jun 2025 07:40:37 GMT | How I Turned a Mall Parking System Into a Real-Time Car Tracker | Héctor Martos | [Read More](https://medium.com/p/da088110979e) |
 | Tue, 24 Jun 2025 07:37:18 GMT | Cybersecurity and National Sovereignty: India’s Policy Readiness | Zenstudy | [Read More](https://medium.com/p/83db6cce1eb7) |
 | Tue, 24 Jun 2025 07:31:52 GMT | Popular Bug Bounty Platforms for Beginners: Your Complete Guide to Getting Started | Andrei Ivan | [Read More](https://medium.com/p/22eb72f3f63f) |
+| Tue, 24 Jun 2025 07:31:52 GMT | HackTheBox Writeup — Time | Simardeep Singh | [Read More](https://medium.com/p/86f735917942) |
 | Tue, 24 Jun 2025 07:28:22 GMT | Your Digital Fingerprint: How Blockchain Uses Hashing for Ultimate Security | Onwuka David Chukwuka | [Read More](https://medium.com/p/3f83807a9539) |
 | Tue, 24 Jun 2025 07:26:39 GMT | Understanding ASN and Its Role in Web Security | Maverick Steel | [Read More](https://medium.com/p/61f1c86b5b90) |
 | Tue, 24 Jun 2025 07:24:20 GMT | (6510110233)24/6/2568 สิ่งที่ได้รับรู้ | Nut Navaphon | [Read More](https://medium.com/p/451d5ff7617c) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Jun 2025 23:13:09 GMT | Crypto Recovery Option: Proffesional Crypto Recovery | Paulgibson | [Read More](https://medium.com/p/09b2c9c40cd4) |
 | Mon, 23 Jun 2025 23:06:41 GMT | Honest Engineering: Why Tech’s Biggest Promises Are Really Bounded Contracts | Darwin Gosal | [Read More](https://medium.com/p/1a8242997f1e) |
 | Mon, 23 Jun 2025 22:59:54 GMT | Top 5 ways to recover funds from crypto scam: Crypto Recovery Option | Paulgibson | [Read More](https://medium.com/p/63b68eb671bd) |
-| Mon, 23 Jun 2025 22:47:09 GMT | First things First — What should you do after installing Termux on your Moblie(Upgrade & Upgrade) | Alex Grande | [Read More](https://medium.com/p/35a0fd1f3985) |
-| Mon, 23 Jun 2025 22:16:39 GMT | SOC Analyst Automation: Scripts Every Analyst Should Be Using | Karthikeyan Nagaraj | [Read More](https://medium.com/p/6e310dea6ad5) |
-| Mon, 23 Jun 2025 22:13:00 GMT | How I Find Hidden JavaScript Files (And Why They Matter in Bug Bounty)
-Ever wonder how bug… | Aftab Raja | [Read More](https://medium.com/p/fa4586bd7aa0) |
-| Mon, 23 Jun 2025 21:55:26 GMT | Ghost Driver Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a21917010584) |
-| Mon, 23 Jun 2025 21:52:46 GMT | Real-Time Stealer-Log Monitoring with LeakRadar.io: Detect Leaks Before Attackers Do | Alexandre Vandamme | [Read More](https://medium.com/p/44c2ec9687a0) |
-| Mon, 23 Jun 2025 21:42:20 GMT | Embeded malicious commands manipulate AI outputs | Pentestjunkie07 | [Read More](https://medium.com/p/94c5ab8c8418) |
-| Mon, 23 Jun 2025 21:35:03 GMT | Building Security for a Compromised World: Authentication Strategies After the Credential… | Vishal Kendre | [Read More](https://medium.com/p/3eab2cb326b0) |
-| Mon, 23 Jun 2025 21:34:37 GMT | What Happens When the Cord Gets Cut | Bradkinnard | [Read More](https://medium.com/p/a9c38b1174fb) |
-| Mon, 23 Jun 2025 21:32:39 GMT | Linux Firewall Security Best Practices with 3 Proven Methods (iptables, firewalld, UFW) | Ashish Singh | [Read More](https://medium.com/p/fd97051a7f7d) |
-| Mon, 23 Jun 2025 21:28:59 GMT | Fuzzing Everything | pad1ryoshi | [Read More](https://medium.com/p/67ab1c0f4b6a) |
-| Mon, 23 Jun 2025 21:26:25 GMT | Ransomware Architecture In Rust - why stopped after one article | RansomKing | [Read More](https://medium.com/p/2923a9650010) |
-| Mon, 23 Jun 2025 21:24:30 GMT | Inside the Mind of the Attacker: Building Simulated Command & Control (C2) Infrastructure for… | A-STAR7_DOCTOR | [Read More](https://medium.com/p/2a61619d6db1) |
-| Mon, 23 Jun 2025 21:02:42 GMT | . | Aftab Raja | [Read More](https://medium.com/p/f2abd7a275c6) |
-| Mon, 23 Jun 2025 20:59:09 GMT | Cybersecurity Trends on June 23, 2025 | Inforsecpro | [Read More](https://medium.com/p/d38e8979bc97) |
-| Mon, 23 Jun 2025 20:51:38 GMT | Securing a Side Project with Free Tools | Garret Lacey | [Read More](https://medium.com/p/bf4dd9111359) |
-| Mon, 23 Jun 2025 20:43:39 GMT | SQL Injection Clásico: Exploiting con `UNION SELECT` | Roberto Alfaro | [Read More](https://medium.com/p/0c706208404f) |
