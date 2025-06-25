@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 19:10:43 GMT | OWASP Pentest Series (9/12) | TheZeeshanKhan | [Read More](https://medium.com/p/6b7dae1008af) |
+| Wed, 25 Jun 2025 19:08:01 GMT | I Observed a Hospital’s Digital Footprint Using Only My Phone | Sam Galope | [Read More](https://medium.com/p/dbf4da60cd9b) |
+| Wed, 25 Jun 2025 19:05:31 GMT | A Poem to A True Love That I Did Send | Kayla | [Read More](https://medium.com/p/6141b8d84b02) |
+| Wed, 25 Jun 2025 19:04:35 GMT | Mapping the Dark Web for Recon: Ethical OSINT Techniques | Monika sharma | [Read More](https://medium.com/p/765b6eb851d7) |
+| Wed, 25 Jun 2025 18:56:20 GMT | Bankers Association’s Attack on Cybersecurity Transparency | Matthew.Rosenquist | [Read More](https://medium.com/p/33c96d9e9847) |
+| Wed, 25 Jun 2025 18:53:38 GMT | Runescapers Beware Phishing Campaigns that yield no EXP! | Shady | [Read More](https://medium.com/p/9b520eb2c96d) |
+| Wed, 25 Jun 2025 18:51:12 GMT | How Seniors Can Spot Scams — Part 1: Understanding Common Scams | SilverTech Support | [Read More](https://medium.com/p/6cc85de42401) |
+| Wed, 25 Jun 2025 18:42:06 GMT | The Future Is Encrypted: Why Dmail Network Is Redefining Digital Communication | Web3Sunshine | [Read More](https://medium.com/p/09d615235c72) |
+| Wed, 25 Jun 2025 18:32:20 GMT | Why Do We Hide What Is Real? | disisnabzz | [Read More](https://medium.com/p/96cc27cd3616) |
+| Wed, 25 Jun 2025 18:24:17 GMT | 5 Most Important Life Hacks for a Better, Smarter Life | Mitchell "Banknote Mitch” Similton | [Read More](https://medium.com/p/3e8eaaf09d29) |
+| Wed, 25 Jun 2025 18:22:25 GMT | Kaspersky Tejas issue solved | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/08d205023aee) |
 | Wed, 25 Jun 2025 18:21:35 GMT | Stored XSS in Zendesk Marketplace App: “Auto Merge Duplicate Tickets”. | Mahmoud Abd Alkarim | [Read More](https://medium.com/p/ca1b5b99e2bb) |
 | Wed, 25 Jun 2025 18:13:32 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/eef1321ebe2f) |
 | Wed, 25 Jun 2025 18:10:54 GMT | Secure Vibe Coding for Developers | AbhirupKonwar | [Read More](https://medium.com/p/fa2d518922cf) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 13:52:50 GMT | Yearn, Hundred, Ocean Life: The Cost of Misconfigured Logic and Missing Storage Updates | Olympix | [Read More](https://medium.com/p/3a6f1d1fe2e7) |
 | Wed, 25 Jun 2025 13:45:06 GMT | Euler, Sentiment, Safemoon: What These Exploits Reveal About DeFi’s Weak Points | Olympix | [Read More](https://medium.com/p/9c1910584b1f) |
 | Wed, 25 Jun 2025 13:39:02 GMT | What to Say | Crumbs and Currency | [Read More](https://medium.com/p/dac6dac204d4) |
-| Wed, 25 Jun 2025 13:38:01 GMT | Wireless Network Exploitation -Simulating a Wi-Fi Password Cracking Attack | Mithra Consulting | [Read More](https://medium.com/p/c628d31d0dd5) |
-| Wed, 25 Jun 2025 13:34:17 GMT | Top 5 Ways to Protect Your Online Privacy (That Actually Work) | Kambetastephano | [Read More](https://medium.com/p/185e748f4470) |
-| Wed, 25 Jun 2025 13:32:41 GMT | The Art of Survival | Harry Moller | [Read More](https://medium.com/p/a35136ac9035) |
-| Wed, 25 Jun 2025 13:31:25 GMT | Inside Job: $2M Bedrock Hack Traced Back to Ex-Employee — The Plot is WILDER Than You Think | CoinGen | [Read More](https://medium.com/p/d66866fd1de1) |
-| Wed, 25 Jun 2025 13:29:05 GMT | Welcome to Digital Parenting: What You Need to Know to Protect and Support Your Little One Online | Savvy Cyber Kids | [Read More](https://medium.com/p/db3fa4351adc) |
-| Wed, 25 Jun 2025 13:28:43 GMT | Netflix Docuseries “Web of Lies: Sextortion” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/6a984374e7db) |
-| Wed, 25 Jun 2025 13:28:19 GMT | Netflix Docuseries “Web of Lies: I’m Not A Nazi” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/322563cdfc19) |
-| Wed, 25 Jun 2025 13:23:33 GMT | 130+ End-to-End Test Cases for Mobile Applications — The Only Checklist You’ll Ever Need | Prafulla Mishra | [Read More](https://medium.com/p/115184147c74) |
-| Wed, 25 Jun 2025 13:17:06 GMT | Expert Alarm Response Services at Your Fingertips | Professional UK Services | [Read More](https://medium.com/p/79970ef0febc) |
-| Wed, 25 Jun 2025 13:14:05 GMT | Building Effective Use-Case Architecture in QRadar | Yuksel | [Read More](https://medium.com/p/1bc855c13db5) |
-| Wed, 25 Jun 2025 13:11:51 GMT | Nicholas Sgalitzer: Building the Future of Cybersecurity and AI from Birmingham — Infinite Sights | Infinite Sights | [Read More](https://medium.com/p/dd450fca8040) |
