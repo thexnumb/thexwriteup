@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 22:55:27 GMT | What They Wrote Before They Killed: An AI based Linguistic Study of Violent Offenders | Shirish Pandita | [Read More](https://medium.com/p/388bf2f3c674) |
+| Wed, 25 Jun 2025 22:44:55 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/7098661327a7) |
 | Wed, 25 Jun 2025 22:39:02 GMT | Elasticsearch(57) — 解決弱掃問題 SSL Medium Strength Cipher Suites Supported (SWEET32) | Tako | [Read More](https://medium.com/p/88c32cff7cae) |
 | Wed, 25 Jun 2025 22:35:39 GMT | SQL Injection: A Hacker’s Gateway to Data Chaos | Amanuel | [Read More](https://medium.com/p/fa0a39fe954f) |
 | Wed, 25 Jun 2025 22:34:08 GMT | TryHackMe Develpy CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/440c170ecf56) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 16:21:06 GMT | I Still Don’t Know What I’m Doing; But I Think It's About Courage. | Elizabeth N. Ugbor | [Read More](https://medium.com/p/7f732fcd2cdd) |
 | Wed, 25 Jun 2025 16:14:50 GMT | บทเรียนป้องกันตัวในโลกดิจิทัลจากงาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2 | NaphatJM | [Read More](https://medium.com/p/4bf1616ef541) |
 | Wed, 25 Jun 2025 16:14:27 GMT | DIGIX CYBER - Expert Cyber Security Testing Services | Digix Cyber | [Read More](https://medium.com/p/00d4e6daab9b) |
-| Wed, 25 Jun 2025 16:13:53 GMT | Securing SAP in the Cloud: Enabling Resilient Transformation from ECC to S/4HANA and Beyond | WayneReidUK | [Read More](https://medium.com/p/95920ddf1ed3) |
-| Wed, 25 Jun 2025 16:12:20 GMT | Inside the Mind of a Hacker: How Cyber Attacks Really Begin | err0rgod | [Read More](https://medium.com/p/484fdd45706f) |
