@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 16:46:02 GMT | Are Your Web Apps Vulnerable to Infostealers Hiding in Browser Scripts? | Feroot Security | [Read More](https://medium.com/p/ea1560d49702) |
+| Wed, 25 Jun 2025 16:45:42 GMT | Meet Bandit: The Python Security Tool You’re Probably Ignoring (But Shouldn’t in 2025) | Sanjay Prajapati | [Read More](https://medium.com/p/a3323a61bf61) |
+| Wed, 25 Jun 2025 16:44:08 GMT | How to Plan and Execute Event Logistics for a Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/ee2fea48c2c1) |
+| Wed, 25 Jun 2025 16:43:25 GMT | w1seguy: a THM writeup | Muhammad Rafly Abdillah | [Read More](https://medium.com/p/3945382845f7) |
+| Wed, 25 Jun 2025 16:42:55 GMT | Supply Chain Attacks: What Every Security Team Misses in 2025 | Andrei Ivan | [Read More](https://medium.com/p/11e91045051d) |
+| Wed, 25 Jun 2025 16:42:39 GMT | Guarding Your Digital Fortress: How to Protect Your Information Online | Kara Davis | [Read More](https://medium.com/p/113717f21563) |
+| Wed, 25 Jun 2025 16:40:20 GMT | IOT Connect — Android Broadcast Receiver Challenge | bl4dsc4n | [Read More](https://medium.com/p/62e224c0983f) |
+| Wed, 25 Jun 2025 16:39:44 GMT | ชมงาน CyberDay | Suthinan | [Read More](https://medium.com/p/cbb5168ba231) |
+| Wed, 25 Jun 2025 16:38:27 GMT | The Sixxish Corp Hack: Simulating a Full Red Team Attack | sixxish | [Read More](https://medium.com/p/9a168d73b516) |
+| Wed, 25 Jun 2025 16:38:22 GMT | Post-Quantum Security: Why Your Organization Needs to Start Planning Now | Eric Zietlow | [Read More](https://medium.com/p/8faf924e31ee) |
+| Wed, 25 Jun 2025 16:37:53 GMT | The Benefits of Combining Vulnerability Scanning with Penetration Testing | Black Lock | [Read More](https://medium.com/p/b07bac7921b4) |
+| Wed, 25 Jun 2025 16:37:07 GMT | Mobile Attack Surfaces in 2025: Threats, Vectors, and Defensive Strategy | ThreatVector | [Read More](https://medium.com/p/cc6265265ce1) |
+| Wed, 25 Jun 2025 16:36:30 GMT | What Is Cyber Insurance? A Simple Guide for Businesses and Individuals | SafeAeon Inc. | [Read More](https://medium.com/p/73b90a762c7b) |
+| Wed, 25 Jun 2025 16:35:29 GMT | Internetin Şok eden Botneti: Mirai Botnet | FatmaCy | [Read More](https://medium.com/p/472316900bf3) |
+| Wed, 25 Jun 2025 16:33:46 GMT | Your AI Is Leaking Secrets – And You Might Not Even Know It | Zero Code Startup | [Read More](https://medium.com/p/55a21b2b1f62) |
+| Wed, 25 Jun 2025 16:31:51 GMT | When the Internet Goes to War: How Cyber Conflict Is Reshaping Global Business Risk | Ankit Sharma | [Read More](https://medium.com/p/8c9e00ba43e3) |
+| Wed, 25 Jun 2025 16:21:06 GMT | I Still Don’t Know What I’m Doing; But I Think It's About Courage. | Elizabeth N. Ugbor | [Read More](https://medium.com/p/7f732fcd2cdd) |
 | Wed, 25 Jun 2025 16:14:50 GMT | บทเรียนป้องกันตัวในโลกดิจิทัลจากงาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2 | NaphatJM | [Read More](https://medium.com/p/4bf1616ef541) |
 | Wed, 25 Jun 2025 16:14:27 GMT | DIGIX CYBER - Expert Cyber Security Testing Services | Digix Cyber | [Read More](https://medium.com/p/00d4e6daab9b) |
 | Wed, 25 Jun 2025 16:13:53 GMT | Securing SAP in the Cloud: Enabling Resilient Transformation from ECC to S/4HANA and Beyond | WayneReidUK | [Read More](https://medium.com/p/95920ddf1ed3) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 12:08:04 GMT | K8SGPT: Identifying k8s cluster issues & triage them in an easy way | Purushotham Reddy | [Read More](https://medium.com/p/a9b98247e7c9) |
 | Wed, 25 Jun 2025 12:07:04 GMT | Why use cloud transformation security services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8fff6590888b) |
 | Wed, 25 Jun 2025 12:06:32 GMT | I Built a Bug Bounty Framework in Over 2 Years | Mostafa Alrefai | [Read More](https://medium.com/p/f9b7daa0b7aa) |
-| Wed, 25 Jun 2025 12:06:05 GMT | Zero-click Account Takeover!(I found it in half an hour) | Furkan Uyar | [Read More](https://medium.com/p/444e737f0919) |
-| Wed, 25 Jun 2025 12:05:49 GMT | How to Implement and Manage a Web Application Firewall for Maximum Security | Gargiben | [Read More](https://medium.com/p/4ffcd7c79ec4) |
-| Wed, 25 Jun 2025 12:04:58 GMT | Securing Your APIs: A Modern Guide to JWT Authentication in Spring Boot 3 | Umesh Kumar Yadav | [Read More](https://medium.com/p/9080067249fc) |
-| Wed, 25 Jun 2025 11:52:04 GMT | How Fast Does ZAP Work in Exchange Online Protection? | Kijo Ninja | [Read More](https://medium.com/p/a7a96e083b46) |
-| Wed, 25 Jun 2025 11:45:23 GMT | 25 Mind-Blowing Software Bugs That Happened | Enigma of the Stack | [Read More](https://medium.com/p/797d6d4cdacf) |
-| Wed, 25 Jun 2025 11:40:26 GMT | Pro-Iranian Hacktivist Group Leaks Israeli Military Data in Escalating Cyber Ops | CyBlog | [Read More](https://medium.com/p/774d6e2950df) |
-| Wed, 25 Jun 2025 11:40:24 GMT | 10 Skills You Need to Become an Ethical Hacker in 2025 | Appin Technology Lab | [Read More](https://medium.com/p/ac9a1f29d25a) |
-| Wed, 25 Jun 2025 11:31:54 GMT | HackTheBox Writeup — Love | Simardeep Singh | [Read More](https://medium.com/p/c6255b9dd335) |
-| Wed, 25 Jun 2025 11:31:06 GMT | Life as Black Hat: Mengungkap Dunia Gelap Hacker Siber | Satria Adhi Pradana | [Read More](https://medium.com/p/59e329fd930d) |
-| Wed, 25 Jun 2025 11:25:59 GMT | How Cybersecurity Experts Help You Stay One Step Ahead of Hackers | SmartCLOUD Australia | [Read More](https://medium.com/p/f8821303e619) |
-| Wed, 25 Jun 2025 11:25:15 GMT | What Happened When I Asked My AI Partner to Scale Like Alex Hormazi | Chris Lowry | [Read More](https://medium.com/p/5ebdc84ae3b1) |
-| Wed, 25 Jun 2025 11:13:34 GMT | Penetration Testing vs Vulnerability Assessment: Key Differences | Sanchitamishra | [Read More](https://medium.com/p/3f2e3fb97cc9) |
-| Wed, 25 Jun 2025 11:12:40 GMT | What is a CDN? A Simple Guide to a Faster, Safer Internet | Lorenzorandone | [Read More](https://medium.com/p/20b2b34019c9) |
-| Wed, 25 Jun 2025 11:05:43 GMT | SSTI ve CSTI: Sunucu ve İstemci Taraflı
-Şablon Enjeksiyonu Zafiyetleri | Omerornek | [Read More](https://medium.com/p/36b081662998) |
-| Wed, 25 Jun 2025 11:01:46 GMT | Cloud Service & Deployment Models | Igor Berner | [Read More](https://medium.com/p/8203ca7b988a) |
-| Wed, 25 Jun 2025 11:00:29 GMT | Bug Bounty Programs: How to Start & Earn as a Beginner | Sanchitamishra | [Read More](https://medium.com/p/a838cd5caa01) |
-| Wed, 25 Jun 2025 10:59:30 GMT | Cisco Duo IAM: The New Identity Perimeter for a Passwordless, AI-Driven Future | Sunder Singh | [Read More](https://medium.com/p/f86fcd7ee6ab) |
