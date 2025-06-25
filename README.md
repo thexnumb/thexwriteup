@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 18:21:35 GMT | Stored XSS in Zendesk Marketplace App: “Auto Merge Duplicate Tickets”. | Mahmoud Abd Alkarim | [Read More](https://medium.com/p/ca1b5b99e2bb) |
+| Wed, 25 Jun 2025 18:13:32 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/eef1321ebe2f) |
+| Wed, 25 Jun 2025 18:10:54 GMT | Secure Vibe Coding for Developers | AbhirupKonwar | [Read More](https://medium.com/p/fa2d518922cf) |
+| Wed, 25 Jun 2025 18:02:41 GMT | Breach Remediation and System Restoration: | Malik Vero | [Read More](https://medium.com/p/308120f7b3cd) |
+| Wed, 25 Jun 2025 17:56:40 GMT | Bioinformatics, what is Data Analysis in Biology | Cherifa Bochra Soltani | [Read More](https://medium.com/p/7547fac7eea3) |
+| Wed, 25 Jun 2025 17:54:00 GMT | Thoughts on Design - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/8179176d3fdb) |
+| Wed, 25 Jun 2025 17:51:47 GMT | Cookies Aren’t Just for Tracking | Derick Johnson | [Read More](https://medium.com/p/7b48c0a7fe1d) |
+| Wed, 25 Jun 2025 17:50:30 GMT | I Built a Password Manager Using Python, Streamlit, and Fernet — Here’s How ️ | Nishkarsh Pandey | [Read More](https://medium.com/p/581b0a0dd82c) |
+| Wed, 25 Jun 2025 17:33:26 GMT | The Exploited Recruits: How Filipino Hacker Groups Use Underage Kids as Scapegoats | Lynss | [Read More](https://medium.com/p/fa149a1f786c) |
 | Wed, 25 Jun 2025 17:29:17 GMT | Development of security robotics | Presslink Media | [Read More](https://medium.com/p/6ecd84c427cc) |
 | Wed, 25 Jun 2025 17:23:36 GMT | When home hurts and coffee heals. | grace | [Read More](https://medium.com/p/654d26187a85) |
 | Wed, 25 Jun 2025 17:13:50 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Nithin NIcholas | [Read More](https://medium.com/p/1a5b4312693f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 13:17:06 GMT | Expert Alarm Response Services at Your Fingertips | Professional UK Services | [Read More](https://medium.com/p/79970ef0febc) |
 | Wed, 25 Jun 2025 13:14:05 GMT | Building Effective Use-Case Architecture in QRadar | Yuksel | [Read More](https://medium.com/p/1bc855c13db5) |
 | Wed, 25 Jun 2025 13:11:51 GMT | Nicholas Sgalitzer: Building the Future of Cybersecurity and AI from Birmingham — Infinite Sights | Infinite Sights | [Read More](https://medium.com/p/dd450fca8040) |
-| Wed, 25 Jun 2025 13:11:28 GMT | In Irrationality We Trust | Hassaan Malik | [Read More](https://medium.com/p/b5e26db214fc) |
-| Wed, 25 Jun 2025 13:07:14 GMT | Mastering SIEM: Building Intelligent Security Monitoring That Actually Works | Ola Lawrence O | [Read More](https://medium.com/p/0094ccc85c25) |
-| Wed, 25 Jun 2025 13:04:42 GMT | Who Can See What? A Clear Guide to Anaplan Model Security | Samreen Khan | [Read More](https://medium.com/p/8a7235a9b02c) |
-| Wed, 25 Jun 2025 13:02:42 GMT | A Technologist’s Perspective: Implementing AI for Cybersecurity in Cloud Environments | Ans Rehman | [Read More](https://medium.com/p/3c71e8759cef) |
-| Wed, 25 Jun 2025 13:01:57 GMT | Pocket-Sized Security: Build Your Own OTP Token with Raspberry Pi Pico W | Mohamad MERHI | [Read More](https://medium.com/p/aef0c1ca88d5) |
-| Wed, 25 Jun 2025 13:01:54 GMT | Streamlining Case Management Across XDR, EDR, and NVM with Peris.ai IRP | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d77c835f4cb8) |
-| Wed, 25 Jun 2025 13:01:46 GMT | AI In Cybersecurity: What’s Now, What’s Next | noailabs | [Read More](https://medium.com/p/afd1787751f7) |
-| Wed, 25 Jun 2025 12:57:33 GMT | 2025’s Biggest Password Leak: 16B Credentials Exposed | Atomic Mail | [Read More](https://medium.com/p/f92b1d68be65) |
-| Wed, 25 Jun 2025 12:45:17 GMT | Giriş | Lizi Natroshvili | [Read More](https://medium.com/p/e6039965db80) |
