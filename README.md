@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 21:33:26 GMT | The „Mariana Trench“ of the Dark Web: Myth vs. Documented Reality | Maria Antonovich | [Read More](https://medium.com/p/e68bd4caab31) |
+| Wed, 25 Jun 2025 21:27:35 GMT | Cloud-to-OnPrem Pivoting: From SaaS Hijack to Data Center Domination | A-STAR7_DOCTOR | [Read More](https://medium.com/p/cceb27e2bd8f) |
 | Wed, 25 Jun 2025 21:13:58 GMT | ️ How I Used Kali Linux to Clone a Facebook Login Page and Capture Credentials (Ethical Hacking… | Esom Eze | [Read More](https://medium.com/p/5c1c00fc6d71) |
 | Wed, 25 Jun 2025 21:13:38 GMT | Unlocking the Future: SwitchBot’s Smart Lock Revolution | Sirinm | [Read More](https://medium.com/p/a9311cad14f0) |
 | Wed, 25 Jun 2025 21:05:33 GMT | Defense in Depth: Cybersecurity Lessons from the Castle Walls | Emma Lateyron | [Read More](https://medium.com/p/bba7a42d4e2d) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 15:16:40 GMT | Why Does Ax Framework Pay Hackers So Much | Ibtissam hammadi | [Read More](https://medium.com/p/f6cc8b4bb666) |
 | Wed, 25 Jun 2025 15:01:47 GMT | ✨ Title: Inside the Breach: How an Entire Bank's Computer Systems Were Hacked | Aditya sunny | [Read More](https://medium.com/p/cee78b45a5dc) |
 | Wed, 25 Jun 2025 14:51:48 GMT | Peeling Off the Digital Layer: Write-up Serangkaian Tantangan Keamanan Siber | Ariq | [Read More](https://medium.com/p/0a8136693709) |
-| Wed, 25 Jun 2025 14:50:45 GMT | Beat the Heat Without Lifting a Finger: The FRSARA Portable Neck Fan Might Just Be the Summer Hack… | Bogymohamedali | [Read More](https://medium.com/p/3152275d732b) |
-| Wed, 25 Jun 2025 14:49:19 GMT | Write-Up CTF: Forensics Challenges | Ariq | [Read More](https://medium.com/p/5707c1ce8c5d) |
