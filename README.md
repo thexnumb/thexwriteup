@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 11:31:54 GMT | HackTheBox Writeup — Love | Simardeep Singh | [Read More](https://medium.com/p/c6255b9dd335) |
+| Wed, 25 Jun 2025 11:31:06 GMT | Life as Black Hat: Mengungkap Dunia Gelap Hacker Siber | Satria Adhi Pradana | [Read More](https://medium.com/p/59e329fd930d) |
+| Wed, 25 Jun 2025 11:25:59 GMT | How Cybersecurity Experts Help You Stay One Step Ahead of Hackers | SmartCLOUD Australia | [Read More](https://medium.com/p/f8821303e619) |
+| Wed, 25 Jun 2025 11:25:15 GMT | What Happened When I Asked My AI Partner to Scale Like Alex Hormazi | Chris Lowry | [Read More](https://medium.com/p/5ebdc84ae3b1) |
 | Wed, 25 Jun 2025 11:13:34 GMT | Penetration Testing vs Vulnerability Assessment: Key Differences | Sanchitamishra | [Read More](https://medium.com/p/3f2e3fb97cc9) |
+| Wed, 25 Jun 2025 11:12:40 GMT | What is a CDN? A Simple Guide to a Faster, Safer Internet | Lorenzorandone | [Read More](https://medium.com/p/20b2b34019c9) |
 | Wed, 25 Jun 2025 11:05:43 GMT | SSTI ve CSTI: Sunucu ve İstemci Taraflı
 Şablon Enjeksiyonu Zafiyetleri | Omerornek | [Read More](https://medium.com/p/36b081662998) |
 | Wed, 25 Jun 2025 11:01:46 GMT | Cloud Service & Deployment Models | Igor Berner | [Read More](https://medium.com/p/8203ca7b988a) |
@@ -109,8 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 07:14:50 GMT | How to Explore Z Tools on Hyperliquid | $Z (Digital TreaZure) | [Read More](https://medium.com/p/988056eca617) |
 | Wed, 25 Jun 2025 07:14:22 GMT | How to Manage SCAT Strategies on Hyperliquid | $SCAT (SnowCatDAO) | [Read More](https://medium.com/p/82c5b3244895) |
 | Wed, 25 Jun 2025 07:14:22 GMT | How to Manage DBIO Risk on Hyperliquid | $DBIO (DeBio Network) | [Read More](https://medium.com/p/b8264c858e5a) |
-| Wed, 25 Jun 2025 07:14:03 GMT | WazirX Restructuring 2025 Update: What Users Need to Know | TheReviewHive | [Read More](https://medium.com/p/884ce3cc4ed1) |
-| Wed, 25 Jun 2025 07:13:51 GMT | How to Manage GENS Security on Hyperliquid | $GENS (Genius Yield) | [Read More](https://medium.com/p/6ccc74213897) |
-| Wed, 25 Jun 2025 07:13:49 GMT | How to Start AAG Liquidity on Hyperliquid | $AAG (AAG) | [Read More](https://medium.com/p/dbab51ca3197) |
-| Wed, 25 Jun 2025 07:13:49 GMT | How to Explore EUROP Funding on Hyperliquid | $EUROP (EURØP) | [Read More](https://medium.com/p/9f767697292e) |
-| Wed, 25 Jun 2025 07:13:30 GMT | Most installed Drupal security modules | Specbee | [Read More](https://medium.com/p/260edacebe49) |
