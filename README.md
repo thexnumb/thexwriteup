@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 17:13:50 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Nithin NIcholas | [Read More](https://medium.com/p/1a5b4312693f) |
+| Wed, 25 Jun 2025 17:12:29 GMT | MS17–010- Manual-Exploitation | ya09r3Z | [Read More](https://medium.com/p/0f7d7552752e) |
+| Wed, 25 Jun 2025 17:08:18 GMT | Portrait of My Emotional Complexity | vibha pathak | [Read More](https://medium.com/p/ef3d8cecf68b) |
+| Wed, 25 Jun 2025 17:05:31 GMT | Session vs JWT Authentication: Stateful vs Stateless Explained | Atul Yadav | [Read More](https://medium.com/p/a92f57a4f042) |
+| Wed, 25 Jun 2025 16:59:38 GMT | The Importance of Two-Factor Authentication: Your Key to Enhanced Security | Avnish singh | [Read More](https://medium.com/p/b972ec1c6be1) |
+| Wed, 25 Jun 2025 16:59:32 GMT | SOC Analyst 101 | Orgeismail | [Read More](https://medium.com/p/11519fc9a3d4) |
+| Wed, 25 Jun 2025 16:59:29 GMT | Day #33: Business Continuity (BCP) and Disaster Recovery (DR) | Brittney Ginther | [Read More](https://medium.com/p/64ebbebcfc64) |
+| Wed, 25 Jun 2025 16:59:13 GMT | Ukrainian, Georgian, and British — all in one? | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/c996c1c4da6d) |
+| Wed, 25 Jun 2025 16:58:48 GMT | vSOCBox Redefines Enterprise Security with New SOC-Less Architecture Platform | vSOCBox.COM | [Read More](https://medium.com/p/b39c75923f48) |
+| Wed, 25 Jun 2025 16:58:08 GMT | CVE-2025-0133 — Reflected Cross-Site Scripting (XSS) in Palo Alto GlobalProtect VPN Portal | Gouri Sankar A | [Read More](https://medium.com/p/591c5711160f) |
+| Wed, 25 Jun 2025 16:53:21 GMT | 2025 Global Cyber Risk Report | Oleg Parashchak | [Read More](https://medium.com/p/28c5d4157e11) |
+| Wed, 25 Jun 2025 16:50:08 GMT | Rate Limit? I Barely Know Her: How I Brute-Forced OTPs Like a Gentleman | Iski | [Read More](https://medium.com/p/6f1235c559cc) |
 | Wed, 25 Jun 2025 16:46:02 GMT | Are Your Web Apps Vulnerable to Infostealers Hiding in Browser Scripts? | Feroot Security | [Read More](https://medium.com/p/ea1560d49702) |
 | Wed, 25 Jun 2025 16:45:42 GMT | Meet Bandit: The Python Security Tool You’re Probably Ignoring (But Shouldn’t in 2025) | Sanjay Prajapati | [Read More](https://medium.com/p/a3323a61bf61) |
 | Wed, 25 Jun 2025 16:44:08 GMT | How to Plan and Execute Event Logistics for a Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/ee2fea48c2c1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 12:45:17 GMT | Giriş | Lizi Natroshvili | [Read More](https://medium.com/p/e6039965db80) |
 | Wed, 25 Jun 2025 12:42:13 GMT | Weak credentials lead to access to admin panel (Deep Recon) (Arabic) | rood | [Read More](https://medium.com/p/453096842412) |
 | Wed, 25 Jun 2025 12:42:00 GMT | Weak credentials lead to access to admin panel (Deep Recon) | rood | [Read More](https://medium.com/p/2909b8a0f23e) |
-| Wed, 25 Jun 2025 12:39:41 GMT | How Can Understanding IT Jargon Improve Decision-Making? | Lisna | [Read More](https://medium.com/p/bd37f1a0d1df) |
-| Wed, 25 Jun 2025 12:31:03 GMT | The Turtles And A Girl | Taiba Shaikh | [Read More](https://medium.com/p/6ed0d386ef39) |
-| Wed, 25 Jun 2025 12:30:36 GMT | PowerShell in Cybersecurity (Offensive and Defensive) | The Aegis Security | [Read More](https://medium.com/p/f0f095eb2273) |
-| Wed, 25 Jun 2025 12:30:32 GMT | AI-Driven Cyberattacks: How Nations Are Using Machine Learning in Digital Espionage | Vrushank Thakkar | [Read More](https://medium.com/p/697459903a52) |
-| Wed, 25 Jun 2025 12:27:06 GMT | Walkthrough THM Mustacchio V2 | Telynor | [Read More](https://medium.com/p/2badbfe67636) |
-| Wed, 25 Jun 2025 12:24:18 GMT | Container Image Optimization: Reducing Size and Improving Security with Distroless Images | Sylvain Gibier | [Read More](https://medium.com/p/239fe5653dfa) |
-| Wed, 25 Jun 2025 12:22:45 GMT | Telegram’s Policy Update Is Pushing Cybercrime Underground | TheReviewHive | [Read More](https://medium.com/p/de57521dc49a) |
-| Wed, 25 Jun 2025 12:15:30 GMT | How I Stole My Friend’s Secrets | Mr Horbio | [Read More](https://medium.com/p/6bfd242e92e3) |
-| Wed, 25 Jun 2025 12:09:09 GMT | How to Build a Resilient Security Framework with Cyber Risk Assessment & Planning | sanya | [Read More](https://medium.com/p/c3dbd353bb9f) |
-| Wed, 25 Jun 2025 12:08:04 GMT | K8SGPT: Identifying k8s cluster issues & triage them in an easy way | Purushotham Reddy | [Read More](https://medium.com/p/a9b98247e7c9) |
-| Wed, 25 Jun 2025 12:07:04 GMT | Why use cloud transformation security services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8fff6590888b) |
-| Wed, 25 Jun 2025 12:06:32 GMT | I Built a Bug Bounty Framework in Over 2 Years | Mostafa Alrefai | [Read More](https://medium.com/p/f9b7daa0b7aa) |
