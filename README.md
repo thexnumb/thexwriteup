@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 21:13:58 GMT | ️ How I Used Kali Linux to Clone a Facebook Login Page and Capture Credentials (Ethical Hacking… | Esom Eze | [Read More](https://medium.com/p/5c1c00fc6d71) |
+| Wed, 25 Jun 2025 21:13:38 GMT | Unlocking the Future: SwitchBot’s Smart Lock Revolution | Sirinm | [Read More](https://medium.com/p/a9311cad14f0) |
+| Wed, 25 Jun 2025 21:05:33 GMT | Defense in Depth: Cybersecurity Lessons from the Castle Walls | Emma Lateyron | [Read More](https://medium.com/p/bba7a42d4e2d) |
+| Wed, 25 Jun 2025 21:02:12 GMT | Why Passwords Still Exist After 20 Years of Death Threats. | Jojo S. | [Read More](https://medium.com/p/3a2bb01727cb) |
+| Wed, 25 Jun 2025 21:01:31 GMT | Email Security for Layman and Help Desk Technicians | Steven Carbuhn | [Read More](https://medium.com/p/32f65d68a2ed) |
+| Wed, 25 Jun 2025 20:59:21 GMT | The One Thing Hackers Can’t Steal: Why Human Connection Is Our Last Safe Asset | KommunityKoin | [Read More](https://medium.com/p/99327b4ae0ff) |
+| Wed, 25 Jun 2025 20:55:25 GMT | The Future of MCP: From Experimentation to Production | Valentin Stoican | [Read More](https://medium.com/p/08385d6a0834) |
+| Wed, 25 Jun 2025 20:54:52 GMT | Navigating Scam Recovery and the Role of Technology | Kfairleycarolyn | [Read More](https://medium.com/p/204d99d4374c) |
 | Wed, 25 Jun 2025 20:38:33 GMT | I Pretended To Be A Rich Widow: The Scammer Didn’t See It Coming. | The Anti-Scam Diaries | [Read More](https://medium.com/p/ae5f6e8e0c88) |
 | Wed, 25 Jun 2025 20:17:10 GMT | Cyber Kill Chain - Tryhackme | Aaron | [Read More](https://medium.com/p/f02a51708cc3) |
 | Wed, 25 Jun 2025 20:10:53 GMT | The Emotional Toll of Scams and the Importance of Genuine Support | Wilmapvillarreal | [Read More](https://medium.com/p/1d3ad9cfa545) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 14:51:48 GMT | Peeling Off the Digital Layer: Write-up Serangkaian Tantangan Keamanan Siber | Ariq | [Read More](https://medium.com/p/0a8136693709) |
 | Wed, 25 Jun 2025 14:50:45 GMT | Beat the Heat Without Lifting a Finger: The FRSARA Portable Neck Fan Might Just Be the Summer Hack… | Bogymohamedali | [Read More](https://medium.com/p/3152275d732b) |
 | Wed, 25 Jun 2025 14:49:19 GMT | Write-Up CTF: Forensics Challenges | Ariq | [Read More](https://medium.com/p/5707c1ce8c5d) |
-| Wed, 25 Jun 2025 14:48:35 GMT | Built for Resilience: How We Designed a Secure and Scalable Infrastructure for Small Businesses in… | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/7b4fb235b3c0) |
-| Wed, 25 Jun 2025 14:46:27 GMT | Logless hunt Tryhackme walkthrough | Jenito | [Read More](https://medium.com/p/8a582d9ea37c) |
-| Wed, 25 Jun 2025 14:46:07 GMT | Write-up CTF: Cryptography Challenges | Ariq | [Read More](https://medium.com/p/fdcd0ac2aeab) |
-| Wed, 25 Jun 2025 14:45:06 GMT | Keep Your Ruby Projects Secure and Up-to-Date with Dependabot | Germán Giménez Silva | [Read More](https://medium.com/p/55515103c8d2) |
-| Wed, 25 Jun 2025 14:28:41 GMT | The Art of Hiding in Plain Sight | howsillyistoosilly | [Read More](https://medium.com/p/a1e56122d28f) |
-| Wed, 25 Jun 2025 14:28:15 GMT | But anxiety, as a concept, as a diagnosis, as a lived experience with a name and weight… that was a… | Arlettys Lp | [Read More](https://medium.com/p/1deb95f9e38d) |
-| Wed, 25 Jun 2025 14:22:27 GMT | LLM Security: The Bizarre, Hilarious, and Terrifying New Battlefield of Digital Defense | Asanka Dissanayake | [Read More](https://medium.com/p/46e8040adecc) |
-| Wed, 25 Jun 2025 14:20:51 GMT | Can a U.S. President Shut Down Europe’s Internet? Unpacking the Global Web’s Power Structure | Paradise technologies Inc | [Read More](https://medium.com/p/30207bb64a34) |
