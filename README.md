@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 10:17:54 GMT | The Real Weak Link in Cybersecurity: How Users Put Entire Systems at Risk | Cyber Timi | [Read More](https://medium.com/p/003f87a65ba1) |
+| Wed, 25 Jun 2025 10:14:25 GMT | Understanding TOTP and Authenticator Apps from a Developer’s Perspective | Francis Mwangi | [Read More](https://medium.com/p/45148dbf75d9) |
+| Wed, 25 Jun 2025 10:08:12 GMT | Protecting data | Igor Berner | [Read More](https://medium.com/p/884145fc6b22) |
+| Wed, 25 Jun 2025 10:07:10 GMT | Basics of Python Programming | Himakshithakre | [Read More](https://medium.com/p/1fff140f9cc0) |
+| Wed, 25 Jun 2025 10:06:02 GMT | 4XCUBE Reviews - This Is How I Recover My Money From 4XCUBE | Joseph Martin | [Read More](https://medium.com/p/e3a23ff78a8f) |
+| Wed, 25 Jun 2025 10:02:47 GMT | Entry-Level Cybersecurity Professional — Roles & Responsibilities | Akalanka Dambagolla | [Read More](https://medium.com/p/a8e9ed144b9d) |
+| Wed, 25 Jun 2025 10:00:51 GMT | How do VAPT Services proactively prevent data breaches? | StrongBox IT | [Read More](https://medium.com/p/a0440778eeae) |
+| Wed, 25 Jun 2025 09:57:59 GMT | Here’s How I Recover My Money From 4xcube | Joseph Martin | [Read More](https://medium.com/p/f464dd0eeb07) |
+| Wed, 25 Jun 2025 09:54:16 GMT | Investigating Career Opportunities and Payscale in Cybersecurity | IES University | [Read More](https://medium.com/p/f7d839b7ac58) |
+| Wed, 25 Jun 2025 09:53:41 GMT | Adli Bilişim: Dijital Dünyada Suçun İzini Sürmek | İrem Çagla Demirtaş | [Read More](https://medium.com/p/dbfd3192aa2a) |
+| Wed, 25 Jun 2025 09:53:11 GMT | 16 Million Passwords Exposed in Record-Breaking Data Breach | Jyothi Prajapat✨️ - SEO Article Writer | [Read More](https://medium.com/p/0cc4010de00e) |
+| Wed, 25 Jun 2025 09:51:03 GMT | Spotify and HackerOne: Dismissing Local Threats as ‘Informational | Diego Caridei | [Read More](https://medium.com/p/c1900baf3d30) |
+| Wed, 25 Jun 2025 09:49:18 GMT | When Trust Becomes the Threat: The Trojanized SonicWall VPN Installer and the Future of Endpoint… | Chetan Seripally | [Read More](https://medium.com/p/2c8fb038bbef) |
+| Wed, 25 Jun 2025 09:48:32 GMT | 2 Simple Ways You Could Be Scammed Out of Your Money | Beatrix Felix | [Read More](https://medium.com/p/681ef592d7bf) |
 | Wed, 25 Jun 2025 09:38:02 GMT | FileFix: A Simple Social Engineering Trick That Launches PowerShell from the Browser | IT Guy | [Read More](https://medium.com/p/31ff3120ccd1) |
 | Wed, 25 Jun 2025 09:37:26 GMT | When Your Inner Circle Feels Like an Audience You Didn’t Invite | Ezgi Ekin Bilgili-Cil | [Read More](https://medium.com/p/53b5d839b3b2) |
 | Wed, 25 Jun 2025 09:35:56 GMT | Top Books for Bug Bounty, Hacking, Penetration Testing & AI in Cybersecurity (2025) | SimpleTecBro | [Read More](https://medium.com/p/88d31168870e) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 06:25:34 GMT | How to Master AVN Tutorial on Hyperliquid | $AVN (AVIAN) | [Read More](https://medium.com/p/830607af983c) |
 | Wed, 25 Jun 2025 06:25:24 GMT | How to Use TMOON Liquidity on Hyperliquid | $TMOON (TurboMoon) | [Read More](https://medium.com/p/9bb4ea951749) |
 | Wed, 25 Jun 2025 06:25:17 GMT | How to Trade A3A Fees on Hyperliquid | $A3A (3A DAO) | [Read More](https://medium.com/p/c8326d257e99) |
-| Wed, 25 Jun 2025 06:25:16 GMT | How to Use ARSW Risk on Hyperliquid | $ARSW (ArthSwap V2) | [Read More](https://medium.com/p/8e9c21ffef11) |
-| Wed, 25 Jun 2025 06:24:55 GMT | How to Explore MKT Vaults on Hyperliquid | $MKT (The Reckoning Council) | [Read More](https://medium.com/p/75f3ffa97c00) |
-| Wed, 25 Jun 2025 06:24:55 GMT | How to Profit from sdog Risk on Hyperliquid | $sdog (sdogboy) | [Read More](https://medium.com/p/ccfdde5e3576) |
-| Wed, 25 Jun 2025 06:24:07 GMT | How to Manage SOLANA Strategies on Hyperliquid | $SOLANA (BarbieCrashBandicootRFK88) | [Read More](https://medium.com/p/83ca94ab1ca5) |
-| Wed, 25 Jun 2025 06:23:39 GMT | How to Leverage XWP Margin on Hyperliquid | $XWP (Swap) | [Read More](https://medium.com/p/d6b84f2d999e) |
-| Wed, 25 Jun 2025 06:22:29 GMT | Why Secure Software Development Life Cycle (SSDLC) Matters in 2025 | DefenceRabbit | [Read More](https://medium.com/p/261b5daccff0) |
-| Wed, 25 Jun 2025 06:13:27 GMT | AI Powered XSS Tool Development | AbhirupKonwar | [Read More](https://medium.com/p/1bc94a0aff5c) |
-| Wed, 25 Jun 2025 06:12:32 GMT | UR Researchers Build a Secure QR Code Tech to Prevent Scams | Jasper Hawthorne | [Read More](https://medium.com/p/95066d344be0) |
-| Wed, 25 Jun 2025 06:01:23 GMT | Part 1: Zero to Confidential Computing | Monday Ese | [Read More](https://medium.com/p/bd59d8a06f5c) |
-| Wed, 25 Jun 2025 05:56:33 GMT | How AI and Cybersecurity Are Shaping 2025’s Business Landscape | NishaMahato | [Read More](https://medium.com/p/2f18b7e6f0a1) |
-| Wed, 25 Jun 2025 05:52:36 GMT | How to Master BUGS Vaults on Hyperliquid | $BUGS (Bugs Bunny) | [Read More](https://medium.com/p/1c12a082ec35) |
-| Wed, 25 Jun 2025 05:46:01 GMT | Anatomy of a Critical Bug: A Case Study in Chaining IDORs | Gentil Security | [Read More](https://medium.com/p/e298bd297576) |
-| Wed, 25 Jun 2025 05:37:42 GMT | KiranaPro’s Fall: How Insider Access Crashed a High-Growth Startup | Zeron | [Read More](https://medium.com/p/6da1b5c17b6d) |
-| Wed, 25 Jun 2025 05:37:35 GMT | How to Leverage SHM Funding on Hyperliquid | $SHM (Shardeum) | [Read More](https://medium.com/p/9a8c76f6e293) |
