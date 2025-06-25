@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 20:17:10 GMT | Cyber Kill Chain - Tryhackme | Aaron | [Read More](https://medium.com/p/f02a51708cc3) |
+| Wed, 25 Jun 2025 20:10:53 GMT | The Emotional Toll of Scams and the Importance of Genuine Support | Wilmapvillarreal | [Read More](https://medium.com/p/1d3ad9cfa545) |
+| Wed, 25 Jun 2025 20:00:31 GMT | How to Bypass AMSI Protection with Frida | Diego Caridei | [Read More](https://medium.com/p/8c4727a9c7e8) |
+| Wed, 25 Jun 2025 19:58:18 GMT | Ransomware: Digital Kidnapping Hurts Just as Much | Ushafa Wuakera | [Read More](https://medium.com/p/421abc512aa3) |
+| Wed, 25 Jun 2025 19:57:04 GMT | We’re going the wrong way! How to abuse symlinks and get LPE in Windows | CICADA8 | [Read More](https://medium.com/p/0c598b99125b) |
+| Wed, 25 Jun 2025 19:54:39 GMT | Crocodilus Android Malware: The New Threat Hiding in Your Mobile Apps | Akshay Chauhan | [Read More](https://medium.com/p/7c3502ade4e3) |
+| Wed, 25 Jun 2025 19:48:52 GMT | Overcoming the Struggles of Fund Recovery from Scams | Amanda T. Lott | [Read More](https://medium.com/p/bd051b65f835) |
+| Wed, 25 Jun 2025 19:41:56 GMT | Hacking APIs - Insecure Deserialization | KILLUA_UCHIHA | [Read More](https://medium.com/p/1b809d9d5aa0) |
+| Wed, 25 Jun 2025 19:38:27 GMT | Merge Conflicts: What I Did Wrong for Months | Earl Red | [Read More](https://medium.com/p/3bf84072b4d6) |
+| Wed, 25 Jun 2025 19:37:38 GMT | The New Cybersecurity Frontier: Why Generative AI Demands a new AI Security Framework | Kapil Tandon | [Read More](https://medium.com/p/2860adc66a62) |
+| Wed, 25 Jun 2025 19:36:43 GMT | Get yourself a Portable Kali Linux (Pi-Tail) -1 | Mohammed Waseem Ahmed | [Read More](https://medium.com/p/bd19e7746680) |
 | Wed, 25 Jun 2025 19:31:53 GMT | This One Mistake With Password Vaults Could Expose All Your Accounts | Austin Gomez | [Read More](https://medium.com/p/96fdf9e7850d) |
+| Wed, 25 Jun 2025 19:27:28 GMT | Modern Love or Modern Exhaustion? | Echoes Of Her Stories | [Read More](https://medium.com/p/c9efbfdd5bb1) |
 | Wed, 25 Jun 2025 19:19:21 GMT | Keeping Your Linux Clean: Malware Scanning with ClamAV | Lince Mathew | [Read More](https://medium.com/p/8c95fde50187) |
 | Wed, 25 Jun 2025 19:18:28 GMT | Windows 10 ESU Free? Unpacking Microsoft’s Hidden Catch for Extended Security Updates | TechBird | [Read More](https://medium.com/p/5f49640d3f63) |
 | Wed, 25 Jun 2025 19:17:32 GMT | Expanding Your SIEM Stack: How to Ingest Webhook-Only Logs with Shuffle and CoPilot | SOCFortress | [Read More](https://medium.com/p/eeb205fa38dc) |
@@ -37,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 17:54:00 GMT | Thoughts on Design - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/8179176d3fdb) |
 | Wed, 25 Jun 2025 17:51:47 GMT | Cookies Aren’t Just for Tracking | Derick Johnson | [Read More](https://medium.com/p/7b48c0a7fe1d) |
 | Wed, 25 Jun 2025 17:50:30 GMT | I Built a Password Manager Using Python, Streamlit, and Fernet — Here’s How ️ | Nishkarsh Pandey | [Read More](https://medium.com/p/581b0a0dd82c) |
+| Wed, 25 Jun 2025 17:43:57 GMT | Linux Kernel Güvenlik Mekanizmalarının Evrimi ve Modern Karşılaştırması | Sinem Coşkun | [Read More](https://medium.com/p/ca94c95e082e) |
 | Wed, 25 Jun 2025 17:33:26 GMT | The Exploited Recruits: How Filipino Hacker Groups Use Underage Kids as Scapegoats | Lynss | [Read More](https://medium.com/p/fa149a1f786c) |
 | Wed, 25 Jun 2025 17:29:17 GMT | Development of security robotics | Presslink Media | [Read More](https://medium.com/p/6ecd84c427cc) |
 | Wed, 25 Jun 2025 17:23:36 GMT | When home hurts and coffee heals. | grace | [Read More](https://medium.com/p/654d26187a85) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 14:22:27 GMT | LLM Security: The Bizarre, Hilarious, and Terrifying New Battlefield of Digital Defense | Asanka Dissanayake | [Read More](https://medium.com/p/46e8040adecc) |
 | Wed, 25 Jun 2025 14:20:51 GMT | Can a U.S. President Shut Down Europe’s Internet? Unpacking the Global Web’s Power Structure | Paradise technologies Inc | [Read More](https://medium.com/p/30207bb64a34) |
 | Wed, 25 Jun 2025 14:13:48 GMT | How I Finally Overcame the Struggle Against Persistent Targeted Spyware | Hogan Torah | [Read More](https://medium.com/p/dac37c63279f) |
-| Wed, 25 Jun 2025 14:12:56 GMT | Your Best Work May Already Be Training Someone Else’s AI — for Free | Carson Sweet | [Read More](https://medium.com/p/a5c496f1cb8c) |
-| Wed, 25 Jun 2025 14:12:43 GMT | TryHackMe - Cyber Kill Chain - WriteUp | Axoloth | [Read More](https://medium.com/p/93a57c41fa2a) |
-| Wed, 25 Jun 2025 14:11:55 GMT | From Six Letters of Sheet Metal to Your Doorstep: The DEFCON Guide to License Plate OSINT (v2025) | Karla Ortiz-Flores | [Read More](https://medium.com/p/d9eee4228639) |
-| Wed, 25 Jun 2025 14:08:23 GMT | Behind the Bugs: Day 3 | Yukeshwaran N | [Read More](https://medium.com/p/97571039887d) |
-| Wed, 25 Jun 2025 14:08:21 GMT | งาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2: Cybersecurity and AI วันที่ 2 | Thanaphum Bubaso | [Read More](https://medium.com/p/6a30b88603a6) |
-| Wed, 25 Jun 2025 14:07:22 GMT | Setup for Maldev on android | Lord Murak | [Read More](https://medium.com/p/b1ee7cc307cb) |
-| Wed, 25 Jun 2025 14:06:55 GMT | Why You Should Drop Everything & Join the World’s Biggest AI Hackathon Right Now | The Streets to Entrepreneurs | [Read More](https://medium.com/p/34b9cfb1722b) |
-| Wed, 25 Jun 2025 14:06:29 GMT | I Built a Great App. Then I Realized It Wasn’t Secure | Mobterest Studio | [Read More](https://medium.com/p/514f8626cdb2) |
-| Wed, 25 Jun 2025 14:06:01 GMT | DevSecOps 101 Study Plan: Mastering Best Practices | Everton Araújo | [Read More](https://medium.com/p/093cabe8f813) |
-| Wed, 25 Jun 2025 14:04:14 GMT | Unlocking the Power of Automation: n8n for Data Analysts and Cybersecurity | alunacyberanalyst | [Read More](https://medium.com/p/57a30ebceab0) |
-| Wed, 25 Jun 2025 14:01:53 GMT | Unlocking AWS Security : IAM | Janindu Pasan | [Read More](https://medium.com/p/1c5233d8826c) |
-| Wed, 25 Jun 2025 14:01:06 GMT | Creating a Reusable File Upload Service in Java with Spring Boot: The Definitive Guide | Noah Byteforge | [Read More](https://medium.com/p/49969e850b14) |
-| Wed, 25 Jun 2025 13:59:49 GMT | Cyber Briefing: 2025.06.25 | CyberMaterial | [Read More](https://medium.com/p/572bfedc395e) |
