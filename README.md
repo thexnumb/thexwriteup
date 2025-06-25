@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 15:16:41 GMT | Zero-Day Rising: A New Normal in Cyber Threat | Milos | [Read More](https://medium.com/p/8a4d640c0663) |
+| Wed, 25 Jun 2025 15:16:40 GMT | Why Does Ax Framework Pay Hackers So Much | Ibtissam hammadi | [Read More](https://medium.com/p/f6cc8b4bb666) |
+| Wed, 25 Jun 2025 15:01:47 GMT | ✨ Title: Inside the Breach: How an Entire Bank's Computer Systems Were Hacked | Aditya sunny | [Read More](https://medium.com/p/cee78b45a5dc) |
+| Wed, 25 Jun 2025 14:50:45 GMT | Beat the Heat Without Lifting a Finger: The FRSARA Portable Neck Fan Might Just Be the Summer Hack… | Bogymohamedali | [Read More](https://medium.com/p/3152275d732b) |
+| Wed, 25 Jun 2025 14:49:19 GMT | Write-Up CTF: Forensics Challenges | Ariq | [Read More](https://medium.com/p/5707c1ce8c5d) |
+| Wed, 25 Jun 2025 14:48:35 GMT | Built for Resilience: How We Designed a Secure and Scalable Infrastructure for Small Businesses in… | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/7b4fb235b3c0) |
+| Wed, 25 Jun 2025 14:46:27 GMT | Logless hunt Tryhackme walkthrough | Jenito | [Read More](https://medium.com/p/8a582d9ea37c) |
+| Wed, 25 Jun 2025 14:46:07 GMT | Write-up CTF: Cryptography Challenges | Ariq | [Read More](https://medium.com/p/fdcd0ac2aeab) |
+| Wed, 25 Jun 2025 14:45:06 GMT | Keep Your Ruby Projects Secure and Up-to-Date with Dependabot | Germán Giménez Silva | [Read More](https://medium.com/p/55515103c8d2) |
 | Wed, 25 Jun 2025 14:28:41 GMT | The Art of Hiding in Plain Sight | howsillyistoosilly | [Read More](https://medium.com/p/a1e56122d28f) |
 | Wed, 25 Jun 2025 14:28:15 GMT | But anxiety, as a concept, as a diagnosis, as a lived experience with a name and weight… that was a… | Arlettys Lp | [Read More](https://medium.com/p/1deb95f9e38d) |
 | Wed, 25 Jun 2025 14:22:27 GMT | LLM Security: The Bizarre, Hilarious, and Terrifying New Battlefield of Digital Defense | Asanka Dissanayake | [Read More](https://medium.com/p/46e8040adecc) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 10:11:45 GMT | Secure Your Site in Minutes: Open-Source WAF With 99%+ Accuracy and Zero Hassle | AerieWhole123 | [Read More](https://medium.com/p/714bcd07c7e0) |
 | Wed, 25 Jun 2025 10:08:12 GMT | Protecting data | Igor Berner | [Read More](https://medium.com/p/884145fc6b22) |
 | Wed, 25 Jun 2025 10:07:10 GMT | Basics of Python Programming | Himakshithakre | [Read More](https://medium.com/p/1fff140f9cc0) |
-| Wed, 25 Jun 2025 10:06:02 GMT | 4XCUBE Reviews - This Is How I Recover My Money From 4XCUBE | Joseph Martin | [Read More](https://medium.com/p/e3a23ff78a8f) |
-| Wed, 25 Jun 2025 10:02:47 GMT | Entry-Level Cybersecurity Professional — Roles & Responsibilities | Akalanka Dambagolla | [Read More](https://medium.com/p/a8e9ed144b9d) |
-| Wed, 25 Jun 2025 10:00:51 GMT | How do VAPT Services proactively prevent data breaches? | StrongBox IT | [Read More](https://medium.com/p/a0440778eeae) |
-| Wed, 25 Jun 2025 09:57:59 GMT | Here’s How I Recover My Money From 4xcube | Joseph Martin | [Read More](https://medium.com/p/f464dd0eeb07) |
-| Wed, 25 Jun 2025 09:54:16 GMT | Investigating Career Opportunities and Payscale in Cybersecurity | IES University | [Read More](https://medium.com/p/f7d839b7ac58) |
-| Wed, 25 Jun 2025 09:53:41 GMT | Adli Bilişim: Dijital Dünyada Suçun İzini Sürmek | İrem Çagla Demirtaş | [Read More](https://medium.com/p/dbfd3192aa2a) |
-| Wed, 25 Jun 2025 09:53:11 GMT | 16 Million Passwords Exposed in Record-Breaking Data Breach | Jyothi Prajapat✨️ - SEO Article Writer | [Read More](https://medium.com/p/0cc4010de00e) |
-| Wed, 25 Jun 2025 09:51:03 GMT | Spotify and HackerOne: Dismissing Local Threats as ‘Informational | Diego Caridei | [Read More](https://medium.com/p/c1900baf3d30) |
-| Wed, 25 Jun 2025 09:49:18 GMT | When Trust Becomes the Threat: The Trojanized SonicWall VPN Installer and the Future of Endpoint… | Chetan Seripally | [Read More](https://medium.com/p/2c8fb038bbef) |
