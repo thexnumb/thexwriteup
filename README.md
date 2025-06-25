@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 09:19:00 GMT | Phishing (Oltalama) E-postalarını Tespit Etmek İçin 5 İpucu | İrem Çagla Demirtaş | [Read More](https://medium.com/p/eb8c65fd97f4) |
+| Wed, 25 Jun 2025 09:13:25 GMT | Business Logic: How I Bypassed Device Login Limits on a Streaming Platform | RAJVEER | [Read More](https://medium.com/p/9997cf6124ce) |
+| Wed, 25 Jun 2025 09:11:58 GMT | Cloud Infrastructure Security: Threats, Challenges & How to Protect Your Data | Teleglobal International | [Read More](https://medium.com/p/6fcc2613212d) |
+| Wed, 25 Jun 2025 09:08:57 GMT | Noya Created The AI-driven Omnichain Yield Optimizer | PVMihalache | [Read More](https://medium.com/p/ba2c1ad5fb02) |
+| Wed, 25 Jun 2025 09:06:01 GMT | Vulnerabilities (a poem) | Rachel Elizabeth Turchanik | [Read More](https://medium.com/p/49861b91a32b) |
+| Wed, 25 Jun 2025 09:04:41 GMT | How to Prevent Subdomain Takeover Using the Subzy Tool | Youssef Said  Thabet | [Read More](https://medium.com/p/d87f4b066bf5) |
+| Wed, 25 Jun 2025 09:03:50 GMT | ️ Behind the Screens: A Day in the Life of a SOC Analyst | vyshnaviallam | [Read More](https://medium.com/p/0f0ca0436bbb) |
+| Wed, 25 Jun 2025 09:00:58 GMT | 4 Most Common Encryption Algorithms Used in Fintech Systems | Anh Trần Tuấn | [Read More](https://medium.com/p/d29fe28bb6a4) |
+| Wed, 25 Jun 2025 09:00:54 GMT | 4 Most Common Encryption Algorithms Used in Fintech Systems | Anh Trần Tuấn | [Read More](https://medium.com/p/1c8d4b2fdccb) |
+| Wed, 25 Jun 2025 08:49:16 GMT | Subdomain Takeover: The Silent Threat Hiding in Plain Sight | Youssef Said  Thabet | [Read More](https://medium.com/p/08e21dbe00bc) |
+| Wed, 25 Jun 2025 08:46:52 GMT | The War We’ll Never See: How Cyber Attacks Are Replacing Traditional Battles | Hafizbilaltariq | [Read More](https://medium.com/p/3978f0b44449) |
+| Wed, 25 Jun 2025 08:44:52 GMT | Windows Fundamentals 1: TryHackMe Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/edca9e91bb16) |
+| Wed, 25 Jun 2025 08:43:36 GMT | Building a Centralized and Secure AWS ECR Architecture for Scalable Container Delivery | Bitan Mallick | [Read More](https://medium.com/p/22f0964c629b) |
+| Wed, 25 Jun 2025 08:41:23 GMT | [HTB Writeup] Automated Penetration Test with METASPLOIT | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/c579e30b8e4e) |
+| Wed, 25 Jun 2025 08:37:38 GMT | Spotify Clone Meets Real DevSecOps: From GitHub to Kubernetes with Security Built-In | YG | [Read More](https://medium.com/p/49975c35a45c) |
+| Wed, 25 Jun 2025 08:33:43 GMT | Leading the Charge: Cheyanne Mallas on Project Management in Cyber Security | Mallascheyanne | [Read More](https://medium.com/p/c0fc62e2051b) |
+| Wed, 25 Jun 2025 08:31:21 GMT | MCP + OAuth 2.1: Why This Combination Changes Everything | Sagar | [Read More](https://medium.com/p/24f5624c32cc) |
+| Wed, 25 Jun 2025 08:26:39 GMT | When Giants Stumble: Google’s Rough Patch Spells Caution for All | Namir Sagheenanajar | [Read More](https://medium.com/p/cb3e00269a61) |
 | Wed, 25 Jun 2025 08:18:35 GMT | AI, Security, and Penetration Testing | Steve McLaughlin | [Read More](https://medium.com/p/d808206d3bf6) |
 | Wed, 25 Jun 2025 08:13:53 GMT | CVE-2025–0282: Remote Code Execution in Ivanti Connect Secure VPN | Quella | [Read More](https://medium.com/p/53e303806038) |
 | Wed, 25 Jun 2025 08:13:47 GMT | Keystroke Forensics 101: Extracting Secrets from USB Traffic | BlackMamba | [Read More](https://medium.com/p/7fdd4797d1a9) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 05:35:19 GMT | How to Master IXI Tutorial on Hyperliquid | $IXI (IXI) | [Read More](https://medium.com/p/5e9bf381bdf0) |
 | Wed, 25 Jun 2025 05:34:55 GMT | How to Earn NXTU Tools on Hyperliquid | $NXTU (4 Next Unicorn) | [Read More](https://medium.com/p/d7451eb21691) |
 | Wed, 25 Jun 2025 05:34:51 GMT | How to Accelerate BRISH Liquidity on Hyperliquid | $BRISH (Brish) | [Read More](https://medium.com/p/94a1bfe29ff2) |
-| Wed, 25 Jun 2025 05:34:48 GMT | How to Manage A1X Strategies on Hyperliquid | $A1X (AI Nexus) | [Read More](https://medium.com/p/5245bd9564f3) |
-| Wed, 25 Jun 2025 05:34:00 GMT | IP Cameralara Sızmayı Sağlayan Exploit Destekli Tool “sh3ll” | buraktheroot | [Read More](https://medium.com/p/ca139c2d6b76) |
-| Wed, 25 Jun 2025 05:33:45 GMT | How to Explore YSL Funding on Hyperliquid | $YSL (YSL.IO) | [Read More](https://medium.com/p/5c07e6477695) |
-| Wed, 25 Jun 2025 05:33:37 GMT | How to Earn MSJD Positions on Hyperliquid | $MSJD (dsgddsg) | [Read More](https://medium.com/p/99496849e380) |
-| Wed, 25 Jun 2025 05:33:25 GMT | How to Optimize CBUNNY Guide on Hyperliquid | $CBUNNY (Crazy Bunny Equity) | [Read More](https://medium.com/p/7936223beed8) |
-| Wed, 25 Jun 2025 05:33:22 GMT | How to Master sosihui Positions on Hyperliquid | $sosihui (Derucallee) | [Read More](https://medium.com/p/caed2747a935) |
-| Wed, 25 Jun 2025 05:33:14 GMT | Is Hyperliquid Safe for Leveraged M-USDC Trading? | $M-USDC (Merlin's Seal USDC) | [Read More](https://medium.com/p/cbd00fb840ca) |
-| Wed, 25 Jun 2025 05:32:04 GMT | 10 Crore Cyberattacks: Is India Ready for the New Face of War Post-Pahalgam? | Zeron | [Read More](https://medium.com/p/0ceac7016f16) |
-| Wed, 25 Jun 2025 05:31:57 GMT | Checklist: Data-Security Must-Haves Before Your First Enterprise AEC Pilot | AlterSquare | [Read More](https://medium.com/p/35427bf76417) |
-| Wed, 25 Jun 2025 05:27:41 GMT | Salt Typhoon: Hacking Without Hacking | Manish | [Read More](https://medium.com/p/501a07362daa) |
-| Wed, 25 Jun 2025 05:26:59 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/34c0f94d0d30) |
-| Wed, 25 Jun 2025 05:26:11 GMT | The Silent Breach: How a Telecom Was Compromised Without a Click | Srinivasps | [Read More](https://medium.com/p/1b8476a8dd5d) |
-| Wed, 25 Jun 2025 05:25:02 GMT | How To Fix cPanel Access Issues? | HostNOC | [Read More](https://medium.com/p/c8da1cdc71dc) |
-| Wed, 25 Jun 2025 05:23:19 GMT | A Renewed Call for Network Security: What Salt Typhoon Reminds Us | Hari Rahul | [Read More](https://medium.com/p/386c00eca64e) |
-| Wed, 25 Jun 2025 05:21:38 GMT | How to Explore BOOSHI Tools on Hyperliquid | $BOOSHI (Booshi) | [Read More](https://medium.com/p/91d219cfe28a) |
-| Wed, 25 Jun 2025 05:21:38 GMT | How to Boost NETA Margin on Hyperliquid | $NETA (NETA) | [Read More](https://medium.com/p/52344b832a13) |
-| Wed, 25 Jun 2025 05:21:07 GMT | How to Explore INA Fees on Hyperliquid | $INA (Pepeinatux) | [Read More](https://medium.com/p/f96cf454fb32) |
-| Wed, 25 Jun 2025 05:21:07 GMT | How to Leverage VOLR Funding on Hyperliquid | $VOLR (Volare Network) | [Read More](https://medium.com/p/57ac3af3f6cc) |
