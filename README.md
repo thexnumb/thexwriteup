@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 14:13:48 GMT | How I Finally Overcame the Struggle Against Persistent Targeted Spyware | Hogan Torah | [Read More](https://medium.com/p/dac37c63279f) |
+| Wed, 25 Jun 2025 14:12:56 GMT | Your Best Work May Already Be Training Someone Else’s AI — for Free | Carson Sweet | [Read More](https://medium.com/p/a5c496f1cb8c) |
+| Wed, 25 Jun 2025 14:12:43 GMT | TryHackMe - Cyber Kill Chain - WriteUp | Axoloth | [Read More](https://medium.com/p/93a57c41fa2a) |
+| Wed, 25 Jun 2025 14:11:55 GMT | From Six Letters of Sheet Metal to Your Doorstep: The DEFCON Guide to License Plate OSINT (v2025) | Karla Ortiz-Flores | [Read More](https://medium.com/p/d9eee4228639) |
+| Wed, 25 Jun 2025 14:08:23 GMT | Behind the Bugs: Day 3 | Yukeshwaran N | [Read More](https://medium.com/p/97571039887d) |
+| Wed, 25 Jun 2025 14:08:21 GMT | งาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2: Cybersecurity and AI วันที่ 2 | Thanaphum Bubaso | [Read More](https://medium.com/p/6a30b88603a6) |
+| Wed, 25 Jun 2025 14:07:22 GMT | Setup for Maldev on android | Lord Murak | [Read More](https://medium.com/p/b1ee7cc307cb) |
+| Wed, 25 Jun 2025 14:06:55 GMT | Why You Should Drop Everything & Join the World’s Biggest AI Hackathon Right Now | The Streets to Entrepreneurs | [Read More](https://medium.com/p/34b9cfb1722b) |
+| Wed, 25 Jun 2025 14:06:29 GMT | I Built a Great App. Then I Realized It Wasn’t Secure | Mobterest Studio | [Read More](https://medium.com/p/514f8626cdb2) |
+| Wed, 25 Jun 2025 14:06:01 GMT | DevSecOps 101 Study Plan: Mastering Best Practices | Everton Araújo | [Read More](https://medium.com/p/093cabe8f813) |
+| Wed, 25 Jun 2025 14:04:14 GMT | Unlocking the Power of Automation: n8n for Data Analysts and Cybersecurity | alunacyberanalyst | [Read More](https://medium.com/p/57a30ebceab0) |
+| Wed, 25 Jun 2025 14:01:53 GMT | Unlocking AWS Security : IAM | Janindu Pasan | [Read More](https://medium.com/p/1c5233d8826c) |
+| Wed, 25 Jun 2025 14:01:06 GMT | Creating a Reusable File Upload Service in Java with Spring Boot: The Definitive Guide | Noah Byteforge | [Read More](https://medium.com/p/49969e850b14) |
+| Wed, 25 Jun 2025 13:59:49 GMT | Cyber Briefing: 2025.06.25 | CyberMaterial | [Read More](https://medium.com/p/572bfedc395e) |
+| Wed, 25 Jun 2025 13:58:15 GMT | The Digital Playground Is Evolving — And It’s Time Parents Had Backup | Berenice Houston | [Read More](https://medium.com/p/f4d49010c19c) |
+| Wed, 25 Jun 2025 13:56:28 GMT | How the Iran-Israel Conflict Is Reshaping Global Cybersecurity: 3 Scenarios to Watch | Ekene Joseph | [Read More](https://medium.com/p/e112e6a1db5d) |
+| Wed, 25 Jun 2025 13:55:52 GMT | Check Point’s 2025 Cloud Security Report: 65% of Firms Hit by Cloud Cyber Scams | Breezy Business Channel | [Read More](https://medium.com/p/f066fcf9e71f) |
+| Wed, 25 Jun 2025 13:52:50 GMT | Yearn, Hundred, Ocean Life: The Cost of Misconfigured Logic and Missing Storage Updates | Olympix | [Read More](https://medium.com/p/3a6f1d1fe2e7) |
+| Wed, 25 Jun 2025 13:45:06 GMT | Euler, Sentiment, Safemoon: What These Exploits Reveal About DeFi’s Weak Points | Olympix | [Read More](https://medium.com/p/9c1910584b1f) |
+| Wed, 25 Jun 2025 13:39:02 GMT | What to Say | Crumbs and Currency | [Read More](https://medium.com/p/dac6dac204d4) |
+| Wed, 25 Jun 2025 13:38:01 GMT | Wireless Network Exploitation -Simulating a Wi-Fi Password Cracking Attack | Mithra Consulting | [Read More](https://medium.com/p/c628d31d0dd5) |
+| Wed, 25 Jun 2025 13:34:17 GMT | Top 5 Ways to Protect Your Online Privacy (That Actually Work) | Kambetastephano | [Read More](https://medium.com/p/185e748f4470) |
+| Wed, 25 Jun 2025 13:32:41 GMT | The Art of Survival | Harry Moller | [Read More](https://medium.com/p/a35136ac9035) |
+| Wed, 25 Jun 2025 13:31:25 GMT | Inside Job: $2M Bedrock Hack Traced Back to Ex-Employee — The Plot is WILDER Than You Think | CoinGen | [Read More](https://medium.com/p/d66866fd1de1) |
 | Wed, 25 Jun 2025 13:29:05 GMT | Welcome to Digital Parenting: What You Need to Know to Protect and Support Your Little One Online | Savvy Cyber Kids | [Read More](https://medium.com/p/db3fa4351adc) |
 | Wed, 25 Jun 2025 13:28:43 GMT | Netflix Docuseries “Web of Lies: Sextortion” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/6a984374e7db) |
 | Wed, 25 Jun 2025 13:28:19 GMT | Netflix Docuseries “Web of Lies: I’m Not A Nazi” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/322563cdfc19) |
@@ -89,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 09:38:02 GMT | FileFix: A Simple Social Engineering Trick That Launches PowerShell from the Browser | IT Guy | [Read More](https://medium.com/p/31ff3120ccd1) |
 | Wed, 25 Jun 2025 09:37:26 GMT | When Your Inner Circle Feels Like an Audience You Didn’t Invite | Ezgi Ekin Bilgili-Cil | [Read More](https://medium.com/p/53b5d839b3b2) |
 | Wed, 25 Jun 2025 09:35:56 GMT | Top Books for Bug Bounty, Hacking, Penetration Testing & AI in Cybersecurity (2025) | SimpleTecBro | [Read More](https://medium.com/p/88d31168870e) |
-| Wed, 25 Jun 2025 09:19:00 GMT | Phishing (Oltalama) E-postalarını Tespit Etmek İçin 5 İpucu | İrem Çagla Demirtaş | [Read More](https://medium.com/p/eb8c65fd97f4) |
-| Wed, 25 Jun 2025 09:13:25 GMT | Business Logic: How I Bypassed Device Login Limits on a Streaming Platform | RAJVEER | [Read More](https://medium.com/p/9997cf6124ce) |
-| Wed, 25 Jun 2025 09:11:58 GMT | Cloud Infrastructure Security: Threats, Challenges & How to Protect Your Data | Teleglobal International | [Read More](https://medium.com/p/6fcc2613212d) |
-| Wed, 25 Jun 2025 09:08:57 GMT | Noya Created The AI-driven Omnichain Yield Optimizer | PVMihalache | [Read More](https://medium.com/p/ba2c1ad5fb02) |
-| Wed, 25 Jun 2025 09:06:01 GMT | Vulnerabilities (a poem) | Rachel Elizabeth Turchanik | [Read More](https://medium.com/p/49861b91a32b) |
-| Wed, 25 Jun 2025 09:04:41 GMT | How to Prevent Subdomain Takeover Using the Subzy Tool | Youssef Said  Thabet | [Read More](https://medium.com/p/d87f4b066bf5) |
-| Wed, 25 Jun 2025 09:03:50 GMT | ️ Behind the Screens: A Day in the Life of a SOC Analyst | vyshnaviallam | [Read More](https://medium.com/p/0f0ca0436bbb) |
-| Wed, 25 Jun 2025 09:00:58 GMT | 4 Most Common Encryption Algorithms Used in Fintech Systems | Anh Trần Tuấn | [Read More](https://medium.com/p/d29fe28bb6a4) |
-| Wed, 25 Jun 2025 09:00:54 GMT | 4 Most Common Encryption Algorithms Used in Fintech Systems | Anh Trần Tuấn | [Read More](https://medium.com/p/1c8d4b2fdccb) |
-| Wed, 25 Jun 2025 08:49:16 GMT | Subdomain Takeover: The Silent Threat Hiding in Plain Sight | Youssef Said  Thabet | [Read More](https://medium.com/p/08e21dbe00bc) |
-| Wed, 25 Jun 2025 08:46:52 GMT | The War We’ll Never See: How Cyber Attacks Are Replacing Traditional Battles | Hafizbilaltariq | [Read More](https://medium.com/p/3978f0b44449) |
-| Wed, 25 Jun 2025 08:44:52 GMT | Windows Fundamentals 1: TryHackMe Walkthrough | Raymond Ebonine | [Read More](https://medium.com/p/edca9e91bb16) |
-| Wed, 25 Jun 2025 08:43:36 GMT | Building a Centralized and Secure AWS ECR Architecture for Scalable Container Delivery | Bitan Mallick | [Read More](https://medium.com/p/22f0964c629b) |
-| Wed, 25 Jun 2025 08:41:23 GMT | [HTB Writeup] Automated Penetration Test with METASPLOIT | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/c579e30b8e4e) |
-| Wed, 25 Jun 2025 08:37:38 GMT | Spotify Clone Meets Real DevSecOps: From GitHub to Kubernetes with Security Built-In | YG | [Read More](https://medium.com/p/49975c35a45c) |
-| Wed, 25 Jun 2025 08:33:43 GMT | Leading the Charge: Cheyanne Mallas on Project Management in Cyber Security | Mallascheyanne | [Read More](https://medium.com/p/c0fc62e2051b) |
-| Wed, 25 Jun 2025 08:31:21 GMT | MCP + OAuth 2.1: Why This Combination Changes Everything | Sagar | [Read More](https://medium.com/p/24f5624c32cc) |
-| Wed, 25 Jun 2025 08:26:39 GMT | When Giants Stumble: Google’s Rough Patch Spells Caution for All | Namir Sagheenanajar | [Read More](https://medium.com/p/cb3e00269a61) |
-| Wed, 25 Jun 2025 08:18:35 GMT | AI, Security, and Penetration Testing | Steve McLaughlin | [Read More](https://medium.com/p/d808206d3bf6) |
-| Wed, 25 Jun 2025 08:13:53 GMT | CVE-2025–0282: Remote Code Execution in Ivanti Connect Secure VPN | Quella | [Read More](https://medium.com/p/53e303806038) |
-| Wed, 25 Jun 2025 08:13:47 GMT | Keystroke Forensics 101: Extracting Secrets from USB Traffic | BlackMamba | [Read More](https://medium.com/p/7fdd4797d1a9) |
-| Wed, 25 Jun 2025 08:13:19 GMT | Hello, Medium Family! Yamini Yadav Here, Sharing My OSCP Journey & Essential Port Insights! | Yamini Yadav | [Read More](https://medium.com/p/44e4df621114) |
-| Wed, 25 Jun 2025 08:07:45 GMT | Multi-Agent AI Risks: Mapping the Emerging Coordination Challenge | gema.parreno.piqueras | [Read More](https://medium.com/p/42da86d2d173) |
-| Wed, 25 Jun 2025 08:07:38 GMT | How to Secure STLXP Benefits on Hyperliquid | $STLXP (Sky's the Limit) | [Read More](https://medium.com/p/153c940d65b2) |
