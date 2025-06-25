@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 19:31:53 GMT | This One Mistake With Password Vaults Could Expose All Your Accounts | Austin Gomez | [Read More](https://medium.com/p/96fdf9e7850d) |
+| Wed, 25 Jun 2025 19:19:21 GMT | Keeping Your Linux Clean: Malware Scanning with ClamAV | Lince Mathew | [Read More](https://medium.com/p/8c95fde50187) |
+| Wed, 25 Jun 2025 19:18:28 GMT | Windows 10 ESU Free? Unpacking Microsoft’s Hidden Catch for Extended Security Updates | TechBird | [Read More](https://medium.com/p/5f49640d3f63) |
+| Wed, 25 Jun 2025 19:17:32 GMT | Expanding Your SIEM Stack: How to Ingest Webhook-Only Logs with Shuffle and CoPilot | SOCFortress | [Read More](https://medium.com/p/eeb205fa38dc) |
+| Wed, 25 Jun 2025 19:15:03 GMT | ERP implementation: IT’s role has changed | Debbie Gallagher | [Read More](https://medium.com/p/f5c127e74f18) |
 | Wed, 25 Jun 2025 19:10:43 GMT | OWASP Pentest Series (9/12) | TheZeeshanKhan | [Read More](https://medium.com/p/6b7dae1008af) |
 | Wed, 25 Jun 2025 19:08:01 GMT | I Observed a Hospital’s Digital Footprint Using Only My Phone | Sam Galope | [Read More](https://medium.com/p/dbf4da60cd9b) |
+| Wed, 25 Jun 2025 19:07:15 GMT | B u y Veri fied Cash App Accounts Safe, Trusted & Fully Functional Accounts at EGSMMIT | Megan moss | [Read More](https://medium.com/p/bcb9da074a3d) |
 | Wed, 25 Jun 2025 19:05:31 GMT | A Poem to A True Love That I Did Send | Kayla | [Read More](https://medium.com/p/6141b8d84b02) |
 | Wed, 25 Jun 2025 19:04:35 GMT | Mapping the Dark Web for Recon: Ethical OSINT Techniques | Monika sharma | [Read More](https://medium.com/p/765b6eb851d7) |
 | Wed, 25 Jun 2025 18:56:20 GMT | Bankers Association’s Attack on Cybersecurity Transparency | Matthew.Rosenquist | [Read More](https://medium.com/p/33c96d9e9847) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 14:01:53 GMT | Unlocking AWS Security : IAM | Janindu Pasan | [Read More](https://medium.com/p/1c5233d8826c) |
 | Wed, 25 Jun 2025 14:01:06 GMT | Creating a Reusable File Upload Service in Java with Spring Boot: The Definitive Guide | Noah Byteforge | [Read More](https://medium.com/p/49969e850b14) |
 | Wed, 25 Jun 2025 13:59:49 GMT | Cyber Briefing: 2025.06.25 | CyberMaterial | [Read More](https://medium.com/p/572bfedc395e) |
-| Wed, 25 Jun 2025 13:58:15 GMT | The Digital Playground Is Evolving — And It’s Time Parents Had Backup | Berenice Houston | [Read More](https://medium.com/p/f4d49010c19c) |
-| Wed, 25 Jun 2025 13:56:28 GMT | How the Iran-Israel Conflict Is Reshaping Global Cybersecurity: 3 Scenarios to Watch | Ekene Joseph | [Read More](https://medium.com/p/e112e6a1db5d) |
-| Wed, 25 Jun 2025 13:55:52 GMT | Check Point’s 2025 Cloud Security Report: 65% of Firms Hit by Cloud Cyber Scams | Breezy Business Channel | [Read More](https://medium.com/p/f066fcf9e71f) |
-| Wed, 25 Jun 2025 13:52:50 GMT | Yearn, Hundred, Ocean Life: The Cost of Misconfigured Logic and Missing Storage Updates | Olympix | [Read More](https://medium.com/p/3a6f1d1fe2e7) |
-| Wed, 25 Jun 2025 13:45:06 GMT | Euler, Sentiment, Safemoon: What These Exploits Reveal About DeFi’s Weak Points | Olympix | [Read More](https://medium.com/p/9c1910584b1f) |
-| Wed, 25 Jun 2025 13:39:02 GMT | What to Say | Crumbs and Currency | [Read More](https://medium.com/p/dac6dac204d4) |
