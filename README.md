@@ -12,9 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 15:40:06 GMT | Top SMS Blaster & Toll Fee Scams of 2025—And How to Beat Them | Sanskritiverse | [Read More](https://medium.com/p/7f7edd1ce4c7) |
+| Wed, 25 Jun 2025 15:27:09 GMT | The Evolution and Modern Landscape of Linux Kernel Security | Asım | [Read More](https://medium.com/p/37b5029e35db) |
+| Wed, 25 Jun 2025 15:27:00 GMT | The Complete Guide to Enterprise Authentication & Authorization: Building Secure Systems for B2B… | Himansu Saha | [Read More](https://medium.com/p/cfdf5ce5bb59) |
+| Wed, 25 Jun 2025 15:22:16 GMT | Simple Multi-Tenant Encryption for Go Applications | Skipper @ SouthWinds Tech | [Read More](https://medium.com/p/bf6fcd141d75) |
+| Wed, 25 Jun 2025 15:16:47 GMT | Shellcode Injection 101: Narnia 1 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/0322a6c4382e) |
 | Wed, 25 Jun 2025 15:16:41 GMT | Zero-Day Rising: A New Normal in Cyber Threat | Milos | [Read More](https://medium.com/p/8a4d640c0663) |
 | Wed, 25 Jun 2025 15:16:40 GMT | Why Does Ax Framework Pay Hackers So Much | Ibtissam hammadi | [Read More](https://medium.com/p/f6cc8b4bb666) |
 | Wed, 25 Jun 2025 15:01:47 GMT | ✨ Title: Inside the Breach: How an Entire Bank's Computer Systems Were Hacked | Aditya sunny | [Read More](https://medium.com/p/cee78b45a5dc) |
+| Wed, 25 Jun 2025 14:51:48 GMT | Peeling Off the Digital Layer: Write-up Serangkaian Tantangan Keamanan Siber | Ariq | [Read More](https://medium.com/p/0a8136693709) |
 | Wed, 25 Jun 2025 14:50:45 GMT | Beat the Heat Without Lifting a Finger: The FRSARA Portable Neck Fan Might Just Be the Summer Hack… | Bogymohamedali | [Read More](https://medium.com/p/3152275d732b) |
 | Wed, 25 Jun 2025 14:49:19 GMT | Write-Up CTF: Forensics Challenges | Ariq | [Read More](https://medium.com/p/5707c1ce8c5d) |
 | Wed, 25 Jun 2025 14:48:35 GMT | Built for Resilience: How We Designed a Secure and Scalable Infrastructure for Small Businesses in… | BRUNO VINICIUS CAVANA RUY | [Read More](https://medium.com/p/7b4fb235b3c0) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 10:21:42 GMT | The $200B Cybersecurity Software Market: Where We Are, What’s Breaking, and What Comes Next | Omar Bahgat | [Read More](https://medium.com/p/9c762579d9e8) |
 | Wed, 25 Jun 2025 10:19:52 GMT | I Hacked an AI with a Single Emoji | Alexandre Boyer | [Read More](https://medium.com/p/c1ea2e57dcda) |
 | Wed, 25 Jun 2025 10:18:24 GMT | Cybersecurity Nightmare: 16 Billion Passwords Leaked in Data Breach | Mayank Jindal | [Read More](https://medium.com/p/f39ca9e1b62c) |
-| Wed, 25 Jun 2025 10:17:54 GMT | The Real Weak Link in Cybersecurity: How Users Put Entire Systems at Risk | Cyber Timi | [Read More](https://medium.com/p/003f87a65ba1) |
-| Wed, 25 Jun 2025 10:14:39 GMT | Command Injection: Complete Guide to Exploitation and Secure Coding Using a Vulnerable Lab… | Mohana Reddy | [Read More](https://medium.com/p/1a7f0d83f2d3) |
-| Wed, 25 Jun 2025 10:14:25 GMT | Understanding TOTP and Authenticator Apps from a Developer’s Perspective | Francis Mwangi | [Read More](https://medium.com/p/45148dbf75d9) |
-| Wed, 25 Jun 2025 10:11:45 GMT | Secure Your Site in Minutes: Open-Source WAF With 99%+ Accuracy and Zero Hassle | AerieWhole123 | [Read More](https://medium.com/p/714bcd07c7e0) |
-| Wed, 25 Jun 2025 10:08:12 GMT | Protecting data | Igor Berner | [Read More](https://medium.com/p/884145fc6b22) |
-| Wed, 25 Jun 2025 10:07:10 GMT | Basics of Python Programming | Himakshithakre | [Read More](https://medium.com/p/1fff140f9cc0) |
