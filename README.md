@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 17:29:17 GMT | Development of security robotics | Presslink Media | [Read More](https://medium.com/p/6ecd84c427cc) |
+| Wed, 25 Jun 2025 17:23:36 GMT | When home hurts and coffee heals. | grace | [Read More](https://medium.com/p/654d26187a85) |
 | Wed, 25 Jun 2025 17:13:50 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Nithin NIcholas | [Read More](https://medium.com/p/1a5b4312693f) |
 | Wed, 25 Jun 2025 17:12:29 GMT | MS17–010- Manual-Exploitation | ya09r3Z | [Read More](https://medium.com/p/0f7d7552752e) |
 | Wed, 25 Jun 2025 17:08:18 GMT | Portrait of My Emotional Complexity | vibha pathak | [Read More](https://medium.com/p/ef3d8cecf68b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 13:01:46 GMT | AI In Cybersecurity: What’s Now, What’s Next | noailabs | [Read More](https://medium.com/p/afd1787751f7) |
 | Wed, 25 Jun 2025 12:57:33 GMT | 2025’s Biggest Password Leak: 16B Credentials Exposed | Atomic Mail | [Read More](https://medium.com/p/f92b1d68be65) |
 | Wed, 25 Jun 2025 12:45:17 GMT | Giriş | Lizi Natroshvili | [Read More](https://medium.com/p/e6039965db80) |
-| Wed, 25 Jun 2025 12:42:13 GMT | Weak credentials lead to access to admin panel (Deep Recon) (Arabic) | rood | [Read More](https://medium.com/p/453096842412) |
-| Wed, 25 Jun 2025 12:42:00 GMT | Weak credentials lead to access to admin panel (Deep Recon) | rood | [Read More](https://medium.com/p/2909b8a0f23e) |
