@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 22:39:02 GMT | Elasticsearch(57) — 解決弱掃問題 SSL Medium Strength Cipher Suites Supported (SWEET32) | Tako | [Read More](https://medium.com/p/88c32cff7cae) |
+| Wed, 25 Jun 2025 22:35:39 GMT | SQL Injection: A Hacker’s Gateway to Data Chaos | Amanuel | [Read More](https://medium.com/p/fa0a39fe954f) |
+| Wed, 25 Jun 2025 22:34:08 GMT | TryHackMe Develpy CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/440c170ecf56) |
+| Wed, 25 Jun 2025 22:27:32 GMT | Joining the Same Organization Multiple Times Using a Race Condition | Khaledelnabet | [Read More](https://medium.com/p/8844d219b769) |
+| Wed, 25 Jun 2025 22:24:49 GMT | Visualizing Cyber Threats: A Power BI Dashboard for Cybersecurity Analysis (2015–2024) | KEDATALAB | [Read More](https://medium.com/p/5b38d3ac8d8e) |
+| Wed, 25 Jun 2025 22:18:50 GMT | I Tried Hacking My Own Wi-Fi — Here’s What I Learned | Azmat Ali | [Read More](https://medium.com/p/a803b40487ca) |
+| Wed, 25 Jun 2025 22:17:05 GMT | The OSI Model for Ethical Hackers: Practical Applications, Not Just Theory | Karthikeyan Nagaraj | [Read More](https://medium.com/p/910aaf4fa850) |
 | Wed, 25 Jun 2025 22:16:36 GMT | Bug Bounty Journey — Valid Report Part 7 | 0xF3r4t | [Read More](https://medium.com/p/02f45eefea7e) |
+| Wed, 25 Jun 2025 22:12:38 GMT | Active Directory Cheat Sheet 2025 — Red Team to Blue Team Mastery | Shadow Packet | [Read More](https://medium.com/p/e45f218fddb7) |
 | Wed, 25 Jun 2025 21:58:31 GMT | Bypassing the Group Member Limit via Race Condition | Khaledelnabet | [Read More](https://medium.com/p/2442ad33739e) |
 | Wed, 25 Jun 2025 21:55:24 GMT | [Hack The Box CTF] Titanic Write-Up | fnwn | [Read More](https://medium.com/p/6299048b6b5d) |
 | Wed, 25 Jun 2025 21:53:15 GMT | How Hackers Trick You with Social Engineering — And How to Outsmart Them | Azmat Ali | [Read More](https://medium.com/p/0767c9746f33) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 16:14:27 GMT | DIGIX CYBER - Expert Cyber Security Testing Services | Digix Cyber | [Read More](https://medium.com/p/00d4e6daab9b) |
 | Wed, 25 Jun 2025 16:13:53 GMT | Securing SAP in the Cloud: Enabling Resilient Transformation from ECC to S/4HANA and Beyond | WayneReidUK | [Read More](https://medium.com/p/95920ddf1ed3) |
 | Wed, 25 Jun 2025 16:12:20 GMT | Inside the Mind of a Hacker: How Cyber Attacks Really Begin | err0rgod | [Read More](https://medium.com/p/484fdd45706f) |
-| Wed, 25 Jun 2025 16:01:33 GMT | Secure Networking with Bicep: Automating Azure Network Security | Bence Roth | [Read More](https://medium.com/p/ca9c2f621583) |
-| Wed, 25 Jun 2025 16:01:23 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | S3CloudHub | [Read More](https://medium.com/p/2d35a34686b3) |
-| Wed, 25 Jun 2025 16:00:56 GMT | Debloating Container Images: Security Boost or Supply Chain Risk? | William Konitzer | [Read More](https://medium.com/p/c3929824efd4) |
-| Wed, 25 Jun 2025 15:42:54 GMT | Why I Built My Own AI Assistant (and What It Taught Me About Trust, Power, and Thermal Paste) | Baxter Boy | [Read More](https://medium.com/p/6096408713f8) |
-| Wed, 25 Jun 2025 15:40:06 GMT | Top SMS Blaster & Toll Fee Scams of 2025—And How to Beat Them | Sanskritiverse | [Read More](https://medium.com/p/7f7edd1ce4c7) |
-| Wed, 25 Jun 2025 15:38:15 GMT | What Is Governance in Cybersecurity? | Juan Pablo Castro | [Read More](https://medium.com/p/8c5c8cf0b5a4) |
-| Wed, 25 Jun 2025 15:34:28 GMT | How We Built an End-to-End XGBoost-Based Intrusion Detection System Using the CICIDS2018 Dataset | Mohammed Saim Quadri | [Read More](https://medium.com/p/187fa4e01f55) |
-| Wed, 25 Jun 2025 15:27:09 GMT | The Evolution and Modern Landscape of Linux Kernel Security | Asım | [Read More](https://medium.com/p/37b5029e35db) |
