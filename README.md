@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 23:21:21 GMT | How to Build Apps with AI Securely in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/bfe3fed5f4c4) |
 | Wed, 25 Jun 2025 22:55:27 GMT | What They Wrote Before They Killed: An AI based Linguistic Study of Violent Offenders | Shirish Pandita | [Read More](https://medium.com/p/388bf2f3c674) |
 | Wed, 25 Jun 2025 22:44:55 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/7098661327a7) |
 | Wed, 25 Jun 2025 22:39:02 GMT | Elasticsearch(57) — 解決弱掃問題 SSL Medium Strength Cipher Suites Supported (SWEET32) | Tako | [Read More](https://medium.com/p/88c32cff7cae) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 16:31:51 GMT | When the Internet Goes to War: How Cyber Conflict Is Reshaping Global Business Risk | Ankit Sharma | [Read More](https://medium.com/p/8c9e00ba43e3) |
 | Wed, 25 Jun 2025 16:21:06 GMT | I Still Don’t Know What I’m Doing; But I Think It's About Courage. | Elizabeth N. Ugbor | [Read More](https://medium.com/p/7f732fcd2cdd) |
 | Wed, 25 Jun 2025 16:14:50 GMT | บทเรียนป้องกันตัวในโลกดิจิทัลจากงาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2 | NaphatJM | [Read More](https://medium.com/p/4bf1616ef541) |
-| Wed, 25 Jun 2025 16:14:27 GMT | DIGIX CYBER - Expert Cyber Security Testing Services | Digix Cyber | [Read More](https://medium.com/p/00d4e6daab9b) |
