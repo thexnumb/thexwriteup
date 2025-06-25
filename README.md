@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 12:39:41 GMT | How Can Understanding IT Jargon Improve Decision-Making? | Lisna | [Read More](https://medium.com/p/bd37f1a0d1df) |
+| Wed, 25 Jun 2025 12:31:03 GMT | The Turtles And A Girl | Taiba Shaikh | [Read More](https://medium.com/p/6ed0d386ef39) |
+| Wed, 25 Jun 2025 12:30:36 GMT | PowerShell in Cybersecurity (Offensive and Defensive) | The Aegis Security | [Read More](https://medium.com/p/f0f095eb2273) |
+| Wed, 25 Jun 2025 12:30:32 GMT | AI-Driven Cyberattacks: How Nations Are Using Machine Learning in Digital Espionage | Vrushank Thakkar | [Read More](https://medium.com/p/697459903a52) |
+| Wed, 25 Jun 2025 12:27:06 GMT | Walkthrough THM Mustacchio V2 | Telynor | [Read More](https://medium.com/p/2badbfe67636) |
+| Wed, 25 Jun 2025 12:24:18 GMT | Container Image Optimization: Reducing Size and Improving Security with Distroless Images | Sylvain Gibier | [Read More](https://medium.com/p/239fe5653dfa) |
+| Wed, 25 Jun 2025 12:22:45 GMT | Telegram’s Policy Update Is Pushing Cybercrime Underground | TheReviewHive | [Read More](https://medium.com/p/de57521dc49a) |
+| Wed, 25 Jun 2025 12:15:30 GMT | How I Stole My Friend’s Secrets | Mr Horbio | [Read More](https://medium.com/p/6bfd242e92e3) |
+| Wed, 25 Jun 2025 12:09:09 GMT | How to Build a Resilient Security Framework with Cyber Risk Assessment & Planning | sanya | [Read More](https://medium.com/p/c3dbd353bb9f) |
+| Wed, 25 Jun 2025 12:08:04 GMT | K8SGPT: Identifying k8s cluster issues & triage them in an easy way | Purushotham Reddy | [Read More](https://medium.com/p/a9b98247e7c9) |
+| Wed, 25 Jun 2025 12:07:04 GMT | Why use cloud transformation security services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/8fff6590888b) |
+| Wed, 25 Jun 2025 12:06:32 GMT | I Built a Bug Bounty Framework in Over 2 Years | Mostafa Alrefai | [Read More](https://medium.com/p/f9b7daa0b7aa) |
+| Wed, 25 Jun 2025 12:06:05 GMT | Zero-click Account Takeover!(I found it in half an hour) | Furkan Uyar | [Read More](https://medium.com/p/444e737f0919) |
+| Wed, 25 Jun 2025 12:05:49 GMT | How to Implement and Manage a Web Application Firewall for Maximum Security | Gargiben | [Read More](https://medium.com/p/4ffcd7c79ec4) |
+| Wed, 25 Jun 2025 12:04:58 GMT | Securing Your APIs: A Modern Guide to JWT Authentication in Spring Boot 3 | Umesh Kumar Yadav | [Read More](https://medium.com/p/9080067249fc) |
+| Wed, 25 Jun 2025 11:52:04 GMT | How Fast Does ZAP Work in Exchange Online Protection? | Kijo Ninja | [Read More](https://medium.com/p/a7a96e083b46) |
+| Wed, 25 Jun 2025 11:45:23 GMT | 25 Mind-Blowing Software Bugs That Happened | Enigma of the Stack | [Read More](https://medium.com/p/797d6d4cdacf) |
+| Wed, 25 Jun 2025 11:40:26 GMT | Pro-Iranian Hacktivist Group Leaks Israeli Military Data in Escalating Cyber Ops | CyBlog | [Read More](https://medium.com/p/774d6e2950df) |
+| Wed, 25 Jun 2025 11:40:24 GMT | 10 Skills You Need to Become an Ethical Hacker in 2025 | Appin Technology Lab | [Read More](https://medium.com/p/ac9a1f29d25a) |
 | Wed, 25 Jun 2025 11:31:54 GMT | HackTheBox Writeup — Love | Simardeep Singh | [Read More](https://medium.com/p/c6255b9dd335) |
 | Wed, 25 Jun 2025 11:31:06 GMT | Life as Black Hat: Mengungkap Dunia Gelap Hacker Siber | Satria Adhi Pradana | [Read More](https://medium.com/p/59e329fd930d) |
 | Wed, 25 Jun 2025 11:25:59 GMT | How Cybersecurity Experts Help You Stay One Step Ahead of Hackers | SmartCLOUD Australia | [Read More](https://medium.com/p/f8821303e619) |
@@ -94,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 07:31:38 GMT | How to Secure QKNTL Fees on Hyperliquid | $QKNTL (Quick Intel) | [Read More](https://medium.com/p/89fca5a4180e) |
 | Wed, 25 Jun 2025 07:31:34 GMT | How to Trade Crab Warrior Benefits on Hyperliquid | $Crab Warrior (Wallacy Wallet深度用户) | [Read More](https://medium.com/p/24e9ca28e646) |
 | Wed, 25 Jun 2025 07:31:21 GMT | HackTheBox Writeup — Spectra | Simardeep Singh | [Read More](https://medium.com/p/359418b4cedb) |
-| Wed, 25 Jun 2025 07:31:01 GMT | How to Profit from RAMEN Fees on Hyperliquid | $RAMEN (Ramen) | [Read More](https://medium.com/p/2b2673eda778) |
-| Wed, 25 Jun 2025 07:30:27 GMT | How to Profit from BYIC Liquidity on Hyperliquid | $BYIC (Blockchain at Yonsei Investment) | [Read More](https://medium.com/p/571497477206) |
-| Wed, 25 Jun 2025 07:29:57 GMT | How to Earn WAI Security on Hyperliquid | $WAI (AI Waifu) | [Read More](https://medium.com/p/7ab89f062fe1) |
-| Wed, 25 Jun 2025 07:29:49 GMT | How to Boost TETHER Margin on Hyperliquid | $TETHER (Hpohs888inu) | [Read More](https://medium.com/p/c24cc9f48698) |
-| Wed, 25 Jun 2025 07:29:20 GMT | How to Profit from LEH Trading on Hyperliquid | $LEH (Lehman Brothers) | [Read More](https://medium.com/p/97eefdecb4d3) |
-| Wed, 25 Jun 2025 07:28:54 GMT | How to Understand ADEX Tutorial on Hyperliquid | $ADEX (AstraDex AI) | [Read More](https://medium.com/p/b3d988e3f7b7) |
-| Wed, 25 Jun 2025 07:28:43 GMT | How to Accelerate MUFFIN Vaults on Hyperliquid | $MUFFIN (Muffin) | [Read More](https://medium.com/p/21e4a5c505e5) |
-| Wed, 25 Jun 2025 07:28:25 GMT | How to Master sBGO Tutorial on Hyperliquid | $sBGO (Bingo Cash Finance) | [Read More](https://medium.com/p/4b961df2fad9) |
-| Wed, 25 Jun 2025 07:26:54 GMT | CEH vs Security+ | Aaradhya Desai | [Read More](https://medium.com/p/e6e5d43a5670) |
-| Wed, 25 Jun 2025 07:25:47 GMT | Today’s Top Cyber Intelligence Highlights — Jun 25, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/8a0aac696453) |
-| Wed, 25 Jun 2025 07:23:29 GMT | SafeLine WAF: SSL/TLS Protocol and Cipher Suite Guide | Quella | [Read More](https://medium.com/p/b244e01f5a86) |
-| Wed, 25 Jun 2025 07:22:09 GMT | SafeLine WAF: SSL/TLS Protocol and Cipher Suite Guide | AerieWhole123 | [Read More](https://medium.com/p/363e35de8823) |
-| Wed, 25 Jun 2025 07:21:51 GMT | What Everyone Else Misses | NRWillick | [Read More](https://medium.com/p/e0338213fdcc) |
-| Wed, 25 Jun 2025 07:19:50 GMT | The Role of the Lawyer in Cybersecurity | Sydeco Indonesia | [Read More](https://medium.com/p/ffd2ed544988) |
-| Wed, 25 Jun 2025 07:16:32 GMT | How to Navigate GUAP Guide on Hyperliquid | Ashley
- Rogers | [Read More](https://medium.com/p/e06a99c02cb5) |
-| Wed, 25 Jun 2025 07:14:50 GMT | How to Use TKAI Security on Hyperliquid | $TKAI (TAIKAI) | [Read More](https://medium.com/p/66adfd803636) |
-| Wed, 25 Jun 2025 07:14:50 GMT | How to Explore Z Tools on Hyperliquid | $Z (Digital TreaZure) | [Read More](https://medium.com/p/988056eca617) |
-| Wed, 25 Jun 2025 07:14:22 GMT | How to Manage SCAT Strategies on Hyperliquid | $SCAT (SnowCatDAO) | [Read More](https://medium.com/p/82c5b3244895) |
-| Wed, 25 Jun 2025 07:14:22 GMT | How to Manage DBIO Risk on Hyperliquid | $DBIO (DeBio Network) | [Read More](https://medium.com/p/b8264c858e5a) |
