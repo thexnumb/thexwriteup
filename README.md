@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 11:13:34 GMT | Penetration Testing vs Vulnerability Assessment: Key Differences | Sanchitamishra | [Read More](https://medium.com/p/3f2e3fb97cc9) |
+| Wed, 25 Jun 2025 11:05:43 GMT | SSTI ve CSTI: Sunucu ve İstemci Taraflı
+Şablon Enjeksiyonu Zafiyetleri | Omerornek | [Read More](https://medium.com/p/36b081662998) |
+| Wed, 25 Jun 2025 11:01:46 GMT | Cloud Service & Deployment Models | Igor Berner | [Read More](https://medium.com/p/8203ca7b988a) |
+| Wed, 25 Jun 2025 11:00:29 GMT | Bug Bounty Programs: How to Start & Earn as a Beginner | Sanchitamishra | [Read More](https://medium.com/p/a838cd5caa01) |
+| Wed, 25 Jun 2025 10:59:30 GMT | Cisco Duo IAM: The New Identity Perimeter for a Passwordless, AI-Driven Future | Sunder Singh | [Read More](https://medium.com/p/f86fcd7ee6ab) |
+| Wed, 25 Jun 2025 10:50:15 GMT | Research Analysis: 94% of Passwords Suck. Join the Secure 6% | Karl Buhl | [Read More](https://medium.com/p/2ee3ec7b0674) |
 | Wed, 25 Jun 2025 10:36:08 GMT | First Your Signature, Then Your Fingerprint… Now Your Retina? | Rahul Mishra | [Read More](https://medium.com/p/3470a42be0de) |
 | Wed, 25 Jun 2025 10:32:44 GMT | A Safe Place for a New Civilization | Keith N. Gustafsson, Dr. (h.c.), D.Div | [Read More](https://medium.com/p/8152e9e224f4) |
 | Wed, 25 Jun 2025 10:32:08 GMT | When Trust Turns Rogue: The Notepad++ Supply Chain Breach and What It Means for Cybersecurity in… | Chetan Seripally | [Read More](https://medium.com/p/05da6368f569) |
@@ -107,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 07:13:49 GMT | How to Start AAG Liquidity on Hyperliquid | $AAG (AAG) | [Read More](https://medium.com/p/dbab51ca3197) |
 | Wed, 25 Jun 2025 07:13:49 GMT | How to Explore EUROP Funding on Hyperliquid | $EUROP (EURØP) | [Read More](https://medium.com/p/9f767697292e) |
 | Wed, 25 Jun 2025 07:13:30 GMT | Most installed Drupal security modules | Specbee | [Read More](https://medium.com/p/260edacebe49) |
-| Wed, 25 Jun 2025 07:13:18 GMT | How to Leverage SYNDOG Tutorial on Hyperliquid | $SYNDOG (Synthesizer Dog) | [Read More](https://medium.com/p/10435bc8cbea) |
-| Wed, 25 Jun 2025 07:11:22 GMT | How to Explore WZETA Trading on Hyperliquid | $WZETA (Wrapped Zeta) | [Read More](https://medium.com/p/a8756b039586) |
-| Wed, 25 Jun 2025 07:05:12 GMT | What qualifications are required for the digital cyber forensics course? | cyber security Updates | [Read More](https://medium.com/p/47e727faede3) |
-| Wed, 25 Jun 2025 07:01:41 GMT | Cybersecurity Compliance: Beyond the Checklist in India’s Digital Leap | ITIO INNOVEX | [Read More](https://medium.com/p/4d86c7444552) |
-| Wed, 25 Jun 2025 06:58:19 GMT | Best Information Technology Courses to Launch or Advance Your Tech Career | AIST | [Read More](https://medium.com/p/afa9722aed91) |
-| Wed, 25 Jun 2025 06:49:22 GMT | The Web of Law: Exploring Cyber Jurisprudence with Ms. Sakshi Bhayana — The BSides Weekly [S1E4] | Riddhikacheruku | [Read More](https://medium.com/p/12b3f9a0f658) |
