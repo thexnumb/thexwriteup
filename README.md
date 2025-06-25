@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 16:14:50 GMT | บทเรียนป้องกันตัวในโลกดิจิทัลจากงาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2 | NaphatJM | [Read More](https://medium.com/p/4bf1616ef541) |
+| Wed, 25 Jun 2025 16:14:27 GMT | DIGIX CYBER - Expert Cyber Security Testing Services | Digix Cyber | [Read More](https://medium.com/p/00d4e6daab9b) |
+| Wed, 25 Jun 2025 16:13:53 GMT | Securing SAP in the Cloud: Enabling Resilient Transformation from ECC to S/4HANA and Beyond | WayneReidUK | [Read More](https://medium.com/p/95920ddf1ed3) |
+| Wed, 25 Jun 2025 16:12:20 GMT | Inside the Mind of a Hacker: How Cyber Attacks Really Begin | err0rgod | [Read More](https://medium.com/p/484fdd45706f) |
+| Wed, 25 Jun 2025 16:01:33 GMT | Secure Networking with Bicep: Automating Azure Network Security | Bence Roth | [Read More](https://medium.com/p/ca9c2f621583) |
+| Wed, 25 Jun 2025 16:01:23 GMT | These Cybersecurity Roles Are the Future: How to Thrive in the Age of AI | S3CloudHub | [Read More](https://medium.com/p/2d35a34686b3) |
+| Wed, 25 Jun 2025 16:00:56 GMT | Debloating Container Images: Security Boost or Supply Chain Risk? | William Konitzer | [Read More](https://medium.com/p/c3929824efd4) |
+| Wed, 25 Jun 2025 15:42:54 GMT | Why I Built My Own AI Assistant (and What It Taught Me About Trust, Power, and Thermal Paste) | Baxter Boy | [Read More](https://medium.com/p/6096408713f8) |
 | Wed, 25 Jun 2025 15:40:06 GMT | Top SMS Blaster & Toll Fee Scams of 2025—And How to Beat Them | Sanskritiverse | [Read More](https://medium.com/p/7f7edd1ce4c7) |
+| Wed, 25 Jun 2025 15:38:15 GMT | What Is Governance in Cybersecurity? | Juan Pablo Castro | [Read More](https://medium.com/p/8c5c8cf0b5a4) |
+| Wed, 25 Jun 2025 15:34:28 GMT | How We Built an End-to-End XGBoost-Based Intrusion Detection System Using the CICIDS2018 Dataset | Mohammed Saim Quadri | [Read More](https://medium.com/p/187fa4e01f55) |
 | Wed, 25 Jun 2025 15:27:09 GMT | The Evolution and Modern Landscape of Linux Kernel Security | Asım | [Read More](https://medium.com/p/37b5029e35db) |
 | Wed, 25 Jun 2025 15:27:00 GMT | The Complete Guide to Enterprise Authentication & Authorization: Building Secure Systems for B2B… | Himansu Saha | [Read More](https://medium.com/p/cfdf5ce5bb59) |
 | Wed, 25 Jun 2025 15:22:16 GMT | Simple Multi-Tenant Encryption for Go Applications | Skipper @ SouthWinds Tech | [Read More](https://medium.com/p/bf6fcd141d75) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 11:01:46 GMT | Cloud Service & Deployment Models | Igor Berner | [Read More](https://medium.com/p/8203ca7b988a) |
 | Wed, 25 Jun 2025 11:00:29 GMT | Bug Bounty Programs: How to Start & Earn as a Beginner | Sanchitamishra | [Read More](https://medium.com/p/a838cd5caa01) |
 | Wed, 25 Jun 2025 10:59:30 GMT | Cisco Duo IAM: The New Identity Perimeter for a Passwordless, AI-Driven Future | Sunder Singh | [Read More](https://medium.com/p/f86fcd7ee6ab) |
-| Wed, 25 Jun 2025 10:50:15 GMT | Research Analysis: 94% of Passwords Suck. Join the Secure 6% | Karl Buhl | [Read More](https://medium.com/p/2ee3ec7b0674) |
-| Wed, 25 Jun 2025 10:36:08 GMT | First Your Signature, Then Your Fingerprint… Now Your Retina? | Rahul Mishra | [Read More](https://medium.com/p/3470a42be0de) |
-| Wed, 25 Jun 2025 10:32:44 GMT | A Safe Place for a New Civilization | Keith N. Gustafsson, Dr. (h.c.), D.Div | [Read More](https://medium.com/p/8152e9e224f4) |
-| Wed, 25 Jun 2025 10:32:08 GMT | When Trust Turns Rogue: The Notepad++ Supply Chain Breach and What It Means for Cybersecurity in… | Chetan Seripally | [Read More](https://medium.com/p/05da6368f569) |
-| Wed, 25 Jun 2025 10:26:51 GMT | Why smartcards are the future of seed backups — A look at Ledger Recovery Key vs Seedkeeper by… | Satochip | [Read More](https://medium.com/p/c153063a20e1) |
-| Wed, 25 Jun 2025 10:25:25 GMT | A 2026 Deep Dive into Cybersecurity, Data Science, and AI Job Markets | Nour Albaarini | [Read More](https://medium.com/p/43b864c4d6da) |
-| Wed, 25 Jun 2025 10:25:07 GMT | Cloud Security Posture Management (CSPM) | IPSpecialist | [Read More](https://medium.com/p/93d46798d2b4) |
-| Wed, 25 Jun 2025 10:21:42 GMT | The $200B Cybersecurity Software Market: Where We Are, What’s Breaking, and What Comes Next | Omar Bahgat | [Read More](https://medium.com/p/9c762579d9e8) |
-| Wed, 25 Jun 2025 10:19:52 GMT | I Hacked an AI with a Single Emoji | Alexandre Boyer | [Read More](https://medium.com/p/c1ea2e57dcda) |
-| Wed, 25 Jun 2025 10:18:24 GMT | Cybersecurity Nightmare: 16 Billion Passwords Leaked in Data Breach | Mayank Jindal | [Read More](https://medium.com/p/f39ca9e1b62c) |
