@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 22:16:36 GMT | Bug Bounty Journey — Valid Report Part 7 | 0xF3r4t | [Read More](https://medium.com/p/02f45eefea7e) |
+| Wed, 25 Jun 2025 21:58:31 GMT | Bypassing the Group Member Limit via Race Condition | Khaledelnabet | [Read More](https://medium.com/p/2442ad33739e) |
+| Wed, 25 Jun 2025 21:55:24 GMT | [Hack The Box CTF] Titanic Write-Up | fnwn | [Read More](https://medium.com/p/6299048b6b5d) |
+| Wed, 25 Jun 2025 21:53:15 GMT | How Hackers Trick You with Social Engineering — And How to Outsmart Them | Azmat Ali | [Read More](https://medium.com/p/0767c9746f33) |
+| Wed, 25 Jun 2025 21:39:39 GMT | Linux Çekirdeğinde Güvenlik: LTS ve Mainline Sürümlerin Karşılaştırması | Kaan Ekşi | [Read More](https://medium.com/p/da47084c5935) |
 | Wed, 25 Jun 2025 21:33:26 GMT | The „Mariana Trench“ of the Dark Web: Myth vs. Documented Reality | Maria Antonovich | [Read More](https://medium.com/p/e68bd4caab31) |
+| Wed, 25 Jun 2025 21:32:48 GMT | Fingerprint: A sua digital virtual que você não conhecia. Pt.1 | Molotov Brasil | [Read More](https://medium.com/p/1e2ce3876020) |
+| Wed, 25 Jun 2025 21:32:44 GMT | Ethereum Security Tips for 2025 | IvanDTzar | [Read More](https://medium.com/p/caac4407e7a0) |
 | Wed, 25 Jun 2025 21:27:35 GMT | Cloud-to-OnPrem Pivoting: From SaaS Hijack to Data Center Domination | A-STAR7_DOCTOR | [Read More](https://medium.com/p/cceb27e2bd8f) |
 | Wed, 25 Jun 2025 21:13:58 GMT | ️ How I Used Kali Linux to Clone a Facebook Login Page and Capture Credentials (Ethical Hacking… | Esom Eze | [Read More](https://medium.com/p/5c1c00fc6d71) |
 | Wed, 25 Jun 2025 21:13:38 GMT | Unlocking the Future: SwitchBot’s Smart Lock Revolution | Sirinm | [Read More](https://medium.com/p/a9311cad14f0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 15:38:15 GMT | What Is Governance in Cybersecurity? | Juan Pablo Castro | [Read More](https://medium.com/p/8c5c8cf0b5a4) |
 | Wed, 25 Jun 2025 15:34:28 GMT | How We Built an End-to-End XGBoost-Based Intrusion Detection System Using the CICIDS2018 Dataset | Mohammed Saim Quadri | [Read More](https://medium.com/p/187fa4e01f55) |
 | Wed, 25 Jun 2025 15:27:09 GMT | The Evolution and Modern Landscape of Linux Kernel Security | Asım | [Read More](https://medium.com/p/37b5029e35db) |
-| Wed, 25 Jun 2025 15:27:00 GMT | The Complete Guide to Enterprise Authentication & Authorization: Building Secure Systems for B2B… | Himansu Saha | [Read More](https://medium.com/p/cfdf5ce5bb59) |
-| Wed, 25 Jun 2025 15:22:16 GMT | Simple Multi-Tenant Encryption for Go Applications | Skipper @ SouthWinds Tech | [Read More](https://medium.com/p/bf6fcd141d75) |
-| Wed, 25 Jun 2025 15:16:47 GMT | Shellcode Injection 101: Narnia 1 Overthewire Write Up | Asrofil Fachrul Riidlo | [Read More](https://medium.com/p/0322a6c4382e) |
-| Wed, 25 Jun 2025 15:16:41 GMT | Zero-Day Rising: A New Normal in Cyber Threat | Milos | [Read More](https://medium.com/p/8a4d640c0663) |
-| Wed, 25 Jun 2025 15:16:40 GMT | Why Does Ax Framework Pay Hackers So Much | Ibtissam hammadi | [Read More](https://medium.com/p/f6cc8b4bb666) |
-| Wed, 25 Jun 2025 15:01:47 GMT | ✨ Title: Inside the Breach: How an Entire Bank's Computer Systems Were Hacked | Aditya sunny | [Read More](https://medium.com/p/cee78b45a5dc) |
-| Wed, 25 Jun 2025 14:51:48 GMT | Peeling Off the Digital Layer: Write-up Serangkaian Tantangan Keamanan Siber | Ariq | [Read More](https://medium.com/p/0a8136693709) |
