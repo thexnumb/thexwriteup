@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 10:36:08 GMT | First Your Signature, Then Your Fingerprint… Now Your Retina? | Rahul Mishra | [Read More](https://medium.com/p/3470a42be0de) |
+| Wed, 25 Jun 2025 10:32:44 GMT | A Safe Place for a New Civilization | Keith N. Gustafsson, Dr. (h.c.), D.Div | [Read More](https://medium.com/p/8152e9e224f4) |
+| Wed, 25 Jun 2025 10:32:08 GMT | When Trust Turns Rogue: The Notepad++ Supply Chain Breach and What It Means for Cybersecurity in… | Chetan Seripally | [Read More](https://medium.com/p/05da6368f569) |
+| Wed, 25 Jun 2025 10:26:51 GMT | Why smartcards are the future of seed backups — A look at Ledger Recovery Key vs Seedkeeper by… | Satochip | [Read More](https://medium.com/p/c153063a20e1) |
+| Wed, 25 Jun 2025 10:25:25 GMT | A 2026 Deep Dive into Cybersecurity, Data Science, and AI Job Markets | Nour Albaarini | [Read More](https://medium.com/p/43b864c4d6da) |
+| Wed, 25 Jun 2025 10:25:07 GMT | Cloud Security Posture Management (CSPM) | IPSpecialist | [Read More](https://medium.com/p/93d46798d2b4) |
+| Wed, 25 Jun 2025 10:21:42 GMT | The $200B Cybersecurity Software Market: Where We Are, What’s Breaking, and What Comes Next | Omar Bahgat | [Read More](https://medium.com/p/9c762579d9e8) |
+| Wed, 25 Jun 2025 10:19:52 GMT | I Hacked an AI with a Single Emoji | Alexandre Boyer | [Read More](https://medium.com/p/c1ea2e57dcda) |
+| Wed, 25 Jun 2025 10:18:24 GMT | Cybersecurity Nightmare: 16 Billion Passwords Leaked in Data Breach | Mayank Jindal | [Read More](https://medium.com/p/f39ca9e1b62c) |
 | Wed, 25 Jun 2025 10:17:54 GMT | The Real Weak Link in Cybersecurity: How Users Put Entire Systems at Risk | Cyber Timi | [Read More](https://medium.com/p/003f87a65ba1) |
+| Wed, 25 Jun 2025 10:14:39 GMT | Command Injection: Complete Guide to Exploitation and Secure Coding Using a Vulnerable Lab… | Mohana Reddy | [Read More](https://medium.com/p/1a7f0d83f2d3) |
 | Wed, 25 Jun 2025 10:14:25 GMT | Understanding TOTP and Authenticator Apps from a Developer’s Perspective | Francis Mwangi | [Read More](https://medium.com/p/45148dbf75d9) |
+| Wed, 25 Jun 2025 10:11:45 GMT | Secure Your Site in Minutes: Open-Source WAF With 99%+ Accuracy and Zero Hassle | AerieWhole123 | [Read More](https://medium.com/p/714bcd07c7e0) |
 | Wed, 25 Jun 2025 10:08:12 GMT | Protecting data | Igor Berner | [Read More](https://medium.com/p/884145fc6b22) |
 | Wed, 25 Jun 2025 10:07:10 GMT | Basics of Python Programming | Himakshithakre | [Read More](https://medium.com/p/1fff140f9cc0) |
 | Wed, 25 Jun 2025 10:06:02 GMT | 4XCUBE Reviews - This Is How I Recover My Money From 4XCUBE | Joseph Martin | [Read More](https://medium.com/p/e3a23ff78a8f) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 07:01:41 GMT | Cybersecurity Compliance: Beyond the Checklist in India’s Digital Leap | ITIO INNOVEX | [Read More](https://medium.com/p/4d86c7444552) |
 | Wed, 25 Jun 2025 06:58:19 GMT | Best Information Technology Courses to Launch or Advance Your Tech Career | AIST | [Read More](https://medium.com/p/afa9722aed91) |
 | Wed, 25 Jun 2025 06:49:22 GMT | The Web of Law: Exploring Cyber Jurisprudence with Ms. Sakshi Bhayana — The BSides Weekly [S1E4] | Riddhikacheruku | [Read More](https://medium.com/p/12b3f9a0f658) |
-| Wed, 25 Jun 2025 06:45:02 GMT | STORM-Review | marianita_cloud | [Read More](https://medium.com/p/1e4e2e3698b8) |
-| Wed, 25 Jun 2025 06:44:36 GMT | 5G Security Threats: Understanding the Risks in the Next-Gen Network Era | Ekene Joseph | [Read More](https://medium.com/p/e6001baa0274) |
-| Wed, 25 Jun 2025 06:41:20 GMT | Linux Basics for Hackers: Everything You Need to Know About Linux Commands | Pentestginz | [Read More](https://medium.com/p/39fde5225db3) |
-| Wed, 25 Jun 2025 06:36:33 GMT | Hacking Topmate.io | Aditya Rana | [Read More](https://medium.com/p/3f6f8252a742) |
-| Wed, 25 Jun 2025 06:33:14 GMT | Virus Interceptor v3 – A Lightweight Threat Detection System for Real-Time Link and File… | Nabharaj Sawant | [Read More](https://medium.com/p/82dd93f3f9da) |
-| Wed, 25 Jun 2025 06:33:03 GMT | This Open-Source Chrome Extension Logs Everything | LN Das | [Read More](https://medium.com/p/0656df509f93) |
-| Wed, 25 Jun 2025 06:25:45 GMT | How to Profit from OPT Margin on Hyperliquid | $OPT (Optitude Finance) | [Read More](https://medium.com/p/ce23dc69d448) |
-| Wed, 25 Jun 2025 06:25:36 GMT | How to Explore MNR Vaults on Hyperliquid | $MNR (Mooner) | [Read More](https://medium.com/p/57e8f2f86a9a) |
-| Wed, 25 Jun 2025 06:25:34 GMT | How to Master AVN Tutorial on Hyperliquid | $AVN (AVIAN) | [Read More](https://medium.com/p/830607af983c) |
-| Wed, 25 Jun 2025 06:25:24 GMT | How to Use TMOON Liquidity on Hyperliquid | $TMOON (TurboMoon) | [Read More](https://medium.com/p/9bb4ea951749) |
-| Wed, 25 Jun 2025 06:25:17 GMT | How to Trade A3A Fees on Hyperliquid | $A3A (3A DAO) | [Read More](https://medium.com/p/c8326d257e99) |
