@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 13:29:05 GMT | Welcome to Digital Parenting: What You Need to Know to Protect and Support Your Little One Online | Savvy Cyber Kids | [Read More](https://medium.com/p/db3fa4351adc) |
+| Wed, 25 Jun 2025 13:28:43 GMT | Netflix Docuseries “Web of Lies: Sextortion” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/6a984374e7db) |
+| Wed, 25 Jun 2025 13:28:19 GMT | Netflix Docuseries “Web of Lies: I’m Not A Nazi” Discussion Questions | Savvy Cyber Kids | [Read More](https://medium.com/p/322563cdfc19) |
+| Wed, 25 Jun 2025 13:23:33 GMT | 130+ End-to-End Test Cases for Mobile Applications — The Only Checklist You’ll Ever Need | Prafulla Mishra | [Read More](https://medium.com/p/115184147c74) |
+| Wed, 25 Jun 2025 13:17:06 GMT | Expert Alarm Response Services at Your Fingertips | Professional UK Services | [Read More](https://medium.com/p/79970ef0febc) |
+| Wed, 25 Jun 2025 13:14:05 GMT | Building Effective Use-Case Architecture in QRadar | Yuksel | [Read More](https://medium.com/p/1bc855c13db5) |
+| Wed, 25 Jun 2025 13:11:51 GMT | Nicholas Sgalitzer: Building the Future of Cybersecurity and AI from Birmingham — Infinite Sights | Infinite Sights | [Read More](https://medium.com/p/dd450fca8040) |
+| Wed, 25 Jun 2025 13:11:28 GMT | In Irrationality We Trust | Hassaan Malik | [Read More](https://medium.com/p/b5e26db214fc) |
+| Wed, 25 Jun 2025 13:07:14 GMT | Mastering SIEM: Building Intelligent Security Monitoring That Actually Works | Ola Lawrence O | [Read More](https://medium.com/p/0094ccc85c25) |
+| Wed, 25 Jun 2025 13:04:42 GMT | Who Can See What? A Clear Guide to Anaplan Model Security | Samreen Khan | [Read More](https://medium.com/p/8a7235a9b02c) |
+| Wed, 25 Jun 2025 13:02:42 GMT | A Technologist’s Perspective: Implementing AI for Cybersecurity in Cloud Environments | Ans Rehman | [Read More](https://medium.com/p/3c71e8759cef) |
+| Wed, 25 Jun 2025 13:01:57 GMT | Pocket-Sized Security: Build Your Own OTP Token with Raspberry Pi Pico W | Mohamad MERHI | [Read More](https://medium.com/p/aef0c1ca88d5) |
+| Wed, 25 Jun 2025 13:01:54 GMT | Streamlining Case Management Across XDR, EDR, and NVM with Peris.ai IRP | Peris.ai Cybersecurity | [Read More](https://medium.com/p/d77c835f4cb8) |
+| Wed, 25 Jun 2025 13:01:46 GMT | AI In Cybersecurity: What’s Now, What’s Next | noailabs | [Read More](https://medium.com/p/afd1787751f7) |
+| Wed, 25 Jun 2025 12:57:33 GMT | 2025’s Biggest Password Leak: 16B Credentials Exposed | Atomic Mail | [Read More](https://medium.com/p/f92b1d68be65) |
+| Wed, 25 Jun 2025 12:45:17 GMT | Giriş | Lizi Natroshvili | [Read More](https://medium.com/p/e6039965db80) |
+| Wed, 25 Jun 2025 12:42:13 GMT | Weak credentials lead to access to admin panel (Deep Recon) (Arabic) | rood | [Read More](https://medium.com/p/453096842412) |
+| Wed, 25 Jun 2025 12:42:00 GMT | Weak credentials lead to access to admin panel (Deep Recon) | rood | [Read More](https://medium.com/p/2909b8a0f23e) |
 | Wed, 25 Jun 2025 12:39:41 GMT | How Can Understanding IT Jargon Improve Decision-Making? | Lisna | [Read More](https://medium.com/p/bd37f1a0d1df) |
 | Wed, 25 Jun 2025 12:31:03 GMT | The Turtles And A Girl | Taiba Shaikh | [Read More](https://medium.com/p/6ed0d386ef39) |
 | Wed, 25 Jun 2025 12:30:36 GMT | PowerShell in Cybersecurity (Offensive and Defensive) | The Aegis Security | [Read More](https://medium.com/p/f0f095eb2273) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 08:13:19 GMT | Hello, Medium Family! Yamini Yadav Here, Sharing My OSCP Journey & Essential Port Insights! | Yamini Yadav | [Read More](https://medium.com/p/44e4df621114) |
 | Wed, 25 Jun 2025 08:07:45 GMT | Multi-Agent AI Risks: Mapping the Emerging Coordination Challenge | gema.parreno.piqueras | [Read More](https://medium.com/p/42da86d2d173) |
 | Wed, 25 Jun 2025 08:07:38 GMT | How to Secure STLXP Benefits on Hyperliquid | $STLXP (Sky's the Limit) | [Read More](https://medium.com/p/153c940d65b2) |
-| Wed, 25 Jun 2025 08:07:38 GMT | How to Leverage SCR Tutorial on Hyperliquid | $SCR (SecureDAO) | [Read More](https://medium.com/p/ea0038d467d0) |
-| Wed, 25 Jun 2025 08:07:36 GMT | How to Explore MEG Security on Hyperliquid | $MEG (Meg4mint) | [Read More](https://medium.com/p/e099b436e0f3) |
-| Wed, 25 Jun 2025 08:07:02 GMT | How to Understand DXCT Tutorial on Hyperliquid | $DXCT (DNAxCAT) | [Read More](https://medium.com/p/668597e33609) |
-| Wed, 25 Jun 2025 08:07:01 GMT | How to Start PICKLE Vaults on Hyperliquid | $PICKLE (Pickle) | [Read More](https://medium.com/p/c458e6995881) |
-| Wed, 25 Jun 2025 08:06:31 GMT | How to Use XSPECTAR Liquidity on Hyperliquid | $XSPECTAR (xSPECTAR) | [Read More](https://medium.com/p/cbd25fa2c646) |
-| Wed, 25 Jun 2025 08:06:31 GMT | How to Manage LABEL Risk on Hyperliquid | $LABEL (ChainLabel) | [Read More](https://medium.com/p/10e14684eae3) |
-| Wed, 25 Jun 2025 08:06:31 GMT | How to Explore JWBTC Security on Hyperliquid | $JWBTC (Bridged Wrapped Bitcoin (TON Bridge)) | [Read More](https://medium.com/p/4735d2f9907d) |
-| Wed, 25 Jun 2025 07:59:12 GMT | "They Got Our Data… But It Was All Encrypted Garbage." | Amaka okoye | [Read More](https://medium.com/p/a33cc9555e76) |
-| Wed, 25 Jun 2025 07:53:18 GMT | BCAA UK Certified CDPO | Brit Certifications and Assessmemts | [Read More](https://medium.com/p/81c490dc942f) |
-| Wed, 25 Jun 2025 07:51:19 GMT | Inside Cloud Security Essentials: with Shashank Dubey — The BSides Weekly [S1E5] | Riddhikacheruku | [Read More](https://medium.com/p/ae84fa055f4d) |
-| Wed, 25 Jun 2025 07:51:18 GMT | ประจำวันพุธที่ 25 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e80be0f1a068) |
-| Wed, 25 Jun 2025 07:50:33 GMT | ⚠️ CVE-2025–6218: Critical WinRAR Vulnerability Allows Remote Code Execution via Malicious Archives | Infoziant | [Read More](https://medium.com/p/456674ee15ca) |
-| Wed, 25 Jun 2025 07:49:36 GMT | List Of Drug Testing Laboratories in United States | shobha. rentechdigital | [Read More](https://medium.com/p/a5c05af874f0) |
-| Wed, 25 Jun 2025 07:47:13 GMT | บรรยากาศงาน PSU Cybersecurity and Data Privacy ครั้งที่ 2: Cybersecurity and AI | Dragon in banana forest | [Read More](https://medium.com/p/de6dc4563c6e) |
-| Wed, 25 Jun 2025 07:38:11 GMT | When the Connection Fades But You Keep Showing Up Anyway | Jenardan Sellathurai | [Read More](https://medium.com/p/0bb64284a983) |
-| Wed, 25 Jun 2025 07:31:38 GMT | How to Secure QKNTL Fees on Hyperliquid | $QKNTL (Quick Intel) | [Read More](https://medium.com/p/89fca5a4180e) |
-| Wed, 25 Jun 2025 07:31:34 GMT | How to Trade Crab Warrior Benefits on Hyperliquid | $Crab Warrior (Wallacy Wallet深度用户) | [Read More](https://medium.com/p/24e9ca28e646) |
-| Wed, 25 Jun 2025 07:31:21 GMT | HackTheBox Writeup — Spectra | Simardeep Singh | [Read More](https://medium.com/p/359418b4cedb) |
