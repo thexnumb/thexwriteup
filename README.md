@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 14:28:41 GMT | The Art of Hiding in Plain Sight | howsillyistoosilly | [Read More](https://medium.com/p/a1e56122d28f) |
+| Wed, 25 Jun 2025 14:28:15 GMT | But anxiety, as a concept, as a diagnosis, as a lived experience with a name and weight… that was a… | Arlettys Lp | [Read More](https://medium.com/p/1deb95f9e38d) |
+| Wed, 25 Jun 2025 14:22:27 GMT | LLM Security: The Bizarre, Hilarious, and Terrifying New Battlefield of Digital Defense | Asanka Dissanayake | [Read More](https://medium.com/p/46e8040adecc) |
+| Wed, 25 Jun 2025 14:20:51 GMT | Can a U.S. President Shut Down Europe’s Internet? Unpacking the Global Web’s Power Structure | Paradise technologies Inc | [Read More](https://medium.com/p/30207bb64a34) |
 | Wed, 25 Jun 2025 14:13:48 GMT | How I Finally Overcame the Struggle Against Persistent Targeted Spyware | Hogan Torah | [Read More](https://medium.com/p/dac37c63279f) |
 | Wed, 25 Jun 2025 14:12:56 GMT | Your Best Work May Already Be Training Someone Else’s AI — for Free | Carson Sweet | [Read More](https://medium.com/p/a5c496f1cb8c) |
 | Wed, 25 Jun 2025 14:12:43 GMT | TryHackMe - Cyber Kill Chain - WriteUp | Axoloth | [Read More](https://medium.com/p/93a57c41fa2a) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 09:53:11 GMT | 16 Million Passwords Exposed in Record-Breaking Data Breach | Jyothi Prajapat✨️ - SEO Article Writer | [Read More](https://medium.com/p/0cc4010de00e) |
 | Wed, 25 Jun 2025 09:51:03 GMT | Spotify and HackerOne: Dismissing Local Threats as ‘Informational | Diego Caridei | [Read More](https://medium.com/p/c1900baf3d30) |
 | Wed, 25 Jun 2025 09:49:18 GMT | When Trust Becomes the Threat: The Trojanized SonicWall VPN Installer and the Future of Endpoint… | Chetan Seripally | [Read More](https://medium.com/p/2c8fb038bbef) |
-| Wed, 25 Jun 2025 09:48:32 GMT | 2 Simple Ways You Could Be Scammed Out of Your Money | Beatrix Felix | [Read More](https://medium.com/p/681ef592d7bf) |
-| Wed, 25 Jun 2025 09:38:02 GMT | FileFix: A Simple Social Engineering Trick That Launches PowerShell from the Browser | IT Guy | [Read More](https://medium.com/p/31ff3120ccd1) |
-| Wed, 25 Jun 2025 09:37:26 GMT | When Your Inner Circle Feels Like an Audience You Didn’t Invite | Ezgi Ekin Bilgili-Cil | [Read More](https://medium.com/p/53b5d839b3b2) |
-| Wed, 25 Jun 2025 09:35:56 GMT | Top Books for Bug Bounty, Hacking, Penetration Testing & AI in Cybersecurity (2025) | SimpleTecBro | [Read More](https://medium.com/p/88d31168870e) |
