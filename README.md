@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 20:38:33 GMT | I Pretended To Be A Rich Widow: The Scammer Didn’t See It Coming. | The Anti-Scam Diaries | [Read More](https://medium.com/p/ae5f6e8e0c88) |
 | Wed, 25 Jun 2025 20:17:10 GMT | Cyber Kill Chain - Tryhackme | Aaron | [Read More](https://medium.com/p/f02a51708cc3) |
 | Wed, 25 Jun 2025 20:10:53 GMT | The Emotional Toll of Scams and the Importance of Genuine Support | Wilmapvillarreal | [Read More](https://medium.com/p/1d3ad9cfa545) |
 | Wed, 25 Jun 2025 20:00:31 GMT | How to Bypass AMSI Protection with Frida | Diego Caridei | [Read More](https://medium.com/p/8c4727a9c7e8) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 14:28:15 GMT | But anxiety, as a concept, as a diagnosis, as a lived experience with a name and weight… that was a… | Arlettys Lp | [Read More](https://medium.com/p/1deb95f9e38d) |
 | Wed, 25 Jun 2025 14:22:27 GMT | LLM Security: The Bizarre, Hilarious, and Terrifying New Battlefield of Digital Defense | Asanka Dissanayake | [Read More](https://medium.com/p/46e8040adecc) |
 | Wed, 25 Jun 2025 14:20:51 GMT | Can a U.S. President Shut Down Europe’s Internet? Unpacking the Global Web’s Power Structure | Paradise technologies Inc | [Read More](https://medium.com/p/30207bb64a34) |
-| Wed, 25 Jun 2025 14:13:48 GMT | How I Finally Overcame the Struggle Against Persistent Targeted Spyware | Hogan Torah | [Read More](https://medium.com/p/dac37c63279f) |
