@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Jun 2025 09:38:02 GMT | FileFix: A Simple Social Engineering Trick That Launches PowerShell from the Browser | IT Guy | [Read More](https://medium.com/p/31ff3120ccd1) |
+| Wed, 25 Jun 2025 09:37:26 GMT | When Your Inner Circle Feels Like an Audience You Didn’t Invite | Ezgi Ekin Bilgili-Cil | [Read More](https://medium.com/p/53b5d839b3b2) |
+| Wed, 25 Jun 2025 09:35:56 GMT | Top Books for Bug Bounty, Hacking, Penetration Testing & AI in Cybersecurity (2025) | SimpleTecBro | [Read More](https://medium.com/p/88d31168870e) |
 | Wed, 25 Jun 2025 09:19:00 GMT | Phishing (Oltalama) E-postalarını Tespit Etmek İçin 5 İpucu | İrem Çagla Demirtaş | [Read More](https://medium.com/p/eb8c65fd97f4) |
 | Wed, 25 Jun 2025 09:13:25 GMT | Business Logic: How I Bypassed Device Login Limits on a Streaming Platform | RAJVEER | [Read More](https://medium.com/p/9997cf6124ce) |
 | Wed, 25 Jun 2025 09:11:58 GMT | Cloud Infrastructure Security: Threats, Challenges & How to Protect Your Data | Teleglobal International | [Read More](https://medium.com/p/6fcc2613212d) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 05:46:01 GMT | Anatomy of a Critical Bug: A Case Study in Chaining IDORs | Gentil Security | [Read More](https://medium.com/p/e298bd297576) |
 | Wed, 25 Jun 2025 05:37:42 GMT | KiranaPro’s Fall: How Insider Access Crashed a High-Growth Startup | Zeron | [Read More](https://medium.com/p/6da1b5c17b6d) |
 | Wed, 25 Jun 2025 05:37:35 GMT | How to Leverage SHM Funding on Hyperliquid | $SHM (Shardeum) | [Read More](https://medium.com/p/9a8c76f6e293) |
-| Wed, 25 Jun 2025 05:35:19 GMT | How to Master IXI Tutorial on Hyperliquid | $IXI (IXI) | [Read More](https://medium.com/p/5e9bf381bdf0) |
-| Wed, 25 Jun 2025 05:34:55 GMT | How to Earn NXTU Tools on Hyperliquid | $NXTU (4 Next Unicorn) | [Read More](https://medium.com/p/d7451eb21691) |
-| Wed, 25 Jun 2025 05:34:51 GMT | How to Accelerate BRISH Liquidity on Hyperliquid | $BRISH (Brish) | [Read More](https://medium.com/p/94a1bfe29ff2) |
