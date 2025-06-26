@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 16:18:32 GMT | Exploiting Automatic code preview Lead For Critical stored iframe injection -.- | Hamzadzworm | [Read More](https://medium.com/p/0c664f7a6437) |
+| Thu, 26 Jun 2025 16:16:17 GMT | ️ Dark Web Diaries: The Side of the Internet They Don’t Want You to See | adityaax | [Read More](https://medium.com/p/21898c1caf83) |
+| Thu, 26 Jun 2025 16:15:34 GMT | TwoMillion -HTB Walkthrough | Prabhat Kumar Thakur | [Read More](https://medium.com/p/ac8927f1e37c) |
+| Thu, 26 Jun 2025 16:15:29 GMT | Reverse Social Engineering: When Hackers Let You Come to Them | SafeAeon Inc. | [Read More](https://medium.com/p/aad927cd2089) |
+| Thu, 26 Jun 2025 16:13:08 GMT | The Logout That Didn’t Happen: A Session Bug Story | CSN | [Read More](https://medium.com/p/2652632c6067) |
+| Thu, 26 Jun 2025 16:11:36 GMT | wazuh | Tugba Hatice | [Read More](https://medium.com/p/77b1f39a8732) |
+| Thu, 26 Jun 2025 16:06:39 GMT | MTA-STS Explained: Email Security Simplified | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/6fe1047db0f2) |
+| Thu, 26 Jun 2025 16:04:25 GMT | Scams & Artificial Intelligence: Tips to Protect Yourself | @NSConsumers | [Read More](https://medium.com/p/856cadc66b9a) |
+| Thu, 26 Jun 2025 16:04:24 GMT | Membangun Tools Brute Force Kredensial Sederhana | Muhammad Rangga Pratama | [Read More](https://medium.com/p/185f25b04998) |
+| Thu, 26 Jun 2025 16:04:15 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Dayita Kundu | [Read More](https://medium.com/p/8fe1b0ede445) |
+| Thu, 26 Jun 2025 15:59:53 GMT | “Scaling to 10 Million Users on AWS — What Every Smart Engineer Needs to Know” | Kanav Sharma | [Read More](https://medium.com/p/612907c8e6a5) |
+| Thu, 26 Jun 2025 15:59:53 GMT | MANHATTAN PARKING GROUP DATA BREACH: 222,000 CUSTOMER RECORDS LEAKED | Shalomo Agarwarkar | [Read More](https://medium.com/p/37e437e56bc1) |
+| Thu, 26 Jun 2025 15:55:46 GMT | FatPipe’s Total Security 360 Earns 2025 MSP Today Product of the Year | FatPipe INC | [Read More](https://medium.com/p/60e120a084c9) |
+| Thu, 26 Jun 2025 15:53:04 GMT | Cross-Site Scripting (XSS) | ester | [Read More](https://medium.com/p/4e5a1f8057dc) |
+| Thu, 26 Jun 2025 15:52:39 GMT | Day 32: Threads | Nile Okomo | [Read More](https://medium.com/p/e18e72abbd5d) |
+| Thu, 26 Jun 2025 15:50:44 GMT | How to Choose the Right Smoke Detector for Your Property | Ataraxis Solutions | [Read More](https://medium.com/p/6cdb7746a6ed) |
+| Thu, 26 Jun 2025 15:48:05 GMT | Remotely Detecting Citrix CVE-2025–6543: Tool by Grupo Oruss | Grupo Oruss | [Read More](https://medium.com/p/f74cb672d1f0) |
+| Thu, 26 Jun 2025 15:47:24 GMT | Exploiting EternalBlue: My Journey Through TryHackMe’s “Blue” Box | Praharsha Kumar | [Read More](https://medium.com/p/be0fe7a62565) |
 | Thu, 26 Jun 2025 15:40:17 GMT | Awesome Hacking: The Ultimate Curated Repository for Cybersecurity, Pentesting & Ethical Hacking | cyberwinx | [Read More](https://medium.com/p/2ff96a4eef92) |
 | Thu, 26 Jun 2025 15:36:20 GMT | CVE Vs. CVSS | fasieha mehar | [Read More](https://medium.com/p/d63d44d0bf6f) |
 | Thu, 26 Jun 2025 15:30:56 GMT | Step-by-Step Guide to Participate in the Naoris Token Sale | Naoris Protocol | [Read More](https://medium.com/p/b296ff90d5d1) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 10:35:06 GMT | The Importance of your 12-word Seed Phrase | Genomes.io | [Read More](https://medium.com/p/7984ea75204e) |
 | Thu, 26 Jun 2025 10:35:02 GMT | How Hackers Try to Bypass 403 Forbidden Pages (And Guarantee They Find Bugs ) | Vipul Sonule | [Read More](https://medium.com/p/1119828a8c29) |
 | Thu, 26 Jun 2025 10:34:49 GMT | Exposing Brave Browser’s IPC Vulnerability: A $300 Bounty Revelation | Monika sharma | [Read More](https://medium.com/p/55e07ab6b8da) |
-| Thu, 26 Jun 2025 10:31:13 GMT | What can I do to recover my money from Alfacoin? | Bigodon | [Read More](https://medium.com/p/ca11ca3f9335) |
-| Thu, 26 Jun 2025 10:30:31 GMT | Summer Bugs Are Back. Here’s How to Stay Ahead of the Swarm: | Under the Sun | [Read More](https://medium.com/p/9d4cbff29a46) |
-| Thu, 26 Jun 2025 10:27:10 GMT | Alfacoin Review: Mark Gregory Helped Me Recover My Funds from Alfacoin Scam | Bigodon | [Read More](https://medium.com/p/34b91bb2407b) |
-| Thu, 26 Jun 2025 10:13:52 GMT | SOC 2 Type 1 Certification: A Step-by-Step Compliance Playbook | SecureSlate | [Read More](https://medium.com/p/3e664d3b3f3d) |
-| Thu, 26 Jun 2025 10:07:11 GMT | The Shadow Handshake: Correlating Dark Web Personas with Public/Clearnet Identities | Sreya shyjash | [Read More](https://medium.com/p/08bb50c7c930) |
-| Thu, 26 Jun 2025 10:06:10 GMT | OneClik APT Malware Campaign: Microsoft Click Once Exploited in Attacks on Energy &… | Infoziant | [Read More](https://medium.com/p/3f7624769967) |
-| Thu, 26 Jun 2025 10:06:03 GMT | 1 / 2
-How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read More](https://medium.com/p/ec1f78c4937c) |
-| Thu, 26 Jun 2025 09:57:57 GMT | Anomaly Detection in .onion Traffic Using Machine Learning | Sreya shyjash | [Read More](https://medium.com/p/db9ba6ad7686) |
-| Thu, 26 Jun 2025 09:56:36 GMT | A Scammer Told Me He Was From The ‘UN’ So I Played Along. | The Anti-Scam Diaries | [Read More](https://medium.com/p/b26f8ab645cf) |
-| Thu, 26 Jun 2025 09:51:30 GMT | Understanding Risk in Cybersecurity 101 | Hammad Zahid | [Read More](https://medium.com/p/3175ec63bb1e) |
-| Thu, 26 Jun 2025 09:50:16 GMT | WhatsApp Hacked? What You Need to Know Before It Happens to You | Sanjuh | [Read More](https://medium.com/p/d108daf6c31a) |
-| Thu, 26 Jun 2025 09:49:59 GMT | Australia’s Green Energy Boom: A Double-Edged Sword for Chinese Battery Giants | Laylane | [Read More](https://medium.com/p/169531dcdf71) |
-| Thu, 26 Jun 2025 09:47:58 GMT | GST-9 Frame For Sale | Excessive Pony Kpwf | [Read More](https://medium.com/p/9951a8c96fc9) |
-| Thu, 26 Jun 2025 09:47:08 GMT | Building PainPain: What I Learned While Crafting a Safe-to-Study Ransomware PoC | Muditya Raghav | [Read More](https://medium.com/p/679b1070a9ba) |
-| Thu, 26 Jun 2025 09:46:06 GMT | Simple Way To Hardening Your Linux Server | Daniel Martin | [Read More](https://medium.com/p/5982f7942679) |
-| Thu, 26 Jun 2025 09:43:45 GMT | Pharmacy Security Upgrade with Dahua Cameras by Optimationbd | optimationbd | [Read More](https://medium.com/p/72d42d224e5c) |
-| Thu, 26 Jun 2025 09:36:48 GMT | Cybercriminals Exploit Open-Source Tools to Deploy Cryptojackers and Steal Cloud Credentials | CyBlog | [Read More](https://medium.com/p/7f5a7db5baf4) |
-| Thu, 26 Jun 2025 09:26:34 GMT | Hire a Hacker: What You Need to Know Before You Do It | Hubert Rally | [Read More](https://medium.com/p/1df3f5068e07) |
