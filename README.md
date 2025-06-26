@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 16:43:48 GMT | The Complexity of Recovering Stolen Funds Across Borders | Amanda T. Lott | [Read More](https://medium.com/p/13fc62d6a561) |
+| Thu, 26 Jun 2025 16:32:40 GMT | Kali Linux for Beginners: Build Your Own Cybersecurity Lab | Joy Saha | [Read More](https://medium.com/p/e77b5bcd4ef9) |
+| Thu, 26 Jun 2025 16:31:37 GMT | What Are Roblox Script Executors? Everything You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/f6128ecc54d7) |
+| Thu, 26 Jun 2025 16:31:23 GMT | Day 33: The Process API | Nile Okomo | [Read More](https://medium.com/p/5c2e40d176bc) |
+| Thu, 26 Jun 2025 16:28:05 GMT | Quick Cybersecurity Guide: Vulnerability, Exploit, Payload, Threat, CVE, and CVSS | Iqrajawad | [Read More](https://medium.com/p/2639f641ab1c) |
+| Thu, 26 Jun 2025 16:27:15 GMT | The AI Gap: Why 90% of Organizations Are Unprepared for the Next | Chetan Seripally | [Read More](https://medium.com/p/131518a412bc) |
+| Thu, 26 Jun 2025 16:25:37 GMT | FARHAN‑Shot in Termux: Check for Wi‑Fi Security Risks | Kambetastephano | [Read More](https://medium.com/p/75254f1c7d59) |
+| Thu, 26 Jun 2025 16:22:17 GMT | Your Strongest Firewall: Why Cybersecurity Training is Essential for Every Job Level | Intentwriter | [Read More](https://medium.com/p/eb100e218640) |
+| Thu, 26 Jun 2025 16:21:26 GMT | Between combinatorics and coding theory, the fundamentals and the links of crisscross error… | ENCODE Doctoral Network | [Read More](https://medium.com/p/d69b86cf747f) |
 | Thu, 26 Jun 2025 16:18:32 GMT | Exploiting Automatic code preview Lead For Critical stored iframe injection -.- | Hamzadzworm | [Read More](https://medium.com/p/0c664f7a6437) |
 | Thu, 26 Jun 2025 16:16:17 GMT | ️ Dark Web Diaries: The Side of the Internet They Don’t Want You to See | adityaax | [Read More](https://medium.com/p/21898c1caf83) |
 | Thu, 26 Jun 2025 16:15:34 GMT | TwoMillion -HTB Walkthrough | Prabhat Kumar Thakur | [Read More](https://medium.com/p/ac8927f1e37c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 11:02:40 GMT | Marketplace Takeover: How We Could’ve Taken Over Every Developer Using a VSCode Fork | Oren Yomtov | [Read More](https://medium.com/p/f0f8cf104d44) |
 | Thu, 26 Jun 2025 10:59:10 GMT | Watch out for significance | Kai | [Read More](https://medium.com/p/3c608ea266d5) |
 | Thu, 26 Jun 2025 10:45:59 GMT | CVE-2025–36041 Deep Dive: IBM MQ Architecture, Exploitation, and Mitigation | Byte Reaper | [Read More](https://medium.com/p/74bbe63cf252) |
-| Thu, 26 Jun 2025 10:45:37 GMT | 7 Shocking Statistics About The Current State of Cloud Security | HostNOC | [Read More](https://medium.com/p/f939e0e56c95) |
-| Thu, 26 Jun 2025 10:42:13 GMT | Is Ethical Hacking a Good Career for Students? | Crawsec | [Read More](https://medium.com/p/d66850061ded) |
-| Thu, 26 Jun 2025 10:37:37 GMT | Top 1 Cybersecurity Solutions in Dubai | Oadtechdubai | [Read More](https://medium.com/p/709097634e51) |
-| Thu, 26 Jun 2025 10:37:05 GMT | How to Exploit Account Takeover via Password Reset Flaw | Monika sharma | [Read More](https://medium.com/p/274c7d82d096) |
-| Thu, 26 Jun 2025 10:35:59 GMT | Part 5: How to Become a Pentester in 2025: Certifications, Career Roadmap & Growth | Anezaneo | [Read More](https://medium.com/p/d928cf3dbb96) |
-| Thu, 26 Jun 2025 10:35:13 GMT | The Art of Discovery: A Comprehensive Guide to Windows Enumeration | Yamini Yadav | [Read More](https://medium.com/p/5076895afdeb) |
-| Thu, 26 Jun 2025 10:35:06 GMT | The Importance of your 12-word Seed Phrase | Genomes.io | [Read More](https://medium.com/p/7984ea75204e) |
-| Thu, 26 Jun 2025 10:35:02 GMT | How Hackers Try to Bypass 403 Forbidden Pages (And Guarantee They Find Bugs ) | Vipul Sonule | [Read More](https://medium.com/p/1119828a8c29) |
-| Thu, 26 Jun 2025 10:34:49 GMT | Exposing Brave Browser’s IPC Vulnerability: A $300 Bounty Revelation | Monika sharma | [Read More](https://medium.com/p/55e07ab6b8da) |
