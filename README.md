@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 17:18:09 GMT | Hidden Language Model | Tomer Wetzler | [Read More](https://medium.com/p/692620309d60) |
+| Thu, 26 Jun 2025 17:10:43 GMT | Write-up CTF: Membongkar Steganografi dari Barcode, Suara, hingga Invinsible Text | Ariq | [Read More](https://medium.com/p/d2daafedd438) |
+| Thu, 26 Jun 2025 17:09:57 GMT | CTF Write-up: Analisis Keamanan & Privilege Escalation | Ariq | [Read More](https://medium.com/p/400bc7e67538) |
+| Thu, 26 Jun 2025 17:08:27 GMT | Audit vs. Assessment: Why the Difference Matters in GRC | Brittney Ginther | [Read More](https://medium.com/p/ef9c77a66393) |
+| Thu, 26 Jun 2025 17:02:48 GMT | Using File Requests for Secure Document Uploads to SharePoint by External Users | John Adegbite | [Read More](https://medium.com/p/abc39a62a6c9) |
+| Thu, 26 Jun 2025 17:00:41 GMT | How To — OpenSSL Overview | Kiranms | [Read More](https://medium.com/p/795d07407be9) |
+| Thu, 26 Jun 2025 17:00:36 GMT | African Banks Under Siege: Open‐Source Tools Fueling a New Wave of Cyberattacks | Chetan Seripally | [Read More](https://medium.com/p/b204b8402bb2) |
+| Thu, 26 Jun 2025 16:55:10 GMT | Navigating the Known and the Unknowns of Emerging Cyber Risks | Dileep R A Raj | [Read More](https://medium.com/p/ba8a822cff50) |
+| Thu, 26 Jun 2025 16:52:44 GMT | AI Daily by Techsutra — June 26, 2025 | TechNaut - TechbyAnk - Anktechsol.com | [Read More](https://medium.com/p/7dfc7010838d) |
+| Thu, 26 Jun 2025 16:51:44 GMT | Avoiding the Trap of Investment and Recovery Scams | Kfairleycarolyn | [Read More](https://medium.com/p/78ef7cf097d0) |
 | Thu, 26 Jun 2025 16:43:48 GMT | The Complexity of Recovering Stolen Funds Across Borders | Amanda T. Lott | [Read More](https://medium.com/p/13fc62d6a561) |
 | Thu, 26 Jun 2025 16:32:40 GMT | Kali Linux for Beginners: Build Your Own Cybersecurity Lab | Joy Saha | [Read More](https://medium.com/p/e77b5bcd4ef9) |
 | Thu, 26 Jun 2025 16:31:37 GMT | What Are Roblox Script Executors? Everything You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/f6128ecc54d7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 11:34:34 GMT | CORS ( Cross Origin Resource Sharing ) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/89377e54127e) |
 | Thu, 26 Jun 2025 11:31:52 GMT | HackTheBox Writeup — Forest | Simardeep Singh | [Read More](https://medium.com/p/eb8b3253faae) |
 | Thu, 26 Jun 2025 11:31:40 GMT | Cybersecurity and Information Security | Rasagnaqt33 | [Read More](https://medium.com/p/97be0cfc08a9) |
-| Thu, 26 Jun 2025 11:31:16 GMT | Web Güvenliğinde Tehlikeli Bir Açık: Path Traversal | Mustafa Caliskan | [Read More](https://medium.com/p/65087b2947a3) |
-| Thu, 26 Jun 2025 11:25:51 GMT | Cybersecurity vs. Information Security: What’s the Difference? | Rasagnauppula | [Read More](https://medium.com/p/47ca8a8c9c71) |
-| Thu, 26 Jun 2025 11:19:12 GMT | We Signed Up on ClickUp and Found a Flaw in the URL | Frank Edomaruse | [Read More](https://medium.com/p/daa2b01f97f7) |
-| Thu, 26 Jun 2025 11:18:34 GMT | Firewall and IDS/IPS Evasion — Hard Lab | Varkeythms | [Read More](https://medium.com/p/5a545d798db6) |
-| Thu, 26 Jun 2025 11:17:21 GMT | Email Security Pt 1/3: What is SPF? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/8f84456eed47) |
-| Thu, 26 Jun 2025 11:15:58 GMT | How I Got My Money Back After Being Scammed by Expocrypt | Movat | [Read More](https://medium.com/p/9648b7e475bd) |
-| Thu, 26 Jun 2025 11:05:48 GMT | Get Started with Azure ML Workspace and Notebooks for Sentinel Security Use Cases | M'hirsi Hamza | [Read More](https://medium.com/p/762647bb4ca0) |
-| Thu, 26 Jun 2025 11:02:40 GMT | Marketplace Takeover: How We Could’ve Taken Over Every Developer Using a VSCode Fork | Oren Yomtov | [Read More](https://medium.com/p/f0f8cf104d44) |
-| Thu, 26 Jun 2025 10:59:10 GMT | Watch out for significance | Kai | [Read More](https://medium.com/p/3c608ea266d5) |
-| Thu, 26 Jun 2025 10:45:59 GMT | CVE-2025–36041 Deep Dive: IBM MQ Architecture, Exploitation, and Mitigation | Byte Reaper | [Read More](https://medium.com/p/74bbe63cf252) |
