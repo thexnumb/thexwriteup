@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 03:10:52 GMT | How I Found XSS — CVE-2025–0133 Using Shodan | Ch4ndan das | [Read More](https://medium.com/p/39a37eae7807) |
+| Thu, 26 Jun 2025 03:01:47 GMT | Machine Learning in Threat Detection: Smarter, Faster, and Less Noisy | Paritosh | [Read More](https://medium.com/p/3fdd39c54fd7) |
+| Thu, 26 Jun 2025 03:01:26 GMT | Cracking Fordo — The 14Ton Bomb, the Stealth B-2, and the Race to Breach Iran’s 300-Foot Nuclear… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/e0f6984193e1) |
+| Thu, 26 Jun 2025 02:53:40 GMT | New Social Security Identity Rules: What You Need to Know | Mike McGowan | [Read More](https://medium.com/p/dd33ce1b306b) |
+| Thu, 26 Jun 2025 02:51:08 GMT | The MITRE ATT&CK Framework Explained | NK Cyber | [Read More](https://medium.com/p/163fad2c29a9) |
+| Thu, 26 Jun 2025 02:47:30 GMT | Information Disclosure part-1 : error messages | Ahmad Sopyan | [Read More](https://medium.com/p/f551c814e4da) |
+| Thu, 26 Jun 2025 02:47:06 GMT | USA Cybersecurity in 2030: A Geopolitical and Policy Analysis | CCD-IS | [Read More](https://medium.com/p/9549952b9394) |
+| Thu, 26 Jun 2025 02:40:48 GMT | Cyber Kill Chain — Tryhackme | Mukund | [Read More](https://medium.com/p/2fe6f82d20ed) |
+| Thu, 26 Jun 2025 02:16:43 GMT | Shift-Left Security 2.0 — How to Secure DevOps in the AI-Powered Era | Sivakumar KJ | [Read More](https://medium.com/p/d20a98776b79) |
+| Thu, 26 Jun 2025 01:48:58 GMT | Access Private Cloud Resources Securely with Cloudflare Zero Trust | Ted O'Connor | [Read More](https://medium.com/p/52cc8fd84cbf) |
 | Thu, 26 Jun 2025 01:36:54 GMT | “They Want a $5M Cyber Policy?!?” | Alliance Risk | [Read More](https://medium.com/p/768cf0599724) |
 | Thu, 26 Jun 2025 01:32:10 GMT | From Zero to Hero: How One Tool Transformed My Poker Game | Edgar Brutto | [Read More](https://medium.com/p/7cf7e15b6fbf) |
 | Thu, 26 Jun 2025 01:29:35 GMT | Phishing Is Evolving Fast — Here’s What I’m Seeing | Raymond | [Read More](https://medium.com/p/12dbacca1060) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 17:12:29 GMT | MS17–010- Manual-Exploitation | ya09r3Z | [Read More](https://medium.com/p/0f7d7552752e) |
 | Wed, 25 Jun 2025 17:08:18 GMT | Portrait of My Emotional Complexity | vibha pathak | [Read More](https://medium.com/p/ef3d8cecf68b) |
 | Wed, 25 Jun 2025 17:05:31 GMT | Session vs JWT Authentication: Stateful vs Stateless Explained | Atul Yadav | [Read More](https://medium.com/p/a92f57a4f042) |
-| Wed, 25 Jun 2025 16:59:38 GMT | The Importance of Two-Factor Authentication: Your Key to Enhanced Security | Avnish singh | [Read More](https://medium.com/p/b972ec1c6be1) |
-| Wed, 25 Jun 2025 16:59:32 GMT | SOC Analyst 101 | Orgeismail | [Read More](https://medium.com/p/11519fc9a3d4) |
-| Wed, 25 Jun 2025 16:59:29 GMT | Day #33: Business Continuity (BCP) and Disaster Recovery (DR) | Brittney Ginther | [Read More](https://medium.com/p/64ebbebcfc64) |
-| Wed, 25 Jun 2025 16:59:13 GMT | Ukrainian, Georgian, and British — all in one? | GEOFOR - Center for geopolitical forecasts | [Read More](https://medium.com/p/c996c1c4da6d) |
-| Wed, 25 Jun 2025 16:58:48 GMT | vSOCBox Redefines Enterprise Security with New SOC-Less Architecture Platform | vSOCBox.COM | [Read More](https://medium.com/p/b39c75923f48) |
-| Wed, 25 Jun 2025 16:58:08 GMT | CVE-2025-0133 — Reflected Cross-Site Scripting (XSS) in Palo Alto GlobalProtect VPN Portal | Gouri Sankar A | [Read More](https://medium.com/p/591c5711160f) |
-| Wed, 25 Jun 2025 16:53:21 GMT | 2025 Global Cyber Risk Report | Oleg Parashchak | [Read More](https://medium.com/p/28c5d4157e11) |
-| Wed, 25 Jun 2025 16:50:08 GMT | Rate Limit? I Barely Know Her: How I Brute-Forced OTPs Like a Gentleman | Iski | [Read More](https://medium.com/p/6f1235c559cc) |
-| Wed, 25 Jun 2025 16:46:02 GMT | Are Your Web Apps Vulnerable to Infostealers Hiding in Browser Scripts? | Feroot Security | [Read More](https://medium.com/p/ea1560d49702) |
-| Wed, 25 Jun 2025 16:45:42 GMT | Meet Bandit: The Python Security Tool You’re Probably Ignoring (But Shouldn’t in 2025) | Sanjay Prajapati | [Read More](https://medium.com/p/a3323a61bf61) |
