@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 05:13:25 GMT | The 5 Whys Method: Why Your Cybersecurity Incident Response Plan Keeps Failing | crązŷrąiɲ | [Read More](https://medium.com/p/3780af08053c) |
+| Thu, 26 Jun 2025 05:02:05 GMT | Can AI Replace Cybersecurity Professionals? A Reality Check | Angeljoseph | [Read More](https://medium.com/p/4ffaeda849de) |
+| Thu, 26 Jun 2025 04:59:37 GMT | AI in Third-Party Risk Management: Hype, Limitations, and a Trust-Centric Framework | Chandan Sharma | [Read More](https://medium.com/p/397e64878acd) |
+| Thu, 26 Jun 2025 04:42:11 GMT | IT Infrastructure Trends Every CIO Should Know (And How to Act on Them) | Brilworks Software | [Read More](https://medium.com/p/5441d115c5ed) |
 | Thu, 26 Jun 2025 04:37:58 GMT | ttuex.com Scam: File A Complaint For The Recovery Of Your Funds | SCAM BUSTER | [Read More](https://medium.com/p/6a419cd107e3) |
 | Thu, 26 Jun 2025 04:32:05 GMT | Not Just European, But Trustworthy: What DNS4EU Reminds Us About Sovereignty, Surveillance, and… | Kim Chandler McDonald | [Read More](https://medium.com/p/2d1854c87f97) |
 | Thu, 26 Jun 2025 04:31:47 GMT | The Windows Security Journey — KDS Root Keys (Key Distribution Service Root Keys) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a76865743b26) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 18:53:38 GMT | Runescapers Beware Phishing Campaigns that yield no EXP! | Shady | [Read More](https://medium.com/p/9b520eb2c96d) |
 | Wed, 25 Jun 2025 18:51:12 GMT | How Seniors Can Spot Scams — Part 1: Understanding Common Scams | SilverTech Support | [Read More](https://medium.com/p/6cc85de42401) |
 | Wed, 25 Jun 2025 18:42:06 GMT | The Future Is Encrypted: Why Dmail Network Is Redefining Digital Communication | Web3Sunshine | [Read More](https://medium.com/p/09d615235c72) |
-| Wed, 25 Jun 2025 18:32:20 GMT | Why Do We Hide What Is Real? | disisnabzz | [Read More](https://medium.com/p/96cc27cd3616) |
-| Wed, 25 Jun 2025 18:24:17 GMT | 5 Most Important Life Hacks for a Better, Smarter Life | Mitchell "Banknote Mitch” Similton | [Read More](https://medium.com/p/3e8eaaf09d29) |
-| Wed, 25 Jun 2025 18:22:25 GMT | Kaspersky Tejas issue solved | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/08d205023aee) |
-| Wed, 25 Jun 2025 18:21:35 GMT | Stored XSS in Zendesk Marketplace App: “Auto Merge Duplicate Tickets”. | Mahmoud Abd Alkarim | [Read More](https://medium.com/p/ca1b5b99e2bb) |
