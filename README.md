@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 09:15:53 GMT | Markets Under Pressure: Cybersecurity and Geopolitical Disruption | Tamara C Makarem | [Read More](https://medium.com/p/88f552b572a8) |
+| Thu, 26 Jun 2025 09:14:06 GMT | Why Cyber Security Services Are Essential for Startups in the Digital Age | flyonit au | [Read More](https://medium.com/p/76854a0e0396) |
+| Thu, 26 Jun 2025 09:11:51 GMT | A Bookmarklet That Instantly Generates Strong Passwords (Because Who Has Time for 1Password to… | Batuhan ŞASI | [Read More](https://medium.com/p/4756f6825d03) |
+| Thu, 26 Jun 2025 09:07:03 GMT | How Our Solutions Simplify Your Aramco CCC/CCC+ Application Process | Anna | [Read More](https://medium.com/p/121822105b4b) |
+| Thu, 26 Jun 2025 09:04:02 GMT | Host Your Own Web Firewall with SafeLine — No Cloud Needed | Quella | [Read More](https://medium.com/p/e83fa7b0433d) |
+| Thu, 26 Jun 2025 08:55:20 GMT | Inside the ALEX Protocol Hack: Full Analysis of the Crypto Exploit | Devendra Singh Khati | [Read More](https://medium.com/p/39300ef82d83) |
 | Thu, 26 Jun 2025 08:41:23 GMT | Understanding Aramco’s CCC/CCC+ Certification Process | Anna | [Read More](https://medium.com/p/c43af78f5b88) |
 | Thu, 26 Jun 2025 08:40:14 GMT | From 1 Wei to 10M reUSD: Anatomy of a ResupplyPair Exploit | Evgenii | [Read More](https://medium.com/p/9e97748fdce1) |
 | Thu, 26 Jun 2025 08:39:18 GMT | Information Disclosure part-2 : debug page | Ahmad Sopyan | [Read More](https://medium.com/p/8c40e16a9070) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 23:45:45 GMT | Academy WriteUP | masiva | [Read More](https://medium.com/p/f84a14156f72) |
 | Wed, 25 Jun 2025 23:38:29 GMT | HackTheBox: Chemistry Write-Up | M4sterCub3 | [Read More](https://medium.com/p/b8985f6eb536) |
 | Wed, 25 Jun 2025 23:36:07 GMT | Why Python Remains the Best Choice for Desktop App Development and Cybersecurity Enthusiasts | Muhammad Ali | [Read More](https://medium.com/p/09912fd3d4dd) |
-| Wed, 25 Jun 2025 23:35:00 GMT | Enhancing Your Home with SwitchBot Roller Shades | Awvxawea | [Read More](https://medium.com/p/166f75c438ee) |
-| Wed, 25 Jun 2025 23:32:47 GMT | Enterprise IoT Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5f0b7d187423) |
-| Wed, 25 Jun 2025 23:21:21 GMT | How to Build Apps with AI Securely in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/bfe3fed5f4c4) |
-| Wed, 25 Jun 2025 22:55:27 GMT | What They Wrote Before They Killed: An AI based Linguistic Study of Violent Offenders | Shirish Pandita | [Read More](https://medium.com/p/388bf2f3c674) |
-| Wed, 25 Jun 2025 22:44:55 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/7098661327a7) |
-| Wed, 25 Jun 2025 22:39:02 GMT | Elasticsearch(57) — 解決弱掃問題 SSL Medium Strength Cipher Suites Supported (SWEET32) | Tako | [Read More](https://medium.com/p/88c32cff7cae) |
