@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 21:39:23 GMT | How my Mac avoid a Crypto Scam | victordelgado.btc | [Read More](https://medium.com/p/669ef0141341) |
 | Thu, 26 Jun 2025 21:08:58 GMT | Top 10 Free AI Tools Like ChatGPT You Should Be Using in 2025 | Ravi Teja Rayudu | [Read More](https://medium.com/p/a6416c4d8ddc) |
 | Thu, 26 Jun 2025 20:59:33 GMT | Beyond the Hype — Building a Real C2 Framework from Scratch | Cyberlairs | [Read More](https://medium.com/p/5a6f5015931d) |
 | Thu, 26 Jun 2025 20:58:53 GMT | Everything, Everywhere, All at Once | Jonathan Mohring | [Read More](https://medium.com/p/2b1799663119) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 15:52:39 GMT | Day 32: Threads | Nile Okomo | [Read More](https://medium.com/p/e18e72abbd5d) |
 | Thu, 26 Jun 2025 15:50:44 GMT | How to Choose the Right Smoke Detector for Your Property | Ataraxis Solutions | [Read More](https://medium.com/p/6cdb7746a6ed) |
 | Thu, 26 Jun 2025 15:48:05 GMT | Remotely Detecting Citrix CVE-2025–6543: Tool by Grupo Oruss | Grupo Oruss | [Read More](https://medium.com/p/f74cb672d1f0) |
-| Thu, 26 Jun 2025 15:47:24 GMT | Exploiting EternalBlue: My Journey Through TryHackMe’s “Blue” Box | Praharsha Kumar | [Read More](https://medium.com/p/be0fe7a62565) |
