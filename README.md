@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 22:06:26 GMT | TryHackMe Industrial Intrusion CTF | Root-Kitty | [Read More](https://medium.com/p/f98ea88e0f2c) |
+| Thu, 26 Jun 2025 21:51:56 GMT | I Got Fired from a Job in Less Than 48 Hours — For Hacking the Office | Ryan Merket | [Read More](https://medium.com/p/665819b94967) |
+| Thu, 26 Jun 2025 21:51:47 GMT | ⚖️ Dividing the Crown’s Duties: The Principle of Separation of Duties | Emma Lateyron | [Read More](https://medium.com/p/ab7a046cc526) |
+| Thu, 26 Jun 2025 21:43:54 GMT | Whining is All You Need: Malicious Code Production with ChatGPT | Jaishnoor Bajwa | [Read More](https://medium.com/p/0fc81af1c5ae) |
 | Thu, 26 Jun 2025 21:39:23 GMT | How my Mac avoid a Crypto Scam | victordelgado.btc | [Read More](https://medium.com/p/669ef0141341) |
 | Thu, 26 Jun 2025 21:08:58 GMT | Top 10 Free AI Tools Like ChatGPT You Should Be Using in 2025 | Ravi Teja Rayudu | [Read More](https://medium.com/p/a6416c4d8ddc) |
 | Thu, 26 Jun 2025 20:59:33 GMT | Beyond the Hype — Building a Real C2 Framework from Scratch | Cyberlairs | [Read More](https://medium.com/p/5a6f5015931d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 15:59:53 GMT | “Scaling to 10 Million Users on AWS — What Every Smart Engineer Needs to Know” | Kanav Sharma | [Read More](https://medium.com/p/612907c8e6a5) |
 | Thu, 26 Jun 2025 15:59:53 GMT | MANHATTAN PARKING GROUP DATA BREACH: 222,000 CUSTOMER RECORDS LEAKED | Shalomo Agarwarkar | [Read More](https://medium.com/p/37e437e56bc1) |
 | Thu, 26 Jun 2025 15:55:46 GMT | FatPipe’s Total Security 360 Earns 2025 MSP Today Product of the Year | FatPipe INC | [Read More](https://medium.com/p/60e120a084c9) |
-| Thu, 26 Jun 2025 15:53:04 GMT | Cross-Site Scripting (XSS) | ester | [Read More](https://medium.com/p/4e5a1f8057dc) |
-| Thu, 26 Jun 2025 15:52:39 GMT | Day 32: Threads | Nile Okomo | [Read More](https://medium.com/p/e18e72abbd5d) |
-| Thu, 26 Jun 2025 15:50:44 GMT | How to Choose the Right Smoke Detector for Your Property | Ataraxis Solutions | [Read More](https://medium.com/p/6cdb7746a6ed) |
-| Thu, 26 Jun 2025 15:48:05 GMT | Remotely Detecting Citrix CVE-2025–6543: Tool by Grupo Oruss | Grupo Oruss | [Read More](https://medium.com/p/f74cb672d1f0) |
