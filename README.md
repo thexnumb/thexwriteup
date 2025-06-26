@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 15:40:17 GMT | Awesome Hacking: The Ultimate Curated Repository for Cybersecurity, Pentesting & Ethical Hacking | cyberwinx | [Read More](https://medium.com/p/2ff96a4eef92) |
+| Thu, 26 Jun 2025 15:36:20 GMT | CVE Vs. CVSS | fasieha mehar | [Read More](https://medium.com/p/d63d44d0bf6f) |
+| Thu, 26 Jun 2025 15:30:56 GMT | Step-by-Step Guide to Participate in the Naoris Token Sale | Naoris Protocol | [Read More](https://medium.com/p/b296ff90d5d1) |
+| Thu, 26 Jun 2025 15:27:29 GMT | Day 31: Processes | Nile Okomo | [Read More](https://medium.com/p/85551da2b663) |
+| Thu, 26 Jun 2025 15:25:56 GMT | Detectando Citrix CVE-2025–6543 Remotamente: Herramienta del Grupo Oruss | Grupo Oruss | [Read More](https://medium.com/p/40a7e4908ebf) |
+| Thu, 26 Jun 2025 15:18:49 GMT | Cybersecurity Best Practices For Startups - Neil Brauner | Neil Brauner | [Read More](https://medium.com/p/05a6c46b5513) |
+| Thu, 26 Jun 2025 15:17:46 GMT | Security Concerns in Cross-Domain Multi-Agent LLM Systems | Gary A. Fowler | [Read More](https://medium.com/p/314d624bbec9) |
 | Thu, 26 Jun 2025 15:12:32 GMT | Mastering Rights Management with SailPoint IIQ: From RBAC to Access Certification | Surya Raja | [Read More](https://medium.com/p/e77f1664fe4d) |
 | Thu, 26 Jun 2025 15:04:11 GMT | My First Steps into Cybersecurity: What I’ve Learned So Far | Gaarv Chauhan | [Read More](https://medium.com/p/adb288b0bd5b) |
 | Thu, 26 Jun 2025 15:02:47 GMT | What Hackers See: Building an Executive Risk Dossier from Public Data (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/80220ce9f3ec) |
@@ -106,10 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 09:43:45 GMT | Pharmacy Security Upgrade with Dahua Cameras by Optimationbd | optimationbd | [Read More](https://medium.com/p/72d42d224e5c) |
 | Thu, 26 Jun 2025 09:36:48 GMT | Cybercriminals Exploit Open-Source Tools to Deploy Cryptojackers and Steal Cloud Credentials | CyBlog | [Read More](https://medium.com/p/7f5a7db5baf4) |
 | Thu, 26 Jun 2025 09:26:34 GMT | Hire a Hacker: What You Need to Know Before You Do It | Hubert Rally | [Read More](https://medium.com/p/1df3f5068e07) |
-| Thu, 26 Jun 2025 09:23:33 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f1965ea998b1) |
-| Thu, 26 Jun 2025 09:15:53 GMT | Markets Under Pressure: Cybersecurity and Geopolitical Disruption | Tamara C Makarem | [Read More](https://medium.com/p/88f552b572a8) |
-| Thu, 26 Jun 2025 09:14:06 GMT | Why Cyber Security Services Are Essential for Startups in the Digital Age | flyonit au | [Read More](https://medium.com/p/76854a0e0396) |
-| Thu, 26 Jun 2025 09:11:59 GMT | How can one dream of holding empathy and compassion ? | Storiews | [Read More](https://medium.com/p/d73c4c12d897) |
-| Thu, 26 Jun 2025 09:11:51 GMT | A Bookmarklet That Instantly Generates Strong Passwords (Because Who Has Time for 1Password to… | Batuhan ŞASI | [Read More](https://medium.com/p/4756f6825d03) |
-| Thu, 26 Jun 2025 09:07:03 GMT | How Our Solutions Simplify Your Aramco CCC/CCC+ Application Process | Anna | [Read More](https://medium.com/p/121822105b4b) |
-| Thu, 26 Jun 2025 09:04:02 GMT | Host Your Own Web Firewall with SafeLine — No Cloud Needed | Quella | [Read More](https://medium.com/p/e83fa7b0433d) |
