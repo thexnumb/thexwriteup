@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 20:23:17 GMT | Shellcode Encryption using Speck | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d72b9d6dc0ee) |
+| Thu, 26 Jun 2025 20:15:50 GMT | Windows Logging for SOC: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/1e2c9799f70f) |
+| Thu, 26 Jun 2025 20:15:00 GMT | OSCP+ vs CRTP vs PNPT | Paradox | [Read More](https://medium.com/p/ef4daca759a7) |
+| Thu, 26 Jun 2025 20:10:29 GMT | TryHackMe — Mr Robot CTF Walkthrough | Cyber Anom | [Read More](https://medium.com/p/a98ba12a91ae) |
+| Thu, 26 Jun 2025 20:06:40 GMT | Compliance Automation: Vision Alerts to SIEM | API4AI | [Read More](https://medium.com/p/40b4995bc3bd) |
+| Thu, 26 Jun 2025 19:54:48 GMT | The Colonial Pipeline Cyberattack of 2021: Anatomy of a National Crisis | ArthurLizLimaa | [Read More](https://medium.com/p/58d2148bda94) |
+| Thu, 26 Jun 2025 19:44:32 GMT | Zero Day in Sector 7 | ArthurLizLimaa | [Read More](https://medium.com/p/787be983eee1) |
+| Thu, 26 Jun 2025 19:42:29 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/c77c5091ffa8) |
+| Thu, 26 Jun 2025 19:40:48 GMT | Broken Access Control via Hardcoded Bearer Token in Public JS File | nooh zidan | [Read More](https://medium.com/p/b2f6c87b4d44) |
+| Thu, 26 Jun 2025 19:39:25 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/e5c60c1c809c) |
+| Thu, 26 Jun 2025 19:35:36 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/f304268eacc3) |
 | Thu, 26 Jun 2025 19:28:35 GMT | Bypass CSRF attack in json and get €XXX | Kirollos Botros | [Read More](https://medium.com/p/d8dea24d7c0b) |
 | Thu, 26 Jun 2025 19:28:00 GMT | 10 Mind-Blowing Facts About Cybersecurity | ArthurLizLimaa | [Read More](https://medium.com/p/e648e5ae5fc4) |
 | Thu, 26 Jun 2025 19:26:09 GMT | Safeguard Your Linux System: Scanning for Malware and Rootkits with Rootkit Hunter | Lince Mathew | [Read More](https://medium.com/p/2e2836c38d31) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 14:59:00 GMT | Why Your Smart Contract Needs a Red Team Test Before Its Formal Audit | Pavon Dunbar | [Read More](https://medium.com/p/fe25191d2ea2) |
 | Thu, 26 Jun 2025 14:56:42 GMT | Biometric Authentication Solutions in Maryland for High-Security Access Control | Katheryne | [Read More](https://medium.com/p/40106a14fe5a) |
 | Thu, 26 Jun 2025 14:52:52 GMT | From Gate Opener to Full Control: Hacking a Smart Parking Device | Moriel Harush | [Read More](https://medium.com/p/4205cb80d5aa) |
-| Thu, 26 Jun 2025 14:52:29 GMT | Understanding Layer 2 Protocols for CCNA | Joanorifha | [Read More](https://medium.com/p/bf119dff70cf) |
-| Thu, 26 Jun 2025 14:47:56 GMT | My Cybersecurity Internship Journey with Oasis Infobyte — Hands-on Experience | Rahul Prasad Kadiyam | [Read More](https://medium.com/p/b354f0a1334f) |
-| Thu, 26 Jun 2025 14:47:37 GMT | EDE, Jimbos, CS Token: Oracle Backdoors, Slippage Gaps, and Flash-Loan-Boosted Burns | Olympix | [Read More](https://medium.com/p/4fa0fb97f228) |
-| Thu, 26 Jun 2025 14:46:51 GMT | The Dark Side of JWT No One Talks About | Ibtissam hammadi | [Read More](https://medium.com/p/c35198d2a587) |
-| Thu, 26 Jun 2025 14:42:40 GMT | Art Coin, Snook, Land NFT: Incentive Loops, Permission Slips, and Liquidity Misfires | Olympix | [Read More](https://medium.com/p/3e4e31beb066) |
-| Thu, 26 Jun 2025 14:37:47 GMT | Deus, Ovix, Unlock: From Miswired Mappings to Oracle Lies | Olympix | [Read More](https://medium.com/p/e0e1fc2c0e5c) |
-| Thu, 26 Jun 2025 14:36:11 GMT | How to Bulk Delete Personal Data in Salesforce Data Cloud (CDP) Using the Consent API | Mani | [Read More](https://medium.com/p/80d764004dd8) |
-| Thu, 26 Jun 2025 14:35:39 GMT | SOCFortress × Shuffle: When Open-Source SIEM Meets Open-Source SOAR | SOCFortress | [Read More](https://medium.com/p/622a8bcf8803) |
-| Thu, 26 Jun 2025 14:34:06 GMT | I Got ChatGPT to Leak Gmail Data with Just 1 Lines of Code: The MCP Tool Poisoning & How to Defend… | Hiworld | [Read More](https://medium.com/p/2192a2c19404) |
-| Thu, 26 Jun 2025 14:31:49 GMT | The Night I Stayed Awake to Catch a Hacker | Azmat Ali | [Read More](https://medium.com/p/9e7b865c4538) |
-| Thu, 26 Jun 2025 14:22:16 GMT | The Day Demands Me, but the Night Heals Me | Meli | [Read More](https://medium.com/p/369f393858d5) |
