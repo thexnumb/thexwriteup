@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 21:08:58 GMT | Top 10 Free AI Tools Like ChatGPT You Should Be Using in 2025 | Ravi Teja Rayudu | [Read More](https://medium.com/p/a6416c4d8ddc) |
+| Thu, 26 Jun 2025 20:59:33 GMT | Beyond the Hype — Building a Real C2 Framework from Scratch | Cyberlairs | [Read More](https://medium.com/p/5a6f5015931d) |
+| Thu, 26 Jun 2025 20:58:53 GMT | Everything, Everywhere, All at Once | Jonathan Mohring | [Read More](https://medium.com/p/2b1799663119) |
+| Thu, 26 Jun 2025 20:57:03 GMT | How to Create Secure AI Applications | Tejas Kumar | [Read More](https://medium.com/p/8a1258aa4563) |
+| Thu, 26 Jun 2025 20:54:23 GMT | Massive Data Breach in USA History for Last 15 Years | Hoplon Infosec | [Read More](https://medium.com/p/5925e0c64813) |
+| Thu, 26 Jun 2025 20:54:09 GMT | State-Sponsored Cyber Warfare | Pentestjunkie07 | [Read More](https://medium.com/p/17451d2579db) |
 | Thu, 26 Jun 2025 20:38:01 GMT | Escalating threats driven by Artificial Intelligence (AI) | Inforsecpro | [Read More](https://medium.com/p/e03ae5d5a51e) |
+| Thu, 26 Jun 2025 20:36:10 GMT | Remote Access, Minus the Guesswork | Steve Coleman | [Read More](https://medium.com/p/896f931b26e8) |
+| Thu, 26 Jun 2025 20:35:07 GMT | Why I Think YUBICO Is Poised for a 100%+ Gain in the Next 5 Years | Jaylen Teixeira | [Read More](https://medium.com/p/faf862446208) |
+| Thu, 26 Jun 2025 20:30:58 GMT | Best Practices: The 5 Cloud Security Hacks That Saved My Career (And $47K in Breach Costs) | AbdulRahman Mostafa | [Read More](https://medium.com/p/c7542c5d0f91) |
+| Thu, 26 Jun 2025 20:30:35 GMT | Securing DevSecOps Workflows with AI: A Playbook for Startups and Small Teams | Mike Attara | [Read More](https://medium.com/p/e6ac839e993c) |
 | Thu, 26 Jun 2025 20:30:32 GMT | AI Security Frameworks: Adapting Defence-in-Depth for Frontier AI | Mike Attara | [Read More](https://medium.com/p/3927158f7241) |
 | Thu, 26 Jun 2025 20:23:17 GMT | Shellcode Encryption using Speck | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d72b9d6dc0ee) |
 | Thu, 26 Jun 2025 20:17:32 GMT | What a Man Unexpectedly Discovers When Marriage Happens | Murad NURI | [Read More](https://medium.com/p/c0857bd60991) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 15:50:44 GMT | How to Choose the Right Smoke Detector for Your Property | Ataraxis Solutions | [Read More](https://medium.com/p/6cdb7746a6ed) |
 | Thu, 26 Jun 2025 15:48:05 GMT | Remotely Detecting Citrix CVE-2025–6543: Tool by Grupo Oruss | Grupo Oruss | [Read More](https://medium.com/p/f74cb672d1f0) |
 | Thu, 26 Jun 2025 15:47:24 GMT | Exploiting EternalBlue: My Journey Through TryHackMe’s “Blue” Box | Praharsha Kumar | [Read More](https://medium.com/p/be0fe7a62565) |
-| Thu, 26 Jun 2025 15:40:17 GMT | Awesome Hacking: The Ultimate Curated Repository for Cybersecurity, Pentesting & Ethical Hacking | cyberwinx | [Read More](https://medium.com/p/2ff96a4eef92) |
-| Thu, 26 Jun 2025 15:36:20 GMT | CVE Vs. CVSS | fasieha mehar | [Read More](https://medium.com/p/d63d44d0bf6f) |
-| Thu, 26 Jun 2025 15:30:56 GMT | Step-by-Step Guide to Participate in the Naoris Token Sale | Naoris Protocol | [Read More](https://medium.com/p/b296ff90d5d1) |
-| Thu, 26 Jun 2025 15:27:29 GMT | Day 31: Processes | Nile Okomo | [Read More](https://medium.com/p/85551da2b663) |
-| Thu, 26 Jun 2025 15:25:56 GMT | Detectando Citrix CVE-2025–6543 Remotamente: Herramienta del Grupo Oruss | Grupo Oruss | [Read More](https://medium.com/p/40a7e4908ebf) |
-| Thu, 26 Jun 2025 15:18:49 GMT | Cybersecurity Best Practices For Startups - Neil Brauner | Neil Brauner | [Read More](https://medium.com/p/05a6c46b5513) |
-| Thu, 26 Jun 2025 15:17:46 GMT | Security Concerns in Cross-Domain Multi-Agent LLM Systems | Gary A. Fowler | [Read More](https://medium.com/p/314d624bbec9) |
-| Thu, 26 Jun 2025 15:12:32 GMT | Mastering Rights Management with SailPoint IIQ: From RBAC to Access Certification | Surya Raja | [Read More](https://medium.com/p/e77f1664fe4d) |
-| Thu, 26 Jun 2025 15:04:11 GMT | My First Steps into Cybersecurity: What I’ve Learned So Far | Gaarv Chauhan | [Read More](https://medium.com/p/adb288b0bd5b) |
-| Thu, 26 Jun 2025 15:02:47 GMT | What Hackers See: Building an Executive Risk Dossier from Public Data (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/80220ce9f3ec) |
