@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 20:38:01 GMT | Escalating threats driven by Artificial Intelligence (AI) | Inforsecpro | [Read More](https://medium.com/p/e03ae5d5a51e) |
+| Thu, 26 Jun 2025 20:30:32 GMT | AI Security Frameworks: Adapting Defence-in-Depth for Frontier AI | Mike Attara | [Read More](https://medium.com/p/3927158f7241) |
 | Thu, 26 Jun 2025 20:23:17 GMT | Shellcode Encryption using Speck | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d72b9d6dc0ee) |
+| Thu, 26 Jun 2025 20:17:32 GMT | What a Man Unexpectedly Discovers When Marriage Happens | Murad NURI | [Read More](https://medium.com/p/c0857bd60991) |
 | Thu, 26 Jun 2025 20:15:50 GMT | Windows Logging for SOC: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/1e2c9799f70f) |
 | Thu, 26 Jun 2025 20:15:00 GMT | OSCP+ vs CRTP vs PNPT | Paradox | [Read More](https://medium.com/p/ef4daca759a7) |
 | Thu, 26 Jun 2025 20:10:29 GMT | TryHackMe — Mr Robot CTF Walkthrough | Cyber Anom | [Read More](https://medium.com/p/a98ba12a91ae) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 15:12:32 GMT | Mastering Rights Management with SailPoint IIQ: From RBAC to Access Certification | Surya Raja | [Read More](https://medium.com/p/e77f1664fe4d) |
 | Thu, 26 Jun 2025 15:04:11 GMT | My First Steps into Cybersecurity: What I’ve Learned So Far | Gaarv Chauhan | [Read More](https://medium.com/p/adb288b0bd5b) |
 | Thu, 26 Jun 2025 15:02:47 GMT | What Hackers See: Building an Executive Risk Dossier from Public Data (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/80220ce9f3ec) |
-| Thu, 26 Jun 2025 14:59:00 GMT | Why Your Smart Contract Needs a Red Team Test Before Its Formal Audit | Pavon Dunbar | [Read More](https://medium.com/p/fe25191d2ea2) |
-| Thu, 26 Jun 2025 14:56:42 GMT | Biometric Authentication Solutions in Maryland for High-Security Access Control | Katheryne | [Read More](https://medium.com/p/40106a14fe5a) |
-| Thu, 26 Jun 2025 14:52:52 GMT | From Gate Opener to Full Control: Hacking a Smart Parking Device | Moriel Harush | [Read More](https://medium.com/p/4205cb80d5aa) |
