@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 07:04:30 GMT | Cara Menginstall VirtualBox di Ubuntu | Seftidinata | [Read More](https://medium.com/p/f1323e682fd5) |
+| Thu, 26 Jun 2025 07:03:22 GMT | Neal Elbaum Shares 5 Ways to Secure Logistics Data | Neal Elbaum | [Read More](https://medium.com/p/06bef5720514) |
+| Thu, 26 Jun 2025 07:02:29 GMT | Best Online IOT Penetration Testing Course with Certification | cyber security Updates | [Read More](https://medium.com/p/b398ddc0d777) |
+| Thu, 26 Jun 2025 07:00:18 GMT | What are cloud transformation security services for? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/bb0fc2698948) |
+| Thu, 26 Jun 2025 06:58:36 GMT | Web3 Messaging with Dmail: A Visual Expression of Decentralized Privacy | NsongKing | [Read More](https://medium.com/p/c79868abeaaa) |
+| Thu, 26 Jun 2025 06:58:34 GMT | DFIR-Digital Forensics & Incident Response | Parvva | [Read More](https://medium.com/p/c459a9d8f5cd) |
+| Thu, 26 Jun 2025 06:56:40 GMT | Beyond the Popup: Turning Stored XSS into Remote Code Execution | Ramshath | [Read More](https://medium.com/p/483839d06f58) |
+| Thu, 26 Jun 2025 06:49:51 GMT | 9 Best Linux Distros to Use in 2025 | ServerAvatar | [Read More](https://medium.com/p/00e42252821a) |
+| Thu, 26 Jun 2025 06:46:14 GMT | How Cyberspace Became a Battlefield Between Iran and Israel | Rohan UK | [Read More](https://medium.com/p/b0bafd6e31e3) |
+| Thu, 26 Jun 2025 06:45:46 GMT | Understanding JWT: How JSON Web Tokens Work | Xinquanyip | [Read More](https://medium.com/p/e1922e345106) |
+| Thu, 26 Jun 2025 06:43:35 GMT | The 16 Billion Password Leak: What happened and What you must do now | CyberLucifer | [Read More](https://medium.com/p/c1c81fac16b4) |
+| Thu, 26 Jun 2025 06:43:13 GMT | Choosing the Right Performance Mode in SafeLine | AerieWhole123 | [Read More](https://medium.com/p/4d8130f9459c) |
+| Thu, 26 Jun 2025 06:42:19 GMT | Data packets | Jeslinelza | [Read More](https://medium.com/p/e323a45e8829) |
+| Thu, 26 Jun 2025 06:41:59 GMT | 2025 Bug Bounty Methodology, Toolsets and Persistent Recon | Ravi sharma | [Read More](https://medium.com/p/d991e39e52ce) |
+| Thu, 26 Jun 2025 06:40:21 GMT | 10 Tips for Choosing the Best Security Company In Singapore | Jane Tang | [Read More](https://medium.com/p/370af5b62f8c) |
 | Thu, 26 Jun 2025 06:09:50 GMT | Surgery in the Dark: What Happens When Cyber-attacks Kill the Lights | Travis Ray Caverhill | [Read More](https://medium.com/p/88ea5d42184b) |
 | Thu, 26 Jun 2025 06:04:42 GMT | I found Subdomain Take, but I am sad To Not control it | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/53ed3642179f) |
 | Thu, 26 Jun 2025 06:04:02 GMT | How to Succeed in Cybersecurity Over the Next 10 Years: Skills, Tools & Strategies for 2025–2035 | Ekene Joseph | [Read More](https://medium.com/p/d57adf49b6e6) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 20:59:21 GMT | The One Thing Hackers Can’t Steal: Why Human Connection Is Our Last Safe Asset | KommunityKoin | [Read More](https://medium.com/p/99327b4ae0ff) |
 | Wed, 25 Jun 2025 20:55:25 GMT | The Future of MCP: From Experimentation to Production | Valentin Stoican | [Read More](https://medium.com/p/08385d6a0834) |
 | Wed, 25 Jun 2025 20:54:52 GMT | Navigating Scam Recovery and the Role of Technology | Kfairleycarolyn | [Read More](https://medium.com/p/204d99d4374c) |
-| Wed, 25 Jun 2025 20:38:33 GMT | I Pretended To Be A Rich Widow: The Scammer Didn’t See It Coming. | The Anti-Scam Diaries | [Read More](https://medium.com/p/ae5f6e8e0c88) |
-| Wed, 25 Jun 2025 20:17:10 GMT | Cyber Kill Chain - Tryhackme | Aaron | [Read More](https://medium.com/p/f02a51708cc3) |
-| Wed, 25 Jun 2025 20:10:53 GMT | The Emotional Toll of Scams and the Importance of Genuine Support | Wilmapvillarreal | [Read More](https://medium.com/p/1d3ad9cfa545) |
-| Wed, 25 Jun 2025 20:00:31 GMT | How to Bypass AMSI Protection with Frida | Diego Caridei | [Read More](https://medium.com/p/8c4727a9c7e8) |
-| Wed, 25 Jun 2025 19:58:18 GMT | Ransomware: Digital Kidnapping Hurts Just as Much | Ushafa Wuakera | [Read More](https://medium.com/p/421abc512aa3) |
-| Wed, 25 Jun 2025 19:57:04 GMT | We’re going the wrong way! How to abuse symlinks and get LPE in Windows | CICADA8 | [Read More](https://medium.com/p/0c598b99125b) |
-| Wed, 25 Jun 2025 19:54:39 GMT | Crocodilus Android Malware: The New Threat Hiding in Your Mobile Apps | Akshay Chauhan | [Read More](https://medium.com/p/7c3502ade4e3) |
-| Wed, 25 Jun 2025 19:48:52 GMT | Overcoming the Struggles of Fund Recovery from Scams | Amanda T. Lott | [Read More](https://medium.com/p/bd051b65f835) |
-| Wed, 25 Jun 2025 19:41:56 GMT | Hacking APIs - Insecure Deserialization | KILLUA_UCHIHA | [Read More](https://medium.com/p/1b809d9d5aa0) |
-| Wed, 25 Jun 2025 19:38:27 GMT | Merge Conflicts: What I Did Wrong for Months | Earl Red | [Read More](https://medium.com/p/3bf84072b4d6) |
-| Wed, 25 Jun 2025 19:37:38 GMT | The New Cybersecurity Frontier: Why Generative AI Demands a new AI Security Framework | Kapil Tandon | [Read More](https://medium.com/p/2860adc66a62) |
-| Wed, 25 Jun 2025 19:36:43 GMT | Get yourself a Portable Kali Linux (Pi-Tail) -1 | Mohammed Waseem Ahmed | [Read More](https://medium.com/p/bd19e7746680) |
-| Wed, 25 Jun 2025 19:31:53 GMT | This One Mistake With Password Vaults Could Expose All Your Accounts | Austin Gomez | [Read More](https://medium.com/p/96fdf9e7850d) |
-| Wed, 25 Jun 2025 19:27:28 GMT | Modern Love or Modern Exhaustion? | Echoes Of Her Stories | [Read More](https://medium.com/p/c9efbfdd5bb1) |
-| Wed, 25 Jun 2025 19:19:21 GMT | Keeping Your Linux Clean: Malware Scanning with ClamAV | Lince Mathew | [Read More](https://medium.com/p/8c95fde50187) |
