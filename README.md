@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 13:32:41 GMT | Stop Asking If You’re Vulnerable. Start Asking If You’re Exploitable | Simardeep Singh | [Read More](https://medium.com/p/a56189c2b04b) |
+| Thu, 26 Jun 2025 13:23:37 GMT | The Bug Bounty Mindset That 10x’s Your Game | Đeepanshu | [Read More](https://medium.com/p/f56a24891d85) |
+| Thu, 26 Jun 2025 13:04:29 GMT | From “alert(1)” to Victory: How I Bypassed My First XSS Filter (Even if It Was Out of Scope ) | ValidByAccident | [Read More](https://medium.com/p/3e1ec93469b1) |
+| Thu, 26 Jun 2025 12:49:39 GMT | All I’ve Ever Done Is Live for Myself | Charleston Li | [Read More](https://medium.com/p/8b74c64f9ca2) |
 | Thu, 26 Jun 2025 12:42:08 GMT | How CISM Certification Boosts Your Cybersecurity Career | Dhanashri Bhale | [Read More](https://medium.com/p/6979372b4bf6) |
 | Thu, 26 Jun 2025 12:33:10 GMT | The Problem with OSINT in the UK: Legal Walls and Institutional Silence | Stealth | [Read More](https://medium.com/p/7c6624dfa634) |
 | Thu, 26 Jun 2025 12:31:51 GMT | Improving Cybersecurity Efficiency with SOC as a Service with Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5c0090abfca5) |
@@ -109,7 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 06:46:14 GMT | How Cyberspace Became a Battlefield Between Iran and Israel | Rohan UK | [Read More](https://medium.com/p/b0bafd6e31e3) |
 | Thu, 26 Jun 2025 06:45:46 GMT | Understanding JWT: How JSON Web Tokens Work | Xinquanyip | [Read More](https://medium.com/p/e1922e345106) |
 | Thu, 26 Jun 2025 06:43:35 GMT | The 16 Billion Password Leak: What happened and What you must do now | CyberLucifer | [Read More](https://medium.com/p/c1c81fac16b4) |
-| Thu, 26 Jun 2025 06:43:13 GMT | Choosing the Right Performance Mode in SafeLine | AerieWhole123 | [Read More](https://medium.com/p/4d8130f9459c) |
-| Thu, 26 Jun 2025 06:42:19 GMT | Data packets | Jeslinelza | [Read More](https://medium.com/p/e323a45e8829) |
-| Thu, 26 Jun 2025 06:41:59 GMT | 2025 Bug Bounty Methodology, Toolsets and Persistent Recon | Ravi sharma | [Read More](https://medium.com/p/d991e39e52ce) |
-| Thu, 26 Jun 2025 06:40:21 GMT | 10 Tips for Choosing the Best Security Company In Singapore | Jane Tang | [Read More](https://medium.com/p/370af5b62f8c) |
