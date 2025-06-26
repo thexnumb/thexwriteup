@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 18:20:29 GMT | Your SMS Inbox Has a Built-In Security Feature — Here’s How It Works | Vishnu prasad | [Read More](https://medium.com/p/605c27c87c0a) |
+| Thu, 26 Jun 2025 18:20:23 GMT | Everything You Need to Know About SOAP & How Pentesters Exploit Them? | Root-X-Admin | [Read More](https://medium.com/p/71f863dd228f) |
+| Thu, 26 Jun 2025 18:19:59 GMT | GetSimple - HTB Walkthrough | Yagan120gb | [Read More](https://medium.com/p/639bce352f2a) |
+| Thu, 26 Jun 2025 18:05:02 GMT | “Website Got Attacked!?” — How CSP Can Protect You | Bhupesh kumar | [Read More](https://medium.com/p/89981d28bb0f) |
+| Thu, 26 Jun 2025 18:04:16 GMT | Open Waters | Octavia Inkwell | [Read More](https://medium.com/p/810f9bfde30f) |
+| Thu, 26 Jun 2025 18:00:13 GMT | How the Internet Works — Part II | Baraaemad | [Read More](https://medium.com/p/af368d744131) |
+| Thu, 26 Jun 2025 18:00:05 GMT | Your digital wallet is probably leaking money (and here’s how to find out) | Ilebarrionuevo | [Read More](https://medium.com/p/300f04aa95e5) |
+| Thu, 26 Jun 2025 17:50:54 GMT | I want… | Imisi_lifewriter - I write to give life.✍ | [Read More](https://medium.com/p/64bb24e01bd3) |
+| Thu, 26 Jun 2025 17:50:11 GMT | Why Video Game Enemies Are Getting Smarter (and Harder to Beat) | Payaam Raza | [Read More](https://medium.com/p/71f03d4dc68a) |
+| Thu, 26 Jun 2025 17:43:25 GMT | Why You’re Not Finding Any Vulnerabilities — And How to Fix That | Nigam | [Read More](https://medium.com/p/69d0a2916d7d) |
+| Thu, 26 Jun 2025 17:41:42 GMT | Is AI Becoming must in CyberSecurity? | Vinayak Ghadi | [Read More](https://medium.com/p/31b21d44ce7d) |
 | Thu, 26 Jun 2025 17:39:46 GMT | Can Memes hack you? | Javier Calderon Jr | [Read More](https://medium.com/p/f4a91a1542dc) |
 | Thu, 26 Jun 2025 17:38:37 GMT | SQL Injection (SQLi): A Comprehensive Guide | Meravytes | [Read More](https://medium.com/p/dfca9a7426dc) |
 | Thu, 26 Jun 2025 17:36:32 GMT | Securing IoT Devices: Why Your Fridge is a Liability | Aj | [Read More](https://medium.com/p/eff61463325a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 13:04:29 GMT | From “alert(1)” to Victory: How I Bypassed My First XSS Filter (Even if It Was Out of Scope ) | ValidByAccident | [Read More](https://medium.com/p/3e1ec93469b1) |
 | Thu, 26 Jun 2025 12:59:32 GMT | “Static Code Analysis with a Local LLM: Building a Lightweight Agentic SAST System” | Shashank N | [Read More](https://medium.com/p/bf0ab1e36daa) |
 | Thu, 26 Jun 2025 12:49:39 GMT | All I’ve Ever Done Is Live for Myself | Charleston Li | [Read More](https://medium.com/p/8b74c64f9ca2) |
-| Thu, 26 Jun 2025 12:42:08 GMT | How CISM Certification Boosts Your Cybersecurity Career | Dhanashri Bhale | [Read More](https://medium.com/p/6979372b4bf6) |
-| Thu, 26 Jun 2025 12:40:13 GMT | Innovative Smart Living with SwitchBot | Thomaslopez | [Read More](https://medium.com/p/68e8b5aae08c) |
-| Thu, 26 Jun 2025 12:33:14 GMT | Compound’s $24M DAO Heist: How Governance Theater Enabled the Golden Boys to Exploit DeFi’s… | 6ixty | [Read More](https://medium.com/p/f860de7d796b) |
-| Thu, 26 Jun 2025 12:33:10 GMT | The Problem with OSINT in the UK: Legal Walls and Institutional Silence | Stealth | [Read More](https://medium.com/p/7c6624dfa634) |
-| Thu, 26 Jun 2025 12:31:51 GMT | Improving Cybersecurity Efficiency with SOC as a Service with Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5c0090abfca5) |
-| Thu, 26 Jun 2025 12:29:18 GMT | Cybersecurity 101: Underrated Tricks to Protect Data | Xaar The Educator | [Read More](https://medium.com/p/bb4b681c9bdc) |
-| Thu, 26 Jun 2025 12:28:48 GMT | Cybersecurity Companies: The Strategic Shield for Modern Businesses | Arushi Srivastava | [Read More](https://medium.com/p/d9c8de3626ef) |
-| Thu, 26 Jun 2025 12:25:27 GMT | How I Prepared for and Passed the ISC2 CC Exam — As a Non-IT Professional in 1st attempt. | Tarush Sharma | [Read More](https://medium.com/p/ece728539084) |
-| Thu, 26 Jun 2025 12:23:57 GMT | How I got Appreciation Letter from NASA | Sibi Krish | [Read More](https://medium.com/p/f6af69f48eee) |
-| Thu, 26 Jun 2025 12:21:25 GMT | The Evolution of Cyber Risk Assessment & Planning in the Age of AI and Cloud | Sophia | [Read More](https://medium.com/p/4e194345b243) |
-| Thu, 26 Jun 2025 12:05:02 GMT | Why Your Favorite Apps Keep Making You Jump Through Security Hoops (And Why That’s Good) | Dandre Clarke | [Read More](https://medium.com/p/7e552590e6ca) |
