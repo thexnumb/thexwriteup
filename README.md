@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 11:18:34 GMT | Firewall and IDS/IPS Evasion — Hard Lab | Varkeythms | [Read More](https://medium.com/p/5a545d798db6) |
+| Thu, 26 Jun 2025 11:05:48 GMT | Get Started with Azure ML Workspace and Notebooks for Sentinel Security Use Cases | M'hirsi Hamza | [Read More](https://medium.com/p/762647bb4ca0) |
+| Thu, 26 Jun 2025 11:02:40 GMT | Marketplace Takeover: How We Could’ve Taken Over Every Developer Using a VSCode Fork | Oren Yomtov | [Read More](https://medium.com/p/f0f8cf104d44) |
+| Thu, 26 Jun 2025 10:59:10 GMT | Watch out for significance | Kai | [Read More](https://medium.com/p/3c608ea266d5) |
+| Thu, 26 Jun 2025 10:45:59 GMT | CVE-2025–36041 Deep Dive: IBM MQ Architecture, Exploitation, and Mitigation | Byte Reaper | [Read More](https://medium.com/p/74bbe63cf252) |
+| Thu, 26 Jun 2025 10:45:37 GMT | 7 Shocking Statistics About The Current State of Cloud Security | HostNOC | [Read More](https://medium.com/p/f939e0e56c95) |
 | Thu, 26 Jun 2025 10:42:13 GMT | Is Ethical Hacking a Good Career for Students? | Crawsec | [Read More](https://medium.com/p/d66850061ded) |
 | Thu, 26 Jun 2025 10:37:37 GMT | Top 1 Cybersecurity Solutions in Dubai | Oadtechdubai | [Read More](https://medium.com/p/709097634e51) |
 | Thu, 26 Jun 2025 10:37:05 GMT | How to Exploit Account Takeover via Password Reset Flaw | Monika sharma | [Read More](https://medium.com/p/274c7d82d096) |
@@ -107,9 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 04:31:47 GMT | The Windows Security Journey — KDS Root Keys (Key Distribution Service Root Keys) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a76865743b26) |
 | Thu, 26 Jun 2025 04:23:52 GMT | Exploiting a Race Condition in the Upload Feature | Problem Child | [Read More](https://medium.com/p/0b108895d3a5) |
 | Thu, 26 Jun 2025 04:22:47 GMT | Windows Registry Manipulation | ONESithuation | [Read More](https://medium.com/p/48e6b4bab676) |
-| Thu, 26 Jun 2025 04:22:10 GMT | Undust: URL Pattern Generator | AbhirupKonwar | [Read More](https://medium.com/p/a570adb14fe4) |
-| Thu, 26 Jun 2025 04:18:57 GMT | Securing Enterprise Infrastructure: Applying Security Principles with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/ff21573010c9) |
-| Thu, 26 Jun 2025 04:12:28 GMT | WiFi as an Invisible Camera: How AI Turns Wireless Signals into a Surveillance System | Tanoj Langore | [Read More](https://medium.com/p/73f759a860e4) |
-| Thu, 26 Jun 2025 04:06:28 GMT | Quantum Breakthroughs: Kaise Cybersecurity Ka Future Redefined Ho Raha Hai | Jai | [Read More](https://medium.com/p/7178e499170b) |
-| Thu, 26 Jun 2025 04:04:35 GMT | Securing LangChain’s MCP Integration: Agent-Based Security for Enterprise AI | Rick Hightower | [Read More](https://medium.com/p/070ab920370b) |
-| Thu, 26 Jun 2025 03:41:21 GMT | OVER THE WIRE — LEVIATHAN | 5kullk3r | [Read More](https://medium.com/p/8142bb8217d7) |
