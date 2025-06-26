@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 10:07:11 GMT | The Shadow Handshake: Correlating Dark Web Personas with Public/Clearnet Identities | Sreya shyjash | [Read More](https://medium.com/p/08bb50c7c930) |
+| Thu, 26 Jun 2025 10:06:10 GMT | OneClik APT Malware Campaign: Microsoft Click Once Exploited in Attacks on Energy &… | Infoziant | [Read More](https://medium.com/p/3f7624769967) |
+| Thu, 26 Jun 2025 10:06:03 GMT | 1 / 2
+How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read More](https://medium.com/p/ec1f78c4937c) |
+| Thu, 26 Jun 2025 09:57:57 GMT | Anomaly Detection in .onion Traffic Using Machine Learning | Sreya shyjash | [Read More](https://medium.com/p/db9ba6ad7686) |
+| Thu, 26 Jun 2025 09:56:36 GMT | A Scammer Told Me He Was From The ‘UN’ So I Played Along. | The Anti-Scam Diaries | [Read More](https://medium.com/p/b26f8ab645cf) |
+| Thu, 26 Jun 2025 09:51:30 GMT | Understanding Risk in Cybersecurity 101 | Hammad Zahid | [Read More](https://medium.com/p/3175ec63bb1e) |
+| Thu, 26 Jun 2025 09:50:16 GMT | WhatsApp Hacked? What You Need to Know Before It Happens to You | Sanjuh | [Read More](https://medium.com/p/d108daf6c31a) |
+| Thu, 26 Jun 2025 09:49:59 GMT | Australia’s Green Energy Boom: A Double-Edged Sword for Chinese Battery Giants | Laylane | [Read More](https://medium.com/p/169531dcdf71) |
+| Thu, 26 Jun 2025 09:47:58 GMT | GST-9 Frame For Sale | Excessive Pony Kpwf | [Read More](https://medium.com/p/9951a8c96fc9) |
+| Thu, 26 Jun 2025 09:47:08 GMT | Building PainPain: What I Learned While Crafting a Safe-to-Study Ransomware PoC | Muditya Raghav | [Read More](https://medium.com/p/679b1070a9ba) |
+| Thu, 26 Jun 2025 09:46:06 GMT | Simple Way To Hardening Your Linux Server | Daniel Martin | [Read More](https://medium.com/p/5982f7942679) |
+| Thu, 26 Jun 2025 09:43:45 GMT | Pharmacy Security Upgrade with Dahua Cameras by Optimationbd | optimationbd | [Read More](https://medium.com/p/72d42d224e5c) |
 | Thu, 26 Jun 2025 09:36:48 GMT | Cybercriminals Exploit Open-Source Tools to Deploy Cryptojackers and Steal Cloud Credentials | CyBlog | [Read More](https://medium.com/p/7f5a7db5baf4) |
 | Thu, 26 Jun 2025 09:26:34 GMT | Hire a Hacker: What You Need to Know Before You Do It | Hubert Rally | [Read More](https://medium.com/p/1df3f5068e07) |
 | Thu, 26 Jun 2025 09:23:33 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f1965ea998b1) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 02:47:30 GMT | Information Disclosure part-1 : error messages | Ahmad Sopyan | [Read More](https://medium.com/p/f551c814e4da) |
 | Thu, 26 Jun 2025 02:47:06 GMT | USA Cybersecurity in 2030: A Geopolitical and Policy Analysis | CCD-IS | [Read More](https://medium.com/p/9549952b9394) |
 | Thu, 26 Jun 2025 02:40:48 GMT | Cyber Kill Chain — Tryhackme | Mukund | [Read More](https://medium.com/p/2fe6f82d20ed) |
-| Thu, 26 Jun 2025 02:16:43 GMT | Shift-Left Security 2.0 — How to Secure DevOps in the AI-Powered Era | Sivakumar KJ | [Read More](https://medium.com/p/d20a98776b79) |
-| Thu, 26 Jun 2025 01:48:58 GMT | Access Private Cloud Resources Securely with Cloudflare Zero Trust | Ted O'Connor | [Read More](https://medium.com/p/52cc8fd84cbf) |
-| Thu, 26 Jun 2025 01:36:54 GMT | “They Want a $5M Cyber Policy?!?” | Alliance Risk | [Read More](https://medium.com/p/768cf0599724) |
-| Thu, 26 Jun 2025 01:32:10 GMT | From Zero to Hero: How One Tool Transformed My Poker Game | Edgar Brutto | [Read More](https://medium.com/p/7cf7e15b6fbf) |
-| Thu, 26 Jun 2025 01:29:35 GMT | Phishing Is Evolving Fast — Here’s What I’m Seeing | Raymond | [Read More](https://medium.com/p/12dbacca1060) |
-| Thu, 26 Jun 2025 01:18:11 GMT | OSINT Guide Pt 2: Using Telethon + Python to scrape Telegram Data | SirHaxAlot | [Read More](https://medium.com/p/2f30dd2a69ee) |
-| Thu, 26 Jun 2025 01:01:56 GMT | How to Protect Kids and Family from Cyber Crime? | AJIT | [Read More](https://medium.com/p/607fe868ebee) |
-| Thu, 26 Jun 2025 01:00:39 GMT | The Love I Deserve Won’t Disappear in the Silence | Blessing Veronica | [Read More](https://medium.com/p/86ef7560a547) |
-| Thu, 26 Jun 2025 01:00:22 GMT | SQL Injection Ciega (Boolean) — Extrayendo datos sin mensajes de error | Roberto Alfaro | [Read More](https://medium.com/p/adfd5358afcd) |
-| Thu, 26 Jun 2025 00:21:28 GMT | Are You Providing Emotional Safety in Your Relationship? | Yasmin Del Rosario | [Read More](https://medium.com/p/085acf29e2f6) |
-| Thu, 26 Jun 2025 00:09:25 GMT | زن صیغه‌ای در مشهد زن صیغه‌ای در لنگرود زن صیغه‌ای در بروجرد زن صیغه‌ای در دورود زن صیغه‌ای در… | صیغه حلال و شرعی قانونی صیغه موقت صیغه ساعتی | [Read More](https://medium.com/p/1c14eef6bb35) |
-| Thu, 26 Jun 2025 00:06:25 GMT | Web Cache Deception: When a 404 Still Leaks Sensitive Data ️️‍♂️ | ValidByAccident | [Read More](https://medium.com/p/61338e04b10f) |
