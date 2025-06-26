@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 11:37:09 GMT | The Secret Life of Logs: How Our Debugging Session Uncovered a Corporate Espionage Plot | Sneha Rani | [Read More](https://medium.com/p/f050f9594e12) |
+| Thu, 26 Jun 2025 11:31:40 GMT | Cybersecurity and Information Security | Rasagnaqt33 | [Read More](https://medium.com/p/97be0cfc08a9) |
+| Thu, 26 Jun 2025 11:31:16 GMT | Web Güvenliğinde Tehlikeli Bir Açık: Path Traversal | Mustafa Caliskan | [Read More](https://medium.com/p/65087b2947a3) |
+| Thu, 26 Jun 2025 11:25:51 GMT | Cybersecurity vs. Information Security: What’s the Difference? | Rasagnauppula | [Read More](https://medium.com/p/47ca8a8c9c71) |
+| Thu, 26 Jun 2025 11:19:12 GMT | We Signed Up on ClickUp and Found a Flaw in the URL | Frank Edomaruse | [Read More](https://medium.com/p/daa2b01f97f7) |
 | Thu, 26 Jun 2025 11:18:34 GMT | Firewall and IDS/IPS Evasion — Hard Lab | Varkeythms | [Read More](https://medium.com/p/5a545d798db6) |
+| Thu, 26 Jun 2025 11:17:21 GMT | Email Security Pt 1/3: What is SPF? | Nelson Chukwuemeka-Awuja | [Read More](https://medium.com/p/8f84456eed47) |
+| Thu, 26 Jun 2025 11:15:58 GMT | How I Got My Money Back After Being Scammed by Expocrypt | Movat | [Read More](https://medium.com/p/9648b7e475bd) |
 | Thu, 26 Jun 2025 11:05:48 GMT | Get Started with Azure ML Workspace and Notebooks for Sentinel Security Use Cases | M'hirsi Hamza | [Read More](https://medium.com/p/762647bb4ca0) |
 | Thu, 26 Jun 2025 11:02:40 GMT | Marketplace Takeover: How We Could’ve Taken Over Every Developer Using a VSCode Fork | Oren Yomtov | [Read More](https://medium.com/p/f0f8cf104d44) |
 | Thu, 26 Jun 2025 10:59:10 GMT | Watch out for significance | Kai | [Read More](https://medium.com/p/3c608ea266d5) |
@@ -106,10 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 05:17:06 GMT | One Night, One Goal: How I Passed the PSAA Certification by TCM Security | Athiwat Tiprasaharn | [Read More](https://medium.com/p/e723cf7f086c) |
 | Thu, 26 Jun 2025 05:13:25 GMT | The 5 Whys Method: Why Your Cybersecurity Incident Response Plan Keeps Failing | crązŷrąiɲ | [Read More](https://medium.com/p/3780af08053c) |
 | Thu, 26 Jun 2025 05:02:05 GMT | Can AI Replace Cybersecurity Professionals? A Reality Check | Angeljoseph | [Read More](https://medium.com/p/4ffaeda849de) |
-| Thu, 26 Jun 2025 04:59:37 GMT | AI in Third-Party Risk Management: Hype, Limitations, and a Trust-Centric Framework | Chandan Sharma | [Read More](https://medium.com/p/397e64878acd) |
-| Thu, 26 Jun 2025 04:42:11 GMT | IT Infrastructure Trends Every CIO Should Know (And How to Act on Them) | Brilworks Software | [Read More](https://medium.com/p/5441d115c5ed) |
-| Thu, 26 Jun 2025 04:37:58 GMT | ttuex.com Scam: File A Complaint For The Recovery Of Your Funds | SCAM BUSTER | [Read More](https://medium.com/p/6a419cd107e3) |
-| Thu, 26 Jun 2025 04:32:05 GMT | Not Just European, But Trustworthy: What DNS4EU Reminds Us About Sovereignty, Surveillance, and… | Kim Chandler McDonald | [Read More](https://medium.com/p/2d1854c87f97) |
-| Thu, 26 Jun 2025 04:31:47 GMT | The Windows Security Journey — KDS Root Keys (Key Distribution Service Root Keys) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a76865743b26) |
-| Thu, 26 Jun 2025 04:23:52 GMT | Exploiting a Race Condition in the Upload Feature | Problem Child | [Read More](https://medium.com/p/0b108895d3a5) |
-| Thu, 26 Jun 2025 04:22:47 GMT | Windows Registry Manipulation | ONESithuation | [Read More](https://medium.com/p/48e6b4bab676) |
