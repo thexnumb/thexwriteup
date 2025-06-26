@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 03:41:21 GMT | OVER THE WIRE — LEVIATHAN | 5kullk3r | [Read More](https://medium.com/p/8142bb8217d7) |
+| Thu, 26 Jun 2025 03:40:02 GMT | The Used Phone That Taught Me About Digital Ghosts | Gabriele Geza Gobbo | [Read More](https://medium.com/p/eeb5238ce318) |
+| Thu, 26 Jun 2025 03:35:05 GMT | DNS — The Internet’s Phonebook Directory | err0rgod | [Read More](https://medium.com/p/2047fcc5025e) |
+| Thu, 26 Jun 2025 03:19:43 GMT | The world of hardware crypto platforms | Progsky | [Read More](https://medium.com/p/5849a603f07a) |
+| Thu, 26 Jun 2025 03:13:28 GMT | Web Security: Blocking Bots from the Edge with Fail2Ban + Cloudflare | Greg Heffner | [Read More](https://medium.com/p/655f78d704e0) |
 | Thu, 26 Jun 2025 03:10:52 GMT | How I Found XSS — CVE-2025–0133 Using Shodan | Ch4ndan das | [Read More](https://medium.com/p/39a37eae7807) |
 | Thu, 26 Jun 2025 03:01:47 GMT | Machine Learning in Threat Detection: Smarter, Faster, and Less Noisy | Paritosh | [Read More](https://medium.com/p/3fdd39c54fd7) |
 | Thu, 26 Jun 2025 03:01:26 GMT | Cracking Fordo — The 14Ton Bomb, the Stealth B-2, and the Race to Breach Iran’s 300-Foot Nuclear… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/e0f6984193e1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 17:43:57 GMT | Linux Kernel Güvenlik Mekanizmalarının Evrimi ve Modern Karşılaştırması | Sinem Coşkun | [Read More](https://medium.com/p/ca94c95e082e) |
 | Wed, 25 Jun 2025 17:33:26 GMT | The Exploited Recruits: How Filipino Hacker Groups Use Underage Kids as Scapegoats | Lynss | [Read More](https://medium.com/p/fa149a1f786c) |
 | Wed, 25 Jun 2025 17:29:17 GMT | Development of security robotics | Presslink Media | [Read More](https://medium.com/p/6ecd84c427cc) |
-| Wed, 25 Jun 2025 17:23:36 GMT | When home hurts and coffee heals. | grace | [Read More](https://medium.com/p/654d26187a85) |
-| Wed, 25 Jun 2025 17:13:50 GMT | Getting Started with Hacking: Virtual Machines, Linux, and Networking for Beginners | Nithin NIcholas | [Read More](https://medium.com/p/1a5b4312693f) |
-| Wed, 25 Jun 2025 17:12:29 GMT | MS17–010- Manual-Exploitation | ya09r3Z | [Read More](https://medium.com/p/0f7d7552752e) |
-| Wed, 25 Jun 2025 17:08:18 GMT | Portrait of My Emotional Complexity | vibha pathak | [Read More](https://medium.com/p/ef3d8cecf68b) |
-| Wed, 25 Jun 2025 17:05:31 GMT | Session vs JWT Authentication: Stateful vs Stateless Explained | Atul Yadav | [Read More](https://medium.com/p/a92f57a4f042) |
