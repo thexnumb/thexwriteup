@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 19:28:35 GMT | Bypass CSRF attack in json and get €XXX | Kirollos Botros | [Read More](https://medium.com/p/d8dea24d7c0b) |
+| Thu, 26 Jun 2025 19:28:00 GMT | 10 Mind-Blowing Facts About Cybersecurity | ArthurLizLimaa | [Read More](https://medium.com/p/e648e5ae5fc4) |
+| Thu, 26 Jun 2025 19:26:09 GMT | Safeguard Your Linux System: Scanning for Malware and Rootkits with Rootkit Hunter | Lince Mathew | [Read More](https://medium.com/p/2e2836c38d31) |
+| Thu, 26 Jun 2025 19:24:22 GMT | SQLi in the Cloud, Root on the Board: A Beginner’s Journey into IoT Hacking | Pundhapat | [Read More](https://medium.com/p/06efb2539a21) |
+| Thu, 26 Jun 2025 19:20:24 GMT | The Door You Never Walked Through… and Now It’s Closed | Ckan Johnson | [Read More](https://medium.com/p/4e1355b8b43f) |
+| Thu, 26 Jun 2025 19:17:17 GMT | From Chattanooga to Austin: Building Smarter Cities Through Utility Innovation | David Johnson | [Read More](https://medium.com/p/d710a41f1fb2) |
+| Thu, 26 Jun 2025 19:07:53 GMT | 27 Cybersecurity Conferences in Singapore | Tal Eliyahu | [Read More](https://medium.com/p/87694ba84da0) |
 | Thu, 26 Jun 2025 19:01:54 GMT | How I Found a Web App’s Full Source Code in Less Than 5 Minutes | m0rd3caii | [Read More](https://medium.com/p/337d52421c2a) |
 | Thu, 26 Jun 2025 18:56:32 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/1b272f736443) |
 | Thu, 26 Jun 2025 18:56:07 GMT | TryHackMe: Industrial Intrusion — Warmup Room - Write-Up | Jatin Gahlot | [Read More](https://medium.com/p/49b61ca4ef79) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 14:34:06 GMT | I Got ChatGPT to Leak Gmail Data with Just 1 Lines of Code: The MCP Tool Poisoning & How to Defend… | Hiworld | [Read More](https://medium.com/p/2192a2c19404) |
 | Thu, 26 Jun 2025 14:31:49 GMT | The Night I Stayed Awake to Catch a Hacker | Azmat Ali | [Read More](https://medium.com/p/9e7b865c4538) |
 | Thu, 26 Jun 2025 14:22:16 GMT | The Day Demands Me, but the Night Heals Me | Meli | [Read More](https://medium.com/p/369f393858d5) |
-| Thu, 26 Jun 2025 14:15:00 GMT | How I Would Pivot within Cybersecurity If I Got Laid Off Today (AI Edition) | Taimur Ijlal | [Read More](https://medium.com/p/5aced9e3c14d) |
-| Thu, 26 Jun 2025 14:13:25 GMT | Why Rust Feels Like Home | Subh | [Read More](https://medium.com/p/1306665f2b0a) |
-| Thu, 26 Jun 2025 14:11:27 GMT | Prevent Repeated Cybersecurity Incidents with Root Cause Analysis | Raman Chopra | [Read More](https://medium.com/p/11ec4d454ed1) |
-| Thu, 26 Jun 2025 14:03:06 GMT | Cyber Impersonation Hits Close to Home: Chandigarh DSP Duped | Hacker news 07 | [Read More](https://medium.com/p/6cafbaef7680) |
-| Thu, 26 Jun 2025 13:59:44 GMT | Cyber Briefing: 2025.06.26 | CyberMaterial | [Read More](https://medium.com/p/d6dc6f0ebac9) |
-| Thu, 26 Jun 2025 13:52:16 GMT | How to Prevent Criminals from Using Your National ID | Beatrix Felix | [Read More](https://medium.com/p/475d39ab74ec) |
-| Thu, 26 Jun 2025 13:49:56 GMT | The Human Factor in Cybersecurity: Why People Are the Weakest Link | Tarush Sharma | [Read More](https://medium.com/p/3e5415732b65) |
