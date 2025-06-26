@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 22:41:45 GMT | Creating and Configuring a Self-Hosted VPN with OpenVPN (Quick Setup) | Marcus Paulo | [Read More](https://medium.com/p/b49915a3756c) |
+| Thu, 26 Jun 2025 22:31:53 GMT | ALFRED WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/57bea61e950c) |
+| Thu, 26 Jun 2025 22:27:33 GMT | Attacks on Automotive Cybersecurity: Threats to Connected Vehicles | Akshay Chauhan | [Read More](https://medium.com/p/7ac652f2c8ce) |
+| Thu, 26 Jun 2025 22:21:54 GMT | How I Took a Website Completely Offline with a Funky Cache Poisoning Vulnerability (CPDOS) | Erfan Tavakoli | [Read More](https://medium.com/p/220ac75d1cf3) |
+| Thu, 26 Jun 2025 22:16:41 GMT | Why Every Organization Needs Network Visibility and Traffic Analysis Tools | Karthikeyan Nagaraj | [Read More](https://medium.com/p/cf947b3e3205) |
 | Thu, 26 Jun 2025 22:06:26 GMT | TryHackMe Industrial Intrusion CTF | Root-Kitty | [Read More](https://medium.com/p/f98ea88e0f2c) |
 | Thu, 26 Jun 2025 21:51:56 GMT | I Got Fired from a Job in Less Than 48 Hours — For Hacking the Office | Ryan Merket | [Read More](https://medium.com/p/665819b94967) |
 | Thu, 26 Jun 2025 21:51:47 GMT | ⚖️ Dividing the Crown’s Duties: The Principle of Separation of Duties | Emma Lateyron | [Read More](https://medium.com/p/ab7a046cc526) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 16:11:36 GMT | wazuh | Tugba Hatice | [Read More](https://medium.com/p/77b1f39a8732) |
 | Thu, 26 Jun 2025 16:06:39 GMT | MTA-STS Explained: Email Security Simplified | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/6fe1047db0f2) |
 | Thu, 26 Jun 2025 16:04:25 GMT | Scams & Artificial Intelligence: Tips to Protect Yourself | @NSConsumers | [Read More](https://medium.com/p/856cadc66b9a) |
-| Thu, 26 Jun 2025 16:04:24 GMT | Membangun Tools Brute Force Kredensial Sederhana | Muhammad Rangga Pratama | [Read More](https://medium.com/p/185f25b04998) |
-| Thu, 26 Jun 2025 16:04:15 GMT | Earth5R’s CSR and ESG Initiatives in the Information Technology Sector | Dayita Kundu | [Read More](https://medium.com/p/8fe1b0ede445) |
-| Thu, 26 Jun 2025 15:59:53 GMT | “Scaling to 10 Million Users on AWS — What Every Smart Engineer Needs to Know” | Kanav Sharma | [Read More](https://medium.com/p/612907c8e6a5) |
-| Thu, 26 Jun 2025 15:59:53 GMT | MANHATTAN PARKING GROUP DATA BREACH: 222,000 CUSTOMER RECORDS LEAKED | Shalomo Agarwarkar | [Read More](https://medium.com/p/37e437e56bc1) |
-| Thu, 26 Jun 2025 15:55:46 GMT | FatPipe’s Total Security 360 Earns 2025 MSP Today Product of the Year | FatPipe INC | [Read More](https://medium.com/p/60e120a084c9) |
