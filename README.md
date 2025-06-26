@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 19:01:54 GMT | How I Found a Web App’s Full Source Code in Less Than 5 Minutes | m0rd3caii | [Read More](https://medium.com/p/337d52421c2a) |
+| Thu, 26 Jun 2025 18:56:32 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/1b272f736443) |
+| Thu, 26 Jun 2025 18:56:07 GMT | TryHackMe: Industrial Intrusion — Warmup Room - Write-Up | Jatin Gahlot | [Read More](https://medium.com/p/49b61ca4ef79) |
+| Thu, 26 Jun 2025 18:55:36 GMT | No One Knows Where the PII Is — Until It’s Too Late | The Data Engineer Guy | [Read More](https://medium.com/p/13cedb308d1b) |
+| Thu, 26 Jun 2025 18:52:52 GMT | Geth 源码系列：交易设计及实现 | LXDAO | [Read More](https://medium.com/p/2859e75149b4) |
+| Thu, 26 Jun 2025 18:44:31 GMT | The Digital Keys to Your Kingdom: Why IAM is the Unsung Hero of Cybersecurity | Siri S Nadig | [Read More](https://medium.com/p/20894ea71270) |
+| Thu, 26 Jun 2025 18:41:04 GMT | Been independent for too long. | kn.gnth | [Read More](https://medium.com/p/219012be081b) |
+| Thu, 26 Jun 2025 18:35:02 GMT | How Seniors Can Spot Scams — Part 2: Practical Steps to Stay Safe | SilverTech Support | [Read More](https://medium.com/p/2c8a42cedbc9) |
+| Thu, 26 Jun 2025 18:32:42 GMT | Automate Recon. Find Bugs. Get Paid. (Start Here) | m0rd3caii | [Read More](https://medium.com/p/eecddcc0a82c) |
+| Thu, 26 Jun 2025 18:31:20 GMT | How WhatsApp Has Killed My Recovery After Work | Dr. Patricia Schmidt - Psychology Ghostwriter | [Read More](https://medium.com/p/1ba25581b2e0) |
+| Thu, 26 Jun 2025 18:28:41 GMT | Have You Enabled Your Drive’s Encryption? | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/1cac53e9967c) |
+| Thu, 26 Jun 2025 18:27:00 GMT | Racing the Quantum Threat: 5 Nations Compress Post-Quantum Cryptography Timelines | QuantumGenie | [Read More](https://medium.com/p/2b646b7b02c1) |
+| Thu, 26 Jun 2025 18:22:40 GMT | Can Caching Reduce the Attack Surface? | David | [Read More](https://medium.com/p/cc71b7df9980) |
 | Thu, 26 Jun 2025 18:20:29 GMT | Your SMS Inbox Has a Built-In Security Feature — Here’s How It Works | Vishnu prasad | [Read More](https://medium.com/p/605c27c87c0a) |
 | Thu, 26 Jun 2025 18:20:23 GMT | Everything You Need to Know About SOAP & How Pentesters Exploit Them? | Root-X-Admin | [Read More](https://medium.com/p/71f863dd228f) |
 | Thu, 26 Jun 2025 18:19:59 GMT | GetSimple - HTB Walkthrough | Yagan120gb | [Read More](https://medium.com/p/639bce352f2a) |
@@ -28,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 17:36:32 GMT | Securing IoT Devices: Why Your Fridge is a Liability | Aj | [Read More](https://medium.com/p/eff61463325a) |
 | Thu, 26 Jun 2025 17:28:45 GMT | Beyond the Laptop: Why OT Cybersecurity is Non-Negotiable for SMBs | IT_Engineer | [Read More](https://medium.com/p/4a47ef4932b4) |
 | Thu, 26 Jun 2025 17:28:21 GMT | When You Find the Right One | Kaleigh Dugan | [Read More](https://medium.com/p/01e223544e3b) |
+| Thu, 26 Jun 2025 17:22:34 GMT | Nato mot Ryssland: den nya avskräckningsarkitekturen | Doldinblick | [Read More](https://medium.com/p/d287726c2e46) |
 | Thu, 26 Jun 2025 17:21:55 GMT | Breaking into “Down” on Hack The Box with SSRF and Command Injection ⬇️ | WireHawk Security | [Read More](https://medium.com/p/3d31f033a115) |
 | Thu, 26 Jun 2025 17:19:52 GMT | How AI Is Learning to Read Your Personality | Hafizbilaltariq | [Read More](https://medium.com/p/9a11bf08f1a7) |
 | Thu, 26 Jun 2025 17:18:09 GMT | Hidden Language Model | Tomer Wetzler | [Read More](https://medium.com/p/692620309d60) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 13:59:44 GMT | Cyber Briefing: 2025.06.26 | CyberMaterial | [Read More](https://medium.com/p/d6dc6f0ebac9) |
 | Thu, 26 Jun 2025 13:52:16 GMT | How to Prevent Criminals from Using Your National ID | Beatrix Felix | [Read More](https://medium.com/p/475d39ab74ec) |
 | Thu, 26 Jun 2025 13:49:56 GMT | The Human Factor in Cybersecurity: Why People Are the Weakest Link | Tarush Sharma | [Read More](https://medium.com/p/3e5415732b65) |
-| Thu, 26 Jun 2025 13:49:12 GMT | Signs Your Partner Might Be Cheating | Professional Ethical Hacker | [Read More](https://medium.com/p/621e349e1359) |
-| Thu, 26 Jun 2025 13:37:15 GMT | People Investigation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/89076e2a9501) |
-| Thu, 26 Jun 2025 13:35:57 GMT | Blockchain Security : The New-Generation Trojan SparkKitty | Qitmeer Network | [Read More](https://medium.com/p/8a3b6ab815d7) |
-| Thu, 26 Jun 2025 13:34:45 GMT | Should You Hire a Hacker to Catch Your Cheating Spouse? | Professional Ethical Hacker | [Read More](https://medium.com/p/0bc066719b9c) |
-| Thu, 26 Jun 2025 13:33:24 GMT | New - Hire Professional Hackers Online — CyberH4cks | Lionello bellucci | [Read More](https://medium.com/p/e46fc6ff5cd9) |
-| Thu, 26 Jun 2025 13:33:11 GMT | How AI is Changing the Landscape of Cybersecurity? | Ascend InfoTech | [Read More](https://medium.com/p/e9cd9a645e03) |
-| Thu, 26 Jun 2025 13:32:41 GMT | Stop Asking If You’re Vulnerable. Start Asking If You’re Exploitable | Simardeep Singh | [Read More](https://medium.com/p/a56189c2b04b) |
-| Thu, 26 Jun 2025 13:29:52 GMT | We are not that different than animals.. | Iva Martino | [Read More](https://medium.com/p/dc6519c7660a) |
-| Thu, 26 Jun 2025 13:28:08 GMT | Demystifying NERC CIP Compliance Software: A Practical Guide for Critical Infrastructure Operators | Harmol Kaur | [Read More](https://medium.com/p/b02f803d54b0) |
-| Thu, 26 Jun 2025 13:23:37 GMT | The Bug Bounty Mindset That 10x’s Your Game | Đeepanshu | [Read More](https://medium.com/p/f56a24891d85) |
-| Thu, 26 Jun 2025 13:21:55 GMT | Tips to Protect Yourself From Phishing Attacks | Ed-it Editions | [Read More](https://medium.com/p/d6e120c4bda3) |
-| Thu, 26 Jun 2025 13:04:29 GMT | From “alert(1)” to Victory: How I Bypassed My First XSS Filter (Even if It Was Out of Scope ) | ValidByAccident | [Read More](https://medium.com/p/3e1ec93469b1) |
-| Thu, 26 Jun 2025 12:59:32 GMT | “Static Code Analysis with a Local LLM: Building a Lightweight Agentic SAST System” | Shashank N | [Read More](https://medium.com/p/bf0ab1e36daa) |
-| Thu, 26 Jun 2025 12:49:39 GMT | All I’ve Ever Done Is Live for Myself | Charleston Li | [Read More](https://medium.com/p/8b74c64f9ca2) |
