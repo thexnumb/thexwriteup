@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 05:17:06 GMT | One Night, One Goal: How I Passed the PSAA Certification by TCM Security | Athiwat Tiprasaharn | [Read More](https://medium.com/p/e723cf7f086c) |
 | Thu, 26 Jun 2025 05:13:25 GMT | The 5 Whys Method: Why Your Cybersecurity Incident Response Plan Keeps Failing | crązŷrąiɲ | [Read More](https://medium.com/p/3780af08053c) |
 | Thu, 26 Jun 2025 05:02:05 GMT | Can AI Replace Cybersecurity Professionals? A Reality Check | Angeljoseph | [Read More](https://medium.com/p/4ffaeda849de) |
 | Thu, 26 Jun 2025 04:59:37 GMT | AI in Third-Party Risk Management: Hype, Limitations, and a Trust-Centric Framework | Chandan Sharma | [Read More](https://medium.com/p/397e64878acd) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 18:56:20 GMT | Bankers Association’s Attack on Cybersecurity Transparency | Matthew.Rosenquist | [Read More](https://medium.com/p/33c96d9e9847) |
 | Wed, 25 Jun 2025 18:53:38 GMT | Runescapers Beware Phishing Campaigns that yield no EXP! | Shady | [Read More](https://medium.com/p/9b520eb2c96d) |
 | Wed, 25 Jun 2025 18:51:12 GMT | How Seniors Can Spot Scams — Part 1: Understanding Common Scams | SilverTech Support | [Read More](https://medium.com/p/6cc85de42401) |
-| Wed, 25 Jun 2025 18:42:06 GMT | The Future Is Encrypted: Why Dmail Network Is Redefining Digital Communication | Web3Sunshine | [Read More](https://medium.com/p/09d615235c72) |
