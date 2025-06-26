@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 09:36:48 GMT | Cybercriminals Exploit Open-Source Tools to Deploy Cryptojackers and Steal Cloud Credentials | CyBlog | [Read More](https://medium.com/p/7f5a7db5baf4) |
+| Thu, 26 Jun 2025 09:26:34 GMT | Hire a Hacker: What You Need to Know Before You Do It | Hubert Rally | [Read More](https://medium.com/p/1df3f5068e07) |
+| Thu, 26 Jun 2025 09:23:33 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/f1965ea998b1) |
 | Thu, 26 Jun 2025 09:15:53 GMT | Markets Under Pressure: Cybersecurity and Geopolitical Disruption | Tamara C Makarem | [Read More](https://medium.com/p/88f552b572a8) |
 | Thu, 26 Jun 2025 09:14:06 GMT | Why Cyber Security Services Are Essential for Startups in the Digital Age | flyonit au | [Read More](https://medium.com/p/76854a0e0396) |
+| Thu, 26 Jun 2025 09:11:59 GMT | How can one dream of holding empathy and compassion ? | Storiews | [Read More](https://medium.com/p/d73c4c12d897) |
 | Thu, 26 Jun 2025 09:11:51 GMT | A Bookmarklet That Instantly Generates Strong Passwords (Because Who Has Time for 1Password to… | Batuhan ŞASI | [Read More](https://medium.com/p/4756f6825d03) |
 | Thu, 26 Jun 2025 09:07:03 GMT | How Our Solutions Simplify Your Aramco CCC/CCC+ Application Process | Anna | [Read More](https://medium.com/p/121822105b4b) |
 | Thu, 26 Jun 2025 09:04:02 GMT | Host Your Own Web Firewall with SafeLine — No Cloud Needed | Quella | [Read More](https://medium.com/p/e83fa7b0433d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 00:21:28 GMT | Are You Providing Emotional Safety in Your Relationship? | Yasmin Del Rosario | [Read More](https://medium.com/p/085acf29e2f6) |
 | Thu, 26 Jun 2025 00:09:25 GMT | زن صیغه‌ای در مشهد زن صیغه‌ای در لنگرود زن صیغه‌ای در بروجرد زن صیغه‌ای در دورود زن صیغه‌ای در… | صیغه حلال و شرعی قانونی صیغه موقت صیغه ساعتی | [Read More](https://medium.com/p/1c14eef6bb35) |
 | Thu, 26 Jun 2025 00:06:25 GMT | Web Cache Deception: When a 404 Still Leaks Sensitive Data ️️‍♂️ | ValidByAccident | [Read More](https://medium.com/p/61338e04b10f) |
-| Wed, 25 Jun 2025 23:46:44 GMT | LLM vs. SAST: A Technical Analysis on Detecting Coding Bugs of GPT4-Advanced Data Analysis (LLM 대… | YouShin kim | [Read More](https://medium.com/p/d302825cf190) |
-| Wed, 25 Jun 2025 23:45:45 GMT | Academy WriteUP | masiva | [Read More](https://medium.com/p/f84a14156f72) |
-| Wed, 25 Jun 2025 23:38:29 GMT | HackTheBox: Chemistry Write-Up | M4sterCub3 | [Read More](https://medium.com/p/b8985f6eb536) |
-| Wed, 25 Jun 2025 23:36:07 GMT | Why Python Remains the Best Choice for Desktop App Development and Cybersecurity Enthusiasts | Muhammad Ali | [Read More](https://medium.com/p/09912fd3d4dd) |
