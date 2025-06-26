@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 17:39:46 GMT | Can Memes hack you? | Javier Calderon Jr | [Read More](https://medium.com/p/f4a91a1542dc) |
+| Thu, 26 Jun 2025 17:38:37 GMT | SQL Injection (SQLi): A Comprehensive Guide | Meravytes | [Read More](https://medium.com/p/dfca9a7426dc) |
+| Thu, 26 Jun 2025 17:36:32 GMT | Securing IoT Devices: Why Your Fridge is a Liability | Aj | [Read More](https://medium.com/p/eff61463325a) |
+| Thu, 26 Jun 2025 17:28:45 GMT | Beyond the Laptop: Why OT Cybersecurity is Non-Negotiable for SMBs | IT_Engineer | [Read More](https://medium.com/p/4a47ef4932b4) |
+| Thu, 26 Jun 2025 17:28:21 GMT | When You Find the Right One | Kaleigh Dugan | [Read More](https://medium.com/p/01e223544e3b) |
+| Thu, 26 Jun 2025 17:21:55 GMT | Breaking into “Down” on Hack The Box with SSRF and Command Injection ⬇️ | WireHawk Security | [Read More](https://medium.com/p/3d31f033a115) |
+| Thu, 26 Jun 2025 17:19:52 GMT | How AI Is Learning to Read Your Personality | Hafizbilaltariq | [Read More](https://medium.com/p/9a11bf08f1a7) |
 | Thu, 26 Jun 2025 17:18:09 GMT | Hidden Language Model | Tomer Wetzler | [Read More](https://medium.com/p/692620309d60) |
 | Thu, 26 Jun 2025 17:10:43 GMT | Write-up CTF: Membongkar Steganografi dari Barcode, Suara, hingga Invinsible Text | Ariq | [Read More](https://medium.com/p/d2daafedd438) |
 | Thu, 26 Jun 2025 17:09:57 GMT | CTF Write-up: Analisis Keamanan & Privilege Escalation | Ariq | [Read More](https://medium.com/p/400bc7e67538) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 12:23:57 GMT | How I got Appreciation Letter from NASA | Sibi Krish | [Read More](https://medium.com/p/f6af69f48eee) |
 | Thu, 26 Jun 2025 12:21:25 GMT | The Evolution of Cyber Risk Assessment & Planning in the Age of AI and Cloud | Sophia | [Read More](https://medium.com/p/4e194345b243) |
 | Thu, 26 Jun 2025 12:05:02 GMT | Why Your Favorite Apps Keep Making You Jump Through Security Hoops (And Why That’s Good) | Dandre Clarke | [Read More](https://medium.com/p/7e552590e6ca) |
-| Thu, 26 Jun 2025 12:03:27 GMT | TryHackMe Boiler CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/844f4c74c772) |
-| Thu, 26 Jun 2025 12:03:12 GMT | The cost of paying the ransom vs investing in cyber resilience | Paliwalnishtha | [Read More](https://medium.com/p/d402499980b2) |
-| Thu, 26 Jun 2025 11:45:13 GMT | Incident Report: Lumma Stealer Deployment via Click Fix Phishing (DLL Side-Loading) | Melusi shoko | [Read More](https://medium.com/p/9b9eaeec05b2) |
-| Thu, 26 Jun 2025 11:37:09 GMT | The Secret Life of Logs: How Our Debugging Session Uncovered a Corporate Espionage Plot | Sneha Rani | [Read More](https://medium.com/p/f050f9594e12) |
-| Thu, 26 Jun 2025 11:34:34 GMT | CORS ( Cross Origin Resource Sharing ) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/89377e54127e) |
-| Thu, 26 Jun 2025 11:31:52 GMT | HackTheBox Writeup — Forest | Simardeep Singh | [Read More](https://medium.com/p/eb8b3253faae) |
-| Thu, 26 Jun 2025 11:31:40 GMT | Cybersecurity and Information Security | Rasagnaqt33 | [Read More](https://medium.com/p/97be0cfc08a9) |
