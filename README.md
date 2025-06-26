@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 08:41:23 GMT | Understanding Aramco’s CCC/CCC+ Certification Process | Anna | [Read More](https://medium.com/p/c43af78f5b88) |
+| Thu, 26 Jun 2025 08:40:14 GMT | From 1 Wei to 10M reUSD: Anatomy of a ResupplyPair Exploit | Evgenii | [Read More](https://medium.com/p/9e97748fdce1) |
+| Thu, 26 Jun 2025 08:39:18 GMT | Information Disclosure part-2 : debug page | Ahmad Sopyan | [Read More](https://medium.com/p/8c40e16a9070) |
+| Thu, 26 Jun 2025 08:36:24 GMT | Mitigating AI Security Risks | Vlad Koval | [Read More](https://medium.com/p/e1eb684354f8) |
+| Thu, 26 Jun 2025 08:30:02 GMT | Critical Gogs RCE Vulnerability Resurfaces — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/1251bc281d44) |
+| Thu, 26 Jun 2025 08:25:41 GMT | ประจำวันพฤหัสบดีที่ 26 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d61b113dda04) |
 | Thu, 26 Jun 2025 08:17:11 GMT | GhostChain Sentinel: A New Blueprint for Tamper-Proof RegTech Evidence | Metehan INANC | [Read More](https://medium.com/p/88166b984674) |
+| Thu, 26 Jun 2025 08:15:50 GMT | Instalasi Ubuntu 24.04.2 LTS pada VirtualBox | Seftidinata | [Read More](https://medium.com/p/afb777e04671) |
 | Thu, 26 Jun 2025 08:15:37 GMT | Prevent Race Condition in Symfony: Secure Your Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/a4df76b55a02) |
 | Thu, 26 Jun 2025 08:09:41 GMT | NIS2 Direktifi ve Uyumluluk Süreci: Junior Siber Güvenlik Analisti Gözüyle İlk Deneyimim | Çağlar Keskin | [Read More](https://medium.com/p/08ae2a79192e) |
 | Thu, 26 Jun 2025 08:02:42 GMT | The Great NATO Defence Spending Illusion (Part 2/2) | Brian Iselin | [Read More](https://medium.com/p/e85921adb100) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 22:55:27 GMT | What They Wrote Before They Killed: An AI based Linguistic Study of Violent Offenders | Shirish Pandita | [Read More](https://medium.com/p/388bf2f3c674) |
 | Wed, 25 Jun 2025 22:44:55 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/7098661327a7) |
 | Wed, 25 Jun 2025 22:39:02 GMT | Elasticsearch(57) — 解決弱掃問題 SSL Medium Strength Cipher Suites Supported (SWEET32) | Tako | [Read More](https://medium.com/p/88c32cff7cae) |
-| Wed, 25 Jun 2025 22:35:39 GMT | SQL Injection: A Hacker’s Gateway to Data Chaos | Amanuel | [Read More](https://medium.com/p/fa0a39fe954f) |
-| Wed, 25 Jun 2025 22:34:08 GMT | TryHackMe Develpy CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/440c170ecf56) |
-| Wed, 25 Jun 2025 22:27:32 GMT | Joining the Same Organization Multiple Times Using a Race Condition | Khaledelnabet | [Read More](https://medium.com/p/8844d219b769) |
-| Wed, 25 Jun 2025 22:24:49 GMT | Visualizing Cyber Threats: A Power BI Dashboard for Cybersecurity Analysis (2015–2024) | KEDATALAB | [Read More](https://medium.com/p/5b38d3ac8d8e) |
-| Wed, 25 Jun 2025 22:18:50 GMT | I Tried Hacking My Own Wi-Fi — Here’s What I Learned | Azmat Ali | [Read More](https://medium.com/p/a803b40487ca) |
-| Wed, 25 Jun 2025 22:17:05 GMT | The OSI Model for Ethical Hackers: Practical Applications, Not Just Theory | Karthikeyan Nagaraj | [Read More](https://medium.com/p/910aaf4fa850) |
-| Wed, 25 Jun 2025 22:16:36 GMT | Bug Bounty Journey — Valid Report Part 7 | 0xF3r4t | [Read More](https://medium.com/p/02f45eefea7e) |
