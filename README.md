@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 06:09:50 GMT | Surgery in the Dark: What Happens When Cyber-attacks Kill the Lights | Travis Ray Caverhill | [Read More](https://medium.com/p/88ea5d42184b) |
+| Thu, 26 Jun 2025 06:04:42 GMT | I found Subdomain Take, but I am sad To Not control it | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/53ed3642179f) |
+| Thu, 26 Jun 2025 06:04:02 GMT | How to Succeed in Cybersecurity Over the Next 10 Years: Skills, Tools & Strategies for 2025–2035 | Ekene Joseph | [Read More](https://medium.com/p/d57adf49b6e6) |
+| Thu, 26 Jun 2025 06:01:23 GMT | Why Healthcare Needs Specialized IT Support for Better Compliance, Security, and Efficiency | Diga core | [Read More](https://medium.com/p/77c38e7c7725) |
+| Thu, 26 Jun 2025 05:59:34 GMT | The Importance of a Reliable Security Agency in Mumbai | Ciss India | [Read More](https://medium.com/p/ce9217e6e929) |
+| Thu, 26 Jun 2025 05:53:09 GMT | ️ When the Red Lights Blink: Inside a Real Threat Intelligence Alert | vyshnaviallam | [Read More](https://medium.com/p/d7c04b5cb131) |
+| Thu, 26 Jun 2025 05:39:33 GMT | best hacking course in Noida ducat | Shiveshranjan | [Read More](https://medium.com/p/85d8700db27c) |
+| Thu, 26 Jun 2025 05:39:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Neelam verma | [Read More](https://medium.com/p/bc118814e2ea) |
+| Thu, 26 Jun 2025 05:39:15 GMT | Best Ethical Hacking Training in Noida - Ducat India | Snehasingh | [Read More](https://medium.com/p/42201e747116) |
+| Thu, 26 Jun 2025 05:38:58 GMT | Best Ethical Hacking Training in Noida - Ducat India | Rashmyy | [Read More](https://medium.com/p/9d10a86b7769) |
+| Thu, 26 Jun 2025 05:38:56 GMT | Best Ethical Hacking Training in Noida - Ducat India | Sunny Ranjan | [Read More](https://medium.com/p/40b4c1ae6f9f) |
 | Thu, 26 Jun 2025 05:17:06 GMT | One Night, One Goal: How I Passed the PSAA Certification by TCM Security | Athiwat Tiprasaharn | [Read More](https://medium.com/p/e723cf7f086c) |
 | Thu, 26 Jun 2025 05:13:25 GMT | The 5 Whys Method: Why Your Cybersecurity Incident Response Plan Keeps Failing | crązŷrąiɲ | [Read More](https://medium.com/p/3780af08053c) |
 | Thu, 26 Jun 2025 05:02:05 GMT | Can AI Replace Cybersecurity Professionals? A Reality Check | Angeljoseph | [Read More](https://medium.com/p/4ffaeda849de) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 19:31:53 GMT | This One Mistake With Password Vaults Could Expose All Your Accounts | Austin Gomez | [Read More](https://medium.com/p/96fdf9e7850d) |
 | Wed, 25 Jun 2025 19:27:28 GMT | Modern Love or Modern Exhaustion? | Echoes Of Her Stories | [Read More](https://medium.com/p/c9efbfdd5bb1) |
 | Wed, 25 Jun 2025 19:19:21 GMT | Keeping Your Linux Clean: Malware Scanning with ClamAV | Lince Mathew | [Read More](https://medium.com/p/8c95fde50187) |
-| Wed, 25 Jun 2025 19:18:28 GMT | Windows 10 ESU Free? Unpacking Microsoft’s Hidden Catch for Extended Security Updates | TechBird | [Read More](https://medium.com/p/5f49640d3f63) |
-| Wed, 25 Jun 2025 19:17:32 GMT | Expanding Your SIEM Stack: How to Ingest Webhook-Only Logs with Shuffle and CoPilot | SOCFortress | [Read More](https://medium.com/p/eeb205fa38dc) |
-| Wed, 25 Jun 2025 19:15:03 GMT | ERP implementation: IT’s role has changed | Debbie Gallagher | [Read More](https://medium.com/p/f5c127e74f18) |
-| Wed, 25 Jun 2025 19:10:43 GMT | OWASP Pentest Series (9/12) | TheZeeshanKhan | [Read More](https://medium.com/p/6b7dae1008af) |
-| Wed, 25 Jun 2025 19:08:01 GMT | I Observed a Hospital’s Digital Footprint Using Only My Phone | Sam Galope | [Read More](https://medium.com/p/dbf4da60cd9b) |
-| Wed, 25 Jun 2025 19:07:15 GMT | B u y Veri fied Cash App Accounts Safe, Trusted & Fully Functional Accounts at EGSMMIT | Megan moss | [Read More](https://medium.com/p/bcb9da074a3d) |
-| Wed, 25 Jun 2025 19:05:31 GMT | A Poem to A True Love That I Did Send | Kayla | [Read More](https://medium.com/p/6141b8d84b02) |
-| Wed, 25 Jun 2025 19:04:35 GMT | Mapping the Dark Web for Recon: Ethical OSINT Techniques | Monika sharma | [Read More](https://medium.com/p/765b6eb851d7) |
-| Wed, 25 Jun 2025 18:56:20 GMT | Bankers Association’s Attack on Cybersecurity Transparency | Matthew.Rosenquist | [Read More](https://medium.com/p/33c96d9e9847) |
-| Wed, 25 Jun 2025 18:53:38 GMT | Runescapers Beware Phishing Campaigns that yield no EXP! | Shady | [Read More](https://medium.com/p/9b520eb2c96d) |
-| Wed, 25 Jun 2025 18:51:12 GMT | How Seniors Can Spot Scams — Part 1: Understanding Common Scams | SilverTech Support | [Read More](https://medium.com/p/6cc85de42401) |
