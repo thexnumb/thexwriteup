@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 10:42:13 GMT | Is Ethical Hacking a Good Career for Students? | Crawsec | [Read More](https://medium.com/p/d66850061ded) |
+| Thu, 26 Jun 2025 10:37:37 GMT | Top 1 Cybersecurity Solutions in Dubai | Oadtechdubai | [Read More](https://medium.com/p/709097634e51) |
+| Thu, 26 Jun 2025 10:37:05 GMT | How to Exploit Account Takeover via Password Reset Flaw | Monika sharma | [Read More](https://medium.com/p/274c7d82d096) |
+| Thu, 26 Jun 2025 10:35:59 GMT | Part 5: How to Become a Pentester in 2025: Certifications, Career Roadmap & Growth | Anezaneo | [Read More](https://medium.com/p/d928cf3dbb96) |
+| Thu, 26 Jun 2025 10:35:13 GMT | The Art of Discovery: A Comprehensive Guide to Windows Enumeration | Yamini Yadav | [Read More](https://medium.com/p/5076895afdeb) |
+| Thu, 26 Jun 2025 10:35:06 GMT | The Importance of your 12-word Seed Phrase | Genomes.io | [Read More](https://medium.com/p/7984ea75204e) |
+| Thu, 26 Jun 2025 10:35:02 GMT | How Hackers Try to Bypass 403 Forbidden Pages (And Guarantee They Find Bugs ) | Vipul Sonule | [Read More](https://medium.com/p/1119828a8c29) |
+| Thu, 26 Jun 2025 10:34:49 GMT | Exposing Brave Browser’s IPC Vulnerability: A $300 Bounty Revelation | Monika sharma | [Read More](https://medium.com/p/55e07ab6b8da) |
+| Thu, 26 Jun 2025 10:31:13 GMT | What can I do to recover my money from Alfacoin? | Bigodon | [Read More](https://medium.com/p/ca11ca3f9335) |
+| Thu, 26 Jun 2025 10:30:31 GMT | Summer Bugs Are Back. Here’s How to Stay Ahead of the Swarm: | Under the Sun | [Read More](https://medium.com/p/9d4cbff29a46) |
+| Thu, 26 Jun 2025 10:27:10 GMT | Alfacoin Review: Mark Gregory Helped Me Recover My Funds from Alfacoin Scam | Bigodon | [Read More](https://medium.com/p/34b91bb2407b) |
+| Thu, 26 Jun 2025 10:13:52 GMT | SOC 2 Type 1 Certification: A Step-by-Step Compliance Playbook | SecureSlate | [Read More](https://medium.com/p/3e664d3b3f3d) |
 | Thu, 26 Jun 2025 10:07:11 GMT | The Shadow Handshake: Correlating Dark Web Personas with Public/Clearnet Identities | Sreya shyjash | [Read More](https://medium.com/p/08bb50c7c930) |
 | Thu, 26 Jun 2025 10:06:10 GMT | OneClik APT Malware Campaign: Microsoft Click Once Exploited in Attacks on Energy &… | Infoziant | [Read More](https://medium.com/p/3f7624769967) |
 | Thu, 26 Jun 2025 10:06:03 GMT | 1 / 2
@@ -101,15 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 04:06:28 GMT | Quantum Breakthroughs: Kaise Cybersecurity Ka Future Redefined Ho Raha Hai | Jai | [Read More](https://medium.com/p/7178e499170b) |
 | Thu, 26 Jun 2025 04:04:35 GMT | Securing LangChain’s MCP Integration: Agent-Based Security for Enterprise AI | Rick Hightower | [Read More](https://medium.com/p/070ab920370b) |
 | Thu, 26 Jun 2025 03:41:21 GMT | OVER THE WIRE — LEVIATHAN | 5kullk3r | [Read More](https://medium.com/p/8142bb8217d7) |
-| Thu, 26 Jun 2025 03:40:02 GMT | The Used Phone That Taught Me About Digital Ghosts | Gabriele Geza Gobbo | [Read More](https://medium.com/p/eeb5238ce318) |
-| Thu, 26 Jun 2025 03:35:05 GMT | DNS — The Internet’s Phonebook Directory | err0rgod | [Read More](https://medium.com/p/2047fcc5025e) |
-| Thu, 26 Jun 2025 03:19:43 GMT | The world of hardware crypto platforms | Progsky | [Read More](https://medium.com/p/5849a603f07a) |
-| Thu, 26 Jun 2025 03:13:28 GMT | Web Security: Blocking Bots from the Edge with Fail2Ban + Cloudflare | Greg Heffner | [Read More](https://medium.com/p/655f78d704e0) |
-| Thu, 26 Jun 2025 03:10:52 GMT | How I Found XSS — CVE-2025–0133 Using Shodan | Ch4ndan das | [Read More](https://medium.com/p/39a37eae7807) |
-| Thu, 26 Jun 2025 03:01:47 GMT | Machine Learning in Threat Detection: Smarter, Faster, and Less Noisy | Paritosh | [Read More](https://medium.com/p/3fdd39c54fd7) |
-| Thu, 26 Jun 2025 03:01:26 GMT | Cracking Fordo — The 14Ton Bomb, the Stealth B-2, and the Race to Breach Iran’s 300-Foot Nuclear… | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/e0f6984193e1) |
-| Thu, 26 Jun 2025 02:53:40 GMT | New Social Security Identity Rules: What You Need to Know | Mike McGowan | [Read More](https://medium.com/p/dd33ce1b306b) |
-| Thu, 26 Jun 2025 02:51:08 GMT | The MITRE ATT&CK Framework Explained | NK Cyber | [Read More](https://medium.com/p/163fad2c29a9) |
-| Thu, 26 Jun 2025 02:47:30 GMT | Information Disclosure part-1 : error messages | Ahmad Sopyan | [Read More](https://medium.com/p/f551c814e4da) |
-| Thu, 26 Jun 2025 02:47:06 GMT | USA Cybersecurity in 2030: A Geopolitical and Policy Analysis | CCD-IS | [Read More](https://medium.com/p/9549952b9394) |
-| Thu, 26 Jun 2025 02:40:48 GMT | Cyber Kill Chain — Tryhackme | Mukund | [Read More](https://medium.com/p/2fe6f82d20ed) |
