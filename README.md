@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 04:37:58 GMT | ttuex.com Scam: File A Complaint For The Recovery Of Your Funds | SCAM BUSTER | [Read More](https://medium.com/p/6a419cd107e3) |
+| Thu, 26 Jun 2025 04:32:05 GMT | Not Just European, But Trustworthy: What DNS4EU Reminds Us About Sovereignty, Surveillance, and… | Kim Chandler McDonald | [Read More](https://medium.com/p/2d1854c87f97) |
+| Thu, 26 Jun 2025 04:31:47 GMT | The Windows Security Journey — KDS Root Keys (Key Distribution Service Root Keys) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/a76865743b26) |
+| Thu, 26 Jun 2025 04:23:52 GMT | Exploiting a Race Condition in the Upload Feature | Problem Child | [Read More](https://medium.com/p/0b108895d3a5) |
+| Thu, 26 Jun 2025 04:22:47 GMT | Windows Registry Manipulation | ONESithuation | [Read More](https://medium.com/p/48e6b4bab676) |
+| Thu, 26 Jun 2025 04:22:10 GMT | Undust: URL Pattern Generator | AbhirupKonwar | [Read More](https://medium.com/p/a570adb14fe4) |
+| Thu, 26 Jun 2025 04:18:57 GMT | Securing Enterprise Infrastructure: Applying Security Principles with Real-Life Examples | unica 02 | [Read More](https://medium.com/p/ff21573010c9) |
+| Thu, 26 Jun 2025 04:12:28 GMT | WiFi as an Invisible Camera: How AI Turns Wireless Signals into a Surveillance System | Tanoj Langore | [Read More](https://medium.com/p/73f759a860e4) |
+| Thu, 26 Jun 2025 04:06:28 GMT | Quantum Breakthroughs: Kaise Cybersecurity Ka Future Redefined Ho Raha Hai | Jai | [Read More](https://medium.com/p/7178e499170b) |
+| Thu, 26 Jun 2025 04:04:35 GMT | Securing LangChain’s MCP Integration: Agent-Based Security for Enterprise AI | Rick Hightower | [Read More](https://medium.com/p/070ab920370b) |
 | Thu, 26 Jun 2025 03:41:21 GMT | OVER THE WIRE — LEVIATHAN | 5kullk3r | [Read More](https://medium.com/p/8142bb8217d7) |
 | Thu, 26 Jun 2025 03:40:02 GMT | The Used Phone That Taught Me About Digital Ghosts | Gabriele Geza Gobbo | [Read More](https://medium.com/p/eeb5238ce318) |
 | Thu, 26 Jun 2025 03:35:05 GMT | DNS — The Internet’s Phonebook Directory | err0rgod | [Read More](https://medium.com/p/2047fcc5025e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 18:24:17 GMT | 5 Most Important Life Hacks for a Better, Smarter Life | Mitchell "Banknote Mitch” Similton | [Read More](https://medium.com/p/3e8eaaf09d29) |
 | Wed, 25 Jun 2025 18:22:25 GMT | Kaspersky Tejas issue solved | Md. Mahim Bin Firoj | [Read More](https://medium.com/p/08d205023aee) |
 | Wed, 25 Jun 2025 18:21:35 GMT | Stored XSS in Zendesk Marketplace App: “Auto Merge Duplicate Tickets”. | Mahmoud Abd Alkarim | [Read More](https://medium.com/p/ca1b5b99e2bb) |
-| Wed, 25 Jun 2025 18:13:32 GMT | I will deliver perfect cybersecurity data science technical tech it,grc analyst resume | Tilnaa hola | [Read More](https://medium.com/p/eef1321ebe2f) |
-| Wed, 25 Jun 2025 18:10:54 GMT | Secure Vibe Coding for Developers | AbhirupKonwar | [Read More](https://medium.com/p/fa2d518922cf) |
-| Wed, 25 Jun 2025 18:02:41 GMT | Breach Remediation and System Restoration: | Malik Vero | [Read More](https://medium.com/p/308120f7b3cd) |
-| Wed, 25 Jun 2025 17:56:40 GMT | Bioinformatics, what is Data Analysis in Biology | Cherifa Bochra Soltani | [Read More](https://medium.com/p/7547fac7eea3) |
-| Wed, 25 Jun 2025 17:54:00 GMT | Thoughts on Design - DefenseArk | Kalpitha S | [Read More](https://medium.com/p/8179176d3fdb) |
-| Wed, 25 Jun 2025 17:51:47 GMT | Cookies Aren’t Just for Tracking | Derick Johnson | [Read More](https://medium.com/p/7b48c0a7fe1d) |
-| Wed, 25 Jun 2025 17:50:30 GMT | I Built a Password Manager Using Python, Streamlit, and Fernet — Here’s How ️ | Nishkarsh Pandey | [Read More](https://medium.com/p/581b0a0dd82c) |
-| Wed, 25 Jun 2025 17:43:57 GMT | Linux Kernel Güvenlik Mekanizmalarının Evrimi ve Modern Karşılaştırması | Sinem Coşkun | [Read More](https://medium.com/p/ca94c95e082e) |
-| Wed, 25 Jun 2025 17:33:26 GMT | The Exploited Recruits: How Filipino Hacker Groups Use Underage Kids as Scapegoats | Lynss | [Read More](https://medium.com/p/fa149a1f786c) |
-| Wed, 25 Jun 2025 17:29:17 GMT | Development of security robotics | Presslink Media | [Read More](https://medium.com/p/6ecd84c427cc) |
