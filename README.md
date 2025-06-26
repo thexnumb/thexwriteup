@@ -12,11 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 14:15:00 GMT | How I Would Pivot within Cybersecurity If I Got Laid Off Today (AI Edition) | Taimur Ijlal | [Read More](https://medium.com/p/5aced9e3c14d) |
+| Thu, 26 Jun 2025 14:13:25 GMT | Why Rust Feels Like Home | Subh | [Read More](https://medium.com/p/1306665f2b0a) |
+| Thu, 26 Jun 2025 14:11:27 GMT | Prevent Repeated Cybersecurity Incidents with Root Cause Analysis | Raman Chopra | [Read More](https://medium.com/p/11ec4d454ed1) |
+| Thu, 26 Jun 2025 14:03:06 GMT | Cyber Impersonation Hits Close to Home: Chandigarh DSP Duped | Hacker news 07 | [Read More](https://medium.com/p/6cafbaef7680) |
+| Thu, 26 Jun 2025 13:59:44 GMT | Cyber Briefing: 2025.06.26 | CyberMaterial | [Read More](https://medium.com/p/d6dc6f0ebac9) |
+| Thu, 26 Jun 2025 13:52:16 GMT | How to Prevent Criminals from Using Your National ID | Beatrix Felix | [Read More](https://medium.com/p/475d39ab74ec) |
+| Thu, 26 Jun 2025 13:49:56 GMT | The Human Factor in Cybersecurity: Why People Are the Weakest Link | Tarush Sharma | [Read More](https://medium.com/p/3e5415732b65) |
+| Thu, 26 Jun 2025 13:49:12 GMT | Signs Your Partner Might Be Cheating | Professional Ethical Hacker | [Read More](https://medium.com/p/621e349e1359) |
+| Thu, 26 Jun 2025 13:37:15 GMT | People Investigation Tools For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/89076e2a9501) |
+| Thu, 26 Jun 2025 13:35:57 GMT | Blockchain Security : The New-Generation Trojan SparkKitty | Qitmeer Network | [Read More](https://medium.com/p/8a3b6ab815d7) |
+| Thu, 26 Jun 2025 13:34:45 GMT | Should You Hire a Hacker to Catch Your Cheating Spouse? | Professional Ethical Hacker | [Read More](https://medium.com/p/0bc066719b9c) |
+| Thu, 26 Jun 2025 13:33:24 GMT | New - Hire Professional Hackers Online — CyberH4cks | Lionello bellucci | [Read More](https://medium.com/p/e46fc6ff5cd9) |
+| Thu, 26 Jun 2025 13:33:11 GMT | How AI is Changing the Landscape of Cybersecurity? | Ascend InfoTech | [Read More](https://medium.com/p/e9cd9a645e03) |
 | Thu, 26 Jun 2025 13:32:41 GMT | Stop Asking If You’re Vulnerable. Start Asking If You’re Exploitable | Simardeep Singh | [Read More](https://medium.com/p/a56189c2b04b) |
+| Thu, 26 Jun 2025 13:29:52 GMT | We are not that different than animals.. | Iva Martino | [Read More](https://medium.com/p/dc6519c7660a) |
+| Thu, 26 Jun 2025 13:28:08 GMT | Demystifying NERC CIP Compliance Software: A Practical Guide for Critical Infrastructure Operators | Harmol Kaur | [Read More](https://medium.com/p/b02f803d54b0) |
 | Thu, 26 Jun 2025 13:23:37 GMT | The Bug Bounty Mindset That 10x’s Your Game | Đeepanshu | [Read More](https://medium.com/p/f56a24891d85) |
+| Thu, 26 Jun 2025 13:21:55 GMT | Tips to Protect Yourself From Phishing Attacks | Ed-it Editions | [Read More](https://medium.com/p/d6e120c4bda3) |
 | Thu, 26 Jun 2025 13:04:29 GMT | From “alert(1)” to Victory: How I Bypassed My First XSS Filter (Even if It Was Out of Scope ) | ValidByAccident | [Read More](https://medium.com/p/3e1ec93469b1) |
+| Thu, 26 Jun 2025 12:59:32 GMT | “Static Code Analysis with a Local LLM: Building a Lightweight Agentic SAST System” | Shashank N | [Read More](https://medium.com/p/bf0ab1e36daa) |
 | Thu, 26 Jun 2025 12:49:39 GMT | All I’ve Ever Done Is Live for Myself | Charleston Li | [Read More](https://medium.com/p/8b74c64f9ca2) |
 | Thu, 26 Jun 2025 12:42:08 GMT | How CISM Certification Boosts Your Cybersecurity Career | Dhanashri Bhale | [Read More](https://medium.com/p/6979372b4bf6) |
+| Thu, 26 Jun 2025 12:40:13 GMT | Innovative Smart Living with SwitchBot | Thomaslopez | [Read More](https://medium.com/p/68e8b5aae08c) |
+| Thu, 26 Jun 2025 12:33:14 GMT | Compound’s $24M DAO Heist: How Governance Theater Enabled the Golden Boys to Exploit DeFi’s… | 6ixty | [Read More](https://medium.com/p/f860de7d796b) |
 | Thu, 26 Jun 2025 12:33:10 GMT | The Problem with OSINT in the UK: Legal Walls and Institutional Silence | Stealth | [Read More](https://medium.com/p/7c6624dfa634) |
 | Thu, 26 Jun 2025 12:31:51 GMT | Improving Cybersecurity Efficiency with SOC as a Service with Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5c0090abfca5) |
 | Thu, 26 Jun 2025 12:29:18 GMT | Cybersecurity 101: Underrated Tricks to Protect Data | Xaar The Educator | [Read More](https://medium.com/p/bb4b681c9bdc) |
@@ -94,22 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 07:57:20 GMT | Türkiye’de Siber Güvenlik | zehrakolsuz | [Read More](https://medium.com/p/e314c00fdec0) |
 | Thu, 26 Jun 2025 07:55:31 GMT | AI-Driven Cybersecurity Threat Landscape: AI-Driven Defense | noailabs | [Read More](https://medium.com/p/39e41865602e) |
 | Thu, 26 Jun 2025 07:55:06 GMT | ️ "We Thought It Was Secure… Until It Wasn't." | Amaka okoye | [Read More](https://medium.com/p/e3e1e1da23f5) |
-| Thu, 26 Jun 2025 07:43:40 GMT | Exploiting Expression Language Injection to CVE-2024–51466 | V7nc3nz | [Read More](https://medium.com/p/3ccd56fb3bfe) |
-| Thu, 26 Jun 2025 07:43:17 GMT | Who Needs Admin When You Have GraphQL? Abusing Queries for Fun and Data | Iski | [Read More](https://medium.com/p/03456b01da34) |
-| Thu, 26 Jun 2025 07:38:27 GMT | Holding Emotions | Amna Javaid | [Read More](https://medium.com/p/be612611386d) |
-| Thu, 26 Jun 2025 07:34:04 GMT | Cyber Armor: What Is Cyber Insurance and Why Your Digital Life Depends on It | Muhammad Ahmad | [Read More](https://medium.com/p/cfa8b212a614) |
-| Thu, 26 Jun 2025 07:32:56 GMT | HackTheBox Writeup — Script Kiddie | Simardeep Singh | [Read More](https://medium.com/p/72b4a0f102bf) |
-| Thu, 26 Jun 2025 07:31:30 GMT | Today’s Top Cyber Intelligence Highlights — Jun 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b0ae68b26cf8) |
-| Thu, 26 Jun 2025 07:27:24 GMT | How Abu Saim Wahid Went from Savar to Cybersecurity, and Now Inspires Thousands Through Travel &… | Naim | [Read More](https://medium.com/p/449a66bc72db) |
-| Thu, 26 Jun 2025 07:25:12 GMT | Strengthening Your Cyber Immune System with Expert Security Consulting | Olivia Smith | [Read More](https://medium.com/p/b40e22c6f3da) |
-| Thu, 26 Jun 2025 07:04:30 GMT | Cara Menginstall VirtualBox di Ubuntu | Seftidinata | [Read More](https://medium.com/p/f1323e682fd5) |
-| Thu, 26 Jun 2025 07:03:22 GMT | Neal Elbaum Shares 5 Ways to Secure Logistics Data | Neal Elbaum | [Read More](https://medium.com/p/06bef5720514) |
-| Thu, 26 Jun 2025 07:02:29 GMT | Best Online IOT Penetration Testing Course with Certification | cyber security Updates | [Read More](https://medium.com/p/b398ddc0d777) |
-| Thu, 26 Jun 2025 07:00:18 GMT | What are cloud transformation security services for? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/bb0fc2698948) |
-| Thu, 26 Jun 2025 06:58:36 GMT | Web3 Messaging with Dmail: A Visual Expression of Decentralized Privacy | NsongKing | [Read More](https://medium.com/p/c79868abeaaa) |
-| Thu, 26 Jun 2025 06:58:34 GMT | DFIR-Digital Forensics & Incident Response | Parvva | [Read More](https://medium.com/p/c459a9d8f5cd) |
-| Thu, 26 Jun 2025 06:56:40 GMT | Beyond the Popup: Turning Stored XSS into Remote Code Execution | Ramshath | [Read More](https://medium.com/p/483839d06f58) |
-| Thu, 26 Jun 2025 06:49:51 GMT | 9 Best Linux Distros to Use in 2025 | ServerAvatar | [Read More](https://medium.com/p/00e42252821a) |
-| Thu, 26 Jun 2025 06:46:14 GMT | How Cyberspace Became a Battlefield Between Iran and Israel | Rohan UK | [Read More](https://medium.com/p/b0bafd6e31e3) |
-| Thu, 26 Jun 2025 06:45:46 GMT | Understanding JWT: How JSON Web Tokens Work | Xinquanyip | [Read More](https://medium.com/p/e1922e345106) |
-| Thu, 26 Jun 2025 06:43:35 GMT | The 16 Billion Password Leak: What happened and What you must do now | CyberLucifer | [Read More](https://medium.com/p/c1c81fac16b4) |
