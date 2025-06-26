@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 12:42:08 GMT | How CISM Certification Boosts Your Cybersecurity Career | Dhanashri Bhale | [Read More](https://medium.com/p/6979372b4bf6) |
+| Thu, 26 Jun 2025 12:33:10 GMT | The Problem with OSINT in the UK: Legal Walls and Institutional Silence | Stealth | [Read More](https://medium.com/p/7c6624dfa634) |
+| Thu, 26 Jun 2025 12:31:51 GMT | Improving Cybersecurity Efficiency with SOC as a Service with Cyber Cops | Cyber Cops - IT Services and HIPAA Consultant | [Read More](https://medium.com/p/5c0090abfca5) |
+| Thu, 26 Jun 2025 12:29:18 GMT | Cybersecurity 101: Underrated Tricks to Protect Data | Xaar The Educator | [Read More](https://medium.com/p/bb4b681c9bdc) |
+| Thu, 26 Jun 2025 12:28:48 GMT | Cybersecurity Companies: The Strategic Shield for Modern Businesses | Arushi Srivastava | [Read More](https://medium.com/p/d9c8de3626ef) |
+| Thu, 26 Jun 2025 12:25:27 GMT | How I Prepared for and Passed the ISC2 CC Exam — As a Non-IT Professional in 1st attempt. | Tarush Sharma | [Read More](https://medium.com/p/ece728539084) |
+| Thu, 26 Jun 2025 12:23:57 GMT | How I got Appreciation Letter from NASA | Sibi Krish | [Read More](https://medium.com/p/f6af69f48eee) |
+| Thu, 26 Jun 2025 12:21:25 GMT | The Evolution of Cyber Risk Assessment & Planning in the Age of AI and Cloud | Sophia | [Read More](https://medium.com/p/4e194345b243) |
+| Thu, 26 Jun 2025 12:05:02 GMT | Why Your Favorite Apps Keep Making You Jump Through Security Hoops (And Why That’s Good) | Dandre Clarke | [Read More](https://medium.com/p/7e552590e6ca) |
+| Thu, 26 Jun 2025 12:03:27 GMT | TryHackMe Boiler CTF — Walkthrough | mauzware | [Read More](https://medium.com/p/844f4c74c772) |
+| Thu, 26 Jun 2025 12:03:12 GMT | The cost of paying the ransom vs investing in cyber resilience | Paliwalnishtha | [Read More](https://medium.com/p/d402499980b2) |
+| Thu, 26 Jun 2025 11:45:13 GMT | Incident Report: Lumma Stealer Deployment via Click Fix Phishing (DLL Side-Loading) | Melusi shoko | [Read More](https://medium.com/p/9b9eaeec05b2) |
 | Thu, 26 Jun 2025 11:37:09 GMT | The Secret Life of Logs: How Our Debugging Session Uncovered a Corporate Espionage Plot | Sneha Rani | [Read More](https://medium.com/p/f050f9594e12) |
+| Thu, 26 Jun 2025 11:34:34 GMT | CORS ( Cross Origin Resource Sharing ) | Yash Pawar @HackersParadise | [Read More](https://medium.com/p/89377e54127e) |
+| Thu, 26 Jun 2025 11:31:52 GMT | HackTheBox Writeup — Forest | Simardeep Singh | [Read More](https://medium.com/p/eb8b3253faae) |
 | Thu, 26 Jun 2025 11:31:40 GMT | Cybersecurity and Information Security | Rasagnaqt33 | [Read More](https://medium.com/p/97be0cfc08a9) |
 | Thu, 26 Jun 2025 11:31:16 GMT | Web Güvenliğinde Tehlikeli Bir Açık: Path Traversal | Mustafa Caliskan | [Read More](https://medium.com/p/65087b2947a3) |
 | Thu, 26 Jun 2025 11:25:51 GMT | Cybersecurity vs. Information Security: What’s the Difference? | Rasagnauppula | [Read More](https://medium.com/p/47ca8a8c9c71) |
@@ -99,17 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 06:42:19 GMT | Data packets | Jeslinelza | [Read More](https://medium.com/p/e323a45e8829) |
 | Thu, 26 Jun 2025 06:41:59 GMT | 2025 Bug Bounty Methodology, Toolsets and Persistent Recon | Ravi sharma | [Read More](https://medium.com/p/d991e39e52ce) |
 | Thu, 26 Jun 2025 06:40:21 GMT | 10 Tips for Choosing the Best Security Company In Singapore | Jane Tang | [Read More](https://medium.com/p/370af5b62f8c) |
-| Thu, 26 Jun 2025 06:09:50 GMT | Surgery in the Dark: What Happens When Cyber-attacks Kill the Lights | Travis Ray Caverhill | [Read More](https://medium.com/p/88ea5d42184b) |
-| Thu, 26 Jun 2025 06:04:42 GMT | I found Subdomain Take, but I am sad To Not control it | Yossef ibrahim mohamed-salah | [Read More](https://medium.com/p/53ed3642179f) |
-| Thu, 26 Jun 2025 06:04:02 GMT | How to Succeed in Cybersecurity Over the Next 10 Years: Skills, Tools & Strategies for 2025–2035 | Ekene Joseph | [Read More](https://medium.com/p/d57adf49b6e6) |
-| Thu, 26 Jun 2025 06:01:23 GMT | Why Healthcare Needs Specialized IT Support for Better Compliance, Security, and Efficiency | Diga core | [Read More](https://medium.com/p/77c38e7c7725) |
-| Thu, 26 Jun 2025 05:59:34 GMT | The Importance of a Reliable Security Agency in Mumbai | Ciss India | [Read More](https://medium.com/p/ce9217e6e929) |
-| Thu, 26 Jun 2025 05:53:09 GMT | ️ When the Red Lights Blink: Inside a Real Threat Intelligence Alert | vyshnaviallam | [Read More](https://medium.com/p/d7c04b5cb131) |
-| Thu, 26 Jun 2025 05:39:33 GMT | best hacking course in Noida ducat | Shiveshranjan | [Read More](https://medium.com/p/85d8700db27c) |
-| Thu, 26 Jun 2025 05:39:28 GMT | Best Ethical Hacking Training in Noida - Ducat India | Neelam verma | [Read More](https://medium.com/p/bc118814e2ea) |
-| Thu, 26 Jun 2025 05:39:15 GMT | Best Ethical Hacking Training in Noida - Ducat India | Snehasingh | [Read More](https://medium.com/p/42201e747116) |
-| Thu, 26 Jun 2025 05:38:58 GMT | Best Ethical Hacking Training in Noida - Ducat India | Rashmyy | [Read More](https://medium.com/p/9d10a86b7769) |
-| Thu, 26 Jun 2025 05:38:56 GMT | Best Ethical Hacking Training in Noida - Ducat India | Sunny Ranjan | [Read More](https://medium.com/p/40b4c1ae6f9f) |
-| Thu, 26 Jun 2025 05:17:06 GMT | One Night, One Goal: How I Passed the PSAA Certification by TCM Security | Athiwat Tiprasaharn | [Read More](https://medium.com/p/e723cf7f086c) |
-| Thu, 26 Jun 2025 05:13:25 GMT | The 5 Whys Method: Why Your Cybersecurity Incident Response Plan Keeps Failing | crązŷrąiɲ | [Read More](https://medium.com/p/3780af08053c) |
-| Thu, 26 Jun 2025 05:02:05 GMT | Can AI Replace Cybersecurity Professionals? A Reality Check | Angeljoseph | [Read More](https://medium.com/p/4ffaeda849de) |
