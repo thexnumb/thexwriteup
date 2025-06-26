@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 23:11:39 GMT | CSCPSUT MetaCTF25 Qualifications Writeups | Qais Hammad | [Read More](https://medium.com/p/1974e9a7f03e) |
+| Thu, 26 Jun 2025 23:02:27 GMT | Mastering the Art of Linux | An0n | [Read More](https://medium.com/p/16f6a345f38e) |
+| Thu, 26 Jun 2025 22:56:23 GMT | ExeQuantum and Krown Technologies Forge Strategic Partnership to Advance Post-Quantum Blockchain… | ExeQuantum | [Read More](https://medium.com/p/7940f5346330) |
+| Thu, 26 Jun 2025 22:54:28 GMT | Exploring the Dark Web: A Comprehensive Guide | Monika sharma | [Read More](https://medium.com/p/b243d68c063a) |
+| Thu, 26 Jun 2025 22:49:06 GMT | Cybersecurity Skills Gap Threatens Kenyan Banks | James Gitau | [Read More](https://medium.com/p/16438a701388) |
+| Thu, 26 Jun 2025 22:44:40 GMT | A $3000 Bounty Breakthrough | Monika sharma | [Read More](https://medium.com/p/3fcbb0187178) |
+| Thu, 26 Jun 2025 22:42:02 GMT | How a Container Escape Vulnerability Exposes Host Files | Monika sharma | [Read More](https://medium.com/p/ec09ba3991b5) |
+| Thu, 26 Jun 2025 22:41:54 GMT | Master SQL Injection: Exploit Hyperpure’s $2000 Bounty Vulnerability | Monika sharma | [Read More](https://medium.com/p/c4e32fd6d5cb) |
 | Thu, 26 Jun 2025 22:41:45 GMT | Creating and Configuring a Self-Hosted VPN with OpenVPN (Quick Setup) | Marcus Paulo | [Read More](https://medium.com/p/b49915a3756c) |
 | Thu, 26 Jun 2025 22:31:53 GMT | ALFRED WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/57bea61e950c) |
 | Thu, 26 Jun 2025 22:27:33 GMT | Attacks on Automotive Cybersecurity: Threats to Connected Vehicles | Akshay Chauhan | [Read More](https://medium.com/p/7ac652f2c8ce) |
@@ -34,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 20:30:58 GMT | Best Practices: The 5 Cloud Security Hacks That Saved My Career (And $47K in Breach Costs) | AbdulRahman Mostafa | [Read More](https://medium.com/p/c7542c5d0f91) |
 | Thu, 26 Jun 2025 20:30:35 GMT | Securing DevSecOps Workflows with AI: A Playbook for Startups and Small Teams | Mike Attara | [Read More](https://medium.com/p/e6ac839e993c) |
 | Thu, 26 Jun 2025 20:30:32 GMT | AI Security Frameworks: Adapting Defence-in-Depth for Frontier AI | Mike Attara | [Read More](https://medium.com/p/3927158f7241) |
+| Thu, 26 Jun 2025 20:28:28 GMT | Why You Need a Password Manager | NK Cyber | [Read More](https://medium.com/p/64676a86785e) |
 | Thu, 26 Jun 2025 20:23:17 GMT | Shellcode Encryption using Speck | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d72b9d6dc0ee) |
 | Thu, 26 Jun 2025 20:17:32 GMT | What a Man Unexpectedly Discovers When Marriage Happens | Murad NURI | [Read More](https://medium.com/p/c0857bd60991) |
 | Thu, 26 Jun 2025 20:15:50 GMT | Windows Logging for SOC: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/1e2c9799f70f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 16:27:15 GMT | The AI Gap: Why 90% of Organizations Are Unprepared for the Next | Chetan Seripally | [Read More](https://medium.com/p/131518a412bc) |
 | Thu, 26 Jun 2025 16:25:37 GMT | FARHAN‑Shot in Termux: Check for Wi‑Fi Security Risks | Kambetastephano | [Read More](https://medium.com/p/75254f1c7d59) |
 | Thu, 26 Jun 2025 16:22:17 GMT | Your Strongest Firewall: Why Cybersecurity Training is Essential for Every Job Level | Intentwriter | [Read More](https://medium.com/p/eb100e218640) |
-| Thu, 26 Jun 2025 16:21:26 GMT | Between combinatorics and coding theory, the fundamentals and the links of crisscross error… | ENCODE Doctoral Network | [Read More](https://medium.com/p/d69b86cf747f) |
-| Thu, 26 Jun 2025 16:18:32 GMT | Exploiting Automatic code preview Lead For Critical stored iframe injection -.- | Hamzadzworm | [Read More](https://medium.com/p/0c664f7a6437) |
-| Thu, 26 Jun 2025 16:16:17 GMT | ️ Dark Web Diaries: The Side of the Internet They Don’t Want You to See | adityaax | [Read More](https://medium.com/p/21898c1caf83) |
-| Thu, 26 Jun 2025 16:15:34 GMT | TwoMillion -HTB Walkthrough | Prabhat Kumar Thakur | [Read More](https://medium.com/p/ac8927f1e37c) |
-| Thu, 26 Jun 2025 16:15:29 GMT | Reverse Social Engineering: When Hackers Let You Come to Them | SafeAeon Inc. | [Read More](https://medium.com/p/aad927cd2089) |
-| Thu, 26 Jun 2025 16:13:08 GMT | The Logout That Didn’t Happen: A Session Bug Story | CSN | [Read More](https://medium.com/p/2652632c6067) |
-| Thu, 26 Jun 2025 16:11:36 GMT | wazuh | Tugba Hatice | [Read More](https://medium.com/p/77b1f39a8732) |
-| Thu, 26 Jun 2025 16:06:39 GMT | MTA-STS Explained: Email Security Simplified | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/6fe1047db0f2) |
-| Thu, 26 Jun 2025 16:04:25 GMT | Scams & Artificial Intelligence: Tips to Protect Yourself | @NSConsumers | [Read More](https://medium.com/p/856cadc66b9a) |
