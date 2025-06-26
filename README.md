@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 15:12:32 GMT | Mastering Rights Management with SailPoint IIQ: From RBAC to Access Certification | Surya Raja | [Read More](https://medium.com/p/e77f1664fe4d) |
+| Thu, 26 Jun 2025 15:04:11 GMT | My First Steps into Cybersecurity: What I’ve Learned So Far | Gaarv Chauhan | [Read More](https://medium.com/p/adb288b0bd5b) |
+| Thu, 26 Jun 2025 15:02:47 GMT | What Hackers See: Building an Executive Risk Dossier from Public Data (Advanced) | Ingvar Pavlovich | [Read More](https://medium.com/p/80220ce9f3ec) |
+| Thu, 26 Jun 2025 14:59:00 GMT | Why Your Smart Contract Needs a Red Team Test Before Its Formal Audit | Pavon Dunbar | [Read More](https://medium.com/p/fe25191d2ea2) |
+| Thu, 26 Jun 2025 14:56:42 GMT | Biometric Authentication Solutions in Maryland for High-Security Access Control | Katheryne | [Read More](https://medium.com/p/40106a14fe5a) |
+| Thu, 26 Jun 2025 14:52:52 GMT | From Gate Opener to Full Control: Hacking a Smart Parking Device | Moriel Harush | [Read More](https://medium.com/p/4205cb80d5aa) |
+| Thu, 26 Jun 2025 14:52:29 GMT | Understanding Layer 2 Protocols for CCNA | Joanorifha | [Read More](https://medium.com/p/bf119dff70cf) |
+| Thu, 26 Jun 2025 14:47:56 GMT | My Cybersecurity Internship Journey with Oasis Infobyte — Hands-on Experience | Rahul Prasad Kadiyam | [Read More](https://medium.com/p/b354f0a1334f) |
+| Thu, 26 Jun 2025 14:47:37 GMT | EDE, Jimbos, CS Token: Oracle Backdoors, Slippage Gaps, and Flash-Loan-Boosted Burns | Olympix | [Read More](https://medium.com/p/4fa0fb97f228) |
+| Thu, 26 Jun 2025 14:46:51 GMT | The Dark Side of JWT No One Talks About | Ibtissam hammadi | [Read More](https://medium.com/p/c35198d2a587) |
+| Thu, 26 Jun 2025 14:42:40 GMT | Art Coin, Snook, Land NFT: Incentive Loops, Permission Slips, and Liquidity Misfires | Olympix | [Read More](https://medium.com/p/3e4e31beb066) |
 | Thu, 26 Jun 2025 14:37:47 GMT | Deus, Ovix, Unlock: From Miswired Mappings to Oracle Lies | Olympix | [Read More](https://medium.com/p/e0e1fc2c0e5c) |
 | Thu, 26 Jun 2025 14:36:11 GMT | How to Bulk Delete Personal Data in Salesforce Data Cloud (CDP) Using the Consent API | Mani | [Read More](https://medium.com/p/80d764004dd8) |
+| Thu, 26 Jun 2025 14:35:39 GMT | SOCFortress × Shuffle: When Open-Source SIEM Meets Open-Source SOAR | SOCFortress | [Read More](https://medium.com/p/622a8bcf8803) |
+| Thu, 26 Jun 2025 14:34:06 GMT | I Got ChatGPT to Leak Gmail Data with Just 1 Lines of Code: The MCP Tool Poisoning & How to Defend… | Hiworld | [Read More](https://medium.com/p/2192a2c19404) |
 | Thu, 26 Jun 2025 14:31:49 GMT | The Night I Stayed Awake to Catch a Hacker | Azmat Ali | [Read More](https://medium.com/p/9e7b865c4538) |
 | Thu, 26 Jun 2025 14:22:16 GMT | The Day Demands Me, but the Night Heals Me | Meli | [Read More](https://medium.com/p/369f393858d5) |
 | Thu, 26 Jun 2025 14:15:00 GMT | How I Would Pivot within Cybersecurity If I Got Laid Off Today (AI Edition) | Taimur Ijlal | [Read More](https://medium.com/p/5aced9e3c14d) |
@@ -100,16 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 09:11:51 GMT | A Bookmarklet That Instantly Generates Strong Passwords (Because Who Has Time for 1Password to… | Batuhan ŞASI | [Read More](https://medium.com/p/4756f6825d03) |
 | Thu, 26 Jun 2025 09:07:03 GMT | How Our Solutions Simplify Your Aramco CCC/CCC+ Application Process | Anna | [Read More](https://medium.com/p/121822105b4b) |
 | Thu, 26 Jun 2025 09:04:02 GMT | Host Your Own Web Firewall with SafeLine — No Cloud Needed | Quella | [Read More](https://medium.com/p/e83fa7b0433d) |
-| Thu, 26 Jun 2025 08:55:20 GMT | Inside the ALEX Protocol Hack: Full Analysis of the Crypto Exploit | Devendra Singh Khati | [Read More](https://medium.com/p/39300ef82d83) |
-| Thu, 26 Jun 2025 08:41:23 GMT | Understanding Aramco’s CCC/CCC+ Certification Process | Anna | [Read More](https://medium.com/p/c43af78f5b88) |
-| Thu, 26 Jun 2025 08:40:14 GMT | From 1 Wei to 10M reUSD: Anatomy of a ResupplyPair Exploit | Evgenii | [Read More](https://medium.com/p/9e97748fdce1) |
-| Thu, 26 Jun 2025 08:39:18 GMT | Information Disclosure part-2 : debug page | Ahmad Sopyan | [Read More](https://medium.com/p/8c40e16a9070) |
-| Thu, 26 Jun 2025 08:36:24 GMT | Mitigating AI Security Risks | Vlad Koval | [Read More](https://medium.com/p/e1eb684354f8) |
-| Thu, 26 Jun 2025 08:30:02 GMT | Critical Gogs RCE Vulnerability Resurfaces — Patch Now | AerieWhole123 | [Read More](https://medium.com/p/1251bc281d44) |
-| Thu, 26 Jun 2025 08:25:41 GMT | ประจำวันพฤหัสบดีที่ 26 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d61b113dda04) |
-| Thu, 26 Jun 2025 08:17:11 GMT | GhostChain Sentinel: A New Blueprint for Tamper-Proof RegTech Evidence | Metehan INANC | [Read More](https://medium.com/p/88166b984674) |
-| Thu, 26 Jun 2025 08:15:50 GMT | Instalasi Ubuntu 24.04.2 LTS pada VirtualBox | Seftidinata | [Read More](https://medium.com/p/afb777e04671) |
-| Thu, 26 Jun 2025 08:15:37 GMT | Prevent Race Condition in Symfony: Secure Your Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/a4df76b55a02) |
-| Thu, 26 Jun 2025 08:09:41 GMT | NIS2 Direktifi ve Uyumluluk Süreci: Junior Siber Güvenlik Analisti Gözüyle İlk Deneyimim | Çağlar Keskin | [Read More](https://medium.com/p/08ae2a79192e) |
-| Thu, 26 Jun 2025 08:02:42 GMT | The Great NATO Defence Spending Illusion (Part 2/2) | Brian Iselin | [Read More](https://medium.com/p/e85921adb100) |
-| Thu, 26 Jun 2025 08:02:42 GMT | ️ Zero-Trust Is Not Just for Security Engineers: How DevOps Owns the New Perimeter | Mohamed ElEmam | [Read More](https://medium.com/p/2898513bb59a) |
