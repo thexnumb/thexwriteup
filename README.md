@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 14:37:47 GMT | Deus, Ovix, Unlock: From Miswired Mappings to Oracle Lies | Olympix | [Read More](https://medium.com/p/e0e1fc2c0e5c) |
+| Thu, 26 Jun 2025 14:36:11 GMT | How to Bulk Delete Personal Data in Salesforce Data Cloud (CDP) Using the Consent API | Mani | [Read More](https://medium.com/p/80d764004dd8) |
+| Thu, 26 Jun 2025 14:31:49 GMT | The Night I Stayed Awake to Catch a Hacker | Azmat Ali | [Read More](https://medium.com/p/9e7b865c4538) |
+| Thu, 26 Jun 2025 14:22:16 GMT | The Day Demands Me, but the Night Heals Me | Meli | [Read More](https://medium.com/p/369f393858d5) |
 | Thu, 26 Jun 2025 14:15:00 GMT | How I Would Pivot within Cybersecurity If I Got Laid Off Today (AI Edition) | Taimur Ijlal | [Read More](https://medium.com/p/5aced9e3c14d) |
 | Thu, 26 Jun 2025 14:13:25 GMT | Why Rust Feels Like Home | Subh | [Read More](https://medium.com/p/1306665f2b0a) |
 | Thu, 26 Jun 2025 14:11:27 GMT | Prevent Repeated Cybersecurity Incidents with Root Cause Analysis | Raman Chopra | [Read More](https://medium.com/p/11ec4d454ed1) |
@@ -109,7 +113,3 @@ How I Got Started in Cybersecurity (And How You Can Too) | Mohanned Wael | [Read
 | Thu, 26 Jun 2025 08:09:41 GMT | NIS2 Direktifi ve Uyumluluk Süreci: Junior Siber Güvenlik Analisti Gözüyle İlk Deneyimim | Çağlar Keskin | [Read More](https://medium.com/p/08ae2a79192e) |
 | Thu, 26 Jun 2025 08:02:42 GMT | The Great NATO Defence Spending Illusion (Part 2/2) | Brian Iselin | [Read More](https://medium.com/p/e85921adb100) |
 | Thu, 26 Jun 2025 08:02:42 GMT | ️ Zero-Trust Is Not Just for Security Engineers: How DevOps Owns the New Perimeter | Mohamed ElEmam | [Read More](https://medium.com/p/2898513bb59a) |
-| Thu, 26 Jun 2025 08:01:59 GMT | Introducing the urlDNA MCP Server: Native Threat Intelligence for LLM Agents | urlDNA | [Read More](https://medium.com/p/6330a35dcf05) |
-| Thu, 26 Jun 2025 07:57:20 GMT | Türkiye’de Siber Güvenlik | zehrakolsuz | [Read More](https://medium.com/p/e314c00fdec0) |
-| Thu, 26 Jun 2025 07:55:31 GMT | AI-Driven Cybersecurity Threat Landscape: AI-Driven Defense | noailabs | [Read More](https://medium.com/p/39e41865602e) |
-| Thu, 26 Jun 2025 07:55:06 GMT | ️ "We Thought It Was Secure… Until It Wasn't." | Amaka okoye | [Read More](https://medium.com/p/e3e1e1da23f5) |
