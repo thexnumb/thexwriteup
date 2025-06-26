@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 08:17:11 GMT | GhostChain Sentinel: A New Blueprint for Tamper-Proof RegTech Evidence | Metehan INANC | [Read More](https://medium.com/p/88166b984674) |
+| Thu, 26 Jun 2025 08:15:37 GMT | Prevent Race Condition in Symfony: Secure Your Code | Pentest_Testing_Corp | [Read More](https://medium.com/p/a4df76b55a02) |
+| Thu, 26 Jun 2025 08:09:41 GMT | NIS2 Direktifi ve Uyumluluk Süreci: Junior Siber Güvenlik Analisti Gözüyle İlk Deneyimim | Çağlar Keskin | [Read More](https://medium.com/p/08ae2a79192e) |
+| Thu, 26 Jun 2025 08:02:42 GMT | The Great NATO Defence Spending Illusion (Part 2/2) | Brian Iselin | [Read More](https://medium.com/p/e85921adb100) |
+| Thu, 26 Jun 2025 08:02:42 GMT | ️ Zero-Trust Is Not Just for Security Engineers: How DevOps Owns the New Perimeter | Mohamed ElEmam | [Read More](https://medium.com/p/2898513bb59a) |
+| Thu, 26 Jun 2025 08:01:59 GMT | Introducing the urlDNA MCP Server: Native Threat Intelligence for LLM Agents | urlDNA | [Read More](https://medium.com/p/6330a35dcf05) |
+| Thu, 26 Jun 2025 07:57:20 GMT | Türkiye’de Siber Güvenlik | zehrakolsuz | [Read More](https://medium.com/p/e314c00fdec0) |
+| Thu, 26 Jun 2025 07:55:31 GMT | AI-Driven Cybersecurity Threat Landscape: AI-Driven Defense | noailabs | [Read More](https://medium.com/p/39e41865602e) |
+| Thu, 26 Jun 2025 07:55:06 GMT | ️ "We Thought It Was Secure… Until It Wasn't." | Amaka okoye | [Read More](https://medium.com/p/e3e1e1da23f5) |
+| Thu, 26 Jun 2025 07:43:40 GMT | Exploiting Expression Language Injection to CVE-2024–51466 | V7nc3nz | [Read More](https://medium.com/p/3ccd56fb3bfe) |
+| Thu, 26 Jun 2025 07:43:17 GMT | Who Needs Admin When You Have GraphQL? Abusing Queries for Fun and Data | Iski | [Read More](https://medium.com/p/03456b01da34) |
+| Thu, 26 Jun 2025 07:38:27 GMT | Holding Emotions | Amna Javaid | [Read More](https://medium.com/p/be612611386d) |
 | Thu, 26 Jun 2025 07:34:04 GMT | Cyber Armor: What Is Cyber Insurance and Why Your Digital Life Depends on It | Muhammad Ahmad | [Read More](https://medium.com/p/cfa8b212a614) |
 | Thu, 26 Jun 2025 07:32:56 GMT | HackTheBox Writeup — Script Kiddie | Simardeep Singh | [Read More](https://medium.com/p/72b4a0f102bf) |
 | Thu, 26 Jun 2025 07:31:30 GMT | Today’s Top Cyber Intelligence Highlights — Jun 26, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/b0ae68b26cf8) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 22:18:50 GMT | I Tried Hacking My Own Wi-Fi — Here’s What I Learned | Azmat Ali | [Read More](https://medium.com/p/a803b40487ca) |
 | Wed, 25 Jun 2025 22:17:05 GMT | The OSI Model for Ethical Hackers: Practical Applications, Not Just Theory | Karthikeyan Nagaraj | [Read More](https://medium.com/p/910aaf4fa850) |
 | Wed, 25 Jun 2025 22:16:36 GMT | Bug Bounty Journey — Valid Report Part 7 | 0xF3r4t | [Read More](https://medium.com/p/02f45eefea7e) |
-| Wed, 25 Jun 2025 22:12:38 GMT | Active Directory Cheat Sheet 2025 — Red Team to Blue Team Mastery | Shadow Packet | [Read More](https://medium.com/p/e45f218fddb7) |
-| Wed, 25 Jun 2025 21:58:31 GMT | Bypassing the Group Member Limit via Race Condition | Khaledelnabet | [Read More](https://medium.com/p/2442ad33739e) |
-| Wed, 25 Jun 2025 21:55:24 GMT | [Hack The Box CTF] Titanic Write-Up | fnwn | [Read More](https://medium.com/p/6299048b6b5d) |
-| Wed, 25 Jun 2025 21:53:15 GMT | How Hackers Trick You with Social Engineering — And How to Outsmart Them | Azmat Ali | [Read More](https://medium.com/p/0767c9746f33) |
-| Wed, 25 Jun 2025 21:39:39 GMT | Linux Çekirdeğinde Güvenlik: LTS ve Mainline Sürümlerin Karşılaştırması | Kaan Ekşi | [Read More](https://medium.com/p/da47084c5935) |
-| Wed, 25 Jun 2025 21:33:26 GMT | The „Mariana Trench“ of the Dark Web: Myth vs. Documented Reality | Maria Antonovich | [Read More](https://medium.com/p/e68bd4caab31) |
-| Wed, 25 Jun 2025 21:32:48 GMT | Fingerprint: A sua digital virtual que você não conhecia. Pt.1 | Molotov Brasil | [Read More](https://medium.com/p/1e2ce3876020) |
-| Wed, 25 Jun 2025 21:32:44 GMT | Ethereum Security Tips for 2025 | IvanDTzar | [Read More](https://medium.com/p/caac4407e7a0) |
-| Wed, 25 Jun 2025 21:27:35 GMT | Cloud-to-OnPrem Pivoting: From SaaS Hijack to Data Center Domination | A-STAR7_DOCTOR | [Read More](https://medium.com/p/cceb27e2bd8f) |
-| Wed, 25 Jun 2025 21:13:58 GMT | ️ How I Used Kali Linux to Clone a Facebook Login Page and Capture Credentials (Ethical Hacking… | Esom Eze | [Read More](https://medium.com/p/5c1c00fc6d71) |
-| Wed, 25 Jun 2025 21:13:38 GMT | Unlocking the Future: SwitchBot’s Smart Lock Revolution | Sirinm | [Read More](https://medium.com/p/a9311cad14f0) |
-| Wed, 25 Jun 2025 21:05:33 GMT | Defense in Depth: Cybersecurity Lessons from the Castle Walls | Emma Lateyron | [Read More](https://medium.com/p/bba7a42d4e2d) |
