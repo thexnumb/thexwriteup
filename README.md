@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Jun 2025 01:36:54 GMT | “They Want a $5M Cyber Policy?!?” | Alliance Risk | [Read More](https://medium.com/p/768cf0599724) |
+| Thu, 26 Jun 2025 01:32:10 GMT | From Zero to Hero: How One Tool Transformed My Poker Game | Edgar Brutto | [Read More](https://medium.com/p/7cf7e15b6fbf) |
+| Thu, 26 Jun 2025 01:29:35 GMT | Phishing Is Evolving Fast — Here’s What I’m Seeing | Raymond | [Read More](https://medium.com/p/12dbacca1060) |
+| Thu, 26 Jun 2025 01:18:11 GMT | OSINT Guide Pt 2: Using Telethon + Python to scrape Telegram Data | SirHaxAlot | [Read More](https://medium.com/p/2f30dd2a69ee) |
+| Thu, 26 Jun 2025 01:01:56 GMT | How to Protect Kids and Family from Cyber Crime? | AJIT | [Read More](https://medium.com/p/607fe868ebee) |
+| Thu, 26 Jun 2025 01:00:39 GMT | The Love I Deserve Won’t Disappear in the Silence | Blessing Veronica | [Read More](https://medium.com/p/86ef7560a547) |
+| Thu, 26 Jun 2025 01:00:22 GMT | SQL Injection Ciega (Boolean) — Extrayendo datos sin mensajes de error | Roberto Alfaro | [Read More](https://medium.com/p/adfd5358afcd) |
+| Thu, 26 Jun 2025 00:21:28 GMT | Are You Providing Emotional Safety in Your Relationship? | Yasmin Del Rosario | [Read More](https://medium.com/p/085acf29e2f6) |
+| Thu, 26 Jun 2025 00:09:25 GMT | زن صیغه‌ای در مشهد زن صیغه‌ای در لنگرود زن صیغه‌ای در بروجرد زن صیغه‌ای در دورود زن صیغه‌ای در… | صیغه حلال و شرعی قانونی صیغه موقت صیغه ساعتی | [Read More](https://medium.com/p/1c14eef6bb35) |
+| Thu, 26 Jun 2025 00:06:25 GMT | Web Cache Deception: When a 404 Still Leaks Sensitive Data ️️‍♂️ | ValidByAccident | [Read More](https://medium.com/p/61338e04b10f) |
+| Wed, 25 Jun 2025 23:46:44 GMT | LLM vs. SAST: A Technical Analysis on Detecting Coding Bugs of GPT4-Advanced Data Analysis (LLM 대… | YouShin kim | [Read More](https://medium.com/p/d302825cf190) |
+| Wed, 25 Jun 2025 23:45:45 GMT | Academy WriteUP | masiva | [Read More](https://medium.com/p/f84a14156f72) |
+| Wed, 25 Jun 2025 23:38:29 GMT | HackTheBox: Chemistry Write-Up | M4sterCub3 | [Read More](https://medium.com/p/b8985f6eb536) |
+| Wed, 25 Jun 2025 23:36:07 GMT | Why Python Remains the Best Choice for Desktop App Development and Cybersecurity Enthusiasts | Muhammad Ali | [Read More](https://medium.com/p/09912fd3d4dd) |
+| Wed, 25 Jun 2025 23:35:00 GMT | Enhancing Your Home with SwitchBot Roller Shades | Awvxawea | [Read More](https://medium.com/p/166f75c438ee) |
+| Wed, 25 Jun 2025 23:32:47 GMT | Enterprise IoT Security by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5f0b7d187423) |
 | Wed, 25 Jun 2025 23:21:21 GMT | How to Build Apps with AI Securely in 2025 | Cyber-AppSec | [Read More](https://medium.com/p/bfe3fed5f4c4) |
 | Wed, 25 Jun 2025 22:55:27 GMT | What They Wrote Before They Killed: An AI based Linguistic Study of Violent Offenders | Shirish Pandita | [Read More](https://medium.com/p/388bf2f3c674) |
 | Wed, 25 Jun 2025 22:44:55 GMT | 09052028942 | شماره خاله #شماره خاله# تهران #خاله 09052028942 | [Read More](https://medium.com/p/7098661327a7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Jun 2025 16:50:08 GMT | Rate Limit? I Barely Know Her: How I Brute-Forced OTPs Like a Gentleman | Iski | [Read More](https://medium.com/p/6f1235c559cc) |
 | Wed, 25 Jun 2025 16:46:02 GMT | Are Your Web Apps Vulnerable to Infostealers Hiding in Browser Scripts? | Feroot Security | [Read More](https://medium.com/p/ea1560d49702) |
 | Wed, 25 Jun 2025 16:45:42 GMT | Meet Bandit: The Python Security Tool You’re Probably Ignoring (But Shouldn’t in 2025) | Sanjay Prajapati | [Read More](https://medium.com/p/a3323a61bf61) |
-| Wed, 25 Jun 2025 16:44:08 GMT | How to Plan and Execute Event Logistics for a Successful Event | waeventservices.co.uk/ | [Read More](https://medium.com/p/ee2fea48c2c1) |
-| Wed, 25 Jun 2025 16:43:25 GMT | w1seguy: a THM writeup | Muhammad Rafly Abdillah | [Read More](https://medium.com/p/3945382845f7) |
-| Wed, 25 Jun 2025 16:42:55 GMT | Supply Chain Attacks: What Every Security Team Misses in 2025 | Andrei Ivan | [Read More](https://medium.com/p/11e91045051d) |
-| Wed, 25 Jun 2025 16:42:39 GMT | Guarding Your Digital Fortress: How to Protect Your Information Online | Kara Davis | [Read More](https://medium.com/p/113717f21563) |
-| Wed, 25 Jun 2025 16:40:20 GMT | IOT Connect — Android Broadcast Receiver Challenge | bl4dsc4n | [Read More](https://medium.com/p/62e224c0983f) |
-| Wed, 25 Jun 2025 16:39:44 GMT | ชมงาน CyberDay | Suthinan | [Read More](https://medium.com/p/cbb5168ba231) |
-| Wed, 25 Jun 2025 16:38:27 GMT | The Sixxish Corp Hack: Simulating a Full Red Team Attack | sixxish | [Read More](https://medium.com/p/9a168d73b516) |
-| Wed, 25 Jun 2025 16:38:22 GMT | Post-Quantum Security: Why Your Organization Needs to Start Planning Now | Eric Zietlow | [Read More](https://medium.com/p/8faf924e31ee) |
-| Wed, 25 Jun 2025 16:37:53 GMT | The Benefits of Combining Vulnerability Scanning with Penetration Testing | Black Lock | [Read More](https://medium.com/p/b07bac7921b4) |
-| Wed, 25 Jun 2025 16:37:07 GMT | Mobile Attack Surfaces in 2025: Threats, Vectors, and Defensive Strategy | ThreatVector | [Read More](https://medium.com/p/cc6265265ce1) |
-| Wed, 25 Jun 2025 16:36:30 GMT | What Is Cyber Insurance? A Simple Guide for Businesses and Individuals | SafeAeon Inc. | [Read More](https://medium.com/p/73b90a762c7b) |
-| Wed, 25 Jun 2025 16:35:29 GMT | Internetin Şok eden Botneti: Mirai Botnet | FatmaCy | [Read More](https://medium.com/p/472316900bf3) |
-| Wed, 25 Jun 2025 16:33:46 GMT | Your AI Is Leaking Secrets – And You Might Not Even Know It | Zero Code Startup | [Read More](https://medium.com/p/55a21b2b1f62) |
-| Wed, 25 Jun 2025 16:31:51 GMT | When the Internet Goes to War: How Cyber Conflict Is Reshaping Global Business Risk | Ankit Sharma | [Read More](https://medium.com/p/8c9e00ba43e3) |
-| Wed, 25 Jun 2025 16:21:06 GMT | I Still Don’t Know What I’m Doing; But I Think It's About Courage. | Elizabeth N. Ugbor | [Read More](https://medium.com/p/7f732fcd2cdd) |
-| Wed, 25 Jun 2025 16:14:50 GMT | บทเรียนป้องกันตัวในโลกดิจิทัลจากงาน PSU Cybersecurity and Data Privacy Days ครั้งที่ 2 | NaphatJM | [Read More](https://medium.com/p/4bf1616ef541) |
