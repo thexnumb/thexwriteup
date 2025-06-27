@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 07:05:11 GMT | Unveiling Steam’s $7500 Bounty: Buffer Overrun in SILK Voice Decoder | Monika sharma | [Read More](https://medium.com/p/22a5ad05dca2) |
+| Fri, 27 Jun 2025 07:04:09 GMT | Adversarial AI in the Wild: Defending Against Attacks You Never Saw Coming | Abduldattijo | [Read More](https://medium.com/p/581d5cf7f3db) |
+| Fri, 27 Jun 2025 07:02:29 GMT | Information Disclosure part-3 : Source code disclosure via backup files | Ahmad Sopyan | [Read More](https://medium.com/p/ce26138745c7) |
+| Fri, 27 Jun 2025 06:57:39 GMT | How to Build a Bulletproof Cybersecurity Strategy for Your Business | Technijian ITSupport | [Read More](https://medium.com/p/7308a96043c2) |
+| Fri, 27 Jun 2025 06:53:27 GMT | Top 10 Job Opportunities After an Ethical Hacking Course | cyber security Updates | [Read More](https://medium.com/p/270680ebb377) |
+| Fri, 27 Jun 2025 06:49:45 GMT | SOC 2 Password Requirements: How to Stay Compliant | SecureSlate | [Read More](https://medium.com/p/9e5286795bc4) |
+| Fri, 27 Jun 2025 06:32:08 GMT | Why Should You Care About the Latest HITRUST CSF Updates? | Finstein.ai | [Read More](https://medium.com/p/908b0777fa55) |
+| Fri, 27 Jun 2025 06:31:54 GMT | The Art of Starting Over (Again and Again) | Half Bloomed Diaries | [Read More](https://medium.com/p/a6f2ceb46bbe) |
+| Fri, 27 Jun 2025 06:30:06 GMT | TryHackMe Blue: A Comprehensive Guide to Exploiting EternalBlue | Gopal Mohan | [Read More](https://medium.com/p/3dfeab52fba9) |
+| Fri, 27 Jun 2025 06:25:17 GMT | The Corix Partners Friday Reading List — June 27, 2025 | JC Gaillard | [Read More](https://medium.com/p/a99a87c8d0fc) |
 | Fri, 27 Jun 2025 06:21:47 GMT | CVE-2024–49113: Windows LDAP Flaw Lets Hackers Crash Domain Controllers | AerieWhole123 | [Read More](https://medium.com/p/e5890e475dba) |
 | Fri, 27 Jun 2025 06:18:59 GMT | 병원의 개념? 일반적으로 아프면 가는곳이며 치료 받기 위한곳 입니다. | 이상덕 (KOREA Republic of) | [Read More](https://medium.com/p/adcf589fe42c) |
 | Fri, 27 Jun 2025 05:51:13 GMT | Zoomcar Data Breach 2025: What Went Wrong? | Zeron | [Read More](https://medium.com/p/c7f2c9e0ee8a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 20:30:32 GMT | AI Security Frameworks: Adapting Defence-in-Depth for Frontier AI | Mike Attara | [Read More](https://medium.com/p/3927158f7241) |
 | Thu, 26 Jun 2025 20:28:28 GMT | Why You Need a Password Manager | NK Cyber | [Read More](https://medium.com/p/64676a86785e) |
 | Thu, 26 Jun 2025 20:23:17 GMT | Shellcode Encryption using Speck | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d72b9d6dc0ee) |
-| Thu, 26 Jun 2025 20:17:32 GMT | What a Man Unexpectedly Discovers When Marriage Happens | Murad NURI | [Read More](https://medium.com/p/c0857bd60991) |
-| Thu, 26 Jun 2025 20:15:50 GMT | Windows Logging for SOC: TryHackMe Answers | Ansul Kotadia | [Read More](https://medium.com/p/1e2c9799f70f) |
-| Thu, 26 Jun 2025 20:15:00 GMT | OSCP+ vs CRTP vs PNPT | Paradox | [Read More](https://medium.com/p/ef4daca759a7) |
-| Thu, 26 Jun 2025 20:10:29 GMT | TryHackMe — Mr Robot CTF Walkthrough | Cyber Anom | [Read More](https://medium.com/p/a98ba12a91ae) |
-| Thu, 26 Jun 2025 20:06:40 GMT | Compliance Automation: Vision Alerts to SIEM | API4AI | [Read More](https://medium.com/p/40b4995bc3bd) |
-| Thu, 26 Jun 2025 19:54:48 GMT | The Colonial Pipeline Cyberattack of 2021: Anatomy of a National Crisis | ArthurLizLimaa | [Read More](https://medium.com/p/58d2148bda94) |
-| Thu, 26 Jun 2025 19:44:32 GMT | Zero Day in Sector 7 | ArthurLizLimaa | [Read More](https://medium.com/p/787be983eee1) |
-| Thu, 26 Jun 2025 19:42:29 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/c77c5091ffa8) |
-| Thu, 26 Jun 2025 19:40:48 GMT | Broken Access Control via Hardcoded Bearer Token in Public JS File | nooh zidan | [Read More](https://medium.com/p/b2f6c87b4d44) |
-| Thu, 26 Jun 2025 19:39:25 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/e5c60c1c809c) |
