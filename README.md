@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 16:33:24 GMT | I Reported a Critical Security Vulnerability. They Fixed It — But Never Paid. | Adith Suhas sv | [Read More](https://medium.com/p/9a2c76653830) |
+| Fri, 27 Jun 2025 16:23:55 GMT | This past week, I had the opportunity to be part of an intensive, hands-on cybersecurity lab — a… | kugumaho | [Read More](https://medium.com/p/e877a5bea073) |
 | Fri, 27 Jun 2025 16:19:34 GMT | Sense: ParrotCTF | Sidharth Panda | [Read More](https://medium.com/p/ba1b0634c63a) |
 | Fri, 27 Jun 2025 16:18:04 GMT | Information Disclosure part-4 : Authentication bypass via information disclosure | Ahmad Sopyan | [Read More](https://medium.com/p/befc45290fe6) |
 | Fri, 27 Jun 2025 16:13:44 GMT | JSON and Encryption Keys — A Marriage Made In Heaven | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/890d28e3f687) |
@@ -112,5 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 11:00:20 GMT | samama bin abdul rehman
 2025 | Samama bin Abdul Rehman | [Read More](https://medium.com/p/e06aa974839b) |
 | Fri, 27 Jun 2025 10:59:33 GMT | QMSR Final Rule 2024 | Daniel James | [Read More](https://medium.com/p/6a761e584cad) |
-| Fri, 27 Jun 2025 10:58:15 GMT | Gemini Can’t Write | Tomer Wetzler | [Read More](https://medium.com/p/98a78a797ab0) |
-| Fri, 27 Jun 2025 10:57:37 GMT | Securing the Unknown 2.0: Charting a Course for Resilient Agentic AI | Lars Godejord | [Read More](https://medium.com/p/894afa7b1055) |
