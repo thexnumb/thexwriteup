@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 08:47:37 GMT | Securing GenAI: Vol 5 — Model deployment and change management | Leapfrog Technology | [Read More](https://medium.com/p/12a83289b2ef) |
+| Fri, 27 Jun 2025 08:45:17 GMT | John The Ripper: Password Cracking Tool | Uliya Ashfaque Ali | [Read More](https://medium.com/p/b703415b4cfb) |
+| Fri, 27 Jun 2025 08:42:19 GMT | How to use IP address to improve account security: a practical guide from login to risk control | DataVerse | [Read More](https://medium.com/p/52e8c2ca0b78) |
+| Fri, 27 Jun 2025 08:31:46 GMT | Sensitive Server Info Disclosure via Public phpinfo() | Md Nawshad Ahmmed | [Read More](https://medium.com/p/466f80835c12) |
+| Fri, 27 Jun 2025 08:30:45 GMT | Securing GenAI: Vol 4 — Fundamentals of AI model security | Leapfrog Technology | [Read More](https://medium.com/p/3fd395ad7e60) |
+| Fri, 27 Jun 2025 08:30:13 GMT | Stop Blaming Devs: Runtime Threats Live in Your Kubernetes Kernel | Servifyspheresolutions | [Read More](https://medium.com/p/42ebc11d0cd2) |
+| Fri, 27 Jun 2025 08:29:28 GMT | How to Start a Career in Cybersecurity in 2025 (From Beginner to SOC Analyst) | NineTales | [Read More](https://medium.com/p/0c1216c4ada9) |
 | Fri, 27 Jun 2025 08:27:36 GMT | Hall of Fame on TATA Motors | Hritom Bhattacharya | [Read More](https://medium.com/p/0ced52eaa33c) |
+| Fri, 27 Jun 2025 08:23:16 GMT | The Science of Securing File Uploads: Why Your Code Might Be Lying to You | Ahmed Maher | [Read More](https://medium.com/p/46a6b8d647f7) |
 | Fri, 27 Jun 2025 08:22:59 GMT | ShellGPT Bonus Episode: Five Roles, Real Prompts | murali pala | [Read More](https://medium.com/p/c8c00e9671cb) |
 | Fri, 27 Jun 2025 08:10:45 GMT | Has Your Info Been Leaked? 5 Quick Checks to Find Out | Cloudbric VPN | [Read More](https://medium.com/p/03afd4e426ac) |
 | Fri, 27 Jun 2025 08:07:03 GMT | What is Penetration Testing ? | Vansh_Makkar | [Read More](https://medium.com/p/5723ad9bf963) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 23:02:27 GMT | Mastering the Art of Linux | An0n | [Read More](https://medium.com/p/16f6a345f38e) |
 | Thu, 26 Jun 2025 22:56:23 GMT | ExeQuantum and Krown Technologies Forge Strategic Partnership to Advance Post-Quantum Blockchain… | ExeQuantum | [Read More](https://medium.com/p/7940f5346330) |
 | Thu, 26 Jun 2025 22:54:28 GMT | Exploring the Dark Web: A Comprehensive Guide | Monika sharma | [Read More](https://medium.com/p/b243d68c063a) |
-| Thu, 26 Jun 2025 22:49:06 GMT | Cybersecurity Skills Gap Threatens Kenyan Banks | James Gitau | [Read More](https://medium.com/p/16438a701388) |
-| Thu, 26 Jun 2025 22:44:40 GMT | A $3000 Bounty Breakthrough | Monika sharma | [Read More](https://medium.com/p/3fcbb0187178) |
-| Thu, 26 Jun 2025 22:42:02 GMT | How a Container Escape Vulnerability Exposes Host Files | Monika sharma | [Read More](https://medium.com/p/ec09ba3991b5) |
-| Thu, 26 Jun 2025 22:41:54 GMT | Master SQL Injection: Exploit Hyperpure’s $2000 Bounty Vulnerability | Monika sharma | [Read More](https://medium.com/p/c4e32fd6d5cb) |
-| Thu, 26 Jun 2025 22:41:45 GMT | Creating and Configuring a Self-Hosted VPN with OpenVPN (Quick Setup) | Marcus Paulo | [Read More](https://medium.com/p/b49915a3756c) |
-| Thu, 26 Jun 2025 22:31:53 GMT | ALFRED WALKTHROUGH : TRYHACKME | rizzziom | [Read More](https://medium.com/p/57bea61e950c) |
-| Thu, 26 Jun 2025 22:27:33 GMT | Attacks on Automotive Cybersecurity: Threats to Connected Vehicles | Akshay Chauhan | [Read More](https://medium.com/p/7ac652f2c8ce) |
-| Thu, 26 Jun 2025 22:21:54 GMT | How I Took a Website Completely Offline with a Funky Cache Poisoning Vulnerability (CPDOS) | Erfan Tavakoli | [Read More](https://medium.com/p/220ac75d1cf3) |
