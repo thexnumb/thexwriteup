@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 22:16:39 GMT | Passive Recon for Bug Bounty: Best Tools and Real-World Tactics | Karthikeyan Nagaraj | [Read More](https://medium.com/p/9dcd7386eb16) |
 | Fri, 27 Jun 2025 22:15:00 GMT | Let’s Try Positive Reinforcement Cybersecurity Training | Matthew.Rosenquist | [Read More](https://medium.com/p/042397632c0c) |
 | Fri, 27 Jun 2025 22:12:02 GMT | Retro Breakfast Cocoa | Living A Lyrical Life | [Read More](https://medium.com/p/5dceb40df0be) |
 | Fri, 27 Jun 2025 22:08:03 GMT | The Girl Who Opened the Door Twice | Beatrice Akapo | [Read More](https://medium.com/p/df6875ada248) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 15:11:08 GMT | 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts | cyberwinx | [Read More](https://medium.com/p/a4bc982bf8a6) |
 | Fri, 27 Jun 2025 15:02:14 GMT | Serial Cyber Offenses: Behavioral Profiling and Linkage Analysis of Cases | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/d925c14ee0b7) |
 | Fri, 27 Jun 2025 15:01:44 GMT | Understanding the CIA Triad in Simple Terms | Gaarv Chauhan | [Read More](https://medium.com/p/18df3e429819) |
-| Fri, 27 Jun 2025 14:58:47 GMT | Secure Coding Part 4: Command Injection — Introduction | Siddiquimohammad | [Read More](https://medium.com/p/b1ad2f910b31) |
