@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 17:08:19 GMT | The Code That Saved Me: How a Broken Laptop Fixed My Life | Azmat Ali | [Read More](https://medium.com/p/58c20d6a6eb3) |
+| Fri, 27 Jun 2025 17:06:36 GMT | CKAD Notes: Security Context | Nicolas Barlatier | [Read More](https://medium.com/p/476fc095b847) |
+| Fri, 27 Jun 2025 17:05:42 GMT | Women in Cybersecurity: Participation, Challenges, and Opportunities in India | Sreya shyjash | [Read More](https://medium.com/p/7ecb26657023) |
+| Fri, 27 Jun 2025 17:03:44 GMT | What Is Information Security? A Simple Guide | Diyajat | [Read More](https://medium.com/p/f71c41a0382c) |
+| Fri, 27 Jun 2025 17:03:15 GMT | Cyber Sabotage in the Shadows: Are Infrastructure Failures a Sign of a Digital Cold War? | C. Oscar Lawshea | [Read More](https://medium.com/p/4a8b9b962ff2) |
+| Fri, 27 Jun 2025 17:03:15 GMT | Bogon Addresses Explained: What You Need to Know | A. S. M. Muhiminul Hasan | [Read More](https://medium.com/p/e6649a61f19d) |
+| Fri, 27 Jun 2025 16:52:56 GMT | Why CompTIA Security+ SY0–701 Is the Best First Step into Cybersecurity | Lewis Matlock, MBA, CISSP-ISSMP | [Read More](https://medium.com/p/f3a9f5dc8681) |
+| Fri, 27 Jun 2025 16:48:42 GMT | Securing Debian Server 2025 — Part 1 | Christian Nielsen | [Read More](https://medium.com/p/0106c4b9ee9f) |
+| Fri, 27 Jun 2025 16:41:43 GMT | Cybersecurity 101: From Tools to Attack Simulations Using Kali Linux, VMs, and Android Devices | Annet Najjuma | [Read More](https://medium.com/p/96d31e875f6b) |
+| Fri, 27 Jun 2025 16:38:20 GMT | Industrial Intrusion Task 19 — TryHackMe CTF Walkthrough | Jatin Gahlot | [Read More](https://medium.com/p/8029bf4140f0) |
 | Fri, 27 Jun 2025 16:33:24 GMT | I Reported a Critical Security Vulnerability. They Fixed It — But Never Paid. | Adith Suhas sv | [Read More](https://medium.com/p/9a2c76653830) |
 | Fri, 27 Jun 2025 16:23:55 GMT | This past week, I had the opportunity to be part of an intensive, hands-on cybersecurity lab — a… | kugumaho | [Read More](https://medium.com/p/e877a5bea073) |
 | Fri, 27 Jun 2025 16:19:34 GMT | Sense: ParrotCTF | Sidharth Panda | [Read More](https://medium.com/p/ba1b0634c63a) |
@@ -103,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 11:36:06 GMT | An Excellent Tool For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/f1e7caffa012) |
 | Fri, 27 Jun 2025 11:33:33 GMT | What happened to UC Browser? | Ashfan US | [Read More](https://medium.com/p/f142b1c056c7) |
 | Fri, 27 Jun 2025 11:30:29 GMT | URGENT: I Just Exposed a Massive LinkedIn Job Scam | Mossab Kbeisy | [Read More](https://medium.com/p/f4ccdbf4e4ca) |
-| Fri, 27 Jun 2025 11:22:50 GMT | You Store Secrets in GitHub Actions? Congrats, You’re 1 Leak Away from Disaster | Sandesh I DevOps - CI/CD - K8 | [Read More](https://medium.com/p/286fa9644d9c) |
-| Fri, 27 Jun 2025 11:21:04 GMT | Applying Kubernetes Network Policies: A Hands-On Walkthrough | cybe44oot | [Read More](https://medium.com/p/54004f489acb) |
-| Fri, 27 Jun 2025 11:18:49 GMT | Why Small Business Cybersecurity is Non-Negotiable in 2025 | Manya Ai | [Read More](https://medium.com/p/cb8d90276ff1) |
-| Fri, 27 Jun 2025 11:15:24 GMT | I’m Writing to You Before Anyone Knows My Name | Vell Soren | [Read More](https://medium.com/p/8d1d3111e595) |
-| Fri, 27 Jun 2025 11:13:50 GMT | St3g0 PicoCTF WriteUp | Aahan Patil | [Read More](https://medium.com/p/81abc9670703) |
-| Fri, 27 Jun 2025 11:12:24 GMT | Best Honeypots for Detecting Network Threats | Netlas.io | [Read More](https://medium.com/p/120b9a4d52d7) |
-| Fri, 27 Jun 2025 11:09:32 GMT | The Unbreakable Shield: How 2FA Saved My Career and Why It’s the Bug Bounty Hunter’s Best Friend | Krish_cyber | [Read More](https://medium.com/p/6d4a323d73f7) |
-| Fri, 27 Jun 2025 11:06:50 GMT | Cloud Hacking in 2025: Abusing AWS Misconfigurations with Real Examples | Sle3pyHead ‍ | [Read More](https://medium.com/p/d80d2b419e4d) |
-| Fri, 27 Jun 2025 11:00:20 GMT | samama bin abdul rehman
-2025 | Samama bin Abdul Rehman | [Read More](https://medium.com/p/e06aa974839b) |
-| Fri, 27 Jun 2025 10:59:33 GMT | QMSR Final Rule 2024 | Daniel James | [Read More](https://medium.com/p/6a761e584cad) |
