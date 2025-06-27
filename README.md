@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 03:56:18 GMT | Best Linux OS for Cybersecurity (2025 Guide for All Levels) | Creative Prash | [Read More](https://medium.com/p/7c24f316decc) |
+| Fri, 27 Jun 2025 03:52:06 GMT | Is Your Password Safe? Some mistakes You Must Avoid? | UpThoughts | [Read More](https://medium.com/p/1bed56622d06) |
+| Fri, 27 Jun 2025 03:31:20 GMT | Think You’re Downloading Google Chrome? Think Again, It Might Be Spyware in Disguise | Deven Chhajed | [Read More](https://medium.com/p/641bd516ecee) |
+| Fri, 27 Jun 2025 03:30:19 GMT | Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook (Part 2) | Criminal IP | [Read More](https://medium.com/p/6bfebd34f728) |
+| Fri, 27 Jun 2025 03:21:39 GMT | Securing DSPy’s MCP Integration: Programmatic AI Meets Enterprise Security | Rick Hightower | [Read More](https://medium.com/p/1eb742bbe69a) |
 | Fri, 27 Jun 2025 03:02:16 GMT | Turn Your Insecurities Into Superpowers | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/2eea4ef82095) |
 | Fri, 27 Jun 2025 03:01:21 GMT | The Web’s Safety Belt: HTTP vs HTTPS Explained + What an API Endpoint Is | Sweeton | [Read More](https://medium.com/p/23b2682c1d8f) |
 | Fri, 27 Jun 2025 02:57:33 GMT | Introducing the Concept of “Computational Prions”: A New Frontier in Systemic Exploits | zapper20 | [Read More](https://medium.com/p/c89f85a23152) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 18:31:20 GMT | How WhatsApp Has Killed My Recovery After Work | Dr. Patricia Schmidt - Psychology Ghostwriter | [Read More](https://medium.com/p/1ba25581b2e0) |
 | Thu, 26 Jun 2025 18:28:41 GMT | Have You Enabled Your Drive’s Encryption? | Opal Lock by Fidelity Height | [Read More](https://medium.com/p/1cac53e9967c) |
 | Thu, 26 Jun 2025 18:27:00 GMT | Racing the Quantum Threat: 5 Nations Compress Post-Quantum Cryptography Timelines | QuantumGenie | [Read More](https://medium.com/p/2b646b7b02c1) |
-| Thu, 26 Jun 2025 18:22:40 GMT | Can Caching Reduce the Attack Surface? | David | [Read More](https://medium.com/p/cc71b7df9980) |
-| Thu, 26 Jun 2025 18:20:29 GMT | Your SMS Inbox Has a Built-In Security Feature — Here’s How It Works | Vishnu prasad | [Read More](https://medium.com/p/605c27c87c0a) |
-| Thu, 26 Jun 2025 18:20:23 GMT | Everything You Need to Know About SOAP & How Pentesters Exploit Them? | Root-X-Admin | [Read More](https://medium.com/p/71f863dd228f) |
-| Thu, 26 Jun 2025 18:19:59 GMT | GetSimple - HTB Walkthrough | Yagan120gb | [Read More](https://medium.com/p/639bce352f2a) |
-| Thu, 26 Jun 2025 18:05:02 GMT | “Website Got Attacked!?” — How CSP Can Protect You | Bhupesh kumar | [Read More](https://medium.com/p/89981d28bb0f) |
