@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 10:44:05 GMT | One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global… | Elie Attieh | [Read More](https://medium.com/p/1cbc9a39e206) |
+| Fri, 27 Jun 2025 10:39:42 GMT | Microsoft 365 Direct Send Vulnerability: A Critical Security Blind Spot Exposing Organizations… | Technijian | [Read More](https://medium.com/p/80c2ad829131) |
+| Fri, 27 Jun 2025 10:38:38 GMT | Your Biggest Cybersecurity Weakness Is Yourself | Papaspyrou Alexandros | [Read More](https://medium.com/p/ab205862e8a8) |
+| Fri, 27 Jun 2025 10:38:30 GMT | Cyber Threats in Online Marketing Ads You Can’t Ignore! | Accorian | [Read More](https://medium.com/p/ef2f754e5d18) |
+| Fri, 27 Jun 2025 10:35:19 GMT | My Internship Journey with Oasis Infobyte - OIBSIP Experience | manoj mandal | [Read More](https://medium.com/p/ed349be5f48d) |
+| Fri, 27 Jun 2025 10:28:34 GMT | Decentralized Wireless Networks: Are They Sustainable? | A-STAR7_DOCTOR | [Read More](https://medium.com/p/013152e99eb6) |
+| Fri, 27 Jun 2025 10:27:41 GMT | FDA Cybersecurity Premarket 2024: SBOM-Driven Compliance Under Section 524B | Daniel James | [Read More](https://medium.com/p/bbb6c79d6b13) |
+| Fri, 27 Jun 2025 10:23:01 GMT | Bug | Matthew Klope | [Read More](https://medium.com/p/9f04d48a7c34) |
+| Fri, 27 Jun 2025 10:19:37 GMT | Why Choosing the Right Penetration Testing Company in India Matters for Your Business | StrongBox IT | [Read More](https://medium.com/p/a81990a2f189) |
 | Fri, 27 Jun 2025 10:14:47 GMT | Navigating the Cloud: A Beginner’s Guide to Microsoft Azure | Peter Parker | [Read More](https://medium.com/p/b81c16e9a9da) |
+| Fri, 27 Jun 2025 10:13:29 GMT | Você Não Sabe o que é Pentest, mas Está Fingindo que Sabe | Ivan Borakove - Иван Бораков | [Read More](https://medium.com/p/a5f36d2f2bf2) |
 | Fri, 27 Jun 2025 10:11:22 GMT | FenrirLock: From Password Manager to Digital Fortress — A Movement in the Making | Maxwell Wolfe | [Read More](https://medium.com/p/47ac6dec2373) |
 | Fri, 27 Jun 2025 10:02:09 GMT | Major U.S. Companies Keep Losing Your Data. What Can You Do? | Karl Buhl | [Read More](https://medium.com/p/7b406212d8cc) |
 | Fri, 27 Jun 2025 10:00:48 GMT | Cybersecurity Fundamentals Every Professional Must Know | NineTales | [Read More](https://medium.com/p/85536107871e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 03:31:20 GMT | Think You’re Downloading Google Chrome? Think Again, It Might Be Spyware in Disguise | Deven Chhajed | [Read More](https://medium.com/p/641bd516ecee) |
 | Fri, 27 Jun 2025 03:30:19 GMT | Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook (Part 2) | Criminal IP | [Read More](https://medium.com/p/6bfebd34f728) |
 | Fri, 27 Jun 2025 03:21:39 GMT | Securing DSPy’s MCP Integration: Programmatic AI Meets Enterprise Security | Rick Hightower | [Read More](https://medium.com/p/1eb742bbe69a) |
-| Fri, 27 Jun 2025 03:02:16 GMT | Turn Your Insecurities Into Superpowers | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/2eea4ef82095) |
-| Fri, 27 Jun 2025 03:01:21 GMT | The Web’s Safety Belt: HTTP vs HTTPS Explained + What an API Endpoint Is | Sweeton | [Read More](https://medium.com/p/23b2682c1d8f) |
-| Fri, 27 Jun 2025 02:57:33 GMT | Introducing the Concept of “Computational Prions”: A New Frontier in Systemic Exploits | zapper20 | [Read More](https://medium.com/p/c89f85a23152) |
-| Fri, 27 Jun 2025 02:56:28 GMT | TryHackMe: Industrial Intrusion — Writeup | Ansul Kotadia | [Read More](https://medium.com/p/7822dea8f7ca) |
-| Fri, 27 Jun 2025 02:56:12 GMT | The Things Men Wish They Could Say — But Don’t | Rendanup | [Read More](https://medium.com/p/ac081020c9e3) |
-| Fri, 27 Jun 2025 02:36:19 GMT | Industrial Intrusion Breach — THM CTF - Calista | Calista | [Read More](https://medium.com/p/058be77f38fa) |
-| Fri, 27 Jun 2025 02:30:04 GMT | Computer Networking | Amit Soni | [Read More](https://medium.com/p/6749dff84781) |
-| Fri, 27 Jun 2025 02:29:47 GMT | Graph Database Security: Neo4j and Amazon Neptune Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/21b16de92a4e) |
-| Fri, 27 Jun 2025 02:26:24 GMT | Cloud Database Security: AWS RDS vs Azure SQL vs Google Cloud SQL | Rizqi Mulki | [Read More](https://medium.com/p/b430d5027dfe) |
-| Fri, 27 Jun 2025 02:24:06 GMT | Database Activity Monitoring (DAM): Real-Time Threat Detection | Rizqi Mulki | [Read More](https://medium.com/p/02849a201c56) |
