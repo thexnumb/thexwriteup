@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 20:31:25 GMT | Is Security Worth It? The Value of Being Prepared | Jan Kneissler | [Read More](https://medium.com/p/a05d09ac0387) |
 | Fri, 27 Jun 2025 19:56:12 GMT | Training Update for GSEC — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/8106f96cfc86) |
 | Fri, 27 Jun 2025 19:38:21 GMT | Unpacking GlobeImposter Ransomware With x32dbg | Mustapha Ait Ichou | [Read More](https://medium.com/p/085fa68e83b2) |
 | Fri, 27 Jun 2025 19:37:09 GMT | How to Spot a Phishing Email ? | Harishkumar Pillai | [Read More](https://medium.com/p/ee3fa950a10e) |
@@ -112,4 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 14:02:54 GMT | UX in Agentic AI Systems | Animesh Srivastava | [Read More](https://medium.com/p/0b8be03bbdb2) |
 | Fri, 27 Jun 2025 14:02:47 GMT | e‑Zero FIR: India’s New Weapon Against High‑Value Cyber Fraud | Hacker news 07 | [Read More](https://medium.com/p/5231471b2dae) |
 | Fri, 27 Jun 2025 13:59:43 GMT | Kerberoasting My Way Through CRTP: A Practical Review | Mahmoud Elhendy | [Read More](https://medium.com/p/490a4bb13041) |
-| Fri, 27 Jun 2025 13:59:38 GMT | Cyber Briefing: 2025.06.27 | CyberMaterial | [Read More](https://medium.com/p/928a727aebf6) |
