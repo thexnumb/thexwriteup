@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 17:34:23 GMT | DFIR Services: The Frontline Defense Against Cyber Incidents | SafeAeon Inc. | [Read More](https://medium.com/p/816ad3af7d2d) |
+| Fri, 27 Jun 2025 17:34:21 GMT | The Weekly Threat Round-up 23/06/2025–27/06/2025 | RileyHv | [Read More](https://medium.com/p/ac562308618e) |
+| Fri, 27 Jun 2025 17:34:11 GMT | Cybersecurity News Review — Week 26 (2025) | Mladen Kirilov | [Read More](https://medium.com/p/66bf42931f73) |
+| Fri, 27 Jun 2025 17:26:13 GMT | Password Encryption: Why It’s Critical for Data Security | SafeAeon Inc. | [Read More](https://medium.com/p/20931e979a8c) |
+| Fri, 27 Jun 2025 17:24:13 GMT | Portas e Port Scanning | Filipe Campos | [Read More](https://medium.com/p/90a8f6116400) |
+| Fri, 27 Jun 2025 17:13:06 GMT | About Me | DarKVoicE | [Read More](https://medium.com/p/94c534b736b9) |
+| Fri, 27 Jun 2025 17:10:39 GMT | AI Objectives and Planning to Achieve Them (Clause 6.2 of ISO 42001) | Mohit Vaishnav | [Read More](https://medium.com/p/f620f7194727) |
+| Fri, 27 Jun 2025 17:09:45 GMT | What Is Web Application Delivery and Security? | Jack Beesley | [Read More](https://medium.com/p/92f5b02659dc) |
 | Fri, 27 Jun 2025 17:08:19 GMT | The Code That Saved Me: How a Broken Laptop Fixed My Life | Azmat Ali | [Read More](https://medium.com/p/58c20d6a6eb3) |
 | Fri, 27 Jun 2025 17:06:36 GMT | CKAD Notes: Security Context | Nicolas Barlatier | [Read More](https://medium.com/p/476fc095b847) |
 | Fri, 27 Jun 2025 17:05:42 GMT | Women in Cybersecurity: Participation, Challenges, and Opportunities in India | Sreya shyjash | [Read More](https://medium.com/p/7ecb26657023) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 12:07:06 GMT | Why I’m Building Something to Ask the Questions I Can’t | hael - Family Story Curator | [Read More](https://medium.com/p/2dbdfecde3b4) |
 | Fri, 27 Jun 2025 12:05:57 GMT | Exploits Escalate: KEV Inclusions, Botnet Activity, and Malware Campaigns | Loginsoft | [Read More](https://medium.com/p/f2ce6058eaca) |
 | Fri, 27 Jun 2025 12:02:50 GMT | Top Reasons to Hire a Penetration Testing Company: Benefits for Every Business | CyberNX Technologies Pvt Ltd | [Read More](https://medium.com/p/370478edd3cf) |
-| Fri, 27 Jun 2025 11:58:11 GMT | How important are cloud transformation security services? | Invensis Technologies Pvt Ltd | [Read More](https://medium.com/p/e80bb02434b8) |
-| Fri, 27 Jun 2025 11:57:53 GMT | Understanding JWT Token Collisions — Why This Happens & How to Prevent This | Hritik Kumar Sinha | [Read More](https://medium.com/p/c72e1795a7cf) |
-| Fri, 27 Jun 2025 11:52:58 GMT | Millions Urged to Update Passwords After Massive Data Leak Found Online | Muneeb Sikhani | [Read More](https://medium.com/p/f60b29d70c9d) |
-| Fri, 27 Jun 2025 11:48:51 GMT | Red Rooms on the Dark Web: Myth, Marketing, or Malice? | adityaax | [Read More](https://medium.com/p/74c94593de8e) |
-| Fri, 27 Jun 2025 11:46:00 GMT | WebApp Security Checklist for Businesses in the USA - Protect Your Data | Jenny smith | [Read More](https://medium.com/p/e1398600ca10) |
-| Fri, 27 Jun 2025 11:36:06 GMT | An Excellent Tool For OSINT Investigators | loyalonlytoday | [Read More](https://medium.com/p/f1e7caffa012) |
-| Fri, 27 Jun 2025 11:33:33 GMT | What happened to UC Browser? | Ashfan US | [Read More](https://medium.com/p/f142b1c056c7) |
-| Fri, 27 Jun 2025 11:30:29 GMT | URGENT: I Just Exposed a Massive LinkedIn Job Scam | Mossab Kbeisy | [Read More](https://medium.com/p/f4ccdbf4e4ca) |
