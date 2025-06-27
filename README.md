@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 10:14:47 GMT | Navigating the Cloud: A Beginner’s Guide to Microsoft Azure | Peter Parker | [Read More](https://medium.com/p/b81c16e9a9da) |
+| Fri, 27 Jun 2025 10:11:22 GMT | FenrirLock: From Password Manager to Digital Fortress — A Movement in the Making | Maxwell Wolfe | [Read More](https://medium.com/p/47ac6dec2373) |
+| Fri, 27 Jun 2025 10:02:09 GMT | Major U.S. Companies Keep Losing Your Data. What Can You Do? | Karl Buhl | [Read More](https://medium.com/p/7b406212d8cc) |
+| Fri, 27 Jun 2025 10:00:48 GMT | Cybersecurity Fundamentals Every Professional Must Know | NineTales | [Read More](https://medium.com/p/85536107871e) |
+| Fri, 27 Jun 2025 09:59:28 GMT | Not All Judgement is Meant to Hurt | Nimas Muslimah | [Read More](https://medium.com/p/5983957bbb6b) |
+| Fri, 27 Jun 2025 09:58:47 GMT | Kill Selfhost Program With My Custom Dorks | Shuvo Kumar Saha | [Read More](https://medium.com/p/839f528217df) |
+| Fri, 27 Jun 2025 09:54:11 GMT | They’re Not Professors. They’re Hackers. | Srinivasps | [Read More](https://medium.com/p/09595bfd6310) |
+| Fri, 27 Jun 2025 09:51:22 GMT | APT35 Shifts Focus to Academic Targets | Hari Rahul | [Read More](https://medium.com/p/accc07001764) |
+| Fri, 27 Jun 2025 09:50:13 GMT | SANS SEC595: Applied Data Science and AI/Machine Learning for Cybersecurity Professionals™ | checkm4te | [Read More](https://medium.com/p/1869b9c892b4) |
+| Fri, 27 Jun 2025 09:48:21 GMT | Academic Impersonation Is the New Phishing Weapon | Manish | [Read More](https://medium.com/p/75e81303b300) |
 | Fri, 27 Jun 2025 09:40:41 GMT | Zero-Day Vulnerabilities | Janith Rathnayake | [Read More](https://medium.com/p/5892b02fc115) |
 | Fri, 27 Jun 2025 09:29:03 GMT | Hijacking Email Verification: A Real-World Account Takeover via Resend OTP Tampering | Aman Banga | [Read More](https://medium.com/p/89cae414746e) |
 | Fri, 27 Jun 2025 09:28:17 GMT | Understanding the Safe & Secure use of Large Language Models | Mitchell Verhaar | [Read More](https://medium.com/p/53939b9b896e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 02:29:47 GMT | Graph Database Security: Neo4j and Amazon Neptune Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/21b16de92a4e) |
 | Fri, 27 Jun 2025 02:26:24 GMT | Cloud Database Security: AWS RDS vs Azure SQL vs Google Cloud SQL | Rizqi Mulki | [Read More](https://medium.com/p/b430d5027dfe) |
 | Fri, 27 Jun 2025 02:24:06 GMT | Database Activity Monitoring (DAM): Real-Time Threat Detection | Rizqi Mulki | [Read More](https://medium.com/p/02849a201c56) |
-| Fri, 27 Jun 2025 02:16:45 GMT | ElasticSearch Security: Securing Your Search Analytics Data | Rizqi Mulki | [Read More](https://medium.com/p/e93a48dbcd1b) |
-| Fri, 27 Jun 2025 02:09:08 GMT | MySQL 8.0 Security Features: Transparent Data Encryption Setup | Rizqi Mulki | [Read More](https://medium.com/p/7960f6eca214) |
-| Fri, 27 Jun 2025 02:05:41 GMT | PostgreSQL Security Hardening: Row-Level Security Implementation | Rizqi Mulki | [Read More](https://medium.com/p/441f795aa323) |
-| Fri, 27 Jun 2025 01:58:27 GMT | Redis Security: Preventing Unauthorized Access and Data Leakage | Rizqi Mulki | [Read More](https://medium.com/p/46278d4f2bb3) |
-| Fri, 27 Jun 2025 01:43:15 GMT | NoSQL Injection: MongoDB and Cassandra Security Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/9cd258679221) |
-| Fri, 27 Jun 2025 01:22:31 GMT | My information is mine to keep! | SAYCOIN | [Read More](https://medium.com/p/191611370342) |
-| Fri, 27 Jun 2025 01:11:56 GMT | The Male Vulnerability Myth | Traver Boehm | [Read More](https://medium.com/p/27b6c8b86a19) |
-| Fri, 27 Jun 2025 01:03:31 GMT | Troubleshooting CORS Errors with AWS API Gateway | Nolan Donovan | [Read More](https://medium.com/p/e212c85deea5) |
-| Fri, 27 Jun 2025 01:02:41 GMT | Part 1: Project Counterstrike: Stopping My Own Keylogger | Shaun Fulton | [Read More](https://medium.com/p/b4b268e94aaa) |
-| Fri, 27 Jun 2025 00:54:55 GMT | Bypass Root Detection — Flutter Jailbreak Detection | Rayhan Hanaputra | [Read More](https://medium.com/p/65f1dbb9cbf3) |
