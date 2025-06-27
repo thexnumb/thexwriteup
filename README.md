@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 21:28:25 GMT | Exposure Protocol: Information Disclosure in the Wild [Part 4] ️ | Aditya Bhatt | [Read More](https://medium.com/p/779babe65576) |
+| Fri, 27 Jun 2025 21:20:06 GMT | What is a 51% Attack? Are Bitcoin and Ethereum Safe? | Auric Crypto News | [Read More](https://medium.com/p/245643ba8996) |
 | Fri, 27 Jun 2025 21:10:51 GMT | Cyber Centre Confirms Canadian Telecom Hack Tied to China-Linked Group | Silent Boardroom | [Read More](https://medium.com/p/bfe742f69568) |
 | Fri, 27 Jun 2025 21:09:39 GMT | TryHackMe Nax — Walkthrough | mauzware | [Read More](https://medium.com/p/1220bc2bc922) |
 | Fri, 27 Jun 2025 20:58:24 GMT | Demystifying CSRF: A Practical Guide to Defending Your Spring Boot Application ️ | Umesh Kumar Yadav | [Read More](https://medium.com/p/d6b1b7569074) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 14:36:03 GMT | How to reset raspberry pi pico w completely | Agape HearTs | [Read More](https://medium.com/p/25bce5eb1881) |
 | Fri, 27 Jun 2025 14:20:32 GMT | How to Detect SQL Injection — step by step instruction | Demianchuk Sergii | [Read More](https://medium.com/p/73a0eb6093dc) |
 | Fri, 27 Jun 2025 14:17:52 GMT | How Hackers can Hijack your RDP Session and Steal Password | Bendjaballah Zine Eddine | [Read More](https://medium.com/p/dcc16ce33f97) |
-| Fri, 27 Jun 2025 14:16:01 GMT | Strategic Vulnerability Management: Beyond Patch Tuesday Panic | Ola Lawrence O | [Read More](https://medium.com/p/308e8efe3e9e) |
-| Fri, 27 Jun 2025 14:14:39 GMT | The Bruise Learned to Reflect Light — Anomaly #8 | Raymond Brunell | [Read More](https://medium.com/p/1a59d5d118c0) |
