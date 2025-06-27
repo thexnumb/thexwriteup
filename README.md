@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 09:40:41 GMT | Zero-Day Vulnerabilities | Janith Rathnayake | [Read More](https://medium.com/p/5892b02fc115) |
+| Fri, 27 Jun 2025 09:29:03 GMT | Hijacking Email Verification: A Real-World Account Takeover via Resend OTP Tampering | Aman Banga | [Read More](https://medium.com/p/89cae414746e) |
+| Fri, 27 Jun 2025 09:28:17 GMT | Understanding the Safe & Secure use of Large Language Models | Mitchell Verhaar | [Read More](https://medium.com/p/53939b9b896e) |
+| Fri, 27 Jun 2025 09:25:32 GMT | VerifyVASP Renews SOC 2 Type II Assessment | VerifyVASP | [Read More](https://medium.com/p/e8dc70d06a75) |
+| Fri, 27 Jun 2025 09:23:47 GMT | How a Simple Bug in C Code Crippled AT&T’s Network | Aditya Bhuyan | [Read More](https://medium.com/p/0f3a158a25f3) |
+| Fri, 27 Jun 2025 09:23:05 GMT | I Didn’t Know My Everyday Habits Hid My Mental Struggle | Aamil_MS | [Read More](https://medium.com/p/0c1c0f9128fb) |
+| Fri, 27 Jun 2025 09:22:05 GMT | Git commands for Security Assessments | Bharath | [Read More](https://medium.com/p/323ce1595443) |
+| Fri, 27 Jun 2025 09:19:35 GMT | The Ultimate Guide to Network Monitoring Tools and Licenses | Arpaliz | [Read More](https://medium.com/p/d8d77e891f6b) |
 | Fri, 27 Jun 2025 09:17:09 GMT | Why We Must Ban Russian Soldiers | Brian Iselin | [Read More](https://medium.com/p/92d7824a4d51) |
 | Fri, 27 Jun 2025 09:15:25 GMT | The Growing Importance of Electronic Security Solutions and Facility Management in India | Ciss India | [Read More](https://medium.com/p/b351425b384e) |
 | Fri, 27 Jun 2025 09:07:53 GMT | Cybersecurity Course in Kochi | Adithyadev | [Read More](https://medium.com/p/43b61261c2f9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 01:03:31 GMT | Troubleshooting CORS Errors with AWS API Gateway | Nolan Donovan | [Read More](https://medium.com/p/e212c85deea5) |
 | Fri, 27 Jun 2025 01:02:41 GMT | Part 1: Project Counterstrike: Stopping My Own Keylogger | Shaun Fulton | [Read More](https://medium.com/p/b4b268e94aaa) |
 | Fri, 27 Jun 2025 00:54:55 GMT | Bypass Root Detection — Flutter Jailbreak Detection | Rayhan Hanaputra | [Read More](https://medium.com/p/65f1dbb9cbf3) |
-| Fri, 27 Jun 2025 00:48:47 GMT | Hackers Found Your Docker. Then They Found Your Wallet. | Cyber-AppSec | [Read More](https://medium.com/p/fdbcf1f32d32) |
-| Fri, 27 Jun 2025 00:44:51 GMT | Pat Adamson Store | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/5514151d6fd4) |
-| Fri, 27 Jun 2025 00:41:40 GMT | Zero Trust Architecture for Data | D Alvarez | [Read More](https://medium.com/p/b87535185a8f) |
-| Fri, 27 Jun 2025 00:35:06 GMT | Live Red Team Simulation of Global Incident Response: Inside the Elite Cyber Wargame | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4a431326c14b) |
-| Fri, 27 Jun 2025 00:13:17 GMT | MY First Bounty - Pre Account take Over via respon manipulation- Pre ATO | NERVHYM | [Read More](https://medium.com/p/ababd7ca46aa) |
-| Fri, 27 Jun 2025 00:08:42 GMT | Addressing Container Image Vulnerabilities in SAS Viya on AWS EKS | Bran Kop, Engineer @Conformal, Founder of aiHQ | [Read More](https://medium.com/p/1aea674fdea7) |
-| Thu, 26 Jun 2025 23:57:49 GMT | AI vs AI in Cybersecurity: The Digital Arms Race Between Attackers and Defenders | Muhammad Ali | [Read More](https://medium.com/p/b4c1d12f45b5) |
-| Thu, 26 Jun 2025 23:46:33 GMT | Responsible Disclosure: Publicly Leaked Credentials Found for peterdo.net | Omar | [Read More](https://medium.com/p/662019e605c6) |
