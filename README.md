@@ -14,6 +14,7 @@ A list of the latest fetched articles from RSS feeds.
 |------|-------|--------|------|
 | Fri, 27 Jun 2025 14:17:52 GMT | How Hackers can Hijack your RDP Session and Steal Password | Bendjaballah Zine Eddine | [Read More](https://medium.com/p/dcc16ce33f97) |
 | Fri, 27 Jun 2025 14:16:01 GMT | Strategic Vulnerability Management: Beyond Patch Tuesday Panic | Ola Lawrence O | [Read More](https://medium.com/p/308e8efe3e9e) |
+| Fri, 27 Jun 2025 14:14:39 GMT | The Bruise Learned to Reflect Light — Anomaly #8 | Raymond Brunell | [Read More](https://medium.com/p/1a59d5d118c0) |
 | Fri, 27 Jun 2025 14:12:01 GMT | My Secret Facebook Bug Hunting Tricks Exposed | Ibtissam hammadi | [Read More](https://medium.com/p/eb00bcb46d89) |
 | Fri, 27 Jun 2025 14:10:47 GMT | A Clean File Upload Experience in React: react-dropzone and Toast Notifications | Patricia Njoroge | [Read More](https://medium.com/p/4bdc84b38741) |
 | Fri, 27 Jun 2025 14:03:31 GMT | Dumping and Cracking Hashes--Impacket-Srcretsdump--SecretsDump.py--Hashcat--AD | Muhammadhuzaifa | [Read More](https://medium.com/p/eeb275c905e9) |
@@ -113,4 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 09:28:17 GMT | Understanding the Safe & Secure use of Large Language Models | Mitchell Verhaar | [Read More](https://medium.com/p/53939b9b896e) |
 | Fri, 27 Jun 2025 09:25:32 GMT | VerifyVASP Renews SOC 2 Type II Assessment | VerifyVASP | [Read More](https://medium.com/p/e8dc70d06a75) |
 | Fri, 27 Jun 2025 09:23:47 GMT | How a Simple Bug in C Code Crippled AT&T’s Network | Aditya Bhuyan | [Read More](https://medium.com/p/0f3a158a25f3) |
-| Fri, 27 Jun 2025 09:23:05 GMT | I Didn’t Know My Everyday Habits Hid My Mental Struggle | Aamil_MS | [Read More](https://medium.com/p/0c1c0f9128fb) |
