@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 05:18:53 GMT | WiFi Pineapple Cloner and Frieren: Open-Source WiFi Pentesting Tools | Nick Sanchez | [Read More](https://medium.com/p/7bef7d5dd40a) |
+| Fri, 27 Jun 2025 05:16:57 GMT | The CyberDiplomat’s Daily Report | The CyberDiplomat LLC | [Read More](https://medium.com/p/a1799e3300eb) |
+| Fri, 27 Jun 2025 05:15:04 GMT | USA’s ChatGPT vs China’s DeepSeek: My Deep Dive Into the AI Battle of 2025 | Saikat Paul | [Read More](https://medium.com/p/16ff4e02463a) |
+| Fri, 27 Jun 2025 05:14:25 GMT | ⚔️ Generative AI vs. Agentic AI: Why the Real Cybersecurity Threat Is What Comes Next | zahidul Islam Ratul | [Read More](https://medium.com/p/045cd9fab7ae) |
+| Fri, 27 Jun 2025 05:05:52 GMT | Windows Logging For SOC Room - TryHackMe | Dhwanit Pandya | [Read More](https://medium.com/p/40fc0d049ee1) |
+| Fri, 27 Jun 2025 05:04:16 GMT | VPC, Security Groups and NACLs in AWS | Krishna Manoj | [Read More](https://medium.com/p/b32e75fc6ef3) |
+| Fri, 27 Jun 2025 05:03:12 GMT | AI Agents in Cybersecurity: The Quiet Guardians Behind Modern Digital Defense.❗ | SupportXDR | [Read More](https://medium.com/p/67db13608329) |
+| Fri, 27 Jun 2025 04:51:35 GMT | Keep Your Crypto Safe with a Bitcoin Paper Wallet | sonika chungi | [Read More](https://medium.com/p/3cdbfbce98c7) |
 | Fri, 27 Jun 2025 04:49:23 GMT | Penetration Testing Australia: Meeting Client Security Expectations and Excelling in Vendor… | Steve McLaughlin | [Read More](https://medium.com/p/3790a622c483) |
 | Fri, 27 Jun 2025 04:33:07 GMT | What They Never Told Me About Honesty | Jovie Moon | [Read More](https://medium.com/p/c6e454ed84d3) |
 | Fri, 27 Jun 2025 04:29:12 GMT | XSS at U.S. Department of Education | AbhirupKonwar | [Read More](https://medium.com/p/771bf5b0a003) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 19:24:22 GMT | SQLi in the Cloud, Root on the Board: A Beginner’s Journey into IoT Hacking | Pundhapat | [Read More](https://medium.com/p/06efb2539a21) |
 | Thu, 26 Jun 2025 19:20:24 GMT | The Door You Never Walked Through… and Now It’s Closed | Ckan Johnson | [Read More](https://medium.com/p/4e1355b8b43f) |
 | Thu, 26 Jun 2025 19:17:17 GMT | From Chattanooga to Austin: Building Smarter Cities Through Utility Innovation | David Johnson | [Read More](https://medium.com/p/d710a41f1fb2) |
-| Thu, 26 Jun 2025 19:07:53 GMT | 27 Cybersecurity Conferences in Singapore | Tal Eliyahu | [Read More](https://medium.com/p/87694ba84da0) |
-| Thu, 26 Jun 2025 19:01:54 GMT | How I Found a Web App’s Full Source Code in Less Than 5 Minutes | m0rd3caii | [Read More](https://medium.com/p/337d52421c2a) |
-| Thu, 26 Jun 2025 18:56:32 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/1b272f736443) |
-| Thu, 26 Jun 2025 18:56:07 GMT | TryHackMe: Industrial Intrusion — Warmup Room - Write-Up | Jatin Gahlot | [Read More](https://medium.com/p/49b61ca4ef79) |
-| Thu, 26 Jun 2025 18:55:36 GMT | No One Knows Where the PII Is — Until It’s Too Late | The Data Engineer Guy | [Read More](https://medium.com/p/13cedb308d1b) |
-| Thu, 26 Jun 2025 18:52:52 GMT | Geth 源码系列：交易设计及实现 | LXDAO | [Read More](https://medium.com/p/2859e75149b4) |
-| Thu, 26 Jun 2025 18:44:31 GMT | The Digital Keys to Your Kingdom: Why IAM is the Unsung Hero of Cybersecurity | Siri S Nadig | [Read More](https://medium.com/p/20894ea71270) |
-| Thu, 26 Jun 2025 18:41:04 GMT | Been independent for too long. | kn.gnth | [Read More](https://medium.com/p/219012be081b) |
