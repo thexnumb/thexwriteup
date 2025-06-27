@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 15:11:08 GMT | 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts | cyberwinx | [Read More](https://medium.com/p/a4bc982bf8a6) |
+| Fri, 27 Jun 2025 15:02:14 GMT | Serial Cyber Offenses: Behavioral Profiling and Linkage Analysis of Cases | Larissa Mendes-Egbuna | [Read More](https://medium.com/p/d925c14ee0b7) |
+| Fri, 27 Jun 2025 15:01:44 GMT | Understanding the CIA Triad in Simple Terms | Gaarv Chauhan | [Read More](https://medium.com/p/18df3e429819) |
+| Fri, 27 Jun 2025 14:58:47 GMT | Secure Coding Part 4: Command Injection — Introduction | Siddiquimohammad | [Read More](https://medium.com/p/b1ad2f910b31) |
+| Fri, 27 Jun 2025 14:56:50 GMT | [Security] 블루팀 홈 랩 구축 Part 1 — 소개 (Building a Blue Team Home Lab Part 1 — Introduction) | mer1 | [Read More](https://medium.com/p/ca2ff942059a) |
+| Fri, 27 Jun 2025 14:51:47 GMT | Why We Still Take Risks Online — Even When We Know Better | Scarlett Scarlett | [Read More](https://medium.com/p/570a0d2b2f4f) |
+| Fri, 27 Jun 2025 14:50:07 GMT | Supporting Neurodiverse Talent in Cybersecurity and IT: A Strategic Approach Using Psychometrics… | Adrian McGarry | [Read More](https://medium.com/p/2f75662887a0) |
+| Fri, 27 Jun 2025 14:45:35 GMT | Migrating to the Cloud: A Consultant’s Guide to Success | Ans Rehman | [Read More](https://medium.com/p/de8bd62168fd) |
+| Fri, 27 Jun 2025 14:36:03 GMT | How to reset raspberry pi pico w completely | Agape HearTs | [Read More](https://medium.com/p/25bce5eb1881) |
+| Fri, 27 Jun 2025 14:20:32 GMT | How to Detect SQL Injection — step by step instruction | Demianchuk Sergii | [Read More](https://medium.com/p/73a0eb6093dc) |
 | Fri, 27 Jun 2025 14:17:52 GMT | How Hackers can Hijack your RDP Session and Steal Password | Bendjaballah Zine Eddine | [Read More](https://medium.com/p/dcc16ce33f97) |
 | Fri, 27 Jun 2025 14:16:01 GMT | Strategic Vulnerability Management: Beyond Patch Tuesday Panic | Ola Lawrence O | [Read More](https://medium.com/p/308e8efe3e9e) |
 | Fri, 27 Jun 2025 14:14:39 GMT | The Bruise Learned to Reflect Light — Anomaly #8 | Raymond Brunell | [Read More](https://medium.com/p/1a59d5d118c0) |
@@ -104,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 10:02:09 GMT | Major U.S. Companies Keep Losing Your Data. What Can You Do? | Karl Buhl | [Read More](https://medium.com/p/7b406212d8cc) |
 | Fri, 27 Jun 2025 10:00:48 GMT | Cybersecurity Fundamentals Every Professional Must Know | NineTales | [Read More](https://medium.com/p/85536107871e) |
 | Fri, 27 Jun 2025 09:59:28 GMT | Not All Judgement is Meant to Hurt | Nimas Muslimah | [Read More](https://medium.com/p/5983957bbb6b) |
-| Fri, 27 Jun 2025 09:58:47 GMT | Kill Selfhost Program With My Custom Dorks | Shuvo Kumar Saha | [Read More](https://medium.com/p/839f528217df) |
-| Fri, 27 Jun 2025 09:54:11 GMT | They’re Not Professors. They’re Hackers. | Srinivasps | [Read More](https://medium.com/p/09595bfd6310) |
-| Fri, 27 Jun 2025 09:51:22 GMT | APT35 Shifts Focus to Academic Targets | Hari Rahul | [Read More](https://medium.com/p/accc07001764) |
-| Fri, 27 Jun 2025 09:50:13 GMT | SANS SEC595: Applied Data Science and AI/Machine Learning for Cybersecurity Professionals™ | checkm4te | [Read More](https://medium.com/p/1869b9c892b4) |
-| Fri, 27 Jun 2025 09:48:21 GMT | Academic Impersonation Is the New Phishing Weapon | Manish | [Read More](https://medium.com/p/75e81303b300) |
-| Fri, 27 Jun 2025 09:40:41 GMT | Zero-Day Vulnerabilities | Janith Rathnayake | [Read More](https://medium.com/p/5892b02fc115) |
-| Fri, 27 Jun 2025 09:29:03 GMT | Hijacking Email Verification: A Real-World Account Takeover via Resend OTP Tampering | Aman Banga | [Read More](https://medium.com/p/89cae414746e) |
-| Fri, 27 Jun 2025 09:28:17 GMT | Understanding the Safe & Secure use of Large Language Models | Mitchell Verhaar | [Read More](https://medium.com/p/53939b9b896e) |
-| Fri, 27 Jun 2025 09:25:32 GMT | VerifyVASP Renews SOC 2 Type II Assessment | VerifyVASP | [Read More](https://medium.com/p/e8dc70d06a75) |
-| Fri, 27 Jun 2025 09:23:47 GMT | How a Simple Bug in C Code Crippled AT&T’s Network | Aditya Bhuyan | [Read More](https://medium.com/p/0f3a158a25f3) |
