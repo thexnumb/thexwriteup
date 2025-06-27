@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 07:36:15 GMT | Today’s Top Cyber Intelligence Highlights — Jun 27, 2025 | Dr. Fahim K Sufi, CTO & Research Scientist | [Read More](https://medium.com/p/256a00fb8479) |
+| Fri, 27 Jun 2025 07:32:40 GMT | HackTheBox Writeup — Delivery | Simardeep Singh | [Read More](https://medium.com/p/e676fb2402a4) |
+| Fri, 27 Jun 2025 07:24:51 GMT | Enlightenment 2.0: The AI Emperor’s True Clothes — Sculpting Common Sense in the Digital Cosmos | Josephis K. Wade | [Read More](https://medium.com/p/9cbfbca5cde6) |
+| Fri, 27 Jun 2025 07:23:56 GMT | ประจำวันศุกร์ที่ 27 มิถุนายน 2568 | ThaiCERT By NCSA | [Read More](https://medium.com/p/5840520b65af) |
+| Fri, 27 Jun 2025 07:18:58 GMT | How Do Mobile Application Development Services Drive Digital Growth? | Remand Simon | [Read More](https://medium.com/p/5fe7b6ce00c7) |
+| Fri, 27 Jun 2025 07:14:33 GMT | How to Set Up Smart Notifications in SafeLine (v8.8+) | AerieWhole123 | [Read More](https://medium.com/p/442741f7fd27) |
 | Fri, 27 Jun 2025 07:05:11 GMT | Unveiling Steam’s $7500 Bounty: Buffer Overrun in SILK Voice Decoder | Monika sharma | [Read More](https://medium.com/p/22a5ad05dca2) |
 | Fri, 27 Jun 2025 07:04:09 GMT | Adversarial AI in the Wild: Defending Against Attacks You Never Saw Coming | Abduldattijo | [Read More](https://medium.com/p/581d5cf7f3db) |
 | Fri, 27 Jun 2025 07:02:29 GMT | Information Disclosure part-3 : Source code disclosure via backup files | Ahmad Sopyan | [Read More](https://medium.com/p/ce26138745c7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 20:54:09 GMT | State-Sponsored Cyber Warfare | Pentestjunkie07 | [Read More](https://medium.com/p/17451d2579db) |
 | Thu, 26 Jun 2025 20:38:01 GMT | Escalating threats driven by Artificial Intelligence (AI) | Inforsecpro | [Read More](https://medium.com/p/e03ae5d5a51e) |
 | Thu, 26 Jun 2025 20:36:10 GMT | Remote Access, Minus the Guesswork | Steve Coleman | [Read More](https://medium.com/p/896f931b26e8) |
-| Thu, 26 Jun 2025 20:35:07 GMT | Why I Think YUBICO Is Poised for a 100%+ Gain in the Next 5 Years | Jaylen Teixeira | [Read More](https://medium.com/p/faf862446208) |
-| Thu, 26 Jun 2025 20:30:58 GMT | Best Practices: The 5 Cloud Security Hacks That Saved My Career (And $47K in Breach Costs) | AbdulRahman Mostafa | [Read More](https://medium.com/p/c7542c5d0f91) |
-| Thu, 26 Jun 2025 20:30:35 GMT | Securing DevSecOps Workflows with AI: A Playbook for Startups and Small Teams | Mike Attara | [Read More](https://medium.com/p/e6ac839e993c) |
-| Thu, 26 Jun 2025 20:30:32 GMT | AI Security Frameworks: Adapting Defence-in-Depth for Frontier AI | Mike Attara | [Read More](https://medium.com/p/3927158f7241) |
-| Thu, 26 Jun 2025 20:28:28 GMT | Why You Need a Password Manager | NK Cyber | [Read More](https://medium.com/p/64676a86785e) |
-| Thu, 26 Jun 2025 20:23:17 GMT | Shellcode Encryption using Speck | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d72b9d6dc0ee) |
