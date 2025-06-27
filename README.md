@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 06:21:47 GMT | CVE-2024–49113: Windows LDAP Flaw Lets Hackers Crash Domain Controllers | AerieWhole123 | [Read More](https://medium.com/p/e5890e475dba) |
+| Fri, 27 Jun 2025 06:18:59 GMT | 병원의 개념? 일반적으로 아프면 가는곳이며 치료 받기 위한곳 입니다. | 이상덕 (KOREA Republic of) | [Read More](https://medium.com/p/adcf589fe42c) |
+| Fri, 27 Jun 2025 05:51:13 GMT | Zoomcar Data Breach 2025: What Went Wrong? | Zeron | [Read More](https://medium.com/p/c7f2c9e0ee8a) |
+| Fri, 27 Jun 2025 05:49:17 GMT | Homelab 101: Build Your Own IT Sandbox with Spare Hardware | Nick Sanchez | [Read More](https://medium.com/p/5a39d22be971) |
+| Fri, 27 Jun 2025 05:48:22 GMT | HACKING AND CYBER SECURITY | Harrisonssentongo | [Read More](https://medium.com/p/6e8748abb2e3) |
 | Fri, 27 Jun 2025 05:31:29 GMT | Can a 4–20 mA sensor be connected to a PLC analog input card that only accepts voltage (0–10 V)? | Asteamtechno | [Read More](https://medium.com/p/0271838f6e3c) |
 | Fri, 27 Jun 2025 05:24:19 GMT | [HTB — Write Up] Breaching the Nibbles Machine | Mark Neilsen Paguirigan (M4RI< 413X1) | [Read More](https://medium.com/p/955e309ddd48) |
 | Fri, 27 Jun 2025 05:18:53 GMT | WiFi Pineapple Cloner and Frieren: Open-Source WiFi Pentesting Tools | Nick Sanchez | [Read More](https://medium.com/p/7bef7d5dd40a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 19:42:29 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/c77c5091ffa8) |
 | Thu, 26 Jun 2025 19:40:48 GMT | Broken Access Control via Hardcoded Bearer Token in Public JS File | nooh zidan | [Read More](https://medium.com/p/b2f6c87b4d44) |
 | Thu, 26 Jun 2025 19:39:25 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/e5c60c1c809c) |
-| Thu, 26 Jun 2025 19:35:36 GMT | WORKING EVENT SECURITY; | Barry James | [Read More](https://medium.com/p/f304268eacc3) |
-| Thu, 26 Jun 2025 19:28:35 GMT | Bypass CSRF attack in json and get €XXX | Kirollos Botros | [Read More](https://medium.com/p/d8dea24d7c0b) |
-| Thu, 26 Jun 2025 19:28:00 GMT | 10 Mind-Blowing Facts About Cybersecurity | ArthurLizLimaa | [Read More](https://medium.com/p/e648e5ae5fc4) |
-| Thu, 26 Jun 2025 19:26:09 GMT | Safeguard Your Linux System: Scanning for Malware and Rootkits with Rootkit Hunter | Lince Mathew | [Read More](https://medium.com/p/2e2836c38d31) |
-| Thu, 26 Jun 2025 19:24:22 GMT | SQLi in the Cloud, Root on the Board: A Beginner’s Journey into IoT Hacking | Pundhapat | [Read More](https://medium.com/p/06efb2539a21) |
