@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 21:10:51 GMT | Cyber Centre Confirms Canadian Telecom Hack Tied to China-Linked Group | Silent Boardroom | [Read More](https://medium.com/p/bfe742f69568) |
+| Fri, 27 Jun 2025 21:09:39 GMT | TryHackMe Nax — Walkthrough | mauzware | [Read More](https://medium.com/p/1220bc2bc922) |
+| Fri, 27 Jun 2025 20:58:24 GMT | Demystifying CSRF: A Practical Guide to Defending Your Spring Boot Application ️ | Umesh Kumar Yadav | [Read More](https://medium.com/p/d6b1b7569074) |
+| Fri, 27 Jun 2025 20:54:16 GMT | My 5-Day Dive into Ethical Hacking: A Beginner’s Guide from Hands-On Experience | Matthew Christian Wamboga | [Read More](https://medium.com/p/8d4df381be15) |
+| Fri, 27 Jun 2025 20:52:39 GMT | The Core Principles of Cybersecurity: Safeguarding the Digital World | Ahumuza Williams Ashaba | [Read More](https://medium.com/p/ea67cd051549) |
+| Fri, 27 Jun 2025 20:52:17 GMT | How to Run Atomic Red Team on Linux and Automate Attack Simulations with Velociraptor | SOCFortress | [Read More](https://medium.com/p/d4b52b05721b) |
+| Fri, 27 Jun 2025 20:45:30 GMT | Defensive Security Intro- TryHackMe Cheat Sheet | Hansi Bandara | [Read More](https://medium.com/p/f74d4a2a3585) |
 | Fri, 27 Jun 2025 20:31:25 GMT | Is Security Worth It? The Value of Being Prepared | Jan Kneissler | [Read More](https://medium.com/p/a05d09ac0387) |
 | Fri, 27 Jun 2025 19:56:12 GMT | Training Update for GSEC — aaronwdejong.net | Aaron DeJong | [Read More](https://medium.com/p/8106f96cfc86) |
 | Fri, 27 Jun 2025 19:38:21 GMT | Unpacking GlobeImposter Ransomware With x32dbg | Mustapha Ait Ichou | [Read More](https://medium.com/p/085fa68e83b2) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 14:17:52 GMT | How Hackers can Hijack your RDP Session and Steal Password | Bendjaballah Zine Eddine | [Read More](https://medium.com/p/dcc16ce33f97) |
 | Fri, 27 Jun 2025 14:16:01 GMT | Strategic Vulnerability Management: Beyond Patch Tuesday Panic | Ola Lawrence O | [Read More](https://medium.com/p/308e8efe3e9e) |
 | Fri, 27 Jun 2025 14:14:39 GMT | The Bruise Learned to Reflect Light — Anomaly #8 | Raymond Brunell | [Read More](https://medium.com/p/1a59d5d118c0) |
-| Fri, 27 Jun 2025 14:12:01 GMT | My Secret Facebook Bug Hunting Tricks Exposed | Ibtissam hammadi | [Read More](https://medium.com/p/eb00bcb46d89) |
-| Fri, 27 Jun 2025 14:10:47 GMT | A Clean File Upload Experience in React: react-dropzone and Toast Notifications | Patricia Njoroge | [Read More](https://medium.com/p/4bdc84b38741) |
-| Fri, 27 Jun 2025 14:03:31 GMT | Dumping and Cracking Hashes--Impacket-Srcretsdump--SecretsDump.py--Hashcat--AD | Muhammadhuzaifa | [Read More](https://medium.com/p/eeb275c905e9) |
-| Fri, 27 Jun 2025 14:03:05 GMT | ️‍♂️ Enumeration Nedir? Yeni Başlayanlar İçin Kapsamlı Bir Rehber | Mert icdem | [Read More](https://medium.com/p/9d781b8c7797) |
-| Fri, 27 Jun 2025 14:02:54 GMT | UX in Agentic AI Systems | Animesh Srivastava | [Read More](https://medium.com/p/0b8be03bbdb2) |
-| Fri, 27 Jun 2025 14:02:47 GMT | e‑Zero FIR: India’s New Weapon Against High‑Value Cyber Fraud | Hacker news 07 | [Read More](https://medium.com/p/5231471b2dae) |
-| Fri, 27 Jun 2025 13:59:43 GMT | Kerberoasting My Way Through CRTP: A Practical Review | Mahmoud Elhendy | [Read More](https://medium.com/p/490a4bb13041) |
