@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 01:43:15 GMT | NoSQL Injection: MongoDB and Cassandra Security Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/9cd258679221) |
+| Fri, 27 Jun 2025 01:22:31 GMT | My information is mine to keep! | SAYCOIN | [Read More](https://medium.com/p/191611370342) |
+| Fri, 27 Jun 2025 01:11:56 GMT | The Male Vulnerability Myth | Traver Boehm | [Read More](https://medium.com/p/27b6c8b86a19) |
+| Fri, 27 Jun 2025 01:03:31 GMT | Troubleshooting CORS Errors with AWS API Gateway | Nolan Donovan | [Read More](https://medium.com/p/e212c85deea5) |
+| Fri, 27 Jun 2025 01:02:41 GMT | Part 1: Project Counterstrike: Stopping My Own Keylogger | Shaun Fulton | [Read More](https://medium.com/p/b4b268e94aaa) |
+| Fri, 27 Jun 2025 00:54:55 GMT | Bypass Root Detection — Flutter Jailbreak Detection | Rayhan Hanaputra | [Read More](https://medium.com/p/65f1dbb9cbf3) |
+| Fri, 27 Jun 2025 00:48:47 GMT | Hackers Found Your Docker. Then They Found Your Wallet. | Cyber-AppSec | [Read More](https://medium.com/p/fdbcf1f32d32) |
+| Fri, 27 Jun 2025 00:44:51 GMT | Pat Adamson Store | TP Mkholo Lonsundvu | [Read More](https://medium.com/p/5514151d6fd4) |
+| Fri, 27 Jun 2025 00:41:40 GMT | Zero Trust Architecture for Data | D Alvarez | [Read More](https://medium.com/p/b87535185a8f) |
+| Fri, 27 Jun 2025 00:35:06 GMT | Live Red Team Simulation of Global Incident Response: Inside the Elite Cyber Wargame | A-STAR7_DOCTOR | [Read More](https://medium.com/p/4a431326c14b) |
+| Fri, 27 Jun 2025 00:13:17 GMT | MY First Bounty - Pre Account take Over via respon manipulation- Pre ATO | NERVHYM | [Read More](https://medium.com/p/ababd7ca46aa) |
+| Fri, 27 Jun 2025 00:08:42 GMT | Addressing Container Image Vulnerabilities in SAS Viya on AWS EKS | Bran Kop, Engineer @Conformal, Founder of aiHQ | [Read More](https://medium.com/p/1aea674fdea7) |
+| Thu, 26 Jun 2025 23:57:49 GMT | AI vs AI in Cybersecurity: The Digital Arms Race Between Attackers and Defenders | Muhammad Ali | [Read More](https://medium.com/p/b4c1d12f45b5) |
+| Thu, 26 Jun 2025 23:46:33 GMT | Responsible Disclosure: Publicly Leaked Credentials Found for peterdo.net | Omar | [Read More](https://medium.com/p/662019e605c6) |
+| Thu, 26 Jun 2025 23:40:16 GMT | AI Prions: A New Frontier in AI Security | zapper20 | [Read More](https://medium.com/p/41c76bb0eb5c) |
+| Thu, 26 Jun 2025 23:39:41 GMT | Accusing Spirits and the Battle for the Signal Line: How the Enemy Stages a Spiritual Coup | Jared "Daniel" Weisinger | [Read More](https://medium.com/p/aaca70f32057) |
 | Thu, 26 Jun 2025 23:38:57 GMT | Expirience The Best Hacking | Norman Meg | [Read More](https://medium.com/p/7b5babab2dbe) |
+| Thu, 26 Jun 2025 23:32:16 GMT | Software Firewalls by Palo Alto Networks: A Comprehensive Guide | Juara IT Solutions | [Read More](https://medium.com/p/5a51fa4c8c9e) |
 | Thu, 26 Jun 2025 23:23:37 GMT | Why Do My AWS SES DKIM Records Look Empty | Harry Zhou | [Read More](https://medium.com/p/d9088f515ca3) |
 | Thu, 26 Jun 2025 23:11:39 GMT | CSCPSUT MetaCTF25 Qualifications Writeups | Qais Hammad | [Read More](https://medium.com/p/1974e9a7f03e) |
 | Thu, 26 Jun 2025 23:02:27 GMT | Mastering the Art of Linux | An0n | [Read More](https://medium.com/p/16f6a345f38e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 17:28:21 GMT | When You Find the Right One | Kaleigh Dugan | [Read More](https://medium.com/p/01e223544e3b) |
 | Thu, 26 Jun 2025 17:22:34 GMT | Nato mot Ryssland: den nya avskräckningsarkitekturen | Doldinblick | [Read More](https://medium.com/p/d287726c2e46) |
 | Thu, 26 Jun 2025 17:21:55 GMT | Breaking into “Down” on Hack The Box with SSRF and Command Injection ⬇️ | WireHawk Security | [Read More](https://medium.com/p/3d31f033a115) |
-| Thu, 26 Jun 2025 17:19:52 GMT | How AI Is Learning to Read Your Personality | Hafizbilaltariq | [Read More](https://medium.com/p/9a11bf08f1a7) |
-| Thu, 26 Jun 2025 17:18:09 GMT | Hidden Language Model | Tomer Wetzler | [Read More](https://medium.com/p/692620309d60) |
-| Thu, 26 Jun 2025 17:10:43 GMT | Write-up CTF: Membongkar Steganografi dari Barcode, Suara, hingga Invinsible Text | Ariq | [Read More](https://medium.com/p/d2daafedd438) |
-| Thu, 26 Jun 2025 17:09:57 GMT | CTF Write-up: Analisis Keamanan & Privilege Escalation | Ariq | [Read More](https://medium.com/p/400bc7e67538) |
-| Thu, 26 Jun 2025 17:08:27 GMT | Audit vs. Assessment: Why the Difference Matters in GRC | Brittney Ginther | [Read More](https://medium.com/p/ef9c77a66393) |
-| Thu, 26 Jun 2025 17:02:48 GMT | Using File Requests for Secure Document Uploads to SharePoint by External Users | John Adegbite | [Read More](https://medium.com/p/abc39a62a6c9) |
-| Thu, 26 Jun 2025 17:00:41 GMT | How To — OpenSSL Overview | Kiranms | [Read More](https://medium.com/p/795d07407be9) |
-| Thu, 26 Jun 2025 17:00:36 GMT | African Banks Under Siege: Open‐Source Tools Fueling a New Wave of Cyberattacks | Chetan Seripally | [Read More](https://medium.com/p/b204b8402bb2) |
-| Thu, 26 Jun 2025 16:55:10 GMT | Navigating the Known and the Unknowns of Emerging Cyber Risks | Dileep R A Raj | [Read More](https://medium.com/p/ba8a822cff50) |
-| Thu, 26 Jun 2025 16:52:44 GMT | AI Daily by Techsutra — June 26, 2025 | TechNaut - TechbyAnk - Anktechsol.com | [Read More](https://medium.com/p/7dfc7010838d) |
-| Thu, 26 Jun 2025 16:51:44 GMT | Avoiding the Trap of Investment and Recovery Scams | Kfairleycarolyn | [Read More](https://medium.com/p/78ef7cf097d0) |
-| Thu, 26 Jun 2025 16:43:48 GMT | The Complexity of Recovering Stolen Funds Across Borders | Amanda T. Lott | [Read More](https://medium.com/p/13fc62d6a561) |
-| Thu, 26 Jun 2025 16:32:40 GMT | Kali Linux for Beginners: Build Your Own Cybersecurity Lab | Joy Saha | [Read More](https://medium.com/p/e77b5bcd4ef9) |
-| Thu, 26 Jun 2025 16:31:37 GMT | What Are Roblox Script Executors? Everything You Need to Know | SafeAeon Inc. | [Read More](https://medium.com/p/f6128ecc54d7) |
-| Thu, 26 Jun 2025 16:31:23 GMT | Day 33: The Process API | Nile Okomo | [Read More](https://medium.com/p/5c2e40d176bc) |
-| Thu, 26 Jun 2025 16:28:05 GMT | Quick Cybersecurity Guide: Vulnerability, Exploit, Payload, Threat, CVE, and CVSS | Iqrajawad | [Read More](https://medium.com/p/2639f641ab1c) |
-| Thu, 26 Jun 2025 16:27:15 GMT | The AI Gap: Why 90% of Organizations Are Unprepared for the Next | Chetan Seripally | [Read More](https://medium.com/p/131518a412bc) |
