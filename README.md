@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 14:17:52 GMT | How Hackers can Hijack your RDP Session and Steal Password | Bendjaballah Zine Eddine | [Read More](https://medium.com/p/dcc16ce33f97) |
+| Fri, 27 Jun 2025 14:16:01 GMT | Strategic Vulnerability Management: Beyond Patch Tuesday Panic | Ola Lawrence O | [Read More](https://medium.com/p/308e8efe3e9e) |
+| Fri, 27 Jun 2025 14:12:01 GMT | My Secret Facebook Bug Hunting Tricks Exposed | Ibtissam hammadi | [Read More](https://medium.com/p/eb00bcb46d89) |
+| Fri, 27 Jun 2025 14:10:47 GMT | A Clean File Upload Experience in React: react-dropzone and Toast Notifications | Patricia Njoroge | [Read More](https://medium.com/p/4bdc84b38741) |
+| Fri, 27 Jun 2025 14:03:31 GMT | Dumping and Cracking Hashes--Impacket-Srcretsdump--SecretsDump.py--Hashcat--AD | Muhammadhuzaifa | [Read More](https://medium.com/p/eeb275c905e9) |
+| Fri, 27 Jun 2025 14:03:05 GMT | ️‍♂️ Enumeration Nedir? Yeni Başlayanlar İçin Kapsamlı Bir Rehber | Mert icdem | [Read More](https://medium.com/p/9d781b8c7797) |
+| Fri, 27 Jun 2025 14:02:54 GMT | UX in Agentic AI Systems | Animesh Srivastava | [Read More](https://medium.com/p/0b8be03bbdb2) |
+| Fri, 27 Jun 2025 14:02:47 GMT | e‑Zero FIR: India’s New Weapon Against High‑Value Cyber Fraud | Hacker news 07 | [Read More](https://medium.com/p/5231471b2dae) |
+| Fri, 27 Jun 2025 13:59:43 GMT | Kerberoasting My Way Through CRTP: A Practical Review | Mahmoud Elhendy | [Read More](https://medium.com/p/490a4bb13041) |
+| Fri, 27 Jun 2025 13:59:38 GMT | Cyber Briefing: 2025.06.27 | CyberMaterial | [Read More](https://medium.com/p/928a727aebf6) |
+| Fri, 27 Jun 2025 13:54:13 GMT | A Simple Guide to Information Security and Cybersecurity | Khushi Verma | [Read More](https://medium.com/p/a151cc7395f4) |
+| Fri, 27 Jun 2025 13:50:35 GMT | TryHackMe — PT1 Review + Tips | Srijan Adk | [Read More](https://medium.com/p/f6819da6e05f) |
+| Fri, 27 Jun 2025 13:46:46 GMT | Navigating the Digital Battlefield: A Beginner’s Guide to Cybersecurity in 2025 | Agume _Kenneth_ | [Read More](https://medium.com/p/acd7dd31f67d) |
+| Fri, 27 Jun 2025 13:35:20 GMT | The Beauty in Brokenness | Andra on the Page | [Read More](https://medium.com/p/c71367ddd989) |
 | Fri, 27 Jun 2025 13:21:45 GMT | 2 Star Security Door Handle: Boost Your Home’s First Line of Defense | Lock Fitter | [Read More](https://medium.com/p/ab83f42fea55) |
 | Fri, 27 Jun 2025 13:21:04 GMT | Information Technology Colleges in Bangalore | Jahnavi Desai | [Read More](https://medium.com/p/aaadd0c27ca2) |
 | Fri, 27 Jun 2025 13:12:12 GMT | Top 10 IT Trends That Will Shape the Future of Technology in 2025 | DigitalConfex | [Read More](https://medium.com/p/28e651f02217) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Jun 2025 09:25:32 GMT | VerifyVASP Renews SOC 2 Type II Assessment | VerifyVASP | [Read More](https://medium.com/p/e8dc70d06a75) |
 | Fri, 27 Jun 2025 09:23:47 GMT | How a Simple Bug in C Code Crippled AT&T’s Network | Aditya Bhuyan | [Read More](https://medium.com/p/0f3a158a25f3) |
 | Fri, 27 Jun 2025 09:23:05 GMT | I Didn’t Know My Everyday Habits Hid My Mental Struggle | Aamil_MS | [Read More](https://medium.com/p/0c1c0f9128fb) |
-| Fri, 27 Jun 2025 09:22:05 GMT | Git commands for Security Assessments | Bharath | [Read More](https://medium.com/p/323ce1595443) |
-| Fri, 27 Jun 2025 09:19:35 GMT | The Ultimate Guide to Network Monitoring Tools and Licenses | Arpaliz | [Read More](https://medium.com/p/d8d77e891f6b) |
-| Fri, 27 Jun 2025 09:17:09 GMT | Why We Must Ban Russian Soldiers | Brian Iselin | [Read More](https://medium.com/p/92d7824a4d51) |
-| Fri, 27 Jun 2025 09:15:25 GMT | The Growing Importance of Electronic Security Solutions and Facility Management in India | Ciss India | [Read More](https://medium.com/p/b351425b384e) |
-| Fri, 27 Jun 2025 09:07:53 GMT | Cybersecurity Course in Kochi | Adithyadev | [Read More](https://medium.com/p/43b61261c2f9) |
-| Fri, 27 Jun 2025 09:04:10 GMT | The Essence of My Love: A Keeper of the Flame | Louie Writes | [Read More](https://medium.com/p/36795cedcfa8) |
-| Fri, 27 Jun 2025 08:57:07 GMT | Dynamics 365 in the Dark: The Cloudy Conspiracy About Performance and Transparency | Namir Sagheenanajar | [Read More](https://medium.com/p/24c035755ddb) |
-| Fri, 27 Jun 2025 08:54:02 GMT | The 5 Most Dangerous Commands That Every Attacker Uses — and How to Detect Them (With Splunk… | Paritosh | [Read More](https://medium.com/p/b7f46ccd0970) |
-| Fri, 27 Jun 2025 08:52:08 GMT | Write Up Bola - Dockerlabs.es | APS88 | [Read More](https://medium.com/p/2371f4bf9ab5) |
-| Fri, 27 Jun 2025 08:48:42 GMT | Transforming Agricultural Information Access for African Smallholder Farmers Through Mobile… | Aliuiyanuoluwa | [Read More](https://medium.com/p/98b8904676a3) |
-| Fri, 27 Jun 2025 08:47:37 GMT | Securing GenAI: Vol 5 — Model deployment and change management | Leapfrog Technology | [Read More](https://medium.com/p/12a83289b2ef) |
-| Fri, 27 Jun 2025 08:46:21 GMT | Mindful Steps | Abbas Mehran | [Read More](https://medium.com/p/6754b4e2e94a) |
-| Fri, 27 Jun 2025 08:45:17 GMT | John The Ripper: Password Cracking Tool | Uliya Ashfaque Ali | [Read More](https://medium.com/p/b703415b4cfb) |
-| Fri, 27 Jun 2025 08:42:19 GMT | How to use IP address to improve account security: a practical guide from login to risk control | DataVerse | [Read More](https://medium.com/p/52e8c2ca0b78) |
