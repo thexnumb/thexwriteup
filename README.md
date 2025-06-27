@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Jun 2025 03:02:16 GMT | Turn Your Insecurities Into Superpowers | Dr. Alia Omar Bahanshal | [Read More](https://medium.com/p/2eea4ef82095) |
+| Fri, 27 Jun 2025 03:01:21 GMT | The Web’s Safety Belt: HTTP vs HTTPS Explained + What an API Endpoint Is | Sweeton | [Read More](https://medium.com/p/23b2682c1d8f) |
+| Fri, 27 Jun 2025 02:57:33 GMT | Introducing the Concept of “Computational Prions”: A New Frontier in Systemic Exploits | zapper20 | [Read More](https://medium.com/p/c89f85a23152) |
+| Fri, 27 Jun 2025 02:56:28 GMT | TryHackMe: Industrial Intrusion — Writeup | Ansul Kotadia | [Read More](https://medium.com/p/7822dea8f7ca) |
+| Fri, 27 Jun 2025 02:56:12 GMT | The Things Men Wish They Could Say — But Don’t | Rendanup | [Read More](https://medium.com/p/ac081020c9e3) |
+| Fri, 27 Jun 2025 02:36:19 GMT | Industrial Intrusion Breach — THM CTF - Calista | Calista | [Read More](https://medium.com/p/058be77f38fa) |
+| Fri, 27 Jun 2025 02:30:04 GMT | Computer Networking | Amit Soni | [Read More](https://medium.com/p/6749dff84781) |
+| Fri, 27 Jun 2025 02:29:47 GMT | Graph Database Security: Neo4j and Amazon Neptune Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/21b16de92a4e) |
+| Fri, 27 Jun 2025 02:26:24 GMT | Cloud Database Security: AWS RDS vs Azure SQL vs Google Cloud SQL | Rizqi Mulki | [Read More](https://medium.com/p/b430d5027dfe) |
+| Fri, 27 Jun 2025 02:24:06 GMT | Database Activity Monitoring (DAM): Real-Time Threat Detection | Rizqi Mulki | [Read More](https://medium.com/p/02849a201c56) |
+| Fri, 27 Jun 2025 02:16:45 GMT | ElasticSearch Security: Securing Your Search Analytics Data | Rizqi Mulki | [Read More](https://medium.com/p/e93a48dbcd1b) |
+| Fri, 27 Jun 2025 02:09:08 GMT | MySQL 8.0 Security Features: Transparent Data Encryption Setup | Rizqi Mulki | [Read More](https://medium.com/p/7960f6eca214) |
+| Fri, 27 Jun 2025 02:05:41 GMT | PostgreSQL Security Hardening: Row-Level Security Implementation | Rizqi Mulki | [Read More](https://medium.com/p/441f795aa323) |
+| Fri, 27 Jun 2025 01:58:27 GMT | Redis Security: Preventing Unauthorized Access and Data Leakage | Rizqi Mulki | [Read More](https://medium.com/p/46278d4f2bb3) |
 | Fri, 27 Jun 2025 01:43:15 GMT | NoSQL Injection: MongoDB and Cassandra Security Vulnerabilities | Rizqi Mulki | [Read More](https://medium.com/p/9cd258679221) |
 | Fri, 27 Jun 2025 01:22:31 GMT | My information is mine to keep! | SAYCOIN | [Read More](https://medium.com/p/191611370342) |
 | Fri, 27 Jun 2025 01:11:56 GMT | The Male Vulnerability Myth | Traver Boehm | [Read More](https://medium.com/p/27b6c8b86a19) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Jun 2025 18:20:23 GMT | Everything You Need to Know About SOAP & How Pentesters Exploit Them? | Root-X-Admin | [Read More](https://medium.com/p/71f863dd228f) |
 | Thu, 26 Jun 2025 18:19:59 GMT | GetSimple - HTB Walkthrough | Yagan120gb | [Read More](https://medium.com/p/639bce352f2a) |
 | Thu, 26 Jun 2025 18:05:02 GMT | “Website Got Attacked!?” — How CSP Can Protect You | Bhupesh kumar | [Read More](https://medium.com/p/89981d28bb0f) |
-| Thu, 26 Jun 2025 18:04:16 GMT | Open Waters | Octavia Inkwell | [Read More](https://medium.com/p/810f9bfde30f) |
-| Thu, 26 Jun 2025 18:00:13 GMT | How the Internet Works — Part II | Baraaemad | [Read More](https://medium.com/p/af368d744131) |
-| Thu, 26 Jun 2025 18:00:05 GMT | Your digital wallet is probably leaking money (and here’s how to find out) | Ilebarrionuevo | [Read More](https://medium.com/p/300f04aa95e5) |
-| Thu, 26 Jun 2025 17:50:54 GMT | I want… | Imisi_lifewriter - I write to give life.✍ | [Read More](https://medium.com/p/64bb24e01bd3) |
-| Thu, 26 Jun 2025 17:50:11 GMT | Why Video Game Enemies Are Getting Smarter (and Harder to Beat) | Payaam Raza | [Read More](https://medium.com/p/71f03d4dc68a) |
-| Thu, 26 Jun 2025 17:43:25 GMT | Why You’re Not Finding Any Vulnerabilities — And How to Fix That | Nigam | [Read More](https://medium.com/p/69d0a2916d7d) |
-| Thu, 26 Jun 2025 17:41:42 GMT | Is AI Becoming must in CyberSecurity? | Vinayak Ghadi | [Read More](https://medium.com/p/31b21d44ce7d) |
-| Thu, 26 Jun 2025 17:39:46 GMT | Can Memes hack you? | Javier Calderon Jr | [Read More](https://medium.com/p/f4a91a1542dc) |
-| Thu, 26 Jun 2025 17:38:37 GMT | SQL Injection (SQLi): A Comprehensive Guide | Meravytes | [Read More](https://medium.com/p/dfca9a7426dc) |
-| Thu, 26 Jun 2025 17:36:32 GMT | Securing IoT Devices: Why Your Fridge is a Liability | Aj | [Read More](https://medium.com/p/eff61463325a) |
-| Thu, 26 Jun 2025 17:28:45 GMT | Beyond the Laptop: Why OT Cybersecurity is Non-Negotiable for SMBs | IT_Engineer | [Read More](https://medium.com/p/4a47ef4932b4) |
-| Thu, 26 Jun 2025 17:28:21 GMT | When You Find the Right One | Kaleigh Dugan | [Read More](https://medium.com/p/01e223544e3b) |
-| Thu, 26 Jun 2025 17:22:34 GMT | Nato mot Ryssland: den nya avskräckningsarkitekturen | Doldinblick | [Read More](https://medium.com/p/d287726c2e46) |
-| Thu, 26 Jun 2025 17:21:55 GMT | Breaking into “Down” on Hack The Box with SSRF and Command Injection ⬇️ | WireHawk Security | [Read More](https://medium.com/p/3d31f033a115) |
